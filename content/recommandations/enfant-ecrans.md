@@ -21,7 +21,8 @@ imageSrc = "Illustration de l'exposition aux écrans des enfants par studio4rt /
 
 {{%article-summary%}}
 
-Pas d'écrans avant 3 ans, sauf accompagné occasionnel
+- Pas d'écrans avant 3 ans, sauf accompagné occasionnel
+- [Fiche information pour les parents](https://lecmg.fr/wp-content/uploads/2023/03/Kit-addictions-CMG-Ecran.pdf) (*CMG*)
 
 {{%/article-summary%}}
 {{%collapse "Message aux parents" %}}

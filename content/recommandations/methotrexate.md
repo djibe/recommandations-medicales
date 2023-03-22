@@ -157,7 +157,7 @@ La supplémentation en acide folique (vitamine B9) réduit les effets indésirab
 - [ANSM. Méthotrexate par voie orale. 2022.](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-brochure-professionnel-de-sante-version-1-2021-03.pdf)
 - Prescrire Redaction. Méthotrexate. 2022.
 - [ANSM. Médicaments à base de méthotrexate - Recommandations visant à éviter les erreurs de prise potentiellement fatales lors de l'utilisation du méthotrexate dans le traitement des maladies inflammatoires - Lettre aux professionnels de santé. 09/04/2020.](https://www.ansm.sante.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Medicaments-a-base-de-methotrexate-Recommandations-visant-a-eviter-les-erreurs-de-prise-potentiellement-fatales-lors-de-l-utilisation-du-methotrexate-dans-le-traitement-des-maladies-inflammatoires-Lettre-aux-professionnels-de-sante)
-- [Abitbol V., SNFGE. Méthotrexate dans les MICI : bilan initial et suivi. 2019. (PDF)](https://www.snfge.org/download/file/fid/3662)
+- [Abitbol V., SNFGE. Méthotrexate dans les MICI : bilan initial et suivi. 2019. (PDF)](https://biorecos.fr/wp-content/uploads/2019/09/M%C3%A9thotrexate-dans-les-MICI-bilan-initial-et-suivi_SNFGE_2019.pdf)
 - [GETAID. Méthotrexate.](https://www.getaid.org/fiches-medicament/le-methotrexate-ledertrexate-methotrexate-metoject-nordimet-novatrex)
 - [CRI. Comment optimiser l'efficacité du méthotrexate ? (PDF)](http://www.cri-net.com/ckfinder/userfiles/files/fiches-pratiques/MTX-Dec2016/MTX_02.pdf)
 - [HAS. Commission de la transparence. 20/11/2013. (PDF)](https://www.has-sante.fr/upload/docs/evamed/CT-12801_NOVATREX_PIS_RI_Avis1_CT12801.pdf)

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2023-01-26"
+lastmod = "2023-03-22"
 specialites = ["ORL"]
 annees = "2022"
 sources = ["HAS", "SPILF"]
@@ -234,7 +234,7 @@ graph TB
 accTitle: Prise en charge de l'angine selon le tableau clinique d'après SPILF/HAS 2016 et HAS 2021
   angine[Angine érythémateuse<br>ou érythémato-pultacée] --> moins3("&lt; 3 ans") --> viral(Viral)
   style angine stroke:#4150f5, stroke-width:1px
-    angine --> 314ans(3 à 14 ans) --> TDR(TDR) -- "Positif" --> ATB("<b>Antibiothérapie 6 jours</b><br>—<br>Adulte: amoxicilline 1g x 2/j<br>Enfant: amox 25 mg/kg x 2/j")
+    angine --> 314ans(3 à 14 ans) --> TDR(TDR) -- "Positif" --> ATB("<b>Antibiothérapie 6 jours</b><br>—<br>Adulte: amoxicilline 1g x 2/j<br>Enfant: amox 25 mg/kg x 2/j<br>+ éviction 48 heures")
       TDR -- Négatif --> viral
     angine --> 15plus("≥ 15 ans") --> score(Mac Isaac) -- "≥ 2" --> ATB
       score -- "&lt; 2" --> viral

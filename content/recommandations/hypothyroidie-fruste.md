@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-21T19:40:41+02:00"
 publishdate = "2020-07-21"
-lastmod = "2023-03-17"
+lastmod = "2023-03-22"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["HAS", "ANSM"]
@@ -21,11 +21,14 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Définition de l'hypothyroïdie fruste: TSH > borne supérieure du laboratoire avec T4L dans l'intervalle du laboratoire
+- Définition de l'hypothyroïdie fruste: TSH supérieure à la borne supérieure du laboratoire avec T4L dans l'intervalle du laboratoire
 - +60 ans: borne supérieure de TSH = décennie du patient (ex. 8 mUI/L de 80 à 89 ans)
-- Indications au traitement par lévothyroxine (LT4) pour une hypothyroïdie fruste selon l'intensité des symptômes et:  
-  TSH > 10 mUI/L (> 20 si +65 ans et avis entre 10 et 20), anticorps anti-TPO positifs, signes cliniques d'hypothyroïdie, goitre, antécédents cardiovasculaires, facteurs de risque cardiovasculaire
-- +65 ans: TSH à 3-6 mois puis tous les 6 mois puis annuelle
+- Indications au traitement par lévothyroxine (LT4) pour une hypothyroïdie fruste selon l'intensité des symptômes et un élément parmi:  
+  TSH > 10 mUI/L (> 20 si +65 ans et avis entre 10 et 20), anticorps anti-TPO positifs, signes cliniques d'hypothyroïdie, goitre, antécédents cardiovasculaires ou facteurs de risque cardiovasculaire.
+- En l'absence de traitement, contrôle de la TSH:
+  - À 1 an puis tous les 2-3 ans
+  - Si +65 ans: TSH à 3-6 mois puis tous les 6 mois puis annuelle
+  - Annuel en antécédent de traitement thyroïdien chirurgical ou radioactif
 - Critères très différents pendant la grossesse: voir la section dédiée du chapitre [hypothyroïdie avérée]({{< relref "hypothyroidie.md" >}})
 - On dit << fruste >> et non << frustre >> (qui n'existe pas, [Académie française](https://www.dictionnaire-academie.fr/article/A9F1803))
 
@@ -73,7 +76,7 @@ Pas de dépistage de l'hypothyroïdie en population générale.
 
 ### Indications au traitement par lévothyroxine
 
-Prise en charge de l'hypothyroïdie fruste en cas de:
+Prise en charge substitutive de l'hypothyroïdie fruste en cas de:
 
 - TSH > 10 mUI/L  
   \> 20 si +65 ans et avis entre 10 et 20
@@ -82,21 +85,29 @@ Prise en charge de l'hypothyroïdie fruste en cas de:
 - Goitre
 - Antécédents cardiovasculaires ou facteurs de risque cardiovasculaire
 
-Débuter la lévothyroxine à posologie basse, croissante par paliers jusqu'à obtenir une TSH normale (voir la [fiche hypothyroïdie]({{< relref "hypothyroidie.md" >}})).
+Débuter la lévothyroxine à 25-50 µg/j, avec paliers de 12 µg toutes les 6-8 semaines (voir la [fiche hypothyroïdie]({{< relref "hypothyroidie.md" >}})).
 
-Dans les autres cas, surveillance à 1 an (3-6 mois puis tous les 6 mois si +65 ans) puis tous les 2-3 ans si TSH stable (annuelle si contexte particulier ou +65 ans).
+En l'absence d'amélioration clinique malgré une TSH normalisée sur 3-4 mois, l'arrêt du traitement peut se discuter.
+
+{{%info%}}
+Dans les autres cas, surveillance de la TSH:
+
+- À 1 an puis tous les 2-3 ans si TSH stable
+- Si +65 ans: à 3-6 mois puis tous les 6 mois en tous les ans si stable
+- Annuelle en cas d'antécédent de traitement thyroïdien chirurgical ou radioactif
+{{%/info%}}
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant une hypothyroïdie fruste" "show" %}}
+{{%collapse "Prise en charge de l'hypothyroïdie fruste" "show" %}}
 
 {{< mermaid title="Prise en charge de l'hypothyroïdie fruste. Dr JB Fron d'après HAS 2022" >}}
 graph TB
-  decouverte["TSH augmentée<br>chez l'adulte"] -- Contrôle à 6 semaines + T4L--> TSH["TSH &gt; borne supérieure<br>(corrigée chez le +60 ans)"] -- T4L normale --> hTFruste(Hypothyroïdie fruste) --> anomalies("<b>Anomalies?</b><br>—<br>- TSH &gt; 10 mUI/L (20 si +65 ans)<br>(+65 ans: avis entre 10 et 20)<br>- Anticorps anti-TPO+<br>- Clinique d'hypothyroïdie<br>- Goitre<br>- Maladie ou facteurs de risque<br>cardiovasculaire") -- Oui --> traitement(Traitement par lévothyroxine)
+  decouverte["TSH augmentée<br>chez l'adulte"] -- Contrôle à 6 semaines + T4L --> TSH["TSH &gt; borne supérieure<br>(corrigée chez le +60 ans)"] -- T4L normale --> hTFruste(Hypothyroïdie fruste) --> anomalies("<b>Anomalies?</b><br>—<br>- TSH &gt; 10 mUI/L (20 si +65 ans)<br>(+65 ans: avis entre 10 et 20)<br>- Anticorps anti-TPO+<br>- Clinique d'hypothyroïdie<br>- Goitre<br>- Maladie ou facteurs de risque<br>cardiovasculaire") -- Oui --> traitement("Traitement par lévothyroxine:<br>débuter à 25-50 µg<br>et suivi classique")
   click traitement "{{< relref "hypothyroidie.md" >}}" "Ouvrir dans un onglet" _blank
   style decouverte stroke:#4150f5, stroke-width:1px
-  TSH -- T4L basse --> hT(Hypothyroïdie avérée)
+  TSH -- T4L basse --> hT("Hypothyroïdie avérée")
     click hT "{{< relref "hypothyroidie.md" >}}" "Ouvrir dans un onglet" _blank
-    anomalies -- Non --> surveillance("Surveillance à 6 mois<br>puis tous les 1-3 ans<br>selon le contexte")
+    anomalies -- Non --> surveillance("- Surveillance à 1 an<br>puis tous les 2-3 ans<br>- Rapprochée si +65 ans<br>ou chirurgie/irradiation thyroïdienne")
   decouverte -- "TSH &gt; 10<br>et T4L &lt; borne inf." --> hT
 {{< /mermaid >}}
 

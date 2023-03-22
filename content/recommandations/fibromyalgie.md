@@ -6,7 +6,7 @@ synonyms = ["Syndrome fibromyalgique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-03-09T08:48:47+01:00"
 publishdate = "2023-03-20"
-lastmod = "2023-03-20"
+lastmod = "2023-03-22"
 specialites = ["rhumatologie"]
 annees = "2020"
 sources = ["Inserm", "EULAR"]
@@ -109,7 +109,7 @@ Région 5
 
 ### Score de l'échelle de sévérité des symptômes (SS)
 
-Pour chaque symptôme, coter la gravité de 0 (aucun problème) à 3 (sévères, problèmes continus avec impact important sur la vie) et additionner les points (0-12):
+Pour chaque symptôme, coter la gravité de 0 à 3 et additionner les points (total de 0 à 12):
 
 - Fatigue (0-3)
 - Se réveiller fatigué (sommeil peu réparateur, 0-3)
@@ -119,9 +119,12 @@ Pour chaque symptôme, coter la gravité de 0 (aucun problème) à 3 (sévères,
   - Douleurs ou crampes abdominales (0-1)
   - Dépression (0-1)
 
-> 1: Problèmes mineurs ou légers, habituellement légers ou intermittents, 2: modérés ; problèmes importants ; survenant fréquemment et/ou à un niveau modéré
+> 0: Aucun problème  
+1: Problèmes mineurs ou légers, habituellement légers ou intermittents  
+2: modérés, problèmes importants, survenant fréquemment et/ou à un niveau modéré  
+3: sévères, problèmes continus avec impact important sur la vie
 
-La somme de l'*Index de douleurs diffuses* et de l'*échelle de sévérité des symptômes* définit l'**échelle de sévérité de la fibromyalgie** (FS, 0-31).
+La somme de l'*Index de douleurs diffuses* et de l'*échelle de sévérité des symptômes* définit l'**échelle de sévérité de la fibromyalgie** (FS, total de 0 à 31 points).
 
 > << il n'y a pas de classification consensuelle de la sévérité de la fibromyalgie à ce jour >> (*Inserm 2020*)
 
@@ -134,7 +137,7 @@ Symptômes principaux évocateurs de fibromyalgie:
 
 1. Douleurs chroniques (≥ 3 mois) diffuses  
   Principalement musculo-squelettiques (arthralgies, myalgies, douleurs tendineuses). Décrites comme "dans tout le corps" ou migratrices.
-2. Allodynie  
+1. Allodynie  
   Douleur déclenchée pour un stimulus indolore pour la population générale.
 
 Avis spécialisé si nécessaire (doute diagnostique, échec des traitements): rhumatologue, neurologue, médecine interne.
@@ -233,7 +236,7 @@ Doses quotidiennes habituelles pour le traitement de la fibromyalgie pour un ess
 2. [Duloxétine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60457719&typedoc=R) 30-60 mg (IRSNA)
 3. [Milnacipran](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60430095&typedoc=R) 5-100 mg (IRSNA)
 
-L'[amitriptyline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68969066&typedoc=R) 10-25 mg (tricyclique, *EULAR*) est également très utilisé quoiqu'avec un niveau de preuve moindre.
+L'[amitriptyline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68969066&typedoc=R) 10-25 mg (tricyclique, *EULAR*) est également très utilisée quoiqu'avec un niveau de preuve moindre.
 
 Les ISRS (citalopram, fluoxétine, paroxétine) sont utilisés uniquement en cas de dépression avérée.
 
@@ -280,7 +283,7 @@ graph TB
 
 ### À lire
 
-- ACR 2016
+- [Wolfe F et al. 2016 Revisions to the 2010/2011 fibromyalgia diagnostic criteria. Semin Arthritis Rheum. 2016.](https://www.sciencedirect.com/science/article/abs/pii/S0049017216302086)
 - [HAS, SFETD. Douleur chronique : reconnaître le syndrome douloureux chronique, l'évaluer et orienter le patient. 2008.](https://www.has-sante.fr/jcms/c_732257/fr/douleur-chronique-reconnaitre-le-syndrome-douloureux-chronique-l-evaluer-et-orienter-le-patient)
 
 {{%/sources%}}

@@ -341,7 +341,10 @@ ECG de contrôle de 1-2 semaines (1 mois pour l'amiodarone)
 - NFS, créatininémie, bilan hépatique (AOD)
 - Cardiologique, ECG, Holter
 
-Sous amiodarone: TSH à M3 puis tous les 6-12 mois et jusqu'à 1 an après l'arrêt du traitement (et foie-poumon - *HAS 2022*)
+### Suivi des traitements
+
+Sous amiodarone: TSH à M3 puis tous les 6-12 mois et jusqu'à 1 an après l'arrêt du traitement (et foie-poumon - *HAS 2022*).  
+Une TSH augmentée n'est pas une indication à arrêter le traitement (prise en charge de l'[hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md" >}}) ou [avérée]({{< relref "hypothyroidie.md" >}})).
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

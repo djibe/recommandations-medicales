@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-14T23:30:41+02:00"
 publishdate = "2020-04-14"
-lastmod = "2023-03-17"
+lastmod = "2023-03-22"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["HAS", "SFE"]
@@ -27,7 +27,7 @@ todo = "SEO, lire reco complète"
 - Définition biologique de l'hypothyroïdie avérée: TSH > 10 mUI/L (20 si +65 ans) et T4L < intervalle de référence du laboratoire
 - +60 ans: borne supérieure de TSH = décennie du patient (ex. 8 mUI/L de 80 à 89 ans)
 - Découverte d'une hypothyroïdie chez le +65 ans: pas d'examens complémentaires, traiter si TSH > 20 mUI/L (avis endocrinologique entre 10 et 20)
-- Prise en charge par un traitement hormonal de lévothyroxine (LT4): dosage de la TSH et adaptation par paliers de 12 µg toutes les 6-12 semaines sur critères clinico-TSH
+- Prise en charge par un traitement hormonal de lévothyroxine (LT4): dosage de la TSH et adaptation par paliers de 12 µg toutes les 6-12 semaines sur critères clinico-TSH (cible de TSH dans la norme)
 - Puis surveillance annuelle de la TSH (sauf symptômes ou traitement perturbateur)
 - Si maladie de Hashimoto: rechercher une [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) associée
 - Grossesse, désir de grossesse ou infertilité: chapitre dédié pour la prise en charge
@@ -40,9 +40,9 @@ Chapitre lié: [hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md" >}})
 Hypothyroïdie
 : Dysfonctionnement thyroïdien le plus fréquent consistant en une sécrétion insuffisante d'hormones thyroïdiennes.  
 Souvent par altération de la glande mais parfois par atteinte centrale hypothalamo-hypophysaire.  
-L'hypothyroïdie atteint 5% de la population, dont ⅔ de femmes et 10% des sujets âgés.
+L'hypothyroïdie atteint 1 à 2% de la population, dont ⅔ de femmes et 10% des sujets âgés.
 : Définition biologique de l'hypothyroïdie avérée: <mark>TSH > 10 mUI/L et T4L < intervalle de référence du laboratoire</mark>.
-: **Les principales causes sont auto-immune (maladie de Hashimoto) et iatrogène** (médicament, radiothérapie).
+: Les principales causes sont auto-immune (thyroïdite chronique lymphocytaire dont maladie de Hashimoto avec goitre et anticorps anti-TPO) et iatrogène (médicament, radiothérapie).
 : **Pas de dépistage systématique de l'hypothyroïdie en population générale.**
 : On la distingue de l'**[hypothyroïdie fruste ou infraclinique]({{< relref "hypothyroidie-fruste.md" >}})** où la **TSH est élevée de façon isolée** (la T4L est dans l'intervalle) à 2 reprises espacées d'au moins 6 semaines.
 
@@ -58,7 +58,7 @@ L'hypothyroïdie atteint 5% de la population, dont ⅔ de femmes et 10% des suje
 Pathologies responsables d'hypothyroïdie:
 
 - **Thyroïdite lymphocytaire chronique de Hashimoto**
-  - Forme hypertrophique prédominant chez la femme
+  - Forme hypertrophique prédominante chez la femme
   - Goitre constant, diffus, volume modéré, ferme, souvent indolore et non compressif, pseudo-nodulaire
   - Anticorps anti-TPO à taux élevés et aspect échographiques caractéristiques
   - Aggravation progressive avec diminution du volume de la glande et du taux des anticorps
@@ -145,7 +145,7 @@ T4L
 - Palpation thyroïdienne  
   Souvent ferme et hétérogène, pseudo-nodulaire, taille variable, goitre (Hashimoto) ou atrophique (thyroïdite).
 - Signes généraux  
-  [Fatigue](/tags/fatigue/) (physique, intellectuelle, sexuelle), prise de poids modeste, constipation, sensibilité au froid.
+  [Fatigue](/tags/fatigue/) (physique, intellectuelle, sexuelle), prise de poids modeste, constipation, frilosité.
 - Phanères  
   Ongles secs et cassants, dépilation (queue du sourcil) et pousse lente des cheveux et poils, peau épaissie, froide, sèche et squameuse, teint carotinodermique (jaunâtre), cicatrisation lente.
 - Myxœdème  
@@ -155,7 +155,7 @@ T4L
 - Respiratoire  
   En atteinte sévère: épanchement pleural bilatéral, [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), bradypnée.
 - Neuro-psychologique  
-  Ralentissement psychomoteur, syndrome dépressif et [baisse de libido et érection]({{< relref "dysfonction-erectile.md" >}}), voire démence ou agitation chez le sujet âgé. Crampes, neuropathie périphérique.
+  Ralentissement psychomoteur, syndrome dépressif et [baisse de libido et de l'érection]({{< relref "dysfonction-erectile.md" >}}), voire démence ou agitation chez le sujet âgé. Crampes, neuropathie périphérique.
 - Aménorrhée, infertilité
 
 #### Autres situations devant faire évoquer une hypothyroïdie
@@ -167,8 +167,10 @@ Recherche une hypothyroïdie en cas de signes non spécifiques associés à:
 - Dépression inexpliquée
 - Démence inexpliquée
 - AEG inexpliquée
-- Hypercholestérolémie
+- Hypercholestérolémie inexpliquée
+- Chirurgie thyroïdienne, irathérapie ou radiothérapie cervicale
 - Antécédents personnels ou familiaux de maladie auto-immune: [diabète type 1]({{< relref "diabete-type-1.md" >}}), [dysthyroïdie](/tags/tsh/)
+- Syndrome de Down ou de Turner
 - [Grossesse]({{< relref "grossesse.md" >}}) ou désir de grossesse et {{< modal-btn modal-fdr-hypothyroidie >}}facteurs de risque d'hypothyroïdie{{< /modal-btn >}}
 
 {{%/collapse %}}
@@ -177,7 +179,7 @@ Recherche une hypothyroïdie en cas de signes non spécifiques associés à:
 ### Bilan devant une hypothyroïdie
 
 {{%info%}}
-En première intention: **TSH seule** et T4L *en cascade* (dosage si TSH > 10 mUI/L)
+En première intention: (diagnostic) **TSH seule** et T4L *en cascade* (dosage si TSH > 10 mUI/L)
 
 Le dosage de la TSH peut être réalisé à tout moment de la journée (utiliser les limites du laboratoire avec adaptation de la borne supérieure après 60 ans: décennie du patient - ex. 8 mUI/L de 80 à 89 ans).
 
@@ -186,6 +188,8 @@ Si TSH supérieure à la borne mais < 10 mUI/L: TSH et T4L *en cascade* (dosage 
 
 Si TSH normale: pas de nouveau dosage avant 6-12 mois (sauf nouveaux signes cliniques).  
 Éviter le dosage en pathologie aiguë.
+
+Préciser sur l'ordonnance la situation: diagnostic, contrôle ou suivi sous traitement.
 
 > << Le dosage de la T3L n'a pas d'utilité >> (*HAS 2022*)
 {.alert .alert-info}
@@ -198,7 +202,7 @@ Aucun autre examen chez la personne âgée
 {.alert .alert-info}
 
 - TSH élevée et T4L basse: **hypothyroïdie avérée**.  
-  Doser les **anticorps anti-TPO** (sauf personne âgée).
+  Doser les **anticorps anti-TPO** une seule fois à visée étiologique (sauf personne âgée).
 - TSH modérément élevée de 4 à 10 mUI/L (et T4L normale): renouveler le dosage à 6 semaines.
 - TSH élevée et T4L normale: voir [hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md">}}).
 - Iodémie/iodurie élevée: hypothyroïdie par surcharge iodée
@@ -244,14 +248,14 @@ Signes résolutifs sous lévothyroxine.
 En cas d'indication de traitement peu claire (ex. doses faibles de LT4), il est possible de suspendre le traitement en accord avec le patient et de contrôler la TSH à 4-6 semaines
 {.alert .alert-info}
 
-Délai avant amélioration des symptômes de **2 semaines après instauration du traitement**. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
+Délai **2 semaines après instauration du traitement** avant l'amélioration des symptômes. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
 
 **NB. Le traitement ne doit pas être débuté sans dosage préalable de la TSH**  
-{{%class%}}30% des traitements introduits sans TSH (*HAS 2020 dysthyroïdies*).{{%/class%}}
+{{%class%}}30% des traitements introduits sans TSH (*HAS 2022*).{{%/class%}}
 
 ### Lévothyroxine sodique (opothérapie substitutive)
 
-**Objectif: obtenir une TSH dans les valeurs normales ET la disparition des signes cliniques.**
+**Objectif: obtenir une TSH dans l'intervalle du laboratoire ET la disparition des signes cliniques.**
 
 TSH minimale chez le +65 ans: 1 mUI/L.
 
@@ -260,10 +264,11 @@ TSH minimale chez le +65 ans: 1 mUI/L.
 Prise en charge de l'hypothyroïdie avérée (TSH > 10 - ou 20 chez le +65 ans - et T4L < borne minimale du laboratoire):
 
 {{%info%}}
-Initier la LT4 à 1,7 µg/kg/j chez l'adulte.  
+Initier la LT4 à 1,6 µg/kg/j chez l'adulte.  
 {{%class "text-black-secondary" %}}Sujet âgé: 1,1-1,3 | Enfant: 2 | Coronarien: 12,5-25 µg/j{{%/class%}}
 
-Adaptation par paliers de 12 µg toutes les 6 à 12 semaines.
+Adaptation par paliers de 12 µg toutes les 6-8 semaines selon la TSH et la clinique.  
+Le patient est équilibré quand 2 TSH consécutives espacées de 3 mois sont dans l'intervalle
 {{%/info%}}
 
 **+65 ans**: débuter si TSH > 20 à 2 reprises, jamais si < 10. Avis endocrinologique entre 10 et 20 mUI/L.  
@@ -286,16 +291,15 @@ TSH > borne adaptée à l'âge: TSH à 3-6 mois puis tous les 6 mois puis tous a
 
 #### Consignes d'administration de la lévothyroxine
 
-- Prise unique le matin à jeun 30 minutes avant toute prise orale (ou ≥ 3 heures après le dernier repas de la journée).
-- En cas d'oubli: doubler la dose du lendemain ou prendre la dose du jour 3 heures après le dernier repas de la journée.
+- Prise unique le matin à jeun, 20 à 30 minutes avant toute prise orale
+- En cas d'oubli: doubler la dose du lendemain ou prendre la dose du jour 3 heures après le dernier repas de la journée
+- Délai d'au moins 2 heures avant la prise de calcium, fer, topiques digestifs
 
-**Dosage de la TSH à 6-8 semaines** et adaptation par **paliers de 6 à 12 semaines** sur critères clinico-TSH.
-
+**Dosage de la TSH à 6-8 semaines** et adaptation par **paliers de 6 à 12 semaines** sur critères clinico-TSH.  
 Surveillance au long cours une fois l'euthyroïdie obtenue: contrôle clinique + TSH à 6 mois puis **1 fois par an**.
 
-Chez un patient non traité: contrôle à 1 an puis tous les 2-3 ans si TSH stable (sinon contrôle annuel).
-
-**NB.** Pas de surveillance du dosage des anticorps ou de l'iodémie/iodurie.
+> Pas de surveillance de la T4L, des anticorps ou de l'iodémie/iodurie
+{.alert .alert-info}
 
 - Si TSH déséquilibrée: vérifier le mode d'administration de l'opothérapie
 - Si TSH légèrement anormale chez patient bien équilibrée et sans explication pour le déséquilibre: recontrôler la TSH à distance
@@ -306,7 +310,7 @@ Surveiller la survenue d'**attaques de paniques** même en concentrations plasma
 
 ### Avis endocrinologique
 
-Intérêt de l'avis d'un endocrinologue dans les situations suivantes:
+Indications à une consultation par l'endocrinologue:
 
 - Au diagnostic
   - Comorbidités  
@@ -325,10 +329,9 @@ Intérêt de l'avis d'un endocrinologue dans les situations suivantes:
 - Sujet **coronarien** ou **âgé**  
   Débuter à posologie basse, augmentation prudente et surveillance symptômes + clinique + ECG.  
   **NB.** On ne recherche pas toujours une normalisation de la TSH.  
-- [Hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md" >}})
 - **Grossesse**  
   - Augmentation des besoins en L-thyroxine de 30 à 50% durant la grossesse.
-  - Urgence thérapeutique: Augmenter la dose en pré-conceptionnel et dès 7 SA, puis continuellement jusqu'à 14 SA. Stabilisation des besoins après 14 SA.
+  - Urgence thérapeutique: augmenter la dose 20 à 30% (ou doubler la dose lundi et jeudi) dans l'attente du suivi spécialisé
   - Suivi rapproché et endocrinologique.
   - Revenir aux doses habituelles dès l'accouchement sauf allaitement.  
 - **Coma myxœdémateux**  
@@ -394,7 +397,7 @@ graph TB
     TSH -- "TSH &gt; 10 (20 si +65 ans)<br>et T4L basse" --> hT(Hypothyroïdie avérée)
       hT --> bilan("<strong>Examens</strong><br>—<br>- Aucun si +65 ans<br>- Anticorps anti-TPO<br>± dépistage M. cœliaque<br>- Rarement échographie cervicale<br>- ECG")
         bilan --> traitement(Traitement par lévothyroxine)
-          traitement --> adulte("<b>Adulte</b><br>Débuter à 1,7 µg/kg/j")
+          traitement --> adulte("<b>Adulte</b><br>- Débuter à 1,6 µg/kg/j<br>- Paliers de 12µg<br>toutes les 6-8 semaines")
             adulte -- Fragilité --> fragile("<b>+65 ans avec TSH &gt; 20</b>: Débuter à 1,1-1,3 µg/kg/j<br>avis endoc entre 10 et 20 mUI/L<br>—<br><b>Coronarien</b>: Débuter 12,5-25 µg/j")
           traitement --> enfant("<b>Enfant</b><br>Débuter à 2 µg/kg/j")
   decouverte -- Grossesse ou désir --> chapitre(Section dédiée)

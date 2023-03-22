@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2023-02-06"
+lastmod = "2023-03-20"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CRAT", "SFD"]
@@ -21,6 +21,8 @@ todo = "critères TSH, HTA gravidique, calcium cible"
 +++
 
 {{%article-summary%}}
+
+*Vaste chapitre en chantier*
 
 - 0 alcool et 0 tabac pendant la grossesse
 - [Calendrier de grossesse de GestaClic](http://gestaclic.fr/calculette.html)
@@ -114,6 +116,11 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si obésité, *[Eades 
 {{< /table >}}
 
 > *[Louvet et al; Société Francophone du Diabète (SFD). Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022.pdf)*
+
+{{% /collapse %}}
+{{%collapse "FMC gratuite" %}}
+
+{{< card-link-external title="MOOC Santé mentale périnatale au cours des 1000 premiers jours" subtitle="EPSM et PATH ..." url="https://pns-mooc.com/fr/mooc/25/presentation">}}
 
 {{% /collapse %}}
 {{%sources%}}
