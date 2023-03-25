@@ -1,6 +1,3 @@
-// Licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
-// http://creativecommons.org/publicdomain/zero/1.0/
-
 // HTML files: try the network first, then the cache.
 // Other files: try the cache first, then the network.
 // Both: cache a fresh version if possible.
@@ -8,7 +5,7 @@
 
 const cacheName = 'files';
 
-addEventListener('fetch',  fetchEvent => {
+self.addEventListener('fetch',  fetchEvent => {
   const request = fetchEvent.request;
   if (request.method !== 'GET') {
     return;
@@ -35,4 +32,4 @@ addEventListener('fetch',  fetchEvent => {
   }());
 });
 
-// From https://gist.github.com/adactio/3717b7da007a9363ddf21f584aae34af
+// Modified version of https://gist.github.com/adactio/3717b7da007a9363ddf21f584aae34af

@@ -3,12 +3,12 @@ title = "Antalgie et douleur chez l'enfant"
 prefix = "l'"
 titleSeo = "Douleur de l'enfant"
 noindex = true
-description = "Recommandations pour le traitement et la prise en charge de la douleur de l'enfant. Echelles d'évaluation, posologie des antalgiques, AINS, morphine en pédiatrie"
+description = "Recommandations pour le traitement et la prise en charge de la douleur de l'enfant. Echelles d'évaluation, posologie des antalgiques, AINS en pédiatrie"
 synonyms = ["Antidouleurs en pédiatrie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-12-26T00:12:41+02:00"
 publishdate = "2020-12-26"
-lastmod = "2023-02-22"
+lastmod = "2023-03-25"
 specialites = ["pediatrie"]
 annees = "2021"
 sources = ["Collège", "HAS", "Pediadol"]
@@ -19,7 +19,7 @@ icd10 = "R52.9"
 image = true
 imageSrc = "La douleur de l'enfant. Nathan Phillips sur Foter.com"
 slider = true
-paracetamol = true
+paracetamol = false
 todo = "https://www.phel.ch/upload/docs/application/pdf/2016-05/a4_poster_gsasa_2015_rotation_opiaces_mj.pdf"
 +++
 
@@ -44,6 +44,8 @@ Traitement de première intention pour les douleurs faibles (EVA/EN 1-3) à mod�
 
 {{< outils/paracetamol >}}
 
+{{< outils/paracetamol-calc >}}
+
 **Posologie:** 15 mg/kg/6h (max 80 mg/kg/j sans dépasser 4 g/j).
 
 ### AINS - Ibuprofène
@@ -54,7 +56,7 @@ Formes: sirop, capsule, cp.
 
 Associer paracétamol et AINS si besoin (et non pas alterner), 1 heure après le paracétamol si insuffisamment soulagé.
 
-> L'OMS insiste sur le fait qu'il s'agit du seul AINS suffisamment étudié chez l'enfant.
+> L'OMS 2012 insiste sur le fait qu'il s'agit du seul AINS suffisamment étudié chez l'enfant.
 
 Traitement sûr (*[Lesko 1995](https://pubmed.ncbi.nlm.nih.gov/7884951/)*). Classé en palier 1 mais peut être plus efficace que des paliers 2 voire 3 après certains traumatismes ou phases post-opératoires.
 
@@ -62,7 +64,7 @@ Traitement sûr (*[Lesko 1995](https://pubmed.ncbi.nlm.nih.gov/7884951/)*). Clas
 
 - [Varicelle]({{< relref "varicelle.md" >}})  
   Même si aucun lien prouvé.
-- Infection pulmonaire ou ORL sévère, cutanées ou des tissus mous (angine, érysipèle ...)
+- Infection pulmonaire ou ORL **sévère**, cutanées ou des tissus mous
 - Risque hémorragique ou trouble de la coagulation
 - Risque de déshydratation (diarrhées ...)
 
@@ -122,7 +124,7 @@ Morphine à libération immédiate (LI), sous surveillance par soignant pendant 
 
 Délai d'action de 30 minutes, pic d'efficacité à 45 minutes, durée d'action de 4 heures.
 
-Formes: gouttes (Oramorph®), cp (Actiskénan® 2,5 mg orodispersible ou +).  
+Formes: gouttes (Oramorph®), cp (Actiskénan® 1 mg orodispersible ou +).  
 Toujours associer un laxatif par macrogol pour un traitement de +2 jours.
 
 #### Morphine à libération prolongée (LP)
@@ -135,17 +137,9 @@ Répartition identique à l'adulte de la morphine LP = dose totale de LI des 24 
 
 Des interdoses de morphine à LI doivent être précisées (1/6e à 1/10e de la dose totale de LP avec intervalle minimal d'une heure entre 2 interdoses). La dose de morphine LP est réadaptée en fonction de la quantité totale sur les 24 dernières heures.
 
-### Convertisseur Opioconvert
-
-{{< outils/conversion-opioides height="800" >}}
-
 ### Fentanyl chez l'enfant
 
 AMM du fentanyl transdermique uniquement: à partir de 2 ans pour des douleurs chroniques intenses et stables.
-
-Utiliser les tables de conversion morphine <> fentanyl (ci-dessus).
-
-Patch transdermique: délai d'action de 8-12 heures, durée d'action de 72 heures. Agit encore 4-6 heures après le retrait.
 
 ### Autres antalgiques de palier 3
 
@@ -170,7 +164,7 @@ Toujours disposer de naloxone intra-veineuse ([Narcan®](https://base-donnees-pu
 Autres méthodes antalgiques pouvant être associées au traitement médicamenteux:
 
 - Solutions sucrées chez le nourrisson jusqu'à 6 mois  
-  Allaitement, saccharose 24% (Algopédol®), glucosé 30%. 2 minutes avant le soin. Efficace 5-7 minutes.
+  Allaitement, saccharose 24% (Algopédol®), glucosé 30%. Quelques gouttes sur le bout de la langue, 2 minutes avant le soin. Efficace 5-7 minutes.
 - MEOPA  
   Chez +1 mois. Minimum 3 minutes avant le soin et poursuivi pendant. Efficace < 60 minutes. Ne pas administer de force.
 - Crème/patch lidocaïne - prilocaïne  
@@ -197,7 +191,7 @@ Phloroglucinol, trimébutine, tiémonium.
 | 0 - 7        | EVENDOL                  | 4/15                |
 | <b>Auto-évaluation</b>|                 |                     |
 | 4+           | [Échelle des visages](https://pediadol.org/wp-content/uploads/2004/06/FPS-R.pdf) (<abbr title="Faces Pain Scale Revised (IASP)">FPS-R</abbr>) | 4/10 |
-| 6+           | [EVA pédiatrique](https://www.sparadrap.org/boutique/produit/reglette-visages-dautoevaluation-de-la-douleur) | 3/10 |
+| 6+           | [EVA pédiatrique](https://www.sparadrap.org/boutique/produit/reglette-eva-dautoevaluation-de-la-douleur) | 3/10 |
 | 8+           | Échelle numérique (EN)   | 3/10                |
 {{< /table >}}
 
@@ -215,7 +209,7 @@ Ne pas oublier:
 
 ### Éléments cliniques notables
 
-Une douleur aiguë entraîne des symptômes bruyants. À l'inverse, la douleur chronique occasionne un repli, dit << atonie psychomotrice >>.
+Une douleur aiguë entraîne des symptômes bruyants. Lorsqu'elle se prolonge elle entraîne un repli, dit << atonie psychomotrice >>, l'enfant est prostré.
 
 - Examen complet
 - Palpation abdominale
@@ -232,6 +226,7 @@ Rassurer, selon l'âge mobiliser: présence des parents, portage, paroles, allai
 - **[Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)**
 - [Comité de lutte contre la douleur Hôpitaux de Toulouse. Médicaments antalgiques en pédiatrie. 01/09/2017. (PDF)](https://www.chu-toulouse.fr/IMG/pdf/09_antalgiques_tableau_pediatrie_v6f.pdf)
 - [HAS. Prise en charge médicamenteuse de la douleur chez l'enfant : alternatives à la codéine. 2016.](https://www.has-sante.fr/jcms/c_2010340/fr/prise-en-charge-medicamenteuse-de-la-douleur-chez-l-enfant-alternatives-a-la-codeine)
+- [WHO Guidelines on the Pharmacological Treatment of Persisting Pain in Children with Medical Illnesses. Geneva: World Health Organization. 2012.](https://pubmed.ncbi.nlm.nih.gov/23720867/)
 - [Pediadol. Médicament. Un groupe d'experts de la douleur de l'enfant. (Protocoles)](https://pediadol.org/medicament/)
 - [Association Sparadrap: informations pour les enfants, les parents et les soignants](https://www.sparadrap.org)
 - [International Association for the Study of Pain (IASP)](https://www.iasp-pain.org)

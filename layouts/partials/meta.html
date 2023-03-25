@@ -182,5 +182,10 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-touch-fullscreen" content="yes">
 <script>
-  if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/sw.js') }
+  // Register the service worker
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+      navigator.serviceWorker.register('/sw.js')
+    });
+  }
 </script>

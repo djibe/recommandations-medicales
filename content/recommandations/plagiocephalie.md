@@ -25,6 +25,7 @@ todo = "rankok"
 - Vérifier les sutures et amplitudes des mouvements, rechercher des dysmorphies et syndromes
 - Prévention de la plagiocéphalie: inverser tous les jours le sens tête - pieds, coucher sur le dos dans une position contraire à sa préférence, augmenter le temps d'éveil passé en décubitus ventral
 - Prise en charge de la plagiocéphalie par kinésithérapie voire prise en charge spécialisée pluri-disciplinaire si déformations importantes ou sans amélioration
+- [Fiche info parents HAS: prévenir la tête plâte (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-01/recto_a4-vdef_20210107.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -99,6 +100,7 @@ Mesures de prévention de la plagiocéphalie positionnelle:
 - Coucher bébé sur le dos dans une position contraire à sa préférence
 - Augmenter le temps d'éveil du bébé passé en décubitus ventral  
   Au moins 10 à 15 minutes au moins 3 fois par jour.
+- [Fiche info parents HAS: prévenir la tête plâte (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-01/recto_a4-vdef_20210107.pdf)
 
 {{% /collapse %}}
 {{%collapse "Traitement de la plagiocéphalie" %}}
@@ -119,6 +121,7 @@ Recommandations générales pour la prise en charge de la plagiocéphalie:
   Positions, exercices.
 - Thérapie par moulage (port du casque)  
   En cas de d'asymétrie grave en l'absence d'amélioration, envisageable chez le < 8 mois, sur avis spécialisé, port 23 h/jour.
+- [Fiche info parents HAS: prévenir la tête plâte (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-01/recto_a4-vdef_20210107.pdf)
 
 ### Traitement chirurgical
 
