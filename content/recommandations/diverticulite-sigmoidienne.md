@@ -7,12 +7,12 @@ synonyms = ["Sigmoïdite diverticulaire", "diverticulite colique", "sigmoïdite 
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-09T11:33:00+02:00"
 publishdate = "2021-02-09"
-lastmod = "2023-02-23"
+lastmod = "2023-03-27"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2021"
-sources = ["HAS", "ESCP", "SNFGE"]
+annees = "2022"
+sources = ["ACP", "HAS", "ESCP", "SNFGE"]
 tags = ["obesite"]
-anglais = ["Diverticulitis of sigmoid colon"]
+anglais = ["Left-sided colonic diverticulitis"]
 sctid = "427910000"
 icd10 = "K57.3"
 image = true
@@ -25,7 +25,7 @@ todo = "SEO sigmoïdite, https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.
 
 - La diverticulose colique est asymptomatique dans 80% des cas
 - Première poussée de diverticulite sigmoïdienne aiguë (*ex* sigmoïdite diverticulaire): diagnostic systématique par scanner abdomino-pelvien
-- Pas d'antibiotiques si crise de diverticulite non compliquée, sans gravité et sans grossesse durant les 48 premières heures
+- Pas d'antibiotiques si crise de diverticulite (sigmoïdite) non compliquée, sans gravité et sans grossesse durant les 48 premières heures
 - Chirurgie prophylactique des diverticules en cas de comorbidités:  
   {{%class "text-black-secondary" %}}Immunodépression, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), altération qualité de vie, fistule, abcès, sténose symptomatique.{{%/class%}}
 
@@ -34,8 +34,8 @@ todo = "SEO sigmoïdite, https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.
 
 Diverticulite sigmoïdienne aiguë
 : *ex* sigmoïdite diverticulaire (aussi appelée diverticulite colique ou sigmoïdite aiguë)
-: Inflammation infectieuse colique d'origine diverticulaire survenant le plus souvent entre 50 et 70 ans.
-: Facteurs de risque de diverticulite: âge, hérédité, obésité.  
+: Inflammation infectieuse colique d'origine diverticulaire survenant le plus souvent entre 50 et 70 ans. L'atteinte du côlon droit est prédominante en Asie.
+: Facteurs de risque de diverticulite sigmoïdienne: âge, hérédité, obésité.  
 30% de récidives à 5 ans. 16 à 35% se compliquent d'abcès.
 
 Diverticulose du côlon
@@ -46,7 +46,7 @@ Elle est asymptomatique dans 80% des cas.
 
 Les complications des poussées de diverticulite sigmoïdienne (*ex* sigmoïdite diverticulaire) surviennent principalement à la première poussée.
 
-Le traitement de la **diverticulite compliquée** est urgent et spécialisé:
+Le traitement de la **diverticulite compliquée** (12% des cas) est urgent et spécialisé:
 
 - Abcès
 - Fistule sigmoïdienne
@@ -57,6 +57,9 @@ Le traitement de la **diverticulite compliquée** est urgent et spécialisé:
 **Facteurs de risque** de complication: aspirine, AINS, [alcool]({{< relref "sevrage-alcool.md" >}}).
 
 ### Abréviations
+
+ACP
+: {{%lang%}}American College of Physicians{{%/lang%}}
 
 ESCP
 : {{%lang%}}European Society of Coloproctology{{%/lang%}}
@@ -77,7 +80,19 @@ Triade de symptômes d'une poussée de diverticulite sigmoïdienne aiguë:
 - Fièvre, sepsis
 - Troubles du transit
 
-Le diagnostic clinique de poussée de diverticulite est erroné dans plus de 50% des cas (*[Werner 2003](https://doi.org/10.1007/s00330-003-1887-7)*).
+> Le diagnostic clinique de poussée de diverticulite est erroné dans plus de 50% des cas (*[Werner 2003](https://doi.org/10.1007/s00330-003-1887-7)*)
+{.alert .alert-info}
+
+Facteurs prédictif de complication:
+
+- Symptômes persistants +5 jours
+- EVA initiale > 7
+- Vomissements
+- Comorbidité significative
+- Hyperleucocytose > 13.500/mm³
+- CRP > 140 mg/L
+
+> *ACP 2022*
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -92,19 +107,20 @@ Les examens complémentaires sont systématiques pour affirmer le diagnostic de 
 
 ### Scanner abdomino-pelvien avec injection
 
-Le scanner est obligatoire en cas de premier épisode de diverticulite
+Le scanner est obligatoire en cas de premier épisode de diverticulite (*HAS*)
 {.alert .alert-info}
 
 Le scanner est l'examen de référence pour le diagnostic et la recherche de complications d'une poussée de diverticulite.
 
-Il peut être ensuite réalisé uniquement en cas de récidive d'intensité inhabituelle ou de syndrome inflammatoire biologique marqué (*ESCP 2020*).
+Il peut être ensuite réalisé uniquement en cas de récidive d'intensité inhabituelle ou de syndrome inflammatoire biologique marqué chez un patient sans comorbidités (*ESCP 2020*).
 
-Il doit être réalisé dans les **72 heures** suivant le début des douleurs en ambulatoire (24h si hospitalisation).  
-Échographie voire IRM en cas de contre-indication au scanner.
+Il doit être réalisé dans les **72 heures** suivant le début des douleurs en ambulatoire (24h si hospitalisation).
+
+Recours à l'échographie voire l'IRM en cas de contre-indication au scanner.
 
 ### Coloscopie
 
-Indications à la coloscopie: ≥ 2 crises (en l'absence de coloscopie dans les 3 ans)(*ESCP 2020*)
+Indications à la coloscopie: au moins 2 crises (en l'absence de coloscopie dans les 3 ans)(*ESCP 2020*)
 
 La coloscopie doit être réalisée au moins 6 semaines après l'épisode diverticulaire.
 
@@ -113,7 +129,7 @@ La coloscopie doit être réalisée au moins 6 semaines après l'épisode divert
 
 {{%warning%}}
 
-### Indications à l'hospitalisation en poussée de diverticulite sigmoïdienne aiguë
+### Critères d'hospitalisation pour poussée de diverticulite sigmoïdienne aiguë
 
 - Grossesse
 - Immunodépression
@@ -149,9 +165,9 @@ Aucun traitement ou régime ne permet de prévenir les crises de diverticulite
 - Pas de suivi biologique systématique ni de scanner de contrôle en cas d'évolution favorable
 - Coloscopie si ≥ 2 crises (en l'absence de coloscopie dans les 3 ans)(*ESCP 2020*)
 
-### Antibiothérapie
+### Antibiothérapie pour diverticulite sigmoïdienne
 
-Pas d'antibiothérapie en 1<sup>re</sup> intention devant une poussée diverticulaire lorsque le scanner ne révèle pas de complication
+Pas d'antibiothérapie en première intention devant une poussée diverticulaire en l'absence de complication au scanner
 {.alert .alert-info}
 
 Indication à l'antibiothérapie ambulatoire: échec thérapeutique à 48 heures sans critère d'hospitalisation.  
@@ -196,6 +212,7 @@ accTitle: Prise en charge d'une suspicion de diverticulite sigmoïdienne d'aprè
 {{%/collapse%}}
 {{%sources%}}
 
+- [Qaseem A et al. Diagnosis and Management of Acute Left-Sided Colonic Diverticulitis: A Clinical Guideline From the American College of Physicians. Ann Intern Med. 2022.](https://www.acpjournals.org/doi/full/10.7326/M21-2710)
 - [HAS. Choix et durée de l'antibiothérapie : Diverticulite aiguë sigmoïdienne non compliquée. Recommander les bonnes pratiques. 27/08/2021.](https://www.has-sante.fr/jcms/p_3282886/fr/choix-et-duree-de-l-antibiotherapie-diverticulite-aigue-sigmoidienne-non-compliquee)
 - {{< references/college-gastro >}}
 - [Schultz J.K. et al. European Society of Coloproctology: guidelines for the management of diverticular disease of the colon. Colorectal Dis. 2020.](https://doi.org/10.1111/codi.15140)
