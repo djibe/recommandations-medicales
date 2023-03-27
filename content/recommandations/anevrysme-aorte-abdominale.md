@@ -17,15 +17,15 @@ sctid = "233985008"
 icd10 = "I71.4"
 image = true
 imageSrc = "Schéma de l'anévrysme de l'aorte abdominale par loudista sur Foter.com"
-todo = "SEO 'aorte abdominale', anévrisme ou anévrysme ?"
+todo = "SEO 'aorte abdominale'"
 +++
 
 {{%article-summary%}}
 
-Indications au dépistage de l'anévrysme de l'aorte abdominale par échodoppler:
+Indications au dépistage de l'anévrysme de l'aorte abdominale (AAA) par échodoppler:
 
-- Homme de 65 à 75 ans avec tabagisme actif ou sevré depuis < 20 ans
-- Homme de 50 à 75 ans avec antécédent familial d'AAA au 1<sup>er</sup> degré (parents/fratrie)
+- Homme de 65 à 75 ans avec tabagisme actif ou sevré depuis moins de 20 ans
+- Homme de 50 à 75 ans avec antécédent familial d'anévrisme de l'aorte abdominale au 1<sup>er</sup> degré (parents/fratrie)
 - [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
 
 {{%/article-summary%}}
@@ -43,6 +43,15 @@ Anévrisme de l'aorte abdominale (AAA)
 - Homme (ratio 13/1)
 - Âge +65 ans
 - Tabagisme (consommation-dépendant)
+
+### Abréviations
+
+AAA
+: anévrisme de l'aorte abdominale
+
+ESC
+: {{%lang%}}European Society of Cardiology{{%/lang%}}
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

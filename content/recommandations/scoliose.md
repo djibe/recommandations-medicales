@@ -111,7 +111,7 @@ Profiter des [examens de suivi]({{< relref "examens-suivi-nourrisson.md" >}}) (3
 {{% /collapse %}}
 {{%collapse "Traitement de la scoliose" %}}
 
-Avis orthopédique pour une scoliose ≥ 15° (*Collège*)
+Avis orthopédique adapté à l'âge pour une scoliose ≥ 15° (*Collège*)
 {.alert .alert-warning}
 
 Objectifs de la prise en charge de la scoliose: obtenir la déformation la plus limitée possible, prévenir le retentissement fonctionnel, assurer l'éducation thérapeutique pour le patient et l'entourage.
@@ -171,5 +171,12 @@ Centres de référence pour les anomalies du développement et les syndromes mal
 - HAS. Scoliose structurale évolutive (dont l'angle est égal ou supérieur à 25°) jusqu'à maturation rachidienne. Guide Affection de longue durée. 2008.
 - Prescrire Redaction. Histoire naturelle de la scoliose idiopathique. Rev Prescrire. 2006.
 - [HAS. Propositions portant sur le dépistage individuel chez l'enfant de 7 à 18 ans, destinées aux médecins généralistes, pédiatres et médecins scolaires. 2005.](https://www.has-sante.fr/jcms/c_451142/fr/propositions-portant-sur-le-depistage-individuel-chez-l-enfant-de-7-a-18-ans-destinees-aux-medecins-generalistes-pediatres-et-medecins-scolaires)
+
+### À lire
+
+- [International Society on Scoliosis Orthopaedic and Rehabilitation Treatment (SOSORT)](https://www.sosort.org)
+- [Kuznia AL et al. Adolescent Idiopathic Scoliosis: Common Questions and Answers. Am Fam Physician. 2020.](https://www.aafp.org/pubs/afp/issues/2020/0101/p19.html)
+- [Blevins K et al. Management of Scoliosis. Adv Pediatr. 2018. [payant]](https://www.advancesinpediatrics.com/article/S0065-3101(18)30014-8/fulltext)
+- [Horne JP et al. Adolescent idiopathic scoliosis: diagnosis and management. Am Fam Physician. 2014.](https://www.aafp.org/pubs/afp/issues/2014/0201/p193.html)
 
 {{%/sources%}}
