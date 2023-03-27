@@ -433,7 +433,6 @@ graph TB
 - [Castanet M, Cuny A. Perturbation du bilan thyroïdien. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/endocrinologie/perturbation-du-bilan-thyroidien)
 
 {{%/sources%}}
-
 {{% modal title="Liste facteurs de risque d'hypothyroïdie" id="modal-fdr-hypothyroidie"%}}
 
 {{< clinique/facteur-risque-hypothyroidie >}}

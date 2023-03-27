@@ -208,7 +208,8 @@ Principaux moyens chirurgicaux pour la prise en charge de la Maladie de Menière
 
 ### À lire
 
-[Basura GJ. et al. Clinical Practice Guideline: Ménière's Disease. Otolaryngology–Head and Neck Surgery. 2020.](https://journals.sagepub.com/doi/full/10.1177/0194599820909438)
+- [Cochrane UK. Menière's disease: experience, evidence gaps & treatment choices. 2023.](https://www.evidentlycochrane.net/menieres-disease/)
+- [Basura GJ. et al. Clinical Practice Guideline: Ménière's Disease. Otolaryngology–Head and Neck Surgery. 2020.](https://journals.sagepub.com/doi/full/10.1177/0194599820909438)
 
 {{%/sources%}}
 {{% modal title="Questionnaire STOP-BANG" id="modal-score-stopbang" size="lg"%}}

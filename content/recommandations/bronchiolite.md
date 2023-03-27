@@ -411,4 +411,8 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 - Prescrire Rédaction. Bronchiolite chez un nourrisson. Octobre 2017.
 - [HAS. Synagis. Commission de la transparence. 05/04/2017.](https://www.has-sante.fr/jcms/c_2756580/fr/synagis-palivizumab)
 
+### À lire
+
+[Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Bronchiolite aiguë du nourrisson. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/bronchiolite-aigue-du-nourrisson)
+
 {{%/sources%}}

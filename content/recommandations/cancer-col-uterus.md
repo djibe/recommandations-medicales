@@ -7,7 +7,7 @@ synonyms = ["Papillomavirus humains HPV", "dysplasies et condylomes"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2021-01-18T10:55:00+02:00"
 publishdate = "2022-04-20"
-lastmod = "2023-03-17"
+lastmod = "2023-03-27"
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
 sources = ["INCa", "HAS", "MinSanté"]
@@ -84,7 +84,7 @@ Complications des infections par les papillomavirus et incidence imputée entre 
 - **Mortalité:** 1100 décès/an  
   Un dépistage de toute la population entraînerait une diminution de l'incidence de 90%.
 - 80% des hommes et des femmes sexuellement actifs seront infectés par les papillomavirus durant leur vie
-- **Couverture vaccinale:** 43,6% des jeunes filles en France métropolitaine (*SPF 2021*)
+- **Couverture vaccinale:** 45,8% des jeunes filles de 15 ans et 6% des garçons en France métropolitaine contre 84% au Royaume-Uni (*Inserm*)
 
 > *INCa*
 
@@ -233,6 +233,7 @@ En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md"
 {{% /collapse %}}
 {{%sources%}}
 
+- [Inserm. Papillomavirus : faut-il généraliser la vaccination ?. 27/03/2023.](https://www.inserm.fr/actualite/papillomavirus-faut-il-generaliser-la-vaccination/)
 - [Service-Public. Papillomavirus : vaccination généralisée à la rentrée 2023 pour les élèves de 5e. 07/03/2023.](https://www.service-public.fr/particuliers/actualites/A16438?xtor=EPR-100)
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Hanguehard R. et al. Couverture vaccinale contre les infections à papillomavirus humain des filles âgées de 15 à 18 ans et déterminants de vaccination, France, 2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_3.html)
