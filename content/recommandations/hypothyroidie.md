@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-14T23:30:41+02:00"
 publishdate = "2020-04-14"
-lastmod = "2023-03-22"
+lastmod = "2023-03-27"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["HAS", "SFE"]
@@ -265,14 +265,14 @@ Prise en charge de l'hypothyroïdie avérée (TSH > 10 - ou 20 chez le +65 ans -
 
 {{%info%}}
 Initier la LT4 à 1,6 µg/kg/j chez l'adulte.  
-{{%class "text-black-secondary" %}}Sujet âgé: 1,1-1,3 | Enfant: 2 | Coronarien: 12,5-25 µg/j{{%/class%}}
+{{%class "text-black-secondary" %}}Sujet âgé: 1,1-1,3 | Enfant: 2 | Cardiopathie: 12,5-25 µg/j{{%/class%}}
 
 Adaptation par paliers de 12 µg toutes les 6-8 semaines selon la TSH et la clinique.  
 Le patient est équilibré quand 2 TSH consécutives espacées de 3 mois sont dans l'intervalle
 {{%/info%}}
 
 **+65 ans**: débuter si TSH > 20 à 2 reprises, jamais si < 10. Avis endocrinologique entre 10 et 20 mUI/L.  
-TSH > borne adaptée à l'âge: TSH à 3-6 mois puis tous les 6 mois puis tous annuelle
+Cible de TSH chez +65 ans: valeurs haute de l'intervalle et toujours > 1 mUI/L.
 {.alert .alert-warning}
 
 #### Spécialités de lévothyroxine disponibles
@@ -352,27 +352,32 @@ Suivi thérapeutique par dosage de T3L + T4L qui doit être dans le tiers supér
 {{% /collapse %}}
 {{%collapse "Hypothyroïdie et grossesse ou désir de grossesse" %}}
 
+> Patiente déjà traitée: augmenter la lévothyroxine de 20 à 30% dès connaissance de la grossesse, dans l'attente de l'avis endocrinologique
+{.alert .alert-warning}
+
 Particularités de la prise en charge de l'hypothyroïdie en rapport avec une [grossesse]({{< relref "grossesse.md" >}}) ou un désir de grossesse:
 
 - Dépister une hypothyroïdie par TSH si {{< modal-btn modal-fdr-hypothyroidie >}}facteurs de risque d'hypothyroïdie{{< /modal-btn >}}
-- TSH > 4 mUI/L: confirmation sur un 2<sup>e</sup> prélèvement sans attendre 6 semaines  
-  Le diagnostic est posé sur 2 TSH > 4 mUI/L, le suivi est uniquement spécialisé.
-- Compléter avec anticorps anti-TPO si TSH > 2,5 mUI/L
+- **TSH > 4 mUI/L** quelque soit le terme: confirmation sur un 2<sup>e</sup> prélèvement sans attendre 6 semaines  
+  Le diagnostic est posé sur 2 TSH > 4 mUI/L: traitement et suivi endocrinologique.
+- Compléter avec **anticorps anti-TPO** si TSH > 2,5 mUI/L
 - Pas de dosage de T4L et T3L
 
 La prise en charge de l'hypothyroïdie pendant la grossesse est spécialisée:
 
-- Avis si TSH entre 2,5 et 4 mUI/L et anti-TPO positifs
+- Avis si TSH entre 2,5 et 4 mUI/L et anti-TPO positifs  
+  En l'absence de traitement: surveillance identique à la patiente traitée (ci-dessous)
 - Traitement uniquement par lévothyroxine (LT4)
-- TSH cible entre la borne inférieure et 2,5 mUI/L
-- Surveillance de la TSH toutes les 4-6 semaines jusqu'à 22 SA puis une fois entre 30 et 34 SA
+- Initier le traitement en l'absence de surpoids:
+  - TSH entre 2,5 et 10 mUI/L: 25-50 µg/j
+  - TSH entre 10 et 20 mUI/L: 50-75 µg/j
+  - TSH > 20 mUI/L: 75-100 µg/j
+- TSH cible: entre la borne inférieure et 2,5 mUI/L
+- **Surveillance**: TSH toutes les 4-6 semaines jusqu'à 22 SA puis une fois entre 30 et 34 SA
 
-> Augmenter la lévothyroxine de 20 à 30% immédiatement, dans l'attente de l'avis endocrinologique
-{.alert .alert-warning}
+### Suivi de l'hypothyroïdie en post-partum
 
-En post-partum:
-
-- Revenir à la dose pré-conceptionnelle avec contrôle de TSH à 6 semaines
+- Revenir à la dose pré-conceptionnelle avec contrôle de la TSH à 6 semaines
 - Si découverte pendant la grossesse: suivi spécialisé
 
 ### Hypothyroïdie et infertilité
@@ -381,9 +386,9 @@ En post-partum:
 - Doser la T4L si TSH > 10 mUI/L (*en cascade*) ou TSH entre 4 et 10 mUI/L à 2 reprises espacées de 4 semaines
 - Parcours AMP: recontrôler rapidement la TSH si TSH > 2,5 mUI/L
 - Surveillance de la TSH tous les 3-6 mois si TSH de 2,5 à 3,9 mUI/L et anti-TPO positifs
-- Doser les anticorps anti-TPO si > 2,5 mUI/L
-- Traiter si TSH > 4 mUI/L et avis spécialisé entre 2,5 et 4 mUI/L
-- La TSH cible est entre la borne inférieure et 2,5 mUI/L
+- Si TSH > 2,5 mUI/L: doser les anticorps anti-TPO
+- **Traiter si TSH > 4 mUI/L** et avis spécialisé entre 2,5 et 4 mUI/L
+- TSH cible: entre la borne inférieure et 2,5 mUI/L
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une hypothyroïdie" "show" %}}
@@ -397,8 +402,8 @@ graph TB
     TSH -- "TSH &gt; 10 (20 si +65 ans)<br>et T4L basse" --> hT(Hypothyroïdie avérée)
       hT --> bilan("<strong>Examens</strong><br>—<br>- Aucun si +65 ans<br>- Anticorps anti-TPO<br>± dépistage M. cœliaque<br>- Rarement échographie cervicale<br>- ECG")
         bilan --> traitement(Traitement par lévothyroxine)
-          traitement --> adulte("<b>Adulte</b><br>- Débuter à 1,6 µg/kg/j<br>- Paliers de 12µg<br>toutes les 6-8 semaines")
-            adulte -- Fragilité --> fragile("<b>+65 ans avec TSH &gt; 20</b>: Débuter à 1,1-1,3 µg/kg/j<br>avis endoc entre 10 et 20 mUI/L<br>—<br><b>Coronarien</b>: Débuter 12,5-25 µg/j")
+          traitement --> adulte("<b>Adulte</b><br>- Débuter à 1,6 µg/kg/j<br>- Paliers de 12 µg<br>toutes les 6-8 semaines")
+            adulte -- Fragilité --> fragile("<b>+65 ans avec TSH &gt; 20</b>: Débuter à 1,1-1,3 µg/kg/j<br>TSH cible valeurs hautes<br>avis endoc entre 10 et 20 mUI/L<br>—<br><b>Cardiopathe</b>: Débuter 12,5-25 µg/j")
           traitement --> enfant("<b>Enfant</b><br>Débuter à 2 µg/kg/j")
   decouverte -- Grossesse ou désir --> chapitre(Section dédiée)
   decouverte -. "TSH &gt; 10 et T4L basse" .-> hT

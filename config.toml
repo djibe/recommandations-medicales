@@ -1,6 +1,4 @@
 baseURL = "https://recomedicales.fr/"
-# canonifyURLs = false
-# relativeURLs = true
 copyright = "© 2019-2023 par Jean-Baptiste FRON sous license CC BY-NC 4.0"
 DefaultContentLanguage = "fr"
 disableHugoGeneratorInject = false
@@ -51,6 +49,11 @@ title = "RecoMédicales"
   [outputFormats.API-S]
   mediatype = "application/json"
   baseName = "api-s"
+  isPlainText = true
+
+  [outputFormats.SW]
+  mediatype = "text/javascript"
+  baseName = "sw"
   isPlainText = true
 
 # Dependencies

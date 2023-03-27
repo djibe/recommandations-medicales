@@ -27,7 +27,7 @@ todo = "SEO 'recommandation ivg'"
 - L'interruption volontaire de grossesse (IVG) est autorisée jusqu'à 16 semaines d'aménorrhée (SA), en ville jusqu'à 9 SA (IVG médicamenteuse)
 - Temps de réflexion d'une semaine (sauf délai avancé) avant l'interruption volontaire de grossesse
 - Systématiques avant l'IVG: calcul du terme + examen gynécologique + groupe sanguin + échographie pelvienne
-- Centres et praticiens réalisant des IVG: [ivg.gouv](https://ivg.gouv.fr) (téléphone {{<phone>}}0 800 08 11 11{{</phone>}}) et [ivglesadressess.org](https://ivglesadresses.org)
+- Centres et praticiens réalisant des IVG: [ivg.gouv](https://ivg.gouv.fr) (téléphone {{<phone>}}0 800 08 11 11{{</phone>}}) et [ivglesadresses.org](https://ivglesadresses.org)
 
 Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
 

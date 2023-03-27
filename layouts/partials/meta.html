@@ -49,6 +49,7 @@
   {{ $metaDescription = $.Site.Params.description }}
 {{ end }}
 <meta name="description" property="og:description" content="{{ $metaDescription }}">
+<meta name="description" property="twitter:description" content="{{ $metaDescription }}">
 
 <!-- Link Tags -->
 <!--<base href="{{ .Site.BaseURL }}">--><!--For local Linkinator-->
@@ -185,7 +186,9 @@
   // Register the service worker
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', function() {
-      navigator.serviceWorker.register('/sw.js')
+      navigator.serviceWorker
+        .register('/sw.js')
+        .catch(err => console.log("service worker not registered", err))
     });
   }
 </script>

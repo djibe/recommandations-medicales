@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-21T19:40:41+02:00"
 publishdate = "2020-07-21"
-lastmod = "2023-03-22"
+lastmod = "2023-03-27"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["HAS", "ANSM"]
@@ -93,7 +93,7 @@ En l'absence d'amélioration clinique malgré une TSH normalisée sur 3-4 mois, 
 Dans les autres cas, surveillance de la TSH:
 
 - À 1 an puis tous les 2-3 ans si TSH stable
-- Si +65 ans: à 3-6 mois puis tous les 6 mois en tous les ans si stable
+- Si +65 ans: TSH à 3-6 mois, renouvelée 6 mois plus tard puis annuelle si stable
 - Annuelle en cas d'antécédent de traitement thyroïdien chirurgical ou radioactif
 {{%/info%}}
 
@@ -102,7 +102,7 @@ Dans les autres cas, surveillance de la TSH:
 
 {{< mermaid title="Prise en charge de l'hypothyroïdie fruste. Dr JB Fron d'après HAS 2022" >}}
 graph TB
-  decouverte["TSH augmentée<br>chez l'adulte"] -- Contrôle à 6 semaines + T4L --> TSH["TSH &gt; borne supérieure<br>(corrigée chez le +60 ans)"] -- T4L normale --> hTFruste(Hypothyroïdie fruste) --> anomalies("<b>Anomalies?</b><br>—<br>- TSH &gt; 10 mUI/L (20 si +65 ans)<br>(+65 ans: avis entre 10 et 20)<br>- Anticorps anti-TPO+<br>- Clinique d'hypothyroïdie<br>- Goitre<br>- Maladie ou facteurs de risque<br>cardiovasculaire") -- Oui --> traitement("Traitement par lévothyroxine:<br>débuter à 25-50 µg<br>et suivi classique")
+  decouverte["TSH augmentée<br>chez l'adulte"] -- Contrôle à 6 semaines + T4L --> TSH["TSH &gt; borne supérieure<br>(corrigée chez le +60 ans)"] -- T4L normale --> hTFruste(Hypothyroïdie fruste) --> anomalies("<b>Anomalies?</b><br>—<br>- TSH &gt; 10 mUI/L (20 si +65 ans)<br>(+65 ans: avis entre 10 et 20)<br>- Anticorps anti-TPO+<br>- Clinique d'hypothyroïdie<br>- Goitre<br>- Maladie ou facteurs de risque<br>cardiovasculaire") -- Oui --> traitement("Traitement par lévothyroxine:<br>débuter à 25-50 µg<br>(demi-dose si +65 ans fragile)<br>et suivi classique")
   click traitement "{{< relref "hypothyroidie.md" >}}" "Ouvrir dans un onglet" _blank
   style decouverte stroke:#4150f5, stroke-width:1px
   TSH -- T4L basse --> hT("Hypothyroïdie avérée")

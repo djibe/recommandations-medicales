@@ -104,7 +104,7 @@ La prise en charge de la scoliose est pluridisciplinaire:
   << La dispense de sport est rarement justifiée >> (*HAS 2008*)
 - Correction d'un surpoids
 - Prévention de l'ostéoporose
-- Associations de patients: [Scoliose & partage](https://www.scoliose.org/silverstripe/), [fondation Cotrel](https://www.fondationcotrel.org/)
+- Associations de patients: [Scoliose & partage](https://www.scoliose.org/silverstripe/), [fondation Cotrel](https://www.fondationcotrel.org)
 - Suivi à vie
   - Tous les 6 mois à l'adolescence (voire 4 si évolutivité)
   - Tous les 5 ans ensuite (sauf évolutivité)
@@ -124,16 +124,23 @@ Corset ou plâtre de dérotation pour les scolioses avec angle de Cobb ≥ 20° 
 
 Réservé au cas par cas aux échecs du traitement orthopédique ou aux scolioses évolutives.
 
+### Échecs de prise en charge
+
+Centres de référence pour les anomalies du développement et les syndromes malformatifs: voir PNDS 2022
+
 {{% /collapse %}}
 {{%sources%}}
 
 - [HAS. Scoliose idiopathique structurale évolutive. Actes et prestations Affection de longue durée. 2018.](https://www.has-sante.fr/jcms/c_646714/fr/ald-n-26-scoliose-idiopathique-structurale-evolutive)
 - HAS. Scoliose structurale évolutive (dont l'angle est égal ou supérieur à 25°) jusqu'à maturation rachidienne. Guide Affection de longue durée. 2008.
+- Prescrire Redaction. Histoire naturelle de la scoliose idiopathique. Rev Prescrire. 2006.
 
 ### À lire
 
 - [HAS. Déformations précoces du rachis. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3374137/fr/deformations-precoces-du-rachis)
-- Prescrire Redaction. Histoire naturelle de la scoliose idiopathique. Rev Prescrire. 2006.
+- [Collège Français des Enseignants en Rhumatologie (COFER). Rachialgies. Item 94 UE 5. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-3-0.php)
+- [Courtois I, Ebermeyer E. Scoliose de l'enfant et de l'adolescent. La Lettre du Rhumatologue. 2010. (PDF)](https://www.edimark.fr/Front/frontpost/getfiles/16489.pdf)
+- [HAS. Propositions portant sur le dépistage individuel chez l'enfant de 7 à 18 ans, destinées aux médecins généralistes, pédiatres et médecins scolaires. 2005.](https://www.has-sante.fr/jcms/c_451142/fr/propositions-portant-sur-le-depistage-individuel-chez-l-enfant-de-7-a-18-ans-destinees-aux-medecins-generalistes-pediatres-et-medecins-scolaires)
 - Cochrane Library
 - EBM
 - Video

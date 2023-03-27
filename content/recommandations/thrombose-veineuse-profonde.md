@@ -1,17 +1,17 @@
 +++
 title = "Thrombose veineuse profonde (TVP)"
 prefix = "la "
-titleSeo = "Thrombose veineuse profonde"
+titleSeo = "Thrombose veineuse profonde TVP"
 description = "Recommandations pour la prise en charge de la Thrombose veineuse profonde TVP. Score de Wells, D-dimères et indications à l'échodoppler, durée d'anticoagulation"
 longHtml = true
 synonyms = ["Phlébite profonde"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-19T18:21:00+02:00
 publishdate = "2021-03-19"
-lastmod = "2022-09-28"
+lastmod = "2023-03-27"
 specialites = ["cardiologie"]
 annees = "2019"
-sources = ["SFC", "SPLF", "SFMV"]
+sources = ["SPLF", "SFC", "SFMV"]
 tags = ["anticoagulant", "MVTE"]
 anglais = ["Deep venous thrombosis"]
 sctid = "128053003"
@@ -19,15 +19,21 @@ icd10 = "I80.2"
 image = true
 imageSrc = "Thrombose veineuse profonde bilatérale chez une femme de 35 ans avec cancer du col. Cas du Dr Muhammad Yousaf, Radiopaedia.org, rID: 159314"
 flowchart = true
-todo = "SEO traitement anticoagulant x3; plaq en HBPM préventif, proba forte et doppler neg?, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/, IRC avec CKD-EPI ou cockroft ?, https://splf.fr/traitement-de-la-maladie-veineuse-thromboembolique-au-cours-du-cancer-mis-a-jour-mars-2021/?utm_source=rss&utm_medium=rss&utm_campaign=traitement-de-la-maladie-veineuse-thromboembolique-au-cours-du-cancer-mis-a-jour-mars-2021"
+todo = "SEO traitement anticoagulant x3; plaq en HBPM préventif, proba forte et doppler neg?, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/, IRC avec CKD-EPI ou cockroft ?"
 +++
 
 Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'état.
 
 {{%article-summary%}}
 
-- Recommandations pour la prise en charge d'une suspicion de thrombose veineuse profonde (TVP) en l'absence de signe d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) (dyspnée, malaise, tachycardie et douleur thoracique)
-- Score clinique systématique (score de Wells ou Constans) avec dosage des D-dimères ou écho-doppler veineux selon le résultat du score
+Recommandations pour la prise en charge d'une suspicion de thrombose veineuse profonde (TVP) en l'absence de signe d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) (dyspnée, malaise, tachycardie et douleur thoracique):
+
+- Score clinique systématique (score de Wells ou Constans, voir *Probabilité clinique*) avec dosage des D-dimères ou écho-doppler veineux d'emblée selon le résultat du score
+- Le seuil de D-dimères est adapté à l'âge à partir de 50 ans (ex: 700 après 70 ans)
+- Le bilan par échodoppler veineux est nécessaire dans les cas suivants: probabilité faible/intermédiaire et d-dimères non réalisables, d-dimères anormaux
+- Contrôler les critères d'hospitalisation d'une phlébite (voir *Critères d'hospitalisation*)
+- Mener l'enquête étiologique de la survenue de cet épisode
+- Prise en charge de la TVP par anticoagulants
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -55,8 +61,8 @@ HNF
 MI
 : membre inférieur
 
-MVTE (ou MTEV)
-: maladie veineuse thromboembolique
+MVTE (ou MTEV ou ETEV)
+: maladie veineuse thromboembolique (ou maladie thrombo-embolique veineuse ou événement thromboembolique veineux)
 
 TIH
 : thrombopénie induite à l'héparine
@@ -83,6 +89,8 @@ En l'absence de signes d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md"
 
 Une suspicion de thrombose veineuse profonde (sans EP) devrait être explorée en ambulatoire (voir *Critères d'hospitalisation*).
 
+Bilan d'une suspicion de thrombose veineuse profonde (TVP):
+
 - NFS
 - Créatininémie
 
@@ -100,12 +108,13 @@ Après 50 ans, la borne des D-dimères est à 10x l'âge {{%class%}}(ex. 700 à 
 - D-dimères normaux
   - Ne pas réaliser d'écho-doppler
   - Ne pas poursuivre les investigations
-- D-dimères anormaux  
-  Réaliser l'écho-doppler veineux.
+- D-dimères anormaux: écho-doppler veineux
+
+Autres situations où les d-dimères sont augmentés (*SFMV 2021*): état inflammatoire (traumatisme, hématome, post-opératoire, maladie inflammatoire, sepsis), [cancer](/tags/cancer/), malformation vasculaire, CIVD, âge, grossesse et post-partum.
 
 ### Écho-doppler veineux
 
-Indications: **probabilité forte** de TVP (selon le score clinique initial), D-dimères élevés ou non accessibles.
+Indications à l'échodoppler veineux pour suspicion de TVP: **probabilité forte** de TVP (selon le score clinique initial), D-dimères élevés ou non accessibles.
 
 #### Interpréter les résultats de l'écho-doppler veineux
 
@@ -125,7 +134,7 @@ Indications: **probabilité forte** de TVP (selon le score clinique initial), D-
 
 L'hospitalisation est recommandée en cas de phlébite avec:
 
-- Suspicion d'embolie pulmonaire
+- Suspicion d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
 - Phlébite bilatérale
 - Syndrome obstructif sévère ou signes d'ischémie
 - Symptômes mal tolérés après 15 jours d'anticoagulation efficace
@@ -214,14 +223,14 @@ Le traitement doit durer 3 à 6 mois voire une durée non limitée et prend en c
 
 1<sup>re</sup> TVP proximale non provoquée par {{< modal-btn modal-mvte-fdr >}}facteur majeur transitoire{{< /modal-btn >}} et sans {{< modal-btn modal-mvte-recidive >}}facteur persistant majeur{{< /modal-btn >}}:
 
-- Max 6 mois si:
+- Maximum 6 mois si:
   - Règle HERDOO2 ≤ 1
   - Femme < 50 ans
   - Risque hémorragique élevé
   - Présence de {{< modal-btn modal-mvte-recidive >}}facteur de risque mineur transitoire{{< /modal-btn >}}
 - Traitement au long cours si:
   - Thrombophilie majeure  
-    Déficit AT, SAPL, certains déficits prot. C ou S.
+    Déficit AT, SAPL, certains déficits protéines C ou S.
 
 #### Anticoagulation par AOD
 
@@ -280,7 +289,7 @@ Indication: TVP proximale diagnostiquée dans les 30 jours (avec ou sans EP) ave
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une TVP" "show" %}}
 
-{{< mermaid title="Prise en charge d'une suspicion de thrombose veineuse profonde. Dr JB Fron d'après Sanchez 2019" >}}
+{{< mermaid title="Prise en charge d'une suspicion de thrombose veineuse profonde (TVP). Dr JB Fron d'après Sanchez 2019" >}}
 graph TB
   tvp[Suspicion de TVP<br>sans argument d'EP] --> score(<b>Score clinique</b><br>Wells, Constans ou LEFt)
   style tvp stroke:#4150f5, stroke-width:1px
@@ -304,10 +313,11 @@ graph TB
 {{%sources%}}
 
 - [SFMV, GFHT. La place du dosage des d-dimères en médecine. Communiqué. 2021.](https://site.geht.org/actu/la-place-du-dosage-des-d-dimeres-en-medecine-document-medecins-sfmv-gfht-innovte/)
-- [Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/pii/S0761842519300051)
+- [Sanchez O et al; SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/pii/S0761842519300051)
 
 ### À lire
 
+- [Mahé I et al; SPLF. Traitement de la maladie veineuse thromboembolique au cours du cancer. Mise à jour mars 2021. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/traitment-maladie-veineuse-maj2021.pdf)
 - [Collège des Enseignants de Pneumologie (CEP). Embolie pulmonaire et thrombose veineuse profonde. Item 226 & 330. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_226_et_330_MTEV_2021_ex_items_ex-items_224_et_326v3.pdf)
 - [Albaladejo et al. Commentaires et propositions du Groupe d'Intérêt en Hémostase Périopératoire (GIHP) sur les recommandations de la Société Européenne d'Anesthésie : European Guidelines on perioperative venous thromboembolism prophylaxis. 2019. (PDF)](https://www.portailvasculaire.fr/sites/default/files/docs/2019_gihp_commentaires_2018_esa_vte_guidelines_mtev_prevention_peri-op.pdf)
 - [Afshari A. et al; ESA VTE Guidelines Task Force. European Guidelines on perioperative venous thromboembolism prophylaxis. Eur Jour Anaes. 2018.](https://journals.lww.com/ejanaesthesiology/fulltext/2018/02000/european_guidelines_on_perioperative_venous.2.aspx)

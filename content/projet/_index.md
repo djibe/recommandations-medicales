@@ -1,5 +1,5 @@
 +++
-title = "Le projet de Recommandations médicales | RecoMédicales"
+title = "Le projet des Recommandations médicales"
 noindex = true
 description = "Présentation du projet RecoMédicales développé pour tous les médecins généralistes. Créé pour accéder à l'information nécessaire aux soins primaires"
 longHtml = true

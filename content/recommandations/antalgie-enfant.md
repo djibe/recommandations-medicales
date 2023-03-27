@@ -19,7 +19,6 @@ icd10 = "R52.9"
 image = true
 imageSrc = "La douleur de l'enfant. Nathan Phillips sur Foter.com"
 slider = true
-paracetamol = false
 todo = "https://www.phel.ch/upload/docs/application/pdf/2016-05/a4_poster_gsasa_2015_rotation_opiaces_mj.pdf"
 +++
 
@@ -27,7 +26,7 @@ todo = "https://www.phel.ch/upload/docs/application/pdf/2016-05/a4_poster_gsasa_
 
 Recommandations pour la prise en charge de la douleur nociceptive de l'enfant:
 
-- Évaluer la douleur chez l'enfant: [EVENDOL](https://pediadol.org/wp-content/uploads/2006/06/EVENDOL.pdf) chez le nourrisson, [échelle des visages](https://pediadol.org/wp-content/uploads/2004/06/FPS-R.pdf) à partir de 4 ans puis [EVA pédiatrique](https://www.sparadrap.org/boutique/produit/reglette-visages-dautoevaluation-de-la-douleur) à partir de 6 ans
+- Évaluer la douleur chez l'enfant: [EVENDOL](https://pediadol.org/wp-content/uploads/2006/06/EVENDOL.pdf) chez le nourrisson, [échelle des visages](https://pediadol.org/wp-content/uploads/2004/06/FPS-R.pdf) à partir de 4 ans puis [EVA pédiatrique](https://www.sparadrap.org/boutique/produit/reglette-eva-dautoevaluation-de-la-douleur) à partir de 6 ans
 - Préciser sur l'ordonnance si l'administration de l'antalgique est systématique ou selon le seuil de l'évaluation, prévoir une prescription d'emblée en cas de soulagement insuffisant
 - Toujours maintenir le paracétamol, associer l'ibuprofène si besoin (sauf varicelle, angine ...)
 - Les antalgiques de palier 2 étant limités chez l'enfant, le recours à la morphine est plus précoce (mais concerne exceptionnellement le généraliste)

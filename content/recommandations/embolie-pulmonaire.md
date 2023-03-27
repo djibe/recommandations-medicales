@@ -17,29 +17,27 @@ image = true
 imageWEBP = true
 imageSrc = "Embolie segmentaire par scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "p.21, flowchart duree, def cancer actif, carnet AVK, https://erj.ersjournals.com/content/54/3/1901647"
+todo = "def des signes, p.21, flowchart duree, def cancer actif"
 +++
-
-*En voie de finalisation. La durée de traitement est manquante.*
 
 {{%article-summary%}}
 
-- Évoquer devant dyspnée, douleur thoracique ou malaise non expliqué par un autre diagnostic
-- Signes de gravité: hypotension artérielle, état de choc, détresse respiratoire. Appel du 15
-- La suspicion clinique (cas stable) est évaluée avec le score de Genève ou de Wells
-- Une suspicion faible d'EP peut être infirmée par la règle PERC (sauf ≥ 50 ans, grossesse ou post-partum)
-- Adresser aux urgences toute suspicion d'EP non infirmée par la règle PERC
+*En voie de finalisation. La durée de traitement est manquante*
 
-Voir aussi [thrombose veineuse profonde (TVP)]({{< relref "thrombose-veineuse-profonde.md" >}})
+- Évoquer une embolie pulmonaire (EP) devant: dyspnée, douleur thoracique ou malaise non expliqué par un autre diagnostic
+- Signes de gravité de l'embolie pulmonaire: hypotension artérielle, état de choc, détresse respiratoire. Appel du 15
+- La suspicion clinique d'embolie pulmonaire chez un patient stable est évaluée avec le score de Genève ou de Wells
+- Une suspicion faible d'embolie pulmonaire peut être infirmée par la règle PERC (sauf âge ≥ 50 ans, grossesse ou post-partum)
+- Adresser aux urgences toute suspicion d'embolie pulmonaire non infirmée par la règle PERC
+
+Chapitre lié: [thrombose veineuse profonde (TVP)]({{< relref "thrombose-veineuse-profonde.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Embolie pulmonaire
 : Obstruction d'une ou plusieurs artères pulmonaires par un thrombus.
-
-Hospitalisations annuelles: 35.000  
-Mortalité hospitalière: 5%
+: 35.000 hospitalisations annuelles avec une mortalité hospitalière de 5%.
 
 ### Abréviations
 
@@ -59,7 +57,7 @@ MICI
 : maladies inflammatoires chroniques intestinales
 
 MVTE (ou MTEV)
-: maladie veineuse thromboembolique
+: maladie veineuse thromboembolique (ou maladie thrombo-embolique veineuse)
 
 SAPL
 : syndrome des anticorps anti-phospholipides
@@ -81,7 +79,7 @@ TVP
 
 ### Signes de gravité d'une embolie pulmonaire
 
-Appel du {{<phone>}}15{{</phone>}} en présence d'au moins 1 parmi:
+Appel du {{<phone>}}15{{</phone>}} en présence d'au moins un signe parmi:
 
 - Hypotension artérielle
 - État de choc
@@ -139,21 +137,21 @@ Si réception de D-dimères pour suspicion d'EP au cabinet:
 - Adresser aux urgences en cas D-dimères positifs pour angioscanner
 {{%/info%}}
 
-### Examens: pour en savoir plus
+### Bilan de l'embolie pulmonaire: pour en savoir plus
 
 #### D-dimères
 
-Indications:
+Indications au d-dimères pour une suspicion d'embolie pulmonaire:
 
 - Probabilité clinique faible non écartée par la règle PERC
 - Probabilité clinique intermédiaire
 
 #### Angioscanner thoracique
 
-Indications:
+Indications à l'angioscanner:
 
 - D-dimères augmentés  
-En prenant en compte l'adaptation de l'âge après 50 ans.
+  En prenant en compte l'adaptation de l'âge après 50 ans.
 - Probabilité clinique forte
 
 {{% /collapse %}}
@@ -162,9 +160,9 @@ En prenant en compte l'adaptation de l'âge après 50 ans.
 Toute suspicion d'embolie pulmonaire doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC)
 {.alert .alert-warning}
 
-### Traitement ambulatoire
+### Prise en charge ambulatoire de l'embolie pulmonaire
 
-Prise en charge ambulatoire possible en cas stabilité hémodynamique et de réponse négative aux 11 *critères Hestia* (dite EP à faible risque de mortalité précoce):
+La prise en charge ambulatoire de l'embolie pulmonaire est possible après l'exploration aux Urgences. Le patient doit être stable hémodynamiquement et avec une réponse négative aux 11 *critères Hestia* (dite EP à faible risque de mortalité précoce):
 
 1. Instabilité hémodynamique  
   Avis du clinicien, PAS < 100 mmHg et FC > 100/min.
@@ -181,24 +179,23 @@ Prise en charge ambulatoire possible en cas stabilité hémodynamique et de rép
   Non pertinent si traitement possible par AOD.
 11. Raison médicale ou sociale pour hospitalisation > 24h
 
-### Anticoagulation curative
+### Anticoagulation curative de l'embolie pulmonaire
 
-Doit être débutée dès la suspicion clinique en l'absence de contre-indication et de risque hémorragique élevé si:
+L'anticoagulation doit être débutée dès la suspicion clinique d'EP en l'absence de contre-indication et de risque hémorragique élevé si:
 
 - Probabilité clinique forte
 - Probabilité clinique intermédiaire et délai pour les résultats > 4h
 - Probabilité clinique faible et délai pour les résultats > 24h
 
-Avec surveillance NFS, ionogramme, créatininémie, bilan hépatique.
+Avec surveillance biologique: NFS, ionogramme, créatininémie, bilan hépatique.
 
-#### Durée de l'anticoagulation
+#### Durée de l'anticoagulation d'une embolie pulmonaire
 
-La durée dépend de la présence de {{< modal-btn clinique-mvte-facteur-risque-traitement >}}facteurs de risque de récidive thromboembolique{{< /modal-btn >}}.
+La durée de l'anticoagulation dépend de la présence de {{< modal-btn clinique-mvte-facteur-risque-traitement >}}facteurs de risque de récidive thromboembolique{{< /modal-btn >}}.
 
-Au moins 3 voire 6 mois ou durée non limitée:
+L'anticoagulation dure au moins 3 voire 6 mois ou pour une durée non limitée:
 
-- 1<sup>re</sup> EP provoquée par un facteur transitoire majeur  
-3 à 6 mois maximum.
+- 1<sup>re</sup> EP provoquée par un facteur transitoire majeur: 3 à 6 mois maximum
 - 1<sup>re</sup> EP non provoquée en l'absence de facteur majeur persistant avec ≥ 1 parmi
   - Femme avec {{< modal-btn modal-score-herdoo2 >}}règle HERDOO2{{< /modal-btn >}} ≤ 1
   - Femme < 50 ans
@@ -220,8 +217,9 @@ TODO: Figure 11
 
 #### AVK
 
-- INR cible 2,5 (2 - 3)  
-Toutes les 3-4 semaines.
+Mesure de prise en charge sous [AVK]({{< relref "avk.md" >}}):
+
+- INR cible 2,5 (2 - 3) toutes les 3-4 semaines.
 - Éducation du patient
 - Carnet de suivi
 
@@ -320,12 +318,13 @@ accTitle: Prise en charge ambulatoire d'une suspicion d'embolie pulmonaire d'apr
 {{%sources%}}
 
 - [SFMV, GFHT. La place du dosage des d-dimères en médecine. Communiqué. 2021.](https://site.geht.org/actu/la-place-du-dosage-des-d-dimeres-en-medecine-document-medecins-sfmv-gfht-innovte/)
-- [Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://doi.org/10.1016/j.rmr.2019.01.003)
+- [Sanchez O et al; SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://doi.org/10.1016/j.rmr.2019.01.003)
 - [Collège National des Enseignants de Cardiologie. Thrombose veineuse profonde et embolie pulmonaire. Item 224. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch21_maladie_veineuse_te.pdf)
 
 ### À lire
 
-[Collège des Enseignants de Pneumologie (CEP). Embolie pulmonaire et thrombose veineuse profonde. Item 226 & 330. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_226_et_330_MTEV_2021_ex_items_ex-items_224_et_326v3.pdf)
+- [Stavros V et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS). 2019.](https://erj.ersjournals.com/content/54/3/1901647)
+- [Collège des Enseignants de Pneumologie (CEP). Embolie pulmonaire et thrombose veineuse profonde. Item 226 & 330. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_226_et_330_MTEV_2021_ex_items_ex-items_224_et_326v3.pdf)
 
 {{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}
