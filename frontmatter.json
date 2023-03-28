@@ -1,0 +1,207 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title with 2 to 22 words",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Prefix: le - la ",
+          "name": "prefix",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "description": "160 characters max",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Last modified date",
+          "name": "lastmod",
+          "type": "datetime",
+          "isModifiedDate": true
+        },
+        {
+          "title": "Specialité(s)",
+          "name": "specialites",
+          "type": "taxonomy",
+          "taxonomyId": "customTaxonomy"
+        },
+        {
+          "title": "Année de la dernière recommandation majeure",
+          "name": "annees",
+          "type": "string"
+        },
+        {
+          "title": "Source(s)",
+          "name": "sources",
+          "type": "list"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Nom(s) de la pathologie en anglais",
+          "name": "anglais",
+          "type": "list"
+        },
+        {
+          "title": "Snomed-CT identifier",
+          "name": "sctid",
+          "type": "string"
+        },
+        {
+          "title": "ICD-10 identifier",
+          "name": "icd10",
+          "type": "string"
+        },
+        {
+          "title": "Has a photo",
+          "name": "image",
+          "type": "boolean"
+        },
+        {
+          "title": "Photo copyright",
+          "name": "imageSrc",
+          "type": "string"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "articles",
+      "path": "[[workspace]]/content/articles",
+      "originalPath": "[[workspace]]/content/articles"
+    },
+    {
+      "title": "cabinet",
+      "path": "[[workspace]]/content/cabinet",
+      "originalPath": "[[workspace]]/content/cabinet"
+    },
+    {
+      "title": "projet",
+      "path": "[[workspace]]/content/projet",
+      "originalPath": "[[workspace]]/content/projet"
+    },
+    {
+      "title": "recommandations",
+      "path": "[[workspace]]/content/recommandations",
+      "originalPath": "[[workspace]]/content/recommandations"
+    }
+  ],
+  "frontMatter.taxonomy.tags": [
+    "AINS",
+    "B12",
+    "BPCO",
+    "EOGD",
+    "EPS",
+    "HSH",
+    "HTA",
+    "IPP",
+    "IST",
+    "MVTE",
+    "SAS",
+    "TSH",
+    "VIH",
+    "adolescent",
+    "allergie",
+    "anticoagulant",
+    "antiplaquettaire",
+    "asthme",
+    "bariatrique",
+    "biotherapie",
+    "cancer",
+    "cephalees",
+    "chute",
+    "coeliaque",
+    "contraception",
+    "demence",
+    "depistage",
+    "diabete",
+    "douleur",
+    "douleur pelvienne",
+    "dyspnee",
+    "enfant",
+    "epreuve effort",
+    "fatigue",
+    "ferritine",
+    "fievre",
+    "gastrite",
+    "geriatrie",
+    "grossesse",
+    "hepatite",
+    "infertilite",
+    "insuline",
+    "nephropathie",
+    "neuropathie",
+    "nourrisson",
+    "obesite",
+    "prevention",
+    "prurit",
+    "retinopathie",
+    "risque cardiovasculaire",
+    "sueurs nocturnes",
+    "tabac",
+    "toux",
+    "vaccin",
+    "vertige",
+    "vitamine d",
+    "voyage",
+    "zona"
+  ],
+  "frontMatter.taxonomy.customTaxonomy": [
+    {
+      "id": "specialites",
+      "options": [
+        "addictologie",
+        "allergologie",
+        "biologie",
+        "cardiologie",
+        "certificats",
+        "dermatologie",
+        "endocrinologie",
+        "gynecologie-obstetrique",
+        "hematologie",
+        "hepato-gastro-enterologie",
+        "infectiologie",
+        "medecine du sommeil",
+        "nephrologie",
+        "neurologie",
+        "ophtalmologie",
+        "ORL",
+        "pediatrie",
+        "pneumologie",
+        "psychiatrie",
+        "rhumatologie",
+        "social",
+        "therapeutique",
+        "urologie"
+      ]
+    }
+  ],
+  "frontMatter.taxonomy.categories": []
+}

@@ -28,8 +28,6 @@ TODO:
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-
-
 {{% /collapse %}}
 {{%collapse "Prise en charge des complications de la chimiothérapie" "show" %}}
 
