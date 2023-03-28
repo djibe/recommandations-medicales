@@ -5,9 +5,11 @@ Dernières recommandations médicales pour la pratique en consultation du médec
 
 **Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours.**
 
+<a href='https://ko-fi.com/I3I4JVDWX' target='_blank' rel="external nofollow noopener"><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Faire un don via ko-fi.com'/></a>
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br>Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International</a>
 
-[RecoMédicales](https://recomedicales.fr/) est développé pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder rapidement à tout ce dont ils ont besoin en consultation.
+[RecoMédicales](https://recomedicales.fr/) est développé par 2 généralistes pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder rapidement à tout ce dont ils ont besoin en consultation.
 
 ## Pourquoi RecoMédicales ?
 
@@ -54,7 +56,7 @@ Seul un outil numérique peut nous aider.
 et aussi...
 
 - Low tech  
-  Seulement à base de fichiers textes éditables par tout le monde.
+  Seulement à base de fichiers textes modifiables par tout le monde.
 - Connectable  
   Via les codes CIM-10 et SNOMED-CT, le site peut être branché à d'autres systèmes.
 - Résistant  
@@ -86,12 +88,15 @@ Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans
 
 ### Créer un nouvel article
 
-`npm run recommandations:new`. Le fichier article.md est créé dans le dossier /content/recommandations/.  
+Entrez la commande `npm run recommandations:new`.
+
+Le fichier article.md est créé dans le dossier `/content/recommandations/`.
+
 Tous les articles sont au [format Markdown](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0) qui permet d'écrire du texte brut avec quelques enrichissements pour se concentrer sur le contenu.
 
-### Faciliter l'édition
+### Faciliter l'édition du contenu
 
-Je recommande l'éditeur de texte/code gratuit [Visual Studio Code](https://code.visualstudio.com/download) avec les extensions suivantes: Bracket Pair Colorizer 2, Code Spell Checker et French - Code Spell Checker, Color Highlight, EditorConfig for VS Code, Hugo Language and Syntax Support, Markdown All in One, npm-ui, Path Intellisense, TOML Language Support.
+Je recommande l'éditeur de texte gratuit [Visual Studio Code](https://code.visualstudio.com/download) avec les extensions suivantes: Bracket Pair Colorizer 2, Code Spell Checker et French - Code Spell Checker, Color Highlight, EditorConfig for VS Code, Hugo Language and Syntax Support, Markdown All in One, **npm-ui**, Path Intellisense, TOML Language Support.
 
 ## Dernière compilation du site
 
@@ -99,4 +104,6 @@ Je recommande l'éditeur de texte/code gratuit [Visual Studio Code](https://code
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br>Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International</a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"></a><br>Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International</a>
+
+<a href='https://ko-fi.com/I3I4JVDWX' target='_blank' rel="external nofollow noopener"><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Faire un don via ko-fi.com'/></a>

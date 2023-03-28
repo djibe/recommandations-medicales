@@ -1,18 +1,18 @@
 +++
-title = "Cardiopathie ischémique: Syndrome coronarien chronique"
+title = "Cardiopathie ischémique: Syndrome coronarien chronique (SCC)"
 prefix = "la "
 titleSeo = "Cardiopathie ischémique"
 description = "TODO:"
 synonyms = ["Coronaropathie", "post-infarctus", "angor", "angine de poitrine"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-28T16:29:03+02:00"
-publishdate = "2022-10-28"
-lastmod = "2022-10-28"
+publishdate = "2023-03-28"
+lastmod = "2023-03-28"
 specialites = ["cardiologie"]
 annees = "2021"
-sources = ["HAS"]
+sources = ["HAS", "ESC"]
 tags = ["risque cardiovasculaire", "tabac"]
-anglais = ["Chronic coronary syndromes", "chronic coronary insufficiency", "chronic myocardial ischemia"]
+anglais = ["Chronic coronary syndromes", "chronic coronary insufficiency", "chronic myocardial ischemia", "coronary artery disease (CAD)"]
 sctid = "413844008"
 icd10 = "I25.9"
 draft = true
@@ -80,11 +80,14 @@ SCC
 
 Angor
 :  
-    1. Douleur thoracique rétrosternale déclenchée par: l'effort, la digestion ou le stress émotionnel
+    1. Douleur thoracique rétrosternale* déclenchée par: l'effort, la digestion ou le stress
     2. Douleur qui dure plusieurs minutes (< 20 minutes)
-    3. Douleur soulagée par le repos ou la nitroglycérine
+    3. Douleur soulagée par le repos ou la nitroglycérine (< 5 minutes)
 : Une dyspnée d'effort peut être considérée comme un équivalent d'angor en l'absence d'autre cause.
 : La **<abbr title="Stratification de la probabilité de coronaropathie avant le test d'effort">probabilité pré-test</abbr>** est calculée selon l'âge, le sexe, l'angor.
+
+\* Douleur ressentie: thoracique rétrosternale, épigastrique, mandibulaire, entre les épaules, ou le bras/poignet/main.  
+Décrite comme une pression, une oppression ou une lourdeur, parfois comme un étranglement, une constriction ou une brûlure.
 
 ---
 
@@ -117,6 +120,7 @@ Possible déclaration en accident du travail (certificat médical initial).
 - Poids, taille, IMC, périmètre abdominal
 - Pression artérielle, fréquence cardiaque
 - Pouls périphériques et [mesure de l'IPS]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
+- Souffle vasculaire (carotidien, fémoral)
 - Rechercher des signes:
   - Insuffisance cardiaque
   - Anémie
@@ -128,19 +132,21 @@ Possible déclaration en accident du travail (certificat médical initial).
 {{%collapse "Examens complémentaires" %}}
 
 - NFS
-- Glycémie à jeun (< 1 an)
+- Glycémie à jeun (< 1 an), HbA1c
 - Bilan lipidique (< 1 an)
 - Ionogramme sanguin
 - Créatininémie avec DFG CKD-EPI
+- Uricémie
 - Selon le tableau: TSH, (NT-pro)BNP
 - ECG de repos
+- Holter-ECG si: suspicion de troubles du rythme, vasospastique
 - Échocardiographie transthoracique
 - Tableau atypique, suspicion pulmonaire: Radiographie thoracique
 
 Épreuve d'effort voire coroscanner.
 Confirmation: échodoppler des TSA, AAA, IPS ± échodoppler MI, HTA-R ou IRC doppler SAR
 
-### ECG de repos 12D
+### Électrocardiogramme de repos 12 dérivations
 
 << La normalité du tracé ECG ne permet pas d'exclure un SCC >>
 
@@ -156,28 +162,30 @@ Très haut risque cardiovasculaire
 Titration dose maximale tolérée
 Contrôle à 6 mois
 
-Correction des facteurs de risque cardiovasculaire
-  - Arrêt du tabac
-  - Réduction alcool < 10 verres/semaine
-  - Contrôle tensionnel
-  - LDL cible
-  - Correction d'un surpoids
-  - Régime méditerranéen
-  - Activité physique régulière  
-    - Programme d'APA; min 150 min/sem endurance, renforcement musculaire 2-3/sem avec 10-15 répétitions
-    - Sédentarité < 7h/j, bouger 1 minute/h
-  - DT2: cible 7%, suivi diabéto ?
+Correction des facteurs de risque cardiovasculaire:
+
+- Arrêt du tabac
+- Réduction alcool < 10 verres/semaine
+- Contrôle tensionnel
+- LDL cible
+- Correction d'un surpoids
+- Régime méditerranéen
+- Activité physique régulière  
+  - Programme d'APA; min 150 min/sem endurance, renforcement musculaire 2-3/sem avec 10-15 répétitions
+  - Sédentarité < 7h/j, bouger 1 minute/h
+- DT2: cible 7%, suivi diabéto, iSGLT2 ou GLP-1
 
 - Réadaptation cardiaque systématique
-- BB voire ICa
-- Aspirine 75-100 voire bi-antithrombotique (score Precise-DAPT)  
+- BB +/- ICa non-DHP
+  - Si angine persistante: Nitré action longue ou nicorandil
+- Aspirine 75-100 mg/j voire bi-antithrombotique (score Precise-DAPT)  
   Clopidogrel si AOMI ou AIC/AIT
+  IPP si haut risque de saignement
 - Statine systématique
   - voire ézétimibe
   - voire Evolocumab (Repatha®), Alirocumab Praluent®
   - pamplemousse
 - Post-infarctus, dysfonction VG ou diabète: IEC ou ARA2
-- Nitré action longue ou nicorandil
 - Vaccin: grippe, pneumocoque si ICC
 - Prise en charge psychologique  
   TCC pour changement mode de vie.
@@ -190,9 +198,11 @@ relève de l'exonération du ticket modérateur. L'exonération initiale est acc
 10 ans, renouvelable.
 
 FA: CHADS, aspirine 75 à 100 mg/jour ou le clopidogrel 75 mg/jour peuvent être proposés en association
-avec l'anticoagulation orale au long cours chez les patients en FA, avec un antécédent
+avec l'anticoagulation orale au long cours chez les patients en FA (AOD > AVK), avec un antécédent
 d'infarctus du myocarde au-delà des 12 mois recommandés et un haut risque de récurrence
 d'évènements ischémiques, et qui ne sont pas à haut risque hémorragique
+Trithérapie envisageable en cas de très haut risque de thrombose du stent.
+IPP si haut risque de saignement
 
 Information: SFC, FFC
 

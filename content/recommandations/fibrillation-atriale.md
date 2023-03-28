@@ -248,9 +248,9 @@ Recommandations générales pour la prise en charge de la fibrillation atriale:
   - Activité physique d'intensité modérée  
   Éviter endurance prolongée (marathon).
 - Anticoagulant ({{< modal-btn modal-chads >}}indication{{< /modal-btn >}}, {{< modal-btn modal-aod >}}molécules{{< /modal-btn >}})  
-  Contre-indication aux antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS.
+  Contre-indication aux antithrombotiques (aspirine, clopidogrel sauf coronaropathie) et AINS.
 - Contrôle de la fréquence: cible < 110/min par {{< modal-btn modal-bradycardisant >}}BB{{< /modal-btn >}}  
-  Voire < 80 si symptomatique.
+  Voire < 80/min si symptomatique.
 - La cardioversion n'est pas abordée: cardiologue uniquement
 - Hypertension artérielle
   - Cible ≤ 130/80 mmHg

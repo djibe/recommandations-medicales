@@ -8,7 +8,7 @@ date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
 lastmod = "2023-01-18"
 specialites = ["infectiologie"]
-annees = "2023"
+annees = "2022"
 sources = ["HCSP", "SPILF", "HAS"]
 tags = ["nourrisson", "toux"]
 anglais = ["Pertussis", "Whooping cough"]
@@ -23,7 +23,7 @@ todo = "https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"
 
 - Ces recommandations visent à protéger les nourrissons non immuns de la coqueluche
 - Évoquer une coqueluche devant toute toux de plus de 7 jours
-- Le diagnostic de coqueluche est biologique par une *PCR coqueluche*
+- Le diagnostic de coqueluche est biologique par une *PCR coqueluche* dans les 3 premières semaines de symptômes
 - Prise en charge de la coqueluche: éviction de la collectivité et antibiothérapie azithromycine 250 mg x 2/j pendant 3 jours ...
 - et antibioprophylaxie des sujets contacts (voir Section spécifique)
 - Vaccination coqueluche
@@ -128,7 +128,7 @@ Radiographie thoracique selon le tableau clinique.
 
 ### PCR coqueluche
 
-Dans les 3 premières semaines suivant l'apparition des symptômes de coqueluche: PCR *Bordetella* sur prélèvement nasopharyngé (avec culture si symptômes depuis moins de 15 jours) devant toute suspicion de coqueluche (*HCSP 2023*).  
+Dans les 3 premières semaines suivant l'apparition des symptômes de coqueluche: PCR *Bordetella* sur prélèvement nasopharyngé (avec culture si symptômes depuis moins de 15 jours) devant toute suspicion de coqueluche (*HCSP 2022*).  
 Pas d'examen complémentaire après 21 jours de symptômes (le diagnostic est clinique).
 
 Cas contact: PCR possible dans les 3 semaines suivant le dernier contact avec le cas-index (sauf asymptomatique avec *B. parapertussis*).
@@ -138,7 +138,7 @@ Cas contact: PCR possible dans les 3 semaines suivant le dernier contact avec le
 
 {{%warning%}}
 
-### Indications à hospitaliser une coqueluche
+### Critères d'hospitalisation de la coqueluche
 
 - Nourrisson de moins de 3 mois
 - Selon tolérance chez le +3 mois  
@@ -237,7 +237,7 @@ Antibioprophylaxie des contacts du cas la plus précoce possible, jusqu'à 21 jo
 {{% /collapse %}}
 {{%sources%}}
 
-- [HCSP. Conduite à tenir autour d'un ou plusieurs cas de coqueluche. 2023.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1265)
+- [HCSP. Conduite à tenir autour d'un ou plusieurs cas de coqueluche. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1265)
 - {{< references/calendrier-vaccinal >}}
 - [SPILF. Info-antibio N°92. Mai 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)
 - [HCSP. Conduite à tenir devant un ou plusieurs cas de coqueluche. 2008.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=36)
