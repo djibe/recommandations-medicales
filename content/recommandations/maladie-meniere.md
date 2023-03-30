@@ -174,7 +174,7 @@ Peut être prescrite en 1<sup>re</sup> intention.
 
 Diurétique à dose minimale efficace
 : Pour améliorer les vertiges, fractionner sur le nycthémère. Données d'efficacité limitées.
-: Molécules: hydrochlorothiazide, acétazolamide, <del>chlorthalidone</del>, hydrochlorothiazide-triamtérène.  
+: Molécules: hydrochlorothiazide (HCT), acétazolamide, <del>chlorthalidone</del>, hydrochlorothiazide-triamtérène.  
 Surveillance du ionogramme sanguin.
 
 Corticoïdes par voie générale ou intratympanique (ITC)

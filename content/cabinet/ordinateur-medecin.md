@@ -26,10 +26,10 @@ Je ne m'étendrai pas sur les Mac, qui ont une offre moindre avec très peu de l
 
 Au minimum le PC doit avoir:
 
-- Un processeur 4 cœurs dernière génération (max 160€)  
+- Un processeur 4 cœurs dernière génération avec carte graphique intégrée (max 160€)  
   ex. Intel Core i3 12100
 - Un disque dur ultra-rapide (dit SSD, max 150€ pour 1 To)  
-  500 Go de stockage suffiront pour un exercice normal, le milieu-haut de gamme permet d'avoir une fluidité parfaite. Ex. Samsung 980 Pro
+  500 Go de stockage suffiront pour un exercice normal, le milieu/haut de gamme permet d'avoir une fluidité parfaite. Ex. Samsung 980 Pro
 - 8 à 16 Go de mémoire vive (dite RAM, max 35€ pour 8 Go)  
   Conserve les programmes ouverts en parallèle.
 - Windows 10 ou 11 Pro (pour la gestion du réseau du cabinet)  
@@ -46,10 +46,11 @@ Si vous n'êtes pas effrayé par les risques de conflits des appareils USB avec 
 
 La décision d'un logiciel comme Médistory de ne plus être compatible avec votre Mac qui fonctionne bien vous coûtera 2500 € de Mac neuf, en sus de la license du logiciel.
 
+Il manque de prises USB, donc vous aurez un train de câbles et de conflits liés au hub USB.
+
 ### L'ordinateur tout en 1
 
-Il fait joli, il y a moins de câbles, il est parfait... sur le bureau.  
-À l'usage la moindre panne va être très compliquée à réparer (ou nécessiter un remplacement), impossible à faire évoluer au fil du temps et il se paie au prix fort.
+Il fait joli, il y a moins de câbles, il est parfait... sur le bureau. À l'usage la moindre panne va être très compliquée à réparer (ou nécessiter un remplacement). Il est difficile à faire évoluer au fil du temps et il se paie au prix fort.
 
 Attention aussi: à l'écran brillant qui permet de s'admirer mais pas de travailler, au nombre limité de ports USB qui finira avec des prises de tête lors des conflits sur le hub USB.
 

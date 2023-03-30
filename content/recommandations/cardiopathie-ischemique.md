@@ -6,19 +6,18 @@ description = "TODO:"
 synonyms = ["Coronaropathie", "post-infarctus", "angor", "angine de poitrine"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-28T16:29:03+02:00"
-publishdate = "2023-03-28"
-lastmod = "2023-03-28"
+publishdate = "2023-03-30"
+lastmod = "2023-03-30"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["HAS", "ESC"]
 tags = ["risque cardiovasculaire", "tabac"]
-anglais = ["Chronic coronary syndromes", "chronic coronary insufficiency", "chronic myocardial ischemia", "coronary artery disease (CAD)"]
+anglais = ["Chronic coronary syndrome (CCS)", "chronic coronary insufficiency", "chronic myocardial ischemia", "coronary artery disease (CAD)"]
 sctid = "413844008"
 icd10 = "I25.9"
 draft = true
 image = false
 imageSrc = ""
-todo = "HAS-BLED src8"
 +++
 
 {{%article-summary%}}
@@ -40,7 +39,7 @@ Arrêt tabac est le plus efficace avec réduit mortalité de 36% après un IDM.
 
 Angor vasospastique
 : Angor (angine de poitrine) souvent d'allure typique (voir *Clinique*) survenant au repos mais pas ou rarement à l'effort. Prédominance nocturne. Sensibilité aux dérivés nitrés. Le diagnostic nécessite un bilan cardiologique exhaustif.
-Traitement par ICa et dérivés nitrés de longue durée d'action.
+Traitement par inhibiteur calcique et dérivés nitrés de longue durée d'action.
 Spasme coronarien post-stent: nifédipine.
 
 Coronaropathie microvasculaire primaire
@@ -91,7 +90,7 @@ Décrite comme une pression, une oppression ou une lourdeur, parfois comme un é
 
 ---
 
-Angor typique
+Angor typique (ou angine de poitrine stable)
 : Les 3 critères sont remplis.
 
 Angor atypique (probable)
@@ -102,16 +101,19 @@ Angor peu probable
 {.dl-inline}
 
 - Facteurs de risque cardiovasculaires  
-  Tabac, dyslipidémie, diabète, hypertension artérielle, obésité, hérédité cardiovasculaire.
+  Tabac, dyslipidémie, diabète (x2), hypertension artérielle, obésité, hérédité cardiovasculaire (événement cardiovasculaire ou MCV au premier degré avant 55/65 ans chez un H/F).
 - Antécédents  
   Cardiovasculaires, rénaux, pulmonaire, ménopause précoce
 - Autres toxiques
 - Traitements en cours
-- Profession  
-  Horaires atypiques, intensité physique, exposition  froid ou chaleur ou pollution, sédentarité, stress.
+- Profession
+  - Horaires atypiques, intensité physique, exposition  froid ou chaleur ou pollution, sédentarité, stress
+  - Risque mortel: pilote de ligne, chauffeur routier, athlète nécessite un dépistage coronarien
 - Symptômes angineux et cardiovasculaires
   - Angor, dyspnée, limitations à l'effort
 - Retentissement sur la vie quotidienne
+- Dysfonction érectile  
+  Aggravée par TZD et BB (sauf nébivolol). IPDE5 sauf nitroglycérine.
 
 Possible déclaration en accident du travail (certificat médical initial).
 
@@ -127,9 +129,12 @@ Possible déclaration en accident du travail (certificat médical initial).
   - Hypertension artérielle
   - Valvulopathie
   - Autres organes: maladie rénale, pulmonaire
+- +40 ans asymptomatique: calcul du SCORE2 en l'absence de maladie cardiovasculaire, diabète, insuffisance rénale ou hypercholestérolémie familiale
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
+
+### Bilan de la coronaropathie
 
 - NFS
 - Glycémie à jeun (< 1 an), HbA1c
@@ -141,9 +146,9 @@ Possible déclaration en accident du travail (certificat médical initial).
 - ECG de repos
 - Holter-ECG si: suspicion de troubles du rythme, vasospastique
 - Échocardiographie transthoracique
-- Tableau atypique, suspicion pulmonaire: Radiographie thoracique
+- Tableau atypique, signes d'insuffisance cardiaque ou suspicion de maladie respiratoire: radiographie thoracique
 
-Épreuve d'effort voire coroscanner.
++/- Épreuve d'effort voire coroscanner selon l'évaluation cardiovasculaire.
 Confirmation: échodoppler des TSA, AAA, IPS ± échodoppler MI, HTA-R ou IRC doppler SAR
 
 ### Électrocardiogramme de repos 12 dérivations
@@ -151,7 +156,7 @@ Confirmation: échodoppler des TSA, AAA, IPS ± échodoppler MI, HTA-R ou IRC do
 << La normalité du tracé ECG ne permet pas d'exclure un SCC >>
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du syndrome coronarien chronique" %}}
 
 Réévaluation à chaque consultation.
 revasc ou SCA < 12 mois: au moins 2 cs dans l'année, ETT à 8-12 sem, visite pré-reprise
@@ -164,28 +169,35 @@ Contrôle à 6 mois
 
 Correction des facteurs de risque cardiovasculaire:
 
-- Arrêt du tabac
+- Arrêt du tabac (réduit la mortalité de 36%)
 - Réduction alcool < 10 verres/semaine
 - Contrôle tensionnel
 - LDL cible
-- Correction d'un surpoids
+- Correction d'un surpoids et d'une obésité abdominale
 - Régime méditerranéen
+- Limiter les apports en sel à 5-6 g/j
 - Activité physique régulière  
   - Programme d'APA; min 150 min/sem endurance, renforcement musculaire 2-3/sem avec 10-15 répétitions
   - Sédentarité < 7h/j, bouger 1 minute/h
 - DT2: cible 7%, suivi diabéto, iSGLT2 ou GLP-1
 
 - Réadaptation cardiaque systématique
-- BB +/- ICa non-DHP
-  - Si angine persistante: Nitré action longue ou nicorandil
+- BB ou ICa
+  - Considérer d'emblée association BB + ICa-DHP
+  - Fréquence cardiaque cible: 55-60/min
+  - Réévaluation toutes les 2-4 semaines
+  - Si angine persistante: nitré d'action longue de 2e ligne (Nicorandil, ranolazine, ivabradine, trimetazidine) voir tableau plus bas  
+    Une tolérance s'installe, nécessitant une période libre de 10-14h/j
+- Dérivé nitré d'action rapide pour les symptômes à l'effort: spray + rapide > sublinguale
 - Aspirine 75-100 mg/j voire bi-antithrombotique (score Precise-DAPT)  
-  Clopidogrel si AOMI ou AIC/AIT
-  IPP si haut risque de saignement
+  Clopidogrel 75 mg/j si intolérance, AOMI ou AIC/AIT
+  IPP si haut risque de saignement TODO: ESC284
 - Statine systématique
+  - Très haut risque CV: LDL < 0,55 g/L et réduction ≥ 50%
   - voire ézétimibe
   - voire Evolocumab (Repatha®), Alirocumab Praluent®
   - pamplemousse
-- Post-infarctus, dysfonction VG ou diabète: IEC ou ARA2
+- Post-infarctus, insuffisance cardiaque, dysfonction VG ou diabète: IEC voire ARA2
 - Vaccin: grippe, pneumocoque si ICC
 - Prise en charge psychologique  
   TCC pour changement mode de vie.
@@ -197,6 +209,10 @@ myocardique de perfusion, échographie de stress, échographie d'effort, holter 
 relève de l'exonération du ticket modérateur. L'exonération initiale est accordée pour une durée de
 10 ans, renouvelable.
 
+Le THM augmente le risque CV après 60 ans.
+
+Rééval coronarienne tous les 3-5 ans
+
 FA: CHADS, aspirine 75 à 100 mg/jour ou le clopidogrel 75 mg/jour peuvent être proposés en association
 avec l'anticoagulation orale au long cours chez les patients en FA (AOD > AVK), avec un antécédent
 d'infarctus du myocarde au-delà des 12 mois recommandés et un haut risque de récurrence
@@ -206,75 +222,49 @@ IPP si haut risque de saignement
 
 Information: SFC, FFC
 
-### Crise d'angor
+> Un suivi coordonné par IPA est équivalent au suivi par un suivi généraliste (*[Wood 2008](https://pubmed.ncbi.nlm.nih.gov/18555911/)*)
 
-Conseiller au patient d'arrêter l'effort dès l'apparition des signes.
-➔ Prescrire un dérivé nitré d'action immédiate : une bouffée sous-linguale si douleur thoracique.
-➔ Expliquer :
-‒
-la nécessité de s'allonger en cas de sensation vertigineuse ;
-‒
-la possibilité de répéter la prise après 5 minutes si la douleur n'a pas cédé ;
-‒
-la nécessité d'appeler le centre 15 si la douleur n'a pas cédé dans les 5 minutes après la
-deuxième dose ;
-‒
-les possibles effets secondaires : céphalées, sensations vertigineuses, érythème et bouffées
-de chaleur ;
-‒
-la nécessité d'informer son médecin de l'apparition de douleurs angineuses ayant cédé à la
-trinitrine (TNT) et éventuellement le 15 si les douleurs cèdent sous TNT mais récidivent ;
-‒
-l'indication exclusive de la TNT est la douleur angineuse ;
-‒
-l'importance de ne pas associer aux vasodilatateurs (ex.: sildénafil, …) ;
-‒
-l'intérêt de la prise préventive de ce médicament immédiatement avant l'exercice planifié ou
-l'effort pour les patients restant symptomatiques à l'effort
+{{< table title="Suggestion de titration du traitement anti-ischémique du patient atteint de syndrome coronarien chronique selon le tableau clinique initial. Dr JB Fron d'après ESC 2019" >}}
+| Intention | Standard                        | FC > 80/min          | FC < 50/min   | Dysfonction VG/IC              | hypotension                        |
+|----------:|---------------------------------|----------------------|---------------|--------------------------------|------------------------------------|
+|         1 | BB ou ICa                       | BB ou<br>ICa-non-DHP | ICa-DHP       | BB                             | BB ou ICa-non-DHP<br>faible dose   |
+|         2 | **BB + ICa-DHP**                | BB + ICa*            | NAL           | BB + NAL<br>ou BB + ivabradine | substituer par ivabradine ou autre |
+|         3 | Ajout 2e ligne                  | BB + ivabradine      | ICa-DHP + NAL | Ajout 2e ligne                 | Combiner 2 2e ligne                |
+|         4 | Ajout nicorandil, rano ou trime | idem                 | idem          | idem                           | idem                               |
+{{< /table >}}
+
+> \* Précautions avec ICa-non-DHP
+
+TODO: verif Figure 8
 
 {{% /collapse %}}
 {{%collapse "Éducation thérapeutique" %}}
 
-retrouver un sentiment de maîtrise et de sécurité en adoptant un nouveau projet de vie ;
-‒
-connaître et modifier son mode de vie pour mieux contrôler ses facteurs de risque CV ;
-‒
-savoir pratiquer et interpréter les automesures chez le patient concerné (HTA, diabète) ;
-‒
-connaître et expliquer sa maladie ;
-‒
-repérer les facteurs déclenchants et les signes précurseurs de survenue de l'angor ;
-‒
-utiliser le traitement de la crise à bon escient et savoir quand appeler le 15 ;
-‒
-connaître les médicaments du traitement de fond, les effets bénéfiques et indésirables, et les
-modalités de prises ;
-‒
-solliciter le système de santé à bon escient (anticiper les renouvellements d'ordonnance,
-contacter la médecine du travail en cas de besoin, etc.) ;
-‒
-repérer et corriger les erreurs alimentaires permettant de maintenir un comportement social
-adapté aux souhaits du patient ;
-‒
-découvrir et mettre en place de nouvelles habitudes culinaires riches en plaisir gustatif ;
-‒
-pour l'activité physique :
-• découvrir ou redécouvrir ses bienfaits et intégrer sa pratique régulière et efficace dans la vie
-quotidienne en se donnant des objectifs hebdomadaires raisonnables et si besoin avec l'aide
-d'un professionnel du sport-santé,
-• savoir reprendre, si cela est souhaité, les activités antérieures dans la mesure du possible
-en connaissant et en respectant les limites de sécurité précisées par son environnement
-médical ;
-‒
-connaître les effets délétères du tabagisme et élaborer une balance bénéfices/risques du
-sevrage ;
-‒
-s'engager dans une dynamique de sevrage avec l'aide des différents professionnels concernés.
+Ensemble de connaissances à acquérir au cours des consultations d'éducation thérapeutique en cas de syndrome coronarien chronique:
 
+TODO:
 
+- Retrouver un sentiment de maîtrise et de sécurité en adoptant un nouveau projet de vie
+- Connaître et modifier son mode de vie pour mieux contrôler ses facteurs de risque CV
+- Savoir pratiquer et interpréter les automesures chez le patient concerné (HTA, diabète)
+- Connaître et expliquer sa maladie
+- Repérer les facteurs déclenchants et les signes précurseurs de survenue de l'angor
+- Utiliser le traitement de la crise à bon escient et savoir quand appeler le 15
+- Connaître les médicaments du traitement de fond, les effets bénéfiques et indésirables, et les modalités de prises
+- Solliciter le système de santé à bon escient (anticiper les renouvellements d'ordonnance, contacter la médecine du travail en cas de besoin, etc.)
+- Repérer et corriger les erreurs alimentaires permettant de maintenir un comportement social adapté aux souhaits du patient
+- découvrir et mettre en place de nouvelles habitudes culinaires riches en plaisir gustatif
+- pour l'activité physique
+  - découvrir ou redécouvrir ses bienfaits et intégrer sa pratique régulière et efficace dans la vie quotidienne en se donnant des objectifs hebdomadaires raisonnables et si besoin avec l'aide d'un professionnel du sport-santé
+  - savoir reprendre, si cela est souhaité, les activités antérieures dans la mesure du possible en connaissant et en respectant les limites de sécurité précisées par son environnement médical
+- Connaître les effets délétères du tabagisme et élaborer une balance bénéfices/risques du sevrage
+- S'engager dans une dynamique de sevrage avec l'aide des différents professionnels concernés.
+
+> *HAS*
+> + FC cible 55-60/min, pas arrêt brutal des BB ou anti-angineux
 
 Connaissance des indications :
-‒
+
 de recours au cardiologue, au-delà de la confirmation diagnostique et du suivi régulier ; en
 particulier en cas de :
 • exacerbation d'un SCC,
@@ -297,17 +287,50 @@ d'un travail à plusieurs professionnels de proximité, en particulier chez le c
 situation complexe, avec, si nécessaire, élaboration d'un plan personnalisé de coordination en
 santé
 
+### Savoir gérer une crise d'angor
+
+- Arrêter l'effort en cas de signes d'angor
+- Avoir sur soi le dérivé nitré d'action immédiate (0,3-0,6 mg sublingual ou 0,4 mg spray sans déglutir)
+- S'assoir et prendre une bouffée sublinguale
+- S'allonger en cas de vertiges
+- Répéter toutes les 5 minutes jusqu'à disparition des symptômes sans dépasser 15 minutes ou 1,2 mg
+- Appeler le 15 en cas de résistance à 1,2 mg ou 15 minutes
+- Une dose peut être prise avant un effort déclenchant les symptômes
+
+> *HAS* et *ESC*
+
+‒
+la nécessité de s'allonger en cas de sensation vertigineuse ;
+‒
+la possibilité de répéter la prise après 5 minutes si la douleur n'a pas cédé ;
+‒
+la nécessité d'appeler le centre 15 si la douleur n'a pas cédé dans les 5 minutes après la
+deuxième dose ;
+‒
+les possibles effets secondaires : céphalées, sensations vertigineuses, érythème et bouffées
+de chaleur ;
+‒
+la nécessité d'informer son médecin de l'apparition de douleurs angineuses ayant cédé à la
+trinitrine (TNT) et éventuellement le 15 si les douleurs cèdent sous TNT mais récidivent ;
+‒
+l'indication exclusive de la TNT est la douleur angineuse ;
+‒
+l'importance de ne pas associer aux vasodilatateurs (ex.: sildénafil, …) ;
+‒
+l'intérêt de la prise préventive de ce médicament immédiatement avant l'exercice planifié ou
+l'effort pour les patients restant symptomatiques à l'effort
+
 {{% /collapse %}}
 {{%sources%}}
 
 - [HAS. Syndrome coronarien chronique Prescription d'activité physique. 2022.](https://www.has-sante.fr/jcms/c_2876862/fr/consultation-et-prescription-medicale-d-activite-physique-a-des-fins-de-sante#toc_1_2)
 - [HAS. Guide du parcours de soins - Syndrome coronarien chronique. 2021.](https://www.has-sante.fr/jcms/p_3279083/fr/guide-du-parcours-de-soins-syndrome-coronarien-chronique)
+- [Knuuti J. et al; ESC Scientific Document Group. 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes: The Task Force for the diagnosis and management of chronic coronary syndromes of the European Society of Cardiology (ESC). European Heart Journal. 2019.](https://academic.oup.com/eurheartj/article/41/3/407/5556137)
 
 ### À lire
 
-- [Knuuti J. et al; ESC Scientific Document Group. 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes: The Task Force for the diagnosis and management of chronic coronary syndromes of the European Society of Cardiology (ESC). European Heart Journal.](https://academic.oup.com/eurheartj/article/41/3/407/5556137)
 - [Sorbets E. et al; CLARIFY investigators. Long-term outcomes of chronic coronary syndrome worldwide: insights from the international CLARIFY registry. European Heart Journal.](https://academic.oup.com/eurheartj/article/41/3/347/5556903)
-- [Collège National des Enseignants de Cardiologie. Syndromes coronariens aigus. Item 334 UE11. Cardiologie 2e édition. Octobre 2019. (PDF)](file:///C:/Users/JB/Downloads/2015-2e_Ref_Cardio_ch04_syndromes_coronariens.pdf)
+- [Collège National des Enseignants de Cardiologie. Syndromes coronariens aigus. Item 334 UE11. Cardiologie 2e édition. Octobre 2019. (PDF)](https://www.sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch04_syndromes_coronariens.pdf)
 
 {{%/sources%}}
 

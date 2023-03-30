@@ -7,17 +7,17 @@ synonyms = ["Test d'effort"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-07T19:51:41+02:00"
 publishdate = "2020-09-07"
-lastmod = "2022-01-17"
+lastmod = "2023-03-30"
 specialites = ["cardiologie"]
 annees = "2021"
-sources = ["SFC", "SFD"]
+sources = ["SFC", "ESC", "SFD"]
 tags = ["epreuve effort", "diabete", "HTA"]
 anglais = ["Cardiopulmonary exercise test (CPET)"]
 sctid = "447346005"
 icd10 = ""
 image = true
 imageSrc = "Epreuve d'effort avec EEVO2 en cours de réalisation par Mizzou CAFNR sur Foter.com / CC BY-NC"
-todo = "probabilite pre-test, rcv score"
+todo = "probabilite pre-test"
 +++
 
 {{%collapse "Définitions" %}}
@@ -204,12 +204,14 @@ Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacit
 
 #### Sportif ou métier à risque accidentel {.typography-headline-6 .mt-5}
 
+Ex: athlète, pilote de ligne, chauffeur routier ou de bus.
+
 Épreuve d'effort recommandée
 : Sportif avec angor.
 : Sportif avec {{< modal-btn modal-rcv >}}risque cardiovasculaire (très) élevé{{< /modal-btn >}}.
 
 Épreuve d'effort peut être envisagée
-: Asymptomatique avec {{< modal-btn modal-rcv >}}risque CV modéré{{< /modal-btn >}} et profession à risque (pompier, militaire, policier, pilote).
+: Asymptomatique avec {{< modal-btn modal-rcv >}}risque CV modéré{{< /modal-btn >}} et profession à risque (pompier, militaire, policier, pilote de ligne) (évaluation périodique systématique selon l'ESC).
 : Asymptomatique avec {{< modal-btn modal-rcv >}}risque CV modéré{{< /modal-btn >}} débutant une activité intense (> 6 METs).
 
 </div>
@@ -278,21 +280,21 @@ Après score calcique si {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs
 ### Épreuve d'effort doit être envisagée
 
 - Probabilité pré-test de coronaropathie **Faible**  
-ET RCV élevé/très élevé
+  ET RCV élevé/très élevé
 - Évaluer la revascularisation coronarienne et référence pour le suivi
 - Efficacité de traitement anti-arythmique (médicament, ablation)
 - Réglage fin des stimulateurs cardiaques implantés ou défibrillateurs
 - Sténose aortique sévère asymptomatique (EEVO<sub>2</sub>)
 - Valvulopathie (hors sténose aortique) avec discordance clinique - échocardiographie (EEVO<sub>2</sub>)
 - Insuffisant cardiaque avec dyspnée inexpliquée ou ischémie myocardique (EEVO<sub>2</sub>)
-- Cardiomyopathie hypertrophique  
-Pour évaluer la capacité fonctionnelle et les marqueurs pronostiques (arythmie ventriculaire, réponse tensionnelle à l'effort)(EEVO<sub>2</sub>).  
-Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacité du traitement
+- Cardiomyopathie hypertrophique
+  - Pour évaluer la capacité fonctionnelle et les marqueurs pronostiques (arythmie ventriculaire, réponse tensionnelle à l'effort)(EEVO<sub>2</sub>).
+  - Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacité du traitement
 - HTAP avec aggravation des symptômes (EEVO<sub>2</sub>).
 - HTA  
-Pour préciser le pronostic ou prescrire un programme d'entraînement physique adapté
+  Pour préciser le pronostic ou prescrire un programme d'entraînement physique adapté
 - Avant chirurgie cardiaque si faible capacité fonctionnelle (< 4 METs)  
-et/ou haut RCV
+  et/ou haut RCV
 - Enfant avec cardiopathie congénitale
 - Cardiopathie congénitale (enfant/adulte)(EEVO<sub>2</sub>).
 
@@ -302,8 +304,8 @@ et/ou haut RCV
 - Évaluer la réponse ventriculaire chez les patients atteints de fibrillation
 atriale
 - Évaluer un syndrome de pré-excitation
-- Asymptomatique avec RCV modéré et profession à risque (pompier, militaire, policier, pilote)  
-ou débutant une activité intense (> 6 METs)
+- Asymptomatique avec RCV modéré et profession à risque (pompier, militaire, policier, pilote de ligne, chauffeur routier)  
+- Asymptomatique avec RCV modéré débutant une activité intense (> 6 METs)
 
 {{% /collapse %}}
 {{%collapse "Contre-indications" %}}
@@ -341,7 +343,8 @@ ou débutant une activité intense (> 6 METs)
 {{% /collapse %}}
 {{%sources%}}
 
-[SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
+- [Knuuti J. et al; ESC Scientific Document Group. 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes: The Task Force for the diagnosis and management of chronic coronary syndromes of the European Society of Cardiology (ESC). European Heart Journal. 2019.](https://academic.oup.com/eurheartj/article/41/3/407/5556137)
+- [SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
 
 {{%/sources%}}
 {{% modal title="Diabète et risque coronaire selon SFD 2021" id="modal-coronaire-diabete"%}}

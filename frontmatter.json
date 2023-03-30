@@ -7,19 +7,21 @@
       "previewPath": null,
       "fields": [
         {
-          "title": "Title with 2 to 22 words",
+          "title": "Title",
           "name": "title",
+          "description": "2 to 22 words. Set abbreviation if well known",
           "type": "string"
         },
         {
-          "title": "Prefix: le - la ",
+          "title": "Prefix",
           "name": "prefix",
+          "description": "le - la, end with a space",
           "type": "string"
         },
         {
           "title": "Description",
           "name": "description",
-          "description": "160 characters max",
+          "description": "Places best keywords",
           "type": "string"
         },
         {
@@ -113,6 +115,7 @@
       "originalPath": "[[workspace]]/content/recommandations"
     }
   ],
+  "frontMatter.content.wysiwyg": true,
   "frontMatter.taxonomy.tags": [
     "AINS",
     "B12",
@@ -203,5 +206,8 @@
       ]
     }
   ],
-  "frontMatter.taxonomy.categories": []
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.dashboard.openOnStart": true,
+  "frontMatter.content.fmHighlight": true,
+  "frontMatter.experimental": true
 }
