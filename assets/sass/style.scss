@@ -141,8 +141,14 @@ main {
 }
 
 #nav {
-  background-color: rgba(255, 255, 255, 0.5);
-  backdrop-filter: blur(10px);
+  background-color: #fff;
+
+  @media (min-width: 1200px) {
+    & {
+      backdrop-filter: blur(10px);
+      background-color: transparent;
+    }
+  }
 }
 
 mark {
