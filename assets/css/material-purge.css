@@ -1,8 +1,8 @@
 /* Custom variables */
 /*!
  * Djibe Material UI 4.6.2 (https://djibe.github.io/material/)
- * Copyright 2011-2022 The Bootstrap Authors
- * Copyright 2011-2022 Twitter, Inc.
+ * Copyright 2011-2023 The Bootstrap Authors
+ * Copyright 2011-2023 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * Material UI by djibe, Maya, Geoff Bowers and Alex Skinner
  */
@@ -433,6 +433,10 @@ summary {
   width: device-width;
 }
 
+dfn {
+  font-style: italic;
+}
+
 ::selection {
   background-color: rgba(65, 80, 245, 0.08);
 }
@@ -656,6 +660,13 @@ h6,
   line-height: normal;
 }
 
+.typography-subtitle-2 {
+  font-size: 0.875rem;
+  font-weight: 400;
+  letter-spacing: 0.1px;
+  line-height: normal;
+}
+
 .typography-body-1 {
   font-size: 1rem;
   font-weight: 400;
@@ -733,6 +744,11 @@ ul:not([class]) li {
 
 li > ul > li {
   list-style-type: circle;
+}
+
+.list-unstyled {
+  list-style: none;
+  padding-left: 0;
 }
 
 .blockquote {
@@ -1276,6 +1292,29 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 .btn-lg {
   font-size: 0.9375rem;
   height: 2.5rem;
+}
+
+.btn-shaped {
+  border-radius: 1.125rem;
+}
+
+.btn-shaped.btn-lg {
+  border-radius: 1.25rem;
+}
+
+.btn .btn-icon-prepend, .card-link .btn-icon-prepend {
+  display: inline-block;
+  fill: currentColor;
+  font-size: 1.125rem;
+  margin-right: 0.5rem;
+  margin-left: -0.25rem;
+  vertical-align: top;
+  width: 1.125rem;
+}
+
+.btn-icon-prepend [class*='btn-flat'],
+.btn-link .btn-icon-prepend {
+  margin-left: 0;
 }
 
 [class*='btn-flat'],
@@ -2984,7 +3023,6 @@ input:disabled + .chip {
   transform: none;
   transition: background-color 90ms cubic-bezier(0.4, 0, 0.2, 1), transform 90ms cubic-bezier(0.4, 0, 0.2, 1);
   width: 2rem;
-  will-change: background-color, transform;
 }
 
 .custom-switch .custom-control-label::after {
@@ -2998,7 +3036,6 @@ input:disabled + .chip {
   transform: translateX(0);
   transition: transform 90ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 90ms cubic-bezier(0.4, 0, 0.2, 1);
   width: 1.25rem;
-  will-change: box-shadow, transform;
 }
 
 .custom-switch .custom-control-input:active ~ .custom-control-label::before {
@@ -3379,7 +3416,6 @@ textarea.form-control {
   transform: scaleX(0);
   transition: transform 180ms cubic-bezier(0.4, 0, 0.2, 1);
   width: 100%;
-  will-change: transform;
   z-index: 3;
 }
 
@@ -4573,6 +4609,12 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 
 .text-center {
   text-align: center !important;
+}
+
+@media (min-width: 768px) {
+  .text-md-left {
+    text-align: left !important;
+  }
 }
 
 .text-uppercase {

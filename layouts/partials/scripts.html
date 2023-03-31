@@ -1,0 +1,224 @@
+<script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin></script>
+<script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin defer></script>
+<script src="{{ .Site.Params.cdn.material_js}}" {{ printf "integrity=%q" .Site.Params.cdn.material_js_hash | safeHTMLAttr }} crossorigin defer></script>
+<script src="https://cdn.jsdelivr.net/npm/instant.page@5.1.1/instantpage.min.js" crossorigin defer async></script>
+
+{{- with .Params.chart }}
+<script src="https://cdn.jsdelivr.net/npm/apexcharts@3.37.0/dist/apexcharts.min.js" integrity="sha256-pTfgFJdjv1i5eqU/CIplI5e0M3I4GKLyJ1C9Lek+z4E=" crossorigin defer></script>
+<script>
+document.addEventListener( 'DOMContentLoaded', event => {
+  Apex = {
+    colors: ['#4150f5', '#ffa600', '#af34dc', '#e800ba', '#ff0094', '#ff2b6e', '#ff5c4b', '#ff8329'],
+    chart: {
+      background: 'transparent',
+      fontFamily: 'Roboto, sans-serif',
+      foreColor: 'inherit',
+      type: 'bar',
+      zoom: { enabled: false }
+    },
+    fill: { opacity: 1 },
+    grid: { show: false },
+    legend: {
+      horizontalAlign: 'left',
+      itemMargin: {
+        horizontal: 12,
+    },
+      offsetX: 24,
+      labels: {
+        colors: '#424242'
+      },
+    },
+    markers: { size: 4 },
+    plotOptions: {
+      bar: { borderRadius: 2, columnWidth: '70%' }
+    },
+    stroke: {
+      show: true,
+      width: 2,
+      colors: ['transparent']
+    },
+    theme: {
+      monochrome: {
+        enabled: false,
+        color: '#4150f5',
+        shadeTo: 'light',
+        shadeIntensity: 0.5
+      }
+    },
+    title: {
+      margin: 24,
+      offsetX: 8,
+      style: {
+        fontSize: '18px',
+        fontWeight: 'normal'
+      }
+    },
+    subtitle: {
+      margin: 16,
+      offsetX: 8,
+      style: {
+        color:  '#666',
+        fontSize: '14px'
+      }
+    },
+    xaxis: {
+      labels: {
+        style: { colors: '#757575' }
+      },
+      crosshairs: {
+        stroke: { color: '#e0e0e0' }
+      },
+      title: {
+        style: {
+          color: '#666',
+          fontWeight: 400
+        }
+      },
+      tooltip: {enabled: false}
+    },
+    yaxis: {
+      forceNiceScale: true,
+      labels: { style: { colors: ['#757575'], fontWeight: 400 }
+      },
+      title: {
+        style: {
+          color: '#757575',
+          fontWeight: 400
+        }
+      },
+      min: 0
+    }
+  }
+  const chart = new ApexCharts(document.getElementById('chart'), chartOptions)
+  chart.render()
+
+  if (document.getElementById('chart2')) {
+    const chart2 = new ApexCharts(document.getElementById('chart2'), chartOptions2)
+    chart2.render()
+  }
+
+  if (document.getElementById('chart3')) {
+    const chart3 = new ApexCharts(document.getElementById('chart3'), chartOptions3)
+    chart3.render()
+  }
+})
+</script>
+{{- end -}}
+
+{{- with .Params.flowchart }}
+<script type="module" async>
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0/+esm';
+  const MermaidConfig = {
+    // logLevel: 1, // debug
+    securityLevel: 'loose',
+    theme: 'base',
+    themeVariables: {
+      defaultLinkColor: '#4150f5',
+      fontFamily: 'Roboto, sans-serif',
+      primaryBorderColor: '#fff',
+      primaryColor: '#e0eeff',
+      primaryTextColor: '#212121',
+      lineColor: '#c1c1c1',
+      secondaryColor: '#e8e8e8',
+    },
+    // themeCSS: '',
+    flowchart: {
+      curve: 'basis',
+      htmlLabels: true,
+      nodeSpacing: 30,
+      rankSpacing: 40,
+    }
+  }
+  mermaid.initialize(MermaidConfig);
+</script>
+{{- end -}}
+
+{{- with .Params.geochart }}
+<script src="https://www.gstatic.com/charts/loader.js" defer></script>
+<script>
+  window.addEventListener('load', () => {
+    google.charts.load('current', {'packages':['geochart']})
+    google.charts.setOnLoadCallback(drawRegionsMap)
+  })
+</script>
+
+{{- end -}}
+
+{{- with .Params.slider }}
+<script src="https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js" crossorigin defer></script>
+<script>
+  window.addEventListener('load', () => $('.slider-default').ionRangeSlider())
+</script>
+
+{{- end -}}
+
+{{- with .Params.paracetamol }}
+{{ partial "outils/paracetamol" . }}
+{{- end -}}
+
+{{- with .Params.datatable }}
+  {{ partial "datatable" . }}
+{{- end -}}
+
+<script>
+  // Search menu
+  let params = {
+    json_src       : '/index.json', // for multiple sources: comma separated list of JSONarrays
+    minlength      : 3,
+    defaultsearch  : 'AND',
+    sort_date      : 'DESC',
+    autocomplete   : 1, // 0: form needs a submit button
+    section_search : 0, // 1: needs checkboxes with name="section[]"
+    badwords       : 'et,le,la,ceci,cela', //ignore these words
+    json_wait      : '<a class="dropdown-item"><div class="progress-circular"><div class="progress-circular-wrapper"><div class="progress-circular-inner"><div class="progress-circular-left"><div class="progress-circular-spinner"></div></div><div class="progress-circular-gap"></div><div class="progress-circular-right"><div class="progress-circular-spinner"></div></div></div></div></div></a>',
+    json_ready     : '<span class="dropdown-item-text text-black-secondary">Entrer 3 lettres...</span>',
+    extern_icon    : ' (external link)', // marker for external links (optional)
+    err_badstring  : '<span class="dropdown-item-text text-black-secondary">Entrer 3 lettres...</span>',
+    err_noresult   : '<span class="dropdown-item-text text-black-secondary">Aucun résultat</span>',
+    err_norequest  : '<span class="dropdown-item-text text-black-secondary">Recherche de texte non implémentée.</span>',
+    err_filefailed : '<span class="dropdown-item-text text-danger">Moteur de recherche introuvable.</span>',
+    res_one_item   : '', // [CNT] RESULT
+    res_more_items : '', // [CNT] RESULTS
+    res_out_top    : '', // <ul>
+    res_out_bottom : '', // </ul>
+    res_item_tpl   : '<a class="dropdown-item" href="[URL]" title="[TITLECAPT]">[TITLE]</a>',
+    add_searchlink : ''
+  }
+
+  // Translation of section name (optional)
+  let section_trans = {
+    // "post" : "Blog",
+    // "other-section" : "Other Section"
+  }
+
+  let searchfield_weight = {
+    "title"   : 5,
+    "tags"    : 1,
+    "content" : 2
+  }
+</script>
+
+{{ $searchjs := resources.Get "js/search.js" | minify | fingerprint "sha384" }}
+<script src="{{ $searchjs.Permalink }}" integrity="{{ $searchjs.Data.Integrity }}" async fetchpriority="low"></script>
+<script>
+  document.addEventListener( 'DOMContentLoaded', event => {
+  // When DOM is ready
+  {{ with .Site.RegularPages }}
+    // Open external sources in new window
+      let externalLinks = document.querySelectorAll('a[href^="http"]:not([href*="recomedicales.fr"])')
+      externalLinks.forEach((elem) => { elem.setAttribute('target', '_blank') })
+  {{ end }}
+
+  $(function() {
+    $('[data-toggle="tooltip"]').tooltip({
+      container: 'body',
+      html: true,
+      placement: 'bottom'
+    });
+    if (matchMedia('(pointer:fine)').matches) { // Device has a mouse
+      $('.data-tooltip').tooltip({trigger: 'hover', placement: 'bottom'});
+    }
+    $('.floating-label .custom-select, .floating-label .form-control').floatinglabel()
+  })
+  })
+</script>

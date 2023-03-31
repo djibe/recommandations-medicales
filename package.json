@@ -11,7 +11,6 @@
     "docker:build": "docker build -t recomedicales .",
     "docker:run": "docker run --rm --name recomedicales -p 80:80 -d recomedicales",
     "favicon": "real-favicon generate \"./build/faviconDescription.json\" \"./build/favicons/\"",
-    "html:lint-htmllint": "hugo --cleanDestinationDir && htmllint --rc build/.htmllintrc \"public/**/*.html\"",
     "html:lint-vnu": "hugo && node build/vnu-jar.js",
     "html:lint-validate": "npm run start && npm exec html-validate \"public/**/*.html\"",
     "hugo:debug": "hugo --cleanDestinationDir --minify --debug --logFile ./hugo.log --verboseLog",

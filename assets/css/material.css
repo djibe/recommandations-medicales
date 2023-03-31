@@ -1,8 +1,8 @@
 /* Custom variables */
 /*!
  * Djibe Material UI 4.6.2 (https://djibe.github.io/material/)
- * Copyright 2011-2022 The Bootstrap Authors
- * Copyright 2011-2022 Twitter, Inc.
+ * Copyright 2011-2023 The Bootstrap Authors
+ * Copyright 2011-2023 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * Material UI by djibe, Maya, Geoff Bowers and Alex Skinner
  */
@@ -6316,7 +6316,6 @@ input:disabled + .chip {
   transform: none;
   transition: background-color 90ms cubic-bezier(0.4, 0, 0.2, 1), transform 90ms cubic-bezier(0.4, 0, 0.2, 1);
   width: 2rem;
-  will-change: background-color, transform;
 }
 
 .custom-switch .custom-control-label::after {
@@ -6330,7 +6329,6 @@ input:disabled + .chip {
   transform: translateX(0);
   transition: transform 90ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 90ms cubic-bezier(0.4, 0, 0.2, 1);
   width: 1.25rem;
-  will-change: box-shadow, transform;
 }
 
 .custom-switch .custom-control-input:active ~ .custom-control-label::before {
@@ -7080,7 +7078,6 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   transform: scaleX(0);
   transition: transform 180ms cubic-bezier(0.4, 0, 0.2, 1);
   width: 100%;
-  will-change: transform;
   z-index: 3;
 }
 

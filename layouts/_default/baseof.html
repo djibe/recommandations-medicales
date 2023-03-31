@@ -6,14 +6,7 @@
     {{- partial "navdrawer.html" . }}
     <main id="main">
       {{- block "main" . -}}{{- end }}
-      <div role="region" aria-labelledby="btn-contact" class="fab-actions">
-        <button id="btn-contact" class="d-none d-lg-flex btn btn-primary btn-float btn-float-extended" type="button" data-toggle="modal" data-target="#modal-contact">
-          <svg aria-hidden="true" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H5.17l-.59.59-.58.58V4h16v12zm-9-4h2v2h-2zm0-6h2v4h-2z"/></svg>
-          Contact</button>
-        <button class="d-lg-none btn btn-primary btn-float" type="button" data-toggle="modal" data-target="#modal-contact" aria-label="Contact">
-          <svg aria-hidden="true" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M0 0h24v24H0V0z" fill="none"/><path d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H5.17l-.59.59-.58.58V4h16v12zm-9-4h2v2h-2zm0-6h2v4h-2z"/></svg>
-        </button>
-      </div>
+      <!--<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/76168aa1c0095361c69ffbeb1/eb20b5810635e6a591df2e3db.js");</script>-->
       <!-- Contact -->
       <div class="modal fade" id="modal-contact" tabindex="-1" role="dialog" aria-labelledby="modal-contact-title">
         <div class="modal-dialog modal-dialog-centered" role="document">
@@ -41,7 +34,6 @@
                     </span>
                   </div>
                 </div>
-                <div class="d-none alert alert-info" id="message-confirmation">Message envoyé ! Merci</div>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-primary" data-dismiss="modal">Annuler</button>
@@ -53,5 +45,6 @@
       </div>
     </main>
     {{- partial "footer.html" . -}}
+    {{- partial "scripts.html" . -}}
   </body>
 </html>

@@ -207,7 +207,7 @@
     }
   ],
   "frontMatter.preview.host": "http://localhost:1313",
-  "frontMatter.dashboard.openOnStart": true,
+  "frontMatter.dashboard.openOnStart": false,
   "frontMatter.content.fmHighlight": true,
   "frontMatter.experimental": true
 }

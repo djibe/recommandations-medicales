@@ -28,6 +28,7 @@ title = "RecoMédicales"
   facebook = "https://www.facebook.com/RecoMedicales"
   linkedin = "https://www.linkedin.com/company/recom%C3%A9dicales/"
   twitter = "https://twitter.com/RecoMedicales"
+  twitterName = "RecoMedicales"
   ogimage = "/images/icons/banner-og.jpg"
   icon = "/android-chrome-512x512.png"
   SidebarRecentLimit = 5
@@ -49,11 +50,6 @@ title = "RecoMédicales"
   [outputFormats.API-S]
   mediatype = "application/json"
   baseName = "api-s"
-  isPlainText = true
-
-  [outputFormats.SW]
-  mediatype = "text/javascript"
-  baseName = "sw"
   isPlainText = true
 
 # Dependencies
@@ -90,12 +86,13 @@ title = "RecoMédicales"
     url = "/cabinet/"
     weight = 3
   [[menu.main]]
+    identifier = "articles"
+    name = "Articles"
+    url = "/articles/"
+    weight = 4
+  [[menu.main]]
     identifier = "tags"
     name = "Mots-clés"
     url = "/tags/"
-    weight = 4
-  [[menu.main]]
-    identifier = "projet"
-    name = "Projet"
-    url = "/projet/"
     weight = 5
+
