@@ -1,6 +1,0 @@
-{ "filesToInstall": [
-{{- range $index, $value := where site.RegularPages "Section" "recommandations" -}}
-  {{ if $index }}, {{ end }}
-    "{{ .RelPermalink }}"
-{{- end -}}
-]}

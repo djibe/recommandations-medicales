@@ -1,11 +1,11 @@
 +++
-title = "L'application mobile"
-description = "TODO:"
-breadcrumbTitle = "Application"
+title = "Newsletter"
+description = "Newsletters de RecoMédicales"
+breadcrumbTitle = "Newsletter"
 auteurs = ["Jean-Baptiste FRON"]
-date = "2023-03-27T09:54:00+02:00"
-publishdate = "2023-03-27"
-lastmod = "2023-03-27"
+date = "2023-03-30T11:55:00+02:00"
+publishdate = "2023-03-30"
+lastmod = "2023-03-30"
+headless = true
 draft = true
-todo = "background-image: linear-gradient(to right top, #4150f5, #746ff9, #998ffc, #bab0fe, #d8d1ff, #e5e0ff, #f2f0ff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff);"
 +++

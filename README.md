@@ -1,7 +1,8 @@
 # RecoMédicales : Le site des Recommandations Médicales
 
-RecoMédicales is Open Source Medical information for the general practitioner.  
-Dernières recommandations médicales pour la pratique en consultation du médecin généraliste
+Dernières recommandations médicales pour la pratique en consultation du médecin généraliste.
+
+> RecoMédicales is Open Source Medical information for the general practitioner
 
 **Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours.**
 
@@ -9,7 +10,7 @@ Dernières recommandations médicales pour la pratique en consultation du médec
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br>Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International</a>
 
-[RecoMédicales](https://recomedicales.fr/) est développé par 2 généralistes pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder rapidement à tout ce dont ils ont besoin en consultation.
+[RecoMédicales](https://recomedicales.fr) est développé par 2 généralistes pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder rapidement à tout ce dont ils ont besoin en consultation.
 
 ## Pourquoi RecoMédicales ?
 
@@ -104,6 +105,6 @@ Je recommande l'éditeur de texte gratuit [Visual Studio Code](https://code.visu
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"></a><br>Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International</a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"></a><br>Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International</a>
 
 <a href='https://ko-fi.com/I3I4JVDWX' target='_blank' rel="external nofollow noopener"><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Faire un don via ko-fi.com'/></a>

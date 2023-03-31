@@ -8,9 +8,19 @@ const cacheName = 'files';
 // Install the app by preloading all recommandations
 self.addEventListener('install', (event) => {
   const urlsToPrefetch = [
+    'https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2',
+    'https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBBc4.woff2',
+    '/sass/style.css',
+    'https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.slim.min.js',
+    'https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js',
+    'https://cdn.jsdelivr.net/npm/djibe-material@4.6.2-1.0/js/material.min.js',
+    '/js/search.min.3575570338356f92346231966c2b380dfc1d6d652428d9778eb15afb44ae5e9dc94a83a0942ada32b8878ff889a9e736.js',
+    'https://cdn.jsdelivr.net/npm/apexcharts@3.37.0/dist/apexcharts.min.js',
+    'https://cdn.jsdelivr.net/npm/mermaid@10.0/+esm',
+    'https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js',
   {{- range $index, $value := where site.RegularPages "Section" "recommandations" -}}
     {{ if $index }}, {{ end }}
-    "{{ .RelPermalink }}"
+    '{{ .RelPermalink }}'
   {{- end -}}
   ];
 
@@ -61,4 +71,4 @@ self.addEventListener('fetch',  fetchEvent => {
   }());
 });
 
-// Modified version of https://gist.github.com/adactio/3717b7da007a9363ddf21f584aae34af
+// Improved version of https://gist.github.com/adactio/3717b7da007a9363ddf21f584aae34af
