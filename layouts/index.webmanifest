@@ -1,8 +1,8 @@
 {
-  "name": "RecoMédicales",
-  "short_name": "RecoMédicales",
-  "description": "Dernières recommandations médicales pour la pratique du généraliste",
-  "lang": "fr",
+  "name": "{{ .Site.Title }}",
+  "short_name": "{{ .Site.Title }}",
+  "description": "{{ .Site.Params.Description }}",
+  "lang": "{{ .Site.LanguageCode }}",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",

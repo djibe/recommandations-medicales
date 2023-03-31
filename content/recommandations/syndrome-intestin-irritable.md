@@ -100,6 +100,7 @@ Indications limitées à la coloscopie pour le bilan diagnostic:
 
 ### À lire
 
+- {{< references/college-gastro >}} 2021
 - SNFGE, GFNG. Prise en charge du syndrome de l'intestin irritable. 2016.
 
 {{%/sources%}}

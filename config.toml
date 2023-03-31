@@ -41,15 +41,20 @@ title = "RecoMédicales"
 # search https://learn.netlify.app/en/basics/configuration/
 [outputs]
   page = ["HTML"]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "JSON", "RSS", "WebAppManifest", "WORKER"]
   section = ["HTML"]
   taxonomy = ["HTML"]
   term = ["HTML"]
 
 [outputFormats]
   [outputFormats.API-S]
-  mediatype = "application/json"
+  name = "API-S"
+  mediaType = "application/json"
   baseName = "api-s"
+  isPlainText = true
+  [outputFormats.WORKER]
+  mediaType = "text/javascript"
+  baseName = "sw"
   isPlainText = true
 
 # Dependencies

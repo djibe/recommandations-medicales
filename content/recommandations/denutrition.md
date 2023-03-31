@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-19T11:25:57+01:00"
 publishdate = "2021-11-23"
-lastmod = "2022-11-20"
+lastmod = "2023-03-31"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["HAS", "FFN", "SFNCM"]
@@ -18,16 +18,16 @@ icd10 = "E46"
 image = false
 imageSrc = ""
 flowchart = true
-todo = "SEO 'critère dénutrition has', FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., https://www.sfncm.org/outils-education/outils/realises-par-la-sfncm"
+todo = "FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., https://www.sfncm.org/outils-education/outils/realises-par-la-sfncm"
 +++
 
 {{%article-summary%}}
 
 - Dépister une dénutrition avec le {{< modal-btn modal-mna >}}questionnaire Mini Nutritional Assessment (MNA){{< /modal-btn >}} (dépistage annuel après 70 ans)
-- Le diagnostic de dénutrition est clinique: association d'un critère phénotypique et d'un critère étiologique
+- Le diagnostic de dénutrition est clinique: association d'un critère phénotypique (amaigrissement, IMC bas, sarcopénie) et d'un critère étiologique (anorexie, malabsorption, inflammation)
 - Un IMC élevé n'exclut pas une dénutrition
-- Suivi de la dénutrition: poids hebdomadaire et à chaque consultation (noté dans les dossier médical, DMP, carnet de santé...)
-- Prise en charge d'une dénutrition: bilan étiologique, enrichir l'alimentation, soins bucco-dentaires ± compléments alimentaires
+- Suivi de la dénutrition: poids hebdomadaire avec surveillance à chaque consultation (noté dans les dossier médical, DMP, carnet de santé)
+- Prise en charge d'une dénutrition: bilan étiologique, enrichir l'alimentation, soins bucco-dentaires voire compléments alimentaires
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -61,7 +61,34 @@ Situations et facteurs de risque de dénutrition:
 - Précarité
 - Régime restrictif
 
+### Dépense énergétique de base et densité énergétique des nutriments
+
+La dépense de base pour un homme de 70 kg est estimée à **1500 kcal** par jour. Elle est plus faible chez la femme et après 40 ans.
+
+Le calcul du **débit énergétique de base** (DEB) de référence selon l'âge et la corpulence du sujet est calculé avec la Harris et Benedict (disponible dans la section suivante).
+
+La dépense énergétique totale quotidienne est aux environs de **2500 kcal/j** (35 kcal/kg) pour un adulte standard.
+
+Les apports hydriques quotidiens sont estimés à 2 L/j pour les femmes et à 2,5 L/j pour les hommes.
+
+Rappel de la densité énergétique des nutriments:
+
+- Glucides, protéines: 4 kcal par gramme
+- Lipides: 9 kcal
+- Alcool: 7 kcal
+
+Un régime alimentaire est dit << équilibré >> avec les apports suivants:
+
+- Glucides 40-55%
+- Lipides: 35-40%
+- Protides: 10-20% (15-20% chez le +70 ans)
+
+> *Collège CDU-HGE 2022*
+
 ### Abréviations
+
+AS
+: apport satisfaisant
 
 CIM-10
 : classification internationale des maladies 10<sup>e</sup> révision (OMS)
@@ -89,11 +116,57 @@ SFNCM
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Calculs: perte de poids - estimation de la taille" %}}
+{{%collapse "Calculs: perte de poids - estimation de la taille ..." "show"%}}
 
 ### Perte de poids
 
 {{< outils/variation-poids >}}
+
+### Calcul de la dépense énergétique de base selon la Formule de Harris et Benedict
+
+La formule de Harris-Benedict permet d'estimer le **débit énergétique de base** (DEB). Citée par FFN et SFNCM. La [formule de Black et al est également reconnue](https://pubmed.ncbi.nlm.nih.gov/8641250/).
+
+L'estimation des **besoins énergétiques totaux** applique au DEB un facteur de 1 à 1,5 selon l'intensité métabolique auquel son organisme est soumis.
+
+**NB.** Le calculateur ne fonctionne pas pour le moment.
+
+<div class="card-body rounded-lg border mb-3" style="max-width: 280px">
+  <div class="form-group floating-label textfield-box form-ripple">
+    <label for="harris-age">Âge (ans)</label>
+    <input class="form-control" id="harris-age" type="number" min="5" max="120">
+  </div>
+  <div class="form-group floating-label textfield-box form-ripple">
+    <label for="harris-height">Taille (cm)</label>
+    <input class="form-control" id="harris-height" type="number" min="50" max="220">
+  </div>
+  <div class="form-group floating-label textfield-box form-ripple">
+    <label for="harris-weight">Poids (kg)</label>
+    <input class="form-control" id="harris-weight" type="number" min="20" max="300">
+  </div>
+  <div class="form-group">
+    <label for="harris-calc-female">Débit énergétique de base (DEB en kcal)</label>
+    <input class="form-control" id="harris-calc-female" type="text" placeholder="Compléter les mesures" readonly>
+    <input class="form-control" id="harris-calc-male" type="text" placeholder="Compléter les mesures" readonly>
+  </div>
+</div>
+<script>
+  window.onload = () => {
+  $(function () {
+  $('#harris-age,, #harris-height, #harris-weight').on('input', () => {
+    console.log('start');
+    let age = $('#harris-age').val();
+    let height = $('#harris-height').val();
+    let weight = $('#harris-weight').val();
+    if (age > 0 && height > 0 && weight > 0) {
+      $('#harris-calc-female').val(Math.round(655.0955 + (9.5634 * weight) + (1.8496 * height) - (4.6756 * age)));
+      $('#harris-calc-male').val(Math.round(66.4730 + (13.7516 * weight) + (5.0033 * height) - (6.7550 * age)));
+    }
+  })
+  })
+}
+</script>
+
+> [Harris JA, Benedict FG. A Biometric Study of Human Basal Metabolism. Proc Natl Acad Sci U S A. 1918;4(12):370-373. doi:10.1073/pnas.4.12.370](https://pubmed.ncbi.nlm.nih.gov/16576330/)
 
 ### Estimation de la taille selon Chumlea
 
@@ -101,10 +174,10 @@ Après 60 ans, lorsque la taille n'est pas mesurable par une toise (alitement, t
 
 <div class="card-body rounded-lg border mb-5" style="max-width: 280px">
   <div class="form-group">
-    <input type="radio" id="chumlea-1" name="chumlea-radio" class="d-input-none" value="f" required checked>
-    <label for="chumlea-1" class="chip chip-action chip-choice">Femme</label>
-    <input type="radio" id="chumlea-1bis" name="chumlea-radio" class="d-input-none" value="h">
-    <label for="chumlea-1bis" class="chip chip-action chip-choice">Homme</label>
+    <input type="radio" id="chumlea-female" name="chumlea-radio" class="d-input-none" value="f" required checked>
+    <label for="chumlea-female" class="chip chip-action chip-choice">Femme</label>
+    <input type="radio" id="chumlea-male" name="chumlea-radio" class="d-input-none" value="h">
+    <label for="chumlea-male" class="chip chip-action chip-choice">Homme</label>
   </div>
   <div class="form-group floating-label textfield-box form-ripple">
     <label for="chumlea-age">Âge (ans)</label>
@@ -123,18 +196,18 @@ Après 60 ans, lorsque la taille n'est pas mesurable par une toise (alitement, t
 <script>
   window.onload = () => {
   $(function () {
-    $('[name="chumlea-radio"], #chumlea-age, #chumlea-jambe').on('input', function () {
+    $('[name="chumlea-radio"], #chumlea-age, #chumlea-jambe').on('input', () => {
       let age = $('#chumlea-age').val();
       let jambe = $('#chumlea-jambe').val();
       if (age > 0 && jambe > 0) {
-        if ($('#chumlea-1').is(':checked')) {
+        if ($('#chumlea-female').is(':checked')) {
           $('#chumlea-calc').val(Math.round(84.88 - (0.24 * age) + (1.83 * jambe)))
-        } else if ($('#chumlea-1bis').is(':checked')){
+        } else if ($('#chumlea-male').is(':checked')){
           $('#chumlea-calc').val(Math.round(64.19 - (0.04 * age) + (2.03 * jambe)))
         }
       }
     })
-  });
+  })
 }
 </script>
 
@@ -144,14 +217,14 @@ Après 60 ans, lorsque la taille n'est pas mesurable par une toise (alitement, t
 {{% /collapse %}}
 {{%collapse "Dénutrition du sujet âgé" %}}
 
-Chez le plus de 70 ans, le dépistage de la dénutrition doit être au moins annuel
+Chez le plus de 70 ans, le dépistage de la dénutrition doit être au moins annuel (*HAS*)
 {.alert .alert-info}
 
 ### 1. Diagnostic de dénutrition chez le sujet âgé
 
-Diagnostic de dénutrition en cas d'association d'un critère phénotypique et d'un critère étiologique:
+Critères de dénutrition de la *HAS 2021* du sujet âgé. Diagnostic de dénutrition en cas d'association d'un critère phénotypique et d'un critère étiologique:
 
-- Critères phénotypiques
+- Critères phénotypiques de dénutrition
   - Perte de poids ≥ 5% en 1 mois  
     ou ≥ 10% en 6 mois  
     ou ≥ 10% par rapport au poids habituel avant le début de la maladie
@@ -185,7 +258,7 @@ Dénutrition sévère si ≥ 1 critère parmi:
 
 ### 1. Diagnostic de dénutrition chez l'adulte
 
-Diagnostic de dénutrition en cas d'association d'un critère phénotypique et d'un critère étiologique:
+Critère de dénutrition *HAS* chez l'adulte. Diagnostic de dénutrition en cas d'association d'un critère phénotypique et d'un critère étiologique:
 
 - Critères phénotypiques
   - Perte de poids ≥ 5% en 1 mois  
@@ -218,7 +291,7 @@ Réévaluation à chaque consultation et minimum sous 3 mois.
 
 ### 1. Diagnostic de dénutrition chez l'enfant
 
-Diagnostic de dénutrition de l'enfant (sujet **-18 ans**) en cas d'association d'un critère phénotypique et d'un critère étiologique:
+Critères de dénutrition *HAS* chez l'enfant. Diagnostic de dénutrition de l'enfant (sujet **-18 ans**) en cas d'association d'un critère phénotypique et d'un critère étiologique:
 
 - Critères phénotypiques
   - Perte de poids ≥ 5% en 1 mois  
@@ -249,26 +322,29 @@ Diagnostic de dénutrition de l'enfant (sujet **-18 ans**) en cas d'association 
 Réévaluation à chaque consultation, au moins mensuelle.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la dénutrition" %}}
 
 Prise en charge de la dénutrition de l'adulte:
 
 - Traitement étiologique
-- Évaluation diététique
+- Évaluation diététique ([annuaire](https://www.nutritionclinique.fr/annuaire?zoom=11&is_mile=0&directory_radius=20&keywords=&address=&directory_radius=20&center=&address_type=))
 - Soins bucco-dentaires et de la langue
 - Lutte contre la polymédication
 - Enrichir l'alimentation
+  - Débit énergétique basal (formule de Harris-Benedict) x 1,2-1,5
   - Cible énergétique 30-40 kcal/kg/j
   - Cible protéique 1,2-1,5 g/kg/j
-  - Enrichir avec: Poudre de lait entier, lait concentré entier, fromage râpé, œufs, crème fraîche épaisse, beurre fondu, huile, poudres de protéines, pâtes/semoules enrichies
+  - Renforcer le petit déjeuner
+  - Enrichir avec: poudre de lait entier, lait concentré entier, fromage râpé, œufs, crème fraîche épaisse, beurre fondu, huile, poudres de protéines, pâtes/semoules enrichies
 - Complément nutritionnel oral (voir plus bas)
 - Dénutrition sévère: nutrition entérale
 - Maintien d'une activité physique
-- [Site officiel d'information pour le public](https://www.nutritionclinique.fr/)
+- [Site officiel d'information pour le public](https://www.nutritionclinique.fr)
+- Appli patient pour enrichir: Poids plus ([Android](https://play.google.com/store/apps/details?id=com.poids&hl=fr), [iOS](https://apps.apple.com/fr/app/poidsplus/id1308936761))
 
 ### Compléments nutritionnels oraux (CNO)  
 
-Place des compléments alimenatires:
+Place des compléments alimentaires:
 
 - Objectif  
   - Minimal ou ≥ 70 ans: supplément de 400 cal/j et/ou 30 g/j de protéines
@@ -285,7 +361,7 @@ Une fois ouvert, 2h à température ambiante et 24h au réfrigérateur.
 - Effets indésirables: nausées, vomissements, diarrhées
 
 {{% /collapse %}}
-{{%collapse "Surveillance" %}}
+{{%collapse "Surveillance de la renutrition" %}}
 
 Réévaluation de la dénutrition **à chaque consultation**, au moins mensuelle (trimestrielle mois chez l'adulte).
 
@@ -325,8 +401,8 @@ accTitle:Prise en charge d'une personne à risque de dénutrition d'après HAS e
   fdr["<b>Personne à risque de dénutrition</b><br>—<br>- +70 ans (dépistage annuel)<br>- Cancer<br>- Maladie inflammatoire<br>- Escarre<br>- Démence, dégénératif<br>- Troubles de déglutition et bucco-dentaires<br>- Toxicomanie<br>- Régime amaigrissant"]
   style fdr stroke:#4150f5, stroke-width:1px
     fdr -- Repérage --> MNA("Score MNA ≤ 11 ?")
-      MNA -- Oui --> criteres("<b>≥ 1 critère phénotypique</b><br>—<br>- PP ≥ 5% en 1 mois<br>ou ≥ 10% en 6 mois ou avant la maladie<br>- IMC &lt; 18,5 (22 si âgée)<br>- Sarcopénie<br>- Enfant: stagnation pondérale avec<br>décalage poids 2 couloirs<br>—<br><b>≥ 1 critère étiologique</b><br>—<br>- Réduction apports ≥ 50% &gt; 1 sem<br>ou toute réduction &gt; 2 sem<br>- Malabsorption, maldigestion<br>- Situation d'agression")
-        criteres --> bilan("- Bilan étiologique et de sévérité<br>- Degré de sévérité")
+      MNA -- Oui --> critères("<b>≥ 1 critère phénotypique</b><br>—<br>- PP ≥ 5% en 1 mois<br>ou ≥ 10% en 6 mois ou avant la maladie<br>- IMC &lt; 18,5 (22 si âgée)<br>- Sarcopénie<br>- Enfant: stagnation pondérale avec<br>décalage poids 2 couloirs<br>—<br><b>≥ 1 critère étiologique</b><br>—<br>- Réduction apports ≥ 50% &gt; 1 sem<br>ou toute réduction &gt; 2 sem<br>- Malabsorption, maldigestion<br>- Situation d'agression")
+        critères --> bilan("- Bilan étiologique et de sévérité<br>- Degré de sévérité")
           bilan --> traitement("- Traitement étiologique<br>- Enrichir l'alimentation<br>- Avis diététique<br>- Soins bucco-dentaires")
             traitement --> surveillance("- Suivi à 1-3 mois<br>- Poids 1/sem<br>± CNO")
               surveillance -.-> ent("- Avis spécialisé<br>± Nutrition entérale")
@@ -339,6 +415,7 @@ accTitle:Prise en charge d'une personne à risque de dénutrition d'après HAS e
 
 {{< youtube id="1uehBQjbbFU" title="La minute RECO HAS | Dénutrition : pour un meilleur diagnostic (Pr Éric Fontaine)" >}}
 
+- Collège des universitaires français d'hépato-gastro-entérologie (CDU-HGE). Dénutrition chez l'adulte. Réussir ses ECNi. 2022.
 - [HAS, FFN. Diagnostic de la dénutrition chez la personne de 70 ans et plus. Recommandation de bonne pratique. Novembre 2021.](https://www.has-sante.fr/jcms/p_3165944/fr/diagnostic-de-la-denutrition-chez-la-personne-de-70-ans-et-plus)
 - Prescrire Redaction. Complémentation nutritionnelle orale chez les adultes dénutris : conditions de remboursement en France en 2020. Rev Prescrire. Mai 2020.
 - [HAS, FFN. Diagnostic de la dénutrition de l'enfant et de l'adulte. Recommandation de bonne pratique. Novembre 2019.](https://has-sante.fr/jcms/p_3118872/fr/diagnostic-de-la-denutrition-de-l-enfant-et-de-l-adulte)
@@ -347,7 +424,6 @@ accTitle:Prise en charge d'une personne à risque de dénutrition d'après HAS e
 
 ### À lire
 
-- {{< references/college-gastro >}} ou papier ?
 - [Hankard R.; SFP. Établir une stratégie nutritionnelle chez un enfant dénutri. 2017.](https://pap-pediatrie.fr/hepato-gastro/etablir-une-strategie-nutritionnelle-chez-un-enfant-denutri)
 - [Hankard R. et al; SFP. Dépister la dénutrition de l'enfant en pratique courante. 2012. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/recos-sfp-cn_depistage_denutrition_oct_2012_0.pdf)
 - [Société Francophone de Nutrition Clinique et Métabolisme - Référentiels](https://www.sfncm.org/outils-education/recommandations/referentiels)

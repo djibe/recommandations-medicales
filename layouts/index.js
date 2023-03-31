@@ -5,6 +5,35 @@
 
 const cacheName = 'files';
 
+// Install the app by preloading all recommandations
+self.addEventListener('install', (event) => {
+  const urlsToPrefetch = [
+  {{- range $index, $value := where site.RegularPages "Section" "recommandations" -}}
+    {{ if $index }}, {{ end }}
+    "{{ .RelPermalink }}"
+  {{- end -}}
+  ];
+
+  event.waitUntil(
+    caches.open(cacheName)
+    .then((cache) => {
+      return cache
+          .addAll(
+            urlsToPrefetch.map((urlToPrefetch) => {
+              return new Request(urlToPrefetch, { mode: "no-cors" });
+            })
+          )
+          .then(() => {
+            console.log("All resources have been fetched and cached.");
+          });
+    })
+    .catch((error) => {
+      console.error("Pre-fetching failed:", error);
+    })
+  );
+});
+
+// Cache visited pages
 self.addEventListener('fetch',  fetchEvent => {
   const request = fetchEvent.request;
   if (request.method !== 'GET') {
