@@ -6,7 +6,7 @@
 const cacheName = 'files';
 
 // Install the app by preloading all recommandations
-self.addEventListener('install', (event) => {
+/*self.addEventListener('install', (event) => {
   const urlsToPrefetch = [
     'https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2',
     'https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBBc4.woff2',
@@ -41,7 +41,7 @@ self.addEventListener('install', (event) => {
       console.error("Pre-fetching failed:", error);
     })
   );
-});
+});*/
 
 // Cache visited pages
 self.addEventListener('fetch',  fetchEvent => {

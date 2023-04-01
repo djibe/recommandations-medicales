@@ -70,8 +70,8 @@ Diagnostics différentiels de l'appendicite aiguë:
 - Maladie inflammatoire chronique de l'intestin (MICI)
 - Cholécystite aiguë
 - Garçon: torsion du testicule
-- Femme: Grossesse extra-utérine, salpingite, torsion ovarienne ou kyste de l'ovaire, [endométriose]({{< relref "endometriose.md" >}})
-- Pyélonéphrite aiguë
+- Femme: grossesse extra-utérine, salpingite, torsion ovarienne ou kyste de l'ovaire, [endométriose]({{< relref "endometriose.md" >}})
+- [Pyélonéphrite aiguë]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
 - Colique néphrétique
 - Pédiatrie: adénolymphite mésentérique, invagination intestinale aiguë
 {.list-group}
@@ -136,7 +136,6 @@ Appendicite méso-cœliaque
 
 Appendicite en position sous-hépatique
 : Tableau de cholécystite aiguë.
-{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires de l'appendicite aiguë" %}}
