@@ -197,7 +197,7 @@ Signes et symptômes de l'artériopathie oblitérante des membres inférieurs:
   - Amyotrophie
 - Signes d'insuffisance cardiaque
 - Périmètre de marche
-- {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} (calcul du {{< scores/heartscore >}})
+- {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}}
 
 {{%info%}}
 L'IPS sert au dépistage, au diagnostic et à la surveillance de l'AOMI.

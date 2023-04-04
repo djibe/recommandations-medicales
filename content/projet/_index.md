@@ -7,41 +7,46 @@ breadcrumbTitle = "Projet"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-06T09:56:35+02:00"
 publishdate = "2021-07-07"
-lastmod = "2022-09-06"
+lastmod = "2023-04-01"
 chart = true
 +++
 
-<div class="w-100 mb-5"><!-- illustration -->
-<img class="figure-img img-fluid"
+<img class="figure-img img-fluid mb-5"
   src="/images/icons/projet.svg"
   loading="eager"
   decoding="async"
   importance="high"
   fetchpriority="high"
   alt="Le projet RecoMédicales">
-</div>
+
+Je suis Jean-Baptiste Fron, médecin généraliste diplômé à Lille en 2014. En parallèle de mon activité de médecin généraliste, je maintiens depuis 2019 le projet RecoMédicales. Vous trouvez actuellement +160 fiches pratiques que j'ai compilées à partir des publications des sociétés savantes de référence et que j'essaie de faire valider par des spécialistes du domaine.
+{.typography-body-1}
 
 ## Motivation du projet
 
-Comme tous mes confrères, je suis confronté quotidiennement à la nécessité d'obtenir rapidement les éléments de référence pour des prises en charge de qualité au cours de mes consultations de médecine générale. À cet effet, je me heurte à plusieurs obstacles:
+Comme tous mes confrères, je suis confronté quotidiennement à la nécessité d'obtenir rapidement les éléments de référence pour réaliser des prises en charge de qualité au cours de mes consultations de médecine générale. À cet effet, je me heurte à plusieurs obstacles, que je liste ci-dessous.
 
 ### L'état de l'art évolue rapidement et sa dissémination aux généralistes est très limitée
 
-L'**État de l'art** est dispersé sur internet (HAS, sociétés savantes...), dans des documents trop longs. Il n'est pas adapté aux soins primaires, quand il n'est tout simplement pas détenu par des éditeurs à but lucratif (Elsevier...). De plus, le rythme des publications est rapide.
+L'**État de l'art** est dispersé sur internet (HAS, sociétés savantes ...), dans des documents trop longs, souvent dans des PDF dissimulés. Il n'est pas adapté aux soins primaires, quand il n'est tout simplement pas détenu par des éditeurs à but lucratif (Elsevier...). De plus, le rythme des publications est rapide.
 
 > Les progrès de la médecine n'atteignent guère les généralistes
 
 ### Le généraliste ne peut tout savoir et ne peut souvent pas accéder aux informations pertinentes en temps utile pour la consultation
 
-Le médecin généraliste est le premier intervenant de la grande majorité des soins. Il est donc exposé à tous les motifs de consultation, sans avoir toujours accès aux informations nécessaires pour offrir un premier bilan optimal.  
+Le médecin généraliste est le premier intervenant de la grande majorité des soins. Il est donc exposé à tous les motifs de consultation, sans avoir toujours accès aux informations nécessaires pour offrir un premier bilan optimal.
+
 Il ne peut pas tout savoir, et l'humain ne retient au mieux que 10% de ce qu'il apprend. Seul un assistant informationnel permettrait de résoudre ce dilemme.
 
 > L'information pertinente doit être accessible rapidement pendant la consultation
 
 ### La formation médicale continue (FMC) est peu efficace
 
-La FMC des médecins est obligatoire depuis le 24 avril 1996 ([CN FMCH. L'obligation de formation médicale continue (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/diapos_fmcph.pdf)), et la loi a été renforcée plusieurs fois depuis lors.  
-Pourtant, des exemples comme les *prescriptions d'antibiotiques* ou le *suivi du diabète* (voir ci-dessous) ne montrent pas de signes d'amélioration à la hauteur du temps de formation consacré. Plus simplement, 30% des diabétiques traités en monothérapie n'avaient pas de metformine en 2019 (*Assurance Maladie. Charges et Produits 2019*).
+La FMC des médecins est obligatoire depuis le 24 avril 1996 ([CN FMCH. L'obligation de formation médicale continue (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/diapos_fmcph.pdf)), et la loi a été renforcée plusieurs fois depuis lors.
+
+Pourtant, des exemples comme les *prescriptions d'antibiotiques* ou le *suivi du diabète* (voir ci-dessous) ne montrent pas de signes d'amélioration à la hauteur du temps de formation consacré.
+
+Plus simplement, 30% des diabétiques traités par monothérapie n'avaient pas de metformine en 2019 (*Assurance Maladie. Charges et Produits 2019*) ou 30% des personnes traitées par Lévothyrox n'avaient pas eu de dosage de la TSH avant la prescription (*HAS 2022*).
 
 > Si un schéma ne donne pas les résultats escomptés, il faut en chercher d'autres
 
@@ -127,10 +132,13 @@ const chartOptions3 = {
 
 ### Un texte ne suffit pas
 
-Initialement sur mon stockage personnel, mes fiches textes ne me permettaient pas de répondre à la complexité croissante de la médecine moderne: des scores, des arbres de décisions se décrivent difficilement avec des mots.  
-Cette limitation est récurrente sur les sites existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [Medix](http://www.medix.free.fr/), [Ordotype](https://www.ordotype.fr/), [Wikimedecine](https://www.wikimedecine.fr/Accueil), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil), [WeLinkCare](https://www.welinkcare.com/).
+Comme tous les médecins, mes notes au format texte ne m'ont pas permis d'appréhender la complexité croissante de la médecine moderne: des scores, des arbres de décisions se décrivent difficilement avec des mots.
 
-**RecoMédicales** n'est pas adapté aux étudiants (voir [ECNi](https://www.ecni.fr/), [prepECN](https://prepecn.com/)).
+Cette limitation est récurrente sur les sites existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net), [doctofiche](https://doctofiche.fr), [Medix](http://www.medix.free.fr), [Ordotype](https://www.ordotype.fr), [Wikimedecine](https://www.wikimedecine.fr/Accueil), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil), [WeLinkCare](https://www.welinkcare.com).
+
+**RecoMédicales** n'est pas adapté aux étudiants (voir [ECNi](https://www.ecni.fr) et [prepECN](https://prepecn.com)).
+
+> L'outil doit être dynamique en cas de forte complexité (scores, escalade thérapeutique ...)
 
 ## Objectifs du Projet
 
@@ -159,9 +167,8 @@ Il faut noter que le développement du démonstrateur a demandé un effort limit
 
 ## Remerciements
 
-Je tiens ici à remercier tous ceux qui m'ont soutenu dans ce projet, mon épouse médecin généraliste, les spécialistes qui ont bien voulu vérifier et valider les différentes fiches, et tous ceux qui m'ont aidé, conseillé et encouragé.
+Je tiens ici à remercier tous ceux qui m'ont soutenu dans ce projet, mon épouse médecin généraliste, les spécialistes qui ont bien voulu vérifier et valider les différentes fiches, et tous ceux qui m'aident, me conseillent et m'encouragent.
 
 Je vous remercie pour votre attention,
-{.mt-5}
 
 Dr Jean-Baptiste FRON

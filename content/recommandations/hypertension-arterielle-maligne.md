@@ -60,7 +60,7 @@ Autres urgences hypertensives: AVC, dissection aortique, infarctus du myocarde, 
   - Céphalées
   - Nausées/vomissements
   - Flou visuel, baisse d'acuité visuelle ou cécité (corticale)
-  - Angor et douleur thoracique
+  - [Angor et douleur thoracique]({{< relref "syndrome-coronarien-chronique.md" >}})
   - Dyspnée
   - Douleurs abdominales
   - Polyuro-polydipsie

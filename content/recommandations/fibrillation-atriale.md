@@ -165,7 +165,7 @@ Toute suspicion clinique de fibrillation atriale doit être confirmée au plus t
   - Facteurs déclenchants
   - Durée des épisodes, mode de début et fin
   - Symptômes: {{< modal-btn modal-ehra >}}score EHRA{{< /modal-btn >}}  
-  **Dyspnée, palpitations, fatigue**, angor/douleur thoracique, intolérance à l'effort, malaises, vertiges, chutes, syncope, troubles du sommeil, anxiété, bouffées de chaleur.
+  **Dyspnée, palpitations, fatigue**, [angor/douleur thoracique]({{< relref "syndrome-coronarien-chronique.md" >}}), intolérance à l'effort, malaises, vertiges, chutes, syncope, troubles du sommeil, anxiété, bouffées de chaleur.
 - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}} (50%)
 
 ### Examen clinique

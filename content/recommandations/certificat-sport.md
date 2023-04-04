@@ -163,7 +163,7 @@ L'inscription à une *compétition* nécessite la présente d'une license sporti
 
 ### Indications à l'épreuve d'effort (EE)
 
-- Sportif avec angor (*ESC 2018*)
+- Sportif avec [angor]({{< relref "syndrome-coronarien-chronique.md" >}}) (*ESC 2018*)
 - Sportif avec {{< modal-btn modal-risque-cv >}}risque CV élevé ou très élevé{{< /modal-btn >}} (*ESC 2018*)
 - Envisagée si asymptomatique avec {{< modal-btn modal-risque-cv >}}risque CV modéré{{< /modal-btn >}} débutant une activité intense (> 6 METs)(*ESC 2018*)
 - Tabagisme

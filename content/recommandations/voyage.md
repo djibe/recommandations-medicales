@@ -86,7 +86,7 @@ Se référer à la page dédiée à chaque maladie pour en savoir plus (ex. [fi�
 - Femmes enceintes après 36 semaines de grossesse (32 si jumeaux)
 - Plongée sous-marine datant < 24h
 - Avis médical si:
-  - Angor
+  - [Angor]({{< relref "syndrome-coronarien-chronique.md" >}})
   - Maladie transmissible évolutive
   - Barotraumatisme
   - HTIC

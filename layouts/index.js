@@ -18,6 +18,7 @@ const cacheName = 'files';
     'https://cdn.jsdelivr.net/npm/apexcharts@3.37.0/dist/apexcharts.min.js',
     'https://cdn.jsdelivr.net/npm/mermaid@10.0/+esm',
     'https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js',
+    '/recommandations/',
   {{- range $index, $value := where site.RegularPages "Section" "recommandations" -}}
     {{ if $index }}, {{ end }}
     '{{ .RelPermalink }}'

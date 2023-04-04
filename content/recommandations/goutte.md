@@ -302,7 +302,7 @@ Indications au fébuxostat:
 Fébuxostat contre-indiqué en maladie cardiovasculaire sévère:
 
 - Infarctus du myocarde
-- Angor instable
+- [Angor instable]({{< relref "syndrome-coronarien-chronique.md" >}})
 - AIT/AVC, AOMI symptomatique
 - Revascularisation carotidienne/coronarienne
 - Diabète compliqué

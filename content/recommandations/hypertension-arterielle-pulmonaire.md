@@ -105,7 +105,7 @@ Les signes cliniques de l'HTAP sont peu spécifiques et doivent être évoqués 
   - Dyspnée chronique et d'aggravation progressive
 - [Asthénie et fatigue à l'effort](/tags/fatigue/)
 - Syncope et lipothymies (à l'effort)
-- Angor
+- [Angor]({{< relref "syndrome-coronarien-chronique.md" >}})
 - Hémoptysie
 - Signes d'HTP: insuffisance tricuspide ou pulmonaire
 - Signes d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) droite

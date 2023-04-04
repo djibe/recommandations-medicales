@@ -262,7 +262,7 @@ mark {
   vertical-align: text-top;
 }
 
-a[href^="http"]:not([class])::not(.no-icon):not([href*="recomedicales.fr"])::after {
+a[href^="http"]:not([class]):not([href*="recomedicales.fr"])::after {
   @extend %material-icon-content;
   content: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" height="18" viewBox="0 0 24 24" fill="%234150f5" width="18"%3E%3Cpath d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/%3E%3C/svg%3E');
   margin-left: 0.25rem;
@@ -1108,6 +1108,10 @@ footer.footer {
   display: grid;
   place-items: center;
   padding: 4rem 1.5rem;
+
+  a.no-icon::after {
+    display: none;
+  }
 
   .about {
     display: grid;

@@ -356,7 +356,7 @@ La prise en charge de l'hypertension est toujours associée aux mesures hygiéno
 - Privilégier d'emblée une bithérapie en essayant de conserver un seul comprimé
 - Aucune différence entre une prise le matin ou le soir (*étude TIME*)
 - Pas d'arrêt du traitement sur le seul critère d'âge
-- Les bêtabloquants sont privilégiés en maladie cardiovasculaire (insuffisance cardiaque, angor, infarctus, FA) ou grossesse
+- Les bêtabloquants sont privilégiés en maladie cardiovasculaire (insuffisance cardiaque, [angor]({{< relref "syndrome-coronarien-chronique.md" >}}), infarctus, FA) ou grossesse
 - Suivi tous les 3-6 mois
 - Surveillance biologique (*HAS 2016*)
   - Annuelle: ionogramme, créatininémie, microalbuminurie

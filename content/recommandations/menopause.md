@@ -167,11 +167,11 @@ Le diagnostic est clinique (voir *Définitions*).
   - Antécédent de prééclampsie ou diabète gestationnel
 - Poids, taille, IMC, pression artérielle aux 2 bras, pouls périphériques
 - Symptômes cardiovasculaires  
-  - Douleurs thoraciques, angor
+  - [Douleurs thoraciques, angor]({{< relref "syndrome-coronarien-chronique.md" >}})
   - Fatigue, dyspnée
   - Épigastralgies, nausées
   - Palpitations
-  - Apnées du sommeil
+  - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}}
 - {{< modal-btn modal-risque-fracture >}}Facteurs de risque fracturaire{{< /modal-btn >}}
 - Toxiques  
@@ -637,6 +637,11 @@ Le traitement hormonal de la ménopause (THM):
 - [HAS. Les traitements hormonaux substitutifs de la ménopause. 2004.](https://www.has-sante.fr/jcms/c_272308/fr/les-traitements-hormonaux-substitutifs-de-la-menopause)
 
 {{%/sources%}}
+{{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
+
+{{< scores/stop-bang >}}
+
+{{% /modal %}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}

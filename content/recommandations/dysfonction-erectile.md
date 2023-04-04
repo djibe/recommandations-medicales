@@ -299,7 +299,7 @@ Avis psychiatrique systématique: dysfonction érectile primaire, pathologie psy
 ### Contre-indications aux iPDE-5
 
 - Dérivés nitrés et donneurs de NO au long cours ou dans les 24h précédentes (48h pour tadalafil)
-- Infarctus du myocarde récent ou angor instable
+- Infarctus du myocarde récent ou [angor instable]({{< relref "syndrome-coronarien-chronique.md" >}})
 - Accident cardiovasculaire < 6 mois
 - Insuffisance cardiaque sévère non contrôlée
 - Insuffisance hépatique sévère

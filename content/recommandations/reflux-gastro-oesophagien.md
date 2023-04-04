@@ -113,7 +113,7 @@ Pathologies à étayer devant un tableau de reflux gastro-œsophagien:
 - Ulcère gastrique ou duodénal
 - Sténose peptique de l'œsophage
 - Lithiases biliaires
-- Angor
+- [Angor]({{< relref "syndrome-coronarien-chronique.md" >}})
 
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}

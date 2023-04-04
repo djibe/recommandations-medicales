@@ -110,7 +110,7 @@ Autres causes de toux à éliminer (par ordre anatomique):
   Symptômes digestifs hauts inconstants (reflux absent dans 50-75% des cas de toux chronique liée à un RGO). Voire dysphagie.
 - Cardiologique
   - Toux à l'effort ou au décubitus avec dyspnée
-  - Souffle, trouble du rythme, signes d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), angor
+  - Souffle, trouble du rythme, signes d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [angor]({{< relref "syndrome-coronarien-chronique.md" >}})
 - Cause allergique
 - Cause comportementale
   - Exclusion de tous les diagnostics ci-dessus

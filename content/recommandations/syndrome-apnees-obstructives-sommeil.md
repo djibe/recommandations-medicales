@@ -290,7 +290,7 @@ Somnolence diurne
 : Narcolepsie, hypersomnie idiopathique, dette de sommeil, syndrome obésité-hypoventilation
 
 Dyspnée nocturne
-: Attaques de paniques nocturnes, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), [asthme]({{< relref "asthme.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), angor nocturne
+: Attaques de paniques nocturnes, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), [asthme]({{< relref "asthme.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [angor nocturne]({{< relref "syndrome-coronarien-chronique.md" >}})
 
 Apnées
 : Syndrome d'apnées centrales du sommeil (SACS)

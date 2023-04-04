@@ -151,7 +151,7 @@ T4L
 - Myxœdème  
   Macroglossie, voix rauque ou grave, hypoacousie, vertiges, ronflements voire [syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}}), gonflement des paupières.
 - Cardiaque  
-  Bradycardie, assourdissement des bruits du cœur, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) fréquente, angor, épanchement péricardique si ancien.
+  Bradycardie, assourdissement des bruits du cœur, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) fréquente, [angor]({{< relref "syndrome-coronarien-chronique.md" >}}), épanchement péricardique si ancien.
 - Respiratoire  
   En atteinte sévère: épanchement pleural bilatéral, [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), bradypnée.
 - Neuro-psychologique  

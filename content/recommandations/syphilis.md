@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-02T08:27:41+02:00"
 publishdate = "2020-09-02"
-lastmod = "2022-11-28"
+lastmod = "2023-04-03"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2016"
 sources = ["SFDermato", "SPILF"]
@@ -15,7 +15,7 @@ anglais = ["Syphilis"]
 sctid = "76272004"
 icd10 = "A53.9"
 image = true
-imageSrc = "Chancre syphilitique de la langue d'une syphilis primaire. cdc.gov / PHIL"
+imageSrc = "Chancre syphilitique de la langue signant une syphilis primaire. cdc.gov / PHIL"
 flowchart = true
 todo = "Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
 +++
@@ -24,8 +24,9 @@ todo = "Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
 
 - Évoquer un chancre syphilitique devant toute ulcération génitale
 - Traiter comme une syphilis tardive quand la date de contamination n'est pas connue
-- Le diagnostic de syphilis est biologique (sérologie syphilitique positive)
-- Réaliser les sérologies des autres [infections sexuelles](/tags/ist/) et dépister les partenaires
+- Bilan pour le dépistage et le diagnostic de syphilis: sérologie syphilitique (test tréponémique unique et non plus TPHA-VDRL)
+- La prise en charge de la syphilis dépend du stade de la maladie: syphilis précoce ou tardive
+- Réaliser les sérologies des autres [infections sexuellement transmissibles (IST)](/tags/ist/) et dépistage des partenaires
 
 Renseigner sur la [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}}) toute personne exposée au VIH
 
@@ -189,15 +190,16 @@ Le diagnostic de syphilis par sérologie est plus difficile en cas de recontamin
 
 Examen au microscope à fond noir d'un prélèvement lésionnel. Permet un diagnostic de syphilis immédiat mais le prélèvement nécessite un microscope et une expertise.
 
-### Sérologies et prélèvements des autres IST
+### Sérologies et prélèvements des autres infections sexuellement transmissibles
 
-Selon les expositions, voir [les IST](/tags/ist/).
+Selon les expositions, dépister et traiter [les autres infections sexuellement transmissibles (IST)](/tags/ist/).
 
 {{% /collapse %}}
-{{%collapse "Prévention" %}}
+{{%collapse "Prévention de la syphilis" %}}
 
-Port du **préservatif** avec tout partenaire en l'absence de bilan d'IST récent des 2 partenaires.  
-Également si multi-partenaires.
+Seul le port du **préservatif** permet de protéger d'une infection en cas de rapport avec une personne de statut inconnu (absence de bilan d'IST récent des 2 partenaires).
+
+Le préservatif est également primordial en cas de relations multi-partenaires.
 
 Dépistage de la syphilis tous les 3 à 6 mois chez la personne vivant avec le [VIH]({{< relref "vih-sida.md" >}}) (*HAS 2018*).
 
@@ -212,10 +214,12 @@ Recommandations pour la prise en charge de la syphilis.
   Même protégé, pendant toute la durée du traitement et jusqu'à 2 semaines après, et jusqu'à la guérison des lésions cutanéo-muqueuses.
 - Hospitalisation si signes neurologiques
 
-### Syphilis précoce
+### Traitement de la syphilis précoce (primaire ou secondaire)
 
 Benzathine pénicilline G (BPG, Extencilline®) 2,4 MU en dose unique IM
 {.alert .alert-info}
+
+Prise en charge d'une syphilis précoce (syphilis primaire ou secondaire):
 
 - Paracétamol systématique  
   Informer sur la réaction d'Herxeimer.
@@ -231,7 +235,7 @@ Affirmer la guérison est impossible, nécessité de surveiller les patients pen
 Répéter le suivi sérologique dans les populations à risque (contaminées ou non)
 {.alert .alert-info}
 
-#### Situations particulières
+#### Situations particulières pour le traitement de la syphilis
 
 - Allergie aux bêtalactamines  
   doxycycline 100 mg x 2/j pendant 14 jours  
@@ -249,14 +253,14 @@ Répéter le suivi sérologique dans les populations à risque (contaminées ou 
   Hospitaliser pour ponction lombaire et traiter comme une neurosyphilis
 - Avis infectiologue si cas problématique ou échec du traitement
 
-### Syphilis tardive ou date de contamination inconnue
+### Traitement de la syphilis tardive (syphilis tertiaire ou d'ancienneté inconnue)
 
-Traitement d'une syphilis de plus d'un an ou ancienneté non connue:
+Prise en charge et traitement d'une syphilis tardive:
 
-1 injection de Benzathine pénicilline G (BPG Extencilline®) 2,4 MU IM par semaine pendant 3 semaines
+Une injection de Benzathine pénicilline G (BPG Extencilline®) 2,4 MU IM par semaine pendant 3 semaines
 {.alert .alert-info}
 
-- Femme enceinte: Pas d'alternative à la pénicilline G  
+- Femme enceinte: pas d'alternative à la pénicilline G ([CRAT](http://lecrat.fr/articleSearchSaisie.php?recherche=Extencilline))  
   Désensibilisation si nécessaire.
 - Allergie aux bêtalactamines  
   Doxycycline 100 mg x 2/j per os pendant 28 jours
@@ -270,7 +274,7 @@ Syphilis certaine chez patient source, notification des partenaires et test selo
 - Syphilis secondaire ou latente  
   Tous les contacts de l'année précédente (même si protégés).
 
-#### Méthode du dépistage des contacts
+#### Méthode du dépistage de la syphilis chez les contacts
 
 - Si contact ≥ 6 semaines: sérologie  
   Si positive: traiter, sinon refaire la sérologie à 3 mois.
@@ -279,15 +283,15 @@ Syphilis certaine chez patient source, notification des partenaires et test selo
   Si positive: traiter, sinon refaire à 3 mois.
 
 {{% /collapse %}}
-{{%collapse "Surveillance du traitement par pénicilline" %}}
+{{%collapse "Surveillance du traitement par pénicilline G" %}}
 
 L'efficacité du traitement doit être contrôlée cliniquement et par sérologie du VDRL.
 
-### Surveillance clinique
+### Surveillance clinique de la guérison
 
 Disparition du chancre ou de l'éruption en 3 à 15 jours.
 
-### Sérologique par VDRL
+### Surveillance sérologique par suivi du VDRL
 
 {{%info%}}
 Au laboratoire
@@ -316,7 +320,7 @@ La négativation du VDRL est considérée comme le meilleur critère de guériso
 
 Le TPHA ne se négative que rarement sauf chez le patient *VIH+*. Il n'est pas utilisé dans la surveillance.
 
-### Échec du traitement et recontamination
+### Échec du traitement et recontamination par la syphilis
 
 Évoquer lorsque le VDRL n'est pas divisé par 4 à 6 mois.
 On parle de **recontamination** lorsque le VDRL est multiplié d'un facteur ≥ 4.
@@ -330,7 +334,7 @@ Dans ce cas:
 {{%class%}}Recherche d'une neurosyphilis.{{%/class%}}
 
 {{% /collapse %}}
-{{%collapse "informations du patient" %}}
+{{%collapse "Information du patient" %}}
 
 - Maladie sexuelle avec de graves atteintes neurologiques et cécité en l'absence de traitement
 - Dépistage des contacts pour enrayer la transmission
@@ -362,7 +366,7 @@ graph TB
   style chancre stroke:#4150f5, stroke-width:1px
     ttt --> surv("- Clinique<br>- VDRL M3, M6, M12")
       surv -. Échec .-> echec(Adresser infectiologue)
-  clinique["Lésions suspectes<br>Dépistage IST"] -- Sérologie + --> anciennete("Date de contamination<br>connue ?")
+  clinique["Lésions suspectes de syphilis<br>Dépistage des IST"] -- Sérologie + --> anciennete("Date de contamination<br>connue ?")
   style clinique stroke:#4150f5, stroke-width:1px
     anciennete -- Oui --> adapte("Schéma BPG adapté<br>(unique ou 1/sem 3 sem)<br>Dépistage contacts adapté") --> surv
     anciennete -- Non --> tardive("<b>Traiter syphilis tardive</b><br>BPG 2,4 MU IM 1/sem 3 sem<br>Notification des partenaires &lt; 1 an") --> surv
