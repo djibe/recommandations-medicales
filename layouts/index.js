@@ -17,7 +17,7 @@ const cacheName = 'files';
     'https://cdn.jsdelivr.net/npm/djibe-material@4.6.2-1.0/js/material.min.js',
     '/js/search.min.3575570338356f92346231966c2b380dfc1d6d652428d9778eb15afb44ae5e9dc94a83a0942ada32b8878ff889a9e736.js',
     'https://cdn.jsdelivr.net/npm/apexcharts@3.37.0/dist/apexcharts.min.js',
-    'https://cdn.jsdelivr.net/npm/mermaid@10.0/+esm',
+    'https://cdn.jsdelivr.net/npm/mermaid@10.1/+esm',
     'https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js',
     '/recommandations/',
   {{- range $index, $value := where site.RegularPages "Section" "recommandations" -}}

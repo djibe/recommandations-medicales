@@ -1,6 +1,7 @@
 +++
 title = "Cardiopathie ischémique: Syndrome coronarien chronique (SCC)"
 prefix = "la "
+noindex = true
 titleSeo = "Syndrome coronarien chronique"
 description = "Recommandations pour la prise en charge du syndrome coronarien chronique (cardiopathie ischémique): angor, hypertension, dyslipidémie LDL statine, bêtabloquant"
 longHtml = true
@@ -18,12 +19,12 @@ sctid = "413844008"
 icd10 = "I25.9"
 image = true
 imageSrc = "Réseau des artères coronaires et de leurs branches. BruceBlaus, CC BY 3.0 via Wikimedia Commons"
-todo = "summary > liens, aigu possible en AccT, https://www.vidal.fr/medicaments/classification/atc/3207.html"
+todo = "summary > liens, aigu possible en AccT, DAPT pour HAS-BLED, https://www.vidal.fr/medicaments/classification/atc/3207.html"
 +++
 
 {{%article-summary%}}
 
-TODO:
+*Amélioration en cours sur les dérivés nitrés*
 
 Voir: [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [épreuve d'effort]({{< relref "epreuve-effort.md" >}})
 
@@ -153,7 +154,8 @@ Angor peu probable
   - Valvulopathie
   - Autres organes: maladie rénale, pulmonaire
 
-+40 ans asymptomatique: calcul du {{< scores/heartscore >}} en l'absence de maladie cardiovasculaire, diabète, insuffisance rénale ou hypercholestérolémie familiale (sinon définir la classe de {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}).
+Chez le +40 ans asymptomatique sans sténose à l'imagerie: calcul du {{< scores/heartscore >}} en l'absence de maladie cardiovasculaire, diabète, insuffisance rénale ou hypercholestérolémie familiale (sinon définir la classe de {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}})
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -195,7 +197,7 @@ L'électrocardiogramme 12 dérivations est systématique.
 
 Réévaluation du traitement à chaque consultation:
 
-- Le patient est à {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}
+- Le patient est à {{< modal-btn modal-rcv >}}haut voire très haut risque cardiovasculaire en cas de sténose à l'imagerie ou d'événement CV{{< /modal-btn >}}
 - Titration des traitements à dose maximale tolérée
 - Suivi proposé au moins tous les 6 mois
 
@@ -211,32 +213,32 @@ Réévaluation du traitement à chaque consultation:
 - Activité physique adaptée (APA) régulière  
   - Programme d'APA; min 150 min/sem endurance, renforcement musculaire 2-3/sem avec 10-15 répétitions
   - Sédentarité < 7h/j, bouger 1 minute/h
-- Si diabète de type 2: {{< modal-btn modal-hba1c >}}HbA1c cible{{< /modal-btn >}} (globalement 7%), suivi diabétologique, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} ou {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}} selon le profil
+- Si diabète de type 2: {{< modal-btn modal-hba1c >}}HbA1c cible ~ 7%{{< /modal-btn >}}, suivi diabétologique, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} ou {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}} selon le profil
 
 ### Prise en charge du syndrome coronarien chronique
 
 Mesures spécifiques pour la prise en charge du coronarien:
 
 - **Réadaptation cardiaque** systématique
-- Symptômes à l'effort: dérivé nitré d'action rapide: spray + rapide > sublinguale (TODO:)
+- Symptômes à l'effort: dérivé nitré d'action rapide (Isocard®, Natispray®)
 - Bêtabloquant (BB) ou {{< modal-btn modal-ica-angor >}}inhibiteur calcique (ICa){{< /modal-btn >}}
   - Considérer d'emblée l'association BB + {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} (voir le tableau ci-dessous)
   - Fréquence cardiaque cible: 55-60 bpm (*ESC*) et 130 bpm à l'effort (*Collège*)
   - Réévaluation toutes les 2-4 semaines
-  - Si angine persistante: nitré d'action longue de 2<sup>e</sup> ligne (nicorandil, ranolazine, ivabradine, trimetazidine, voir tableau plus bas) pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14h/j.
+  - Si angine persistante: nitré d'action longue de 2<sup>e</sup> ligne (nicorandil, ~~ranolazine~~ non disponible en France, ivabradine, trimétazidine, voir tableau plus bas) pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14h/j.
 - Aspirine 75-100 mg/j à considérer en l'absence d'IDM ou de revascularisation
   - Clopidogrel 75 mg/j si intolérance, [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) ou [AIC/AIT]({{< relref "accident-vasculaire-cerebral.md" >}})
   - Voire bi-antithrombotique si haut risque ischémique (score Precise-DAPT)
   - IPP si haut risque de saignement (à venir: *ESC DAPT*)
 - Statine systématique
-  - Haut voire très haut risque cardiovasculaire = LDL < 0,7 g/L et réduction ≥ 30% (TODO: vérifier)
+  - {{< modal-btn modal-rcv >}}LDL < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (< 0,55 si sténose à l'imagerie ou événement CV)
   - Ézétimibe ou évolocumab (Repatha®), alirocumab (Praluent®) si cible non atteinte
 - [Vaccination grippe]({{< relref "grippe.md" >}})
 - Prise en charge psychologique  
   Dont thérapie cognitive et comportementale (TCC) pour accompagner le changement de mode de vie.
 - Socio-professionnel: adaptation du poste de travail
 - Éducation thérapeutique
-- Déclarer l'ALD n°5  
+- Déclarer l'[ALD n°5]({{< relref "affection-longue-duree.md" >}})  
   Indications: toute ischémie myocardique objectivement documentée (ECG, épreuve d'effort, scintigraphie myocardique de perfusion, échographie de stress, échographie d'effort, holter ECG, coronarographie).
 - Prise en charge des comorbidités:
   - Post-infarctus, [insuffisance cardiaque, dysfonction VG]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ou diabète: IEC voire ARA2
@@ -248,9 +250,9 @@ Mesures spécifiques pour la prise en charge du coronarien:
 | Intention | Standard                        | FC > 80/min          | FC < 50/min   | Dysfonction VG/IC              | Hypotension artérielle             |
 |----------:|---------------------------------|----------------------|---------------|--------------------------------|------------------------------------|
 |         1 | BB ou {{< modal-btn modal-ica-angor >}}ICa{{< /modal-btn >}} | BB ou<br>{{< modal-btn modal-ica-angor >}}ICa-non-DHP{{< /modal-btn >}} | {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} | BB | BB ou {{< modal-btn modal-ica-angor >}}ICa-non-DHP{{< /modal-btn >}}<br>faible dose |
-|         2 | **BB + {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}}** | BB + {{< modal-btn modal-ica-angor >}}ICa{{< /modal-btn >}}* | Substituer par NAL | BB + NAL ou<br>BB + ivabradine | Substituer par ivabradine ou autre |
+|         2 | **BB + {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}}** | BB + {{< modal-btn modal-ica-angor >}}ICa{{< /modal-btn >}}* | Substituer par NAL | BB + NAL ou<br>BB + ivabradine | Substituer par ivabradine<br>ou autre |
 |         3 | Ajout 2<sup>e</sup> ligne                  | BB + ivabradine      | {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} + NAL | Ajout 2<sup>e</sup> ligne | Bithérapie de 2<sup>e</sup> ligne |
-|         4 | Ajout nicorandil, ranolazine ou trimetazidine | idem   | idem          | idem                           | idem                               |
+|         4 | Ajout nicorandil,<br>~~ranolazine~~<br>ou trimétazidine | idem   | idem          | idem                           | idem                               |
 {{< /table >}}
 
 > \* Précautions avec vérapamil et diltiazem (ICa-non-DHP)

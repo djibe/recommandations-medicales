@@ -19,6 +19,7 @@ icd10 = ""
 flowchart = true
 image = true
 imageSrc = "Illustration de la Prophylaxie pré-exposition (PrEP) par pikisuperstar / Freepik"
+todo = "gitgraph: Continu femme, Schéma continu homme, Schéma discontinu homme"
 +++
 
 {{%article-summary%}}
@@ -33,7 +34,7 @@ imageSrc = "Illustration de la Prophylaxie pré-exposition (PrEP) par pikisupers
   - Initiation: Homme: 2 cp en 1 prise (2-24h avant le rapport) | Femme: délai de 7 jours avant le 1<sup>er</sup> rapport sexuel à protéger
   - ensuite Truvada® 1 cp/j à heure fixe pendant le repas
 - ou **discontinu** (dit *à la demande*, homme sans VHB uniquement)  
-  Truvada® 2 cp en 1 prise 2 à 24 heures avant le rapport à protéger, puis 1cp 24 et 48h après la double prise
+  Truvada® 2 cp en 1 prise 2 à 24 heures avant le rapport à protéger, puis 1 cp 24 et 48h après la double prise
 - Arrêt du traitement: 1 cp/j pendant 2 jours après le dernier rapport non protégé puis arrêt
 - Applis pour l'aide à l'observance (My PrEP ..., voir *Resources patients*)
 - Suivi biologique et dépistages des IST systématique
@@ -276,8 +277,8 @@ Collection de différents supports d'informations sur la PrEP à remettre au pat
 {{% /collapse %}}
 {{%collapse "Prise en charge avec la PrEP" "show" %}}
 
-{{< mermaid title="Instauration de la PrEP en continu. Dr JB Fron d'après HAS 2021" >}}
-%%{init: { 'gitGraph': { 'mainBranchName': 'Continu femme' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
+{{< mermaid title="Instauration de la PrEP en continu (femme, homme). Dr JB Fron d'après HAS 2021" >}}
+%%{init: { 'gitGraph': { 'mainBranchName': '' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
 gitGraph
   commit id: "J1" tag: "Initiation"
   commit id: "J2"
@@ -290,16 +291,16 @@ gitGraph
   commit id: "1 cp/j" tag: "Poursuite"
 {{< /mermaid >}}
 
-{{< mermaid title="Instauration de la PrEP en continu avec démarrage immédiat. Dr JB Fron d'après HAS 2021" >}}
-%%{init: { 'gitGraph': { 'mainBranchName': 'Schéma continu homme' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
+{{< mermaid title="Instauration de la PrEP en continu avec démarrage immédiat (homme uniquement). Dr JB Fron d'après HAS 2021" >}}
+%%{init: { 'gitGraph': { 'mainBranchName': '' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
 gitGraph
   commit id: "H0" tag: "2 cp"
   commit id: "H2-H24" tag: "1er rapport"
   commit id: "1 cp/j" tag: "Poursuite"
 {{< /mermaid >}}
 
-{{< mermaid title="Utilisation de la PrEP en schéma discontinu (hors AMM et hors VHB actif). Dr JB Fron d'après HAS 2021" >}}
-%%{init: { 'gitGraph': { 'mainBranchName': 'Schéma discontinu homme' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
+{{< mermaid title="Utilisation de la PrEP en schéma discontinu (homme uniquement, hors AMM et hors VHB actif). Dr JB Fron d'après HAS 2021" >}}
+%%{init: { 'gitGraph': { 'mainBranchName': '' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
 gitGraph
   commit id: "T0" tag: "2 cp"
   commit id: "H2-H24" tag: "Rapport"

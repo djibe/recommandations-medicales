@@ -1287,6 +1287,10 @@ svg[id*="mermaid"] {
   }
 }
 
+.commit-label-bkg {
+  opacity: 0 !important;
+}
+
 div.mermaidTooltip {
   position: absolute;
   transform: translate(-50%, -100%);
