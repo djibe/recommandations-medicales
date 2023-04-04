@@ -16,7 +16,6 @@ tags = ["risque cardiovasculaire", "tabac"]
 anglais = ["Chronic coronary syndrome (CCS)", "chronic coronary insufficiency", "chronic myocardial ischemia", "coronary artery disease (CAD)"]
 sctid = "413844008"
 icd10 = "I25.9"
-draft = true
 image = true
 imageSrc = "Réseau des artères coronaires et de leurs branches. BruceBlaus, CC BY 3.0 via Wikimedia Commons"
 todo = "summary > liens, aigu possible en AccT, https://www.vidal.fr/medicaments/classification/atc/3207.html"

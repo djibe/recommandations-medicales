@@ -2,6 +2,17 @@
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin defer></script>
 <script src="{{ .Site.Params.cdn.material_js}}" {{ printf "integrity=%q" .Site.Params.cdn.material_js_hash | safeHTMLAttr }} crossorigin defer></script>
 <script src="https://cdn.jsdelivr.net/npm/instant.page@5.1.1/instantpage.min.js" crossorigin defer async></script>
+<script crossorigin>
+  // Newsletter: Mailchimp
+  const btnNewsletter = document.getElementById("btn-newsletter");
+
+  btnNewsletter.addEventListener('click', () => {
+    const script = document.createElement('script');
+    script.src = 'https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js';
+    document.head.appendChild(script);
+    (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);
+  });
+</script>
 
 {{- with .Params.chart }}
 <script src="https://cdn.jsdelivr.net/npm/apexcharts@3.37.0/dist/apexcharts.min.js" integrity="sha256-pTfgFJdjv1i5eqU/CIplI5e0M3I4GKLyJ1C9Lek+z4E=" crossorigin defer></script>
