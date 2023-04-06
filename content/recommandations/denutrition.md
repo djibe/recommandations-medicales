@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-19T11:25:57+01:00"
 publishdate = "2021-11-23"
-lastmod = "2023-03-31"
+lastmod = "2023-04-06"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["HAS", "FFN", "SFNCM"]
@@ -23,9 +23,9 @@ todo = "FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., htt
 
 {{%article-summary%}}
 
-- Dépister une dénutrition avec le {{< modal-btn modal-mna >}}questionnaire Mini Nutritional Assessment (MNA){{< /modal-btn >}} (dépistage annuel après 70 ans)
+- Dépister une dénutrition avec le {{< modal-btn modal-mna >}}questionnaire Mini Nutritional Assessment (MNA){{< /modal-btn >}} (dépistage annuel après 70 ans, à chaque visite chez l'enfant)
 - Le diagnostic de dénutrition est clinique: association d'un critère phénotypique (amaigrissement, IMC bas, sarcopénie) et d'un critère étiologique (anorexie, malabsorption, inflammation)
-- Un IMC élevé n'exclut pas une dénutrition
+- Un IMC élevé n'exclut pas une dénutrition (normal 18,5 - 25 kg/m² chez l'adulte et 21-25 après 70 ans, 3-97 percentiles chez l'enfant)
 - Suivi de la dénutrition: poids hebdomadaire avec surveillance à chaque consultation (noté dans les dossier médical, DMP, carnet de santé)
 - Prise en charge d'une dénutrition: bilan étiologique, enrichir l'alimentation, soins bucco-dentaires voire compléments alimentaires
 
@@ -96,6 +96,9 @@ CIM-10
 CNO
 : complémentation nutritionnelle orale
 
+DPE
+: dénutrition protéino-énergétique
+
 FFN
 : Fédération française de nutrition
 
@@ -116,7 +119,7 @@ SFNCM
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Calculs: perte de poids - estimation de la taille ..." "show"%}}
+{{%collapse "Calculs: perte de poids - estimation de la taille ..." %}}
 
 ### Perte de poids
 
@@ -128,7 +131,8 @@ La formule de Harris-Benedict permet d'estimer le **débit énergétique de base
 
 L'estimation des **besoins énergétiques totaux** applique au DEB un facteur de 1 à 1,5 selon l'intensité métabolique auquel son organisme est soumis.
 
-**NB.** Le calculateur ne fonctionne pas pour le moment.
+Le calculateur ne fonctionne pas pour le moment
+{.alert .alert-warning}
 
 <div class="card-body rounded-lg border mb-3" style="max-width: 280px">
   <div class="form-group floating-label textfield-box form-ripple">
@@ -151,22 +155,33 @@ L'estimation des **besoins énergétiques totaux** applique au DEB un facteur de
 </div>
 <script>
   window.onload = () => {
+    console.log('start'); // TODO: Not detected
   $(function () {
-  $('#harris-age,, #harris-height, #harris-weight').on('input', () => {
-    console.log('start');
-    let age = $('#harris-age').val();
-    let height = $('#harris-height').val();
-    let weight = $('#harris-weight').val();
-    if (age > 0 && height > 0 && weight > 0) {
-      $('#harris-calc-female').val(Math.round(655.0955 + (9.5634 * weight) + (1.8496 * height) - (4.6756 * age)));
-      $('#harris-calc-male').val(Math.round(66.4730 + (13.7516 * weight) + (5.0033 * height) - (6.7550 * age)));
-    }
-  })
+    $('#harris-age, #harris-height, #harris-weight').on('input', () => {
+      console.log('start');
+      const age = $('#harris-age').val();
+      const height = $('#harris-height').val();
+      const weight = $('#harris-weight').val();
+      if (age > 0 && height > 0 && weight > 0) {
+        $('#harris-calc-female').val(Math.round(655.0955 + (9.5634 * weight) + (1.8496 * height) - (4.6756 * age)));
+        $('#harris-calc-male').val(Math.round(66.4730 + (13.7516 * weight) + (5.0033 * height) - (6.7550 * age)));
+      }
+    })
   })
 }
 </script>
 
 > [Harris JA, Benedict FG. A Biometric Study of Human Basal Metabolism. Proc Natl Acad Sci U S A. 1918;4(12):370-373. doi:10.1073/pnas.4.12.370](https://pubmed.ncbi.nlm.nih.gov/16576330/)
+
+### Estimation des besoins énergétiques de l'enfant (règle 100/50/25)
+
+{{< table title="Estimation du besoin énergétique de l'enfant (règle 100/50/25)" >}}
+| Poids attendu pour la taille (kg) |                       Apports (kcal) |
+|----------------------------------:|-------------------------------------:|
+|                              0-10 |                          100 kcal/kg |
+|                             10-20 | 1000 + 50 kcal/kg au-dessus de 10 kg |
+|                              > 20 | 1500 + 25 kcal/kg au-dessus de 20 kg |
+{{< /table >}}
 
 ### Estimation de la taille selon Chumlea
 
@@ -213,6 +228,59 @@ Après 60 ans, lorsque la taille n'est pas mesurable par une toise (alitement, t
 
 > **Détail.** Mesure talon-genou: en décubitus dorsal, genoux à 90°, avec toise pédiatrique posée sous le pied et la partie mobile appuyée au-dessus du genou.  
 [Chumlea WC, Roche AF, Steinbaugh ML. Estimating stature from knee height for persons 60 to 90 years of age. J Am Geriatr Soc 1985;33(2):116-20.](https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/j.1532-5415.1985.tb02276.x)
+
+{{% /collapse %}}
+{{%collapse "Clinique" %}}
+
+Évaluation nutritionnelle de l'adulte.
+
+### Interrogatoire
+
+- Pathologie évolutive  
+  Troubles digestifs (diarrhée chronique), maladie chronique, traitements en cours.
+- Activité physique quotidienne, autonomie
+- Fatigabilité à l'effort
+- Évolution du poids
+- Alimentation
+  - Rythme, quantités
+  - Modifications du régime et ancienneté
+  - Journal des jours précédents
+- État psychologique
+
+### Examen clinique
+
+Voir les outils dans la section précédente.
+
+- Poids et variation, taille, IMC
+- Périmètre du milieu du bras non dominant
+- Examen cardio-respiratoire
+- Capacité à se relever en étant accroupi, fatigabilité
+- Œdèmes déclives, ascite (hypoalbuminémie)
+- État bucco-dentaire
+- État cutané et phanères: xérose cutanée, pli cutané, ongles et cheveux secs et cassants, lèvres (chéilite, [perlèche]({{< relref "mycoses-dermatophytes-candidoses.md" >}})) et langue (glossite)
+- Faciès et palpation des masses musculaires
+
+Les mesures anthropométriques nécessitent un équipement dédié.
+
+> Le poids de référence est mesuré déshabillé, vessie vide, à jeun sur une balance étalonnée
+
+### Examens biologiques
+
+- NFS (lymphopénie), CRP (syndrome inflammatoire)
+- Bandelette urinaire
+- Créatininurie des 24 heures  
+  Reflet de la masse musculaire. 1 g/24h = 17-20 kg de masse musculaire
+- Albuminémie (normale 38-45 g/L)
+- Transthyrétine (= préalbumine)  
+  Demi-brève (2 jours) reflétant les apports récents.
+
+### Évaluation nutritionnelle
+
+Interpréter en fonction des résultats le profil de dénutrition:
+
+- Protéino-énergétique (anomalies poids/anthropométrie) ou protéique (hypoalbuminémie avec poids/anthropométrie normaux conservés)
+- Aiguë ou chronique (protéines, vitesse d'amaigrissement)
+- Gravité de la dénutrition (clinique, albuminémie, préalbuminémie, CRP)
 
 {{% /collapse %}}
 {{%collapse "Dénutrition du sujet âgé" %}}
@@ -363,7 +431,7 @@ Une fois ouvert, 2h à température ambiante et 24h au réfrigérateur.
 {{% /collapse %}}
 {{%collapse "Surveillance de la renutrition" %}}
 
-Réévaluation de la dénutrition **à chaque consultation**, au moins mensuelle (trimestrielle mois chez l'adulte).
+Réévaluation de la dénutrition **à chaque consultation**, au moins mensuelle (trimestrielle chez l'adulte).
 
 - Poids (1/sem, même balance), IMC
 - Albuminémie max 1/mois
@@ -373,7 +441,7 @@ Réévaluation de la dénutrition **à chaque consultation**, au moins mensuelle
   - Échelle semi-quantitative (portions)
   - Calculés par un diététicien
 - Force musculaire  
-{{< modal-btn modal-sarcopenie >}}Préhension{{< /modal-btn >}} ou test du lever de chaise.
+  {{< modal-btn modal-sarcopenie >}}Préhension{{< /modal-btn >}} ou test du lever de chaise.
 - État bucco-dentaire
 - Mastication et déglutition
 - Niveau d'activité physique
@@ -419,16 +487,15 @@ accTitle:Prise en charge d'une personne à risque de dénutrition d'après HAS e
 - [HAS, FFN. Diagnostic de la dénutrition chez la personne de 70 ans et plus. Recommandation de bonne pratique. Novembre 2021.](https://www.has-sante.fr/jcms/p_3165944/fr/diagnostic-de-la-denutrition-chez-la-personne-de-70-ans-et-plus)
 - Prescrire Redaction. Complémentation nutritionnelle orale chez les adultes dénutris : conditions de remboursement en France en 2020. Rev Prescrire. Mai 2020.
 - [HAS, FFN. Diagnostic de la dénutrition de l'enfant et de l'adulte. Recommandation de bonne pratique. Novembre 2019.](https://has-sante.fr/jcms/p_3118872/fr/diagnostic-de-la-denutrition-de-l-enfant-et-de-l-adulte)
+- [Hankard R; SFP. Établir une stratégie nutritionnelle chez un enfant dénutri. 2017.](https://pap-pediatrie.fr/hepato-gastro/etablir-une-strategie-nutritionnelle-chez-un-enfant-denutri)
+- [Hankard R et al; SFP. Dépister la dénutrition de l'enfant en pratique courante. 2012. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/recos-sfp-cn_depistage_denutrition_oct_2012_0.pdf)
 - [HAS. Stratégie de prise en charge en cas de dénutrition protéino-énergétique chez la personne âgée. Synthèse des recommandations professionnelles. 2007.](https://www.has-sante.fr/jcms/c_546549/fr/strategie-de-prise-en-charge-en-cas-de-denutrition-proteino-energetique-chez-la-personne-agee)
-- [Lutte contre la dénutrition](https://www.luttecontreladenutrition.fr/)
+- [SFNCM. Dénutrition chez l'adulte de 18 à 69 ans et la personne de 70 ans et plus. (PDF)](https://www.ameli.fr/sites/default/files/Documents/Affiche_D%C3%A9nutrtion_SFNCM_14.pdf)
+- [Lutte contre la dénutrition](https://www.luttecontreladenutrition.fr)
 
 ### À lire
 
-- [Hankard R.; SFP. Établir une stratégie nutritionnelle chez un enfant dénutri. 2017.](https://pap-pediatrie.fr/hepato-gastro/etablir-une-strategie-nutritionnelle-chez-un-enfant-denutri)
-- [Hankard R. et al; SFP. Dépister la dénutrition de l'enfant en pratique courante. 2012. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/recos-sfp-cn_depistage_denutrition_oct_2012_0.pdf)
 - [Société Francophone de Nutrition Clinique et Métabolisme - Référentiels](https://www.sfncm.org/outils-education/recommandations/referentiels)
-- [SFNCM. Dénutrition chez l'adulte de 18 à 69 ans et la personne de 70 ans et plus. (PDF)](https://www.ameli.fr/sites/default/files/Documents/Affiche_D%C3%A9nutrtion_SFNCM_14.pdf)
-- [Lutte contre la dénutrition](https://www.luttecontreladenutrition.fr/)
 
 {{%/sources%}}
 {{% modal title="Définition de la sarcopénie" id="modal-sarcopenie"%}}

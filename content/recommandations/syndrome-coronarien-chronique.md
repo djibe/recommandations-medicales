@@ -18,7 +18,7 @@ sctid = "413844008"
 icd10 = "I25.9"
 image = true
 imageSrc = "Réseau des artères coronaires et de leurs branches. BruceBlaus, CC BY 3.0 via Wikimedia Commons"
-todo = "aigu possible en AccT, DAPT pour HAS-BLED"
+todo = "flowchart, aigu possible en AccT, DAPT pour HAS-BLED"
 +++
 
 {{%article-summary%}}
@@ -33,7 +33,7 @@ todo = "aigu possible en AccT, DAPT pour HAS-BLED"
   - Aspirine 75-100 mg/j voire bithérapie après événement CV ou revascularisation, à considérer sinon
   - Statine systématique: {{< modal-btn modal-rcv >}}LDL < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (< 0,55 si sténose à l'imagerie ou événement CV)
 
-Voir: [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [épreuve d'effort]({{< relref "epreuve-effort.md" >}})
+Chapitres liés: [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [épreuve d'effort]({{< relref "epreuve-effort.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

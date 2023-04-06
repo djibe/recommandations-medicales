@@ -79,15 +79,15 @@ La scoliose apparaît et évolue au cours de l'enfance (filles +++).
   - Douleurs: spondylodiscite, tumeur osseuse ou intracanalaire
 
 {{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
+{{%collapse "Examens complémentaires de la scoliose" %}}
 
 {{%info%}}
 
 ### Bilan de la scoliose
 
-Bilan devant une gibbosité et contrôle évolutif:
+Bilan devant une gibbosité ou contrôle évolutif de la scoliose:
 
-Radiographies biplanaires corps entier par EOS
+Radiographies face et profil corps entier par EOS
 {{%/info%}}
 
 Répéter les radiographies tous les 6-12 mois à la puberté et devant de nouveaux symptômes.
@@ -147,10 +147,12 @@ Réservé au cas par cas aux échecs du traitement orthopédique ou aux scoliose
 
 ### Échecs de prise en charge
 
-Centres de référence pour les anomalies du développement et les syndromes malformatifs: [filière C-MAVEM](https://www.c-mavem.fr)
+Adresser dans un Centre de référence pour les anomalies du développement et les syndromes malformatifs: [filière C-MAVEM](https://www.c-mavem.fr)
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
+
+Informations sur la scoliose:
 
 - Explication des principales caractéristiques de la maladie
 - Mode de transmission et le conseil génétique dans certains cas
