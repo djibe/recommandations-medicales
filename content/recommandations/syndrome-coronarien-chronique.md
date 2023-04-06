@@ -1,15 +1,14 @@
 +++
 title = "Cardiopathie ischémique: Syndrome coronarien chronique (SCC)"
-prefix = "la "
-noindex = true
 titleSeo = "Syndrome coronarien chronique"
+prefix = "le "
 description = "Recommandations pour la prise en charge du syndrome coronarien chronique (cardiopathie ischémique): angor, hypertension, dyslipidémie LDL statine, bêtabloquant"
 longHtml = true
 synonyms = ["Coronaropathie", "post-infarctus", "angor", "angine de poitrine"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-28T16:29:03+02:00"
 publishdate = "2023-04-04"
-lastmod = "2023-04-04"
+lastmod = "2023-04-06"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["HAS", "ESC"]
@@ -19,12 +18,20 @@ sctid = "413844008"
 icd10 = "I25.9"
 image = true
 imageSrc = "Réseau des artères coronaires et de leurs branches. BruceBlaus, CC BY 3.0 via Wikimedia Commons"
-todo = "summary > liens, aigu possible en AccT, DAPT pour HAS-BLED, https://www.vidal.fr/medicaments/classification/atc/3207.html"
+todo = "aigu possible en AccT, DAPT pour HAS-BLED"
 +++
 
 {{%article-summary%}}
 
-*Amélioration en cours sur les dérivés nitrés*
+- L'angor détermine un {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé à très élevé{{< /modal-btn >}} (si sténose objectivée). Évoquer devant une douleur épigastrique, mandibulaire, entre les épaules, ou le bras/poignet/main
+- Bilan initial du syndrome coronarien chronique: biologie, ECG 12D, échocardiographie et avis cardiologique
+- Mesures hygiéno-diétetiques: arrêt tabac/alcool, PA < 130/80 mmHg, sel 5-6 g/j, activité physique adaptée (APA), surpoids
+- Prise en charge de la cardiopathie ischémique:
+  - Réadaptation cardiaque
+  - Si symptômes à l'effort: dérivés nitrés d'action rapide
+  - Anti-angineux de première intention: bêtabloquant (BB) ou {{< modal-btn modal-ica-angor >}}inhibiteur calcique (ICa){{< /modal-btn >}} (voire association) avec cible 55-60 bpm et 130 bpm à l'effort
+  - Aspirine 75-100 mg/j voire bithérapie après événement CV ou revascularisation, à considérer sinon
+  - Statine systématique: {{< modal-btn modal-rcv >}}LDL < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (< 0,55 si sténose à l'imagerie ou événement CV)
 
 Voir: [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [épreuve d'effort]({{< relref "epreuve-effort.md" >}})
 
@@ -217,22 +224,24 @@ Réévaluation du traitement à chaque consultation:
 
 ### Prise en charge du syndrome coronarien chronique
 
-Mesures spécifiques pour la prise en charge du coronarien:
+Mesures spécifiques pour la prise en charge de la cardiopathie ischémique stable:
 
 - **Réadaptation cardiaque** systématique
-- Symptômes à l'effort: dérivé nitré d'action rapide (Isocard®, Natispray®)
-- Bêtabloquant (BB) ou {{< modal-btn modal-ica-angor >}}inhibiteur calcique (ICa){{< /modal-btn >}}
+- Symptômes à l'effort: dérivé nitré d'action rapide (Isocard®, [Natispray®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60259242&typedoc=R))
+- **Anti-angineux** de première intention: Bêtabloquant (BB) ou {{< modal-btn modal-ica-angor >}}inhibiteur calcique (ICa){{< /modal-btn >}}
   - Considérer d'emblée l'association BB + {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} (voir le tableau ci-dessous)
   - Fréquence cardiaque cible: 55-60 bpm (*ESC*) et 130 bpm à l'effort (*Collège*)
-  - Réévaluation toutes les 2-4 semaines
-  - Si angine persistante: nitré d'action longue de 2<sup>e</sup> ligne (nicorandil, ~~ranolazine~~ non disponible en France, ivabradine, trimétazidine, voir tableau plus bas) pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14h/j.
+  - Réévaluation toutes les 2-4 semaines initialement
+  - L'arrêt d'un anti-angineux nécessite une décroissance progressive
+  - Si angine persistante: nitré d'action longue [patch](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63785468&typedoc=R) ou [oral](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66327091&typedoc=R) (pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14 h/j)  
+  ou [nicorandil](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66925249&typedoc=R), [ivabradine](https://ec.europa.eu/health/documents/community-register/2023/20230223158431/anx_158431_fr.pdf), [trimétazidine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61020245&typedoc=R) (ranolazine non disponible en France), voir tableau plus bas
 - Aspirine 75-100 mg/j à considérer en l'absence d'IDM ou de revascularisation
   - Clopidogrel 75 mg/j si intolérance, [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) ou [AIC/AIT]({{< relref "accident-vasculaire-cerebral.md" >}})
   - Voire bi-antithrombotique si haut risque ischémique (score Precise-DAPT)
   - IPP si haut risque de saignement (à venir: *ESC DAPT*)
 - Statine systématique
   - {{< modal-btn modal-rcv >}}LDL < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (< 0,55 si sténose à l'imagerie ou événement CV)
-  - Ézétimibe ou évolocumab (Repatha®), alirocumab (Praluent®) si cible non atteinte
+  - [Ézétimibe](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63964962&typedoc=R) ou [évolocumab SC](https://ec.europa.eu/health/documents/community-register/2023/20230130158320/anx_158320_fr.pdf) (Repatha®), [alirocumab SC](https://ec.europa.eu/health/documents/community-register/2022/20221216158063/anx_158063_fr.pdf) (Praluent®) si cible non atteinte
 - [Vaccination grippe]({{< relref "grippe.md" >}})
 - Prise en charge psychologique  
   Dont thérapie cognitive et comportementale (TCC) pour accompagner le changement de mode de vie.
@@ -244,6 +253,8 @@ Mesures spécifiques pour la prise en charge du coronarien:
   - Post-infarctus, [insuffisance cardiaque, dysfonction VG]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ou diabète: IEC voire ARA2
   - [ACFA]({{< relref "fibrillation-atriale.md" >}}): utiliser les mêmes seuils d'anticoagulation, préférer un AOD, considérer d'associer aspirine/clopidogrel si IDM, haut risque ischémique sans risque élevé de saignement
 
+La décision d'une revascularisation myocardique (stent ou autre) relève uniquement du cardiologue et n'est donc pas abordée ici.
+
 > Un suivi coordonné par un infirmier de pratique avancée (IPA) est équivalent au suivi par un généraliste (*[Wood 2008](https://pubmed.ncbi.nlm.nih.gov/18555911/)*)
 
 {{< table title="Suggestion de titration du traitement anti-ischémique du patient atteint de coronaropathie à type de syndrome coronarien chronique selon le tableau clinique initial. Dr JB Fron d'après ESC 2019" >}}
@@ -251,11 +262,11 @@ Mesures spécifiques pour la prise en charge du coronarien:
 |----------:|---------------------------------|----------------------|---------------|--------------------------------|------------------------------------|
 |         1 | BB ou {{< modal-btn modal-ica-angor >}}ICa{{< /modal-btn >}} | BB ou<br>{{< modal-btn modal-ica-angor >}}ICa-non-DHP{{< /modal-btn >}} | {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} | BB | BB ou {{< modal-btn modal-ica-angor >}}ICa-non-DHP{{< /modal-btn >}}<br>faible dose |
 |         2 | **BB + {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}}** | BB + {{< modal-btn modal-ica-angor >}}ICa{{< /modal-btn >}}* | Substituer par NAL | BB + NAL ou<br>BB + ivabradine | Substituer par ivabradine<br>ou autre |
-|         3 | Ajout 2<sup>e</sup> ligne                  | BB + ivabradine      | {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} + NAL | Ajout 2<sup>e</sup> ligne | Bithérapie de 2<sup>e</sup> ligne |
+|         3 | Ajout 2<sup>e</sup> ligne       | BB + ivabradine      | {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} + NAL | Ajout 2<sup>e</sup> ligne | Bithérapie de 2<sup>e</sup> ligne |
 |         4 | Ajout nicorandil,<br>~~ranolazine~~<br>ou trimétazidine | idem   | idem          | idem                           | idem                               |
 {{< /table >}}
 
-> \* Précautions avec vérapamil et diltiazem (ICa-non-DHP)
+> \* Précautions avec vérapamil et diltiazem (ICa-non-DHP) ; NAL = dérivé nitré d'action longue
 
 ### Rythme du suivi du coronarien chronique
 
