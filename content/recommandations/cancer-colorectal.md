@@ -212,7 +212,7 @@ Facteurs de risque de cancer colorectal liés au mode de vie:
 > *HAS 2017 et 2013*
 
 {{% /collapse %}}
-{{%collapse "Les test de dépistage du cancer colorectal" %}}
+{{%collapse "Les tests de dépistage du cancer colorectal" %}}
 
 ### Dépistage du cancer du côlon par le test immunologique fécal
 

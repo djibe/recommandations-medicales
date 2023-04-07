@@ -18,7 +18,7 @@ icd11 = "MG30.01"
 image = true
 imageSrc = "Zones anatomiques concernées pour l'évaluation de l'index des douleurs diffuses (IDD) des critères diagnostiques ACR 2016 de la fibromyalgie. Jmarchn, CC BY-SA 3.0, via Wikimedia Commons"
 flowchart = true
-todo = "HAS APA, CALC: critères + score FIQ-R"
+todo = "HAS APA, CALC: critères + score FIQ-R, relecture demandée D. Bouhassira"
 +++
 
 {{%article-summary%}}
@@ -182,7 +182,7 @@ Rechercher une fibromyalgie en cas de douleur chronique.
   - Symptômes anxio-dépressifs (60-85%): {{< modal-btn modal-had >}}échelle HAD{{< /modal-btn >}}
   - [Troubles climatériques]({{< relref "menopause.md" >}})
   - Autres  
-    Syndrome de fatigue chronique, syndrome de l'intestin irritable (30-70%), céphalées de tension, conflit de l'articulation temporo-mandibulaire.
+    Syndrome de fatigue chronique, [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) (30-70%), céphalées de tension, conflit de l'articulation temporo-mandibulaire.
 
 ### Examen clinique
 
@@ -272,6 +272,8 @@ graph TB
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< card-link-external title="Journée Inserm en vidéo sur la présentation de la synthèse fibromyalgie" url="Présentation vidéo" subtitle="Inserm">}}
 
 - Collège National des Enseignants de Médecine Interne (CEMI). Troubles à symptomatologie somatique et apparentés à tous les âges. Item 72. Référentiel Collège de Médecine interne R2C. 2021.
 - [Inserm. Fibromyalgie. Collection Expertise collective. Montrouge : EDP Sciences. 2020.](https://www.inserm.fr/expertise-collective/fibromyalgie/)

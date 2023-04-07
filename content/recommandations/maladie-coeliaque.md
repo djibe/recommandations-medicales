@@ -98,7 +98,7 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 {{%/collapse%}}
 {{%collapse "Qui dépister par sérologie coeliaque ?" %}}
 
-- Syndrome de l'intestin irritable (SII)
+- [Syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) (SII)
 - Transaminases augmentées inexpliquées
 - [Diabète type 1]({{< relref "diabete-type-1.md" >}}) (tous les 5 ans)
 - Symptômes évocateurs de maladie cœliaque  

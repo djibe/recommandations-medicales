@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-22T19:42:41+02:00"
 publishdate = "2020-07-22"
-lastmod = "2022-09-30"
+lastmod = "2023-04-07"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["BSG", "Collège"]
@@ -22,10 +22,10 @@ todo = "SEO, SeHCAT, FODMAPs"
 
 {{%article-summary%}}
 
-- Définition de la diarrhée chronique: Ramollissement de selles fréquentes (> 3/j) et prolongées (durée > 1 mois)
+- Définition de la diarrhée chronique: Ramollissement de selles fréquentes (+3/j) et prolongées (durée +1 mois)
 - Signes d'alarme de la diarrhée chronique: +50 ans, AEG, rectorragies/méléna ou modification récente et inexpliquée du transit
-- Bilan de première intention (voir *Examens complémentaires*)
-- Avis spécialisé si: signes d'alarme, altération de la qualité de vie
+- Bilan de première intention d'une diarrhée chronique: voir *Examens complémentaires*
+- Avis gastro-entérologique si: signes d'alarme ou altération de la qualité de vie
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -33,7 +33,7 @@ todo = "SEO, SeHCAT, FODMAPs"
 Diarrhée chronique
 : Altération permanente du transit intestinal avec des selles selon les [types 5 à 7 de Bristol](https://fr.wikipedia.org/wiki/%C3%89chelle_de_Bristol) pendant **plus de 4 semaines** (*BSG 2021*).  
 Selon l'*OMS*: émission de plus de 3 selles par jour de molles à liquides.
-: En faveur de cause organique: diarrhée < 3 mois, nocturne ou circadienne et amaigrissement.
+: En faveur de cause organique: diarrhée d'apparition récente (< 3 mois), nocturne ou circadienne et amaigrissement.
 
 ### Abréviations
 
@@ -72,7 +72,7 @@ TIF
 
 Rechercher à l'examen les arguments en faveur des causes suivantes de diarrhée chronique:
 
-- Syndrome de l'intestin irritable
+- [Syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}})
 - Origine biliaire
 - Diététique
   - FODMAP, [intolérance au lactose]({{< relref "intolerance-lactose.md" >}}) ou fructose
@@ -98,7 +98,7 @@ Rechercher à l'examen les arguments en faveur des causes suivantes de diarrhée
 - Entérocolite radique
 - [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}})
 - Hyperthyroïdie
-- Diabète
+- [Diabète](/tags/diabete/)
 - Giardiase ou autre
 - Mucoviscidose
 
@@ -164,7 +164,7 @@ La *malabsorption* donne souvent une stéatorrhée avec selles pâteuses et déc
 - Proposer une [sérologie VIH]({{< relref "vih-sida.md" >}})
 - Malabsorption  
   Créatinine, ionogramme, calcémie, albuminémie, ASAT, ALAT, GGT, PAL, TP, vitamine B12, folates.
-- Sérologie cœliaque  
+- [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}})  
   IgA anti-transglutaminase et IgA totales.
 - Examen parasitologique des selles 3 jours de suite (se 60-90%)
 - [Test immunologique fécal]({{< relref "cancer-colorectal.md" >}}) (TIF *ex* Hemoccult®)
@@ -174,7 +174,7 @@ En cas de rectorragies ou de modifications du transit: adresser au gastro-entér
 
 ### Bilan de deuxième intention
 
-- Suspicion de syndrome de l'intestin irritable avant 40 ans: calprotectine fécale  
+- Suspicion de [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) avant 40-45 ans: calprotectine fécale  
   Bilan normal et symptômes typiques: diagnostic de *syndrome de l'intestin irritable* (SII).
 - Suspicion d'[intolérance au lactose]({{< relref "intolerance-lactose.md" >}}): test d'éviction préférable
 
@@ -185,6 +185,6 @@ Adresser au spécialiste si un diagnostic pouvant être suivi en ville n'est pas
 
 - {{< references/college-gastro >}}
 - [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut. 2018.](https://gut.bmj.com/content/gutjnl/67/8/1380.full.pdf)
-- [SNFGE. Diarrhée chronique](https://www.snfge.org/content/diarrhee-chronique)
+- [SNFGE. Diarrhée chronique.](https://www.snfge.org/content/diarrhee-chronique)
 
 {{%/sources%}}

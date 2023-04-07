@@ -42,12 +42,12 @@ La classification de Rome IV distingue 2 grands syndromes dyspeptiques:
 
 1. Syndrome de douleur épigastrique (EPS)  
 {{%class%}}Indépendant des repas ou soulagé par le repas.{{%/class%}}
-1. Syndrome de détresse post-prandial (PDS)  
+2. Syndrome de détresse post-prandial (PDS)  
 {{%class%}}Symptômes déclenchés par les repas.{{%/class%}}
 
 ### Étiologie de la dyspepsie
 
-Les causes principales de la dyspepsie sont proches de celles de l'intestin irritable (qui est souvent associé): anomalies de la sensibilité et des contrôles réflexes des fonctions digestives, inflammation, infections gastro-intestinales, facteurs génétiques, dysautonomie, troubles psychologiques.
+Les causes principales de la dyspepsie sont proches de celles de l'[intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) (qui est souvent associé): anomalies de la sensibilité et des contrôles réflexes des fonctions digestives, inflammation, infections gastro-intestinales, facteurs génétiques, dysautonomie, troubles psychologiques.
 
 ### Abréviations
 
