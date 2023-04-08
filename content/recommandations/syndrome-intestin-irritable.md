@@ -2,12 +2,12 @@
 title = "Syndrome de l'intestin irritable (SII)"
 titleSeo = "Syndrome intestin irritable (SII)"
 prefix = "le "
-description = "TODO:"
+description = "Recommandations pour le diagnostic et la prise en charge du syndrome de l'intestin irritable (SII). Bilan biologique, mesures diététiques, diarrhées, ispaghul"
 synonyms = ["Colopathie fonctionnelle", "côlon irritable"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-03-27T15:53:48+02:00"
 publishdate = "2023-04-07"
-lastmod = "2023-04-07"
+lastmod = "2023-04-08"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["BSG", "SNFGE"]
