@@ -1,5 +1,6 @@
 +++
-title = "Coordonnées des ARS"
+title = "Les coordonnées des Agences Régionales de Santé (ARS)"
+titleSeo = "coordonnées des ARS"
 noindex = true
 description = "Les coordonnées de toutes les Agences Régionales de Santé (ARS) de France"
 auteurs = ["Jean-Baptiste FRON"]
