@@ -9,6 +9,7 @@ lastmod = "2023-04-09"
 specialites = []
 sources = ["CNOM"]
 tags = []
+draft = true
 image = false
 imageSrc = ""
 todo = "figure 3, tableau 28, tableau 33, tableau 41 et 42, p112"
