@@ -6,7 +6,7 @@ synonyms = ["Favisme", "déficit en Glucose-6-déshydrogénase"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-08T22:38:00+02:00"
 publishdate = "2021-07-09"
-lastmod = "2022-09-22"
+lastmod = "2023-04-09"
 specialites = ["hematologie"]
 annees = "2021"
 sources = ["ANSM", "HAS"]
@@ -21,9 +21,9 @@ datatable = true
 
 {{%article-summary%}}
 
-- Déficit en G6PD: Éviction à vie des substances à risque  
-  et port d'une carte et de la liste des médicaments à risque
-- Bilan en urgence en exposition aux fèves ou autres produits interdits
+- Déficit en G6PD: éviction à vie des substances à risque  
+- Port d'une carte de déficit en G6PD et de la liste des médicaments à risque: [liste ANSM (PDF)](https://ansm.sante.fr/uploads/2021/03/11/liste-substances-actives-deficit-g6pd-20052019-1-2.pdf)
+- Bilan en urgence en cas d'exposition aux fèves ou autres produits interdits
 - Conseil génétique familial
 
 {{%/article-summary%}}
@@ -115,7 +115,7 @@ Toute **automédication** est proscrite lors d'un déficit en G6PD.
 Remettre au patient la [liste ANSM (PDF)](https://ansm.sante.fr/uploads/2021/03/11/liste-substances-actives-deficit-g6pd-20052019-1-2.pdf) des médicaments proscrits.
 {{%/warning%}}
 
-{{< table title="Possibilités de recours aux substances actives en cas de déficit en G6PD. Dr JB Fron d'après ANSM du 24/05/2019" class="datatable" >}}
+{{< table title="Possibilités de recours aux substances actives en cas de déficit en G6PD. Dr JB Fron d'après ANSM du 14/03/2021" class="datatable" >}}
 | Substance | Utilisation |
 |-----------|-------------|
 | Acide acétylsalicylique (aspirine) | Possible |
@@ -197,7 +197,7 @@ Doit être demandée par le médecin.
 {{% /collapse %}}
 {{%sources%}}
 
-- [ANSM. Médicament et déficit en G6PD. 25/05/2021.](https://ansm.sante.fr/documents/reference/medicament-et-deficit-en-g6pd)
+- [ANSM. Médicament et déficit en G6PD : l'ANSM actualise le référentiel. 14/03/2021.](https://ansm.sante.fr/actualites/medicament-et-deficit-en-g6pd-lansm-actualise-le-referentiel)
 - [HAS. Déficit en G6PD ou favisme. PNDS. Juin 2017.](https://www.has-sante.fr/jcms/c_2800207/fr/deficit-en-g6pd-glucose-6-phosphate-deshydrogenase-ou-favisme)
 - [Anses. Favisme. 11/12/2012.](https://www.anses.fr/fr/content/favisme)
 

@@ -31,7 +31,7 @@ todo = "relecture, HAS"
   - Allopurinol: titration en débutant ≤ 100 mg/j avec uricémie cible < 50 mg/L et couverture colchicine 0,5 à 1 mg/j pendant les 3 à 6 premiers mois
   - Peut être débuté pendant la crise
 - Régime pauvre en purines  
-  Perte de poids, arrêt de la bière, réduire: alcool/sodas/jus, viandes/abats, crustacés, laits maigres, substituer un diurétique.
+  Perte de poids, arrêt de la bière, réduire alcool/sodas/jus, viandes/abats, crustacés, laits maigres, substituer un diurétique.
 - Contrôle des [facteurs de risque cardiovasculaire](/tags/risque-cardiovasculaire/)
 - Éducation thérapeutique et observance
 
@@ -43,7 +43,6 @@ Goutte
 : La goutte appartient à la famille des *arthropathies microcristallines* par dépôts de cristaux d'**urate de sodium** (monosodique dit **UMS**) dans les articulations. Ces derniers provoquent des arthrites aiguës (souvent monoarthrite fixes), récidivantes et de résolution spontanée.  
 Sa prévalence est de 0,9 à 2,5% selon les pays, en augmentation.
 : **Complications de la goutte:** tophus, arthropathies uratiques, colique néphrétique, lithiases uriques radiotransparentes, néphropathie goutteuse.
-: **Diagnostic différentiel d'une arthrite goutteuse:** chondrocalcinose articulaire, arthrite infectieuse, rhumatisme psoriasique, poussée d'arthrose, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}).
 
 Tophus
 : Dépôt tissulaire de cristaux d'acide urique entouré de cellules inflammatoires lors de chronicité de la maladie.  
@@ -53,6 +52,14 @@ Allopurinol
 : Médicament hypo-uricémiant utilisé trop largement.  
 Il est la première cause survenue de **toxidermies bulleuses** graves en Europe.  
 La **mortalité** est de 20-30% et 60% de ces accidents sous allopurinol surviennent chez des patients qui n'ont aucune indication au traitement.
+
+### Diagnostic différentiel d'une arthrite goutteuse
+
+- Chondrocalcinose articulaire
+- Arthrite infectieuse
+- Rhumatisme psoriasique
+- Poussée d'arthrose
+- [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}})
 
 ### Abréviations
 

@@ -65,7 +65,7 @@ const chartOptions = {
   },
   stroke: { colors: ['#4150f5'], curve: 'smooth', width: 4 },
   title: { text: 'Consommation en ville de tous les antibiotiques à usage systémique' },
-  yaxis: { decimalsInFloat: 1 }
+  yaxis: { decimalsInFloat: 1, min: 0 }
 }
 </script>
 

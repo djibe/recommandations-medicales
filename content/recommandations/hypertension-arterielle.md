@@ -240,7 +240,7 @@ Une PAD 70-79 mmHg est la cible pour tout hypertendu. La pression cible doit êt
 | Population          | Objectif (mmHg) | Source     |
 |---------------------|----------------:|------------|
 | Cible minimale      | < 140/90        | ESC 2021   |
-| 18-70 ans           | 120-129/70-79   | ESC 2021   |
+| 18-69 ans           | 120-129/70-79   | ESC 2021   |
 | +70 ans             | 130-139/70-79   | ESC 2021   |
 | [AIT/AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) | idem générale | ESC 2021 |
 | [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) | 120-140/90 | ESC 2017 LEAD |

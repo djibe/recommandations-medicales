@@ -233,7 +233,7 @@ Mesures spécifiques pour la prise en charge de la cardiopathie ischémique stab
   - Fréquence cardiaque cible: 55-60 bpm (*ESC*) et 130 bpm à l'effort (*Collège*)
   - Réévaluation toutes les 2-4 semaines initialement
   - L'arrêt d'un anti-angineux nécessite une décroissance progressive
-  - Si angine persistante: nitré d'action longue [patch](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63785468&typedoc=R) ou [oral](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66327091&typedoc=R) (pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14 h/j)  
+  - Si angine persistante, anti-angineux de deuxième intention: nitré d'action longue [patch](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63785468&typedoc=R) ou [oral](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66327091&typedoc=R) (pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14 h/j)  
   ou [nicorandil](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66925249&typedoc=R), [ivabradine](https://ec.europa.eu/health/documents/community-register/2023/20230223158431/anx_158431_fr.pdf), [trimétazidine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61020245&typedoc=R) (ranolazine non disponible en France), voir tableau plus bas
 - Aspirine 75-100 mg/j à considérer en l'absence d'IDM ou de revascularisation
   - Clopidogrel 75 mg/j si intolérance, [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) ou [AIC/AIT]({{< relref "accident-vasculaire-cerebral.md" >}})

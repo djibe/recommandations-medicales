@@ -4,9 +4,9 @@
 <script src="https://cdn.jsdelivr.net/npm/instant.page@5.1.1/instantpage.min.js" crossorigin defer async></script>
 <script crossorigin>
   // Newsletter: Mailchimp
-  const btnNewsletter = document.getElementById("btn-newsletter");
+  const btnNewsletter = document.getElementById('btn-newsletter');
 
-  btnNewsletter.addEventListener('click', () => {
+  btnNewsletter.addEventListener( 'click', () => {
     const script = document.createElement('script');
     script.src = 'https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js';
     document.head.appendChild(script);
@@ -97,7 +97,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
           fontWeight: 400
         }
       },
-      min: 0
+      // min: 0 // Do not set to allow negative values
     }
   }
   const chart = new ApexCharts(document.getElementById('chart'), chartOptions)

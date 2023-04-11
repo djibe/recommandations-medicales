@@ -90,7 +90,7 @@ const chartOptions = {
           style: {color: '#ffa600'}
         },
         labels: { style: { colors: '#757575' }}
-    },
+    }
   ]
 }
 </script>

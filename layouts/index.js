@@ -6,8 +6,24 @@
 
 const cacheName = 'files';
 
+
+// Doc: https://web.dev/customize-install/
+// Initialize deferredPrompt for use later to show browser install prompt.
+let deferredPrompt;
+
+window.addEventListener('beforeinstallprompt', (e) => {
+  // Prevent the mini-infobar from appearing on mobile
+  e.preventDefault();
+  // Stash the event so it can be triggered later.
+  deferredPrompt = e;
+  // Update UI notify the user they can install the PWA
+  showInstallPromotion();
+  // Optionally, send analytics event that PWA install promo was shown.
+  console.log(`'beforeinstallprompt' event was fired.`);
+});
+
 // Install the app by preloading all recommandations
-/*self.addEventListener('install', (event) => {
+self.addEventListener('install', (event) => {
   const urlsToPrefetch = [
     'https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2',
     'https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBBc4.woff2',
@@ -19,12 +35,13 @@ const cacheName = 'files';
     'https://cdn.jsdelivr.net/npm/apexcharts@3.37.0/dist/apexcharts.min.js',
     'https://cdn.jsdelivr.net/npm/mermaid@10.1/+esm',
     'https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js',
-    '/recommandations/',
+    '/recommandations/anemie/',
+   /* '/recommandations/',
   {{- range $index, $value := where site.RegularPages "Section" "recommandations" -}}
     {{ if $index }}, {{ end }}
     '{{ .RelPermalink }}'
   {{- end -}}
-  ];
+  ];*/
 
   event.waitUntil(
     caches.open(cacheName)
@@ -43,7 +60,7 @@ const cacheName = 'files';
       console.error("Pre-fetching failed:", error);
     })
   );
-});*/
+});
 
 // Cache visited pages
 self.addEventListener('fetch',  fetchEvent => {

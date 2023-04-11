@@ -74,7 +74,7 @@ const chartOptions = {
   title: { text: 'Incidence annuelle de la mort subite chez le sportif' },
   subtitle: { text: 'Par million de participants par tranche d\'âge' },
   xaxis: { categories: ['15-24', '25-34', '35-44', '45-54', '55-64', '65-75'] },
-  yaxis: { decimalsInFloat: 0 },
+  yaxis: { decimalsInFloat: 0, min: 0 },
   tooltip: {
     y: { formatter: function (val) { return val + ' morts subites/million' } }
   }

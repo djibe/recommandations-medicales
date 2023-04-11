@@ -19,14 +19,14 @@ icd10 = "K21.9"
 image = true
 imageSrc = "Illustration du reflux gastro-œsophagien par BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "SEO, rythme suivi RGO par EOGD, Reflux Disease Questionnaire (RDQ)"
+todo = "rythme suivi RGO par EOGD, Reflux Disease Questionnaire (RDQ)"
 +++
 
 {{%article-summary%}}
 
 - Le diagnostic de reflux gastro-œsophagien (RGO) est clinique: signes typiques en l'absence de signes d'alarme
-- Signes d'alarme d'un reflux: amaigrissement, anémie, dysphagie, hémorragie digestive, vomissements répétés, échec du traitement
-- Indications à la fibroscopie: symptômes atypiques isolés, signe d'alarme, âge +50 ans, résistance aux IPP ou rechute précoce à l'arrêt
+- Signes d'alarme d'un reflux gastrique: amaigrissement, anémie, dysphagie, hémorragie digestive, vomissements répétés, échec du traitement
+- Indications à la fibroscopie pour le bilan d'un reflux: symptômes atypiques isolés, signe d'alarme, âge +50 ans, résistance aux IPP ou rechute précoce à l'arrêt
 - Prise en charge du reflux gastro-œsophagien: RHD > antiacides > oméprazole demi-dose
 - Rappel: on prononce "ésophage"
 
@@ -34,7 +34,8 @@ todo = "SEO, rythme suivi RGO par EOGD, Reflux Disease Questionnaire (RDQ)"
 {{%collapse "Signes d'alarme" %}}
 
 {{%danger%}}
-Signes de gravité devant un reflux gastro-œsophagien nécessitant la réalisation d'examens complémentaires:
+
+### Signes de gravité devant un reflux gastro-œsophagien justifiant un bilan
 
 - Amaigrissement
 - Anémie
@@ -49,7 +50,7 @@ Signes de gravité devant un reflux gastro-œsophagien nécessitant la réalisat
 
 Reflux gastro-œsophagien (RGO)
 : Ensemble des manifestations liées à la remontée d'acidités gastriques vers l'œsophage. Affection le plus souvent bénigne.  
-Il est physiologique lorsqu'il est bref et occasionnel.
+Le reflux gastrique est physiologique lorsqu'il est bref et occasionnel.
 : Le RGO atteint 10% de la population (*SNFGE*).
 
 Pyrosis
@@ -85,7 +86,7 @@ Le reflux gastro-œsophagien est un diagnostic d'interrogatoire devant des signe
 
 ### Interrogatoire
 
-#### Signes typiques de reflux
+#### Signes typiques de reflux gastrique
 
 Signes typiques de reflux gastro-œsophagien:
 
@@ -118,24 +119,25 @@ Pathologies à étayer devant un tableau de reflux gastro-œsophagien:
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
 
-Aucun examen complémentaire devant des signes typiques de reflux et l'absence de signe d'alarme.
+Aucun examen complémentaire devant des signes typiques de reflux gastrique et l'absence de signe d'alarme
+{.alert .alert-info}
 
-### Indications à la réalisation d'examens
+### Indications au bilan exploratoire du reflux gastrique
 
 - Signes d'alarme
 - Signes atypiques
 - Absence de réponse ou réponse incomplète aux IPP
 - Bilan préopératoire de fundoplicature en l'absence d'œsophagite
 
-### Endoscopie œso-gastro-duodénale (EOGD)
+### Endoscopie œso-gastro-duodénale (EOGD) ou fibroscopie
 
 {{%class%}}Apport diagnostique limité par les IPP en amont qui cicatrisent l'œsophagite.{{%/class%}}
 
-#### Indications à la fibroscopie
+#### Indications à la fibroscopie pour un reflux
 
 [SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/download/file/fid/2775)
 
-Prise en charge diagnostique par endoscopie si:
+Prise en charge diagnostique du reflux gastrique par endoscopie si:
 
 - Symptômes atypiques isolés
 - Signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive)
@@ -278,9 +280,9 @@ Utiliser dans l'ordre:
 - Faible prise de poids
 
 {{%/collapse%}}
-{{%collapse "Prise en charge du reflux gastro-oesophagien" "show" %}}
+{{%collapse "Prise en charge du reflux gastrique" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant un reflux gastro-œsophagien. Dr JB Fron d'après SNFGE" >}}
+{{< mermaid title="Conduite à tenir et prise en charge du reflux gastro-œsophagien. Dr JB Fron d'après SNFGE" >}}
 graph TB
   RGO[Suspicion de RGO] --> atypique
   style RGO stroke:#4150f5, stroke-width:1px
