@@ -89,7 +89,7 @@ Critères d'adressage rapide au gastro-entérologue:
 - Amaigrissement
 - Apparition ou modification récente des symptômes
 - Anomalie à l'examen
-- Antécédent familial de cancer colorectal ou d’adénome ≥ 10 mm chez 1 parent au 1er degré avant 65 ans ou chez ≥ 2 parents au 1er degré à tout âge
+- Antécédent familial de cancer colorectal ou d'adénome ≥ 10 mm chez 1 parent au 1er degré avant 65 ans ou chez ≥ 2 parents au 1er degré à tout âge
 
 > SNFGE et CNP-HGE
 
@@ -173,7 +173,7 @@ Indications limitées à la coloscopie pour le bilan diagnostic:
 - Suspicion de colite microscopique  
   Femme +50 ans, pathologie auto-immune, diarrhée aqueuse nocturne ou sévère depuis moins d'un an, perte de poids, traitement à risque (IPP, AINS).
 - Suspicion de diarrhée biliaire: diarrhée nocturne ou antécédent de cholécystectomie
-- Antécédent familial de cancer colorectal ou d’adénome ≥ 10 mm chez 1 parent au 1er degré avant 65 ans ou chez ≥ 2 parents au 1er degré à tout âge; à partir de 45 ans ou 10 ans avant le cas index (voir [CCR]({{< relref "cancer-colorectal.md" >}}))
+- Antécédent familial de cancer colorectal ou d'adénome ≥ 10 mm chez 1 parent au 1er degré avant 65 ans ou chez ≥ 2 parents au 1er degré à tout âge; à partir de 45 ans ou 10 ans avant le cas index (voir [CCR]({{< relref "cancer-colorectal.md" >}}))
 
 {{% /collapse %}}
 {{%collapse "Traitement du syndrome de l'intestin irritable" %}}
@@ -276,7 +276,7 @@ style SII stroke:#4150f5, stroke-width:1px
 - {{< references/college-gastro >}}
 - Sabaté JM, Jouët P; SNFGE, GFNG. Prise en charge du Syndrome de l'Intestin Irritable (SII). Conseil de pratique. 2016.
 - [Conseil National Professionnel d'Hépato-Gastroentérologie (CNP-HGE). Syndrome de l'intestin irritable.](https://www.cnp-hge.fr/syndrome-de-lintestin-irritable/)
-- [SNFGE. Syndrome de l’intestin irritable (SII).](https://www.snfge.org/content/syndrome-de-lintestin-irritable-sii)
+- [SNFGE. Syndrome de l'intestin irritable (SII).](https://www.snfge.org/content/syndrome-de-lintestin-irritable-sii)
 
 ### À lire
 

@@ -29,7 +29,7 @@ todo = "https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"
 - Vaccination coqueluche
   - L'immunité vaccinale persiste 5 à 10 ans
   - Rattrapage de la dose des 25 ans: joindre la valence coqueluche jusqu'à 39 ans
-  - [Rappel vaccinal]({{< relref "vaccination.md" >}}) coqueluche à chaque grossesse (entre 20 et 36 SA)  
+  - [Vaccination coqueluche]({{< relref "vaccination.md" >}}) pendant chaque grossesse (entre 20 et 36 SA)  
   - **Cocooning:** rappel en l'absence de vaccination pendant la grossesse si le dernier a +5 ans avant 25 ans ou +10 ans au-delà
   - Professionnels: valence coqueluche à chaque rappel
 - [Signalement à l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}) quand au moins 2 cas de coqueluche en collectivité
@@ -156,7 +156,7 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
   BoostrixTetra®/Repevax® sauf si Tetravac-acellulaire® no fait à 6 ans.
 - Rattrapage à tout âge si:
   - 2<sup>e</sup> trimestre de la grossesse (20-36 SA), même si vaccinée avant la grossesse
-  - ou en l'abseJeunes parents et les grands-parents, fratrie, personnels de la petite enfance
+  - ou en l'absence de vaccin maternel pour le "cocooning": jeunes parents et les grands-parents, fratrie, personnels de la petite enfance
 
 > Délai minimal d'un mois entre 2 doses de vaccin coquelucheux
 
@@ -178,6 +178,8 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 **Professionnels de santé:** ajouter la coqueluche à chaque rappel du dTPolio (45 et 65 ans) + 1 dose si dernière dose réalisée ≤ 18 ans et date de +5 ans.
 
 La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
+
+La vaccination contre la coqueluche fait partie des vaccins obligatoires pour les enfants nés à partir du 1er janvier 2018 (voir [vaccination]({{< relref "vaccination.md" >}})).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la coqueluche" %}}

@@ -151,7 +151,7 @@ La persistance d'une capacité érectile résiduelle est un facteur de bon prono
 - Abdomino-pelviens  
   Cancer du testicule, traumatisme, chirurgie herniaire, cryptorchidie, radiothérapie.
 - Diabète, maladies neurologiques ou endocriniennes
-- Facteurs de risque cardiovasculaire, maladies cardiovasculaires
+- Facteurs de risque et maladies cardiovasculaires
 - Sédentarité
 - Facteurs psycho-sociaux
 - Signes d'[hypertrophie prostatique]({{< relref "hypertrophie-benigne-prostate.md" >}})
@@ -189,7 +189,7 @@ Examen clinique annuel en cas de dysfonction érectile avec:
   Testicules (taille, consistance), pénis (**mycose**, **phimosis**, prépuce, frein, , déformation, taille), toucher rectal après 50 ans, gynécomastie  
 - Cardiovasculaire  
   - Pression artérielle, pouls périphériques, souffles vasculaires
-  - Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ({{< scores/heartscore >}})
+  - Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ou {{< scores/heartscore >}} en prévention primaire
   - {{< modal-btn modal-saos >}}Apnées du sommeil{{< /modal-btn >}}
 - Neurologique  
   Centré sur les réflexes, sensibilité des pieds, anesthésie en selle et des membres inférieurs, hypotension orthostatique.
@@ -430,6 +430,7 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 
 {{< youtube id="J0OPuM9DA5s" title="Troubles de l'érection, ne plus se cacher (Fréquence Médicale)" >}}
 
+- {{< references/esc-cvd >}}
 - [Allen MS. Physical activity as an adjunct treatment for erectile dysfunction. Nat Rev Urol. 2019.](https://www.ncbi.nlm.nih.gov/pubmed/31239541)
 - [Colson MH et al. Les traitements oraux de la dysfonction érectile aujourd'hui, pour quel patient ? Sexologies. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S1158136018300094)
 - [Colson MH et al. Démarche diagnostique et prise en charge du patient souffrant de dysfonction érectile, actualisation et consignes pratiques. Sexologies. 2018.](https://www.em-consulte.com/en/article/1198573)

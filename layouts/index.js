@@ -23,7 +23,7 @@ window.addEventListener('beforeinstallprompt', (e) => {
 });
 
 // Install the app by preloading all recommandations
-self.addEventListener('install', (event) => {
+/*self.addEventListener('install', (event) => {
   const urlsToPrefetch = [
     'https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2',
     'https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBBc4.woff2',
@@ -36,12 +36,12 @@ self.addEventListener('install', (event) => {
     'https://cdn.jsdelivr.net/npm/mermaid@10.1/+esm',
     'https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js',
     '/recommandations/anemie/',
-   /* '/recommandations/',
+    '/recommandations/',
   {{- range $index, $value := where site.RegularPages "Section" "recommandations" -}}
     {{ if $index }}, {{ end }}
     '{{ .RelPermalink }}'
   {{- end -}}
-  ];*/
+  ];
 
   event.waitUntil(
     caches.open(cacheName)
@@ -61,6 +61,7 @@ self.addEventListener('install', (event) => {
     })
   );
 });
+*/
 
 // Cache visited pages
 self.addEventListener('fetch',  fetchEvent => {

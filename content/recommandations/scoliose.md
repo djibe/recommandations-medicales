@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-03-20T16:29:04+01:00"
 publishdate = "2023-03-27"
-lastmod = "2023-03-27"
+lastmod = "2023-04-11"
 specialites = ["rhumatologie"]
 annees = "2022"
-sources = ["HAS"]
+sources = ["HAS", "AAFP"]
 tags = ["adolescent", "depistage", "enfant"]
 anglais = ["Idiopathic scoliosis"]
 sctid = "298382003"
@@ -104,7 +104,7 @@ En cas scoliose grave: épreuves fonctionnelles respiratoires (EFR)
 {{% /collapse %}}
 {{%collapse "Dépistage de la scoliose" %}}
 
-Inspecter le dos des enfants et des adolescents pour dépister une scoliose (*HAS 2005*).
+Inspecter le dos des enfants et des adolescents pour dépister une scoliose (*HAS 2005*). La USPTF ne l'affirme pas.
 
 Profiter des [examens de suivi]({{< relref "examens-suivi-nourrisson.md" >}}) (3, 4, 5, 6 , 8-9, 11-13, 15-16 ans) et des certificats pour revoir le dos.
 
@@ -132,7 +132,7 @@ La prise en charge de la scoliose est pluridisciplinaire:
   - puis les 5 ans ensuite (sauf évolutivité)
   - Après un accouchement
 - Éducation thérapeutique du patient (ETP)
-- [ALD n°26 ]({{< relref "affection-longue-duree.md" >}})  
+- [ALD n°26]({{< relref "affection-longue-duree.md" >}})  
   Indications: angle de Cobb > 30°, enfant ≥ 15° avec aggravation ≥ 5° entre 2 radiographies successives, adulte avec perte de taille ou cyphose justifiant un traitement orthopédique ou chirurgical.
 
 Le traitement d'une pathologie neuromusculaire ou malformative est spécialisé.
@@ -166,8 +166,10 @@ Informations sur la scoliose:
 
 - [HAS. Déformations précoces du rachis. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3374137/fr/deformations-precoces-du-rachis)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Dépistages chez l'enfant. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/depistages-lenfant)
+- [Kuznia AL et al. Adolescent Idiopathic Scoliosis: Common Questions and Answers. Am Fam Physician. 2020.](https://www.aafp.org/pubs/afp/issues/2020/0101/p19.html)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Rachialgies. Item 94 UE 5. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-3-0.php)
 - [HAS. Scoliose idiopathique structurale évolutive. Actes et prestations Affection de longue durée. 2018.](https://www.has-sante.fr/jcms/c_646714/fr/ald-n-26-scoliose-idiopathique-structurale-evolutive)
+- [US Preventive Services Task Force. Screening for Adolescent Idiopathic Scoliosis: US Preventive Services Task Force Recommendation Statement. JAMA. 2018.](https://jamanetwork.com/journals/jama/fullarticle/2668355)
 - [Negrini S et al. Braces for idiopathic scoliosis in adolescents. Cochrane Database of Systematic Reviews. 2015.](https://www.cochrane.org/CD006850/BACK_braces-for-idiopathic-scoliosis-in-adolescents)
 - [Courtois I, Ebermeyer E. Scoliose de l'enfant et de l'adolescent. La Lettre du Rhumatologue. 2010. (PDF)](https://www.edimark.fr/Front/frontpost/getfiles/16489.pdf)
 - HAS. Scoliose structurale évolutive (dont l'angle est égal ou supérieur à 25°) jusqu'à maturation rachidienne. Guide Affection de longue durée. 2008.
@@ -177,8 +179,6 @@ Informations sur la scoliose:
 ### À lire
 
 - [International Society on Scoliosis Orthopaedic and Rehabilitation Treatment (SOSORT)](https://www.sosort.org)
-- [Kuznia AL et al. Adolescent Idiopathic Scoliosis: Common Questions and Answers. Am Fam Physician. 2020.](https://www.aafp.org/pubs/afp/issues/2020/0101/p19.html)
 - [Blevins K et al. Management of Scoliosis. Adv Pediatr. 2018. [payant]](https://www.advancesinpediatrics.com/article/S0065-3101(18)30014-8/fulltext)
-- [Horne JP et al. Adolescent idiopathic scoliosis: diagnosis and management. Am Fam Physician. 2014.](https://www.aafp.org/pubs/afp/issues/2014/0201/p193.html)
 
 {{%/sources%}}
