@@ -17,12 +17,15 @@ sctid = "72042002"
 icd10 = "R15"
 image = true
 imageSrc = "Illustration de l'incontinence fécale (ou anale) par upklyak / Freepik"
-todo = "liens dont gs, summary, scores dont https://www.em-consulte.com/article/99993/validation-of-the-french-version-of-the-fecal-inco"
+todo = "scores dont https://www.em-consulte.com/article/99993/validation-of-the-french-version-of-the-fecal-inco"
 +++
 
 {{%article-summary%}}
 
-- L'incontinence anale 
+- L'incontinence fécale est le passage incontrôlé de selles ou de gaz pendant au moins 1 mois chez un sujet de plus de 4 ans ayant acquis la propreté
+- L'examen clinique réalise l'enquête étiologique: antécédents, examen diététique, neurologique et pelvien
+- Prise en charge de première intention de l'incontinence fécale: mesures hygiéno-diététiques avec agenda du transit avec adaptations diététiques 1 par 1, régularisation du transit, rééducation pelvienne avec biofeedback, médicaments adaptés selon le transit
+- En cas de doute, d'anomalie ou de résistance, le suivi doit être spécialisé (NDLR)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

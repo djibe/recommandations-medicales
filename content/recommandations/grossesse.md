@@ -39,6 +39,7 @@ Chapitres dédiés:
 - [Diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
 - [Écoulement mamelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
 - [Hypothyroïdie pendant la grossesse]({{< relref "hypothyroidie.md" >}})
+- [Incontinence fécale]({{< relref "incontinence-fecale.md" >}})
 - [Infection urinaire pendant la grossesse]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
 - [Interruption volontaire de grossesse]({{< relref "interruption-volontaire-grossesse.md" >}})
 - [Phlébite et score LEFt pendant la grossesse]({{< relref "thrombose-veineuse-profonde.md" >}})
