@@ -16,6 +16,7 @@ sctid = "298382003"
 icd10 = "M41.9"
 image = true
 imageSrc = "Scolioses d'aspect différent avec un même angle de Cobb de 40°. Weiss HR, Goodall D, CC BY 2.0, via Wikimedia Commons"
+todo = "flowchart"
 +++
 
 {{%article-summary%}}
@@ -180,5 +181,6 @@ Informations sur la scoliose:
 
 - [International Society on Scoliosis Orthopaedic and Rehabilitation Treatment (SOSORT)](https://www.sosort.org)
 - [Blevins K et al. Management of Scoliosis. Adv Pediatr. 2018. [payant]](https://www.advancesinpediatrics.com/article/S0065-3101(18)30014-8/fulltext)
+- [Thèse Bonnet J](https://dumas.ccsd.cnrs.fr/dumas-01969212/document)
 
 {{%/sources%}}

@@ -36,7 +36,7 @@ Les 2 compartiments du genou peuvent être atteints: **fémoro-tibiale** (intern
 Une synovite chronique est un facteur de mauvais pronostic.
 
 Gonarthrose destructrice rapide
-: Destruction rapide du cartilage avec aggravation du pincement de 50% en un an. Rechercher une *chondrocalcinose* associée.
+: Destruction rapide du cartilage avec aggravation du pincement de 50% en un an. Rechercher une *[chondrocalcinose]({{< relref "rhumatisme-pyrophosphate-chondrocalcinose.md" >}})* associée.
 
 ### Facteurs de risque de gonarthrose
 
@@ -117,7 +117,7 @@ Autres diagnostics à étayer devant des douleurs des genoux.
 
 - Arthrite septique
 - Arthropathie microcristalline  
-  Chondrocalcinose articulaire, [goutte]({{< relref "goutte.md" >}}).
+  [Chondrocalcinose articulaire]({{< relref "rhumatisme-pyrophosphate-chondrocalcinose.md" >}}), [goutte]({{< relref "goutte.md" >}}).
 - Arthrite inflammatoire  
   [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [spondyloarthrite]({{< relref "spondylarthrite-ankylosante.md" >}}).
 - Synovite villonodulaire

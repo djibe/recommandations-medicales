@@ -9,6 +9,7 @@
   {{- partial "font" . -}}
 
   {{ $sass := "" }}
+  {{ $dark := "" }}
   {{ $print := "" }}
   {{ if hugo.IsProduction }}
     {{ $sass = resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint "sha384" }}
@@ -17,8 +18,10 @@
     <link rel="stylesheet" href="{{ $print.Permalink }}" media="print" integrity="{{ $print.Data.Integrity }}">
     {{ else }}
     {{ $sass = resources.Get "sass/style.scss" | toCSS }}
+    {{ $dark = resources.Get "sass/dark-theme.scss" | toCSS }}
     {{ $print = resources.Get "sass/print.scss" | toCSS }}
     <link rel="stylesheet" href="{{ $sass.Permalink }}">
+    <link rel="stylesheet" href="{{ $dark.Permalink }}" media="print" onload="this.media='all'">
     <link rel="stylesheet" href="{{ $print.Permalink }}" media="print">
   {{ end }}
 

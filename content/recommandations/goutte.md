@@ -55,8 +55,8 @@ La **mortalité** est de 20-30% et 60% de ces accidents sous allopurinol survien
 
 ### Diagnostic différentiel d'une arthrite goutteuse
 
-- Chondrocalcinose articulaire
-- Arthrite infectieuse
+- [Chondrocalcinose articulaire]({{< relref "rhumatisme-pyrophosphate-chondrocalcinose.md" >}})
+- Arthrite septique
 - Rhumatisme psoriasique
 - Poussée d'arthrose
 - [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}})

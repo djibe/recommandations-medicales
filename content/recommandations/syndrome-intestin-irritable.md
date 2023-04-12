@@ -122,7 +122,7 @@ Le diagnostic de syndrome de l'intestin irritable est clinico-biologique: syndro
   - AEG
   - Rectorragies
   - Symptômes nocturnes
-  - Incontinence anale
+  - [Incontinence anale]({{< relref "incontinence-fecale.md" >}})
   - Rachialgies
   - Signes urinaires et gynécologiques
 - Bilans déjà réalisés
@@ -138,7 +138,7 @@ Le diagnostic de syndrome de l'intestin irritable est clinico-biologique: syndro
 - Signes négatifs: signes d'anémie  
   {{< clinique/anemie >}}
 
-Avis gastro-entérologique si: doute diagnostique, symptômes sévères ou échec du traitement de première intention, demande du patient, incontinence anale.
+Avis gastro-entérologique si: doute diagnostique, symptômes sévères ou échec du traitement de première intention, demande du patient, [incontinence fécale]({{< relref "incontinence-fecale.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

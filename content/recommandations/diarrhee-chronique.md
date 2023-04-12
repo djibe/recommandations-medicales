@@ -47,7 +47,7 @@ TIF
 ### Diagnostic différentiel d'une diarrhée chronique
 
 - Fausse diarrhée du constipé, fécalome
-- Incontinence fécale
+- [Incontinence fécale]({{< relref "incontinence-fecale.md" >}})
 - Syndrome rectal ou poly-exonération secondaire à un trouble du plancher pelvien  
   Défécation difficile (dyschésie) et/ou prolapsus. La consistance des selles est normale.
 
@@ -133,7 +133,7 @@ L'interrogatoire est primordial pour orienter vers l'origine de la diarrhée chr
   - Autres troubles digestifs  
     Douleurs, ballonnements, flatulences, alternance diarrhée-constipation, épreinte, ténesmes, faux besoin, impériosité, rectorragies.
 - Signes négatifs
-  - Incontinence
+  - [Incontinence fécale]({{< relref "incontinence-fecale.md" >}})
   - Consistance conservée
   - Terrain constipé
   - Antécédents pelviens
@@ -181,10 +181,39 @@ En cas de rectorragies ou de modifications du transit: adresser au gastro-entér
 Adresser au spécialiste si un diagnostic pouvant être suivi en ville n'est pas expliqué par ce bilan.
 
 {{% /collapse %}}
+{{%collapse "Traitement de la diarrhée chronique" %}}
+
+La prise en charge d'une diarrhée chronique est surtout étiologique.
+
+### Prise en charge de la diarrhée chronique
+
+Mesures à proposer en cas de diarrhée chronique, en parallèle du bilan étiologique:
+
+[Guide d'information du patient du CREGG sur la diarrhée chronique (PDF)](https://www.cregg.org/wordpress/wp-content/uploads/2012/06/documents-tinymce-00004-fiche-diarrhe.pdf)
+
+### Aliments privilégiés en cas de diarrhée chronique
+
+- Eau du robinet
+- Thym, laurier, cumin
+- Produits laitiers: yaourt nature, fromage blanc, petit suisse, fromage à pâte dure et fondus
+- Viandes: toutes les volailles et poissons, bœuf, jambon blanc dégraissé, œufs
+
+### Aliments à éviter en cas de diarrhée chronique
+
+- Boissons: eaux minérales, café, thé, sodas, jus de fruits très froids
+- Persil, cerfeuil
+- Vinaigre, moutarde, muscade, poivre, cornichons
+- Produits laitiers: tous les laits, yaourt fermenté, crème dessert, fromage crémeux
+- Viandes: moutons, agneau, viandes et poissons fumés, panés, fritures, charcuteries, poissons marinés ou à l'huile, plats en sauce, hamburger
+
+> *CREGG*
+
+{{% /collapse %}}
 {{%sources%}}
 
 - {{< references/college-gastro >}}
-- [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut. 2018.](https://gut.bmj.com/content/gutjnl/67/8/1380.full.pdf)
+- [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut. 2018.](https://gut.bmj.com/node/219278.full)
+- [Tarrerias AL et al. Régime alimentaire en cas de diarrhées. CREGG. 2010. (PDF)](https://www.cregg.org/wordpress/wp-content/uploads/2012/06/documents-tinymce-00004-fiche-diarrhe.pdf)
 - [SNFGE. Diarrhée chronique.](https://www.snfge.org/content/diarrhee-chronique)
 
 {{%/sources%}}

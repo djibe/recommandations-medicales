@@ -1,5 +1,5 @@
 +++
-title = "Rhumatisme à pyrophosphate de calcium (ex chondrocalcinose articulaire CCA)"
+title = "Rhumatisme à pyrophosphate de calcium (ex chondrocalcinose articulaire)"
 titleSeo = "Rhumatisme pyrophosphate calcium"
 prefix = "le "
 description = "Recommandations pour la prise en charge du rhumatisme à PPC (ex chondrocalcinose articulaire). Bilan, radiographies, traitement symptomatique: AINS, colchicine"

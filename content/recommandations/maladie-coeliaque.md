@@ -256,7 +256,7 @@ Suivi de la maladie cœliaque par le gastro-entérologue et le diététicien sp�
 
 ### Aliments à éviter en cas d'allergie au gluten
 
-[SNFGE/CREGG. Alimentation sans gluten. (PDF)](https://www.snfge.org/sites/default/files/recommandations/alimentation_sans_gluten-snfge-cregg_2017.pdf)
+[SNFGE, CREGG. Alimentation sans gluten. (PDF)](https://www.snfge.org/sites/default/files/recommandations/alimentation_sans_gluten-snfge-cregg_2017.pdf)
 
 Le gluten est présent dans toutes les variétés de blé, froment, épeautre, orge et seigle sous toutes leurs formes et donc dans les:
 

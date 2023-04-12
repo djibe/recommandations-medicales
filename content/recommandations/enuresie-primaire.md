@@ -69,7 +69,7 @@ Intensité:
   Pertes d'urines, urgenturie, > 7 ou < 4 mictions diurnes, douleurs mictionnelles, jet faible, nécessité de pression abdominale pour uriner.  
   Avis urologique si présent.
 - Constipation  
-  Efforts de poussée, selles dures ou incontinence fécale.
+  Efforts de poussée, selles dures ou [incontinence fécale]({{< relref "incontinence-fecale.md" >}}).
 - Mictions la journée  
   {{%class%}}Sécrétion inversée de vasopressine{{%/class%}}
 - Ronflements et apnées du sommeil observées

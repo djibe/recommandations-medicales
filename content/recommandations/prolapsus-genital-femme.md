@@ -97,7 +97,7 @@ Enquête sur les symptômes et le retentissement du prolapsus génital:
     Urgenturie ± fuites, pollakiurie, nycturie.
   - Incontinence urinaire d'effort (IUE)
   - Troubles ano-rectaux  
-    Dyschésie, manœuvres digitales d'exonération, incontinence anale.
+    Dyschésie, manœuvres digitales d'exonération, [incontinence anale]({{< relref "incontinence-fecale.md" >}}).
 - Gêne ressentie et symptôme dominant
 - Retentissement
   - Activités physiques
