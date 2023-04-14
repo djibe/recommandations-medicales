@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-22T19:42:41+02:00"
 publishdate = "2020-07-22"
-lastmod = "2023-04-07"
+lastmod = "2023-04-12"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["BSG", "Collège"]
@@ -22,7 +22,7 @@ todo = "SEO, SeHCAT, FODMAPs"
 
 {{%article-summary%}}
 
-- Définition de la diarrhée chronique: Ramollissement de selles fréquentes (+3/j) et prolongées (durée +1 mois)
+- Définition de la diarrhée chronique: ramollissement de selles fréquentes (+3/j) et prolongées (durée +1 mois)
 - Signes d'alarme de la diarrhée chronique: +50 ans, AEG, rectorragies/méléna ou modification récente et inexpliquée du transit
 - Bilan de première intention d'une diarrhée chronique: voir *Examens complémentaires*
 - Avis gastro-entérologique si: signes d'alarme ou altération de la qualité de vie

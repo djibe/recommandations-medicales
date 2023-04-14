@@ -628,10 +628,11 @@ graph TB
 
 ### À lire
 
-- [Qaseem A. et al. Clinical Guidelines Committee of the American College of Physicians. Pharmacologic Treatment of Primary Osteoporosis or Low Bone Mass to Prevent Fractures in Adults: A Living Clinical Guideline From the American College of Physicians. Ann Intern Med. 2023.](https://www.acpjournals.org/doi/10.7326/M22-1034)
+- [Waterhouse M et al. The effect of monthly vitamin D supplementation on fractures: a tertiary outcome from the population-based, double-blind, randomised, placebo-controlled D-Health trial. The Lancet Diabetes & Endocrinology. 2023.](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(23)00063-3/fulltext)
+- [Qaseem A et al. Clinical Guidelines Committee of the American College of Physicians. Pharmacologic Treatment of Primary Osteoporosis or Low Bone Mass to Prevent Fractures in Adults: A Living Clinical Guideline From the American College of Physicians. Ann Intern Med. 2023.](https://www.acpjournals.org/doi/10.7326/M22-1034)
 - [Bouvard P et al; GRIO. Recommandations françaises de la prise en charge et du traitement de l'ostéoporose masculine. Revue du Rhumatisme. 2021. (PDF)](http://www.grio.org/documents/page246/reco-op-masculine.pdf)
-- [Kanis J. et al. Executive summary of the European guidance for the diagnosis and management of osteoporosis in postmenopausal women. Calcif Tissue Int. 2019.](https://link.springer.com/article/10.1007/s00223-018-00512-x)
-- [Kanis J. et al. Algorithm for the management of patients at low, high and very high risk of osteoporotic fractures. Osteoporos Int. 2019.](https://link.springer.com/article/10.1007/s00198-019-05176-3)
+- [Kanis J et al. Executive summary of the European guidance for the diagnosis and management of osteoporosis in postmenopausal women. Calcif Tissue Int. 2019.](https://link.springer.com/article/10.1007/s00223-018-00512-x)
+- [Kanis J et al. Algorithm for the management of patients at low, high and very high risk of osteoporotic fractures. Osteoporos Int. 2019.](https://link.springer.com/article/10.1007/s00198-019-05176-3)
 - [Kanis J et al; on behalf of the Scientific Advisory Board of the European Society for Clinical and Economic Aspects of Osteoporosis (ESCEO) and the Committees of Scientific Advisors and National Societies of the International Osteoporosis Foundation (IOF). European guidance for the diagnosis & management of osteoporosis in postmenopausal women. Osteoporos Int. 2018.](https://link.springer.com/article/10.1007%2Fs00198-018-4704-5)
 
 {{%/sources%}}

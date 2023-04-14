@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2023-01-23"
+lastmod = "2023-04-14"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "HCSP", "MinSanté"]
@@ -42,7 +42,7 @@ Monkeypox ou variole du singe
 : Maladie infectieuse liée virus Monkeypox (MPXV, orthopoxvirus). Contamination directe par muqueuse ou peau lésée ou gouttelettes. Contamination également possible par literie, vêtements, vaisselle, linge de bain ...  
 Les zones d'endémie sont les zones forestières d'Afrique du Centre et de l'Ouest avec contamination par des rongeurs sauvages ou des primates (zoonose) puis dans le foyer familial.
 : Complications de la variole du singe: surinfection cutanées bactériennes, infections respiratoires basses, sepsis, encéphalite, kératites, ou gastro-intestinales avec pertes liquidiennes (*HCSP mai 2022*).
-: 4967 cas confirmés en France au 20 décembre 2022, à 96% des [HSH]({{< relref "hsh.md" >}}) sans aucun décès en France.
+: 5000 cas confirmés en France au 23 mars 2023, à 96% des [HSH]({{< relref "hsh.md" >}}) sans aucun décès en France.
 
 Cas suspect de Monkeypox
 : Signes cliniques évocateurs de Monkeypox sans exposition à risque. Diagnostic biologique.
@@ -223,7 +223,7 @@ Antiviral disponible en gélules indiqué chez les personnes à **risque de form
 {{% /collapse %}}
 {{%sources%}}
 
-- [Santé Publique France. Cas de variole du singe : point de situation au 20 décembre 2022. 21/12/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-20-decembre-2022)
+- [Santé Publique France. Variole du singe : point de situation en France au 23 mars 2023. 30/03/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/variole-du-singe-point-de-situation-en-france-au-23-mars-2023)
 - [HAS. Monkeypox : la HAS complète ses recommandations sur la vaccination. 11/10/2022.](https://www.has-sante.fr/jcms/p_3376314/fr/monkeypox-la-has-complete-ses-recommandations-sur-la-vaccination)
 - [DGS-Urgent 2022-76, 70, 65, 61, 58. 05/08/2022.](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Réponses Rapides : Infection par le virus Monkeypox – Prise en charge en médecine de 1er recours. 05/09/2022.](https://www.has-sante.fr/jcms/p_3361191/fr/reponses-rapides-infection-par-le-virus-monkeypox-prise-en-charge-en-medecine-de-1er-recours)

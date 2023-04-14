@@ -44,6 +44,9 @@ Paludisme
 Anofel
 : Association française des enseignants et praticiens hospitaliers titulaires de parasitologie et mycologie médicales
 
+cpP
+: comprimé pédiatrique
+
 CPAP
 : chimioprophylaxie antipaludique
 
@@ -270,7 +273,7 @@ window.onload = () => {
 };
 </script>
 
-Un vaccin contre le paludisme existe (RTS,S), recommandé par l'OMS pour les enfants du Ghana, Kenya et Malawi (*[OMS](https://www.who.int/news/item/06-10-2021-who-recommends-groundbreaking-malaria-vaccine-for-children-at-risk)*)
+Deux vaccins contre le paludisme existent (RTS,S et R21/Matrix-M), dont le premier est recommandé l'OMS pour les enfants du Ghana, Kenya et Malawi (*[OMS](https://www.who.int/news/item/06-10-2021-who-recommends-groundbreaking-malaria-vaccine-for-children-at-risk)*)
 {.alert .alert-info}
 
 ### Chloroquine

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-10T18:52:41+02:00"
 publishdate = "2021-02-10"
-lastmod = "2022-12-21"
+lastmod = "2023-04-14"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
 sources = ["MinSanté", "Pasteur"]
@@ -49,12 +49,11 @@ VHA
 
 Indications à la vaccination hépatite A:
 
-- Jeune résidant en établissement de l'enfance
-- Jeune en situation de handicap
+- Jeune résidant en établissement de l'enfance en situation de handicap
 - Mucoviscidose
 - Pathologie à risque d'hépatopathie chronique  
   [Hépatite B]({{< relref "hepatite-b.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}), [alcool]({{< relref "sevrage-alcool.md" >}}).
-- Enfant > 1 an né de personne venant de zone endémique et susceptible d'y séjourner
+- Enfant de +1 an né de personne venant de zone endémique et susceptible d'y séjourner
 - [HSH]({{< relref "hsh.md" >}})
 - Entourage d'un cas d'hépatite A aiguë  
   Le plus tôt possible sans sérologie préalable, délai max de 14j après les premiers signes du cas si:

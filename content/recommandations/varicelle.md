@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-22T12:09:36+01:00"
 publishdate = "2022-04-07"
-lastmod = "2022-12-20"
+lastmod = "2023-04-14"
 specialites = ["pediatrie"]
 annees = "2020"
 sources = ["SPILF", "ANSM", "MinSanté"]
@@ -129,9 +129,9 @@ Sérologie varicelle en urgence si personne à risque de forme grave exposée à
 Vaccination recommandée en l'absence d'antécédent de varicelle (ou histoire douteuse):
 
 1. Adolescent de 12 à 18 ans  
-  << Sérologie peut être pratiquée >>.
+  Sérologie préalable possible.
 2. Femme en âge de procréer (projet de grossesse ++) ou après une première grossesse  
-  << Sérologie peut être pratiquée >>, test de grossesse et contraception efficace le mois suivant.
+  Sérologie préalable possible, test de grossesse et contraception efficace le mois suivant.
 3. Toute personne avec sérologie négative ET contact étroit avec des personnes immunodéprimées
 4. Attente de greffe d'organe solide (dans les 6 mois) avec sérologie négative  
   2 doses à ≥ 1 mois d'intervalle.
@@ -176,7 +176,7 @@ Période de contagiosité: J-2 à J+4 de l'apparition des vésicules ou par voie
 
 Recommandations pour la prise en charge de la varicelle:
 
-- Statut sérologique de l'entourage
+- Statut sérologique de l'entourage (± vaccination dans les 3 jours)
 - Contre-indication aux aspirine/AINS/corticoïdes  
 - L'éviction scolaire n'est plus recommandée (*CMIT 2020*)
   - Sinon éviction scolaire jusqu'au stade croûteux
@@ -280,7 +280,7 @@ graph TB
 grossesse[Contage varicelle<br>de la femme enceinte] --> antecedent(Antécédent de varicelle ?)
 style grossesse stroke:#4150f5, stroke-width:1px
   antecedent -- Non --> serologie(Sérologie en<br>urgence)
-    serologie -- Négative --> dan("Avis Diagnostic Anténatal<br>en urgence<br>± Ig anti-VZV<br>± Antiviral aciclovir")
+    serologie -- Négative --> dan("Avis du Diagnostic Anténatal<br>en urgence<br>± Ig anti-VZV<br>± Antiviral aciclovir")
     serologie -- Positive --> ras
   antecedent -- Oui --> ras(Pas de risque<br>Ne rien faire)
 {{< /mermaid >}}

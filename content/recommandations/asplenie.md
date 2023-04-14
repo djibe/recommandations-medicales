@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T23:51:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2023-01-31"
+lastmod = "2023-04-14"
 specialites = ["hematologie"]
-annees = "2022"
-sources = ["HCSP", "MinSanté"]
+annees = "2023"
+sources = ["MinSanté", "HCSP"]
 tags = ["vaccin", "voyage"]
 anglais = ["Asplenia"]
 sctid = "707147002"
@@ -85,12 +85,12 @@ Antibiothérapie par [Oracilline®](https://base-donnees-publique.medicaments.go
 
 Vaccins à réaliser avant voire après une splénectomie.
 
-{{< table title="Synthèse des vaccins à administrer en cas d'asplénie selon Calendrier vaccinal 2022 et HCSP 2014. Contrôler l'âge sur les RCP" class="table-wrap" >}}
+{{< table title="Synthèse des vaccins à administrer en cas d'asplénie selon Calendrier vaccinal 2023 et HCSP 2014. Contrôler l'âge sur les RCP" class="table-wrap" >}}
 | Germe           | Primo-vaccination            | Rappel           |
 |-----------------|------------------------------|------------------|
 | {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} | Prevenar 13® puis Pneumovax® M2 | Pneumovax® tous les 5 ans |
 | Méningocoque B  | Bexsero® (ou Trumenba®) à M0M2 |                |
-| Méningocoque ACYW135 | Menveo®/Nimenrix® à M0M6 | Tous les 5 ans  |
+| Méningocoque ACYW135 | Menveo®/Nimenrix® à M0M6<br>ou Menquadfi® | Tous les 5 ans<br>Non connu  |
 | *H. influenzae* | ACT-HIB® dose unique         |                  |
 | Grippe          | 1 dose                       | Annuel           |
 | Covid-19        | Recommandations en vigueur   |                  |

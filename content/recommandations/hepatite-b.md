@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-07T12:03:00+02:00"
 publishdate = "2021-09-07"
-lastmod = "2023-01-10"
+lastmod = "2023-04-14"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
 sources = ["AFEF", "SNFGE", "HAS"]
@@ -336,8 +336,8 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler et al
 
 {{< youtube id="sYKByv4Olg8" title="VHB Indications thérapeutiques et surveillance H. Fontaine 2019 (AFEF Medical Education)" >}}
 
-- [CMIT. Hépatites virales. Item 167. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-167-web.pdf)
 - {{< references/calendrier-vaccinal >}}
+- [CMIT. Hépatites virales. Item 167. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-167-web.pdf)
 - {{< references/afef-foie-non-invasif >}}
 - [Sogni P.; SNFGE, AFEF. Prise en charge d'un patient porteur chronique de l'AgHBs. 2018. (PDF)](https://www.snfge.org/download/file/fid/3634)
 - [HAS. Hépatite chronique B. Actes et prestations Affection de longue durée. Mai 2016.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)

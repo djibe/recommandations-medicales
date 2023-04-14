@@ -7,7 +7,7 @@ synonyms = ["Bacille de Koch", "Mycobacterium tuberculosis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-06-03T15:14:20+02:00"
 publishdate = "2020-06-03"
-lastmod = "2022-04-27"
+lastmod = "2023-04-14"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2017"
 sources = ["HAS", "MinSanté", "CMIT"]
@@ -17,7 +17,7 @@ sctid = "56717001"
 icd10 = "A16.9"
 image = true
 imageSrc = "Caverne médiane gauche chez une jeune femme de 20 ans avec toux chronique et perte de poids. Cas clinique par Dr Hani Makky Al Salam, Radiopaedia.org, rID: 12437"
-todo = "A LIRE, lecture tubertest, quantiferon positif signe TM ?, KEY: maladie, lutte contre la tuberculose, infection tuberculeuse, organisation mondiale, traitement de la tuberculose, tuberculose pulmonaire, infection tuberculeuse latente, mycobacterium tuberculosis"
+todo = "lecture tubertest, quantiferon positif signe TM ?, KEY: maladie, lutte contre la tuberculose, infection tuberculeuse, organisation mondiale, traitement de la tuberculose, tuberculose pulmonaire, infection tuberculeuse latente, mycobacterium tuberculosis"
 +++
 
 {{%article-summary%}}
@@ -31,19 +31,16 @@ todo = "A LIRE, lecture tubertest, quantiferon positif signe TM ?, KEY: maladie,
 Le vaccin BCG (BCG AJVaccines®) est disponible uniquement en centre de vaccination, PMI ou CLAT.  
 Il est réalisé à partir de 1 mois, idéalement à **2 mois** et réalisé jusqu'à 15 ans.
 
-### Indications au BCG en 2022
+### Indications au BCG en 2023
 
-Vacciner les enfants dans l'ordre suivant, en priorité les < 5 ans:
-
-- Avant la sortie de la maternité en Guyane ou à Mayotte
+- Avant la sortie de la maternité: en Guyane ou à Mayotte ou cas récent (< 5 ans) de tuberculose dans son entourage
 - Enfant né dans un pays de forte endémie (voir plus bas)
-- Enfant avec ≥ 1 parent originaire de pays de forte endémie
+- Enfant avec ≥ 1 parent originaire d'un pays de forte endémie
 - Enfant devant séjourner ≥ 1 mois d'affilée en pays de forte endémie
-- Enfant ayant un cas récent (< 5 ans) de tuberculose dans son entourage
+- Enfant ayant un antécédent familial de tuberculose (collatéraux ou ascendants directs)
+- Enfant résidant en Île-de-France, Guyane ou Mayotte
 - Enfant dans toute situation jugée par le médecin à risque d'exposition au bacille tuberculeux  
   Logement (habitat précaire ou surpeuplé), socio-économiques (AME, CMU/CSS) ou en contact régulier avec des adultes originaires d'un pays de forte endémie.
-- 2<sup>e</sup> niveau: enfant < 5 ans habitant en Île-de-France
-- 3<sup>e</sup> niveau: enfant de 5 à 15 ans avec facteur de risque de tuberculose identifié (après test tuberculinique)
 
 Pour les professionnels de santé: évaluation de l'exposition au cas par cas par la *médecine du travail*.
 
@@ -61,7 +58,7 @@ Pour les professionnels de santé: évaluation de l'exposition au cas par cas pa
 - Europe centrale  
   Sauf Grèce, Hongrie, Slovaquie, Slovénie et République Tchèque.
 
-> *[Santé Publique France. Liste des pays de haute endémie (taux d'incidence > 40 cas de tuberculose/100.000 habitants), année 2020.](https://www.santepubliquefrance.fr/media/files/01-maladies-et-traumatismes/maladies-et-infections-respiratoires/tuberculose/donnees-tuberculose_tableau-12)*
+> *[Santé Publique France. Liste des pays de haute endémie (taux d'incidence > 40 cas de tuberculose/100.000 habitants), année 2021.](https://www.santepubliquefrance.fr/media/files/01-maladies-et-traumatismes/maladies-et-infections-respiratoires/tuberculose/donnees-tuberculose_tableau-12)*
 
 {{%/collapse%}}
 {{%collapse "Suivi thérapeutique de la tuberculose" %}}

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-04T21:22:54+01:00"
 publishdate = "2023-03-07"
-lastmod = "2023-03-07"
+lastmod = "2023-04-14"
 specialites = ["neurologie"]
 annees = "2016"
 sources = ["HAS", "EFNS"]
@@ -23,13 +23,13 @@ todo = "sd pyramidal, sd cérébelleux, American Academy of Neurology, HAS 2016 
 
 {{%article-summary%}}
 
-- Triade parkinsonienne: akinésie/bradykinésie, rigidité et tremblement de repos unilatéral ou asymétrique (pathognomonique mais absent pour 1/3)
-- Autres signes précoces de Parkinson: instabilité, hypotension orthostatique avec malaises, hyposmie
+- Triade du syndrome parkinsonien: akinésie/bradykinésie, rigidité et tremblement de repos unilatéral ou asymétrique (pathognomonique mais absent pour 1/3)
+- Autres signes précoces de la maladie de Parkinson: instabilité, hypotension orthostatique avec malaises, hyposmie
 - Toujours rechercher une cause iatrogène au syndrome parkinsonien
 - Le diagnostic de maladie de Parkinson est clinique, il relève du neurologue
 - Aucun bilan ou examen complémentaire n'est nécessaire pour le diagnostic de maladie de Parkinson
 - La prise en charge de la maladie de Parkinson est symptomatique avec, lorsque les symptômes sont gênants, principalement la L-dopa et les agonistes dopaminergiques permettant de l'épargner
-- Mesures toujours associées: activité physique, cognitive, sociale régulière et ergothérapie, orthophonie, kinésithérapie ...
+- Mesures non médicamenteuses toujours associées: activité physique, cognitive, sociale régulière et ergothérapie, orthophonie, kinésithérapie ...
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -94,7 +94,7 @@ Autres diagnostics à étayer devant un syndrome parkinsonien:
   Plutôt symétrique, peu sensible aux dopaminergiques, syndrome peudo-bulbaire.
 - Syndromes parkinsoniens dégénératifs
   - Maladie de Parkinson
-  - Démence à corps de Léwy  
+  - Démence à corps de Lewy  
     Démence précoce avec hallucinations spontanées et fluctuations de la vigilance, forte sensibilité aux neuroleptiques.
   - Paralysie supranucléaire progressive (syndrome de Steele-Richardson-Olszewski)  
     Syndrome parkinsonien axial et symétrique, chutes précoces en rétropulsion, syndrome frontal, déficit du regard vers le haut.
@@ -107,8 +107,8 @@ Autres diagnostics à étayer devant un syndrome parkinsonien:
 
 ### Épidémiologie de la Maladie de Parkinson en France
 
-- Incidence: 25.000/an
-- Prévalence (2015): 2,5/1000 avec 160.000 personnes traitées  
+- Incidence: 25.820/an (2020)
+- Prévalence: 1/380 avec 177.624 personnes traitées (2020)  
   +65% sur la période 2010-2030 avec une augmentation de l'espérance de vie de 3 ans sur cette période.
 - Âge moyen au diagnostic pour une femme: 71,8 ans (cohorte E3N)
 - Sex-ratio H/F: 1,5
@@ -490,6 +490,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+- [Santé Publique France. Maladie de Parkinson : quelle évolution entre 2016 et 2020 ?. 11/04/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/maladie-de-parkinson-quelle-evolution-entre-2016-et-2020)
 - [Ernst M et al. Physical exercise for people with Parkinson's disease: a systematic review and network meta‐analysis. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013856.pub2/full/fr)
 - Prescrire Redaction. Patients parkinsoniens. Rev Prescrire. 2023.
 - [HAS. Maladie de Parkinson. Actes et prestations affections de longue durée. 2021.](https://www.has-sante.fr/jcms/c_546220/fr/ald-n-16-maladie-de-parkinson)

@@ -1,14 +1,14 @@
 +++
-title = "Vaccination"
+title = "Vaccination et calendrier vaccinal"
 prefix = "la "
-description = "Recommandations vaccinales selon le Calendrier vaccinal 2022. Âge de rattrapage, vaccins selon l'âge, taille d'aiguille et sites d'injection des vaccins"
+description = "Recommandations sur les vaccins selon le Calendrier vaccinal 2023. Âge de rattrapage, vaccins selon l'âge, taille d'aiguille et sites d'injection des vaccins"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2023-01-18"
+lastmod = "2023-04-14"
 specialites = ["infectiologie"]
-annees = "2022"
+annees = "2023"
 sources = ["MinSanté", "HCSP"]
 tags = ["BPCO", "diabete", "grossesse", "prevention", "vaccin", "zona"]
 anglais = ["Immunization", "vaccination"]
@@ -55,9 +55,9 @@ VVA
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Calendrier vaccinal 2022" "show" %}}
+{{%collapse "Calendrier vaccinal 2023" "show" %}}
 
-{{< table title="Calendrier des vaccins recommandés en France en 2022. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Ministère de la Santé 2022." >}}
+{{< table title="Calendrier des vaccins recommandés en France en 2023. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Ministère de la Santé 2023." >}}
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS)         | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
@@ -77,9 +77,9 @@ VVA
 | Grossesse  | Coqueluche, Covid, grippe                            | BoostrixTetra, Repevax ...                                                |
 {{< /table >}}
 
-**Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours avec pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles. Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
+**Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours (pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles). Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
 
-> Les consultations à 25, 45 et 65 ans seront gratuites dès 2023.
+> Les consultations à 25, 45 et 65 ans seront gratuites courant 2023.
 
 {{% /collapse %}}
 {{%collapse "Rattrapage vaccinal" %}}
@@ -98,7 +98,7 @@ VVA
 | Papillomavirus                   |                       19 ans                        | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}})          |
 | Pneumocoque                      |                       23 mois                       | BPCO, diabète ...                                      |
 | Rotavirus                        |                       3 mois                        |                                                        |
-| Rougeole<br>Oreillons<br>Rubéole |                       42 ans                        |                                                        |
+| Rougeole<br>Oreillons<br>Rubéole |                       43 ans                        |                                                        |
 | Tuberculose                      | Lire [tuberculose]({{< relref "tuberculose.md" >}}) |                                                        |
 | Varicelle                        |                       18 ans                        | [Autour d'un cas]({{< relref "varicelle.md" >}})       |
 {{< /table >}}
@@ -132,22 +132,23 @@ Lire le *Calendrier vaccinal* page 75.
 
 ### Adulte et enfant né avant le 1<sup>er</sup> janvier 2018
 
-- Diphtérie
-- Tétanos
-- Poliomyélite
+1. Diphtérie
+2. Tétanos
+3. Poliomyélite
 
 ### Enfant né après le 1<sup>er</sup> janvier 2018
 
-- Diphtérie
-- Tétanos
-- [Coqueluche]({{< relref "coqueluche.md" >}})
-- Poliomyélite
-- [Hépatite B]({{< relref "hepatite-b.md" >}})
-- Rougeole
-- Oreillons
-- Rubéole
-- Méningocoque C
-- Pneumocoque
+1. Diphtérie
+2. Tétanos
+3. [Coqueluche]({{< relref "coqueluche.md" >}})
+4. Poliomyélite
+5. *Haemophilus influenzae* de type b
+6. [Hépatite B]({{< relref "hepatite-b.md" >}})
+7. Rougeole
+8. Oreillons
+9. Rubéole
+10. Méningocoque C
+11. Pneumocoque
 
 > *[Loi du 30 décembre 2017](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171)*
 
@@ -266,7 +267,7 @@ Le don du sang est contre-indiqué durant quatre semaines après les vaccination
 - [Zona]({{< relref "zona.md" >}})
 
 {{% /collapse %}}
-{{%collapse "Information du patient" %}}
+{{%collapse "Information du patient sur la vaccination" %}}
 
 Documents pour informer sur la vaccination:
 
@@ -275,7 +276,7 @@ Documents pour informer sur la vaccination:
 - [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
 
 {{% /collapse %}}
-{{%collapse "FMC gratuites" %}}
+{{%collapse "FMC gratuites sur la vaccination" %}}
 
 {{< card-link-external title="e-learning vaccination" url="https://www.formationvaccinationpaca.fr" subtitle="Par la Région PACA">}}
 
@@ -286,12 +287,11 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [Ministère de la Santé. La vaccination du nourrisson contre les rotavirus. Questions/Réponses pour les professionnels de santé. Novembre 2022.](https://sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-ps.pdf)
 - [Omedit Auvergne. Vaccination et Chimiothérapie. 22/07/2022.](https://www.omedit-auvergne-rhone-alpes.ars.sante.fr/vaccination-et-chimiotherapie)
-- [HAS. La HAS recommande la vaccination des nourrissons contre les infections à rotavirus. 12/07/2022.](https://www.has-sante.fr/jcms/p_3352137/fr/la-has-recommande-la-vaccination-des-nourrissons-contre-les-infections-a-rotavirus)
-- {{< references/calendrier-vaccinal >}}
 - [Décret 2022-610 pour la vaccination par les infirmiers et pharmaciens. Journal officiel. (PDF)](https://www.mesvaccins.net/textes/2022-04-21-JO-DECRET-2022-610.pdf)
-- [Infovac](https://www.infovac.fr/)
+- [Infovac](https://www.infovac.fr)
 - [Vaccination Info Service](https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Administration-des-vaccins)
 
 ### À lire

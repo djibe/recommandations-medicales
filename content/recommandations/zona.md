@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-14T19:48:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2022-09-29"
+lastmod = "2023-04-14"
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
-annees = "2020"
-sources = ["SPILF", "MinSanté"]
+annees = "2021"
+sources = ["CMIT", "SPILF", "MinSanté"]
 tags = ["BPCO", "vaccin", "zona"]
 anglais = ["Herpes zoster"]
 sctid = "4740000"
@@ -21,11 +21,11 @@ todo = "rankok, flowchart, zona en pédiatrie"
 
 {{%article-summary%}}
 
-- Prise en charge du zona par antiviral valaciclovir 1 g x 3/j 7 jours si:  
+- Prise en charge du zona par traitement antiviral valaciclovir 1 g x 3/j 7 jours si:  
   zona ophtalmique, +50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs intenses en phase aiguë, lésions cutanées graves)
-- Hospitalisation d'un zona en urgence si immunodéprimé, atteinte organique ou [paralysie faciale zostérienne]({{< relref "paralysie-faciale-idiopathique.md" >}})
+- Critères d'hospitalisation du zona en urgence: immunodépression, atteinte organique ou [paralysie faciale zostérienne]({{< relref "paralysie-faciale-idiopathique.md" >}})
 - Vaccination post-exposition (varicelle) si ≥ 12 ans immunocompétent sans antécédent de varicelle en contact avec un cas de zona, après sérologie
-- Vaccination zona de 65 à 74 ans
+- Vaccination zona de 65 à 74 ans avec une dose
 - [PCR VIH]({{< relref "vih-sida.md" >}}) en cas de zona avant 50 ans
 
 {{%/article-summary%}}
@@ -249,7 +249,7 @@ Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{< rel
 
 ### À lire
 
-- [Werner R. et al. European consensus-based (S2k) Guideline on the Management of Herpes Zoster – guided by the European Dermatology Forum (EDF) in cooperation with the European Academy of Dermatology and Venereology (EADV), Part 1: Diagnostic means. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13995)
-- [Werner R. et al. European consensus-based (S2k) Guideline on the Management of Herpes Zoster – guided by the European Dermatology Forum (EDF) in cooperation with the European Academy of Dermatology and Venereology (EADV), Part 2: Treatment. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13957)
+- [Werner R et al. European consensus-based (S2k) Guideline on the Management of Herpes Zoster – guided by the European Dermatology Forum (EDF) in cooperation with the European Academy of Dermatology and Venereology (EADV), Part 1: Diagnostic means. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13995)
+- [Werner R et al. European consensus-based (S2k) Guideline on the Management of Herpes Zoster – guided by the European Dermatology Forum (EDF) in cooperation with the European Academy of Dermatology and Venereology (EADV), Part 2: Treatment. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13957)
 
 {{%/sources%}}

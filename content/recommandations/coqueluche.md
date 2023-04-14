@@ -6,7 +6,7 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2023-01-18"
+lastmod = "2023-04-14"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HCSP", "SPILF", "HAS"]
@@ -30,9 +30,9 @@ todo = "https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"
   - L'immunité vaccinale persiste 5 à 10 ans
   - Rattrapage de la dose des 25 ans: joindre la valence coqueluche jusqu'à 39 ans
   - [Vaccination coqueluche]({{< relref "vaccination.md" >}}) pendant chaque grossesse (entre 20 et 36 SA)  
-  - **Cocooning:** rappel en l'absence de vaccination pendant la grossesse si le dernier a +5 ans avant 25 ans ou +10 ans au-delà
+  - **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse si: amené à s'occuper de l'enfant les 6 premiers mois et le dernier rappel a +5 ans avant 25 ans ou +10 ans au-delà
   - Professionnels: valence coqueluche à chaque rappel
-- [Signalement à l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}) quand au moins 2 cas de coqueluche en collectivité
+- [Signalement à l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}) pour au moins 2 cas de coqueluche en collectivité
 
 Chapitre lié: [toux chronique]({{< relref "toux-chronique.md" >}})
 
@@ -40,7 +40,7 @@ Chapitre lié: [toux chronique]({{< relref "toux-chronique.md" >}})
 {{%collapse "Définition" %}}
 
 Coqueluche
-: Maladie toxinique aiguë des voies respiratoires par la bactérie *Bordetella pertussis* (rarement *Bordetella parapertussis*). Contamination aérienne interhumaine (famille, collectivité) avec taux d'attaque élevé (75%). Maladie grave chez l'enfant voire **mortelle chez le nourrisson**.
+: Maladie toxi-infectieuse aiguë des voies respiratoires par la bactérie *Bordetella pertussis* (rarement *Bordetella parapertussis*). Contamination aérienne interhumaine (famille, collectivité) avec taux d'attaque élevé (75%). Maladie grave chez l'enfant voire **mortelle chez le nourrisson**.
 : L'immunité post-infectieuse de la coqueluche dure 10 à 15 ans, par **vaccination 5 à 10 ans**.
 : **Cas groupés** de coqueluche quand au moins 2 cas en collectivité. Les cas groupés doivent être notifié au [médecin inspecteur de santé publique de l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}).
 
@@ -72,19 +72,21 @@ SPILF
 - Transmission aérienne directe, intra-familiale +++  
   Contamination maximale pendant la phase catarrhale.
 - Contamination nulle après 3 semaines sans traitement, 3 jours d'azithromycine ou 5 jours d'autre antibiotique efficace
+- **Apyréxie**
 - Diagnostic de coqueluche sur 3 critères:
     1. Déroulement de la maladie
     2. Caractères de la toux
     3. Identification des contaminateurs
-- Diagnostic différentiel  
+- **Diagnostic différentiel** de la coqueluche  
   - Infection (Mycoplasme ou Chlamydia)
   - [Grippe]({{< relref "grippe.md" >}})
   - [Tuberculose]({{< relref "tuberculose.md" >}})
   - [Sinusite]({{< relref "sinusite.md" >}})
   - Allergique: allergie, [asthme]({{< relref "asthme.md" >}}), pneumopathie interstitielle diffuse
   - [Reflux gastrique]({{< relref "reflux-gastro-oesophagien.md" >}})
-  - Tumeur, corps étranger, iatrogène (IEC, bêtabloquant)
-  - Psychogène
+  - Tumeur, corps étranger
+  - Iatrogène: IEC, bêtabloquant
+  - Toux psychogène
 
 ### Cas possible de coqueluche selon l'ECDC
 
@@ -160,7 +162,7 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 
 > Délai minimal d'un mois entre 2 doses de vaccin coquelucheux
 
-{{< table title="Recommandations vaccinales contre la coqueluche selon Calendrier vaccinal 2022" class="table-wrap" >}}
+{{< table title="Recommandations vaccinales contre la coqueluche selon Calendrier vaccinal 2023" class="table-wrap" >}}
 | Âge                         | Spécialités                                                    | Commentaire                             |
 |-----------------------------|----------------------------------------------------------------|-----------------------------------------|
 | 2 mois                      | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
@@ -174,12 +176,12 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 | Coqueluche                  | Pas de rappel nécessaire dans les 10 ans                       | Sauf coqueluche du nourrisson           |
 {{< /table >}}
 
-> **Cocooning:** rappel en l'absence de vaccination pendant la grossesse avant 25 ans si dernière dose a +5 ans, si rappel a +10 ans ensuite  
-**Professionnels de santé:** ajouter la coqueluche à chaque rappel du dTPolio (45 et 65 ans) + 1 dose si dernière dose réalisée ≤ 18 ans et date de +5 ans.
+> **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse (si amené à s'occuper de l'enfant durant les 6 premiers mois) avant 25 ans si dernière dose a +5 ans, si rappel a +10 ans ensuite  
+**Professionnels de santé et de la petite enfance:** ajouter la coqueluche à chaque rappel du dTPolio (45 et 65 ans) + 1 dose si dernière dose réalisée ≤ 18 ans et date de +5 ans.
 
 La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
 
-La vaccination contre la coqueluche fait partie des vaccins obligatoires pour les enfants nés à partir du 1er janvier 2018 (voir [vaccination]({{< relref "vaccination.md" >}})).
+La vaccination contre la coqueluche fait partie des 11 vaccins obligatoires pour les enfants nés à partir du 1er janvier 2018 (voir [vaccination]({{< relref "vaccination.md" >}})).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la coqueluche" %}}
@@ -203,7 +205,7 @@ Prise en charge de la coqueluche:
 Antibiothérapie de la coqueluche: uniquement dans les 3 premières semaines d'évolution pour réduire la contagiosité.  
 Ne traiter un *B. parapertussis* pauci-symptomatique qu'en présence de personne à risque dans son entourage.
 
-Antibiotique de la classe macrolides (possibles pendant la grossesse):
+Antibiotique de la classe macrolides possibles pendant la grossesse ([CRAT](http://lecrat.fr/articleSearchSaisie.php?recherche=azithro)):
 
 - Azithromycine 250 mg x 2/j pendant 3 jours  
   ou 1 dose-kg/jour
@@ -239,15 +241,12 @@ Antibioprophylaxie des contacts du cas la plus précoce possible, jusqu'à 21 jo
 {{% /collapse %}}
 {{%sources%}}
 
-- [HCSP. Conduite à tenir autour d'un ou plusieurs cas de coqueluche. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1265)
 - {{< references/calendrier-vaccinal >}}
+- [HCSP. Conduite à tenir autour d'un ou plusieurs cas de coqueluche. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1265)
 - [SPILF. Info-antibio N°92. Mai 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)
-- [HCSP. Conduite à tenir devant un ou plusieurs cas de coqueluche. 2008.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=36)
-- [ECDC. Pertussis](https://www.ecdc.europa.eu/en/pertussis)
-
-### À lire
-
 - [CMIT. Coqueluche. Item 163. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-163-web.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU). Coqueluche. Item 163. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/coqueluche)
+- [HCSP. Conduite à tenir devant un ou plusieurs cas de coqueluche. 2008.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=36)
+- [ECDC. Pertussis](https://www.ecdc.europa.eu/en/pertussis)
 
 {{%/sources%}}

@@ -2,21 +2,21 @@
 title = "Fièvre jaune"
 prefix = "la "
 noindex = true
-description = "Recommandations pour la prévention de la fièvre jaune par vaccination. Pour un voyage, qui vacciner et où se vacciner contre la fièvre jaune ?"
+description = "Recommandations pour la prévention de la fièvre jaune par vaccination. Pour un voyage, qui vacciner et où se vacciner contre la fièvre jaune"
 synonyms = ["Fièvre amarile, typhus amaril, vomito negro"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-12T08:55:00+02:00"
 publishdate = "2021-02-12"
-lastmod = "2022-04-27"
+lastmod = "2023-04-14"
 specialites = ["infectiologie"]
-annees = "2022"
+annees = "2023"
 sources = ["MinSanté"]
 tags = ["vaccin", "voyage"]
 anglais = ["Yellow fever"]
 sctid = "16541001"
 icd10 = "A95.9"
 image = true
-imageSrc = "James Gathany, domaine public via Wikimedia Commons"
+imageSrc = "Moustique de la fièvre jaune, Aedes aegypti en cours d'aspiration. James Gathany, domaine public via Wikimedia Commons"
 todo = "clinique"
 +++
 
@@ -24,14 +24,14 @@ todo = "clinique"
 
 Maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}).
 
-Vaccination:
+Vaccination contre la fièvre jaune:
 
-- obligatoire pour tout séjour en Guyane, dès 9 mois
-- recommandée voire obligatoire pour de nombreux pays
-- réalisée en centre de vaccination internationale
-- au moins 10 jours avant le départ
-- par 1 dose unique
-- associée à la prévention contre les moustiques
+- Obligatoire pour tout séjour en Guyane, dès 9 mois
+- Recommandée voire obligatoire pour de nombreux pays
+- Réalisée en centre de vaccination internationale
+- Au moins 10 jours avant le départ
+- Par 1 dose unique
+- Associée à la prévention contre les moustiques
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -49,14 +49,17 @@ PVVIH
 {{% /collapse %}}
 {{%collapse "Personnes à vacciner" %}}
 
-- Résident en Guyane  
-  Obligatoire si > 1 an.
-  - Rappel à 6 ans si vacciné avant 2 ans
-  - Rappel à 10 ans si vaccinés pendant grossesse, [PVVIH]({{< relref "vih-sida.md" >}})
+Personnes éligibles à la vaccination contre la fièvre jaune:
+
+- Résidant en Guyane
+  - Nourrisson de 9 à 24 mois: une dose puis rappel à partir de 6 ans (délai max 10 ans)
+  - Vaccination obligatoire chez le +1 an
+  - Rappel à l'âge de 6 ans si vacciné avant l'âge de 2 ans
+  - Rappel à 10 ans si vacciné pendant grossesse ou [PVVIH]({{< relref "vih-sida.md" >}})
   - Rappel à 10 ans si immunodépression avec suivi du taux d'anticorps ± nouveau rappel.
-  - Rappel si vaccination date de > 10 ans ET circulation active du virus.
+  - Rappel si vaccination date de +10 ans ET circulation active du virus.
 - Voyage en Guyane  
-  Obligatoire si > 1 an.
+  Obligatoire chez le +1 an.
 - Personnel de laboratoire manipulant du virus de fièvre jaune  
   Rappel à 10 ans.
 - Voyage  
@@ -64,7 +67,8 @@ PVVIH
 
 > *Calendrier vaccinal*
 
-**NB.** Vaccin vivant contre-indiqué chez l'immunodéprimé et la femme allaitante.
+Vaccin vivant contre-indiqué chez l'immunodéprimé et la femme allaitante
+{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Voyage - Faut-il vacciner contre la fièvre jaune ?" %}}

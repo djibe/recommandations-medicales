@@ -7,10 +7,10 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2023-01-23"
+lastmod = "2023-04-14"
 specialites = ["infectiologie"]
-annees = "2022"
-sources = ["HAS", "MinSanté"]
+annees = "2023"
+sources = ["MinSanté", "HAS"]
 tags = ["BPCO", "obesite", "prevention", "vaccin"]
 anglais = ["influenza", "flu"]
 sctid = "6142004"
@@ -22,8 +22,8 @@ todo = "grippe grossesse, antiviral"
 
 {{%article-summary%}}
 
-- Vaccination annuelle contre la grippe des personnes à risque de forme grave à partir de mi-octobre (en métropole). Prolongation exceptionnelle de la campagne jusqu'au 31/03/2023
-- Le vaccin ne donne évidemment pas de syndrome grippal puisqu'il ne contient que quelques protéines virales
+- Vaccination annuelle contre la grippe des personnes à risque de forme grave (+65 ans, grossesse, ...) à partir de mi-octobre (en métropole). Prolongation exceptionnelle de la campagne jusqu'au 31/03/2023
+- Le vaccin ne donne évidemment pas de syndrome grippal puisqu'il ne contient que quelques protéines de surface virales
 - Le rappel antigrippal est couplé à la vaccination Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*)
 
 {{%/article-summary%}}
@@ -56,7 +56,7 @@ Diagnostics à étayer devant un tableau de toux aiguë:
 
 - 10.000 morts/an dont +90% chez les +65 ans.
 - Couverture vaccinale 2019-2020 des personnes à risque: 45% (objectif OMS 75%).
-- Admis en réanimation: mortalité de 20%.
+- Admis en réanimation pour grippe: mortalité de 20%.
 
 {{%/collapse%}}
 {{%collapse "Personnes à risque de grippe grave" %}}
@@ -67,10 +67,10 @@ Vaccination annuelle en octobre pour les personnes à risque de grippe grave.
 Bon de prise en charge à 100% n°850 sur Ameli pro.
 {{%/info%}}
 
-Sujets à risque de forme grave de grippe saisonnière:
+Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination antigrippale est recommandée chaque année:
 
-- +65 ans
-- Femmes enceintes
+- **+65 ans**
+- **Femmes enceintes**
 - Diabètes de [type 1]({{< relref "diabete-type-1.md" >}}) et de [type 2]({{< relref "diabete-type-2.md" >}})
 - Obésité morbide (IMC ≥ 40 kg/m<sup>2</sup>)
 - Maladies respiratoires
@@ -101,6 +101,10 @@ Sujets à risque de forme grave de grippe saisonnière:
 
 > {{< references/calendrier-vaccinal >}}
 
+### Vaccination anti-grippale des enfants
+
+> La vaccination contre la grippe << peut être proposée chaque année à tous les enfants âgés de 2 à 17 ans révolus. Dans cette tranche d'âge, il est recommandé d'utiliser préférentiellement le vaccin administré par voie intranasale Fluenz Tetra® >> (*Calendrier vaccinal 2023*) qui n'est évidemment pas disponible en France.
+
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
@@ -128,12 +132,14 @@ Aucun examen complémentaire devant un tableau de grippe saisonnière non compli
 {{%/collapse%}}
 {{%collapse "Vaccins disponibles pour la campagne de vaccination 2022-2023" %}}
 
-Vaccins contre la grippe disponibles en France:
+Vaccins contre la grippe disponibles en France pour la campagne vaccinale:
 
 - Efluelda® (+60 ans)
 - FlurarixTetra®
 - InfluvacTetra®
 - VaxigripTetra®
+
+Le vaccin intranasal Fluenz Tetra® n'est pas disponible en France.
 
 La campagne de vaccination débute le <mark>18 octobre 2022</mark> et est [poursuivie jusqu'au 31 mars 2023](httphttps://www.service-public.fr/particuliers/actualites/A15259).
 
@@ -174,12 +180,10 @@ L'oseltamivir doit être débuté dans les 48 heures suivant l'apparition des sy
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [Ameli Médecin. Grippe : vacciner ses patients atteints de maladies chroniques est essentiel. 08/11/2022.](https://www.ameli.fr/medecin/actualites/grippe-vacciner-ses-patients-atteints-de-maladies-chroniques-est-essentiel)
 - [Ameli Médecin. Vaccination contre la grippe saisonnière : une FAQ pour répondre aux interrogations des patients. 18/10/2022.](https://www.ameli.fr/medecin/actualites/vaccination-contre-la-grippe-saisonniere-une-faq-pour-repondre-aux-interrogations-des-patients)
 - Prescrire Redaction. Grippe saisonnière. Prescrire. Août 2022.
-- {{< references/calendrier-vaccinal >}}
-- [HAS. Vaccination antigrippale : la stratégie de la prochaine campagne annuelle réaffirmée dans le contexte de l'épidémie de COVID-19. 02/06/2020.](https://www.has-sante.fr/jcms/p_3187536/fr/vaccination-antigrippale-la-strategie-de-la-prochaine-campagne-annuelle-reaffirmee-dans-le-contexte-de-l-epidemie-de-covid-19)
-- [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe ! 13/05/2020.](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
 - [SPILF. Prise en charge de la grippe en dehors d'une situation de pandémie en 2005. Médecine et Maladies Infectieuses. 2005.](https://www.sciencedirect.com/science/article/pii/S0399077X05002064)
 
 ### À lire

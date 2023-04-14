@@ -7,7 +7,7 @@ synonyms = ["Papillomavirus humains HPV", "dysplasies et condylomes"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2021-01-18T10:55:00+02:00"
 publishdate = "2022-04-20"
-lastmod = "2023-03-27"
+lastmod = "2023-04-14"
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
 sources = ["INCa", "HAS", "MinSanté"]
@@ -233,11 +233,11 @@ En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md"
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [Inserm. Papillomavirus : faut-il généraliser la vaccination ?. 27/03/2023.](https://www.inserm.fr/actualite/papillomavirus-faut-il-generaliser-la-vaccination/)
 - [Service-Public. Papillomavirus : vaccination généralisée à la rentrée 2023 pour les élèves de 5e. 07/03/2023.](https://www.service-public.fr/particuliers/actualites/A16438?xtor=EPR-100)
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Hanguehard R. et al. Couverture vaccinale contre les infections à papillomavirus humain des filles âgées de 15 à 18 ans et déterminants de vaccination, France, 2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_3.html)
-- {{< references/calendrier-vaccinal >}}
 - [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. 24/01/2022.](https://www.e-cancer.fr/Professionnels-de-sante/Facteurs-de-risque-et-de-protection/Agents-infectieux/Prevenir-les-cancers-lies-aux-HPV)
 - [INCa. Le dépistage du cancer du col de l'utérus en pratique. Collection Outils pour la pratique. Décembre 2020. (PDF)](https://www.e-cancer.fr/content/download/307096/4383798/file/Outil-Pratique-Uterus-2021-@%20DEF%2012032021.pdf)
 - [INCa. Dépistage et prévention de cancer du col de l'utérus - Rôle du médecin et de la sage-femme. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Depistage-et-prevention-de-cancer-du-col-de-l-uterus-Role-du-medecin-et-de-la-sage-femme)
