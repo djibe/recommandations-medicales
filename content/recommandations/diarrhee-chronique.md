@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-22T19:42:41+02:00"
 publishdate = "2020-07-22"
-lastmod = "2023-04-12"
+lastmod = "2023-04-14"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["BSG", "Collège"]
@@ -46,7 +46,7 @@ TIF
 
 ### Diagnostic différentiel d'une diarrhée chronique
 
-- Fausse diarrhée du constipé, fécalome
+- **Fausse diarrhée du constipé**, fécalome
 - [Incontinence fécale]({{< relref "incontinence-fecale.md" >}})
 - Syndrome rectal ou poly-exonération secondaire à un trouble du plancher pelvien  
   Défécation difficile (dyschésie) et/ou prolapsus. La consistance des selles est normale.
@@ -75,7 +75,7 @@ Rechercher à l'examen les arguments en faveur des causes suivantes de diarrhée
 - [Syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}})
 - Origine biliaire
 - Diététique
-  - FODMAP, [intolérance au lactose]({{< relref "intolerance-lactose.md" >}}) ou fructose
+  - FODMAP (voir intestin irritable ci-dessus), [intolérance au lactose]({{< relref "intolerance-lactose.md" >}}) ou fructose
   - Édulcorants (sodas, bonbons, chewing gum)
   - Caféine
   - [Alcool]({{< relref "sevrage-alcool.md" >}})
@@ -88,7 +88,7 @@ Rechercher à l'examen les arguments en faveur des causes suivantes de diarrhée
 - Cause sécrétoire
 - Diarrhée fonctionnelle
 
-### Causes peu fréquentes
+### Causes plus rares de diarrhée chronique
 
 - Pullulation microbienne grêlique
 - Ischémie mésentérique
@@ -187,24 +187,45 @@ La prise en charge d'une diarrhée chronique est surtout étiologique.
 
 ### Prise en charge de la diarrhée chronique
 
-Mesures à proposer en cas de diarrhée chronique, en parallèle du bilan étiologique:
+Mesures à proposer pour la prise en charge de la diarrhée chronique, en parallèle du bilan étiologique:
 
 [Guide d'information du patient du CREGG sur la diarrhée chronique (PDF)](https://www.cregg.org/wordpress/wp-content/uploads/2012/06/documents-tinymce-00004-fiche-diarrhe.pdf)
 
-### Aliments privilégiés en cas de diarrhée chronique
+Boire normalement (1,5 L/j) et éviter le jeûne (pullulation microbienne avec ballonnements).
+
+#### Aliments privilégiés en cas de diarrhée chronique
 
 - Eau du robinet
 - Thym, laurier, cumin
-- Produits laitiers: yaourt nature, fromage blanc, petit suisse, fromage à pâte dure et fondus
-- Viandes: toutes les volailles et poissons, bœuf, jambon blanc dégraissé, œufs
+- Produits laitiers  
+  Yaourt nature, fromage blanc, petit suisse, fromage à pâte dure et fondus, lait enrichi en probiotiques.
+- Viandes  
+  Toutes les volailles et poissons, bœuf, jambon blanc dégraissé, œufs.
+- Féculents  
+  Pâtes, riz, pommes de terre, farine type 45, maïzena, tapioca.
+- Légumes  
+  Cuits: carotte, courgette, betterave, aubergine, haricots verts.
+- Fruits  
+  Banane, poire, coing en compote ou confiture mi-cuite.
+- Huiles: toutes
 
-### Aliments à éviter en cas de diarrhée chronique
+#### Aliments à éviter en cas de diarrhée chronique
 
-- Boissons: eaux minérales, café, thé, sodas, jus de fruits très froids
+- Boissons  
+  Eaux minérales, café, thé, sodas, jus de fruits très froids.
 - Persil, cerfeuil
 - Vinaigre, moutarde, muscade, poivre, cornichons
-- Produits laitiers: tous les laits, yaourt fermenté, crème dessert, fromage crémeux
-- Viandes: moutons, agneau, viandes et poissons fumés, panés, fritures, charcuteries, poissons marinés ou à l'huile, plats en sauce, hamburger
+- Produits laitiers  
+  Tous les laits, yaourt fermenté, crème dessert, fromage crémeux.
+- Viandes  
+  Grasses (mouton, agneau), viandes et poissons fumés, panés, fritures, charcuteries, poissons marinés ou à l'huile, plats en sauce, hamburger.
+- Féculents  
+  Légumineuses (lentilles, haricots rouges ou blancs, pois chiches), pain complet ou céréales, frites, chips, plats cuisinés, viennoiseries, pâtisseries.
+- Légumes: tous les autres légumes
+- Fruits  
+  Tous les autres fruits, fruits secs et oléagineux (amandes, noix ...)
+- Matières grasses  
+  Cuites, grosse quantité, aliments gras (charcuterie, viennoiserie), mayonnaise, crème fraîche.
 
 > *CREGG*
 

@@ -340,7 +340,7 @@ Les effets indésirables graves sont rares: allongement QT, IDM, NOIAA (3/100.00
 
 Les IPDE5 sont le traitement de première intention de la dysfonction érectile.
 
-[Tadalafil 10 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67515025&typedoc=R) (Cialis®, gén). Possibilité d'augmenter à **20 mg**. Max 1 prise par jour (délai 30 min, efficace 12 heures, [contrôler les interactions](https://www.drugs.com/interaction/list/?drug_list=2144-0)).  
+[Tadalafil 10 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67515025&typedoc=R) (Cialis®, gén). Possibilité d'augmenter à **20 mg** (max 1/j, délai 30 min, efficace 12 heures, [contrôler les interactions](https://www.drugs.com/interaction/list/?drug_list=2144-0)).  
 Pas de retard absorptif dus à l'alimentation ou l'alcool.
 {.alert .alert-info}
 
@@ -353,7 +353,7 @@ Proposer le tadalafil en continu si traitement efficace et ≥ 2 utilisations pa
 Il améliore également les troubles du bas appareil urinaire de l'homme (SBAU).
 
 Autres IPDE5 à la demande: vardénafil, avanafil (Spedra®).  
-Les IPDE5 ont une efficacité de 65-85 % (52-72% en cas de diabète et élevée après prostatectomie) et le même profil de sécurité / tolérance.
+Les IPDE5 ont une efficacité de 65 à 85% (52-72 % en cas de diabète et toujours élevée après prostatectomie) et le même profil de sécurité / tolérance.
 
 {{%info%}}
 
@@ -363,12 +363,11 @@ Les informations suivantes doivent être données au patient, car il s'agit d'un
 
 - Facilitateur de l'érection, à la demande ou en continu selon la molécule, nécessitant une stimulation sexuelle
 - L'effet peut être visible dès la 1<sup>re</sup> prise mais les résultats peuvent s'améliorer au fil du traitement
-- Pas d'obligation d'activité après la prise du traitement. Efficacité prolongée de 5 heures (12 pour le tadalafil)
+- La prise du traitement n'oblige pas à un rapport. Efficacité prolongée de 5 heures (12 pour le tadalafil)
 - Nécessite au moins 4-6 essais avant échec. Réévaluation systématique à 1-2 mois
-- Acheter le traitement uniquement en pharmacie (mais comparer différentes pharmacies)
-- Autres traitements disponibles en cas d'absence de réponse
+- Acheter le traitement uniquement en pharmacie (prix libre = comparer les pharmacies)
+- Autres traitements disponibles en cas d'inefficacité
 - Nécessite le souhait partagé d'un rapport et d'attendre l'absorption intestinale, la durée d'efficacité permet d'avoir le temps
-- La prise du traitement n'oblige pas à un rapport
 
 {{%/info%}}
 
