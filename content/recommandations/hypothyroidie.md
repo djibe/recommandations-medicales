@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-14T23:30:41+02:00"
 publishdate = "2020-04-14"
-lastmod = "2023-03-27"
+lastmod = "2023-04-17"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["HAS", "SFE"]
@@ -17,7 +17,7 @@ icd10 = "E03.9"
 image = true
 imageSrc = "Illustration de l'hypothyroïdie par storyset / Freepik"
 flowchart = true
-todo = "SEO, lire reco complète"
+todo = "SEO, fdr K thyroïde"
 +++
 
 {{%article-summary%}}
@@ -55,7 +55,7 @@ L'hypothyroïdie atteint 1 à 2% de la population, dont ⅔ de femmes et 10% des
 
 ### Étiologie d'une hypothyroïdie
 
-Pathologies responsables d'hypothyroïdie:
+Pathologies responsables d'hypothyroïdie, le plus souvent par insuffisance thyroïdienne primitive (dite hypothyroïdie primaire ou périphérique):
 
 - **Thyroïdite lymphocytaire chronique de Hashimoto**
   - Forme hypertrophique prédominante chez la femme
@@ -82,7 +82,8 @@ Pathologies responsables d'hypothyroïdie:
   - Souvent transitoire (70%), contrôle TSH à 1 an
   - Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le 2e mois post-partum (reprise rapide du poids normal, nervosité)
 - Autres causes
-  - Centrale (insuffisance thyréotrope)
+  - Hypothyroïdie centrale (hypothyroïdie secondaire par **insuffisance thyréotrope**)  
+    T4L basse avec TSH anormalement basse ou normale. Rare (< 5% des hypothyroïdies), contexte hypophysaire ou cérébral.
   - Iatrogène  
     Médicaments ou traitement thyroïdien par iode 131, thyroïdectomie et radiothérapie cervicale.
   - Hémochromatose
@@ -120,7 +121,7 @@ SFE
 : Société française d'endocrinologie
 
 T4
-: thyroxine (3-5-3'-5'tétra-iodothyronine)
+: thyroxine (3-5-3'-5'tétra-iodothyronine, fT4 en anglais)
 
 T4L
 : T4 libre
@@ -417,9 +418,12 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS. Prise en charge des hypothyroïdies. Recommander les bonnes pratiques. 2022.](https://www.has-sante.fr/jcms/p_3216305/fr/prise-en-charge-des-dysthyroidies-chez-l-adulte)
+{{< youtube id="Gu8imkANZL4" title="La minute RECO HAS | Hypothyroïdies : les points clés de la prise en charge (Pr Philippe Cornet)" >}}
+
+- [HAS. Prise en charge des hypothyroïdies chez l'adulte. Recommander les bonnes pratiques. 2022.](https://www.has-sante.fr/jcms/p_3216305/fr/prise-en-charge-des-dysthyroidies-chez-l-adulte)
 - [ANSM. Les médicaments à base de lévothyroxine disponibles en France. 17/01/2023.](https://ansm.sante.fr/dossiers-thematiques/les-medicaments-a-base-de-levothyroxine-disponibles-en-france-1/les-medicaments-a-base-de-levothyroxine-disponibles-en-france)
-- [HAS. Quelle imagerie pour les pathologies de la thyroïde. 28/09/2021.](https://www.has-sante.fr/jcms/p_3288963/fr/quelle-imagerie-pour-les-pathologies-de-la-thyroide)
+- [HAS. Exploration des pathologies thyroïdiennes chez l'adulte : pertinence et critères de qualité de l'échographie, pertinence de la cytoponction échoguidée. 2021.](https://www.has-sante.fr/jcms/p_3288393/fr/exploration-des-pathologies-thyroidiennes-chez-l-adulte-pertinence-et-criteres-de-qualite-de-l-echographie-pertinence-de-la-cytoponction-echoguidee)
+- {{< references/college-endocrino >}}
 - [Goichot B et al; SFE. Management of thyroid dysfunctions in the elderly. French Endocrine Society consensus 2019. Short version. Ann Endocrinol. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S0003426620300883)
 - [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 2019.](https://jamanetwork.com/journals/jama/fullarticle/2753909)
 - [HAS. Hypothyroïdie – pertinence des soins. Mars 2019.](https://www.has-sante.fr/portail/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
@@ -428,7 +432,6 @@ graph TB
 
 ### À lire
 
-- [HAS. Exploration des pathologies thyroïdiennes chez l'adulte : pertinence et critères de qualité de l'échographie, pertinence de la cytoponction échoguidée. 2021.](https://www.has-sante.fr/jcms/p_3288393/fr/exploration-des-pathologies-thyroidiennes-chez-l-adulte-pertinence-et-criteres-de-qualite-de-l-echographie-pertinence-de-la-cytoponction-echoguidee)
 - [Olivier Petit I. Interprétation d'un bilan thyroïdien limite chez l'enfant (après 3 ans). Pas à Pas en Pédiatrie. 2021.](https://pap-pediatrie.fr/endocrinologie/interpretation-dun-bilan-thyroidien-limite-chez-lenfant-apres-3-ans)
 - [Castanet M, Cuny A. Perturbation du bilan thyroïdien. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/endocrinologie/perturbation-du-bilan-thyroidien)
 

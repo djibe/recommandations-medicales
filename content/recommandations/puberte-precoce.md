@@ -207,7 +207,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- Société Française d'Endocrinologie. Polycopié des enseignants en endocrinologie - Puberté normale et pathologique.
+- {{< references/college-endocrino >}}
 - [Collège National des Pédiatres Universitaires. Puberté normale et pathologique.](http://campus.cerimes.fr/media/campus/deploiement/pediatrie/enseignement/puberte_normale/site/html/1.html)
 - [Pienkowski C. et al. La puberté avant l'âge - Nouveaux aspects. (PDF)](http://www.medecine.ups-tlse.fr/desc/fichiers/Puberte%20precoce.pdf)
 

@@ -631,6 +631,7 @@ Le traitement hormonal de la ménopause (THM):
 - [Crandall CJ. et al. Management of Menopausal Symptoms: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2801054)
 - [Hocke C. et al. Syndrome génito-urinaire de la ménopause (SGUM). RPC les femmes ménopausées du CNGOF et du GEMVi. Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000775)
 - [ACOG. Treatment of Urogenital Symptoms in Individuals With a History of Estrogen-dependent Breast Cancer. 2021.](https://www.acog.org/clinical/clinical-guidance/clinical-Consensus/articles/2021/12/Treatment-of-Urogenital-Symptoms-in-Individuals-With-a-History-of-Estrogen-dependent-Breast-Cancer)
+- {{< references/college-endocrino >}}
 - [ACOG. Postmenopausal Estrogen Therapy Route of Administration and Risk of Venous Thromboembolism. 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/04/postmenopausal-estrogen-therapy-route-of-administration-and-risk-of-venous-thromboembolism)
 - [HAS. Traitements hormonaux de la ménopause. Communiqués de presse. 16/07/2014.](https://www.has-sante.fr/jcms/c_1754596/fr/traitements-hormonaux-de-la-menopause)
 - [International Menopause Society. Papers, Recommendations & Statements](https://www.imsociety.org/statements/)

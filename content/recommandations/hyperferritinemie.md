@@ -239,6 +239,10 @@ accTitle: Prise en charge diagnostique d'une hyperferritinémie d'après SNFGE 2
 - [Brissot P. Diagnostic d'une hyperferritinémie. 2012. (PDF)](https://www.hemochromatose.org/wp-content/uploads/2012/12/hyperferritinemie.pdf)
 - [Centre de référence des hémochromatoses.](https://centre-reference-fer-rennes.org/)
 
+### À lire
+
+{{< references/college-endocrino >}}
+
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
 

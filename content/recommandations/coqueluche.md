@@ -6,7 +6,7 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2023-04-14"
+lastmod = "2023-04-17"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HCSP", "SPILF", "HAS"]
@@ -17,6 +17,7 @@ icd10 = "A37"
 image = true
 imageSrc = "Illustration de la coqueluche par Freepik"
 todo = "https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -126,7 +127,7 @@ Caractères évocateurs: notion de contage, recrudescence nocturne et insomniant
 
 Bilan biologique avec hyperlymphocytose +10 G/L évocatrice de coqueluche mais inconstante. Pas de syndrome inflammatoire.
 
-Radiographie thoracique selon le tableau clinique.
+**Radiographie thoracique** selon le tableau clinique.
 
 ### PCR coqueluche
 
@@ -237,6 +238,18 @@ Antibioprophylaxie des contacts du cas la plus précoce possible, jusqu'à 21 jo
   - Cas-index à *B. parapertussis*: ne pas traiter un contact asymptomatique sauf si personnes à risque dans son entourage
 - Éviction de collectivité  
   Retour possible en collectivité après 5 jours d'antibiothérapie (3 jours si azithromycine) ou 21 jours de toux.
+
+{{% /collapse %}}
+{{%collapse "Prise en charge d'une coqueluche" "show" %}}
+
+{{< mermaid title="Prise en charge d'un cas de coqueluche. Dr JB Fron d'après HCSP 2022 et CMIT" >}}
+graph TB
+  suspicion["<b>Suspicion de coqueluche<br>et vaccination +10 ans</b><br>—<br>- Toux émétisante<br>- Recrudescence nocturne<br>- Toux paroxystique ≥ 7j<br>- Contage"] --> durée(Durée de la toux ?)
+  style suspicion stroke:#4150f5, stroke-width:1px
+    durée -- "&lt; 15j" --> les2(PCR et culture)
+    durée -- 15-21j --> PCR(PCR)
+    durée -- &gt; 21j --> Clinique
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}

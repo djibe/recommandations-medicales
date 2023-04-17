@@ -241,12 +241,13 @@ graph TB
 {{%sources%}}
 
 - [HAS. Insuffisance ovarienne prématurée / primitive (en dehors du syndrome de Turner). Mars 2021.](https://www.has-sante.fr/jcms/p_3264990/fr/insuffisance-ovarienne-prematuree-iop)
-- [Trémollieres F. et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://doi.org/10.1016/J.GOFS.2021.03.010)
-- [Christin-Maitre S. et al. L'insuffisance ovarienne prématurée. Orphanet. 2006.](https://www.orpha.net/data/patho/Pro/fr/InsuffisanceOvariennePrematuree-FRfrPro2307v01.pdf)
+- [Trémollieres F et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000593)
+- [Christin-Maitre S et al. L'insuffisance ovarienne prématurée. Orphanet. 2006. (PDF)](https://www.orpha.net/data/patho/Pro/fr/InsuffisanceOvariennePrematuree-FRfrPro2307v01.pdf)
 
 ### À lire
 
 - [ACOG. Primary Ovarian Insufficiency in Adolescents and Young Women. 2021.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/07/primary-ovarian-insufficiency-in-adolescents-and-young-women)
+- {{< references/college-endocrino >}}
 - [ESHRE. Management of women with premature ovarian insufficiency. 2015.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Management-of-premature-ovarian-insufficiency)
 
 {{%/sources%}}

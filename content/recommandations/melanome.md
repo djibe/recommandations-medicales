@@ -98,7 +98,7 @@ Pour toutes les personnes à risque: auto-examen cutané tous les 3 mois et cons
   - Sensibilité au soleil (coups de soleil fréquents, bronze peu)
 - Photo-exposition solaire (UV, latitude)  
   Brûlures dans l'enfance (cloques) ++
-- Antécédents familiaux de cancer cutané (5-10% ont un caractère familial)
+- **Antécédents familiaux de cancer cutané** (5-10% ont un caractère familial)
 - Antécédent personnel de mélanome  
   Risque de 2<sup>e</sup> de 5 à 8%.
 - Immunodépression

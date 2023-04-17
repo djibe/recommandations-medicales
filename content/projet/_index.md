@@ -18,7 +18,7 @@ chart = true
   importance="high"
   fetchpriority="high"
   alt="RecoMédicales: le projet"
-  aria-hidden="true">
+  role="img">
 
 Je suis Jean-Baptiste Fron, médecin généraliste diplômé à Lille en 2014. En parallèle de mon activité de médecin généraliste, je maintiens depuis 2019 le projet RecoMédicales. Vous trouvez actuellement +160 fiches pratiques que j'ai compilées à partir des publications des sociétés savantes de référence et que j'essaie de faire valider par des spécialistes du domaine.
 {.typography-body-1}
