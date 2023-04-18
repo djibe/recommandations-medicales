@@ -8,7 +8,7 @@ date = "2022-01-23T14:00:00+02:00"
 publishdate = "2022-01-27"
 lastmod = "2023-02-17"
 specialites = []
-sources = ["CNAM", "Insee"]
+sources = ["CNAM", "CARMF", "Insee"]
 tags = []
 chart = true
 image = true
@@ -27,15 +27,15 @@ Avec la forte inflation intervenue en 2022, la consultation, toujours affichée 
 
 ### Éléments à retravailler sur cette page
 
-Ce qui manque: la comparaison avec l'évolution du salaire médian des cadres (corrigé sur l'âge serait un plus, le revenu serait également mieux). En effet les jeunes cadres tirent fortement la médiane des revenus vers le bas alors que les jeunes médecins ... n'existent pas et qu'à l'inverse ils ne bénéficient d'aucune progression sur la carrière. Le temps de travail des cadres serait également intéressant.
+Ce qui manque: la comparaison avec l'évolution du salaire médian des cadres (corrigé sur l'âge serait un plus, le revenu serait également mieux). En effet les jeunes cadres tirent fortement la médiane des revenus vers le bas alors que les jeunes médecins ... n'existent pas et qu'à l'inverse, ils ne bénéficient d'aucune progression sur la carrière. Le temps de travail des cadres serait également intéressant.
 
 Ce que sera délicat à traiter: l'augmentation des prélèvements obligatoires, des loyers, des revenus.
 
-Ce qui nécessitera un autre travail: l'évolution de l'activité des praticiens, le nombre de patients en ALD par médecin en activité régulière.
+Ce qui nécessitera un autre travail: l'évolution de l'activité des praticiens, le nombre de patients en ALD et de +60 ans par médecin en activité régulière.
 
 ## Graphique de l'historique des honoraires médicaux des médecins généralistes conventionnés secteur 1
 
-{{< figure-chart title="Évolution du prix d'une consultation chez le médecin généraliste en secteur 1 de 1980 à 2022. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après <a href='http://piketty.pse.ens.fr/fichiers/enseig/memothes/DeaMayneris2004.pdf' rel='external nofollow noopener'>Mayneris 2004 (PDF)</a> et <a href='https://www.insee.fr/fr/information/2417794' rel='external nofollow noopener'>Insee</a>" >}}
+{{< figure-chart title="Évolution du prix d'une consultation chez le médecin généraliste en secteur 1 de 1980 à 2022. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après <a href='http://www.carmf.fr/doc/publications/chronologie/2022/chronologie-2022.pdf' rel='external nofollow noopener'>CARMF 2022 (PDF)</a>, <a href='http://piketty.pse.ens.fr/fichiers/enseig/memothes/DeaMayneris2004.pdf' rel='external nofollow noopener'>Mayneris 2004 (PDF)</a> et <a href='https://www.insee.fr/fr/information/2417794' rel='external nofollow noopener'>Insee</a>" >}}
 
 <script>
 const chartOptions = {

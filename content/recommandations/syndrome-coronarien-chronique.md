@@ -212,7 +212,7 @@ Réévaluation du traitement à chaque consultation:
 
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (réduit la mortalité de 36%)
 - Réduction de l'alcool à moins de 10 verres par semaine
-- [Pression artérielle cible < 130/80 mmHg]({{< relref "hypertension-arterielle.md" >}})
+- Si HTA: [pression artérielle cible < 130/80 mmHg]({{< relref "hypertension-arterielle.md" >}})
 - {{< modal-btn modal-rcv >}}LDL cible (< 0,55 g/L et réduction de 50%){{< /modal-btn >}}
 - Correction d'un surpoids et d'une obésité abdominale
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}

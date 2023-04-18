@@ -171,7 +171,7 @@ Recherche une hypothyroïdie en cas de signes non spécifiques associés à:
 - Hypercholestérolémie inexpliquée
 - Chirurgie thyroïdienne, irathérapie ou radiothérapie cervicale
 - Antécédents personnels ou familiaux de maladie auto-immune: [diabète type 1]({{< relref "diabete-type-1.md" >}}), [dysthyroïdie](/tags/tsh/)
-- Syndrome de Down ou de Turner
+- Syndrome de Turner ou trisomie 21
 - [Grossesse]({{< relref "grossesse.md" >}}) ou désir de grossesse et {{< modal-btn modal-fdr-hypothyroidie >}}facteurs de risque d'hypothyroïdie{{< /modal-btn >}}
 
 {{%/collapse %}}

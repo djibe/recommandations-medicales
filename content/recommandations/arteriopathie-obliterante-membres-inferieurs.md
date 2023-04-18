@@ -267,7 +267,7 @@ Prise en charge de l'artériopathie (AOMI): Suivi cardiologique spécialisé, tr
 - Réadaptation vasculaire en centre voire par kinésithérapeute
 - {{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}}
   - {{< modal-btn modal-rcv >}}LDL cible < 0,55 g/L{{< /modal-btn >}} avec contrôle annuel
-  - Ajout d'ézétimibe voire evolocumab sur avis spécialisé
+  - Ajout d'ézétimibe voire anti-PCSK9 sur avis spécialisé
 - Clopidogrel 75 mg/j
   - Indications: claudication ou AOMI masquée, MCV, revascularisation du MI ou {{< modal-btn modal-rcv-diabete >}}diabète à haut RCV{{< /modal-btn >}}
   - Sinon aspirine 75-100 mg/j
@@ -294,7 +294,7 @@ Prise en charge de l'artériopathie (AOMI): Suivi cardiologique spécialisé, tr
   - PAD cible < 85 mmHg
   - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}} (*SFD 2019*, *SFMV 2020*)
   - ≤ 8% si comorbidité sévère ou espérance de vie < 5 ans
-  - AOMI symptomatique: envisager rivaroxaban 2,5 mg x 2/j + aspirine 100 mg/j (*ESC 2019 diabetes*)
+  - AOMI symptomatique: envisager rivaroxaban 2,5 mg x 2/j + aspirine 100 mg/j (*ESC 2021 CVD*)
 - [ALD n°3]({{< relref "affection-longue-duree.md" >}})  
   Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant nécessité revascularisation ou amputation.
 - {{< references/compare >}}

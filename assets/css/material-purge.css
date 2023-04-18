@@ -1298,21 +1298,6 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   border-radius: 0.875rem;
 }
 
-.btn .btn-icon-prepend {
-  display: inline-block;
-  fill: currentColor;
-  font-size: 1.125rem;
-  margin-right: 0.5rem;
-  margin-left: -0.25rem;
-  vertical-align: top;
-  width: 1.125rem;
-}
-
-.btn-icon-prepend [class*='btn-flat'],
-.btn-link .btn-icon-prepend {
-  margin-left: 0;
-}
-
 [class*='btn-flat'],
 .btn-link,
 .modal .btn {
@@ -2065,7 +2050,7 @@ input:disabled + .chip {
 .modal-content {
   background-clip: padding-box;
   background-color: #ffffff;
-  border-radius: 12px;
+  border-radius: 1.75rem;
   box-shadow: 0 24px 38px 3px rgba(0, 0, 0, 0.14), 0 9px 46px 8px rgba(0, 0, 0, 0.12), 0 11px 15px -7px rgba(0, 0, 0, 0.2);
   display: flex;
   flex-direction: column;
@@ -2103,8 +2088,8 @@ input:disabled + .chip {
 }
 
 .modal-header:first-child {
-  border-top-left-radius: 12px;
-  border-top-right-radius: 12px;
+  border-top-left-radius: 1.75rem;
+  border-top-right-radius: 1.75rem;
 }
 
 .modal-title {
@@ -2131,7 +2116,7 @@ input:disabled + .chip {
 }
 
 .modal-dialog-scrollable .modal-header + .modal-body {
-  padding: 0.5rem 1.5rem;
+  padding: 1.5rem 1.5rem;
 }
 
 .modal-body > :last-child {
@@ -2148,13 +2133,13 @@ input:disabled + .chip {
 }
 
 .modal-footer:first-child {
-  border-top-left-radius: 12px;
-  border-top-right-radius: 12px;
+  border-top-left-radius: 1.75rem;
+  border-top-right-radius: 1.75rem;
 }
 
 .modal-footer:last-child {
-  border-bottom-right-radius: 12px;
-  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 1.75rem;
+  border-bottom-left-radius: 1.75rem;
 }
 
 .modal-footer > * {

@@ -6,7 +6,7 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2023-04-17"
+lastmod = "2023-04-18"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HCSP", "SPILF", "HAS"]
@@ -218,7 +218,7 @@ Antibiotique de la classe macrolides possibles pendant la grossesse ([CRAT](http
 
 #### Allergie aux macrolides
 
-> Cotrimoxazole 800/160 mg x 2/j pendant 14 jours
+Cotrimoxazole 800/160 mg x 2/j pendant 14 jours
 
 Possible pendant la grossesse en association avec l'acide folique.
 
@@ -242,13 +242,15 @@ Antibioprophylaxie des contacts du cas la plus précoce possible, jusqu'à 21 jo
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une coqueluche" "show" %}}
 
-{{< mermaid title="Prise en charge d'un cas de coqueluche. Dr JB Fron d'après HCSP 2022 et CMIT" >}}
+{{< mermaid title="Prise en charge d'un cas de coqueluche à partir de l'adolescence. Dr JB Fron d'après HCSP 2022 et CMIT" >}}
 graph TB
-  suspicion["<b>Suspicion de coqueluche<br>et vaccination +10 ans</b><br>—<br>- Toux émétisante<br>- Recrudescence nocturne<br>- Toux paroxystique ≥ 7j<br>- Contage"] --> durée(Durée de la toux ?)
+  suspicion["<b>Suspicion de coqueluche<br>et vaccination +10 ans</b><br>—<br>- Toux émétisante ou<br> à recrudescence nocturne<br>- Toux paroxystique ≥ 7j<br>- Contage"] --> durée(Durée de la toux ?)
   style suspicion stroke:#4150f5, stroke-width:1px
-    durée -- "&lt; 15j" --> les2(PCR et culture)
-    durée -- 15-21j --> PCR(PCR)
-    durée -- &gt; 21j --> Clinique
+    durée -- "&lt; 15j" --> les2(PCR et culture) -- Positive --> traitement("- Éviction<br>- Mesures barrières<br>- Antibioprophylaxie<br> des contacts<br>- Macrolide 3-7j")
+    durée -- 15-21j --> PCR(PCR) -- Positive --> traitement
+      les2 -- Négative --> différentiel("<b>Diagnostic différentiel</b><br>—<br>- Mycoplasme, Chlamydia<br>- Grippe<br>- Tuberculose<br>- Sinusite<br>- Allergie<br>- RGO<br>- Tumeur<br>- Corps étranger<br>- Iatrogène<br>- Psychogène")
+      PCR -- Négative --> différentiel
+    durée -- &gt; 21j --> clinique(Clinique)
 {{< /mermaid >}}
 
 {{% /collapse %}}

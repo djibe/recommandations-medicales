@@ -1004,21 +1004,6 @@ legend {
   color: inherit;
 }
 
-#modal-contact {
-  .modal-content {
-    border-radius: 24px;
-  }
-  .modal-header {
-    flex-direction: column;
-  }
-  .modal-title {
-    color: var(--secondary-dark);
-    font-size: 2rem;
-    font-weight: 500;
-    margin-top: 2rem;
-  }
-}
-
 .navbar {
   border-bottom: 1px solid #e0e0e0;
   .input-group,

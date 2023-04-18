@@ -283,7 +283,7 @@ Interpréter en fonction des résultats le profil de dénutrition:
 - Gravité de la dénutrition (clinique, albuminémie, préalbuminémie, CRP)
 
 {{% /collapse %}}
-{{%collapse "Dénutrition du sujet âgé" %}}
+{{%collapse "Dénutrition du sujet âgé +70 ans" %}}
 
 Chez le plus de 70 ans, le dépistage de la dénutrition doit être au moins annuel (*HAS*)
 {.alert .alert-info}
