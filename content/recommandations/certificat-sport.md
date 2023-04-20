@@ -19,14 +19,16 @@ icd10 = "Z027"
 image = true
 imageSrc = "Le certificat du sportif illustré par pikisuperstar / Freepik"
 chart = true
-todo = "Bio > 35 ans, modal intensité activité, type 1A (sources 12-13), indication ecg et ecomp, quel examen clinique, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/guide_aps_chapitre_6_la_consultation_medicale_ap.pdf, duree certif plongee, https://pubmed.ncbi.nlm.nih.gov/36256586/"
+todo = "Bio > 35 ans, type 1A (sources 12-13), indication ecg et ecomp, quel examen clinique, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/guide_aps_chapitre_6_la_consultation_medicale_ap.pdf, duree certif plongee, https://pubmed.ncbi.nlm.nih.gov/36256586/"
 +++
 
 {{%article-summary%}}
 
-- Majeurs: certificat valable 3 ans sauf *Disciplines nécessitant un certificat...*
-- Mineurs: [questionnaire de santé](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486824). Certificat requis si ≥ 1 réponse positive.  
-  Pour les parents: [simulateur de Service-public.fr](https://www.service-public.fr/particuliers/vosdroits/R51612)
+*Version préliminaire*
+
+- Majeurs: certificat sportif valable 3 ans sauf exceptions (voir *Disciplines nécessitant un certificat...*)
+- Mineurs: [questionnaire de santé](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486824). Certificat médical requis si ≥ 1 réponse positive.  
+  Pour les parents: [simulateur de Service-public.fr](https://www.service-public.fr/particuliers/vosdroits/R51612) pour savoir si un certificat est requis
 - Préciser l'accès aux compétitions le cas échéant
 - Informer systématiquement sur les *10 règles d'or* de la pratique sportive
 - La consultation n'est pas prise en charge par l'*Assurance Maladie*
@@ -165,7 +167,7 @@ L'inscription à une *compétition* nécessite la présente d'une license sporti
 
 - Sportif avec [angor]({{< relref "syndrome-coronarien-chronique.md" >}}) (*ESC 2018*)
 - Sportif avec {{< modal-btn modal-risque-cv >}}risque CV élevé ou très élevé{{< /modal-btn >}} (*ESC 2018*)
-- Envisagée si asymptomatique avec {{< modal-btn modal-risque-cv >}}risque CV modéré{{< /modal-btn >}} débutant une activité intense (> 6 METs)(*ESC 2018*)
+- Envisagée si asymptomatique avec {{< modal-btn modal-risque-cv >}}risque CV modéré{{< /modal-btn >}} débutant une {{< modal-btn modal-met >}}activité intense{{< /modal-btn >}} (> 6 METs)(*ESC 2018*)
 - Tabagisme
 - ≥ 2 FRCV
 - Reprise du sport après une interruption prolongée
@@ -240,5 +242,10 @@ Informer: les microbes ne sont pas éliminés par la sueur.
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-risque-cv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+{{% modal title="Intensité d'activité physique et MET" id="modal-met"%}}
+
+{{< clinique/activite-physique-intensite >}}
 
 {{% /modal %}}

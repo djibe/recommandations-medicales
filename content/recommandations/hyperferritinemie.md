@@ -148,14 +148,14 @@ L'examen rechercher des signes de {{< modal-btn modal-metabolique >}}syndrome m�
 
 ### Bilan de première intention devant une hyperferritinémie
 
-Bilan à jeun pendant 12 heures:
+Bilan à jeun:
 
 - NFS, CRP
 - Ferritinémie, coefficient de saturation de la transferrine (CST) à jeun
 - ASAT, ALAT, GGT, PAL
 - CPK
 - Glycémie à jeun
-- Bilan lipidique à jeun
+- Bilan lipidique
 - ± TSH
 {{%/info%}}
 

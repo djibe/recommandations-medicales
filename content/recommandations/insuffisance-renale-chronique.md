@@ -270,8 +270,8 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
 
 Éléments vitaux de la prise en charge de l'insuffisance rénale chronique:
 
-- [ALD 19]({{< relref "affection-longue-duree.md" >}})
-- Suivi par le généraliste possible si:  
+- [ALD n°19]({{< relref "affection-longue-duree.md" >}})
+- Suivi par le généraliste possible si:
   - Stade 1, 2, 3A stable sans complication
   - Voire sujet âgé avec DFG 20-45
 - Thérapeutique
@@ -282,7 +282,7 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
   - Sevrage tabagique et réduction d'alcool
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Activité physique d'intensité modérée ≥ 150 min/semaine
-  - {{< modal-btn modal-sel >}}Régime désodé < 6 g/j{{< /modal-btn >}} et hydrique 1,5 L/j (ni restreint ni forcé)
+  - {{< modal-btn modal-sel >}}Régime désodé < 5-6 g/j{{< /modal-btn >}} et hydrique 1,5 L/j (ni restreint ni forcé)
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Contrôle tensionnel
   - Traitement si PA n'est pas dans la cible (*KDIGO 2021*)  
@@ -310,7 +310,7 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
 - DFGe < 45
   - Suivi par néphrologue impératif
   - Protection du *capital veineux*
-  - Vitamine D cible +75 nmol/L (*Souberbielle 2019*)
+  - [Vitamine D cible]({{< relref "vitamine-d.md" >}}) +75 nmol/L (*Souberbielle 2019*)
 - Bicarbonates < 22 mmol/L: supplémentation
 - Maladie professionnelle et prévention si expositions
 - Associations de patients  
@@ -320,7 +320,8 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
 
 Mesures précédentes avec les particularités suivantes (*ADA 2023* et *KDIGO 2022*):
 
-- {{< modal-btn modal-statine-intensite >}}Statine de moyenne à forte intensité{{< /modal-btn >}} selon le {{< modal-btn modal-rcv >}}RCV{{< /modal-btn >}}
+- {{< modal-btn modal-statine-intensite >}}Statine de moyenne à forte intensité{{< /modal-btn >}} selon le {{< modal-btn modal-rcv >}}RCV{{< /modal-btn >}}  
+  Ne pas introduire au stade terminal, évaluer la poursuite à ce stade.
 - Albuminurie cible < 3 mg/mmol
   - Contrôle par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} + anti-aldostérone finérénone (Karendia®, pas encore disponible) si non contrôlée (si DFG DFG ≥ 25 et kaliémie normale)
   - Albuminurie et normotension: considérer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}
@@ -480,7 +481,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 - {{< references/sfd-dt2 >}}
 - [HAS. Maladie rénale chronique de l'adulte. Guide du parcours de soins. Juillet 2021.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
 - [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://www.kidney-international.org/article/S0085-2538(20)31269-2/fulltext)
-- {{< references/esc-dyslipidemie >}}
+- {{< references/esc-dyslipidaemias >}}
 - {{< references/esc-hta >}}
 - [Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2012 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney inter. Suppl. 2013. (PDF)](https://kdigo.org/wp-content/uploads/2017/02/KDIGO_2012_CKD_GL.pdf)
 

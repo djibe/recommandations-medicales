@@ -1,0 +1,95 @@
+<div class="card-body" id="score-dutch-hyperchol">
+  <p> <dfn><abbr title="Société Européenne de Cardiologie">ESC</abbr></dfn> .</p>
+  <fieldset>
+    <legend>1. Antécédents familiaux</legend>
+    <div class="custom-control custom-checkbox">
+      <input type="checkbox" id="dutch-hyperchol-1" class="custom-control-input elem-dlcn" value="1">
+      <label class="custom-control-label" for="dutch-hyperchol-1">Hérédité cardiovasculaire prématurée</label>
+      <p class="typography-caption text-black-secondary">Au premier degré: homme &lt; 55 ou femme &lt; 60 ans avec atteinte coronaire
+        ou vasculaire OU LDL &gt; 95e percentile</p>
+    </div>
+    <div class="custom-control custom-checkbox">
+      <input type="checkbox" id="dutch-hyperchol-2" class="custom-control-input elem-dlcn" value="2">
+      <label class="custom-control-label" for="dutch-hyperchol-2">Antécédent familial xanthomateux</label>
+      <p class="typography-caption text-black-secondary mb-0">Au premier degré: tendons xanthomateux et/ou arc cornéen OU
+        enfant &lt; 18 ans avec LDL &gt; 95e percentile</p>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>2. Antécédents</legend>
+    <div class="custom-control custom-checkbox">
+      <input type="checkbox" id="dutch-hyperchol-3" class="custom-control-input elem-dlcn" value="2">
+      <label class="custom-control-label" for="dutch-hyperchol-3">Coronaropathie précoce</label>
+      <p class="typography-caption text-black-secondary">Homme/femme &lt; 55/60 ans</p>
+    </div>
+    <div class="custom-control custom-checkbox">
+      <input type="checkbox" id="dutch-hyperchol-4" class="custom-control-input elem-dlcn" value="1">
+      <label class="custom-control-label" for="dutch-hyperchol-4">Cérébrovasculaire ou périphérique précoce</label>
+      <p class="typography-caption text-black-secondary mb-0">Homme/femme &lt; 55/60 ans</p>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>3. Clinique</legend>
+    <input type="checkbox" id="dutch-hyperchol-31" class="d-input-none elem-dlcn" value="6">
+    <label for="dutch-hyperchol-31" class="chip chip-action chip-sm chip-filter">Tendons xanthomateux</label>
+    <input type="checkbox" id="dutch-hyperchol-32" class="d-input-none elem-dlcn" value="4">
+    <label for="dutch-hyperchol-32" class="chip chip-action chip-sm chip-filter">Arc cornéen avant 45 ans</label>
+  </fieldset>
+  <fieldset>
+    <legend>4. LDL cholestérol (sans traitement en g/L)</legend>
+    <input type="radio" id="dutch-hyperchol-41" name="dutch-hyperchol-4" class="d-input-none elem-dlcn" value="8">
+    <label for="dutch-hyperchol-41" class="chip chip-action chip-sm chip-choice">≥ 3,26</label>
+    <input type="radio" id="dutch-hyperchol-42" name="dutch-hyperchol-4" class="d-input-none elem-dlcn" value="5">
+    <label for="dutch-hyperchol-42" class="chip chip-action chip-sm chip-choice">2,51 - 3,25</label>
+    <input type="radio" id="dutch-hyperchol-43" name="dutch-hyperchol-4" class="d-input-none elem-dlcn" value="3">
+    <label for="dutch-hyperchol-43" class="chip chip-action chip-sm chip-choice">1,91 - 2,50</label>
+    <input type="radio" id="dutch-hyperchol-44" name="dutch-hyperchol-4" class="d-input-none elem-dlcn" value="1">
+    <label for="dutch-hyperchol-44" class="chip chip-action chip-sm chip-choice">1,55 - 1,9</label>
+    <input type="radio" id="dutch-hyperchol-45" name="dutch-hyperchol-4" class="d-input-none elem-dlcn" value="0">
+    <label for="dutch-hyperchol-45" class="chip chip-action chip-sm chip-choice">Autre</label>
+  </fieldset>
+  <fieldset>
+    <legend>5. Génétique</legend>
+    <div class="custom-control custom-checkbox">
+      <input type="checkbox" id="dutch-hyperchol-51" class="custom-control-input elem-dlcn" value="8">
+      <label class="custom-control-label" for="dutch-hyperchol-51">Mutation fonctionnelle identifiée</label>
+      <p class="typography-caption text-black-secondary">Mutation du récepteur LDL, apoB ou PCSK9</p>
+    </div>
+  </fieldset>
+</div>
+<div class="alert bg-light d-flex mt-md-4">
+  <div class="d-flex flex-column align-items-center">
+    <p class="typography-overline score-output-title">DLCN</p>
+    <output class="score-output" id="dlcnScore">0</output>
+  </div>
+  <p id="dlcnText" class="lead m-auto">Pas d'argument diagnostique d'HF</p>
+</div>
+<blockquote class="blockquote">
+  <p lang="en"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23956253/" rel="external nofollow noopener">Nordestgaard BG et al. Familial hypercholesterolaemia is underdiagnosed and undertreated in the general population: guidance for clinicians to prevent coronary heart disease: consensus statement of the European Atherosclerosis Society. Eur Heart J. 2013.</a></p>
+</blockquote>
+{{ $script := `
+  // Score Dutch Lipid Clinic Network by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreDlcn = document.getElementById('dlcnScore')
+    const textDlcn = document.getElementById('dlcnText');
+    var dlcnElems = document.querySelectorAll('#score-dutch-hyperchol input.elem-dlcn');
+    dlcnElems.forEach((elem) => { elem.addEventListener('change', () => calcDlcn() ) })
+    const calcDlcn = () => {
+      let score = 0
+      const dlcnElemsChecked = document.querySelectorAll('#score-dutch-hyperchol input.elem-dlcn:checked')
+      dlcnElemsChecked.forEach(dlcnElem => {
+        score += parseInt(dlcnElem.value, 10)
+        scoreDlcn.innerHTML = score
+        if (score < 3) {
+          textDlcn.innerHTML = 'Pas d’argument diagnostique d’HF'
+        } else if (score >= 3 && score <= 5) {
+          textDlcn.innerHTML = 'HF possible'
+        } else if (score >= 6 && score <= 8) {
+          textDlcn.innerHTML = 'HF probable'
+        } else if (score > 8) {
+          textDlcn.innerHTML = 'HF certaine'
+        }
+      })
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>

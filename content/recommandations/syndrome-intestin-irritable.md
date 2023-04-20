@@ -261,10 +261,10 @@ graph TB
 SII["<b>Suspicion de SII</b><br>—<br>- Douleurs abdominales ≥ 6 mois<br>- Ballonnements<br>- Troubles du transit"]
 style SII stroke:#4150f5, stroke-width:1px
   SII --> alarme("<b>Signes d'alarme ?</b><br>—<br>- Survenue après 50 ans<br>- Rectorragies, anémie<br>- Symptômes nocturnes<br>- AEG<br>- Apparition/modification<br> récente des symptômes<br>- Anomalie à l'examen")
-  alarme -- Non --> biologie("<b>Bilan</b><br>—<br>- NFS, CRP<br>- Sérologie cœliaque<br>- Diarrhées: TSH,<br>EPS si brutale<br>-45 ans: ± calprotectine (non remb)<br>- Femme +50 ans: échographie pelvienne<br>- Si dyspepsie: sérologie HP<br>ou test respiratoire") --> traitement("<b>Prise en charge</b><br>—<br>- Diagnostic clinique<br>- Information du patient<br>- Comorbidités: fibromyalgie,<br>dyspepsie<br>- Rééval 3 mois") -. Insuffisant .-> RHD("- Activité physique<br>- Diététique<br>- Ispaghul<br>- Probiotiques<br>- Relaxation") -. Insuffisant .-> FODMAP("Diététicien pour<br>FODMAP<br>± Psychologue")
+  alarme -- Non --> biologie("<b>Bilan</b><br>—<br>- NFS, CRP<br>- Sérologie cœliaque<br>- Diarrhées: TSH,<br>EPS si brutale<br>-45 ans: ± calprotectine (non remb)<br>- Femme +50 ans: échographie pelvienne<br>- Si dyspepsie: sérologie HP<br>ou test respiratoire") --> traitement("<b>Prise en charge</b><br>—<br>- Diagnostic clinique<br>- Information du patient<br>- Comorbidités: fibromyalgie,<br>dyspepsie<br>- Rééval 3 mois") -. Insuffisant .-> RHD("- Activité physique<br>- Diététique<br>- Ispaghul<br>- Probiotiques<br>- Relaxation") -. Insuffisant .-> FODMAP("Diététicien pour<br> régime FODMAP<br>± Psychologue")
     FODMAP --> douleurs(<b>Douleurs abdominales</b>) --> antalgie("Antalgie:<br>- Antispasmodiques<br>- Menthe poivrée") -.-> antidépresseur(Tricyclique<br> voire IRS) -.-> gastro
-    FODMAP --> constipation("<b>Constipation</b> (SSI-C)") --> laxatifs(Laxatifs:<br>  ispaghul, macrogol) -.-> gastro
-    FODMAP --> diarrhée("<b>Diarrhées</b> (SSI-D)") --> antidiarrh(Titration de lopéramide) -.-> gastro
+    FODMAP --> constipation("<b>Constipation</b> (SII-C)") --> laxatifs(Laxatifs:<br>  ispaghul, macrogol) -.-> gastro
+    FODMAP --> diarrhée("<b>Diarrhées</b> (SII-D)") --> antidiarrh(Titration de lopéramide) -.-> gastro
   alarme -- Oui --> gastro(Consultation du<br>gastro-entérologue)
 {{< /mermaid >}}
 

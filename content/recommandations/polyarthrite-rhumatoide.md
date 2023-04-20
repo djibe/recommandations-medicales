@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr JG LETAROUILLY (SFR)"
 date = "2020-10-23T22:24:41+02:00"
 publishdate = "2020-10-23"
-lastmod = "2022-11-15"
+lastmod = "2023-04-20"
 specialites = ["rhumatologie"]
 annees = "2022"
 sources = ["EULAR", "SFRhumato", "ACR", "HAS"]
@@ -24,10 +24,10 @@ flowchart = true
 {{%article-summary%}}
 
 - Évoquer une polyarthrite rhumatoïde devant toute arthrite, dérouillage de plus de 30 minutes, douleurs en pression des mains ou pieds (MCP/MTP)
-- Une suspicion de polyarthrite rhumatoïde nécessite un diagnostic et un traitement rapide
+- Une suspicion de polyarthrite rhumatoïde nécessite un diagnostic rhumatologique et un traitement rapide
 - Prescrire le bilan biologique avec les radiographies pour adresser au rhumatologue dans les 6 semaines (voir *Examens complémentaires*)
-- La prise en charge par un traitement spécifique relève exclusivement du rhumatologue
-- Dépistage des [cancers](/tags/cancer/), facteurs de risque cardiovasculaire, rappels vaccinaux (dTP tous les 10 ans, pneumocoque tous les 5 ans)
+- La prise en charge de la polyarthrite rhumatoïde par un traitement spécifique relève exclusivement du rhumatologue
+- Mesures associées: dépistage des [cancers](/tags/cancer/), contrôle de risque cardiovasculaire, rappels vaccinaux (dTP tous les 10 ans, pneumocoque tous les 5 ans)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -172,7 +172,8 @@ Mesures générales de prise en charge de la polyarthrite:
 - **Suivi bucco-dentaire rigoureux**
 - Correction des facteurs de risque cardiovasculaire
   - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
-  - Risque {{< scores/heartscore >}}
+  - Risque {{< scores/heartscore >}}  
+    Multiplier le risque par 1,5 (*ESC 2021*).
   - Activité physique régulière
   - Correction d'un surpoids
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
@@ -324,8 +325,9 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
-- [Smolen JS. et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. Annals of the Rheumatic Diseases. 2022.](https://ard.bmj.com/content/early/2022/11/10/ard-2022-223356)
+- [Smolen JS et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. Annals of the Rheumatic Diseases. 2022.](https://ard.bmj.com/content/early/2022/11/10/ard-2022-223356)
 - [Daien C, Czernichow S, Letarouilly JG et al. Recommandations de la Société française de rhumatologie sur l'alimentation des patients ayant un rhumatisme inflammatoire chronique. Revue du Rhumatisme. 2021.](https://www.sciencedirect.com/science/article/pii/S1169833021009108)
+- {{< references/esc-cvd >}}
 - [Daien C et al. Actualisation des Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Revue du Rhumatisme. 2019.](https://www.sciencedirect.com/science/article/pii/S1169833018301522)
 - [Combe B, Landewe R, Daien CI et al. 2016 update of the EULAR recommendations for the management of early arthritis. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/6/948)
 - [Smolen JS et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2016 update. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/6/960)

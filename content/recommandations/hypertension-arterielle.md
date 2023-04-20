@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2023-02-20"
+lastmod = "2023-04-20"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "ESH"]
@@ -244,7 +244,7 @@ Une PAD 70-79 mmHg est la cible pour tout hypertendu. La pression cible doit êt
 | +70 ans             | 130-139/70-79   | ESC 2021   |
 | [AIT/AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) | idem générale | ESC 2021 |
 | [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) | 120-140/90 | ESC 2017 LEAD |
-| Coronaropathie      | idem générale   | ESC 2021   |
+| [Coronaropathie]({{< relref "syndrome-coronarien-chronique.md" >}}) | idem générale | ESC 2021   |
 | [Diabète]({{< relref "diabete-type-2.md" >}}) | idem générale<br>< 130/80 | ESC 2021<br>ADA 2023 |
 | [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) | ≤ 130/80 | ESC 2020 AF |
 | [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | &lt; 140/90 (comorbidités) | ESC 2021 HF |
@@ -272,14 +272,18 @@ Détail pour chaque pathologie sur la page du chapitre concerné.
   - Niveau d'activité physique, sédentarité
   - Dysfonction érectile  
     Aggravée par TZD et BB. IPDE5 sans risque sauf dérivés nitrés ou alpha-bloquant.
-  - Rechercher des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}
 - Signes cardiovasculaires
   - Céphalées, vertiges, syncopes, troubles de la vision, régression cognitive
   - Douleurs thoraciques, dyspnée, œdèmes, palpitations
   - Soif, nycturie, hématurie, infections urinaires récidivantes
   - Extrémités froides, claudication ou douleurs de repos, périmètre de marche
-- Hypertension secondaire
-  - HTA grade 2-3 chez < 40 ans, apparition/aggravation rapide
+- Signes évocateurs d'**hypertension secondaire**
+  - HTA grade 2-3 chez < 40 ans
+  - HTA d'apparition ou d'aggravation rapide
+  - Hypertension résistante
+  - Hypertension sévère ou [HTA maligne]({{< relref "hypertension-arterielle-maligne.md" >}})
+  - Multiples complications de l'hypertension
+  - Rechercher des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}
   - Infections urinaires récidivantes
   - Drogues, corticoïdes, sprays nasaux, automédication, contraception, chimiothérapie, yohimbine, réglisse
   - Phéochromocytome  
@@ -304,7 +308,7 @@ Détail pour chaque pathologie sur la page du chapitre concerné.
 ### Bilan initial de l'hypertension artérielle
 
 {{%info%}}
-Bilan après 12 heures de jeûne:
+Bilan après 8 heures de jeûne:
 
 - NFS
 - Glycémie
@@ -320,22 +324,22 @@ ECG 12 dérivations
 ### Conduite à tenir en découverte d'hypertension
 
 1. Confirmer le diagnostic par automesure/MAPA
-1. Noter dans le dossier les valeurs pré-traitement et le grade de l'hypertension (voir *Définitions*)
-1. Rechercher une *maladie cardiovasculaire* (MCV) et des complications de l'hypertension  
+2. Noter dans le dossier les valeurs pré-traitement et le grade de l'hypertension (voir *Définitions*)
+3. Rechercher une *maladie cardiovasculaire* (MCV) et des complications de l'hypertension  
     - *ECG 12D*, *Fond d'œil* si HTA grade 2-3 ou diabète, {{< modal-btn modal-depistage-prevalent >}}recherche d'AOMI{{< /modal-btn >}}
     - Échocardiographie si anomalie ECG ou suspicion d'HVG
     - Échodoppler des artères rénales si atteinte rénale ou suspicion d'HTA secondaire
     - IRM cérébrale si déclin cognitif, antécédent familial d'hémorragie cérébrale à l'âge moyen ou de démence précoce
-1. Définir le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}}.  
+4. Définir le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}}.  
   En l'absence de MCV, calculer le risque {{< scores/heartscore >}}.
-1. Adresser au service d'hypertension: HTA secondaire ou résistante, -40 ans avec grade 2+, HTA d'installation rapide
+5. Adresser au service d'hypertension: HTA secondaire ou résistante, -40 ans avec grade 2+, HTA d'installation rapide
 
 {{% /collapse %}}
 {{%collapse "Mesures hygiéno-diétetiques" %}}
 
 - Restriction sodée < 5 g/j
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et réduction de la [consommation d'alcool]({{< relref "sevrage-alcool.md" >}})  
-  < 2 verre/j/homme, < 1/j si femme.
+  < 2 verres/j/homme, < 1/j si femme.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Correction d'un surpoids et d'une obésité abdominale (102 cm homme, 88 cm femme)  
   Cible < 94 cm homme et 80 cm femme.
@@ -386,7 +390,7 @@ Prise en charge par bithérapie au choix parmi:
 
 ### Traitement de niveau 3
 
-Hypertension résistante: avis spécialisé + RHD rappelées + ajout de spironolactone 25-50 mg/j (ou autre diurétique, alpha ou bêtabloquant).
+Hypertension résistante: avis spécialisé + RHD rappelées + ajout de [spironolactone](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63145849&typedoc=R) 25-50 mg/j (ou autre diurétique, alpha ou bêtabloquant).
 
 > Éliminer: défaut d'observance, effet blouse blanche, mesures de PA non standardisées, {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}, calcifications des artères brachiales, inertie du médecin, consommation de sel, HTA secondaire, [maladie rénale]({{< relref "insuffisance-renale-chronique.md" >}}).
 

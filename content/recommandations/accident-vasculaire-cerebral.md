@@ -110,13 +110,13 @@ Et 30.000 accidents ischémiques transitoires chaque année.
 
 1. Déficit moteur (> 50%)  
   Faiblesse ou engourdissement soudain, uni ou bilatéral de la face, du bras ou de la jambe.
-1. Trouble visuel (28%)  
+2. Trouble visuel (28%)  
   Diminution ou perte de vision uni ou bilatérale.
-1. Dysarthrie/aphasie (> 42%)  
+3. Dysarthrie/aphasie (> 42%)  
   Difficulté de langage ou de la compréhension.
-1. Céphalées  
+4. Céphalées  
   Mal de tête sévère, soudain ou inhabituel sans cause apparente (saignement intra-crânien).
-1. Troubles de l'équilibre (17%)  
+5. Troubles de l'équilibre (17%)  
   Instabilité à la marche ou chutes inexpliquées.
 
 Et déficit sensitif brutal (35%)
@@ -211,7 +211,7 @@ S'applique aussi après un AIT.
   - Correction d'un surpoids
   - Activité physique ≥ 10 min x 4/semaine
   - Sédentaire: bouger 3 minutes toutes les 30 minutes
-- Diabète
+- Si diabète
   - AVC < 6 mois: {{< modal-btn modal-hba1c >}}HbA1c cible 8%{{< /modal-btn >}}
   - Après 6 mois: {{< modal-btn modal-hba1c >}}cible réadaptée selon le profil{{< /modal-btn >}}
 - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}} {{%class%}}(40%){{%/class%}}
@@ -357,7 +357,7 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 - {{< references/sfd-dt2 >}}
 - [Kleindorfer DO et al. 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2021.](https://www.ahajournals.org/doi/10.1161/STR.0000000000000375)
 - [Fonseca AC. et al. European Stroke Organisation (ESO) guidelines on management of transient ischaemic attack. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/full/10.1177/2396987321992905)
-- {{< references/esc-dyslipidemie >}}
+- {{< references/esc-dyslipidaemias >}}
 - [Gabet A. et al; Santé Publique France. Connaissance de l'accident vasculaire cérébral et de ses symptômes en France en 2019. BEH. 2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/connaissance-de-l-accident-vasculaire-cerebral-et-de-ses-symptomes-en-france-en-2019)
 - {{< references/esc-hta >}}
 - [HAS. Prévention vasculaire après un infarctus cérébral ou un accident ischémique transitoire. 13/06/2018.](https://www.has-sante.fr/jcms/c_1252051/fr/prevention-vasculaire-apres-un-infarctus-cerebral-ou-un-accident-ischemique-transitoire)

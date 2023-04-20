@@ -7,7 +7,7 @@ synonyms = ["Pseudogoutte", "arthropathie à pyrophosphates", "arthrite aiguë �
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-07T17:05:24+02:00"
 publishdate = "2023-04-11"
-lastmod = "2023-04-11"
+lastmod = "2023-04-20"
 specialites = ["rhumatologie"]
 annees = "2020"
 sources = ["Collège", "EULAR"]
@@ -95,13 +95,13 @@ Le diagnostic de certitude nécessite une **ponction articulaire diagnostique** 
 
 #### Bilan étiologique en cas de diagnostic de rhumatisme à pyrophosphate de calcium confirmé
 
-En cas de diagnostic confirmé, le bilan étiologique recherche une chondrocalcinose secondaire:
+En cas de diagnostic confirmé, le bilan étiologique (à distance) recherche une chondrocalcinose secondaire:
 
 - Ferritinémie (hémochromatose)
 - Calcémie (hyperparathyroïdie primitive)
 - Magnésémie (hypophosphatasie congénitale)
 - Phosphatases alcalines (PAL, syndrome de Gitelman)
-- TSH (dysthyroïdie)
+- [TSH](/tags/tsh/) (dysthyroïdie)
 
 ### Radiographies articulaires
 
@@ -134,7 +134,7 @@ En cas de récidives fréquentes des crises de rhumatisme à PPC, un traitement 
 
 #### Traitement de l'atteinte chronique du rhumatisme à cristaux de PPC
 
-En cas d'atteinte chronique, les traitements préférentiels de l'EULAR sont dans l'ordre:
+En cas d'atteinte chronique (symptômes persistants), les traitements préférentiels de l'EULAR sont dans l'ordre:
 
 - AINS ou colchicine faible dose (0,5-1 mg/j)
 - Corticothérapie faible dose

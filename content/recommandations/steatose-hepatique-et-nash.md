@@ -191,7 +191,7 @@ Les glitazones (non disponibles en France) et les {{< modal-btn modal-glp1ra >}}
 - Perte de poids de 10%
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Activité physique quotidienne
-- Évaluer le {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} (calcul du {{< scores/heartscore >}} sauf diabète)
+- Évaluer le {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} (calcul du {{< scores/heartscore >}})
 - Dépister des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} ({{< modal-btn modal-saos-diabete >}}dépistage si diabète{{< /modal-btn >}})
 
 Le suivi est réalisé avec les méthodes non invasives selon le niveau de fibrose hépatique:
@@ -232,6 +232,7 @@ graph TB
 {{< youtube id="YdGoM7KWe6s" title="Le Fib4 : un intérêt pronostique chez les diabétiques et/ou obèses ? (CREGG)" >}}
 
 - [Académie de Médecine. Stéatose hépatique non alcoolique : maladie fréquente, diagnostic devenu facile, prévention indispensable – Académie nationale de médecine. 16/12/2022.](https://www.academie-medecine.fr/steatose-hepatique-non-alcoolique-maladie-frequente-diagnostic-devenu-facile-prevention-indispensable/)
+- {{< references/esc-cvd >}}
 - {{< references/afef-foie-non-invasif >}}
 - SNFGE, AFEF. Diagnostic de la NASH. Conseil de pratique. Mars 2019.
 - [SNFGE. Stéatose hépatique non alcoolique (NAFLD/NASH).](https://www.snfge.org/content/steatose-hepatique-non-alcoolique-nafldnash)

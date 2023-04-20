@@ -352,6 +352,7 @@ Prise en charge pour l'auto-gestion de la douleur angineuse:
 
 - [HAS. Syndrome coronarien chronique Prescription d'activité physique. 2022.](https://www.has-sante.fr/jcms/c_2876862/fr/consultation-et-prescription-medicale-d-activite-physique-a-des-fins-de-sante#toc_1_2)
 - [HAS. Guide du parcours de soins - Syndrome coronarien chronique. 2021.](https://www.has-sante.fr/jcms/p_3279083/fr/guide-du-parcours-de-soins-syndrome-coronarien-chronique)
+- {{< references/esc-cvd >}}
 - [Sorbets E et al; CLARIFY investigators. Long-term outcomes of chronic coronary syndrome worldwide: insights from the international CLARIFY registry. European Heart Journal. 2020.](https://academic.oup.com/eurheartj/article/41/3/347/5556903)
 - [Knuuti J et al; ESC Scientific Document Group. 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes: The Task Force for the diagnosis and management of chronic coronary syndromes of the European Society of Cardiology (ESC). European Heart Journal. 2019.](https://academic.oup.com/eurheartj/article/41/3/407/5556137)
 - [Collège National des Enseignants de Cardiologie. Syndromes coronariens aigus. Item 334 UE11. Cardiologie 2e édition. Octobre 2019. (PDF)](https://www.sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch04_syndromes_coronariens.pdf)

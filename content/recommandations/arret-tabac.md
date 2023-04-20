@@ -284,7 +284,7 @@ Prise en charge du patient souhaitant arrêter de fumer:
 - Tabacologue ([annuaire](https://www.tabac-info-service.fr/je-trouve-un-tabacologue))  
   Indications: demande du patient, rechutes répétées, accompagnement psychologique spécifique, poly-addictions, comorbidités psychiatriques.
 - Soutien psychologique ± **thérapie cognitive et comportementale** (TCC)  
-  Voir [remboursement MonPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}).
+  Voir [remboursement MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}).
 - Suivi bucco-dentaire rigoureux
 - Voire traitement médicamenteux
 - Auto-support: [Tabac Info Service](https://www.tabac-info-service.fr/), appli [Kwit](https://play.google.com/store/apps/details?id=fr.kwit.android)
@@ -457,6 +457,7 @@ accTitle: Prise en charge de l'arrêt du tabac d'après HAS 2014
 - Prescrire Redaction. Consommation et arrêt du tabac. Premiers choix Prescrire. 2022.
 - [Haut Conseil de la santé publique (HCSP). Avis relatif aux bénéfices-risques de la cigarette électronique. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1138)
 - [Hartmann-Boyce J. et al. Electronic cigarettes for smoking cessation. Cochrane Database of Systematic Reviews. 2022.](https://www.cochrane.org/fr/CD010216/TOBACCO_les-cigarettes-electroniques-peuvent-elles-aider-les-personnes-arreter-de-fumer-et-ont-elles-des)
+- {{< references/esc-cvd >}}
 - [Collège des enseignants de pneumologie. Addiction au tabac. Item 75. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/11/item_75_Tabac_2021_ex_item_73.pdf)
 - [CNGOF, SFT. Prise en charge du tabagisme en cours de grossesse (texte court). 2020. (PDF)](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2020%252FRPC-CNGOF-tabagisme-grossesse.pdf)
 - [HAS. Sevrage tabagique : des outils pour repérer et accompagner les patients. Article. 2019.](https://www.has-sante.fr/jcms/pprd_2974738/fr/sevrage-tabagique-des-outils-pour-reperer-et-accompagner-les-patients#:~:text=La%20HAS%20propose%20des%20modalit%C3%A9s,accompagner%20dans%20le%20sevrage%20tabagique)
@@ -471,7 +472,7 @@ accTitle: Prise en charge de l'arrêt du tabac d'après HAS 2014
 
 ### À lire
 
-[OFDT. Tabagisme et arreêt du tabac en 2021. 2022.](https://www.ofdt.fr/publications/collections/bilans/tabagisme-et-arret-du-tabac-en-2021/)
+[OFDT. Tabagisme et arrêt du tabac en 2021. 2022.](https://www.ofdt.fr/publications/collections/bilans/tabagisme-et-arret-du-tabac-en-2021/)
 
 {{%/sources%}}
 

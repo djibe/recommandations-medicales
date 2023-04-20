@@ -35,7 +35,7 @@ HTA: [carnet international d'automesure tensionnelle (PDF)](https://www.stridebp
 - Risque cardiovasculaire
   - Calcul du {{< scores/heartscore >}}
   - {{< modal-btn modal-rcv >}}Risque cardiovasculaire et LDL cible{{< /modal-btn >}}
-  - {{< modal-btn modal-statine-intensite >}}Efficacité des statines{{< /modal-btn >}}
+  - {{< modal-btn modal-statine-intensite >}}Puissance des statines{{< /modal-btn >}}
 - {{< modal-btn score-nyha >}}Score NYHA{{< /modal-btn >}}
 - Traitements: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}}, {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
 

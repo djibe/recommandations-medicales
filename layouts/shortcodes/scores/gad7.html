@@ -103,8 +103,8 @@
         checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
         scoregad7.innerHTML = score
         if (score <= 4) { textgad7.innerHTML = "Absence d'anxiété" }
-        else if (score >= 5 && score <= 9) { textgad7.innerHTML = "Anxiété légère<br>Patient éligible à MonPsy" }
-        else if (score >= 10 && score <= 14) { textgad7.innerHTML = "Anxiété modérée<br>Patient éligible à MonPsy" }
+        else if (score >= 5 && score <= 9) { textgad7.innerHTML = "Anxiété légère<br>Patient éligible à MonParcoursPsy" }
+        else if (score >= 10 && score <= 14) { textgad7.innerHTML = "Anxiété modérée<br>Patient éligible à MonParcoursPsy" }
         else if (score >= 15) { textgad7.innerHTML = "Anxiété sévère<br>Suivi psychiatrique" }
       }
     }

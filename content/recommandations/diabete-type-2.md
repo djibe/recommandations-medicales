@@ -305,14 +305,14 @@ window.onload = () => {
 ### Bilan biologique annuel du diabétique
 
 {{%info%}}
-Bilan à jeun pendant 12 heures:
+Bilan à jeun pendant 8 heures:
 
-- HbA<sub>1c</sub> tous les 3 mois
+- HbA<sub>1c</sub> (tous les 3-6 mois)
 - Bilan lipidique (LDL, HDL, CT, TG)
 - NFS, ferritinémie
 - ASAT, ALAT, GGT, {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}
 - Créatininémie (DFG selon CKD-EPI)
-- Ratio albuminurie/créatininurie
+- Ratio albuminurie/créatininurie sur échantillon
 - Si HTA: ionogramme sanguin
 - Si obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme ou bas socio-éco: (NT-pro)BNP
 {{%/info%}}
@@ -389,7 +389,7 @@ Bilan à jeun pendant 12 heures:
 - [Valensi P. et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_paper_sfc_sfd_march_2021.pdf)
 - {{< references/afef-foie-non-invasif >}}
 - [INCa. Synthèse - Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Septembre 2019. (PDF)](https://www.e-cancer.fr/content/download/278143/3948778/file/Synthese_CAT_patients_atteints_adenocarcinomes_pancreas_mel_20191118.pdf)
-- {{< references/esc-dyslipidemie >}}
+- {{< references/esc-dyslipidaemias >}}
 - {{< references/esc-diabetes >}}
 - [HAS, FFAB. Boulimie et hyperphagie boulimique. Recommandation de bonne pratique. Juin 2019.](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique-reperage-et-elements-generaux-de-prise-en-charge)
 - {{< references/esc-hta >}}

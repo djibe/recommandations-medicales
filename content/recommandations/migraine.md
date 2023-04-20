@@ -7,7 +7,7 @@ synonyms = ["Migraine avec ou sans aura", "aura migraineuse"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-12T13:03:13+01:00"
 publishdate = "2022-02-17"
-lastmod = "2022-12-06"
+lastmod = "2023-04-20"
 specialites = ["neurologie"]
 annees = "2021"
 sources = ["SFEMC", "CNGOF"]
@@ -197,7 +197,7 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
 ### Interrogatoire
 
 - Antécédents  
-  Familiaux, autres douleurs ...
+  Familiaux, [coronaropathie]({{< relref "syndrome-coronarien-chronique.md" >}}), [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), [phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), autres douleurs ...
 - Alcool, tabac
 - Risques de chronicisation
   - Rechercher un syndrome anxieux/dépressif ({{< modal-btn modal-had >}}échelle HAD{{< /modal-btn >}})
@@ -347,7 +347,7 @@ Max 2 prises/24h avec intervalle minimal de 2 heures entre les prises.
   
 Les triptans:
 
-- Contre-indications: cardiopathie ischémique et {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}, hypersensibilité au produit
+- Contre-indications: [phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), [cardiopathie ischémique]({{< relref "syndrome-coronarien-chronique.md" >}}) et {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}, hypersensibilité au produit
 - Absence de réponse (ou effets secondaires): augmenter la dose (réduire), changer de voie d'administration, changer de triptan
 - En cas de récidive des céphalées après 48h: coupler triptan + AINS
 - Reconsulter si triptan pris > 8 jours/mois
@@ -568,11 +568,12 @@ graph TB
 {{%sources%}}
 
 - [ANSM. Médicaments contenant du topiramate (Epitomax et génériques) : modification des conditions de prescription et de délivrance. 06/10/2022.](https://ansm.sante.fr/informations-de-securite/medicaments-contenant-du-topiramate-epitomax-et-generiques-modification-des-conditions-de-prescription-et-de-delivrance)
-- [Demarquay G. et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 1: Diagnosis and assessment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.001)
-- [Ducros A. et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 2: Pharmalogical treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.006)
+- [Demarquay G et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 1: Diagnosis and assessment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.001)
+- [Ducros A et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 2: Pharmalogical treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.006)
 - [Demarquay G. et al. Revised guidelines of the French headache society for the diagnosis and management of migraine in adults. Part 3: Non-pharmacological treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.009)
 - [Lucas C. Migraine with aura. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.010)
-- [Donnet A. et al. Severe migraine and its control: A proposal for definitions and consequences for care. Revue neurologique. 2021.](https://doi.org/10.1016/j.neurol.2020.11.012)
+- [Donnet A et al. Severe migraine and its control: A proposal for definitions and consequences for care. Revue neurologique. 2021.](https://doi.org/10.1016/j.neurol.2020.11.012)
+- {{< references/esc-cvd >}}
 - Prescrire Redaction. Migraine : prévention des crises chez un adulte. Premiers choix Prescrire. Mai 2021.
 - [Lanteri-Minet M. et al. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant. Revue Neurologique. 2013. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20sur%20la%20prise%20en%20charge%20diagnostique%20et%20th%C3%A9rapeutique%20de%20la%20migraine%20chez%20l%2527adulte%20et%20chez%20l%2527enfant%20(1).pdf)
 - [Anaes. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant : aspects cliniques et économiques. Recommandations de bonne pratique. Octobre 2002.](https://www.has-sante.fr/jcms/c_272212/fr/prise-en-charge-diagnostique-et-therapeutique-de-la-migraine-chez-l-adulte-et-chez-l-enfant-aspects-cliniques-et-economiques)

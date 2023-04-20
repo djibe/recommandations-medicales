@@ -67,6 +67,9 @@ PN: BNP ≥ 35 pg/mL ou NT-proBNP ≥ 125 pg/mL (ESC Se 95%; Spe 50% - NICE 400 
 
 ### Abréviations
 
+AHA
+: {{%lang%}}American Heart Association{{%/lang%}}
+
 BAV
 : bloc atrio-ventriculaire
 

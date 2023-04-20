@@ -110,7 +110,7 @@ RCV
 #### Chirurgie cardiaque {.typography-headline-6 .mt-5}
 
 Épreuve d'effort doit être envisagée
-: Avant la chirurgie cardiaque si faible capacité fonctionnelle (< 4 METs) et/ou {{< modal-btn modal-rcv >}}haut risque cardiovasculaire{{< /modal-btn >}}.
+: Avant la chirurgie cardiaque si {{< modal-btn modal-met >}}faible capacité fonctionnelle{{< /modal-btn >}} (< 4 METs) et/ou {{< modal-btn modal-rcv >}}haut risque cardiovasculaire{{< /modal-btn >}}.
 
 </div>
 <div class="collapse" id="collapse-coro">
@@ -212,7 +212,7 @@ Ex: athlète, pilote de ligne, chauffeur routier ou de bus.
 
 Épreuve d'effort peut être envisagée
 : Asymptomatique avec {{< modal-btn modal-rcv >}}risque CV modéré{{< /modal-btn >}} et profession à risque (pompier, militaire, policier, pilote de ligne) (évaluation périodique systématique selon l'ESC).
-: Asymptomatique avec {{< modal-btn modal-rcv >}}risque CV modéré{{< /modal-btn >}} débutant une activité intense (> 6 METs).
+: Asymptomatique avec {{< modal-btn modal-rcv >}}risque CV modéré{{< /modal-btn >}} débutant une {{< modal-btn modal-met >}}activité intense{{< /modal-btn >}} (> 6 METs).
 
 </div>
 <div class="collapse" id="collapse-sympt">
@@ -293,7 +293,7 @@ Après score calcique si {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs
 - HTAP avec aggravation des symptômes (EEVO<sub>2</sub>).
 - HTA  
   Pour préciser le pronostic ou prescrire un programme d'entraînement physique adapté
-- Avant chirurgie cardiaque si faible capacité fonctionnelle (< 4 METs)  
+- Avant chirurgie cardiaque si {{< modal-btn modal-met >}}faible capacité fonctionnelle{{< /modal-btn >}} (< 4 METs)  
   et/ou haut RCV
 - Enfant avec cardiopathie congénitale
 - Cardiopathie congénitale (enfant/adulte)(EEVO<sub>2</sub>).
@@ -305,7 +305,7 @@ Après score calcique si {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs
 atriale
 - Évaluer un syndrome de pré-excitation
 - Asymptomatique avec RCV modéré et profession à risque (pompier, militaire, policier, pilote de ligne, chauffeur routier)  
-- Asymptomatique avec RCV modéré débutant une activité intense (> 6 METs)
+- Asymptomatique avec RCV modéré débutant une {{< modal-btn modal-met >}}activité intense{{< /modal-btn >}} (> 6 METs)
 
 {{% /collapse %}}
 {{%collapse "Contre-indications" %}}
@@ -355,5 +355,10 @@ atriale
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+{{% modal title="Intensité d'activité physique et MET" id="modal-met"%}}
+
+{{< clinique/activite-physique-intensite >}}
 
 {{% /modal %}}

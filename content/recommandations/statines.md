@@ -6,7 +6,7 @@ synonyms = ["Hypolipémiants"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-17T13:36:17+01:00"
 publishdate = "2022-03-17"
-lastmod = "2023-01-26"
+lastmod = "2023-04-20"
 specialites = ["therapeutique"]
 annees = "2022"
 sources = ["USPTF", "ESC"]
@@ -22,10 +22,12 @@ todo = "ESC CVD p.16"
 {{%article-summary%}}
 
 - Comparaison de l'intensité des différentes statines pour la réduction du LDL (voir *Intensité*)  
-  Pour une baisse du LDL cholestérol supérieure à 50%: atorvastatine 40 ou rosuvastatine 20 mg ou plus.
-- Cible de LDL selon la maladie cardiovasculaire ou le {{< scores/heartscore >}} en l'absence d'évènement ou de comorbidité cardiovasculaire
+  Pour une baisse du LDL cholestérol supérieure à 50%: statine de haute intensité atorvastatine 40 ou rosuvastatine 20 mg ou plus.
+- Cible de LDL selon la maladie cardiovasculaire ou le {{< scores/heartscore >}} (en l'absence d'évènement ou de comorbidité cardiovasculaire)
 - Statines et effets indésirables: 90% des myalgies sont attribuables à un effet nocebo, elles surviennent durant la première année (sauf statine de haute intensité)
 - L'arrêt d'une statine entraîne une surmortalité cardiovasculaire de 20%
+- Arrêter une statine au moins 4 semaines avant l'arrêt d'une contraception
+- Le bilan lipidique ne nécessite pas de jeûner (*ESC 2021*)
 
 {{%/article-summary%}}
 {{%collapse "Intensité des statines" %}}
@@ -35,15 +37,22 @@ todo = "ESC CVD p.16"
 {{% /collapse %}}
 {{%collapse "Objectif de LDL" %}}
 
-La cible de LDL-cholestérol dépend des antécédents cardiovasculaires figurant ci-dessous.
+La réduction du LDL cholestérol a les mêmes bénéfices cardiovasculaires chez les 2 sexes (*ESC 2021*).
 
-En l'absence de maladie cardiovasculaire ou de comorbidité (diabète), la cible de LDL est définie avec le {{< scores/heartscore >}} à partir de 40 ans.
+### Statine en prévention secondaire ou comorbidités
+
+La cible de LDL cholestérol dépend des antécédents cardiovasculaires figurant ci-dessous.
 
 {{< clinique/risque-cardiovasculaire >}}
 
 > *ESC CVD 2021*
 
 ### Statine en prévention primaire
+
+Selon la *ESC 2021*, la cible de LDL est définie selon le {{< scores/heartscore >}} à partir de 40 ans ...  
+en l'absence de maladie cardiovasculaire, de comorbidité ([diabète](/tags/diabete/), hypercholestérolémie familiale, [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})) ou de [grossesse]({{< relref "grossesse.md" >}}).
+
+Toutefois la ESC appelle à un LDL inférieur à 1 g/L pour tous à tous les âges.
 
 Selon l'avis indépendant de la *USPTF 2022*, une statine est recommandée pour si tous les critères suivant sont remplis:
 
@@ -52,7 +61,7 @@ Selon l'avis indépendant de la *USPTF 2022*, une statine est recommandée pour 
   Pour certains patients si risque compris de 7,5 à 9,9%.
 - Avec ≥ 1 autre facteur de risque cardiovasculaire: dyslipidémie, [diabète](/tags/diabete/), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), [tabagisme]({{< relref "arret-tabac.md" >}})
 
-De plus il n'y a pas de bénéfice à initier une statine en prévention primaire à partir de 76 ans.
+La USPTF ajoute qu'il n'y a pas de bénéfice à initier une statine en prévention primaire à partir de 76 ans.
 
 > *[US Preventive Services Task Force. Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2022.13044)*
 
@@ -61,7 +70,11 @@ De plus il n'y a pas de bénéfice à initier une statine en prévention primair
 
 ### Statines et myalgies
 
-Dans les essais contrôlés, moins de 0,1 % des sujets ont présenté de réelles myopathies (avec élévation des CPK) sous statine. Dans les deux bras *statine* et *placebo*, les myalgies étaient rapportées par 11,5 % des sujets.
+Les myalgies réellement liées aux statines sont rares.
+
+Doser: ASAT, ALAT, CPK pré-thérapeutique et surveiller après 1-3 mois de traitement. (*Bouhairie et al*)
+
+Dans les essais contrôlés, moins de 0,1 % des sujets ont présenté de réelles myopathies (avec élévation des CPK) sous statine. Dans les deux bras (*statine* et *placebo*), les myalgies étaient rapportées par 11,5 % des sujets.
 
 > *[Newman CB et al. Statin Safety and Associated Adverse Events: A Scientific Statement From the American Heart Association. 2019.](https://www.ahajournals.org/doi/full/10.1161/ATV.0000000000000073)*
 
@@ -74,10 +87,22 @@ La survenue de myalgies survenue intervient durant la première année de traite
 
 > *[Cholesterol Treatment Trialists' Collaboration 2022](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01545-8/fulltext)*
 
+### Statine mal tolérée
+
+En cas de complications attribuables à une statine (TODO: ESC src3):
+
+- Doser les CPK (arrêt si > 5N), transaminases (arrêt si > 3N)
+- Essayer diverses méthodes: poursuite à faible dose puis titration, substitution par une autre statine, suspension durant 3 mois
+
+Lorsqu'une statine doit être arrêtée pour mauvaise tolérance, envisager la substitution par l'[ézétimibe](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63964962&typedoc=R) voire l'ajout de [cholestyramine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65691327&typedoc=R) et/ou d'un anti-PCSK9 selon le risque cardiovasculaire (*ESC 2021*)
+{.alert .alert-info}
+
+> *ESC* et *Bouhairie et al*
+
 {{% /collapse %}}
 {{%collapse "Effets de l'arrêt d'une statine" %}}
 
-Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**infarctus du myocarde** en plus et une **surmortalité cardiovasculaire** de 18% .
+Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**infarctus du myocarde** en plus et une **surmortalité cardiovasculaire** de 18%.
 
 > *[Sune Fallgaard Nielsen 2016](https://academic.oup.com/eurheartj/article/37/11/908/2398344)*
 
@@ -85,5 +110,8 @@ Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**infarctus 
 {{%sources%}}
 
 *Bibliographie en regard de chaque élément présenté*
+
+- {{< references/esc-cvd >}}
+- [Bouhairie VE, Goldberg AC. Familial hypercholesterolemia. Cardiol Clin. 2015.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4472364/)
 
 {{%/sources%}}
