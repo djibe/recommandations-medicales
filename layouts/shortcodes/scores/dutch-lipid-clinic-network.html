@@ -1,5 +1,6 @@
 <div class="card-body" id="score-dutch-hyperchol">
-  <p> <dfn><abbr title="Société Européenne de Cardiologie">ESC</abbr></dfn> .</p>
+  <p> Critères <span lang="en">Dutch Lipid Clinic Network</span> (<dfn><abbr title="Dutch Lipid Clinic Network">DLCN</abbr></dfn>) pour le diagnostic de l'hypercholestérolémie familiale hétérozygote de l'adulte
+    promus par l'<dfn><abbr title="Société Européenne de Cardiologie">ESC</abbr></dfn>.</p>
   <fieldset>
     <legend>1. Antécédents familiaux</legend>
     <div class="custom-control custom-checkbox">
@@ -46,7 +47,7 @@
     <input type="radio" id="dutch-hyperchol-44" name="dutch-hyperchol-4" class="d-input-none elem-dlcn" value="1">
     <label for="dutch-hyperchol-44" class="chip chip-action chip-sm chip-choice">1,55 - 1,9</label>
     <input type="radio" id="dutch-hyperchol-45" name="dutch-hyperchol-4" class="d-input-none elem-dlcn" value="0">
-    <label for="dutch-hyperchol-45" class="chip chip-action chip-sm chip-choice">Autre</label>
+    <label for="dutch-hyperchol-45" class="chip chip-action chip-sm chip-choice">< 1,55</label>
   </fieldset>
   <fieldset>
     <legend>5. Génétique</legend>
@@ -71,12 +72,17 @@
   // Score Dutch Lipid Clinic Network by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreDlcn = document.getElementById('dlcnScore')
-    const textDlcn = document.getElementById('dlcnText');
+    const textDlcn = document.getElementById('dlcnText')
+    const tendinousElem = document.getElementById('dutch-hyperchol-31')
+    const arcusElem = document.getElementById('dutch-hyperchol-32')
     var dlcnElems = document.querySelectorAll('#score-dutch-hyperchol input.elem-dlcn');
     dlcnElems.forEach((elem) => { elem.addEventListener('change', () => calcDlcn() ) })
     const calcDlcn = () => {
       let score = 0
       const dlcnElemsChecked = document.querySelectorAll('#score-dutch-hyperchol input.elem-dlcn:checked')
+      if (tendinousElem.checked && arcusElem.checked){
+        score -= parseInt(arcusElem.value, 10)
+      }
       dlcnElemsChecked.forEach(dlcnElem => {
         score += parseInt(dlcnElem.value, 10)
         scoreDlcn.innerHTML = score

@@ -6,7 +6,7 @@ synonyms = ["Hypolipémiants"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-17T13:36:17+01:00"
 publishdate = "2022-03-17"
-lastmod = "2023-04-20"
+lastmod = "2023-04-21"
 specialites = ["therapeutique"]
 annees = "2022"
 sources = ["USPTF", "ESC"]
@@ -16,7 +16,6 @@ sctid = "372912004"
 icd10 = ""
 image = true
 imageSrc = "Illustration des statines par macrovector / Freepik"
-todo = "ESC CVD p.16"
 +++
 
 {{%article-summary%}}
@@ -27,7 +26,7 @@ todo = "ESC CVD p.16"
 - Statines et effets indésirables: 90% des myalgies sont attribuables à un effet nocebo, elles surviennent durant la première année (sauf statine de haute intensité)
 - L'arrêt d'une statine entraîne une surmortalité cardiovasculaire de 20%
 - Arrêter une statine au moins 4 semaines avant l'arrêt d'une contraception
-- Le bilan lipidique ne nécessite pas de jeûner (*ESC 2021*)
+- Le bilan lipidique n'a pas besoin d'être réalisé à jeun (*ESC 2021*)
 
 {{%/article-summary%}}
 {{%collapse "Intensité des statines" %}}
@@ -66,13 +65,28 @@ La USPTF ajoute qu'il n'y a pas de bénéfice à initier une statine en prévent
 > *[US Preventive Services Task Force. Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2022.13044)*
 
 {{% /collapse %}}
+{{%collapse "Manipuler une statine" %}}
+
+Débuter un traitement par statine:
+
+- Contrôler le bilan lipidique 1-12 semaines après le bilan initial (sauf très haut risque ou syndrome coronarien aigu)
+- Bilan pré-thérapeutique: ALAT, CPK  
+  Ne pas démarrer si CPK > 4N (surveiller les CPK)
+- Contraception efficace
+- Surveiller
+  - Le bilan lipidique 4-12 semaines après chaque modification
+  - Les ALAT 8-12 semaines après chaque augmentation de posologie
+  - Les CPK en cas de myalgies
+- Surveillance annuelle du LDL après atteinte de la cible
+
+{{% /collapse %}}
 {{%collapse "Statines et effets indésirables" %}}
 
 ### Statines et myalgies
 
 Les myalgies réellement liées aux statines sont rares.
 
-Doser: ASAT, ALAT, CPK pré-thérapeutique et surveiller après 1-3 mois de traitement. (*Bouhairie et al*)
+Surveillance biologique chez l'enfant: ASAT, ALAT et CPK pré-thérapeutiques à renouveler après 1-3 mois de traitement. (*Bouhairie et al*)
 
 Dans les essais contrôlés, moins de 0,1 % des sujets ont présenté de réelles myopathies (avec élévation des CPK) sous statine. Dans les deux bras (*statine* et *placebo*), les myalgies étaient rapportées par 11,5 % des sujets.
 
@@ -89,10 +103,20 @@ La survenue de myalgies survenue intervient durant la première année de traite
 
 ### Statine mal tolérée
 
-En cas de complications attribuables à une statine (TODO: ESC src3):
+En cas de complications attribuables à une statine:
 
-- Doser les CPK (arrêt si > 5N), transaminases (arrêt si > 3N)
-- Essayer diverses méthodes: poursuite à faible dose puis titration, substitution par une autre statine, suspension durant 3 mois
+- Doser les CPK
+  - CPK > 10N: suspendre la statine, créatininémie, CPK toutes les 2 semaines
+  - CPK 4-10N asymptomatique: poursuivre la statine en contrôlant les CPK à 2-6 semaines
+  - CPK 4-10N symptomatique: suspendre la statine, créatininémie, CPK toutes les 2 semaines puis reprise avec titration douce
+  - CPK < 4N asymptomatique: poursuivre la statine, recontrôler les CPK
+  - CPK < 4N symptomatique: poursuivre la statine et surveiller les symptômes et les CPK  
+    Si symptômes persistent: suspendre la statine et ré-évaluer après 6 semaines puis essayer diverses méthodes (voir plus bas)
+- Doser les ALAT
+  - ALAT < 3N: poursuivre la statine, recontrôler les ALAT à 4-6 semaines
+  - ALAT ≥ 3N: suspendre ou réduire la statine et recontrôle les ALAT à 4-6 semaines  
+    Si normalisation, réintroduction douce.
+- **Essayer diverses méthodes**: poursuite à faible dose puis titration progressive, prise 1 jour/2, substitution par une autre statine, suspension durant 3 mois
 
 Lorsqu'une statine doit être arrêtée pour mauvaise tolérance, envisager la substitution par l'[ézétimibe](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63964962&typedoc=R) voire l'ajout de [cholestyramine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65691327&typedoc=R) et/ou d'un anti-PCSK9 selon le risque cardiovasculaire (*ESC 2021*)
 {.alert .alert-info}
@@ -109,9 +133,10 @@ Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**infarctus 
 {{% /collapse %}}
 {{%sources%}}
 
-*Bibliographie en regard de chaque élément présenté*
+*Autres bibliographies en regard de chaque élément présenté*
 
 - {{< references/esc-cvd >}}
+- {{< references/esc-dyslipidaemias >}}
 - [Bouhairie VE, Goldberg AC. Familial hypercholesterolemia. Cardiol Clin. 2015.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4472364/)
 
 {{%/sources%}}

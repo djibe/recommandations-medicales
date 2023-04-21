@@ -14,13 +14,15 @@
   {{ if hugo.IsProduction }}
     {{ $sass = resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint "sha384" }}
     {{ $print = resources.Get "sass/print.scss" | toCSS | postCSS | minify | fingerprint "sha384" }}
-    <link rel="stylesheet preload" href="{{ $sass.Permalink }}" as="style" integrity="{{ $sass.Data.Integrity }}"><!-- media="print" onload="this.media='all'" -->
+    <link rel="preload" href="{{ $sass.Permalink }}" as="style">
+    <link rel="stylesheet" href="{{ $sass.Permalink }}" integrity="{{ $sass.Data.Integrity }}"><!-- media="print" onload="this.media='all'" -->
     <link rel="stylesheet" href="{{ $print.Permalink }}" media="print" integrity="{{ $print.Data.Integrity }}">
     {{ else }}
     {{ $sass = resources.Get "sass/style.scss" | toCSS }}
     {{ $dark = resources.Get "sass/dark-theme.scss" | toCSS }}
     {{ $print = resources.Get "sass/print.scss" | toCSS }}
-    <link rel="stylesheet preload" href="{{ $sass.Permalink }}" as="style">
+    <link rel="preload" href="{{ $sass.Permalink }}" as="style">
+    <link rel="stylesheet" href="{{ $sass.Permalink }}">
     <link rel="stylesheet" href="{{ $dark.Permalink }}" media="print" onload="this.media='all'">
     <link rel="stylesheet" href="{{ $print.Permalink }}" media="print">
   {{ end }}
