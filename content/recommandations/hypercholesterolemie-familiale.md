@@ -21,7 +21,7 @@ imageSrc = "Xanthélasma de la paupière supérieure. Bobtheowl2, CC BY-SA 3.0, 
 
 {{%article-summary%}}
 
-- Évoquer une hypercholestérolémie familiale (HF) en cas de: accident cardiovasculaire (CV) précoce ou d'hérédité cardiovasculaire, LDL > 1,9 g/L ou très élevé (voir *Définition*), antécédents familiaux de dyslipidémie, arc cornéen complet avant 45 ans, xanthomes des tendons
+- Évoquer une hypercholestérolémie familiale (HF) en cas de: hérédité cardiovasculaire, coronaropathie avant 55/60 ans (H/F), proches avec xanthomes des tendons ou HF, LDL > 1,9 g/L (1,5 chez l'enfant), arc cornéen complet avant 45 ans
 - Signes d'HF: hérédité et événements précoces cardiovasculaires, xanthomes, arc cornéen, xanthélasma
 - Bilan de l'hypercholestérolémie familiale: bilan lipidique avec contrôle, créatininémie, albuminurie sur échantillon, TSH, consultation de cardiologie
 - Le risque cardiovasculaire est au moins {{< modal-btn modal-rcv >}}élevé{{< /modal-btn >}}

@@ -4,7 +4,7 @@ description = "Explication et détail des indicateurs du Forfait structure pour 
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-16T09:20:00+02:00"
 publishdate = "2022-05-16"
-lastmod = "2023-01-10"
+lastmod = "2023-04-23"
 specialites = []
 sources = []
 tags = []
@@ -19,7 +19,7 @@ Le *Forfait structure* correspond à une prime annuelle versée par l'Assurance 
 Les montants versés couvrent potentiellement intégralement vos dépenses d'équipement (webcam ou autre) et de services informatiques (téléconsultation, dossier patient) avec 2800€ versés pour le *Volet 1* et 4375€ pour le *Volet 2* (+ max 2520€ selon le niveau de participation aux soins non programmés). En 2022, la valeur du point était fixée à 7€.
 {.lead}
 
-Le Forfait structure est segmenté en 2 parties: équipement du cabinet et service aux patients, avec un certain montant accordé pour chaque indicateur. Au total, la prime maximale 2022 atteignait 9695€ (1385 points pour 7€ le point). En 2020, le forfait moyen reçu par praticien était de **3946€**.
+Le Forfait structure est segmenté en 2 parties: équipement du cabinet et service aux patients, avec un certain montant accordé pour chaque indicateur. Au total, la prime maximale 2022 atteignait 9695€ (1385 points pour 7€ le point). En 2022, le forfait moyen reçu par praticien a été de **4044€**.
 
 La déclaration des objectifs est complétée depuis *AmeliPro* (section *Déclarer mes indicateurs*).
 

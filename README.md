@@ -85,14 +85,38 @@ et aussi...
 
 Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans le projet, suivez le guide.
 
-1. Télécharger [Git](https://git-scm.com/downloads) (installez avec les options par défaut) et [NodeJS](https://nodejs.org/download/release/v16.15.1/) (à l'installation de NodeJS, cochez "Automatically install the necessary tools. Note this will also install Chocolatery", on en a besoin)
-2. Sur votre PC, dans le dossier où vous voulez placer le projet, ouvrir une Invite de Commande en mode administrateur et tapez `git clone https://github.com/djibe/recommandations-medicales.git`
-3. puis `choco upgrade hugo-extended -y`
-4. puis placer la *Commande* dans le dossier de recommandations-medicales
-5. puis `npm install`
-6. puis `npm run server`, le site est accessible sur `http://localhost:1313/`
+<details>
+  <summary>Sous Windows</summary>
 
-[![Ouvrir l'éditeur du code source dans le navigateur](https://open.vscode.dev/badges/open-in-vscode.svg)](https://vscode.dev/github/djibe/recommandations-medicales)
+  1. Télécharger [Git](https://git-scm.com/downloads) (installez avec les options par défaut) et [NodeJS](https://nodejs.org/download/release/v16.15.1/) (à l'installation de NodeJS, cochez "Automatically install the necessary tools. Note this will also install Chocolatery", on en a besoin)
+  2. Sur votre PC, dans le dossier où vous voulez placer le projet, ouvrir une Invite de Commande en mode administrateur et tapez `git clone https://github.com/djibe/recommandations-medicales.git`
+  3. puis `choco upgrade hugo-extended -y`
+  4. puis placer la *Commande* dans le dossier `/recommandations-medicales`
+  5. puis `npm install`
+  6. puis `npm run server`, le site est accessible sur `http://localhost:1313/`
+
+</details>
+
+<details>
+  <summary>Sous Linux</summary>
+
+  Désinstaller Hugo si déjà installé et entrer les commandes dans l'ordre:
+
+  1. `sudo apt install wget curl nodejs npm git-all golang-go -y`
+  2. `wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash`
+  3. `wget https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_extended_0.111.3_linux-arm64.deb`
+  4. `sudo dpkg -i hugo_extended_0.111.3_linux-arm64.deb`
+  5. Fermer le terminal
+  6. Ouvrir le terminal et entrer: `nvm install 14`
+  7. Positionner le terminal sur le dossier souhaité
+  8. `git clone https://github.com/djibe/recommandations-medicales.git`
+  9. `cd recommandations-medicales`
+  10. puis `npm install`
+  11. puis `npm run server`, le site est accessible sur `http://localhost:1313/`
+
+</details>
+
+[Ouvrir l'éditeur du code source dans le navigateur](https://vscode.dev/github/djibe/recommandations-medicales)
 
 ### Créer un nouvel article
 

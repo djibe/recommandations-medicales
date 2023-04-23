@@ -1,6 +1,7 @@
 +++
 title = "Hyperthyroïdie et maladie de Basedow"
 prefix = "l'"
+titleSeo = "Hyperthyroïdie maladie Basedow"
 description = "TODO:"
 synonyms = ["Maladie de grave"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -9,22 +10,23 @@ publishdate = "2023-04-17"
 lastmod = "2023-04-17"
 specialites = ["endocrinologie"]
 annees = "2022"
-sources = ["HAS"]
+sources = ["HAS", "ETA"]
 tags = ["dyspnee", "fatigue", "HTA", "prurit", "TSH"]
-anglais = ["Hyperthyroidism", "Graves' disease", "Basedow disease"]
+anglais = ["Hyperthyroidism", "Graves' hyperthyroidism", "Graves' disease (GD)", "Basedow disease"]
 sctid = "34486009"
 icd10 = "E05.9"
 draft = true
 image = true
 imageSrc = "Scintigraphie thyroïdienne avec hyperfixation diffuse typique de maladie de Basedow chez un jeune homme de 20 ans ayant perdu 20 kg en 2 mois. Cas d'Ammar Ashraf, Radiopaedia.org, rID: 156767"
 todo = "summary, liens, https://www.youtube.com/watch?v=r6H9DsSt1Fc&list=PLQ7VKbZf6mU4GgyastgaIHeSV_pyIvKIR&index=7"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
 TODO:
 
-Chapitre lié: [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [nodule thyroïdien]({{< relref "nodule-thyroidien.md" >}})
+Chapitre lié: [nodule thyroïdien]({{< relref "nodule-thyroidien.md" >}}) et [hypothyroïdie]({{< relref "hypothyroidie.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -193,7 +195,7 @@ TSH de 0,1 à 0,4 mUI/L: TSH puis T4L ± T3L << en cascade >> à 6 semaines puis
   - T4L normale et T3L augmentée: hyperthyroïdie à T3L
   - T4L et T3L normales: hyperthyroïdie fruste ou autre cause de TSH basse (voir chapitre suivant)
 
-Des anticorps anti-récepteur de la TSH (TRAK) positifs lors d'une hyperthyroïdie avérée signe une maladie de Basedow
+Des anticorps anti-récepteur de la TSH (TRAK) positifs lors d'une hyperthyroïdie avérée signent une maladie de Basedow
 {.alert .alert-info}
 
 Avis spécialisé en cas de TSH normale avec T4L élevée (hyperthyroïdie centrale).
@@ -216,6 +218,7 @@ Causes extrathyroïdiennes de TSH basse isolée:
 Seule la thyroglobuline sérique peut être utile en cas de suspicion d'hyperthyroïdie factice (prise d'hormones thyroïdiennes).
 
 {{%warning%}}
+
 - Le dosage de la T3L n'a pas d'utilité sauf hyperthyroïdie sous amiodarone ou TSH basse avec T4L normale
 - << Les anticorps anti-thyroperoxydase (anti-TPO) n'ont pas leur place dans le diagnostic étiologique d'une hyperthyroïdie >>
 - << Les anticorps anti-thyroglobuline n'ont pas d'utilité pour explorer une hyperthyroïdie >>
@@ -258,7 +261,8 @@ La prise en charge de l'hyperthyroïdie relève de l'endocrinologue. Néanmoins,
 ### Mesures générales
 
 - Repos ± arrêt de travail
-- Bêtabloquant non-cardiosélectif propranolol
+- Bêtabloquant non-cardiosélectif  
+  Propranolol 20-40 mg x 4/j (ou aténolol, bisoprolol).
 - Sédatifs temporaires
 - Femme jeune: contraception efficace pendant la prise en charge pour éviter des complications fœtales (voir *Définitions*)
 - Orbitopathie basedowienne: prise en charge pluridisciplinaire
@@ -288,7 +292,8 @@ Après la première ligne de traitement par antithyroïdiens de synthèse, en ca
 - Thiamazole 15-30 mg/j (Thyrozol®)
 - En l'absence de grossesse avec contraception efficace
 
-Puis paliers décroissants toutes les 3-6 semaines (méthode de titration) ou supplémentation en lévothyroxine (méthode << block and replace >>, contre-indiquée pendant la grossesse), équivalentes.
+Puis paliers décroissants toutes les 3-6 semaines (méthode de titration) ou supplémentation en lévothyroxine (méthode << block and replace >>, contre-indiquée pendant la grossesse), équivalentes.  
+Le thiamazole est souvent réduit à 2,5-10 mg/j (titration) ou poursuivi à 30 mg/j (block).
 
 Surveillance biologique:
 
@@ -301,6 +306,9 @@ Un délai de 10-15 jours est nécessaire avant l'amélioration des symptômes (�
 
 ### Arrêt du traitement par ATS
 
+Facteurs de risque de récidive: goitre volumineux, TRAK élevés, hyperthyroïdie sévère et difficilement contrôlée, tabac
+{.alert .alert-warning}
+
 Après 12 à 18 mois, réévaluation clinico-biologique pour envisager l'arrêt des ATS de première ligne:
 
 - Asymptomatique TODO:
@@ -308,13 +316,13 @@ Après 12 à 18 mois, réévaluation clinico-biologique pour envisager l'arrêt 
 - TRAK idéalement négatifs
 - Éventuellement un échodoppler thyroïdien
 
-Surveillance après l'arrêt des ATS:
+Surveillance rapprochée après l'arrêt des ATS:
 
 - Si Basedow: dosage des TRAK juste avant l'arrêt du traitement
 - Après l'arrêt: TSH à 6-8 semaines, 3 mois, 6 mois puis annuelle
 - Agranulocytose: neutrophiles < 0,8 G/L (*SFE 2016*), **hospitalisation en urgence si < 0,5 G/L**
 
-40-50% de rechutes après l'arrêt du traitement.
+40-50% de rechutes après l'arrêt du traitement (souvent dans les 6-12 mois).
 
 Après 1 an, en cas de rémission, le suivi avec TSH annuelle relève du généraliste.
 
@@ -322,10 +330,10 @@ Après 1 an, en cas de rémission, le suivi avec TSH annuelle relève du génér
 {{%collapse "Pour en savoir plus: Antithyroïdiens de synthèse, irathérapie et chirurgie" %}}
 
 {{< table title="Bénéfices, risques et contre-indications aux différents traitements de l'hyperthyroïdie selon HAS 2022" >}}
-| Traitement                            | Bénéfices                                      | Risques                                                                      | Contre-indications                            |
-|---------------------------------------|------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------|
-| Antithyroïdiens<br> de synthèse (ATS) | Non invasif                                    | Récidives<br> Durée du traitement                                            | Grossesse                                     |
-| Irathérapie                           | Non invasif<br> Efficace<br> Récidives faibles | Hypothyroïdie définitive<br> Rédioprotection<br> Aggrav. orbitopathie        | Désir de grossesse < 6m<br> Grossesse/allait.<br> Susp malignité<br> Compression |
+| Traitement                            | Bénéfices                                      | Risques                                                                       | Contre-indications                            |
+|---------------------------------------|------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------|
+| Antithyroïdiens<br> de synthèse (ATS) | Non invasif                                    | Récidives (53%)<br> Durée du traitement                                       | Grossesse                                     |
+| Irathérapie                           | Non invasif<br> Efficace<br> Récidives faibles (15%) | Hypothyroïdie définitive<br> Radioprotection<br> Aggrav. orbitopathie   | Désir de grossesse < 6m<br> Grossesse/allait.<br> Susp malignité<br> Compression |
 | Chirurgie                             | Efficace<br> Rapide                            | Hypothyroïdie définitive<br>± hypoparathyroïdie<br>± paralysie récurrentielle | TODO:                                        |
 {{< /table >}}
 
@@ -343,7 +351,7 @@ Après 1 an, en cas de rémission, le suivi avec TSH annuelle relève du génér
 
 ### Irathérapie (iode 131 ou <sup>131</sup>I)
 
-Traitement très efficace (en 1 à 3 mois) non invasif aboutissant à une hypothyroïdie définitive.
+Traitement très efficace (en 1 à 3 mois) non invasif aboutissant à une hypothyroïdie définitive (5-50% dans l'année).
 
 #### Indications à l'irathérapie
 
@@ -351,22 +359,25 @@ Traitement très efficace (en 1 à 3 mois) non invasif aboutissant à une hypoth
 - Décision partagée, en considérant l'ensemble du tableau clinique
 - Maladie de Basedow: échec de la première ligne d'ATS, récidive ou première ligne avec haut risque de récidive (goitre volumineux, TRAK élevés, hyperthyroïdie sévère)
 
-Traitement formellement contre-indiqué en cas de grossesse et tout projet doit être repoussé **au moins 6 mois** après l'irathérapie.
+Traitement formellement contre-indiqué en cas de grossesse et tout projet de grossesse doit être repoussé **au moins 6 mois** après l'irathérapie.
 
 #### Suivi après irathérapie
 
 - Consultation dans les 2-3 semaines
+- L'ATS est suspendu au moins 1 semaine avant et après
 - Suivi de la TSH
   - 1-2 mois après la fin du traitement, 2 semaines si orbitopathie
   - Puis toutes les 6 semaines à 3 mois pendant 6 mois
   - Puis tous les 3 mois pendant 1 an ou jusqu'à l'apparition d'une hypothyroïdie
-- Contraception efficace pendant 6 mois
+- Contraception efficace pendant 6 mois pour tous
 
 ### Chirurgie de la thyroïde: lobectomie ou thyroïdectomie totale
 
 La thyroïdectomie doit être réalisée par un chirurgien expérimenté pour limiter le risque de paralysie récurrentielle et d'hypoparathyroïdie.
 
-Il s'agit d'une thyroïdectomie totale voire d'une lobectomie (réservée à l'adénome toxique).
+Il s'agit d'une thyroïdectomie totale voire d'une lobectomie (réservée à l'adénome toxique). [vitamine D dosée]({{< relref "vitamine-d.md" >}}) ± corrigée.
+
+Basedow: l'euthyroïdie doit être obtenue avant l'opération.
 
 #### Indications à la chirurgie de la thyroïde
 
@@ -422,6 +433,26 @@ Sevrage tabagique (prévention de l'aggravation de l'orbitopathie)
 TODO:
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de l'hyperthyroïdie" "show" %}}
+
+{{< mermaid title="Conduite à tenir pour le diagnostic et la prise en charge de l'hyperthyroïdie. Dr JB Fron d'après HAS 2022" >}}
+graph TB
+suspicion("<b>Suspicion d'hyperthyroïdie</b><br>—<br>- Cardiothyréose<br>- Thyrotoxicose<br>- Amaigrissement- Diarrhée")
+style suspicion stroke:#4150f5, stroke-width:1px
+suspicion --> TSH(TSH)
+TSH --"&lt; 0,1"--> T4L
+  T4L -- Augmentée --> hyperthyroïdie(Hyperthyroïdie) --> TRAK(TRAK) -- Positifs --> Basedow("Maladie<br>de Basedow")
+    TRAK -- Négatifs --> bilan("- Échographie<br>cervicale<br>- Scintigraphie")
+  T4L -- Normale --> T3L(T3L) -- Augmentée --> hyperthyroïdieT3L("Hyperthyroïdie<br>à T3L")
+    T3L -- Normale --> autres("Autre causes de<br>TSH basse isolée")
+TSH -- 0,1-0,4 --> TSH2("TSH à 6<br>semaines")
+  TSH2 -- Normale --> arrêt
+  TSH2 -- Basse --> liste("- Thyroïde douloureuse:<br>thyroïdite<br>- T4L élevée: hyperthyroïdie<br>- T3L élevée: hyperthyroïdie<br>à T3L<br>- T4L et T3L normales:<br>hypothyroïdie fruste<br>ou autre cause")
+TSH -- Normale --> arrêt(Arrêt)
+suspicion -. Nodule, ADP .-> écho(Échographie)
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 {{< youtube id="7VUjGq2OYX0" title="La minute RECO HAS | Pathologies thyroïdiennes : pertinence des examens d'imagerie (Dr Jean Tramalloni)" >}}
