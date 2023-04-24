@@ -389,6 +389,7 @@ graph TB
 ### À lire
 
 - [Janier M. et al. 2020 European guideline on the management of syphilis. J Eur Acad Dermatol Venereol. 2021.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16946)
+- [SNFCP. Syphilis ano-rectale. Fiches diagnostiques. 2018.](https://www.snfcp.org/fiches-diagnostiques-2/pathologies-proctologiques-de-ladulte/fiche-diag_syphilis-ano-rectale/)
 - [Janier M. et al; SFD. Syphilis tardive. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/syphilis-tardive-5fcc5313bd62f1e2e1693dbe700baf9c.pdf)
 
 {{%/sources%}}

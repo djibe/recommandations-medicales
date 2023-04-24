@@ -3486,10 +3486,11 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
   align-items: center;
   background-color: #e0e0e0;
   border: 0;
-  border-radius: 1rem;
+  border-radius: 8px;
   color: rgba(0, 0, 0, 0.87);
   display: inline-flex;
   font-size: 0.875rem;
+  font-weight: 500;
   height: 2rem;
   justify-content: center;
   letter-spacing: 0.017857em;
@@ -3671,7 +3672,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
   display: inline-flex;
   font-size: 1rem;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500;
   justify-content: center;
 }
 
@@ -3681,6 +3682,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 
 .chip-xs {
   height: 1.5rem;
+  padding: 0 0.5rem;
 }
 
 .chip.disabled,

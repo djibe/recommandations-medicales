@@ -101,9 +101,11 @@ Alternative: exérèse sous anesthésie générale ou locorégionale, sans plast
 
 Poursuivre un rasage local pendant 1 à 2 semaines jusqu'à cicatrisation (*ASCRS*).
 
+[Fiche SNFCP d'information patient sur le traitement chirurgical du kyste pilonidal (PDF)](https://www.snfcp.org/wp-content/uploads/2019/02/SNFCP-FI-Exerese-sinuspilonidal-2017.pdf)
+
 #### Kyste pilonidal au stade chronique
 
-Prise en charge du kyste pilonidal chronique par exérèse d'emblée ou après incision si abcès collecté.
+Prise en charge chirurgicale du kyste pilonidal chronique par exérèse d'emblée ou après incision si abcès collecté.
 
 La technique chirurgicale privilégiée est la cicatrisation dirigée. La cicatrisation est longue (6-12 semaines).  
 Une nouvelle technique est possible au laser (SiLaT).

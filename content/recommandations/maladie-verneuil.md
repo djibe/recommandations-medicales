@@ -39,7 +39,7 @@ Les tableaux cliniques sont hyper-variables selon les patients en ce qui concern
 - Actinomycose
 - Furonculose
 - Infection de kystes épidermoïdes
-- Fissure anale
+- [Fissure anale]({{< relref "fissure-anale.md" >}})
 - Scrofuloderme (abcès tuberculeux)
 - Lymphogranulome vénérien
 - Acné nodulaire avec kystes pylonidaux

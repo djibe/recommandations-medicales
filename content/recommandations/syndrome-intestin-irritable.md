@@ -186,7 +186,7 @@ Les traitements peuvent être pris uniquement lors des périodes de poussées sy
 - Information du patient (voir chapitre suivant)
 - Mesures diététiques  
   Respect des sensations alimentaires et manger lentement, réduire les aliments identifiés comme mal supportés, limiter les graisses, éviter l'excès de fibres (son de blé), réintroduire à 4 semaines un aliment exclu en l'absence d'amélioration.
-- Laxatif ispaghul (ou psyllium) 3-4 g/j avec titration progressive (20-30 g/j)
+- [Laxatif ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67437758&typedoc=R) (dit aussi psyllium) 3-4 g/j avec titration progressive (20-30 g/j)
 - Association de patients: [APSSII](https://apssii.org)
 
 Réévaluation à 2-3 mois. Si insuffisant, proposer:
