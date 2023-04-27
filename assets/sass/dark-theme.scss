@@ -1,19 +1,16 @@
 /*
-@media (prefers-color-scheme: dark) {
-  :root {
-    color-scheme: dark;
-    --primary: #bdc2ff;
-    --background: ##1b1b1f;
-    --surface: #1c1b1f;
-    --surface-1: #1b1b1f;
-    --text: #fff;
-    --text-black-primary: rgba(255,255,255,.87);
-    --text-half: rgba(255,255,255, 0.54);
-  }
-
-  body {
-    background-color: var(--surface);
-    color: var(--text);
-  }
+:root {
+  color-scheme: dark;
+  --primary: #bdc2ff;
+  --background: ##1b1b1f;
+  --surface: #1c1b1f;
+  --surface-1: #1b1b1f;
+  --text: #fff;
+  --text-black-primary: rgba(255,255,255,.87);
+  --text-half: rgba(255,255,255, 0.54);
+}
+body {
+  background-color: var(--surface);
+  color: var(--text);
 }
 */

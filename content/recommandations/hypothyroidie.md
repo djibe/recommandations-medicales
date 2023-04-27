@@ -17,7 +17,7 @@ icd10 = "E03.9"
 image = true
 imageSrc = "Illustration de l'hypothyroïdie par storyset / Freepik"
 flowchart = true
-todo = "SEO, fdr K thyroïde"
+todo = "SEO TSH élevée > hypthyroidie traitement, fdr K thyroïde"
 +++
 
 {{%article-summary%}}

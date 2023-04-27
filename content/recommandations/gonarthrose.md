@@ -32,7 +32,7 @@ imageSrc = "Arthrose sévère du genou avec disparition de l'interligne des 3 co
 Gonarthrose
 : Atteinte la plus fréquente de l'arthrose.  
 Les 2 compartiments du genou peuvent être atteints: **fémoro-tibiale** (interne surtout, 1/2) et **fémoro-patellaire** (1/3).
-: L'évolution de la maladie se fait par poussées et est très variable.  
+: L'évolution de la maladie se fait par poussées de gonalgie et est très variable.  
 Une synovite chronique est un facteur de mauvais pronostic.
 
 Gonarthrose destructrice rapide
@@ -82,7 +82,7 @@ L'évaluation clinique pour une gonarthrose recherche le retentissement sur les 
   - Nombre d'infiltrations des genoux
 - Arthrose fémoro-tibiale
   - Douleur mécanique diffuse du genou ou interne
-  - Augmentée aux escaliers, remise en charge, soulagée au repos
+  - Gonalgie augmentée aux escaliers, remise en charge, soulagée au repos
   - Pas de réveil nocturne sauf changement de position
   - Chronique avec crises inflammatoires locales
 - Arthrose fémoro-patellaire

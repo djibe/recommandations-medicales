@@ -16,8 +16,8 @@ tags = ["EPS", "neuropathie"]
 anglais = ["Serum protein electrophoresis"]
 sctid = "4903000"
 icd10 = ""
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Résultat d'électrophorèse des protéines sériques. Yakafaucon, CC BY-SA 3.0, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}
@@ -59,7 +59,6 @@ Indications à la réalisation de l'électrophorèse des protéines sériques (E
 - Protéinurie > 0,5 g/L
 - Certaines anomalies osseuses radiologiques  
   Fracture vertébrale suspecte, fracture pathologique, géodes.
-- [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}) (*COFER*)
 - [Bouffées vasomotrices atypiques]({{< relref "menopause.md" >}}) (*CNGOF 2021 Ménopause*)
 - [Prurit sans orientation]({{< relref "prurit.md" >}}) (*CEDEF 2021*)
 
@@ -83,27 +82,27 @@ Le dosage des chaînes légères libres relève du spécialiste et n'est pas rem
 {.alert .alert-info}
 
 {{% /collapse %}}
-{{%collapse "Qui adresser au spécialiste?" %}}
+{{%collapse "Qui adresser à l'hématologue ?" %}}
 
-Personnes avec suspicion d'hémopathie maligne devant être adressées rapidement au spécialiste:
+Personnes avec suspicion d'hémopathie maligne devant être adressées rapidement à l'hématologue:
 
 {{%warning%}}
 
-- Patient < 60 ans
+- Patient de -60 ans
 - Suspicion d'hémopathie maligne  
-  AEG, douleurs osseuses, adénopathies, syndrome tumoral
+  AEG, douleurs osseuses, adénopathies, syndrome tumoral.
 - Anomalie biologique  
   Anémie, hypercalcémie, insuffisance rénale.
 - Anomalie à l'imagerie  
   Lésions osseuses.
 - Asymptomatique avec:
-  - ≥ 1 anomalie au bilan de 1<sup>re</sup> intention.
+  - ≥ 1 anomalie au bilan de 1<sup>re</sup> intention
   - Ig monoclonale avec IgG > 15 g/L, IgA ou IgM > 10 g/L.
 {{%/warning%}}
 
 > *HAS 2017*
 
-Voir *Surveillance* pour les patients non adressés.
+Voir *Surveillance* pour les patients non adressés à l'hématologue.
 
 {{% /collapse %}}
 {{%collapse "Surveillance d'une immunoglobuline monoclonale" %}}

@@ -18,7 +18,7 @@ icd10 = "K57.3"
 image = true
 imageSrc = "Diverticules coliques en coloscopie. Anpol42, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "SEO sigmoïdite, https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.pdf"
+todo = "SEO sigmoidite > diverticulite traitement > diverticulite sigmoidienne, https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.pdf"
 +++
 
 {{%article-summary%}}

@@ -255,6 +255,10 @@ accTitle: Prise en charge d'une anémie avec suspicion de carence en fer d'aprè
 - [OMS. Concentrations en hémoglobine permettant de diagnostiquer l'anémie et d'en évaluer la sévérité. Système d'informations nutritionnelles sur les vitamines et les minéraux. 2011.](https://www.who.int/fr/publications-detail/WHO-NMH-NHD-MNM-11.1)
 - [HAS. Choix des examens du métabolisme du fer en cas de suspicion de carence en fer. Mars 2011.](https://www.has-sante.fr/jcms/c_1051506/fr/choix-des-examens-du-metabolisme-du-fer-en-cas-de-suspicion-de-carence-en-fer-rapport-d-evaluation)
 
+### À lire
+
+Société française d'hématologie (sfh). Anémie chez l'adulte et l'enfant. Hématologie. Réussir son DFASM. 2021.
+
 {{%/sources%}}
 {{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
 

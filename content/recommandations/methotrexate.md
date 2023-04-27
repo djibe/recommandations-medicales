@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-20T19:04:41+02:00"
 publishdate = "2020-09-20"
-lastmod = "2022-05-22"
+lastmod = "2023-04-27"
 specialites = ["therapeutique"]
 annees = "2022"
 sources = ["HAS", "ANSM", "SNFGE"]
@@ -17,7 +17,7 @@ sctid = "387381009"
 icd10 = ""
 image = false
 imageSrc = ""
-todo = "img, SEO 'bilan pré thérapeutique méthotrexate'"
+todo = "img"
 +++
 
 {{%article-summary%}}
@@ -26,7 +26,7 @@ todo = "img, SEO 'bilan pré thérapeutique méthotrexate'"
   - Préciser le jour de la prise du méthotrexate et rappeler qu'il ne doit être pris qu'un seul jour par semaine
   - Mentionner l'indication, le dosage et la posologie en mg
   - Le jour de la prise de l'acide folique
-- Associer l'acide folique 5 mg 1 cp en 1 prise/semaine 48 heures après le méthotrexate
+- Associer l'acide folique 5 mg au moins 2 cp en 1 prise/semaine 48 heures après le méthotrexate
 - Ne pas associer le méthotrexate avec: [AINS](/tags/ains/), Bactrim, [vaccins vivants]({{< relref "vaccination.md" >}}) ... ([vérifier les interactions](https://www.drugs.com/interaction/list/?drug_list=1590-0))
 - [Carte du patient sous méthotrexate](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-carte-patient-version-1-2021-03.pdf)
 
@@ -85,7 +85,7 @@ Effets indésirables du méthotrexate lors d'une immunosuppression:
 
 ### Bilan pré-thérapeutique du méthotrexate
 
-Bilan pré-méthotrexate:
+Bilan pré thérapeutique du méthotrexate:
 
 - Recherche de foyer infectieux  
   NFS, sérologies VHB et VHC, quantiféron (TODO:).
@@ -122,9 +122,9 @@ Bilan pré-méthotrexate:
 {{< references/le-crat >}}
 
 {{% /collapse %}}
-{{%collapse "Co-prescription" %}}
+{{%collapse "Co-prescription d'acide folique" %}}
 
-Acide folique 5 mg, 1cp 2 jours après la prise du méthotrexate
+Acide folique 5 mg, au moins 2 cp 48 heures après la prise du méthotrexate (*SFR 2018*)
 {.alert .alert-info}
 
 La supplémentation en acide folique (vitamine B9) réduit les effets indésirables du méthotrexate:
@@ -157,7 +157,8 @@ La supplémentation en acide folique (vitamine B9) réduit les effets indésirab
 - [ANSM. Méthotrexate par voie orale. 2022.](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-brochure-professionnel-de-sante-version-1-2021-03.pdf)
 - Prescrire Redaction. Méthotrexate. 2022.
 - [ANSM. Médicaments à base de méthotrexate - Recommandations visant à éviter les erreurs de prise potentiellement fatales lors de l'utilisation du méthotrexate dans le traitement des maladies inflammatoires - Lettre aux professionnels de santé. 09/04/2020.](https://www.ansm.sante.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Medicaments-a-base-de-methotrexate-Recommandations-visant-a-eviter-les-erreurs-de-prise-potentiellement-fatales-lors-de-l-utilisation-du-methotrexate-dans-le-traitement-des-maladies-inflammatoires-Lettre-aux-professionnels-de-sante)
-- [Abitbol V., SNFGE. Méthotrexate dans les MICI : bilan initial et suivi. 2019. (PDF)](https://biorecos.fr/wp-content/uploads/2019/09/M%C3%A9thotrexate-dans-les-MICI-bilan-initial-et-suivi_SNFGE_2019.pdf)
+- [Abitbol V. Méthotrexate dans les MICI : bilan initial et suivi. SNFGE. 2019. (PDF)](https://biorecos.fr/wp-content/uploads/2019/09/M%C3%A9thotrexate-dans-les-MICI-bilan-initial-et-suivi_SNFGE_2019.pdf)
+- [Daien C et al. Actualisation des Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Revue du Rhumatisme. 2019.](https://www.sciencedirect.com/science/article/pii/S1169833018301522)
 - [GETAID. Méthotrexate.](https://www.getaid.org/fiches-medicament/le-methotrexate-ledertrexate-methotrexate-metoject-nordimet-novatrex)
 - [CRI. Comment optimiser l'efficacité du méthotrexate ? (PDF)](http://www.cri-net.com/ckfinder/userfiles/files/fiches-pratiques/MTX-Dec2016/MTX_02.pdf)
 - [HAS. Commission de la transparence. 20/11/2013. (PDF)](https://www.has-sante.fr/upload/docs/evamed/CT-12801_NOVATREX_PIS_RI_Avis1_CT12801.pdf)

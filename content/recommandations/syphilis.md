@@ -110,7 +110,7 @@ Recommandations pour le dépistage répété des personnes à risque de syphilis
 
 ### Syphilis primaire = Chancre
 
-Le chancre est constant mais non vu en atteinte profonde (cervico-vaginale, rectale, pharyngée).  
+Le chancre syphilitique est constant mais non vu en atteinte profonde (cervico-vaginale, rectale, pharyngée).  
 Il s'agit d'une lésion unique, muqueuse, indurée, indolore, superficielle, propre et très contagieuse mais qui peut prendre tout autre aspect. La cicatrisation est complète sans cicatrice.  
 On parle de syphilis primo-secondaire quand le chancre persiste durant l'éruption secondaire.
 
@@ -125,7 +125,7 @@ Phase d'invasion du liquide cérébro-spinal sans atteinte parenchymateuse.
 
 Inconstante (1/3 des patients), survient en cas de syphilis primaire non traitée, dans les 6 semaines après le chancre (**roséole**) à 1 an (**syphilides papuleuses**).
 
-Atteinte cutanée préférentielle:
+Atteinte cutanée préférentielle (tronc et visage):
 
 - Première floraison: **roséole syphilitique**
   - Discrètes macules rosées non prurigineuses des tronc, cou, racine des membres. Épargne le visage
@@ -134,12 +134,13 @@ Atteinte cutanée préférentielle:
   - Papules non prurigineuses, rouge brun, collerette squameuse (de Biett) des visages, OGE, palmo-plantaire symétrique
   - Évolution par poussées
 
+Le prurit est rare et les atteintes muqueuses fréquentes. Une hyperéosinophilie est possible.
+
 **Toutes les lésions élémentaires dermatologiques sont possibles au cours de la syphilis, sauf vésicules et bulles.**  
 Ex: Dépilation des sourcils, lésions d'aspect séborrhéiques des sillons naso-géniens, papules acnéiformes du menton, alopécie en petite plaques
 
-**Lésions prédominantes sur tronc et visage**, prurit rare. Atteintes muqueuses fréquentes.
-
-**Lésions contagieuses si excoriées**.
+Les lésions de syphilis secondaire sont contagieuses si excoriées
+{.alert .alert-info}
 
 #### Autres signes de syphilis
 
@@ -381,15 +382,15 @@ graph TB
 - Prescrire Rédaction. Syphilis Précoce. Octobre 2020.
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
 - [Académie Nationale de Médecine. La Syphilis en France en 2016 : une situation préoccupante. 17/03/2017. (PDF)](http://www.academie-medecine.fr/wp-content/uploads/2017/03/17.3.7-JANIER-site.pdf)
-- [Janier M. et al; SFD. Syphilis précoce. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](http://www.sfdermato.org/media/pdf/recommandation/syphilis-precoce-b61913fb8de5bca222326904654c6b30.pdf)
+- [Janier M et al; SFD. Syphilis précoce. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](http://www.sfdermato.org/media/pdf/recommandation/syphilis-precoce-b61913fb8de5bca222326904654c6b30.pdf)
 - [Organisation Mondiale de la Santé. La résistance aux antibiotiques oblige à actualiser les recommandations sur le traitement des infections sexuellement transmissibles. Août 2016.](http://www.who.int/mediacentre/news/releases/2016/antibiotics-sexual-infections/fr/)
 - [HAS. Modification de la Nomenclature des actes de biologie médicale pour les actes de recherche du Treponema pallidum. Mai 2015. (PDF)](https://www.has-sante.fr/portail/upload/docs/application/pdf/2015-05/argumentaire_syphilis_vd.pdf)
-- [SPILF (Société de Pathologie Infectieuse de Langue Française). Alternatives pour le traitement des syphilis non neurologiques dans un contexte de rupture de stock de benzathine pénicilline ± doxycycline. Février 2014. (PDF)](http://www.infectiologie.com/UserFiles/File/spilf/recos/2014-traitement-syphilis.pdf)
+- [Société de Pathologie Infectieuse de Langue Français (SPILF). Alternatives pour le traitement des syphilis non neurologiques dans un contexte de rupture de stock de benzathine pénicilline ± doxycycline. Février 2014. (PDF)](http://www.infectiologie.com/UserFiles/File/spilf/recos/2014-traitement-syphilis.pdf)
 
 ### À lire
 
-- [Janier M. et al. 2020 European guideline on the management of syphilis. J Eur Acad Dermatol Venereol. 2021.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16946)
+- [Janier M et al. 2020 European guideline on the management of syphilis. J Eur Acad Dermatol Venereol. 2021.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16946)
 - [SNFCP. Syphilis ano-rectale. Fiches diagnostiques. 2018.](https://www.snfcp.org/fiches-diagnostiques-2/pathologies-proctologiques-de-ladulte/fiche-diag_syphilis-ano-rectale/)
-- [Janier M. et al; SFD. Syphilis tardive. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/syphilis-tardive-5fcc5313bd62f1e2e1693dbe700baf9c.pdf)
+- [Janier M et al; SFD. Syphilis tardive. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/syphilis-tardive-5fcc5313bd62f1e2e1693dbe700baf9c.pdf)
 
 {{%/sources%}}

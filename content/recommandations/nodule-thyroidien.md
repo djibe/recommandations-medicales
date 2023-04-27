@@ -17,7 +17,7 @@ icd10 = "E04.1"
 image = true
 imageSrc = "Échographie d'un nodule thyroïdien de type colloïde bien limité de 3 cm du lobe gauche découvert en palpation chez une femme de 40 ans. Ian Bickle, Radiopaedia.org, rID: 47068"
 flowchart = true
-todo = "relecture demandée F. Menegaux"
+todo = "relecture demandée F. Menegaux, SEO nodule thyroidien > nodule thyroide > nodule thyroide"
 +++
 
 {{%article-summary%}}
@@ -346,7 +346,7 @@ Le suivi après cancer repose sur l'échographie cervicale. Rythme de surveillan
 {{% /collapse %}}
 {{%collapse "Prise en charge d'un nodule thyroïdien" "show" %}}
 
-{{< mermaid title="Prise en charge d'un nodule thyroïdien. Dr JB Fron d'après SFE / AFCE / SFMN 2022" >}}
+{{< mermaid title="Prise en charge d'un nodule de la thyroïde. Dr JB Fron d'après SFE / AFCE / SFMN 2022" >}}
 graph TB
 accTitle: Prise en charge d'un nodule thyroïdien d'après SFE/AFCE/SFMN 2022
   clinique["<b>Nodule thyroïdien</b><br>—<br>Quelque soit la découverte:<br>- Palpation<br>- Goitre<br>- Grossesse (écho systématique)<br>- Incidentalome<br>- Facteur de risque<br>- Enfant: suivi spécialisé"] --> TSH("TSH<br>(contrôle si anormale)")

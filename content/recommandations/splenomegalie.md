@@ -17,6 +17,7 @@ sctid = "16294009"
 icd10 = "R16.1"
 image = true
 imageSrc = "Splénomégalie modérée (22 cm de grand axe) chez un patient de 60 ans avec cirrhose hépatique connue. Cas de Bickle I. sur Radiopaedia.org rID-52825"
+todo = "SEO splénomégalie > splenomegalie > définition splénomégalie"
 flowchart = true
 +++
 
