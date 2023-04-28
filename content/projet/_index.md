@@ -68,13 +68,11 @@ const chartOptions = {
   yaxis: { decimalsInFloat: 1, min: 0 }
 }
 </script>
-
 <figure class="figure-chart">
   <div id="chart2"></div>
   <figcaption><b>Figure 2.</b> Proportion de personnes diabétiques traitées pharmacologiquement ayant bénéficié des examens de suivi recommandés, France entière en 2001, 2007 et 2013. Dr JB Fron d'après <em><a href="https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/documents/article/suivi-des-examens-recommandes-dans-la-surveillance-du-diabete-en-france-en-2013" rel="external nofollow noopener">Fosse-Edorh 2015</a></em> et <a href="https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/articles/etude-entred-2001-2003" rel="external nofollow noopener">Entred 2001-2003</a>.<br>
   <b>Légende:</b> Au moins 1 examen réalisé dans l'année pour chaque item (3 pour l'HbA<sub>1c</sub>)</figcaption>
 </figure>
-
 <script>
 const chartOptions2 = {
   series: [{
@@ -102,13 +100,11 @@ const chartOptions2 = {
   }
 }
 </script>
-
 <figure class="figure-chart">
   <div id="chart3"></div>
   <figcaption><b>Figure 3.</b> Indicateurs de qualité du parcours des patients à risque ou atteints de bronchopneumopathie chronique obstructive (BPCO). Dr JB Fron d'après <a href="https://www.has-sante.fr/upload/docs/application/pdf/2022-04/iqss_2022_-_indicateurs_bpco_developpement-_synthese_mars_2022.pdf" rel="external nofollow noopener">HAS 2022 (PDF)</a>.<br>
   <b>Légende:</b> Indicateurs en partant de midi: Taux de dépistage des personnes à risque de BPCO, couverture vaccinale antigrippale annuelle, spirométrie ou EFR annuelle. Après hospitalisation pour exacerbation de BPCO: consultation de suivi dans les 7 jours (Cs J7), réévaluation pneumologique dans les 2 mois (Cs J60), bronchodilatateur de longue durée (BDLA), recours à la réhabilitation respiratoire.</figcaption>
 </figure>
-
 <script>
 const chartOptions3 = {
   series: [{

@@ -798,8 +798,12 @@ article {
   }
 
   > h2 {
-    margin-top: 60px;
-    margin-bottom: 48px;
+    margin-block-start: 3.75rem;
+    margin-block-end: 3rem;
+  }
+
+  > h3 {
+    margin-block-start: 2rem;
   }
 
   .lead {

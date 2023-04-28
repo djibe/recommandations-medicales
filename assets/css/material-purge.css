@@ -1092,6 +1092,63 @@ a.close.disabled {
   display: block;
 }
 
+.pagination {
+  background-color: transparent;
+  display: flex;
+  list-style: none;
+  margin: 0.5rem;
+}
+
+.page-link {
+  border-radius: 1.125rem;
+  transition: all 300ms cubic-bezier(0.4, 0, 0.2, 1);
+  align-items: center;
+  color: rgba(0, 0, 0, 0.87);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  justify-content: center;
+  line-height: 2.25;
+  margin-left: 0.5em;
+  min-width: 2.25rem;
+  padding: 0 10px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+@media (min-width: 576px) {
+  .page-link {
+    transition-duration: 390ms;
+  }
+}
+
+@media (min-width: 992px) {
+  .page-link {
+    transition-duration: 280ms;
+  }
+}
+
+.page-link:hover, .page-link:focus, .page-link:active {
+  background-color: rgba(0, 0, 0, 0.04);
+  color: rgba(0, 0, 0, 0.87);
+  text-decoration: none;
+  z-index: 3;
+}
+
+.page-link:focus {
+  background-color: rgba(0, 0, 0, 0.12);
+  outline: 0;
+}
+
+.page-link:active {
+  background-color: rgba(0, 0, 0, 0.24);
+}
+
+.page-link:not(:disabled):not(.disabled) {
+  cursor: pointer;
+}
+
 .embed-responsive {
   display: block;
   overflow: hidden;
@@ -1296,6 +1353,21 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 
 .btn-shaped.btn-sm {
   border-radius: 0.875rem;
+}
+
+.btn .btn-icon-prepend {
+  display: inline-block;
+  fill: currentColor;
+  font-size: 1.125rem;
+  margin-right: 0.5rem;
+  margin-left: -0.25rem;
+  vertical-align: top;
+  width: 1.125rem;
+}
+
+.btn-icon-prepend [class*='btn-flat'],
+.btn-link .btn-icon-prepend {
+  margin-left: 0;
 }
 
 [class*='btn-flat'],

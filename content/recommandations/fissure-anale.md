@@ -97,7 +97,7 @@ Bilan complémentaire en cas de fissure latérale ou multiples selon les facteur
 
 ### Prise en charge de la fissure anale en première intention
 
-Le traitement et la prise en charge des fissures anales est hygiéno-diététiques en première intention avec la moitié de guérison à 6 semaines de 50%.
+Le traitement et la prise en charge des fissures anales est hygiéno-diététique en première intention avec la moitié de guérison à 6 semaines de 50%.
 
 - Bains de siège
 - Eau + savon après chaque selle puis séchage doux

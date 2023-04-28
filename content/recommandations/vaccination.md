@@ -136,6 +136,8 @@ Lire le *Calendrier vaccinal* page 75.
 2. Tétanos
 3. Poliomyélite
 
+> *[Loi 2007-293](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687781/2007-03-06)*
+
 ### Enfant né après le 1<sup>er</sup> janvier 2018
 
 1. Diphtérie

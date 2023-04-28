@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-26T13:38:41+02:00
 publishdate = "2020-07-26"
-lastmod = "2023-02-20"
+lastmod = "2023-04-28"
 specialites = ["social"]
 annees = "2023"
 sources = ["MinSanté"]
@@ -34,6 +34,39 @@ Ces aides à la prise en charge médicale et aux soins doivent être communiqué
 ### Ile-de-France
 
 [Mutuelle régionale de la Région Ile-de-France](https://www.iledefrance.fr/mutuelle-regionale)
+
+## Les droits et les aides
+
+- [Affection longue durée (ALD)]({{< relref "affection-longue-duree.md" >}})
+- Carte d'invalidité
+- Aide sociale adulte (ASA)
+- Frais de transport
+- Aide au logement
+- [Allocation personnalisée d'autonomie (APA)]({{< relref "allocation-personnalisee-autonomie.md" >}})
+
+## Aides pour les moins de 60 ans
+
+- Indemnités journalières
+- Pension d'invalidité
+- Allocation aux adultes handicapés (AAH)
+- Allocation compensatrice pour tierce personne (ACTP)
+- Prestation de compensation du handicap (PCH)
+
+## La protection des majeurs
+
+- Sauvegarde de justice
+- Curatelle
+- Tutelle
+
+> *[FranceAlzheimer](https://aides.francealzheimer.org)*
+
+## Le droit des patients
+
+- [Accès au dossier médical]({{< relref "acces-dossier-medical.md" >}})
+- Secret médical
+- Personne de confiance
+- Refus de soin
+- Fin de vie
 
 ## Prisonniers {.mt-5}
 
