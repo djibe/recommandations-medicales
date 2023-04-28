@@ -134,7 +134,7 @@ Atteinte cutanée préférentielle (tronc et visage):
   - Papules non prurigineuses, rouge brun, collerette squameuse (de Biett) des visages, OGE, palmo-plantaire symétrique
   - Évolution par poussées
 
-Le prurit est rare et les atteintes muqueuses fréquentes. Une hyperéosinophilie est possible.
+Le prurit est rare et les atteintes muqueuses fréquentes. Une [hyperéosinophilie]({{< relref "hypereosinophilie.md" >}}) est possible.
 
 **Toutes les lésions élémentaires dermatologiques sont possibles au cours de la syphilis, sauf vésicules et bulles.**  
 Ex: Dépilation des sourcils, lésions d'aspect séborrhéiques des sillons naso-géniens, papules acnéiformes du menton, alopécie en petite plaques

@@ -2,23 +2,22 @@
 title = "Éosinophilie et hyperéosinophilies"
 prefix = "l'"
 titleSeo = "hyperéosinophilie"
-description = "TODO:"
+description = "Recommandations pour la prise en charge d'une éosinophilie ou hyperéosinophilie. Polynucléaires éosinophiles, bilan de parasitose ou médicament, avis spécialisé"
 synonyms = ["Syndromes hyperéosinophiliques"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-24T15:15:00+02:00"
-publishdate = "2023-04-27"
-lastmod = "2023-04-27"
+publishdate = "2023-04-28"
+lastmod = "2023-04-28"
 specialites = ["hematologie"]
-annees = "2021"
-sources = ["sfh"]
+annees = "2022"
+sources = ["HAS", "CEMI"]
 tags = []
 anglais = ["Eosinophilia"]
 sctid = "386789004"
 icd10 = "R72"
 draft = true
-image = false
-imageSrc = ""
-todo = "description, summary, liens, flow"
+image = true
+imageSrc = "Frottis sanguin avec un éosinophile. Echinaceapallida, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
 +++
 
@@ -27,7 +26,7 @@ flowchart = true
 TODO:
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Éosinophilie
 : Polynucléaires éosinophiles (PNE) supérieurs à 0,5 G/L de façon persistante, le plus souvent d'origine parasitaire (helminthes ++) ou allergologique (atopie, médicamenteuse), rarement liées à une hémopathie.
@@ -37,7 +36,7 @@ Hyperéosinophilie (HE)
 : Les complications d'une hyperéosinophilie sont viscérales avec libération de médiateurs protéolytiques dans les tissus à risque (cardiaque, pulmonaire, cutané, digestif, neurologique), la plus grave étant la fibrose endomyocardique.
 : Il n'y a pas de corrélation entre le taux d'éosinophiles et la sévérité des manifestations cliniques.
 
-{{< table title="Classification des éosinophilies selon l'ICOG-Eo" class="table-sm" >}}
+{{< table title="Classification des éosinophilies selon l'ICOG-Eo" >}}
 | Entité | Définition |
 |---------------------------------|-------------------|
 | Éosinophilie sanguine    |            PNE de 0,5 - 1,5 G/L |
@@ -50,11 +49,17 @@ Syndromes hyperéosinophilique (SHE)
 
 ### Abréviations
 
+CEREO
+: Centre de Référence des Syndromes Hyperéosinophiliques
+
 HE
 : hyperéosinophilie
 
 NFS
 : numération formule sanguine ou hémogramme
+
+PNDS
+: protocole national de diagnostic et de soins
 
 PNE
 : polynucléaire éosinophile
@@ -69,15 +74,19 @@ SHE
 {{% /collapse %}}
 {{%collapse "Orientation étiologique devant une hyperéosinophilie" %}}
 
-Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie, syndrome d'hypersensibilité médicamenteuse (iatrogénie), cancer
+Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie, syndrome d'hypersensibilité médicamenteuse (iatrogénie) et cancer
+{.alert .alert-info}
 
-- Nouveau-né de 6-8 semaines: physiologique transitoire
+### Étiologie des éosinophilies et hyperéosinophilies
+
+- Nouveau-né de 6-8 semaines: hyperéosinophilie physiologique transitoire
 - **Parasitoses**
   - Helminthes avec migration tissulaire en France métropolitaine  
-    HE souvent > 1 G/L: toxocarose, ascaridiose (exceptionnelle), distomatose hépatique, trichinose, myiase (élevage bovin)
+    HE souvent > 1 G/L: **toxocarose**, ascaridiose (exceptionnelle), distomatose hépatique, trichinose, myiase (élevage bovin)
   - Helminthes sans migration tissulaire  
-    HE < 1 G/L: oxyure, tænia
-  - Helminthoses tropicales
+    HE < 1 G/L: **oxyure**, **tænia**
+  - Helminthiases tropicales
+  - **[Gale]({{< relref "gale.md" >}})**
 - Infections non parasitaires  
   Bactériémie, brucellose, scarlatine, mycose profonde, [syphilis secondaire]({{< relref "syphilis.md" >}}), mononucléose infectieuse, [VIH]({{< relref "vih-sida.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}), [endocardite]({{< relref "endocardite.md" >}}), mycobactéries ...
 - **Atopie**  
@@ -87,7 +96,7 @@ Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie
 - Maladie de système  
   Polyangéite, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), polymyosites, périartérite noueuse, lupus.
 - **Cancers** et hémopathies  
-  Lymphomes (maladie de Hodgkin), carcinomes multisécrétants ou leucémie aiguë lymphoblastique.
+  Lymphomes (maladie de Hodgkin, lymphome T), carcinomes multisécrétants ou leucémie aiguë lymphoblastique.
 - Maladies spécifiques d'organe
   - ORL: syndrome de Fernand Widal (polypose nasosinusienne, asthme et prise d'AINS), pneumonie chronique à éosinophiles
   - Digestive: gastro-entérite à éosinophiles ou MICI
@@ -110,7 +119,7 @@ Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie
 > << une HE n'est jamais à négliger puisqu'elle peut constituer le point d'appel d'une maladie grave (tumeur solide, hémopathie) >> (sfh)
 {.alert .alert-info}
 
-Rechercher des causes classiques, adresser sinon
+Évoquer un syndrome hyperéosinophilique devant toute hyperéosinophilie et rechercher une infiltration organique.
 
 ### Interrogatoire
 
@@ -120,7 +129,7 @@ Rechercher des causes classiques, adresser sinon
 - Contacts avec des animaux
 - Expositions professionnelles
 - Traitements, automédication et introduction concomitante de l'hyperéosinophilie  
-  Classiques: antiépileptiques, allopurinol, sulfamides, antirétroviraux, minocycline.
+  Classiques: AINS, anti-épileptiques, antibiotiques, allopurinol, sulfamides, antirétroviraux, minocycline.
 - Habitudes alimentaires
 - Hémogrammes antérieurs
 - Symptômes
@@ -137,56 +146,95 @@ Rechercher des causes classiques, adresser sinon
 - Rechercher une hépato-splénomégalie
 - Examen cardio-respiratoire
 - Examen cutané
-- Oedèmes
+- Œdèmes
 - Aires ganglionnaires
 
-AEG, fièvre, manifestations viscérales très évocatrices de cause parasitaire
+AEG, fièvre et manifestations viscérales sont très évocatrices d'une infection parasitaire.
+
+Avis spécialisés en cas d'atteinte d'organe spécifique (pneumologue, dermatologue ...).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Évoquer un syndrome hyperéosinophilique devant toute hyperéosinophilie
+Avis spécialisé (hématologue, interniste) en cas d'hyperéosinophilie persistante sans orientation médicamenteuse ou parasitaire
+{.alert .alert-info}
+
+### Bilan d'une hyperéosinophilie et d'une éosinophilie
 
 - NFS répétées pour affirmer le caractère persistant
 - Frottis sanguin
-- CRP (ajout personnel)
+- CRP (*PNDS*)
 - Ionogramme, créatininémie
 - ASAT, ALAT, GGT, PAL
 - TP, TCA
 - CPK
+- LDH (*PNDS*)
+- Hyperéosinophilie (HE) persistante: tryptase, vitamine B12, électrophorèse des protéines sériques (*PNDS*)
 - Sérologie VIH
 - Sérologie toxocarose et distomatose
 - Examen parasitologique des selles 3 jours de suite
-- Si séjour en Afrique subsaharienne: examen parasitologique des urines
-- Si séjour tropical: IgE totales, sérologies filariose, bilharziose, strongyloïdose
+- ± Scotch-test anal
 - Sérologies parasitaires orientées
-- ± Scotch-test
-- Si tableau atopique ou HE: bilan allergologique
-- Selon le tableau: ANCA
-- Si adénopathies: scanner TAP
-- Éosinophilie persistante: NTproBNP, ECG, échodoppler cardiaque
+- Bilans selon certains profils:
+  - Séjour en Afrique sub-saharienne: examen parasitologique des urines
+  - Séjour tropical: IgE totales, sérologies filariose, bilharziose, strongyloïdose
+  - Séjour ou originaire Japon, Caraïbes, Afrique sub-saharienne: sérologie HTLV1 (*PNDS*)
+  - Tableau atopique ou HE: bilan allergologique
+  - Selon le tableau: ANCA
+  - Adénopathies ou HE persistante: scanner thoraco-abdomino-pelvien (*PNDS*)
+  - Éosinophilie persistante: NT-proBNP, ECG, échodoppler cardiaque
 
 > *CEMI 2021*
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement d'une hyperéosinophilie" %}}
 
-En l'absence d'argument classique retrouvé (parasitose, médicament), adresser toute éosinophilie persistante dans un Centre de Référence des SHE ([CEREO](http://www.cereo.fr)) pour la suite de la prise en charge.
+La prise en charge d'une éosinophilie ou hyperéosinophilie est d'abord dirigée par le bilan complémentaire.
 
-Traitement d'épreuve antihelminthe peut être proposé systématiquement: albendazole ou flubendazole avec suivi des éosinophiles.
+En l'absence d'orientation probante, un **traitement d'épreuve antihelminthe** est réalisé, avec suivi des éosinophiles:
 
-Les objectifs du traitement dépendent du type de SHE.
+- Éosinophilie modérée (500-1500 ciblant oxyure et ascaris):
+  - [Albendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65565944&typedoc=R) (Eskazole®, Zentel®) 400 mg/j pendant 1-3 jours puis 400 mg à J15
+  - ou [flubendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60968336&typedoc=R) (Fluvermal®) 100 mg x 3/j pendant 3 jours puis 100 mg à J15
+  - Si anneaux (taenia ou autres): [praziquantel](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60996403&typedoc=R) (Biltricide®) 15 mg/kg
+- Hyperéosinophilie inexpliquée (> 1500/mm³ ciblant toxocarose, trichinellose, ascaridiose, oxyurose):  
+  [Albendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65565944&typedoc=R) 10-15 mg/kg/j en 2 prises/j (max 800 mg/j).
 
-Information du patient: CEREO, www.apimeo.org, Alliance maladies rares
+> *PNDS 2022*
 
-- Environ 2 cs spé par an
-- NFS trimestrielle
+Si l'éosinophilie persiste malgré le traitement d'épreuve, adresser toute éosinophilie persistante dans un Centre de Référence des syndromes hyperéosinophiliques (CEREO, [annuaire](http://www.cereo.fr/website/reseau_eosinophile_&710&1732720681092952015.html)) pour la suite de la prise en charge
+{.alert .alert-warning}
+
+### Pour en savoir plus : traitement des syndromes hyperéosinophiliques
+
+Les objectifs du traitement dépendent du type de syndrome hyperéosinophilique (SHE).
+
+Guides pour l'information du patient: [CEREO](http://www.cereo.fr/website/questions_reponses_&400&3.html), [Alliance maladies rares](https://alliance-maladies-rares.org)
+
+Le généraliste peut s'assurer du suivi minimal d'une hyperéosinophilie qui comprend classiquement:
+
+- Environ 2 consultations spécialisées par an
+- Surveillance biologique avec hémogramme trimestriel
 - Autres examens ciblés
 
-### Pour en savoir plus : traitement des SHE
+Traitements spécifiques des syndromes hyperéosinophiliques
 
 - SHE clonaux: inhibiteurs de tyrosine kinase (imatinib) et hydroxycarbamide
 - SHE réactionnels: corticothérapie topique ou systémique, interféron alpha-2a et hydroxycarbamide
+
+{{% /collapse %}}
+{{%collapse "Prise en charge d'une hyperéosinophilie" "show" %}}
+
+{{< mermaid title="Conduite à tenir et prise en charge devant la découverte d'une éosinophilie ou d'une hyperéosinophilie. Dr JB Fron d'après HAS 2022 et CEMI" >}}
+graph TB
+  éosinophilie["<b>Éosinophilie</b><br>—<br>= PNE 500-1500<br>Hyperéosinophilie si &gt; 1500"] --> clinique(Examen clinique) --> orientation(Orientation ?)
+  style éosinophilie stroke:#4150f5, stroke-width:1px
+    orientation -- Non --> bilan("<b>Bilan</b><br>—<br>- NFS multiples<br>- Frottis, CRP<br>- Iono, créat<br>- BH, TP, TCA<br>- CPK, LDH<br>- Sérologie VIH, toxocarose,<br>distomatose<br>- Parasitaire des selles<br>- ± Bilan orientés<br>sérologies, allergo, ANCA")
+      bilan -- Normal --> antiparasitaire("Antiparasitaire d'épreuve:<br>- Albendazole ou flubendazole<br>- Si anneaux: praziquantel<br>- Si HE: albendazole 10-15 mg/kg/j") -- "PNE &lt; 500" --> résolution(Guérison)
+        antiparasitaire -- Persistance --> centre("Centre de Référence<br>CEREO")
+      bilan -- Évocateur --> spécialiste
+    orientation -- Oui --> spécialiste(Spécialiste concerné)
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
@@ -197,9 +245,6 @@ Information du patient: CEREO, www.apimeo.org, Alliance maladies rares
 
 ### À lire
 
-- Orphanet
-- <http://www.eosinophil-society.org/>
+[International Eosinophil Society](http://www.eosinophil-society.org)
 
 {{%/sources%}}
-
-≤≥±®æœŒÈ³ÂSpO<sub>2</sub>

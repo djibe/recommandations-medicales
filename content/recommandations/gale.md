@@ -105,6 +105,8 @@ Incubation silencieuse pendant 1 mois (5 jours à 6 semaines). En cas de réinfe
 - Autres signes  
   Lésions sans cicatrisation, prurit matinal des doigts, xérose cutanée résistante.
 
+À l'hémogramme, une [éosinophilie]({{< relref "hypereosinophilie.md" >}}) est possible.
+
 ### Formes atypiques de gale
 
 Gale profuse
@@ -140,8 +142,9 @@ Diagnostic différentiel d'un [prurit](/tags/prurit/) tenace ou d'une gale:
 {{% /collapse %}}
 {{%collapse "Traitement de la gale" %}}
 
-La prise en charge de la gale est ambulatoire (sauf gale norvégienne).  
-Traitement antiparasitaire concomitant de toute la famille/entourage avec:
+La prise en charge de la gale est ambulatoire (sauf gale norvégienne).
+
+Traitement antiparasitaire anti-scabieux concomitant de toute la famille/entourage avec:
 
 - Traitement curatif par perméthrine ou ivermectine (voir plus bas)
 - Éviction scolaire/professionnelle jusqu'à 3 jours après le traitement (*CMIT*)  

@@ -660,9 +660,12 @@ article {
     li {
       font-size: 1rem;
     }
+    p,
+    h3 {
+      color: inherit;
+    }
     h3 {
       @extend .h6;
-      color: inherit;
       margin-bottom: 2rem;
     }
     > :first-child {

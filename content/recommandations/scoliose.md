@@ -153,6 +153,8 @@ Adresser dans un Centre de référence pour les anomalies du développement et l
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
+[Page d'information de la SOFCOT](https://www.sofcot.fr/patients/actualites/tout-savoir-sur-la-scoliose-de-lenfant-et-de-ladolescent)
+
 Informations sur la scoliose:
 
 - Explication des principales caractéristiques de la maladie
@@ -172,7 +174,7 @@ Informations sur la scoliose:
 - [HAS. Scoliose idiopathique structurale évolutive. Actes et prestations Affection de longue durée. 2018.](https://www.has-sante.fr/jcms/c_646714/fr/ald-n-26-scoliose-idiopathique-structurale-evolutive)
 - [US Preventive Services Task Force. Screening for Adolescent Idiopathic Scoliosis: US Preventive Services Task Force Recommendation Statement. JAMA. 2018.](https://jamanetwork.com/journals/jama/fullarticle/2668355)
 - [Negrini S et al. Braces for idiopathic scoliosis in adolescents. Cochrane Database of Systematic Reviews. 2015.](https://www.cochrane.org/CD006850/BACK_braces-for-idiopathic-scoliosis-in-adolescents)
-- [Courtois I, Ebermeyer E. Scoliose de l'enfant et de l'adolescent. La Lettre du Rhumatologue. 2010. (PDF)](https://www.edimark.fr/Front/frontpost/getfiles/16489.pdf)
+- Courtois I, Ebermeyer E. Scoliose de l'enfant et de l'adolescent. La Lettre du Rhumatologue. 2010.
 - HAS. Scoliose structurale évolutive (dont l'angle est égal ou supérieur à 25°) jusqu'à maturation rachidienne. Guide Affection de longue durée. 2008.
 - Prescrire Redaction. Histoire naturelle de la scoliose idiopathique. Rev Prescrire. 2006.
 - [HAS. Propositions portant sur le dépistage individuel chez l'enfant de 7 à 18 ans, destinées aux médecins généralistes, pédiatres et médecins scolaires. 2005.](https://www.has-sante.fr/jcms/c_451142/fr/propositions-portant-sur-le-depistage-individuel-chez-l-enfant-de-7-a-18-ans-destinees-aux-medecins-generalistes-pediatres-et-medecins-scolaires)

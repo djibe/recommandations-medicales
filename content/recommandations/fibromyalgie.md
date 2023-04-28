@@ -273,7 +273,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="Journée Inserm en vidéo sur la présentation de la synthèse fibromyalgie" url="Présentation vidéo" subtitle="Inserm">}}
+{{< card-link-external title="Journée Inserm en vidéo sur la présentation de la synthèse fibromyalgie" url="https://www.inserm.fr/expertise-collective/fibromyalgie/" subtitle="Inserm">}}
 
 - Collège National des Enseignants de Médecine Interne (CEMI). Troubles à symptomatologie somatique et apparentés à tous les âges. Item 72. Référentiel Collège de Médecine interne R2C. 2021.
 - [Inserm. Fibromyalgie. Collection Expertise collective. Montrouge : EDP Sciences. 2020.](https://www.inserm.fr/expertise-collective/fibromyalgie/)

@@ -50,7 +50,7 @@ Indications à la réalisation de l'électrophorèse des protéines sériques (E
 - Neuropathie périphérique inexpliquée
 - Purpura vasculaire
 - Anomalies de l'hémogramme sans cause évidente  
-  {{%class%}}[Anémie]({{< relref "anemie.md" >}}), lymphopénie isolée ou hyperlymphocytose.{{%/class%}}
+  {{%class%}}[Anémie]({{< relref "anemie.md" >}}), lymphopénie isolée ou hyperlymphocytose, [hyperéosinophilie persistante]({{< relref "hypereosinophilie.md" >}}) (*PNDS HE*).{{%/class%}}
 - VS élevée avec CRP normale  
   {{%class%}}En dehors de la grossesse et en tenant compte de l'âge.{{%/class%}}
 - Hypercalcémie  
@@ -123,6 +123,7 @@ Lorsque le patient présente une immunoglobuline monoclonale de façon asymptoma
 {{% /collapse %}}
 {{%sources%}}
 
-[HAS. Quand prescrire une électrophorèse des protéines sériques (EPS) et conduite à tenir en cas d'une immunoglobuline monoclonale. Janvier 2017.](https://www.has-sante.fr/jcms/c_2742018/fr/quand-prescrire-une-electrophorese-des-proteines-seriques-eps-et-conduite-a-tenir-en-cas-d-une-immunoglobuline-monoclonale)
+- [Centre de Référence des Syndromes Hyperéosinophiliques (CEREO), Filière de santé maladies Rares Immuno-hématologiques (MaRIH); HAS. Hyperéosinophilies et syndromes hyperéosinophiliques. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3346155/fr/hypereosinophilies-et-syndromes-hypereosinophiliques)
+- [Haute Autorité de Santé (HAS). Quand prescrire une électrophorèse des protéines sériques (EPS) et conduite à tenir en cas d'une immunoglobuline monoclonale. 2017.](https://www.has-sante.fr/jcms/c_2742018/fr/quand-prescrire-une-electrophorese-des-proteines-seriques-eps-et-conduite-a-tenir-en-cas-d-une-immunoglobuline-monoclonale)
 
 {{%/sources%}}

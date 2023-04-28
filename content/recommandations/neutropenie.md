@@ -167,7 +167,7 @@ Prise en charge possible selon l'avis du centre de référence ([annuaire](https
 
 {{< mermaid title="Conduite à tenir et prise en charge devant la découverte d'une neutropénie. Dr JB Fron d'après CEREDIH 2009 et sfh" >}}
 graph TB
-  neutropénie["<b>Neutropénie</b><br>= PNN &lt; 1500<br>Sévère si &lt; 500"]
+  neutropénie["<b>Neutropénie</b><br>—<br>= PNN &lt; 1500<br>Sévère si &lt; 500"]
   style neutropénie stroke:#4150f5, stroke-width:1px
   neutropénie --> modérée("<b>Neutropénie modérée</b><br>—<br>- Découverte fortuite<br>- Autres lignées normales<br>- Aucune infection<br>- Pas d'aphte/gingivite<br>- Pas de pathologie associée") -- Surveillance --> surveillance("- Clinique mensuelle<br>- NFS 1/mois 1 an<br>puis variable<br>- Cs en urgence si fièvre<br>- Pas de surveillance<br>si orig. Afrique")
   neutropénie --> sévère("- <b>Neutropénie sévère</b> &lt; 500<br>ou modérée avec ≥ 1 parmi:<br>- Infections sévères<br>- Lésions stomato<br>- Autre lignée anormale<br>- Hépatosplénomégalie") --> avis(Avis hématologique)
@@ -181,5 +181,3 @@ graph TB
 - [Donadieu J. Recommandations pour le diagnostic et la prise en charge des patients ayant une neutropénie chronique. CEREDIH. 2009. (PDF)](https://www.ceredih.fr/uploads/Recos-neutro_immuno-long_v4.pdf)
 
 {{%/sources%}}
-
-≤≥±®æœŒÈ³ÂSpO<sub>2</sub>
