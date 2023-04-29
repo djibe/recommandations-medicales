@@ -6,8 +6,8 @@ description = "Recommandations pour la prise en charge d'une éosinophilie ou hy
 synonyms = ["Syndromes hyperéosinophiliques"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-24T15:15:00+02:00"
-publishdate = "2023-04-28"
-lastmod = "2023-04-28"
+publishdate = "2023-04-29"
+lastmod = "2023-04-29"
 specialites = ["hematologie"]
 annees = "2022"
 sources = ["HAS", "CEMI"]
@@ -15,21 +15,26 @@ tags = []
 anglais = ["Eosinophilia"]
 sctid = "386789004"
 icd10 = "R72"
-draft = true
 image = true
 imageSrc = "Frottis sanguin avec un éosinophile. Echinaceapallida, CC BY-SA 4.0, via Wikimedia Commons"
+todo = "flow CMIT ?"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-TODO:
+- L'éosinophilie est un compte de polynucléaires éosinophiles de 500 à 1500/mm³ (répéter la NFS), on parle d'hyperéosinophilie au-delà
+- Les causes principales d'éosinophilie sont atopiques et parasitaires (helminthes ++)
+- Examen clinique rigoureux pour l'orientation étiologique du tableau d'hyperéosinophilie. Urgence médicale en cas de défaillance viscérale
+- Bilan de l'hyperéosinophilie en l'absence d'orientation: NFS répétées, CRP, frottis sanguin, bilan hépatique et rénal, bilan parasitaire, sérologies (voir *Examens complémentaires*)
+- Orienter vers le spécialiste selon le bilan ou traitement antiparasitaire d'épreuve en l'absence d'orientation
+- Avis du Centre de Référence systématique en cas d'hyperéosinophilie persistante
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Éosinophilie
-: Polynucléaires éosinophiles (PNE) supérieurs à 0,5 G/L de façon persistante, le plus souvent d'origine parasitaire (helminthes ++) ou allergologique (atopie, médicamenteuse), rarement liées à une hémopathie.
+: Polynucléaires éosinophiles (PNE) supérieurs à 0,5 G/L de façon persistante, le plus souvent d'origine allergologique (atopie, médicamenteuse) ou parasitaire (helminthes ++), rarement liées à une hémopathie.
 
 Hyperéosinophilie (HE)
 : Polynucléaires éosinophiles supérieurs à 1,5 G/L (1500/mm³) à 1 mois d'intervalle et/ou éosinophilie tissulaire.
@@ -51,6 +56,9 @@ Syndromes hyperéosinophilique (SHE)
 
 CEREO
 : Centre de Référence des Syndromes Hyperéosinophiliques
+
+EPS
+: examen parasitologique des selles
 
 HE
 : hyperéosinophilie
@@ -85,7 +93,8 @@ Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie
     HE souvent > 1 G/L: **toxocarose**, ascaridiose (exceptionnelle), distomatose hépatique, trichinose, myiase (élevage bovin)
   - Helminthes sans migration tissulaire  
     HE < 1 G/L: **oxyure**, **tænia**
-  - Helminthiases tropicales
+  - Helminthoses tropicales  
+    Strongyloïdose, filariose lymphatique ou loase, onchocercose, bilharziose, gnathostomose.
   - **[Gale]({{< relref "gale.md" >}})**
 - Infections non parasitaires  
   Bactériémie, brucellose, scarlatine, mycose profonde, [syphilis secondaire]({{< relref "syphilis.md" >}}), mononucléose infectieuse, [VIH]({{< relref "vih-sida.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}), [endocardite]({{< relref "endocardite.md" >}}), mycobactéries ...
@@ -108,7 +117,7 @@ Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie
 
 - DRESS
 - Syndrome hyperéosinophilique
-- Anguillulose maligne
+- Anguillulose maligne (immunodéprimé)
 - Syndrome d'invasion larvaire
 - Hémopathies malignes
 {{%/warning%}}
@@ -124,20 +133,22 @@ Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie
 ### Interrogatoire
 
 - Antécédents  
-  Anesthésie récente, allergies, atopie (rhinite, dermatite atopique, asthme), urticaire, cancers, familiaux.
-- Antécédent de séjour en zone parasitaire, tropicale, baignade en eau douce
+  Immunodépression, allergies, atopie (rhinite, [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), [asthme]({{< relref "asthme.md" >}})), [urticaire]({{< relref "urticaire.md" >}}), cancers, familiaux.
+- Antécédent de séjour en zone tropicale, baignade en eau douce
 - Contacts avec des animaux
 - Expositions professionnelles
-- Traitements, automédication et introduction concomitante de l'hyperéosinophilie  
-  Classiques: AINS, anti-épileptiques, antibiotiques, allopurinol, sulfamides, antirétroviraux, minocycline.
+- Traitements et introduction concomitante de l'hyperéosinophilie
+  - Introductions des 6 derniers mois, automédication
+  - Classiques: AINS, anti-épileptiques, antibiotiques, allopurinol, sulfamides, antirétroviraux, minocycline.
 - Habitudes alimentaires
 - Hémogrammes antérieurs
 - Symptômes
   - Fièvre
-  - Prurit
+  - Prurit (cutané, anal)
   - Ictère, œdèmes, myalgies
   - Troubles du transit, anneaux dans les selles
-  - AEG: anorexie, amaigrissement, fatigue
+  - [Toux](/tags/toux/), [dyspnée](/tags/dyspnee/)
+  - AEG (anorexie, amaigrissement, [fatigue](/tags/fatigue/))
 
 ### Examen clinique
 
@@ -240,6 +251,7 @@ graph TB
 {{%sources%}}
 
 - [Centre de Référence des Syndromes Hyperéosinophiliques (CEREO), Filière de santé maladies Rares Immuno-hématologiques (MaRIH); HAS. Hyperéosinophilies et syndromes hyperéosinophiliques. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3346155/fr/hypereosinophilies-et-syndromes-hypereosinophiliques)
+- [CMIT. Éosinophilie. Item 218. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-218-web.pdf)
 - Société française d'hématologie (sfh). Item 218 - Éosinophilie. Hématologie. Réussir son DFASM. 2021.
 - Collège National des Enseignants de Médecine Interne (CEMI). Eosinophilie. Item 23. Référentiel Collège de Médecine interne R2C. 2021.
 
