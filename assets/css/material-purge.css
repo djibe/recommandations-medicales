@@ -4088,7 +4088,7 @@ textarea.form-control {
 .tooltip {
   font-size: 0.875rem;
   font-weight: 500;
-  margin: 1.5rem;
+  margin: 0.5rem;
   max-width: 250px;
   opacity: 0;
   position: absolute;
@@ -4098,12 +4098,12 @@ textarea.form-control {
 @media (min-width: 992px) {
   .tooltip {
     font-size: 0.625rem;
-    margin: 0.875rem;
+    margin: 0.5rem;
   }
 }
 
 .tooltip.show {
-  opacity: 0.9;
+  opacity: 1;
 }
 
 .tooltip.show .tooltip-inner {
@@ -4115,13 +4115,13 @@ textarea.form-control {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  background-color: #2f312d;
+  background-color: #313033;
   border-radius: 4px;
   color: white;
   height: 2rem;
   letter-spacing: 0.033333em;
   line-height: 2rem;
-  padding: 0 1rem;
+  padding: 0 0.5rem;
   transform: scale(0.87);
   transform-origin: center top;
   transition: transform 75ms cubic-bezier(0.4, 0, 1, 1);
