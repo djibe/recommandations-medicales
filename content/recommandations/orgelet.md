@@ -1,7 +1,7 @@
 +++
 title = "Orgelet"
 prefix = "l'"
-description = "Recommandations pour la prise en charge d'une orgelet. Furoncle de la paupière à Staphylocoque doré avec traitement par collyre antibiotique pendant 7 jours"
+description = "Recommandations pour la prise en charge d'une orgelet. Furoncle de la paupière à Staphylocoque doré avec traitement par collyre antibiotique pendant 8 jours"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-29T23:33:00+02:00"

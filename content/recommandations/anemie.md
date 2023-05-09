@@ -110,14 +110,17 @@ ACM
 BSG
 : {{%lang%}}British Society of Gastroenterology{{%/lang%}}
 
+CCR
+: cancer colorectal
+
 CM
 : carence martiale
 
 Hb
 : hémoglobine
 
-CCR
-: cancer colorectal
+SNFGE
+: Société Nationale Française de Gastro-Entérologie
 {.dl-inline}
 
 {{% /collapse %}}

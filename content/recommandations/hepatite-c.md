@@ -49,7 +49,7 @@ AAD
 : antiviral à action directe
 
 AFEF
-: Association française pour l'étude du foie
+: Association Française pour l'Étude du Foie
 
 HAS
 : Haute Autorité de Santé

@@ -41,6 +41,9 @@ ASCRS
 SNFCP
 : Société Nationale Française de Colo-Proctologie
 
+SNFGE
+: Société Nationale Française de Gastro-Entérologie
+
 SPI
 : sinus pilonidal infecté
 {.dl-inline}

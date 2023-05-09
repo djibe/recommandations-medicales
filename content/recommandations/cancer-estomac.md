@@ -69,6 +69,9 @@ K
 
 Premier degré
 : parents, fratrie, enfants
+
+SNFGE
+: Société Nationale Française de Gastro-Entérologie
 {.dl-inline}
 
 {{% /collapse %}}

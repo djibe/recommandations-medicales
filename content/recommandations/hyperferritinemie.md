@@ -46,6 +46,9 @@ Hyperferritinémie (HF)
 
 ### Abréviations
 
+AFEF
+: Association Française pour l'Étude du Foie
+
 CST
 : coefficient de saturation de la transferrine
 
@@ -60,6 +63,9 @@ HF
 
 SAM
 : syndrome d'activation macrophagique
+
+SNFGE
+: Société Nationale Française de Gastro-Entérologie
 {.dl-inline}
 
 {{% /collapse %}}

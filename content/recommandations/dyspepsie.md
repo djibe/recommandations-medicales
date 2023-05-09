@@ -63,6 +63,9 @@ RGO
 RHD
 : régime hygiéno-diététique (ou mesures hygiéno-diététiques)
 
+SNFGE
+: Société Nationale Française de Gastro-Entérologie
+
 TCA
 : trouble du comportement alimentaire
 {.dl-inline}

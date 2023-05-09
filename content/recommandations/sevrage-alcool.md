@@ -76,7 +76,7 @@ Rechute
 ### Abréviations
 
 AFEF
-: Association française pour l'étude du foie
+: Association Française pour l'Étude du Foie
 
 API
 : alcoolisations ponctuelles importantes (≥ 6 verres/occasion)

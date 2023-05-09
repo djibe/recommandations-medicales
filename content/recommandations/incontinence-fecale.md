@@ -10,7 +10,7 @@ publishdate = "2023-04-12"
 lastmod = "2023-04-12"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2015"
-sources = ["ASCRS", "SFNCP"]
+sources = ["ASCRS", "SNFCP"]
 tags = ["demence", "geriatrie", "grossesse"]
 anglais = ["Fecal incontinence (FI)"]
 sctid = "72042002"
@@ -42,7 +42,7 @@ ASCRS
 NDLR
 : note de la rédaction
 
-SFNCP
+SNFCP
 : Société Nationale Française de Colo-Proctologie
 {.dl-inline}
 
@@ -112,7 +112,7 @@ Les premières mesures visent à obtenir une régularisation du transit et de la
   Par kinésithérapeute ou sage-femme (sauf défaut sphinctérien). Exercices et **biofeedback**. 10-20 séances initiales.
 - Si constipation: augmenter les fibres, laxatifs ([macrogol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63229902&typedoc=R)) voire suppositoires ([glycérine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66177695&typedoc=R)) ou lavements (Microlax®, Norgalax® ou Normacol®)
 - Si diarrhées: augmenter les apports en fibres ± laxatifs mucilage ([ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68520477&typedoc=R) ou autre), sauf anomalie sphinctérienne
-- Site d'information du patient: [site SFNCP](https://www.snfcp.org/informations-maladies/constipation-et-incontinence/incontinence-fecale/)
+- Site d'information du patient: [site SNFCP](https://www.snfcp.org/informations-maladies/constipation-et-incontinence/incontinence-fecale/)
 
 Prise en charge des comorbidités: fistule, prolapsus hémorroïdaire.
 
@@ -132,7 +132,7 @@ Traitements spécialisés possibles selon les anomalies retrouvées au bilan com
 
 - {{< references/college-gastro >}}
 - [Paquette I et al. The American Society of Colon and Rectal Surgeons' Clinical Practice Guideline for the Treatment of Fecal Incontinence. Diseases of the Colon & Rectum. 2015.](https://journals.lww.com/dcrjournal/Fulltext/2015/07000/The_American_Society_of_Colon_and_Rectal_Surgeons_.2.aspx)
-- [SFNCP. Traitements de l'incontinence fécale. Recommandations. 2012. (PDF)](https://www.snfcp.org/wp-content/uploads/2017/Recommandations/Recommandation-IA-2013.pdf)
+- [SNFCP. Traitements de l'incontinence fécale. Recommandations. 2012. (PDF)](https://www.snfcp.org/wp-content/uploads/2017/Recommandations/Recommandation-IA-2013.pdf)
 
 ### À lire
 

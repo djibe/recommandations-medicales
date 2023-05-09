@@ -72,6 +72,9 @@ Les responsables de l'inflammation hépatique sont principalement les éléments
 
 ### Abréviations
 
+AFEF
+: Association Française pour l'Étude du Foie
+
 ELF®
 : {{%lang%}}Enhanced Liver Fibrosis{{%/lang%}} score
 
@@ -86,6 +89,9 @@ NFS
 
 PBH
 : ponction-biopsie hépatique
+
+SNFGE
+: Société Nationale Française de Gastro-Entérologie
 {.dl-inline}
 
 {{% /collapse %}}

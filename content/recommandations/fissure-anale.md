@@ -57,7 +57,7 @@ ASCRS
 IST
 : infection sexuellement transmissible
 
-SFNCP
+SNFCP
 : Société Nationale Française de Colo-Proctologie
 {.dl-inline}
 

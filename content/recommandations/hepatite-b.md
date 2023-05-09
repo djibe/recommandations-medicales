@@ -66,11 +66,17 @@ Dans le monde, 2 milliards de personnes infectées par le VHB dont 250 millions 
 
 ### Abréviations
 
+AFEF
+: Association Française pour l'Étude du Foie
+
 CHC
 : carcinome hépatocellulaire
 
 HSH
 : homme ayant des relations sexuelles avec des hommes
+
+SNFGE
+: Société Nationale Française de Gastro-Entérologie
 
 TROD
 : test rapide d'orientation diagnostique

@@ -93,6 +93,9 @@ PF
 Premier degré
 : parents, fratrie, enfants.
 
+SNFGE
+: Société Nationale Française de Gastro-Entérologie
+
 TAP
 : thoraco-abdomino-pelvien
 

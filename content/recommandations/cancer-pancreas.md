@@ -73,6 +73,9 @@ Premier degré
 RCP
 : réunion de concertation pluridisciplinaire
 
+SNFGE
+: Société Nationale Française de Gastro-Entérologie
+
 TVP
 : thrombose veineuse profonde
 {.dl-inline}

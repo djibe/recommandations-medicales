@@ -41,18 +41,6 @@ Maladie cœliaque (**MC**)
 Elle peut survenir à tout âge, prédomine chez la femme et la majorité des patients n'est pas diagnostiquée.  
 À l'origine d'une **malabsorption** et ses complications (carence, dénutrition, fracture).
 
-### Abréviations
-
-EOGD
-: endoscopie œso-gastro-duodénale (ou gastroscopie)
-
-IgA anti-transglutaminase
-: anticorps anti-transglutaminase tissulaire (ou t-TG-IgA)
-
-Premier degré
-: parents, fratrie, enfants.
-{.dl-inline}
-
 ### Complications de la maladie cœliaque
 
 - **Carences en micronutriments, [fer]({{< relref "anemie.md" >}}), vitamine B9 et B12**
@@ -68,6 +56,21 @@ Premier degré
 - 70% des patients diagnostiqués après 20 ans.  
   La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
 - 2 à 3 fois plus fréquente chez la femme.
+
+### Abréviations
+
+EOGD
+: endoscopie œso-gastro-duodénale (ou gastroscopie)
+
+IgA anti-transglutaminase
+: anticorps anti-transglutaminase tissulaire (ou t-TG-IgA)
+
+Premier degré
+: parents, fratrie, enfants.
+
+SNFGE
+: Société Nationale Française de Gastro-Entérologie
+{.dl-inline}
 
 {{%/collapse%}}
 {{%collapse "Facteurs de risque de maladie coeliaque" %}}

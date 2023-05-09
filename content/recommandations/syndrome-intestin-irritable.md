@@ -74,6 +74,9 @@ IRS
 
 SII
 : syndrome de l'intestin irritable
+
+SNFGE
+: Société Nationale Française de Gastro-Entérologie
 {.dl-inline}
 
 {{% /collapse %}}

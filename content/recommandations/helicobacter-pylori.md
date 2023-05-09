@@ -160,6 +160,9 @@ IPP
 
 K
 : cancer
+
+SNFGE
+: Société Nationale Française de Gastro-Entérologie
 {.dl-inline}
 
 ### Épidémiologie
