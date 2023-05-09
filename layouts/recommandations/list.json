@@ -1,0 +1,19 @@
+[
+{{- range $index, $value := where site.RegularPages "Section" "recommandations" -}}
+  {{ if $index }}, {{ end }}
+  {
+    "url": "{{ .RelPermalink }}",
+    "permalink" : "{{ .Permalink }}",
+    "title": "{{ .Title }}",
+    "description": "{{ .Params.description }}",
+    "specialites": "{{ .Params.specialites }}",
+    "annees": "{{ .Params.annees }}",
+    "sources": "{{ .Params.sources }}",
+    "tags": "{{ .Params.tags }}",
+    "icd10": "{{ .Params.icd10 }}",
+    "date": "{{ .Date }}",
+    "lastmod": "{{ .Lastmod }}",
+    "content": {{ .Content | plainify | jsonify }}
+  }
+{{- end -}}
+]
