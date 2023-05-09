@@ -15,8 +15,8 @@
 </script>
 
 {{- with .Params.chart }}
-<script src="https://cdn.jsdelivr.net/npm/apexcharts@3.37.0/dist/apexcharts.min.js" integrity="sha256-pTfgFJdjv1i5eqU/CIplI5e0M3I4GKLyJ1C9Lek+z4E=" crossorigin defer></script>
-<script>
+<script type="module">
+import ApexCharts from 'https://cdn.jsdelivr.net/npm/apexcharts@3.40/+esm'
 document.addEventListener( 'DOMContentLoaded', event => {
   Apex = {
     colors: ['#4150f5', '#ffa600', '#af34dc', '#e800ba', '#ff0094', '#ff2b6e', '#ff5c4b', '#ff8329'],
