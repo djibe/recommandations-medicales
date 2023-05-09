@@ -42,7 +42,7 @@ title = "RecoMédicales"
 [outputs]
   page = ["HTML"]
   home = ["HTML", "JSON", "RSS", "WebAppManifest", "WORKER"]
-  section = ["HTML"]
+  section = ["HTML", "JSON"]
   taxonomy = ["HTML"]
   term = ["HTML"]
 
