@@ -45,7 +45,7 @@ Fissure anale
 
 - Abcès périanal (douleur permanente pulsatile)
 - Fistule anorectale (écoulement purulent)
-- Thrombose hémorroïdaire externe (douleur permanente)
+- [Thrombose hémorroïdaire externe]({{< relref "hemorroides.md" >}}) (douleur permanente)
 - Dermatose: psoriasis, eczéma
 - Cancer anal
 

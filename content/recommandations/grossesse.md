@@ -38,6 +38,7 @@ Chapitres dédiés:
 - [Covid-19 à haut risque de forme grave]({{< relref "covid-19.md" >}})
 - [Diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
 - [Écoulement mamelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
+- [Hémorroïdes]({{< relref "hemorroides.md" >}})
 - [Hypothyroïdie pendant la grossesse]({{< relref "hypothyroidie.md" >}})
 - [Incontinence fécale]({{< relref "incontinence-fecale.md" >}})
 - [Infection urinaire pendant la grossesse]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})

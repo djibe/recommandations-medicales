@@ -450,7 +450,7 @@ Chez une [personne vivant avec le VIH]({{< relref "vih-sida.md" >}}) (PVVIH), l'
 
 Anite prurigineuse, érythémateuse, érosive et suintante ± intertrigo local.
 
-Différencier d'une atteinte streptococcique, d'une macération ou d'hémorroïdes.
+Différencier d'une atteinte streptococcique, d'une macération ou d'[hémorroïdes]({{< relref "hemorroides.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Traitements des mycoses" %}}

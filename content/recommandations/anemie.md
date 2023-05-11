@@ -141,7 +141,7 @@ Signes et symptômes cliniques d'une anémie:
 - Consommation de thé
 - Pertes sanguines
   - Gynécologiques: grossesse, [contraception]({{< relref "contraception.md" >}}), méno-métrorragies
-  - Digestives: [dyspepsie]({{< relref "dyspepsie.md" >}}), syndrome ulcéreux, douleurs abdominales, hémorroïdes ou saignements digestifs
+  - Digestives: [dyspepsie]({{< relref "dyspepsie.md" >}}), syndrome ulcéreux, douleurs abdominales, [hémorroïdes]({{< relref "hemorroides.md" >}}) ou saignements digestifs
   - Épistaxis
   - Hématurie
 - Anémie

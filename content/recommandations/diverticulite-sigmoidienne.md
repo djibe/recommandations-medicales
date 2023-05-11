@@ -222,6 +222,10 @@ accTitle: Prise en charge d'une suspicion de diverticulite sigmoïdienne d'aprè
 
 Mots-clé: sigmoidite
 
+### À lire
+
+[Schultz J et al. European Society of Coloproctology: guidelines for the management of diverticular disease of the colon. Colorectal Dis. 2022.](https://onlinelibrary.wiley.com/doi/full/10.1111/codi.15140)
+
 {{%/sources%}}
 {{% modal title="Score ASA" id="modal-score-asa"%}}
 

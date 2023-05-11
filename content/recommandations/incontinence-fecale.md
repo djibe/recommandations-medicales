@@ -114,7 +114,7 @@ Les premières mesures visent à obtenir une régularisation du transit et de la
 - Si diarrhées: augmenter les apports en fibres ± laxatifs mucilage ([ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68520477&typedoc=R) ou autre), sauf anomalie sphinctérienne
 - Site d'information du patient: [site SNFCP](https://www.snfcp.org/informations-maladies/constipation-et-incontinence/incontinence-fecale/)
 
-Prise en charge des comorbidités: fistule, prolapsus hémorroïdaire.
+Prise en charge des comorbidités: fistule, [prolapsus hémorroïdaire]({{< relref "hemorroides.md" >}}).
 
 ### Traitements médicamenteux de l'incontinence fécale
 
@@ -136,6 +136,7 @@ Traitements spécialisés possibles selon les anomalies retrouvées au bilan com
 
 ### À lire
 
-[Rullier E et al. Validation of the French version of the Fecal Incontinence Quality-of-Life (FIQL) scale. Gastroenterol Clin Biol. 2004.](https://pubmed.ncbi.nlm.nih.gov/15243389/)
+- [Assmann S et al. Guideline for the diagnosis and treatment of Faecal Incontinence - A UEG/ESCP/ESNM/ESPCG collaboration. United European Gastroenterol J. 2022.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.12213)
+- [Rullier E et al. Validation of the French version of the Fecal Incontinence Quality-of-Life (FIQL) scale. Gastroenterol Clin Biol. 2004.](https://pubmed.ncbi.nlm.nih.gov/15243389/)
 
 {{%/sources%}}
