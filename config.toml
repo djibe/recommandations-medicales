@@ -47,11 +47,6 @@ title = "RecoMédicales"
   term = ["HTML"]
 
 [outputFormats]
-  [outputFormats.API-S]
-  name = "API-S"
-  mediaType = "application/json"
-  baseName = "api-s"
-  isPlainText = true
   [outputFormats.WORKER]
   mediaType = "text/javascript"
   baseName = "sw"

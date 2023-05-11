@@ -49,7 +49,7 @@ Traitement de première intention pour les douleurs faibles (EVA/EN 1-3) à mod�
 
 ### AINS - Ibuprofène
 
-**Posologie chez le +3 mois:** 10 mg/kg/8h ou 7,5 mg/kg/6h par voie orale sur une période courte (max 30 mg/kg/j avec max 400 mg/prise, durée max 72 heures).
+**Posologie chez le +3 mois:** 10 mg/kg/8h ou 7,5 mg/kg/6h par voie orale (max 30 mg/kg/j avec max 400 mg/prise) sur une période courte (3j si fièvre, 5j si douleurs).
 
 Formes: sirop, capsule, cp.
 
@@ -221,6 +221,7 @@ Rassurer, selon l'âge mobiliser: présence des parents, portage, paroles, allai
 {{% /collapse %}}
 {{%sources%}}
 
+- [ANSM. Anti-inflammatoires non stéroïdiens (AINS) et complications infectieuses graves. 28/04/2023.](https://ansm.sante.fr/actualites/anti-inflammatoires-non-steroidiens-ains-et-complications-infectieuses-graves)
 - Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pédiatrie. Réussir son DFASM. 2021.
 - **[Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)**
 - [Comité de lutte contre la douleur Hôpitaux de Toulouse. Médicaments antalgiques en pédiatrie. 01/09/2017. (PDF)](https://www.chu-toulouse.fr/IMG/pdf/09_antalgiques_tableau_pediatrie_v6f.pdf)

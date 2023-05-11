@@ -83,7 +83,7 @@ Troubles anxieux, dépression, insomnie...
 Rechercher un SAOS ou syndrome des jambes sans repos.
 
 {{% /collapse %}}
-{{%collapse "Traitement par BZD et molécules disponibles" %}}
+{{%collapse "Traitement par benzodiazépine et molécules disponibles" "show" %}}
 
 ### Durée du traitement
 
@@ -168,7 +168,7 @@ Accompagnement par TCC efficace.
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-### Intervention brève écrite
+### Intervention brève écrite sur les benzodiazépines
 
 Madame, Monsieur,
 
@@ -187,7 +187,7 @@ Dr ...
 
 > *HAS 2015*
 
-### Calendrier de suivi de l'arrêt de BZD
+### Calendrier de suivi de l'arrêt des benzodiazépines
 
 [Calendrier de suivi de l'arrêt des benzodiazépines (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_calendrier_de_suivi.pdf)
 

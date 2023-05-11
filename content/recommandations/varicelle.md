@@ -177,7 +177,7 @@ Période de contagiosité: J-2 à J+4 de l'apparition des vésicules ou par voie
 Recommandations pour la prise en charge de la varicelle:
 
 - Statut sérologique de l'entourage (± vaccination dans les 3 jours)
-- Contre-indication aux aspirine/AINS/corticoïdes  
+- Contre-indication aux AINS/aspirine/corticoïdes
 - L'éviction scolaire n'est plus recommandée (*CMIT 2020*)
   - Sinon éviction scolaire jusqu'au stade croûteux
   - Signaler le cas à la collectivité pour prévenir des personnes à risque
@@ -288,6 +288,7 @@ style grossesse stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%sources%}}
 
+- [ANSM. Anti-inflammatoires non stéroïdiens (AINS) et complications infectieuses graves. 28/04/2023.](https://ansm.sante.fr/actualites/anti-inflammatoires-non-steroidiens-ains-et-complications-infectieuses-graves)
 - {{< references/calendrier-vaccinal >}}
 - [ANSM. Varitect CP. 2021.](https://ansm.sante.fr/tableau-acces-derogatoire/varitect-cp)
 - [Pinquier D. et al. Vaccin contre la varicelle. Infovac. Avril 2019.](https://www.infovac.fr/docman-marc/public/fiches/1471-fiche-varicelle/file)

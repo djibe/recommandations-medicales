@@ -32,7 +32,7 @@
 </script>
 <div class="container-fluid recommandation">
   <div class="row min-vh-100">
-    <aside class="col-lg-3 col-xl-2 order-3 order-lg-1 d-flex flex-column px-0 d-print-none" id="recommandation-aside">
+    <aside class="col-lg-3 col-xl-2 order-3 order-lg-1 d-flex flex-column px-0 d-print-none" id="recommandation-aside" style="align-self:start">
       <figure class="figure">
         <a href="{{ $imageUrl }}" target="_blank"><!--Min 1200px en 16x9, 4x3 et 1x1; BMP, GIF, JPEG, PNG, WebP et SVG; https://developers.google.com/search/docs/data-types/article#structured-data-type-definitions; fb jpg/gif/png-->
           <img class="figure-img img-fluid img-reco"
@@ -47,7 +47,7 @@
             <figcaption class="figure-caption px-2">{{ . }}</figcaption>
           {{ end }}
       </figure>
-      <div class="px-3 recommandation__info">
+      <div class="recommandation__info">
         {{ with .Params.specialites }}
         <p class="typography-overline">Système</p>
         <p class="font-weight-bold text-capitalize">{{ delimit . ", " }}</p>{{ end }}

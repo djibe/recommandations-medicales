@@ -6,7 +6,7 @@ longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-05T12:18:00+02:00"
 publishdate = "2022-12-08"
-lastmod = "2023-01-11"
+lastmod = "2023-05-11"
 sources = ["CNOM"]
 tags = []
 image = true
@@ -47,7 +47,8 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 </div>
 <div class="form-group floating-label textfield-box form-ripple w-50">
   <label for="contract-inscription">RPPS</label>
-  <input class="form-control" id="contract-inscription" type="text" required>
+  <input class="form-control" id="contract-inscription" type="text" inputmode="numeric" pattern="[0-9]{11}" aria-label="RPPS à 11 chiffres" maxlength="11" required>
+  <small class="form-text">Le RPPS a 11 chiffres</small>
 </div>
 </fieldset>
 <fieldset>
@@ -74,8 +75,8 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 </div>
 <div class="form-group floating-label textfield-box form-ripple w-50">
   <label class="mb-2" for="contract-urssaf">Siret</label>
-  <input class="form-control" id="contract-urssaf" type="number" max="99999999999999" autocomplete="off">
-  <small class="form-text">Numéro URSSAF à 14 chiffres</small>
+  <input class="form-control" id="contract-urssaf" type="text" inputmode="numeric" pattern="[0-9]{14}" maxlength="14">
+  <small class="form-text">Le numéro URSSAF a 14 chiffres</small>
 </div>
 </div>
 

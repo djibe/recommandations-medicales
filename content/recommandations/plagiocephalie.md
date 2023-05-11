@@ -24,8 +24,8 @@ todo = "rankok"
 - La plagiocéphalie n'entraîne pas de retard neuro-développemental
 - Vérifier les sutures et amplitudes des mouvements, rechercher des dysmorphies et syndromes
 - Prévention de la plagiocéphalie: inverser tous les jours le sens tête - pieds, coucher sur le dos dans une position contraire à sa préférence, augmenter le temps d'éveil passé en décubitus ventral
-- Prise en charge de la plagiocéphalie par kinésithérapie voire prise en charge spécialisée pluri-disciplinaire si déformations importantes ou sans amélioration
-- [Fiche info parents HAS: prévenir la tête plâte (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-01/recto_a4-vdef_20210107.pdf)
+- Prise en charge de la plagiocéphalie par kinésithérapie voire prise en charge spécialisée pluri-disciplinaire (chirurgie orthopédique pédiatrique) si déformations importantes ou sans amélioration
+- [Fiche info parents HAS: prévenir la tête plate (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-01/recto_a4-vdef_20210107.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -100,7 +100,7 @@ Mesures de prévention de la plagiocéphalie positionnelle:
 - Coucher bébé sur le dos dans une position contraire à sa préférence
 - Augmenter le temps d'éveil du bébé passé en décubitus ventral  
   Au moins 10 à 15 minutes au moins 3 fois par jour.
-- [Fiche info parents HAS: prévenir la tête plâte (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-01/recto_a4-vdef_20210107.pdf)
+- [Fiche info parents HAS: prévenir la tête plate (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-01/recto_a4-vdef_20210107.pdf)
 
 {{% /collapse %}}
 {{%collapse "Traitement de la plagiocéphalie" %}}
@@ -120,8 +120,8 @@ Recommandations générales pour la prise en charge de la plagiocéphalie:
 - Kinésithérapie à orientation pédiatrique  
   Positions, exercices.
 - Thérapie par moulage (port du casque)  
-  En cas de d'asymétrie grave en l'absence d'amélioration, envisageable chez le < 8 mois, sur avis spécialisé, port 23 h/jour.
-- [Fiche info parents HAS: prévenir la tête plâte (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-01/recto_a4-vdef_20210107.pdf)
+  En cas de d'asymétrie grave en l'absence d'amélioration, envisageable chez le < 8 mois, sur avis spécialisé (chirurgie orthopédique pédiatrique), port 23 h/jour.
+- [Fiche info parents HAS: prévenir la tête plate (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-01/recto_a4-vdef_20210107.pdf)
 
 ### Traitement chirurgical
 
@@ -134,5 +134,9 @@ Prise en charge chirurgicale d'une plagiocéphalie en cas de craniosynostose con
 
 - [HAS, CNPP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. Février 2020.](https://www.has-sante.fr/jcms/p_3151574/fr/prevention-des-deformations-craniennes-positionnelles-dcp-et-mort-inattendue-du-nourrisson)
 - [Société Canadienne de Pédiatrie. La plagiocéphalie positionnelle. Octobre 2011.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3202395/)
+
+### À lire
+
+[Cavalier A, Mazurier E. Plagiocéphalie fonctionnelle (non synostotique): prévention dès la maternité. réalités pédiatriques. 2013. (PDF)](https://afpa.org/content/uploads/2017/08/Cavalier_plagiocephalie_-RealitesPediatriques.pdf)
 
 {{%/sources%}}

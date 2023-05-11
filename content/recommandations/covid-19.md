@@ -8,7 +8,7 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2023-02-03"
+lastmod = "2023-05-11"
 specialites = ["infectiologie"]
 annees = "2023"
 sources = ["HAS", "HCSP", "MinSanté"]
@@ -30,7 +30,7 @@ Page servant uniquement à stocker quelques mémos
 - [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire)
 - Rappel vaccinal bivalent à 3 mois (max 4, et 12-17 ans fragiles), décalé à 4 mois (min 2, 6 avant le 15/2/22) si infection Covid (*HAS 24/12, 25/11 et 19/11*)  
   [Mon Rappel vaccin Covid](https://monrappelvaccincovid.ameli.fr/)
-- 3<sup>e</sup> rappel si +80 ans ou immunodéprimé à M3 et professionnel du médico-social / 60-79 ans / grossesse / 18-59 ans à risque / entourage de fragile à M6  
+- Rappel au printemps 2023 si +80 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave (chimio, dialyse, voir *Personnes à risque*, *DGS 2023-07*)
   même si Covid après la 3<sup>e</sup> dose (rappel min 3 mois après l'infection, *DGS 26/7* et *HAS 20/9*)
 - Passe vaccinal frauduleux désirant se faire vacciner, orienter vers un centre de vaccination (*[CNOM 23/02](https://www.conseil-national.medecin.fr/publications/actualites/rectification-vaccinal-frauduleux)*)
 
@@ -155,21 +155,6 @@ Pour les professionnels concernés par l'obligation vaccinale, le [Certificat m�
 > *DGS Urgent 2022-72*
 
 {{% /collapse %}}
-{{%collapse "Masques" %}}
-
-### Remboursement du masque FFP2
-
-Tous les critères sont nécessaires:
-
-1. Personne à risque de {{< modal-btn modal-grave >}}forme grave{{< /modal-btn >}}
-1. Échec de vaccination
-1. Capacité de le supporter plusieurs heures
-
-Ordonnance: 20 masques FFP2 pour 2 semaines ou 50 masques FFP2 pour 5 semaines
-
-> *DGS Urgent 2022-21* et [Ameli.fr](https://www.ameli.fr/assure/actualites/covid-19-les-personnes-immunodeprimees-peuvent-beneficier-de-masques-ffp2-sans-avance-de-frais)
-
-{{%/collapse%}}
 {{%collapse "Séquelles du Covid" %}}
 
 Atteintes possibles après une infection à Sars-Cov-2.
