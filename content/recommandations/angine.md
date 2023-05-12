@@ -244,7 +244,7 @@ accTitle: Prise en charge de l'angine selon le tableau clinique d'après SPILF/H
 {{%sources%}}
 
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
-- [Cohen J, Cohen R; SFP. Angine. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
+- [Cohen J, Cohen R; SFP. Angine. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
 - [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'enfant. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/fiche_memo_rhinopharyngite_angine_enfant_durees_antibiotherapies.pdf)
 - [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)
 - [Lescanne E. et al. Amygdalectomie de l'enfant Actualisation 2020 de la recommandation SFORL & CFC. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2021/11/Recommandation-SFORL-Amygdalectomie_2021.pdf)

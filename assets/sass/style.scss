@@ -799,7 +799,7 @@ article {
 
 .cabinet__content {
 
-  > * + * {
+  > * + *:not(section):not(footer) {
     margin-block-start: 1.5rem;
   }
 

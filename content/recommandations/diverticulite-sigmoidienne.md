@@ -62,7 +62,7 @@ ACP
 : {{%lang%}}American College of Physicians{{%/lang%}}
 
 ESCP
-: {{%lang%}}European Society of Coloproctology{{%/lang%}}
+: {{%lang%}}European Society of ColoProctology{{%/lang%}}
 
 HAS
 : Haute Autorité de Santé

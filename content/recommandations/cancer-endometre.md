@@ -6,7 +6,7 @@ synonyms = ["Carcinome endométrial"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-16T10:38:54+01:00"
 publishdate = "2022-12-17"
-lastmod = "2022-12-20"
+lastmod = "2023-05-12"
 specialites = ["gynecologie-obstetrique"]
 annees = "2016"
 sources = ["HAS", "INCa", "ACOG"]
@@ -24,7 +24,7 @@ imageSrc = "Carcinome endométrial chez une femme de 40 ans. Cas d'Aneta Kecler-
 - Échographie pelvienne sus-pubienne et endovaginale au plus vite en cas de métrorragies post-ménopausiques ou prolongées pour éliminer un cancer de l'endomètre
 - Toute hyperplasie endométriale doit être biopsiée sous hystéroscopie
 - Une endomètre ≤ 4 mm élimine une suspicion de cancer de l'endomètre (VPN +99%)
-- La prise en charge et le traitement du cancer de l'endomètre dépend de la RCP mais privilégie la chirurgie avec hystérectomie totale et salpingo-ovariectomie bilatérale
+- La prise en charge et le traitement du cancer de l'endomètre dépend de la RCP mais privilégie la chirurgie avec hystérectomie totale et salpingo-ovariectomie bilatérale, à l'origine d'une stérilisation
 - [Traitement par tamoxifène]({{< relref "cancer-sein.md" >}}): échographie pelvienne initiale puis suivi gynécologique annuel
 
 {{%/article-summary%}}
@@ -118,13 +118,11 @@ Le dosage du **marqueur tumoral CA 125** peut être discuté initialement en cas
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de l'endomètre" %}}
 
-Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP) et est pluridisciplinaire.
+Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP).
 
 La prise en charge du cancer de l'endomètre repose essentiellement sur la chirurgie avec hystérectomie totale et salpingo-ovariectomie bilatérale si la patiente est opérable.
 
-La chirurgie avant 50 ans entraîne une stérilisation pouvant être traitée par œstrogènes seuls (voir [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})).
-
-[Guide d'information patiente de l'INCa sur le cancer de l'endomètre](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-l-endometre/Points-cles)
+La chirurgie avant 50 ans **entraîne une stérilisation** pouvant être substituée par THS avec œstrogènes seuls (voir [ménopause]({{< relref "menopause.md" >}})).
 
 Comme pour tout cancer:
 
@@ -133,7 +131,8 @@ Comme pour tout cancer:
 - Proposer un soutien psychologique
 - Soins de confort
 - Évaluation nutritionnelle
-- Associations de patients  
+- [Guide d'information de l'INCa sur le cancer de l'endomètre](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-l-endometre/Points-cles)
+- Associations de patientes  
   [imagyn](https://www.imagyn.org), [Ligue contre le cancer](https://www.ligue-cancer.net), [roseup](https://www.rose-up.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com).
 
 ### Pour en savoir plus
@@ -154,15 +153,10 @@ Suivi après traitement du cancer de l'endomètre:
 - Puis annuel
 - Pas d'autres examens systématiques
 - Informer de la nécessité de consulter en cas de métrorragies ou de douleurs pelviennes
-- suspicion de récidive: scanner abdomino-pelvien
+- Suspicion de récidive: scanner abdomino-pelvien
+- Localisation des récidives d'un cancer endométrial les plus fréquentes: vessie, côlon, sein
 
 **Hématurie** après radiothérapie pelvienne: éliminer sans délai un cancer de la vessie.
-
-### Localisation des récidives d'un cancer endométrial les plus fréquentes
-
-- Vessie
-- Côlon
-- Sein
 
 {{% /collapse %}}
 {{%sources%}}

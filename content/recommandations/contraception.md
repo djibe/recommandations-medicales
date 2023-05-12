@@ -134,6 +134,11 @@ Seuls les COP contenant ≥ 50 µg d'EE sont associées au risque d'accident art
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}
 - Antécédent personnel de [cancer du sein]({{< relref "cancer-sein.md" >}})  
   Contre-indication à toute contraception hormonale.
+- Antécédent personnel de tumeur ovarienne de la granusola adulte avec traitement conservateur
+
+Toute contraception hormonale est déconseillée après adénocarcinome séreux de bas grade ou endométrioïde de bas grade de l'ovaire.
+
+Privilégier une contraception non hormonale après traitement d'un hépatocarcinome (pour la fonction hépatique).
 
 ### Œstrogènes possibles sous réserve
 

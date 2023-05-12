@@ -7,7 +7,7 @@ synonyms = ["Intolérance lait de vache", "APLV"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-11T06:43:00+02:00"
 publishdate = "2021-01-11"
-lastmod = "2022-05-15"
+lastmod = "2023-05-11"
 specialites = ["pediatrie"]
 annees = "2017"
 sources = ["Anses", "bibliographie"]
@@ -17,7 +17,7 @@ sctid = "782555009"
 icd10 = "Z91.0"
 image = true
 imageSrc = "Illustration de l'APLV par macrovector / Freepik"
-todo = "SEO dont 'aplv recommandations', poulet ?, https://www.sciencedirect.com/science/article/abs/pii/S1877032018304500, https://pap-pediatrie.fr/hepato-gastro/allergie-aux-proteines-du-lait-de-vache, https://pap-pediatrie.fr/allergo-pneumo/reintroduction-des-proteines-de-lait-de-vache, https://www.chu-toulouse.fr/IMG/pdf/quel_lait_prescrire_dans_l_aplv_a_benhamou_opt.pdf"
+todo = "SEO dont 'aplv recommandations', poulet ?, https://www.sciencedirect.com/science/article/abs/pii/S1877032018304500, https://pap-pediatrie.fr/hepato-gastro/allergie-aux-proteines-du-lait-de-vache, https://www.chu-toulouse.fr/IMG/pdf/quel_lait_prescrire_dans_l_aplv_a_benhamou_opt.pdf"
 +++
 
 {{%article-summary%}}
@@ -57,7 +57,6 @@ Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de 
 - Bébé Mandorle Riz 1, 2 et 3
 - Modilac Expert Riz 1, 2 et 3
 - Modilac Expert Riz AR ~~1~~, 2 et 3
-- Modilac croissance végétal avec protéines de riz 3 (supermarché ou en ligne)
 - Novalac Riz ou Riz AR de 1 à 3
 - Prémiriz 1, 2 et 3
 
@@ -98,5 +97,9 @@ Nécessaire chez < 2% des enfants.
 
 - [CIRIHA. Le lait - Les allergies croisées.](http://ciriha.org/index.php/allergies-et-intolerances-2/le-lait/les-allergies-croisees-et-associees)
 - [EBMFrance. Allergie au lait de vache.](https://www.ebmfrance.net/fr/Pages/ebm/ebm00645.aspx)
+
+### À lire
+
+[Couderc L, Mouterde O, Marguet C; SFP. Allergie aux protéines du lait de vache. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/allergo-pneumo/reintroduction-des-proteines-de-lait-de-vache)
 
 {{%/sources%}}

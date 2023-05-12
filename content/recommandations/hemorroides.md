@@ -1,17 +1,18 @@
 +++
-title = "Hémorroïdes"
+title = "Hémorroïdes et maladie hémorroïdaire"
 prefix = "les "
+titleSeo = "hémorroïdes"
 description = "Recommandations pour la prise en charge des hémorroïdes. Soulagement des symptômes: laxatifs, topique, veinotonique, traitement instrumental proctologue"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-08T18:23:04+02:00"
 publishdate = "2023-05-11"
-lastmod = "2023-05-11"
+lastmod = "2023-05-12"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
-sources = ["SNFGE", "SNFCP", "ASCRS"]
+sources = ["ESCP", "SNFGE", "SNFCP", "ASCRS"]
 tags = ["grossesse"]
-anglais = ["Hemorrhoids"]
+anglais = ["Hemorrhoids", "haemorrhoidal disease (HD)"]
 sctid = "70153002"
 icd10 = "K64.9"
 image = true
@@ -34,15 +35,18 @@ Chapitres liés: [fissure anale]({{< relref "fissure-anale.md" >}}), [incontinen
 
 Hémorroïdes
 : Formations vasculaires superficielles (souvent 3-4 éléments) de la muqueuse digestive terminale associés à des réseaux artériels et veineux présents depuis la naissance de part et d'autre de la ligne pectinée de l'anus (hémorroïdes internes et externes).
-: Une irritation le plus souvent mécanique peut déclencher des poussées de douleurs voire des saignements. Il s'agit d'une pathologie très fréquente dans les pays développés.
+: Une irritation le plus souvent mécanique peut déclencher des poussées de douleurs voire des saignements. La maladie hémorroïdaire est une pathologie très fréquente dans les pays développés (prévalence 4,4-45 %).
 
 ### Abréviations
 
 CCR
 : cancer colorectal
 
+ESCP
+: {{%lang%}}European Society of ColoProctology{{%/lang%}}
+
 NR
-: non remboursées
+: non remboursé
 
 SNFCP
 : Société Nationale Française de Colo-Proctologie
@@ -61,7 +65,7 @@ Le diagnostic d'hémorroïdes est clinique.
 - Grossesse
 - Antécédents  
   Digestifs ([syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}), MICI, [diverticules]({{< relref "diverticulite-sigmoidienne.md" >}})), gynéco-obstétricaux, [infections sexuellement transmissibles (IST)](/tags/ist/).
-- Antécédents familiaux (cancer colorectal)
+- Antécédents familiaux ([cancer colorectal]({{< relref "cancer-colorectal.md" >}}))
 - Traitements en cours
 - Traitements essayés pour les hémorroïdes
 - Alimentation: contenu en fibres
@@ -74,6 +78,7 @@ Le diagnostic d'hémorroïdes est clinique.
     Tension et brûlure du canal anal en cas de thrombose interne (plus rare).
   - Rythme des selles, troubles du transit associés, modifications du transit
   - Prolapsus hémorroïdaire
+- Symptômes à étayer: troubles du transit (intestin irritable, cancer du côlon), autres douleurs
 - Signes fonctionnels urinaires ou prolapsus associé
 - Retentissement sur la qualité de vie
 
@@ -86,7 +91,7 @@ L'examen est facilité en décubitus latéral gauche (position de Sims).
 - Prolapsus hémorroïdaire, rectal ou gynécologique
 - Toucher rectal omis car douloureux en cas de crise
 
-Les hémorroïdes internes ne sont visibles qu'en anuscopie.
+Les hémorroïdes internes ne sont visibles qu'en anuscopie et nécessitent donc un avis spécialisé.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -125,15 +130,16 @@ L'objectif de la prise en charge médicale des hémorroïdes est de soulager les
 - Si constipation:
   - Boire 1,5 L/j
   - Alimentation riche en fibre
-  - Ne pas se retenir, éviter les efforts de poussée, limiter le temps aux toilettes
+  - Ne pas se retenir, éviter les efforts de poussée, position adaptée (marchepied), limiter le temps aux toilettes
   - Éviter la station assise prolongée, activité physique régulière
   - Laxatifs mucilages ([ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67437758&typedoc=R))  
     Au long cours ou en cure courte lors des crises hémorroïdaires.
 - Information du patient: [page SNFCP](https://www.snfcp.org/informations-maladies/hemorroides/les-hemorroides/) et [FAQ Hémorroïdes](https://www.snfcp.org/informations-maladies/hemorroides/faq-hemorroides/)
 
-> La contre-indication aux épices est mal étayée.
+**NB.** La contre-indication aux épices est mal étayée.
 
-En cas d'échec, avis du proctologue pour envisager un traitement instrumental
+En cas d'échec des traitements médicamenteux, avis du proctologue pour envisager un traitement instrumental
+{.alert .alert-info}
 
 ### La thrombose hémorroïdaire externe
 
@@ -154,14 +160,11 @@ En cas d'échec une chirurgie hémorroïdaire par hémorroïdectomie pédiculair
 {{% /collapse %}}
 {{%sources%}}
 
+- [van Tol R et al. European Society of ColoProctology: guideline for haemorrhoidal disease. Colorectal Dis. 2020. (payant)](https://onlinelibrary.wiley.com/doi/abs/10.1111/codi.14975)
 - Siproudhis L, Higuero T. Traitements de la maladie hémorroïdaire. Conseil de pratique. SNFGE, SNFCP. 2020.
 - [Davis BR et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Hemorrhoids. Dis Colon Rectum. 2018.](https://journals.lww.com/dcrjournal/Fulltext/2018/03000/The_American_Society_of_Colon_and_Rectal_Surgeons.7.aspx)
 - [Higuero T et al. Recommandations pour la pratique clinique du traitement de la maladie hémorroïdaire (version courte). SNFCP. 2013. (PDF)](https://www.snfcp.org/wp-content/uploads/2017/Recommandations/RPC-MALADIE-HEMORROIDAIRE.pdf)
 - [SNFCP. Les hémorroïdes](https://www.snfcp.org/informations-maladies/hemorroides/les-hemorroides/)
 - [SNFCP. Hémorroïdes et Grossesse](https://www.snfcp.org/informations-maladies/pathologie-anale-grossesses-et-accouchement/hemorroides-et-grossesse/)
-
-### À lire
-
-[van Tol R et al. European Society of ColoProctology: guideline for haemorrhoidal disease. Colorectal Dis. 2020. (payant)](https://onlinelibrary.wiley.com/doi/abs/10.1111/codi.14975)
 
 {{%/sources%}}

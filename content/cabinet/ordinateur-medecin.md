@@ -5,12 +5,12 @@ description = "Quel ordinateur pour le médecin généraliste ? Conseils pour un
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2022-01-27"
-lastmod = "2023-03-30"
+lastmod = "2023-05-12"
 specialites = []
 sources = []
 tags = []
 image = true
-imageSrc = "Freepik"
+imageSrc = "L'ordinateur pour le médecin généraliste. Freepik"
 +++
 
 L'ordinateur (PC ou Mac) est essentiel au sein du cabinet du médecin afin de gérer à long terme le suivi des patients. Il permet également l'accès aux outils de productivité comme *Ameli Pro*. Bref, il est vital. Et pourtant, sans aucune connaissance préalable, on vous vendra ce qui rapporte, pas ce dont vous avez besoin.
@@ -76,10 +76,7 @@ Le PC présenté ci-dessous peut être assemblé sur mesure par les grands magas
 Le problème de ces sites est le choix extrêmement limité en petits boîtiers jolis. Je suis restreint à une tour plus grosse.  
 Vous pouvez demander à l'informaticien du quartier de vous monter les pièces de cette configuration dans un boîtier plus adapté.
 
-[Achat du PC recommandé sur Hardware.fr](https://shop.hardware.fr/configurateur/6a5a191e980b2e5cb0e79faa8982a231), qui offre un bon service de support
-{.alert .alert-info}
-
-ou chez [Configomania](https://www.configomania.fr/configurateur-classique.html?id=rmvbIJX4C8ffAKyfUqg75zqNjv4Pt3) (mais sans Windows :()
+[Achat du PC recommandé sur Hardware.fr](https://shop.hardware.fr/configurateur/01b0e2c20699d6a7dc86712a59379cfb), qui offre un bon service de support
 {.alert .alert-info}
 
 Changez la couleur du boîtier (les goûts et les couleurs ... mais gardez une taille très proche de 44 x 22 x 41 cm) et la souris si vous avez de petites mains. Ajoutez un lecteur DVD ou Blu-Ray selon vos besoins (mais en 2023 ...).
