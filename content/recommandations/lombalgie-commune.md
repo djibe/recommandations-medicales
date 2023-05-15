@@ -63,18 +63,7 @@ Signes de gravité à rechercher devant une lombalgie aiguë ou chronique.
 
 ### Drapeaux rouges (pathologies graves)
 
-- Âge < 20 ans ou > 55 ans
-- Antécédent traumatique violent
-- Douleur constante, progressive, inflammatoire
-- Douleur dorsale
-- Antécédents tumoraux
-- Corticothérapie prolongée (dont asthme)
-- Toxicomanie, immunosuppression, VIH
-- AEG, perte de poids inexpliquée
-- Fièvre
-- Symptômes neurologiques hors radiculalgie limitée  
-  Sphincters, moteur, paresthésies pubis/périnée.
-- Déformation rachidienne
+{{< clinique/lombalgie-drapeaux-rouges >}}
 {{%/warning%}}
 
 ### Drapeaux jaunes (personne)

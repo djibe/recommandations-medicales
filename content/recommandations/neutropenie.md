@@ -16,7 +16,7 @@ sctid = "165517008"
 icd10 = "D70"
 image = true
 imageSrc = "Polynucléaire neutrophile avec son noyau polylobé. Dr. Roshan Nasimudeen, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "Fébrile, liens, flow, https://www.sciencedirect.com/science/article/abs/pii/S2588932X2030053X, https://www.oncoclic.fr/manuel/c/0/i/18829646/fievre-chez-le-patient-neutropenique"
+todo = "relecture demandée, Fébrile, https://www.sciencedirect.com/science/article/abs/pii/S2588932X2030053X, https://www.oncoclic.fr/manuel/c/0/i/18829646/fievre-chez-le-patient-neutropenique"
 flowchart = true
 +++
 

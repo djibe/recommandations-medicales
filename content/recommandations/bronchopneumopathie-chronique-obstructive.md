@@ -138,7 +138,7 @@ Un seul marqueur de prise en charge optimale de la BPCO sur 7 atteint le seuil d
 - Hospitalisations: 100-160.000/an (2017)  
   22,5% des patients hospitalisés ont été ré-hospitalisés.
 - Décès: 18.000/an
-- Coût moyen: de 7628€ à 20.747€  
+- Coût moyen: de 7628 € à 20.747 €  
   Coût annuel moyen respectif d'un patient avec BPCO légère et oxygénorequérant.
 - Sous-diagnostic: 70% ne seraient pas diagnostiqués
 - 80% des cas dus au tabac
@@ -216,6 +216,7 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
   Sibilants, tirage, cyanose.
 - Calcul du risque cardiovasculaire {{< scores/heartscore >}}
 - [Dépister des apnées du sommeil](https://www.diabeclic.com/questionnaire-stop-bang)
+- Rechercher une [mycose buccale]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}

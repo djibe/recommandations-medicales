@@ -35,11 +35,12 @@ todo = "dépistage VHB, insuff hépatocellulaire, AFEF 2020: TROD AgHBs isolés,
 Hépatite B
 : Maladie infectieuse du foie causée par le virus de l'hépatite B (VHB) à ADN. La transmission est sexuelle, par des fluides biologiques ou materno-fœtale. Les contaminations par échanges de seringues sont encore fréquents.
 : L'infection (ALAT normales) est le plus souvent asymptomatique, on parle d'hépatite lorsque les ALAT sont élevées. 0,1 à 1% des formes aiguës peuvent évoluer vers l'**hépatite fulminante**. De 2 à 10% des cas deviennent chroniques (90% pour les nouveaux-nés), avec risque de **cirrhose** (10-20%) ou de **carcinome hépatocellulaire** (CHC, 3-5%/an) même en l'absence de cirrhose (virus oncogène).  
-Une co-infection par le virus de l'hépatite D est possible (< 2%).
+Même en cas de disparition de l'AgHBs, un réactivation reste possible en cas d'immunosuppression par persistance d'ADN viral dans les hépatocytes.
+: Une co-infection par le virus de l'hépatite D est possible (< 2%).
 
 Hépatite B chronique (ou porteur chronique de l'Ag HBs)
 : Toute personne avec AgHBs positif pendant plus de 6 mois.
-: L'antigène HBe est un marqueur de l'activité virale. Le traitement antiviral est le plus bénéfique au stade d'hépatite  AgHBe+.
+: L'antigène HBe est un marqueur de l'activité virale. Le traitement antiviral est le plus bénéfique au stade d'hépatite AgHBe+.
 
 ### Phases de l'infection par le virus de l'hépatite B
 
@@ -62,7 +63,12 @@ Les DROM ont une forte prévalence.
 
 Seulement 36.180 personnes sont en [ALD]({{< relref "affection-longue-duree.md" >}}) pour une hépatite B chronique (2019).
 
-Dans le monde, 2 milliards de personnes infectées par le VHB dont 250 millions de porteurs de l'antigène HBs.
+### L'hépatite B dans le monde
+
+- 2 milliards de personnes infectées par le VHB  
+  Dont 250 millions de porteurs de l'antigène HBs
+- 900.000 décès annuels estimés
+- 50% des carcinomes hépatocellulaires (CHC)
 
 ### Abréviations
 
@@ -110,6 +116,8 @@ Sérologie VHA + VHB (AgHBs, Ac anti-HBs, Ac anti-HBc) devant tout tableau d'ict
 Ajouter VHC si conduites à risque (sexe, drogues), VHE en cas de séjour tropical ou consommation de porc
 > .alert .alert-info
 
+### Interpréter la sérologie hépatite B
+
 {{< table title="Interprétation des marqueurs sérologiques de l'infection par le VHB. CMIT 2023" class="table-wrap" >}}
 | Ag HBs | Ac anti-HBc | Ac anti-HBs | Interprétation                                                           |
 |:------:|:-----------:|:-----------:|--------------------------------------------------------------------------|
@@ -121,18 +129,20 @@ Ajouter VHC si conduites à risque (sexe, drogues), VHE en cas de séjour tropic
 
 > Infection évolutive: le stade est déterminé par la clinique, les IgM anti-HBc (infection aiguë) et l'évolution à 6 mois
 
-### Dépistage de l'hépatite B
+{{% /collapse %}}
+{{%collapse "Dépister l'hépatite B" %}}
 
 > Le dépistage VHB - VHC - VIH doit être combiné (*HAS, AFEF*)
 {.alert .alert-info}
 
 Indications au dépistage de l'hépatite B:
 
-- Origine de pays d'endémie
-- Porteur dans l'entourage
-- Partenaires multiples
+- Origine de pays d'endémie  
+  Afrique subsaharienne et Asie du Sud-Est ++.
+- Porteur du VHB dans l'entourage
+- Partenaires sexuels multiples
 - Drogues intraveineuses ou intranasales
-- VIH, VHC ou autre [infection sexuellement transmissible](/tags/ist/) récente
+- [VIH]({{< relref "vih-sida.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}) ou autre [infection sexuellement transmissible](/tags/ist/) récente
 
 > *CMIT 2023*
 
@@ -256,19 +266,27 @@ Adresser au spécialiste avec le bilan initial de l'hépatite B
   Sérologies **VHD**, [VHC]({{< relref "hepatite-c.md" >}}), [VHA]({{< relref "hepatite-a.md" >}}), [VIH]({{< relref "vih-sida.md" >}}).
 - NFS
 - ASAT, ALAT, GGT, PAL, bilirubine, TP  
-  Seuils ALAT (UI/L) de l'AASLD: H 35 | F 25. ALAT > 2N est une indication à traiter.
+  Seuils ALAT (UI/L) de l'*AASLD*: H 35 | F 25. ALAT > 2N est une indication à traiter.
 - Créatininémie, albuminémie
 - Ferritinémie
+- Électrophorèse des protéines (?)
 - Alpha-fœtoprotéine  
-  Une alphfoetoprotéine > 20 mg/L est un marqueur de haut risque de carcinome hépatocellulaire.
+  Une alphafoetoprotéine > 20 mg/L est un marqueur de haut risque de carcinome hépatocellulaire.
 - TSH
-- Anti-TPO, anti-nucléaires, anti-muscle lisse, anti-LKM1
+- Anticorps anti-TPO, anti-nucléaires, anti-muscle lisse, anti-LKM1
 - Glycémie à jeun
 - Bilan lipidique
 - ßHCG
 - Échographie abdominale
 - ECG, consultation de cardiologie
 {{%/info%}}
+
+### Pour en savoir plus: les tests non invasifs d'évaluation de la fibrose (TNIF)
+
+Le Fibroscan® permet d'éliminer une fibrose hépatique selon le niveau des ALAT (conférence Baveno VII 2021).  
+Il est systématique dans le bilan initial d'une hépatite B active.
+
+Les tests sanguins (FIB-4, FibroTest®) ne sont utilisés que couplés au Fibroscan®.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hépatite B active" %}}
@@ -342,6 +360,8 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler et al
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< card-link-external title="FMC hépatite B gratuite" url="https://www.fmcgastro.org/texte-postu/postu-2023/hepatite-virale-b-rappel-des-fondamentaux/" subtitle="POST'U 2023">}}
 
 {{< youtube id="sYKByv4Olg8" title="VHB Indications thérapeutiques et surveillance H. Fontaine 2019 (AFEF Medical Education)" >}}
 

@@ -18,7 +18,7 @@ sctid = "419847008"
 icd10 = ""
 image = false
 imageSrc = ""
-todo = "rename, adapt doses"
+todo = "rename, adapt doses: https://www.mgform.org/boite-a-outils/avkclic/fluindione"
 +++
 
 {{%collapse "Warfarine: titration et adaptation" %}}

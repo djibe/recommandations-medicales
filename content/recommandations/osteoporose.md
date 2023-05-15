@@ -36,7 +36,7 @@ Recommandations simplifiées pour une prise en charge réaliste de l'ostéoporos
 4. Avis rhumatologique si T-score proche (1 point) de l'indication de traiter
 5. Biphosphonate: bilan bucco-dentaire, [acide alendronique 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois
     - Au moins 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)  
-    - Fracture du col du fémur (FESF): [zolédronate 5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture).
+    - Fracture du col du fémur (FESF): [zolédronate 5 mg/100 mL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture).
 6. Contrôle de l'ostéodensitométrie à 2-3 ans ± avis rhumatologique
 7. Nouveau contrôle de la DXA 2 ans après l'arrêt du traitement
 
@@ -406,7 +406,7 @@ Traitement indiqué si T-score ≤ -1 et avis rhumatologique si T-score > -1:
 - Risédronate  
   {{%class "x"%}}35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois{{%/class%}}
 - FESF ou T-score ≤ -3  
-  {{%class "x"%}}Zolédronate 5 mg IV annuel. Seul avec efficacité démontrée sur la FESF. [Perfusion par IDE à domicile](https://www.omedit-paysdelaloire.fr/bon-usage-des-produits-de-sante/perfusion/perfadom/#DCI24) sur 15-30 min{{%/class%}}
+  {{%class "x"%}}Zolédronate 5 mg IVL annuel. Seul avec efficacité démontrée sur la FESF. [Perfusion par IDE à domicile](https://www.omedit-paysdelaloire.fr/bon-usage-des-produits-de-sante/perfusion/perfadom/#DCI24) sur 15-30 min{{%/class%}}
 - Romosozumab  
   {{%class "x"%}}Femme ménopausée < 75 ans sans risque cardiovasculaire{{%/class%}}
 
@@ -422,7 +422,7 @@ Traitement indiqué si T-score ≤ -1:
 - Risédronate  
   {{%class "x"%}}35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois{{%/class%}}
 - Zolédronate  
-  {{%class "x"%}}5 mg IV annuel avec ostéodensitométrie 1 an après la 3<sup>e</sup> perfusion{{%/class%}}
+  {{%class "x"%}}5 mg IVL annuel avec ostéodensitométrie 1 an après la 3<sup>e</sup> perfusion{{%/class%}}
 - Raloxifène (faible risque de fracture périphérique)  
   {{%class "x"%}}60 mg/j (max 70 ans){{%/class%}}
 - Romosozumab  
@@ -449,7 +449,7 @@ Choix du traitement:
 - Risédronate  
   {{%class "x"%}}35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois{{%/class%}}
 - Zolédronate  
-  {{%class "x"%}}5 mg IV annuel{{%/class%}}
+  {{%class "x"%}}5 mg IVL annuel{{%/class%}}
 - Raloxifène  
   {{%class "x"%}}60 mg/j. Conditions: femme < 70 ans sans antécédent de fracture non vertébrale, en l'absence de: T-score bas à la hanche, T-score ≤ -3 et risque de chute élevé.{{%/class%}}
 - Romosozumab  
@@ -476,7 +476,7 @@ Traitements de l'ostéoporose cortisonique:
 - Risédronate  
   {{%class "x"%}}35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois{{%/class%}}
 - Zolédronate  
-  {{%class "x"%}}5 mg IV annuel{{%/class%}}
+  {{%class "x"%}}5 mg IVL annuel{{%/class%}}
 - Tériparatide  
   {{%class "x"%}}20 µg/j (≥ 2 fractures vertébrales présentes).{{%/class%}}
 
@@ -553,7 +553,7 @@ Réévaluation de la prise en charge avec ostéodensitométrie 2 ans après l'ar
 {{%/collapse%}}
 {{%collapse "Prise en charge de l'ostéoporose" "show" %}}
 
-{{< mermaid title="Dépistage et prise en charge de l'ostéoporose en l'absence d'antécédent de fracture osseuse. JB Fron d'après SFRhumato 2018" >}}
+{{< mermaid title="Dépistage et prise en charge de l'ostéoporose de la femme en l'absence d'antécédent de fracture osseuse. Dr JB Fron d'après SFRhumato/GRIO 2018" >}}
 graph TB
   menopause["<b>Ménopause et ≥ 1 parmi:</b><br>- Fracture fragilité chez parent<br>- IMC &lt; 19<br>- Ménopause précoce<br>- FRAX &gt; seuil pour l'âge<br>- Contrôle à 3-5 ans de DXA sans ttt<br>—<br>- Sujet âgé à risque de chute<br>- Corticothérapie prolongée<br>(voir chapitre <em>Traitements</em>)<br>- Endocrinopathie ou<br>pathologie déminéralisante<br>- Maladie cœliaque"]
   style menopause stroke:#4150f5, stroke-width:1px
@@ -570,7 +570,7 @@ graph TB
 
 ---
 
-{{< mermaid title="Prise en charge de l'ostéoporose après fracture osseuse chez la femme. JB Fron d'après SFRhumato 2018, HAS 2019 BUM ostéoporose et HAS 2019 lombalgie" >}}
+{{< mermaid title="Prise en charge de l'ostéoporose après fracture osseuse chez la femme. Dr JB Fron d'après SFRhumato/GRIO 2018, HAS 2023 BUM ostéoporose et HAS 2019 lombalgie" >}}
 graph TB
   perteTaille["- Perte de taille<br>≥ 2 cm au long cours<br>ou ≥ 4 cm comparée à 20 ans<br>- Rachialgies après 55 ans<br>ou ménopause<br>- Corticoïdes chroniques"] --> radio(Radio dorso-lombaires) -- Fracture vertébrale --> bilan
   fracture[Fracture osseuse]
@@ -590,13 +590,13 @@ graph TB
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
-- [Associations des patients: Aflar](https://www.aflar.org/)
+- [Associations des patients: Aflar](https://www.aflar.org)
 - Activité physique quasi-quotidienne  
-[GRIO. Exercices physiques utiles en cas d'ostéoporose (PDF)](http://www.grio.org/documents/page85/restez-actifs.pdf)
+  [GRIO. Exercices physiques utiles en cas d'ostéoporose (PDF)](http://www.grio.org/documents/page85/restez-actifs.pdf)
 - Apports en calcium  
-[GRIO. Alimentation assurant un apport calcique optimal (PDF)](http://www.grio.org/documents/page85/alimentation-assurant-apport-calcique-1.pdf)
+  [GRIO. Alimentation assurant un apport calcique optimal (PDF)](http://www.grio.org/documents/page85/alimentation-assurant-apport-calcique-1.pdf)
 - Prévention des chutes  
-[GRIO. À la maison, apprenons à éviter les dangers (PDF)](http://www.grio.org/documents/page85/dangers-maison.pdf)
+  [GRIO. À la maison, apprenons à éviter les dangers (PDF)](http://www.grio.org/documents/page85/dangers-maison.pdf)
 
 {{%/collapse%}}
 {{%collapse "Vidéos de formation" %}}
@@ -612,7 +612,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
-- [Biver E. et al. Dietary recommendations in the prevention and treatment of osteoporosis. Joint Bone Spine. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X22001816)
+- [Biver E et al. Dietary recommendations in the prevention and treatment of osteoporosis. Joint Bone Spine. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X22001816)
 - [HAS. Les médicaments de l'ostéoporose. Bon usage du médicament. 2023.](https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-l-osteoporose)
 - Prescrire Redaction. Fracture liées à une fragilité osseuse : prévention. Janvier 2021.
 - [HAS, FFAB. Boulimie et hyperphagie boulimique. Recommandation de bonne pratique. Juin 2019.](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique-reperage-et-elements-generaux-de-prise-en-charge)

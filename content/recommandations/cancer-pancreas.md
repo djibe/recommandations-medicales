@@ -81,7 +81,7 @@ TVP
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Dépistage de l'adénocarcinome du pancréas" %}}
+{{%collapse "Dépistage du cancer du pancréas" %}}
 
 Pour toute la population: correction de tabagisme, obésité et diabète.
 
