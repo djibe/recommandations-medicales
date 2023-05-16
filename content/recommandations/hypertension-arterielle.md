@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2023-04-20"
+lastmod = "2023-05-16"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "ESH"]
@@ -25,7 +25,7 @@ Ces recommandations HTA concernent l'adulte de +18 ans.
 
 {{%article-summary%}}
 
-- Dépister l'hypertension artérielle chez tout adulte au moins tous les 5 ans (20% non traités)
+- Dépister l'hypertension artérielle chez tout adulte au moins tous les 5 ans (1/3 des adultes atteints et 1/4 contrôlés)
 - Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet*)
 - Confirmer le diagnostic par mesures et automesure/MAPA répétées
 - Recherche des complications, HTA secondaire et calcul du {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} avec le {{< scores/heartscore >}} (le LDL cible en découle)
@@ -43,8 +43,7 @@ Hypertension artérielle
 : Premier facteur de morbi-mortalité modifiable dans le monde.  
 La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance cardiaque, coronaropathie, AVC, [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), dégradation cognitive et démence.
 : La réduction de la systolique de 10 mmHg (et de 5 mmHg pour la diastolique) réduit le risque d'évènement CV de 20%, la mortalité de 10-15%, le risque d'AVC de 35%, de SCA de 20%, d'insuffisance cardiaque de 40%. Le traitement allonge l'espérance de vie.
-: 1 patient sur 2 est > 140/90 mmHg. Principaux facteurs de non contrôle: défaut d'observance et inertie du médecin.
-: Observance à 6 mois: 2/3, 1 an: 50%.
+: 1 patient sur 2 dépasse 140/90 mmHg. Principaux facteurs de non contrôle: défaut d'observance (à 6 mois: 2/3 - 1 an: 50%) et inertie du médecin.
 
 {{< table title="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après ESC 2021 et ESH 2021" class="table-wrap" >}}
 | Catégorie                 | Systolique (mmHg) |       | Diastolique (mmHg) | Action                                                                        |
@@ -129,7 +128,9 @@ TZD
 
 ### Épidémiologie de l'hypertension artérielle
 
-- Prévalence de 30 à 45% chez l'adulte (+60% après 60 ans) avec 1 milliard d'hypertendus (150 millions en Europe)
+- En France: prévalence de 30% chez l'adulte avec 17 millions de sujets (+60% après 60 ans, *BEH 2023*)  
+  Parmi lesquels 6 millions ne le savent pas et 4 millions ne sont pas contrôlés.
+- Dans le monde: 1 milliard d'hypertendus (150 millions en Europe)
 - 10 millions de morts annuels et malgré les progrès thérapeutiques, l'espérance de vie corrigée de l'incapacité a augmenté de 40% depuis 1990
 
 {{% /collapse %}}

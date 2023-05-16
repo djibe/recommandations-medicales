@@ -40,7 +40,7 @@ Maladie cardiovasculaire, risque d'infarctus du myocarde multiplié par 6-10 dan
 - [Sinusite]({{< relref "sinusite.md" >}})
 - Otite moyenne aiguë
 - Bronchite aiguë
-- Pneumopathie (grippale, pneumocoque, staphylocoque doré ou *Haemophilus*)
+- Pneumonie (grippale, pneumocoque, staphylocoque doré ou *Haemophilus*)
 - Extra-pulmonaire: myocardite, péricardite, encéphalite
 - Décompensation d'une comorbidité
 

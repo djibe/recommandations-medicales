@@ -68,7 +68,7 @@ Adresser au [centre de compétence ou de référence HYPO](http://www.firendo.fr
   - Dentaires avec déchaussements
   - Métaboliques avec prédiabète ou [diabète]({{< relref "diabete-type-2.md" >}}) (20-35%)
   - Endocriniens: [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}), spanioménorrhée
-  - Autres: nodules thyroïdiens et cancers, polypes coliques (27-55%) et [cancer colorectal]({{< relref "cancer-colorectal.md" >}}) (risque élevé, x 2-3)
+  - Autres: [nodules thyroïdiens]({{< relref "nodule-thyroidien.md" >}}) et cancers, polypes coliques (27-55%) et [cancer colorectal]({{< relref "cancer-colorectal.md" >}}) (risque élevé, x 2-3)
 - Risque cardiovasculaire: calcul du {{< scores/heartscore >}}
 
 {{% /collapse %}}
@@ -120,7 +120,7 @@ Attendre un an de traitement avant toute prise en charge maxillo-faciale.
 {{%sources%}}
 
 - [HAS, Centre de référence des maladies rares de l'hypophyse. Acromégalie. Protocole National de Diagnostic et de Soins. 2021.](https://www.has-sante.fr/jcms/p_3292767/fr/acromegalie)
-- [Fleseriu M. et al. A Pituitary Society update to acromegaly management guidelines. Pituitary. 2021.](https://link.springer.com/article/10.1007/s11102-020-01091-7)
+- [Fleseriu M et al. A Pituitary Society update to acromegaly management guidelines. Pituitary. 2021.](https://link.springer.com/article/10.1007/s11102-020-01091-7)
 - [HAS. Dépistage et prévention du cancer colorectal. Juin 2013.](https://www.has-sante.fr/jcms/c_1623732/fr/depistage-et-prevention-du-cancer-colorectal)
 - [Orphanet. Acromégalie.](https://www.orpha.net/consor/cgi-bin/Disease_Search.php?lng=FR&data_id=408&Disease_Disease_Search_diseaseGroup=Acromegalie&Disease_Disease_Search_diseaseType=Pat&Maladie(s)/groupes%20de%20maladies=Acromegalie&title=Acrom%E9galie&search=Disease_Search_Simple)
 

@@ -333,6 +333,7 @@ Favorisée par l'obésité et une hernie hiatale.
 
 ### À lire
 
-{{< references/college-gastro >}}
+- [Fass R. Gastroesophageal Reflux Disease. N Engl J Med. 2022.](https://pubmed.ncbi.nlm.nih.gov/36170502/)
+- {{< references/college-gastro >}}
 
 {{%/sources%}}

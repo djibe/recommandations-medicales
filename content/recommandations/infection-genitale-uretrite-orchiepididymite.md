@@ -22,7 +22,7 @@ todo = "Balanite et balano-posthite, dépistages Ct homme"
 
 {{%article-summary%}}
 
-- Prélèvements devant une suspicion d'infection génitale: PCR urine premier jet *Chlamydia*, gonocoque et *M. genitalium*, prélèvement d'un écoulement urétral, ECBU sur urine de milieu de jet, frottis endo-urétral si absence de PCR ou PCR gonocoque+
+- Prélèvements devant une suspicion d'infection génitale masculine: PCR urine premier jet *Chlamydia*, gonocoque et *M. genitalium*, prélèvement d'un écoulement urétral, ECBU sur urine de milieu de jet, frottis endo-urétral si absence de PCR ou PCR gonocoque+
 - Prise en charge de l'urétrite: Ceftriaxone 1g IM dose unique  
   \+ doxycycline 100 mg x 2/j pendant 7 jours OU azithromycine 1g dose unique
 - Prise en charge de l'orchi-épididymite
@@ -249,7 +249,7 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 {{%sources%}}
 
 - [Bonkat G. et al. EAU guidelines on urological infections. 2022.](https://uroweb.org/guidelines/urological-infections)
-- [HAS. Urétrites et cervicites non compliquées. 2021.](https://www.has-sante.fr/jcms/c_2038472/fr/choix-et-duree-de-l-antibiotherapie-uretrites-et-cervicites-non-compliquees)
+- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [Gerhardt P. et al; Société Française de Dermatologie (SFD). Urétrite masculine. Recommendations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/uretrite-masculine-61ed71f0cf1553f5b94bbb4214d5905e.pdf)
 - [Janier M. et al; Société Française de Dermatologie (SFD). Orchiépididymite. Recommendations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/orchiepididymite-e11608a96bbf138a1ce4045e283aa71a.pdf)
 
