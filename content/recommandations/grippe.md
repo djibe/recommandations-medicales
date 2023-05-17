@@ -40,7 +40,7 @@ Maladie cardiovasculaire, risque d'infarctus du myocarde multiplié par 6-10 dan
 - [Sinusite]({{< relref "sinusite.md" >}})
 - Otite moyenne aiguë
 - Bronchite aiguë
-- Pneumonie (grippale, pneumocoque, staphylocoque doré ou *Haemophilus*)
+- [Pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}}) (grippale, pneumocoque, staphylocoque doré ou *Haemophilus*)
 - Extra-pulmonaire: myocardite, péricardite, encéphalite
 - Décompensation d'une comorbidité
 
@@ -48,7 +48,7 @@ Maladie cardiovasculaire, risque d'infarctus du myocarde multiplié par 6-10 dan
 
 Diagnostics à étayer devant un tableau de toux aiguë:
 
-- Bronchite ou pneumonie virale ou bactérienne (VRS, coronavirus, adénovirus, [coqueluche]({{< relref "coqueluche.md" >}}), pneumopathie)
+- Bronchite ou pneumonie virale ou bactérienne (VRS, coronavirus, adénovirus, [coqueluche]({{< relref "coqueluche.md" >}}))
 - Toux pneumo-allergologique: allergie, [asthme]({{< relref "asthme.md" >}})
 - Toux mécanique avec surinfection: tumeur, compression trachéale, corps étranger
 

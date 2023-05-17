@@ -259,7 +259,7 @@ Le contrôle de la guérison d'un Lyme est clinique. Des taux élevés d'anticor
 
 ### Traitement de l'érythème migrant
 
-Prise en charge thérapeutique de l'érythème migrant après piqûre de tique:
+Recommandations pour la prise en charge de l'érythème migrans après piqûre de tique:
 
 - Surveillance clinique de la guérison à J14
 - Photos avant et évolution sous traitement
@@ -295,6 +295,7 @@ Traitement par l'infectiologue des autres formes de borréliose.
 - [Santé Publique France. Borréliose de Lyme : données épidémiologiques 2020. Novembre 2021.](https://www.santepubliquefrance.fr/les-actualites/2021/borreliose-de-lyme-donnees-epidemiologiques-2020)
 - [Gocko X. et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X19306201)
 - [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques. Recommandations de bonne pratique. Juin 2018.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques)
+- [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 
 ### À lire
 

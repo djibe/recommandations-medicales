@@ -65,9 +65,9 @@ Tout asthmatique peut avoir une exacerbation sévère (*GINA 2019*).
 Bannir le terme de << bronchite asthmatiforme >>: l'asthme est une maladie chronique et les antibiotiques sont inappropriés (*SPLF 2015*).
 {{%/warning%}}
 
-### Diagnostic différentiel
+### Diagnostic différentiel de l'asthme
 
-Diagnostic différentiel de l'asthme, à étayer selon le terrain:
+Diagnostic différentiel à étayer selon le terrain:
 
 - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
 - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})

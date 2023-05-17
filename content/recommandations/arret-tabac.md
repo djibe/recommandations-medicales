@@ -159,7 +159,7 @@ Complications du tabagisme:
 - Tabagisme passif
   - IDM, AVC (x2), cancer du poumon (+25% si conjoint fume) ou maladie respiratoire, cancer des sinus
   - Nourrisson: mort subite x2
-  - Enfant: otites, [asthme]({{< relref "asthme.md" >}}), pneumopathie
+  - Enfant: otites, [asthme]({{< relref "asthme.md" >}}), [pneumopathie]({{< relref "pneumonie-aigue-communautaire.md" >}})
 
 Autres maladies avec sur-représentation de fumeurs: [Algies vasculaires de la face]({{< relref "algie-vasculaire-face.md" >}}), [maladie de Verneuil]({{< relref "maladie-verneuil.md" >}}), gastrite, ulcère gastro-duodénal, cataracte.
 

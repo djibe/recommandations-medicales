@@ -360,6 +360,7 @@ accTitle: Prise en charge d'une pyélonéphrite en ambulatoire d'après HAS 2021
 - [NICE. Urinary tract infections in adults. 2023.](https://www.nice.org.uk/guidance/qs90/chapter/Quality-statements) (BU si < 2 sympt pour cystite)
 - [Bonkat G. et al. EAU guidelines on urological infections. 2022.](https://uroweb.org/guidelines/urological-infections)
 - {{< references/spilf-2020 >}}
+- [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Cohen R. et al. Prise en charge des infections urinaires de l'enfant. Recommandations du groupe de pathologie infectieuse pédiatrique de la Société française de pédiatrie et de la Société de pathologie infectieuse de langue française. Archives de Pédiatrie. 2015. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/infections_voies_urinaires_gpip_2015.pdf)
 - [CMIT. Infections urinaires de l'adulte / Connaître les particularités de l'infection urinaire au cours de la grossesse. Item 161. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-161-web.pdf)
 

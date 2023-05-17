@@ -390,7 +390,7 @@ Sur-risque de pneumopathie avec les corticoïdes inhalés
 #### 4) Prescription spécialisée
 
 Triple association si GOLD groupe E avec éosinophilie: {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}.  
-Arrêt des corticoïdes si pneumonie ou autres effets indésirables.
+Arrêt des corticoïdes si [pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}}) ou autres effets indésirables.
 
 Seul le pneumologue peut prescrire une trithérapie ou des nébulisations.  
 Il est également le seul à décider du bénéfice de prévention des exacerbations (*ERS 2021*, *SPLF 2021*):
@@ -461,7 +461,7 @@ Opioïdes faible dose par le pneumologue (*SPLF 2021*).
 - [Arythmie cardiaque]({{< relref "fibrillation-atriale.md" >}})
 - Aggravation de l'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (NT-proBNP)
 - [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) (d-dimères)
-- Pneumopathie aiguë communautaire
+- [Pneumonie aiguë communautaire]({{< relref "pneumonie-aigue-communautaire.md" >}})
 - Pneumothorax et pleurésie
 
 ### 2. Rechercher le facteur déclenchant

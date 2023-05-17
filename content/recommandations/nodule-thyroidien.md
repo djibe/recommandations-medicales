@@ -26,7 +26,7 @@ todo = "relecture demandée F. Menegaux, SEO nodule thyroidien > nodule thyroide
 - Rechercher des antécédents thyroïdiens familiaux et personnels (irradiation cervicale, génétiques NEM2, PAF ...) et des complications (douleurs, dysphonie, dysphagie, dyspnée)
 - Le bilan initial d'un nodule thyroïdien comporte une TSH seule
 - Indications à l'échographie de la thyroïde: nodule palpable, gênant ou compressif, incidentalome en imagerie. Elle donne le score EU-TIRADS
-- Indications à la cytoponction: adénopathie cervicale suspecte, EU-TIRADS 5 > 10 mm, EU-TIRADS 4 > 10 mm, EU-TIRADS 3 > 20 mm. Elle donne le score de Bethesda
+- Recommandations pour le recours à la cytoponction: adénopathie cervicale suspecte, EU-TIRADS 5 > 10 mm, EU-TIRADS 4 > 10 mm, EU-TIRADS 3 > 20 mm. Elle donne le score de Bethesda
 - Surveillance des nodules EU-TIRADS 2-3-4 ou Bethesda II: échographie à 1-2 ans puis 2-4 ans plus tard puis tous les 4-5 ans
 - La prise en charge du nodule thyroïdien chez l'enfant et pendant la grossesse relève du spécialiste (TSH + échographie systématique)
 
@@ -149,7 +149,7 @@ TA
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-TSH seule en première intention
+Bilan biologique d'un nodule thyroïdien: TSH seule en première intention
 {.alert .alert-info}
 
 Confirmation d'une anomalie par un 2<sup>e</sup> prélèvement puis exploration en parallèle de la [dysthyroïdie](/tags/tsh/).
@@ -159,7 +159,7 @@ Confirmation d'une anomalie par un 2<sup>e</sup> prélèvement puis exploration 
 ### Échographie thyroïdienne
 
 {{%info%}}
-Indications à l'échographie de la thyroïde en cas de nodule thyroïdien:
+Recommandations pour le recours à l'échographie thyroïdienne en cas de nodule thyroïdien:
 
 1. Nodule palpable
 2. Nodule gênant
@@ -196,7 +196,7 @@ En cas de nodules multiples: appliquer les critères à chaque nodule.
 
 Les résultats de la cytoponction doivent reprendre la terminologie de *Bethesda*.
 
-Un nodule Bethesda III est préférablement recontrôlé, ou opéré si volumineux (pour plus d'informations, lire la publication source pour le chapitre dédié à la répétition de la cytoponction).
+Un nodule Bethesda III est préférablement recontrôlé ou opéré si volumineux (pour plus d'informations, lire la publication source pour le chapitre dédié à la répétition de la cytoponction).
 
 ### Scintigraphie thyroïdienne d'un nodule thyroïdien
 

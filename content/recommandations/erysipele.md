@@ -161,11 +161,12 @@ Critères d'hospitalisation d'un érysipèle:
 - Absence d'amélioration à 24-48 heures
 {{%/warning%}}
 
-### Traitement ambulatoire
+### Traitement ambulatoire de l'érysipèle
 
-La prise en charge ambulatoire d'un érésipèle n'est possible que si le **tableau est typique sans signe de gravité** chez un patient sans antécédents:
+La prise en charge ambulatoire d'un érysipèle n'est possible que si le **tableau est typique sans signe de gravité** chez un patient sans antécédents:
 
-Amoxicilline 50 mg/kg/j en 3 prises pendant 7 jours (max 6 g/j, *HAS 2021*)
+Amoxicilline 50 mg/kg/j en 3 prises pendant 7 jours (max 6 g/j, *HAS 2021*)  
+Enfant: amoxicilline-acide clavulanique 1 dose-poids x 3/j pendant 7 jours
 {.alert .alert-info}
 
 Selon Prescrire®: pénicilline V (Oracilline®) 1-1,5 MUI x 4/j jusqu'à amélioration des signes locaux.
@@ -186,6 +187,8 @@ Autres schémas de prise en charge par antibiothérapie:
 > *HAS 2021*
 
 ### Mesures associées
+
+Recommandations de prise en charge associées:
 
 - Surveillance clinique quotidienne des signes locaux et généraux
 - Éradication de la porte d'entrée  
@@ -228,6 +231,7 @@ accTitle: Conduite à tenir et prise en charge d'un érysipèle d'après HAS/SPI
 - [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-155-web.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [HAS, SPILF. Prise en charge des infections cutanées bactériennes courantes. Février 2019. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/recos/2019-fiche-de-synthese-infections-cutanees-mel.pdf)
-- [SFD, SPILF. Erysipèle et fasciite nécrosante : prise en charge. Ann Dermatol Venerol. 128:463-82. 2001. (PDF)](http://www.sfdermato.org/media/pdf/recommandation/erysipele-long-60a03bfa8c55af03ef3ec54a1b380a73.pdf)
+- [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
+- [SFD, SPILF. Erysipèle et fasciite nécrosante : prise en charge. Ann Dermatol Venerol. 2001. (PDF)](http://www.sfdermato.org/media/pdf/recommandation/erysipele-long-60a03bfa8c55af03ef3ec54a1b380a73.pdf)
 
 {{%/sources%}}

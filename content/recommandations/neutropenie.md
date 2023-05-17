@@ -25,7 +25,7 @@ flowchart = true
 - La neutropénie est un compte des polynucléaires neutrophiles inférieur à 1500/mm³ (1,5 G/L). La neutropénie est sévère avec risque infectieux majeur sous 500/mm³
 - Bilan de la neutropénie: examen clinique et hémogrammes répétés (NFS) pour l'orientation étiologique (autres lignées atteintes) + bilan hépatique, rénal, LDH et autres selon le tableau
 - Principaux tableaux cliniques associés à la découverte d'une neutropénie:
-  - Infection sévère (ex cellulite, pneumopathie) ou autre lignée atteinte (anémie, macrocytose): urgence médicale, avis hématologique urgent
+  - Infection sévère (ex cellulite, [pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}})) ou autre lignée atteinte (anémie, macrocytose): urgence médicale, avis hématologique urgent
   - Pathologie associée: avis hématologique non urgent
   - Découverte fortuite ou infection virale: surveillance à 48h puis 1 semaine. Avis si persistance à 2 mois
   - Isolée, bien tolérée et résolution spontanée rapide: pas d'examen (cause probable médicamenteuse ou virale)
@@ -139,6 +139,8 @@ La neutropénie est une contre-indication à la mesure de la température rectal
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+### Bilan de la neutropénie
+
 - NFS  
   Dosages répétés de l'hémogramme (NFS) à jeun pour le suivi quantitatif d'une neutropénie modérée.
 - Créatininémie
@@ -155,9 +157,8 @@ La prise en charge de la neutropénie est principalement étiologique. Les mesur
 - Suivi dentaire au moins annuel
 - Connaître les numéros à appeler en cas d'urgence
 - En cas de fièvre (> 39°C ou > 48h), frissons: ordonnance à l'avance pour bilan en urgence NFS + CRP
-- Information: centre de référence
 
-Prise en charge possible selon l'avis du centre de référence ([annuaire](https://www.ceredih.fr/locations/centers)):
+Traitements possibles selon l'avis du centre de référence ([annuaire](https://www.ceredih.fr/locations/centers)):
 
 - Antibioprophylaxie par triméthoprime + sulfaméthoxazole
 - Facteur de croissance granulocytaire: G-CSF, GM-CSF
@@ -165,7 +166,7 @@ Prise en charge possible selon l'avis du centre de référence ([annuaire](https
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une neutropénie" "show" %}}
 
-{{< mermaid title="Conduite à tenir et prise en charge devant la découverte d'une neutropénie. Dr JB Fron d'après CEREDIH 2009 et sfh" >}}
+{{< mermaid title="Recommandations pour la conduite à tenir et la prise en charge d'une neutropénie. Dr JB Fron d'après CEREDIH 2009 et sfh" >}}
 graph TB
   neutropénie["<b>Neutropénie</b><br>—<br>= PNN &lt; 1500<br>Sévère si &lt; 500"]
   style neutropénie stroke:#4150f5, stroke-width:1px
@@ -182,6 +183,7 @@ graph TB
 
 ### À lire
 
-{{< references/spilf-2020 >}}
+- {{< references/spilf-2020 >}}
+- [Donadieu J; SFP. Neutropénie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/hematologie/neutropenie)
 
 {{%/sources%}}

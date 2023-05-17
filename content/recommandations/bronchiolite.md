@@ -25,7 +25,7 @@ todo = "avis CT, FC + SpO2 selon l'âge, https://afpa.org/outil/normes-cardiores
 {{%article-summary%}}
 
 - La bronchiolite concerne uniquement les enfants de moins de 12 mois (*asthme du nourrisson* au-delà ou à partir de 2-3 épisodes)
-- Éliminer une insuffisance cardiaque et une pneumopathie
+- Éliminer une insuffisance cardiaque et une [pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}})
 - Critères d'hospitalisation de la bronchiolite: voir *Signes de gravité et hospitalisation*
 - Durée de la dyspnée de 3 à 10 jours (voire 6 semaines)
 - Recommandations de prise en charge de la bronchiolite: DRP - fractionner - surveillance - 0 tabac
@@ -342,7 +342,7 @@ accTitle: Prise en charge de la bronchiolite et d'une dyspnée sifflante d'aprè
         atopie -- Oui --> asthme
       moins12 --> 3(3<sup>e</sup> épisode) --> asthme(Asthme du nourrisson)
     age --> plus12("≥ 12 mois") --> asthme
-    age -- Diagnostic différentiel --> differentiel("- Insuff. cardiaque<br>- Exacerbation d'asthme<br>- Pneumopathie<br>- Laryngotrachéomalacie<br>- Corps étranger<br>- RGO<br>- Anneau vasculaire<br>- Allergie<br>- Fibrose kystique<br>
+    age -- Diagnostic différentiel --> differentiel("- Insuff. cardiaque<br>- Exacerbation d'asthme<br>- Pneumonie<br>- Laryngotrachéomalacie<br>- Corps étranger<br>- RGO<br>- Anneau vasculaire<br>- Allergie<br>- Fibrose kystique<br>
 - Masse médiastinale<br>- Fistule œso-trachéale")
 {{< /mermaid >}}
 

@@ -112,7 +112,7 @@ Cas possible de coqueluche: toute personne atteinte de toux depuis ≥ 2 semaine
 ### Coqueluche du nourrisson de moins de 6 mois non vacciné
 
 Toux quinteuse prolongée cyanosante sans chant du coq.
-Mauvaise tolérance avec cyanose, apnées, bradycardies. Pneumopathies de surinfection fréquentes.
+Mauvaise tolérance avec cyanose, apnées, bradycardies. Pneumonies de surinfection fréquentes.
 
 **NB.** Les anticorps maternels ne sont pas protecteurs.
 

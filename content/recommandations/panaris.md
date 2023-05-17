@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-25T21:22:41+02:00"
 publishdate = "2020-09-25"
-lastmod = "2022-10-28"
+lastmod = "2023-05-17"
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["CEDEF"]
@@ -37,7 +37,7 @@ Panaris
 : Acupuncture ou piercing: *Mycobacterium fortuitum* ou *M. chelonae*.
 : Complications du panaris: atteinte profonde des fléchisseurs à l'origine d'un **phlegmon des gaines** et d'une **ostéo-arthrite**.
 
-### Diagnostic différentiel
+### Diagnostic différentiel d'un panaris
 
 Pathologies à étayer devant une suspicion de panaris:
 
@@ -72,7 +72,7 @@ Aspect caractéristique du panaris collecté:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-**Aucun examen complémentaire n'est réalisé de façon systématique devant une suspicion de panaris.**
+**Aucun examen complémentaire n'est recommandé de façon systématique devant une suspicion de panaris.**
 
 {{%class%}}Une radiographie de doigt peut être utile pour éliminer une ostéite ou un corps étranger{{%/class%}}
 
@@ -91,7 +91,7 @@ Mesures de prévention du panaris:
 
 ### Mesures générales
 
-Mesures générales de prise en charge du panaris:
+Recommandations générales de prise en charge du panaris:
 
 - Recherche et traitement de la porte d'entrée
 - Antalgie par paracétamol
@@ -155,6 +155,7 @@ graph TB
 - Prescrire Redaction. Panaris bactérien péri-unguéal d'un doigt. Prescrire. Juin 2022.
 - CEDEF. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques de l'adulte et de l'enfant. 155. 2021.
 - [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 152 UE 6. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/11Item-152-UE6-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques.pdf)
+- [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Antibioclic](https://antibioclic.com/questionnaire/23)
 - [ChirurgieMain. Panaris](http://chirurgiemain.fr/pathologies-main-poignet/traumatismes/panaris/)
 - [Ameli. Panaris](https://www.ameli.fr/assure/sante/themes/panaris)

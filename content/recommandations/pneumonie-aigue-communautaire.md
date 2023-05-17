@@ -100,8 +100,9 @@ Une auscultation normale n'élimine pas le diagnostic de pneumonie
   - Hypoxémie: {{< clinique/hypoxemie >}}
   - Hypercapnie: {{< clinique/hypercapnie >}}
 - Complications: signes de pleurésie, empyème
-- Étayer le diagnostic différentiel  
-  Virose sur insuffisance cardiaque, pneumopathie d'inhalation, embolie pulmonaire, exacerbation d'asthme ou de BPCO, grippe, bronchite.
+- Étayer le diagnostic différentiel
+  - Virose sur insuffisance cardiaque, pneumopathie d'inhalation, embolie pulmonaire, exacerbation d'asthme ou de BPCO, grippe, bronchite aiguë
+  - Chez l'enfant: [bronchiolite]({{< relref "bronchiolite.md" >}}), bronchite
 
 ### Tableau de pneumonie franche lobaire aiguë (PFLA)
 
@@ -117,7 +118,7 @@ Présentation de pneumonie aiguë communautaire bactérienne **la plus fréquent
 
 ### Tableau de pneumonie à bactérie atypique intracellulaire
 
-- Sujet jeune (-40 ans)
+- Sujet jeune (3 à 40 ans)
 - Contexte épidémique
 - Tableau fruste d'installation **progressive**
   - Fébricule
@@ -153,7 +154,7 @@ La **pneumonie post-grippale** est une ré-aggravation à J5-J7 après le début
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Radiographie thoracique de face systématique
+Radiographie thoracique de face systématique (contrôle à 1 mois chez l'enfant)
 {.alert .alert-info}
 
 - Le scanner thoracique est un examen de seconde intention devant un cas ou une évolution atypique
@@ -171,6 +172,7 @@ Radiographie thoracique de face systématique
 
 Évaluation hospitalière urgente si ≥ 1 parmi:
 
+- Nourrisson < 6 mois (*SFP*)
 - **Score CRB65**
   - Confusion
   - Polypnée ≥ 30/min
@@ -254,12 +256,14 @@ Antibiothérapie selon l'orientation du tableau clinique.
 {{%info%}}
 
 - [Amoxicilline 1g](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) x 3/j  
-- Si allergie: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j (Pyostacine®, double sensibilité pneumocoque + intracellulaires)
+  Enfant: 80-100 mg/kg/j en 3 prises (max 3 g/j - *SFP*).
+- Si allergie: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j (Pyostacine® à partir de 6 ans, double sensibilité pneumocoque + intracellulaires)
 - Si échec à 48-72 heures: substituer par l'autre classe (amoxicilline ou macrolide) et réévaluer 48-72h
 - Si 2<sup>e</sup> échec ou aggravation rapide: hospitalisation
 {{%/info%}}
 
-Si suspicion de bactérie atypique: macrolide spiramycine 3 MUI x 2-3/j pendant 14 jours (ou azithromycine, clarithromycine 500 mg x 2/j)
+Si suspicion de bactérie atypique: macrolide spiramycine 3 MUI x 2-3/j pendant 14 jours (ou azithromycine, clarithromycine 500 mg x 2/j).  
+Chez l'enfant: clarithromycine 15 mg/kg/j en 2 prises (max 1 g/j).
 
 [Avis d'Antibioclic](https://antibioclic.com/strategie/279/2274)
 
@@ -311,10 +315,14 @@ L'antibiothérapie dure 5 jours sauf adulte symptomatique à 72 heures (7 jours)
 - [CMIT. Infections broncho-pulmonaires communautaires de l'adulte et de l'enfant. Item 154. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-154-web.pdf)
 - [Collège des Enseignants de Pneumologie (CEP). Infections broncho-pulmonaires communautaires de l'adulte. Item 154. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2021/04/item_154_Infections-broncho-pulmonaires.pdf)
 - {{< references/spilf-2020 >}}
+- [Fleurence E; SFP. Toux fébrile. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/allergo-pneumo/toux-febrile)
+- [Houdouin V; SFP. Pneumonies : du diagnostic au traitement. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/allergo-pneumo/pneumonies-du-diagnostic-au-traitement)
+- [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Afssaps. Antibiothérapie par voie générale dans les infections respiratoires basses de l'adulte. Mise au point. 2010. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/recos/2010-infvrb-spilf-afssaps.pdf)
 
 ### À lire
 
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pneumonies aiguës communautaires. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/pneumonies-aigues-communautaires)
 
 {{%/sources%}}
