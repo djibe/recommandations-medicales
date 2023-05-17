@@ -168,7 +168,7 @@ Après échographie normale ou non concluante et absence d'accès à l'IRM: scan
 > << L'antibiothérapie seule n'est pas recommandée en première intention dans l'appendicite aiguë non compliquée et le traitement chirurgical reste la prise en charge de référence >> (*SFCD 2021*)
 {.alert .alert-info}
 
-### Traitement chirurgical: appendicectomie
+### Traitement chirurgical par appendicectomie
 
 La chirurgie est le traitement de référence de l'appendicite aiguë non compliquée (par cœlioscopie ou laparotomie, même chez la femme enceinte).  
 Elle peut être différée jusqu'à 24h après le diagnostic. 30-50% pourraient être réalisées en ambulatoire;
@@ -181,11 +181,11 @@ Pas d'antibiothérapie post-opératoire en AA non compliquée. Si compliquée: C
 
 ### Appendicite aiguë et antibiothérapie
 
-En cas de contre-indication ou d'impossibilité de la chirurgie, l'antibiothérapie IV seule est << une alternative acceptable >> (*SFCD 2021*). Minimum 24h de surveillance hospitalière.
+En cas de contre-indication ou d'impossibilité de la chirurgie, l'antibiothérapie IV seule est << une alternative acceptable >> (*SFCD 2021*). Minimum 24 heures de surveillance hospitalière.
 
 La voie orale est recommandée en l'absence de nausées ou vomissements.
 
-Antibiothérapie type amoxicilline + a. clavulanique (Augmentin) ou fluoroquinolone + imidazolé ≤ 8 jours
+Antibiothérapie type amoxicilline + a. clavulanique (Augmentin) ou fluoroquinolone + imidazolé ≤ 8 jours (SPILF 2020: 7 jours)
 
 {{% /collapse %}}
 {{%sources%}}
@@ -195,6 +195,7 @@ Antibiothérapie type amoxicilline + a. clavulanique (Augmentin) ou fluoroquinol
 - {{< references/college-gastro >}}
 - Prescrire Redaction. Signes d'appendicite chez les enfants. Prescrire. 2021.
 - [Ameli. L'appendicite aiguë : symptômes, diagnostic et évolution. 06/12/2021.](https://www.ameli.fr/assure/sante/themes/appendicite-aigue/symptomes-diagnostic-evolution)
+- {{< references/spilf-2020 >}}
 - [HAS. Appendicectomie. Évaluation des technologies de santé. 2012.](https://www.has-sante.fr/jcms/c_1218019/fr/appendicectomie-elements-decisionnels-pour-une-indication-pertinente-rapport-d-evaluation)
 - [SNFGE. Appendicite aiguë.](https://www.snfge.org/content/appendicite-aigue-0)
 

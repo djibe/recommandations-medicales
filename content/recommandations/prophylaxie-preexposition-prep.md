@@ -25,7 +25,7 @@ todo = "gitgraph: Continu femme, Schéma continu homme, Schéma discontinu homme
 {{%article-summary%}}
 
 - Toutes les personnes exposées au VIH sont éligibles à la prophylaxie pré-exposition (PrEP) du VIH et doivent en être informées
-- La PrEP est gratuite et prescriptible par tout médecin, elle protège du [VIH]({{< relref "vih-sida.md" >}}) mais pas des autres [IST](/tags/ist/), encourager le préservatif
+- La PrEP est gratuite et prescriptible par tout médecin, elle protège du [VIH]({{< relref "vih-sida.md" >}}) mais pas des autres [infections sexuellement transmissibles](/tags/ist/), encourager le préservatif
 - Vérifier les contre-indications et réaliser le bilan pré-thérapeutique (voir chapitres dédiés)  
   [Check-list ANSM pour le prescripteur (PDF)](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-checklist-pds-version3-2021-juin.pdf)
 - Prescription initiale de l'emtricitabine/tenofovir disoproxil 200/245 mg (Truvada®, certains gén) limitée à 1 mois avec sérologie VIH récente (< 7 jours)  
@@ -243,19 +243,20 @@ Quelque soit le schéma: poursuivre 1 cp par jour pendant **2 jours** après le 
 {{% /collapse %}}
 {{%collapse "Suivi de la PrEP" %}}
 
-Suivi spécialisé en cas d'[hépatite B active]({{< relref "hepatite-b.md" >}}).
+Suivi spécialisé en cas d'[hépatite B active]({{< relref "hepatite-b.md" >}})
+{.alert .alert-info}
 
 {{< table title="Suivi de la PrEP préconisé par HAS et ANSM 2021" >}}
 | Période | Bilan       | Remarque   |
 |:-------:|-------------|------------|
 | 1 mois  | - Sérologie VIH<br>- Créatininémie, CKD-EPI | ßHCG non systématique |
 | 4 mois  | - Idem + IST<br>- ALAT  | Clairance ≥ 90: bilan annuel<br>70-90 ou âge ≥ 55: 6 mois<br>< 70: 3 mois |
-| Trimestriel | - Sérologie VIH<br>- IST, ALAT, phosphates, ßHCG | Rythme de la créatinine selon la clairance |
+| Trimestriel | - Sérologie VIH, syphilis<br>- IST, ALAT, phosphates, ßHCG | Rythme de la créatinine selon la clairance |
 | Annuel  | - Sérologie VHC*<br>- Protéinurie/créatininurie sur échantillon | |
 {{< /table >}}
 
 > Sites de dépistage des IST gonocoque + *Chlamydia* selon les pratiques  
-*Sérologie VHC plus fréquente si UDI, chemsex ou pratiques traumatisantes
+*Sérologie syphilis recommandée par l'EADV, sérologie VHC plus fréquente si UDI, chemsex ou pratiques traumatisantes
 
 {{% /collapse %}}
 {{%collapse "Ressources patients" %}}
@@ -319,6 +320,7 @@ gitGraph
 - [ANSM.  Emtricitabine - Ténofovir disoproxil. 27/07/2021.](https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil)
 - [HAS. Réponses rapides dans le cadre de la COVID-19 - Prophylaxie (PrEP) du VIH par ténofovir disoproxil / emtricitabine dans le cadre de l'urgence sanitaire. 28/04/2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-04/reco_435__reponse_rapide_prep_au_vih_150421_cd_vudoc_am_pg_vd_mel_v0.pdf)
 - [CNS. Avis sur la place de la PrEP dans la prévention du VIH en France : changer de paradigme, changer d'échelle. 15/04/2021. (PDF)](https://cns.sante.fr/wp-content/uploads/2021/05/2021-04-15_avis_fr_prevention.pdf)
+- [Janier M et al. 2020 European guideline on the management of syphilis. J Eur Acad Dermatol Venereol. 2021.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16946)
 - [AIDES. La PrEP](https://www.aides.org/prep)
 
 {{%/sources%}}

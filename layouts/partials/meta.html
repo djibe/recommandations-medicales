@@ -23,7 +23,7 @@
 {{ $year := "" }}
 {{ if ge .Params.Annees (sub now.Year 2) }}{{ $year = .Params.Annees }}{{ end }}
 {{ if .IsHome }}
-  {{ $metaTitle = (printf "Dernières recommandations médicales pour le généraliste | RecoMédicales" ) }}
+  {{ $metaTitle = (printf "Recommandations médicales pour le généraliste | RecoMédicales" ) }}
 {{ else if and (eq .Section "recommandations") (.Params.TitleSeo) }}
   {{ $metaTitle = ( printf "%s %s %s %s" "Recommandations" .Params.TitleSeo $year "| RecoMédicales" ) }}
 {{ else if .Params.TitleSeo }}

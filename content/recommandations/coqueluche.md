@@ -73,7 +73,7 @@ SPILF
 - Transmission aérienne directe, intra-familiale +++  
   Contamination maximale pendant la phase catarrhale.
 - Contamination nulle après 3 semaines sans traitement, 3 jours d'azithromycine ou 5 jours d'autre antibiotique efficace
-- **Apyréxie**
+- **Apyrexie**
 - Diagnostic de coqueluche sur 3 critères:
     1. Déroulement de la maladie
     2. Caractères de la toux
@@ -261,6 +261,7 @@ graph TB
 - [SPILF. Info-antibio N°92. Mai 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)
 - [CMIT. Coqueluche. Item 163. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-163-web.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU). Coqueluche. Item 163. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/coqueluche)
+- {{< references/spilf-2020 >}}
 - [HCSP. Conduite à tenir devant un ou plusieurs cas de coqueluche. 2008.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=36)
 - [ECDC. Pertussis](https://www.ecdc.europa.eu/en/pertussis)
 

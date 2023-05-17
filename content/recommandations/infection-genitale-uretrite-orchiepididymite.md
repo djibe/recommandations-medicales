@@ -81,6 +81,7 @@ Prélèvements au laboratoire:
   à faire **si gonocoque+ à la PCR** pour antibiogramme.
 - ECBU sur urine de milieu de jet
 - Bilan des autres [infections sexuellement transmissibles (IST)](/tags/ist/)
+- Information du patient (non gonococcique): [Guide patient l'IUSTI (PDF)](https://iusti.org/wp-content/uploads/2019/11/NGU_French-translation.pdf).
 
 ### Prise en charge de l'urétrite
 
@@ -204,7 +205,7 @@ Antibiothérapie probabiliste de l'orchi-épididymite selon les différentes rec
     <button aria-controls="eau-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#eau-panel" id="eau-tab" type="button" role="tab">EAU 2022</button>
   </li>
   <li class="nav-item" role="presentation">
-    <button aria-controls="sfd-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#sfd-panel" id="sfd-tab" type="button" role="tab">SFD 2016</button>
+    <button aria-controls="sfd-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#sfd-panel" id="sfd-tab" type="button" role="tab">SPILF 2020/SFD 2016</button>
     </li>
   </ul>
   <div class="card-body tab-content">
@@ -226,7 +227,8 @@ Ceftriaxone 1g IM dose unique
 <div aria-labelledby="sfd-tab" class="tab-pane fade " id="sfd-panel" role="tabpanel">
 
 Ceftriaxone 500 mg IM dose unique  
-\+ doxycycline 100 mg x 2/j pendant 10 jours
+\+ doxycycline 100 mg x 2/j pendant 10 jours  
+ou azithromycine 1g dose unique (SPILF)
 
 Si faible suspicion de gonococcie et suspicion d'origine urinaire: Ceftriaxone + ofloxacine 200 mg x 3/j pendant 10 jours
 
@@ -250,6 +252,7 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 
 - [Bonkat G. et al. EAU guidelines on urological infections. 2022.](https://uroweb.org/guidelines/urological-infections)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
+- {{< references/spilf-2020 >}}
 - [Gerhardt P. et al; Société Française de Dermatologie (SFD). Urétrite masculine. Recommendations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/uretrite-masculine-61ed71f0cf1553f5b94bbb4214d5905e.pdf)
 - [Janier M. et al; Société Française de Dermatologie (SFD). Orchiépididymite. Recommendations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/orchiepididymite-e11608a96bbf138a1ce4045e283aa71a.pdf)
 

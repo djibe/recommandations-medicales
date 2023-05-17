@@ -12,13 +12,13 @@ specialites = ["pneumologie"]
 annees = "2020"
 sources = ["SPILF"]
 tags = ["dyspnee", "fatigue", "fievre", "geriatrie", "toux", "vaccin", "VIH"]
-anglais = ["English word"]
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = "https://prod-mapping.ihtsdotools.org/#/"
+anglais = ["Community acquired pneumonia (CAP)"]
+sctid = "385093006"
+icd10 = "J18.9"
 draft = true
-image = false
-imageSrc = ""
-todo = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7152179/, inhalation, flow, Légionellose SANS critère de gravité = macrolide voie orale, 8 jours. (CMIT)"
+image = true
+imageSrc = "Pneumonie franche lobaire aiguë du lobe moyen droit chez un patient de 35 ans avec toux fébrile. Cas de Sajoscha A. Sorrentino, Radiopaedia.org, rID: 14979"
+todo = "pneumopathie d'inhalation, flow, Légionellose SANS critère de gravité = macrolide voie orale 14j. (CMIT)"
 +++
 
 {{%article-summary%}}
@@ -210,14 +210,14 @@ TODO: calendrier
 {{% /collapse %}}
 {{%collapse "Traitement ambulatoire de la pneumonie aiguë communautaire" %}}
 
-En l'absence de critères d'hospitalisation (voir section précédente): antibiothérapie urgente probabiliste pendant 7 jours avec réévaluation systématique à 48-72 heures
+En l'absence de critères d'hospitalisation (voir section précédente): antibiothérapie urgente probabiliste pendant 7 jours avec réévaluation systématique à 48-72 heures (**5 jours** en pédiatrie ou si le syndrome infectieux a cédé à 72h)
 {.alert .alert-info}
 
 Consultation urgente en cas de dégradation avant la réévaluation clinique.
 
 **NB.** La fièvre peut être prolongée (5 jours) en cas de pneumopathie infectieuse atypique.
 
-8 à 21 jours pour la légionelle.
+14 jours pour la légionelle.
 
 ### Prise en charge ambulatoire de la pneumonie aiguë communautaire non grave
 
@@ -253,7 +253,7 @@ Hospitalisation conseillée (*CMIT*)
 - Amoxicilline - acide clavulanique
 - ou ceftriaxone IM + métronidazole
 
-Hospitalisation à 48-72h en cas d'échec de pristinamycine ou FQAP (*CEP*)
+Hospitalisation à 48-72 heures en cas d'échec de pristinamycine ou FQAP (*CEP*)
 {.alert .alert-warning}
 
 {{% /collapse %}}
@@ -262,14 +262,17 @@ Hospitalisation à 48-72h en cas d'échec de pristinamycine ou FQAP (*CEP*)
 - [CMIT. Infections broncho-pulmonaires communautaires de l'adulte et de l'enfant. Item 154. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-154-web.pdf)
 - [Collège des Enseignants de Pneumologie (CEP). Infections broncho-pulmonaires communautaires de l'adulte. Item 154. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2021/04/item_154_Infections-broncho-pulmonaires.pdf)
 - {{< references/spilf-2020 >}}
+- [Omédit Centre. Traitement des pneumonies bactériennes aigues cummunautaires chez l'adulte - généralités. 2017. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/6823.pdf)
 
 ### À lire
 
 - <https://www.infectiologie.com/UserFiles/File/spilf/recos/2010-infvrb-spilf-afssaps.pdf>
 - Invasif: <https://www.infectiologie.com/UserFiles/File/spilf/communiques/conduite-a-tenir-cas-contact-infections-invasives-a-sgadef.pdf>
-- Pénurie: <https://www.infectiologie.com/UserFiles/File/spilf/recos/duree-traitement-pac-29-nov.pdf>
-- [Omédit Centre. Traitement des pneumonies bactériennes aigues cummunautaires chez l'adulte - généralités. 2017. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/6823.pdf)
-- Afssaps 2010
+- [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
+- {{< references/calendrier-vaccinal >}}
+- [Pateron D et al. Pneumopathies infectieuses communautaires. Mega-Guide Pratique des Urgences. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7152179/)
+- CRAT
+- Antibioclic
 
 {{%/sources%}}
 

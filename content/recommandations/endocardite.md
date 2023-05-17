@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-08-18T11:07:22+02:00"
 publishdate = "2021-09-07"
-lastmod = "2022-10-28"
+lastmod = "2023-05-16"
 specialites = ["cardiologie"]
 annees = "2015"
 sources = ["ESC"]
@@ -28,7 +28,7 @@ todo = "SEO 'recommandations endocardite', Brossettes ?"
   Amoxicilline per os 2 g 30 à 60 minutes avant le geste à risque (50 mg/kg chez l'enfant)
 - Soutien psychologique
 - Adresser aux Urgences toute suspicion d'endocardite infectieuse
-- Prochaines recommandations ESC sur l'endocardite infectieuse en 2023
+- Prochaines recommandations ESC pour la prise en charge de l'endocardite infectieuse en 2023
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -155,12 +155,11 @@ accTitle: Recommandations pour la prise en charge des personnes à haut risque d
 {{%/collapse%}}
 {{%sources%}}
 
-- [Duval X., Iung B. Prophylaxie de l'endocardite infectieuse. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/j.amcp.2021.03.003)
+Pour le traitement des endocardites infectieuses, lire {{< references/spilf-2020 >}}.
+
+- [Duval X, Iung B. Prophylaxie de l'endocardite infectieuse. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/j.amcp.2021.03.003)
+- [CMIT. Endocardite infectieuse. Item 152. ECN.Pilly 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-152-web.pdf)
 - [Collège National des Enseignants de Cardiologie. Endocardite infectieuse. Item 149 - UE6. Cardiologie 2e édition. 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch11_endocardite.pdf)
-- [Habib H. et al. 2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC) Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). European Heart Journal. 2015.](https://doi.org/10.1093/eurheartj/ehv319)
-
-### À lire
-
-[CMIT. Endocardite infectieuse. Item 152. ECN.Pilly 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-152-web.pdf)
+- [Habib H et al. 2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC) Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). European Heart Journal. 2015.](https://academic.oup.com/eurheartj/article/36/44/3075/2293384)
 
 {{%/sources%}}
