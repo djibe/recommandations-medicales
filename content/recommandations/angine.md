@@ -118,12 +118,14 @@ Score de Mc Isaac, Mac Isaac ou MacIsaac
 
 Le test de diagnostic rapide (TDR) peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si TROD angine positif, sous 7 jours calendaires >>.
 
+La sensibilité du TDR chez l'enfant est de 85%.
+
 > Si TDR négatif et comportements sexuels à risque, proposer une sérologie VIH
 
 {{% /collapse %}}
 {{%collapse "Indications à l'hospitalisation" %}}
 
-Indications à hospitaliser une angine:
+### Indications à hospitaliser une angine
 
 - Angine streptococcique compliquée
 - Diphtérie
@@ -243,6 +245,7 @@ accTitle: Prise en charge de l'angine selon le tableau clinique d'après SPILF/H
 {{% /collapse %}}
 {{%sources%}}
 
+- [GPIP, SFP, AFPA, SPILF. Conduite à tenir autour d'un cas d'infection invasive à Streptocoque du Groupe A. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/communiques/conduite-a-tenir-cas-contact-infections-invasives-a-sgadef.pdf)
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
 - [Cohen J, Cohen R; SFP. Angine. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
 - [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'enfant. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/fiche_memo_rhinopharyngite_angine_enfant_durees_antibiotherapies.pdf)
