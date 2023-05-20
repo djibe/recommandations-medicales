@@ -6,7 +6,7 @@ longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-05T12:18:00+02:00"
 publishdate = "2022-12-08"
-lastmod = "2023-05-11"
+lastmod = "2023-05-20"
 sources = ["CNOM"]
 tags = []
 image = true
@@ -19,7 +19,7 @@ todo = "validate form > Store data > Copier > Télécharger .doc"
 
 ## Générer et éditer un contrat de remplacement pour le médecin généraliste
 
-Créer un contrat de remplacement pour le médecin libéral depuis le navigateur web.
+Créer un contrat de remplacement pour le médecin libéral depuis le navigateur web. Il vous faut ensuite l'envoyer à votre Conseil départemental ([annuaire](https://www.conseil-national.medecin.fr/lordre-medecins/conseils-regionaux-departementaux/conseils-departementaux-lordre), bandeau de droite: "Contacter mon conseil").
 
 > Aucune donnée n'est transmise (comme partout ailleurs sur **RecoMédicales**)
 

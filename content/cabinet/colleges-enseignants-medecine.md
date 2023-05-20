@@ -5,7 +5,7 @@ description = "Liens vers les collèges des enseignants de médecine de deuxièm
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-14T16:20:00+02:00"
 publishdate = "2023-01-16"
-lastmod = "2023-01-17"
+lastmod = "2023-05-19"
 sources = ["Colleges"]
 tags = []
 image = true
@@ -34,6 +34,7 @@ Le tableau ci-dessous liste tous les référentiels disponibles en téléchargem
 | Infectiologie | CMIT <br><span class="typography-caption">Collège des universitaires de Maladies Infectieuses et Tropicales</span> | 2021 | [Pilly](https://www.infectiologie.com/fr/pilly-etudiant-2021-uniquement-en-ligne-pilly-etudiant-2023-disponible-a-la-vente-a-partir-du-23-janvier.html) |
 | Médecine physique | COFEMER <br><span class="typography-caption">COllège Français des Enseignants universitaires de MEdecine physique et de Réadaptation</span> | 2018 | [lien](https://www.cofemer.fr/cofemer/gestionPagesWebStandard.do?dispatchMethod=affiche&pageId=55) |
 | Médecine vasculaire | CEMV <br><span class="typography-caption">Collège des Enseignants de Médecine Vasculaire</span> | 2015 | [lien](http://cemv.vascular-e-learning.net/poly/Poly-Vx.pdf) |
+| Néphrologie | CUEN <br><span class="typography-caption">Collège Universitaire des Enseignants de Néphrologie</span> | 2023 | [lien](https://cuen.fr/manuel3/) |
 | Neurologie | CEN <br><span class="typography-caption">Collège des Enseignants de Neurologie</span> | 2019 | [lien](https://www.cen-neurologie.fr/deuxieme-cycle) |
 | Ophtalmologie | COUF <br><span class="typography-caption">Collège des Ophtalmologistes Universitaires de France</span> | 2021 | [lien](http://couf.fr/espace-etudiants/2eme-cycle-dcem/) |
 | ORL | ORL&CCF <br><span class="typography-caption">ORL et Chirurgie de la Face et du Cou</span> | 2022 | [lien](https://campusorl.fr/espace-etudiants/2eme-cycle-ecni/) |
@@ -70,7 +71,6 @@ Pour ne pas les citer:
 - Collège National des Enseignants de Médecine Légale (CNEML), Collège des Enseignants Hospitalo-Universitaires de Médecine et Santé au Travail (CEHUMT), Société Française de Médecine Légale (SFML)
 - Collège national des Enseignants de Médecine Interne (CEMI)
 - Collège des Enseignants de Médecine de la Douleur (CEMD), Collège National des Enseignants pour la Formation Universitaire en Soins Palliatifs (CNEFUSP), Société Française d'Anesthésie et de Réanimation (SFAR)
-- Collège Universitaire des Enseignants de Néphrologie (CUEN)
 - Collège des Enseignants de Nutrition des Facultés de Médecine (CEN)
 - Association Française des Enseignants de Parasitologie-Mycologie (ANOFEL)
 - Collège des Enseignants de Radiologie Française (CERF)

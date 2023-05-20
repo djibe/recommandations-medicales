@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-10T13:36:06+02:00"
 publishdate = "2022-11-07"
-lastmod = "2022-11-09"
+lastmod = "2023-05-19"
 specialites = ["urologie"]
 annees = "2021"
 sources = ["HAS", "SPILF"]
@@ -126,8 +126,13 @@ Prise en charge de la cystite par **BU** (leucocytes+ voire nitrites+) et antibi
 
 ECBU uniquement en l'absence d'amélioration à 72 heures, récidive dans les 2 semaines ou double contre-indication. Le traitement adapté à l'antibiogramme sera celui des cystites à risque de complication.
 
+> Traitement << minute >> possible chez la jeune fille uniquement si pubère (*SPILF 2020*).
+
 **En cas de BU négative**, rechercher un diagnostic différentiel: mycose, urétrite, sécheresse cutanéo-muqueuse.  
 Une BU peut être réalisée en pharmacie avec orientation vers le médecin en cas de positivité.
+
+> En cas de cystite aiguë sur sonde urinaire: 3 jours d'antibiothérapie (*SPILF 2020*)
+{.alert .alert-info}
 
 ### Cystite aiguë à risque de complication
 
@@ -234,7 +239,7 @@ Adaptation à l'antibiogramme dès le rendu des résultats:
     3. Céfoxitine  
     4. Hospitalisation
 
-Réévaluation systématique à 72 heures.  
+**Réévaluation systématique à 72 heures**.  
 ECBU de contrôle uniquement en cas d'évolution défavorable après 72 heures.
 
 ### Pyélonéphrite aiguë à risque de complication
@@ -244,9 +249,9 @@ En présence d'une pyélonéphrite avec {{< modal-btn modal-fdr-complication >}}
 - Bilan biologique: CRP, créatininémie
 - Uroscanner en urgence (max 24h) ou à défaut échographie rénale
 
-Antibiotiques identiques à la PNA simple (chapitre précédent).
+Antibiotiques identiques à la pyélonéphrite aiguë simple (chapitre précédent) pendant 10 jours.
 
-Réévaluation systématique à 72 heures.  
+**Réévaluation systématique à 72 heures**.  
 ECBU de contrôle uniquement en cas d'évolution défavorable après 72 heures.
 
 {{% /collapse %}}
@@ -309,12 +314,22 @@ Infection urinaires masculine (IU masculine)
 : Échographie des voies urinaires sous 24h si sepsis grave, suspicion de rétention ou de lithiase.  
 Sinon avec mesure du résidu post-mictionnel, dès le 2<sup>e</sup> épisode ou en cas de suspicion d'anomalie des voies urinaires (+50 ans).
 
+### Infection urinaire de l'homme pauci-symptomatique
+
+En cas d'infection urinaire peu symptomatique (<< cystite-like >> sans signes généraux): antibiothérapie identique à l'IU masculine symptomatique mais pendant 7 jours.
+
+### Infection urinaire de l'homme symptomatique
+
+Recommandations en cas de signes généraux ou de douleurs de type prostatite.
+
+{{%info%}}
 Prise en charge par antibiothérapie probabiliste d'une infection urinaire masculine très symptomatique:
 
 1. Ciprofloxacine 500 mg x 2/j ou lévofloxacine 500 mg/j  
   Sauf fluoroquinolone dans les 6 mois.
 2. Ceftriaxone IM 1 g/j (2g si obèse)
 3. Hospitalisation
+{{%/info%}}
 
 Adaptation à l'antibiogramme dès le rendu des résultats:
 
@@ -351,15 +366,15 @@ accTitle: Prise en charge d'une pyélonéphrite en ambulatoire d'après HAS 2021
 
 - [Arrêté du 31 mars 2022. Journal Officiel. (PDF)](https://www.ameli.fr/sites/default/files/Documents/convention-pharmaciens-titulaires-officine_journal-officiel.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
+- {{< references/spilf-2020 >}}
 - [Collège d'Urologie. Infections urinaires de l'adulte et de l'enfant. Item 161. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-161-Infections-urinaires.pdf)
-- [Caron F. et al; SPILF. Recommandations pour la prise en charge des infections urinaires communautaires de l'adulte. Med Mal Inf. 2018.](https://www.sciencedirect.com/science/article/pii/S0399077X17310363)
+- [Caron F et al; SPILF. Recommandations pour la prise en charge des infections urinaires communautaires de l'adulte. Med Mal Inf. 2018.](https://www.sciencedirect.com/science/article/pii/S0399077X17310363)
 
 ### À lire
 
 - [Plateel T et al. Nitrofurantoin failure in males with an uncomplicated urinary tract infection: a primary care observational cohort study. British Journal of General Practice. 2023.](https://bjgp.org/content/73/728/e204)
 - [NICE. Urinary tract infections in adults. 2023.](https://www.nice.org.uk/guidance/qs90/chapter/Quality-statements) (BU si < 2 sympt pour cystite)
 - [Bonkat G. et al. EAU guidelines on urological infections. 2022.](https://uroweb.org/guidelines/urological-infections)
-- {{< references/spilf-2020 >}}
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Cohen R. et al. Prise en charge des infections urinaires de l'enfant. Recommandations du groupe de pathologie infectieuse pédiatrique de la Société française de pédiatrie et de la Société de pathologie infectieuse de langue française. Archives de Pédiatrie. 2015. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/infections_voies_urinaires_gpip_2015.pdf)
 - [CMIT. Infections urinaires de l'adulte / Connaître les particularités de l'infection urinaire au cours de la grossesse. Item 161. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-161-web.pdf)

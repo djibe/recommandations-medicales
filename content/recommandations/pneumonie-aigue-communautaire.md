@@ -7,7 +7,7 @@ synonyms = ["Pneumopathies infectieuses communautaires"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-15T17:05:04+02:00"
 publishdate = "2023-05-17"
-lastmod = "2023-05-17"
+lastmod = "2023-05-19"
 specialites = ["pneumologie"]
 annees = "2020"
 sources = ["SPILF", "Afssaps"]
@@ -17,7 +17,7 @@ sctid = "385093006"
 icd10 = "J18.9"
 image = true
 imageSrc = "Pneumonie franche lobaire aiguë du lobe moyen droit chez un patient de 35 ans avec toux fébrile. Cas de Sajoscha A. Sorrentino, Radiopaedia.org, rID: 14979"
-todo = "tableau antibioclic, bilan et atb légionelle en ambu, dose pédiatrie, dose FQ, critère gravité Extension radiologique ?"
+todo = "tableau antibioclic, bilan et atb légionelle en ambu, dose FQ, critère gravité Extension radiologique ?"
 flowchart = true
 +++
 
@@ -36,7 +36,7 @@ flowchart = true
 
 Pneumonie communautaire
 : Infection du parenchyme pulmonaire contractée en milieu extrahospitalier ou déclenchée moins de 48 heures après l'admission.
-: Germes des PAC graves: ***Streptococcus pneumoniae*** (pneumocoque) et ***Legionnella pneumoniae*** (légionelle). 1/4 sont également atteints de virus respiratoires (influenza et paramyxovirus).
+: Germes des PAC graves: ***Streptococcus pneumoniae*** (pneumocoque, à tout âge) et ***Legionnella pneumoniae*** (légionelle). 1/4 sont également atteints de virus respiratoires (influenza et paramyxovirus).
 : Germes des PAC de l'immunocompétent: pneumocoque, grippe ainsi que ***Mycoplasma pneumoniae*** et *Chlamydophila pneumoniae* (ou *Chlamydia pneumoniae*) avec transmission inter-humaine souvent avant 40 ans.
 : 500.000 cas de pneumonies annuelles avec une gravité potentielle même sans comorbidités (première cause de décès par infection).
 
@@ -90,7 +90,7 @@ SPILF
 Une auscultation normale n'élimine pas le diagnostic de pneumonie
 {.alert .alert-warning}
 
-- Pression artérielle, fréquence cardiaque, température
+- Pression artérielle, fréquence cardiaque, température, TRC
 - Fréquence respiratoire, SpO<sub>2</sub>
 - Examen pulmonaire  
   - Syndrome de condensation alvéolaire: crépitants localisés, diminution du murmure vésiculaire, souffle tubaire, augmentation de la transmission des vibrations vocales
@@ -123,7 +123,7 @@ Présentation de pneumonie aiguë communautaire bactérienne **la plus fréquent
 - Tableau fruste d'installation **progressive**
   - Fébricule
   - Toux sèche persistante
-  - Syndrome pseudo-grippal avec myalgies, diarrhées, éruption cutanée
+  - Syndrome pseudo-grippal avec myalgies, conjonctivite, diarrhées, éruption cutanée
 - PCR nasopharyngée *Mycoplasma pneumoniae* et *Chlamydophila pneumoniae* (ou *Chlamydia pneumoniae*)
 - Si biologie: anémie hémolytique, cytolyse hépatique
 - Opacités multifocales
@@ -262,10 +262,17 @@ Antibiothérapie selon l'orientation du tableau clinique.
 - Si 2<sup>e</sup> échec ou aggravation rapide: hospitalisation
 {{%/info%}}
 
-Si suspicion de bactérie atypique: macrolide spiramycine 3 MUI x 2-3/j pendant 14 jours (ou azithromycine, clarithromycine 500 mg x 2/j).  
-Chez l'enfant: clarithromycine 15 mg/kg/j en 2 prises (max 1 g/j).
-
 [Avis d'Antibioclic](https://antibioclic.com/strategie/279/2274)
+
+> Pédiatrie: << La normalisation complète n'est pas observée avant plusieurs semaines. >> (*CNPU*)
+
+Pneumonies récidivantes d'un même territoire: évoquer un corps étranger.
+
+##### Suspicion de bactérie atypique
+
+Macrolide spiramycine 3 MUI x 2-3/j pendant 14 jours (ou azithromycine, clarithromycine 500 mg x 2/j).
+
+Chez l'enfant (pas d'intracellulaire avant 3 ans): clarithromycine 15 mg/kg/j en 2 prises (max 1 g/j).
 
 #### PAC avec comorbidité, alcool ou sujet âgé ambulatoire
 
@@ -285,7 +292,7 @@ En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-p
 {{< table title="Schémas d'antibiothérapies ambulatoires pour le traitement des pneumonies aiguës communautaires selon diverses sociétés. Dr JB Fron d'après Afssaps et Collèges de médecine" >}}
 | Tableau                 | Afssaps | CMIT et CEP                                                               |
 |-------------------------|---------|---------------------------------------------------------------------------|
-| Pneumocoque             |         | Amoxicilline<br>Alternative: pristinamycine<br>48h: intervertir           |
+| Pneumocoque             | TODO:   | Amoxicilline<br>Alternative: pristinamycine<br>48h: intervertir           |
 | Intracellulaire         |         | Macrolide<br>Alternative: pristinamycine<br>48h: intervertir              |
 | Sujet âgé, comorbidités |         | Augmentin ou C3G IM ou FQAP<br>48h: hospitalisation (CMIT: ajout macrolide) |
 {{< /table >}}
@@ -314,6 +321,7 @@ L'antibiothérapie dure 5 jours sauf adulte symptomatique à 72 heures (7 jours)
 - {{< references/calendrier-vaccinal >}}
 - [CMIT. Infections broncho-pulmonaires communautaires de l'adulte et de l'enfant. Item 154. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-154-web.pdf)
 - [Collège des Enseignants de Pneumologie (CEP). Infections broncho-pulmonaires communautaires de l'adulte. Item 154. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2021/04/item_154_Infections-broncho-pulmonaires.pdf)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pneumonies aiguës communautaires. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/pneumonies-aigues-communautaires)
 - {{< references/spilf-2020 >}}
 - [Fleurence E; SFP. Toux fébrile. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/allergo-pneumo/toux-febrile)
 - [Houdouin V; SFP. Pneumonies : du diagnostic au traitement. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/allergo-pneumo/pneumonies-du-diagnostic-au-traitement)
@@ -323,6 +331,6 @@ L'antibiothérapie dure 5 jours sauf adulte symptomatique à 72 heures (7 jours)
 ### À lire
 
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
-- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pneumonies aiguës communautaires. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/pneumonies-aigues-communautaires)
+- SP2A
 
 {{%/sources%}}
