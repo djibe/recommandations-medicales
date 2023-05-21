@@ -123,7 +123,7 @@ Lorsque le patient présente une immunoglobuline monoclonale de façon asymptoma
 {{% /collapse %}}
 {{%sources%}}
 
-- [Centre de Référence des Syndromes Hyperéosinophiliques (CEREO), Filière de santé maladies Rares Immuno-hématologiques (MaRIH); HAS. Hyperéosinophilies et syndromes hyperéosinophiliques. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3346155/fr/hypereosinophilies-et-syndromes-hypereosinophiliques)
+- [Centre de Référence des Syndromes Hyperéosinophiliques (CEREO), Filière de santé maladies Rares Immuno-hématologiques (MaRIH). Hyperéosinophilies et syndromes hyperéosinophiliques. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3346155/fr/hypereosinophilies-et-syndromes-hypereosinophiliques)
 - [Haute Autorité de Santé (HAS). Quand prescrire une électrophorèse des protéines sériques (EPS) et conduite à tenir en cas d'une immunoglobuline monoclonale. 2017.](https://www.has-sante.fr/jcms/c_2742018/fr/quand-prescrire-une-electrophorese-des-proteines-seriques-eps-et-conduite-a-tenir-en-cas-d-une-immunoglobuline-monoclonale)
 
 {{%/sources%}}

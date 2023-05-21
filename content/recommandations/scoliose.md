@@ -9,7 +9,7 @@ publishdate = "2023-03-27"
 lastmod = "2023-04-11"
 specialites = ["rhumatologie"]
 annees = "2022"
-sources = ["HAS", "AAFP"]
+sources = ["PNDS", "AAFP"]
 tags = ["adolescent", "depistage", "enfant"]
 anglais = ["Idiopathic scoliosis"]
 sctid = "298382003"
@@ -46,6 +46,12 @@ Scoliose évolutive
 : Marqueurs d'aggravation nécessitant d'accroître la surveillance: perte de taille, aggravation angulaire et évolution cyphosante.
 
 > **NB.** La cyphose est une déformation dans le plan sagittal.
+
+### Abréviations
+
+PNDS
+: protocole national de diagnostic et de soins
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -167,7 +173,7 @@ Informations sur la scoliose:
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS. Déformations précoces du rachis. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3374137/fr/deformations-precoces-du-rachis)
+- [Centre de référence des malformations vertébrales et médullaires. Déformations précoces du rachis. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3374137/fr/deformations-precoces-du-rachis)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Dépistages chez l'enfant. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/depistages-lenfant)
 - [Kuznia AL et al. Adolescent Idiopathic Scoliosis: Common Questions and Answers. Am Fam Physician. 2020.](https://www.aafp.org/pubs/afp/issues/2020/0101/p19.html)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Rachialgies. Item 94 UE 5. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-3-0.php)

@@ -9,7 +9,7 @@ publishdate = "2021-07-09"
 lastmod = "2023-04-09"
 specialites = ["hematologie"]
 annees = "2021"
-sources = ["ANSM", "HAS"]
+sources = ["ANSM", "PNDS"]
 tags = []
 anglais = ["Glucose-6-phosphate dehydrogenase deficiency anemia"]
 sctid = "62403005"
@@ -38,6 +38,9 @@ Déficit en glucose-6-phosphate déshydrogénase (G6PD)
 
 G6PD
 : glucose-6-déshydrogénase
+
+PNDS
+: protocole national de diagnostic et de soins
 {.dl-inline}
 
 {{% /collapse %}}
@@ -198,7 +201,7 @@ Doit être demandée par le médecin.
 {{%sources%}}
 
 - [ANSM. Médicament et déficit en G6PD : l'ANSM actualise le référentiel. 14/03/2021.](https://ansm.sante.fr/actualites/medicament-et-deficit-en-g6pd-lansm-actualise-le-referentiel)
-- [HAS. Déficit en G6PD ou favisme. PNDS. Juin 2017.](https://www.has-sante.fr/jcms/c_2800207/fr/deficit-en-g6pd-glucose-6-phosphate-deshydrogenase-ou-favisme)
+- [Centre de référence des thalassémies. Déficit en G6PD ou favisme. PNDS. 2017.](https://www.has-sante.fr/jcms/c_2800207/fr/deficit-en-g6pd-glucose-6-phosphate-deshydrogenase-ou-favisme)
 - [Anses. Favisme. 11/12/2012.](https://www.anses.fr/fr/content/favisme)
 
 {{%/sources%}}

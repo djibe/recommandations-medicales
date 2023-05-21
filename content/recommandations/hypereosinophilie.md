@@ -10,7 +10,7 @@ publishdate = "2023-04-29"
 lastmod = "2023-04-29"
 specialites = ["hematologie"]
 annees = "2022"
-sources = ["HAS", "CEMI"]
+sources = ["PNDS", "CEMI"]
 tags = []
 anglais = ["Eosinophilia"]
 sctid = "386789004"
@@ -236,7 +236,7 @@ Traitements spécifiques des syndromes hyperéosinophiliques
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une hyperéosinophilie" "show" %}}
 
-{{< mermaid title="Conduite à tenir et prise en charge devant la découverte d'une éosinophilie ou d'une hyperéosinophilie. Dr JB Fron d'après HAS 2022 et CEMI" >}}
+{{< mermaid title="Conduite à tenir et prise en charge devant la découverte d'une éosinophilie ou d'une hyperéosinophilie. Dr JB Fron d'après PNDS 2022 et CEMI" >}}
 graph TB
   éosinophilie["<b>Éosinophilie</b><br>—<br>= PNE 500-1500<br>Hyperéosinophilie si &gt; 1500"] --> clinique(Examen clinique) --> orientation(Orientation ?)
   style éosinophilie stroke:#4150f5, stroke-width:1px
@@ -250,7 +250,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Centre de Référence des Syndromes Hyperéosinophiliques (CEREO), Filière de santé maladies Rares Immuno-hématologiques (MaRIH); HAS. Hyperéosinophilies et syndromes hyperéosinophiliques. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3346155/fr/hypereosinophilies-et-syndromes-hypereosinophiliques)
+- [Centre de Référence des Syndromes Hyperéosinophiliques (CEREO), Filière de santé maladies Rares Immuno-hématologiques (MaRIH). Hyperéosinophilies et syndromes hyperéosinophiliques. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3346155/fr/hypereosinophilies-et-syndromes-hypereosinophiliques)
 - [CMIT. Éosinophilie. Item 218. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-218-web.pdf)
 - Société française d'hématologie (sfh). Item 218 - Éosinophilie. Hématologie. Réussir son DFASM. 2021.
 - Collège National des Enseignants de Médecine Interne (CEMI). Eosinophilie. Item 23. Référentiel Collège de Médecine interne R2C. 2021.

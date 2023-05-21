@@ -410,4 +410,8 @@ graph TB
 - [HAS. Modification de la Nomenclature des actes de biologie médicale pour les actes de recherche du Treponema pallidum. Mai 2015. (PDF)](https://www.has-sante.fr/portail/upload/docs/application/pdf/2015-05/argumentaire_syphilis_vd.pdf)
 - [Société de Pathologie Infectieuse de Langue Français (SPILF). Alternatives pour le traitement des syphilis non neurologiques dans un contexte de rupture de stock de benzathine pénicilline ± doxycycline. Février 2014. (PDF)](http://www.infectiologie.com/UserFiles/File/spilf/recos/2014-traitement-syphilis.pdf)
 
+### À lire
+
+[CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-162-web.pdf)
+
 {{%/sources%}}

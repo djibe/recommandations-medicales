@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-17T11:25:20+01:00"
 publishdate = "2023-01-19"
-lastmod = "2023-01-25"
+lastmod = "2023-05-21"
 specialites = ["urologie"]
 annees = "2022"
 sources = ["EAU", "HAS", "SFDermato"]
@@ -58,7 +58,7 @@ SFD
 {{%collapse "Urétrite" %}}
 
 Urétrite
-: Inflammation de l'urètre le plus souvent par une [infection sexuellement transmissible (IST)](/tags/ist/): *Neisseria gonorrhoeae*, *Chlamydia trachomatis* et *Mycoplasma genitalium* (20%), poly-infection dans 10-50% des cas avec un risque d'épididymite. *Trichomonas vaginalis* et *Ureaplasma urealyticum* sont rares et aucun germe n'est retrouvé dans 35% des cas.
+: Inflammation de l'urètre le plus souvent par une [infection sexuellement transmissible (IST)](/tags/ist/): *Neisseria gonorrhoeae* (gonorrhée, gonococcie, blennorragie ou << chaude-pisse >> avec incubation 2-5 jours), *Chlamydia trachomatis* et *Mycoplasma genitalium* (20%), poly-infection dans 10-50% des cas avec un risque d'épididymite. *Trichomonas vaginalis* et *Ureaplasma urealyticum* sont rares et aucun germe n'est retrouvé dans 35% des cas.
 : Sur-représentation des [HSH]({{< relref "hsh.md" >}}) et [séropositifs VIH]({{< relref "vih-sida.md" >}}).
 : Critères diagnostiques cytologiques chez un homme sans miction depuis au moins 2 heures: ≥ 5 PNN au frottis (grossissement 100), ≥ 10 PNN sur premier jet centrifugé (grossissement 400).
 : Urétrite non-gonococcique **persistante**: absence d'amélioration à 4 semaines du traitement.
@@ -66,7 +66,7 @@ Urétrite
 ### Symptômes de l'urétrite
 
 - Écoulement urétral (jaune ou blanchâtre) purulent, séreux voire hémorragique
-- Dysurie
+- Dysurie, brûlures mictionnelles
 - Prurit urétral
 - Très souvent asymptomatique
 
@@ -168,6 +168,7 @@ Mesures associées:
 - **Consultation de contrôle à J7**: contrôle de la guérison, résultats des IST et prévention
 - Si allergie aux bêta-lactamines: antibiothérapie adaptée l'antibiogramme
 - Si persistance des symptômes après 72 heures: consultation de contrôle avec les résultats
+- Gonococcie: déclaration anonyme à l'ARS (*CMIT*)
 
 > *HAS 2021* et *EAU 2022*
 
@@ -238,7 +239,7 @@ Si faible suspicion de gonococcie et suspicion d'origine urinaire: Ceftriaxone +
 
 Mesures associées au traitement de l'orchiépididymite:
 
-- Dépistage des partenaires
+- IST: dépistage des partenaires
 - Absence de rapport jusqu'à la fin du traitement
 - Tableau très aigu: réévaluation à 72 heures
 - Si IST suspectée ou prouvée: réévaluation à 2 semaines avec les résultats
@@ -250,15 +251,15 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 {{% /collapse %}}
 {{%sources%}}
 
-- [Bonkat G. et al. EAU guidelines on urological infections. 2022.](https://uroweb.org/guidelines/urological-infections)
+- [Bonkat G et al. EAU guidelines on urological infections. 2022.](https://uroweb.org/guidelines/urological-infections)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
+- [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-162-web.pdf)
 - {{< references/spilf-2020 >}}
-- [Gerhardt P. et al; Société Française de Dermatologie (SFD). Urétrite masculine. Recommendations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/uretrite-masculine-61ed71f0cf1553f5b94bbb4214d5905e.pdf)
-- [Janier M. et al; Société Française de Dermatologie (SFD). Orchiépididymite. Recommendations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/orchiepididymite-e11608a96bbf138a1ce4045e283aa71a.pdf)
+- [Gerhardt P et al; Société Française de Dermatologie (SFD). Urétrite masculine. Recommendations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/uretrite-masculine-61ed71f0cf1553f5b94bbb4214d5905e.pdf)
+- [Janier M et al; Société Française de Dermatologie (SFD). Orchiépididymite. Recommendations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/orchiepididymite-e11608a96bbf138a1ce4045e283aa71a.pdf)
 
 ### À lire
 
-- [Janier M. et al; Société Française de Dermatologie (SFD). Balanite. Recommendations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/balanites-f5f2cf585640275406ec42b19340d0c8.pdf)
-- College
+- [Janier M et al; Société Française de Dermatologie (SFD). Balanite. Recommendations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/balanites-f5f2cf585640275406ec42b19340d0c8.pdf)
 
 {{%/sources%}}

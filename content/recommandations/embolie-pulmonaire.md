@@ -42,7 +42,7 @@ Embolie pulmonaire
 ### Abréviations
 
 AOD
-: anticoagulant oral direct (ex-NACO)
+: anticoagulant oral direct (*ex* NACO)
 
 AVK
 : anti-vitamine K

@@ -7,7 +7,7 @@ synonyms = ["Pneumopathies infectieuses communautaires"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-15T17:05:04+02:00"
 publishdate = "2023-05-17"
-lastmod = "2023-05-19"
+lastmod = "2023-05-21"
 specialites = ["pneumologie"]
 annees = "2020"
 sources = ["SPILF", "Afssaps"]
@@ -17,7 +17,7 @@ sctid = "385093006"
 icd10 = "J18.9"
 image = true
 imageSrc = "Pneumonie franche lobaire aiguë du lobe moyen droit chez un patient de 35 ans avec toux fébrile. Cas de Sajoscha A. Sorrentino, Radiopaedia.org, rID: 14979"
-todo = "tableau antibioclic, bilan et atb légionelle en ambu, dose FQ, critère gravité Extension radiologique ?"
+todo = "bilan et atb légionelle en ambu, dose FQ, critère gravité Extension radiologique ?"
 flowchart = true
 +++
 
@@ -258,7 +258,7 @@ Antibiothérapie selon l'orientation du tableau clinique.
 - [Amoxicilline 1g](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) x 3/j  
   Enfant: 80-100 mg/kg/j en 3 prises (max 3 g/j - *SFP*).
 - Si allergie: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j (Pyostacine® à partir de 6 ans, double sensibilité pneumocoque + intracellulaires)
-- Si échec à 48-72 heures: substituer par l'autre classe (amoxicilline ou macrolide) et réévaluer 48-72h
+- Si échec à 48-72 heures: substituer par l'autre classe (macrolide ou amoxicilline) et réévaluer 48-72h
 - Si 2<sup>e</sup> échec ou aggravation rapide: hospitalisation
 {{%/info%}}
 
@@ -266,11 +266,11 @@ Antibiothérapie selon l'orientation du tableau clinique.
 
 > Pédiatrie: << La normalisation complète n'est pas observée avant plusieurs semaines. >> (*CNPU*)
 
-Pneumonies récidivantes d'un même territoire: évoquer un corps étranger.
+En cas de **pneumonies récidivantes** d'un même territoire, évoquer un corps étranger ou une tumeur.
 
 ##### Suspicion de bactérie atypique
 
-Macrolide spiramycine 3 MUI x 2-3/j pendant 14 jours (ou azithromycine, clarithromycine 500 mg x 2/j).
+Macrolide spiramycine 3 MUI x 2-3/j pendant 14 jours (peu d'interactions ou azithromycine, clarithromycine 500 mg x 2/j).
 
 Chez l'enfant (pas d'intracellulaire avant 3 ans): clarithromycine 15 mg/kg/j en 2 prises (max 1 g/j).
 
@@ -287,14 +287,15 @@ En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-p
 - Alternative: pristinamycine 1g x 3/j pendant 7 jours (ou FQAP)
 - Si échec à 48-72 heures: hospitalisation
 
-### Comparaison des schémas d'antibiothérapies proposées
+### Comparaison des schémas d'antibiothérapies proposées pour les pneumonies aiguës communautaires
 
-{{< table title="Schémas d'antibiothérapies ambulatoires pour le traitement des pneumonies aiguës communautaires selon diverses sociétés. Dr JB Fron d'après Afssaps et Collèges de médecine" >}}
-| Tableau                 | Afssaps | CMIT et CEP                                                               |
-|-------------------------|---------|---------------------------------------------------------------------------|
-| Pneumocoque             | TODO:   | Amoxicilline<br>Alternative: pristinamycine<br>48h: intervertir           |
-| Intracellulaire         |         | Macrolide<br>Alternative: pristinamycine<br>48h: intervertir              |
-| Sujet âgé, comorbidités |         | Augmentin ou C3G IM ou FQAP<br>48h: hospitalisation (CMIT: ajout macrolide) |
+{{< table title="Schémas d'antibiothérapies ambulatoires pour le traitement des pneumonies aiguës communautaires selon diverses sociétés. Dr JB Fron d'après Antibioclic 2023, Afssaps 2010 et Collèges de médecine" >}}
+| Tableau                           | Antibioclic | Afssaps                                                                                                                        | CMIT et CEP                                                   |
+|-----------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| <b>Pneumocoque</b>                | Amoxicilline<br>Allergie: pristina ou lévoflo<br>48h: pristina, lévoflo<br>ou amox + macrolide |Amoxicilline<br>48h: Macrolide, lévofloxacine,<br>pristinamycine,<br>ou télithromycine                                         | Amoxicilline<br>Alternative: pristinamycine<br>48h: Macrolide |
+| <b>Intracellulaire</b>            | Macrolide<br>48h: amoxicilline, pristina,<br>lévoflo ou moxiflo | Macrolide<br>48h: Amoxicilline, lévofloxacine,<br> pristinamycine<br>ou télithromycine                                         | Macrolide<br>Alternative: pristinamycine<br>48h: Amoxicilline |
+| <b>Doute pneumocoque-atypique</b> | Amoxicilline ou<br>pristinamycine<br>48h: Hospitalisation | Amoxicilline ou pristina/télithro<br>48h: lévofloxacine,<br>pristinamycine,<br>ou télithromycine<br>Hosp. si pristina/télithro |                                                               |
+| <b>Sujet âgé, comorbidités<b>     | Augmentin<br>48h ou allergie: ceftriaxone IM,<br>lévoflo ou moxiflo | Augmentin, lévofloxacine<br>ou ceftrianexo IM<br>48h: hospitalisation                                                          | Idem<br>48h: hospitalisation (CMIT: ajout macrolide)          |
 {{< /table >}}
 
 {{% /collapse %}}
@@ -307,12 +308,13 @@ graph TB
     gravité -- Oui --> hospitalisation(Hospitalisation)
       risque -- Oui --> hospitalisation
       tableau --> âgé(Âgé, comorbidité) --> âgé2("Augmentin, C3G<br>ou FQAP") -- 48-72h --> âgé3("Réévaluation<br>Échec = hospitalisation")
-      tableau --> pneumocoque("Pneumocoque<br>ou doute") --> amoxicilline(Amoxicilline) -- 48-72h --> pneumo2("Réévaluation<br>Échec: substituer<br>par macrolide")
+      tableau --> pneumocoque(Pneumocoque) --> amoxicilline(Amoxicilline) -- 48-72h --> pneumo2("Réévaluation<br>Échec: substituer<br>par macrolide")
+      tableau --> douteux(Doute pneumo-intracellulaire) --> douteux1("Amoxicilline<br>ou pristinamycine") -- 48-72h --> douteux2("Réévaluation<br>Échec: substituer par lévofloxacine<br>ou pristinamycine (Hosp si 1re ligne)")
       tableau --> intracellulaire(Atypique) --> macrolide(Macrolide) -- 48-72h --> intra2(Réévaluation<br>Échec: substituer<br>par amoxicilline)
 {{< /mermaid >}}
 
 > Hospitalisation si échec de la 2e ligne de traitement.  
-L'antibiothérapie dure 5 jours sauf adulte symptomatique à 72 heures (7 jours) ou légionelle (14 jours).
+**L'antibiothérapie dure 5 jours** sauf adulte symptomatique à 72 heures (7 jours) ou légionelle (14 jours).
 
 {{% /collapse %}}
 {{%sources%}}
