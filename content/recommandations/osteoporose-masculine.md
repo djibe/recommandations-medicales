@@ -275,7 +275,7 @@ graph TB
     bilan ==> severe("<b>Fracture sévère ?</b><br>—<br>- FESF/tête humérale<br>- Vertèbre<br>- Pelvis, bassin, sacrum<br>- Diaphyse fémorale<br>- Fémur distal<br>- 3 côtes simultanées<br>- Tibia proximal")
       severe -- Oui vertébrales --> traitementVertebre("<b>T-score ≤ -1</b><br>Zolédronate IV,<br> risédronate<br>  tériparatide SC<br>—<br><b>T-score &gt; -1</b><br>Avis rhumatologique") --> DXA
       severe -- Oui --> traitement("<b>T-score ≤ -1</b><br>Zolédronate IV,<br>risédronate<br>—<br><b>T-score &gt; -1</b><br>Avis rhumatologique<br>") --> DXA("Ostéodensitométrie à 2-3 ans<br>et avis rhumatologique")
-      severe -- Non sévère --> nonSevere("T-score ≤ -2</b><br>Zolédronate IV,<br>risédronate<br>—<br><b>T-score entre -2 et -1</b><br>Avis rhumatologique") --> DXA
+      severe -- Non sévère --> nonSevere("<b>T-score ≤ -2</b><br>Zolédronate IV,<br>risédronate<br>—<br><b>T-score entre -2 et -1</b><br>Avis rhumatologique") --> DXA
     bilan -- "-70 ans ou<br> biologie anormale" --> avisSpe
   fracture -- Non ostéoporotique --> nonOsteoporotique("- Crâne, face<br>- Rachis cervical + T1-T3<br>- Mains et doigts<br>- Avant-pied, orteils") --> etiologique(Bilan étiologique) --> avisSpe(Avis rhumatologique)
 {{< /mermaid >}}

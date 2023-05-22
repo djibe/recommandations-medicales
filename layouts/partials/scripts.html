@@ -171,46 +171,46 @@ document.addEventListener( 'DOMContentLoaded', event => {
   {{ partial "datatable" . }}
 {{- end -}}
 
-<script>
-  // Search menu
-  let params = {
-    json_src       : '/index.json', // for multiple sources: comma separated list of JSONarrays
-    minlength      : 3,
-    defaultsearch  : 'AND',
-    sort_date      : 'DESC',
-    autocomplete   : 1, // 0: form needs a submit button
-    section_search : 0, // 1: needs checkboxes with name="section[]"
-    badwords       : 'et,le,la,ceci,cela', //ignore these words
-    json_wait      : '<a class="dropdown-item"><div class="progress-circular"><div class="progress-circular-wrapper"><div class="progress-circular-inner"><div class="progress-circular-left"><div class="progress-circular-spinner"></div></div><div class="progress-circular-gap"></div><div class="progress-circular-right"><div class="progress-circular-spinner"></div></div></div></div></div></a>',
-    json_ready     : '<span class="dropdown-item-text text-black-secondary">Entrer 3 lettres...</span>',
-    extern_icon    : ' (external link)', // marker for external links (optional)
-    err_badstring  : '<span class="dropdown-item-text text-black-secondary">Entrer 3 lettres...</span>',
-    err_noresult   : '<span class="dropdown-item-text text-black-secondary">Aucun résultat</span>',
-    err_norequest  : '<span class="dropdown-item-text text-black-secondary">Recherche de texte non implémentée.</span>',
-    err_filefailed : '<span class="dropdown-item-text text-danger">Moteur de recherche introuvable.</span>',
-    res_one_item   : '', // [CNT] RESULT
-    res_more_items : '', // [CNT] RESULTS
-    res_out_top    : '', // <ul>
-    res_out_bottom : '', // </ul>
-    res_item_tpl   : '<a class="dropdown-item" href="[URL]" title="[TITLECAPT]">[TITLE]</a>',
-    add_searchlink : ''
-  }
+<script type="module" async crossorigin>
+  import { create, search, insertBatch } from 'https://cdn.jsdelivr.net/npm/@lyrasearch/lyra@0.4.12/dist/index.js';
+  import { stemmer } from 'https://cdn.jsdelivr.net/npm/@lyrasearch/lyra@0.4.12/dist/stemmer/fr.min.js';
 
-  // Translation of section name (optional)
-  let section_trans = {
-    // "post" : "Blog",
-    // "other-section" : "Other Section"
-  }
+  const indexResponse = await fetch('/index.json')
+  const index = await indexResponse.json();
 
-  let searchfield_weight = {
-    "title"   : 5,
-    "tags"    : 1,
-    "content" : 2
+  const searchEngine = await create({
+    schema: {
+      date: 'string',
+      uri: 'string',
+      title: 'string',
+      synonyms: 'string',
+      content: 'string',
+      tags: 'string',
+      section: 'string',
+      annees: 'string',
+      sources: 'string'
+    },
+    defaultLanguage: 'french',
+    components: {
+      tokenizer: {
+        stemmingFn: stemmer
+      }
+    }
+  });
+  await insertBatch(searchEngine, index);
+
+  const searchResults = document.getElementById('search-results');
+
+  const searchInput = document.getElementById('search-input');
+  searchInput.addEventListener('keyup', query);
+
+  async function query() {
+    searchResults.innerHTML = (await search(searchEngine, {term: searchInput.value, properties: '*', boost: { title: 3, synonyms: 2 } }))
+      .hits
+      .map(i => `<a href="${i.document.uri}" class="list-group-item list-group-item-action">${i.document.title}</a>`)
+      .join('')
   }
 </script>
-
-{{ $searchjs := resources.Get "js/search.js" | minify | fingerprint "sha384" }}
-<script src="{{ $searchjs.Permalink }}" integrity="{{ $searchjs.Data.Integrity }}" async fetchpriority="low"></script>
 <script>
   document.addEventListener( 'DOMContentLoaded', event => {
   // When DOM is ready
@@ -221,6 +221,9 @@ document.addEventListener( 'DOMContentLoaded', event => {
   {{ end }}
 
   $(function() {
+    $('#modal-search').on('shown.bs.modal', function () {
+      $(this).find('[autofocus]').focus();
+    })
     $('[data-toggle="tooltip"]').tooltip({
       container: 'body',
       html: true,

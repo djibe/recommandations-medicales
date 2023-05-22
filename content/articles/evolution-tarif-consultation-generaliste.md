@@ -8,6 +8,7 @@ date = "2022-01-23T14:00:00+02:00"
 publishdate = "2022-01-27"
 lastmod = "2023-02-17"
 specialites = []
+annees = "2023"
 sources = ["CNAM", "CARMF", "Insee"]
 tags = []
 chart = true

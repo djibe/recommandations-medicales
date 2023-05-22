@@ -8,6 +8,7 @@ date = "2021-08-15T19:54:00+02:00"
 publishdate = "2021-08-18"
 lastmod = "2023-04-14"
 specialites = []
+annees = "2023"
 sources = ["SPF"]
 tags = ["cancer"]
 chart = true

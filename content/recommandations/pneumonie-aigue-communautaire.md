@@ -295,7 +295,7 @@ En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-p
 | <b>Pneumocoque</b>                | Amoxicilline<br>Allergie: pristina ou lévoflo<br>48h: pristina, lévoflo<br>ou amox + macrolide |Amoxicilline<br>48h: Macrolide, lévofloxacine,<br>pristinamycine,<br>ou télithromycine                                         | Amoxicilline<br>Alternative: pristinamycine<br>48h: Macrolide |
 | <b>Intracellulaire</b>            | Macrolide<br>48h: amoxicilline, pristina,<br>lévoflo ou moxiflo | Macrolide<br>48h: Amoxicilline, lévofloxacine,<br> pristinamycine<br>ou télithromycine                                         | Macrolide<br>Alternative: pristinamycine<br>48h: Amoxicilline |
 | <b>Doute pneumocoque-atypique</b> | Amoxicilline ou<br>pristinamycine<br>48h: Hospitalisation | Amoxicilline ou pristina/télithro<br>48h: lévofloxacine,<br>pristinamycine,<br>ou télithromycine<br>Hosp. si pristina/télithro |                                                               |
-| <b>Sujet âgé, comorbidités<b>     | Augmentin<br>48h ou allergie: ceftriaxone IM,<br>lévoflo ou moxiflo | Augmentin, lévofloxacine<br>ou ceftrianexo IM<br>48h: hospitalisation                                                          | Idem<br>48h: hospitalisation (CMIT: ajout macrolide)          |
+| <b>Sujet âgé, comorbidités</b>     | Augmentin<br>48h ou allergie: ceftriaxone IM,<br>lévoflo ou moxiflo | Augmentin, lévofloxacine<br>ou ceftrianexo IM<br>48h: hospitalisation                                                          | Idem<br>48h: hospitalisation (CMIT: ajout macrolide)          |
 {{< /table >}}
 
 {{% /collapse %}}

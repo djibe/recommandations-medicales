@@ -6,6 +6,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-14T16:20:00+02:00"
 publishdate = "2023-01-16"
 lastmod = "2023-05-19"
+annees = "2023"
 sources = ["Colleges"]
 tags = []
 image = true

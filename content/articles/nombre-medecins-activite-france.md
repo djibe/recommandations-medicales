@@ -7,6 +7,7 @@ date = "2023-04-09T20:06:00+02:00"
 publishdate = "2023-04-28"
 lastmod = "2023-04-28"
 specialites = []
+annees = "2022"
 sources = ["CNOM"]
 tags = []
 image = true

@@ -7,6 +7,7 @@ date = "2022-11-15T16:02:00+02:00"
 publishdate = "2022-11-17"
 lastmod = "2023-01-23"
 specialites = []
+annees = "2022"
 sources = []
 tags = []
 image = true

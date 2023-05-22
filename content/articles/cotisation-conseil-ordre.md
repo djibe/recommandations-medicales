@@ -7,6 +7,7 @@ date = "2021-12-09T08:59:00+02:00"
 publishdate = "2022-01-18"
 lastmod = "2023-02-17"
 specialites = []
+annees = "2023"
 sources = ["CNOM"]
 tags = []
 chart = true

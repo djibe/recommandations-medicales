@@ -7,6 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-05T12:18:00+02:00"
 publishdate = "2022-12-08"
 lastmod = "2023-05-20"
+annees = "2023"
 sources = ["CNOM"]
 tags = []
 image = true

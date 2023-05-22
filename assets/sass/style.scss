@@ -67,6 +67,7 @@ h1 {
   background-image: linear-gradient(to right, #4100f5, #2337fc, #0050ff, #0064ff, #0076ff, #0087ff, #0096ff, #00a4ff, #00b3f8, #00bee2, #00c5c1, #00c99c);
   background-size: 100%;
   background-clip: text;
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -222,6 +223,39 @@ mark {
   }
 }
 
+#modal-search {
+  .modal-dialog {
+    margin-top: 20vh;
+  }
+}
+
+.form-search {
+  background-color: rgba(65,0,245,.1);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='24px' viewBox='0 0 24 24' width='24px' fill='%234100f5'%3E%3Cpath d='M0 0h24v24H0z' fill='none'/%3E%3Cpath d='M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z'/%3E%3C/svg%3E");
+  background-position: 1rem center;
+  background-repeat: no-repeat;
+  background-size: 1.5rem 1.5rem;
+  border-radius: 28px;
+  border-width: 0 0 1px;
+  color: rgba(0,0,0,.87);
+  font-size: 1.125rem;
+  letter-spacing: .009375em;
+  line-height: 1.5;
+  outline-color: var(--primary);
+  padding: 1rem 1rem 1rem 3.5rem;
+  transition: background-color .15s cubic-bezier(.4,0,.2,1);
+  width: 100%;
+}
+
+#search-results {
+  padding-top: .5rem;
+  padding-bottom: 1.5rem;
+
+  &:empty {
+    padding: 0;
+  }
+}
+
 .gallery {
   display: grid;
   grid-template-rows: repeat(auto-fill, 240px);
@@ -310,6 +344,10 @@ a[data-toggle="modal"]:not(.no-icon)::after {
 
 .svg-primary {
   filter: invert(46%) sepia(95%) saturate(6840%) hue-rotate(234deg) brightness(99%) contrast(94%);
+}
+
+.rounded-xxl {
+  border-radius: 28px !important;
 }
 
 .grid-list {

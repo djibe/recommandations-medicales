@@ -8,6 +8,7 @@ date = "2022-12-16T12:20:00+02:00"
 publishdate = "2023-01-26"
 lastmod = "2023-03-27"
 specialites = []
+annees = "2023"
 sources = ["CNOM"]
 tags = []
 geochart = true

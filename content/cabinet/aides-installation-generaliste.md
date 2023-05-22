@@ -6,6 +6,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-17T20:00:00+02:00"
 publishdate = "2021-11-22"
 lastmod = "2022-04-07"
+annees = "2022"
 sources = ["PAPS", "Ameli Pro", "ARS"]
 tags = []
 image = true
