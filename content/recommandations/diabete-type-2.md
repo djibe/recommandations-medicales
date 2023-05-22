@@ -344,6 +344,7 @@ Bilan à jeun pendant 8 heures:
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | ADA 2023, SFD 2016       |
 | Score calcique | {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± EE | SFD 2021 CAD |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
+| [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) | Étayer si: syndrome plurimétabolique, déséquilibré sans cause évidente, symptômes         | PNDS Cushing 2022        |
 | [Vaccins]({{< relref "vaccination.md" >}}) | Covid-19, [grippe]({{< relref "grippe.md" >}}), {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
 | Vitamine B12 | Si metformine: dosage après 4 ans de traitement                                                  | KDIGO 2022 diabetes      |
 {{< /table >}}

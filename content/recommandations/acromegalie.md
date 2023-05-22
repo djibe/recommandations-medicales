@@ -6,17 +6,16 @@ synonyms = ["Tumeur hypophysaire somatotrope"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-16T11:43:00+02:00"
 publishdate = "2022-05-16"
-lastmod = "2022-05-16"
+lastmod = "2023-05-22"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["Pituitary", "HAS"]
-tags = ["cephalees"]
+tags = ["cephalees", "risque cardiovasculaire", "sueurs nocturnes"]
 anglais = ["Acromegaly"]
 sctid = "74107003"
 icd10 = "E22.0"
 image = true
 imageSrc = "Acromégale avec nez élargi et épaissi, pommettes saillantes, front bombé, lèvres épaisses et accentuations des lignes du visage. Photo de Philippe Chanson et Sylvie Salenave, CC BY 2.0, via Wikimedia Commons"
-todo = "college"
 +++
 
 {{%article-summary%}}
@@ -47,7 +46,7 @@ Le diagnostic est souvent retardé (~5 ans) devant l'installation progressive de
 Adresser au [centre de compétence ou de référence HYPO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/carte/document/) en cas de suspicion d'acromégalie:
 
 - Antécédents familiaux d'acromégalie
-- Syndrome dysmorphique
+- **Syndrome dysmorphique**
   - Augmentation de taille des mains et pieds (bagues, chaussures)
   - Faciès caractéristique  
     Prognathisme, nez épaissi, épaississement des rides, macroglossie.
@@ -58,12 +57,13 @@ Adresser au [centre de compétence ou de référence HYPO](http://www.firendo.fr
   - Céphalées
   - Troubles visuels
 - Signes généraux
-  - Sueurs
+  - Fatigue, syndrome dépressif
+  - [Sueurs](/tags/sueurs-nocturnes/) (nocturnes malodorantes)
   - Paresthésies des mains avec [syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}})
   - Arthralgies
 - Complications de la maladie
   - Ostéo-articulaires: arthropathies, fractures vertébrales
-  - Cardiovasculaires: [hypertension]({{< relref "hypertension-arterielle.md" >}}) (30%), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
+  - Cardiovasculaires: [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) (30%), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
   - Pneumologique: [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) (47-87%)
   - Dentaires avec déchaussements
   - Métaboliques avec prédiabète ou [diabète]({{< relref "diabete-type-2.md" >}}) (20-35%)
@@ -121,6 +121,7 @@ Attendre un an de traitement avant toute prise en charge maxillo-faciale.
 
 - [HAS, Centre de référence des maladies rares de l'hypophyse. Acromégalie. Protocole National de Diagnostic et de Soins. 2021.](https://www.has-sante.fr/jcms/p_3292767/fr/acromegalie)
 - [Fleseriu M et al. A Pituitary Society update to acromegaly management guidelines. Pituitary. 2021.](https://link.springer.com/article/10.1007/s11102-020-01091-7)
+- {{< references/college-endocrino >}}
 - [HAS. Dépistage et prévention du cancer colorectal. Juin 2013.](https://www.has-sante.fr/jcms/c_1623732/fr/depistage-et-prevention-du-cancer-colorectal)
 - [Orphanet. Acromégalie.](https://www.orpha.net/consor/cgi-bin/Disease_Search.php?lng=FR&data_id=408&Disease_Disease_Search_diseaseGroup=Acromegalie&Disease_Disease_Search_diseaseType=Pat&Maladie(s)/groupes%20de%20maladies=Acromegalie&title=Acrom%E9galie&search=Disease_Search_Simple)
 

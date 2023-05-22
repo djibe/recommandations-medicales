@@ -10,7 +10,7 @@ lastmod = "2022-07-14"
 specialites = ["urologie"]
 annees = "2018"
 sources = ["AIUS"]
-tags = ["risque cardiovasculaire"]
+tags = ["risque cardiovasculaire", "SAS"]
 anglais = ["Erectile dysfunction"]
 sctid = "860914002"
 icd10 = "F52.2"
@@ -190,9 +190,11 @@ Examen clinique annuel en cas de dysfonction érectile avec:
 - Cardiovasculaire  
   - Pression artérielle, pouls périphériques, souffles vasculaires
   - Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ou {{< scores/heartscore >}} en prévention primaire
-  - {{< modal-btn modal-saos >}}Apnées du sommeil{{< /modal-btn >}}
+  - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - Neurologique  
   Centré sur les réflexes, sensibilité des pieds, anesthésie en selle et des membres inférieurs, hypotension orthostatique.
+
+Rechercher des signes de [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) (graisses faciotronculaires, fragilité cutanée, vergetures ...).
 
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}

@@ -57,7 +57,7 @@ Autres causes d'hyperphagie secondaire d'origine organique:
 - Épilepsie partielle
 - Syndrome démentiel
 - Endocrinopathie  
-  Hyperthyroïdie, Cushing.
+  Hyperthyroïdie, [Cushing]({{< relref "syndrome-cushing.md" >}}).
 - Syndrome de Kleine-Levin  
   Adolescent avec crises d'hyperphagie, hypersomnie et troubles du comportement sexuel.
 - Autres troubles psychiatriques  

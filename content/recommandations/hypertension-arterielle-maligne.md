@@ -96,7 +96,7 @@ Principalement essentielle (20-30% chez blancs et 80% chez noirs).
   - Péri-artérite noueuse
 - Endocrinienne
   - Syndrome de Conn
-  - Syndrome de Cushing
+  - [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}})
 - Médicamenteuse et toxique
   - Cocaïne
   - Arrêt de la prise de clonidine
@@ -107,7 +107,7 @@ Tumeurs
   - Cancer du rein
   - Tumeur de Wilms
   - Lymphome
-- Co-arctation de l'aorte
+- Coarctation de l'aorte
 - Éclampsie et pré-éclampsie
 
 {{% /collapse %}}

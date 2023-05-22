@@ -129,8 +129,9 @@ Rechercher les facteurs de risque de fracture chez l'homme +70 ans:
 
 - Poids, taille et variations par rapport à 20 ans, IMC
 - État bucco-dentaire
-- Si ≥ 1 réponse au dépistage des chutes, examen pour Rechercher un risque de chute si ≥ 1 parmi:  
+- Si ≥ 1 réponse au dépistage des chutes, examen pour rechercher un risque de chute si ≥ 1 parmi:  
   Appui monopodal < 5s, marche (> 5s pour 4 m), < 5 levés de chaise sans les mains en 15s.
+- Avant 50 ans: rechercher un [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) (*PNDS Cushing 2022*)
 
 #### Rappel des drapeaux rouges de la lombalgie
 

@@ -12,7 +12,7 @@ lastmod = "2023-05-16"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "ESH"]
-tags = ["cephalees", "demence", "depistage", "epreuve effort", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "vertige"]
+tags = ["cephalees", "demence", "depistage", "epreuve effort", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "SAS", "vertige"]
 anglais = ["Hypertension disorder", "high blood pressure"]
 sctid = "38341003"
 icd10 = "I10"
@@ -300,11 +300,13 @@ Détail pour chaque pathologie sur la page du chapitre concerné.
 
 - Poids, taille, IMC, tour de taille
 - Comparaison de la pression artérielle aux 2 bras
-- Examen neurologique et cognitif (MMSE)
+- +65 ans: examen neurologique et cognitif (MMSE)
 - Palpation et auscultation des trajets artériels
-- Tâches café au lait
-- Contact lombaire
-- Signes d'[acromégalie]({{< relref "acromegalie.md" >}}) ou dysthyroïdie
+- Signes d'hypertension secondaire
+  - Tâches café au lait
+  - Contact lombaire
+  - Avant 40 ans ou HTA résistante: syndrome de Cushing
+- Signes d'[acromégalie]({{< relref "acromegalie.md" >}}) ou [dysthyroïdie](/tags/tsh/)
 
 ### Bilan initial de l'hypertension artérielle
 

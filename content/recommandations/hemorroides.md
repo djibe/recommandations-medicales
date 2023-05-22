@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-08T18:23:04+02:00"
 publishdate = "2023-05-11"
-lastmod = "2023-05-12"
+lastmod = "2023-05-22"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
 sources = ["ESCP", "SNFGE", "SNFCP", "ASCRS"]
@@ -120,6 +120,7 @@ L'objectif de la prise en charge médicale des hémorroïdes est de soulager les
 - Bains de siège
 - Glaçage (ex petits pois congelés)
 - Topiques environ 7 jours
+  - Prescrire®: lubrifiant type vaseline
   - Corticoïdes ± anesthésiques  
     Spécialités (NR): Deliproct®, Rectoquotane®, Sédorrhoïde crise hémorroïdaire®, Titanoréïne crème®, Titanoréïne lidocaïne 2%®, Tronothane 1%®, Ultraproct®.
   - Carraghénates NR ([Titanoréïne crème®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63802533&typedoc=R), Titanoréïne lidocaïne 2%®)
@@ -162,6 +163,7 @@ En cas d'échec une chirurgie hémorroïdaire par hémorroïdectomie pédiculair
 
 - [van Tol R et al. European Society of ColoProctology: guideline for haemorrhoidal disease. Colorectal Dis. 2020. (payant)](https://onlinelibrary.wiley.com/doi/abs/10.1111/codi.14975)
 - Siproudhis L, Higuero T. Traitements de la maladie hémorroïdaire. Conseil de pratique. SNFGE, SNFCP. 2020.
+- Prescrire Redaction. Hémorroïdes. Premiers Choix Prescrire. Rev Prescrire. 2020.
 - [Davis BR et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Hemorrhoids. Dis Colon Rectum. 2018.](https://journals.lww.com/dcrjournal/Fulltext/2018/03000/The_American_Society_of_Colon_and_Rectal_Surgeons.7.aspx)
 - [Higuero T et al. Recommandations pour la pratique clinique du traitement de la maladie hémorroïdaire (version courte). SNFCP. 2013. (PDF)](https://www.snfcp.org/wp-content/uploads/2017/Recommandations/RPC-MALADIE-HEMORROIDAIRE.pdf)
 - [SNFCP. Les hémorroïdes](https://www.snfcp.org/informations-maladies/hemorroides/les-hemorroides/)

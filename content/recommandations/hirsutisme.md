@@ -69,7 +69,7 @@ Les causes de l'hirsutisme sont endocriniennes (+80%), gynécologiques et idiopa
   - **Syndrome des ovaires polykystiques** (**SOPK**). Première cause (70-80%).  
     Défini par la présence ≥ 2 critères: hyperandrogénie chronique non expliquée autrement, oligoovulation, aspect échographique d'ovaires polykystiques.
 - Hirsutisme sans hyperandrogénie
-  - Syndrome de Cushing
+  - [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}})
   - [Acromégalie]({{< relref "acromegalie.md" >}})
   - Hyperprolactinémie
   - Syndrome sévère de résistance à l'insuline
@@ -96,7 +96,7 @@ Le diagnostic d'hirsutisme est clinique.
 - Hypercorticisme  
   Obésité centrale, acanthosis nigricans.
 - Signes de **virilisme** (cause tumorale ovarienne ou surrénalienne)  
-  Accroissement rapide de la pilosité, hypertrophie musculaire et clitoridienne, raucité de la voix, calvitie, troubles menstruels récents.
+  {{< clinique/virilisme >}}.
 - Hyperplasie congénitale des surrénales  
   Accroissement progressif de la pilosité, premières règles tardives chez une petite femme, virilisme, troubles menstruels
 - Signes d'[acromégalie]({{< relref "acromegalie.md" >}})

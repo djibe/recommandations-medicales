@@ -168,6 +168,8 @@ Après échographie normale ou non concluante et absence d'accès à l'IRM: scan
 > << L'antibiothérapie seule n'est pas recommandée en première intention dans l'appendicite aiguë non compliquée et le traitement chirurgical reste la prise en charge de référence >> (*SFCD 2021*)
 {.alert .alert-info}
 
+[Information des parents mpedia](https://www.mpedia.fr/art-appendicite/?sr=895).
+
 ### Traitement chirurgical par appendicectomie
 
 La chirurgie est le traitement de référence de l'appendicite aiguë non compliquée (par cœlioscopie ou laparotomie, même chez la femme enceinte).  
@@ -193,7 +195,7 @@ Antibiothérapie type amoxicilline + a. clavulanique (Augmentin) ou fluoroquinol
 - [Collard M.K. et al. Appendicite de l'adulte : recommandations pour la pratique clinique de la Société française de chirurgie digestive (SFCD) et de la Société d'imagerie abdominale et digestive (SIAD). Journal de Chirurgie Viscérale. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S1878786X20304447)
 - Collège Français de Chirurgie Générale, Viscérale et Digestive. Appendicite de l'enfant et de l'adulte. Item 351 - UE11. Chirurgie générale, viscérale et digestive. 2e édition.
 - {{< references/college-gastro >}}
-- Prescrire Redaction. Signes d'appendicite chez les enfants. Prescrire. 2021.
+- Prescrire Redaction. Signes d'appendicite chez les enfants. Rev Prescrire. 2021.
 - [Ameli. L'appendicite aiguë : symptômes, diagnostic et évolution. 06/12/2021.](https://www.ameli.fr/assure/sante/themes/appendicite-aigue/symptomes-diagnostic-evolution)
 - {{< references/spilf-2020 >}}
 - [HAS. Appendicectomie. Évaluation des technologies de santé. 2012.](https://www.has-sante.fr/jcms/c_1218019/fr/appendicectomie-elements-decisionnels-pour-une-indication-pertinente-rapport-d-evaluation)

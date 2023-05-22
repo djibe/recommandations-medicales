@@ -147,7 +147,8 @@ Prise en charge de l'angine:
 - La persistance de fièvre, dysphagie après 3 jours doit faire évoquer une infection intercurrente.
 - Scarlatine: traitement et éviction identiques
 - Diphtérie: [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
-- Réévaluation après 3 jours di persistance des symptômes (fièvre, dysphagie)
+- Réévaluation après 3 jours si persistance des symptômes (fièvre, dysphagie)
+- Information des parents: [mpedia](https://www.mpedia.fr/art-angine/?sr=895)
 
 ### Angine érythémateuse ou érythématopultacée et antibiothérapie
 

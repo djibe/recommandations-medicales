@@ -196,7 +196,9 @@ Recommandations pour la prise en charge de la varicelle:
     10-40 kg: 1,25 mg/5 kg/j en 1 ou 2 prises par jour  
     Comprimés au-delà.
   - Hydroxyzine ≥ 3 ans: sirop 1 mg/kg/j
-- Compléter le **Carnet de santé** en notifiant la varicelle à la page *Statut clinique ou immunitaire pour les maladies à prévention vaccinale*
+- Compléter le **Carnet de santé**  
+  Notifier la varicelle à la page *Statut clinique ou immunitaire pour les maladies à prévention vaccinale*.
+- Information des parents: [mpedia](https://www.mpedia.fr/art-varicelle/?sr=895)
 
 **NB.** Aucun autre produit (talc, pommade, gel) ne doit être appliqué
 

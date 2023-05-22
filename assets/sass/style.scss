@@ -51,13 +51,23 @@ h2,
 }
 
 h1 {
-  font-size: calc(1.375rem + 1.5vw);
+  font-size: calc(1.5rem + 1.5vw);
   font-weight: 400;
   &.site-title {
     // color: var(--secondary);
     font-family: 'Roboto', system-ui;
-    font-size: calc(1.375rem + 1vw);
+    font-size: calc(2rem + 1.15vw);
+    font-weight: 700;
   }
+}
+
+.gradient-text {
+  background-color: #4150f5;
+  // background-image: linear-gradient(45deg, #4150f5, #00c99c);
+  background-image: linear-gradient(to right, #4100f5, #2337fc, #0050ff, #0064ff, #0076ff, #0087ff, #0096ff, #00a4ff, #00b3f8, #00bee2, #00c5c1, #00c99c);
+  background-size: 100%;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 h2 {
