@@ -224,8 +224,14 @@ mark {
 }
 
 #modal-search {
-  .modal-dialog {
-    margin-top: 20vh;
+  .modal-content {
+    border-radius: 28px;
+  }
+
+  @media (min-width: 1200px) {
+    .modal-dialog {
+      margin-top: 20vh;
+    }
   }
 }
 
