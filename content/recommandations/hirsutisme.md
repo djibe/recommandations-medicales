@@ -124,9 +124,11 @@ Le seuil thérapeutique dépend des origines (voir traitement):
 
 ### Rechercher des signes d'hyperandrogénie
 
-{{< clinique/hyperandrogenie >}}
+Autres signes d'hyperandrogénie: {{< clinique/hyperandrogenie >}}.
 
-Adresser à l'endocrinologue en cas de signes d'hyperandrogénie.
+Voire un virilisme: {{< clinique/virilisme >}}.
+
+Adresser à l'endocrinologue en cas de signes d'hyperandrogénie ou de virilisation.
 
 {{%/collapse %}}
 {{%collapse "Examens complémentaires" %}}
