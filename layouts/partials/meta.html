@@ -188,7 +188,7 @@
     window.addEventListener('load', () => {
       navigator.serviceWorker
         .register('/sw.js')
-        .catch(err => console.log(`Service worker registration failed: ${error}`))
+        .catch(error => console.log(`Service worker registration failed: ${error}`))
     });
   }
 </script>

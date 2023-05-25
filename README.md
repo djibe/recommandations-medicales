@@ -93,7 +93,7 @@ Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans
   3. puis `choco upgrade hugo-extended -y`
   4. puis placer la *Commande* dans le dossier `/recommandations-medicales`
   5. puis `npm install`
-  6. puis `npm run server`, le site est accessible sur `http://localhost:1313/`
+  6. puis `npm run start:dev`, le site est accessible sur `http://localhost:1313/`
 
 </details>
 
@@ -112,7 +112,7 @@ Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans
   8. `git clone https://github.com/djibe/recommandations-medicales.git`
   9. `cd recommandations-medicales`
   10. puis `npm install`
-  11. puis `npm run server`, le site est accessible sur `http://localhost:1313/`
+  11. puis `npm run start:dev`, le site est accessible sur `http://localhost:1313/`
 
 </details>
 

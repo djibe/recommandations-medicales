@@ -1,7 +1,7 @@
 {
   "name": "univ-medicale",
-  "version": "0.5.0",
-  "description": "Site communautaire des recommandations en premier recours en médecine générale",
+  "version": "0.6.0",
+  "description": "Dernières recommandations médicales adaptées à la pratique de la médecine générale",
   "scripts": {
     "recommandations:new": "hugo new recommandations/article.md",
     "css:compile": "node-sass --output-style expanded --precision 6 assets/sass/_material-custom.scss assets/css/material.css",
@@ -17,8 +17,8 @@
     "hugo:update": "choco upgrade hugo-extended -y",
     "links-md:check": "linkinator content/**/*.md --config ./build/linkinator.config.json 2> debug-linkinator.log",
     "links-external:check": "linkinator public/recommandations/**/*.html --config ./build/linkinator-html.config.json 2> debug-linkinator-html.log",
-    "server": "hugo server --buildDrafts --watch --destination dev --verbose --cleanDestinationDir -p 1313",
     "start": "hugo --environment production --cleanDestinationDir --gc --minify",
+    "start:dev": "hugo server --buildDrafts --watch --destination dev --verbose --cleanDestinationDir -p 1313",
     "webhint": "hint http://localhost:1313"
   },
   "keywords": [
