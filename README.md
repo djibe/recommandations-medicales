@@ -88,12 +88,17 @@ Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans
 <details>
   <summary>Sous Windows</summary>
 
-  1. Télécharger [Git](https://git-scm.com/downloads) (installez avec les options par défaut) et [NodeJS](https://nodejs.org/download/release/v16.15.1/) (à l'installation de NodeJS, cochez "Automatically install the necessary tools. Note this will also install Chocolatery", on en a besoin)
-  2. Sur votre PC, dans le dossier où vous voulez placer le projet, ouvrir une Invite de Commande en mode administrateur et tapez `git clone https://github.com/djibe/recommandations-medicales.git`
-  3. puis `choco upgrade hugo-extended -y`
-  4. puis placer la *Commande* dans le dossier `/recommandations-medicales`
-  5. puis `npm install`
-  6. puis `npm run start:dev`, le site est accessible sur `http://localhost:1313/`
+  1. Sur le PC, aller dans le dossier (au choix) où placer le projet et lancer Powershell ou le Terminal de Windows en mode administrateur (clic droit dans le dossier sous Windows 11)
+  2. Entrer les commandes suivantes: `Set-ExecutionPolicy Bypass -Scope Process -Force; iwr https://community.chocolatey.org/install.ps1 -UseBasicParsing | iex`
+  3. Fermer la commande et la relancer
+  4. `choco install git -y`
+  5. `choco install nodejs-lts --version=14.21.3 -y`
+  6. `choco install hugo-extended -y`
+  7. Fermer la commande et la relancer
+  8. `git clone https://github.com/djibe/recommandations-medicales.git`
+  9. puis placer la *Commande* dans le dossier `/recommandations-medicales`
+  10. puis `npm install`
+  11. puis `npm run start:dev`, le site est accessible sur `http://localhost:1313/`
 
 </details>
 
