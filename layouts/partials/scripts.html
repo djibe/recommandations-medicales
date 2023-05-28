@@ -15,7 +15,7 @@
 </script>
 
 {{- with .Params.chart }}
-<script type="module">
+<script type="module" crossorigin>
 import ApexCharts from 'https://cdn.jsdelivr.net/npm/apexcharts@3.40/+esm'
 document.addEventListener( 'DOMContentLoaded', event => {
   Apex = {
@@ -117,7 +117,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 
 {{- with .Params.flowchart }}
-<script type="module" async>
+<script type="module" async crossorigin>
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.2/+esm';
   const MermaidConfig = {
     // logLevel: 1, // debug
@@ -145,7 +145,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 
 {{- with .Params.geochart }}
-<script src="https://www.gstatic.com/charts/loader.js" defer></script>
+<script src="https://www.gstatic.com/charts/loader.js" defer crossorigin></script>
 <script>
   window.addEventListener('load', () => {
     google.charts.load('current', {'packages':['geochart']})
@@ -156,7 +156,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 
 {{- with .Params.slider }}
-<script src="https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js" crossorigin defer></script>
+<script src="https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js" defer crossorigin></script>
 <script>
   window.addEventListener('load', () => $('.slider-default').ionRangeSlider())
 </script>
@@ -171,45 +171,10 @@ document.addEventListener( 'DOMContentLoaded', event => {
   {{ partial "datatable" . }}
 {{- end -}}
 
-<script type="module" async crossorigin>
-  import { create, search, insertBatch } from 'https://cdn.jsdelivr.net/npm/@lyrasearch/lyra@0.4.12/dist/index.js';
-  import { stemmer } from 'https://cdn.jsdelivr.net/npm/@lyrasearch/lyra@0.4.12/dist/stemmer/fr.min.js';
-
-  const indexResponse = await fetch('/index.json')
-  const index = await indexResponse.json();
-
-  const searchEngine = await create({
-    schema: {
-      date: 'string',
-      uri: 'string',
-      title: 'string',
-      synonyms: 'string',
-      content: 'string',
-      tags: 'string',
-      section: 'string',
-      annees: 'string',
-      sources: 'string'
-    },
-    defaultLanguage: 'french',
-    components: {
-      tokenizer: {
-        stemmingFn: stemmer
-      }
-    }
-  });
-  await insertBatch(searchEngine, index);
-
-  const searchResults = document.getElementById('search-results');
-
-  const searchInput = document.getElementById('search-input');
-  searchInput.addEventListener('keyup', query);
-
-  async function query() {
-    searchResults.innerHTML = (await search(searchEngine, {term: searchInput.value, properties: '*', boost: { title: 3, synonyms: 2 } }))
-      .hits
-      .map(i => `<a href="${i.document.uri}" class="list-group-item list-group-item-action">${i.document.title}</a>`)
-      .join('')
-  }
+<script async crossorigin>
+  document.addEventListener( 'DOMContentLoaded', event => {
+    document.getElementById('btn-search-modal').addEventListener("click", () => import("./lyra.mjs"))
+  })
 </script>
 <script>
   document.addEventListener( 'DOMContentLoaded', event => {
