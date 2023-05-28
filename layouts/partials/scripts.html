@@ -172,8 +172,8 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 
 <script async crossorigin>
-  document.addEventListener( 'DOMContentLoaded', event => {
-    document.getElementById('btn-search-modal').addEventListener("click", () => import("./lyra.mjs"))
+  document.addEventListener( 'DOMContentLoaded', event => { 
+    document.getElementById('btn-search-modal').addEventListener('click', () => import('/lyra.mjs') )
   })
 </script>
 <script>

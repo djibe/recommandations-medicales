@@ -4,7 +4,7 @@
 // Both: cache a fresh version if possible.
 // (beware: the cache will grow and grow; there's no cleanup)
 
-const cacheName = 'v2';
+const cacheName = 'v3';
 
 // Cache visited pages
 self.addEventListener('fetch',  fetchEvent => {
