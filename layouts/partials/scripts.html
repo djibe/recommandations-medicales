@@ -2,17 +2,6 @@
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin defer></script>
 <script src="{{ .Site.Params.cdn.material_js}}" {{ printf "integrity=%q" .Site.Params.cdn.material_js_hash | safeHTMLAttr }} crossorigin defer></script>
 <script src="https://cdn.jsdelivr.net/npm/instant.page@5.1.1/instantpage.min.js" crossorigin defer async></script>
-<script crossorigin>
-  // Newsletter: Mailchimp
-  const btnNewsletter = document.getElementById('btn-newsletter');
-
-  btnNewsletter.addEventListener( 'click', () => {
-    const script = document.createElement('script');
-    script.src = 'https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js';
-    document.head.appendChild(script);
-    (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);
-  });
-</script>
 
 {{- with .Params.chart }}
 <script type="module" crossorigin>
@@ -145,7 +134,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 
 {{- with .Params.geochart }}
-<script src="https://www.gstatic.com/charts/loader.js" defer crossorigin></script>
+<script src="https://www.gstatic.com/charts/loader.js" defer async crossorigin></script>
 <script>
   window.addEventListener('load', () => {
     google.charts.load('current', {'packages':['geochart']})
@@ -163,22 +152,25 @@ document.addEventListener( 'DOMContentLoaded', event => {
 
 {{- end -}}
 
-{{- with .Params.paracetamol }}
-{{ partial "outils/paracetamol" . }}
-{{- end -}}
-
 {{- with .Params.datatable }}
   {{ partial "datatable" . }}
 {{- end -}}
 
-<script async crossorigin>
-  document.addEventListener( 'DOMContentLoaded', event => { 
-    document.getElementById('btn-search-modal').addEventListener('click', () => import('/lyra.mjs') )
-  })
-</script>
-<script>
+<script defer crossorigin>
   document.addEventListener( 'DOMContentLoaded', event => {
-  // When DOM is ready
+
+    // Register Lyra search
+    document.getElementById('btn-search-modal').addEventListener('click', () => import('/lyra.mjs'))
+
+    // Newsletter: Mailchimp
+    const btnNewsletter = document.getElementById('btn-newsletter');
+    btnNewsletter.addEventListener( 'click', () => {
+      const script = document.createElement('script');
+      script.src = 'https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js';
+      document.head.appendChild(script);
+      (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);
+  });
+
   {{ with .Site.RegularPages }}
     // Open external sources in new window
       let externalLinks = document.querySelectorAll('a[href^="http"]:not([href*="recomedicales.fr"])')

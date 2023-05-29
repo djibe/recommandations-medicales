@@ -2,7 +2,7 @@
 title = "Infections génitales de l'homme: urétrite et orchiépididymite"
 titleSeo = "Urétrite et orchiépididymite"
 prefix = "les "
-description = "Recommendations pour la prise en charge des infections génitales de l'homme: urétrite et orchiépididymite. PCR, ECBU, antibiothérapie ceftriaxone et doxycycline"
+description = "Recommandations pour la prise en charge des infections génitales de l'homme: urétrite et orchiépididymite. PCR, ECBU, antibiothérapie ceftriaxone et doxycycline"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-17T11:25:20+01:00"
@@ -255,11 +255,11 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-162-web.pdf)
 - {{< references/spilf-2020 >}}
-- [Gerhardt P et al; Société Française de Dermatologie (SFD). Urétrite masculine. Recommendations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/uretrite-masculine-61ed71f0cf1553f5b94bbb4214d5905e.pdf)
-- [Janier M et al; Société Française de Dermatologie (SFD). Orchiépididymite. Recommendations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/orchiepididymite-e11608a96bbf138a1ce4045e283aa71a.pdf)
+- [Gerhardt P et al; Société Française de Dermatologie (SFD). Urétrite masculine. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/uretrite-masculine-61ed71f0cf1553f5b94bbb4214d5905e.pdf)
+- [Janier M et al; Société Française de Dermatologie (SFD). Orchiépididymite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/orchiepididymite-e11608a96bbf138a1ce4045e283aa71a.pdf)
 
 ### À lire
 
-- [Janier M et al; Société Française de Dermatologie (SFD). Balanite. Recommendations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/balanites-f5f2cf585640275406ec42b19340d0c8.pdf)
+- [Janier M et al; Société Française de Dermatologie (SFD). Balanite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/balanites-f5f2cf585640275406ec42b19340d0c8.pdf)
 
 {{%/sources%}}

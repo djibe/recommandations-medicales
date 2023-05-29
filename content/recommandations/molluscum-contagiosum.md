@@ -1,7 +1,7 @@
 +++
 title = "Molluscum contagiosum"
 prefix = "le "
-description = "Recommendations pour la prise en charge des molluscums contagiosums: mesures d'hygiène pour tous, abstention voire curetage ou cryothérapie avec anesthésie"
+description = "Recommandations pour la prise en charge des molluscums contagiosums: mesures d'hygiène pour tous, abstention voire curetage ou cryothérapie avec anesthésie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-02-03T11:27:33+01:00"
@@ -97,6 +97,6 @@ L'électrocoagulation et le laser CO<sub>2</sub> ne sont pas recommandés (*SFD 
 
 - Prescrire Redaction. Molluscum contagiosum. Premiers Choix Prescrire. Rev Prescrire. 2019.
 - [Van der Wouden JC. et al. Interventions for cutaneous molluscum contagiosum. Cochrane Database of Systematic Reviews.2017.](https://www.cochrane.org/fr/CD004767/SKIN_les-traitements-contre-le-molluscum-contagiosum-une-infection-virale-de-la-peau-courante-chez-les)
-- [Chartier C. et al; Société Française de Dermatologie (SFD). M.S.T. MINEURES. Ectoparasitoses externes Molluscums contagiosums. Recommendations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/mst-mineures-ectoparasitoses-externes-molluscums-contagiosums-67dc5f3c424280fc386fcc38f4bf22a0.pdf)
+- [Chartier C. et al; Société Française de Dermatologie (SFD). M.S.T. MINEURES. Ectoparasitoses externes Molluscums contagiosums. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/mst-mineures-ectoparasitoses-externes-molluscums-contagiosums-67dc5f3c424280fc386fcc38f4bf22a0.pdf)
 
 {{%/sources%}}

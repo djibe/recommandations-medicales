@@ -194,7 +194,7 @@ Rechercher une fibromyalgie en cas de douleur chronique.
 
 ### Bilan devant un tableau de fibromyalgie
 
-Bilan général (non précisé dans les recommendations):
+Bilan général (non précisé dans les recommandations):
 
 - NFS, CRP
 - Ionogramme sanguin
