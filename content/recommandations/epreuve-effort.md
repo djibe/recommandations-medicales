@@ -238,8 +238,8 @@ Ex: athlète, pilote de ligne, chauffeur routier ou de bus.
 {.mt-5}
 
 </div>
-<script>
-window.onload = () => {
+<script defer>
+window.addEventListener('load', () => {
   $(function () {
     $('#chip-tout').on('click', function(){
       if ( $(this).prop('checked') ) {
@@ -249,7 +249,7 @@ window.onload = () => {
       }
     })
   })
-}
+})
 </script>
 
 {{%/collapse%}}

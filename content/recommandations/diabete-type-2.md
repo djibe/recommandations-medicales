@@ -281,7 +281,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 </ul>
 </div>
 <script>
-window.onload = () => {
+window.addEventListener('load', () => {
   $(function () {
     const allElems = $('[class*="choix-"]')
     $('[class*="choix-"]:not(.choix-standard)').addClass('d-input-none')
@@ -296,7 +296,7 @@ window.onload = () => {
       }
     });
   });
-}
+})
 </script>
 
 {{% /collapse %}}

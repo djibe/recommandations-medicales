@@ -1,6 +1,6 @@
 {{ $script := `
   // Paracetamol calculator by djibe
-  window.onload = () => {
+  window.addEventListener('load', () => {
   $(function () {
     const Slider = $('#weight');
     const Input = $('#weightInput');
@@ -62,7 +62,7 @@
         str2 = '400 mg toutes les 8 heures';
       }
       return Ibuprofene.html(str2);
-    });
-  });
-  };` }}
-<script>{{ $script | safeJS }}</script>
+    })
+  })
+  })` }}
+<script type="module">{{ $script | safeJS }}</script>

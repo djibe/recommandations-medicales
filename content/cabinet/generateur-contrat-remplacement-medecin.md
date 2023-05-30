@@ -116,7 +116,7 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
 </form>
 <script>
   // Contract generator by djibe
-  window.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', () => {
     const sexMan = document.getElementById('contract-sex-m')
     const sexSubstituteMan = document.getElementById('contract-sex-substitute-m')
     const titleFull = document.getElementsByClassName('contract-title-full')

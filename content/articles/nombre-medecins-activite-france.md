@@ -136,7 +136,7 @@ const chartOptions2 = {
 <script>
   // CNOM 2022 Tableau 16
 const dataSource = [{{< data/generalists-department >}}]
-window.onload = () => {
+window.addEventListener('load', () => {
   $(function () {
     $('#department-variations').DataTable({
       data: dataSource,
@@ -148,5 +148,5 @@ window.onload = () => {
       $('[data-toggle="tooltip"]').tooltip({placement: 'bottom'})
     })
   })
-}
+})
 </script>

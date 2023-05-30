@@ -16,11 +16,11 @@
 </div>
 {{ $script := `
   // Outil de calcul de la variation de poids by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', () => {
     const initial = document.getElementById('poids-initial')
     const final = document.getElementById('poids-actuel')
     const variation = document.getElementById('variation');
     [initial, final].forEach(elem => elem.addEventListener('input', () => { calc() }))
     const calc = () => { if (initial.value > 0 && final.value > 0) { variation.value = parseInt((final.value - initial.value) / initial.value * 100) + ' %' }}
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module" async>{{ $script | safeJS }}</script>

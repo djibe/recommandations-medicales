@@ -26,7 +26,7 @@ todo = "POLY p.170, Prescrire, SPF, protection moustiques BEH, ttt ambulatoire a
 
 - Toute fièvre dans les 3 mois suivant le retour de voyage est un paludisme jusqu'à preuve du contraire
 - Toute suspicion de paludisme est une **urgence** diagnostique et thérapeutique
-- [Maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
+- Le paludisme est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
 - Les séjours en zones d'endémie palustre sont déconseillés en cours de grossesse (*CRAT*)
 - Voyage tropical: protection contre les moustiques et chimioprophylaxie médicamenteuse
 
@@ -192,7 +192,7 @@ La prophylaxie anti-palustre (chimioprophylaxie médicamenteuse) n'élimine pas 
   <p>N'est plus recommandée depuis 2022</p>
 </div>
 <script>
-window.onload = () => {
+window.addEventListener('load', () => {
   $(function () {
     const Slider = $('#weight');
     const Input = $('#weightInput');
@@ -268,9 +268,9 @@ window.onload = () => {
         str4 = '1 cp à 100 mg (si âge ≥ 8 ans)';
       }
       Doxycycline.html(`${str4} ${doxyHtml}`);
-    });
-  });
-};
+    })
+  })
+})
 </script>
 
 Deux vaccins contre le paludisme existent (RTS,S et R21/Matrix-M), dont le premier est recommandé l'OMS pour les enfants du Ghana, Kenya et Malawi (*[OMS](https://www.who.int/news/item/06-10-2021-who-recommends-groundbreaking-malaria-vaccine-for-children-at-risk)*)
