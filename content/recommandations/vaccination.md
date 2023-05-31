@@ -1,6 +1,7 @@
 +++
 title = "Vaccination et calendrier vaccinal"
 prefix = "la "
+titleSeo = "vaccination"
 description = "Recommandations sur les vaccins selon le Calendrier vaccinal 2023. Âge de rattrapage, vaccins selon l'âge, taille d'aiguille et sites d'injection des vaccins"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

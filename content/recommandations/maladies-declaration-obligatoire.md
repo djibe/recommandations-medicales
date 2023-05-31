@@ -1,7 +1,7 @@
 +++
 title = "Maladies à déclaration obligatoire en 2023"
 prefix = "les "
-titleSeo = "Maladies à déclaration obligatoire"
+titleSeo = "Maladies déclaration obligatoire"
 noindex = true
 description = "Liste des 36 maladies à déclaration obligatoire selon l'article D3113-6 du Code de la Santé publique: Hépatite A ou hépatite B symptomatique, VIH ..."
 synonyms = []

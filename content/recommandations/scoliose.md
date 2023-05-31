@@ -1,6 +1,7 @@
 +++
 title = "Scoliose structurale idiopathique"
 prefix = "la "
+titleSeo = "scoliose"
 description = "Recommandations pour la prise en charge d'un scoliose. Dépistage d'une gibbosité avant l'adolescence, radiographies par EOS, kinésithérapie, avis spécialisé"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

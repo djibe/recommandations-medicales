@@ -1,8 +1,8 @@
 +++
-title = "Allocation personnalisée d'autonomie"
+title = "Allocation personnalisée d'autonomie (APA)"
 prefix = "l'"
 noindex = true
-titleSeo = "Allocation personnalisée d'autonomie"
+titleSeo = "Allocation personnalisée autonomie"
 description = "Explications des principes d'attribution de l'Allocation personnalisée d'autonomie. Demande à partir de 60 ans pour bénéficier d'aides à l'autonomie ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

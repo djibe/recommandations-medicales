@@ -2,7 +2,7 @@
 title = "Remboursement de soins effectués à l'étranger"
 prefix = "le "
 noindex = true
-titleSeo = "Remboursement de soins à l'étranger"
+titleSeo = "Remboursement soins à l'étranger"
 description = "Conduite à tenir pour le remboursement de soins médicaux effectués à l'étranger. Carte européenne d'assurance ou envoi des factures depuis l'espace Ameli"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

@@ -1,6 +1,6 @@
 +++
 title = "Nausées et vomissements pendant la grossesse et hyperémèse gravidique"
-titleSeo = "Vomissements de grossesse et hyperémèse gravidique"
+titleSeo = "Vomissements grossesse hyperémèse gravidique"
 prefix = "les "
 description = "Recommandations pour la prise en charge des nausées et vomissements pendant la grossesse et de l'hyperémèse gravidique. Déshydratation, score PUQE, doxylamine"
 synonyms = []

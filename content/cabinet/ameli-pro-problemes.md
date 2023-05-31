@@ -1,7 +1,8 @@
 +++
-title = "AmeliPro : résoudre les problèmes courants (connexion, Cryptolib)"
+title = "Ameli Pro : résoudre les problèmes courants (connexion, Cryptolib)"
 noindex = true
-description = "TODO:"
+titleSeo = "Ameli Pro résoudre les problèmes"
+description = "Outils pour identifier et résoudre les problèmes de connexion au portail Ameli Pro de l'Assurance Maladie"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-11T13:08:00+02:00"
 publishdate = "2023-04-11"

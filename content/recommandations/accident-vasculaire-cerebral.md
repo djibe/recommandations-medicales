@@ -3,6 +3,7 @@ title = "Accident vasculaire cérébral (AVC)"
 prefix = "l'"
 titleSeo = "Accident vasculaire cérébral"
 description = "Dernières recommandations 2022 sur l'AVC pour le médecin généraliste. Prévention secondaire avec aspirine, statine, objectif de LDL, IEC, objectif tensionnel"
+longHtml = true
 synonyms = ["Accident ischémique transitoire (AIT)", "infarctus cérébral", "hémorragie intra-parenchymateuse (HIP)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-25T14:04:00+02:00"

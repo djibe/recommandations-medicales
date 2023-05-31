@@ -7,7 +7,7 @@ synonyms = ["Hypercortisolisme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-17T17:38:18+02:00"
 publishdate = "2023-05-22"
-lastmod = "2023-05-22"
+lastmod = "2023-05-30"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["PNDS"]
@@ -148,7 +148,7 @@ Recommandations pour le bilan de première intention en ambulatoire en cas de su
 - Cortisolurie des 24 heures avec créatininurie (dit cortisol libre urinaire - CLU)  
   Mesures sur plusieurs jours recommandées.
 - Test de freinage minute  
-  Dexaméthasone 1 mg à 23h-minuit et cortisolémie à 8 heures.
+  Dexaméthasone 1 mg cp ([Dectancyl®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62817482&typedoc=R)) à 23h-minuit et cortisolémie à 8 heures.
 - Déterminations du cortisol salivaire à minuit (47€, non remboursé)  
   À 2 reprises sur des jours non consécutifs.
 

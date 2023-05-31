@@ -1,6 +1,6 @@
 +++
 title = "Mycoses: candidoses et dermatophytoses (intertrigo, teigne, vaginite)"
-titleSeo = "Mycoses: Dermatophytes et candidoses"
+titleSeo = "Mycoses: Dermatophytes candidoses"
 prefix = "les "
 description = "Recommandations pour la prise en charge des mycoses: intertrigo, teigne, candidose vaginale, buccale, herpès circiné, balanite. Antifongiques azolés topiques"
 longHtml = true

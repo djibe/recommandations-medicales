@@ -1,7 +1,7 @@
 +++
 title = "Insuffisance ovarienne prématurée (ex ménopause précoce)"
 prefix = "l'"
-titleSeo = "Insuffisance ovarienne ou Ménopause précoce"
+titleSeo = "Insuffisance ovarienne Ménopause précoce"
 description = "Recommandations, conduite à tenir et prise en charge d'une ménopause précoce. Aménorrhée avant 40 ans, bilan FSH haut et estradiol bas, traitement hormonal THS"
 synonyms = ["Insuffisance ovarienne précoce", "ménopause prématurée"]
 auteurs = ["Jean-Baptiste FRON"]

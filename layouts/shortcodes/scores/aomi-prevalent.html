@@ -55,7 +55,7 @@
 </blockquote>
 {{ $script := `
   // Score PREVALENT by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scorePREVALENT = document.getElementById('prevalentScore')
     const textPREVALENT = document.getElementById('prevalentText');
     [...document.querySelectorAll('#score-prevalent input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcPrevalent() ) })
