@@ -60,7 +60,7 @@
         <div class="grid-1-2-3">
           {{ range first 9 ( after 6 (where site.RegularPages.ByPublishDate.Reverse "Section" "recommandations" )) }}
           <div class="card">
-            <img loading="lazy" class="card-img img-index" src="/images/photos/{{.File.BaseFileName}}.jpg" alt="Illustration de {{ .Title }}">
+            <img loading="lazy" class="card-img img-index" src="/images/photos/{{.File.BaseFileName}}.jpg" alt="Illustration de {{ .Title }}" style="aspect-ratio: 16/10">
             <div class="card-img-overlay overlay-index">
               <h4 class="card-title" style="color: #fff"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
             </div>

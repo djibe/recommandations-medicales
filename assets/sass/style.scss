@@ -401,6 +401,20 @@ a[data-toggle="modal"]:not(.no-icon)::after {
       padding-top: 80px;
     }
   }
+
+  .card-img-top {
+    background-color:#FFF4DF;
+    background-blend-mode: multiply;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+    aspect-ratio: 16/9;
+
+    &.bg-article {
+      background-color: var(--bg-article-hex);
+    }
+  }
 }
 
 .navbar .dropdown-menu::before {
@@ -801,20 +815,6 @@ article {
 .projet {
   .offset-xl-2 {
     margin-left: auto;
-  }
-
-  .card-img-top {
-    background-color:#FFF4DF;
-    background-blend-mode: multiply;
-    position: relative;
-    background-repeat: no-repeat;
-    background-position: 50%;
-    background-size: cover;
-    aspect-ratio: 16/9;
-
-    &.bg-article {
-      background-color: var(--bg-article-hex);
-    }
   }
 
   &__content {

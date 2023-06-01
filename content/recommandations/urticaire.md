@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-27T17:43:41+02:00
 publishdate = "2020-10-27"
-lastmod = "2021-11-29"
+lastmod = "2023-06-01"
 specialites = ["allergologie", "dermatologie"]
-annees = "2011"
+annees = "2021"
 sources = ["SFDermato", "CEDEF"]
 tags = ["prurit"]
 anglais = ["Urticaria"]
@@ -18,16 +18,16 @@ icd10 = "L50.9"
 image = true
 imageSrc = "Urticaire superficielle. Photo de woofiegrrl sur Foter.com / CC BY-ND"
 flowchart = true
-todo = "SEO, KEY urticaire aiguë, omalizumab, sources à lire, gs, enfant, choc anaphyla, Quincke, https://onlinelibrary.wiley.com/doi/full/10.1111/all.13397, https://www.dropbox.com/sh/9ivszpuwnxdp4t8/AAB04JahlYn6qounsCr-dQKwa/2019?dl=0&preview=Grille+capacit%C3%A9+urticaire+physique+Q4.docx&subfolder_nav_tracking=1, fiche, https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2488.pdf, https://francais.medscape.com/voirarticle/3608494"
+todo = "SEO, KEY urticaire aiguë, enfant, choc anaphyla, Quincke, https://onlinelibrary.wiley.com/doi/full/10.1111/all.13397, https://www.dropbox.com/sh/9ivszpuwnxdp4t8/AAB04JahlYn6qounsCr-dQKwa/2019?dl=0&preview=Grille+capacit%C3%A9+urticaire+physique+Q4.docx&subfolder_nav_tracking=1, fiche, https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2488.pdf, https://francais.medscape.com/voirarticle/3608494"
 +++
 
 {{%article-summary%}}
 
 - Signes de gravité d'une urticaire:  
   Dysphonie, hyper-salivation et troubles de la déglutition.
-- Pas de corticoïdes par effet rebond
+- Ne pas utiliser les corticoïdes pour l'urticaire par effet rebond
 - Traitement de l'urticaire par antihistaminique anti-H1 seul
-- Bilan uniquement en cas d'urticaire chronique résistant
+- Bilan uniquement en cas d'urticaire chronique résistante
 - [Fiche info patient SFD sur l'urticaire (PDF)](https://www.sfdermato.org/upload/fiche/tryptique-urticaire-couleur-96f22adbd8100bd76e000f4a6ea2c306.pdf)
 - **Une** urticaire et un **é**dème {{%class%}}(œdème){{%/class%}}
 - Pour l'enfant, lire [PAP Urticaire aiguë de l'enfant](https://pap-pediatrie.fr/urticaire-aigue-de-lenfant)
@@ -53,7 +53,7 @@ Le pronostic vital est engagé en manifestations ORL (dysphonie, troubles de la 
 
 Urticaire chronique (UC)
 : Poussées d'urticaire, le plus souvent quotidiennes, évoluant depuis **plus de 6 semaines**.
-: Pathologie fréquente (prévalence 0,5%, exceptionnelle chez l'enfant) avec altération de la qualité de vie pendant une durée d'évolution moyenne de 3 à 5 ans.  
+: Pathologie fréquente (prévalence 0,5%, exceptionnelle chez l'enfant) avec **altération de la qualité de vie** pendant une durée d'évolution moyenne de 3 à 5 ans.  
 Peut être grave lorsqu'un angio-œdème laryngé ou digestif est associé.
 **Éliminer une maladie inflammatoire ou néoplasique** (rares). Une cause allergique est exceptionnelle.
 
@@ -149,6 +149,7 @@ Le diagnostic d'urticaire est clinique.
   - Prurigineux
   - Chaleur locale
   - Extension en plaque de géographie ou peau d'orange
+- **Qualité de vie**
 - Manifestations associées  
   Hyperthermie modérée, douleurs abdominales ou arthralgies possibles.
 
@@ -183,7 +184,7 @@ En cas d'atteinte muqueuse intestinale, les douleurs peuvent simuler une urgence
 
 - Mastocytose
 - Pemphigoïde au stade pré-bulleux
-- Enfant: Érythème polymorphe
+- Enfant: érythème polymorphe
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -257,17 +258,23 @@ Si échec, adresser au dermatologue.
 
 Molécules peu ou pas sédatives de première intention (selon *Prescrire*): **Cétirizine** ou **loratadine**.
 
+Chez le -12 ans, en cas de fortes doses la SFD préconise la [desloratadine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62676761&typedoc=R) ou la rupatadine (comprimés uniquement).
+
 **Autres molécules étudiées chez l'adulte:** Bilastine, desloratadine, fexofénadine, lévocétirizine, rupatadine.  
 **Autres molécules étudiées chez l'enfant:** Desloratadine, fexofénadine, lévocétirizine.
 
-### Traitement de l'urticaire chronique
+En cas de grossesse, simple dose de cétirizine, lévocétirizine ou desloratadine (*SFD 2021*).
 
-Cétirizine 10 mg 1 par jour pendant 8 semaines
+### Traitement de l'urticaire chronique spontanée
+
+Cétirizine 10 mg 1 par jour pendant 8 semaines  
+Doubler voire quadrupler la dose en l'absence d'efficacité.
 {.alert .alert-info}
 
-Recommandations pour la prise en charge et le traitement de l'urticaire chronique:
+Recommandations pour la prise en charge et le traitement de l'urticaire chronique spontanée:
 
-- Anti-histaminique anti-H1 pendant 4 à 8 semaines
+- Anti-histaminique anti-H1 de seconde génération (2G) simple dose  
+  En l'absence d'efficacité à 1 semaine ou 2 mois: augmenter la dose jusqu'à une quadruple dose.
 - Éviter les médicaments histaminolibérateurs  
   AINS/aspirine surtout.
 - Éviter les aliments riches en amines biogènes
@@ -278,15 +285,15 @@ Recommandations pour la prise en charge et le traitement de l'urticaire chroniqu
 #### Persistance à 8 semaines et échec du traitement
 
 - Réaliser le bilan biologique  
-Voir *Examens complémentaires*.
+  Voir *Examens complémentaires*.
 - Vérifier l'observance
 - Rechercher des facteurs aggravants ou des signes spécifiques
-- Substitution de l'antihistaminique anti-H1 de seconde génération (2G)
+- Substitution de l'antihistaminique anti-H1 2G
 - En cas de prurit ou troubles du sommeil:  
-bithérapie anti-H1 2G le matin et anti-H1 1G le soir.  
+  Bithérapie anti-H1 2G le matin et anti-H1 1G le soir.
 - Réévaluation à 4-8 semaines
 
-Essayer successivement tous les antihistaminique anti-H1 si échec et adresser au spécialiste pour avis pluridisciplinaire.
+Essayer successivement tous les antihistaminique anti-H1 si échec et adresser au spécialiste pour avis pluridisciplinaire (omalizumab, cyclosporine).
 
 #### Traitement d'urticaires chronique spécifiques
 
@@ -404,6 +411,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Hacard F et al. Guidelines for the management of chronic spontaneous urticaria: recommendations supported by the Centre of Evidence of the French Society of Dermatology. Br J Dermatol. 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8457139/)
 - [Hôpital Necker. Facteurs susceptibles d'induire la dégranulation mastocytaire.](http://www.maladiesrares-necker.aphp.fr/facteurs-susceptibles-dinduire-la-degranulation-mastocytaire/)
 - [Collège des Enseignants d'Immunologie de Langue Française. Item 114 : Urticaire et œdème de Quincke : diagnostic, étiologie, traitement. 2011. (PDF)](http://campus.cerimes.fr/immunologie/enseignement/immuno_114a/site/html/cours.pdf)
 - [Dermato-info. L'urticaire.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99urticaire)
@@ -413,5 +421,6 @@ graph TB
 
 - [SFD. Traitement de l'urticaire chronique spontanée. 2019. (PDF)](https://document.sfdermato.org/reco/urticaire-chronique-spontan%C3%A9e/SFD_urticaire-chronique-spontan%C3%A9e_synth%C3%A8se_2019-11.pdf)
 - [SFD. Recommandations urticaire chronique spontanée. Arbre décisionnel. Décembre 2019.](https://reco.sfdermato.org/fr/recommandations-urticaire-chronique-spontan%C3%A9e)
+- [PAP Urticaire aiguë de l'enfant](https://pap-pediatrie.fr/urticaire-aigue-de-lenfant)
 
 {{%/sources%}}

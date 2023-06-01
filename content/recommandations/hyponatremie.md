@@ -2,7 +2,7 @@
 title = "Hyponatrémie"
 prefix = "l'"
 description = "TODO:"
-synonyms = []
+synonyms = ["hyperhydratation intracellulaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-30T16:52:08+02:00"
 publishdate = "2023-05-30"
@@ -28,7 +28,7 @@ TODO:
 {{%collapse "Définition" %}}
 
 Hyponatrémie
-: Trouble du bilan de l'eau avec une hyperhydratation (initialement intracellulaire TODO:) objectivée par une natrémie < 135 mmol/L. Anomalie hydro-électrolytique la plus fréquente.
+: Trouble du bilan de l'eau avec une hyperhydratation intracellulaire objectivée par une natrémie < 135 mmol/L. Il s'agit de l'anomalie hydro-électrolytique la plus fréquente, causée par une hypo-osmolalité plasmatique.
 : Elle est dite aiguë en cas d'installation brutale en moins de 48 heures ou chronique ou d'ancienneté inconnue dans les autres cas.
 : Le plus souvent d'origine iatrogène: diurétiques (thiazidiques ++), antidépresseurs, antipsychotiques, anti-épileptiques. Les autres causes sont l'insuffisance surrénale et les cancers.
 : Complications d'une hyponatrémie (même légère): risque de chutes, ostéoporose (OR 4 si chronique) et fractures de fragilité (OR 4,6), notamment chez la personne âgée, troubles cognitifs par oedème cérébral. La correction trop rapide d'une hyponatrémie peut également causer une myélinolyse centropontique gravissime.
