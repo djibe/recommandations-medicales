@@ -18,13 +18,12 @@ icd10 = "L50.9"
 image = true
 imageSrc = "Urticaire superficielle. Photo de woofiegrrl sur Foter.com / CC BY-ND"
 flowchart = true
-todo = "SEO, KEY urticaire aiguë, enfant, choc anaphyla, Quincke, https://onlinelibrary.wiley.com/doi/full/10.1111/all.13397, https://www.dropbox.com/sh/9ivszpuwnxdp4t8/AAB04JahlYn6qounsCr-dQKwa/2019?dl=0&preview=Grille+capacit%C3%A9+urticaire+physique+Q4.docx&subfolder_nav_tracking=1, fiche, https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2488.pdf, https://francais.medscape.com/voirarticle/3608494"
+todo = "SEO, KEY urticaire aiguë, enfant, choc anaphyla, Quincke"
 +++
 
 {{%article-summary%}}
 
-- Signes de gravité d'une urticaire:  
-  Dysphonie, hyper-salivation et troubles de la déglutition.
+- Signes de gravité d'une urticaire: Dysphonie, hyper-salivation et troubles de la déglutition
 - Ne pas utiliser les corticoïdes pour l'urticaire par effet rebond
 - Traitement de l'urticaire par antihistaminique anti-H1 seul
 - Bilan uniquement en cas d'urticaire chronique résistante
@@ -46,7 +45,7 @@ Urticaire superficielle
 : Œdème **dermique uniquement**.
 
 Urticaire profonde
-: Aussi appelée **angio-œdème** voire **œdème de Quicke** en atteinte pharyngée. Souvent associée à la forme superficielle.
+: Aussi appelée **angio-œdème** voire **œdème de Quincke** en atteinte pharyngée. Souvent associée à la forme superficielle.
 : L'atteinte est *dermo-hypodermique* donnant une tuméfaction ferme, mal limitée, non prurigineuse (paupières et lèvres).  
 Le pronostic vital est engagé en manifestations ORL (dysphonie, troubles de la déglutition).
 : Angio-œdème du visage: cause alimentaire chez l'enfant, médicamenteuse chez l'adulte.
@@ -102,6 +101,24 @@ Test diagnostique avec frottement d'une pointe mousse sur 10 cm.
 
 Angio-œdème vibratoire
 : Test de provocation par un appareil vibratoire.
+
+### Abréviations
+
+Anti-H1
+: Anti-histaminiques anti-H1
+
+CEDEF
+: Collège des enseignants de dermatologie de France
+
+SFD
+: Société Française de Dermatologie
+
+UC
+: urticaire chronique
+
+UCS
+: urticaire chronique spontanée
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Signes de gravité" %}}
@@ -419,8 +436,10 @@ graph TB
 
 ### À lire
 
+- [Zuberbier T, Abdul Latiff AH, Abuzakouk M, et al. The international EAACI/GA²LEN/EuroGuiDerm/APAAACI guideline for the definition, classification, diagnosis, and management of urticaria. Allergy. 2022.](https://pubmed.ncbi.nlm.nih.gov/34536239/)
 - [SFD. Traitement de l'urticaire chronique spontanée. 2019. (PDF)](https://document.sfdermato.org/reco/urticaire-chronique-spontan%C3%A9e/SFD_urticaire-chronique-spontan%C3%A9e_synth%C3%A8se_2019-11.pdf)
 - [SFD. Recommandations urticaire chronique spontanée. Arbre décisionnel. Décembre 2019.](https://reco.sfdermato.org/fr/recommandations-urticaire-chronique-spontan%C3%A9e)
 - [PAP Urticaire aiguë de l'enfant](https://pap-pediatrie.fr/urticaire-aigue-de-lenfant)
+- [Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéo-muqueuses chez l'enfant et l'adulte. Item 183 UE 7. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/16-Item183-UE7-Hypersensibilites-et-allergies-cutano-muqueuses-chez-lenfant-et-ladulte.pdf)
 
 {{%/sources%}}

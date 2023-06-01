@@ -17,7 +17,7 @@ icd10 = "E87.1"
 draft = true
 image = false
 imageSrc = ""
-todo = "BMJ p6, néphro ou endoc ?, sources > descr > summary > liens"
+todo = "BMJ p6 et p7 CUEN, descr > summary > liens, ERBP 2014"
 +++
 
 {{%article-summary%}}
@@ -31,24 +31,28 @@ Hyponatrémie
 : Trouble du bilan de l'eau avec une hyperhydratation intracellulaire objectivée par une natrémie < 135 mmol/L. Il s'agit de l'anomalie hydro-électrolytique la plus fréquente, causée par une hypo-osmolalité plasmatique.
 : Elle est dite aiguë en cas d'installation brutale en moins de 48 heures ou chronique ou d'ancienneté inconnue dans les autres cas.
 : Le plus souvent d'origine iatrogène: diurétiques (thiazidiques ++), antidépresseurs, antipsychotiques, anti-épileptiques. Les autres causes sont l'insuffisance surrénale et les cancers.
-: Complications d'une hyponatrémie (même légère): risque de chutes, ostéoporose (OR 4 si chronique) et fractures de fragilité (OR 4,6), notamment chez la personne âgée, troubles cognitifs par oedème cérébral. La correction trop rapide d'une hyponatrémie peut également causer une myélinolyse centropontique gravissime.
+: Complications d'une hyponatrémie (même légère): risque de chutes, ostéoporose (OR 4 si chronique) et fractures de fragilité (OR 4,6), notamment chez la personne âgée, troubles cognitifs par œdème cérébral. La correction trop rapide d'une hyponatrémie peut également causer une myélinolyse centro-pontine gravissime.
 
 ### Classification de l'hyponatrémie
 
-Légère 130-135, modérée, sévère, menaçante TODO:
+Légère 130-135, modérée, sévère (< 120), menaçante TODO:
 
-### Etiologie de l'hyponatrémie
+### Étiologie de l'hyponatrémie
 
 - Iatrogénie  
-  Diurétiques (**thiazidiques** ++), antidépresseurs, antipsychotiques, anti-épileptiques.
+  Diurétiques (**thiazidiques** ++), antidépresseurs (fluoxétine), antipsychotiques, anti-épileptiques (carbamazépine).
 - Insuffisance d'organe
   - **Insuffisance surrénale** (hyperkaliémie)
-  - **Hypothyroïdie profonde** avec myxoedème
-  - Insuffisance cardiaque, rénale ou hépatocellulaire
+  - **Hypothyroïdie profonde** avec myxœdème
+  - Insuffisance cardiaque, rénale avancée ou hépatocellulaire
+- Affection aiguë (neurologique, pulmonaire)
 - Paranéoplasique
 - Psychiatrique: polydipsie (schizophrénie ++)
 
 ### Abréviations
+
+CUEN
+: Collège Universitaire des Enseignants de Néphrologie
 
 SIADH
 : syndrome de sécrétion inappropriée d'ADH
@@ -72,6 +76,8 @@ Situations où une hyponatrémie nécessite une prise en charge urgente:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+Les signes et symptômes de l'hyponatrémie sont aspécifiques.
+
 ### Interrogatoire
 
 Peu de relation entre la symptomatologie et la profondeur de l'hyponatrémie
@@ -82,13 +88,17 @@ Peu de relation entre la symptomatologie et la profondeur de l'hyponatrémie
 - Pathologies récentes
 - Traitements en cours  
   Diurétiques (thiazidiques responsables jusqu'aux 3/4 chez le sujet âgé), antidépresseurs (IRS dont citalopram ++), antipsychotiques, anti-épileptiques (carbamazépine).
+- Toxiques (amphétamines, ecstasy)
 - Hyponatrémie
   - Ancienneté
   - Fluctuations et traitements essayés
   - Apports hydriques et alimentaires
 - Symptômes et complications
+  - Nausées ± vomissements
+  - Confusion
+  - Céphalées
   - Chutes, fractures, dépister les autres facteurs de risque d'ostéoporose
-  - Troubles cognitifs
+  - Symptômes sévères: vomissements, défaillance viscérale, somnolence, troubles de conscience ou coma, convulsions
 
 Les antidépresseurs (IRS dont citalopram ++) et antipsychotiques peuvent induire un SIADH.
 
@@ -96,14 +106,15 @@ Suspicion de SIADH paranéoplasique impose un avis néphrologique urgent (IRM c�
 
 ### Examen clinique
 
-Evaluer l'hydratation
+Évaluer l'hydratation globale et les signes neurologiques.
 
-- Pression artérielle couché et debout
-+65 ans: évaluation gériatrique
-
-- Hypervolémie: pouls de la veine jugulaire
-- Euvolémie: examen normal
-- Hypovolémie: hypotension artérielle, hypotension orthostatique, pouls de la veine jugulaire non visible
+- Poids, taille, IMC et variations
+- Pression artérielle couché et debout, fréquence cardiaque
+- +65 ans: évaluation gériatrique
+- Évaluation du secteur extracellulaire
+  - Hypervolémie: pouls de la veine jugulaire
+  - Euvolémie: examen normal
+  - Hypovolémie (déshydratation extracellulaire): hypotension artérielle, hypotension orthostatique, pouls de la veine jugulaire non visible
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -112,12 +123,10 @@ Evaluer l'hydratation
 
 Bilan de première intention d'une hyponatrémie:
 
+- Ionogramme sanguin
 - Créatininémie et DFG
 - Urémie
-- Osmolalité urinaire TODO:  
-  SIADH > 100 mosm/kg H2O, polydipsie < 100 mosm/kg
-- Natriurièse  
-  SAIDH: +30 mmol/L
+- Osmolalité plasmatique (TODO:)
 - Hypovolémie ou euvolémie: [TSH](/tags/tsh/) et cortisol à 8 heures
 
 {{% /collapse %}}
@@ -126,30 +135,38 @@ Bilan de première intention d'une hyponatrémie:
 La découverte d'une hyponatrémie < 125 mmol/L nécessite des explorations urgentes. Avis néphrologique entre 125-129 mmol/L
 {.alert .alert-warning}
 
-L'apport de sel n'améliore pas l'hyponatrémie qui est un trouble du bilan de l'eau (TODO:)
+L'apport de sel n'améliore pas l'hyponatrémie qui est un trouble du bilan de l'eau
+{.alert .alert-info}
 
-La prise en charge de l'hyponatrémie dépend de la pathologie ou du médicament en cause:
+La prise en charge de l'hyponatrémie est étiologique (pathologie ou médicament en cause) et le traitement symptomatique consiste en une **restriction hydrique** (500-750 mL/j).
 
-- Hyponatrémie légère asymptomatique: surveillance simple ou arrêt/substitution pendant 2 semaines avec contrôle
+La correction d'une hyponatrémie chronique doit toujours être **très progressive** pour prévenir une myélinolyse centro-pontine.
 
-En première intention le traitement peut être substitué (ex diurétique thiazidique) ou restriction hydrique.
+Recommandations pour la prise en charge d'une hyponatrémie légère asymptomatique:
 
-Avis spécialisé
+- Surveillance simple
+- ou arrêt/substitution du traitement suspect pendant 2 semaines avec contrôles de la natrémie  
+  Ex: citalopram, diurétique thiazidique
 
-substituer citalopram
+Avis spécialisé endocrinologique et néphrologique en cas d'hyponatrémie inexpliquée (ou sévère).
 
 Ionogramme au moins annuel en cas de traitement à risque (thiazidique ++).
 
-SIADH: restriction hydrique 500 mL/j, tolvaptan (inhibiteur réécepteur vasopressine-2), suivi endoc
+### Pour en savoir plus: prise en charge du SIADH
+
+La prise en charge est spécialisée (endocrinologique, néphrologique), étiologique si possible et peut comporter:
+
+- Restriction hydrique 500 mL/j
+- Tolvaptan (inhibiteur récepteur vasopressine-2)
 
 {{% /collapse %}}
 {{%sources%}}
 
-[Jacob P et al. Hyponatraemia in primary care. BMJ. 2019.](https://www.bmj.com/content/365/bmj.l1774)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hyponatrémie - Hypernatrémie. Item 267. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?article11)
+- [Jacob P et al. Hyponatraemia in primary care. BMJ. 2019.](https://www.bmj.com/content/365/bmj.l1774)
 
 ### A lire
 
-[Collège Universitaire des Enseignants de Néphrologie (CUEN). Hyponatrémie - Hypernatrémie. Item 267. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?article11)
 Prescrire
 
 {{%/sources%}}
