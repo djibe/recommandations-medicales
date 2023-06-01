@@ -64,7 +64,8 @@ h1 {
 .gradient-text {
   background-color: #4150f5;
   // background-image: linear-gradient(45deg, #4150f5, #00c99c);
-  background-image: linear-gradient(to right, #4100f5, #2337fc, #0050ff, #0064ff, #0076ff, #0087ff, #0096ff, #00a4ff, #00b3f8, #00bee2, #00c5c1, #00c99c);
+  // background-image: linear-gradient(to right, #4100f5, #2337fc, #0050ff, #0064ff, #0076ff, #0087ff, #0096ff, #00a4ff, #00b3f8, #00bee2, #00c5c1, #00c99c);
+  background-image: linear-gradient(to right, #292ed1, #2d29da, #3221e4, #3916ec, #4100f5);
   background-size: 100%;
   background-clip: text;
   -webkit-background-clip: text;
@@ -380,8 +381,15 @@ a[data-toggle="modal"]:not(.no-icon)::after {
   background-color: var(--surface);
 }
 
-.card-img-top {
+.card-img-top,
+.card-image-overlay {
   border-radius: 12px;
+}
+
+.card-img-overlay.overlay-index {
+  background-image: linear-gradient(to top, #000000, transparent);
+  border-radius: 0 0 12px 12px;
+  opacity: 0.7;
 }
 
 // List pages
@@ -520,7 +528,7 @@ article {
 
 .home-cabinet,
 .home-articles {
-  max-width: 475px;
+  max-width: 22rem;
 }
 
 #home__nav {
@@ -795,6 +803,20 @@ article {
     margin-left: auto;
   }
 
+  .card-img-top {
+    background-color:#FFF4DF;
+    background-blend-mode: multiply;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+    aspect-ratio: 16/9;
+
+    &.bg-article {
+      background-color: var(--bg-article-hex);
+    }
+  }
+
   &__content {
     max-width: 80ch;
 
@@ -986,20 +1008,6 @@ blockquote {
   }
 }
 
-.card-img-top {
-  background-color:#FFF4DF;
-  background-blend-mode: multiply;
-  position: relative;
-  background-repeat: no-repeat;
-  background-position: 50%;
-  background-size: cover;
-  aspect-ratio: 16/9;
-
-  &.bg-article {
-    background-color: var(--bg-article-hex);
-  }
-}
-
 .card-body .card-title + .card-subtitle {
   margin-top: -0.625rem;
 }
@@ -1065,6 +1073,11 @@ legend {
   height: 300px;
   object-fit: cover;
   width: 100%;
+}
+
+.img-index {
+  height: 100%;
+  object-fit: cover;
 }
 
 .img-32 {
@@ -1486,6 +1499,10 @@ div.mermaidTooltip {
 
 .mw-280 {
   max-width: 280px;
+}
+
+.mw-320 {
+  max-width: 320px !important;
 }
 
 .mw-480 {

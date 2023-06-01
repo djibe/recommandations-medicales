@@ -44,8 +44,6 @@
           <div class="card-body card-primary-action">
             <h4 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
             <p class="card-subtitle pb-0">
-              {{ with .Params.auteurs }}
-              {{ delimit . ", " }}{{ end }} le
               <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "2 Jan" }}</time>
             </p>
           </div>
@@ -59,9 +57,14 @@
       </div>
       <button class="btn btn-link my-3" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" aria-label="Afficher plus de recommandations récentes">Afficher + de recos</button>
       <div class="collapse" id="collapseExample">
-        <div class="card card-body d-block">
-          {{ range first 10 ( after 6 (where site.RegularPages.ByPublishDate.Reverse "Section" "recommandations" )) }}
-          <a class="chip chip-action" href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title | truncate 35 }}</a>
+        <div class="grid-1-2-3">
+          {{ range first 9 ( after 6 (where site.RegularPages.ByPublishDate.Reverse "Section" "recommandations" )) }}
+          <div class="card">
+            <img loading="lazy" class="card-img img-index" src="/images/photos/{{.File.BaseFileName}}.jpg" alt="Illustration de {{ .Title }}">
+            <div class="card-img-overlay overlay-index">
+              <h4 class="card-title" style="color: #fff"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
+            </div>
+          </div>
           {{ end }}
         </div>
       </div>
@@ -86,10 +89,12 @@
       <h3 class="typography-headline-5 pl-3 mb-4"><a href="/cabinet/" class="text-secondary">La vie au cabinet</a></h3>
       <div class="home-cabinet">
       {{ range ( where site.RegularPages.ByPublishDate.Reverse "Section" "cabinet" | first 4 ) }}
-        <div class="card-primary-action card-body">
-          {{ with .Params.auteurs}}<small class="text-black-secondary">{{ delimit . ", " }}</small>{{ end }}
-          <h4 class="lead"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
-          <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "2 Jan" }}</time></small>
+        <div class="card card-primary-action shadow-none mr-0 mb-2">
+          <img loading="lazy" alt="Illustration de {{ .Title }}" class="card-img-top img-index" src="/images/cabinet/{{.File.BaseFileName}}.webp" style="max-height: 11rem;">
+          <div class="card-header">
+            <h4 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
+            <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "2 Jan" }}</time></small>
+          </div>
         </div>
         {{ end }}
       </div>
@@ -99,10 +104,12 @@
       <h3 class="typography-headline-5 pl-3 mb-4"><a href="/articles/" class="text-article">Articles autour de la santé</a></h3>
       <div class="home-articles">
         {{ range ( where site.RegularPages.ByPublishDate.Reverse "Section" "articles" | first 4 ) }}
-        <div class="card-primary-action card-body">
-          {{ with .Params.auteurs}}<small class="text-black-secondary">{{ delimit . ", " }}</small>{{ end }}
-          <h4 class="lead"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
-          <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "2 Jan" }}</time></small>
+        <div class="card card-primary-action shadow-none mr-0 mb-2">
+          <img loading="lazy" alt="Illustration de {{ .Title }}" class="card-img-top img-index" src="/images/articles/{{.File.BaseFileName}}.webp" style="max-height: 11rem">
+          <div class="card-header">
+            <h4 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
+            <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "2 Jan" }}</time></small>
+          </div>
         </div>
         {{ end }}
       </div>
