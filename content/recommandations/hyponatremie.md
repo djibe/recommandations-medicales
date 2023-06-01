@@ -6,14 +6,14 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-30T16:52:08+02:00"
 publishdate = "2023-05-30"
-lastmod = "2023-05-30"
+lastmod = "2023-06-01"
 specialites = ["nephrologie"]
-annees = "2021"
+annees = "2023"
 sources = ["CUEN", "Biblio"]
 tags = []
 anglais = ["Hyponatraemia", "hyponatremia"]
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = "https://prod-mapping.ihtsdotools.org/#/"
+sctid = "89627008"
+icd10 = "E87.1"
 draft = true
 image = false
 imageSrc = ""
@@ -145,10 +145,11 @@ SIADH: restriction hydrique 500 mL/j, tolvaptan (inhibiteur réécepteur vasopre
 {{% /collapse %}}
 {{%sources%}}
 
+[Jacob P et al. Hyponatraemia in primary care. BMJ. 2019.](https://www.bmj.com/content/365/bmj.l1774)
+
 ### A lire
 
-10.1136/bmj.l1774
-[Collège néphro](https://cuen.fr/manuel3/spip.php?rubrique5)
+[Collège Universitaire des Enseignants de Néphrologie (CUEN). Hyponatrémie - Hypernatrémie. Item 267. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?article11)
 Prescrire
 
 {{%/sources%}}

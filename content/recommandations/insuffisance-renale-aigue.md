@@ -173,4 +173,8 @@ Risque d'insuffisance rénale aiguë post-contraste selon la voie d'injection:
 - [KDIGO. Clinical practice guideline for acute kidney injury. Kidney Inter. 2012. (PDF)](https://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf)
 - [Collège d'urologie. Insuffisance rénale aiguë - Anurie. Item 348. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/item-348-Insuffisance-renale-aigue.pdf)
 
+### À lire
+
+[Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale aiguë - Anurie. Item 348. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?article62)
+
 {{%/sources%}}
