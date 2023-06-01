@@ -121,7 +121,7 @@ La réponse aux 8 questions suivantes doit être négative pour infirmer une *su
 7. Antécédent personnel MVTE ?
 8. Hospitalisation pour traumatisme ou chirurgie sous AG dans les 4 dernières semaines ?
 
-> PERC = {{%lang%}}Pulmonary Embolism Rule-out Criteria{{%/lang%}}
+> PERC = {{%lang%}}Pulmonary Embolism Rule-out Criteria{{%/lang%}}, [publication sur les performances du PERC](https://onlinelibrary.wiley.com/doi/10.1111/acem.14744)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

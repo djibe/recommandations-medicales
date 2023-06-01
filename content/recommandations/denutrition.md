@@ -150,7 +150,7 @@ L'estimation des **besoins énergétiques totaux** applique au DEB un facteur de
     <input class="form-control" id="harris-calc-male" type="text" placeholder="Compléter les mesures" readonly>
   </div>
 </div>
-<script defer>
+<script>
   window.addEventListener('load', () => {
   $(function () {
     $('#harris-age, #harris-height, #harris-weight').on('input', () => {
@@ -204,7 +204,7 @@ Après 60 ans, lorsque la taille n'est pas mesurable par une toise (alitement, t
     <input class="form-control" id="chumlea-calc" type="text" placeholder="Compléter les mesures" readonly>
   </div>
 </div>
-<script defer>
+<script>
   window.addEventListener('load', () => {
   $(function () {
     $('[name="chumlea-radio"], #chumlea-age, #chumlea-jambe').on('input', () => {

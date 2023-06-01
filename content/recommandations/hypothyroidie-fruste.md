@@ -67,7 +67,7 @@ Lorsque la TSH est modérément élevée, de 4 à 10 mUI/L, renouveler le dosage
 Clinique inconstante au cours de l'hypothyroïdie fruste.  
 Perturbations du bilan lipidique.
 
-Si TSH > 10: augmentation du risque cardiovasculaire, des répercussions neuro-psychologiques et de la qualité de vie.
+Si TSH > 10 mUI/L: augmentation du risque cardiovasculaire, des répercussions neuro-psychologiques et de la qualité de vie.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hypothyroïdie fruste" %}}
