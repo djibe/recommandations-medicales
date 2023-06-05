@@ -12,7 +12,7 @@
     "docker:run": "docker run --rm --name recomedicales -p 80:80 -d recomedicales",
     "favicon": "real-favicon generate \"./build/faviconDescription.json\" \"./build/favicons/\"",
     "html:lint-vnu": "hugo && node build/vnu-jar.js",
-    "html:lint-validate": "npm run start && npm exec html-validate \"public/**/*.html\"",
+    "html:lint-validate": "npm start && npm exec html-validate \"public/**/*.html\"",
     "hugo:debug": "hugo --cleanDestinationDir --minify --debug --logFile ./hugo.log --verboseLog",
     "hugo:update": "choco upgrade hugo-extended -y",
     "links-md:check": "linkinator content/**/*.md --config ./build/linkinator.config.json 2> debug-linkinator.log",
@@ -51,15 +51,15 @@
     "cli-real-favicon": "^0.0.8",
     "cross-env": "^7.0.3",
     "hint": "^7.1.8",
-    "html-validate": "^7.15.1",
+    "html-validate": "^8.0.0",
     "hugo-extended": "^0.112",
-    "linkinator": "^4.1.2",
+    "linkinator": "^5.0.1",
     "node-sass": "^6.0.1",
     "vnu-jar": "^23.4.11"
   },
   "dependencies": {
     "autoprefixer": "^10.4.14",
-    "postcss": "^8.4.23",
+    "postcss": "^8.4.24",
     "postcss-cli": "^10.1.0"
   },
   "browserslist": [
