@@ -25,6 +25,7 @@ imageSrc = "Uronéphrose droite sur lithiase urinaire. Cas du Dr Sajoscha A. Sor
 - Évaluer la gravité clinique, rechercher un globe vésical et adresser pour prise en charge aux Urgences (échographique-biologie-ECG)  
   Fournir les antécédents et bilans rénaux pour aider à la recherche étiologique
 - Pour les informations sur les injections de produits de contraste iodé, voir *Rein et produits de contraste*
+- Les prochaines recommandations KDIGO sortiront courant T2 2023
 
 Chapitre lié: [insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
 
@@ -104,7 +105,7 @@ Les symptômes et signes associés à la survenue d'une insuffisance rénale aig
 
 - Anurie
 - Surcharge hydrosodée  
-  Dyspnée, œdèmes, hyponatrémie.
+  Dyspnée, œdèmes, [hyponatrémie]({{< relref "hyponatremie.md" >}}).
 - Syndrome urémique  
   Troubles digestifs (nausées, vomissements, diarrhées), anorexie, confusion, astérixis, réflexes vifs, épilepsie.
 - [Céphalées](/tags/cephalees/)

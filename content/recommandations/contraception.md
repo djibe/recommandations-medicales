@@ -23,7 +23,7 @@ todo = "modal DIU, nb grossesses efficacité, ONU contraceptions pays, critères
 
 {{%article-summary%}}
 
-- Contraception annuelle gratuite avant 26 ans (consultation, pilule/stérilet, coter GS Exo 3 depuis le [1/1/22](https://www.service-public.fr/particuliers/actualites/A15158))  
+- Contraception annuelle gratuite avant 26 ans (consultation, pilule/stérilet, coter GS Exo 3 depuis le [1/1/2022](https://www.service-public.fr/particuliers/actualites/A15158))  
   Coter la première consultation contraception avant 26 ans: CCP (46€ avec TP AMO)
 - Seul le préservatif est efficace contre les [IST](/tags/ist/) (gratuit sans ordonnance en pharmacie pour les -26 ans)
 - [QuestionSexualité - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception) et [comparatif des contraceptions](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception), [Annuaire des centres de santé sexuelle](https://ivg.gouv.fr/les-centres-de-sante-sexuelle.html)

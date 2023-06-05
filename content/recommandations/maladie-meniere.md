@@ -53,7 +53,7 @@ Le diagnostic de maladie de Menière est certain devant l'association des 4 sign
     - Ils peuvent précéder les vertiges de plusieurs années
 3. Autres signes otologiques homolatéraux fluctuants  
   Acouphènes (ressentis comme le plus grave symptôme) et sensation de plénitude de l'oreille.
-1. Absence d'autre cause identifiée
+4. Absence d'autre cause identifiée
 {{%/info%}}
 
 ### Maladie de Menière probable

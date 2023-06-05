@@ -240,11 +240,11 @@ Augmenter jusqu'à suppression de la douleur (max 1600 mg/j) puis obtention de l
 - Bilan pré-thérapeutique  
   NFS, bilan hépatique, ECG chez personne âgée.
 - Surveillance  
-  NFS, ASAT, ALAT, ionogramme hebdomadaires le 1<sup>er</sup> mois puis en signes d'appel.
+  NFS, ASAT, ALAT, ionogramme hebdomadaires le 1<sup>er</sup> mois puis en signes d'appel (iono annuel).
 - **Contre-indications**  
   BAV, hypersensibilité à la molécule/excipients, antécédent d'hypoplasie médullaire ou de porphyrie hépatique, traitement par télaprévir ou variconazole.
 - **Effets indésirables principaux**  
-  Hyponatrémie, induction enzymatique, vertiges, ataxie, somnolence, fatigue, diplopie, troubles de l'accommodation, confusion ou agitation.
+  [Hyponatrémie]({{< relref "hyponatremie.md" >}}), induction enzymatique, vertiges, ataxie, somnolence, fatigue, diplopie, troubles de l'accommodation, confusion ou agitation.
 - **Effets indésirables graves:** aplasie, toxidermie grave
 - Développée spécifiquement pour traiter la NTC, soulagement complet initial pour 70% des patients
 

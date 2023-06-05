@@ -124,7 +124,7 @@ Le pityriasis versicolor est bénin, **n'est pas contagieux**, causé par la lev
 
 ### Kératodermie palmoplantaire dermatophytique
 
-La kératodermie palmo-plantaire se présente souvent avec un tableau stéréotypé: kératodermie d'une paume et des 2 plantes (<< 1 main, 2 pieds >>). La kératodermie talonnière isolée ± fissuraire est fréquente. Aspect blanchâtre, farineux avec plis des paumes/plantes très marqués. Atteinte unguéale possible.
+La kératodermie palmo-plantaire se présente souvent avec un tableau stéréotypé: kératodermie d'une paume et des 2 plantes (<< 1 main, 2 pieds >>). La kératodermie talonnière isolée souvent fissuraire est fréquente. Aspect blanchâtre, farineux avec plis des paumes/plantes très marqués. Atteinte unguéale possible.
 
 {{%info%}}
 

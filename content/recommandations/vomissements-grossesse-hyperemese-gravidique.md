@@ -84,7 +84,7 @@ Proposer une hospitalisation en cas d'hyperémèse gravidique avec au moins un c
   {{< clinique/deshydratation >}}
 - {{< modal-btn modal-puqe >}}Score PUQE ≥ 13{{< /modal-btn >}}
 - Hypokaliémie < 3 mmol/L
-- Hyponatrémie < 120 mmol/L
+- [Hyponatrémie]({{< relref "hyponatremie.md" >}}) < 120 mmol/L
 - Créatininémie > 100 µmol/L (1,13 mg/dL)
 - Résistance au traitement
 {{%/warning%}}

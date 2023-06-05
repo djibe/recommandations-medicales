@@ -159,7 +159,7 @@ Situations pouvant faire contrôler le taux de vitamine D:
 2. Suspicion d'ostéomalacie (fatigue musculaire, douleurs osseuses)
 3. À 3 mois d'une transplantation rénale
 4. Avant et après une chirurgie bariatrique
-5. Personne âgée avec chutes répétées  
+5. Personne âgée avec [chutes](/tags/chute/) répétées  
   Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>
 6. Traitement préconisant une mesure de la vitamine D (ex. biphosphonate)
 

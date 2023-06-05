@@ -12,7 +12,7 @@ lastmod = "2023-02-16"
 specialites = ["therapeutique"]
 annees = "2008"
 sources = ["HAS"]
-tags = ["anticoagulant"]
+tags = ["anticoagulant", "chute"]
 anglais = ["Antivitamin k"]
 sctid = "419847008"
 icd10 = ""
@@ -85,7 +85,7 @@ Nouvel INR le lendemain du diagnostic de surdose avec reconduction identique des
 
 Le risque hémorragique sous traitement est maximal les 6 premiers mois de traitement (1<sup>er</sup> mois surtout).
 
-Intensifier la surveillance en cas d'ulcère gastro-duodénal, antécédents d'hémorragie digestive, AVC récent, personne âgée hypertendue (AVC hémorragique), chutes, alcoolisme chronique, diabète, trouble coagulation.
+Intensifier la surveillance en cas d'ulcère gastro-duodénal, antécédents d'hémorragie digestive, AVC récent, personne âgée hypertendue (AVC hémorragique), [chutes](/tags/chute/), [alcoolisme chronique]({{< relref "sevrage-alcool.md" >}}), diabète, trouble de coagulation.
 
 {{%warning%}}
 

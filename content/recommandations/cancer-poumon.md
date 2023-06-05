@@ -92,7 +92,7 @@ Le diagnostic de cancer broncho-pulmonaire est évoqué devant les symptômes su
 - Syndrome paranéoplasique  
   - [Thrombose veineuse profonde]({{< relref "thrombose-veineuse-profonde.md" >}})
   - Hippocratisme digital récent avec arthralgies inflammatoires (syndrome de Pierre-Marie)
-  - Hyponatrémie (sécrétion inappropriée d'ADH)
+  - [Hyponatrémie]({{< relref "hyponatremie.md" >}}) (sécrétion inappropriée d'ADH)
   - Fièvre isolée
   - Pseudo-myasthénie, neuropathie périphérique
 

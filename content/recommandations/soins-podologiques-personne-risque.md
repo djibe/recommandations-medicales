@@ -35,7 +35,7 @@ Chapitres liés: [ostéoporose]({{< relref "osteoporose.md" >}}), [vitamine D]({
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Les enjeux de l'atteinte des pieds sont la **perte d'autonomie** et les traumatismes liés aux **chutes**.
+Les enjeux de l'atteinte des pieds sont la **perte d'autonomie** et les traumatismes liés aux **[chutes](/tags/chute/)**.
 
 Cors
 : Épaississement très localisé de la couche cornée de l'épiderme. Classé parmi les hyperkératoses.

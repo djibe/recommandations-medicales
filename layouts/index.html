@@ -59,12 +59,14 @@
       <div class="collapse" id="collapseExample">
         <div class="grid-1-2-3">
           {{ range first 9 ( after 6 (where site.RegularPages.ByPublishDate.Reverse "Section" "recommandations" )) }}
+          <a href="{{ .RelPermalink }}">
           <div class="card">
             <img loading="lazy" class="card-img img-index" src="/images/photos/{{.File.BaseFileName}}.jpg" alt="Illustration de {{ .Title }}" style="aspect-ratio: 16/10">
             <div class="card-img-overlay overlay-index">
-              <h4 class="card-title" style="color: #fff"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
+              <h4 class="card-title" style="color: #fff">{{ .Title }}</h4>
             </div>
           </div>
+          </a>
           {{ end }}
         </div>
       </div>
@@ -92,7 +94,7 @@
         <div class="card card-primary-action shadow-none mr-0 mb-2">
           <img loading="lazy" alt="Illustration de {{ .Title }}" class="card-img-top img-index" src="/images/cabinet/{{.File.BaseFileName}}.webp" style="max-height: 11rem;">
           <div class="card-header">
-            <h4 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
+            <h4 class="card-title mb-2"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
             <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "2 Jan" }}</time></small>
           </div>
         </div>
@@ -107,7 +109,7 @@
         <div class="card card-primary-action shadow-none mr-0 mb-2">
           <img loading="lazy" alt="Illustration de {{ .Title }}" class="card-img-top img-index" src="/images/articles/{{.File.BaseFileName}}.webp" style="max-height: 11rem">
           <div class="card-header">
-            <h4 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
+            <h4 class="card-title mb-2"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
             <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "2 Jan" }}</time></small>
           </div>
         </div>

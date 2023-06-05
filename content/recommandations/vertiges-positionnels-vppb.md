@@ -11,7 +11,7 @@ lastmod = "2022-11-08"
 specialites = ["ORL"]
 annees = "2017"
 sources = ["HAS", "SFORL"]
-tags = ["vertige"]
+tags = ["chute", "vertige"]
 anglais = ["Benign positional vertigo (BPPV)"]
 sctid = "111541001"
 icd10 = "H81.1"
@@ -132,7 +132,7 @@ Rechercher les signes et symptômes du VPPB et étayer le diagnostic différenti
   Cervicalgies modérées, nausées (vomissements rares), pâleur, sueurs.
 - Recherche des signes d'alerte (voir section précédente)
 - Terrain spécifique
-  - Chutes à répétition  
+  - [Chutes](/tags/chute/) à répétition  
     Risque majoré en baisse d'acuité visuelle, neuropathie.
   - Personne âgée ou [ostéoporotique]({{< relref "osteoporose.md" >}})  
     Suivi spécialisé pour la prévention des chutes.

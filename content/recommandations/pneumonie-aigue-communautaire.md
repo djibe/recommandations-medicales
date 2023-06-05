@@ -136,7 +136,7 @@ Présentation de pneumonie aiguë communautaire bactérienne **la plus fréquent
 - Population à risque: voyage, termes, comorbidités, âge avancé, immunodépression, tabagisme
 - Contamination par voie respiratoire non inter-humaine (aérosol d'eau contaminée, climatisation)
 - Tableau bruyant rapidement progressif
-- Antigénurie légionelle et culture sur prélèvements respiratoires, hyponatrémie, rhabdomyolyse
+- Antigénurie légionelle et culture sur prélèvements respiratoires, [hyponatrémie]({{< relref "hyponatremie.md" >}}), rhabdomyolyse
 - Condensation systématisée ou opacités multifocales
 - Macrolide ± FQAP
 - [Maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
@@ -225,7 +225,7 @@ Indications à la vaccination anti-pneumococcique:
   - Greffe
   - Immunosuppresseurs, biothérapie, corticothérapie ([polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [hépatite B active]({{< relref "hepatite-b.md" >}}))
 - Comorbidité à risque d'infection invasive à pneumocoque (IIP)
-  - Cardiopathie congénitale cyanogène, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [Hypertension artérielle pulmonaire]({{< relref "hypertension-arterielle-pulmonaire.md" >}})
+  - Cardiopathie congénitale cyanogène, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [HTAP]({{< relref "hypertension-arterielle-pulmonaire.md" >}})
   - Insuffisance respiratoire, [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
   - [Asthme en ALD]({{< relref "asthme.md" >}})
   - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})

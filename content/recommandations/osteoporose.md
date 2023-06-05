@@ -145,7 +145,7 @@ L'ostéoporose est responsable d'un lourd fardeau médico-économique:
 ### Examen clinique
 
 - Poids, taille, IMC
-- Risque de chute
+- Risque de [chute](/tags/chute/)
   - {{%lang%}}Timed up and go test{{%/lang%}} > 14s
   - Appui monopodal < 5s
   - Difficulté à garder l'équilibre en poussée sternale
@@ -160,7 +160,7 @@ Examens pour éliminer une ostéoporose secondaire.
 ### Bilan biologique pour la prise en charge de l'ostéoporose
 
 - NFS, VS, CRP
-- Créatininémie avec DFGe (CKD-EPI)
+- Ionogramme, créatininémie avec DFGe (CKD-EPI)
 - ASAT, ALAT, GGT, PAL
 - TSH
 - Vitamine D

@@ -11,7 +11,7 @@ lastmod = "2023-04-14"
 specialites = ["neurologie"]
 annees = "2016"
 sources = ["HAS", "EFNS"]
-tags = []
+tags = ["chute"]
 anglais = ["Parkinson's disease (PD)"]
 sctid = "49049000"
 icd10 = "G20"
@@ -199,7 +199,7 @@ La triade classique est akinésie/bradykinésie, rigidité et tremblement de rep
   - Aggravé par le calcul et l'émotion
 - **Instabilité posturale** précoce
 - Dysautonomie  
-  Hypotension artérielle orthostatique (45% avec chutes, lipothymies/malaises) et troubles urinaires.
+  Hypotension artérielle orthostatique (45% avec [chutes](/tags/chute/), lipothymies/malaises) et troubles urinaires.
 - Symptômes non moteurs
   - Apathie, troubles de la motivation
   - Douleurs pseudo-rhumatismales (épaule, rachis) ou diverses (paresthésies, radiculalgies)

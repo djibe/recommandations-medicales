@@ -98,7 +98,7 @@ Anomalies biologiques pouvant être observées en cas d'hypothyroïdie:
 - Hypercholestérolémie et hypertriglycéridémie
 - Anémie isolée modérée normochrome normocytaire
 - Augmentation des CPK/LDH
-- Hyponatrémie de dilution
+- [Hyponatrémie]({{< relref "hyponatremie.md" >}}) de dilution
 - Hypoglycémie
 - Hyperprolactinémie
 - Hyperuricémie

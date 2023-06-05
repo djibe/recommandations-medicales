@@ -119,7 +119,7 @@ Rechercher les facteurs de risque de fracture chez l'homme +70 ans:
   Corticothérapie, anti-androgéniques.
 - {{< modal-btn modal-risque-fracture >}}Facteur de risque de fracture{{< /modal-btn >}}
 - {{< modal-btn modal-risque-chute >}}Facteur de risque de chute{{< /modal-btn >}}
-- +65 ans: dépistage des chutes
+- +65 ans: dépistage des [chutes](/tags/chute/)
     1. Êtes-vous tombé dans la dernière année et si oui combien avez-vous fait de chutes et avez-vous eu des blessures ?
     2. Avez-vous peur de tomber ?
     3. Vous sentez-vous instable en marchant ou en vous levant ?
@@ -155,7 +155,7 @@ Indications à l'évaluation par le rhumatologue:
 Bilan biologique en cas de fracture de fragilité ou de T-score < -3:
 
 - NFS, CRP
-- Créatininémie
+- Ionogramme, créatininémie
 - ASAT, ALAT, GGT, PAL
 - Calcémie, phosphatémie
 - Albuminémie

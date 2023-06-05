@@ -11,7 +11,7 @@ lastmod = "2023-02-03"
 specialites = ["ophtalmologie"]
 annees = "2023"
 sources = ["Service-public", "SNAO"]
-tags = ["cephalees", "enfant", "fatigue"]
+tags = ["cephalees", "chute", "enfant", "fatigue"]
 anglais = ["Orthoptic test"]
 sctid = "252847008"
 icd10 = ""
@@ -39,7 +39,7 @@ Bilan orthoptique et rééducation si nécessaire
 
 Indications au bilan orthoptique devant les signes ou symptômes suivants:
 
-- Strabisme (5-8% des enfants)
+- Strabisme (5 à 8 % des enfants)
 - Amblyopie
 - Diplopie
 - Vision floue  
@@ -50,7 +50,7 @@ Indications au bilan orthoptique devant les signes ou symptômes suivants:
 - Difficultés d'adaptation aux lunettes
 - [Céphalées](/tags/cephalees/)
 - Vertiges, troubles de l'équilibre
-- Chutes répétées de la personne âgée
+- [Chutes](/tags/chute/) répétées de la personne âgée
 - Troubles musculo-squelettiques et douleurs posturales
 - Troubles neuro-visuels (séquelles neurologiques)
 - Ptosis (paupière tombante) et nystagmus

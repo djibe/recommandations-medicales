@@ -138,7 +138,7 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
 - Dysfonction cardiaque  
   FEVG basse, dilatation VG, dysfonction VG sévère ...
 - Biomarqueurs  
-  Hyponatrémie, peptides natriurétiques élevés ...
+  [Hyponatrémie]({{< relref "hyponatremie.md" >}}), peptides natriurétiques élevés ...
 - Gènes de cardiomyopathies
 - Cardiovasculaire  
   [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), troubles du rythme, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}).
@@ -384,7 +384,7 @@ Peu de traitements ont fait leurs preuves pour la prise en charge de l'ICFEmd: D
   - Hypotension mal tolérée
   - Angor aggravé ou d'apparition récente
 - Sévérité biologique
-  - Hyponatrémie ou hyperkaliémie menaçante
+  - [Hyponatrémie]({{< relref "hyponatremie.md" >}}) ou hyperkaliémie menaçante
   - Anémie
   - Insuffisance rénale d'aggravation progressive
 - Comorbidités

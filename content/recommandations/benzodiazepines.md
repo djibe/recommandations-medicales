@@ -34,7 +34,7 @@ Chapitre lié: [sevrage en alcool]({{< relref "sevrage-alcool.md" >}})
 
 Benzodiazépines
 : Médicament psychotrope anxiolytique caractérisé chimiquement par un cycle benzénique fusionné à un cycle diazépine.
-: Complications chez le sujet âgé: troubles de la mémoire et de la concentration, somnolence, chutes, accidents de voiture.
+: Complications chez le sujet âgé: troubles de la mémoire et de la concentration, somnolence, [chutes](/tags/chute/), accidents de voiture.
 : L'arrêt progressif et encadré des BZD n'altère pas la qualité de vie et peut améliorer les fonctions cognitives.
 
 Syndrome de sevrage
