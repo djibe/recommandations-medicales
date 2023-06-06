@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-08T18:23:04+02:00"
 publishdate = "2023-05-11"
-lastmod = "2023-05-22"
+lastmod = "2023-06-06"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
 sources = ["ESCP", "SNFGE", "SNFCP", "ASCRS"]
@@ -152,6 +152,8 @@ Traitements le plus efficace à J4 sur la douleur de thrombose hémorroïdaire: 
 
 La thrombose hémorroïdaire interne ne doit pas être incisée ni excisée.
 
+L'excision de thrombose hémorroïdaire externe se cote EGFA007 (62,70€).
+
 ### Pour en savoir plus : les traitements des hémorroïdes internes
 
 Le traitement des hémorroïdes internes peut être: instrumental par ligature élastique (± répétées), photocoagulation infrarouge, laser, injections sclérosantes.
@@ -160,6 +162,8 @@ En cas d'échec une chirurgie hémorroïdaire par hémorroïdectomie pédiculair
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< youtube id="0L8aFHXeQrQ" title="Hémorroïdes : c'est la crise ! (TutoGastro SNFGE 2023)" >}}
 
 - [van Tol R et al. European Society of ColoProctology: guideline for haemorrhoidal disease. Colorectal Dis. 2020. (payant)](https://onlinelibrary.wiley.com/doi/abs/10.1111/codi.14975)
 - Siproudhis L, Higuero T. Traitements de la maladie hémorroïdaire. Conseil de pratique. SNFGE, SNFCP. 2020.

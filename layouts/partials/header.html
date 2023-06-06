@@ -21,7 +21,6 @@
     {{ $sass = resources.Get "sass/style.scss" | toCSS }}
     {{ $dark = resources.Get "sass/dark-theme.scss" | toCSS }}
     {{ $print = resources.Get "sass/print.scss" | toCSS }}
-    <link rel="preload" href="{{ $sass.Permalink }}" as="style">
     <link rel="stylesheet" href="{{ $sass.Permalink }}">
     <link rel="stylesheet" href="{{ $dark.Permalink }}" media="print" onload="this.media='screen and (prefers-color-scheme: dark)'">
     <link rel="stylesheet" href="{{ $print.Permalink }}" media="print">

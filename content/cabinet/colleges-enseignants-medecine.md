@@ -10,8 +10,8 @@ annees = "2023"
 sources = ["Colleges"]
 tags = []
 image = true
-imageSrc = "Illustration par pch.vector / Freepik"
-todo = "Collège Médical Français des Professeurs d'Anatomie, https://cncem.org/colleges/"
+imageSrc = "pch.vector / Freepik"
+todo = "Collège Médical Français des Professeurs d'Anatomie"
 +++
 
 Page mémo pour accéder à tous les polycopiés des Collèges des enseignants de médecine disponibles gratuitement, afin de rafraîchir certaines connaissances.

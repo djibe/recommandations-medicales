@@ -92,12 +92,13 @@ Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans
   2. Entrer les commandes suivantes: `Set-ExecutionPolicy Bypass -Scope Process -Force; iwr https://community.chocolatey.org/install.ps1 -UseBasicParsing | iex`
   3. Fermer la commande et la relancer
   4. `choco install git -y`
-  5. `choco install nodejs-lts --version=14.21.3 -y`
+  5. `choco install nvm -y`
   6. Fermer la commande et la relancer
   7. `git clone https://github.com/djibe/recommandations-medicales.git`
   8. puis placer la *Commande* dans le dossier `/recommandations-medicales`
-  9. puis `npm install`
-  10. puis `npm run start:dev`, le site est accessible sur `http://localhost:1313/`
+  9. puis `nvm install 14` et `nvm use 14`
+  10. puis `npm install`
+  11. puis `npm run start:dev`, le site est accessible sur `http://localhost:1313/`
 
 </details>
 
@@ -108,8 +109,8 @@ Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans
 
   1. `sudo apt install wget curl nodejs npm git-all golang-go -y`
   2. `wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash`
-  3. `wget https://github.com/gohugoio/hugo/releases/download/v0.112.7/hugo_extended_0.112.7_linux-amd64.deb`
-  4. `sudo dpkg -i hugo_extended_0.112.7_linux-amd64.deb`
+  3. `wget https://github.com/gohugoio/hugo/releases/download/v0.113.0/hugo_extended_0.113.0_linux-amd64.deb`
+  4. `sudo dpkg -i hugo_extended_0.113.0_linux-amd64.deb`
   5. Fermer le terminal
   6. Ouvrir le terminal et entrer: `nvm install 14`
   7. Positionner le terminal sur le dossier souhaité

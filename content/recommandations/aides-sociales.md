@@ -75,5 +75,3 @@ Ces aides à la prise en charge médicale et aux soins doivent être communiqué
 ## Réfugiés {.mt-5}
 
 [Le guide du réfugié (PDF)](https://leguidedurefugie.com/pdf/guide-du-refugie-version-fr.pdf)
-
-[Santé Publique France. Migrants/étrangers en situation précaire. Soins et accompagnement. 2015.](https://www.santepubliquefrance.fr/docs/migrants-etrangers-en-situation-precaire.-soins-et-accompagnement-edition-2015)

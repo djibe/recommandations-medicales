@@ -9,7 +9,7 @@ command = "hugo --cleanDestinationDir --gc --minify"
 NODE_VERSION = "16"
 
 [context.production.environment]
-HUGO_VERSION = "0.112.7"
+HUGO_VERSION = "0.113.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "false"
 NODE_ENV = "production"
@@ -18,20 +18,20 @@ NODE_ENV = "production"
 command = "hugo --gc --minify"
 
 [context.split1.environment]
-HUGO_VERSION = "0.112.7"
+HUGO_VERSION = "0.113.0"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
 command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.112.7"
+HUGO_VERSION = "0.113.0"
 
 [context.branch-deploy]
 command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.112.7"
+HUGO_VERSION = "0.113.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "false"

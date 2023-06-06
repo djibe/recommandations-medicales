@@ -178,9 +178,6 @@ document.addEventListener( 'DOMContentLoaded', event => {
   {{ end }}
 
   $(function() {
-    $('#modal-search').on('shown.bs.modal', function () {
-      $(this).find('[autofocus]').focus();
-    })
     $('[data-toggle="tooltip"]').tooltip({
       container: 'body',
       html: true,

@@ -293,7 +293,7 @@ Documents pour informer sur la vaccination:
 - {{< references/calendrier-vaccinal >}}
 - [Ministère de la Santé. La vaccination du nourrisson contre les rotavirus. Questions/Réponses pour les professionnels de santé. Novembre 2022.](https://sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-ps.pdf)
 - [Omedit Auvergne. Vaccination et Chimiothérapie. 22/07/2022.](https://www.omedit-auvergne-rhone-alpes.ars.sante.fr/vaccination-et-chimiotherapie)
-- [Décret 2022-610 pour la vaccination par les infirmiers et pharmaciens. Journal officiel. (PDF)](https://www.mesvaccins.net/textes/2022-04-21-JO-DECRET-2022-610.pdf)
+- [Décret 2022-610 pour la vaccination par les infirmiers et pharmaciens. Journal officiel.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045638858)
 - [Infovac](https://www.infovac.fr)
 - [Vaccination Info Service](https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Administration-des-vaccins)
 
