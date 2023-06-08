@@ -367,7 +367,7 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
 - Rechute: rassurer et déculpabiliser
 
 {{% /collapse %}}
-{{%collapse "A) Objectif: sevrage en alcool et maintien de l'abstinence" %}}
+{{%collapse "Objectif: sevrage en alcool et maintien de l'abstinence" %}}
 
 Le sevrage de l'alcool peut le plus souvent être un sevrage ambulatoire mais nécessite un suivi médical rapproché.
 
@@ -462,7 +462,7 @@ Autre médicament pour le maintien de l'abstinence:
 - Suivi 2/mois 1 mois, puis 1/mois 4 mois puis 2/an
 
 {{%/collapse%}}
-{{%collapse "B) Objectif: Réduction d'une consommation" %}}
+{{%collapse "Objectif: Réduction d'une consommation" %}}
 
 Rappel: Il est recommandé de **promouvoir l'abstinence** mais d'**accepter les objectifs de consommation du patient** s'il choisit une réduction de la consommation (idéalement à faible risque < 10 verres/semaine).  
 Toute réduction de consommation doit être valorisée par le médecin généraliste.

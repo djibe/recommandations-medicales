@@ -165,7 +165,7 @@ Antibiothérapies alternatives à partir de 15 ans:
 
 - Allergie vraie à la pénicilline
   - C2G céfuroxime-axétil 250 mg x 2/j pendant 4 jours
-  - ou C3G céfpodoxime-proxétil 100 mg x 2/j pendant 5 jours
+  - ou C3G céfpodoxime 100 mg x 2/j pendant 5 jours
   - ou C3G céfotiam-hexétil 200 mg x 2/j pendant 5 jours
 - Contre-indication aux bêtalactamines
   - macrolide azithromycine 500 mg 1 prise quotidienne pendant 3 jours  

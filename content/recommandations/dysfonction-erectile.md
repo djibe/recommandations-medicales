@@ -209,6 +209,7 @@ Rechercher des signes de [syndrome de Cushing]({{< relref "syndrome-cushing.md" 
 - Glycémie à jeun (sauf < 1 an) ou HbA<sub>1c</sub>
 - Bilan lipidique (sauf < 1 an)
 - PSA si > 50 ans (ou 45 si antécédents familiaux)
+- Ferritinémie (CNOM)
 - Diabète type 2: testostéronémie totale  
   Le matin entre 8h et 11h.
 {{%/info%}}

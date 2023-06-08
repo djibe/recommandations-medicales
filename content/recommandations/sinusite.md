@@ -168,8 +168,8 @@ En cas de pénurie, traitement différé si possible: Amoxicilline cp 1 g disper
 ##### Allergie à la pénicilline sans allergie céphalosporines
 
 - **Adulte:** Céfuroxime-axétil 250 mg x 2/j pendant 5 jours  
-  ou céfpodoxime-proxétil 200 mg x 2/j pendant 5 jours
-- **Enfant:** Cefpodoxime 4 mg/kg x 2/j pendant 8 jours
+  ou céfpodoxime 200 mg x 2/j pendant 5 jours
+- **Enfant:** Céfpodoxime 4 mg/kg x 2/j pendant 8 jours
 
 ##### Contre-indication aux bêtalactamines
 
@@ -191,7 +191,7 @@ Antibiotique de référence pour la prise en charge de la sinusite frontale:
 
 ##### Allergie à la pénicilline sans allergie céphalosporines (sinusite frontale)
 
-- **Adulte:** Cefpodoxime-proxétil 200 mg x 2/j pendant 5 jours  
+- **Adulte:** Céfpodoxime 200 mg x 2/j pendant 5 jours  
   ou céfuroxime-axétil 250 mg x 2/j pendant 5 jours
 - **Enfant:** Avis spécialisé
 
@@ -210,7 +210,7 @@ Antibiotique de référence pour la prise en charge de la sinusite sphénoïdale
 
 ##### Allergie à la pénicilline sans allergie céphalosporines (sphénoïdale ou ethmoïdite)
 
-- **Adulte:** céfpodoxime-proxétil 200 mg x 2/j pendant 5 jours  
+- **Adulte:** céfpodoxime 200 mg x 2/j pendant 5 jours  
   ou céfuroxime-axétil 250 mg x 2/j pendant 5 jours
 - **Enfant:** Avis spécialisé
 

@@ -304,7 +304,7 @@ Indications spécifiques au cours d'un épisode de bronchiolite:
   - Forme modérée avec SpO<sub>2</sub> ≤ 92%: cible > 92% éveil et 90% sommeil
   - Cardiopathie: cible habituelle ou > 92% par défaut
 - Discuter une antibiothérapie si:
-  fièvre ≥ 38,5°C pendant +48 heures, otite associée, pathologie pulmonaire ou cardiaque sous-jacente, foyer pulmonaire radiologiquement documenté, élévation de la CRP ou hyperleucocytose.
+  fièvre ≥ 38,5°C pendant +48 heures, [otite associée]({{< relref "otite-moyenne-aigue.md" >}}), pathologie pulmonaire ou cardiaque sous-jacente, foyer pulmonaire radiologiquement documenté, élévation de la CRP ou hyperleucocytose.
 
 ### Kinésithérapie respiratoire et bronchiolite
 

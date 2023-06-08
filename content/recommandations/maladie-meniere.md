@@ -40,7 +40,7 @@ Elle découle de modifications de l'endolymphe, touche toutes les populations, p
 
 {{%info%}}
 
-### Maladie de Menière définie
+### Critères diagnostiques de la Maladie de Menière définie
 
 Le diagnostic de maladie de Menière est certain devant l'association des 4 signes et symptômes suivants:
 

@@ -24,7 +24,7 @@ imageSrc = "Schéma des paquets hémorroïdaires. WikipedianProlific et Mikael H
 - Le diagnostic d'hémorroïdes est clinique
 - L'examen clinique vise à éliminer un diagnostic différentiel ([fissure anale]({{< relref "fissure-anale.md" >}}) ...)
 - Coloscopie après 50 ans ou en cas d'antécédents de cancer colorectal
-- La prise en charge des hémorroïdes est surtout symptomatique avec: lutte contre la constipation (laxatifs ispaghul, hydratation ...), topiques (non remboursés: corticoïdes ± anesthésiques, carraghénates), veinotoniques voire traitement instrumental. Ces traitements sont globalement aussi utiles pendant la grossesse ([le *CRAT*](http://lecrat.fr/spip.php?page=article&id_article=861))
+- La prise en charge des hémorroïdes est surtout symptomatique avec: lutte contre la constipation (laxatifs ispaghul, hydratation ...), topiques (non remboursés: corticoïdes ± anesthésiques, carraghénates), veinotoniques voire traitement instrumental. Ces traitements sont globalement aussi utiles pendant la grossesse ([*CRAT*](http://lecrat.fr/spip.php?page=article&id_article=861))
 - L'incision de la thrombose hémorroïdaire externe n'est pas systématique
 - Avis proctologique en cas d'hémorroïdes chroniques
 

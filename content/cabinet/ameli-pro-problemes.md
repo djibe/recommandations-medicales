@@ -33,7 +33,7 @@ Ameli Pro et tous les services en ligne proposant une connexion avec la carte CP
 
 <img src="/images/logos/atsam.webp" alt="Logo du logiciel ATSAM" loading="lazy" class="img-responsive" style="max-width: 100px">
 
-Le paquet ATSAM de l'Assurance Maladie installe: Cryptolib 5.1.9 ([Windows](https://www.diabeclic.com/daemonite/CryptolibCPS-5.1.9.exe) ou [Mac](https://www.diabeclic.com/daemonite/CryptolibCPS-5.1.19.dmg), certificats pour la carte à puce), SrvSVCNAM (connexion aux services Ameli Pro), AmeliPro Connect (voir plus bas) et DiagAM (diagnostic des erreurs de connexion aux services Ameli Pro).
+Le paquet ATSAM de l'Assurance Maladie installe: Cryptolib CPS 5.1.9 ([Windows](https://www.diabeclic.com/daemonite/CryptolibCPS-5.1.9.exe) ou [Mac](https://www.diabeclic.com/daemonite/CryptolibCPS-5.1.19.dmg), certificats pour la carte à puce), SrvSVCNAM (connexion aux services Ameli Pro), AmeliPro Connect (voir plus bas) et DiagAM (diagnostic des erreurs de connexion aux services Ameli Pro).
 
 Les fichiers mentionnés peuvent également être téléchargés depuis [la page dédiée d'Ameli Pro](https://espacepro.ameli.fr/inscription/#/aide) (ou Gestion du compte > Mon compte > Aide et configuration)
 {.alert .alert-info}

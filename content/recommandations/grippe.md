@@ -38,7 +38,7 @@ Maladie cardiovasculaire, risque d'infarctus du myocarde multiplié par 6-10 dan
 ### Complications de la grippe saisonnière
 
 - [Sinusite]({{< relref "sinusite.md" >}})
-- Otite moyenne aiguë
+- [Otite moyenne aiguë]({{< relref "otite-moyenne-aigue.md" >}})
 - Bronchite aiguë
 - [Pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}}) (grippale, pneumocoque, staphylocoque doré ou *Haemophilus*)
 - Extra-pulmonaire: myocardite, péricardite, encéphalite

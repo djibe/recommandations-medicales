@@ -6,7 +6,7 @@ description = ""
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2023-06-06"
+lastmod = "2023-06-08"
 annees = "2023"
 sources = ["Assurance Maladie"]
 tags = []
@@ -79,7 +79,7 @@ Cotations pour le petit enfant.
 
 ### Cotations des consultations de l'enfant {.typography-headline-5}
 
-Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de vie sont sur l'assurance *Maternité* avec pour date la date de naissance de l'enfant, tous les autres sont en *Maladie*.
+Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de vie sont sur l'assurance *Maternité* avec pour date de Maternité la date de naissance de l'enfant, tous les autres sont en *Maladie*.
 
 {{< table title="Cotations des consultations de l'enfant avant 6 ans" class="table-wrap" >}}
 | Code NGAP                                           | Description                                                                                                                            | Tarif (€) |
@@ -87,17 +87,15 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 | G + MEG                                             | Consultation avant 6 ans                                                                                                               |        30 |
 | VG + MEG + MD                                       | Visite avant 6 ans                                                                                                                     |        40 |
 | [COD]({{< relref "examens-suivi-nourrisson.md" >}}) | Examens à 13-14j, M1, M2, M3, M4, M5,<br> M6, M12, M13, M16-18, A3, A4, A5  (à 100%)                                                   |        30 |
-| COE*                                                | Examen obligatoire 8 jours, 9-10 mois<br> ou 24-25 mois (à 100%, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |        46 |
+| COE                                                 | Examen obligatoire 8 jours, 9-10 mois<br> ou 24-25 mois (à 100%, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |        46 |
 | CSO*                                                | Suivi 3-12 ans en obésité (max 2/an, à 100%)                                                                                           |        46 |
 | CSE*                                                | Suivi enfant autiste (1/an)                                                                                                            |        46 |
-| MPH                                                 | Remplissage du dossier MDPH                                                                                                            |        60 |
-| ASE                                                 | Enfant pris en charge par l'ASE                                                                                                        |        46 |
+| MPH*                                                | Remplissage du dossier MDPH                                                                                                            |        60 |
+| ASE*                                                | Enfant pris en charge par l'ASE                                                                                                        |        46 |
 {{< /table >}}
 
-Sur la feuille de soin papier écrire: CCX pour ASE, CSE ou CSO, CCE pour MPH
+\* Sur la feuille de soin papier écrire: CCX pour ASE, CSE ou CSO, CCE pour MPH
 {.alert .alert-info}
-
-TODO: cotation des COE
 
 ### Actes du généraliste avant 6 ans {.typography-headline-5}
 
@@ -146,7 +144,7 @@ Cotations NGAP disponibles en sus de la consultation ou de la visite.
 | + MIS        | Consultation initiale d'information cancer ou neurodégénératif                                                               |             30 |
 | + PIV        | Consultation initiale d'information VIH                                                                                      |             30 |
 | + MUT*       | RDV urgent obtenu avec un spécialiste sous 48h                                                                               |              5 |
-| + MRT* TODO: | Examen de son patient en urgence à la demande de la régulation                                                               |             15 |
+| + MRT*       | Examen de son patient en urgence à la demande de la régulation                                                               |             15 |
 | + SNP        | Examen dans les 48h à la demande du SAS                                                                                      |             15 |
 | + DE         | Acte non justifié, à déterminer avec "tact et mesure" (non remboursé)                                                        |          Libre |
 {{< /table >}}
