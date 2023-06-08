@@ -28,6 +28,7 @@ flowchart = true
   - Nourrisson de moins de 3 mois: avis hospitalier urgent
   - Nourrisson de 3 à 23 mois: antibiothérapie systématique par amoxicilline 80 mg/kg/j en 2 prises pendant 10 jours
   - À partir de 2 ans et chez l'adulte: antibiotique uniquement si symptômes sévères ou persistance des symptômes à 48-72 heures. L'antibiothérapie dure 5 jours (10 jours chez l'enfant si otorrhée ou récidive +4 jours après la fin des antibiotiques)
+  - Avis spécialisé en cas d'échec de la première ligne d'antibiotiques
 - La prévention de l'otite moyenne aiguë passe par les DRP et la vaccination anti-pneumoccique
 
 {{%/article-summary%}}
@@ -142,7 +143,7 @@ Si indication, antibiothérapie pendant **5 jours**:
 
 ### En cas d'échec de l'antibiothérapie à 48 heures
 
-Échec de l'antibiothérapie de l'otite moyenne (*GPIP 2016*)
+Échec de l'antibiothérapie de l'otite moyenne aiguë (*GPIP 2016*)
 :  
     - Persistance ou aggravation pendant l'antibiothérapie
     - ou réapparition des symptômes et des signes otoscopiques dans les 72 heures suivant son arrêt
