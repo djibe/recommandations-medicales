@@ -4172,7 +4172,6 @@ input:disabled + .chip {
   pointer-events: none;
   position: relative;
   width: calc(100% - 1rem * 2);
-  will-change: opacity, transform;
 }
 
 .modal.show .modal-dialog {

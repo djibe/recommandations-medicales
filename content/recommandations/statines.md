@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-17T13:36:17+01:00"
 publishdate = "2022-03-17"
 lastmod = "2023-04-21"
-specialites = ["therapeutique"]
+specialites = ["cardiologie", "therapeutique"]
 annees = "2022"
 sources = ["USPTF", "ESC"]
 tags = ["risque cardiovasculaire"]
@@ -58,7 +58,7 @@ Selon l'avis indépendant de la *USPTF 2022*, une statine est recommandée pour 
 - Adulte de 40 à 75 ans
 - Risque cardiovasculaire à 10 ans ≥ 10% (calcul du {{< scores/heartscore >}})  
   Pour certains patients si risque compris de 7,5 à 9,9%.
-- Avec ≥ 1 autre facteur de risque cardiovasculaire: dyslipidémie, [diabète](/tags/diabete/), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), [tabagisme]({{< relref "arret-tabac.md" >}})
+- Avec ≥ 1 autre facteur de risque cardiovasculaire: [tabac]({{< relref "arret-tabac.md" >}}), [diabète](/tags/diabete/), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), dyslipidémie
 
 La USPTF ajoute qu'il n'y a pas de bénéfice à initier une statine en prévention primaire à partir de 76 ans.
 
@@ -69,15 +69,17 @@ La USPTF ajoute qu'il n'y a pas de bénéfice à initier une statine en prévent
 
 Débuter un traitement par statine:
 
-- Contrôler le bilan lipidique 1-12 semaines après le bilan initial (sauf très haut risque ou syndrome coronarien aigu)
+- Affirmer la dyslipidémie avec un 2e bilan lipidique 1-12 semaines après le bilan initial (sauf très haut risque ou syndrome coronarien aigu)
 - Bilan pré-thérapeutique: ALAT, CPK  
   Ne pas démarrer si CPK > 4N (surveiller les CPK)
 - Contraception efficace
 - Surveiller
-  - Le bilan lipidique 4-12 semaines après chaque modification
+  - Le bilan lipidique 4-12 semaines après chaque modification (*ADA 2023*)
   - Les ALAT 8-12 semaines après chaque augmentation de posologie
   - Les CPK en cas de myalgies
-- Surveillance annuelle du LDL après atteinte de la cible
+
+Surveillance annuelle du LDL cholestérol après atteinte de la cible
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Statines et effets indésirables" %}}

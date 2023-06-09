@@ -184,6 +184,7 @@ graph TB
 ### À lire
 
 - {{< references/spilf-2020 >}}
+- [Bonnin A et al. Démarche diagnostique devant une neutropénie de l’adulte. Hématologie. 2019.](https://www.jle.com/fr/revues/hma/e-docs/demarche_diagnostique_devant_une_neutropenie_de_ladulte_314675/article.phtml)
 - [Donadieu J; SFP. Neutropénie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/hematologie/neutropenie)
 
 {{%/sources%}}

@@ -11,7 +11,22 @@
         <div class="modal-dialog" role="document">
           <div class="modal-content">
             <div>
-              <input class="form-search" id="search-input" placeholder="Rechercher" aria-label="Rechercher" type="search">
+              <input class="form-search" id="search-input" placeholder="Rechercher" aria-label="Rechercher" type="search" autocomplete="off">
+              <div id="search-loading">
+                <div class="progress-circular">
+                  <div class="progress-circular-wrapper">
+                    <div class="progress-circular-inner">
+                      <div class="progress-circular-left">
+                        <div class="progress-circular-spinner"></div>
+                      </div>
+                      <div class="progress-circular-gap"></div>
+                      <div class="progress-circular-right">
+                        <div class="progress-circular-spinner"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <div id="search-results"></div>
             </div>
           </div>

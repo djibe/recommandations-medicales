@@ -229,4 +229,8 @@ En l'absence d'orientation étiologique ou d'efficacité d'un traitement étiolo
 - [Spasovski G et al; ERBP. Clinical practice guideline on diagnosis and treatment of hyponatraemia. Nephrol Dial Transplant. 2014.](https://academic.oup.com/ndt/article/29/suppl_2/i1/1904943)
 - [Ichai C. Conduite à tenir devant une hyponatrémie. SFAR. 2009.](https://sfar.org/conduite-a-tenir-devant-une-hyponatremie/)
 
+### À lire
+
+[Adrogué HJ et al. Diagnosis and Management of Hyponatremia: A Review. JAMA. 2022.](https://jamanetwork.com/journals/jama/article-abstract/2794358)
+
 {{%/sources%}}
