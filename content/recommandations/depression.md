@@ -2,7 +2,7 @@
 title = "Dépression"
 prefix = "la "
 description = "TODO:"
-synonyms = ["Syndrome dépressif"]
+synonyms = ["Syndrome dépressif", "épisode dépressif caractérisé"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-14T20:15:23+02:00"
 publishdate = "2023-05-14"
@@ -22,14 +22,20 @@ todo = "MonParcoursPsy, quest ASQ, https://pharmacologie.sfpeada.fr/, https://on
 
 {{%article-summary%}}
 
+TODO:
 - Une psychothérapie est toujours associée
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
-Épisode dépressif caractérisé
-: Maladie psychiatrique fréquente (10% des 18-75 ans sur un an), pourvoyeuse de handicap avec lourd retentissement médico-économique et humain (risque suicidaire).
+Épisode dépressif caractérisé (DSM-5)
+: Dépression, ex << épisode dépressif majeur >>
+: Maladie psychiatrique fréquente (10% des 18-75 ans sur un an) à prédominance féminine (RR 1,5-3), pourvoyeuse de handicap avec lourd retentissement médico-économique et humain (**risque suicidaire**).
 : La définition est clinique: diminution pathologique de l'humeur (tristesse pathologique) et de l'énergie avec perturbations psychomotrices, physiologiques et psychoaffectives.
+: Il peut s'inscrire dans différentes pathologies psychiatriques (dépression isolée, trouble dépressif récurrent, trouble bipolaire) ou être accompagné d'un autre trouble psychiatrique (anxiété, addiction, schizophrénie).
+
+Trouble dépressif récurrent
+: Au moins 2 épisodes dépressifs caractérisés sans antécédent d'épisode (hypo)-maniaque.
 
 ### Épidémiologie de la dépression en France
 
@@ -42,9 +48,23 @@ ACP
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-- Anxiété (75%): échelle GAD-7
+Le premier épisode dépressif peut survenir à tout âge mais il survient plus souvent chez l'adulte jeune (25 ans).
+
+- Antécédents  
+  Dépressifs, hypomaniaques, anxiété.
+- Antécédents familiaux (psychiatriques)
+- Toxiques
+- Environnement socio-professionnel
+- Comorbidités
+  - Dépistage d'une anxiété (75%): échelle GAD-7
 
 ### Particularités de la dépression chez l'adolescent
+
+### Pour en savoir plus sur la dépression
+
+La survenue de la dépression est ubiquitaire (mondiale) et ne dépend pas du niveau d'éducation.
+
+#### Facteurs de risque de dépression
 
 {{% /collapse %}}
 {{%collapse "Échelles de dépression" %}}

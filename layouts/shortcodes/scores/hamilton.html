@@ -1,0 +1,58 @@
+<!-- TODO: CR, https://www.medsyn.fr/perso/g.perrin/cyberdoc/doc/Hamilton.htm, http://www.departement-information-medicale.com/wp-content/uploads/2010/09/ECHELLE-DE-DEPRESSION-DE-HAMILTON.pdf -->
+<div class="mt-4" id="score-hamilton">
+  <p>Échelle de dépression de Hamilton (<dfn><abbr title="Hamilton Rating Scale for Depression" lang="en">HRSD, HDRS ou HAM-D</abbr></dfn>) pour le dépistage d'une dépression.</p>
+  <fieldset>
+    <legend>A. La personne est-elle dans un état de tristesse, d'impuissance, d'auto dépréciation&nbsp;?</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-11" name="radio-hamilton-1" class="custom-control-input" value="0" required>
+      <label for="hamilton-11" class="custom-control-label">Non</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-12" name="radio-hamilton-1" class="custom-control-input" value="1">
+      <label for="hamilton-12" class="custom-control-label">Oui. Etats affectifs signalés uniquement si on l'interroge (ex. pessimisme, sentiment d'être sans espoir)</label>
+    </div>
+    <input type="radio" id="hamilton-13" name="radio-hamilton-1" class="d-input-none" value="2">
+    <label for="hamilton-13" class="chip chip-action chip-sm chip-choice">Je me sens tout le temps cafardeux ou triste, et je n'arrive pas à en sortir</label>
+    <input type="radio" id="hamilton-14" name="radio-hamilton-1" class="d-input-none" value="3">
+    <label for="hamilton-14" class="chip chip-action chip-sm chip-choice">Je suis si triste et si malheureux, que je ne peux pas le supporter</label>
+  </fieldset>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline score-output-title">Score Hamilton</p>
+      <output class="score-output" id="hamiltonScore">0</output>
+    </div>
+    <p id="hamiltonText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</div>
+<blockquote class="blockquote my-4">
+  <p class="mb-0"><a href="" rel="external nofollow noopener">TODO:</a></p>
+</blockquote>
+{{ $script := `
+  // Score Hamilton FR by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreHamilton = document.getElementById('hamiltonScore')
+    const textHamilton = document.getElementById('hamiltonText');
+    [...document.querySelectorAll('#score-hamilton input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcHamilton() ) })
+    const calcHamilton = () => {
+      let scoreAnxiete = 0
+      const anxieteElems = document.querySelectorAll('#score-hamilton .anxiete:checked')
+      if (anxieteElems.length + depressionElems.length === 14) {
+        anxieteElems.forEach(anxieteElem => { scoreAnxiete += parseInt(anxieteElem.value, 10) })
+        depressionElems.forEach(depressionElem => { scoreDepression += parseInt(depressionElem.value, 10) })
+        scoreHamilton.innerHTML = scoreAnxiete + scoreDepression
+        textHamilton.innerHTML = 'Anxiété: ' + beckExplain(scoreAnxiete) + '<br>Dépression: ' + beckExplain(scoreDepression)
+      }
+    }
+    const beckExplain = (score) => {
+      let explain = '';
+      if (score <= 7) {
+        explain = 'absence (' + score + ' pts)'
+      } else if (score >= 8 && score <= 10) {
+        explain = 'doute (' + score + ' pts)'
+      } else if (score >= 11) {
+        explain = 'certaine (' + score + ' pts)'
+      }
+      return explain;
+    }
+  })` }}
+<script type="module">{{ $script | safeJS }}</script>
