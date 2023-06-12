@@ -10,7 +10,7 @@ lastmod = "2023-05-14"
 specialites = ["psychiatrie"]
 annees = "2023"
 sources = ["ACP"]
-tags = []
+tags = ["depression"]
 anglais = ["Depression", "major depressive disorder (MDD)"]
 sctid = "35489007"
 icd10 = "F32.9"
@@ -112,6 +112,7 @@ Cotation TODO:
 - [McQuaid JR et al. The Management of Major Depressive Disorder: Synopsis of the 2022 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline. Ann Intern Med. 2022.](https://pubmed.ncbi.nlm.nih.gov/36122380/)
 - Psychiaclic
 - Chevance A. En finir avec les idées fausses sur la psychiatrie et la santé mentale
+- [Vita G et al. Antidepressants for the treatment of depression in people with cancer. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011006.pub4/full/fr)
 
 {{%/sources%}}
 {{% modal title="Score PHQ-9" id="modal-phq9"%}}

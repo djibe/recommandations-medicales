@@ -170,7 +170,7 @@ Rechercher une fibromyalgie en cas de douleur chronique.
 - Retentissement: SF-12, [FIQR](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2745803/bin/ar2783-S1.pdf)
 - Diagnostic différentiel
   - Endocrinopathie  
-    [Hypothyroïdie]({{< relref "hypothyroidie.md" >}}), hyperthyroïdie, hyperparathyroïdie, ostéomalacie, diabète phosphoré.
+    [Hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}), hyperparathyroïdie, ostéomalacie, diabète phosphoré.
   - Rhumatisme  
     [Spondyloarthrite axiale]({{< relref "spondylarthrite-ankylosante.md" >}}), [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}) (PR), lupus, syndrome de Gougerot-Sjögren.
   - Iatrogénie  

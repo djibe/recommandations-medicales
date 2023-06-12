@@ -40,7 +40,7 @@ Nausées et vomissements gravidiques
 Hyperémèse gravidique (HG, hyperemesis gravidarum)
 : Nausées et vomissements gravidiques sévères avec au moins un critère parmi: amaigrissement ≥ 5%, signe de déshydratation, {{< modal-btn modal-puqe >}}score PUQE ≥ 7{{< /modal-btn >}}.
 : L'origine de l'hyperémèse gravidique est mal comprise. Elle est un facteur de risque de naissance prématurée et de petit poids de naissance. Pour la mère, risque de troubles ioniques et carentiels à l'origine d'une encéphalopathie de Gayet-Wernicke ainsi qu'un retentissement psychiatrique pouvant persister (stress, troubles anxio-dépressifs, idées suicidaires, stress post-traumatique). Risque de récidive de 15-81%.
-: **Diagnostic différentiel**: [hépatite](/tags/hepatite/), pancréatite, [appendicite]({{< relref "appendicite-aigue.md" >}}), [pyélonéphrite]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), torsion de l'ovaire, hyperthyroïdie.
+: **Diagnostic différentiel**: [hépatite](/tags/hepatite/), pancréatite, [appendicite]({{< relref "appendicite-aigue.md" >}}), [pyélonéphrite]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), torsion de l'ovaire, [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}).
 
 ### Abréviations
 

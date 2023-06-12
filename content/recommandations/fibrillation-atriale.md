@@ -117,7 +117,7 @@ Inhibiteurs calciques non dihydropyridiniques: diltiazem ou vérapamil.
   - [Apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
   - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
   - Insuffisance respiratoire
-  - Maladie inflammatoire, hyperthyroïdie
+  - Maladie inflammatoire, [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
 - Pathologie aiguë
   - Infection, chirurgie
   - Hypokaliémie

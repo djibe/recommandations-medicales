@@ -88,7 +88,7 @@ La présentation du tableau faisant découvrir la neutropénie guide l'enquête 
 - Hypersplénisme
 - Hémopathies malignes
 - Endocrinopathie  
-  Hyperthyroïdie, [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), insuffisance surrénalienne, panhypopuitiatisme.
+  [Hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), insuffisance surrénalienne, panhypopuitiatisme.
 - Autres causes de neutropénie
   - Carences (vitamine B9, B12, fer), cuivre (nutrition parentérale prolongée, diarrhée chronique)
   - Troubles de la répartition des PNN

@@ -13,7 +13,7 @@ lastmod = "2022-03-29"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["ESsCD", "HAS", "SNFGE"]
-tags = ["allergie", "cephalees", "coeliaque", "depistage", "EOGD", "fatigue", "ferritine", "neuropathie", "TSH"]
+tags = ["allergie", "cephalees", "coeliaque", "depistage", "depression", "EOGD", "fatigue", "ferritine", "neuropathie", "TSH"]
 anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac gluten sensitivity (NCGS) and extra-intestinal manifestations related to gluten)", "celiac"]
 sctid = "396331005"
 icd10 = "K90.0"
@@ -144,10 +144,10 @@ ou maladie de Basedow
 - Œsophagite à éosinophiles
 - Neuropathie
 - Ataxie
-- Dépression
-- Asthénie
+- [Dépression](/tags/depression/)
+- [Asthénie](/tags/fatigue/)
 - Petite taille
-- Pathologie osseuse: Ostéomalacie, ostéoporose
+- Pathologie osseuse: ostéomalacie, [ostéoporose]({{< relref "osteoporose.md" >}})
 - Transaminases élevées
 - Complications gravidiques
 - Lymphome du grêle

@@ -197,9 +197,9 @@ Le diagnostic est clinique (voir *Définitions*).
 
 Diagnostics à évoquer devant des sueurs et des cycles irréguliers:
 
-- Hyperthyroïdie
+- [Hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
 - Hyperprolactinémie
-- Grossesse
+- [Grossesse]({{< relref "grossesse.md" >}})
 
 ### Bouffées vasomotrices atypiques
 

@@ -11,7 +11,7 @@ lastmod = "2023-05-30"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["PNDS"]
-tags = ["cephalees", "diabete", "HTA", "obesite", "risque cardiovasculaire", "SAS"]
+tags = ["cephalees", "depression", "diabete", "HTA", "obesite", "risque cardiovasculaire", "SAS"]
 anglais = ["Cushing syndrome", "adrenal Cushing's syndrome"]
 sctid = "237735008"
 icd10 = "E24.9"
@@ -89,7 +89,7 @@ Situations où il faut **rechercher des signes spécifiques** de syndrome de Cus
 - Prise de poids, obésité
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) du sujet jeune ou résistante au traitement
 - [Diabète de type 2]({{< relref "diabete-type-2.md" >}}) avec syndrome plurimétabolique ou déséquilibré sans cause évidente
-- Dépression, trouble de l'humeur, anxiété ou trouble psychiatrique atypique résistant aux antidépresseurs
+- [Dépression](/tags/depression/), trouble de l'humeur, anxiété ou trouble psychiatrique atypique résistant aux antidépresseurs
 - Spanioménorrhée ou aménorrhée secondaire avec obésité ou [hirsutisme]({{< relref "hirsutisme.md" >}})
 - Enfant: retard de croissance
 

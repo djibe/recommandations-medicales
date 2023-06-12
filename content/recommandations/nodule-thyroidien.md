@@ -30,6 +30,8 @@ todo = "relecture demandée F. Menegaux, SEO nodule thyroidien > nodule thyroide
 - Surveillance des nodules EU-TIRADS 2-3-4 ou Bethesda II: échographie à 1-2 ans puis 2-4 ans plus tard puis tous les 4-5 ans
 - La prise en charge du nodule thyroïdien chez l'enfant et pendant la grossesse relève du spécialiste (TSH + échographie systématique)
 
+Chapitre lié: [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
+
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
@@ -154,7 +156,7 @@ Bilan biologique d'un nodule thyroïdien: TSH seule en première intention
 
 Confirmation d'une anomalie par un 2<sup>e</sup> prélèvement puis exploration en parallèle de la [dysthyroïdie](/tags/tsh/).
 
-5 à 10% des nodules de la thyroïde sont secrétant (nodules dits **autonomes** ou toxiques, ils ont un **très faible risque de malignité**) avec une hyperthyroïdie le plus souvent infraclinique.
+5 à 10% des nodules de la thyroïde sont secrétant (nodules dits **autonomes** ou toxiques, ils ont un **très faible risque de malignité**) avec une [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}) le plus souvent infraclinique.
 
 ### Échographie thyroïdienne
 

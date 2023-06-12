@@ -10,7 +10,7 @@ lastmod = "2023-04-17"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["HAS", "SFE"]
-tags = ["coeliaque", "fatigue", "TSH", "vertige"]
+tags = ["coeliaque", "depression", "fatigue", "TSH", "vertige"]
 anglais = ["Hypothyroidism"]
 sctid = "40930008"
 icd10 = "E03.9"
@@ -165,7 +165,7 @@ Recherche une hypothyroïdie en cas de signes non spécifiques associés à:
 
 - Amiodarone, lithium
 - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
-- Dépression inexpliquée
+- [Dépression inexpliquée](/tags/depression/)
 - Démence inexpliquée
 - AEG inexpliquée
 - Hypercholestérolémie inexpliquée
@@ -211,7 +211,7 @@ Aucun autre examen chez la personne âgée
 
 #### Cas particuliers
 
-- Hypothyroïdie dans les suites du traitement d'une hyperthyroïdie: T4L basse avec une TSH qui peut rester basse/effondrée quelques semaines à quelques mois
+- Hypothyroïdie dans les suites du traitement d'une [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}): T4L basse avec une TSH qui peut rester basse/effondrée quelques semaines à quelques mois
 - TSH élevée de façon isolée: artefact ou [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
 - TSH normale ou diminuée et T4L basse: possible hypothyroïdie centrale par maladie générale sévère (syndrome de basse T4), perfusion de dopamine/dobutamine, corticoïdes à doses massives/Cushing sévère, dépression, grossesse
 - TSH basse et T4L basse: traitement par **carbamazépine** (Tegretol®), **phénytoïne**

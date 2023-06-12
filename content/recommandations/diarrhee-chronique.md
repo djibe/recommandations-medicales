@@ -84,7 +84,7 @@ Rechercher à l'examen les arguments en faveur des causes suivantes de diarrhée
 - Inflammation intestinale (colite ulcéreuse ou microscopique, MICI)
 - [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})
 - Iatrogénie  
-  Antibiotique, anti-inflammatoires AINS, magnésium, IEC, olmésartan, metformine - iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.
+  Antibiotique, AINS, magnésium, IEC, olmésartan, metformine - iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.
 - Cause sécrétoire
 - Diarrhée fonctionnelle
 
@@ -97,7 +97,7 @@ Rechercher à l'examen les arguments en faveur des causes suivantes de diarrhée
 - Pancréatite chronique
 - Entérocolite radique
 - [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}})
-- Hyperthyroïdie
+- [Hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
 - [Diabète](/tags/diabete/)
 - Giardiase ou autre
 - Mucoviscidose

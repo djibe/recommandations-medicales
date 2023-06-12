@@ -176,12 +176,12 @@ Indications à l'ostéodensitométrie:
 - Au moins 1 facteur de risque d'ostéoporose parmi:
   - Corticothérapie systémique ≥ 7,5 mg/j d'éq. prednisone ≥ 3 mois consécutifs
   - Hypogonadisme prolongé
-  - Hyperthyroïdie évolutive non traitée
+  - [Hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}) évolutive non traitée
   - Hypercorticisme endogène
   - Hyperparathyroïdie primitive
   - Ostéogenèse imparfaite
   - Chutes répétées
-  - VIH
+  - [VIH]({{< relref "vih-sida.md" >}})
   - Maladie pulmonaire chronique, BPCO stade > 1
   - Rhumatisme inflammatoire chronique
 - Suivi après 2-3 ans de traitement

@@ -212,8 +212,10 @@ Réévaluation du traitement à chaque consultation:
 
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (réduit la mortalité de 36%)
 - Réduction de l'alcool à moins de 10 verres par semaine
+- Statine systématique
+  - {{< modal-btn modal-rcv >}}LDL < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (< **0,55** si stent, sténose à l'imagerie ou événement CV)
+  - [Ézétimibe](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63964962&typedoc=R) ou [évolocumab SC](https://ec.europa.eu/health/documents/community-register/2023/20230130158320/anx_158320_fr.pdf) (Repatha®), [alirocumab SC](https://ec.europa.eu/health/documents/community-register/2022/20221216158063/anx_158063_fr.pdf) (Praluent®) si cible non atteinte
 - Si HTA: [pression artérielle cible < 130/80 mmHg]({{< relref "hypertension-arterielle.md" >}})
-- {{< modal-btn modal-rcv >}}LDL cible (< 0,55 g/L et réduction de 50%){{< /modal-btn >}}
 - Correction d'un surpoids et d'une obésité abdominale
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Limiter les apports en sel à 5-6 g/j
@@ -239,9 +241,6 @@ Mesures spécifiques pour la prise en charge de la cardiopathie ischémique stab
   - Clopidogrel 75 mg/j si intolérance, [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) ou [AIC/AIT]({{< relref "accident-vasculaire-cerebral.md" >}})
   - Voire bi-antithrombotique si haut risque ischémique (score Precise-DAPT)
   - IPP si haut risque de saignement (à venir: *ESC DAPT*)
-- Statine systématique
-  - {{< modal-btn modal-rcv >}}LDL < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (< 0,55 si sténose à l'imagerie ou événement CV)
-  - [Ézétimibe](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63964962&typedoc=R) ou [évolocumab SC](https://ec.europa.eu/health/documents/community-register/2023/20230130158320/anx_158320_fr.pdf) (Repatha®), [alirocumab SC](https://ec.europa.eu/health/documents/community-register/2022/20221216158063/anx_158063_fr.pdf) (Praluent®) si cible non atteinte
 - [Vaccination grippe]({{< relref "grippe.md" >}})
 - Prise en charge psychologique  
   Dont thérapie cognitive et comportementale (TCC) pour accompagner le changement de mode de vie.

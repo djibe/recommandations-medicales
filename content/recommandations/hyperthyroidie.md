@@ -2,40 +2,47 @@
 title = "Hyperthyroïdie et maladie de Basedow"
 prefix = "l'"
 titleSeo = "Hyperthyroïdie maladie Basedow"
-description = "TODO:"
+longHtml = true
+description = "Recommendations pour la prise en charge de l'hyperthyroïdie et la maladie de Basedow. TSH, T4L, indication à l'échographie, aux antithyroïdiens, chirurgie"
 synonyms = ["Maladie de grave"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-14T14:41:39+02:00"
-publishdate = "2023-04-17"
-lastmod = "2023-04-17"
+publishdate = "2023-06-12"
+lastmod = "2023-06-12"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["HAS", "ETA"]
-tags = ["dyspnee", "fatigue", "HTA", "prurit", "TSH"]
+tags = ["depression", "dyspnee", "fatigue", "HTA", "prurit", "TSH"]
 anglais = ["Hyperthyroidism", "Graves' hyperthyroidism", "Graves' disease (GD)", "Basedow disease"]
 sctid = "34486009"
 icd10 = "E05.9"
 draft = true
 image = true
 imageSrc = "Scintigraphie thyroïdienne avec hyperfixation diffuse typique de maladie de Basedow chez un jeune homme de 20 ans ayant perdu 20 kg en 2 mois. Cas d'Ammar Ashraf, Radiopaedia.org, rID: 156767"
-todo = "summary, liens, https://www.youtube.com/watch?v=r6H9DsSt1Fc&list=PLQ7VKbZf6mU4GgyastgaIHeSV_pyIvKIR&index=7"
+todo = "Radioprotection 131I"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-TODO:
+- Rechercher une hyperthyroïdie en cas de: tachycardie, nervosité, dépression inexpliquée, fatigue, amaigrissement ...
+- Le diagnostic d'hyperthyroïdie est biologique: TSH effondrée (< 0,1 mUI/L) avec T4L augmentée (ou T3L), doser les TRAK (pas d'autres anticorps) puis avis endocrinologique
+- En cas de TSH comprise de 0,1 à 0,4 mUI/L à 2 reprises avec T4L et T3L normales: hyperthyroïdie fruste avec suivi de la TSH tous les 6-12 mois (traitement envisagé en cas de comorbidités ou symptômes)
+- Indications à l'échographie thyroïdienne: TRAK-, nodule thyroïdien, adénopathie cervicale. Scintigraphie si TRAK-.
+- Prise en charge initiale de l'hyperthyroïdie par antithyroïdiens de synthèse (ATS) pour restaurer l'euthyroïdie puis décision partagée, souvent: maladie de Basedow avec ATS, adénome toxique (AT) ou goitre multinodulaire toxique (GMNT) par irathérapie, chirurgie si goitre compressif, nodule suspect, contre-indication au traitement de référence
+- Surveillance spécifique de chaque traitement curatif
+- Avis endocrinologique avec bilan de moins de 3 mois: hyperthyroïdie avérée, chez l'enfant ou projet de grossesse ou enceinte, discussion de traitement radical, HT à la Cordarone
 
-Chapitre lié: [nodule thyroïdien]({{< relref "nodule-thyroidien.md" >}}) et [hypothyroïdie]({{< relref "hypothyroidie.md" >}})
+Chapitres liés: [nodule thyroïdien]({{< relref "nodule-thyroidien.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Hyperthyroïdie
 : Dysfonctionnement thyroïdien consistant en une sécrétion excessive d'hormones thyroïdiennes atteignant principalement les femmes (7/1). Le syndrome de **thyrotoxicose** est la conséquence clinique de l'excès d'hormones thyroïdiennes dans les tissus cibles.
-: 70% des hyperthyroïdies sont dues à la **maladie de Basedow**, suivie par les goitre multinodulaire toxique (GMNT) et l'adénome toxique (AT) dont la prévalence augmente avec l'âge. Ces 2 derniers ne nécessitent toujours un traitement radical et peuvent être révélés de façon brutale par une cardiothyréose après injection de produit de contraste iodé.  
+: 70% des hyperthyroïdies sont dues à la **maladie de Basedow**, suivie par les **goitre multinodulaire toxique** (GMNT) et l'**adénome toxique** (AT) dont la prévalence augmente avec l'âge. Ces 2 derniers ne nécessitent pas toujours un traitement radical et peuvent être révélés de façon brutale par une cardiothyréose après injection de produit de contraste iodé.  
 La *thyrotoxicose gestationnelle* survient durant 2% des grossesses.
-: L'hyperthyroïdie centrale (ex adénome thyréotrope) est rare.
+: L'hyperthyroïdie centrale (*ex* adénome thyréotrope) est rare.
 
 Hyperthyroïdie avérée
 : La définition est biologique: TSH basse (inférieure à l'intervalle du laboratoire), souvent indétectable avec T4L élevée.
@@ -53,7 +60,7 @@ Maladie de Basedow
 
 ### Dosage de la TSH en cascade
 
-Dosages de la TSH << en cascade >> : les hormones thyroïdiennes ne sont dosées qu'en cas d'anomalie de la TSH pour limiter les prélèvements. Préciser sur l'ordonnance de TSH s'il s'agit d'un dépistage ou d'un suivi sous traitement.
+Les hormones thyroïdiennes ne sont dosées qu'en cas d'anomalie de la TSH pour limiter les prélèvements. Préciser sur l'ordonnance de TSH s'il s'agit d'un *dépistage* ou d'un *suivi sous traitement*.
 
 Si la TSH est effondrée d'emblée (< 0,1 mUI/L), la T4L est réalisée sur le même tube par le biologiste. En cas de valeur normale, c'est la T3L qui sera dosée sur le même tube.
 
@@ -73,6 +80,9 @@ GMNT
 
 HAS
 : Haute Autorité de Santé
+
+OB
+: orbitopathie basedowienne
 
 PTU
 : propylthiouracile
@@ -94,16 +104,16 @@ L'examen clinique recherche les éléments du syndrome de thyrotoxicose.
   Iode 131, thyroïdectomie partielle, douleurs cervicales récentes.
 - Antécédents familiaux (thyroïdiens et auto-immuns ++)
 - Tabagisme
-- Traitements
+- Traitements  
   Lévothyroxine, amiodarone, lithium, IFNa, inhibiteurs tyrosine kinase, iode 131, scanner injecté.
 - Auto-médication, compléments alimentaires
 - Symptômes de la thyrotoxicose (listés par prévalence selon *CEEDMM*)
   - Date d'apparition
   - **Tachycardie de repos**(96%), hypertension artérielle
-  - **Nervosité**, anxiété, irritabilité, agitation
+  - **Nervosité**, anxiété, irritabilité, agitation, anxiété ou [dépression inexpliquée](/tags/depression/)
   - [Asthénie](/tags/fatigue/), troubles du sommeil
   - Palpitations
-  - Amaigrissement avec polyphagie (voire [dénutrition]({{< relref "denutrition.md" >}}))
+  - Amaigrissement avec hyperphagie (voire [dénutrition]({{< relref "denutrition.md" >}}))
   - Thermophobie
   - Hypersudation
   - Tremblement des extrémités (fin et régulier)
@@ -116,20 +126,20 @@ L'examen clinique recherche les éléments du syndrome de thyrotoxicose.
 - Signes d'hyperthyroïdie chez l'enfant:
   - Avance staturale et de la maturation osseuse
   - Hyperactivité avec retentissement scolaire
-- Complications
-  - Signes de compression  
+- Complications de l'hyperthyroïdie
+  - Signes de compression cervicale  
     Dyspnée laryngée, dysphagie, dysphonie, troubles de la déglutition.
   - [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) (10%)
   - Orbitopathie basedowienne  
-    Rétraction palpébrale avec œdème, asynergie oculo-palpébrale, hyperhémie conjonctivale avec larmoiement, chémosis (œdème de la conjonctive), photophobie, exophtalmie, diplopie
+    Rétraction palpébrale avec œdème, asynergie oculo-palpébrale, hyperhémie conjonctivale avec larmoiement, chémosis (œdème de la conjonctive), photophobie, exophtalmie, diplopie.
 
 L'urgence vitale est la **crise aiguë thyrotoxique** survenant après thyroïdectomie sans traitement antithyroïdien préalable
 {.alert .alert-warning}
 
 ### Examen clinique
 
-- Poids, taille, IMC, variations
-- Pression artérielle, fréquence cardiaque er rythme
+- Poids, taille, IMC et variations
+- Pression artérielle, fréquence cardiaque et rythme
 - Examen cardiovasculaire  
   Éréthisme voire souffle systolique.
 - Palpation thyroïdienne  
@@ -139,21 +149,10 @@ L'urgence vitale est la **crise aiguë thyrotoxique** survenant après thyroïde
 - Examen neuromusculaire
 
 {{% /collapse %}}
-{{%collapse "Critères d'hospitalisation pour hyperthyroïdie" %}}
-
-{{%warning%}}
-
-### Critères d'hospitalisation en urgence pour hyperthyroïdie
-
-- Crise aiguë thyrotoxique
-- Cardiothyréose chez le sujet âgé cardiopathe
-- Orbitopathie maligne TODO:
-- [Dénutrition sévère]({{< relref "denutrition.md" >}}) du sujet âgé  
-  IMC < 20, amaigrissement ≥ 10% en 1 mois (15% en 6 mois ou par rapport au début de la maladie) ou albuminémie < 30 g/L.
-{{%/warning%}}
-
-{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
+
+Le diagnostic d'hyperthyroïdie nécessite l'avis de l'endocrinologue (avec un biologique de moins de 3 mois)
+{.alert .alert-info}
 
 ### Bilan biologique de l'hyperthyroïdie
 
@@ -164,47 +163,43 @@ Indications au dosage de la TSH:
 
 - Symptômes évocateurs d'hyperthyroïdie
 - Symptômes non spécifiques avec:
-  - Antécédent personnel de maladie de Basedow ou auto-immuns (ex: diabète type 1)
+  - Antécédent personnel de maladie de Basedow ou auto-immuns (ex: [diabète type 1]({{< relref "diabete-type-1.md" >}}))
   - Antécédents familiaux thyroïdiens
-  - Anxiété ou dépression inexpliquée
+  - Anxiété ou [dépression inexpliquée](/tags/depression/)
 - Diagnostic de [fibrillation atriale (ACFA)]({{< relref "fibrillation-atriale.md" >}})
 - Traitement par amiodarone (voir ACFA ci-dessus) ou lithium
 - Syndrome de Turner, trisomie 21: TSH annuelle
-- [Grossesse]({{< relref "grossesse.md" >}}) / désir de grossesse avec {{< modal-btn modal-fdr-hypothyroidie >}}facteur de risque d'hypothyroïdie{{< /modal-btn >}}
+- [Grossesse]({{< relref "grossesse.md" >}}) ou désir de grossesse avec {{< modal-btn modal-fdr-hypothyroidie >}}facteur de risque d'hypothyroïdie{{< /modal-btn >}}
 
 > En cas de suspicion clinique très forte d'hyperthyroïdie malgré une TSH normale, la T4L peut être dosée pour rechercher une exceptionnelle hyperthyroïdie centrale.
 
 #### Conduite à tenir devant une TSH basse
 
-Doser la T3L ET la T4L en cas de traitement par amiodarone (Cordarone® ou autre)
+Des anticorps anti-récepteur de la TSH (TRAK) positifs lors d'une hyperthyroïdie avérée signent une maladie de Basedow
 {.alert .alert-info}
 
-TSH < 0,1 mUI/L: T4L puis ...
+TSH < 0,1 mUI/L, doser la T4L et prise en charge recommandée:
 
 - T4L augmentée: hyperthyroïdie avérée, doser les **anticorps anti-récepteur de la TSH (TRAK)**
 - T4L normale: T3L  
   - Si T3L augmentée: hyperthyroïdie à T3L
-  - Si T3L normale: voir plus bas *Autres causes de TSH basse isolée*
+  - Si T3L normale: voir plus bas *[Autres causes de TSH basse isolée](#autres-causes-de-tsh-basse-isolée)*
 
 TSH de 0,1 à 0,4 mUI/L: TSH puis T4L ± T3L << en cascade >> à 6 semaines puis ...
 
-- TSH normale: euthyroïdie (sauf T4L élevée: évoquer hyperthyroïdie centrale)
+- TSH normale: euthyroïdie (sauf T4L élevée: avis spécialisé pour suspicion d'hyperthyroïdie centrale)
 - TSH basse
   - Thyroïde douloureuse: thyroïdite subaiguë de De Quervain probable
   - T4L élevée: hyperthyroïdie avérée
   - T4L normale et T3L augmentée: hyperthyroïdie à T3L
-  - T4L et T3L normales: hyperthyroïdie fruste ou autre cause de TSH basse (voir chapitre suivant)
+  - T4L et T3L normales: hyperthyroïdie fruste ou autre cause de TSH basse (voir *[chapitre dédié](#prise-en-charge-de-lhyperthyroïdie-fruste-b)*)
 
-Des anticorps anti-récepteur de la TSH (TRAK) positifs lors d'une hyperthyroïdie avérée signent une maladie de Basedow
+Doser la T3L et la T4L en cas de traitement par amiodarone (Cordarone® ou autre)
 {.alert .alert-info}
-
-Avis spécialisé en cas de TSH normale avec T4L élevée (hyperthyroïdie centrale).
-
-Ajouter une NFS pré-thérapeutique en l'absence de mesure récente. HCG TODO:
 
 ##### Autres causes de TSH basse isolée
 
-Causes extrathyroïdiennes de TSH basse isolée:
+Causes extra-thyroïdiennes de TSH basse isolée:
 
 - Pathologie aiguë ou sévère
 - Traitement par corticoïdes, analogues de somatostatine ou dopamine
@@ -232,7 +227,7 @@ Seule la thyroglobuline sérique peut être utile en cas de suspicion d'hyperthy
 
 Indications à l'échographie de la thyroïde:
 
-- TRAK négatifs (sauf thyroïdite de De Quervain typique)
+- Hyperthyroïdie avec TRAK négatifs (sauf thyroïdite de De Quervain typique)
 - [Nodule de la thyroïde]({{< relref "nodule-thyroidien.md" >}})
 - Adénopathie cervicale
 - Avant traitement radical (chirurgie ou irathérapie)
@@ -241,16 +236,68 @@ Indications à l'échographie de la thyroïde:
 
 Indications à la scintigraphie de la thyroïde (en l'absence de grossesse):
 
-- TRAK négatifs (sauf thyroïdite de De Quervain)
+- Hyperthyroïdie avérée avec TRAK négatifs (sauf thyroïdite de De Quervain)
 - Avant irathérapie
 
 Sinon l'échodoppler thyroïdien est le seul examen à réaliser.
 
 ### Avis ophtalmologique
 
-Avis ophtalmologique dès la moindre suspicion d'orbitopathie en cas d'hyperthyroïdie avérée.
+Avis ophtalmologique dès la moindre suspicion d'orbitopathie:
 
-TODO: Adresser avec un bilan biologique de moins de 3 mois
+- Douleurs rétro-orbitaires
+- Diplopie
+- Exophtalmie, rétraction palpébrale importante
+- Œdème, rougeur palpébrale ou conjonctivale
+
+{{%warning%}}
+Avis ophtalmologique urgent si:
+
+- Dyschromatopsie
+- Baisse d'acuité visuelle
+- Exophtalmie irréductible
+{{%/warning%}}
+
+{{% /collapse %}}
+{{%collapse "Critères d'hospitalisation pour hyperthyroïdie" %}}
+
+{{%warning%}}
+
+### Critères d'hospitalisation en urgence pour hyperthyroïdie
+
+- Crise aiguë thyrotoxique
+- Cardiothyréose chez le sujet âgé avec cardiopathie
+- Orbitopathie sévère (ou maligne)  
+  Baisse de l'acuité visuelle, dyschromatopsie, subluxation oculaire ou inocclusion palpébrale.
+- [Dénutrition sévère]({{< relref "denutrition.md" >}}) du sujet âgé  
+  IMC < 20, amaigrissement ≥ 10% en 1 mois (15% en 6 mois ou par rapport au début de la maladie) ou albuminémie < 30 g/L.
+{{%/warning%}}
+
+{{% /collapse %}}
+{{%collapse "Traitement de l'hyperthyroïdie fruste" %}}
+
+Pas de traitement systématique d'une hyperthyroïdie fruste. Adresser au spécialiste avec un bilan biologique de moins de 3 mois en cas de persistance.
+
+Envisager un traitement de l'hyperthyroïdie fruste avant 65 ans si:
+
+- Cardiopathie ou facteurs de risque cardiovasculaires
+- Thyrotoxicose
+- [Ostéoporose]({{< relref "osteoporose.md" >}})
+- Femme en périménopause ou [ménopausée]({{< relref "menopause.md" >}}) sans THM ni biphosphonates
+
+Après 65 ans:
+
+- Le traitement est recommandé si la TSH persiste sous 0,1 mUI/L
+- Envisager un traitement si TSH ≥ 0,1 mUI/L avec comorbidités
+
+Le fort risque de progression des GMNT et AT nécessite aussi un avis spécialisé.
+
+En l'absence de traitement, la prise en charge de l'hyperthyroïdie fruste repose sur la surveillance clinique et biologique:
+**TSH tous les 6-12 mois** ou en cas de modification des symptômes.
+{.alert .alert-info}
+
+- Si la TSH est toujours comprise de 0,1 à 0,4 mUI/L: nouvelle TSH dans 6-12 mois
+- Si la TSH est ≤ 0,1 mUI/L: T4L ± T3L << en cascade >> et nouvelle TSH à 6-12 mois si elles sont normales, avis spécialisé si persistance
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hyperthyroïdie" %}}
@@ -262,25 +309,26 @@ La prise en charge de l'hyperthyroïdie relève de l'endocrinologue. Néanmoins,
 
 - Repos ± arrêt de travail
 - Bêtabloquant non-cardiosélectif  
-  Propranolol 20-40 mg x 4/j (ou aténolol, bisoprolol).
+  [Propranolol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63003440&typedoc=R) 20-40 mg x 4/j (ou aténolol 25-50 mg/j, bisoprolol, métoprolol, nadolol).
 - Sédatifs temporaires
 - Femme jeune: contraception efficace pendant la prise en charge pour éviter des complications fœtales (voir *Définitions*)
 - Orbitopathie basedowienne: prise en charge pluridisciplinaire
-- Arrêt du tabac
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 
-Traitement suffisant pour une thyroïdite (paracétamol voire ajout d'AINS ou corticoïdes).
+Ces mesures sont suffisantes pour le traitement d'une thyroïdite transitoire (avec paracétamol voire ajout d'AINS ou corticoïdes).
 
 ### Traitement initial par antithyroïdiens de synthèse (ATS)
 
-Objectif du traitement par antithyroïdiens de synthèse: contrôler les symptômes et restaurer l'euthyroïdie.
-N'est pas adapté à l'adénome toxique ou au goitre multinodulaire toxique (GMNT): la thyroïdectomie ou irathérapie. Seulement si CI faibles doses d'ATS au long cours.
+L'objectif du traitement par antithyroïdiens de synthèse est de contrôler les symptômes et restaurer l'euthyroïdie.
 
-Les antithyroïdiens de synthèse de référence sont le thiamazole (Thyrozol®) ou le carbimazole (Néo-mercazole®) pendant une première ligne de 12 à 18 mois.
+Pour l'adénome toxique ou le goitre multinodulaire toxique (GMNT), les ATS << préparent >> seulement la chirurgie ou l'irathérapie.
+
+Les antithyroïdiens de synthèse de référence sont le **thiamazole** (Thyrozol®) ou le **carbimazole** (Néo-mercazole®) pendant une première ligne de traitement pendant **12 à 18 mois**.
 
 Le benzylthiouracile (Basdène®) est un ATS de deuxième ligne (contrainte des prises, toxicité hépatique).  
-Le propylthiouracile (PTU) est réservé pour: 1<sup>er</sup> trimestre de grossesse si traitement nécessaire, antécédent d'allergie mineure au thiamazole ou carbimazole.
+Le **propylthiouracile** (PTU) est réservé pour: 1<sup>er</sup> trimestre de grossesse si traitement nécessaire, antécédent d'allergie mineure au thiamazole ou carbimazole.
 
-Après la première ligne de traitement par antithyroïdiens de synthèse, en cas de récidive, le traitement est étiologique sur avis spécialisé, selon les préférences du patient (voir section suivante):
+Après la première ligne de traitement par ATS, en cas de récidive, le traitement est étiologique sur avis spécialisé, selon les préférences du patient (voir section suivante):
 
 - Irathérapie
 - Chirurgie
@@ -288,41 +336,54 @@ Après la première ligne de traitement par antithyroïdiens de synthèse, en ca
 
 ### Débuter le traitement par antithyroïdiens de synthèse
 
-- Carbimazole 20-40 mg/j (Néo-mercazole®)
-- Thiamazole 15-30 mg/j (Thyrozol®)
+Un délai de 10-15 jours est nécessaire avant l'amélioration des symptômes (élimination du stock d'hormones thyroïdiennes):
+
+- [Carbimazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61451683&typedoc=R) 20-40 mg/j (Néo-mercazole®)  
+  Sujet âgé fragile: 2,5 - 5 mg/j (*ETA*)
+- [Thiamazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69969425&typedoc=R) 15-30 mg/j (Thyrozol®)
 - En l'absence de grossesse avec contraception efficace
 
-Puis paliers décroissants toutes les 3-6 semaines (méthode de titration) ou supplémentation en lévothyroxine (méthode << block and replace >>, contre-indiquée pendant la grossesse), équivalentes.  
+Puis paliers décroissants toutes les 3-6 semaines jusqu'à normalisation de la T4L (méthode de titration) ou supplémentation en lévothyroxine (méthode << block and replace >>, contre-indiquée pendant la grossesse), équivalentes.
+
 Le thiamazole est souvent réduit à 2,5-10 mg/j (titration) ou poursuivi à 30 mg/j (block).
 
-Surveillance biologique:
+#### Surveillance biologique des antithyroïdiens de synthèse
 
-- NFS tous les 10 jours pendant 2 mois (*CEEDMM*)
-- T4L (ou T3L) dans les 3-6 semaines
-- Puis toutes les 3-6 semaines **jusqu'à normalisation** de l'hormone thyroïdienne
+Surveillance biologique en cas de traitement par antithyroïdiens (Basedow, AT ou GMNT):
+
+- Bilan pré-thérapeutique: NFS, ASAT, ALAT, GGT, PAL
+- Pas de consensus pour suivi systématique des NFS et bilan hépatique sauf point d'appel  
+  NFS tous les 10 jours pendant 2 mois pour le *CEEDMM*.
+- NFS en urgence en cas de fièvre ou d'angine
+- T4L (+ T3L si initialement anormale) dans les 3-6 semaines
+- Puis toutes les 3-6 semaines **jusqu'à normalisation de la T4L** (+ T3L)
 - Puis TSH tous les 2-4 mois pendant la durée du traitement (12-18 mois)
 
-Un délai de 10-15 jours est nécessaire avant l'amélioration des symptômes (élimination du stock d'hormones thyroïdiennes).
+<!-- TODO: Il est recommandé de proposer le même suivi de la fonction thyroïdienne après irathérapie ou après thyroïdectomie totale pour un GMNT que celui proposé pour une maladie de Basedow18.-->
 
 ### Arrêt du traitement par ATS
 
-Facteurs de risque de récidive: goitre volumineux, TRAK élevés, hyperthyroïdie sévère et difficilement contrôlée, tabac
+Arrêt et contre-indication définitive aux ATS en cas de neutropénie < 800/mm³, hospitalisation en urgence si < 500/mm³ (agranulocytose)
 {.alert .alert-warning}
 
-Après 12 à 18 mois, réévaluation clinico-biologique pour envisager l'arrêt des ATS de première ligne:
+Après 12 à 18 mois de première ligne, réévaluation clinico-biologique pour envisager l'arrêt des ATS de première ligne.
 
-- Asymptomatique TODO:
+L'arrêt du traitement est envisageable si:
+
+- Patient asymptomatique
 - TSH normale
 - TRAK idéalement négatifs
-- Éventuellement un échodoppler thyroïdien
+- Éventuellement un échodoppler thyroïdien (TODO:)
 
-Surveillance rapprochée après l'arrêt des ATS:
+Facteurs de risque de récidive d'une hyperthyroïdie: goitre volumineux, TRAK élevés, hyperthyroïdie sévère et difficilement contrôlée, tabac
+{.alert .alert-info}
+
+**Surveillance rapprochée après l'arrêt des ATS:**
 
 - Si Basedow: dosage des TRAK juste avant l'arrêt du traitement
-- Après l'arrêt: TSH à 6-8 semaines, 3 mois, 6 mois puis annuelle
-- Agranulocytose: neutrophiles < 0,8 G/L (*SFE 2016*), **hospitalisation en urgence si < 0,5 G/L**
+- Après l'arrêt de l'ATS: TSH à 6-8 semaines, 3 mois, 6 mois, 12 mois puis annuelle (TODO:) ou si point d'appel
 
-40-50% de rechutes après l'arrêt du traitement (souvent dans les 6-12 mois).
+**40-50% de rechutes** après l'arrêt du traitement (souvent dans les 6-12 mois).
 
 Après 1 an, en cas de rémission, le suivi avec TSH annuelle relève du généraliste.
 
@@ -334,15 +395,17 @@ Après 1 an, en cas de rémission, le suivi avec TSH annuelle relève du génér
 |---------------------------------------|------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------|
 | Antithyroïdiens<br> de synthèse (ATS) | Non invasif                                    | Récidives (53%)<br> Durée du traitement                                       | Grossesse                                     |
 | Irathérapie                           | Non invasif<br> Efficace<br> Récidives faibles (15%) | Hypothyroïdie définitive<br> Radioprotection<br> Aggrav. orbitopathie   | Désir de grossesse < 6m<br> Grossesse/allait.<br> Susp malignité<br> Compression |
-| Chirurgie                             | Efficace<br> Rapide                            | Hypothyroïdie définitive<br>± hypoparathyroïdie<br>± paralysie récurrentielle | TODO:                                        |
+| Chirurgie                             | Efficace<br> Rapide                            | Hypothyroïdie définitive<br>± hypoparathyroïdie<br>± paralysie récurrentielle | Inopérable                                        |
 {{< /table >}}
+
+Les 3 modalités de traitement sont possibles en cas d'orbitopathie basedowienne inactive.
 
 ### Antithyroïdiens de synthèse (ATS)
 
 #### Indications à la poursuite des ATS
 
 - Maladie de Basedow avec faible risque de récidive  
-  Petit goitre, TRAK peu élevés, hyperthyroïdie modérée et rapidement contrôlée, absence de tabagisme.
+  {{< clinique/hyperthyroidie-recidive-faible >}}.
 
 #### Effets indésirables des ATS
 
@@ -351,11 +414,11 @@ Après 1 an, en cas de rémission, le suivi avec TSH annuelle relève du génér
 
 ### Irathérapie (iode 131 ou <sup>131</sup>I)
 
-Traitement très efficace (en 1 à 3 mois) non invasif aboutissant à une hypothyroïdie définitive (5-50% dans l'année).
+Traitement non invasif très efficace (en 1 à 3 mois) aboutissant à une hypothyroïdie définitive (5-50% dans l'année).
 
 #### Indications à l'irathérapie
 
-- Traitement de première intention d'un adénome toxique ou d'un goitre multinodulaire toxique
+- Traitement de première intention d'un **adénome toxique (AT) ou d'un goitre multinodulaire toxique (GMNT)**
 - Décision partagée, en considérant l'ensemble du tableau clinique
 - Maladie de Basedow: échec de la première ligne d'ATS, récidive ou première ligne avec haut risque de récidive (goitre volumineux, TRAK élevés, hyperthyroïdie sévère)
 
@@ -369,80 +432,82 @@ Traitement formellement contre-indiqué en cas de grossesse et tout projet de gr
   - 1-2 mois après la fin du traitement, 2 semaines si orbitopathie
   - Puis toutes les 6 semaines à 3 mois pendant 6 mois
   - Puis tous les 3 mois pendant 1 an ou jusqu'à l'apparition d'une hypothyroïdie
-- Contraception efficace pendant 6 mois pour tous
+- [Contraception efficace]({{< relref "contraception.md" >}}) pendant au moins 6 mois pour tous
 
-### Chirurgie de la thyroïde: lobectomie ou thyroïdectomie totale
+### Chirurgie de la thyroïde: lobectomie ou thyroïdectomie
 
 La thyroïdectomie doit être réalisée par un chirurgien expérimenté pour limiter le risque de paralysie récurrentielle et d'hypoparathyroïdie.
 
-Il s'agit d'une thyroïdectomie totale voire d'une lobectomie (réservée à l'adénome toxique). [vitamine D dosée]({{< relref "vitamine-d.md" >}}) ± corrigée.
+Il s'agit d'une thyroïdectomie totale, subtotale (réservée au goitre multinodulaire toxique) voire d'une lobectomie (réservée à l'adénome toxique).
 
-Basedow: l'euthyroïdie doit être obtenue avant l'opération.
+Pour la maladie de Basedow: l'euthyroïdie doit être obtenue avant l'opération.
+
+Petit adénome toxique: la thermoablation (radiologie interventionnelle) est possible.
+
+Avant chirurgie thyroïdienne, [dosage de la vitamine D et correction d'une carence]({{< relref "vitamine-d.md" >}}).
+
+> << Un projet de grossesse ne doit pas, de façon isolée, conduire à envisager plus rapidement un traitement chirurgical >> (*HAS 2022*)
+{.alert .alert-info}
 
 #### Indications à la chirurgie de la thyroïde
 
 - Maladie de Basedow, AT, GMNT si: goitre volumineux, compressif ou [nodule thyroïdien suspect de malignité]({{< relref "nodule-thyroidien.md" >}}), orbitopathie ou désir de grossesse à court terme
-- AT, GMNT si: irathérapie impossible
+- Adénome toxique, goitre multinodulaire toxique si: irathérapie impossible
 
 #### Suivi après chirurgie de la thyroïdienne
 
 Suivi par le médecin généraliste:
 
-- Thyroïdectomie totale: voir [hypothyroïdie]({{< relref "hypothyroidie.md" >}})
-- Lobectomie: TSH à 6-8 semaines puis à 6-12 mois
+- Thyroïdectomie totale  
+  Prise en charge habituelle d'une [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), arrêt des ATS et bêta-bloquants.
+- Lobectomie d'un adénome toxique  
+  TSH à 6-8 semaines puis à 6-12 mois.
 
 Les corticoïdes peuvent être utilisés pour le traitement de l'hyperthyroïdie à l'amiodarone (Cordarone®, gén). Cette prise en charge est uniquement spécialisée.
 
 {{% /collapse %}}
-{{%collapse "Traitement de l'hyperthyroïdie fruste" %}}
-
-Pas de traitement systématique. Adresser avec un bilan biologique de moins de 3 mois si persistance.
-
-Envisager un traitement chez le -65 ans si:
-
-- Cardiopathie ou facteurs de risque cardiovasculaires
-- Thyrotoxicose
-- Ostéoporose
-- Femme en périménopause ou ménopausée sans THM ni biphosphonates
-
-Après 65 ans:
-
-- Le traitement est recommandé si la TSH persiste sous 0,1 mUI/L
-- Envisager un traitement si TSH ≥ 0,1 mUI/L avec comorbidités
-
-En l'absence de traitement, surveillance clinique et biologique:
-
-- TSH entre 0,1 à 0,4 mUI/L: TSH tous les 6-12 mois ou en cas de modification des symptômes
-- TSH ≤ 0,1 mUI/L: TSH et T4L ± T3L en cascade tous les TODO:
-
-{{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-Sevrage tabagique (prévention de l'aggravation de l'orbitopathie)
+- Sevrage tabagique (prévention de l'aggravation de l'orbitopathie)
+- Préférer attendre une stabilisation de la maladie avant une grossesse
+- Informer immédiatement le médecin en cas de grossesse
 
 ### Informations sur les antithyroïdiens de synthèse (ATS)
 
-- Effets indésirables
-- arrêter le traitement et de faire une NFS en urgence en cas de fièvre et de signes infectieux (angine).
+- Risque de récidive élevé (40-50%)
+- Effets indésirables (agranulocytose, hépatite ...)
+- Arrêter le traitement et dosage de NFS en urgence en cas de fièvre et de signes infectieux (angine).
 - Symptômes devant faire consulter rapidement  
-  Fièvre avérée, angine, ictère, selles décolorées, urines foncées.
+  Fièvre avérée, angine, ictère, selles décolorées, urines foncées, rash prurigineux, arthralgies, douleurs abdominales, nausée, asthénie.
 - Contraception efficace, grossesse à éviter
 
 ### Informations sur le traitement par iode radioactif (irathérapie)
 
+- Efficace en 1 à 3 mois
+- Risque de récidive faible (15%)
+- Risque d'hypothyroïdie à long terme
+- Mesures de radioprotection nécessaires
+- Basedow: risque d'aggravation d'une orbitopathie basedowienne pauci-symptomatique
+- Contraception efficace pendant au moins 6 mois (homme ou femme)
 TODO:
+
+### Informations sur la chirurgie de thyroïdectomie
+
+- Efficacité immédiate
+- Risque de complications chirurgicales locales (difficultés à parler, hypocalcémie, hémorragie)
+- Hypothyroïdie définitive
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'hyperthyroïdie" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le diagnostic et la prise en charge de l'hyperthyroïdie. Dr JB Fron d'après HAS 2022" >}}
+{{< mermaid title="Prise en charge diagnostique d'une hyperthyroïdie. Dr JB Fron d'après HAS 2022" >}}
 graph TB
-suspicion("<b>Suspicion d'hyperthyroïdie</b><br>—<br>- Cardiothyréose<br>- Thyrotoxicose<br>- Amaigrissement- Diarrhée")
+suspicion("<b>Suspicion d'hyperthyroïdie</b><br>—<br>- Cardiothyréose<br>- Thyrotoxicose<br>- Amaigrissement<br>- Diarrhée")
 style suspicion stroke:#4150f5, stroke-width:1px
 suspicion --> TSH(TSH)
 TSH --"&lt; 0,1"--> T4L
   T4L -- Augmentée --> hyperthyroïdie(Hyperthyroïdie) --> TRAK(TRAK) -- Positifs --> Basedow("Maladie<br>de Basedow")
-    TRAK -- Négatifs --> bilan("- Échographie<br>cervicale<br>- Scintigraphie")
+    TRAK -- Négatifs --> bilan("- Échographie<br>cervicale<br>- Scintigraphie") --> étiologie("<b>AT, GMNT</b>,<br>Basedow TRAK-,<br>HT à scinti blanche")
   T4L -- Normale --> T3L(T3L) -- Augmentée --> hyperthyroïdieT3L("Hyperthyroïdie<br>à T3L")
     T3L -- Normale --> autres("Autre causes de<br>TSH basse isolée")
 TSH -- 0,1-0,4 --> TSH2("TSH à 6<br>semaines")
@@ -452,22 +517,34 @@ TSH -- Normale --> arrêt(Arrêt)
 suspicion -. Nodule, ADP .-> écho(Échographie)
 {{< /mermaid >}}
 
+{{< mermaid title="Prise en charge et traitement d'une hyperthyroïdie de l'adulte avant 65 ans. Dr JB Fron d'après HAS 2022" >}}
+graph TB
+effondrée["TSH &lt; 0,1 mUI/L"] --> hyperthyroïdieAvérée("Envisager:<br>- Traitement symptomatique<br>- ATS en attendant<br>le spécialiste") --> décision
+  décision(Décision médicale partagée) --> ATS("<b>ATS</b><br>—<br>- <b>Basedow:</b> 12-18<br>mois<br>- AT, GMNT: faibles doses<br>si radical CI") --> ATSSurveillance("Surveillance<br>- T4L ± T3L / 3-6 sem<br>jusqu'à normale<br>- Puis TSH / 2-4 mois") -. Rechute .-> ATSRechute("Envisager radical<br>Parfois ATS prolongé")
+    décision --> irathérapie("<b>Irathérapie</b><br>—<br>- <b>AT ou GMNT</b><br>- Basedow cas<br>particuliers")
+    décision --> chirurgie(<b>Chirurgie</b><br>—<br>- Basedow, AT, GMNT<br>compressif, malignité<br>- AT, GMNT avec<br>iode réfuté)
+style effondrée stroke:#4150f5, stroke-width:1px
+haute["TSH &ge; 0,1mUI/L"] --> haute2("- Pas de traitement<br>- TSH / 6-12 mois<br>Avis si: sympt.,<br>cardiopathie,<br>ostéoporose,<br>ménopause") --> décision
+style haute stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
 {{%/collapse%}}
 {{%sources%}}
 
 {{< youtube id="7VUjGq2OYX0" title="La minute RECO HAS | Pathologies thyroïdiennes : pertinence des examens d'imagerie (Dr Jean Tramalloni)" >}}
 
+{{< youtube id="r6H9DsSt1Fc" title="La thyroïde dans tous ses états (CMGF 2023)" >}}
+
 - [HAS. Prise en charge des hyperthyroïdies en population générale. Recommander les bonnes pratiques. 2022.](https://www.has-sante.fr/jcms/p_3216305/fr/prise-en-charge-des-dysthyroidies-chez-l-adulte)
 - [HAS. Exploration des pathologies thyroïdiennes chez l'adulte : pertinence et critères de qualité de l'échographie, pertinence de la cytoponction échoguidée. 2021.](https://www.has-sante.fr/jcms/p_3288393/fr/exploration-des-pathologies-thyroidiennes-chez-l-adulte-pertinence-et-criteres-de-qualite-de-l-echographie-pertinence-de-la-cytoponction-echoguidee)
+- Prescrire Redaction. Maladie de Basedow chez un adulte - Premiers choix Prescrire. Rev Prescrire. 2021.
 - {{< references/college-endocrino >}}
+- [Kahaly GJ et al. 2018 European Thyroid Association Guideline for the Management of Graves' Hyperthyroidism. Eur Thyroid J. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6140607/)
 
 ### À lire
 
-- [Kahaly GJ et al. 2018 European Thyroid Association Guideline for the Management of Graves' Hyperthyroidism. Eur Thyroid J. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6140607/)
 - [Olivier Petit I. Interprétation d'un bilan thyroïdien limite chez l'enfant (après 3 ans). Pas à Pas en Pédiatrie. 2021.](https://pap-pediatrie.fr/endocrinologie/interpretation-dun-bilan-thyroidien-limite-chez-lenfant-apres-3-ans)
 - [Castanet M, Cuny A. Perturbation du bilan thyroïdien. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/endocrinologie/perturbation-du-bilan-thyroidien)
-- SFE
-- Prescrire
 
 {{%/sources%}}
 {{% modal title="Liste facteurs de risque d'hypothyroïdie" id="modal-fdr-hypothyroidie"%}}
@@ -475,5 +552,8 @@ suspicion -. Nodule, ADP .-> écho(Échographie)
 {{< clinique/facteur-risque-hypothyroidie >}}
 
 {{% /modal %}}
+{{% modal title="Risque faible de récidive d'hyperthyroïdie" id="modal-ht-recidive-faible"%}}
 
-≤≥±®æœŒÈ³ÂSpO<sub>2</sub>
+{{< clinique/hyperthyroidie-recidive-faible >}}
+
+{{% /modal %}}

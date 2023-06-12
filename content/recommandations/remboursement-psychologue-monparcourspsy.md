@@ -12,7 +12,7 @@ lastmod = "2023-01-23"
 specialites = ["therapeutique"]
 annees = "2023"
 sources = ["Ameli"]
-tags = ["adolescent", "enfant"]
+tags = ["adolescent", "depression", "enfant"]
 anglais = ["Psychotherapy"]
 sctid = "75516001"
 icd10 = ""
@@ -90,6 +90,8 @@ Scores: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< youtube id="p2HfaxP2vXk" title="Dispositif de prise en charge des séances chez les psychologues (CMGF 2023)" >}}
 
 {{< youtube id="B5GpVmHKcSo" title="La santé mentale et la médecine générale (CMG)" >}}
 

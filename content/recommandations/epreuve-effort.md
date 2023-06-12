@@ -336,7 +336,7 @@ atriale
 - Bloc acquis de haut degré ou complet
 - AVC ou AIT récents
 - Cardiomyopathie obstructive avec gradient de repos élevé
-- État clinique mal contrôlé (anémie marquée, trouble électrolytique significatif, une hyperthyroïdie…)
+- État clinique mal contrôlé (anémie marquée, trouble électrolytique significatif, une hyperthyroïdie ...)
 - Manque de coopération de la part du patient
 - PA > 200/110 mmHg (voire moins selon l'âge du patient)
 

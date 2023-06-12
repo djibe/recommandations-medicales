@@ -78,7 +78,7 @@ La Maladie de Parkinson est la seule cause de tremblement de repos unilatéral (
 - Tremblement postural et d'action
   - **Tremblement essentiel**
   - Tremblement physiologique exagéré
-  - Hyperthyroïdie
+  - [Hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
   - Iatrogénie  
     Bêta-agoniste, lithium, théophilline, antidépresseurs, neuroleptiques, valproate de sodium, lévothyroxine, corticoïdes.
   - Caféine
