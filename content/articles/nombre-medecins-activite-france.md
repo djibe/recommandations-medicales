@@ -39,12 +39,13 @@ Sur la même période, 21 départements ont vu le nombre de médecins générali
 
 #### Tableau des variations départementales de médecins généralistes en activité sur la période 2010 - 2022
 
+<script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Variations selon les départements du nombre de généralistes en activité sur la période 2010-2022"}</script>
 <table id="department-variations" class="table table-sm">
 <caption><span class="font-weight-bold">Tableau.</span> Variations selon les départements du nombre de généralistes en activité sur la période 2010-2022.</caption>
 <thead>
   <tr>
-    <th>Département</th>
-    <th>Variation (%)</th>
+    <th scope="col">Département</th>
+    <th scope="col">Variation (%)</th>
   </tr>
 </thead>
 </table>
