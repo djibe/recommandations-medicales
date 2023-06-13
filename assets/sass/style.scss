@@ -28,11 +28,6 @@ body,
 
 a {
   color: var(--primary);
-
-  &:focus-visible {
-    // border-bottom: 1px solid var(--primary);
-    outline: none;
-  }
 }
 
 h1,
@@ -645,6 +640,16 @@ article {
 .recommandation__content {
   margin-bottom: 7.5rem;
 
+  a:not([class]) {
+    text-decoration: underline;
+    text-decoration-skip-ink: auto;
+
+    &:hover {
+      background-color: var(--bg-hex);
+      color: var(--primary);
+    }
+  }
+
   section:first-of-type {
     margin-top: 36px;
   }
@@ -778,7 +783,7 @@ article {
     }
   }
   .alert-warning {
-    color: var(--secondary-dark);
+    color: #B85300;
   }
   .alert-summary {
     // width: Min(100%,768px);
@@ -943,11 +948,6 @@ article {
     letter-spacing: 0.017857em;
     line-height: 1.25rem;
   }
-}
-
-a:hover {
-  cursor: pointer;
-  text-decoration: none;
 }
 
 blockquote {

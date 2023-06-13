@@ -41,7 +41,7 @@ async function query(event) {
   document.getElementById("search-results").innerHTML = searchResponse.hits
     .map(
       (i) =>
-        `<a href="${i.document.uri}" class="list-group-item list-group-item-action">${i.document.title}</a>`
+        `<a href="${i.document.uri}" class="list-group-item list-group-item-action" role="listitem">${i.document.title}</a>`
     )
     .join("");
 }

@@ -18,7 +18,7 @@ sctid = "195967001"
 icd10 = "J45.9"
 image = true
 imageSrc = "Illustration de l'asthme par brgfx / Freepik"
-todo = "vidéo DEP, doses Symbicort turbuhaler, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, rhinite allergique"
+todo = "doses Symbicort turbuhaler, CSI + ARL, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, rhinite allergique"
 +++
 
 {{%article-summary%}}
@@ -189,7 +189,7 @@ Ces personnes doivent bénéficier d'un suivi médical et d'une éducation thér
 {{% /collapse %}}
 {{%collapse "Contrôle de l'asthme" %}}
 
-Demander à être suivi par le service **Sophia** de l'Assurance Maladie: {{<phone>}}0 809 400 040{{</phone>}}
+Suivi par le service **Sophia** de l'Assurance Maladie: {{<phone>}}0 809 400 040{{</phone>}}
 {.alert .alert-info}
 
 Revoir la *maîtrise de l'asthme* à chaque consultation:
@@ -251,24 +251,23 @@ Réévaluer l'efficacité du traitement initial à 2-3 mois.
 ### Interrogatoire
 
 - Antécédents
-  - Allergiques  
+  - **Allergiques**  
     Pollens, poussières, poils d'animaux, humidité-moisissures, acariens (tapis-moquettes), sulfites, insectes, substances végétales.
-  - Atopiques  
-    Dermatite atopique, rhinite allergique (80%).
-  - Gaz  
+  - **Atopiques**  
+    [Dermatite atopique]({{< relref "dermatite-atopique.md" >}}), rhinite allergique (80%).
+  - Exposition aux particules  
     Sprays ménagers, fumée de tabac, échappements de véhicules, BTP, peintures, parfums, huiles essentielles.
   - Respiratoires  
-    Toux à l'effort par temps froid et sec ++
+    Toux à l'effort par temps froid et sec ++.
   - Pathologies: [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}).
 - Antécédents familiaux  
   Atopiques, maladies respiratoires.
 - Profession  
-  Chômage, boulangerie-pâtisserie, industrie alimentaire, coiffure, taxi, ambulance, auto-école, forain.
-- Expositions domestiques, professionnelles/scolaires
-  - Amélioration en vacances
-  - {{%class%}}15-20% des asthmes de l'adulte sont liés à une exposition professionnelle. (*SPF*){{%/class%}}
+  - Chômage, boulangerie-pâtisserie, industrie alimentaire, coiffure, taxi, ambulance, auto-école, forain.  
+  {{%class%}}15-20% par exposition professionnelle (*SPF*){{%/class%}}
+  -Amélioration en vacances
 - [Tabac et cigarette électronique]({{< relref "arret-tabac.md" >}})  
-  {{%class%}}La cigarette électronique aggrave les symptômes et les exacerbations (*GINA 2022*){{%/class%}}
+  {{%class%}}La cigarette électronique aggrave les symptômes et les exacerbations (*GINA 2022*).{{%/class%}}
 - Symptômes des 4 dernières semaines
   - Variabilité en intensité
   - Variabilité dans le temps  
@@ -278,42 +277,38 @@ Réévaluer l'efficacité du traitement initial à 2-3 mois.
   - **Dyspnée** ou gêne respiratoire
   - Oppression thoracique
   - Déclenchement par: infections virales, exercice, exposition aux allergènes/irritants, rire, pleurs.
-- Limitation variable du débit expiratoire de pointe  
-  {{%class%}}Meilleure des 3 mesures consécutives.{{%/class%}}
+- Limitation variable du débit expiratoire de pointe
 - Diagnostic d'asthme
   - Posé par quel professionnel ?
   - Examens complémentaires
   - {{< modal-btn modal-score-act >}}Contrôle de l'asthme{{< /modal-btn >}}
   - Suivi médical
-- Exacerbation
-  - Facteur déclenchant  
-    Virose, allergène, fumée, exercice, stress, traitement (BB, aspirine, AINS).
-
-En gras, les symptômes clés de l'asthme.
+- Exacerbation  
+  Facteur déclenchant: virose, allergène, fumée, exercice, stress, traitement (BB, aspirine, AINS).
 
 ### Examen clinique
 
-Mesure du DEP pour les personnes percevant mal leurs symptômes.
+Mesure du DEP pour les personnes percevant mal leurs symptômes.  
+{{%class%}}Meilleure des 3 mesures consécutives.{{%/class%}}
 
-#### En cas d'exacerbation (crise d'asthme)
+#### Examen lors d'une exacerbation (crise d'asthme)
 
 Évaluation de la gravité en parallèle de l'administration de BACA avec chambre d'inhalation (4-10 bouffées/20 min pendant 1h), l'oxygénothérapie et CSO.
 
 - Fréquence cardiaque
 - Fréquence respiratoire
-- SpO<sub>2</sub> cible 93-95% (6-12 ans: 94-98%)
+- <mark>SpO<sub>2</sub> cible 93-95% (6-12 ans: 94-98%)</mark>
 - Écarter une anaphylaxie
-- Étayer un diagnostic différentiel: insuffisance cardiaque, corps étranger, embolie pulmonaire
+- Étayer un diagnostic différentiel: insuffisance cardiaque, corps étranger, [embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### *Spirométrie* avec *test de réversibilité*
+### Spirométrie avec test de réversibilité
 
-Répéter 1-3 fois/an (*SPLF 2015*)  
-Répéter au diagnostic pour obtenir une certitude.
+Répéter la spirométrie 1 à 3 fois/an (*SPLF 2015*). Répéter au diagnostic pour obtenir un diagnostic fiable.
 
-Également test du monoxyde d'azote dans l'air expiré (FeNo) de 5 à 16 ans en cas d'EFR non concluantes.
+EFR non concluantes de 5 à 16 ans: test du monoxyde d'azote dans l'air expiré (FeNo).
 
 ### Radiographie thoracique
 
@@ -322,18 +317,18 @@ Radiographie de thorax systématique au diagnostic.
 ### Autres bilans
 
 - NFS  
-  Vérifier les éosinophiles en asthme difficilement contrôlé (recherche anguillulose quand ≥ 300/μL).
-- Gaz du sang si:adulte avec VEMS < 50%, discordance symptômes-VEMS
+  Vérifier les [éosinophiles]({{< relref "hypereosinophilie.md" >}}) en cas d'asthme difficilement contrôlé (recherche anguillulose quand ≥ 300/μL).
+- Gaz du sang si: adulte avec VEMS < 50%, discordance symptômes - VEMS
 
 ### Consultations spécialisées
 
-- Bilan allergologique systématique en pédiatrie (*HAS 2006*)
+- Enfant: bilan allergologique systématique (*HAS 2006*)
 - Consultation ORL
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'exacerbation" %}}
 
-Reconnaissance de la crise d'asthme (exacerbation) par le patient et application du *plan d'action*.
+Reconnaissance de la crise d'asthme par le patient et application du *plan d'action*.
 
 ### Le plan d'action écrit
 
@@ -401,7 +396,7 @@ Reconnaissance de la crise d'asthme (exacerbation) par le patient et application
     }
 </script>-->
 
-Il doit préciser:
+Le *Plan d'action* doit préciser:
 
 - Les traitements de l'asthme habituels
 - Quand et comment augmenter la dose de médicaments

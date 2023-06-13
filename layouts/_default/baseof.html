@@ -7,16 +7,7 @@
     <main id="main">
       {{- block "main" . -}}{{- end }}
       <!-- Search-->
-      <div class="modal fade" id="modal-search" tabindex="-1" role="dialog" aria-label="Fenêtre de recherche">
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div>
-              <input class="form-search" id="search-input" placeholder="Rechercher" aria-label="Rechercher" type="search">
-              <div id="search-results"></div>
-            </div>
-          </div>
-        </div>
-      </div>
+      {{- partial "search.html" . }}
       <!-- Contact -->
       <div class="modal fade" id="modal-contact" tabindex="-1" role="dialog" aria-labelledby="modal-contact-title">
         <div class="modal-dialog modal-dialog-centered" role="document">

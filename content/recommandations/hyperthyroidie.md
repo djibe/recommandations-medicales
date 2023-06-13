@@ -7,8 +7,8 @@ description = "Recommendations pour la prise en charge de l'hyperthyroïdie et l
 synonyms = ["Maladie de grave"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-14T14:41:39+02:00"
-publishdate = "2023-06-12"
-lastmod = "2023-06-12"
+publishdate = "2023-06-13"
+lastmod = "2023-06-13"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["HAS", "ETA"]
@@ -16,7 +16,6 @@ tags = ["depression", "dyspnee", "fatigue", "HTA", "prurit", "TSH"]
 anglais = ["Hyperthyroidism", "Graves' hyperthyroidism", "Graves' disease (GD)", "Basedow disease"]
 sctid = "34486009"
 icd10 = "E05.9"
-draft = true
 image = true
 imageSrc = "Scintigraphie thyroïdienne avec hyperfixation diffuse typique de maladie de Basedow chez un jeune homme de 20 ans ayant perdu 20 kg en 2 mois. Cas d'Ammar Ashraf, Radiopaedia.org, rID: 156767"
 todo = "Radioprotection 131I"
@@ -29,9 +28,9 @@ flowchart = true
 - Le diagnostic d'hyperthyroïdie est biologique: TSH effondrée (< 0,1 mUI/L) avec T4L augmentée (ou T3L), doser les TRAK (pas d'autres anticorps) puis avis endocrinologique
 - En cas de TSH comprise de 0,1 à 0,4 mUI/L à 2 reprises avec T4L et T3L normales: hyperthyroïdie fruste avec suivi de la TSH tous les 6-12 mois (traitement envisagé en cas de comorbidités ou symptômes)
 - Indications à l'échographie thyroïdienne: TRAK-, nodule thyroïdien, adénopathie cervicale. Scintigraphie si TRAK-.
-- Prise en charge initiale de l'hyperthyroïdie par antithyroïdiens de synthèse (ATS) pour restaurer l'euthyroïdie puis décision partagée, souvent: maladie de Basedow avec ATS, adénome toxique (AT) ou goitre multinodulaire toxique (GMNT) par irathérapie, chirurgie si goitre compressif, nodule suspect, contre-indication au traitement de référence
+- Prise en charge initiale de l'hyperthyroïdie par antithyroïdiens de synthèse (ATS) pour restaurer l'euthyroïdie puis décision partagée. Souvent: maladie de Basedow avec ATS, adénome toxique (AT) ou goitre multinodulaire toxique (GMNT) par irathérapie, chirurgie si goitre compressif, nodule suspect, contre-indication au traitement de référence
 - Surveillance spécifique de chaque traitement curatif
-- Avis endocrinologique avec bilan de moins de 3 mois: hyperthyroïdie avérée, chez l'enfant ou projet de grossesse ou enceinte, discussion de traitement radical, HT à la Cordarone
+- Avis endocrinologique avec bilan de moins de 3 mois: hyperthyroïdie avérée, chez l'enfant ou projet de grossesse ou enceinte, à la Cordarone ou discussion de traitement radical
 
 Chapitres liés: [nodule thyroïdien]({{< relref "nodule-thyroidien.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}})
 
@@ -520,9 +519,10 @@ suspicion -. Nodule, ADP .-> écho(Échographie)
 {{< mermaid title="Prise en charge et traitement d'une hyperthyroïdie de l'adulte avant 65 ans. Dr JB Fron d'après HAS 2022" >}}
 graph TB
 effondrée["TSH &lt; 0,1 mUI/L"] --> hyperthyroïdieAvérée("Envisager:<br>- Traitement symptomatique<br>- ATS en attendant<br>le spécialiste") --> décision
-  décision(Décision médicale partagée) --> ATS("<b>ATS</b><br>—<br>- <b>Basedow:</b> 12-18<br>mois<br>- AT, GMNT: faibles doses<br>si radical CI") --> ATSSurveillance("Surveillance<br>- T4L ± T3L / 3-6 sem<br>jusqu'à normale<br>- Puis TSH / 2-4 mois") -. Rechute .-> ATSRechute("Envisager radical<br>Parfois ATS prolongé")
-    décision --> irathérapie("<b>Irathérapie</b><br>—<br>- <b>AT ou GMNT</b><br>- Basedow cas<br>particuliers")
-    décision --> chirurgie(<b>Chirurgie</b><br>—<br>- Basedow, AT, GMNT<br>compressif, malignité<br>- AT, GMNT avec<br>iode réfuté)
+  décision(Décision médicale partagée) --> ATS("<b>ATS</b><br>—<br>- <b>Basedow:</b> 12-18 mois<br>- AT, GMNT: faibles doses<br>si radical CI") --> ATSSurveillance("Suivi sous ATS<br>- T4L ± T3L / 3-6 sem<br>jusqu'à normale<br>- Puis TSH / 2-4 mois") -. Rechute .-> ATSRechute("Envisager radical<br>Parfois ATS prolongé")
+    décision --> irathérapie("<b>Irathérapie</b><br>—<br>- <b>AT ou GMNT</b><br>- Basedow<br>particuliers") --> irathérapie2("Après iode 131<br>- Spécialiste à 2-3 sem<br>- TSH / 6-12 sem 6m,<br>puis / 3m<br>- T4L si TSH basse<br>persistante") --> irathérapie3("Hyperthyroïdie<br>- Persistance/récidive<br>précoce: discuter ATS<br>- Persistance &gt; 6m:<br>discuter 2e ttt")
+    irathérapie2 --> hypo("Hypothyroïdie<br>- Lévothyroxine<br>- Suivi généraliste")
+    décision --> chirurgie("<b>Chirurgie</b><br>—<br>- Basedow, AT, GMNT<br>compressif, malignité<br>- AT, GMNT avec<br>iode réfuté") --> chirurgie2("Après chirurgie<br>- Totale: lévothyroxine<br>- Lobectomie: TSH à 6-8 sem,<br>puis 6-12 m<br>- Suivi généraliste")
 style effondrée stroke:#4150f5, stroke-width:1px
 haute["TSH &ge; 0,1mUI/L"] --> haute2("- Pas de traitement<br>- TSH / 6-12 mois<br>Avis si: sympt.,<br>cardiopathie,<br>ostéoporose,<br>ménopause") --> décision
 style haute stroke:#4150f5, stroke-width:1px
