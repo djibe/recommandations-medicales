@@ -129,7 +129,7 @@ TUA
 - Coût sociétal: 118 milliards annuels
 - Consommation excessive
   - La France est 6<sup>e</sup> des pays de l'OCDE (sur 34)
-  - **23,7% des 18-75 ans dépassent les repères de consommation** (2020)  
+  - **22% des 18-75 ans dépassent les repères de consommation** (2021)  
     1 homme sur 3 et 1 femme sur 6  
     48% ont un diplôme inférieur ou égal au baccalauréat
   - 10% des 18-75 ans absorbent 58% de l'alcool consommé
@@ -601,6 +601,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 ### À lire
 
+- [SFA, ANPAA, EUFAS. Mésusage de l'alcool : dépistage, diagnostic et traitement. 2023. (PDF)](https://sfalcoologie.fr/wp-content/uploads/RECOS-SFA-Version-2023-2.pdf)
 - [Inserm. Réduction des dommages associés à la consommation d'alcool. Synthèses et recommandations. 2021.](https://www.inserm.fr/expertise-collective/reduction-dommages-associes-consommation-alcool/)
 - [Fédération Française d'Addictologie](https://www.addictologie.org/)
 - [Société Française d'Alcoologie. Documents de référence.](http://www.sfalcoologie.asso.fr/page.php?choix=A10)

@@ -429,6 +429,10 @@ summary {
   display: list-item;
 }
 
+[hidden] {
+  display: none !important;
+}
+
 @-ms-viewport {
   width: device-width;
 }
@@ -1317,21 +1321,6 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   border-radius: 0.875rem;
 }
 
-.btn .btn-icon-prepend {
-  display: inline-block;
-  fill: currentColor;
-  font-size: 1.125rem;
-  margin-right: 0.5rem;
-  margin-left: -0.25rem;
-  vertical-align: top;
-  width: 1.125rem;
-}
-
-.btn-icon-prepend [class*='btn-flat'],
-.btn-link .btn-icon-prepend {
-  margin-left: 0;
-}
-
 [class*='btn-flat'],
 .btn-link,
 .modal .btn {
@@ -1907,6 +1896,7 @@ input:disabled + .chip {
   background-color: #ffffff;
   border: 0;
   font-size: 0.875rem;
+  max-width: 100%;
   width: 100%;
 }
 
@@ -2035,7 +2025,6 @@ input:disabled + .chip {
   pointer-events: none;
   position: relative;
   width: calc(100% - 1rem * 2);
-  will-change: opacity, transform;
 }
 
 .modal.show .modal-dialog {

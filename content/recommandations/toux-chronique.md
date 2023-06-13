@@ -222,6 +222,7 @@ Avis spécialisé sauf précision pour les éléments suivants:
 
 ### À lire
 
-[Collège des Enseignants de Pneumologie (CEP). Toux chez l'adulte. Item 204. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/10/item_204_TOUX_2021_ex_item_200.pdf)
+- [Guilleminault L et al. Recommandations de prise en charge de la toux chronique de l'adulte. Rev Mal Respir. 2023. (PDF)](https://splf.fr/wp-content/uploads/2023/06/Recos-Toux2023.pdf)
+- [Collège des Enseignants de Pneumologie (CEP). Toux chez l'adulte. Item 204. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/10/item_204_TOUX_2021_ex_item_200.pdf)
 
 {{%/sources%}}

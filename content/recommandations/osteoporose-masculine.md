@@ -16,7 +16,6 @@ anglais = ["Osteoporosis"]
 sctid = "64859006"
 icd10 = "M81.99"
 image = true
-imageWEBP = true
 imageSrc = "Illustration de l'ostéoporose de l'homme. BruceBlaus, CC BY-SA 4.0 via Wikimedia Commons"
 todo = "relecture bebouvard@chu-angers.fr"
 flowchart = true

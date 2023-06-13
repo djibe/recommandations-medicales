@@ -3800,6 +3800,7 @@ input:disabled + .chip {
   background-color: #ffffff;
   border: 0;
   font-size: 0.875rem;
+  max-width: 100%;
   width: 100%;
 }
 
@@ -4172,7 +4173,6 @@ input:disabled + .chip {
   pointer-events: none;
   position: relative;
   width: calc(100% - 1rem * 2);
-  will-change: opacity, transform;
 }
 
 .modal.show .modal-dialog {

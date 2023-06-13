@@ -18,7 +18,6 @@ anglais = ["Osteoporosis"]
 sctid = "64859006"
 icd10 = "M81.99"
 image = true
-imageWEBP = true
 imageSrc = "Illustration de l'ostéoporose par BruceBlaus, CC BY-SA 4.0 via Wikimedia Commons"
 flowchart = true
 slider = true
@@ -31,13 +30,13 @@ Recommandations simplifiées pour une prise en charge réaliste de l'ostéoporos
 
 1. Ostéodensitométrie (DXA) pour toutes les femmes après 60 ans ou après une fracture ({{< modal-btn modal-dxa-remboursement >}}critères de remboursement{{< /modal-btn >}})  
   Le calcul du FRAX est disponible plus bas (voir *Calcul du FRAX*).
-2. Bilan de l'ostéoporose: NFS, CRP, créatininémie, ASAT, ALAT, GGT, PAL, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques
-3. Biphosphonate en 1<sup>er</sup> traitement anti-ostéoporotique selon T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou tout T-score ≤ -3
-4. Avis rhumatologique si T-score proche (1 point) de l'indication de traiter
-5. Biphosphonate: bilan bucco-dentaire, [acide alendronique 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois
+1. Bilan de l'ostéoporose: NFS, CRP, créatininémie, ASAT, ALAT, GGT, PAL, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques
+2. Biphosphonate en 1<sup>er</sup> traitement anti-ostéoporotique selon T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou tout T-score ≤ -3
+3. Avis rhumatologique si T-score proche (1 point) de l'indication de traiter
+4. Biphosphonate: bilan bucco-dentaire, [acide alendronique 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois
     - Au moins 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)  
     - Fracture du col du fémur (FESF): [zolédronate 5 mg/100 mL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture).
-6. Contrôle de l'ostéodensitométrie à 2-3 ans ± avis rhumatologique
+5. Contrôle de l'ostéodensitométrie à 2-3 ans ± avis rhumatologique
 7. Nouveau contrôle de la DXA 2 ans après l'arrêt du traitement
 
 Pour l'**ostéoporose cortisonique**, voir la section [traitements anti-ostéoporotiques](#traitements-anti-ostéoporotiques-biphosphonates-raloxifène-dénosumab).

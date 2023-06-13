@@ -396,7 +396,10 @@ a[data-toggle="modal"]:not(.no-icon)::after {
       padding-top: 80px;
     }
   }
+}
 
+.list-page,
+.projet {
   .card-img-top {
     background-color:#FFF4DF;
     background-blend-mode: multiply;
@@ -1515,10 +1518,6 @@ div.mermaidTooltip {
 
 .mw-80ch {
   max-width: 80ch;
-}
-
-.justify-content-between {
-  justify-content: space-between;
 }
 
 input[type="search"]::-webkit-search-decoration,
