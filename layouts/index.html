@@ -62,8 +62,8 @@
           <a href="{{ .RelPermalink }}">
           <div class="card">
             <img loading="lazy" class="card-img img-index" src="{{ if .Params.imageSrc }}/images/photos/{{.File.BaseFileName}}.jpg{{ else }}/images/icons/banner-og.jpg{{ end }}" alt="Illustration de {{ .Title }}" style="aspect-ratio: 16/10">
-            <div class="card-img-overlay overlay-index">
-              <h4 class="card-title" style="color: #fff">{{ .Title }}</h4>
+            <div class="card-img-overlay overlay-index pt-4">
+              <h4 class="card-title font-weight-bold" style="color: #fff">{{ .Title }}</h4>
             </div>
           </div>
           </a>

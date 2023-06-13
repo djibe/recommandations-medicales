@@ -382,9 +382,9 @@ a[data-toggle="modal"]:not(.no-icon)::after {
 }
 
 .card-img-overlay.overlay-index {
-  background-image: linear-gradient(to top, #000000, transparent);
+  background-image: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
   border-radius: 0 0 12px 12px;
-  opacity: 0.8;
+  color: #fff;
 }
 
 // List pages
