@@ -270,12 +270,15 @@ Recommandations pour la prise en charge de l'érythème migrans après piqûre d
 L'antibiothérapie de référence de la maladie de Lyme au stade de l'érythème migrant est la doxycycline et l'amoxicilline avant 8 ans.
 
 {{%info%}}
-Antibiothérapie pendant 14 jours:
 
-- Adulte: doxycycline 100 mg x 2/j
-  - 2<sup>e</sup> ligne ou grossesse: amoxicilline 1g x 3/j
-- Enfant ≥ 8 ans: doxycycline 4 mg/kg/j en 2 prises (max 100 mg/prise et 200 mg/j)
-  - 2<sup>e</sup> ligne: amoxicilline 50 mg/kg/j (max 3 g/j) en 3 prises
+#### Choix de l'antibiotique pour un érythème migrant
+
+Antibiothérapie pendant **14 jours**:
+
+- Adulte: [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R) 100 mg x 2/j  
+  2<sup>e</sup> ligne ou grossesse: amoxicilline 1 g x 3/j.
+- Enfant ≥ 8 ans: doxycycline 4 mg/kg/j en 2 prises (max 100 mg/prise et 200 mg/j)  
+  2<sup>e</sup> ligne: amoxicilline 50 mg/kg/j (max 3 g/j) en 3 prises.
 - Enfant < 8 ans: amoxicilline 50 mg/kg/j en 3 prises  
   (sinon 25 mg/kg toutes les 12h)
   - 2<sup>e</sup> ligne: azithromycine 20 mg/kg/j (max 500 mg/j) pendant 5 jours

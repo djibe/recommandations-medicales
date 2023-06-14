@@ -79,7 +79,7 @@
         {{ with .Params.Icd10 }}<p data-toggle="tooltip" title="Classification Internationale des Maladies">CIM-10: <span class="user-select-all">{{ . }}</span></p>{{ end }}
 
         <p class="typography-overline mt-4">Nouveaux chapitres</p>
-        {{ range first 6 ( where .Site.RegularPages "Section" "recommandations") }}
+        {{ range first 6 ( where .Site.RegularPages.ByPublishDate.Reverse "Section" "recommandations") }}
         <p class="typography-body-2 font-weight-bold">
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </p>

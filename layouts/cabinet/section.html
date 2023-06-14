@@ -18,13 +18,13 @@
         </nav>
       </div>
       <div class="col-12 grid-list">
-      {{ range .Pages.ByPublishDate.Reverse }}
+      {{ range .Pages.ByLastmod.Reverse }}
         <div class="card card-list">
           <div class="card-img-top" style="background-image: url('/images/cabinet/{{.File.BaseFileName}}.webp')"></div>
           <div class="card-header">
             <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             {{ with .Params.Subtitle}}<h3 class="card-subtitle">{{ . }}</h3>{{end}}
-            <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "2 Jan" }}</time></small>
+            <small class="text-black-secondary">Mis à jour le <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "2 Jan" }}</time></small>
           </div>
         </div>
       {{ end }}

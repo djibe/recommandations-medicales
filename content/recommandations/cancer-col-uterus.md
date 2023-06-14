@@ -16,7 +16,7 @@ anglais = ["Cervical cancer"]
 sctid = "363354003"
 icd10 = "C53.9"
 image = true
-imageSrc = "Illustration du cancer du col de l'utérus, scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
+imageSrc = "Le cancer du col de l'utérus par scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
 todo = "pharynx, source: Les infections a HPV deviennent indétectables au bout de 2 ans dans 90% des cas. Dans les 10% des cas où elle persiste elle peut être a l'origine de cancer."
 +++
@@ -214,12 +214,14 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 {{% /collapse %}}
 {{%collapse "Traitement du cancer du col de l'utérus" %}}
 
-Les anomalies découvertes dans les suites du dépistage ou en colposcopie relèvent d'une prise en charge spécialisée pluridisciplinaire.
+Les anomalies découvertes dans les suites du dépistage par frottis cervico-vaginal ou en colposcopie relèvent d'une prise en charge spécialisée pluridisciplinaire.
 
-L'**IRM pelvienne** est systématique dans le bilan d'extension initial du cancer du col de l'utérus.  
+L'**IRM pelvienne** est systématique dans le bilan d'extension initial du cancer du col de l'utérus.
+
 Le marqueur tumoral épidermoïde **SCC** peut être utile pour le suivi ultérieur.
 
-Le traitement du cancer du col peut être, après RCP: chirurgie, radiothérapie, curiethérapie, chimiothérapie.  
+Le traitement du cancer du col peut être (après RCP): chirurgie, radiothérapie, curiethérapie, chimiothérapie.
+
 En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md" >}}) peut être introduit.
 
 {{% /collapse %}}
