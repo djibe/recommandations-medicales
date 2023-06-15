@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-14T19:48:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2023-04-14"
+lastmod = "2023-06-15"
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
 annees = "2021"
 sources = ["CMIT", "SPILF", "MinSanté"]
@@ -82,7 +82,7 @@ Les complications du zona surviennent principalement chez l'immunodéprimé et l
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Signes et symptômes du zona chez l'adulte (et chez l'enfant):
+Signes et symptômes du zona de l'adulte et de l'enfant:
 
 - Antécédents de varicelle et d'épisode de zona
 - Rechercher une immunodépression
@@ -100,8 +100,13 @@ Signes et symptômes du zona chez l'adulte (et chez l'enfant):
 - Zona ophtalmique  
   Surtout après 50 ans, fréquentes complications oculaires et douleurs chroniques.
 
+### Les dermatomes
+
+{{<figure image="/images/photos/dermatomes.svg" title="Les dermatomes. Goran_tek-en, CC BY-SA 4.0, via Wikimedia Commons" loading="lazy">}}
+
 {{%warning%}}
-Facteurs prédictifs d'algies post-zostériennes:
+
+### Facteurs prédictifs d'algies post-zostériennes
 
 - Douleurs pré-éruptives
 - Intensité des douleurs en phase aiguë
@@ -207,8 +212,9 @@ Indications à l'avis ophtalmologique en urgence:
 - Baisse d'acuité visuelle
 - Hyperhémie conjonctivale
 - Immunodépression
-
 {{%/warning%}}
+
+[Annuraire des urgences ophtalmologiques]({{< relref "urgences-ophtalmologiques.md" >}})
 
 ### Traitement de la paralysie faciale périphérique zostérienne
 

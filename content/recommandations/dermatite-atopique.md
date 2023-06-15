@@ -23,10 +23,10 @@ todo = "préparations CHRU, impétiginisation"
 
 {{%article-summary%}}
 
-- Traitement de fond de la dermatite atopique (DA): Émollients quotidiens (préparations détaillées dans *Traitement de fond*) et éviction des facteurs favorisants
-- Prise en charge de la poussée d'eczéma: {{< modal-btn modal-dc >}}dermocorticoïde le soir{{< /modal-btn >}} jusqu'à disparition de l'inflammation puis arrêt brutal
+- Traitement de fond de la dermatite atopique (DA): émollients quotidiens (préparations détaillées dans *Traitement de fond*) et éviction des facteurs favorisants
+- Prise en charge de la poussée d'eczéma: {{< modal-btn modal-dc >}}dermocorticoïde d'activité adaptée{{< /modal-btn >}} en 1 seule application par jour jusqu'à disparition de l'inflammation puis arrêt brutal
 - Dermatite atopique sévère: contrôle de l'observance, suivi dermatologique spécialisé et École de l'atopie
-- [Guide SFD d'information sur la DA (PDF)](https://www.sfdermato.org/upload/fiche/etfad-great-version-france-22o32019-dd00991406282f168b08aec43c3798f0.pdf)
+- [Guide SFD d'information sur la dermatite atopique (PDF)](https://www.sfdermato.org/upload/fiche/etfad-great-version-france-22o32019-dd00991406282f168b08aec43c3798f0.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -280,10 +280,6 @@ accTitle: Conduite à tenir devant une suspicion de dermatite atopique et prise 
 - Prescrire Redaction. Eczéma atopique des nourrissons. La Revue Prescrire. Octobre 2017.
 - [Collège des enseignants de dermatologie de France (CEDEF), Staumont D. Dermatite atopique. Item 163 UE 7. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/ECN-All-2017.pdf)
 - [SFDermato. Prise en charge de la dermatite atopique de l'enfant. Ann Dermatol Venereol. 2005. (PDF)](https://www.sfdermato.org/upload/recommandations/da-court-21929906693b437d6f4315bef48d1518.pdf)
-
-### À lire
-
-[Pharmacotherapeutica. Traitement local de l'eczéma atopique. Folia. 2023.](https://www.cbip.be/fr/articles/3982?folia=3979)
 
 {{%/sources%}}
 {{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}
