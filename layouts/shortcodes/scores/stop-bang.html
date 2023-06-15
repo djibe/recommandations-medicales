@@ -51,7 +51,7 @@
 </blockquote>
 {{ $script := `
   // Score STOP-BANG by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreStopBang = document.getElementById('stopbangScore')
     const textStopBang = document.getElementById('stopbangText')
     const checkboxHomme = document.getElementById('stopbang7')
@@ -91,4 +91,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

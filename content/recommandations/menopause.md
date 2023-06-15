@@ -472,7 +472,7 @@ const chartOptions = {
     height: 350,
     type: 'rangeBar'
   },
-  title: { text: 'Schémas d\'administration du THM' },
+  title: { text: 'Schémas d’administration du THM' },
   plotOptions: { bar: { horizontal: true } },
   xaxis: {
     type: 'datetime',

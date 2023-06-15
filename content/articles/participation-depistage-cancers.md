@@ -54,7 +54,7 @@ const chartOptions = {
   }],
   dataLabels: { formatter: function (val, opts) { return val + "%" }},
   title: { text: 'Taux de participation au dépistage des cancers en 2023' },
-  xaxis: { categories: ['Col de l\'utérus', 'Sein', 'Côlon-rectum'] },
+  xaxis: { categories: ['Col de l’utérus', 'Sein', 'Côlon-rectum'] },
   yaxis: [
     {
       title: {

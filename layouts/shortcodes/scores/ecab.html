@@ -55,7 +55,7 @@
 </blockquote>
 {{ $script := `
   // Score ECAB by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreecab = document.getElementById('ecabScore')
     const textecab = document.getElementById('ecabText');
     [...document.querySelectorAll('#score-ecab input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcEcab() ) })
@@ -73,4 +73,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

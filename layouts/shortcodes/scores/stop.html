@@ -32,7 +32,7 @@
 </blockquote>
 {{ $script := `
   // Score STOP by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreStop = document.getElementById('stopScore')
     const textStop = document.getElementById('stopText');
     [...document.querySelectorAll('#score-stop input[type="checkbox"]')].forEach((stopElem) => { stopElem.addEventListener('click', () => calcStop() ) })
@@ -54,4 +54,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

@@ -442,8 +442,8 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 
 ### À lire
 
-- [Collège d'Urologie. Sexualité normale et ses troubles. Item 50. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-58-Sexualite-normale-et-ses-troubles.pdf)
-- [Collège d'Urologie. Trouble de l'érection. Item 126. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-126-Troubles-de-lerection.pdf)
+- [Collège Français des Enseignants en Urologie (CFEU). Sexualité normale et ses troubles. Item 50. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-58-Sexualite-normale-et-ses-troubles.pdf)
+- [Collège Français des Enseignants en Urologie (CFEU). Trouble de l'érection. Item 126. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-126-Troubles-de-lerection.pdf)
 - {{< references/college-endocrino >}}
 
 {{%/sources%}}

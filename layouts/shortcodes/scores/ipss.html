@@ -142,7 +142,7 @@
 </blockquote>
 {{ $script := `
   // Score IPSS by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreIpss = document.getElementById('ipssScore')
     const textIpss = document.getElementById('ipssText');
     [...document.querySelectorAll('#score-ipss input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcIpss() ) })
@@ -158,4 +158,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

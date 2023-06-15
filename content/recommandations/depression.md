@@ -17,7 +17,7 @@ icd10 = "F32.9"
 draft = true
 image = false
 imageSrc = ""
-todo = "MonParcoursPsy, quest ASQ, https://pharmacologie.sfpeada.fr/, https://onlinelibrary.wiley.com/doi/10.1002/wps.21069, https://www.bmj.com/content/380/bmj-2022-070678##, Antidépresseurs à éviter: cita + escita, venlafaxine, duloxetine, agomelatine, trianeptine, Eviter (es)-citalopram. Risque mort subite si couplé (éso)-méprazole;"
+todo = "MonParcoursPsy, quest ASQ, https://pharmacologie.sfpeada.fr/, https://onlinelibrary.wiley.com/doi/10.1002/wps.21069, https://www.bmj.com/content/380/bmj-2022-070678##, Antidépresseurs à éviter: cita + escita, venlafaxine, duloxetine, agomelatine, trianeptine, Eviter (es)-citalopram. Risque mort subite si couplé (éso)-méprazole, https://dumas.ccsd.cnrs.fr/dumas-01599531/document;"
 +++
 
 {{%article-summary%}}
@@ -113,8 +113,14 @@ Cotation TODO:
 - Psychiaclic
 - Chevance A. En finir avec les idées fausses sur la psychiatrie et la santé mentale
 - [Vita G et al. Antidepressants for the treatment of depression in people with cancer. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011006.pub4/full/fr)
+- [Williams JB. A structured interview guide for the Hamilton Depression Rating Scale. Arch Gen Psychiatry. 1988;45(8):742-747. doi:10.1001/archpsyc.1988.01800320058007](https://pubmed.ncbi.nlm.nih.gov/3395203/)
 
 {{%/sources%}}
+{{% modal title="Echelle de depression de Hamilton" id="modal-hamilton"%}}
+
+{{< scores/hamilton >}}
+
+{{% /modal %}}
 {{% modal title="Score PHQ-9" id="modal-phq9"%}}
 
 {{< scores/phq9 >}}

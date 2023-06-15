@@ -38,12 +38,12 @@ Cocher chaque case ci-dessous en cas de réponse positive.</p>
 </div>
 <blockquote>
   <p lang="en">
-    <a href="https://doi.org/10.1111%2Fj.1468-2982.2008.01786.x" rel="external nofollow noopener">Lipton RB et al. Validity and reliability of the Migraine-Treatment Optimization Questionnaire. Cephalalgia Int J. Headache 2009;29:751–9.</a>
+    <a href="https://doi.org/10.1111%2Fj.1468-2982.2008.01786.x" rel="external nofollow noopener">Lipton RB et al. Validity and reliability of the Migraine-Treatment Optimization Questionnaire. Cephalalgia Int J. Headache 2009;29:751-9.</a>
   </p>
 </blockquote>
 {{ $script := `
   // Score M-TOQ by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreMtoq = document.getElementById('mtoqScore')
     const textMtoq = document.getElementById('mtoqText');
     [...document.querySelectorAll('#score-mtoq input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('change', () => calcMtoq() ) })
@@ -67,4 +67,4 @@ Cocher chaque case ci-dessous en cas de réponse positive.</p>
       [...document.querySelectorAll('#score-mtoq input[type=\"checkbox\"]:not(:checked)')].forEach(elemUnchecked => { elemUnchecked.nextElementSibling.nextElementSibling.classList.remove('d-none') })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

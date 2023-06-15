@@ -70,7 +70,7 @@
 </blockquote>
 {{ $script := `
   // Score MNA by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoremna = document.getElementById('mnaScore')
     const textmna = document.getElementById('mnaText');
     [...document.querySelectorAll('#score-mna input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcMna() ) })
@@ -92,4 +92,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

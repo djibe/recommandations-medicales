@@ -70,7 +70,7 @@
 </blockquote>
 {{ $script := `
   // Score FACE by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreFace = document.getElementById('faceScore')
     const textFace = document.getElementById('faceText');
     [...document.querySelectorAll('#score-face input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcFace() ) })
@@ -95,4 +95,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

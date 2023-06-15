@@ -93,7 +93,7 @@
 </blockquote>
 {{ $script := `
   // Score HIT-6™ by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreHit6 = document.getElementById('hit6Score')
     const textHit6 = document.getElementById('hit6Text');
     [...document.querySelectorAll('#score-hit6 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcHit6() ) })
@@ -107,4 +107,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

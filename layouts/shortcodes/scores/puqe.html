@@ -62,7 +62,7 @@
 </blockquote>
 {{ $script := `
   // Score PUQE modifié by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scorePuqe = document.getElementById('puqeScore')
     const textPuqe = document.getElementById('puqeText');
     [...document.querySelectorAll('#score-puqe input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcPuqe() ) })
@@ -80,4 +80,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

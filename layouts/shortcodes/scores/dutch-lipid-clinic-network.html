@@ -70,7 +70,7 @@
 </blockquote>
 {{ $script := `
   // Score Dutch Lipid Clinic Network by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreDlcn = document.getElementById('dlcnScore')
     const textDlcn = document.getElementById('dlcnText')
     const tendinousElem = document.getElementById('dutch-hyperchol-31')
@@ -98,4 +98,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

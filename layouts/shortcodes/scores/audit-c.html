@@ -62,7 +62,7 @@
 </blockquote>
 {{ $script := `
   // Score AUDIT-C by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreAuditc = document.getElementById('auditScore')
     const textAuditc = document.getElementById('auditText');
     [...document.querySelectorAll('#score-auditc input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcAuditc() ) })
@@ -87,4 +87,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

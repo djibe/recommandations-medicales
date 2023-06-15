@@ -25,7 +25,7 @@
 </blockquote>
 {{ $script := `
   // Score qSOFA by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreqsofa = document.getElementById('qsofaScore')
     const textqsofa = document.getElementById('qsofaText');
     [...document.querySelectorAll('#score-qsofa input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcqsofa() ) })
@@ -48,4 +48,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

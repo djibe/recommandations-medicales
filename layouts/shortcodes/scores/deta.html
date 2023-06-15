@@ -44,7 +44,7 @@
 </blockquote>
 {{ $script := `
   // Score CAGE-DETA by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreDeta = document.getElementById('detaScore')
     const textDeta = document.getElementById('detaText');
     [...document.querySelectorAll('#score-deta input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcDeta() ) })
@@ -61,4 +61,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

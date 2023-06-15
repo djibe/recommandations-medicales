@@ -109,7 +109,7 @@
 </blockquote>
 {{ $script := `
   // Score Beck FR by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scorebeck = document.getElementById('beckScore')
     const textbeck = document.getElementById('beckText');
     [...document.querySelectorAll('#score-beck input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcbeck() ) })
@@ -135,4 +135,4 @@
       return explain;
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

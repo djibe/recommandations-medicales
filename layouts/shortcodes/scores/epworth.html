@@ -109,7 +109,7 @@
 </blockquote>
 {{ $script := `
   // Score Epworth by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreEPWORTH = document.getElementById('epworthScore')
     const textEPWORTH = document.getElementById('epworthText');
     [...document.querySelectorAll('#score-epworth input[type=\"radio\"]')].forEach((EPWORTHElem) => { EPWORTHElem.addEventListener('click', () => calcEpworth() ) })
@@ -129,4 +129,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

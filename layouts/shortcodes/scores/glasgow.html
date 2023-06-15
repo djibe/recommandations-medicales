@@ -265,19 +265,15 @@
 </div>
 {{ $script := `
   // Score de Glasgow by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreElem = document.getElementById('glasgowScore')
     const textElem = document.getElementById('glasgowText')
     const radioElems = document.querySelectorAll('#score-glasgow input[type=\"radio\"]')
     const panels = document.querySelectorAll('.nav-tabs .nav-link')
     const forms = document.getElementsByClassName('form')
-    radioElems.forEach((radioElem) => { radioElem.addEventListener('change', () => {
-      count()
-    }) })
+    radioElems.forEach((radioElem) => { radioElem.addEventListener('change', () => count() )})
     // Reset counter on tab switch
-    panels.forEach((panel) => { panel.addEventListener('click', () => {
-        reset()
-      })
+    panels.forEach((panel) => { panel.addEventListener('click', () => reset() )
     })
     const reset = () => {
       radioElems.forEach(radio => {
@@ -308,4 +304,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

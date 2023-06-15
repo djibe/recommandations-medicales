@@ -79,7 +79,7 @@ const chartOptions = {
           color: '#fff',
           background: '#4150f5',
         },
-      text: 'Passage à l\'euro',
+      text: 'Passage à l’euro',
       }
     }]
   }

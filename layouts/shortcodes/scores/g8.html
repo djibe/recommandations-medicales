@@ -94,7 +94,7 @@
 </blockquote>
 {{ $script := `
   // Score G8 - Oncodage by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreg8 = document.getElementById('g8Score')
     const textg8 = document.getElementById('g8Text');
     [...document.querySelectorAll('#score-g8 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcG8() ) })
@@ -109,4 +109,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

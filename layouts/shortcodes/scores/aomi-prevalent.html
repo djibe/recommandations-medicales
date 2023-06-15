@@ -46,11 +46,13 @@
 <blockquote class="mt-4">
   <p lang="en">
     <a
-      href="https://doi.org/10.1177%2F1358863X07076827"
+      href="https://pubmed.ncbi.nlm.nih.gov/17451087/"
       rel="external nofollow noopener"
-      >Bendermacher BL et al. A clinical prediction model for the presence of peripheral arterial disease--the benefit of
-      screening individuals before initiation of measurement of the ankle-brachial index: an observational study.
-      Vasc Med. 2007 Feb;12(1):5-11.</a>
+      >Bendermacher BL, Teijink JA, Willigendael EM, et al. A clinical
+      prediction model for the presence of peripheral arterial disease--the
+      benefit of screening individuals before initiation of measurement of the
+      ankle-brachial index: an observational study. Vasc Med. 2007;12(1):5-11.
+      doi:10.1177/1358863X07076827</a>
   </p>
 </blockquote>
 {{ $script := `
@@ -92,4 +94,4 @@
       else if (score >= 13) { return 40.6 }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

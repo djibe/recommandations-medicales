@@ -10,7 +10,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-14T15:58:37+01:00"
 publishdate = "2021-12-14"
-lastmod = "2023-02-10"
+lastmod = "2023-06-15"
 specialites = []
 annees = "2023"
 sources = []
@@ -71,12 +71,12 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 
 ## Psychiatrie {.typography-overline}
 
-- Repérage d'une dépression: {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-had >}}HAD{{< /modal-btn >}}
+- Repérage d'une dépression: {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-had >}}HAD{{< /modal-btn >}}
 - Repérage d'une anxiété: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal-had >}}HAD{{< /modal-btn >}}
 - Troubles du comportement alimentaire: {{< modal-btn modal-scoff >}}dépistage (score SCOFF-F){{< /modal-btn >}}
 - Alcool recherche de mésusage: {{< modal-btn modal-audit >}}questionnaire AUDIT{{< /modal-btn >}}, {{< modal-btn modal-deta >}}CAGE/DETA{{< /modal-btn >}}, {{< modal-btn modal-face >}}FACE{{< /modal-btn >}}
 - Cannabis usage problématique: {{< modal-btn modal-cast >}}CAST{{< /modal-btn >}}
-- Benzodiazépines dépendance: {{< modal-btn modal-score-ecab >}}ECAB{{< /modal-btn >}}
+- Benzodiazépines (dépendance): {{< modal-btn modal-score-ecab >}}ECAB{{< /modal-btn >}}
 
 ## Urologie {.typography-overline}
 
@@ -262,6 +262,11 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{% modal title="Questionnaire FACE de mésusage de l'alcool" id="modal-face"%}}
 
 {{< scores/face >}}
+
+{{% /modal %}}
+{{% modal title="Echelle de depression de Hamilton" id="modal-hamilton"%}}
+
+{{< scores/hamilton >}}
 
 {{% /modal %}}
 {{% modal title="Score PHQ-9" id="modal-phq9"%}}

@@ -50,7 +50,7 @@
 </div>
 {{ $script := `
   // Score RIETE by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreRiete = document.getElementById('rieteScore')
     const textRiete = document.getElementById('rieteText');
     [...document.querySelectorAll('#score-riete input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcRiete() ) })
@@ -74,4 +74,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

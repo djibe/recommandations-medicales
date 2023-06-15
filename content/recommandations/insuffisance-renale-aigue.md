@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-25T16:39:18+02:00"
 publishdate = "2022-10-28"
-lastmod = "2022-10-28"
+lastmod = "2023-06-15"
 specialites = ["nephrologie"]
 annees = "2012"
 sources = ["KDIGO"]
@@ -53,8 +53,8 @@ Valeurs normales de créatininémie: 60-107 µmol/L chez la femme et 80-115 chez
 
 Causes possibles d'une insuffisance rénale aiguë:
 
-- Cause prérénale fonctionnelle  
-  Hypovolémie ou choc, insuffisance cardiaque.
+- Cause prérénale fonctionnelle (insuffisance rénale aiguë fonctionnelle - IRA F)  
+  Déshydratation extracellulaire (déshydratation, brûlure, diarrhées, diurétique, diabète décompensé, insuffisance surrénale aiguë), iatrogène (IEC, ARA2, AINS, inh. calcineurine) ou hypovolémie efficace (choc, insuffisance cardiaque, syndrome néphrotique, décompensation œdémato-ascitique).
 - Cause parenchymateuse  
   Nécrose tubulaire aiguë (ischémique ou toxique), néphropathie interstitielle ou glomérulopathie.
 - Cause post-rénale (10%)  
@@ -76,6 +76,9 @@ IRA
 IRA-PC
 : Insuffisance rénale aiguë post-contraste
 
+IRA F
+: insuffisance rénale aiguë fonctionnelle
+
 IRC
 : insuffisance rénale chronique
 
@@ -96,6 +99,7 @@ SFR
 
 - Antécédents  
   Urologiques, tabac, familiaux lithiasiques.
+- Traitements en cours (IEC, AINS)
 - Fonctions rénales antérieures
 - Diurèse
 - Signes généraux: fièvre, douleurs
@@ -118,7 +122,7 @@ Rechercher un globe vésical et adresser aux Urgences pour la prise en charge de
 
 Préciser les antécédents (insuffisance rénale, HBP ...), les valeurs antérieures de créatinine et le niveau de diurèse.
 
-Consultation de contrôle à 3 mois après la correction de l'épisode.
+Consultation de contrôle à 3 mois après la correction de l'épisode d'insuffisance rénale aiguë.
 
 {{% /collapse %}}
 {{%collapse "Rein et produits de contraste" %}}
@@ -170,12 +174,9 @@ Risque d'insuffisance rénale aiguë post-contraste selon la voie d'injection:
 {{%/collapse%}}
 {{%sources%}}
 
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale aiguë - Anurie. Item 348. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?article62)
+- [Collège Français des Enseignants en Urologie (CFEU). Insuffisance rénale aiguë - Anurie. Item 348. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/item-348-Insuffisance-renale-aigue.pdf)
 - [SFR, CIRTACI, SFNDT. Rein et produits de contraste. 2020. (PDF)](https://www.sfndt.org/sites/www.sfndt.org/files/medias/documents/Fiche%20de%20recommandation%20pour%20la%20pratique%20clinique_rein%20et%20produit%20de%20contraste.pdf)
 - [KDIGO. Clinical practice guideline for acute kidney injury. Kidney Inter. 2012. (PDF)](https://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf)
-- [Collège d'urologie. Insuffisance rénale aiguë - Anurie. Item 348. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/item-348-Insuffisance-renale-aigue.pdf)
-
-### À lire
-
-[Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale aiguë - Anurie. Item 348. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?article62)
 
 {{%/sources%}}

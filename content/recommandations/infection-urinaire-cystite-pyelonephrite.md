@@ -18,7 +18,7 @@ icd10 = "N39.0"
 image = true
 imageSrc = "Illustration des infections urinaires par Freepik"
 flowchart = true
-todo = "SEO infection urinaire homme recommandation, flowchart Figure 1 et 5, revoir uroscanner p. 23, améliorer pec ECBU+, enfants++, http://medqual.fr/images/PRO_2018/FORMATIONS/OUTILS/ATBR_Memo_OCT2022_OK_PAP.pdf"
+todo = "SEO infection urinaire homme recommandation, flowchart Figure 1 et 5, revoir uroscanner p. 23, améliorer pec ECBU+, enfants++, http://medqual.fr/images/PRO_2018/FORMATIONS/OUTILS/ATBR_Memo_OCT2022_OK_PAP.pdf, https://www.urofrance.org/2023/05/02/cystite-recidivante-du-depistage-a-la-prise-en-charge-optimale-2/"
 +++
 
 {{%article-summary%}}
@@ -366,8 +366,8 @@ accTitle: Prise en charge d'une pyélonéphrite en ambulatoire d'après HAS 2021
 
 - [Arrêté du 31 mars 2022. Journal Officiel. (PDF)](https://www.ameli.fr/sites/default/files/Documents/convention-pharmaciens-titulaires-officine_journal-officiel.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
+- [Collège Français des Enseignants en Urologie (CFEU). Infections urinaires de l'adulte et de l'enfant. Item 161. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-161-Infections-urinaires.pdf)
 - {{< references/spilf-2020 >}}
-- [Collège d'Urologie. Infections urinaires de l'adulte et de l'enfant. Item 161. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-161-Infections-urinaires.pdf)
 - [Caron F et al; SPILF. Recommandations pour la prise en charge des infections urinaires communautaires de l'adulte. Med Mal Inf. 2018.](https://www.sciencedirect.com/science/article/pii/S0399077X17310363)
 
 ### À lire

@@ -167,7 +167,7 @@
 </blockquote>
 {{ $script := `
   // Score EHP-5 FR by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreEHP5 = document.getElementById('ehp5Score')
     const textEHP5 = document.getElementById('ehp5Text');
     [...document.querySelectorAll('#score-ehp5 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcEhp5() ) })
@@ -183,4 +183,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

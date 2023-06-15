@@ -47,7 +47,7 @@
 {{ $script := `
   // Questionnaire DN4 by djibe
   let score = 0;
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const Text = document.getElementById('dn4Text');
     [...document.querySelectorAll('#score-dn4 input[type=\"checkbox\"]')].forEach(function(checkbox) {
       checkbox.addEventListener('change', function(e) {
@@ -57,4 +57,4 @@
       })
     })
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

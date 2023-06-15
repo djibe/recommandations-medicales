@@ -84,7 +84,7 @@
   </div>
 {{ $script := `
   // Score WAST by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreElem = document.getElementById('wastScore')
     const textElem = document.getElementById('wastText')
     const radioElems = document.querySelectorAll('input[type="radio"]')
@@ -105,4 +105,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

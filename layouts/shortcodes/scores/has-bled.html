@@ -51,7 +51,7 @@
 </blockquote>
 {{ $script := `
   // Score HAS-BLED by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreBled = document.getElementById('bledScore')
     const textBled = document.getElementById('bledText');
     var bledElems = document.querySelectorAll('#score-has-bled input');
@@ -71,4 +71,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

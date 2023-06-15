@@ -64,7 +64,7 @@
 </blockquote>
 {{ $script := `
   // Score Fagerström-6 by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scorefager6 = document.getElementById('fager6Score')
     const textfager6 = document.getElementById('fager6Text');
     [...document.querySelectorAll('#score-fager6 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcFager6() ) })
@@ -81,4 +81,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

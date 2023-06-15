@@ -32,7 +32,7 @@ todo = "SEO 'recommandation ivg'"
 Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
 
 {{%/article-summary%}}
-{{%collapse "Calcul du terme" %}}
+{{%collapse "Calcul du terme de grossesse" %}}
 
 {{< outils/terme >}}
 
@@ -58,17 +58,17 @@ Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contrace
 <script>
 const chartOptions = {
   series: [{
-    name: 'Nombre d\'IVG',
+    name: 'Nombre d’IVG',
     data: [208325, 211533, 204105, 203679, 202426, 193763, 202567, 204157, 211075, 210735, 205099, 215611, 220070, 216436, 221587, 219421, 228678, 226812, 222188, 222277, 225836, 221970, 219148, 228984, 227055, 220319, 216068, 217793, 225226, 233259, 222640, 223282]
   },
   {
-    name: 'Ratio d\'avortement',
+    name: 'Ratio d’avortement',
     data: [0.26, 0.27, 0.26, 0.27, 0.27, 0.26, 0.27, 0.27, 0.27, 0.27, 0.25, 0.27, 0.28, 0.27, 0.28, 0.27, 0.28, 0.28, 0.27, 0.27, 0.27, 0.27, 0.27, 0.28, 0.28, 0.28, 0.28, 0.28, 0.30, 0.31, 0.30, 0.30]
   }],
   chart: { type: 'line', height: 320 },
   markers: { size: 0 },
   stroke: { colors: ['#4150f5', '#ffa600'], curve: 'smooth', width: 4 },
-  title: { text: 'Évolution de l\'activité d\'IVG en France de 1990 à 2021' },
+  title: { text: 'Évolution de l’activité d’IVG en France de 1990 à 2021' },
   xaxis: {
     categories: [1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021],
     tickAmount: 7

@@ -37,7 +37,7 @@
 </blockquote>
 {{ $script := `
   // Score FIB-4 by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreFib4 = document.getElementById('fib4Score')
     const textFib4 = document.getElementById('fib4Text')
     const ageElem = document.getElementById('fib4-1')
@@ -66,4 +66,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

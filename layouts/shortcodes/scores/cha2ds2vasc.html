@@ -50,7 +50,7 @@
 </blockquote>
 {{ $script := `
   // Score CHA2DS2-VASc by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const textChads = document.getElementById('chadsText')
     const scoreChads = document.getElementById('chadsScore');
     [...document.querySelectorAll('#score-cha2ds2vasc input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcChads() ) })
@@ -79,4 +79,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

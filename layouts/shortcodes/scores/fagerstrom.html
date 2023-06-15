@@ -42,7 +42,7 @@
 </blockquote>
 {{ $script := `
   // Score de Fagerström simplifié by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreFagerstromShort = document.getElementById('fagerstromShortScore')
     const textFagerstrom = document.getElementById('fagerstromShortText');
     [...document.querySelectorAll('#score-fagerstrom-short input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcFagerstromShort() ) })
@@ -60,4 +60,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

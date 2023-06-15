@@ -92,7 +92,7 @@
 </blockquote>
 {{ $script := `
   // Score GAD-7 by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoregad7 = document.getElementById('gad7Score')
     const textgad7 = document.getElementById('gad7Text');
     [...document.querySelectorAll('#score-gad7 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcGad7() ) })
@@ -109,4 +109,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

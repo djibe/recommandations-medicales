@@ -63,7 +63,7 @@
 </blockquote>
 {{ $script := `
   // Score CAST by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreCast = document.getElementById('castScore')
     const textCast = document.getElementById('castText');
     [...document.querySelectorAll('#score-cast input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcCast() ) })
@@ -80,4 +80,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

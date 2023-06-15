@@ -49,7 +49,7 @@
 </blockquote>
 {{ $script := `
   // Score SCOFF-F by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scorescoff = document.getElementById('scoffScore')
     const textscoff = document.getElementById('scoffText');
     [...document.querySelectorAll('#score-scoff input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcScoff() ) })
@@ -69,4 +69,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

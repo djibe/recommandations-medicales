@@ -1,20 +1,342 @@
-<!-- TODO: CR, https://www.medsyn.fr/perso/g.perrin/cyberdoc/doc/Hamilton.htm, http://www.departement-information-medicale.com/wp-content/uploads/2010/09/ECHELLE-DE-DEPRESSION-DE-HAMILTON.pdf -->
+<!-- TODO: CR, http://www.departement-information-medicale.com/wp-content/uploads/2010/09/ECHELLE-DE-DEPRESSION-DE-HAMILTON.pdf -->
 <div class="mt-4" id="score-hamilton">
-  <p>Échelle de dépression de Hamilton (<dfn><abbr title="Hamilton Rating Scale for Depression" lang="en">HRSD, HDRS ou HAM-D</abbr></dfn>) pour le dépistage d'une dépression.</p>
+  <p>Échelle de dépression de Hamilton (<dfn><abbr title="Hamilton Rating Scale for Depression" lang="en">HDRS, HRSD ou HAM-D</abbr></dfn>) en 17 items qui reflètent
+    des symptômes de la dépression de l'adulte.</p>
+  <p>Cette échelle est le test le plus utilisé pour évaluer <strong>l'intensité des symptômes dépressifs</strong>. Il a une forte corrélation avec
+    une autre échelle de dépression, le MADRS (Montgomery et Asberg).
+  </p>
+  <p>L'évaluation de la dépression avec l'échelle de Hamilton peut être cotée annuellement avec le <b>code CCAM ALQP003</b> (69,12€).</p>
   <fieldset>
-    <legend>A. La personne est-elle dans un état de tristesse, d'impuissance, d'auto dépréciation&nbsp;?</legend>
+    <legend>1. Humeur dépressive (tristesse, sentiment d'être sans espoir, impuissant, auto-dépréciation)</legend>
     <div class="custom-control custom-radio">
       <input type="radio" id="hamilton-11" name="radio-hamilton-1" class="custom-control-input" value="0" required>
-      <label for="hamilton-11" class="custom-control-label">Non</label>
+      <label for="hamilton-11" class="custom-control-label">Absente</label>
     </div>
     <div class="custom-control custom-radio">
       <input type="radio" id="hamilton-12" name="radio-hamilton-1" class="custom-control-input" value="1">
-      <label for="hamilton-12" class="custom-control-label">Oui. Etats affectifs signalés uniquement si on l'interroge (ex. pessimisme, sentiment d'être sans espoir)</label>
+      <label for="hamilton-12" class="custom-control-label">Ces états affectifs ne sont signalés que si l'on interroge le sujet</label>
     </div>
-    <input type="radio" id="hamilton-13" name="radio-hamilton-1" class="d-input-none" value="2">
-    <label for="hamilton-13" class="chip chip-action chip-sm chip-choice">Je me sens tout le temps cafardeux ou triste, et je n'arrive pas à en sortir</label>
-    <input type="radio" id="hamilton-14" name="radio-hamilton-1" class="d-input-none" value="3">
-    <label for="hamilton-14" class="chip chip-action chip-sm chip-choice">Je suis si triste et si malheureux, que je ne peux pas le supporter</label>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-13" name="radio-hamilton-1" class="custom-control-input" value="2">
+      <label for="hamilton-13" class="custom-control-label">Ces états affectifs sont signalés verbalement spontanément</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-14" name="radio-hamilton-1" class="custom-control-input" value="3">
+      <label for="hamilton-14" class="custom-control-label">Le sujet communique ces états affectifs non verbalement (expression facile, attitude, voix, pleurs)</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-15" name="radio-hamilton-1" class="custom-control-input" value="4">
+      <label for="hamilton-15" class="custom-control-label">Le sujet ne communique pratiquement que ces états affectifs dans ses communications spontanées verbales ou non verbales</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>2. Sentiments de culpabilité</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-21" name="radio-hamilton-2" class="custom-control-input" value="0" required>
+      <label for="hamilton-21" class="custom-control-label">Absents</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-22" name="radio-hamilton-2" class="custom-control-input" value="1">
+      <label for="hamilton-22" class="custom-control-label">S'adresse des reproches à lui-même, a l'impression qu'il a causé un préjudice à des gens</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-23" name="radio-hamilton-2" class="custom-control-input" value="2">
+      <label for="hamilton-23" class="custom-control-label">Idées de culpabilité ou ruminations sur des erreurs passées ou des actions condamnables</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-24" name="radio-hamilton-2" class="custom-control-input" value="3">
+      <label for="hamilton-24" class="custom-control-label">La maladie actuelle est une punition. Idées délirantes de culpabilité</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-25" name="radio-hamilton-2" class="custom-control-input" value="4">
+      <label for="hamilton-25" class="custom-control-label">Entend des voix qui l'accusent ou le dénoncent et/ou a des hallucinations visuelles menaçantes</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>3. Suicide</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-31" name="radio-hamilton-3" class="custom-control-input" value="0" required>
+      <label for="hamilton-31" class="custom-control-label">Absent</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-32" name="radio-hamilton-3" class="custom-control-input" value="1">
+      <label for="hamilton-32" class="custom-control-label">A l'impression que la vie ne vaut pas la peine d'être vécue</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-33" name="radio-hamilton-3" class="custom-control-input" value="2">
+      <label for="hamilton-33" class="custom-control-label">Souhaite être mort ou équivalent : toute pensée de mort possible dirigée contre lui-même</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-34" name="radio-hamilton-3" class="custom-control-input" value="3">
+      <label for="hamilton-34" class="custom-control-label">Idées ou gestes de suicide</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-35" name="radio-hamilton-3" class="custom-control-input" value="4">
+      <label for="hamilton-35" class="custom-control-label">Tentatives de suicide</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>4. Insomnie du début de nuit</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-41" name="radio-hamilton-4" class="custom-control-input" value="0" required>
+      <label for="hamilton-41" class="custom-control-label">Pas de difficulté</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-42" name="radio-hamilton-4" class="custom-control-input" value="1">
+      <label for="hamilton-42" class="custom-control-label">Se plaint de difficultés éventuelles à s'endormir</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-43" name="radio-hamilton-4" class="custom-control-input" value="2">
+      <label for="hamilton-43" class="custom-control-label">Se plaint d'avoir chaque soir des difficultés à s'endormir</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>5. Insomnie du milieu de nuit</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-51" name="radio-hamilton-5" class="custom-control-input" value="0" required>
+      <label for="hamilton-51" class="custom-control-label">Pas de difficulté</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-52" name="radio-hamilton-5" class="custom-control-input" value="1">
+      <label for="hamilton-52" class="custom-control-label">Se plaint d'être agité ou troublé pendant la nuit</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-53" name="radio-hamilton-5" class="custom-control-input" value="2">
+      <label for="hamilton-53" class="custom-control-label">Se réveille pendant la nuit</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>6. Insomnie du matin</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-61" name="radio-hamilton-6" class="custom-control-input" value="0" required>
+      <label for="hamilton-61" class="custom-control-label">Pas de difficulté</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-62" name="radio-hamilton-6" class="custom-control-input" value="1">
+      <label for="hamilton-62" class="custom-control-label">Se réveille de très bonne heure le matin mais se rendort</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-63" name="radio-hamilton-6" class="custom-control-input" value="2">
+      <label for="hamilton-63" class="custom-control-label">Incapable de se rendormir s'il se lève</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>7. Travail et activités</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-71" name="radio-hamilton-7" class="custom-control-input" value="0" required>
+      <label for="hamilton-71" class="custom-control-label">Pas de difficulté</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-72" name="radio-hamilton-7" class="custom-control-input" value="1">
+      <label for="hamilton-72" class="custom-control-label">Pensées et sentiments d'incapacité, fatigue ou faiblesse se rapportant
+        à des activités professionnelles ou de détente</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-73" name="radio-hamilton-7" class="custom-control-input" value="2">
+      <label for="hamilton-73" class="custom-control-label">Perte d'intérêt pour les activités professionnelles ou de détente,
+        décrite directement pas le malade ou indirectement par son apathie, son indécision et ses hésitations</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-74" name="radio-hamilton-7" class="custom-control-input" value="3">
+      <label for="hamilton-74" class="custom-control-label">Diminution du temps d'activité ou diminution de la productivité</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-75" name="radio-hamilton-7" class="custom-control-input" value="4">
+      <label for="hamilton-75" class="custom-control-label">A arrêté son travail en raison de sa maladie actuelle</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>8. Ralentissement (lenteur de la pensée et du langage, baisse de la faculté de concentration, baisse de l'activité motrice)</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-81" name="radio-hamilton-8" class="custom-control-input" value="0" required>
+      <label for="hamilton-81" class="custom-control-label">Langage et pensées normaux</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-82" name="radio-hamilton-8" class="custom-control-input" value="1">
+      <label for="hamilton-82" class="custom-control-label">Léger ralentissement à l'entretien</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-83" name="radio-hamilton-8" class="custom-control-input" value="2">
+      <label for="hamilton-83" class="custom-control-label">Ralentissement manifeste à l'entretien</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-84" name="radio-hamilton-8" class="custom-control-input" value="3">
+      <label for="hamilton-84" class="custom-control-label">Entretien difficile</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-85" name="radio-hamilton-8" class="custom-control-input" value="4">
+      <label for="hamilton-85" class="custom-control-label">Entrevue impossible</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>9. Agitation</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-91" name="radio-hamilton-9" class="custom-control-input" value="0" required>
+      <label for="hamilton-91" class="custom-control-label">Aucune</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-92" name="radio-hamilton-9" class="custom-control-input" value="1">
+      <label for="hamilton-92" class="custom-control-label">Crispations, secousses musculaires</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-93" name="radio-hamilton-9" class="custom-control-input" value="2">
+      <label for="hamilton-93" class="custom-control-label">Joue avec ses mains, ses cheveux ...</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-94" name="radio-hamilton-9" class="custom-control-input" value="3">
+      <label for="hamilton-94" class="custom-control-label">Bouge, ne peut rester assis tranquille</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-95" name="radio-hamilton-9" class="custom-control-input" value="4">
+      <label for="hamilton-95" class="custom-control-label">Se tord les mains, ronge ses ongles, arrache ses cheveux, se mord les lèvres ...</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>10. Anxiété psychique</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-101" name="radio-hamilton-10" class="custom-control-input" value="0" required>
+      <label for="hamilton-101" class="custom-control-label">Aucun trouble</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-102" name="radio-hamilton-10" class="custom-control-input" value="1">
+      <label for="hamilton-102" class="custom-control-label">Symptômes légers (ex: tension subjective, irritabilité, perte de concentration)</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-103" name="radio-hamilton-10" class="custom-control-input" value="2">
+      <label for="hamilton-103" class="custom-control-label">Symptômes modérés (ex: se soucie de problèmes mineurs)</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-104" name="radio-hamilton-10" class="custom-control-input" value="3">
+      <label for="hamilton-104" class="custom-control-label">Symptômes sévères (ex: appréhension apparente dans l'expression faciale et la parole)</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-105" name="radio-hamilton-10" class="custom-control-input" value="4">
+      <label for="hamilton-105" class="custom-control-label">Symptômes très invalidants (ex: exprime une peur sans que l'on pose de questions)</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>11. Anxiété somatique (bouche sèche, troubles digestifs, palpitations, céphalées, pollakiurie, hyperventilation, transpiration, soupirs)</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-111" name="radio-hamilton-11" class="custom-control-input" value="0" required>
+      <label for="hamilton-111" class="custom-control-label">Absente</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-112" name="radio-hamilton-11" class="custom-control-input" value="1">
+      <label for="hamilton-112" class="custom-control-label">Discrète</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-113" name="radio-hamilton-11" class="custom-control-input" value="2">
+      <label for="hamilton-113" class="custom-control-label">Moyenne</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-114" name="radio-hamilton-11" class="custom-control-input" value="3">
+      <label for="hamilton-114" class="custom-control-label">Grave</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-115" name="radio-hamilton-11" class="custom-control-input" value="4">
+      <label for="hamilton-115" class="custom-control-label">Frappant le sujet d'incapacité fonctionnelle</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>12. Symptômes somatiques gastro-intestinaux</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-121" name="radio-hamilton-12" class="custom-control-input" value="0" required>
+      <label for="hamilton-121" class="custom-control-label">Aucun</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-122" name="radio-hamilton-12" class="custom-control-input" value="1">
+      <label for="hamilton-122" class="custom-control-label">Perte d'appétit mais mange sans y être poussé. Sentiment de lourdeur abdominale</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-123" name="radio-hamilton-12" class="custom-control-input" value="2">
+      <label for="hamilton-123" class="custom-control-label">A des difficultés à manger en l'absence d'incitations.
+        Demande ou besoins de laxatifs, de médicaments intestinaux</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>13. Symptômes somatiques généraux</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-131" name="radio-hamilton-13" class="custom-control-input" value="0" required>
+      <label for="hamilton-131" class="custom-control-label">Aucun</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-132" name="radio-hamilton-13" class="custom-control-input" value="1">
+      <label for="hamilton-132" class="custom-control-label">Lourdeur dans les membres, dans le dos ou la tête.
+        Douleur dans le dos, céphalées, douleurs musculaires, perte d'énergie et fatigabilité</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-133" name="radio-hamilton-13" class="custom-control-input" value="2">
+      <label for="hamilton-133" class="custom-control-label">Si n'importe quel symptôme est net</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>14. Symptômes génitaux (perte de libido, troubles menstruels)</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-141" name="radio-hamilton-14" class="custom-control-input" value="0" required>
+      <label for="hamilton-141" class="custom-control-label">Absents</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-142" name="radio-hamilton-14" class="custom-control-input" value="1">
+      <label for="hamilton-142" class="custom-control-label">Légers</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-143" name="radio-hamilton-14" class="custom-control-input" value="2">
+      <label for="hamilton-143" class="custom-control-label">Sévères</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>15. Hypochondrie</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-151" name="radio-hamilton-15" class="custom-control-input" value="0" required>
+      <label for="hamilton-151" class="custom-control-label">Absente</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-152" name="radio-hamilton-15" class="custom-control-input" value="1">
+      <label for="hamilton-152" class="custom-control-label">Attention concentrée sur son propre corps</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-153" name="radio-hamilton-15" class="custom-control-input" value="2">
+      <label for="hamilton-153" class="custom-control-label">Préoccupations sur sa santé</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-154" name="radio-hamilton-15" class="custom-control-input" value="3">
+      <label for="hamilton-154" class="custom-control-label">Plaintes fréquentes, demandes d'aide</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-155" name="radio-hamilton-15" class="custom-control-input" value="4">
+      <label for="hamilton-155" class="custom-control-label">Idées délirantes hypochondriaques</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>16. Perte de poids (autodéclarée | mesurée)</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-161" name="radio-hamilton-16" class="custom-control-input" value="0" required>
+      <label for="hamilton-161" class="custom-control-label">Pas de perte de poids | &lt; 500 g/semaine</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-162" name="radio-hamilton-16" class="custom-control-input" value="1">
+      <label for="hamilton-162" class="custom-control-label">Perte de poids probable liée à la maladie actuelle | &gt; 500 g/semaine</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-163" name="radio-hamilton-16" class="custom-control-input" value="2">
+      <label for="hamilton-163" class="custom-control-label">Perte de poids certaine | &gt; 1 kg/semaine</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>17. Prise de conscience</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-171" name="radio-hamilton-17" class="custom-control-input" value="0" required>
+      <label for="hamilton-171" class="custom-control-label">Reconnaît qu'il est déprimé et malade</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-172" name="radio-hamilton-17" class="custom-control-input" value="1">
+      <label for="hamilton-172" class="custom-control-label">Reconnaît qu'il est malade mais l'attribue à la nourriture, au climat,
+        au surménage, à un virus, à un besoin de repos, etc.</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="hamilton-173" name="radio-hamilton-17" class="custom-control-input" value="2">
+      <label for="hamilton-173" class="custom-control-label">Nie qu'il est malade</label>
+    </div>
   </fieldset>
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center">
@@ -25,34 +347,27 @@
   </div>
 </div>
 <blockquote class="blockquote my-4">
-  <p class="mb-0"><a href="" rel="external nofollow noopener">TODO:</a></p>
+  <p class="mb-0"><a href="https://pubmed.ncbi.nlm.nih.gov/14399272/" rel="external nofollow noopener">
+    HAMILTON M. A rating scale for depression. J Neurol Neurosurg Psychiatry. 1960;23(1):56-62. doi:10.1136/jnnp.23.1.56
+  </a></p>
 </blockquote>
 {{ $script := `
   // Score Hamilton FR by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreHamilton = document.getElementById('hamiltonScore')
     const textHamilton = document.getElementById('hamiltonText');
     [...document.querySelectorAll('#score-hamilton input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcHamilton() ) })
     const calcHamilton = () => {
-      let scoreAnxiete = 0
-      const anxieteElems = document.querySelectorAll('#score-hamilton .anxiete:checked')
-      if (anxieteElems.length + depressionElems.length === 14) {
-        anxieteElems.forEach(anxieteElem => { scoreAnxiete += parseInt(anxieteElem.value, 10) })
-        depressionElems.forEach(depressionElem => { scoreDepression += parseInt(depressionElem.value, 10) })
-        scoreHamilton.innerHTML = scoreAnxiete + scoreDepression
-        textHamilton.innerHTML = 'Anxiété: ' + beckExplain(scoreAnxiete) + '<br>Dépression: ' + beckExplain(scoreDepression)
+      let score = 0
+      const checkedElems = document.querySelectorAll('#score-hamilton input[type=\"radio\"]:checked')
+      if (checkedElems.length === 17) {
+        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
+        scoreHamilton.innerHTML = score
+        if (score <= 9) { textHamilton.innerHTML = "TODO:" }
+        else if (score >= 10 && score <= 13) { textHamilton.innerHTML = "Symptômes dépressifs légers" }
+        else if (score >= 14 && score <= 17) { textHamilton.innerHTML = "Symptômes dépressifs légers à modérés" }
+        else if (score >= 18) { textHamilton.innerHTML = "Symptômes dépressifs modérés à sévères" }
       }
-    }
-    const beckExplain = (score) => {
-      let explain = '';
-      if (score <= 7) {
-        explain = 'absence (' + score + ' pts)'
-      } else if (score >= 8 && score <= 10) {
-        explain = 'doute (' + score + ' pts)'
-      } else if (score >= 11) {
-        explain = 'certaine (' + score + ' pts)'
-      }
-      return explain;
     }
   })` }}
 <script type="module">{{ $script | safeJS }}</script>

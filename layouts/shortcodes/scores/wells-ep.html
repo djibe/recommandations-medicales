@@ -103,7 +103,7 @@
 </div>
 {{ $script := `
   // Score de Wells/Révisé de Genève by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreElem = document.getElementById('wellsEpScore')
     const textElem = document.getElementById('wellsEpText')
     const scoreGeneve = document.getElementById('geneveEpScore')
@@ -168,4 +168,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

@@ -47,7 +47,7 @@
 </blockquote>
 {{ $script := `
   // Score PAGE-B by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scorePageb = document.getElementById('pagebScore')
     const textPageb = document.getElementById('pagebText');
     [...document.querySelectorAll('#score-pageb input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcPageb() ) })
@@ -65,4 +65,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

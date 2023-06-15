@@ -63,7 +63,7 @@
 </blockquote>
 {{ $script := `
   // Score FiRST (Fibromyalgia Rapid Screening Tool) by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreFirst = document.getElementById('firstScore')
     const textFirst = document.getElementById('firstText');
     [...document.querySelectorAll('#score-first input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcFirst() ) })
@@ -78,4 +78,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

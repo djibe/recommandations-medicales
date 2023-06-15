@@ -46,7 +46,7 @@
 </div>
 {{ $script := `
   // Score depistage SAOS diabete by djibe
-    document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreSaosDiabete = document.getElementById('saosDiabeteScore')
     const textSaosDiabete = document.getElementById('saosDiabeteText');
     [...document.querySelectorAll('#score-saos-diabete input[type="checkbox"]')].forEach((elem) => { elem.addEventListener('click', () => calcSaosDiabete() ) })
@@ -68,4 +68,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

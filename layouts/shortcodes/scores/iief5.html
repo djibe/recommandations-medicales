@@ -93,7 +93,7 @@
 </blockquote>
 {{ $script := `
   // Score IIEF-5 by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreiief5 = document.getElementById('iief5Score')
     const textiief5 = document.getElementById('iief5Text');
     [...document.querySelectorAll('#score-iief5 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcIief5() ) })
@@ -111,4 +111,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

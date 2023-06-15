@@ -126,7 +126,7 @@
 </blockquote>
 {{ $script := `
   // Score PHQ-9 by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scorephq9 = document.getElementById('phq9Score')
     const textphq9 = document.getElementById('phq9Text');
     [...document.querySelectorAll('#score-phq9 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcPhq9() ) })
@@ -144,4 +144,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

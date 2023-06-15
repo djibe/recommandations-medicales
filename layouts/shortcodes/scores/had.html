@@ -169,7 +169,7 @@
 </blockquote>
 {{ $script := `
   // Score HAD FR by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreHad = document.getElementById('hadScore')
     const textHad = document.getElementById('hadText');
     [...document.querySelectorAll('#score-had input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcHad() ) })
@@ -197,4 +197,4 @@
       return explain;
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

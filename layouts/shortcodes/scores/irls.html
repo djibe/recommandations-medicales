@@ -139,7 +139,7 @@
 </div>
 {{ $script := `
   // Score IRLS by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreIRLS = document.getElementById('irlsScore')
     const textIRLS = document.getElementById('irlsText');
     [...document.querySelectorAll('#score-irls input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcIrls() ) })
@@ -165,4 +165,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

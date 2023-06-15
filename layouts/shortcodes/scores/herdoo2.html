@@ -29,7 +29,7 @@
 </div>
 {{ $script := `
   // Score HERDOO2 by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreHerdoo2 = document.getElementById('herdoo2Score')
     const textHerdoo2 = document.getElementById('herdoo2Text');
     [...document.querySelectorAll('#score-herdoo2 input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcHerdoo2() ) })
@@ -51,4 +51,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

@@ -28,10 +28,10 @@ todo = "https://pubmed.ncbi.nlm.nih.gov/19195928/"
 
 - 5 critères diagnostiques du syndrome des jambes sans repos (SJSR, examen neurologique +++)
 - Dissociation temps de sommeil-somnolence
-- Étude de tous les diagnostics différentiels
-- Mesurer le retentissement du syndrome des jambes sans repos: {{< modal-btn modal-score-irls >}}IRLS{{< /modal-btn >}}, qualité de vie (sommeil, vie sociale, humeur)
-- Prise en charge du du syndrome des jambes sans repos: Ferritinémie cible > 75 ng/mL et Conseils d'hygiène de vie
-- Traitement par opioïde palier 2 à la demande en cas de syndrome léger
+- Rechercher tous les diagnostics différentiels
+- Mesurer le retentissement du syndrome des jambes sans repos: {{< modal-btn modal-score-irls >}}score IRLS{{< /modal-btn >}}, qualité de vie (sommeil, vie sociale, humeur)
+- Prise en charge du syndrome des jambes sans repos: ferritinémie cible > 75 ng/mL et conseils d'hygiène de vie
+- Traitement des jambes sans repos par opioïde palier 2 à la demande en cas de syndrome léger
 - Avis du spécialiste pour les formes modérées à très sévères des jambes sans repos ou de doute diagnostique
 
 {{%/article-summary%}}

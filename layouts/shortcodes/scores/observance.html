@@ -63,7 +63,7 @@
 </blockquote>
 {{ $script := `
   // Score Observance by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreObservance = document.getElementById('observanceScore')
     const textObservance = document.getElementById('observanceText');
     [...document.querySelectorAll('#score-observance input[type=\"radio\"]')].forEach((observanceElem) => { observanceElem.addEventListener('click', () => calcObservanceScore() ) })
@@ -89,4 +89,4 @@
       })
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

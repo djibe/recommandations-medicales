@@ -127,7 +127,7 @@
 </div>
 {{ $script := `
   // Score de Wells modifié/Constans/LEFt by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  window.addEventListener( 'load', event => {
     const scoreElem = document.getElementById('wellsScore')
     const textElem = document.getElementById('wellsText')
     const scoreConstans = document.getElementById('constansScore')
@@ -210,4 +210,4 @@
       }
     }
   })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>

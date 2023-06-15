@@ -672,6 +672,7 @@ const chartOptions = {
 
 ### À lire
 
+- [Collège Français des Enseignants en Urologie (CFEU). Contraception. Item 36. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-36-Contraception-.pdf)
 - [HAS. Stérilisation à visée contraceptive chez l'homme et chez la femme. Septembre 2019.](https://www.has-sante.fr/jcms/c_1752765/fr/sterilisation-a-visee-contraceptive-chez-l-homme-et-chez-la-femme)
 - [HAS. Contraception chez l'homme. Septembre 2019.](https://www.has-sante.fr/jcms/c_1757909/fr/contraception-chez-l-homme)
 - [HAS. Efficacité des méthodes contraceptives. 2014.](https://www.has-sante.fr/jcms/c_1757924/fr/efficacite-des-methodes-contraceptives)

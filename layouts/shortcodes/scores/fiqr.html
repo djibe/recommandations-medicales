@@ -36,8 +36,8 @@
 </div>
 <p><a href="https://pubmed.ncbi.nlm.nih.gov/19664287/" rel="external nofollow noopener">Bennett RM, Friend R, Jones KD, Ward R, Han BK, Ross RL. The Revised Fibromyalgia Impact Questionnaire (FIQR): validation and psychometric properties [published correction appears in Arthritis Res Ther. 2009;11(5):415]. Arthritis Res Ther. 2009;11(4):R120. doi:10.1186/ar2783</a> et <a href="https://www.sfetd-douleur.org/wp-content/uploads/2021/04/FIQ-revise.pdf" rel="external nofollow noopener">Version française SFETD (PDF)</a></p>
 {{ $script := `
-  // Score FIQR by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
+  // Score FIQR by djibe TODO:
+  window.addEventListener( 'load', event => {
     const scoreCAT = document.getElementById('fiqrScore')
     const textCAT = document.getElementById('fiqrText')
     const goldb = "<p>Groupe <strong>GOLD B</strong> si &lt; 2 exacerbations sans hospitalisation, sinon <strong>GOLD D</strong></p><p>Intensifier le traitement bronchodilatateur</p>"
@@ -58,4 +58,4 @@
       })
   })
 })` }}
-<script>{{ $script | safeJS }}</script>
+<script type="module">{{ $script | safeJS }}</script>
