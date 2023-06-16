@@ -423,7 +423,8 @@ Hypertension résistante: avis spécialisé + RHD rappelées + ajout de [spirono
 
 Particularités de l'hypertension artérielle pendant la grossesse:
 
-- Seuil diagnostique habituel: PAS ≥ 140 mmHg et/ou PAD ≥ 90 mmHg avec brassard manuel
+- Seuil diagnostique habituel  
+  PAS ≥ 140 mmHg et/ou PAD ≥ 90 mmHg avec brassard manuel.
 - Classification différente
   - HTA modérée: 140-159/90-109 mmHg
   - HTA sévère: ≥ 160/110 mmHg  
@@ -439,25 +440,29 @@ Particularités de l'hypertension artérielle pendant la grossesse:
   BU (albuminurie si protéines +), NFS, ASAT, ALAT, créatininémie, uricémie.
 - Bilan étiologique
   - Échodoppler des artères utérines (après 22 SA)
-  - Recherche signes de phéochromocytome
+  - Recherche des signes de phéochromocytome
 
 ### Traitement de l'hypertension pendant la grossesse
 
-Traiter:
+Traiter d'une hypertension artérielle pendant la grossesse:
 
 - HTA gestationnelle (ou surajoutée) ou compliquée > 140/90 mmHg
 - Toutes les autres femmes avec HTA persistante ≥ 150/95 mmHg
 - Cible (mal connue) < 140/90 mmHg si traitement antihypertenseur
 
-Traitements de préférence: Methyldopa, labétalol, ICa.  
-Contre-indications aux IEC/ARA2 et inhibiteurs de la rénine.
+Traitements de préférence: Methyldopa, labétalol, ICa.
+
+Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine
+{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
 
-{{< card-link-external title="Blood pressure monitoring" url="https://stridebp.dayonetech.uk/login.aspx" subtitle="Par les ESH et ISH">}}
+{{< card-link-external title="Blood pressure monitoring" url="https://stridebp.dayonetech.uk/login.aspx" subtitle="Par les sociétés européennes et internationales de cardiologie">}}
 
 {{< youtube id="szPRUb6vh98" title="Mieux dépister et contrôler la pression artérielle (Fréquence Médicale)" >}}
+
+{{< video mp4="https://media.frequencemedicale.com/JDF/20220921_JDF_JEAN_JACQUES_MOURAD_HTA_02.mp4" poster="https://www.frequencemedicale.com/media/fmtype/images/jdf1dec2022-1669884495.png" description="HTA : stratégie en cas de mauvais contrôle par une bithérapie ? (Pr Jean-Jacques Mourad par FréquenceMédicale)" >}}
 
 {{% /collapse %}}
 {{%sources%}}

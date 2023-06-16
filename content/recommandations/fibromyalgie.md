@@ -273,7 +273,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="Journée Inserm en vidéo sur la présentation de la synthèse fibromyalgie" url="https://www.inserm.fr/expertise-collective/fibromyalgie/" subtitle="Inserm">}}
+{{< card-link-external title="Journée Inserm sur la présentation de la synthèse fibromyalgie en vidéo" url="https://www.inserm.fr/expertise-collective/fibromyalgie/" subtitle="Inserm">}}
+
+{{< video mp4="https://media.frequencemedicale.com/JDF/EM238/20230314_JDF_FIBRO_NEURO.mp4" poster="https://www.frequencemedicale.com/media/fmtype/images/jdf238-1678872447.png" description="Douleur chronique diffuse : fibromyalgie ou neuropathie des petites fibres ? (Dr Florian Bailly par FréquenceMédicale)" >}}
 
 - Collège National des Enseignants de Médecine Interne (CEMI). Troubles à symptomatologie somatique et apparentés à tous les âges. Item 72. Référentiel Collège de Médecine interne R2C. 2021.
 - [Inserm. Fibromyalgie. Collection Expertise collective. Montrouge : EDP Sciences. 2020.](https://www.inserm.fr/expertise-collective/fibromyalgie/)

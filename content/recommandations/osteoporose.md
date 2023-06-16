@@ -600,13 +600,11 @@ graph TB
 {{%/collapse%}}
 {{%collapse "Vidéos de formation" %}}
 
-### Vidéos du GRIO sur l'ostéoporose
+Vidéos de formation sur l'ostéoporose.
 
-{{< video mp4="https://media.frequencemedicale.com/JDF/EM223/20221004_JDF_OSTEOPOROSE.mp4" description="Ostéoporose : nouvelles stratégies thérapeutiques (Pr Briot, Pr Cortet par FréquenceMédicale)" >}}
+{{< card-link-external title="FMC GRIO - L'ostéoporose avant la ménopause" url="http://www.grio.org/membres/video-osteo-avant-menopause.php" subtitle="Pr Breuil et Trémollières">}}
 
-{{< card-link-external title="l'ostéoporose avant làménopause" url="http://www.grio.org/membres/video-osteo-avant-menopause.php" subtitle="Pr Breuil et Trémollières">}}
-
-{{< card-link-external title="Ostéoporose Masculine" url="http://www.grio.org/membres/video-webcast.php" subtitle="Le point sur les recommandations françaises de la prise en charge de l'ostéoporose masculine">}}
+{{< video mp4="https://media.frequencemedicale.com/JDF/EM223/20221004_JDF_OSTEOPOROSE.mp4" poster="https://www.frequencemedicale.com/media/fmtype/images/jdf223img-1666000030.png" description="Ostéoporose : nouvelles stratégies thérapeutiques (Pr Briot, Pr Cortet par FréquenceMédicale)" >}}
 
 {{%/collapse%}}
 {{%sources%}}
@@ -619,10 +617,10 @@ graph TB
 - [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l'ostéoporose post-ménopausique. Revue du Rhumatisme. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005)
 - [Dagan N et al. External validation and comparison of three prediction tools for risk of osteoporotic fractures using data from population based electronic health records: retrospective cohort study. BMJ. 2017.](https://doi.org/10.1136/bmj.i6755)
 - [Oberlin P, Mouquet MC. Quel risque de décès un an après une fracture du col du fémur ?. Drees. 2016.](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/quel-risque-de-deces-un-apres-une-fracture-du-col-du-femur)
-- [Shepherd J. et al. Executive Summary of the 2015 ISCD Position Development Conference on Advanced Measures From DXA and QCT: Fracture Prediction Beyond BMD. Journal of Clinical Densitometry. 2015.](https://doi.org/10.1016/j.jocd.2015.06.013)
+- [Shepherd J et al. Executive Summary of the 2015 ISCD Position Development Conference on Advanced Measures From DXA and QCT: Fracture Prediction Beyond BMD. Journal of Clinical Densitometry. 2015.](https://doi.org/10.1016/j.jocd.2015.06.013)
 - [Briot K et al. Risque des femmes de même âge ayant fait une fracture. Revue du Rhumatisme. 2012. (PDF)](http://www.grio.org/documents/page500/boite-a-outils-osteoporose500-1401218558.pdf)
 - [World Health Organization. Assessment of fracture risk and its application to screening for postmenopausal osteoporosis : report of a WHO study group. World Health Organization. 1994.](https://apps.who.int/iris/handle/10665/39142)
-- [GRIO. Site officiel](http://www.grio.org/)
+- [GRIO (site officiel)](http://www.grio.org/)
 - [International Osteoporosis Foundation](https://www.osteoporosis.foundation/)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Ostéopathies fragilisantes. Item 128 UE 6. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-7-0.php)
 

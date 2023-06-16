@@ -17,7 +17,7 @@ icd10 = "https://prod-mapping.ihtsdotools.org/#/"
 draft = true
 image = false
 imageSrc = ""
-todo = ""
+todo = "ARIA"
 +++
 
 {{%article-summary%}}
@@ -33,7 +33,7 @@ Rhinite allergique (RA)
 ### Abréviations
 
 ARIA
-: TODO:
+: {{%lang%}}Allergic rhinitis and its impact on asthma{{%/lang%}} (groupe de travail)
 
 RA
 : rhinite allergique
@@ -50,29 +50,40 @@ SFORL
 
 ### Interrogatoire
 
+Performance diagnostique d'un interrogatoire complet pour le diagnostic la rhinite allergique: aire sous la courbe ROC 77% (*SFORL 2020*)
+{.alert .alert-info}
+
 Le score SFAR est une aide au diagnostic (TODO: src11-12) score 8: se 95,1%-spe 94,8%
 
 - Terrain [atopique](/tags/atopie/)  
   Conjonctivite allergique, [asthme]({{< relref "asthme.md" >}}), [dermatite atopique]({{< relref "dermatite-atopique.md" >}}).
 - Antécédents familiaux atopiques
+- Expositions professionnelles et domestiques
 - Allergènes connus
 - Symptômes de la rhinite allergique
   - Éternuements en salves
   - Rhinorrhée séreuse
   - Prurit nasal, du palais et prurit pharyngé
-  - Signes oculaires (65%): larmoiement, prurit oculaire
+  - Symptômes oculaires (65%): larmoiement, prurit oculaire
   - Troubles de l'odorat: absents voire modérés
   - Symptômes généraux: [fatigue](/tags/fatigue/), irritabilité, troubles de la concentration
 - Périodicité des symptômes  
-  Persistants (rhinite perannuelle) en faveur de pneumallergènes domestiques ou rhinite saisonnière.
-- Complications: troubles du sommeil (mauvaise qualité, ronflements, réveils nocturnes)
+  Circonstances (déménagement, vacances), symptômes persistants (rhinite perannuelle) en faveur de pneumallergènes domestiques ou rhinite saisonnière.
+- Sévérité des symptômes: EVA  
+  {{%class%}}Non contrôlé si EVA > 50 mm.{{%/class%}}
+- Retentissement: troubles du sommeil (mauvaise qualité, ronflements, réveils nocturnes), performances
 - Qualité de vie (questionnaire RQLQ TODO: src10)
 - Signes négatifs
   - Anosmie
 
+> << La sévérité des symptômes est généralement sous-estimée par les médecins >> (*SFORL*)
+
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+### Prick tests
+
+Le diagnostic de certitude de rhinite allergique repose sur la mise en évidence d'une allergie par la positivité des Prick tests sur un ou plusieurs allergènes, concordant avec la clinique.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
