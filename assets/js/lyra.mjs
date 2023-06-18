@@ -4,7 +4,7 @@ import {
   insertBatch,
 } from 'https://cdn.jsdelivr.net/npm/@lyrasearch/lyra@0.4.12/dist/index.js';
 import { stemmer } from 'https://cdn.jsdelivr.net/npm/@lyrasearch/lyra@0.4.12/dist/stemmer/fr.min.js';
-const indexResponse = await fetch('/index.json');
+const indexResponse = await fetch('https://recomedicales.fr/index.json');
 const index = await indexResponse.json();
 
 const searchEngine = await create({
