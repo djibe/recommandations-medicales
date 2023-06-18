@@ -64,6 +64,9 @@ MI
 MVTE (ou MTEV ou ETEV)
 : maladie veineuse thromboembolique (ou maladie thrombo-embolique veineuse ou événement thromboembolique veineux)
 
+SPLF
+: Société de Pneumologie de Langue Française
+
 TIH
 : thrombopénie induite à l'héparine
 

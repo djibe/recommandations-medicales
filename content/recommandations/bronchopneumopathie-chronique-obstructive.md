@@ -119,6 +119,9 @@ LAMA
 RR
 : réhabilitation respiratoire (ou *réadaptation respiratoire*)
 
+SPLF
+: Société de Pneumologie de Langue Française
+
 VEMS
 : volume expiré maximal à la première seconde ({{%lang%}}FEV1{{%/lang%}} en anglais)
 {.dl-inline}

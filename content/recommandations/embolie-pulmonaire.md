@@ -62,6 +62,9 @@ MVTE (ou MTEV)
 SAPL
 : syndrome des anticorps anti-phospholipides
 
+SPLF
+: Société de Pneumologie de Langue Française
+
 THM
 : traitement hormonal de la [ménopause]({{< relref "menopause.md" >}})
 

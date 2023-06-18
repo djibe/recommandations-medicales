@@ -129,6 +129,9 @@ LABA
 SC
 : sous-cutané
 
+SPLF
+: Société de Pneumologie de Langue Française
+
 TVO
 : trouble ventilatoire obstructif
 

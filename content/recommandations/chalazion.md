@@ -72,7 +72,9 @@ En cas de saignement post-interventionnel: compression simple pendant quelques m
 
 ## Sources {.mt-5}
 
-{{< youtube id="vji5gGRZfSo" title="Traitement du chalazion (DOCTEUR VIDEO)" >}}
-
 - [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 86. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
 - [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 84. 2017. (PDF)](http://couf.fr/wp-content/uploads/2016/03/Chapitre-18.pdf)
+
+### Vidéo de formation
+
+{{< youtube id="vji5gGRZfSo" title="Traitement du chalazion (DOCTEUR VIDEO)" >}}

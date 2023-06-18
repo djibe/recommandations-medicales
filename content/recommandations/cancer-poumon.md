@@ -52,6 +52,9 @@ DFGe
 
 PA
 : paquets-années
+
+SPLF
+: Société de Pneumologie de Langue Française
 {.dl-inline}
 
 ### Épidémiologie du cancer du poumon en France
