@@ -154,7 +154,7 @@ Avis spécialisé ORL en cas d'échec à 48-72 heures chez l'enfant (*Antibiocli
 Les recommandations 2016 citaient des deuxièmes lignes d'antibiothérapie chez l'enfant.
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir pour le dépistage de la maladie rénale chronique" "show" %}}
+{{%collapse "Conduite à tenir pour la prise en charge de l'otite moyenne aiguë" "show" %}}
 
 {{< mermaid title="Prise en charge de l'otite moyenne aiguë. Dr JB Fron d'après HAS/SPILF/GPIP 2021" >}}
 graph TB
