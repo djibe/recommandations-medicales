@@ -164,7 +164,8 @@ document.addEventListener( 'DOMContentLoaded', event => {
   document.addEventListener( 'DOMContentLoaded', event => {
 
     // Register Lyra search
-    document.getElementById('btn-search-modal').addEventListener('click', () => import('/lyra.mjs'))
+    {{ $searchModule := resources.Get "/js/lyra.mjs" | minify | fingerprint "sha384" }}
+    document.getElementById('btn-search-modal').addEventListener('click', () => import('{{ $searchModule.Permalink }}'))
 
     // Newsletter: Mailchimp
     const btnNewsletter = document.getElementById('btn-newsletter');
