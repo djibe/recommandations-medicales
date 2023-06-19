@@ -213,7 +213,7 @@ Revoir la *maîtrise de l'asthme* à chaque consultation:
       Pollens, poussière, literie avec textiles anti-acariens, éviction tapis-moquettes, animaux en extérieur, contrôle de l'humidité intérieure.
     - Confirmation des allergies alimentaires
     - Contrôle de comorbidités  
-      Rhinite, sinusite, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), obésité, anxiété, dépression.
+      [Rhinite allergique]({{< relref "rhinite-allergique.md" >}}), sinusite, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), obésité, anxiété, dépression.
     - Grossesse  
       Suivi toutes les 4-6 semaines et supplémentation en vitamine D (*GINA 2021*).
     - Problèmes socio-économiques
@@ -257,7 +257,7 @@ Réévaluer l'efficacité du traitement initial à 2-3 mois.
   - **Allergiques**  
     Pollens, poussières, poils d'animaux, humidité-moisissures, acariens (tapis-moquettes), sulfites, insectes, substances végétales.
   - **Atopiques**  
-    [Dermatite atopique]({{< relref "dermatite-atopique.md" >}}), rhinite allergique (80%).
+    [Dermatite atopique]({{< relref "dermatite-atopique.md" >}}), [rhinite allergique]({{< relref "rhinite-allergique.md" >}}) (80%).
   - Exposition aux particules  
     Sprays ménagers, fumée de tabac, échappements de véhicules, BTP, peintures, parfums, huiles essentielles.
   - Respiratoires  

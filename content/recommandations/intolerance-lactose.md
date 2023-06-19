@@ -73,7 +73,7 @@ Autres signes:
   - Ulcère buccaux
   - Dyspareunie et troubles menstruels
   - Pollakiurie
-  - Eczéma et atopie (sinusite, rhinite, [asthme]({{< relref "asthme.md" >}}))
+  - Eczéma et atopie (sinusite, [rhinite allergique]({{< relref "rhinite-allergique.md" >}}), [asthme]({{< relref "asthme.md" >}}))
   - [Acné]({{< relref "acne.md" >}})
 
 {{% /collapse %}}

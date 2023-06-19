@@ -99,7 +99,7 @@ Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie
 - Infections non parasitaires  
   Bactériémie, brucellose, scarlatine, mycose profonde, [syphilis secondaire]({{< relref "syphilis.md" >}}), mononucléose infectieuse, [VIH]({{< relref "vih-sida.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}), [endocardite]({{< relref "endocardite.md" >}}), mycobactéries ...
 - **Atopie**  
-  HE < 1 g/L et fluctuante: [asthme]({{< relref "asthme.md" >}}), rhinite ou conjonctivite allergique, [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), aspergillose, allergie alimentaire ou **médicamenteuse**, [urticaire]({{< relref "urticaire.md" >}}).
+  HE < 1 g/L et fluctuante: [asthme]({{< relref "asthme.md" >}}), [rhinite]({{< relref "rhinite-allergique.md" >}}) ou conjonctivite allergique, [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), aspergillose, allergie alimentaire ou **médicamenteuse**, [urticaire]({{< relref "urticaire.md" >}}).
 - Toxique  
   Benzène, mercure.
 - Maladie de système  
@@ -133,7 +133,7 @@ Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie
 ### Interrogatoire
 
 - Antécédents  
-  Immunodépression, allergies, atopie (rhinite, [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), [asthme]({{< relref "asthme.md" >}})), [urticaire]({{< relref "urticaire.md" >}}), cancers, familiaux.
+  Immunodépression, allergies, atopie ([rhinite allergique]({{< relref "rhinite-allergique.md" >}}), [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), [asthme]({{< relref "asthme.md" >}})), [urticaire]({{< relref "urticaire.md" >}}), cancers, familiaux.
 - Antécédent de séjour en zone tropicale, baignade en eau douce
 - Contacts avec des animaux
 - Expositions professionnelles

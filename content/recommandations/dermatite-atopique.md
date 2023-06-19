@@ -36,11 +36,11 @@ Dermatite atopique (DA)
 Maladie chronique évoluant par *poussées* avec intervalles libres.
 : Elle touche 10-15% des nourrissons, incidence en nette progression.  
 Elle évolue le plus souvent vers une rémission complète après plusieurs mois ou années (5% persistent chez l'adulte).
-: La moitié présente également d'autres manifestations atopiques: *rhinite* > [asthme]({{< relref "asthme.md" >}}) > conjonctivite > allergie alimentaire.  
+: La moitié présente également d'autres manifestations atopiques: [rhinite allergique]({{< relref "rhinite-allergique.md" >}}) > [asthme]({{< relref "asthme.md" >}}) > conjonctivite > allergie alimentaire.  
 Comorbidités chez l'adulte: cardiovasculaires (HTA, AVC, IDM), rénales, diabète, dépression et suicide.
 : Pas de seuil pour définir une *dermatite atopique sévère*, mais évaluée sur le nombre et la gravité des poussées, le retentissement psychologique, la qualité de vie.
 
-Atopie
+[Atopie](/tags/atopie/)
 : Prédisposition d'origine génétique à produire des anticorps d'isotype IgE lors de l'exposition à des allergènes environnementaux. (*CEDEF 2017*)
 : Famille composée par l'asthme, la rhinite allergique, les allergies alimentaires (évoquer devant régurgitations, diarrhées, eczéma).
 
