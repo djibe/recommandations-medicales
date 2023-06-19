@@ -48,7 +48,7 @@ En attendant un outil plus performant sur RecoMédicales, *OMNIPrat* permet de r
 
 Cotations pour la consultation d'un adulte ou l'enfant à partir de 6 ans.
 
-{{< table >}}
+{{< table title="Cotations pour la consultation d'un adulte ou l'enfant à partir de 6 ans" >}}
 | Code NGAP  | Description                                                                                   | Tarif (€) |
 |------------|-----------------------------------------------------------------------------------------------|----------:|
 | G(S)       | Consultation                                                                                  |        25 |

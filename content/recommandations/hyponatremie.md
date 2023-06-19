@@ -2,7 +2,7 @@
 title = "Hyponatrémie"
 prefix = "l'"
 description = "Recommandations pour la prise en charge de l'hyponatrémie. Osmolalité plasmatique avec la glycémie. Substituer un traitement voire restriction hydrique"
-synonyms = ["hyperhydratation intracellulaire"]
+synonyms = ["Hyperhydratation intracellulaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-30T16:52:08+02:00"
 publishdate = "2023-06-05"
@@ -202,17 +202,17 @@ La prise en charge est spécialisée (endocrinologique, néphrologique), étiolo
 
 {{< mermaid title="Conduite à tenir pour la prise en charge d'une hyponatrémie. Dr JB Fron d'après CUEN 2023, Jacob 2019 et ERBP 2014" >}}
 graph TB
-hyponatrémie["<b>Hyponatrémie</b><br>Na &lt; 135 mmol/L"] --> gravité("<b>Signes de gravité ?</b><hr>- Na &lt; 125<br>- Installation &lt; 48h<br>- Vomissements<br>- Défaillance viscérale<br>- Somnolence, conscience<br>- Convulsions")
+hyponatrémie["<b>Hyponatrémie</b><br>Na &lt; 135 mmol/L"] --> gravité("<b>Signes de gravité ?</b><br>—<br>- Na &lt; 125<br>- Installation &lt; 48h<br>- Vomissements<br>- Défaillance viscérale<br>- Somnolence, conscience<br>- Convulsions")
 style hyponatrémie stroke:#4150f5, stroke-width:1px
-gravité -- Non --> clinique("<b>Clinique</b><hr>- Traitement à risque (diurétique, IRS)<br>- Signes hyper/déshydratation<br>- Infection intercurrente<br>- Apports hydriques<br>- Diurèse<br>- Chutes<br>- Troubles cognitifs<br>- AEG, malignité") --> bilan("<b>Bilan biologique</b><hr>- Natrémie<br>- Glycémie<br>- Calculs: Na corrigée et<br>osmolalité plasmatique")
-    bilan -- Normale --> normale("<b>285 ± 5</b> mOsm/kg<br>=<br>Hyponatrémie<br>isotonique<hr>- Hyperlipidémie<br>- Hyperprotidémie")
+gravité -- Non --> clinique("<b>Clinique</b><br>—<br>- Traitement à risque (diurétique, IRS)<br>- Signes hyper/déshydratation<br>- Infection intercurrente<br>- Apports hydriques<br>- Diurèse<br>- Chutes<br>- Troubles cognitifs<br>- AEG, malignité") --> bilan("<b>Bilan biologique</b><br>—<br>- Natrémie<br>- Glycémie<br>- Calculs: Na corrigée et<br>osmolalité plasmatique")
+    bilan -- Normale --> normale("<b>285 ± 5</b> mOsm/kg<br>=<br>Hyponatrémie<br>isotonique<br>—<br>- Hyperlipidémie<br>- Hyperprotidémie")
     bilan -- Basse --> basse("&lt; 275 mOsm/kg<br>= Hyponatrémie hypotonique") --> osmU(Osmolalité urinaire<br>sur échantillon) -- "≤ 100" --> NaUbasse("- Polydipsie<br>- Apports faibles en solutés<br>- Buveur de bière")
-      osmU -- "&gt; 100" --> extracellulaire("<b>Évaluation du<br>compartiment extracellulaire</b><hr>Clinique + concentration en NaU")
+      osmU -- "&gt; 100" --> extracellulaire("<b>Évaluation du<br>compartiment extracellulaire</b><br>—<br>Clinique + concentration en NaU")
        extracellulaire -- Hypovolémie --> hypovolémie("NaU (mmol/L) ?") -- "NaU ≤ 30" --> pertes("- Pertes cutanées,<br>digestives<br>- 3e secteur: brûlure,<br>pancréatite")
         hypovolémie -- "NaU &gt; 30" --> rénal("Pertes rénales: diurétique,<br>insuff. surrénale,<br>cerebral salt washing")
       extracellulaire -- Euvolémie --> euvolémie("Euvolémie et<br>NaU &gt; 30 mmol/L:<br>- SIADH<br>- Hypothyroïdie<br>- Insuffisance surrénale")
       extracellulaire -- Hypervolémie --> hypervolémie("Insuffisance d'organe:<br>cardiaque, hépatique,<br>rénale, sd néphrotique")
-    bilan -- Élevée --> élevée("&gt; 300 mOsm/kg<br>= Hyponatrémie hypertonique<hr>- Hyperglycémie<br>- Solutés hyperosmolaires")
+    bilan -- Élevée --> élevée("&gt; 300 mOsm/kg<br>= Hyponatrémie hypertonique<br>—<br>- Hyperglycémie<br>- Solutés hyperosmolaires")
   gravité -- Oui --> urgence("Urgences ± SAMU")
 {{< /mermaid >}}
 

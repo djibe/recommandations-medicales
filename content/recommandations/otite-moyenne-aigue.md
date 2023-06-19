@@ -156,11 +156,11 @@ Les recommandations 2016 citaient des deuxièmes lignes d'antibiothérapie chez 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'otite moyenne aiguë" "show" %}}
 
-{{< mermaid title="Prise en charge de l'otite moyenne aiguë. Dr JB Fron d'après HAS/SPILF/GPIP 2021" >}}
+{{< mermaid title="Recommandations pour la prise en charge de l'otite moyenne aiguë. Dr JB Fron d'après HAS/SPILF/GPIP 2021" >}}
 graph TB
 OMAP["Otite moyenne aiguë<br>purulente (OMAP)"] --> 3mois("&lt; 3 mois<br>ou suspicion de<br>complication") --> hôpital("Avis hospitalier<br>urgent")
 style OMAP stroke:#4150f5, stroke-width:1px
-  OMAP --> 2ans("3-23 mois<br>ou ≥ 2 ans avec<br>symptômes intenses") --> antibiothérapie("<b>Antibiothérapie</b><hr>- Amoxicilline<br>- Otite-conjonctivite:<br>+ a. clavulanique") -. Échec 48h .-> spécialiste(Avis spécialisé)
+  OMAP --> 2ans("3-23 mois<br>ou ≥ 2 ans avec<br>symptômes intenses") --> antibiothérapie("<b>Antibiothérapie</b><br>—<br>- Amoxicilline<br>- Otite-conjonctivite:<br>+ a. clavulanique") -. Échec 48h .-> spécialiste(Avis spécialisé)
   OMAP --> adulte("≥ 2 ans, adulte<br>avec symptômes<br>peu intenses") --> abstention(Abstention) -. Persistance à 48h .-> réévaluation("Réévaluation") -.-> antibiothérapie
 {{< /mermaid >}}
 

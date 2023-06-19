@@ -23,7 +23,8 @@ todo = "liens, maladie pro | Le score SFAR est une aide au diagnostic (même che
 
 - Un interrogatoire bien conduit permet un diagnostic fiable de rhinite allergique
 - Rechercher une comorbidité atopique ([asthme]({{< relref "asthme.md" >}}), [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), conjonctivite)
-- Évaluer la rhinite allergique: fréquence (intermittente ou persistante) et sévérité (modérée à sévère si au moins 1 parmi: symptômes gênants, sommeil perturbé, activités scolaires, professionnelles, sociales ou loisirs perturbés (*ARIA*))
+- Évaluer la rhinite allergique: fréquence (intermittente ou persistante) et sévérité  
+  Modérée à sévère si au moins 1 parmi: symptômes gênants, sommeil perturbé, activités scolaires, professionnelles, sociales ou loisirs perturbés (*ARIA*))
 - Bilan de la rhinite allergique: tests cutanés allergiques (prick-tests) en dehors de la rhinite saisonnière
 - Avis pneumologique en cas de suspicion d'un asthme associé
 - Traitement symptomatique selon la sévérité: éviction de l'allergène toujours, DRP, antihistaminique oral ou corticoïdes locaux d'emblée
