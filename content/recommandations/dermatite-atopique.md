@@ -7,7 +7,7 @@ synonyms = ["Eczéma atopique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-02T17:43:41+02:00
 publishdate = "2021-11-29"
-lastmod = "2022-11-10"
+lastmod = "2023-06-19"
 specialites = ["dermatologie"]
 annees = "2020"
 sources = ["EADV", "SFDermato", "CEDEF"]
@@ -18,13 +18,13 @@ icd10 = "L20.9"
 flowchart = true
 image = true
 imageSrc = "Eczéma lichénifié du dos de la main. Care_SMC sur Foter.com / CC BY-ND"
-todo = "préparations CHRU, impétiginisation"
+todo = "phalangette, préparations CHRU, impétiginisation"
 +++
 
 {{%article-summary%}}
 
 - Traitement de fond de la dermatite atopique (DA): émollients quotidiens (préparations détaillées dans *Traitement de fond*) et éviction des facteurs favorisants
-- Prise en charge de la poussée d'eczéma: {{< modal-btn modal-dc >}}dermocorticoïde d'activité adaptée{{< /modal-btn >}} en 1 seule application par jour jusqu'à disparition de l'inflammation puis arrêt brutal
+- Prise en charge de la poussée d'eczéma atopique: {{< modal-btn modal-dc >}}dermocorticoïde d'activité adaptée{{< /modal-btn >}} en 1 seule application par jour jusqu'à disparition de l'inflammation puis arrêt brutal
 - Dermatite atopique sévère: contrôle de l'observance, suivi dermatologique spécialisé et École de l'atopie
 - [Guide SFD d'information sur la dermatite atopique (PDF)](https://www.sfdermato.org/upload/fiche/etfad-great-version-france-22o32019-dd00991406282f168b08aec43c3798f0.pdf)
 
@@ -85,9 +85,7 @@ SCORAD
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Dermatite atopique sévère: [score SCORAD](https://www.mdapp.co/scoring-atopic-dermatitis-scorad-calculator-396/).
-
-### Critères diagnostiques de Williams (*US Working Party 1994*)
+### Critères diagnostiques de Williams de la dermatite atopique (*US Working Party 1994*)
 
 - [Prurit](/tags/prurit/)  
   ou troubles du sommeil chez le nourrisson
@@ -98,9 +96,9 @@ Dermatite atopique sévère: [score SCORAD](https://www.mdapp.co/scoring-atopic-
   - Xérose généralisée
   - Lésions d'eczéma des plis (chez l'enfant)
 
-### Rappels sémiologiques
+### Rappels sémiologiques sur la dermatite atopique
 
-Le diagnostic est clinique:
+Le diagnostic de dermatite atopique est clinique:
 
 - Dermatose vésiculeuse prurigineuse récidivante avec atteinte privilégiée des plis de flexion (*UK Working Party*)
   - Lésions élémentaires de l'eczéma aigu: œdème, érythème, vésicules.
@@ -108,7 +106,7 @@ Le diagnostic est clinique:
 - Les lésions sont aiguës, mal limitées, érythémateuses, suintantes puis croûteuses
 - Lichénification si grattage
 - Interrogatoire policier pour éliminer un facteur aggravant allergique
-- Terrain atopique (70%)  
+- Terrain [atopique](/tags/atopie/) (70%)  
   Allergie alimentaire, asthme du nourrisson, antécédents familiaux atopiques (allergie alimentaire, asthme, DA, rhinite allergique).
 - Débutant dès le bas âge
 - Évolution par poussées avec intervalles libres (xérose persistante)
@@ -119,7 +117,11 @@ Le diagnostic est clinique:
 
 **NB.** Les vésicules ne sont qu'exceptionnellement visibles macroscopiquement.
 
-### Aspect de l'eczéma selon l'âge
+Dermatite atopique sévère: [score SCORAD](https://www.mdapp.co/scoring-atopic-dermatitis-scorad-calculator-396/).
+
+### Aspect de la dermatite atopique selon l'âge
+
+{{< card-link-external title="Localisation des lésions de dermatite atopique selon l'âge" url="https://dermato-info.fr/fr/les-maladies-de-la-peau/la-dermatite-atopique" subtitle="- dermato-info">}}
 
 #### Premières semaines de vie
 
@@ -127,7 +129,7 @@ Atteinte symétrique prédominant sur les convexités du visage (joues, front, m
 
 Siège généralement épargné, parfois sur le cuir chevelu: squames et croûtes jaunâtres (à différencier des << croûtes de lait >> d'une [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})).
 
-#### Enfant après 2 ans
+#### Dermatite atopique de l'enfant après 2 ans
 
 Lésions aux plis (cou, coudes, poplités) et extrémités (mains, poignets, chevilles, mamelons). Lichénification fréquente (épaississement par grattage lié au prurit).  
 Souvent aggravation automno-hivernale, amélioration estivale.
@@ -163,7 +165,7 @@ Indications au bilan allergologique:
 {{% /collapse %}}
 {{%collapse "Traitement de fond de la dermatite atopique" %}}
 
-Le traitement est symptomatique avec lutte contre la xérose cutanée en dehors des poussées.
+La prise en charge de la dermatite atopique est symptomatique avec **lutte contre la xérose** cutanée en dehors des poussées.
 
 ### Émollients remboursés
 
@@ -183,7 +185,7 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 
 > \* Préparation: << Prescription à but thérapeutique en l'absence de spécialités équivalentes disponibles, renouvelable >>
 
-### Mesures générales et Éducation thérapeutique
+### Mesures générales pour la prise en charge de la dermatite atopique et Éducation thérapeutique
 
 - Éviter les facteurs favorisants  
   - Stress, détergents, savons, laine. Préférer coton, soie, polyesters à fibres fines
@@ -212,12 +214,12 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 - Encourager l'allaitement maternel exclusif +3 mois
 - [Guide SFD d'information sur la DA (PDF)](https://www.sfdermato.org/upload/fiche/etfad-great-version-france-22o32019-dd00991406282f168b08aec43c3798f0.pdf)
 
-**NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (Pr D. Staumont *dermato-info* et *EADV*) car sans efficacité sur le prurit. En visée sédative, recours à l'hydroxyzine.
+**NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (*EADV* et Pr D. Staumont *dermato-info*) car sans efficacité sur le prurit. En visée sédative, recours à l'[hydroxyzine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61162294&typedoc=R).
 
 Acupuncture, homéopathie et phytothérapie déconseillées par la *SFD*, pas d'efficacité des eaux thermales
 {.alert .alert-warning}
 
-### Dermatite atopique sévère
+### Suivi de la dermatite atopique sévère
 
 - Suivi dermatologique
 - Suivi médical régulier
@@ -225,20 +227,23 @@ Acupuncture, homéopathie et phytothérapie déconseillées par la *SFD*, pas d'
 
 #### Pour en savoir plus: Traitements spécialisés de l'eczéma sévère
 
-- Inhibiteurs de la calcineurine
+Traitements de la dermatite atopique sur prescription spécialisée uniquement:
+
+- Inhibiteur de la calcineurine: tacrolimus topique (Takrozem®, Protopic®)
 - Photothérapie UVA ou UVB
 - Rétinoïdes
 - Ciclosporine, [méthotrexate]({{< relref "methotrexate.md" >}})
-- Anticorps monoclonaux anti-R IL-4 dupilumab
+- Anticorps monoclonaux anti-R IL-4 dupilumab (Dupixent®)
 
 {{% /collapse %}}
-{{%collapse "Traitement des poussées d'eczéma" %}}
+{{%collapse "Traitement des poussées de dermatite atopique" %}}
 
-Traiter dès le début de la poussée d'eczéma:
+Traiter dès le début la poussée d'eczéma atopique:
 
-- Émollients quotidiens 2-4/j
+- Émollients quotidiens 2-4/j (voir *Traitement de fond*)
 - {{< modal-btn modal-dc >}}Dermocorticoïde le soir{{< /modal-btn >}} jusqu'à disparition de l'inflammation (souvent 3-5 jours)
   - Classe selon la localisation
+  - Quantité: [unité de la phalangette (PDF)](https://allergolyon.fr/wp-content/uploads/2020/07/L_unite_phalangette.pdf)
   - Compter le nombre de tubes
   - Arrêt brutal
   - Avis dermatologique si résistance au traitement
