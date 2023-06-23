@@ -93,8 +93,6 @@ La prévention des otites moyennes aiguës purulentes passe par les **désobstru
 Avant 2 ans, l'antibiothérapie réduit la mortalité. Au-delà, la majorité des otites moyennes aiguës (OMA) guérissent spontanément.
 {.alert .alert-info}
 
-### Prise en charge de l'otite moyenne aiguë
-
 Recommandations pour la prise en charge de l'otite moyenne aiguë selon l'âge:
 
 - Avant 3 mois: avis hospitalier urgent
