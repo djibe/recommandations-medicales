@@ -353,43 +353,43 @@ Mesures précédentes avec les particularités suivantes (*ADA 2023* et *KDIGO 2
 <div class="tab-content" id="justifiedTabContent">
   <div aria-labelledby="sup45-tab" class="tab-pane fade show active" id="sup45" role="tabpanel">
 
-  - Suivi généraliste ≥ 1/an
-  - 1/an: lipidique, glycémie à jeun, créatininémie, ratio albuminurie/créatininurie
+- Suivi généraliste ≥ 1/an
+- 1/an: lipidique, glycémie à jeun, créatininémie, ratio albuminurie/créatininurie
 
   </div>
   <div aria-labelledby="stade3b-tab" class="tab-pane fade" id="stade3b" role="tabpanel">
 
-  - Suivi généraliste ≥ 2/an
-  - Si néphrologue: ≥ 1/an
-  - Tous les 3-6 mois: créatininémie, ratio albuminurie/créatininurie (voire +), ionogramme, bicarbonates, calcémie, phosphorémie
-  - 1-2/an: NFS, réticulocytes, ferritinémie
-  - 1/an: lipidique, glycémie à jeun, créatininémie, albuminémie
-  - Anticorps anti-HBs tous les 3 ans
-  - PTH selon valeur initiale et la progression
+- Suivi généraliste ≥ 2/an
+- Si néphrologue: ≥ 1/an
+- Tous les 3-6 mois: créatininémie, ratio albuminurie/créatininurie (voire +), ionogramme, bicarbonates, calcémie, phosphorémie
+- 1-2/an: NFS, réticulocytes, ferritinémie
+- 1/an: lipidique, glycémie à jeun, créatininémie, albuminémie
+- Anticorps anti-HBs tous les 3 ans
+- PTH selon valeur initiale et la progression
 
   </div>
   <div aria-labelledby="stade4-tab" class="tab-pane fade" id="stade4" role="tabpanel">
 
-  - Suivi généraliste ≥ 4/an
-  - Néphrologue: ≥ 2/an
-  - Tous les 1-3 mois: créatininémie, urémie, ionogramme, bicarbonates, calcémie, phosphorémie
-  - Tous les 1-6 mois: albuminémie, PTH
-  - Tous les 3-6 mois: ratio albuminurie/créatininurie, NFS, réticulocytes, ferritinémie, PAL
-  - 1/an: lipidique, glycémie à jeun, anticorps anti-HBs
+- Suivi généraliste ≥ 4/an
+- Néphrologue: ≥ 2/an
+- Tous les 1-3 mois: créatininémie, urémie, ionogramme, bicarbonates, calcémie, phosphorémie
+- Tous les 1-6 mois: albuminémie, PTH
+- Tous les 3-6 mois: ratio albuminurie/créatininurie, NFS, réticulocytes, ferritinémie, PAL
+- 1/an: lipidique, glycémie à jeun, anticorps anti-HBs
 
   </div>
   <div aria-labelledby="stade5-tab" class="tab-pane fade" id="stade5" role="tabpanel">
 
-  - Suivi généraliste ≥ 1/mois
-  - Néphrologue: ≥ 4/an
-  - 1/mois: créatininémie, ionogramme, bicarbonates, calcémie, phosphorémie
-  - Tous les 1-3 mois: urémie, NFS, réticulocytes, ferritinémie, PAL
-  - Tous les 1-6 mois: albuminémie
-  - Tous les 3-6 mois: PTH
-  - 1/an: lipidique, glycémie à jeun, anticorps anti-HBs
-  - Selon néphrologue: ratio albuminurie/créatininurie
+- Suivi généraliste ≥ 1/mois
+- Néphrologue: ≥ 4/an
+- 1/mois: créatininémie, ionogramme, bicarbonates, calcémie, phosphorémie
+- Tous les 1-3 mois: urémie, NFS, réticulocytes, ferritinémie, PAL
+- Tous les 1-6 mois: albuminémie
+- Tous les 3-6 mois: PTH
+- 1/an: lipidique, glycémie à jeun, anticorps anti-HBs
+- Selon néphrologue: ratio albuminurie/créatininurie
 
-  </div>
+</div>
 </div>
 </div>
 

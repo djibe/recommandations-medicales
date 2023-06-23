@@ -276,7 +276,8 @@ Le conseil génétique est recommandé (*EFNS 2013*) si: plusieurs proches attei
 
 Le traitement est symptomatique et pluridisciplinaire avec un accès privilégié au neurologue (minimum semestriel):
 
-- [ALD n°16]({{< relref "affection-longue-duree.md" >}})
+- [ALD n°16]({{< relref "affection-longue-duree.md" >}})  
+  Critère: Syndrome parkinsonien non réversible nécessitant au moins un traitement anti parkinsonien pendant au moins 6 mois.
 - Suivi minimal trimestriel  
   Avis gériatrique si besoin.
 - Activité physique régulière et diversifiée

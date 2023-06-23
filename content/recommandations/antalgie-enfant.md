@@ -233,6 +233,7 @@ Rassurer, selon l'âge mobiliser: présence des parents, portage, paroles, allai
 
 ### À lire
 
+- [Pillai Riddell RR et al. Non-pharmacological management of infant and young child procedural pain. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006275.pub4/full)
 - [Appli Livret Douleur APHP](https://play.google.com/store/apps/details?id=com.groupe_synapse.livretDouleur)
 - CNRD Centre National de Ressources de lutte contre la Douleur
 - Modèles HAS

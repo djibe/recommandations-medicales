@@ -18,16 +18,16 @@ icd10 = "K57.3"
 image = true
 imageSrc = "Diverticules coliques en coloscopie. Anpol42, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "SEO sigmoidite > diverticulite traitement > diverticulite sigmoidienne, https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.pdf"
+todo = "https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.pdf"
 +++
 
 {{%article-summary%}}
 
 - La diverticulose colique est asymptomatique dans 80% des cas
 - Première poussée de diverticulite sigmoïdienne aiguë (*ex* sigmoïdite diverticulaire): diagnostic systématique par scanner abdomino-pelvien
-- Pas d'antibiotiques si crise de diverticulite (sigmoïdite) non compliquée, sans gravité et sans grossesse durant les 48 premières heures
+- Pas d'antibiotiques en cas de crise de diverticulite non compliquée, sans gravité et sans grossesse durant les 48 premières heures
 - Chirurgie prophylactique des diverticules en cas de comorbidités:  
-  {{%class "text-black-secondary" %}}Immunodépression, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), altération qualité de vie, fistule, abcès, sténose symptomatique.{{%/class%}}
+  {{%class "text-black-secondary" %}}Immunodépression, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), altération de la qualité de vie, fistule, abcès, sténose symptomatique.{{%/class%}}
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -112,7 +112,7 @@ Le scanner est obligatoire en cas de premier épisode de diverticulite (*HAS*)
 
 Le scanner est l'examen de référence pour le diagnostic et la recherche de complications d'une poussée de diverticulite.
 
-Il peut être ensuite réalisé uniquement en cas de récidive d'intensité inhabituelle ou de syndrome inflammatoire biologique marqué chez un patient sans comorbidités (*ESCP 2020*).
+Il peut être ensuite réalisé uniquement en cas de **récidive d'intensité inhabituelle** ou de **syndrome inflammatoire biologique marqué** chez un patient sans comorbidités (*ESCP 2020*).
 
 Il doit être réalisé dans les **72 heures** suivant le début des douleurs en ambulatoire (24h si hospitalisation).
 

@@ -137,7 +137,7 @@ Symptômes principaux évocateurs de fibromyalgie:
 
 1. Douleurs chroniques (≥ 3 mois) diffuses  
   Principalement musculo-squelettiques (arthralgies, myalgies, douleurs tendineuses). Décrites comme "dans tout le corps" ou migratrices.
-1. Allodynie  
+2. Allodynie  
   Douleur déclenchée pour un stimulus indolore pour la population générale.
 
 Avis spécialisé si nécessaire (doute diagnostique, échec des traitements): rhumatologue, neurologue, médecine interne.

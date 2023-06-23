@@ -119,7 +119,7 @@ Indications à l'hystéroscopie:
 - Doute échographique sur une pathologie endocavitaire
 - Endomètre ≥ 15 mm
 - Facteurs de risque de [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}})  
-  Obésité, diabète, tamoxifène pour [cancer du sein]({{< relref "cancer-sein.md" >}}), syndrome de Lynch/HNPCC (, TODO: nulliparité ?).
+  Obésité, diabète, tamoxifène pour [cancer du sein]({{< relref "cancer-sein.md" >}}), syndrome de Lynch/HNPCC (TODO: nulliparité ?).
 
 {{% /collapse %}}
 {{%collapse "Traitements des ménorragies" %}}

@@ -101,7 +101,7 @@ Exemples:
 - [Embolie pulmonaire à répétition]({{< relref "embolie-pulmonaire.md" >}})
 - DMLA
 - [Asthme]({{< relref "asthme.md" >}})
-- Maladie de Paget, maladie de Verneuil
+- Maladie de Paget, [maladie de Verneuil]({{< relref "maladie-verneuil.md" >}})
 - Ulcère cutané chronique ou récidivant avec retentissement fonctionnel sévère
 - Transsexualisme
 - Stérilité
@@ -131,5 +131,9 @@ Demande d'ALD hors liste ou non exonérante, il faut coter l'acte C 1,5 (soit 34
 {{%sources%}}
 
 [Ameli.fr Médecins. Qu'est-ce qu'une affection de longue durée ?. 04/08/2020](https://www.ameli.fr/medecin/exercice-liberal/presciption-prise-charge/situation-patient-ald-affection-longue-duree/definition-ald)
+
+### À lire
+
+[Assurance Maladie. Critères médicaux - Admission et prolongation d'une affection de longue durée exonérante du ticket modérateur. (PDF)](https://www.ameli.fr/sites/default/files/Documents/ald-exonerante-criteres-medicaux_assurance-maladie.pdf)
 
 {{%/sources%}}

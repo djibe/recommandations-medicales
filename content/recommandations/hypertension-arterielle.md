@@ -279,7 +279,7 @@ Détail pour chaque pathologie sur la page du chapitre concerné.
   - Soif, nycturie, hématurie, infections urinaires récidivantes
   - Extrémités froides, claudication ou douleurs de repos, périmètre de marche
 - Signes évocateurs d'**hypertension secondaire**
-  - HTA grade 2-3 chez < 40 ans
+  - HTA grade 2-3 avant 40 ans
   - HTA d'apparition ou d'aggravation rapide
   - Hypertension résistante
   - Hypertension sévère ou [HTA maligne]({{< relref "hypertension-arterielle-maligne.md" >}})
@@ -478,6 +478,7 @@ Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine
 
 ### À lire
 
+- [Whealton S et al. Why Is Cuff Size So Important and Other Factors That Affect Accurate Blood Pressure Measurement. ACC. 2023.](https://www.acc.org/Latest-in-Cardiology/Articles/2023/06/05/19/18/Why-Is-Cuff-Size-So-Important-and-Other-Factors-That-Affect-Accurate-BP-Measurement?utm_medium=social&utm_source=twitter_post&utm_campaign=twitter_post)
 - {{< references/college-endocrino >}}
 - [Xi B et al. Establishing International Blood Pressure References Among Nonoverweight Children and Adolescents Aged 6 to 17 Years. Circulation. 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729639/#SD1)
 

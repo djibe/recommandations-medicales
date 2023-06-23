@@ -141,7 +141,7 @@ La prise en charge de la scoliose est pluridisciplinaire:
   - Après un accouchement
 - Éducation thérapeutique du patient (ETP)
 - [ALD n°26]({{< relref "affection-longue-duree.md" >}})  
-  Indications: angle de Cobb > 30°, enfant ≥ 15° avec aggravation ≥ 5° entre 2 radiographies successives, adulte avec perte de taille ou cyphose justifiant un traitement orthopédique ou chirurgical.
+  Critères: angle de Cobb > 30°, enfant ≥ 15° avec aggravation ≥ 5° entre 2 radiographies successives (~6 mois), adulte avec perte de taille ou cyphose justifiant un traitement orthopédique ou chirurgical.
 
 Le traitement d'une pathologie neuromusculaire ou malformative est spécialisé.
 

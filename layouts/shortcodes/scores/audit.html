@@ -1,0 +1,188 @@
+<div class="mt-4" id="score-audit">
+  <h3 class="card-title">Hétéro-questionnaire AUDIT pour le repérage d'un mésusage de l'alcool</h3>
+  <h4 class="card-subtitle">Questionnaire <span lang="en">Alcohol Use Disorders Identification Test</span> de l'<abbr title="Organisation Mondiale de la Santé">OMS</abbr></h4>
+  <p>L'<abbr title="Alcohol Use Disorders Identification Test" lang="en">AUDIT</abbr> est le questionnaire de repérage de référence pour l'adolescent.</p>
+  <p>Les 10 questions interrogent sur la consommation d'alcool des 12 derniers mois et doivent être posées sans reformulation et cotées selon les réponses spontanées du patient.
+    En cas d'hésitation, demander de choisir "la plus proche de la réalité".</p>
+  <p>Le score est présenté d'après les valeurs préconisées par la SFA. Le score AUDIT OMS révisé (2001, original 1989) a normalement comme bornes 8-15, 16-19
+    (intervention brève) et 20 et au-delà pour la dépendance.</p>
+  <p>1/mois = 1 fois par mois</p>
+  <hr>
+  <fieldset>
+    <legend>Sexe</legend>
+    <input type="radio" id="audit-femme" name="audit-sexe" class="d-input-none" value="0" required>
+    <label for="audit-femme" class="chip chip-action chip-sm chip-choice">Femme</label>
+    <input type="radio" id="audit-homme" name="audit-sexe" class="d-input-none" value="0">
+    <label for="audit-homme" class="chip chip-action chip-sm chip-choice">Homme</label>
+  </fieldset>
+  <p class="typography-body-1 mt-3">Sur l'année écoulée:</p>
+  <fieldset>
+  <legend>1. À quelle fréquence consommez-vous de l'alcool&nbsp;?</legend>
+    <input type="radio" id="audit11" name="audit1" class="d-input-none" value="0" required>
+    <label for="audit11" class="chip chip-action chip-sm chip-choice">Jamais</label>
+    <input type="radio" id="audit12" name="audit1" class="d-input-none" value="1">
+    <label for="audit12" class="chip chip-action chip-sm chip-choice">1/mois ou moins</label>
+    <input type="radio" id="audit13" name="audit1" class="d-input-none" value="2">
+    <label for="audit13" class="chip chip-action chip-sm chip-choice">2 à 4/mois</label>
+    <input type="radio" id="audit14" name="audit1" class="d-input-none" value="3">
+    <label for="audit14" class="chip chip-action chip-sm chip-choice">2 à 3/semaine</label>
+    <input type="radio" id="audit15" name="audit1" class="d-input-none" value="4">
+    <label for="audit15" class="chip chip-action chip-sm chip-choice">4 ou +/semaine</label>
+  </fieldset>
+  <fieldset>
+    <legend>2. Combien de verres d'alcool consommez-vous un jour typique où vous buvez&nbsp;?</legend>
+    <input type="radio" id="audit21" name="audit2" class="d-input-none" value="0" required>
+    <label for="audit21" class="chip chip-action chip-sm chip-choice">1 ou 2</label>
+    <input type="radio" id="audit22" name="audit2" class="d-input-none" value="1">
+    <label for="audit22" class="chip chip-action chip-sm chip-choice">3 ou 4</label>
+    <input type="radio" id="audit23" name="audit2" class="d-input-none" value="2">
+    <label for="audit23" class="chip chip-action chip-sm chip-choice">5 ou 6</label>
+    <input type="radio" id="audit24" name="audit2" class="d-input-none" value="3">
+    <label for="audit24" class="chip chip-action chip-sm chip-choice">7 à 9</label>
+    <input type="radio" id="audit25" name="audit2" class="d-input-none" value="4">
+    <label for="audit25" class="chip chip-action chip-sm chip-choice">10 ou plus</label>
+    <p class="typography-body-2 text-black-secondary mt-2 mb-0">Considérer des seuils d'intervention plus bas chez la personne âgée.</p>
+  </fieldset>
+  <fieldset>
+    <legend>3. À quelle fréquence buvez-vous 6 verres ou plus en une même occasion&nbsp;?</legend>
+    <input type="radio" id="audit31" name="audit3" class="d-input-none" value="0" required>
+    <label for="audit31" class="chip chip-action chip-sm chip-choice">Jamais</label>
+    <input type="radio" id="audit32" name="audit3" class="d-input-none" value="1">
+    <label for="audit32" class="chip chip-action chip-sm chip-choice">&lt; 1/mois</label>
+    <input type="radio" id="audit33" name="audit3" class="d-input-none" value="2">
+    <label for="audit33" class="chip chip-action chip-sm chip-choice">1/mois</label>
+    <input type="radio" id="audit34" name="audit3" class="d-input-none" value="3">
+    <label for="audit34" class="chip chip-action chip-sm chip-choice">1/semaine</label>
+    <input type="radio" id="audit35" name="audit3" class="d-input-none" value="4">
+    <label for="audit35" class="chip chip-action chip-sm chip-choice">Tous les jours ou presque</label>
+  </fieldset>
+  <fieldset>
+    <legend>4. Au cours de l'année écoulée, combien de fois avez-vous constaté que vous n'étiez plus capable de vous
+      arrêter de boire une fois que vous aviez commencé&nbsp;?</legend>
+    <input type="radio" id="audit41" name="audit4" class="d-input-none" value="0" required>
+    <label for="audit41" class="chip chip-action chip-sm chip-choice">Jamais</label>
+    <input type="radio" id="audit42" name="audit4" class="d-input-none" value="1">
+    <label for="audit42" class="chip chip-action chip-sm chip-choice">&lt; 1/mois</label>
+    <input type="radio" id="audit43" name="audit4" class="d-input-none" value="2">
+    <label for="audit43" class="chip chip-action chip-sm chip-choice">1/mois</label>
+    <input type="radio" id="audit44" name="audit4" class="d-input-none" value="3">
+    <label for="audit44" class="chip chip-action chip-sm chip-choice">1/semaine</label>
+    <input type="radio" id="audit45" name="audit4" class="d-input-none" value="4">
+    <label for="audit45" class="chip chip-action chip-sm chip-choice">Tous les jours ou presque</label>
+  </fieldset>
+  <fieldset>
+    <legend>5. Au cours de l'année écoulée, à quelle fréquence le fait d'avoir bu de l'alcool vous a-t-il empêché
+      de faire ce qui était normalement attendu de vous&nbsp;?</legend>
+    <input type="radio" id="audit51" name="audit5" class="d-input-none" value="0" required>
+    <label for="audit51" class="chip chip-action chip-sm chip-choice">Jamais</label>
+    <input type="radio" id="audit52" name="audit5" class="d-input-none" value="1">
+    <label for="audit52" class="chip chip-action chip-sm chip-choice">&lt; 1/mois</label>
+    <input type="radio" id="audit53" name="audit5" class="d-input-none" value="2">
+    <label for="audit53" class="chip chip-action chip-sm chip-choice">1/mois</label>
+    <input type="radio" id="audit54" name="audit5" class="d-input-none" value="3">
+    <label for="audit54" class="chip chip-action chip-sm chip-choice">1/semaine</label>
+    <input type="radio" id="audit55" name="audit5" class="d-input-none" value="4">
+    <label for="audit55" class="chip chip-action chip-sm chip-choice">Tous les jours ou presque</label>
+  </fieldset>
+  <fieldset>
+    <legend>6. Au cours de l'année écoulée, à quelle fréquence , après une période de forte consommation, avez-vous
+      dû boire de l'alcool dès le matin pour vous sentir en forme&nbsp;?</legend>
+    <input type="radio" id="audit61" name="audit6" class="d-input-none" value="0" required>
+    <label for="audit61" class="chip chip-action chip-sm chip-choice">Jamais</label>
+    <input type="radio" id="audit62" name="audit6" class="d-input-none" value="1">
+    <label for="audit62" class="chip chip-action chip-sm chip-choice">&lt; 1/mois</label>
+    <input type="radio" id="audit63" name="audit6" class="d-input-none" value="2">
+    <label for="audit63" class="chip chip-action chip-sm chip-choice">1/mois</label>
+    <input type="radio" id="audit64" name="audit6" class="d-input-none" value="3">
+    <label for="audit64" class="chip chip-action chip-sm chip-choice">1/semaine</label>
+    <input type="radio" id="audit65" name="audit6" class="d-input-none" value="4">
+    <label for="audit65" class="chip chip-action chip-sm chip-choice">Tous les jours ou presque</label>
+  </fieldset>
+  <fieldset>
+    <legend>7. Au cours de l'année écoulée, combien de fois avez-vous eu un sentiment de culpabilité
+      ou des remords après avoir bu&nbsp;?</legend>
+    <input type="radio" id="audit71" name="audit7" class="d-input-none" value="0" required>
+    <label for="audit71" class="chip chip-action chip-sm chip-choice">Jamais</label>
+    <input type="radio" id="audit72" name="audit7" class="d-input-none" value="1">
+    <label for="audit72" class="chip chip-action chip-sm chip-choice">&lt; 1/mois</label>
+    <input type="radio" id="audit73" name="audit7" class="d-input-none" value="2">
+    <label for="audit73" class="chip chip-action chip-sm chip-choice">1/mois</label>
+    <input type="radio" id="audit74" name="audit7" class="d-input-none" value="3">
+    <label for="audit74" class="chip chip-action chip-sm chip-choice">1/semaine</label>
+    <input type="radio" id="audit75" name="audit7" class="d-input-none" value="4">
+    <label for="audit75" class="chip chip-action chip-sm chip-choice">Tous les jours ou presque</label>
+  </fieldset>
+  <fieldset>
+    <legend>8. Au cours de l'année écoulée, combien de fois avez-vous été incapable de vous rappeler ce qui s'était
+      passé la soirée précédente parce que vous aviez bu&nbsp;?</legend>
+    <input type="radio" id="audit81" name="audit8" class="d-input-none" value="0" required>
+    <label for="audit81" class="chip chip-action chip-sm chip-choice">Jamais</label>
+    <input type="radio" id="audit82" name="audit8" class="d-input-none" value="1">
+    <label for="audit82" class="chip chip-action chip-sm chip-choice">&lt; 1/mois</label>
+    <input type="radio" id="audit83" name="audit8" class="d-input-none" value="2">
+    <label for="audit83" class="chip chip-action chip-sm chip-choice">1/mois</label>
+    <input type="radio" id="audit84" name="audit8" class="d-input-none" value="3">
+    <label for="audit84" class="chip chip-action chip-sm chip-choice">1/semaine</label>
+    <input type="radio" id="audit85" name="audit8" class="d-input-none" value="4">
+    <label for="audit85" class="chip chip-action chip-sm chip-choice">Tous les jours ou presque</label>
+  </fieldset>
+  <fieldset>
+    <legend>9. Vous êtes-vous blessé ou avez-vous blessé quelqu'un parce que vous aviez bu&nbsp;?</legend>
+    <input type="radio" id="audit91" name="audit9" class="d-input-none" value="0" required>
+    <label for="audit91" class="chip chip-action chip-sm chip-choice">Non</label>
+    <input type="radio" id="audit93" name="audit9" class="d-input-none" value="2">
+    <label for="audit93" class="chip chip-action chip-sm chip-choice">Oui mais pas au cours de l'année écoulée</label>
+    <input type="radio" id="audit95" name="audit9" class="d-input-none" value="4">
+    <label for="audit95" class="chip chip-action chip-sm chip-choice">Oui au cours de l'année</label>
+  </fieldset>
+  <fieldset>
+    <legend>10. Un parent, un ami, un médecin ou autre soignant s'est-il inquiété de votre consommation d'alcool ou
+      a-t-il suggéré que vous la réduisiez&nbsp;?</legend>
+    <input type="radio" id="audit101" name="audit10" class="d-input-none" value="0" required>
+    <label for="audit101" class="chip chip-action chip-sm chip-choice">Non</label>
+    <input type="radio" id="audit103" name="audit10" class="d-input-none" value="2">
+    <label for="audit103" class="chip chip-action chip-sm chip-choice">Oui mais pas au cours de l'année écoulée</label>
+    <input type="radio" id="audit105" name="audit10" class="d-input-none" value="4">
+    <label for="audit105" class="chip chip-action chip-sm chip-choice">Oui au cours de l'année</label>
+  </fieldset>
+  <div class="alert bg-light d-flex my-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline score-output-title">Score AUDIT</p>
+      <output class="score-output" id="auditScore">0</output>
+    </div>
+  <p id="auditText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</div>
+<blockquote class="blockquote">
+  <p lang="en"><a href="https://www.mirecc.va.gov/cih-visn2/Documents/Provider_Education_Handouts/AUDIT_Test_Manual.pdf" rel="external nofollow noopener">Babor TF et al. The alcohol use disorders identification test. Geneva: World Health Organization. 2001. (PDF)</a>,
+    <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1360-0443.1993.tb02093.x" rel="external nofollow noopener">Saunders JB et al. Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO Collaborative Project on Early Detection of Persons with Harmful Alcohol Consumption--II. Addiction. 1993.</a>
+    et les bornes sont celles utilisées par la Société Française d'Alcoologie 2023</p>
+</blockquote>
+{{ $script := `
+  // Score AUDIT by djibe
+  window.addEventListener( 'load', event => {
+    const scoreAudit = document.getElementById('auditScore')
+    const textAudit = document.getElementById('auditText');
+    [...document.querySelectorAll('#score-audit input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcAudit() ) })
+    const calcAudit = () => {
+      let score = 0
+      const sexe = document.querySelector('input[name=\"audit-sexe\"]:checked')
+      const elemsChecked = document.querySelectorAll('#score-audit input[type=\"radio\"]:checked')
+        elemsChecked.forEach(elemChecked => {
+        score += parseInt(elemChecked.value, 10)
+        if (elemsChecked.length === 11) {
+          scoreAudit.innerHTML = score
+          if (score >= 11) {
+            textAudit.innerHTML = "<strong>Dépendance probable</strong><br>Proposer une consultation d'addictologie"
+          } else if ((score >= 7 && score < 11 && sexe.id === 'audit-homme') || (score >= 6 && score < 11 && sexe.id === 'audit-femme')) {
+            textAudit.innerHTML = "<strong>Mésusage probable</strong><br>Intervention brève"
+          } else {
+            textAudit.innerHTML = "<strong>Risque faible ou nul de mésusage</strong><br>Renforcement des conduites favorables à la santé"
+          }
+        } else {
+          textAudit.innerHTML = 'Veuillez répondre à toutes les questions'
+        }
+      })
+    }
+  })` }}
+<script type="module">{{ $script | safeJS }}</script>

@@ -8,10 +8,10 @@ synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
 publishdate = "2022-01-11"
-lastmod = "2022-08-23"
+lastmod = "2023-06-23"
 specialites = ["addictologie"]
-annees = "2022"
-sources = ["AFEF", "HAS", "SFA"]
+annees = "2023"
+sources = ["SFA", "AFEF", "HAS"]
 tags = ["depistage", "grossesse"]
 anglais = ["Alcoholism", "alcohol use disorder (AUD)"]
 sctid = "7200002"
@@ -23,22 +23,21 @@ todo = "SEO 'sevrage alcoolique has', simplifier, remarques mail, KEY x3 sevrage
 
 {{%article-summary%}}
 
-*Nous avons conscience que cette page doit être simplifiée*
+1. Repérer systématiquement un mésusage de l'alcool à tout âge: consommation moyenne par jour, fréquence mensuelle de consommation ≥ 6 verres, autres toxiques (voir *Repérage*)
+2. Évaluer la consommation d'alcool: score *AUDIT-C* et recherche de comorbidités (voir *Évaluation*)
+3. Intervention brève pour favoriser l'engagement dans une réduction de la consommation d'alcool, encourager à noter la consommation quotidienne
+4. Évaluer les situations sociale, familiale et professionnelle ...
+5. et dépister les complications liées à l'alcool (somatiques, [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}), dépression, anxiété) et les co-addictions (tabac, cannabis)
+6. Donner la liste des associations et des consultations (voir *Information du patient*)
 
-1. Repérage systématique: consommation moyenne par jour, fréquence mensuelle de consommation ≥ 6 verres, autres toxiques (voir *Dépistage*)
-2. Évaluation de la consommation d'alcool: score AUDIT-C ou FACE d'un mésusage et recherche de comorbidités (voir *Évaluation*)
-3. Intervention brève
-4. Dépistage des complications
-
-- 1 verre standard = 10g d'alcool. << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> et << toute consommation d'alcool comporte un risque pour la santé >> (seuil de mésusage = 10 verres/semaine, *[affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*)
 - 0 alcool pendant la grossesse et chez les enfants
-- Mésusage: 1 homme sur 3 et 1 femme sur 6
-- Prise en charge des co-addictions (tabac, cannabis), complications somatiques et troubles psychiatriques ([MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}), dépression, anxiété ...)
+- 1 verre standard = 10g d'alcool | seuil de mésusage = 10 verres/semaine  
+  << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> et << toute consommation d'alcool comporte un risque pour la santé >> *[Affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*
 - Dépister la Maladie du foie liée à l'alcool (MFLA): ≥ 14 verres/semaine et/ou âge ≥ 40 ans ET score AUDIT-C pathologique (voir *Évaluation d'une consommation*) par test de fibrose hépatique (FibroScan® ou biologique Fibrotest® ou Fibromètre Alcool). Arrêt du tabac et lutte surpoids, suivi addictologique
 - Accepter l'objectif de consommation du sujet car toute réduction de consommation est positive. + efficace: auto-évaluation quotidienne de la consommation
-- Abstinence est préférable en dépendance à l'alcool ou comorbidités. Si non souhaitée, accompagnement vers la réduction des dommages
+- Abstinence est préférable en cas de dépendance à l'alcool ou comorbidités. Si non souhaitée, accompagnement vers la réduction des dommages
 
-Pour la pratique: [liste des CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html) et [Annuaire des centres de soins](https://www.addictaide.fr/annuaire/)
+Ressources: [Annuaire des centres de soins CSAPA, addictologues et hôpitaux](https://www.addictaide.fr/annuaire/)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -55,23 +54,24 @@ Stéatopathie métabolique
 
 ### 5 catégories d'usage de l'alcool
 
-1. Non-usage ou abstinence
-2. Usage simple ou à faible risque  
-  Consommation asymptomatique et inférieure aux seuils recommandés (voir *Dépistage*).
-3. **Mésusage**
-    - Usage à risque  
-      Asymptomatique mais susceptible d'entraîner des dommages.
-    - Usage nocif  
-      Dommages somatiques, psychiques ou sociaux mais sans éléments en faveur d'une dépendance.
-    - Usage avec dépendance (CIM-10) ou trouble de l'usage de l'alcool (TUA, DSM-V)
+- Non-usage ou abstinence
+- Usage à faible risque  
+  Consommation asymptomatique et inférieure aux seuils recommandés (voir *Repérage*).
+- **Mésusage** (1 homme sur 3 et 1 femme sur 6)
+  - Usage à risque  
+    Asymptomatique mais susceptible d'entraîner des dommages.
+  - Usage nocif  
+    Dommages somatiques, psychiques ou sociaux mais sans éléments en faveur d'une dépendance.
+  - Usage avec dépendance (CIM-10)  
+    Consommation (quasi)-quotidienne pendant au moins 3 mois.
 
-L'*usage nocif* et la *dépendance* sont caractérisés par des symptômes visibles sur le plan **social**, **psychologique** ou **médical**.
+L'*usage nocif* et la *dépendance* sont caractérisés par des **symptômes** visibles sur le plan social, psychologique ou médical. Ils sont classés comme **troubles dus à l'usage d'alcool** (CIM-11).
 
 Sevrage
 : Arrêt de toute consommation d'alcool, qu'il soit intentionnel ou non.
 
 Rechute
-: Reprise par le patient de fortes consommations ≥ 5 verres/j en 1 seule occasion pour l'homme < 65 ans, 4 si femme ou ≥ 65 ans (définition *FDA* avec verre à 14g).
+: Reprise par le patient de fortes consommations ≥ 5 verres/j en 1 seule occasion pour l'homme avant 65 ans, 4 si femme ou ≥ 65 ans (définition *FDA* avec verre standard à 14g).
 
 ### Abréviations
 
@@ -149,20 +149,30 @@ TUA
 - 75% ignorent les risques pendant la grossesse (*BVA 2015*)
 
 {{% /collapse %}}
-{{%collapse "Dépistage = consommation déclarée" "show" %}}
+{{%collapse "Repérage d'un mésusage de l'alcool" "show" %}}
 
-Questions pour dépister une consommation à risque (mésusage):
+Le repérage doit être réalisé à tout âge, consigné dans le dossier et actualisé. En cas de **repérage positif**, évaluer la consommation (voir la section suivante).
+
+Questions de la *HAS* pour dépister une consommation alcoolique à risque (mésusage):
 
 {{< clinique/addiction-reperage >}}
 
-Demander aussi la **fréquence des jours avec forte consommation ≥ 6 verres**  
+Demander aussi la **fréquence des jours avec forte consommation ≥ 6 verres**.
+
 **Chez l'enfant:** << Y a-t-il déjà eu consommation d'alcool au moins une fois ? >>
 
+Conseils à associer:
+
+1. Réduire la quantité totale d'alcool que vous buvez
+2. Boire lentement, en mangeant ou en alternant avec de l'eau
+3. Éviter les lieux et les activités à risque
+4. S'assurer que vous avez des personnes que vous connaissez près de vous et que vous pouvez rentrer chez vous en toute sécurité
+
 Toute consommation pendant la **grossesse** est un mésusage: urgence addictologique, gynécologique, psychologique et sociale.  
-Idem sans urgence pour jeune (avec avis psychiatrique + parents), cirrhose, travail sur machine, chauffeur professionnel
+Idem sans urgence pour jeune (avec avis psychiatrique + parents), cirrhose, travail sur machine (BTP ...), chauffeur professionnel, sports à risque
 {.alert .alert-warning}
 
-Occasions pour dépister un mésusage: consultation de routine, prescription d'un médicament interagissant avec l'alcool, désir de grossesse, tabagisme, jeune adulte, troubles psychiatriques, précarité, pathologie cardiovasculaire, pathologie résistante au traitement (douleur, dépression, diabète...).
+Occasions pour dépister un mésusage: consultation de routine, prescription d'un médicament interagissant avec l'alcool, désir de grossesse, tabagisme, jeune adulte, troubles psychiatriques, précarité, pathologie cardiovasculaire, pathologie résistante au traitement (douleur, dépression, diabète...) (*NIAAA*).
 
 > Les marqueurs biologiques n'ont pas d'utilité dans le repérage systématique du mésusage d'alcool (*AFEF 2021*)
 {.alert .alert-info}
@@ -170,19 +180,23 @@ Occasions pour dépister un mésusage: consultation de routine, prescription d'u
 ### Pratiques à risque majorant les dommages
 
 - Consommation épisodique massive: ≥ 6 verres/occasion  
-  dit binge drinking, biture expresse ou consommation importante épisodique (60g d'alcool pur en une occasion).
+  dit binge drinking, biture expresse ou consommation importante épisodique (60g d'alcool en une occasion).
 - Association d'alcool et d'autre substance psychoactive
 
 {{% /collapse %}}
 {{%collapse "Évaluation d'une consommation à risque" %}}
 
-L'entretien motivationnel est empathique avec une écoute sans jugement et une acceptation inconditionnelle de la situation (acceptation et bienveillance), c'est un accompagnement.  
 Demander au patient l'autorisation de parler de sa consommation d'alcool.
+
+Le questionnaire *AUDIT-C* peut être utilisé pour une **évaluation de la sévérité du mésusage**.
 
 <div class="card card-hover my-3 mb-xl-5 mw-640">
   <ul class="nav nav-tabs nav-justified" id="tabs-alcool" role="tablist">
     <li class="nav-item" role="presentation">
       <button aria-controls="auditc-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#auditc-panel" id="auditc-tab" type="button" role="tab">AUDIT-C</button>
+    </li>
+    <li class="nav-item" role="presentation">
+      <button aria-controls="audit-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#audit-panel" id="audit-tab" type="button" role="tab">AUDIT</button>
     </li>
     <li class="nav-item" role="presentation">
       <button aria-controls="face-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#face-panel" id="face-tab" type="button" role="tab">FACE</button>
@@ -195,6 +209,9 @@ Demander au patient l'autorisation de parler de sa consommation d'alcool.
   <div aria-labelledby="auditc-tab" class="tab-pane fade show active" id="auditc-panel" role="tabpanel">
   {{< scores/audit-c >}}
   </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
+  <div aria-labelledby="audit-tab" class="tab-pane fade" id="audit-panel" role="tabpanel">
+  {{< scores/audit >}}
+  </div>
   <div aria-labelledby="face-tab" class="tab-pane fade" id="face-panel" role="tabpanel">
   {{< scores/face >}}
   </div>
@@ -207,8 +224,10 @@ Demander au patient l'autorisation de parler de sa consommation d'alcool.
 {{% /collapse %}}
 {{%collapse "Intervention brève et approches motivationnelles" %}}
 
-> Une intervention brève doit être proposée aux patients identifiés comme présentant un mésusage d'alcool (*AFEF 2021*)
+> Une intervention brève doit être proposée aux patients identifiés comme présentant un mésusage d'alcool (*AFEF 2021*) - avec **peu ou pas de signes de dépendance** (*SFA*)
 {.alert .alert-info}
+
+L'entretien motivationnel est empathique avec une écoute sans jugement et une acceptation inconditionnelle de la situation (acceptation et bienveillance), c'est un accompagnement.
 
 Encourager à tenir un **agenda de la consommation** et:
 
@@ -238,18 +257,20 @@ De 0 à 10, évaluer:
 
 > *HAS 2021*
 
+En cas d'alcoolodépendance, le suivi spécialisé est préférable.
+
 {{% /collapse %}}
-{{%collapse "Dépistage des complications" %}}
+{{%collapse "Dépistage des complications liées à l'alcool" %}}
 
 Rechercher les complications d'un mésusage de l'alcool et proposer un suivi spécialisé alcoologique.
 
 - Autres addictions  
-  Tabac 65%, cannabis, opiacés...
+  [Tabac]({{< relref "arret-tabac.md" >}}) 65%, cannabis (10%), opiacés...
 - Complications sociales
   - Travail, contrat, formation
   - Foyer, famille, entourage
-  - Hébergement, finances
-  - Judiciaire, violence
+  - Finances, hébergement
+  - Violences, judiciaire
 - Complications psychiatriques
   - Anxiété, dépression
   - Troubles du sommeil
@@ -258,28 +279,31 @@ Rechercher les complications d'un mésusage de l'alcool et proposer un suivi sp�
   - Psychose
   - Évaluation du risque suicidaire
   - Troubles cognitifs  
-    Test MoCA à distance du sevrage voire évaluation neuropsychologique.
+    Test MoCA (([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf))) à distance du sevrage voire évaluation neuropsychologique.
 - Complications somatiques
+  - IMC et variations de poids
+  - Hépatomégalie et ascite
   - Accidents répétés
   - Érythrose du visage, hyperémie conjonctivale
   - Troubles digestifs
   - Maladie du foie liée à l'alcool (MFLA)  
-    Stéatose > stéato-hépatite (90% des buveurs excessifs) > cirrhose (10-20% des buveurs excessifs).
+    Stéatose > [stéato-hépatite]({{< relref "steatose-hepatique-et-nash.md" >}}) (90% des buveurs excessifs) > cirrhose (10-20% des buveurs excessifs).
   - Polynévrite
-  - {{< modal-btn modal-mna >}}Dépister une dénutrition (MNA){{< /modal-btn >}}
+  - Dépister une [dénutrition]({{< relref "denutrition.md" >}}) ({{< modal-btn modal-mna >}}questionnaire MNA{{< /modal-btn >}})
 
 ### Bilan complémentaire
 
 Le bilan biologique est annuel:
 
 - NFS
-- ASAT, ALAT, GGT, PAL, TP
-- Bilirubinémie
+- ASAT, ALAT, GGT, PAL
+- TP, bilirubinémie
+- Albuminémie
 - Sérologies [hépatite B]({{< relref "hepatite-b.md" >}}) et [hépatite C]({{< relref "hepatite-c.md" >}})
 - Sérologie VIH si expositions à risque
 - Occasionnel: glycémie à jeun et bilan lipidique
-- Si MFLA: FibroScan® ou biologique (Fibrotest® ou Fibromètre Alcool®)  
-  Interprétation des résultats selon les taux d'ASAT et bilirubine.
+- Mésusage et +40 ans: FibroScan® ou test non invasif biologique (Fibrotest® ou Fibromètre Alcool®)  
+  Interprétation des résultats selon les taux d'ASAT et bilirubine (voir plus bas).
 - Consultation ORL
 - Consultation dentaire
 - Troubles neurologiques: bilan de [dénutrition]({{< relref "denutrition.md" >}}) et carences (B1 ++)
@@ -322,44 +346,51 @@ L'échographie hépatique n'a pas d'intérêt pour dépister une MFLA.
 {{% /collapse %}}
 {{%collapse "Mesures générales et suivi" %}}
 
-L'objectif est l'amélioration de la qualité de vie des personnes.  
-Il est recommandé de **promouvoir l'abstinence** mais d'**accepter les objectifs de consommation du patient** s'il choisit une réduction de la consommation (idéalement à faible risque). Toute réduction de consommation doit être valorisée par le médecin généraliste.
+L'objectif de la prise en charge est l'amélioration de la qualité de vie des personnes.
+
+Il est recommandé de **promouvoir l'abstinence** mais d'**accepter les objectifs de consommation du patient** s'il choisit une réduction de la consommation (idéalement à faible risque). Toute réduction de consommation d'alcool doit être **valorisée** par le médecin généraliste.
 
 Installer une alliance thérapeutique sur la définition du problème à résoudre et les objectifs à poursuivre.
 
-- Favoriser le soutien de l'entourage
+- Favoriser le soutien de l'entourage  
+  Envisager une séance de thérapie conjugale.
 - Ressources de soins
-  - Adresser d'emblée si mésusage très sévère, comorbidités, isolement/précarité, jeune (consultations jeunes consommateurs)
+  - Adresser d'emblée si mésusage très sévère, comorbidités, isolement/précarité, jeune (consultations *jeunes consommateurs*)
   - Consultation d'addictologie
-  - Centres de soins, d'accompagnement et de prévention en addictologie ([CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html))
+  - Centres de soins, d'accompagnement et de prévention en addictologie (CSAPA)
   - Équipe de liaison en addictologie
-  - [Annuaire par géolocalisation](https://www.addictaide.fr/annuaire/)
+  - [Annuaire des CSAPA, addictologues, hôpitaux](https://www.addictaide.fr/annuaire/)
 - Livret d'information  
   Maladie alcoolique, sevrage, intérêt de l'accompagnement, coordonnées des acteurs.
 - Intervention psychosociale
   - Soutien psychologique ([remboursés sur ordonnance]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}))
   - Renforcement de la motivation au changement
-  - Mouvements d'entraide  
-    [Alcooliques Anonymes](https://www.alcooliques-anonymes.fr), [La Croix-Bleue](https://croixbleue.fr/), [entraid' addict](https://www.entraidaddict.fr/), [Vie Libre](https://www.vielibre.org/), [Les amis de la santé](https://www.lesamisdelasante.org/), [Joie et santé - Alcool Écoute](https://www.alcoolecoute.com/)
+  - **Mouvements d'entraide** (voir *Information du patient*)
   - Évaluation du risque suicidaire
   - Thérapies cognitives et comportementales (TCC)
   - Thérapie conjugale et familiale
 - Antidépresseur  
-  Seulement si persistant après 4 semaines d'abstinence.
+  Seulement si persistant après 2-4 semaines d'abstinence.
+- Anxiété: activité physique, relaxation et bibliothérapie
+- Avis psychiatrique: adolescent, personnalité pathologique
 - Sexologie
 - Médecin du travail
 - Conseils diététiques  
   Appétence sucrée marquée au sevrage.
-- ALD 30, MDPH
+- [ALD n°23]({{< relref "affection-longue-duree.md" >}}) ± MDPH  
+  Critères: trouble addictif grave de plus d'un an avec des conséquences fonctionnelles majeures.
 
 ### Vitamines dans le sevrage alcoolique
 
-- Thiamine (vitamine B1 selon l'état nutritionnel, 30-80% de carences)  
-  500 mg/j pendant 5 jours puis 250 mg/j pendant 14 jours. Voie IV si dénutrition.
-- Sujet dénutri  
-  Vitamines B6 (max 1 mois), PP, C, acide folique, zinc et magnésium quelques jours.
+Supplémentation systématique en vitamines chez le sujet alcoolodépendant:
 
-### Suivi
+- Thiamine (vitamine B1, 30-80% de carences)
+  - Sans malnutrition: 500 mg/j pendant 5 jours puis 250 mg/j pendant 14 jours
+  - Malnutrition: voie IV préférée puis relais per os jusqu'à reprise d'une alimentation équilibrée
+- Sujet dénutri  
+  Envisager vitamines B6 (max 100 mg/j 1 mois), PP, C, acide folique, zinc et magnésium pendant quelques jours.
+
+### Suivi pour l'arrêt de l'alcool
 
 - Lutte contre les facteurs de rechute
 - Consommation: VGM et GGT à 3, 6 et 12 mois
@@ -373,7 +404,7 @@ Le sevrage de l'alcool peut le plus souvent être un sevrage ambulatoire mais n�
 
 ### Indications au sevrage hospitalier en alcool
 
-Seulement 3 indications aux services d'Urgences: complications somatiques sévères, crises suicidaires, agitation avec agressivité
+Seulement 3 indications aux services d'*Urgences*: complications somatiques sévères, crises suicidaires, agitation avec agressivité
 {.alert .alert-warning}
 
 Indications à l'hospitalisation pour une abstinence:
@@ -386,7 +417,7 @@ Indications à l'hospitalisation pour une abstinence:
 - Syndrome de Korsakoff ou encéphalopathie de Gayet-Wernicke
 - Envisager dans les situations suivantes
   - Syndrome de sevrage important, échecs ambulatoires itératifs
-  - Comorbidités (psychiatrique...)
+  - Comorbidités (psychiatrique ...)
   - Âge ≥ 75 ans
   - Demande de l'entourage
   - Grossesse
@@ -394,12 +425,15 @@ Indications à l'hospitalisation pour une abstinence:
 **Post-cure** ou soins de suite et de réadaptation alcoologique (SSRA) à envisager: échecs des soins optimaux antérieurs, période d'abstinence minimale à obtenir, troubles psychiatriques à étayer, somatiques ou cognitifs sévères, précarité, demande personnelle ou familiale forte.  
 Peut être prolongée en centre d'hébergement et de réinsertion sociale (CHRS).
 
-### Thérapeutiques pour le sevrage alcoolique
+### Traitements pour le sevrage alcoolique
 
 Lorsque l'objectif est l'abstinence, le **sevrage alcoolique et tabagique combiné préparé** est recommandé.  
 L'abstinence est la cible en complication somatique (cirrhose ++).
 
 #### Prévention du syndrome de sevrage alcoolique (SSA)
+
+Recours aux **[benzodiazépines à demi-vie longue]({{< relref "benzodiazepines.md" >}})** type **diazépam** pendant max 5-10 jours (*SFA 2023*).  
+Patient âgé (≥ 75 ans) ou cirrhotique: oxazépam ou lorazépam en diminuant la dose 30-50%.
 
 << Dans la majorité des cas, le sevrage ne requiert pas de traitement pharmacologique >> (*SFA 2015*)
 {.alert .alert-info}
@@ -410,19 +444,18 @@ Diazépam 5 mg 2-2-2-2 à J1
 1-1-1 J4  
 1-0-1 J5 et arrêt (max 10)
 
-Doses adaptées aux symptômes résiduels et réduites chez l'adolescent et le sujet âgé.  
-Rester à la maison les 2 premiers jours, pas de conduite automobile pendant les 5 jours.  
+Doses adaptées aux symptômes et réduites chez l'adolescent et le sujet âgé.  
+Rester à la maison les 2 premiers jours, pas de conduite automobile pendant 5 jours.  
 Suivi rapproché durant le traitement.
 
 > *AFEF 2021 et SFA 2015*
 {{%/info%}}
 
-Symptômes de sevrage possibles jusqu'à J10 après l'arrêt de l'alcool: **[benzodiazépines à demi-vie longue]({{< relref "benzodiazepines.md" >}})** type diazépam max 8-10 jours (*SFA 2015*).  
-Patient âgé (≥ 75 ans) ou cirrhotique: oxazépam ou lorazépam en diminuant la dose 30-50%.
-
 Les **dépressions** sont fréquentes (80%) au cours du sevrage de l'alcool, mais seules 15% persistent à son issue. Recontrôler à 2-4 semaines après le début du sevrage avant d'introduire un antidépresseur.
 
 ##### Signes et symptômes du sevrage alcoolique
+
+Les symptômes de sevrage alcoolique peuvent perdurer jusqu'à 10 jours après l'arrêt de l'alcool.
 
 Troubles subjectifs
 : anxiété, agitation, irritabilité, insomnie, cauchemars
@@ -432,25 +465,28 @@ Troubles neurovégétatifs
 
 Troubles digestifs
 : anorexie, nausées, vomissements, diarrhée
-{.dl-inline}
 
-**Confusion**: évoquer encéphalopathie hépatique (cirrhotique ++), hématome intracrânien, surdosage médicamenteux, complication métabolique ou carentielle.
+En cas de **confusion**, évoquer: encéphalopathie hépatique (cirrhotique ++), hématome intracrânien, surdosage médicamenteux, complication métabolique ou carentielle.
 
 #### Prévention des rechutes
 
 Les benzodiazépines n'ont aucune indication dans l'aide au maintien de l'abstinence
 {.alert .alert-info}
 
-Prise en charge du maintien de l'abstinence des personnes dépendantes par acamprosate (ex Aotal®) ou naltrexone (ex Revia®) en première intention pour diminuer l'envie de consommer. Avis spécialisé en cas d'insuffisance hépatocellulaire.  
-Les traitements doivent être arrêtés après 4-6 semaines si la consommation d'alcool persiste.
+Prise en charge du maintien de l'abstinence des personnes dépendantes par acamprosate (ex Aotal®) ou naltrexone (ex Revia®) en première intention pour diminuer l'envie de consommer. Avis spécialisé en cas d'insuffisance hépatocellulaire.
+
+Le **suivi doit être au moins mensuel** et les traitements doivent être arrêtés après 4-6 semaines si la consommation d'alcool persiste.
+
+{{%info%}}
 
 - [Acamprosate 333 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69724187&typedoc=R)
   - L'acamprosate est introduit dès que possible après le sevrage. Supériorité pour le maintien de l'abstinence et meilleur niveau de preuve
   - 2 cp x 3/j (2-1-1 si < 60 kg) pendant 1 an. Peut être poursuivi si bénéfique et souhaité par le patient
 - [Naltrexone 50 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67115586&typedoc=R)
-  - Bénéfique en fortes consommations
+  - Bénéfique en cas de fortes consommations, contre-indiquée en cas de morphiniques
   - La naltrexone est débutée après le sevrage
   - 1/2 cp avec une surveillance d'1 heure. Puis prise de l'autre moitié et 1 cp/j pendant 3 mois (jusqu'à 6 mois si bénéfique et souhaité)
+{{%/info%}}
 
 Autre médicament pour le maintien de l'abstinence:
 
@@ -476,16 +512,34 @@ Après essai de réduction spontanée de 15 jours, le nalméfène est le médica
 Réévaluation à 7 et 14 jours puis 1/mois au moins 6 mois.
 {.alert .alert-info}
 
-Autre traitement: baclofène (Baclocur®, max 80 mg/j, n'est plus remboursé), 30 mg/j en cas de cirrhose.
+Autre traitement: titration de baclofène (Baclocur® ou Baclofène Zentiva, max 80 mg/j, remb 15%), 30 mg/j en cas de cirrhose.
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
+### Associations pour l'arrêt de l'alcool
+
 [Alcool Info Service.fr](https://www.alcool-info-service.fr/) ou {{<phone>}}0 980 980 930{{</phone>}}.
+
+- [Addictions France (ex ANPAA)](https://addictions-france.org/)
+- [Alcooliques Anonymes](https://www.alcooliques-anonymes.fr)
+- [Les amis de la santé](https://www.lesamisdelasante.org/)
+- [Camerup](https://www.camerup.fr/)
+- [La Croix-Bleue](https://croixbleue.fr/)
+- [drogues info service](https://www.drogues-info-service.fr/)
+- [entraid' addict](https://www.entraidaddict.fr/)
+- [Joie et santé - Alcool Écoute](https://www.alcoolecoute.com/)
+- [Vie Libre](https://www.vielibre.org/)
+
+### Ressources
 
 - [SPF: L'alcool pour comprendre](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/brochure/l-alcool-pour-comprendre)
 - [Santé BD. L'alcool et ma santé](https://santebd.org/les-fiches-santebd/cancer/ma-sante-et-lalcool)
 - [Addictions France (ex ANPAA)](https://addictions-france.org/)
+
+### Applications
+
+Agenda de consommation d'alcool: Try Dry ([Android](https://play.google.com/store/apps/details?id=uk.org.alcoholconcern.dryjanuary), [iPhone](https://itunes.apple.com/gb/app/try-dry-the-dry-january-app/id1441293755?mt=8&app=itunes&ign-mpt=uo%3D4)), Stop Alcool ([Android](https://play.google.com/store/apps/details?id=ch.apptitude.stopalcool&hl=fr&gl=US)) ou Arrêt l'alcool - EasyQuit ([iPhone](https://apps.apple.com/fr/app/arr%C3%AAter-lalcool-easyquit/id1536343358))
 
 ### Bénéfices de l'arrêt de l'alcool
 
@@ -586,14 +640,15 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 {{< youtube id="OPs09amiMC0" title="Prise en charge de la maladie du foie liée à l'alcool (AFEF Medical Education)" >}}
 
+- [SFA, ANPAA, EUFAS. Mésusage de l'alcool : dépistage, diagnostic et traitement. 2023. (PDF)](https://sfalcoologie.fr/wp-content/uploads/RECOS-SFA-Version-2023-2.pdf)
 - [Agabio R. et al. Baclofen for alcohol use disorder. Cochrane Database of Systematic Reviews. 2023.](https://www.cochrane.org/CD012557/ADDICTN_baclofen-alcohol-use-disorder)
 - [SFA. Repères de consommation d'alcool à moindre risque : les abaisser chez les plus jeunes ?. 08/08/2022. (PDF)](http://www.sfalcoologie.asso.fr/download/2022-CP_alcool-SFA-2022_08_08.pdf)
 - [Angler R. et al. Dépassement des repères de consommation d'alcool à moindre risque en 2020 : résultats du Baromètre santé de Santé publique France. BEH. Novembre 2021.](http://beh.santepubliquefrance.fr/beh/2021/17/2021_17_1.html)
+- [ANSM. Alcoolo-dépendance : nouvelles recommandations posologiques pour le baclofène. 18/11/2021.](https://ansm.sante.fr/actualites/alcoolo-dependance-nouvelles-recommandations-posologiques-pour-le-baclofene)
 - [Louvet A. et al. Prise en charge de la maladie du foie liée à l'alcool. Recommandations de l'Association française pour l'étude du foie et de la Société française d'alcoologie. Janvier 2021.](https://afef.asso.fr/wp-content/uploads/2021/01/Recommandations-AFEF-SFA-sur-Prise-en-charge-de-la-maladie-du-foie-liee-a-lalcool.pdf)
 - [HAS. Outil d'aide au repérage précoce et intervention brève : alcool, cannabis, tabac chez l'adulte. Janvier 2021.](https://www.has-sante.fr/jcms/c_1795221/fr/outil-d-aide-au-reperage-precoce-et-intervention-breve-alcool-cannabis-tabac-chez-l-adulte)
 - [HAS. Prévention des addictions et réduction des risques et des dommages par les centres de soins, d'accompagnement et de prévention en addictologie (CSAPA). 2019.](https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa)
 - [Addictions France. Les repères de consommation des boissons alcooliques. Novembre 2018. (PDF)](https://addictions-france.org/datafolder/uploads/2021/02/Fiche-Reperes-Reperes-alcool.pdf)
-- [SFA, ANPAA, EUFAS. Mésusage de l'alcool dépistage, diagnostic et traitement. 2015.](http://www.sfalcoologie.asso.fr/download/RBP2014-SFA-Mesusage-AA.pdf)
 - [ANAES, SFA. Modalités de l'accompagnement du sujet alcoolodépendant après un sevrage. 2001.](https://www.has-sante.fr/jcms/c_271905/fr/modalites-de-l-accompagnement-du-sujet-alcoolodependant-apres-un-sevrage)
 - [Santé Publique France. Alcool.](https://www.santepubliquefrance.fr/determinants-de-sante/alcool)
 - [Fédération Addiction](https://www.federationaddiction.fr/)
@@ -601,7 +656,6 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 ### À lire
 
-- [SFA, ANPAA, EUFAS. Mésusage de l'alcool : dépistage, diagnostic et traitement. 2023. (PDF)](https://sfalcoologie.fr/wp-content/uploads/RECOS-SFA-Version-2023-2.pdf)
 - [Inserm. Réduction des dommages associés à la consommation d'alcool. Synthèses et recommandations. 2021.](https://www.inserm.fr/expertise-collective/reduction-dommages-associes-consommation-alcool/)
 - [Fédération Française d'Addictologie](https://www.addictologie.org/)
 - [Société Française d'Alcoologie. Documents de référence.](http://www.sfalcoologie.asso.fr/page.php?choix=A10)
@@ -614,6 +668,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 - [Barrault C. Sevrage en alcool et maladies chroniques du foie. POST'U. 2020.](https://www.fmcgastro.org/texte-postu/postu-2020-paris/sevrage-en-alcool-et-maladies-chroniques-du-foie/)
 - [Le CMG. Addictions en médecine générale.](https://lecmg.fr/addictionsmg/)
 - [Bråthen G. et al. EFNS guideline on the diagnosis and management of alcohol-related seizures: report of an EFNS task force. European Journal of Neurology. 2005.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2005.01247.x)
+- CUNEA
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}

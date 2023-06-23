@@ -65,7 +65,8 @@ Un **peptide C** > 600 pmol/L affirme un [diabète de type 2]({{< relref "diabet
 
 ### Quand penser à un diabète génétique dit diabète MODY ?
 
-Évoquer un diabète génétique au moins un parmi: diagnostic avant 35 ans, HbA<sub>1c</sub> < 7,5% au diagnostic, un parent diabétique, éléments génétiques (kystes rénaux, lipodystrophie, surdité génétique, inulinorésistance sévère sans obésité).  
+Évoquer un diabète génétique au moins un parmi: diagnostic avant 35 ans, HbA<sub>1c</sub> < 7,5% au diagnostic, un parent diabétique, éléments génétiques (kystes rénaux, lipodystrophie, surdité génétique, inulinorésistance sévère sans obésité).
+
 [Calcul du risque de diabète MODY](https://www.diabetesgenes.org/exeter-diabetes-app/).
 
 {{%/collapse%}}

@@ -23,9 +23,9 @@ flowchart = true
 {{%article-summary%}}
 
 - Bilan biologique selon le terrain sur lequel survient l'érysipèle (diabète, fonction rénale ...)
-- Prise en charge de l'érysipèle en première intention: antibiothérapie par amoxicilline 50 mg/kg en 3 prises pendant 7 jours (max 6 g/j)
-- Réévaluation clinique entre 48 et 72 heures
-- Éradication de la porte d'entrée infectieuse (intertrigo, ulcère)
+- Prise en charge de l'érysipèle et traitement: antibiothérapie par amoxicilline 50 mg/kg en 3 prises pendant 7 jours (max 6 g/j)
+- Réévaluation clinique à 48 - 72 heures
+- Éradication de la porte d'entrée infectieuse ([intertrigo]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), ulcère cutané)
 - Prévention des récidives d'érysipèle: contention veineuse en cas d'insuffisance veineuse
 
 {{%/article-summary%}}
@@ -86,7 +86,7 @@ Le diagnostic d'érysipèle est clinique:
 - Début souvent brutal
 - Signes généraux: fièvre, frissons
 - Signes dermatologiques locaux
-  - 90% au membre inférieur
+  - Le plus souvent au **membre inférieur** (90%)
   - Placard inflammatoire (rougeur, chaleur, douleur) érythémateux bien circonscrit unilatéral
   - Parfois lésions bulleuses ou purpuriques
   - Entourer au feutre le placard érythémateux pour surveiller l'évolution
@@ -124,7 +124,7 @@ Dans les formes typiques et en l'absence de signe de comorbidité << aucun exame
 
 ### Échodoppler veineux
 
-Pas de recherche systématique de thrombose veineuse par échodoppler.
+Pas de recherche systématique de [thrombose veineuse]({{< relref "thrombose-veineuse-profonde.md" >}}) par échodoppler.
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
@@ -134,20 +134,22 @@ Mesures de prévention des érysipèles:
 - Contention veineuse
 - Traitement précoce de toute porte d'entrée cutanée  
   [Intertrigo]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), ulcère, plaie.
-- Récidives au moins 2 fois an et facteurs favorisants non contrôlables
-  - Antibioprophylaxie prolongée avec effet suspensif
-  - Benzathine-pénicilline G IM 2,4 MUI 1 inj/2-4 semaines
-  - ou pénicilline V (Oracilline®) per os 0,5-1 MUI x 2/j
-  - Allergie à la pénicilline: azithromycine 250 mg x 1/j
+
+### Érysipèles récidivants au moins 2 fois an et facteurs favorisants non contrôlables
+
+Une antibioprophylaxie (après concertation) au long cours est possible avec un effet suspensif:
+
+- Benzathine-pénicilline G IM 2,4 MUI 1 injection toutes les 2 à 4 semaines
+- ou pénicilline V (Oracilline®) per os 0,5 à 1 MUI x 2/j
+
+En cas d'allergie à la pénicilline: azithromycine 250 mg x 1/j
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'érysipèle" %}}
 
 {{%warning%}}
 
-### Indications à l'hospitalisation pour érysipèle
-
-Critères d'hospitalisation d'un érysipèle:
+### Critères d'hospitalisation pour érysipèle
 
 - Fasciite nécrosante, appeler le 15
 - Doute diagnostique

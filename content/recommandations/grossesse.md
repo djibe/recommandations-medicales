@@ -17,7 +17,7 @@ sctid = "118185001"
 icd10 = ""
 image = true
 imageSrc = "Illustration de la grossesse par stories / Freepik"
-todo = "critères TSH, HTA gravidique, calcium cible"
+todo = "critères TSH, HTA gravidique, calcium cible | SFA 2023 alcool: conso à chaque cs, évoquer RCIU"
 +++
 
 {{%article-summary%}}

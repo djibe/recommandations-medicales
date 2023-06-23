@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr JG LETAROUILLY (SFR)"
 date = "2020-10-23T22:24:41+02:00"
 publishdate = "2020-10-23"
-lastmod = "2023-04-20"
+lastmod = "2023-06-20"
 specialites = ["rhumatologie"]
 annees = "2022"
 sources = ["EULAR", "SFRhumato", "ACR", "HAS"]
@@ -27,7 +27,8 @@ flowchart = true
 - Une suspicion de polyarthrite rhumatoïde nécessite un diagnostic rhumatologique et un traitement rapide
 - Prescrire le bilan biologique avec les radiographies pour adresser au rhumatologue dans les 6 semaines (voir *Examens complémentaires*)
 - La prise en charge de la polyarthrite rhumatoïde par un traitement spécifique relève exclusivement du rhumatologue
-- Mesures associées: dépistage des [cancers](/tags/cancer/), contrôle de risque cardiovasculaire, rappels vaccinaux (dTP tous les 10 ans, pneumocoque tous les 5 ans)
+- Le méthotrexate doit être pris un jour fixe de la semaine avec prise de 10 mg d'acide folique 48 heures après
+- Mesures associées au traitement: dépistage des [cancers](/tags/cancer/), contrôle de risque cardiovasculaire, rappels vaccinaux (dTP tous les 10 ans, pneumocoque tous les 5 ans)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -191,13 +192,13 @@ Mesures générales de prise en charge de la polyarthrite:
 - Pédicurie-podologie
 - Diététique
 - Voire chirurgie
-- [ALD 22]({{< relref "affection-longue-duree.md" >}}): Polyarthrite évolutive  
-  {{%class%}}Indication: Polyarthrite inflammatoire d'évolution chronique justifiant un traitement de fond.{{%/class%}}
+- [ALD n°22]({{< relref "affection-longue-duree.md" >}})  
+  {{%class%}}Critères: Polyarthrite inflammatoire (ou affections apparentées) d'évolution chronique justifiant un traitement de fond ou avec handicap lourd.{{%/class%}}
 
 **NB.** Hormis le {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}} voire une supplémentation en oméga-3 ≥ 2 g/j, aucun régime ou supplémentation n'a fait preuve de son efficacité.
 
 {{% /collapse %}}
-{{%collapse "Traitements spécifiques de la polyarthrite rhumatoïde" %}}
+{{%collapse "Traitement de fond conventionnel et biothérapies" %}}
 
 Chapitre pour en savoir plus sur la prise en charge de la polyarthrite par les traitements de fond spécifiques.  
 Ceux-ci relèvent exclusivement du rhumatologue.
@@ -273,7 +274,7 @@ Alternative: méthylprednisolone IV 80-120 mg.
 Infiltrations ciblées des articulations douloureuses.
 
 {{% /collapse %}}
-{{%collapse "Suivi" %}}
+{{%collapse "Suivi de la polyarthrite" %}}
 
 ### Suivi de la polyarthrite rhumatoïde
 

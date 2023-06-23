@@ -268,7 +268,8 @@ Résumé des recommandations pour la prise en charge de la spondylarthrite:
   - Travail d'amplitude respiratoire
   - Auto-exercices
 - Information et éducation du patient
-- Déclarer l'[ALD n°27]({{< relref "affection-longue-duree.md" >}}) ± MDPH
+- [ALD n°27]({{< relref "affection-longue-duree.md" >}}) ± MDPH  
+  Critères: spondylarthrites ou apparentées justifiant un traitement de fond ou avec handicap lourd.
 - Soutien psychologique
 - Associations de patients  
   [Action contre les Spondylarthropathies](https://www.acs-france.org/), [Association Française de Lutte Anti-Rhumatismale](https://www.aflar.org/), [Association France Spondyloarthrites](https://www.spondy.fr/), [Spondyl(O)action](https://spondyloaction.fr/)
