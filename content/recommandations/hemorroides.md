@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-08T18:23:04+02:00"
 publishdate = "2023-05-11"
-lastmod = "2023-06-06"
+lastmod = "2023-06-23"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
 sources = ["ESCP", "SNFGE", "SNFCP", "ASCRS"]
@@ -165,6 +165,7 @@ En cas d'échec une chirurgie hémorroïdaire par hémorroïdectomie pédiculair
 
 {{< youtube id="0L8aFHXeQrQ" title="Hémorroïdes : c'est la crise ! (TutoGastro SNFGE 2023)" >}}
 
+- {{< references/college-gastro >}}
 - [van Tol R et al. European Society of ColoProctology: guideline for haemorrhoidal disease. Colorectal Dis. 2020. (payant)](https://onlinelibrary.wiley.com/doi/abs/10.1111/codi.14975)
 - Siproudhis L, Higuero T. Traitements de la maladie hémorroïdaire. Conseil de pratique. SNFGE, SNFCP. 2020.
 - Prescrire Redaction. Hémorroïdes. Premiers Choix Prescrire. Rev Prescrire. 2020.

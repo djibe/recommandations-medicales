@@ -6,6 +6,8 @@
     {{ $image = "ministere.webp" }}
   {{ else if eq (.Get "image") "pasteur"}}
     {{ $image = "pasteur.webp" }}
+    {{ else if eq (.Get "image") "ameli"}}
+    {{ $image = "ameli.webp" }}
   {{ else }}
     {{ $image = .Get "image" }}
     {{ $external = true }}

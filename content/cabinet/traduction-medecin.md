@@ -2,7 +2,7 @@
 title = "Les outils de traduction pour les consultations médicales avec des patients étrangers"
 titleSeo = "Outils de traduction pour médecins"
 noindex = true
-description = "TODO:"
+description = "Outils de traduction pour effectuer des consultations de médecine générale avec des patients ne parlant pas français. Traductions en temps réel, dictionnaires"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-23T14:40:00+02:00"
 publishdate = "2023-06-23"
@@ -28,6 +28,8 @@ L'intelligence artificielle nous permet aujourd'hui de disposer d'outils de trad
 {{< card-link-external title="Google Traduction" image="google-traduction.webp" url="https://play.google.com/store/apps/details?id=com.google.android.apps.translate" subtitle="Traductions vocales et transcriptions écrites en temps réel vers 108 langues. Préchargement des langues possible.">}}
 
 Ces 2 applis sont disponibles sur iPhone. Elles sont utilisables tant qu'aucune donnée nominative n'est citée.
+
+J'ai éliminé l'application DeepL parce que l'arabe et le vietnamien ne sont pas disponibles.
 
 ## Applications spécialisées pour la traduction des termes médicaux
 

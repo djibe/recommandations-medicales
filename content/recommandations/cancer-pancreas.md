@@ -189,7 +189,14 @@ Nouveaux examens scanners et IRM à 3, 6 et 12 mois:
 Le marqueur tumoral CA 19-9 n'a aucun intérêt pour le dépistage et le diagnostic de l'adénocarcinome du pancréas (AP)
 {.alert .alert-info}
 
-Bilan biologique en vue du scanner: bilan hépatique, créatininémie, glycémie.
+### Bilan biologique
+
+- NFS
+- Ionogramme sanguin
+- Créatininémie
+- Glycémie à jeun
+- ASAT, ALAT, GGT, PAL
+- Albuminémie
 
 ### Scanner abdomino-pelvien avec injection
 
@@ -216,9 +223,9 @@ Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr/).
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/college-gastro >}}
 - [Rebours V. Risque de cancer du pancréas : maigrir c'est bien, ne pas grossir c'est mieux. GastroScoop. 13/01/2022.](https://www.snfge.org/gastroscoop/risque-de-cancer-du-pancreas-maigrir-cest-bien-ne-pas-grossir-cest-mieux)
 - [Rebours V. Les chiffres du cancer du pancréas dans le monde : l'effroyable raz-de-marée. GastroScoop. 17/11/2021.](https://www.snfge.org/gastroscoop/les-chiffres-du-cancer-du-pancreas-dans-le-monde-leffroyable-raz-de-maree)
-- {{< references/college-gastro >}}
 - [INCa. Les cancers du pancréas en 12 points clés. Juin 2020. (PDF)](https://www.e-cancer.fr/content/download/291472/4150728/file/Cancer_du_pancreas_points-cles_mel_20200605.pdf)
 - [INCa. Cancer du pancréas - Du diagnostic au suivi. Juin 2020. (PDF)](https://www.e-cancer.fr/content/download/291469/4150680/file/Cancer_du_pancreas_du_diagnostic_au_suivi_mel_20200605.pdf)
 - [INCa. Synthèse - Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Septembre 2019. (PDF)](https://www.e-cancer.fr/content/download/278143/3948778/file/Synthese_CAT_patients_atteints_adenocarcinomes_pancreas_mel_20191118.pdf)

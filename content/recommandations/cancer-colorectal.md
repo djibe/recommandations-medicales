@@ -58,6 +58,8 @@ La France est un pays Européen avec les plus **hautes incidences** de cancer co
 
 {{< card-link title="Les Français et leur participation au dépistage des cancers" subtitle="Article RecoMédicales" url="/articles/participation-depistage-cancers/" class="my-4">}}
 
+{{< card-link-external title="Dépenses liées au cancer colorectal" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Cancers&refine.patho_niv2=Cancer%20colorectal">}}
+
 ### Abréviations
 
 CCR
@@ -110,7 +112,7 @@ Le niveau de risque de cancer colorectal détermine la méthode et le rythme de 
 
 Risque moyen
 : Âge de 50 à 74 ans asymptomatique sans antécédent personnel ou familial d'adénome/CCR ou MICI
-: Dépistage par test immunologique fécal.
+: Dépistage: test immunologique fécal.
 
 Risque élevé
 : 4 groupes à risque élevé de cancer colorectal:
@@ -293,7 +295,7 @@ Le traitement dépend de la décision de la réunion de concertation pluridiscip
 - {{< modal-btn modal-mna >}}Dépister la Dénutrition{{< /modal-btn >}} (39%) et accompagnement diététique spécialisé
 - Stomie: soins par infirmier stomathérapeute
 - Association de patients  
-  [France Côlon](https://www.france-colon.fr), [Crohn-RCH France](https://www.afa.asso.fr), [Ligue nationale contre le cancer](https://www.ligue-cancer.net), [Polyposes Familiales](https://www.polyposes-familiales.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com), [Ligue Cancer info](https://www.ligue-cancer.net) (ou {{<phone>}}0 805 123 124{{</phone>}})
+  [France Côlon](https://www.france-colon.fr), [Mon réseau cancer colorectal](https://www.monreseau-cancercolorectal.com/), [Crohn-RCH France](https://www.afa.asso.fr), [Ligue nationale contre le cancer](https://www.ligue-cancer.net), [Polyposes Familiales](https://www.polyposes-familiales.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com), [Ligue Cancer info](https://www.ligue-cancer.net) (ou {{<phone>}}0 805 123 124{{</phone>}})
 
 ### Suivi après cancer du côlon ou rectum
 
@@ -345,12 +347,12 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 
 {{< youtube id="DV0PVuj4Ljw" title="Quelle surveillance endoscopique pour un cancer du côlon ? (TutoGastro SNFGE)" >}}
 
+- [Phelip JM. et al. « Cancer colorectal métastatique ». Thésaurus National de Cancérologie Digestive. Mai 2023](https://www.snfge.org/content/4-cancer-colorectal-metastatique)
+- {{< references/college-gastro >}}
 - [Service-Public.fr. Cancer colorectal : des kits de dépistage disponibles en pharmacie. 02/11/2022.](https://www.service-public.fr/particuliers/actualites/A15541)
-- [Phelip JM. et al. Metastatic colorectal cancer (mCRC): French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, ACHBT, SFRO, SFR)(TNCD). Dig Liver Dis. 2019. Maj 21/07/2022.](https://www.snfge.org/content/4-cancer-colorectal-metastatique)
 - [Robaszkiewicz M. et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
 - [Lecomte T. et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/3-cancer-du-colon-non-metastatique)
 - [Cotte E. et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/5-cancer-du-rectum)
-- {{< references/college-gastro >}}
 - [INCa. Les cancers colorectaux en 12 points clés. Juillet 2020. (PDF)](https://www.e-cancer.fr/content/download/292187/4161375/file/Cancers_colorectaux_en_12_points_cl%C3%A9s_mel_20200702.pdf)
 - [INCa. Cancer colorectal - Dépistage par test immunologique et autres modalités. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-colorectal-Depistage-par-test-immunologique-et-autres-modalites)
 - [INCa. Dépistage du cancer colorectal - Accompagner vos patients de 50 à 74 ans. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Depistage-du-cancer-colorectal-Accompagner-vos-patients-de-50-a-74-ans)

@@ -161,7 +161,7 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
   - Vivant avec greffe: 5093 (2019)
   - Survie avec greffe à: 1 an 77% - 5 ans 68% - 10 ans 57% (2014-2018)
 
-{{< card-link-external title="Dépenses liées à l'insuffisance cardiaque (Data Ameli)" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20cardio-neurovasculaires&refine.patho_niv2=Insuffisance%20cardiaque">}}
+{{< card-link-external title="Dépenses liées à l'insuffisance cardiaque (Data Ameli)" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20cardio-neurovasculaires&refine.patho_niv2=Insuffisance%20cardiaque">}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

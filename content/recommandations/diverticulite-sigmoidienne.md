@@ -3,7 +3,7 @@ title = "Diverticulite sigmoïdienne aiguë"
 prefix = "la "
 titleSeo = "Diverticulite sigmoidienne"
 description = "Recommandations pour la prise en charge de la diverticulite sigmoidienne ex sigmoidite. Bilan avec CRP, scanner abdomino-pelvien, pas d'antibiotique en crise .."
-synonyms = ["Sigmoïdite diverticulaire", "diverticulite colique", "sigmoïdite aiguë"]
+synonyms = ["Sigmoïdite diverticulaire", "diverticulite colique", "sigmoïdite aiguë", "diverticulite aiguë du sigmoïde"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-09T11:33:00+02:00"
 publishdate = "2021-02-09"
@@ -212,16 +212,16 @@ accTitle: Prise en charge d'une suspicion de diverticulite sigmoïdienne d'aprè
 {{%/collapse%}}
 {{%sources%}}
 
+- {{< references/college-gastro >}}
 - [Qaseem A et al. Diagnosis and Management of Acute Left-Sided Colonic Diverticulitis: A Clinical Guideline From the American College of Physicians. Ann Intern Med. 2022.](https://www.acpjournals.org/doi/full/10.7326/M21-2710)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
-- {{< references/college-gastro >}}
 - [Schultz J.K. et al. European Society of Coloproctology: guidelines for the management of diverticular disease of the colon. Colorectal Dis. 2020.](https://doi.org/10.1111/codi.15140)
 - {{< references/spilf-2020 >}}
 - [Rouillon JM. Prise en charge de la diverticulite sigmoïdienne. SNFGE. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/prise_en_charge_de_la_diverticulite.pdf)
 - Prescrire Rédaction. Diverticulite aiguë du côlon. Novembre 2018.
 - [HAS. Prise en charge médicale et chirurgicale de la diverticulite colique. Novembre 2017.](https://www.has-sante.fr/jcms/c_2806798/fr/prise-en-charge-medicale-et-chirurgicale-de-la-diverticulite-colique)
 
-Mots-clé: sigmoidite
+Mot-clé: sigmoidite
 
 ### À lire
 

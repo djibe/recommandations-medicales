@@ -16,7 +16,7 @@ imageSrc = "pch.vector / Freepik"
 datatable = true
 +++
 
-L'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (Anses) a publié la liste des plantes fréquemment retrouvées dans les compléments alimentaires avec les données concernant leur **sécurité**.
+L'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (Anses) a publié la liste des plantes fréquemment retrouvées dans les compléments alimentaires avec les données concernant leur **sécurité** d'utilisation en 2023.
 {.lead}
 
 De nombreux compléments alimentaires à base de plantes, dont certaines utilisées pour des << vertus >> médicinales sont disponibles sur le marché et accessibles à tous. Or les compléments alimentaires n'ont pas d'obligation légale d'accompagner les préparations d'une notice.

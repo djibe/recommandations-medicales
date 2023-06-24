@@ -82,6 +82,8 @@ Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de G
   Enjeu de ne traiter que les cancers agressifs.
 - Survie nette standardisée à 5 ans: 93% et 80% à 10 ans
 
+{{< card-link-external title="Dépenses liées au cancer de la prostate" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Cancers&refine.patho_niv2=Cancer%20de%20la%20prostate">}}
+
 ### Abréviations
 
 AFU

@@ -83,7 +83,7 @@ Un régime alimentaire est dit << équilibré >> avec les apports suivants:
 - Lipides: 35-40%
 - Protides: 10-20% (15-20% chez le +70 ans)
 
-> *Collège CDU-HGE 2022*
+> *CDU-HGE 2022*
 
 ### Abréviations
 

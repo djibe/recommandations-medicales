@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-22T19:42:41+02:00"
 publishdate = "2020-07-22"
-lastmod = "2023-04-14"
+lastmod = "2023-06-23"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["BSG", "Collège"]
@@ -33,6 +33,7 @@ todo = "SEO, SeHCAT, FODMAPs"
 Diarrhée chronique
 : Altération permanente du transit intestinal avec des selles selon les [types 5 à 7 de Bristol](https://fr.wikipedia.org/wiki/%C3%89chelle_de_Bristol) pendant **plus de 4 semaines** (*BSG 2021*).  
 Selon l'*OMS*: émission de plus de 3 selles par jour de molles à liquides.
+: Mécanismes sous-jacents possibles de la diarrhée chronique: sécrétoire, motrice, osmotique, par malabsorption ou lésionnelle.
 : En faveur de cause organique: diarrhée d'apparition récente (< 3 mois), nocturne ou circadienne et amaigrissement.
 
 ### Abréviations
@@ -144,7 +145,7 @@ La *malabsorption* donne souvent une stéatorrhée avec selles pâteuses et déc
 
 - Poids, taille, IMC et variations
 - Examen abdominal
-- Examen pelvien
+- Inspection et toucher rectal
 - Fonte musculaire
 - Signes généraux  
   Syndrome anémique ou hémorragique, thyrotoxicose, glossite, aménorrhée.

@@ -212,9 +212,9 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 
 ### À lire
 
+- {{< references/college-gastro >}}
 - [Zaanan A et al. Gastric cancer: French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, SFRO)(TNCD). Dig Liver Dis. 2022.](https://www.snfge.org/content/9-cancer-du-pancreas)
 - [ESMO. Gastric cancer Interactive guidelines.](http://interactiveguidelines.esmo.org/esmo-web-app/gl_toc/index.php?GL_id=42)
-- {{< references/college-gastro >}}
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
