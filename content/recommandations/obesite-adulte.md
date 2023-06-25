@@ -5,8 +5,8 @@ description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-19T13:21:51+02:00"
-publishdate = "2023-06-19"
-lastmod = "2023-06-19"
+publishdate = "2023-06-25"
+lastmod = "2023-06-25"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["HAS", "FFN"]
@@ -59,14 +59,26 @@ IMC
 
 ### Interrogatoire
 
+- Antécédents (TDAH, psychiatriques)
+- Histoire pondérale
+  - Âge de début
+  - Facteurs déclenchants
+  - Variations et rebonds
+  - Traitements essayés
+- Comportement alimentaire  
+  Dépister les TCA avec {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}, grignotage (nocturne).
+- Niveau d'activité physique (score GPAQ)
+- Contexte psychopathologique  
+  Anxiété, dépression, image du corps, estime de soi, traumatismes, addictions
+- Environnement socio-professionnel
+- Retentissement sur la qualité de vie personnelle ou professionnelle
 - Comorbidités
   - Syndrome d'apnées du sommeil (SAHOS)
   - RGO
-- Comportement alimentaire
-- Contexte psychopathologique
-- Retentissement sur la qualité de vie personnelle ou professionnelle
-- Handicap
+- Évaluation de la motivation aux changements
+- Handicap et autonomie
   - Gonarthrose
+- Qualité de vie
 
 Sommeil : 2.1.4
 
@@ -85,17 +97,20 @@ Sommeil : 2.1.4
 {{< table title="Rythme de dépistage des complications chez l'adulte en situation d'obésité. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
 | Appareil   | Soins        | Source                   |
 |---------- -|--------------|--------------------------|
-| Bilan rénal | Créatininémie, DFG (CKD-EPI) et albuminurie/créatininurie annuels | HAS 2021 |
 | Boulimie hyperphagique | Dépister les TCA avec {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} | HAS 2019 |
+| Cancer colorectal | Dépistage organisé | INCa 2022 |
 | Cancer de l'endomètre | Échographie sus-pubienne et endovaginale si métrorragies post-ménopausiques | ACOG 2020 |
 | Cancer de l'ovaire | Échographie sus-pubienne et endovaginale si symptômes (post-ménopausiques ++) | INCa 2020 |
 | Cancer du pancréas | Scanner AP injecté si symptômes | INCa 2020 |
 | Cancer du sein | Dépistage organisé | INCa 2022 |
 | Contraception œstroprogestative | En l'absence d'autre d'autre FRCV | CNGOF 2018 |
+| Dentaire     | Suivi annuel                                                                                     | HAS 2022 |
 | Diabète type 2 | Glycémie à jeun tous les 1-3 ans | HAS 2022 |
-| EFR | Si IMC IMC ≥ 35 ou SpO2 < 94% ou syndrome restrictif (CPT < 85%) | HAS 2022 |
-| Gaz du sang | Si IMC ≥ 35 | SPLF 2010 |
+| EFR | Si: IMC ≥ 30 avec dyspnée NYHA 3-4, IMC ≥ 35 et SAHOS, IMC ≥ 40 | HAS 2022 |
+| Gaz du sang | Si: IMC ≥ 35, SpO<sub>2</sub> < 94% ou CPT < 85% | HAS 2022 |
 | Grossesse | Prise de poids limitée 5-9 kg | SFD 2022 |
+| Maladie rénale chronique | Créatininémie, DFG et ratio albuminurie/créatininurie min. tous les 3 ans | HAS 2022 |
+| Micronutriments | Dosage si: chirurgie bariatrique, amaigrissement massif, symptômes évocateurs| HAS 2022 |
 | Podologique | Obésité est haut risque d'atteinte podologique | HAS 2020 |
 | Stéatopathie | {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}} | AFEF 2020 |
 | Syndrome d'apnées du sommeil | Polygraphie si IMC ≥ 35 ou signes évocateurs  | HAS 2022 |
@@ -105,6 +120,8 @@ Sommeil : 2.1.4
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
+- APA
+- Ergothérapeute
 TODO:
 
 {{% /collapse %}}

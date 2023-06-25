@@ -132,7 +132,7 @@ S'assurer d'apports calciques suffisants:
   - Sinon supplémentation en calcium 500 à 1000 mg/j (apports < 300 mg/j ou vegan)
 - Évaluer les apports calciques si fracture ou douleurs osseuses
 
-{{< table title="Apports en vitamine D recommandés en 2022 selon le profil du patient" >}}
+{{< table title="Apports en vitamine D recommandés en 2023 selon le profil du patient" >}}
 | Population                                                    | Apports (UI/j) ou cibles (25OHD) recommandés                                         | Source           |
 |---------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------|
 | 0 - 2 ans                                                     | 400-800 UI/j                                                                         | *Bacchetta 2022* |

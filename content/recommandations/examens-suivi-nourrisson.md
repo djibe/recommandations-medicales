@@ -86,14 +86,14 @@ Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{
 
 ### Vaccinations de l'enfant
 
-{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2022. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Ministère de la Santé 2022" >}}
+{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2023. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Calendrier Vaccinal 2023" >}}
 | Âge     | Valences      | Spécialités équivalentes       |
 |:-------:|---------------|--------------------------------|
-| 2 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS) | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
-| 3 mois  | Méningo B<br>Rotavirus (HAS)<br>Prématuré: Pneumo 13 | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>Prevenar 13 |
+| 2 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
+| 3 mois  | Méningo B<br>Rotavirus<br>Prématuré: Pneumo 13 | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>Prevenar 13 |
 | 4 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS) | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 3/3 |
-| 5 mois  | Méningo C<br>Méningo B    | Menjugate, Neisvac<br>Bexsero |
-| 11 mois | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
+| 5 mois  | Méningo C<br>Méningo B | Menjugate, Neisvac<br>Bexsero |
+| 11 mois | DTCaP-Hib-HB<br>Pneumo 13 | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
 | 12 mois | Méningo C<br>ROR<br>Méningo B | Menjugate, Neisvac<br>MMRvaxPro, Priorix<br>Bexsero |
 | 16-18 mois | ROR        | MMRvaxPro, Priorix             |
 | 6 ans   | DTCaPolio     | ~~InfanrixTetra~~, Tetravac-acellulaire |

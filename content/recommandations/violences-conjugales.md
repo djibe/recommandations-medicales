@@ -148,6 +148,8 @@ La consultation et l'examen clinique de la patiente sont un préalable indispens
 
 {{< youtube id="cHONPEYxRKo" title="La minute RECO HAS | Violences conjugales (Dr Ghada Hatem)" >}}
 
+{{< youtube id="GNSBChaTGys" title="Violences conjugales : en parler pour mieux les repérer (Webinaire HAS)" >}}
+
 {{% /collapse %}}
 {{%collapse "Ressources" %}}
 
