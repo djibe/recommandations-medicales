@@ -50,9 +50,9 @@
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "cli-real-favicon": "^0.0.8",
     "cross-env": "^7.0.3",
-    "hint": "^7.1.8",
-    "html-validate": "^8.0.0",
-    "hugo-extended": "^0.112",
+    "hint": "^7.1.9",
+    "html-validate": "^8.0.5",
+    "hugo-extended": "^0.113.0",
     "linkinator": "^5.0.1",
     "node-sass": "^6.0.1",
     "vnu-jar": "^23.4.11"
