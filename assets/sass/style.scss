@@ -1553,14 +1553,19 @@ input[type="search"]::-webkit-search-results-decoration {
 
 /* Datatables */
 
-table.dataTable.dtr-inline td,
-table.dataTable.dtr-inline th {
-  white-space: nowrap;
-}
+table.dataTable {
+  > tbody > tr.child span.dtr-title {
+    font-weight: 500;
+  }
 
-table.dataTable > tbody > tr.child ul.dtr-details > li {
-  border-bottom: none;
-  display: flex;
+  > tbody > tr.child ul.dtr-details > li {
+    border-bottom: none;
+    display: flex;
+  }
+
+  &.dtr-inline tr.parent + tr.child td {
+    white-space: normal;
+  }
 }
 
 /* ApexCharts */

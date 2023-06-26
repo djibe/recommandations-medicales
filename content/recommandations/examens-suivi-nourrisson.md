@@ -298,3 +298,14 @@ Premier mot
 {{< /table >}}
 
 {{%/collapse%}}
+{{%sources%}}
+
+Sources citées en regard des sections.
+
+### À lire
+
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Développement psychomoteur. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/developpement-psychomoteur)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Dépistages chez l'enfant. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/depistages-lenfant)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Suivi médical pédiatrique. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/suivi-medical-pediatrique)
+
+{{%/sources%}}

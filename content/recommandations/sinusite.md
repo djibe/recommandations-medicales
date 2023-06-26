@@ -251,5 +251,6 @@ graph TB
 ### À lire
 
 - [CMIT. Infections naso-sinusiennes de l'adulte et de l'enfant. Item 148. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-148-web.pdf)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Sinusites. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/sinusites)
 
 {{%/sources%}}

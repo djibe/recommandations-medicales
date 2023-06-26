@@ -96,8 +96,8 @@ Examens **en urgence** en hémolyse aiguë chez un sujet atteint d'un déficit e
 {{% /collapse %}}
 {{%collapse "Médicaments et aliments à risque en cas de déficit en G6PD" %}}
 
-Les enfants peuvent manger à la cantine à l'exclusion seule des fèves qui sont le seul élément à mentionner sur le *PAI*.  
-L'enfant doit aussi porter la carte spécifique sur lui
+Les enfants peuvent manger à la cantine à l'exclusion seule des fèves qui sont le seul élément à mentionner sur le **PAI**.  
+L'enfant doit aussi porter la carte spécifique sur lui.
 {.alert .alert-info}
 
 ### Aliments et produits à proscrire
@@ -118,7 +118,7 @@ Toute **automédication** est proscrite lors d'un déficit en G6PD.
 Remettre au patient la [liste ANSM (PDF)](https://ansm.sante.fr/uploads/2021/03/11/liste-substances-actives-deficit-g6pd-20052019-1-2.pdf) des médicaments proscrits.
 {{%/warning%}}
 
-{{< table title="Possibilités de recours aux substances actives en cas de déficit en G6PD. Dr JB Fron d'après ANSM du 14/03/2021" class="datatable" >}}
+{{< table title="Liste des substances actives des médicaments pouvant provoquer un accident hémolytique chez les personnes atteintes de déficit en G6PD. Dr JB Fron d'après ANSM du 14/03/2021" class="datatable" >}}
 | Substance | Utilisation |
 |-----------|-------------|
 | Acide acétylsalicylique (aspirine) | Possible |

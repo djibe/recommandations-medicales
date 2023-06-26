@@ -166,10 +166,9 @@ style OMAP stroke:#4150f5, stroke-width:1px
 {{%sources%}}
 
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
-- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Otites infectieuses de l'adulte et de l'enfant. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/pneumonies-aigues-communautaires)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Otites infectieuses de l'adulte et de l'enfant. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/otites)
 - {{< references/spilf-2020 >}}
 - [CMIT. Otites infectieuses de l'adulte et de l'enfant. Item 150. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-150-web.pdf)
-- CMIT. Otites infectieuses de l'adulte et de l'enfant. Item 147. ECN.Pilly. 2019.
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 
 {{%/sources%}}

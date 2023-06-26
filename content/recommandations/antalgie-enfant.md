@@ -186,7 +186,7 @@ Phloroglucinol, trimébutine, tiémonium.
 {{< table title="Échelles d'évaluation de la douleur chez l'enfant" >}}
 | Âge (années) | Échelle de douleur       | Seuil de traitement |
 |-------------:|--------------------------|:-------------------:|
-| Nouveau-né   | EDIN<br>[EVENDOL](https://pediadol.org/wp-content/uploads/2006/06/EVENDOL.pdf) | 4-5/15<br>4/15 |
+| Nouveau-né   | EDIN<br>[EVENDOL](https://pediadol.org/wp-content/uploads/2006/06/EVENDOL.pdf)<br>DAN<br>NFCS | 4-5/15<br>4/15<br>3/10<br>1/4 |
 | 0 - 7        | EVENDOL                  | 4/15                |
 | <b>Auto-évaluation</b>|                 |                     |
 | 4+           | [Échelle des visages](https://pediadol.org/wp-content/uploads/2004/06/FPS-R.pdf) (<abbr title="Faces Pain Scale Revised (IASP)">FPS-R</abbr>) | 4/10 |
@@ -222,7 +222,7 @@ Rassurer, selon l'âge mobiliser: présence des parents, portage, paroles, allai
 {{%sources%}}
 
 - [ANSM. Anti-inflammatoires non stéroïdiens (AINS) et complications infectieuses graves. 28/04/2023.](https://ansm.sante.fr/actualites/anti-inflammatoires-non-steroidiens-ains-et-complications-infectieuses-graves)
-- Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pédiatrie. Réussir son DFASM. 2021.
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Prise en charge de la douleur. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/enfant-vulnerable-genetique/prise-charge-douleur)
 - **[Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)**
 - [Comité de lutte contre la douleur Hôpitaux de Toulouse. Médicaments antalgiques en pédiatrie. 01/09/2017. (PDF)](https://www.chu-toulouse.fr/IMG/pdf/09_antalgiques_tableau_pediatrie_v6f.pdf)
 - [HAS. Prise en charge médicamenteuse de la douleur chez l'enfant : alternatives à la codéine. 2016.](https://www.has-sante.fr/jcms/c_2010340/fr/prise-en-charge-medicamenteuse-de-la-douleur-chez-l-enfant-alternatives-a-la-codeine)
@@ -239,8 +239,6 @@ Rassurer, selon l'âge mobiliser: présence des parents, portage, paroles, allai
 - Modèles HAS
 - Modèles SFORL
 
-### Mots-clés
-
-Antalgie, anti-douleur, antidouleur, antalgique, analgésique.
+**Mots-clés:** antalgie, anti-douleur, antidouleur, antalgique, analgésique.
 
 {{%/sources%}}

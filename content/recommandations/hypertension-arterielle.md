@@ -48,9 +48,9 @@ La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance car
 {{< table title="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après ESC 2021 et ESH 2021" class="table-wrap" >}}
 | Catégorie                 | Systolique (mmHg) |       | Diastolique (mmHg) | Action                                                                        |
 |---------------------------|:-----------------:|:-----:|:------------------:|-------------------------------------------------------------------------------|
-| Optimale                  | &lt; 120          | et    | &lt; 80            | Surveillance ≥ /5 ans                                                      |
-| Normale                   | 120-129           | et/ou | 80-84              | Surv. ≥ / 3 ans (6 mois si FRCV)                                           |
-| Normale haute             | 130-139           | et/ou | 85-89              | Surv. annuelle, éliminer HTA masquée par AMT/MAPA, traiter si THRCV           |
+| Optimale                  | &lt; 120          | et    | &lt; 80            | Surveillance min. /5 ans                                                      |
+| Normale                   | 120-129           | et/ou | 80-84              | Surv. min. / 3 ans (6 mois si FRCV)                                           |
+| Normale haute             | 130-139           | et/ou | 85-89              | Surv. **annuelle**, éliminer HTA masquée par AMT/MAPA, traiter si THRCV           |
 | Hypertension grade&nbsp;1 | 140-159           | et/ou | 90-99              | Éliminer blouse blanche par AMT/MAPA, essai RHD 3-6 mois, traiter si HRCV     |
 | Hypertension grade&nbsp;2 | 160-179           | et/ou | 100-109            | Confirmer par AMT/MAPA en qq j/sem, traitement immédiat et contrôle sous 3 mois |
 | Hypertension grade&nbsp;3 | ≥ 180          | et/ou | ≥ 110           | Traitement immédiat et cible atteinte à 3 mois                                |
@@ -478,7 +478,9 @@ Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine
 
 ### À lire
 
+- [Mancia G et al. 2023 ESH Guidelines for the management of arterial hypertension The Task Force for the management of arterial hypertension of the European Society of Hypertension Endorsed by the European Renal Association (ERA) and the International Society of Hypertension (ISH). Journal of Hypertension. 2023.](https://journals.lww.com/jhypertension/Abstract/9900/2023_ESH_Guidelines_for_the_management_of_arterial.271.aspx)
 - [Whealton S et al. Why Is Cuff Size So Important and Other Factors That Affect Accurate Blood Pressure Measurement. ACC. 2023.](https://www.acc.org/Latest-in-Cardiology/Articles/2023/06/05/19/18/Why-Is-Cuff-Size-So-Important-and-Other-Factors-That-Affect-Accurate-BP-Measurement?utm_medium=social&utm_source=twitter_post&utm_campaign=twitter_post)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Hypertension artérielle. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/nephrologie-chirurgie-urologique/hypertension-arterielle)
 - {{< references/college-endocrino >}}
 - [Xi B et al. Establishing International Blood Pressure References Among Nonoverweight Children and Adolescents Aged 6 to 17 Years. Circulation. 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729639/#SD1)
 

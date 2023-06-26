@@ -77,7 +77,7 @@ ISRS (ou IRS)
 : inhibiteur sélectif de la recapture de la sérotonine
 
 TCA
-: troubles des conduites alimentaire
+: troubles des conduites alimentaires
 
 TDAH
 : trouble déficit de l'attention avec ou sans hyperactivité
@@ -329,9 +329,13 @@ Autres ressources: Fédération FNA-TCA {{<phone>}}06 87 41 86 66{{</phone>}}, [
 {{%sources%}}
 
 - [HAS, FFAB. Boulimie et hyperphagie boulimique. Recommandation de bonne pratique. Juin 2019.](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique-reperage-et-elements-generaux-de-prise-en-charge)
-- [FFAB](https://www.ffab.fr/)
-- [Fédération nationale des associations liées aux troubles des conduites alimentaires (FNA-TCA)](https://www.fna-tca.org/)
-- [Collectif national des associations d'obèses (CNAO Obésité)](https://cnao.fr/)
+- [Fédération Française Anorexie Boulimie (FFAB)](https://www.ffab.fr)
+- [Fédération nationale des associations liées aux troubles des conduites alimentaires (FNA-TCA)](https://www.fna-tca.org)
+- [Collectif national des associations d'obèses (CNAO Obésité)](https://cnao.fr)
+
+### À lire
+
+[Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles des conduites alimentaires de l'adolescent. Infections urinaires. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/medecine-ladolescent/troubles-conduites-alimentaires-ladolescent)
 
 {{%/sources%}}
 {{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}

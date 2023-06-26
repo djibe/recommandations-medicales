@@ -535,7 +535,8 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 
 ### À lire
 
-[Kapur VK et al. Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea: An American Academy of Sleep Medicine Clinical Practice Guideline. J Clin Sleep Med. 2017.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles du sommeil - SAOS. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/troubles-du-sommeil-saos)
+- [Kapur VK et al. Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea: An American Academy of Sleep Medicine Clinical Practice Guideline. J Clin Sleep Med. 2017.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/)
 
 {{%/sources%}}
 {{% modal title="Échelle de somnolence d'Epworth" id="modal-score-epworth"%}}

@@ -299,6 +299,7 @@ Documents pour informer sur la vaccination:
 
 ### À lire
 
-[HAS. Obligations et recommandations vaccinales des professionnels : Actualisation des recommandations et obligations pour les étudiants et professionnels des secteurs sanitaire, médicosocial et en contacts étroits avec de jeunes enfants. 2023.](https://www.has-sante.fr/jcms/p_3424589/fr/obligations-vaccinales-des-professionnels-la-has-publie-le-1er-volet-de-ses-travaux)
+- [HAS. Obligations et recommandations vaccinales des professionnels : Actualisation des recommandations et obligations pour les étudiants et professionnels des secteurs sanitaire, médicosocial et en contacts étroits avec de jeunes enfants. 2023.](https://www.has-sante.fr/jcms/p_3424589/fr/obligations-vaccinales-des-professionnels-la-has-publie-le-1er-volet-de-ses-travaux)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Vaccinations. Infections urinaires. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/vaccinations)
 
 {{%/sources%}}

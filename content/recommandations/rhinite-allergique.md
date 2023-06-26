@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-15T12:45:29+02:00"
 publishdate = "2023-06-19"
-lastmod = "2023-06-22"
+lastmod = "2023-06-26"
 specialites = ["ORL"]
 annees = "2020"
 sources = ["SFORL", "SPLF"]
@@ -25,7 +25,7 @@ todo = "Maladie pro | Le score SFAR est une aide au diagnostic (même chez le no
 - Rechercher une [comorbidité atopique](/tags/atopie/) ([asthme]({{< relref "asthme.md" >}}), [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), conjonctivite)
 - Évaluer la rhinite allergique: fréquence (intermittente ou persistante) et sévérité  
   Modérée à sévère si au moins 1 parmi: symptômes gênants, sommeil perturbé, activités scolaires, professionnelles, sociales ou loisirs perturbés (*ARIA*)
-- Bilan de la rhinite allergique: tests cutanés allergiques (prick-tests) en dehors de la rhinite saisonnière
+- Bilan de la rhinite allergique: tests cutanés allergiques (prick-tests) sauf cas de rhinite saisonnière
 - Avis pneumologique en cas de suspicion d'un asthme associé
 - Traitement symptomatique selon la sévérité: éviction de l'allergène toujours, DRP, antihistaminique oral ou corticoïdes locaux d'emblée
 - [Carte des pollens](https://www.pollens.fr)
@@ -99,14 +99,14 @@ TCA
 
 ### Interrogatoire
 
-Performance diagnostique d'un interrogatoire complet pour le diagnostic la rhinite allergique: aire sous la courbe ROC 77% (*SFORL 2020*)
+Un interrogatoire complet permet un diagnostic fiable de rhinite allergique (*SFORL 2020*)
 {.alert .alert-info}
 
 - Terrain [atopique](/tags/atopie/)  
   Conjonctivite allergique, [asthme]({{< relref "asthme.md" >}}) ( associé pour 19-38 %), [dermatite atopique]({{< relref "dermatite-atopique.md" >}}).
 - Antécédents familiaux atopiques
 - Tabagisme
-- Expositions professionnelles et domestiques
+- Expositions professionnelles (aérosols, poussières, métaux) et domestiques
 - Traitements en cours et observance
 - Allergènes connus
 - Ancienneté de l'apparition des symptômes stéréotypés  
@@ -193,6 +193,8 @@ Mesures de prévention de la rhinite allergique:
 {{% /collapse %}}
 {{%collapse "Traitement de la rhinite allergique" %}}
 
+Une reconnaissance de la rhinite allergique en Maladie professionnelle est possible en cas d'expositions à risque ([tableau des maladies professionnelles IRSN](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&motsCles=&planPatho=TABMALPRO_Pathologie%20ORL%20et%20stomatologique%2FPathologie%20des%20voies%20a%C3%A9riennes%20sup%C3%A9rieures%2FRhinite)).
+
 ### Antihistaminiques H1 et corticoïdes locaux
 
 Les antihistaminiques et corticoïdes nasaux sont le traitement symptomatique de la rhinite allergique (associés aux mesures d'éviction), avec essai dans l'ordre (spécialités remboursables et préférées par *Prescrire*.):
@@ -202,7 +204,7 @@ Les antihistaminiques et corticoïdes nasaux sont le traitement symptomatique de
 1. RA légère à modérée (à partir d'1 an)  
   Anti-histaminiques H1 oraux de deuxième ou troisième génération (ex: [cétirizine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62005883&typedoc=R), loratadine).
 2. RA modérée à sévère (à partir de 3 ans), obstruction nasale prédominante ou échec de la 1<sup>re</sup> ligne  
-  Corticothérapie intranasale (ex: béclométasone [Beconase®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63295400&typedoc=R) 50 µg susp nasale, [Rhinomaxil®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66958014&typedoc=R) 100 µg, Rinoclenil®)
+  Corticothérapie intranasale (ex: béclométasone [Beconase®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63295400&typedoc=R) 50 µg susp nasale, [Rhinomaxil®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66958014&typedoc=R) 100 µg x 2/j, Rinoclenil®)
 3. Contrôle insuffisant chez l'adulte: doubler la dose de corticoïdes
 4. RA non contrôlée: associer corticoïdes + antihistaminiques locaux (ou 2 en 1: [azélastine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68576006&typedoc=R) + fluticasone [Dymista®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60830011&typedoc=R)) en pulvérisations nasales
 
@@ -211,7 +213,7 @@ Les antihistaminiques et corticoïdes nasaux sont le traitement symptomatique de
 
 Éléments à savoir sur les traitements symptomatiques de la rhinite allergique:
 
-- Prescrire préconise d'essayer avant tout le cromoglicate de sodium 2% 1 pulv x 4-6/j ([Alairgix®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60568235&typedoc=R) ou Cromorhinol®)
+- *Prescrire* préconise d'essayer avant tout le cromoglicate de sodium 2% nasal en 1 pulv x 4-6/j ([Alairgix®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60568235&typedoc=R) ou Cromorhinol®)
 - Pas de différence d'efficacité entre les corticoïdes locaux (rhinocorticostéroïdes - RCS)
 - Pas d'efficacité des associations: antihistaminique oral + RCS, **décongestionnant** + RCS, antileucotriène + RCS
 - La survenue d'épistaxis sous corticoïdes locaux semble être liée à l'administration par la main homolatérale
@@ -267,6 +269,5 @@ La déclaration de tous les effets indésirables liés à la désensibilisation 
 
 - [EUFOREA & ARIA](https://www.euforea.eu/)
 - [Annesi-Maesano I et al. Le Score For Allergic Rhinitis (SFAR) – version française. Revue Française d'Allergologie et d'Immunologie Clinique. 2004.](https://www.sciencedirect.com/science/article/abs/pii/S0335745703003526)
-- Prescrire
 
 {{%/sources%}}

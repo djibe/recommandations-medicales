@@ -27,7 +27,7 @@ L'intelligence artificielle nous permet aujourd'hui de disposer d'outils de trad
 
 {{< card-link-external title="Google Traduction" image="google-traduction.webp" url="https://play.google.com/store/apps/details?id=com.google.android.apps.translate" subtitle="Traductions vocales et transcriptions écrites en temps réel vers 108 langues. Préchargement des langues possible.">}}
 
-Ces 2 applis sont disponibles sur iPhone. Elles sont utilisables tant qu'aucune donnée nominative n'est citée.
+Ces 2 applis sont également disponibles sur iPhone. Elles sont utilisables tant qu'aucune donnée nominative n'est citée.
 
 J'ai éliminé l'application DeepL parce que l'arabe et le vietnamien ne sont pas disponibles.
 

@@ -115,7 +115,7 @@ Dépister les personnes avec risque cumulé d'adénocarcinome du pancréas supé
 </details>
 
 Dépistage uniquement si l'état de santé permettrait une chirurgie après avis d'un **centre expert**.  
-Le dépistage du cancer du pancréas ets réalisé par échoendoscopie couplée à l'IRM.
+Le dépistage du cancer du pancréas est réalisé par échoendoscopie couplée à l'IRM.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
