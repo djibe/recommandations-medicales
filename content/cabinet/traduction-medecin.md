@@ -29,7 +29,7 @@ L'intelligence artificielle nous permet aujourd'hui de disposer d'outils de trad
 
 Ces 2 applis sont également disponibles sur iPhone. Elles sont utilisables tant qu'aucune donnée nominative n'est citée.
 
-J'ai éliminé l'application DeepL parce que l'arabe et le vietnamien ne sont pas disponibles.
+L'application DeepL n'a pas été retenue, l'arabe et le vietnamien n'étant pas disponibles.
 
 ## Applications spécialisées pour la traduction des termes médicaux
 

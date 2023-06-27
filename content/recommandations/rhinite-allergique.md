@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-15T12:45:29+02:00"
 publishdate = "2023-06-19"
-lastmod = "2023-06-26"
+lastmod = "2023-06-27"
 specialites = ["ORL"]
 annees = "2020"
 sources = ["SFORL", "SPLF"]
@@ -16,7 +16,8 @@ sctid = "61582004 "
 icd10 = "J30.4"
 image = true
 imageSrc = "La rhinite allergique par vectorjuice / Freepik"
-todo = "Maladie pro | Le score SFAR est une aide au diagnostic (même chez le nourrisson)(TODO: src11-12) score 8: se 95,1%-spe 94,8% | Score de l'ARIA adapté à l'enfant TODO: src71"
+todo = "Le score SFAR est une aide au diagnostic (même chez le nourrisson)(TODO: src11-12) score 8: se 95,1%-spe 94,8% | Score de l'ARIA adapté à l'enfant TODO: src71"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -60,12 +61,9 @@ Rhinite allergique (RA)
 
 ### Épidémiologie de la rhinite allergique en France
 
-- Prévalence multipliée par 3 en 30 ans
-  - 20% des enfants de plus de 9 ans
-  - 30% des adultes
-- Coût annuel: 1 milliard d'euros
+La prévalence de la rhinite allergique a été multipliée par 3 en 30 ans.
 
-\- *Anses 2022*
+Elle atteint 20% des enfants de plus de 9 ans et 30% des adultes pour un coût annuel estimé à 1 milliard d'euros (*Anses 2022*).
 
 ### Abréviations
 
@@ -256,6 +254,17 @@ Une réévaluation à 1 an est systématique pour réévaluer le rapport efficac
 La déclaration de tous les effets indésirables liés à la désensibilisation est nécessaire.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la rhinite allergique" "show" %}}
+
+{{< mermaid title="Conduite à tenir pour le diagnostic et la prise en charge de la rhinite allergique. Dr JB Fron d'après SFORL et SPLF" >}}
+graph TB
+suspicion["Suspicion de<br>rhinite allergique"] --> clinique("<b>Clinique</b><br>—<br>- Terrain<br>- Expositions<br>- Rythme<br>- Sévérité<br>- Éternuements, rhinorrhée<br>- Prurit nasal,<br>- Qualité de vie<br>- Signes négatifs") --> bilan("<b>Bilan</b><br>—<br>Prick tests") --> traitement("<b>Traitement</b><br>—<br>- Éviction de l'allergène<br>- Antihistaminique oral") -. Échec .-> corticoïde("Substituer par<br>corticoïde nasal<br>—<br>Adulte: dose x2 si besoin") -. Échec .-> bithérapie("Associer corticoïde<br>+ antiH1 locaux") -. Échec .-> ORL(Avis ORL)
+style suspicion stroke:#4150f5, stroke-width:1px
+  clinique -- Saisonnière --> traitement
+  clinique -- Diagnostic différentiel --> différentiel("- Pathologie olfactive<br>- Sinusite<br>- Maladie de système<br>- Plexus caverneux<br>- Iatrogénie<br>- Masse mobile<br>- Rhinite inflammatoire<br>- Réflexe photo-sternutatoire<br>- Brèche méningée")
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - Prescrire Redaction. Rhinite allergique saisonnière. Premiers choix Prescrire. Rev Prescrire. 2023.

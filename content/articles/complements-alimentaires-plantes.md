@@ -26,6 +26,8 @@ L'**Anses**, l'agence de sécurité sanitaire, a ainsi rédigé pour chaque extr
 > << l'Anses rappelle une nouvelle fois que la consommation des compléments alimentaires à base de plante n'est pas sans risques. Ces produits, qui sont loin d'être anodins, peuvent entraîner des effets indésirables parfois graves, comme des allergies sévères ou des atteintes hépatiques potentiellement mortelles.>> (*Anses 2023*)
 {.alert .alert-warning}
 
+**CA =** complément alimentaire
+
 ## Tableau des compléments alimentaires à base de plantes
 
 Le tableau suivant reprend l'intégralité des informations publiées par l'Anses sur les 118 plantes médicinales utilisées dans des compléments alimentaires. Il permet au praticien d'accompagner les patients sur leur automédication.
