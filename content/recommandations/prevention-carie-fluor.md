@@ -68,8 +68,10 @@ Populations à risque élevé de carie:
 {{% /collapse %}}
 {{%collapse "Soins dentaires recommandés" %}}
 
-> << la collation matinale doit être supprimée en collectivité >> (*HAS*)
+> << la collation matinale doit être supprimée en collectivité >> (*HAS 2010*)
 {.alert .alert-warning}
+
+[Informations Ameli sur le brossage des dents](https://www.ameli.fr/hauts-de-seine/assure/sante/bons-gestes/quotidien/brosser-dents)
 
 Soins dentaires minimum recommandés:
 
@@ -82,7 +84,7 @@ Soins dentaires minimum recommandés:
   - Ne jamais partager la brosse à dents
 - Soins dentaires
   - Consultation dentaire annuelle de 6 à 18 ans
-  - Détartrage annuel (TODO:)
+  - Détartrage annuel
 - Mesures générales
   - Injonctions paradoxales, *UFSBD*: Pas de collation matinale, de grignotage ou de boissons sucrées entre les repas  
     *SFP*: << La collation de 10 heures doit être à base de pain et de fruits >>
@@ -115,7 +117,8 @@ Gommes à mâcher contenant du xylitol après un repas quand le brossage n'est p
 
 ### Suivi dentaire M'T dents
 
-Examen dentaire gratuit à 3, 6, 9, 12, 15, 18, 21 et 24 ans, en plus de la visite annuelle de 6 à 18 ans.  
+Examen dentaire gratuit à 3, 6, 9, 12, 15, 18, 21 et 24 ans et pendant la grossesse, en plus de la visite annuelle de 6 à 18 ans.
+
 Le bon de prise en charge est envoyé par courrier (valable 1 an) ou disponible depuis le compte Ameli (Mon espace prévention > La santé de votre enfant).
 
 > *[Ameli M'T dents](https://www.ameli.fr/paris/assure/sante/themes/carie-dentaire/mt-dents)*
@@ -128,7 +131,7 @@ Le bon de prise en charge est envoyé par courrier (valable 1 an) ou disponible 
 
 Aborder la santé bucco-dentaire de la mère et de l'enfant dès le 4<sup>e</sup> mois de grossesse.
 
-Examen dentaire spécialisé systématique à 4 mois dans le cadre du suivi de grossesse.
+Examen dentaire spécialisé systématique avec M'T Dents à 4 mois dans le cadre du suivi de grossesse.
 
 #### Personnes âgées dépendantes
 

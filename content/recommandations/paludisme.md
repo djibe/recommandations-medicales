@@ -81,8 +81,6 @@ L'Afrique subsaharienne comptabilise 90% des cas mondiaux.
 {{% /collapse %}}
 {{%collapse "Signes de gravité du paludisme" %}}
 
-TODO: revoir SPILF 2018
-
 Accès palustres graves principalement liés à *Plasmodium falciparum* (+90% des diagnostics en France) voire *Plasmodium knowlesi*.
 
 Appel du 15 en cas de signes gravité devant une suspicion d'accès palustre:

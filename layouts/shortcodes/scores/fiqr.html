@@ -1,3 +1,4 @@
+<!-- TODO: -->
 <p class="mb-3 mb-lg-5">Questionnaire de mesure de l'impact de la fibromyalgie <dfn><abbr title="Revised Fibromyalgia Impact Questionnaire">FIQR</abbr></dfn> (Revised Fibromyalgia Impact Questionnaire)</p>
 <p>Pour chaque question, </p>
 <div class="cat-container" id="score-fiqr">
@@ -36,7 +37,7 @@
 </div>
 <p><a href="https://pubmed.ncbi.nlm.nih.gov/19664287/" rel="external nofollow noopener">Bennett RM, Friend R, Jones KD, Ward R, Han BK, Ross RL. The Revised Fibromyalgia Impact Questionnaire (FIQR): validation and psychometric properties [published correction appears in Arthritis Res Ther. 2009;11(5):415]. Arthritis Res Ther. 2009;11(4):R120. doi:10.1186/ar2783</a> et <a href="https://www.sfetd-douleur.org/wp-content/uploads/2021/04/FIQ-revise.pdf" rel="external nofollow noopener">Version française SFETD (PDF)</a></p>
 {{ $script := `
-  // Score FIQR by djibe TODO:
+  // Score FIQR by djibe
   window.addEventListener( 'load', event => {
     const scoreCAT = document.getElementById('fiqrScore')
     const textCAT = document.getElementById('fiqrText')

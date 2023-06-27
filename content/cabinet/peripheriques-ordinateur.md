@@ -32,7 +32,7 @@ Imprimantes laser monochromes Wi-Fi (non multifonction) permettant d'utiliser de
 - [Choix: Brother HL-L2350DW (vitesse, petite taille, R/V, coût d'utilisation) - 140€](https://ledenicheur.fr/product.php?p=4549237)
 - [Brother HL-L2375DW (idem + réseau) - 175€](https://ledenicheur.fr/product.php?p=4533630)
 - [HP Laser 107W - 300€](https://ledenicheur.fr/product.php?p=5184291)
-- Canon i-Sensys LBP113w (pas de toners compatibles ++, réseau, TODO: successeur)
+- Canon i-Sensys LBP113w (pas de toners compatibles ++, réseau)
 - [HP Laserjet Pro M404dw - 280€](https://ledenicheur.fr/product.php?p=5135208)
 - [Canon i-Sensys LBP223dw - 250€ (réseau)](https://ledenicheur.fr/product.php?p=6030116)
 {.list-group}

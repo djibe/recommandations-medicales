@@ -17,7 +17,7 @@ icd10 = "R05"
 image = true
 imageSrc = "Illustration de la toux chronique par stories / Freepik"
 flowchart = true
-todo = "revoir flowchart"
+todo = "revoir flowchart et Tests multi-allergéniques"
 +++
 
 {{%article-summary%}}
@@ -198,7 +198,7 @@ Avis spécialisé sauf précision pour les éléments suivants:
   - EOGD si signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive), âge > 50 ans, résistance aux IPP ou rechute précoce à l'arrêt
   - Sinon [RHD + oméprazole 10 mg/j 2 mois]({{< relref "reflux-gastro-oesophagien.md" >}})
 - Allergique  
-  TODO: Tests multi-allergéniques et avis allergologique si positifs.
+  Tests multi-allergéniques et avis allergologique si positifs.
 - Comportementale  
   - Évaluer le retentissement émotionnel de la toux, replacer le symptôme dans le cadre du fonctionnement de sa personnalité
   - Proposer précocement une consultation psychiatrique pour pour éviter d'innombrables examens

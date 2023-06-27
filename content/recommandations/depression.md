@@ -106,6 +106,7 @@ Cotation TODO:
 - MonParcoursPsy
 - College. Troubles de l'humeur Épisode dépressif caractérisé et trouble dépressif récurrent de l'adolescent et de l'adulte. 2021.
 - [HAS. Dépression](https://www.has-sante.fr/jcms/p_3261767/fr/depression)
+- [US Preventive Services Task Force, Barry MJ et al. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2023.9297)
 - [US Preventive Services Task Force. Screening for Depression and Suicide Risk in Children and Adolescents: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2797145)
 - Antidépresseurs pendant la Grossesse et neurodéveloppement: <https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2797101>
 - [Binder P et al. Detection of adolescent suicidality in primary care: an international utility study of the bullying-insomnia-tobacco-stress test. Early Interv Psychiatry. 2020.](https://pubmed.ncbi.nlm.nih.gov/31058453/)

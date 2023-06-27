@@ -10,14 +10,14 @@ publishdate = "2020-09-20"
 lastmod = "2023-04-27"
 specialites = ["therapeutique"]
 annees = "2022"
-sources = ["HAS", "ANSM", "SNFGE"]
+sources = ["HAS", "ANSM", "SNFGE", "SFR"]
 tags = ["AINS", "toux"]
 anglais = ["Methotrexate"]
 sctid = "387381009"
 icd10 = ""
 image = false
 imageSrc = ""
-todo = "img"
+todo = "img, quantiféron"
 +++
 
 {{%article-summary%}}
@@ -26,9 +26,9 @@ todo = "img"
   - Préciser le jour de la prise du méthotrexate et rappeler qu'il ne doit être pris qu'un seul jour par semaine
   - Mentionner l'indication, le dosage et la posologie en mg
   - Le jour de la prise de l'acide folique
-- Associer l'acide folique 5 mg au moins 2 cp en 1 prise/semaine 48 heures après le méthotrexate
+- Associer l'acide folique 2 x 5 mg 48 heures après le méthotrexate
 - Ne pas associer le méthotrexate avec: [AINS](/tags/ains/), Bactrim, [vaccins vivants]({{< relref "vaccination.md" >}}) ... ([vérifier les interactions](https://www.drugs.com/interaction/list/?drug_list=1590-0))
-- [Carte du patient sous méthotrexate](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-carte-patient-version-1-2021-03.pdf)
+- [Carte du patient sous méthotrexate (PDF)](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-carte-patient-version-1-2021-03.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Contre-indications au méthotrexate" %}}
@@ -88,10 +88,10 @@ Effets indésirables du méthotrexate lors d'une immunosuppression:
 Bilan pré thérapeutique du méthotrexate:
 
 - Recherche de foyer infectieux  
-  NFS, sérologies VHB et VHC, quantiféron (TODO:).
+  NFS, sérologies VHB et VHC.
 - Créatininémie
 - ASAT, ALAT, GGT, PAL, bilirubine, albuminémie
-- Radiographie thoracique (TODO:)  
+- Radiographie thoracique (*HAS 2013*)  
   Systématique avant de débuter le traitement.
 - ßHCG
 - Spirométrie si: tabac, [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), emphysème
@@ -100,9 +100,12 @@ Bilan pré thérapeutique du méthotrexate:
 
 ### Suivi biologique sous méthotrexate
 
-- NFS, créatininémie, ASAT, ALAT, GGT, PAL, albumine
+- Bilan: NFS, créatininémie, ASAT, ALAT, GGT
 - 1/semaine le 1<sup>er</sup> mois
-- Puis tous les 2 mois (à distance de l'injection)
+- Puis mensuel pendant 2 mois
+- Puis trimestriel (1-2 jours avant l'injection)
+
+> \- Schéma de surveillance du GETAID
 
 {{% /collapse %}}
 {{%collapse "Spécialités - Fiches RCP - Grossesse" %}}
@@ -124,7 +127,7 @@ Bilan pré thérapeutique du méthotrexate:
 {{% /collapse %}}
 {{%collapse "Co-prescription d'acide folique" %}}
 
-Acide folique 5 mg, au moins 2 cp 48 heures après la prise du méthotrexate (*SFR 2018*)
+Acide folique 5 mg, au moins 2 cp 48 heures après la prise du méthotrexate (*SFR 2018*). Au moins 5 mg dans la RCP
 {.alert .alert-info}
 
 La supplémentation en acide folique (vitamine B9) réduit les effets indésirables du méthotrexate:
@@ -141,7 +144,7 @@ La supplémentation en acide folique (vitamine B9) réduit les effets indésirab
 
 [Fiche info patient sous méthotrexate (PDF)](https://pharmacie.hug.ch/infomedic/utilismedic/metho_infopat.pdf)
 
-- [Carte patient sous méthotrexate](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-carte-patient-version-1-2021-03.pdf)
+- [Carte patient sous méthotrexate (PDF)](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-carte-patient-version-1-2021-03.pdf)
 - Maladie inflammatoire: Prise de la dose complète en une seule prise par semaine  
   ou Cancer: Prise selon le protocole de chimiothérapie
 - Informer sur le danger de prises supplémentaires
@@ -154,9 +157,9 @@ La supplémentation en acide folique (vitamine B9) réduit les effets indésirab
 {{% /collapse %}}
 {{%sources%}}
 
-- [ANSM. Méthotrexate par voie orale. 2022.](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-brochure-professionnel-de-sante-version-1-2021-03.pdf)
-- Prescrire Redaction. Méthotrexate. 2022.
-- [ANSM. Médicaments à base de méthotrexate - Recommandations visant à éviter les erreurs de prise potentiellement fatales lors de l'utilisation du méthotrexate dans le traitement des maladies inflammatoires - Lettre aux professionnels de santé. 09/04/2020.](https://www.ansm.sante.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Medicaments-a-base-de-methotrexate-Recommandations-visant-a-eviter-les-erreurs-de-prise-potentiellement-fatales-lors-de-l-utilisation-du-methotrexate-dans-le-traitement-des-maladies-inflammatoires-Lettre-aux-professionnels-de-sante)
+- Prescrire Redaction. Méthotrexate. Rev Prescrire. 2022.
+- [ANSM. Médicaments à base de méthotrexate - Recommandations visant à éviter les erreurs de prise potentiellement fatales lors de l'utilisation du méthotrexate dans le traitement des maladies inflammatoires - Lettre aux professionnels de santé. 21/07/2022.](https://www.ansm.sante.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Medicaments-a-base-de-methotrexate-Recommandations-visant-a-eviter-les-erreurs-de-prise-potentiellement-fatales-lors-de-l-utilisation-du-methotrexate-dans-le-traitement-des-maladies-inflammatoires-Lettre-aux-professionnels-de-sante)
+- [ANSM. Méthotrexate par voie orale. Lettre aux professionnels de santé. 2020. (PDF)](https://ansm.sante.fr/uploads/2021/04/07/20200409-dhpc-methotrexate.pdf)
 - [Abitbol V. Méthotrexate dans les MICI : bilan initial et suivi. SNFGE. 2019. (PDF)](https://biorecos.fr/wp-content/uploads/2019/09/M%C3%A9thotrexate-dans-les-MICI-bilan-initial-et-suivi_SNFGE_2019.pdf)
 - [Daien C et al. Actualisation des Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Revue du Rhumatisme. 2019.](https://www.sciencedirect.com/science/article/pii/S1169833018301522)
 - [GETAID. Méthotrexate.](https://www.getaid.org/fiches-medicament/le-methotrexate-ledertrexate-methotrexate-metoject-nordimet-novatrex)

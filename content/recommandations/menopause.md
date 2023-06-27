@@ -317,7 +317,6 @@ Contre-indications au traitement de la ménopause:
 
 - [Antécédent de cancer du sein]({{< relref "cancer-sein.md" >}})  
   Quelque soit le statut hormonal ou invasif/in situ.
-- [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) (TODO: vérifier)
 - Antécédent d'infarctus du myocarde ou d'[AVC ischémique]({{< relref "accident-vasculaire-cerebral.md" >}})
 - Maladie d'Alzheimer
 - Contre-indication relative

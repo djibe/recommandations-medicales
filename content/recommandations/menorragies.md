@@ -60,11 +60,10 @@ Signes et symptômes à rechercher lors du bilan de ménorragies.
 
 ### Interrogatoire
 
-- Antécédents  
-  Hémorragiques, pelviens
-- Antécédents familiaux: hémorragiques
+- Antécédents (hémorragiques, pelviens)
+- Antécédents familiaux hémorragiques
 - Contraception
-- Date des dernières règles, risque de grossesse
+- Date des dernières règles, risque de grossesse.
 - Menstruations
   - Ancienneté des troubles
   - Rythme
@@ -74,7 +73,7 @@ Signes et symptômes à rechercher lors du bilan de ménorragies.
 
 ### Examen clinique
 
-- Signes d'anémie
+- Signes d'[anémie]({{< relref "anemie.md" >}})
 - Examen gynécologique  
   Pour différencier d'hémorragies génitales basses (vulvaire, vaginale, exocervicale).
 
@@ -119,7 +118,7 @@ Indications à l'hystéroscopie:
 - Doute échographique sur une pathologie endocavitaire
 - Endomètre ≥ 15 mm
 - Facteurs de risque de [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}})  
-  Obésité, diabète, tamoxifène pour [cancer du sein]({{< relref "cancer-sein.md" >}}), syndrome de Lynch/HNPCC (TODO: nulliparité ?).
+  Obésité, diabète, tamoxifène pour [cancer du sein]({{< relref "cancer-sein.md" >}}), syndrome de Lynch/HNPCC.
 
 {{% /collapse %}}
 {{%collapse "Traitements des ménorragies" %}}

@@ -51,21 +51,15 @@ Acné fulminante
 
 ### Diagnostic différentiel d'une acné
 
-[Rosacée papulo-pustuleuse]({{< relref "rosacee.md" >}})
-: Flushs du visage, conjonctivite, télangiectasies, symétrie des lésions et absence de comédons.
-
-Dermatite péri-orale ou folliculite infectieuse
-: Absence de comédons.
-
-Folliculite médicamenteuse
-: Début brutal, papulo-pustules sans comédons et régression à l'arrêt du traitement (androgènes, progestatifs, corticoïdes, antiépileptiques ...).
-
-[Syphilis]({{< relref "syphilis.md" >}})
-: Évoquer en âge atypique, notion de chancre.
-
-Sarcoïdose
-: TODO:
-{.dl-inline}
+- [Rosacée papulo-pustuleuse]({{< relref "rosacee.md" >}})  
+  Flushs du visage, conjonctivite, télangiectasies, symétrie des lésions et absence de comédons.
+- Dermatite péri-orale ou folliculite infectieuse  
+  Absence de comédons.
+- Folliculite médicamenteuse  
+  Début brutal, papulo-pustules sans comédons et régression à l'arrêt du traitement (androgènes, progestatifs, corticoïdes, antiépileptiques ...).
+- [Syphilis]({{< relref "syphilis.md" >}})  
+  Évoquer en âge atypique, notion de chancre.
+- Sarcoïdose
 
 ### Formes particulières d'acné
 

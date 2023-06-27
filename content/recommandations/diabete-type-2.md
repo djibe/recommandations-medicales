@@ -17,7 +17,7 @@ sctid = "44054006"
 icd10 = "E11"
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "GRADE PODO +++ dont p.68 et p.76 et p.90, conseils nut p. 80, dépister hyperferritinémie?, glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit"
+todo = "EASD 2021 Table 2.3 et 2.4, GRADE PODO +++ dont p.68 et p.76 et p.90, conseils nut p. 80, dépister hyperferritinémie?, glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit"
 +++
 
 {{%article-summary%}}
@@ -57,8 +57,6 @@ Rémission du diabète
     - HbA<sub>1c</sub> < 6,5% à au moins 6 mois du changement de mode de vie et au moins 3 mois de l'arrêt de tout traitement
 : Lorsque la mesure de l'HbA1c n'est pas fiable, recours à la glycémie à jeun < 1,26 g/L ou estimation par automesure (la glycémie moyenne doit être < 6,5% d'équivalent HbA1c).
 : Le *dépistage des complications* du diabète doit être poursuivi, avec la surveillance de l'HbA<sub>1c</sub> tous les 3 à 12 mois.
-
-TODO: Table 2.3 et 2.4
 
 ### Conversion des unités du diabète
 

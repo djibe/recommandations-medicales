@@ -18,7 +18,7 @@ sctid = "34486009"
 icd10 = "E05.9"
 image = true
 imageSrc = "Scintigraphie thyroïdienne avec hyperfixation diffuse typique de maladie de Basedow chez un jeune homme de 20 ans ayant perdu 20 kg en 2 mois. Cas d'Ammar Ashraf, Radiopaedia.org, rID: 156767"
-todo = "Radioprotection 131I"
+todo = "TSH annuelle après ttt ?, informations patient irathérapie, Radioprotection 131I"
 flowchart = true
 +++
 
@@ -358,7 +358,7 @@ Surveillance biologique en cas de traitement par antithyroïdiens (Basedow, AT o
 - Puis toutes les 3-6 semaines **jusqu'à normalisation de la T4L** (+ T3L)
 - Puis TSH tous les 2-4 mois pendant la durée du traitement (12-18 mois)
 
-<!-- TODO: Il est recommandé de proposer le même suivi de la fonction thyroïdienne après irathérapie ou après thyroïdectomie totale pour un GMNT que celui proposé pour une maladie de Basedow18.-->
+Le suivi biologique est identique après irathérapie ou chirurgie de GMNT.
 
 ### Arrêt du traitement par ATS
 
@@ -372,7 +372,7 @@ L'arrêt du traitement est envisageable si:
 - Patient asymptomatique
 - TSH normale
 - TRAK idéalement négatifs
-- Éventuellement un échodoppler thyroïdien (TODO:)
+- Echo-doppler pour un expert
 
 Facteurs de risque de récidive d'une hyperthyroïdie: goitre volumineux, TRAK élevés, hyperthyroïdie sévère et difficilement contrôlée, tabac
 {.alert .alert-info}
@@ -380,7 +380,7 @@ Facteurs de risque de récidive d'une hyperthyroïdie: goitre volumineux, TRAK �
 **Surveillance rapprochée après l'arrêt des ATS:**
 
 - Si Basedow: dosage des TRAK juste avant l'arrêt du traitement
-- Après l'arrêt de l'ATS: TSH à 6-8 semaines, 3 mois, 6 mois, 12 mois puis annuelle (TODO:) ou si point d'appel
+- Après l'arrêt de l'ATS: TSH à 6-8 semaines, 3 mois, 6 mois, 12 mois puis annuelle ou si point d'appel
 
 **40-50% de rechutes** après l'arrêt du traitement (souvent dans les 6-12 mois).
 
@@ -488,7 +488,6 @@ Les corticoïdes peuvent être utilisés pour le traitement de l'hyperthyroïdie
 - Mesures de radioprotection nécessaires
 - Basedow: risque d'aggravation d'une orbitopathie basedowienne pauci-symptomatique
 - Contraception efficace pendant au moins 6 mois (homme ou femme)
-TODO:
 
 ### Informations sur la chirurgie de thyroïdectomie
 

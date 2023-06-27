@@ -74,10 +74,10 @@ Signes et symptômes évocateurs à rechercher en cas de suspicion d'un cancer d
 
 - Antécédents personnels ou familiaux du spectre de Lynch (HNPCC)  
   {{< clinique/cancer-spectre-lynch >}}.
-- Facteurs de risque
+- Facteurs de risque du cancer de l'endomètre
   - Obésité
-  - Diabète
-  - Traitement par tamoxifène
+  - [Diabète](/tags/diabete/)
+  - Traitement par [tamoxifène]({{< relref "cancer-sein.md" >}})
 - Symptômes
   - **Métrorragies** spontanées d'abondance moyenne
   - Leucorrhées
@@ -126,7 +126,7 @@ La chirurgie avant 50 ans **entraîne une stérilisation** pouvant être substit
 
 Comme pour tout cancer:
 
-- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- [ALD n°30]({{< relref "affection-longue-duree.md" >}})
 - [Sevrage tabagique]({{< relref "arret-tabac.md" >}})
 - Proposer un soutien psychologique
 - Soins de confort
@@ -137,9 +137,9 @@ Comme pour tout cancer:
 
 ### Pour en savoir plus
 
-La chirurgie d'exérèse est le traitement privilégié avec hystérectomie totale et salpingo-ovariectomie bilatérale.  
-Une chirurgie étendue (curage ganglionnaire, omentectomie) dépend du type de cancer.  
-La voie cœlioscopique est privilégiée.
+La chirurgie d'exérèse est le traitement privilégié avec hystérectomie totale et salpingo-ovariectomie bilatérale. La voie cœlioscopique est privilégiée.
+
+Une chirurgie étendue (curage ganglionnaire, omentectomie) dépend du type de cancer.
 
 Le recours à la radiothérapie (ou une curiethérapie), une chimiothérapie adjuvante conventionnelle et/ou une hormonothérapie (cancer métastatique) peuvent être proposés.
 

@@ -189,7 +189,7 @@ Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacit
 #### Pacemaker, défibrillateur et troubles du rythme {.typography-headline-6 .mt-5}
 
 Épreuve d'effort recommandée
-: Pour tous les patients TODO:
+: Pour tous les patients (TODO:)
 
 Épreuve d'effort doit être envisagée
 : Pour mesurer l'efficacité de traitement anti-arythmique (médicament, ablation).

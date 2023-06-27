@@ -17,7 +17,7 @@ sctid = "46635009"
 icd10 = "E10"
 image = true
 imageSrc = "Illustration du diabète type 1 par macrovector / Freepik"
-todo = "A REPRENDRE +++, EASD 2021 Fig 1 | Table 5, SFD capteur, glucagon, ADA 2023 p.8+, hypoglycémie"
+todo = "A REPRENDRE +++, EASD 2021 Fig 1 | Table 5, SFD capteur, glucagon, ADA 2023 p.8+, hypoglycémie Gold and Clarke questionnaires showing a score equal or above 4 are indicative of IAH (100, 103)"
 +++
 
 {{%article-summary%}}
@@ -220,11 +220,10 @@ Adulte: aiguilles de 4 mm avec injection à 90°.
 
 ### Les hypoglycémies en bref
 
-- Seuil diagnostic de l'hypoglycémie: 70 mg/dL
+- Seuil diagnostic de l'hypoglycémie: **70 mg/dL**
 - Toute hypoglycémie justifie un resucrage
 - Vérifier la technique de resucrage
-- À quel niveau l'hypoglycémie est ressentie (dépistage de l'altération de la perception des hypoglycémies)  
-  {{%lang%}}TODO: Gold and Clarke questionnaires showing a score equal or above 4 are indicative of IAH (100, 103){{%/lang%}}
+- À quel niveau l'hypoglycémie est ressentie (dépistage de l'altération de la perception des hypoglycémies)
 - Rechercher une peur de l'hypoglycémie
 {{%/info%}}
 
@@ -245,7 +244,7 @@ Les hypoglycémies peuvent aussi être subdivisées selon qu'elles sont **sympto
 - Dès glycémie < 70 mg/dL
 - Prise de 15 g de glucose
   - voire plus quand < 54 mg/dL
-  - TODO: bon exemple
+  - Par sucre, soda (15 cL), 1 cuiller à café de sucre, miel ou sirop d'érable, bonbon (voir teneur en sucre)
   - Pas de chocolat
 - Toutes les 15 minutes jusqu'à disparition des symptômes et contrôle > 70 mg/dL
 

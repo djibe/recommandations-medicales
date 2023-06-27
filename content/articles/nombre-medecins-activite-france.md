@@ -131,7 +131,7 @@ const chartOptions2 = {
     y: {
       formatter: function (val) { return Math.abs(val) }
     }
-  },
+  }
 }
 </script>
 <script>

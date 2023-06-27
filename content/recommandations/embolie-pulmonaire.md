@@ -17,7 +17,7 @@ image = true
 imageWEBP = true
 imageSrc = "Embolie segmentaire par scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "def des signes, p.21, flowchart duree, def cancer actif"
+todo = "Figure 11, def des signes, p.21, flowchart duree, def cancer actif"
 +++
 
 {{%article-summary%}}
@@ -210,8 +210,6 @@ L'anticoagulation dure au moins 3 voire 6 mois ou pour une durée non limitée:
   - EP à haut risque
   - Alors durée non limitée (selon risque hémorragique)
 
-TODO: Figure 11
-
 #### Anticoagulant Oral Direct (AOD)
 
 - Seuls apixaban et rivaroxaban ont l'AMM
@@ -233,7 +231,7 @@ Si posé temporairement, le retrait doit être programmé dès la reprise de l'a
 {{% /collapse %}}
 {{%collapse "Embolie pulmonaire provoquée ou spontanée ?" %}}
 
-TODO: A reprendre
+> Cette section doit être retravaillée
 
 Pour toute survenue de MVTE, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr >}}facteurs de risque clinique de MVTE{{< /modal-btn >}}
 {.alert .alert-info}

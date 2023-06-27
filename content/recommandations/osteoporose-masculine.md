@@ -236,7 +236,7 @@ Traitement:
 
 - FESF  
   [Acide zolédronique 5 mg/100 mL IVL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) (15 minutes) annuel ([info Omedit](https://www.omedit-paysdelaloire.fr/bon-usage-des-produits-de-sante/perfusion/perfadom/#DCI24), aussi privilégié en cas de troubles mnésiques, troubles digestifs, polymédication).
-- {{< modal-btn modal-fracture-severe >}}Fracture sévère{{< /modal-btn >}} (hors FESF), vertébrale unique, non sévère ou T-score < -3 avec fragilité ou risque de chutes (TODO:)
+- {{< modal-btn modal-fracture-severe >}}Fracture sévère{{< /modal-btn >}} (hors FESF), vertébrale unique, non sévère ou T-score < -3 avec fragilité ou {{< modal-btn modal-risque-chute >}}risque de chutes{{< /modal-btn >}}
   - Acide zolédronique 5 mg IVL annuel
   - [Risédronate 35 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) en 1 prise par semaine
 - Fractures vertébrales

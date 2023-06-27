@@ -16,7 +16,7 @@ sctid = "61582004 "
 icd10 = "J30.4"
 image = true
 imageSrc = "La rhinite allergique par vectorjuice / Freepik"
-todo = "Le score SFAR est une aide au diagnostic (même chez le nourrisson)(TODO: src11-12) score 8: se 95,1%-spe 94,8% | Score de l'ARIA adapté à l'enfant TODO: src71"
+todo = "Le score SFAR est une aide au diagnostic (même chez le nourrisson)(src11-12) score 8: se 95,1%-spe 94,8% | Score de l'ARIA adapté à l'enfant src71"
 flowchart = true
 +++
 

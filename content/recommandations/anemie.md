@@ -18,7 +18,7 @@ icd10 = "D50.9"
 flowchart = true
 image = true
 imageSrc = "Illustration de l'anémie par macrovector / Freepik"
-todo = "red flags NICE 23-24-184, Prescrire, risque K src 11-25-63, indication transfusion sanguine"
+todo = "La voie orale est inefficace dans les MICI (*SOURCE*), red flags NICE 23-24-184, Prescrire, risque K src 11-25-63, indication transfusion sanguine"
 +++
 
 {{%article-summary%}}
@@ -220,8 +220,8 @@ Prise en charge de l'anémie par supplémentation et fer puis surveillance de la
 - Elle peut être poursuivie au long cours sur conseil de l'hématologue
 - Elle est quasi-impossible à obtenir par des seuls apports alimentaires  
   Boudin noir, Moules, seiche, lentilles, soja, épinards, raison sec ([Anses. Tables Ciqual](https://ciqual.anses.fr/#/constituants/10260/fer-(mg-100-g)))
-- La supplémentation en [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ou rénale est spécifique
-- La voie orale est inefficace dans les MICI (TODO: *SOURCE*)
+- La supplémentation en cas d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ou d'[insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) est spécifique
+- La voie orale est inefficace dans les MICI
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une anémie avec suspicion de carence en fer" "show" %}}

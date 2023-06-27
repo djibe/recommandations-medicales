@@ -14,7 +14,7 @@ sources = ["Assurance Maladie"]
 tags = []
 anglais = []
 sctid = ""
-todo = "TODO: summary, reprise temps partiel, modalité papier/ameli, https://www.fmfpro.org/reprise-du-travail-apres-un-arret-prolonge.html | Arrêt dépression: suivi hebdo, psycho, antidep 6 mois, temps partiel"
+todo = "reprise temps partiel, modalité papier/ameli, https://www.fmfpro.org/reprise-du-travail-apres-un-arret-prolonge.html | Arrêt dépression: suivi hebdo, psycho, antidep 6 mois, temps partiel"
 +++
 
 {{%article-summary%}}
@@ -57,7 +57,7 @@ EDC
 : État dépressif caractérisé
 
 EMS
-: Échanges médicaux sécurisés (messagerie d'Amelipro)
+: Échanges médicaux sécurisés (messagerie d'Ameli Pro)
 
 FIE
 : Faute inexcusable de l'employeur

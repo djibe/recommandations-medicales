@@ -17,7 +17,7 @@ icd10 = "E66.9"
 draft = true
 image = false
 imageSrc = ""
-todo = "stats Obepi, Constances, FLI HAS22 p15, HAS 23 screenshots, << personne en obésité >>, obésité et Grossesse HAS 23 p23"
+todo = "stats Constances, FLI HAS22 p15, HAS 23 screenshots, << personne en obésité >>, obésité et Grossesse HAS 23 p23"
 chart = true
 +++
 
@@ -31,13 +31,23 @@ TODO:
 Le généraliste est considéré comme niveau 1 de la prise en charge de l'obésité.
 
 Obésité
-: TODO:
-: Les déterminants du poids sont multiples: environnementaux, psychologiques, sociaux, génétiques.
+: Maladie chronique la plus fréquente en nutrition, évolutive et sans tendance spontanée à la guérison. Elle est définie comme une maladie car elle affecte le bien-être physique, social et psychologique.
+: Pour l'OMS: l'obésité est un << excès de masse grasse entraînant des conséquences néfastes pour la santé >>. Pour approcher cette masse grasse, on utilise la corpulence avec l'**indice de masse corporelle** (IMC, en kg/m²) ou indice de Quételet.
+: Chez l'adulte jeune en bonne santé, la masse grasse représente 10-15% du poids chez l'homme et 20-25% chez la femme.
+: Les déterminants du poids sont eux aussi multiples: environnementaux, psychologiques, sociaux, génétiques.
 
-TODO: Table grades
+{{< table title="Classification de la corpulence des adultes selon l'OMS" >}}
+| Définition                | IMC (kg/m²) |
+|---------------------------|:-----------:|
+| Surpoids                  |   25-29,9   |
+| Obésité modérée (grade 1) |   30-34,9   |
+| Obésité sévère (grade 2)  |   35-29,9   |
+| Obésité morbide (grade 3) |    ≥ 40     |
+{{< /table >}}
 
 Obésité abdominale
-: Tour de taille de 88 cm ou plus chez la femme et seuil de 102 cm chez l'homme.
+: Tour de taille de 88 cm ou plus chez la femme et 102 cm chez l'homme.
+: L'accumulation de graisse viscérale est associée à l'augmentation de la **mortalité cardiovasculaire** et des maladies métaboliques.
 : Le tour de taille se mesure: bras le long du corps en fin d'expiration normale, à mi-chemin entre le bord inférieur de la dernière côte palpable et le sommet de la crête iliaque.
 
 Échec de prise en charge de l'obésité
@@ -149,7 +159,7 @@ TCA
 
 - Antécédents (TDAH, psychiatriques, migraine)
 - Facteurs de risque cardiovasculaire
-- Traitements en cours (neuroleptiques, corticoïdes, contraception)
+- Traitements en cours (neuroleptiques, antiépileptiques, corticoïdes, contraception)
 - Histoire pondérale
   - Âge de début
   - Facteurs déclenchants
@@ -178,6 +188,7 @@ Sommeil : 2.1.4
 ### Examen clinique
 
 - Poids, taille, IMC et leurs variations
+- Autres outils d'Évaluation de la masse grasse: 
 - Tour de taille
 - Pression artérielle avec brassard adapté, fréquence et rythme cardiaque
 - Palpation thyroïdienne
@@ -186,36 +197,36 @@ Sommeil : 2.1.4
 - Cutané: intertrigo
 - Rechercher une dénutrition et une sarcopénie
 - Rechercher des signes d'obésité secondaire
-  - Cushing TODO:: obésité centrale, acanthosis nigricans (*ENDO 2018*)
-  - Hypothyroïdie
+  - [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}): obésité faciotronculaire, amyotrophie proximale, vergetures pourpres, acanthosis nigricans (*ENDO 2018*)
+  - [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Dépistage des complications de l'obésité" "show" %}}
 
 {{< table title="Rythme de dépistage des complications chez l'adulte en situation d'obésité. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
-| Appareil   | Soins        | Source                   |
-|------------|--------------|--------------------------|
-| Boulimie hyperphagique | Dépister les TCA avec {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} | HAS 2019 |
-| Cancer colorectal | Dépistage organisé | INCa 2022 |
-| Cancer de l'endomètre | Échographie sus-pubienne et endovaginale si métrorragies post-ménopausiques | ACOG 2020 |
-| Cancer de l'ovaire | Échographie sus-pubienne et endovaginale si symptômes (post-ménopausiques ++) | INCa 2020 |
-| Cancer du pancréas | Scanner AP injecté si symptômes | INCa 2020 |
-| Cancer du sein | Dépistage organisé | INCa 2022 |
-| Contraception œstroprogestative | En l'absence d'autre d'autre FRCV | CNGOF 2018 |
-| Dentaire     | Suivi annuel | HAS 2023 |
-| Diabète type 2 | Glycémie à jeun tous les 1-3 ans | HAS 2023 |
-| Dyslipidémie | Cholestérol total, HDL, LDL, triglycérides | TODO: |
-| EFR | Si: IMC ≥ 30 avec dyspnée NYHA 3-4, IMC ≥ 35 et SAHOS, IMC ≥ 40 | HAS 2023 |
-| Gaz du sang | Si: IMC ≥ 35, SpO2 &lt; 94% ou CPT < 85% | HAS 2023 |
-| Grossesse | Prise de poids limitée 5-9 kg | SFD 2022 |
-| Hypertension | Mesure avec brassard adapté tous les 1 à 3 ans | ESC 2021 |
-| Maladie rénale chronique | Créatininémie, DFG et ratio albuminurie/créatininurie min. tous les 3 ans | HAS 2023 |
-| Micronutriments | Dosage si: chirurgie bariatrique, amaigrissement massif, symptômes évocateurs| HAS 2022 |
-| Podologique | Obésité est haut risque d'atteinte podologique | HAS 2020 |
-| Risque cardiovasculaire | TODO: | ESC 2021 |
-| Stéatopathie | {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}} | AFEF 2020, HAS 2023 |
-| Syndrome d'apnées du sommeil | Polygraphie si IMC ≥ 35 ou signes évocateurs  | HAS 2023 |
-| Vaccin grippe | Annuel si IMC ≥ 40 | Calendrier 2023 |
+| Appareil                        | Soins                                                                                    | Source              |
+|---------------------------------|------------------------------------------------------------------------------------------|---------------------|
+| Boulimie hyperphagique          | Dépister les TCA avec {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} | HAS 2019            |
+| Cancer colorectal               | Dépistage organisé                                                                       | INCa 2022           |
+| Cancer de l'endomètre           | Échographie sus-pubienne et endovaginale si métrorragies post-ménopausiques              | ACOG 2020           |
+| Cancer de l'ovaire              | Échographie sus-pubienne et endovaginale si symptômes (post-ménopausiques ++)            | INCa 2020           |
+| Cancer du pancréas              | Scanner AP injecté si symptômes                                                          | INCa 2020           |
+| Cancer du sein                  | Dépistage organisé                                                                       | INCa 2022           |
+| Contraception œstroprogestative | En l'absence d'autre d'autre FRCV                                                        | CNGOF 2018          |
+| Dentaire                        | Suivi annuel                                                                             | HAS 2023            |
+| Diabète type 2                  | Glycémie à jeun tous les 1-3 ans                                                         | HAS 2023            |
+| Dyslipidémie                    | Cholestérol total, HDL, LDL, triglycérides                                               | TODO:               |
+| EFR                             | Si: IMC ≥ 30 avec dyspnée NYHA 3-4, IMC ≥ 35 et SAHOS, IMC ≥ 40                          | HAS 2023            |
+| Gaz du sang                     | Si: IMC ≥ 35, SpO2 &lt; 94% ou CPT < 85%                                                 | HAS 2023            |
+| Grossesse                       | Prise de poids limitée 5-9 kg                                                            | SFD 2022            |
+| Hypertension                    | Mesure avec brassard adapté tous les 1 à 3 ans                                           | ESC 2021            |
+| Maladie rénale chronique        | Créatininémie, DFG et ratio albuminurie/créatininurie min. tous les 3 ans                | HAS 2023            |
+| Micronutriments                 | Dosage si: chirurgie bariatrique, amaigrissement massif, symptômes évocateurs            | HAS 2022            |
+| Podologique                     | Obésité est haut risque d'atteinte podologique                                           | HAS 2020            |
+| Risque cardiovasculaire         | TODO:                                                                                    | ESC 2021            |
+| Stéatopathie                    | {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}                                | AFEF 2020, HAS 2023 |
+| Syndrome d'apnées du sommeil    | Polygraphie si IMC ≥ 35 ou signes évocateurs                                             | HAS 2023            |
+| Vaccin grippe                   | Annuel si IMC ≥ 40                                                                       | Calendrier 2023     |
 {{< /table >}}
 
 {{% /collapse %}}
@@ -311,12 +322,13 @@ Un objectif doit être précis, atteignable, progressif, facile à mettre en œu
 - [HAS. Guide du parcours de soins : surpoids et obésité de l'adulte. Guide parcours de soins. 2023.](https://www.has-sante.fr/jcms/p_3408871/fr/guide-du-parcours-de-soins-surpoids-et-obesite-de-l-adulte)
 - [Fontbonne A et al. Prevalence of Overweight and Obesity in France: The 2020 Obepi-Roche Study by the "Ligue Contre l'Obésité". J Clin Med. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9918095/)
 - [HAS, FFN. Obésité de l'adulte : prise en charge de 2e et 3e niveaux - Partie I : prise en charge médicale. Recommandation de bonne pratique. 2022.](https://www.has-sante.fr/jcms/p_3346001/fr/obesite-de-l-adulte-prise-en-charge-de-2e-et-3e-niveaux-partie-i-prise-en-charge-medicale)
+- {{< references/college-endocrino >}}
 
 ### À lire
 
 - [HAS. Obésité : prise en charge chirurgicale chez l'adulte. Reco2clics. 2009.](https://www.has-sante.fr/jcms/c_765529/fr/obesite-prise-en-charge-chirurgicale-chez-l-adulte)
-- Collèges
 - Ligue contre l'obésité
+- OMS
 
 {{%/sources%}}
 

@@ -365,7 +365,7 @@
       if (checkedElems.length === 17) {
         checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
         scoreHamilton.innerHTML = score
-        if (score <= 9) { textHamilton.innerHTML = "TODO:" }
+        if (score <= 9) { textHamilton.innerHTML = "Pas de syndrome dépressif" }
         else if (score >= 10 && score <= 13) { textHamilton.innerHTML = "Symptômes dépressifs légers" }
         else if (score >= 14 && score <= 17) { textHamilton.innerHTML = "Symptômes dépressifs légers à modérés" }
         else if (score >= 18) { textHamilton.innerHTML = "Symptômes dépressifs modérés à sévères" }

@@ -171,7 +171,7 @@ La MVTE est *non provoquée* en l'absence de {{< modal-btn modal-mvte-fdr >}}fac
 
 ### Enquête étiologique
 
-- Pas de recherche systématique de cancer en prsénce de {{< modal-btn modal-mvte-fdr >}}risque majeur transitoire{{< /modal-btn >}}
+- Pas de recherche systématique de cancer en cas de {{< modal-btn modal-mvte-fdr >}}facteur de risque majeur transitoire{{< /modal-btn >}}
 - EP avec *nécrose cutanée* ou antécédent de pathologie vasculaire placentaire: rechercher un *SAPL*
 - EP avec *signes d'hémolyse* ou *cytopénie*: rechercher une *hémoglobinurie paroxystique nocturne* (HPN)
 

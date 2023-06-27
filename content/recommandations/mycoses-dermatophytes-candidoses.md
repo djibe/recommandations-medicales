@@ -19,7 +19,7 @@ icd10 = "B36.9"
 image = true
 imageSrc = "Candidose linguale pseudo-membraneuse (muguet) de l'enfant déclenchée par des antibiotiques. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
 flowchart = true
-todo = "ttt sycosis, Pytiriasis capitis"
+todo = "périonyxis fluconazole, ttt sycosis, Pytiriasis capitis"
 +++
 
 {{%article-summary%}}
@@ -419,7 +419,7 @@ Traitement des onychomycoses:
   1. Pédicure-podologue pour limage ou meulage initial
   2. Vernis unguéal [amorolfine 5%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68805138&typedoc=R) x 1-2/semaine ou [ciclopirox 8%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66640136&typedoc=R) x 1/j pendant 3 à 6 mois
   3. Éconazole des espaces interdigitoplantaires pour éviter une réinfection
-  4. Périonyxis important: prélèvement, imidazolé local voire fluconazole (TODO:)
+  4. Périonyxis important: prélèvement, imidazolé local voire fluconazole
   5. Si échec: avulsion chimique par bifonazole 1% + urée 40% (Amycor Onychoset®) sous pansement occlusif x 1/j pendant 1-3 semaines  
     et relais par bifonazole seul 1% crème (Amycor®) pendant 4-8 semaines (ou jusqu'à repousse complète de l'ongle).
 - Atteinte matricielle
@@ -514,12 +514,9 @@ Traitement général de première intention.
 
 La terbinafine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60108678&typedoc=R), [interactions limitées](https://www.drugs.com/interaction/list/?drug_list=2161-0)) pour un traitement général est disponible en comprimés sécables avec une seule prise quotidienne pendant le repas.
 
-Éviter chez les professionnels du goût.
+Éviter la terbinafine chez les professionnels du goût.
 
 [Fiche SFD info patient terbinafine et itraconazole (SFD)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Bordereau-3_Prise-des-medicaments.pdf)
-
-**Bilan hépatique** avant le traitement.  
-TODO: surveillance biologique
 
 {{< table title="Posologies de la terbinafine selon le poids. Dr JB Fron d'après SFD et al 2021" >}}
 | Poids (kg) | Posologie (mg) |
@@ -531,9 +528,9 @@ TODO: surveillance biologique
 
 #### Polyènes Amphotéricine B
 
-TODO:
+[Amphotéricine B](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64346723&typedoc=R) (Fungizone®)
 
-Effet topique digestif en l'absence d'absorption.
+Effet topique digestif non absorbé et donc interactions limitées ([vérifier les interactions](https://www.drugs.com/interaction/list/?drug_list=192-0)).
 
 #### Pour en savoir plus: Itraconazole
 
