@@ -1583,6 +1583,10 @@ table.dataTable {
   margin-right: 8px !important;
 }
 
+.apexcharts-yaxis-title-text {
+  font-weight: 400;
+}
+
 .apexcharts-tooltip {
   background: #fff !important;
   border-radius: 4px !important;
@@ -1606,7 +1610,7 @@ table.dataTable {
   }
   .apexcharts-tooltip-text-y-value {
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 500;
     margin-left: 4px;
   }
 }

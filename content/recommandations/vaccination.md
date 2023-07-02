@@ -155,6 +155,8 @@ Lire le *Calendrier vaccinal* page 75.
 
 > *[Loi du 30 décembre 2017](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171)*
 
+Si l'infraction vient du médecin de l'enfant, il peut être poursuivi par le CDOM, l'ARS voire la [miviludes](https://www.miviludes.interieur.gouv.fr).
+
 {{% /collapse %}}
 {{%collapse "Populations à risque" %}}
 

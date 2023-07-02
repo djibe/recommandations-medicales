@@ -161,10 +161,11 @@ Bilan biologique en cas de fracture de fragilité ou de T-score < -3:
 - [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
 - Testostéronémie totale
 - [Vitamine D]({{< relref "vitamine-d.md" >}})
+- Homme avant 50 ans: test de freinage minute (voir [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}))
 
 > *GRIO, SFR 2021*
 
-Selon les anomalies, compléter avec le(s) dosage(s) ciblés: ferritinémie, PTH, TSH, FSH, LH, prolactine, cortisol libre urinaire, glycémie, calciurie/phosphaturie, tryptase, [anticorps anti-transglutaminase]({{< relref "maladie-coeliaque.md" >}}).
+Selon les anomalies, compléter avec le(s) dosage(s) ciblés: ferritinémie, PTH, TSH, FSH, LH, prolactine, glycémie, calciurie/phosphaturie, tryptase, [anticorps anti-transglutaminase]({{< relref "maladie-coeliaque.md" >}}).
 
 ### Ostéodensitométrie
 

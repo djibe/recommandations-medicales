@@ -310,7 +310,7 @@ Recommandations pour la prise en charge et le traitement de l'urticaire chroniqu
   Bithérapie anti-H1 2G le matin et anti-H1 1G le soir.
 - Réévaluation à 4-8 semaines
 
-Essayer successivement tous les antihistaminique anti-H1 si échec et adresser au spécialiste pour avis pluridisciplinaire (omalizumab, cyclosporine).
+Essayer successivement tous les antihistaminique anti-H1 si échec et adresser au spécialiste pour avis pluridisciplinaire (omalizumab, ciclosporine).
 
 #### Traitement d'urticaires chronique spécifiques
 

@@ -80,6 +80,8 @@ La facturation d'une téléexpertise s'effectue toujours en mode *Sesam sans vit
 
 ### Facturer une téléexpertise en tant que médecin requis (expert)
 
+*Cette section n'a pas été vérifiée en pratique*
+
 - La facturation se fait pour le patient concerné en mode *Sesam sans vitale* avec les informations fournies par le médecin requérant sur la plateforme
 - La cotation est **TE2** (20€), non cumulable avec d'autres actes ou majorations
 - Passer en mode d'édition de FSE avancé pour renseigner le **numéro AM du médecin requérant** dans une zone *Informations sur le prescripteur* de l'éditeur fournies par la plateforme de téléexpertise

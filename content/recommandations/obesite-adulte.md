@@ -1,12 +1,12 @@
 +++
 title = "Obésité de l'adulte"
 prefix = "la "
-description = "TODO:"
+description = "Recommandations pour la prise en charge de l'obésité de l'adulte. Dépistage des complications, éducation thérapeutique, sensations alimentaires, perte de poids"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-19T13:21:51+02:00"
-publishdate = "2023-06-26"
-lastmod = "2023-06-26"
+publishdate = "2023-06-29"
+lastmod = "2023-06-29"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["HAS", "FFN"]
@@ -17,7 +17,7 @@ icd10 = "E66.9"
 draft = true
 image = false
 imageSrc = ""
-todo = "stats Constances, FLI HAS22 p15, HAS 23 screenshots, << personne en obésité >>, obésité et Grossesse HAS 23 p23"
+todo = "stats Constances, FLI HAS22 p15, HAS 23 screenshots, << personne en obésité >>, obésité et Grossesse HAS 23 p23, relation IMC-mortalité Bray 1985"
 chart = true
 +++
 
@@ -26,33 +26,36 @@ chart = true
 TODO:
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définition" "show" %}}
 
 Le généraliste est considéré comme niveau 1 de la prise en charge de l'obésité.
 
 Obésité
-: Maladie chronique la plus fréquente en nutrition, évolutive et sans tendance spontanée à la guérison. Elle est définie comme une maladie car elle affecte le bien-être physique, social et psychologique.
+: Maladie chronique la plus fréquente en nutrition (17% de la population), évolutive et sans tendance spontanée à la guérison. Elle est définie comme une maladie car elle affecte le bien-être physique, social et psychologique.
 : Pour l'OMS: l'obésité est un << excès de masse grasse entraînant des conséquences néfastes pour la santé >>. Pour approcher cette masse grasse, on utilise la corpulence avec l'**indice de masse corporelle** (IMC, en kg/m²) ou indice de Quételet.
 : Chez l'adulte jeune en bonne santé, la masse grasse représente 10-15% du poids chez l'homme et 20-25% chez la femme.
 : Les déterminants du poids sont eux aussi multiples: environnementaux, psychologiques, sociaux, génétiques.
 
-{{< table title="Classification de la corpulence des adultes selon l'OMS" >}}
-| Définition                | IMC (kg/m²) |
-|---------------------------|:-----------:|
-| Surpoids                  |   25-29,9   |
-| Obésité modérée (grade 1) |   30-34,9   |
-| Obésité sévère (grade 2)  |   35-29,9   |
-| Obésité morbide (grade 3) |    ≥ 40     |
+{{< table title="Classification de la corpulence des adultes selon l'OMS 1998" >}}
+| Définition                 | IMC (kg/m²) |
+|----------------------------|:-----------:|
+| Surpoids                   |   25-29,99  |
+| Obésité modérée (classe 1) |   30-34,99  |
+| Obésité sévère (classe 2)  |   35-29,99  |
+| Obésité morbide (classe 3) |    ≥ 40     |
 {{< /table >}}
 
 Obésité abdominale
-: Tour de taille de 88 cm ou plus chez la femme et 102 cm chez l'homme.
+: Définition OMS 1998 pour les caucasiens: tour de taille de 88 cm ou plus pour une femme et 102 cm pour un homme.
 : L'accumulation de graisse viscérale est associée à l'augmentation de la **mortalité cardiovasculaire** et des maladies métaboliques.
 : Le tour de taille se mesure: bras le long du corps en fin d'expiration normale, à mi-chemin entre le bord inférieur de la dernière côte palpable et le sommet de la crête iliaque.
 
 Échec de prise en charge de l'obésité
 : Selon HAS 2022: perte de poids inférieure à 5% à un an ou absence de son maintien avec: poursuite de la prise de poids, incapacité à modifier durablement ses comportements ou aggravation des complications liées à l'obésité.
 : En cas d'échec à 6-12 mois, le patient doit être orienté vers un nutritionniste (niveau 2) qui pourra l'adresser à un centre spécialisé de l'obésité (CSO, niveau 3).
+
+Restriction cognitive
+: << Limitation volontaire des apports alimentaires avec possibles privations, dans le but de contrôler son poids >> (*CEEDMM*).
 
 ### Épidémiologie de l'obésité en France
 
@@ -81,7 +84,7 @@ const chartOptions = {
       min: 0
     }
   ],
-  tooltip: { y: [{ formatter: function(value) { return `${value} %` }}] },
+  tooltip: { y: [{ formatter: function(value) { return `${value} %`; }}] }
 }
 </script>
 <figure class="figure-chart">
@@ -157,7 +160,7 @@ TCA
 
 ### Interrogatoire
 
-- Antécédents (TDAH, psychiatriques, migraine)
+- Antécédents (dont TDAH, psychiatriques)
 - Facteurs de risque cardiovasculaire
 - Traitements en cours (neuroleptiques, antiépileptiques, corticoïdes, contraception)
 - Histoire pondérale
@@ -165,12 +168,15 @@ TCA
   - Facteurs déclenchants
   - Variations et rebonds
   - Traitements essayés
-- Comportement alimentaire  
-  Dépister les troubles des conduites alimentaires (TCA) avec {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}, grignotage, sensations alimentaires, hyperphagie, tachyphagie, restriction cognitive.
-- Niveau d'activité physique (score GPAQ), sédentarité
+- Comportement alimentaire
+  - Dépister des troubles des conduites alimentaires (TCA) avec {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}
+  - Repas, grignotage (dont nocturne), compulsions, aliments courants
+  - Sensations alimentaires, déclenchement du repas, hyperphagie, tachyphagie, restriction cognitive
+  - Tabous alimentaires, fausses croyances, sources de frustration et de désinhibition
+- Niveau d'activité physique (score GPAQ) et sédentarité
 - Contexte psychopathologique  
   Anxiété, dépression, image du corps, estime de soi, traumatismes/agressions, addictions.
-- Environnement socio-professionnel, rythmes décalés
+- Environnement social, familiale, professionnel, financier, rythmes décalés
 - Retentissement sur la qualité de vie personnelle ou professionnelle
 - Comorbidités
   - Quantité de sommeil et dépistage d'un syndrome d'apnées du sommeil (SAHOS)
@@ -188,8 +194,9 @@ Sommeil : 2.1.4
 ### Examen clinique
 
 - Poids, taille, IMC et leurs variations
-- Autres outils d'Évaluation de la masse grasse: 
+- Autres outils d'évaluation de la masse grasse: TODO:
 - Tour de taille
+- Répartition androïde ou gynoïde des graisses
 - Pression artérielle avec brassard adapté, fréquence et rythme cardiaque
 - Palpation thyroïdienne
 - Évaluation du risque cardiovasculaire
@@ -197,8 +204,24 @@ Sommeil : 2.1.4
 - Cutané: intertrigo
 - Rechercher une dénutrition et une sarcopénie
 - Rechercher des signes d'obésité secondaire
-  - [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}): obésité faciotronculaire, amyotrophie proximale, vergetures pourpres, acanthosis nigricans (*ENDO 2018*)
+  - Signes spécifiques d'un [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}): obésité faciotronculaire avec amyotrophie proximale, signes cutanés (fragilité cutanée, ecchymoses, vergetures pourpres), hirsutisme, acanthosis nigricans (*ENDO 2018*)
   - [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
+
+{{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+### Bilan initial de l'obésité de l'adulte
+
+- NFS
+- ASAT, ALAT, GGT
+- Uricémie
+- Ionogramme sanguin, créatininémie, DFG
+- Glycémie à jeun
+- Bilan lipidique
+- ECG de repos
+- Bilans spécifiques: voir *Dépistage des complications*
+
+> Bilan du *CEEDMM*
 
 {{% /collapse %}}
 {{%collapse "Dépistage des complications de l'obésité" "show" %}}
@@ -219,7 +242,7 @@ Sommeil : 2.1.4
 | EFR                             | Si: IMC ≥ 30 avec dyspnée NYHA 3-4, IMC ≥ 35 et SAHOS, IMC ≥ 40                          | HAS 2023            |
 | Gaz du sang                     | Si: IMC ≥ 35, SpO2 &lt; 94% ou CPT < 85%                                                 | HAS 2023            |
 | Grossesse                       | Prise de poids limitée 5-9 kg                                                            | SFD 2022            |
-| Hypertension                    | Mesure avec brassard adapté tous les 1 à 3 ans                                           | ESC 2021            |
+| Hypertension artérielle         | Mesure avec brassard adapté tous les 1 à 3 ans                                           | ESC 2021            |
 | Maladie rénale chronique        | Créatininémie, DFG et ratio albuminurie/créatininurie min. tous les 3 ans                | HAS 2023            |
 | Micronutriments                 | Dosage si: chirurgie bariatrique, amaigrissement massif, symptômes évocateurs            | HAS 2022            |
 | Podologique                     | Obésité est haut risque d'atteinte podologique                                           | HAS 2020            |
@@ -229,8 +252,10 @@ Sommeil : 2.1.4
 | Vaccin grippe                   | Annuel si IMC ≥ 40                                                                       | Calendrier 2023     |
 {{< /table >}}
 
+Autres complications de l'obésité: hyperuricémie et goutte, maladies cardiovasculaires, TVP, insuffisance veineuse, lithiases biliaires, protéinurie, HTIC, dépression.
+
 {{% /collapse %}}
-{{%collapse "Niveau adapté de prise en charge de l'obésité" %}}
+{{%collapse "Niveau adapté de prise en charge et chirurgie bariatrique" %}}
 
 Situations d'obésité nécessitant une prise en charge spécialisée (d'après HAS 2022).
 
@@ -275,6 +300,38 @@ IMC de 35 à 50 kg/m² et au moins un parmi:
 - Grossesse après chirurgie bariatrique
 - Échec de niveau 1
 
+### La chirurgie bariatrique
+
+> << Il s'agit du seul traitement actuel de l'obésité ayant démontré son efficacité sur le long terme en termes de perte de poids et de réduction de certaines comorbidités >> (*CEEDMM*)
+{.alert .alert-info}
+
+La chirurgie bariatrique est décidée en réunion de concertation pluridisciplinaire (RCP).
+
+Les indications à une chirurgie bariatrique avec conditions sont:
+
+1. IMC ≥ 40 kg/m²  ou IMC ≥ 35 avec au moins une comorbidité pouvant s'améliorer après la chirurgie (ex: HTA, SAHOS et autres troubles respiratoires sévères, diabète de type 2, maladies ostéoarticulaires invalidantes, stéato-hépatite non alcoolique)
+2. Échec d'un traitement médical, nutritionnel, diététique et psychothérapeutique bien conduit pendant 6 à 12 mois, en l'absence de perte de poids suffisante ou en l'absence de maintien de la perte de poids
+3. Patient bien informé
+4. Évaluation et prise en charge préopératoires pluridisciplinaires pendant plusieurs mois
+5. Patients ayant compris et accepté la nécessité d'un suivi médical et chirurgical à long terme
+6. Risque opératoire acceptable
+
+> *HAS 2009*
+
+Les contraceptions orales doivent être réévaluées du fait du risque de malabsorption.
+
+Informations sur la chirurgie bariatrique: [SOFFCO](https://soffcomm.org/lobesite-qu-est-ce-que-cest) et [Je veux me faire opérer d'une chirurgie de l'obésité](https://www.calameo.com/read/00402182736be0d767171?authid=Vz2DRvwIJMi4)
+
+#### Les complications de la chirurgie bariatrique
+
+Complications fréquentes observées après une chirurgie de l'obésité: dénutrition, anémie et carences, troubles digestifs, *dumping syndrome* précoce (malaise post-prandial), hypoglycémies (by-pass).
+
+#### Techniques de chirurgie bariatrique
+
+Les techniques chirurgicales peuvent être: sleeve gastrectomie (gastrectomie longitudinale), Bypass gastrique en << Y >>, dérivation biliopancréatique.
+
+L'anneau gastrique est désormais très peu utilisé (complications, ré-interventions).
+
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
@@ -285,8 +342,9 @@ Un objectif doit être précis, atteignable, progressif, facile à mettre en œu
 - Activité physique
   - Lutte contre la sédentarité
   - Cible: 150-300 minutes d'intensité modérée par semaine et renforcement x 2/semaine
-  - APA
-- Perte de poids adaptée à la physiologie
+  - Activité physique adaptée (APA) voire supervisée
+- Perte de poids adaptée à la physiologie  
+  Une perte de poids de 5-15% est recommandée (sauf sujet âgé, *CEEDMM*). Le maintien du poids peut être le premier objectif.
 - Prise en charge nutritionnelle
   - Avis diététique, nutritionniste voire centre spécialisé de l'obésité (voir *Niveau adapté*)
   - Écoute des sensations alimentaires: faim, satiété
@@ -294,18 +352,21 @@ Un objectif doit être précis, atteignable, progressif, facile à mettre en œu
   - Régime méditerranéen
 - Conséquences
   - Estime de soi, confiance en soi, culpabilité, isolement, perte de motivation
-- Programmes d'éducation thérapeutique locaux
+- Programmes d'**éducation thérapeutique** locaux
+- Troubles du comportement alimentaire: psychologue, psychiatre, diététicien
 - Handicap: ergothérapeute
 - Autres intervenants: psychologue, psychiatre, médecin du travail, travailleur social
-- Associations: TODO:
+- Associations de patients: [Collectif National des Associations d'Obèses (CNAO)](https://cnao.fr/)
 
-> << Les régimes déséquilibrés ou très restrictifs sont déconseillés >> (*HAS 2022*)
+> << Les régimes déséquilibrés ou très restrictifs sont déconseillés >> (*HAS 2022*) - < 1200 kcal/j ne sont pas conseillés (*CEEDMM*)
 {.alert .alert-warning}
 
 ### Suivi
 
 - Mesures au moins annuelles (IMC, tour de taille)
-- Bilans (voir Dépistage des complications)
+- Adaptations alimentaires (sensations, troubles)
+- Bilan des complications (voir Dépistage des complications)
+- Si chirurgie: signes carentiels (neurologiques), de dénutrition, supplémentation multivitamines, calcium, vitamine D et B12
 
 ### Indication à la prise en charge de l'obésité en SSR
 
@@ -313,6 +374,31 @@ Un objectif doit être précis, atteignable, progressif, facile à mettre en œu
 - Suite de soins aigus nécessitant des équipements adaptés
 - Séjour prolongé
 - Rééducation motrice intensive
+
+{{% /collapse %}}
+{{%collapse "Conseils alimentaires" %}}
+
+> << Il n'y a pas d'interdits alimentaires >> (*CEEDMM*)
+{.alert .alert-info}
+
+Exemples de conseils alimentaires à proposer en situation d'obésité:
+
+- Limiter la consommation des aliments à forte densité énergétique, riches en lipides ou en sucres, et les boissons sucrées ou alcoolisées
+- Choisir des aliments de faible densité énergétique (fruits, légumes), boire de l'eau
+- Contrôler la taille des portions
+- Diversifier les choix alimentaires en mangeant de tout (ne pas éliminer les aliments préférés mais en manger modérément)
+- Manger suffisamment et lentement à l'occasion des repas, manger assis installé à une table
+- Structurer les prises alimentaires en repas et en collations en fonction des nécessités du mode de vie du sujet (en général, trois repas principaux et une collation éventuelle)
+- Ne pas sauter de repas pour éviter les grignotages entre les repas favorisés par la faim
+- Rassurer le patient quant à son droit au plaisir de manger, la convivialité des repas est souhaitable
+- Apprendre à lire les étiquettes d'information sur les emballages
+- Se consacrer au repas, être attentif à son assiette
+- Prêter attention aux sensations perçues lorsqu'on mange
+- Cuisiner si possible soi-même ou indiquer clairement les consignes à la personne qui cuisine
+- Proposer la même alimentation pour toute la famille (seules les quantités vont varier)
+- Limiter l'utilisation de matière grasse pour la cuisson
+
+> *CEEDMM 2021*
 
 {{% /collapse %}}
 {{%sources%}}
@@ -323,17 +409,16 @@ Un objectif doit être précis, atteignable, progressif, facile à mettre en œu
 - [Fontbonne A et al. Prevalence of Overweight and Obesity in France: The 2020 Obepi-Roche Study by the "Ligue Contre l'Obésité". J Clin Med. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9918095/)
 - [HAS, FFN. Obésité de l'adulte : prise en charge de 2e et 3e niveaux - Partie I : prise en charge médicale. Recommandation de bonne pratique. 2022.](https://www.has-sante.fr/jcms/p_3346001/fr/obesite-de-l-adulte-prise-en-charge-de-2e-et-3e-niveaux-partie-i-prise-en-charge-medicale)
 - {{< references/college-endocrino >}}
+- [HAS. Obésité : prise en charge chirurgicale chez l'adulte. 2009.](https://www.has-sante.fr/jcms/c_765529/fr/obesite-prise-en-charge-chirurgicale-chez-l-adulte)
+- [Rapport d'une consultation de l'OMS. Obésité : prévention et prise en charge de l'épidémie mondiale. Série de rapports techniques 894. Genève. 2003. (1998)](https://apps.who.int/iris/handle/10665/42734)
+- [Organisation Mondiale de la Santé](https://www.who.int/fr/health-topics/obesity)
 
 ### À lire
 
-- [HAS. Obésité : prise en charge chirurgicale chez l'adulte. Reco2clics. 2009.](https://www.has-sante.fr/jcms/c_765529/fr/obesite-prise-en-charge-chirurgicale-chez-l-adulte)
+- [Ligue contre l'obésité. Les vrais chiffres de la grossophobie. Odoxa. 2021. (PDF)](https://liguecontrelobesite.org/app/uploads/2021/03/Odoxa-pour-OBEPI-Discriminations-et-ob%C3%A9sit%C3%A9-2.pdf)
 - Ligue contre l'obésité
-- OMS
 
 {{%/sources%}}
-
-≤≥±®æœŒÈ³ÂSpO<sub>2</sub>
-
 {{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
 
 {{< scores/scoff >}}

@@ -24,7 +24,7 @@ imageSrc = "Lésions de gale de la main. Photo de Sven Teschke, CC BY-SA 3.0, vi
 - Prise en charge de la gale
   - Traitement concomitant de tout le foyer présentant un cas de gale
   - Traitement par ivermectine orale (adaptée au poids) en 1 prise à renouveler 8 jours après  
-    ou local par perméthrine crème (Topiscab®) 1 application le soir, renouveler à J8
+    ou local par perméthrine crème (Topiscab®) 1 application le soir, renouveler à J8. Alternative: Ascabiol®
   - Désinfection du linge et de la literie
   - Éviction de la collectivité pendant 3 jours
 

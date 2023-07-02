@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-16T13:47:19+01:00"
 publishdate = "2021-11-18"
-lastmod = "2023-01-23"
+lastmod = "2023-06-29"
 specialites = ["therapeutique"]
 annees = "2015"
 sources = ["HAS"]
@@ -36,6 +36,7 @@ Benzodiazépines
 : Médicament psychotrope anxiolytique caractérisé chimiquement par un cycle benzénique fusionné à un cycle diazépine.
 : Complications chez le sujet âgé: troubles de la mémoire et de la concentration, somnolence, [chutes](/tags/chute/), accidents de voiture.
 : L'arrêt progressif et encadré des BZD n'altère pas la qualité de vie et peut améliorer les fonctions cognitives.
+: 33% des consommateurs de benzodiazépines ont un usage inapproprié (*Bénard-Laribière 2022*).
 
 Syndrome de sevrage
 : Apparition de signes nouveaux dus à l'arrêt ou la diminution de la prise.
@@ -95,7 +96,7 @@ Respecter l'AMM de la spécialité:
   - Insomnie transitoire: 2-3 semaines
 - Anxiété
   - Anxiété sévère: 8-12 semaines en tenant compte de la période de décroissance
-  - Sevrage en alcool: 8-10 jours
+  - [Sevrage en alcool]({{< relref "sevrage-alcool.md" >}}): 8-10 jours
 
 {{< table title="Benzodiazépines et apparentés disponibles en France par voie orale en 2023. Dr JB Fron d'après BDPM" class="table-wrap" >}}
 | Molécule                 | Spécialité        | Demi-vie (h) | AMM                                |
@@ -194,6 +195,7 @@ Dr ...
 {{% /collapse %}}
 {{%sources%}}
 
+- [AddictoVigilance. Mésusage et abus des benzodiazépines et apparentés : où en est-on ?. 2023. (PDF)](https://addictovigilance.fr/wp-content/uploads/2023/06/Bulletin-benzodiazepines-n%C2%B020-juin-2023-VF-1-1.pdf)
 - Prescrire Redaction. Benzodiazépines ou apparentés. Rev Prescrire. Janvier 2021.
 - [HAS. Arrêt des benzodiazépines et médicaments apparentés : démarche du médecin traitant en ambulatoire. Recommandation de bonne pratique. Juin 2015.](https://www.has-sante.fr/jcms/c_2038262/fr/arret-des-benzodiazepines-et-medicaments-apparentes-demarche-du-medecin-traitant-en-ambulatoire)
 - [HAS. Modalités d'arrêt des benzodiazépines et médicaments apparentés chez le patient âgé. Recommandations professionnelles. Octobre 2007.](https://www.has-sante.fr/jcms/c_601509/fr/modalites-d-arret-des-benzodiazepines-et-medicaments-apparentes-chez-le-patient-age)

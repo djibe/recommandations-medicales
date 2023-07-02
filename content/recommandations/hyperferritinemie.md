@@ -6,10 +6,10 @@ synonyms = ["Conduite à tenir devant une hyperferritinémie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-27T20:02:41+02:00"
 publishdate = "2020-08-27"
-lastmod = "2023-01-12"
+lastmod = "2023-06-29"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2020"
-sources = ["AFEF", "SNFGE"]
+annees = "2022"
+sources = ["CDU-HGE", "AFEF", "SNFGE"]
 tags = ["fatigue", "ferritine", "obesite"]
 anglais = ["Hyperferritinemia"]
 sctid = "390943009"
@@ -35,7 +35,7 @@ Ferritine
 De nombreuses maladies influent sur la ferritinémie, en dehors de l'*hémochromatose HFE C282Y* dont la prise en charge est codifiée.
 
 Hyperferritinémie (HF)
-: Ferritinémie **> 200 µg/L chez la femme** et **300 µg/L chez l'homme**.
+: Ferritinémie supérieure à **200 µg/L chez la femme** et **300 µg/L chez l'homme**.
 : L'hyperferritinémie est *modérée* jusqu'à 500 µg/L, *nette* jusqu'à 1000 µg/L et *majeure* au-delà de 1000 µg/L.
 
 ### Épidémiologie de l'hyperferritinémie
@@ -48,6 +48,9 @@ Hyperferritinémie (HF)
 
 AFEF
 : Association Française pour l'Étude du Foie
+
+CDU-HGE
+: Collège Des Universitaires d'Hépato-GastroEntérologie
 
 CST
 : coefficient de saturation de la transferrine
@@ -72,6 +75,15 @@ SNFGE
 {{%collapse "Étiologie de l'hyperferritinémie" %}}
 
 Orientation diagnostique et étiologie d'une hyperferritinémie.
+
+{{< table title="Principaux mécanismes d'hyperferritinémie d'après CDU-HGE" >}}
+| Mécanisme                                  | CST    | Surcharge en fer  |
+|--------------------------------------------|--------|-------------------|
+| Syndrome inflammatoire                     | Normal | Non               |
+| Cytolyse hépatique, musculaire ou hémolyse | Normal | Non               |
+| Alcool                                     | Normal | Non sauf cirrhose |
+| Syndrome métabolique                       | Normal | Non ou faible     |
+{{< /table >}}
 
 ### Causes fréquentes d'hyperferritinémie
 
@@ -154,20 +166,18 @@ L'examen rechercher des signes de {{< modal-btn modal-metabolique >}}syndrome m�
 
 ### Bilan de première intention devant une hyperferritinémie
 
-Bilan à jeun:
+Bilan en cas d'hyperferritinémie (*CDU-HGE 2022*):
 
 - NFS, CRP
-- Ferritinémie, coefficient de saturation de la transferrine (CST) à jeun
-- ASAT, ALAT, GGT, PAL
-- CPK
+- ASAT, ALAT, GGT, PAL, bilirubine totale
+- CPK, réticulocytes, haptoglobine
+- Ferritinémie
 - Glycémie à jeun
 - Bilan lipidique
-- ± TSH
+
 {{%/info%}}
 
 Le coefficient de saturation de la transferrine (CST) élevé doit être confirmé par un 2<sup>e</sup> dosage à jeun à distance.
-
-En cas d'anomalie de la NFS: haptoglobine, réticulocytes.
 
 ### IRM hépatique
 
@@ -243,7 +253,7 @@ accTitle: Prise en charge diagnostique d'une hyperferritinémie d'après SNFGE 2
 - [Brissot P. et al. Pathophysiology and classification of iron overload diseases; update 2018. Transfusion Clinique et Biologique. 2018.](https://doi.org/10.1016/j.tracli.2018.08.006)
 - [Lorcerie B. et al. Démarche diagnostique devant une hyperferritinémie. La Revue de Médecine Interne. 2015.](https://www.sciencedirect.com/science/article/pii/S0248866314011114)
 - [Brissot P. Diagnostic d'une hyperferritinémie. 2012. (PDF)](https://www.hemochromatose.org/wp-content/uploads/2012/12/hyperferritinemie.pdf)
-- [Centre de référence des hémochromatoses.](https://centre-reference-fer-rennes.org/)
+- [Centre de référence des hémochromatoses.](https://centre-reference-fer-rennes.org)
 
 ### À lire
 

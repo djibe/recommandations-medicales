@@ -39,7 +39,7 @@ Anémie
 : La carence martiale (CM) est la 1<sup>re</sup> cause d'anémie (2-5% chez les adultes d'âge moyen, 20% des femmes en âge de procréer) et atteint 50% des femmes enceintes après 25 SA. La *thalassémie* (anémie microcytaire hypochrome mais régénérative) se présente sous le même tableau.  
 La carence martiale *non anémique* est fréquente (50% des femmes avec [ménorragies]({{< relref "menorragies.md" >}})).
 : L'*hypochromie* et la *microcytose* typiques de la carence en fer sont absentes en cas de maladie chronique ou carence concomitante en vitamines B9 ou 12. L'anémie ferriprive est toujours **arégénérative** (réticulocytes sans intérêt).
-: Chez le sujet âgé, la cause est toujours multifactorielle (régime, carence B9/B12, aspirine, insuffisance d'organe, saignement occulte).
+: Chez le sujet âgé, l'anémie est toujours multifactorielle (régime, carence B9/B12, aspirine, insuffisance d'organe, saignement occulte).
 
 Ferritinémie
 : La ferritinémie reflète les réserves en fer de l'organisme. Le fer est essentiel à l'hématopoïèse et au myocarde.
@@ -71,7 +71,7 @@ Elle est augmentée en cas d'inflammation (carence martiale peu probable si ferr
 {{< /table >}}
 
 Hypochromie
-: Globules rouges (GR) pauvres en hémoglobine ou Concentration corpusculaire moyenne en hémoglobine (CCMH) inférieure à la normale (CCMH normale = 32-36 g/dL). Durée de vie du GR: 120 jours. Ce nom vient de l'aspect de pâleur en coloration au May-Grünwald Giemsa.
+: Globules rouges (GR, érythrocytes) pauvres en hémoglobine ou *concentration corpusculaire moyenne en hémoglobine* (CCMH) inférieure à la normale (CCMH normale = 32-36 g/dL). Durée de vie du globule rouge: 120 jours. Ce nom vient de l'aspect de pâleur en coloration au May-Grünwald Giemsa.
 
 Microcytose
 : Globules rouges de petite taille (microcytes) ou réduction du Volume Globulaire Moyen (VGM < 80 µm<sup>3</sup>) des globules rouges.
@@ -93,7 +93,7 @@ Liste des causes possibles d'une carence en fer:
 
 Une cause digestive haute et basse est retrouvée dans 1 à 10% des cas (sujet âgé ++).
 
-### Diagnostic différentiel de l'anémie
+### Diagnostic différentiel de l'anémie par carence martiale
 
 - Anémie inflammatoire
 - Thalassémie
@@ -211,6 +211,7 @@ Prise en charge de l'anémie par supplémentation et fer puis surveillance de la
 
 ### Pour en savoir plus: Éléments importants sur la supplémentation en fer
 
+- < 10% du fer alimentaire est absorbé ([SNFGE](https://www.snfge.org/content/hemochromatose))
 - Supplémenter une carence martiale symptomatique chez la femme non ménopausée ([fatigue](/tags/fatigue/), ralentissement cognitif) et pendant la grossesse
 - Débuter le traitement pendant la réalisation du bilan étiologique  
   Sauf si délai de coloscopie de 2 semaines (coloration des selles).

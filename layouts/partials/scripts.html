@@ -24,13 +24,11 @@ document.addEventListener( 'DOMContentLoaded', event => {
     grid: { show: false },
     legend: {
       horizontalAlign: 'left',
-      itemMargin: {
-        horizontal: 12,
-    },
+      itemMargin: { horizontal: 12 },
       offsetX: 24,
       labels: {
         colors: '#424242'
-      },
+      }
     },
     markers: { size: 4 },
     plotOptions: {
@@ -87,12 +85,13 @@ document.addEventListener( 'DOMContentLoaded', event => {
       title: {
         style: {
           color: '#757575',
+          fontSize: '12px',
           fontWeight: 400
         }
       },
       // min: 0 // Do not set to allow negative values
     }
-  }
+  };
   const chart = new ApexCharts(document.getElementById('chart'), chartOptions)
   chart.render()
 
@@ -111,7 +110,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 
 {{- with .Params.flowchart }}
 <script type="module" async crossorigin>
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.2.3/+esm';
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.2.4/+esm';
   const MermaidConfig = {
     // logLevel: 1, // debug
     securityLevel: 'loose',
