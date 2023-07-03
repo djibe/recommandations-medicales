@@ -150,7 +150,7 @@ Les signes cliniques de l'HTAP sont peu spécifiques et doivent être évoqués 
 - Bilan lipidique
 - NFS, ferritinémie
 - Ionogramme
-- Créatininémie, CKD-EPI
+- Créatininémie, DFG {{< scores/ckd-epi >}}
 - Uricémie
 - Bilan hépatique
 - Sérologies VHB, VHC et VIH

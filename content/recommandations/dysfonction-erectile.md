@@ -204,12 +204,12 @@ Rechercher des signes de [syndrome de Cushing]({{< relref "syndrome-cushing.md" 
 ### Bilan devant une dysfonction érectile
 
 - NFS
-- Ionogramme, créatininémie et CKD-EPI
+- Ionogramme, créatininémie et DFG
 - Bilan hépatique (sauf < 5 ans)
 - Glycémie à jeun (sauf < 1 an) ou HbA<sub>1c</sub>
 - Bilan lipidique (sauf < 1 an)
 - PSA si > 50 ans (ou 45 si antécédents familiaux)
-- Ferritinémie (*CDU-HGE*)
+- Ferritinémie (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
 - Diabète type 2: testostéronémie totale  
   Le matin entre 8h et 11h.
 {{%/info%}}

@@ -159,11 +159,12 @@ Examens pour éliminer une ostéoporose secondaire.
 ### Bilan biologique pour la prise en charge de l'ostéoporose
 
 - NFS, VS, CRP
-- Ionogramme, créatininémie avec DFGe (CKD-EPI)
+- Ionogramme, créatininémie avec DFG CKD-EPI
 - ASAT, ALAT, GGT, PAL
 - TSH
 - Vitamine D
 - Calcémie corrigée, phosphatémie (*COFER*)
+- Ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
 - Électrophorèse des protéines sériques
   - Indications: fracture vertébrale suspecte, fracture pathologique, géodes
   - Systématique selon le COFER pour éliminer un myélome déminéralisant

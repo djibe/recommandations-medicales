@@ -3,12 +3,12 @@ title = "Maladies à déclaration obligatoire en 2023"
 prefix = "les "
 titleSeo = "Maladies déclaration obligatoire"
 noindex = true
-description = "Liste des 36 maladies à déclaration obligatoire selon l'article D3113-6 du Code de la Santé publique: Hépatite A ou hépatite B symptomatique, VIH ..."
+description = "Liste des 37 maladies à déclaration obligatoire selon l'article D3113-6 du Code de la Santé publique: Hépatite A ou hépatite B symptomatique, VIH ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-27T17:24:00+02:00"
 publishdate = "2021-03-27"
-lastmod = "2023-01-23"
+lastmod = "2023-07-03"
 specialites = ["certificats"]
 annees = "2023"
 sources = ["SPF"]
@@ -31,6 +31,7 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme:
 - Maladie du charbon
 - Chikungunya
 - Choléra
+- [Covid-19]({{< relref "covid-19.md" >}})
 - Dengue
 - Diphtérie
 - Encéphalite à tiques
@@ -62,7 +63,7 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme:
 - West Nile virus
 - Zika
 
-> [Santé Publique France. Liste des maladies à déclaration obligatoire](https://www.santepubliquefrance.fr/maladies-a-declaration-obligatoire/liste-des-maladies-a-declaration-obligatoire)
+> [Santé Publique France. Liste des maladies à déclaration obligatoire](https://www.santepubliquefrance.fr/maladies-a-declaration-obligatoire/liste-des-maladies-a-declaration-obligatoire) et [Arrêté du 30 juin 2023 relatif à la notification obligatoire des cas de Covid-19](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047773301)
 
 ## Déclarer une maladie à déclaration obligatoire
 

@@ -10,7 +10,7 @@ lastmod = "2023-04-17"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["HAS", "SFE"]
-tags = ["coeliaque", "depression", "fatigue", "TSH", "vertige"]
+tags = ["coeliaque", "depression", "fatigue", "infertilite", "TSH", "vertige"]
 anglais = ["Hypothyroidism"]
 sctid = "40930008"
 icd10 = "E03.9"
@@ -86,7 +86,7 @@ Pathologies responsables d'hypothyroïdie, le plus souvent par insuffisance thyr
     T4L basse avec TSH anormalement basse ou normale. Rare (< 5% des hypothyroïdies), contexte hypophysaire ou cérébral.
   - Iatrogène  
     Médicaments ou traitement thyroïdien par iode 131, thyroïdectomie et radiothérapie cervicale.
-  - Hémochromatose
+  - [Hémochromatose]({{< relref "hemochromatose.md" >}})
   - Alimentaire  
     Manioc, cassave.
   - Polluants

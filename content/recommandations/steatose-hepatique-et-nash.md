@@ -251,6 +251,7 @@ graph TB
 
 ### À lire
 
+- [Brissot P, Buffet C. Rapport 23-02. Le foie stéatosique non alcoolique : un défi de santé publique. Académie de médecine. 2023.](https://www.academie-medecine.fr/le-foie-steatosique-non-alcoolique-un-defi-de-sante-publique/)
 EASD
 
 {{%/sources%}}

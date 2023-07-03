@@ -44,7 +44,7 @@ Durillon
 : Épaississement cutané au niveau des points de pression plantaire (têtes métatarsiennes). Classé parmi les hyperkératoses.
 
 Koïlonychies (ou coelonychie)
-: Ongles plats avec bords relevés << en cuillère >> très fragiles, souvent fissurés ou friables. Fréquent en cas de carence en fer ou d'hémochromatose.
+: Ongles plats avec bords relevés << en cuillère >> très fragiles, souvent fissurés ou friables. Fréquent en cas de [carence en fer]({{< relref "anemie.md" >}}) ou d'[hémochromatose]({{< relref "hemochromatose.md" >}}).
 
 Paronychie
 : Inflammation du pourtour de l'ongle avec la présence d'un bourgeon charnu saignant associé à un ongle fragilisé.

@@ -66,7 +66,7 @@ Sémiologie classique suraiguë des accès microcristallins articulaires:
 Éléments à étayer lors de l'examen clinique:
 
 - Antécédents  
-  Hémochromatose, poussées identiques, polyarthralgies (polyarthrite rhumatoïde), traumatismes articulaires, métaboliques.
+  [Hémochromatose]({{< relref "hemochromatose.md" >}}), poussées identiques, polyarthralgies (polyarthrite rhumatoïde), traumatismes articulaires, métaboliques.
 - Antécédents familiaux  
   Articulaires, hémochromatose.
 - Traitements en cours: biphosphonates

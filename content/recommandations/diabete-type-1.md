@@ -292,6 +292,7 @@ Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heur
 
 ### À lire
 
+- [D'Souza D et al. Incidence of Diabetes in Children and Adolescents During the COVID-19 Pandemic: A Systematic Review and Meta-Analysis. JAMA Netw Open. 2023.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2806712)
 - {{< references/ada-soc >}}
 - [Jane L. et al. Type 1 Diabetes in Children and Adolescents: A Position Statement by the American Diabetes Association. Diabetes Care. 2018.](https://diabetesjournals.org/care/article/41/9/2026/40739/Type-1-Diabetes-in-Children-and-Adolescents-A)
 

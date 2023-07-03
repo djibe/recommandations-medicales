@@ -122,7 +122,7 @@ Signes et symptômes de ménopause précoce à rechercher:
 - **Infertilité**
 - **Syndrome climatérique**
   - Bouffées de chaleur
-  - Sueurs nocturnes
+  - [Sueurs nocturnes](/tags/sueurs-nocturnes/)
   - Troubles du sommeil
   - Troubles de l'humeur
   - Douleurs articulaires
@@ -148,7 +148,8 @@ En première intention, dosage de la bêta-HCG seule avec un bilan complémentai
 
 **Le diagnostic d'insuffisance ovarienne prématurée (ex ménopause précoce) est biologique**.
 
-FSH, estradiol, hCG, prolactine, TSH:
+FSH, estradiol, hCG, prolactine, TSH  
+\+ ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
 
 - Répéter après +4 semaines si FSH élevée/estradiol bas
 - Doser sans contraception hormonale et à distance de la pré-ovulation

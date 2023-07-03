@@ -204,11 +204,12 @@ Envisager un ECG de dépistage systématique ≥ 75 ans (ou avec dispositif conn
 ### Bilan devant une fibrillation atriale
 
 - NFS
-- Ionogramme sanguin, créatininémie, CKD-EPI et Cockroft
+- Ionogramme sanguin, créatininémie, DFG selon {{< scores/ckd-epi >}} et {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}}
 - Glycémie à jeun
 - TP, TCA
 - TSH
 - Bilan hépatique
+- Ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
 - Point d'appel: CRP, BH, troponine, albuminémie, BU
 - Si digoxine: digoxinémie
 

@@ -141,6 +141,7 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
 - Anticorps anti-peptide citrulliné (*ACPA* ou *anti-CCP*)
 - Anticorps antinucléaires (AAN)
 - Sérologies [hépatite B]({{< relref "hepatite-c.md" >}}), [hépatite C]({{< relref "hepatite-c.md">}}) et [VIH]({{< relref "vih-sida.md" >}})
+- Ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
 
 avec les radiographies suivantes:
 
@@ -301,7 +302,7 @@ Infiltrations ciblées des articulations douloureuses.
 graph TB
   suspicion["<b>Suspicion de PR</b><br>—<br>- Arthrite<br>- Dérouillage matinal<br>- Douleur en pression MCP/MTP"]
   style suspicion stroke:#4150f5, stroke-width:1px
-    suspicion --> bilan("<b>Examens complémentaires</b><br>—<br>- NFS, VS, CRP<br>- ASAT, ALAT<br>- Créatininémie, CKD-EPI<br>- BU<br>- Facteur rhumatoïde (FR)<br>- Anticorps anti-peptide citrulliné (ACPA)<br>- Anticorps antinucléaires (AAN)<br>- Sérologie hépatites B et C<br>- Radiographies")
+    suspicion --> bilan("<b>Examens complémentaires</b><br>—<br>- NFS, VS, CRP<br>- ASAT, ALAT<br>- Créatininémie, DFG<br>- BU<br>- Facteur rhumatoïde (FR)<br>- Anticorps anti-peptide citrulliné (ACPA)<br>- Anticorps antinucléaires (AAN)<br>- Sérologie hépatites B et C<br>- Radiographies")
       bilan --> rhumato("Avis rhumatologique<br>sous 6 semaines")
     suspicion -- Diagnostic différentiel --> differentiel("- Spondyloarthrite<br>- Connectivite<br>- Arthrose digitale")
 {{< /mermaid >}}

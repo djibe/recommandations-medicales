@@ -132,7 +132,7 @@ TDAH
   {{%class text-black-secondary %}}Prévalence du SJSR de 25 à 35% si anémie.{{%/class%}}
 - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})  
   Aggravation par inhibiteurs calciques, PTH basse, CST bas, [diabète de type 2]({{< relref "diabete-type-2.md" >}}) ({{%class text-black-secondary %}}prévalence 15-68%{{%/class%}})
-- Hémochromatose
+- [Hémochromatose]({{< relref "hemochromatose.md" >}})
 - Pathologie cardiovasculaire (moindre)
 - [Migraine]({{< relref "migraine.md" >}})  
   {{%class text-black-secondary %}}Prévalence de 9 à 39%.{{%/class%}}

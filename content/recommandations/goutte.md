@@ -113,12 +113,13 @@ Signes et symptômes de la crise de goutte.
 
 ### Bilan devant une crise de goutte
 
-Le bilan étaie les facteurs de risque cardiovasculaire:
+Le bilan étaie les facteurs de risque cardiovasculaire associés à la goutte:
 
-- Créatininémie et DFGe CKD-EPI
+- Créatininémie et DFG {{< scores/ckd-epi >}}
 - Uricémie
 - Glycémie à jeun si facteur de risque ou ≥ 45 ans
 - Dyslipidémie selon le terrain
+- Ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
 
 ### Radiographies articulaires
 

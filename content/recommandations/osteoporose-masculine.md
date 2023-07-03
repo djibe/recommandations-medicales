@@ -158,6 +158,7 @@ Bilan biologique en cas de fracture de fragilité ou de T-score < -3:
 - ASAT, ALAT, GGT, PAL
 - Calcémie, phosphatémie
 - Albuminémie
+- Ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
 - [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
 - Testostéronémie totale
 - [Vitamine D]({{< relref "vitamine-d.md" >}})

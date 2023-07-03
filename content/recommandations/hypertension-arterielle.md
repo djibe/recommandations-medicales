@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2023-05-16"
+lastmod = "2023-07-03"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "ESH"]
@@ -21,10 +21,9 @@ imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik
 todo = "poussée HTA +++, SEO 'reco hta', modale automesure, A LIRE: Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, ESC 2018 tableau 4+19 - src157"
 +++
 
-Ces recommandations HTA concernent l'adulte de +18 ans.
-
 {{%article-summary%}}
 
+- Les nouvelles recommandations hypertension artérielle 2023 ESH/ISH seront publiées en août
 - Dépister l'hypertension artérielle chez tout adulte au moins tous les 5 ans (1/3 des adultes atteints et 1/4 contrôlés)
 - Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet*)
 - Confirmer le diagnostic par mesures et automesure/MAPA répétées
@@ -69,11 +68,11 @@ Dépistage rapproché chez le +50 ans.
 
 1. Normotension  
   Pressions au cabinet et ambulatoires normales. Rythme de surveillance selon le tableau ci-dessus.
-2. Hypertension permanente  
+1. Hypertension permanente  
   Hypertension au cabinet et au domicile. Traitement selon tableau ci-dessus.
-3. Hypertension blouse blanche (15-25%)  
+1. Hypertension blouse blanche (15-25%)  
   Hypertension au cabinet et absente au domicile. RHD et dépistage annuel. Envisager un traitement en {{%modal-btn "modal-rcv"%}}risque cardiovasculaire élevé ou très élevé{{%/modal-btn%}}
-4. Hypertension masquée (10-20%)  
+1. Hypertension masquée (10-20%)  
   Hypertension absente au cabinet et observée au domicile. RHD et traitement selon le grade de l'hypertension.
 
 Hypertension artérielle résistante
@@ -316,7 +315,7 @@ Bilan après 8 heures de jeûne:
 - NFS
 - Glycémie
 - Bilan lipidique LDL HDL CT TG
-- Ionogramme sanguin, créatinine, CKD-EPI
+- Ionogramme sanguin, créatinine, DFG {{< scores/ckd-epi >}}
 - Acide urique (marqueur de RCV)
 - ASAT ALAT GGT
 - BU, albuminurie sur échantillon

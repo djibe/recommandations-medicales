@@ -182,7 +182,7 @@ Le diagnostic est clinique (voir *Définitions*).
 - Syndrome climatérique
   - Bouffées vasomotrices (BVM, 80%)  
   {{%class%}}Durent 5-7 ans voire > 15.{{%/class%}}
-  - Sueurs nocturnes
+  - [Sueurs nocturnes](/tags/sueurs-nocturnes/)
   - Troubles du sommeil
   - Troubles de l'humeur
   - Douleurs ostéoarticulaires
@@ -565,7 +565,7 @@ Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch par semaine (sur fess
 - Infarctus du myocarde  
   Avant 60 ans ou ménopause de moins de 10 ans.
 - Cancers: [colorectal]({{< relref "cancer-colorectal.md" >}}), du [pancréas]({{< relref "cancer-pancreas.md" >}}), de l'œsophage, de l'[estomac]({{< relref "cancer-estomac.md" >}}) et du foie
-- Démence (29-44% mais faible niveau de preuve) surtout si [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
+- Démence (29-44% mais faible niveau de preuve - [cas-contrôle à l'opposé](https://www.bmj.com/content/381/bmj-2022-072770)) surtout si [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
 - Mortalité avant 60 ans  
   Effet cardiovasculaire très protecteur.
 

@@ -166,7 +166,7 @@ Mesure de la charge virale hépatite C systématique lorsque 2 sérologies sont 
 - Sérologie VHB: Ag Hbs, anticorps anti-HBs, anticorps anti-HBc
 - NFS
 - INR
-- Créatininémie et clairance CKD-EPI
+- Créatininémie et DFG {{< scores/ckd-epi >}}
 - ASAT, ALAT, GGT, bilirubine
 - TP, albuminémie
 - Ferritinémie

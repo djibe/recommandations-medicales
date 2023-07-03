@@ -116,6 +116,7 @@ Cotation TODO:
 - [Vita G et al. Antidepressants for the treatment of depression in people with cancer. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011006.pub4/full/fr)
 - [Williams JB. A structured interview guide for the Hamilton Depression Rating Scale. Arch Gen Psychiatry. 1988;45(8):742-747. doi:10.1001/archpsyc.1988.01800320058007](https://pubmed.ncbi.nlm.nih.gov/3395203/)
 - [USPTF. Screening for Depression and Suicide Risk in Adults](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-depression-suicide-risk-adults)
+- <https://www.academie-medecine.fr/efficacite-et-tolerance-de-lelectroconvulsivotherapie-en-psychiatrie-une-mise-au-point/>
 
 {{%/sources%}}
 {{% modal title="Echelle de depression de Hamilton" id="modal-hamilton"%}}

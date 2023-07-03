@@ -236,7 +236,7 @@ L'*ESC* encourage la **mesure de l'index de pression systolique** (IPS) par tout
   - ASAT ALAT
   - Glycémie à jeun
   - Bilan lipidique
-  - Créatininémie, DFGe CKD-EPI, albuminurie sur échantillon
+  - Créatininémie, DFGe {{< scores/ckd-epi >}}, albuminurie sur échantillon
 - Échodoppler artériel des membres inférieurs, aorte et TSA
 - ECG de repos
 - Consultation de cardiologie

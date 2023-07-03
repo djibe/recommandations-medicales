@@ -23,7 +23,7 @@ todo = "échelles"
 
 {{%article-summary%}}
 
-- Des séances de psychothérapie sont remboursables sur prescription, jusqu'à 8 séances annuelles avec le système **MonParcoursPsy** (*ex* MonPsy)
+- Des séances de psychothérapie sont remboursables sur prescription, jusqu'à 8 séances annuelles avec le système **MonParcoursPsy** (*ex MonPsy*)
 - Rédiger un << courrier d'adressage au psychologue pour le remboursement >>:  
   Adressage pour un accompagnement psychologique (entretien d'évaluation et jusqu'à 7 séances de suivi) par un psychologue conventionné avec l'Assurance Maladie (annuaire disponible sur [monparcourspsy.sante.gouv.fr](https://monparcourspsy.sante.gouv.fr/)) ...
 - accompagné courrier du contexte médico-psychologique
@@ -65,7 +65,7 @@ Pour prescrire les 8 séances de psychothérapie remboursées annuellement dans 
 
 ### Ordonnance pour le remboursement du psychologue
 
-Adressage pour un accompagnement psychologique (entretien d'évaluation et jusqu'à 7 séances de suivi) par un psychologue conventionné avec l'Assurance Maladie (annuaire disponible sur [monparcourspsy.sante.gouv.fr](https://monparcourspsy.sante.gouv.fr/)).
+Adressage pour un accompagnement psychologique (entretien d'évaluation et jusqu'à 7 séances de suivi) par un psychologue conventionné avec l'Assurance Maladie (annuaire disponible sur [monparcourspsy.sante.gouv.fr](https://monparcourspsy.sante.gouv.fr)).
 {{%/info%}}
 
 Le patient choisit son psychologue dans l'annuaire (ci-dessus).

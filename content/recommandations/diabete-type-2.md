@@ -303,7 +303,6 @@ window.addEventListener('load', () => {
 ### Bilan biologique annuel du diabétique
 
 {{%info%}}
-Bilan à jeun pendant 8 heures:
 
 - HbA<sub>1c</sub> (tous les 3-6 mois)
 - Bilan lipidique (LDL, HDL, CT, TG)
@@ -314,6 +313,8 @@ Bilan à jeun pendant 8 heures:
 - Si HTA: ionogramme sanguin
 - Si obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme ou bas socio-éco: (NT-pro)BNP
 {{%/info%}}
+
+Le bilan n'a pas besoin d'être réalisé à jeun.
 
 ### Les complications du diabète à dépister
 

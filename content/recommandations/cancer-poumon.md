@@ -117,7 +117,7 @@ Pour la suite de la prise en charge, relever:
 ### Bilan biologique
 
 - NFS
-- Créatininémie, CKD-EPI
+- Créatininémie, DFG
 - Bilan hépatique
 - TP, TCA
 

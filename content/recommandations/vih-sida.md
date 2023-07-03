@@ -159,7 +159,7 @@ Signes cliniques mineurs:
   - Autres  
   Porphyrie cutanée tardive, folliculite, condylomes, [molluscum contagiosum]({{< relref "molluscum-contagiosum.md" >}}), leucoplasie chevelue de la langue.
 - AEG, fébricule
-- Sueurs nocturnes
+- [Sueurs nocturnes](/tags/sueurs-nocturnes/)
 
 #### Signes biologiques inconstants d'infection VIH
 

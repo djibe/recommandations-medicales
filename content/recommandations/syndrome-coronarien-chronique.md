@@ -177,7 +177,7 @@ Bilan d'un angor ou de douleurs thoraciques évocatrices de cardiopathie ischém
 - Glycémie à jeun (< 1 an), HbA<sub>1c</sub>
 - Bilan lipidique (< 1 an)
 - Ionogramme sanguin
-- Créatininémie avec DFG CKD-EPI
+- Créatininémie avec DFG {{< scores/ckd-epi >}}
 - Uricémie
 - Selon le tableau: TSH, (NT-pro)BNP
 - ECG de repos

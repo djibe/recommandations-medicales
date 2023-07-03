@@ -243,9 +243,9 @@ Traitements de l'endométriose de deuxième intention:
 - GnRHa en association
 - Exploration chirurgicale par cœlioscopie
 
-### Infertilité
+### Endométriose et infertilité
 
-La prise en charge de l'infertilité associée à l'endométriose relève d'un accompagnement par une équipe d'[Assistance Médicale à la Procréation](https://www.agence-biomedecine.fr/Autorisation-des-centres) (AMP).
+La prise en charge de l'[infertilité](/tags/infertilite/) associée à l'endométriose relève d'un accompagnement par une équipe d'[Assistance Médicale à la Procréation](https://www.agence-biomedecine.fr/Autorisation-des-centres) (AMP).
 
 {{% /collapse %}}
 {{%collapse "Centres experts de l'endométriose" %}}

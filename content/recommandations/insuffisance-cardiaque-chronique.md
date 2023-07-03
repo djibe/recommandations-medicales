@@ -233,7 +233,7 @@ Bilan initial devant une suspicion d'insuffisance cardiaque:
 
 - NFS
 - Ferritinémie, CRP
-- Ionogramme, créatininémie, CKD-EPI
+- Ionogramme, créatininémie, DFG {{< scores/ckd-epi >}}
 - Urée, albumine (*HAS 2015*)
 - ASAT, ALAT, GGT, bilirubine
 - Glycémie à jeun ou HbA1c

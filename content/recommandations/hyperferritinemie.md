@@ -6,7 +6,7 @@ synonyms = ["Conduite à tenir devant une hyperferritinémie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-27T20:02:41+02:00"
 publishdate = "2020-08-27"
-lastmod = "2023-06-29"
+lastmod = "2023-07-03"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
 sources = ["CDU-HGE", "AFEF", "SNFGE"]
@@ -24,15 +24,15 @@ todo = "hémochromatose (obj ferritine < 50 µg/L en conservant Hb +11)"
 
 - Découverte d'une hyperferritinémie: interrogatoire et examen clinique pour établir le profil du patient
 - Bilan d'une hyperferritinémie: dosage à jeun à 2 reprises du coefficient de saturation de la transferrine (CST)
-- 5 causes principales: {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, alcool, syndrome inflammatoire, transfusions multiples et hémochromatose génétique liée à HFE
-- Prise en charge de l'hyperferritinémie selon l'orientation diagnostique
+- 5 causes principales: {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, [alcool]({{< relref "sevrage-alcool.md" >}}), syndrome inflammatoire, transfusions multiples et [hémochromatose génétique liée à HFE]({{< relref "hemochromatose.md" >}})
+- La prise en charge de l'hyperferritinémie dépend de l'orientation diagnostique
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Ferritine
 : Protéine intracellulaire du stockage du fer. La ferritinémie est donc un reflet indirect de ce stock.  
-De nombreuses maladies influent sur la ferritinémie, en dehors de l'*hémochromatose HFE C282Y* dont la prise en charge est codifiée.
+De nombreuses maladies influent sur la ferritinémie, en dehors de l'[hémochromatose HFE C282Y]({{< relref "hemochromatose.md" >}}) dont la prise en charge est codifiée.
 
 Hyperferritinémie (HF)
 : Ferritinémie supérieure à **200 µg/L chez la femme** et **300 µg/L chez l'homme**.
@@ -177,7 +177,7 @@ Bilan en cas d'hyperferritinémie (*CDU-HGE 2022*):
 
 {{%/info%}}
 
-Le coefficient de saturation de la transferrine (CST) élevé doit être confirmé par un 2<sup>e</sup> dosage à jeun à distance.
+Le coefficient de saturation de la transferrine (CST) élevé doit être confirmé par un 2<sup>e</sup> dosage **à jeun** à distance.
 
 ### IRM hépatique
 
@@ -188,9 +188,9 @@ Elle permet une évaluation non invasive de la surcharge en fer (ferritine ≥ 2
 
 Dépister des atteintes d'organes en cas de ferritine > 1000 µg/L ou une concentration hépatique en fer > 150 µmol/g (à l'IRM):
 
-- Échocardiographie (cœur)
-- Ostéodensitométrie (os)
-- Glycémie à jeun (pancréas)
+- Échocardiographie
+- Ostéodensitométrie
+- Glycémie à jeun
 - ± Mesure non invasive de la fibrose hépatique (FibroScan®)
 
 {{% /collapse %}}
@@ -221,7 +221,7 @@ La prise en charge relève uniquement du gastro-entérologue:
 {{< mermaid title="Prise en charge diagnostique d'une hyperferritinémie. Dr JB Fron d'après SNFGE 2019" >}}
 graph TB
 accTitle: Prise en charge diagnostique d'une hyperferritinémie d'après SNFGE 2019
-  HF["<b>Hyperferritinémie</b><br>—<br>Femme &gt; 200<br>Homme &gt; 300"] --> CST(CST à jeun)
+  HF["<b>Hyperferritinémie (HF)</b><br>—<br>Femme &gt; 200 µg/L<br>Homme &gt; 300 µg/L"] --> CST(CST à jeun)
   style HF stroke:#4150f5, stroke-width:1px
   CST -- "&lt; 45%" --> CRP(CRP ?)
       CRP -- Augmentée --> inflam(Inflammation<br>HF majeure ?)
@@ -238,20 +238,16 @@ accTitle: Prise en charge diagnostique d'une hyperferritinémie d'après SNFGE 2
           anemie --> hemato(Hématologue)
 {{< /mermaid >}}
 
-> **HF =** hyperferritinémie (en µg/L)
-
 {{% /collapse %}}
 {{%sources%}}
-
-{{< youtube id="qQJUYIxmn1Q" title="Hyperferritinémie : quand rechercher la mutation HFE ? (TutoGastro SNFGE)" >}}
 
 {{< youtube id="N4mWcUyGAf8" title="Nouvelle classification des surcharges en fer - E. BARDOU-JACQUET 2019 (AFEF Medical Education)" >}}
 
 - {{< references/college-gastro >}}
 - {{< references/afef-foie-non-invasif >}}
-- [Brissot P.; SNFGE et AFEF. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. Février 2019. (PDF)](https://www.snfge.org/sites/default/files/recommandations/brissot_2019.pdf)
-- [Brissot P. et al. Pathophysiology and classification of iron overload diseases; update 2018. Transfusion Clinique et Biologique. 2018.](https://doi.org/10.1016/j.tracli.2018.08.006)
-- [Lorcerie B. et al. Démarche diagnostique devant une hyperferritinémie. La Revue de Médecine Interne. 2015.](https://www.sciencedirect.com/science/article/pii/S0248866314011114)
+- [Brissot P; SNFGE et AFEF. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. Février 2019. (PDF)](https://www.snfge.org/sites/default/files/recommandations/brissot_2019.pdf)
+- [Brissot P et al. Pathophysiology and classification of iron overload diseases; update 2018. Transfusion Clinique et Biologique. 2018.](https://doi.org/10.1016/j.tracli.2018.08.006)
+- [Lorcerie B et al. Démarche diagnostique devant une hyperferritinémie. La Revue de Médecine Interne. 2015.](https://www.sciencedirect.com/science/article/pii/S0248866314011114)
 - [Brissot P. Diagnostic d'une hyperferritinémie. 2012. (PDF)](https://www.hemochromatose.org/wp-content/uploads/2012/12/hyperferritinemie.pdf)
 - [Centre de référence des hémochromatoses.](https://centre-reference-fer-rennes.org)
 
