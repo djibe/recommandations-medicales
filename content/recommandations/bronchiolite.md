@@ -413,6 +413,7 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 
 ### À lire
 
-[Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Bronchiolite aiguë du nourrisson. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/bronchiolite-aigue-du-nourrisson)
+- [Roqué-Figuls M et al. Chest physiotherapy for acute bronchiolitis in paediatric patients between 0 and 24 months old. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004873.pub6/full/fr#pico)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Bronchiolite aiguë du nourrisson. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/bronchiolite-aigue-du-nourrisson)
 
 {{%/sources%}}

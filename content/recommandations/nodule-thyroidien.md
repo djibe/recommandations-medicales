@@ -4,9 +4,10 @@ prefix = "le "
 description = "Recommandations pour la prise en charge des nodules thyroïdiens: bilan et indications de l'échographie thyroïdienne, la cytoponction, le traitement et le suivi"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Pr F. MENEGAUX (AFCE)"
 date = "2023-02-23T15:48:55+01:00"
 publishdate = "2023-03-06"
-lastmod = "2023-03-09"
+lastmod = "2023-07-04"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["SFE", "AFCE", "SFMN"]
@@ -17,7 +18,6 @@ icd10 = "E04.1"
 image = true
 imageSrc = "Échographie d'un nodule thyroïdien de type colloïde bien limité de 3 cm du lobe gauche découvert en palpation chez une femme de 40 ans. Ian Bickle, Radiopaedia.org, rID: 47068"
 flowchart = true
-todo = "relecture demandée F. Menegaux, SEO nodule thyroidien > nodule thyroide > nodule thyroide"
 +++
 
 {{%article-summary%}}
@@ -26,7 +26,7 @@ todo = "relecture demandée F. Menegaux, SEO nodule thyroidien > nodule thyroide
 - Rechercher des antécédents thyroïdiens familiaux et personnels (irradiation cervicale, génétiques NEM2, PAF ...) et des complications (douleurs, dysphonie, dysphagie, dyspnée)
 - Le bilan initial d'un nodule thyroïdien comporte une TSH seule
 - Indications à l'échographie de la thyroïde: nodule palpable, gênant ou compressif, incidentalome en imagerie. Elle donne le score EU-TIRADS
-- Recommandations pour le recours à la cytoponction: adénopathie cervicale suspecte, EU-TIRADS 5 > 10 mm, EU-TIRADS 4 > 10 mm, EU-TIRADS 3 > 20 mm. Elle donne le score de Bethesda
+- Recommandations pour le recours à la cytoponction: adénopathie cervicale suspecte, EU-TIRADS 5 > 10 mm, EU-TIRADS 4 > 15 mm, EU-TIRADS 3 > 20 mm. Elle donne le score de Bethesda
 - Surveillance des nodules EU-TIRADS 2-3-4 ou Bethesda II: échographie à 1-2 ans puis 2-4 ans plus tard puis tous les 4-5 ans
 - La prise en charge du nodule thyroïdien chez l'enfant et pendant la grossesse relève du spécialiste (TSH + échographie systématique)
 
@@ -36,8 +36,8 @@ Chapitre lié: [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
 {{%collapse "Définition" %}}
 
 Nodule thyroïdien
-: Toute hypertrophie localisée de la glande thyroïde.
-: Les nodules peuvent être de souches histologiques très différentes: adénomes, kystes, cancers (papillaire, vésiculaire, médullaire, anaplasique), lymphomes et métastases. Le bilan initial sert à typer ce nodule pour connaître son risque évolutif. Seuls 11 à 29% des nodules thyroïdiens augmentent de taille sur 5 ans.
+: Toute hypertrophie localisée de la glande thyroïde. Il survient principalement chez les femmes (~75%).
+: Les nodules peuvent être de souches histologiques très différentes: adénomes, kystes, cancers (papillaire, vésiculaire, oxyphiles, médullaire, anaplasique), lymphomes et métastases. Le bilan initial sert à typer ce nodule pour connaître son risque évolutif. Seuls 11 à 29% des nodules thyroïdiens augmentent de taille sur 5 ans.
 : Le risque de cancer est plus faible en cas de nodules multiples.  
 Il est nettement plus élevé chez l'enfant (20% vs 5%) avec principalement des carcinomes papillaires de la thyroïde. Risque métastatique de 25% au diagnostic. Le pronostic reste excellent.
 
@@ -190,7 +190,7 @@ Indications à la cytoponction échoguidée:
 5. EU-TIRADS 3 > 20 mm (hypermétabolique ou non, risque 2-4%)
 6. Enfant avec nodule EU-TIRADS 3-4-5 > 10 mm
 
-> Un nodule EU-TIRADS ≤ 2 ou EU-TIRADS 5 ≤ 5 mm (sauf adénopathie suspecte) ne doit pas être ponctionné.
+> Un nodule EU-TIRADS ≤ 2 ou EU-TIRADS 5 ≤ 10 mm (sauf adénopathie suspecte) ne doit pas être ponctionné.
 
 **Incidentalome:** surveillance possible par échographie si EU-TIRADS 2-3 < 20 mm ou 4-5 < 10 mm avec échographie à 6-12 mois puis suivi selon classification EU-TIRADS et taille.
 
@@ -207,9 +207,8 @@ Indications à la scintigraphie thyroïdienne (<sup>123</sup>I ou <sup>99m</sup>
 1. TSH basse < 0,4 mUI/L  
   {{%class%}}Bilan classique de toute hyperthyroïdie.{{%/class%}}
 2. TSH de 0,4 à 1 mUI/L avec indication à une cytoponction (voir paragraphe précédent)
-3. Nodule Bethesda III avec TSH < 1 mUI/L (<sup>123</sup>I)
-4. Nodule > 15 mm indéterminé (Bethesda III-IV) hypofixant en scintigraphie  
-  Technique <sup>99m</sup>Tc-MIBI nécessaire.
+3. Nodule Bethesda III avec TSH < 1 mUI/L: la scintigraphie (<sup>123</sup>I) peut être proposée à la recherche d'un nodule autonome (pas de valeur ajoutée prouvée)
+4. Nodule > 15 mm indéterminé (Bethesda III-IV) hypofixant en scintigraphie: la scintigraphie <sup>99m</sup>Tc-MIBI peut être proposée à la recherche d'un nodule autonome
 
 La cytoponction d'un nodule autonome avec TSH < 1 mUI/L n'est pas recommandée.
 
@@ -250,7 +249,7 @@ Ne sont pas recommandés: supplémentation en iode, traitement par lévothyroxin
 
 La prise en charge pendant la grossesse et chez l'enfant relèvent d'avis spécialisés.
 
-### Prise en charge chirurgicale
+### Prise en charge chirurgicale d'un nodule thyroïdien
 
 Nodules thyroïdiens pours lesquels une chirurgie doit être discutée:
 
@@ -262,11 +261,16 @@ Nodules thyroïdiens pours lesquels une chirurgie doit être discutée:
 - Nodule gênant
 - Autres au cas par cas: désir de grossesse, enfant ...
 
-Lobo-isthmectomie (LI), isthmectomie ou thyroïdectomie totale (TT), curage ganglionnaire selon les cas.
+La technique sera une lobo-isthmectomie (LI), une isthmectomie ou une thyroïdectomie totale (TT) ± curage ganglionnaire selon les cas.
 
-Complications possibles: [hypothyroïdie]({{< relref "hypothyroidie.md" >}}) (TSH à 6-8 semaines) et **hypocalcémie** iatrogène (si persistante à 6 mois avec PTH inadaptée).
+Complications possibles de la chirurgie:
 
-La **thermoablation** (TA) est une alternative en cas de nodule bénin solide: gênant, autonome ou volumineux. Surveillance bio-échographique à 3, 6, 12 mois puis annuellement pendant 5 ans. Elle peut parfois être combinée à l'alcoolisation percutanée.
+- [Hypothyroïdie]({{< relref "hypothyroidie.md" >}}): TSH de contrôle à 6-8 semaines  
+  Elle est systématique lors de la thyroïdectomie totale, peu fréquente après lobo-isthmectomie (facteurs majeurs: TSH pré-opératoire, thyroïdite lymphocytaire chronique)
+- **Hypocalcémie** iatrogène après thyroïdectomie totale: hypocalcémie persistante à 6 mois avec PTH inadaptée
+- Paralysie récurrentielle définitive avec dysphonie (1% par côté)
+
+La **thermoablation** (TA) est une alternative en cas de nodule bénin (à 2 reprises en cytologie) solide: gênant, autonome ou volumineux. Surveillance bio-échographique à 3, 6, 12 mois puis annuellement pendant 5 ans. Elle peut parfois être combinée à l'alcoolisation percutanée.
 
 Les nodules bénins symptomatiques kystiques ou à prédominance kystique peuvent bénéficier en première intention d'une **alcoolisation percutanée**. Contrôle de l'échographie thyroïdienne à 3-6 mois.
 
@@ -379,10 +383,9 @@ accTitle: Prise en charge d'un nodule thyroïdien d'après SFE/AFCE/SFMN 2022
 {{< youtube id="TAmrGm0seIA" title="Description du signe de Pemberton (MED infos)" >}}
 
 - [Menegaux F et al. SFE-AFCE-SFMN 2022 consensus on the management of thyroid nodules: Surgical treatment. Ann Endocrinol. 2022.](https://www.sciencedirect.com/science/article/abs/pii/S0003426622008563)
+- {{< references/college-endocrino >}}
 - [Wemeau JL et al. Recommandations de la Société française d'endocrinologie pour la prise en charge des nodules thyroïdiens. La Presse Médicale. 2011. (PDF)](https://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/2011%20presse%20med%20recommandations%20sfe%20pour%20la%20prise%20en%20charge%20des%20nodules%20thyroidiens.pdf)
 
-### À lire
-
-{{< references/college-endocrino >}}
+Mots-clé: nodule thyroidien, nodule thyroide, eu-tirads, eu tirads
 
 {{%/sources%}}

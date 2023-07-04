@@ -16,7 +16,6 @@ sctid = "399187006"
 icd10 = "E83.1"
 image = true
 imageSrc = "Accumulation hépatocytaire de fer chez un patient avec une hémochromatose génétique type 1 (homozygote C282Y du gène HFE). Joseph Mathew, May Y Leong, Nick Morley and Alastair D Burt, CC BY 2.0, via Wikimedia Commons"
-todo = "flowchart"
 flowchart = true
 +++
 
@@ -41,7 +40,7 @@ Ferritine
 : Protéine intracellulaire du stockage du fer. La ferritinémie est donc un reflet indirect de ce stock.  
 De nombreuses maladies influent sur la ferritinémie, en dehors de l'*hémochromatose HFE C282Y* dont la prise en charge est codifiée.
 
-Hyperferritinémie (HF)
+[Hyperferritinémie]({{< relref "hyperferritinemie.md" >}}) (HF)
 : Ferritinémie supérieure à **200 µg/L chez la femme** et **300 µg/L chez l'homme**.
 : L'hyperferritinémie est *modérée* jusqu'à 500 µg/L, *nette* jusqu'à 1000 µg/L et *majeure* au-delà de 1000 µg/L.
 
@@ -136,7 +135,7 @@ Bilan à jeun:
 En l'absence de poids d'appel, dosage du **coefficient de saturation de la transferrine (CST) à jeun**, recontrôlé si anormal.
 {{%/info%}}
 
-> << L'hémochromatose est évoquée en cas d'hyperferritinémie et de coefficient de saturation de la transferrine à plus de **45%** >> (*CDU-HGE*)
+> << L'hémochromatose est évoquée en cas d'[hyperferritinémie]({{< relref "hyperferritinemie.md" >}}) et de coefficient de saturation de la transferrine à plus de **45%** >> (*CDU-HGE*)
 {.alert .alert-info}
 
 Lorsque l'hémochromatose génétique est évoquée, adresser au gastro-entérologue pour la confirmation diagnostique (conseil génétique avec recherche du variant C282Y).

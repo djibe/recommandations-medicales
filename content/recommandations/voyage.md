@@ -1,15 +1,16 @@
 +++
-title = "Voyage à l'étranger"
+title = "Voyage à l'étranger et recommandations sanitaires pour les voyageurs"
 prefix = "le "
+titleSeo = "Recommandations sanitaires voyageurs"
 noindex = true
 description = "Adaptation des recommandations de Santé Publique France pour la prévention des maladies lors des voyages à l'étranger. Vaccinations, médicaments, grossesse ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T11:56:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2021-07-19"
+lastmod = "2023-07-03"
 specialites = ["infectiologie"]
-annees = "2021"
+annees = "2022"
 sources = ["HCSP", "MinSanté", "Pasteur"]
 tags = ["vaccin", "voyage"]
 anglais = ["Travel abroad"]
@@ -24,15 +25,21 @@ todo = "liste mallette, dépistage BMR si hospit"
 
 - Prévoir une consultation dédiée plusieurs mois avant le voyage
 - Voyager avec le double des ordonnances écrites en DCI
-- Demander une [carte européenne d'assurance maladie](https://www.ameli.fr/assure/adresses-et-contacts/lobtention-dun-document/commander-une-carte-europeenne-dassurance-maladie-ceam) (CEAM sur Ameli)
+- Préparer le voyage sur le [site du Ministère des Affaires étrangères](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/)
+- Europe: demander une [carte européenne d'assurance maladie](https://www.ameli.fr/assure/adresses-et-contacts/lobtention-dun-document/commander-une-carte-europeenne-dassurance-maladie-ceam) (CEAM sur Ameli)
 - Déclarer son déplacement au Ministère des Affaires étrangères sur le [Fil d'Ariane](https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html)
 - Covid-19: quarantaine en retour de voyage
+
+Voir les chapitres dédiés:
+
+- [Paludisme]({{< relref "paludisme.md" >}})
+- [Tuberculose]({{< relref "tuberculose.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Épidémiologie" %}}
 
 - Risque de décès par mois de voyage: 1/100.000 (1/10.000 en opération humanitaire)
-- Causes: Cardiovasculaire (50%), AVP, noyades, homicides, suicides, infections (1-3%)
+- Causes: cardiovasculaire (50%), AVP, noyades, homicides, suicides, infections (1-3%)
 - Causes de rapatriement sanitaire: traumatique (accident, loisir, agression), vasculaire (cardiaque, neurologique) et psychiatrique
 
 {{% /collapse %}}
@@ -71,7 +78,11 @@ Ordonnance en DCI. Contenu selon conditions de voyage.
 Ces 3 sites permettent d'évaluer le statut vaccinal nécessaire pour un voyage en sécurité.  
 Certains vaccins peuvent être obligatoires pour entrer dans le pays, ils nécessitent alors un certificat international de vaccination.
 
-Se référer à la page dédiée à chaque maladie pour en savoir plus (ex. [fièvre jaune]({{< relref "fievre-jaune.md" >}}), [hépatite A]({{< relref "hepatite-a.md" >}}), [paludisme]({{< relref "paludisme.md" >}}), ...).
+Se référer à la page dédiée à chaque maladie pour en savoir plus (ex. [fièvre jaune]({{< relref "fievre-jaune.md" >}}), [hépatite A]({{< relref "hepatite-a.md" >}}), [hépatite B]({{< relref "hepatite-b.md" >}}), [paludisme]({{< relref "paludisme.md" >}}), ...).
+
+Encéphalite à tiques: en cas de séjour en zone rurale ou boisée dans les régions d'endémie.
+
+Vaccinations non recommandées pour les voyageurs: choléra, dengue.
 
 {{< card-link-external title="Vaccins recommandés et prévention palustre" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
 

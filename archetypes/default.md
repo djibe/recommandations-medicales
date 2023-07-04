@@ -49,5 +49,5 @@ todo = ""
 
 {{%/sources%}}
 
-≤≥±®æœŒÈ³ÂSpO<sub>2</sub>
+≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>
 [External link](https://discourse.gohugo.io/ "{rel='nofollow'}")

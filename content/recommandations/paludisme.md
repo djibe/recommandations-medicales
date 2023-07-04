@@ -54,16 +54,16 @@ P.
 : *Plasmodium*
 
 PPAV
-: protection personnelle anti-vectorielle (PPAV = protection contre les piqûres de moustiques)
+: protection personnelle anti-vectorielle (= protection contre les piqûres de moustiques et autres insectes)
 {.dl-inline}
 
-### Diagnostic différentiel
+### Diagnostic différentiel d'une fièvre au retour de voyage
 
 Un accès palustre doit être éliminé avant d'étayer les autres causes de fièvre au retour de voyage:
 
 - Salmonelloses
 - Arboviroses
-- Hépatites virales
+- [Hépatites virales](/tags/hepatite/)
 - Amœbose hépatique
 - Helminthoses
 - Bactérioses cosmopolites
@@ -71,7 +71,7 @@ Un accès palustre doit être éliminé avant d'étayer les autres causes de fi�
 ### Épidémiologie du paludisme en France
 
 - Incidence: 5500-6000 cas/an (importés, *CNR*)  
-  95% contractés en Afrique subsaharienne et 90% par *Plasmodium falciparum*, sans diminution
+  95% contractés en Afrique subsaharienne et 89% par *Plasmodium falciparum*, sans diminution
 - Décès en France: 10 à 20/an
 
 L'Afrique subsaharienne comptabilise 90% des cas mondiaux.
@@ -271,7 +271,7 @@ window.addEventListener('load', () => {
 })
 </script>
 
-Deux vaccins contre le paludisme existent (RTS,S et R21/Matrix-M), dont le premier est recommandé l'OMS pour les enfants du Ghana, Kenya et Malawi (*[OMS](https://www.who.int/news/item/06-10-2021-who-recommends-groundbreaking-malaria-vaccine-for-children-at-risk)*)
+Deux vaccins contre le paludisme existent (RTS,S et R21/Matrix-M), dont le premier est recommandé l'OMS pour les enfants résidant en zone de moyenne et haute endémie
 {.alert .alert-info}
 
 ### Chloroquine

@@ -232,6 +232,10 @@ Ne pas utiliser: ultrasons, tractions lombaires.
 - [Collège Français des Enseignants en Rhumatologie (COFER). Rachialgies. Item 94 UE 5. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-3-0.php)
 - [HAS. Prise en charge du patient présentant une lombalgie commune. Mars 2019.](https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient-presentant-une-lombalgie-commune)
 
+### À lire
+
+[Cashin AG et al. Pharmacological treatments for low back pain in adults: an overview of Cochrane Reviews. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013815.pub2/full/fr#pico)
+
 {{%/sources%}}
 {{% modal title="Questionnaire DN4" id="modal-score-dn4"%}}
 
