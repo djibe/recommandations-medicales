@@ -181,6 +181,8 @@ Hémodialyse et immunodépression avec exposition au risque: sérologie annuelle
 
 {{< card-link-external title="Vaccins recommandés par l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
 
+La vaccination est recommandée pour les voyageurs, dès la naissance si besoin, pour des séjours fréquents ou prolongés dans les pays à forte (Afrique subsaharienne, Asie) ou moyenne prévalence (DROM, Europe de l'Est et du Sud, Maghreb, Moyen Orient, Inde, Amérique du Sud) de l'hépatite B.
+
 {{% /collapse %}}
 {{%collapse "Vaccins hépatite B et schéma vaccinal" %}}
 
@@ -195,7 +197,11 @@ Vaccins hépatite B à partir de 16 ans:
 
 - [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R)  
   Ne doit pas être injecté dans le fessier.
-- [HBVaxPro 10®](https://ec.europa.eu/health/documents/community-register/2021/20210111150361/anx_150361_fr.pdf)
+- [HBVaxPro 10® (PDF)](https://ec.europa.eu/health/documents/community-register/2021/20210111150361/anx_150361_fr.pdf)
+
+- 3 doses à M0-M1-M6
+- Schéma accéléré par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R) à J0-J7-J21 et rappel à 12 mois  
+  Le contrôle des anti-HBs est préconisé 4-8 semaines après le rappel.
 
 ### Vaccins hépatite B pour les enfants
 
@@ -204,7 +210,13 @@ Vaccins hépatite B chez l'enfant avant 16 ans:
 - [Engerix B10®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65782652&typedoc=R)
 - [HBVaxPro 5®](https://ec.europa.eu/health/documents/community-register/2021/20210111150361/anx_150361_fr.pdf)
 
-#### Vaccins hépatite B pour les nourrissons
+#### Rattrapage de la vaccination hépatite B de 11 à 15 ans
+
+- 2 doses à M0-M6 par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R)  
+  Sauf risque élevé entre les 2 doses.
+- 3 doses à M0-M1-M6
+
+### Vaccins hépatite B pour les nourrissons
 
 Les hexavalents sont recommandés en 3 doses à 2 mois, 4 mois et 11 mois:
 
@@ -212,25 +224,13 @@ Les hexavalents sont recommandés en 3 doses à 2 mois, 4 mois et 11 mois:
 - [Infanrix hexa®](https://ec.europa.eu/health/documents/community-register/2020/20200113147048/anx_147048_fr.pdf)
 - [Vaxelis®](https://ec.europa.eu/health/documents/community-register/2020/20200924148951/anx_148951_fr.pdf)
 
-##### Nouveau-né de mère porteuse de l'AgHBs
+#### Nouveau-né de mère porteuse de l'AgHBs
 
 3 doses à J0-M1-M6 avec immunoglobulines anti-HBs à la naissance.
 
 Si prématuré < 32 semaines ou poids < 2 kg: schéma 4 doses à J0-M1-M2-M6 avec les mêmes vaccins. Contrôle AgHBs et anti-HBs à 9 mois.
 
-#### Rattrapage de la vaccination hépatite B de 11 à 15 ans
-
-- 2 doses à M0-M6 par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R)  
-  Sauf risque élevé entre les 2 doses.
-- 3 doses à M0-M1-M6
-
-#### Schéma vaccinal des adultes
-
-- 3 doses à M0-M1-M6
-- Schéma accéléré par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R) à J0-J7-J21 et rappel à 12 mois  
-  Le contrôle des anti-HBs est préconisé 4-8 semaines après le rappel.
-
-##### Patient hémodialysé ou immunodéprimé avec exposition
+#### Patient hémodialysé ou immunodéprimé avec exposition
 
 4 doses *doubles* à M0-M1-M2-M6 par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R) (2 injections pour 40 µg d'antigène).  
 

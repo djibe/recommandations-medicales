@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-03-20T16:29:04+01:00"
 publishdate = "2023-03-27"
-lastmod = "2023-04-11"
+lastmod = "2023-07-04"
 specialites = ["rhumatologie"]
 annees = "2022"
-sources = ["PNDS", "AAFP"]
+sources = ["PNDS", "AAFP", "HAS"]
 tags = ["adolescent", "depistage", "enfant"]
 anglais = ["Idiopathic scoliosis"]
 sctid = "298382003"
@@ -22,10 +22,10 @@ todo = "flowchart"
 
 {{%article-summary%}}
 
-- La scoliose est une courbure rachidienne supérieure à 10° (dit angle de Cobb)
-- Le dépistage de la scoliose par recherche d'une gibbosité doit être systématique durant les examens de l'enfant et de l'adolescent où le risque évolutif est majeur
+- La scoliose est une courbure rachidienne dans le plan frontal supérieure à 10° (dit angle de Cobb)
+- Le dépistage de la scoliose par recherche d'une gibbosité doit être systématique durant les [examens de l'enfant et de l'adolescent]({{< relref "examens-suivi-nourrisson.md" >}}) où le risque évolutif est majeur
 - L'examen clinique recherche des complications et des arguments pour une pathologie (neuro-musculaire, génétique ...)
-- Radiographies du rachis complet par technique faible dose EOS (mesure de l'angle de Cobb) en cas de gibbosité.  
+- Radiographies du rachis complet par technique faible dose EOS (mesure de l'angle de Cobb) en cas de gibbosité  
   Répéter tous les 6-12 mois à la puberté, puis tous les 5 ans.
 - Avis orthopédique pour une scoliose ≥ 15°
 - IRM médullaire pour un angle > 20° avant 10 ans
@@ -38,7 +38,7 @@ todo = "flowchart"
 Scoliose idiopathique structurale
 : Déformation du rachis dans les 3 plans de l'espace. Elle n'est pas réductible (à la différence de l'attitude scoliotique) et reste un diagnostic d'élimination (80% des cas) en l'absence d'arguments pour une origine génétique, neuro-musculaire ou par malformation vertébrale.
 : Elle atteint 0,5 à 2% des 8-15 ans et 4 fois plus les filles.
-: La définition de la scoliose est radiologique: courbure rachidienne **supérieure à 10°** (dit angle de Cobb), quelle que soit l'étiologie, se développant avant 10 ans.
+: La définition de la scoliose est radiologique: courbure rachidienne dans le plan fontal **supérieure à 10°** (dit angle de Cobb), quelle que soit l'étiologie, se développant avant 10 ans.
 : La scoliose peut s'aggraver pendant la croissance et continuer à évoluer à tout âge. L'évolution est très variable.
 : Les complications sont d'ordre esthétique (sociale, psychologique), douloureuse voire avec à l'origine d'un syndrome restrictif respiratoire.
 
@@ -46,9 +46,18 @@ Scoliose évolutive
 : Aggravation d'au moins 5 degrés sur 2 radiographies à 4-6 mois d'intervalle. Une courbure > 30° est considérée comme d'emblée évolutive.
 : Marqueurs d'aggravation nécessitant d'accroître la surveillance: perte de taille, aggravation angulaire et évolution cyphosante.
 
-> **NB.** La cyphose est une déformation dans le plan sagittal.
+**NB.** La **cyphose** est une déformation dans le plan sagittal.
 
 ### Abréviations
+
+AAFP
+: {{%lang%}}American Academy of Family Physicians{{%/lang%}}
+
+CNPU
+: Collège National des Pédiatres Universitaires
+
+HAS
+: Haute Autorité de Santé
 
 PNDS
 : protocole national de diagnostic et de soins
@@ -57,7 +66,7 @@ PNDS
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << Toute scoliose est susceptible de s'aggraver >> (*HAS 2008*)
+> << Toute scoliose est susceptible de s'aggraver >> (*HAS 2008*) et << Le dépistage doit être réalisé de façon systématique à l'adolescence >> (*CNPU*)
 {.alert .alert-warning}
 
 La scoliose apparaît et évolue au cours de l'enfance (filles +++).
@@ -76,13 +85,15 @@ La scoliose apparaît et évolue au cours de l'enfance (filles +++).
 
 ### Examen clinique
 
+L'examen clinique à la recherche d'une scoliose est réalisé debout, torse dévêtu, avec observation de face, de profil, de dos et en antéflexion.
+
 - Taille, poids
 - Asymétrie des épaules, des épines iliaques
 - **Gibbosité**: asymétrie du tronc pathognomonique  
-  Test de flexion d'Adams: le sujet est observé de dos, debout pieds joints, torse dévêtu. Il va courber le dos pour aller toucher ses pieds sans plier les genoux. Une asymétrie peut être observée (gibbosité).
+  Test de flexion d'Adams: le sujet est observé de dos, debout pieds et mains joints. Il va courber le dos pour aller toucher ses pieds sans plier les genoux. Une asymétrie peut être observée (gibbosité).
 - Examen neurologique (réflexes), musculaire et articulaire (points douloureux, amplitudes)
 - Stade de développement pubertaire (classification de Tanner)
-- Signes étiologiques à rechercher:
+- Signes d'orientation:
   - Tâches café au lait, pectus excavatum, fossette sacro-coxygienne, hyperlaxité articulaire généralisée
   - Douleurs: spondylodiscite, tumeur osseuse ou intracanalaire
 
@@ -95,10 +106,10 @@ La scoliose apparaît et évolue au cours de l'enfance (filles +++).
 
 Bilan devant une gibbosité ou contrôle évolutif de la scoliose:
 
-Radiographies face et profil corps entier par EOS
+Radiographies dos et profil corps entier par EOS
 {{%/info%}}
 
-Répéter les radiographies tous les 6-12 mois à la puberté et devant de nouveaux symptômes.
+Répéter les radiographies tous les 6-12 mois à la puberté et devant de nouveaux symptômes (cliché de profil dispensable en l'absence d'anomalie - *CNPU*).
 
 ### IRM médullaire
 
@@ -112,9 +123,9 @@ En cas scoliose grave: épreuves fonctionnelles respiratoires (EFR)
 {{% /collapse %}}
 {{%collapse "Dépistage de la scoliose" %}}
 
-Inspecter le dos des enfants et des adolescents pour dépister une scoliose (*HAS 2005*). La USPTF ne l'affirme pas.
+Inspecter le dos des enfants et des adolescents pour dépister une scoliose (*HAS 2005*) et << Le dépistage doit être réalisé de façon systématique à l'adolescence >> (*CNPU*). La USPTF, elle, ne l'affirme pas.
 
-Profiter des [examens de suivi]({{< relref "examens-suivi-nourrisson.md" >}}) (3, 4, 5, 6 , 8-9, 11-13, 15-16 ans) et des certificats pour revoir le dos.
+Profiter des [examens de suivi]({{< relref "examens-suivi-nourrisson.md" >}}) (3, 4, 5, 6 , 8-9, 11-13 et 15-16 ans) et des certificats pour revoir le dos.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la scoliose" %}}

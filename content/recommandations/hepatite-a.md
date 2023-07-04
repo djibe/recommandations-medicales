@@ -90,13 +90,13 @@ La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordo
 
 ### Vaccins hépatite A pour adultes
 
-Vaccins à partir de 15 ans:
+Vaccins après 15 ans:
 
 {{< traitements/vaccin-hepatite-a >}}
 
 ### Vaccins hépatite A pour enfants
 
-Vaccins possible de 1 à 14 ans:
+Vaccins possible de 1 à 15 ans:
 
 - [Avaxim 80®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63777215&typedoc=R)  
   1 dose avec rappel à 6-36 mois (max 7 ans).
@@ -107,6 +107,8 @@ Vaccins possible de 1 à 14 ans:
 
 Une injection du vaccin **au moins 15 jours avant le départ**.  
 Rappel à 6 mois ou plus selon la spécialité administrée.
+
+Vaccins combinés: VHA-typhoïde Tyavax® et VHA-VHB Twinrix adulte®
 
 {{% /collapse %}}
 {{%sources%}}

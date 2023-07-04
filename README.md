@@ -109,8 +109,8 @@ Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans
 
   1. `sudo apt install wget curl nodejs npm git-all golang-go -y`
   2. `wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash`
-  3. `wget https://github.com/gohugoio/hugo/releases/download/v0.115.0/hugo_extended_0.115.0_linux-amd64.deb`
-  4. `sudo dpkg -i hugo_extended_0.115.0_linux-amd64.deb`
+  3. `wget https://github.com/gohugoio/hugo/releases/download/v0.115.1/hugo_extended_0.115.1_linux-amd64.deb`
+  4. `sudo dpkg -i hugo_extended_0.115.1_linux-amd64.deb`
   5. Fermer le terminal
   6. Ouvrir le terminal et entrer: `nvm install 14`
   7. Positionner le terminal sur le dossier souhaité

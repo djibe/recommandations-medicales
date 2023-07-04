@@ -1456,6 +1456,13 @@ div.mermaidTooltip {
   white-space: normal;
 }
 
+.table.table-bordered {
+  td,
+  th {
+    border-right: 1px solid #e1e1e1;
+  }
+}
+
 /* Keep input accessibility, TODO: update in Material */
 
 .d-input-none {

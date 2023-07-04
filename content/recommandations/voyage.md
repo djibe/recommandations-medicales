@@ -32,6 +32,8 @@ todo = "liste mallette, dépistage BMR si hospit"
 
 Voir les chapitres dédiés:
 
+- [Hépatite A]({{< relref "hepatite-a.md" >}})
+- [Hépatite B]({{< relref "hepatite-b.md" >}})
 - [Paludisme]({{< relref "paludisme.md" >}})
 - [Tuberculose]({{< relref "tuberculose.md" >}})
 
@@ -73,22 +75,36 @@ Ordonnance en DCI. Contenu selon conditions de voyage.
 - Matériel à usage unique avec certificat anglais+français (aiguilles, seringues, matériel à suture)
 
 {{% /collapse %}}
-{{%collapse "Vaccins recommandés et prophylaxie palustre selon le pays de destination" %}}
+{{%collapse "Vaccins recommandés selon le pays de destination" %}}
 
 Ces 3 sites permettent d'évaluer le statut vaccinal nécessaire pour un voyage en sécurité.  
 Certains vaccins peuvent être obligatoires pour entrer dans le pays, ils nécessitent alors un certificat international de vaccination.
 
-Se référer à la page dédiée à chaque maladie pour en savoir plus (ex. [fièvre jaune]({{< relref "fievre-jaune.md" >}}), [hépatite A]({{< relref "hepatite-a.md" >}}), [hépatite B]({{< relref "hepatite-b.md" >}}), [paludisme]({{< relref "paludisme.md" >}}), ...).
-
-Encéphalite à tiques: en cas de séjour en zone rurale ou boisée dans les régions d'endémie.
-
-Vaccinations non recommandées pour les voyageurs: choléra, dengue.
+Se référer à la page dédiée à chaque maladie pour en savoir plus (voir *Résumé des recommandations*).
 
 {{< card-link-external title="Vaccins recommandés et prévention palustre" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
 
 {{< card-link-external title="Vaccins et conseils par pays" url="https://www.diplomatie.gouv.fr/fr/dossiers-pays/" subtitle="France Diplomatie" image="ministere" >}}
 
 {{< card-link-external title="Vaccins recommandés et conseils médicaux par destination" url="https://www.pasteur-lille.fr/vaccinations-voyages/" subtitle="Pasteur Lille" image="pasteur" >}}
+
+### Précisions sur les vaccinations des voyageurs
+
+Vaccinations non recommandées pour les voyageurs: choléra, dengue.
+
+- Encéphalite à tiques: en cas de séjour en zone rurale ou boisée dans les régions d'endémie
+- Méningite ACYW135: le certificat doit mentionner *Meningococcal conjugate tetravalent ACYW vaccine*
+- Poliomyélite et voyage +4 semaines en pays circulant ([liste](https://polioeradication.org/polio-today/polio-now/public-health-emergency-status/)): rappel recommandé 4 semaines à 12 mois avant avec Certificat international si souche PVS1, PVDVc1 ou PVDVc3  
+  Le rappel vise à empêcher le portage asymptomatique.
+
+{{% /collapse %}}
+{{%collapse "Mesures de protection à appliquer" %}}
+
+### Protection contre les animaux
+
+
+
+### Protection contre les insectes
 
 {{% /collapse %}}
 {{%collapse "Contre-indications aux voyages aériens" %}}
