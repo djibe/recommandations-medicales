@@ -8,7 +8,7 @@ synonyms = ["Syndrome climatérique", "traitement hormonal substitutif (THS)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2023-01-02"
+lastmod = "2023-07-05"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
@@ -25,18 +25,19 @@ todo = "écriture SEO, KEY patiente | règles d'hygiène, Chart J1-J31, lire sou
 
 {{%article-summary%}}
 
-- La ménopause entraîne une augmentation importante du risque de *[fracture osseuse]({{< relref "osteoporose.md" >}})* et de *maladie cardiovasculaire*
+- La ménopause entraîne une augmentation importante du risque de [fracture osseuse]({{< relref "osteoporose.md" >}}) et de *maladie cardiovasculaire*
 - Le diagnostic de ménopause est clinique et rétrospectif (la VPP du test au progestatif n'est pas connue)
-- Contraception: interrompre la contraception et suivre l'aménorrhée
-- Bilan d'[insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}}) si survenue avant 40 ans
+- En cas de [contraception]({{< relref "contraception.md" >}}) poursuivie: l'interrompre et suivre l'aménorrhée
+- Si ménopause avant 40 ans: bilan d'[insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
 - Examen clinique complet et complémentaires adaptés
-- Traitements non hormonaux: arrêt tabac/alcool, activité physique, correction d'un surpoids, yoga, hypnose ...
-- THM: indications et contre-indications précises (voir *Traitement hormonal de la ménopause*)  
-**CI majeures**: antécédent de cancer du sein, infarctus du myocarde ou AVC et Alzheimer
-- Débuter quand diagnostic certain et seulement dans les 10 premières années
-- Doses minimales efficaces d'estrogène cutané + progestérone orale combinés continu (ou discontinu ou séquentiels si hémorragies souhaitées)
+- Traitements non hormonaux de la ménopause: arrêt tabac/alcool, activité physique, correction d'un surpoids, yoga, hypnose ...
+- Le traitement hormonal de la ménopause (THM):
+  - Débuter quand diagnostic certain et seulement dans les 10 premières années
+  - Indications et contre-indications précises (voir *Traitement hormonal de la ménopause*)  
+  **Contre-indications majeures**: antécédent de [cancer du sein]({{< relref "cancer-sein.md" >}}), infarctus du myocarde, AVC ou Alzheimer
+  - Utiliser les doses minimales efficaces d'estrogène cutané et de progestérone orale combinés
 
-Chapitres liés: [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}), [contraception]({{< relref "contraception.md" >}}), [candidoses vaginales]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
+Chapitres liés: [candidoses vaginales]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), [infections urinaires]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

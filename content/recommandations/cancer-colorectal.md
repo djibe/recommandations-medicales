@@ -116,11 +116,11 @@ Risque moyen
 
 Risque élevé
 : 4 groupes à risque élevé de cancer colorectal:
-    - Antécédent personnel de cancer colorectal ou d'adénome
-    - Antécédent familial de cancer colorectal ou d'adénome ≥ 10 mm chez 1 parent au 1<sup>er</sup> degré avant 65 ans ou chez ≥ 2 parents au 1<sup>er</sup> degré à tout âge
-    - Maladie inflammatoire chronique de l'intestin  
+    1. Antécédent personnel de cancer colorectal ou d'adénome
+    2. Antécédent familial de cancer colorectal ou d'adénome ≥ 10 mm chez 1 parent au 1<sup>er</sup> degré avant 65 ans ou chez ≥ 2 parents au 1<sup>er</sup> degré à tout âge
+    3. Maladie inflammatoire chronique de l'intestin  
       {{%class%}}Maladie de Crohn ou rectocolite hémorragique.{{%/class%}}
-    - [Acromégalie]({{< relref "acromegalie.md" >}})
+    4. [Acromégalie]({{< relref "acromegalie.md" >}})
 : Dépistage: surveillance gastro-entérologique et coloscopique.
 
 Risque très élevé : prédisposition génétique au cancer colorectal

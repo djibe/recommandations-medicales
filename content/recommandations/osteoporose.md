@@ -587,7 +587,7 @@ graph TB
 {{< /mermaid >}}
 
 > **FESF** = fracture de l'extrémité supérieure du fémur  
-**NB.** Discordance entre SFRhumato et HAS en fracture non sévère: indication de traitement si T-score ≤ -2 (-3 pour la *HAS*)
+**NB.** Discordance entre SFRhumato et HAS en cas de fracture non sévère: indication de traitement si T-score ≤ -2 (-3 pour la *HAS*)
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}

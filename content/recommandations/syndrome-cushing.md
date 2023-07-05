@@ -3,7 +3,7 @@ title = "Syndrome de Cushing"
 prefix = "le "
 titleSeo = "Syndrome de Cushing"
 description = "Recommandations pour le diagnostic et la prise en charge du syndrome de Cushing. Cortisolurie ou freinage minute. Avis endocrinologique en centre de référence."
-synonyms = ["Hypercortisolisme"]
+synonyms = ["Hypercorticisme", "hypercortisolisme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-17T17:38:18+02:00"
 publishdate = "2023-05-22"
@@ -11,7 +11,7 @@ lastmod = "2023-05-30"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["PNDS"]
-tags = ["cephalees", "depression", "diabete", "HTA", "obesite", "risque cardiovasculaire", "SAS"]
+tags = ["cephalees", "depression", "diabete", "fatigue", "HTA", "obesite", "risque cardiovasculaire", "SAS"]
 anglais = ["Cushing syndrome", "adrenal Cushing's syndrome"]
 sctid = "237735008"
 icd10 = "E24.9"
@@ -96,7 +96,7 @@ Situations où il faut **rechercher des signes spécifiques** de syndrome de Cus
 Avis endocrinologique au moindre doute clinique d'un syndrome de Cushing et notamment si:
 
 - Répartition facio-tronculaire des graisses
-- Au moins 1 signe d'hypercatabolisme cutané (fragilité cutanée, ecchymoses, vergetures)
+- Au moins un signe d'hypercatabolisme cutané (fragilité cutanée, ecchymoses, vergetures)
 - Hypertension artérielle avant 40 ans
 - Ostéoporose de l'homme avant 50 ans
 - Enfant: arrêt pubertaire, ralentissement de la croissance staturale avec prise de poids
@@ -113,6 +113,7 @@ Avis endocrinologique au moindre doute clinique d'un syndrome de Cushing et nota
 - Symptômes
   - Date de début et progression
   - Faiblesse musculaire, fatigabilité à la marche
+  - [Fatigue](/tags/fatigue/)
   - Troubles de l'humeur
   - Syndrome tumoral hypophysaire  
     HTIC (céphalées rétro-orbitaires localisées, vomissements, vertiges), anomalies du champ visuel (<< voile >>, quadranopsie temporale supérieure).

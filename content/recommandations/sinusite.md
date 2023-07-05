@@ -23,7 +23,7 @@ todo = "SEO, https://www.sforl.org/wp-content/uploads/2020/02/recoRSIA.pdf, indi
 
 {{%article-summary%}}
 
-- Vérifier les critères cliniques de la sinusite
+- Vérifier les critères cliniques de la sinusite aiguë purulente
 - Recherche systématique de complications devant un tableau de sinusite
 - Prise en charge de la sinusite par antibiotique (vérifier les critères en cas de sinusite maxillaire)
 - La prise en charge des sinusites pédiatriques en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
@@ -162,7 +162,7 @@ En cas de pénurie, traitement différé si possible: Amoxicilline cp 1 g disper
 
 ##### Si échec ou origine dentaire
 
-- **Adulte:** Amoxicilline-acide clavulanique 1 g pendant 7 jours
+- **Adulte:** Amoxicilline-acide clavulanique 1 g x 3/j pendant 7 jours
 - **Enfant:** Amoxicilline-acide clavulanique 1 dose-kg x 3/j pendant 10 jours
 
 ##### Allergie à la pénicilline sans allergie céphalosporines
