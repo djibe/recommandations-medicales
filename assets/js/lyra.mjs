@@ -9,7 +9,6 @@ const index = await indexResponse.json();
 
 const searchEngine = await create({
   schema: {
-    date: 'string',
     uri: 'string',
     title: 'string',
     synonyms: 'string',
@@ -32,6 +31,10 @@ const searchInput = document.getElementById('search-input');
 ['change', 'cut', 'focus', 'input', 'paste', 'search'].forEach((type) =>
   searchInput.addEventListener(type, query)
 );
+
+if (navigator.userAgent.match(/firefox|fxios/i)) {
+  document.getElementById('search-results').innerHTML = '<p class="lead px-3">Des problèmes de recherche peuvent survenir avec Firefox</p>'
+}
 
 async function query(event) {
   const searchResponse = await search(searchEngine, {
