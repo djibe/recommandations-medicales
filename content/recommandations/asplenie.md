@@ -34,7 +34,7 @@ todo = "Fièvre du splénectomisé"
 
 Asplénie
 : Absence de la rate ou rate non fonctionnelle à l'origine d'une immunodépression sévère avec sensibilité particulière aux bactéries (pneumocoque, méningocoque et *Haemophilus* ++).
-: Le risque vital peut être engagé par la survenue d'un **syndrome septique post-splénectomie** ({{%lang%}}Overwhelming Post-Splenectomy Infection (OPSI){{%lang%}}).
+: Le risque vital peut être engagé par la survenue d'un **syndrome septique post-splénectomie** ({{%lang%}}Overwhelming Post-Splenectomy Infection (OPSI){{%/lang%}}).
 
 ### Étiologie de l'asplénie
 
