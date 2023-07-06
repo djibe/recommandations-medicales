@@ -16,8 +16,8 @@ tags = []
 anglais = ["Chronic disease"]
 sctid = "27624003"
 idc10 = "na"
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Les affections de longue durée par pch.vector / Freepik "
 todo= "Affections psychiatriques de longue durée, HCht fam"
 +++
 

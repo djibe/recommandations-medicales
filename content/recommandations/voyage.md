@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T11:56:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2023-07-03"
+lastmod = "2023-07-06"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HCSP", "MinSanté", "Pasteur"]
@@ -96,15 +96,28 @@ Vaccinations non recommandées pour les voyageurs: choléra, dengue.
 - Méningite ACYW135: le certificat doit mentionner *Meningococcal conjugate tetravalent ACYW vaccine*
 - Poliomyélite et voyage +4 semaines en pays circulant ([liste](https://polioeradication.org/polio-today/polio-now/public-health-emergency-status/)): rappel recommandé 4 semaines à 12 mois avant avec Certificat international si souche PVS1, PVDVc1 ou PVDVc3  
   Le rappel vise à empêcher le portage asymptomatique.
+- Rougeole: un jeune voyageur peut être vacciné dès 6 mois (avec 2 rappels), 1 mois minimum entre 2 doses
 
 {{% /collapse %}}
 {{%collapse "Mesures de protection à appliquer" %}}
 
 ### Protection contre les animaux
 
+Les -15 ans représentent 40% des morsures à risque de rage.
 
+- Éviter tout contact avec les carnivores sauvages, primates, chauves-souris
+- Dans les zones à risque de rage (voir ci-dessous): éviter tout contact avec les carnivores domestiques (chiens, chats)
+- Indications à la vaccination anti-rabique: voyageur (dès l'âge de la marche) allant en zone à haut risque de rage ...
+  - Prolongé ou aventureux avec un risque élevé de contact avec des animaux
+  - ou en situation d'isolement (prise en charge rapide impossible)
+  - Lieu de vaccination rage: centre antirabique, centre de vaccinations internationales ou médecin généraliste
+- En cas de morsure: lavage à l'eau et au savon pendant 15 minutes, désinfection et consultation en urgence (± prophylaxie post-exposition - PPE)
+
+Zones à haut risque de rage: Asie, Afrique entière, Amérique du Sud ([carte OMS détaillée](https://apps.who.int/neglected_diseases/ntddata/rabies/rabies.html)).
 
 ### Protection contre les insectes
+
+TODO:
 
 {{% /collapse %}}
 {{%collapse "Contre-indications aux voyages aériens" %}}

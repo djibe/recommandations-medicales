@@ -20,7 +20,7 @@ Les résultats du classement aux ECNi 2023 ont été publiés par le Centre nati
 
 Le concours de médecine 2023 s'est déroulé du 19 au 21 juin 2023 et les résultats ont été publiés dès le 28 juin 2023.
 
-### Tableau des résultats aux ECNi 2023
+## Tableau des résultats aux ECNi 2023
 
 Les résultats aux ECNi 2023 publiés par le CNG étant disponibles uniquement en PDF (voir [Source](#source)), RecoMédicales propose de consulter le classement au concours de l'internat sous forme de tableau dynamique.
 

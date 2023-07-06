@@ -288,7 +288,7 @@ Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heur
 - {{< references/esc-diabetes >}}
 - {{< references/esc-hta >}}
 - [Massin P et al. Référentiel pour le dépistage et la surveillance des complications oculaires du patient diabétique. Validé par la Société Francophone du Diabète (SFD) et par la Société Française d'Ophtalmologie (SFO). Med Mal Metab. 2016. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_complications_oculaires_sfd_sfo_mmm.pdf)
-- [IDF. Oral health for people with diabetes. 2009. (PDF)](https://www.idf.org/component/attachments/attachments.html?id=729&task=download)
+- IDF. Oral health for people with diabetes. 2009.
 
 ### À lire
 

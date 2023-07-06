@@ -200,7 +200,7 @@ Contre-indications temporaires à la vaccination:
 - Au moins 3 mois (6 mois pour rituximab ou après chimiothérapie) après arrêt de l'immunosuppresseur, d'une biothérapie ou corticothérapie immunosuppressive et un vaccin vivant
 - Allaitement maternel pour la fièvre jaune
 
-> *[Medqual VacciNews 1](http://medqual.fr/index.php/la-vaccination-en-pays-de-la-loire/33-cratb-2021/351-publications-outils)*
+> *[Medqual VacciNews 1](https://medqual.fr/accueil-vaccinews)*
 
 {{% /collapse %}}
 {{%collapse "Administration des vaccins" %}}
