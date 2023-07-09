@@ -77,7 +77,7 @@ Le PC présenté ci-dessous peut être assemblé sur mesure par les grands magas
 Le problème de ces sites est le choix extrêmement limité en petits boîtiers jolis. Je suis restreint à une tour plus grosse.  
 Vous pouvez demander à l'informaticien du quartier de vous monter les pièces de cette configuration dans un boîtier plus adapté.
 
-[Achat du PC recommandé sur Hardware.fr](https://shop.hardware.fr/configurateur/01b0e2c20699d6a7dc86712a59379cfb), qui offre un bon service de support
+[Achat du petit PC recommandé sur Hardware.fr](https://shop.hardware.fr/configurateur/c15eb7442a3472b4463668633bea006c), qui offre un bon service de support
 {.alert .alert-info}
 
 Changez la couleur du boîtier (les goûts et les couleurs ... mais gardez une taille très proche de 44 x 22 x 41 cm) et la souris si vous avez de petites mains. Ajoutez un lecteur DVD ou Blu-Ray selon vos besoins (mais en 2023 ...).

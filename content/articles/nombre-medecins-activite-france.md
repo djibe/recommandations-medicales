@@ -1,33 +1,35 @@
 +++
-title = "Nombre de médecins généralistes en activité en France"
-description = "Nombre de médecins généralistes en activité en France et évolution sur la période 2012 - 2022 (84133 médecins). Evolution par département et pyramide des âges"
+title = "Nombre de médecins généralistes en activité en France en 2023"
+titleSeo = "Nombre de médecins généralistes en France"
+description = "Nombre de médecins généralistes en activité en France et évolution sur la période 2012 - 2023 (84133 médecins). Evolution par département et pyramide des âges"
 longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-09T20:06:00+02:00"
 publishdate = "2023-04-28"
-lastmod = "2023-04-28"
+lastmod = "2023-07-09"
 specialites = []
-annees = "2022"
+annees = "2023"
 sources = ["CNOM"]
 tags = []
 image = true
 imageSrc = "Undraw"
-todo = "tableau 20 et 42, p112, médecins UE6"
 chart = true
 datatable = true
 +++
 
 ## Évolution du nombre de médecins généralistes en activité régulière en France
 
-Au 1<sup>er</sup> janvier 2022, **84.133** médecins généralistes étaient en activité régulière en France, soit une baisse de 11% depuis 2010. 27% des généralistes ont plus de 60 ans. Les généralistes représentent 42,5% des 197.811 médecins en activité régulière.
+Au 1<sup>er</sup> janvier 2023, **82.858** médecins généralistes étaient en activité régulière en France, soit une baisse de 10,4 % depuis 2010. 27% des généralistes ont plus de 60 ans. Les généralistes représentent 42% des 197.417 médecins en activité régulière.
 
-À l'**horizon 2025**, le CNOM estime à 81.192 le nombre de généralistes en activité.
+La densité moyenne des généralistes en métropole est de 119,7 médecins pour 100.000 habitants.
 
-{{< figure-chart title="Évolution du nombre de généralistes en activité de 2012 à 2022 avec prévision 2025. Dr JB Fron d'après CNOM 2022" >}}
+À l'**horizon 2025**, le Conseil National de l'Ordre des Médecins (CNOM) estime à 81.192 le nombre de généralistes en activité.
 
-Parmi les généralistes en activité, 56,1% ont une activité libérale exclusive, 37,4% sont salariés, les derniers 6,4% cumulant les 2 statuts.
+{{< figure-chart title="Évolution du nombre de généralistes en activité de 2012 à 2023 avec prévision 2025. Dr JB Fron d'après CNOM 2022 et 2023" >}}
 
-En 2022 les femmes sont devenues majoritaires parmi les médecins généralistes en activité (50,5%).
+Parmi les généralistes en activité, 56,4% ont une activité libérale exclusive, 37,3% sont salariés, les derniers 6,3% cumulant les 2 statuts.
+
+53,4% des médecins généralistes en activité sont des femmes. Elles sont devenues majoritaires en 2022.
 
 ### Variations du nombre de médecins en exercice par département entre 2010 et 2022
 
@@ -52,9 +54,10 @@ Sur la même période, 21 départements ont vu le nombre de médecins générali
 
 ### Pyramide des âges des médecins généralistes en activité
 
+<script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Pyramide des âges des médecins généralistes en activité régulière en 2023"}</script>
 <figure class="figure-chart">
   <div id="chart2"></div>
-  <figcaption><b>Figure 2.</b> Pyramide des âges du nombre de médecins généralistes en activité régulière en 2022. Dr JB Fron d'après CNOM 2022. Dr JB Fron d'après CNOM 2022.</figcaption>
+  <figcaption><b>Figure 2.</b> Pyramide des âges des médecins généralistes en activité régulière en 2023. Dr JB Fron d'après CNOM 2023.</figcaption>
 </figure>
 
 ## Généralités sur les médecins en activité en France
@@ -67,14 +70,17 @@ Indicateurs concernant l'ensemble des médecins en activité régulière en Fran
 
 ## Sources
 
-[Conseil National de l'Ordre des Médecins (CNOM). L'atlas de la démographie médicale 2022. 2022.](https://www.conseil-national.medecin.fr/lordre-medecins/conseil-national-lordre/demographie-medicale)
+{{< card-link-external title="Cartographie Interactive de la Démographie Médicale" url="https://demographie.medecin.fr" subtitle="par le CNOM" >}}
+
+- [Conseil National de l'Ordre des Médecins (CNOM). Atlas de la démographie médicale en France. 2023.](https://www.conseil-national.medecin.fr/publications/communiques-presse/publication-latlas-demographie-medicale-2023)
+- [Conseil National de l'Ordre des Médecins (CNOM). L'atlas de la démographie médicale 2022. 2022.](https://www.conseil-national.medecin.fr/lordre-medecins/conseil-national-lordre/demographie-medicale)
 
 <!-- Data -->
 <script>
 const chartOptions = {
   series: [{
     name: 'Généralistes',
-    data: [92478, 84133, 81192]
+    data: [92478, 84133, 82858, 81192]
   }],
   forecastDataPoints: {
     count: 1,
@@ -88,7 +94,7 @@ const chartOptions = {
   },
   title: { text: 'Nombre de généralistes en activité' },
   xaxis: {
-    categories: [2012, 2022, 2025]
+    categories: [2012, 2022, 2023, 2025]
   },
   yaxis: { min: 0 }
 }
@@ -97,11 +103,11 @@ const chartOptions = {
 const chartOptions2 = {
   series: [{
     name: 'Hommes',
-    data: [-2, -13, -43, -161, -726, -3834, -9744, -6412, -4322, -3513, -3263, -3847, -3727, -359]
+    data: [-1, -2, -12, -46, -195, -761, -3889, -8997, -5747, -4163, -3496, -3179, -4204, -3679, -300]
   },
   {
     name: 'Femmes',
-    data: [0, 4, 7, 41, 258, 1510, 6416, 6420, 5122, 4674, 4603, 7430, 6926, 755]
+    data: [0, 1, 4, 7, 52, 276, 1571, 6420, 5985, 5018, 4632, 4891, 8033, 6743, 683]
   }],
   chart: { stacked: true },
   colors: ['#4150f5', '#ff0094'],
@@ -109,10 +115,10 @@ const chartOptions2 = {
     enabled: true,
     formatter: function (val) { return Math.abs(val) }
     },
-  title: { text: 'Pyramide des âges des médecins généralistes en 2022' },
+  title: { text: 'Pyramide des âges des médecins généralistes en 2023' },
   xaxis: {
-    categories: ['90-94', '85-89', '80-84', '75-79', '70-74', '65-69', '60-64', '55-59', '50-54', '45-49', '40-44', '35-39', '30-34', '25-29'],
-    overwriteCategories: ['90-94', '85-89', '80-84', '75-79', '70-74', '65-69', '60-64', '55-59', '50-54', '45-49', '40-44', '35-39', '30-34', '25-29'],
+    categories: ['95-99', '90-94', '85-89', '80-84', '75-79', '70-74', '65-69', '60-64', '55-59', '50-54', '45-49', '40-44', '35-39', '30-34', '25-29'],
+    overwriteCategories: ['95-99', '90-94', '85-89', '80-84', '75-79', '70-74', '65-69', '60-64', '55-59', '50-54', '45-49', '40-44', '35-39', '30-34', '25-29'],
   },
   yaxis: {
     forceNiceScale: false,

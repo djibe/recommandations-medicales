@@ -113,10 +113,11 @@ L'enfant doit aussi porter la carte spécifique sur lui.
 
 ### Médicaments à proscrire et possibles
 
-{{%warning%}}
 Toute **automédication** est proscrite lors d'un déficit en G6PD.  
 Remettre au patient la [liste ANSM (PDF)](https://ansm.sante.fr/uploads/2021/03/11/liste-substances-actives-deficit-g6pd-20052019-1-2.pdf) des médicaments proscrits.
-{{%/warning%}}
+{.alert .alert-warning}
+
+Toutes les chimioprophylaxies antipaludiques disponibles en France sont possibles au cours d'un déficit en G6PD.
 
 {{< table title="Liste des substances actives des médicaments pouvant provoquer un accident hémolytique chez les personnes atteintes de déficit en G6PD. Dr JB Fron d'après ANSM du 14/03/2021" class="datatable" >}}
 | Substance | Utilisation |

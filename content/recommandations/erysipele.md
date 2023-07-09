@@ -24,8 +24,8 @@ flowchart = true
 
 - Bilan biologique selon le terrain sur lequel survient l'érysipèle (diabète, fonction rénale ...)
 - Prise en charge de l'érysipèle et traitement: antibiothérapie par amoxicilline 50 mg/kg en 3 prises pendant 7 jours (max 6 g/j)
-- Réévaluation clinique à 48 - 72 heures
-- Éradication de la porte d'entrée infectieuse ([intertrigo]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), ulcère cutané)
+- Réévaluation clinique de l'infection à 48 - 72 heures
+- Éradication de la porte d'entrée infectieuse ([intertrigo]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), ulcère cutané ...)
 - Prévention des récidives d'érysipèle: contention veineuse en cas d'insuffisance veineuse
 
 {{%/article-summary%}}

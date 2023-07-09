@@ -1,0 +1,103 @@
+<div class="card card-body mb-4">
+  <p class="card-title">Prophylaxie palustre selon le poids</p>
+  <div class="form-group">
+    <label for="weight">Poids</label>
+    <div class="d-flex align-items-center">
+      <input type="text" value="60" id="weight" oninput="weightInput.value = this.value">
+      <input type="number" class="form-alternative ml-3" id="weightInput" value="60" min="5" max="60">
+    </div>
+  </div>
+  <p class="typography-overline mb-1">Atovaquone/proguanil</p>
+  <p id="text-atovaquone" class="user-select-all">1 cp (250/100 mg) par jour pendant le repas à heure fixe</p>
+  <hr>
+  <p class="typography-overline mb-1">Doxycycline monohydratée ou hyclate</p>
+  <p id="text-doxycycline" class="user-select-all">1 cp à 100 mg pendant le dîner <span class="text-muted">(si 8+ ans)</span></p>
+  <hr>
+  <p class="typography-overline mb-1">Méfloquine (deuxième intention)</p>
+  <p id="text-mefloquine" class="user-select-all">1 cp à 250 mg 1 fois par semaine</p>
+  <hr>
+  <p class="typography-overline mb-1">Chloroquine</p>
+  <p>N'est plus recommandée depuis 2022</p>
+</div>
+{{ $script := `
+  // Outil de calcul de posologie de la chimioprophylaxie antipaludique CPAP by djibe
+  window.addEventListener('load', () => {
+    $(function () {
+      const Slider = $('#weight');
+      const Input = $('#weightInput');
+      const min = 5;
+      const max = 60;
+      const Atovaquone = $('#text-atovaquone');
+      const Mefloquine = $('#text-mefloquine');
+      const Doxycycline = $('#text-doxycycline');
+      Slider.ionRangeSlider({
+        skin: 'material',
+        min: min,
+        max: max,
+        postfix: ' kg',
+        max_postfix: '+',
+        extra_classes: 'flex-fill'
+      });
+      let sliderInstance = Slider.data('ionRangeSlider');
+      Input.on('input', function() {
+          let val = this.value;
+          // Validate Slider
+          if (val < min) {
+              val = min;
+          } else if (val > max) {
+              val = max;
+          }
+          sliderInstance.update({
+              from: val
+          });
+      });
+      Slider.on('change', function() {
+        let weight = Slider.val();
+        // Atovaquone
+        textAtovaquone = 'pendant le repas à heure fixe<br><br>À débuter la veille ou le jour du départ et poursuivre 7 jours après le retour.<br>La prise en continu est limitée à 3 mois consécutifs.';
+        if ( weight < 5 ) {
+          posoAtovaquone = 'Pas de traitement adapté';
+        } else if( weight >= 5 && weight < 8 ) {
+          posoAtovaquone = 'Préparation magistrale équivalente à 1/2 cpP par jour';
+        } else if ( weight >= 8 && weight < 11 ) {
+          posoAtovaquone = 'Préparation magistrale équivalente à 3/4 cpP par jour';
+        } else if ( weight >= 11 && weight < 21 ) {
+          posoAtovaquone = '1 cp (62,5/25 mg) par jour';
+        } else if ( weight >= 21 && weight < 31 ) {
+          posoAtovaquone = '2 cp (62,5/25 mg) par jour en 1 prise';
+        } else if ( weight >= 31 && weight <= 40 ) {
+          posoAtovaquone = '3 cp (62,5/25 mg) par jour en 1 prise';
+        } else if ( weight > 40 ) {
+          posoAtovaquone = '1 cp (250/100 mg) par jour';
+        }
+        Atovaquone.html(posoAtovaquone + ' ' + textAtovaquone);
+        // Méfloquine
+        mefloHtml = '<br><br>À débuter au moins 10 jours avant le départ et poursuivre 3 semaines après le retour.<br>Au mieux 3 semaines avant pour évaluer correctement la tolérance.';
+        if ( weight < 5) {
+          posoMefloquine = 'Pas de traitement adapté';
+        } else if ( weight >= 5 && weight <= 14 ) {
+          posoMefloquine = 'Préparation magistrale équivalente à 1/8 cp 1 fois par semaine';
+        } else if ( weight >= 15 && weight <= 19 ) {
+          posoMefloquine = '1/4 cp à 250 mg 1 fois par semaine';
+        } else if ( weight >= 20 && weight <= 30 ) {
+          posoMefloquine = '1/2 cp à 250 mg 1 fois par semaine';
+        } else if ( weight >= 31 && weight <= 45 ) {
+          posoMefloquine = '3/4 cp à 250 mg 1 fois par semaine';
+        } else if ( weight >= 46 ) {
+          posoMefloquine = '1 cp à 250 mg 1 fois par semaine';
+        }
+        Mefloquine.html(posoMefloquine + ' ' + mefloHtml);
+        // Doxycycline
+        doxyHtml = 'pendant le dîner <span class="text-muted">(si âge ≥ 8 ans)</span><br><br>À débuter la veille du départ et poursuivre 4 semaines après le retour.<br>Débuter au mieux 3 semaines avant pour évaluer correctement la tolérance.<br>Prendre pendant le dîner, au moins 1h avant le coucher.';
+        if ( weight < 20) {
+          posoDoxy = 'Contre-indiquée avant 8 ans';
+        } else if ( weight >= 20 && weight < 40 ) {
+          posoDoxy = '1 cp à 50 mg ' + doxyHtml;
+        } else if ( weight >= 40 ) {
+          posoDoxy = '1 cp à 100 mg ' + doxyHtml;
+        }
+        Doxycycline.html(posoDoxy);
+      })
+    })
+  })` }}
+<script>{{ $script | safeJS }}</script>

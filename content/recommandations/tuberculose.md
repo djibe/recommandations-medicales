@@ -29,7 +29,7 @@ todo = "lecture tubertest, quantiferon positif signe TM ?, KEY: maladie, lutte c
 {{%collapse "Vaccination BCG" %}}
 
 Le vaccin BCG (BCG AJVaccines®) est disponible uniquement en centre de vaccination, PMI ou CLAT.  
-Il est réalisé à partir de 1 mois, idéalement à **2 mois** et réalisé jusqu'à 15 ans.
+Il est réalisé à partir de 1 mois, idéalement à **2 mois** et réalisé **jusqu'à 15 ans**.
 
 ### Indications au BCG en 2023
 
@@ -46,6 +46,8 @@ Pour les professionnels de santé: évaluation de l'exposition au cas par cas pa
 
 **Contre-indications au BCG:** [VIH]({{< relref "vih-sida.md" >}}), chimiothérapie, corticoïdes.
 
+Le BCG peut être administré en même temps que n'importe quel autre vaccin mais doit être exclusif sur un bras.
+
 ### Pays de forte endémie tuberculeuse
 
 - France  
@@ -53,10 +55,12 @@ Pour les professionnels de santé: évaluation de l'exposition au cas par cas pa
 - Afrique
 - Amérique centrale et du Sud  
   Sauf Antigua, Barbuda, Barbade, Bermudes, Bonaire, Cuba et du Costa Rica, Curaçao, Jamaïque, Îles Vierges et Caïmans, Porto Rico.
-- Asie  
-  Sauf Japon, Chypre, Émirats Arabes Unis, Israël, Jordanie et Oman.
+- Asie sauf Japon
+- Proche Orient  
+  Sauf Chypre, Émirats Arabes Unis, Israël, Jordanie, Arabie Saoudite et Oman.
 - Europe centrale  
-  Sauf Grèce, Hongrie, Slovaquie, Slovénie et République Tchèque.
+  Sauf Grèce, Hongrie, Croatie, Slovaquie, Slovénie et République Tchèque.
+- Groenland
 
 > *[Santé Publique France. Liste des pays de haute endémie (taux d'incidence > 40 cas de tuberculose/100.000 habitants), année 2021.](https://www.santepubliquefrance.fr/media/files/01-maladies-et-traumatismes/maladies-et-infections-respiratoires/tuberculose/donnees-tuberculose_tableau-12)*
 

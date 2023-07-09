@@ -52,7 +52,7 @@
     "cross-env": "^7.0.3",
     "hint": "^7.1.9",
     "html-validate": "^8.0.5",
-    "hugo-extended": "^0.115.1",
+    "hugo-extended": "^0.115.2",
     "linkinator": "^5.0.1",
     "node-sass": "^6.0.1",
     "vnu-jar": "^23.4.11"

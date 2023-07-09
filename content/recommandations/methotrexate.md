@@ -127,7 +127,7 @@ Bilan pré thérapeutique du méthotrexate:
 {{% /collapse %}}
 {{%collapse "Co-prescription d'acide folique" %}}
 
-Acide folique 5 mg, au moins 2 cp 48 heures après la prise du méthotrexate (*SFR 2018*). Au moins 5 mg dans la RCP
+Acide folique 5 mg, au moins 2 cp 48 heures après la prise du méthotrexate (*SFR 2018*). Au moins 5 mg dans le RCP
 {.alert .alert-info}
 
 La supplémentation en acide folique (vitamine B9) réduit les effets indésirables du méthotrexate:

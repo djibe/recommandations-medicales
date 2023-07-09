@@ -260,7 +260,7 @@ Résumé des recommandations pour la prise en charge de la spondylarthrite:
   - Souvent rechute douloureuse en < 48h après leur arrêt
   - Essai ≥ 2 molécules différentes pendant ≥ 15 jours chacune avant de conclure à l'inefficacité de chacune (aucun effet sur l'inflammation biologique). Échec nécessite d'envisager un biomédicament.  
   - Utiliser à dose optimale (même si doses maximales), mais en conservant posologie et durée minimales
-  - Selon *Prescrire*: ibuprofène (max 400 mg x 3/j selon les RCP, le spécialiste peut le majorer) et naproxène (max 550 mg x 2/j) ont le meilleur rapport bénéfice/risque parmi les AINS.
+  - Selon *Prescrire*: ibuprofène (max 400 mg x 3/j selon le RCP, le spécialiste peut le majorer) et naproxène (max 550 mg x 2/j) ont le meilleur rapport bénéfice/risque parmi les AINS.
 - << La corticothérapie générale n'est pas justifiée dans la majorité des cas >>
 - Antalgiques pour les douleurs résiduelles
 - Physiothérapie, ergothérapie, appareillages

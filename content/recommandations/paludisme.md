@@ -6,27 +6,28 @@ synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T12:42:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2022-12-12"
+lastmod = "2023-07-07"
 specialites = ["infectiologie"]
 annees = "2018"
-sources = ["SPILF", "MinSanté", "HCSP"]
+sources = ["SPILF", "HCSP"]
 tags = ["fievre", "vaccin", "voyage"]
 anglais = ["Malaria"]
 sctid = "61462000"
 icd10 = "B54"
 image = true
-imageSrc = "Moustique du paludisme. Culicidae, Anopheles sp. Photo de Techuser sur Foter.com / CC BY-NC-ND"
+imageSrc = "Moustique anophèle vecteur du paludisme. Culicidae, Anopheles sp. Photo de Techuser sur Foter.com / CC BY-NC-ND"
 slider = true
-todo = "POLY p.170, Prescrire, SPF, protection moustiques BEH, ttt ambulatoire accès palustre"
+todo = "Prescrire, ttt ambulatoire accès palustre"
 +++
 
 {{%article-summary%}}
 
 *Le traitement de l'accès palustre n'est pas encore abordé*
 
-- Toute fièvre dans les 3 mois suivant le retour de voyage est un paludisme jusqu'à preuve du contraire
-- Toute suspicion de paludisme est une **urgence** diagnostique et thérapeutique
-- Le paludisme est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
+- Toute fièvre dans les 3 mois suivant le retour d'une zone impaludée est un paludisme jusqu'à preuve du contraire
+- Toute suspicion de paludisme est une **urgence** diagnostique et thérapeutique (service de maladies infectieuses et tropicales, médecine interne ou *Urgences*)
+- Paludisme réfuté mais doute persistant: deuxième test 12-24 heures plus tard (frottis sanguin, goutte épaisse, test de diagnostic rapide)
+- Le paludisme autochtone est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
 - Les séjours en zones d'endémie palustre sont déconseillés en cours de grossesse (*CRAT*)
 - Voyage tropical: protection contre les moustiques et chimioprophylaxie médicamenteuse
 
@@ -35,14 +36,20 @@ todo = "POLY p.170, Prescrire, SPF, protection moustiques BEH, ttt ambulatoire a
 
 Paludisme
 : de l'ancien français << palus >> (marécage) ou aussi malaria, littéralement << mauvais air >>.
-: Maladie infectieuse due au parasite du genre *Plasmodium* (*Plasmodium falciparum* surtout voire *P. vivax*, *P. malariae*, *P. ovale* ou *P knowlesi*) transmise par les moustiques femelles du genre *Anopheles* (piqûres de 23 à 6h).
-: Première endémie mondiale, la moitié de la population mondiale vit en zone d'endémie.
-: Absence de transmission sous 18°C.
+: Maladie infectieuse due au parasite du genre *Plasmodium* (5 types: *Plasmodium falciparum* surtout voire *P. vivax*, *P. malariae*, *P. ovale* ou *P knowlesi*) transmise par les moustiques femelles du genre *Anopheles* (piqûres de 23 à 6 heures). La moitié de la population mondiale vit en zone d'endémie avec 600.000 morts chaque année.
+: Personnes à risque de forme grave: femme enceinte, nourrissons et enfants avant 6 ans, personnes âgées, [PVVIH]({{< relref "vih-sida.md" >}}) et [aspléniques]({{< relref "asplenie.md" >}}).
+: Absence de transmission du parasite sous 18°C.
 
 ### Abréviations
 
 Anofel
 : Association française des enseignants et praticiens hospitaliers titulaires de parasitologie et mycologie médicales
+
+CMIT
+: Collège des Universitaires des Maladies Infectieuses et Tropicales
+
+CNR
+: Centre National de Référence du Paludisme
 
 cpP
 : comprimé pédiatrique
@@ -70,34 +77,58 @@ Un accès palustre doit être éliminé avant d'étayer les autres causes de fi�
 
 ### Épidémiologie du paludisme en France
 
-- Incidence: 5500-6000 cas/an (importés, *CNR*)  
-  95% contractés en Afrique subsaharienne et 89% par *Plasmodium falciparum*, sans diminution
-- Décès en France: 10 à 20/an
+- Incidence: 2185 cas en 2021 (dont 8 présumés autochtones, *CNR*)  
+  99,3% contractés en **Afrique subsaharienne** et 88,5 % par *Plasmodium falciparum*, sans diminution.
+- 91% des patients sont des voyageurs retournant au pays
+- Formes graves: 16,2%
+- Décès en France: 8 en 2021
 
 L'Afrique subsaharienne comptabilise 90% des cas mondiaux.
 
 {{< card-link-external title="Malaria Atlas Project" subtitle="Données sur le paludisme" url="https://data.malariaatlas.org/">}}
 
 {{% /collapse %}}
-{{%collapse "Signes de gravité du paludisme" %}}
+{{%collapse "Signes de gravité et critères d'hospitalisation du paludisme" %}}
 
-Accès palustres graves principalement liés à *Plasmodium falciparum* (+90% des diagnostics en France) voire *Plasmodium knowlesi*.
+Les accès palustres graves sont quasi exclusivement liés à *Plasmodium falciparum* (+99% des diagnostics en France) voire *Plasmodium knowlesi*.
 
-Appel du 15 en cas de signes gravité devant une suspicion d'accès palustre:
+{{%warning%}}
+Appel du 15 en cas de suspicion d'accès palustre grave:
 
-- Troubles neurologiques: obnubilation, confusion, somnolence, prostration, convulsion
+- Troubles neurologiques  
+  Obnubilation, confusion, somnolence, prostration, convulsion.
 - Défaillance viscérale
 - Hypotension sévère
 - Hémorragie
 - Ictère
 - Pâleur marquée
 - Hypoglycémie
-{.list-group}
+{{%/warning%}}
+
+> << Tout accès palustre à *P. falciparum* peut évoluer vers une forme grave et entraîner le décès du patient >> (*CMIT 2021*)
+
+### Critères d'hospitalisation pour paludisme
+
+- Terrain
+  - Jeune enfant
+  - Facteur de risque de forme grave  
+    Personne âgée, grossesse, comorbidités, grossesse.
+- Clinique et biologique
+  - Tout signe de gravité
+  - Thrombopénie < 50.000, anémie < 10, créatininémie > 150 µmol/L
+  - **Parasitémie** > 2%
+- Impossibilité d'avoir un diagnostic parasitologique fiable et rapide
+- Troubles digestifs ne permettant pas un traitement oral
+- Traitement ambulatoire impossible  
+  Contexte psycho-social, isolement.
+- Échec d'un premier traitement
+
+> \- *CMIT 2021*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << Toute fièvre dans les 3 mois suivant le retour d'une zone d'endémie est un paludisme jusqu'à preuve du contraire >> (*Anofel 2022*)
+> << Toute fièvre dans les 3 mois suivant le retour d'une zone d'endémie est un paludisme jusqu'à preuve du contraire >> (*Anofel 2022*, rappelé par *HCSP 2023*) et << toute fièvre doit faire rechercher un antécédent de séjour en zone d'endémie (*CMIT 2021*)
 {.alert .alert-warning}
 
 L'incubation du paludisme est asymptomatique et dure:
@@ -105,11 +136,12 @@ L'incubation du paludisme est asymptomatique et dure:
 - Minimum 7 jours pour *P. falciparum*, 10 à 15 jours pour les autres
 - Maximum 2 mois pour *P. falciparum*, 3 ans *P. vivax* et *ovale*, plus de 10 ans pour *P. malariae*.
 
-Signes et symptômes de l'accès palustre simple de l'adulte, tableau pseudo-grippal au retour de **voyage**:
+Signes et symptômes de l'accès palustre simple de l'adulte, tableau pseudo-grippal dans les 3 mois suivants le retour de **voyage** d'une zone impaludée:
 
 - **Syndrome pseudo-grippal**
-  - Fièvre brutale ± intermittente (rarement stéréotypée tierce/quarte)
+  - Fièvre élevée, brutale et intermittente (rarement stéréotypée tierce par *P. falciparum*)
   - Frissons, sueurs
+  - Phases quasi asymptomatiques
   - Céphalées
   - Myalgies
 - Troubles digestifs  
@@ -141,7 +173,7 @@ Le tableau d'anémie hémolytique (splénomégalie) s'aggrave progressivement.
 {{% /collapse %}}
 {{%collapse "Indication à la prophylaxie palustre selon le pays de destination" %}}
 
-> Les séjours en zones d'endémie palustre sont déconseillés durant la grossesse (*CRAT*)
+> Les séjours en zones d'endémie palustre sont déconseillés durant la grossesse (*CRAT*) - et chez les enfants ne pouvant prendre de prophylaxie (*HCSP*)
 {.alert .alert-info}
 
 Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité d'un traitement préventif contre le paludisme.
@@ -154,129 +186,45 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 
 ### Indication à la chimioprophylaxie antipaludique selon le type de voyage
 
-- Séjour << conventionnel >>  
-  Courte durée (inférieure à un mois), majoritairement en zone urbaine ou sur des sites touristiques classiques avec quelques nuitées en zone rurale mais dans des conditions d'hébergement satisfaisantes (hôtels, maisons).
-- Séjour << non conventionnel >>  
-  Routards, militaires, séjour improvisé, mission humanitaire ou une exploration scientifique.  
-  1 ou + parmi: durée supérieure à un mois, nombre élevé de nuitées en zone rurale, hébergements précaires (tente, habitations non protégées), périple pendant la saison des pluies ou dans une région de forte transmission palustre.
+Choix de la chimioprophylaxie antipaludique (CPAP):
 
-**NB.** Absence de transmission sous 18°C.
+- Afrique subsaharienne (sauf Afrique du Sud), Papouasie: CPAP systématique
+- Voyageurs à risque de paludisme grave, quel que soit le risque: femme enceinte, nourrissons et enfants avant 6 ans, personnes âgées, [PVVIH]({{< relref "vih-sida.md" >}}) et [aspléniques]({{< relref "asplenie.md" >}})
+- Séjour << conventionnel >> en Asie ou Amérique du Sud
+  - Courte durée (< 1 mois), majoritairement en zone urbaine ou sur des sites touristiques classiques avec quelques nuitées en zone rurale mais dans des conditions d'hébergement satisfaisantes (hôtels, maisons).
+  - Mesures de PPAV seules
+- Séjour << non conventionnel >>
+  - Routards, militaires, séjour improvisé, mission humanitaire ou une exploration scientifique.  
+  1 ou + parmi: durée supérieure à un mois, nombre élevé de nuitées en zone rurale, hébergements précaires (tente, habitations non protégées), périple pendant la saison des pluies ou dans une région de forte transmission palustre.
+  - Isolement: intérêt d'un avis spécialisé pour le traitement présomptif d'urgence (traitement de réserve)
+
+En cas de cas complexe, prendre l'avis d'un centre de conseils aux voyageurs et de vaccination internationaux (CVI).
+
+**NB.** Absence de transmission du paludisme sous 18°C.
+
+#### Situations particulières
+
+- Séjour << conventionnel >> de moins de 7 jours en zone à risque faible à modéré:  
+  PPAV seule possible si consignes de consultation pour fièvre comprises.
+- Séjours itératifs cours (aviation ...): avis spécialisé
+- Partie du séjour en zone endémique: la CPAV ne couvre que la période d'exposition
+- Séjour de longue durée  
+  Séjour initial: CPAP pendant 3-6 mois puis évaluation par expert local. En situation à haut risque (facteur de risque, Afrique subsaharienne): maintenir le plus longtemps possible.
 
 {{% /collapse %}}
 {{%collapse "Molécules en prévention du paludisme" %}}
 
-La prophylaxie anti-palustre (chimioprophylaxie médicamenteuse) n'élimine pas complètement le risque infectieux
+La prophylaxie anti-palustre (chimioprophylaxie médicamenteuse) n'élimine pas complètement le risque de forme grave
 {.alert .alert-warning}
 
-<div class="card card-body mb-4">
-  <p class="card-title">Prophylaxie palustre selon le poids</p>
-  <div class="form-group">
-    <label for="weight">Poids</label>
-    <div class="d-flex align-items-center">
-      <input type="text" value="60" id="weight" oninput="weightInput.value = this.value">
-      <input type="number" class="form-alternative ml-3" id="weightInput" value="60" min="5" max="60">
-    </div>
-  </div>
-  <p class="card-text mb-1">Atovaquone/proguanil</p>
-  <p id="text-atovaquone" class="user-select-all">1 cp (250/100 mg) par jour pendant le repas à heure fixe</p>
-  <hr>
-  <p class="card-text mb-1">Méfloquine</p>
-  <p id="text-mefloquine" class="user-select-all">1 cp à 250 mg 1 fois par semaine</p>
-  <hr>
-  <p class="card-text mb-1">Doxycycline monohydratée ou hyclate</p>
-  <p id="text-doxycycline" class="user-select-all">1 cp à 100 mg pendant le dîner <span class="text-muted">(si 8+ ans)</span></p>
-  <hr>
-  <p class="card-text mb-1">Chloroquine</p>
-  <p>N'est plus recommandée depuis 2022</p>
-</div>
-<script>
-window.addEventListener('load', () => {
-  $(function () {
-    const Slider = $('#weight');
-    const Input = $('#weightInput');
-    const min = 5;
-    const max = 60;
-    const Atovaquone = $('#text-atovaquone');
-    const Mefloquine = $('#text-mefloquine');
-    const Doxycycline = $('#text-doxycycline');
-    Slider.ionRangeSlider({
-      skin: 'material',
-      min: min,
-      max: max,
-      postfix: ' kg',
-      max_postfix: '+',
-      extra_classes: 'flex-fill'
-    });
-    let sliderInstance = Slider.data('ionRangeSlider');
-    Input.on('input', function() {
-        let val = this.value;
-        // Validate Slider
-        if (val < min) {
-            val = min;
-        } else if (val > max) {
-            val = max;
-        }
-        sliderInstance.update({
-            from: val
-        });
-    });
-    Slider.on('change', function() {
-      let weight = Slider.val();
-      // Atovaquone
-      atoHtml = '<br><br>À débuter la veille ou le jour du départ et poursuivre 7 jours après le retour.<br>La prise en continu est limitée à 3 mois consécutifs.';
-      if ( weight < 5 ) {
-        str2 = 'Pas de traitement adapté';
-      } else if( weight >= 5 && weight < 8 ) {
-        str2 = 'Préparation magistrale équivalente à 1/2 cpP par jour pendant le repas à heure fixe';
-      } else if ( weight >= 8 && weight < 11 ) {
-        str2 = 'Préparation magistrale équivalente à 3/4 cpP par jour pendant le repas à heure fixe';
-      } else if ( weight >= 11 && weight <= 20 ) {
-        str2 = `1 cp (62,5/25 mg) par jour pendant le repas à heure fixe`;
-      } else if ( weight >= 21 && weight <= 30 ) {
-        str2 = `2 cp (62,5/25 mg) par jour en 1 prise pendant le repas à heure fixe`;
-      } else if ( weight >= 31 && weight <= 40 ) {
-        str2 = `3 cp (62,5/25 mg) par jour en 1 prise pendant le repas à heure fixe`;
-      } else if ( weight > 40 ) {
-        str2 = `1 cp (250/100 mg) par jour pendant le repas à heure fixe`;
-      }
-      Atovaquone.html(`${str2} ${atoHtml}`);
-      // Méfloquine
-      mefloHtml = '<br><br>À débuter au moins 10 jours avant le départ et poursuivre 3 semaines après le retour.<br>Au mieux 3 semaines avant pour évaluer correctement la tolérance.';
-      if ( weight < 5) {
-        str3 = 'Pas de traitement adapté';
-      } else if ( weight >= 5 && weight <= 14 ) {
-        str3 = `Préparation magistrale équivalente à 1/8 cp 1 fois par semaine`;
-      } else if ( weight >= 15 && weight <= 19 ) {
-        str3 = `1/4 cp à 250 mg 1 fois par semaine`;
-      } else if ( weight >= 20 && weight <= 30 ) {
-        str3 = `1/2 cp à 250 mg 1 fois par semaine`;
-      } else if ( weight >= 31 && weight <= 45 ) {
-        str3 = `3/4 cp à 250 mg 1 fois par semaine`;
-      } else if ( weight >= 46 ) {
-        str3 = `1 cp à 250 mg 1 fois par semaine`;
-      }
-      Mefloquine.html(`${str3} ${mefloHtml}`);
-      // Doxycycline
-      doxyHtml = `pendant le dîner <span class="text-muted">(si +8 ans)</span><br><br>À débuter la veille du départ et poursuivre 4 semaines après le retour.<br>Débuter au mieux 3 semaines avant pour évaluer correctement la tolérance.<br>Prendre pendant le dîner, au moins 1h avant le coucher.`;
-      if ( weight < 20) {
-        str4 = 'Contre-indiquée avant 8 ans';
-      } else if ( weight >= 20 && weight < 40 ) {
-        str4 = '1 cp à 50 mg (si âge ≥ 8 ans)';
-      } else if ( weight >= 40 ) {
-        str4 = '1 cp à 100 mg (si âge ≥ 8 ans)';
-      }
-      Doxycycline.html(`${str4} ${doxyHtml}`);
-    })
-  })
-})
-</script>
+La chimioprophylaxie antipaludique (CPAP) n'est disponible que sur ordonnance et aucune des molécules n'est remboursée (la doxycycline est la moins chère). De plus, l'achat hors pharmacie française n'est pas recommandé.
 
-Deux vaccins contre le paludisme existent (RTS,S et R21/Matrix-M), dont le premier est recommandé l'OMS pour les enfants résidant en zone de moyenne et haute endémie
+{{< outils/cpap >}}
+
+### Les vaccins contre le paludisme
+
+Deux vaccins contre le paludisme existent (RTS,S et R21/Matrix-M), dont le premier est recommandé l'OMS pour les enfants résidant en zone de moyenne et haute endémicité
 {.alert .alert-info}
-
-### Chloroquine
-
-La chimioprophylaxie anti-palustre par chloroquine a été définitivement retirée en 2022.
 
 ### Atovaquone-proguanil
 
@@ -309,7 +257,7 @@ La prise en continu est limitée à 3 mois consécutifs.
 
 ### Doxycycline (monohydrate ou hyclate)
 
-Possible uniquement si **âge ≥ 8 ans**: [doxycycline monohydratée](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63307856&typedoc=R) cp 50/100 mg ou [doxycycline hyclate](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67061569&typedoc=R) cp 50/100 mg.
+Possible uniquement à partir de 8 ans (hors grossesse): [doxycycline monohydratée](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63307856&typedoc=R) cp 50/100 mg ou [doxycycline hyclate](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67061569&typedoc=R) cp 50/100 mg.
 
 - Poids ≥ 40 kg  
   1 cp à 100 mg pendant le dîner
@@ -353,20 +301,24 @@ Arrêt immédiat en cas de survenue.
 Ensuite débuter 3 jours avant l'entrée dans la zone à risque.
 {.alert .alert-info}
 
+### Chloroquine
+
+La chimioprophylaxie anti-palustre par chloroquine a été définitivement retirée en 2022.
+
 {{% /collapse %}}
 {{%sources%}}
 
 - {{< references/voyageur >}}
 - Anofel. Paludisme. Parasitoses et mycoses des régions tempérées et tropicales. 2022.
+- [CMIT. Paludisme. Item 170. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-170-web.pdf)
+- [Egmann G et al; SFMU. Accès palustres : diagnostic et traitement. 2014. (PDF)](https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf)
+- [Centre National de Référence du Paludisme](https://cnr-paludisme.fr)
 - [Institut Pasteur. Recommandations générales - Prévention du paludisme.](https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales#prvention-du-paludisme)
-- CMIT. Paludisme. UE6 Item 166. ECN.Pilly. 2020.
 
 ### À lire
 
-- [Bouchaud O. et al. Prise en charge et prévention du paludisme d'importation - Mise à jour 2018 des RPC 2007. Médecine et Maladies Infectieuses. 2020.](https://www.sciencedirect.com/science/article/pii/S0399077X19310613)
-- [CMIT. Paludisme. Item 170. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-170-web.pdf)
-- [Egmann G. et al; SFMU. Accès palustres : diagnostic et traitement. 2014. (PDF)](https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf)
-- [Omedit Centre. Traitement des accès à Plasmodium falciparum de l'adulte. 2015. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5222.pdf) et de [l'enfant](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5223.pdf)
-- [Aubry P., Gaüzère BA. Conseils de santé sur le paludisme pour les voyageurs et leurs familles. Médecine Tropicale. 2014. (PDF)](http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf)
+- [Bouchaud O et al. Prise en charge et prévention du paludisme d'importation - Mise à jour 2018 des RPC 2007. Médecine et Maladies Infectieuses. 2020.](https://www.sciencedirect.com/science/article/pii/S0399077X19310613)
+- [Aubry P, Gaüzère BA. Conseils de santé sur le paludisme pour les voyageurs et leurs familles. Médecine Tropicale. 2014. (PDF)](http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf)
+- SMV
 
 {{%/sources%}}

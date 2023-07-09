@@ -17,8 +17,8 @@ anglais = ["Travel abroad"]
 sctid = "276030007"
 icd10 = ""
 image = true
-imageSrc = "Illustration par Freepik"
-todo = "liste mallette, dépistage BMR si hospit"
+imageSrc = "Le voyage. Illustration par Freepik"
+todo = "apps jet lag"
 +++
 
 {{%article-summary%}}
@@ -32,22 +32,24 @@ todo = "liste mallette, dépistage BMR si hospit"
 
 Voir les chapitres dédiés:
 
+- [Gale]({{< relref "gale.md" >}})
 - [Hépatite A]({{< relref "hepatite-a.md" >}})
 - [Hépatite B]({{< relref "hepatite-b.md" >}})
 - [Paludisme]({{< relref "paludisme.md" >}})
+- [Tiques et maladie de Lyme]({{< relref "maladie-lyme.md" >}})
 - [Tuberculose]({{< relref "tuberculose.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Épidémiologie" %}}
 
 - Risque de décès par mois de voyage: 1/100.000 (1/10.000 en opération humanitaire)
-- Causes: cardiovasculaire (50%), AVP, noyades, homicides, suicides, infections (1-3%)
+- Causes de décès au cours des voyages: cardiovasculaire (50%), AVP, noyades, homicides, suicides, infections (1-3%)
 - Causes de rapatriement sanitaire: traumatique (accident, loisir, agression), vasculaire (cardiaque, neurologique) et psychiatrique
 
 {{% /collapse %}}
 {{%collapse "Trousse à pharmacie" %}}
 
-Ordonnance en DCI. Contenu selon conditions de voyage.
+Ordonnance rédigée en DCI et contenu selon les conditions de voyage. Transporter les médicaments en bagage cabine dans leur emballage d'origine.
 
 - Antalgiques
 - Antibiotique
@@ -101,7 +103,15 @@ Vaccinations non recommandées pour les voyageurs: choléra, dengue.
 {{% /collapse %}}
 {{%collapse "Mesures de protection à appliquer" %}}
 
+### Protection contre les accidents de la route
+
+- Ceinture de sécurité ou casque, siège auto
+- Éviter de conduire soi-même
+
 ### Protection contre les animaux
+
+Toute morsure ou piqûre avec symptômes locaux marqués ou généraux nécessite une consultation
+{.alert .alert-warning}
 
 Les -15 ans représentent 40% des morsures à risque de rage.
 
@@ -115,41 +125,186 @@ Les -15 ans représentent 40% des morsures à risque de rage.
 
 Zones à haut risque de rage: Asie, Afrique entière, Amérique du Sud ([carte OMS détaillée](https://apps.who.int/neglected_diseases/ntddata/rabies/rabies.html)).
 
-### Protection contre les insectes
+### Protection contre les insectes et parasites
+
+- Vêtements légers, amples et couvrants, chaussures fermées
+- Répulsifs cutanés
+- Maison: climatisation > insecticides en bombe ou diffuseur, raquettes électriques
+- Extérieur: serpentins fumigènes
+- Dormir sous des moustiquaires imprégnées d'insecticide (bordée sur le lit ou touchant le sol, sans déchirure, maintenue en place le jour)  
+  En zone fortement impaludée: ne pas sortir la nuit sans protection anti-moustiques.
+- Bivouac: vêtements et chaussures dans un sac ou bidon étanche bien fermé
+- Punaises de lit
+  - Isoler les bagages et effets personnels (brosse à cheveux, trousse) dans des sacs en plastique sur du carrelage, loin des zones de sommeil
+  - Inspection sous les matelas
+  - Au retour, en cas de doute: aspirateur puis nettoyer l'aspirateur et jeter à l'extérieur le sac, congélation à -20°C ≥ 48 heures, lavage à 60°C ou vapeur à 120°C voire société spécialisée certifiée << cert-biocide >>
+
+#### Moyens de prévention contre les piqûres de moustiques
+
+**Répulsifs cutanés de référence:** DEET (altère les plastiques, CI grossesse), IR 3535, icaridine (picaridine ou KBR3023), huile d'*Eucalyptus citriodora* hydratée cyclisée. Tableau complet
+{.alert .alert-info}
 
 TODO:
 
+Ne pas pulvériser directement sur la peau: appliquer les mains puis étaler (20 min après la crème solaire). Ne pas pulvériser dans une pièce fermée, proche d'une flamme ou de la nourriture.
+Réappliquer après baignade (respecter le nombre max d'applications)
+Lorsque le risque disparaît: rincer à l'eau et au savon
+
+- Méthodes recommandées
+  - Moustiquaire imprégnée d'insecticide (lit, berceau, poussette)
+  - Moustiquaire non imprégnée (si insecticide impossible)
+  - Moustiquaires aux fenêtres et portes
+  - Répulsifs cutanés sur les parties non couvertes par les vêtements couvrants
+- Méthodes d'appoint
+  - Diffuseur électrique et bombes d'intérieur
+  - Raquettes électriques
+  - Climatisation
+  - Ventilation
+  - Serpentin fumigène d'extérieur
+
+Méthodes non recommandées: bracelets anti-insectes, huiles essentielles, ultrasons, vitamine B1, homéopathie, rubans/autocollants sans insecticide
+{.alert .alert-warning}
+
 {{% /collapse %}}
-{{%collapse "Contre-indications aux voyages aériens" %}}
+{{%collapse "Diarrhées du voyageur" %}}
+
+En cas de diarrhée fébrile: évoquer un [accès palustre]({{< relref "paludisme.md" >}}) (enfant ++) et une fièvre typhoïde
+{.alert .alert-warning}
+
+Diarrhée du voyageur
+: Émission d'au moins 3 selles non formées en 24 heures ou émission de selles plus fréquentes que d'habitudes (nourrissons) durant ou au retour d'un voyage.
+: Elles sont classées en 3 types: diarrhées aiguës bénignes, modérées (pénible et perturbant les activités) ou sévères (syndrome dysentérique = selles sanglantes, activités difficiles ou impossibles) et dites *persistantes* après 2 semaines.
+: Tourista: épisode aigu bénin survenant pendant le séjour ou dans les 7 jours suivant le retour, spontanément résolutif en 1-3 jours.
+
+Le plus souvent la diarrhée est liée au péril fécal avec une origine bactérienne 80% (*E. coli*, *Campylobacter* ...), parasitaire 5-10% (persistante ++,  *Entamoeba histolytica*, *Giardia intestinalis*, *Cryptosporidium spp*, *Isospora
+belli*, *Cyclospora*) ou médicamenteuse.
+
+### En cas de diarrhées
+
+- Réhydratation précoce sans attendre la soif  
+  - Alterner liquides sucrés et salés, SRO
+  - Petites doses régulières si vomissements: cuiller à soupe
+  - Poursuivre l'allaitement maternel
+- Anti-diarrhéique sécrétoire racécadotril
+- Consultation si forme modérée, sévère ou fébrile
+
+Si consultation impossible et diarrhée sévère ou terrain à risque:  
+antibiothérapie probabiliste par azithromycine dose unique de 4 cp de 250 mg  
+voire ciprofloxacine 500 mg x 2/j pendant 3 jours
+{.alert .alert-info}
+
+Posologies chez l'enfant, traitement de 3 jours:
+
+- Azithromycine -25 kg: 1 dose poids (max 500 mg)
+- Azithromycine ≥ 25 kg: 500 mg
+- ciprofloxacine: 10 mg/kg x 2/j
+
+### Mesures d'hygiène pour la prévention du péril fécal
+
+- Se laver les mains, avant les repas, avant toute manipulation d'aliments ou après passage aux toilettes (seul moyen de prévention ayant prouvé son efficacité). En l'absence d'eau et de savon, un gel ou une solution hydro-alcoolique peuvent être utilisés. Se sécher les mains après lavage avec un linge propre ou, à défaut, les sécher à l'air
+- Préférer les plats chauds, servis brûlants (les buffets froids ou tièdes des restaurants peuvent comporter des risques), éviter de consommer de la nourriture vendue dans la rue, sauf si elle est bien cuite et le récipient encore fumant
+- Ne consommer que de l'eau en bouteille capsulée (et ouverte devant soi) ou, à défaut, rendue potable par ébullition (1 minute à gros bouillons) ou par une désinfection (produits à base de DCCNa - dichloroisocyanurate de sodium - ou hypochlorite de sodium), éventuellement précédée d'une filtration (filtre portatif) si l'eau est trouble
+- Éviter les glaçons
+- Éviter les jus de fruits frais préparés de façon artisanale
+- Ne consommer du lait que pasteurisé ou bouilli, privilégier l'allaitement maternel chez les nourrissons
+- Laver ou peler les fruits soi-même avec des mains propres
+- Éviter: crudités, coquillages, plats réchauffés
+- Éviter les glaces artisanales (glaces industrielles, de moindre risque si l'emballage est intact)
+- Bien cuire les œufs, les viandes, les poissons et les crustacés
+- Nourrissons de moins de 6 mois: effectuer avant le départ une vaccination contre le rotavirus.
+
+{{% /collapse %}}
+{{%collapse "Voyage en avion" %}}
+
+### Contre-indications aux voyages aériens
 
 - Nouveau-né de moins de 48 heures
 - Femmes enceintes après 36 semaines de grossesse (32 si jumeaux)
-- Plongée sous-marine datant < 24h
+- Plongée sous-marine dans les 24 heures
 - Avis médical si:
   - [Angor]({{< relref "syndrome-coronarien-chronique.md" >}})
   - Maladie transmissible évolutive
-  - Barotraumatisme
+  - Accident de décompression après la plongée
   - HTIC
   - Infection ORL
-  - Infarctus du myocarde ou AVC récent
+  - Infarctus du myocarde ou [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) récent
   - Chirurgie ou traumatisme récent avec risque de flatulence
+  - Fracture avec plâtre fermé
   - Traumatisme ou chirurgie cranio-facial ou oculaire
-  - Maladie respiratoire chronique sévère
-  - Pneumothorax non résorbé
+  - Dyspnée de repos, maladie respiratoire chronique sévère
+  - Pneumothorax non résorbé datant de moins de 2-3 semaines
   - Drépanocytose
   - Trouble psychotique (sauf totalement maîtrisé)
 
-> [Haut Conseil de la Santé Publique. Recommandations sanitaires 2021 pour les voyageurs. 01/06/2021.](https://www.santepubliquefrance.fr/determinants-de-sante/voyage/documents/magazines-revues/bulletin-epidemiologique-hebdomadaire-1er-juin-2021-n-hors-serie-recommandations-sanitaires-pour-les-voyageurs-2021-a-l-attention-des-professio)
+> *HCSP*
+
+### Prévention des thromboses veineuses profondes
+
+Risque de TVP x 2-3 dès 4 heures de vol.
+
+Mesures de prévention des TVP:
+
+- Vêtements amples
+- Bouger fréquemment les jambes, se déplacer dans l'avion
+- Programmes d'exercices sans quitter sa place
+- Boissons sans alcool régulières
+- Si facteur de risque de phlébite: bas mi-cuisse classe 2  
+  Facteurs de risque: antécédents personnels ou familiaux de MVTE, thrombophilie, cancer actif, grossesse ou post-partum, contraception œstroprogestative ou THM, obésité, âge avancé, tailles extrêmes, hospitalisation pour traumatisme ou anesthésie générale récente (< 4 semaines), tabac.
+- Si risque élevé de MVTE: évaluer un anticoagulant  
+  Risque élevé si: antécédent personnel de MVTE non provoquée ou liée à un voyage, chirurgie à risque (abdomen, bassin, jambes) ou traumatisme récent, cancer actif, 2 facteurs de risque.
+
+#### Les anticoagulants pour la prévention des thromboses veineuses liées au voyage
+
+En cas de risque élevé de thrombo-embolie veineuse, une injection sous-cutanée 2 à 4 heures avant chaque vol long courrier.
+
+{{< table title="Principaux schémas d'anticoagulants à dose préventive pour les vols long courrier selon HCSP 2023" >}}
+| DCI   | Posologie     |
+|-------|:-------------:|
+| Daltéparine | 5000 UI |
+| Enoxaparine | 40 mg |
+| Tinzaparine | 4500 UI |
+| Nadroparine | 2500 UI |
+| Fondaparinux | 2,5 mg |
+{{< /table >}}
+
+### Prévention du jet lag
+
+Tenir compte du décalage horaire pour la prise des médicaments (contraception orale, anticoagulant ...).
+
+- Dans les jours précédant le départ: décaler d'une heure par jour l'heure du coucher vers la destination
+- En avion: régler sa montre sur le pays d'arrivée, éviter café et alcool, manger léger et adopter rythme de la destination
+- Après l'arrivée: sieste courte si besoin (20-30 min), repas aux heures locales
+  - Vers l'est: exposition à la lumière le matin, se promener avant le déjeuner et lunettes de soleil en fin d'après-midi
+  - Vers l'ouest: éviter la lumière le matin, sortir l'après-midi sans lunettes de soleil et activité physique modérée, s'exposer à la lumière vive le soir pour retarder le coucher
+
+Séjour < 48 heures: conserver le rythme d'origine.
+
+Les hypnotiques n'ont aucun effet sur la resynchronisation.
+
+{{% /collapse %}}
+{{%collapse "Mal des transports" %}}
+
+Le mal des transports (cinétose ou naupathie) atteint surtout les 2-12 ans. Les migraineux sont plus atteints.
+
+### Traitement du mal des transports
+
+La prise en charge repose principalement sur les antihistaminiques de première génération, 2 heures avant le départ:
+
+- Diménhydrinate (Mercalm®, Nausicalm®)
+- Diphénhydramine (Nautamine®)
+- Méclozine (Agyrax®)
+
+TODO: Prescrire
 
 {{% /collapse %}}
 {{%sources%}}
 
 - Sites mentionnés au sein du chapitre concerné
-- [Haut Conseil de la Santé Publique. Recommandations sanitaires 2020 pour les voyageurs. 19/05/2020.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=829)
+- {{< references/voyageur >}}
 
 ### À lire
 
-- {{< references/voyageur >}}
 - [CMIT. Voyage en pays tropical de l'adulte et de l'enfant. Item 175. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-175-web.pdf)
+- [Société de Médecine des Voyages. Articles et fiches guides.](https://www.medecine-voyages.fr/les-articles-et-fiches-guides/)
 
 {{%/sources%}}

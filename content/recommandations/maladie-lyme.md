@@ -6,7 +6,7 @@ synonyms = ["Borréliose de Lyme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-30T18:17:39+02:00"
 publishdate = "2021-10-02"
-lastmod = "2022-11-15"
+lastmod = "2023-07-07"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "DGS"]
@@ -16,15 +16,15 @@ sctid = "23502006"
 icd10 = "A69.2"
 image = true
 imageSrc = "Érythème migrant. monkeypuzzle sur Foter"
-todo = "algo HAS Annexe 2 et 3"
+todo = "algo HAS Annexe 2 et 3, vaccin encéphalite à tiques"
 +++
 
 {{%article-summary%}}
 
 - Zones à risque de tiques: métropole entière (surtout Alsace, Lorraine, Limousin)
-- Mesure de prévention des piqûres de tique en forêt
-- Prise en charge d'une piqûre de tique: tire-tique, auto-surveillance 30 jours, [signaler la piqûre](https://tiquotheque.fr/signalement/public/)
-- Recommandations pour la prise en charge d'un érythème migrant: survient dans les 30 jours, diagnostic clinique, antibiothérapie 14 jours, contrôle de guérison à J14
+- Mesure de prévention des piqûres de tique en forêt puis inspection au retour
+- Prise en charge d'une piqûre de tique: pince ou tire-tique, auto-surveillance 30 jours, [signaler la piqûre](https://tiquotheque.fr/signalement/public/)
+- Recommandations pour la prise en charge d'un érythème migrant: survient dans les 30 jours, diagnostic clinique, antibiothérapie 14 jours, contrôle de la  guérison à J14
 - [Paralysie faciale]({{< relref "paralysie-faciale-idiopathique.md" >}}) ou péricardite idiopathique: sérologie borréliose systématique
 - Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose (complication neurologique de la maladie de Lyme)
 
@@ -85,14 +85,14 @@ Mesures de prévention de la maladie de Lyme:
   - Chapeau
 - Répulsif cutané
   - En complément uniquement
-  - Contre-indiqués si grossesse ou < 2 ans
+  - Contre-indiqués si grossesse ou avant 2 ans
   - DEET cutané
   - Appliquer sur les zones découvertes, respecter les consignes d'usage
   - Ne pas appliquer en même temps que la crème solaire
   - Perméthrine possible sur les vêtements
 - Inspection minutieuse
   - À chaque retour de zone d'exposition
-  - Zones chaudes et humides: cuir chevelu, oreilles
+  - Zones chaudes et humides: cuir chevelu, oreilles, nombril, organes génitaux
   - Répéter la recherche le lendemain
 - Vaccination contre l'encéphalite à tiques  
   Avant séjour en zone rurale ou boisée en zone d'endémie.
@@ -294,15 +294,16 @@ Traitement par l'infectiologue des autres formes de borréliose.
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/voyageur >}}
 - [HAS. Guide du parcours de soins de patients présentant une suspicion de borréliose de Lyme. Mars 2022.](https://www.has-sante.fr/jcms/p_3323862/fr/guide-du-parcours-de-soins-de-patients-presentant-une-suspicion-de-borreliose-de-lyme)
 - [Santé Publique France. Borréliose de Lyme : données épidémiologiques 2020. Novembre 2021.](https://www.santepubliquefrance.fr/les-actualites/2021/borreliose-de-lyme-donnees-epidemiologiques-2020)
-- [Gocko X. et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X19306201)
+- [Gocko X et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X19306201)
 - [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques. Recommandations de bonne pratique. Juin 2018.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 
 ### À lire
 
 - [Lantos PM et al. Clinical Practice Guidelines by the Infectious Diseases Society of America, American Academy of Neurology, and American College of Rheumatology: 2020 Guidelines for the Prevention, Diagnosis, and Treatment of Lyme Disease. Neurology. 2021.](https://pubmed.ncbi.nlm.nih.gov/33257476/)
-- [Mygland Å. et al. EFNS guidelines on the diagnosis and management of European Lyme neuroborreliosis. European Journal of Neurology. 2010.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2009.02862.x)
+- [Mygland Å et al. EFNS guidelines on the diagnosis and management of European Lyme neuroborreliosis. European Journal of Neurology. 2010.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2009.02862.x)
 
 {{%/sources%}}
