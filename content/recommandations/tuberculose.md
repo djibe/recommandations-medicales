@@ -7,7 +7,7 @@ synonyms = ["Bacille de Koch", "Mycobacterium tuberculosis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-06-03T15:14:20+02:00"
 publishdate = "2020-06-03"
-lastmod = "2023-04-14"
+lastmod = "2023-07-10"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2017"
 sources = ["HAS", "MinSanté", "CMIT"]
@@ -57,7 +57,7 @@ Le BCG peut être administré en même temps que n'importe quel autre vaccin mai
   Sauf Antigua, Barbuda, Barbade, Bermudes, Bonaire, Cuba et du Costa Rica, Curaçao, Jamaïque, Îles Vierges et Caïmans, Porto Rico.
 - Asie sauf Japon
 - Proche Orient  
-  Sauf Chypre, Émirats Arabes Unis, Israël, Jordanie, Arabie Saoudite et Oman.
+  Sauf Arabie Saoudite, Chypre, Émirats Arabes Unis, Israël, Koweït, Jordanie, Oman, Turquie.
 - Europe centrale  
   Sauf Grèce, Hongrie, Croatie, Slovaquie, Slovénie et République Tchèque.
 - Groenland

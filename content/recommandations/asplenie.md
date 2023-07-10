@@ -84,7 +84,7 @@ La pénicilline V existe en sirop (250.000 UI/5 mL, 500.000 UI/5 mL, 1 MUI/10 mL
 - Enfant < 10 kg  
   100.000 UI/kg/j pendant 5 ans.
 - Allergie aux bêtalactamines  
-  Érythromycine ([Ery®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61572941&typedoc=R)) 500 mg x 1/j
+  Érythromycine ([Ery®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61572941&typedoc=R)) 500 mg x 1/j (*SFAR*)
 
 << en cas de signes cliniques d'infection, même débutante, il est recommandé d’instaurer une antibiothérapie curative par céphalosporine de 3ème génération, type céfotaxime ou ceftriaxone, afin de limiter la survenue de sepsis graves >> (*SFAR*)
 {.alert .alert-warning}

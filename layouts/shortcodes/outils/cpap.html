@@ -13,7 +13,7 @@
   <p class="typography-overline mb-1">Doxycycline monohydratée ou hyclate</p>
   <p id="text-doxycycline" class="user-select-all">1 cp à 100 mg pendant le dîner <span class="text-muted">(si 8+ ans)</span></p>
   <hr>
-  <p class="typography-overline mb-1">Méfloquine (deuxième intention)</p>
+  <p class="typography-overline mb-1">Méfloquine (dernière intention)</p>
   <p id="text-mefloquine" class="user-select-all">1 cp à 250 mg 1 fois par semaine</p>
   <hr>
   <p class="typography-overline mb-1">Chloroquine</p>
@@ -54,7 +54,7 @@
       Slider.on('change', function() {
         let weight = Slider.val();
         // Atovaquone
-        textAtovaquone = 'pendant le repas à heure fixe<br><br>À débuter la veille ou le jour du départ et poursuivre 7 jours après le retour.<br>La prise en continu est limitée à 3 mois consécutifs.';
+        textAtovaquone = 'pendant le repas à heure fixe<br><br>À débuter 24 heures avant le jour d\'entrée dans la zone à risque et poursuivre 7 jours après le retour.<br>La prise en continu est limitée à 3 mois consécutifs.';
         if ( weight < 5 ) {
           posoAtovaquone = 'Pas de traitement adapté';
         } else if( weight >= 5 && weight < 8 ) {

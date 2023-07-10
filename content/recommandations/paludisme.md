@@ -6,7 +6,7 @@ synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T12:42:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2023-07-07"
+lastmod = "2023-07-10"
 specialites = ["infectiologie"]
 annees = "2018"
 sources = ["SPILF", "HCSP"]
@@ -22,7 +22,7 @@ todo = "Prescrire, ttt ambulatoire accès palustre"
 
 {{%article-summary%}}
 
-*Le traitement de l'accès palustre n'est pas encore abordé*
+*Le traitement de l'accès palustre non grave n'est pas encore abordé*
 
 - Toute fièvre dans les 3 mois suivant le retour d'une zone impaludée est un paludisme jusqu'à preuve du contraire
 - Toute suspicion de paludisme est une **urgence** diagnostique et thérapeutique (service de maladies infectieuses et tropicales, médecine interne ou *Urgences*)
@@ -39,6 +39,9 @@ Paludisme
 : Maladie infectieuse due au parasite du genre *Plasmodium* (5 types: *Plasmodium falciparum* surtout voire *P. vivax*, *P. malariae*, *P. ovale* ou *P knowlesi*) transmise par les moustiques femelles du genre *Anopheles* (piqûres de 23 à 6 heures). La moitié de la population mondiale vit en zone d'endémie avec 600.000 morts chaque année.
 : Personnes à risque de forme grave: femme enceinte, nourrissons et enfants avant 6 ans, personnes âgées, [PVVIH]({{< relref "vih-sida.md" >}}) et [aspléniques]({{< relref "asplenie.md" >}}).
 : Absence de transmission du parasite sous 18°C.
+
+> << Un des principaux facteurs de risque pour les accès graves et les décès est le retard au diagnostic, souvent lié à une prise en charge inadaptée des patients lors d'une première consultation >> (*HCSP 2023*)
+{.alert .alert-warning}
 
 ### Abréviations
 
@@ -77,11 +80,11 @@ Un accès palustre doit être éliminé avant d'étayer les autres causes de fi�
 
 ### Épidémiologie du paludisme en France
 
-- Incidence: 2185 cas en 2021 (dont 8 présumés autochtones, *CNR*)  
-  99,3% contractés en **Afrique subsaharienne** et 88,5 % par *Plasmodium falciparum*, sans diminution.
-- 91% des patients sont des voyageurs retournant au pays
-- Formes graves: 16,2%
-- Décès en France: 8 en 2021
+- Incidence: 4995 cas estimés en 2021 (9 présumés autochtones, *CNR*)  
+  99,5% contractés en **Afrique subsaharienne** et 88,8 % par *Plasmodium falciparum*, sans diminution.
+- 87,6% des patients sont des voyageurs retournant au pays
+- Formes graves: 16,2% (2021), à 98,6% par *P falciparum*
+- Décès en France: 8 (2021)
 
 L'Afrique subsaharienne comptabilise 90% des cas mondiaux.
 
@@ -90,7 +93,7 @@ L'Afrique subsaharienne comptabilise 90% des cas mondiaux.
 {{% /collapse %}}
 {{%collapse "Signes de gravité et critères d'hospitalisation du paludisme" %}}
 
-Les accès palustres graves sont quasi exclusivement liés à *Plasmodium falciparum* (+99% des diagnostics en France) voire *Plasmodium knowlesi*.
+Les accès palustres graves sont quasi exclusivement liés à *Plasmodium falciparum* (99% des diagnostics en France) voire *Plasmodium knowlesi*.
 
 {{%warning%}}
 Appel du 15 en cas de suspicion d'accès palustre grave:
@@ -123,7 +126,7 @@ Appel du 15 en cas de suspicion d'accès palustre grave:
   Contexte psycho-social, isolement.
 - Échec d'un premier traitement
 
-> \- *CMIT 2021*
+> — *CMIT 2021*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -182,23 +185,37 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 
 {{< card-link-external title="Vaccins et conseils par pays" url="https://www.diplomatie.gouv.fr/fr/dossiers-pays/" subtitle="France Diplomatie" image="ministere" >}}
 
-{{< card-link-external title="Vaccins recommandés et conseils médicaux par destination" url="https://www.pasteur-lille.fr/vaccinations-voyages/" subtitle="Pasteur Lille" image="pasteur" >}}
+{{< card-link-external title="Vaccins recommandés et conseils médicaux par destination" url="https://pasteur-lille.fr/centre-prevention-sante-longevite/vaccins-et-voyages/preparer-ses-voyages/" subtitle="Pasteur Lille" image="pasteur" >}}
 
 ### Indication à la chimioprophylaxie antipaludique selon le type de voyage
+
+{{< table title="Indication de la chimioprophylaxie du paludisme (CPAP) et des autres moyens de prévention en zone d'endémie de paludisme selon le continent et les conditions de séjour. HCSP 2023" >}}
+| Type de séjour | Amérique tropicale,<br>Haïti et Rép Dom. | Afrique sub-<br>saharienne<br>et Yémen | Asie du Sud<br>et Sud-Est | Papouasie<br>Nvle Guinée<br>et Îles Salomon |
+|----------------|------------------------------------------|----------------------------------------|---------------------------|---------------------------------------------|
+| Pour tous | PPAV + CS si F | idem | idem | idem |
+| Séjour conventionnel | Non | CPAP<sup>1</sup> | Non | CPAP<sup>1</sup> |
+| Séjour non conventionnel<br>< 1m avec<br>nuitées en zone<br>rurale/forestière | Non<sup>3</sup><br>TTR si isolé | CPAP<sup>1</sup> | Non<sup>3</sup><br>TTR si isolé | CPAP<sup>1</sup> |
+| Séjour non conventionnel<br>+1m avec<br>nuitées en zone<br>rurale/forestière | Avis spé | CPAP<sup>1</sup> | Avis spé | CPAP<sup>1</sup> |
+| Expatriation prolongée | Avis spé | - Sahel: CPAP<br>en saison pluies<sup>2</sup><br>- Forestière:<br>toute l'année | Avis spé | CPAP |
+{{< /table >}}
+
+> **Légende**: **CS si F** = Consultation sans délai si fièvre pendant le séjour ou dans les 3 mois qui suivent le retour et information sur la notion de voyage dans les 3 derniers mois ; **TTR** = traitement de réserve antipaludique  
+<sup>1</sup> sauf les zones non à risque d'Afrique australe (Afrique du Sud hors région Nord Est, Sud de la Namibie et du Botswana)  
+<sup>2</sup> début dès le début de la saison des pluies; arrêt 6 semaines après la fin des pluies  
+<sup>3</sup> pour les zones à risque élevé de transmission du paludisme, consulter le tableau 10 du HCSP (p. 130) pour éventuellement adapter cette recommandation au niveau de risque réel du voyageur
 
 Choix de la chimioprophylaxie antipaludique (CPAP):
 
 - Afrique subsaharienne (sauf Afrique du Sud), Papouasie: CPAP systématique
-- Voyageurs à risque de paludisme grave, quel que soit le risque: femme enceinte, nourrissons et enfants avant 6 ans, personnes âgées, [PVVIH]({{< relref "vih-sida.md" >}}) et [aspléniques]({{< relref "asplenie.md" >}})
-- Séjour << conventionnel >> en Asie ou Amérique du Sud
-  - Courte durée (< 1 mois), majoritairement en zone urbaine ou sur des sites touristiques classiques avec quelques nuitées en zone rurale mais dans des conditions d'hébergement satisfaisantes (hôtels, maisons).
-  - Mesures de PPAV seules
-- Séjour << non conventionnel >>
+- Voyageurs à risque de paludisme grave, quel que soit le risque: femme enceinte, nourrissons et enfants avant 6 ans, personnes âgées, personnes immunodéprimées ([PVVIH]({{< relref "vih-sida.md" >}})) et [aspléniques]({{< relref "asplenie.md" >}})
+- **Séjour << conventionnel >>** en Asie ou Amérique du Sud: mesures de PPAV seules  
+  Séjour de courte durée (< 1 mois), majoritairement en zone urbaine ou sur des sites touristiques classiques avec quelques nuitées en zone rurale mais dans des conditions d'hébergement satisfaisantes (hôtels, maisons).
+- **Séjour << non conventionnel >>**: avis spécialisé
   - Routards, militaires, séjour improvisé, mission humanitaire ou une exploration scientifique.  
   1 ou + parmi: durée supérieure à un mois, nombre élevé de nuitées en zone rurale, hébergements précaires (tente, habitations non protégées), périple pendant la saison des pluies ou dans une région de forte transmission palustre.
-  - Isolement: intérêt d'un avis spécialisé pour le traitement présomptif d'urgence (traitement de réserve)
+  - En situation d'isolement: intérêt d'un avis spécialisé pour le traitement présomptif d'urgence (traitement de réserve)
 
-En cas de cas complexe, prendre l'avis d'un centre de conseils aux voyageurs et de vaccination internationaux (CVI).
+> En cas de cas complexe, prendre l'avis d'un centre de conseils aux voyageurs et de vaccination internationaux (CVI).
 
 **NB.** Absence de transmission du paludisme sous 18°C.
 
@@ -209,7 +226,7 @@ En cas de cas complexe, prendre l'avis d'un centre de conseils aux voyageurs et 
 - Séjours itératifs cours (aviation ...): avis spécialisé
 - Partie du séjour en zone endémique: la CPAV ne couvre que la période d'exposition
 - Séjour de longue durée  
-  Séjour initial: CPAP pendant 3-6 mois puis évaluation par expert local. En situation à haut risque (facteur de risque, Afrique subsaharienne): maintenir le plus longtemps possible.
+  Séjour initial: CPAP pendant 3-6 mois puis évaluation par expert local. En situation à haut risque (facteur de risque, Afrique subsaharienne): maintenir le plus longtemps possible (toute la durée de l'expatriation si le risque le justifie).
 
 {{% /collapse %}}
 {{%collapse "Molécules en prévention du paludisme" %}}
@@ -221,6 +238,12 @@ La chimioprophylaxie antipaludique (CPAP) n'est disponible que sur ordonnance et
 
 {{< outils/cpap >}}
 
+### Les mesures de protection anti-vectorielles (PPAV)
+
+Les mesures de protection contre les piqûres d'insectes sont toujours associées.
+
+{{< traitements/ppav >}}
+
 ### Les vaccins contre le paludisme
 
 Deux vaccins contre le paludisme existent (RTS,S et R21/Matrix-M), dont le premier est recommandé l'OMS pour les enfants résidant en zone de moyenne et haute endémicité
@@ -229,7 +252,7 @@ Deux vaccins contre le paludisme existent (RTS,S et R21/Matrix-M), dont le premi
 ### Atovaquone-proguanil
 
 Spécialités: [atovaquone/proguanil 250/100 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66395950&typedoc=R) et [cpP atovaquone/proguanil 62,5/25 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68303281&typedoc=R), comprimés uniquement.  
-Prise quotidienne pendant le repas à heure fixe.
+Prise quotidienne pendant le repas à heure fixe, avec une boisson ou un produit lacté (sucré si besoin, goût amer).
 
 - Personne > 40 kg  
   1 cp (250/100 mg) par jour
@@ -270,7 +293,7 @@ Débuter au mieux 3 semaines avant pour évaluer correctement la tolérance.
 
 Prendre pendant le dîner, au moins 1h avant le coucher.
 
-Contre-indiqué avant 8 ans et pendant la grossesse.
+Contre-indiqué avant 8 ans, pendant la grossesse et en association avec les rétinoïdes par voie générale.
 {{%/info%}}
 
 **Contre-indications:** grossesse, allaitement, âge < 8 ans  
@@ -278,7 +301,9 @@ Contre-indiqué avant 8 ans et pendant la grossesse.
 
 ### Méfloquine
 
-Spécialité: [Lariam®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65999556&typedoc=R) (cp sécable) uniquement.
+En dernière intention.
+
+Spécialité: [Lariam®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65999556&typedoc=R) (cp sécable) uniquement, de préférence au cours du repas.
 
 - Personne ≥ 46 kg  
   1 cp à 250 mg 1 fois par semaine
@@ -322,3 +347,8 @@ La chimioprophylaxie anti-palustre par chloroquine a été définitivement retir
 - SMV
 
 {{%/sources%}}
+{{% modal title="Répulsifs pour la PPAV" id="modal-repulsifs" size="lg"%}}
+
+{{< traitements/repulsifs >}}
+
+{{% /modal %}}

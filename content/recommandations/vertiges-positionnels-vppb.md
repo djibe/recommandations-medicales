@@ -200,7 +200,7 @@ La prise en charge du VPPB par des manœuvres est indiquée en cas de vertiges p
 Elles peuvent aggraver transitoirement les symptômes.
 
 - VPPB du canal semi-circulaire postérieur  
-  Manœuvre de repositionnement des otolithes (*Manœuvre d'Epley*) ou *manœuvre libératoire de Stemont* (60% de guérison, 90-98% en manœuvres répétées).
+  Manœuvre de repositionnement des otolithes (*Manœuvre d'Epley*) ou *manœuvre libératoire de Semont* (60% de guérison, 90-98% en manœuvres répétées).
 - VPPB du canal semi-circulaire horizontal  
   Manœuvre de Lempert et Tiel-Wilck ou la manœuvre de Gufoni et al.
 - VPPB du canal semi-circulaire antérieur  
@@ -215,6 +215,8 @@ Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, m�
 {{< youtube id="1obEgiJj-IA" title="Manœuvre de Dix et Hallpike (ORL INFORMATION)" >}}
 
 {{< youtube id="iIQrWzeVX2Y" title="Manœuvre de Epley (ORL INFORMATION)" >}}
+
+{{< youtube id="6hkOuBKGJkI" title="Manœuvre de Semont (JAMA Network)" >}}
 
 - Prescrire Redaction. Vertiges positionnels paroxystiques bénins. Premiers choix Prescrire. Janvier 2022.
 - [Collège des Enseignants de Neurologie (CEN). Vertige. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/vertige)

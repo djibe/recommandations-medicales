@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-10T18:52:41+02:00"
 publishdate = "2021-02-10"
-lastmod = "2023-04-14"
+lastmod = "2023-07-10"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
 sources = ["MinSanté", "Pasteur"]
@@ -78,7 +78,7 @@ Indications à la vaccination hépatite A:
 {{% /collapse %}}
 {{%collapse "Voyage - Faut-il vacciner contre l'hépatite A ?" %}}
 
-> La vaccination est recommandée à partir de l'âge de 1 an pour tous les voyageurs devant séjourner dans un pays où le niveau d'hygiène est faible, quelles que soient les conditions du séjour (*HCSP 2022*)
+> La vaccination est recommandée à partir de l'âge de 1 an pour tous les voyageurs devant séjourner dans un pays où le niveau d'hygiène est faible, quelles que soient les conditions du séjour (*HCSP 2023*)
 {.alert .alert-info}
 
 {{< card-link-external title="Vaccins recommandés par l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}

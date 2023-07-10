@@ -79,7 +79,7 @@ Incidence de 25 à 68.500 diagnostics annuels en médecine générale.
 Mesures de prévention de la maladie de Lyme:
 
 - Vêtements longs couvrants
-  - Pantalon, inséré dans les chaussettes (voire guêtres), chemise à manche longue
+  - Pantalon, inséré dans les chaussettes (voire guêtres), chemise à manche longue serrant les poignets
   - De couleur claire pour faciliter le repérage
   - Chaussures fermées
   - Chapeau
@@ -123,6 +123,8 @@ Prise en charge recommandée après une morsure de tique:
 - [Signaler la piqûre de tique en ligne](https://tiquotheque.fr/signalement/public/)
 - Surveiller la zone pendant 4 semaines  
   Avis médical en cas d'apparition d'un érythème migrant (EM) qui signe une borréliose de Lyme.
+
+En cas d'extraction incomplète: désinfection seule et surveillance régulière du site de la piqûre (*HCSP 2023*).
 
 Pas d'antibiothérapie ou d'examens systématiques après extraction de tique
 {.alert .alert-warning}

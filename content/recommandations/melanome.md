@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-29T14:54:41+02:00"
 publishdate = "2020-11-30"
-lastmod = "2022-12-20"
+lastmod = "2023-07-10"
 specialites = ["dermatologie"]
 annees = "2022"
 sources = ["EADO", "HAS", "SFDermato"]
@@ -46,6 +46,9 @@ Il n'est donné que pour les mélanomes envahissant le derme.
 
 Éphélides
 : Communément appelées *tâches de rousseur*.
+
+> << Une peau bronzée est un signe de dommages causés par le soleil et il n'existe pas de "bronzage sain" >> (*HCSP 2023*)
+{.alert .alert-warning}
 
 ### Types histologiques de mélanome
 
@@ -216,11 +219,11 @@ Aucun dosage de marqueurs tumoraux n'est recommandé.
 {{% /collapse %}}
 {{%collapse "Prévention du mélanome" %}}
 
-- Gestes de protection contre les rayons UV (*INCa*)
+- Gestes de protection contre les rayons UV
   - Ne pas exposer les enfants de moins de 3 ans aux rayons UV
-  - Rechercher l'ombre au maximum et ne pas s'exposer aux heures les plus chaudes (de 10h à 14h en Outre-mer et de 12h à 16h en métropole)
-  - Se couvrir : porter des habits longs et amples, un chapeau à bords larges et des lunettes de soleil avec filtre anti-UV
-  - Protéger les parties découvertes du corps avec de la crème solaire indice SPF50, à renouveler toutes les 2 heures
+  - Rechercher l'ombre au maximum et ne pas s'exposer aux heures les plus chaudes (de 10 à 14 heures en Outre-mer et de 12 à 16 heures en métropole)
+  - Se couvrir: porter des habits clairs, couvrants et amples, un chapeau à bords larges et des lunettes de soleil avec filtre anti-UV (CE3 ou CE4)
+  - Protéger les parties découvertes du corps avec de la crème solaire indice SPF50 (appliquer 2 mg/cm²), à renouveler toutes les 2 heures
 - Information sur les risques liés à l'exposition solaire ou artificielle
 - Photoprotection cutanée  
   Il n'est pas prouvé qu'elle réduise le risque de mélanome.
@@ -229,6 +232,8 @@ Aucun dosage de marqueurs tumoraux n'est recommandé.
   - Auto-dépistage tous les 3 mois  
     Voir *Éducation thérapeutique*.
   - Surveillance annuelle par le dermatologue
+
+> *INCa* et *HCSP*
 
 {{% /collapse %}}
 {{%collapse "Traitement du mélanome" %}}
@@ -318,16 +323,17 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 {{% /collapse %}}
 {{%sources%}}
 
-- [Garbe C. et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00152-6/fulltext)
-- [Garbe C. et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00228-3/fulltext)
+- {{< references/voyageur >}}
+- [Garbe C et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00152-6/fulltext)
+- [Garbe C et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00228-3/fulltext)
 - [INCa. << L'ombre, c'est l'endroit le plus cool de l'été ! >>: la nouvelle campagne d'information de l'Institut national du cancer sur la prévention des risques solaires. 04/07/2022.](https://www.e-cancer.fr/Actualites-et-evenements/Actualites/L-ombre-c-est-l-endroit-le-plus-cool-de-l-ete-!-la-nouvelle-campagne-d-information-de-l-Institut-national-du-cancer-sur-la-prevention-des-risques-solaires)
 - [HAS. Mélanome cutané : la détection précoce est essentielle. 11/02/2020.](https://www.has-sante.fr/jcms/pprd_2974838/fr/melanome-cutane-la-detection-precoce-est-essentielle?fbclid=IwAR0lsNr1vfC7AvM-SeKrLZlYNiRb0q4bgx4_mgwkQRRjHLJNMPPIlmxWC_U)
 - [Oncologik. Mélanomes vulvaires et vaginaux. 24/01/2020.](http://oncologik.fr/referentiels/rrc/melanomes-vulvaires-et-vaginaux)
 - [Oncologik. Mélanome cutané. 22/03/2019.](http://oncologik.fr/referentiels/oncolor/melanome-cutane)
 - [INCa. Traitements du mélanome avancé. Novembre 2017.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Traitements-du-melanome-avance)
+- [Collège des enseignants de dermatologie de France (CEDEF). Tumeurs cutanées épithéliales et mélaniques. Item 299 UE 9. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/ECN-All-2017.pdf)
 - [INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
 - [HAS. Mélanome cutané. Janvier 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-03/ald_30_guide_melanome_web.pdf)
-- [Collège National des Enseignants de Dermatologie. Item 149 : Tumeurs cutanées épithéliales et mélaniques : mélanomes. 2011. (PDF)](http://campus.cerimes.fr/dermatologie/enseignement/dermato_26/site/html/cours.pdf)
 - [SFDermato. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d'un mélanome cutané MO. Décembre 2005. (PDF)](https://www.oncoderm.fr/upload/recommandations/9738-Prise-en-charge-des-meAlanome.pdf)
 
 ### À lire

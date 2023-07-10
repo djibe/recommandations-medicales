@@ -162,6 +162,8 @@ style OMAP stroke:#4150f5, stroke-width:1px
   OMAP --> adulte("≥ 2 ans, adulte<br>avec symptômes<br>peu intenses") --> abstention(Abstention) -. Persistance à 48h .-> réévaluation("Réévaluation") -.-> antibiothérapie
 {{< /mermaid >}}
 
+{{< card-link-external title="Quiz sur l'otoscopie" url="https://docs.google.com/forms/d/e/1FAIpQLSfPLdMfKAuKyrIQI0pWI8w-v72YwYRYjhjxXmJvJUHnH-7nrQ/viewform" subtitle="par MedQual" >}}
+
 {{%/collapse%}}
 {{%sources%}}
 

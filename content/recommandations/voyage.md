@@ -8,12 +8,12 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T11:56:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2023-07-06"
+lastmod = "2023-07-10"
 specialites = ["infectiologie"]
-annees = "2022"
+annees = "2023"
 sources = ["HCSP", "MinSanté", "Pasteur"]
 tags = ["vaccin", "voyage"]
-anglais = ["Travel abroad"]
+anglais = ["Travel abroad", "recommandations for travellers"]
 sctid = "276030007"
 icd10 = ""
 image = true
@@ -24,18 +24,24 @@ todo = "apps jet lag"
 {{%article-summary%}}
 
 - Prévoir une consultation dédiée plusieurs mois avant le voyage
+- {{< modal-btn modal-repulsifs >}}Répulsifs anti-insectes{{< /modal-btn >}} associés à la prévention des piqûres (voir *Mesures de protection*)
+- Pour le jet lag et la prévention de la thrombose veineuse, voir [Voyage en avion](#voyage-en-avion)
+- Antihistaminiques sédatifs pour le [Mal des transports](#mal-des-transports)
 - Voyager avec le double des ordonnances écrites en DCI
 - Préparer le voyage sur le [site du Ministère des Affaires étrangères](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/)
 - Europe: demander une [carte européenne d'assurance maladie](https://www.ameli.fr/assure/adresses-et-contacts/lobtention-dun-document/commander-une-carte-europeenne-dassurance-maladie-ceam) (CEAM sur Ameli)
 - Déclarer son déplacement au Ministère des Affaires étrangères sur le [Fil d'Ariane](https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html)
-- Covid-19: quarantaine en retour de voyage
+- Le voyage avec des nourrissons en haute altitude ou dans les pays tropicaux avec des conditions précaires est déconseillé
+- Nécessité de consulter et de signaler un séjour tropical à tout médecin en cas de fièvre dans les 3 mois après le retour
 
 Voir les chapitres dédiés:
 
 - [Gale]({{< relref "gale.md" >}})
 - [Hépatite A]({{< relref "hepatite-a.md" >}})
 - [Hépatite B]({{< relref "hepatite-b.md" >}})
+- [Infections sexuellement transmissibles](/tags/ist/) et [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}})
 - [Paludisme]({{< relref "paludisme.md" >}})
+- [Photoprotection et mélanome]({{< relref "melanome.md" >}})
 - [Tiques et maladie de Lyme]({{< relref "maladie-lyme.md" >}})
 - [Tuberculose]({{< relref "tuberculose.md" >}})
 
@@ -51,36 +57,39 @@ Voir les chapitres dédiés:
 
 Ordonnance rédigée en DCI et contenu selon les conditions de voyage. Transporter les médicaments en bagage cabine dans leur emballage d'origine.
 
-- Antalgiques
-- Antibiotique
+- Antalgiques et antipyrétique (paracétamol ++)
+- Antibiotique (azithromycine)
 - Soluté de réhydratation pour enfant
-- Antidiarrhéique antisécretoire
+- Antidiarrhéique antisécretoire (racécadotril)
 - Antihistaminiques anti-H1
-- Antihistaminiques sédatifs si mal des transports (dimenhydrinate, chlorphéniramine)
+- Antihistaminiques sédatifs si mal des transports (dimenhydrinate ...)
 - Moustiques
   - Répulsif anti-moustiques
-  - Antimoustique pour tissus et vêtements
-  - Chimioprophylaxie anti-palustre
-- Collyre antiseptique
-- Crème hydratante pour brûlure
-- Pansements stériles et sutures adhésives
-- Antiseptique cutané
-- Dosettes de sérum physique
-- Crème solaire 50+
-- Bandes de contention
-- SHA
-- Thermomètre incassable
-- Pince à épiler
-- Préservatifs
-- Produit pour désinfection de l'eau
-- Gouttes auriculaires antibiotiques
-- Matériel à usage unique avec certificat anglais+français (aiguilles, seringues, matériel à suture)
+  - Antimoustique pour imprégner les moustiquaires
+  - ± [Chimioprophylaxie anti-palustre]({{< relref "paludisme.md" >}})
+- Autres produits
+  - Collyre antiseptique unidose
+  - Crème hydratante pour brûlure
+  - Pansements stériles et sutures adhésives
+  - Antiseptique cutané
+  - Dosettes de sérum physique
+  - Crème solaire 50+
+  - Mi-bas de contention
+  - SHA
+  - Thermomètre incassable
+  - Pince à épiler
+  - Préservatifs norme NF
+  - Produit pour désinfection de l'eau
+  - Gouttes auriculaires antibiotiques
+  - Matériel à usage unique avec certificat anglais + français (aiguilles, seringues, matériel à suture)
 
 {{% /collapse %}}
 {{%collapse "Vaccins recommandés selon le pays de destination" %}}
 
-Ces 3 sites permettent d'évaluer le statut vaccinal nécessaire pour un voyage en sécurité.  
+Ces 3 sites internet permettent d'évaluer le statut vaccinal nécessaire pour un voyage en sécurité.  
 Certains vaccins peuvent être obligatoires pour entrer dans le pays, ils nécessitent alors un certificat international de vaccination.
+
+Le schéma vaccinal doit être terminé 10-15 jours avant le départ (sauf rappel).
 
 Se référer à la page dédiée à chaque maladie pour en savoir plus (voir *Résumé des recommandations*).
 
@@ -88,34 +97,71 @@ Se référer à la page dédiée à chaque maladie pour en savoir plus (voir *R�
 
 {{< card-link-external title="Vaccins et conseils par pays" url="https://www.diplomatie.gouv.fr/fr/dossiers-pays/" subtitle="France Diplomatie" image="ministere" >}}
 
-{{< card-link-external title="Vaccins recommandés et conseils médicaux par destination" url="https://www.pasteur-lille.fr/vaccinations-voyages/" subtitle="Pasteur Lille" image="pasteur" >}}
+{{< card-link-external title="Vaccins recommandés et conseils médicaux par destination" url="https://pasteur-lille.fr/centre-prevention-sante-longevite/vaccins-et-voyages/preparer-ses-voyages/" subtitle="Pasteur Lille" image="pasteur" >}}
 
 ### Précisions sur les vaccinations des voyageurs
 
 Vaccinations non recommandées pour les voyageurs: choléra, dengue.
 
-- Encéphalite à tiques: en cas de séjour en zone rurale ou boisée dans les régions d'endémie
+- Encéphalite japonaise: en cas de
+  - Séjour (quelle que soit la durée) dans une zone avec rizières, proximité d'élevages de porcs, en période d’épidémie (ou de
+circulation accrue du virus chez l'animal), ou de saison des pluies
+  - Expatriation ou séjours répétés, dans un pays situé dans la zone de circulation du virus
+  - Toute autre situation jugée à risque par le médecin vaccinateur. Ex: voyage en zone d'endémie avec des incertitudes quant à la durée
+du séjour, la destination précise ou les activités qui y seront pratiquées
+- Encéphalite à tiques: séjour en zone rurale ou boisée dans les régions d'endémie jusqu'à 1500 mètres ou consommation de lait cru, du printemps à l'automne  
+  Risque négligeable en cas de séjour urbain strict sans lait cru.
 - Méningite ACYW135: le certificat doit mentionner *Meningococcal conjugate tetravalent ACYW vaccine*
 - Poliomyélite et voyage +4 semaines en pays circulant ([liste](https://polioeradication.org/polio-today/polio-now/public-health-emergency-status/)): rappel recommandé 4 semaines à 12 mois avant avec Certificat international si souche PVS1, PVDVc1 ou PVDVc3  
   Le rappel vise à empêcher le portage asymptomatique.
 - Rougeole: un jeune voyageur peut être vacciné dès 6 mois (avec 2 rappels), 1 mois minimum entre 2 doses
 
+### Vaccins contre-indiqués pendant la grossesse
+
+Les vaccins vivants sont contre-indiqués: fièvre jaune, rougeole/ROR, BCG.
+
+Le vaccin pneumococcique doit bénéficier d'une analyse bénéfice/risque.
+
 {{% /collapse %}}
 {{%collapse "Mesures de protection à appliquer" %}}
+
+Étudier ses couvertures d'assurance (carte bleue, rapatriement, accident). Séjour de moins de 6 mois: assurance personnelle, au delà, se renseigner sur [Ameli](https://www.ameli.fr/paris/assure/droits-demarches/europe-international/protection-sociale-etranger).
 
 ### Protection contre les accidents de la route
 
 - Ceinture de sécurité ou casque, siège auto
 - Éviter de conduire soi-même
 
+### Risque transfusionnel
+
+<< Refuser tout geste dont on n'est pas certain qu'il sera effectué avec du matériel neuf à usage unique >>  
+<< La pratique de tatouages et de piercing (dont le perçage des oreilles) présente un risque majeur de transmission d'agents pathogènes par le sang, notamment les virus des hépatites B et C et le VIH >>  
+— *HCSP*
+{.alert .alert-warning}
+
+Les tatouages éphémères noirs exposent au risque de dermite de contact.
+
+### Haute altitude
+
+La haute altitude est déconseillée chez le nourrisson (mort subite augmentée après 1600 m).
+
+Symptômes du mal aigu des montagnes: céphalées, insomnie, anorexie, nausées, œdèmes. Les symptômes régressent dès le retour à une altitude inférieure.
+
+Prévention du mal des montagnes:
+
+- Ne pas monter trop vite, trop haut
+- Bonne hydratation
+- Acétazolamide, 2 jours avant l'arrivée en haute montagne et poursuivi 2 jours après le point culminant si la descente n'est pas effectuée rapidement  
+  12 mg matin et début d'après-midi si +80 kg, 2,5-5 mg/kg/j en 2 prises avant sauf contre-indication aux sulfamides.
+
 ### Protection contre les animaux
 
-Toute morsure ou piqûre avec symptômes locaux marqués ou généraux nécessite une consultation
+Toute morsure OU piqûre avec symptômes locaux marqués ou généraux nécessite une consultation
 {.alert .alert-warning}
 
 Les -15 ans représentent 40% des morsures à risque de rage.
 
-- Éviter tout contact avec les carnivores sauvages, primates, chauves-souris
+- Éviter tout contact avec les carnivores sauvages, primates, chauves-souris, animaux venimeux
 - Dans les zones à risque de rage (voir ci-dessous): éviter tout contact avec les carnivores domestiques (chiens, chats)
 - Indications à la vaccination anti-rabique: voyageur (dès l'âge de la marche) allant en zone à haut risque de rage ...
   - Prolongé ou aventureux avec un risque élevé de contact avec des animaux
@@ -127,42 +173,32 @@ Zones à haut risque de rage: Asie, Afrique entière, Amérique du Sud ([carte O
 
 ### Protection contre les insectes et parasites
 
-- Vêtements légers, amples et couvrants, chaussures fermées
-- Répulsifs cutanés
+- Vêtements légers, amples et couvrants, serrés aux chevilles et poignets, chaussures fermées
+- {{< modal-btn modal-repulsifs >}}Répulsifs cutanés{{< /modal-btn >}} dès la tombée du jour
 - Maison: climatisation > insecticides en bombe ou diffuseur, raquettes électriques
 - Extérieur: serpentins fumigènes
 - Dormir sous des moustiquaires imprégnées d'insecticide (bordée sur le lit ou touchant le sol, sans déchirure, maintenue en place le jour)  
   En zone fortement impaludée: ne pas sortir la nuit sans protection anti-moustiques.
 - Bivouac: vêtements et chaussures dans un sac ou bidon étanche bien fermé
+- Éviter les baignades en eau douce et la marche pied nus (leptospirose, bilharziose)  
+  Douche prolongée et essuyage énergique pour éviter la dermatite du baigneur (dite cercarienne).
 - Punaises de lit
+  - Inspection la chambre à l'arrivée (sous les draps, housse de matelas, sommier, plinthes). Changer de lieu si des punaises sont observées.
   - Isoler les bagages et effets personnels (brosse à cheveux, trousse) dans des sacs en plastique sur du carrelage, loin des zones de sommeil
-  - Inspection sous les matelas
   - Au retour, en cas de doute: aspirateur puis nettoyer l'aspirateur et jeter à l'extérieur le sac, congélation à -20°C ≥ 48 heures, lavage à 60°C ou vapeur à 120°C voire société spécialisée certifiée << cert-biocide >>
 
 #### Moyens de prévention contre les piqûres de moustiques
 
-**Répulsifs cutanés de référence:** DEET (altère les plastiques, CI grossesse), IR 3535, icaridine (picaridine ou KBR3023), huile d'*Eucalyptus citriodora* hydratée cyclisée. Tableau complet
+{{< modal-btn modal-repulsifs >}}Répulsifs cutanés de référence{{< /modal-btn >}} DEET (altère les plastiques, CI grossesse), IR 3535, icaridine (picaridine ou KBR3023), huile d'*Eucalyptus citriodora* hydratée cyclisée. Tableau complet
 {.alert .alert-info}
-
-TODO:
 
 Ne pas pulvériser directement sur la peau: appliquer les mains puis étaler (20 min après la crème solaire). Ne pas pulvériser dans une pièce fermée, proche d'une flamme ou de la nourriture.
 Réappliquer après baignade (respecter le nombre max d'applications)
 Lorsque le risque disparaît: rincer à l'eau et au savon
 
-- Méthodes recommandées
-  - Moustiquaire imprégnée d'insecticide (lit, berceau, poussette)
-  - Moustiquaire non imprégnée (si insecticide impossible)
-  - Moustiquaires aux fenêtres et portes
-  - Répulsifs cutanés sur les parties non couvertes par les vêtements couvrants
-- Méthodes d'appoint
-  - Diffuseur électrique et bombes d'intérieur
-  - Raquettes électriques
-  - Climatisation
-  - Ventilation
-  - Serpentin fumigène d'extérieur
+{{< traitements/ppav >}}
 
-Méthodes non recommandées: bracelets anti-insectes, huiles essentielles, ultrasons, vitamine B1, homéopathie, rubans/autocollants sans insecticide
+Méthodes non recommandées: bracelets anti-insectes, huiles essentielles (d'Eucalyptus ou autre), ultrasons, vitamine B1, homéopathie, rubans/autocollants sans insecticide
 {.alert .alert-warning}
 
 {{% /collapse %}}
@@ -179,7 +215,7 @@ Diarrhée du voyageur
 Le plus souvent la diarrhée est liée au péril fécal avec une origine bactérienne 80% (*E. coli*, *Campylobacter* ...), parasitaire 5-10% (persistante ++,  *Entamoeba histolytica*, *Giardia intestinalis*, *Cryptosporidium spp*, *Isospora
 belli*, *Cyclospora*) ou médicamenteuse.
 
-### En cas de diarrhées
+### En cas de diarrhées pendant le voyage
 
 - Réhydratation précoce sans attendre la soif  
   - Alterner liquides sucrés et salés, SRO
@@ -189,7 +225,7 @@ belli*, *Cyclospora*) ou médicamenteuse.
 - Consultation si forme modérée, sévère ou fébrile
 
 Si consultation impossible et diarrhée sévère ou terrain à risque:  
-antibiothérapie probabiliste par azithromycine dose unique de 4 cp de 250 mg  
+antibiothérapie probabiliste par azithromycine dose unique de 4 cp de 250 mg (ou 500 mg/j pendant 3 jours)  
 voire ciprofloxacine 500 mg x 2/j pendant 3 jours
 {.alert .alert-info}
 
@@ -219,7 +255,7 @@ Posologies chez l'enfant, traitement de 3 jours:
 ### Contre-indications aux voyages aériens
 
 - Nouveau-né de moins de 48 heures
-- Femmes enceintes après 36 semaines de grossesse (32 si jumeaux)
+- Femmes enceintes après 36 semaines de grossesse (32 si multiple)
 - Plongée sous-marine dans les 24 heures
 - Avis médical si:
   - [Angor]({{< relref "syndrome-coronarien-chronique.md" >}})
@@ -237,6 +273,8 @@ Posologies chez l'enfant, traitement de 3 jours:
   - Trouble psychotique (sauf totalement maîtrisé)
 
 > *HCSP*
+
+L'avion est autorisé pour un nouveau-né né à terme à partir de 48 heures de vie (41 SA d'âge corrigé si prématuré) mais il est conseillé d'attendre au moins 7 jours. Reporter le voyage en cas d'infection des voies aériennes ou d'[asthme]({{< relref "asthme.md" >}}) non contrôlé.
 
 ### Prévention des thromboses veineuses profondes
 
@@ -271,13 +309,15 @@ En cas de risque élevé de thrombo-embolie veineuse, une injection sous-cutané
 
 Tenir compte du décalage horaire pour la prise des médicaments (contraception orale, anticoagulant ...).
 
-- Dans les jours précédant le départ: décaler d'une heure par jour l'heure du coucher vers la destination
+- Dans les jours précédant le départ
+  - Décaler d'une heure par jour l'heure du coucher vers la destination
+  - Décalage ≥ 5 heures: mélatonine 0,5 à 5 mg à l'heure cible du coucher de la destination (efficacité surtout vers l'est). Vérifier épilepsie et les interactions
 - En avion: régler sa montre sur le pays d'arrivée, éviter café et alcool, manger léger et adopter rythme de la destination
 - Après l'arrivée: sieste courte si besoin (20-30 min), repas aux heures locales
   - Vers l'est: exposition à la lumière le matin, se promener avant le déjeuner et lunettes de soleil en fin d'après-midi
   - Vers l'ouest: éviter la lumière le matin, sortir l'après-midi sans lunettes de soleil et activité physique modérée, s'exposer à la lumière vive le soir pour retarder le coucher
 
-Séjour < 48 heures: conserver le rythme d'origine.
+Séjour de moins de 48 heures: conserver le rythme d'origine.
 
 Les hypnotiques n'ont aucun effet sur la resynchronisation.
 
@@ -288,23 +328,35 @@ Le mal des transports (cinétose ou naupathie) atteint surtout les 2-12 ans. Les
 
 ### Traitement du mal des transports
 
-La prise en charge repose principalement sur les antihistaminiques de première génération, 2 heures avant le départ:
+La prise en charge repose principalement sur les antihistaminiques de première génération (sauf pour le conducteur), 2 heures avant le départ:
 
-- Diménhydrinate (Mercalm®, Nausicalm®)
-- Diphénhydramine (Nautamine®)
-- Méclozine (Agyrax®)
+- Diménhydrinate (Mercalm®, [Nausicalm®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60173964&typedoc=R) - efficace 6-8 heures)
+- Diphénhydramine (Nautamine® - efficace 6-8 heures)
+- Méclozine (Agyrax® - adulte, efficace 24 heures)
+- Si grossesse: doxylamine (*Prescrire*)
 
-TODO: Prescrire
+La scopolamine (anticholinergique non sélectif) peut être utilisé en patch de 1 mg appliqué sur la mastoïde au moins 4 heures avant le départ (renouvelé si besoin à 72 heures). Contre-indiquée avant 15 ans, pendant la grossesse et l'allaitement, vérifier les autres contre-indications.
+
+Autres mesures: choisir l'endroit le plus stable du véhicule (avant train-voiture, milieu d'avion et bateau), regarder l'horizon, activités mentales.
+
+N'ont pas démontré d'efficacité: gingembre, homéopathie, acupressure du point P6 (proche du poignet)
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%sources%}}
 
 - Sites mentionnés au sein du chapitre concerné
 - {{< references/voyageur >}}
+- Prescrire Redaction. Mal des transports. Premiers choix Prescrire. Rev Prescrire. 2023.
+- [CMIT. Voyage en pays tropical de l'adulte et de l'enfant. Item 175. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-175-web.pdf)
 
 ### À lire
 
-- [CMIT. Voyage en pays tropical de l'adulte et de l'enfant. Item 175. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-175-web.pdf)
-- [Société de Médecine des Voyages. Articles et fiches guides.](https://www.medecine-voyages.fr/les-articles-et-fiches-guides/)
+[Société de Médecine des Voyages. Articles et fiches guides.](https://www.medecine-voyages.fr/les-articles-et-fiches-guides/)
 
 {{%/sources%}}
+{{% modal title="Répulsifs pour la PPAV" id="modal-repulsifs" size="lg" %}}
+
+{{< traitements/repulsifs >}}
+
+{{% /modal %}}

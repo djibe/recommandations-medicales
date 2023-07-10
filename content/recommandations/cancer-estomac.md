@@ -208,7 +208,7 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 - [INCa. Médecins traitants : Acteurs de la prévention du cancer de l'estomac. Février 2013.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Medecins-traitants-Acteurs-de-la-prevention-du-cancer-de-l-estomac)
 - [HAS, INCa. Cancer de l'estomac. Guide ALD. Septembre 2011.](https://www.has-sante.fr/jcms/c_1105137/fr/ald-n-30-cancer-de-l-estomac)
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique - Cancer gastrique diffus héréditaire. 2009. (PDF)](https://www.e-cancer.fr/content/download/58352/531992/file/chir_prophy_predi_gene_gastrique.pdf)
-- [Collège Français des Pathologistes (CoPath). Tumeurs de l'estomac. Item 300.](http://campus.cerimes.fr/anatomie-pathologique/enseignement/anapath_19/site/html/2.html)
+- [Collège Français des Pathologistes (CoPath). Tumeurs de l'estomac. Item 300.](https://docplayer.fr/3727075-College-francais-des-pathologistes-copath-enseignement-d-anatomie-pathologique-polycopie.html)
 
 ### À lire
 

@@ -206,7 +206,7 @@ Les antihistaminiques et corticoïdes nasaux sont le traitement symptomatique de
 3. Contrôle insuffisant chez l'adulte: doubler la dose de corticoïdes
 4. RA non contrôlée: associer corticoïdes + antihistaminiques locaux (ou 2 en 1: [azélastine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68576006&typedoc=R) + fluticasone [Dymista®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60830011&typedoc=R)) en pulvérisations nasales
 
-\- *SFORL, SPLF*
+— *SFORL, SPLF*
 {{%/info%}}
 
 Éléments à savoir sur les traitements symptomatiques de la rhinite allergique:
@@ -220,7 +220,7 @@ Les antihistaminiques et corticoïdes nasaux sont le traitement symptomatique de
 
 > << Les glucocorticoïdes per os sont à éviter >>  
 << La chirurgie n'a pas sa place dans le traitement de la RA >>  
-\- *SPLF 2010*
+— *SPLF 2010*
 {.alert .alert-warning}
 
 ### Mesures d'éviction ciblée de l'allergène identifié

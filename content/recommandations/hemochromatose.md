@@ -130,7 +130,7 @@ Bilan à jeun:
 - Glycémie à jeun
 - Bilan lipidique
 
-> \- *CDU-HGE* et *CEEDMM*
+> — *CDU-HGE* et *CEEDMM*
 
 En l'absence de poids d'appel, dosage du **coefficient de saturation de la transferrine (CST) à jeun**, recontrôlé si anormal.
 {{%/info%}}
@@ -195,7 +195,7 @@ Les saignées (phlébotomie) sont possibles à domicile par un infirmier selon l
 - Les saignées n'améliorent pas le diabète, la cirrhose et les troubles sexuels
 - Le dosage de l'HbA<sub>1c</sub> n'est pas fiable
 
-> \- *AFEF 2020* et *HAS 2005*
+> — *AFEF 2020* et *HAS 2005*
 
 #### Contre-indications aux saignées
 
