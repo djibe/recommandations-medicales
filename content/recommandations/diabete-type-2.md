@@ -24,6 +24,7 @@ todo = "EASD 2021 Table 2.3 et 2.4, GRADE PODO +++ dont p.68 et p.76 et p.90, co
 
 - [Score Findrisc: risque de diabète à 10 ans](https://www.diabeclic.com/findrisc)
 - Pour chaque personne vivant avec un diabète: sevrage tabagique obligatoire et points vitaux obligatoires (voir plus bas)
+- {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7%)
 - Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}
 - Dépistage des complications du diabète et des comorbidités (voir *Dépistage*)
 - Éducation thérapeutique du patient diabétique: [diabeclic.com](https://www.diabeclic.com)

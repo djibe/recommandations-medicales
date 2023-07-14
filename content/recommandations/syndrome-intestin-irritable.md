@@ -152,12 +152,12 @@ Avis gastro-entérologique si: doute diagnostique, symptômes sévères ou éche
 
 {{%info%}}
 
-### Bilan de première intention en cas de suspicion de syndrome de l'intestin irritable
+### Bilan pour suspicion de syndrome de l'intestin irritable
 
 - NFS, CRP
 - [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}): IgA anti-transglutaminase + IgA totales
 - Si diarrhées: TSH, examen parasitologique des selles (EPS) si début brutal  
-  et calprotectine fécale avant 45 ans (60€ non remboursés)
+  et calprotectine fécale avant 45 ans (60€ non remboursés pour éliminer une MICI)
 - Rythme normal du [dépistage du cancer colorectal]({{< relref "cancer-colorectal.md" >}}) selon le niveau de risque
 - Femme +50 ans: envisager une échographie pelvienne par voie sus-pubienne et endovaginale (voir [cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}}))
 

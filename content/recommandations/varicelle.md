@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-22T12:09:36+01:00"
 publishdate = "2022-04-07"
-lastmod = "2023-04-14"
+lastmod = "2023-07-14"
 specialites = ["pediatrie"]
 annees = "2020"
 sources = ["SPILF", "ANSM", "MinSanté"]
@@ -124,7 +124,7 @@ Sérologie varicelle en urgence si personne à risque de forme grave exposée à
 
 ### Vaccins contre la varicelle
 
-#### Indications limitées à la vaccination anti-varicelleuse
+#### Indications à la vaccination anti-varicelleuse
 
 Vaccination recommandée en l'absence d'antécédent de varicelle (ou histoire douteuse):
 
@@ -141,7 +141,9 @@ Vaccination recommandée en l'absence d'antécédent de varicelle (ou histoire d
 
 > *Calendrier vaccinal*
 
-Vaccination varicelle contre-indiquée pendant la grossesse. Une grossesse doit être évitée dans le mois suivant la vaccination
+InfoVac-France conseille la vaccination varicelle pour tous à partir de 12 mois ([article](https://www.infovac.fr/vaccins/maladies-evitables/varicelle)).
+
+Vaccination varicelle contre-indiquée pendant la grossesse. Une grossesse doit être évitée dans le mois suivant la vaccination.
 {.alert .alert-warning}
 
 #### Spécialités de vaccins varicelle
@@ -171,7 +173,8 @@ Effets indésirables: fébricule et œdème au point d'injection, 5% ont exanth�
 {{% /collapse %}}
 {{%collapse "Traitement de la varicelle du sujet immunocompétent" %}}
 
-Guérison de la varicelle en **10-12 jours**.  
+Guérison de la varicelle en **10-12 jours**.
+
 Période de contagiosité: J-2 à J+4 de l'apparition des vésicules ou par voie respiratoire dans la phase pré-éruptive.
 
 Recommandations pour la prise en charge de la varicelle:
@@ -205,19 +208,21 @@ Recommandations pour la prise en charge de la varicelle:
 Reporter les vaccinations du nourrisson d'au moins 15 jours (question à *Infovac*)
 {.alert .alert-info}
 
-### Traitement d'une surinfection cutanée: impétigo
+### Traitement d'une varicelle surinfectée : impétigo
 
-[Contrôler le traitement sur Antibioclic](https://antibioclic.com/strategie/91/675)
+[Contrôler le traitement recommandé sur Antibioclic](https://antibioclic.com/strategie/91/675)
 
+Traitement selon la taille de l'impétigo:
+
+- Éviction scolaire/collectivité pendant 3 jours si lésions non couvrables
 - Surface < 2%  
-  Eau + savon et mupirocine 1 appli x 2-3/j pendant 5 jours
+  Eau + savon et [mupirocine 2%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61059102&typedoc=R) 1 appli x 2-3/j pendant 5 jours.
 - \> 2% ou > 6 lésions ou extension rapide ou nécrotique  
   - Prélèvement bactériologique
-  - Antibiothérapie 7 jours: pristinamycine 1 x 3/j ou céfalexine 1-2 g x 2/j  
+  - Antibiothérapie pendant 7 jours: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69494932&typedoc=R) (Pyostacine®) 1 g x 2-3/j ou [céfalexine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64064987&typedoc=R) (Keforal®) 1-2 g x 2/j
   - Enfant: amoxicilline-acide clavulanique 1 dose-kg x 3/j pendant 7 jours
 
-Détersion des croûtes par vaseline x 2/j et couvrir par pansement.  
-Éviction 3 jours si non couvrables.
+Détersion des croûtes par vaseline x 2/j et couvrir par pansement.
 
 {{% /collapse %}}
 {{%collapse "Varicelle chez l'immunodéprimé et la femme enceinte" %}}

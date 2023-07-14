@@ -110,19 +110,19 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
   <div aria-labelledby="visite-tab" class="tab-pane fade" id="visite-panel" role="tabpanel">
 
 {{< table class="table-wrap" >}}
-| Code NGAP             | Description                                                                               |          Tarif (€) |
-|-----------------------|-------------------------------------------------------------------------------------------|-------------------:|
-| VG(S) + MD            | Visite à domicile pour un adulte                                                          |            25 + 10 |
-| VG(S) + MU            | Visite nécessitant d'interrompre ses consultations et de quitter immédiatement le cabinet |         25 + 22,60 |
-| VL + MD               | Neurodégénératif, soins palliatifs (4/an) ou +80 ans en ALD (1/trimestre)                 |            60 + 10 |
-| VG(S) + MDD           | Visite justifiée dimanche et jour férié                                                   |         25 + 22,60 |
-| VG(S) + MDN           | Visite 20-24h et 6-8h                                                                     |         25 + 38,50 |
-| VG(S) + MDI           | Visite 0-6h                                                                               |         25 + 43,50 |
-| VG(S) + VRS           | Visite régulée samedi après-midi                                                          |            25 + 30 |
-| VG(S) + VRN           | Visite régulée 20-24h et 6-8h                                                             |            25 + 46 |
-| VG(S) + VRM           | Visite régulée 0-6h                                                                       |         25 + 59,50 |
-| VG(S) + VRD           | Visite régulée dimanche et jour férié                                                     |         25 + 30,00 |
-| APV + MD              | Vu à la demande de son MT pour une compétence explicite (ne pas revoir à ± 4 mois)        |            55 + 10 |
+| Code NGAP   | Description                                                                               |  Tarif (€) |
+|-------------|-------------------------------------------------------------------------------------------|-----------:|
+| VG(S) + MD  | Visite à domicile pour un adulte                                                          |    25 + 10 |
+| VG(S) + MU  | Visite nécessitant d'interrompre ses consultations et de quitter immédiatement le cabinet | 25 + 22,60 |
+| VL + MD     | Neurodégénératif, soins palliatifs (4/an) ou +80 ans en ALD (1/trimestre)                 |    60 + 10 |
+| VG(S) + MDD | Visite justifiée dimanche et jour férié                                                   | 25 + 22,60 |
+| VG(S) + MDN | Visite 20-24h et 6-8h                                                                     | 25 + 38,50 |
+| VG(S) + MDI | Visite 0-6h                                                                               | 25 + 43,50 |
+| VG(S) + VRS | Visite régulée samedi après-midi                                                          |    25 + 30 |
+| VG(S) + VRN | Visite régulée 20-24h et 6-8h                                                             |    25 + 46 |
+| VG(S) + VRM | Visite régulée 0-6h                                                                       | 25 + 59,50 |
+| VG(S) + VRD | Visite régulée dimanche et jour férié                                                     | 25 + 30,00 |
+| APV + MD    | Vu à la demande de son MT pour une compétence explicite (ne pas revoir à ± 4 mois)        |    55 + 10 |
 {{< /table >}}
 
   </div>
@@ -135,42 +135,45 @@ Actes et surcotations disponibles pour le médecin généraliste.
 Cotations NGAP disponibles en sus de la consultation ou de la visite.
 
 {{< table title="Surcotations possibles pour des situations particulières" >}}
-| Code NGAP    | Description                                                                                                                  | Tarif supp (€) |
-|--------------|------------------------------------------------------------------------------------------------------------------------------|---------------:|
-| RQD          | Demande de téléexpertise (à 100%)                                                                                            |             10 |
-| + MCG        | Consultation d'un patient +16 ans hors résidence habituelle avec rédaction d'un compte-rendu pour son MT                     |              5 |
-| + MSH**      | Sortie d'hospitalisation dans le mois d'un patient poly-pathologique                                                         |             23 |
-| + MIC**      | Sortie d'hospitalisation dans les 2 mois pour [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) |             23 |
-| + MIS        | Consultation initiale d'information cancer ou neurodégénératif                                                               |             30 |
-| + PIV        | Consultation initiale d'information VIH                                                                                      |             30 |
-| + MUT*       | RDV urgent obtenu avec un spécialiste sous 48h                                                                               |              5 |
-| + MRT*       | Examen de son patient en urgence à la demande de la régulation                                                               |             15 |
-| + SNP        | Examen dans les 48h à la demande du SAS                                                                                      |             15 |
-| + DE         | Acte non justifié, à déterminer avec "tact et mesure" (non remboursé)                                                        |          Libre |
+| Code NGAP | Description                                                                                                                  | Tarif supp (€) |
+|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------:|
+| RQD       | Demande de téléexpertise (à 100%)                                                                                            |             10 |
+| + MCG     | Consultation d'un patient +16 ans hors résidence habituelle avec rédaction d'un compte-rendu pour son MT                     |              5 |
+| + MSH**   | Sortie d'hospitalisation dans le mois d'un patient poly-pathologique                                                         |             23 |
+| + MIC**   | Sortie d'hospitalisation dans les 2 mois pour [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) |             23 |
+| + MIS     | Consultation initiale d'information cancer ou neurodégénératif                                                               |             30 |
+| + PIV     | Consultation initiale d'information VIH                                                                                      |             30 |
+| + MUT*    | RDV urgent obtenu avec un spécialiste sous 48h                                                                               |              5 |
+| + MRT*    | Examen de son patient en urgence à la demande de la régulation                                                               |             15 |
+| + SNP     | Examen dans les 48h à la demande du SAS                                                                                      |             15 |
+| + DE      | Acte non justifié, à déterminer avec "tact et mesure" (non remboursé)                                                        |          Libre |
 {{< /table >}}
 
 > \* Médecin traitant uniquement ; MIS et PIV sont anonymisés en MTX sur une feuille de soins
 
 ### Les actes importants pour le médecin généraliste
 
-Actes importants non cumulables ou cumulables avec une consultation (3 au total: ECG, frottis cervico-vaginal et biopsie cutanée).
+Actes CCAM importants non cumulables ou cumulables avec une consultation (3 au total: ECG, frottis cervico-vaginal et biopsie cutanée).
 
 {{< table title="Actes importants pour le médecin généraliste. Majoration M possible si urgence pour les actes mentionnés" >}}
-| Code CCAM | Description | Tarif (€) |
-| + DEQP003 | ECG 12D | 14,26 |
-| + JKHD001 | Frottis cervico-vaginal | 12,46 |
-| ALQP003 | Test standardisé d'évaluation d'une dépression (max 1/an) | 69,12 |
-| ALQP006 | Test standardisé d'évaluation d'un déficit cognitif (max 1/an) | 69,12 |
-| JKLD001 | Pose d'un stérilet | 38,40 |
-| JKKD001 | Changement d'un stérilet | 38,40 |
-| QZGA002 | Ablation ou changement d'un implant | 41,80 |
-| MJPA010 | Incision ou excision d'un panaris superficiel | 38,29 |
-| EGFA007 | Excision d'une [thrombose hémorroïdaire]({{< relref "hemorroides.md" >}}) | 62,70 |
-| GLQP012 | Spirométrie avec enregistrement | 40,28 |
-| GABD002 + M | Tamponnement nasal antérieur | 54,60 |
+| Code CCAM   | Description                                                               | Tarif (€) |
+|-------------|---------------------------------------------------------------------------|----------:|
+| + DEQP003   | ECG 12D                                                                   |     14,26 |
+| + JKHD001   | Frottis cervico-vaginal                                                   |     12,46 |
+| ALQP003     | Test standardisé d'évaluation d'une dépression (max 1/an)                 |     69,12 |
+| ALQP006     | Test standardisé d'évaluation d'un déficit cognitif (max 1/an)            |     69,12 |
+| JKLD001     | Pose d'un stérilet                                                        |     38,40 |
+| JKKD001     | Changement d'un stérilet                                                  |     38,40 |
+| QZGA002     | Ablation ou changement d'un implant                                       |     41,80 |
+| MJPA010     | Incision ou excision d'un panaris superficiel                             |     38,29 |
+| EGFA007     | Excision d'une [thrombose hémorroïdaire]({{< relref "hemorroides.md" >}}) |     62,70 |
+| GLQP012     | Spirométrie avec enregistrement                                           |     40,28 |
+| GABD002 + M | Tamponnement nasal antérieur                                              |     54,60 |
 {{< /table >}}
 
 **NB.** Le premier acte est facturé à 100%, le 2e à 50% et les suivants sont offerts.
+
+L'extraction de cérumen (CAGD001) à 19,25€ n'a pas d'intérêt.
 
   </div>
   </div>

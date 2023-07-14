@@ -27,9 +27,9 @@ todo = "Prescrire, ttt ambulatoire accès palustre"
 - Toute fièvre dans les 3 mois suivant le retour d'une zone impaludée est un paludisme jusqu'à preuve du contraire
 - Toute suspicion de paludisme est une **urgence** diagnostique et thérapeutique (service de maladies infectieuses et tropicales, médecine interne ou *Urgences*)
 - Paludisme réfuté mais doute persistant: deuxième test 12-24 heures plus tard (frottis sanguin, goutte épaisse, test de diagnostic rapide)
+- Voyage tropical: protection contre les moustiques et évaluer la nécessité d'une chimioprophylaxie médicamenteuse (voir *Indication à la prophylaxie palustre*)
 - Le paludisme autochtone est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
 - Les séjours en zones d'endémie palustre sont déconseillés en cours de grossesse (*CRAT*)
-- Voyage tropical: protection contre les moustiques et chimioprophylaxie médicamenteuse
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -240,7 +240,7 @@ La chimioprophylaxie antipaludique (CPAP) n'est disponible que sur ordonnance et
 
 ### Les mesures de protection anti-vectorielles (PPAV)
 
-Les mesures de protection contre les piqûres d'insectes sont toujours associées.
+Les mesures de protection contre les piqûres d'insectes sont toujours associées (voir [voyage]({{< relref "voyage.md" >}})).
 
 {{< traitements/ppav >}}
 

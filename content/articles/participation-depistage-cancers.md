@@ -6,7 +6,7 @@ description = "Taux de participation des Français au dépistage organisé des c
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-08-15T19:54:00+02:00"
 publishdate = "2021-08-18"
-lastmod = "2023-04-14"
+lastmod = "2023-07-11"
 specialites = []
 annees = "2023"
 sources = ["SPF"]
@@ -35,8 +35,8 @@ Représentation des taux de participation aux dépistages organisés des cancers
 
 ## Sources
 
+- [Rogel A et al. Participation au programme de dépistage organisé du cancer du sein entre 2005 et 2021 en France. Bull Épidémiol Hebd. 2023.](http://beh.santepubliquefrance.fr/beh/2023/14/2023_14_2.html)
 - [Santé Publique France. Cancer colorectal : un taux de participation aux tests de dépistage stable en 2021-2022. 23/03/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/cancer-colorectal-un-taux-de-participation-aux-tests-de-depistage-stable-en-2021-2022)
-- [Santé Publique France. Dépistage du cancer du sein : quelle participation des femmes en 2021 ? 2022.](https://www.santepubliquefrance.fr/les-actualites/2022/depistage-du-cancer-du-sein-quelle-participation-des-femmes-en-2021)
 - [Santé Publique France. Cancer du côlon rectum : données. Mars 2022.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-colon-rectum/donnees)
 - [Jéhannin-Ligier K et al. Projection de l'incidence et de la mortalité par cancer en France métropolitaine en 2017. Rapport technique. Santé publique France. 2017.](https://www.santepubliquefrance.fr/docs/projection-de-l-incidence-et-de-la-mortalite-par-cancer-en-france-metropolitaine-en-2017)
 - [Santé Publique France. Cancer du col de l'utérus : la couverture du dépistage et de la vaccination doivent progresser pour une meilleure prévention. Janvier 2022.](https://www.santepubliquefrance.fr/presse/2022/cancer-du-col-de-l-uterus-la-couverture-du-depistage-et-de-la-vaccination-doivent-progresser-pour-une-meilleure-prevention)

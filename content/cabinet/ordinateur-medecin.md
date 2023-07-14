@@ -5,7 +5,7 @@ description = "Quel ordinateur pour le médecin généraliste ? Conseils pour un
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2022-01-27"
-lastmod = "2023-05-12"
+lastmod = "2023-07-12"
 specialites = []
 annees = "2023"
 sources = []
@@ -23,15 +23,15 @@ Le [Forfait structure]({{< relref "forfait-structure.md" >}}) contribue à finan
 
 {{%collapse "L'ordinateur minimum pour le médecin généraliste" %}}
 
-Je ne m'étendrai pas sur les Mac, qui ont une offre moindre avec très peu de logiciels métiers compatibles, pour des prix conséquents. Je précise pour chaque composant le prix maximal qui sera parfaitement inutile au-delà (coucou Intel Core i7).
+Je ne m'étendrai pas sur les Mac, qui ont une offre moindre avec très peu de logiciels métiers compatibles, pour des prix conséquents. Je précise pour chaque composant le prix maximal qui sera parfaitement inutile au-delà (haut de gamme comme les Intel Core i7).
 
 Au minimum le PC doit avoir:
 
 - Un processeur 4 cœurs dernière génération avec carte graphique intégrée (max 160€)  
-  ex. Intel Core i3 12100
-- Un disque dur ultra-rapide (dit SSD, max 150€ pour 1 To)  
-  500 Go de stockage suffiront pour un exercice normal, le milieu/haut de gamme permet d'avoir une fluidité parfaite. Ex. Samsung 980 Pro
-- 8 à 16 Go de mémoire vive (dite RAM, max 35€ pour 8 Go)  
+  Ex: Intel Core i3 12100
+- Un disque dur ultra-rapide (dit SSD, max 100€ pour 1 To)  
+  500 Go de stockage suffiront pour un exercice normal, le milieu/haut de gamme permet d'avoir une fluidité parfaite. Ex: Samsung 980 Pro ou Crucial P5 Pro.
+- 16 Go de mémoire vive (dite RAM, max 30€ pour 8 Go)  
   Conserve les programmes ouverts en parallèle.
 - Windows 10 ou 11 Pro (pour la gestion du réseau du cabinet)  
   Windows 7 et 8 peuvent toujours être mis à jour gratuitement vers Windows 10 puis 11.
@@ -48,6 +48,12 @@ Si vous n'êtes pas effrayé par les risques de conflits des appareils USB avec 
 La décision d'un logiciel comme Médistory de ne plus être compatible avec votre Mac qui fonctionne bien vous coûtera 2500 € de Mac neuf, en sus de la license du logiciel.
 
 Il manque de prises USB, donc vous aurez un train de câbles et de conflits liés au hub USB.
+
+### L'ordinateur portable
+
+Il peut être intéressant mais attention au nombre de prises USB.
+
+Dans tous les cas, le brancher sur un vrai écran 27 pouces pour être efficace au cabinet.
 
 ### L'ordinateur tout en 1
 
@@ -77,10 +83,10 @@ Le PC présenté ci-dessous peut être assemblé sur mesure par les grands magas
 Le problème de ces sites est le choix extrêmement limité en petits boîtiers jolis. Je suis restreint à une tour plus grosse.  
 Vous pouvez demander à l'informaticien du quartier de vous monter les pièces de cette configuration dans un boîtier plus adapté.
 
-[Achat du petit PC recommandé sur Hardware.fr](https://shop.hardware.fr/configurateur/c15eb7442a3472b4463668633bea006c), qui offre un bon service de support
+[Achat du petit PC recommandé sur Hardware.fr](https://shop.hardware.fr/configurateur/c15eb7442a3472b4463668633bea006c) (avec carte Wi-Fi), qui offre un bon service de support
 {.alert .alert-info}
 
-Changez la couleur du boîtier (les goûts et les couleurs ... mais gardez une taille très proche de 44 x 22 x 41 cm) et la souris si vous avez de petites mains. Ajoutez un lecteur DVD ou Blu-Ray selon vos besoins (mais en 2023 ...).
+Changez la couleur du boîtier (les goûts et les couleurs) et la souris si vous avez de petites mains. Ajoutez un lecteur DVD ou Blu-Ray selon vos besoins (mais en 2023 ...).
 
 **NB.** Windows 10/11 peut être acheté 15€ (au lieu des 200€) sur les géants du e-commerce si un ami peut vous l'installer.
 

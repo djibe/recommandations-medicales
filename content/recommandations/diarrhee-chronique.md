@@ -175,7 +175,7 @@ En cas de rectorragies ou de modifications du transit: adresser au gastro-entér
 
 ### Bilan de deuxième intention
 
-- Suspicion de [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) avant 40-45 ans: calprotectine fécale  
+- Suspicion de [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) avant 40-45 ans: calprotectine fécale (pour éliminer une MICI, 60€ non remboursé)  
   Bilan normal et symptômes typiques: diagnostic de *syndrome de l'intestin irritable* (SII).
 - Suspicion d'[intolérance au lactose]({{< relref "intolerance-lactose.md" >}}): test d'éviction préférable
 
