@@ -125,7 +125,7 @@ Caractères évocateurs: notion de contage, recrudescence nocturne et insomniant
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Bilan biologique avec hyperlymphocytose +10 G/L évocatrice de coqueluche mais inconstante. Pas de syndrome inflammatoire.
+Bilan biologique avec hyperlymphocytose supérieure à 10 G/L évocatrice de coqueluche mais inconstante. Pas de syndrome inflammatoire.
 
 **Radiographie thoracique** selon le tableau clinique.
 

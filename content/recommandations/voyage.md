@@ -68,11 +68,11 @@ Ordonnance rédigée en DCI et contenu selon les conditions de voyage. Transport
   - Antimoustique pour imprégner les moustiquaires
   - ± [Chimioprophylaxie anti-palustre]({{< relref "paludisme.md" >}})
 - Autres produits
+  - Dosettes de sérum physiologique
   - Collyre antiseptique unidose
   - Crème hydratante pour brûlure
   - Pansements stériles et sutures adhésives
   - Antiseptique cutané
-  - Dosettes de sérum physique
   - Crème solaire 50+
   - Mi-bas de contention
   - SHA
@@ -180,10 +180,10 @@ Zones à haut risque de rage: Asie, Afrique entière, Amérique du Sud ([carte O
 - Dormir sous des moustiquaires imprégnées d'insecticide (bordée sur le lit ou touchant le sol, sans déchirure, maintenue en place le jour)  
   En zone fortement impaludée: ne pas sortir la nuit sans protection anti-moustiques.
 - Bivouac: vêtements et chaussures dans un sac ou bidon étanche bien fermé
-- Éviter les baignades en eau douce et la marche pied nus (leptospirose, bilharziose)  
+- Éviter les baignades en eau douce et la marche pieds nus (leptospirose, bilharziose)  
   Douche prolongée et essuyage énergique pour éviter la dermatite du baigneur (dite cercarienne).
 - Punaises de lit
-  - Inspection la chambre à l'arrivée (sous les draps, housse de matelas, sommier, plinthes). Changer de lieu si des punaises sont observées.
+  - Inspecter la chambre à l'arrivée (sous les draps, housse de matelas, sommier, plinthes). Changer de lieu si des punaises sont observées.
   - Isoler les bagages et effets personnels (brosse à cheveux, trousse) dans des sacs en plastique sur du carrelage, loin des zones de sommeil
   - Au retour, en cas de doute: aspirateur puis nettoyer l'aspirateur et jeter à l'extérieur le sac, congélation à -20°C ≥ 48 heures, lavage à 60°C ou vapeur à 120°C voire société spécialisée certifiée << cert-biocide >>
 
@@ -192,7 +192,7 @@ Zones à haut risque de rage: Asie, Afrique entière, Amérique du Sud ([carte O
 {{< modal-btn modal-repulsifs >}}Répulsifs cutanés de référence{{< /modal-btn >}} DEET (altère les plastiques, CI grossesse), IR 3535, icaridine (picaridine ou KBR3023), huile d'*Eucalyptus citriodora* hydratée cyclisée. Tableau complet
 {.alert .alert-info}
 
-Ne pas pulvériser directement sur la peau: appliquer les mains puis étaler (20 min après la crème solaire). Ne pas pulvériser dans une pièce fermée, proche d'une flamme ou de la nourriture.
+Ne pas pulvériser directement sur la peau: appliquer sur les mains puis étaler (20 min après la crème solaire). Ne pas pulvériser dans une pièce fermée, proche d'une flamme ou de la nourriture.
 Réappliquer après baignade (respecter le nombre max d'applications)
 Lorsque le risque disparaît: rincer à l'eau et au savon
 
@@ -208,12 +208,11 @@ En cas de diarrhée fébrile: évoquer un [accès palustre]({{< relref "paludism
 {.alert .alert-warning}
 
 Diarrhée du voyageur
-: Émission d'au moins 3 selles non formées en 24 heures ou émission de selles plus fréquentes que d'habitudes (nourrissons) durant ou au retour d'un voyage.
+: Émission d'au moins 3 selles non formées en 24 heures ou émission de selles plus fréquentes que d'habitude (nourrissons) durant ou au retour d'un voyage.
 : Elles sont classées en 3 types: diarrhées aiguës bénignes, modérées (pénible et perturbant les activités) ou sévères (syndrome dysentérique = selles sanglantes, activités difficiles ou impossibles) et dites *persistantes* après 2 semaines.
 : Tourista: épisode aigu bénin survenant pendant le séjour ou dans les 7 jours suivant le retour, spontanément résolutif en 1-3 jours.
 
-Le plus souvent la diarrhée est liée au péril fécal avec une origine bactérienne 80% (*E. coli*, *Campylobacter* ...), parasitaire 5-10% (persistante ++,  *Entamoeba histolytica*, *Giardia intestinalis*, *Cryptosporidium spp*, *Isospora
-belli*, *Cyclospora*) ou médicamenteuse.
+Le plus souvent la diarrhée est liée au péril fécal avec une origine bactérienne 80% (*E. coli*, *Campylobacter* ...), parasitaire 5-10% (persistante ++,  *Entamoeba histolytica*, *Giardia intestinalis*, *Cryptosporidium spp*, *Isospora belli*, *Cyclospora*) ou médicamenteuse.
 
 ### En cas de diarrhées pendant le voyage
 

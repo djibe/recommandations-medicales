@@ -71,7 +71,7 @@ La splénomégalie n'est qu'un symptôme:
 - Parasitaire  
   [Paludisme aigu]({{< relref "paludisme.md" >}}), leishmaniose viscérale.
 - Tumorale  
-  Leucémie aiguë lymphoblastique ou leucémie lymphoïde chronique (LLC).
+  Leucémie aiguë lymphoblastique ou [leucémie lymphoïde chronique]({{< relref "leucemie-lymphoide-chronique.md" >}}) (LLC).
 - Auto-immun  
   Lupus érythémateux aigu disséminé, sarcoïdose.
 
@@ -80,7 +80,7 @@ La splénomégalie n'est qu'un symptôme:
 - Syndromes myéloprolifératifs  
   Leucémie myéloïde chronique, Maladie de Vaquez, splénomégalie myéloïde chronique, thrombocytémie essentielle.
 - Hémopathies lymphocytaires  
-  Leucémie lymphoïde chronique, maladie de Waldenström, leucémie à tricholeucocytes
+  [Leucémie lymphoïde chronique]({{< relref "leucemie-lymphoide-chronique.md" >}}), maladie de Waldenström, leucémie à tricholeucocytes
 - Lymphomes malins
 - Anémies hémolytiques chroniques  
   Minkowski-Chauffard, déficit en pyruvate-kinase érythrocytaire, thalassémie  majeure, drépanocytose, hémolyse par auto-anticorps anti-GR.
