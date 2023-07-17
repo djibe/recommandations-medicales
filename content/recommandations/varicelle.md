@@ -10,7 +10,7 @@ lastmod = "2023-07-14"
 specialites = ["pediatrie"]
 annees = "2020"
 sources = ["SPILF", "ANSM", "MinSanté"]
-tags = ["grossesse", "vaccin"]
+tags = ["eruption febrile", "grossesse", "vaccin"]
 anglais = ["Varicella", "Chickenpox"]
 sctid = "38907003"
 icd10 = "B01.9"
@@ -91,6 +91,8 @@ VZV
 
 Toujours rechercher des complications de la varicelle: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans
 {.alert .alert-info}
+
+Tableau d'[éruption fébrile](/tags/eruption-febrile/):
 
 - Antécédent de varicelle
 - Statut immunitaire de la famille
