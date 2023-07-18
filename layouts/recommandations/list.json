@@ -13,7 +13,8 @@
     "icd10": "{{ .Params.icd10 }}",
     "date": "{{ .Date }}",
     "lastmod": "{{ .Lastmod }}",
-    "content": {{ .Content | plainify | jsonify }}
+    "content": {{ .Content | plainify | jsonify }},
+    "contentHTML": {{ .Content | safeHTML | jsonify }}
   }
 {{- end -}}
 ]
