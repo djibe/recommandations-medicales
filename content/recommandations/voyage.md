@@ -18,7 +18,7 @@ sctid = "276030007"
 icd10 = ""
 image = true
 imageSrc = "Le voyage. Illustration par Freepik"
-todo = "apps jet lag"
+todo = "apps jet lag, long courrier"
 +++
 
 {{%article-summary%}}
@@ -30,7 +30,7 @@ todo = "apps jet lag"
 - Voyager avec le double des ordonnances écrites en DCI
 - Préparer le voyage sur le [site du Ministère des Affaires étrangères](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/)
 - Europe: demander une [carte européenne d'assurance maladie](https://www.ameli.fr/assure/adresses-et-contacts/lobtention-dun-document/commander-une-carte-europeenne-dassurance-maladie-ceam) (CEAM sur Ameli)
-- Déclarer son déplacement au Ministère des Affaires étrangères sur le [Fil d'Ariane](https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html)
+- Déclarer son déplacement au Ministère des Affaires étrangères sur le [Fil d'Ariane](https://pastel.diplomatie.gouv.fr/fildariane/)
 - Le voyage avec des nourrissons en haute altitude ou dans les pays tropicaux avec des conditions précaires est déconseillé
 - Nécessité de consulter et de signaler un séjour tropical à tout médecin en cas de fièvre dans les 3 mois après le retour
 
@@ -210,7 +210,7 @@ En cas de diarrhée fébrile: évoquer un [accès palustre]({{< relref "paludism
 Diarrhée du voyageur
 : Émission d'au moins 3 selles non formées en 24 heures ou émission de selles plus fréquentes que d'habitude (nourrissons) durant ou au retour d'un voyage.
 : Elles sont classées en 3 types: diarrhées aiguës bénignes, modérées (pénible et perturbant les activités) ou sévères (syndrome dysentérique = selles sanglantes, activités difficiles ou impossibles) et dites *persistantes* après 2 semaines.
-: Tourista: épisode aigu bénin survenant pendant le séjour ou dans les 7 jours suivant le retour, spontanément résolutif en 1-3 jours.
+: Tourista (ou turista): épisode aigu bénin survenant pendant le séjour ou dans les 7 jours suivant le retour, spontanément résolutif en 1-3 jours.
 
 Le plus souvent la diarrhée est liée au péril fécal avec une origine bactérienne 80% (*E. coli*, *Campylobacter* ...), parasitaire 5-10% (persistante ++,  *Entamoeba histolytica*, *Giardia intestinalis*, *Cryptosporidium spp*, *Isospora belli*, *Cyclospora*) ou médicamenteuse.
 
@@ -218,7 +218,7 @@ Le plus souvent la diarrhée est liée au péril fécal avec une origine bactér
 
 - Réhydratation précoce sans attendre la soif  
   - Alterner liquides sucrés et salés, SRO
-  - Petites doses régulières si vomissements: cuiller à soupe
+  - Petites doses régulières si vomissements (cuillère à soupe)
   - Poursuivre l'allaitement maternel
 - Anti-diarrhéique sécrétoire racécadotril
 - Consultation si forme modérée, sévère ou fébrile
@@ -230,9 +230,9 @@ voire ciprofloxacine 500 mg x 2/j pendant 3 jours
 
 Posologies chez l'enfant, traitement de 3 jours:
 
-- Azithromycine -25 kg: 1 dose poids (max 500 mg)
-- Azithromycine ≥ 25 kg: 500 mg
-- ciprofloxacine: 10 mg/kg x 2/j
+- Azithromycine si poids < 25 kg: 1 dose-poids (max 500 mg) x 1/j
+- Azithromycine si poids ≥ 25 kg: 500 mg x 1/j
+- Ciprofloxacine: 10 mg/kg x 2/j
 
 ### Mesures d'hygiène pour la prévention du péril fécal
 
@@ -265,7 +265,7 @@ Posologies chez l'enfant, traitement de 3 jours:
   - Infarctus du myocarde ou [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) récent
   - Chirurgie ou traumatisme récent avec risque de flatulence
   - Fracture avec plâtre fermé
-  - Traumatisme ou chirurgie cranio-facial ou oculaire
+  - Traumatisme ou chirurgie cranio-faciale ou oculaire
   - Dyspnée de repos, maladie respiratoire chronique sévère
   - Pneumothorax non résorbé datant de moins de 2-3 semaines
   - Drépanocytose

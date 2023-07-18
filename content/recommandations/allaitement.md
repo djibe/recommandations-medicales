@@ -46,8 +46,9 @@ TODO: <https://ansm.sante.fr/actualites/candidose-mammaire-et-allaitement-eviter
 Location de tire-lait électrique double pompe et ses accessoires pendant 10 semaines
 {.alert .alert-info}
 
-Sur prescription dédiée de médecin ou sage-femme.  
-Renouvellement possible tous les 3 mois ensuite.
+Sur prescription dédiée de médecin ou sage-femme.
+
+Renouvellement possible tous les 3 mois après la prescription initiale de 10 semaines.
 
 > [Arrêté du 11/03/2019](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038219812)
 

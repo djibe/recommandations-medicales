@@ -208,7 +208,7 @@ En l'absence d'orientation probante, un **traitement d'épreuve antihelminthe** 
   - [Albendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65565944&typedoc=R) (Eskazole®, Zentel®) 400 mg/j pendant 1-3 jours puis 400 mg à J15
   - ou [flubendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60968336&typedoc=R) (Fluvermal®) 100 mg x 3/j pendant 3 jours puis 100 mg à J15
   - Si anneaux (taenia ou autres): [praziquantel](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60996403&typedoc=R) (Biltricide®) 15 mg/kg
-- Hyperéosinophilie inexpliquée (> 1500/mm³ ciblant toxocarose, trichinellose, ascaridiose, oxyurose):  
+- Hyperéosinophilie inexpliquée (> 1500/mm³ ciblant toxocarose, trichinellose, ascaridiose, [oxyurose]({{< relref "oxyurose.md" >}})):  
   [Albendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65565944&typedoc=R) 10-15 mg/kg/j en 2 prises/j (max 800 mg/j).
 
 > *PNDS 2022*

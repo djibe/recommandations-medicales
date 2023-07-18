@@ -44,7 +44,7 @@
             alt="{{ if .Params.Image }}{{ .Params.ImageSrc }}{{ else }}Illustration de {{ .Title }}{{ end }}">
         </a>
           {{ with .Params.ImageSrc }}
-            <figcaption class="figure-caption px-2">{{ . }}</figcaption>
+            <figcaption class="figure-caption px-2">{{ . | markdownify }}</figcaption>
           {{ end }}
       </figure>
       <div class="recommandation__info">
