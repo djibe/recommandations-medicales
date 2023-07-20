@@ -28,7 +28,7 @@ TODO:
 {{%/article-summary%}}
 {{%collapse "Définition" "show" %}}
 
-Le généraliste est considéré comme niveau 1 de la prise en charge de l'obésité.
+Le généraliste est considéré comme appartenant au niveau 1 de la prise en charge de l'obésité.
 
 Obésité
 : Maladie chronique la plus fréquente en nutrition (17% de la population), évolutive et sans tendance spontanée à la guérison. Elle est définie comme une maladie car elle affecte le bien-être physique, social et psychologique.
@@ -300,7 +300,7 @@ IMC de 35 à 50 kg/m² et au moins un parmi:
 - Grossesse après chirurgie bariatrique
 - Échec de niveau 1
 
-### La chirurgie bariatrique
+### Indications à la chirurgie bariatrique
 
 > << Il s'agit du seul traitement actuel de l'obésité ayant démontré son efficacité sur le long terme en termes de perte de poids et de réduction de certaines comorbidités >> (*CEEDMM*)
 {.alert .alert-info}

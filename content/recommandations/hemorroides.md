@@ -78,7 +78,7 @@ Le diagnostic d'hémorroïdes est clinique.
     Tension et brûlure du canal anal en cas de thrombose interne (plus rare).
   - Rythme des selles, troubles du transit associés, modifications du transit
   - Prolapsus hémorroïdaire
-- Symptômes à étayer: troubles du transit (intestin irritable, cancer du côlon), autres douleurs
+- Symptômes à étayer: troubles du transit (intestin irritable, [cancer du côlon]({{< relref "cancer-colorectal.md" >}})), autres douleurs
 - Signes fonctionnels urinaires ou prolapsus associé
 - Retentissement sur la qualité de vie
 
@@ -87,7 +87,7 @@ Le diagnostic d'hémorroïdes est clinique.
 L'examen est facilité en décubitus latéral gauche (position de Sims).
 
 - Inspection de la marge anale  
-  Hémorroïdes externes, thrombose hémorroïdaire, marisques (bourrelet charnu séquellaire d'une thrombose hémorroïdaire) et différentiel ([fissure anale]({{< relref "fissure-anale.md" >}}) ...)
+  Hémorroïdes externes, thrombose hémorroïdaire, marisques (bourrelet charnu séquellaire d'une thrombose hémorroïdaire) et différentiel ([fissure anale]({{< relref "fissure-anale.md" >}}), [oxyurose]({{< relref "oxyurose.md" >}}) ...)
 - Prolapsus hémorroïdaire, rectal ou gynécologique
 - Toucher rectal omis car douloureux en cas de crise
 
@@ -101,8 +101,8 @@ Les hémorroïdes internes ne sont visibles qu'en anuscopie et nécessitent donc
 Indications à réaliser une coloscopie:
 
 - +50 ans sans coloscopie dans les 10 ans
-- +40 ans ou 10 ans avant l'âge de survenue d'un [CCR]({{< relref "cancer-colorectal.md" >}}) au premier degré avant 60 ans
-- +40 ans ou 10 ans avant l'âge de survenue d'un [CCR]({{< relref "cancer-colorectal.md" >}}) chez 2 proches au premier degré
+- +40 ans ou 10 ans avant l'âge de survenue d'un [cancer colorectal (CCR)]({{< relref "cancer-colorectal.md" >}}) au premier degré avant 60 ans
+- +40 ans ou 10 ans avant l'âge de survenue d'un CCR chez 2 proches au premier degré
 - Test de dépistage (test immunologique fécal TIF) positif
 
 > *ASCRS 2018*
@@ -113,7 +113,7 @@ Indications à réaliser une coloscopie:
 Traitements anti-hémorroïdaires pendant la [grossesse](http://lecrat.fr/spip.php?page=article&id_article=861) et l'[allaitement](http://lecrat.fr/spip.php?page=article&id_article=862) (*CRAT*)
 {.alert .alert-info}
 
-L'objectif de la prise en charge médicale des hémorroïdes est de soulager les symptômes (NR = non remboursé).
+L'objectif de la prise en charge médicale des hémorroïdes est de soulager les symptômes:
 
 - Antalgie: paracétamol, AINS 5-10 jours  
   Forme très œdémateuse: corticoïdes.
@@ -136,6 +136,8 @@ L'objectif de la prise en charge médicale des hémorroïdes est de soulager les
   - Laxatifs mucilages ([ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67437758&typedoc=R))  
     Au long cours ou en cure courte lors des crises hémorroïdaires.
 - Information du patient: [page SNFCP](https://www.snfcp.org/informations-maladies/hemorroides/les-hemorroides/) et [FAQ Hémorroïdes](https://www.snfcp.org/informations-maladies/hemorroides/faq-hemorroides/)
+
+> **NR =** non remboursé
 
 **NB.** La contre-indication aux épices est mal étayée.
 

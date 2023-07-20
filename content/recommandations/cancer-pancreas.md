@@ -27,7 +27,7 @@ imageSrc = "Invasion du deuxième segment duodénal par une masse pancréatique 
 - Bilan avec scanner thoraco-abdomino-pelvien avec injection en semi-urgence dès la suspicion
 - Le marqueur tumoral CA 19-9 n'a aucun intérêt pour le dépistage ou le diagnostic du cancer du pancréas
 - La prise en charge du cancer du pancréas est semi-urgente
-- Pour toute la population: prévention du cancer du pancréas par correction des facteurs de risque: [tabagisme]({{< relref "arret-tabac.md" >}}), obésité et [diabète]({{< relref "diabete-type-2.md" >}})
+- Pour toute la population: prévention du cancer du pancréas par correction des facteurs de risque ([tabagisme]({{< relref "arret-tabac.md" >}}), obésité et [diabète]({{< relref "diabete-type-2.md" >}}))
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -117,6 +117,39 @@ Dépister les personnes avec risque cumulé d'adénocarcinome du pancréas supé
 Dépistage uniquement si l'état de santé permettrait une chirurgie après avis d'un **centre expert**.  
 Le dépistage du cancer du pancréas est réalisé par échoendoscopie couplée à l'IRM.
 
+### Quand rechercher un cancer du pancréas en cas de diabète ?
+
+Indication: diabète récent (< 12 mois) chez le +50 ans sans antécédent familial de diabète ni surpoids OU avec amaigrissement > 10%.
+
+### Quand rechercher un cancer du pancréas en cas de pancréatite chronique ?
+
+Indications:
+
+- Pancréatite chronique génétique
+  - Par mutation PRSS1
+  - idiopathique ou par mutation, SPINK1, CTRC ou CFTR avec imagerie anormale
+- Pancréatite chronique et ≥ 1 parmi:
+  - Apparition d'un diabète
+  - Décompensation d'un diabète
+  - Survenue ou résurgence de douleurs pancréatiques chroniques
+  - Survenue de pancréatite aiguë
+  - Amaigrissement > 10%
+  - Majoration de l'insuffisance exocrine
+  - Cholestase d'apparition récente
+  - Ictère
+
+Recherche par scanner abdominal ET IRM pancréatique.
+
+### Quand rechercher un cancer du pancréas en cas de pancréatite aiguë idiopathique ?
+
+Indication: pancréatite aiguë idiopathique chez un sujet de plus de 40 ans.  
+Recherche par scanner ET IRM avec CPIRM et échoendoscopie si négatifs.
+
+Nouveaux examens scanners et IRM à 3, 6 et 12 mois:
+
+- puis annuellement pendant 4 ans si +40 ans
+- arrêt si -40 ans
+
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
@@ -149,39 +182,6 @@ Signes évocateurs de cancer du pancréas, surtout après 50 ans (signes en **gr
   - Insuline: malaise hypoglycémiques sévères
   - VIPome: diarrhée sécrétoire
 - +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
-
-### Quand rechercher un cancer du pancréas devant un diabète ?
-
-Indication: Diabète récent (< 12 mois) chez +50 ans sans antécédent familial de diabète ni surpoids OU avec amaigrissement > 10%.
-
-### Quand rechercher un cancer du pancréas en cas de pancréatite chronique ?
-
-Indications:
-
-- Pancréatite chronique génétique
-  - Par mutation PRSS1
-  - idiopathique ou par mutatio, SPINK1, CTRC ou CFTR avec imagerie anormale
-- Pancréatite chronique et ≥ 1 parmi:
-  - Apparition d'un diabète
-  - Décompensation d'un diabète
-  - Survenue ou résurgence de douleurs pancréatiques chroniques
-  - Survenue de pancréatite aiguë
-  - Amaigrissement > 10%
-  - Majoration de l'insuffisance exocrine
-  - Cholestase d'apparition récente
-  - Ictère
-
-Recherche par scanner abdominal ET IRM pancréatique.
-
-### Quand rechercher un cancer du pancréas en cas de pancréatite aiguë idiopathique ?
-
-Indication: pancréatite aiguë idiopathique chez un sujet de plus de 40 ans.  
-Recherche par scanner ET IRM avec CPIRM et échoendoscopie si négatifs.
-
-Nouveaux examens scanners et IRM à 3, 6 et 12 mois:
-
-- puis annuellement pendant 4 ans si +40 ans
-- arrêt si -40 ans
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -234,7 +234,7 @@ Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr/).
 ### À lire
 
 - {{< references/college-endocrino >}}
-- [Ducreux M. et al. Cancer of the pancreas: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2015.](https://www.annalsofoncology.org/article/S0923-7534(19)47178-0/fulltext)
+- [Ducreux M et al. Cancer of the pancreas: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2015.](https://www.annalsofoncology.org/article/S0923-7534(19)47178-0/fulltext)
 - [Barthet M et al. Conduite à tenir devant une lésion kystique pancréatique de découverte fortuite. SFED. 2007. (PDF)](https://www.cregg.org/wordpress/wp-content/uploads/2012/07/documents-lesionkystiquepancreas.pdf)
 
 {{%/sources%}}

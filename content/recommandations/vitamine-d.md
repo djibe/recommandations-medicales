@@ -267,7 +267,7 @@ Ne pas utiliser d'autres formes de supplémentations.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Bacchetta J. et al; SFP, SFneonatalogie, AFPA et al. Vitamin D and calcium intakes in general pediatric populations: A French expert consensus paper. Archives de pédiatrie. 2022. (PDF)](https://afpa.org/content/uploads/2022/03/Vitamin-D-and-calcium-intakes-in-general-pediatric-populations-A-French-expert-consensus-paper-20-02-2022.pdf)
+- [Bacchetta J et al; SFP, SFneonatalogie, AFPA et al. Vitamin D and calcium intakes in general pediatric populations: A French expert consensus paper. Archives de pédiatrie. 2022. (PDF)](https://afpa.org/content/uploads/2022/03/Vitamin-D-and-calcium-intakes-in-general-pediatric-populations-A-French-expert-consensus-paper-20-02-2022.pdf)
 - [Anses. Vitamine D : pourquoi et comment assurer un apport suffisant ? Septembre 2021.](https://www.anses.fr/fr/content/vitamine-d-pourquoi-et-comment-assurer-un-apport-suffisant)
 - [Omedit Centre Val de Loire. Protocole de supplémentation en vitamine D en EHPAD. Décembre 2020. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/10827.pdf)
 - [Ameli. Dosage de la vitamine D. Décembre 2020.](https://www.ameli.fr/paris/laboratoire-danalyses-medicales/exercice-liberal/memos/dosage-vitamine)
