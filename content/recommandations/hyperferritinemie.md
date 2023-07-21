@@ -154,7 +154,7 @@ L'examen rechercher des signes de {{< modal-btn modal-metabolique >}}syndrome m�
 - Examen cardiovasculaire
 - Cirrhose et signes associés  
   Hypertension portale: {{< clinique/hypertension-portale >}}
-- Ictère
+- [Ictère]({{< relref "ictere.md" >}})
 - Pâleur
 - Palpation abdominale
 - Palpation des aires ganglionnaires

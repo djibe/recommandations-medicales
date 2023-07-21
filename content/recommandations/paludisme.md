@@ -29,7 +29,7 @@ todo = "Prescrire, ttt ambulatoire accès palustre"
 - Paludisme réfuté mais doute persistant: deuxième test 12-24 heures plus tard (frottis sanguin, goutte épaisse, test de diagnostic rapide)
 - Voyage tropical: protection contre les moustiques et évaluer la nécessité d'une chimioprophylaxie médicamenteuse (voir *Indication à la prophylaxie palustre*)
 - Le paludisme autochtone est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
-- Les séjours en zones d'endémie palustre sont déconseillés en cours de grossesse (*CRAT*)
+- Les séjours en zones d'endémie palustre sont déconseillés durant la grossesse (*CRAT*)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -153,7 +153,7 @@ Signes et symptômes de l'accès palustre simple de l'adulte, tableau pseudo-gri
 
 Après quelques jours, tableau d'**anémie hémolytique fébrile**:
 
-- Ictère, urines foncées
+- [Ictère]({{< relref "ictere.md" >}}), urines foncées
 - Hépatomégalie (enfant surtout)
 - [Splénomégalie]({{< relref "splenomegalie.md" >}})
 

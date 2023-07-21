@@ -145,7 +145,7 @@ Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie
 - Symptômes
   - Fièvre
   - Prurit (cutané, anal)
-  - Ictère, œdèmes, myalgies
+  - [Ictère]({{< relref "ictere.md" >}}), œdèmes, myalgies
   - Troubles du transit, anneaux dans les selles
   - [Toux](/tags/toux/), [dyspnée](/tags/dyspnee/)
   - AEG (anorexie, amaigrissement, [fatigue](/tags/fatigue/))

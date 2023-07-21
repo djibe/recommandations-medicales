@@ -59,7 +59,7 @@ Indications à la vaccination hépatite A:
   Le plus tôt possible sans sérologie préalable, délai max de 14j après les premiers signes du cas si:
   - Jamais vacciné hépatite A
   - et né après 1945
-  - et sans antécédent d'ictère
+  - et sans antécédent d'[ictère]({{< relref "ictere.md" >}})
   - et sans séjour > 1 an en zone de forte endémicité
   - Sinon: sérologie en urgence pour vaccination < 14j
 - Entourage d'un cas d'une communauté précaire  

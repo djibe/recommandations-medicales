@@ -130,13 +130,13 @@ Indications:
   - idiopathique ou par mutation, SPINK1, CTRC ou CFTR avec imagerie anormale
 - Pancréatite chronique et ≥ 1 parmi:
   - Apparition d'un diabète
-  - Décompensation d'un diabète
+  - Décompensation d'un [diabète]({{< relref "diabete-type-2.md" >}})
   - Survenue ou résurgence de douleurs pancréatiques chroniques
   - Survenue de pancréatite aiguë
   - Amaigrissement > 10%
   - Majoration de l'insuffisance exocrine
   - Cholestase d'apparition récente
-  - Ictère
+  - [Ictère]({{< relref "ictere.md" >}})
 
 Recherche par scanner abdominal ET IRM pancréatique.
 

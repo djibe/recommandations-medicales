@@ -61,7 +61,7 @@ Nécessité d'un bilan biologique en urgence
   - Douleurs abdominales et lombaires
   - Hémoglobinurie  
     Urines foncées, rouge << porto >> voire noires.
-  - Ictère
+  - [Ictère]({{< relref "ictere.md" >}})
 - [Splénomégalie]({{< relref "splenomegalie.md" >}}) en cas d'hémolyse chronique
 
 Ou chez le nourrisson: ictère néonatal.

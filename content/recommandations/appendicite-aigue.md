@@ -108,7 +108,7 @@ Chez la femme enceinte: l'utérus repousse l'appendice avec tableau de colique h
 - Pression artérielle, pouls, température
 - Inspection
   - Cicatrices abdominales
-  - Sueurs, pâleur, déshydratation (conjonctives, langue), ictère, position antalgique.  
+  - Sueurs, pâleur, déshydratation (conjonctives, langue), [ictère]({{< relref "ictere.md" >}}), position antalgique.  
   Douleur à la toux ou en sautant.
 - Palpation abdominale  
   Débutée en zone non douloureuse.

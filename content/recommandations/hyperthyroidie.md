@@ -477,7 +477,7 @@ Les corticoïdes peuvent être utilisés pour le traitement de l'hyperthyroïdie
 - Effets indésirables (agranulocytose, hépatite ...)
 - Arrêter le traitement et dosage de NFS en urgence en cas de fièvre et de signes infectieux (angine).
 - Symptômes devant faire consulter rapidement  
-  Fièvre avérée, angine, ictère, selles décolorées, urines foncées, rash prurigineux, arthralgies, douleurs abdominales, nausée, asthénie.
+  Fièvre avérée, angine, [ictère]({{< relref "ictere.md" >}}), selles décolorées, urines foncées, rash prurigineux, arthralgies, douleurs abdominales, nausée, asthénie.
 - Contraception efficace, grossesse à éviter
 
 ### Informations sur le traitement par iode radioactif (irathérapie)

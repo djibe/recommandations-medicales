@@ -101,7 +101,7 @@ Circonstances de découverte d'une hépatite B:
 
 - Incubation de 60 à 150 jours
 - Tableau d'hépatite aiguë
-  - Fatigue, anorexie, hépatalgie, syndrome pseudogrippal, ictère inconstant. Dure environ 2 semaines
+  - Fatigue, anorexie, hépatalgie, syndrome pseudogrippal, [ictère]({{< relref "ictere.md" >}}) inconstant. Dure environ 2 semaines
   - La sérologie révèle des Ag HBs et Ac anti-HBc positifs, transaminases 5-20 N
   - L'hépatite B aiguë est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
 - Infection pauci-symptomatique: [fatigue](/tags/fatigue/)

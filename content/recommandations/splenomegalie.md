@@ -127,7 +127,7 @@ Le diagnostic de splénomégalie est clinique.
 - Rechercher une hépatomégalie
 - Signes d'hypertension portale  
   {{< clinique/hypertension-portale >}}
-- Ictère cutanéomuqueux et ascite
+- [Ictère cutanéomuqueux]({{< relref "ictere.md" >}}) et ascite
 - Purpura, [angine pseudo-membraneuse]({{< relref "angine.md" >}})
 - Adénopathies périphériques
 
