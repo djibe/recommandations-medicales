@@ -67,7 +67,7 @@ Contrôler la sécurité d'utilisation d'un médicament pendant la grossesse ou 
     <label for="grossesse-crat">Médicament</label>
     <input class="form-control" id="grossesse-crat" type="search">
   </div>
-  <button class="btn btn-primary ml-3" onClick="window.open(`http://lecrat.fr/articleSearchSaisie.php?recherche=${document.getElementById('grossesse-crat').value}`); return false;">Rechercher</button>
+  <button class="btn btn-primary ml-3" onClick="window.open(`http://le-crat.fr/articleSearchSaisie.php?recherche=${document.getElementById('grossesse-crat').value}`); return false;">Rechercher</button>
 </form>
 
 {{< references/le-crat >}}

@@ -530,7 +530,7 @@ Informer:
 Si crises invalidantes persistantes:
 
 - Traitements non pharmacologiques: activité physique, acupuncture, TENs
-- [Propranolol](http://lecrat.fr/articleSearchSaisie.php?recherche=propranolol) ou métoprolol en 1<sup>re</sup> intention
+- [Propranolol](http://le-crat.fr/articleSearchSaisie.php?recherche=propranolol) ou métoprolol en 1<sup>re</sup> intention
 - Amitriptyline en 2<sup>e</sup> intention
 
 Utiliser les doses minimales efficaces et arrêter les traitements avant l'accouchement.  

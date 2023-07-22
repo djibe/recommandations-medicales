@@ -17,7 +17,7 @@ icd10 = "E66.9"
 draft = true
 image = false
 imageSrc = ""
-todo = "stats Constances, FLI HAS22 p15, HAS 23 screenshots, << personne en obésité >>, obésité et Grossesse HAS 23 p23, relation IMC-mortalité Bray 1985"
+todo = "GPAQ, stats Constances, FLI HAS22 p15, HAS 23 screenshots, << personne en obésité >>, obésité et Grossesse HAS 23 p23, relation IMC-mortalité Bray 1985"
 chart = true
 +++
 
@@ -26,13 +26,13 @@ chart = true
 TODO:
 
 {{%/article-summary%}}
-{{%collapse "Définition" "show" %}}
+{{%collapse "Définition" %}}
 
-Le généraliste est considéré comme appartenant au niveau 1 de la prise en charge de l'obésité.
+Le généraliste est considéré comme appartenant au **niveau 1** de la prise en charge de l'obésité.
 
 Obésité
 : Maladie chronique la plus fréquente en nutrition (17% de la population), évolutive et sans tendance spontanée à la guérison. Elle est définie comme une maladie car elle affecte le bien-être physique, social et psychologique.
-: Pour l'OMS: l'obésité est un << excès de masse grasse entraînant des conséquences néfastes pour la santé >>. Pour approcher cette masse grasse, on utilise la corpulence avec l'**indice de masse corporelle** (IMC, en kg/m²) ou indice de Quételet.
+: Pour l'OMS l'obésité est un << excès de masse grasse entraînant des conséquences néfastes pour la santé >>. Pour approcher cette masse grasse, on utilise la corpulence avec l'**indice de masse corporelle** (IMC, en kg/m²) ou indice de Quételet.
 : Chez l'adulte jeune en bonne santé, la masse grasse représente 10-15% du poids chez l'homme et 20-25% chez la femme.
 : Les déterminants du poids sont eux aussi multiples: environnementaux, psychologiques, sociaux, génétiques.
 
@@ -46,20 +46,20 @@ Obésité
 {{< /table >}}
 
 Obésité abdominale
-: Définition OMS 1998 pour les caucasiens: tour de taille de 88 cm ou plus pour une femme et 102 cm pour un homme.
+: Définition *OMS 1998* pour les caucasiens: tour de taille de 88 cm ou plus pour une femme et 102 cm pour un homme.
 : L'accumulation de graisse viscérale est associée à l'augmentation de la **mortalité cardiovasculaire** et des maladies métaboliques.
-: Le tour de taille se mesure: bras le long du corps en fin d'expiration normale, à mi-chemin entre le bord inférieur de la dernière côte palpable et le sommet de la crête iliaque.
+: La mesure du tour de taille: bras le long du corps en fin d'expiration normale, à mi-chemin entre le bord inférieur de la dernière côte palpable et le sommet de la crête iliaque.
 
 Échec de prise en charge de l'obésité
-: Selon HAS 2022: perte de poids inférieure à 5% à un an ou absence de son maintien avec: poursuite de la prise de poids, incapacité à modifier durablement ses comportements ou aggravation des complications liées à l'obésité.
-: En cas d'échec à 6-12 mois, le patient doit être orienté vers un nutritionniste (niveau 2) qui pourra l'adresser à un centre spécialisé de l'obésité (CSO, niveau 3).
+: Définition *HAS 2022*: perte de poids inférieure à 5% à un an ou absence de son maintien avec: poursuite de la prise de poids, incapacité à modifier durablement ses comportements ou aggravation des complications liées à l'obésité.
+: En cas d'échec à 6-12 mois, le patient doit être orienté vers un **nutritionniste** (niveau 2) qui pourra l'adresser à un **centre spécialisé de l'obésité** (CSO, niveau 3).
 
 Restriction cognitive
 : << Limitation volontaire des apports alimentaires avec possibles privations, dans le but de contrôler son poids >> (*CEEDMM*).
 
 ### Épidémiologie de l'obésité en France
 
-- 1 adulte sur 2 est en surpoids ou en obésité (47,3%, *ObÉpi 2020*)
+- 1 adulte sur 2 est en surpoids ou en situation d'obésité (47,3%, *ObÉpi 2020*)
 - Prévalence de l'obésité: 17,4% chez la femme et 16,7% chez l'homme
 
 {{< figure-chart title="Évolution de la prévalence de l'obésité chez l'adulte en France de 1997 à 2020. Dr JB Fron d'après ObÉpi 2020" >}}
@@ -89,7 +89,7 @@ const chartOptions = {
 </script>
 <figure class="figure-chart">
   <div id="chart2"></div>
-  <figcaption><b>Figure 2.</b> Évolution de la prévalence de l'obésité selon l'âge de 1997 à 2020. Dr JB Fron d'après ObÉpi 2020. NB : les abscisses ne sont pas linéaires</figcaption>
+  <figcaption><b>Figure 2.</b> Évolution de la prévalence de l'obésité selon l'âge de 1997 à 2020. Dr JB Fron d'après ObÉpi 2020. NB: les abscisses ne sont pas linéaires.</figcaption>
 </figure>
 <script>
 const chartOptions2 = {
@@ -157,6 +157,7 @@ TCA
 {{%collapse "Clinique" %}}
 
 > << Demander l'accord de la personne pour aborder le poids >> (*HAS 2023*)
+{.alert .alert-info}
 
 ### Interrogatoire
 

@@ -67,7 +67,7 @@ SNFGE
 : Société Nationale Française de Gastro-Entérologie
 
 TCA
-: trouble du comportement alimentaire
+: trouble des conduites alimentaires
 {.dl-inline}
 
 {{% /collapse %}}

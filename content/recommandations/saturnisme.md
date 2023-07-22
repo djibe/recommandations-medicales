@@ -35,7 +35,7 @@ Le plomb est un toxique sans rôle physiologique, il s'accumule principalement d
 : Le saturne était le plomb chez les grecs
 
 Pica
-: Trouble du comportement alimentaire caractérisé par l'ingestion prolongée (> 1 mois) de substances non comestibles non nutritives.
+: Trouble es conduites alimentaires caractérisé par l'ingestion prolongée (> 1 mois) de substances non comestibles non nutritives.
 
 ### Épidémiologie du saturnisme
 

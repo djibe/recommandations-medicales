@@ -6,13 +6,13 @@ description = "Quels périphériques pour le PC du médecin ? Conseils sur les �
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T19:15:00+02:00"
 publishdate = "2022-05-15"
-lastmod = "2022-10-21"
+lastmod = "2023-07-21"
 specialites = []
 annees = "2023"
 sources = []
 tags = []
 image = true
-imageSrc = "Illustration par macrovector / Freepik"
+imageSrc = "macrovector / Freepik"
 todo = "https://www.clubic.com/materiel-informatique/imprimante/article-851535-1-meilleure-imprimante-laser-comparatif.html + UFC"
 +++
 
@@ -30,10 +30,10 @@ Imprimantes choisies par 01Net et UFC Que Choisir.
 Imprimantes laser monochromes Wi-Fi (non multifonction) permettant d'utiliser des **toners compatibles moins chers** (ex: 18€ contre les 80€ officiels grâce aux boutiques *CartoucheMania*, *Tinkco*, *Toner.fr* ...), triées par note *UFC Que Choisir* et mon coup de cœur en premier:
 
 - [Choix: Brother HL-L2350DW (vitesse, petite taille, R/V, coût d'utilisation) - 140€](https://ledenicheur.fr/product.php?p=4549237)
-- [Brother HL-L2375DW (idem + réseau) - 175€](https://ledenicheur.fr/product.php?p=4533630)
-- [HP Laser 107W - 300€](https://ledenicheur.fr/product.php?p=5184291)
+- [Brother HL-L2375DW (idem + réseau) - 160€](https://ledenicheur.fr/product.php?p=4533630)
+- [HP Laser 107W - 200€](https://ledenicheur.fr/product.php?p=5184291)
 - Canon i-Sensys LBP113w (pas de toners compatibles ++, réseau)
-- [HP Laserjet Pro M404dw - 280€](https://ledenicheur.fr/product.php?p=5135208)
+- [HP Laserjet Pro M404dw - 400€](https://ledenicheur.fr/product.php?p=5135208)
 - [Canon i-Sensys LBP223dw - 250€ (réseau)](https://ledenicheur.fr/product.php?p=6030116)
 {.list-group}
 
@@ -91,12 +91,11 @@ Autres modèles QHD [parmi cette liste](https://ledenicheur.fr/c/ecrans?1705=271
 
 Sinon, vous pouvez prendre un écran FullHD (1920 x 1080 pixels, au risque de voir les pixels rendant la lecture difficile)
 
-- [ViewSonic XG2705-2K - 250€](https://ledenicheur.fr/product.php?p=5699238)
 - [Iiyama G-Master GB2730HSU-B1 - 200€](https://ledenicheur.fr/product.php?p=4807294)
-- [Iiyama G-Master GB2766HSU-B1 - 250€](https://ledenicheur.fr/product.php?p=5823764)
+- [Iiyama G-Master GB2766HSU-B1 - 220€](https://ledenicheur.fr/product.php?p=5823764)
 {.list-group}
 
-Autres: [Acer Nitro XV272UP](https://ledenicheur.fr/product.php?p=5008145), [Philips E-Line 275E2FAE](https://ledenicheur.fr/product.php?p=5577074), [ASUS VA27AQSB](https://ledenicheur.fr/product.php?p=5594415), [ASUS PB278QV](https://ledenicheur.fr/product.php?p=5232617), [AOC I2790PQU](https://ledenicheur.fr/product.php?p=4390158), [Lenovo Q27h-10 (stylé, non réglable)](https://ledenicheur.fr/product.php?p=5362929)
+Autres: [Philips E-Line 275E2FAE](https://ledenicheur.fr/product.php?p=5577074), [ASUS VA27AQSB](https://ledenicheur.fr/product.php?p=5594415), [Lenovo Q27h-10 (stylé, non réglable)](https://ledenicheur.fr/product.php?p=5362929)
 
 {{% /collapse %}}
 {{%collapse "Claviers et souris" %}}
@@ -109,29 +108,28 @@ Classement composite d'après *LesNumerique*, *01Net* et autres, par ordre de qu
 ### Claviers sans fil
 
 - [Logitech MX Keys - 100€](https://ledenicheur.fr/product.php?p=5184669)
-- [Logitech Wireless Illuminated Keyboard K800 - 110€](https://ledenicheur.fr/product.php?p=3334273)
+- [Logitech Wireless Illuminated Keyboard K800 - 100€](https://ledenicheur.fr/product.php?p=3334273)
 {.list-group}
 
 ### Souris
 
-- [Logitech MX Master 3S - 120€ (grandes mains)](https://ledenicheur.fr/product.php?p=6496148)
-- [Logitech MX Master 3 - 90€ (grandes mains)](https://ledenicheur.fr/product.php?p=5184666)
+- [Logitech MX Master 3S - 100€ (grandes mains)](https://ledenicheur.fr/product.php?p=6496148)
+- [Logitech MX Master 3 - 150€ (grandes mains)](https://ledenicheur.fr/product.php?p=5184666)
 - [Razer Pro Click - 100€](https://ledenicheur.fr/product.php?p=5542256)
-- [Logitech MX Anywhere 3 - 100€ (petites mains)](https://ledenicheur.fr/product.php?p=5542303)
-- [Logitech Lift - 70€ (ergonomique)](https://ledenicheur.fr/product.php?p=6220032)
+- [Logitech MX Anywhere 3 - 60€ (petites mains)](https://ledenicheur.fr/product.php?p=5542303)
+- [Logitech Lift - 60€ (ergonomique)](https://ledenicheur.fr/product.php?p=6220032)
 - [Logitech MX Anywhere 2S - 55€ (petites mains)](https://ledenicheur.fr/product.php?p=4354037)
 - [Steelseries Rival 3 Wireless - 40€](https://ledenicheur.fr/product.php?p=5576780)
 - [Razer Pro Click Mini - 80€ (petites mains)](https://ledenicheur.fr/product.php?p=5935454)
 - [Logitech G Pro Wireless - 80€](https://ledenicheur.fr/product.php?p=4960533)
 - [Microsoft Classic Intellimouse - 35€](https://ledenicheur.fr/product.php?p=4526662)
-- [Trust Verto (ergonomique recommandée par un Divanais) - 17€](https://www.amazon.fr/Trust-22879-Souris-Noir/dp/B07FM2GLNQ/ref=sr_1_5)
+- [Trust Verto (ergonomique recommandée par un Divanais) - 30€](https://www.amazon.fr/Trust-22879-Souris-Noir/dp/B07FM2GLNQ/ref=sr_1_5)
 {.list-group}
 
 ### Ensembles clavier-souris
 
-- [Logitech MX900 - 160€](https://ledenicheur.fr/product.php?p=4808119)
-- [Cherry DW 9100 Slim - 110€ (aussi en gris)](https://ledenicheur.fr/product.php?p=5937326)
-- [Logitech MK850 - 110€](https://ledenicheur.fr/product.php?p=4137179)
+- [Cherry DW 9100 Slim - 90€ (aussi en gris)](https://ledenicheur.fr/product.php?p=5937326)
+- [Logitech MK850 - 90€](https://ledenicheur.fr/product.php?p=4137179)
 - [Logitech MK470 - 50€](https://ledenicheur.fr/product.php?p=5205505)
 {.list-group}
 
@@ -140,8 +138,10 @@ Classement composite d'après *LesNumerique*, *01Net* et autres, par ordre de qu
 
 Webcams avec une qualité d'image suffisante pour une téléconsultation et avec un microphone intégré.
 
-- [Logitech HD Pro Webcam C920S - 72€ (FullHD)](https://ledenicheur.fr/product.php?p=5064507)
-- [Microsoft LifeCam HD-3000 - 25€ (image 720p)](https://ledenicheur.fr/product.php?p=829887)
+- [Logitech StreamCam - 105€ (FullHD)](https://ledenicheur.fr/product.php?p=5278071)
+- [Logitech HD Pro Webcam C920S - 80€ (FullHD)](https://ledenicheur.fr/product.php?p=5064507)
+- [Logitech HD Pro Webcam C920 - 80€ (FullHD)](https://ledenicheur.fr/product.php?p=1027960)
+- [Microsoft LifeCam HD-3000 - 25€ (720p)](https://ledenicheur.fr/product.php?p=829887)
 {.list-group}
 
 {{% /collapse %}}
@@ -153,8 +153,6 @@ Il faut bien noter que les câbles réseaux doivent être de catégorie 5e ou pl
 
 Le routeur classique comprend 5 ports, reste à choisir la couleur et le format.
 
-- [Le mini routeur: Dlinkgo GO-SW-5G - 15€](https://www.grosbill.com/switch/d-link/20669.aspx?utm_source=flux_awin&utm_campaign=comparateur_prix&utm_content=produit_17169)
-- [Aperçu de modèles, disponibles dans différentes boutiques](https://www.grosbill.com/2-switch_reseau-cat-reseaux?order=i%3ad%3bp%3aa%3b&crits=1527%3a4227%3a4228%3a984)
-{.list-group}
+[Le mini routeur: Dlinkgo GO-SW-5G - 15€](https://www.grosbill.com/switch/d-link/20669.aspx?utm_source=flux_awin&utm_campaign=comparateur_prix&utm_content=produit_17169)
 
 {{% /collapse %}}

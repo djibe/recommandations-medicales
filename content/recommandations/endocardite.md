@@ -116,8 +116,8 @@ Recommandations sur les mesures de prévention à respecter par les personnes à
 - Éducation du patient  
   Consulter rapidement en cas de fièvre, hygiène corporelle et dentaire, pas d'automédication, déconseiller piercing et tatouage.
 - Soins dentaires
-  - Brossage des dents ≥ 2 fois/j
-  - Dentiste x 1/an avec détartrage
+  - Brossage des dents au moins 2 fois par jour
+  - Dentiste annuel avec détartrage
 - Personnes à haut risque d'endocardite
   - Dentiste x 2/an avec détartrage
   - Antibioprophylaxie lors des gestes invasifs dentaires uniquement  
@@ -132,7 +132,7 @@ Recommandations sur les mesures de prévention à respecter par les personnes à
 
 ### Antibioprophylaxie des personnes à haut risque d'endocardite infectieuse
 
-Prise orale unique (voire IV) 30-60 minutes avant le geste invasif à risque.
+Prise orale unique (voire IV) 30-60 minutes avant le geste invasif à risque:
 
 Amoxicilline 2 g (50 mg/kg chez l'enfant)
 {{%/info%}}

@@ -187,7 +187,7 @@ Traitement oral de la gale par [ivermectine en une prise de 200 µg/kg](https://
 Traitement de première intention de la gale selon le *CMIT*, à prendre au moins 2 heures avant ou après la prise de nourriture (*Prescrire*).
 
 **Contre-indications:** grossesse au premier trimestre, allaitement, poids < 15 kg, traitement par ivermectine durant le mois.  
-[Selon Le CRAT](https://lecrat.fr/articleSearchSaisie.php?recherche=ivermectine): pas de souci pendant la grossesse.
+[Selon Le CRAT](https://le-crat.fr/articleSearchSaisie.php?recherche=ivermectine): pas de souci pendant la grossesse.
 
 {{< table title="Posologie de l'ivermectine en fonction du poids pour le traitement de la gale" class="table-sm">}}
 | Poids (kg) | Nombre de cp à 3 mg |

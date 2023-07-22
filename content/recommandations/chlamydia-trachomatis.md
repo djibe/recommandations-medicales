@@ -157,7 +157,7 @@ PCR de contrôle à 6 mois
 
 #### Traitement des cas particuliers d'infections à Chlamydia
 
-- Grossesse et allaitement: l'utilisation de l'[azithromycine](http://lecrat.fr/articleSearchSaisie.php?recherche=azithromycine) est sans risques
+- Grossesse et allaitement: l'utilisation de l'[azithromycine](http://le-crat.fr/articleSearchSaisie.php?recherche=azithromycine) est sans risques
 - Personne vivant avec le VIH: azithromycine également possible
 
 {{% /collapse %}}
