@@ -108,6 +108,8 @@ L'évaluation clinique pour une gonarthrose recherche le retentissement sur les 
 - Arthrose fémoro-patellaire  
   Douleur augmentée: extension contrariée de jambe, palpation de rotule et pression genou fléchi, rabot, manœuvre de Zohlen (douleur en maintien de rotule lors de contraction du quadriceps).
 
+[Examen vidéo COFER du genou](http://www.lecofer.org/semiologie.php)
+
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 

@@ -17,7 +17,7 @@ sctid = "44054006"
 icd10 = "E11"
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "EASD 2021 Table 2.3 et 2.4, GRADE PODO +++ dont p.68 et p.76 et p.90, conseils nut p. 80, dépister hyperferritinémie?, glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit"
+todo = "EASD 2021 Table 2.3 et 2.4, GRADE PODO +++ dont p.68 et p.76 et p.90, conseils nut p. 80, dépister hyperferritinémie?, glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit, indications fructosamine"
 +++
 
 {{%article-summary%}}

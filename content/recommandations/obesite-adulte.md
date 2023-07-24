@@ -26,7 +26,7 @@ chart = true
 TODO:
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définition" "show" %}}
 
 Le généraliste est considéré comme appartenant au **niveau 1** de la prise en charge de l'obésité.
 

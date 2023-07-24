@@ -1,0 +1,106 @@
++++
+title = "Ténia ou tænia"
+prefix = "le "
+description = "Recommandations pour le diagnostic et la prise en charge du ténia (ou taenia). TODO:, traitement antiparasitaire par flubendazole Fluvermal et l'entourage"
+synonyms = ["Ver solitaire"]
+auteurs = ["Jean-Baptiste FRON"]
+date = "2023-07-24T09:08:00+02:00"
+publishdate = "2023-07-24"
+lastmod = "2023-07-24"
+specialites = ["infectiologie"]
+annees = "2022"
+sources = ["Collèges"]
+tags = ["prurit"]
+anglais = ["Taenia", "taeniosis", "teniasis", "taeniasis"]
+sctid = "76172008"
+icd10 = "B68.0"
+image = true
+imageSrc = "Cycle de vie du Taenia (ténia). Centers for Disease Control & Prevention, National Center for Infectious Diseases, Division of Parasitic Diseases, Public domain, via Wikimedia Commons"
++++
+
+{{%article-summary%}}
+
+- Le ténia (ver solitaire, *Taenia saginata*) est contracté par la consommation de viande de bœuf crue ou peu cuite (moins de 45°C)
+- L'infection parasitaire atteint l'intestin grêle et reste le plus souvent asymptomatique. Signes observables: aspect de tagliatelles dans les sous-vêtements ou la literie, troubles digestifs persistants (anorexie, boulimie, alternance diarrhées-constipation, douleurs épigastriques, prurit anal)
+- Le diagnostic est réalisé sur des examens parasitaires multiples: examens parasitologiques des selles, examen de vers des sous-vêtements, Scotch-test anal
+- La prise en charge du ténia comprend les mesures d'hygiène, la limitation de consommation de viande crue et le traitement par praziquantel 10 mg/kg dose unique avec un contrôle des prélèvements à 3 mois
+
+{{%/article-summary%}}
+{{%collapse "Définition" %}}
+
+Ténia (ou taeniasis)
+: Infection digestive grêlique rare par les vers plats ***Taenia saginata*** (cosmopolite dit **ver solitaire**, blanc, 4 à 10 mètres adulte) ou *Taenia solium* (2 à 8 mètres, parfois multiples, éradiqué de France) de la famille des cestodes. Elle survient suite à la consommation de viande contaminée (respectivement **bœuf** ou porc) cuite à moins de 45°C ou d'eau ou de crudités souillées. Le ténia adulte peut vivre plusieurs années.
+: L'homme peut devenir hôte pour *T. solium* avec une dissémination à l'origine d'une **cysticercose** sous-cutanée, musculaire, neurologique ou oculaire.
+
+### Abréviations
+
+Anofel
+: Association française des enseignants et praticiens hospitaliers titulaires de parasitologie et mycologie médicales
+
+CMIT
+: Collège des Universitaires des Maladies Infectieuses et Tropicales
+{.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "Clinique" %}}
+
+Le tableau clinique est souvent fruste. Signes et symptômes des ténias ou tæniasis:
+
+- Infection cosmopolite
+- Consommation de viande contaminée (bovin, porcin), viande crue à risque
+- **Asymptomatique** le plus souvent
+- Anneaux en formes de **tagliatelles** dans les sous-vêtements ou la literie (*T. saginata*)
+- Signes digestifs
+  - Anorexie ou [boulimie]({{< relref "boulimie-hyperphagie.md" >}})
+  - Nausées ou vomissements
+  - Troubles du transit avec alternance de diarrhées et constipation
+  - Ballonnements
+  - Douleurs épigastriques ou pseudo-appendiculaires
+  - Prurit anal
+- Signes extra-digestifs
+  - [Urticaire]({{< relref "urticaire.md" >}})
+  - Irritabilité, troubles du sommeil
+  - Palpitations, réactions vasomotrices
+
+Les complications sont rares par obstruction mécanique: tableau de colique hépatique, pancréatite aiguë ou [appendicite]({{< relref "appendicite-aigue.md" >}}).
+
+{{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+Prélèvements parasitologiques multiples pour le diagnostic des ténias:
+
+- Scotch-test anal
+- Examen parasitologique des selles répétés pendant 3 jours
+- Si anneaux blancs rectangulaires plats dans les sous-vêtements ou la literie (*T. saginata*): examen parasitologique direct
+
+Le diagnostic peut être réalisé avec le **<< Scotch®-test >> anal** (test de Graham ou test à la cellophane adhésive).
+
+Application matinale de ruban adhésif transparent sur la marge anale le matin (en déplissant les plis radiés de l'anus) puis recollé sur une surface porte-objet et analyse au laboratoire pour la mise en évidence des œufs.
+
+Une [éosinophilie]({{< relref "hypereosinophilie.md" >}}) modérée est parfois observée.
+
+{{% /collapse %}}
+{{%collapse "Traitement du ténia" %}}
+
+Le taeniasis doit toujours être traité
+{.alert .alert-info}
+
+La prise en charge du ténia associe:
+
+- Éviter de manger de la viande bovine ou de porc crue ou peu cuite (ou la congeler)
+- Lavage des mains régulier
+- Couper les ongles courts et les brosser
+- Changer et laver le linge de nuit à 60°C
+- Antiparasitaire: [praziquantel](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60996403&typedoc=R) 10 mg/kg (Biltricide® hors AMM) en 1 prise (y compris pendant la grossesse, [CRAT](http://www.le-crat.fr/articleSearchSaisie.php?recherche=praziquantel))
+- Contrôle parasitaire 3 mois après le traitement
+
+En cas d'autres parasitoses digestives associées: albendazole à 400 mg/j pendant 3 jours avec nouveau cycle de traitement à 2 ou 3 semaines.
+
+{{% /collapse %}}
+{{%sources%}}
+
+- Prescrire Redaction. Ver solitaire. Rev Prescrire. 2023.
+- Anofel. Chapitre 22: Tæniasis et cysticercose. 2022.
+- [CMIT. Parasitoses digestives : giardiose, amoebose, téniasis, ascaridiose, oxyurose. Item 172. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-172-web.pdf)
+
+{{%/sources%}}

@@ -10,14 +10,11 @@ rssLimit = 30
 summaryLength = 10
 title = "RecoMédicales"
 
-[permalinks]
-  recommandations = "/recommandations/:filename/"
-
 [taxonomies]
   specialite = "specialites"
   tag = "tags"
   annee = "annees"
-  # source = "sources"
+  score = "scores"
 
 [params]
   author = "Jean-Baptiste FRON"

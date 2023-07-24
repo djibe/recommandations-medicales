@@ -16,15 +16,15 @@ anglais = ["Yellow fever"]
 sctid = "16541001"
 icd10 = "A95.9"
 image = true
-imageSrc = "Moustique de la fièvre jaune, Aedes aegypti en cours d'aspiration. James Gathany, domaine public via Wikimedia Commons"
+imageSrc = "Moustique de la fièvre jaune, *Aedes aegypti*. James Gathany, domaine public via Wikimedia Commons"
 todo = "clinique, prevention piqures"
 +++
 
 {{%article-summary%}}
 
-Maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}).
+La fièvre jaunes et une maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}).
 
-Vaccination contre la fièvre jaune:
+La vaccination contre la fièvre jaune est:
 
 - Obligatoire pour tout séjour en Guyane, dès 9 mois et certains pays
 - Indispensable pour tous les pays endémiques ou épidémiques

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-09-26T14:50:48+02:00"
 publishdate = "2022-10-20"
-lastmod = "2022-10-20"
+lastmod = "2023-07-24"
 specialites = ["psychiatrie"]
 annees = "2019"
 sources = ["HAS", "FFAB"]
@@ -53,6 +53,7 @@ Le vécu douloureux du trouble impose de faire preuve de bienveillance et d'empa
 
 Autres causes d'hyperphagie secondaire d'origine organique:
 
+- [Ténia]({{< relref "tenia.md" >}})
 - Tumeur cérébrale frontale
 - Épilepsie partielle
 - Syndrome démentiel
@@ -176,6 +177,7 @@ L'interrogatoire explore également:
   - Automutilations ou boulimie sévère: rechercher des antécédents d'abus ou de troubles de la personnalité
   - Obésité et crises boulimiques: rechercher un trouble bipolaire
   - Homme: envisager la recherche de signes de schizophrénie
+- Diagnostic différentiel: signes de [ténia]({{< relref "tenia.md" >}}), hyperthyroïdie, Cushing ...
 
 Envisager la recherche de schizophrénie chez tout homme atteinte de TCA
 {.alert .alert-warning}

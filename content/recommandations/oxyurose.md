@@ -15,7 +15,7 @@ anglais = ["Enterobiasis", "oxyuriasis", "pinworm infection"]
 sctid = "266162007"
 icd10 = "B80"
 image = true
-imageSrc = "2 femelles *Enterobius vermicularis* signant une oxyurose. Erich gasboy, CC BY, via Wikimedia Commons"
+imageSrc = "Deux femelles *Enterobius vermicularis* signant une oxyurose. Erich gasboy, CC BY, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}
@@ -30,7 +30,7 @@ imageSrc = "2 femelles *Enterobius vermicularis* signant une oxyurose. Erich gas
 {{%collapse "Définition" %}}
 
 Oxyurose
-: Infection digestive par l'helminthe strictement humain *Enterobius vermicularis*.
+: Infection digestive par l'helminthe strictement humain *Enterobius vermicularis*, dit oxyure, de la famille des nématodes intestinaux.
 
 ### Abréviations
 
@@ -79,7 +79,7 @@ Autres causes de prurit anal:
 
 Le diagnostic peut être réalisé avec le **<< Scotch®-test >> anal** (test de Graham ou test à la cellophane adhésive).
 
-Application matinale de ruban adhésif transparent sur la marge anale le matin puis recollé sur une surface porte-objet et analyse au laboratoire pour la mise en évidence des œufs.
+Application matinale de ruban adhésif transparent sur la marge anale le matin (en déplissant les plis radiés de l'anus) puis recollé sur une surface porte-objet et analyse au laboratoire pour la mise en évidence des œufs.
 
 Une [éosinophilie]({{< relref "hypereosinophilie.md" >}}) peut également être observée.
 

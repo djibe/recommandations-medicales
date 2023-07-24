@@ -137,6 +137,8 @@ Symptômes nécessitant des examens en semi-urgence:
 
 Si survient pendant la grossesse, 50% guérison à 1 an.
 
+[Examen vidéo COFER du syndrome du canal carpien](http://www.lecofer.org/video-semiologie-334.php)
+
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 

@@ -77,8 +77,8 @@ SNFCP
 - Poids, taille, IMC et variations
 - Examen neurologique
 - Examen pelvien  
-  Inspection, toucher rectal avec effort de poussée (sphincter, masse, fécalome).
-- Femme: [prolapsus génital]({{< relref "prolapsus-genital-femme.md" >}})
+  Inspection, toucher rectal avec effort de poussée (sphincter, masse, fécalome)
+- Femme: toucher vaginal, [prolapsus génital]({{< relref "prolapsus-genital-femme.md" >}})
 
 Des antécédents digestifs, une anomalie ou un doute à l'examen clinique nécessite un avis spécialisé (NDLR).
 
@@ -134,6 +134,8 @@ Traitements spécialisés possibles selon les anomalies retrouvées au bilan com
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< youtube id="gniC0GCA4rY" title="Incontinence anale : que retenir ? (TutoGastro SNFGE 2023)" >}}
 
 - [Assmann S et al. Guideline for the diagnosis and treatment of Faecal Incontinence - A UEG/ESCP/ESNM/ESPCG collaboration. United European Gastroenterol J. 2022.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.12213)
 - [Paquette I et al. The American Society of Colon and Rectal Surgeons' Clinical Practice Guideline for the Treatment of Fecal Incontinence. Diseases of the Colon & Rectum. 2015.](https://journals.lww.com/dcrjournal/Fulltext/2015/07000/The_American_Society_of_Colon_and_Rectal_Surgeons_.2.aspx)

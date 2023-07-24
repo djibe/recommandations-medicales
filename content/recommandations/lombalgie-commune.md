@@ -146,7 +146,9 @@ Arrêt > 4 semaines: rechercher drapeaux bleus et noirs et expertise avec le *m�
 - Mobilités du rachis lombaire
 - Examen neurologique des membres inférieurs
 - Signes négatifs
-  - Douleurs: sacro-iliaques, hanches, fessiers
+  - Douleurs: épines lombaires, sacro-iliaques, hanches, fessiers
+
+[Examen vidéo COFER du rachis lombaire](http://www.lecofer.org/semiologie.php)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
