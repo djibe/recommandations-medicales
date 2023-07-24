@@ -1,7 +1,7 @@
 +++
 title = "Ténia ou tænia"
 prefix = "le "
-description = "Recommandations pour le diagnostic et la prise en charge du ténia (ou taenia). TODO:, traitement antiparasitaire par flubendazole Fluvermal et l'entourage"
+description = "Recommandations pour le diagnostic et la prise en charge du ténia (ou taenia). Examen parasitologique des selles et traitement antiparasitaire par praziquantel"
 synonyms = ["Ver solitaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-24T09:08:00+02:00"
@@ -85,7 +85,7 @@ Une [éosinophilie]({{< relref "hypereosinophilie.md" >}}) modérée est parfois
 Le taeniasis doit toujours être traité
 {.alert .alert-info}
 
-La prise en charge du ténia associe:
+La prise en charge des ténias associe:
 
 - Éviter de manger de la viande bovine ou de porc crue ou peu cuite (ou la congeler)
 - Lavage des mains régulier
