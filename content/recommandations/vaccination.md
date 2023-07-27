@@ -302,6 +302,7 @@ Documents pour informer sur la vaccination:
 ### À lire
 
 - [HAS. Obligations et recommandations vaccinales des professionnels : Actualisation des recommandations et obligations pour les étudiants et professionnels des secteurs sanitaire, médicosocial et en contacts étroits avec de jeunes enfants. 2023.](https://www.has-sante.fr/jcms/p_3424589/fr/obligations-vaccinales-des-professionnels-la-has-publie-le-1er-volet-de-ses-travaux)
+- [Cohen R. Administration des vaccins par voie intramusculaire. Médecine & enfance. 2021. (PDF)](https://www.infovac.fr/docman-marc/public/pratiques-vaccinales/1874-ia-intramusculaire-me-decine-et-enfance/file)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Vaccinations. Infections urinaires. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/vaccinations)
 
 {{%/sources%}}

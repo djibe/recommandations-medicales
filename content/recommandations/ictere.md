@@ -166,7 +166,7 @@ Le traitement et la prise en charge de l'ictère dépend de l'étiologie retrouv
 {{% /collapse %}}
 {{%collapse "Prise en charge d'un ictère" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour la prise en charge d'un ictère. Dr JB Fron d'après CDU-HGE 2022" >}}
+{{< mermaid title="Conduite à tenir pour la prise en charge d'un ictère chez un adulte. Dr JB Fron d'après CDU-HGE 2022" >}}
 graph TB
 ictère[Ictère] --> clinique(Examen clinique) --> biologie("<b>Bilan</b><br>—<br>- NFS<br>- Bili totale et conjuguée<br>- ASAT, ALAT, GGT, PAL")
 style ictère stroke:#4150f5, stroke-width:1px

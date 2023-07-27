@@ -19,7 +19,7 @@ icd10 = ""
 flowchart = true
 image = true
 imageSrc = "Illustration de la Prophylaxie pré-exposition (PrEP) par pikisuperstar / Freepik"
-todo = "gitgraph: Continu femme, Schéma continu homme, Schéma discontinu homme"
+todo = "gitgraph: Continu femme, Schéma continu homme, Schéma discontinu homme; https://mermaid.js.org/syntax/timeline.html"
 +++
 
 {{%article-summary%}}

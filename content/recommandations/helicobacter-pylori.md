@@ -536,7 +536,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 - [HAS et CNPHGE. Diagnostic de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
 - [HAS et CNPHGE. Traitement de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)
 - [Bonfils C. et Zuliani S. La prise de traitements chroniques au quotidien : évaluer les pratiques des patients et optimiser l'horaire de prise des médicaments. Sciences pharmaceutiques. 2015. dumas-01169981](https://dumas.ccsd.cnrs.fr/dumas-01169981/document)
-- [SNFGE. Infection à Helicobacter pylori de l'adulte. Conseil de pratique. Juin 2015. (PDF)](https://www.snfge.org/sites/default/files/recommandations/cp011-infection-a-helicobacter-pylori-de-ldulte_2015-06.pdf)
+- [Delchier JC, Courillon-Mallet A, Lamarque D. Infection à Helicobacter pylori de l'adulte. Conseil de pratique. SNFGE. 2015. (PDF)](https://www.snfge.org/download/file/fid/1721)
 - [HAS. Dépistage de l'infection à Helicobacter pylori. Avril 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-08/synthese_-_depistage_de_linfection_a_helicobacter_pylori.pdf)
 - [Groupe d'Études Français des Helicobacter (GEFH). Site officiel.](http://www.helicobacter.fr)
 

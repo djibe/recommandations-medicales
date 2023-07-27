@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-22T12:09:36+01:00"
 publishdate = "2022-04-07"
-lastmod = "2023-07-14"
+lastmod = "2023-07-24"
 specialites = ["pediatrie"]
 annees = "2020"
 sources = ["SPILF", "ANSM", "MinSanté"]
@@ -17,7 +17,7 @@ icd10 = "B01.9"
 image = true
 imageSrc = "Lésion vésiculeuse typique de varicelle peu après son apparition. Devient trouble en 1 à 2 jours. Par F malan, CC BY-SA 3.0, via Wikimedia Commons"
 flowchart = true
-todo = "vérif co-vaccination ROR, varicelle récidivante"
+todo = "vérif co-vaccination ROR, https://pap-pediatrie.fr/sites/pap-pediatrie.fr/files/01_contage_varicelleux_chez_lenfant_fig1.gif"
 +++
 
 {{%article-summary%}}
@@ -46,12 +46,14 @@ Varicelle
 
 ### Complications de la varicelle
 
-- Surinfections bactériennes cutanées: impétigo  
-  Jusqu'à 50% chez l'enfant. Surtout *S. aureus* et *S. pyogenes*.
+- Surinfections bactériennes cutanées
+  - Impétigo voire [dermohypodermites]({{< relref "erysipele.md" >}}) et fasciite nécrosante
+  - Abcès, lésions nécrotiques, toxine exfoliante
+  - Jusqu'à 50% chez l'enfant. Surtout *S. aureus* et *S. pyogenes*.
 - Neurologique  
-  Cérébellite bénigne (1/4000), méningo-encéphalite (1/40.000), syndrome de Reye (encéphalopathie aiguë et hépatique).
+  Cérébellite bénigne (1/4000), méningo-encéphalite (1/40.000), **syndrome de Reye** (encéphalopathie aiguë et hépatique en cas de prise d'**aspirine**).
 - Pneumopathie varicelleuse  
-  Pneumopathie interstitielle: toux, dyspnée majeure. Surtout < 6 mois et adulte.
+  Pneumopathie interstitielle: toux, dyspnée majeure. Surtout avant 6 mois et chez l'adulte.
 - Complications exceptionnelles  
   Hépatite, thrombopénie secondaire, néphropathie, arthrite, thrombose, complication oculaire, péricardite, pancréatite, orchite.
 - Varicelle congénitale  
@@ -61,7 +63,7 @@ Varicelle
 
 En France, à la différence des autres grands pays, la vaccination contre la varicelle n'est pas proposée à partir d'un an à cause de la défiance antivax (*Infovac*).
 
-- Incidence: 700.000 cas/an avec forte variation saisonnière (90% chez 1-14 ans)
+- Incidence: 700.000 cas/an avec forte variation saisonnière (90% des cas avant 10 ans)
 - Hospitalisations: 3000/an
 - Mortalité: 1,4-2/100.000 (x10 après 45 ans)
 - 350-550 cas gravidiques annuels estimés et complications fréquentes chez l'adulte
@@ -89,16 +91,20 @@ VZV
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+<< les personnes immunodéprimées doivent être considérées comme non protégées, même en cas de sérologie précédemment positive et surveillées pendant les 28 jours qui suivent le contage >> (*PAP Pédiatrie*)
+{.alert .alert-warning}
+
 Toujours rechercher des complications de la varicelle: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans
 {.alert .alert-info}
 
 Tableau d'[éruption fébrile](/tags/eruption-febrile/):
 
-- Antécédent de varicelle
+- Absence d'antécédent de varicelle, de zona ou de vaccination  
+  ou nourrisson de moins de 3 mois avec mère immunisée.
 - Statut immunitaire de la famille
 - Contacts avec personnes fragiles  
-  Nourrissons, femmes enceintes, immunodéprimés...
-- Incubation 14 jours ± prodromes  
+  Nourrissons, femmes enceintes, immunodéprimés ...
+- Incubation **14 jours** ± prodromes  
   Fièvre 38,5°C, céphalées, douleurs abdominales.
 - Exanthème maculaire prurigineux: cuir chevelu, face, tronc  
   - Macules (inconstantes) se transforment en quelques heures en **vésicules à liquide clair** entourées d'érythème à contour irrégulier
@@ -110,7 +116,9 @@ Tableau d'[éruption fébrile](/tags/eruption-febrile/):
 - Diagnostic différentiel  
   Prurigo strophulus (réaction aux piqûres d'insectes), zona généralisé de l'immunodéprimé, infections à poxvirus.
 
-Évolution de la varicelle spontanément favorable en 10-15 jours, sauf chez les personnes à risque.
+La varicelle a une évolution spontanément favorable en 10-15 jours, sauf chez les personnes à risque.
+
+Les nourrissons sont protégés pendant 3-6 mois par les anticorps maternels. La contamination est **anténatale** si elle survient dans les 10 jours suivant la naissance.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -181,7 +189,8 @@ Période de contagiosité: J-2 à J+4 de l'apparition des vésicules ou par voie
 
 Recommandations pour la prise en charge de la varicelle:
 
-- Statut sérologique de l'entourage (± vaccination dans les 3 jours)
+- Statut sérologique de l'entourage  
+  Vaccination dans les 3 jours si +12 ans non immun (sauf grossesse).
 - Contre-indication aux AINS/aspirine/corticoïdes
 - L'éviction scolaire n'est plus recommandée (*CMIT 2020*)
   - Sinon éviction scolaire jusqu'au stade croûteux
@@ -297,8 +306,10 @@ style grossesse stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%sources%}}
 
-- [ANSM. Anti-inflammatoires non stéroïdiens (AINS) et complications infectieuses graves. 28/04/2023.](https://ansm.sante.fr/actualites/anti-inflammatoires-non-steroidiens-ains-et-complications-infectieuses-graves)
 - {{< references/calendrier-vaccinal >}}
+- [ANSM. Anti-inflammatoires non stéroïdiens (AINS) et complications infectieuses graves. 28/04/2023.](https://ansm.sante.fr/actualites/anti-inflammatoires-non-steroidiens-ains-et-complications-infectieuses-graves)
+- [Grimprel E, Launay E, Bruel H, Pinquier D; SFP. Contage varicelleux chez l'enfant. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/immuno-infectio-parasito/contage-varicelleux-chez-lenfant)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
 - [ANSM. Varitect CP. 2021.](https://ansm.sante.fr/tableau-acces-derogatoire/varitect-cp)
 - [Pinquier D. et al. Vaccin contre la varicelle. Infovac. Avril 2019.](https://www.infovac.fr/docman-marc/public/fiches/1471-fiche-varicelle/file)
 - [Floret D; SFP. Conduite à tenir devant un contage varicelleux chez une femme enceinte ou un nouveau-né. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/conduite-tenir-devant-un-contage-varicelleux-chez-une-femme-enceinte-ou-un)
@@ -309,7 +320,7 @@ style grossesse stroke:#4150f5, stroke-width:1px
 
 ### À lire
 
-- [Grimprel E, Launay E, Bruel H, Pinquier D; SFP. Contage varicelleux chez l'enfant. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
 - [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-168-web.pdf)
+- [HCSP. Guide pour l'immunisation en post-exposition : vaccination et immunoglobulines. 2016.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=548)
 
 {{%/sources%}}

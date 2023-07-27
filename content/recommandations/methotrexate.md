@@ -160,7 +160,7 @@ La supplémentation en acide folique (vitamine B9) réduit les effets indésirab
 - Prescrire Redaction. Méthotrexate. Rev Prescrire. 2022.
 - [ANSM. Médicaments à base de méthotrexate - Recommandations visant à éviter les erreurs de prise potentiellement fatales lors de l'utilisation du méthotrexate dans le traitement des maladies inflammatoires - Lettre aux professionnels de santé. 21/07/2022.](https://www.ansm.sante.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Medicaments-a-base-de-methotrexate-Recommandations-visant-a-eviter-les-erreurs-de-prise-potentiellement-fatales-lors-de-l-utilisation-du-methotrexate-dans-le-traitement-des-maladies-inflammatoires-Lettre-aux-professionnels-de-sante)
 - [ANSM. Méthotrexate par voie orale. Lettre aux professionnels de santé. 2020. (PDF)](https://ansm.sante.fr/uploads/2021/04/07/20200409-dhpc-methotrexate.pdf)
-- [Abitbol V. Méthotrexate dans les MICI : bilan initial et suivi. SNFGE. 2019. (PDF)](https://biorecos.fr/wp-content/uploads/2019/09/M%C3%A9thotrexate-dans-les-MICI-bilan-initial-et-suivi_SNFGE_2019.pdf)
+- [Abitbol V. Méthotrexate dans les MICI : bilan initial et suivi. SNFGE. 2019. (PDF)](https://www.snfge.org/download/file/fid/4869)
 - [Daien C et al. Actualisation des Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Revue du Rhumatisme. 2019.](https://www.sciencedirect.com/science/article/pii/S1169833018301522)
 - [GETAID. Méthotrexate.](https://www.getaid.org/fiches-medicament/le-methotrexate-ledertrexate-methotrexate-metoject-nordimet-novatrex)
 - [CRI. Comment optimiser l'efficacité du méthotrexate ? (PDF)](http://www.cri-net.com/ckfinder/userfiles/files/fiches-pratiques/MTX-Dec2016/MTX_02.pdf)

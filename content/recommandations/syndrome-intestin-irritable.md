@@ -281,7 +281,7 @@ style SII stroke:#4150f5, stroke-width:1px
 - Prescrire Redaction. Troubles intestinaux bénins récurrents. 2023.
 - {{< references/college-gastro >}}
 - [Vasant D et al. British Society of Gastroenterology guidelines on the management of irritable bowel syndrome. Gut. 2021.](https://gut.bmj.com/content/70/7/1214)
-- Sabaté JM, Jouët P; SNFGE, GFNG. Prise en charge du Syndrome de l'Intestin Irritable (SII). Conseil de pratique. 2016.
+- [Sabaté JM, Jouët P. Prise en charge du Syndrome de l'Intestin Irritable (SII). Conseil de pratique. SNFGE, GFNG. 2016. (PDF)](https://www.snfge.org/download/file/fid/4871)
 - [Conseil National Professionnel d'Hépato-Gastroentérologie (CNP-HGE). Syndrome de l'intestin irritable.](https://www.cnp-hge.fr/syndrome-de-lintestin-irritable/)
 - [SNFGE. Syndrome de l'intestin irritable (SII).](https://www.snfge.org/content/syndrome-de-lintestin-irritable-sii)
 

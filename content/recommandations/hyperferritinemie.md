@@ -245,7 +245,7 @@ accTitle: Prise en charge diagnostique d'une hyperferritinémie d'après SNFGE 2
 
 - {{< references/college-gastro >}}
 - {{< references/afef-foie-non-invasif >}}
-- [Brissot P; SNFGE et AFEF. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. Février 2019. (PDF)](https://www.snfge.org/sites/default/files/recommandations/brissot_2019.pdf)
+- [Brissot P. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. SNFGE et AFEF. 2019. (PDF)](https://www.snfge.org/download/file/fid/4845)
 - [Brissot P et al. Pathophysiology and classification of iron overload diseases; update 2018. Transfusion Clinique et Biologique. 2018.](https://doi.org/10.1016/j.tracli.2018.08.006)
 - [Lorcerie B et al. Démarche diagnostique devant une hyperferritinémie. La Revue de Médecine Interne. 2015.](https://www.sciencedirect.com/science/article/pii/S0248866314011114)
 - [Brissot P. Diagnostic d'une hyperferritinémie. 2012. (PDF)](https://www.hemochromatose.org/wp-content/uploads/2012/12/hyperferritinemie.pdf)

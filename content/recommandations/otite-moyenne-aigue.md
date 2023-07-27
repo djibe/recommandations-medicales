@@ -104,6 +104,8 @@ Recommandations pour la prise en charge de l'otite moyenne aiguë selon l'âge:
 
 Dans tous les cas, DRP, traitement antalgique voire antipyrétique et nouvelle consultation à 48-72 heures en l'absence d'amélioration.
 
+> << des affections mineures, comme une rhinopharyngite, une otite, une laryngite, une bronchite ou une diarrhée modérée, ne sont pas des contre-indications à la vaccination. >> (*[Infovac-France](https://www.infovac.fr/pratique-vaccinale/contre-indications-vaccinales)*)
+
 Aucune indication aux AINS, corticoïdes ou antibiotiques auriculaires
 {.alert .alert-warning}
 

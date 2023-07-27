@@ -155,6 +155,6 @@ accTitle: Prise en charge d'une dyspepsie d'après SNFGE 2019
 {{%/collapse%}}
 {{%sources%}}
 
-- Mion F.; SNFGE et GFNG. Prise en charge de la dyspepsie. Conseil de pratique. Janvier 2019.
+[Mion F. Prise en charge de la dyspepsie. Conseil de pratique. SNFGE et GFNG. 2019. (PDF)](https://www.snfge.org/download/file/fid/4855)
 
 {{%/sources%}}

@@ -17,7 +17,7 @@ icd10 = "E66.9"
 draft = true
 image = false
 imageSrc = ""
-todo = "GPAQ, stats Constances, FLI HAS22 p15, HAS 23 screenshots, << personne en obésité >>, obésité et Grossesse HAS 23 p23, relation IMC-mortalité Bray 1985"
+todo = "GPAQ https://www.who.int/fr/publications/m/item/global-physical-activity-questionnaire et https://www.sciencedirect.com/science/article/pii/S2095254616300631, stats Constances, obésité Monde, FLI HAS22 p15, HAS 23 screenshots, << personne en obésité >>, obésité et Grossesse HAS 23 p23, relation IMC-mortalité Bray 1985"
 chart = true
 +++
 
@@ -26,7 +26,7 @@ chart = true
 TODO:
 
 {{%/article-summary%}}
-{{%collapse "Définition" "show" %}}
+{{%collapse "Définition" %}}
 
 Le généraliste est considéré comme appartenant au **niveau 1** de la prise en charge de l'obésité.
 
@@ -89,7 +89,7 @@ const chartOptions = {
 </script>
 <figure class="figure-chart">
   <div id="chart2"></div>
-  <figcaption><b>Figure 2.</b> Évolution de la prévalence de l'obésité selon l'âge de 1997 à 2020. Dr JB Fron d'après ObÉpi 2020. NB: les abscisses ne sont pas linéaires.</figcaption>
+  <figcaption><b>Figure 2.</b> Évolution de la prévalence de l'obésité en France selon l'âge de 1997 à 2020. Dr JB Fron d'après ObÉpi 2020. NB: les abscisses ne sont pas linéaires.</figcaption>
 </figure>
 <script>
 const chartOptions2 = {
@@ -170,41 +170,37 @@ TCA
   - Variations et rebonds
   - Traitements essayés
 - Comportement alimentaire
-  - Dépister des troubles des conduites alimentaires (TCA) avec {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}
+  - Dépister des troubles des conduites alimentaires (TCA) avec le {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}
   - Repas, grignotage (dont nocturne), compulsions, aliments courants
   - Sensations alimentaires, déclenchement du repas, hyperphagie, tachyphagie, restriction cognitive
   - Tabous alimentaires, fausses croyances, sources de frustration et de désinhibition
-- Niveau d'activité physique (score GPAQ) et sédentarité
+- Niveau d'activité physique et sédentarité: [score GPAQ](https://www.mangerbouger.fr/bouger-plus/test-de-niveau-d-activite-physique-et-de-sedentarite-des-adultes)
 - Contexte psychopathologique  
   Anxiété, dépression, image du corps, estime de soi, traumatismes/agressions, addictions.
 - Environnement social, familiale, professionnel, financier, rythmes décalés
 - Retentissement sur la qualité de vie personnelle ou professionnelle
 - Comorbidités
-  - Quantité de sommeil et dépistage d'un syndrome d'apnées du sommeil (SAHOS)
-  - RGO
+  - Quantité de sommeil et {{< modal-btn modal-saos >}}dépister des apnées du sommeil{{< /modal-btn >}} (SAHOS, systématique à partir de 35 d'IMC)
+  - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
   - SOPK  
-    Cycles irréguliers, hirsutisme, hyperandrogénie, alopécie, acanthosis nigricans.
+    Cycles irréguliers, hyperandrogénie ([hirsutisme]({{< relref "hirsutisme.md" >}}), alopécie, [acné]({{< relref "acne.md" >}})), acanthosis nigricans.
 - Évaluation de la motivation aux changements
-- Handicap et autonomie (ADL, IADL)
-  - Gonarthrose
+- Handicap et autonomie ([ADL](http://medicalcul.free.fr/adlkatz.html), IADL), [gonarthrose]({{< relref "gonarthrose.md" >}})
 - Qualité de vie (EuroQoL EQ-5D, SF-12)
 - Attentes et préférences, priorités, projets
-
-Sommeil : 2.1.4
 
 ### Examen clinique
 
 - Poids, taille, IMC et leurs variations
-- Autres outils d'évaluation de la masse grasse: TODO:
 - Tour de taille
 - Répartition androïde ou gynoïde des graisses
 - Pression artérielle avec brassard adapté, fréquence et rythme cardiaque
 - Palpation thyroïdienne
-- Évaluation du risque cardiovasculaire
+- Évaluation du risque cardiovasculaire: {{< scores/heartscore >}}
 - Rhumatologique: rachis, genoux, pieds
-- Cutané: intertrigo
-- Rechercher une dénutrition et une sarcopénie
-- Rechercher des signes d'obésité secondaire
+- Cutané: [intertrigo]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
+- [Dénutrition]({{< relref "denutrition.md" >}}) et sarcopénie
+- Signes d'obésité secondaire
   - Signes spécifiques d'un [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}): obésité faciotronculaire avec amyotrophie proximale, signes cutanés (fragilité cutanée, ecchymoses, vergetures pourpres), hirsutisme, acanthosis nigricans (*ENDO 2018*)
   - [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
 
@@ -227,13 +223,15 @@ Sommeil : 2.1.4
 {{% /collapse %}}
 {{%collapse "Dépistage des complications de l'obésité" "show" %}}
 
+Complications à dépister chez un adulte en situation d'obésité.
+
 {{< table title="Rythme de dépistage des complications chez l'adulte en situation d'obésité. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
 | Appareil                        | Soins                                                                                    | Source              |
 |---------------------------------|------------------------------------------------------------------------------------------|---------------------|
-| Boulimie hyperphagique          | Dépister les TCA avec {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} | HAS 2019            |
-| Cancer colorectal               | Dépistage organisé                                                                       | INCa 2022           |
-| Cancer de l'endomètre           | Échographie sus-pubienne et endovaginale si métrorragies post-ménopausiques              | ACOG 2020           |
-| Cancer de l'ovaire              | Échographie sus-pubienne et endovaginale si symptômes (post-ménopausiques ++)            | INCa 2020           |
+| [Boulimie hyperphagique]({{< relref "boulimie-hyperphagie.md" >}})          | Dépister les TCA avec {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} | HAS 2019            |
+| [Cancer colorectal]({{< relref "cancer-colorectal.md" >}})               | Dépistage organisé                                                                       | INCa 2022           |
+| [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}})           | Échographie sus-pubienne et endovaginale si métrorragies post-ménopausiques              | ACOG 2020           |
+| [Cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}})              | Échographie sus-pubienne et endovaginale si symptômes (post-ménopausiques ++)            | INCa 2020           |
 | Cancer du pancréas              | Scanner AP injecté si symptômes                                                          | INCa 2020           |
 | Cancer du sein                  | Dépistage organisé                                                                       | INCa 2022           |
 | Contraception œstroprogestative | En l'absence d'autre d'autre FRCV                                                        | CNGOF 2018          |
@@ -424,6 +422,11 @@ Exemples de conseils alimentaires à proposer en situation d'obésité:
 {{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
 
 {{< scores/scoff >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
+
+{{< scores/stop-bang >}}
 
 {{% /modal %}}
 {{% modal title="Dépistage de la fibrose hépatique" id="modal-fib4"%}}

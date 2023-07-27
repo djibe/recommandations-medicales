@@ -127,4 +127,8 @@ Une chirurgie par sphinctérotomie latérale interne peut être envisagée. La c
 - [Nelson RL et al. Non surgical therapy for anal fissure. Cochrane Database of Systematic Reviews. 2012.](https://www.cochrane.org/CD003431/COLOCA_non-surgical-therapy-for-anal-fissure.)
 - [SNFCP. La fissure anale.](https://www.snfcp.org/informations-maladies/fissure-anale/la-fissure-anale/)
 
+### À lire
+
+[Higuero T. Fissure anale. Conseil de pratique. SNFGE, SNFCP. 2017. (PDF)](https://www.snfge.org/download/file/fid/4852)
+
 {{%/sources%}}

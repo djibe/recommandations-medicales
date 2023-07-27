@@ -244,7 +244,7 @@ graph TB
 - [Berzigotti A et al. EASL Clinical Practice Guidelines on non-invasive tests for evaluation of liver disease severity and prognosis - 2021 update. Journal of Hepatology. 2021.](https://www.journal-of-hepatology.eu/article/S0168-8278(21)00398-6/fulltext)
 - {{< references/esc-cvd >}}
 - {{< references/afef-foie-non-invasif >}}
-- SNFGE, AFEF. Diagnostic de la NASH. Conseil de pratique. Mars 2019.
+- [Serfaty L. Diagnostic de la NASH. Conseil de pratique. SNFGE, AFEF. 2019. (PDF)](https://www.snfge.org/download/file/fid/4859)
 - [SNFGE. Stéatose hépatique non alcoolique (NAFLD/NASH).](https://www.snfge.org/content/steatose-hepatique-non-alcoolique-nafldnash)
 - [AFEF. Stéatose et stéato-hépatite](https://afef.asso.fr/la-maladie/maladies/steatose-et-steato-hepatite/)
 - [Ameli. Stéatose hépatique ou maladie du foie gras non alcoolique.](https://www.ameli.fr/assure/sante/themes/steatose-hepatique)

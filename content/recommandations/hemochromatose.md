@@ -239,7 +239,7 @@ graph TB
 - {{< references/college-gastro >}}
 - {{< references/college-endocrino >}}
 - {{< references/afef-foie-non-invasif >}}
-- [Brissot P; SNFGE et AFEF. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. Février 2019. (PDF)](https://www.snfge.org/sites/default/files/recommandations/brissot_2019.pdf)
+- [Brissot P. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. SNFGE et AFEF. 2019. (PDF)](https://www.snfge.org/sites/default/files/recommandations/brissot_2019.pdf)
 - [Pilling LC et al. Common conditions associated with hereditary haemochromatosis genetic variants: cohort study in UK Biobank [published correction appears in BMJ. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334179/)
 - [Brissot P et al. Haemochromatosis. Nat Rev Dis Primers. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7775623/)
 - [HAS. Hémochromatose liée au gène HFE (type 1). Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_592228/fr/ald-n17-actes-et-prestations-sur-hemochromatose-actualisation-juin-2012)
