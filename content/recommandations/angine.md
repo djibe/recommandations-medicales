@@ -95,7 +95,7 @@ Autres formes cliniques d'angine:
 
 - Angine vésiculeuse  
   Dite **herpangine** par coxsackie virus ou virus varicelle-zona (VZV).
-- Angine pseudomembraneuse: Mononucléose infectieuse (EBV) ou diphtérie
+- Angine pseudomembraneuse: [mononucléose infectieuse]({{< relref "mononucleose-infectieuse.md" >}}) (EBV) ou diphtérie
   - Enduit confluent nacré/grisâtre
   - Mononucléose: adulte jeune, fatigue, fièvre 10-15 jours, respect de la luette, purpura du voile du palais, [splénomégalie]({{< relref "splenomegalie.md" >}}) (50%), exanthème, polyadénopathie
   - Diphtérie: urgence thérapeutique. Voyage en Europe de l'Est ou en développement, absence de vaccination, fausses membranes extensives

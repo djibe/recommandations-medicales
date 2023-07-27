@@ -1,20 +1,19 @@
 +++
 title = "Lymphopénie"
-titleSeo = "In case of long title or delete whole line"
 prefix = "la "
-description = "Title 2-22 words and description 160 characters max"
+description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-24T15:32:41+02:00"
-publishdate = "2023-07-24"
-lastmod = "2023-07-24"
+publishdate = "2023-07-27"
+lastmod = "2023-07-27"
 specialites = ["hematologie"]
-annees = "2020"
-sources = ["Society1"]
+annees = "2021"
+sources = ["sfh"]
 tags = ["cancer"]
-anglais = ["English word"]
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = "https://prod-mapping.ihtsdotools.org/#/"
+anglais = ["Lymphocytopenia", "lymphopenia"]
+sctid = "48813009"
+icd10 = "D72.8"
 draft = true
 image = false
 imageSrc = ""
@@ -63,11 +62,13 @@ Lymphopénie
 {{% /collapse %}}
 {{%sources%}}
 
+Société française d'hématologie (sfh). Item 212 - Hémogramme chez l'adulte et l'enfant : indications et interprétation. Hématologie. Réussir son DFASM. 2021.
+
 ### À lire
 
-- Société française d'hématologie (sfh). Item 212 - Hémogramme chez l'adulte et l'enfant : indications et interprétation. Hématologie. Réussir son DFASM. 2021.
 - [Abou Chahla W; SFP. Lymphopénie de découverte fortuite de l'enfant. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/hematologie/lymphopenie-de-decouverte-fortuite-de-lenfant)
 - [Régent A et al. Démarche diagnostique devant une lymphopénie : quand penser à la lymphopénie CD4(+) idiopathique ?. Rev Med Interne. 2012.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7115373/)
+- [Berezné A et al. Orientation diagnostique devant une lymphopénie. Presse Med. 2006.](https://www.sciencedirect.com/science/article/pii/S0755498206747091)
 
 {{%/sources%}}
 

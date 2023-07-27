@@ -67,7 +67,7 @@ La splénomégalie n'est qu'un symptôme:
 - Bactérien
   Septicémies (cirrhose décompensée), typhoïde, [tuberculose]({{< relref "tuberculose.md" >}}), [maladie d'Osler]({{< relref "endocardite.md" >}}).
 - Viral  
-  Mononucléose infectieuse, [VIH]({{< relref "vih-sida.md" >}}), [hépatite virale](/tags/hepatite/).
+  [Mononucléose infectieuse]({{< relref "mononucleose-infectieuse.md" >}}), [VIH]({{< relref "vih-sida.md" >}}), [hépatite virale](/tags/hepatite/).
 - Parasitaire  
   [Paludisme aigu]({{< relref "paludisme.md" >}}), leishmaniose viscérale.
 - Tumorale  
