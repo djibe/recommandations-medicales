@@ -74,7 +74,7 @@ Hypochromie
 : Globules rouges (GR, érythrocytes) pauvres en hémoglobine ou *concentration corpusculaire moyenne en hémoglobine* (CCMH) inférieure à la normale (CCMH normale = 32-36 g/dL). Durée de vie du globule rouge: 120 jours. Ce nom vient de l'aspect de pâleur en coloration au May-Grünwald Giemsa.
 
 Microcytose
-: Globules rouges de petite taille (microcytes) ou réduction du Volume Globulaire Moyen (VGM < 80 µm<sup>3</sup>) des globules rouges.
+: Globules rouges de petite taille (microcytes) ou réduction du Volume Globulaire Moyen (VGM < 80 µm³) des globules rouges.
 
 ### Étiologie de la carence martiale
 
@@ -134,7 +134,7 @@ Signes et symptômes cliniques d'une anémie:
 - Antécédents familiaux  
   Hémoglobinopathie, hémorragies, métabolisme du fer, pathologie digestive.
 - Antécédents personnels  
-  Transfusions, dons de sang, chirurgie de l'obésité ou gastrique, traumatismes, insuffisance cardiaque ou rénale.
+  Transfusions, dons de sang, [chirurgie de l'obésité]({{< relref "obesite-adulte.md" >}}) ou gastrique, traumatismes, insuffisance cardiaque ou rénale.
 - Traitements  
   AINS, anticoagulants ou IPP au long cours.
 - Régime alimentaire, {{< modal-btn modal-scoff >}}troubles du comportement alimentaire{{< /modal-btn >}}

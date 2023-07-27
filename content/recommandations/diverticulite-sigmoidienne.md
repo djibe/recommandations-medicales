@@ -35,7 +35,7 @@ todo = "https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.pdf"
 Diverticulite sigmoïdienne aiguë
 : *ex* sigmoïdite diverticulaire (aussi appelée diverticulite colique ou sigmoïdite aiguë)
 : Inflammation infectieuse colique d'origine diverticulaire survenant le plus souvent entre 50 et 70 ans. L'atteinte du côlon droit est prédominante en Asie.
-: Facteurs de risque de diverticulite sigmoïdienne: âge, hérédité, obésité.  
+: Facteurs de risque de diverticulite sigmoïdienne: âge, hérédité, [obésité]({{< relref "obesite-adulte.md" >}}).  
 30% de récidives à 5 ans. 16 à 35% se compliquent d'abcès.
 
 Diverticulose du côlon

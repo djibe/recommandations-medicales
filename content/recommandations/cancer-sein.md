@@ -62,7 +62,7 @@ Liste des facteurs de risque de cancer du sein:
 - Facteurs de risque modifiables
   - [Alcool]({{< relref "sevrage-alcool.md" >}}) (15% attribuables)
   - [Tabac]({{< relref "arret-tabac.md" >}}) (4,4% attribuables)
-  - Surpoids ou obésité (11% des cancers post-ménopausiques)
+  - Surpoids ou [obésité]({{< relref "obesite-adulte.md" >}}) (11% des cancers post-ménopausiques)
   - Inactivité physique
 
 ### Diagnostic différentiel du cancer du sein

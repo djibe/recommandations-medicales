@@ -80,7 +80,7 @@ Diagnostic différentiel à étayer selon le terrain:
 - Pneumopathie interstitielle
 - Syndrome d'hyperventilation
 - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
-- Obésité
+- [Obésité]({{< relref "obesite-adulte.md" >}})
 - Pathologie ostéoarticulaire ou musculaire
 - Dysfonction des cordes vocales
 {.list-group}

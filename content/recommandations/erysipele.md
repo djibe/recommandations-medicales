@@ -38,7 +38,7 @@ Première cause de grosse jambe rouge aiguë.
 Gravité initiale selon terrain, sévérité locale et sepsis.
 : Chez l'enfant, les DHBNN sont dues au *Staphylococcus aureus* sensible à la méticilline (SASM) et au SGA.
 : Les complications sont exceptionnelles: abcès, sepsis sévère, glomérulonéphrite post-streptococcique, DHB nécrosante avec/sans fasciite nécrosante (DHBN-FN. Terrain +50 ans, diabète, hémopathie/cancer, insuffisance d'organe, toxicomanie).
-: Facteurs de risque d'érysipèle: facteurs locaux (lymphœdème, intertrigo, ulcère de jambe, plaie) et obésité.
+: Facteurs de risque d'érysipèle: facteurs locaux (lymphœdème, intertrigo, ulcère de jambe, plaie) et [obésité]({{< relref "obesite-adulte.md" >}}).
 
 **NB.** *Alcoolisme* et *diabète* << ne semblent pas être des facteurs de risque >> d'érysipèle.
 

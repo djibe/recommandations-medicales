@@ -72,7 +72,7 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 - **+65 ans**
 - **Femmes enceintes**
 - Diabètes de [type 1]({{< relref "diabete-type-1.md" >}}) et de [type 2]({{< relref "diabete-type-2.md" >}})
-- Obésité morbide (IMC ≥ 40 kg/m<sup>2</sup>)
+- [Obésité morbide]({{< relref "obesite-adulte.md" >}}) (IMC ≥ 40 kg/m²)
 - Maladies respiratoires
   - Insuffisances respiratoires chroniques obstructives ou restrictives
   - [Asthme]({{< relref "asthme.md" >}}), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), emphysème, dilatation des bronches

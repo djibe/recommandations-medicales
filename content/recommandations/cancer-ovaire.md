@@ -45,7 +45,7 @@ Cancer de l'ovaire
   - Syndrome de Lynch (HNPCC) plus rare
 - Autres facteurs de risque de cancer ovarien
   - Nulliparité
-  - Surpoids et obésité
+  - Surpoids et [obésité]({{< relref "obesite-adulte.md" >}})
   - Ménarche précoce
   - [Ménopause tardive]({{< relref "menopause.md" >}})
   - Âge

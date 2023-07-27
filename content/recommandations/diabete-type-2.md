@@ -11,7 +11,7 @@ lastmod = "2023-04-11"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["ADA", "SFD", "EASD", "ESC", "KDIGO", "HAS"]
-tags = ["B12", "bariatrique", "diabete", "epreuve effort", "HTA", "insuline", "retinopathie", "nephropathie",  "risque cardiovasculaire", "neuropathie", "obesite", "SAS", "vaccin"]
+tags = ["B12", "diabete", "epreuve effort", "HTA", "insuline", "retinopathie", "nephropathie",  "risque cardiovasculaire", "neuropathie", "obesite", "SAS", "vaccin"]
 anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 icd10 = "E11"
@@ -43,7 +43,7 @@ Diabète
       Polyurie, polydipsie, amaigrissement.
 : Au cours du diabète, l'atteinte coronaire est plus étendue, sévère et diffuse. 6 à 35% ont une **[ischémie myocardique sans angor]({{< relref "syndrome-coronarien-chronique.md" >}})** et 50% des infarctus du myocarde sont **silencieux** (*SFD 2021 CAD*). Le responsable majeur est le **LDL cholestérol**. Le risque d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) est multiplié par 2 à 4.  
 Les femmes avec DT2 sont à risque élevé d'[AVC]({{< relref "accident-vasculaire-cerebral.md" >}}).
-: Épidémiologie du diabète en France: 3,5 millions de sujets traités, 80% en surpoids ou obèse, 3/4 hypertendus, 13% sont fumeurs et seulement 64% reçoivent une statine (*Entred3*).
+: Épidémiologie du diabète en France: 3,5 millions de sujets traités, 80% en surpoids ou obèses, 3/4 hypertendus, 13% sont fumeurs et seulement 64% reçoivent une statine (*Entred3*).
 
 Hyperglycémie modérée à jeun (HGMAJ)
 : Ou *prédiabète*, correspond au stade précurseur du diabète.
@@ -96,7 +96,7 @@ SFD
 {{% /collapse %}}
 {{%collapse "Les points vitaux du diabète type 2" "show" %}}
 
-Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} (rarement modéré) {{%class%}}(risque CV x 3-4){{%/class%}}
+Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} (rarement modéré) {{%class%}}(risque CV x2){{%/class%}}
 {.alert .alert-warning}
 
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (passif et électronique également) et alcool à moindre risque
@@ -337,19 +337,21 @@ Le bilan n'a pas besoin d'être réalisé à jeun.
 | [Épreuve d'effort]({{< relref "epreuve-effort.md" >}}) | [Angor]({{< relref "syndrome-coronarien-chronique.md" >}}), dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans) | ADA 2023, SFD 2021 CAD |
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
 | Grade podologique | Suivi annuel                                                                                | HAS 2014                 |
+| [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) | Mesure avec brassard adapté tous les 1 à 3 ans | ESC/ESH 2021     |
 | [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | (NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ADA 2022 |
-| [NAFLD/NASH]({{< relref "steatose-hepatique-et-nash.md" >}}) | {{< modal-btn modal-fib4 >}}Score FIB-4 annuel{{< /modal-btn >}} | AFEF 2020 |
+| [Stéatopathie métabolique]({{< relref "steatose-hepatique-et-nash.md" >}}) | Dépistage par échographie abdominale | AFEF 2020 |
+| [Stéatohépatite]({{< relref "steatose-hepatique-et-nash.md" >}}) (NASH) | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} tous les 2 ans | AFEF 2020 |
 | [Néphropathie]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, albuminurie/créatininurie annuels | ADA 2023, KDIGO 2022 |
 | Neuropathie  | Dépistage annuel: monofilament, pic-touche, diapason, hypotension orthostatique, sécheresse cutanée | ADA 2023, ESC 2019 diabetes |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | ADA 2023, SFD 2016       |
-| Score calcique | {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± EE | SFD 2021 CAD |
+| Score calcique | {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± test d'effort | SFD 2021 CAD |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
 | [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) | Étayer si: syndrome plurimétabolique, déséquilibré sans cause évidente, symptômes         | PNDS Cushing 2022        |
 | [Vaccins]({{< relref "vaccination.md" >}}) | Covid-19, [grippe]({{< relref "grippe.md" >}}), {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
 | Vitamine B12 | Si metformine: dosage après 4 ans de traitement                                                  | KDIGO 2022 diabetes      |
 {{< /table >}}
 
-> **AAA** = anévrysme de l'aorte abdominale ; **EE** = épreuve d'effort ; **MRC** = maladie rénale chronique ; **aspirine:** IPP si risque élevé de saignement digestif ;  
+> **AAA** = anévrysme de l'aorte abdominale ; **MRC** = maladie rénale chronique ; **aspirine:** IPP si risque élevé de saignement digestif ;  
 Épreuve d'effort: évaluer les facteurs de risque: FRCV usuels, tour de taille, ancienneté du diabète, HbA<sub>1c</sub>, complications, dysfonction érectile, SAOS, NASH
 
 {{% /collapse %}}

@@ -118,7 +118,7 @@ Population à risque d'insuffisance rénale chronique, définie par la présence
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
 - Athérome
 - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
-- Obésité
+- [Obésité]({{< relref "obesite-adulte.md" >}})
 - Maladie de système ou auto-immune  
   Lupus, vascularite, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}).
 - Pathologie urologique  

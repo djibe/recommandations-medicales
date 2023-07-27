@@ -299,7 +299,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
   - Ferritinémie cible ≥ 100 ng/mL  
     Bilan étiologique voire fer maltose IV.
 - Comorbidités
-  - Obésité: prise en charge spécifique
+  - [Obésité]({{< relref "obesite-adulte.md" >}}): prise en charge spécifique
   - Diabète: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
   - {{< modal-btn modal-depistage-bpco >}}Dépister une BPCO{{< /modal-btn >}}
 - Dépister annuellement une dépression

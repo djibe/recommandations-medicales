@@ -5,25 +5,34 @@ description = "Recommandations pour la prise en charge de l'obésité de l'adult
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-19T13:21:51+02:00"
-publishdate = "2023-06-29"
-lastmod = "2023-06-29"
+publishdate = "2023-07-27"
+lastmod = "2023-07-27"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["HAS", "FFN"]
-tags = ["bariatrique", "cancer", "depistage", "obesite", "SAS"]
+tags = ["cancer", "depistage", "obesite", "SAS"]
 anglais = ["Obesity"]
 sctid = "414916001"
 icd10 = "E66.9"
-draft = true
-image = false
-imageSrc = ""
-todo = "GPAQ https://www.who.int/fr/publications/m/item/global-physical-activity-questionnaire et https://www.sciencedirect.com/science/article/pii/S2095254616300631, stats Constances, obésité Monde, FLI HAS22 p15, HAS 23 screenshots, << personne en obésité >>, obésité et Grossesse HAS 23 p23, relation IMC-mortalité Bray 1985"
+image = true
+imageSrc = "L'obésité par pch.vector / Freepik"
+todo = "FLI, GPAQ https://www.who.int/fr/publications/m/item/global-physical-activity-questionnaire et https://www.sciencedirect.com/science/article/pii/S2095254616300631, stats Constances, obésité Monde, HAS 23 screenshots, obésité et Grossesse HAS 23 p23, relation IMC-mortalité Bray 1985"
 chart = true
 +++
 
 {{%article-summary%}}
 
-TODO:
+- L'obésité est une maladie qui affecte le bien-être physique, social et psychologique et touche 17% des Français
+- Le diagnostic d'obésité de l'adulte est clinique avec un indice de masse corporelle (IMC) supérieur à 30 kg/m² (dite morbide ou classe 3 à partir de 40)
+- « Demander l’accord de la personne pour aborder le poids » (*HAS 2023*)
+- Un niveau adapté de prise en charge des personnes en obésité est requis (voir [Niveau adapté](#niveau-adapté-de-prise-en-charge-et-chirurgie-bariatrique)):
+  - Centre spécialisé de l'obésité (CSO, [annuaire](https://sante.gouv.fr/IMG/pdf/annuaire_national_cso_fevrier_2023.pdf)) si: IMC ≥ 50, insuffisance d'organe, grabataire, cause génétique, échec de bariatrique  
+  ou IMC 35-50 avec aggravation d'une maladie chronique, périmètre de marche 100-200 m, hyperphagie boulimique, psychiatrique sévère, obésité secondaire, échec de niveau 2
+  - Nutritionniste si IMC 35-50 kg/m² avec : pathologie cardiovasculaire déséquilibrée (HTA résistante, diabète déséquilibré, NAHS, SAHOS sévère), aggravation d'une maladie chronique sans risque majeur, impact marqué sur la qualité de vie, boulimie, échec du niveau 1 ...
+- Indications à la chirurgie bariatrique: IMC ≥ 40 ou ≥ 35 avec comorbidité pouvant s'améliorer (HTA, SAHOS, DT2, NASH) avec échec des prises en charges antérieures (voir [Niveau adapté](#niveau-adapté-de-prise-en-charge-et-chirurgie-bariatrique))
+- Dépister les complications de l'obésité (voir *Dépistage*)
+- Les mesures de prise en charge de l'obésité de l'adulte sont: activité physique 150-300 minutes d'intensité modérée par semaine, perte de poids 5-15%, évaluation nutritionnelle et sensations alimentaires, éducation thérapeutique, soutien psychologique, association de patients CNAO
+- Les prescriptions (dont GLP-1) sont réservées au nutritionniste
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -52,7 +61,7 @@ Obésité abdominale
 
 Échec de prise en charge de l'obésité
 : Définition *HAS 2022*: perte de poids inférieure à 5% à un an ou absence de son maintien avec: poursuite de la prise de poids, incapacité à modifier durablement ses comportements ou aggravation des complications liées à l'obésité.
-: En cas d'échec à 6-12 mois, le patient doit être orienté vers un **nutritionniste** (niveau 2) qui pourra l'adresser à un **centre spécialisé de l'obésité** (CSO, niveau 3).
+: En cas d'échec à 6-12 mois, le patient doit être orienté vers un **nutritionniste** (niveau 2) qui pourra l'adresser à un **centre spécialisé de l'obésité** (CSO, niveau 3, [annuaire PDF](https://sante.gouv.fr/IMG/pdf/annuaire_national_cso_fevrier_2023.pdf)).
 
 Restriction cognitive
 : << Limitation volontaire des apports alimentaires avec possibles privations, dans le but de contrôler son poids >> (*CEEDMM*).
@@ -223,48 +232,48 @@ TCA
 {{% /collapse %}}
 {{%collapse "Dépistage des complications de l'obésité" "show" %}}
 
-Complications à dépister chez un adulte en situation d'obésité.
+Complications à dépister chez un adulte en obésité.
 
 {{< table title="Rythme de dépistage des complications chez l'adulte en situation d'obésité. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
 | Appareil                        | Soins                                                                                    | Source              |
 |---------------------------------|------------------------------------------------------------------------------------------|---------------------|
-| [Boulimie hyperphagique]({{< relref "boulimie-hyperphagie.md" >}})          | Dépister les TCA avec {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} | HAS 2019            |
-| [Cancer colorectal]({{< relref "cancer-colorectal.md" >}})               | Dépistage organisé                                                                       | INCa 2022           |
-| [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}})           | Échographie sus-pubienne et endovaginale si métrorragies post-ménopausiques              | ACOG 2020           |
-| [Cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}})              | Échographie sus-pubienne et endovaginale si symptômes (post-ménopausiques ++)            | INCa 2020           |
-| Cancer du pancréas              | Scanner AP injecté si symptômes                                                          | INCa 2020           |
-| Cancer du sein                  | Dépistage organisé                                                                       | INCa 2022           |
-| Contraception œstroprogestative | En l'absence d'autre d'autre FRCV                                                        | CNGOF 2018          |
+| [Boulimie hyperphagique]({{< relref "boulimie-hyperphagie.md" >}}) | Dépister les TCA avec {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} | HAS 2019 |
+| [Cancer colorectal]({{< relref "cancer-colorectal.md" >}}) | Dépistage organisé                                            | INCa 2022           |
+| [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) | Échographie sus-pubienne et endovaginale si métrorragies post-ménopausiques | ACOG 2020 |
+| [Cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}}) | Échographie sus-pubienne et endovaginale si symptômes (post-ménopausiques ++) | INCa 2020 |
+| [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) | Scanner AP injecté si symptômes                                | INCa 2020           |
+| [Cancer du sein]({{< relref "cancer-sein.md" >}}) | Dépistage organisé                                                     | INCa 2022           |
+| [Contraception œstroprogestative]({{< relref "contraception.md" >}}) | En l'absence d'autre d'autre FRCV                   | CNGOF 2018          |
 | Dentaire                        | Suivi annuel                                                                             | HAS 2023            |
-| Diabète type 2                  | Glycémie à jeun tous les 1-3 ans                                                         | HAS 2023            |
-| Dyslipidémie                    | Cholestérol total, HDL, LDL, triglycérides                                               | TODO:               |
-| EFR                             | Si: IMC ≥ 30 avec dyspnée NYHA 3-4, IMC ≥ 35 et SAHOS, IMC ≥ 40                          | HAS 2023            |
-| Gaz du sang                     | Si: IMC ≥ 35, SpO2 &lt; 94% ou CPT < 85%                                                 | HAS 2023            |
-| Grossesse                       | Prise de poids limitée 5-9 kg                                                            | SFD 2022            |
-| Hypertension artérielle         | Mesure avec brassard adapté tous les 1 à 3 ans                                           | ESC 2021            |
-| Maladie rénale chronique        | Créatininémie, DFG et ratio albuminurie/créatininurie min. tous les 3 ans                | HAS 2023            |
-| Micronutriments                 | Dosage si: chirurgie bariatrique, amaigrissement massif, symptômes évocateurs            | HAS 2022            |
-| Podologique                     | Obésité est haut risque d'atteinte podologique                                           | HAS 2020            |
-| Risque cardiovasculaire         | TODO:                                                                                    | ESC 2021            |
-| Stéatopathie                    | {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}                                | AFEF 2020, HAS 2023 |
-| Syndrome d'apnées du sommeil    | Polygraphie si IMC ≥ 35 ou signes évocateurs                                             | HAS 2023            |
-| Vaccin grippe                   | Annuel si IMC ≥ 40                                                                       | Calendrier 2023     |
+| [Diabète type 2]({{< relref "diabete-type-2.md" >}}) | Dépistage par glycémie à jeun tous les 1-3 ans                      | HAS 2023            |
+| Dyslipidémie                    | Cholestérol total, HDL, LDL, triglycérides                                               | ESC/ESH 2021        |
+| EFR                             | Indications: IMC ≥ 30 avec dyspnée NYHA 3-4, IMC ≥ 35 et SAHOS, IMC ≥ 40                 | HAS 2023            |
+| Gaz du sang                     | Indications: IMC ≥ 35, SpO<sub>2</sub> &lt; 94% ou CPT < 85%                             | HAS 2023            |
+| [Grossesse]({{< relref "grossesse.md" >}}) | Prise de poids limitée à 5-9 kg                                               | SFD 2022            |
+| [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) | Mesure avec brassard adapté tous les 1 à 3 ans    | ESC/ESH 2021        |
+| [Maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, DFG et <abbr title="ratio albuminurie/créatininurie">RAC</abbr> min. tous les 3 ans | HAS 2023 |
+| Micronutriments                 | Dosage si: chirurgie bariatrique, amaigrissement massif, symptômes carentiels            | HAS 2022            |
+| Podologique                     | Haut risque d'atteinte podologique                                                       | HAS 2020            |
+| Risque cardiovasculaire         | {{< scores/heartscore >}} tous les 5 ans à partir de 40 ans (sauf {{< modal-btn modal-rcv >}}maladie CV, diabète{{< /modal-btn >}}) ou LIFE-CVD avant | ESC 2021 |
+| [Stéatopathie métabolique]({{< relref "steatose-hepatique-et-nash.md" >}}) | Suspecter si cytolyse, [hyperferritinémie]({{< relref "hyperferritinemie.md" >}}) ou insulinorésistance<br>et dépister par échographie abdominale ou [score FLI](https://www.mdcalc.com/calc/10001/fatty-liver-index) tous les 3-5 ans | HAS 2022 |
+| Syndrome d'apnées du sommeil    | Polygraphie si IMC ≥ 35 ou {{< modal-btn modal-saos >}}signes évocateurs{{< /modal-btn >}} | HAS 2023          |
+| Vaccin grippe                   | Annuel si IMC ≥ 40 ou +65 ans                                                            | Calendrier 2023     |
 {{< /table >}}
 
-Autres complications de l'obésité: hyperuricémie et goutte, maladies cardiovasculaires, TVP, insuffisance veineuse, lithiases biliaires, protéinurie, HTIC, dépression.
+Autres complications de l'obésité: [hyperuricémie et goutte]({{< relref "goutte.md" >}}), [maladies cardiovasculaires](/tags/risque-cardiovasculaire/), [thrombose veineuse profonde]({{< relref "thrombose-veineuse-profonde.md" >}}), insuffisance veineuse, lithiases biliaires, protéinurie, HTIC, dépression.
 
 {{% /collapse %}}
 {{%collapse "Niveau adapté de prise en charge et chirurgie bariatrique" %}}
 
-Situations d'obésité nécessitant une prise en charge spécialisée (d'après HAS 2022).
+Situations d'obésité nécessitant une prise en charge spécialisée (d'après *HAS 2022*).
 
 ### Indications à une prise en charge de niveau 3 de l'obésité
 
-Prise en charge de niveau 3 de l'obésité si au moins 1 parmi:
+Prise en charge par un centre spécialisé de l'obésité (CSO, [annuaire PDF](https://sante.gouv.fr/IMG/pdf/annuaire_national_cso_fevrier_2023.pdf)) si au moins 1 parmi:
 
-- **IMC ≥ 50**
+- **IMC ≥ 50** kg/m²
 - Insuffisance d'organe
-- Périmètre de marche < 100 m, grabataire
+- Périmètre de marche < 100 mètres, grabataire
 - Qualité de vie fortement dégradée
 - Troubles autistiques ou cognitifs
 - Obésité génétique
@@ -273,7 +282,7 @@ Prise en charge de niveau 3 de l'obésité si au moins 1 parmi:
 
 IMC de 35 à 50 et au moins un parmi:
 
-- Aggravation d'une maladie chronique (BPCO, maladie de système ...)
+- Aggravation d'une maladie chronique ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), maladie de système ...)
 - Périmètre de marche de 100 à 500 mètres
 - Pathologie psychiatrique sévère
 - Obésité secondaire ([hypercorticisme]({{< relref "syndrome-cushing.md" >}}), [acromégalie]({{< relref "acromegalie.md" >}}) ...)
@@ -283,10 +292,10 @@ IMC de 35 à 50 et au moins un parmi:
 
 ### Indications à une prise en charge de niveau 2 de l'obésité
 
-IMC de 35 à 50 kg/m² et au moins un parmi:
+Prise en charge par un nutritionniste pour un IMC de 35 à 50 kg/m² et au moins un parmi:
 
 - Pathologie cardiovasculaire déséquilibrée  
-  HTA résistante, DT2 déséquilibré, NASH, SAHOS sévère.
+  [HTA résistante]({{< relref "hypertension-arterielle.md" >}}), diabète déséquilibré, [NASH]({{< relref "steatose-hepatique-et-nash.md" >}}), [SAHOS sévère]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}).
 - Aggravation d'une maladie chronique sans risque majeur
 - Infertilité
 - SOPK
@@ -299,6 +308,8 @@ IMC de 35 à 50 kg/m² et au moins un parmi:
 - Grossesse après chirurgie bariatrique
 - Échec de niveau 1
 
+Liste des nutritionnistes sur [Annuaire Ameli](http://annuairesante.ameli.fr) (endocrinologue).
+
 ### Indications à la chirurgie bariatrique
 
 > << Il s'agit du seul traitement actuel de l'obésité ayant démontré son efficacité sur le long terme en termes de perte de poids et de réduction de certaines comorbidités >> (*CEEDMM*)
@@ -308,7 +319,8 @@ La chirurgie bariatrique est décidée en réunion de concertation pluridiscipli
 
 Les indications à une chirurgie bariatrique avec conditions sont:
 
-1. IMC ≥ 40 kg/m²  ou IMC ≥ 35 avec au moins une comorbidité pouvant s'améliorer après la chirurgie (ex: HTA, SAHOS et autres troubles respiratoires sévères, diabète de type 2, maladies ostéoarticulaires invalidantes, stéato-hépatite non alcoolique)
+1. IMC ≥ 40 kg/m²  
+  ou IMC ≥ 35 avec au moins une comorbidité pouvant s'améliorer après la chirurgie (ex: HTA, SAHOS et autres troubles respiratoires sévères, diabète de type 2, maladies ostéoarticulaires invalidantes, stéato-hépatite non alcoolique)
 2. Échec d'un traitement médical, nutritionnel, diététique et psychothérapeutique bien conduit pendant 6 à 12 mois, en l'absence de perte de poids suffisante ou en l'absence de maintien de la perte de poids
 3. Patient bien informé
 4. Évaluation et prise en charge préopératoires pluridisciplinaires pendant plusieurs mois
@@ -340,7 +352,7 @@ Un objectif doit être précis, atteignable, progressif, facile à mettre en œu
 
 - Activité physique
   - Lutte contre la sédentarité
-  - Cible: 150-300 minutes d'intensité modérée par semaine et renforcement x 2/semaine
+  - Cible: 150-300 minutes d'{{< modal-btn modal-met >}}intensité modérée{{< /modal-btn >}} par semaine et renforcement x 2/semaine
   - Activité physique adaptée (APA) voire supervisée
 - Perte de poids adaptée à la physiologie  
   Une perte de poids de 5-15% est recommandée (sauf sujet âgé, *CEEDMM*). Le maintien du poids peut être le premier objectif.
@@ -429,8 +441,13 @@ Exemples de conseils alimentaires à proposer en situation d'obésité:
 {{< scores/stop-bang >}}
 
 {{% /modal %}}
-{{% modal title="Dépistage de la fibrose hépatique" id="modal-fib4"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
-{{< scores/fib4 >}}
+{{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+{{% modal title="Intensité d'activité physique et MET" id="modal-met"%}}
+
+{{< clinique/activite-physique-intensite >}}
 
 {{% /modal %}}

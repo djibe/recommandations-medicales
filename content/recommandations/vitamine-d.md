@@ -226,7 +226,7 @@ Intensification de la supplémentation si:
 - Sujet à peau très foncée
 - Absence d'exposition estivale
 - Traitement à risque: rifampicine, phénobarbital, phénytoïne
-- Obésité, régime carencé (vegan)
+- [Obésité]({{< relref "obesite-adulte.md" >}}), régime carencé (vegan)
 
 {{% /collapse %}}
 {{%collapse "Spécialités de vitamine D disponibles" %}}

@@ -89,7 +89,7 @@ Enquête sur les symptômes et le retentissement du prolapsus génital:
   - Syndrome d'obstruction défécatoire
   - Poussée abdominale à la miction
   - Port de charges lourdes
-  - Obésité
+  - [Obésité]({{< relref "obesite-adulte.md" >}})
   - Sédentarité
 - Symptômes associés  
   Échelles des symptômes et qualité de vie: PFDI-20, APFQ.

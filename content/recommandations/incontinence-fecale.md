@@ -55,7 +55,7 @@ SNFCP
 ### Interrogatoire
 
 - Antécédents  
-  Obstétricaux, traumatismes, [obésité](/tags/obesite/), [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}}), [diabète](/tags/diabete/), chirurgie ano-rectale ([hémorrhoïdectomie]({{< relref "hemorroides.md" >}}), sphinctérotomie ...), neurodégénératifs.
+  Obstétricaux, traumatismes, [obésité]({{< relref "obesite-adulte.md" >}}), [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}}), [diabète](/tags/diabete/), chirurgie ano-rectale ([hémorrhoïdectomie]({{< relref "hemorroides.md" >}}), sphinctérotomie ...), neurodégénératifs.
 - Allergies alimentaires: [lactose]({{< relref "intolerance-lactose.md" >}}), [gluten]({{< relref "maladie-coeliaque.md" >}})
 - Participation aux dépistages généralisés des cancers
 - Tabagisme

@@ -48,7 +48,7 @@ Rechercher les éléments inducteurs de gonarthrose:
   - Dysplasie fémoro-patellaire (subluxation externe de la rotule)
   - Chondromalacie rotulienne (fragilité localisée du cartilage rotulien)
   - Luxations de rotule
-- Obésité
+- [Obésité]({{< relref "obesite-adulte.md" >}})
 - Maladies métaboliques
 - Vieillissement
 - Traumatismes articulaires répétés

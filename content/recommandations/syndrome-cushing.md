@@ -86,7 +86,7 @@ Complications du syndrome de Cushing: [hypertension artérielle]({{< relref "hyp
 
 Situations où il faut **rechercher des signes spécifiques** de syndrome de Cushing:
 
-- Prise de poids, obésité
+- Prise de poids, [obésité]({{< relref "obesite-adulte.md" >}})
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) du sujet jeune ou résistante au traitement
 - [Diabète de type 2]({{< relref "diabete-type-2.md" >}}) avec syndrome plurimétabolique ou déséquilibré sans cause évidente
 - [Dépression](/tags/depression/), trouble de l'humeur, anxiété ou trouble psychiatrique atypique résistant aux antidépresseurs

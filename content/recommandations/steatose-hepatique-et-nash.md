@@ -54,7 +54,7 @@ Stéatohépatite non-alcoolique (NASH)
 
 Les responsables de l'inflammation hépatique sont principalement les éléments du **{{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}**:
 
-- Obésité morbide (7,7% ont une NASH)  
+- [Obésité morbide]({{< relref "obesite-adulte.md" >}}) (7,7% ont une NASH)  
   {{%class%}}PBH systématique car 29% ont une fibrose sévère.{{%/class%}}
 - [Diabète de type 2]({{< relref "diabete-type-2.md" >}}) (39% ont une NASH)  
   {{%class%}}PBH si stéatose échographique car 1/4 a une fibrose significative.{{%/class%}}
@@ -148,7 +148,7 @@ Les critères cliniques prédictifs majeurs de fibrose hépatique sont l'âge à
 
 Indications au dépistage de la NASH chez les sujets à risque élevé d'évolution vers la fibrose hépatique:
 
-- Obésité
+- [Obésité]({{< relref "obesite-adulte.md" >}})
 - [Diabète de type 2]({{< relref "diabete-type-2.md" >}})
 - [VIH avec lipodystrophie]({{< relref "vih-sida.md" >}})
 - Cytolyse hépatique inexpliquée (augmentation des transaminases)

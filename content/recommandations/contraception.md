@@ -145,7 +145,7 @@ Privilégier une contraception non hormonale après traitement d'un hépatocarci
 Possibles seulement si 1 seul facteur de risque cardiovasculaire isolé parmi:
 
 - Âge ≥ 35 ans
-- Surpoids, obésité
+- Surpoids, [obésité]({{< relref "obesite-adulte.md" >}})
 - [Tabac > 15 cig/j]({{< relref "arret-tabac.md" >}})
 - Dyslipidémie contrôlée
 - [Diabète type 2]({{< relref "diabete-type-2.md" >}})

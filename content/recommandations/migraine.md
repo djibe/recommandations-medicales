@@ -205,7 +205,7 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
   - Terrain cardiovasculaire et respiratoire (asthme, hypertension artérielle)
   - Troubles du sommeil (ronflement, insomnie)
   - Autres douleurs
-  - Obésité
+  - [Obésité]({{< relref "obesite-adulte.md" >}})
 - Histoire des céphalées
   - Âge de début
   - Localisation, type, durée, intensité, périodicité, jours mensuels

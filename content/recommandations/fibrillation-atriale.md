@@ -102,8 +102,8 @@ Inhibiteurs calciques non dihydropyridiniques: diltiazem ou vérapamil.
   - Inactivité ou activité physique intense
   - Hypercholestérolémie
   - [Alcool]({{< relref "sevrage-alcool.md" >}})
-  - Tabac
-  - Obésité
+  - [Tabac]({{< relref "arret-tabac.md" >}})
+  - [Obésité]({{< relref "obesite-adulte.md" >}})
 - Maladies cardiovasculaires
   - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
   - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) (x1,7)
@@ -112,7 +112,7 @@ Inhibiteurs calciques non dihydropyridiniques: diltiazem ou vérapamil.
   - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
   - Coronaropathie
   - [Artériopathie]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
-  - Embolie pulmonaire
+  - [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
 - Causes extra-cardiaques
   - [Apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
   - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})

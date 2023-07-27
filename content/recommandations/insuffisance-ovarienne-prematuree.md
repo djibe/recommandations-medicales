@@ -217,7 +217,7 @@ Recommandations de prise en charge spécifiques pour les femmes suivantes:
   N'est pas une contre-indication au THS au cours de l'IOP. Œstradiol transdermique de préférence.
 - [Maladie veineuse thromboembolique](/tags/mvte/)  
   Avis hématologique avant THS en cas d'antécédent. Si autorisé, œstradiol transdermique.
-- Obésité  
+- [Obésité]({{< relref "obesite-adulte.md" >}})  
   Œstradiol transdermique recommandé.
 - Fibromes  
   Ne sont pas une contre-indication au THS.

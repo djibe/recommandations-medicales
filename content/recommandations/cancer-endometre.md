@@ -37,8 +37,8 @@ Cancer de l'endomètre
 ### Facteurs de risque de cancer de l'endomètre
 
 - Principaux facteurs de risque
-  - Obésité
-  - Diabète
+  - [Obésité]({{< relref "obesite-adulte.md" >}})
+  - [Diabète](/tags/diabete/)
   - Traitement d'un [cancer du sein]({{< relref "cancer-sein.md" >}}) par tamoxifène
 - Syndrome de Lynch/HNPCC
 

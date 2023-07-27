@@ -54,7 +54,7 @@ SPI
 ### Facteurs de risque de kyste pilonidal
 
 - Antécédents familiaux de kyste pilonidal
-- Obésité
+- [Obésité]({{< relref "obesite-adulte.md" >}})
 - Sédentarité
 - Traumatismes locaux répétés
 - Pilosité prononcée

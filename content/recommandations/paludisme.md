@@ -194,15 +194,15 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 |----------------|------------------------------------------|----------------------------------------|---------------------------|---------------------------------------------|
 | Pour tous | PPAV + CS si F | idem | idem | idem |
 | Séjour conventionnel | Non | CPAP<sup>1</sup> | Non | CPAP<sup>1</sup> |
-| Séjour non conventionnel<br>< 1m avec<br>nuitées en zone<br>rurale/forestière | Non<sup>3</sup><br>TTR si isolé | CPAP<sup>1</sup> | Non<sup>3</sup><br>TTR si isolé | CPAP<sup>1</sup> |
+| Séjour non conventionnel<br>< 1m avec<br>nuitées en zone<br>rurale/forestière | Non³<br>TTR si isolé | CPAP<sup>1</sup> | Non³<br>TTR si isolé | CPAP<sup>1</sup> |
 | Séjour non conventionnel<br>+1m avec<br>nuitées en zone<br>rurale/forestière | Avis spé | CPAP<sup>1</sup> | Avis spé | CPAP<sup>1</sup> |
-| Expatriation prolongée | Avis spé | - Sahel: CPAP<br>en saison pluies<sup>2</sup><br>- Forestière:<br>toute l'année | Avis spé | CPAP |
+| Expatriation prolongée | Avis spé | - Sahel: CPAP<br>en saison pluies²<br>- Forestière:<br>toute l'année | Avis spé | CPAP |
 {{< /table >}}
 
 > **Légende**: **CS si F** = Consultation sans délai si fièvre pendant le séjour ou dans les 3 mois qui suivent le retour et information sur la notion de voyage dans les 3 derniers mois ; **TTR** = traitement de réserve antipaludique  
 <sup>1</sup> sauf les zones non à risque d'Afrique australe (Afrique du Sud hors région Nord Est, Sud de la Namibie et du Botswana)  
-<sup>2</sup> début dès le début de la saison des pluies; arrêt 6 semaines après la fin des pluies  
-<sup>3</sup> pour les zones à risque élevé de transmission du paludisme, consulter le tableau 10 du HCSP (p. 130) pour éventuellement adapter cette recommandation au niveau de risque réel du voyageur
+² début dès le début de la saison des pluies; arrêt 6 semaines après la fin des pluies  
+³ pour les zones à risque élevé de transmission du paludisme, consulter le tableau 10 du HCSP (p. 130) pour éventuellement adapter cette recommandation au niveau de risque réel du voyageur
 
 Choix de la chimioprophylaxie antipaludique (CPAP):
 

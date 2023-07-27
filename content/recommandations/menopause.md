@@ -327,7 +327,7 @@ Contre-indications au traitement de la ménopause:
   - Exploration de saignements utérins anormaux
 - Contre-indications à l'estradiol par voie orale
   - [Antécédent de thrombo-embolie (MVTE)](/tags/mvte/)
-  - Obésité
+  - [Obésité]({{< relref "obesite-adulte.md" >}})
   - Thrombophilie
   - Risque cardiovasculaire marqué
 

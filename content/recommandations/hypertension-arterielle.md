@@ -48,7 +48,7 @@ La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance car
 | Catégorie                 | Systolique (mmHg) |       | Diastolique (mmHg) | Action                                                                        |
 |---------------------------|:-----------------:|:-----:|:------------------:|-------------------------------------------------------------------------------|
 | Optimale                  | &lt; 120          | et    | &lt; 80            | Surveillance min. /5 ans                                                      |
-| Normale                   | 120-129           | et/ou | 80-84              | Surv. min. / 3 ans (6 mois si FRCV)                                           |
+| Normale                   | 120-129           | et/ou | 80-84              | Surv. min. /3 ans (6 mois si FRCV)                                           |
 | Normale haute             | 130-139           | et/ou | 85-89              | Surv. **annuelle**, éliminer HTA masquée par AMT/MAPA, traiter si THRCV           |
 | Hypertension grade&nbsp;1 | 140-159           | et/ou | 90-99              | Éliminer blouse blanche par AMT/MAPA, essai RHD 3-6 mois, traiter si HRCV     |
 | Hypertension grade&nbsp;2 | 160-179           | et/ou | 100-109            | Confirmer par AMT/MAPA en qq j/sem, traitement immédiat et contrôle sous 3 mois |
@@ -179,7 +179,7 @@ Mesure standardisée nécessaire pour le contrôle des objectifs tensionnels:
 
 > *ESH 2021* et *ACC/AHA 2017* [Poster (PDF)](https://www.stridebp.org/images/training_bp/Office_BP_measurements_Poster.pdf).
 
-L'automesure tensionnelle doit être utilisée en complément (effet blouse blanche fréquent, hypertension masquée, hypertension résistante), d'autant plus si les valeurs sont limites 130-159/85-99 mmHg.
+L'automesure tensionnelle doit être utilisée en complément (effet blouse blanche fréquent, hypertension masquée, hypertension résistante), d'autant plus si les valeurs sont limites 130-159 / 85-99 mmHg.
 
 En cas de discordance mesures au cabinet et automesure/MAPA, répéter les mesures ambulatoires et privilégier des MAPA.
 

@@ -194,7 +194,7 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
   - Cancers liés au tabac (poumon, vessie, digestifs)
   - Dépression, anxiété, addictions, troubles cognitifs
   - [Ostéoporose]({{< relref "osteoporose.md" >}}) et amyotrophie
-  - Obésité, [dénutrition]({{< relref "denutrition.md" >}}), anémie et polyglobulie
+  - [Obésité]({{< relref "obesite-adulte.md" >}}), [dénutrition]({{< relref "denutrition.md" >}}), anémie et polyglobulie
   - [Apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), dilatation des bronches
   - [Reflux gastrique]({{< relref "reflux-gastro-oesophagien.md" >}})
 - Antécédents familiaux  

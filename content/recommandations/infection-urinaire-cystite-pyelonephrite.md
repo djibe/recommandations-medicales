@@ -78,8 +78,8 @@ Un ECBU de contrôle est réalisé uniquement en cas d'évolution défavorable.
 {{< table title="Seuils de bactériurie à l'ECBU selon le germe et le sexe pour le diagnostic d'infection urinaire selon SPILF 2018" >}}
 | Bactérie                                                                                              | Seuil femme (≥ UFC/mL) | Seuil homme    |
 |-------------------------------------------------------------------------------------------------------|-----------------------:|---------------:|
-| *E. coli*, *S. saprophyticus*                                                                         | 10<sup>3</sup>         | 10<sup>3</sup> |
-| Entérobactérie autre que *E. coli*,<br>entérocoque, *C. urealyticum*,<br>*P. aeruginosa*, *S. aureus* | 10<sup>4</sup>         | 10<sup>3</sup> |
+| *E. coli*, *S. saprophyticus*                                                                         | 10³                    | 10³            |
+| Entérobactérie autre que *E. coli*,<br>entérocoque, *C. urealyticum*,<br>*P. aeruginosa*, *S. aureus* | 10<sup>4</sup>         | 10³            |
 {{< /table >}}
 
 {{% /collapse %}}

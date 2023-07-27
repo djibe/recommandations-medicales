@@ -151,7 +151,7 @@ Rechercher une fibromyalgie en cas de douleur chronique.
 - Antécédents
 - Traitements en cours et essayés
 - Facteurs de risque cardiovasculaire  
-  Tabac, alcool, surpoids (21-35%) et obésité (32-50%), sédentarité.
+  Tabac, alcool, surpoids (21-35%) et [obésité]({{< relref "obesite-adulte.md" >}}) (32-50%), sédentarité.
 - Contexte socio-professionnel
 - Facteurs aggravants  
   Stress, émotion, posture prolongée, variations météorologiques.

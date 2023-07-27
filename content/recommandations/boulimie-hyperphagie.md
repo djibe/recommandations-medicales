@@ -43,7 +43,7 @@ Boulimie nerveuse
 : Les comorbidités psychiatriques sont très fréquentes: dépression, anxiété, addictions, troubles de la personnalité et autres TCA.
 
 Hyperphagie boulimique
-: Trouble des conduites alimentaires (TCA) marqué par des crises de **boulimie sans les comportements compensatoires** associés à la boulimie nerveuse, à l'origine d'un surpoids ou d'une **obésité**.
+: Trouble des conduites alimentaires (TCA) marqué par des crises de **boulimie sans les comportements compensatoires** associés à la boulimie nerveuse, à l'origine d'un surpoids ou d'une **[obésité]({{< relref "obesite-adulte.md" >}})**.
 : Le trouble débute un peu plus tard (jeune adulte) sans différence de sexe.
 
 Le vécu douloureux du trouble impose de faire preuve de bienveillance et d'empathie. Éviter d'être moralisateur et informer que la guérison est possible et le répéter régulièrement
@@ -300,7 +300,7 @@ Informer et traiter les risques liés à chaque atteinte:
   - Laxatifs: arrêt progressif
   - Diurétiques: arrêt
 - Supplémentations vitamino-calciques adaptées à l'âge, régime et dosages
-- Obésité: prise en charge spécifique
+- [Obésité]({{< relref "obesite-adulte.md" >}}): prise en charge spécifique
 
 {{% /collapse %}}
 {{%collapse "Information du patient et éducation thérapeutique" %}}

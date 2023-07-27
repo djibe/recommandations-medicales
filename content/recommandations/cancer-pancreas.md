@@ -27,7 +27,7 @@ imageSrc = "Invasion du deuxième segment duodénal par une masse pancréatique 
 - Bilan avec scanner thoraco-abdomino-pelvien avec injection en semi-urgence dès la suspicion
 - Le marqueur tumoral CA 19-9 n'a aucun intérêt pour le dépistage ou le diagnostic du cancer du pancréas
 - La prise en charge du cancer du pancréas est semi-urgente
-- Pour toute la population: prévention du cancer du pancréas par correction des facteurs de risque ([tabagisme]({{< relref "arret-tabac.md" >}}), obésité et [diabète]({{< relref "diabete-type-2.md" >}}))
+- Pour toute la population: prévention du cancer du pancréas par correction des facteurs de risque ([tabagisme]({{< relref "arret-tabac.md" >}}), [obésité]({{< relref "obesite-adulte.md" >}}) et [diabète]({{< relref "diabete-type-2.md" >}}))
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -47,7 +47,7 @@ OU ≥ 3 cas de la même branche (quelque soit le degré de parenté et l'âge d
 - Antécédents familiaux de cancer du pancréas (CaPaFa)
 - [Diabète de type 2]({{< relref "diabete-type-2.md" >}}) ancien (x 1,5-3)
 - [Tabac]({{< relref "arret-tabac.md" >}})
-- Obésité (+45% d'incidence quand IMC > 35)
+- [Obésité]({{< relref "obesite-adulte.md" >}}) (+45% d'incidence quand IMC > 35)
 - Pancréatite chronique
 - Mutation BRCA1 et BRCA1
 - Néoplasie endocrinienne multiple type 1 (NEM1) et autres mutations

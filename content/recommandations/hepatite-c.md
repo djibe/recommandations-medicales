@@ -219,7 +219,7 @@ Prise en charge de l'hépatite C par antiviraux à action directe possible par t
   Enquête sur l'automédication +++.
 - Aucune consommation de pamplemousse ou d'orange sanguine pendant le traitement
 - Éviter toute consommation d'alcool
-- Lutte contre surpoids/obésité
+- Lutte contre surpoids/[obésité]({{< relref "obesite-adulte.md" >}})
 - Équilibre strict d'un diabète
 - Vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) et [hépatite B]({{< relref "hepatite-b.md" >}}) (après sérologie négative)
 - Vaccination [grippe]({{< relref "grippe.md" >}}) annuelle et {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque tous les 5 ans{{< /modal-btn >}}
@@ -293,7 +293,7 @@ accTitle: Prise en charge de l'hépatite C. Dr JB Fron d'après HAS 2019
   serologie["Sérologie VHC<br>(+ VHB + VIH)"] --> serologie+(Positive)
   style serologie stroke:#4150f5, stroke-width:1px
   serologie+ --> pcr(Charge virale VHC)
-    pcr -- Détectable --> comorbidite("Déjà traité VHC?<br>Alcool?<br>Diabète?<br>Obésité?")
+    pcr -- Détectable --> comorbidite("Déjà traité VHC ?<br>Alcool ?<br>Diabète ?<br>Obésité ?")
       comorbidite -- Oui --> spe(Adresser au spécialiste)
       comorbidite -- Non --> elasticite("Critères élasticité<br>remplis ?<br>(voir <em>Examens comp.</em>)")
         elasticite -- Non --> spe
