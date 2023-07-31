@@ -10,6 +10,7 @@
     "annees": "{{ .Params.annees }}",
     "sources": "{{ delimit .Params.sources ", " }}",
     "tags": "{{ delimit .Params.tags ", " }}",
+    "synonyms": "{{ .Params.synonyms }}",
     "icd10": "{{ .Params.icd10 }}",
     "date": "{{ .Date }}",
     "lastmod": "{{ .Lastmod }}",
