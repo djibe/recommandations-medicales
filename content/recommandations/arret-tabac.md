@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-11-21T14:11:22+01:00"
 publishdate = "2022-12-01"
-lastmod = "2023-02-04"
+lastmod = "2023-08-06"
 specialites = ["addictologie"]
 annees = "2019"
 sources = ["HAS", "HCSP", "INCa"]
@@ -82,6 +82,7 @@ Bénéfices importants sur la morbi-mortalité (cardiovasculaire et cancer du po
 - 1 hospitalisation cardiovasculaire sur 5
 - 1100 morts/an suite au tabagisme passif
 - Coût pour la société: 120 milliards d'euros/an (*OFDT*)
+- 1 euro investi dans la lutte antitabac en économise 4 (*[OCDE 2023](https://www.oecd-ilibrary.org/fr/social-issues-migration-health/evaluation-du-programme-national-de-lutte-contre-le-tabagisme-en-france_b656e9ac-fr)*)
 
 Un début dans l'adolescence est prédictif d'une dépendance adulte et d'autres dépendances.
 

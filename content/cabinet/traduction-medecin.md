@@ -27,16 +27,18 @@ L'intelligence artificielle nous permet aujourd'hui de disposer d'outils de trad
 
 {{< card-link-external title="Google Traduction" image="google-traduction.webp" url="https://play.google.com/store/apps/details?id=com.google.android.apps.translate" subtitle="Traductions vocales et transcriptions écrites en temps réel vers 108 langues. Préchargement des langues possible.">}}
 
-Ces 2 applis sont également disponibles sur iPhone. Elles sont utilisables tant qu'aucune donnée nominative n'est citée.
+Ces deux applications sont également disponibles sur iPhone. Elles sont utilisables tant qu'aucune donnée nominative n'est citée.
 
-L'application DeepL n'a pas été retenue, l'arabe et le vietnamien n'étant pas disponibles.
+L'application *DeepL* n'a pas été retenue, l'arabe et le vietnamien n'étant pas disponibles.
 
 ## Applications spécialisées pour la traduction des termes médicaux
 
 - Mediglotte ([Android](https://play.google.com/store/search?q=mediglotte&c=apps), [iPhone](https://apps.apple.com/fr/app/mediglotte/id1530674172))
 - TraducMed ([Web](http://www.traducmed.fr/), [Android](https://play.google.com/store/apps/details?id=fr.bilog.traducmed&hl=fr), [iPhone](https://apps.apple.com/us/app/traducmed/id1072676163))
 
-## Guides d'aide à la traduction
+## Guides d'aide à la traduction médicale
+
+Ensemble des guides de traduction publiés par Santé Publique France.
 
 {{< table title="Les 17 livrets de santé bilingues de Santé Publique France" class="datatable mt-0" >}}
 | Langue cible | Lien |
@@ -66,4 +68,4 @@ L'application DeepL n'a pas été retenue, l'arabe et le vietnamien n'étant pas
 
 Initiatives locales pour bénéficier d'un traducteur en consultation.
 
-Avec l'ARS Ile-de-France, appeler le GIP NUR: {{<phone>}}01 45 45 45 45{{</phone>}} (lun-ven 9-17h).
+En Île-de-France, appeler le GIP NUR: {{<phone>}}01 45 45 45 45{{</phone>}} (lun-ven 9-17h).

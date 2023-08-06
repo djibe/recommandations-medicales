@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T23:51:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2023-07-06"
+lastmod = "2023-08-06"
 specialites = ["hematologie"]
 annees = "2023"
 sources = ["MinSanté", "HCSP"]
@@ -83,10 +83,14 @@ La pénicilline V existe en sirop (250.000 UI/5 mL, 500.000 UI/5 mL, 1 MUI/10 mL
   25.000 UI/kg x 2/j (max 2 MUI/j) pendant 5 ans.  
 - Enfant < 10 kg  
   100.000 UI/kg/j pendant 5 ans.
-- Allergie aux bêtalactamines  
-  Érythromycine ([Ery®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61572941&typedoc=R)) 500 mg x 1/j (*SFAR*)
+- Allergie aux bêtalactamines
+  - Selon la *SFAR 2010*: érythromycine ([Ery®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61572941&typedoc=R)) 500 mg x 1/j
+  - Selon *Lee GM*: céfalexine 250 mg 1 cm x 2/j (en dehors des repas et sans lait) ou azithromycine 250 mg x 1/j
+- En cas de pénurie d'Oracilline®: amoxicilline (*[ANSM 2023](https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/oracilline-1-000-000-ui-comprime-secable-phenoxymethylpenicilline)*)
+  - Adulte selon *Lee GM*: amoxicilline 500 mg x 2/j
+  - Enfant selon *Lee GM*: amoxicilline 10 mg/kg x 2/j
 
-<< en cas de signes cliniques d'infection, même débutante, il est recommandé d’instaurer une antibiothérapie curative par céphalosporine de 3ème génération, type céfotaxime ou ceftriaxone, afin de limiter la survenue de sepsis graves >> (*SFAR*)
+> << en cas de signes cliniques d'infection, même débutante, il est recommandé d’instaurer une antibiothérapie curative par céphalosporine de 3ème génération, type céfotaxime ou ceftriaxone, afin de limiter la survenue de sepsis graves >> (*SFAR*)
 {.alert .alert-warning}
 
 {{% /collapse %}}
@@ -182,6 +186,10 @@ L'asplénie (par splénectomie ou autre) induit un risque infectieux majeur néc
 - [HCSP. Vaccination des personnes immunodéprimées ou aspléniques. Recommandations actualisées. 2014.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
 - [Dahyot-Fizelier C et Mimoz O. Gestion du patient splénectomisé. SFAR. 2010.](https://sfar.org/gestion-du-patient-splenectomise/)
 - [Omedit Centre. Prévention des infections chez le splénectomisé et dans l'asplénie fonctionnelle. 2010. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5198.pdf)
+
+### À lire
+
+[Lee GM. Preventing infections in children and adults with asplenia. Hematology Am Soc Hematol Educ Program. 2020.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33275684/)
 
 {{%/sources%}}
 {{% modal title="Vaccin pneumocoque" id="modal-pneumocoque"%}}
