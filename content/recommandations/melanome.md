@@ -336,7 +336,7 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 - [HAS. Mélanome cutané. Janvier 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-03/ald_30_guide_melanome_web.pdf)
 - [SFDermato. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d'un mélanome cutané MO. Décembre 2005. (PDF)](https://www.oncoderm.fr/upload/recommandations/9738-Prise-en-charge-des-meAlanome.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [Michielin O. et al. ESMO consensus conference recommendations on the management of locoregional melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39940-3/fulltext)
 - [Keilholz U. et al. ESMO consensus conference recommendations on the management of metastatic melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39939-7/fulltext)

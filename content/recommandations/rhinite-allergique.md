@@ -274,7 +274,7 @@ style suspicion stroke:#4150f5, stroke-width:1px
 - [Inserm. Rhinite allergique. 2017.](https://www.inserm.fr/dossier/rhinite-allergique/)
 - [Braun JJ et al; SPLF, SFA. Recommandations pour le diagnostic et la prise en charge de la rhinite allergique (épidémiologie et physiopathologie exclues) - Texte long. Rev Mal Respir. 2010.](https://splf.fr/recommandations-pour-le-diagnostic-et-la-prise-en-charge-de-la-rhinite-allergique-epidemiologie-et-physiopathologie-exclues-sfa-et-splf/)
 
-### À lire
+### Bibliographie en attente
 
 - [EUFOREA & ARIA](https://www.euforea.eu/)
 - [Annesi-Maesano I et al. Le Score For Allergic Rhinitis (SFAR) – version française. Revue Française d'Allergologie et d'Immunologie Clinique. 2004.](https://www.sciencedirect.com/science/article/abs/pii/S0335745703003526)

@@ -165,7 +165,7 @@ accTitle: Conduite à tenir et prise en charge d'une hernie pariétale d'après 
 - [Faucheron JL. Hernie inguinale de l'adulte. Item 245. Mars 2005.](https://doczz.fr/doc/2579938/hernie-inguinale-de-l-adulte--245a-)
 - [Sauvat F. Urgences en chirurgie viscérale pédiatrique.](https://urgences-serveur.fr/IMG/pdf/Urg_chir_pediatriques.pdf)
 
-### À lire
+### Bibliographie en attente
 
 [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pathologies courantes de la région inguino-scrotale et du pénis. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/pathologies)
 

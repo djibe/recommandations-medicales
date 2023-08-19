@@ -96,7 +96,7 @@ En l'absence de testicule ou simple présence d'un reliquat, exérèse de ce der
 - [Collège Français des Enseignants en Urologie (CFEU). Pathologie génito-scrotale chez le garçon et chez l'homme. Item 50. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-50-Pathologies-genito-scrotale.pdf)
 - [Ameli. Comprendre la cryptorchidie ou testicule non descendu. 09/04/2020.](https://www.ameli.fr/assure/sante/themes/cryptorchidie-testicule-non-descendu-ectopie-testiculaire/comprendre-cryptorchidie)
 
-### À lire
+### Bibliographie en attente
 
 - {{< references/college-endocrino >}}
 - [Gueorguieva I, Bouvattier C; SFP. Cryptorchidie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/endocrinologie/cryptorchidie)

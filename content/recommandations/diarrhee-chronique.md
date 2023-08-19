@@ -238,7 +238,7 @@ Boire normalement (1,5 L/j) et éviter le jeûne (pullulation microbienne avec b
 - [Tarrerias AL et al. Régime alimentaire en cas de diarrhées. CREGG. 2010. (PDF)](https://www.cregg.org/wordpress/wp-content/uploads/2012/06/documents-tinymce-00004-fiche-diarrhe.pdf)
 - [SNFGE. Diarrhée chronique.](https://www.snfge.org/content/diarrhee-chronique)
 
-### À lire
+### Bibliographie en attente
 
 [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Diarrhée chronique. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/diarrhee)
 

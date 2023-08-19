@@ -181,7 +181,7 @@ graph TB
 - Société française d'hématologie (sfh). Hématologie. Réussir son DFASM. 2021.
 - [Donadieu J. Recommandations pour le diagnostic et la prise en charge des patients ayant une neutropénie chronique. CEREDIH. 2009. (PDF)](https://www.ceredih.fr/uploads/Recos-neutro_immuno-long_v4.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - {{< references/spilf-2020 >}}
 - [Donadieu J; SFP. Neutropénie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/hematologie/neutropenie)

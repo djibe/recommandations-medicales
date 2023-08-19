@@ -428,7 +428,7 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
 - [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 UE 6. 2017.](https://cedef.info/enseignement-2eme-cycle-dermatologie/)
 
-### À lire
+### Bibliographie en attente
 
 - [CMIT. Infection à VIH. Item 169. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-169-web.pdf)
 - [HAS. Infection par le VIH](https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih)

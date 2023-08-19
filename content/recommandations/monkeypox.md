@@ -241,7 +241,7 @@ Antiviral disponible en gélules indiqué chez les personnes à **risque de form
 - [SFDermato. Monkeypox Virus Manifestations dermatologiques.](https://www.sfdermato.org/upload/news/groupemonkeypeauxfinal-1.pdf)
 - [Institut Pasteur. Variole du singe (Monkeypox).](https://www.pasteur.fr/fr/centre-medical/fiches-maladies/variole-du-singe-monkeypox?utm_source=sendinblue&utm_campaign=Newsletter%20de%20lInstitut%20Pasteur%20-%20N%2054&utm_medium=email)
 
-### À lire
+### Bibliographie en attente
 
 - [HCSP. Mesures de prévention vis-à-vis de l'infection à Monkeypox virus. 08/07/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1230)
 - [COREB. Monkeypox - Prendre en charge les patients.](https://www.coreb.infectiologie.com/fr/prendre-en-charge-les-patients-fiches-pratiques.html)

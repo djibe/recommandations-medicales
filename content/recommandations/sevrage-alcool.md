@@ -654,7 +654,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 - [Fédération Addiction](https://www.federationaddiction.fr/)
 - [Collège des Enseignants de Neurologie (CEN). Addiction à l'alcool - Complications neurologiques de l'alcoolisme.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/addiction-lalcool-complications-neurologiques-lalcoolisme)
 
-### À lire
+### Bibliographie en attente
 
 - [Inserm. Réduction des dommages associés à la consommation d'alcool. Synthèses et recommandations. 2021.](https://www.inserm.fr/expertise-collective/reduction-dommages-associes-consommation-alcool/)
 - [Fédération Française d'Addictologie](https://www.addictologie.org/)

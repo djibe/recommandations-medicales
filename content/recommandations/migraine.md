@@ -579,7 +579,7 @@ graph TB
 - [Anaes. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant : aspects cliniques et économiques. Recommandations de bonne pratique. Octobre 2002.](https://www.has-sante.fr/jcms/c_272212/fr/prise-en-charge-diagnostique-et-therapeutique-de-la-migraine-chez-l-adulte-et-chez-l-enfant-aspects-cliniques-et-economiques)
 - [ICHD-3 version française 2019 (PDF)](https://ichd-3.org/wp-content/uploads/2019/06/ICHD3-traduction-fran%C3%A7aise-VF-%C3%A0-publier.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/migraine-nevralgie-du-trijumeau-algies-face)
 - [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf) (p.29)

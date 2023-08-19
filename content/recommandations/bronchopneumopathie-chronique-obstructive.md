@@ -630,7 +630,7 @@ graph TB
 - [Wedzicha JA et al. Prevention of COPD exacerbations: a European Respiratory Society/American Thoracic Society guideline. Eur Respir J. 2017.](https://doi.org/10.1183/13993003.02265-2016)
 - [Zysman M et al. Propositions de la SPLF pour l'optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016. (PDF)](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [Haroon S et al. Predicting risk of undiagnosed COPD: development and validation of the TargetCOPD score. Eur Respir J. 2017.](https://erj.ersjournals.com/content/49/6/1602191.long)
 

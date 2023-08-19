@@ -205,7 +205,7 @@ La prise en charge de l'hypertension artérielle pulmonaire (HTAP) relève uniqu
 - [Collège National des Enseignants de Cardiologie. Hypertension artérielle pulmonaire de l'enfant et de l'adulte. Item 222. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch19_hypertension_pulmonaire.pdf)
 - [Orphanet. Hypertension artérielle pulmonaire idiopathique/familiale.](https://www.orpha.net/consor/www/cgi-bin/OC_Exp.php?lng=FR&Expert=422)
 
-### À lire
+### Bibliographie en attente
 
 [Delcroix M. et al. ERS statement on chronic thromboembolic pulmonary hypertension. European Respiratory Journal. 2021.](https://erj.ersjournals.com/content/57/6/2002828)
 

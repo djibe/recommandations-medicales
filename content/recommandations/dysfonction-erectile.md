@@ -440,7 +440,7 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 - [Nehra A et al. The Princeton III Consensus Recommendations for the Management of Erectile Dysfunction and Cardiovascular Disease. Mayo Clinic Proceedings. 2012.](https://www.mayoclinicproceedings.org/article/S0025-6196%2812%2900635-0/fulltext)
 - [Cuzin B. et al; AIUS. Recommandations aux médecins généralistes pour la prise en charge de première intention de la dysfonction érectile. 2010. (PDF)](https://aius.fr/wp-content/uploads/Reco-AIUS-2010-DE.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [Collège Français des Enseignants en Urologie (CFEU). Sexualité normale et ses troubles. Item 50. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-58-Sexualite-normale-et-ses-troubles.pdf)
 - [Collège Français des Enseignants en Urologie (CFEU). Trouble de l'érection. Item 126. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-126-Troubles-de-lerection.pdf)

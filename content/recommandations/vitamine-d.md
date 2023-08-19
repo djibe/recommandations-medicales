@@ -280,7 +280,7 @@ Ne pas utiliser d'autres formes de supplémentations.
 - [Société Française de Pédiatrie. La Vitamine D : une vitamine toujours d'actualité chez l'enfant et l'adolescent. Mise au point par le Comité de nutrition de la Société française de pédiatrie. 2012. (PDF)](https://afpa.org/content/uploads/2017/07/Reco_VIT_D_VersionFR_VF.pdf)
 - [HAS. Guide du parcours de soins - Maladie rénale chronique de l'adulte. Février 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
 
-### À lire
+### Bibliographie en attente
 
 [HCSP. Avis relatif à la couverture des besoins de la population générale en vitamine D et en fer. 21/06/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1251)
 

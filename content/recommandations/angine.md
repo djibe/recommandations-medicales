@@ -257,7 +257,7 @@ accTitle: Prise en charge de l'angine selon le tableau clinique d'après SPILF/H
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - Collège Français d'ORL et de Chirurgie Cervico-faciale. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 146 UE6.
 
-### À lire
+### Bibliographie en attente
 
 [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Angines. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/angines)
 

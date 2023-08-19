@@ -388,7 +388,7 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 - [HAS. Fibrillation atriale. Guide parcours de soins. Février 2014.](https://www.has-sante.fr/jcms/c_1741768/fr/guide-parcours-de-soins-fibrillation-atriale)
 - [Société Française de Gériatrie et Gérontologie et Société Française de Cardiologie. Prise en charge de la fibrillation atriale du sujet âgé. La Revue de Gériatrie. 2013. (PDF)](http://www.omedit-idf.fr/wp-content/uploads/2015/02/CV-antico-recoFASFGGSFC2013.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - ETP: 273, MobiGuide 279, 281
 

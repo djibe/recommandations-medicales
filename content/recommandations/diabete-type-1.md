@@ -290,7 +290,7 @@ Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heur
 - [Massin P et al. Référentiel pour le dépistage et la surveillance des complications oculaires du patient diabétique. Validé par la Société Francophone du Diabète (SFD) et par la Société Française d'Ophtalmologie (SFO). Med Mal Metab. 2016. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_complications_oculaires_sfd_sfo_mmm.pdf)
 - IDF. Oral health for people with diabetes. 2009.
 
-### À lire
+### Bibliographie en attente
 
 - [D'Souza D et al. Incidence of Diabetes in Children and Adolescents During the COVID-19 Pandemic: A Systematic Review and Meta-Analysis. JAMA Netw Open. 2023.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2806712)
 - {{< references/ada-soc >}}

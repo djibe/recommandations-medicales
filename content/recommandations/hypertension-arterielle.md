@@ -475,7 +475,7 @@ Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine
 - [HAS, SFHTA. Prise en charge de l'hypertension artérielle de l'adulte. Fiche mémo. Septembre 2016.](https://www.has-sante.fr/jcms/c_2059286/fr/prise-en-charge-de-l-hypertension-arterielle-de-l-adulte)
 - [SFHTA. Hypertension artérielle du sujet noir. Décembre 2017. (PDF)](https://www.sfhta.eu/wp-content/uploads/2018/10/SFHTA_Fiche_technique_HTA-du-sujet-noir_Decembre-2017.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [Mancia G et al. 2023 ESH Guidelines for the management of arterial hypertension The Task Force for the management of arterial hypertension of the European Society of Hypertension Endorsed by the European Renal Association (ERA) and the International Society of Hypertension (ISH). Journal of Hypertension. 2023.](https://journals.lww.com/jhypertension/Fulltext/9900/2023_ESH_Guidelines_for_the_management_of_arterial.271.aspx)
 - [Whealton S et al. Why Is Cuff Size So Important and Other Factors That Affect Accurate Blood Pressure Measurement. ACC. 2023.](https://www.acc.org/Latest-in-Cardiology/Articles/2023/06/05/19/18/Why-Is-Cuff-Size-So-Important-and-Other-Factors-That-Affect-Accurate-BP-Measurement?utm_medium=social&utm_source=twitter_post&utm_campaign=twitter_post)

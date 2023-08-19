@@ -318,7 +318,7 @@ style grossesse stroke:#4150f5, stroke-width:1px
 - [Santé Publique France. Varicelle.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-prevention-vaccinale/varicelle)
 - [Ameli. Varicelle](https://www.ameli.fr/assure/sante/themes/varicelle)
 
-### À lire
+### Bibliographie en attente
 
 - [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-168-web.pdf)
 - [HCSP. Guide pour l'immunisation en post-exposition : vaccination et immunoglobulines. 2016.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=548)

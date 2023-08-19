@@ -181,7 +181,7 @@ Les références sont mentionnées sous chaque article.
 
 - [Rapport parlementaire 2019 (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rapport_augros_2019.pdf)
 
-### À lire
+### Bibliographie en attente
 
 [Exonérations fiscales](https://www.iledefrance.paps.sante.fr/les-exonerations-fiscales-105?rubrique=10010&parent=10018)
 

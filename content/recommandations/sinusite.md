@@ -248,7 +248,7 @@ graph TB
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [SPILF. Antibiothérapie par voie générale en pratique courante dans les infections respiratoires hautes de l'adulte et de l'enfant. Recommandations de bonne pratique. 2011. (PDF)](http://www.infectiologie.com/UserFiles/File/medias/Recos/2011-infections-respir-hautes-argumentaire.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [CMIT. Infections naso-sinusiennes de l'adulte et de l'enfant. Item 148. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-148-web.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Sinusites. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/sinusites)

@@ -320,7 +320,7 @@ graph TB
 - [SNFGE. Maladie cœliaque](https://www.snfge.org/content/maladie-coeliaque)
 - [Ameli. Intolérance au gluten.](https://www.ameli.fr/hauts-de-seine/assure/sante/themes/intolerance-gluten-maladie-coeliaque)
 
-### À lire
+### Bibliographie en attente
 
 [Lengliné H, Fabre A. Diagnostic de la maladie coeliaque chez l'enfant. 07/06/2022.](https://pap-pediatrie.fr/hepato-gastro/diagnostic-de-la-maladie-coeliaque-chez-lenfant)
 

@@ -425,7 +425,7 @@ Exemples de conseils alimentaires à proposer en situation d'obésité:
 - [Rapport d'une consultation de l'OMS. Obésité : prévention et prise en charge de l'épidémie mondiale. Série de rapports techniques 894. Genève. 2003. (1998)](https://apps.who.int/iris/handle/10665/42734)
 - [Organisation Mondiale de la Santé](https://www.who.int/fr/health-topics/obesity)
 
-### À lire
+### Bibliographie en attente
 
 - [Ligue contre l'obésité. Les vrais chiffres de la grossophobie. Odoxa. 2021. (PDF)](https://liguecontrelobesite.org/app/uploads/2021/03/Odoxa-pour-OBEPI-Discriminations-et-ob%C3%A9sit%C3%A9-2.pdf)
 - Ligue contre l'obésité

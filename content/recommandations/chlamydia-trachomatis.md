@@ -171,7 +171,7 @@ PCR de contrôle à 6 mois
 - [Ministère de la Santé. Infections sexuellement transmissibles (IST). 05/01/2016.](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/infections-sexuellement-transmissibles-ist)
 - [Anaes. Évaluation du dépistage des infections uro-génitales basses à Chlamydia trachomatis en France. 2003.](https://www.has-sante.fr/jcms/c_464119/fr/evaluation-du-depistage-des-infections-uro-genitales-basses-a-chlamydia-trachomatis-en-france-2003)
 
-### À lire
+### Bibliographie en attente
 
 [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-162-web.pdf)
 

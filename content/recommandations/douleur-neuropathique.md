@@ -341,7 +341,7 @@ Bilan étiologique par le neurologue en cause non évidente.
 - [HAS. Prise en charge diagnostique des neuropathies périphériques. Recommandations professionnelles. Mai 2007.](https://www.has-sante.fr/jcms/c_598221/fr/prise-en-charge-diagnostique-des-neuropathies-peripheriques-polyneuropathies-et-mononeuropathies-multiples)
 - [Collège des enseignants de neurologie. Bases neurophysiologiques, mécanismes physiopathologiques d'une douleur aiguë et d'une douleur chronique – Thérapeutiques antalgiques, médicamenteuses et non médicamenteuses. Item 131.](https://www.cen-neurologie.fr/deuxieme-cycle/bases-neurophysiologiques-mecanismes-physiopathologiques-dune-douleur-aigue-dune)
 
-### À lire
+### Bibliographie en attente
 
 - [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)
 - [Attal N. et al. EFNS guidelines on the pharmacological treatment of neuropathic pain: 2010 revision. European Journal of Neurology. 2010.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2010.02999.x)

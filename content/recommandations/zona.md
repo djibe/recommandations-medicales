@@ -253,7 +253,7 @@ Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{< rel
 - [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 UE 6. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/14-Item-165-UE-6-infections-a-VIH-manifestations-cutano-muqueuses-de-la-primo-infection-a-VIH.pdf)
 - [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998. (PDF)](https://urgences-serveur.fr/IMG/article_PDF/Prise-en-charge-des-infections-VZV_a324.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [Werner R et al. European consensus-based (S2k) Guideline on the Management of Herpes Zoster – guided by the European Dermatology Forum (EDF) in cooperation with the European Academy of Dermatology and Venereology (EADV), Part 1: Diagnostic means. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13995)
 - [Werner R et al. European consensus-based (S2k) Guideline on the Management of Herpes Zoster – guided by the European Dermatology Forum (EDF) in cooperation with the European Academy of Dermatology and Venereology (EADV), Part 2: Treatment. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13957)

@@ -370,7 +370,7 @@ accTitle: Prise en charge d'une pyélonéphrite en ambulatoire d'après HAS 2021
 - {{< references/spilf-2020 >}}
 - [Caron F et al; SPILF. Recommandations pour la prise en charge des infections urinaires communautaires de l'adulte. Med Mal Inf. 2018.](https://www.sciencedirect.com/science/article/pii/S0399077X17310363)
 
-### À lire
+### Bibliographie en attente
 
 - [Plateel T et al. Nitrofurantoin failure in males with an uncomplicated urinary tract infection: a primary care observational cohort study. British Journal of General Practice. 2023.](https://bjgp.org/content/73/728/e204)
 - [NICE. Urinary tract infections in adults. 2023.](https://www.nice.org.uk/guidance/qs90/chapter/Quality-statements) (BU si < 2 sympt pour cystite)

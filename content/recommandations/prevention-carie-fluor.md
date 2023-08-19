@@ -161,7 +161,7 @@ Après 6 mois, la supplémentation relève uniquement d'un risque carieux élev�
 - [HAS. Stratégies de prévention de la carie dentaire. Mars 2010.](https://www.has-sante.fr/jcms/c_991245/fr/synthese-strategies-de-prevention-de-la-carie-dentaire)
 - [Union Française pour la Santé Bucco-dentaire](https://www.ufsbd.fr/)
 
-### À lire
+### Bibliographie en attente
 
 [Parosphère. Le brossage des dents.](https://fr.calameo.com/read/00004081837980b6f6e52)
 

@@ -371,7 +371,7 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 - [HAS. Accident vasculaire cérébral : méthodes de rééducation de la fonction motrice chez l'adulte. Juin 2012.](https://www.has-sante.fr/jcms/c_1334330/fr/accident-vasculaire-cerebral-methodes-de-reeducation-de-la-fonction-motrice-chez-l-adulte)
 - [HAS. Accident vasculaire cérébral :  prise en charge précoce. Mai 2009.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse)
 
-### À lire
+### Bibliographie en attente
 
 - [Kremer C. et al. European Stroke Organisation guidelines on stroke in women: Management of menopause, pregnancy and postpartum. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/full/10.1177/23969873221078696)
 - [Dziewas R. et al. European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/10.1177/23969873211039721)

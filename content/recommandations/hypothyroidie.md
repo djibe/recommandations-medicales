@@ -430,7 +430,7 @@ graph TB
 - [Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal. 2019.](https://doi.org/10.1177%2F2050640619844125)
 - Laboureau-Soares S. et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8.
 
-### À lire
+### Bibliographie en attente
 
 - [Olivier Petit I. Interprétation d'un bilan thyroïdien limite chez l'enfant (après 3 ans). Pas à Pas en Pédiatrie. 2021.](https://pap-pediatrie.fr/endocrinologie/interpretation-dun-bilan-thyroidien-limite-chez-lenfant-apres-3-ans)
 - [Castanet M, Cuny A. Perturbation du bilan thyroïdien. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/endocrinologie/perturbation-du-bilan-thyroidien)

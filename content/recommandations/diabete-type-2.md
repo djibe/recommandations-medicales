@@ -403,7 +403,7 @@ Le bilan n'a pas besoin d'être réalisé à jeun.
 - [HAS. Guide parcours de soins Diabète de type 2 de l'adulte. 2014.](https://www.has-sante.fr/jcms/c_1735060/fr/guide-parcours-de-soins-diabete-de-type-2-de-l-adulte)
 - IDF. Oral health for people with diabetes. 2009. (PDF)
 
-### À lire
+### Bibliographie en attente
 
 - [Davies MJ. et al. Management of hyperglycaemia in type 2 diabetes, 2022. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2022.](https://link.springer.com/article/10.1007/s00125-022-05787-2)
 - [Thivolet C. et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)

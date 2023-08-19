@@ -187,7 +187,7 @@ Il est essentiel d'apprendre à reconnaître les signes avant-coureurs des pouss
 - [Orphanet. La maladie de Verneuil. (PDF)](https://www.orpha.net/data/patho/Pub/fr/Verneuil-FRfrPub2049v01.pdf)
 - [dermato-info. l'hidradénite suppurée ou Maladie de Verneuil. 13/06/2020.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99hidrad%C3%A9nite-supur%C3%A9e-ou-maladie-de-verneuil)
 
-### À lire
+### Bibliographie en attente
 
 - [Bertolotti A. et al; Centre de preuves en dermatologie. Prise en charge de l'hidradénite suppurée. 2019. (PDF)](https://document.sfdermato.org/reco/hidrad%C3%A9nite-suppur%C3%A9e/SFD_2020-11_texte-court_prise-en-charge-de-l-hidrad%C3%A9nite-suppur%C3%A9e.pdf)
 - [SFD. recommandations Hidradénite suppurée - Arbre décisionnel. Août 2019.](https://reco.sfdermato.org/fr/recommandations-hidrad%C3%A9nite-suppur%C3%A9e)

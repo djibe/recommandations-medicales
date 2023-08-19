@@ -368,7 +368,7 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique SYNDROME HNPCC / lynch. 2009. (PDF)](https://www.e-cancer.fr/content/download/58350/531976/file/chir_prophy_predi_gene_hnpcc-lynch.pdf)
 - [INCa. Label métastases hépatiques synchrones du cancer colorectal (synthèse). (PDF)](https://www.e-cancer.fr/content/download/58365/532096/file/reco-label-mhs-synthese.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [ESMO. Localised Colon Cancer. Interactive Guideline.](http://interactiveguidelines.esmo.org/esmo-web-app/gl_toc/index.php?GL_id=74)
 - [Cervantes A. et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)

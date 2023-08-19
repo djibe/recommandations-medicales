@@ -285,7 +285,7 @@ graph TB
 - Cochrane Library
 - [Ameli. Fibromyalgie.](https://www.ameli.fr/assure/sante/themes/fibromyalgie)
 
-### À lire
+### Bibliographie en attente
 
 - [Wolfe F et al. 2016 Revisions to the 2010/2011 fibromyalgia diagnostic criteria. Semin Arthritis Rheum. 2016.](https://www.sciencedirect.com/science/article/abs/pii/S0049017216302086)
 - [HAS, SFETD. Douleur chronique : reconnaître le syndrome douloureux chronique, l'évaluer et orienter le patient. 2008.](https://www.has-sante.fr/jcms/c_732257/fr/douleur-chronique-reconnaitre-le-syndrome-douloureux-chronique-l-evaluer-et-orienter-le-patient)

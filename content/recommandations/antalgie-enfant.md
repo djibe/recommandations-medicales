@@ -231,7 +231,7 @@ Rassurer, selon l'âge mobiliser: présence des parents, portage, paroles, allai
 - [Association Sparadrap: informations pour les enfants, les parents et les soignants](https://www.sparadrap.org)
 - [International Association for the Study of Pain (IASP)](https://www.iasp-pain.org)
 
-### À lire
+### Bibliographie en attente
 
 - [Pillai Riddell RR et al. Non-pharmacological management of infant and young child procedural pain. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006275.pub4/full)
 - [Appli Livret Douleur APHP](https://play.google.com/store/apps/details?id=com.groupe_synapse.livretDouleur)

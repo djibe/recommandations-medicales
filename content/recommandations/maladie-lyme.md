@@ -303,7 +303,7 @@ Traitement par l'infectiologue des autres formes de borréliose.
 - [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques. Recommandations de bonne pratique. Juin 2018.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [Lantos PM et al. Clinical Practice Guidelines by the Infectious Diseases Society of America, American Academy of Neurology, and American College of Rheumatology: 2020 Guidelines for the Prevention, Diagnosis, and Treatment of Lyme Disease. Neurology. 2021.](https://pubmed.ncbi.nlm.nih.gov/33257476/)
 - [Mygland Å et al. EFNS guidelines on the diagnosis and management of European Lyme neuroborreliosis. European Journal of Neurology. 2010.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2009.02862.x)

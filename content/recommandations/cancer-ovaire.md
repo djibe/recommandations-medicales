@@ -197,7 +197,7 @@ Les personnes atteintes de mutations BRCA1 ou 2 ou du syndrome de Lynch ont un s
 - [ACOG. Opportunistic Salpingectomy as a Strategy for Epithelial Ovarian Cancer Prevention. 2019.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/04/opportunistic-salpingectomy-as-a-strategy-for-epithelial-ovarian-cancer-prevention)
 - [ACOG. The Role of the Obstetrician–Gynecologist in the Early Detection of Epithelial Ovarian Cancer in Women at Average Risk. 2017.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/09/the-role-of-the-obstetriciangynecologist-in-the-early-detection-of-epithelial-ovarian-cancer-in-women-at-average-risk)
 
-### À lire
+### Bibliographie en attente
 
 - [Sessa C. et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
 - [Colombo N. et al. ESMO–ESGO consensus conference recommendations on ovarian cancer: pathology and molecular biology, early and advanced stages, borderline tumours and recurrent disease. Annals of Oncology. 2019.](https://www.annalsofoncology.org/article/S0923-7534(19)31162-7/fulltext)

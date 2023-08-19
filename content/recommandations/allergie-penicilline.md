@@ -143,7 +143,7 @@ Test de réintroduction.
 - [Inesss. Outil d'aide à la décision en cas d'allergie aux pénicillines. Juin 2017. (PDF)](https://www.inesss.qc.ca/fileadmin/doc/INESSS/Rapports/Medicaments/INESSS_Outil_aide_decision_Allergie_penicilines.pdf)
 - [Mailhol C. et Didier A. Que faire devant une allergie aux bétalactamines? GREPI 2016. (PDF)](https://splf.fr/wp-content/uploads/2016/12/JMI-At2-A.Didier.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - <http://www.medqual.fr/images/PRO_2018/FORMATIONS/Elearning/Correction-Test-5.pdf>
 - <http://medqual.fr/images/slideshow/2021-Fiche-patient-Allergie-penicilline_1.pdf>

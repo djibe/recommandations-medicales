@@ -626,7 +626,7 @@ Le traitement hormonal de la ménopause (THM):
 - [Saxon GDGC. et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
 - Prescrire Redaction. Troubles liés à la ménopause. Premiers choix Prescrire. 2020.
 
-### À lire
+### Bibliographie en attente
 
 - [Crandall CJ. et al. Management of Menopausal Symptoms: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2801054)
 - [Hocke C. et al. Syndrome génito-urinaire de la ménopause (SGUM). RPC les femmes ménopausées du CNGOF et du GEMVi. Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000775)

@@ -227,7 +227,7 @@ Informer: les microbes ne sont pas éliminés par la sueur.
 - [Club des Cardiologues du Sport](https://www.clubcardiosport.com/)
 - [Dr Augé D. Visite de CNCI. (PDF)](https://www.hjd.asso.fr/sites/default/files/Visite%20de%20non%20contre-indication%20%C3%A0%20la%20pratique%20sportive%20V2.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [CCS, GERS-P. Position commune du Club des Cardiologues du Sport (CCS) et du Groupe Sport (GERS-P) de la Société Française de Cardiologie sur le bilan cardio-vasculaire recommandé pour la pratique sportive. 2022.](https://www.sfcardio.fr/publication/recommandations-sur-le-bilan-cardiovasculaire-recommande-pour-la-pratique-sportive)
 - SFC 2009

@@ -595,7 +595,7 @@ La prescription dépend uniquement du pneumologue:
 - [HAS. Insuffisance respiratoire chronique grave secondaire à un asthme. Octobre 2006.](https://www.has-sante.fr/jcms/c_452137/fr/ald-n14-insuffisance-respiratoire-chronique-grave-secondaire-a-un-asthme)
 - [HAS. Recommandations pour le suivi médical des patients asthmatiques adultes et adolescents. Recommandations de bonne pratique. 01/09/2004.](https://www.has-sante.fr/jcms/c_272363/fr/recommandations-pour-le-suivi-medical-des-patients-asthmatiques-adultes-et-adolescents)
 
-### À lire
+### Bibliographie en attente
 
 - [SPLF. Plans d'action de l'asthme](https://splf.fr/plans-daction-dans-lasthme/)
 - [NICE. Asthma inhalers and climate change. 2022. (PDF)](https://www.nice.org.uk/guidance/ng80/resources/inhalers-for-asthma-patient-decision-aid-pdf-6727144573)

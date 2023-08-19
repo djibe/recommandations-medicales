@@ -249,7 +249,7 @@ graph TB
 - [AFEF. Stéatose et stéato-hépatite](https://afef.asso.fr/la-maladie/maladies/steatose-et-steato-hepatite/)
 - [Ameli. Stéatose hépatique ou maladie du foie gras non alcoolique.](https://www.ameli.fr/assure/sante/themes/steatose-hepatique)
 
-### À lire
+### Bibliographie en attente
 
 - [Brissot P, Buffet C. Rapport 23-02. Le foie stéatosique non alcoolique : un défi de santé publique. Académie de médecine. 2023.](https://www.academie-medecine.fr/le-foie-steatosique-non-alcoolique-un-defi-de-sante-publique/)
 EASD

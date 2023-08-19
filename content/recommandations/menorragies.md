@@ -274,7 +274,7 @@ graph TB
 - [ANSM. Troubles menstruels après la vaccination contre le Covid-19 : état des connaissances et conseils aux femmes concernées. 21/07/2022.](https://ansm.sante.fr/actualites/troubles-menstruels-apres-la-vaccination-contre-le-covid-19-etat-des-connaissances-et-conseils-aux-femmes-concernees)
 - Prescrire Redaction. Fibromyome utérin. Premiers Choix Prescrire. Rev Prescrire. 2022.
 
-### À lire
+### Bibliographie en attente
 
 - [Vautier V; SFP. Saignements abondants d'origine utérine chez l'adolescente. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/endocrinologie/saignements-abondants-dorigine-uterine-chez-ladolescente)
 - Collège

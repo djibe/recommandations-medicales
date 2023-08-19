@@ -242,7 +242,7 @@ Le traitement doit être démarré dans les 6 semaines qui suivent la réalisati
 - [HAS. Guides du parcours de soins des cancers broncho-pulmonaires et mésothéliome pleural malin. 2013.](https://www.has-sante.fr/jcms/c_1650525/fr/guides-du-parcours-de-soins-des-cancers-broncho-pulmonaires-et-mesotheliome-pleural-malin)
 - [INCa. Cancer du poumon - Bilan initial. 2011.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-du-poumon-Bilan-initial-recommandation-argumentees)
 
-### À lire
+### Bibliographie en attente
 
 - [ESMO Clinical Practice Guidelines](https://www.esmo.org/guidelines/guidelines-by-topic/lung-and-chest-tumours)
 - [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 10 TER](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2010%20TER), 20 BIS, 20 TER, 61 BIS

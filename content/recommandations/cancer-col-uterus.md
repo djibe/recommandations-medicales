@@ -250,7 +250,7 @@ En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md"
 - [HAS. Cancer invasif du col utérin. Janvier 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_gm_col_uterin_web_2010-02-12_09-57-34_599.pdf)
 - [Vaccination Info Service. Les infections à papillomavirus humains (HPV).](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Les-Infections-a-Papillomavirus-humains-HPV)
 
-### À lire
+### Bibliographie en attente
 
 - [Marth C. et al. Cervical cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2017.](https://www.annalsofoncology.org/article/S0923-7534(19)42148-0/fulltext)
 

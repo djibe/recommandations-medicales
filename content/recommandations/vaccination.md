@@ -299,7 +299,7 @@ Documents pour informer sur la vaccination:
 - [Infovac](https://www.infovac.fr)
 - [Vaccination Info Service](https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Administration-des-vaccins)
 
-### À lire
+### Bibliographie en attente
 
 - [HAS. Obligations et recommandations vaccinales des professionnels : Actualisation des recommandations et obligations pour les étudiants et professionnels des secteurs sanitaire, médicosocial et en contacts étroits avec de jeunes enfants. 2023.](https://www.has-sante.fr/jcms/p_3424589/fr/obligations-vaccinales-des-professionnels-la-has-publie-le-1er-volet-de-ses-travaux)
 - [Cohen R. Administration des vaccins par voie intramusculaire. Médecine & enfance. 2021. (PDF)](https://www.infovac.fr/docman-marc/public/pratiques-vaccinales/1874-ia-intramusculaire-me-decine-et-enfance/file)

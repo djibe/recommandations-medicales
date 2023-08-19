@@ -67,7 +67,7 @@ Les normes de sécurité oculaire devraient prendre en compte la photosensibilit
 
 [Académie de médecine. L'enfant, l'adolescent, la famille et les écrans - Appel à une vigilance raisonnée sur les technologies numériques. Avril 2019.](https://www.academie-sciences.fr/fr/Rapports-ouvrages-avis-et-recommandations-de-l-Academie/enfant-ecrans-technologies-numeriques.html)
 
-### À lire
+### Bibliographie en attente
 
 - [Bernard J et al. Temps d’écran de 2 à 5 ans et demi chez les enfants de la cohorte nationale Elfe. BEH. 2023.](http://beh.santepubliquefrance.fr/beh/2023/6/2023_6_1.html)
 - HCSP. Avis relatif aux effets de l'exposition des enfants et des jeunes aux écrans. 2019.

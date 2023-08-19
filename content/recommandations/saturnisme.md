@@ -163,7 +163,7 @@ Nécessite d'informer les familles et le dosage trimestriel de la plombémie afi
 - InVS. Saturnisme chez l'enfant. Juin 2015.
 - [InVS et Inserm. Saturnisme - Quelles stratégies de dépistage chez l'enfant ? 2008.](http://www.ipubli.inserm.fr/bitstream/handle/10608/106/?sequence=150)
 
-### À lire
+### Bibliographie en attente
 
 - Haut conseil de la santé publique (HCSP). Mise à jour du guide pratique de dépistage et de prise en charge des expositions au plomb chez l'enfant mineur et la femme enceinte. 2017.
 - [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 1](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%201)

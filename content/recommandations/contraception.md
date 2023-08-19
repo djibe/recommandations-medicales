@@ -670,7 +670,7 @@ const chartOptions = {
 - CNGOF. Contraception du post-partum : recommandations pour la pratique clinique.
 - [HAS. Contraception : focus sur les méthodes efficaces. Actualités & Pratiques. Mai 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-05/contraception_focus_methodes_2013-05-22_18-09-35_548.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [Collège Français des Enseignants en Urologie (CFEU). Contraception. Item 36. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-36-Contraception-.pdf)
 - [HAS. Stérilisation à visée contraceptive chez l'homme et chez la femme. Septembre 2019.](https://www.has-sante.fr/jcms/c_1752765/fr/sterilisation-a-visee-contraceptive-chez-l-homme-et-chez-la-femme)

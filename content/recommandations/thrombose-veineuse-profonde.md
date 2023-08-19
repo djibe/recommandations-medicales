@@ -318,7 +318,7 @@ graph TB
 - [SFMV, GFHT. La place du dosage des d-dimères en médecine. Communiqué. 2021.](https://site.geht.org/actu/la-place-du-dosage-des-d-dimeres-en-medecine-document-medecins-sfmv-gfht-innovte/)
 - [Sanchez O et al; SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/pii/S0761842519300051)
 
-### À lire
+### Bibliographie en attente
 
 - [Guntupalli SR et al. Prevention of venous thromboembolism in patients with cancer. BMJ. 2023.](https://www.bmj.com/content/381/bmj-2022-072715)
 - [Mahé I et al; SPLF. Traitement de la maladie veineuse thromboembolique au cours du cancer. Mise à jour mars 2021. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/traitment-maladie-veineuse-maj2021.pdf)

@@ -265,7 +265,7 @@ En règle générale, le pessaire peut être utilisé plusieurs années (2-3 ans
 
 [HAS. Prolapsus génital de la femme : Prise en charge thérapeutique. Mai 2021.](https://www.has-sante.fr/jcms/p_3270984/fr/prolapsus-genital-de-la-femme-prise-en-charge-therapeutique)
 
-### À lire
+### Bibliographie en attente
 
 - [HAS. Complications de la chirurgie avec prothèse de l'incontinence urinaire d'effort et du prolapsus génital de la femme. 2023](https://www.has-sante.fr/jcms/p_3235557/fr/complications-de-la-chirurgie-avec-prothese-de-l-incontinence-urinaire-d-effort-et-du-prolapsus-genital-de-la-femme)
 - Collège gynéco

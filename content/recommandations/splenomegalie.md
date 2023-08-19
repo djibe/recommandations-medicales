@@ -223,7 +223,7 @@ graph TB
 - Collège des enseignants d'hématologie. Splénomégalie. Item 275. 2021.
 - Collège National des Enseignants de Médecine Interne (CEMI). Splénomégalie. Item 275. 2021.
 
-### À lire
+### Bibliographie en attente
 
 [Barlogis V. Splénomégalie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/hepato-gastro/splenomegalie)
 

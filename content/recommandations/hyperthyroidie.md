@@ -540,7 +540,7 @@ style haute stroke:#4150f5, stroke-width:1px
 - {{< references/college-endocrino >}}
 - [Kahaly GJ et al. 2018 European Thyroid Association Guideline for the Management of Graves' Hyperthyroidism. Eur Thyroid J. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6140607/)
 
-### À lire
+### Bibliographie en attente
 
 - [Olivier Petit I. Interprétation d'un bilan thyroïdien limite chez l'enfant (après 3 ans). Pas à Pas en Pédiatrie. 2021.](https://pap-pediatrie.fr/endocrinologie/interpretation-dun-bilan-thyroidien-limite-chez-lenfant-apres-3-ans)
 - [Castanet M, Cuny A. Perturbation du bilan thyroïdien. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/endocrinologie/perturbation-du-bilan-thyroidien)

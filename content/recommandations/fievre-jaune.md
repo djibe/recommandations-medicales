@@ -106,7 +106,7 @@ La **vaccination anti-amarile** est réalisée dans un centre homologué avec re
 - [OMS. Fièvre jaune. 07/05/2019.](https://www.who.int/fr/news-room/fact-sheets/detail/yellow-fever)
 - [HCSP. Vaccination de rappel contre la fièvre jaune pour la Guyane. Nouvelles recommandations. 17/12/2015.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=531)
 
-### À lire
+### Bibliographie en attente
 
 [OMS. Mise à jour sur la fièvre jaune dans le monde. 2020.](https://apps.who.int/iris/bitstream/handle/10665/344323/WER9633-377-392-eng-fre.pdf?sequence=1&isAllowed=y)
 

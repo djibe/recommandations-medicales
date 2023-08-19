@@ -98,7 +98,7 @@ Nécessaire chez < 2% des enfants.
 - [CIRIHA. Le lait - Les allergies croisées.](http://ciriha.org/index.php/allergies-et-intolerances-2/le-lait/les-allergies-croisees-et-associees)
 - [EBMFrance. Allergie au lait de vache.](https://www.ebmfrance.net/fr/Pages/ebm/ebm00645.aspx)
 
-### À lire
+### Bibliographie en attente
 
 [Couderc L, Mouterde O, Marguet C; SFP. Allergie aux protéines du lait de vache. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/allergo-pneumo/reintroduction-des-proteines-de-lait-de-vache)
 

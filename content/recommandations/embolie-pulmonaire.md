@@ -322,7 +322,7 @@ accTitle: Prise en charge ambulatoire d'une suspicion d'embolie pulmonaire d'apr
 - [Sanchez O et al; SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://doi.org/10.1016/j.rmr.2019.01.003)
 - [Collège National des Enseignants de Cardiologie. Thrombose veineuse profonde et embolie pulmonaire. Item 224. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch21_maladie_veineuse_te.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [Stavros V et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS). 2019.](https://erj.ersjournals.com/content/54/3/1901647)
 - [Collège des Enseignants de Pneumologie (CEP). Embolie pulmonaire et thrombose veineuse profonde. Item 226 & 330. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_226_et_330_MTEV_2021_ex_items_ex-items_224_et_326v3.pdf)

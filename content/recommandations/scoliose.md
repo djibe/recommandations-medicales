@@ -197,7 +197,7 @@ Informations sur la scoliose:
 - Prescrire Redaction. Histoire naturelle de la scoliose idiopathique. Rev Prescrire. 2006.
 - [HAS. Propositions portant sur le dépistage individuel chez l'enfant de 7 à 18 ans, destinées aux médecins généralistes, pédiatres et médecins scolaires. 2005.](https://www.has-sante.fr/jcms/c_451142/fr/propositions-portant-sur-le-depistage-individuel-chez-l-enfant-de-7-a-18-ans-destinees-aux-medecins-generalistes-pediatres-et-medecins-scolaires)
 
-### À lire
+### Bibliographie en attente
 
 - [International Society on Scoliosis Orthopaedic and Rehabilitation Treatment (SOSORT)](https://www.sosort.org)
 - [Blevins K et al. Management of Scoliosis. Adv Pediatr. 2018. [payant]](https://www.advancesinpediatrics.com/article/S0065-3101(18)30014-8/fulltext)

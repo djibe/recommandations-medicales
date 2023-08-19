@@ -167,7 +167,7 @@ Suivi après traitement du cancer de l'endomètre:
 - [HAS. Cancer de l'endomètre. Actes et prestations. Février 2016.](https://www.has-sante.fr/jcms/c_1021574/fr/ald-n-30-cancer-de-l-endometre)
 - [HAS, INCa. Cancer de l'endomètre. Décembre 2010. (PDF)](https://www.e-cancer.fr/content/download/95892/1020980/file/GUIALDEND11.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [ACOG. Endometrial Intraepithelial Neoplasia. 2015. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2015/05/endometrial-intraepithelial-neoplasia)
 - [Colombo N. et al. ESMO-ESGO-ESTRO Consensus Conference on Endometrial Cancer: diagnosis, treatment and follow-up. Annals of Oncology. 2016.](https://www.annalsofoncology.org/article/S0923-7534(19)35337-2/fulltext)

@@ -339,7 +339,7 @@ accTitle: Prise en charge de l'hypertrophie bénigne de la prostate (HBP) d'apr�
 - [McConnell JD. et al. The long-term effect of doxazosin, finasteride, and combination therapy on the clinical progression of benign prostatic hyperplasia. N Engl J Med. 2003.](https://www.nejm.org/doi/10.1056/NEJMoa030656)
 - [Anaes. Prise en charge diagnostique et thérapeutique de l'hypertrophie bénigne de la prostate. 2003.](https://www.has-sante.fr/jcms/c_272237/fr/prise-en-charge-diagnostique-et-therapeutique-de-l-hypertrophie-benigne-de-la-prostate)
 
-### À lire
+### Bibliographie en attente
 
 EAU 2022 Nocturia chap 5.5, incontinence chap 5.6
 

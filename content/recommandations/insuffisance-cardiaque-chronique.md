@@ -566,7 +566,7 @@ réalistes
 - [HAS. Insuffisance cardiaque. Guide du parcours de soins. Juin 2014. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_ic_web.pdf)
 - [Lainscak M. et al. Self-care management of heart failure: practical recommendations from the Patient Care Committee of the Heart Failure Association of the European Society of Cardiology. European Journal of Heart Failure. 2014.](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)
 
-### À lire
+### Bibliographie en attente
 
 [Chow SL et al. Complementary and Alternative Medicines in the Management of Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2023.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110)
 

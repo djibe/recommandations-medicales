@@ -285,7 +285,7 @@ style SII stroke:#4150f5, stroke-width:1px
 - [Conseil National Professionnel d'Hépato-Gastroentérologie (CNP-HGE). Syndrome de l'intestin irritable.](https://www.cnp-hge.fr/syndrome-de-lintestin-irritable/)
 - [SNFGE. Syndrome de l'intestin irritable (SII).](https://www.snfge.org/content/syndrome-de-lintestin-irritable-sii)
 
-### À lire
+### Bibliographie en attente
 
 - [Mearin F et al. Bowel Disorders. Gastroenterology. 2016.](https://pubmed.ncbi.nlm.nih.gov/27144627/)
 - Cochrane

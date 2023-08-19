@@ -331,7 +331,7 @@ Favorisée par l'obésité et une hernie hiatale.
 - [SNFGE. Reflux gastro-œsophagien (RGO)](https://www.snfge.org/content/reflux-gastro-oesophagien-rgo)
 - [Gyawali CP et al. Modern diagnosis of GERD: the Lyon Consensus. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6031267/)
 
-### À lire
+### Bibliographie en attente
 
 - [Zerbib F. Prise en charge du reflux gastro-oesophagien. Conseil de pratique. SNFGE, GFNG. 2018. (PDF)](https://www.snfge.org/download/file/fid/4863)
 - [Fass R. Gastroesophageal Reflux Disease. N Engl J Med. 2022.](https://pubmed.ncbi.nlm.nih.gov/36170502/)

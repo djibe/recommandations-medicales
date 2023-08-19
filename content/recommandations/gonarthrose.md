@@ -294,7 +294,7 @@ Recours possible à la duloxétine sur prescription par un expert en l'absence d
 - [Sellam J. et al. Recommandations de la Société Française de Rhumatologie sur la prise en charge pharmacologique de la gonarthrose. Revue du Rhumatisme. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301769)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthrose. Item 129 UE 6. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-8-0.php)
 
-### À lire
+### Bibliographie en attente
 
 - [CNGE. Eviter la visco-supplémentation dans la gonarthrose. 05/09/2022.](https://www.cnge.fr/conseil_scientifique/productions_du_conseil_scientifique/eviter_la_visco_supplementation_dans_la_gonarthros/)
 

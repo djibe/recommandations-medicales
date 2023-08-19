@@ -503,7 +503,7 @@ graph TB
 - [Berardelli A et al. EFNS/MDS-ES recommendations for the diagnosis of Parkinson's disease. Eur J Neurol. 2013.](https://onlinelibrary.wiley.com/doi/10.1111/ene.12022)
 - [Santé Publique France. Maladie de Parkinson.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-neurodegeneratives/maladie-de-parkinson)
 
-### À lire
+### Bibliographie en attente
 
 - [Horstink M et al. Early (Uncomplicated) Parkinson's Disease. European Handbook of Neurological Management. 2006. [payant]](https://onlinelibrary.wiley.com/doi/10.1002/9780470753279.ch17)
 - [Oertel WH et al. Late (Complicated) Parkinson's Disease. European Handbook of Neurological Management. 2010. [payant]](https://onlinelibrary.wiley.com/doi/10.1002/9781444328394.ch15)

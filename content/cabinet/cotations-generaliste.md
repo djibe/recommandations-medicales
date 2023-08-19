@@ -186,6 +186,6 @@ L'extraction de cérumen (CAGD001) à 19,25€ n'a pas d'intérêt.
 - [MG France. Plaquettes tarifaires. 2023.](https://www.mgfrance.org/telechargements/guides-et-plaquettes-publics/2363-plaquettes-tarifaires)
 - Assurance Maladie. La convention nationale 2016-2021 entre les médecins libéraux et l'Assurance Maladie synthèse
 
-### À lire
+### Bibliographie en attente
 
 [Suhard V. Historique des conventions médicales. IRDES. 2022. (PDF)](https://www.irdes.fr/documentation/syntheses/historique-des-conventions-medicales.pdf)

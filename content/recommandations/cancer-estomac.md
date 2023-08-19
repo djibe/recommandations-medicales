@@ -210,7 +210,7 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique - Cancer gastrique diffus héréditaire. 2009. (PDF)](https://www.e-cancer.fr/content/download/58352/531992/file/chir_prophy_predi_gene_gastrique.pdf)
 - [Collège Français des Pathologistes (CoPath). Tumeurs de l'estomac. Item 300.](https://docplayer.fr/3727075-College-francais-des-pathologistes-copath-enseignement-d-anatomie-pathologique-polycopie.html)
 
-### À lire
+### Bibliographie en attente
 
 - {{< references/college-gastro >}}
 - [Zaanan A et al. Gastric cancer: French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, SFRO)(TNCD). Dig Liver Dis. 2022.](https://www.snfge.org/content/9-cancer-du-pancreas)

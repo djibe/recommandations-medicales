@@ -258,7 +258,7 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 - [Gerhardt P et al; Société Française de Dermatologie (SFD). Urétrite masculine. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/uretrite-masculine-61ed71f0cf1553f5b94bbb4214d5905e.pdf)
 - [Janier M et al; Société Française de Dermatologie (SFD). Orchiépididymite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/orchiepididymite-e11608a96bbf138a1ce4045e283aa71a.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [Janier M et al; Société Française de Dermatologie (SFD). Balanite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/balanites-f5f2cf585640275406ec42b19340d0c8.pdf)
 

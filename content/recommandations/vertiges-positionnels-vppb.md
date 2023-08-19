@@ -224,7 +224,7 @@ Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, m�
 - [SFORL. THÈME : VERTIGE POSITIONNEL PAROXYSTIQUE BENIN. Janvier 2012. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/Vertige-Positionnel-Paroxystique-Benin-2012-Janvier.pdf)
 - Collège Français d'ORL & CCF. Vertige. Item 101 UE4.
 
-### À lire
+### Bibliographie en attente
 
 [Bhattacharyya N. et al. Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update). Otolaryngology–Head and Neck Surgery. 2017.](https://journals.sagepub.com/doi/full/10.1177/0194599816689667)
 

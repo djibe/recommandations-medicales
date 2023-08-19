@@ -187,7 +187,7 @@ L'asplénie (par splénectomie ou autre) induit un risque infectieux majeur néc
 - [Dahyot-Fizelier C et Mimoz O. Gestion du patient splénectomisé. SFAR. 2010.](https://sfar.org/gestion-du-patient-splenectomise/)
 - [Omedit Centre. Prévention des infections chez le splénectomisé et dans l'asplénie fonctionnelle. 2010. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5198.pdf)
 
-### À lire
+### Bibliographie en attente
 
 [Lee GM. Preventing infections in children and adults with asplenia. Hematology Am Soc Hematol Educ Program. 2020.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33275684/)
 

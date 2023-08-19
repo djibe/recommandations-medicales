@@ -210,7 +210,7 @@ graph TB
 - {{< references/college-endocrino >}}
 - [Pienkowski C. et al. La puberté avant l'âge - Nouveaux aspects. (PDF)](http://www.medecine.ups-tlse.fr/desc/fichiers/Puberte%20precoce.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [Haïne E. Puberté précoce. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/endocrinologie/puberte-precoce)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Puberté normale et pathologique. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/puberte-normale-pathologique)

@@ -471,7 +471,7 @@ accTitle: Prise en charge de l'arrêt du tabac d'après HAS 2014
 - [Intervenir Addictions](https://intervenir-addictions.fr)
 - [Observatoire français des drogues et des tendances addictives (OFDT)](https://www.ofdt.fr)
 
-### À lire
+### Bibliographie en attente
 
 [OFDT. Tabagisme et arrêt du tabac en 2021. 2022.](https://www.ofdt.fr/publications/collections/bilans/tabagisme-et-arret-du-tabac-en-2021/)
 

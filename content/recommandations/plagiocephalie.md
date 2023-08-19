@@ -135,7 +135,7 @@ Prise en charge chirurgicale d'une plagiocéphalie en cas de craniosynostose con
 - [HAS, CNPP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. Février 2020.](https://www.has-sante.fr/jcms/p_3151574/fr/prevention-des-deformations-craniennes-positionnelles-dcp-et-mort-inattendue-du-nourrisson)
 - [Société Canadienne de Pédiatrie. La plagiocéphalie positionnelle. Octobre 2011.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3202395/)
 
-### À lire
+### Bibliographie en attente
 
 [Cavalier A, Mazurier E. Plagiocéphalie fonctionnelle (non synostotique): prévention dès la maternité. réalités pédiatriques. 2013. (PDF)](https://afpa.org/content/uploads/2017/08/Cavalier_plagiocephalie_-RealitesPediatriques.pdf)
 

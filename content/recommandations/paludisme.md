@@ -340,7 +340,7 @@ La chimioprophylaxie anti-palustre par chloroquine a été définitivement retir
 - [Centre National de Référence du Paludisme](https://cnr-paludisme.fr)
 - [Institut Pasteur. Recommandations générales - Prévention du paludisme.](https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales#prvention-du-paludisme)
 
-### À lire
+### Bibliographie en attente
 
 - [Bouchaud O et al. Prise en charge et prévention du paludisme d'importation - Mise à jour 2018 des RPC 2007. Médecine et Maladies Infectieuses. 2020.](https://www.sciencedirect.com/science/article/pii/S0399077X19310613)
 - [Aubry P, Gaüzère BA. Conseils de santé sur le paludisme pour les voyageurs et leurs familles. Médecine Tropicale. 2014. (PDF)](http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf)

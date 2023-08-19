@@ -331,7 +331,7 @@ graph TB
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Afssaps. Antibiothérapie par voie générale dans les infections respiratoires basses de l'adulte. Mise au point. 2010. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/recos/2010-infvrb-spilf-afssaps.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
 - SP2A

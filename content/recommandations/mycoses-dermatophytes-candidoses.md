@@ -579,7 +579,7 @@ graph TB
 - [Bell-Syer SE et al. Oral treatments for fungal infections of the skin of the foot. Cochrane Database Syst Rev. 2012.](https://pubmed.ncbi.nlm.nih.gov/23076898/)
 - [Chabasse D, SFD. Onychomycoses, recommandations pour les modalités de diagnostic et de prise en charge. Journal de Mycologie Médicale. 2007. (PDF)](https://www.sfdermato.org/upload/recommandations/onychomycoses-ea897f8482d176d93ec53661dbea2561.pdf)
 
-### À lire
+### Bibliographie en attente
 
 [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-155-web.pdf)
 

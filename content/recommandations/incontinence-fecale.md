@@ -141,7 +141,7 @@ Traitements spécialisés possibles selon les anomalies retrouvées au bilan com
 - [Paquette I et al. The American Society of Colon and Rectal Surgeons' Clinical Practice Guideline for the Treatment of Fecal Incontinence. Diseases of the Colon & Rectum. 2015.](https://journals.lww.com/dcrjournal/Fulltext/2015/07000/The_American_Society_of_Colon_and_Rectal_Surgeons_.2.aspx)
 - [SNFCP. Traitements de l'incontinence fécale. Recommandations. 2012. (PDF)](https://www.snfcp.org/wp-content/uploads/2017/Recommandations/Recommandation-IA-2013.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [Rullier E et al. Validation of the French version of the Fecal Incontinence Quality-of-Life (FIQL) scale. Gastroenterol Clin Biol. 2004.](https://pubmed.ncbi.nlm.nih.gov/15243389/)
 

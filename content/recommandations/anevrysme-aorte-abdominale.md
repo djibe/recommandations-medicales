@@ -96,7 +96,7 @@ Le traitement des AAA < 50 mm n'a montré aucun bénéfice par rapport à l'abst
 - [Erbel R. et al. 2014 ESC Guidelines on the diagnosis and treatment of aortic diseases: Document covering acute and chronic aortic diseases of the thoracic and abdominal aorta of the adult. European Heart Journal. 2014.](https://doi.org/10.1093/eurheartj/ehu281)
 - [HAS. Dépistage et prévention des anévrismes de l'aorte abdominale. Novembre 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2013-02/aaa_fiche_med_vfinale.pdf)
 
-### À lire
+### Bibliographie en attente
 
 [Isselbacher E et al. 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines. Circulation. 2022.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001106)
 

@@ -245,7 +245,7 @@ L'évolution fluctue. 4 personnes sur 10 guérissent spontanément après plusie
 - [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/5-Item-109-%E2%80%94-UE-4-Dermatoses-faciales-acne-rosacee-dermatite-seborrheique.pdf)
 - [T. Jansen. Formes cliniques et classification de la rosacée. Annales de Dermatologie et de Vénéréologie. 2011.](https://doi.org/10.1016/S0151-9638(11)70079-5)
 
-### À lire
+### Bibliographie en attente
 
 - Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales. Item 111. 2021.
 - [Anzengruber F. et al. Swiss S1 guideline for the treatment of rosacea. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14349)

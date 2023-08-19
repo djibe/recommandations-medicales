@@ -64,7 +64,7 @@ Lymphopénie
 
 Société française d'hématologie (sfh). Item 212 - Hémogramme chez l'adulte et l'enfant : indications et interprétation. Hématologie. Réussir son DFASM. 2021.
 
-### À lire
+### Bibliographie en attente
 
 - [Abou Chahla W; SFP. Lymphopénie de découverte fortuite de l'enfant. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/hematologie/lymphopenie-de-decouverte-fortuite-de-lenfant)
 - [Régent A et al. Démarche diagnostique devant une lymphopénie : quand penser à la lymphopénie CD4(+) idiopathique ?. Rev Med Interne. 2012.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7115373/)

@@ -483,7 +483,7 @@ graph TB
 - [IRLSSG. 2012 revised IRLSSG diagnostic criteria for RLS](http://irlssg.org/Diagnostic-criteria)
 - [Allen RP. et al. Physician-diagnosed restless legs syndrome in a large sample of primary medical care patients in western Europe: Prevalence and characteristics. Sleep Med. 2010.](https://pubmed.ncbi.nlm.nih.gov/19464949/)
 
-### À lire
+### Bibliographie en attente
 
 [Garcia-Borreguero D. et al. European guidelines on management of restless legs syndrome: report of a joint task force by the European Federation of Neurological Societies, the European Neurological Society and the European Sleep Research Society. Eur J Neurol. 2012.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2012.03853.x)
 

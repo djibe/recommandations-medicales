@@ -231,7 +231,7 @@ Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr/).
 - [INCa. Synthèse - Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Septembre 2019. (PDF)](https://www.e-cancer.fr/content/download/278143/3948778/file/Synthese_CAT_patients_atteints_adenocarcinomes_pancreas_mel_20191118.pdf)
 - [Neuzillet C. et al. Thésaurus National de Cancérologie Digestive (TNCD). Dig Liver Dis. 2018.](https://www.snfge.org/content/9-cancer-du-pancreas)
 
-### À lire
+### Bibliographie en attente
 
 - {{< references/college-endocrino >}}
 - [Ducreux M et al. Cancer of the pancreas: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2015.](https://www.annalsofoncology.org/article/S0923-7534(19)47178-0/fulltext)

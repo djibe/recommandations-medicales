@@ -101,7 +101,7 @@ Cotation TODO:
 
 - [Qaseem A et al. Nonpharmacologic and Pharmacologic Treatments of Adults in the Acute Phase of Major Depressive Disorder: A Living Clinical Guideline From the American College of Physicians. Ann Intern Med. 2023.](https://www.acpjournals.org/doi/full/10.7326/M22-2056?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)
 
-### À lire
+### Bibliographie en attente
 
 - MonParcoursPsy
 - College. Troubles de l'humeur Épisode dépressif caractérisé et trouble dépressif récurrent de l'adolescent et de l'adulte. 2021.

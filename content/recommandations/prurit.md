@@ -239,7 +239,7 @@ graph TB
 - [Collège des enseignants de dermatologie de France (CEDEF). Prurit. Item 113 UE 4. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/9-Item113-UE-4-Prurit.pdf)
 - [Dermato-info. Le prurit et le prurigo.](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-prurit-et-le-prurigo)
 
-### À lire
+### Bibliographie en attente
 
 [Pereira M. et al. European academy of dermatology and venereology European prurigo project: expert consensus on the definition, classification and terminology of chronic prurigo. J Eur Acad Dermatol Venereol. 2018.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.14570)
 

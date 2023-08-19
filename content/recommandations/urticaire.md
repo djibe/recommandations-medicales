@@ -434,7 +434,7 @@ graph TB
 - [Dermato-info. L'urticaire.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99urticaire)
 - [ANAES, Société française de dermatologie. Conférence de consensus - Prise en charge de l'urticaire chronique. 2003. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/urticaire_court.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [Zuberbier T, Abdul Latiff AH, Abuzakouk M, et al. The international EAACI/GA²LEN/EuroGuiDerm/APAAACI guideline for the definition, classification, diagnosis, and management of urticaria. Allergy. 2022.](https://pubmed.ncbi.nlm.nih.gov/34536239/)
 - [SFD. Traitement de l'urticaire chronique spontanée. 2019. (PDF)](https://document.sfdermato.org/reco/urticaire-chronique-spontan%C3%A9e/SFD_urticaire-chronique-spontan%C3%A9e_synth%C3%A8se_2019-11.pdf)

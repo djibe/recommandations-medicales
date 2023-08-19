@@ -533,7 +533,7 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 - [Chiu H-Y et al. Diagnostic accuracy of the Berlin questionnaire, STOP-BANG, STOP, and Epworth sleepiness scale in detecting obstructive sleep apnea: A bivariate meta-analysis. Sleep Med Rev. 2017.](https://pubmed.ncbi.nlm.nih.gov/27919588/)
 - [Morgenthaler TI et al. Practice parameters for the medical therapy of obstructive sleep apnea. Sleep. 2006.](https://pubmed.ncbi.nlm.nih.gov/16944671/)
 
-### À lire
+### Bibliographie en attente
 
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles du sommeil - SAOS. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/troubles-du-sommeil-saos)
 - [Kapur VK et al. Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea: An American Academy of Sleep Medicine Clinical Practice Guideline. J Clin Sleep Med. 2017.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/)

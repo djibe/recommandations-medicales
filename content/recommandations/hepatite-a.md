@@ -118,7 +118,7 @@ Vaccins combinés: VHA-typhoïde Tyavax® et VHA-VHB Twinrix adulte®
 - [Organisation Mondiale de la Santé. Hépatite A. 27/07/2020.](https://www.who.int/fr/news-room/fact-sheets/detail/hepatitis-a)
 - [Vaccination Info Service Professionnels. Hépatite A. 21/04/2020.](https://professionnels.vaccination-info-service.fr/Maladies-et-leurs-vaccins/Hepatite-A)
 
-### À lire
+### Bibliographie en attente
 
 [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 45](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2045)
 

@@ -187,7 +187,7 @@ L'oseltamivir doit être débuté dans les 48 heures suivant l'apparition des sy
 - Prescrire Redaction. Grippe saisonnière. Prescrire. Août 2022.
 - [SPILF. Prise en charge de la grippe en dehors d'une situation de pandémie en 2005. Médecine et Maladies Infectieuses. 2005.](https://www.sciencedirect.com/science/article/pii/S0399077X05002064)
 
-### À lire
+### Bibliographie en attente
 
 - [Hanula R et al. Evaluation of Oseltamivir Used to Prevent Hospitalization in Outpatients With Influenza: A Systematic Review and Meta-analysis. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2805976)
 - [CMIT. Grippe. Item 166. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-166-web.pdf)

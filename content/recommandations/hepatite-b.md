@@ -373,7 +373,7 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler et al
 - [HAS. Place des tests rapides d'orientation diagnostique (TROD) dans la stratégie de dépistage de l'hépatite B. 2016](https://www.has-sante.fr/jcms/c_2063232/fr/place-des-tests-rapides-d-orientation-diagnostique-trod-dans-la-strategie-de-depistage-de-l-hepatite-b)
 - [HAS. Hépatite B Chronique. Guide Affection de longue durée. Octobre 2006.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
 
-### À lire
+### Bibliographie en attente
 
 EASL
 

@@ -335,7 +335,7 @@ Autres ressources: Fédération FNA-TCA {{<phone>}}06 87 41 86 66{{</phone>}}, [
 - [Fédération nationale des associations liées aux troubles des conduites alimentaires (FNA-TCA)](https://www.fna-tca.org)
 - [Collectif national des associations d'obèses (CNAO Obésité)](https://cnao.fr)
 
-### À lire
+### Bibliographie en attente
 
 [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles des conduites alimentaires de l'adolescent. Infections urinaires. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/medecine-ladolescent/troubles-conduites-alimentaires-ladolescent)
 

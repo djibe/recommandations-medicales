@@ -190,7 +190,7 @@ Pour le médecin généraliste.: Aborder les violences, évaluer, le certificat 
 - [Guiguet-Auclair C et al. Validation de la version française d'un outil de dépistage des violences conjugales faites aux femmes, le WAST (Woman Abuse Screening Tool). BEH. 2021.](http://beh.santepubliquefrance.fr/beh/2021/2/2021_2_2.html)
 - [HAS. Repérage des femmes victimes de violences au sein du couple Comment agir. 2020. (PDF)](https://www.has-sante.fr/jcms/p_3104867/fr/reperage-des-femmes-victimes-de-violences-au-sein-du-couple)
 
-### À lire
+### Bibliographie en attente
 
 - [HAS. Repérage des femmes victimes de violences au sein du couple. Recommandation de bonne pratique. 2020.](https://www.has-sante.fr/jcms/p_3104867/fr/reperage-des-femmes-victimes-de-violences-au-sein-du-couple)
 - [HAS. Violences : repérer, protéger, accompagner.](https://www.has-sante.fr/jcms/p_3116900/fr/violences-reperer-proteger-accompagner)

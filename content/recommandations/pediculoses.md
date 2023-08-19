@@ -140,7 +140,7 @@ Nota bene:
 - [Collège des enseignants de dermatologie de France (CEDEF). Ectoparasitoses cutanées : gale et pédiculose. Item 167 UE 6. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/15-Item-167-UE6-Ectoparasitoses-cutanees-gale-et-pediculose.pdf)
 - [Conseil Supérieur d'Hygiène Publique de France. Avis relatif à la conduite à tenir devant un sujet atteint de pédiculose du cuir chevelu. 27/06/2003. (PDF)](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=a_mt_270603_pediculose.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [Salavastru C. et al. European guideline for the management of pediculosis pubis. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14420)
 

@@ -113,7 +113,7 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Tuberculose maladie. Juin 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/actualisationlap_tuberculose__web_.pdf)
 
-### À lire
+### Bibliographie en attente
 
 - [Kim S et al. Management of Latent Tuberculosis Infection. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2800774)
 - [WHO consolidated guidelines on tuberculosis. Module 4: treatment - drug-resistant tuberculosis treatment, 2022 update.](https://www.who.int/publications/i/item/9789240063129)

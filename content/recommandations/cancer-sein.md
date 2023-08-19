@@ -395,7 +395,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 - [CNGOF. Cancers du sein : les patientes dans la tourmente. 2017. (PDF)](http://www.cngof.fr/component/rsfiles/apercu?path=Presse%252F2017%252FCancer%2Bdu%2Bsein%252FK-SEIN-2017.pdf&i=11967)
 - [HAS. Dépistage et prévention du cancer du sein. Février 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
 
-### À lire
+### Bibliographie en attente
 
 - [Sessa C. et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
 - [ESMO ​ Metastatic Breast Cancer Living Guidelines​](https://www.esmo.org/living-guidelines/esmo-metastatic-breast-cancer-living-guidelines)

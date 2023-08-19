@@ -255,7 +255,7 @@ graph TB
 - Société française d'hématologie (sfh). Item 218 - Éosinophilie. Hématologie. Réussir son DFASM. 2021.
 - Collège National des Enseignants de Médecine Interne (CEMI). Eosinophilie. Item 23. Référentiel Collège de Médecine interne R2C. 2021.
 
-### À lire
+### Bibliographie en attente
 
 [International Eosinophil Society](http://www.eosinophil-society.org)
 

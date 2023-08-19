@@ -309,7 +309,7 @@ accTitle: Dépistage du cancer de la prostate et conduite à tenir devant une au
 - [Horwich A et al. Prostate cancer: ESMO Consensus Conference Guidelines 2012. Annals of Oncology. 2012.](https://www.annalsofoncology.org/article/S0923-7534(19)37245-X/fulltext)
 - [McConnell JD et al. The long-term effect of doxazosin, finasteride, and combination therapy on the clinical progression of benign prostatic hyperplasia. N Engl J Med. 2003.](https://www.nejm.org/doi/10.1056/NEJMoa030656)
 
-### À lire
+### Bibliographie en attente
 
 - [Hamdy FC et al. Fifteen-Year Outcomes after Monitoring, Surgery, or Radiotherapy for Prostate Cancer. N Engl J Med. 2023.](https://www.nejm.org/doi/10.1056/NEJMoa2214122)
 [Ploussard G et al. French AFU Cancer Committee Guidelines - Update 2022-2024: prostate cancer - Management of metastatic disease and castration resistance. Progrès en Urologie. 2022.](https://www.sciencedirect.com/science/article/pii/S1166708722003438)

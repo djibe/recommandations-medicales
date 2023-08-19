@@ -47,6 +47,8 @@ todo = "descr > summary > liens > photo"
 
 - [Source 1](URL)
 
+### Bibliographie en attente
+
 {{%/sources%}}
 
 ≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>

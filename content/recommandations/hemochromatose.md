@@ -245,7 +245,7 @@ graph TB
 - [HAS. Hémochromatose liée au gène HFE (type 1). Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_592228/fr/ald-n17-actes-et-prestations-sur-hemochromatose-actualisation-juin-2012)
 - [HAS. Prise en charge de l'hémochromatose liée au gène HFE (hémochromatose de type 1). 2005.](https://www.has-sante.fr/jcms/c_432802/fr/prise-en-charge-de-l-hemochromatose-liee-au-gene-hfe-hemochromatose-de-type-1)
 
-### À lire
+### Bibliographie en attente
 
 - <https://www.hemochromatose.org/wp-content/uploads/2018/05/Recommandations-th%C3%A9rapeutiques-2018.pdf>
 - Prescrire

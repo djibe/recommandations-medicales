@@ -157,7 +157,7 @@ D'autres traitements exceptionnels sont possibles: bypass iléal voire transplan
 - {{< references/college-endocrino >}}
 - [Bouhairie VE, Goldberg AC. Familial hypercholesterolemia. Cardiol Clin. 2015.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4472364/)
 
-### À lire
+### Bibliographie en attente
 
 - [Nordestgaard BG et al. Familial hypercholesterolaemia is underdiagnosed and undertreated in the general population: guidance for clinicians to prevent coronary heart disease: consensus statement of the European Atherosclerosis Society. Eur Heart J. 2013.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23956253/)
 - EAS
