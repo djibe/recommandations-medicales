@@ -204,7 +204,7 @@ La prise en charge est spécialisée (endocrinologique, néphrologique), étiolo
 graph TB
 hyponatrémie["<b>Hyponatrémie</b><br>Na &lt; 135 mmol/L"] --> gravité("<b>Signes de gravité ?</b><br>—<br>- Na &lt; 125<br>- Installation &lt; 48h<br>- Vomissements<br>- Défaillance viscérale<br>- Somnolence, conscience<br>- Convulsions")
 style hyponatrémie stroke:#4150f5, stroke-width:1px
-gravité -- Non --> clinique("<b>Clinique</b><br>—<br>- Traitement à risque (diurétique, IRS)<br>- Signes hyper/déshydratation<br>- Infection intercurrente<br>- Apports hydriques<br>- Diurèse<br>- Chutes<br>- Troubles cognitifs<br>- AEG, malignité") --> bilan("<b>Bilan biologique</b><br>—<br>- Natrémie<br>- Glycémie<br>- Calculs: Na corrigée et<br>osmolalité plasmatique")
+gravité -- Non --> clinique("<b>Clinique</b><br>—<br>- Traitement à risque (diurétique, IRS)<br>- Signes hyper/déshydratation<br>- Infection intercurrente<br>- Apports hydriques<br>- Diurèse<br>- Chutes<br>- Troubles cognitifs<br>- AEG, malignité") --> bilan("<b>Bilan biologique</b><br>—<br>- Natrémie<br>- Glycémie<br>- Calculs: Na corrigée et<br><b>osmolalité plasmatique</b>")
     bilan -- Normale --> normale("<b>285 ± 5</b> mOsm/kg<br>=<br>Hyponatrémie<br>isotonique<br>—<br>- Hyperlipidémie<br>- Hyperprotidémie")
     bilan -- Basse --> basse("&lt; 275 mOsm/kg<br>= Hyponatrémie hypotonique") --> osmU(Osmolalité urinaire<br>sur échantillon) -- "≤ 100" --> NaUbasse("- Polydipsie<br>- Apports faibles en solutés<br>- Buveur de bière")
       osmU -- "&gt; 100" --> extracellulaire("<b>Évaluation du<br>compartiment extracellulaire</b><br>—<br>Clinique + concentration en NaU")

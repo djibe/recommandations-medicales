@@ -200,15 +200,15 @@ IRM cérébrale et angio-IRM cérébrale systématiques
 {{%collapse "Traitement de crise de l'algie vasculaire de la face" %}}
 
 {{%info%}}
-Sumatriptan 6 mg SC, 1 injection SC dès le début des douleurs.  
-2<sup>e</sup> injection possible 1h après si besoin.  
+Sumatriptan 6 mg sous-cutané, 1 injection SC dès le début des douleurs.  
+2<sup>e</sup> injection possible 1 heure après si besoin.  
 Max 2 inj/24h (sauf avis du neurologue).
 {{%/info%}}
 
 La prise en charge et le traitement de l'algie vasculaire de la face pour les crises repose sur les alternatives suivantes:
 
 - ≤ 2 crises/j: sumatriptan SC, oxygène ou les 2
-- \> 2 crises/j: bithérapie sumatriptan SC-oxygène ou oxygène seul
+- \> 2 crises/j: bithérapie sumatriptan SC - oxygène ou oxygène seul
 - Comptabiliser le nombre de prises de traitements
 
 ### Triptans
@@ -315,5 +315,9 @@ accTitle: Prise en charge de l'algie vasculaire de la face d'après SFEMC 2014
 - [Donnet A. et al, SFEMC. Recommandations pour le diagnostic et le traitement de l'algie vasculaire de la face. Revue Neurologique. 2014. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20pour%20le%20diagnostic%20et%20le%20traitement%20de%20l%2527algie%20vasculaire%20de%20la%20face%20(3).pdf)
 - [Wilbrink LA et al. Stepwise web-based questionnaires for diagnosing cluster headache: LUCA and QATCH. Cephalalgia. 2013.](https://journals.sagepub.com/doi/10.1177/0333102413479835)
 - Prescrire Redaction. Algie vasculaire de la face, en bref. Rev Prescrire. Janvier 2012.
+
+### Bibliographie en attente
+
+[May A et al. European Academy of Neurology guidelines on the treatment of cluster headache. Eur J Neurol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/ene.15956)
 
 {{%/sources%}}

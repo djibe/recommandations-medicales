@@ -54,7 +54,7 @@ Cotations pour la consultation d'un adulte ou l'enfant à partir de 6 ans.
 | G(S)       | Consultation                                                                                  |        25 |
 | TCG        | Téléconsultation                                                                              |        25 |
 | COB        | Consultation de l'enfant à 6, 8-9, 11-13 et 15-16 ans (à 100%)                                |        25 |
-| MPH        | Remplissage du dossier MDPH                                                                   |        60 |
+| MPH        | Premier remplissage du dossier MDPH                                                           |        60 |
 | IMT        | Déclaration MT d'un patient en ALD 30 (à 100%)                                                |        60 |
 | CCP        | 1re consultation contraception avant 26 ans (à 100%, anonymisable)                            |        46 |
 | G(S)       | Consultation contraception annuelle avant 26 ans (à 100% en EXO3)                             |        25 |
