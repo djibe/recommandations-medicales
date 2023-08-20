@@ -5,7 +5,7 @@ description = "Liens vers les collèges des enseignants de médecine de deuxièm
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-14T16:20:00+02:00"
 publishdate = "2023-01-16"
-lastmod = "2023-05-19"
+lastmod = "2023-08-20"
 annees = "2023"
 sources = ["Colleges"]
 tags = []
@@ -32,6 +32,7 @@ Le tableau ci-dessous liste tous les référentiels disponibles en téléchargem
 | Dermatologie | CEDEF <br><span class="typography-caption">Collège des Enseignants de DErmatologie de France</span> | 2017 | [lien](https://cedef.info/enseignement-2eme-cycle-dermatologie/) |
 | Endocrinologie | CEEDMM <br><span class="typography-caption">Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques</span> | 2021 | [lien](https://www.sfendocrino.org/polycopie-des-enseignants-5eme-edition-2021/) |
 | Gastro-entérologie | CDU-HGE <br><span class="typography-caption">Collège Des Universitaires d'Hépato-GastroEntérologie</span> | 2022 | [lien](https://www.snfge.org/sites/default/files/SNFGE/Formation/dsn_cdu-hge_2022-decembre.pdf) |
+| Gynécologie | CNGOF <br><span class="typography-caption">Collège national des gynécologues et obstétriciens français</span> | 2015 | [lien](http://www.cngof.net/E-book/GO-2016/) |
 | Infectiologie | CMIT <br><span class="typography-caption">Collège des universitaires de Maladies Infectieuses et Tropicales</span> | 2021 | [Pilly](https://www.infectiologie.com/fr/pilly-etudiant-2021-uniquement-en-ligne-pilly-etudiant-2023-disponible-a-la-vente-a-partir-du-23-janvier.html) |
 | Médecine physique | COFEMER <br><span class="typography-caption">COllège Français des Enseignants universitaires de MEdecine physique et de Réadaptation</span> | 2018 | [lien](https://www.cofemer.fr/cofemer/gestionPagesWebStandard.do?dispatchMethod=affiche&pageId=55) |
 | Médecine vasculaire | CEMV <br><span class="typography-caption">Collège des Enseignants de Médecine Vasculaire</span> | 2015 | [lien](http://cemv.vascular-e-learning.net/poly/Poly-Vx.pdf) |
@@ -41,7 +42,7 @@ Le tableau ci-dessous liste tous les référentiels disponibles en téléchargem
 | ORL | ORL&CCF <br><span class="typography-caption">ORL et Chirurgie de la Face et du Cou</span> | 2022 | [lien](https://campusorl.fr/espace-etudiants/2eme-cycle-ecni/) |
 | Orthopédie | SOFCOT <br><span class="typography-caption">Collège français de Chirurgie Orthopédique et Traumatologique</span> | 2020 | [lien](https://www.sofcot.fr/sites/www.sofcot.fr/files/medias/documents/CollegeOrthop%C3%A9dieTraumatologieELLIPSES%203%C3%A8me%20%C3%A9dition.pdf) |
 | Pédiatrie | CNPU <br><span class="typography-caption">Collège National des Pédiatres Universitaires</span> | 2021 | [lien](https://www.pedia-univ.fr/deuxieme-cycle/referentiel) |
-| Pneumologie | CEP <br><span class="typography-caption">Collège des Enseignants de Pneumologie</span> | 2021 | [lien](http://cep.splf.fr/edition-2021-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-ecn-7eme-edition/) |
+| Pneumologie | CEP <br><span class="typography-caption">Collège des Enseignants de Pneumologie</span> | 2023 | [lien](http://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/) |
 | Psychiatrie | CNUP <br><span class="typography-caption">Collège National Universitaire de Psychiatrie </span> | 2021 | [lien](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf) |
 | Rhumatologie | COFER <br><span class="typography-caption">Collège Français des Enseignants en Rhumatologie</span> | 2020 | [lien](http://www.lecofer.org/liste-des-items-ecn.php) |
 | Urologie | CFEU <br><span class="typography-caption">Collège Français des Enseignants en Urologie</span> | 2021 | [lien](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/) |

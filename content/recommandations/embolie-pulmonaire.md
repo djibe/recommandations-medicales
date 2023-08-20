@@ -324,8 +324,8 @@ accTitle: Prise en charge ambulatoire d'une suspicion d'embolie pulmonaire d'apr
 
 ### Bibliographie en attente
 
+- [Collège des Enseignants de Pneumologie (CEP). Embolie pulmonaire et thrombose veineuse profonde. Item 226. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_226_MALADIE_THROMBO-EMBOLIQUE_VEINEUSE_2023.pdf)
 - [Stavros V et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS). 2019.](https://erj.ersjournals.com/content/54/3/1901647)
-- [Collège des Enseignants de Pneumologie (CEP). Embolie pulmonaire et thrombose veineuse profonde. Item 226 & 330. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_226_et_330_MTEV_2021_ex_items_ex-items_224_et_326v3.pdf)
 
 {{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

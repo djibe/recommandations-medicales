@@ -116,6 +116,7 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 ### Bibliographie en attente
 
 - [Kim S et al. Management of Latent Tuberculosis Infection. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2800774)
+- [Collège des Enseignants de Pneumologie (CEP). Tuberculose. Item 159. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_159_TUBERCULOSE_2023.pdf)
 - [WHO consolidated guidelines on tuberculosis. Module 4: treatment - drug-resistant tuberculosis treatment, 2022 update.](https://www.who.int/publications/i/item/9789240063129)
 - [Collège des Enseignants de Pneumologie (CEP). Tuberculose. Item 159. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2021/09/item_159_Tuberculose_2021.pdf)
 - [CMIT. Tuberculose de l'adulte et de l'enfant. Item 159. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-159-web.pdf)

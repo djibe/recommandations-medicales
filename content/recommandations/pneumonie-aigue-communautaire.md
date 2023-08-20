@@ -319,11 +319,11 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Collège des Enseignants de Pneumologie (CEP). Infections broncho-pulmonaires communautaires de l'adulte. Item 154. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_154_INFECTIONS_RESPIRATOIRES_2023.pdf)
 - [GPIP, SFP, AFPA, SPILF. Conduite à tenir autour d'un cas d'infection invasive à Streptocoque du Groupe A. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/communiques/conduite-a-tenir-cas-contact-infections-invasives-a-sgadef.pdf)
 - {{< references/calendrier-vaccinal >}}
 - Prescrire Redaction. Pneumonie communautaire chez un adulte. Premiers choix Prescrire. Rev Prescrire. 2022.
 - [CMIT. Infections broncho-pulmonaires communautaires de l'adulte et de l'enfant. Item 154. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-154-web.pdf)
-- [Collège des Enseignants de Pneumologie (CEP). Infections broncho-pulmonaires communautaires de l'adulte. Item 154. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2021/04/item_154_Infections-broncho-pulmonaires.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pneumonies aiguës communautaires. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/pneumonies-aigues-communautaires)
 - {{< references/spilf-2020 >}}
 - [Fleurence E; SFP. Toux fébrile. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/allergo-pneumo/toux-febrile)

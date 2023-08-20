@@ -666,7 +666,7 @@ const chartOptions = {
 - [HAS. Contraception chez la femme à risque cardiovasculaire. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1638478/fr/contraception-chez-la-femme-a-risque-cardiovasculaire)
 - [HAS. Contraception chez la femme en post-partum. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1369193/fr/contraception-chez-la-femme-en-post-partum)
 - [HAS. Contraception : prescriptions et conseils aux femmes. Recommander les bonnes pratiques. Juillet 2019. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-02/1e_maj_contraception_prescription-conseil-femmes-060215.pdf)
-- [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2018%252FCNGOF_RPC_2018-CONTRACEPTION.pdf)
+- [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/app/pdf/RPC//1-RPC%20DU%20CNGOF/2018/CNGOF_RPC_2018-CONTRACEPTION.pdf?x72671)
 - CNGOF. Contraception du post-partum : recommandations pour la pratique clinique.
 - [HAS. Contraception : focus sur les méthodes efficaces. Actualités & Pratiques. Mai 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-05/contraception_focus_methodes_2013-05-22_18-09-35_548.pdf)
 

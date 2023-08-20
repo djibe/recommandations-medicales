@@ -392,13 +392,13 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 - [INCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
 - [INCa. Prothèses mammaires et risque de cancer. Avril 2019.](https://www.e-cancer.fr/Comprendre-prevenir-depister/Reduire-les-risques-de-cancer/Protheses-mammaires)
 - [INCa. Cancer du sein - Quelles modalités de dépistage, pour quelles femmes ? Janvier 2018.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-du-sein-Quelles-modalites-de-depistage-pour-quelles-femmes)
-- [CNGOF. Cancers du sein : les patientes dans la tourmente. 2017. (PDF)](http://www.cngof.fr/component/rsfiles/apercu?path=Presse%252F2017%252FCancer%2Bdu%2Bsein%252FK-SEIN-2017.pdf&i=11967)
+- CNGOF. Cancers du sein : les patientes dans la tourmente. 2017. (PDF)
 - [HAS. Dépistage et prévention du cancer du sein. Février 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
 
 ### Bibliographie en attente
 
-- [Sessa C. et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
-- [ESMO ​ Metastatic Breast Cancer Living Guidelines​](https://www.esmo.org/living-guidelines/esmo-metastatic-breast-cancer-living-guidelines)
+- [Sessa C et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
+- [ESMO. Metastatic Breast Cancer Living Guidelines​](https://www.esmo.org/living-guidelines/esmo-metastatic-breast-cancer-living-guidelines)
 - [INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. Octobre 2021.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)
 
 {{%/sources%}}

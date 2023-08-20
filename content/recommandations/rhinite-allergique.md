@@ -267,10 +267,10 @@ style suspicion stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%sources%}}
 
+- [Collège des Enseignants de Pneumologie (CEP). Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_188_ASTHME_RHINITE_2023.pdf)
 - Prescrire Redaction. Rhinite allergique saisonnière. Premiers choix Prescrire. Rev Prescrire. 2023.
 - [Anses. Note relative à la surveillance phénologique du pollen dans l'air ambiant et à l'indicateur de risque d'allergie lié à l'exposition au pollen (RAEP). 2022. (PDF)](https://www.anses.fr/fr/system/files/AIR2020AST0168.pdf)
 - [Crampette L, Michel J; SFORL. Prise en charge diagnostique et thérapeutique des Rhinites Allergiques par l'ORL (hors rhinites professionnelles). 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-diagnostique-et-th%C3%A9rapeutique-des-Rhinites-Allergiques-par-lORL-2020.pdf)
-- [Collège des Enseignants de Pneumologie (CEP). Hypersensibilités et allergies respiratoires. Item 186. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_186_Hypersensibilitee%CC%87s_Allergies_2021_ex_item_1821.pdf)
 - [Inserm. Rhinite allergique. 2017.](https://www.inserm.fr/dossier/rhinite-allergique/)
 - [Braun JJ et al; SPLF, SFA. Recommandations pour le diagnostic et la prise en charge de la rhinite allergique (épidémiologie et physiopathologie exclues) - Texte long. Rev Mal Respir. 2010.](https://splf.fr/recommandations-pour-le-diagnostic-et-la-prise-en-charge-de-la-rhinite-allergique-epidemiologie-et-physiopathologie-exclues-sfa-et-splf/)
 

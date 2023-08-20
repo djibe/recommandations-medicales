@@ -15,11 +15,12 @@
         {{ with .Content }}<div class="mb-5">{{ . }}</div>{{ end }}
       </div>
       <div class="col-12 grid-1-2-3 mb-5">
-      {{ range .Pages.ByTitle }}
+      {{ range .Pages.ByLastmod.Reverse }}
       <div class="card">
         <div class="card-body position-relative card-primary-action">
           <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
           {{ with .Params.specialites}}<h3 class="card-subtitle d-none d-md-block">{{ delimit . ", " }}</h3>{{end}}
+          <p>MAJ</p>
         </div>
         <div class="card-actions">
           {{ partial "widgets/guidelineyear-render.html" . }}

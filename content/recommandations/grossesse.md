@@ -53,7 +53,6 @@ Chapitres dédiés:
 {{%collapse "Désir de grossesse et bilan pré-conceptionnel" %}}
 
 [HAS. Projet de grossesse : informations, messages de prévention, examens à proposer. 2009. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-01/projet_de_grossesse_informations_messages_de_prevention_examens_a_proposer_-_fiche_de_synthese.pdf)
-[CNGOF](http://www.cngof.fr/grossesse/197-la-consultation-preconceptionnelle-2)
 
 {{% /collapse %}}
 {{%collapse "Médicaments et vaccins pendant la grossesse" %}}
