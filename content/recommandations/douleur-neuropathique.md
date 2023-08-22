@@ -18,17 +18,17 @@ sctid = "247398009"
 icd10 = "M79.29"
 image = true
 imageSrc = "Illustration de la douleur neuropathique par brgfx / Freepik"
+todo = "carence B9B12?, dermatomes, https://journals.lww.com/pain/Fulltext/2005/03000/Comparison_of_pain_syndromes_associated_with.5.aspx"
 flowchart = true
-todo = "SEO 'traitement douleur neuropathique', carence B9B12?, dermatomes, https://journals.lww.com/pain/Fulltext/2005/03000/Comparison_of_pain_syndromes_associated_with.5.aspx"
 +++
 
 {{%article-summary%}}
 
-- Typer la douleur: {{< modal-btn modal-score-dn4 >}}échelle DN4{{< /modal-btn >}} et examen clinique
+- Caractériser la douleur neuropathique: {{< modal-btn modal-score-dn4 >}}échelle DN4{{< /modal-btn >}} et examen clinique
 - Coter la douleur sur 10 (EN, EVA)
-- 1<sup>re</sup> intention: duloxétine, gabapentine ou tricyclique  
+- Prise en charge de première intention des douleurs neuropathiques: duloxétine, gabapentine ou tricyclique  
   Emplâtre de lidocaïne ou TENS pour une atteinte superficielle localisée.
-- Efficacité: essai de chaque molécule ≥ 6 semaines à dose maximale tolérée (sauf intolérance) et vise réduction douleur ≥ 30% et/ou amélioration fonctionnelle ≥ 30%
+- Efficacité du traitement: essai de chaque molécule au moins 6 semaines à dose maximale tolérée (sauf intolérance) et viser une réduction douleur d'au moins 30% et/ou une amélioration fonctionnelle d'au moins 30%
 - Avis neurologique en cas de difficultés (étiologique, thérapeutique ...)
 - [Annuaire des structures spécialisées douleur chronique (SDC)](https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
 
@@ -149,6 +149,8 @@ Avis neurologique devant toute douleur neuropathique dont l'étiologie ou le tab
 - Professionnels impliqués
 - Environnement pro-socio-économique
 - Qualité de vie
+
+[Les dermatomes](http://medicalux.fr/www/nicbook/Dermatomes.html)
 
 ### Rappels de l'examen clinique de la neuropathie
 

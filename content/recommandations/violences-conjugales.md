@@ -186,6 +186,8 @@ Pour le médecin généraliste.: Aborder les violences, évaluer, le certificat 
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="GNSBChaTGys" title="Webinaire Violences conjugales : en parler pour mieux les repérer (HAS)" >}}
+
 - [HAS. Outil d'aide au repérage des violences conjugales. 2022. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/outil_daide_au_reperage_des_violences_conjugales.pdf)
 - [Guiguet-Auclair C et al. Validation de la version française d'un outil de dépistage des violences conjugales faites aux femmes, le WAST (Woman Abuse Screening Tool). BEH. 2021.](http://beh.santepubliquefrance.fr/beh/2021/2/2021_2_2.html)
 - [HAS. Repérage des femmes victimes de violences au sein du couple Comment agir. 2020. (PDF)](https://www.has-sante.fr/jcms/p_3104867/fr/reperage-des-femmes-victimes-de-violences-au-sein-du-couple)
