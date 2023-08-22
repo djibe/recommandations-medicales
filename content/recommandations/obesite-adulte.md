@@ -33,6 +33,7 @@ chart = true
 - Dépister les complications de l'obésité (voir *Dépistage*)
 - Les mesures de prise en charge de l'obésité de l'adulte sont: activité physique 150-300 minutes d'intensité modérée par semaine, perte de poids 5-15%, évaluation nutritionnelle et sensations alimentaires, éducation thérapeutique, soutien psychologique, association de patients CNAO
 - Les prescriptions (dont GLP-1) sont réservées au nutritionniste
+- [Adaptation des antibiotiques](https://abxbmi.com) chez le sujet en obésité
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -344,11 +345,14 @@ Les techniques chirurgicales peuvent être: sleeve gastrectomie (gastrectomie lo
 L'anneau gastrique est désormais très peu utilisé (complications, ré-interventions).
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'obésité de l'adulte" %}}
 
-Les prescriptions médicamenteuses (GLP-1) relèvent exclusivement des spécialistes de l'obésité.
+Les prescriptions médicamenteuses (GLP-1) relèvent exclusivement des spécialistes de l'obésité
+{.alert .alert-info}
 
 Un objectif doit être précis, atteignable, progressif, facile à mettre en œuvre, accepté et révisable.
+
+La prise en charge de l'obésité associe:
 
 - Activité physique
   - Lutte contre la sédentarité
@@ -367,7 +371,8 @@ Un objectif doit être précis, atteignable, progressif, facile à mettre en œu
 - Troubles du comportement alimentaire: psychologue, psychiatre, diététicien
 - Handicap: ergothérapeute
 - Autres intervenants: psychologue, psychiatre, médecin du travail, travailleur social
-- Associations de patients: [Collectif National des Associations d'Obèses (CNAO)](https://cnao.fr/)
+- Associations de patients: [Collectif National des Associations d'Obèses (CNAO)](https://cnao.fr)
+- Adaptation des doses d'antibiotiques: [AbxBMI](https://abxbmi.com)
 
 > << Les régimes déséquilibrés ou très restrictifs sont déconseillés >> (*HAS 2022*) - < 1200 kcal/j ne sont pas conseillés (*CEEDMM*)
 {.alert .alert-warning}

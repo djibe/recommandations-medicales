@@ -228,7 +228,7 @@ Gonadotrophines:
 {{% /collapse %}}
 {{%sources%}}
 
-- [Source 1](URL)
+- [Helena Teede et al. International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
 
 {{%/sources%}}
 

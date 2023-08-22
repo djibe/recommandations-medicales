@@ -179,7 +179,7 @@ Toute suspicion clinique de fibrillation atriale doit être confirmée au plus t
 
 ### Évaluation gériatrique standardisée
 
-- Cognitif: MMSE  
+- Cognitif: [MMSE (PDF)](http://www.sgca.fr/outils/mms.pdf)  
   Plus rapides: MIS (Memory Impairment Screen), test des 5 mots, test de l'horloge.
 - Dépendance: ADL ou IADL
 - Symptômes dépressifs

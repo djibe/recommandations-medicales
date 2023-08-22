@@ -17,7 +17,7 @@ sctid = "56717001"
 icd10 = "A16.9"
 image = true
 imageSrc = "Caverne médiane gauche chez une jeune femme de 20 ans avec toux chronique et perte de poids. Cas clinique par Dr Hani Makky Al Salam, Radiopaedia.org, rID: 12437"
-todo = "lecture tubertest, quantiferon positif signe TM ?, KEY: maladie, lutte contre la tuberculose, infection tuberculeuse, organisation mondiale, traitement de la tuberculose, tuberculose pulmonaire, infection tuberculeuse latente, mycobacterium tuberculosis"
+todo = "lecture tubertest, quantiferon positif signe TM ?, KEY: maladie, lutte contre la tuberculose, infection tuberculeuse, organisation mondiale, traitement de la tuberculose, tuberculose pulmonaire, infection tuberculeuse latente, mycobacterium tuberculosis, https://www.cpias-auvergnerhonealpes.fr/Doc_Reco/FicheRepere/Tuberculose_Juillet2023.pdf"
 +++
 
 {{%article-summary%}}

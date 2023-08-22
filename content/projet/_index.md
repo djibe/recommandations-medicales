@@ -8,6 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-06T09:56:35+02:00"
 publishdate = "2021-07-07"
 lastmod = "2023-06-16"
+todo = "https://ansm.sante.fr/actualites/lansm-publie-un-rapport-sur-la-consommation-des-antibiotiques-entre-2000-et-2020"
 chart = true
 +++
 

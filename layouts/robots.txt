@@ -1,6 +1,8 @@
 User-agent: GPTBot
 Disallow: /
 
-User-Agent: *
-Sitemap: {{ "sitemap.xml" | absURL }}
+User-agent: *
+Allow: /
 Disallow: /index.json
+
+Sitemap: {{ "sitemap.xml" | absURL }}

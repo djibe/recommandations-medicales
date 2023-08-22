@@ -2,16 +2,16 @@
 title = "Hypertension artérielle de l'adulte (HTA)"
 prefix = "l'"
 titleSeo = "Hypertension artérielle HTA"
-description = "Recommandations HTA 2021 diagnostic et traitement de l'hypertension artérielle. Cibles tensionnelles selon le profil, carnet d'automesure, associations IEC ..."
+description = "Recommandations HTA 2023 diagnostic et traitement de l'hypertension artérielle. Cibles tensionnelles selon le profil, carnet d'automesure, associations IEC ..."
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2023-07-03"
+lastmod = "2023-08-22"
 specialites = ["cardiologie"]
 annees = "2021"
-sources = ["ESC", "ESH"]
+sources = ["ESH", "ESC"]
 tags = ["cephalees", "demence", "depistage", "epreuve effort", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "SAS", "vertige"]
 anglais = ["Hypertension disorder", "high blood pressure"]
 sctid = "38341003"
@@ -23,15 +23,14 @@ todo = "poussée HTA +++, SEO 'reco hta', modale automesure, A LIRE: Bernatos pl
 
 {{%article-summary%}}
 
-- Les nouvelles recommandations hypertension artérielle 2023 ESH/ISH seront publiées en août
-- Dépister l'hypertension artérielle chez tout adulte au moins tous les 5 ans (1/3 des adultes atteints et 1/4 contrôlés)
+- Dépister l'hypertension artérielle dès 18 ans, au moins tous les 5 ans après 40 ans (1/3 des adultes atteints et 3/4 non contrôlés)
 - Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet*)
-- Confirmer le diagnostic par mesures et automesure/MAPA répétées
-- Recherche des complications, HTA secondaire et calcul du {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} avec le {{< scores/heartscore >}} (le LDL cible en découle)
-- Traitement selon le grade d'hypertension (voir *Définitions*) et RHD systématiques
-- Cibles tensionnelles selon le profil (120-129/70-79 mmHg avant 65 ans)
-- Objectif d'un seul comprimé combiné et informer sur les conséquences d'une HTA non traitée (accidents CV, démence)
-- Bithérapies de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
+- Confirmer le diagnostic par mesures et automesures / MAPA répétées, conserver le grade et le stade d'hypertension au diagnostic
+- Recherche des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} ({{< scores/heartscore >}} en prévention primaire) (le LDL cible en découle)
+- Traitement selon le grade d'hypertension (voir *Définitions*) et mesures hygiéno-diététiques systématiques
+- Cibles tensionnelles selon le profil (120-129 / 70-79 mmHg avant 65 ans), appliquées telles quelles à l'automesure
+- Objectif d'un seul comprimé antihypertenseur combiné et informer sur les conséquences d'une HTA non traitée ([accidents cardiovasculaires](/tags/risque-cardiovasculaire/), démence)
+- Bithérapies antihypertensives de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
 - [Le carnet d'automesure tensionnelle 2021 (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
 
 {{%/article-summary%}}
@@ -42,18 +41,25 @@ Hypertension artérielle
 : Premier facteur de morbi-mortalité modifiable dans le monde.  
 La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance cardiaque, coronaropathie, AVC, [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), dégradation cognitive et démence.
 : La réduction de la systolique de 10 mmHg (et de 5 mmHg pour la diastolique) réduit le risque d'évènement CV de 20%, la mortalité de 10-15%, le risque d'AVC de 35%, de SCA de 20%, d'insuffisance cardiaque de 40%. Le traitement allonge l'espérance de vie.
-: 1 patient sur 2 dépasse 140/90 mmHg. Principaux facteurs de non contrôle: défaut d'observance (à 6 mois: 2/3 - 1 an: 50%) et inertie du médecin.
+: 1 patient sur 2 dépasse 140/90 mmHg. Principaux facteurs de non contrôle: défaut d'**observance** (à 6 mois: 2/3 - 1 an: 50%) et **inertie du médecin**.
 
-{{< table title="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après ESC 2021 et ESH 2021" class="table-wrap" >}}
+Hypertension artérielle résistante
+: Pressions mesurées au cabinet ≥ 140/90 mmHg et confirmées au domicile malgré un traitement optimal et bien suivi avec RHD et au moins 3 traitements à doses maximales tolérées (IEC/ARA2, TZD, ICa). Responsable de 10% des hypertensions.
+: Risques de l'hypertension résistante: augmentation des complications hypertensives, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) et événements cardiovasculaires.
+
+### Grades de l'hypertension artérielle
+
+{{< table title="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après ESH 2023" class="table-wrap" >}}
 | Catégorie                 | Systolique (mmHg) |       | Diastolique (mmHg) | Action                                                                        |
 |---------------------------|:-----------------:|:-----:|:------------------:|-------------------------------------------------------------------------------|
-| Optimale                  | &lt; 120          | et    | &lt; 80            | Surveillance min. /5 ans                                                      |
-| Normale                   | 120-129           | et/ou | 80-84              | Surv. min. /3 ans (6 mois si FRCV)                                           |
-| Normale haute             | 130-139           | et/ou | 85-89              | Surv. **annuelle**, éliminer HTA masquée par AMT/MAPA, traiter si THRCV           |
+| Optimale                  | < 120             | et    | < 80               | Surveillance min. /5 ans                                                      |
+| Normale                   | 120-129           | et    | 80-84              | Surv. min. /3 ans (6 mois si FRCV)                                            |
+| Normale haute             | 130-139           | et/ou | 85-89              | Surv. **annuelle**, éliminer HTA masquée par AMT/MAPA, traiter si THRCV       |
 | Hypertension grade&nbsp;1 | 140-159           | et/ou | 90-99              | Éliminer blouse blanche par AMT/MAPA, essai RHD 3-6 mois, traiter si HRCV     |
-| Hypertension grade&nbsp;2 | 160-179           | et/ou | 100-109            | Confirmer par AMT/MAPA en qq j/sem, traitement immédiat et contrôle sous 3 mois |
-| Hypertension grade&nbsp;3 | ≥ 180          | et/ou | ≥ 110           | Traitement immédiat et cible atteinte à 3 mois                                |
-| Hypertension systolique isolée | ≥ 140     | et    | &lt; 90            | Traitement selon le grade de la PAS                                           |
+| Hypertension grade&nbsp;2 | 160-179           | et/ou | 100-109            | Confirmer par AMT/MAPA en qq j/sem, **traitement immédiat** et contrôle sous 3 mois |
+| Hypertension grade&nbsp;3 | ≥ 180             | et/ou | ≥ 110              | Traitement immédiat et cible atteinte sous 3 mois                             |
+| Hypertension systolique isolée | ≥ 140        | et    | < 90               | Traitement selon le grade de la PAS                                           |
+| Hypertension diastolique isolée | < 140       | et    | ≥ 90               | Traitement selon le grade de la PAD                                           |
 {{< /table >}}
 
 > **AMT =** automesure tensionnelle ; **HRCV/THRCV =** {{%modal-btn "modal-rcv"%}}haut/très haut risque CV{{%/modal-btn%}}.  
@@ -64,21 +70,24 @@ Découverte ≥ 80 ans: traiter si ≥ grade 2.
 L'HTA systolique isolée est gradée selon la même échelle des valeurs systoliques.  
 Dépistage rapproché chez le +50 ans.
 
-4 situations après la réalisation des mesures standardisées et au domicile (AMT et/ou MAPA):
+4 situations après la réalisation des mesures standardisées au cabinet et au domicile (AMT et/ou MAPA):
 
 1. Normotension  
   Pressions au cabinet et ambulatoires normales. Rythme de surveillance selon le tableau ci-dessus.
-1. Hypertension permanente  
+2. Hypertension permanente  
   Hypertension au cabinet et au domicile. Traitement selon tableau ci-dessus.
-1. Hypertension blouse blanche (15-25%)  
+3. Hypertension blouse blanche (15-25 %)  
   Hypertension au cabinet et absente au domicile. RHD et dépistage annuel. Envisager un traitement en {{%modal-btn "modal-rcv"%}}risque cardiovasculaire élevé ou très élevé{{%/modal-btn%}}
-1. Hypertension masquée (10-20%)  
+4. Hypertension masquée (10-20 %)  
   Hypertension absente au cabinet et observée au domicile. RHD et traitement selon le grade de l'hypertension.
 
-Hypertension artérielle résistante
-: Pressions mesurées au cabinet ≥ 140/90 mmHg et confirmées au domicile malgré un traitement optimal et bien suivi avec RHD + ≥ 3 traitements à doses maximales tolérées (IEC/ARA2, TZD, ICa).  
-: Risques: augmentation des complications hypertensives, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) et événements cardiovasculaires.  
-Elle atteint < 10% des patients.
+### Stades d'hypertension artérielle
+
+Au grade d'hypertension artérielle on ajoute la précision du stade d'hypertension:
+
+- Stade 1: hypertension artérielle non compliquée
+- Stade 2: complications de l'hypertension (HVG, AOMI, rétinopathie), insuffisance rénale stade 3 (DFG 30-59) ou diabète
+- Stade 3: maladie cardiovasculaire ou insuffisance rénale stade 4 ou 5 (DFG < 30)
 
 ### Abréviations
 
@@ -127,10 +136,16 @@ TZD
 
 ### Épidémiologie de l'hypertension artérielle
 
-- En France: prévalence de 30% chez l'adulte avec 17 millions de sujets (+60% après 60 ans, *BEH 2023*)  
-  Parmi lesquels 6 millions ne le savent pas et 4 millions ne sont pas contrôlés.
-- Dans le monde: 1 milliard d'hypertendus (150 millions en Europe)
-- 10 millions de morts annuels et malgré les progrès thérapeutiques, l'espérance de vie corrigée de l'incapacité a augmenté de 40% depuis 1990
+- En France
+  - Prévalence: 30% chez l'adulte avec 17 millions de sujets (+60% ont +60 ans, *BEH 2023*)  
+    Parmi lesquels 6 millions ne le savent pas et 4 millions ne sont pas contrôlés.
+- Dans le monde
+  - 1,28 milliard d'hypertendus (150 millions en Europe)
+  - Prévalence: 1/3 des adultes
+  - Décès: 10 millions chaque année
+  - Malgré les progrès thérapeutiques, l'espérance de vie corrigée de l'incapacité a augmenté seulement de de 40% depuis 1990
+- Morbidité
+  - Chaque élévation de 20 mmHg de systolique double le risque d'AVC ou de décès coronarien
 
 {{% /collapse %}}
 {{%collapse "Mesure de la pression artérielle au cabinet" %}}
@@ -138,9 +153,9 @@ TZD
 > Les mesures sur la table d'examen ne sont pas valables (*ESH 2021*)
 {.alert .alert-warning}
 
-Toute personne majeure devrait avoir la mesure de PA dans son dossier et connaître ses valeurs.
+Toute personne majeure devrait avoir la mesure de pression artérielle (PA) dans son dossier et connaître ses valeurs.
 
-Mesure standardisée nécessaire pour le contrôle des objectifs tensionnels:
+Une mesure standardisée est nécessaire pour le contrôle des objectifs tensionnels:
 
 - Conditions de mesure
   - Assis au calme depuis +5 minutes
@@ -151,18 +166,19 @@ Mesure standardisée nécessaire pour le contrôle des objectifs tensionnels:
   - Personne ne parle pendant et entre les mesures
   - Retrait de tous les vêtements de la zone de mesure
 - Technique validée
-  - Tensiomètre électronique validé
-  - Brassard huméral validé et calibré régulièrement
-  - Bras posé sur le bureau
+  - **Tensiomètre électronique validé uniquement** (liste plus bas)
+  - Brassard huméral validé et calibré régulièrement (annuel)
+  - Bras nu posé sur le bureau
   - Le centre du brassard est posé en regard de l'artère brachiale et le milieu du brassard doit être au niveau du sternum médian
   - Brassard de taille adaptée
   - 1 doigt peut être aisément glissé sous le brassard à ses extrémités
 - Mesures
   - Utiliser le bras avec les valeurs les plus hautes  
-    Une différence de +20 mmHg nécessite un avis cardiologique.
+    Une différence de 15-20 mmHg nécessite un avis cardiologique.
   - 3 mesures (2 si normales) espacées de 1 minute et noter la moyenne des 2 dernières
-  - En manuel, gonfler 20-30 mmHg au-delà de la disparition du 1er bruit de Korotkoff. Dégonfler de 2-3 mmHg/s.
-  - Enfants, grossesse, arythmie: contrôler manuellement
+  - En manuel: gonfler 20-30 mmHg au-delà de la disparition du premier bruit de Korotkoff. Dégonfler de 2-3 mmHg/s.
+  - **Enfants, grossesse, arythmie**: contrôler manuellement la tension
+  - Si +65 ans, diabète, maladie neurodégénérative: mesure debout à 1 et 3 minutes pour le dépistage de l'hypotension orthostatique
   - Diagnostic si ≥ 140/90 mmHg
 - Dossier médical
   - Noter les valeurs systoliques et diastoliques dans le dossier médical
@@ -177,7 +193,7 @@ Mesure standardisée nécessaire pour le contrôle des objectifs tensionnels:
 - Information du patient  
   Donner au patient ses mesures oralement et par écrit.
 
-> *ESH 2021* et *ACC/AHA 2017* [Poster (PDF)](https://www.stridebp.org/images/training_bp/Office_BP_measurements_Poster.pdf).
+> *ESH 2023* ([poster (PDF)](https://www.stridebp.org/images/training_bp/Office_BP_measurements_Poster.pdf))
 
 L'automesure tensionnelle doit être utilisée en complément (effet blouse blanche fréquent, hypertension masquée, hypertension résistante), d'autant plus si les valeurs sont limites 130-159 / 85-99 mmHg.
 
@@ -191,17 +207,17 @@ Appareils validés pour la mesure automatisée de la pression artérielle:
 - [Pour l'automesure tensionnelle](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=home)
 - [Enfants](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=children)
 - [Grossesse](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=pregnancy)
-- [Rechercher un modèle](https://stridebp.org/bp-monitors) [ou autre liste de modèles validés](https://www.validatebp.org/)
+
+[Rechercher un modèle (tests ESH)](https://stridebp.org/bp-monitors), [autre liste de modèles validés (AMA)](https://www.validatebp.org) ([anglais](https://bihsoc.org/bp-monitors/), [canadien](https://hypertension.ca/healthcare-professionals/recommended-devices)).
 
 Le brassard est spécifique de chaque appareil.
 
 {{% /collapse %}}
 {{%collapse "Automesure tensionnelle" %}}
 
-[Le carnet d'automesure tensionnelle en PDF (international 2021)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)  
-[Appareils validés pour l'automesure tensionnelle](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=home)
+[Le carnet d'automesure tensionnelle en PDF (international 2021)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf) et les [appareils validés pour l'automesure tensionnelle](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=home).
 
-L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hypertension en vie quotidienne et démasquer une HTA masquée.
+L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hypertension en vie quotidienne et démasquer une hypertension masquée:
 
 - Conditions de mesure
   - Pièce calme avec température confortable
@@ -215,20 +231,25 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hyp
 - Brassard
   - Taille adaptée au bras
   - Utilisation selon la notice (bras gauche ++)
+  - Éviter les appareils au poignet
 - Mesures au diagnostic et avant la consultation
   - Avec un appareil validé
-  - éviter les appareils au poignet
   - 2 mesures à 1 minute d'intervalle
   - Matin et soir
   - Pendant 7 jours (au moins 3)
   - Avant la prise des traitements et des repas
-  - Moyenne des valeurs des 6 derniers jours
-  - Diagnostic si moyenne ≥ 135/85 mmHg
+  - Moyenne des valeurs des 6 derniers jours (ignorer le J1)
+  - Diagnostic d'hypertension si moyenne ≥ 135/85 mmHg
 - Mesures avec antihypertenseurs
   - 2 mesures consécutives
   - 1-2/semaine et minimum 1/mois
+  - Répétée avant chaque consultation
+  - La cible tensionnelle (le + souvent < 13/8) est appliquée telle quelle (sans ajustement de 5 mmHg)
 
 Ajouter sur l'ordonnance le tensiomètre électronique, certaines mutuelles pouvant le prendre en charge.
+
+Chez l'enfant ou pendant la grossesse, un appareil validé spécifique est nécessaire (cf section précédente)
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Objectifs tensionnels" "show" %}}
@@ -262,9 +283,9 @@ Détail pour chaque pathologie sur la page du chapitre concerné.
 ### Interrogatoire
 
 - Facteurs de risque d'hypertension
-  - Antécédents personnels et familiaux cardiovasculaires  
-    HTA, maladie cardiovasculaire, AIT/AVC, maladie rénale, pré-éclampsie.
-  - Date du diagnostic de l'hypertension et valeurs au diagnostic
+  - Antécédents personnels et familiaux  
+    Diabète, HTA, maladie cardiovasculaire, AIT/AVC, maladie rénale, goutte, pré-éclampsie, ménopause précoce, cancer.
+  - Date du diagnostic de l'hypertension, valeurs au diagnostic, aggravation rapide
   - Traitements en cours, traitements essayés, observance
   - Tabagisme, drogues
   - Alimentation, sel
@@ -274,38 +295,49 @@ Détail pour chaque pathologie sur la page du chapitre concerné.
     Aggravée par TZD et BB. IPDE5 sans risque sauf dérivés nitrés ou alpha-bloquant.
 - Signes cardiovasculaires
   - Céphalées, vertiges, syncopes, troubles de la vision, régression cognitive
-  - Douleurs thoraciques, dyspnée, œdèmes, palpitations
-  - Soif, nycturie, hématurie, infections urinaires récidivantes
-  - Extrémités froides, claudication ou douleurs de repos, périmètre de marche
-- Signes évocateurs d'**hypertension secondaire**
-  - HTA grade 2-3 avant 40 ans
-  - HTA d'apparition ou d'aggravation rapide
-  - Hypertension résistante
-  - Hypertension sévère ou [HTA maligne]({{< relref "hypertension-arterielle-maligne.md" >}})
-  - Multiples complications de l'hypertension
-  - Rechercher des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}
-  - Infections urinaires récidivantes
-  - Drogues, corticoïdes, sprays nasaux, automédication, contraception, chimiothérapie, yohimbine, réglisse
-  - Phéochromocytome  
-    Épisodes répétés de sueurs - céphalées - palpitations.
-  - Hyperaldostéronisme primaire  
-    *Hypokaliémies* spontanées ou sous diurétiques, fatigue musculaire, tétanie.
-  - Syndrome de Cushing  
-    Faciès lunaire et rouge, obésité tronculaire et bosse de bison, fonte musculaire et fatigue, atrophie cutanée et ecchymoses faciles, vergetures pourpres, retard de cicatrisation, doigts très minces, hirsutisme, troubles de l'humeur, dysménorrhées, corticoïdes chroniques.
-  - Dysthyroïdie
-  - Grossesse en cours ou contraception œstroprogestative (5% développent une HTA)
+  - Douleurs thoraciques, dyspnée, œdèmes, palpitations, syncope
+  - Soif, polyurie, nycturie, hématurie, infections urinaires récidivantes
+  - Extrémités froides, claudication ou douleurs de repos, ulcères, périmètre de marche
+  - Signes évocateurs d'hypertension secondaire (voir ci-dessous)
+
+### Signes d'hypertension artérielle secondaire
+
+Signes devant faire évoquer une hypertension secondaire et nécessitant une évaluation cardiologique:
+
+- HTA grade 2-3 avant 40 ans
+- HTA d'apparition ou d'aggravation rapide
+- Antécédents d'infections urinaires récidivantes
+- Hypertension résistante
+- Hypertension sévère ou [maligne]({{< relref "hypertension-arterielle-maligne.md" >}})
+- Multiples complications de l'hypertension
+- Apnées du sommeil ({{< modal-btn modal-saos >}}dépistage{{< /modal-btn >}})
+- Drogues, corticoïdes, sprays nasaux, automédication, contraception, chimiothérapie, yohimbine, réglisse
+- Phéochromocytome  
+  Épisodes répétés de sueurs - céphalées - palpitations.
+- Hyperaldostéronisme primaire  
+  *Hypokaliémies* spontanées ou sous diurétiques, fatigue musculaire, tétanie.
+- [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}})  
+  Faciès lunaire et rouge, obésité tronculaire et bosse de bison, fonte musculaire et fatigue, atrophie cutanée et ecchymoses faciles, vergetures pourpres, retard de cicatrisation, doigts très minces, hirsutisme, troubles de l'humeur, dysménorrhées, corticoïdes chroniques.
+- Dysthyroïdie
+- Grossesse en cours ou contraception œstroprogestative (5% développent une HTA)
 
 ### Examen clinique
 
-- Poids, taille, IMC, tour de taille
+> << La mesure de la tension artérielle devrait faire partie de toute visite médicale, même chez les mineurs. >> (*ESH 2023*)
+{.alert .alert-info}
+
+- Poids, taille, IMC
+- Tour de taille
+- Pression artérielle, fréquence cardiaque
 - Comparaison de la pression artérielle aux 2 bras
-- +65 ans: examen neurologique et cognitif (MMSE)
-- Palpation et auscultation des trajets artériels
+- Auscultation cardiaque, palpation et auscultation des trajets artériels
+- Si possible: [mesure de l'IPS]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
+- Examen neurologique
+- +65 ans: dépistage cognitif: [MMSE (PDF)](http://www.sgca.fr/outils/mms.pdf) ou MoCA ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf))
 - Signes d'hypertension secondaire
   - Tâches café au lait
   - Contact lombaire
-  - Avant 40 ans ou HTA résistante: syndrome de Cushing
-- Signes d'[acromégalie]({{< relref "acromegalie.md" >}}) ou [dysthyroïdie](/tags/tsh/)
+  - Signes d'un [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}), d'une [acromégalie]({{< relref "acromegalie.md" >}}) ou de [dysthyroïdie](/tags/tsh/)
 
 ### Bilan initial de l'hypertension artérielle
 
@@ -314,16 +346,16 @@ Bilan après 8 heures de jeûne:
 
 - NFS
 - Glycémie
-- Bilan lipidique LDL HDL CT TG
-- Ionogramme sanguin, créatinine, DFG {{< scores/ckd-epi >}}
+- Bilan lipidique: LDL, HDL, CT, TG
 - Acide urique (marqueur de RCV)
-- ASAT ALAT GGT
-- BU, albuminurie sur échantillon
-
-ECG 12 dérivations
+- Calcémie
+- Dépistage des complications
+  - Ionogramme sanguin, créatinine, DFG {{< scores/ckd-epi >}}
+  - BU, albuminurie/créatininurie sur échantillon
+  - **ECG 12 dérivations**
 {{%/info%}}
 
-### Conduite à tenir en découverte d'hypertension
+### Prise en charge après le diagnostic d'hypertension artérielle
 
 1. Confirmer le diagnostic par automesure/MAPA
 2. Noter dans le dossier les valeurs pré-traitement et le grade de l'hypertension (voir *Définitions*)
@@ -334,7 +366,7 @@ ECG 12 dérivations
     - IRM cérébrale si déclin cognitif, antécédent familial d'hémorragie cérébrale à l'âge moyen ou de démence précoce
 4. Définir le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}}.  
   En l'absence de MCV, calculer le risque {{< scores/heartscore >}}.
-5. Adresser au service d'hypertension: HTA secondaire ou résistante, -40 ans avec grade 2+, HTA d'installation rapide
+5. Adresser au service d'hypertension si: suspicion d'HTA secondaire (voir *Clinique*) ou résistante, bilan des complications
 
 {{% /collapse %}}
 {{%collapse "Mesures hygiéno-diétetiques" %}}
@@ -364,8 +396,8 @@ La prise en charge de l'hypertension est toujours associée aux mesures hygiéno
 - Pas d'arrêt du traitement sur le seul critère d'âge
 - Les bêtabloquants sont privilégiés en maladie cardiovasculaire (insuffisance cardiaque, [angor]({{< relref "syndrome-coronarien-chronique.md" >}}), infarctus, FA) ou grossesse
 - Suivi tous les 3-6 mois
-- Surveillance biologique (*HAS 2016*)
-  - Annuelle: ionogramme, créatininémie, microalbuminurie
+- Surveillance biologique (*ESH 2023* et *HAS 2016*)
+  - Annuelle: ionogramme, créatininémie, DFG, albuminurie sur échantillon
   - Tous les 3 ans: glycémie à jeun, bilan lipidique, ECG (3-5 ans)
 - Réévaluation des complications au minimum tous les *2 ans*
 

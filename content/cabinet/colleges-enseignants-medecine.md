@@ -48,7 +48,8 @@ Le tableau ci-dessous liste tous les référentiels disponibles en téléchargem
 | Urologie | CFEU <br><span class="typography-caption">Collège Français des Enseignants en Urologie</span> | 2021 | [lien](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/) |
 {{< /table >}}
 
-> Note. Les dernières versions des Collèges de dermatologie et médecine vasculaire sont payants, le collège d'ORL passe par une connexion à la *plateforme UNESS*
+Les dernières versions des Collèges de dermatologie et médecine vasculaire sont payants, le collège d'ORL passe par une connexion à la *plateforme UNESS*.
+{.alert .alert-info}
 
 Malheureusement, les livres des autres spécialités des Collèges d'enseignants ne sont disponibles qu'à la vente.
 
@@ -62,7 +63,6 @@ Pour ne pas les citer:
 - Collège Français de Chirurgie Générale, Viscérale et Digestive (CFCGVD), Conseil National des Universités de Chirurgie Viscérale et Digestive (CNU)
 - Collège National des Enseignants et Praticiens de Génétique Médicale (CNEPGM)
 - Collège National des Enseignants de Gériatrie (CNEG)
-- Collège national des gynécologues et obstétriciens français (CNGOF)
 - Collège des Enseignants d'hématologie
 - Collège universitaire et hospitalier des histologistes, embryologistes, cytologistes et cytogénéticiens (CHEC)
 - Collège des Enseignants d'Humanités Médicales (COLHUM)

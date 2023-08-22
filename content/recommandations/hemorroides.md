@@ -123,7 +123,7 @@ L'objectif de la prise en charge médicale des hémorroïdes est de soulager les
   - Prescrire®: lubrifiant type vaseline
   - Corticoïdes ± anesthésiques  
     Spécialités (NR): Deliproct®, Rectoquotane®, Sédorrhoïde crise hémorroïdaire®, Titanoréïne crème®, Titanoréïne lidocaïne 2%®, Tronothane 1%®, Ultraproct®.
-  - Carraghénates NR ([Titanoréïne crème®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63802533&typedoc=R), Titanoréïne lidocaïne 2%®)
+  - Carraghénates NR ([Titanoréïne crème®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63802533&typedoc=R), [Titanoréïne lidocaïne 2%®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61165034&typedoc=R))
 - Veinotoniques:
   - Flavonoïdes ([diosmine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69941714&typedoc=R), rutosides)  
     Diminuent la durée et l'intensité des symptômes internes (dont rectorragies). En cure courte ou au long cours.

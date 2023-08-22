@@ -320,7 +320,7 @@ graph TB
 {{%sources%}}
 
 - [Collège des Enseignants de Pneumologie (CEP). Infections broncho-pulmonaires communautaires de l'adulte. Item 154. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_154_INFECTIONS_RESPIRATOIRES_2023.pdf)
-- [GPIP, SFP, AFPA, SPILF. Conduite à tenir autour d'un cas d'infection invasive à Streptocoque du Groupe A. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/communiques/conduite-a-tenir-cas-contact-infections-invasives-a-sgadef.pdf)
+- [GPIP, SFP, AFPA, SPILF. Conduite à tenir autour d'un cas d'infection invasive à Streptocoque du Groupe A. 2022. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/communiques/conduite-a-tenir-cas-contact-infections-invasives-a-sgadef.pdf)
 - {{< references/calendrier-vaccinal >}}
 - Prescrire Redaction. Pneumonie communautaire chez un adulte. Premiers choix Prescrire. Rev Prescrire. 2022.
 - [CMIT. Infections broncho-pulmonaires communautaires de l'adulte et de l'enfant. Item 154. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-154-web.pdf)
