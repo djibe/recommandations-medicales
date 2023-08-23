@@ -17,12 +17,13 @@ sctid = "18165001"
 icd10 = "R17"
 image = true
 imageSrc = "Ictère faisant découvrir un cancer du pancréas. James Heilman, MD, CC BY 3.0, via Wikimedia Commons"
+todo = "EBM"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- L'ictère est dit à bilirubine non conjuguée (si la bilirubinémie non conjuguée est supérieure à 70% de la bili totale), conjuguée ou mixte
+- L'ictère est dit à bilirubine non conjuguée (si la bilirubinémie non conjuguée est supérieure à 70% de la bilirubine totale), conjuguée ou mixte
 - Le bilan de l'ictère comporte: NFS, bilirubinémie totale et conjuguée et un bilan hépatique (ASAT, ALAT, GGT, PAL) à la recherche d'une cholestase ou d'une cytolyse associée
 - Le bilan de l'ictère est complété selon que la bilirubinémie est conjuguée ou non conjuguée
 - Le syndrome de Gilbert est la première cause d'ictère à bilirubine non conjuguée. Il est bénin et ne nécessite pas d'explorations
@@ -181,7 +182,5 @@ style ictère stroke:#4150f5, stroke-width:1px
 {{%sources%}}
 
 {{< references/college-gastro >}}
-
-EBM
 
 {{%/sources%}}

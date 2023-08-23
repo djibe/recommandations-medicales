@@ -327,7 +327,7 @@ Favorisée par l'obésité et une hernie hiatale.
 - [Jouet P. Faut-il diminuer les FODMAPs en cas de RGO ? GastroScoop. 28/07/2021.](https://www.snfge.org/gastroscoop/faut-il-diminuer-les-fodmaps-en-cas-de-rgo)
 - Prescrire Redaction. Patients ayant un reflux gastro-œsophagien. Janvier 2021.
 - Prescrire Redaction. Reflux gastro-œsophagien chez un nourrisson. Août 2020.
-- [Zerbib F; SNFGE. Traitement du RGO. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
+- [Rouillon JM. Traitement du RGO. SNFGE. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
 - [SNFGE. Reflux gastro-œsophagien (RGO)](https://www.snfge.org/content/reflux-gastro-oesophagien-rgo)
 - [Gyawali CP et al. Modern diagnosis of GERD: the Lyon Consensus. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6031267/)
 

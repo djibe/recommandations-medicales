@@ -247,7 +247,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- <https://www.hemochromatose.org/wp-content/uploads/2018/05/Recommandations-th%C3%A9rapeutiques-2018.pdf>
+- [Adams P et al. Therapeutic recommendations in HFE hemochromatosis for p.Cys282Tyr (C282Y/C282Y) homozygous genotype. Hepatol Int. 2018.](https://link.springer.com/article/10.1007/s12072-018-9855-0) ([VF (PDF)](https://www.hemochromatose.org/wp-content/uploads/2018/05/Recommandations-th%C3%A9rapeutiques-2018.pdf))
 - Prescrire
 
 {{%/sources%}}

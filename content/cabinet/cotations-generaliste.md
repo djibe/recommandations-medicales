@@ -6,7 +6,7 @@ description = ""
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2023-06-08"
+lastmod = "2023-08-23"
 annees = "2023"
 sources = ["Assurance Maladie"]
 tags = []
@@ -15,7 +15,7 @@ imageSrc = "unDraw"
 todo = "FS exemple frottis, MD, jour férié, IK, routexl, MPH aussi quand change de MT ?"
 +++
 
-En attendant un outil plus performant sur RecoMédicales, *OMNIPrat* permet de retrouver ses petits pour la cotation des actes en médecine générale (NGAP = Nomenclature Générale des Actes Professionnels)
+En attendant un outil plus performant sur *RecoMédicales*, *OMNIPrat* permet de retrouver ses petits pour la cotation des actes en médecine générale (NGAP = Nomenclature Générale des Actes Professionnels)
 {.lead}
 
 {{< card-link-external title="Outil d'aide à la cotation et le remplissage des feuilles de soins" url="https://omniprat.org/cotation/" subtitle="OMNIprat">}}
@@ -28,6 +28,7 @@ En attendant un outil plus performant sur RecoMédicales, *OMNIPrat* permet de r
 
 ## Les cotations pour les médecins généralistes
 
+<style>thead > tr > th:first-of-type {width: 110px}</style>
 <div class="card card-hover my-3 mb-xl-5">
   <ul class="nav nav-tabs nav-justified" id="tabs-cotations" role="tablist" style="overflow-x: hidden">
     <li class="nav-item" role="presentation">
@@ -48,8 +49,8 @@ En attendant un outil plus performant sur RecoMédicales, *OMNIPrat* permet de r
 
 Cotations pour la consultation d'un adulte ou l'enfant à partir de 6 ans.
 
-{{< table title="Cotations pour la consultation d'un adulte ou l'enfant à partir de 6 ans" >}}
-| Code NGAP  | Description                                                                                   | Tarif (€) |
+{{< table title="Cotations pour la consultation d'un adulte ou l'enfant à partir de 6 ans" class="table-wrap" >}}
+| Code NGAP  | Description                                                                                   | Tarif&nbsp;(€) |
 |------------|-----------------------------------------------------------------------------------------------|----------:|
 | G(S)       | Consultation                                                                                  |        25 |
 | TCG        | Téléconsultation                                                                              |        25 |
@@ -82,7 +83,7 @@ Cotations pour le petit enfant.
 Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de vie sont sur l'assurance *Maternité* avec pour date de Maternité la date de naissance de l'enfant, tous les autres sont en *Maladie*.
 
 {{< table title="Cotations des consultations de l'enfant avant 6 ans" class="table-wrap" >}}
-| Code NGAP                                           | Description                                                                                                                            | Tarif (€) |
+| Code NGAP                                           | Description                                                                                                                            | Tarif&nbsp;(€) |
 |-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------:|
 | G + MEG                                             | Consultation avant 6 ans                                                                                                               |        30 |
 | VG + MEG + MD                                       | Visite avant 6 ans                                                                                                                     |        40 |
@@ -100,7 +101,7 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 ### Actes du généraliste avant 6 ans {.typography-headline-5}
 
 {{< table >}}
-| Code CCAM           | Description                                                                                   | Tarif (€) |
+| Code CCAM           | Description                                                                                   | Tarif&nbsp;(€) |
 |---------------------|-----------------------------------------------------------------------------------------------|----------:|
 | CDRP002             | Dépistage de la surdité avant 3 ans<br>avec test validé (SensoryBabyTest)                     |     48,51 |
 | CDRP002 + ½ BLQP010 | Dépistage de la surdité avant 3 ans<br>couplé au test de la vision binoculaire (test de Lang) |     61,17 |
@@ -110,7 +111,7 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
   <div aria-labelledby="visite-tab" class="tab-pane fade" id="visite-panel" role="tabpanel">
 
 {{< table class="table-wrap" >}}
-| Code NGAP   | Description                                                                               |  Tarif (€) |
+| Code NGAP   | Description                                                                               |  Tarif&nbsp;(€) |
 |-------------|-------------------------------------------------------------------------------------------|-----------:|
 | VG(S) + MD  | Visite à domicile pour un adulte                                                          |    25 + 10 |
 | VG(S) + MU  | Visite nécessitant d'interrompre ses consultations et de quitter immédiatement le cabinet | 25 + 22,60 |
@@ -156,7 +157,7 @@ Cotations NGAP disponibles en sus de la consultation ou de la visite.
 Actes CCAM importants non cumulables ou cumulables avec une consultation (3 au total: ECG, frottis cervico-vaginal et biopsie cutanée).
 
 {{< table title="Actes importants pour le médecin généraliste. Majoration M possible si urgence pour les actes mentionnés" >}}
-| Code CCAM   | Description                                                               | Tarif (€) |
+| Code CCAM   | Description                                                               | Tarif&nbsp;(€) |
 |-------------|---------------------------------------------------------------------------|----------:|
 | + DEQP003   | ECG 12D                                                                   |     14,26 |
 | + JKHD001   | Frottis cervico-vaginal                                                   |     12,46 |

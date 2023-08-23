@@ -24,11 +24,11 @@ chart = true
 
 - L'obésité est une maladie qui affecte le bien-être physique, social et psychologique et touche 17% des Français
 - Le diagnostic d'obésité de l'adulte est clinique avec un indice de masse corporelle (IMC) supérieur à 30 kg/m² (dite morbide ou classe 3 à partir de 40)
-- « Demander l’accord de la personne pour aborder le poids » (*HAS 2023*)
+- << Demander l’accord de la personne pour aborder le poids >> (*HAS 2023*)
 - Un niveau adapté de prise en charge des personnes en obésité est requis (voir [Niveau adapté](#niveau-adapté-de-prise-en-charge-et-chirurgie-bariatrique)):
-  - Centre spécialisé de l'obésité (CSO, [annuaire](https://sante.gouv.fr/IMG/pdf/annuaire_national_cso_fevrier_2023.pdf)) si: IMC ≥ 50, insuffisance d'organe, grabataire, cause génétique, échec de bariatrique  
+  - Centre spécialisé de l'obésité (CSO, [annuaire](https://sante.gouv.fr/IMG/pdf/annuaire_national_cso_fevrier_2023.pdf)) si: IMC ≥ 50, insuffisance d'organe, grabataire, cause génétique, échec de chirurgie bariatrique  
   ou IMC 35-50 avec aggravation d'une maladie chronique, périmètre de marche 100-200 m, hyperphagie boulimique, psychiatrique sévère, obésité secondaire, échec de niveau 2
-  - Nutritionniste si IMC 35-50 kg/m² avec : pathologie cardiovasculaire déséquilibrée (HTA résistante, diabète déséquilibré, NAHS, SAHOS sévère), aggravation d'une maladie chronique sans risque majeur, impact marqué sur la qualité de vie, boulimie, échec du niveau 1 ...
+  - Nutritionniste si IMC 35-50 kg/m² avec : pathologie cardiovasculaire déséquilibrée (HTA résistante, diabète déséquilibré, NASH, SAHOS sévère), aggravation d'une maladie chronique sans risque majeur, impact marqué sur la qualité de vie, boulimie, échec du niveau 1 ...
 - Indications à la chirurgie bariatrique: IMC ≥ 40 ou ≥ 35 avec comorbidité pouvant s'améliorer (HTA, SAHOS, DT2, NASH) avec échec des prises en charges antérieures (voir [Niveau adapté](#niveau-adapté-de-prise-en-charge-et-chirurgie-bariatrique))
 - Dépister les complications de l'obésité (voir *Dépistage*)
 - Les mesures de prise en charge de l'obésité de l'adulte sont: activité physique 150-300 minutes d'intensité modérée par semaine, perte de poids 5-15%, évaluation nutritionnelle et sensations alimentaires, éducation thérapeutique, soutien psychologique, association de patients CNAO

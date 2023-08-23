@@ -24,7 +24,7 @@ imageSrc = "Angine pseudomembraneuse durant une mononucléose infectieuse. James
 - La mononucléose infectieuse (MNI) est une primo-infection Epstein-Barr virus (EBV) symptomatique
 - Les symptômes de la mononucléose sont aspécifiques avec le plus souvent une fatigue persistante, une fièvre prolongée chez le nourrisson et le jeune enfant, une angine pseudomembraneuse ou érythématopultacée
 - Un exanthème polymorphe après la prise d'amoxicilline est évocateur
-- Évoquer une mononucléose devant angine, une splénomégalie ou la découverte d'un syndrome mononucléosique biologique
+- Évoquer une mononucléose devant une angine, une splénomégalie ou la découverte d'un syndrome mononucléosique biologique
 - Le bilan biologique comporte: NFS, CRP, MNI test. La sérologie EBV n'est réalisée qu'en présomption forte avec un MNI test négatif
 - La prise en charge de la mononucléose infectieuse comprend un simple traitement symptomatique avec repos. Aucune éviction de collectivité n'est requise
 - Informer sur le caractère durable de la fatigue d'une mononucléose
@@ -73,11 +73,7 @@ La mononucléose infectieuse (primo-infection EBV) est le plus souvent asymptoma
 - [Éruption fébrile](/tags/eruption-febrile/)  
   Exanthème polymorphe maculopapuleux ou papulovésiculeux discret (parfois exacerbé par la prise d'**amoxicilline** pour angine). Il n'est pas un signe d'hypersensibilité.
 - **[Splénomégalie]({{< relref "splenomegalie.md" >}})**
-- Rares signes neurologiques: méningite lymphocytaire, méningo-encéphalite, polyradiculonévrite aiguë
-- Signes négatifs
-  - Traitements en cours
-  - Rapports sexuels à risque
-  - Contact avec un chat
+- Complications: rares signes neurologiques (méningite lymphocytaire, méningo-encéphalite, polyradiculonévrite aiguë)
 
 ### Examen clinique
 
@@ -112,7 +108,7 @@ La prise en charge d'une mononucléose infectieuse est purement symptomatique:
 - Absence de mesure prophylactique pour les contacts
 - Repos  
   Prévenir que la fatigue est de durée variable.
-- Traitement symptomatique de la fièvre
+- Si fièvre: paracétamol
 
 {{% /collapse %}}
 {{%sources%}}

@@ -20,7 +20,7 @@ imageSrc = "Cycle de vie du Taenia (ténia). Centers for Disease Control & Preve
 
 {{%article-summary%}}
 
-- Le ténia (ver solitaire, *Taenia saginata*) est contracté par la consommation de viande de bœuf crue ou peu cuite (moins de 45°C)
+- Le ténia (ver solitaire, *Taenia saginata*) est contracté par la consommation de viande de bœuf crue ou peu cuite (moins de 45°C ou non surgelée)
 - L'infection parasitaire atteint l'intestin grêle et reste le plus souvent asymptomatique. Signes observables: aspect de tagliatelles dans les sous-vêtements ou la literie, troubles digestifs persistants (anorexie, boulimie, alternance diarrhées-constipation, douleurs épigastriques, prurit anal)
 - Le diagnostic est réalisé sur des examens parasitaires multiples: examens parasitologiques des selles, examen de vers des sous-vêtements, Scotch-test anal
 - La prise en charge du ténia comprend les mesures d'hygiène, la limitation de consommation de viande crue et le traitement par praziquantel 10 mg/kg dose unique avec un contrôle des prélèvements à 3 mois
