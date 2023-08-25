@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2023-08-22"
+lastmod = "2023-08-25"
 specialites = ["cardiologie"]
-annees = "2021"
+annees = "2023"
 sources = ["ESH", "ESC"]
 tags = ["cephalees", "demence", "depistage", "epreuve effort", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "SAS", "vertige"]
 anglais = ["Hypertension disorder", "high blood pressure"]
@@ -18,17 +18,17 @@ sctid = "38341003"
 icd10 = "I10"
 image = true
 imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik"
-todo = "poussée HTA +++, SEO 'reco hta', modale automesure, A LIRE: Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, ESC 2018 tableau 4+19 - src157"
+todo = "normes enfants [925,930,931], clinical frailty scale [969] , SEO 'reco hta', modale automesure, A LIRE: Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, ESC 2018 tableau 4+19 - src157"
 +++
 
 {{%article-summary%}}
 
-- Dépister l'hypertension artérielle dès 18 ans, au moins tous les 5 ans après 40 ans (1/3 des adultes atteints et 3/4 non contrôlés)
+- Dépister l'hypertension artérielle dès 3 ans, au moins tous les 5 ans après 40 ans (1/3 des adultes atteints et 3/4 non contrôlés)
 - Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet*)
 - Confirmer le diagnostic par mesures et automesures / MAPA répétées, conserver le grade et le stade d'hypertension au diagnostic
 - Recherche des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} ({{< scores/heartscore >}} en prévention primaire) (le LDL cible en découle)
 - Traitement selon le grade d'hypertension (voir *Définitions*) et mesures hygiéno-diététiques systématiques
-- Cibles tensionnelles selon le profil (120-129 / 70-79 mmHg avant 65 ans), appliquées telles quelles à l'automesure
+- Cibles tensionnelles selon le profil (120-129 / 70-79 mmHg avant 80 ans), appliquées telles quelles à l'automesure
 - Objectif d'un seul comprimé antihypertenseur combiné et informer sur les conséquences d'une HTA non traitée ([accidents cardiovasculaires](/tags/risque-cardiovasculaire/), démence)
 - Bithérapies antihypertensives de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
 - [Le carnet d'automesure tensionnelle 2021 (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
@@ -37,14 +37,15 @@ todo = "poussée HTA +++, SEO 'reco hta', modale automesure, A LIRE: Bernatos pl
 {{%collapse "Définitions" %}}
 
 Hypertension artérielle
-: Maladie chronique la plus fréquente définie une pression artérielle systolique (PAS) ≥ 140 mmHg et/ou diastolique ≥ 90 mmHg au cabinet (135/85 mmHg en automesure et 130/80 mmHg en MAPA, *ESC 2021*).
+: Maladie chronique la plus fréquente définie une pression artérielle systolique (PAS) ≥ **140 mmHg** et/ou diastolique ≥ **90 mmHg** au cabinet (135/85 mmHg en automesure et 130/80 mmHg en MAPA, *ESC 2021*) à partir de 16 ans. Avant 16 ans: pression artérielle ≥ 95e percentile.
+: Le seuil de traitement est 14/9 **de 18 à 79 ans** et de 160 mmHg après 80 ans mais un seuil plus bas est à considérer. Chez le **sujet fragile**, les seuils sont individualisés.
 : Premier facteur de morbi-mortalité modifiable dans le monde.  
 La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance cardiaque, coronaropathie, AVC, [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), dégradation cognitive et démence.
 : La réduction de la systolique de 10 mmHg (et de 5 mmHg pour la diastolique) réduit le risque d'évènement CV de 20%, la mortalité de 10-15%, le risque d'AVC de 35%, de SCA de 20%, d'insuffisance cardiaque de 40%. Le traitement allonge l'espérance de vie.
 : 1 patient sur 2 dépasse 140/90 mmHg. Principaux facteurs de non contrôle: défaut d'**observance** (à 6 mois: 2/3 - 1 an: 50%) et **inertie du médecin**.
 
 Hypertension artérielle résistante
-: Pressions mesurées au cabinet ≥ 140/90 mmHg et confirmées au domicile malgré un traitement optimal et bien suivi avec RHD et au moins 3 traitements à doses maximales tolérées (IEC/ARA2, TZD, ICa). Responsable de 10% des hypertensions.
+: Pressions mesurées au cabinet ≥ 140/90 mmHg et confirmées au domicile par MAPA (AMT à défaut) malgré un traitement optimal et bien suivi avec RHD et au moins 3 traitements à doses maximales tolérées (IEC/ARA2, TZD, ICa). Concerne 10% des hypertendus.
 : Risques de l'hypertension résistante: augmentation des complications hypertensives, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) et événements cardiovasculaires.
 
 ### Grades de l'hypertension artérielle
@@ -60,6 +61,7 @@ Hypertension artérielle résistante
 | Hypertension grade&nbsp;3 | ≥ 180             | et/ou | ≥ 110              | Traitement immédiat et cible atteinte sous 3 mois                             |
 | Hypertension systolique isolée | ≥ 140        | et    | < 90               | Traitement selon le grade de la PAS                                           |
 | Hypertension diastolique isolée | < 140       | et    | ≥ 90               | Traitement selon le grade de la PAD                                           |
+| Hypertension nocturne (MAPA) | ≥ 120          | et/ou | ≥ 70               | Suivi hypertensiologue                                                        |
 {{< /table >}}
 
 > **AMT =** automesure tensionnelle ; **HRCV/THRCV =** {{%modal-btn "modal-rcv"%}}haut/très haut risque CV{{%/modal-btn%}}.  
@@ -92,13 +94,16 @@ Au grade d'hypertension artérielle on ajoute la précision du stade d'hypertens
 ### Abréviations
 
 AMT
-: automesure tensionnelle ({{%lang%}}home BP monitoring HBPM{{%/lang%}})
+: automesure tensionnelle ({{%lang%}}home blood pressure monitoring - HBPM{{%/lang%}})
 
 ARA2
 : antagoniste des récepteurs de l'angiotensine 2
 
 CV
 : cardiovasculaire
+
+DASH
+: {{%lang%}}Dietary Approaches to Stopping Hypertension{{%/lang%}}
 
 ECG
 : électrocardiogramme
@@ -113,7 +118,7 @@ IEC
 : inhibiteur de l'enzyme de conversion de l'angiotensine
 
 MAPA
-: mesure ambulatoire de la pression artérielle ({{%lang%}}ambulatory BP monitoring ABPM{{%/lang%}})
+: mesure ambulatoire de la pression artérielle ({{%lang%}}ambulatory BP monitoring - ABPM{{%/lang%}})
 
 MCV
 : maladie cardiovasculaire
@@ -129,6 +134,9 @@ RHD
 
 SCA
 : syndrome coronarien aigu
+
+SRA
+: système rénine angiotensine
 
 TZD
 : diurétique thiazidique
@@ -166,7 +174,7 @@ Une mesure standardisée est nécessaire pour le contrôle des objectifs tension
   - Personne ne parle pendant et entre les mesures
   - Retrait de tous les vêtements de la zone de mesure
 - Technique validée
-  - **Tensiomètre électronique validé uniquement** (liste plus bas)
+  - **Tensiomètre électronique validé uniquement** (liste plus bas) ou manuel chez l'enfant
   - Brassard huméral validé et calibré régulièrement (annuel)
   - Bras nu posé sur le bureau
   - Le centre du brassard est posé en regard de l'artère brachiale et le milieu du brassard doit être au niveau du sternum médian
@@ -260,22 +268,23 @@ Une PAD 70-79 mmHg est la cible pour tout hypertendu. La pression cible doit êt
 {{< table title="Synthèse des cibles de pression artérielle selon le profil de l'adulte de plus de 18 ans. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
 | Population          | Objectif (mmHg) | Source     |
 |---------------------|----------------:|------------|
-| Cible minimale      | < 140/90        | ESC 2021   |
-| 18-69 ans           | 120-129/70-79   | ESC 2021   |
-| +70 ans             | 130-139/70-79   | ESC 2021   |
-| [AIT/AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) | idem générale | ESC 2021 |
+| Cible minimale      | < 140/80        | ESH 2023   |
+| 18-79 ans           | 120-129/70-79   | ESH 2023   |
+| +80 ans (min/max)   | < 150/80<br>130-139/70-79 | ESH 2023 |
+| Fragilité           | Individualisé   | ESH 2023   |
+| HTA résistante      | idem générale   | ESH 2023   |
+| [AIT/AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) | idem générale | ESH 2023 |
 | [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) | 120-140/90 | ESC 2017 LEAD |
-| [Coronaropathie]({{< relref "syndrome-coronarien-chronique.md" >}}) | idem générale | ESC 2021   |
-| [Diabète]({{< relref "diabete-type-2.md" >}}) | idem générale<br>< 130/80 | ESC 2021<br>ADA 2023 |
-| [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) | ≤ 130/80 | ESC 2020 AF |
-| [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | &lt; 140/90 (comorbidités) | ESC 2021 HF |
-| [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) | &lt; 120/90 | KDIGO 2021 |
-| Greffe rénale       | < 130/80        | KDIGO 2021 |
-| Grossesse           | < 140/90        | ESC 2018   |
+| [Coronaropathie]({{< relref "syndrome-coronarien-chronique.md" >}}) | idem générale | ESH 2023   |
+| [Diabète]({{< relref "diabete-type-2.md" >}}) | idem générale<br>< 130/80 | ESH 2023<br>ADA 2023 |
+| [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) | idem générale | ESH 2023 |
+| [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | idem générale | ESH 2023 |
+| [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) | < 130/80<br>< 120/90 | ESH 2023<br>KDIGO 2021 |
+| Greffe rénale       | < 130/80        | ESH 2023, KDIGO 2021 |
+| Grossesse           | < 140/90        | ESH 2023   |
 {{< /table >}}
 
-Abaisser encore la cible systolique si bien tolérée (*ESC 2021*).  
-Détail pour chaque pathologie sur la page du chapitre concerné.
+Abaisser encore la cible systolique si bien tolérée (*ESC 2021*). Détail pour chaque pathologie sur la page du chapitre concerné.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -302,13 +311,13 @@ Détail pour chaque pathologie sur la page du chapitre concerné.
 
 ### Signes d'hypertension artérielle secondaire
 
-Signes devant faire évoquer une hypertension secondaire et nécessitant une évaluation cardiologique:
+Signes devant faire évoquer une hypertension secondaire et nécessitant une évaluation par un hypertensiologue:
 
 - HTA grade 2-3 avant 40 ans
 - HTA d'apparition ou d'aggravation rapide
 - Antécédents d'infections urinaires récidivantes
 - Hypertension résistante
-- Hypertension sévère ou [maligne]({{< relref "hypertension-arterielle-maligne.md" >}})
+- Hypertension artérielle sévère ou [maligne]({{< relref "hypertension-arterielle-maligne.md" >}})
 - Multiples complications de l'hypertension
 - Apnées du sommeil ({{< modal-btn modal-saos >}}dépistage{{< /modal-btn >}})
 - Drogues, corticoïdes, sprays nasaux, automédication, contraception, chimiothérapie, yohimbine, réglisse
@@ -321,19 +330,24 @@ Signes devant faire évoquer une hypertension secondaire et nécessitant une év
 - Dysthyroïdie
 - Grossesse en cours ou contraception œstroprogestative (5% développent une HTA)
 
+Principales causes d'hypertension secondaire: **hyperaldostéronisme primaire** (ratio aldostérone/rénine plasmatiques), **néphropathie** et **sténose des artères rénales** (échodoppler).  
+Le syndrome de Cushing, phéochromocytome et la coarctation de l'aorte sont plus rares.
+
+Dans l'attente de la MAPA: observance, automesures avec appareil validé, revérifier des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}, mesures hygiéno-diététiques, bilan des complications, traitements à risque (AINS, spray nasal, toxiques, automédication).
+
 ### Examen clinique
 
-> << La mesure de la tension artérielle devrait faire partie de toute visite médicale, même chez les mineurs. >> (*ESH 2023*)
+> << La mesure de la tension artérielle devrait faire partie de toute visite médicale, même chez les mineurs. >> (*ESH 2023*), à partir de 3 ans (ou avant si cardiopathie, néphropathie, prématurité)
 {.alert .alert-info}
 
-- Poids, taille, IMC
-- Tour de taille
+- Poids, taille, IMC, tour de taille
 - Pression artérielle, fréquence cardiaque
 - Comparaison de la pression artérielle aux 2 bras
+- Recherche d'une hypotension orthostatique (systématique si +65 ans, diabète)
 - Auscultation cardiaque, palpation et auscultation des trajets artériels
 - Si possible: [mesure de l'IPS]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
 - Examen neurologique
-- +65 ans: dépistage cognitif: [MMSE (PDF)](http://www.sgca.fr/outils/mms.pdf) ou MoCA ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf))
+- +65 ans: dépistage cognitif par [MMSE (PDF)](http://www.sgca.fr/outils/mms.pdf) ou MoCA ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf))
 - Signes d'hypertension secondaire
   - Tâches café au lait
   - Contact lombaire
@@ -351,7 +365,7 @@ Bilan après 8 heures de jeûne:
 - Calcémie
 - Dépistage des complications
   - Ionogramme sanguin, créatinine, DFG {{< scores/ckd-epi >}}
-  - BU, albuminurie/créatininurie sur échantillon
+  - BU, ratio albuminurie/créatininurie sur échantillon
   - **ECG 12 dérivations**
 {{%/info%}}
 
@@ -371,20 +385,21 @@ Bilan après 8 heures de jeûne:
 {{% /collapse %}}
 {{%collapse "Mesures hygiéno-diétetiques" %}}
 
-- Restriction sodée < 5 g/j
+- Restriction sodée < 5 g/j (ou substituer par KCl)
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et réduction de la [consommation d'alcool]({{< relref "sevrage-alcool.md" >}})  
   < 2 verres/j/homme, < 1/j si femme.
-- {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Correction d'un surpoids et d'une obésité abdominale (102 cm homme, 88 cm femme)  
+- {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} ou DASH (proches)
+- Correction d'un surpoids et d'une [obésité]({{< relref "obesite-adulte.md" >}}) abdominale (102 cm homme, 88 cm femme)  
   Cible < 94 cm homme et 80 cm femme.
-- Activité physique quotidienne  
-  ≥ 30 minutes d'intensité modérée ≥ 5 j/7
+- Activité physique quotidienne
+  - Au moins 2h30 à 5h d'{{< modal-btn modal-met >}}intensité modérée{{< /modal-btn >}} hebdomadaire (ou la moitié d'intense)
+  - Renforcement musculaire 2-3/sem
 - {{%modal-btn "modal-rcv"%}}LDL cible selon le risque cardiovasculaire{{%/modal-btn%}}
 - Pas de bénéfice avec l'aspirine en prévention primaire
-- Associations de patients  
-  [Comité Français de Lutte Contre l'Hypertension Artérielle (CFLCHTA)](http://www.comitehta.org/), [Fédération Française de Cardiologie](https://fedecardio.org/).
+- Controle stress: méditation, yoga
+- Associations de patients: [Comité Français de Lutte Contre l'Hypertension Artérielle (CFLCHTA)](http://www.comitehta.org), [Fédération Française de Cardiologie](https://fedecardio.org)
 
-> *ESC 2021*
+> *ESH 2023* et *ESC 2021*
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hypertension artérielle" %}}
@@ -392,31 +407,35 @@ Bilan après 8 heures de jeûne:
 La prise en charge de l'hypertension est toujours associée aux mesures hygiéno-diétetiques et la surveillance de l'observance.
 
 - Privilégier d'emblée une bithérapie en essayant de conserver un seul comprimé
-- Aucune différence entre une prise le matin ou le soir (*étude TIME*)
+- Titration jusqu'à la dose maximale tolérée (diastolique minimale: 70 mmHg)
+- Aucune différence entre une prise le matin ou le soir (*étude TIME*) mais **observance meilleure le matin**
 - Pas d'arrêt du traitement sur le seul critère d'âge
-- Les bêtabloquants sont privilégiés en maladie cardiovasculaire (insuffisance cardiaque, [angor]({{< relref "syndrome-coronarien-chronique.md" >}}), infarctus, FA) ou grossesse
-- Suivi tous les 3-6 mois
+- Les bêtabloquants sont privilégiés en cas de maladie cardiovasculaire ([insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [angor]({{< relref "syndrome-coronarien-chronique.md" >}}), infarctus, [FA]({{< relref "fibrillation-atriale.md" >}})) ou grossesse  
+- Suivi 1-2/mois jusqu'à la cible (*ESH 2023*) puis contrôle à 3-6 mois la première année
+- Suivi au long cours: 1-2/an si équilibrée (*ESH 2023*)
+- Intérêt de l'éducation thérapeutique pour maximiser l'observance
+- Tant que PAS > 160/100 mmHg: pas de séjour en altitude > 2500m
 - Surveillance biologique (*ESH 2023* et *HAS 2016*)
   - Annuelle: ionogramme, créatininémie, DFG, albuminurie sur échantillon
   - Tous les 3 ans: glycémie à jeun, bilan lipidique, ECG (3-5 ans)
-- Réévaluation des complications au minimum tous les *2 ans*
+- Réévaluation des complications au **minimum tous les 2 ans**
 
-### Traitement de 1<sup>re</sup> intention
+### Traitement de première intention de l'hypertension artérielle non compliquée
 
-Prise en charge par bithérapie au choix parmi:
+Prise en charge de l'hypertension artérielle par bithérapie au choix parmi:
 
 <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + TZD</button>
 <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + ICa</button>
 <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + TZD</button>
 <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button>
 
-- Envisager une monothérapie chez le +80 ans, fragile ou avec HTA < 150 mmHg à faible RCV
+- Envisager une **monothérapie** si: +80 ans, sujet fragile, HTA < 150 mmHg à faible risque cardiovasculaire ou tension normale haute avec maladie cardiovasculaire
 - Chez le sujet noir: {{< modal-btn modal-tzd-ica >}}TZD + ICa{{< /modal-btn >}} aussi possible
-- Intérêt de l'éducation thérapeutique pour maximiser l'observance
-- Réévaluation sous 2 mois  
-  Intérêt de suivi mensuel les 6 premiers mois selon la HAS (*HAS 2016*).
+- L'ajout d'un IEC/ARA2 à l'anticalcique réduit la survenue d'œdèmes et au thiazidique réduit la survenue d'hypokaliémie
+- Pas d'arrêt brutal: BB, ICa, diurétique, antihypertenseur central
 
-{{%class%}}La baisse de pression artérielle intervient en 1-2 semaines après l'introduction du traitement, pouvant se prolonger jusqu'à 2 mois.{{%/class%}}
+La baisse de pression artérielle intervient en 1-2 semaines après l'introduction du traitement, pouvant se prolonger jusqu'à 2 mois.
+{.text-black-secondary}
 
 ### Traitement de niveau 2
 
@@ -426,7 +445,9 @@ Prise en charge par bithérapie au choix parmi:
 
 Hypertension résistante: avis spécialisé + RHD rappelées + ajout de [spironolactone](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63145849&typedoc=R) 25-50 mg/j (ou autre diurétique, alpha ou bêtabloquant).
 
-> Éliminer: défaut d'observance, effet blouse blanche, mesures de PA non standardisées, {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}, calcifications des artères brachiales, inertie du médecin, consommation de sel, HTA secondaire, [maladie rénale]({{< relref "insuffisance-renale-chronique.md" >}}).
+En cas d'hypertension artérielle résistant, éliminer:
+
+Défaut d'observance, effet blouse blanche, mesures de PA non standardisées, {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}, calcifications des artères brachiales, inertie du médecin, consommation de sel, HTA secondaire, [maladie rénale]({{< relref "insuffisance-renale-chronique.md" >}}).
 
 ### Améliorer l'observance
 
@@ -439,6 +460,7 @@ Hypertension résistante: avis spécialisé + RHD rappelées + ajout de [spirono
   - Réévaluer les freins à la prise du traitement
   - Collaborer avec infirmiers et pharmaciens
 - Côté patient
+  - Prise du traitement le matin
   - Automesure tensionnelle
   - ETP en groupe
   - Élaborer les stratégies de changement
@@ -455,12 +477,13 @@ Hypertension résistante: avis spécialisé + RHD rappelées + ajout de [spirono
 Particularités de l'hypertension artérielle pendant la grossesse:
 
 - Seuil diagnostique habituel  
-  PAS ≥ 140 mmHg et/ou PAD ≥ 90 mmHg avec brassard manuel.
+  PAS ≥ 140 mmHg et/ou PAD ≥ 90 mmHg avec brassard manuel ou appareil validé.
 - Classification différente
   - HTA modérée: 140-159/90-109 mmHg
-  - HTA sévère: ≥ 160/110 mmHg  
-  Urgence si ≥ 170/110 mmHg
+  - HTA sévère: ≥ 160/110 mmHg, nécessite une hopsitalisation en urgence
 - [Tensiomètres pour la grossesse](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=pregnancy)
+- Traiter si ≥ 140/90 mmHg
+- Tension cible < 140/90 mmHg
 - Définitions
   - HTA pré-existante: précède la grossesse ou apparaît avant 20 semaines de grossesse, persiste > 6 semaines post-partum ± protéinurie
   - HTA gestationnelle: apparaît après 20 semaines de grossesse et se résout généralement dans les 6 semaines post-partum
@@ -473,15 +496,7 @@ Particularités de l'hypertension artérielle pendant la grossesse:
   - Échodoppler des artères utérines (après 22 SA)
   - Recherche des signes de phéochromocytome
 
-### Traitement de l'hypertension pendant la grossesse
-
-Traiter d'une hypertension artérielle pendant la grossesse:
-
-- HTA gestationnelle (ou surajoutée) ou compliquée > 140/90 mmHg
-- Toutes les autres femmes avec HTA persistante ≥ 150/95 mmHg
-- Cible (mal connue) < 140/90 mmHg si traitement antihypertenseur
-
-Traitements de préférence: Methyldopa, labétalol, ICa.
+Traitements de préférence: Methyldopa, labétalol voire nifédipine LP.
 
 Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine
 {.alert .alert-warning}
@@ -498,6 +513,7 @@ Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/esh-2023 >}}
 - {{< references/ada-soc >}}
 - {{< references/esc-cvd >}}
 - [Stergiou GS et al. 2021 European Society of Hypertension practice guidelines for office and out-of-office blood pressure measurement. J Hypertens. 2021.](https://doi.org/10.1097/hjh.0000000000002843)
@@ -509,7 +525,6 @@ Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine
 
 ### Bibliographie en attente
 
-- [Mancia G et al. 2023 ESH Guidelines for the management of arterial hypertension The Task Force for the management of arterial hypertension of the European Society of Hypertension Endorsed by the European Renal Association (ERA) and the International Society of Hypertension (ISH). Journal of Hypertension. 2023.](https://journals.lww.com/jhypertension/Fulltext/9900/2023_ESH_Guidelines_for_the_management_of_arterial.271.aspx)
 - [Whealton S et al. Why Is Cuff Size So Important and Other Factors That Affect Accurate Blood Pressure Measurement. ACC. 2023.](https://www.acc.org/Latest-in-Cardiology/Articles/2023/06/05/19/18/Why-Is-Cuff-Size-So-Important-and-Other-Factors-That-Affect-Accurate-BP-Measurement?utm_medium=social&utm_source=twitter_post&utm_campaign=twitter_post)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Hypertension artérielle. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/nephrologie-chirurgie-urologique/hypertension-arterielle)
 - {{< references/college-endocrino >}}
@@ -554,5 +569,10 @@ Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine
 {{% modal title="Association TZD + ICa dans l'hypertension" id="modal-tzd-ica"%}}
 
 {{< traitements/hta-tzd-ica >}}
+
+{{% /modal %}}
+{{% modal title="Intensité d'activité physique et MET" id="modal-met"%}}
+
+{{< clinique/activite-physique-intensite >}}
 
 {{% /modal %}}

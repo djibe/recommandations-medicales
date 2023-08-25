@@ -8,7 +8,7 @@ synonyms = ["Insuffisance cardiaque à FEVG altérée", "insuffisance cardiaque 
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = "2021-06-03"
-lastmod = "2023-02-16"
+lastmod = "2023-08-25"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS"]
@@ -27,8 +27,8 @@ todo = "sel pour tous?, sup. Table 4 MRA+5Sacu+7Diur, depression Beck"
 - Évoquer systématiquement une insuffisance cardiaque en cas de fatigue, dyspnée, œdèmes des chevilles ou même des signes non spécifiques chez la personne âgée
 - Bilan initial devant une suspicion d'insuffisance cardiaque chronique: ECG, NT-proBNP avec biologie complète et consultation de cardiologie
 - Bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), anémie) d'une fatigue ou d'une dyspnée
-- Contrôle des facteurs de risque cardiovasculaire: HTA, tabac, dyslipidémie, obésité, diabète
-- Prise en charge: maximiser les posologies des traitements {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} voire valsartan/sacubitril (Entresto®), {{< modal-btn modal-bb >}}bêta-bloquant{{< /modal-btn >}} (maintenir FC ≥ 50/min), anti-aldostérone, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} (dapagliflozine ++), ferritine +100 ng/mL
+- Contrôle des facteurs de risque cardiovasculaire: hypertension artérielle, tabac, dyslipidémie, obésité, diabète
+- Prise en charge: maximiser les posologies des traitements {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} voire valsartan/sacubitril (Entresto®), {{< modal-btn modal-bb >}}bêta-bloquant{{< /modal-btn >}} (maintenir FC ≥ 50/min), anti-aldostérone, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} (dapagliflozine ++), ferritine > 100 ng/mL
 - Éducation thérapeutique pour la surveillance des poids et tension et l'adaptation des diurétiques
 
 {{%/article-summary%}}
@@ -277,8 +277,8 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
   - Éducation pour adaptation aux apports sodés
   - Augmenter dès **prise de 2 kg en 3 jours**
 - Hypertension artérielle
-  - Seuil diagnostique ≥ 140/90 mmHg (*ESC 2018*)
-  - Cible < 140/90 mmHg (cible mal connue, selon comorbidités, *ESC 2021*)
+  - Seuil diagnostique identique à l'[hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+  - Cible identique à la population: globalement 120-129 / 70-79 mmHg
   - Auto-surveillance 1-2/semaine
   - Escalade thérapeutique: ajouter amlodipine/félodipine si non contrôlée
 - LDL cible selon les {{< modal-btn modal-rcv >}}comorbidités cardiovasculaires{{< /modal-btn >}}
@@ -479,9 +479,9 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 
 ### Points essentiels de l'éducation thérapeutique pour l'insuffisance cardiaque
 
-- Définition et étiologie de l'IC  
+- Définition et étiologie de l'insuffisance cardiaque  
   Comprendre les causes de l'IC, les symptômes et l'évolution.
-- Symptômes et signes
+- Symptômes et signes d'alerte
   - Surveiller et reconnaître les signes et symptômes
   - Se peser chaque jour et reconnaître une prise de poids rapide (min 2-3/semaine)  
     {{%class%}}Pesée à jeun, après avoir uriné, sur la même balance, valeur notée.{{%/class%}}
@@ -551,12 +551,13 @@ réalistes
 
 {{< youtube id="60VQUo3xqAw" title="Insuffisance cardiaque, encore un effort! (Fréquence Médicale)" >}}
 
-- [Taylor C. et al. Natriuretic peptide testing and heart failure diagnosis in primary care: diagnostic accuracy study. British Journal of General Practice. 2023.](https://bjgp.org/content/73/726/e1)
+- {{< references/esh-2023 >}}
+- [Taylor C et al. Natriuretic peptide testing and heart failure diagnosis in primary care: diagnostic accuracy study. British Journal of General Practice. 2023.](https://bjgp.org/content/73/726/e1)
 - [HAS. JARDIANCE (empagliflozine) - Insuffisance cardiaque chronique symptomatique. 16/09/2022.](https://www.has-sante.fr/jcms/p_3352200/fr/jardiance-empagliflozine-insuffisance-cardiaque-chronique-symptomatique)
 - {{< references/esc-cvd >}}
 - [McDonagh T et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. 2021.](https://doi.org/10.1093/eurheartj/ehab368)
 - Prescrire Redaction. Insuffisances cardiaques médicamenteuses en bref, Patients insuffisants cardiaques chroniques. Janvier 2021.
-- [Fervers B. et al; Santé Publique France. Indications d'un programme d'activité physique, en complément au traitement médical. BEH. 2020.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical)
+- [Fervers B et al; Santé Publique France. Indications d'un programme d'activité physique, en complément au traitement médical. BEH. 2020.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical)
 - [Collège National des Enseignants de Cardiologie. Insuffisance cardiaque. Item 232 UE8. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch18_insuffisance_cardiaque.pdf)
 - [Agence de la Biomédecine. Organes - Greffe cardiaque. 29/09/2019.](https://rams.agence-biomedecine.fr/greffe-cardiaque-0)
 - [Santé Publique France. Insuffisance cardiaque. 17/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/insuffisance-cardiaque)
@@ -564,7 +565,7 @@ réalistes
 - [SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
 - [HAS. Insuffisance cardiaque systolique. ALD n°5. Actes et prestations - Affection de longue durée. Juillet 2015. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/liste_ald_insuf_card_systolique.pdf)
 - [HAS. Insuffisance cardiaque. Guide du parcours de soins. Juin 2014. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_ic_web.pdf)
-- [Lainscak M. et al. Self-care management of heart failure: practical recommendations from the Patient Care Committee of the Heart Failure Association of the European Society of Cardiology. European Journal of Heart Failure. 2014.](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)
+- [Lainscak M et al. Self-care management of heart failure: practical recommendations from the Patient Care Committee of the Heart Failure Association of the European Society of Cardiology. European Journal of Heart Failure. 2014.](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)
 
 ### Bibliographie en attente
 

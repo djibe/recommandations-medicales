@@ -6,10 +6,10 @@ synonyms = ["Hypolipémiants"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-17T13:36:17+01:00"
 publishdate = "2022-03-17"
-lastmod = "2023-04-21"
+lastmod = "2023-08-24"
 specialites = ["therapeutique"]
 annees = "2022"
-sources = ["USPTF", "ESC"]
+sources = ["USPTF", "ESC", "ESH"]
 tags = ["risque cardiovasculaire"]
 anglais = ["Statin"]
 sctid = "372912004"
@@ -35,6 +35,9 @@ imageSrc = "Illustration des statines par macrovector / Freepik"
 
 {{% /collapse %}}
 {{%collapse "Objectif de LDL" %}}
+
+> << Le traitement par statine est associé à une réduction des complications cardiovasculaires proportionnelle à la baisse du LDL-cholestérol >> (*ESH 2023*)
+{.alert .alert-info}
 
 La réduction du LDL cholestérol a les mêmes bénéfices cardiovasculaires chez les 2 sexes (*ESC 2021*).
 
@@ -135,6 +138,7 @@ Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**infarctus 
 
 *Autres bibliographies en regard de chaque élément présenté*
 
+- {{< references/esh-2023 >}}
 - {{< references/esc-cvd >}}
 - {{< references/esc-dyslipidaemias >}}
 - [Bouhairie VE, Goldberg AC. Familial hypercholesterolemia. Cardiol Clin. 2015.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4472364/)

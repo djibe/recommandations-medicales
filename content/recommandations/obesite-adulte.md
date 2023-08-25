@@ -187,16 +187,16 @@ TCA
 - Niveau d'activité physique et sédentarité: [score GPAQ](https://www.mangerbouger.fr/bouger-plus/test-de-niveau-d-activite-physique-et-de-sedentarite-des-adultes)
 - Contexte psychopathologique  
   Anxiété, dépression, image du corps, estime de soi, traumatismes/agressions, addictions.
-- Environnement social, familiale, professionnel, financier, rythmes décalés
+- Environnement social, familial, professionnel, financier, rythmes décalés
 - Retentissement sur la qualité de vie personnelle ou professionnelle
 - Comorbidités
-  - Quantité de sommeil et {{< modal-btn modal-saos >}}dépister des apnées du sommeil{{< /modal-btn >}} (SAHOS, systématique à partir de 35 d'IMC)
+  - Quantité de sommeil et {{< modal-btn modal-saos >}}dépister des apnées du sommeil{{< /modal-btn >}} ([SAHOS]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), systématique à partir de 35 d'IMC)
   - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
   - SOPK  
     Cycles irréguliers, hyperandrogénie ([hirsutisme]({{< relref "hirsutisme.md" >}}), alopécie, [acné]({{< relref "acne.md" >}})), acanthosis nigricans.
 - Évaluation de la motivation aux changements
 - Handicap et autonomie ([ADL](http://medicalcul.free.fr/adlkatz.html), IADL), [gonarthrose]({{< relref "gonarthrose.md" >}})
-- Qualité de vie (EuroQoL EQ-5D, SF-12)
+- Qualité de vie (EuroQoL-5D, SF-12)
 - Attentes et préférences, priorités, projets
 
 ### Examen clinique
@@ -364,9 +364,10 @@ La prise en charge de l'obésité associe:
   - Avis diététique, nutritionniste voire centre spécialisé de l'obésité (voir *Niveau adapté*)
   - Écoute des sensations alimentaires: faim, satiété
   - Composante émotionnelle: psychothérapie TCC, pleine conscience
-  - Régime méditerranéen
+  - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Conséquences
   - Estime de soi, confiance en soi, culpabilité, isolement, perte de motivation
+  - Hypertension artérielle: privilégier IEC/ARA2 et anticalciques avant les bêtabloquants et thiazidiques
 - Programmes d'**éducation thérapeutique** locaux
 - Troubles du comportement alimentaire: psychologue, psychiatre, diététicien
 - Handicap: ergothérapeute
@@ -454,5 +455,10 @@ Exemples de conseils alimentaires à proposer en situation d'obésité:
 {{% modal title="Intensité d'activité physique et MET" id="modal-met"%}}
 
 {{< clinique/activite-physique-intensite >}}
+
+{{% /modal %}}
+{{% modal title="Régime méditerranéen" id="modal-regime"%}}
+
+{{< traitements/regime-mediterraneen >}}
 
 {{% /modal %}}

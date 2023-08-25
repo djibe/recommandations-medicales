@@ -52,6 +52,10 @@ Chapitres dédiés:
 {{%/article-summary%}}
 {{%collapse "Désir de grossesse et bilan pré-conceptionnel" %}}
 
+### Désir de grossesse
+
+Prise de 0,4 à 0,8 mg/j d'acide folique (*USPTF*)
+
 [HAS. Projet de grossesse : informations, messages de prévention, examens à proposer. 2009. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-01/projet_de_grossesse_informations_messages_de_prevention_examens_a_proposer_-_fiche_de_synthese.pdf)
 
 {{% /collapse %}}
@@ -125,6 +129,8 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 
 {{% /collapse %}}
 {{%sources%}}
+
+- [US Preventive Services Task Force, Barry MJ et al. Folic Acid Supplementation to Prevent Neural Tube Defects: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2807739)
 
 ### Bibliographie en attente
 

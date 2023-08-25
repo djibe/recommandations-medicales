@@ -8,10 +8,10 @@ synonyms = ["Arythmie complète par fibrillation auriculaire (ACFA)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-05T17:43:41+02:00"
 publishdate = "2022-02-10"
-lastmod = "2022-11-28"
+lastmod = "2023-08-25"
 specialites = ["cardiologie"]
 annees = "2021"
-sources = ["ESC", "HAS"]
+sources = ["ESC", "ESH", "HAS"]
 tags = ["anticoagulant", "BPCO", "chute", "demence", "depistage", "dyspnee", "fatigue", "HTA", "SAS", "TSH"]
 anglais = ["Atrial fibrillation"]
 sctid = "49436004"
@@ -25,11 +25,11 @@ todo = "SEO 'recommandation fibrillation auriculaire', ESC 2020: chap 11.5 saign
 
 - FA mal tolérée = appel du {{< phone >}}15{{< /phone >}}
 - Dépister la fibrillation atriale (FA ou ACFA) si: +65 ans, diabète, hypertension artérielle
-- Le diagnostic de fibrillation est ECG. Survenue isolée ou sur cardiopathie ?
+- Le diagnostic de fibrillation est ECG. Survient-elle de façon isolée ou sur une cardiopathie ?
 - Réévaluer régulièrement les {{< modal-btn modal-chads >}}risques embolique avec le score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}hémorragique HAS-BLED{{< /modal-btn >}}, symptômes, facteurs favorisants
 - Selon le {{< modal-btn modal-chads >}}risque embolique{{< /modal-btn >}}: {{< modal-btn modal-aod >}}anticoagulant oral direct (AOD){{< /modal-btn >}} ou absence d'anticoagulant...
 - voire [antivitamine K (AVK)]({{< relref "avk.md" >}}) si valve mécanique ou sténose mitrale modérée à sévère
-- Prise en charge de la fibrillation: suivi cardiologique, {{< modal-btn modal-bradycardisant >}}ralentir la fréquence cardiaque < 110/min{{< /modal-btn >}}, Holter-ECG
+- Prise en charge de la fibrillation: suivi cardiologique, {{< modal-btn modal-bradycardisant >}}ralentir la fréquence cardiaque < 80 bpm{{< /modal-btn >}} au repos, Holter-ECG
 - Parfois anti-arythmiques pour prévenir la récidive. Contrôler leurs contre-indications
 
 {{%/article-summary%}}
@@ -67,6 +67,9 @@ AVK
 
 BB
 : bêtabloquant
+
+BPM
+: battements par minute
 
 EHRA
 : {{%lang%}}European Heart Rhythm Association{{%/lang%}}
@@ -173,7 +176,10 @@ Toute suspicion clinique de fibrillation atriale doit être confirmée au plus t
 
 - Fréquence cardiaque irrégulière  
   {{%class%}}Manuel (se 87-97%, spe 70-81%) ou tensiomètre électronique (se 93-100%, spe 86-92%, *Mairesse 2017*){{%/class%}}
-- Pression artérielle, fréquence respiratoire, poids, taille, IMC
+- Pression artérielle à au moins 3 reprises  
+  Un tensiomètre électronique validé peut être utilisé (*ESH 2023*).
+- Fréquence respiratoire
+- Poids, taille, IMC
 - Auscultation, pouls périphériques, œdèmes
 - Recherche d'infection aiguë, insuffisance cardiaque, OAP
 
@@ -251,21 +257,23 @@ Recommandations générales pour la prise en charge de la fibrillation atriale:
   Éviter endurance prolongée (marathon).
 - Anticoagulant ({{< modal-btn modal-chads >}}indication{{< /modal-btn >}}, {{< modal-btn modal-aod >}}molécules{{< /modal-btn >}})  
   Contre-indication aux antithrombotiques (aspirine, clopidogrel sauf coronaropathie) et AINS.
-- Contrôle de la fréquence: cible < 110/min par {{< modal-btn modal-bradycardisant >}}BB{{< /modal-btn >}}  
-  Voire < 80/min si symptomatique.
+- Contrôle de la fréquence cardiaque (*ESH 2023*)
+  - Cible < 110 bpm par {{< modal-btn modal-bradycardisant >}}BB{{< /modal-btn >}}
+  - Cible au repos < 80 bpm
 - La cardioversion n'est pas abordée: cardiologue uniquement
 - Hypertension artérielle
-  - Cible ≤ 130/80 mmHg
+  - Cible de la population générale (< 130/80): 120-129 / 70-79 mmHg
   - Préférer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, anti-aldostérone
 - Éducation thérapeutique du patient et son entourage (min /6 mois)
 - [ALD n°5]({{< relref "affection-longue-duree.md" >}})
 
 ### Anticoagulation
 
-Recommandation des {{< modal-btn modal-aod >}}**AOD** (anticoagulants oraux directs) en 1<sup>re</sup> intention (liste){{< /modal-btn >}} si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).  
-[AVK]({{< relref "avk.md" >}}) si valve mécanique ou sténose mitrale modérée à sévère.
+Recommandation des **AOD** (anticoagulants oraux directs) en 1<sup>re</sup> intention ({{< modal-btn modal-aod >}}liste{{< /modal-btn >}}) si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).
 
-Réévaluer fréquemment le risque de saignement avec {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}.
+Recours aux [AVK]({{< relref "avk.md" >}}) en cas de valve mécanique ou de sténose mitrale modérée à sévère.
+
+Réévaluer fréquemment le risque de saignement avec le {{< modal-btn modal-hasbled >}}score HAS-BLED{{< /modal-btn >}}.
 
 #### Contre-indications à l'anticoagulation
 
@@ -281,15 +289,13 @@ Adaptation à la fonction rénale selon {{< modal-btn modal-score-cockroft >}}Co
 
 #### Antivitamines K (AVK)
 
-Indications aux AVK: systématique si FA (quelque soit le type) avec valve mécanique ou sténose mitrale modérée à sévère.
+Indications aux AVK: systématique si FA (quelque soit le type) avec valve mécanique ou sténose mitrale modérée à sévère([voir le chapitre AVK]({{< relref "avk.md" >}})).
 
-[Voir le chapitre AVK]({{< relref "avk.md" >}})
+- INR cible selon la prothèse ou entre 2 et 3
+- AVK avec temps dans la cible ≥ 70%
+- Si temps dans la cible non atteint: AOD et observance ++ ou éducation et renforcement des INR
 
-INR cible selon la prothèse ou entre 2 et 3.
-AVK avec temps dans la cible ≥ 70%  
-Si temps dans la cible non atteint: AOD et observance ++ ou éducation et renforcement des INR.
-
-Aspirine 75-300 mg/j si refus d'anticoagulation, mais inefficace en prévention des AVC
+Aspirine 75-300 mg/j si refus d'anticoagulation, mais inefficace pour la prévention des AVC
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -297,12 +303,13 @@ Aspirine 75-300 mg/j si refus d'anticoagulation, mais inefficace en prévention 
 
 ### Contrôle du rythme cardiaque
 
-- Contrôle de la fréquence: cible < 110/min  
-  - < 80/min si symptômes persistants, réduction de la fonction VG ou resynchronisation
+- Contrôle de la fréquence cardiaque: cible < 110 bpm  
+  - Cible au repos < 80 bpm (*ESH 2023*)
   - Évaluation de la fréquence cardiaque par ECG 12D
   - Contrôle avec Holter-ECG
 - Molécules
-  - {{< modal-btn modal-bradycardisant >}}Bêtabloquants (BB) en 1<sup>re</sup> intention, inhibiteurs calciques non dihydropyridiniques (ICND), digoxine ou association{{< /modal-btn >}}. Ci-dessous: 1<sup>re</sup> ligne > 2<sup>e</sup> ligne.
+  - {{< modal-btn modal-bradycardisant >}}Bêtabloquants (BB) en 1<sup>re</sup> intention, inhibiteurs calciques non dihydropyridiniques (ICND, interactions AOD), digoxine ou association{{< /modal-btn >}}.  
+    Ci-dessous: 1<sup>re</sup> ligne > 2<sup>e</sup> ligne.
   - FEVG ≥ 40%: {{< modal-btn modal-bradycardisant >}}**BB** ou ICND{{< /modal-btn >}} > digoxine et/ou BB et/ou ICND
   - FEVG < 40%: {{< modal-btn modal-bradycardisant >}}BB{{< /modal-btn >}} > BB et/ou digoxine et/ou amiodarone
   - Asthme sévère (BB cardiosélectif mal toléré): {{< modal-btn modal-bradycardisant >}}ICND{{< /modal-btn >}} > ICND et/ou digoxine
@@ -336,8 +343,8 @@ ECG de contrôle de 1-2 semaines (1 mois pour l'amiodarone)
   Alcool, tabac, hypertension artérielle, apnées du sommeil, diabète, activité physique, surpoids.
 - Symptômes et {{< modal-btn modal-ehra >}}impact sur les activités{{< /modal-btn >}}  
   Type, durée quotidienne.
-- {{< modal-btn modal-chads >}}Réévaluation HA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}
-- FC < 110/min
+- {{< modal-btn modal-chads >}}Réévaluation CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}
+- FC au repos < 80 bpm
 - {{< modal-btn modal-observance >}}Observance{{< /modal-btn >}}
 - Complications: AVC/AIT, saignements
 - NFS, créatininémie, bilan hépatique (AOD)
@@ -379,6 +386,7 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 
 {{< youtube id="3HeRh1Q25kQ" title="Parcours de soin chez un patient avec Fibrillation Atriale (Fréquence Médicale)" >}}
 
+- {{< references/esh-2023 >}}
 - [US Preventive Services Task Force. Screening for Atrial Fibrillation: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2021.23732)
 - {{< references/esc-cvd >}}
 - [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. 2021.](https://doi.org/10.1093/eurheartj/ehaa612)

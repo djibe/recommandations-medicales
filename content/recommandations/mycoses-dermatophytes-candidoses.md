@@ -394,6 +394,8 @@ Les traitements recommandés ne sont pas disponibles en France (nystatine, acide
 
 Les infections par dermatophytes des poils atteignent le plus souvent les **hommes** au niveau de la **barbe** ou de la moustache (sycosis). Les autres poils d'autres localisations peuvent être atteints donnant des **folliculites douloureuses avec surinfections fréquentes**.
 
+Le traitement du sycosis mycotique est identique à celui des mycoses des plis.
+
 ### Onychomycoses ou mycoses des ongles (candidoses des ongles ou onyxis, mycose unguéale, dermatophytoses ou tinea unguium)
 
 > Seulement 18 à 50% des onychopathies sont mycosiques

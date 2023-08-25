@@ -8,10 +8,10 @@ synonyms = ["Accident ischémique transitoire (AIT)", "infarctus cérébral", "h
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-25T14:04:00+02:00"
 publishdate = "2021-01-25"
-lastmod = "2023-01-24"
+lastmod = "2023-8-25"
 specialites = ["neurologie"]
 annees = "2022"
-sources = ["ESO", "ESC", "HAS", "AHA"]
+sources = ["ESO", "ESH", "ESC", "HAS", "AHA"]
 tags = ["antiplaquettaire", "cephalees", "chute", "demence", "diabete", "HTA", "risque cardiovasculaire", "SAS", "vertige"]
 anglais = ["Cerebrovascular accident", "ischaemic stroke", "transient ischaemic attack (TIA)", "intracerebral hemorrhage (ICH)"]
 sctid = "230690007"
@@ -24,10 +24,10 @@ todo = "bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104"
 {{%article-summary%}}
 
 - Considérer tout déficit neurologique brutal, transitoire ou prolongé, comme une urgence absolue
-- Un accident vasculaire cérébral est une Urgence vitale: protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU (4h30 pour thrombolyser)
+- Un accident vasculaire cérébral est une urgence vitale: protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU (4h30 pour thrombolyser)
 - L'AVC est la première cause de mortalité de la femme et la 3<sup>e</sup> de l'homme
 - Un antécédent d'AIT ou d'AVC détermine un {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}
-- Prise en charge post-AVC: aspirine 75-150 mg/j si ischémique, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,7 g/L, si HTA: {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}, TZD
+- Prise en charge post-AVC: aspirine 75-150 mg/j si ischémique, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,7 g/L, si hypertension: {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}, thiazidique
 - Bilan spécialisé cardiologique et neurovasculaire
 - [Éducation de toute la population à reconnaître un AVC](https://solidarites-sante.gouv.fr/IMG/png/infographieavcsignes.png)
 
@@ -109,7 +109,7 @@ On compte également 30.000 accidents ischémiques transitoires chaque année.
 {{%collapse "Clinique" %}}
 
 {{%info%}}
-5 signes d'alerte de l'*American Stroke Association*:
+5 signes d'alerte de l'*American Stroke Association* (ASO):
 
 1. Déficit moteur (> 50%)  
   Faiblesse ou engourdissement soudain, uni ou bilatéral de la face, du bras ou de la jambe.
@@ -194,18 +194,17 @@ Liste des contre-indications à la thrombolyse par balancé bénéfice-risque d�
 {{% /collapse %}}
 {{%collapse "Traitement post AVC" %}}
 
-S'applique aussi après un AIT.
+La prise en charge est identique après un accident ischémique transitoire (AIT).
 
 - **Aspirine 75-150 mg/j** (*ESC 2021*)  
-  Seulement pour l'AIC non cardioembolique avec clopidogrel 75 mg/j si allergie (bithérapie les 90 premiers jours).
-- Hypertension artérielle (*ESO 2022*, *ESC 2021*)
+  Seulement pour l'AIC non cardioembolique. Clopidogrel 75 mg/j si allergie. Bithérapie les 90 premiers jours.
+- Hypertension artérielle (*ESH 2023*, *ESO 2022*, *ESC 2021*)
   - Seuil diagnostique ≥ 140/90 mmHg
-  - Cible générale de 120-130/70-79 mmHg (+ *AHA 2021* et *ESC 2018*)
-  - +70 ans: 130-139/70-79 mmHg
+  - Cible générale de 120-130 / 70-79 mmHg
+  - +80 ans: 130-139 / 70-79 mmHg
   - Cible non connue pour l'AVC hémorragique
   - Molécules: thiazidiques, {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}
-  - Hypertendu: réduire la consommation de sel de 2,5 g/j
-  - Automesure tensionnelle (*ESO 2022*)
+  - Automesure tensionnelle
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,7 g/L (*ESO 2022* et *ESC 2021*)
 - Mesures hygiéno-diététiques associées
   - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
@@ -353,6 +352,7 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/esh-2023 >}}
 - [Dawson J. et al. European Stroke Organisation (ESO) guideline on pharmacological interventions for long-term secondary prevention after ischaemic stroke or transient ischaemic attack. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/10.1177/23969873221100032)
 - [Rubiera M. et al. European Stroke Organisation (ESO) guideline on screening for subclinical atrial fibrillation after stroke or transient ischaemic attack of undetermined origin. Eur Stroke J. 2022.](https://journals.sagepub.com/doi/10.1177/23969873221099478)
 - [HAS. Rééducation à la phase chronique d'un AVC de l'adulte : Pertinence, indications et modalités. 02/06/2022.](https://www.has-sante.fr/jcms/p_3150692/fr/reeducation-a-la-phase-chronique-d-un-avc-de-l-adulte-pertinence-indications-et-modalites)
@@ -373,10 +373,10 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 
 ### Bibliographie en attente
 
-- [Kremer C. et al. European Stroke Organisation guidelines on stroke in women: Management of menopause, pregnancy and postpartum. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/full/10.1177/23969873221078696)
-- [Dziewas R. et al. European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/10.1177/23969873211039721)
-- [Quinn TJ. et al. European Stroke Organisation and European Academy of Neurology joint guidelines on post-stroke cognitive impairment. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/full/10.1177/23969873211042192)
-- [Holtkamp M. et al. European Stroke Organisation guidelines for the management of post-stroke seizures and epilepsy. European Stroke Journal. 2017.](https://journals.sagepub.com/doi/full/10.1177/2396987317705536)
+- [Kremer C et al. European Stroke Organisation guidelines on stroke in women: Management of menopause, pregnancy and postpartum. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/full/10.1177/23969873221078696)
+- [Dziewas R et al. European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/10.1177/23969873211039721)
+- [Quinn TJ et al. European Stroke Organisation and European Academy of Neurology joint guidelines on post-stroke cognitive impairment. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/full/10.1177/23969873211042192)
+- [Holtkamp M et al. European Stroke Organisation guidelines for the management of post-stroke seizures and epilepsy. European Stroke Journal. 2017.](https://journals.sagepub.com/doi/full/10.1177/2396987317705536)
 
 {{%/sources%}}
 {{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}

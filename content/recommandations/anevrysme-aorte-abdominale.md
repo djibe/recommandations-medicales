@@ -7,10 +7,10 @@ synonyms = ["Anévrysme aortique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-29T17:51:41+02:00"
 publishdate = "2020-07-29"
-lastmod = "2022-03-19"
+lastmod = "2023-08-25"
 specialites = ["cardiologie"]
 annees = "2017"
-sources = ["ESC", "HAS"]
+sources = ["ESC", "ESH", "HAS"]
 tags = ["depistage", "tabac"]
 anglais = ["Abdominal aortic aneurysm"]
 sctid = "233985008"
@@ -75,13 +75,14 @@ Imagerie complémentaire par angioscanner ou angio-IRM si images anormales.
 Prise en charge de l'anévrisme de l'aorte abdominale:
 
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) +++
-- [Correction d'une hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+- [Correction d'une hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})  
+  Cible générale 120-129 / 70-79 mmHg (*ESH 2023*).
 - Correction d'une hypercholestérolémie
 - Correction d'un surpoids ou obésité
 - Exercice physique régulier
 - Dépistage annuel ou contrôle d'un diabète
 - Surveillance spécialisée régulière par angiologue ou cardiologue
-- Avis de chirurgien vasculaire quand diamètre > 50 mm
+- Avis de chirurgien vasculaire quand **diamètre > 50 mm**
   - Le traitement est chirurgical (référence) ou endovasculaire
   - Indications opératoires basées sur: diamètre > 5 cm, croissance > 10 mm/an, AAA symptomatique
 
@@ -91,9 +92,10 @@ Le traitement des AAA < 50 mm n'a montré aucun bénéfice par rapport à l'abst
 {{%/collapse%}}
 {{%sources%}}
 
-- [Aboyans V. et al. 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS). European Heart Journal. 2018.](https://doi.org/10.1093/eurheartj/ehx095)
-- [Robert M. et al; Santé Publique France. Anévrismes de l'aorte abdominale et dissections aortiques : patients hospitalisés et mortalité, France, 2000-2013. Bulletin Epidémiologique Hebdomadaire. 2015.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/anevrisme-de-l-aorte-abdominale/documents/article/anevrismes-de-l-aorte-abdominale-et-dissections-aortiques-patients-hospitalises-et-mortalite-france-2000-2013)
-- [Erbel R. et al. 2014 ESC Guidelines on the diagnosis and treatment of aortic diseases: Document covering acute and chronic aortic diseases of the thoracic and abdominal aorta of the adult. European Heart Journal. 2014.](https://doi.org/10.1093/eurheartj/ehu281)
+- {{< references/esh-2023 >}}
+- [Aboyans V et al. 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS). European Heart Journal. 2018.](https://doi.org/10.1093/eurheartj/ehx095)
+- [Robert M et al. Anévrismes de l'aorte abdominale et dissections aortiques : patients hospitalisés et mortalité, France, 2000-2013. Bulletin Epidémiologique Hebdomadaire. 2015.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/anevrisme-de-l-aorte-abdominale/documents/article/anevrismes-de-l-aorte-abdominale-et-dissections-aortiques-patients-hospitalises-et-mortalite-france-2000-2013)
+- [Erbel R et al. 2014 ESC Guidelines on the diagnosis and treatment of aortic diseases: Document covering acute and chronic aortic diseases of the thoracic and abdominal aorta of the adult. European Heart Journal. 2014.](https://doi.org/10.1093/eurheartj/ehu281)
 - [HAS. Dépistage et prévention des anévrismes de l'aorte abdominale. Novembre 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2013-02/aaa_fiche_med_vfinale.pdf)
 
 ### Bibliographie en attente

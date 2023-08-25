@@ -8,10 +8,10 @@ synonyms = ["Coronaropathie", "post-infarctus", "angor", "angine de poitrine"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-28T16:29:03+02:00"
 publishdate = "2023-04-04"
-lastmod = "2023-04-06"
+lastmod = "2023-08-24"
 specialites = ["cardiologie"]
-annees = "2021"
-sources = ["HAS", "ESC"]
+annees = "2023"
+sources = ["ESH", "HAS", "ESC"]
 tags = ["antiplaquettaire", "douleur", "dyspnee", "epreuve effort", "fatigue", "risque cardiovasculaire", "SAS", "tabac"]
 anglais = ["Chronic coronary syndrome (CCS)", "chronic coronary insufficiency", "chronic myocardial ischemia", "coronary artery disease (CAD)"]
 sctid = "413844008"
@@ -25,7 +25,7 @@ todo = "flowchart, aigu possible en AccT, DAPT pour HAS-BLED"
 
 - L'angor détermine un {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé à très élevé{{< /modal-btn >}} (si sténose objectivée). Évoquer devant une douleur épigastrique, mandibulaire, entre les épaules, ou le bras/poignet/main
 - Bilan initial du syndrome coronarien chronique: biologie, ECG 12D, échocardiographie et avis cardiologique
-- Mesures hygiéno-diétetiques: arrêt tabac/alcool, PA < 130/80 mmHg, sel 5-6 g/j, activité physique adaptée (APA), surpoids
+- Mesures hygiéno-diétetiques: arrêt tabac et alcool, pression artérielle < 130/80 mmHg, sel 5-6 g/j, activité physique adaptée (APA), correction d'un surpoids
 - Prise en charge de la cardiopathie ischémique:
   - Réadaptation cardiaque
   - Si symptômes à l'effort: dérivés nitrés d'action rapide
@@ -217,10 +217,12 @@ Réévaluation du traitement à chaque consultation:
 - Statine systématique
   - {{< modal-btn modal-rcv >}}LDL < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (< **0,55** si stent, sténose à l'imagerie ou événement CV)
   - [Ézétimibe](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63964962&typedoc=R) ou [évolocumab SC](https://ec.europa.eu/health/documents/community-register/2023/20230130158320/anx_158320_fr.pdf) (Repatha®), [alirocumab SC](https://ec.europa.eu/health/documents/community-register/2022/20221216158063/anx_158063_fr.pdf) (Praluent®) si cible non atteinte
-- Si HTA: [pression artérielle cible < 130/80 mmHg]({{< relref "hypertension-arterielle.md" >}})
+- [Hypertension artérielle](({{< relref "hypertension-arterielle.md" >}})) (*ESH 2023*)
+  - Seuil d'initiation de 130/80 mmHg (dite normale haute)
+  - Cible de la population générale: 120-129 / 70-79 mmHg
 - Correction d'un surpoids et d'une obésité abdominale
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Limiter les apports en sel à 5-6 g/j
+- Limiter les apports en sel à 5 g/j
 - Activité physique adaptée (APA) régulière  
   - Programme d'APA; min 150 min/sem endurance, renforcement musculaire 2-3/sem avec 10-15 répétitions
   - Sédentarité < 7h/j, bouger 1 minute/h
@@ -305,31 +307,23 @@ Ensemble de connaissances à acquérir au cours des consultations d'éducation t
 - S'engager dans le sevrage avec l'accompagnement nécessaire
 
 > *HAS*
-> + FC cible 55-60/min, pas arrêt brutal des BB ou anti-angineux
+> + FC cible 55-60/min, pas d'arrêt brutal des BB ou anti-angineux
 
-Connaissance des indications :
+Connaissance des indications:
 
-de recours au cardiologue, au-delà de la confirmation diagnostique et du suivi régulier ; en
-particulier en cas de :
-• exacerbation d'un SCC,
-• douleurs récurrentes chez un angineux ancien,
-• effets indésirables médicamenteux,
-• fibrillation auriculaire nouvelle diagnostiquée,
-• échec d'une bithérapie anti-angineuse à dose maximale tolérée,
-• aggravation d'une dyspnée et angor,
-• syncope ou lipothymies ;
-‒
-de recours à la réadaptation cardiaque en ambulatoire ou non ;
-‒
-de recours à l'hospitalisation :
-• angor instable ou SCA,
-• besoin d'explorations invasives,
-• insuffisance cardiaque rapidement évolutive,
-• apparition d'un trouble du rythme mal toléré ou de mauvais pronostic ;
-‒
-d'un travail à plusieurs professionnels de proximité, en particulier chez le coronarien âgé ou en
-situation complexe, avec, si nécessaire, élaboration d'un plan personnalisé de coordination en
-santé
+- du recours au cardiologue (en sus du suivi régulier) si:
+  - exacerbation des symptômes angineux ou de la dyspnée
+  - effets indésirables médicamenteux
+  - fibrillation auriculaire nouvellement diagnostiquée
+  - échec d'une bithérapie anti-angineuse à dose maximale tolérée
+  - syncope ou lipothymies
+- du recours à la réadaptation cardiaque
+- du recours à l'hospitalisation
+  - angor instable ou SCA
+  - besoin d'explorations invasives
+  - insuffisance cardiaque rapidement évolutive
+  - apparition d'un trouble du rythme mal toléré ou de mauvais pronostic
+- Prise en charge pluridisciplinaire avec plan personnalisé de soins
 
 ### Savoir gérer une crise d'angor
 
@@ -351,6 +345,7 @@ Prise en charge pour l'auto-gestion de la douleur angineuse:
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/esh-2023 >}}
 - [HAS. Syndrome coronarien chronique Prescription d'activité physique. 2022.](https://www.has-sante.fr/jcms/c_2876862/fr/consultation-et-prescription-medicale-d-activite-physique-a-des-fins-de-sante#toc_1_2)
 - [HAS. Guide du parcours de soins - Syndrome coronarien chronique. 2021.](https://www.has-sante.fr/jcms/p_3279083/fr/guide-du-parcours-de-soins-syndrome-coronarien-chronique)
 - {{< references/esc-cvd >}}

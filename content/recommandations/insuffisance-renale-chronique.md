@@ -8,10 +8,10 @@ synonyms = ["et maladie rénale chronique (MRC)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2023-02-17"
+lastmod = "2023-08-25"
 specialites = ["nephrologie"]
 annees = "2021"
-sources = ["HAS", "KDIGO", "ADA", "ESC"]
+sources = ["HAS", "ESH", "KDIGO", "ADA", "ESC"]
 tags = ["depistage", "diabete", "dyspnee", "fatigue", "ferritine", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "vaccin", "vitamine d"]
 anglais = ["Chronic kidney disease (CKD)", "chronic renal insufficiency"]
 sctid = "709044004"
@@ -210,7 +210,7 @@ Le terme de *microalbuminurie* n'est plus utilisé
 Recherche de signes étiologiques et du retentissement de la maladie rénale:
 
 - Poids, taille, IMC, tour de taille
-- Pression artérielle standardisée ± automesure tensionnelle
+- Pression artérielle standardisée ± automesure tensionnelle (MAPA si greffe rénale)
 - Auscultation cardiaque, souffle carotidien/rénal, pouls périphériques
 - Œdèmes, hydratation, reins palpables, signes de maladie de système
 - Urologiques  
@@ -284,11 +284,13 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
   - Activité physique d'intensité modérée ≥ 150 min/semaine
   - {{< modal-btn modal-sel >}}Régime désodé < 5-6 g/j{{< /modal-btn >}} et hydrique 1,5 L/j (ni restreint ni forcé)
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
-- Contrôle tensionnel
-  - Traitement si PA n'est pas dans la cible (*KDIGO 2021*)  
-  - Pression artérielle cible < 120/90 mmHg (*KDIGO 2021*), {{%class%}}< 150-160 si ≥ 80 ans (*HAS 2021*){{%/class%}}  
-    ou greffe < 130/80 mmHg (*KDIGO 2021*)
-  - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} ou {{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale
+- Hypertension artérielle
+  - Traitement si la PA n'est pas dans la cible (*KDIGO 2021*) ou ≥ 140/90 (*ESH 2023*)
+  - Pression artérielle cible < 130/80 mmHg (*ESH 2023*) ou 120/90 mmHg (*KDIGO 2021*), {{%class%}}< 150-160 si +80 ans (*HAS 2021*){{%/class%}}
+  - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} ou {{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale avec anticalcique ou thiazidique (de l'anse à partir de 30 mL/min)
+  - Puis bêtabloquant ou alpha1-bloquant si nécessaire
+  - Si greffe rénale: MAPA, cible < 130/80 mmHg (*ESH 2023* et *KDIGO 2021*)  
+   par anticalcique dihydropyridine ou thiazidique.
   - Automesure tensionnelle
 - {{< modal-btn modal-statine-intensite >}}Statine de moyenne intensité{{< /modal-btn >}}
   - {{< modal-btn modal-rcv >}}RCV très élevé{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction +50%  
@@ -296,7 +298,7 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
   - {{< modal-btn modal-rcv >}}RCV élevé{{< /modal-btn >}}: LDL cible < 0,7 g/L et réduction +50%  
     Toutes les autres atteintes rénales.
 - **Albuminurie cible** < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}  
-  Envisager la {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}} (*ESC 2021*)
+  Envisager la {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}} (*ESC 2021*). Pour tous si DFG > 20 selon *ESH 2023*.
 - Protéines < 1 g/kg/j
   - DFGe < 60: 0,6-0,8 g/kg/j
   - Sauf chez la personne âgée
@@ -306,11 +308,11 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
   - Covid-19
   - Sérologie [hépatite B]({{< relref "hepatite-b.md" >}}) ± vacciner  
   {{%class%}}Cible anti-HBs +10 UI/L.{{%/class%}}
-- Ferritinémie cible +100 ng/mL
+- Ferritinémie cible > 100 ng/mL
 - DFGe < 45
   - Suivi par néphrologue impératif
   - Protection du *capital veineux*
-  - [Vitamine D cible]({{< relref "vitamine-d.md" >}}) +75 nmol/L (*Souberbielle 2019*)
+  - [Vitamine D cible]({{< relref "vitamine-d.md" >}}) > 75 nmol/L (*Souberbielle 2019*)
 - Bicarbonates < 22 mmol/L: supplémentation
 - Maladie professionnelle et prévention si expositions
 - Associations de patients  
@@ -449,9 +451,9 @@ Mesures précédentes avec les particularités suivantes (*ADA 2023* et *KDIGO 2
 Protection du capital veineux quand DFGe < 45 mL/min (pas de prélèvement des avant-bras)
 {.alert .alert-warning}
 
-#### Symptômes
+#### Symptômes rénaux
 
-Connaître les signes et symptômes de la MRC et savoir qui prévenir.
+Connaître les signes et symptômes de la maladie rénale chronique et savoir qui prévenir.
 
 {{%/collapse%}}
 {{%collapse "Conduite à tenir pour le dépistage de la maladie rénale chronique" "show" %}}
@@ -475,6 +477,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%sources%}}
 
+- {{< references/esh-2023 >}}
 - {{< references/ada-soc >}}
 - [Kidney Disease: Improving Global Outcomes (KDIGO) Diabetes Work Group. KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int. 2022.](https://kdigo.org/guidelines/diabetes-ckd/)
 - {{< references/esc-cvd >}}

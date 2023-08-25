@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2023-04-11"
+lastmod = "2023-08-25"
 specialites = ["endocrinologie"]
 annees = "2023"
-sources = ["ADA", "SFD", "EASD", "ESC", "KDIGO", "HAS"]
+sources = ["ADA", "ESH", "SFD", "EASD", "ESC", "KDIGO", "HAS"]
 tags = ["B12", "diabete", "epreuve effort", "HTA", "insuline", "retinopathie", "nephropathie",  "risque cardiovasculaire", "neuropathie", "obesite", "SAS", "vaccin"]
 anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
@@ -101,15 +101,14 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (passif et électronique également) et alcool à moindre risque
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
-  - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans, {{%class%}}*ESC 2018*{{%/class%}} et 130/80 selon *ADA 2023*)
-  - Cible 120-130/70-79 mmHg {{%class%}}(*ESC 2019 diabetes*){{%/class%}}
-  - +65 ans: 130-139/70-79 mmHg {{%class%}}(*ESC 2019 diabetes*){{%/class%}}
+  - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans, {{%class%}}*ESH 2023*{{%/class%}} et 130/80 selon *ADA 2023*)
+  - Cible générale: 120-129 / 70-79 mmHg (*ESH 2023*)
   - Bithérapie d'emblée {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}  
   {{%class%}}Considérer si albuminurie sans hypertension.{{%/class%}}
 - LDL cible {{%class%}}(*ESC 2019*){{%/class%}}  
   - {{< modal-btn modal-statine-intensite >}}< 0,7 g/L{{< /modal-btn >}}
   - {{< modal-btn modal-statine-intensite >}}< 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-rcv-diabete >}}maladie cardiovasculaire, > 20 ans d'évolution ou ≥ 3 autres FRCV{{< /modal-btn >}}
-- Activité physique  
+- Activité physique
   - {{%class "text-black-secondary" %}}**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense). Renforcement musculaire 3 j/sem. Commencer par 1000 pas supplémentaires/j ou autre objectif *SMART*.{{%/class%}}
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette 3 j/sem
   - Bouger toutes les 30 minutes
@@ -121,7 +120,8 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 - Dépister des {{< modal-btn modal-saos-diabete >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) {{%class%}}(50%){{%/class%}}
 - Dépistage des [cancers](/tags/cancer/) recommandés
 - Soutien psychologique
-- ALD 8 et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
+- [Programme d'accueil de la FFD](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kitb)
+- [ALD n°8]({{< relref "affection-longue-duree.md" >}}) et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
 
 > Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*)
 {.alert .alert-info}
@@ -377,6 +377,7 @@ Le bilan n'a pas besoin d'être réalisé à jeun.
 
 {{< card-link-external title="Ameli Data Pathologies. Dépenses des soins liés au diabète" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Diab%C3%A8te">}}
 
+- {{< references/esh-2023 >}}
 - {{< references/ada-soc >}}
 - [US Preventive Services Task Force. Screening for Prediabetes and Type 2 Diabetes in Children and Adolescents: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2022.14543)
 - [HAS. La chirurgie métabolique en dernier recours en cas de diabète de type 2 couplé à une obésité modérée. Communiqué de presse. 12/10/2022.](https://www.has-sante.fr/jcms/p_3376491/fr/la-chirurgie-metabolique-en-dernier-recours-en-cas-de-diabete-de-type-2-couple-a-une-obesite-moderee)

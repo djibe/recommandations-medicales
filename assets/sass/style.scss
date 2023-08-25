@@ -498,7 +498,7 @@ article {
 .home-icon {
   padding: 1rem;
   color: var(--primary);
-  background-color: rgba(var(--bg-rgb), 0.1);
+  background-color: var(--bg-hex);
   background-blend-mode: multiple;
   border-radius: 1rem;
   mix-blend-mode: darken;

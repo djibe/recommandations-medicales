@@ -3,12 +3,12 @@ title = "Maladies à déclaration obligatoire en 2023"
 prefix = "les "
 titleSeo = "Maladies déclaration obligatoire"
 noindex = true
-description = "Liste des 37 maladies à déclaration obligatoire selon l'article D3113-6 du Code de la Santé publique: Hépatite A ou hépatite B symptomatique, VIH ..."
+description = "Liste des 38 maladies à déclaration obligatoire selon l'article D3113-6 du Code de la Santé publique: Hépatite A ou hépatite B symptomatique, VIH ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-27T17:24:00+02:00"
 publishdate = "2021-03-27"
-lastmod = "2023-07-03"
+lastmod = "2023-08-25"
 specialites = ["certificats"]
 annees = "2023"
 sources = ["SPF"]
@@ -20,7 +20,7 @@ image = true
 imageSrc = "Illustration des Maladies à déclaration obligatoire par rawpixel.com / Freepik"
 +++
 
-36 maladies sont à déclaration obligatoire (MDO) en 2023, dont 2 non infectieuses (mésothéliomes et saturnisme chez les enfants mineurs). Cette liste est définie par l'[article D3113-6](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190444/) du Code de la Santé publique.
+37 maladies sont à déclaration obligatoire (MDO) en 2023, dont 2 non infectieuses (mésothéliomes et saturnisme chez les enfants mineurs). Cette liste est définie par l'[article D3113-6](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190444/) du Code de la Santé publique.
 
 ## Liste des maladies à déclaration obligatoire
 
@@ -43,6 +43,7 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme:
 - [Infection aiguë symptomatique par le virus de l'hépatite B]({{< relref "hepatite-b.md" >}})
 - [Infection VIH]({{< relref "vih-sida.md" >}})
 - Légionellose
+- Leptospirose
 - Listériose
 - Mésothéliome
 - Orthopoxvirose, dont la variole ou [Monkeypox (variole du singe)]({{< relref "monkeypox.md" >}})
@@ -63,7 +64,7 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme:
 - West Nile virus
 - Zika
 
-> [Santé Publique France. Liste des maladies à déclaration obligatoire](https://www.santepubliquefrance.fr/maladies-a-declaration-obligatoire/liste-des-maladies-a-declaration-obligatoire) et [Arrêté du 30 juin 2023 relatif à la notification obligatoire des cas de Covid-19](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047773301)
+> [Santé Publique France. Liste des maladies à déclaration obligatoire](https://www.santepubliquefrance.fr/maladies-a-declaration-obligatoire/liste-des-maladies-a-declaration-obligatoire), [Arrêté du 30 juin 2023 relatif à la notification obligatoire des cas de Covid-19](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047773301) et [Arrêté du 17 août 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047989363)
 
 ## Déclarer une maladie à déclaration obligatoire
 

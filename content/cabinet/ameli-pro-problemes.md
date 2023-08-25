@@ -6,7 +6,7 @@ description = "Outils pour identifier et résoudre les problèmes de connexion a
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-11T13:08:00+02:00"
 publishdate = "2023-04-11"
-lastmod = "2023-04-14"
+lastmod = "2023-08-24"
 annees = "2023"
 sources = []
 tags = []
@@ -26,7 +26,7 @@ Ameli Pro et tous les services en ligne proposant une connexion avec la carte CP
 - Des lecteurs de carte à puces ou un lecteur Sesam-vitale
 - Les services de carte à puce activés sous Windows ou MacOS  
   Sous Windows: taper `services.msc` dans le menu démarrer, vérifier que le service "Carte à puce" a bien pour "Type de démarrage": `Automatique`
-- Installer ATSAM 4.63.00 ([Windows](https://www.diabeclic.com/daemonite/atsam-4.63.00.exe) ou [Mac](https://www.diabeclic.com/daemonite/atsam-4.63.00.dmg))
+- Installer ATSAM 4.64.01 ([Windows](https://www.diabeclic.com/daemonite/atsam-4.64.01.exe) ou [Mac](https://www.diabeclic.com/daemonite/atsam-4.64.01.dmg))
 - Pour lire la carte vitale depuis le navigateur internet, l'extension officielle "Lecture Carte Vitale" est nécessaire ([navigateur Chrome/Edge](https://chrome.google.com/webstore/detail/lecture-carte-vitale/kpjpglcbcgnblkigbedgaoegjbifejka?hl=fr) ou [Firefox](https://addons.mozilla.org/fr/firefox/addon/lecture-carte-vitale/))
 
 ### ATSAM
@@ -42,7 +42,7 @@ Les fichiers mentionnés peuvent également être téléchargés depuis [la page
 
 Pour éviter ces conflits de navigateur internet, l'Assurance Maladie propose **AmeliPro Connect**, un navigateur internet indépendant pour la connexion à ses services du portail Ameli Pro.
 
-Il est installé avec le paquet ATSAM (voir *Les logiciels et certificats à installer*).
+Il est installé avec le paquet *ATSAM* (voir *Les logiciels et certificats à installer*).
 
 ## Diagnostiquer son ordinateur
 

@@ -163,8 +163,7 @@ Le discours doit être individualisé et adapté aux comorbidités.
 - Ciclosporine, tacrolimus
 - Pyrazinamide, éthambutol
 
-Remplacer si possible par hypouricémiants:  
-Losartan, fénofibrate, atorvastatine, amlodipine.
+Remplacer si possible par **hypouricémiants**: losartan, amlodipine, fénofibrate, atorvastatine.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la crise de goutte" %}}
@@ -423,6 +422,7 @@ Intérêt de colchicine prophylactique.
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/esh-2023 >}}
 - Prescrire Rédaction. Crise de goutte. Premiers choix Prescrire. Mars 2021.
 - [Latourte A. et al. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.008)
 - [Pascart T. et al. Recommandations de la Société française de rhumatologie pour la prise en charge de la goutte : le traitement hypo-uricémiant. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.009)

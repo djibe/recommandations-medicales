@@ -175,6 +175,7 @@ Mesures générales de prise en charge de la polyarthrite:
 - Correction des facteurs de risque cardiovasculaire
   - Risque cardiovasculaire: {{< scores/heartscore >}}  
     Multiplier le risque par 1,5 (*ESC 2021*).
+  - Hypertension artérielle: privilégier IEC/ARA2 ou anticalcique
   - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
   - Activité physique régulière
   - Correction d'un surpoids
@@ -327,6 +328,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+- {{< references/esh-2023 >}}
 - [Smolen JS et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. Annals of the Rheumatic Diseases. 2022.](https://ard.bmj.com/content/early/2022/11/10/ard-2022-223356)
 - [Daien C, Czernichow S, Letarouilly JG et al. Recommandations de la Société française de rhumatologie sur l'alimentation des patients ayant un rhumatisme inflammatoire chronique. Revue du Rhumatisme. 2021.](https://www.sciencedirect.com/science/article/pii/S1169833021009108)
 - {{< references/esc-cvd >}}
