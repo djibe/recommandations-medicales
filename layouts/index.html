@@ -47,12 +47,10 @@
               <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "2 Jan" }}</time>
             </p>
           </div>
-          {{- if ( gt ( len .Params.tags ) 0 ) }}
           <div class="card-actions">
-            <a class="chip chip-outline chip-action chip-xs text-primary" href="/annees/{{ . }}/" rel="tag">{{ .Params.Annees }}</a>
-            {{ partial "widgets/tags-outline-render.html" . }}
+            {{- with .Params.Annees }}<a class="chip chip-outline chip-action chip-xs text-primary" href="/annees/{{ . }}/" rel="tag">{{ . }}</a>{{ end -}}
+            {{- if ( gt ( len .Params.tags ) 0 ) }}{{ partial "widgets/tags-outline-render.html" . }}{{ end -}}
           </div>
-          {{ end -}}
         </div>
       {{ end }}
       </div>
