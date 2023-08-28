@@ -252,8 +252,8 @@ Indications au **remboursement** l'ostéodensitométrie au cours de la ménopaus
 ### Examens à réaliser pour des bouffées vasomotrices atypiques
 
 - NFS, VS, CRP
-- Électrophorèse des protéines sériques
-- TSH, thyrocalcitonine
+- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
+- [TSH](/tags/tsh/), thyrocalcitonine
 - PTH, calcémie, albuminémie
 - Métanéphrines libres plasmatiques
 - Glycémie et insulinémie à jeun et post-prandiale

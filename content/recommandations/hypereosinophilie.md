@@ -180,7 +180,9 @@ Avis spécialisé (hématologue, interniste) en cas d'hyperéosinophilie persist
 - TP, TCA
 - CPK
 - LDH (*PNDS*)
-- Hyperéosinophilie (HE) persistante: tryptase, vitamine B12, électrophorèse des protéines sériques (*PNDS*)
+- Hyperéosinophilie (HE) persistante (*PNDS*)
+  - Tryptase, vitamine B12
+  - [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
 - Sérologie VIH
 - Sérologie toxocarose et distomatose
 - Examen parasitologique des selles 3 jours de suite

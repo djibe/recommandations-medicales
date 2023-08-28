@@ -170,7 +170,7 @@ Examens recommandés pour la prise en charge d'une anémie (réaliser dans l'ord
 - BU, ECBU
 - Recherche de [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) (à tout âge, 3-5%)  
   IgA totales + IgA anti-transglutaminase
-- Électrophorèse de l'hémoglobine  
+- **Électrophorèse de l'hémoglobine**  
   Indication: ferritinémie normale chez sujet originaire d'Asie-Afrique-Méditerranée, avant bilan endoscopique.
 - Femme  
   Examen gynécologique.

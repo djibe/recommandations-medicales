@@ -70,7 +70,7 @@ La leucémie lymphoïde chronique (LLC) est le plus souvent découverte fortuite
 
 En cas de diagnostic de LLC confirmé, le bilan doit être complété:
 
-- Électrophorèse des protéines sériques: hypogammaglobulinémie
+- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}}) (hypogammaglobulinémie)
 - Test de Coombs direct
 - Haptoglobine
 - Bilirubine libre

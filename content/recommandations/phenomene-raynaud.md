@@ -2,7 +2,7 @@
 title = "Phénomène de Raynaud ou syndrome de Raynaud"
 prefix = "le "
 titleSeo = "Syndrome de Raynaud"
-description = "Recommandations pour le traitement et la prise en charge du syndrome de Raynaud. Examen clinique et bilan étiologique systématique électrophorèse des protéines"
+description = "Recommandations pour le traitement et la prise en charge du syndrome de Raynaud. Examen clinique et bilan systématique: capillaroscopie, anticorps ADN natifs"
 synonyms = ["Maladie de Raynaud"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-04T10:57:00+02:00

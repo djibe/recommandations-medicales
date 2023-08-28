@@ -115,7 +115,7 @@ Signes et symptômes de ménopause précoce à rechercher:
 - Antécédents  
   - Étiologie: Oncologiques, chirurgicaux (pelviens)
   - Auto-immuns  
-  Dysthyroïdie, [diabète]({{< relref "diabete-type-1.md" >}}), insuffisance surrénale, vitiligo, lupus, [polyarthrite]({{< relref "polyarthrite-rhumatoide.md" >}}), [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), myasthénie, Sjögren, PEA1 (candidose buccale, unguéale et génitale, insuffisance surrénale et hypoparathyroïdie), PEA2 (insuffisance surrénale, dysthyroïdie, diabète type 1).
+  Dysthyroïdie, [diabète]({{< relref "diabete-type-1.md" >}}), insuffisance surrénale, vitiligo, lupus, [polyarthrite]({{< relref "polyarthrite-rhumatoide.md" >}}), [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), myasthénie, Sjögren, PEA1 ([candidose buccale, unguéale et génitale]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), insuffisance surrénale et hypoparathyroïdie), PEA2 (insuffisance surrénale, dysthyroïdie, diabète type 1).
   - Cardiovasculaires, fracturaires
 - Antécédents familiaux d'insuffisance ovarienne prématurée
 - Aménorrhée primaire ou secondaire ≥ 4 mois (absence de règles)

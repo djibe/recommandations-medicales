@@ -49,6 +49,7 @@
           </div>
           {{- if ( gt ( len .Params.tags ) 0 ) }}
           <div class="card-actions">
+            <a class="chip chip-outline chip-action chip-xs text-primary" href="/annees/{{ . }}/" rel="tag">{{ .Params.Annees }}</a>
             {{ partial "widgets/tags-outline-render.html" . }}
           </div>
           {{ end -}}

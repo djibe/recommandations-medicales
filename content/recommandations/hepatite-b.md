@@ -269,10 +269,10 @@ Adresser au spécialiste avec le bilan initial de l'hépatite B
   Seuils ALAT (UI/L) de l'*AASLD*: H 35 | F 25. ALAT > 2N est une indication à traiter.
 - Créatininémie, albuminémie
 - Ferritinémie
-- Électrophorèse des protéines (?)
+- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}}) (TODO: vérifier)
 - Alpha-fœtoprotéine  
   Une alphafoetoprotéine > 20 mg/L est un marqueur de haut risque de carcinome hépatocellulaire.
-- TSH
+- [TSH](/tags/tsh/)
 - Anticorps anti-TPO, anti-nucléaires, anti-muscle lisse, anti-LKM1
 - Glycémie à jeun
 - Bilan lipidique

@@ -178,7 +178,7 @@ Aux jambes, différencier de paresthésies ou impatiences (évocatrices de [jamb
 - Créatininémie
 - TSH
 - [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
-- Sérologies VIH, VHB, VHC
+- Sérologies [VIH]({{< relref "vih-sida.md" >}}), [VHB]({{< relref "hepatite-b.md" >}}), [VHC]({{< relref "hepatite-c.md" >}})
 - Radiographie thoracique
 - Sujet âgé: biopsie cutanée
 {{%/info%}}
@@ -188,9 +188,9 @@ Aux jambes, différencier de paresthésies ou impatiences (évocatrices de [jamb
 Voire échographie abdominale.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du prurit" %}}
 
-### Traitement symptomatique
+### Traitement symptomatique d'un prurit
 
 Prise en charge symptomatique d'un prurit:
 

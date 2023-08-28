@@ -57,7 +57,7 @@ Situations et facteurs de risque de dénutrition:
 - Toxicomanie
 - Démence et maladie neuropsychiatrique  
   Anorexie mentale, Alzheimer, [Parkinson]({{< relref "maladie-parkinson.md" >}}).
-- Troubles de déglutition et bucco-dentaires (dont candidose)
+- Troubles de déglutition et bucco-dentaires (dont [candidose]({{< relref "mycoses-dermatophytes-candidoses.md" >}}))
 - Précarité
 - Régime restrictif
 
@@ -262,7 +262,7 @@ Les mesures anthropométriques nécessitent un équipement dédié.
 
 ### Examens biologiques
 
-- NFS (lymphopénie), CRP (syndrome inflammatoire)
+- NFS ([lymphopénie]({{< relref "lymphopenie.md" >}})), CRP (syndrome inflammatoire)
 - Bandelette urinaire
 - Créatininurie des 24 heures  
   Reflet de la masse musculaire. 1 g/24h = 17-20 kg de masse musculaire

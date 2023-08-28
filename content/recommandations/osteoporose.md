@@ -165,7 +165,7 @@ Examens pour éliminer une ostéoporose secondaire.
 - Vitamine D
 - Calcémie corrigée, phosphatémie (*COFER*)
 - Ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
-- Électrophorèse des protéines sériques
+- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
   - Indications: fracture vertébrale suspecte, fracture pathologique, géodes
   - Systématique selon le COFER pour éliminer un myélome déminéralisant
 - Âge jeune: sérologie cœliaque (*ESsCD 2019*)

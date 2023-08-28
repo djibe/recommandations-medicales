@@ -124,15 +124,15 @@ Répéter le dépistage à 1 mois.
 
 Signes cliniques aspécifiques le plus souvent, présents dans 3/4 des cas avec guérison spontanée en 1-3 semaines:
 
-- Fièvre, syndrome pseudo-grippal > 7 jours (90%)
+- Fièvre, syndrome pseudo-grippal prolongé > 7 jours (90%)
 - Asthénie
 - Polyadénopathies fermes et indolores (75%)
 - Exanthème maculopapuleux (70%)  
   Prédomine au tronc, racine des membres, cou et parfois visage. Prurit rare.
 - Pharyngite
 - Énanthème et ulcérations muqueuses
-- Candidose buccale
-- Toux (10%)
+- [Candidose buccale]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
+- [Toux]({{< relref "toux-chronique.md" >}}) (10%)
 - Troubles digestifs
 - Signes sévères plus rares:
   - Syndrome méningé lymphocytaire (20%)
@@ -142,7 +142,7 @@ Signes cliniques aspécifiques le plus souvent, présents dans 3/4 des cas avec 
 #### Signes biologiques d'une infection VIH
 
 - Thrombopénie (75%)
-- Leucopénie (50%), lymphopénie, syndrome mononucléosique
+- Leucopénie (50%), [lymphopénie]({{< relref "lymphopenie.md" >}}), [syndrome mononucléosique]({{< relref "mononucleose-infectieuse.md" >}})
 - Cytolyse hépatique
 
 ### Clinique de la phase chronique
@@ -154,7 +154,7 @@ Signes cliniques mineurs:
   - [Prurigo]({{< relref "prurit.md" >}})
   - [Zona]({{< relref "zona.md" >}})
   - Psoriasis
-  - Candidose buccale ou génitale récidivante
+  - [Candidose buccale ou génitale récidivante]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
   - Maladie de Kaposi
   - Autres  
   Porphyrie cutanée tardive, folliculite, condylomes, [molluscum contagiosum]({{< relref "molluscum-contagiosum.md" >}}), leucoplasie chevelue de la langue.
@@ -177,7 +177,7 @@ Les infections classiques se surajoutent à celles du Sida.
 Pathologies selon le taux de CD4 (/mm³):
 
 - de 500 à 200
-  - Candidose buccale
+  - [Candidose buccale]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
   - Lymphome non hodgkinien
   - Maladie de Kaposi
   - [Tuberculose]({{< relref "tuberculose.md" >}})

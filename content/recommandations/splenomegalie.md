@@ -152,7 +152,7 @@ Rupture de rate
 - ASAT, ALAT, GGT, PAL
 - Bilirubine totale et libre, haptoglobine, LDH, test de Coombs direct (test à l'antiglobuline)
 - TP
-- Électrophorèse des protéines sériques
+- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
 - **Échographie abdominale**
 {{%/info%}}
 

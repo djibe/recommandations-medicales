@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-17T00:20:41+01:00
 publishdate = "2020-12-17"
-lastmod = "2021-11-21"
+lastmod = "2023-08-28"
 specialites = ["rhumatologie"]
 annees = "2017"
 sources = ["HAS"]
@@ -22,10 +22,10 @@ imageSrc = "Résultat d'électrophorèse des protéines sériques. Yakafaucon, C
 
 {{%article-summary%}}
 
-- L'absence de pic étroit à l'EPS ne permet pas d'écarter le diagnostic de myélome à chaînes légères (10%) ou non sécrétant
-- Indications limitées de la réalisation de l'EPS (voir *Indications*)
+- L'absence de pic étroit à l'électrophorèse des protéines sériques (EPS) ne permet pas d'écarter le diagnostic de myélome à chaînes légères (10%) ou non sécrétant
+- Les indications à l'électrophorèse des protéines sériques sont limitées (voir *Indications*)
 - Compléter la découverte du pic monoclonal avec le bilan adapté (voir *Examens complémentaires*)
-- En cas de suspicion d'hémopathie (voir *Qui adresser au spécialiste?*), adresser rapidement au spécialiste. Sinon surveillance à 6 mois puis annuelle
+- En cas de suspicion d'hémopathie (voir *Qui adresser au spécialiste?*), adresser rapidement à l'hématologue. Sinon surveillance à 6 mois puis annuelle
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -50,7 +50,7 @@ Indications à la réalisation de l'électrophorèse des protéines sériques (E
 - Neuropathie périphérique inexpliquée
 - Purpura vasculaire
 - Anomalies de l'hémogramme sans cause évidente  
-  {{%class%}}[Anémie]({{< relref "anemie.md" >}}), lymphopénie isolée ou hyperlymphocytose, [hyperéosinophilie persistante]({{< relref "hypereosinophilie.md" >}}) (*PNDS HE*).{{%/class%}}
+  {{%class%}}[Anémie]({{< relref "anemie.md" >}}), [lymphopénie]({{< relref "lymphopenie.md" >}}) isolée ou hyperlymphocytose, [hyperéosinophilie persistante]({{< relref "hypereosinophilie.md" >}}) (*PNDS HE*).{{%/class%}}
 - VS élevée avec CRP normale  
   {{%class%}}En dehors de la grossesse et en tenant compte de l'âge.{{%/class%}}
 - Hypercalcémie  

@@ -138,11 +138,10 @@ Autres traitements de la dyspepsie, sur avis spécialisé uniquement:
 - Chirurgie d'intervention du pylore
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant une dyspepsie" "show" %}}
+{{%collapse "Prise en charge de la dyspepsie" "show" %}}
 
-{{< mermaid title="Prise en charge d'une dyspepsie. Dr JB Fron d'après SNFGE 2019" >}}
+{{< mermaid title="Conduite à tenir et prise en charge d'une dyspepsie. Dr JB Fron d'après SNFGE 2019" >}}
 graph TB
-accTitle: Prise en charge d'une dyspepsie d'après SNFGE 2019
   Dyspepsie
   style Dyspepsie stroke:#4150f5, stroke-width:1px
     Dyspepsie --> gravite("- Signes d'alarme ?<br>- Âge ≥ 50 ans ?")

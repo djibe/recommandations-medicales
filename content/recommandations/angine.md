@@ -95,9 +95,9 @@ Autres formes cliniques d'angine:
 
 - Angine vésiculeuse  
   Dite **herpangine** par coxsackie virus ou virus varicelle-zona (VZV).
-- Angine pseudomembraneuse: [mononucléose infectieuse]({{< relref "mononucleose-infectieuse.md" >}}) (EBV) ou diphtérie
+- Angine pseudomembraneuse
   - Enduit confluent nacré/grisâtre
-  - Mononucléose: adulte jeune, fatigue, fièvre 10-15 jours, respect de la luette, purpura du voile du palais, [splénomégalie]({{< relref "splenomegalie.md" >}}) (50%), exanthème, polyadénopathie
+  - [Mononucléose infectieuse (EBV)]({{< relref "mononucleose-infectieuse.md" >}}): adulte jeune, fatigue, fièvre 10-15 jours, respect de la luette, purpura du voile du palais, [splénomégalie]({{< relref "splenomegalie.md" >}}) (50%), exanthème, polyadénopathie
   - Diphtérie: urgence thérapeutique. Voyage en Europe de l'Est ou en développement, absence de vaccination, fausses membranes extensives
 - Angine gonococcique
 - Angine ulcéreuse ou ulcéro-nécrotique: angine de Vincent, syphilis, hémopathie
@@ -129,7 +129,7 @@ La sensibilité du TDR chez l'enfant est de 85%.
 
 - Angine streptococcique compliquée
 - Diphtérie
-- Mononucléose infectieuse compliquée
+- [Mononucléose infectieuse compliquée]({{< relref "mononucleose-infectieuse.md" >}})
 - Gingivo-stomatite herpétique sévère empêchant l'alimentation
 - Angine de Vincent
 
