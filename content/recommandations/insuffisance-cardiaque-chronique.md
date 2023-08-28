@@ -569,7 +569,8 @@ réalistes
 
 ### Bibliographie en attente
 
-[Chow SL et al. Complementary and Alternative Medicines in the Management of Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2023.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110)
+- [McDonagh TA et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad195/7246292)
+- [Chow SL et al. Complementary and Alternative Medicines in the Management of Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2023.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110)
 
 {{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

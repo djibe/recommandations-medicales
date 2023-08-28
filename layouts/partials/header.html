@@ -33,4 +33,6 @@
     <link rel="stylesheet" href="{{ $dark.Permalink }}" media="print" onload="this.media='screen and (prefers-color-scheme: dark)'">
     <link rel="stylesheet" href="{{ $print.Permalink }}" media="print">
   {{ end }}
+
+  {{- with .Params.style }}<style>{{ . | safeCSS }}</style>{{- end -}}
 </head>

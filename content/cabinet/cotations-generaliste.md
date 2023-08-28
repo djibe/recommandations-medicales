@@ -12,6 +12,7 @@ sources = ["Assurance Maladie"]
 tags = []
 image = true
 imageSrc = "unDraw"
+style = "thead > tr > th:first-of-type {width: 110px}"
 todo = "FS exemple frottis, MD, jour férié, IK, routexl, MPH aussi quand change de MT ?"
 +++
 
@@ -28,7 +29,6 @@ En attendant un outil plus performant sur *RecoMédicales*, *OMNIPrat* permet de
 
 ## Les cotations pour les médecins généralistes
 
-<style>thead > tr > th:first-of-type {width: 110px}</style>
 <div class="card card-hover my-3 mb-xl-5">
   <ul class="nav nav-tabs nav-justified" id="tabs-cotations" role="tablist" style="overflow-x: hidden">
     <li class="nav-item" role="presentation">
