@@ -77,7 +77,7 @@ SIADH
 {{% /collapse %}}
 {{%collapse "Signes de gravité de l'hyponatrémie" %}}
 
-### Drapeaux rouges à rechercher devant une hyponatrémie
+### Drapeaux rouges d'une hyponatrémie
 
 Situations où une hyponatrémie nécessite une prise en charge urgente:
 
@@ -85,10 +85,12 @@ Situations où une hyponatrémie nécessite une prise en charge urgente:
 - Hyponatrémie aiguë (installation en < 48h)
 - Symptômes sévères
   - Vomissements
-  - Défaillance hémodynamique
+  - Défaillance cardiorespiratoire
   - Somnolence excessive
   - Convulsions
   - Coma avec score de Glasgow ≤ 8
+
+> *ERBP 2014*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

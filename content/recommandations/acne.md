@@ -26,9 +26,9 @@ todo = "outil"
 - Prise en charge de l'acné par les traitements topiques
   - Acné rétentionnelle: adapalène 0,1% crème x 1/j pendant 3 mois
   - Acné inflammatoire: peroxyde de benzoyle 5% x 1/j pendant 4-6 semaines puis 2-3/semaine  
-    Étendue: + doxycycline 100 mg/j max 3 mois
+    Acné étendue: ajouter la doxycycline 100 mg/j max 3 mois
 - Acné sévère: avis dermatologique (voir *Acné sévère*)
-- Acné par contraception hormonale: lévonorgestrel seul > Norgestimate > autre voire Triafemi ([Fiche contraception]({{< relref "contraception.md" >}}))
+- Acné déclenchée par une contraception hormonale: substituer par lévonorgestrel seul > Norgestimate > autre voire Triafemi ([Fiche contraception]({{< relref "contraception.md" >}}))
 - Acné pendant la grossesse: Peroxyde de benzoyle 5% gel 1 à 2 applications par jour sur peau propre
 
 {{%/article-summary%}}
