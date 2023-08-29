@@ -137,7 +137,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 
 {{- with .Params.geochart }}
-<script src="https://www.gstatic.com/charts/loader.js" defer crossorigin></script>
+<script src="https://www.gstatic.com/charts/loader.js"></script>
 <script>
   window.addEventListener('load', () => {
     google.charts.load('current', {'packages':['geochart']})
