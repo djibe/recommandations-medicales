@@ -8,9 +8,9 @@ synonyms = ["Insuffisance cardiaque à FEVG altérée", "insuffisance cardiaque 
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = "2021-06-03"
-lastmod = "2023-08-25"
+lastmod = "2023-08-29"
 specialites = ["cardiologie"]
-annees = "2021"
+annees = "2023"
 sources = ["ESC", "HAS"]
 tags = ["BPCO", "dyspnee", "epreuve effort", "fatigue", "ferritine", "HTA", "risque cardiovasculaire", "SAS", "tabac", "toux", "TSH", "vaccin", "vertige"]
 anglais = ["Chronic heart failure"]
@@ -19,7 +19,7 @@ icd10 = "I50.9"
 image = true
 imageSrc = "Illustration de l'insuffisance cardiaque par vectorjuice / Freepik"
 flowchart = true
-todo = "sel pour tous?, sup. Table 4 MRA+5Sacu+7Diur, depression Beck"
+todo = "sup. Table 4 MRA+5Sacu+7Diur, depression Beck"
 +++
 
 {{%article-summary%}}
@@ -28,7 +28,7 @@ todo = "sel pour tous?, sup. Table 4 MRA+5Sacu+7Diur, depression Beck"
 - Bilan initial devant une suspicion d'insuffisance cardiaque chronique: ECG, NT-proBNP avec biologie complète et consultation de cardiologie
 - Bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), anémie) d'une fatigue ou d'une dyspnée
 - Contrôle des facteurs de risque cardiovasculaire: hypertension artérielle, tabac, dyslipidémie, obésité, diabète
-- Prise en charge: maximiser les posologies des traitements {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} voire valsartan/sacubitril (Entresto®), {{< modal-btn modal-bb >}}bêta-bloquant{{< /modal-btn >}} (maintenir FC ≥ 50/min), anti-aldostérone, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} (dapagliflozine ++), ferritine > 100 ng/mL
+- Prise en charge: maximiser les posologies des traitements {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} voire valsartan/sacubitril (Entresto®), {{< modal-btn modal-bb >}}bêta-bloquant{{< /modal-btn >}} (maintenir FC ≥ 50/min), anti-aldostérone, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} (empa/dapagliflozine), ferritine > 100 ng/mL
 - Éducation thérapeutique pour la surveillance des poids et tension et l'adaptation des diurétiques
 
 {{%/article-summary%}}
@@ -54,7 +54,7 @@ Désynchronisation cardiaque
 
 ### Classification de l'insuffisance cardiaque
 
-{{< table title="Critères de classification de l'insuffisance cardiaque selon ESC 2021" >}}
+{{< table title="Critères de classification de l'insuffisance cardiaque selon ESC 2023" >}}
 | Critère | ICFEd         | ICFEmd                  | ICFEp              |
 |--------:|---------------|-------------------------|--------------------|
 | 1       | Symptômes ± signes | Symptômes ± signes | Symptômes ± signes |
@@ -207,7 +207,7 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
   - Palpitations, tachycardie
   - Syncope
   - Prise de poids rapide (> 2 kg en 3 jours)
-  - Apnées du sommeil (> 30%)  
+  - Apnées du sommeil (+30%)  
   {{%class%}}Surtout centrales avec *respiration de Cheynes-Stokes* ou [obstructives]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}).{{%/class%}}
 
 ### Examen clinique
@@ -296,8 +296,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
   - Surveillance des cardiotoxiques
   - Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
   - Mesure systématique de l'IPS (*ESC 2017 LEAD*)
-  - Ferritinémie cible ≥ 100 ng/mL  
-    Bilan étiologique voire fer maltose IV.
+  - Ferritinémie cible ≥ 100 ng/mL: bilan étiologique et fer maltose IV si ICFEd ou ICFEmd symptomatique
 - Comorbidités
   - [Obésité]({{< relref "obesite-adulte.md" >}}): prise en charge spécifique
   - Diabète: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
@@ -347,7 +346,10 @@ Indications à la greffe cardiaque: symptômes invalidants, mauvais pronostic, a
 {{% /collapse %}}
 {{%collapse "Traitement de l'insuffisance cardiaque à fraction d'éjection modérément diminuée" %}}
 
-Peu de traitements ont fait leurs preuves pour la prise en charge de l'ICFEmd: Diurétique à visée symptomatique (voir *Mesures générales*).
+Peu de traitements ont fait leurs preuves pour la prise en charge de l'insuffisance cardiaque à fraction d'éjection modérément diminuée:
+
+- iSGLT2: {{< modal-btn modal-isglt2 >}}dapagliflozine ou empagliflozine{{< /modal-btn >}}
+- Diurétique à visée symptomatique (voir *Mesures générales*)
 
 ### Traitements à considérer
 
@@ -356,18 +358,17 @@ Peu de traitements ont fait leurs preuves pour la prise en charge de l'ICFEmd: D
 - {{< modal-btn modal-bb >}}Bêta-bloquant{{< /modal-btn >}} dose maximale  
   En maintenant la FC ≥ 50/min ou sur avis cardiologique en-dessous.
 - Anti-aldostérone spironolactone ou éplérénone
-- {{< modal-btn modal-isglt2 >}}Empagliflozine 10 mg{{< /modal-btn >}} (<< option thérapeutique à privilégier >>, *HAS 09/2022*)  
-  **NB.** Non citée dans les recommandations car essai EMPEROR-preserved publié après.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'insuffisance cardiaque à fraction d'éjection préservée (ICFEp)" %}}
 
+Traitements recommandés pour la prise en charge de l'insuffisance cardiaque à fraction d'éjection préservée:
+
+- iSGLT2: {{< modal-btn modal-isglt2 >}}dapagliflozine ou empagliflozine{{< /modal-btn >}}
+- Diurétique à visée symptomatique (voir *Mesures générales*)
 - Contrôle strict des facteurs de risque cardiovasculaire, des comorbidités (arythmie...) et surcharges volumiques (solutés, produits de contraste iodés)
-- Faible niveau de preuve d'efficacité: {{< modal-btn modal-bb >}}nébivolol{{< /modal-btn >}}, {{< modal-btn modal-ara2-ic >}}candésartan{{< /modal-btn >}}, spironolactone.
-- {{< modal-btn modal-isglt2 >}}Empagliflozine 10 mg{{< /modal-btn >}} (*HAS 09/2022*)  
-  **NB.** Non citée dans les recommandations ESC car essai EMPEROR-preserved publié après.
-- Diurétique à visée symptomatique  
-  Voir *Mesures générales*
+
+Autres traitements ayant un faible niveau de preuve d'efficacité: {{< modal-btn modal-bb >}}nébivolol{{< /modal-btn >}}, {{< modal-btn modal-ara2-ic >}}candésartan{{< /modal-btn >}}, spironolactone.
 
 {{% /collapse %}}
 {{%collapse "Hospitalisation pour décompensation d'insuffisance cardiaque" %}}
@@ -444,7 +445,7 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une insuffisance cardiaque" "show" %}}
 
-{{< mermaid title="Prise en charge pour le diagnostic et le bilan initial de l'insuffisance cardiaque chronique par le médecin généraliste. Dr JB Fron d'après ESC 2021" >}}
+{{< mermaid title="Prise en charge pour le diagnostic et le bilan initial de l'insuffisance cardiaque chronique par le médecin généraliste. Dr JB Fron d'après ESC 2023" >}}
 graph TB
 suspicion[Suspicion d'insuffisance cardiaque]
 style suspicion stroke:#4150f5, stroke-width:1px
@@ -459,7 +460,7 @@ style suspicion stroke:#4150f5, stroke-width:1px
 
 ---
 
-{{< mermaid title="Prise en charge et traitement de l'insuffisance cardiaque à fraction d'éjection diminuée symptomatique à l'état stable. Dr JB Fron d'après ESC 2021" >}}
+{{< mermaid title="Prise en charge et traitement de l'insuffisance cardiaque à fraction d'éjection diminuée symptomatique à l'état stable. Dr JB Fron d'après ESC 2023" >}}
 graph TB
 ICFEd["Patient symptomatique avec ICFEd<br>FEVG ≤ 40%"]
 style ICFEd stroke:#4150f5, stroke-width:1px
@@ -551,6 +552,7 @@ réalistes
 
 {{< youtube id="60VQUo3xqAw" title="Insuffisance cardiaque, encore un effort! (Fréquence Médicale)" >}}
 
+- [McDonagh TA et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad195/7246292)
 - {{< references/esh-2023 >}}
 - [Taylor C et al. Natriuretic peptide testing and heart failure diagnosis in primary care: diagnostic accuracy study. British Journal of General Practice. 2023.](https://bjgp.org/content/73/726/e1)
 - [HAS. JARDIANCE (empagliflozine) - Insuffisance cardiaque chronique symptomatique. 16/09/2022.](https://www.has-sante.fr/jcms/p_3352200/fr/jardiance-empagliflozine-insuffisance-cardiaque-chronique-symptomatique)
@@ -569,8 +571,7 @@ réalistes
 
 ### Bibliographie en attente
 
-- [McDonagh TA et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad195/7246292)
-- [Chow SL et al. Complementary and Alternative Medicines in the Management of Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2023.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110)
+[Chow SL et al. Complementary and Alternative Medicines in the Management of Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2023.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110)
 
 {{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

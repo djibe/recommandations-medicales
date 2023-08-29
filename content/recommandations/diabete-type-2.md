@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2023-08-25"
+lastmod = "2023-08-29"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["ADA", "ESH", "SFD", "EASD", "ESC", "KDIGO", "HAS"]
@@ -99,6 +99,7 @@ SFD
 Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} (rarement modéré) {{%class%}}(risque CV x2){{%/class%}}
 {.alert .alert-warning}
 
+- HbA<sub>1c</sub> cible: {{< modal-btn modal-hba1c >}}globalement **7%**{{< /modal-btn >}} {{%class%}}(*SFD 2021*){{%/class%}}
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (passif et électronique également) et alcool à moindre risque
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
   - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans, {{%class%}}*ESH 2023*{{%/class%}} et 130/80 selon *ADA 2023*)
@@ -112,13 +113,13 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
   - {{%class "text-black-secondary" %}}**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense). Renforcement musculaire 3 j/sem. Commencer par 1000 pas supplémentaires/j ou autre objectif *SMART*.{{%/class%}}
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette 3 j/sem
   - Bouger toutes les 30 minutes
-  - Avec l'âge, favoriser la souplesse 2 à 3 jours par semaine (Yoga, Thai-chi)
-- Cible d'HbA<sub>1c</sub>: {{< modal-btn modal-hba1c >}}globalement **7%**{{< /modal-btn >}} {{%class%}}(*SFD 2021*){{%/class%}}
+  - Avec l'âge, favoriser la souplesse 2 à 3 jours par semaine (yoga, Thai-chi)
 - Surpoids  
   Perte de poids (5-10%) ou chirurgie bariatrique.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Dépister des {{< modal-btn modal-saos-diabete >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) {{%class%}}(50%){{%/class%}}
 - Dépistage des [cancers](/tags/cancer/) recommandés
+- Si maladie rénale chronique: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} systématique (dapa ou empagliflozine) et finérénone (non disponible en France)
 - Soutien psychologique
 - [Programme d'accueil de la FFD](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kitb)
 - [ALD n°8]({{< relref "affection-longue-duree.md" >}}) et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
