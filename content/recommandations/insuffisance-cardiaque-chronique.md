@@ -2,7 +2,7 @@
 title = "Insuffisance cardiaque chronique"
 prefix = "l'"
 titleSeo = "Insuffisance cardiaque"
-description = "Recommandations 2021 pour le diagnostic et le traitement de l'insuffisance cardiaque à fraction d'éjection diminuée ou préservée. BNP, IEC, betabloquant, SGLT2"
+description = "Recommandations 2023 pour le diagnostic et le traitement de l'insuffisance cardiaque à fraction d'éjection diminuée ou préservée. BNP, IEC, betabloquant, SGLT2"
 longHtml = true
 synonyms = ["Insuffisance cardiaque à FEVG altérée", "insuffisance cardiaque à fraction d'éjection préservée (ICFEp)"]
 auteurs = ["Jean-Baptiste FRON"]

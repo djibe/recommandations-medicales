@@ -7,12 +7,12 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-08-18T11:07:22+02:00"
 publishdate = "2021-09-07"
-lastmod = "2023-05-16"
+lastmod = "2023-08-29"
 specialites = ["cardiologie"]
-annees = "2015"
+annees = "2023"
 sources = ["ESC"]
 tags = ["fievre"]
-anglais = ["Endocarditis"]
+anglais = ["Endocarditis", "infective endocarditis (IE)"]
 sctid = "56819008"
 icd10 = "I38"
 image = true
@@ -28,7 +28,6 @@ todo = "SEO 'recommandations endocardite', Brossettes ?"
   Amoxicilline per os 2 g 30 à 60 minutes avant le geste à risque (50 mg/kg chez l'enfant)
 - Soutien psychologique
 - Adresser aux Urgences toute suspicion d'endocardite infectieuse
-- Prochaines recommandations ESC pour la prise en charge de l'endocardite infectieuse en 2023
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -43,21 +42,26 @@ Endocardite infectieuse (EI)
 {.alert .alert-info}
 
 {{% /collapse %}}
-{{%collapse "Patients à risque d'endocardite" %}}
+{{%collapse "Patients à risque d'endocardite infectieuse" %}}
 
 ### Patients à haut risque d'endocardite infectieuse
 
 {{%info%}}
 Seules personnes éligibles à l'antibioprophylaxie en soins dentaires à haut risque:
 
-1. Valve prothétique  
-  Mécanique, homogreffe ou bioprothèse.
-2. Antécédent d'endocardite
-3. Cardiopathie congénitale
+1. Antécédent d'endocardite infectieuse
+2. Valve prothétique (mécanique, homogreffe ou bioprothèse)
+3. À considérer si réparation valvulaire mitrale ou tricuspide par cathéterisme
+4. Cardiopathie congénitale cyanogène non traitée TODO:
+5. À considérer si greffe cardiaque
+6. Assistance ventriculaire
+
+
+1. Cardiopathie congénitale
     - Cyanogène
     - Matériel prothétique implanté dans les 6 mois ou avec persistance de shunt ou régurgitation valvulaire
 
-> *ESC 2015*
+> *ESC 2023*
 {{%/info%}}
 
 ### Chirurgies dentaires à risque chez le sujet à haut risque d'endocardite
@@ -67,7 +71,7 @@ Seules personnes éligibles à l'antibioprophylaxie en soins dentaires à haut r
 
 > *ESC 2015*
 
-Les autres gestes ([coloscopie]({{< relref "cancer-colorectal.md" >}}), endoscopie bronchique ...) ne nécessitent pas d'antibioprophylaxie hors contexte infectieux.
+Lors des autres gestes invasifs ([coloscopie]({{< relref "cancer-colorectal.md" >}}), endoscopie bronchique, urétéroscopie ...), l'antibioprophylaxie pourrait être considérée.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

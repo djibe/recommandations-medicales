@@ -6,7 +6,7 @@ description = "Outils pour identifier et résoudre les problèmes de connexion a
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-11T13:08:00+02:00"
 publishdate = "2023-04-11"
-lastmod = "2023-08-24"
+lastmod = "2023-08-62"
 annees = "2023"
 sources = []
 tags = []
@@ -35,7 +35,7 @@ Ameli Pro et tous les services en ligne proposant une connexion avec la carte CP
 
 Le paquet ATSAM de l'Assurance Maladie installe: Cryptolib CPS 5.1.9 ([Windows](https://www.diabeclic.com/daemonite/CryptolibCPS-5.1.9.exe) ou [Mac](https://www.diabeclic.com/daemonite/CryptolibCPS-5.1.19.dmg), certificats pour la carte à puce), SrvSVCNAM (connexion aux services Ameli Pro), AmeliPro Connect (voir plus bas) et DiagAM (diagnostic des erreurs de connexion aux services Ameli Pro).
 
-Les fichiers mentionnés peuvent également être téléchargés depuis [la page dédiée d'Ameli Pro](https://espacepro.ameli.fr/inscription/#/aide) (ou Gestion du compte > Mon compte > Aide et configuration)
+Les fichiers mentionnés peuvent également être téléchargés depuis [la page dédiée d'Ameli Pro](https://espacepro.ameli.fr/inscription/#/aide): aller au pied de page > Configuration.
 {.alert .alert-info}
 
 ### AmeliPro Connect
