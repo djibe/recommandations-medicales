@@ -85,7 +85,7 @@ Complications des infections par les papillomavirus et incidence imputée entre 
   Un dépistage de toute la population entraînerait une diminution de l'incidence de 90%.
 - 80% des hommes et des femmes sexuellement actifs seront infectés par les papillomavirus durant leur vie
 - Portage masculin: 20% des hommes sont porteurs d'HPV haut risque (*[Bruni 2023](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00305-4/fulltext#%20)*)
-- **Couverture vaccinale:** 45,8% des jeunes filles de 15 ans et 6% des garçons en France métropolitaine contre 84% au Royaume-Uni (*Inserm*)
+- **Couverture vaccinale:** 41% des jeunes filles et 8% des garçons de 16 ans étaient vaccinés en 2022 en France métropolitaine contre 84% au Royaume-Uni (*Ameli*, *Inserm*)
 
 > *INCa*
 

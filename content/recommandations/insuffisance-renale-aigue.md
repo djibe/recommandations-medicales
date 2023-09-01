@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-25T16:39:18+02:00"
 publishdate = "2022-10-28"
-lastmod = "2023-06-15"
+lastmod = "2023-09-01"
 specialites = ["nephrologie"]
 annees = "2012"
 sources = ["KDIGO"]
@@ -16,6 +16,7 @@ sctid = "14669001"
 icd10 = "N17.9"
 image = true
 imageSrc = "Uronéphrose droite sur lithiase urinaire. Cas du Dr Sajoscha A. Sorrentino, Radiopaedia.org, rID: 15679"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -25,7 +26,7 @@ imageSrc = "Uronéphrose droite sur lithiase urinaire. Cas du Dr Sajoscha A. Sor
 - Évaluer la gravité clinique, rechercher un globe vésical et adresser pour prise en charge aux Urgences (échographique-biologie-ECG)  
   Fournir les antécédents et bilans rénaux pour aider à la recherche étiologique
 - Pour les informations sur les injections de produits de contraste iodé, voir *Rein et produits de contraste*
-- Les prochaines recommandations KDIGO sortiront courant T2 2023
+- Le KDIGO travaille sur les recommandations 2023
 
 Chapitre lié: [insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
 
@@ -99,7 +100,7 @@ SFR
 
 - Antécédents  
   Urologiques, tabac, familiaux lithiasiques.
-- Traitements en cours (IEC, AINS)
+- Traitements en cours: IEC, sartan, AINS
 - Fonctions rénales antérieures
 - Diurèse
 - Signes généraux: fièvre, douleurs
@@ -125,7 +126,7 @@ Préciser les antécédents (insuffisance rénale, HBP ...), les valeurs antéri
 Consultation de contrôle à 3 mois après la correction de l'épisode d'insuffisance rénale aiguë.
 
 {{% /collapse %}}
-{{%collapse "Rein et produits de contraste" %}}
+{{%collapse "Rein et injections de produits de contraste" %}}
 
 > << il n'est pas recommandé de doser la créatininémie pour estimer le DFG avant une IRM injectée >> car << une insuffisance rénale aiguë avec les produits gadolinés en IRM, n'existe pas aux doses utilisées >> (*SFNDT 2020*)
 {.alert .alert-info}
@@ -154,14 +155,14 @@ Un dosage de créatinine est valable 3 mois (7 jours en aigu).
 
 Chez ces personnes: protocoles d'hydratation intraveineux spécifiques au décours de l'examen.
 
-### Seuil de risque rénal
+### Seuil de risque rénal pour les produits de contraste
 
 Risque d'insuffisance rénale aiguë post-contraste selon la voie d'injection:
 
 - Voie veineuse ou artérielle 2<sup>e</sup> passage: DFG < 30
 - Voie artérielle 1<sup>er</sup> passage: DFG < 45
 
-### Gestion des traitements des sujets à risque
+### Gestion des traitements des sujets à risque en cas d'injection de produit de contraste
 
 - Metformine, arrêt le jour de l'examen pour 48 heures si:
   - Voie artérielle 1<sup>er</sup> passage
@@ -170,6 +171,15 @@ Risque d'insuffisance rénale aiguë post-contraste selon la voie d'injection:
 - AINS: contre-indiqués en MRC stade IV/V, suspendus selon le rapport bénéfice/risque
 - IEC/ARA2: pas d'interruption sauf hypovolémie
 - Diurétiques: selon surcharge hydrosodée et risque d'IRA-PC
+
+{{%/collapse%}}
+{{%collapse "Prise en charge d'une insuffisance rénale aiguë" "show" %}}
+
+{{< mermaid title="Prise en charge d'une insuffisance rénale aiguë. Dr JB Fron d'après Collèges et KDIGO 2012" >}}
+graph TB
+  IRA["<b>Insuffisance rénale aiguë</b><br>—<br>Aug. créatininémie<br>≥ 26,5 µmol/L en 48h<br>ou ≥ 50% en 7 jours<br>ou oligoanurie"] --> clinique("<b>Clinique</b><br>—<br>- Derniers bilans<br>- Constantes<br>- Traitements imputables<br>- Pathologie aiguë<br>- Dyspnée<br>- Globe urinaire") --> urgences("Urgences<br>voire SAMU")
+  style IRA stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 
 {{%/collapse%}}
 {{%sources%}}

@@ -6,7 +6,7 @@ synonyms = ["Cancer du côlon", "cancer du rectum"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
 publishdate = "2022-09-22"
-lastmod = "2022-12-20"
+lastmod = "2023-09-01"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["SNFGE", "INCa", "HAS", "SFED"]
@@ -185,7 +185,7 @@ Signes évocateurs de cancer colorectal en cas de symptômes persistants:
 
 Le bilan complémentaire d'extension après la coloscopie totale comprend: Scanner thoraco-abdomino-pelvien avec injection (TAP) et pour le rectum une échoendoscopie rectale ou IRM pelvienne.
 
-Bilan biologique: NFS, CRP, TP, TCA, créatininémie, albuminémie, bilirubinémie totale et conjuguée, ASAT, ALAT, PAL, LDH
+Bilan biologique: NFS, CRP, TP, TCA, créatininémie, albuminémie, bilirubinémie totale et conjuguée, ASAT, ALAT, PAL, LDH, marqueur ACE
 
 Autres bilans: ECG, détermination du statut des gènes RAS et BRAF tumoraux, du phénotype MSI (immunothérapie).
 
@@ -295,7 +295,7 @@ Le traitement dépend de la décision de la réunion de concertation pluridiscip
 - {{< modal-btn modal-mna >}}Dépister la Dénutrition{{< /modal-btn >}} (39%) et accompagnement diététique spécialisé
 - Stomie: soins par infirmier stomathérapeute
 - Association de patients  
-  [France Côlon](https://www.france-colon.fr), [Mon réseau cancer colorectal](https://www.monreseau-cancercolorectal.com/), [Crohn-RCH France](https://www.afa.asso.fr), [Ligue nationale contre le cancer](https://www.ligue-cancer.net), [Polyposes Familiales](https://www.polyposes-familiales.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com), [Ligue Cancer info](https://www.ligue-cancer.net) (ou {{<phone>}}0 805 123 124{{</phone>}})
+  [France Côlon](https://www.france-colon.fr), [Mon réseau cancer colorectal](https://www.monreseau-cancercolorectal.com), [Crohn-RCH France](https://www.afa.asso.fr), [Ligue nationale contre le cancer](https://www.ligue-cancer.net), [Polyposes Familiales](https://www.polyposes-familiales.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com), [Ligue Cancer info](https://www.ligue-cancer.net) (ou {{<phone>}}0 805 123 124{{</phone>}})
 
 ### Suivi après cancer du côlon ou rectum
 
@@ -347,17 +347,17 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 
 {{< youtube id="DV0PVuj4Ljw" title="Quelle surveillance endoscopique pour un cancer du côlon ? (TutoGastro SNFGE)" >}}
 
-- [Phelip JM. et al. « Cancer colorectal métastatique ». Thésaurus National de Cancérologie Digestive. Mai 2023](https://www.snfge.org/content/4-cancer-colorectal-metastatique)
+- [Phelip JM et al. « Cancer colorectal métastatique ». Thésaurus National de Cancérologie Digestive. septembre 2023.](https://www.snfge.org/content/4-cancer-colorectal-metastatique)
 - {{< references/college-gastro >}}
 - [Service-Public.fr. Cancer colorectal : des kits de dépistage disponibles en pharmacie. 02/11/2022.](https://www.service-public.fr/particuliers/actualites/A15541)
-- [Robaszkiewicz M. et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
-- [Lecomte T. et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/3-cancer-du-colon-non-metastatique)
-- [Cotte E. et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/5-cancer-du-rectum)
+- [Robaszkiewicz M et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
+- [Lecomte T et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/3-cancer-du-colon-non-metastatique)
+- [Cotte E et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/5-cancer-du-rectum)
 - [INCa. Les cancers colorectaux en 12 points clés. Juillet 2020. (PDF)](https://www.e-cancer.fr/content/download/292187/4161375/file/Cancers_colorectaux_en_12_points_cl%C3%A9s_mel_20200702.pdf)
 - [INCa. Cancer colorectal - Dépistage par test immunologique et autres modalités. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-colorectal-Depistage-par-test-immunologique-et-autres-modalites)
 - [INCa. Dépistage du cancer colorectal - Accompagner vos patients de 50 à 74 ans. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Depistage-du-cancer-colorectal-Accompagner-vos-patients-de-50-a-74-ans)
-- [Hassan C. et al. Bowel preparation for colonoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2019. Endoscopy. 2019.](https://www.thieme-connect.de/products/ejournals/html/10.1055/a-0959-0505)
-- [Bernardini D., Lapuelle J. et al. Critères de qualité de la coloscopie - Recommandations du CNP-HGE et de la SFED. Hépato-Gastro et Oncologie Digestive. 2019.](https://www.jle.com/fr/revues/hpg/e-docs/criteres_de_qualite_du_compte_rendu_de_coloscopie_recommandations_du_cnp_hge_et_de_la_sfed_313695/article.phtml)
+- [Hassan C et al. Bowel preparation for colonoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2019. Endoscopy. 2019.](https://www.thieme-connect.de/products/ejournals/html/10.1055/a-0959-0505)
+- [Bernardini D et al. Critères de qualité de la coloscopie - Recommandations du CNP-HGE et de la SFED. Hépato-Gastro et Oncologie Digestive. 2019.](https://www.jle.com/fr/revues/hpg/e-docs/criteres_de_qualite_du_compte_rendu_de_coloscopie_recommandations_du_cnp_hge_et_de_la_sfed_313695/article.phtml)
 - [INCa. Cancers colorectaux - Du diagnostic au suivi. Octobre 2018. (PDF)](https://www.e-cancer.fr/content/download/247273/3415432/file/Cancers_colorectaux_du_diagnostic_au_suivi_mel_20181029.pdf)
 - [HAS. Cancer colorectal : modalités de dépistage et de prévention chez les sujets à risque élevé et très élevé. Mai 2017.](https://www.has-sante.fr/jcms/c_2772744/fr/cancer-colorectal-modalites-de-depistage-et-de-prevention-chez-les-sujets-a-risque-eleve-et-tres-eleve)
 - [HAS. Quand faut-il faire une coloscopie de contrôle après une polypectomie ?. Septembre 2013.](https://www.has-sante.fr/jcms/c_1695396/fr/quand-faut-il-faire-une-coloscopie-de-controle-apres-une-polypectomie)
@@ -371,7 +371,7 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 ### Bibliographie en attente
 
 - [ESMO. Localised Colon Cancer. Interactive Guideline.](http://interactiveguidelines.esmo.org/esmo-web-app/gl_toc/index.php?GL_id=74)
-- [Cervantes A. et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)
+- [Cervantes A et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}

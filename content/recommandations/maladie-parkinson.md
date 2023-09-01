@@ -417,7 +417,7 @@ Les hallucinations sont fréquentes (40% sous dopaminergique), les épisodes dé
 Éliminer une autre cause ou iatrogénie et demander un avis neurologique.  
 Réduire progressivement les antiparkinsoniens les plus hallucinogènes (anticholinergiques > amantadine > agonistes dopaminergiques > IMAO B et ICOMT).
 
-Sinon recours à la clozapine avec surveillance biologique et ECG initial (ou quétiapine).
+Sinon recours à la clozapine avec surveillance biologique ([Tralongo 2023](https://link.springer.com/article/10.1007/s40262-023-01247-1)) et ECG initial (ou quétiapine).
 
 #### Troubles du sommeil
 

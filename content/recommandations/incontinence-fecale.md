@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-11T16:50:35+02:00"
 publishdate = "2023-04-12"
-lastmod = "2023-05-12"
+lastmod = "2023-08-31"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
 sources = ["ESCP", "ASCRS", "SNFCP"]
@@ -18,6 +18,7 @@ icd10 = "R15"
 image = true
 imageSrc = "Illustration de l'incontinence fécale (ou anale) par upklyak / Freepik"
 todo = "scores dont https://www.em-consulte.com/article/99993/validation-of-the-french-version-of-the-fecal-inco"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -65,7 +66,7 @@ SNFCP
 - Transit intestinal  
   Rythme et consistance des selles (étayer un [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) et [cancer colorectal]({{< relref "cancer-colorectal.md" >}})).
 - Symptômes anaux
-  - Date d'apparition de l'incontinence
+  - Date d'apparition de l'incontinence anale
   - Rythme de survenue
   - Sévérité: [Fecal Incontinence Severity Index (FISI)](https://www.mdapp.co/fecal-incontinence-severity-index-fisi-calculator-234/), [St. Marks Incontinence Score](https://www.snfcp.org/questionnaires-outils/constipation-incontinence-troubles-fonctionnels/incontinence-score-de-vaizey-score-st-marks/) ou CCF
   - Qualité de vie: [score FIQL](http://www.pelvicfloorcenter.org/sites/default/files/FIQOL%20Incont%20Survey%20Updated%209%2029%202014a.pdf)
@@ -74,7 +75,7 @@ SNFCP
 
 ### Examen clinique
 
-- Poids, taille, IMC et variations
+- Poids et variations, taille, IMC
 - Examen neurologique
 - Examen pelvien  
   Inspection, toucher rectal avec effort de poussée (sphincter, masse, fécalome)
@@ -89,7 +90,7 @@ Compléter le bilan d'une incontinence fécale avec NFS et glycémie à jeun ± 
 
 ### Coloscopie
 
-Le recours à la coloscopie est limité aux indications liées à une suspicion de malignité ou de maladie inflammatoire: apparition ou modification récente des symptômes chez le +50 ans, AEG, rectorragies ou anémie.
+Le recours à la coloscopie est limité aux indications liées à une suspicion de malignité ou de maladie inflammatoire: apparition ou modification récente des symptômes après 50 ans, AEG, rectorragies ou [anémie]({{< relref "anemie.md" >}}).
 
 Les autres bilans relèvent d'une prescription spécialisée (ex: échographie endoanale).
 
@@ -109,17 +110,16 @@ Les premières mesures visent à obtenir une régularisation du transit et de la
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Étudier: café, sucres et édulcorants, [lactose]({{< relref "intolerance-lactose.md" >}}) et [autres mesures si diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
 - Boissons 1,5-2 L/j
-- Transit régulier
 - Consultation diététique
 - Savon doux local et crème hydratante comme barrière cutanée
 - **Rééducation** périnéale et abdominale  
   Par kinésithérapeute ou sage-femme (sauf défaut sphinctérien). Exercices et **biofeedback**. 10-20 séances initiales.
-- Si constipation: augmenter les fibres, laxatifs ([macrogol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63229902&typedoc=R)) voire suppositoires ([glycérine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66177695&typedoc=R)) ou lavements (Microlax®, Norgalax® ou Normacol®)
-- Si diarrhées: augmenter les apports en fibres ± laxatifs mucilage ([ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68520477&typedoc=R) ou autre), sauf anomalie sphinctérienne
-- Site d'information du patient: [site SNFCP](https://www.snfcp.org/informations-maladies/constipation-et-incontinence/incontinence-fecale/)
+- Régularisation du transit intestinal
+  - Si **constipation**: augmenter les fibres, laxatifs ([macrogol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63229902&typedoc=R)) voire suppositoires ([glycérine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66177695&typedoc=R)) ou lavements (Microlax®, Norgalax® ou Normacol®)
+  - Si **diarrhées**: augmenter les fibres ± laxatifs mucilage ([ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68520477&typedoc=R) ou autre), sauf anomalie sphinctérienne
+- Information du patient: [site SNFCP](https://www.snfcp.org/informations-maladies/constipation-et-incontinence/incontinence-fecale/)
 - L'acupuncture peut être considérée (*ESCP*)
-
-Prise en charge des comorbidités: fistule, [prolapsus hémorroïdaire]({{< relref "hemorroides.md" >}}).
+- Prise en charge des comorbidités: fistule, [prolapsus hémorroïdaire]({{< relref "hemorroides.md" >}})
 
 ### Traitements médicamenteux de l'incontinence fécale
 
@@ -133,6 +133,16 @@ Autres traitements possibles sur prescription spécialisée: antidépresseur tri
 Traitements spécialisés possibles selon les anomalies retrouvées au bilan complémentaire: plug anal, sphinctéroplastie externe, injections intra-canalaires de produits d'expansion, neuromodulation des racines sacrées, stimulation percutanée du nerf tibial, colostomie, sphincter artificiel, irrigation trans-anale.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de l'incontinence fécale" "show" %}}
+
+{{< mermaid title="Prise en charge de l'incontinence fécale. Dr JB Fron d'après ESCP et al 2022 et ASCRS 2015" >}}
+graph TB
+  incontinence["<b>Incontinence fécale</b><br>—<br>Passage incontrôlé de<br>selles/gaz pendant ≥ 3 mois"] --> interrogatoire("<b>Interrogatoire</b><br>—<br>- Antécédents<br>- Traitements<br>- Régime, activité physique<br>- Transit<br>- Symptômes anaux<br>- Troubles urinaires<br>- Qualité de vie<br>- Drapeau rouge: rectorragie") --> examen("<b>Examen physique</b><br>—<br>- Mesures<br>- Examen neurologique<br>- Examen pelvien") --> rhd("<b>Mesures hygiéno-diététiques</b><br>—<br>Changements 1 par 1:<br>- Agenda du transit<br>- Étudier café, sucres,<br>édulcorants, lactose<br>- Boissons 1,5-2 L/j<br>- Cs diététique<br>- Savon doux local<br>- Rééducation périnéale<br>et abdominale<br>- Régularisation du<br>transit") -. Échec .-> spécialiste
+  style incontinence stroke:#4150f5, stroke-width:1px
+    examen -. Anomalie .-> bilan("Anomalie, AEG, rectorragie,<br>modification du transit<br>après 50 ans") --> spécialiste("Gastro-entérologue")
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 {{< youtube id="gniC0GCA4rY" title="Incontinence anale : que retenir ? (TutoGastro SNFGE 2023)" >}}
