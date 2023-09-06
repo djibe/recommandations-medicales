@@ -18,17 +18,17 @@ icd10 = ""
 image = true
 imageSrc = "Illustration de la vitamine D par pch.vector / Freepik"
 flowchart = true
-todo = "rankok, calcium enfant dans screenshots"
+todo = "rankok"
 +++
 
 {{%article-summary%}}
 
-- Supplémentation en vitamine D de 400-800 UI/j toute la croissance
+- Supplémentation en vitamine D de 400 à 800 UI/j toute la croissance
 - Taux sérique cible en vitamine D pour un adulte: +50 nmol/L
-- Cible +75 nmol/L à partir de 65 ans ou pathologie à risque, chutes
-- {{< modal-btn modal-calcium-cible >}}Apports en calcium recommandés{{< /modal-btn >}} et {{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}
+- Cible de vitamine D supérieure à 75 nmol/L à partir de 65 ans ou en cas de pathologie à risque, de chutes
+- Calcium: {{< modal-btn modal-calcium-enfant >}}assurer les besoins des enfants{{< /modal-btn >}}, {{< modal-btn modal-calcium-cible >}}apports quotidiens recommandés{{< /modal-btn >}} et {{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}
 
-Articles liés: [ostéoporose]({{< relref "osteoporose.md" >}})
+Articles liés: [ostéoporose post-ménopausique]({{< relref "osteoporose.md" >}}) ou [masculine]({{< relref "osteoporose-masculine.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -298,5 +298,10 @@ Ne pas utiliser d'autres formes de supplémentations.
 {{% modal title="Teneur en calcium des aliments" id="modal-calcium"%}}
 
 {{< traitements/aliments-calcium >}}
+
+{{% /modal %}}
+{{% modal title="Apports en calcium recommandés pour l'enfant" id="modal-calcium-enfant"%}}
+
+{{< traitements/calcium-enfants >}}
 
 {{% /modal %}}

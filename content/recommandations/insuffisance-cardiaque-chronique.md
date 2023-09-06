@@ -143,7 +143,7 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
 - Cardiovasculaire  
   [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), troubles du rythme, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}).
 - Comorbidités  
-  [Diabète]({{< relref "diabete-type-2.md" >}}), [anémie]({{< relref "anemie.md" >}}), carence martiale, [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), hépatopathie, [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), dépression, démence.
+  [Diabète]({{< relref "diabete-type-2.md" >}}) (10-47 %), [anémie]({{< relref "anemie.md" >}}), carence martiale, [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), hépatopathie, [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), dépression, démence.
 - {{< modal-btn modal-observance >}}Non observance{{< /modal-btn >}}
 
 ### Épidémiologie de l'insuffisance cardiaque en France

@@ -26,7 +26,7 @@ imageSrc = "Illustration des statines par macrovector / Freepik"
 - Statines et effets indésirables: 90% des myalgies sont attribuables à un effet nocebo, elles surviennent durant la première année (sauf statine de haute intensité)
 - L'arrêt d'une statine entraîne une surmortalité cardiovasculaire de 20%
 - Arrêter une statine au moins 4 semaines avant l'arrêt d'une contraception
-- Le bilan lipidique n'a pas besoin d'être réalisé à jeun (*ESC 2021*)
+- Le bilan lipidique n'a pas besoin d'être réalisé à jeun sauf syndrome métabolique, [diabète](/tags/diabete/) ou hypertriglycéridémie (*ESC 2021*)
 
 {{%/article-summary%}}
 {{%collapse "Intensité des statines" %}}
@@ -49,12 +49,14 @@ La cible de LDL cholestérol dépend des antécédents cardiovasculaires figuran
 
 > *ESC CVD 2021*
 
+L'[évaluation chez la personne avec un diabète]({{< relref "diabete-type-2.md" >}}) est différente.
+
 ### Statine en prévention primaire
 
 Selon la *ESC 2021*, la cible de LDL est définie selon le {{< scores/heartscore >}} à partir de 40 ans ...  
 en l'absence de maladie cardiovasculaire, de comorbidité ([diabète](/tags/diabete/), hypercholestérolémie familiale, [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})) ou de [grossesse]({{< relref "grossesse.md" >}}).
 
-Toutefois la ESC appelle à un LDL inférieur à 1 g/L pour tous à tous les âges.
+Toutefois la ESC appelle à un **LDL inférieur à 1 g/L** pour tous à tous les âges.
 
 Selon l'avis indépendant de la *USPTF 2022*, une statine est recommandée pour si tous les critères suivant sont remplis:
 

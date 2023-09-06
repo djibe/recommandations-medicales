@@ -375,7 +375,7 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler et al
 
 ### Bibliographie en attente
 
-EASL
+[European Association for the Study of the Liver. EASL 2017 Clinical Practice Guidelines on the management of hepatitis B virus infection. J Hepatol. 2017.](https://www.journal-of-hepatology.eu/article/S0168-8278(17)30185-X/fulltext)
 
 {{%/sources%}}
 {{% modal title="Score PAGE-B du risque de CHC" id="modal-pageb"%}}

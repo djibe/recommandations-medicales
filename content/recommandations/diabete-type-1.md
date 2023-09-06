@@ -7,10 +7,10 @@ description = "Recommandations pour le diagnostic, le suivi et la prise en charg
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-04T19:15:12+02:00"
 publishdate = "2020-11-04"
-lastmod = "2023-02-18"
+lastmod = "2023-09-05"
 specialites = ["endocrinologie"]
-annees = "2021"
-sources = ["EASD", "ADA", "SFD", "ESC"]
+annees = "2023"
+sources = ["ESC", "EASD", "ADA", "SFD"]
 tags = ["coeliaque", "diabete", "risque cardiovasculaire", "insuline", "SAS", "retinopathie", "nephropathie", "neuropathie", "vaccin"]
 anglais = ["Diabetes mellitus type 1"]
 sctid = "46635009"
@@ -187,8 +187,10 @@ Trame des éléments à relever pour un dossier médical complet.
   Information sur le risque d'hypo avec tout toxique (alcool, cannabis, cocaïne).
 - Hypertension artérielle  
   Objectif tensionnel **< 130/80** mmHg (*ESC 2019*).
-- Dyslipidémie  
-  L'objectif de LDL dépend du {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}
+- Dyslipidémie
+  - L'objectif de LDL dépend du {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}
+  - +40 ans: considérer une statine en prévention primaire  (*ESC 2023 diabetes*)
+  - Avant 40 ans: considérer une statine si autres FRCV, microangiopathie ou risque à 10 ans ≥ 10% (modèle écossais, suédois)
 - Activité physique
   - **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire. Renforcement musculaire 3 j/sem.
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette x3/sem
@@ -281,10 +283,11 @@ Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heur
 
 {{< card-link-external title="e-learning EASD" url="https://easd-elearning.org/">}}
 
+- {{< references/esc-diabetes-2023 >}}
 - {{< references/calendrier-vaccinal >}}
-- [Holt R. et al. The management of type 1 diabetes in adults. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481000/)
-- [Monnier L. et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
-- [Valensi P. et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_paper_sfc_sfd_march_2021.pdf)
+- [Holt R et al. The management of type 1 diabetes in adults. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481000/)
+- [Monnier L et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
+- [Valensi P et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_paper_sfc_sfd_march_2021.pdf)
 - {{< references/esc-dyslipidaemias >}}
 - {{< references/esc-diabetes >}}
 - {{< references/esc-hta >}}
@@ -295,7 +298,7 @@ Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heur
 
 - [D'Souza D et al. Incidence of Diabetes in Children and Adolescents During the COVID-19 Pandemic: A Systematic Review and Meta-Analysis. JAMA Netw Open. 2023.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2806712)
 - {{< references/ada-soc >}}
-- [Jane L. et al. Type 1 Diabetes in Children and Adolescents: A Position Statement by the American Diabetes Association. Diabetes Care. 2018.](https://diabetesjournals.org/care/article/41/9/2026/40739/Type-1-Diabetes-in-Children-and-Adolescents-A)
+- [Jane L et al. Type 1 Diabetes in Children and Adolescents: A Position Statement by the American Diabetes Association. Diabetes Care. 2018.](https://diabetesjournals.org/care/article/41/9/2026/40739/Type-1-Diabetes-in-Children-and-Adolescents-A)
 
 {{%/sources%}}
 {{% modal title="Objectifs glycémiques du DT1 (ADA/EASD 2021)" id="modal-hba1c-dt1"%}}
@@ -308,7 +311,7 @@ Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heur
 {{< traitements/regime-mediterraneen >}}
 
 {{% /modal %}}
-{{% modal title="Diabète et RCV selon ESC 2019" id="modal-rcv-diabete"%}}
+{{% modal title="Diabète et RCV selon ESC 2023" id="modal-rcv-diabete"%}}
 
 {{< clinique/risque-cardiovasculaire-diabete >}}
 

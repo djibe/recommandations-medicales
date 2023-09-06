@@ -153,6 +153,7 @@ La supplémentation en acide folique (vitamine B9) réduit les effets indésirab
 - Prise d'acide folique systématique un autre jour que le méthotrexate
 - Suivi biologique régulier nécessaire
 - Consulter rapidement en cas de symptômes infectieux (toux, fièvre)
+- Connaître la photosensibilité (*MHRA*)
 
 {{% /collapse %}}
 {{%sources%}}

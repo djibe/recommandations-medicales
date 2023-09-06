@@ -6,14 +6,14 @@ description = "Taux de participation des Français au dépistage organisé des c
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-08-15T19:54:00+02:00"
 publishdate = "2021-08-18"
-lastmod = "2023-07-11"
+lastmod = "2023-09-05"
 specialites = []
 annees = "2023"
 sources = ["SPF"]
 tags = ["cancer"]
 chart = true
 image = true
-imageSrc = "Illustration du dépistage des cancers par starline / Freepik"
+imageSrc = "du dépistage des cancers par starline / Freepik"
 todo = "https://www.e-cancer.fr/Patients-et-proches/Les-cancers - ### Le dépistage organisé des cancers | KEY x10: dépistage du cancer | x3: cancer du sein, mammographie de dépistage, dépistage organisé, participation au dépistage, assurance maladie, décès par cancer, dépistage individuel, données, facteurs de risque, programme de dépistage | x1: ATCD personnel de cancer, avance de frais, consultation d'oncogénétique, courrier d'invitation, prise en charge thérapeutique, tranches d'âge"
 +++
 
@@ -43,6 +43,9 @@ Représentation des taux de participation aux dépistages organisés des cancers
 
 <script>
 const chartOptions = {
+  chart: {
+    type: 'bar'
+  },
   series: [{
     name: 'Participation',
     type: 'column',
@@ -52,7 +55,6 @@ const chartOptions = {
     type: 'column',
     data: [1084, 12146, 17117]
   }],
-  dataLabels: { formatter: function (val, opts) { return val + "%" }},
   title: { text: 'Taux de participation au dépistage des cancers en 2023' },
   xaxis: { categories: ['Col de l’utérus', 'Sein', 'Côlon-rectum'] },
   yaxis: [

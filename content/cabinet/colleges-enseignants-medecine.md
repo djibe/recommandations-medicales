@@ -5,7 +5,7 @@ description = "Liens vers les collèges des enseignants de médecine de deuxièm
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-14T16:20:00+02:00"
 publishdate = "2023-01-16"
-lastmod = "2023-08-20"
+lastmod = "2023-09-03"
 annees = "2023"
 sources = ["Colleges"]
 tags = []
@@ -27,14 +27,13 @@ Le tableau ci-dessous liste tous les référentiels disponibles en téléchargem
 | Addictologie | CUNEA <br><span class="typography-caption">Collège Universitaire National des Enseignants d'Addictologie</span> | 2021 | [lien](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf) |
 | Anatomopathologie | Copath <br><span class="typography-caption">Collège des Pathologistes</span> | 2022 | [lien](https://www.sfpathol.org/564-manuel-introduction.html) |
 | Anesthésie-réanimation | CNEAR <br><span class="typography-caption">Collège National des Enseignants d'Anesthésie et de Réanimation</span> | 2020 | [lien](https://www.cnear.fr/_files/ugd/361ef2_bf3bcbe89fb24570a6fe31cdcf96ac35.pdf) |
-| Cardiologie | CNEC <br><span class="typography-caption">Collège National des Enseignants de Cardiologie</span> | 2015 | [lien](https://www.sfcardio.fr/page/referentiel-preparation-des-ecn) |
 | Chirurgie pédiatrique | CNHUCP <br><span class="typography-caption">Collège national Hospitalier et Universitaire de Chirurgie pédiatrique</span> | 2016 | [lien](https://collegechirurgiepediatrique.fr/les-cours/) |
-| Dermatologie | CEDEF <br><span class="typography-caption">Collège des Enseignants de DErmatologie de France</span> | 2017 | [lien](https://cedef.info/enseignement-2eme-cycle-dermatologie/) |
+| Dermatologie | CEDEF <br><span class="typography-caption">Collège des Enseignants de Dermatologie de France</span> | 2017 | [lien](https://cedef.info/enseignement-2eme-cycle-dermatologie/) |
 | Endocrinologie | CEEDMM <br><span class="typography-caption">Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques</span> | 2021 | [lien](https://www.sfendocrino.org/polycopie-des-enseignants-5eme-edition-2021/) |
 | Gastro-entérologie | CDU-HGE <br><span class="typography-caption">Collège Des Universitaires d'Hépato-GastroEntérologie</span> | 2022 | [lien](https://www.snfge.org/sites/default/files/SNFGE/Formation/dsn_cdu-hge_2022-decembre.pdf) |
 | Gynécologie | CNGOF <br><span class="typography-caption">Collège national des gynécologues et obstétriciens français</span> | 2015 | [lien](http://www.cngof.net/E-book/GO-2016/) |
 | Infectiologie | CMIT <br><span class="typography-caption">Collège des universitaires de Maladies Infectieuses et Tropicales</span> | 2021 | [Pilly](https://www.infectiologie.com/fr/pilly-etudiant-2021-uniquement-en-ligne-pilly-etudiant-2023-disponible-a-la-vente-a-partir-du-23-janvier.html) |
-| Médecine physique | COFEMER <br><span class="typography-caption">COllège Français des Enseignants universitaires de MEdecine physique et de Réadaptation</span> | 2018 | [lien](https://www.cofemer.fr/cofemer/gestionPagesWebStandard.do?dispatchMethod=affiche&pageId=55) |
+| Médecine physique | COFEMER <br><span class="typography-caption">Collège Français des Enseignants universitaires de Médecine physique et de Réadaptation</span> | 2018 | [lien](https://www.cofemer.fr/cofemer/gestionPagesWebStandard.do?dispatchMethod=affiche&pageId=55) |
 | Médecine vasculaire | CEMV <br><span class="typography-caption">Collège des Enseignants de Médecine Vasculaire</span> | 2015 | [lien](http://cemv.vascular-e-learning.net/poly/Poly-Vx.pdf) |
 | Néphrologie | CUEN <br><span class="typography-caption">Collège Universitaire des Enseignants de Néphrologie</span> | 2023 | [lien](https://cuen.fr/manuel3/) |
 | Neurologie | CEN <br><span class="typography-caption">Collège des Enseignants de Neurologie</span> | 2019 | [lien](https://www.cen-neurologie.fr/deuxieme-cycle) |
@@ -58,6 +57,7 @@ Pour ne pas les citer:
 - Collège des Enseignants en Allergologie (CEA)
 - Collégiale de Bactériologie-Virologie-Hygiène (Azay)
 - Collège national de biochimie et biologie moléculaire médicale (CNBBMM)
+- Collège National des Enseignants de Cardiologie
 - Collège des Enseignants de Radiologie de France (CERF), Collège National des Enseignants de Biophysique et de Médecine Nucléaire (CNEBMN)
 - Chirurgie Maxillo-faciale et Stomatologie (CNECMF)
 - Collège Français de Chirurgie Générale, Viscérale et Digestive (CFCGVD), Conseil National des Universités de Chirurgie Viscérale et Digestive (CNU)

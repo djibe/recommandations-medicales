@@ -8,10 +8,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-08T20:02:41+02:00"
 publishdate = "2020-10-08"
-lastmod = "2021-10-26"
+lastmod = "2023-09-05"
 specialites = ["certificats"]
-annees = "2021"
-sources = ["JO", "SFC"]
+annees = "2022"
+sources = ["SFC", "JO"]
 tags = ["epreuve effort", "prevention"]
 anglais = []
 sctid = ""
@@ -26,13 +26,14 @@ todo = "Bio > 35 ans, type 1A (sources 12-13), indication ecg et ecomp, quel exa
 
 *Version préliminaire*
 
-- Majeurs: certificat sportif valable 3 ans sauf exceptions (voir *Disciplines nécessitant un certificat...*)
-- Mineurs: [questionnaire de santé](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486824). Certificat médical requis si ≥ 1 réponse positive.  
-  Pour les parents: [simulateur de Service-public.fr](https://www.service-public.fr/particuliers/vosdroits/R51612) pour savoir si un certificat est requis
+- Majeurs: certificat sportif valable 3 ans sauf exceptions (voir [Disciplines nécessitant un certificat](#disciplines-nécessitant-un-certificat-de-sport-annuel))
+- Mineurs: [questionnaire de santé](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486824) sauf exceptions (cf ci-dessus). Certificat médical requis si ≥ 1 réponse positive.  
+  Pour les parents: [simulateur de Service-public.fr](https://www.service-public.fr/simulateur/calcul/certificatMedical) pour savoir si un certificat est requis
 - Préciser l'accès aux compétitions le cas échéant
+- Indications à l'ECG, au test d'effort et à l'échocardiographie (voir *Examens*)
 - Informer systématiquement sur les *10 règles d'or* de la pratique sportive
 - La consultation n'est pas prise en charge par l'*Assurance Maladie*
-- La mort subite atteint quasi exclusivement les hommes d'âge moyen et il est bien plus efficace d'apprendre à masser, de signaler les symptômes à l'effort et de corriger les FRCV avant les accidents *[Anys 2021](https://www.larevuedupraticien.fr/article/faut-il-un-screening-cardiaque-du-sportif-pour-ou-contre-2)*
+- La mort subite atteint quasi exclusivement les hommes d'âge moyen et il est bien plus efficace d'apprendre à masser, de signaler les symptômes à l'effort et de corriger les facteurs de risque cardiovasculaire avant les accidents (*[Anys 2021](https://www.larevuedupraticien.fr/article/faut-il-un-screening-cardiaque-du-sportif-pour-ou-contre-2)*)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -85,6 +86,9 @@ const chartOptions = {
 
 ### Abréviations
 
+CACI
+: certificat d'absence de contre-indication
+
 EE
 : épreuve d'effort
 
@@ -117,8 +121,7 @@ Dites << disciplines à contraintes particulières >>:
   {{%class%}}Sauf modélisme automobile radioguidé.{{%/class%}}
 - Conduite d'aéronef *en compétition*  
   {{%class%}}Sauf aéromodélisme.{{%/class%}}
-- Rugby  
-  À XV, XIII et à VII.
+- Rugby à XV, XIII et VII
 
 > [Ministère chargé des sports](https://sports.gouv.fr/accueil-du-site/actualites/article/le-certificat-medical-de-non-contre-indication-a-la-pratique-sportive-remplace)  
 [Savoir s'il faut un certificat médical pour obtenir une licence sportive (Simulateur)](https://www.service-public.fr/particuliers/vosdroits/R51612)
@@ -141,8 +144,7 @@ L'inscription à une *compétition* nécessite la présente d'une license sporti
 - Antécédents familiaux  
   Cardiopathie, mort subite.
 - Antécédents personnels
-- Facteurs de risque cardiovasculaire
-- {{< modal-btn modal-risque-cv >}}Risque cardiovasculaire{{< /modal-btn >}}
+- Facteurs de risque cardiovasculaire et {{< modal-btn modal-risque-cv >}}risque cardiovasculaire{{< /modal-btn >}}
 - Vaccinations
 - Examen clinique rachis et cardio-vasculaire +++
   - Pression artérielle aux 2 bras, fréquence cardiaque
@@ -153,34 +155,34 @@ L'inscription à une *compétition* nécessite la présente d'une license sporti
   - Cardiomyopathie, myocardite (temporaire)
   - Sport de combat. Myopie forte, organe pair unique. Avis ophtalmo.
   - Plongée. Antécédent de pneumothorax, troubles ORL
-- Intérêt de l'ECG de repos 12D de 12 à 35 ans
-  - Compétition 12-20 ans: tous les 3 ans (*SFC*)
-  - Compétition 20-35 ans: tous les 5 ans (*SFC*)
-  - Intérêt de l'épreuve d'effort ≥ 35 ans
 - Éducation (voir *Information des sportifs*)
 - Enquête familiale  
   Indications: mort subite chez ≤ 45 ans ou cause héréditaire avérée.
 - Porteur de défibrillateur  
   Seuls les sports de type 1A sont autorisés (bowling, golf, pétanque).
 
-### Indications à l'épreuve d'effort (EE)
+{{% /collapse %}}
+{{%collapse "Examens chez les sportifs" %}}
 
-- Sportif avec [angor]({{< relref "syndrome-coronarien-chronique.md" >}}) (*ESC 2018*)
-- Sportif avec {{< modal-btn modal-risque-cv >}}risque CV élevé ou très élevé{{< /modal-btn >}} (*ESC 2018*)
-- Envisagée si asymptomatique avec {{< modal-btn modal-risque-cv >}}risque CV modéré{{< /modal-btn >}} débutant une {{< modal-btn modal-met >}}activité intense{{< /modal-btn >}} (> 6 METs)(*ESC 2018*)
-- Tabagisme
-- ≥ 2 FRCV
-- Reprise du sport après une interruption prolongée
-- Sport à haut risque IIIc selon Mitchell  
-Aviron, cyclisme, tri/décathlon, boxe.
-- Homme ≥ 45 ans ou femme ≥ 55 ans
-- ECG de repos anormal
+### Indications à l'électrocardiogramme chez le sportif
 
-> *Marijon 2021*
+Critères de réalisation d'un électrocardiogramme (ECG) 12 dérivations chez le sportif de haut niveau ou licencié (compétition ou non):
 
-L'épreuve d'effort est menée jusqu'à épuisement (et non à 80% de la FMT).
+- 12-25 ans: tous les 3 ans
+- 25-35 ans: un ECG si jamais eu
+- Adulte de haut niveau: une échocardiographie
 
-[Liste nationale de centres recommandés par le Club des Cardiologues du Sport (non exhaustive)](https://www.clubcardiosport.com/etablissements-v02-max)
+> *SFC 2022*
+
+### Indications au test d'effort maximal
+
+- Homme +40 ans ou femme ménopausée sédentaire reprenant une {{< modal-btn modal-met >}}activité intense{{< /modal-btn >}}
+- Sportif symptomatique ([angor]({{< relref "syndrome-coronarien-chronique.md" >}}), perte de performances)
+- Sportif à {{< modal-btn modal-risque-cv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
+
+> *SFC 2022*
+
+[Liste nationale de centres de tests d'effort recommandés par le Club des Cardiologues du Sport (non exhaustive)](https://www.clubcardiosport.com/etablissements-v02-max)
 
 {{% /collapse %}}
 {{%collapse "Information des sportifs" %}}
@@ -188,7 +190,7 @@ L'épreuve d'effort est menée jusqu'à épuisement (et non à 80% de la FMT).
 > << Appeler - masser - défibriller >> (93% des morts subites au sport arrivent devant témoin)  
 [FédéCardio: Savez-vous sauver ?](https://fedecardio.org/je-me-teste/savez-vous-sauver/)
 
-Informer sur les 10 règles d'or:
+Informer sur les 10 règles d'or pour le sportif:
 
 1. Signaler toute douleur dans la poitrine ou essoufflement anormal à l'effort
 2. Signaler toute palpitation cardiaque survenant à l'effort ou juste après
@@ -199,7 +201,7 @@ Informer sur les 10 règles d'or:
 7. Ne pas fumer et jamais dans les 2h qui suivent le sport
 8. Jamais de dope et éviter l'automédication
 9. Pas de sport intense si fièvre ou dans les 8 jours suivant un épisode grippal  
-Informer: les microbes ne sont pas éliminés par la sueur.
+  Informer: les microbes ne sont pas éliminés par la sueur.
 10. Bilan médical avant de reprendre une activité sportive à partir de 35 ans si homme, 45 ans si femme
 
 > *[ClubCardioSport. Les 10 règles d'or. Argumentaire. (PDF)](https://www.clubcardiosport.com/sites/www.clubcardiosport.com/files/inline-files/argu_scientifique.pdf)*
@@ -216,6 +218,7 @@ Informer: les microbes ne sont pas éliminés par la sueur.
 {{% /collapse %}}
 {{%sources%}}
 
+- [CCS, GERS-P. Position commune du Club des Cardiologues du Sport (CCS) et du Groupe Sport (GERS-P) de la Société Française de Cardiologie sur le bilan cardio-vasculaire recommandé pour la pratique sportive. 2022.](https://www.sfcardio.fr/publication/recommandations-sur-le-bilan-cardiovasculaire-recommande-pour-la-pratique-sportive)
 - [Marijon E et al. Prévention de la mort subite du sportif : état des lieux. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/J.AMCP.2021.04.003)
 - [Journal Officiel. Décret 2021-564. 07/05/2021.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486809)
 - [CNOM. Certificats de non contre-indication à la pratique du sport. Médecins n°69. sept-oct 2020](https://www.conseil-national.medecin.fr/sites/default/files/external-package/bulletin/m05mhm/medecins_69.pdf)
@@ -229,7 +232,6 @@ Informer: les microbes ne sont pas éliminés par la sueur.
 
 ### Bibliographie en attente
 
-- [CCS, GERS-P. Position commune du Club des Cardiologues du Sport (CCS) et du Groupe Sport (GERS-P) de la Société Française de Cardiologie sur le bilan cardio-vasculaire recommandé pour la pratique sportive. 2022.](https://www.sfcardio.fr/publication/recommandations-sur-le-bilan-cardiovasculaire-recommande-pour-la-pratique-sportive)
 - SFC 2009
 - [Recommendations for competitive sports participation in athletes with cardiovascular disease: A consensus document from the Study Group of Sports Cardiology of the Working Group of Cardiac Rehabilitation and Exercise Physiology and the Working Group of Myocardial and Pericardial Diseases of the European Society of Cardiology.](https://academic.oup.com/eurheartj/article/26/14/1422/560900)
 - [Recommendations for participation in leisure-time physical activity and competitive sports of patients with arrhythmias and potentially arrhythmogenic conditions Part II: Ventricular arrhythmias, channelopathies and implantable defibrillators.](https://academic.oup.com/eurjpc/article/13/5/676/5933252)

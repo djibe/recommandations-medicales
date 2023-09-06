@@ -138,15 +138,14 @@ TUA
 - Accidents
   - Décès sur la route: 1/3 par alcool
   - Risque mortel: x 8 (x 6 de 0,5 à 0,8 g/L)
-- Handicap  
-  Alcoolisation fœtale est la première cause de handicap non génétique.
+- Handicap: l'alcoolisation fœtale est la première cause de handicap non génétique
 
 #### Croyances sur l'alcool en France
 
 - 77% ignorent que l'alcool est la 2<sup>e</sup> cause de mortalité (*[La ligue 2018](https://www.ligue-cancer.net/article/46014_une-forte-majorite-des-francais-en-faveur-des-mesures-efficaces-pour-reduire-la)*)
-- 54% n'ont pas le sentiment de prendre de risques en consommant (même > 10 verres/semaine, *La ligue 2018*)
+- 54% n'ont pas le sentiment de prendre de risques en consommant (même +10 verres/semaine, *La ligue 2018*)
 - 40% pensent qu'il n'engendre que le cancer du foie (*La ligue 2018*)
-- 75% ignorent les risques pendant la grossesse (*BVA 2015*)
+- 54% ignorent les risques dès le premier verre pendant la grossesse (*BEH 2023*)
 
 {{% /collapse %}}
 {{%collapse "Repérage d'un mésusage de l'alcool" "show" %}}
@@ -640,6 +639,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 {{< youtube id="OPs09amiMC0" title="Prise en charge de la maladie du foie liée à l'alcool (AFEF Medical Education)" >}}
 
+- [Quatremère G et al. Grossesse et alcool : évolution des connaissances et perceptions des Français entre 2004 et 2020. Bull Épidémiol Hebd. 2023.](http://beh.santepubliquefrance.fr/beh/2023/17/2023_17_1.html)
 - [SFA, ANPAA, EUFAS. Mésusage de l'alcool : dépistage, diagnostic et traitement. 2023. (PDF)](https://sfalcoologie.fr/wp-content/uploads/RECOS-SFA-Version-2023-2.pdf)
 - [Agabio R. et al. Baclofen for alcohol use disorder. Cochrane Database of Systematic Reviews. 2023.](https://www.cochrane.org/CD012557/ADDICTN_baclofen-alcohol-use-disorder)
 - [SFA. Repères de consommation d'alcool à moindre risque : les abaisser chez les plus jeunes ?. 08/08/2022. (PDF)](http://www.sfalcoologie.asso.fr/download/2022-CP_alcool-SFA-2022_08_08.pdf)
@@ -656,6 +656,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 ### Bibliographie en attente
 
+- [European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Management of alcohol-related liver disease. J Hepatol. 2018.](https://www.journal-of-hepatology.eu/article/S0168-8278(18)30214-9/fulltext)
 - [Inserm. Réduction des dommages associés à la consommation d'alcool. Synthèses et recommandations. 2021.](https://www.inserm.fr/expertise-collective/reduction-dommages-associes-consommation-alcool/)
 - [Fédération Française d'Addictologie](https://www.addictologie.org/)
 - [Société Française d'Alcoologie. Documents de référence.](http://www.sfalcoologie.asso.fr/page.php?choix=A10)
@@ -663,11 +664,10 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 - [LiSSA Alcool](https://www.lissa.fr/dc/#env=lissa&q=alcool&p=1)
 - J. Rehm, Section of Cancer Surveillance, International Agency for Research on Cancer, Lyon, France
 - Risque vie-entière d'un décès attribuable à l'alcool en France chez les femmes/hommes
-- Prescrire
 - [OFDT. La consommation d'alcool et ses conséquences en France en 2021. 2022](https://www.ofdt.fr/publications/collections/bilans/la-consommation-dalcool-et-ses-consequences-en-france-en-2021/)
 - [Barrault C. Sevrage en alcool et maladies chroniques du foie. POST'U. 2020.](https://www.fmcgastro.org/texte-postu/postu-2020-paris/sevrage-en-alcool-et-maladies-chroniques-du-foie/)
 - [Le CMG. Addictions en médecine générale.](https://lecmg.fr/addictionsmg/)
-- [Bråthen G. et al. EFNS guideline on the diagnosis and management of alcohol-related seizures: report of an EFNS task force. European Journal of Neurology. 2005.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2005.01247.x)
+- [Bråthen G et al. EFNS guideline on the diagnosis and management of alcohol-related seizures: report of an EFNS task force. European Journal of Neurology. 2005.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2005.01247.x)
 - CUNEA
 
 {{%/sources%}}

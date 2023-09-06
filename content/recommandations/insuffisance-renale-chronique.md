@@ -320,9 +320,9 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
 
 ### Prise en charge de la maladie rénale chez le diabétique
 
-Mesures précédentes avec les particularités suivantes (*ADA 2023* et *KDIGO 2022*):
+Mesures précédentes avec les particularités suivantes (*ADA*, *ESC 2023* et *KDIGO 2022*):
 
-- {{< modal-btn modal-statine-intensite >}}Statine de moyenne à forte intensité{{< /modal-btn >}} selon le {{< modal-btn modal-rcv >}}RCV{{< /modal-btn >}}  
+- {{< modal-btn modal-statine-intensite >}}Statine de moyenne à forte intensité{{< /modal-btn >}} (± ézétimibe) selon le {{< modal-btn modal-rcv >}}RCV{{< /modal-btn >}}  
   Ne pas introduire au stade terminal, évaluer la poursuite à ce stade.
 - Albuminurie cible < 3 mg/mmol
   - Contrôle par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} + anti-aldostérone finérénone (Karendia®, pas encore disponible) si non contrôlée (si DFG DFG ≥ 25 et kaliémie normale)
@@ -330,7 +330,7 @@ Mesures précédentes avec les particularités suivantes (*ADA 2023* et *KDIGO 2
 - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}}  
     8% si IRC sévère ou terminale.
 - Suivi diabétologique impératif
-- DFG ≥ 20: {{< modal-btn modal-isglt2 >}}iSGLT2/gliflozine{{< /modal-btn >}}  
+- DFG ≥ 20: {{< modal-btn modal-isglt2 >}}iSGLT2 / gliflozine{{< /modal-btn >}} (cana, empa ou dapagliflozine)
 - Traitements hypoglycémiants préférés: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}
 - Régime désodé < 5 g/j
 - Attention au risque hypoglycémique (sulfamide, glinide, insuline)

@@ -356,10 +356,10 @@ Dans l'attente de la MAPA: observance, automesures avec appareil validé, revér
 ### Bilan initial de l'hypertension artérielle
 
 {{%info%}}
-Bilan après 8 heures de jeûne:
+Bilan HTA:
 
 - NFS
-- Glycémie
+- Glycémie à jeun
 - Bilan lipidique: LDL, HDL, CT, TG
 - Acide urique (marqueur de RCV)
 - Calcémie
@@ -393,10 +393,10 @@ Bilan après 8 heures de jeûne:
   Cible < 94 cm homme et 80 cm femme.
 - Activité physique quotidienne
   - Au moins 2h30 à 5h d'{{< modal-btn modal-met >}}intensité modérée{{< /modal-btn >}} hebdomadaire (ou la moitié d'intense)
-  - Renforcement musculaire 2-3/sem
+  - Renforcement musculaire 2-3 fois par semaine
 - {{%modal-btn "modal-rcv"%}}LDL cible selon le risque cardiovasculaire{{%/modal-btn%}}
 - Pas de bénéfice avec l'aspirine en prévention primaire
-- Controle stress: méditation, yoga
+- Contrôle du stress: méditation, yoga
 - Associations de patients: [Comité Français de Lutte Contre l'Hypertension Artérielle (CFLCHTA)](http://www.comitehta.org), [Fédération Française de Cardiologie](https://fedecardio.org)
 
 > *ESH 2023* et *ESC 2021*
@@ -408,7 +408,7 @@ La prise en charge de l'hypertension est toujours associée aux mesures hygiéno
 
 - Privilégier d'emblée une bithérapie en essayant de conserver un seul comprimé
 - Titration jusqu'à la dose maximale tolérée (diastolique minimale: 70 mmHg)
-- Aucune différence entre une prise le matin ou le soir (*étude TIME*) mais **observance meilleure le matin**
+- Aucune différence entre une prise le matin ou le soir (*étude TIME*) mais **observance meilleure le matin** (*ESH 2023*)
 - Pas d'arrêt du traitement sur le seul critère d'âge
 - Les bêtabloquants sont privilégiés en cas de maladie cardiovasculaire ([insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [angor]({{< relref "syndrome-coronarien-chronique.md" >}}), infarctus, [FA]({{< relref "fibrillation-atriale.md" >}})) ou grossesse  
 - Suivi 1-2/mois jusqu'à la cible (*ESH 2023*) puis contrôle à 3-6 mois la première année
@@ -480,7 +480,7 @@ Particularités de l'hypertension artérielle pendant la grossesse:
   PAS ≥ 140 mmHg et/ou PAD ≥ 90 mmHg avec brassard manuel ou appareil validé.
 - Classification différente
   - HTA modérée: 140-159/90-109 mmHg
-  - HTA sévère: ≥ 160/110 mmHg, nécessite une hopsitalisation en urgence
+  - HTA sévère: ≥ 160/110 mmHg, nécessite une hospitalisation en urgence
 - [Tensiomètres pour la grossesse](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=pregnancy)
 - Traiter si ≥ 140/90 mmHg
 - Tension cible < 140/90 mmHg

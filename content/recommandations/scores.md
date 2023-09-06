@@ -119,7 +119,7 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< clinique/risque-cardiovasculaire >}}
 
 {{% /modal %}}
-{{% modal title="Diabète et RCV selon ESC 2019" id="modal-rcv-diabete"%}}
+{{% modal title="Diabète et RCV selon ESC 2023" id="modal-rcv-diabete"%}}
 
 {{< clinique/risque-cardiovasculaire-diabete >}}
 

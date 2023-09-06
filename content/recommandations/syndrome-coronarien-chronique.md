@@ -242,7 +242,7 @@ Mesures spécifiques pour la prise en charge de la cardiopathie ischémique stab
   - Si angine persistante, anti-angineux de deuxième intention: nitré d'action longue [patch](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63785468&typedoc=R) ou [oral](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66327091&typedoc=R) (pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14 h/j)  
   ou [nicorandil](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66925249&typedoc=R), [ivabradine](https://ec.europa.eu/health/documents/community-register/2023/20230223158431/anx_158431_fr.pdf), [trimétazidine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61020245&typedoc=R) (ranolazine non disponible en France), voir tableau plus bas
 - Aspirine 75-100 mg/j à considérer en l'absence d'IDM ou de revascularisation
-  - Clopidogrel 75 mg/j si intolérance, [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) ou [AIC/AIT]({{< relref "accident-vasculaire-cerebral.md" >}})
+  - Clopidogrel 75 mg/j si intolérance (sans IPP), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) ou [AIC/AIT]({{< relref "accident-vasculaire-cerebral.md" >}})
   - Voire bi-antithrombotique si haut risque ischémique (score Precise-DAPT)
   - IPP si haut risque de saignement (à venir: *ESC DAPT*)
 - [Vaccination grippe]({{< relref "grippe.md" >}})

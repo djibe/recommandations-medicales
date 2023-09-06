@@ -13,7 +13,7 @@
     "favicon": "real-favicon generate \"./build/faviconDescription.json\" \"./build/favicons/\"",
     "html:lint-vnu": "hugo && node build/vnu-jar.js",
     "html:lint-validate": "npm start && npm exec html-validate \"public/**/*.html\"",
-    "hugo:debug": "hugo --cleanDestinationDir --minify --debug --logFile ./hugo.log --verboseLog",
+    "hugo:debug": "hugo --cleanDestinationDir --minify --logLevel debug",
     "hugo:update": "choco upgrade hugo-extended -y",
     "links-md:check": "linkinator content/**/*.md --config ./build/linkinator.config.json 2> debug-linkinator.log",
     "links-external:check": "linkinator public/recommandations/**/*.html --config ./build/linkinator-html.config.json 2> debug-linkinator-html.log",

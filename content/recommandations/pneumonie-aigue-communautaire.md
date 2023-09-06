@@ -241,7 +241,7 @@ Indications à la vaccination anti-pneumococcique:
 {{%collapse "Traitement ambulatoire de la pneumonie aiguë communautaire" %}}
 
 En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-pneumonie): antibiothérapie urgente probabiliste **pendant 5 jours** avec réévaluation systématique à 48-72 heures (7 jours en cas de persistance de syndrome infectieux, 14 jours pour la légionelle selon *SPILF 2020*)
-{.alert .alert-info}
+{.alert .alert-warning}
 
 Consultation urgente en cas de dégradation avant la réévaluation clinique.
 
@@ -255,6 +255,8 @@ Antibiothérapie selon l'orientation du tableau clinique.
 
 {{%info%}}
 
+Traitement antibiotique probabiliste pendant **5 jours** avec réévaluation systématique à 48-72 heures (7 jours en cas de persistance de syndrome infectieux, 14 jours pour la légionelle selon *SPILF 2020*):
+
 - [Amoxicilline 1g](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) x 3/j  
   Enfant: 80-100 mg/kg/j en 3 prises (max 3 g/j - *SFP*).
 - Si allergie: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j (Pyostacine® à partir de 6 ans, double sensibilité pneumocoque + intracellulaires)
@@ -266,9 +268,9 @@ Antibiothérapie selon l'orientation du tableau clinique.
 
 > Pédiatrie: << La normalisation complète n'est pas observée avant plusieurs semaines. >> (*CNPU*)
 
-En cas de **pneumonies récidivantes** d'un même territoire, évoquer un corps étranger ou une tumeur.
+En cas de **pneumonies récidivantes** d'un même territoire, évoquer un **corps étranger** ou une **tumeur**.
 
-##### Suspicion de bactérie atypique
+##### Suspicion de pneumonie à bactérie atypique
 
 Macrolide spiramycine 3 MUI x 2-3/j pendant 14 jours (peu d'interactions ou azithromycine, clarithromycine 500 mg x 2/j).
 

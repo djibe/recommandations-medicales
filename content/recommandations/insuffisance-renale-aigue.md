@@ -177,7 +177,7 @@ Risque d'insuffisance rénale aiguë post-contraste selon la voie d'injection:
 
 {{< mermaid title="Prise en charge d'une insuffisance rénale aiguë. Dr JB Fron d'après Collèges et KDIGO 2012" >}}
 graph TB
-  IRA["<b>Insuffisance rénale aiguë</b><br>—<br>Aug. créatininémie<br>≥ 26,5 µmol/L en 48h<br>ou ≥ 50% en 7 jours<br>ou oligoanurie"] --> clinique("<b>Clinique</b><br>—<br>- Derniers bilans<br>- Constantes<br>- Traitements imputables<br>- Pathologie aiguë<br>- Dyspnée<br>- Globe urinaire") --> urgences("Urgences<br>voire SAMU")
+  IRA["<b>Insuffisance rénale aiguë</b><br>—<br>Aug. créatininémie<br>≥ 26,5 µmol/L en 48h<br>ou ≥ 50% en 7 jours<br>ou oligoanurie ≥ 6h"] --> clinique("<b>Clinique</b><br>—<br>- Derniers bilans<br>- Constantes<br>- Traitements imputables<br>- Pathologie aiguë<br>- Dyspnée<br>- Globe urinaire") --> urgences("Urgences<br>voire SAMU")
   style IRA stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

@@ -282,7 +282,7 @@ Traitements des douleurs neuropathiques de référence:
   - **Ordonnance sécurisée** (rechercher un mésusage) | arrêt progressif | peu d'interactions
   - Effets indésirables: somnolence, vertiges, prise de poids et œdèmes périphériques
 - Antidépresseurs tricycliques
-  - Amitriptyline (moins bien tolérée, Elavil®, Laroxyl®), [clomipramine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68990612&typedoc=R) (Anafranil®, gén), imipramine (Tofranil®)
+  - Amitriptyline (moins bien tolérée), [clomipramine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68990612&typedoc=R) (Anafranil®, gén), imipramine (Tofranil®)
   - Préférer 10-50 mg/j. Avis spécialisé à +50 mg/j. Surveillance cardiaque quand +75 mg/j
   - Contre-indications: glaucome, HPB, infarctus récent ou troubles du rythme
   - Effets indésirables: somnolence et prise de poids, anticholinergiques. Levée d'inhibition avec risque suicidaire

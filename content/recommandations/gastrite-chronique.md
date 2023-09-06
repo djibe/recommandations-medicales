@@ -36,6 +36,9 @@ todo = ""
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
+Biermer: vitamine B12 1 mg oral pendant 10 jours puis 1 mg/semaine pendant 1 mois puis 1 mg/mois (Bolaman Z et al. Clin Ther 2003)
+
+2 mg/j oral pendant 120 jours (Kuzminski et al. Blood. 1998.)
 
 {{% /collapse %}}
 {{%sources%}}

@@ -55,7 +55,7 @@ Diagnostics à étayer devant un tableau de toux aiguë:
 ### Épidémiologie de la grippe en France
 
 - 10.000 morts/an dont +90% chez les +65 ans.
-- Couverture vaccinale 2019-2020 des personnes à risque: 45% (objectif OMS 75%).
+- Couverture vaccinale 2019-2020 des personnes à risque: 45% (objectif *OMS* de 75%), 21% chez les femmes enceintes (*BEH 2023*)
 - Admis en réanimation pour grippe: mortalité de 20%.
 
 {{%/collapse%}}

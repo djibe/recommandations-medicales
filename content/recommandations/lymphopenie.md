@@ -62,7 +62,7 @@ Les lymphopénies peuvent être classées selon leur mécanisme supposé:
   - [Cancers](/tags/cancer/), radiothérapie, chimiothérapies
   - Immunosuppresseurs, corticothérapie
   - [Infection VIH]({{< relref "vih-sida.md" >}})
-  - Lupus systématique (prévalence 75%)
+  - Lupus systémique (prévalence 75%)
 - Modification de répartition des lymphocytes
   - Hypersplénisme
   - Certaines infections virales (rougeole, CMV, VRS, [grippe]({{< relref "grippe.md" >}}))
