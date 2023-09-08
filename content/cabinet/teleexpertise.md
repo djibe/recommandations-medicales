@@ -11,7 +11,7 @@ annees = "2023"
 sources = []
 tags = []
 image = true
-imageSrc = "Illustration de la téléexpertise par macrovector / Freepik"
+imageSrc = "de la téléexpertise par macrovector / Freepik"
 todo = "https://medicam.mipih.fr/"
 +++
 
@@ -79,7 +79,7 @@ La facturation d'une téléexpertise s'effectue toujours en mode *Sesam sans vit
 - La cotation est **RQD** (10€), non cumulable avec d'autres actes ou majorations
 - **Il faut appliquer le tiers payant AMO** (sinon c'est le patient qui sera payé !)
 
-La facturation de la téléexpertise peut être faite le jour même de la consultation mais la facturation est réalisée en 2 fois.
+La FSE de la téléexpertise peut être réalisée le jour de la consultation mais sur une feuille de soins dédiée (seul RQD doit figurer en tiers payant AMO).
 
 ### Facturer une téléexpertise en tant que médecin requis (expert)
 

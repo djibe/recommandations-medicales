@@ -86,9 +86,10 @@ Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{
 
 ### Vaccinations de l'enfant
 
-{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2023. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Calendrier Vaccinal 2023" >}}
+{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2023. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Calendrier Vaccinal 2023 et DGS Urgent 2023-14" >}}
 | Âge     | Valences      | Spécialités équivalentes       |
 |:-------:|---------------|--------------------------------|
+| Né après<br>le 6/2/23 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Beyfortus au mieux avant<br>la sortie de maternité |
 | 2 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
 | 3 mois  | Méningo B<br>Rotavirus<br>Prématuré: Pneumo 13 | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>Prevenar 13 |
 | 4 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS) | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 3/3 |

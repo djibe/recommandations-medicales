@@ -18,7 +18,7 @@ sctid = "38341003"
 icd10 = "I10"
 image = true
 imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik"
-todo = "normes enfants [925,930,931], clinical frailty scale [969] , SEO 'reco hta', modale automesure, A LIRE: Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, ESC 2018 tableau 4+19 - src157"
+todo = "normes enfants [925,930,931], clinical frailty scale [969] , SEO 'reco hta', modale automesure, A LIRE: Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, ESC 2018 tableau 4+19 - src157, https://afpa.org/outil/normes-cardiorespiratoires-utiles/"
 +++
 
 {{%article-summary%}}

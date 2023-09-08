@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2023-04-14"
+lastmod = "2023-09-07"
 specialites = ["infectiologie"]
 annees = "2023"
 sources = ["MinSanté", "HCSP"]
@@ -22,10 +22,10 @@ todo = "Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vaccinal http
 
 {{%article-summary%}}
 
-- [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
 - Rappel vaccinal de [la coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA), stratégie de cocooning sinon
 - Vaccination des +16 ans par les infirmiers et pharmaciens sans ordonnance pour: [grippe]({{< relref "grippe.md" >}}), dTcaPolio, [papillomavirus]({{< relref "cancer-col-uterus.md" >}}), pneumocoque, [hépatite A]({{< relref "hepatite-a.md" >}}) et [B]({{< relref "hepatite-b.md" >}}), méningocoques B et ACYW135 et la rage
-- Poser une question pour un cas vaccinal particulier: [Infovac App](https://app.infovac.fr/) (nécessite de créer un compte)
+- Poser une question pour un cas vaccinal particulier: [Infovac App](https://app.infovac.fr) (nécessite de créer un compte)
+- [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -58,9 +58,10 @@ VVA
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal 2023" "show" %}}
 
-{{< table title="Calendrier des vaccins recommandés en France en 2023. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Calendrier vaccinal 2023." >}}
+{{< table title="Calendrier des vaccins recommandés en France en 2023. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Calendrier vaccinal 2023 et DGS Urgent 2023-14." >}}
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
+|   Né après<br>le 6/2/23 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Beyfortus au mieux avant<br>la sortie de maternité                |
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
 |   3 mois   | Méningo B<br>Rotavirus<br>Prématuré: Pneumo 13       | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>Prevenar 13                        |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 3/3              |

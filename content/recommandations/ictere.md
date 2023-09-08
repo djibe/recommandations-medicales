@@ -146,6 +146,8 @@ Bilan de première intention en cas d'ictère:
 
 Autres examens selon le contexte.
 
+*Note de la rédaction*: intérêt de répéter les dosages de bilirubine.
+
 ### Bilan d'ictère de 2e intention selon l'orientation étiologique
 
 3 Situations selon les résultats du bilan de première intention:

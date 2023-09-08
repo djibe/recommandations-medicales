@@ -84,7 +84,7 @@ Diagnostics à évoquer devant une lésion évocatrice de sinus pilonidal:
 - Anomalies congénitales
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du kyste pilonidal" %}}
 
 Abstention thérapeutique pour un kyste pilonidal asymptomatique
 {.alert .alert-info}

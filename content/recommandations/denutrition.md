@@ -172,9 +172,9 @@ L'estimation des **besoins énergétiques totaux** applique au DEB un facteur de
 ### Estimation des besoins énergétiques de l'enfant (règle 100/50/25)
 
 {{< table title="Estimation du besoin énergétique de l'enfant (règle 100/50/25)" >}}
-| Poids attendu pour la taille (kg) |                       Apports (kcal) |
-|----------------------------------:|-------------------------------------:|
-|                              0-10 |                          100 kcal/kg |
+| Poids attendu pour<br>la taille (kg) | Apports quotidiens (kcal)            |
+|----------------------------------:|--------------------------------------|
+|                              0-10 | 100 kcal/kg                          |
 |                             10-20 | 1000 + 50 kcal/kg au-dessus de 10 kg |
 |                              > 20 | 1500 + 25 kcal/kg au-dessus de 20 kg |
 {{< /table >}}
