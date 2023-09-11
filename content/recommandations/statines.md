@@ -6,10 +6,10 @@ synonyms = ["Hypolipémiants"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-17T13:36:17+01:00"
 publishdate = "2022-03-17"
-lastmod = "2023-08-24"
+lastmod = "2023-09-10"
 specialites = ["therapeutique"]
-annees = "2022"
-sources = ["USPTF", "ESC", "ESH"]
+annees = "2023"
+sources = ["ESC", "USPTF", "ESH"]
 tags = ["risque cardiovasculaire"]
 anglais = ["Statin"]
 sctid = "372912004"
@@ -34,7 +34,7 @@ imageSrc = "Illustration des statines par macrovector / Freepik"
 {{< traitements/statine-intensite >}}
 
 {{% /collapse %}}
-{{%collapse "Objectif de LDL" %}}
+{{%collapse "Objectif de LDL cholestérol" %}}
 
 > << Le traitement par statine est associé à une réduction des complications cardiovasculaires proportionnelle à la baisse du LDL-cholestérol >> (*ESH 2023*)
 {.alert .alert-info}
@@ -46,8 +46,6 @@ La réduction du LDL cholestérol a les mêmes bénéfices cardiovasculaires che
 La cible de LDL cholestérol dépend des antécédents cardiovasculaires figurant ci-dessous.
 
 {{< clinique/risque-cardiovasculaire >}}
-
-> *ESC CVD 2021*
 
 L'[évaluation chez la personne avec un diabète]({{< relref "diabete-type-2.md" >}}) est différente.
 
@@ -87,6 +85,12 @@ Débuter un traitement par statine:
 {{% /collapse %}}
 {{%collapse "Statines et effets indésirables" %}}
 
+### Statines et surrisque de diabète
+
+Les statines entraînent un sur-risque de diabète de 9%, négligeable par rapport à la réduction des complications cardiovasculaires qu'elles engendrent chez la personne vivant avec un diabète.
+
+> *{{< references/esc-diabetes-2023 >}}*
+
 ### Statines et myalgies
 
 Les myalgies réellement liées aux statines sont rares.
@@ -101,12 +105,14 @@ Chez des patients ayant arrêté leur traitement pour myalgies (douleurs muscula
 
 > *[Wood FA et al. N-of-1 Trial of a Statin, Placebo, or No Treatment to Assess Side Effects. N Engl J Med. 2020.](https://www.nejm.org/doi/10.1056/NEJMc2031173)*, corroborée par *[Cholesterol Treatment Trialists' Collaboration 2022](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01545-8/fulltext)*
 
-Pas de différences entre les statines concernant la survenue de myalgies.  
-La survenue de myalgies survenue intervient durant la première année de traitement (sauf statine de haute intensité comme l'atorvastatine et la rosuvastatine).
+Pas de différences entre les statines concernant la survenue de myalgies. La survenue de myalgies survenue intervient durant la première année de traitement (sauf statine de haute intensité comme l'atorvastatine et la rosuvastatine).
 
 > *[Cholesterol Treatment Trialists' Collaboration 2022](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01545-8/fulltext)*
 
 ### Statine mal tolérée
+
+> << 70-90% des patients qui rapportent une intolérance aux statines peuvent en tolérer une après un nouvel essai >> - *{{< references/esc-diabetes-2023 >}}*
+{.alert .alert-info}
 
 En cas de complications attribuables à une statine:
 

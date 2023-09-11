@@ -25,7 +25,7 @@ todo = "rankok, flowchart, zona en pédiatrie"
   zona ophtalmique, +50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs intenses en phase aiguë, lésions cutanées graves)
 - Critères d'hospitalisation du zona en urgence: immunodépression, atteinte organique ou [paralysie faciale zostérienne]({{< relref "paralysie-faciale-idiopathique.md" >}})
 - Vaccination post-exposition (varicelle) si ≥ 12 ans immunocompétent sans antécédent de varicelle en contact avec un cas de zona, après sérologie
-- Vaccination zona de 65 à 74 ans avec une dose
+- Vaccination zona de 65 à 74 ans avec une seule dose par le médecin (vaccin vivant)
 - [PCR VIH]({{< relref "vih-sida.md" >}}) en cas de zona avant 50 ans
 
 {{%/article-summary%}}
@@ -133,9 +133,11 @@ Ulcérations pseudo-membraneuses et vésicules de l'hémilangue.
 
 Vaccin vivant: [Zostavax®](https://ec.europa.eu/health/documents/community-register/2019/20191024146373/anx_146373_fr.pdf) (104,74€, remb. 30% SS).
 
-**Indication:** Dose unique sous-cutanée de 65 à 74 ans (y compris en antécédents de zona, *Calendrier vaccinal*). Le *GOLD 2022* propose aussi de vacciner en cas de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}).  
+**Indication:** dose unique sous-cutanée de 65 à 74 ans (y compris en antécédents de zona, *Calendrier vaccinal*). Le *GOLD 2022* propose aussi de vacciner en cas de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}).  
 **Contre-indication:** grossesse, immunodépression.  
 **Avis de Prescrire®:** Efficacité modeste. Pas d'intérêt à une vaccination systématique.
+
+Comme tous les vaccins vivants, la vaccination anti-zostérienne doit être réalisée par un médecin ([arrêté 2022-610](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045638858)).
 
 ### Vaccination post-exposition du zona
 

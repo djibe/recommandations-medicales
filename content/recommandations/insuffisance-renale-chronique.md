@@ -293,9 +293,9 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
    par anticalcique dihydropyridine ou thiazidique.
   - Automesure tensionnelle
 - {{< modal-btn modal-statine-intensite >}}Statine de moyenne intensité{{< /modal-btn >}}
-  - {{< modal-btn modal-rcv >}}RCV très élevé{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction +50%  
+  - {{< modal-btn modal-rcv >}}RCV très élevé{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction de +50%  
     IRC sévère ou modérée avec albuminurie &gt; 3 ; diabète et DFG < 45 ou DFG 45-59 avec albu 3-30 ou albu +30
-  - {{< modal-btn modal-rcv >}}RCV élevé{{< /modal-btn >}}: LDL cible < 0,7 g/L et réduction +50%  
+  - {{< modal-btn modal-rcv >}}RCV élevé{{< /modal-btn >}}: LDL cible < 0,7 g/L et réduction de +50%  
     Toutes les autres atteintes rénales.
 - **Albuminurie cible** < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}  
   Envisager la {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}} (*ESC 2021*). Pour tous si DFG > 20 selon *ESH 2023*.
@@ -322,16 +322,15 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
 
 Mesures précédentes avec les particularités suivantes (*ADA*, *ESC 2023* et *KDIGO 2022*):
 
-- {{< modal-btn modal-statine-intensite >}}Statine de moyenne à forte intensité{{< /modal-btn >}} (± ézétimibe) selon le {{< modal-btn modal-rcv >}}RCV{{< /modal-btn >}}  
+- {{< modal-btn modal-statine-intensite >}}Statine de moyenne à forte intensité{{< /modal-btn >}} (± ézétimibe) selon le {{< modal-btn modal-rcv-diabete >}}RCV{{< /modal-btn >}}  
   Ne pas introduire au stade terminal, évaluer la poursuite à ce stade.
 - Albuminurie cible < 3 mg/mmol
-  - Contrôle par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} + anti-aldostérone finérénone (Karendia®, pas encore disponible) si non contrôlée (si DFG DFG ≥ 25 et kaliémie normale)
+  - Contrôle par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} + anti-aldostérone finérénone (Karendia®, pas encore disponible) si non contrôlée (si DFG ≥ 25 et kaliémie normale)
   - Albuminurie et normotension: considérer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}
-- {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}}  
-    8% si IRC sévère ou terminale.
+- {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}} (8% si IRC sévère ou terminale)
 - Suivi diabétologique impératif
-- DFG ≥ 20: {{< modal-btn modal-isglt2 >}}iSGLT2 / gliflozine{{< /modal-btn >}} (cana, empa ou dapagliflozine)
-- Traitements hypoglycémiants préférés: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}
+- DFG ≥ 20: **{{< modal-btn modal-isglt2 >}}iSGLT2 / gliflozine{{< /modal-btn >}}** (cana, empa ou dapagliflozine)
+- Traitements hypoglycémiants préférés: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}} voire {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}
 - Régime désodé < 5 g/j
 - Attention au risque hypoglycémique (sulfamide, glinide, insuline)
 
@@ -507,6 +506,11 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+{{% modal title="Diabète et RCV selon ESC 2023" id="modal-rcv-diabete"%}}
+
+{{< clinique/risque-cardiovasculaire-diabete >}}
 
 {{% /modal %}}
 {{% modal title="Facteurs de risque de fracture" id="modal-risque-fracture"%}}

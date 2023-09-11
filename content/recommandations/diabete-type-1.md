@@ -7,7 +7,7 @@ description = "Recommandations pour le diagnostic, le suivi et la prise en charg
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-04T19:15:12+02:00"
 publishdate = "2020-11-04"
-lastmod = "2023-09-05"
+lastmod = "2023-09-11"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["ESC", "EASD", "ADA", "SFD"]
@@ -115,7 +115,7 @@ Trame des éléments à relever pour un dossier médical complet.
 - Activité physique
 - Tabagisme, alcool, toxiques
 
-### Gestion du diabète
+### Gestion du diabète type 1
 
 - Schéma insulinique actuel
   - Basal - bolus
@@ -180,17 +180,18 @@ Trame des éléments à relever pour un dossier médical complet.
 {{%/collapse%}}
 {{% collapse "Les points vitaux du diabète type 1" "show" %}}
 
-- Toute personne avec un diabète type 1 est à cardiovasculaire au moins {{< modal-btn modal-rcv-diabete >}}modéré{{< /modal-btn >}} (*ESC 2019*)
-  - Très élevé si complication micro ou macrovasculaire ou si ≥ 3 FRCV
-  - Modéré si âge < 35 sans complication
+- Toute personne avec un diabète type 1 est à risque cardiovasculaire au moins modéré (*ESC 2019*)
 - Arrêt du tabac (également électronique et passif)  
-  Information sur le risque d'hypo avec tout toxique (alcool, cannabis, cocaïne).
-- Hypertension artérielle  
-  Objectif tensionnel **< 130/80** mmHg (*ESC 2019*).
+  Information sur le risque d'hypoglycémie avec tout toxique (alcool, cannabis, cocaïne).
+- Hypertension artérielle
+  - MAPA régulières
+  - Objectif tensionnel **< 130/80** mmHg (*ESC 2019*)
+  - IEC/ARA2 dès signe d'atteinte rénale (albuminurie ++)
 - Dyslipidémie
-  - L'objectif de LDL dépend du {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}
-  - +40 ans: considérer une statine en prévention primaire  (*ESC 2023 diabetes*)
-  - Avant 40 ans: considérer une statine si autres FRCV, microangiopathie ou risque à 10 ans ≥ 10% (modèle écossais, suédois)
+  - L'objectif de LDL dépend de la présence ou non de maladie cardiovasculaire, mal connu en prévention primaire
+  - +40 ans: considérer une statine en prévention primaire (*ESC 2023 diabetes*)
+  - Avant 40 ans: considérer une statine si autres FRCV, microangiopathie ou risque à 10 ans ≥ 10% ([modèle écossais, suédois](https://diabepi.shinyapps.io/cvdrisk/))
+- Aspirine: pourrait être bénéfique si ≥ 1 autre FRCV
 - Activité physique
   - **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire. Renforcement musculaire 3 j/sem.
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette x3/sem
@@ -198,7 +199,7 @@ Trame des éléments à relever pour un dossier médical complet.
 - Surpoids  
   Négocier une perte de poids (5-10%). Un accompagnement spécialisé permet une baisse d'HbA<sub>1c</sub> de 1-1,9%.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Vaccination Covid-19, grippe, pneumocoque
+- Vaccinations: Covid-19, grippe, pneumocoque
 - Dépistage de la [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})  
   Au diagnostic puis annuel pendant 5 ans (*[ISPAD 2018](https://cdn.ymaws.com/www.ispad.org/resource/resmgr/consensus_guidelines_2018_/19.other_complications_and_a.pdf))*.
 - Dépistage du retentissement psychologique  
@@ -309,11 +310,6 @@ Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heur
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 
 {{< traitements/regime-mediterraneen >}}
-
-{{% /modal %}}
-{{% modal title="Diabète et RCV selon ESC 2023" id="modal-rcv-diabete"%}}
-
-{{< clinique/risque-cardiovasculaire-diabete >}}
 
 {{% /modal %}}
 {{% modal title="Score PHQ-9" id="modal-phq9"%}}

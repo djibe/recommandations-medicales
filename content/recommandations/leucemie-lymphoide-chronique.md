@@ -103,11 +103,17 @@ Une altération de l'état général (AEG) ou une adénopathie de croissance rap
 {{% /collapse %}}
 {{%sources%}}
 
+{{< video poster="https://b-s-h.org.uk/media/17278/bsh-video-poster.png" mp4="https://b-s-h.org.uk/media/21102/guideline-for-the-treatment-of-chronic-lymphocytic-leukaemia.mp3?cf=638034153129670000" webm="https://b-s-h.org.uk/media/21102/guideline-for-the-treatment-of-chronic-lymphocytic-leukaemia.mp3?cf=638034153129670000" description="Podcast de la British Society of Haematology sur la prise en charge de la leucémie lymphoïde chronique" >}}
+
 - Collège des enseignants d'hématologie. Leucémie lymphoïde chronique. Item 318. 2021.
 - [Hallek M. Chronic lymphocytic leukemia: 2017 update on diagnosis, risk stratification, and treatment. Am J Hematol. 2017.](https://onlinelibrary.wiley.com/doi/10.1002/ajh.24826)
 - [HAS. Actes et prestations sur la leucémie lymphoïde chronique. 2012.](https://www.has-sante.fr/jcms/c_1096149/fr/ald-n-30-leucemie-lymphoide-chronique)
 - [Hallek M et al. Guidelines for the diagnosis and treatment of chronic lymphocytic leukemia: a report from the International Workshop on Chronic Lymphocytic Leukemia updating the National Cancer Institute-Working Group 1996 guidelines. Blood. 2008.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2972576/)
 - [International Workshop on CLL (iwCLL)](https://www.iwcll.org)
+
+### Bibliographie en attente
+
+[Walewska R et al. Guideline for the treatment of chronic lymphocytic leukaemia. Br J Haematol. 2022.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.18075)
 
 {{%/sources%}}
 {{% modal title="Vaccin pneumocoque" id="modal-pneumocoque"%}}

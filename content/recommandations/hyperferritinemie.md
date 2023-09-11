@@ -253,7 +253,8 @@ accTitle: Prise en charge diagnostique d'une hyperferritinémie d'après SNFGE 2
 
 ### Bibliographie en attente
 
-{{< references/college-endocrino >}}
+- [Cullis JO et al; British Society for Haematology. Investigation and management of a raised serum ferritin. Br J Haematol. 2018.](https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.15166?sid=nlm%3Apubmed)
+- {{< references/college-endocrino >}}
 
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}

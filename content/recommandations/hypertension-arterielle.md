@@ -28,8 +28,8 @@ todo = "normes enfants [925,930,931], clinical frailty scale [969] , SEO 'reco h
 - Confirmer le diagnostic par mesures et automesures / MAPA répétées, conserver le grade et le stade d'hypertension au diagnostic
 - Recherche des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} ({{< scores/heartscore >}} en prévention primaire) (le LDL cible en découle)
 - Traitement selon le grade d'hypertension (voir *Définitions*) et mesures hygiéno-diététiques systématiques
-- Cibles tensionnelles selon le profil (120-129 / 70-79 mmHg avant 80 ans), appliquées telles quelles à l'automesure
-- Objectif d'un seul comprimé antihypertenseur combiné et informer sur les conséquences d'une HTA non traitée ([accidents cardiovasculaires](/tags/risque-cardiovasculaire/), démence)
+- Les cibles tensionnelles dépendant du profil (120-129 / 70-79 mmHg avant 80 ans) et ne sont connues que pour les mesure au cabinet
+- Objectif d'un seul comprimé antihypertenseur combiné et informer sur les conséquences d'une hypertension non traitée ([accidents cardiovasculaires](/tags/risque-cardiovasculaire/), démence)
 - Bithérapies antihypertensives de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
 - [Le carnet d'automesure tensionnelle 2021 (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
 
@@ -265,7 +265,7 @@ Chez l'enfant ou pendant la grossesse, un appareil validé spécifique est néce
 Une PAD 70-79 mmHg est la cible pour tout hypertendu. La pression cible doit être atteinte sous 3 mois
 {.alert .alert-info}
 
-{{< table title="Synthèse des cibles de pression artérielle selon le profil de l'adulte de plus de 18 ans. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
+{{< table title="Synthèse des cibles de pression artérielle au cabinet selon le profil de l'adulte de plus de 18 ans. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
 | Population          | Objectif (mmHg) | Source     |
 |---------------------|----------------:|------------|
 | Cible minimale      | < 140/80        | ESH 2023   |

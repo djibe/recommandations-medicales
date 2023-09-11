@@ -39,8 +39,8 @@ Adaptation des recommandations de l'AFEF et HAS pour la prise en charge simplifi
 
 Hépatite C
 : Maladie du foie causée par l'infection chronique du virus de l'hépatite C (VHC, identifié en 1989), à l'origine d'une hépatite le plus souvent silencieuse qui devient chronique dans 80% des cas.  
-La transmission est sanguine (drogues intraveineuses ou sniffées, sexe).  
-Des médicaments antiviraux permettent une guérison totale dans la grande majorité des cas.
+La transmission est sanguine (drogues intraveineuses ou sniffées, sexe). Elle atteinte surtout les hommes de 40 à 59 ans.
+: Des médicaments antiviraux permettent une guérison totale dans la grande majorité des cas.
 : Enjeux liés à la diffusion du virus, la cirrhose et ses complications: hypertension portale et carcinome hépatocellulaire.
 
 ### Abréviations
@@ -352,6 +352,7 @@ accTitle: Conduite à tenir dans les suites de la réalisation d'un TROD VHC d'a
 
 {{< card-link-external title="Vidéos de l'AFEF sur l'hépatite C" url="https://www.youtube.com/channel/UCgWEPppp0YbWbvpcWoXd9fg/search?query=h%C3%A9patite%20C" subtitle="e-learning gratuit par INSHU, ashm, UNSW, Kirby">}}
 
+- [Roudot-Thoraval F. Éditorial. De nouvelles recommandations relancent l'objectif d'élimination des hépatites B, C et Delta d'ici 2030. Bull Épidémiol Hebd. 2023.](http://beh.santepubliquefrance.fr/beh/2023/15-16/2023_15-16_0.html)
 - {{< references/afef-foie-non-invasif >}}
 - [HAS. Hépatite C - Panorama](https://www.has-sante.fr/jcms/p_3261788/fr/hepatite-c)
 - [HAS. Hépatite C : prise en charge simplifiée chez l'adulte. Mars 2019 MAJ Septembre 2019.](https://www.has-sante.fr/jcms/c_2911891/fr/hepatite-c-prise-en-charge-simplifiee-chez-l-adulte)

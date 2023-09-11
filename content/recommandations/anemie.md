@@ -253,7 +253,7 @@ accTitle: Prise en charge d'une anémie avec suspicion de carence en fer d'aprè
 {{%sources%}}
 
 - [HCSP. Avis relatif à la couverture des besoins de la population générale en vitamine D et en fer. 21/06/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1251)
-- [Snook J et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021.](https://gut.bmj.com/content/70/11/2030)
+- [Snook J et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021.](https://gut.bmj.com/content/70/11/2030)
 - [Santé Publique France. Étude de santé sur l'environnement, la biosurveillance, l'activité physique et la nutrition (Esteban) 2014-2016. Volet Nutrition. Chapitre Dosages biologiques : vitamines et minéraux. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/rapport-synthese/etude-de-sante-sur-l-environnement-la-biosurveillance-l-activite-physique-et-la-nutrition-esteban-2014-2016-.-volet-nutrition.-chapitre-dosages)
 - Rouillon JM. Prise en charge de l'anémie ferriprive. SNFGE. 2018.
 - [OMS. Concentrations en hémoglobine permettant de diagnostiquer l'anémie et d'en évaluer la sévérité. Système d'informations nutritionnelles sur les vitamines et les minéraux. 2011.](https://www.who.int/fr/publications-detail/WHO-NMH-NHD-MNM-11.1)
@@ -261,6 +261,7 @@ accTitle: Prise en charge d'une anémie avec suspicion de carence en fer d'aprè
 
 ### Bibliographie en attente
 
+- [Fletcher A et al; A British Society for Haematology Good Practice Paper. Guideline for the laboratory diagnosis of iron deficiency in adults (excluding pregnancy) and children. Br J Haematol. 2022.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.17900)
 Société française d'hématologie (sfh). Anémie chez l'adulte et l'enfant. Hématologie. Réussir son DFASM. 2021.
 
 {{%/sources%}}
