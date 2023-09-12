@@ -29,15 +29,16 @@ todo = "écriture SEO, KEY patiente | règles d'hygiène, Chart J1-J31, lire sou
 - Le diagnostic de ménopause est clinique et rétrospectif (la VPP du test au progestatif n'est pas connue)
 - En cas de [contraception]({{< relref "contraception.md" >}}) poursuivie: l'interrompre et suivre l'aménorrhée
 - Si ménopause avant 40 ans: bilan d'[insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
-- Examen clinique complet et complémentaires adaptés
+- Examen clinique complet et complémentaires adaptés, évaluer le risque cardiovasculaire
 - Traitements non hormonaux de la ménopause: arrêt tabac/alcool, activité physique, correction d'un surpoids, yoga, hypnose ...
 - Le traitement hormonal de la ménopause (THM):
   - Débuter quand diagnostic certain et seulement dans les 10 premières années
   - Indications et contre-indications précises (voir *Traitement hormonal de la ménopause*)  
   **Contre-indications majeures**: antécédent de [cancer du sein]({{< relref "cancer-sein.md" >}}), infarctus du myocarde, AVC ou Alzheimer
   - Utiliser les doses minimales efficaces d'estrogène cutané et de progestérone orale combinés
+- Rapporter tout saignement vaginal après la ménopause
 
-Chapitres liés: [candidoses vaginales]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), [infections urinaires]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
+Chapitres liés: [mycoses vaginales]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), [infections urinaires]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -194,7 +195,7 @@ Le diagnostic est clinique (voir *Définitions*).
 
 > En début de ménopause, le score clinique *FRAX* a des performances prédictives de fracture médiocres alors que la mesure de la DMO par DXA est prédictive à 10 ans (Se 60%, Spe 70%)
 
-#### Diagnostic différentiel
+#### Diagnostic différentiel de la ménopause
 
 Diagnostics à évoquer devant des sueurs et des cycles irréguliers:
 
@@ -622,14 +623,15 @@ Le traitement hormonal de la ménopause (THM):
 {{%sources%}}
 
 - [US Preventive Services Task Force. Hormone Therapy for the Primary Prevention of Chronic Conditions in Postmenopausal Persons: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2797867)
-- [Trémollieres F. et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000593)
-- [Saxon GDGC. et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
+- [Kremer C et al. European Stroke Organisation guidelines on stroke in women: Management of menopause, pregnancy and postpartum. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/full/10.1177/23969873221078696)
+- [Trémollieres F et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000593)
+- [Saxon GDGC et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
 - Prescrire Redaction. Troubles liés à la ménopause. Premiers choix Prescrire. 2020.
 
 ### Bibliographie en attente
 
-- [Crandall CJ. et al. Management of Menopausal Symptoms: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2801054)
-- [Hocke C. et al. Syndrome génito-urinaire de la ménopause (SGUM). RPC les femmes ménopausées du CNGOF et du GEMVi. Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000775)
+- [Crandall CJ et al. Management of Menopausal Symptoms: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2801054)
+- [Hocke C et al. Syndrome génito-urinaire de la ménopause (SGUM). RPC les femmes ménopausées du CNGOF et du GEMVi. Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000775)
 - [ACOG. Treatment of Urogenital Symptoms in Individuals With a History of Estrogen-dependent Breast Cancer. 2021.](https://www.acog.org/clinical/clinical-guidance/clinical-Consensus/articles/2021/12/Treatment-of-Urogenital-Symptoms-in-Individuals-With-a-History-of-Estrogen-dependent-Breast-Cancer)
 - {{< references/college-endocrino >}}
 - [ACOG. Postmenopausal Estrogen Therapy Route of Administration and Risk of Venous Thromboembolism. 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/04/postmenopausal-estrogen-therapy-route-of-administration-and-risk-of-venous-thromboembolism)

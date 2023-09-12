@@ -6,10 +6,10 @@ synonyms = ["Carcinome endométrial"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-16T10:38:54+01:00"
 publishdate = "2022-12-17"
-lastmod = "2023-05-12"
+lastmod = "2023-09-11"
 specialites = ["gynecologie-obstetrique"]
 annees = "2016"
-sources = ["HAS", "INCa", "ACOG"]
+sources = ["ESMO", "HAS", "INCa", "ACOG"]
 tags = ["cancer", "douleur pelvienne"]
 anglais = ["Endometrial cancer", "Cancer of the endometrium"]
 sctid = "93781006"
@@ -32,15 +32,22 @@ imageSrc = "Carcinome endométrial chez une femme de 40 ans. Cas d'Aneta Kecler-
 
 Cancer de l'endomètre
 : Tumeur primitive maligne le plus souvent épithéliale (90%) développée aux dépens de l'endomètre. Les autres types histologiques sont beaucoup plus rares (sarcomes).
-: Le cancer de l'endomètre survient le plus souvent après la ménopause et est le plus souvent révélé par des **métrorragies post-ménopausiques**
+: Le cancer de l'endomètre survient le plus souvent après la ménopause (+90 % après 50 ans) et est le plus souvent révélé par des **métrorragies post-ménopausiques**
 
 ### Facteurs de risque de cancer de l'endomètre
 
+Surtout par présence d'œstrogènes en excès:
+
 - Principaux facteurs de risque
-  - [Obésité]({{< relref "obesite-adulte.md" >}})
-  - [Diabète](/tags/diabete/)
+  - Syndrome métabolique: surpoids et [obésité]({{< relref "obesite-adulte.md" >}}), [diabète](/tags/diabete/) et [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
   - Traitement d'un [cancer du sein]({{< relref "cancer-sein.md" >}}) par tamoxifène
+- Nulliparité
+- Ménarche précoce et ménopause tardive
 - Syndrome de Lynch/HNPCC
+  - Dépistage échographique annuel à partir de 35 ans
+  - Hystérectomie totale avec annexectomie discutée à partir de 40 ans
+
+> *ESMO*
 
 ### Épidémiologie du cancer de l'endomètre en France
 
@@ -75,8 +82,7 @@ Signes et symptômes évocateurs à rechercher en cas de suspicion d'un cancer d
 - Antécédents personnels ou familiaux du spectre de Lynch (HNPCC)  
   {{< clinique/cancer-spectre-lynch >}}.
 - Facteurs de risque du cancer de l'endomètre
-  - Obésité
-  - [Diabète](/tags/diabete/)
+  - Syndrome métabolique
   - Traitement par [tamoxifène]({{< relref "cancer-sein.md" >}})
 - Symptômes
   - **Métrorragies** spontanées d'abondance moyenne
@@ -90,7 +96,7 @@ Signes et symptômes évocateurs à rechercher en cas de suspicion d'un cancer d
 
 ### Examen clinique
 
-- Poids, taille, IMC et variation
+- Poids et variations, taille, IMC
 - Examen abdominal
 - Examen gynécologique
 - Aires ganglionnaires
@@ -113,14 +119,14 @@ En cas d'hyperplasie endométriale, hystéroscopie avec **biopsie endométriale*
 
 Le bilan d'extension comprend une **IRM pelvienne et des aires ganglionnaires lombo-aortiques**.
 
-Le dosage du **marqueur tumoral CA 125** peut être discuté initialement en cas de suspicion d'extension régionale.
+Le dosage du **marqueur tumoral CA 125** peut être discuté initialement en cas de suspicion d'extension régionale (inutile selon *ESMO*).
 
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de l'endomètre" %}}
 
 Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP).
 
-La prise en charge du cancer de l'endomètre repose essentiellement sur la chirurgie avec hystérectomie totale et salpingo-ovariectomie bilatérale si la patiente est opérable.
+La prise en charge du cancer de l'endomètre repose essentiellement sur la chirurgie avec **hystérectomie totale** et salpingo-ovariectomie bilatérale si la patiente est opérable.
 
 La chirurgie avant 50 ans **entraîne une stérilisation** pouvant être substituée par THS avec œstrogènes seuls (voir [ménopause]({{< relref "menopause.md" >}})).
 
@@ -161,6 +167,8 @@ Suivi après traitement du cancer de l'endomètre:
 {{% /collapse %}}
 {{%sources%}}
 
+- [ACOG. Management of Endometrial Intraepithelial Neoplasia or Atypical Endometrial Hyperplasia. 2023.](https://www.acog.org/clinical/clinical-guidance/clinical-consensus/articles/2023/09/management-of-endometrial-intraepithelial-neoplasia-or-atypical-endometrial-hyperplasia)
+- [Colombo N et al. ESMO-ESGO-ESTRO Consensus Conference on Endometrial Cancer: diagnosis, treatment and follow-up. Annals of Oncology. 2016.](https://www.annalsofoncology.org/article/S0923-7534(19)35337-2/fulltext)
 - [ACOG. Tamoxifen and Uterine Cancer. 2014. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/tamoxifen-and-uterine-cancer)
 - [ACOG. The Role of Transvaginal Ultrasonography in Evaluating the Endometrium of Women With Postmenopausal Bleeding. 2018. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/05/the-role-of-transvaginal-ultrasonography-in-evaluating-the-endometrium-of-women-with-postmenopausal-bleeding)
 - [Jéhannin-Ligier K et al. Projection de l'incidence et de la mortalité par cancer en France métropolitaine en 2017. Rapport technique. Santé publique France. 2017.](https://www.santepubliquefrance.fr/docs/projection-de-l-incidence-et-de-la-mortalite-par-cancer-en-france-metropolitaine-en-2017)
@@ -169,8 +177,6 @@ Suivi après traitement du cancer de l'endomètre:
 
 ### Bibliographie en attente
 
-- [ACOG. Endometrial Intraepithelial Neoplasia. 2015. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2015/05/endometrial-intraepithelial-neoplasia)
-- [Colombo N. et al. ESMO-ESGO-ESTRO Consensus Conference on Endometrial Cancer: diagnosis, treatment and follow-up. Annals of Oncology. 2016.](https://www.annalsofoncology.org/article/S0923-7534(19)35337-2/fulltext)
 - [ACOG. Endometrial Cancer. 2015. (payant)](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2015/04/endometrial-cancer)
 
 {{%/sources%}}

@@ -2,7 +2,7 @@
 title = "Hypertension artérielle pulmonaire (HTAP)"
 prefix = "l'"
 titleSeo = "Hypertension artérielle pulmonaire"
-description = "Recommandations pour l'Hypertension artérielle pulmonaire (HTAP) par le médecin généraliste. Qui dépister ? Quel suivi ? Échodoppler cardiaque, épreuve d'effort"
+description = "Recommandations pour la prise en charge de l'hypertension artérielle pulmonaire (HTAP) par le médecin généraliste. Qui dépister, échodoppler cardiaque"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-02T11:46:00+02:00"
@@ -18,6 +18,7 @@ icd10 = "I27.2"
 image = false
 imageSrc = ""
 todo = "WHO-FC, surveillance (aggrav signes + IRC), psycho, social, fam"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -38,10 +39,9 @@ Il s'agit d'une complication de plusieurs pathologies (par ordre de fréquence):
 : La complication est la survenue d'une [insuffisance cardiaque droite]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (pronostic majeur).
 
 Hypertension artérielle pulmonaire (HTAP)
-: Maladie rare caractérisée par des modifications importantes des artères pulmonaires de petit calibre (HTP pré-capillaire).
-: Elle est le plus souvent idiopathique, mais peut avoir une origine médicamenteuse ou compliquant une autre pathologie.  
-Elle peut arriver à tout âge, atteint préférentiellement les femmes (65%) avec un âge moyen au diagnostic de 40-50 ans.  
-Il n'existe aucun traitement curatif et le pronostic est mauvais.
+: Maladie rare caractérisée par des modifications importantes des artères pulmonaires de petit calibre (HTP pré-capillaire). Elle est le plus souvent idiopathique, mais peut avoir une origine médicamenteuse ou compliquant une autre pathologie.
+: L'HTAP peut arriver à tout âge et atteint préférentiellement les femmes (65%) avec un âge moyen au diagnostic de 40-50 ans.
+: Il n'existe aucun traitement curatif et le pronostic est mauvais.
 
 ### Abréviations
 
@@ -178,9 +178,9 @@ C'est le **cathétérisme cardiaque** droit qui affirme le diagnostic. Il est r�
 - [Épreuve d'effort]({{< relref "epreuve-effort.md" >}})
 
 {{% /collapse %}}
-{{%collapse "Traitement et surveillance" %}}
+{{%collapse "Traitement et surveillance de l'HTAP" %}}
 
-La prise en charge de l'hypertension artérielle pulmonaire (HTAP) relève uniquement du centre de référence. Le suivi est au moins annuel.
+La prise en charge de l'hypertension artérielle pulmonaire (HTAP) relève uniquement du **centre de référence**. Le suivi est au moins annuel.
 
 - [ALD n°5]({{< relref "affection-longue-duree.md" >}})
 - Observance et tolérance des traitements  
@@ -196,10 +196,20 @@ La prise en charge de l'hypertension artérielle pulmonaire (HTAP) relève uniqu
 - Associations de patients: [HTapFrance](http://www.htapfrance.com/new.asp), [France Assos Sante](https://www.france-assos-sante.org/)
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de l'hypertension artérielle pulmonaire" "show" %}}
+
+{{< mermaid title="Prise en charge de l'hypertension artérielle pulmonaire. Dr Alaedine Benani et JB Fron d'après ESC 2022" >}}
+graph TB
+  risque["<b>Sujet à risque d'HTAP</b><br>—<br>- Cardiopathie congénitale<br>- Insuff. respiratoire<br>- Sclérodermie (dépistage annuel)<br>- Antécédent familial d'HTAP"] --> examens("<b>Examens complémentaires</b><br>—<br>- Biologie<br>- ECG<br>- Radiographie thoracique") --> cardiologue("Consultation de cardiologie<br>pour ETT") -. Confirmation .-> référence(Centre de référence Respifil) --> suivi("<b>Suivi du généraliste</b><br>—<br>- ALD n°5<br>- Observance<br>- Réhabilitation<br>- OLD si PaO2 &lt; 60 mmHg<br>- Vaccinations<br>- Soutien, associations")
+  symptômes["<b>Symptômes évocateurs</b><br>—<br>- Dyspnée effort inexpliquée<br>- Syncope à l'effort<br>- Insuff. cardiaque droite"] --> examens
+  style risque stroke:#4150f5, stroke-width:1px
+  style symptômes stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{% /collapse %}}
 {{%sources%}}
 
-- [Humbert M. et al; ESC/ERS Scientific Document Group. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension: Developed by the task force for the diagnosis and treatment of pulmonary hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS). Endorsed by the International Society for Heart and Lung Transplantation (ISHLT) and the European Reference Network on rare respiratory diseases (ERN-LUNG). European Heart Journal. 2022.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehac237/6673929)
-- [Collège des Enseignants de Pneumologie (CEP). Hypertension artérielle pulmonaire. Item 222. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2021/01/item_222_HTP_2021v2.pdf)
+- [Humbert M et al; ESC/ERS Scientific Document Group. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension: Developed by the task force for the diagnosis and treatment of pulmonary hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS). Endorsed by the International Society for Heart and Lung Transplantation (ISHLT) and the European Reference Network on rare respiratory diseases (ERN-LUNG). European Heart Journal. 2022.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehac237/6673929)
 - [Centre de référence de l'hypertension artérielle. Hypertension artérielle pulmonaire. PNDS. 2020.](https://www.has-sante.fr/jcms/p_3167172/fr/hypertension-arterielle-pulmonaire)
 - Prescrire Redaction. Hypertensions artérielles pulmonaires d'origine médicamenteuse. Avril 2020.
 - [Collège National des Enseignants de Cardiologie. Hypertension artérielle pulmonaire de l'enfant et de l'adulte. Item 222. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch19_hypertension_pulmonaire.pdf)
@@ -207,7 +217,7 @@ La prise en charge de l'hypertension artérielle pulmonaire (HTAP) relève uniqu
 
 ### Bibliographie en attente
 
-[Delcroix M. et al. ERS statement on chronic thromboembolic pulmonary hypertension. European Respiratory Journal. 2021.](https://erj.ersjournals.com/content/57/6/2002828)
+[Delcroix M et al. ERS statement on chronic thromboembolic pulmonary hypertension. European Respiratory Journal. 2021.](https://erj.ersjournals.com/content/57/6/2002828)
 
 {{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

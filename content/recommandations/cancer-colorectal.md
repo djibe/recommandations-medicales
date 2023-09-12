@@ -349,6 +349,7 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 
 - [Phelip JM et al. « Cancer colorectal métastatique ». Thésaurus National de Cancérologie Digestive. septembre 2023.](https://www.snfge.org/content/4-cancer-colorectal-metastatique)
 - {{< references/college-gastro >}}
+- [Cervantes A et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)
 - [Service-Public.fr. Cancer colorectal : des kits de dépistage disponibles en pharmacie. 02/11/2022.](https://www.service-public.fr/particuliers/actualites/A15541)
 - [Robaszkiewicz M et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
 - [Lecomte T et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/3-cancer-du-colon-non-metastatique)
@@ -366,12 +367,8 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 - [INCa. Indication de la radiothérapie - Rectum. Mai 2009 (PDF)](https://www.e-cancer.fr/content/download/58359/532048/file/Indicat-radioth-RECTUM_final_janv2010.pdf)
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique polypose adénomateuse familiale et polypose liée à MYH. 2009. (PDF)](https://www.e-cancer.fr/content/download/58351/531984/file/chir_prophy_predi_gene_polypose.pdf)
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique SYNDROME HNPCC / lynch. 2009. (PDF)](https://www.e-cancer.fr/content/download/58350/531976/file/chir_prophy_predi_gene_hnpcc-lynch.pdf)
-- [INCa. Label métastases hépatiques synchrones du cancer colorectal (synthèse). (PDF)](https://www.e-cancer.fr/content/download/58365/532096/file/reco-label-mhs-synthese.pdf)
-
-### Bibliographie en attente
-
+- [SFCD et ACHBT. Prise en charge des patients atteints de métastases hépatiques synchrones du cancer colorectal (synthèse). (PDF)](https://www.e-cancer.fr/content/download/58365/532096/file/reco-label-mhs-synthese.pdf)
 - [ESMO. Localised Colon Cancer. Interactive Guideline.](http://interactiveguidelines.esmo.org/esmo-web-app/gl_toc/index.php?GL_id=74)
-- [Cervantes A et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}

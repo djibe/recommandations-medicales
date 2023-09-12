@@ -453,12 +453,13 @@ accTitle: Prise en charge de l'arrêt du tabac d'après HAS 2014
 
 {{< card-link-external title="Se former aux addictions" subtitle="Intervenir Addictions" url="https://intervenir-addictions.fr">}}
 
-- [Collège des enseignants de pneumologie. Addiction au tabac. Item 75. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_75_TABAC_2023.pdf)
+- [Collège des Enseignants de Pneumologie (CEP). Addiction au tabac. Item 75. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_75_TABAC_2023.pdf)
 - [Santé Publique France. Tabac.](https://www.santepubliquefrance.fr/determinants-de-sante/tabac)
 - [INCa. Panorama des cancers en France - Édition 2022.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Panorama-des-cancers-en-France-Edition-2022)
 - Prescrire Redaction. Consommation et arrêt du tabac. Premiers choix Prescrire. 2022.
 - [Haut Conseil de la santé publique (HCSP). Avis relatif aux bénéfices-risques de la cigarette électronique. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1138)
 - [Hartmann-Boyce J. et al. Electronic cigarettes for smoking cessation. Cochrane Database of Systematic Reviews. 2022.](https://www.cochrane.org/fr/CD010216/TOBACCO_les-cigarettes-electroniques-peuvent-elles-aider-les-personnes-arreter-de-fumer-et-ont-elles-des)
+- [Observatoire français des drogues et des tendances addictives (OFDT). Tabagisme et arrêt du tabac en 2021. 2022.](https://www.ofdt.fr/publications/collections/bilans/tabagisme-et-arret-du-tabac-en-2021/)
 - {{< references/esc-cvd >}}
 - [CNGOF, SFT. Prise en charge du tabagisme en cours de grossesse (texte court). 2020. (PDF)](https://ansfl.org/document/cngof-2020-prise-en-charge-du-tabagisme-en-cours-de-grossesse/)
 - [HAS. Sevrage tabagique : des outils pour repérer et accompagner les patients. Article. 2019.](https://www.has-sante.fr/jcms/pprd_2974738/fr/sevrage-tabagique-des-outils-pour-reperer-et-accompagner-les-patients#:~:text=La%20HAS%20propose%20des%20modalit%C3%A9s,accompagner%20dans%20le%20sevrage%20tabagique)
@@ -470,10 +471,6 @@ accTitle: Prise en charge de l'arrêt du tabac d'après HAS 2014
 - [Association Addictions France (ex ANPAA)](https://addictions-france.org)
 - [Intervenir Addictions](https://intervenir-addictions.fr)
 - [Observatoire français des drogues et des tendances addictives (OFDT)](https://www.ofdt.fr)
-
-### Bibliographie en attente
-
-[OFDT. Tabagisme et arrêt du tabac en 2021. 2022.](https://www.ofdt.fr/publications/collections/bilans/tabagisme-et-arret-du-tabac-en-2021/)
 
 {{%/sources%}}
 

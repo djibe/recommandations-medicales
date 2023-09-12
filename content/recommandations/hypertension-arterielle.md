@@ -8,22 +8,23 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2023-08-25"
+lastmod = "2023-09-11"
 specialites = ["cardiologie"]
 annees = "2023"
-sources = ["ESH", "ESC"]
+sources = ["ESH", "USPTF", "ESC"]
 tags = ["cephalees", "demence", "depistage", "epreuve effort", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "SAS", "vertige"]
 anglais = ["Hypertension disorder", "high blood pressure"]
 sctid = "38341003"
 icd10 = "I10"
 image = true
 imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik"
-todo = "normes enfants [925,930,931], clinical frailty scale [969] , SEO 'reco hta', modale automesure, A LIRE: Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, ESC 2018 tableau 4+19 - src157, https://afpa.org/outil/normes-cardiorespiratoires-utiles/"
+todo = "normes enfants [925,930,931], clinical frailty scale [969] , SEO 'reco hta', modale automesure, A LIRE: Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, ESC 2018 tableau 4+19 - src157, https://afpa.org/outil/normes-cardiorespiratoires-utiles/"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Dépister l'hypertension artérielle dès 3 ans, au moins tous les 5 ans après 40 ans (1/3 des adultes atteints et 3/4 non contrôlés)
+- Dépister l'hypertension artérielle dès 3 ans, au moins tous les 3 ans après 40 ans (annuellement selon la *USPTF*, 1/3 des adultes atteints et 3/4 non contrôlés)
 - Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet*)
 - Confirmer le diagnostic par mesures et automesures / MAPA répétées, conserver le grade et le stade d'hypertension au diagnostic
 - Recherche des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} ({{< scores/heartscore >}} en prévention primaire) (le LDL cible en découle)
@@ -50,11 +51,14 @@ Hypertension artérielle résistante
 
 ### Grades de l'hypertension artérielle
 
-{{< table title="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après ESH 2023" class="table-wrap" >}}
+> << Un dépistage moins fréquent (ex tous les 3-5 ans) est approprié pour les adultes 18-39 ans sans surrisque d'hypertension ayant déjà eu une mesure de la pression artérielle >> (surrisque: sujet noir, surpoids, tension normale haute) - *USPTF 2021*
+{.alert .alert-info}
+
+{{< table title="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après ESH 2023 et USPTF 2021" class="table-wrap" >}}
 | Catégorie                 | Systolique (mmHg) |       | Diastolique (mmHg) | Action                                                                        |
 |---------------------------|:-----------------:|:-----:|:------------------:|-------------------------------------------------------------------------------|
-| Optimale                  | < 120             | et    | < 80               | Surveillance min. /5 ans                                                      |
-| Normale                   | 120-129           | et    | 80-84              | Surv. min. /3 ans (6 mois si FRCV)                                            |
+| Optimale                  | < 120             | et    | < 80               | Surveillance min. /5 ans sans surrisque (*USPTF 2021*)                        |
+| Normale                   | 120-129           | et    | 80-84              | Surv. min. /3 ans (6 mois si FRCV, *ESC 2018*)                                |
 | Normale haute             | 130-139           | et/ou | 85-89              | Surv. **annuelle**, éliminer HTA masquée par AMT/MAPA, traiter si THRCV       |
 | Hypertension grade&nbsp;1 | 140-159           | et/ou | 90-99              | Éliminer blouse blanche par AMT/MAPA, essai RHD 3-6 mois, traiter si HRCV     |
 | Hypertension grade&nbsp;2 | 160-179           | et/ou | 100-109            | Confirmer par AMT/MAPA en qq j/sem, **traitement immédiat** et contrôle sous 3 mois |
@@ -284,7 +288,7 @@ Une PAD 70-79 mmHg est la cible pour tout hypertendu. La pression cible doit êt
 | Grossesse           | < 140/90        | ESH 2023   |
 {{< /table >}}
 
-Abaisser encore la cible systolique si bien tolérée (*ESC 2021*). Détail pour chaque pathologie sur la page du chapitre concerné.
+Abaisser encore la cible systolique si bien tolérée (*ESH 2023*) sans passer sous 120/70 mmHg. Détail pour chaque pathologie sur la page du chapitre concerné.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -300,7 +304,7 @@ Abaisser encore la cible systolique si bien tolérée (*ESC 2021*). Détail pour
   - Alimentation, sel
   - Alcool
   - Niveau d'activité physique, sédentarité
-  - Dysfonction érectile  
+  - [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})  
     Aggravée par TZD et BB. IPDE5 sans risque sauf dérivés nitrés ou alpha-bloquant.
 - Signes cardiovasculaires
   - Céphalées, vertiges, syncopes, troubles de la vision, régression cognitive
@@ -319,7 +323,7 @@ Signes devant faire évoquer une hypertension secondaire et nécessitant une év
 - Hypertension résistante
 - Hypertension artérielle sévère ou [maligne]({{< relref "hypertension-arterielle-maligne.md" >}})
 - Multiples complications de l'hypertension
-- Apnées du sommeil ({{< modal-btn modal-saos >}}dépistage{{< /modal-btn >}})
+- [Apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) ({{< modal-btn modal-saos >}}dépistage{{< /modal-btn >}})
 - Drogues, corticoïdes, sprays nasaux, automédication, contraception, chimiothérapie, yohimbine, réglisse
 - Phéochromocytome  
   Épisodes répétés de sueurs - céphalées - palpitations.
@@ -327,11 +331,10 @@ Signes devant faire évoquer une hypertension secondaire et nécessitant une év
   *Hypokaliémies* spontanées ou sous diurétiques, fatigue musculaire, tétanie.
 - [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}})  
   Faciès lunaire et rouge, obésité tronculaire et bosse de bison, fonte musculaire et fatigue, atrophie cutanée et ecchymoses faciles, vergetures pourpres, retard de cicatrisation, doigts très minces, hirsutisme, troubles de l'humeur, dysménorrhées, corticoïdes chroniques.
-- Dysthyroïdie
+- [Dysthyroïdie](/tags/tsh/)
 - Grossesse en cours ou contraception œstroprogestative (5% développent une HTA)
 
-Principales causes d'hypertension secondaire: **hyperaldostéronisme primaire** (ratio aldostérone/rénine plasmatiques), **néphropathie** et **sténose des artères rénales** (échodoppler).  
-Le syndrome de Cushing, phéochromocytome et la coarctation de l'aorte sont plus rares.
+Principales causes d'hypertension secondaire: **hyperaldostéronisme primaire** (ratio aldostérone/rénine plasmatiques), **néphropathie** et **sténose des artères rénales** (échodoppler). Syndrome de Cushing, phéochromocytome et coarctation de l'aorte sont plus rares.
 
 Dans l'attente de la MAPA: observance, automesures avec appareil validé, revérifier des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}, mesures hygiéno-diététiques, bilan des complications, traitements à risque (AINS, spray nasal, toxiques, automédication).
 
@@ -502,6 +505,21 @@ Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine
 {.alert .alert-warning}
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de l'hypertension artérielle" "show" %}}
+
+{{< mermaid title="Prise en charge de l'hypertension artérielle de l'adulte. Dr Alaedine Benani et JB Fron d'après ESH 2023" >}}
+graph TB
+  HTA["<b>Dépistage de l'HTA chez le +16 ans</b><br>—<br>- Minimum tous les 3 ans<br>- Annuel si: MCV, +40 ans, proche 14/9"] --> seuil("PAS ≥ 140 mmHg<br>et/ou PAD ≥ 90 mmHg ?<br>Mesure et appareil standardisés") -- Oui --> confirmation(<b>Confirmation</b><br>—<br>- Automesure 7 jours<br>- MAPA<br>- 2-3 consultations<br>espacées 1-4 sem.)
+  style HTA stroke:#4150f5, stroke-width:1px
+    confirmation --> diagnostic("<b>Diagnostic</b><br>—<br>- Clinique<br>- Risque cardiovasculaire<br>(SCORE2 ou MCV)<br>- Biologie<br>- ECG<br>- Ophtalmo<br><br>Répéter dépistages<br>min. tous les 3 ans")
+      diagnostic -- Grade 1 sans MCV --> RHD(RHD) -. Échec 3-6 mois .-> traitement
+      diagnostic --> traitement("<b>Traitement</b><br>—<br>- Régime hygiéno-diététique:<br>tabac, sel, méditerranéen,<br>surpoids, activité physique<br>- Bithérapie 2 en 1<br>et titration<br>- Cible &lt; 130/80 mmHg") -. Comorbidités .-> cardiologue("<b>Cardiologue</b><br>—<br>- Maladie cardiovasculaire<br>- Susp HTA secondaire:<br>grade 2-3 avant 40 ans,<br>apparition/aggrav. rapide,<br>résistante ou sévère<br>complications multiples,<br>hypokaliémies, Cushing")
+    seuil -- "Oui et ..." --> urgent("- MCV<br>- HTA ≥ 18/11<br>- Complication HTA") --> diagnostic
+{{< /mermaid >}}
+
+> **MCV =** maladie cardiovasculaire ; **RHD =** régime hygiéno-diététique
+
+{{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
 
 {{< card-link-external title="Blood pressure monitoring" url="https://stridebp.dayonetech.uk/login.aspx" subtitle="Par les sociétés européennes et internationales de cardiologie">}}
@@ -518,6 +536,7 @@ Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine
 - {{< references/esc-cvd >}}
 - [Stergiou GS et al. 2021 European Society of Hypertension practice guidelines for office and out-of-office blood pressure measurement. J Hypertens. 2021.](https://doi.org/10.1097/hjh.0000000000002843)
 - [Cheung A et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://doi.org/10.1016/j.kint.2020.10.026)
+- [US Preventive Services Task Force, Krist AH, Davidson KW, et al. Screening for Hypertension in Adults: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2021.](https://jamanetwork.com/journals/jama/fullarticle/2779190)
 - {{< references/esc-diabetes >}}
 - {{< references/esc-hta >}}
 - [HAS, SFHTA. Prise en charge de l'hypertension artérielle de l'adulte. Fiche mémo. Septembre 2016.](https://www.has-sante.fr/jcms/c_2059286/fr/prise-en-charge-de-l-hypertension-arterielle-de-l-adulte)
@@ -526,7 +545,6 @@ Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine
 ### Bibliographie en attente
 
 - [Whealton S et al. Why Is Cuff Size So Important and Other Factors That Affect Accurate Blood Pressure Measurement. ACC. 2023.](https://www.acc.org/Latest-in-Cardiology/Articles/2023/06/05/19/18/Why-Is-Cuff-Size-So-Important-and-Other-Factors-That-Affect-Accurate-BP-Measurement?utm_medium=social&utm_source=twitter_post&utm_campaign=twitter_post)
-- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Hypertension artérielle. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/nephrologie-chirurgie-urologique/hypertension-arterielle)
 - {{< references/college-endocrino >}}
 - [Xi B et al. Establishing International Blood Pressure References Among Nonoverweight Children and Adolescents Aged 6 to 17 Years. Circulation. 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729639/#SD1)
 

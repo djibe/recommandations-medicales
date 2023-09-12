@@ -42,7 +42,8 @@ Cancer de l'ovaire
 - Prédisposition génétique (15-20%)  
   - Mutations BRCA 1 ou BRCA 2  
     Survenue avant 60 ans et meilleur pronostic.
-  - Syndrome de Lynch (HNPCC) plus rare
+  - Syndrome de Lynch (HNPCC) plus rare  
+    Dépistage échographique annuel à partir de 35 ans et hystérectomie totale avec annexectomie discutée à partir de 40 ans (*ESMO 2016*)
 - Autres facteurs de risque de cancer ovarien
   - Nulliparité
   - Surpoids et [obésité]({{< relref "obesite-adulte.md" >}})

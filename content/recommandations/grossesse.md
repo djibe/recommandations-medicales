@@ -25,6 +25,7 @@ todo = "critères TSH, HTA gravidique, calcium cible | SFA 2023 alcool: conso à
 *Vaste chapitre en chantier*
 
 - 0 alcool et 0 tabac pendant la grossesse
+- Vaccin Covid-19, grippe et coqueluche à chaque grossesse
 - [Calendrier de grossesse de GestaClic](http://gestaclic.fr/calculette.html)
 
 Chapitres dédiés:
@@ -79,8 +80,9 @@ Contrôler la sécurité d'utilisation d'un médicament pendant la grossesse ou 
 
 Vaccins à réaliser pendant la grossesse ([fiche Vaccination]({{< relref "vaccination.md" >}})):
 
+- Covid-19 (RR de réanimation: 18)
 - dTcaPolio à chaque grossesse entre 20 et 36 SA (BoostrixTetra, Repevax)
-- En période épidémique: grippe, Covid-19
+- En période épidémique: grippe
 
 > {{< references/calendrier-vaccinal >}}
 
@@ -130,6 +132,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ministère de la Santé. Vaccination contre le Covid-19 et maternité. 2023. (PDF)](https://sante.gouv.fr/IMG/pdf/fiche_-_vaccination_contre_le_covid-19_et_maternite.pdf)
 - [US Preventive Services Task Force, Barry MJ et al. Folic Acid Supplementation to Prevent Neural Tube Defects: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2807739)
 
 ### Bibliographie en attente

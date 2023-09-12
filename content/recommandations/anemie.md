@@ -262,7 +262,7 @@ accTitle: Prise en charge d'une anémie avec suspicion de carence en fer d'aprè
 ### Bibliographie en attente
 
 - [Fletcher A et al; A British Society for Haematology Good Practice Paper. Guideline for the laboratory diagnosis of iron deficiency in adults (excluding pregnancy) and children. Br J Haematol. 2022.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.17900)
-Société française d'hématologie (sfh). Anémie chez l'adulte et l'enfant. Hématologie. Réussir son DFASM. 2021.
+- Société française d'hématologie (sfh). Anémie chez l'adulte et l'enfant. Hématologie. Réussir son DFASM. 2021.
 
 {{%/sources%}}
 {{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}

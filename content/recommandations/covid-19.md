@@ -27,6 +27,7 @@ todo = "https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1246, https://
 Page servant uniquement à stocker quelques mémos
 
 - Recours à l'antiviral Paxlovid +++, voir *Antiviraux*
+- Maladie à déclaration obligatoire par le biologiste
 - [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire)
 - Rappel vaccinal bivalent à 3 mois (max 4, et 12-17 ans fragiles), décalé à 4 mois (min 2, 6 avant le 15/2/22) si infection Covid (*HAS 24/12, 25/11 et 19/11*)  
   [Mon Rappel vaccin Covid](https://monrappelvaccincovid.ameli.fr/)

@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-16T20:52:00+02:00"
 publishdate = "2021-02-16"
-lastmod = "2022-12-20"
+lastmod = "2023-09-11"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2019"
+annees = "2022"
 sources = ["SNFGE", "HAS"]
 tags = ["EOGD", "ferritine", "gastrite"]
 anglais = ["Cancer of stomach"]
@@ -17,7 +17,6 @@ sctid = "363349007"
 icd10 = "C16.9"
 image = true
 imageSrc = "Coupe histopathologique comparative d'adénocarcinome gastrique par Green, John et al. CC BY 4.0, via Wikimedia Commons"
-todo = "algo, FDR: IPP > 1 an ?"
 +++
 
 {{%article-summary%}}
@@ -82,18 +81,18 @@ SNFGE
 - Antécédent personnel de lésion cancéreuse ou pré-cancéreuse gastrique
 - Lésions précancéreuses
   - **Gastrite chronique à [*Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}})**
-  - Gastrite atrophique auto-immune (maladie de Biermer)
+  - Gastrite atrophique auto-immune (maladie de **Biermer**)
   - Ulcère gastrique chronique
   - Polype gastrique adénomateux
   - Maladie de Ménétrier
 - Syndrome de Lynch (HNPCC)
 - **Antécédent familial au premier degré de cancer de l'estomac**
-- **Traitement par IPP depuis plus d'un an** (consensus Masstricht IV/Florence 2012)
+- **Traitement par IPP depuis plus d'un an** (consensus Maastricht IV/Florence 2012)
 - Antécédent de gastrectomie partielle datant de +10 ans
 - [Consommation d'alcool]({{< relref "sevrage-alcool.md" >}})
 - Tabagisme
 - Alimentation salée/fumée et faible apports en fruits/légumes
-- Infection à EBV
+- [Infection à EBV]({{< relref "mononucleose-infectieuse.md" >}})
 - Origine géographique: Asie, Amérique latine
 
 Principaux facteurs de risque de cancer du cardia gastrique: Surpoids et [reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}}).
@@ -101,11 +100,14 @@ Principaux facteurs de risque de cancer du cardia gastrique: Surpoids et [reflux
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> << Le plus souvent, les tumeurs gastriques sont asymptomatiques >> (*CDU-HGE*)
+{.alert .alert-info}
+
 ### Symptômes évocateurs du cancer de l'estomac
 
 Un cancer de l'estomac doit être évoqué et exploré devant:
 
-- [Dyspepsie]({{< relref "dyspepsie.md" >}}) chez le > 40 ans
+- [Dyspepsie]({{< relref "dyspepsie.md" >}}) après 40 ans
 - [Anémie réfractaire]({{< relref "anemie.md" >}})
 - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}}) chez le ≥ 50 ans ou reflux atypique
 - Signes digestifs chroniques  
@@ -131,6 +133,7 @@ Un cancer de l'estomac doit être évoqué et exploré devant:
 
 L'examen recherche:
 
+- Variations de poids, anorexie
 - Ascite
 - [Symptômes d'anémie]({{< relref "anemie.md" >}})
 - Hépatomégalie
@@ -140,9 +143,21 @@ L'examen recherche:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+### Bilan exploratoire
+
+Le bilan biologique recherche des signes de malignité:
+
+- NFS
+- Albuminémie
+- ASAT, ALAT, GGT, PAL, bilirubine totale
+- Ionogramme sanguin
+- Créatininémie
+
+En cas de symptômes évocateurs d'un cancer de l'estomac, adresser directement au gastro-entérologue pour **endoscopie** oeso-gastro-duodénale (EOGD) avec biopsies.
+
 [SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/download/file/fid/2775)
 
-En cas de symptômes évocateurs, adresser directement au gastro-entérologue pour endoscopie œsogastrique avec biopsies.
+Le bilan complémentaire comporte toujours un **scanner** thoraco-abdominopelvien avec injection.
 
 Les marqueurs tumoraux ACE et CA19-9 ne sont pas utiles au diagnostic initial
 {.alert .alert-info}
@@ -199,8 +214,10 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 {{% /collapse %}}
 {{%sources%}}
 
-- [Chollet R. et al; SFED, CREGG. Prévention du cancer de l'estomac. 2021.](https://www.sfed.org/sites/www.sfed.org/files/2021-08/Cancerestomac_prevention.pdf)
-- [Nousbaum JB. et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)
+- [Zaanan A et al. « Cancer de l’estomac ». Thésaurus National de Cancérologie Digestive. Octobre 2022.](https://www.snfge.org/content/9-cancer-du-pancreas)
+- {{< references/college-gastro >}}
+- [Chollet R et al; SFED, CREGG. Prévention du cancer de l'estomac. 2021.](https://www.sfed.org/sites/www.sfed.org/files/2021-08/Cancerestomac_prevention.pdf)
+- [Nousbaum JB et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)
 - [Zaanan A et al. Gastric cancer: French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, SFRO). Dig Liver Dis. 2018.](https://www.snfge.org/content/2-cancer-de-lestomac)
 - [SNFGE. Traitement du RGO. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
 - [HAS et CNPHGE. Diagnostic de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
@@ -208,12 +225,9 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 - [INCa. Médecins traitants : Acteurs de la prévention du cancer de l'estomac. Février 2013.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Medecins-traitants-Acteurs-de-la-prevention-du-cancer-de-l-estomac)
 - [HAS, INCa. Cancer de l'estomac. Guide ALD. Septembre 2011.](https://www.has-sante.fr/jcms/c_1105137/fr/ald-n-30-cancer-de-l-estomac)
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique - Cancer gastrique diffus héréditaire. 2009. (PDF)](https://www.e-cancer.fr/content/download/58352/531992/file/chir_prophy_predi_gene_gastrique.pdf)
-- [Collège Français des Pathologistes (CoPath). Tumeurs de l'estomac. Item 300.](https://docplayer.fr/3727075-College-francais-des-pathologistes-copath-enseignement-d-anatomie-pathologique-polycopie.html)
 
 ### Bibliographie en attente
 
-- {{< references/college-gastro >}}
-- [Zaanan A et al. Gastric cancer: French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, SFRO)(TNCD). Dig Liver Dis. 2022.](https://www.snfge.org/content/9-cancer-du-pancreas)
 - [ESMO. Gastric cancer Interactive guidelines.](http://interactiveguidelines.esmo.org/esmo-web-app/gl_toc/index.php?GL_id=42)
 
 {{%/sources%}}

@@ -31,7 +31,7 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme:
 - Maladie du charbon
 - Chikungunya
 - Choléra
-- [Covid-19]({{< relref "covid-19.md" >}})
+- [Covid-19]({{< relref "covid-19.md" >}}) (par le biologiste)
 - Dengue
 - Diphtérie
 - Encéphalite à tiques
