@@ -25,9 +25,9 @@ flowchart = true
 
 - Diagnostic de pneumonie aiguë communautaire (PAC): examen clinique pour relever les terrains à risques de mortalité et les signes de gravité
 - La radiographie thoracique de face est systématique
-- [Critères d'hospitalisation stricts](#critères-dhospitalisation-pour-pneumonie) pour la pneumonie: CRB65 (confusion FR ≥ 30/min, PAS < 90 mmHg ou PAD ≤ 60 mmHg, âge +65 ans), signes de gravité et facteurs de risque selon l'âge
+- [Critères d'hospitalisation stricts](#critères-dhospitalisation-pour-pneumonie) pour la pneumonie: CRB65 (confusion FR ≥ 30/min, PAS < 90 ou PAD ≤ 60 mmHg, âge +65 ans), signes de gravité et facteurs de risque selon l'âge
 - La prise en charge de la pneumonie aiguë communautaire est possible en ambulatoire en l'absence de ces critères
-- L'antibiothérapie est "urgente" et dépend du tableau de pneumopathie infectieuse: amoxicilline 1g x 3/j (augmentin si âgé ou comorbidité), macrolide si bactérie atypique intracellulaire
+- L'antibiothérapie est urgente et dépend du tableau de pneumopathie infectieuse: amoxicilline 1g x 3/j (+ acide clavulanique si âgé ou comorbidité), macrolide si bactérie atypique intracellulaire
 - La durée du traitement de la pneumonie est de 5 jours (7 jours si adulte non rétabli à J3, 14 jours si légionelle - *SPILF 2020*)
 - Réévaluation clinique systématique à 48-72 heures
 
@@ -210,7 +210,7 @@ Facteurs de risque de mortalité:
 {{%/warning%}}
 
 {{% /collapse %}}
-{{%collapse "Prévention de la pneumonie aiguë communautaire" %}}
+{{%collapse "Prévention de la pneumonie" %}}
 
 [Sevrage tabagique]({{< relref "arret-tabac.md" >}}) et [indications à la vaccination antigrippale]({{< relref "grippe.md" >}}) (+65 ans, grossesse, diabète ...).
 
@@ -278,9 +278,9 @@ Chez l'enfant (pas d'intracellulaire avant 3 ans): clarithromycine 15 mg/kg/j en
 
 #### PAC avec comorbidité, alcool ou sujet âgé ambulatoire
 
-En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-pneumonie):
+En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-pneumonie), chez le **sujet âgé** ou en cas de **comorbidités**:
 
-- Amoxicilline-acide clavulanique 1g ou ceftriaxone IM 1g (ou FQAP lévofloxacine) pendant 7 jours
+- <mark>Amoxicilline-acide clavulanique 1g</mark> ou ceftriaxone IM 1g (ou FQAP lévofloxacine) pendant 7 jours
 - Si échec à 48-72 heures: ajout macrolide (sauf lévofloxacine - *CMIT*) ou hospitalisation (*CEP*)
 
 #### Pneumonie post-grippale
@@ -296,7 +296,7 @@ En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-p
 |-----------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | <b>Pneumocoque</b>                | Amoxicilline<br>Allergie: pristina ou lévoflo<br>48h: pristina, lévoflo<br>ou amox + macrolide |Amoxicilline<br>48h: Macrolide, lévofloxacine,<br>pristinamycine,<br>ou télithromycine                                         | Amoxicilline<br>Alternative: pristinamycine<br>48h: Macrolide |
 | <b>Intracellulaire</b>            | Macrolide<br>48h: amoxicilline, pristina,<br>lévoflo ou moxiflo | Macrolide<br>48h: Amoxicilline, lévofloxacine,<br> pristinamycine<br>ou télithromycine                                         | Macrolide<br>Alternative: pristinamycine<br>48h: Amoxicilline |
-| <b>Doute pneumocoque-atypique</b> | Amoxicilline ou<br>pristinamycine<br>48h: Hospitalisation | Amoxicilline ou pristina/télithro<br>48h: lévofloxacine,<br>pristinamycine,<br>ou télithromycine<br>Hosp. si pristina/télithro |                                                               |
+| <b>Doute pneumocoque<br>ou atypique</b> | Amoxicilline ou<br>pristinamycine<br>48h: Hospitalisation | Amoxicilline ou pristina/télithro<br>48h: lévofloxacine,<br>pristinamycine,<br>ou télithromycine<br>Hosp. si pristina/télithro |                                                               |
 | <b>Sujet âgé, comorbidités</b>     | Augmentin<br>48h ou allergie: ceftriaxone IM,<br>lévoflo ou moxiflo | Augmentin, lévofloxacine<br>ou ceftrianexo IM<br>48h: hospitalisation                                                          | Idem<br>48h: hospitalisation (CMIT: ajout macrolide)          |
 {{< /table >}}
 

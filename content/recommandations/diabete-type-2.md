@@ -10,7 +10,7 @@ publishdate = "2020-04-27"
 lastmod = "2023-09-11"
 specialites = ["endocrinologie"]
 annees = "2023"
-sources = ["ESC", "ADA", "ESH", "SFD", "EASD", "KDIGO", "HAS"]
+sources = ["ESC", "ESH", "ADA", "EASD", "SFD", "KDIGO", "HAS"]
 tags = ["B12", "diabete", "epreuve effort", "HTA", "insuline", "retinopathie", "nephropathie",  "risque cardiovasculaire", "neuropathie", "obesite", "SAS", "vaccin"]
 anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
@@ -22,7 +22,9 @@ todo = "socrisktest, WATCH-DM ESC2023 src480; EASD 2021 Table 2.3 et 2.4, GRADE 
 
 {{%article-summary%}}
 
-- Dépister régulièrement un diabète si: maladie cardiovasculaire, sujet à risque (surpoids, stéatose hépatique, acanthosis nigricans), Socrisktest ≥ 5
+Ce chapitre intègre les dernières recommandations ESC et ESH 2023 et ADA/EASD 2022 sur le diabète de type 2.
+
+- Dépister régulièrement un diabète si: maladie cardiovasculaire, sujet à risque (surpoids, [stéatose hépatique]({{< relref "steatose-hepatique-et-nash.md" >}}), acanthosis nigricans), Socrisktest ≥ 5
 - Pour chaque personne vivant avec un diabète: définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
 - {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7%)
 - Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}
@@ -114,10 +116,10 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 - Activité physique
   - **Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée, 75 si intense). Renforcement musculaire 3 j/sem. Commencer par 10 min de marche/j autre objectif *SMART*.
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette 3 j/sem
-  - Bouger toutes les 30 minutes
+  - Bouger 5 minutes chaque heure
   - Avec l'âge, favoriser la souplesse 2 à 3 jours par semaine (yoga, Thai-chi)
 - Surpoids  
-  Perte de poids (5-10 %), GLP-1 voire [chirurgie bariatrique]({{< relref "obesite-adulte.mdn" >}}).
+  Perte de poids (5-15 %), {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}} (sémaglutide) voire [chirurgie bariatrique]({{< relref "obesite-adulte.mdn" >}}).
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Dépister des {{< modal-btn modal-saos-diabete >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) {{%class%}}(50%){{%/class%}}
 - Dépistage des [cancers](/tags/cancer/) recommandés
@@ -324,34 +326,34 @@ window.addEventListener('load', () => {
 | Appareil     | Soins                                                                                            | Source                   |
 |--------------|--------------------------------------------------------------------------------------------------|--------------------------|
 | [AAA]({{< relref "anevrysme-aorte-abdominale.md" >}}) | Échographie si homme 65-75 ans et tabac (sevré < 20 ans) ou 50-75 ans avec ATCD familial AAA 1<sup>er</sup> degré | ESC 2014 aortic |
-| AOD (rivaroxaban) | Aspirine + AOD à considérer si coronaropathie stable ou AOMI/artériopathie et risque hémorragique faible | ADA 2023 |
+| AINS         | Éviter toute prise                                                                               | Communiqué ESC 2022      |
+| AOD (rivaroxaban) | Aspirine + AOD à considérer si coronaropathie stable ou AOMI/artériopathie et risque hémorragique faible | ADA 2023    |
 | [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) | Symptômes + pouls + cutané et/ou IPS réguliers.  IPS si ulcération<br>Symptômes + pouls annuels, IPS au diagnostic puis /5-10 ans | ESC 2023 diabetes<br>ESC 2019 diabetes |
 | Aspirine prev primaire | 75-100 mg/j pourrait être considéré (sauf CI)<br>75-160 mg/j envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} ou {{< modal-btn modal-coronaire-diabete >}}coronaire{{< /modal-btn >}} sans risque de saignement | ESC 2023<br>ADA 2023, ESC 2021 |
 | Aspirine prev secondaire | 75-100 mg/j si coronarien ou revascularisation<br>75-160 mg/j ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ESC 2023 diabetes<br>ADA 2023, ESC 2019 diabetes |
 | [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) | Femmes à haut risque: éducation, correction des FRCV  | ESC 2023 diabetes        |
-| Boulimie et TCA | {{< modal-btn modal-scoff >}}Questionnaire SCOFF de dépistage des TCA{{< /modal-btn >}}       | HAS 2019                 |
+| Boulimie et TCA | {{< modal-btn modal-scoff >}}Questionnaire SCOFF{{< /modal-btn >}} pour le dépistage       | HAS 2019                 |
 | [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) | - Diabète < 12 mois: ≥ 50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>- Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
 | Cardiologue  | Suivi annuel                                                                                     | HAS 2014                 |
 | Chirurgie bariatrique | -65 ans avec IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH OU IMC ≥ 30 en dernier recours | HAS 2022 et 2009 obésité |
 | Dentaire     | Suivi annuel                                                                                     | HAS 2014, IDF 2009       |
-| [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) | Systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018             |
+| [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) | Interrogatoire systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018             |
 | ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
 | [Épreuve d'effort]({{< relref "epreuve-effort.md" >}}) | [Angor]({{< relref "syndrome-coronarien-chronique.md" >}}), dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans). Considérer si MCV et reprise effort | ESC 2023, ADA 2023, SFD 2021 CAD |
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
 | [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) | Tout âge: dépistage opportuniste par pouls/ECG. +75 ans: ECG systématique à considérer | ESC 2023 diabetes |
-| Grade podologique | Suivi annuel                                                                                | HAS 2014                 |
 | [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) | Mesure avec brassard adapté tous les 1 à 3 ans | ESC/ESH 2021     |
 | [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | Dépistage systématique des symptômes et signes et (NT-pro)BNP si suspicion<br>(NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ESC 2023 diabetes<br>ADA 2022 |
 | [Stéatopathie métabolique]({{< relref "steatose-hepatique-et-nash.md" >}}) | Dépistage par échographie abdominale | AFEF 2020 |
 | [Stéatohépatite]({{< relref "steatose-hepatique-et-nash.md" >}}) (NASH) | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} tous les 2 ans | AFEF 2020 |
-| [Néphropathie]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, albuminurie/créatininurie annuels | ADA 2023, KDIGO 2022 |
-| Neuropathie  | Dépistage annuel: monofilament, pic-touche, diapason, hypotension orthostatique, sécheresse cutanée | ADA 2023, ESC 2019 diabetes |
+| [Néphropathie]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie et ratio albuminurie/créatininurie annuels | ADA 2023, KDIGO 2022 |
+| Neuropathie  | Dépistage annuel: monofilament et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, hypotension orthostatique, sécheresse cutanée | ADA 2023, HAS 2020 et ESC 2019 diabetes |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | ADA 2023, SFD 2016       |
 | Score calcique | Pas d'argument pour l'utiliser pour la classification du RCV<br>{{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± test d'effort | ESC 2023 diabetes<br>SFD 2021 CAD |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
-| [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) | Étayer si: syndrome plurimétabolique, déséquilibré sans cause évidente, symptômes         | PNDS Cushing 2022        |
+| [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) | Étayer si: syndrome plurimétabolique, diabète déséquilibré sans cause évidente, symptômes | PNDS Cushing 2022        |
 | [Vaccins]({{< relref "vaccination.md" >}}) | Covid-19, [grippe]({{< relref "grippe.md" >}}), {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
-| Vitamine B12 | Si metformine: dosage après 4 ans de traitement                                                  | KDIGO 2022 diabetes      |
+| Vitamine B12 | Si metformine: dosage après 4 ans de traitement<br>Surveillance régulière et correction           | KDIGO 2022 diabetes<br>ADA/EASD 2022 |
 {{< /table >}}
 
 > **AAA** = anévrysme de l'aorte abdominale ; **MRC** = maladie rénale chronique ; **aspirine:** IPP si risque élevé de saignement digestif ;  
@@ -380,20 +382,24 @@ window.addEventListener('load', () => {
 
 {{< card-link-external title="Ameli Data Pathologies. Dépenses des soins liés au diabète" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Diab%C3%A8te">}}
 
+- {{< references/esc-diabetes-2023 >}}
 - {{< references/esh-2023 >}}
 - {{< references/ada-soc >}}
+- {{< references/calendrier-vaccinal >}}
+- [Davies MJ et al. Management of hyperglycaemia in type 2 diabetes, 2022. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2022.](https://link.springer.com/article/10.1007/s00125-022-05787-2)
 - [US Preventive Services Task Force. Screening for Prediabetes and Type 2 Diabetes in Children and Adolescents: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2022.14543)
 - [HAS. La chirurgie métabolique en dernier recours en cas de diabète de type 2 couplé à une obésité modérée. Communiqué de presse. 12/10/2022.](https://www.has-sante.fr/jcms/p_3376491/fr/la-chirurgie-metabolique-en-dernier-recours-en-cas-de-diabete-de-type-2-couple-a-une-obesite-moderee)
 - [Kidney Disease: Improving Global Outcomes (KDIGO) Diabetes Work Group. KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int. 2022.](https://kdigo.org/guidelines/diabetes-ckd/)
 - [Pop-Busui R et al. Heart Failure: An Underappreciated Complication of Diabetes. A Consensus Report of the American Diabetes Association. Diabetes Care. 2022.](https://diabetesjournals.org/care/article/doi/10.2337/dci22-0014/147048/Heart-Failure-An-Underappreciated-Complication-of)
+- [Jarl Emanuel Strange. eposter. Risk of heart failure following short-term non-steroidal anti-inflammatory drug use in patients with type 2 diabetes mellitus. 2022.](https://www.escardio.org/The-ESC/Press-Office/Press-releases/Non-steroidal-anti-inflammatory-drugs-linked-with-heart-failure-in-patients-with-diabetes)
 - {{< references/esc-cvd >}}
 - [Lee CG. et al. Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. Diabetes Care. 2021.](https://doi.org/10.2337/dc21-1046)  
   Sujets à haut risque de diabète suivis pendant 20 ans, pas de bénéfice sur la mortalité totale à un programme intensif de modifications des habitudes de vie versus conseils de perte de poids et d'augmentation de l'activité physique.
-- {{< references/calendrier-vaccinal >}}
 - {{< references/sfd-dt2 >}}
-- [Riddle M.C. et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://link.springer.com/article/10.1007/s00125-021-05542-z)
+- [Riddle MC et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://link.springer.com/article/10.1007/s00125-021-05542-z)
 - [Monnier L et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
 - [Valensi P et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_paper_sfc_sfd_march_2021.pdf)
+- [HAS. Affection podologique & diabète : un suivi pluriprofessionnel. 2020.](https://www.has-sante.fr/jcms/p_3218144/fr/affection-podologique-diabete-un-suivi-pluriprofessionnel)
 - {{< references/afef-foie-non-invasif >}}
 - [INCa. Synthèse - Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Septembre 2019. (PDF)](https://www.e-cancer.fr/content/download/278143/3948778/file/Synthese_CAT_patients_atteints_adenocarcinomes_pancreas_mel_20191118.pdf)
 - {{< references/esc-dyslipidaemias >}}
@@ -405,16 +411,12 @@ window.addEventListener('load', () => {
 - [Massin P et al. Référentiel pour le dépistage et la surveillance des complications oculaires du patient diabétique. Validé par la Société Francophone du Diabète (SFD) et par la Société Française d'Ophtalmologie (SFO). Med Mal Metab. 2016. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_complications_oculaires_sfd_sfo_mmm.pdf)
 - [HAS. Prévention et dépistage du diabète de type 2 et des maladies liées au diabète. 2015.](https://www.has-sante.fr/jcms/c_2012494/fr/prevention-et-depistage-du-diabete-de-type-2-et-des-maladies-liees-au-diabete)
 - [HAS. Guide parcours de soins Diabète de type 2 de l'adulte. 2014.](https://www.has-sante.fr/jcms/c_1735060/fr/guide-parcours-de-soins-diabete-de-type-2-de-l-adulte)
+- [HAS. Stratégie médicamenteuse du contrôle glycémique du diabète de type 2. 2013.](https://www.has-sante.fr/jcms/c_1022476/fr/strategie-medicamenteuse-du-controle-glycemique-du-diabete-de-type-2)
 - IDF. Oral health for people with diabetes. 2009. (PDF)
 
 ### Bibliographie en attente
 
-- {{< references/esc-diabetes-2023 >}}
-- [Davies MJ et al. Management of hyperglycaemia in type 2 diabetes, 2022. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2022.](https://link.springer.com/article/10.1007/s00125-022-05787-2)
-- [Thivolet C et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
-- Jarl Emanuel Strange. eposter. Risk of heart failure following short-term non-steroidal anti-inflammatory drug use in patients with type 2 diabetes mellitus; communiqué ESC. 26/08/2022. : éviter toute prise d'AINS
-- [HAS. Affection podologique & diabète : un suivi pluriprofessionnel. 2020.](https://www.has-sante.fr/jcms/p_3218144/fr/affection-podologique-diabete-un-suivi-pluriprofessionnel)
-- [HAS. Stratégie médicamenteuse du contrôle glycémique du diabète de type 2. 2013.](https://www.has-sante.fr/jcms/c_1022476/fr/strategie-medicamenteuse-du-controle-glycemique-du-diabete-de-type-2)
+[Thivolet C et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
 
 {{%/sources%}}
 {{% modal title="Situations perturbant l'HbA1c" id="modal-hba1c-faussee"%}}
@@ -425,6 +427,11 @@ window.addEventListener('load', () => {
 {{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}
+
+{{% /modal %}}
+{{% modal title="Grade podologique" id="modal-grade-podologique" size="lg"%}}
+
+{{< clinique/grade-podologique >}}
 
 {{% /modal %}}
 {{% modal title="Diabète et RCV selon ESC 2023" id="modal-rcv-diabete"%}}

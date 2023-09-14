@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-16T20:52:00+02:00"
 publishdate = "2021-02-16"
-lastmod = "2023-09-11"
+lastmod = "2023-09-12"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
 sources = ["SNFGE", "HAS"]
@@ -127,6 +127,7 @@ Un cancer de l'estomac doit être évoqué et exploré devant:
 - Explorations réalisées
 - [Alcool]({{< relref "sevrage-alcool.md" >}}), tabagisme, alimentation fumée/salée
 - Évolution et ancienneté des symptômes
+- Score OMS
 - +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
 ### Examen clinique
@@ -225,9 +226,6 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 - [INCa. Médecins traitants : Acteurs de la prévention du cancer de l'estomac. Février 2013.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Medecins-traitants-Acteurs-de-la-prevention-du-cancer-de-l-estomac)
 - [HAS, INCa. Cancer de l'estomac. Guide ALD. Septembre 2011.](https://www.has-sante.fr/jcms/c_1105137/fr/ald-n-30-cancer-de-l-estomac)
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique - Cancer gastrique diffus héréditaire. 2009. (PDF)](https://www.e-cancer.fr/content/download/58352/531992/file/chir_prophy_predi_gene_gastrique.pdf)
-
-### Bibliographie en attente
-
 - [ESMO. Gastric cancer Interactive guidelines.](http://interactiveguidelines.esmo.org/esmo-web-app/gl_toc/index.php?GL_id=42)
 
 {{%/sources%}}

@@ -174,14 +174,6 @@ Vigilance accrue en forme légère avec signe de fragilité:
 - Tabagisme passif
 - Capacité de recours aux soins ne permettant pas un retour au domicile
 
-#### Indications aux anticorps palivizumab
-
-Indications à l'anticorps monoclonal palivizumab pour la bronchiolite:
-
-1. Prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28 jours ET < 6 mois en début d'épidémie de VRS
-2. < 2 ans en début épidémique, prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j et ayant nécessité un traitement pour dysplasie bronchopulmonaire dans les 6 mois
-3. < 2 ans avec cardiopathie congénitale avec retentissement hémodynamique
-
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
@@ -226,7 +218,7 @@ Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une i
 - Nourrisson de +1 an: auscultation plus riche dominée par les sibilants expiratoires
 - Classer selon les 3 niveaux de gravité
 
-**NB.** L'auscultation peut être silencieuse en forme grave à thorax distendu.
+**NB.** L'auscultation peut être silencieuse en cas de forme grave à thorax distendu.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -272,11 +264,12 @@ Indications à la prévention de la bronchiolite par une immunisation passive av
   - Également les +1 an éligibles au Synagis® (cf paragraphe suivant: dysplasie bronchopulmonaire ...)
   - Au mieux avant la sortie de maternité (rattrapage en ville sinon)
 - Une seule injection IM de nirsévimab (Beyfortus®)
-- De 0,5 mL (50 mg) pour les moins de 5 kg de poids puis 1 mL (100 mg) au-delà
-- Dans la face antéro-latérale de cuisse (le même jour que des vaccins ou anticorps si besoin)
+- <mark>De 0,5 mL (50 mg) pour les moins de 5 kg de poids puis 1 mL (100 mg) au-delà</mark>
+- Dans la face antéro-latérale de cuisse
+- Le même jour que des vaccins ou anticorps si besoin (mais administrés sur d'autres sites)
 - Contre-indiquée en cas d'hypersensibilité connue à un des composants du produit
 - Avec mention dans le Carnet de santé à la section << Statut clinique ou immunitaire pour les maladies à prévention vaccinale >>
-- Par un généraliste, pédiatre, ~~sage-femme~~ ou infirmier
+- Par un généraliste, pédiatre, ~~sage-femme~~ ou infirmier sur prescription
 - Effets indésirables possibles: rash, induration, fièvre
 - Disponible en pharmacie à partir du 15 septembre
 - Et intégralement remboursé

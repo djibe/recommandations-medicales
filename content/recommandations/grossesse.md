@@ -7,26 +7,27 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2023-03-20"
+lastmod = "2023-09-14"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
-sources = ["CRAT", "SFD"]
+sources = ["CNGOF", "CRAT", "SFD"]
 tags = ["depistage", "grossesse", "prevention"]
 anglais = ["Pregnancy"]
 sctid = "118185001"
 icd10 = ""
 image = true
 imageSrc = "Illustration de la grossesse par stories / Freepik"
-todo = "critères TSH, HTA gravidique, calcium cible | SFA 2023 alcool: conso à chaque cs, évoquer RCIU"
+todo = "critères TSH"
 +++
 
 {{%article-summary%}}
 
 *Vaste chapitre en chantier*
 
-- 0 alcool et 0 tabac pendant la grossesse
+- 0 alcool et 0 tabac pendant la grossesse, interroger à chaque consultation
 - Vaccin Covid-19, grippe et coqueluche à chaque grossesse
 - [Calendrier de grossesse de GestaClic](http://gestaclic.fr/calculette.html)
+- Besoins en [calcium]({{< relref "apports-calcium.md" >}}): 1 g/j (*IOF*)
 
 Chapitres dédiés:
 
@@ -40,6 +41,7 @@ Chapitres dédiés:
 - [Diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
 - [Écoulement mamelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
 - [Hémorroïdes]({{< relref "hemorroides.md" >}})
+- [Hypertension artérielle et grossesse]({{< relref "hypertension-arterielle.md" >}})
 - [Hypothyroïdie pendant la grossesse]({{< relref "hypothyroidie.md" >}})
 - [Incontinence fécale]({{< relref "incontinence-fecale.md" >}})
 - [Infection urinaire pendant la grossesse]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
@@ -85,6 +87,65 @@ Vaccins à réaliser pendant la grossesse ([fiche Vaccination]({{< relref "vacci
 - En période épidémique: grippe
 
 > {{< references/calendrier-vaccinal >}}
+
+{{% /collapse %}}
+{{%collapse "Prévention de l'allo-immunisation Rhésus D" %}}
+
+Pour toutes les femmes: double détermination du groupe sanguin RhD et rechercher d'agglutinines irrégulières (RAI) dès le premier trimestre de grossesse.
+
+### Femme Rhésus D négatif
+
+- Information sur l'immunisation anti-rhésus D (dépistage, suivi, prévention)
+- Détermination du RhD chez le conjoint  
+  Si le conjoint est RhD+ ou inconnu : génotypage RhD fœtal sur sang maternel à partir de 11 SA (que la grossesse soit unique ou multiple)
+- Si génotypage RhD fœtal:
+  - Fœtus RhD positif: injection d'immunoglobuline humaine anti-D (IgRh, [Rhophylac® 300](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68484547&typedoc=R)) à 28 SA (avant si évènement à risque)
+  - Fœtus RhD négatif: 2e génotypage après 15 SA à au moins 2 semaines du premier. Si RhD négatif confirmé, pas de prévention d'allo-immunisation nécessaire.
+  - Le RhD fœtal ne peut être déterminé sur 2 prélèvements: considérer comme RhD positif
+
+> - *CNGOF 2017*
+
+{{% /collapse %}}
+{{%collapse "Imageries et grossesse" %}}
+
+Un scanner thoraco-abdominopelvien avec ou sans injection de produit de contraste peut être réalisé s'il est indiqué pour la mère, << la balance bénéfice/risque de cet examen devant prévaloir à la décision de sa réalisation >>.
+
+> - *CNGOF/SFMU/SFAR 2022*
+
+{{% /collapse %}}
+{{%collapse "Urgences pendant la grossesse" %}}
+
+### Traumatisme pendant la grossesse
+
+- Chute ou traumatisme thoraco-abdominal non grave: examen obstétrical systématique après 20 SA
+
+> - *CNGOF/SFMU/SFAR 2022*
+
+### Menace d'accouchement imminent
+
+Signes prédictifs d'accouchement imminent à l'interrogatoire: multiparité, antécédent d'accouchement extrahospitalier ou rapide, contractions utérines douloureuses et rapprochées, envie de pousser.
+
+Toucher vaginal avant appel urgent de l'équipe obstétricale prévue.
+
+En ville, position gynécologique suggérée pour pouvoir réaliser la manœuvre de Mc Roberts (décubitus dorsal, cuisses hyperfléchies sur le tronc et avec possibilité d'abaisser la tête fœtale dans l'axe ombilico-coccygien).
+
+Pas d'épisiotomie systématique.
+
+> - *CNGOF/SFMU/SFAR 2022*
+
+### Menace d'accouchement prématuré (MAP)
+
+Pas de transport en SAMU systématique des MAP.
+
+> - *CNGOF/SFMU/SFAR 2022*
+
+### Pré-éclampsie sévère
+
+En ville, administrer systématiquement un anti-hypertenseur pour une pré-éclampsie sévère avec PAS ≥ 160 mmHg ou PAD ≥ 110 mmHg au repos et persistante plus de 15 minutes.
+
+Maintenir la pression artérielle sous ces seuils.
+
+> - *CNGOF/SFMU/SFAR 2022*
 
 {{% /collapse %}}
 {{%collapse "Prise de poids pendant la grossesse" %}}
@@ -134,6 +195,8 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 
 - [Ministère de la Santé. Vaccination contre le Covid-19 et maternité. 2023. (PDF)](https://sante.gouv.fr/IMG/pdf/fiche_-_vaccination_contre_le_covid-19_et_maternite.pdf)
 - [US Preventive Services Task Force, Barry MJ et al. Folic Acid Supplementation to Prevent Neural Tube Defects: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2807739)
+- [CNGOF, SFMU, SFAR. Prise en charge des urgences obstétricales en médecine d'urgence. Recommandations de Pratiques Professionnelles. 2022.](https://sfar.org/prise-en-charge-des-urgences-obstetricales-en-medecine-durgence/)
+- [CNGOF. Prévention de l'allo-immunisation Rhésus D chez les patientes de groupe Rhésus D négatif. 2017. (PDF)](https://cngof.fr/app/pdf/RPC//1-RPC%20DU%20CNGOF/2017/preventionalloimmunisation-MAJ-2017-12-21.pdf?x72671)
 
 ### Bibliographie en attente
 

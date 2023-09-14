@@ -1,8 +1,8 @@
 +++
-title = "Certificat de non contre-indication à la pratique du sport"
+title = "Certificat de non contre-indication à la pratique du sport (CNCI)"
 prefix = "le "
 noindex = true
-titleSeo = "Certificat du sportif"
+titleSeo = "Certificat pratique sport"
 description = "Recommandations pour l'établissement du certificat de non contre-indication à la pratique du sport. Examens complémentaires, ECG, épreuve d'effort ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

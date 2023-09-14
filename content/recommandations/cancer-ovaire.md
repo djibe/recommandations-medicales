@@ -193,15 +193,15 @@ Les personnes atteintes de mutations BRCA1 ou 2 ou du syndrome de Lynch ont un s
 {{% /collapse %}}
 {{%sources%}}
 
-- [INCa. Les caners de l'ovaire en 10 points clés. 2020. (PDF)](https://www.e-cancer.fr/content/download/292199/4161575/file/Cancers_de_l_ovaire_en_10_points_cles_mel_20200702.pdf)
+- [Sessa C et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
+- [INCa. Les cancers de l'ovaire en 10 points clés. 2020. (PDF)](https://www.e-cancer.fr/content/download/292199/4161575/file/Cancers_de_l_ovaire_en_10_points_cles_mel_20200702.pdf)
 - [INCa. Cancers de l'ovaire Du diagnostic au suivi. 2019. (PDF)](https://www.e-cancer.fr/content/download/275099/3902051/file/Cancers_ovaire_diagostic_suivi_mel_20190920.pdf)
 - [ACOG. Opportunistic Salpingectomy as a Strategy for Epithelial Ovarian Cancer Prevention. 2019.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/04/opportunistic-salpingectomy-as-a-strategy-for-epithelial-ovarian-cancer-prevention)
+- [Colombo N et al. ESMO–ESGO consensus conference recommendations on ovarian cancer: pathology and molecular biology, early and advanced stages, borderline tumours and recurrent disease. Annals of Oncology. 2019.](https://www.annalsofoncology.org/article/S0923-7534(19)31162-7/fulltext)
 - [ACOG. The Role of the Obstetrician–Gynecologist in the Early Detection of Epithelial Ovarian Cancer in Women at Average Risk. 2017.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/09/the-role-of-the-obstetriciangynecologist-in-the-early-detection-of-epithelial-ovarian-cancer-in-women-at-average-risk)
 
 ### Bibliographie en attente
 
-- [Sessa C. et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
-- [Colombo N. et al. ESMO–ESGO consensus conference recommendations on ovarian cancer: pathology and molecular biology, early and advanced stages, borderline tumours and recurrent disease. Annals of Oncology. 2019.](https://www.annalsofoncology.org/article/S0923-7534(19)31162-7/fulltext)
 - [ACOG. Hereditary Breast and Ovarian Cancer Syndrome. 2017. (payant)](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2017/09/hereditary-breast-and-ovarian-cancer-syndrome)
 
 {{%/sources%}}

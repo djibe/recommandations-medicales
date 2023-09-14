@@ -41,7 +41,7 @@ todo = "maladie pro, aliments riches K/P"
 Maladie rénale chronique (MRC)
 : {{%lang%}}Chronic kidney disease{{%/lang%}}
 : Présence d'une *insuffisance rénale chronique* (IRC):  
-Diminution du *débit de filtration glomérulaire estimé* (DFGe) < 60 mL/min/1,73 m² (formule {{< scores/ckd-epi >}})  
+Diminution du *débit de filtration glomérulaire estimé* (DFGe) < 60 mL/min/1,73 m² (formule {{< scores/ckd-epi >}} à utiliser selon *KDIGO 2012*)  
 OU présence ≥ 1 *marqueur d'atteinte rénale* persistant **plus de 3 mois**:  
     - Albuminurie ou protéinurie
     - Hématurie > 10/mm³ (hors cause urologique)  
@@ -53,15 +53,8 @@ OU présence ≥ 1 *marqueur d'atteinte rénale* persistant **plus de 3 mois**:
 Insuffisance rénale chronique terminale (IRCT)
 : Insuffisance rénale chronique avec un débit de filtration glomérulaire < 15 mL/min/1,73 m² (*stade 5* ou *terminale*).
 
-{{%info%}}
-
-### Estimation du débit de filtration glomérulaire
-
-Chez l'adulte, la formule utilisée pour estimer le débit de filtration glomérulaire (DFG ou DFGe) est celle du {{< scores/ckd-epi >}}.
-
-> *KDIGO 2012*
-
-{{%/info%}}
+Pour le stade de la maladie rénale chronique et l'albuminurie, voir *Clinique*
+{.alert .alert-info}
 
 ### Abréviations
 
@@ -159,7 +152,7 @@ Indications au suivi de la maladie rénale chronique par un néphrologue:
 Le recours au néphrologue est recommandé en cas de doute sur la nature de la maladie rénale ou des antécédents familiaux.
 
 {{%/collapse%}}
-{{%collapse "Clinique" %}}
+{{%collapse "Clinique, stade et albuminurie" %}}
 
 ### 1) Interrogatoire
 
@@ -279,11 +272,11 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
   - {{< modal-btn modal-nephrotoxiques >}}Éviction des néphrotoxiques{{< /modal-btn >}}
   - Pas d'automédication ou herbes chinoises
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire (RCV) élevé ou très élevé{{< /modal-btn >}}
-  - Sevrage tabagique et réduction d'alcool
+  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+  - Réduction de l'alcool
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Activité physique d'intensité modérée ≥ 150 min/semaine
   - {{< modal-btn modal-sel >}}Régime désodé < 5-6 g/j{{< /modal-btn >}} et hydrique 1,5 L/j (ni restreint ni forcé)
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Hypertension artérielle
   - Traitement si la PA n'est pas dans la cible (*KDIGO 2021*) ou ≥ 140/90 (*ESH 2023*)
   - Pression artérielle cible < 130/80 mmHg (*ESH 2023*) ou 120/90 mmHg (*KDIGO 2021*), {{%class%}}< 150-160 si +80 ans (*HAS 2021*){{%/class%}}
@@ -445,7 +438,7 @@ Mesures précédentes avec les particularités suivantes (*ADA*, *ESC 2023* et *
 - Protéines
   - Connaître les conséquences de l'excès de protéines
   - Limiter les protéines < 1 g/kg/j dès que la clairance est < 60
-- Apports en calcium, phosphore, potassium
+- [Apports en calcium]({{< relref "apports-calcium.md" >}}), phosphore, potassium
 
 Protection du capital veineux quand DFGe < 45 mL/min (pas de prélèvement des avant-bras)
 {.alert .alert-warning}
