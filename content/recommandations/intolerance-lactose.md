@@ -27,7 +27,7 @@ todo = "SEO 'test intolérance lactose remboursement', diarrhée chro, https://d
 - Toujours évoquer devant une [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
 - Diagnostic de l'intolérance au lactose: amélioration franche après un test d'éviction du lactose pendant 2 semaines car test respiratoire à l'hydrogène non remboursé
 - Prise en charge: des apports de 12 à 18 g quotidiens de lactose semblent tolérés
-- Maintenir des apports en produits laitiers pour apporter les micronutriments (calcium ++)
+- Maintenir des apports en produits laitiers pour apporter les micronutriments ([calcium]({{< relref "apports-calcium.md" >}}) ++)
 
 Articles liés: [allergie au gluten]({{< relref "maladie-coeliaque.md" >}}), [vitamine D]({{< relref "vitamine-d.md" >}}) et [ostéoporose]({{< relref "osteoporose.md" >}})
 

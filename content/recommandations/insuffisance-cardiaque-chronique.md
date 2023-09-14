@@ -260,7 +260,7 @@ Utiliser toujours le même marqueur au cours du suivi.
 
 La sensibilité de l'ECG est de 89%: << L'IC est peu probable en cas d'ECG totalement normal >> (*ESC 2021*)
 
-L'[épreuve d'effort]({{< relref "epreuve-effort.md" >}}) (EEVO<sub>2</sub>) est systématique au diagnostic d'insuffisance cardiaque (*SFC 2018*).
+L'**[épreuve d'effort]({{< relref "epreuve-effort.md" >}})** (EEVO<sub>2</sub>) est systématique au diagnostic d'insuffisance cardiaque (*SFC 2018*).
 
 ### Examen génétique
 

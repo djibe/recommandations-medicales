@@ -28,7 +28,7 @@ todo = "rankok"
 - Cible de vitamine D supérieure à 75 nmol/L à partir de 65 ans ou en cas de pathologie à risque, de chutes
 - Calcium: {{< modal-btn modal-calcium-enfant >}}assurer les besoins des enfants{{< /modal-btn >}}, {{< modal-btn modal-calcium-cible >}}apports quotidiens recommandés{{< /modal-btn >}} et {{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}
 
-Articles liés: [ostéoporose post-ménopausique]({{< relref "osteoporose.md" >}}) ou [masculine]({{< relref "osteoporose-masculine.md" >}})
+Articles liés: [apports en calcium]({{< relref "apports-calcium.md" >}}), [ostéoporose post-ménopausique]({{< relref "osteoporose.md" >}}) ou [masculine]({{< relref "osteoporose-masculine.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

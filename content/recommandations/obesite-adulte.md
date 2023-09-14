@@ -383,7 +383,7 @@ La prise en charge de l'obésité associe:
 - Mesures au moins annuelles (IMC, tour de taille)
 - Adaptations alimentaires (sensations, troubles)
 - Bilan des complications (voir Dépistage des complications)
-- Si chirurgie: signes carentiels (neurologiques), de dénutrition, supplémentation multivitamines, calcium, vitamine D et B12
+- Si chirurgie: signes carentiels (neurologiques), de dénutrition, supplémentation multivitamines, [calcium]({{< relref "apports-calcium.md" >}}), [vitamine D]({{< relref "vitamine-d.md" >}}) et B12
 
 ### Indication à la prise en charge de l'obésité en SSR
 

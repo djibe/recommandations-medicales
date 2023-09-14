@@ -18,6 +18,7 @@ icd10 = ""
 image = true
 imageSrc = "Epreuve d'effort avec EEVO2 en cours de réalisation par Mizzou CAFNR sur Foter.com / CC BY-NC"
 todo = "probabilite pre-test"
+flowchart = true
 +++
 
 {{%collapse "Définitions" %}}
@@ -341,9 +342,25 @@ atriale
 - PA > 200/110 mmHg (voire moins selon l'âge du patient)
 
 {{% /collapse %}}
+{{%collapse "Situations où réaliser un test d'effort" "show" %}}
+
+{{< mermaid title="Situations où l'opportunité de la réalisation test d'effort doit être évoquée selon la présentation clinique. Dr Alaedine Benani et JB Fron d'après SFC 2018 et 2022" >}}
+graph TB
+  indications["Envisager ou réaliser<br>un test d'effort"] --> sportif("<b>Sportif</b><br>—<br>- Perte performances<br>- Angor<br>- RCV élevé<br>- +40 ans sédentaire<br>reprenant intense")
+  style indications stroke:#4150f5, stroke-width:1px
+  indications --> cardiovasculaire("<b>Cardiovasculaire</b><br>—<br>- AOMI<br>- Coronarien<br>- Cardiopathie cong.<br>- Chir cardiaque<br>- HTAP<br>- CMH<br>- Insuff. cardiaque<br>- Pacemaker, DAI<br>- Sténose aortique<br>sévère asympt.")
+  indications --> diabète("<b>Diabète</b><br>—<br>- Angor<br>- Dyspnée inexpliquée<br>- Perte performances<br>- Très haut risque coro<br>(LDL &gt; 1,9, albU &gt; 300<br>sténose ≥ 50%,<br>ondes Q anormales)")
+{{< /mermaid >}}
+
+Un test d'effort doit être envisagé chez un **professionnel** (pompier, militaire, policier, pilote de ligne, chauffeur routier) à RCV modéré.
+
+> **RCV =** risque cardiovasculaire
+
+{{%/collapse%}}
 {{%sources%}}
 
-- [Knuuti J. et al; ESC Scientific Document Group. 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes: The Task Force for the diagnosis and management of chronic coronary syndromes of the European Society of Cardiology (ESC). European Heart Journal. 2019.](https://academic.oup.com/eurheartj/article/41/3/407/5556137)
+- [CCS, GERS-P. Position commune du Club des Cardiologues du Sport (CCS) et du Groupe Sport (GERS-P) de la Société Française de Cardiologie sur le bilan cardio-vasculaire recommandé pour la pratique sportive. 2022.](https://www.sfcardio.fr/publication/recommandations-sur-le-bilan-cardiovasculaire-recommande-pour-la-pratique-sportive)
+- [Knuuti J et al; ESC Scientific Document Group. 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes: The Task Force for the diagnosis and management of chronic coronary syndromes of the European Society of Cardiology (ESC). European Heart Journal. 2019.](https://academic.oup.com/eurheartj/article/41/3/407/5556137)
 - [SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
 
 {{%/sources%}}
