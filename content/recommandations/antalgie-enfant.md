@@ -8,7 +8,7 @@ synonyms = ["Antidouleurs en pédiatrie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-12-26T00:12:41+02:00"
 publishdate = "2020-12-26"
-lastmod = "2023-03-25"
+lastmod = "2023-09-14"
 specialites = ["pediatrie"]
 annees = "2021"
 sources = ["Collège", "HAS", "Pediadol"]
@@ -162,6 +162,7 @@ Toujours disposer de naloxone intra-veineuse ([Narcan®](https://base-donnees-pu
 
 Autres méthodes antalgiques pouvant être associées au traitement médicamenteux:
 
+- Nourrisson: tenir dans les bras, succion (sein, tétine)
 - Solutions sucrées chez le nourrisson jusqu'à 6 mois  
   Allaitement, saccharose 24% (Algopédol®), glucosé 30%. Quelques gouttes sur le bout de la langue, 2 minutes avant le soin. Efficace 5-7 minutes.
 - MEOPA  
@@ -222,6 +223,7 @@ Rassurer, selon l'âge mobiliser: présence des parents, portage, paroles, allai
 {{%sources%}}
 
 - [ANSM. Anti-inflammatoires non stéroïdiens (AINS) et complications infectieuses graves. 28/04/2023.](https://ansm.sante.fr/actualites/anti-inflammatoires-non-steroidiens-ains-et-complications-infectieuses-graves)
+- [Pillai Riddell RR et al. Non-pharmacological management of infant and young child procedural pain. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006275.pub4/full)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Prise en charge de la douleur. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/enfant-vulnerable-genetique/prise-charge-douleur)
 - **[Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)**
 - [Comité de lutte contre la douleur Hôpitaux de Toulouse. Médicaments antalgiques en pédiatrie. 01/09/2017. (PDF)](https://www.chu-toulouse.fr/IMG/pdf/09_antalgiques_tableau_pediatrie_v6f.pdf)
@@ -233,11 +235,10 @@ Rassurer, selon l'âge mobiliser: présence des parents, portage, paroles, allai
 
 ### Bibliographie en attente
 
-- [Pillai Riddell RR et al. Non-pharmacological management of infant and young child procedural pain. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006275.pub4/full)
 - [Appli Livret Douleur APHP](https://play.google.com/store/apps/details?id=com.groupe_synapse.livretDouleur)
+- [Anaes. Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l'enfant de 1 mois à 15 ans. 2000. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/doulenf4.pdf)
 - CNRD Centre National de Ressources de lutte contre la Douleur
 - Modèles HAS
-- Modèles SFORL
 
 **Mots-clés:** antalgie, anti-douleur, antidouleur, antalgique, analgésique.
 

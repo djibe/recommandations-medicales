@@ -195,7 +195,7 @@ Antibiothérapies alternatives avant 15 ans:
 
 {{%warning%}}
 
-##### Antibiothérapie de l'enfant en situation de pénurie
+##### Antibiothérapie de l'angine de l'enfant en situation de pénurie
 
 Amoxicilline cp 1 g dispersible: 1/2 cp (à diluer dans 10 mL d'eau) matin et soir, de 3 à 10 ans (quel que soit le poids)  
 pendant 5 jours
@@ -224,6 +224,8 @@ Indications à une amygdalectomie chez l'enfant:
   - Angine aiguë dyspnéisante
 
 > *SFORL 2020*
+
+Antalgie après amygdalectomie: paracétamol + ibuprofène, voire tramadol ou morhpine.
 
 ### Troubles respiratoires du sommeil de l'enfant
 

@@ -93,33 +93,8 @@ HUGO_ENABLEGITINFO = "false"
   force = true
 
 [[redirects]]
-  from = "/images/photos/canal-carpien.webp"
-  to = "/images/photos/syndrome-canal-carpien.webp"
-  status = 301
-
-[[redirects]]
-  from = "/recommandations/contraception/céphalées"
-  to = "/recommandations/contraception/"
-  status = 301
-
-[[redirects]]
-  from = "/recommandations/contraception/tags/mvte/"
-  to = "/recommandations/contraception/"
-  status = 301
-
-[[redirects]]
-  from = "/recommandations/papillomavirus/"
-  to = "/recommandations/cancer-col-uterus/"
-  status = 301
-
-[[redirects]]
   from = "/?ref="
   to = "https://recomedicales.fr/"
-  status = 301
-
-[[redirects]]
-  from = "/recommandations/remboursement-psychologue-monpsy/"
-  to = "/recommandations/remboursement-psychologue-monparcourspsy/"
   status = 301
 
 # [[plugins]]

@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-16T08:08:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2023-09-08"
+lastmod = "2023-09-14"
 specialites = ["pediatrie"]
 annees = "2023"
 sources = ["HAS", "SFP"]
@@ -29,7 +29,7 @@ todo = "SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2005/revu
 - Critères d'hospitalisation de la bronchiolite: voir *Signes de gravité et hospitalisation*
 - Durée de la dyspnée de 3 à 10 jours (voire 6 semaines)
 - Recommandations de prise en charge de la bronchiolite: Éviction en phase aiguë - DRP - fractionner - surveillance - 0 tabac
-- Prévention de la bronchiolite: mesures barrières, injection IM d'anticorps nirsévimab Beyfortus® avant la sortie de maternité
+- Prévention de la bronchiolite: mesures barrières, injection IM d'anticorps **nirsévimab** Beyfortus® avant la sortie de maternité. Rattrapage pour ceux nés après le 6 février 2023 avec 1 seule injection selon le poids (voir [Prévention](#prévention-de-la-bronchiolite))
 - [Bronchiolite: Fiche conseils aux parents HAS (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 
 {{%/article-summary%}}
@@ -260,7 +260,7 @@ Indications à la prévention de la bronchiolite par une immunisation passive av
 
 - Pour 2023-2024: **tous les nourrissons** nés après le 6 février 2023
   - Prioritaires: prématurés, comorbidités, naissance pendant la période épidémique, < 6 mois au début de l'épidémie (octobre-novembre)
-  - Même si -1 an avec antécédent de bronchiolite non documentée à VRS (ex septembre-octobre)
+  - Même si -1 an avec antécédent de bronchiolite mais non documentée à VRS (ex septembre-octobre)
   - Également les +1 an éligibles au Synagis® (cf paragraphe suivant: dysplasie bronchopulmonaire ...)
   - Au mieux avant la sortie de maternité (rattrapage en ville sinon)
 - Une seule injection IM de nirsévimab (Beyfortus®)
@@ -271,7 +271,7 @@ Indications à la prévention de la bronchiolite par une immunisation passive av
 - Avec mention dans le Carnet de santé à la section << Statut clinique ou immunitaire pour les maladies à prévention vaccinale >>
 - Par un généraliste, pédiatre, ~~sage-femme~~ ou infirmier sur prescription
 - Effets indésirables possibles: rash, induration, fièvre
-- Disponible en pharmacie à partir du 15 septembre
+- Disponible en pharmacie à partir du 15 septembre 2023
 - Et intégralement remboursé
 
 #### Immunoglobulines anti-VRS
@@ -432,6 +432,7 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Bronchiolite : la HAS publie des réponses rapides pour accompagner l’administration du Beyfortus®](https://www.has-sante.fr/jcms/p_3461146/fr/bronchiolite-la-has-publie-des-reponses-rapides-pour-accompagner-l-administration-du-beyfortus)
 - [Infovac-France. Bulletin n°8 Août - Spécial Nirsevimab et Beyfortus. 28/08/2023.](https://www.infovac.fr/actualites/bulletin-n-8-aout-special-nirsevimab-et-beyfortus)
 - [CNP de Pédiatrie. Stratégie de prévention des bronchiolites à VRS des nourrissons. 2023. (PDF)](https://afpa.org/content/uploads/2023/08/Reco-CNP-Pe%CC%81diatrie-21-08-2023.pdf)
 - [HAS. nirsévimab Beyfortus. Avis sur les médicaments. 2023. (PDF)](https://www.has-sante.fr/upload/docs/evamed/CT-20356_BEYFORTUS_PIC_INS_AvisDef_CT20356.pdf)
