@@ -115,7 +115,7 @@ Les premières mesures visent à obtenir une régularisation du transit et de la
 - **Rééducation** périnéale et abdominale  
   Par kinésithérapeute ou sage-femme (sauf défaut sphinctérien). Exercices et **biofeedback**. 10-20 séances initiales.
 - Régularisation du transit intestinal
-  - Si **constipation**: augmenter les fibres, laxatifs ([macrogol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63229902&typedoc=R)) voire suppositoires ([glycérine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66177695&typedoc=R)) ou lavements (Microlax®, Norgalax® ou Normacol®)
+  - Si **[constipation]({{< relref "constipation.md" >}})**: augmenter les fibres, laxatifs ([macrogol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63229902&typedoc=R)) voire suppositoires ([glycérine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66177695&typedoc=R)) ou lavements (Microlax®, Norgalax® ou Normacol®)
   - Si **diarrhées**: augmenter les fibres ± laxatifs mucilage ([ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68520477&typedoc=R) ou autre), sauf anomalie sphinctérienne
 - Information du patient: [site SNFCP](https://www.snfcp.org/informations-maladies/constipation-et-incontinence/incontinence-fecale/)
 - L'acupuncture peut être considérée (*ESCP*)

@@ -147,7 +147,7 @@ Hydromorphone, oxycodone.
 ### Surveillance de l'enfant sous opioïdes
 
 - EVA/EN
-- Constipation
+- [Constipation]({{< relref "constipation.md" >}})
 - Somnolence: surveillance rapprochée voire réduction des doses si une stimulation physique est nécessaire pour le réveiller
 - Fréquence respiratoire (seuil d'alerte): < 20/min avant 1 an | < 15/min de 1-4 ans | < 10/min à partir de 5 ans
 - Contrôle de la saturation

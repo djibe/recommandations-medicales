@@ -42,6 +42,8 @@ Apports alimentaires recommandés pendant la croissance afin de satisfaire les b
 
 {{< clinique/calcium-cible >}}
 
+> - Également *[[Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Alimentation et besoins nutritionnels. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/alimentation#e-apports-en-calcium-conseilles)*
+
 ## Teneur en calcium des aliments {.mt-5}
 
 {{< traitements/aliments-calcium >}}

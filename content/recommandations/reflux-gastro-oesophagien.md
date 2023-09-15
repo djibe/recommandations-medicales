@@ -189,7 +189,7 @@ Mesures générales de prise en charge du reflux gastro-œsophagien:
   - Surélévation de la tête du lit de 45° (10-15 cm)
   - Éviter les vêtements serrés et de s'allonger ou jardiner après les repas
   - Éviter les postures à risque
-- Lutte contre la constipation
+- Lutte contre la [constipation]({{< relref "constipation.md" >}})
 - Correction d'un surpoids ou obésité abdominale
 - Augmenter l'activité physique
 - Mastiquer suffisamment et manger lentement  

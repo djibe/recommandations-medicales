@@ -55,7 +55,7 @@ Symptômes classiques de l'intolérance au lactose. Ils apparaissent souvent dan
 - Douleurs abdominales
 - Ballonnements
 - Flatulences
-- [Diarrhées]({{< relref "diarrhee-chronique.md" >}}), constipation
+- [Diarrhées]({{< relref "diarrhee-chronique.md" >}}), [constipation]({{< relref "constipation.md" >}})
 - Borborygmes (bruits digestifs)
 - Nausées et vomissements
 

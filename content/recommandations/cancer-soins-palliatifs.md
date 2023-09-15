@@ -39,7 +39,7 @@ TODO:
 | Anémie        | Surveillance régulière de la NFS | INCa TODO: |
 | Anorexie, dénutrition |  | INCa TODO: |
 | Arthralgie, myalgie |  | INCa TODO: |
-| Constipation        | Alimentation, hydratation, activité physique, laxatifs | INCa TODO: |
+| [Constipation]({{< relref "constipation.md" >}}) | Alimentation, hydratation, activité physique, laxatifs | INCa TODO: |
 | Diarrhées        | Antidiarrhéiques. Irinotécan dans les 7 jours. Consultation urgente si abondante, rectorragies, fièvre | INCa TODO: |
 | Éruption cutanée | Éviter l'exposition solaire, cs médicale | INCa TODO: |
 | Fièvre        | Injection préventive de G-CSF. Si fébrile ≥ 38,5°C: NFS  | INCa TODO: |

@@ -186,7 +186,7 @@ Mesures hygiéniques pour tous les patients rapportant des SBAU liés à une HBP
 
 - Réduction des apports hydriques après 18 heures ou avant d'aller dans les lieux publics
 - Réduire les consommations d'alcool et de café
-- Traitement d'une constipation
+- Traitement d'une [constipation]({{< relref "constipation.md" >}})
 - Arrêt des traitements favorisants (anticholinergiques, neuroleptiques) et décalage des traitements (diurétiques)
 - Drainage urétral en fin de miction
 - Techniques de distraction pour ignorer les symptômes vésicaux  

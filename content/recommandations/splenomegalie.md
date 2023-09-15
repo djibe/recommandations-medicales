@@ -118,7 +118,7 @@ Le diagnostic de splénomégalie est clinique.
 - Symptômes  
   Pesanteur ou douleur de l'hypochondre gauche, augmentée en inspiration profonde, irradiation vers l'épaule gauche.
 - Troubles digestifs ou vésicaux  
-  Gêne postprandiale, douleur, constipation.
+  Gêne postprandiale, douleur, [constipation]({{< relref "constipation.md" >}}).
 
 ### Examen clinique
 

@@ -5,24 +5,31 @@ description = "Recommandations pour la prise en charge de la constipation. Trait
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-08-28T10:44:20+02:00"
-publishdate = "2023-09-14"
-lastmod = "2023-09-14"
+publishdate = "2023-09-15"
+lastmod = "2023-09-15"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2018"
 sources = ["SNFGE", "SNFCP"]
-tags = ["geriatrie", "grossesse", "nourrisson"]
+tags = ["enfant", "geriatrie", "grossesse"]
 anglais = ["Constipation"]
 sctid = "14760008"
 icd10 = "K59.0"
 draft = true
-image = false
-imageSrc = ""
-todo = "summary > liens > photo"
+image = true
+imageSrc = "Illustration de la constipation par storyset / Freepik"
+todo = "nourrisson, Rome IV"
 +++
 
 {{%article-summary%}}
 
-TODO:
+- La constipation est définie par les critères de Rome IV avec au moins 2 des symptômes suivants depuis au moins 6 mois: selles peu fréquentes (< 3 par semaine), selles dures, efforts de poussées, sensation d'évacuation incomplète, sensation de blocage ano-rectal, manœuvres digitales ou autres pour faciliter l'exonération
+- L'examen clinique chez le constipé recherche des signes de constipation organique et des signes d'alarme (AEG, rectorragies après 50 ans)
+- Le bilan élimine une cause métabolique et une anémie: NFS, CRP, glycémie à jeun voire d'autres examens
+- Coloscopie si apparition ou modification récente des symptômes après 50 ans, AEG, rectorragies ou anémie, risque élevé de cancer colorectal
+- La prise en charge de la constipation associe des mesures hygiéno-diététiques (apports en fibres 25 g/j, adaptation des traitements) et des traitements laxatifs osmotiques (macrogol) et/ou de lest (ispaghul) en première intention
+- Suppositoires et lavements en cas de constipation terminale (dyschésie)
+
+Chapitre lié: [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -30,7 +37,10 @@ TODO:
 Constipation
 : Critères diagnostiques de *Rome IV*, au moins 2 des symptômes suivants depuis au moins 6 mois: selles peu fréquentes (< 3 par semaine), selles dures, efforts de poussées, sensation d'évacuation incomplète, sensation de blocage ano-rectal, manœuvres digitales ou autres pour faciliter l'exonération (pour au moins 25% des défécations).
 : Lorsque les douleurs abdominales sont fréquentes, le diagnostic de [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) avec constipation peut être retenu.
-: La fausse-diarrhée qui suit l'évacuation est le signe d'une souffrance intestinale.
+: La << fausse diarrhée >> qui suit l'évacuation ne doit pas faire interrompre l'évacuation.
+
+Dyschésie
+: Difficulté à évacuer le contenu rectal dans des conditions simples. (*SNFCP*)
 
 ### Abréviations
 
@@ -53,10 +63,11 @@ SNFGE
 ### Interrogatoire
 
 - Antécédents
-  - [Syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [Parkinson]({{< relref "maladie-parkinson.md" >}}), [prolapsus génital]({{< relref "prolapsus-genital-femme.md" >}}) ...
-  - Enfant: [énurésie primaire]({{< relref "enuresie-primaire.md" >}})
+  - [Syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), neurologique ([Parkinson]({{< relref "maladie-parkinson.md" >}}), SEP, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) ...), [prolapsus génital]({{< relref "prolapsus-genital-femme.md" >}}) ...
+  - Enfant: retard d'émission du méconium (> 48 heures), [énurésie primaire]({{< relref "enuresie-primaire.md" >}})
 - Antécédents familiaux (intestinaux, [cancer](/tags/cancer/))
-- Traitements en cours et essayés
+- Traitements en cours et essayés  
+  Fer, antalgiques, antidiarrhéiques, anticholinergiques, antidépresseur, furosémide ...
 - Régime alimentaire, apports hydriques
 - Dépistages des cancers recommandés
 - Transit
@@ -70,22 +81,25 @@ SNFGE
   - Alternance diarrhées-constipation
 - Autres symptômes
   - Douleurs abdominales
-  - Rectorragies, méléna
   - [Fissure anale]({{< relref "fissure-anale.md" >}}), [incontinence fécale]({{< relref "incontinence-fecale.md" >}}) ou [hémorroïdaires]({{< relref "hemorroides.md" >}})
+- Signes d'alarmes (drapeaux rouges)  
+  AEG, rectorragies, méléna, constipation sévère persistante et résistante sans cause évidente, syndrome rectal (épreinte, ténesme, faux besoins), masse abdominale ou rectale.
 
 ### Examen clinique
 
 - Poids et variations, taille, IMC
-- Examen abdominal
+- Examen abdominal  
+  Douleurs en fosse iliaque gauche, météorisme abdominal.
 - Examen périnéal  
-  Inspection, toucher rectal.
+  Inspection ([hémorroïdes]({{< relref "hemorroides.md" >}}), [fissure anale]({{< relref "fissure-anale.md" >}})), toucher rectal (fécalome, rectocèle, tonus sphinctérien).
+- Enfant: courbes de croissance
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 ### Bilan d'une constipation
 
-Le bilan vise à éliminer une cause métabolique et une [anémie]({{< relref "anemie.md" >}}):
+Le bilan vise à éliminer une cause métabolique et une [anémie]({{< relref "anemie.md" >}}) chez l'adulte:
 
 - NFS, CRP
 - Glycémie à jeun
@@ -102,6 +116,8 @@ Indications à la coloscopie pour constipation: apparition ou modification réce
 {{% /collapse %}}
 {{%collapse "Traitement de la constipation" %}}
 
+En cas de constipation secondaire, la prise en charge est principalement étiologique.
+
 ### Mesures hygiéno-diététiques
 
 Mesures à mettre en place chez le sujet constipé:
@@ -109,11 +125,12 @@ Mesures à mettre en place chez le sujet constipé:
 - Calendrier des selles
 - Adaptation des traitements aggravants
 - Augmentation progressive (sur 2 semaines) des apports en fibres (min 25 g/j)
-- Apports hydriques, eaux minérales riches en magnésium
-- Activité physique régulière
+- Apports hydriques adaptés, eaux minérales riches en magnésium
+- Activité physique régulière (n'améliore pas la constipation)
 - Respecter le réflexe gastro-intestinal
 - Prévention des [hémorroïdes]({{< relref "hemorroides.md" >}})  
-  Ne pas se retenir, éviter les efforts de poussée, position adaptée (marchepied), limiter le temps aux toilettes.
+  Ne pas se retenir, éviter les efforts de poussée, position adaptée (marchepied), limiter le temps aux toilettes, siège de WC adapté à l'âge.
+- Psychothérapie en cas de comorbidité
 
 Prise en charge d'un [prolapsus pelvien]({{< relref "prolapsus-genital-femme.md" >}}).
 
@@ -121,15 +138,16 @@ Prise en charge d'un [prolapsus pelvien]({{< relref "prolapsus-genital-femme.md"
 
 Les **laxatifs osmotiques** de polyéthylènes glycol (**PEG**) sont recommandés en première intention: [macrogol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63229902&typedoc=R). Ils sont autorisés pendant la grossesse.
 
-Les laxatifs de lest sont également recommandés en première intention: ispaghul (graine de psyllium: [Psylia](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68520477&typedoc=R), psyllium, Spagulax). Ils sont autorisés pendant la grossesse.
+Les **laxatifs de lest** sont également recommandés en première intention: ispaghul (graine de psyllium: [Psylia®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68520477&typedoc=R), psyllium, Spagulax®). Ils sont autorisés pendant la grossesse.
 
 Les laxatifs par voie rectale (lavements et suppositoires) sont recommandés en première intention pour la constipation d'évacuation: [Eductyl®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68550890&typedoc=R)
 
-### Traitements de deuxième intention
+### Traitements de deuxième intention de la constipation
 
 - Constipation d'évacuation: **rééducation** abdo-périnéale par biofeedback
   - Patient neurologique: **irrigation trans-anale** Peristeen®. Peut être proposée en l'absence de pathologie neurologique (*SNFCP*)
 - Traitement spécialisé: **toxique botulique** du sphincter anal
+- La chirurgie (colectomie) est exceptionnelle et relève d'un centre expert
 
 > **Probiotiques** et **thérapies non médicamenteuses**: << Il n'existe pas de preuve convaincante de l'efficacité de ces thérapies dans le traitement de la constipation chronique (*SNFGE 2018*). Ils peuvent être recommandés chez des sujets en échec ayant une forte << sensibilité >> et << confiance >> dans de telles approches (*SNFCP*)
 {.alert .alert-info}
@@ -145,12 +163,12 @@ Les laxatifs par voie rectale (lavements et suppositoires) sont recommandés en 
 {{%sources%}}
 
 - {{< references/college-gastro >}}
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Constipation. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/constipation)
 - [Mion F. Constipation. Conseil de pratique. SNFGE et GFNG. 2018. (PDF)](https://www.snfge.org/download/file/fid/4872)
 - [SNFCP. Prise en charge de la CONSTIPATION - version courte. Recommandations pour la pratique clinique. 2017. (PDF)](https://www.snfcp.org/wp-content/uploads/2017/Recommandations/Constipation-RPC-TC-2017.pdf)
 
 ### Bibliographie en attente
 
-- Autres
-- CNPU
+[La Revue Colo-Proctologie. Constipation d'évacuation.](https://larevue.snfcp.org/constipation-devacuation/)
 
 {{%/sources%}}

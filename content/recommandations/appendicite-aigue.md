@@ -95,7 +95,7 @@ Signes et symptômes devant faire évoquer une appendicite aiguë:
   - Type torsion ou crampe et devient permanente sans irradiation
   - Soulagée immobile jambes pliées. Augmentée à la toux et mouvements de cuisse.
   - **Psoïtis**
-  - Troubles digestifs: nausées (50%), constipation (30%) voire diarrhées, anorexie
+  - Troubles digestifs: nausées (50%), [constipation]({{< relref "constipation.md" >}}) (30%) voire diarrhées, anorexie
 - Enfant: plus fréquentes à partir de 10 ans et chez le garçon
 - Signes négatifs
   Signes fonctionnels urinaires, gynécologiques.

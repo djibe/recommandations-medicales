@@ -167,7 +167,7 @@ Tout signe évocateur de cancer colorectal impose une consultation de gastro-ent
 Signes évocateurs de cancer colorectal en cas de symptômes persistants:
 
 - Rectorragies, méléna (melæna), occulte ([anémie ferriprive]({{< relref "anemie.md" >}}))
-- Alternance diarrhée - constipation
+- Alternance diarrhée - [constipation]({{< relref "constipation.md" >}})
 - Douleurs abdominales d'apparition récente, persistantes ou inexpliquées (+50 ans ++)
 - Syndrome rectal  
   Faux besoins, ténesme, épreintes.

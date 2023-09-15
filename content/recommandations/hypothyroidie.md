@@ -146,7 +146,7 @@ T4L
 - Palpation thyroïdienne  
   Souvent ferme et hétérogène, pseudo-nodulaire, taille variable, goitre (Hashimoto) ou atrophique (thyroïdite).
 - Signes généraux  
-  [Fatigue](/tags/fatigue/) (physique, intellectuelle, sexuelle), prise de poids modeste, constipation, frilosité.
+  [Fatigue](/tags/fatigue/) (physique, intellectuelle, sexuelle), prise de poids modeste, [constipation]({{< relref "constipation.md" >}}), frilosité.
 - Phanères  
   Ongles secs et cassants, dépilation (queue du sourcil) et pousse lente des cheveux et poils, peau épaissie, froide, sèche et squameuse, teint carotinodermique (jaunâtre), cicatrisation lente.
 - Myxœdème  

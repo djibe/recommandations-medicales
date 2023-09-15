@@ -278,7 +278,7 @@ Indication à la prise en charge par traitement de fond de l'algie vasculaire de
 - **Surveillance ECG** initiale, puis tous les 6 mois ou chaque augmentation de 160  au-delà de 480 mg/j
 - Le temps de la titration, la prednisone peut être utilisée (voir plus bas)
 
-Effets indésirables (35%): fatigue, constipation, œdèmes des chevilles, hyperplasie gingivale.
+Effets indésirables (35%): fatigue, [constipation]({{< relref "constipation.md" >}}), œdèmes des chevilles, hyperplasie gingivale.
 
 ### Traitement transitionnel
 

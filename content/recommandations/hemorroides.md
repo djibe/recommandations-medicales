@@ -128,7 +128,7 @@ L'objectif de la prise en charge médicale des hémorroïdes est de soulager les
   - Flavonoïdes ([diosmine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69941714&typedoc=R), rutosides)  
     Diminuent la durée et l'intensité des symptômes internes (dont rectorragies). En cure courte ou au long cours.
   - Ginkgo Biloba, troxerutine cure courte (Rheoflux®, Veinamitol®)
-- Si constipation:
+- Si [constipation]({{< relref "constipation.md" >}}):
   - Boire 1,5 L/j
   - Alimentation riche en fibre
   - Ne pas se retenir, éviter les efforts de poussée, position adaptée (marchepied), limiter le temps aux toilettes

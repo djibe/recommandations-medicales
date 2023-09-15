@@ -35,10 +35,10 @@ Fissure anale
 ### Facteurs de risque de fissure anale
 
 - **Traumatisme ou irritation du canal anal**  
-  Accouchement, constipation, [diarrhée]({{< relref "diarrhee-chronique.md" >}}), sodomie.
-- [Infections sexuellement transmissibles](/tags/ist/): syphilis locale, VIH
+  Accouchement, [constipation]({{< relref "constipation.md" >}}), [diarrhée]({{< relref "diarrhee-chronique.md" >}}), sodomie.
+- [Infections sexuellement transmissibles](/tags/ist/): [syphilis locale]({{< relref "syphilis.md" >}}), [VIH]({{< relref "vih-sida.md" >}})
 - Maladie de Crohn
-- Tuberculose
+- [Tuberculose]({{< relref "tuberculose.md" >}})
 - Hémopathie
 
 ### Diagnostic différentiel de la fissure anale
@@ -46,7 +46,7 @@ Fissure anale
 - Abcès périanal (douleur permanente pulsatile)
 - Fistule anorectale (écoulement purulent)
 - [Thrombose hémorroïdaire externe]({{< relref "hemorroides.md" >}}) (douleur permanente)
-- Dermatose: psoriasis, eczéma
+- Dermatose: psoriasis, [eczéma]({{< relref "dermatite-atopique.md" >}})
 - Cancer anal
 
 ### Abréviations

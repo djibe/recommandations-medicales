@@ -207,7 +207,7 @@ La triade classique est akinésie/bradykinésie, rigidité et tremblement de rep
   - Douleurs pseudo-rhumatismales (épaule, rachis) ou diverses (paresthésies, radiculalgies)
   - Hyposmie précoce (73-90%)
   - Troubles du sommeil paradoxal (rêves agités)
-  - Constipation
+  - [Constipation]({{< relref "constipation.md" >}})
   - Amaigrissement et asthénie
   - Hallucinations (visuelles ++)
   - Déclin cognitif (1/3 au diagnostic)  

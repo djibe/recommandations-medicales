@@ -53,7 +53,7 @@ Le tableau clinique est souvent fruste. Signes et symptômes des ténias ou tæn
 - Signes digestifs
   - Anorexie ou [boulimie]({{< relref "boulimie-hyperphagie.md" >}})
   - Nausées ou vomissements
-  - Troubles du transit avec alternance de diarrhées et constipation
+  - Troubles du transit avec alternance de diarrhées et [constipation]({{< relref "constipation.md" >}})
   - Ballonnements
   - Douleurs épigastriques ou pseudo-appendiculaires
   - Prurit anal

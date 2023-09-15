@@ -155,7 +155,7 @@ ou maladie de Basedow
 #### Symptômes de la maladie cœliaque chez l'enfant
 
 - Toujours: **Retard de croissance**, **diarrhée**, fonte musculaire, **anorexie**, distension abdominale.
-- Souvent: détresse émotionnelle, humeur labile, fatigue, constipation, douleurs abdominales
+- Souvent: détresse émotionnelle, humeur labile, [fatigue](/tags/fatigue/), [constipation]({{< relref "constipation.md" >}}), douleurs abdominales
 
 Le diagnostic est affirmé par un faisceau d'arguments cliniques, biologiques, par la biopsie du grêle **ET** par la régression de ces signes en **éviction totale du gluten**.
 

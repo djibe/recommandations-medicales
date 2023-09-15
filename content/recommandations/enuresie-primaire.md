@@ -68,7 +68,7 @@ Intensité:
 - Signes d'anomalie urinaire  
   Pertes d'urines, urgenturie, > 7 ou < 4 mictions diurnes, douleurs mictionnelles, jet faible, nécessité de pression abdominale pour uriner.  
   Avis urologique si présent.
-- Constipation  
+- [Constipation]({{< relref "constipation.md" >}})  
   Efforts de poussée, selles dures ou [incontinence fécale]({{< relref "incontinence-fecale.md" >}}).
 - Mictions la journée  
   {{%class%}}Sécrétion inversée de vasopressine{{%/class%}}
@@ -114,7 +114,7 @@ Seul traitement première intention (20% de guérison).
 - Rassurer et déculpabiliser l'enfant voire proposer un soutien psychologique
 - Informer sur la maladie
 - [Calendrier mictionnel](https://afpa.org/content/uploads/2017/08/nuit-au-sec-carre%CC%81-blanc.jpg) en suivant les conseils pendant ≥ 2 semaines
-- Correction d'une constipation ou infection urinaire
+- [Correction d'une constipation]({{< relref "constipation.md" >}}) ou infection urinaire
 
 Aucune étude fiable sur: hypnose, psychothérapie, acupuncture, homéopathie et chiropraxie
 {.alert .alert-warning}

@@ -50,7 +50,7 @@ Constipation
 ### Diagnostic différentiel
 
 - Diarrhée fonctionnelle
-- Constipation fonctionnelle
+- [Constipation fonctionnelle]({{< relref "constipation.md" >}})
 - Distension abdominale fonctionnelle
 - [Dyspepsie]({{< relref "dyspepsie.md" >}})
 - [Cancer colorectal]({{< relref "cancer-colorectal.md" >}})

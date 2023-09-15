@@ -132,7 +132,7 @@ L'interrogatoire est primordial pour orienter vers l'origine de la diarrhée chr
   - Volume, fréquence, consistance, résidus, glaires, sang, graisseuses, coloration, odeur
   - AEG
   - Autres troubles digestifs  
-    Douleurs, ballonnements, flatulences, alternance diarrhée-constipation, épreinte, ténesmes, faux besoin, impériosité, rectorragies.
+    Douleurs, ballonnements, flatulences, alternance diarrhée-[constipation]({{< relref "constipation.md" >}}), syndrome rectal (épreinte, ténesmes, faux besoins), impériosité, rectorragies.
 - Signes négatifs
   - [Incontinence fécale]({{< relref "incontinence-fecale.md" >}})
   - Consistance conservée

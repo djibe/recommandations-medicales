@@ -76,7 +76,7 @@ La hernie inguinale est très fréquente et atteint surtout l'homme. Elle est co
   {{%class%}}Charge le scrotum et recherche le canal inguinal où normalement le doigt ne peut s'infiltrer.{{%/class%}}
 - Prendre en compte la profession et le niveau d'activité physique
 - Facteurs favorisants la hernie  
-  [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) et [toux chronique]({{< relref "toux-chronique.md" >}}), constipation, dysurie.
+  [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) et [toux chronique]({{< relref "toux-chronique.md" >}}), [constipation]({{< relref "constipation.md" >}}), dysurie.
 
 Pas d'examen complémentaire.
 

@@ -143,7 +143,7 @@ Prise en charge générale du prolapsus génital de la femme:
 - Correction d'un surpoids
 - Augmentation de l'activité physique
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Prise en charge d'une constipation chronique
+- Prise en charge d'une [constipation chronique]({{< relref "constipation.md" >}})
 - Éducation au port de charges
 - Éducation à la toux
 
