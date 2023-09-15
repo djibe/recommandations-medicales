@@ -163,14 +163,14 @@ Selon le tableau: hémocultures ou recherche de [paludisme en urgence]({{< relre
 - Leucocytes
   - Polynucléose neutrophile: infection bactérienne
   - Leucopénie: infection virale, typhoïde ou brucellose
-  - Hyperlymphocytose du jeune: syndrome mononucléosique
+  - Hyperlymphocytose du jeune: [syndrome mononucléosique]({{< relref "mononucleose-infectieuse.md" >}})
   - Hyperlymphocytose chronique après 40 ans: syndrome myéloprolifératif
   - Hyperleucocytose franche et polynucléose neutrophile et myélémie: syndrome myéloprolifératif
   - Leucopénie (2-4 G/L, thrombopénie) par hypersplénisme
 - Érythrocytes
   - Macrocytose isolée ou anémie macrocytaire arégénérative: hépatopathie (voire hémopathie)
   - Anémie régénérative: hémolyse constitutionnelle (frottis) ou acquise (Coombs direct)
-  - Polyglobulie: syndrome myéloprolifératif
+  - [Polyglobulie]({{< relref "polyglobulie.md" >}}): syndrome myéloprolifératif
 - Plaquettes
   - Thrombopénie: hypersplénisme (thrombopénie 50–90 G/L, leucopénie), infection, lupus voire hémopathie
 

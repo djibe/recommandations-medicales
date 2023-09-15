@@ -438,7 +438,7 @@ Envisager si (*HAS 2019*):
 
 - {{< modal-btn modal-severite-bpco >}}Obstruction très sévère (voire sévère){{< /modal-btn >}}
 - Cyanose
-- Polyglobulie
+- [Polyglobulie]({{< relref "polyglobulie.md" >}})
 - Signes d'insuffisance cardiaque droite  
   {{< clinique/insuffisance-cardiaque-droite >}}
 - SpO<sub>2</sub> ≤ 92% en air ambiant
