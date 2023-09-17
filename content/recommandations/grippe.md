@@ -7,7 +7,7 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2023-04-14"
+lastmod = "2023-09-17"
 specialites = ["infectiologie"]
 annees = "2023"
 sources = ["MinSanté", "HAS"]
@@ -22,7 +22,7 @@ todo = "grippe grossesse, antiviral"
 
 {{%article-summary%}}
 
-- Vaccination annuelle contre la grippe des personnes à risque de forme grave (+65 ans, grossesse, ...) à partir de mi-octobre (en métropole). Prolongation exceptionnelle de la campagne jusqu'au 31/03/2023
+- Vaccination annuelle contre la grippe des personnes à risque de forme grave (+65 ans, grossesse, ...) à partir de mi-octobre (en métropole)
 - Le vaccin ne donne évidemment pas de syndrome grippal puisqu'il ne contient que quelques protéines de surface virales
 - Le rappel antigrippal est couplé à la vaccination Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*)
 
@@ -142,7 +142,7 @@ Vaccins contre la grippe disponibles en France pour la campagne vaccinale:
 
 Le vaccin intranasal Fluenz Tetra® n'est pas disponible en France.
 
-La campagne de vaccination débute le <mark>18 octobre 2022</mark> et est [poursuivie jusqu'au 31 mars 2023](httphttps://www.service-public.fr/particuliers/actualites/A15259).
+La campagne de vaccination débute le <mark>17 octobre 2023</mark> ([MinSanté](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/la-campagne-de-vaccination-contre-le-covid-19-avancee-de-15-jours-commencera-le)).
 
 [Document CRATB d'information patient contre la grippe (PDF)](http://medqual.fr/images/PRO_2018/CAT-PATHO-IFECTIEUSE/GRIPPE/MEDCAL_GRIPPE_A3_OK_VF.pdf)
 

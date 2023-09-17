@@ -14,7 +14,6 @@ tags = ["enfant", "geriatrie", "grossesse"]
 anglais = ["Constipation"]
 sctid = "14760008"
 icd10 = "K59.0"
-draft = true
 image = true
 imageSrc = "Illustration de la constipation par storyset / Freepik"
 todo = "nourrisson, Rome IV"
