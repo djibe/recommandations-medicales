@@ -178,7 +178,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- Société française d'hématologie (sfh). Hématologie. Réussir son DFASM. 2021.
+- Société française d'hématologie (sfh). Hématologie Réussir son DFASM. 2021.
 - [Donadieu J. Recommandations pour le diagnostic et la prise en charge des patients ayant une neutropénie chronique. CEREDIH. 2009. (PDF)](https://www.ceredih.fr/uploads/Recos-neutro_immuno-long_v4.pdf)
 
 ### Bibliographie en attente

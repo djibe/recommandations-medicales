@@ -254,7 +254,7 @@ graph TB
 
 - [Centre de Référence des Syndromes Hyperéosinophiliques (CEREO), Filière de santé maladies Rares Immuno-hématologiques (MaRIH). Hyperéosinophilies et syndromes hyperéosinophiliques. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3346155/fr/hypereosinophilies-et-syndromes-hypereosinophiliques)
 - [CMIT. Éosinophilie. Item 218. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-218-web.pdf)
-- Société française d'hématologie (sfh). Item 218 - Éosinophilie. Hématologie. Réussir son DFASM. 2021.
+- Société française d'hématologie (sfh). Item 218 - Éosinophilie. Hématologie Réussir son DFASM. 2021.
 - Collège National des Enseignants de Médecine Interne (CEMI). Eosinophilie. Item 23. Référentiel Collège de Médecine interne R2C. 2021.
 
 ### Bibliographie en attente

@@ -6,7 +6,7 @@ synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T12:42:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2023-07-10"
+lastmod = "2023-09-18"
 specialites = ["infectiologie"]
 annees = "2018"
 sources = ["SPILF", "HCSP"]
@@ -86,7 +86,7 @@ Un accès palustre doit être éliminé avant d'étayer les autres causes de fi�
 - Formes graves: 16,2% (2021), à 98,6% par *P falciparum*
 - Décès en France: 8 (2021)
 
-L'Afrique subsaharienne comptabilise 90% des cas mondiaux.
+L'Afrique subsaharienne comptabilise 90% des cas mondiaux de paludisme.
 
 {{< card-link-external title="Malaria Atlas Project" subtitle="Données sur le paludisme" url="https://data.malariaatlas.org/">}}
 
@@ -99,7 +99,7 @@ Les accès palustres graves sont quasi exclusivement liés à *Plasmodium falcip
 Appel du 15 en cas de suspicion d'accès palustre grave:
 
 - Troubles neurologiques  
-  Obnubilation, confusion, somnolence, prostration, convulsion.
+  Obnubilation, confusion, somnolence, prostration, coma, convulsion.
 - Défaillance viscérale
 - Hypotension sévère
 - Hémorragie
@@ -131,7 +131,7 @@ Appel du 15 en cas de suspicion d'accès palustre grave:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << Toute fièvre dans les 3 mois suivant le retour d'une zone d'endémie est un paludisme jusqu'à preuve du contraire >> (*Anofel 2022*, rappelé par *HCSP 2023*) et << toute fièvre doit faire rechercher un antécédent de séjour en zone d'endémie (*CMIT 2021*)
+> << Toute fièvre dans les 3 mois suivant le retour d'une zone d'endémie est un paludisme jusqu'à preuve du contraire >> (*Anofel 2022*, rappelé par *HCSP 2023*) << quels que soient les symptômes associés et même si un foyer infectieux ou une co-infection (dengue) est identifié >> (*SPILF 2020*) et << toute fièvre doit faire rechercher un antécédent de séjour en zone d'endémie (*CMIT 2021*)
 {.alert .alert-warning}
 
 L'incubation du paludisme est asymptomatique et dure:
@@ -139,8 +139,12 @@ L'incubation du paludisme est asymptomatique et dure:
 - Minimum 7 jours pour *P. falciparum*, 10 à 15 jours pour les autres
 - Maximum 2 mois pour *P. falciparum*, 3 ans *P. vivax* et *ovale*, plus de 10 ans pour *P. malariae*.
 
-Signes et symptômes de l'accès palustre simple de l'adulte, tableau pseudo-grippal dans les 3 mois suivants le retour de **voyage** d'une zone impaludée:
+Interrogatoire, signes et symptômes de l'accès palustre simple de l'adulte, **tableau pseudo-grippal dans les 3 mois suivants le retour de voyage** d'une zone endémique:
 
+- Voyage dans les 3 mois en pays impaludé
+- Date de retour
+- Chimioprophylaxie antipaludique utilisée
+- Antécédent de traitements antipaludiques curatifs déjà utilisés
 - **Syndrome pseudo-grippal**
   - Fièvre élevée, brutale et intermittente (rarement stéréotypée tierce par *P. falciparum*)
   - Frissons, sueurs
@@ -150,6 +154,7 @@ Signes et symptômes de l'accès palustre simple de l'adulte, tableau pseudo-gri
 - Troubles digestifs  
   Douleurs abdominales, nausées, vomissements, diarrhées.
 - Examen clinique normal (neurologique ++)
+- Thrombopénie très fréquente (VPN élevée)
 
 Après quelques jours, tableau d'**anémie hémolytique fébrile**:
 
@@ -160,6 +165,9 @@ Après quelques jours, tableau d'**anémie hémolytique fébrile**:
 > << Toute convulsion fébrile chez un enfant au retour d'une zone d'endémie palustre doit faire évoquer un accès palustre grave >> (*Anofel 2022*)
 
 Chez l'enfant, se méfier d'un tableau clinique à prédominance digestive.
+
+Toute suspicion de paludisme est une **urgence** diagnostique et thérapeutique (service de maladies infectieuses et tropicales, médecine interne ou *Urgences*)
+{.alert .alert-warning}
 
 ### Accès palustre simple à fièvre périodique
 
@@ -331,20 +339,44 @@ Ensuite débuter 3 jours avant l'entrée dans la zone à risque.
 La chimioprophylaxie anti-palustre par chloroquine a été définitivement retirée en 2022.
 
 {{% /collapse %}}
+{{%collapse "Traitement ambulatoire du paludisme" %}}
+
+Après bilan diagnostique en urgence, la prise en charge d'un paludisme à *P. falciparum* non compliqué peut être réalisée en ambulatoire uniquement si tous les critères suivants sont remplis:
+
+- Absence de critère de gravité
+- Absence de terrain à risque: grossesse, jeune enfant, comorbidité, splénectomie, immunodépression, contexte socio-éducatif défavorable (compréhension, observance)
+- Présence d'un entourage
+- Absence de complication
+- Diagnostic parasitologique fiable
+- Absence d'échec d'un premier traitement
+- Absence de vomissements
+- Absence de facteur de risque de mauvaise tolérance
+- Antipaludique mis à disposition (pharmacie hospitalière ou service) et première prise surveillée pendant 2 heures
+- Proximité d'un hôpital, numéro d'urgence fourni
+- Consultation de contrôle possible à J3 et J7 et J28 par un spécialiste
+  - Frottis sanguin et goutte épaisse à J3 (parasitémie < 25% de la valeur initiale), J7 (parasitémie nulle) et J28
+  - NFS à J7, J14, J21 et J28 si accès grave
+- Plaquettes > 50.000/mm³, Hb > 10 g/dL, créatininémie < 150 µmol/L
+- Parasitémie < 2%
+
+La prise en charge ambulatoire d'un paludisme à Plasmodium non falciparum est la règle (identique à *falciparum* pour *knowlesi*).
+
+### Traitement ambulatoire du paludisme non compliqué
+
+Le traitement de première intention du paludisme est une combinaison à base de dérivés l'artémisinine (ACT): arténimol–pipéraquine (Eurartésim®) ou artéméther–luméfantrine (Riamet®).
+
+Les traitements d'intention moindre sont l'atovaquone-proguanil voire la quinine (3<sup>e</sup> intention).
+
+{{% /collapse %}}
 {{%sources%}}
 
 - {{< references/voyageur >}}
 - Anofel. Paludisme. Parasitoses et mycoses des régions tempérées et tropicales. 2022.
 - [CMIT. Paludisme. Item 170. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-170-web.pdf)
+- [Bouchaud O et al. Prise en charge et prévention du paludisme d'importation - Mise à jour 2018 des RPC 2007. Médecine et Maladies Infectieuses. 2020.](https://www.sciencedirect.com/science/article/pii/S0399077X19310613)
 - [Egmann G et al; SFMU. Accès palustres : diagnostic et traitement. 2014. (PDF)](https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf)
 - [Centre National de Référence du Paludisme](https://cnr-paludisme.fr)
 - [Institut Pasteur. Recommandations générales - Prévention du paludisme.](https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales#prvention-du-paludisme)
-
-### Bibliographie en attente
-
-- [Bouchaud O et al. Prise en charge et prévention du paludisme d'importation - Mise à jour 2018 des RPC 2007. Médecine et Maladies Infectieuses. 2020.](https://www.sciencedirect.com/science/article/pii/S0399077X19310613)
-- [Aubry P, Gaüzère BA. Conseils de santé sur le paludisme pour les voyageurs et leurs familles. Médecine Tropicale. 2014. (PDF)](http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf)
-- SMV
 
 {{%/sources%}}
 {{% modal title="Répulsifs pour la PPAV" id="modal-repulsifs" size="lg"%}}

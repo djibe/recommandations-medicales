@@ -336,6 +336,6 @@ Favorisée par l'obésité et une hernie hiatale.
 - [Zerbib F. Prise en charge du reflux gastro-oesophagien. Conseil de pratique. SNFGE, GFNG. 2018. (PDF)](https://www.snfge.org/download/file/fid/4863)
 - [Fass R. Gastroesophageal Reflux Disease. N Engl J Med. 2022.](https://pubmed.ncbi.nlm.nih.gov/36170502/)
 - {{< references/college-gastro >}}
-- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Reflux gastro-œsophagien. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/reflux-gastro)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Reflux gastro-œsophagien. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/reflux-gastro)
 
 {{%/sources%}}

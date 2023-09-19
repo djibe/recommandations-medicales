@@ -163,6 +163,10 @@ Galerie de photos du vitiligo.
 - [Inserm. Vitiligo. 14/08/2017.](https://www.inserm.fr/information-en-sante/dossiers-information/vitiligo)
 - [Cochrane. Traitements du vitiligo. 07/12/2011.](https://www.cochrane.org/fr/CD003263/SKIN_traitements-du-vitiligo-maladie-entrainant-une-perte-de-la-couleur-de-la-peau-en-plaques)
 
+### Bibliographie en attente
+
+[Taieb A et al. Guidelines for the management of vitiligo: the European Dermatology Forum consensus. Br J Dermatol. 2013. (PDF)](https://www.guidelines.edf.one//uploads/attachments/cl264136200relajnvlx061j4-vitiligo-2011-gl.pdf)
+
 {{%/sources%}}
 {{% modal title="Phototype selon Fitzpatrick" id="modal-phototype" size="lg" %}}
 

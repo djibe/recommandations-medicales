@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-16T08:08:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2023-09-14"
+lastmod = "2023-09-18"
 specialites = ["pediatrie"]
 annees = "2023"
 sources = ["HAS", "SFP"]
@@ -267,12 +267,15 @@ Indications à la prévention de la bronchiolite par une immunisation passive av
 - <mark>De 0,5 mL (50 mg) pour les moins de 5 kg de poids puis 1 mL (100 mg) au-delà</mark>
 - Dans la face antéro-latérale de cuisse
 - Le même jour que des vaccins ou anticorps si besoin (mais administrés sur d'autres sites)
-- Contre-indiquée en cas d'hypersensibilité connue à un des composants du produit
+- Contre-indiquée en cas d'infection documentée à VRS ou d'hypersensibilité connue à un des composants du produit
+- Repousser si épisode infectieux modéré à sévère en cours
 - Avec mention dans le Carnet de santé à la section << Statut clinique ou immunitaire pour les maladies à prévention vaccinale >>
 - Par un généraliste, pédiatre, ~~sage-femme~~ ou infirmier sur prescription
 - Effets indésirables possibles: rash, induration, fièvre
-- Disponible en pharmacie à partir du 15 septembre 2023
-- Et intégralement remboursé
+- Disponible en pharmacie à partir du 15 septembre 2023 jusqu'à la fin de l'épidémie (fin janvier)
+- Intégralement remboursé
+
+Le nirsévimab est efficace au moins 5 mois.
 
 #### Immunoglobulines anti-VRS
 
@@ -432,13 +435,13 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS. Bronchiolite : la HAS publie des réponses rapides pour accompagner l’administration du Beyfortus®](https://www.has-sante.fr/jcms/p_3461146/fr/bronchiolite-la-has-publie-des-reponses-rapides-pour-accompagner-l-administration-du-beyfortus)
+- [HAS. Réponses Rapides : Nirsévimab (Beyfortus®) dans la prévention des bronchiolites à virus respiratoire syncytial (VRS) chez les nouveau-nés et les nourrissons. 15/09/2023. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2023-09/reponse_rapide__nirsevimab_beyfortus.pdf)
 - [Infovac-France. Bulletin n°8 Août - Spécial Nirsevimab et Beyfortus. 28/08/2023.](https://www.infovac.fr/actualites/bulletin-n-8-aout-special-nirsevimab-et-beyfortus)
 - [CNP de Pédiatrie. Stratégie de prévention des bronchiolites à VRS des nourrissons. 2023. (PDF)](https://afpa.org/content/uploads/2023/08/Reco-CNP-Pe%CC%81diatrie-21-08-2023.pdf)
 - [HAS. nirsévimab Beyfortus. Avis sur les médicaments. 2023. (PDF)](https://www.has-sante.fr/upload/docs/evamed/CT-20356_BEYFORTUS_PIC_INS_AvisDef_CT20356.pdf)
 - [Roqué-Figuls M et al. Chest physiotherapy for acute bronchiolitis in paediatric patients between 0 and 24 months old. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004873.pub6/full/fr#pico)
 - [Santé Publique France. Bronchiolite. 20/04/2022.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite)
-- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Bronchiolite aiguë du nourrisson. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/bronchiolite-aigue-du-nourrisson)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Bronchiolite aiguë du nourrisson. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/bronchiolite-aigue-du-nourrisson)
 - [HAS et Collège National Professionnel de Pédiatrie (CNPP). Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. Novembre 2019.](https://www.has-sante.fr/jcms/p_3118113/fr/prise-en-charge-du-1er-episode-de-bronchiolite-aigue-chez-le-nourrisson-de-moins-de-12-mois)
 - [Société Canadienne de Pédiatrie. Recommandations pour le diagnostic, la surveillance et les prise en charge des enfants de un à 24 mois. 31/01/2018.](https://www.cps.ca/fr/documents/position/bronchiolitis1)
 - Prescrire Rédaction. Bronchiolite chez un nourrisson. Rev Prescrire. Octobre 2017.

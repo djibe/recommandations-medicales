@@ -186,7 +186,7 @@ Informations sur la scoliose:
 {{%sources%}}
 
 - [Centre de référence des malformations vertébrales et médullaires. Déformations précoces du rachis. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3374137/fr/deformations-precoces-du-rachis)
-- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Dépistages chez l'enfant. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/depistages-lenfant)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Dépistages chez l'enfant. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/depistages-lenfant)
 - [Kuznia AL et al. Adolescent Idiopathic Scoliosis: Common Questions and Answers. Am Fam Physician. 2020.](https://www.aafp.org/pubs/afp/issues/2020/0101/p19.html)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Rachialgies. Item 94 UE 5. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-3-0.php)
 - [HAS. Scoliose idiopathique structurale évolutive. Actes et prestations Affection de longue durée. 2018.](https://www.has-sante.fr/jcms/c_646714/fr/ald-n-26-scoliose-idiopathique-structurale-evolutive)

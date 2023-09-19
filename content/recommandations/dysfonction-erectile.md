@@ -152,6 +152,8 @@ La persistance d'une capacité érectile résiduelle est un facteur de bon prono
   Cancer du testicule, traumatisme, chirurgie herniaire, cryptorchidie, radiothérapie.
 - Diabète, maladies neurologiques ou endocriniennes
 - Facteurs de risque et maladies cardiovasculaires
+- Traitements en cours  
+  Bêtabloquant, finastéride, antidépresseur, antiépileptique ...
 - Sédentarité
 - Facteurs psycho-sociaux
 - Signes d'[hypertrophie prostatique]({{< relref "hypertrophie-benigne-prostate.md" >}})

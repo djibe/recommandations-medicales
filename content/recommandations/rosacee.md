@@ -229,10 +229,10 @@ graph TB
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-- Maladie fréquente de la peau du visage, de cause inconnue mais bénigne.
-- Début par bouffées avec éléments déclenchants puis s'installe avec une rougeur permanente du visage, des vaisseaux se dilatent.  
-L'évolution fluctue. 4 personnes sur 10 guérissent spontanément après plusieurs années.
-- Traitements locaux ou généraux à visée symptomatique selon l'étendue des lésions.
+- La rosacée est une maladie fréquente de la peau du visage, de cause inconnue mais bénigne.
+- Elle débute par bouffées dites << vasomotrices >> identifiées par des facteurs déclenchants puis s'installe avec une rougeur permanente du visage, des vaisseaux qui se dilatent.  
+  L'évolution fluctue. 4 personnes sur 10 guérissent spontanément après plusieurs années.
+- On utiliser des traitements locaux ou généraux à visée symptomatique selon l'étendue des lésions.
 - Suivi prolongé par risque d'atteinte oculaire et effet suspensif des traitements
 - Se protéger du soleil lorsqu'on utilise ces traitements.
 - Garder un double de l'ordonnance sur soi pour la montrer lors de chaque consultation médicale.
@@ -247,8 +247,7 @@ L'évolution fluctue. 4 personnes sur 10 guérissent spontanément après plusie
 
 ### Bibliographie en attente
 
-- Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales. Item 111. 2021.
-- [Anzengruber F. et al. Swiss S1 guideline for the treatment of rosacea. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14349)
+- [Anzengruber F et al. Swiss S1 guideline for the treatment of rosacea. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14349)
 
 {{%/sources%}}
 {{% modal title="Phototypes selon Fitzpatrick" id="modal-fitzpatrick" size="lg"%}}

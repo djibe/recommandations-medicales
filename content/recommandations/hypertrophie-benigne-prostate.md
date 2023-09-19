@@ -328,15 +328,15 @@ accTitle: Prise en charge de l'hypertrophie bénigne de la prostate (HBP) d'apr�
 {{%/collapse%}}
 {{%sources%}}
 
+- [Franco JVA et al. Serenoa repens for the treatment of lower urinary tract symptoms due to benign prostatic enlargement. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001423.pub4/full/fr)
 - Prescrire Redaction. Traitement de l'hypertrophie bénigne de la prostate. Rev Prescrire. 2023.
-- [Gravas S. et al. EAU guidelines on management of non-neurogenic male lower urinary tract symptoms (LUTS), incl. benign prostatic obstruction (BPO). 2022.](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts)
+- [Gravas S et al. EAU guidelines on management of non-neurogenic male lower urinary tract symptoms (LUTS), incl. benign prostatic obstruction (BPO). 2022.](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts)
 - [ANSM. Finastéride (Propecia, Chibro-Proscar, génériques) : rappel sur les risques de troubles de la fonction sexuelle et de troubles psychiatriques. 15/04/2021.](https://ansm.sante.fr/informations-de-securite/finasteride-propecia-chibro-proscar-generiques-rappel-sur-les-risques-de-troubles-de-la-fonction-sexuelle-et-de-troubles-psychiatriques)
 - Prescrire Redaction. Hypertrophie bénigne de la prostate. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Collège Français des Enseignants en Urologie (CFEU). Hypertrophie bénigne de la prostate. Item 127. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-127-Hypertrophie-benigne-de-prostate.pdf)
-- [Descazeaud A. et al. Guide de prise en charge en médecine générale des symptômes du bas appareil urinaire de l'homme liés à une hyperplasie bénigne de la prostate. Prog Urol. 2015.](https://www.sciencedirect.com/science/article/pii/S1166708715000810)
-- [Descazeaud A. et al. Bilan initial, suivi et traitement des troubles mictionnels en rapport avec hyperplasie bénigne de prostate : recommandations du CTMH de l'AFU. 2012.](https://www.urofrance.org/recommandation/bilan-initial-suivi-et-traitement-des-troubles-mictionnels-en-rapport-avec-hyperplasie-benigne-de-prostate-recommandations-du-ctmh-de-lafu/)
-- [Tacklind J. et al. Serenoa repens for benign prostatic hyperplasia. Cochrane Database of Systematic Reviews. 2012.](https://www.cochrane.org/CD001423/PROSTATE_serenoa-repens-for-benign-prostatic-hyperplasia)
-- [McConnell JD. et al. The long-term effect of doxazosin, finasteride, and combination therapy on the clinical progression of benign prostatic hyperplasia. N Engl J Med. 2003.](https://www.nejm.org/doi/10.1056/NEJMoa030656)
+- [Descazeaud A et al. Guide de prise en charge en médecine générale des symptômes du bas appareil urinaire de l'homme liés à une hyperplasie bénigne de la prostate. Prog Urol. 2015.](https://www.sciencedirect.com/science/article/pii/S1166708715000810)
+- [Descazeaud A et al. Bilan initial, suivi et traitement des troubles mictionnels en rapport avec hyperplasie bénigne de prostate : recommandations du CTMH de l'AFU. 2012.](https://www.urofrance.org/recommandation/bilan-initial-suivi-et-traitement-des-troubles-mictionnels-en-rapport-avec-hyperplasie-benigne-de-prostate-recommandations-du-ctmh-de-lafu/)
+- [McConnell JD et al. The long-term effect of doxazosin, finasteride, and combination therapy on the clinical progression of benign prostatic hyperplasia. N Engl J Med. 2003.](https://www.nejm.org/doi/10.1056/NEJMoa030656)
 - [Anaes. Prise en charge diagnostique et thérapeutique de l'hypertrophie bénigne de la prostate. 2003.](https://www.has-sante.fr/jcms/c_272237/fr/prise-en-charge-diagnostique-et-therapeutique-de-l-hypertrophie-benigne-de-la-prostate)
 
 ### Bibliographie en attente

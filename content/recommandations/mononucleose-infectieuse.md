@@ -113,7 +113,7 @@ La prise en charge d'une mononucléose infectieuse est purement symptomatique:
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
 - Collège National des Enseignants de Médecine Interne (CEMI). Syndrome mononucléosique. Item 217. Référentiel Collège de Médecine interne R2C. 2021.
 - [CMIT. Syndrome mononucléosique. Item 217. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-217-web.pdf)
 

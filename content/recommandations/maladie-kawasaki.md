@@ -114,6 +114,6 @@ Le schéma vaccinal doit être adapté après l'administration d'immunoglobuline
 {{%sources%}}
 
 - [Centre de Référence des Maladies Auto-inflammatoires et de l'Amylose inflammatoire (CeRéMAIA). Maladie de Kawasaki. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3363015/fr/maladie-de-kawasaki)
-- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
 
 {{%/sources%}}

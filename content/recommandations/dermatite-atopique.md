@@ -18,7 +18,7 @@ icd10 = "L20.9"
 flowchart = true
 image = true
 imageSrc = "Eczéma lichénifié du dos de la main. Care_SMC sur Foter.com / CC BY-ND"
-todo = "phalangette, préparations CHRU, impétiginisation"
+todo = "phalangette, préparations CHRU, impétiginisation, https://www.guidelines.edf.one/guidelines/atopic-ezcema"
 +++
 
 {{%article-summary%}}

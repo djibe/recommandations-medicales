@@ -144,7 +144,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
-- Société française d'hématologie (sfh). Item 317 - Syndromes myéloprolifératifs. Hématologie. Réussir son DFASM. 2021.
+- Société française d'hématologie (sfh). Item 317 - Syndromes myéloprolifératifs. Hématologie Réussir son DFASM. 2021.
 - [McMullin MF et al. A guideline for the diagnosis and management of polycythaemia vera. A British Society for Haematology Guideline.Br J Haematol. 2018.](https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.15648)
 
 {{%/sources%}}
