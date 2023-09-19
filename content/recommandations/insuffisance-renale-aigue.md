@@ -22,7 +22,7 @@ flowchart = true
 {{%article-summary%}}
 
 - L'insuffisance rénale aiguë (IRA) est une urgence médicale
-- Définition de l'insuffisance rénale aiguë: augmentation de la créatininémie ≥ 26,5 µmol/L (0,3 mg/dL) en 48 heures ou ≥ 50% en 7 jours ou oligoanurie < 0,5 mL/kg/h pendant ≥ 6 heures
+- Définition de l'insuffisance rénale aiguë: {{< clinique/insuffisance-renale-aigue >}}
 - Évaluer la gravité clinique, rechercher un globe vésical et adresser pour prise en charge aux Urgences (échographique-biologie-ECG)  
   Fournir les antécédents et bilans rénaux pour aider à la recherche étiologique
 - Pour les informations sur les injections de produits de contraste iodé, voir *Rein et produits de contraste*
@@ -35,7 +35,7 @@ Chapitre lié: [insuffisance rénale chronique]({{< relref "insuffisance-renale-
 
 Insuffisance rénale aiguë (IRA)
 : L'insuffisance rénale aiguë est une diminution du débit de filtration glomérulaire d'apparition rapide entraînant une urémie et des troubles hydroélectrolytiques mettant en jeu le pronostic vital à court terme. Bilan urgent.
-: Définition *KDIGO 2012*: augmentation de créatininémie **≥ 26,5 µmol/L en 48 heures** ou **≥ 50% en 7 jours** ou d'une **oligoanurie < 0,5 mL/kg/h** pendant ≥ 6 heures.
+: Définition *KDIGO 2012*: {{< clinique/insuffisance-renale-aigue >}}
 : Préciser s'il s'agit d'une IRA à **diurèse conservée** (> 500 mL/24h), **oligoanurique** (100-500 mL/24h) ou **anurique** (< 100 mL/24h).
 : L'estimation du débit de filtration glomérulaire n'est pas réalisable lors d'une insuffisance rénale aiguë.  
 Valeurs normales de créatininémie: 60-107 µmol/L chez la femme et 80-115 chez l'homme.

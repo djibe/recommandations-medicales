@@ -297,7 +297,7 @@ Abaisser encore la cible systolique si bien tolérée (*ESH 2023*) sans passer s
 
 - Facteurs de risque d'hypertension
   - Antécédents personnels et familiaux  
-    Diabète, HTA, maladie cardiovasculaire, AIT/AVC, maladie rénale, goutte, pré-éclampsie, ménopause précoce, cancer.
+    Diabète, HTA, maladie cardiovasculaire, AIT/AVC, maladie rénale, [goutte]({{< relref "goutte.md" >}}), [pré-éclampsie]({{< relref "pre-eclampsie.md" >}}), [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}), [cancer](/tags/cancer/).
   - Date du diagnostic de l'hypertension, valeurs au diagnostic, aggravation rapide
   - Traitements en cours, traitements essayés, observance
   - Tabagisme, drogues
@@ -491,7 +491,7 @@ Particularités de l'hypertension artérielle pendant la grossesse:
   - HTA pré-existante: précède la grossesse ou apparaît avant 20 semaines de grossesse, persiste > 6 semaines post-partum ± protéinurie
   - HTA gestationnelle: apparaît après 20 semaines de grossesse et se résout généralement dans les 6 semaines post-partum
   - HTA pré-existante avec HTA gestationnelle surajoutée avec protéinurie
-  - Pré-éclampsie: HTA gestationnelle avec protéinurie ≥ 30 mg/mmol (*chapitre spécifique à venir*)
+  - [Pré-éclampsie]({{< relref "pre-eclampsie.md" >}}): HTA gravidique avec protéinurie
   - Hypertension anténatale non classifiée: découverte après 20 semaines de grossesse sans connaissance de valeurs pré-gestationnelles. La surveillance après 6 semaines du post-partum aide au diagnostic rétrospectif.
 - Bilan mensuel  
   BU (albuminurie si protéines +), NFS, ASAT, ALAT, créatininémie, uricémie.
@@ -537,6 +537,7 @@ graph TB
 - [Stergiou GS et al. 2021 European Society of Hypertension practice guidelines for office and out-of-office blood pressure measurement. J Hypertens. 2021.](https://doi.org/10.1097/hjh.0000000000002843)
 - [Cheung A et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://doi.org/10.1016/j.kint.2020.10.026)
 - [US Preventive Services Task Force, Krist AH, Davidson KW, et al. Screening for Hypertension in Adults: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2021.](https://jamanetwork.com/journals/jama/fullarticle/2779190)
+- {{< references/college-endocrino >}}
 - {{< references/esc-diabetes >}}
 - {{< references/esc-hta >}}
 - [HAS, SFHTA. Prise en charge de l'hypertension artérielle de l'adulte. Fiche mémo. Septembre 2016.](https://www.has-sante.fr/jcms/c_2059286/fr/prise-en-charge-de-l-hypertension-arterielle-de-l-adulte)
@@ -545,7 +546,6 @@ graph TB
 ### Bibliographie en attente
 
 - [Whealton S et al. Why Is Cuff Size So Important and Other Factors That Affect Accurate Blood Pressure Measurement. ACC. 2023.](https://www.acc.org/Latest-in-Cardiology/Articles/2023/06/05/19/18/Why-Is-Cuff-Size-So-Important-and-Other-Factors-That-Affect-Accurate-BP-Measurement?utm_medium=social&utm_source=twitter_post&utm_campaign=twitter_post)
-- {{< references/college-endocrino >}}
 - [Xi B et al. Establishing International Blood Pressure References Among Nonoverweight Children and Adolescents Aged 6 to 17 Years. Circulation. 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729639/#SD1)
 
 {{%/sources%}}

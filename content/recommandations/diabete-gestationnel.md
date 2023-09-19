@@ -38,7 +38,7 @@ todo = "relecture"
 Diabète gestationnel (DG)
 : Hyperglycémie à jeun gravidique sans hyperglycémie avant la grossesse.  
 Facteur de risque de complications obstétricales:  
-    - Maternelles: pré-éclampsie, césarienne, traumatisme périnéal
+    - Maternelles: [pré-éclampsie]({{< relref "pre-eclampsie.md" >}}), césarienne, traumatisme périnéal
     - Fœtales: macrosomie, hydramnios (rare), hyperbilirubinémie, dystocie des épaules, mortalité, hypoglycémie, prématurité
 : La prévalence du diabète gestationnel est de 8% (2012) et en augmentation. Le risque à long terme de [diabète de type 2]({{< relref "diabete-type-2.md" >}}) est alors multiplié par 7.
 : Sur-dépistage du diabète gestationnel: 76% versus 42% attendus (*Regnault 2012*)

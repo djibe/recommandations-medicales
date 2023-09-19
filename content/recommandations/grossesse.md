@@ -17,7 +17,7 @@ sctid = "118185001"
 icd10 = ""
 image = true
 imageSrc = "Illustration de la grossesse par stories / Freepik"
-todo = "critères TSH"
+todo = "critères TSH, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
 +++
 
 {{%article-summary%}}
@@ -35,7 +35,6 @@ Chapitres dédiés:
 - [Alimentation pendant la grossesse (MangerBouger)](https://www.mangerbouger.fr/manger-mieux/a-tout-age-et-a-chaque-etape-de-la-vie/les-recommandations-et-conseils-avant-pendant-et-apres-la-grossesse/manger-equilibre-avant-pendant-et-apres-la-grossesse)
 - [Anémie]({{< relref "anemie.md" >}})
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et de l'[alcool]({{< relref "sevrage-alcool.md" >}})
-- [Candidoses pendant la grossesse]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
 - [Contraception du post-partum]({{< relref "contraception.md" >}})
 - [Covid-19 à haut risque de forme grave]({{< relref "covid-19.md" >}})
 - [Diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
@@ -46,6 +45,7 @@ Chapitres dédiés:
 - [Incontinence fécale]({{< relref "incontinence-fecale.md" >}})
 - [Infection urinaire pendant la grossesse]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
 - [Interruption volontaire de grossesse]({{< relref "interruption-volontaire-grossesse.md" >}})
+- [Mycoses pendant la grossesse]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
 - [Phlébite et score LEFt pendant la grossesse]({{< relref "thrombose-veineuse-profonde.md" >}})
 - [Reflux pendant la grossesse]({{< relref "reflux-gastro-oesophagien.md" >}})
 - [Syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}})
@@ -136,14 +136,6 @@ Pas d'épisiotomie systématique.
 ### Menace d'accouchement prématuré (MAP)
 
 Pas de transport en SAMU systématique des MAP.
-
-> - *CNGOF/SFMU/SFAR 2022*
-
-### Pré-éclampsie sévère
-
-En ville, administrer systématiquement un anti-hypertenseur pour une pré-éclampsie sévère avec PAS ≥ 160 mmHg ou PAD ≥ 110 mmHg au repos et persistante plus de 15 minutes.
-
-Maintenir la pression artérielle sous ces seuils.
 
 > - *CNGOF/SFMU/SFAR 2022*
 

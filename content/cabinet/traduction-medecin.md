@@ -36,6 +36,10 @@ L'application *DeepL* n'a pas été retenue, l'arabe et le vietnamien n'étant p
 - Mediglotte ([Android](https://play.google.com/store/search?q=mediglotte&c=apps), [iPhone](https://apps.apple.com/fr/app/mediglotte/id1530674172))
 - TraducMed ([Web](http://www.traducmed.fr/), [Android](https://play.google.com/store/apps/details?id=fr.bilog.traducmed&hl=fr), [iPhone](https://apps.apple.com/us/app/traducmed/id1072676163))
 
+## Site d'aide à la traduction
+
+[TraLELHo](https://www.tralelho.fr/tradhosp.html).
+
 ## Guides d'aide à la traduction médicale
 
 Ensemble des guides de traduction publiés par Santé Publique France.
