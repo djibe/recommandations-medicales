@@ -15,7 +15,6 @@ tags = ["cancer", "geriatrie"]
 anglais = ["Advance directives"]
 sctid = "9421000146109"
 icd10 = ""
-draft = true
 image = true
 imageSrc = "Les directives anticipées / UnDraw"
 +++
