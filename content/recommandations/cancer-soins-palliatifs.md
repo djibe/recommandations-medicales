@@ -28,9 +28,9 @@ TODO:
 Articles liés: [directives anticipées]({{< relref "directives-anticipees.md" >}})
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
 
-{{% /collapse %}}
+{{< card-link-external title="Guide de gestion des effets indésirables par médicament" url="https://www.e-cancer.fr/content/download/466013/7058203/file/Portfolio%20fiches%20m%C3%A9dicaments.pdf" subtitle="par l'INCa'" >}}
+
 {{%collapse "Prise en charge des complications de la chimiothérapie" "show" %}}
 
 {{< table title="Prise en charge des principales complications de la chimiothérapie" >}}
@@ -70,7 +70,8 @@ Ne pas utiliser:
 {{% /collapse %}}
 {{%sources%}}
 
-[Fuleihan G. et al. Treatment of Hypercalcemia of Malignancy in Adults: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2022.](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgac621/6916871)
+- [INCa. Prévention et gestion des effets indésirables des anticancéreux - Hormonothérapies dans le traitement adjuvant des cancers du sein. 2023.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Prevention-et-gestion-des-effets-indesirables-des-anticancereux-Hormonotherapies-dans-le-traitement-adjuvant-des-cancers-du-sein)
+- [Fuleihan G. et al. Treatment of Hypercalcemia of Malignancy in Adults: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2022.](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgac621/6916871)
 
 {{%/sources%}}
 {{% modal title="Questionnaire DN4" id="modal-score-dn4"%}}

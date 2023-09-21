@@ -7,17 +7,17 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-10T17:25:10+02:00"
 publishdate = "2023-07-17"
-lastmod = "2023-07-17"
+lastmod = "2023-09-21"
 specialites = ["hematologie"]
-annees = "2021"
-sources = ["Collège", "HAS"]
+annees = "2023"
+sources = ["INCa", "HAS"]
 tags = ["cancer"]
 anglais = ["Chronic lymphoid leukemia", "chronic lymphocytic leukemia, B-cell type"]
 sctid = "51092000"
 icd10 = "C91"
 image = true
 imageSrc = "Leucémie lymphoïde chronique (LLC). Lymphocytes B monomorphes, de petite taille, avec une chromatine mature et dense et un rapport nucléocytoplasmique élevé. VashiDonsk, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "qui prescrit immunophénotypage ?, https://www.eurofins-biomnis.com/referentiel/liendoc/renseignements/B8-Hemopathies.pdf"
+todo = "maladie pro pesticides, qui prescrit immunophénotypage ?, https://www.eurofins-biomnis.com/referentiel/liendoc/renseignements/B8-Hemopathies.pdf"
 +++
 
 {{%article-summary%}}
@@ -31,24 +31,45 @@ todo = "qui prescrit immunophénotypage ?, https://www.eurofins-biomnis.com/refe
 {{%collapse "Définition" %}}
 
 Leucémie lymphoïde chronique
-: Prolifération lymphoïde B monoclonale entraînant une infiltration de la moelle, du sang et des ganglions. Elle est classée parmi les lymphomes et n'atteint presque qu'exclusivement le **sujet âgé** avec une prédominance masculine. La mortalité est surtout liée aux complications infectieuses.
-: La classification pronostique de **Binet** utilisée en France comptabilise l'hémoglobine, les plaquettes et le nombre d'aires ganglionnaires atteintes.
+: Hémopathie maligne par prolifération lymphoïde B monoclonale entraînant une infiltration de la moelle, du sang et des ganglions. Elle est classée parmi les lymphomes et n'atteint presque qu'exclusivement le **sujet âgé** avec une prédominance masculine. La mortalité est surtout liée aux **complications infectieuses**.
+: La **classification pronostique de Binet** utilisée en France comptabilise l'hémoglobine, les plaquettes et le nombre d'aires ganglionnaires atteintes.
 : Au diagnostic, 70-80 % des patients sont au stade A. La moitié d'entre eux n'aura pas de traitement spécifique avec une espérance de vie non modifiée.
+
+### Épidémiologie de la leucémie lymphoïde chronique en France
+
+- Incidence: 4674 nouveaux cas (2018), soit 1,2% des cancers
+- Prévalence masculine: 59%
+- Âge médian au diagnostic: 72 ans
+- 95% ont plus de 51 ans
+- Survie nette standardisée à 5 ans: 89%
+
+> *INCa 2023*
+
+### Abréviations
+
+INCa
+: Institut national du cancer
+
+iwCLL
+: {{%lang%}}International Workshop on Chronic Lymphocytic Leukemia{{%/lang%}}
+
+LLC
+: leucémie lymphoïde chronique
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << toute hyperlymphocytose (> 4 G/L) persistante chez un sujet âgé de plus de 60 ans doit faire suspecter une LLC >> (*Collège*)
+> << Toute hyperlymphocytose isolée de plus de 4 G/L, persistant depuis plus de 3 mois, chez un sujet adulte, justifie une exploration >> (*INCa 2023*)
 {.alert .alert-warning}
 
-- La LLC atteint le sujet âgé  
+- La leucémie lymphoïde chronique (LLC) atteint le sujet âgé  
   72 ans d'âge médian au diagnostic, jamais l'enfant et exceptionnellement l'adulte jeune.
 - **Asymptomatique** le plus souvent
 - Les signes généraux sont rares: fièvre, sueurs nocturnes, AEG
 - **Polyadénopathies** symétriques, fermes et indolores
 - [Splénomégalie]({{< relref "splenomegalie.md" >}})
-- Complications  
-  **Infections récidivantes** par hypogammaglobulinémie, cytopénie autoimmune ou insuffisance médullaire.
+- Complications: **infections récidivantes** par hypogammaglobulinémie, cytopénie autoimmune ou insuffisance médullaire.
 
 En cas d'anomalie clinique, réaliser un schéma daté avec les tailles et sites des adénopathies relevées.
 
@@ -60,7 +81,8 @@ La leucémie lymphoïde chronique (LLC) est le plus souvent découverte fortuite
 ### Bilan d'une LLC (leucémie lymphoïde chronique)
 
 - Contrôle de la NFS à 6-8 semaines
-  - Hyperlymphocytose persistante: ≥ 5000 G/L pendant au moins 3 mois (définition *iwCLL 2008*)
+  - Hyperlymphocytose persistante: ≥ 5 G/L pendant au moins 3 mois (définition *iwCLL 2008*)
+  - Avis spécialisé quand > 4 G/L
   - Prise en charge semi-urgente en cas de cytopénie associée (anémie, neutropénie, thrombopénie)
 - Frottis sanguin: petits lymphocytes matures
 - Immunophénotypage des lymphocytes sanguins  
@@ -83,7 +105,7 @@ Le scanner est réservé à la suspicion de transformation maligne de la LLC en 
 {{% /collapse %}}
 {{%collapse "Traitement de la LLC" %}}
 
-La prise en charge de la leucémie lymphoïde chronique relève de l'hématologue. Lorsqu'un traitement est décidé, il s'agit d'une chimiothérapie ou d'une immunothérapie.
+La prise en charge de la leucémie lymphoïde chronique (LLC) relève de l'hématologue. Lorsqu'un traitement est décidé, il s'agit d'une chimiothérapie ou d'une immunothérapie (thérapie ciblée).
 
 Les critères de traitement sont ceux de l'*iwCLL* ({{%lang%}}International Workshop on Chronic Lymphocytic Leukemia{{%/lang%}}). Au diagnostic la majorité des patients n'a pas d'indication au traitement et 1/3 des patients n'en auront pas.
 
@@ -91,9 +113,14 @@ Soins complémentaires:
 
 - [ALD n°30]({{< relref "affection-longue-duree.md" >}})
 - Vaccinations
+  - [Covid-19]({{< relref "covid-19.md" >}})
   - [Grippe annuelle]({{< relref "grippe.md" >}})
   - *Haemophilus influenzae*: ACT-HIB® dose unique
   - {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} tous les 5 ans
+- Surveillance des stades A et B asymptomatiques tous les 6-12 mois
+  - Consultation: symptômes, aires ganglionnaires, hépato-splénomégalie ...
+  - Suivi biologique: NFS, réticulocytes, hémolyse (haptoglobine, bilirubine libre, LDH, Coombs direct)
+  - Si complications infectieuses: électrophorèse des protéines sériques
 - Soins: psychologue, diététicien ...
 
 Suivi spécialisé et des aires ganglionnaires.
@@ -105,6 +132,8 @@ Une altération de l'état général (AEG) ou une adénopathie de croissance rap
 
 {{< video poster="https://b-s-h.org.uk/media/17278/bsh-video-poster.png" mp4="https://b-s-h.org.uk/media/21102/guideline-for-the-treatment-of-chronic-lymphocytic-leukaemia.mp3?cf=638034153129670000" webm="https://b-s-h.org.uk/media/21102/guideline-for-the-treatment-of-chronic-lymphocytic-leukaemia.mp3?cf=638034153129670000" description="Podcast de la British Society of Haematology sur la prise en charge de la leucémie lymphoïde chronique" >}}
 
+- [INCa. Leucémie lymphoïde chronique - Du diagnostic au suivi. 2023.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Leucemie-lymphoide-chronique-Du-diagnostic-au-suivi)
+- [INCa. La leucémie lymphoïde chronique en 12 points clés. 2023.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/La-leucemie-lymphoide-chronique-en-12-points-cles)
 - Collège des enseignants d'hématologie. Leucémie lymphoïde chronique. Item 318. 2021.
 - [Hallek M. Chronic lymphocytic leukemia: 2017 update on diagnosis, risk stratification, and treatment. Am J Hematol. 2017.](https://onlinelibrary.wiley.com/doi/10.1002/ajh.24826)
 - [HAS. Actes et prestations sur la leucémie lymphoïde chronique. 2012.](https://www.has-sante.fr/jcms/c_1096149/fr/ald-n-30-leucemie-lymphoide-chronique)
