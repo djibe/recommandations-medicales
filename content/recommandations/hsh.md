@@ -35,7 +35,7 @@ todo = "texte SEO, sites patients, gono, https://www.eacsociety.org/files/2019_g
 HSH
 : Homme ayant des rapports sexuel avec des hommes
 {.dl-inline}
-: Surexposition au [VIH]({{< relref "vih-sida.md" >}}) (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), HPV, [hépatite A]({{< relref "hepatite-a.md" >}}), Monkeypox et autres IST.
+: Surexposition au [VIH]({{< relref "vih-sida.md" >}}) (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), HPV, [hépatite A]({{< relref "hepatite-a.md" >}}), [Monkeypox]({{< relref "monkeypox.md" >}}) et autres [IST](/tags/ist/).
 
 ### Épidémiologie chez les hommes ayant des rapports sexuels avec des hommes
 

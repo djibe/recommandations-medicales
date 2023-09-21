@@ -23,8 +23,6 @@ Depuis **Ameli Pro**, il est possible d'obtenir les informations caisse par cais
 
 La liste ci-dessous compile l'ensemble des adresses des caisses départementales de l'Assurance Maladie du régime général.
 
-<embed class="embed-responsive" src="/print/cpam.pdf" type="application/pdf" title="Liste des adresses des Caisses Primaires d'Assurance Maladie (CPAM) départementales du Régime Général pour l'envoi de documents" height="600">
+{{< pdf "cpam.pdf" "Liste des adresses des Caisses Primaires d'Assurance Maladie (CPAM) départementales du Régime Général pour l'envoi de documents" >}}
 
-Si les coordonnées ne semblent pas bonnes, vous pouvez consulter la [liste du GIE Sesam-vitale](https://www.sesam-vitale.fr/web/sesam-vitale/adresses-des-centres-payeurs-es#/).
-
-*Utilisez le bouton contact en bas à droite si des adresses sont erronées*
+*Utilisez le bouton contact en bas à droite si des adresses sont erronées puis consultez la [liste du GIE Sesam-vitale](https://www.sesam-vitale.fr/web/sesam-vitale/adresses-des-centres-payeurs-es#/).*

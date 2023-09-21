@@ -160,7 +160,7 @@ Comme pour tout cancer:
 - Proposer un soutien psychologique
 - Soins de confort
 - Évaluation nutritionnelle
-- [Directives anticipées](https://www.service-public.fr/particuliers/vosdroits/F32010), [personne de confiance](https://www.service-public.fr/particuliers/vosdroits/R40462)
+- [Directives anticipées]({{< relref "directives-anticipees.md" >}}), [personne de confiance](https://www.service-public.fr/particuliers/vosdroits/R40462)
 - Associations de patients  
   [imagyn](https://www.imagyn.org), [Ligue contre le cancer](https://www.ligue-cancer.net), [roseup](https://www.rose-up.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com).
 

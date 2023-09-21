@@ -224,7 +224,7 @@ Le traitement doit être démarré dans les 6 semaines qui suivent la réalisati
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})  
   Améliore la survie à tous les stades (voir vidéo dans les *Sources*).
 - Association de patients: [De l'Air](https://cancer-poumon.fr/)
-- Soins de support, directives anticipées
+- Soins de support, [directives anticipées]({{< relref "directives-anticipees.md" >}})
 
 {{% /collapse %}}
 {{%sources%}}

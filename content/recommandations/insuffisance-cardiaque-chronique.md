@@ -332,7 +332,7 @@ Les **AINS**, anti-COX2, le sotalol, le diltiazem, le vérapamil et la flécaïn
 
 ### Autres traitements de l'insuffisance cardiaque à fraction d'éjection diminuée (ICFEd)
 
-- Stade avancé: préparer les soins palliatifs et les directives anticipées
+- Stade avancé: préparer les soins palliatifs et les [directives anticipées]({{< relref "directives-anticipees.md" >}})
 - [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})  
   - Urologue/sexologue, IPDE5 (sauf dérivés nitrés)
   - La dysfonction érectile est aggravée par les TZD, BB et spironolactone.

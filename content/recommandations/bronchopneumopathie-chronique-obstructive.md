@@ -358,7 +358,7 @@ Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mm
 - Associations de patients  
   [Santé Respiratoire France](https://sante-respiratoire.com/), [FFAAIR](https://www.ffaair.org/), [arairlor](https://arairlor.asso.fr/), [lesouffle](https://www.lesouffle.org/).
 - Déclin respiratoire  
-  Directives anticipées, [soins palliatifs](http://www.sfap.org/annuaire).
+  [Directives anticipées]({{< relref "directives-anticipees.md" >}}), [soins palliatifs](http://www.sfap.org/annuaire).
 
 ### Bronchodilatateurs
 
@@ -479,7 +479,7 @@ Opioïdes faible dose par le pneumologue (*SPLF 2021*).
 
 Voir *Indications à l'hospitalisation*.
 
-Joindre le courrier détaillé des traitements en cours, contexte social, derniers bilans, personne de confiance, directives anticipées.
+Joindre le courrier détaillé des traitements en cours, contexte social, derniers bilans, personne de confiance, [directives anticipées]({{< relref "directives-anticipees.md" >}}).
 
 ### 4. Examens complémentaires lors d'une exacerbation
 

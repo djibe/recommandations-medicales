@@ -18,12 +18,14 @@ icd10 = "Z515"
 draft = true
 image = false
 imageSrc = ""
-todo = "SFAP, Cancer info, Ligue cancer, directives anticipées, personne confiance, ESMO, https://pubmed.ncbi.nlm.nih.gov/32429507/"
+todo = "SFAP, Cancer info, Ligue cancer, personne confiance, ESMO, https://pubmed.ncbi.nlm.nih.gov/32429507/"
 +++
 
 {{%article-summary%}}
 
 TODO:
+
+Articles liés: [directives anticipées]({{< relref "directives-anticipees.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
