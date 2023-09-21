@@ -34,7 +34,7 @@ TODO:
 {{< table title="Prise en charge des principales complications de la chimiothérapie" >}}
 | Atteinte      | Prise en charge                                            | Source |
 |---------------|------------------------------------------------------------|--------|
-| Alopécie      | Max J15-17. Casque réfrigérant pendant. Prothèse capillaire. Repousse systématique 3-5 semaines après la dernière injection  | INCa TODO: |
+| [Alopécie]({{< relref "alopecie.md" >}})      | Max J15-17. Casque réfrigérant pendant. Prothèse capillaire. Repousse systématique 3-5 semaines après la dernière injection  | INCa TODO: |
 | Aménorrhée        | Aucune | INCa TODO: |
 | Anémie        | Surveillance régulière de la NFS | INCa TODO: |
 | Anorexie, dénutrition |  | INCa TODO: |

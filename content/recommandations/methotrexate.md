@@ -134,7 +134,7 @@ La supplémentation en acide folique (vitamine B9) réduit les effets indésirab
 
 - Symptômes gastro-intestinaux
 - Stomatite
-- Alopécie
+- [Alopécie]({{< relref "alopecie.md" >}})
 - Augmentation  des enzymes hépatiques
 
 **NB.** Contrôler la **vitamine B12** avant le traitement (l'acide folique perturbe le dosage ensuite).

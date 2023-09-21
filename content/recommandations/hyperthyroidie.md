@@ -408,7 +408,7 @@ Les 3 modalités de traitement sont possibles en cas d'orbitopathie basedowienne
 
 #### Effets indésirables des ATS
 
-- Habituels (5-15%): rash cutané et urticaire, arthralgie, neutropénie transitoire, alopécie, perturbations hépatiques mineures
+- Habituels (5-15%): rash cutané et urticaire, arthralgie, neutropénie transitoire, [alopécie]({{< relref "alopecie.md" >}}), perturbations hépatiques mineures
 - Rares et sévères (< 1%): agranulocytose aiguë, hypoplasie médullaire, hépatite rétentionnelle ou cytolytique (PTU), vascularite allergique liées aux ANCA, pancréatite, hypoglycémie par anticorps anti-insuline.
 
 ### Irathérapie (iode 131 ou <sup>131</sup>I)

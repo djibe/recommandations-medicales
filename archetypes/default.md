@@ -49,6 +49,9 @@ todo = "descr > summary > liens > photo > newsletter"
 
 ### Bibliographie en attente
 
+- Prescrire
+- Cochrane
+
 {{%/sources%}}
 
 ≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>

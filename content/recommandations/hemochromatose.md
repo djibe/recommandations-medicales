@@ -85,7 +85,7 @@ Les signes cliniques d'une surcharge en fer par hémochromatose génétique surv
 - Signes tardifs d'hémochromatose
   - Cytolyse modérée prédominant sur les ALAT
   - Hépatomégalie avec risque de cirrhose
-  - Endocrinopathies: diabète, hypogonadisme (dépilation, alopécie, perte de libido et **[impuissance]({{< relref "dysfonction-erectile.md" >}})** ou [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}))
+  - Endocrinopathies: [diabète](/tags/diabete/), hypogonadisme (dépilation, [alopécie]({{< relref "alopecie.md" >}}), perte de libido et **[impuissance]({{< relref "dysfonction-erectile.md" >}})** ou [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}))
   - Ostéoporose avec fractures osseuses
   - Ongles blancs, plats, koïlonychie (ongles concaves)
   - La mélanodermie est exceptionnelle

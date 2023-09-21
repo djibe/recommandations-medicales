@@ -75,7 +75,7 @@ Vascularites
 - Produits anesthésiques 3%
 - Opiacés 3%
 
-> *Jerschow et all. JACI 2014*
+> *Jerschow et al JACI 2014*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -106,14 +106,10 @@ Ceftazidime.
 
 ### Bêta-lactamines avec propriétés différentes
 
-- C1G  
-Céfazoline.
-- C2G  
-Céfuroxime.
-- C3G  
-Céftriaxone, céfotaxime, ceftazidime, céfixime.
-- C4G  
-Céfépime.
+- C1G: céfazoline
+- C2G: céfuroxime
+- C3G: céftriaxone, céfotaxime, ceftazidime, céfixime
+- C4G: céfépime
 - Méropenem, imipénem, ertapénem
 
 {{% /collapse %}}
@@ -145,6 +141,7 @@ Test de réintroduction.
 
 ### Bibliographie en attente
 
+- [Copaescu AM et al. Efficacy of a Clinical Decision Rule to Enable Direct Oral Challenge in Patients With Low-Risk Penicillin Allergy: The PALACE Randomized Clinical Trial. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2806976)
 - <http://www.medqual.fr/images/PRO_2018/FORMATIONS/Elearning/Correction-Test-5.pdf>
 - <http://medqual.fr/images/slideshow/2021-Fiche-patient-Allergie-penicilline_1.pdf>
 - <http://medqual.fr/images/PRO_2018/LA/LA-193-JUIN-2021.pdf>

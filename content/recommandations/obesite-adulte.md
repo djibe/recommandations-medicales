@@ -193,7 +193,7 @@ TCA
   - Quantité de sommeil et {{< modal-btn modal-saos >}}dépister des apnées du sommeil{{< /modal-btn >}} ([SAHOS]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), systématique à partir de 35 d'IMC)
   - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
   - SOPK  
-    Cycles irréguliers, hyperandrogénie ([hirsutisme]({{< relref "hirsutisme.md" >}}), alopécie, [acné]({{< relref "acne.md" >}})), acanthosis nigricans.
+    Cycles irréguliers, hyperandrogénie ([hirsutisme]({{< relref "hirsutisme.md" >}}), [alopécie]({{< relref "alopecie.md" >}}), [acné]({{< relref "acne.md" >}})), acanthosis nigricans.
 - Évaluation de la motivation aux changements
 - Handicap et autonomie ([ADL](http://medicalcul.free.fr/adlkatz.html), IADL), [gonarthrose]({{< relref "gonarthrose.md" >}})
 - Qualité de vie (EuroQoL-5D, SF-12)

@@ -177,7 +177,7 @@ Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athl�
 Les teignes tondantes sont les principales teignes, en deux types:
 
 1. Teignes tondantes microsporiques (*Microsporum canis* ou *M. audouinii*)  
-  Alopécie en **grandes plaques** bien limitées squameuses, peu ou pas inflammatoires. Cheveux cassés courts. Plutôt chez l'**enfant**.
+  [Alopécie]({{< relref "alopecie.md" >}}) en **grandes plaques** bien limitées squameuses, peu ou pas inflammatoires. Cheveux cassés courts. Plutôt chez l'**enfant**.
 2. Teignes tondantes trichophytiques (*Trichophyton violaceum*, *T. soudanense* ou *T. tonsurans*)  
   Alopécie en **petites plaques** squameuses confluant parfois en grandes plaques mal délimitées. Cheveux cassés ras. Prédominance féminine et **contagieuses**.
 

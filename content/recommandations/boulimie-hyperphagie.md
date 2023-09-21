@@ -195,7 +195,7 @@ Bilan à la recherche de complications somatiques:
 - Digestif  
   Reflux, douleurs abdominales, troubles du transit, hémorragie digestive.
 - Dermatologique  
-  Scarifications, callosités dorsales des mains (signe de Russell lié aux vomissements fréquents), signes de carences (alopécie, ongles cassants, perlèche)
+  Scarifications, callosités dorsales des mains (signe de Russell lié aux vomissements fréquents), signes de carences ([alopécie]({{< relref "alopecie.md" >}}), ongles cassants, [perlèche]({{< relref "mycoses-dermatophytes-candidoses.md" >}}))
 - Musculaire  
   Fatigabilité, crampes, fasciculations.
 - ORL  

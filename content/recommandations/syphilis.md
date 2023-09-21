@@ -159,7 +159,7 @@ Atteinte cutanée préférentielle (tronc et visage):
 Le prurit est rare et les atteintes muqueuses fréquentes (ex rectite). Une [hyperéosinophilie]({{< relref "hypereosinophilie.md" >}}) est possible.
 
 **Toutes les lésions élémentaires dermatologiques sont possibles au cours de la syphilis, sauf vésicules et bulles.**  
-Ex: dépilation des sourcils, lésions d'aspect séborrhéiques des sillons naso-géniens, papules acnéiformes du menton, alopécie en petite plaques.
+Ex: dépilation des sourcils, lésions d'aspect séborrhéiques des sillons naso-géniens, papules acnéiformes du menton, [alopécie]({{< relref "alopecie.md" >}}) en petite plaques.
 
 Les lésions de syphilis secondaire sont contagieuses si excoriées
 {.alert .alert-info}
