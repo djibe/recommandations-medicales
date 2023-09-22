@@ -215,7 +215,7 @@ Alfuzosine LP 10 mg après le dîner ou 2,5 mg x 3/j au long cours (x 2/j si âg
 
 ---
 
-Contre-indications: allergie à l'alfuzosine, hypotension orthostatique, insuffisance hépatique, insuffisance rénale sévère, association CYP3A4.  
+Contre-indications: allergie à l'alfuzosine, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}), insuffisance hépatique, insuffisance rénale sévère, association CYP3A4.  
 **Effets indésirables:** fatigue, vertiges, hypotension orthostatique, syncope avec risque de fracture (OR 1,16) survenant surtout en début de traitement, troubles de l'éjaculation. Ne pas initier avant chirurgie de la cataracte.  
 Attention aux associations avec antihypertenseurs et aux conducteurs de véhicules.
 {{%/info%}}

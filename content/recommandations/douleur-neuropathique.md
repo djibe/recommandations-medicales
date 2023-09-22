@@ -286,7 +286,7 @@ Traitements des douleurs neuropathiques de référence:
   - Préférer 10-50 mg/j. Avis spécialisé à +50 mg/j. Surveillance cardiaque quand +75 mg/j
   - Contre-indications: glaucome, HPB, infarctus récent ou troubles du rythme
   - Effets indésirables: somnolence et prise de poids, anticholinergiques. Levée d'inhibition avec risque suicidaire
-  - Surveillance: cardiaque, anticholinergique, hypotension orthostatique, impuissance
+  - Surveillance: cardiaque, anticholinergique, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}), impuissance
 
 #### Traitements des douleurs neuropathiques de 2e intention
 

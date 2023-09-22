@@ -41,7 +41,7 @@ L'atteinte peut être bilatérale et atteindre plusieurs canaux semi-circulaires
 
 Plusieurs maladies doivent être différenciées d'un vertige positionnel (VPPB) qui a un examen sans atteinte neurologique.
 
-Devant une instabilité, rechercher une hypotension orthostatique.
+Devant une instabilité, rechercher une [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}).
 
 #### Vertiges avec des signes otologiques d'origine périphérique
 

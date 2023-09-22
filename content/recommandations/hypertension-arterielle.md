@@ -190,15 +190,13 @@ Une mesure standardisée est nécessaire pour le contrôle des objectifs tension
   - 3 mesures (2 si normales) espacées de 1 minute et noter la moyenne des 2 dernières
   - En manuel: gonfler 20-30 mmHg au-delà de la disparition du premier bruit de Korotkoff. Dégonfler de 2-3 mmHg/s.
   - **Enfants, grossesse, arythmie**: contrôler manuellement la tension
-  - Si +65 ans, diabète, maladie neurodégénérative: mesure debout à 1 et 3 minutes pour le dépistage de l'hypotension orthostatique
   - Diagnostic si ≥ 140/90 mmHg
 - Dossier médical
   - Noter les valeurs systoliques et diastoliques dans le dossier médical
   - Noter l'heure de la dernière prise des antihypertenseurs
-- Hypotension orthostatique
-  - Rechercher si antihypertenseurs avec signes évocateurs ou fragile (âgé, neurodégénératif, diabète)
+- [Hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}})
+  - Rechercher si antihypertenseurs, signes évocateurs ou fragile (âgé, neurodégénératif, diabète)
   - Mesure au lever à 1 et 3 minutes
-  - Diagnostic d'hypotension orthostatique si baisse de la PAS ≥ 20 mmHg dans les 3 minutes après le lever
 - Moyenne des pressions  
   - Utiliser ≥ 2 mesures sur ≥ 2 consultations espacées de 1-4 semaines pour estimer les pressions
   - **Confirmer le diagnostic** par automesure ou MAPA
@@ -346,7 +344,7 @@ Dans l'attente de la MAPA: observance, automesures avec appareil validé, revér
 - Poids, taille, IMC, tour de taille
 - Pression artérielle, fréquence cardiaque
 - Comparaison de la pression artérielle aux 2 bras
-- Recherche d'une hypotension orthostatique (systématique si +65 ans, diabète)
+- Recherche d'une [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}) (systématique si +65 ans, diabète)
 - Auscultation cardiaque, palpation et auscultation des trajets artériels
 - Si possible: [mesure de l'IPS]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
 - Examen neurologique

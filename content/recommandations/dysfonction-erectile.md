@@ -194,7 +194,7 @@ Examen clinique annuel en cas de dysfonction érectile avec:
   - Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ou {{< scores/heartscore >}} en prévention primaire
   - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - Neurologique  
-  Centré sur les réflexes, sensibilité des pieds, anesthésie en selle et des membres inférieurs, hypotension orthostatique.
+  Centré sur les réflexes, sensibilité des pieds, anesthésie en selle et des membres inférieurs, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}).
 
 Rechercher des signes de [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) (graisses faciotronculaires, fragilité cutanée, vergetures ...).
 
@@ -447,6 +447,7 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 - [Collège Français des Enseignants en Urologie (CFEU). Sexualité normale et ses troubles. Item 50. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-58-Sexualite-normale-et-ses-troubles.pdf)
 - [Collège Français des Enseignants en Urologie (CFEU). Trouble de l'érection. Item 126. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-126-Troubles-de-lerection.pdf)
 - {{< references/college-endocrino >}}
+- [Colson MH et al; SFHTA. Chemin clinique piur le dépistage et la prise en charge de la dysfonction érectile des hypertendus. 2019.](https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depistage-et-la-prise-en-charge-de-la-dysfonction-erectile-des)
 
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}

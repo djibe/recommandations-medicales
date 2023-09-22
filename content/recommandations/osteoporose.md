@@ -342,7 +342,7 @@ Tout au long de la vie: activité physique adaptée, {{< modal-btn modal-regime 
 - Évaluation gériatrique si {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} ou fragilité
 - Prévention des chutes
   - Arrêt des somnifères et opiacés, alcool
-  - Recherche de l'hypotension orthostatique
+  - Rechercher une [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}})
   - Contrôler les lunettes
 - Activité physique avec impact
   Exercice type marche au moins 2 jours par semaine, supervisée ++.

@@ -159,7 +159,7 @@ Signes et symptômes devant faire évoquer une autre maladie neurologique:
 - Syndrome cérébelleux
 - Syndrome pyramidal
 - Troubles oculomoteurs
-- Dysautonomie précoce: hypotension orthostatique ou incontinence urinaire
+- Dysautonomie précoce: [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}) ou incontinence urinaire
 - Hallucinations ou détériorations intellectuelles précoces
 - Dysarthrie et/ou troubles de la déglutition précoces et rapidement sévères
 
@@ -231,7 +231,7 @@ Ces éléments reprennent les critères diagnostiques *Queen Square Brain Bank* 
 ### Examen clinique
 
 - Poids, taille, IMC, variations
-- Pression artérielle, pouls, hypotension orthostatique
+- Pression artérielle, pouls, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}})
 - Examen neurologique complet
   - Ne pas oublier: pyramidal et cérébelleux, roue dentée, regard vers le haut
   - Signes négatifs: signe de Babinski
@@ -384,7 +384,7 @@ L'indication principale à la stimulation cérébrale est une qualité de vie al
 
 #### Hypotension orthostatique
 
-À rechercher systématiquement, réduire les antihypertenseurs, réduire les antiparkinsoniens, augmenter les apports hydro-sodés, éviter de piétiner, relever tête du lit de 30-40°, bas de contention, lever progressif, avis spécialisé (pour midodrine ou fludrocortisone).
+Voir [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}).
 
 #### Nausées  
 
