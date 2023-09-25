@@ -25,9 +25,8 @@ todo = "SEO 'recommandation ivg'"
 {{%article-summary%}}
 
 - L'interruption volontaire de grossesse (IVG) est autorisée jusqu'à 16 semaines d'aménorrhée (SA), en ville jusqu'à 9 SA (IVG médicamenteuse)
-- Temps de réflexion d'une semaine (sauf délai avancé) avant l'interruption volontaire de grossesse
-- Systématiques avant l'IVG: calcul du terme + examen gynécologique + groupe sanguin + échographie pelvienne
-- Centres et praticiens réalisant des IVG: [ivg.gouv](https://ivg.gouv.fr) (téléphone {{<phone>}}0 800 08 11 11{{</phone>}}) et [ivglesadresses.org](https://ivglesadresses.org)
+- Bilan systématique avant l'IVG: calcul du terme, examen gynécologique, groupe sanguin et échographie pelvienne
+- Centres et praticiens réalisant des interruptions volontaires de grossesse (IVG): [ivg.gouv](https://ivg.gouv.fr) (téléphone {{<phone>}}0 800 08 11 11{{</phone>}}) et [ivglesadresses.org](https://ivglesadresses.org)
 
 Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
 
@@ -107,15 +106,15 @@ IVG
 {{% /collapse %}}
 {{%collapse "IVG médicamenteuse" %}}
 
-{{%info%}}L'interruption de grossesse par un médecin généraliste en ville (ou sage-femme) est possible jusqu'à 9 semaines d'aménorrhée (SA), à condition d'une formation suffisante et de convention avec établissement de santé autorisé{{%/info%}}
+### Conditions de l'IVG médicamenteuse
 
-### Conditions
+{{%info%}}L'interruption volontaire de grossesse par un médecin généraliste en ville (ou sage-femme) est possible jusqu'à 9 semaines d'aménorrhée (SA), à condition d'une formation suffisante et de convention avec établissement de santé autorisé{{%/info%}}
 
 Informer du risque d'échec de l'IVG médicamenteuse avec recours à la chirurgie possible
 {.alert .alert-warning}
 
 Les métrorragies (témoin de l'efficacité) surviennent 3 à 4 heures après la prise du misoprostol.  
-Les douleurs abdomino-pelviennes sont quasi-constantes.
+Les **douleurs abdomino-pelviennes** sont quasi-constantes.
 
 ### Grossesse de moins de 7 SA
 
@@ -142,7 +141,7 @@ OU
 - À 24-48h: misoprostol 800 µg par voie transmuqueuse orale ou sublinguale (Gymiso® 200 µg cp)
 {{%/info%}}
 
-{{%class%}}Taux de grossesse évolutive: < 8 SA - 0,5% | 8-9 SA - 1,5%{{%/class%}}
+{{%class%}}Taux de grossesse évolutive: avant 8 SA - 0,5% | 8-9 SA - 1,5%{{%/class%}}
 
 ### Grossesse après 9 SA
 
@@ -178,7 +177,7 @@ Plus l'IVG intervient précocement pendant la grossesse, plus le risque de compl
 - Prise de **mifépristone**  
   Remettre une fiche de conseils sur les suites normales de l'IVG + numéro de téléphone à appeler en cas d'urgence
 - Délivrance du **misoprostol** si prise à domicile.  
-  Sinon revenir en consultation dans 36-48h.  
+  Sinon revenir en consultation dans 36-48 heures.  
   Si prise à domicile et Rhésus négatif: injection immédiate des immunoglobulines anti-D
 - Intérêt de ne pas être seule lors de la prise du misoprostol à domicile.
 - Prescription d'antalgiques de palier 1 (ibuprofène à dose antalgique) et 2

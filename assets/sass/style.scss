@@ -45,6 +45,12 @@ h2,
   letter-spacing: normal;
 }
 
+h1,
+h2,
+h3 {
+  text-wrap: balance;
+}
+
 h1 {
   font-size: calc(1.5rem + 1.5vw);
   font-weight: 400;
