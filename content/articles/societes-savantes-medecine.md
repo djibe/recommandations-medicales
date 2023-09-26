@@ -1,6 +1,7 @@
 +++
 title = "Les sociétés savantes de médecine"
 description = "TODO:"
+noindex = true
 longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-22T15:57:00+02:00"
@@ -11,21 +12,21 @@ annees = "2023"
 sources = []
 tags = []
 draft = true
-imageSrc = "TODO:"
+imageSrc = "des sociétés savantes de médecine / unDraw"
 datatable = true
-todo = "ESH"
+todo = "ESH, SFC"
 +++
 
 TODO:
 {.lead}
 
-## Tableau des sociétés savantes en médecine
+## Tableau des sociétés savantes de médecine
 
+TODO:
 
-
-<script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Sociétés savantes en médecine."}</script>
+<script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Sociétés savantes de médecine."}</script>
 <table id="societies" class="table">
-<caption><span class="font-weight-bold">Tableau.</span> Sociétés savantes en médecine. Dr JB Fron.</caption>
+<caption><span class="font-weight-bold">Tableau.</span> Sociétés savantes de médecine. Dr JB Fron.</caption>
 <thead>
   <tr>
     <th scope="col">Organisation</th>
@@ -56,7 +57,37 @@ window.addEventListener('load', () => {
         { data: 'Publications ouvertes' },
         { data: 'Publications RSS' },
         { data: 'Social' }
-      ]
+      ],
+      "columnDefs": [{
+        "targets": 4,
+        "render": function ( data, type, row, meta ) {
+          return '<a href="'+data+'" target="_blank" rel="external nofollow noopener">'+data+'</a>';
+        }
+      },
+      {
+        "targets": 5,
+        "render": function ( data, type, row, meta ) {
+          if (data != 'No') {return '<a href="'+data+'" target="_blank" rel="external nofollow noopener">'+data+'</a>'}else {return data};
+        }
+      },
+      {
+        "targets": 6,
+        "render": function ( data, type, row, meta ) {
+          return '<a href="'+data+'" target="_blank" rel="external nofollow noopener">'+data+'</a>';
+        }
+      },
+      {
+        "targets": 7,
+        "render": function ( data, type, row, meta ) {
+          if (data != 'No') {return '<a href="'+data+'" target="_blank" rel="external nofollow noopener">'+data+'</a>'}else {return data};
+        }
+      },
+      {
+        "targets": 8,
+        "render": function ( data, type, row, meta ) {
+          return '<a href="'+data+'" target="_blank" rel="external nofollow noopener">'+data+'</a>';
+        }
+      }]
     })
   })
 })
