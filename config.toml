@@ -88,8 +88,13 @@ title = "RecoMédicales"
     url = "/articles/"
     weight = 4
   [[menu.main]]
+    identifier = "journal"
+    name = "Journal"
+    url = "/journal/"
+    weight = 5
+  [[menu.main]]
     identifier = "tags"
     name = "Mots-clés"
     url = "/tags/"
-    weight = 5
+    weight = 6
 

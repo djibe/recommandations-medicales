@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="container projet">
+  <div class="row min-vh-100">
+    <!-- CONTENT -->
+    <div class="col-12">
+      <header class="fancy__header grid-1-2">
+        <div class="title-container bg-primary">
+          <h1 class="small">{{ .Title }}</h1>
+        </div>
+        <div class="icon-container">
+          <img src="/images/icons/journal.svg" class="img-fluid" alt="Actualités pour le médecin généraliste" aria-hidden="true">
+        </div>
+      </header>
+    </div>
+    <div class="col">
+        <div class="row">
+          <article class="col d-flex justify-content-center">
+            <div class="w-768">
+              <div class="mt-4 recommandation__content projet__content">
+                {{ .Content }}
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+  </div>
+</div>
+{{ end }}

@@ -159,6 +159,8 @@
 <!-- Crawlers -->
 {{ if or (.Params.noindex) (eq .Kind "taxonomy") (eq .Kind "term") }}
 <meta name="robots" content="noindex, follow">
+{{ else if .Params.seoInvisible}}
+<meta name="robots" content="none">
 {{ else }}
 <meta name="robots" content="index, follow">
 {{ end }}
