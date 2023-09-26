@@ -27,6 +27,11 @@
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end -}}
     {{ range $pages | first 6 }}
+    <image>
+    <url>https://recomedicales.fr/images/photos/{{ .File.BaseFileName }}.jpg</url>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+    </image>
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
