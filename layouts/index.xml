@@ -18,6 +18,11 @@
     <link>{{ .Permalink }}</link>
     <description>Les dernières recommandations pour la pratique au cabinet.</description>
     <generator>Hugo -- gohugo.io</generator>
+    <image>
+      <url>{{ .Permalink }}android-chrome-512x512.png</url>
+      <title>{{ .Site.Title }}</title>
+      <link>{{ .Permalink }}</link>
+    </image>
     {{ with .Site.LanguageCode }}<language>{{.}}</language>{{end}}
     {{- with .Site.Author.email }}<managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}
     {{- with .Site.Author.email }}<webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}
@@ -27,18 +32,13 @@
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end -}}
     {{ range $pages | first 6 }}
-    <image>
-    <url>https://recomedicales.fr/images/photos/{{ .File.BaseFileName }}.jpg</url>
-      <title>{{ .Title }}</title>
-      <link>{{ .Permalink }}</link>
-    </image>
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{- with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Content | safeHTML | replaceRE $regex "" }}</description>
+      <description>{{ `<![CDATA[<img src="https://recomedicales.fr/images/photos/` | safeHTML }}{{ .File.BaseFileName }}.jpg" alt="" />{{ .Content | safeHTML | replaceRE $regex "" }}{{ `]]` | safeHTML }}></description>
     </item>
     {{ end }}
   </channel>
