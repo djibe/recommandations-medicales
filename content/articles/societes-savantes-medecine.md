@@ -1,7 +1,6 @@
 +++
 title = "Les sociétés savantes de médecine"
-description = "TODO:"
-noindex = true
+description = "Tableau et liste des sociétés savantes de médecine: ESC, ESH, CMG, SFD, HAS, HCSP ... Accéder à leurs actualités , suivre leurs flux RSS et réseaux sociaux"
 longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-22T15:57:00+02:00"
@@ -17,7 +16,7 @@ datatable = true
 todo = "ESH, SFC"
 +++
 
-TODO:
+De très nombreuses sociétés savantes médicales existent et publient régulièrement des recommandations. Afin d'améliorer la diffusion de leurs publications, RecoMédicales liste les sociétés savantes de renom avec les liens vers leurs contenus (publications, actualités, réseaux sociaux).
 {.lead}
 
 ## Tableau des sociétés savantes de médecine

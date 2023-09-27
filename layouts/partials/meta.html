@@ -157,6 +157,7 @@
 {{ end }}
 
 <!-- Crawlers -->
+<meta name="bingbot" content="nocache">
 {{ if or (.Params.noindex) (eq .Kind "taxonomy") (eq .Kind "term") }}
 <meta name="robots" content="noindex, follow">
 {{ else if .Params.seoInvisible}}

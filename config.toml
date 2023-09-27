@@ -88,9 +88,9 @@ title = "RecoMédicales"
     url = "/articles/"
     weight = 4
   [[menu.main]]
-    identifier = "journal"
-    name = "Journal"
-    url = "/journal/"
+    identifier = "actualites"
+    name = "Actualités"
+    url = "/actualites/"
     weight = 5
   [[menu.main]]
     identifier = "tags"

@@ -41,7 +41,7 @@ Pré-éclampsie (ou prééclampsie)
 
 - Facteurs génétiques
   - Antécédents familiaux de pré-éclampsie
-  - Origines Africaines
+  - Origine Africaine
 - Facteurs immunologiques
   - **Nulliparité** (70-75%)
   - Changement de partenaire
@@ -65,10 +65,10 @@ Pré-éclampsie (ou prééclampsie)
 
 - Prévalence de la pré-éclampsie: 1-2% des grossesses
 - 10% évoluent vers une pré-éclampsie sévère
-- L'incidence a diminué de 50% sur la période 2010-2020 ...
-- Avec un ratio 0,5/100.000 naissances vivantes (2010-2012)
-- La pré-éclampsie sévère est une des principales causes de décès maternel ...
-- Dont 70% seraient évitables avec une prise en charge adaptée
+- L'incidence a diminué de 50% sur la période 2010-2020  
+  avec un ratio 0,5/100.000 naissances vivantes (2010-2012).
+- La pré-éclampsie sévère est une des principales causes de décès maternel,  
+  dont 70% seraient évitables avec une prise en charge adaptée.
 - Responsable d'1/3 des naissances prématurées
 
 ### Abréviations

@@ -656,6 +656,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 ### Bibliographie en attente
 
+- [RESPADD. Premiers gestes en alcoologie. 2023. (PDF)](https://mcusercontent.com/6e0fa86cb67b5d4a98c4d0019/files/d11a0a18-8acf-191a-b2f6-bd2852ba7667/Guide_Premiers_gestes_alcoologie_BAT5_.pdf)
 - [European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Management of alcohol-related liver disease. J Hepatol. 2018.](https://www.journal-of-hepatology.eu/article/S0168-8278(18)30214-9/fulltext)
 - [Inserm. Réduction des dommages associés à la consommation d'alcool. Synthèses et recommandations. 2021.](https://www.inserm.fr/expertise-collective/reduction-dommages-associes-consommation-alcool/)
 - [Fédération Française d'Addictologie](https://www.addictologie.org/)

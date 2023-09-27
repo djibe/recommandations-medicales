@@ -389,12 +389,6 @@ a[data-toggle="modal"]:not(.no-icon)::after {
   border-radius: 12px;
 }
 
-.card-img-overlay.overlay-index {
-  background-image: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
-  border-radius: 0 0 12px 12px;
-  color: #fff;
-}
-
 // List pages
 .list-page {
   flex-grow: 1;

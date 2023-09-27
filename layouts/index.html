@@ -58,14 +58,18 @@
       <div class="collapse" id="collapseExample">
         <div class="grid-1-2-3">
           {{ range first 9 ( after 6 (where site.RegularPages.ByPublishDate.Reverse "Section" "recommandations" )) }}
-          <a href="{{ .RelPermalink }}">
           <div class="card">
-            <img loading="lazy" class="card-img img-index" src="{{ if .Params.imageSrc }}/images/photos/{{.File.BaseFileName}}.jpg{{ else }}/images/icons/banner-og.jpg{{ end }}" alt="Illustration de {{ .Title }}" style="aspect-ratio: 16/10">
-            <div class="card-img-overlay overlay-index pt-4">
-              <h4 class="card-title font-weight-bold" style="color: #fff">{{ .Title }}</h4>
+            <div class="card-body card-primary-action">
+              <h4 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
+              <p class="card-subtitle pb-0">
+                <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "2 Jan" }}</time>
+              </p>
+            </div>
+            <div class="card-actions">
+              {{- with .Params.Annees }}<a class="chip chip-outline chip-action chip-xs text-primary" href="/annees/{{ . }}/" rel="tag">{{ . }}</a>{{ end -}}
+              {{- if ( gt ( len .Params.tags ) 0 ) }}{{ partial "widgets/tags-outline-render.html" . }}{{ end -}}
             </div>
           </div>
-          </a>
           {{ end }}
         </div>
       </div>
