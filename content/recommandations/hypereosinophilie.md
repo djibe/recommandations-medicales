@@ -92,7 +92,7 @@ Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie
   - Helminthes avec migration tissulaire en France métropolitaine  
     HE souvent > 1 G/L: **toxocarose**, ascaridiose (exceptionnelle), distomatose hépatique, trichinose, myiase (élevage bovin)
   - Helminthes sans migration tissulaire  
-    HE < 1 G/L: **oxyure**, **tænia**
+    HE < 1 G/L: **[oxyure]({{< relref "oxyurose.md" >}})**, **[tænia]({{< relref "tenia.md" >}})**
   - Helminthoses tropicales  
     Strongyloïdose, filariose lymphatique ou loase, onchocercose, bilharziose, gnathostomose.
   - **[Gale]({{< relref "gale.md" >}})**

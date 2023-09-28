@@ -80,20 +80,20 @@ CEDEF
   - Cirrhose biliaire primitive
   - Cholangite sclérosante primitive
   - Cholestase gravidique  
-    Prurit généralisé, sévère, nu. Cholestase biologique.
+    Prurit généralisé, sévère et nu par cholestase biologique.
 - Prurit hématologique
   - Lymphomes (maladie de Hodgkin)
   - Gammapathies monoclonales
   - Syndromes myéloprolifératifs  
-    Maladie de Vaquez (prurit aquagénique), thrombocytémie essentielle, myélofibrose primitive.
+    [Maladie de Vaquez]({{< relref "polyglobulie.md" >}}) (prurit aquagénique), thrombocytémie essentielle, myélofibrose primitive.
   - Mastocytose
 - Prurit paranéoplasique
 - Troubles endocriniens et métaboliques
   - [Carence martiale]({{< relref "anemie.md" >}}), vitamines
   - [Dysthyroïdies](/tags/tsh/)
   - Hyperparathyroïdie
-  - Diabète
-  - Grossesse
+  - [Diabète](/tags/diabete/)
+  - [Grossesse]({{< relref "grossesse.md" >}})
 - Prurit associé à une infection  
   [VIH]({{< relref "vih-sida.md" >}}) ++, parasitoses (ascaridiose, toxocarose, tropicales).
 - Prurit iatrogène  

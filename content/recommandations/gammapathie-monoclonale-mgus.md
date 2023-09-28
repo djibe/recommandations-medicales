@@ -6,8 +6,8 @@ description = "Recommandations pour l'exploration d'un pic monoclonal et d'une g
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-22T16:14:20+02:00"
-publishdate = "2023-09-22"
-lastmod = "2023-09-25"
+publishdate = "2023-09-28"
+lastmod = "2023-09-28"
 specialites = ["hematologie"]
 annees = "2023"
 sources = ["BSH"]
@@ -15,16 +15,19 @@ tags = ["cancer", "dyspnee", "EPS", "fatigue", "geriatrie", "neuropathie"]
 anglais = ["Monoclonal gammopathy of undetermined significance (MGUS)"]
 sctid = "277577000"
 icd10 = "D47.2"
-draft = true
 image = false
 imageSrc = ""
-todo = "summary > liens > photo > newsletter"
+todo = "photo"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-TODO:
+- Une gammapathie monoclonale de signification indéterminée (MGUS) est affirmée par un faible pic monoclonal d'immunoglobulines ou des chaînes légères libres avec un ratio normal en l'absence de signes de malignité (symptômes, anémie, hypercalcémie, insuffisance rénale et lésions osseuses)
+- Le MGUS peut évoluer vers le myélome multiple (IgG, IgA, chaînes légères) et la maladie de Waldenström (IgM) qui doivent être traqués
+- Le bilan initial d'un pic monoclonal comprend: examen clinique, bilan rénal, protéinurie, calcémie, électrophorèse des protéines sériques et urinaires, dosage des immunoglobulines, dosage des chaînes légères sériques kappa et lambda et rapport κ/λ
+- Le recours à l'hématologue doit être rapide en cas d'anomalie
+- Lorsqu'une gammapathie monoclonale de signification indéterminée (MGUS) est affirmée, la prise en charge comporte une surveillance clinico-biologique à 6 mois puis annuelle
 
 Article lié: [électrophorèse des protéines sériques (EPS)]({{< relref "electrophorese-proteines-seriques.md" >}})
 
@@ -32,7 +35,7 @@ Article lié: [électrophorèse des protéines sériques (EPS)]({{< relref "elec
 {{%collapse "Définition" %}}
 
 Gammapathie monoclonale de signification indéterminée (MGUS)
-: TODO: Protéine monoclonale inférieure à 30 g/L et plasmocytose cellulaire inférieure à 10% dans la moelle osseuse chez un sujet asymptomatique (absence de lésions organiques associées au myélome multiple ou aux tumeurs lymphoplasmocytaires dites CRAB: hypercalcémie [C], insuffisance rénale [R], anémie [A] ou lésions osseuses [B]).
+: Protéine monoclonale inférieure à 30 g/L et plasmocytose cellulaire inférieure à 10% dans la moelle osseuse chez un sujet asymptomatique (absence de lésions organiques associées au myélome multiple ou aux tumeurs lymphoplasmocytaires dites *CRAB*: hypercalcémie [C], insuffisance rénale [R], anémie [A] ou lésions osseuses [B]).
 : Il peut s'agir d'une immunoglobuline ou de chaînes légères dans le sérum ou dans l'urine.
 : La prévalence des MGUS augmente avec l'âge (3,2% après 50 ans, 8,9% après 85 ans) avec un âge médian de 70 ans.
 : La sévérité tient au potentiel d'évolution vers une hémopathie lymphoïde maligne vers un **myélome multiple** (IgG, IgA ou chaînes légères) ou lymphome lymphoplasmocytaire (dit maladie de Waldenström à IgM). Transformation de 1%/an mais très faible en cas de chaînes légères avec 0,27%/an.
@@ -71,6 +74,8 @@ Signes et symptômes à relever lors de la découverte d'un pic monoclonal:
   - Augmentation rapide du pic monoclonal
 - Drapeaux rouges
   - AEG: fatigue/asthénie, amaigrissement, anorexie
+  - Signes d'anémie  
+    {{< clinique/anemie >}}
   - [Insuffisance rénale]({{< relref "insuffisance-renale-aigue.md" >}})
   - Rechercher une [ostéoporose]({{< relref "osteoporose.md" >}}), des douleurs ou fractures osseuses (vertébrales ++)
   - [Neurologique](/tags/neuropathie): radiculalgies, compression médullaire, syndrome de la queue de cheval
@@ -119,7 +124,13 @@ Facteurs prédictifs de progression du *MGUS* (1 point par critère, *Mayo Clini
   - NT-proBNP
   - Ratio albuminurie/créatininurie
 
-Adresser à l'hématologue avec le bilan ci-dessus pour explorer le pic monoclonal.
+Adresser à l'hématologue en cas de:
+
+- Drapeau rouge (anomalie clinique, symptôme suspect)
+- Anémie
+- Hypercalcémie
+- Anomalie de la fonction rénale
+- Anomalie liée au taux du pic monoclonal, au type d'immunoglobuline, au rapport des chaînes légères ou à la protéinurie (voir chapitre suivant)
 
 {{% /collapse %}}
 {{%collapse "Interprétation et prise en charge d'un pic monoclonal" %}}
@@ -129,7 +140,7 @@ Adresser à l'hématologue avec le bilan ci-dessus pour explorer le pic monoclon
 
 Faible risque de myélome pour un pic < 10 g/L et un ratio compris de 0,1 à 7.
 
-Conduite à tenir selon le **Myeloma Diagnostic Tool**:
+Conduite à tenir du **Myeloma Diagnostic Tool** devant un pic monoclonal:
 
 1. Urgences si:
     - Pic monoclonal ou ratio de chaînes légères libres anormal  
@@ -143,7 +154,7 @@ Conduite à tenir selon le **Myeloma Diagnostic Tool**:
     - Pic monoclonal mineur (IgG < 15 g/L, IgA/IgM < 10 g/L) sans symptômes
     - ou ratio des chaînes légères sériques κ/λ compris de 0,1 à 7
 4. Myélome très peu probable, mais avis adapté si:  
-  Pas de pic sérique, ratio de chaînes légères sériques κ/λ normal (0,23-1,65), pas de Bence-Jones, taux d'Ig normal.
+  Pas de pic sérique, ratio de chaînes légères sériques κ/λ normal (0,23 - 1,65), pas de Bence-Jones, taux d'immunoglobulines normal.
 
 ### Surveillance du MGUS
 
@@ -151,29 +162,41 @@ Après la découverte du MGUS, en l'absence de complications, bilan de contrôle
 
 - NFS
 - Créatininémie, DFG
-- Calcémie corrigée
+- Albuminémie, calcémie corrigée
 - Électrophorèse des protéines sériques avec immunofixation
 - Dosage des chaînes légères sériques kappa et lambda et rapport κ/λ
 
 Après réévaluation clinique et parfaite stabilité des résultats, un suivi annuel peut ensuite être réalisé.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la gammapathie monoclonale" %}}
 
-Contrôle vitamine D et apports calciques.
+En cas de signe d'hémopathie, le traitement de la gammapathie monoclonale est décidé en réunion de concertation pluridisciplinaire.
 
-Soutien psychologique
+Dans tous les cas un contrôle de la vitamine D et des apports calciques est nécessaire, avec un soutien psychologique.
+
+### Suivi de la gammapathie monoclonale de signification indéterminée (MGUS)
+
+Lorsqu'un MGUS est affirmé, en l'absence de complications, bilan de contrôle sous maximum 6 mois:
+
+- NFS
+- Créatininémie, DFG
+- Albuminémie, calcémie corrigée
+- Électrophorèse des protéines sériques avec immunofixation
+- Dosage des chaînes légères sériques kappa et lambda et rapport κ/λ
+
+Après réévaluation clinique et parfaite stabilité des résultats, un **suivi annuel** peut ensuite être réalisé.
 
 {{% /collapse %}}
-{{%collapse "Prise en charge de l'angine" "show" %}}
+{{%collapse "Prise en charge d'un pic monoclonal" "show" %}}
 
 {{< mermaid title="Prise en charge d'un pic monoclonal. Dr JB Fron d'après BSH 2023" >}}
 graph TB
   pic["Pic monoclonal<br>ou Rapport CLL κ/λ anormal"] --> gravité("Symptômes graves ?<br>Compression médullaire,<br>insuff. rénale aiguë") -- Non --> biologie("<b>Biologie</b><br>—<br>- NFS<br>- Créatininémie, DFG<br>- Albuminémie<br>- Calcémie corrigée<br>- BU ± RAC<br>- Dosage sérique IgG, IgA, IgM<br>- EPS<br>- Rapport CLL κ/λ")
   style pic stroke:#4150f5, stroke-width:1px
-    biologie --> Mayo("1 point par critère:<br>- Pic IgG &gt; 15 g/L<br>- Pic non-IgG<br>- Rapport CLL κ/λ anormal") --"≥ 2"--> sup("<b>Bilan supplémentaire</b><br>—<br>- LDH, ß2 microglobuline<br>- Pic non-IgM: scanner total<br>ou IRM/PETscan<br>- NT-proBNP<br>- RAC") --> clinique("<b>Drapeaux rouges ?</b><br>—<br>- AEG<br>- Insuffisance rénale<br>- Ostéoporose, fractures,<br>douleurs<br>- Neuropathie: radiculalgie ...<br>- Infections bact répétées<br>- Dyspnée inexpliquée<br>- Hépatomégalie<br>- Macroglossie<br>- Purpura")
+    biologie --> Mayo("1 point par critère:<br>- Pic IgG &gt; 15 g/L<br>- Pic non-IgG<br>- Rapport CLL κ/λ anormal") --"≥ 2"--> sup("<b>Bilan supplémentaire</b><br>—<br>- LDH, ß2 microglobuline<br>- Pic non-IgM: scanner total<br>ou IRM/PETscan<br>- NT-proBNP<br>- RAC") --> clinique("<b>Drapeaux rouges ?</b><br>—<br>- AEG<br>- Insuffisance rénale<br>- Ostéoporose, fractures,<br>douleurs osseuses<br>- Neuropathie: radiculalgie ...<br>- Infections bact répétées<br>- Dyspnée inexpliquée<br>- Hépatomégalie<br>- Macroglossie<br>- Purpura")
     Mayo -- "&lt; 2" --> clinique
-      clinique --> decision("<b>≥ 1 parmi ?</b><br>—<br>- Pic monoclonal modéré<br>IgG &gt; 15 g/L,<br>IgA/IgM &gt; 10 g/L<br>- IgD ou IgE<br>- Rapport CLL κ/λ &lt; 0,1 ou &gt;0,7<br>- Protéinurie Bence-Jones") -- Oui --> avisUrgent("Avis hématologique<br>sous 2 semaines")
+      clinique --> decision("<b>≥ 1 parmi ?</b><br>—<br>- Drapeau rouge<br>- Anémie<br>- Hypercalcémie<br>- Pic monoclonal modéré<br>IgG &gt; 15 g/L,<br>IgA/IgM &gt; 10 g/L<br>- IgD ou IgE<br>- Rapport CLL κ/λ &lt; 0,1 ou &gt;0,7<br>- Protéinurie Bence-Jones") -- Oui --> avisUrgent("Avis hématologique<br>sous 2 semaines")
         decision -- Non --> MGUS("<b>MGUS</b><br>Contrôle sérique<br>et urinaire à 2-6 mois") -- Évolution --> évolution("Pic augmente &gt; 5 g/L<br>ou 25%") --> avisUrgent
           MGUS -- Stabilité --> annuel(Bilan annuel) -.-> évolution
         decision -- Autre --> avis("Avis spécialisé ad-hoc<br>en absence de pic sérique,<br>et protéinurie,<br>rapport CLL et<br>taux d'Ig normal")
@@ -191,5 +214,3 @@ graph TB
 - [Rajkumar SV et al; Mayo Clinic. Serum free light chain ratio is an independent risk factor for progression in monoclonal gammopathy of undetermined significance. Blood. 2005.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1895159/)
 
 {{%/sources%}}
-
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>
