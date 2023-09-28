@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-18T17:12:47+02:00"
 publishdate = "2023-09-19"
-lastmod = "2023-09-19"
+lastmod = "2023-09-28"
 specialites = ["gynecologie-obstetrique"]
-annees = "2020"
-sources = ["CNGOF"]
+annees = "2022"
+sources = ["CNGOF", "SFAR"]
 tags = ["cephalees", "depistage", "diabete", "HTA", "grossesse", "nephropathie", "obesite", "risque cardiovasculaire"]
 anglais = ["Pre-eclampsia"]
 sctid = "398254007"
@@ -107,10 +107,10 @@ Pré-éclampsie avec au moins un critère de gravité parmi:
 
 - [Hypertension artérielle]({{< relref "hypertension-arterielle-maligne.md" >}}) avec PAS ≥ 180 mmHg et/ou PAD ≥ 120 mmHg
 - Épigastralgies et/ou douleurs de l'hypochondre droit << en barre >> persistantes ou intenses
+- Signes neurologiques: céphalées sévères résistantes au traitement, troubles visuels ou auditifs persistants, déficit neurologique, réflexes ostéo-tendineux vifs, diffusés et polycinétiques
 - Détresse respiratoire, œdème aigu du poumon (OAP)
-- Signes neurologiques: céphalées sévères résistantes au traitement, troubles visuels ou auditifs persistants, réflexes ostéo-tendineux vifs, diffusés et polycinétiques
 - HELLP syndrome  
-  Hémolyse (LDH > 600 UI/L) + ASAT/ALAT > 2N + thrombopénie < 100.000/mm³
+  Hémolyse (LDH > 600 UI/L) avec ASAT/ALAT > 2N et thrombopénie < 100.000/mm³.
 - [Insuffisance rénale aiguë]({{< relref "insuffisance-renale-aigue.md" >}})  
   {{< clinique/insuffisance-renale-aigue >}}
 
@@ -129,7 +129,7 @@ Pré-éclampsie avec au moins un critère de sévérité parmi:
 - Signes neurologiques: céphalées sévères résistantes au traitement, troubles visuels ou auditifs persistants, réflexes ostéo-tendineux vifs, diffusés et polycinétiques
 - Aggravation des signes ci-dessus
 
-> *CNGOF, SFAR 2020*
+> *CNGOF, SFAR 2022*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -178,7 +178,7 @@ Toute suspicion de pré-éclampsie doit être prise en charge dans des **urgence
 
 Si un traitement antihypertenseur intraveineux est impossible dans l'heure, voir avec la régulation pour l'administrer par voie orale: bêtabloquant [labétalol 200 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65193337&typedoc=R) (Trandate®) en première intention.
 
-Nicardipine ou alpha-méthyldopa si le bêtabloquant seul est insuffisant ou contre-indiqué.
+Nifédipine ou nicardipine si le bêtabloquant seul est insuffisant ou contre-indiqué.
 
 ### Pour en savoir plus: pré-éclampsie
 
@@ -203,7 +203,8 @@ Pour une pré-éclampsie sévère entre 24 et 34 SA sans signes de gravité mate
 {{%sources%}}
 
 - {{< references/esh-2023 >}}
-- [CNGOF, SFMU, SFAR. Prise en charge des urgences obstétricales en médecine d'urgence. Recommandations de Pratiques Professionnelles. 2022.](https://sfar.org/prise-en-charge-des-urgences-obstetricales-en-medecine-durgence/)
+- [Bonnet MP et al. Republication de : recommandations formalisées d'experts. Prise en charge de la patiente avec une pré-éclampsie sévère - RFE communes Société française d'anesthésie-réanimation (SFAR) - Collège national des gynécologues et obstétriciens français (CGNOF).Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/pdf/RPC//1-RPC%20DU%20CNGOF/2022-2023/RFE-Preeclampsie-severe-2022.pdf)
+- [Bagou G et al; CNGOF, SFMU, SFAR. Prise en charge des urgences obstétricales en médecine d'urgence. Recommandations de Pratiques Professionnelles. 2022.](https://sfar.org/prise-en-charge-des-urgences-obstetricales-en-medecine-durgence/)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Item 344 Prise en charge d'une patiente atteinte de prééclampsie. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [Bonnet MP et al; SFAR, CNGOF. Prise en charge de la patiente avec une pré-éclampsie sévère. Recommandations Formalisées d'Experts. 2020.](http://www.cngof.net/Publications-CNGOF/Pratique-clinique/RPC%20COLLEGE/2020/RFE%20pre-eclampsie_2020.pdf)
 - [Inserm. Pré-éclampsie. 30/11/2018.](https://www.inserm.fr/dossier/pre-eclampsie/)

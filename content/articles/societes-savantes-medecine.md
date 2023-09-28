@@ -4,24 +4,28 @@ description = "Tableau et liste des sociétés savantes de médecine: ESC, ESH, 
 longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-22T15:57:00+02:00"
-publishdate = "2023-09-22"
-lastmod = "2023-09-22"
+publishdate = "2023-09-28"
+lastmod = "2023-09-28"
 specialites = []
 annees = "2023"
 sources = []
 tags = []
-draft = true
 imageSrc = "des sociétés savantes de médecine / unDraw"
 datatable = true
-todo = "ESH, SFC"
+todo = "ESH, SFC, http"
 +++
 
-De très nombreuses sociétés savantes médicales existent et publient régulièrement des recommandations. Afin d'améliorer la diffusion de leurs publications, RecoMédicales liste les sociétés savantes de renom avec les liens vers leurs contenus (publications, actualités, réseaux sociaux).
+De très nombreuses sociétés savantes médicales existent et publient régulièrement des recommandations et guides de bonnes pratiques.
+{.lead}
+
+Afin d'améliorer la diffusion de leurs publications, *RecoMédicales* recense les sociétés savantes et associations de renom avec les liens vers leurs contenus (actualités, publications, réseaux sociaux, flux RSS).
 {.lead}
 
 ## Tableau des sociétés savantes de médecine
 
-TODO:
+La liste des sociétés savantes et associations médicales suivante n'est probablement pas exhaustive. Vous pouvez rappeler ce manquement avec le bouton placé sous le tableau.
+
+Pour chacune des sociétés savantes est référencé: la page d'actualités et le flux RSS le cas échéant, la page des recommandations et la page de réseau social.
 
 <script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Sociétés savantes de médecine."}</script>
 <table id="societies" class="table">
@@ -40,6 +44,8 @@ TODO:
   </tr>
 </thead>
 </table>
+
+<div class="text-center"><button class="btn btn-link my-5 d-print-none" type="button" data-toggle="modal" data-target="#modal-contact">Signaler une Société manquante</button></div>
 
 <script>
 window.addEventListener('load', () => {

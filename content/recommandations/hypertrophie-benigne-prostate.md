@@ -7,9 +7,9 @@ synonyms = ["Hyperplasie bénigne de la prostate", "prostatisme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-04T10:52:08+02:00"
 publishdate = "2023-02-16"
-lastmod = "2023-02-23"
+lastmod = "2023-09-28"
 specialites = ["urologie"]
-annees = "2022"
+annees = "2023"
 sources = ["EAU", "AFU"]
 tags = ["geriatrie", "SAS"]
 anglais = ["Benign prostatic hyperplasia (BPH)"]
@@ -328,9 +328,9 @@ accTitle: Prise en charge de l'hypertrophie bénigne de la prostate (HBP) d'apr�
 {{%/collapse%}}
 {{%sources%}}
 
+- [Cornu JN et al. EAU guidelines on management of non-neurogenic male lower urinary tract symptoms (LUTS), incl. benign prostatic obstruction (BPO). 2023.](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts)
 - [Franco JVA et al. Serenoa repens for the treatment of lower urinary tract symptoms due to benign prostatic enlargement. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001423.pub4/full/fr)
 - Prescrire Redaction. Traitement de l'hypertrophie bénigne de la prostate. Rev Prescrire. 2023.
-- [Gravas S et al. EAU guidelines on management of non-neurogenic male lower urinary tract symptoms (LUTS), incl. benign prostatic obstruction (BPO). 2022.](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts)
 - [ANSM. Finastéride (Propecia, Chibro-Proscar, génériques) : rappel sur les risques de troubles de la fonction sexuelle et de troubles psychiatriques. 15/04/2021.](https://ansm.sante.fr/informations-de-securite/finasteride-propecia-chibro-proscar-generiques-rappel-sur-les-risques-de-troubles-de-la-fonction-sexuelle-et-de-troubles-psychiatriques)
 - Prescrire Redaction. Hypertrophie bénigne de la prostate. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Collège Français des Enseignants en Urologie (CFEU). Hypertrophie bénigne de la prostate. Item 127. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-127-Hypertrophie-benigne-de-prostate.pdf)

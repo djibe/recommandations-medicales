@@ -17,15 +17,14 @@ sctid = "28651003"
 icd10 = "I95.1"
 image = true
 imageSrc = "Illustration de l'hypotension orthostatique. pch.vector / Freepik"
-todo = "summary"
 +++
 
 {{%article-summary%}}
 
 - L'hypotension orthostatique (hO) est une baisse de la pression artérielle d'au moins 20 mmHg de la systolique et/ou 10 mmHg de la diastolique, à 1 minute et/ou 3 minutes après le lever
 - L'hypotension orthostatique est souvent iatrogène et est à l'origine d'un surrisque de mortalité, d'événements cardiovasculaires et de {{< modal-btn modal-risque-chute >}}chutes{{< /modal-btn >}}
-- Rechercher une hypotension orthostatique si: diabète, après 65 ans, maladie neurologique, traitement antihypertenseur ou à risque ...
-- La prise en charge et le traitement de l'hypotension orthostatique associe: éducation du patient, substituer un traitement à risque, contention veineuse et mesures hygiéno-diététiques
+- Rechercher une hypotension orthostatique en cas de: diabète, après 65 ans, maladie neurologique, traitement antihypertenseur ou à risque ...
+- La prise en charge et le traitement de l'hypotension orthostatique associent: éducation du patient, substituer un traitement à risque, contention veineuse et mesures hygiéno-diététiques
 
 Article lié: [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
 
@@ -68,7 +67,7 @@ L'hypotension orthostatique devrait être mesurée:
   - [Diabète](/tags/diabete/)
   - Maladie neurologie dégénérative: [Parkinson]({{< relref "maladie-parkinson.md" >}}), démence
   - [Traitement antihypertenseur]({{< relref "hypertension-arterielle.md" >}})
-  - Autres traitement à risque: psychotrope (neuroleptique, antidépresseur), vasodilatateurs (dérivés nitrés, alpha-1 bloquant, IPDE5), anticholinergiques, opiacés, gliflozine
+  - Autres traitements à risque: psychotropes (neuroleptiques, antidépresseurs), vasodilatateurs (dérivés nitrés, alpha-1 bloquant, IPDE5), anticholinergiques, opiacés, gliflozine
 - Symptômes évocateurs: lipothymie ou perte de connaissance, vertige, chute, fatigue, troubles visuels
 
 Le {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} est particulièrement marqué avec les vasodilatateurs (syndrome coronarien chronique).

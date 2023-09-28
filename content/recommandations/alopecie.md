@@ -16,7 +16,6 @@ sctid = "56317004"
 icd10 = "L65.9"
 image = true
 imageSrc = "Pelade de l'homme d'âge moyen: aspect ovalaire sur cuir chevelu sain. Thirunavukkarasye-Raveendran, CC BY 4.0, via Wikimedia Commons"
-todo = "summary > liens"
 +++
 
 {{%article-summary%}}
@@ -146,13 +145,13 @@ Pour les formes étendues, avis dermatologique (photothérapie, PUVA ou UVB, imm
 
 ### Traitement de l'alopécie androgénétique
 
-Les traitements de l'alopécie androgénétique ne sont possibles qu'à partir de 18 ans et doivent être réévalué à 6 mois. Prévenir sur le coût des traitements.
+Les traitements de l'alopécie androgénétique ne sont possibles qu'à partir de 18 ans et doivent être **réévalués à 6 mois**. Prévenir sur le coût des traitements.
 
 Alopécie androgénétique de l'homme (par efficacité décroissante):
 
 - Finastéride 1 mg x 4/j + [fiche info patient ANSM (PDF)](https://ansm.sante.fr/uploads/2022/07/06/20191210-finasteride-fichepatient-1-2.pdf)  
   Possible de 18 à 41 ans avec **risques psychiatriques**, sexuels, gynécomastie à surveiller et baisse du PSA.
-- Si échec finastéride 12 mois: dutastéride 0,5 mg x 1/j
+- Si échec finastéride à 12 mois: dutastéride 0,5 mg x 1/j, sinon au long cours
 - [Minoxidil 5%](https://base-donnees-publique.medicaments.gouv.fr/extrait.php?specid=62182563) 1 mL ou 1/2 bouchon x 2/j
 - [Minoxidil 2%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68477734&typedoc=R) 1 mL ou 1/2 bouchon x 2/j
 - Greffe capillaire
@@ -201,6 +200,6 @@ Un traitement par minoxidil et/ou finastéride pourrait limiter la progression d
 
 - Collège des enseignants de dermatologie de France (CEDEF). Troubles des phanères. Dermatologie Réussir son DFASM. 2022.
 - [JEGOU-PENOUIL MH. L'alopécie. dermato-info. 02/12/2019.](https://dermato-info.fr/fr/les-phan%C3%A8res_cheveux-et-poils/l%E2%80%99alop%C3%A9cie)
-- [Kanti V et al. Evidence-based (S3) guideline for the treatment of androgenetic alopecia in women and in men - short version. J Eur Acad Dermatol Venereol. 2018.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.14624)
+- [Kanti V et al; EDF. Evidence-based (S3) guideline for the treatment of androgenetic alopecia in women and in men - short version. J Eur Acad Dermatol Venereol. 2018.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.14624)
 
 {{%/sources%}}

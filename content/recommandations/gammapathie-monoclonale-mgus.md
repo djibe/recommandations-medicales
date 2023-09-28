@@ -2,7 +2,7 @@
 title = "Pic monoclonal et gammapathie monoclonale de signification indéterminée (MGUS ou GMSI)"
 titleSeo = "Gammapathie monoclonale MGUS"
 prefix = "la "
-description = "TODO:"
+description = "Recommandations pour l'exploration d'un pic monoclonal et d'une gammapathie monoclonale de signification indéterminée (MGUS). Electrophorèse des protéines, IgG"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-22T16:14:20+02:00"
@@ -18,7 +18,8 @@ icd10 = "D47.2"
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter"
+todo = "summary > liens > photo > newsletter"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -66,13 +67,13 @@ Signes et symptômes à relever lors de la découverte d'un pic monoclonal:
   - Chaîne lourde: IgA ou IgM
   - Rapport des chaînes légères anormal (κ/λ)
   - Protéinurie de Bence Jones (excrétion urinaire de chaines légères)
-  - Plasma cells circulantes ou clonal B cells TODO:
+  - Plasmocytes circulants ou clones B
   - Augmentation rapide du pic monoclonal
 - Drapeaux rouges
   - AEG: fatigue/asthénie, amaigrissement, anorexie
   - [Insuffisance rénale]({{< relref "insuffisance-renale-aigue.md" >}})
   - Rechercher une [ostéoporose]({{< relref "osteoporose.md" >}}), des douleurs ou fractures osseuses (vertébrales ++)
-  - [Neurologique](/tags/neuropathie): rRadiculalgies, compression médullaire, syndrome de la queue de cheval
+  - [Neurologique](/tags/neuropathie): radiculalgies, compression médullaire, syndrome de la queue de cheval
   - Infections bactériennes répétées
   - [Dyspnée non expliquée](/tags/dyspnee/)
   - Hépatomégalie
@@ -106,15 +107,15 @@ Facteurs prédictifs de progression du *MGUS* (1 point par critère, *Mayo Clini
 - Créatininémie, DFG
 - Albuminémie
 - Calcémie corrigée
-- Bandelette urinaire et ratio albuminurie/créatininurie si positive
+- Bandelette urinaire (BU) et ratio albuminurie/créatininurie si positive
 - Dosage sérique des immunoglobulines IgG, IgA et IgM
 - [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}}) avec immunofixation
 - Électrophorèse des protéines urinaires
 - Dosage des chaînes légères sériques kappa et lambda et rapport κ/λ
 - En cas de risque haut-intermédiaire de progression (≥ 2 points aux critères *Mayo Clinic 2005*, voir *Clinique*)
   - LDH, bêta-2 microglobuline
-  - IgM: scanner cervico-pelvien
-  - Autre Ig: scanner faible dose corps entier ou IRM corps entier ou PETscan
+  - Pic IgM: scanner cervico-pelvien
+  - Pic non-IgM: scanner faible dose corps entier ou IRM corps entier ou PETscan
   - NT-proBNP
   - Ratio albuminurie/créatininurie
 
@@ -131,7 +132,7 @@ Faible risque de myélome pour un pic < 10 g/L et un ratio compris de 0,1 à 7.
 Conduite à tenir selon le **Myeloma Diagnostic Tool**:
 
 1. Urgences si:
-    - Pic monoclonal ou ratio de chaînes légères anormal  
+    - Pic monoclonal ou ratio de chaînes légères libres anormal  
     avec symptômes graves (compression médullaire, insuffisance rénale aiguë)
 2. Avis hématologique urgent sous 2 semaines si:
     - Pic monoclonal modéré (IgG > 15 g/L, IgA/IgM > 10 g/L)
@@ -164,18 +165,30 @@ Contrôle vitamine D et apports calciques.
 Soutien psychologique
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de l'angine" "show" %}}
+
+{{< mermaid title="Prise en charge d'un pic monoclonal. Dr JB Fron d'après BSH 2023" >}}
+graph TB
+  pic["Pic monoclonal<br>ou Rapport CLL κ/λ anormal"] --> gravité("Symptômes graves ?<br>Compression médullaire,<br>insuff. rénale aiguë") -- Non --> biologie("<b>Biologie</b><br>—<br>- NFS<br>- Créatininémie, DFG<br>- Albuminémie<br>- Calcémie corrigée<br>- BU ± RAC<br>- Dosage sérique IgG, IgA, IgM<br>- EPS<br>- Rapport CLL κ/λ")
+  style pic stroke:#4150f5, stroke-width:1px
+    biologie --> Mayo("1 point par critère:<br>- Pic IgG &gt; 15 g/L<br>- Pic non-IgG<br>- Rapport CLL κ/λ anormal") --"≥ 2"--> sup("<b>Bilan supplémentaire</b><br>—<br>- LDH, ß2 microglobuline<br>- Pic non-IgM: scanner total<br>ou IRM/PETscan<br>- NT-proBNP<br>- RAC") --> clinique("<b>Drapeaux rouges ?</b><br>—<br>- AEG<br>- Insuffisance rénale<br>- Ostéoporose, fractures,<br>douleurs<br>- Neuropathie: radiculalgie ...<br>- Infections bact répétées<br>- Dyspnée inexpliquée<br>- Hépatomégalie<br>- Macroglossie<br>- Purpura")
+    Mayo -- "&lt; 2" --> clinique
+      clinique --> decision("<b>≥ 1 parmi ?</b><br>—<br>- Pic monoclonal modéré<br>IgG &gt; 15 g/L,<br>IgA/IgM &gt; 10 g/L<br>- IgD ou IgE<br>- Rapport CLL κ/λ &lt; 0,1 ou &gt;0,7<br>- Protéinurie Bence-Jones") -- Oui --> avisUrgent("Avis hématologique<br>sous 2 semaines")
+        decision -- Non --> MGUS("<b>MGUS</b><br>Contrôle sérique<br>et urinaire à 2-6 mois") -- Évolution --> évolution("Pic augmente &gt; 5 g/L<br>ou 25%") --> avisUrgent
+          MGUS -- Stabilité --> annuel(Bilan annuel) -.-> évolution
+        decision -- Autre --> avis("Avis spécialisé ad-hoc<br>en absence de pic sérique,<br>et protéinurie,<br>rapport CLL et<br>taux d'Ig normal")
+  gravité -- Oui --> urgences(Urgences)
+{{< /mermaid >}}
+
+> **CLL =** chaînes légères libres ; **EPS =** électrophorèse des protéines sériques ; **RAC =** ratio albuminurie/créatininurie
+
+{{% /collapse %}}
 {{%sources%}}
 
 - [Stern S et al. Investigation and management of the monoclonal gammopathy of undetermined significance: A British Society for Haematology Good Practice Paper. Br J Haematol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.18866)
 - Société française d'hématologie (sfh). Item 320 - Myélome multiple. Hématologie Réussir son DFASM. 2021.
 - [Collège Français des Enseignants en Rhumatologie (COFER). Myélome multiple des os. Item 320 UE X. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-28-0.php)
 - [Rajkumar SV et al; Mayo Clinic. Serum free light chain ratio is an independent risk factor for progression in monoclonal gammopathy of undetermined significance. Blood. 2005.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1895159/)
-
-### Bibliographie en attente
-
-- INCa
-- Prescrire
-- Cochrane
 
 {{%/sources%}}
 
