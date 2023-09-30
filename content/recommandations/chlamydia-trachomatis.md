@@ -80,7 +80,8 @@ Dépister systématiquement *Chlamydiae trachomatis* chez:
     - Viol
 3. Femme consultant pour [IVG]({{< relref "interruption-volontaire-grossesse.md" >}})
 4. Homme ayant des rapports sexuels avec des hommes ([HSH]({{< relref "hsh.md" >}}))
-5. Avant pose de DIU en [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) (HAS 2019)
+5. Avant pose de DIU en [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) (*HAS 2019*)
+6. Considérer une sérologie *Chlamydia* en cas d'infertilité (*ESHRE 2023*)
 
 ### Comment dépister *Chlamydiae trachomatis* ?
 

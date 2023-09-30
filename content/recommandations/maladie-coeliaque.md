@@ -36,7 +36,7 @@ todo = "SEO, ostéodensitométrie avant 35 ans ???, dermatite herpétiforme Souv
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Maladie cœliaque (**MC**)
+Maladie cœliaque (MC)
 : Maladie chronique auto-immune polyorganique affectant l'intestin grêle chez des personnes génétiquement prédisposées, déclenchée par l'ingestion de **gluten**. Diagnostic de la maladie par biopsies réalisées en endoscopie digestive haute.  
 Elle peut survenir à tout âge, prédomine chez la femme et la majorité des patients n'est pas diagnostiquée.  
 À l'origine d'une **malabsorption** et ses complications (carence, dénutrition, fracture).
@@ -64,6 +64,9 @@ EOGD
 
 IgA anti-transglutaminase
 : anticorps anti-transglutaminase tissulaire (ou t-TG-IgA)
+
+MC
+: maladie cœliaque
 
 Premier degré
 : parents, fratrie, enfants.
@@ -105,10 +108,10 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 - Transaminases augmentées inexpliquées
 - [Diabète type 1]({{< relref "diabete-type-1.md" >}}) (tous les 5 ans)
 - Symptômes évocateurs de maladie cœliaque  
-ou malabsorption sans antécédents familiaux ni auto-immuns
+  ou malabsorption sans antécédents familiaux ni auto-immuns
 - Colite microscopique
 - [Thyroïdite de Hashimoto]({{< relref "hypothyroidie.md" >}})  
-ou maladie de Basedow
+  ou maladie de Basedow
 - Ostéopénie, [ostéoporose]({{< relref "osteoporose.md" >}})
 - Ataxie ou neuropathie périphérique inexpliquée
 - Aphtes récurrents ou défauts de l'émail dentaire

@@ -203,7 +203,7 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 *INCa*
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir" %}}
+{{%collapse "Conduite à tenir devant un frottis anormal" %}}
 
 ### Prise en charge d'un frottis cervico-vaginal anormal
 

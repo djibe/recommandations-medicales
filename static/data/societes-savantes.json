@@ -973,9 +973,9 @@
       "Abréviation": "CNGOF",
       "Spécialité": "gynecologie",
       "Type": "societe savante",
-      "Actualités": "http://www.cngof.net/Actualite/CNGOF-actualites.html",
-      "RSS": "No",
-      "Publications ouvertes": "http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique",
+      "Actualités": "https://cngof.fr",
+      "RSS": "https://cngof.fr//feed",
+      "Publications ouvertes": "https://cngof.fr/rpc/",
       "Publications RSS": "No",
       "Social": "https://twitter.com/leCNGOF"
     },
@@ -1231,6 +1231,17 @@
       "Publications ouvertes": "https://www.urofrance.org/outils-et-recommandations/recommandations/recommandations-afu/classees-par-annee.html",
       "Publications RSS": "No",
       "Social": "https://twitter.com/afurologie"
+    },
+    {
+      "Organisation": "Société d'Andrologie de Langue Française",
+      "Abréviation": "SALF",
+      "Spécialité": "andrologie",
+      "Type": "societe savante",
+      "Actualités": "https://www.salf.fr",
+      "RSS": "https://www.salf.fr/feed/",
+      "Publications ouvertes": "No",
+      "Publications RSS": "No",
+      "Social": "https://www.facebook.com/SALFpage/"
     },
     {
       "Organisation": "Association Française des Urologues en Formation",
