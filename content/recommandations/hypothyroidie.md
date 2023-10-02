@@ -157,7 +157,7 @@ T4L
   En atteinte sévère: épanchement pleural bilatéral, [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), bradypnée.
 - Neuro-psychologique  
   Ralentissement psychomoteur, syndrome dépressif et [baisse de libido et de l'érection]({{< relref "dysfonction-erectile.md" >}}), voire démence ou agitation chez le sujet âgé. Crampes, neuropathie périphérique.
-- Aménorrhée, infertilité
+- Aménorrhée, [infertilité]({{< relref "infertilite-couple.md" >}})
 
 #### Autres situations devant faire évoquer une hypothyroïdie
 

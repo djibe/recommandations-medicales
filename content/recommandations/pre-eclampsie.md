@@ -16,7 +16,6 @@ sctid = "398254007"
 icd10 = "O14.9"
 image = true
 imageSrc = "Découverte d'une vascularite placentaire après délivrance dans les suites d'une pré-éclampsie. Nephron, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "liens"
 +++
 
 {{%article-summary%}}
@@ -24,7 +23,9 @@ todo = "liens"
 - La pré-éclampsie est une hypertension artérielle gravidique (≥ 140 et/ou 90 mmHg apparaissant après 20 SA) avec protéinurie ≥ 0,3 g/24h qui survient sur 1 à 2% des grossesses
 - La pré-éclampsie (PE) est une urgence diagnostique et thérapeutique
 - Rechercher des signes de gravité et de sévérité devant faire appeler le SAMU
-- La prévention de la pré-éclampsie passe par la surveillance de la pression artérielle et de la bandelette urinaire à chaque consultation et en cas d'antécédents de prééclampsie, l'aspirine faible dose jusqu'à 35 semaines d'aménorrhée et la recherche de syndrome des anticorps anti-phospholipides (PE précoce ou sévère)
+- La prévention de la pré-éclampsie passe par la surveillance de la pression artérielle et de la bandelette urinaire à chaque consultation de grossesse et en cas d'antécédents de prééclampsie, l'aspirine faible dose jusqu'à 35 semaines d'aménorrhée et la recherche de syndrome des anticorps anti-phospholipides (PE précoce ou sévère)
+
+Chapitre liés: [grossesse]({{< relref "grossesse.md" >}}), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -154,7 +155,7 @@ Pré-éclampsie avec au moins un critère de sévérité parmi:
 
 ### Examen clinique
 
-> Pendant la grossesse, mesure manuelle de la pression artérielle [selon les recommandations]({{< relref "hypertension-arterielle.md" >}}) ou par [tensiomètre électronique validé pour la grossesse](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=pregnancy). (*ESH 2023*)
+> Pendant la grossesse, mesure manuelle de la pression artérielle [selon les recommandations]({{< relref "hypertension-arterielle.md" >}}) ou par [tensiomètre électronique validé pour la grossesse](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=pregnancy). (*ESH 2023*) à chaque consultation avec la bandelette urinaire
 {.alert .alert-info}
 
 - Mesure de la pression artérielle à chaque consultation, fréquence cardiaque

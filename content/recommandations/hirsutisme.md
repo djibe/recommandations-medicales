@@ -92,7 +92,7 @@ Le diagnostic d'hirsutisme est clinique.
 
 - Âge de survenue, évolution de la pilosité
 - Signes d'**hyperandrogénie** d'un SOPK  
-  Règles irrégulières, infertilité, surpoids, [acné]({{< relref "acne.md" >}}).
+  Règles irrégulières, [infertilité]({{< relref "infertilite-couple.md" >}}), surpoids, [acné]({{< relref "acne.md" >}}).
 - Hypercorticisme  
   Obésité centrale, acanthosis nigricans.
 - Signes de **virilisme** (cause tumorale ovarienne ou surrénalienne)  

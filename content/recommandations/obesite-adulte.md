@@ -298,7 +298,7 @@ Prise en charge par un nutritionniste pour un IMC de 35 à 50 kg/m² et au moins
 - Pathologie cardiovasculaire déséquilibrée  
   [HTA résistante]({{< relref "hypertension-arterielle.md" >}}), diabète déséquilibré, [NASH]({{< relref "steatose-hepatique-et-nash.md" >}}), [SAHOS sévère]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}).
 - Aggravation d'une maladie chronique sans risque majeur
-- Infertilité
+- [Infertilité]({{< relref "infertilite-couple.md" >}})
 - SOPK
 - Impact marqué sur la qualité de vie et sur la santé
 - Pathologie psychiatrique avec impact pondéral ou comportemental

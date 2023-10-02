@@ -1,6 +1,7 @@
 +++
 title = "Dégénérescence maculaire liée à l'âge (DMLA)"
 titleSeo = "Dégénérescence maculaire DMLA"
+noindex = true
 prefix = "la "
 description = "TODO:"
 synonyms = []
@@ -57,9 +58,11 @@ Prescrire un fond d'œil devant tout trouble visuel après 55 ans
 
 ### Bibliographie en attente
 
-- HAS
+- [HAS. Dégénérescence maculaire liée à l'âge. 2022.](https://www.has-sante.fr/jcms/p_3383781/fr/degenerescence-maculaire-liee-a-l-age)
+- [Evans JR, Lawrenson JG. Antioxidant vitamin and mineral supplements for slowing the progression of age‐related macular degeneration. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000254.pub5/full/fr)
 - Prescrire
 - Cochrane
+- [Amsler](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/grille_damsler.pdf)
 
 {{%/sources%}}
 

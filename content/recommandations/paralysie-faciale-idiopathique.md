@@ -77,7 +77,7 @@ SFORL
 ### Interrogatoire
 
 - Antécédents  
-  Grossesse, pré-éclampsie, obésité, hypertension artérielle, diabète, insuffisance respiratoire.
+  [Grossesse]({{< relref "grossesse.md" >}}), [pré-éclampsie]({{< relref "pre-eclampsie.md" >}}), [obésité]({{< relref "obesite-adulte.md" >}}), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), diabète, insuffisance respiratoire.
 - Traitements en cours
 - Rapports sexuels à risque
 - Profession

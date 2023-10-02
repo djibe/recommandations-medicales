@@ -119,7 +119,7 @@ Signes et symptômes de ménopause précoce à rechercher:
   - Cardiovasculaires, fracturaires
 - Antécédents familiaux d'insuffisance ovarienne prématurée
 - Aménorrhée primaire ou secondaire ≥ 4 mois (absence de règles)
-- **Infertilité**
+- **[Infertilité]({{< relref "infertilite-couple.md" >}})**
 - **Syndrome climatérique**
   - Bouffées de chaleur
   - [Sueurs nocturnes](/tags/sueurs-nocturnes/)

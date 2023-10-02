@@ -68,7 +68,7 @@ Signes modérés chez les caucasiennes.
 - Troubles menstruels
   - Age des ménarches
   - Cycles irréguliers
-  - Infertilité
+  - [Infertilité]({{< relref "infertilite-couple.md" >}})
   - Complications gestationnelles
 - Signes d'hyperandrogénie  
   Hirsutisme modified Ferriman Gallwey score >= 4-6, plus marqué chez les méditerranéennes et orientales, alopécie (score Ludwig), acné

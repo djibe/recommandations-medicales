@@ -115,7 +115,7 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 - Ostéopénie, [ostéoporose]({{< relref "osteoporose.md" >}})
 - Ataxie ou neuropathie périphérique inexpliquée
 - Aphtes récurrents ou défauts de l'émail dentaire
-- Infertilité, fausses couches répétées, règles tardives, [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
+- [Infertilité]({{< relref "infertilite-couple.md" >}}), fausses couches répétées, règles tardives, [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
 - Syndrome de fatigue chronique
 - Pancréatite aiguë ou chronique en l'absence d'autres facteur causal
 - Épilepsie

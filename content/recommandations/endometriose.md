@@ -127,7 +127,7 @@ Prise en charge de l'endométriose lors d'une consultation dédiée.
   - Signes fonctionnels urinaires à recrudescence cataméniale  
     Dysurie, pollakiurie.
 - Troubles digestifs récurrents
-- Infertilité
+- [Infertilité]({{< relref "infertilite-couple.md" >}})
 - Adolescente
   - Temps sans les parents
   - Recherche de violences
@@ -245,7 +245,7 @@ Traitements de l'endométriose de deuxième intention:
 
 ### Endométriose et infertilité
 
-La prise en charge de l'[infertilité](/tags/infertilite/) associée à l'endométriose relève d'un accompagnement par une équipe d'[Assistance Médicale à la Procréation](https://www.agence-biomedecine.fr/Autorisation-des-centres) (AMP).
+La prise en charge de l'[infertilité]({{< relref "infertilite-couple.md" >}}) associée à l'endométriose relève d'un accompagnement par une équipe d'[Assistance Médicale à la Procréation](https://www.agence-biomedecine.fr/Autorisation-des-centres) (AMP).
 
 {{% /collapse %}}
 {{%collapse "Centres experts de l'endométriose" %}}
