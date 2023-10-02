@@ -522,6 +522,8 @@ graph TB
 
 {{< card-link-external title="Blood pressure monitoring" url="https://stridebp.dayonetech.uk/login.aspx" subtitle="Par les sociétés européennes et internationales de cardiologie">}}
 
+{{< youtube id="iDS0vAyLO9w" title="Recommandations ESH 2023 : Diagnostic et dépistage de l'HTA (SFHTA)" >}}
+
 {{< youtube id="szPRUb6vh98" title="Mieux dépister et contrôler la pression artérielle (Fréquence Médicale)" >}}
 
 {{< video mp4="https://media.frequencemedicale.com/JDF/20220921_JDF_JEAN_JACQUES_MOURAD_HTA_02.mp4" poster="https://www.frequencemedicale.com/media/fmtype/images/jdf1dec2022-1669884495.png" description="HTA : stratégie en cas de mauvais contrôle par une bithérapie ? (Pr Jean-Jacques Mourad par FréquenceMédicale)" >}}

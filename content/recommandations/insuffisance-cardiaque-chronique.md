@@ -560,7 +560,7 @@ réalistes
 - [McDonagh T et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. 2021.](https://doi.org/10.1093/eurheartj/ehab368)
 - Prescrire Redaction. Insuffisances cardiaques médicamenteuses en bref, Patients insuffisants cardiaques chroniques. Janvier 2021.
 - [Fervers B et al; Santé Publique France. Indications d'un programme d'activité physique, en complément au traitement médical. BEH. 2020.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical)
-- [Collège National des Enseignants de Cardiologie. Insuffisance cardiaque. Item 232 UE8. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch18_insuffisance_cardiaque.pdf)
+- [Collège National des Enseignants de Cardiologie. Insuffisance cardiaque. Item 232 UE8. Cardiologie 2e édition. Octobre 2019.](https://www.sfcardio.fr/page/chapitre-18-item-234-insuffisance-cardiaque-de-ladulte)
 - [Agence de la Biomédecine. Organes - Greffe cardiaque. 29/09/2019.](https://rams.agence-biomedecine.fr/greffe-cardiaque-0)
 - [Santé Publique France. Insuffisance cardiaque. 17/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/insuffisance-cardiaque)
 - {{< references/esc-hta >}}

@@ -60,7 +60,6 @@ Prise en charge de l'orgelet par un collyre ou une pommade antibiotique **pendan
 
 **Forme enkystée ou résistante** d'orgelet: incision du bord libre par l'ophtalmologue sous anesthésie locale.
 
-## Sources {.mt-5}
+## Source {.mt-5}
 
-- [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 86. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
-- [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 84. 2017. (PDF)](http://couf.fr/wp-content/uploads/2016/03/Chapitre-18.pdf)
+[Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 86. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)

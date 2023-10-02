@@ -30,7 +30,7 @@ Au minimum le PC doit avoir:
 - Un processeur 4 cœurs dernière génération avec carte graphique intégrée (max 160€)  
   Ex: Intel Core i3 12100
 - Un disque dur ultra-rapide (dit SSD, max 100€ pour 1 To)  
-  500 Go de stockage suffiront pour un exercice normal, le milieu/haut de gamme permet d'avoir une fluidité parfaite. Ex: Samsung 980 Pro ou Crucial P5 Pro.
+  C'est la pièce qui donnera une réactivité parfaite au PC. 500 Go de stockage suffiront pour un exercice normal. Ex: Samsung 980 Pro ou Crucial P5 Pro.
 - 16 Go de mémoire vive (dite RAM, max 30€ pour 8 Go)  
   Conserve les programmes ouverts en parallèle.
 - Windows 10 ou 11 Pro (pour la gestion du réseau du cabinet)  

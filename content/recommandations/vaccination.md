@@ -23,7 +23,7 @@ todo = "Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vaccinal http
 {{%article-summary%}}
 
 - Rappel vaccinal de [la coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA), stratégie de cocooning sinon
-- Les pharmaciens formés peuvent prescrire et administrer chez les +11 ans non immunodéprimés tous les vaccins du calendrier vaccinal, y compris le vivant ROR
+- Les pharmaciens formés peuvent prescrire et administrer chez les +11 ans tous les vaccins du calendrier vaccinal, y compris le ROR (sauf immunodépression)
 - Vaccination des +16 ans par les infirmiers sans ordonnance pour: [grippe]({{< relref "grippe.md" >}}), dTcaPolio, [papillomavirus]({{< relref "cancer-col-uterus.md" >}}), pneumocoque, [hépatite A]({{< relref "hepatite-a.md" >}}) et [B]({{< relref "hepatite-b.md" >}}), méningocoques B et ACYW135 et la rage
 - Poser une question pour un cas vaccinal particulier: [Infovac App](https://app.infovac.fr) (nécessite de créer un compte)
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
@@ -294,7 +294,7 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
-- [Service Public. Les pharmaciens peuvent désormais vous prescrire et vous administrer vos vaccins. 30/08/2023.](https://www.service-public.fr/particuliers/actualites/A16732?xtor=EPR-100)
+- [Service Public. Les pharmaciens peuvent désormais vous prescrire et vous administrer vos vaccins. 30/08/2023.](https://www.service-public.fr/particuliers/actualites/A16732?xtor=EPR-100) et [arrêté 2023-736](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047948973)
 - {{< references/calendrier-vaccinal >}}
 - [Ministère de la Santé. La vaccination du nourrisson contre les rotavirus. Questions/Réponses pour les professionnels de santé. Novembre 2022.](https://sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-ps.pdf)
 - [Omedit Auvergne. Vaccination et Chimiothérapie. 22/07/2022.](https://www.omedit-auvergne-rhone-alpes.ars.sante.fr/vaccination-et-chimiotherapie)

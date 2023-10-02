@@ -23,7 +23,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Une gammapathie monoclonale de signification indéterminée (MGUS) est affirmée par un faible pic monoclonal d'immunoglobulines ou des chaînes légères libres avec un ratio normal en l'absence de signes de malignité (symptômes, anémie, hypercalcémie, insuffisance rénale et lésions osseuses)
+- Une gammapathie monoclonale de signification indéterminée (MGUS) est affirmée par un faible pic monoclonal d'immunoglobulines ou des chaînes légères libres avec un ratio normal en l'absence de signes de malignité (symptômes, AEG, anémie, hypercalcémie, insuffisance rénale et lésions osseuses)
 - Le MGUS peut évoluer vers le myélome multiple (IgG, IgA, chaînes légères) et la maladie de Waldenström (IgM) qui doivent être traqués
 - Le bilan initial d'un pic monoclonal comprend: examen clinique, bilan rénal, protéinurie, calcémie, électrophorèse des protéines sériques et urinaires, dosage des immunoglobulines, dosage des chaînes légères sériques kappa et lambda et rapport κ/λ
 - Le recours à l'hématologue doit être rapide en cas d'anomalie
@@ -127,6 +127,7 @@ Facteurs prédictifs de progression du *MGUS* (1 point par critère, *Mayo Clini
 Adresser à l'hématologue en cas de:
 
 - Drapeau rouge (anomalie clinique, symptôme suspect)
+- AEG
 - Anémie
 - Hypercalcémie
 - Anomalie de la fonction rénale
