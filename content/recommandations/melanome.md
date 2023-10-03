@@ -331,7 +331,7 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 - [Oncologik. Mélanomes vulvaires et vaginaux. 24/01/2020.](http://oncologik.fr/referentiels/rrc/melanomes-vulvaires-et-vaginaux)
 - [Oncologik. Mélanome cutané. 22/03/2019.](http://oncologik.fr/referentiels/oncolor/melanome-cutane)
 - [INCa. Traitements du mélanome avancé. Novembre 2017.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Traitements-du-melanome-avance)
-- [Collège des enseignants de dermatologie de France (CEDEF). Tumeurs cutanées épithéliales et mélaniques. Item 299 UE 9. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/ECN-All-2017.pdf)
+- Collège des enseignants de dermatologie de France (CEDEF). Tumeurs cutanées épithéliales et mélaniques. Item 299 UE 9. 2017.
 - [INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
 - [HAS. Mélanome cutané. Janvier 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-03/ald_30_guide_melanome_web.pdf)
 - [SFDermato. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d'un mélanome cutané MO. Décembre 2005. (PDF)](https://www.oncoderm.fr/upload/recommandations/9738-Prise-en-charge-des-meAlanome.pdf)

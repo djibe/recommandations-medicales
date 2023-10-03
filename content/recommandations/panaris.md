@@ -154,7 +154,7 @@ graph TB
 
 - Prescrire Redaction. Panaris bactérien péri-unguéal d'un doigt. Prescrire. Juin 2022.
 - CEDEF. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques de l'adulte et de l'enfant. 155. 2021.
-- [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 152 UE 6. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/11Item-152-UE6-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques.pdf)
+- Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 152 UE 6. 2017.
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Antibioclic](https://antibioclic.com/questionnaire/23)
 - [ChirurgieMain. Panaris](http://chirurgiemain.fr/pathologies-main-poignet/traumatismes/panaris/)

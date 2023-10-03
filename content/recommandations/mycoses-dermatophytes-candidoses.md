@@ -576,7 +576,7 @@ graph TB
 - Prescrire Redaction. Candidose vulvovaginale. Prescrire. 2021.
 - [Saxon GDGC. et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
 - Prescrire Redaction. Pityriasis versicolor. Prescrire. 2019.
-- [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 152 UE 6. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/11Item-152-UE6-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques.pdf)
+- Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 152 UE 6. 2017.
 - [Haut conseil de la santé publique (HCSP). Survenue de maladies infectieuses dans une collectivité. Conduites à tenir. 2012.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=306)
 - [Bell-Syer SE et al. Oral treatments for fungal infections of the skin of the foot. Cochrane Database Syst Rev. 2012.](https://pubmed.ncbi.nlm.nih.gov/23076898/)
 - [Chabasse D, SFD. Onychomycoses, recommandations pour les modalités de diagnostic et de prise en charge. Journal de Mycologie Médicale. 2007. (PDF)](https://www.sfdermato.org/upload/recommandations/onychomycoses-ea897f8482d176d93ec53661dbea2561.pdf)

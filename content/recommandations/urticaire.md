@@ -440,6 +440,6 @@ graph TB
 - [SFD. Traitement de l'urticaire chronique spontanée. 2019. (PDF)](https://document.sfdermato.org/reco/urticaire-chronique-spontan%C3%A9e/SFD_urticaire-chronique-spontan%C3%A9e_synth%C3%A8se_2019-11.pdf)
 - [SFD. Recommandations urticaire chronique spontanée. Arbre décisionnel. Décembre 2019.](https://reco.sfdermato.org/fr/recommandations-urticaire-chronique-spontan%C3%A9e)
 - [PAP Urticaire aiguë de l'enfant](https://pap-pediatrie.fr/urticaire-aigue-de-lenfant)
-- [Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéo-muqueuses chez l'enfant et l'adulte. Item 183 UE 7. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/16-Item183-UE7-Hypersensibilites-et-allergies-cutano-muqueuses-chez-lenfant-et-ladulte.pdf)
+- Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéo-muqueuses chez l'enfant et l'adulte. Item 183 UE 7. 2017.
 
 {{%/sources%}}

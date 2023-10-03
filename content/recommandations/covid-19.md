@@ -29,7 +29,7 @@ Page servant uniquement à stocker quelques mémos
 - Recours à l'antiviral Paxlovid +++, voir *Antiviraux*
 - Maladie à déclaration obligatoire par le biologiste
 - [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire)
-- Rappel à partir du 2 octobre ([MinSanté](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/la-campagne-de-vaccination-contre-le-covid-19-avancee-de-15-jours-commencera-le)) si +65 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave (chimio, dialyse, voir *Personnes à risque*, *DGS 2023-07*)
+- Rappel à partir du 2 octobre 2023 ([MinSanté](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/la-campagne-de-vaccination-contre-le-covid-19-avancee-de-15-jours-commencera-le)) si +65 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave (chimio, dialyse, voir *Personnes à risque*, *DGS 2023-07*)
 - Passe vaccinal frauduleux désirant se faire vacciner, orienter vers un centre de vaccination (*[CNOM 23/02](https://www.conseil-national.medecin.fr/publications/actualites/rectification-vaccinal-frauduleux)*)
 
 << Important de bien comprendre cela car pas du tout évident à priori. L'immunité naturelle, celle que l'on acquiert après une infection procure en générale une bonne protection. Ce n'est pas le cas avec le Sars-Cov2, non seulement l'immunité naturelle ne semble pas très efficace mais le virus éroderait notre système immunitaire. De plus, les réinfections augmenteraient le risque de séquelles à long terme. >> (*Rémi Salomon 16/07/2022*)
