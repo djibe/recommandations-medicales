@@ -99,7 +99,7 @@ Exemples:
 - [Acromégalie]({{< relref "acromegalie.md" >}})
 - Malformation congénitale des membres
 - [Embolie pulmonaire à répétition]({{< relref "embolie-pulmonaire.md" >}})
-- DMLA
+- [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}})
 - [Asthme]({{< relref "asthme.md" >}})
 - Maladie de Paget, [maladie de Verneuil]({{< relref "maladie-verneuil.md" >}})
 - Ulcère cutané chronique ou récidivant avec retentissement fonctionnel sévère

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-19T13:21:51+02:00"
 publishdate = "2023-07-27"
-lastmod = "2023-07-27"
+lastmod = "2023-10-03"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["HAS", "FFN"]
@@ -247,6 +247,7 @@ Complications à dépister chez un adulte en obésité.
 | [Contraception œstroprogestative]({{< relref "contraception.md" >}}) | En l'absence d'autre d'autre FRCV                   | CNGOF 2018          |
 | Dentaire                        | Suivi annuel                                                                             | HAS 2023            |
 | [Diabète type 2]({{< relref "diabete-type-2.md" >}}) | Dépistage par glycémie à jeun tous les 1-3 ans                      | HAS 2023            |
+| [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}}) | Dépistage régulier après 50 ans ou si symptômes            | HAS 2022 DMLA       |
 | Dyslipidémie                    | Cholestérol total, HDL, LDL, triglycérides                                               | ESC/ESH 2021        |
 | EFR                             | Indications: IMC ≥ 30 avec dyspnée NYHA 3-4, IMC ≥ 35 et SAHOS, IMC ≥ 40                 | HAS 2023            |
 | Gaz du sang                     | Indications: IMC ≥ 35, SpO<sub>2</sub> &lt; 94% ou CPT < 85%                             | HAS 2023            |
