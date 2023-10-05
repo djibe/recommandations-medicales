@@ -271,6 +271,7 @@ Indications à une consultation génétique: cardiomyopathie hypertrophique (CMH
 
 Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaque:
 
+- Voir avec le cardiologue pour une télésurveillance de l'insuffisance cardiaque
 - Diurétiques de l'anse à visée symptomatique
   - [Furosémide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68009803&typedoc=R) 20 à 40 mg jusqu'à 1000 mg/j. Fractionner à partir de 40 mg
   - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R) 0,5 à 1 mg jusqu'à 5 mg/j. Fractionner à partir de 1 mg
@@ -377,17 +378,17 @@ Autres traitements ayant un faible niveau de preuve d'efficacité: {{< modal-btn
 
 ### Indications à l'hospitalisation pour insuffisance cardiaque
 
-- Sévérité clinique
+- Sévérité clinique: tableau d'[insuffisance cardiaque aiguë]({{< relref "insuffisance-cardiaque-aigue.md" >}})
   - Dyspnée, cyanose
   - Œdèmes majeurs
-  - Fibrillation atriale
+  - [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}})
   - Bradycardie < 50/min mal tolérée ou BAV haut degré
   - Hypotension mal tolérée
   - Angor aggravé ou d'apparition récente
 - Sévérité biologique
   - [Hyponatrémie]({{< relref "hyponatremie.md" >}}) ou hyperkaliémie menaçante
   - Anémie
-  - Insuffisance rénale d'aggravation progressive
+  - [Insuffisance rénale]({{< relref "insuffisance-renale-aigue.md" >}}) d'aggravation progressive
 - Comorbidités
   - Valvulopathie sévère ou autre
   - Maintien à domicile impossible
@@ -401,6 +402,7 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 - Consultation 1-2 jours après la sortie  
   Coter *GS* + *MIC* (23€, total 48€).
 - Puis consultation minimum toutes les 2 semaines pour la titration maximale des {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} et {{< modal-btn modal-bb >}}BB{{< /modal-btn >}}
+- Surveillance: symptômes, signes, pression artérielle, fréquence cardiaque, NT-proBNP, kaliémie, DFG
 - Consultation avec le cardiologue  
   Sous **2 semaines** à 2 mois.
 

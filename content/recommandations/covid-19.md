@@ -29,6 +29,7 @@ Page servant uniquement à stocker quelques mémos
 - Recours à l'antiviral Paxlovid +++, voir *Antiviraux*
 - Maladie à déclaration obligatoire par le biologiste
 - [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire)
+- Vaccination de toutes les femmes enceintes quel que soit le terme (*CNGOF*)
 - Rappel à partir du 2 octobre 2023 ([MinSanté](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/la-campagne-de-vaccination-contre-le-covid-19-avancee-de-15-jours-commencera-le)) si +65 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave (chimio, dialyse, voir *Personnes à risque*, *DGS 2023-07*)
 - Passe vaccinal frauduleux désirant se faire vacciner, orienter vers un centre de vaccination (*[CNOM 23/02](https://www.conseil-national.medecin.fr/publications/actualites/rectification-vaccinal-frauduleux)*)
 
@@ -69,6 +70,9 @@ Contact à risque négligeable
 
 {{%/collapse%}}
 {{%collapse "Personnes à risque de forme grave" %}}
+
+> La vaccination anti-SARS-CoV-2 est recommandée à toutes les femmes enceintes quel que soit le terme de la grossesse. (*CNGOF*), 3 doses
+{.alert .alert-info}
 
 Risque démultiplié de forme grave de covid-19 si polypathologique. Doit tenir compte des comorbidités, âge, sexe, facteurs socio-économiques. L'âge est le facteur majeur.
 
@@ -199,6 +203,7 @@ Atteintes possibles après une infection à Sars-Cov-2.
 - [DGS-Urgent](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Covid-19 : une dose de rappel vaccinal additionnelle ouverte à davantage de personnes et des délais précisés. 13/07/2022.](https://www.has-sante.fr/jcms/p_3352553/fr/covid-19-une-dose-de-rappel-vaccinal-additionnelle-ouverte-a-davantage-de-personnes-et-des-delais-precises)
 - [HAS. Réponse rapide dans le cadre du COVID-19 Traitement par antiviral des patients à risque de forme grave de la Covid-19. Janvier 2022.](https://www.has-sante.fr/upload/docs/application/pdf/2022-01/reco458_fiche_rr_paxlovid_mel.pdf)
+- [CNGOF. Vaccin anti SARS-CoV-2 et grossesse 3e injection ? Avis du 17 novembre 2021. (PDF)](http://www.cngof.net/Publications-CNGOF/Pratique-clinique/COVID-19/CNGOF-GRIG-171021-3e%20dose%20vaccin%20anti%20SARS-COV2%20femmes%20enceintes.pdf)
 - [HAS. Stratégie de vaccination contre le Sars-Cov-2. 01/03/2021.](https://www.has-sante.fr/upload/docs/application/pdf/2021-03/actualisation_des_facteurs_de_risque_de_formes_graves_de_la_covid-19_et_des_reco_sur_la_strategie_de_priorisation_des_popula.pdf)
 - [Journal Officiel. Arrêté du 24 juillet 2020 modifiant l'arrêté du 10 juillet 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans les territoires sortis de l'état d'urgence sanitaire et dans ceux où il a été prorogé. 25/07/2020.](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000042148309&categorieLien=id)
 - [Académie nationale de Médecine. Avis: Les séquelles de la Covid-19. 15/07/2020](http://www.academie-medecine.fr/wp-content/uploads/2020/07/Se%CC%81quelles-Avis.pdf)

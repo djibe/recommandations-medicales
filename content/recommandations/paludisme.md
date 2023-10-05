@@ -6,7 +6,7 @@ synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T12:42:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2023-09-18"
+lastmod = "2023-10-03"
 specialites = ["infectiologie"]
 annees = "2018"
 sources = ["SPILF", "HCSP"]
@@ -370,6 +370,7 @@ Les traitements d'intention moindre sont l'atovaquone-proguanil voire la quinine
 {{% /collapse %}}
 {{%sources%}}
 
+- [Pasteur. Paludisme : la prise en charge des malades du paludisme à Plasmodium falciuparum mise en périle dans la Corne de l'Afrique. 28/09/2023.](https://www.pasteur.fr/fr/espace-presse/documents-presse/paludisme-prise-charge-malades-du-paludisme-plasmodium-falciparum-mise-peril-corne-afrique)
 - {{< references/voyageur >}}
 - Anofel. Paludisme. Parasitoses et mycoses des régions tempérées et tropicales. 2022.
 - [CMIT. Paludisme. Item 170. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-170-web.pdf)

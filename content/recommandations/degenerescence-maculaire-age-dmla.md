@@ -31,7 +31,7 @@ todo = "flowchart, doses cplts"
 - La DMLA exsudative nécessite des injections intravitréennes répétées d'anti-VEGF
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Dégénérescence maculaire liée à l'âge (DMLA)
 : Pathologie dégénérative avancée chronique rétinienne de la macula survenant après 50 ans. L'atteinte peut être bilatérale et il n'existe pas de traitement curatif.

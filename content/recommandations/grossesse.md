@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2023-09-14"
+lastmod = "2023-10-05"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "CRAT", "SFD"]
@@ -25,7 +25,7 @@ todo = "critères TSH, dépression post-partum http://beh.santepubliquefrance.fr
 *Vaste chapitre en chantier*
 
 - 0 alcool et 0 tabac pendant la grossesse, interroger à chaque consultation
-- Vaccin Covid-19, grippe et coqueluche à chaque grossesse
+- Vaccins grippe et coqueluche à chaque grossesse et 3 doses de Covid-19
 - [Calendrier de grossesse de GestaClic](http://gestaclic.fr/calculette.html)
 - Besoins en [calcium]({{< relref "apports-calcium.md" >}}): 1 g/j (*IOF*)
 
@@ -188,6 +188,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 - [Ministère de la Santé. Vaccination contre le Covid-19 et maternité. 2023. (PDF)](https://sante.gouv.fr/IMG/pdf/fiche_-_vaccination_contre_le_covid-19_et_maternite.pdf)
 - [US Preventive Services Task Force, Barry MJ et al. Folic Acid Supplementation to Prevent Neural Tube Defects: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2807739)
 - [CNGOF, SFMU, SFAR. Prise en charge des urgences obstétricales en médecine d'urgence. Recommandations de Pratiques Professionnelles. 2022.](https://sfar.org/prise-en-charge-des-urgences-obstetricales-en-medecine-durgence/)
+- [CNGOF. Vaccin anti SARS-CoV-2 et grossesse 3e injection ? Avis du 17 novembre 2021. (PDF)](http://www.cngof.net/Publications-CNGOF/Pratique-clinique/COVID-19/CNGOF-GRIG-171021-3e%20dose%20vaccin%20anti%20SARS-COV2%20femmes%20enceintes.pdf)
 - [CNGOF. Prévention de l'allo-immunisation Rhésus D chez les patientes de groupe Rhésus D négatif. 2017. (PDF)](https://cngof.fr/app/pdf/RPC//1-RPC%20DU%20CNGOF/2017/preventionalloimmunisation-MAJ-2017-12-21.pdf?x72671)
 
 ### Bibliographie en attente

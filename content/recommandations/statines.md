@@ -6,10 +6,10 @@ synonyms = ["Hypolipémiants"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-17T13:36:17+01:00"
 publishdate = "2022-03-17"
-lastmod = "2023-09-10"
+lastmod = "2023-10-03"
 specialites = ["therapeutique"]
 annees = "2023"
-sources = ["ESC", "USPTF", "ESH"]
+sources = ["ESC", "USPTF", "ESH", "SFC"]
 tags = ["risque cardiovasculaire"]
 anglais = ["Statin"]
 sctid = "372912004"
@@ -149,6 +149,7 @@ Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**infarctus 
 - {{< references/esh-2023 >}}
 - {{< references/esc-cvd >}}
 - {{< references/esc-dyslipidaemias >}}
+- [Société Française de Cardiologie (SFC). Statines et vaccins : 2 versions modernes de l'obscurantisme. 26/11/2019.](https://www.sfcardio.fr/actualite/statines-et-vaccins-2-versions-modernes-de-lobscurantisme)
 - [Bouhairie VE, Goldberg AC. Familial hypercholesterolemia. Cardiol Clin. 2015.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4472364/)
 
 {{%/sources%}}

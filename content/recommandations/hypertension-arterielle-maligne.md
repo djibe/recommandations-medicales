@@ -37,7 +37,7 @@ Hypertension artérielle maligne
     2. sévère (= grade 3): PAS ≥ 180 mmHg ou PAD ≥ 110 mmHg
     3. Atteinte d'organe: rétinopathie hypertensive, microangiopathie, CIVD, encéphalopathie
 
-Autres urgences hypertensives: AVC, dissection aortique, infarctus du myocarde, insuffisance cardiaque aiguë, phéochromocytome, [pré-éclampsie]({{< relref "pre-eclampsie.md" >}}).
+Autres urgences hypertensives: AVC, dissection aortique, infarctus du myocarde, [insuffisance cardiaque aiguë]({{< relref "insuffisance-cardiaque-aigue.md" >}}), phéochromocytome, [pré-éclampsie]({{< relref "pre-eclampsie.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
