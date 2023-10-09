@@ -1,0 +1,452 @@
+{
+  "data": [
+    {
+      "Fabricant": "A&D",
+      "Modèle": "UM-211",
+      "Population": "adulte",
+      "Lieu": "cabinet, hôpital",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "A&D",
+      "Modèle": "UM-212BLE",
+      "Population": "adulte, enfant",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "A C Cossor & Son",
+      "Modèle": "Greenlight 300",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Andon",
+      "Modèle": "KD-391",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Andon",
+      "Modèle": "KD-5965",
+      "Population": "adulte",
+      "Lieu": "cabinet, AMT",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Andon",
+      "Modèle": "iHealth BP3",
+      "Population": "adulte",
+      "Lieu": "cabinet, AMT",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Andon",
+      "Modèle": "KD-5920",
+      "Population": "adulte",
+      "Lieu": "cabinet, AMT",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Andon",
+      "Modèle": "ihealth Track KN-550BT",
+      "Population": "adulte",
+      "Lieu": "cabinet, AMT",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Andon",
+      "Modèle": "KD-5923",
+      "Population": "adulte",
+      "Lieu": "cabinet, AMT",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Andon",
+      "Modèle": "iHealth Clear BPM1",
+      "Population": "adulte",
+      "Lieu": "cabinet, AMT",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Andon",
+      "Modèle": "KD-558BR",
+      "Population": "adulte",
+      "Lieu": "cabinet, AMT",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Andon",
+      "Modèle": "iHealth Ease BP3L",
+      "Population": "adulte",
+      "Lieu": "cabinet, AMT",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Andon",
+      "Modèle": "iHealth Neo BP5s",
+      "Population": "adulte",
+      "Lieu": "cabinet, AMT",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Artsana",
+      "Modèle": "CS 410",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Artsana",
+      "Modèle": "CS 610",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "BIOS",
+      "Modèle": "BD270",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "Hypertension CANADA"
+    },
+    {
+      "Fabricant": "BpTRU",
+      "Modèle": "BPM-100",
+      "Population": "adulte, enfant",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Dinamap",
+      "Modèle": "ProCare",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Dinamap",
+      "Modèle": "ProCare 100",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Dinamap",
+      "Modèle": "ProCare 200",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Dinamap",
+      "Modèle": "ProCare 230",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Dinamap",
+      "Modèle": "ProCare 420",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "EDAN",
+      "Modèle": "SA 10",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Erka",
+      "Modèle": "Erkameter 125 Pro",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "GE",
+      "Modèle": "Carescape V100",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Healthworks",
+      "Modèle": "SCLV-2007 Cardio-Vascular Lab",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Hingmed",
+      "Modèle": "DBP-01P",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "HoMedics",
+      "Modèle": "WGNBPA-540",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "InBody",
+      "Modèle": "BPBIO220",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "Validate BP"
+    },
+    {
+      "Fabricant": "InBody",
+      "Modèle": "BPBIO250",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "InBody",
+      "Modèle": "HBP570",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Medaval",
+      "Modèle": "QMon-20",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Microlife",
+      "Modèle": "3AS1-2",
+      "Population": "grossesse",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Microlife",
+      "Modèle": "A3PC",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Microlife",
+      "Modèle": "WatchBP Home",
+      "Population": "grossesse",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Microlife",
+      "Modèle": "WatchBP Office ABI",
+      "Population": "adulte, enfant, obèse",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Microlife",
+      "Modèle": "WatchBP Office",
+      "Population": "adulte, enfant, obèse",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Microlife",
+      "Modèle": "WatchBP Office AFIB",
+      "Population": "adulte, enfant, obèse",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Microlife",
+      "Modèle": "WatchBP Office Central",
+      "Population": "adulte, enfant, obèse",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Microlife",
+      "Modèle": "WatchBP Office BP3SK1-3B",
+      "Population": "adulte, enfant, obèse",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Midmark",
+      "Modèle": "IQvitals Zone",
+      "Population": "adulte, enfant",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Mindray",
+      "Modèle": "Accutorr Plus",
+      "Population": "adulte, enfant",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP, BIH"
+    },
+    {
+      "Fabricant": "Mindray",
+      "Modèle": "Accutor V",
+      "Population": "adulte, enfant",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Nissei",
+      "Modèle": "DM-3000",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Omron",
+      "Modèle": "HBP T105",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Omron",
+      "Modèle": "HEM-907",
+      "Population": "adulte, âgé",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Omron",
+      "Modèle": "HBP-1300",
+      "Population": "adulte, enfant",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Omron",
+      "Modèle": "M7 (HEM-780-E)",
+      "Population": "grossesse, obèse",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Omron",
+      "Modèle": "M3500",
+      "Population": "adulte, enfant",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Omron",
+      "Modèle": "HBP-9030",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "QMon",
+      "Modèle": 20,
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Riester",
+      "Modèle": "RBP-100",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Spengler",
+      "Modèle": "Pro M",
+      "Population": "adulte",
+      "Lieu": "cabinet, AMT",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Suntech",
+      "Modèle": 247,
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Suntech",
+      "Modèle": "CT40",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Uscom",
+      "Modèle": "BP+",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Welch Allyn",
+      "Modèle": "Home Blood Pressure Monitor",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "Validate BP"
+    },
+    {
+      "Fabricant": "Welch Allyn",
+      "Modèle": "Vital Signs",
+      "Population": "adulte, grossesse",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Welch Allyn",
+      "Modèle": "ProBP 2000",
+      "Population": "adulte, enfant",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Welch Allyn",
+      "Modèle": "ProBP 2400",
+      "Population": "adulte, obèse",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Welch Allyn",
+      "Modèle": "ProBP 3400",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "Validate BP"
+    },
+    {
+      "Fabricant": "Withings",
+      "Modèle": "BPM Connect",
+      "Population": "grossesse",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "Withings",
+      "Modèle": "BPM Connect Pro",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "BIH"
+    },
+    {
+      "Fabricant": "YuWell",
+      "Modèle": "YE900",
+      "Population": "adulte, enfant",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    }
+  ]
+}

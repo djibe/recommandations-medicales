@@ -2,16 +2,16 @@
 title = "Certificat de non contre-indication à la pratique du sport (CNCI)"
 prefix = "le "
 noindex = true
-titleSeo = "Certificat pratique sport"
+titleSeo = "Certificat contre-indication sport"
 description = "Recommandations pour l'établissement du certificat de non contre-indication à la pratique du sport. Examens complémentaires, ECG, épreuve d'effort ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-08T20:02:41+02:00"
 publishdate = "2020-10-08"
-lastmod = "2023-09-05"
+lastmod = "2023-10-07"
 specialites = ["certificats"]
-annees = "2022"
-sources = ["SFC", "JO"]
+annees = "2023"
+sources = ["JO", "SFC"]
 tags = ["epreuve effort", "prevention"]
 anglais = []
 sctid = ""
@@ -27,7 +27,7 @@ todo = "Bio > 35 ans, type 1A (sources 12-13), quel examen clinique, https://www
 *Version préliminaire*
 
 - Majeurs: certificat sportif valable 3 ans sauf exceptions (voir [Disciplines nécessitant un certificat](#disciplines-nécessitant-un-certificat-de-sport-annuel))
-- Mineurs: [questionnaire de santé](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486824) sauf exceptions (cf ci-dessus). Certificat médical requis si ≥ 1 réponse positive.  
+- Mineurs: [questionnaire de santé](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486824) sauf exceptions (cf ci-dessus). Certificat médical requis uniquement si au moins 1 réponse positive.  
   Pour les parents: [simulateur de Service-public.fr](https://www.service-public.fr/simulateur/calcul/certificatMedical) pour savoir si un certificat est requis
 - Préciser l'accès aux compétitions le cas échéant
 - Indications à l'ECG, au test d'effort et à l'échocardiographie (voir *Examens*)
@@ -105,26 +105,18 @@ MS
 {{% /collapse %}}
 {{%collapse "Disciplines nécessitant un certificat de sport annuel" %}}
 
-Dites << disciplines à contraintes particulières >>:
+Dites << disciplines à contraintes particulières >> nécessitant un certificat médical annuel:
 
-- Environnement spécifique
-  - Alpinisme
-  - Parachutisme
-  - Plongée subaquatique
-  - Spéléologie
-- *Compétitions* avec risque de choc le "rendant incapable de se défendre"  
+- Plongée subaquatique
+- Compétitions avec risque de choc "rendant incapable de se défendre"  
   Arts martiaux, boxe.
 - Utilisation d'arme à feu ou à air comprimé  
   Tir, ball-trap, biathlon.
 - *Compétitions* avec conduite de véhicule terrestre à moteur  
-  Sport auto, karting, motocyclisme...  
-  {{%class%}}Sauf modélisme automobile radioguidé.{{%/class%}}
-- Conduite d'aéronef *en compétition*  
-  {{%class%}}Sauf aéromodélisme.{{%/class%}}
-- Rugby à XV, XIII et VII
+  Sport auto, motocyclisme ... sauf karting ou modélisme radioguidé.
+- Disciplines motonautiques
 
-> [Ministère chargé des sports](https://sports.gouv.fr/accueil-du-site/actualites/article/le-certificat-medical-de-non-contre-indication-a-la-pratique-sportive-remplace)  
-[Savoir s'il faut un certificat médical pour obtenir une licence sportive (Simulateur)](https://www.service-public.fr/particuliers/vosdroits/R51612)
+> [Décret 2023-853 du 31 août 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048038373)
 
 L'inscription à une *compétition* nécessite la présente d'une license sportive datant de moins de 3 ans. En l'absence de license, d'un certificat médical de moins d'un an.
 

@@ -51,7 +51,7 @@ Obésité
 |----------------------------|:-----------:|
 | Surpoids                   |   25-29,99  |
 | Obésité modérée (classe 1) |   30-34,99  |
-| Obésité sévère (classe 2)  |   35-29,99  |
+| Obésité sévère (classe 2)  |   35-39,99  |
 | Obésité morbide (classe 3) |    ≥ 40     |
 {{< /table >}}
 

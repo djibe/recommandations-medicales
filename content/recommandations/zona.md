@@ -239,7 +239,7 @@ Hospitalisation pour aciclovir intra-veineux et (méthyl-)prednisolone.
 
 Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}).
 
-- Fond douloureux permanent: amitriptyline
+- Fond douloureux permanent: clomipramine
 - Paroxysmes hyperalgiques: carbamazépine ([Tegretol® ou gén](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61547468&typedoc=R))
 - Voire morphine
 - Soutien psychologique
