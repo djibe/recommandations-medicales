@@ -31,6 +31,14 @@ Psoriasis
 : Dermatose chronique inflammatoire érythémato-squameuse d'origine inconnue avec prédisposition génétique.
 : Le psoriasis atteint 2% des Français.
 
+La lésion élémentaire du psoriasis est:
+
+- Une papule ou une plaque érythémato-squameuse bien limitée, arrondie, ovalaire ou polycyclique (**psoriasis en plaques ou en gouttes**)
+- Couche squameuse superficielle blanchâtre d'épaisseur variable
+- Régressif sans cicatrice (parfois macules hyper/dépigmentées)
+
+Les éléments sont le plus souvent multiples et symétriques avec un **respect du visage**.
+
 ### Abréviations
 
 CEDEF
@@ -46,20 +54,31 @@ SFD
 > << Le diagnostic de psoriasis est un diagnostic clinique dans la très grande majorité des cas. >> (*CEDEF 2023*)
 {.alert .alert-info}
 
-La lésion élémentaire du psoriasis est:
-
-- Une papule ou une plaque érythémato-squameuse bien limitée, arrondie, ovalaire ou polycyclique
-- Couche squameuse superficielle blanchâtre d'épaisseur variable
-
 ### Interrogatoire
 
 - Antécédents
-- Traitements en cours
-- Facteurs aggravants: infection (dont VIH), stress et choc émotionnel, traumatisme cutané (phénomène de Koebner), traitement (bêtabloquant)
-- Facteurs de gravité et résistance: alcool, tabac, surpoids/obésité
+- Traitements en cours  
+  Bêtabloquant.
+- Psoriasis
+  - Ancienneté
+  - Facteurs aggravants: infection (dont VIH), stress et choc émotionnel, traumatisme cutané (phénomène de Koebner), traitement (bêtabloquant)
+  - Facteurs de gravité et résistance: alcool, tabac, surpoids/obésité
+  - Traitements essayés
+  - Localisations  
+    Typiques exposées aux frottements: coudes, genoux, jambes, lombo-sacrée et fesses, cuir chevelu, ongles, paumes et plantes.
+  - Atteinte symétrique
+  - Absence de cicatrices
+  - Symptômes: prurit (60% lors des poussées), douleurs des paumes et plantes
+- Signes généraux: habituellement pas d'AEG
 
 ### Formes cliniques de psoriasis
 
+Le psoriasis peut prendre différentes formes cliniques:
+
+- Psoriasis du cuir chevelu  
+  Plaques bien limitées de taille variable (lisière antérieure, occipitales) avec squames épaisses voire carapace squameuse en casque. [Alopécie]({{< relref "alopecie.md" >}}) temporaire possible.
+- Psoriasis unguéal  
+  Ongles en << dé à coudre >>, onycholyse avec décollement distal, zone proximal << saumonée >>, hyperkératose sous-unguéale, paronychie, perte de transparence de l'ongle.
 - Psoriasis aigu en gouttes  
   Enfant ou adolescent dans les suites d'une infection ORL (viral, SGA).
 - Psoriasis érythrodermique

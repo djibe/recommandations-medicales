@@ -131,7 +131,7 @@ Possible si: [infection hépatite B]({{< relref "hepatite-b.md" >}}) (avis gastr
 Bilan avant l'instauration de la PrEP, en l'absence de suspicion de primo-infection VIH:
 
 - Sérologie VIH < 7 jours
-- Créatininémie et clairance Cockroft
+- Créatininémie et clairance Cockroft (TODO:)
 - Autres (ne modifiant pas la prescription)
   - Sérologie VHA ± [rattrapage vaccinal]({{< relref "hepatite-a.md" >}})
   - Sérologie VHB: Ag HBs, anticorps anti-HBs, anticorps anti-HBc + [rattrapage vaccinal]({{< relref "hepatite-b.md" >}})

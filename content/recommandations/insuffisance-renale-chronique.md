@@ -8,9 +8,9 @@ synonyms = ["et maladie rénale chronique (MRC)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2023-08-25"
+lastmod = "2023-10-09"
 specialites = ["nephrologie"]
-annees = "2021"
+annees = "2023"
 sources = ["HAS", "ESH", "KDIGO", "ADA", "ESC"]
 tags = ["depistage", "diabete", "dyspnee", "fatigue", "ferritine", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "vaccin", "vitamine d"]
 anglais = ["Chronic kidney disease (CKD)", "chronic renal insufficiency"]
@@ -19,36 +19,40 @@ icd10 = "N18.9"
 image = true
 imageSrc = "Illustration de l'insuffisance rénale par pch.vector / Freepik"
 flowchart = true
-todo = "maladie pro, aliments riches K/P"
+todo = "Albuminurie perturbée, maladie pro, aliments riches K/P (HAS2023p71), désindexation surface corp"
 +++
 
 {{% article-summary %}}
 
 - {{< modal-btn modal-creatinine >}}Situations où le débit de filtration estimé n'est pas fiable{{< /modal-btn >}}
-- Dépistage annuel des populations à risque d'insuffisance rénale par créatininémie + albuminurie sur échantillon
-- 3 piliers de l'évaluation rénale: étiologie, DFG selon CKD-EPI et ratio albuminurie/créatininurie
+- Dépistage annuel des populations à risque d'insuffisance rénale chronique par créatininémie et albuminurie sur échantillon
+- 3 piliers de l'évaluation de la maladie rénale chronique: étiologie, DFG selon CKD-EPI et rapport albuminurie/créatininurie (RAC)
 - Toute personne avec une insuffisance rénale chronique est à {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
-- Néphroprotection  
+- Néphroprotection et prise en charge de l'insuffisance rénale:  
   Arrêt du tabac, {{< modal-btn modal-nephrotoxiques >}}éviter les néphrotoxiques{{< /modal-btn >}}, tension cible < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}}, vaccin covid-19, activité physique
-- Mesures supplémentaires chez le diabétique (voir *Prise en charge*)
-- Adaptation des traitements selon {{< scores/ckd-epi >}}
-- Estimation de la progression de la maladie rénale chronique: [score KFRE](https://kidneyfailurerisk.com/)
-- Le suivi de l'enfant relève exclusivement du néphrologue
+- Traitements supplémentaires chez le diabétique (voir *Prise en charge*)
+- Adaptation des traitements selon la clairance {{< scores/ckd-epi >}}
+- Avis néphrologique si: étiologie autre que diabète ou hypertension, DFGe < 45 (20 si âgé), évolutive ([score KFRE](https://kidneyfailurerisk.com), déclin rapide), albuminurie, complication, hypertension non contrôlée, traitement à {{< modal-btn modal-nephrotoxiques >}}marge thérapeutique étroite{{< /modal-btn >}}
+- Le suivi de la maladie rénale chronique de l'enfant relève exclusivement du néphrologue
 
 {{%/article-summary%}}
 {{%collapse "Définitions"%}}
+
+Les stades de l'insuffisance rénale et de l'albuminurie sont dans la section suivante *Clinique*
+{.alert .alert-info}
 
 Maladie rénale chronique (MRC)
 : {{%lang%}}Chronic kidney disease{{%/lang%}}
 : Présence d'une *insuffisance rénale chronique* (IRC):  
 Diminution du *débit de filtration glomérulaire estimé* (DFGe) < 60 mL/min/1,73 m² (formule {{< scores/ckd-epi >}} à utiliser selon *KDIGO 2012*)  
-OU présence ≥ 1 *marqueur d'atteinte rénale* persistant **plus de 3 mois**:  
+OU présence d'au moins un *marqueur d'atteinte rénale* persistant **plus de 3 mois**:  
     - Albuminurie ou protéinurie
     - Hématurie > 10/mm³ (hors cause urologique)  
     - Leucocyturie > 10/mm³ (en l'absence d'infection)
     - Anomalie morphologique à l'échographie rénale  
-    Asymétrie de taille, contours bosselés, reins de petite taille/gros reins polykystiques, néphrocalcinose, kyste.
+      Asymétrie de taille, contours bosselés, reins de petite taille ou gros reins polykystiques, néphrocalcinose, kyste.
 : La maladie rénale chronique augmente le risque et la {{< modal-btn modal-rcv >}}mortalité cardiovasculaire{{< /modal-btn >}}.
+: L'hypertension et la diabète sont responsables de la moitié des cas d'insuffisance rénale avec traitement de suppléance.
 
 Insuffisance rénale chronique terminale (IRCT)
 : Insuffisance rénale chronique avec un débit de filtration glomérulaire < 15 mL/min/1,73 m² (*stade 5* ou *terminale*).
@@ -59,7 +63,7 @@ Pour le stade de la maladie rénale chronique et l'albuminurie, voir *Clinique*
 ### Abréviations
 
 CKD-EPI
-: {{%lang%}}Chronic Kidney Disease EPIdemiology collaboration (*Levey 2009*){{%/lang%}}. Formule d'estimation simplifiée la plus précise pour le calcul du débit de filtration glomérulaire estimé (DFGe)
+: {{%lang%}}Chronic Kidney Disease EPIdemiology collaboration (*Levey 2009*){{%/lang%}}. Formule d'estimation simplifiée la plus précise pour le calcul du débit de filtration glomérulaire estimé (DFGe) et l'adaptation des traitements
 
 DFGe
 : débit de filtration glomérulaire estimé (remplace le calcul de la clairance de la créatinine Cockroft)
@@ -83,7 +87,7 @@ MRC
 : maladie rénale chronique
 
 RAC
-: Ratio albuminurie/créatininurie (mg/g)
+: Rapport albuminurie/créatininurie (mg/g ou mg/mmol)
 
 RCV
 : risque cardiovasculaire
@@ -91,7 +95,7 @@ RCV
 
 ### Épidémiologie de l'insuffisance rénale chronique
 
-3 millions de Français atteints de maladie rénale chronique (7-10% des adultes) avec un dépistage insuffisant.
+3 millions de Français atteints de maladie rénale chronique (7 à 10 % de la population) avec un dépistage insuffisant.
 
 9500 nouveaux dialysés par an, augmentation de 4%/an, liés aux facteurs de risque cardiovasculaires: [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) et **diabète** pour la moitié des cas.
 
@@ -119,11 +123,11 @@ Population à risque d'insuffisance rénale chronique, définie par la présence
 - Antécédents familiaux d'insuffisance rénale évolutive
 - Antécédents de néphropathie aiguë
 - Traitement par {{< modal-btn modal-nephrotoxiques >}}néphrotoxiques{{< /modal-btn >}}  
-  AINS, chimiothérapie, exposition aux produits de contraste iodés ou radiothérapie péri-rénale
+  AINS, chimiothérapie, exposition aux produits de contraste iodés ou radiothérapie péri-rénale.
 - Exposition professionnelle  
   [Plomb]({{< relref "saturnisme.md" >}}), cadmium, mercure.
 
-Le dépistage des populations à risque doit être répété 1 fois par an (ou selon l'avis du néphrologue en antécédents familiaux)
+Le dépistage des populations à risque doit être **annuel** (ou selon l'avis du néphrologue en antécédents familiaux)
 {.alert .alert-info}
 
 ### Comment dépister la maladie rénale chronique ?
@@ -135,7 +139,7 @@ Le dépistage des populations à risque doit être répété 1 fois par an (ou s
   {{%class%}}Recueil à tout moment de la journée (de préférence le matin).{{%/class%}}
 {{%/info%}}
 
-En cas d'anomalie (hématurie, protéinurie, DFGe < 60), le bilan doit être **recontrôlé à 3 mois** dans le même laboratoire. La persistance à 3 mois de l'anomalie affirme la *maladie rénale chronique*.
+En cas d'anomalie (hématurie, protéinurie, DFGe < 60), le bilan doit être **recontrôlé à 3 mois** dans le même laboratoire. La persistance à 3 mois de l'anomalie affirme la **maladie rénale chronique**.
 
 ### Suivi par un néphrologue
 
@@ -143,13 +147,13 @@ Indications au suivi de la maladie rénale chronique par un néphrologue:
 
 - Immédiat  
   - Glomérulonéphrite rapidement progressive
-  - Insuffisance rénale aiguë
+  - [Insuffisance rénale aiguë]({{< relref "insuffisance-renale-aigue.md" >}})
 - Rapide
   - Lithiase, hydronéphrose, tumeur
-  - Hypertension artérielle réfractaire
+  - [Hypertension artérielle réfractaire]({{< relref "hypertension-arterielle.md" >}})
   - Syndrome néphrotique, œdèmes, hématurie, signes extra-rénaux
 
-Le recours au néphrologue est recommandé en cas de doute sur la nature de la maladie rénale ou des antécédents familiaux.
+Le suivi par le néphrologue est recommandé en cas de doute sur la nature de la maladie rénale, des antécédents familiaux, une albuminurie, un traitement à marge thérapeutique étroite.
 
 {{%/collapse%}}
 {{%collapse "Clinique, stade et albuminurie" %}}
@@ -157,11 +161,11 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 ### 1) Interrogatoire
 
 - Antécédents personnels et familiaux de maladie rénale ou urinaire
-- Antécédents cardiovasculaires et FRCV (hypertension, diabète, tabagisme, dyslipidémie, obésité)
+- Antécédents cardiovasculaires et FRCV: hypertension, diabète, tabagisme, dyslipidémie, obésité
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}}
 - Exposition aux {{< modal-btn modal-nephrotoxiques >}}néphrotoxiques{{< /modal-btn >}}
   - Professionnelle  
-    Plomb, mercure, cadmium, solvants organiques.
+    Plomb, mercure, cadmium, silice, solvants organiques.
   - Médicamenteuse  
     AINS, aminoside, produit de contraste iodé, chimiothérapie.
   - Alimentaire  
@@ -206,24 +210,27 @@ Recherche de signes étiologiques et du retentissement de la maladie rénale:
 - Pression artérielle standardisée ± automesure tensionnelle (MAPA si greffe rénale)
 - Auscultation cardiaque, souffle carotidien/rénal, pouls périphériques
 - Œdèmes, hydratation, reins palpables, signes de maladie de système
-- Urologiques  
+- Signes urologiques  
   Signes fonctionnels urinaires, globe vésical, touchers pelvien.
-- {{< modal-btn modal-mna >}}Dénutrition{{< /modal-btn >}}
+- Rechercher une {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}
+- Rechercher une [insuffisance cardiaque chronique]({{< relref "insuffisance-cardiaque-chronique.md" >}})
 - Stade avancé: syndrome urémique  
   Fatigue, dyspnée, anorexie, nausées, vomissements, prurit, syndrome des jambes sans repos, crampes nocturnes, nycturie, troubles cognitifs, somnolence, hémorragies, troubles endocriniens, hypertension sévère.
+- Sujet âgé: évaluation gériatrique
 
 ### 4) Critères pour apprécier l'évolutivité de la MRC
 
-La maladie rénale est considérée comme évolutive si présence de facteur ci-dessous (déclin annuel rapide du DFG, différence entre 2 annnées - calculé par DFGe année n – DFGe année n+1)
+La maladie rénale est considérée comme évolutive en cas de présence de facteur ci-dessous (déclin annuel rapide du DFG, différence entre 2 annnées calculé par: DFGe année n – DFGe année n+1)
 
-- {{%class%}}Physiologique si < 2 mL/min/1,73m²/an{{%/class%}}
-- {{%class%}}Modéré si ≥ 2 et < 5{{%/class%}}
-- [Score KFRE > 3% à 5 ans](https://kidneyfailurerisk.com/)
+- {{%class%}}Déclin annuel modéré si ≥ 2 et < 5{{%/class%}}
+- [Score KFRE > 3% à 5 ans](https://kidneyfailurerisk.com)
 - **Déclin rapide** si variation annuelle du DFG ≥ -5 mL/min/1,73m²
 - Présence d'une albuminurie (surtout si sévère > 500 mg/g)
 - Hypertension artérielle non contrôlée
 
 Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologique.
+
+Le déclin annuel est **physiologique** quand < 2 mL/min/1,73m²/an.
 
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
@@ -241,7 +248,7 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
 - Bilan lipidique (de moins d'un an)
 - Glycémie à jeun ou HbA<sub>1C</sub>
 - Urinaire  
-  ECBU + ratio albuminurie/créatininurie (RAC).
+  ECBU + rapport albuminurie/créatininurie (RAC).
 {{%/info%}}
 
 - DFGe < 60 (voire < 45)
@@ -251,10 +258,12 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
   - Albuminémie, urémie
   - Statut hépatite B: AgHBs, anticorps anti-HBs et anti-HBc
 - Si anémie: réticulocytes  
-  {{%class%}}Anémie normochrome normocytaire arégénérative.{{%/class%}}
+  {{%class%}}Anémie normochrome normocytaire arégénérative au cours de l'IRC.{{%/class%}}
 - **Confirmer une albuminurie** +30 mg/g (3 mg/mmol) sur un échantillon du matin
 - Si signes fonctionnels urinaires ou hématurie: échographie vésicale
 - Si [goutte symptomatique]({{< relref "goutte.md" >}}): uricémie
+- Si [suspicion de gammapathie monoclonale]({{< relref "gammapathie-monoclonale-mgus.md" >}}): électrophorèse des protéines sériques, protéinurie/créatininurie
+- ± NT-proBNP
 
 {{%/collapse %}}
 {{%collapse "Prise en charge et suivi de l'insuffisant rénal" %}}
@@ -265,8 +274,8 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
 
 - [ALD n°19]({{< relref "affection-longue-duree.md" >}})
 - Suivi par le généraliste possible si:
-  - Stade 1, 2, 3A stable sans complication
-  - Voire sujet âgé avec DFG 20-45
+  - Stade 1, 2, 3A stable sans complication, sans albuminurie, HTA contrôlée, pas de traitement à marge thérapeutique étroite
+  - Et sujet âgé avec DFG 20-45
 - Thérapeutique
   - Adaptation médicamenteuse selon le DFG estimé par {{< scores/ckd-epi >}}
   - {{< modal-btn modal-nephrotoxiques >}}Éviction des néphrotoxiques{{< /modal-btn >}}
@@ -276,10 +285,10 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
   - Réduction de l'alcool
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Activité physique d'intensité modérée ≥ 150 min/semaine
-  - {{< modal-btn modal-sel >}}Régime désodé < 5-6 g/j{{< /modal-btn >}} et hydrique 1,5 L/j (ni restreint ni forcé)
+  - {{< modal-btn modal-sel >}}Régime désodé cible < 5 g/j{{< /modal-btn >}} (max 6-8 g/j) et hydrique ~1,5 L/j (ni restreint ni forcé)
 - Hypertension artérielle
-  - Traitement si la PA n'est pas dans la cible (*KDIGO 2021*) ou ≥ 140/90 (*ESH 2023*)
-  - Pression artérielle cible < 130/80 mmHg (*ESH 2023*) ou 120/90 mmHg (*KDIGO 2021*), {{%class%}}< 150-160 si +80 ans (*HAS 2021*){{%/class%}}
+  - Traitement si PA ≥ 140/90 (*HAS* et *ESH 2023*) ou n'est pas dans la cible (*KDIGO 2021*)
+  - Pression artérielle cible < 130/80 mmHg (*ESH 2023*) ou 120/90 mmHg (*KDIGO 2021*, si possible pour *HAS 2023*), {{%class%}}< 150-160 si +80 ans (*HAS 2021*){{%/class%}}
   - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} ou {{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale avec anticalcique ou thiazidique (de l'anse à partir de 30 mL/min)
   - Puis bêtabloquant ou alpha1-bloquant si nécessaire
   - Si greffe rénale: MAPA, cible < 130/80 mmHg (*ESH 2023* et *KDIGO 2021*)  
@@ -296,24 +305,23 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
   - DFGe < 60: 0,6-0,8 g/kg/j
   - Sauf chez la personne âgée
 - Vaccinations
-  - Grippe annuelle
+  - Grippe annuelle, Covid-19
   - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
-  - Covid-19
-  - Sérologie [hépatite B]({{< relref "hepatite-b.md" >}}) ± vacciner  
-  {{%class%}}Cible anti-HBs +10 UI/L.{{%/class%}}
+  - Sérologie [hépatite B]({{< relref "hepatite-b.md" >}}) et vacciner si Ac anti-HBs < 10 UI/L
 - Ferritinémie cible > 100 ng/mL
 - DFGe < 45
   - Suivi par néphrologue impératif
   - Protection du *capital veineux*
-  - [Vitamine D cible]({{< relref "vitamine-d.md" >}}) > 75 nmol/L (*Souberbielle 2019*)
-- Bicarbonates < 22 mmol/L: supplémentation
+  - [Vitamine D cible]({{< relref "vitamine-d.md" >}}) > 75 nmol/L (*HAS 2023*)
+- Acidose métabolique < 23 mmol/L: cible 23-27 mmol/L, alimentation alcalisante voire 3-6 g/j de bicarbonate de sodium
+- Lutte contre l'hyperphosphorémie
 - Maladie professionnelle et prévention si expositions
 - Associations de patients  
-  [Fondation du Rein](https://www.fondation-du-rein.org/), [France Rein](https://www.francerein.org/), [renaloo](https://renaloo.com/), [AIRG](https://www.airg-france.fr/), [Objectif Rein Santé](https://objectifreinsante.org/).
+  [Fondation du Rein](https://www.fondation-du-rein.org), [France Rein](https://www.francerein.org), [renaloo](https://renaloo.com), [AIRG](https://www.airg-france.fr), [Objectif Rein Santé](https://objectifreinsante.org).
 
 ### Prise en charge de la maladie rénale chez le diabétique
 
-Mesures précédentes avec les particularités suivantes (*ADA*, *ESC 2023* et *KDIGO 2022*):
+Mesures précédentes avec les particularités suivantes chez la personne vivant avec un diabète (*HAS*, *ADA*, *ESC 2023* et *KDIGO 2022*):
 
 - {{< modal-btn modal-statine-intensite >}}Statine de moyenne à forte intensité{{< /modal-btn >}} (± ézétimibe) selon le {{< modal-btn modal-rcv-diabete >}}RCV{{< /modal-btn >}}  
   Ne pas introduire au stade terminal, évaluer la poursuite à ce stade.
@@ -327,7 +335,7 @@ Mesures précédentes avec les particularités suivantes (*ADA*, *ESC 2023* et *
 - Régime désodé < 5 g/j
 - Attention au risque hypoglycémique (sulfamide, glinide, insuline)
 
-### Surveillance biologique
+### Surveillance biologique selon HAS 2023
 
 <div class="card card-hover">
 <ul class="nav nav-tabs nav-justified mb-4" id="justifiedTab" role="tablist">
@@ -347,36 +355,45 @@ Mesures précédentes avec les particularités suivantes (*ADA*, *ESC 2023* et *
 <div class="tab-content" id="justifiedTabContent">
   <div aria-labelledby="sup45-tab" class="tab-pane fade show active" id="sup45" role="tabpanel">
 
-  - Suivi généraliste ≥ 1/an
-  - 1/an: lipidique, glycémie à jeun, créatininémie, ratio albuminurie/créatininurie
+Tant que le DFGe est ≥ 45 mL/min/1,73 m² (20 chez le sujet âgé), stable, sans complications et sans albuminurie:
+
+  - Suivi généraliste au moins annuel
+  - Bilan annuel: lipidique, glycémie à jeun, créatininémie et DFGe, rapport albuminurie/créatininurie
 
   </div>
   <div aria-labelledby="stade3b-tab" class="tab-pane fade" id="stade3b" role="tabpanel">
 
+Suivi au stade 3B:
+
   - Suivi généraliste ≥ 2/an
   - Si néphrologue: ≥ 1/an
-  - Tous les 3-6 mois: créatininémie, ratio albuminurie/créatininurie (voire +), ionogramme, bicarbonates, calcémie, phosphorémie
+  - Tous les 1-6 mois: rapport albuminurie/créatininurie
+  - Tous les 3-6 mois: créatininémie, ionogramme, bicarbonates, calcémie, phosphorémie
   - 1-2/an: NFS, réticulocytes, ferritinémie
-  - 1/an: lipidique, glycémie à jeun, créatininémie, albuminémie
+  - Bilan annuel: lipidique, glycémie à jeun, créatininémie, albuminémie
   - Anticorps anti-HBs tous les 3 ans
   - PTH selon valeur initiale et la progression
 
   </div>
   <div aria-labelledby="stade4-tab" class="tab-pane fade" id="stade4" role="tabpanel">
 
+Suivi au stade 4:
+
   - Suivi généraliste ≥ 4/an
   - Néphrologue: ≥ 2/an
   - Tous les 1-3 mois: créatininémie, urémie, ionogramme, bicarbonates, calcémie, phosphorémie
   - Tous les 1-6 mois: albuminémie, PTH
-  - Tous les 3-6 mois: ratio albuminurie/créatininurie, NFS, réticulocytes, ferritinémie, PAL
-  - 1/an: lipidique, glycémie à jeun, anticorps anti-HBs
+  - Tous les 3-6 mois: rapport albuminurie/créatininurie, NFS, réticulocytes, ferritinémie, PAL
+  - Annuel: lipidique, glycémie à jeun, anticorps anti-HBs
 
   </div>
   <div aria-labelledby="stade5-tab" class="tab-pane fade" id="stade5" role="tabpanel">
 
-  - Suivi généraliste ≥ 1/mois
+Suivi au stade 5:
+
+  - Suivi généraliste les mois sans consultation néphrologique
   - Néphrologue: ≥ 4/an
-  - 1/mois: créatininémie, ionogramme, bicarbonates, calcémie, phosphorémie
+  - Mensuel: créatininémie, ionogramme, bicarbonates, calcémie, phosphorémie
   - Tous les 1-3 mois: urémie, NFS, réticulocytes, ferritinémie, PAL
   - Tous les 1-6 mois: albuminémie
   - Tous les 3-6 mois: PTH
@@ -398,6 +415,9 @@ Mesures précédentes avec les particularités suivantes (*ADA*, *ESC 2023* et *
 
 {{%/collapse %}}
 {{%collapse "Éducation thérapeutique" %}}
+
+> << L'éducation thérapeutique du patient (ETP) fait partie intégrante de la stratégie thérapeutique >> (*HAS 2023*)
+{.alert .alert-info}
 
 ### Reprendre en consultation dédiée
 
@@ -450,7 +470,7 @@ Connaître les signes et symptômes de la maladie rénale chronique et savoir qu
 {{%/collapse%}}
 {{%collapse "Conduite à tenir pour le dépistage de la maladie rénale chronique" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge de la maladie rénale chronique. Dr JB Fron d'après HAS 2021 et KDIGO" >}}
+{{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge de la maladie rénale chronique. Dr JB Fron d'après HAS 2023 et KDIGO" >}}
 graph TB
 fdr["<b>Personne à risque</b><br>—<br>- HTA, diabète<br>- Obésité<br>- Athérome<br>- Insuffisance cardiaque<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familial d'IRC évolutive<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
 style fdr stroke:#4150f5, stroke-width:1px
@@ -469,8 +489,10 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%sources%}}
 
+- [HAS. Maladie rénale chronique de l'adulte (MRC). Guide du parcours de soins. 2023.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
 - {{< references/esh-2023 >}}
 - {{< references/ada-soc >}}
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale chronique chez l'adulte et chez l'enfant. Item 264. Manuel de néphrologie 10ème édition. 2023.](http://cuen.fr/manuel3/spip.php?article66)
 - [Kidney Disease: Improving Global Outcomes (KDIGO) Diabetes Work Group. KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int. 2022.](https://kdigo.org/guidelines/diabetes-ckd/)
 - {{< references/esc-cvd >}}
 - {{< references/sfd-dt2 >}}
@@ -482,9 +504,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
-- [HAS. Maladie rénale chronique de l'adulte (MRC). Guide du parcours de soins. 2023.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
-- [HAS. Suivi ambulatoire de l'adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale chronique chez l'adulte et chez l'enfant. Item 264. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?article18)
+[HAS. Suivi ambulatoire de l'adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
 
 {{%/sources%}}
 {{% modal title="Situations où le DFG est ininterprétable selon KDIGO 2012" id="modal-creatinine"%}}
@@ -565,5 +585,10 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{% modal title="Principaux néphrotoxiques" id="modal-nephrotoxiques"%}}
 
 {{< traitements/nephrotoxiques >}}
+
+{{% /modal %}}
+{{% modal title="Traitements marge thérapeutique étroite" id="modal-nonsubstituable"%}}
+
+{{< traitements/nonsubstituable >}}
 
 {{% /modal %}}

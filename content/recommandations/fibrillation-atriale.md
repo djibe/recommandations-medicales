@@ -210,7 +210,7 @@ Envisager un ECG de dépistage systématique ≥ 75 ans (ou avec dispositif conn
 ### Bilan devant une fibrillation atriale
 
 - NFS
-- Ionogramme sanguin, créatininémie, DFG selon {{< scores/ckd-epi >}} et {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}}
+- Ionogramme sanguin, créatininémie, DFG selon {{< scores/ckd-epi >}}
 - Glycémie à jeun
 - TP, TCA
 - TSH
@@ -285,7 +285,7 @@ Réévaluer fréquemment le risque de saignement avec le {{< modal-btn modal-has
 Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS
 {.alert .alert-warning}
 
-Adaptation à la fonction rénale selon {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}}.
+Adaptation à la fonction rénale selon CKD-EPI.
 
 #### Antivitamines K (AVK)
 
@@ -454,10 +454,5 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{% modal title="Observance des traitements" id="modal-observance"%}}
 
 {{< scores/observance >}}
-
-{{% /modal %}}
-{{% modal title="Clairance de la créatinine selon Cockroft" id="modal-score-cockroft"%}}
-
-{{< scores/cockroft >}}
 
 {{% /modal %}}

@@ -117,11 +117,11 @@ Les symptômes et signes associés à la survenue d'une insuffisance rénale aig
 - Troubles visuels
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'insuffisance rénale aiguë" %}}
 
 Rechercher un globe vésical et adresser aux Urgences pour la prise en charge de l'insuffisance rénale aiguë (biologie, ECG, échographie rénovésicale).
 
-Préciser les antécédents (insuffisance rénale, HBP ...), les valeurs antérieures de créatinine et le niveau de diurèse.
+Préciser les antécédents ([insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [HBP]({{< relref "hypertrophie-benigne-prostate.md" >}}) ...), les valeurs antérieures de créatinine et le niveau de diurèse.
 
 Consultation de contrôle à 3 mois après la correction de l'épisode d'insuffisance rénale aiguë.
 
@@ -188,5 +188,10 @@ graph TB
 - [Collège Français des Enseignants en Urologie (CFEU). Insuffisance rénale aiguë - Anurie. Item 348. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/item-348-Insuffisance-renale-aigue.pdf)
 - [SFR, CIRTACI, SFNDT. Rein et produits de contraste. 2020. (PDF)](https://www.sfndt.org/sites/www.sfndt.org/files/medias/documents/Fiche%20de%20recommandation%20pour%20la%20pratique%20clinique_rein%20et%20produit%20de%20contraste.pdf)
 - [KDIGO. Clinical practice guideline for acute kidney injury. Kidney Inter. 2012. (PDF)](https://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf)
+
+### Bibliographie en attente
+
+- [ESUR](http://www.esur.org/fileadmin/content/2019/ESUR_Guidelines_10.0_Final_Version.pdf)
+- [EMA](https://www.ema.europa.eu/en/documents/referral/gadolinium-article-31-referral-prac-confirms-restrictions-use-linear-gadolinium-agents_en.pdf)
 
 {{%/sources%}}

@@ -160,7 +160,7 @@ Situations pouvant faire contrôler le taux de vitamine D:
 3. À 3 mois d'une transplantation rénale
 4. Avant et après une chirurgie bariatrique
 5. Personne âgée avec [chutes](/tags/chute/) répétées  
-  Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>
+  Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>.
 6. Traitement préconisant une mesure de la vitamine D (ex. biphosphonate)
 
 > *HAS 2013* et *Conditions de prise en charge par l'Assurance Maladie*
@@ -170,10 +170,10 @@ et aussi
 - Hospitalisation pour exacerbation de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (*GOLD*)
 - Enfant en allaitement maternel sans supplémentation pendant des mois (*SFD*)
 - Enfants à peau pigmentée sans supplémentation avec arcature des membres inférieurs (*SFD*)
+- Enfant avec supplémentation prolongée à des doses excessives (*Bacchetta 2022*)
 - Prématuré < 32 SA ou < 1,5 kg (*Bacchetta 2022*)  
   Cible de vitamine D 50-120 nmol/L
-- Bilan initial de [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) (*HAS 02/2012*)
-- Enfant avec supplémentation prolongée à des doses excessives (*Bacchetta 2022*)
+- Bilan initial de [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) (*HAS 2023*)
 
 En dehors des 6 indications (+ suppléments), préciser sur l'ordonnance la raison.  
 En dosage de complaisance, préciser << Non remboursable >> sur la prescription (9,45€, code B35).  

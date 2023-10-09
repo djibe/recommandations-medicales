@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr JG LETAROUILLY (SFR)"
 date = "2020-10-23T22:24:41+02:00"
 publishdate = "2020-10-23"
-lastmod = "2023-06-20"
+lastmod = "2023-10-09"
 specialites = ["rhumatologie"]
 annees = "2022"
 sources = ["EULAR", "SFRhumato", "ACR", "HAS"]
@@ -135,7 +135,7 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
 
 - NFS, VS, CRP
 - ASAT, ALAT, PAL, bilirubine
-- Créatininémie, DFG selon CKD-EPI
+- Créatininémie, DFG selon {{< scores/ckd-epi >}}
 - Bandelette urinaire (protéinurie, hématurie)
 - Facteur rhumatoïde (FR)
 - Anticorps anti-peptide citrulliné (*ACPA* ou *anti-CCP*)
@@ -181,6 +181,7 @@ Mesures générales de prise en charge de la polyarthrite:
   - Correction d'un surpoids
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Échodoppler des TSA
+- Dépistage annuel de la MRC: créatininémie et rapport albuminurie/créatininurie (*HAS 2023*)
 - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md">}})  
   - dTP tous les 10 ans
   - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque tous les 5 ans{{< /modal-btn >}}
@@ -188,8 +189,7 @@ Mesures générales de prise en charge de la polyarthrite:
 - Association de patients: [AFPric](https://www.polyarthrite.org/), [ANDAR](http://www.polyarthrite-andar.com/)
 - Proposer un soutien psychologique
 - Accompagnement socioprofessionnel
-- Rééducation fonctionnelle
-- Kinésithérapie, exercices dynamiques
+- Rééducation fonctionnelle, kinésithérapie, exercices dynamiques
 - Ergothérapie, balnéothérapie
 - Pédicurie-podologie
 - Diététique

@@ -346,7 +346,7 @@ window.addEventListener('load', () => {
 | [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | Dépistage systématique des symptômes et signes et (NT-pro)BNP si suspicion<br>(NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ESC 2023 diabetes<br>ADA 2022 |
 | [Stéatopathie métabolique]({{< relref "steatose-hepatique-et-nash.md" >}}) | Dépistage par échographie abdominale | AFEF 2020 |
 | [Stéatohépatite]({{< relref "steatose-hepatique-et-nash.md" >}}) (NASH) | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} tous les 2 ans | AFEF 2020 |
-| [Néphropathie]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie et ratio albuminurie/créatininurie annuels | ADA 2023, KDIGO 2022 |
+| [Néphropathie]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie et rapport albuminurie/créatininurie annuels | ADA et HAS 2023 |
 | Neuropathie  | Dépistage annuel: monofilament et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}), sécheresse cutanée | ADA 2023, HAS 2020 et ESC 2019 diabetes |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | ADA 2023, SFD 2016       |
 | Score calcique | Pas d'argument pour l'utiliser pour la classification du RCV<br>{{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± test d'effort | ESC 2023 diabetes<br>SFD 2021 CAD |

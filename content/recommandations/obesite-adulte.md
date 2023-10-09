@@ -253,7 +253,7 @@ Complications à dépister chez un adulte en obésité.
 | Gaz du sang                     | Indications: IMC ≥ 35, SpO<sub>2</sub> &lt; 94% ou CPT < 85%                             | HAS 2023            |
 | [Grossesse]({{< relref "grossesse.md" >}}) | Prise de poids limitée à 5-9 kg                                               | SFD 2022            |
 | [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) | Mesure avec brassard adapté tous les 1 à 3 ans    | ESC/ESH 2021        |
-| [Maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, DFG et <abbr title="ratio albuminurie/créatininurie">RAC</abbr> min. tous les 3 ans | HAS 2023 |
+| [Maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, DFG et <abbr title="Rapport albuminurie/créatininurie">RAC</abbr> min. tous les 3 ans | HAS 2023 |
 | Micronutriments                 | Dosage si: chirurgie bariatrique, amaigrissement massif, symptômes carentiels            | HAS 2022            |
 | Podologique                     | Haut risque d'atteinte podologique                                                       | HAS 2020            |
 | Risque cardiovasculaire         | {{< scores/heartscore >}} tous les 5 ans à partir de 40 ans (sauf {{< modal-btn modal-rcv >}}maladie CV, diabète{{< /modal-btn >}}) ou LIFE-CVD avant | ESC 2021 |
