@@ -82,9 +82,11 @@ Forme extensive: érythrodermie de Leiner-Moussous.
 {{% /collapse %}}
 {{% collapse "Diagnostic différentiel" %}}
 
+### Diagnostics différentiels de la dermatite séborrhéique
+
 Autres diagnostics à étayer devant une dermatose du visage:
 
-- **Psoriasis**  
+- **[Psoriasis]({{< relref "psoriasis.md" >}})**  
   Plaques bien limitées extra-faciales, début précoce, antécédents.
 - [Rosacée]({{< relref "rosacee.md" >}})  
   Bouffées vasomotrices, érythrose faciale permanente, télangiectasies, absence de squames.

@@ -59,7 +59,7 @@ Phénomène de Koebner (ou Köbner)
 Étayer les autres causes possibles d'hypopigmentation cutanée:
 
 - Dartres
-- Psoriasis
+- [Psoriasis]({{< relref "psoriasis.md" >}})
 - [Eczéma]({{< relref "dermatite-atopique.md" >}})
 
 ### Abréviations
@@ -105,7 +105,7 @@ Adresser en semi-urgence en cas d'évolution rapide.
 - Limiter les frottements
 - Crème solaire IP50 sur les zones atteintes
 - Soutien psychologique: [parcours MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}) ou autre
-- Information du patient: [Dermato-info](https://dermato-info.fr/fr/les-maladies-de-la-peau/vitiligo-quand-la-peau-perd-son-pigment)
+- Information du patient: [Dermato-Info](https://dermato-info.fr/fr/les-maladies-de-la-peau/vitiligo-quand-la-peau-perd-son-pigment)
 - Association de patients: [Association Française du Vitiligo](https://www.afvitiligo.com/comprendre-le-vitiligo/les-traitements-du-vitiligo/)
 - {{< references/compare >}}
 
@@ -158,10 +158,10 @@ Galerie de photos du vitiligo.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Eleftheriadou V. et al. British Association of Dermatologists guidelines for the management of people with vitiligo 2021.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20596)
-- [LY S. Le vitiligo. Dermato-info. 03/12/2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/vitiligo-quand-la-peau-perd-son-pigment)
-- [Inserm. Vitiligo. 14/08/2017.](https://www.inserm.fr/information-en-sante/dossiers-information/vitiligo)
-- [Cochrane. Traitements du vitiligo. 07/12/2011.](https://www.cochrane.org/fr/CD003263/SKIN_traitements-du-vitiligo-maladie-entrainant-une-perte-de-la-couleur-de-la-peau-en-plaques)
+- [Inserm. Vitiligo. 2023.](https://www.inserm.fr/information-en-sante/dossiers-information/vitiligo)
+- [Eleftheriadou V et al. British Association of Dermatologists guidelines for the management of people with vitiligo 2021.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20596)
+- [Ly S. Le vitiligo. Dermato-Info. 2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/vitiligo-quand-la-peau-perd-son-pigment)
+- [Whitton ME et al. Interventions for vitiligo. Cochrane Database of Systematic Reviews. 2015.](https://www.cochrane.org/CD003263/SKIN_treatments-vitiligo)
 
 ### Bibliographie en attente
 

@@ -46,7 +46,7 @@ Fissure anale
 - Abcès périanal (douleur permanente pulsatile)
 - Fistule anorectale (écoulement purulent)
 - [Thrombose hémorroïdaire externe]({{< relref "hemorroides.md" >}}) (douleur permanente)
-- Dermatose: psoriasis, [eczéma]({{< relref "dermatite-atopique.md" >}})
+- Dermatose: [psoriasis]({{< relref "psoriasis.md" >}}), [eczéma]({{< relref "dermatite-atopique.md" >}})
 - Cancer anal
 
 ### Abréviations

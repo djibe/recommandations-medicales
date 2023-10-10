@@ -64,12 +64,12 @@ CEDEF
     Caustique, irritative, allergique.
   - [Urticaire]({{< relref "urticaire.md" >}}), dermographisme
   - Mastocytose cutanée
-  - Psoriasis
+  - [Psoriasis]({{< relref "psoriasis.md" >}})
   - Lichen plan
   - Pemphigoïde bulleuse
   - Lymphomes cutanés  
     Mycosis fongoïde et syndrome de Sézary.
-  - Dermatophytoses
+  - [Dermatophytoses]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
 - Prurit urémique  
   [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) et hémodialyse.
 - Prurit cholestatique
@@ -112,7 +112,7 @@ Diagnostics fréquents selon la topographie du prurit:
   - Teigne
   - [Pédiculose]({{< relref "pediculoses.md" >}})
   - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
-  - Psoriasis
+  - [Psoriasis]({{< relref "psoriasis.md" >}})
   - Irritation par hygiène excessive
 - Visage
   - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
@@ -123,7 +123,7 @@ Diagnostics fréquents selon la topographie du prurit:
   - Lichen scléreux
   - Dermite/vulvite de contact
   - Balanite/vulvite infectieuse
-  - Psoriasis génital
+  - [Psoriasis génital]({{< relref "psoriasis.md" >}})
   - Tumeur maligne
 
 {{% /collapse %}}
@@ -237,7 +237,7 @@ graph TB
 - Collège des enseignants de dermatologie de France (CEDEF). Prurit. Item 116. 2021.
 - Prescrire Rédaction. Prurit lié à une affection cutanée et antihistaminiques H1 oraux. Février 2019.
 - Collège des enseignants de dermatologie de France (CEDEF). Prurit. Item 113 UE 4. 2017.
-- [Dermato-info. Le prurit et le prurigo.](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-prurit-et-le-prurigo)
+- [Jegou-Penouil MH. Le prurit et le prurigo. Dermato-Info. 2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-prurit-et-le-prurigo)
 
 ### Bibliographie en attente
 

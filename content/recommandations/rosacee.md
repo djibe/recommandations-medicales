@@ -242,6 +242,7 @@ graph TB
 {{%sources%}}
 
 - [Hampton P et al. British Association of Dermatologists guidelines for the management of people with rosacea 2021. Br J Dermatol. 2021.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20485)
+- [Trouche F. La couperose et la rosacée. Dermato-Info. 2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-couperose-et-la-rosac%C3%A9e)
 - Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.
 - [Jansen T. Formes cliniques et classification de la rosacée. Annales de Dermatologie et de Vénéréologie. 2011.](https://www.sciencedirect.com/science/article/abs/pii/S0151963811700795)
 

@@ -185,11 +185,11 @@ Les atteintes ophtalmologiques et neurologiques de la syphilis peuvent engager l
 Nombreux diagnostics différentiels, c'est pourquoi on appelle la syphilis la << grande simulatrice >>.
 
 - [Acné]({{< relref "acne.md" >}})
-- Alopécie
+- [Alopécie]({{< relref "alopecie.md" >}})
 - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
 - Leucémie aiguë
 - Lichen
-- Psoriasis et parapsoriasis en goutte
+- [Psoriasis et parapsoriasis en goutte]({{< relref "psoriasis.md" >}})
 - [Varicelle]({{< relref "varicelle.md" >}})
 {.list-group}
 

@@ -8,7 +8,7 @@ synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-06-21T10:56:00+02:00"
 publishdate = "2021-06-29"
-lastmod = "2022-10-28"
+lastmod = "2023-10-10"
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["GINA", "ERS", "SPLF", "HAS"]
@@ -35,6 +35,7 @@ todo = "doses Symbicort turbuhaler, CSI + ARL, plan d'action, Prescrire asthme f
 - Traitement de crise de l'asthme: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide{{< /modal-btn >}}
 - Traitements de fond de l'asthme: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous. Ou en asthme parfaitement contrôlé sans traitement {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide{{< /modal-btn >}} en cas de symptômes. {{< modal-btn modal-vaccin-pneumocoque >}}Vaccin pneumocoque{{< /modal-btn >}} et grippe si en ALD
 - Décroissance: par paliers de 25-50% si parfaitement contrôlé 2-3 mois jusqu'à {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide{{< /modal-btn >}} en cas de symptômes
+- [PAI de l'asthme en PDF](https://eduscol.education.fr/document/7751/download)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -489,6 +490,7 @@ Confirmer le diagnostic avant de démarrer un traitement, puis instaurer rapidem
 
 ### Mesures générales
 
+- Enfant: Projet d'accueil individualisé pour l'asthme ([PAI en PDF](https://eduscol.education.fr/document/7751/download))
 - Suivi médical
   - tous les 3 à 12 mois
   - Par pneumologue quand asthme non contrôlé, exacerbations répétées (> 2/an) ou patient fumeur
@@ -587,11 +589,11 @@ La prescription dépend uniquement du pneumologue:
 
 - [Collège des Enseignants de Pneumologie (CEP). Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_188_ASTHME_RHINITE_2023.pdf)
 - [GINA. Global strategy for the asthma management and prevention. 2022.](https://ginasthma.org/reports/)
-- [Gaillard EA. et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5-16 years. Eur Respir J. 2021.](https://doi.org/10.1183/13993003.04173-2020)
-- [Raherison-Semjen C. et al. Asthme. Revue des Maladies Respiratoires Actualités. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1877120320300598)
+- [Gaillard EA et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5-16 years. Eur Respir J. 2021.](https://doi.org/10.1183/13993003.04173-2020)
+- [Raherison-Semjen C et al. Asthme. Revue des Maladies Respiratoires Actualités. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1877120320300598)
 - [Santé Publique France. Asthme. 05/10/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/asthme)
 - Prescrire Redaction. Asthme. Premiers choix Prescrire. Juin 2020.
-- [Raherison C. et al. Updated guidelines (2015) for management and monitoring of adult and adolescent asthmatic patients (from 12 years and older) of the Société de pneumologie de langue française (SPLF) (summary). Revue des Maladies Respiratoires. 2016. (PDF)](https://splf.fr/wp-content/uploads/2016/11/reco-asthme-re%CC%81sume%CC%81-2016.pdf)
+- [Raherison C et al. Updated guidelines (2015) for management and monitoring of adult and adolescent asthmatic patients (from 12 years and older) of the Société de pneumologie de langue française (SPLF) (summary). Revue des Maladies Respiratoires. 2016. (PDF)](https://splf.fr/wp-content/uploads/2016/11/reco-asthme-re%CC%81sume%CC%81-2016.pdf)
 - [HAS. Insuffisance respiratoire chronique grave secondaire à un asthme. Octobre 2006.](https://www.has-sante.fr/jcms/c_452137/fr/ald-n14-insuffisance-respiratoire-chronique-grave-secondaire-a-un-asthme)
 - [HAS. Recommandations pour le suivi médical des patients asthmatiques adultes et adolescents. Recommandations de bonne pratique. 01/09/2004.](https://www.has-sante.fr/jcms/c_272363/fr/recommandations-pour-le-suivi-medical-des-patients-asthmatiques-adultes-et-adolescents)
 
@@ -601,8 +603,8 @@ La prescription dépend uniquement du pneumologue:
 - [NICE. Asthma inhalers and climate change. 2022. (PDF)](https://www.nice.org.uk/guidance/ng80/resources/inhalers-for-asthma-patient-decision-aid-pdf-6727144573)
 - [Collège de la Médecine Générale (CMG). Asthme de l'adulte et de l'enfant de plus de 12 ans : prévenir les exacerbations. 2021. (PDF)](https://lecmg.fr/wp-content/uploads/2021/05/Asthme-de-ladulte-et-de-lenfant-2021.pdf)
 - [Inserm. Asthme : Portraits-robots des personnes à risque. 10/10/2022.](https://www.inserm.fr/actualite/asthme-portraits-robots-des-personnes-a-risque/)
-- [Louis R. et al. European Respiratory Society Guidelines for the Diagnosis of Asthma in Adults. European Respiratory Journal. 2022.](https://erj.ersjournals.com/content/early/2022/02/03/13993003.01585-2021)
-- [Raherison-Semjen C. et al. Mise à jour des recommandations (2021) pour la prise en charge et le suivi des patients asthmatiques adultes sous l'égide de la Société de pneumologie de langue française (SPLF) et de la Société pédiatrique de pneumologie et allergologie (SP2A). Version longue. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/recos-asthme-adultes-2021-version-longue.pdf)
+- [Louis R et al. European Respiratory Society Guidelines for the Diagnosis of Asthma in Adults. European Respiratory Journal. 2022.](https://erj.ersjournals.com/content/early/2022/02/03/13993003.01585-2021)
+- [Raherison-Semjen C et al. Mise à jour des recommandations (2021) pour la prise en charge et le suivi des patients asthmatiques adultes sous l'égide de la Société de pneumologie de langue française (SPLF) et de la Société pédiatrique de pneumologie et allergologie (SP2A). Version longue. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/recos-asthme-adultes-2021-version-longue.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Asthme. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/asthme)
 - [Société Française de Pédiatrie. Asthme.](https://www.sfpediatrie.com/ressources/pathologies/asthme-du-nourrisson)
 - [SP2A](https://www.sp2a.fr/spa_documentation/asthme/)

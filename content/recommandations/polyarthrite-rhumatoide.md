@@ -124,7 +124,7 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
   - Connectivites  
     [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), myalgie, perte de force, lésions cutanées, photosensibilité.
   - Spondyloarthrites et rhumatisme psoriasique  
-    Atteinte des IPD, psoriasis, diarrhée glairo-sanglante, uvéite, rachialgie, pyalgie.
+    Atteinte des IPD, [psoriasis]({{< relref "psoriasis.md" >}}), diarrhée glairo-sanglante, uvéite, rachialgie, pyalgie.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

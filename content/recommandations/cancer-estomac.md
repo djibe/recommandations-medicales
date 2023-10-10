@@ -215,7 +215,7 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 {{% /collapse %}}
 {{%sources%}}
 
-- [Zaanan A et al. « Cancer de l’estomac ». Thésaurus National de Cancérologie Digestive. Octobre 2022.](https://www.snfge.org/content/9-cancer-du-pancreas)
+- [Zaanan A et al. << Cancer de l'estomac >>. Thésaurus National de Cancérologie Digestive. Octobre 2022.](https://www.snfge.org/content/9-cancer-du-pancreas)
 - {{< references/college-gastro >}}
 - [Chollet R et al; SFED, CREGG. Prévention du cancer de l'estomac. 2021.](https://www.sfed.org/sites/www.sfed.org/files/2021-08/Cancerestomac_prevention.pdf)
 - [Nousbaum JB et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)

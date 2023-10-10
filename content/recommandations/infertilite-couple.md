@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-28T16:02:04+02:00"
 publishdate = "2023-10-02"
-lastmod = "2023-10-02"
+lastmod = "2023-10-09"
 specialites = ["gynecologie-obstetrique"]
 annees = "2023"
 sources = ["ESHRE", "AFU", "CNGOF"]
@@ -17,6 +17,8 @@ sctid = "8619003"
 icd10 = "N97.9"
 image = true
 imageSrc = "L'infertilité du couple. vectorjuice / Freepik"
+todo = "flow"
+chart = true
 +++
 
 {{%article-summary%}}
@@ -90,6 +92,36 @@ En *AMP* les chances de grossesse avec naissance vivante sont très diminuées �
 Chaque femme a une réserve ovarienne différente, maximale à la naissance.
 
 Les marqueurs de **réserve ovarienne** sont: âge de la patiente, FSH et E2, AMH et compte des follicules antraux.
+
+{{< figure-chart title="Taux d'accouchement par ponction en FIV hors ICSI en intraconjugal selon l'âge de la femme à la ponction en 2021. Dr JB Fron d'après <a href='https://rams.agence-biomedecine.fr/activite-intraconjugale' rel='external nofollow noopener'>Agence de la Biomédecine</a>" >}}
+
+<script>
+const chartOptions = {
+  chart: { type: 'bar', height: 256 },
+  series: [{
+    name: 'Taux par ponction',
+    type: 'column',
+    data: [18.9, 19.0, 15.2, 11.9, 7.6, 1.7]
+  }],
+  title: { text: 'Taux d’accouchement par ponction en FIV hors ICSI selon l’âge de la femme' },
+  xaxis: { categories: ['< 30', '30-34', '35-37', '38-39', '40-42', '≥ 43'] },
+  yaxis: [
+    {
+      labels: {
+        style: { colors: '#757575' }
+      },
+      decimalsInFloat: 0,
+      tickAmount: 2,
+      max: 100
+    },
+  ],
+  tooltip: {
+    y: [{ formatter: function(value) { return `${value} %`; }}] },
+  dataLabels: {
+    formatter: function(value) { return `${value} %`; }
+  }
+}
+</script>
 
 ### Fertilité selon l'âge de l'homme
 
@@ -226,6 +258,7 @@ En centre spécialisé, différents traitements sont possibles: citrate de clomi
 - [Collège Français des Enseignants en Urologie (CFEU). Stérilité du couple : conduite de la première consultation Item 38. Référentiel du collège d'urologie 5ème édition. 2021.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/chapitre-02-sterilite-du-couple-conduite-de-la-premiere-consultation/)
 - [Wang R et al. Interventions for unexplained infertility: a systematic review and network meta‐analysis. Cochrane Database of Systematic Reviews. 2019.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012692.pub2/full/fr)
 - [Hédon B et al; CNGOF. La prise en charge du couple infertile. Recommandations pour la pratique clinique. 2010. (PDF)](https://cngof.fr/app/pdf/RPC//1-RPC%20DU%20CNGOF/2010/RPC_INFERTILITE_2010.pdf)
+- [Agence de la Biomédecine. Assistance médicale à la procréation - Principaux chiffres de l'activité.](https://rams.agence-biomedecine.fr/principaux-chiffres-de-lactivite)
 
 {{%/sources%}}
 {{% modal title="Signes de baisse de la réserve ovarienne" id="modal-reserve-ovarienne"%}}

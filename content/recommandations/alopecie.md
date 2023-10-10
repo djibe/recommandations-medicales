@@ -92,7 +92,7 @@ Signes et symptômes pouvant orienter vers la cause de l'alopécie.
 ### Interrogatoire
 
 - Antécédents personnels  
-  Cytotoxique, dermatose (lichen, psoriasis), auto-immuns (lupus), brûlures, radiothérapie, carences, [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), cycles menstruels.
+  Cytotoxique, dermatose (lichen, [psoriasis]({{< relref "psoriasis.md" >}})), auto-immuns (lupus), brûlures, radiothérapie, carences, [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), cycles menstruels.
 - Antécédents familiaux (capillaires, auto-immuns)
 - Contexte récent  
   Grossesse, stress (médical, chirurgical, psychologique).
@@ -116,7 +116,7 @@ Signes et symptômes pouvant orienter vers la cause de l'alopécie.
 - Autres atteintes des phanères: cils, barbe, ongles
 - État cutanéo-muqueux
 - Hirsutisme
-- Dermatose: [acné]({{< relref "acne.md" >}}), psoriasis
+- Dermatose: [acné]({{< relref "acne.md" >}}), [psoriasis]({{< relref "psoriasis.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -199,7 +199,7 @@ Un traitement par minoxidil et/ou finastéride pourrait limiter la progression d
 {{%sources%}}
 
 - Collège des enseignants de dermatologie de France (CEDEF). Troubles des phanères. Dermatologie Réussir son DFASM. 2022.
-- [JEGOU-PENOUIL MH. L'alopécie. dermato-info. 02/12/2019.](https://dermato-info.fr/fr/les-phan%C3%A8res_cheveux-et-poils/l%E2%80%99alop%C3%A9cie)
+- [Jegou-Penouil MH. L'alopécie. Dermato-Info. 02/12/2019.](https://dermato-info.fr/fr/les-phan%C3%A8res_cheveux-et-poils/l%E2%80%99alop%C3%A9cie)
 - [Kanti V et al; EDF. Evidence-based (S3) guideline for the treatment of androgenetic alopecia in women and in men - short version. J Eur Acad Dermatol Venereol. 2018.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.14624)
 
 {{%/sources%}}

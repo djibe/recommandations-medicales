@@ -185,7 +185,7 @@ Il est essentiel d'apprendre à reconnaître les signes avant-coureurs des pouss
 
 - [Revuz J. Hidradénite suppurée. EMC](https://www.em-consulte.com/article/924280/hidradenite-suppuree)
 - [Orphanet. La maladie de Verneuil. (PDF)](https://www.orpha.net/data/patho/Pub/fr/Verneuil-FRfrPub2049v01.pdf)
-- [dermato-info. l'hidradénite suppurée ou Maladie de Verneuil. 13/06/2020.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99hidrad%C3%A9nite-supur%C3%A9e-ou-maladie-de-verneuil)
+- [Cogrel O, Hotz C. l'hidradénite suppurée ou Maladie de Verneuil. Dermato-Info. 2020.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99hidrad%C3%A9nite-supur%C3%A9e-ou-maladie-de-verneuil)
 
 ### Bibliographie en attente
 

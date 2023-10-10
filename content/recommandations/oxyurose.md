@@ -68,7 +68,7 @@ Autres causes de prurit anal:
 - Abcès anal
 - Fistule anale
 - [Dermatite atopique]({{< relref "dermatite-atopique.md" >}}) ou de contact
-- Psoriasis
+- [Psoriasis]({{< relref "psoriasis.md" >}})
 - [Candidose]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
 - Condylomes
 - Herpès

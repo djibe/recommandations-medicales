@@ -429,14 +429,14 @@ graph TB
 {{%sources%}}
 
 - [Hacard F et al. Guidelines for the management of chronic spontaneous urticaria: recommendations supported by the Centre of Evidence of the French Society of Dermatology. Br J Dermatol. 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8457139/)
+- [Doutre MS et al. L'urticaire. Dermato-Info. 2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99urticaire)
 - [Hôpital Necker. Facteurs susceptibles d'induire la dégranulation mastocytaire.](http://www.maladiesrares-necker.aphp.fr/facteurs-susceptibles-dinduire-la-degranulation-mastocytaire/)
 - [Collège des Enseignants d'Immunologie de Langue Française. Item 114 : Urticaire et œdème de Quincke : diagnostic, étiologie, traitement. 2011. (PDF)](http://campus.cerimes.fr/immunologie/enseignement/immuno_114a/site/html/cours.pdf)
-- [Dermato-info. L'urticaire.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99urticaire)
 - [ANAES, Société française de dermatologie. Conférence de consensus - Prise en charge de l'urticaire chronique. 2003. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/urticaire_court.pdf)
 
 ### Bibliographie en attente
 
-- [Zuberbier T, Abdul Latiff AH, Abuzakouk M, et al. The international EAACI/GA²LEN/EuroGuiDerm/APAAACI guideline for the definition, classification, diagnosis, and management of urticaria. Allergy. 2022.](https://pubmed.ncbi.nlm.nih.gov/34536239/)
+- [Zuberbier T et al. The international EAACI/GA²LEN/EuroGuiDerm/APAAACI guideline for the definition, classification, diagnosis, and management of urticaria. Allergy. 2022.](https://pubmed.ncbi.nlm.nih.gov/34536239/)
 - [SFD. Traitement de l'urticaire chronique spontanée. 2019. (PDF)](https://document.sfdermato.org/reco/urticaire-chronique-spontan%C3%A9e/SFD_urticaire-chronique-spontan%C3%A9e_synth%C3%A8se_2019-11.pdf)
 - [SFD. Recommandations urticaire chronique spontanée. Arbre décisionnel. Décembre 2019.](https://reco.sfdermato.org/fr/recommandations-urticaire-chronique-spontan%C3%A9e)
 - [PAP Urticaire aiguë de l'enfant](https://pap-pediatrie.fr/urticaire-aigue-de-lenfant)

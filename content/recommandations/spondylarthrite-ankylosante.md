@@ -62,7 +62,7 @@ On distingue les:
 - Spondylarthrites axiales (radiographiques ou non)
 - Périphériques articulaires (érosives ou non)
 - Périphériques enthésitiques
-- Atteintes extra-rhumatologiques: psoriasis cutané, uvéite, MICI
+- Atteintes extra-rhumatologiques: [psoriasis cutané]({{< relref "psoriasis.md" >}}), uvéite, MICI
 
 Spondylarthrite ankylosante (SpA)
 : Rhumatisme inflammatoire chronique potentiellement grave et handicapante survenant chez l'adulte jeune (< 35 ans).
@@ -99,7 +99,8 @@ SFR
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic de spondylarthropathie relève du **spécialiste**.  
+Le diagnostic de spondylarthropathie relève du **spécialiste**.
+
 Il est posé sur un faisceau d'arguments anamnestiques (antécédents familiaux de SpA, uvéite, psoriasis, MICI), cliniques et paracliniques et éventuellement HLA-B27 (en 2° intention).
 
 ### Syndrome axial (ou pelvi-rachidien)
@@ -133,7 +134,7 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 Autres atteintes des spondylarthrites:
 
 - Uvéite antérieure
-- Psoriasis
+- [Psoriasis]({{< relref "psoriasis.md" >}})
 - Balanite
 - Urétrite
 - Entéro-colopathie inflammatoire (diarrhée, amaigrissement)
@@ -360,7 +361,7 @@ Une amélioration doit être obtenue à 3 mois pour poursuivre une stratégie, a
 - Retentissement fonctionnel  
   Échelles {{< score "basfi" "BASFI" >}}, HAQ.
 - Atteintes extra-articulaires
-  - Cutané: psoriasis
+  - Cutané: [psoriasis]({{< relref "psoriasis.md" >}})
   - Digestif: MICI
   - Ophtalmo: uvéite
 - Tolérance des traitements

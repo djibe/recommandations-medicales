@@ -69,7 +69,7 @@ Les normes de sécurité oculaire devraient prendre en compte la photosensibilit
 
 ### Bibliographie en attente
 
-- [Bernard J et al. Temps d’écran de 2 à 5 ans et demi chez les enfants de la cohorte nationale Elfe. BEH. 2023.](http://beh.santepubliquefrance.fr/beh/2023/6/2023_6_1.html)
+- [Bernard J et al. Temps d'écran de 2 à 5 ans et demi chez les enfants de la cohorte nationale Elfe. BEH. 2023.](http://beh.santepubliquefrance.fr/beh/2023/6/2023_6_1.html)
 - HCSP. Avis relatif aux effets de l'exposition des enfants et des jeunes aux écrans. 2019.
 
 {{%/sources%}}

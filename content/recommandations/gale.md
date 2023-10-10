@@ -129,12 +129,12 @@ L'enfant présente des mouvements de reptation lorsqu'il est déshabillé.
 Diagnostic différentiel d'un [prurit](/tags/prurit/) tenace ou d'une gale:
 
 - [Eczéma atopique]({{< relref "dermatite-atopique.md" >}}) ou de contact
-- Teigne
-- Psoriasis
+- [Teigne]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
+- [Psoriasis]({{< relref "psoriasis.md" >}})
 - Lymphome cutané
 - Prurit médicamenteux ou psychologiques
 - Pemphigoïde bulleuse
-- Prurit sénile
+- [Prurit sénile]({{< relref "prurit.md" >}})
 - [Pédiculose]({{< relref "pediculoses.md" >}})
 - Prurit métabolique  
   Cholestases et insuffisances hépatiques ou rénales.

@@ -104,7 +104,7 @@ Se référer à la page dédiée à chaque maladie pour en savoir plus (voir *R�
 Vaccinations non recommandées pour les voyageurs: choléra, dengue.
 
 - Encéphalite japonaise: en cas de
-  - Séjour (quelle que soit la durée) dans une zone avec rizières, proximité d'élevages de porcs, en période d’épidémie (ou de
+  - Séjour (quelle que soit la durée) dans une zone avec rizières, proximité d'élevages de porcs, en période d'épidémie (ou de
 circulation accrue du virus chez l'animal), ou de saison des pluies
   - Expatriation ou séjours répétés, dans un pays situé dans la zone de circulation du virus
   - Toute autre situation jugée à risque par le médecin vaccinateur. Ex: voyage en zone d'endémie avec des incertitudes quant à la durée

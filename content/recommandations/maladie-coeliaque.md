@@ -122,7 +122,7 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 - Céphalées, [migraines]({{< relref "migraine.md" >}})
 - Troubles de l'humeur, trouble déficitaire de l'attention, déficience cognitive
 - [Hyposplénisme ou asplénie fonctionnelle]({{< relref "asplenie.md" >}})
-- Psoriasis ou lésions dermatologiques autres que la dermatite herpétiforme
+- [Psoriasis]({{< relref "psoriasis.md" >}}) ou lésions dermatologiques autres que la dermatite herpétiforme
 - Trisomie 21 ou syndrome Turner
 - Hémosidérose pulmonaire
 - Néphropathie à IgA

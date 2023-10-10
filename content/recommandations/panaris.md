@@ -45,7 +45,7 @@ Pathologies à étayer devant une suspicion de panaris:
   une ou plusieurs vésico-pustules à contenu purulent. Caractère récidivant de localisation fixe, profession à risque (infirmier, médecin, dentiste).  
 - Faux panaris d'Osler  
   Principalement sur la pulpe du doigt, douloureux survenant lors d'une [endocardite infectieuse]({{< relref "endocardite.md" >}}).
-- Psoriasis
+- [Psoriasis]({{< relref "psoriasis.md" >}})
 - [Dermatite atopique]({{< relref "dermatite-atopique.md" >}})
 
 {{% /collapse %}}

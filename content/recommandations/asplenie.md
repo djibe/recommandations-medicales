@@ -46,7 +46,7 @@ Causes d'une asplénie ou d'une hyposplénie:
 - Asplénisme thérapeutique (radiothérapie)
 - Causes congénitales
   - **Drépanocytose**
-  - Syndromiques: syndrome d’Ivemark, polysplénie polyendocrinopathie auto immune de type I (syndrome APECED), syndrome de
+  - Syndromiques: syndrome d'Ivemark, polysplénie polyendocrinopathie auto immune de type I (syndrome APECED), syndrome de
 Stormorken
   - Maladies de surcharge: maladie de Gaucher, maladie de Niemann Pick, amyloïdose
   - Asplénie isolée congénitale sporadique ou familiale
@@ -90,7 +90,7 @@ La pénicilline V existe en sirop (250.000 UI/5 mL, 500.000 UI/5 mL, 1 MUI/10 mL
   - Adulte selon *Lee GM*: amoxicilline 500 mg x 2/j
   - Enfant selon *Lee GM*: amoxicilline 10 mg/kg x 2/j
 
-> << en cas de signes cliniques d'infection, même débutante, il est recommandé d’instaurer une antibiothérapie curative par céphalosporine de 3ème génération, type céfotaxime ou ceftriaxone, afin de limiter la survenue de sepsis graves >> (*SFAR*)
+> << en cas de signes cliniques d'infection, même débutante, il est recommandé d'instaurer une antibiothérapie curative par céphalosporine de 3ème génération, type céfotaxime ou ceftriaxone, afin de limiter la survenue de sepsis graves >> (*SFAR*)
 {.alert .alert-warning}
 
 {{% /collapse %}}

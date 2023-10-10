@@ -153,7 +153,7 @@ Signes cliniques mineurs:
   - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
   - [Prurigo]({{< relref "prurit.md" >}})
   - [Zona]({{< relref "zona.md" >}})
-  - Psoriasis
+  - [Psoriasis]({{< relref "psoriasis.md" >}})
   - [Candidose buccale ou génitale récidivante]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
   - Maladie de Kaposi
   - Autres  

@@ -49,7 +49,7 @@ Comorbidités chez l'adulte: cardiovasculaires (HTA, AVC, IDM), rénales, diabè
 Autres pathologies eczématiformes:
 
 - Nourrisson: [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}}), [gale]({{< relref "gale.md" >}})
-- Autres population: dermite/eczéma de contact, psoriasis, lymphome cutané, gale
+- Autres population: dermite/eczéma de contact, [psoriasis]({{< relref "psoriasis.md" >}}), lymphome cutané, [gale]({{< relref "gale.md" >}})
 
 ### Complications de la dermatite atopique
 
@@ -214,7 +214,7 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 - Encourager l'allaitement maternel exclusif +3 mois
 - [Guide SFD d'information sur la DA (PDF)](https://www.sfdermato.org/upload/fiche/etfad-great-version-france-22o32019-dd00991406282f168b08aec43c3798f0.pdf)
 
-**NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (*EADV* et Pr D. Staumont *dermato-info*) car sans efficacité sur le prurit. En visée sédative, recours à l'[hydroxyzine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61162294&typedoc=R).
+**NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (*EADV* et Pr D. Staumont *Dermato-Info*) car sans efficacité sur le prurit. En visée sédative, recours à l'[hydroxyzine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61162294&typedoc=R).
 
 Acupuncture, homéopathie et phytothérapie déconseillées par la *SFD*, pas d'efficacité des eaux thermales
 {.alert .alert-warning}
@@ -279,7 +279,7 @@ accTitle: Conduite à tenir devant une suspicion de dermatite atopique et prise 
 {{%/collapse%}}
 {{%sources%}}
 
-- [Staumont D. La dermatite atopique. dermato-info. 29/05/2021.](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-dermatite-atopique)
+- [Staumont D. La dermatite atopique. Dermato-Info. 29/05/2021.](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-dermatite-atopique)
 - Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéomuqueuses chez l'enfant et l'adulte. urticaire, dermatites atopique et de contact. Item 187. 2021.
 - [Wollenberg A et al; European Task Force on Atopic Dermatitis/EADV Eczema Task Force. ETFAD/EADV Eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children. J Eur Acad Dermatol Venereol. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16892)
 - Prescrire Redaction. Eczéma atopique des nourrissons. La Revue Prescrire. Octobre 2017.

@@ -24,7 +24,7 @@ chart = true
 
 - L'obésité est une maladie qui affecte le bien-être physique, social et psychologique et touche 17% des Français
 - Le diagnostic d'obésité de l'adulte est clinique avec un indice de masse corporelle (IMC) supérieur à 30 kg/m² (dite morbide ou classe 3 à partir de 40)
-- << Demander l’accord de la personne pour aborder le poids >> (*HAS 2023*)
+- << Demander l'accord de la personne pour aborder le poids >> (*HAS 2023*)
 - Un niveau adapté de prise en charge des personnes en obésité est requis (voir [Niveau adapté](#niveau-adapté-de-prise-en-charge-et-chirurgie-bariatrique)):
   - Centre spécialisé de l'obésité (CSO, [annuaire](https://sante.gouv.fr/IMG/pdf/annuaire_national_cso_fevrier_2023.pdf)) si: IMC ≥ 50, insuffisance d'organe, grabataire, cause génétique, échec de chirurgie bariatrique  
   ou IMC 35-50 avec aggravation d'une maladie chronique, périmètre de marche 100-200 m, hyperphagie boulimique, psychiatrique sévère, obésité secondaire, échec de niveau 2
@@ -83,7 +83,7 @@ const chartOptions = {
   chart: { type: 'line', height: 224 },
   markers: { size: 4 },
   stroke: { colors: ['#4150f5'], curve: 'smooth', width: 4 },
-  title: { text: 'Évolution de la prévalence de l\'obésité chez l\'adulte' },
+  title: { text: 'Évolution de la prévalence de l’obésité chez l’adulte' },
   xaxis: { categories: [1997, 2000, 2003, 2006, 2009, 2012, 2015, 2017, 2020] },
   yaxis: [
     {

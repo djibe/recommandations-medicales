@@ -157,7 +157,7 @@ Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athl�
 - [Reconnaissance possible d'un intertrigo en Maladie professionnelle dans le cadre du Tableau 46](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2046): piscine, athlète, bâtiment.
 {{%/info%}}
 
-**Diagnostic différentiel** d'un intertrigo: [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), psoriasis inversé, [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}}), pityriasis rosé de Gibert, érythrasma (bactérie *Corynebacterium minutissimum* sensible aux antifongiques azolés).
+**Diagnostic différentiel** d'un intertrigo: [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), [psoriasis inversé]({{< relref "psoriasis.md" >}}), [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}}), pityriasis rosé de Gibert, érythrasma (bactérie *Corynebacterium minutissimum* sensible aux antifongiques azolés).
 
 {{% /collapse %}}
 {{%collapse "Dermatophytoses du cuir chevelu ou teignes" %}}
@@ -170,7 +170,7 @@ Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athl�
 - Rechercher un contexte d'immunodépression
 - Aggravation par les dermocorticoïdes
 - [Reconnaissance possible d'une teigne en Maladie professionnelle dans le cadre du Tableau 46](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2046): filière viande, piscine, athlète, bâtiment.
-- **Diagnostic différentiel** des teignes: psoriasis, [eczéma]({{< relref "dermatite-atopique.md" >}}), [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}}), pelade, folliculite bactérienne ou abcès
+- **Diagnostic différentiel** des teignes: [psoriasis]({{< relref "psoriasis.md" >}}), [eczéma]({{< relref "dermatite-atopique.md" >}}), [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}}), [pelade]({{< relref "alopecie.md" >}}), folliculite bactérienne ou abcès
 
 ### Teignes tondantes
 
@@ -263,7 +263,7 @@ L'aspect pseudo-membraneux blanc (**muguet**) est le plus fréquent, souvent ass
 Tableau pauci-symptomatique. Début au niveau du sillon balanopréputial avec un érythème puis souvent des plaques blanchâtres du gland.  
 Extension possible au pénis, scrotum et l'aine chez l'obèse.
 
-Diagnostic différentiel: infectieux ([syphilis secondaire]({{< relref "syphilis.md" >}}), herpès génital), macération, psoriasis, carcinome.
+Diagnostic différentiel: infectieux ([syphilis secondaire]({{< relref "syphilis.md" >}}), herpès génital), macération, [psoriasis]({{< relref "psoriasis.md" >}}), carcinome.
 
 {{%info%}}
 
@@ -294,7 +294,7 @@ Signes et symptômes d'une candidose vulvovaginale:
 - Diagnostic différentiel
   - Écoulements physiologiques pendant la grossesse ou en milieu de cycle parfois malodorants
   - Vaginose bactérienne malodorante à *Garderella vaginalis*, [IST](/tags/ist/) à trichomonase, gonococcie ou [chlamydiose]({{< relref "chlamydia-trachomatis.md" >}}), virale à herpès
-  - Dermatites: lichen (ménopausée ++), eczéma, psoriasis
+  - Dermatites: lichen (ménopausée ++), eczéma, [psoriasis]({{< relref "psoriasis.md" >}})
   - Tumoral
   - Réactions aux produits d'hygiène, tampons, spermicides, préservatifs, anneaux contraceptifs
   - Vulvodynie

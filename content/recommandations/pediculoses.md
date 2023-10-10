@@ -78,8 +78,8 @@ Le diagnostic de pédiculose est clinique par visualisation de lentes vivantes �
 Surtout le diagnostic d'un prurit de la tête. Les lentes sont pathognomoniques.
 
 - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
-- Psoriasis
-- Dermatophytie
+- [Psoriasis]({{< relref "psoriasis.md" >}})
+- [Dermatophytie]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
 {.list-group}
 
 {{% /collapse %}}
@@ -134,7 +134,7 @@ Nota bene:
 {{%sources%}}
 
 - [CMIT. Gale et pédiculose. Item 171. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-171-web.pdf)
-- [Jegou-Penouil MH. Les poux. dermato-info. 02/12/2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/les-poux)
+- [Jegou-Penouil MH. Les poux. Dermato-Info. 02/12/2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/les-poux)
 - [Chosidow O.; SFDermato. Prise en charge de la pédiculose du cuir chevelu en 2019 en France. Mise au point. Novembre 2019. (PDF)](https://www.sfdermato.org/media/pdf/actualite/note-pediculos-sfd-gridist-51283d08cd07c9ac26310a6d2669ff30.pdf)
 - Prescrire Redaction. Pédiculose du cuir chevelu. Premiers Choix Prescrire. Rev Prescrire. 2019.
 - Collège des enseignants de dermatologie de France (CEDEF). Ectoparasitoses cutanées : gale et pédiculose. Item 167 UE 6. 2017.

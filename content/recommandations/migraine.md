@@ -582,7 +582,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Ducros A et al. Recommandations pour le diagnostic et la prise en charge de la migraine chez l’adulte : situations spécifiques chez les femmes migraineuses. La Presse Médicale Formation. 2022.](https://www.sciencedirect.com/science/article/pii/S2666479822002154)
+- [Ducros A et al. Recommandations pour le diagnostic et la prise en charge de la migraine chez l'adulte : situations spécifiques chez les femmes migraineuses. La Presse Médicale Formation. 2022.](https://www.sciencedirect.com/science/article/pii/S2666479822002154)
 - [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf) (p.29)
 
 {{%/sources%}}
