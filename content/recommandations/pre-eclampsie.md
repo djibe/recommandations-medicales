@@ -6,24 +6,26 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-18T17:12:47+02:00"
 publishdate = "2023-09-19"
-lastmod = "2023-09-28"
+lastmod = "2023-10-12"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
-sources = ["CNGOF", "SFAR"]
+sources = ["CNGOF", "SFAR", "USPTF"]
 tags = ["cephalees", "depistage", "diabete", "HTA", "grossesse", "nephropathie", "obesite", "risque cardiovasculaire"]
 anglais = ["Pre-eclampsia"]
 sctid = "398254007"
 icd10 = "O14.9"
 image = true
 imageSrc = "Découverte d'une vascularite placentaire après délivrance dans les suites d'une pré-éclampsie. Nephron, CC BY-SA 3.0, via Wikimedia Commons"
+todo = "weeks of gestation = SA ou SG ?"
 +++
 
 {{%article-summary%}}
 
-- La pré-éclampsie est une hypertension artérielle gravidique (≥ 140 et/ou 90 mmHg apparaissant après 20 SA) avec protéinurie ≥ 0,3 g/24h qui survient sur 1 à 2% des grossesses
+- La pré-éclampsie est une hypertension artérielle gravidique (≥ 140 et/ou 90 mmHg apparaissant après 20 SA) avec protéinurie ≥ 0,3 g/24h qui survient durant 1 à 2% des grossesses
 - La pré-éclampsie (PE) est une urgence diagnostique et thérapeutique
 - Rechercher des signes de gravité et de sévérité devant faire appeler le SAMU
-- La prévention de la pré-éclampsie passe par la surveillance de la pression artérielle et de la bandelette urinaire à chaque consultation de grossesse et en cas d'antécédents de prééclampsie, l'aspirine faible dose jusqu'à 35 semaines d'aménorrhée et la recherche de syndrome des anticorps anti-phospholipides (PE précoce ou sévère)
+- La prévention de la pré-éclampsie passe par la surveillance de la pression artérielle et de la bandelette urinaire à chaque consultation de grossesse  
+  Si antécédent de prééclampsie: aspirine faible dose de 12 à 35 semaines d'aménorrhée et recherche d'un syndrome des anticorps anti-phospholipides (SAPL) en cas de de PE précoce ou sévère
 
 Chapitre liés: [grossesse]({{< relref "grossesse.md" >}}), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
 
@@ -155,10 +157,10 @@ Pré-éclampsie avec au moins un critère de sévérité parmi:
 
 ### Examen clinique
 
-> Pendant la grossesse, mesure manuelle de la pression artérielle [selon les recommandations]({{< relref "hypertension-arterielle.md" >}}) ou par [tensiomètre électronique validé pour la grossesse](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=pregnancy). (*ESH 2023*) à chaque consultation avec la bandelette urinaire
+> Pendant la grossesse, mesure manuelle de la pression artérielle [selon les recommandations]({{< relref "hypertension-arterielle.md" >}}) ou par [tensiomètre électronique validé pour la grossesse](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=pregnancy). (*ESH 2023*) **à chaque consultation** avec la bandelette urinaire
 {.alert .alert-info}
 
-- Mesure de la pression artérielle à chaque consultation, fréquence cardiaque
+- Mesure de la pression artérielle à chaque consultation pendant la grossesse, fréquence cardiaque
 - Fréquence respiratoire
 - Conscience
 - Poids et variation
@@ -167,7 +169,17 @@ Pré-éclampsie avec au moins un critère de sévérité parmi:
 - Œdèmes
 - Bandelette urinaire
 
-> La découverte d'un RCIU d'allure vasculaire doit faire rechercher une pré-éclampsie.
+> La découverte d'un retard de croissance intra-utérin d'allure vasculaire doit faire rechercher une pré-éclampsie.
+
+{{% /collapse %}}
+{{%collapse "Prévention de la pré-éclampsie" %}}
+
+> Contrôle de la pression artérielle à chaque consultation de grossesse, couplée à la bandelette urinaire
+{.alert .alert-info}
+
+La prévention de la pré-éclampsie par **aspirine faible dose** de 12 à 35 semaines d'aménorrhée (SA) est indiquée en cas d'antécédent de prééclampsie (81 mg/j selon *USPTF*).
+
+Rechercher un **syndrome des anticorps anti-phospholipides** (SAPL) en cas de de pré-éclampsie précoce ou sévère.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la pré-éclampsie" %}}
@@ -181,19 +193,21 @@ Si un traitement antihypertenseur intraveineux est impossible dans l'heure, voir
 
 Nifédipine ou nicardipine si le bêtabloquant seul est insuffisant ou contre-indiqué.
 
-### Pour en savoir plus: pré-éclampsie
+Prise d'aspirine faible dose à toutes les grossesses ultérieures.
+
+### Pour en savoir plus: prise en charge de la pré-éclampsie
 
 Le recours au traitement antihypertenseur est systématique en cas de **pré-éclampsie sévère** (≥ 160/110 mmHg) au repos et persistant plus de 15 minutes pour maintenir la pression sous ces seuils.
 
 Le sulfate de magnésium est un traitement hospitalier.
 
-Pour une pré-éclampsie sévère entre 24 et 34 SA sans signes de gravité materno-foetaux, la grossesse peut être poursuivie jusqu'à 34 SA.
+Pour une pré-éclampsie sévère entre 24 et 34 SA sans signes de gravité materno-fœtaux, la grossesse peut être poursuivie jusqu'à 34 SA.
 
 ### Suivi après accouchement d'une grossesse avec pré-éclampsie
 
 - Contrôle de la pression artérielle et de la bandelette urinaire
 - Bilan des facteurs de risque cardiovasculaires
-- Informer sur le surrisque vasculaire (syndrome métabolique, AVC)
+- Informer sur le sur-risque vasculaire (syndrome métabolique, AVC)
 - Consultation de néphrologie ou de médecine interne
 - Risque de récidive pendant une prochaine grossesse: 20-25 %
   - Suivi rigoureux avec consultation pré-conceptionnelle
@@ -203,11 +217,14 @@ Pour une pré-éclampsie sévère entre 24 et 34 SA sans signes de gravité mate
 {{% /collapse %}}
 {{%sources%}}
 
+- [US Preventive Services Task Force. Screening for Hypertensive Disorders of Pregnancy: US Preventive Services Task Force Final Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2809680)
 - {{< references/esh-2023 >}}
 - [Bonnet MP et al. Republication de : recommandations formalisées d'experts. Prise en charge de la patiente avec une pré-éclampsie sévère - RFE communes Société française d'anesthésie-réanimation (SFAR) - Collège national des gynécologues et obstétriciens français (CGNOF).Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/pdf/RPC//1-RPC%20DU%20CNGOF/2022-2023/RFE-Preeclampsie-severe-2022.pdf)
 - [Bagou G et al; CNGOF, SFMU, SFAR. Prise en charge des urgences obstétricales en médecine d'urgence. Recommandations de Pratiques Professionnelles. 2022.](https://sfar.org/prise-en-charge-des-urgences-obstetricales-en-medecine-durgence/)
+- [US Preventive Services Task Force. Aspirin Use to Prevent Preeclampsia and Related Morbidity and Mortality: US Preventive Services Task Force Recommendation Statement. JAMA. 2021.](https://jamanetwork.com/journals/jama/fullarticle/2784499)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Item 344 Prise en charge d'une patiente atteinte de prééclampsie. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [Bonnet MP et al; SFAR, CNGOF. Prise en charge de la patiente avec une pré-éclampsie sévère. Recommandations Formalisées d'Experts. 2020.](http://www.cngof.net/Publications-CNGOF/Pratique-clinique/RPC%20COLLEGE/2020/RFE%20pre-eclampsie_2020.pdf)
 - [Inserm. Pré-éclampsie. 30/11/2018.](https://www.inserm.fr/dossier/pre-eclampsie/)
+- [SFHTA. HTA et grossesse. Consensus d'experts. 2015. (PDF)](https://sfhta.eu/wp-content/uploads/2017/03/Consensus-dexperts-HTA-et-Grossesse-de-la-SFHTA-Dec.-2015.pdf)
 
 {{%/sources%}}

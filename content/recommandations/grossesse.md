@@ -178,9 +178,11 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 > *[Louvet et al; Société Francophone du Diabète (SFD). Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022.pdf)*
 
 {{% /collapse %}}
-{{%collapse "FMC gratuite" %}}
+{{%collapse "FMC gratuites" %}}
 
 {{< card-link-external title="MOOC Santé mentale périnatale au cours des 1000 premiers jours" subtitle="EPSM et PATH ..." url="https://pns-mooc.com/fr/mooc/25/presentation">}}
+
+{{< youtube id="NA3R3ZdaBew" title="Déni de grossesse : percevoir les grossesses non perçues (Pédagogie Numérique en Santé)" >}}
 
 {{% /collapse %}}
 {{%sources%}}

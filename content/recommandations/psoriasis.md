@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2023-10-05T11:12:30+02:00"
 publishdate = "2023-10-10"
-lastmod = "2023-10-10"
+lastmod = "2023-10-12"
 specialites = ["dermatologie"]
 annees = "2019"
 sources = ["SFD"]
@@ -16,7 +16,7 @@ sctid = "9014002"
 icd10 = "L40.9"
 image = true
 imageSrc = "Psoriasis en plaques du cuir chevelu et des mains. Freepik"
-todo = "PASI, EULA RPso, dépistage dépression, Acide salicylique kératolytique"
+todo = "PASI, EULA RPso, dépistage dépression, SAPHO"
 +++
 
 {{%article-summary%}}
@@ -24,7 +24,7 @@ todo = "PASI, EULA RPso, dépistage dépression, Acide salicylique kératolytiqu
 - Le psoriasis est le plus souvent un psoriasis en plaques: plaques érythémato-squameuses bien limitées avec couche squameuse et lésions multiples quasi symétriques
 - Les localisations préférentielles du psoriasis sont celles de frottement: coudes, genoux, jambes, lombo-sacrée et fesses, cuir chevelu, ongles, paumes et plantes
 - La prise en charge du psoriasis comporte des mesures d'hygiène et générales: arrêt tabac et alcool, correction d'un surpoids et du risque cardiovasculaire, émollients, soutien psychologique
-- Le traitement du psoriasis comprend: {{< modal-btn modal-traitements-dermocorticoides >}}dermocorticoïdes{{< /modal-btn >}} et analogues de la vitamine D combinés si nécessaire
+- Le traitement du psoriasis comprend: {{< modal-btn modal-dc >}}dermocorticoïdes{{< /modal-btn >}} et analogues de la vitamine D combinés si nécessaire
 - Un traitement par voie générale (méthotrexate, ciclosporine, biothérapie) doit être proposé si: psoriasis > 10% de la surface corporelle, score PASI ou {{< modal-btn modal-score-dlqi >}}DLQI{{< /modal-btn >}} > 10, retentissement marqué sur la qualité de vie. Le traitement relève uniquement du dermatologue
 - En cas de doute diagnostique ou de psoriasis résistant: avis du dermatologue et sérologies syphilis et VIH
 
@@ -195,6 +195,8 @@ Les traitements locaux du psoriasis (dermocorticoïdes et analogues de la vitami
 {{< modal-btn modal-dc >}}Tableau des dermocorticoïdes et leurs consignes d'utilisation{{< /modal-btn >}}.
 {.alert .alert-info}
 
+Exemple pour le cuir chevelu en cas de squames: [Diprosalic® lotion](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64435022&typedoc=R) x 2/j pendant 1-2 semaines, puis espacer en traitement d'entretien
+
 #### Analogues de la vitamine D3
 
 {{%info%}}
@@ -213,12 +215,16 @@ Irritation locale possible (visage et plis surtout).
 
 #### Acide salicylique kératolytique
 
-L'acide salicylique ets utile en courte durée pour son action kératolytique. Ne pas dépasser une concentration de 10% (20% si dermatologue) pour décaper la couche squameuse.
+L'acide salicylique est utile en courte durée pour son action kératolytique. Ne pas dépasser une concentration de 10% (20% si médecin spécialisé) pour décaper la couche squameuse.
+
+Spécialités: Coricide le diable® 11g/100g, préparation magistrale (ex: acide salicylique 10g + huile de cade 10g + Cold cream sqp 200g).
+
+Association dermocorticoïde fort + acide salicylique: [Diprosalic® pommade](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66707065&typedoc=R) (ou lotion).
 
 ### Traitements généraux du psoriasis modéré à sévère
 
 {{%info%}}
-Il est recommandé de proposer un traitement systémique pour un psoriasis modéré à sévère défini par au moins un parmi:
+Il est recommandé de proposer un traitement systémique pour un psoriasis modéré à sévère défini la présence d'au moins un critère parmi:
 
 - Psoriasis > 10% de la surface corporelle
 - Score PASI > 10

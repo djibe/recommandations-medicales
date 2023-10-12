@@ -86,21 +86,22 @@ Le diagnostic de vitiligo est clinique avec à la lampe de Wood une dépigmentat
   - Traitements essayés
   - Plaques le plus souvent asymptomatiques
 - Retentissement psychologique et qualité de vie  
-  Scores PHQ-4, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, DLQI, VIPs ou VitiQoL.
+  Scores PHQ-4, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal-score-dlqi >}}DLQI{{< /modal-btn >}}, VIPs ou VitiQoL.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Dépistage d'une hypothyroïdie ou d'une prédisposition: [TSH](/tags/tsh/) et anticorps anti-TPO.
+Dépistage d'une [hypothyroïdie]({{< relref "hypothyroidie.md" >}}) ou d'une prédisposition: [TSH](/tags/tsh/) et anticorps anti-TPO.
 
 [Contrôle de la vitamine D]({{< relref "vitamine-d.md" >}}) en cas d'éviction solaire totale.
 
 {{% /collapse %}}
 {{%collapse "Traitement du vitiligo" %}}
 
-La prise en charge du vitiligo relève du dermatologue.  
-Adresser en semi-urgence en cas d'évolution rapide.
+La prise en charge du vitiligo relève du dermatologue. Adresser en semi-urgence en cas d'évolution rapide.
 {.alert .alert-info}
+
+Mesures générales de prise en charge du vitiligo:
 
 - Limiter les frottements
 - Crème solaire IP50 sur les zones atteintes
@@ -186,5 +187,10 @@ Galerie de photos du vitiligo.
 {{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}
 
 {{< traitements/dermocorticoides >}}
+
+{{% /modal %}}
+{{% modal title="Score DLQI" id="modal-score-dlqi"%}}
+
+{{< scores/dlqi >}}
 
 {{% /modal %}}

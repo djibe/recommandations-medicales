@@ -6,7 +6,7 @@ synonyms = ["Couperose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-20T20:11:41+02:00"
 publishdate = "2020-10-20"
-lastmod = "2022-09-30"
+lastmod = "2023-10-10"
 specialites = ["dermatologie"]
 annees = "2021"
 sources = ["BAD"]
@@ -15,7 +15,7 @@ anglais = ["Rosacea"]
 sctid = "398909004"
 icd10 = "L71.9"
 image = true
-imageSrc = "Rosacée papulopustuleuse avec érythème. Photo de The Thinking Doll sur Foter.com / CC BY-NC"
+imageSrc = "Rosacée papulopustuleuse avec érythème. The Thinking Doll / Foter"
 flowchart = true
 todo = "interrogatoire, SEO"
 +++
@@ -25,14 +25,14 @@ todo = "interrogatoire, SEO"
 - Le diagnostic de rosacée est clinique: partie médiane du visage rouge chez un adulte présentant des bouffées vasomotrices
 - Le traitement de la rosacée est suspensif avec rechute à l'arrêt
 - Une atteinte oculaire est possible
-- La prise en charge de la rosacée débute par du Métronidazole gel 0,75% en 2 applications par jour pendant 3 mois en première intention
+- La prise en charge de la rosacée associe l'éviction des facteurs déclenchants et le métronidazole gel 0,75 % en 2 applications par jour pendant 3 mois en première intention
 - La rosacée est une contre-indication à l'utilisation des dermocorticoïdes
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Rosacée
-: Dermatose chronique faciale fréquente chez l'adulte d'âge moyen à peau claire ({{< modal-btn modal-fitzpatrick >}}Fitzpatrick I-III{{< /modal-btn >}}). L'atteinte du visage atteint la ligne médiane: nez, front, joues et menton.
+: Dermatose chronique faciale fréquente chez l'adulte d'âge moyen à peau claire ({{< modal-btn modal-fitzpatrick >}}Fitzpatrick I-III{{< /modal-btn >}}). Atteinte de la ligne médiane du visage: nez, front, joues et menton.
 Prédominance de la maladie chez la femme (2/3) avec un pic de fréquence entre 35 et 50 ans.
 : Les formes initiales sont déclenchées par un climat froid, le travail à la chaleur ou une exposition au soleil. Puis l'évolution devient chronique avec des poussées de papules et pustules sans facteur déclenchant.  
 L'atteinte typique de la rosacée survient avec des flushs, érythème du visage et télangiectasies et périodes inflammatoires développant des papulopustules.
@@ -93,7 +93,7 @@ Corticodépendance, érythème desquamatif, grandes télangiectasies des zones p
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Diagnostic différentiel de la rosacée:
+### Diagnostics différentiels de la rosacée
 
 - [Acné]({{< relref "acne.md" >}})  
   Adolescent, visage, cou et tronc, comédons, pas de flushs/érythème/télangiectasies, papules douloureuses.
@@ -241,14 +241,11 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 111. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-111-%E2%80%94-Dermatoses-faciales-acne-rosacee-dermatite-seborrheique_CompressPdf.pdf)
 - [Hampton P et al. British Association of Dermatologists guidelines for the management of people with rosacea 2021. Br J Dermatol. 2021.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20485)
 - [Trouche F. La couperose et la rosacée. Dermato-Info. 2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-couperose-et-la-rosac%C3%A9e)
-- Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.
+- [Anzengruber F et al. Swiss S1 guideline for the treatment of rosacea. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.14349)
 - [Jansen T. Formes cliniques et classification de la rosacée. Annales de Dermatologie et de Vénéréologie. 2011.](https://www.sciencedirect.com/science/article/abs/pii/S0151963811700795)
-
-### Bibliographie en attente
-
-- [Anzengruber F et al. Swiss S1 guideline for the treatment of rosacea. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14349)
 
 {{%/sources%}}
 {{% modal title="Phototypes selon Fitzpatrick" id="modal-fitzpatrick" size="lg"%}}

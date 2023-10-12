@@ -85,7 +85,7 @@ SALF
 
 ### Fertilité selon l'âge de la femme
 
-La fertilité est maximale avant 25 ans, diminue dès 31 ans, chute après 35 ans, > 50% à partir de 40 ans, quasi nulle à 45 ans.
+La fertilité est maximale avant 25 ans, diminue dès 31 ans, chute après 35 ans, dépasse 50% à partir de 40 ans et devient quasi nulle à 45 ans.
 
 En *AMP* les chances de grossesse avec naissance vivante sont très diminuées à partir de 40 ans et quasi nulles à partir de 43 ans.
 

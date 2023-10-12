@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-30T19:57:00+02:00"
 publishdate = "2021-05-01"
-lastmod = "2022-06-12"
+lastmod = "2023-10-12"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["SFD", "CNGOF"]
@@ -23,12 +23,12 @@ todo = "relecture"
 
 {{%article-summary%}}
 
-- Dépister systématiquement mais uniquement si: âge ≥ 35 ans, surpoids, ATCD 1<sup>er</sup> degré familial de DT2, antécédent de macrosomie ou DG
-- Dépister par: glycémie à jeun au T1 puis HGPO 75g entre 24 et 28 SA
+- Indications au dépistage du diabète gestationnel (DG): âge ≥ 35 ans, surpoids, ATCD 1<sup>er</sup> degré familial de diabète type 2, antécédent de macrosomie ou de diabète gestationnel
+- Dépister par glycémie à jeun au T1 puis HGPO 75g entre 24 et 28 SA
 - Diagnostic de diabète gestationnel si glycémie à jeun ≥ 0,92 g/L ou HGPO H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L
 - Adresser à la maternité pour autosurveillance glycémique et diététique
 - Objectifs glycémiques du diabète gestationnel ou d'une grossesse chez la diabétique: HbA1c cible 6,5%, glycémie à jeun < 0,95 g/L et post-prandiale H2 < 1,20 g/L
-- Objectif de terme: 39 SA
+- Objectif de terme de grossesse: 39 SA
 - Glycémie à la consultation post-natale et tous les 1-3 ans à vie
 - En pandémie Covid-19, si HGPO non réalisable, remplacer par GAJ + HbA<sub>1c</sub> avec un seuil diagnostique à 5,7% (*[Vambergue 2020](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)*)
 
@@ -176,30 +176,30 @@ Insulines utilisées en sécurité pour le traitement du diabète gestationnel: 
 {{% /collapse %}}
 {{%collapse "Surveillance en post-partum et à long terme" %}}
 
-Risque de récidive de diabète gestationnel de 30 à 84%, de {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}} x 2-5, de diabète type 2 x7 et de maladie cardiovasculaire x1,7
+Risque de récidive de diabète gestationnel de 30 à 84%, de {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}} x 2-5, de diabète type 2 x7 et de maladie cardiovasculaire x 1,7
 {.alert .alert-info}
 
+Suivi après un diabète gestationnel:
+
 - Surveillance de la normalisation des glycémies post-partum sans traitement
-- Si autres facteurs de risque cardiovasculaire:  
-  Contraception par DIU préférable.
+- Si autres facteurs de risque cardiovasculaire: [contraception]({{< relref "contraception.md" >}}) par DIU préférable.
 - Information de la patiente
-  - En cas de nouvelle grossesse: dépistage du DG
+  - En cas de nouvelle grossesse: dépistage du diabète gestationnel
   - Glycémie à jeun en consultation post-natale
   - avant nouvelle grossesse
-  - et tous les 1 à 3 ans pendant ≥ 25 ans
+  - et tous les 1 à 3 ans à vie
 - Mesures hygiéno-diététiques
-  - Activité physique régulière 30-60 min/j 5j/sem
+  - Activité physique régulière 30-60 min/j 5 jours par semaine
   - Alimentation équilibrée
   - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
-- Pour l'enfant  
-  Surveillance pondérale + activité physique régulière
+- Pour l'enfant: surveillance pondérale et activité physique régulière
 
 {{% /collapse %}}
 {{%collapse "Nutrition et diabète gestationnel" %}}
 
-Recommandations sur la nutrition et les consignes diététiques pour la prise en charge du diabète gestationnel (*SFD 2022*).
+Recommandations sur la nutrition et les consignes diététiques pour la prise en charge du diabète gestationnel: lire *Louvet al 2022*.
 
-Le développement d'un diabète gestationnel ne modifie pas les consignes valables pour toute grossesse (prise de poids, apports en glucides ...)(article à venir)
+Le développement d'un diabète gestationnel ne modifie pas les consignes valables pour toute grossesse (prise de poids, apports en glucides ...)
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -228,18 +228,19 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 {{< card-link-external title="e-learning EASD" url="https://easd-elearning.org/courses/gestational-diabetes-mellitus/">}}
 
-- [Louvet et al; SFD. Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022.pdf)
+- {{< references/ada-soc >}}
 - {{< references/sfd-dt2 >}}
-- [Vambergue A. et al; SFD, Collège National des Gynécologues et Obstétriciens Français (CNGOF). Diabète gestationnel et pandémie SARS-Cov2 (COVID-19). Avril 2020. (PDF)](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)
-- [Brown J. et al. L'insuline pour le traitement des femmes atteintes de diabète gestationnel. Cochrane Database of Systematic Reviews. 2017.](https://www.cochrane.org/fr/CD012037/PREG_linsuline-pour-le-traitement-des-femmes-atteintes-de-diabete-gestationnel)
-- [Pirson N. et al. Prise en charge du diabète gestationnel en 2016 : une revue de la littérature. Louvain med. 2016. (PDF)](https://www.louvainmedical.be/sites/default/files/content/article/pdf/lmed-12-2016-01-pirson.pdf)
-- [Regnault N. et al. Diabète gestationnel en France en 2012 : dépistage, prévalence et modalités de prise en charge pendant la grossesse. BEH. Santé Publique France. Mars 2016.](http://beh.santepubliquefrance.fr/beh/2016/9/2016_9_2.html)
+- {{< references/college-endocrino >}}
+- [Vambergue A et al; SFD, Collège National des Gynécologues et Obstétriciens Français (CNGOF). Diabète gestationnel et pandémie SARS-Cov2 (COVID-19). Avril 2020. (PDF)](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)
+- [Brown J et al. L'insuline pour le traitement des femmes atteintes de diabète gestationnel. Cochrane Database of Systematic Reviews. 2017.](https://www.cochrane.org/fr/CD012037/PREG_linsuline-pour-le-traitement-des-femmes-atteintes-de-diabete-gestationnel)
+- [Pirson N et al. Prise en charge du diabète gestationnel en 2016 : une revue de la littérature. Louvain med. 2016. (PDF)](https://www.louvainmedical.be/sites/default/files/content/article/pdf/lmed-12-2016-01-pirson.pdf)
+- [Regnault N et al. Diabète gestationnel en France en 2012 : dépistage, prévalence et modalités de prise en charge pendant la grossesse. BEH. Santé Publique France. Mars 2016.](http://beh.santepubliquefrance.fr/beh/2016/9/2016_9_2.html)
 - [HAS. Guide parcours de soins Diabète de type 2 de l'adulte. 2014.](https://www.has-sante.fr/jcms/c_1735060/fr/guide-parcours-de-soins-diabete-de-type-2-de-l-adulte)
 - [CNGOF, SFD. Le diabète gestationnel. Recommandations pour la pratique clinique. 2010. (PDF)](http://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/diabete%20gesta%20cngof.pdf)
 
 ### Bibliographie en attente
 
-{{< references/college-endocrino >}}
+[Louvet et al; SFD. Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022.pdf)
 
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}

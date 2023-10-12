@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2023-09-11"
+lastmod = "2023-10-12"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["ESC", "ESH", "ADA", "EASD", "SFD", "KDIGO", "HAS"]
@@ -17,14 +17,14 @@ sctid = "44054006"
 icd10 = "E11"
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "socrisktest, WATCH-DM ESC2023 src480; EASD 2021 Table 2.3 et 2.4, GRADE PODO +++ dont p.68 et p.76 et p.90, conseils nut p. 80, glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit, indications fructosamine"
+todo = "socrisktest, WATCH-DM ESC2023 src480; EASD 2021 Table 2.3 et 2.4, glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit, indications fructosamine"
 +++
 
 {{%article-summary%}}
 
-Ce chapitre intègre les dernières recommandations ESC et ESH 2023 et ADA/EASD 2022 sur le diabète de type 2.
+Ce chapitre intègre les dernières recommandations ADA, ESC et ESH 2023 et ADA/EASD 2022 sur le diabète de type 2.
 
-- Dépister régulièrement un diabète si: maladie cardiovasculaire, sujet à risque (surpoids, [stéatose hépatique]({{< relref "steatose-hepatique-et-nash.md" >}}), acanthosis nigricans), Socrisktest ≥ 5
+- Dépister régulièrement un diabète si: +35 ans, prédiabète (annuel), diabète gestationnel (max 3 ans), VIH, surpoids avec autre facteur de risque (antécédent familial, maladie cardiovasculaire, origines africaines/asiatiques/pacifiques, hypertension, HDL < 0,35 g/L, TG > 2,5 g/L, inactivité physique, [stéatose hépatique]({{< relref "steatose-hepatique-et-nash.md" >}}), acanthosis nigricans), [Socrisktest](https://diabetes.org/diabetes-risk-test) ≥ 5 (*ADA 2023*)
 - Pour chaque personne vivant avec un diabète: définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
 - {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7%)
 - Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}
@@ -347,7 +347,7 @@ window.addEventListener('load', () => {
 | [Stéatopathie métabolique]({{< relref "steatose-hepatique-et-nash.md" >}}) | Dépistage par échographie abdominale | AFEF 2020 |
 | [Stéatohépatite]({{< relref "steatose-hepatique-et-nash.md" >}}) (NASH) | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} tous les 2 ans | AFEF 2020 |
 | [Néphropathie]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie et rapport albuminurie/créatininurie annuels | ADA et HAS 2023 |
-| Neuropathie  | Dépistage annuel: monofilament et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}), sécheresse cutanée | ADA 2023, HAS 2020 et ESC 2019 diabetes |
+| Neuropathie  | Dépistage annuel: {{< modal-btn modal-monofilament >}}monofilament{{< /modal-btn >}} et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}), sécheresse cutanée | ADA 2023, HAS 2020 et ESC 2019 diabetes |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | ADA 2023, SFD 2016       |
 | Score calcique | Pas d'argument pour l'utiliser pour la classification du RCV<br>{{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± test d'effort | ESC 2023 diabetes<br>SFD 2021 CAD |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
@@ -393,7 +393,7 @@ window.addEventListener('load', () => {
 - [Pop-Busui R et al. Heart Failure: An Underappreciated Complication of Diabetes. A Consensus Report of the American Diabetes Association. Diabetes Care. 2022.](https://diabetesjournals.org/care/article/doi/10.2337/dci22-0014/147048/Heart-Failure-An-Underappreciated-Complication-of)
 - [Jarl Emanuel Strange. eposter. Risk of heart failure following short-term non-steroidal anti-inflammatory drug use in patients with type 2 diabetes mellitus. 2022.](https://www.escardio.org/The-ESC/Press-Office/Press-releases/Non-steroidal-anti-inflammatory-drugs-linked-with-heart-failure-in-patients-with-diabetes)
 - {{< references/esc-cvd >}}
-- [Lee CG. et al. Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. Diabetes Care. 2021.](https://doi.org/10.2337/dc21-1046)  
+- [Lee CG. et al. Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. Diabetes Care. 2021.](https://doi.org/10.2337/dc21-1046):  
   Sujets à haut risque de diabète suivis pendant 20 ans, pas de bénéfice sur la mortalité totale à un programme intensif de modifications des habitudes de vie versus conseils de perte de poids et d'augmentation de l'activité physique.
 - {{< references/sfd-dt2 >}}
 - [Riddle MC et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://link.springer.com/article/10.1007/s00125-021-05542-z)
@@ -416,7 +416,8 @@ window.addEventListener('load', () => {
 
 ### Bibliographie en attente
 
-[Thivolet C et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
+- [The Diabetes and Nutrition Study Group (DNSG) of the European Association for the Study of Diabetes (EASD). Evidence-based European recommendations for the dietary management of diabetes. Diabetologia 66. 2023.](https://link.springer.com/article/10.1007/s00125-023-05894-8)
+- [Thivolet C et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
 
 {{%/sources%}}
 {{% modal title="Situations perturbant l'HbA1c" id="modal-hba1c-faussee"%}}
@@ -512,5 +513,10 @@ window.addEventListener('load', () => {
 {{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}
 
 {{< traitements/vaccin-pneumocoque >}}
+
+{{% /modal %}}
+{{% modal title="Test de sensibilité au monofilament" id="modal-monofilament"%}}
+
+{{< clinique/monofilament >}}
 
 {{% /modal %}}

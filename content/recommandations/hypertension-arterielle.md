@@ -531,6 +531,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [US Preventive Services Task Force. Screening for Hypertensive Disorders of Pregnancy: US Preventive Services Task Force Final Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2809680)
 - {{< references/esh-2023 >}}
 - {{< references/ada-soc >}}
 - {{< references/esc-cvd >}}
@@ -540,15 +541,16 @@ graph TB
 - {{< references/college-endocrino >}}
 - {{< references/esc-diabetes >}}
 - {{< references/esc-hta >}}
-- [HAS, SFHTA. Prise en charge de l'hypertension artérielle de l'adulte. Fiche mémo. Septembre 2016.](https://www.has-sante.fr/jcms/c_2059286/fr/prise-en-charge-de-l-hypertension-arterielle-de-l-adulte)
 - [SFHTA. Hypertension artérielle du sujet noir. Décembre 2017. (PDF)](https://www.sfhta.eu/wp-content/uploads/2018/10/SFHTA_Fiche_technique_HTA-du-sujet-noir_Decembre-2017.pdf)
+- [HAS, SFHTA. Prise en charge de l'hypertension artérielle de l'adulte. Fiche mémo. Septembre 2016.](https://www.has-sante.fr/jcms/c_2059286/fr/prise-en-charge-de-l-hypertension-arterielle-de-l-adulte)
+- [SFHTA. HTA et grossesse. Consensus d'experts. 2015. (PDF)](https://sfhta.eu/wp-content/uploads/2017/03/Consensus-dexperts-HTA-et-Grossesse-de-la-SFHTA-Dec.-2015.pdf)
 
 ### Bibliographie en attente
 
 - [Whealton S et al. Why Is Cuff Size So Important and Other Factors That Affect Accurate Blood Pressure Measurement. ACC. 2023.](https://www.acc.org/Latest-in-Cardiology/Articles/2023/06/05/19/18/Why-Is-Cuff-Size-So-Important-and-Other-Factors-That-Affect-Accurate-BP-Measurement)
 - [Duly-Bouhanick B et al; SFHTA. HTA de l'enfant et de l'adolescent. Consensus d'experts. 2022. (PDF)](https://sfhta.eu/wp-content/uploads/2022/06/2020-11-27_recos-seules-HTA-enfants-et-ado-V2-du-02.06.2022.pdf)
 - [Xi B et al. Establishing International Blood Pressure References Among Nonoverweight Children and Adolescents Aged 6 to 17 Years. Circulation. 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729639/#SD1)
-- [SFHTA. HTA et grossesse. Consensus d'experts. 2015. (PDF)](https://sfhta.eu/wp-content/uploads/2017/03/Consensus-dexperts-HTA-et-Grossesse-de-la-SFHTA-Dec.-2015.pdf)
+- 
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}

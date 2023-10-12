@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-16T13:47:19+01:00"
 publishdate = "2021-11-18"
-lastmod = "2023-06-29"
+lastmod = "2023-10-12"
 specialites = ["therapeutique"]
 annees = "2015"
 sources = ["HAS"]
@@ -107,7 +107,7 @@ Respecter l'AMM de la spécialité:
 | Clonazépam               | Rivotril          |           35 | Épilepsie                          |
 | Clorazépate dipotassique | Tranxene          |       30-150 | Anxiété, sevrage alcool            |
 | Clotiazépam              | Veratran          |            4 | Anxiété, sevrage alcool            |
-| <strong>Diazépam</strong> | Valium, gén      |        32-47 | Anxiété, sevrage alcool            |
+| **Diazépam**             | Valium, gén       |        32-47 | Anxiété, sevrage alcool            |
 | Loflazépate d'éthyle     | Victan            |           77 | Anxiété, sevrage alcool            |
 | Lorazépam                | Temesta, gén      |        10-20 | Anxiété, sevrage alcool            |
 | Lormétazépam             | Ex-noctamide, gén |         13,5 | Insomnie occasionnelle/transitoire |
@@ -119,7 +119,9 @@ Respecter l'AMM de la spécialité:
 
 > Données insuffisantes pour comparer les efficacités hypnotiques ou anxiolytiques.  
 Le diazépam est la référence de la *SFA* pour le sevrage alcoolique.  
-L'oxazépam est la BZD de préférence de *Prescrire* en insomnie transitoire. Il ne présente pas les interactions avec le cytochrome C3A4 (à l'inverse de l'alprazolam qui pose problème avec le paxlovid).
+L'oxazépam est la BZD de préférence de *Prescrire* pour une insomnie transitoire. Il ne présente pas les interactions avec le cytochrome C3A4 (à l'inverse de l'alprazolam qui pose problème avec le paxlovid).
+
+{{< card-link-external title=" Calculatrice d'équivalence entre benzodiazépines " url="https://www.psychopharma.fr/equivalence" subtitle="par PsychoPharma.fr" >}}
 
 {{% /collapse %}}
 {{%collapse "Décroissance des benzodiazépines" %}}
