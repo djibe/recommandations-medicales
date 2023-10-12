@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T23:51:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2023-08-06"
+lastmod = "2023-10-12"
 specialites = ["hematologie"]
 annees = "2023"
 sources = ["MinSanté", "HCSP"]
@@ -64,9 +64,9 @@ Germes responsables du sur-risque infectieux: **pneumocoque** (50-90%) et *Haemo
 
 ### Épidémiologie de l'asplénie
 
-500.000 personnes hypo ou aspléniques en France.
+500.000 personnes hypospléniques ou aspléniques en France.
 
-Splénectomie chirurgicale: 1<sup>re</sup> cause avec 6 à 9000 cas par an (50% d'adultes). Autres causes: infarctus splénique, asplénisme thérapeutique (radiothérapie).  
+Splénectomie chirurgicale: première cause avec 6 à 9000 cas par an (50% d'adultes). Autres causes: infarctus splénique, asplénisme thérapeutique (radiothérapie).  
 **Drépanocytose**: 10.000 porteurs (50% adultes).
 
 {{% /collapse %}}
@@ -86,9 +86,9 @@ La pénicilline V existe en sirop (250.000 UI/5 mL, 500.000 UI/5 mL, 1 MUI/10 mL
 - Allergie aux bêtalactamines
   - Selon la *SFAR 2010*: érythromycine ([Ery®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61572941&typedoc=R)) 500 mg x 1/j
   - Selon *Lee GM*: céfalexine 250 mg 1 cm x 2/j (en dehors des repas et sans lait) ou azithromycine 250 mg x 1/j
-- En cas de pénurie d'Oracilline®: amoxicilline (*[ANSM 2023](https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/oracilline-1-000-000-ui-comprime-secable-phenoxymethylpenicilline)*)
-  - Adulte selon *Lee GM*: amoxicilline 500 mg x 2/j
-  - Enfant selon *Lee GM*: amoxicilline 10 mg/kg x 2/j
+- En cas de pénurie d'Oracilline® (*Lee GM* et *[ANSM 2023](https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/oracilline-1-000-000-ui-comprime-secable-phenoxymethylpenicilline)*):
+  - Adulte: amoxicilline 500 mg x 2/j
+  - Enfant: amoxicilline 10 mg/kg x 2/j
 
 > << en cas de signes cliniques d'infection, même débutante, il est recommandé d'instaurer une antibiothérapie curative par céphalosporine de 3ème génération, type céfotaxime ou ceftriaxone, afin de limiter la survenue de sepsis graves >> (*SFAR*)
 {.alert .alert-warning}
@@ -107,8 +107,8 @@ Vaccins à réaliser avant voire après une splénectomie.
 | dTPolio         | Calendrier vaccinal          | Revaxis® tous les 10 ans |
 | Grippe          | 1 dose                       | Annuel           |
 | *H. influenzae* | ACT-HIB® dose unique         |                  |
-| Méningocoque ACYW135 | Menveo® (sans seringue)/Nimenrix® à M0M6<br>ou Menquadfi® | Tous les 5 ans<br>Non connu  |
-| Méningocoque B  | Bexsero® (ou Trumenba®) à M0M2 |                |
+| Méningocoque ACYW135 | Menveo® (sans seringue)/Nimenrix® à M0 et M6<br>ou Menquadfi® | Tous les 5 ans<br>Non connu  |
+| Méningocoque B  | Bexsero® (ou Trumenba®) à M0 et M2 | Tous les 2-3 ans selon *Lee GM* |
 | {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} | Prevenar 13® puis Pneumovax® M2 | Pneumovax® tous les 5 ans |
 {{< /table >}}
 
@@ -147,6 +147,8 @@ Rappel par Pneumovax® tous les 5 ans.
 - 6 mois à 10 ans: Bexsero® avec 2<sup>e</sup> injection à 2 mois
 - 2 à 5 mois: Bexsero® en 3 injections à 1 mois d'intervalle
 
+Rappel tous les 2-3 ans selon *Lee GM*.
+
 #### *Haemophilus influenzae* type B
 
 Vaccin [ACT-HIB®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61104024&typedoc=R) dose unique (hors AMM après 6 ans).
@@ -169,12 +171,12 @@ Mise à jour du calendrier vaccinal de l'entourage du sujet asplénique (voir [V
 
 L'asplénie (par splénectomie ou autre) induit un risque infectieux majeur nécessitant une éducation thérapeutique:
 
-- Risque accru d'infections nécessitant un avis médical rapide en cas de fièvre/frissons
+- Risque accru d'infections nécessitant un avis médical rapide en cas de fièvre, frissons, raideurs, vomissements, diarrhées
 - Carte de signalement d'asplénie
 - Notification de la date et du motif sur le carnet de santé
 - Intérêt du suivi vaccinal rigoureux
 - Consulter avant de voyager à l'étranger
-- Prophylaxie en morsure animale ou de tiques
+- Prophylaxie en cas de morsure animale ou de tiques, léchage de plaie par un animal
 
 {{% /collapse %}}
 {{%sources%}}

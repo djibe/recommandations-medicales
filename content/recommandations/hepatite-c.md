@@ -8,10 +8,10 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Comité de l'AFEF"
 date = "2020-09-06T20:18:41+02:00"
 publishdate = "2020-09-06"
-lastmod = "2023-01-10"
+lastmod = "2023-10-12"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2020"
-sources = ["AFEF", "HAS"]
+annees = "2023"
+sources = ["HAS", "AFEF"]
 tags = ["depistage", "fatigue", "hepatite", "IST", "prurit", "VIH"]
 anglais = ["Viral hepatitis type C"]
 sctid = "50711007"
@@ -28,9 +28,9 @@ todo = "SEO 'charge virale hepatite c', symptômes/fatigue, hépatoprotection"
 Adaptation des recommandations de l'AFEF et HAS pour la prise en charge simplifiée de l'hépatite C par le médecin généraliste
 
 - L'hépatite C est désormais une maladie guérissable (+90%)
-- Dépister largement l'hépatite C car elle reste sous-diagnostiquée (voir *Qui dépister?*), couplée au VHB et VIH
-- Tout médecin peut prescrire les antiviraux pour la guérison de l'hépatite C
-- Évaluation des comorbidités, interactions médicamenteuses et de la fibrose avant le traitement
+- Dépister largement l'hépatite C car elle reste sous-diagnostiquée (voir *Qui dépister?*), couplée aux sérologies VHB et VIH
+- Tout médecin peut prescrire les antiviraux à action directe (AAD) pour la guérison de l'hépatite C
+- Évaluation des comorbidités, interactions médicamenteuses et de la fibrose hépatique avant le traitement
 - Traitement antiviral par Epclusa® ou Maviret® pendant respectivement 12 ou 8 semaines
 - Surveillance chronique de la cirrhose et de la charge virale (guérison, réinfection)
 
@@ -177,7 +177,7 @@ Mesure de la charge virale hépatite C systématique lorsque 2 sérologies sont 
 Mesure de la fibrose hépatique systématique après la découverte d'une hépatite C.  
 Par le spécialiste ou sur prescription pour un traitement ambulatoire.
 
-Test non invasif en première intention:
+Test non invasif de fibrose hépatique en première intention:
 
 - Élasticité hépatique échographique: FibroScan®  
   - Absence de maladie sévère si résultat < 10 kPa
@@ -204,31 +204,34 @@ Prise en charge de l'hépatite C par antiviraux à action directe possible par t
 ### Conditions du traitement anti VHC par le médecin généraliste
 
 - Absence de traitement anti-VHC antérieur
-- Absence de co-infection VHB-VIH
+- Absence de co-infection VHB ou VIH
 - Absence d'insuffisance rénale sévère
 - Absence de comorbidité hépatique mal contrôlée
-- Absence de maladie hépatique sévère  
+- Absence de maladie hépatique sévère (fibrose F3-F4)  
   {{%class%}}Objectivée par FibroScan®, FibroTest® ou Fibromètre®.{{%/class%}}
 - Bilan clinique et complémentaire sans anomalie majeure (voir *Clinique* et *Examens complémentaires*)
 
-### Mesures générales
+### Mesures générales du traitement de l'hépatite C
+
+Prise en charge d'une hépatite C et mesures d'hépatoprotection:
 
 - [ALD n°6]({{< relref "affection-longue-duree.md" >}})
 - Observance maximale du traitement
 - Proscrire toute interaction avec les antiviraux ([Outil en ligne HEP Drug Interactions](https://www.hep-druginteractions.org/checker))  
   Enquête sur l'automédication +++.
 - Aucune consommation de pamplemousse ou d'orange sanguine pendant le traitement
-- Éviter toute consommation d'alcool
-- Lutte contre surpoids/[obésité]({{< relref "obesite-adulte.md" >}})
-- Équilibre strict d'un diabète
-- Vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) et [hépatite B]({{< relref "hepatite-b.md" >}}) (après sérologie négative)
+- Mesures d'hépatoprotection
+  - Éviter toute consommation d'alcool
+  - Lutte contre surpoids/[obésité]({{< relref "obesite-adulte.md" >}})
+  - Équilibre strict d'un diabète
+  - Vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) et [hépatite B]({{< relref "hepatite-b.md" >}}) (après sérologie négative)
 - Vaccination [grippe]({{< relref "grippe.md" >}}) annuelle et {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque tous les 5 ans{{< /modal-btn >}}
 - Dépistage de l'entourage et des partenaires
 - Prévention des contaminations
   - Charge virale VHC répétée en cas de comportements à risque
   - Pas de partage des rasoirs, brosse à dent.
   - Matériel à usage unique en cas d'acte invasif (drogue IV).
-- Association de patients: [SOS hépatites](https://soshepatites.org/)
+- Association de patients: [SOS hépatites](https://soshepatites.org)
 - [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 45](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2045)  
   Exposition lors de soins ou au contact de personnes contaminées.
 
@@ -243,15 +246,15 @@ Mesure de la charge virale obligatoire avant de débuter le traitement.
 
 2 schémas thérapeutiques au choix (guérison > 90%):
 
-- [Epclusa®](https://ec.europa.eu/health/documents/community-register/2020/20200825148798/anx_148798_fr.pdf) (sofosbuvir + velpastavir)  
+- [Epclusa® (PDF)](https://ec.europa.eu/health/documents/community-register/2020/20200825148798/anx_148798_fr.pdf) (sofosbuvir + velpastavir)  
   Epclusa® 400/100 mg 1 cp par jour pendant 12 semaines.
-- [Maviret®](https://ec.europa.eu/health/documents/community-register/2020/20200303147380/anx_147380_fr.pdf) (glécaprévir + pibrentasvir)  
+- [Maviret® (PDF)](https://ec.europa.eu/health/documents/community-register/2020/20200303147380/anx_147380_fr.pdf) (glécaprévir + pibrentasvir)  
   Maviret® 100/40 mg 3 cp en 1 prise quotidienne lors d'un repas pendant 8 semaines
 
 **Effets indésirables principaux:** asthénie, céphalées, nausées d'intensité modérée, atteignant 10% des patients.
 
 {{%info%}}
-Contrôle de la charge virale VHC 12 semaines après la fin du traitement:
+Contrôle de la charge virale VHC 12 à 24 semaines après la fin du traitement:
 
 - Charge virale négative: Patient guéri
 - Charge virale positive: Adresser au spécialiste
@@ -270,15 +273,15 @@ Prise en charge de l'hépatite C par le gastro-entérologue lorsque les conditio
 ### Surveillance pendant le traitement
 
 - Suivi régulier adapté au traitement (voir *Traitement simplifié*)
-- Contrôle de la charge virale VHC 12 semaines après la fin du traitement
+- Contrôle de la charge virale VHC 12 à 24 semaines après la fin du traitement
 
 ### Surveillance après le traitement
 
 La surveillance après la guérison d'une hépatite C dépend de l'atteinte hépatique pré-traitement et de la persistance de facteurs de risque:
 
-- Si persistance de conduites à risque: charge virale annuelle
+- Si persistance de conduites à risque: PCR VHC x 1-2/an ou après injection à risque
 - Mesures d'hépatoprotection à vie  
-  Alcool, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, automédication.
+  [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}}), {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, automédication.
 - Si cirrhose ou valeurs anormales avant traitement: dépistage du CHC
   Valeurs anormales signes d'hépatopathie avancée: FibroScan® ≥ 10 kPa, Fibrotest® > 0,58 ou Fibromètre® > 0,78.
 
@@ -352,6 +355,7 @@ accTitle: Conduite à tenir dans les suites de la réalisation d'un TROD VHC d'a
 
 {{< card-link-external title="Vidéos de l'AFEF sur l'hépatite C" url="https://www.youtube.com/channel/UCgWEPppp0YbWbvpcWoXd9fg/search?query=h%C3%A9patite%20C" subtitle="e-learning gratuit par INSHU, ashm, UNSW, Kirby">}}
 
+- [HAS. Prise en charge des personnes infectées par les virus de l'hépatite B, C ou D. 2023.](https://www.has-sante.fr/jcms/p_3324682/fr/prise-en-charge-des-personnes-infectees-par-les-virus-de-l-hepatite-b-c-ou-d)
 - [Roudot-Thoraval F. Éditorial. De nouvelles recommandations relancent l'objectif d'élimination des hépatites B, C et Delta d'ici 2030. Bull Épidémiol Hebd. 2023.](http://beh.santepubliquefrance.fr/beh/2023/15-16/2023_15-16_0.html)
 - {{< references/afef-foie-non-invasif >}}
 - [HAS. Hépatite C - Panorama](https://www.has-sante.fr/jcms/p_3261788/fr/hepatite-c)

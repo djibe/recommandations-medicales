@@ -8,7 +8,7 @@ synonyms = ["Antidouleurs en pédiatrie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-12-26T00:12:41+02:00"
 publishdate = "2020-12-26"
-lastmod = "2023-09-14"
+lastmod = "2023-10-12"
 specialites = ["pediatrie"]
 annees = "2021"
 sources = ["Collège", "HAS", "Pediadol"]
@@ -19,6 +19,7 @@ icd10 = "R52.9"
 image = true
 imageSrc = "La douleur de l'enfant. Nathan Phillips sur Foter.com"
 slider = true
+flowchart = true
 todo = "https://www.phel.ch/upload/docs/application/pdf/2016-05/a4_poster_gsasa_2015_rotation_opiaces_mj.pdf"
 +++
 
@@ -61,8 +62,7 @@ Traitement sûr (*[Lesko 1995](https://pubmed.ncbi.nlm.nih.gov/7884951/)*). Clas
 
 #### Situations où éviter les AINS
 
-- [Varicelle]({{< relref "varicelle.md" >}})  
-  Même si aucun lien prouvé.
+- [Varicelle]({{< relref "varicelle.md" >}}) (même si aucun lien prouvé)
 - Infection pulmonaire ou ORL **sévère**, cutanées ou des tissus mous
 - Risque hémorragique ou trouble de la coagulation
 - Risque de déshydratation (diarrhées ...)
@@ -70,8 +70,7 @@ Traitement sûr (*[Lesko 1995](https://pubmed.ncbi.nlm.nih.gov/7884951/)*). Clas
 {{% /collapse %}}
 {{%collapse "Antalgie palier 2" %}}
 
-Traitement des douleurs intenses (EVA/EN 5-7), toujours en association au paracétamol et AINS si indiqués.  
-Recours au palier 3 si insuffisant.
+Traitement des douleurs intenses (EVA/EN 5-7), toujours en association au paracétamol et AINS si indiqués. Recours au palier 3 si insuffisant.
 
 Ne jamais associer 2 antalgiques de palier 2. Ne pas utiliser pour les céphalées.
 
@@ -218,6 +217,20 @@ Une douleur aiguë entraîne des symptômes bruyants. Lorsqu'elle se prolonge el
 ### Éléments de prise en charge
 
 Rassurer, selon l'âge mobiliser: présence des parents, portage, paroles, allaitement, tétine, distraire, musique, cocon, informer, distraire, rappeler que ce n'est pas de sa faute, courage, négociation.
+
+{{% /collapse %}}
+{{%collapse "Prise en charge de la douleur nociceptive de l'enfant" "show" %}}
+
+{{< mermaid title="Prise en charge de la douleur nociceptive chez l'enfant. Dr Alaedine Benani" >}}
+graph TB
+  douleur["Suspicion de douleur<br>nociceptive chez un enfant"] --> échelle("Évaluation par une<br>échelle adaptée") --> nourrisson("<b>Nourrisson</b><br>—<br>- EDIN<br>- EVENDOL<br>- DAN, NFCS") --> pec("Prise en charge<br>de la douleur")
+  style douleur stroke:#4150f5, stroke-width:1px
+  échelle --> enfant("<b>≥ 4 ans</b><br>—<br>- Échelle des visages<br>(auto-évaluation)<br>- EVENDOL") --> pec
+  échelle --> grandEnfant("<b>≥ 6 ans</b><br>—<br>- EVA pédiatrique<br>- EVENDOL") --> pec
+  échelle --> ensuite("<b>≥ 8 ans</b><br>—<br>- Échelle numérique") --> pec
+  pec --> nonmed("<b>Prise en charge<br>non médicamenteuse</b><br>—<br>- Explication<br>- Réassurance<br>- ≤ 6 mois: solution sucrée<br>- MEOPA si &gt; 1 mois<br>- Lidocaïne/prilocaïne locale")
+  pec --> med("<b>Traitements médicamenteux</b><br>—<br>- Palier 1: paracétamol, AINS<br>- Palier 2: tramadol voire codéine<br>- Palier 3: morphine, fentanyl")
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}

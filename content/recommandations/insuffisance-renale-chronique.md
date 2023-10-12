@@ -19,7 +19,7 @@ icd10 = "N18.9"
 image = true
 imageSrc = "Illustration de l'insuffisance rénale par pch.vector / Freepik"
 flowchart = true
-todo = "Albuminurie perturbée, maladie pro, aliments riches K/P (HAS2023p71), désindexation surface corp"
+todo = "Albuminurie perturbée, aliments riches K/P (HAS2023p71), désindexation surface corp"
 +++
 
 {{% article-summary %}}
@@ -315,9 +315,10 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
   - [Vitamine D cible]({{< relref "vitamine-d.md" >}}) > 75 nmol/L (*HAS 2023*)
 - Acidose métabolique < 23 mmol/L: cible 23-27 mmol/L, alimentation alcalisante voire 3-6 g/j de bicarbonate de sodium
 - Lutte contre l'hyperphosphorémie
-- Maladie professionnelle et prévention si expositions
 - Associations de patients  
   [Fondation du Rein](https://www.fondation-du-rein.org), [France Rein](https://www.francerein.org), [renaloo](https://renaloo.com), [AIRG](https://www.airg-france.fr), [Objectif Rein Santé](https://objectifreinsante.org).
+- [Reconnaissance possible en Maladie professionnelle](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&field_activites_nuisances=&field_maladies=insuffisance+r%C3%A9nale&field_numeroCAS=&mot_cles_tableau=&motsCles=&valid_RECHERCHE_MOTSCLES=Rechercher&introspection=)  
+  Expositions au plomb, mercure, solvants.
 
 ### Prise en charge de la maladie rénale chez le diabétique
 

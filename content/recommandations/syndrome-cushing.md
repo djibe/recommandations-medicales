@@ -7,7 +7,7 @@ synonyms = ["Hypercorticisme", "hypercortisolisme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-17T17:38:18+02:00"
 publishdate = "2023-05-22"
-lastmod = "2023-05-30"
+lastmod = "2023-10-12"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["PNDS"]
@@ -19,6 +19,7 @@ image = true
 imageSrc = "Syndrome de Cushing iatrogène avec visage bouffi et acné suite à 3 mois de traitement par fluticasone inhalée. Ozlem Celik, Mutlu Niyazoglu, Hikmet Soylu and Pinar Kadioglu, CC BY 2.5, via Wikimedia Commons"
 todo = "relecture Jérôme Bertherat"
 datatable = true
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -97,7 +98,7 @@ Avis endocrinologique au moindre doute clinique d'un syndrome de Cushing et nota
 
 - Répartition facio-tronculaire des graisses
 - Au moins un signe d'hypercatabolisme cutané (fragilité cutanée, ecchymoses, vergetures)
-- Hypertension artérielle avant 40 ans
+- Hypertension artérielle avant 40 ans ou résistante
 - Ostéoporose de l'homme avant 50 ans
 - Enfant: arrêt pubertaire, ralentissement de la croissance staturale avec prise de poids
 - Toute tumeur surrénalienne ou adénome hypophysaire
@@ -240,6 +241,15 @@ L'hôpital Cochin est le *Centre de référence des maladies rares de la surrén
 Le traitement du syndrome de Cushing relève exclusivement du centre de compétences et de l'étiologie du syndrome de Cushing.
 
 Traitements pouvant être utilisés: métyrapone, kétoconazole, étomidate, osildrostat, mifépristone, mitotane, cabergoline, lanréotide, octréotide, pasiréotide.
+
+{{% /collapse %}}
+{{%collapse "Prise en charge du syndrome de Cushing" "show" %}}
+
+{{< mermaid title="Prise en charge d'un syndrome de Cushing par le médecin généraliste. Dr Alaedine Benani" >}}
+graph TB
+  cushing["<b>Évoquer un syndrome de Cushing si:</b><br>—<br>- Hypertension avant 40 ans<br>ou résistante<br>- Répartition facio-tronculaire<br>des graisses<br>- ≥ 1 signe cutané d'hypercatabolisme:<br>Fragilité cutanée, ecchymoses,<br>vergetures pourpres<br>- Hirsutisme<br>- Amyotrophie proximale<br>- Ostéoporose sans cause évidente<br>- Tumeur/incidentalome surrénalien<br>- Tumeur hypophysaire<br>—<br>Enfant: arrêt pubertaire,<br>ralentissement de la croissance<br>staturale avec prise de poids"] --> bilan("<b>Bilan au choix parmi:</b><br>—<br>- Test de freinage minute<br>- Cortisol libre urinaire<br>- Cortisol salivaire (non remboursé)") -. Anomalie .-> endocrinologue(Avis endocrinologique)
+  style cushing stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
