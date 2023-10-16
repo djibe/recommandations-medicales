@@ -7,7 +7,7 @@ synonyms = ["Hyperuricémie", "arthropathie uricémique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-08T09:35:00+02:00"
 publishdate = "2021-01-08"
-lastmod = "2022-10-09"
+lastmod = "2023-10-13"
 specialites = ["rhumatologie"]
 annees = "2020"
 sources = ["SFRhumato", "ACR", "EULAR"]
@@ -19,17 +19,17 @@ image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "relecture, HAS"
+todo = "relecture"
 +++
 
 {{%article-summary%}}
 
-- Prise en charge de la crise de goutte
-  - Glaçage, paracétamol, naproxène/corticoïdes ou colchicine, forcer la diurèse
-  - Privilégier l'infiltration en monoarthrite de grosse articulation
-- Traitement de fond de la goutte
-  - Allopurinol: titration en débutant ≤ 100 mg/j avec uricémie cible < 50 mg/L et couverture colchicine 0,5 à 1 mg/j pendant les 3 à 6 premiers mois
-  - Peut être débuté pendant la crise
+- Prise en charge de la crise de goutte:
+  - glaçage, paracétamol, naproxène/corticoïdes ou colchicine, forcer la diurèse
+  - privilégier l'infiltration en monoarthrite de grosse articulation
+- Traitement de fond de la goutte:
+  - allopurinol: titration en débutant ≤ 100 mg/j avec uricémie cible < 50 mg/L et couverture colchicine 0,5 à 1 mg/j pendant les 3 à 6 premiers mois
+  - Le traitement de fond peut être débuté pendant la crise
 - Régime pauvre en purines  
   Perte de poids, arrêt de la bière, réduire alcool/sodas/jus, viandes/abats, crustacés, laits maigres, substituer un diurétique.
 - Contrôle des [facteurs de risque cardiovasculaire](/tags/risque-cardiovasculaire/)
@@ -422,6 +422,7 @@ Intérêt de colchicine prophylactique.
 {{% /collapse %}}
 {{%sources%}}
 
+- [ANSM. Prise en charge par colchicine de la goutte : une nouvelle posologie plus faible et un message d'alerte sur les boites pour réduire le risque de surdosage. 10/10/2023.](https://ansm.sante.fr/informations-de-securite/prise-en-charge-par-colchicine-de-la-goutte-une-nouvelle-posologie-plus-faible-et-un-message-dalerte-sur-les-boites-pour-reduire-le-risque-de-surdosage)
 - {{< references/esh-2023 >}}
 - Prescrire Rédaction. Crise de goutte. Premiers choix Prescrire. Mars 2021.
 - [Latourte A. et al. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.008)

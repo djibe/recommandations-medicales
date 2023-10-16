@@ -6,11 +6,11 @@ synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2023-10-05T11:12:30+02:00"
 publishdate = "2023-10-10"
-lastmod = "2023-10-12"
+lastmod = "2023-10-16"
 specialites = ["dermatologie"]
 annees = "2019"
 sources = ["SFD"]
-tags = []
+tags = ["prurit", "risque cardiovasculaire"]
 anglais = ["Psoriasis"]
 sctid = "9014002"
 icd10 = "L40.9"
@@ -25,7 +25,7 @@ todo = "PASI, EULA RPso, dépistage dépression, SAPHO"
 - Les localisations préférentielles du psoriasis sont celles de frottement: coudes, genoux, jambes, lombo-sacrée et fesses, cuir chevelu, ongles, paumes et plantes
 - La prise en charge du psoriasis comporte des mesures d'hygiène et générales: arrêt tabac et alcool, correction d'un surpoids et du risque cardiovasculaire, émollients, soutien psychologique
 - Le traitement du psoriasis comprend: {{< modal-btn modal-dc >}}dermocorticoïdes{{< /modal-btn >}} et analogues de la vitamine D combinés si nécessaire
-- Un traitement par voie générale (méthotrexate, ciclosporine, biothérapie) doit être proposé si: psoriasis > 10% de la surface corporelle, score PASI ou {{< modal-btn modal-score-dlqi >}}DLQI{{< /modal-btn >}} > 10, retentissement marqué sur la qualité de vie. Le traitement relève uniquement du dermatologue
+- Un traitement par voie générale (méthotrexate, ciclosporine, biothérapie) doit être proposé si: psoriasis > 10% de la surface corporelle (1% = 1 paume de main), score PASI ou {{< modal-btn modal-score-dlqi >}}DLQI{{< /modal-btn >}} > 10, retentissement marqué sur la qualité de vie. Le traitement relève uniquement du dermatologue
 - En cas de doute diagnostique ou de psoriasis résistant: avis du dermatologue et sérologies syphilis et VIH
 
 {{%/article-summary%}}
@@ -83,7 +83,7 @@ SFD
   - Atteinte symétrique
   - Absence de cicatrices
   - Muqueuses et phanères (ongles ++)
-  - Surface corporelle atteinte ([rappel](https://commons.wikimedia.org/wiki/File:Wallace_rule_of_nines-en.svg))
+  - Surface corporelle atteinte ([rappel](https://commons.wikimedia.org/wiki/File:Wallace_rule_of_nines-en.svg), simplement 1 paume = 1%)
   - Symptômes: prurit (60% lors des poussées), douleurs des paumes et plantes
   - Complications: eczématisation (suintement, prurit), [fissure anale]({{< relref "fissure-anale.md" >}}), [alopécie]({{< relref "alopecie.md" >}})
   - Signes associés: SAPHO (synovite, acné, pustulose, hyperostose, ostéite)
@@ -171,7 +171,7 @@ Compléter le bilan cardiovasculaire avec bilan lipidique et glycémie à jeun.
 
 La prise en charge et les traitements du psoriasis réduisent l'intensité des lésions et améliorent la qualité de vie mais sont suspensifs.
 
-Mesures générales pour la prise en charge du psoriasis:
+### Mesures générales de prise en charge du psoriasis
 
 - Substituer un traitement possiblement inducteur (bêtabloquant, IEC, lithium)
 - Correction de facteurs aggravants
@@ -241,8 +241,8 @@ Les traitements systémiques relèvent uniquement du dermatologue:
 - Rétinoïde (acitrétine)
 - Immunomodulateur: **[méthotrexate]({{< relref "methotrexate.md" >}})** > ciclosporine > aprémilast (Otezla®)
 - Biothérapie
-  - Anti-TNFα: étanercept, infliximab, **adalimumab**, certolizumab
-  - IL-12 et IL-23: **ustékinumab**
+  - Anti-TNFα: étanercept, infliximab, **adalimumab** ({{< traitements/adalimumab >}}), certolizumab
+  - IL-12 et IL-23: **ustékinumab** (Stelara®)
   - IL-17: sécukinumab, ixékizumab, brodalumab, bimékizumab
   - IL-23: guselkumab, rizankizumab, tildrakizumab
 

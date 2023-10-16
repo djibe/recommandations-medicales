@@ -243,7 +243,7 @@ Les biothérapies sont utilisées en 2<sup>e</sup> intention.
 En association avec le méthotrexate (≥ 10 mg/semaine), selon la tolérance, parmi:
 
 - **Anti-TNFα**
-  - Sous-cutanés: adalimumab (Humira® ou Amgevita®, Hulio®, Amsparity®, Hyrimoz®, Idacio®, Imraldi®, Yuflyma®), certolizumab (Cimzia®), étanercept (Benepali®, Enbrel® ou Erelzi®, Nepexto®), golimumab (Simponi®)
+  - Sous-cutanés: adalimumab ({{< traitements/adalimumab >}}), certolizumab (Cimzia®), étanercept (Benepali®, Enbrel® ou Erelzi®, Nepexto®), golimumab (Simponi®)
   - IV: infliximab (Remicade® ou Flixabi®, Inflextra®, Remsima®, Zessly®)
 - Anti-IL6
   - Sarilumab (Kevzara®), tocilizumab (Roactemra®)

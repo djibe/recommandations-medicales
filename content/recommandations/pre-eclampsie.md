@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-18T17:12:47+02:00"
 publishdate = "2023-09-19"
-lastmod = "2023-10-12"
+lastmod = "2023-10-14"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "SFAR", "USPTF"]
@@ -171,6 +171,8 @@ Pré-éclampsie avec au moins un critère de sévérité parmi:
 
 > La découverte d'un retard de croissance intra-utérin d'allure vasculaire doit faire rechercher une pré-éclampsie.
 
+> << La prescription de tests de dépistage de la pré-éclampsie (PE) au premier trimestre de la grossesse en pratique courante n'est actuellement pas recommandée >> – *CNGOF 2020*
+
 {{% /collapse %}}
 {{%collapse "Prévention de la pré-éclampsie" %}}
 
@@ -224,6 +226,7 @@ Pour une pré-éclampsie sévère entre 24 et 34 SA sans signes de gravité mate
 - [US Preventive Services Task Force. Aspirin Use to Prevent Preeclampsia and Related Morbidity and Mortality: US Preventive Services Task Force Recommendation Statement. JAMA. 2021.](https://jamanetwork.com/journals/jama/fullarticle/2784499)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Item 344 Prise en charge d'une patiente atteinte de prééclampsie. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [Bonnet MP et al; SFAR, CNGOF. Prise en charge de la patiente avec une pré-éclampsie sévère. Recommandations Formalisées d'Experts. 2020.](http://www.cngof.net/Publications-CNGOF/Pratique-clinique/RPC%20COLLEGE/2020/RFE%20pre-eclampsie_2020.pdf)
+- [CNGOF. Dépistage de la pré-eclampsie. Juin 2020. (PDF)](https://cngof.fr/app/uploads/2023/06/Depistage-pre-eclampsie-CNGOF-Juin-2020.pdf?x53169)
 - [Inserm. Pré-éclampsie. 30/11/2018.](https://www.inserm.fr/dossier/pre-eclampsie/)
 - [SFHTA. HTA et grossesse. Consensus d'experts. 2015. (PDF)](https://sfhta.eu/wp-content/uploads/2017/03/Consensus-dexperts-HTA-et-Grossesse-de-la-SFHTA-Dec.-2015.pdf)
 

@@ -204,6 +204,7 @@ Dr ...
 
 ### Bibliographie en attente
 
+- [Baldwin D et al; British Association for Psychopharmacology. Benzodiazepines: Risks and benefits. A reconsideration. 2013. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Benzodiazepines.pdf)
 [NICE](https://www.nice.org.uk/guidance/ng215/resources)
 
 {{%/sources%}}

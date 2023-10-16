@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-28T16:02:04+02:00"
 publishdate = "2023-10-02"
-lastmod = "2023-10-09"
+lastmod = "2023-10-14"
 specialites = ["gynecologie-obstetrique"]
 annees = "2023"
 sources = ["ESHRE", "AFU", "CNGOF"]
@@ -85,9 +85,9 @@ SALF
 
 ### Fertilité selon l'âge de la femme
 
-La fertilité est maximale avant 25 ans, diminue dès 31 ans, chute après 35 ans, dépasse 50% à partir de 40 ans et devient quasi nulle à 45 ans.
+La fertilité est maximale avant 25 ans, diminue dès 31 ans, chute après 35 ans, dépasse 50% à partir de 40 ans et devient quasi nulle à 45 ans (où la grossesse devient à très haut risque).
 
-En *AMP* les chances de grossesse avec naissance vivante sont très diminuées à partir de 40 ans et quasi nulles à partir de 43 ans.
+En *AMP* les chances de grossesse avec naissance vivante sont très diminuées à partir de 40 ans et quasi nulles à partir de 43 ans. L'Assurance Maladie prend en charge l'AMP jusqu'au premier jour des 43 ans.
 
 Chaque femme a une réserve ovarienne différente, maximale à la naissance.
 
@@ -128,6 +128,8 @@ const chartOptions = {
 L'âge paternel réduit la fertilité spontanée, allonge le délai de conception et augmente le risque de fausses couches spontanées (FCS). Les risques obstétricaux, néonataux et malformatifs (dont trisomie 21) augmentent également avec son âge.
 
 Les résultats des traitements de l'infertilité diminuent avec l'âge de l'homme.
+
+L'Assurance Maladie prend en charge les frais d'AMP pour les hommes jusqu'à 60 ans.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -251,6 +253,7 @@ En centre spécialisé, différents traitements sont possibles: citrate de clomi
 
 - [Guideline Group on Unexplained Infertility, Romualdi D, Ata B, et al. Evidence-based guideline: unexplained infertility. Hum Reprod. 2023.](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/dead150/7246182)
 - [Huyghe E et al. Recommandations de l'AFU et de la SALF concernant l'évaluation de l'homme infertile. Prog Urol. 2021.](https://www.urofrance.org/recommandation/recommandations-de-lafu-et-de-la-salf-concernant-levaluation-de-lhomme-infertile/)
+- [CNGOF. Avis du CNGOF en matière de conditions d'âge. 07/02/2021. (PDF)](https://cngof.fr/app/uploads/2023/06/AMP-Avis-CNGOF-limites-age-07-02-21.pdf?x53169)
 - [Boitrelle F et al. The Sixth Edition of the WHO Manual for Human Semen Analysis: A Critical Review and SWOT Analysis. Life (Basel). 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8706130/)
 - [World Health Organization. WHO laboratory manual for the examination and processing of human semen, 6th ed. World Health Organization. 2021.](https://www.who.int/publications/i/item/9789240030787)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Item 38 Infertilité du couple : conduite de la première consultation . Gynécologie obstétrique Réussir son DFASM. 2021.

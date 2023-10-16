@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2023-02-13"
+lastmod = "2023-10-14"
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -661,18 +661,19 @@ const chartOptions = {
 {{%sources%}}
 
 - [Ameli Medecin. Le point sur les préservatifs pris en charge sans prescription pour les moins de 26 ans. 03/01/2023.](https://www.ameli.fr/medecin/actualites/le-point-sur-les-preservatifs-pris-en-charge-sans-prescription-pour-les-moins-de-26-ans)
+- [Collège Français des Enseignants en Urologie (CFEU). Contraception. Item 36. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-36-Contraception-.pdf)
 - [HAS. Contraception : consultations initiale et de suivi. Mars 2020.](https://www.has-sante.fr/jcms/p_3122291/fr/contraception-consultations-initiale-et-de-suivi)
 - [HAS. Contraception : prescriptions et conseils aux femmes. Septembre 2019.](https://www.has-sante.fr/jcms/c_1752432/fr/contraception-prescriptions-et-conseils-aux-femmes)
 - [HAS. Contraception chez la femme à risque cardiovasculaire. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1638478/fr/contraception-chez-la-femme-a-risque-cardiovasculaire)
 - [HAS. Contraception chez la femme en post-partum. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1369193/fr/contraception-chez-la-femme-en-post-partum)
 - [HAS. Contraception : prescriptions et conseils aux femmes. Recommander les bonnes pratiques. Juillet 2019. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-02/1e_maj_contraception_prescription-conseil-femmes-060215.pdf)
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/app/pdf/RPC//1-RPC%20DU%20CNGOF/2018/CNGOF_RPC_2018-CONTRACEPTION.pdf?x72671)
+- [Robin F et al; CNGOF. Faut-il vraiment avoir peur de la pilule contraceptive ? 2017. (PDF)](https://cngof.fr/app/uploads/2023/06/piluleCNGOF-2017-09.pdf?x53169)
 - CNGOF. Contraception du post-partum : recommandations pour la pratique clinique.
 - [HAS. Contraception : focus sur les méthodes efficaces. Actualités & Pratiques. Mai 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-05/contraception_focus_methodes_2013-05-22_18-09-35_548.pdf)
 
 ### Bibliographie en attente
 
-- [Collège Français des Enseignants en Urologie (CFEU). Contraception. Item 36. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-36-Contraception-.pdf)
 - [HAS. Stérilisation à visée contraceptive chez l'homme et chez la femme. Septembre 2019.](https://www.has-sante.fr/jcms/c_1752765/fr/sterilisation-a-visee-contraceptive-chez-l-homme-et-chez-la-femme)
 - [HAS. Contraception chez l'homme. Septembre 2019.](https://www.has-sante.fr/jcms/c_1757909/fr/contraception-chez-l-homme)
 - [HAS. Efficacité des méthodes contraceptives. 2014.](https://www.has-sante.fr/jcms/c_1757924/fr/efficacite-des-methodes-contraceptives)

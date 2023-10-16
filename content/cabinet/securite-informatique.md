@@ -33,7 +33,7 @@ Les logiciels présentés plus bas peuvent être installés avec **WingetUI**.
 L'antivirus par défaut de Windows, **Microsoft Defender** assure une protection efficace.  
 Il faut néanmoins s'assurer qu'il est bien actif: dans le menu Démarrer, tapez << Sécurité Windows >> et cliquer sur l'application correspondante. Aller dans **Protection contre les virus et les menaces** et vérifier que tous les modules sont activés.
 
-Antivirus gratuits alternatifs: Avast Free, AVG Free, Bitdefender Free. Les mêmes antivirus gratuits sont recommandés sur le téléphone portable (disponibles depuis **WingetUI**).
+Antivirus gratuits alternatifs: Avast Free, AVG Free, Bitdefender Free. Les mêmes antivirus gratuits sont recommandés sur le téléphone portable (disponibles depuis **WingetUI**). Malwarebytes Antimalware est également intéressant pour faire des scans occasionnels.
 
 Antivirus payants de haute protection: Avira, Bitdefender, GDATA, McAfee.
 

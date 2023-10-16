@@ -328,7 +328,7 @@ Réduction et espacement en rémission stable et prolongée.
 #### Classes thérapeutiques
 
 - Anti-TNFα
-  - Adalimumab (Humira® ou biosimilaires Amgevita®, Hulio®, Hyrimoz®, Idacio®, Imraldi®)
+  - Adalimumab ({{< traitements/adalimumab >}})
   - Certolizumab (Cimzia®)
   - Étanercept (Enbrel® ou biosimilaires Benepali®, Erelzi®)
   - Golimumab (Simponi®)

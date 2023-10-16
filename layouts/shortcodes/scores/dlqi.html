@@ -1,6 +1,6 @@
 <!-- TODO: invert order -->
 <div class="mt-4" id="score-DLQI">
-  <h3 class="card-title">Score DLQI</h3>
+  <h3 class="card-title">Score DLQI - Dermatology Life Quality Index</h3>
   <p class="card-subtitle">Score <abbr title="Dermatology Life Quality Index" lang="en">DLQI</abbr> (<span lang="en">Dermatology Life Quality Index</span>) pour le retentissement d'une dermatose sur la qualité de vie</p>
   <p>Au cours des 7 derniers jours:</p>
   <fieldset>
@@ -127,7 +127,7 @@
   </div>
 </div>
 <blockquote class="mt-4">
-  <p><a href="https://www.sfdermato.org/page-27-scores-et-echelles" rel="external nofollow noopener">Société Française de Dermatologie, "DLQI – Dermatology Life Quality Index".</a>
+  <p><a href="https://pubmed.ncbi.nlm.nih.gov/8033378/" rel="external nofollow noopener">Finlay AY, Khan GK. Dermatology Life Quality Index (DLQI)--a simple practical measure for routine clinical use. Clin Exp Dermatol. 1994.</a>
   </p>
 </blockquote>
 {{ $script := `
@@ -146,9 +146,9 @@
           if (score <= 1) {
             textDLQI.innerHTML = "Absence d'impact sur la vie quotidienne"
           } else if (score >= 2 && score <= 10) {
-            textDLQI.innerHTML = 'Gravité faible a modérée'
+            textDLQI.innerHTML = 'Effet faible à modéré sur la vie du patient'
           } else if (score >= 11) {
-            textDLQI.innerHTML = 'Gravité sévère'
+            textDLQI.innerHTML = 'Effet important ou extrêmement important'
           }
         } else {
           textDLQI.innerHTML = 'Veuillez répondre à toutes les questions'

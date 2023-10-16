@@ -392,7 +392,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 - [INCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
 - [INCa. Prothèses mammaires et risque de cancer. Avril 2019.](https://www.e-cancer.fr/Comprendre-prevenir-depister/Reduire-les-risques-de-cancer/Protheses-mammaires)
 - [INCa. Cancer du sein - Quelles modalités de dépistage, pour quelles femmes ? Janvier 2018.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-du-sein-Quelles-modalites-de-depistage-pour-quelles-femmes)
-- CNGOF. Cancers du sein : les patientes dans la tourmente. 2017. (PDF)
+- [CNGOF. Cancers du sein : les patientes dans la tourmente. 2017. (PDF)](https://cngof.fr/app/uploads/2023/06/K-SEIN-2017_compressed_1pdf.io_.pdf?x53169)
 - [HAS. Dépistage et prévention du cancer du sein. Février 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
 
 ### Bibliographie en attente

@@ -16,10 +16,14 @@ style = "thead > tr > th:first-of-type {width: 110px}"
 todo = "FS exemple frottis, MD, jour férié, IK, routexl, MPH aussi quand change de MT ?"
 +++
 
-En attendant un outil plus performant sur *RecoMédicales*, *OMNIPrat* permet de retrouver ses petits pour la cotation des actes en médecine générale (NGAP = Nomenclature Générale des Actes Professionnels)
+Liste des codes pour les actes et les consultations en médecine générale.
 {.lead}
 
-{{< card-link-external title="Outil d'aide à la cotation et le remplissage des feuilles de soins" url="https://omniprat.org/cotation/" subtitle="OMNIprat">}}
+Les outils *OMNIPrat* et *CotaMG* permettent aux jeunes médecins d'apprendre à compléter les feuilles de soins et de connaître la cotation des actes en médecine générale (*NGAP* = Nomenclature Générale des Actes Professionnels)
+
+{{< card-link-external title="Outil d'aide à la cotation et au remplissage des feuilles de soins" url="https://omniprat.org/cotation/" subtitle="OMNIprat">}}
+
+{{< card-link-external title="Outil d'aide à la cotation et au remplissage des feuilles de soins" url="https://www.cotamg.fr/" subtitle="CotaMG">}}
 
 ## Les nouvelles cotations 2023
 

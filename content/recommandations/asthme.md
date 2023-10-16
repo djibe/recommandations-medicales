@@ -24,7 +24,7 @@ todo = "doses Symbicort turbuhaler, CSI + ARL, plan d'action, Prescrire asthme f
 {{%article-summary%}}
 
 - Bannir le terme de << bronchite asthmatiforme >>, l'asthme est une maladie chronique
-- Éviction du tabac et cigarette électronique
+- Éviction du tabac et de la cigarette électronique
 - Diagnostic de certitude de l'asthme par symptômes évocateurs répétés et EFR concluantes
 - Maîtrise de l'asthme: {{< modal-btn modal-score-act >}}questionnaire *ACT™*{{< /modal-btn >}} à chaque consultation et appli [Asthm'Activ](https://play.google.com/store/apps/details?id=com.sophia.asthme), [Effic'Asthme](https://play.google.com/store/apps/details?id=fr.parisdescartes.efficasthme&hl=fr&gl=US)
 - Le débit expiratoire de pointe (DEP) est toujours répété 3 fois de suite
@@ -32,9 +32,9 @@ todo = "doses Symbicort turbuhaler, CSI + ARL, plan d'action, Prescrire asthme f
 - 80% ne savent pas utiliser l'inhalateur (*GINA 2022*)
 - Le plan d'action doit être écrit
 - Jamais de {{< modal-btn modal-ttt-baca >}}bronchodilatateur de courte durée{{< /modal-btn >}} seul
-- Traitement de crise de l'asthme: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide{{< /modal-btn >}}
-- Traitements de fond de l'asthme: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous. Ou en asthme parfaitement contrôlé sans traitement {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide{{< /modal-btn >}} en cas de symptômes. {{< modal-btn modal-vaccin-pneumocoque >}}Vaccin pneumocoque{{< /modal-btn >}} et grippe si en ALD
-- Décroissance: par paliers de 25-50% si parfaitement contrôlé 2-3 mois jusqu'à {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide{{< /modal-btn >}} en cas de symptômes
+- Traitement de crise de l'asthme: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} (béclométasone ou budésonide)
+- Traitements de fond de l'asthme: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous. Ou en asthme parfaitement contrôlé sans traitement {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} en cas de symptômes. Si ALD: {{< modal-btn modal-vaccin-pneumocoque >}}vaccins pneumocoque{{< /modal-btn >}} et grippe
+- Décroissance: par paliers de 25-50% si parfaitement contrôlé 2-3 mois jusqu'à {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} en cas de symptômes
 - [PAI de l'asthme en PDF](https://eduscol.education.fr/document/7751/download)
 
 {{%/article-summary%}}
@@ -254,6 +254,8 @@ Réévaluer l'efficacité du traitement initial à 2-3 mois.
 
 ### Interrogatoire
 
+Interrogatoire policier pour rechercher des signes et symptômes d'asthme:
+
 - Antécédents
   - **Allergiques**  
     Pollens, poussières, poils d'animaux, humidité-moisissures, acariens (tapis-moquettes), sulfites, insectes, substances végétales.
@@ -362,12 +364,12 @@ Reconnaissance de la crise d'asthme par le patient et application du *plan d'act
 </div>
 <div class="card card-body my-2">
   <h4 class="card-title">Traitement de fond</h4>
-  <p>Budésonide/formotérol 200/6 à la demande</p>
+  <p>CSI/formotérol 200/6 à la demande</p>
 </div>
 <div class="card card-body my-2">
   <h4 class="card-title">Exacerbation d'asthme</h4>
   <p class="card-subtitle">Utilisation fréquente du traitement de secours, réveil avec asthme, activités habituelles impossibles. Augmentation pendant 1-2 semaines.</p>
-  <p>Budésonide/formotérol à la demande</p>
+  <p>CSI/formotérol à la demande</p>
 </div>
 <div class="card card-body my-2">
   <h4 class="card-title">Exacerbation sévère</h4>
@@ -409,7 +411,7 @@ Le *Plan d'action* doit préciser:
 
 Il peut reposer sur les symptômes ou sur le DEP (adulte uniquement):
 
-- Augmenter le médicament de secours: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide faible dose{{< /modal-btn >}}  
+- Augmenter le médicament de secours: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI faible dose{{< /modal-btn >}}  
 Utiliser une chambre d'inhalation si adaptable sur le dispositif.
 - Augmenter le traitement de contrôle en cours:
   - {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}}: quadrupler la dose
@@ -426,7 +428,7 @@ Consultation de suivi dans la semaine qui suit l'exacerbation.
 {.alert .alert-info}
 
 {{% /collapse %}}
-{{%collapse "Traitement de fond de l'asthme" %}}
+{{%collapse "Traitement de fond de l'asthme" "show" %}}
 
 {{%info%}}
 Demander à être suivi par le service **Sophia** de l'Assurance Maladie: {{<phone>}}0 809 400 040{{</phone>}}
@@ -436,65 +438,50 @@ Les corticoïdes inhalés (CSI) réduisent de façon marquée la fréquence et l
 
 Confirmer le diagnostic avant de démarrer un traitement, puis instaurer rapidement un traitement par CSI.
 
-### Stratégie de traitement de l'asthme selon GINA
+### Stratégie de traitement de l'asthme à partir de 12 ans selon GINA 2023
 
 <div class="card card-hover my-3 my-xl-5">
-<nav class="mb-4">
-  <div class="nav nav-tabs nav-justified" role="tablist">
-    <a class="nav-item nav-link" id="nav-tab-stade1" data-toggle="tab" href="#nav-asthme-stade1" role="tab" aria-controls="nav-asthme-stade1" aria-selected="true">Stade 1</a>
-    <a class="nav-item nav-link active" id="nav-tab-stade2" data-toggle="tab" href="#nav-asthme-stade2" role="tab" aria-controls="nav-asthme-stade2" aria-selected="false">Stade 2</a>
-    <a class="nav-item nav-link" id="nav-tab-stade3" data-toggle="tab" href="#nav-asthme-stade3" role="tab" aria-controls="nav-asthme-stade3" aria-selected="false">Stade 3</a>
-    <a class="nav-item nav-link" id="nav-tab-stade4" data-toggle="tab" href="#nav-asthme-stade4" role="tab" aria-controls="nav-asthme-stade4" aria-selected="false">Stade 4</a>
-    <a class="nav-item nav-link" id="nav-tab-stade5" data-toggle="tab" href="#nav-asthme-stade5" role="tab" aria-controls="nav-asthme-stade5" aria-selected="false">Stade 5</a>
-  </div>
-</nav>
-<div class="card-body tab-content">
-  <div class="tab-pane fade" id="nav-asthme-stade1" role="tabpanel" aria-labelledby="nav-tab-stade1">
-    <div class="alert alert-warning mb-4">Traitement envisageable uniquement en cas de symptômes &lt; 2 fois/mois sans aucun facteur de risque d'exacerbation</div>
-    <p><a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">Formotérol + budésonide faible dose</a> uniquement en cas de symptôme.</p>
-  </div>
-  <div class="tab-pane fade show active" id="nav-asthme-stade2" role="tabpanel" aria-labelledby="nav-tab-stade2">
-    <div class="alert alert-info">Traitement de référence
-    <ul><li><a data-toggle="modal" href="#modal-ttt-csi" role="button">CSI faible dose</a> au quotidien</li>
-    <li><a data-toggle="modal" href="#modal-ttt-baca" role="button">BACA</a> au besoin</li></ul>
-    </div>
-    <p>Préférer le <em>Schéma alternatif</em> en cas de mauvaise observance.</p>
-    <p>NB. Asthme exclusivement provoqué par les allergies saisonnières: <em>Traitement de référence</em> et arrêt du CSI 4 semaines après la fin de l'exposition aux pollens.</p>
-    <hr>
-    <p><b>Schéma alternatif (à partir de 12 ans):</b></p>
-    <p><a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">Formotérol + budésonide faible dose</a> uniquement en cas de symptôme.</p>
+  <ul class="nav nav-tabs nav-justified mb-4" role="tablist">
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-stade1" data-toggle="tab" href="#nav-asthme-stade1" role="tab" aria-controls="nav-asthme-stade1" aria-selected="true">Niveau 1 et 2</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade3" data-toggle="tab" href="#nav-asthme-stade3" role="tab" aria-controls="nav-asthme-stade3" aria-selected="false">Niveau 3</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade4" data-toggle="tab" href="#nav-asthme-stade4" role="tab" aria-controls="nav-asthme-stade4" aria-selected="false">Niveau 4</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade5" data-toggle="tab" href="#nav-asthme-stade5" role="tab" aria-controls="nav-asthme-stade5" aria-selected="false">Niveau 5</button></li>
+  </ul>
+  <div class="card-body tab-content">
+  <div class="tab-pane fade show active" id="nav-asthme-stade1" role="tabpanel" aria-labelledby="nav-tab-stade1">
+
+  {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) faible dose **en cas de besoin**
+
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade3" role="tabpanel" aria-labelledby="nav-tab-stade3">
-    <ul><li><a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">CSI + LABA faible dose</a> au quotidien</li>
-    <li><a data-toggle="modal" href="#modal-ttt-baca">BACA</a> au besoin <br>Si insuffisant: remplacer par <a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">Formotérol + budésonide ou béclométasone faible dose</a>
-    </li></ul>
-    <hr>
-    <p class="font-weight-bold">Traitements alternatifs</p>
-    <ul><li><a data-toggle="modal" href="#modal-ttt-csi" role="button">CSI dose moyenne</a></li>
-    <li>CSI + ARL faible dose</li></ul>
-    <p>Désensibilisation en cas de d'allergie aux acariens.</p>
-    <hr>
-    <p class="font-weight-bold">Enfant de 6 à 11 ans</p>
-    <ul><li><a data-toggle="modal" href="#modal-ttt-csi" role="button">CSI dose moyenne</a></li>
-    <li>ou <a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">CSI + LABA faible dose</a></li></ul>
+
+  {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) **faible dose** en traitement de fond et de secours
+
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade4" role="tabpanel" aria-labelledby="nav-tab-stade4">
-    <ul><li><a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">CSI + formotérol faible dose</a> en traitement de fond ET de secours</li>
-    <li>ou <a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">CSI + LABA dose moyenne</a> + <a data-toggle="modal" href="#modal-ttt-baca" role="button">BACA</a> au besoin</li></ul>
+
+  {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) **dose moyenne** en traitement de fond et de secours
+
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade5" role="tabpanel" aria-labelledby="nav-tab-stade5">
-    Stade 5 = suivi en centre de référence de l'asthme uniquement
+
+  Stade 5 = suivi en centre de référence de l'asthme uniquement
+
+  Ajouter un {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}
+
+  Considérer un traitement de fond par {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) **forte dose** en traitement de fond et de secours
+
   </div>
 </div>
 </div>
 
-### Mesures générales
+### Mesures générales de prise en charge de l'asthme
 
 - Enfant: Projet d'accueil individualisé pour l'asthme ([PAI en PDF](https://eduscol.education.fr/document/7751/download))
 - Suivi médical
   - tous les 3 à 12 mois
   - Par pneumologue quand asthme non contrôlé, exacerbations répétées (> 2/an) ou patient fumeur
-  - En centre spécialisé de l'asthme quand asthme sévère non contrôlé
+  - En *centre spécialisé de l'asthme* quand asthme sévère non contrôlé
 - **Maîtrise de l'asthme**
   - Sevrage tabagique total
   - Toutes les mesures du *Contrôle de l'asthme* (voir partie dédiée plus haut)
@@ -518,7 +505,7 @@ Confirmer le diagnostic avant de démarrer un traitement, puis instaurer rapidem
 
 #### Asthme et ALD
 
-Conditions de prise en charge à 100% de l'asthme par l'ALD 14:
+Conditions de prise en charge à 100% de l'asthme par l'[ALD 14]({{< relref "affection-longue-duree.md" >}}):
 
 - Adulte: asthme persistant sévère
   - Symptômes permanents, exacerbations fréquentes, asthme nocturne fréquent ou activité physique limitée par les symptômes
@@ -600,10 +587,10 @@ La prescription dépend uniquement du pneumologue:
 ### Bibliographie en attente
 
 - [SPLF. Plans d'action de l'asthme](https://splf.fr/plans-daction-dans-lasthme/)
-- [NICE. Asthma inhalers and climate change. 2022. (PDF)](https://www.nice.org.uk/guidance/ng80/resources/inhalers-for-asthma-patient-decision-aid-pdf-6727144573)
+- [Papi A et al. European Respiratory Society Short Guidelines for the use of as-needed ICS/formoterol in mild Asthma. European Respiratory Journal. 2023.](https://erj.ersjournals.com/content/early/2023/08/31/13993003.00047-2023)
+- [Louis R et al. European Respiratory Society Guidelines for the Diagnosis of Asthma in Adults. European Respiratory Journal. 2022.](https://erj.ersjournals.com/content/early/2022/02/03/13993003.01585-2021)
 - [Collège de la Médecine Générale (CMG). Asthme de l'adulte et de l'enfant de plus de 12 ans : prévenir les exacerbations. 2021. (PDF)](https://lecmg.fr/wp-content/uploads/2021/05/Asthme-de-ladulte-et-de-lenfant-2021.pdf)
 - [Inserm. Asthme : Portraits-robots des personnes à risque. 10/10/2022.](https://www.inserm.fr/actualite/asthme-portraits-robots-des-personnes-a-risque/)
-- [Louis R et al. European Respiratory Society Guidelines for the Diagnosis of Asthma in Adults. European Respiratory Journal. 2022.](https://erj.ersjournals.com/content/early/2022/02/03/13993003.01585-2021)
 - [Raherison-Semjen C et al. Mise à jour des recommandations (2021) pour la prise en charge et le suivi des patients asthmatiques adultes sous l'égide de la Société de pneumologie de langue française (SPLF) et de la Société pédiatrique de pneumologie et allergologie (SP2A). Version longue. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/recos-asthme-adultes-2021-version-longue.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Asthme. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/asthme)
 - [Société Française de Pédiatrie. Asthme.](https://www.sfpediatrie.com/ressources/pathologies/asthme-du-nourrisson)
@@ -616,7 +603,7 @@ La prescription dépend uniquement du pneumologue:
 {{< traitements/baca >}}
 
 {{% /modal %}}
-{{% modal title="Corticoïdes inhalés" id="modal-ttt-csi"%}}
+{{% modal title="Corticostéroïdes inhalés" id="modal-ttt-csi"%}}
 
 {{< traitements/csi >}}
 
@@ -624,6 +611,11 @@ La prescription dépend uniquement du pneumologue:
 {{% modal title="LABA + CSI inhalés" id="modal-ttt-laba-csi"%}}
 
 {{< traitements/laba-csi >}}
+
+{{% /modal %}}
+{{% modal title="LAMA inhalés" id="modal-ttt-lama"%}}
+
+{{< traitements/lama >}}
 
 {{% /modal %}}
 {{% modal title="Asthma Control Test" id="modal-score-act"%}}

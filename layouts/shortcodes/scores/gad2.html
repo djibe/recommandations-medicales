@@ -1,0 +1,56 @@
+<div class="mt-4" id="score-gad2">
+  <p>Le score <dfn><abbr title="Generalized Anxiety Disorder 2-item" lang="en">GAD-2</abbr></dfn> (<span lang="en">Generalized Anxiety Disorder-2</span>) pour l’évaluation d’un adulte présentant des symptômes anxieux.</p>
+  <p>Pas de différence significative avec le GAD-7 en soins primaires.</p>
+  <p>Au cours des 2 dernières semaines, à quelle fréquence avez-vous été gêné(e) par les problèmes suivants&nbsp;?</p>
+  <fieldset>
+    <legend>1. Sentiment de nervosité, d’anxiété ou de tension</legend>
+    <input type="radio" id="gad2-11" name="radio-gad2-1" class="d-input-none" value="0" required>
+    <label for="gad2-11" class="chip chip-action chip-sm chip-choice">Jamais</label>
+    <input type="radio" id="gad2-12" name="radio-gad2-1" class="d-input-none" value="1">
+    <label for="gad2-12" class="chip chip-action chip-sm chip-choice">Plusieurs jours</label>
+    <input type="radio" id="gad2-13" name="radio-gad2-1" class="d-input-none" value="2">
+    <label for="gad2-13" class="chip chip-action chip-sm chip-choice">Plus de la moitié des jours</label>
+    <input type="radio" id="gad2-14" name="radio-gad2-1" class="d-input-none" value="3">
+    <label for="gad2-14" class="chip chip-action chip-sm chip-choice">Presque tous les jours</label>
+  </fieldset>
+  <fieldset>
+    <legend>2. Incapable d’arrêter de vous inquiéter ou de contrôler vos inquiétudes</legend>
+    <input type="radio" id="gad2-21" name="radio-gad2-2" class="d-input-none" value="0" required>
+    <label for="gad2-21" class="chip chip-action chip-sm chip-choice">Jamais</label>
+    <input type="radio" id="gad2-22" name="radio-gad2-2" class="d-input-none" value="1">
+    <label for="gad2-22" class="chip chip-action chip-sm chip-choice">Plusieurs jours</label>
+    <input type="radio" id="gad2-23" name="radio-gad2-2" class="d-input-none" value="2">
+    <label for="gad2-23" class="chip chip-action chip-sm chip-choice">Plus de la moitié des jours</label>
+    <input type="radio" id="gad2-24" name="radio-gad2-2" class="d-input-none" value="3">
+    <label for="gad2-24" class="chip chip-action chip-sm chip-choice">Presque tous les jours</label>
+  </fieldset>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline score-output-title">Score GAD-2</p>
+      <output class="score-output" id="gad2Score">0</output>
+    </div>
+    <p id="gad2Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</div>
+<blockquote class="blockquote my-4">
+  <p>Score ≥ 3: sensibilité de 86% et spécificité de 83% pour le diagnostic de trouble anxieux généralisé.</p>
+  <p class="mb-0" lang="en"><a href="https://pubmed.ncbi.nlm.nih.gov/17339617/" rel="external nofollow noopener">Kroenke K, Spitzer RL, Williams JB, Monahan PO, Löwe B. Anxiety disorders in primary care: prevalence, impairment, comorbidity, and detection. Ann Intern Med. 2007;146(5):317-325. doi:10.7326/0003-4819-146-5-200703060-00004</a></p>
+</blockquote>
+{{ $script := `
+  // Score GAD-2 by djibe
+  window.addEventListener( 'load', event => {
+    const scoregad2 = document.getElementById('gad2Score')
+    const textgad2 = document.getElementById('gad2Text');
+    [...document.querySelectorAll('#score-gad2 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcgad2() ) })
+    const calcgad2 = () => {
+      let score = 0
+      const checkedElems = document.querySelectorAll('#score-gad2 input[type=\"radio\"]:checked')
+      if (checkedElems.length === 2) {
+        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
+        scoregad2.innerHTML = score
+        if (score <= 2) { textgad2.innerHTML = "Absence de TAG" }
+        else if (score >= 3) { textgad2.innerHTML = "Trouble anxieux généralisé très probable" }
+      }
+    }
+  })` }}
+<script type="module">{{ $script | safeJS }}</script>

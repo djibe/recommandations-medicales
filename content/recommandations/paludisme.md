@@ -254,7 +254,7 @@ Les mesures de protection contre les piqûres d'insectes sont toujours associée
 
 ### Les vaccins contre le paludisme
 
-Deux vaccins contre le paludisme existent (RTS,S et R21/Matrix-M), dont le premier est recommandé l'OMS pour les enfants résidant en zone de moyenne et haute endémicité
+Deux vaccins contre le paludisme existent (RTS,S et R21/Matrix-M), recommandés par l'OMS pour les enfants résidant en zone de moyenne et haute endémicité
 {.alert .alert-info}
 
 ### Atovaquone-proguanil

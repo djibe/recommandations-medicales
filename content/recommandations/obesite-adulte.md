@@ -130,7 +130,7 @@ const chartOptions2 = {
   chart: { type: 'line', height: 256 },
   markers: { size: 4 },
   stroke: { colors: ['#4150f5', '#ffa600', '#af34dc', '#e800ba', '#ff0094', '#ff2b6e'], curve: 'smooth', width: 4 },
-  title: { text: 'Prévalence de l\'obésité selon l\'âge' },
+  title: { text: 'Prévalence de l’obésité selon l’âge' },
   xaxis: { categories: [1997, 2000, 2003, 2006, 2009, 2012, 2020] },
   yaxis: [
     {

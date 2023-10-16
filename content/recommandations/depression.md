@@ -104,7 +104,7 @@ Cotation TODO:
 ### Bibliographie en attente
 
 - MonParcoursPsy
-- College. Troubles de l'humeur Épisode dépressif caractérisé et trouble dépressif récurrent de l'adolescent et de l'adulte. 2021.
+- Collège National Universitaire de Psychiatrie (CNUP). Troubles de l'humeur Épisode dépressif caractérisé et trouble dépressif récurrent de l'adolescent et de l'adulte. 2021.
 - [HAS. Dépression](https://www.has-sante.fr/jcms/p_3261767/fr/depression)
 - [US Preventive Services Task Force, Barry MJ et al. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2023.9297)
 - [US Preventive Services Task Force. Screening for Depression and Suicide Risk in Children and Adolescents: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2797145)
@@ -118,6 +118,10 @@ Cotation TODO:
 - Prescrire
 - <https://www.academie-medecine.fr/efficacite-et-tolerance-de-lelectroconvulsivotherapie-en-psychiatrie-une-mise-au-point/>
 - <https://www.ameli.fr/medecin/sante-prevention/sante-mentale-soins-primaires>
+- <https://www.bap.org.uk/pdfs/PS04-19-antidepressants-and-depression.pdf>
+- Bipo: <https://www.bap.org.uk/pdfs/BAP_Guidelines-Bipolar.pdf>
+- <https://www.bap.org.uk/pdfs/BAP_Guidelines-Antidepressants.pdf>
+- Bipo HAS: <https://www.has-sante.fr/jcms/c_1747465/fr/patient-avec-un-trouble-bipolaire-reperage-et-prise-en-charge-initiale-en-premier-recours>
 
 {{%/sources%}}
 {{% modal title="Echelle de depression de Hamilton" id="modal-hamilton"%}}

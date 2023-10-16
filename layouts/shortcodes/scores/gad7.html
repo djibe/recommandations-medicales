@@ -1,8 +1,8 @@
 <div class="mt-4" id="score-gad7">
-  <p>Le score <dfn><abbr title="Generalized Anxiety Disorder 7" lang="en">GAD-7</abbr></dfn> (<span lang="en">Generalized Anxiety Disorder-7</span>) pour l'évaluation d'un adulte présentant des symptômes anxieux.</p>
+  <p>Le score <dfn><abbr title="Generalized Anxiety Disorder 7-item" lang="en">GAD-7</abbr></dfn> (<span lang="en">Generalized Anxiety Disorder-7</span>) pour l’évaluation d’un adulte présentant des symptômes anxieux.</p>
   <p>Au cours des 2 dernières semaines, à quelle fréquence avez-vous été gêné(e) par les problèmes suivants&nbsp;?</p>
   <fieldset>
-    <legend>1. Sentiment de nervosité, d'anxiété ou de tension</legend>
+    <legend>1. Sentiment de nervosité, d’anxiété ou de tension</legend>
     <input type="radio" id="gad7-11" name="radio-gad7-1" class="d-input-none" value="0" required>
     <label for="gad7-11" class="chip chip-action chip-sm chip-choice">Jamais</label>
     <input type="radio" id="gad7-12" name="radio-gad7-1" class="d-input-none" value="1">
@@ -13,7 +13,7 @@
     <label for="gad7-14" class="chip chip-action chip-sm chip-choice">Presque tous les jours</label>
   </fieldset>
   <fieldset>
-    <legend>2. Incapable d'arrêter de vous inquiéter ou de contrôler vos inquiétudes</legend>
+    <legend>2. Incapable d’arrêter de vous inquiéter ou de contrôler vos inquiétudes</legend>
     <input type="radio" id="gad7-21" name="radio-gad7-2" class="d-input-none" value="0" required>
     <label for="gad7-21" class="chip chip-action chip-sm chip-choice">Jamais</label>
     <input type="radio" id="gad7-22" name="radio-gad7-2" class="d-input-none" value="1">
@@ -46,7 +46,7 @@
     <label for="gad7-44" class="chip chip-action chip-sm chip-choice">Presque tous les jours</label>
   </fieldset>
   <fieldset>
-    <legend>5. Agitation telle qu'il est difficile de rester tranquille</legend>
+    <legend>5. Agitation telle qu’il est difficile de rester tranquille</legend>
     <input type="radio" id="gad7-51" name="radio-gad7-5" class="d-input-none" value="0" required>
     <label for="gad7-51" class="chip chip-action chip-sm chip-choice">Jamais</label>
     <input type="radio" id="gad7-52" name="radio-gad7-5" class="d-input-none" value="1">
@@ -68,7 +68,7 @@
     <label for="gad7-64" class="chip chip-action chip-sm chip-choice">Presque tous les jours</label>
   </fieldset>
   <fieldset>
-    <legend>7. Avoir peur que quelque chose d'épouvantable puisse arriver</legend>
+    <legend>7. Avoir peur que quelque chose d’épouvantable puisse arriver</legend>
     <input type="radio" id="gad7-71" name="radio-gad7-7" class="d-input-none" value="0" required>
     <label for="gad7-71" class="chip chip-action chip-sm chip-choice">Jamais</label>
     <input type="radio" id="gad7-72" name="radio-gad7-7" class="d-input-none" value="1">
@@ -87,7 +87,7 @@
   </div>
 </div>
 <blockquote class="blockquote my-4">
-  <p>Score ≥10: sensibilité 89% et spécificité 82% pour le diagnostic d'anxiété.</p>
+  <p>Score ≥ 10: sensibilité de 89% et spécificité de 82% pour le diagnostic d’anxiété.</p>
   <p class="mb-0" lang="en"><a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/410326" rel="external nofollow noopener">Spitzer RL et al. A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006.</a></p>
 </blockquote>
 {{ $script := `
@@ -102,7 +102,7 @@
       if (checkedElems.length === 7) {
         checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
         scoregad7.innerHTML = score
-        if (score <= 4) { textgad7.innerHTML = "Absence d'anxiété" }
+        if (score <= 4) { textgad7.innerHTML = "Absence d’anxiété" }
         else if (score >= 5 && score <= 9) { textgad7.innerHTML = "Anxiété légère<br>Patient éligible à MonParcoursPsy" }
         else if (score >= 10 && score <= 14) { textgad7.innerHTML = "Anxiété modérée<br>Patient éligible à MonParcoursPsy" }
         else if (score >= 15) { textgad7.innerHTML = "Anxiété sévère<br>Suivi psychiatrique" }
