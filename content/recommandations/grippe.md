@@ -7,7 +7,7 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2023-09-17"
+lastmod = "2023-10-16"
 specialites = ["infectiologie"]
 annees = "2023"
 sources = ["MinSanté", "HAS"]
@@ -64,7 +64,7 @@ Diagnostics à étayer devant un tableau de toux aiguë:
 {{%info%}}
 Vaccination annuelle en octobre pour les personnes à risque de grippe grave.
 
-Bon de prise en charge à 100% n°850 sur Ameli pro.
+Bon de prise en charge à 100% n°850 sur *Ameli pro*.
 {{%/info%}}
 
 Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination antigrippale est recommandée chaque année:
@@ -104,7 +104,7 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 
 ### Vaccination anti-grippale des enfants
 
-> La vaccination contre la grippe << peut être proposée chaque année à tous les enfants âgés de 2 à 17 ans révolus. Dans cette tranche d'âge, il est recommandé d'utiliser préférentiellement le vaccin administré par voie intranasale Fluenz Tetra® >> (*Calendrier vaccinal 2023*) qui n'est évidemment pas disponible en France.
+> La vaccination contre la grippe << peut être proposée chaque année à tous les enfants âgés de 2 à 17 ans révolus. Dans cette tranche d'âge, il est recommandé d'utiliser préférentiellement le vaccin administré par voie intranasale Fluenz Tetra® >> (*Calendrier vaccinal 2023*) qui n'est évidemment pas disponible en pharmacie en France.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -131,18 +131,18 @@ Signes de gravité: fièvre très élevée persistante, réapparition de la fiè
 Aucun examen complémentaire devant un tableau de grippe saisonnière non compliquée.
 
 {{%/collapse%}}
-{{%collapse "Vaccins disponibles pour la campagne de vaccination 2022-2023" %}}
+{{%collapse "Vaccins disponibles pour la campagne de vaccination 2023-2024" %}}
 
 Vaccins contre la grippe disponibles en France pour la campagne vaccinale:
 
-- Efluelda® (+60 ans)
+- Efluelda® (+65 ans)
 - FlurarixTetra®
 - InfluvacTetra®
 - VaxigripTetra®
 
 Le vaccin intranasal Fluenz Tetra® n'est pas disponible en France.
 
-La campagne de vaccination débute le <mark>17 octobre 2023</mark> ([MinSanté](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/la-campagne-de-vaccination-contre-le-covid-19-avancee-de-15-jours-commencera-le)).
+La campagne de vaccination débute le <mark>17 octobre 2023</mark> ([MinSanté](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/la-campagne-de-vaccination-contre-le-covid-19-avancee-de-15-jours-commencera-le)) et se terminera le 31 janvier 2024.
 
 [Document CRATB d'information patient contre la grippe (PDF)](http://medqual.fr/images/PRO_2018/CAT-PATHO-IFECTIEUSE/GRIPPE/MEDCAL_GRIPPE_A3_OK_VF.pdf)
 
@@ -181,6 +181,7 @@ L'oseltamivir doit être débuté dans les 48 heures suivant l'apparition des sy
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ameli Pharmacien. Campagne de vaccination contre la grippe saisonnière 2023-2024. 13/10/2023](https://www.ameli.fr/pharmacien/exercice-professionnel/sante-prevention/vaccination/vaccination-grippe-saisonniere)
 - {{< references/calendrier-vaccinal >}}
 - [Ameli Médecin. Grippe : vacciner ses patients atteints de maladies chroniques est essentiel. 08/11/2022.](https://www.ameli.fr/medecin/actualites/grippe-vacciner-ses-patients-atteints-de-maladies-chroniques-est-essentiel)
 - [Ameli Médecin. Vaccination contre la grippe saisonnière : une FAQ pour répondre aux interrogations des patients. 18/10/2022.](https://www.ameli.fr/medecin/actualites/vaccination-contre-la-grippe-saisonniere-une-faq-pour-repondre-aux-interrogations-des-patients)
