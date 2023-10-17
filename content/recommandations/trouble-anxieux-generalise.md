@@ -1,31 +1,35 @@
 +++
-title = "Anxiété et trouble anxieux généralisé (TAG)"
-titleSeo = "Anxiété trouble anxieux généralisé TAG"
+title = "Trouble anxieux généralisé (TAG)"
+titleSeo = "Trouble anxieux généralisé TAG"
 prefix = "l'"
-description = "TODO:"
+description = "Recommandations pour le diagnostic et la prise en charge du trouble anxieux généralisé (TAG). GAD-2, thérapie cognitive comportementale TCC, antidépresseur"
 synonyms = []
-auteurs = ["Mustapha DAHLAB", "Jean-Baptiste FRON"]
+auteurs = ["Jean-Baptiste FRON", "Mustapha DAHLAB"]
 date = "2023-10-13T08:53:34+02:00"
-publishdate = "2023-10-13"
-lastmod = "2023-10-13"
+publishdate = "2023-10-17"
+lastmod = "2023-10-17"
 specialites = ["psychiatrie"]
 annees = "2019"
 sources = ["ACP", "BAP"]
-tags = ["depistage", "fatigue"]
+tags = ["depistage", "depression", "fatigue", "risque cardiovasculaire"]
 anglais = ["Generalized anxiety disorder (GAD)", "generalised anxiety disorder"]
 sctid = "21897009"
 icd10 = "F41.1"
-draft = true
-image = false
-imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > grossesse > risque CV, bio, ECG pré-thérap, livres/vidéo/sites TCC | at each stage: comorbidités, suicide, insomnie, toxiques, observance, grossesse, âgé, culturel"
+image = true
+imageSrc = "Le trouble anxieux généralisé (TAG). storyset / Freepik"
+todo = "liens > risque CV, ECG pré-thérap, livres/vidéo/sites TCC"
+flowchart = true
 +++
-
-{{< scores/gad2 >}}
 
 {{%article-summary%}}
 
-TODO:
+- Le trouble anxieux généralisé (TAG) est fréquent, avec des inquiétudes permanentes sur au moins 2 thèmes différents, persistantes depuis plus de 6 mois et difficilement contrôlables. Il est sous-diagnostiqué et sous-traité malgré le sur-risque suicidaire et cardiovasculaire
+- Intérêt d'un dépistage des personnes à risque (bas socio-éco, veuvage/séparation/divorce, âge moyen, comorbidités psychiatriques, toxiques, traumatisme et antécédents familiaux de TAG), au choix: << Êtes-vous nerveux ? >>, {{< modal-btn modal-gad2 >}}questionnaire GAD-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}} (couplé à la dépression)
+- En cas de repérage positif, étayer le diagnostic et les critères diagnostiques DSM-5 du trouble anxieux généralisé
+- Prise en charge initiale du trouble anxieux généralisé par mesures hygiéno-diététiques et thérapie cognitive et comportementale (TCC)
+- Puis traitement antidépresseur avec titration d'un {{< modal-btn modal-isrs >}}ISRS{{< /modal-btn >}} ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}. Traitement pleine dose au moins 8 semaines, poursuivi 6-12 mois après amélioration.
+- La réévaluation du TAG comprend: {{< modal-btn modal-gad7 >}}questionnaire GAD-7{{< /modal-btn >}} et risque suicidaire, comorbidités, toxiques, observance, grossesse
+- Avis spécialisé psychiatrique si adolescent ou jeune adulte, diagnostic incertain, comorbidité psychiatrique, fragilité (grossesse), trouble sévère ou résistance au traitement, risque suicidaire, benzodiazépines au long cours
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -35,8 +39,8 @@ Anxiété
 
 Trouble anxieux généralisé (TAG)
 : Trouble anxieux chronique avec des inquiétudes permanentes sur au moins 2 thèmes différents, persistantes depuis plus de 6 mois et difficilement contrôlables. Dit aussi << maladie des inquiétudes >>, les signes physiques sont souvent au premier plan (insomnie ++), pouvant masquer l'origine anxieuse.
-: Les complications sont dominées par les risques suicidaire et [cardiovasculaire](/tags/risque-cardiovasculaire/).
-: Le trouble anxieux généralisé atteint 5% de la population avec 2/3 de femmes et débute le plus souvent vers 35-45 ans. Le diagnostic n'est correct que pour un tiers et 60% n'ont pas de traitement.
+: Les complications sont dominées par les risques suicidaire (x 2,7) et [cardiovasculaire](/tags/risque-cardiovasculaire/).
+: Le trouble anxieux généralisé atteint 5% de la population avec 2/3 de femmes et débute le plus souvent vers 35-45 ans. Le diagnostic n'est correct que pour un tiers et 60% n'ont pas de traitement. Les rechutes sont fréquentes (conflits ++).
 
 ### Abréviations
 
@@ -114,6 +118,7 @@ Des questions simples permettent d'identifier un trouble anxieux, au choix:
 Une évaluation détaillée est nécessaire en cas de test positif.
 
 Considérer un **dépistage des personnes à risque**: niveau socio-économique bas, veuvage, séparation/divorce, âge moyen. Autres: comorbidités psychiatriques, toxiques, traumatisme et antécédents familiaux de TAG.
+{.alert .alert-info}
 
 ### Interrogatoire
 
@@ -140,8 +145,10 @@ Signes et symptômes à rechercher en cas de suspicion de trouble anxieux géné
 - Chez l'enfant et l'adolescent: inquiétudes surtout pour les compétences et les performances scolaires et sportives, séparation, perfectionnisme souvent associé
 - Périodicité des symptômes  
   Évolution chronique mais fluctuations possibles.
-- Complications: dépression, socio-professionnelles, toxiques, cardiovasculaire, ulcère
-- Sévérité: {{< modal-btn modal-gad7 >}}questionnaire GAD-7{{< /modal-btn >}}
+- Complications
+  - Dépression, socio-professionnelles, toxiques, cardiovasculaire, ulcère
+  - **Risque suicidaire** à chaque consultation: << Au cours des 2 dernières semaines, combien de fois avez-vous pensé qu'il vaudrait mieux mourir ou envisagé de vous faire du mal d'une manière ou d'une autre ? >>
+- Sévérité du trouble anxieux: {{< modal-btn modal-gad7 >}}questionnaire GAD-7{{< /modal-btn >}}
 
 ### Examen clinique
 
@@ -151,7 +158,7 @@ Signes et symptômes à rechercher en cas de suspicion de trouble anxieux géné
 - Auscultation cardio-respiratoire
 - Examen neurologique
 
-Adresser au psychiatre si: diagnostic incertain, comorbidité psychiatrique, fragilité (grossesse), trouble sévère ou résistance au traitement.
+Adresser au psychiatre si: adolescent ou jeune adulte, diagnostic incertain, comorbidité psychiatrique, fragilité (grossesse), trouble sévère ou résistance au traitement, risque suicidaire, benzodiazépines au long cours.
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -201,45 +208,76 @@ La prise en charge du trouble anxieux généralisé (TAG) nécessite un traiteme
   - Si trouble léger à modéré: proposer [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}) (praticiens rares)
   - Si financièrement difficile: proposer des livres (audio), vidéos ou webapps sur la TCC
 - Traitement ponctuel si symptômes intenses et invalidants:
-  - benzodiazépines (alprazolam 0,5-2 mg/j, diazépam 2-10 mg/j) max 12 semaines
+  - [benzodiazépines]({{< relref "benzodiazepines.md" >}}) (alprazolam 0,5-2 mg/j, diazépam 2-10 mg/j) 2-4 semaines (max 12. Doses plus fortes selon *BAP 2010*)
   - voire hydroxyzine (50-100 mg x 4/j)
 - Hospitalisation en urgence: risque suicidaire ou comorbidité dépressive sévère
 - Symptômes cardiaques (tachycardie): propranolol
+- Rassurer/éduquer: inquiétude/anxiété occasionnelle liée à une menace pour la vie ou le bien-être est courante et normale
 - [ALD n°23]({{< relref "affection-longue-duree.md" >}})  
   Indication pour trouble anxieux grave depuis +1 an: souffrance du sujet, impossibilité de faire des projets, restriction marquée des intérêts et anticipation systématiquement péjorative de l'avenir.
 
-### Les antidépresseurs
-
-Sertraline 25 mg/j pendant 6 semaines
+Suivi initial toutes les 2-4 semaines jusqu'à stabilité puis tous les 3-4 mois. Efficacité suivie avec le {{< modal-btn modal-gad7 >}}questionnaire GAD-7{{< /modal-btn >}} (baisse de 5 points est satisfaisante). Réévaluation du **risque suicidaire** à chaque consultation.
 {.alert .alert-info}
 
-Pour une forme sévère ou lorsque la thérapie cognitive et comportementale ne peut être essayée, proposer un {{< modal-btn modal-isrs >}}antidépresseur ISRS{{< /modal-btn >}} ou {{< modal-btn modal-irsna >}}antidépresseur ISRS{{< /modal-btn >}} (duloxétine, venlafaxine LP).
+### Les antidépresseurs
+
+Ex: Sertraline 25 mg/j pendant 1 semaine, puis paliers de 25-50 mg tous les 7-14 jours (max 200 mg/j)
+{.alert .alert-info}
+
+Pour une forme sévère ou lorsque la thérapie cognitive et comportementale (TCC) ne peut être essayée, proposer un {{< modal-btn modal-isrs >}}antidépresseur ISRS{{< /modal-btn >}} ou {{< modal-btn modal-irsna >}}antidépresseur IRSNA{{< /modal-btn >}} (duloxétine, venlafaxine LP).
+
+Titration du traitement par paliers de 1-2 semaines. En cas d'inefficacité après **8 semaines** de dose thérapeutique, essayer un autre antidépresseur de la même classe avant de changer de classe.
+
+Le traitement devrait être poursuivi 6-12 mois après l'amélioration des symptômes. 20-40% rechutent dans l'année.
 
 ### Traitements de deuxième intention pour le trouble anxieux généralisé
 
 Molécules de deuxième intention pour la prise en charge du trouble anxieux généralisé:
 
-- Bbuspirone 15-30 mg/j
-- Benzodiazépines
+- Buspirone 15-30 mg/j
+- [Benzodiazépines]({{< relref "benzodiazepines.md" >}})
 - Prégabaline 300-600 mg/j
+- Hydroxyzine 50-100 mg x 4/j
+- Antidépresseur tricyclique imipramine (Tofranil®) 100-300 mg/j
 
 ### Avis psychiatrique
 
 Indications à la consultation psychiatrique (non exhaustif):
 
+- Adolescent ou jeune adulte
 - Diagnostic incertain
 - Situation de fragilité (grossesse, post-partum)
 - Anxiété sévère
 - Comorbidités psychiatrique
 - Résistance au traitement
+- Risque suicidaire
+- Benzodiazépines au long cours
 
-Autres traitements prescriptibles par le psychiatre: quétiapine, risperidone, imipramine.
+Autres traitements prescriptibles par le psychiatre: quétiapine, rispéridone, imipramine.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du trouble anxieux généralisé" "show" %}}
+
+{{< mermaid title="Prise en charge du trouble anxieux généralisé (TAG). Dr JB Fron d'après ACP 2019 et BAP 2010" >}}
+graph TB
+  symptômes["<b>Suspicion de trouble<br>anxieux généralisé</b><br>—<br>- Symptômes psychologiques:<br>irritabilité, hypervigilance,<br>agitation, tbles concentration,<br>tremblements ...<br>- Symptômes physiques<br>palpitations, oppression thoracique<br>- Autres: sommeil, appétit, sexualité"] --> dépistage("Êtes-vous nerveux ?<br>ou GAD-2 ou PHQ-4")
+  risque["<b>Personne à risque</b><br>—<br>- Bas socio-économique<br>- Isolement affectif<br>- Âge moyen<br>- Tble psychiatrique<br>- Toxiques<br>- Traumatisme<br>- Antécédent familial de TAG"] -- Dépister --> dépistage
+  style symptômes stroke:#4150f5, stroke-width:1px
+  style risque stroke:#4150f5, stroke-width:1px
+    dépistage -- Positif --> étayer("- Critères diagnostiques<br>- Clinique exhaustive<br>- Bilan biologique ou +") -- Confirmation --> TAG["<b>Diagnostic de TAG</b>"] --> indicationPsychiatre("<b>Indication au psychiatre ?</b><br>—<br>- Ado, adulte jeune<br>- Diagnostic incertain<br>- Comorbidité psy<br>- Fragilité (grossesse)<br>- Trouble sévère ou résistant<br>- Risque suicidaire<br>- BZD chronique") -- Non --> RHD("- Mesures d'hygiène<br>- TCC<br>- MonParcoursPsy") -. Insuffisant .-> antidépresseur("Antidépresseur ISRS ou IRSNA<br>- Titration et min 8 semaines<br>- Puis min 6-12 mois") --> suivi("Suivi régulier:<br>- GAD-7, risque suicidaire<br>- Comorbidités<br>- Toxiques<br>- Observance<br>± grossesse")
+      RHD --> suivi
+      indicationPsychiatre -- Oui --> psychiatre(Suivi psychiatrique)
+    dépistage -- Diagnostic différentiel --> différentiel("- Pathologie somatique:<br>cardiovasculaire, respiratoire,<br>neuro, endocrinienne<br>- Toxiques<br>- Psychiatrique: tble anxieux,<br>dépression, phobie sociale ...")
+      étayer --> différentiel
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - Prescrire Redaction. Patients anxieux. Rev Prescrire. 2023.
 - Collège National Universitaire de Psychiatrie (CNUP). Troubles anxieux Trouble anxieux généralisé Item 66b. 2021.
+- [Psychiaclic. Trouble anxieux généralisé. 04/10/2021.](https://www.psychiaclic.fr/troubles-psychiatriques/trouble-anxieux-generalise)
+- [DeMartini J et al; ACP. Generalized Anxiety Disorder. Ann Intern Med. 2019.](https://pubmed.ncbi.nlm.nih.gov/30934083/)
 - [HAS. Troubles anxieux graves. Actes et prestations affection de longue durée. 2017.](https://www.has-sante.fr/jcms/c_556489/fr/ald-n-23-troubles-anxieux-graves)
 - [Davidson JR et al; British Association for Psychopharmacology. A psychopharmacological treatment algorithm for generalised anxiety disorder (GAD). J Psychopharmacol. 2010.](https://pubmed.ncbi.nlm.nih.gov/18832431/)
 - [Guaiana G et al. Hydroxyzine for generalised anxiety disorder. Cochrane Database of Systematic Reviews. 2010.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006815.pub2/full/fr)
@@ -247,17 +285,21 @@ Autres traitements prescriptibles par le psychiatre: quétiapine, risperidone, i
 
 ### Bibliographie en attente
 
-- [DeMartini J et al; ACP. Generalized Anxiety Disorder. Ann Intern Med. 2019.](https://pubmed.ncbi.nlm.nih.gov/30934083/)
-- <https://www.bap.org.uk/pdfs/BAP_Guidelines-Anxiety.pdf>
 - [Bandelow B et al. World Federation of Societies of Biological Psychiatry (WFSBP) guidelines for treatment of anxiety, obsessive-compulsive and posttraumatic stress disorders - Version 3. Part I: Anxiety disorders. World J Biol Psychiatry. 2023.](https://www.tandfonline.com/doi/abs/10.1080/15622975.2022.2086295)
+- [NICE. Generalised anxiety disorder and panic disorder in adults: management. 2020.](https://www.nice.org.uk/guidance/cg113)
+- [Baldwin DS et al. Evidence-based pharmacological treatment of anxiety disorders, post-traumatic stress disorder and obsessive-compulsive disorder: a revision of the 2005 guidelines from the British Association for Psychopharmacology. J Psychopharmacol. 2014.](https://pubmed.ncbi.nlm.nih.gov/24713617/)
 - Mustapha
-- [Psychiaclic. Trouble anxieux généralisé. 04/10/2021.](https://www.psychiaclic.fr/troubles-psychiatriques/trouble-anxieux-generalise)
-- MonParcoursPsy
+- [ADAA. Clinical Practice Review for GAD.](https://adaa.org/resources-professionals/practice-guidelines-gad)
 
 {{%/sources%}}
 {{% modal title="Questionnaire GAD-2" id="modal-gad2"%}}
 
 {{< scores/gad2 >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire GAD-7" id="modal-gad7"%}}
+
+{{< scores/gad7 >}}
 
 {{% /modal %}}
 {{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
@@ -270,5 +312,8 @@ Autres traitements prescriptibles par le psychiatre: quétiapine, risperidone, i
 {{< traitements/isrs >}}
 
 {{% /modal %}}
+{{% modal title="Antidépresseurs IRSNA" id="modal-irsna"%}}
 
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–
+{{< traitements/irsna >}}
+
+{{% /modal %}}

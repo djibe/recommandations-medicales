@@ -10,7 +10,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-14T15:58:37+01:00"
 publishdate = "2021-12-14"
-lastmod = "2023-06-15"
+lastmod = "2023-10-17"
 specialites = []
 annees = "2023"
 sources = []
@@ -41,7 +41,8 @@ HTA: [carnet international d'automesure tensionnelle (PDF)](https://www.stridebp
 
 ## Dermatologie {.typography-overline}
 
-{{< modal-btn modal-dc >}}Les dermocorticoïdes{{< /modal-btn >}} (molécules par activité, manipulation)
+- {{< modal-btn modal-dc >}}Les dermocorticoïdes{{< /modal-btn >}} (molécules par activité, manipulation)
+- {{< modal-btn modal-dlqi >}}Score DLQI{{< /modal-btn >}}
 
 ## Diabète {.typography-overline .mt-4}
 
@@ -72,7 +73,7 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 ## Psychiatrie {.typography-overline}
 
 - Repérage d'une dépression: {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-had >}}HAD{{< /modal-btn >}}
-- Repérage d'une anxiété: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal-had >}}HAD{{< /modal-btn >}}
+- Repérage d'une anxiété: {{< modal-btn modal-gad2 >}}GAD-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}}. Sévérité: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal-had >}}HAD{{< /modal-btn >}}
 - Troubles du comportement alimentaire: {{< modal-btn modal-scoff >}}dépistage (score SCOFF-F){{< /modal-btn >}}
 - Alcool recherche de mésusage: {{< modal-btn modal-audit >}}questionnaire AUDIT{{< /modal-btn >}}, {{< modal-btn modal-deta >}}CAGE/DETA{{< /modal-btn >}}, {{< modal-btn modal-face >}}FACE{{< /modal-btn >}}
 - Cannabis usage problématique: {{< modal-btn modal-cast >}}CAST{{< /modal-btn >}}
@@ -179,6 +180,11 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< traitements/dermocorticoides >}}
 
 {{% /modal %}}
+{{% modal title="Questionnaire DLQI" id="modal-dlqi"%}}
+
+{{< scores/dlqi >}}
+
+{{%/modal%}}
 {{% modal title="Questionnaire DN4" id="modal-score-dn4"%}}
 
 {{< scores/dn4 >}}
@@ -269,9 +275,19 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< scores/hamilton >}}
 
 {{% /modal %}}
+{{% modal title="Score PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
+
+{{% /modal %}}
 {{% modal title="Score PHQ-9" id="modal-phq9"%}}
 
 {{< scores/phq9 >}}
+
+{{% /modal %}}
+{{% modal title="Score GAD-2" id="modal-gad2"%}}
+
+{{< scores/gad2 >}}
 
 {{% /modal %}}
 {{% modal title="Score GAD-7" id="modal-gad7"%}}

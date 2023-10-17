@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-16T13:47:19+01:00"
 publishdate = "2021-11-18"
-lastmod = "2023-10-12"
+lastmod = "2023-10-17"
 specialites = ["therapeutique"]
 annees = "2015"
 sources = ["HAS"]
@@ -22,9 +22,9 @@ todo = "grille arrêt"
 
 {{%article-summary%}}
 
-- Ces recommandations concernent le sevrage des benzodiazépines (BZD) après une prise de +30 jours
+- Ces recommandations concernent le sevrage des benzodiazépines (BZD) après une prise supérieure à 30 jours
 - Respecter les durées de traitement par benzodiazépines de l'AMM
-- Intervention brève sur les risques des benzodiazépines à chaque prescription
+- Intervention brève sur les risques des benzodiazépines à chaque prescription (réduit fortement la demande de renouvellement)
 - La décroissance des benzodiazépines est toujours progressive après prise prolongée pour prévenir le syndrome de sevrage
 
 Chapitre lié: [sevrage en alcool]({{< relref "sevrage-alcool.md" >}})
@@ -190,6 +190,9 @@ Dr ...
 
 > *HAS 2015*
 
+L'essai EMPOWER a démontré l'effet de l'intervention brève sur l'arrêt à 6 mois: 77% de sevrage versus 5% dans le groupe contrôle.
+{.alert .alert-info}
+
 ### Calendrier de suivi de l'arrêt des benzodiazépines
 
 [Calendrier de suivi de l'arrêt des benzodiazépines (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_calendrier_de_suivi.pdf)
@@ -205,7 +208,6 @@ Dr ...
 ### Bibliographie en attente
 
 - [Baldwin D et al; British Association for Psychopharmacology. Benzodiazepines: Risks and benefits. A reconsideration. 2013. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Benzodiazepines.pdf)
-[NICE](https://www.nice.org.uk/guidance/ng215/resources)
 
 {{%/sources%}}
 {{% modal title="Échelle ECAB" id="modal-score-ecab"%}}
