@@ -50,16 +50,16 @@
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "cli-real-favicon": "^0.0.8",
     "cross-env": "^7.0.3",
-    "hint": "^7.1.9",
-    "html-validate": "^8.0.5",
+    "hint": "^7.1.10",
+    "html-validate": "^8.6.0",
     "hugo-extended": "^0.119.0",
-    "linkinator": "^5.0.1",
+    "linkinator": "^5.0.2",
     "node-sass": "^6.0.1",
     "vnu-jar": "^23.4.11"
   },
   "dependencies": {
-    "autoprefixer": "^10.4.14",
-    "postcss": "^8.4.24",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
     "postcss-cli": "^10.1.0"
   },
   "browserslist": [
