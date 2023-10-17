@@ -1,5 +1,5 @@
 <div class="my-4" id="score-deta">
-  <h3 class="card-title">Questionnaire <dfn><abbr title="Diminuer, Entourage, Trop, Alcool">DETA</abbr></dfn> pour le repérage d'un problème de consommation d'alcool</h3>
+  <h3 class="card-title">Questionnaire <dfn><abbr title="Diminuer, Entourage, Trop, Alcool">DETA</abbr></dfn> pour le repérage d’un problème de consommation d’alcool</h3>
   <h4 class="card-subtitle">Adaptation française du <abbr lang="en" title="Cutting down, Annoyance by criticism, Guilty feeling, Eye-openers">questionnaire CAGE</abbr></h4>
   <fieldset class="mt-4">
     <legend>1. Avez-vous déjà ressenti le besoin de diminuer votre consommation de boissons alcoolisées&nbsp;?</legend>
@@ -16,14 +16,14 @@
     <label for="deta-22" class="chip chip-action chip-sm chip-choice">Non</label>
   </fieldset>
   <fieldset class="mt-4">
-    <legend>3. Avez-vous déjà eu l'impression que vous buviez trop&nbsp;?</legend>
+    <legend>3. Avez-vous déjà eu l’impression que vous buviez trop&nbsp;?</legend>
     <input type="radio" id="deta-31" name="radio-deta-3" class="d-input-none" value="1" required>
     <label for="deta-31" class="chip chip-action chip-sm chip-choice">Oui</label>
     <input type="radio" id="deta-32" name="radio-deta-3" class="d-input-none" value="0">
     <label for="deta-32" class="chip chip-action chip-sm chip-choice">Non</label>
   </fieldset>
   <fieldset class="mt-4">
-    <legend>4. Avez-vous déjà eu besoin d'alcool dès le matin&nbsp;?</legend>
+    <legend>4. Avez-vous déjà eu besoin d’alcool dès le matin&nbsp;?</legend>
     <input type="radio" id="deta-41" name="radio-deta-4" class="d-input-none" value="1" required>
     <label for="deta-41" class="chip chip-action chip-sm chip-choice">Oui</label>
     <input type="radio" id="deta-42" name="radio-deta-4" class="d-input-none" value="0">
@@ -55,7 +55,7 @@
         score += parseInt(elemChecked.value, 10)
         if (elemsChecked.length === 4) {
           scoreDeta.innerHTML = score
-          if (score >= 2) { textDeta.innerHTML = "Problème de consommation d'alcool" }
+          if (score >= 2) { textDeta.innerHTML = "Problème de consommation d’alcool" }
           else { textDeta.innerHTML = 'Pas de problème évident' }
         }
       })

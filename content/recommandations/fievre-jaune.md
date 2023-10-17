@@ -7,7 +7,7 @@ synonyms = ["Fièvre amarile, typhus amaril, vomito negro"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-12T08:55:00+02:00"
 publishdate = "2021-02-12"
-lastmod = "2023-07-03"
+lastmod = "2023-10-16"
 specialites = ["infectiologie"]
 annees = "2023"
 sources = ["HCSP", "MinSanté"]
@@ -86,6 +86,8 @@ La vaccination anti-amarile est contre-indiquée en cas de:
 - Greffé de cellules souches hématopoïétiques (CSH) depuis < 2 ans ou immunosuppression ou GVH chronique
 - Chimiothérapie terminée depuis < 6 mois
 - Immunosuppression, biothérapie ou corticothérapie: lire HCSP
+
+> Pour la grossesse, si le voyage ne peut être reporté, << la vaccination contre la fièvre jaune doit être effectuée quel que soit le terme de la grossesse >> (*[CRAT](http://www.le-crat.fr/articleSearch.php?id_groupe=17)*)
 
 {{% /collapse %}}
 {{%collapse "Liste des centres de vaccinations fièvre jaune agréés" %}}

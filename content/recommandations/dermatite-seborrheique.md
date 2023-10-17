@@ -7,10 +7,10 @@ synonyms = ["Dermite séborrhéique", "eczéma séborrhéique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-01T22:39:41+02:00
 publishdate = "2020-09-01"
-lastmod = "2023-01-13"
+lastmod = "2023-10-16"
 specialites = ["dermatologie"]
-annees = "2021"
-sources = ["CMIT", "CEDEF"]
+annees = "2023"
+sources = ["CEDEF", "CMIT"]
 tags = ["VIH"]
 anglais = ["Seborrheic dermatitis"]
 sctid = "50563003"
@@ -36,7 +36,7 @@ Chapitres liés: [acné]({{< relref "acne.md" >}}), [eczéma]({{< relref "dermat
 {{% collapse "Définition" %}}
 
 Dermatite séborrhéique (DS ou dermite séborrhéique)
-: Dermatose chronique du visage fréquente (prévalence 1-3%), évoluant par **poussées**, localisée aux **zones séborrhéiques du visage** par prolifération d'une levure lipophile: *Malassezia furfur* (ou *Malassezia* spp.).
+: Dermatose chronique du visage fréquente (prévalence 1 à 3%), évoluant par **poussées**, localisée aux **zones séborrhéiques du visage** par prolifération d'une levure lipophile: *Malassezia furfur* (ou *Malassezia spp.*).
 : La dermatite séborrhéique atteint préférentiellement l'homme à la puberté, mais parfois après 50 ans. Elle peut toucher les nourrissons (croûtes de lait).
 
 ### Sujets à risque de forme sévère de dermatite séborrhéique
@@ -68,8 +68,7 @@ Rougeurs et squames survenant sur les zones séborrhéiques:
   - Crâne recouvert de petites squames non adhérentes (*pellicules*)
   - Le plus souvent asymptomatique, mais parfois prurigineux ou sensation de brûlures
   - Forme extensive: aspect de casque engainant des touffes de cheveux
-- **Tronc**  
-  Plaques annulaires à bordure squameuse en région présternale.  
+- **Tronc**: plaques annulaires à bordure squameuse pré-sternales
 - Autres atteintes: régions pileuses ou génitales
 
 ### Aspect clinique de la dermatite séborrhéique du nourrisson
@@ -114,10 +113,10 @@ Prise en charge de la dermatite séborrhéique par un **traitement d'attaque pen
 
 ### Traitements pharmacologiques de la dermatite séborrhéique
 
-#### Face et thorax
+#### Visage et thorax
 
-Kétoconazole gel moussant ou crème 2% x 2/sem pendant 4 semaines  
-OU ciclopirox olamine crème 1% x 2/j pendant 4 semaines
+Kétoconazole gel moussant ou crème 2% x 2/sem pendant 4 semaines (si +12 ans)  
+OU [ciclopirox olamine crème 1%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63273126&typedoc=R) x 2/j pendant 4 semaines (tout âge)
 {.alert .alert-info}
 
 Puis application 2 à 4 fois par mois.
@@ -138,8 +137,7 @@ Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, p
 {{%warning%}}
 **Ne pas utiliser sur la dermatite séborrhéique:**
 
-- Dermocorticoïdes  
-  Ou sur de très courtes périodes.
+- Dermocorticoïdes (ou sur de très courtes périodes)
 - Photothérapie
 - Gluconate de lithium
 - Acide salicylique
@@ -148,21 +146,16 @@ Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, p
 
 ### Terrains particuliers
 
-- Grossesse  
-  [Kétoconazole](https://le-crat.fr/spip.php?page=article&id_article=494) uniquement
-- Forme très inflammatoire  
-  Les dermocorticoïdes d'activité modérée (faible sur visage) sont réservés pendant quelques jours avec relais par un traitement d'attaque.
-- Forme sévère et résistante  
-  Avis dermatologique.
-- Érythrodermie de Leiner-Moussous  
-  Kétoconazole topique.
+- Grossesse: kétoconazole uniquement ([CRAT](https://le-crat.fr/spip.php?page=article&id_article=494))
+- Forme très inflammatoire: les dermocorticoïdes d'activité modérée (faible sur visage) sont limités à quelques jours avec relais par un traitement d'attaque.
+- Forme sévère et résistante: avis dermatologique
+- Érythrodermie de Leiner-Moussous: kétoconazole topique
 
 {{% /collapse %}}
-{{% collapse "Conduite à tenir" "show" %}}
+{{% collapse "Prise en charge de la dermatite séborrhéique" "show" %}}
 
-{{< mermaid title="Prise en charge de la dermatite séborrhéique. Dr JB Fron d'après CEDEF 2017 et CMIT" >}}
+{{< mermaid title="Prise en charge de la dermatite séborrhéique. Dr JB Fron d'après CEDEF 2023 et CMIT" >}}
 graph TB
-accTitle: Prise en charge de la dermatite séborrhéique d'après CEDEF 2017 et CMIT
   suspicion[Suspicion de dermatite séborrhéique] --> diagnostic(Diagnostic clinique<br>de DS)
   style suspicion stroke:#4150f5, stroke-width:1px
   suspicion -- Diagnostic différentiel --> differentiel(Psoriasis<br>Rosacée<br>Dermatite atopique<br>Syphilis)
@@ -192,9 +185,9 @@ accTitle: Prise en charge de la dermatite séborrhéique d'après CEDEF 2017 et 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 111. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-111-%E2%80%94-Dermatoses-faciales-acne-rosacee-dermatite-seborrheique_CompressPdf.pdf)
 - [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-155-web.pdf)
 - Prescrire Rédaction. Dermatite séborrhéique chez un adulte. Rev Prescrire. Août 2020.
-- Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.
 - Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 UE 6. 2017.
 
 {{%/sources%}}

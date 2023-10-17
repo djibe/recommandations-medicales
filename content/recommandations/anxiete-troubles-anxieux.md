@@ -11,14 +11,14 @@ lastmod = "2023-10-13"
 specialites = ["psychiatrie"]
 annees = "2019"
 sources = ["ACP", "BAP"]
-tags = ["fatigue"]
+tags = ["depistage", "fatigue"]
 anglais = ["Generalized anxiety disorder (GAD)", "generalised anxiety disorder"]
 sctid = "21897009"
 icd10 = "F41.1"
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > grossesse > risque CV, bio, ECG pré-thérap | at each stage: comorbidités, suicide, insomnie, toxiques, observance, grossesse, âgé, culturel"
+todo = "descr > summary > liens > photo > newsletter > grossesse > risque CV, bio, ECG pré-thérap, livres/vidéo/sites TCC | at each stage: comorbidités, suicide, insomnie, toxiques, observance, grossesse, âgé, culturel"
 +++
 
 {{< scores/gad2 >}}
@@ -64,7 +64,7 @@ TCC
 
 ### Critères diagnostiques DSM-5 du du trouble anxieux généralisé (TAG)
 
-Trouble anxieux généralisé selon le DSM 5:
+Trouble anxieux généralisé selon le DSM-5 si tous les critères sont remplis:
 
 1. Anxiété et soucis excessifs (attente avec appréhension) survenant la plupart du temps durant au moins 6 mois concernant un certain nombre d'événements ou d'activités (tel le travail ou les performances scolaires).
 2. La personne éprouve de la difficulté à contrôler cette préoccupation.
@@ -77,10 +77,10 @@ Trouble anxieux généralisé selon le DSM 5:
     - perturbation du sommeil (difficultés d'endormissement ou sommeil interrompu agité et non satisfaisant)
 4. L'anxiété, les soucis ou les symptômes physiques entraînent une détresse ou une altération cliniquement significatives du fonctionnement social, professionnel ou dans d'autres domaines importants.
 5. La perturbation n'est pas imputable aux effets physiologiques d'une substance (ex. substance donnant lieu à abus, médicament) ou d'une autre affection médicale (ex. [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})).
-6. La perturbation n'est pas mieux expliquée par un autre trouble mental.
+6. La perturbation n'est pas mieux expliquée par un autre trouble mental (stress post-traumatique, TOC, délire).
 {.liste-lettres}
 
-Prendre en compte la variabilité des symptômes liée à la culture pour apprécier les critères diagnostiques.
+Prendre en compte la variabilité des symptômes liée à la culture pour apprécier les critères diagnostiques (ex: vertiges, troubles digestifs).
 
 ### Critères diagnostiques CIM-11 du TAG
 
@@ -108,7 +108,12 @@ La CIM-10 de mentionne pas la chronicité des troubles pendant au moins 6 mois.
 Des questions simples permettent d'identifier un trouble anxieux, au choix:
 
 - Êtes-vous nerveux ? (Se 100%, Spe 59%)
-- Questionnaire GAD-2
+- {{< modal-btn modal-gad2 >}}Questionnaire GAD-2{{< /modal-btn >}}
+- {{< modal-btn modal-phq4 >}}Questionnaire PHQ-4{{< /modal-btn >}} (couplé à la dépression)
+
+Une évaluation détaillée est nécessaire en cas de test positif.
+
+Considérer un **dépistage des personnes à risque**: niveau socio-économique bas, veuvage, séparation/divorce, âge moyen. Autres: comorbidités psychiatriques, toxiques, traumatisme et antécédents familiaux de TAG.
 
 ### Interrogatoire
 
@@ -116,7 +121,7 @@ Signes et symptômes à rechercher en cas de suspicion de trouble anxieux géné
 
 - Facteurs de risque de trouble anxieux généralisé  
   Niveau socio-économique bas, veuvage, séparation/divorce, âge moyen. Autres: comorbidités psychiatriques, toxiques, traumatisme et antécédents familiaux de TAG.
-- **Antécédents**: psychiatriques, somatiques, psychologiques
+- **Antécédents**: psychiatriques (dépression, trouble panique, phobie sociale), somatiques, psychologiques
 - Facteurs de risque cardiovasculaire
 - Antécédents familiaux
 - Traitements en cours
@@ -136,7 +141,7 @@ Signes et symptômes à rechercher en cas de suspicion de trouble anxieux géné
 - Périodicité des symptômes  
   Évolution chronique mais fluctuations possibles.
 - Complications: dépression, socio-professionnelles, toxiques, cardiovasculaire, ulcère
-- Questionnaire {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}
+- Sévérité: {{< modal-btn modal-gad7 >}}questionnaire GAD-7{{< /modal-btn >}}
 
 ### Examen clinique
 
@@ -146,23 +151,37 @@ Signes et symptômes à rechercher en cas de suspicion de trouble anxieux géné
 - Auscultation cardio-respiratoire
 - Examen neurologique
 
+Adresser au psychiatre si: diagnostic incertain, comorbidité psychiatrique, fragilité (grossesse), trouble sévère ou résistance au traitement.
+
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
+### Diagnostics différentiels du trouble anxieux généralisé
+
 - Pathologie somatique
-  - Cardiovasculaire: syndrome coronarien aigu, hypertension artérielle, trouble du rythme
-  - Respiratoire: asthme, pneumopathie
-  - Neurologie: épilepsie, sclérose en plaques, migraine, AIT
-  - Endocrinienne: hypoglycémie, diabète, dysthyroïdie, phéochromocytome, syndrome de Cushing, hypoparathyroïdie
-- Toxiques et sevrage
+  - Cardiovasculaire: syndrome coronarien aigu, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), trouble du rythme, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
+  - Respiratoire: [asthme]({{< relref "asthme.md" >}}), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [pneumopathie]({{< relref "pneumonie-aigue-communautaire.md" >}})
+  - Neurologie: épilepsie, sclérose en plaques, [migraine]({{< relref "migraine.md" >}}), [AIT]({{< relref "accident-vasculaire-cerebral.md" >}})
+  - Endocrinienne: hypoglycémie, [diabète](/tags/diabete/), [dysthyroïdie](/tags/tsh/), phéochromocytome, [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}), hypoparathyroïdie
+- Toxiques (alcool, benzodiazépines, caféine, nicotine, amphétamines, cocaïne ...), auto-médication (ginseng) et sevrage
 - Troubles psychiatriques
   - Troubles anxieux: stress post-traumatique, trouble de l'adaptation, trouble panique, trouble obsessionnel compulsif
   - Hypocondrie
-  - Épisode dépressif caractérisé
+  - Épisode dépressif caractérisé, trouble bipolaire
   - Enfant: phobie sociale (humiliations)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
+
+### Bilan biologique
+
+Bilan biologique minimal en cas de trouble anxieux:
+
+- NFS
+- TSH
+- ± Toxiques urinaires
+
+> – *ACP 2019*
 
 {{% /collapse %}}
 {{%collapse "Traitement du trouble anxieux généralisé" %}}
@@ -177,27 +196,44 @@ La prise en charge du trouble anxieux généralisé (TAG) nécessite un traiteme
   - Activité physique régulière
   - Règles hygiéno-diététiques de sommeil
   - Techniques de relaxation
-- Psychothérapie par thérapie cognitivo-comportementale (TCC)  
-  Gestion des émotions et inquiétudes, relaxation.
-- Forme sévère: antidépresseur ISRS (AMM pour paroxétine, escitalopram, duloxétine)
-- Traitement ponctuel si symptômes intenses et invalidants: benzodiazépines max 12 semaines voire hydroxyzine
+- Psychothérapie par thérapie cognitivo-comportementale (TCC)
+  - Gestion des émotions et inquiétudes, relaxation. Environ 12 séances.
+  - Si trouble léger à modéré: proposer [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}) (praticiens rares)
+  - Si financièrement difficile: proposer des livres (audio), vidéos ou webapps sur la TCC
+- Traitement ponctuel si symptômes intenses et invalidants:
+  - benzodiazépines (alprazolam 0,5-2 mg/j, diazépam 2-10 mg/j) max 12 semaines
+  - voire hydroxyzine (50-100 mg x 4/j)
 - Hospitalisation en urgence: risque suicidaire ou comorbidité dépressive sévère
 - Symptômes cardiaques (tachycardie): propranolol
 - [ALD n°23]({{< relref "affection-longue-duree.md" >}})  
   Indication pour trouble anxieux grave depuis +1 an: souffrance du sujet, impossibilité de faire des projets, restriction marquée des intérêts et anticipation systématiquement péjorative de l'avenir.
 
+### Les antidépresseurs
+
+Sertraline 25 mg/j pendant 6 semaines
+{.alert .alert-info}
+
+Pour une forme sévère ou lorsque la thérapie cognitive et comportementale ne peut être essayée, proposer un {{< modal-btn modal-isrs >}}antidépresseur ISRS{{< /modal-btn >}} ou {{< modal-btn modal-irsna >}}antidépresseur ISRS{{< /modal-btn >}} (duloxétine, venlafaxine LP).
+
 ### Traitements de deuxième intention pour le trouble anxieux généralisé
 
+Molécules de deuxième intention pour la prise en charge du trouble anxieux généralisé:
 
+- Bbuspirone 15-30 mg/j
+- Benzodiazépines
+- Prégabaline 300-600 mg/j
 
 ### Avis psychiatrique
 
 Indications à la consultation psychiatrique (non exhaustif):
 
+- Diagnostic incertain
 - Situation de fragilité (grossesse, post-partum)
-- Trouble sévère
-- Comorbidité
+- Anxiété sévère
+- Comorbidités psychiatrique
 - Résistance au traitement
+
+Autres traitements prescriptibles par le psychiatre: quétiapine, risperidone, imipramine.
 
 {{% /collapse %}}
 {{%sources%}}
@@ -215,12 +251,23 @@ Indications à la consultation psychiatrique (non exhaustif):
 - <https://www.bap.org.uk/pdfs/BAP_Guidelines-Anxiety.pdf>
 - [Bandelow B et al. World Federation of Societies of Biological Psychiatry (WFSBP) guidelines for treatment of anxiety, obsessive-compulsive and posttraumatic stress disorders - Version 3. Part I: Anxiety disorders. World J Biol Psychiatry. 2023.](https://www.tandfonline.com/doi/abs/10.1080/15622975.2022.2086295)
 - Mustapha
-- Psychiaclic
+- [Psychiaclic. Trouble anxieux généralisé. 04/10/2021.](https://www.psychiaclic.fr/troubles-psychiatriques/trouble-anxieux-generalise)
+- MonParcoursPsy
 
 {{%/sources%}}
-{{% modal title="Score GAD-2" id="modal-gad2"%}}
+{{% modal title="Questionnaire GAD-2" id="modal-gad2"%}}
 
 {{< scores/gad2 >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
+
+{{% /modal %}}
+{{% modal title="Antidépresseurs ISRS" id="modal-isrs"%}}
+
+{{< traitements/isrs >}}
 
 {{% /modal %}}
 

@@ -1,6 +1,6 @@
 <div class="my-4" id="score-cast">
-  <h3 class="card-title">Questionnaire <abbr lang="en" title="Cannabis Abuse Screening Test">CAST</abbr> pour le repérage d'un problème de consommation de cannabis</h3>
-  <p>Repérer l'usage nocif de cannabis à l'aide de six questions abordant les aspects problématiques de la consommation
+  <h3 class="card-title">Questionnaire <abbr lang="en" title="Cannabis Abuse Screening Test">CAST</abbr> pour le repérage d’un problème de consommation de cannabis</h3>
+  <p>Repérer l’usage nocif de cannabis à l’aide de six questions abordant les aspects problématiques de la consommation
     chez les adolescents et les jeunes adultes.
   </p>
   <p>Au cours des 12 derniers mois:</p>
@@ -33,7 +33,7 @@
     <label for="cast-42" class="chip chip-action chip-sm chip-choice">Non</label>
   </fieldset>
   <fieldset class="mt-4">
-    <legend>5. Avez-vous essayé de réduire ou d'arrêter votre consommation de cannabis sans y parvenir&nbsp;?</legend>
+    <legend>5. Avez-vous essayé de réduire ou d’arrêter votre consommation de cannabis sans y parvenir&nbsp;?</legend>
     <input type="radio" id="cast-51" name="radio-cast-5" class="d-input-none" value="1" required>
     <label for="cast-51" class="chip chip-action chip-sm chip-choice">Oui</label>
     <input type="radio" id="cast-52" name="radio-cast-5" class="d-input-none" value="0">
@@ -41,7 +41,7 @@
   </fieldset>
   <fieldset class="mt-4">
     <legend>6. Avez-vous eu des problèmes à cause de votre consommation de cannabis (dispute, bagarre,
-      accident, mauvais résultat à l'école ...)&nbsp;?</legend>
+      accident, mauvais résultat à l’école ...)&nbsp;?</legend>
     <input type="radio" id="cast-61" name="radio-cast-6" class="d-input-none" value="1" required>
     <label for="cast-61" class="chip chip-action chip-sm chip-choice">Oui</label>
     <input type="radio" id="cast-62" name="radio-cast-6" class="d-input-none" value="0">
@@ -74,8 +74,8 @@
         score += parseInt(elemChecked.value, 10)
         if (elemsChecked.length === 6) {
           scoreCast.innerHTML = score
-          if (score >= 2) { textCast.innerHTML = "Risque élevé d'usage problématique" }
-          if (score >= 3) { textCast.innerHTML += "<br>Proposer un accompagnement pour l'arrêt" }
+          if (score >= 2) { textCast.innerHTML = "Risque élevé d’usage problématique" }
+          if (score >= 3) { textCast.innerHTML += "<br>Proposer un accompagnement pour l’arrêt" }
         }
       })
     }

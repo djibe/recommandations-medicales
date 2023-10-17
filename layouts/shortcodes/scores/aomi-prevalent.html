@@ -1,5 +1,5 @@
 <div class="my-4" id="score-prevalent">
-  <p>Score du dépistage ciblé de l'<dfn><abbr title="Artériopathie oblitérante des membres inférieurs">AOMI</abbr></dfn> en soins primaires à partir de 55 ans.</p>
+  <p>Score du dépistage ciblé de l’<dfn><abbr title="Artériopathie oblitérante des membres inférieurs">AOMI</abbr></dfn> en soins primaires à partir de 55 ans.</p>
   <fieldset>
     <legend>Âge</legend>
     <input type="radio" id="radio-prevalent-11" name="radio-prevalent-1" class="d-input-none" value="0" required>
@@ -68,12 +68,12 @@
         score += parseInt(elemChecked.value, 10)
         if (elemsChecked.length === 3) {
           scorePREVALENT.innerHTML = score
-          let explainPrevalent = "<span class='d-block text-muted mt-2'>Risque d'AOMI de " + findPrevalence(score) + "%</span>"
+          let explainPrevalent = "<span class='d-block text-muted mt-2'>Risque d’AOMI de " + findPrevalence(score) + "%</span>"
           if (score <= 7) {
-            textPREVALENT.innerHTML = "Pas de dépistage de l'AOMI sauf comorbidités" + explainPrevalent
+            textPREVALENT.innerHTML = "Pas de dépistage de l’AOMI sauf comorbidités" + explainPrevalent
           }
           else if (score > 7) {
-            textPREVALENT.innerHTML = "Adresser à l'angiologue pour la mesure de l'IPS" + explainPrevalent
+            textPREVALENT.innerHTML = "Adresser à l’angiologue pour la mesure de l’IPS" + explainPrevalent
           }
         } else {
           textPREVALENT.innerHTML = "Veuillez répondre à toutes les questions"

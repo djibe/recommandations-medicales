@@ -36,6 +36,7 @@ todo = "apps jet lag, long courrier"
 
 Voir les chapitres dédiés:
 
+- [Fièvre jaune]({{< relref "fievre-jaune.md" >}})
 - [Gale]({{< relref "gale.md" >}})
 - [Hépatite A]({{< relref "hepatite-a.md" >}})
 - [Hépatite B]({{< relref "hepatite-b.md" >}})
@@ -118,14 +119,14 @@ du séjour, la destination précise ou les activités qui y seront pratiquées
 
 ### Vaccins contre-indiqués pendant la grossesse
 
-Les vaccins vivants sont contre-indiqués: fièvre jaune, rougeole/ROR, BCG.
+Les vaccins vivants sont contre-indiqués: rougeole/ROR, varicelle, BCG.
 
-Le vaccin pneumococcique doit bénéficier d'une analyse bénéfice/risque.
+Le vaccin fièvre jaune est possible quelque soit le terme ([CRAT](http://www.le-crat.fr/articleSearch.php?id_groupe=17)).
 
 {{% /collapse %}}
 {{%collapse "Mesures de protection à appliquer" %}}
 
-Étudier ses couvertures d'assurance (carte bleue, rapatriement, accident). Séjour de moins de 6 mois: assurance personnelle, au delà, se renseigner sur [Ameli](https://www.ameli.fr/paris/assure/droits-demarches/europe-international/protection-sociale-etranger).
+Étudier ses couvertures d'assurance (carte bleue, rapatriement, accident). Séjour de moins de 6 mois: assurance personnelle, au delà, se renseigner sur *[Ameli](https://www.ameli.fr/paris/assure/droits-demarches/europe-international/protection-sociale-etranger)*.
 
 ### Protection contre les accidents de la route
 

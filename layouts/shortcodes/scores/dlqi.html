@@ -1,7 +1,7 @@
 <!-- TODO: invert order -->
 <div class="mt-4" id="score-DLQI">
   <h3 class="card-title">Score DLQI - Dermatology Life Quality Index</h3>
-  <p class="card-subtitle">Score <abbr title="Dermatology Life Quality Index" lang="en">DLQI</abbr> (<span lang="en">Dermatology Life Quality Index</span>) pour le retentissement d'une dermatose sur la qualité de vie</p>
+  <p class="card-subtitle">Score <abbr title="Dermatology Life Quality Index" lang="en">DLQI</abbr> (<span lang="en">Dermatology Life Quality Index</span>) pour le retentissement d’une dermatose sur la qualité de vie</p>
   <p>Au cours des 7 derniers jours:</p>
   <fieldset>
     <legend>1. Votre peau vous a-t-elle démangé(e), fait souffrir ou brûlé(e)&nbsp;?</legend>
@@ -144,7 +144,7 @@
         if (elemsChecked.length === 11) {
           scoreDLQI.innerHTML = score
           if (score <= 1) {
-            textDLQI.innerHTML = "Absence d'impact sur la vie quotidienne"
+            textDLQI.innerHTML = "Absence d’impact sur la vie quotidienne"
           } else if (score >= 2 && score <= 10) {
             textDLQI.innerHTML = 'Effet faible à modéré sur la vie du patient'
           } else if (score >= 11) {

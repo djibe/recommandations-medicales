@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-17T20:24:38+01:00"
 publishdate = "2022-12-20"
-lastmod = "2022-12-20"
+lastmod = "2023-10-17"
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
 sources = ["INCa", "ACOG"]
@@ -163,6 +163,9 @@ Comme pour tout cancer:
 - [Directives anticipées]({{< relref "directives-anticipees.md" >}}), [personne de confiance](https://www.service-public.fr/particuliers/vosdroits/R40462)
 - Associations de patients  
   [imagyn](https://www.imagyn.org), [Ligue contre le cancer](https://www.ligue-cancer.net), [roseup](https://www.rose-up.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com).
+
+[Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 30 ter](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048206681): exposition à l'amiante ≥ 5 ans
+{.alert .alert-info}
 
 ### Pour en savoir plus sur le cancer de l'ovaire
 

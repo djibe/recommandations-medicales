@@ -1,6 +1,6 @@
 <div class="mt-4" id="score-auditc">
-  <h3 class="card-title">Hétéro-questionnaire <abbr title="Alcohol Use Disorders Identification Test Consumption" lang="en">AUDIT-C</abbr> pour le repérage d'un mésusage de l'alcool</h3>
-  <p class="card-subtitle">Questionnaire <span lang="en">Alcohol Use Disorders Identification Test Consumption</span> raccourci de l'<abbr title="Organisation Mondiale de la Santé">OMS</abbr></p>
+  <h3 class="card-title">Hétéro-questionnaire <abbr title="Alcohol Use Disorders Identification Test Consumption" lang="en">AUDIT-C</abbr> pour le repérage d’un mésusage de l’alcool</h3>
+  <p class="card-subtitle">Questionnaire <span lang="en">Alcohol Use Disorders Identification Test Consumption</span> raccourci de l’<abbr title="Organisation Mondiale de la Santé">OMS</abbr></p>
   <fieldset>
     <legend>Sexe</legend>
     <input type="radio" id="auditc-femme" name="auditc-sexe" class="d-input-none" value="0" required>
@@ -8,9 +8,9 @@
     <input type="radio" id="auditc-homme" name="auditc-sexe" class="d-input-none" value="0">
     <label for="auditc-homme" class="chip chip-action chip-sm chip-choice">Homme</label>
   </fieldset>
-  <p class="typography-body-1 mt-3">Sur l'année écoulée:</p>
+  <p class="typography-body-1 mt-3">Sur l’année écoulée:</p>
   <fieldset>
-    <legend>1. Combien de fois vous arrive-t-il de consommer de l'alcool&nbsp;?</legend>
+    <legend>1. Combien de fois vous arrive-t-il de consommer de l’alcool&nbsp;?</legend>
     <input type="radio" id="auditc11" name="auditc1" class="d-input-none" value="0" required>
     <label for="auditc11" class="chip chip-action chip-sm chip-choice">Jamais</label>
     <input type="radio" id="auditc12" name="auditc1" class="d-input-none" value="1">
@@ -23,7 +23,7 @@
     <label for="auditc15" class="chip chip-action chip-sm chip-choice">4 ou +/semaine</label>
   </fieldset>
   <fieldset>
-    <legend>2. Combien de verres standards buvez-vous au cours d'une journée ordinaire où vous buvez de l'alcool&nbsp;?</legend>
+    <legend>2. Combien de verres standards buvez-vous au cours d’une journée ordinaire où vous buvez de l’alcool&nbsp;?</legend>
     <input type="radio" id="auditc21" name="auditc2" class="d-input-none" value="0" required>
     <label for="auditc21" class="chip chip-action chip-sm chip-choice">1 ou 2</label>
     <input type="radio" id="auditc22" name="auditc2" class="d-input-none" value="1">
@@ -34,10 +34,10 @@
     <label for="auditc24" class="chip chip-action chip-sm chip-choice">7 à 9</label>
     <input type="radio" id="auditc25" name="auditc2" class="d-input-none" value="4">
     <label for="auditc25" class="chip chip-action chip-sm chip-choice">10 ou plus</label>
-    <p class="typography-body-2 text-black-secondary mt-2 mb-0">Considérer des seuils d'intervention plus bas chez la personne âgée.</p>
+    <p class="typography-body-2 text-black-secondary mt-2 mb-0">Considérer des seuils d’intervention plus bas chez la personne âgée.</p>
   </fieldset>
   <fieldset>
-    <legend>3. Au cours d'une même occasion, combien de fois vous arrive-t-il de boire 6 verres-standard ou plus&nbsp;?</legend>
+    <legend>3. Au cours d’une même occasion, combien de fois vous arrive-t-il de boire 6 verres-standard ou plus&nbsp;?</legend>
     <input type="radio" id="auditc31" name="auditc3" class="d-input-none" value="0" required>
     <label for="auditc31" class="chip chip-action chip-sm chip-choice">Jamais</label>
     <input type="radio" id="auditc32" name="auditc3" class="d-input-none" value="1">
@@ -75,7 +75,7 @@
         if (elemsChecked.length === 4) {
           scoreAuditc.innerHTML = score
           if (score >= 10) {
-            textAuditc.innerHTML = "<strong>Dépendance probable</strong><br>Proposer une consultation d'addictologie"
+            textAuditc.innerHTML = "<strong>Dépendance probable</strong><br>Proposer une consultation d’addictologie"
           } else if ((score >= 4 && score < 10 && sexe.id === 'auditc-homme') || (score >= 3 && score < 10 && sexe.id === 'auditc-femme')) {
             textAuditc.innerHTML = "<strong>Mésusage probable</strong><br>Intervention brève"
           } else {
