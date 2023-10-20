@@ -81,7 +81,7 @@ SNFGE
 - Autres symptômes
   - Douleurs abdominales
   - [Fissure anale]({{< relref "fissure-anale.md" >}}), [incontinence fécale]({{< relref "incontinence-fecale.md" >}}) ou [hémorroïdaires]({{< relref "hemorroides.md" >}})
-  - Incontinence urinaire
+  - Incontinence urinaire ([chapitre de l'IU de la femme]({{< relref "incontinence-urinaire-femme.md" >}}))
 - Signes d'alarmes (drapeaux rouges)  
   AEG, rectorragies, méléna, constipation sévère persistante et résistante sans cause évidente, syndrome rectal (épreinte, ténesme, faux besoins), masse abdominale ou rectale.
 

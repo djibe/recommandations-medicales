@@ -134,7 +134,7 @@ Ensemble de signes et symptômes à rechercher pour étayer une toux chronique:
   - Retentissement physique ou psychosocial
   - Toux insomniante, émétisante, asthéniante
   - Fractures de côte, douleur musculaire aiguë, révélation/majoration de hernie ou prolapsus
-  - Incontinence urinaire, céphalées, perte de connaissance
+  - Incontinence urinaire ([de la femme]({{< relref "incontinence-urinaire-femme.md" >}})), céphalées, perte de connaissance
   - Autres: hémorragie sous-conjonctivale, bradycardie, tachyarythmie
 - Signes de gravité (voir chapitre ci-dessus)
 - Caractères de la toux

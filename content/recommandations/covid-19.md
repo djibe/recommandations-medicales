@@ -126,8 +126,8 @@ Possibilité de préciser une **dispensation conditionnelle** en cas de test Cov
 {{%collapse "Vaccination" %}}
 
 - [Centres de vaccination](https://www.sante.fr/cf/centres-vaccination-covid.html)
-- [Trouver une dose d'ARNm](https://vitemadose.covidtracker.fr/)
-- [Imprimer son attestation de vaccination](https://attestation-vaccin.ameli.fr/)
+- [Trouver une dose d'ARNm](https://vitemadose.covidtracker.fr)
+- [Imprimer son attestation de vaccination](https://attestation-vaccin.ameli.fr)
 - [Obtenir une attestation en cas de vaccination à l'étranger](https://www.sante.fr/obtenir-une-attestation-en-cas-de-vaccination-letranger)
 
 ### Contre-indications à la vaccination contre le Covid-19

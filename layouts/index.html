@@ -54,7 +54,7 @@
         </div>
       {{ end }}
       </div>
-      <button class="btn btn-link my-3" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" aria-label="Afficher plus de recommandations récentes">Afficher + de recos</button>
+      <button class="btn btn-link btn-shaped my-3" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" aria-label="Afficher plus de recommandations récentes">Afficher + de recos</button>
       <div class="collapse" id="collapseExample">
         <div class="grid-1-2-3">
           {{ range first 9 ( after 6 (where site.RegularPages.ByPublishDate.Reverse "Section" "recommandations" )) }}
@@ -72,6 +72,7 @@
           </div>
           {{ end }}
         </div>
+        <a href="/recommandations/" class="btn btn-primary shadow-none btn-shaped my-4">Toutes les recommandations</a>
       </div>
       <h3 class="typography-headline-5 mt-5 mb-4">Quelques bons outils</h3>
       <div class="home-outils">

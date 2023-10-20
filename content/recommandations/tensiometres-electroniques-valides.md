@@ -11,13 +11,12 @@ lastmod = "2023-10-20"
 specialites = ["cardiologie"]
 annees = "2023"
 sources = ["ESH", "BIH"]
-tags = []
+tags = ["depistage", "HTA"]
 anglais = ["Blood pressure monitors"]
 sctid = "135840009"
 icd10 = ""
 image = true
 imageSrc = "Tensiomètre électronique. Freepik"
-todo = "liens"
 datatable = true
 +++
 

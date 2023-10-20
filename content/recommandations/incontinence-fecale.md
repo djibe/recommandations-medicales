@@ -69,7 +69,7 @@ SNFCP
   - Date d'apparition de l'incontinence anale
   - Rythme de survenue
   - Sévérité: [Fecal Incontinence Severity Index (FISI)](https://www.mdapp.co/fecal-incontinence-severity-index-fisi-calculator-234/), [St. Marks Incontinence Score](https://www.snfcp.org/questionnaires-outils/constipation-incontinence-troubles-fonctionnels/incontinence-score-de-vaizey-score-st-marks/) ou CCF
-- Autres symptômes: incontinence urinaire, pesanteur de [prolapsus génital]({{< relref "prolapsus-genital-femme.md" >}})
+- Autres symptômes: incontinence urinaire ([de la femme]({{< relref "incontinence-urinaire-femme.md" >}})), pesanteur de [prolapsus génital]({{< relref "prolapsus-genital-femme.md" >}})
   - Qualité de vie: [score FIQL](http://www.pelvicfloorcenter.org/sites/default/files/FIQOL%20Incont%20Survey%20Updated%209%2029%202014a.pdf)
 - Troubles urinaires, incontinence urinaire
 - Signes négatifs: rectorragies, méléna

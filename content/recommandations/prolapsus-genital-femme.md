@@ -94,8 +94,8 @@ Enquête sur les symptômes et le retentissement du prolapsus génital:
 - Symptômes associés  
   Échelles des symptômes et qualité de vie: PFDI-20, APFQ.
   - Syndrome d'hyperactivité vésicale  
-    Urgenturie ± fuites, pollakiurie, nycturie.
-  - Incontinence urinaire d'effort (IUE)
+    [Urgenturie ± fuites]({{< relref "incontinence-urinaire-femme.md" >}}), pollakiurie, nycturie.
+  - [Incontinence urinaire d'effort]({{< relref "incontinence-urinaire-femme.md" >}}) (IUE)
   - Troubles ano-rectaux  
     Dyschésie, manœuvres digitales d'exonération, [incontinence anale]({{< relref "incontinence-fecale.md" >}}).
 - Gêne ressentie et symptôme dominant
