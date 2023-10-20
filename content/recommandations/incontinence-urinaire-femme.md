@@ -2,12 +2,12 @@
 title = "Incontinence urinaire de la femme"
 titleSeo = "Incontinence urinaire femme"
 prefix = "l'"
-description = "TODO:"
+description = "Recommandations pour la prise en charge de l'incontinence urinaire de la femme. Examen, qualité de vie, bilan, rééducation périnéale, chirurgie bandelettes"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-17T16:53:27+02:00"
-publishdate = "2023-10-19"
-lastmod = "2023-10-19"
+publishdate = "2023-10-20"
+lastmod = "2023-10-20"
 specialites = ["gynecologie-obstetrique"]
 annees = "2009"
 sources = ["CNGOF", "Anaes"]
@@ -15,22 +15,27 @@ tags = ["BPCO", "contraception", "demence", "diabete", "geriatrie", "grossesse",
 anglais = ["Urinary incontinence"]
 sctid = "165232002"
 icd10 = "R32"
-draft = true
 image = true
 imageSrc = "Situation pelvienne de la vessie et de l'urètre de la femme. OpenStax College, CC BY 3.0, via Wikimedia Commons"
-todo = "descr > summary > liens"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-TODO:
+- L'incontinence urinaire est un diagnostic d'interrogatoire: << Vous arrive-t-il d'avoir des pertes ou des fuites d'urine ? >>. Il peut s'agir d'une incontinence urinaire d'effort, par impériosité ou mixte
+- Examen clinique rigoureux pour rechercher des facteurs favorisants l'incontinence urinaire, apprécier la sévérité et la qualité de vie. Le catalogue mictionnel sur 3 jours permet d'objectiver l'incontinence
+- Bilan de l'incontinence urinaire: bandelette urinaire voire ECBU, échographie vésicale sus-pubienne si suspicion de résidu post-mictionnel, femme âgée ou traitement anticholinergique envisagé
+- La prise en charge de l'incontinence urinaire de la femme associe des mesures hygiéno-diététiques (boissons, surpoids, activité physique) et la rééducation périnéale. En cas d'échec le traitement anticholinergique ou la chirurgie sont envisagés
+- Avis urologique en cas de suspicion d'uropathie ou d'échec du traitement de première intention
+
+Chapitres liés: [cystite]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), [prolapsus génital]({{< relref "prolapsus-genital-femme.md" >}}), [incontinence fécale]({{< relref "incontinence-fecale.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Incontinence urinaire
 : Définition de l'*International Continence Society*: perte involontaire d'urine par l'urètre. Elle atteint 3 millions de Françaises et est sous-diagnostiquée.
-: Il peut s'agir d'une incontinence urinaire d'**effort** (activité physique, rire, toux ou éternuement), d'une incontinence urinaire par **urgenturie** (ou impériosité par urgence mictionnelle) ou de leur association, l'**incontinence mixte**.
+: Il peut s'agir d'une incontinence urinaire d'**effort** (activité physique, rire, toux ou éternuement), d'une incontinence urinaire par **urgenturie** (ou impériosité par urgence mictionnelle) ou de leur association, l'**incontinence urinaire mixte**.
 : L'âge est un facteur de risque indépendant d'incontinence urinaire.
 
 ### Abréviations
@@ -84,30 +89,27 @@ Alternative: évaluation de l'incontinence urinaire par le [questionnaire standa
 - Toucher vaginal et tonus, prolapsus génital associé
 - Bandelette urinaire
 
+Test à la toux
+: Vessie peu remplie, patiente allongée: tousser entraîne une fuite signant une insuffisance sphinctérienne.
+
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-ECBU si bandelette urinaire positive, non disponible ou hématurie.
+Les examens complémentaires ne sont pas systématiques pour le bilan de l'incontinence urinaire.
 
-Échographie vésicale sus-pubienne si suspicion de RPM, âgée ou anticholinergique envisagé.
+- Si bandelette urinaire positive, non disponible ou hématurie: **ECBU**
+- si suspicion de résidu post-mictionnel (RPM), femme âgée ou anticholinergique envisagé: **échographie vésicale** sus-pubienne avec mesure du RPM
+- **Pad-test** optionnel: peser les protections pour quantifier l'abondance des fuites urinaires
 
-Test à la toux
-Vessie peu remplie, allongée, toux entraîne fuite. Insuffisance sphinctérienne.
-Si négatif, éval vésicale.
-
-Pad-test optionnel: quantifier l'incontinence.
-
-Mesure du résidu post-mictionnel
-Systématique si âgée.
-
-Pas d'examens spécialisés pendant la grossesse ou dans le postpartum immédiat
+> Pas d'examens spécialisés pendant la grossesse ou dans le postpartum immédiat. Le bilan urodynamique est restreint à l'appréciation de l'urologue.
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'incontinence urinaire" %}}
 
 ### Mesures hygiéno-diététiques
 
-Mesures hygiéno-diététiques systématiques pour l'incontinence urinaire:
+Mesures hygiéno-diététiques adaptées à l'incontinence urinaire:
 
 - Correction d'un surpoids
 - Adaptation de traitements favorisants
@@ -116,7 +118,7 @@ Mesures hygiéno-diététiques systématiques pour l'incontinence urinaire:
 - Régularisation du transit intestinal
 - Femme âgée dépendante: nursing, mictions programmées, mobilisation, régularisation du transit
 
-### Rééducation périnéale
+### Rééducation périnéale pour incontinence urinaire
 
 La **rééducation périnéale** par renforcement des muscles du plancher pelvien est réalisée par une sage-femme ou un kinésithérapeute (10 à 20 séances). Renouvelables si efficaces.
 
@@ -145,6 +147,17 @@ Incontinence urinaire d'effort: bandelette sous-urétrale (rétropubienne ou tra
 Principales complications: rétention vésicale, infection urinaire, urgenturie, douleur, érosion vaginale, vésicale ou urétrale, fistules.
 
 {{% /collapse %}}
+{{% collapse "Prise en charge de l'incontinence urinaire de la femme" "show" %}}
+
+{{< mermaid title="Prise en charge de l'incontinence urinaire de la femme. Dr JB Fron d'après CNGOF 2009 et Anaes">}}
+graph TB
+  incontinence["<b>Incontinence urinaire:</b><br>Perte involontaire d'urines<br>par l'urètre"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Interrogatoire:<br>antécédents, traitement,<br>boissons, sport<br>- Sévérité<br>- Qualité de vie<br>- Bandelette urinaire ++") --> bilan("<b>Bilan</b><br>—<br>- Bandelette urinaire voire ECBU<br>- Si âgée, suspicion de RPM,<br>anticholinergique:<br>échographie vésicale et RPM") --> traitement("<b>Traitement</b><br>—<br>- Mesures hygiéno-diététiques<br>- Rééducation périnale<br>- Urgenturie/pollakiurie et<br>ménopause: estrogènes") -. Échec .-> urologue("Avis urologique:<br>chirurgie bandelettes,<br>sphincter artificiel,<br>anticholinergique (risque démence)")
+  style incontinence stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+> **RPM =** résidu post-mictionnel
+
+{{%/collapse%}}
 {{%sources%}}
 
 - Prescrire Redaction. Patients ayant une incontinence d'urine. Rev Prescrire. 2023.
