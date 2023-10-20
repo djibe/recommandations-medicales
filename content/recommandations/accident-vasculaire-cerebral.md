@@ -19,6 +19,7 @@ icd10 = "I64"
 image = true
 imageSrc = "AVC ischémique sylvien gauche sur une IRM de diffusion. Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
 todo = "bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -27,7 +28,7 @@ todo = "bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104"
 - Un accident vasculaire cérébral est une urgence vitale: protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU (4h30 pour thrombolyser)
 - L'AVC est la première cause de mortalité de la femme et la 3<sup>e</sup> de l'homme
 - Un antécédent d'AIT ou d'AVC détermine un {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}
-- Prise en charge post-AVC: aspirine 75-150 mg/j si ischémique, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,7 g/L, si hypertension: {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}, thiazidique
+- Prise en charge post-AVC: aspirine 75-150 mg/j si ischémique non cardioembolique, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,7 g/L, si hypertension: {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}, thiazidique pour cible < 130/80 mmHg
 - Bilan spécialisé cardiologique et neurovasculaire
 - [Éducation de toute la population à reconnaître un AVC](https://solidarites-sante.gouv.fr/IMG/png/infographieavcsignes.png)
 
@@ -350,6 +351,15 @@ Si vous êtes témoin d'un de ces 3 signes, réagissez. Appelez immédiatement l
 Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de troubles de l'équilibre, de maux de tête intenses ou d'une baisse de vision.
 
 {{% /collapse %}}
+{{% collapse "Prise en charge post AVC" "show" %}}
+
+{{< mermaid title="Prise en charge post AVC. Dr JB Fron d'après HAS, ESC, ESO, AHA">}}
+graph TB
+  postAvc["Prise en charge<br>post-AVC"] --> controle("<b>Contrôle cardiovasculaire</b><br>—<br>- Très haut risque cardiovasculaire<br>- AIC non cardioembolique:<br>aspirine 75-150 mg/j<br>+ clopidogrel 3 mois<br>- Si HTA: cible &lt; 130/80<br>140 après 80 ans,<br>TZD, IEC/ARA2<br>- Statine pour LDL &lt; 0,7<br>- Arrêt tabac, alcool<br>- Régime méditerranéen, activité physique<br>- Dépister des apnées<br>- ALD si prise en charge lourde") --> rééducation("<b>Rééducation</b><br>—<br>- Motrice dès que possible<br>- Auto-exercices<br>- Si séquelles à 6 mois:<br>programme personnalisé")
+  style postAvc stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - {{< references/esh-2023 >}}

@@ -16,6 +16,7 @@ sctid = "40070004"
 icd10 = "B08.1"
 image = true
 imageSrc = "Trois lésions élémentaires de molluscum contagiosum typiques. Photo par Evanherk, CC BY-SA 3.0, via Wikimedia Commons"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -81,13 +82,23 @@ La prise en charge des molluscums contagiosums est essentiellement attentiste:
 
 Une anesthésie locale est possible (crème de lidocaïne).
 
-> << Les traitements chimiques locaux sont nombreux mais aucun n'est satisfaisant >> (*SFD 2016*)
-> << l'imiquimod topique à 5% n'est pas plus efficace que le placebo >> (*Cochrane 2017*)
+> << Les traitements chimiques locaux sont nombreux mais aucun n'est satisfaisant >> – *SFD 2016*
+> << l'imiquimod topique à 5% n'est pas plus efficace que le placebo >> – *Cochrane 2017*
 
-L'électrocoagulation et le laser CO<sub>2</sub> ne sont pas recommandés (*SFD 2016*)
+> L'électrocoagulation et le laser CO<sub>2</sub> ne sont pas recommandés – *SFD 2016*
 {.alert .alert-warning}
 
 {{% /collapse %}}
+{{% collapse "Prise en charge des molluscum contagiosum" "show" %}}
+
+{{< mermaid title="Prise en charge des molluscum contagiosum. Dr JB Fron d'après SFD 2016 et Cochrane">}}
+graph TB
+  molluscum["<b>Molluscum contagiosum</b><br>—<br>Papule(s) perlée rose/translucide,<br>1-5 mm, ombiliquée,<br>paumes/plantes épargnées"] --> traitement("<b>Traitement</b><br>—<br>- Abstention thérapeutique<br>guérison 2-8 mois<br>- Prévention contamination<br>- Adulte: bilan IST") -. Persistance ou extension .-> dermatologue(Curetage dermatologique)
+  style molluscum stroke:#4150f5, stroke-width:1px
+    molluscum -- Diagnostic différentiel --> différentiel("- Verrue<br>- Adulte: condylome<br>- Immunodéprimé:<br>kératoacanthome,<br>carcinome basocellulaire")
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
 {{< youtube id="j4pmVvJmpWM" title="Comment soigner les molluscum contagiosum ? (WhyDoc)" >}}
@@ -96,7 +107,7 @@ L'électrocoagulation et le laser CO<sub>2</sub> ne sont pas recommandés (*SFD 
 {{%sources%}}
 
 - Prescrire Redaction. Molluscum contagiosum. Premiers Choix Prescrire. Rev Prescrire. 2019.
-- [Van der Wouden JC. et al. Interventions for cutaneous molluscum contagiosum. Cochrane Database of Systematic Reviews.2017.](https://www.cochrane.org/fr/CD004767/SKIN_les-traitements-contre-le-molluscum-contagiosum-une-infection-virale-de-la-peau-courante-chez-les)
-- [Chartier C. et al; Société Française de Dermatologie (SFD). M.S.T. MINEURES. Ectoparasitoses externes Molluscums contagiosums. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/mst-mineures-ectoparasitoses-externes-molluscums-contagiosums-67dc5f3c424280fc386fcc38f4bf22a0.pdf)
+- [Van der Wouden JC et al. Interventions for cutaneous molluscum contagiosum. Cochrane Database of Systematic Reviews.2017.](https://www.cochrane.org/fr/CD004767/SKIN_les-traitements-contre-le-molluscum-contagiosum-une-infection-virale-de-la-peau-courante-chez-les)
+- [Chartier C et al; Société Française de Dermatologie (SFD). M.S.T. MINEURES. Ectoparasitoses externes Molluscums contagiosums. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/mst-mineures-ectoparasitoses-externes-molluscums-contagiosums-67dc5f3c424280fc386fcc38f4bf22a0.pdf)
 
 {{%/sources%}}

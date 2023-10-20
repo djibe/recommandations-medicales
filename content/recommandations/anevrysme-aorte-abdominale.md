@@ -17,7 +17,7 @@ sctid = "233985008"
 icd10 = "I71.4"
 image = true
 imageSrc = "Schéma de l'anévrysme de l'aorte abdominale par loudista sur Foter.com"
-todo = "SEO 'aorte abdominale'"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -63,9 +63,9 @@ ESC
 
 Le dépistage de l'anévrisme est à réaliser une seule fois par échodoppler artériel chez:
 
-- Homme de 65 à 75 ans avec tabagisme actif ou sevré depuis < 20 ans
-- Homme de 50 à 75 ans avec antécédent familial d'AAA au 1<sup>er</sup> degré (parents/fratrie)
-- En cas d'[artériopathie des membres inférieurs]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (*ESC 2017*)
+1. Homme de 65 à 75 ans avec tabagisme actif ou sevré depuis < 20 ans
+2. Homme de 50 à 75 ans avec antécédent familial d'AAA au 1<sup>er</sup> degré (parents/fratrie)
+3. En cas d'[artériopathie des membres inférieurs]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (*ESC 2017*)
 
 Imagerie complémentaire par angioscanner ou angio-IRM si images anormales.
 
@@ -86,8 +86,20 @@ Prise en charge de l'anévrisme de l'aorte abdominale:
   - Le traitement est chirurgical (référence) ou endovasculaire
   - Indications opératoires basées sur: diamètre > 5 cm, croissance > 10 mm/an, AAA symptomatique
 
-Le traitement des AAA < 50 mm n'a montré aucun bénéfice par rapport à l'abstention
+Le traitement des anévrismes de l'aorte abdominale de moins de 50 mm n'a montré aucun bénéfice par rapport à l'abstention.
 {.alert .alert-info}
+
+{{%/collapse%}}
+{{% collapse "Prise en charge de l'anévrisme de l'aorte abdominale" "show" %}}
+
+{{< mermaid title="Conduite à tenir pour le dépistage de l'anévrisme de l'aorte abdominale. Dr JB Fron d'après ESC et HAS">}}
+graph TB
+  dépistage["<b>Indications au dépistage de<br>l'anévrisme de l'aorte abdominale:</b><br><br>- Homme 65-75 ans fumeur ou sevré < 20 ans<br>- ou 50-75 ans avec antécédent familial d'AAA<br>- AOMI"] --> échodoppler("Échodoppler artériel<br>aortique") -- Normal --> arrêt("- Pas de suivi spécifique<br>- Correction du risque<br>cardiovasculaire")
+  style dépistage stroke:#4150f5, stroke-width:1px
+    échodoppler -- Anormal --> imagerie("Angio-scanner ou<br>angio-IRM aortique") --> spécialiste("Avis spécialisé:<br>angiologue ou cardiologue")
+{{< /mermaid >}}
+
+> **AOMI =** artériopathie des membres inférieurs
 
 {{%/collapse%}}
 {{%sources%}}
