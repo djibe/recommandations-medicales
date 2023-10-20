@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2023-09-11"
+lastmod = "2023-10-20"
 specialites = ["cardiologie"]
 annees = "2023"
 sources = ["ESH", "USPTF", "ESC"]
@@ -25,7 +25,7 @@ flowchart = true
 {{%article-summary%}}
 
 - Dépister l'hypertension artérielle dès 3 ans, au moins tous les 3 ans après 40 ans (annuellement selon la *USPTF*, 1/3 des adultes atteints et 3/4 non contrôlés)
-- Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet*)
+- Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet* et [tensiomètres validés]({{< relref "tensiometres-electroniques-valides.md" >}}))
 - Confirmer le diagnostic par mesures et automesures / MAPA répétées, conserver le grade et le stade d'hypertension au diagnostic
 - Recherche des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} ({{< scores/heartscore >}} en prévention primaire) (le LDL cible en découle)
 - Traitement selon le grade d'hypertension (voir *Définitions*) et mesures hygiéno-diététiques systématiques
@@ -170,7 +170,7 @@ Toute personne majeure devrait avoir la mesure de pression artérielle (PA) dans
 Une mesure standardisée est nécessaire pour le contrôle des objectifs tensionnels:
 
 - Conditions de mesure
-  - Assis au calme depuis +5 minutes
+  - Assis au calme depuis au moins 5 minutes
   - Température ambiante confortable
   - Sans tabac, café, alimentation ou exercice physique dans les 30 minutes
   - Adossé, les jambes non croisées avec les pieds posés à plat
@@ -178,7 +178,7 @@ Une mesure standardisée est nécessaire pour le contrôle des objectifs tension
   - Personne ne parle pendant et entre les mesures
   - Retrait de tous les vêtements de la zone de mesure
 - Technique validée
-  - **Tensiomètre électronique validé uniquement** (liste plus bas) ou manuel chez l'enfant
+  - **Tensiomètre électronique validé uniquement** ([liste]({{< relref "tensiometres-electroniques-valides.md" >}})) ou manuel chez l'enfant
   - Brassard huméral validé et calibré régulièrement (annuel)
   - Bras nu posé sur le bureau
   - Le centre du brassard est posé en regard de l'artère brachiale et le milieu du brassard doit être au niveau du sternum médian
@@ -189,7 +189,7 @@ Une mesure standardisée est nécessaire pour le contrôle des objectifs tension
     Une différence de 15-20 mmHg nécessite un avis cardiologique.
   - 3 mesures (2 si normales) espacées de 1 minute et noter la moyenne des 2 dernières
   - En manuel: gonfler 20-30 mmHg au-delà de la disparition du premier bruit de Korotkoff. Dégonfler de 2-3 mmHg/s.
-  - **Enfants, grossesse, arythmie**: contrôler manuellement la tension
+  - **Enfants, grossesse, arythmie**: contrôler manuellement la tension (ou avec un appareil validé)
   - Diagnostic si ≥ 140/90 mmHg
 - Dossier médical
   - Noter les valeurs systoliques et diastoliques dans le dossier médical
@@ -211,14 +211,7 @@ En cas de discordance mesures au cabinet et automesure/MAPA, répéter les mesur
 
 ### Le tensiomètre électronique
 
-Appareils validés pour la mesure automatisée de la pression artérielle:
-
-- [Pour le cabinet](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=office_clinic)
-- [Pour l'automesure tensionnelle](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=home)
-- [Enfants](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=children)
-- [Grossesse](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=pregnancy)
-
-[Rechercher un modèle (tests ESH)](https://stridebp.org/bp-monitors), [autre liste de modèles validés (AMA)](https://www.validatebp.org) ([anglais](https://bihsoc.org/bp-monitors/), [canadien](https://hypertension.ca/healthcare-professionals/recommended-devices)).
+Voir les [tensiomètres validés]({{< relref "tensiometres-electroniques-valides.md" >}}) pour la mesure automatisée de la pression artérielle.
 
 Le brassard est spécifique de chaque appareil.
 

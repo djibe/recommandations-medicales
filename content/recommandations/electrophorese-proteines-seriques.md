@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-17T00:20:41+01:00
 publishdate = "2020-12-17"
-lastmod = "2023-08-28"
+lastmod = "2023-10-19"
 specialites = ["rhumatologie"]
 annees = "2017"
 sources = ["HAS"]
@@ -61,8 +61,9 @@ Indications à la réalisation de l'électrophorèse des protéines sériques (E
   Fracture vertébrale suspecte, fracture pathologique, géodes.
 - [Bouffées vasomotrices atypiques]({{< relref "menopause.md" >}}) (*CNGOF 2021 Ménopause*)
 - [Prurit sans orientation]({{< relref "prurit.md" >}}) (*CEDEF 2021*)
+- [Pneumonie aiguë communautaire]({{< relref "pneumonie-aigue-communautaire.md" >}}) à germe encapsulé (pneumocoque, *H. influenzae*) chez le jeune (*CEP*)
 
-> *HAS 2017*
+> – *HAS 2017*
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -76,7 +77,7 @@ Bilan minimal de première intention en présence d'un pic monoclonal d'immunogl
   - IgM: LDH
 - Imagerie seulement si points d'appel
 
-> *HAS 2017*
+> – *HAS 2017*
 
 Le dosage des chaînes légères libres relève du spécialiste et n'est pas remboursé en ville
 {.alert .alert-info}
@@ -100,25 +101,9 @@ Personnes avec suspicion d'hémopathie maligne devant être adressées rapidemen
   - Ig monoclonale avec IgG > 15 g/L, IgA ou IgM > 10 g/L.
 {{%/warning%}}
 
-> *HAS 2017*
+> – *HAS 2017*
 
 Voir *Surveillance* pour les patients non adressés à l'hématologue.
-
-{{% /collapse %}}
-{{%collapse "Surveillance d'une immunoglobuline monoclonale" %}}
-
-Lorsque le patient présente une immunoglobuline monoclonale de façon asymptomatique, sans anomalie biologique ni radiologique, une surveillance simple est nécessaire (voir *Qui adresser au spécialiste?*).
-
-**Surveillance à 6 mois de la découverte puis annuelle**:
-
-- Électrophorèse des protéines sériques
-  Dans le même laboratoire avec la même technique.
-- NFS
-- Créatininémie
-- Pic d'IgA/IgG: calcémie corrigée
-- Pic IgM: LDH
-
-> *HAS 2017*
 
 {{% /collapse %}}
 {{%sources%}}

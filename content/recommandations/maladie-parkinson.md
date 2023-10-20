@@ -201,7 +201,7 @@ La triade classique est akinésie/bradykinésie, rigidité et tremblement de rep
   - Aggravé par le calcul et l'émotion
 - **Instabilité posturale** précoce
 - Dysautonomie  
-  Hypotension artérielle orthostatique (45% avec [chutes](/tags/chute/), lipothymies/malaises) et troubles urinaires.
+  Hypotension artérielle orthostatique (45% avec [chutes](/tags/chute/), lipothymies/malaises) et troubles urinaires (incontinence).
 - Symptômes non moteurs
   - Apathie, troubles de la motivation
   - Douleurs pseudo-rhumatismales (épaule, rachis) ou diverses (paresthésies, radiculalgies)

@@ -7,7 +7,7 @@ synonyms = ["Pneumopathies infectieuses communautaires"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-15T17:05:04+02:00"
 publishdate = "2023-05-17"
-lastmod = "2023-05-21"
+lastmod = "2023-10-19"
 specialites = ["pneumologie"]
 annees = "2020"
 sources = ["SPILF", "Afssaps"]
@@ -24,12 +24,14 @@ flowchart = true
 {{%article-summary%}}
 
 - Diagnostic de pneumonie aiguë communautaire (PAC): examen clinique pour relever les terrains à risques de mortalité et les signes de gravité
-- La radiographie thoracique de face est systématique
-- [Critères d'hospitalisation stricts](#critères-dhospitalisation-pour-pneumonie) pour la pneumonie: CRB65 (confusion FR ≥ 30/min, PAS < 90 ou PAD ≤ 60 mmHg, âge +65 ans), signes de gravité et facteurs de risque selon l'âge
+- [Critères d'hospitalisation stricts](#critères-dhospitalisation-pour-pneumonie) pour la pneumonie qui reste une infection grave: CRB65 (confusion FR ≥ 30/min, PAS < 90 ou PAD ≤ 60 mmHg, âge +65 ans), signes de gravité et facteurs de risque selon l'âge
 - La prise en charge de la pneumonie aiguë communautaire est possible en ambulatoire en l'absence de ces critères
+- La radiographie thoracique de face est systématique
+- Bilan complémentaire en cas de germe encapsulé chez le jeune ou suspicion de bactérie atypique
 - L'antibiothérapie est urgente et dépend du tableau de pneumopathie infectieuse: amoxicilline 1g x 3/j (+ acide clavulanique si âgé ou comorbidité), macrolide si bactérie atypique intracellulaire
-- La durée du traitement de la pneumonie est de 5 jours (7 jours si adulte non rétabli à J3, 14 jours si légionelle - *SPILF 2020*)
+- La durée du traitement de la pneumonie est de 5 jours (7 jours si adulte non rétabli à J3, 14 jours si légionelle – *SPILF 2020*)
 - Réévaluation clinique systématique à 48-72 heures
+- Prévention de la pneumonie par arrêt du tabac et vaccinations grippe/Covid (+65 ans, immunodépression ...) et pneumocoque (voir *Prévention*)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -49,7 +51,7 @@ CMIT
 : Collège des Universitaires des Maladies Infectieuses et Tropicales
 
 FQAP
-: fluoroquinolone anti-pneumococcique (lévofloxacine, moxifloxacine évitée)
+: fluoroquinolone anti-pneumococcique (lévofloxacine, moxifloxacine à éviter)
 
 IRB
 : infection respiratoire basse (sous-glottique)
@@ -157,10 +159,12 @@ La **pneumonie post-grippale** est une ré-aggravation à J5-J7 après le début
 Radiographie thoracique de face systématique (contrôle à 1 mois chez l'enfant)
 {.alert .alert-info}
 
-- Le scanner thoracique est un examen de seconde intention devant un cas ou une évolution atypique
+Autres bilans ambulatoires de la pneumopathie infectieuse:
+
 - Pas d'examens biologiques en ambulatoire (*CEP*) mais proposer une **sérologie VIH**
-- En ambulatoire, PCR naso-pharyngée en cas de suspicion de pneumopathie à bactérie atypique bien tolérée: *Mycoplasma pneumoniae*, *Chlamydophila pneumoniae* + sérologie *M. pneumoniae*
-- Électrophorèse des protéines sériques chez le sujet jeune avec germe encapsulés (pneumocoque, *H. influenzae* - *CEP*)  
+- Si suspicion de pneumopathie à bactérie atypique bien tolérée: PCR naso-pharyngée *Mycoplasma pneumoniae*, *Chlamydophila pneumoniae* + sérologie *M. pneumoniae*
+- Le scanner thoracique est un examen de seconde intention devant un cas ou une évolution atypique
+- Électrophorèse des protéines sériques chez le sujet jeune avec germe encapsulé (pneumocoque, *H. influenzae* - *CEP*)  
   Recherche une hypogammaglobulinémie.
 
 {{% /collapse %}}
@@ -170,7 +174,7 @@ Radiographie thoracique de face systématique (contrôle à 1 mois chez l'enfant
 
 ### Critères d'hospitalisation pour pneumonie aiguë communautaire
 
-Évaluation hospitalière urgente si ≥ 1 parmi:
+Évaluation hospitalière urgente si ≥ 1 critère parmi:
 
 - Nourrisson < 6 mois (*SFP*)
 - **Score CRB65**
@@ -192,9 +196,7 @@ Radiographie thoracique de face systématique (contrôle à 1 mois chez l'enfant
   - Isolement social (personne âgée ++)
   - Dégradation à 48-72 heures (NDLR)
 
-Évaluation hospitalière urgente si ≥ 2 ou ≥ 1 chez le +65 ans parmi:
-
-Facteurs de risque de mortalité:
+Évaluation hospitalière urgente si ≥ 2 (ou ≥ 1 chez le +65 ans) **facteurs de risque de mortalité**:
 
 - Comorbidité à risque de décompensation  
   Insuffisance cardiaque ou rénale, AVC/AIT, hépatopathie chronique, BPCO, diabète déséquilibré, drépanocytose.
@@ -204,7 +206,7 @@ Facteurs de risque de mortalité:
 - Hospitalisation dans l'année
 - Vie en institution
 
-> *Afssaps 2010*
+> – *Afssaps 2010*
 
 Évaluer: tableau atypique ou incertain
 {{%/warning%}}
@@ -212,7 +214,7 @@ Facteurs de risque de mortalité:
 {{% /collapse %}}
 {{%collapse "Prévention de la pneumonie" %}}
 
-[Sevrage tabagique]({{< relref "arret-tabac.md" >}}) et [indications à la vaccination antigrippale]({{< relref "grippe.md" >}}) (+65 ans, grossesse, diabète ...).
+[Sevrage tabagique]({{< relref "arret-tabac.md" >}}) et [indications à la vaccination antigrippale]({{< relref "grippe.md" >}}) (+65 ans, grossesse, diabète ...) et anti-Sars-Cov2 (+65 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave: chimio, dialyse, voir *Personnes à risque*, *DGS 2023-07*).
 
 Indications à la vaccination anti-pneumococcique:
 
@@ -255,7 +257,7 @@ Antibiothérapie selon l'orientation du tableau clinique.
 
 {{%info%}}
 
-Traitement antibiotique probabiliste pendant **5 jours** avec réévaluation systématique à 48-72 heures (7 jours en cas de persistance de syndrome infectieux, 14 jours pour la légionelle selon *SPILF 2020*):
+Traitement antibiotique probabiliste **pendant 5 jours** avec réévaluation systématique à 48-72 heures (7 jours en cas de persistance de syndrome infectieux, 14 jours pour la légionelle selon *SPILF 2020*):
 
 - [Amoxicilline 1g](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) x 3/j  
   Enfant: 80-100 mg/kg/j en 3 prises (max 3 g/j - *SFP*).
@@ -281,7 +283,7 @@ Chez l'enfant (pas d'intracellulaire avant 3 ans): clarithromycine 15 mg/kg/j en
 En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-pneumonie), chez le **sujet âgé** ou en cas de **comorbidités**:
 
 - <mark>Amoxicilline-acide clavulanique 1g</mark> ou ceftriaxone IM 1g (ou FQAP lévofloxacine) pendant 7 jours
-- Si échec à 48-72 heures: ajout macrolide (sauf lévofloxacine - *CMIT*) ou hospitalisation (*CEP*)
+- Si échec à 48-72 heures: ajout macrolide 14j (sauf lévofloxacine - *CMIT*) ou hospitalisation (*CEP*)
 
 #### Pneumonie post-grippale
 

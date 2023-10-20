@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-25T21:22:41+02:00"
 publishdate = "2020-09-25"
-lastmod = "2023-05-17"
+lastmod = "2023-10-20"
 specialites = ["infectiologie"]
-annees = "2021"
-sources = ["CEDEF"]
+annees = "2023"
+sources = ["Collèges"]
 tags = []
 anglais = ["Whitlow"]
 sctid = "32021005"
@@ -23,9 +23,9 @@ todo = "rankok"
 {{%article-summary%}}
 
 - Le diagnostic de panaris est clinique
-- Prise en charge par bains antiseptiques pluriquotidiens (2-3/jour)
+- Prise en charge d'un panaris par des bains antiseptiques pluriquotidiens (2 à 3 fois par jour)
 - Antibiothérapie ciblant le staphylocoque doré si immunodépression, valvulopathies, diabète ou évolution défavorable
-- Exérèse chirurgicale d'un panaris collecté étendu
+- Exérèse chirurgicale en cas de panaris collecté étendu
 - Consignes pour prévenir les récidives du panaris
 
 {{%/article-summary%}}
@@ -139,7 +139,7 @@ Cicatrisation en 2-3 semaines selon la taille initiale.
 Pansement à changer tous les jours pendant 1 semaine puis toutes les 48 heures jusqu'à cicatrisation complète.
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{%collapse "Prise en charge d'un panaris" "show" %}}
 
 {{< mermaid title="Prise en charge d'un panaris" >}}
 graph TB
@@ -152,9 +152,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-155.pdf)
+- [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 155. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-155-%E2%80%94-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques_CompressPdf.pdf)
 - Prescrire Redaction. Panaris bactérien péri-unguéal d'un doigt. Prescrire. Juin 2022.
-- CEDEF. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques de l'adulte et de l'enfant. 155. 2021.
-- Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 152 UE 6. 2017.
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Antibioclic](https://antibioclic.com/questionnaire/23)
 - [ChirurgieMain. Panaris](http://chirurgiemain.fr/pathologies-main-poignet/traumatismes/panaris/)

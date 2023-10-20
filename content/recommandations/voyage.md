@@ -330,8 +330,8 @@ Le mal des transports (cinétose ou naupathie) atteint surtout les 2-12 ans. Les
 
 La prise en charge repose principalement sur les antihistaminiques de première génération (sauf pour le conducteur), 2 heures avant le départ:
 
-- Diménhydrinate (Mercalm® à partir de 6 ans, [Nausicalm®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60173964&typedoc=R à partir de 15 ans) - efficace 6-8 heures)
-- Diphénhydramine (Nautamine® à partir de 2 ans - efficace 6-8 heures)
+- Diménhydrinate ([Mercalm®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68461541&typedoc=R) à partir de 6 ans, [Nausicalm®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60173964&typedoc=R) à partir de 15 ans - efficace 6-8 heures)
+- Diphénhydramine ([Nautamine®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62444574&typedoc=R) à partir de 2 ans - efficace 6-8 heures)
 - Méclozine (Agyrax® chez l'adulte, efficace 24 heures)
 - Si grossesse: doxylamine (*Prescrire*)
 

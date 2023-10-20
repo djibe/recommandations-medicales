@@ -1,0 +1,74 @@
++++
+title = "Les tensiomètres électroniques validés pour le cabinet"
+titleSeo = "Tensiomètres électroniques validés"
+prefix = ""
+description = "Tensiomètres électroniques validés pour la mesure de la pression artérielle fiable au cabinet par le médecin. Brassards pour enfants, grossesse, adulte et obèse"
+synonyms = ["Sphygmomanomètre électronique oscillométrique"]
+auteurs = ["Jean-Baptiste FRON"]
+date = "2023-10-19T15:20:19+02:00"
+publishdate = "2023-10-20"
+lastmod = "2023-10-20"
+specialites = ["cardiologie"]
+annees = "2023"
+sources = ["ESH", "BIH"]
+tags = []
+anglais = ["Blood pressure monitors"]
+sctid = "135840009"
+icd10 = ""
+image = true
+imageSrc = "Tensiomètre électronique. Freepik"
+todo = "liens"
+datatable = true
++++
+
+{{%article-summary%}}
+
+- Les recommandations internationales et européennes préconisent l'utilisation d'un tensiomètre électronique validé pour la mesure de la pression artérielle au cabinet
+- Peu de modèles de brassards électroniques ont été validés, la certification *CE* n'étant nullement garante des mesures
+- Les modèles de tensiomètres électroniques ci-dessous ont été validés pour certaines situations (adulte, grossesse, enfant) par les sociétés savantes de référence pour la prise en charge de la pression artérielle
+- En plus d'un brassard électronique validé, la mesure de la pression artérielle nécessite des conditions strictes de mesure (brassard, assis depuis 5 minutes, adossé, sans parler ... voir [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}))
+
+{{%/article-summary%}}
+
+## Tableau des tensiomètres électroniques validés {.mt-5}
+
+Les brassards électroniques **validés par les sociétés savantes d'hypertension artérielle** pour la mesure de la pression artérielle au cabinet du médecin. Le modèle doit être **adapté au patient** (adulte, grossesse, enfant) et à sa corpulence.
+
+La gamme de prix est très variable (de 33 à 650 €) et parmi les tensiomètres (ou sphygmomanomètres) validés les moins chers disponibles en France on peut citer les marques: Andon (ihealth Track KN-550BT ou BP3L 40€, KD-5920 60€, KD-5923 33€), Omron (M7 80€)
+{.alert .alert-info}
+
+<script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Tensiomètres électroniques validés pour la mesure de la pression artérielle en consultation. Dr JB Fron d'après Sociétés savantes citées."}</script>
+<table id="bp-monitors" class="table">
+<caption><span class="font-weight-bold">Tableau.</span> Tensiomètres électroniques validés pour la mesure de la pression artérielle en consultation. Dr JB Fron d'après Sociétés savantes citées.</caption>
+<thead>
+  <tr>
+    <th scope="col">Fabricant</th>
+    <th scope="col">Modèle</th>
+    <th scope="col">Population</th>
+    <th scope="col">Lieu</th>
+    <th scope="col">Évaluateur</th>
+  </tr>
+</thead>
+</table>
+
+> **AMT =** automesure tensionnelle ; **BIH =** British and Irish Hypertension Society ; **ESH =** European Society of Hypertension (StrideBP)
+
+Le tensiomètre électronique n'a pas besoin de recalibration mais le contrôle des brassards doit être annuel. Le brassard est spécifique de chaque appareil.
+
+<script>
+window.addEventListener('load', () => {
+  $(function () {
+    $('#bp-monitors').DataTable({
+      ajax: '/data/tensiometres.json',
+      columns: [
+        { data: 'Fabricant' },
+        { data: 'Modèle' },
+        { data: 'Population' },
+        { data: 'Lieu' },
+        { data: 'Evaluateur' }
+      ],
+      select: false
+    })
+  })
+})
+</script>

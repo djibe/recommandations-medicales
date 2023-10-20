@@ -6,7 +6,7 @@ synonyms = ["Couperose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-20T20:11:41+02:00"
 publishdate = "2020-10-20"
-lastmod = "2023-10-10"
+lastmod = "2023-10-17"
 specialites = ["dermatologie"]
 annees = "2021"
 sources = ["BAD"]
@@ -60,7 +60,7 @@ Le diagnostic de la rosacée est clinique pour ses différentes formes.
 
 ### Forme érythématotélangiectasique (vasculaire)
 
-Bouffées vasomotrices paroxystiques ou **flushs**
+Bouffées vasomotrices paroxystiques ou **flushs** (dite sous-type I)
 : Rougeur paroxystique du visage et du cou avec *sensation de chaleur* durant quelques minutes.  
 **Facteurs déclenchants:** changement de température, ingestion de boisson chaude, alcool, épices.  
 Aucun signe systémique et récupération spontanée totale en quelques minutes.
@@ -74,16 +74,19 @@ Atteinte permanente des joues, nez, menton, front en partie médiane avec:
 
 ### Forme papulopustuleuse (inflammatoire)
 
-Forme de rosacée la plus caractéristique avec papules inflammatoires et pustules *indolores* survenant sur un fond érythémateux permanent. Extension variable.
+Forme de rosacée la plus caractéristique (sous-type II) avec papules inflammatoires et pustules *indolores* survenant sur un fond érythémateux permanent. Extension variable.
 
 Signes négatifs (différences avec l'[acné]({{< relref "acne.md" >}})): respect péri-buccal et péri-oculaire, pas de comédon, de cicatrice ou de douleurs.
 
 ### Forme hypertrophique - Rhinophyma
 
-Forme de rosacée sévère atteignant l'homme +50 ans à 95%.  
-Rhynophyma: Hypertrophie du nez, rouge avec orifices folliculaires dilatés. Peau épaissie avec aspect de << trogne >>.  
-N'est pas synonyme d'alcoolisme.  
-Aucune régression après installation.
+Rhynophyma
+: Hypertrophie du nez, rouge avec orifices folliculaires dilatés. Peau épaissie avec aspect de << trogne >>. Il n'est pas synonyme d'alcoolisme.
+: Forme de rosacée sévère atteignant l'homme +50 ans à 95%. Aucune régression après installation.
+
+### Rosacée oculaire
+
+Très fréquente (3-72 %) avec pour symptômes habituels: conjonctivite, blépharite, irritation, xérose voire kératite.
 
 ### Rosacée stéroïdienne
 
@@ -95,73 +98,85 @@ Corticodépendance, érythème desquamatif, grandes télangiectasies des zones p
 
 ### Diagnostics différentiels de la rosacée
 
-- [Acné]({{< relref "acne.md" >}})  
-  Adolescent, visage, cou et tronc, comédons, pas de flushs/érythème/télangiectasies, papules douloureuses.
-- [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})  
-  Fréquemment associée.  
-  Localisations séborrhées (scalp, rétroauriculaires, paupières, sillons nasogéniens), fond érythémateux parsemé de squames grasses.
-- Lupus érythémateux  
-  Pas de flushs, pas de papules/pustules, atrophie et hyperkératose, photosensibilité, vespertilio.
-- Syndrome carcinoïde  
-  Flushs prolongés, généralisés, sévères, sudation, bronchospasme, douleurs abdominales voire diarrhées.
+- Forme vasculaire
+  - Bouffées vasomotrices de la [ménopause]({{< relref "menopause.md" >}})
+  - Lupus érythémateux  
+    Pas de flushs, pas de papules/pustules, atrophie et hyperkératose, photosensibilité, vespertilio.
+  - Hypertension non contrôlée, phéochromocytome
+  - [Polyglobulie]({{< relref "polyglobulie.md" >}})
+  - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})  
+    Fréquemment associée. Localisations séborrhées (scalp, rétroauriculaires, paupières, sillons nasogéniens), fond érythémateux parsemé de squames grasses.
+  - [Dermatite atopique]({{< relref "dermatite-atopique.md" >}})
+  - Syndrome carcinoïde  
+    Flushs prolongés, généralisés, sévères, sudation, bronchospasme, douleurs abdominales voire diarrhées.
+- Rosacée papulopustuleuse
+  - [Acné]({{< relref "acne.md" >}})  
+    Adolescent, visage, cou et tronc, comédons, pas de flushs/érythème/télangiectasies, papules douloureuses.
+  - Eczéma de contact
+  - Lupus
+  - Folliculite à éosinophiles
 - Sarcoïdose nasale
 
 {{% /collapse %}}
 {{%collapse "Traitement de la rosacée" %}}
 
-**Objectifs de la prise en charge:** réduire les symptômes, préserver le capital esthétique et prévenir les complications.
+**Objectifs de la prise en charge de la rosacée:** réduire les symptômes, préserver le capital esthétique et prévenir les complications.
 
-Contre-indication formelle aux dermocorticoïdes dans la rosacée
+> Contre-indication formelle aux dermocorticoïdes dans la rosacée
 {.alert .alert-warning}
 
-Traitement au long cours car suspensif seulement.
+Le traitement de la rosacée est chronique car il est seulement suspensif.
 
 ### Mesures hygiéno-diététiques
 
 - [Fiche d'information patient](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-couperose-et-la-rosac%C3%A9e)
 - Éviter les facteurs favorisants  
-Alcool, soleil, boissons chaudes and alimentation épicée.
+  Alcool, café, soleil, air chaud et froid et changements de température, boissons chaudes and alimentation épicée, sport, stress aigu.
 - Toilette à l'eau tiède puis émollient fluide
 - Éviter les topiques gras et fonds de teint occlusifs
 - Photoprotection
 - Soutien psychologique
 
-Selon les Annales de Dermato, intérêt de rechercher systématiquement:
+Selon les *Annales de Dermato*, intérêt de rechercher systématiquement:
 
-- Une infection à *[Helicobacter pylori]({{< relref "helicobacter-pylori.md" >}})* avec traitement ad-hoc
+- Une infection à *[Helicobacter pylori]({{< relref "helicobacter-pylori.md" >}})* avec traitement ad-hoc (controversé)
 - Une pullulation microbienne digestive, traitée par rifampicine 600 mg x 2/j pendant 10 jours
 
-### Forme érythémato-télangiectasique
+### Traitement de la rosacée érythémato-télangiectasique
 
+- Essai possible: métronidazole 0,75% gel (Rozex®, gén) ou acide azélaïque 15% gel (Finacéa®) - *EADV*
 - Flush invalidants  
   Propranolol 30-120 mg/j (*[Logger 2020](https://doi.org/10.1016/j.jaad.2020.04.129)*)
 - Érythème facial
-  - Brimonidine 0,3% gel (Mirvaso®) x 1/j (résurgence à l'arrêt)
+  - <mark>[Brimonidine 0,3%](https://ec.europa.eu/health/documents/community-register/2023/20230123158133/anx_158133_fr.pdf) gel (Mirvaso®) x 1/j</mark> (résurgence à l'arrêt)
   - {{%class%}}Oxymetazoline non disponible en France.{{%/class%}}
   - Voire laser par le dermatologue
 - Télangiectasies  
   Adresser au dermatologue pour laser ou électrocoagulation.
 
-### Forme papulopustuleuse mineure
+### Traitement de la rosacée papulopustuleuse mineure
 
-Métronidazole 0,75% gel (Rozex®, gén) x 2/j pendant 3 mois
+[Métronidazole 0,75 %](medicaments) gel (Rozex®, gén) x 2/j pendant 3 mois
 {.alert .alert-info}
 
 **Effet indésirable:** xérose cutanée.
 
-#### Traitements de deuxième intention
+#### Traitements de deuxième intention de la rosacée sous-type II
 
 Acide azélaïque 15% gel (Finacéa®) x 2/j pendant 3 mois
 
 **Contre-indication:** grossesse.  
 **Effets indésirables:** irritation locale, érythème ,desquamation, xérose, sensation de brûlure, prurit, photosensibilité, hypopigmentation de peau mate.
 
-Autres:
+Autres traitements:
 
-- [Ivermectine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69444281&typedoc=R) x 1/j pendant 3 mois
-- {{%class%}}Minocycline crème (non disponible en France){{%/class%}}
+- [Ivermectine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69444281&typedoc=R) x 1/j pendant 3 mois ou orale
+- Adapalène gel, peroxyde de benzoyle 5%, érythromycine 2% gel (voir [Acné]({{< relref "acne.md" >}}))
+- Zinc oral 100 mg/j
+- Tétracycline orale
+- Spécialisés: laser, pimecrolimus, dapsone crème, minocycline crème (non disponibles en France), rétinoïdes, trétinoïne, isotrétinoïne
 
-### Papulopustules diffuses
+### Traitement de la rosacée avec papulopustules diffuses
 
 Atteinte papulopustuleuse marquée et oculaire.
 
@@ -195,11 +210,11 @@ Métronidazole gel 0,75% (Rozex®, gén) x 1-2/j
 Adresser au dermatologue en cas de résistance aux traitements de première intention
 {.alert .alert-warning}
 
-### Rhinophyma
+### Traitement du rhinophyma
 
 Adresser au dermatologue pour chirurgie ou laser.
 
-### Atteinte oculaire
+### Atteinte oculaire de la rosacée
 
 - Avis ophtalmologique
 - Éviter les facteurs irritants  
@@ -210,9 +225,9 @@ Adresser au dermatologue pour chirurgie ou laser.
 Lavage quotidien, expression du contenu des glandes de Mebomius, gels palpébraux.
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{%collapse "Prise en charge de la rosacée" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une rosacée. Dr JB Fron d'après BAD 2021" >}}
+{{< mermaid title="Prise en charge de la rosacée. Dr JB Fron d'après BAD 2021" >}}
 graph TB
   rosacee[Rosacée]
   style rosacee stroke:#4150f5, stroke-width:1px

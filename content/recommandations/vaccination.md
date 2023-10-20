@@ -289,7 +289,7 @@ Documents pour informer sur la vaccination:
 
 {{< youtube id="u31xRtiITzk" title="Administration du vaccin Rotarix (CDC)" >}}
 
-{{< youtube id="QzhPJ8c5A7E" title="Webinaire Les Mardis de la Vaccination" >}}
+{{< youtube id="FPI_1SQtZ5U" title="Webinaire Les Mardis de la Vaccination sur Vaccins et sexualités (HPV, Hépatite A)" >}}
 
 {{% /collapse %}}
 {{%sources%}}

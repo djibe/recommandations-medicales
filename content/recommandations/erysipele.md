@@ -7,7 +7,7 @@ synonyms = ["Érésipèle"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T19:35:02+02:00"
 publishdate = "2021-09-19"
-lastmod = "2023-01-16"
+lastmod = "2023-10-20"
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["HAS", "SPILF"]
@@ -230,7 +230,8 @@ accTitle: Conduite à tenir et prise en charge d'un érysipèle d'après HAS/SPI
 {{%/collapse%}}
 {{%sources%}}
 
-- [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-155-web.pdf)
+- [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-155.pdf)
+- [Collège des enseignants de dermatologie de France (CEDEF). Grosse jambe rouge aiguë. Item 350. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-350-%E2%80%94-Grosse-jambe-rouge-aigue_CompressPdf.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [HAS, SPILF. Prise en charge des infections cutanées bactériennes courantes. Février 2019. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/recos/2019-fiche-de-synthese-infections-cutanees-mel.pdf)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)

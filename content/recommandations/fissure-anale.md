@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-24T09:13:24+02:00"
 publishdate = "2023-04-24"
-lastmod = "2023-04-24"
+lastmod = "2023-10-19"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
 sources = ["ASCRS"]
@@ -124,11 +124,8 @@ Une chirurgie par sphinctérotomie latérale interne peut être envisagée. La c
 - Prescrire Redaction. Fissure anale. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [SNFCP. Fissure anale. Fiches diagnostiques. 2018.](https://www.snfcp.org/actualites/fiche-diag_fissure-anale/)
 - [SNFCP. Fissure anale (de l'enfant). Fiches diagnostiques. 2018.](https://www.snfcp.org/fiches-diagnostiques-2/pathologies-proctologiques-de-lenfant/fiche-diag_principales-pathologies-proctologiques-de-lenfant-fissure-anale/)
+- [Higuero T. Fissure anale. Conseil de pratique. SNFGE, SNFCP. 2017. (PDF)](https://www.snfge.org/download/file/fid/4852)
 - [Nelson RL et al. Non surgical therapy for anal fissure. Cochrane Database of Systematic Reviews. 2012.](https://www.cochrane.org/CD003431/COLOCA_non-surgical-therapy-for-anal-fissure.)
 - [SNFCP. La fissure anale.](https://www.snfcp.org/informations-maladies/fissure-anale/la-fissure-anale/)
-
-### Bibliographie en attente
-
-[Higuero T. Fissure anale. Conseil de pratique. SNFGE, SNFCP. 2017. (PDF)](https://www.snfge.org/download/file/fid/4852)
 
 {{%/sources%}}
