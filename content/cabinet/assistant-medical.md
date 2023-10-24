@@ -5,7 +5,7 @@ noindex = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-11-15T16:02:00+02:00"
 publishdate = "2022-11-17"
-lastmod = "2023-07-02"
+lastmod = "2023-10-23"
 specialites = []
 annees = "2023"
 sources = []
@@ -15,7 +15,7 @@ imageSrc = "Illustration de l'Assistant médical par pch.vector / Freepik"
 todo = "https://www.fiche-paie.net/page/fiche-de-paie-assistant-ou-assistante-medicale-comment-proceder, https://www.csmf.org/assistant-medical-csmf/, Définition forte et très forte patientèle, Droit du travail"
 +++
 
-Le recours à un assistant médical est soutenu par l'Assurance Maladie depuis 2019 afin de recentrer la pratique du médecin généraliste sur les soins. Le règlement arbitral 2023 a rendu pérenne la participation au financement de l'assistant médical.
+Le recours à un assistant médical est soutenu par l'Assurance Maladie depuis 2019 afin de recentrer la pratique du médecin généraliste sur les soins. Le *règlement arbitral* de 2023 a rendu pérenne la participation au financement de l'assistant médical.
 {.lead}
 
 Les assistants médicaux permettent de gérer les appels et les demandes bénignes, installer le patient et préparer la consultation, faire le point sur les dépistages, aider pour certains actes ou toute autre tâche améliorant la pratique quotidienne.
@@ -41,7 +41,7 @@ Pour mettre fin au contrat, il faut prévenir la Caisse par **Recommandé** avec
 
 Exemple pour une patientèle de 1300 patients déjà déclarés: déclarer 260 patients supplémentaires dans les 3 ans pour bénéficier de la participation aux frais d'un assistant médical à temps plein.
 
-{{< card-link-external title="Estimer le nombre de patients supplémentaires à prendre en charge" url="https://www.ameli.fr/hauts-de-seine/content/aide-l-emploi-assistant-medicaux-calculette-patientele" subtitle="Ameli (feuille Excel)">}}
+{{< card-link-external title="Estimer le nombre de patients supplémentaires à prendre en charge" url="https://www.ameli.fr/hauts-de-seine/medecin/aide-emploi-assistant-medical?etape=1&hash=eb198" subtitle="Ameli">}}
 
 En cas de contrat déjà signé, rien ne change sauf si le médecin demande à basculer dans le nouveau dispositif.
 
@@ -105,6 +105,7 @@ Toutefois, toute personne peut commencer la collaboration sous réserve de passe
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ameli Médecin. Emploi d’un assistant médical : nouvel outil en ligne pour simuler facilement son aide financière. 20/10/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/emploi-d-un-assistant-medical-nouvel-outil-en-ligne-pour-simuler-facilement-son-aide-financiere)
 - [Ameli. Assistant médical - Un professionnel pour vous faire gagner du temps au service de vos patients. 2023. (PDF)](https://www.ameli.fr/sites/default/files/Documents/Assistant%20medical-Brochure-Medecin%20liberal.pdf)
 - [Ameli Médecin. L'aide à l'emploi d'assistants médicaux dans les cabinets libéraux. 23/05/2023.](https://www.ameli.fr/hauts-de-seine/medecin/exercice-liberal/vie-cabinet/aides-financieres/aide-emploi-assistants-medicaux)
 - [Ameli Médecin. Assistants médicaux : un levier pour renforcer l'accès aux soins dans les territoires. 28/10/2022.](https://www.ameli.fr/medecin/actualites/assistants-medicaux-un-levier-pour-renforcer-l-acces-aux-soins-dans-les-territoires)

@@ -339,7 +339,7 @@ Selon la SFDermato, informer le patient:
 - [Aghasi M et al. Dairy intake and acne development: A meta-analysis of observational studies. Clinical Nutrition. 2019.](https://www.clinicalnutritionjournal.com/article/S0261-5614(18)30166-3/fulltext)
 - Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109 UE 4. 2017.
 - Prescrire Redaction. Patients ayant une acné. Rev Prescrire. 2017.
-- Prescrire Redaction. Acné. Premiers choix Prescrire. Rev Prescrire. 2016.
+- Prescrire Redaction. Acné. Premiers Choix Prescrire. Rev Prescrire. 2016.
 - [Nast A et al; EDF. European evidence-based (S3) guideline for the treatment of acne - update 2016 (short version). 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13776)
 - [Société Française de Dermatologie. Prise en charge de l'acné. Label HAS. 10/06/2015. (PDF)](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
 - [ANSM. Restriction de la prescription initiale de l'isotrétinoïne orale aux dermatologues – Lettre aux professionnels de santé. Mai 2015.](https://archiveansm.integra.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Restriction-de-la-prescription-initiale-de-l-isotretinoine-orale-aux-dermatologues-Lettre-aux-professionnels-de-sante)

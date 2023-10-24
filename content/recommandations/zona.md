@@ -1,32 +1,33 @@
 +++
 title = "Zona"
 prefix = "le "
-description = "Recommandations pour le traitement et la prise en charge du zona. Réactivation VZV virus, indication au valaciclovir et à la vaccination, sérologie VIH à 50 ans"
+description = "Recommandations pour le traitement et la prise en charge du zona. Réactivation VZV virus, indication valaciclovir et à la vaccination douleurs post-zostériennes"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-14T19:48:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2023-06-15"
+lastmod = "2023-10-24"
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
-annees = "2021"
+annees = "2023"
 sources = ["CMIT", "SPILF", "MinSanté"]
 tags = ["BPCO", "vaccin", "zona"]
 anglais = ["Herpes zoster"]
 sctid = "4740000"
 icd10 = "B02.9"
 image = true
-imageSrc = "Photo d'un zona thoracique par Gzzz, CC BY-SA 4.0"
+imageSrc = Zona thoracique. Gzzz, CC BY-SA 4.0"
 todo = "rankok, flowchart, zona en pédiatrie"
 +++
 
 {{%article-summary%}}
 
-- Prise en charge du zona par traitement antiviral valaciclovir 1 g x 3/j 7 jours si:  
+- Prise en charge du zona par traitement antiviral valaciclovir 1 g x 3/j pendant 7 jours si:  
   zona ophtalmique, +50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs intenses en phase aiguë, lésions cutanées graves)
 - Critères d'hospitalisation du zona en urgence: immunodépression, atteinte organique ou [paralysie faciale zostérienne]({{< relref "paralysie-faciale-idiopathique.md" >}})
-- Vaccination post-exposition (varicelle) si ≥ 12 ans immunocompétent sans antécédent de varicelle en contact avec un cas de zona, après sérologie
+- Vaccination post-exposition (varicelle) après 12 ans chez l'immunocompétent sans antécédent de varicelle en contact avec un cas de zona, après sérologie
 - Vaccination zona de 65 à 74 ans avec une seule dose par le médecin (vaccin vivant)
 - [PCR VIH]({{< relref "vih-sida.md" >}}) en cas de zona avant 50 ans
+- Douleurs post-zostériennes: traitement des [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}) locales (glaçage, protection locale voire emplâtres de lidocaïne) ou étendues (clomipramine ou carbamazépine si paroxystique)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -49,7 +50,7 @@ Formes cliniques du zona selon l'âge:
 - Sujet < 50 ans
   - Localisé et guérison sans séquelles.  
   - Proposer une **[PCR VIH]({{< relref "vih-sida.md" >}})**
-- Sujet ≥ 50 ans  
+- Sujet de plus de 50 ans  
   - Incidence max après 75 ans (> 1,4/100)
   - Ne pas rechercher un cancer ou le VIH systématiquement
   - Proposer la vaccination de 65 à 74 ans
@@ -64,7 +65,7 @@ VZV
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Complications" %}}
+{{%collapse "Complications du zona" %}}
 
 Les complications du zona surviennent principalement chez l'immunodéprimé et la personne âgée.
 
@@ -98,7 +99,7 @@ Signes et symptômes du zona de l'adulte et de l'enfant:
 - Douleurs du dermatome  
   Quasi constantes en phase aiguë. Risque de chronicisation des douleurs neuropathiques.
 - Zona ophtalmique  
-  Surtout après 50 ans, fréquentes complications oculaires et douleurs chroniques.
+  Surtout après 50 ans, fréquentes complications oculaires (kératite ++) et douleurs chroniques.
 
 ### Les dermatomes
 
@@ -118,9 +119,9 @@ Signes et symptômes du zona de l'adulte et de l'enfant:
 
 ### Zona du ganglion géniculé
 
-Douleurs auriculaires de la zone de Ramsay Hunt (tympan, conduit auditif externe et conque du pavillon).  
-Paralysie faciale périphérique avec éruption des 2/3 antérieurs de l'hémilangue homolatérale.  
-Parfois troubles auditifs ou vertiges.
+Douleurs auriculaires de la zone de Ramsay-Hunt (tympan, conduit auditif externe et conque du pavillon).
+
+Paralysie faciale périphérique avec éruption des 2/3 antérieurs de l'hémilangue homolatérale. Parfois troubles auditifs ou vertiges.
 
 ### Zona bucco-pharyngé
 
@@ -216,7 +217,7 @@ Indications à l'avis ophtalmologique en urgence:
 - Immunodépression
 {{%/warning%}}
 
-[Annuraire des urgences ophtalmologiques]({{< relref "urgences-ophtalmologiques.md" >}})
+[Annuaire des urgences ophtalmologiques]({{< relref "urgences-ophtalmologiques.md" >}})
 
 ### Traitement de la paralysie faciale périphérique zostérienne
 
@@ -227,19 +228,21 @@ Hospitalisation pour aciclovir intra-veineux et (méthyl-)prednisolone.
 {{% /collapse %}}
 {{%collapse "Traitement des douleurs post-zostériennes" %}}
 
+Douleurs persistantes après la cicatrisation ou plus d'un mois après un zona. Elles disparaissent le plus souvent dans les 6 mois mais peuvent devenir chroniques.
+
 ### Traitements localisés de douleurs séquellaires d'un zona
 
 - Glaçage local
 - Couvrir la zone douloureuse
 - [Emplâtres de lidocaïne 700 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65538840&typedoc=R) (Versatis®)
-  - 1 à 3 selon la superficie de la zone, 12 h/j
+  - 1 à 3 selon la superficie de la zone, 12 heures/j
   - Effets indésirables: irritation cutanée, allergie
 
 ### Traitements généraux de douleurs neuropathiques
 
 Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}).
 
-- Fond douloureux permanent: clomipramine
+- Fond douloureux permanent: amitriptyline clomipramine
 - Paroxysmes hyperalgiques: carbamazépine ([Tegretol® ou gén](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61547468&typedoc=R))
 - Voire morphine
 - Soutien psychologique
@@ -247,10 +250,10 @@ Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{< rel
 {{% /collapse %}}
 {{%sources%}}
 
+- [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-168.pdf)
 - {{< references/calendrier-vaccinal >}}
-- Prescrire Redaction. Zona. L'essentiel sur les soins de premier choix. Premiers choix Prescrire. Mars 2021.
-- Prescrire Redaction. Douleurs post-zostériennes. Premiers choix Prescrire. Avril 2021.
-- [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-168-web.pdf)
+- Prescrire Redaction. Douleurs postzostériennes. Premiers Choix Prescrire. 2023.
+- Prescrire Redaction. Zona. L'essentiel sur les soins de premier choix. Premiers Choix Prescrire. Mars 2021.
 - [SFORL. Prise en charge de la Paralysie Faciale Idiopathique à la phase aiguë chez l'adulte. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-de-la-Paralysie-Faciale-Idiopathique-%C3%A0-la-phase-aigu%C3%AB-chez-l-adulte-2020.pdf)
 - Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 UE 6. 2017.
 - [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998. (PDF)](https://urgences-serveur.fr/IMG/article_PDF/Prise-en-charge-des-infections-VZV_a324.pdf)

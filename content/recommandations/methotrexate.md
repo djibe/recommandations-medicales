@@ -23,7 +23,7 @@ todo = "img, quantiféron"
 {{%article-summary%}}
 
 - Ordonnance de méthotrexate (MTX)
-  - Préciser le jour de la prise du méthotrexate et rappeler qu'il ne doit être pris qu'un seul jour par semaine
+  - Préciser le jour de prise du méthotrexate et rappeler qu'il ne doit être pris qu'un seul jour par semaine
   - Mentionner l'indication, le dosage et la posologie en mg
   - Le jour de la prise de l'acide folique
 - Associer l'acide folique 2 x 5 mg 48 heures après le méthotrexate

@@ -218,7 +218,7 @@ Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, m�
 
 {{< youtube id="6hkOuBKGJkI" title="Manœuvre de Semont (JAMA Network)" >}}
 
-- Prescrire Redaction. Vertiges positionnels paroxystiques bénins. Premiers choix Prescrire. Janvier 2022.
+- Prescrire Redaction. Vertiges positionnels paroxystiques bénins. Premiers Choix Prescrire. Janvier 2022.
 - [Collège des Enseignants de Neurologie (CEN). Vertige. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/vertige)
 - [HAS. Vertiges positionnels paroxystiques bénins : Manoeuvres diagnostiques et thérapeutiques. Décembre 2017.](https://www.has-sante.fr/jcms/c_2819896/fr/vertiges-positionnels-paroxystiques-benins-manoeuvres-diagnostiques-et-therapeutiques)
 - [SFORL. THÈME : VERTIGE POSITIONNEL PAROXYSTIQUE BENIN. Janvier 2012. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/Vertige-Positionnel-Paroxystique-Benin-2012-Janvier.pdf)

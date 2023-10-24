@@ -536,7 +536,7 @@ style haute stroke:#4150f5, stroke-width:1px
 
 - [HAS. Prise en charge des hyperthyroïdies en population générale. Recommander les bonnes pratiques. 2022.](https://www.has-sante.fr/jcms/p_3216305/fr/prise-en-charge-des-dysthyroidies-chez-l-adulte)
 - [HAS. Exploration des pathologies thyroïdiennes chez l'adulte : pertinence et critères de qualité de l'échographie, pertinence de la cytoponction échoguidée. 2021.](https://www.has-sante.fr/jcms/p_3288393/fr/exploration-des-pathologies-thyroidiennes-chez-l-adulte-pertinence-et-criteres-de-qualite-de-l-echographie-pertinence-de-la-cytoponction-echoguidee)
-- Prescrire Redaction. Maladie de Basedow chez un adulte - Premiers choix Prescrire. Rev Prescrire. 2021.
+- Prescrire Redaction. Maladie de Basedow chez un adulte - Premiers Choix Prescrire. Rev Prescrire. 2021.
 - {{< references/college-endocrino >}}
 - [Kahaly GJ et al. 2018 European Thyroid Association Guideline for the Management of Graves' Hyperthyroidism. Eur Thyroid J. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6140607/)
 

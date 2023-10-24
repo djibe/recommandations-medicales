@@ -347,7 +347,7 @@ N'ont pas démontré d'efficacité: gingembre, homéopathie, acupressure du poin
 
 - Sites mentionnés au sein du chapitre concerné
 - {{< references/voyageur >}}
-- Prescrire Redaction. Mal des transports. Premiers choix Prescrire. Rev Prescrire. 2023.
+- Prescrire Redaction. Mal des transports. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [CMIT. Voyage en pays tropical de l'adulte et de l'enfant. Item 175. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-175-web.pdf)
 
 ### Bibliographie en attente

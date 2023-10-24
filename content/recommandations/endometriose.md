@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-03T13:12:00+02:00"
 publishdate = "2021-04-05"
-lastmod = "2023-02-07"
+lastmod = "2023-10-23"
 specialites = ["gynecologie-obstetrique"]
 annees = "2018"
 sources = ["ACOG", "HAS", "CNGOF"]
@@ -198,19 +198,18 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
 Tout traitement autre que la contraception et l'antalgie relève du spécialiste
 {.alert .alert-info}
 
-### Mesures générales
+### Mesures générales de prise en charge de l'endométriose
 
 Prise en charge de l'endométriose en première intention:
 
 - Antalgie
   - Paliers 1 pendant +3 mois
-  - Paracétamol et AINS en péri-menstruel uniquement  
+  - **Paracétamol** et **AINS** en péri-menstruel uniquement  
     Ibuprofène ou naproxène ± opioïdes si insuffisants.
   - Éviter les AINS au long cours
-  - Évaluation spécialisée en douleurs chroniques  
-    Gynécologue, médecine de la douleur, sexologue, psychologue, assistant social.  
-    Principalement neuropathiques.
-- Autres
+  - Évaluation spécialisée en cas de douleurs chroniques ([neuropathiques]({{< relref "douleur-neuropathique.md" >}}) ++)  
+    Gynécologue, médecine de la douleur, sexologue, psychologue, assistant social.
+- Autres mesures
   - Acupuncture, ostéopathie, yoga
   - Activité physique quotidienne avec exercices du bassin
   - Aucun régime ou supplémentation n'a de bénéfice prouvé
@@ -224,20 +223,20 @@ Prise en charge de l'endométriose en première intention:
 - [Pilule œstroprogestative]({{< relref "contraception.md" >}}) (COP)
   - Lévonorgestrel ou noréthistérone + éthinylestradiol 30 à 40 µg
   - Prise continue si aggravation dans la période d'interruption
-- DIU au lévonorgestrel 52 mg
-- Adolescente  
-  Pilule œstroprogestative ou microprogestative. Si échec: IRM pelvienne avec avis spécialisé.
+- Dispositif intra-utérin (DIU ou stérilet) au lévonorgestrel 52 mg
+- Chez l'adolescente: pilule œstroprogestative ou microprogestative  
+  Si échec: IRM pelvienne avec avis spécialisé.
 {{%/info%}}
 
 Réévaluation des traitements sous quelques semaines pour tolérance-efficacité.
 
-**NB.** Pas de différence d'efficacité en augmentant la dose d'éthinylestradiol (EE) à +40 µg.
+**NB.** Pas de différence d'efficacité en augmentant la dose d'éthinylestradiol (EE) au-delà de 40 µg.
 
-### Traitements de deuxième intention
+### Traitements de deuxième intention de l'endométriose
 
 Traitements de l'endométriose de deuxième intention:
 
-- Contraception orale microprogestative au désogestrel
+- [Contraception]({{< relref "contraception.md" >}}) orale microprogestative au désogestrel
 - Implant à l'étonogestrel
 - Diénogest
 - GnRHa en association
@@ -322,6 +321,7 @@ accTitle: Conduite à tenir et prise en charge d'une suspicion d'endométriose d
 
 {{< card-link-external title="Endométriose : l'affaire de tous" url="https://endometriose-affairedetous.com" subtitle="CNGOF, ARS IDF, PNS-MOOC">}}
 
+- Prescrire Redaction. Douleurs liées à une endométriose pelvienne. Premiers Choix Prescrire. 2023.
 - [ANSM. Troubles menstruels après la vaccination contre le Covid-19 : état des connaissances et conseils aux femmes concernées. 21/07/2022.](https://ansm.sante.fr/actualites/troubles-menstruels-apres-la-vaccination-contre-le-covid-19-etat-des-connaissances-et-conseils-aux-femmes-concernees)
 - [ACOG. Dysmenorrhea and Endometriosis in the Adolescent. 2018.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/12/dysmenorrhea-and-endometriosis-in-the-adolescent)
 - Prescrire Rédaction. Endométriose douloureuse. En absence de projet de grossesse : paracétamol et AINS, voire estroprogestatif ou DIU au lévonorgestrel. Prescrire. 2019.

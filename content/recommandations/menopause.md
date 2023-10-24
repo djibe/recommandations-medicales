@@ -626,7 +626,7 @@ Le traitement hormonal de la ménopause (THM):
 - [Kremer C et al. European Stroke Organisation guidelines on stroke in women: Management of menopause, pregnancy and postpartum. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/full/10.1177/23969873221078696)
 - [Trémollieres F et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000593)
 - [Saxon GDGC et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
-- Prescrire Redaction. Troubles liés à la ménopause. Premiers choix Prescrire. 2020.
+- Prescrire Redaction. Troubles liés à la ménopause. Premiers Choix Prescrire. 2020.
 
 ### Bibliographie en attente
 
