@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-16T08:08:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2023-09-30"
+lastmod = "2023-10-25"
 specialites = ["pediatrie"]
 annees = "2023"
 sources = ["HAS", "SFP"]
@@ -256,7 +256,7 @@ Recommandations pour la prévention de la bronchiolite:
 
 #### Nirsévimab (Beyfortus®)
 
-Aucune dose de nirsévimab n'est actuellement disponible en ville
+Seules les doses de Beyfortus® 100 mg sont actuellement disponible en ville
 {.alert .alert-warning}
 
 Indications à la prévention de la bronchiolite par une immunisation passive avec l'anticorps monoclonal nirsévimab:

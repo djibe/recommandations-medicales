@@ -12,7 +12,7 @@ sources = []
 tags = []
 image = true
 imageSrc = "la sécurité informatique par unDraw"
-todo = "Gmail"
+todo = "Gmail, win10/11, mises à jour, sauvegardes"
 +++
 
 Le médecin travaille aujourd'hui en permanence avec un ordinateur, traitant toute la journée les **données de santé** de ses patients. Un niveau de sécurité maximale est donc nécessaire pour les protéger à tous les niveaux (mots de passe, logiciels, antivirus ...)

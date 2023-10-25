@@ -6,14 +6,14 @@ description = ""
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2023-08-23"
+lastmod = "2023-10-25"
 annees = "2023"
 sources = ["Assurance Maladie"]
 tags = []
 image = true
 imageSrc = "unDraw"
 style = "thead > tr > th:first-of-type {width: 110px}"
-todo = "FS exemple frottis, MD, jour férié, IK, routexl, MPH aussi quand change de MT ?"
+todo = "VSP, FS exemple frottis, MD, jour férié, IK, routexl, MPH aussi quand change de MT ?, https://www.fmfpro.org/nomenclature/tarifs-medecins-generalistes-metropole/"
 +++
 
 Liste des codes pour les actes et les consultations en médecine générale.
@@ -29,7 +29,7 @@ Les outils *OMNIPrat* et *CotaMG* permettent aux jeunes médecins d'apprendre à
 
 - IMT à 60€: depuis le 1er mai, consultation où l'on déclare un patient en [ALD 30]({{< relref "affection-longue-duree.md" >}}) comme médecin traitant.  
   Si l'ALD n'est pas déclarée, la demander et seulement inscrire le patient quand elle a été validée.
-- G à 25€: après [presque 6 ans à 25€]({{< relref "evolution-tarif-consultation-generaliste.md" >}}), le G (GS) passera à 26,5€ le 1er novembre.
+- G(S)/VG(S): après [presque 6 ans à 25€]({{< relref "evolution-tarif-consultation-generaliste.md" >}}), le G (GS) passera à 26,5€ le 1er novembre. Les autres actes (COD, COB, COE, APC, CCX, CDE, CCP) le sont également.
 
 ## Les cotations pour les médecins généralistes
 
@@ -144,7 +144,7 @@ Cotations NGAP disponibles en sus de la consultation ou de la visite.
 |-----------|------------------------------------------------------------------------------------------------------------------------------|---------------:|
 | RQD       | Demande de téléexpertise (à 100%)                                                                                            |             10 |
 | + MCG     | Consultation d'un patient +16 ans hors résidence habituelle avec rédaction d'un compte-rendu pour son MT                     |              5 |
-| + MSH**   | Sortie d'hospitalisation dans le mois d'un patient poly-pathologique                                                         |             23 |
+| + MSH**   | Sortie d'hospitalisation (chirurgie, décompensation ou diagnostic d'affection grave) dans le mois d'un patient polypathologique. MIC non applicable pour la même hospitalisation. | 23 |
 | + MIC**   | Sortie d'hospitalisation dans les 2 mois pour [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) |             23 |
 | + MIS     | Consultation initiale d'information cancer ou neurodégénératif                                                               |             30 |
 | + PIV     | Consultation initiale d'information VIH                                                                                      |             30 |

@@ -7,7 +7,7 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2023-10-16"
+lastmod = "2023-10-25"
 specialites = ["infectiologie"]
 annees = "2023"
 sources = ["MinSanté", "HAS"]
@@ -64,7 +64,7 @@ Diagnostics à étayer devant un tableau de toux aiguë:
 {{%info%}}
 Vaccination annuelle en octobre pour les personnes à risque de grippe grave.
 
-Bon de prise en charge à 100% n°850 sur *Ameli pro*.
+Bon de prise en charge à 100% cerfa n°610e sur *Ameli pro*.
 {{%/info%}}
 
 Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination antigrippale est recommandée chaque année:
@@ -132,6 +132,12 @@ Aucun examen complémentaire devant un tableau de grippe saisonnière non compli
 
 {{%/collapse%}}
 {{%collapse "Vaccins disponibles pour la campagne de vaccination 2023-2024" %}}
+
+{{%info%}}
+Vaccination annuelle en octobre pour les personnes à risque de grippe grave.
+
+Bon de prise en charge à 100% cerfa n°610e sur *Ameli pro*.
+{{%/info%}}
 
 Vaccins contre la grippe disponibles en France pour la campagne vaccinale:
 

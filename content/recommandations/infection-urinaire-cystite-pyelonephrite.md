@@ -35,11 +35,12 @@ Recommandations pour le traitement des infections urinaires communautaires de l'
   Vérifier les indications à l'hospitalisation, ECBU en urgence puis Ciprofloxacine 500 mg x 2/j et réadaptation avec l'antibiogramme.
 - **Pyélonéphrite avec {{< modal-btn modal-fdr-complication >}}facteur de risque de complication{{< /modal-btn >}} sans signe de gravité**  
   Bilan biologique, uroscanner et antibiothérapie probabiliste identique à la PNA simple.
-- **Grossesse**
+- **Infection urinaire masculine** (voir section dédiée plus bas)
+- **Infection urinaire pendant la grossesse**
   - BU mensuelle à partir du 4<sup>e</sup> mois pour toutes (ou ECBU mensuel en cas d'antécédent d'IU pendant la grossesse, uropathie, diabète, antécédent de cystites récidivantes)
   - Colonisation urinaire: antibiothérapie d'emblée adaptée et ECBU de contrôle J8-J10
   - Cystite: ECBU, antibiothérapie probabiliste puis ECBU de contrôle et mensuel
-  - Pyélonéphrite: Urgences
+  - Pyélonéphrite: *Urgences*
 
 {{%/article-summary%}}
 {{%collapse "BU et ECBU" %}}

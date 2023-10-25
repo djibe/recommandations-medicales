@@ -5,7 +5,7 @@ description = "Recommandations pour la prise en charge de l'acné. Traitement de
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-27T21:48:41+02:00"
 publishdate = "2020-07-27"
-lastmod = "2023-01-02"
+lastmod = "2023-10-24"
 specialites = ["dermatologie"]
 annees = "2015"
 sources = ["SFDermato", "HAS", "EDF"]
@@ -14,9 +14,9 @@ anglais = ["Acne"]
 sctid = "11381005"
 icd10 = "L70.9"
 image = true
-imageSrc = "Acné inflammatoire du visage par profeticsbeta sur Foter.com / CC BY-NC-SA"
+imageSrc = "Acné inflammatoire du visage. profeticsbeta sur Foter.com / CC BY-NC-SA"
 flowchart = true
-todo = "outil"
+todo = "gluconate de zinc, outil"
 +++
 
 {{%article-summary%}}
@@ -25,8 +25,8 @@ todo = "outil"
 - Tous les rétinoïdes sont tératogènes
 - Prise en charge de l'acné par les traitements topiques
   - Acné rétentionnelle: adapalène 0,1% crème x 1/j pendant 3 mois
-  - Acné inflammatoire: peroxyde de benzoyle 5% x 1/j pendant 4-6 semaines puis 2-3/semaine  
-    Acné étendue: ajouter la doxycycline 100 mg/j max 3 mois
+  - Acné inflammatoire: peroxyde de benzoyle 5% x 1/j pendant 4-6 semaines puis entretien 2-3/semaine  
+    Acné étendue: ajouter la doxycycline 100 mg/j pendant maximum 3 mois
 - Acné sévère: avis dermatologique (voir *Acné sévère*)
 - Acné déclenchée par une contraception hormonale: substituer par lévonorgestrel seul > Norgestimate > autre voire Triafemi ([Fiche contraception]({{< relref "contraception.md" >}}))
 - Acné pendant la grossesse: Peroxyde de benzoyle 5% gel 1 à 2 applications par jour sur peau propre
@@ -145,7 +145,7 @@ Tous les rétinoïdes sont tératogènes, même en gel ou crème
 {{% /collapse %}}
 {{%collapse "Traitement de l'acné minime à modérée" %}}
 
-Seuls traitements autorisés pendant la grossesse: peroxyde de benzoyle, antibiotiques topiques (clindamycine, érythromycine, acide azélaïque) (*[Le CRAT](http://le-crat.fr/spip.php?page=article&id_article=1113)*)
+Seuls traitements autorisés pendant la grossesse: gluconate de zinc, peroxyde de benzoyle, antibiotiques topiques (clindamycine, érythromycine, acide azélaïque) (*[Le CRAT](http://le-crat.fr/spip.php?page=article&id_article=1113)*)
 {.alert .alert-warning}
 
 ### Acné à prédominance rétentionnelle
@@ -334,12 +334,11 @@ Selon la SFDermato, informer le patient:
 
 {{< card-link-external title="L'Acné par Dermatoclic" url="https://www.dermatoclic.com/acne">}}
 
+- [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 111. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-111-%E2%80%94-Dermatoses-faciales-acne-rosacee-dermatite-seborrheique_CompressPdf.pdf)
 - [ANSM. Traitement de l'acné sévère : premières recommandations pour améliorer la sécurité d'utilisation de l'isotrétinoïne. 06/12/2021.](https://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Traitement-contre-l-acne-regles-de-bon-usage-de-l-isotretinoine-pour-limiter-les-risques-Point-d-Information)
 - [ANSM. Traitement contre l'acné : règles de bon usage de l'isotrétinoïne pour limiter les risques. 30/03/2021.](https://ansm.sante.fr/actualites/traitement-contre-lacne-regles-de-bon-usage-de-lisotretinoine-pour-limiter-les-risques)
+- Prescrire Redaction. Acné. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Aghasi M et al. Dairy intake and acne development: A meta-analysis of observational studies. Clinical Nutrition. 2019.](https://www.clinicalnutritionjournal.com/article/S0261-5614(18)30166-3/fulltext)
-- Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109 UE 4. 2017.
-- Prescrire Redaction. Patients ayant une acné. Rev Prescrire. 2017.
-- Prescrire Redaction. Acné. Premiers Choix Prescrire. Rev Prescrire. 2016.
 - [Nast A et al; EDF. European evidence-based (S3) guideline for the treatment of acne - update 2016 (short version). 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13776)
 - [Société Française de Dermatologie. Prise en charge de l'acné. Label HAS. 10/06/2015. (PDF)](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
 - [ANSM. Restriction de la prescription initiale de l'isotrétinoïne orale aux dermatologues – Lettre aux professionnels de santé. Mai 2015.](https://archiveansm.integra.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Restriction-de-la-prescription-initiale-de-l-isotretinoine-orale-aux-dermatologues-Lettre-aux-professionnels-de-sante)
