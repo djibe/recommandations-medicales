@@ -21,6 +21,7 @@ todo = "gluconate de zinc, outil"
 
 {{%article-summary%}}
 
+- L'acné est un diagnostic clinique et peut être rétentionnelle (comédons ouverts ou fermés) ou inflammatoire (papulo-pustuleuse, nodulaire)
 - Mesures d'hygiène pour toutes les peaux acnéiques
 - Tous les rétinoïdes sont tératogènes
 - Prise en charge de l'acné par les traitements topiques
@@ -28,7 +29,7 @@ todo = "gluconate de zinc, outil"
   - Acné inflammatoire: peroxyde de benzoyle 5% x 1/j pendant 4-6 semaines puis entretien 2-3/semaine  
     Acné étendue: ajouter la doxycycline 100 mg/j pendant maximum 3 mois
 - Acné sévère: avis dermatologique (voir *Acné sévère*)
-- Acné déclenchée par une contraception hormonale: substituer par lévonorgestrel seul > Norgestimate > autre voire Triafemi ([Fiche contraception]({{< relref "contraception.md" >}}))
+- Acné déclenchée par une contraception hormonale: substituer par lévonorgestrel seul > norgestimate > autre voire Triafemi ([Fiche contraception]({{< relref "contraception.md" >}}))
 - Acné pendant la grossesse: Peroxyde de benzoyle 5% gel 1 à 2 applications par jour sur peau propre
 
 {{%/article-summary%}}
@@ -91,7 +92,7 @@ Pustule
 : Évolution d'une papule avec pus au sommet.
 
 Nodule
-: Plus profond, diamètre +10 mm, pouvant évoluer vers l'abcédation et la rupture.
+: Plus profond, diamètre supérieur à 10 mm, pouvant évoluer vers l'abcédation et la rupture.
 {.dl-inline}
 
 Ces lésions risquent de laisser des cicatrices cutanées atrophiques définitives, des cicatrices hypertrophiques ou des macules érythémateuses le plus souvent transitoires et/ou pigmentées.

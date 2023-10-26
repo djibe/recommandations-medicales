@@ -15,7 +15,7 @@ anglais = ["Herpes zoster"]
 sctid = "4740000"
 icd10 = "B02.9"
 image = true
-imageSrc = Zona thoracique. Gzzz, CC BY-SA 4.0"
+imageSrc = "Zona thoracique. Gzzz, CC BY-SA 4.0"
 todo = "rankok, flowchart, zona en pédiatrie"
 +++
 

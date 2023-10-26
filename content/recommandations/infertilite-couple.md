@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-28T16:02:04+02:00"
 publishdate = "2023-10-02"
-lastmod = "2023-10-14"
+lastmod = "2023-10-26"
 specialites = ["gynecologie-obstetrique"]
 annees = "2023"
 sources = ["ESHRE", "AFU", "CNGOF"]
@@ -17,8 +17,8 @@ sctid = "8619003"
 icd10 = "N97.9"
 image = true
 imageSrc = "L'infertilité du couple. vectorjuice / Freepik"
-todo = "flow"
 chart = true
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -78,6 +78,9 @@ GEU
 
 HSG
 : hystérosalpingographie
+
+ICSI
+: injection intracytoplasmique de spermatozoïde
 
 SALF
 : Société d'Andrologie de Langue Française
@@ -183,8 +186,8 @@ L'*OMS* préconise le bilan **à partir du stade d'infertilité** (12 mois de ra
 
 ### Bilan de l'infertilité chez la femme
 
-- TSH
-- Sérologies VIH, VHB, VHC, syphilis, rubéole, toxoplasmose ± varicelle
+- [TSH](/tags/tsh/)
+- Sérologies [VIH]({{< relref "vih-sida.md" >}}), [VHB]({{< relref "hepatite-b.md" >}}), [VHC]({{< relref "hepatite-c.md" >}}), [syphilis]({{< relref "syphilis.md" >}}), rubéole, toxoplasmose ± [varicelle]({{< relref "varicelle.md" >}})
 - Échographie pelvienne endo-vaginale 3D à J2-J3
 - Si {{< modal-btn modal-reserve-ovarienne >}}signe de baisse de la réserve ovarienne{{< /modal-btn >}}: bilan hormonal (de J2 à J4): **FSH**, LH, œstradiol, AMH
 - Considérer: [sérologie *Chlamydia*]({{< relref "chlamydia-trachomatis.md" >}}), [sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}) (systématique selon *ESsCD* par IgA totales, IgA anti-transglutaminase)
@@ -249,9 +252,19 @@ Veiller à offrir **soutien psychologique** et psychothérapie.
 En centre spécialisé, différents traitements sont possibles: citrate de clomifène, pompe à LHRH, chirurgie, fécondation in-vitro (FIV), insémination intra-utérine (IIU), stimulation ovarienne (SO) ...
 
 {{% /collapse %}}
+{{% collapse "Prise en charge de l'infertilité du couple" "show" %}}
+
+{{< mermaid title="Prise en charge de l'infertilité du couple. Dr Alaedine Benani d'après ESHRE 2023, CNGOF et AFU">}}
+graph TB
+  grossesse("Absence de grossesse<br>pendant 12 mois<br>(avant si F +35 ans)") --> diagnostic(Infertilité) --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements, toxiques<br>- Mode de vie<br>-Ancienneté<br>- Cycles, rapports<br>- Symptômes<br>- Examen clinique") -- Homme --> bilan("<b>Bilan de l'homme</b><br>—<br>- Sérologies IST<br>- Spermogramme avec<br>spermocytogramme<br>- Selon comorbidités: hormones,<br>échographie testiculaire") --> AMP("Centre d'Assistance Médicale<br>à la Procréation (AMP)")
+  style diagnostic stroke:#4150f5, stroke-width:1px
+    clinique -- Femme --> bilanFemme("<b>Bilan de la femme</b><br>—<br>- TSH<br>- Sérologies IST voire autres<br>- Échographie pelvienne<br>endo-vaginale 3D à J2-J3<br>- Selon critères: hormones") --> AMP
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
-- [Guideline Group on Unexplained Infertility, Romualdi D, Ata B, et al. Evidence-based guideline: unexplained infertility. Hum Reprod. 2023.](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/dead150/7246182)
+- [Guideline Group on Unexplained Infertility, Romualdi D, et al; ESHRE. Evidence-based guideline: unexplained infertility. Hum Reprod. 2023.](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/dead150/7246182)
 - [Huyghe E et al. Recommandations de l'AFU et de la SALF concernant l'évaluation de l'homme infertile. Prog Urol. 2021.](https://www.urofrance.org/recommandation/recommandations-de-lafu-et-de-la-salf-concernant-levaluation-de-lhomme-infertile/)
 - [CNGOF. Avis du CNGOF en matière de conditions d'âge. 07/02/2021. (PDF)](https://cngof.fr/app/uploads/2023/06/AMP-Avis-CNGOF-limites-age-07-02-21.pdf?x53169)
 - [Boitrelle F et al. The Sixth Edition of the WHO Manual for Human Semen Analysis: A Critical Review and SWOT Analysis. Life (Basel). 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8706130/)

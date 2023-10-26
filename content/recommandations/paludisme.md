@@ -237,7 +237,7 @@ Choix de la chimioprophylaxie antipaludique (CPAP):
   Séjour initial: CPAP pendant 3-6 mois puis évaluation par expert local. En situation à haut risque (facteur de risque, Afrique subsaharienne): maintenir le plus longtemps possible (toute la durée de l'expatriation si le risque le justifie).
 
 {{% /collapse %}}
-{{%collapse "Molécules en prévention du paludisme" %}}
+{{%collapse "Molécules en prévention du paludisme" "show" %}}
 
 La prophylaxie anti-palustre (chimioprophylaxie médicamenteuse) n'élimine pas complètement le risque de forme grave
 {.alert .alert-warning}

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-10T13:36:06+02:00"
 publishdate = "2022-11-07"
-lastmod = "2023-10-12"
+lastmod = "2023-10-25"
 specialites = ["urologie"]
 annees = "2021"
 sources = ["HAS", "SPILF"]
@@ -25,6 +25,7 @@ todo = "SEO infection urinaire homme recommandation, flowchart Figure 1 et 5, re
 
 Recommandations pour le traitement des infections urinaires communautaires de l'adulte à partir de 16 ans:
 
+- Préciser sur l'ECBU la suspicion clinique (cystite, pyélonéphrite)
 - **Colonisation urinaire**  
   Traitement uniquement pendant la grossesse et avant un geste urologique.
 - **Cystite aiguë simple**  

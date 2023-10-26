@@ -358,7 +358,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
   - L'acupuncture peut réduire les douleurs articulaires (*[Hershman 2022](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2798317)*)
 - Thérapie ciblée  
   Échocardiographies.
-- Radiothérapie sus et sous-claviculaire: TSH régulière
+- Radiothérapie sus et sous-claviculaire: [TSH régulière](/tags/tsh/)
 
 ### Consignes de précautions pour le côté d'un curage axillaire (lymphœdème)
 
@@ -373,10 +373,9 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 
 - Remboursées sur ordonnance du chirurgien ou médecin traitant (sauf achat sur internet)
 - Renouvelable à 12 mois puis tous les 18 mois
-- En textile dans les 2 mois suivants la chirurgie. Remb. 25€.
-- En silicone *modèle standard* après 3 mois. Remb. 180€.
-- En silicone *modèle technique* (adhérente ou non) après 4 mois (14 mois si adhérente). Si symptômes (problème de cicatrisation, risque de lymphœdème, douleurs, bouffées de chaleur) ou meilleure convenance.  
-  Remb. 240€.
+- En textile dans les 2 mois suivants la chirurgie (remb. 25€)
+- En silicone *modèle standard* après 3 mois (remb. 180€)
+- En silicone *modèle technique* (adhérente ou non) après 4 mois (14 mois si adhérente). Si symptômes (problème de cicatrisation, risque de lymphœdème, douleurs, bouffées de chaleur) ou meilleure convenance (remb. 240€)
 
 {{% /collapse %}}
 {{%sources%}}

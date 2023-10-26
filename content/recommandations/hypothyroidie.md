@@ -169,7 +169,7 @@ Recherche une hypothyroïdie en cas de signes non spécifiques associés à:
 - Démence inexpliquée
 - AEG inexpliquée
 - Hypercholestérolémie inexpliquée
-- Chirurgie thyroïdienne, irathérapie ou radiothérapie cervicale
+- Chirurgie thyroïdienne, irathérapie ou radiothérapie cervicale ou sus-claviculaire (cancer du sein ...)
 - Antécédents personnels ou familiaux de maladie auto-immune: [diabète type 1]({{< relref "diabete-type-1.md" >}}), [dysthyroïdie](/tags/tsh/)
 - Syndrome de Turner ou trisomie 21
 - [Grossesse]({{< relref "grossesse.md" >}}) ou désir de grossesse et {{< modal-btn modal-fdr-hypothyroidie >}}facteurs de risque d'hypothyroïdie{{< /modal-btn >}}

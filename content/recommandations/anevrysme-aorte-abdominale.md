@@ -92,11 +92,11 @@ Le traitement des anévrismes de l'aorte abdominale de moins de 50 mm n'a montr�
 {{%/collapse%}}
 {{% collapse "Prise en charge de l'anévrisme de l'aorte abdominale" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le dépistage de l'anévrisme de l'aorte abdominale. Dr JB Fron d'après ESC et HAS">}}
+{{< mermaid title="Conduite à tenir pour le dépistage de l'anévrisme de l'aorte abdominale. Dr Alaedine Benani et JB Fron d'après ESC 2014 et HAS 2012">}}
 graph TB
   dépistage["<b>Indications au dépistage de<br>l'anévrisme de l'aorte abdominale:</b><br><br>- Homme 65-75 ans fumeur ou sevré < 20 ans<br>- ou 50-75 ans avec antécédent familial d'AAA<br>- AOMI"] --> échodoppler("Échodoppler artériel<br>aortique") -- Normal --> arrêt("- Pas de suivi spécifique<br>- Correction du risque<br>cardiovasculaire")
   style dépistage stroke:#4150f5, stroke-width:1px
-    échodoppler -- Anormal --> imagerie("Angio-scanner ou<br>angio-IRM aortique") --> spécialiste("Avis spécialisé:<br>angiologue ou cardiologue")
+    échodoppler -- Anormal --> imagerie("Angio-scanner ou<br>angio-IRM aortique") --> spécialiste("Avis spécialisé:<br>angiologue ou cardiologue") --> pec("Correction du risque<br>cardiovasculaire:<br>tabac, HTA, dyslipidémie,<br>régime méditerranéen,<br>activité physique, surpoids")
 {{< /mermaid >}}
 
 > **AOMI =** artériopathie des membres inférieurs
