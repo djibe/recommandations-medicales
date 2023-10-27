@@ -1,6 +1,6 @@
 +++
 title = "Les sociétés savantes de médecine"
-description = "Tableau et liste des sociétés savantes de médecine: ESC, ESH, CMG, SFD, HAS, HCSP ... Accéder à leurs actualités , suivre leurs flux RSS et réseaux sociaux"
+description = "Tableau et liste des sociétés savantes de médecine: ESC, ESH, CMG, SFD, HAS, HCSP ... Accéder à leurs actualités, suivre leurs flux RSS et réseaux sociaux"
 longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-22T15:57:00+02:00"
@@ -63,6 +63,7 @@ window.addEventListener('load', () => {
         { data: 'Publications RSS' },
         { data: 'Social' }
       ],
+      select: false,
       "columnDefs": [{
         "targets": 4,
         "render": function ( data, type, row, meta ) {
