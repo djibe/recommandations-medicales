@@ -1,6 +1,6 @@
 +++
 title = "Les tensiomètres électroniques validés pour le cabinet"
-titleSeo = "Tensiomètres électroniques validés"
+titleSeo = "Tensiomètres validés"
 prefix = ""
 description = "Tensiomètres électroniques validés pour la mesure de la pression artérielle fiable au cabinet par le médecin. Brassards pour enfants, grossesse, adulte et obèse"
 synonyms = ["Sphygmomanomètre électronique oscillométrique"]

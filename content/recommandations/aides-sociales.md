@@ -8,11 +8,11 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-26T13:38:41+02:00
 publishdate = "2020-07-26"
-lastmod = "2023-04-28"
+lastmod = "2023-10-27"
 specialites = ["social"]
 annees = "2023"
 sources = ["MinSanté"]
-tags = []
+tags = ["geriatrie"]
 anglais = ["Social health insurance"]
 sctid = ""
 image = true
@@ -28,6 +28,8 @@ Ces aides à la prise en charge médicale et aux soins doivent être communiqué
 ## Outils en ligne
 
 {{< references/mes-droits-sociaux >}}
+
+{{< card-link-external title="pourlesPersonnesâgées.gouv.fr" url="https://www.pour-les-personnes-agees.gouv.fr/" subtitle="Site Officiel" >}}
 
 {{< card-link-external title="1jeune1solution" url="https://mes-aides.1jeune1solution.beta.gouv.fr" subtitle="Évaluer les droits à 591 aides">}}
 

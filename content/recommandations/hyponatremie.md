@@ -88,7 +88,7 @@ Situations où une hyponatrémie nécessite une prise en charge urgente:
   - Défaillance cardiorespiratoire
   - Somnolence excessive
   - Convulsions
-  - Coma avec score de Glasgow ≤ 8
+  - Coma avec {{< modal-btn modal-glasgow >}}score de Glasgow{{< /modal-btn >}} ≤ 8
 
 > *ERBP 2014*
 
@@ -119,7 +119,7 @@ Les signes et symptômes de l'hyponatrémie sont aspécifiques:
   - Défaillance cardiorespiratoire
   - Somnolence excessive
   - Convulsions
-  - Coma avec score de Glasgow ≤ 8
+  - Coma avec {{< modal-btn modal-glasgow >}}score de Glasgow{{< /modal-btn >}} ≤ 8
 - **Symptômes modérément sévères**
   - Nausées sans vomissements
   - Confusion
@@ -232,3 +232,8 @@ En l'absence d'orientation étiologique ou d'efficacité d'un traitement étiolo
 - [Ichai C. Conduite à tenir devant une hyponatrémie. SFAR. 2009.](https://sfar.org/conduite-a-tenir-devant-une-hyponatremie/)
 
 {{%/sources%}}
+{{% modal title="Score de Glasgow" id="modal-glasgow" size="lg" %}}
+
+{{< scores/glasgow >}}
+
+{{% /modal %}}

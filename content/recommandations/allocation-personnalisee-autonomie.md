@@ -8,16 +8,15 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-25T11:57:30+01:00"
 publishdate = "2021-11-25"
-lastmod = "2023-01-23"
+lastmod = "2023-10-27"
 specialites = ["social"]
 annees = "2023"
 sources = ["Service-Public"]
-tags = []
+tags = ["geriatrie"]
 anglais = []
 sctid = ""
 image = true
 imageSrc = "Illustration de l'Allocation Personnalisée d'Autonomie (APA) par storyset / Freepik"
-todo = "Relire service-public"
 +++
 
 {{%article-summary%}}
@@ -32,8 +31,8 @@ todo = "Relire service-public"
 {{%collapse "Définition" %}}
 
 Allocation personnalisée d'autonomie (APA)
-: Aide financière réservée:
-    - Personne ≥ 60 ans
+: Aide financière réservée aux personnes:
+    - De plus de 60 ans
     - GIR 1 à 4
     - Résidant en France de manière stable et régulière
     - Vivant à domicile, chez un proche, un accueillant familial, un établissement de moins de 25 places ou en résidence autonomie (ancien foyer-logement)
@@ -116,9 +115,11 @@ La prestation est accordée pour 5 ans, automatiquement renouvelable.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Service-Public. Allocation personnalisée d'autonomie (Apa). 10/01/2023.](https://www.service-public.fr/particuliers/vosdroits/F10009)
+- [Service-Public. Allocation personnalisée d'autonomie (Apa). 01/05/2023.](https://www.service-public.fr/particuliers/vosdroits/F10009)
 - 60 Millions de consommateurs n°520. Novembre 2016.
 - DGCCRF. Contrôle de l'information des consommateurs sur les prix des produits et services d'aide à l'autonomie. 28 octobre 2016.
 - Fizzala A. Autonomix, un outil d'évaluation de mesures portant sur les personnes âgées dépendantes. DREES Économie et statistique n°481-482. 2015.
 
 {{%/sources%}}
+
+{{< card-link-external title="pourlesPersonnesâgées.gouv.fr" url="https://www.pour-les-personnes-agees.gouv.fr/" subtitle="Site Officiel" >}}

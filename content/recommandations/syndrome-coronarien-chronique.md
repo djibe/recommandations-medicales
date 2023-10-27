@@ -217,7 +217,7 @@ Réévaluation du traitement à chaque consultation:
 - Statine systématique
   - {{< modal-btn modal-rcv >}}LDL < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (< **0,55** si stent, sténose à l'imagerie ou événement CV)
   - [Ézétimibe](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63964962&typedoc=R) ou [évolocumab SC](https://ec.europa.eu/health/documents/community-register/2023/20230130158320/anx_158320_fr.pdf) (Repatha®), [alirocumab SC](https://ec.europa.eu/health/documents/community-register/2022/20221216158063/anx_158063_fr.pdf) (Praluent®) si cible non atteinte
-- [Hypertension artérielle](({{< relref "hypertension-arterielle.md" >}})) (*ESH 2023*)
+- [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) (*ESH 2023*)
   - Seuil d'initiation de 130/80 mmHg (dite normale haute)
   - Cible de la population générale: 120-129 / 70-79 mmHg
 - Correction d'un surpoids et d'une obésité abdominale

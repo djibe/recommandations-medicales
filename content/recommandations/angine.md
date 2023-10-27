@@ -6,8 +6,8 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2023-03-22"
-specialites = ["ORL"]
+lastmod = "2023-10-27"
+specialites = ["ORL", "pediatrie"]
 annees = "2022"
 sources = ["HAS", "SPILF"]
 tags = []
@@ -17,7 +17,6 @@ icd10 = "J03.9"
 image = true
 imageSrc = "Angine gauche. Photo de Fireflyez76 sur Foter.com / CC BY-ND"
 flowchart = true
-todo = "suivi de pso en goutte"
 +++
 
 {{%article-summary%}}
@@ -30,7 +29,7 @@ todo = "suivi de pso en goutte"
   - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises/j pendant 6 jours
   - Antibiothérapie aussi indiquée pour l'angine de Vincent, la diphtérie, le gonocoque et le [chancre syphilitique]({{< relref "syphilis.md" >}})
 - La prise en charge de l'angine pédiatrique en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
-- Le Streptatest peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si TROD angine positif, sous 7 jours calendaires >> (*[Arrêté du 13/12/21](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044483134)*)
+- Le Streptatest peut être réalisé par le pharmacien sans ordonnance à partir de 10 ans ou sur ordonnance conditionnelle: << si TROD angine positif, sous 7 jours calendaires >> (*[Arrêté du 13/12/21](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044483134)*)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -52,6 +51,7 @@ Les complications sont locales voire générales:
 - Adénophlegmon cervical (ou Adénite cervicale suppurative)
 - Cellulite cervicale
 - Complications générales
+  - [Psoriasis en goutte]({{< relref "psoriasis.md" >}})
   - Rhumatisme articulaire aigu (RAA)
   - Glomérulonéphrite aiguë post-streptococcique (GNA)
   - Érythème noueux

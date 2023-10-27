@@ -156,7 +156,7 @@ Selon les *Annales de Dermato*, intérêt de rechercher systématiquement:
 
 ### Traitement de la rosacée papulopustuleuse mineure
 
-[Métronidazole 0,75 %](medicaments) gel (Rozex®, gén) x 2/j pendant 3 mois
+[Métronidazole 0,75 %](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60647323&typedoc=R) gel (Rozex®, gén) x 2/j pendant 3 mois
 {.alert .alert-info}
 
 **Effet indésirable:** xérose cutanée.

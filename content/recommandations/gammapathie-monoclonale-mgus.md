@@ -78,7 +78,7 @@ Signes et symptômes à relever lors de la découverte d'un pic monoclonal:
     {{< clinique/anemie >}}
   - [Insuffisance rénale]({{< relref "insuffisance-renale-aigue.md" >}})
   - Rechercher une [ostéoporose]({{< relref "osteoporose.md" >}}), des douleurs ou fractures osseuses (vertébrales ++)
-  - [Neurologique](/tags/neuropathie): radiculalgies, compression médullaire, syndrome de la queue de cheval
+  - [Neurologique](/tags/neuropathie/): radiculalgies, compression médullaire, syndrome de la queue de cheval
   - Infections bactériennes répétées
   - [Dyspnée non expliquée](/tags/dyspnee/)
   - Hépatomégalie

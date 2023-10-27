@@ -73,7 +73,7 @@ SFD
 - Toxiques
 - Psoriasis
   - Ancienneté
-  - Facteurs aggravants: infection (ORL ++, VIH), stress et choc émotionnel, traumatisme cutané (griffure, vaccination = **phénomène de Koebner**), traitement (bêtabloquant)
+  - Facteurs aggravants: infection (ORL ++ [angine]({{< relref "angine.md" >}}), VIH), stress et choc émotionnel, traumatisme cutané (griffure, vaccination = **phénomène de Koebner**), traitement (bêtabloquant)
   - Facteurs de gravité et résistance: alcool, tabac, surpoids/obésité
   - Facteurs d'amélioration: photoexposition
   - Atteinte chronique ou par poussées

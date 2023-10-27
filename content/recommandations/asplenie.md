@@ -121,7 +121,7 @@ Vaccins à réaliser avant voire après une splénectomie.
 
 ### Vaccination du patient splénectomisé
 
-Mise à jour du calendrier vaccinal.
+Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}).
 
 #### Pneumocoque
 

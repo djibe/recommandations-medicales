@@ -76,4 +76,4 @@ Et chez l'enfant avec les signes suivant (+ ci-dessus):
 
 {{%/sources%}}
 
-{{< card-link-external title="Statistiques sur les orthoptistes de France" image="ameli" subtitle="Data ameli" url="Orthoptistes">}}
+{{< card-link-external title="Statistiques sur les orthoptistes de France" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/data-professionnels-sante-liberaux-profession/?refine.profession_sante=Orthoptistes">}}
