@@ -77,11 +77,11 @@ Hypothalamo-hypophysaire par activation précoce de la sécrétion de hypothalam
 - Tumeurs du SNC  
 {{%class%}}**Hamartome hypothalamique**, gliome du chiasma, astrocytome, autres (50% des garçons).{{%/class%}}
 - Radiothérapie cérébrale
-- Infections. Méningite
+- Infections: [méningite]({{< relref "meningite.md" >}})
 - Pathologie inflammatoire  
-{{%class%}}Neurofibromatose de type 1, sclérose tubéreuse de Bourneville.{{%/class%}}
+  {{%class%}}Neurofibromatose de type 1, sclérose tubéreuse de Bourneville.{{%/class%}}
 - Congénitale et malformative  
-Hydrocéphalie, atrophie corticale, kyste arachnoïdien.
+  Hydrocéphalie, atrophie corticale, kyste arachnoïdien.
 
 ### 2. Pubertés précoces périphériques
 

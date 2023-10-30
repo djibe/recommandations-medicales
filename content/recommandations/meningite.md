@@ -3,7 +3,7 @@ title = "Méningite bactérienne et méningocoque"
 titleSeo = "Méningite bactérienne méningocoque"
 noindex = true
 prefix = "la "
-description = "TODO:"
+description = "Recommandations pour la prise en charge des méningites bactériennes. Purpura fulminans, examen clinique, appel du SAMU, ceftriaxone 1g IM si purpura fulminans"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-19T15:57:14+02:00"
@@ -11,22 +11,29 @@ publishdate = "2023-10-30"
 lastmod = "2023-10-30"
 specialites = ["infectiologie", "neurologie"]
 annees = "2018"
-sources = ["SPILF", "DGS"]
-tags = []
+sources = ["SPILF", "MinSanté", "DGS"]
+tags = ["cephalees", "eruption febrile", "fievre", "prevention", "vaccin"]
 anglais = ["Bacterial meningitis"]
 sctid = "95883001"
 icd10 = "G00.9"
-draft = true
-image = false
-imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter"
+image = true
+imageSrc = "Purpura fulminans à méningocoque du nourrisson. Photos de << Baby Charlotte >> qui a survécu et servi de modèle à la vaccination anti-méningococcique. babycharlotte.co.nz"
+todo = "vaccins, summary"
 +++
 
 {{%article-summary%}}
 
-TODO:
+- La méningite est une urgence vitale
+- Signes de méningite bactérienne: fièvre élevée, raideur de la nuque, céphalées, troubles de conscience, purpura, convulsions
+- Évaluation rapide des paramètres vitaux, recherche d'un purpura chez le patient déshabillé
+- Appel immédiat du SAMU et antibiothérapie IM par ceftriaxone 1g si purpura fulminans, port du masque
+- Transport immédiat si délai d'intervention du SAMU supérieur à 20 minutes (prévenir les *Urgences*)
+- Antibioprophylaxie des sujets contacts  
+  Vaccination uniquement en cas de méningocoque (sauf sérogroupe B) et déclaration obligatoire.
+- Suivi après méningite bactérienne: suivi neurologique, auditif et du développement chez l'enfant
+- Prévention de la méningite bactérienne: vaccinations méningocoque B et C, pneumocoque et *Haemophilus*
 
-Ces recommandations n'abordent pas la méningite du nouveau-né
+Ces recommandations n'abordent pas la méningite du nouveau-né.
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -38,7 +45,8 @@ Chez l'adulte, 1400 cas annuels de méningites bactériennes avec surtout le **p
 : Un tableau subaigu ou chronique est rare ([syphilis]({{< relref "syphilis.md" >}}), [maladie de Lyme]({{< relref "maladie-lyme.md" >}}), [tuberculose]({{< relref "tuberculose.md" >}})).
 
 Méningocoque
-: TODO:
+: Bactérie diplocoque gram-négative (BGN) *Neisseria meningitidis* responsable de nombreuses méningites bactériennes, parfois révélées par un *purpura fulminans*.
+: Le sérogroupe B du méningocoque est le plus souvent responsable des méningites bactériennes.
 
 Purpura fulminans
 : Purpura vasculaire d'extension rapide (quelques minutes à quelques heures). Il signe plus souvent une méningococcémie avec une extrême gravité.
@@ -107,7 +115,7 @@ Appel du SAMU immédiat dès la suspicion de méningite
 ### En attendant les secours
 
 > En cas de purpura fulminans, injection immédiate IV ou à défaut IM de ceftriaxone  
-50 mg/kg chez l'enfant (max 1g) et 1 g chez l'adulte (*DGS 2018*)
+50 mg/kg chez l'enfant (max 1g) et 1g chez l'adulte (*DGS 2018*)
 {.alert .alert-warning}
 
 Remplissage vasculaire si disponible et précautions gouttelettes par masque chirurgical.
@@ -129,32 +137,27 @@ Transport immédiat aux *Urgences* (et les prévenir) si délai d'intervention d
 {{% /collapse %}}
 {{%collapse "Prévention de la méningite" %}}
 
-Prévention primaire de la méningite bactérienne: [vaccinations]({{< relref "vaccination.md" >}}) des méningites B et C, pneumocoque et *Haemophilus* des sujets éligibles (nourrissons, comorbidités ...).
+Prévention primaire de la méningite bactérienne: [vaccinations]({{< relref "vaccination.md" >}}) des méningites B et C, pneumocoque et *Haemophilus* des sujets éligibles (nourrissons, [comorbidités](/tags/vaccin/) ...).
 
 ### Vaccin pneumocoque
 
-- Prevenar 13® puis Pneumovax® 2 mois après  
-  {{%class%}}Intervalle avec dernier Prevenar 13® doit être > 3 ans.{{%/class%}}
-- Enfant 2 à 5 ans non vaccinés: Prevenar 13® M0M2 et Pneumovax® M4
-- Enfant < 2 ans: schéma nourrisson et rappel Pneumovax® après ses 2 ans
+3 doses de Prevenar13® de tous les nourrissons à M2-M4 avec rappel à 11 mois. Rattrapage jusqu'à 23 mois.
 
-Rappel par Pneumovax® tous les 5 ans.
-
-TODO:
+Pas de vaccination anti-pneumococcique autour d'un cas de méningite bactérienne à pneumocoque.
 
 ### Vaccination anti-méningococcique (*Neisseria meningitidis*)
 
 #### Méningocoque C
 
-Pour la vaccination des sujets contacts, lire *DGS 2018*.
+Vaccination de la méningite C en prévention primaire de tous les nourrissons: 2 doses obligatoire à 5 et 12 mois. Rattrapage jusqu'à 24 ans.
 
-#### Méningocoque ACYW135
+Pour la vaccination des sujets contacts en prévention secondaire, lire *Calendrier vaccinal*.
 
-- [Menquadfi®](https://ec.europa.eu/health/documents/community-register/2022/20220929157200/anx_157200_fr.pdf) 1 dose unique (rythme de rappel non défini)  
-  ou Menveo® (fourni sans seringue ni aiguille) ou [Nimenrix®](https://ec.europa.eu/health/documents/community-register/2023/20230223158551/anx_158551_fr.pdf) avec 2<sup>e</sup> injection à 6 mois puis **rappel** tous les 5 ans
-- Vacciné avant 7 ans contre méningocoque ACYW135: rappel à 3 ans puis tous les 5 ans
+#### Méningocoque A/Y/W
 
-TODO:
+Vaccination de la méningite A, Y et W en prévention primaire: immunodépression ([asplénie]({{< relref "asplenie.md" >}})), laboratoire travaillant sur le méningocoque, voyage (La Mecque).
+
+Spécialités disponibles: [Menquadfi®](https://ec.europa.eu/health/documents/community-register/2022/20220929157200/anx_157200_fr.pdf), Menveo® (fourni sans seringue ni aiguille) ou [Nimenrix®](https://ec.europa.eu/health/documents/community-register/2023/20230223158551/anx_158551_fr.pdf)
 
 Une dose de méningocoque tétravalent ne compte pas en cas de contact avec un malade à **méningocoque C** si:
 
@@ -163,21 +166,22 @@ Une dose de méningocoque tétravalent ne compte pas en cas de contact avec un m
 
 Dans les 2 cas, vacciner contre la méningite C.
 
-En cas de sérogroupe A, W ou Y, lire *DGS 2018*.
+Pour la vaccination des sujets contacts en prévention secondaire d'un sérogroupe A, W ou Y, lire *Calendrier vaccinal*.
 
 #### Méningocoque B
 
-- ≥ 11 ans: [Bexsero®](https://ec.europa.eu/health/documents/community-register/2021/20210701152279/anx_152279_fr.pdf) avec 2<sup>e</sup> injection à 1 mois  
-  ou Trumenba® ≥ 10 ans en 2 ou 3 injections (et rythme de rappel non défini)
-- 6 mois à 10 ans: Bexsero® avec 2<sup>e</sup> injection à 2 mois
-- 2 à 5 mois: Bexsero® en 3 injections à 1 mois d'intervalle
+Vaccination de la méningite B en prévention primaire: recommandée à 3 mois, 5 mois et 12 mois par [Bexsero®](https://ec.europa.eu/health/documents/community-register/2021/20210701152279/anx_152279_fr.pdf). Rattrapage jusqu'à 23 mois.
+
+En cas de contact d'un sérogroupe B, la vaccination n'est pas recommandée sauf cas groupés de méningite B.
 
 ### *Haemophilus influenzae* type B
 
-Vaccin [ACT-HIB®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61104024&typedoc=R) dose unique (hors AMM après 6 ans).
+Vaccination en prévention primaire par vaccin hexavalent obligatoire à 2 mois, 4 mois et 11 mois. Rattrapage jusqu'à 5 ans.
+
+Pas de vaccination anti-Haemophilus autour d'un cas de méningite bactérienne à *Haemophilus*.
 
 {{% /collapse %}}
-{{%collapse "Traitement et suivi" %}}
+{{%collapse "Traitement et suivi de la méningite bactérienne" %}}
 
 > En cas de purpura fulminans, injection immédiate IV ou à défaut IM de ceftriaxone  
 50 mg/kg chez l'enfant (max 1g) et 1 g chez l'adulte (*DGS 2018*)
@@ -238,7 +242,7 @@ Antibioprophylaxie et vaccination urgente des << sujets contacts >>:
   - Enfant: 10 mg/kg (max 600 mg) x 2/j
   - Possible pendant la grossesse, coloration des urines et larmes, interactions médicamenteuses
 - En cas de contre-indication: [ceftriaxone IM 250 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69211366&typedoc=R) dose unique (enfant 125 mg) ou [ciprofloxacine 500 mg cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63431715&typedoc=R) dose unique (enfant à 20 mg/kg max 500 mg)
-- Si méningocoque disposant d'une vaccination (C, A, Y, W135 hors B): vaccination urgente (C voire A/C/Y/W, voir *Prévention*)
+- Si méningocoque disposant d'une vaccination (C, A, Y, W135 sauf B): vaccination urgente (C voire A/C/Y/W, voir *Prévention*)
 - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}})
 
 > << La vaccination avec le vaccin Bexsero® n'est recommandée autour d'un cas d'IIM B qu'en zone de campagne de vaccination >> – *DGS*
@@ -262,5 +266,3 @@ Antibioprophylaxie et vaccination urgente des << sujets contacts >>:
 {{< scores/glasgow >}}
 
 {{% /modal %}}
-
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–

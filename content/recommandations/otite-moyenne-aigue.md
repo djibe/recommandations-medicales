@@ -37,7 +37,7 @@ flowchart = true
 Otite moyenne aiguë purulente (OMAP)
 : Surinfection de l'oreille moyenne le plus souvent à *Streptococcus pneumoniae* ou *Haemophilus influenzae* (20% de résistance à l'amoxicilline) compliquant le plus souvent une **rhinopharyngite** par obstruction de la trompe d'Eustache.
 : L'otite moyenne aiguë (OMA) est l'infection bactérienne la plus fréquente chez le nourrisson.
-: Les complications de l'OMA sont rares: échec du traitement (5%), méningite bactérienne (streptocoque), mastoïdite, thrombophlébite cérébrale, paralysie faciale, otite séro-muqueuse (10-20%).
+: Les complications de l'OMA sont rares: échec du traitement (5%), [méningite bactérienne]({{< relref "meningite.md" >}}) (streptocoque), mastoïdite, thrombophlébite cérébrale, paralysie faciale, otite séro-muqueuse (10-20%).
 
 ### Abréviations
 

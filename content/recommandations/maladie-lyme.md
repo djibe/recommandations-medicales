@@ -236,7 +236,7 @@ Atteintes neurologiques évocatrices:
   - Surtout l'enfant
   - Sérologie *Borrelia* systématique
 - Beaucoup plus rares  
-  Méningites, myélites aiguës et encéphalites.
+  [Méningites]({{< relref "meningite.md" >}}), myélites aiguës et encéphalites.
 
 Adresser au CC MVT pour investigations et ponction lombaire.
 

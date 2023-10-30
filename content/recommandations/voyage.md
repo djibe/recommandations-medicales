@@ -104,15 +104,15 @@ Se référer à la page dédiée à chaque maladie pour en savoir plus (voir *R�
 
 Vaccinations non recommandées pour les voyageurs: choléra, dengue.
 
-- Encéphalite japonaise: en cas de
-  - Séjour (quelle que soit la durée) dans une zone avec rizières, proximité d'élevages de porcs, en période d'épidémie (ou de
+- Encéphalite japonaise en cas de:
+  - séjour (quelle que soit la durée) dans une zone avec rizières, proximité d'élevages de porcs, en période d'épidémie (ou de
 circulation accrue du virus chez l'animal), ou de saison des pluies
-  - Expatriation ou séjours répétés, dans un pays situé dans la zone de circulation du virus
-  - Toute autre situation jugée à risque par le médecin vaccinateur. Ex: voyage en zone d'endémie avec des incertitudes quant à la durée
+  - expatriation ou séjours répétés, dans un pays situé dans la zone de circulation du virus
+  - toute autre situation jugée à risque par le médecin vaccinateur. Ex: voyage en zone d'endémie avec des incertitudes quant à la durée
 du séjour, la destination précise ou les activités qui y seront pratiquées
 - Encéphalite à tiques: séjour en zone rurale ou boisée dans les régions d'endémie jusqu'à 1500 mètres ou consommation de lait cru, du printemps à l'automne  
   Risque négligeable en cas de séjour urbain strict sans lait cru.
-- Méningite ACYW135: le certificat doit mentionner *Meningococcal conjugate tetravalent ACYW vaccine*
+- [Méningite ACYW135]({{< relref "meningite.md" >}}): le certificat doit mentionner *Meningococcal conjugate tetravalent ACYW vaccine*
 - Poliomyélite et voyage +4 semaines en pays circulant ([liste](https://polioeradication.org/polio-today/polio-now/public-health-emergency-status/)): rappel recommandé 4 semaines à 12 mois avant avec Certificat international si souche PVS1, PVDVc1 ou PVDVc3  
   Le rappel vise à empêcher le portage asymptomatique.
 - Rougeole: un jeune voyageur peut être vacciné dès 6 mois (avec 2 rappels), 1 mois minimum entre 2 doses

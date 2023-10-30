@@ -6,7 +6,7 @@ description = ""
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2023-10-25"
+lastmod = "2023-10-30"
 annees = "2023"
 sources = ["Assurance Maladie"]
 tags = []
@@ -29,7 +29,8 @@ Les outils *OMNIPrat* et *CotaMG* permettent aux jeunes médecins d'apprendre à
 
 - IMT à 60€: depuis le 1er mai, consultation où l'on déclare un patient en [ALD 30]({{< relref "affection-longue-duree.md" >}}) comme médecin traitant.  
   Si l'ALD n'est pas déclarée, la demander et seulement inscrire le patient quand elle a été validée.
-- G(S)/VG(S): après [presque 6 ans à 25€]({{< relref "evolution-tarif-consultation-generaliste.md" >}}), le G (GS) passera à 26,5€ le 1er novembre. Les autres actes (COD, COB, COE, APC, CCX, CDE, CCP) le sont également.
+- G(S)/VG(S): après [presque 6 ans à 25€]({{< relref "evolution-tarif-consultation-generaliste.md" >}}), le G (GS) passera à 26,5€ le 1er novembre. Les autres actes (COD, COB, COE, APC, CCX, CDE, CCP) augmentent également de 1,5€.
+- Déplafonnement du nombre de visites palliatives très complexes (VSP)
 
 ## Les cotations pour les médecins généralistes
 
@@ -186,7 +187,8 @@ L'extraction de cérumen (CAGD001) à 19,25€ n'a pas d'intérêt.
 
 ## Sources
 
-- [Ameli. Tarifs conventionnels des médecins généralistes en France métropolitaine . 15 mai 2023.](https://www.ameli.fr/lille-douai/medecin/exercice-liberal/facturation-remuneration/consultations-actes/tarifs/tarifs-generalistes/tarifs-metropole)
+- [Ameli. Tarifs des consultations : ce qui change au 1er novembre. 30/10/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/tarifs-des-consultations-ce-qui-change-au-1er-novembre)
+- [Ameli. Tarifs conventionnels des médecins généralistes en France métropolitaine . 15/05/2023.](https://www.ameli.fr/lille-douai/medecin/exercice-liberal/facturation-remuneration/consultations-actes/tarifs/tarifs-generalistes/tarifs-metropole)
 - [Ameli. Convention médicale 2016 et règlement arbitral 2023.](https://www.ameli.fr/hauts-de-seine/medecin/textes-reference/convention-medicale-2016)
 - [MG France. Plaquettes tarifaires. 2023.](https://www.mgfrance.org/telechargements/guides-et-plaquettes-publics/2363-plaquettes-tarifaires)
 - Assurance Maladie. La convention nationale 2016-2021 entre les médecins libéraux et l'Assurance Maladie synthèse
