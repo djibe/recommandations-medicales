@@ -7,8 +7,8 @@ description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-19T15:57:14+02:00"
-publishdate = "2023-10-27"
-lastmod = "2023-10-27"
+publishdate = "2023-10-30"
+lastmod = "2023-10-30"
 specialites = ["infectiologie", "neurologie"]
 annees = "2018"
 sources = ["SPILF", "DGS"]
@@ -36,6 +36,9 @@ Méningite bactérienne
 : Les bactéries en causes diffèrent selon l'âge: nouveau-né **streptocoque du groupe B** (57%), 2-12 mois avec le **pneumocoque** (44%) puis le **méningocoque** (1/2, sérogroupe B pour moitié) et le pneumocoque (1/3) ensuite chez l'enfant (données GPIP/ACTIV 2010-2014).  
 Chez l'adulte, 1400 cas annuels de méningites bactériennes avec surtout le **pneumocoque** (méningocoque avant 30 ans) puis *Listeria monocytogenes* (sujet âgé ++). 20% de mortalité et 30% de séquelles.
 : Un tableau subaigu ou chronique est rare ([syphilis]({{< relref "syphilis.md" >}}), [maladie de Lyme]({{< relref "maladie-lyme.md" >}}), [tuberculose]({{< relref "tuberculose.md" >}})).
+
+Méningocoque
+: TODO:
 
 Purpura fulminans
 : Purpura vasculaire d'extension rapide (quelques minutes à quelques heures). Il signe plus souvent une méningococcémie avec une extrême gravité.

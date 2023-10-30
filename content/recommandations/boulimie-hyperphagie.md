@@ -335,6 +335,10 @@ Autres ressources: Fédération FNA-TCA {{<phone>}}06 87 41 86 66{{</phone>}}, [
 - [Fédération nationale des associations liées aux troubles des conduites alimentaires (FNA-TCA)](https://www.fna-tca.org)
 - [Collectif national des associations d'obèses (CNAO Obésité)](https://cnao.fr)
 
+### Bibliographie en attente
+
+[Himmerich H et al. World Federation of Societies of Biological Psychiatry (WFSBP) guidelines update 2023 on the pharmacological treatment of eating disorders. World J Biol Psychiatry. 2023.](https://www.tandfonline.com/doi/full/10.1080/15622975.2023.2179663)
+
 {{%/sources%}}
 {{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
 

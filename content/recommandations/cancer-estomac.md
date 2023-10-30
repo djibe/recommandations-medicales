@@ -7,16 +7,16 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-16T20:52:00+02:00"
 publishdate = "2021-02-16"
-lastmod = "2023-09-12"
+lastmod = "2023-10-30"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2022"
+annees = "2023"
 sources = ["SNFGE", "HAS"]
 tags = ["EOGD", "ferritine", "gastrite"]
 anglais = ["Cancer of stomach"]
 sctid = "363349007"
 icd10 = "C16.9"
 image = true
-imageSrc = "Coupe histopathologique comparative d'adénocarcinome gastrique par Green, John et al. CC BY 4.0, via Wikimedia Commons"
+imageSrc = "Coupe histopathologique comparative d'adénocarcinome gastrique. Green, John et al. CC BY 4.0, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}
@@ -95,7 +95,7 @@ SNFGE
 - [Infection à EBV]({{< relref "mononucleose-infectieuse.md" >}})
 - Origine géographique: Asie, Amérique latine
 
-Principaux facteurs de risque de cancer du cardia gastrique: Surpoids et [reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}}).
+Principaux facteurs de risque de cancer du cardia gastrique: surpoids et [reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -128,7 +128,7 @@ Un cancer de l'estomac doit être évoqué et exploré devant:
 - [Alcool]({{< relref "sevrage-alcool.md" >}}), tabagisme, alimentation fumée/salée
 - Évolution et ancienneté des symptômes
 - Score OMS
-- +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
+- À partir de 70 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
 ### Examen clinique
 
@@ -144,7 +144,7 @@ L'examen recherche:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan exploratoire
+### Bilan exploratoire d'une suspicion de cancer de l'estomac
 
 Le bilan biologique recherche des signes de malignité:
 
@@ -158,9 +158,9 @@ En cas de symptômes évocateurs d'un cancer de l'estomac, adresser directement 
 
 [SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/download/file/fid/2775)
 
-Le bilan complémentaire comporte toujours un **scanner** thoraco-abdominopelvien avec injection.
+Le bilan complémentaire comporte toujours un **scanner** thoraco-abdomino-pelvien avec injection.
 
-Les marqueurs tumoraux ACE et CA19-9 ne sont pas utiles au diagnostic initial
+> Les marqueurs tumoraux ACE et CA19-9 ne sont pas utiles au diagnostic initial
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -168,12 +168,14 @@ Les marqueurs tumoraux ACE et CA19-9 ne sont pas utiles au diagnostic initial
 
 La prise en charge relève exclusivement du spécialiste après **réunion de concertation pluri-disciplinaire**.
 
-Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du patient:
+Dépistage d'*Helicobacter pylori* systématique chez l'entourage au premier degré du patient:
 
 - Symptomatique: EOGD
-- Asymptomatique < 45 ans: [sérologie *HP*]({{< relref "helicobacter-pylori.md" >}})  
+- Asymptomatique < 45 ans: [sérologie *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}})  
   Alternative: test respiratoire à l'urée marquée.
 - Asymptomatique ≥ 45 ans: EOGD
+
+Le traitement du cancer gastrique décidé en RCP peut être: traitement endoscopique, gastrectomie (des 4/5e, totale), chimio(radio)thérapie.
 
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}
@@ -215,7 +217,7 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 {{% /collapse %}}
 {{%sources%}}
 
-- [Zaanan A et al. << Cancer de l'estomac >>. Thésaurus National de Cancérologie Digestive. Octobre 2022.](https://www.snfge.org/content/9-cancer-du-pancreas)
+- [Zaanan A et al. << Cancer de l'estomac >>. Thésaurus National de Cancérologie Digestive. Octobre 2023.](https://www.snfge.org/content/2-cancer-de-lestomac)
 - {{< references/college-gastro >}}
 - [Chollet R et al; SFED, CREGG. Prévention du cancer de l'estomac. 2021.](https://www.sfed.org/sites/www.sfed.org/files/2021-08/Cancerestomac_prevention.pdf)
 - [Nousbaum JB et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)

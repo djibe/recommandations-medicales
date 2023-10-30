@@ -286,6 +286,10 @@ accTitle: Conduite à tenir devant une suspicion de dermatite atopique et prise 
 - Collège des enseignants de dermatologie de France (CEDEF), Staumont D. Dermatite atopique. Item 163 UE 7. 2017.
 - [SFDermato. Prise en charge de la dermatite atopique de l'enfant. Ann Dermatol Venereol. 2005. (PDF)](https://www.sfdermato.org/upload/recommandations/da-court-21929906693b437d6f4315bef48d1518.pdf)
 
+### Bibliographie en attente
+
+[Xu AZ, Alexander JT. Topical Therapies for Atopic Dermatitis. JAMA. Published online October 27, 2023. doi:10.1001/jama.2023.17719](https://jamanetwork.com/journals/jama/article-abstract/2811421)
+
 {{%/sources%}}
 {{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}
 

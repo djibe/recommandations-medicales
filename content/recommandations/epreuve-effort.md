@@ -344,7 +344,7 @@ atriale
 {{% /collapse %}}
 {{%collapse "Situations où réaliser un test d'effort" "show" %}}
 
-{{< mermaid title="Situations où l'opportunité de la réalisation test d'effort doit être évoquée selon la présentation clinique. Dr Alaedine Benani et JB Fron d'après SFC 2018 et 2022" >}}
+{{< mermaid title="Situations où l'opportunité de la réalisation test d'effort doit être évoquée selon la présentation clinique. Drs Alaedine Benani et JB Fron d'après SFC 2018 et 2022" >}}
 graph TB
   indications["Envisager ou réaliser<br>un test d'effort"] --> sportif("<b>Sportif</b><br>—<br>- Perte performances<br>- Angor<br>- RCV élevé<br>- +40 ans sédentaire<br>reprenant intense")
   style indications stroke:#4150f5, stroke-width:1px

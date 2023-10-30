@@ -7,10 +7,10 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr J. OLIVIER (AFU)"
 date = "2020-09-27T19:51:30+02:00"
 publishdate = "2020-09-27"
-lastmod = "2023-03-20"
+lastmod = "2023-10-30"
 specialites = ["urologie"]
-annees = "2022"
-sources = ["AFU", "EAU", "HAS", "USPTF"]
+annees = "2023"
+sources = ["EAU", "AFU", "HAS", "USPTF"]
 tags = ["cancer", "depistage"]
 anglais = ["Prostate cancer (PCa)"]
 sctid = "254900004"
@@ -157,7 +157,7 @@ Indications à une consultation d'oncogénétique chez un homme ayant un **anté
 - Antécédents familiaux génétiques tumoraux ou de cancers multiples d'une branche familiale
 
 > *EAU 2022*  
-\* **Haut risque =** PSA > 20 ou Gleason > 7 (ISUP 4/5) ou cT2c ou cT3-4 ou cN+ (*Table 4.2*)
+\* **Haut risque =** PSA > 20 ou Gleason > 7 (ISUP 4/5) ou cT2c ou cT3-4 ou cN+ (*EAU Table 4.2*)
 
 Indications à une consultation d'oncogénétique selon l'*AFU 2022*:
 
@@ -191,7 +191,7 @@ Positions des différents comités sur la détection précoce du cancer de la pr
   Pas de dépistage systématique en population générale ni à haut risque ([INCa 2016. Le dépistage du cancer de la prostate - s'informer avant de décider](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Le-depistage-du-cancer-de-la-prostate-S-informer-avant-de-decider)).
 - Commission européenne 2022  
   PSA jusqu'à 70 ans.
-- EAU 2022  
+- EAU 2023  
   Intérêt d'une détection précoce des *hommes à risque* ayant une [espérance de vie (EV) de +15 ans](https://ec.europa.eu/eurostat/databrowser/view/demo_mlexpec$DV_291/default/table)
 - AFU 2022  
   Hommes de 50 (40 à 45 si *à risque*) à 70 ans avec espérance de vie de +10 ans, tous les 2 à 4 ans.
@@ -201,7 +201,7 @@ Positions des différents comités sur la détection précoce du cancer de la pr
 
 #### Prise en charge selon le résultat du PSA
 
-Patient à risque asymptomatique informé demandant une détection précoce, dépistage par **toucher rectal et mesure du PSA total**:
+Patient à risque **asymptomatique** informé demandant une détection précoce, dépistage par **toucher rectal et mesure du PSA total**:
 
 - Toucher rectal normal
   - PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans: répéter le dosage dans 8 ans
@@ -238,7 +238,7 @@ Liste des complications de la biopsie prostatique par ordre de fréquence: hémo
 
 Chapitre pour en savoir plus sur la prise en charge du cancer de la prostate, le traitement du cancer de la prostate dépend des décisions de la réunion de **concertation pluridisciplinaire** (RCP) et du souhait du patient.
 
-Déclarer l'**ALD n°30**.
+Déclarer l'**[ALD n°30]({{< relref "affection-longue-duree.md" >}})**.
 
 Plusieurs stratégies thérapeutiques sont disponibles pour la prise en charge du cancer de la prostate: **prostatectomie totale, radiothérapie, hormonothérapie, surveillance active** (détaillée plus bas) voire une ***Abstention-surveillance*** (patient asymptomatique avec cancer localisé et espérance de vie < 10 ans).
 
@@ -247,14 +247,15 @@ Après prostatectomie totale, la cible du PSA est < 0,2 ng/mL à 6 semaines.
 
 ### La surveillance active
 
-La surveillance active est proposée pour un cancer à faible risque évolutif chez un homme avec une espérance de vie supérieure à 10 ans.  
-Il s'agit d'une surveillance spécialisée prolongée avec examen clinique, PSA, IRM prostatique et biopsies tous les 3 à 10 ans.
+La *surveillance active* est proposée pour un cancer à **faible risque évolutif** lorsque l'espérance de vie est supérieure à 10 ans.
+
+Il s'agit d'une surveillance spécialisée prolongée avec examen clinique (min annuelle), PSA (min semestriel), IRM prostatique et biopsies tous les 2-3 ans.
 
 ### Définitions de la récidive biologique du cancer de la prostate selon le type de traitement
 
 Le seuil de PSA total pour affirmer une récidive dépend du traitement radical:
 
-- Prostatectomie totale: PSA > 0,2 ng/mL ascendant (confirmation sur 2 dosages successifs)
+- Prostatectomie totale: PSA > 0,4 ng/mL ascendant (confirmation sur 2 dosages successifs)
 - Radiothérapie ± hormonothérapie: PSA Nadir (le plus bas mesuré) + 2 ng/mL
 - Curiethérapie: idem
 - HIFU (ultrasons): PSA Nadir + 1,2 ng/mL
@@ -295,9 +296,9 @@ accTitle: Dépistage du cancer de la prostate et conduite à tenir devant une au
 
 {{< youtube id="cm7rIZAXHYU" title="Indication du toucher rectal en médecine (Urologie Lyon Sud)" >}}
 
+- [Mottet N et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2023.](https://uroweb.org/guidelines/prostate-cancer)
 - [Ploussard G et al. French AFU Cancer Committee Guidelines - Update 2022-2024: prostate cancer - Diagnosis and management of localised disease. Progrès en Urologie. 2022.](https://www.sciencedirect.com/science/article/pii/S116670872200344X)
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
-- [Mottet N et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2022.](https://uroweb.org/guidelines/prostate-cancer)
 - [Collège Français des Enseignants en Urologie (CFEU). Tumeur de prostate. Item 310. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-310-Tumeur-de-prostate.pdf)
 - [Rozet F et al. Recommandations françaises du Comité de cancérologie de l'AFU – actualisation 2020–2022 : cancer de la prostate. Progrès en Urologie. 2020.](https://www.urofrance.org/recommandation/recommandations-francaises-du-comite-de-cancerologie-de-lafu-actualisation-2020-2022-cancer-de-la-prostate/?date=&themes=&search=%22)
 - [Gandaglia G et al. Structured Population-based Prostate-specific Antigen Screening for Prostate Cancer: The European Association of Urology Position in 2019. Eur Urol. 2019.](https://www.europeanurology.com/article/S0302-2838(19)30347-1/fulltext)

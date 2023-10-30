@@ -6,9 +6,9 @@ synonyms = ["Cancer du côlon", "cancer du rectum"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
 publishdate = "2022-09-22"
-lastmod = "2023-09-01"
+lastmod = "2023-10-30"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2021"
+annees = "2023"
 sources = ["SNFGE", "INCa", "HAS", "SFED"]
 tags = ["cancer", "depistage", "fatigue", "obesite", "prevention", "tabac"]
 anglais = ["Colorectal cancer"]
@@ -137,11 +137,11 @@ Indications à une **consultation d'oncogénétique**:
 
 - 2 antécédents familiaux au 1<sup>er</sup> degré de cancer du spectre de Lynch ({{< clinique/cancer-spectre-lynch >}}) dont 1 avant 50 ans
 - Antécédent personnel de cancer du spectre de Lynch surajouté (hors le CCR, cf ligne précédente)
-- Cancer colorectal avant 40 ans
+- Cancer colorectal **avant 40 ans**
 - Phénotype MSI ou dMMR
 - Suspicion de Polypose Adénomateuse Familiale (PAF)
 
-> *TNCD 2021*
+> *TNCD 2023*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -299,11 +299,11 @@ Le traitement dépend de la décision de la réunion de concertation pluridiscip
 
 ### Suivi après cancer du côlon ou rectum
 
-Pendant 5 ans: clinique (4/an pendant 3 ans puis 2/an), scanner ou échographie abdomino-pelvienne (même rythme que la clinique), scanner thoracique et coloscopie (annuels), parfois marqueur *ACE*.
+Pendant 5 ans: clinique (trimestrielle pendant 3 ans puis semestriel), scanner ou **échographie abdomino-pelvienne** (même rythme que la clinique), radiographie de thorax (semestrielle pendant 3 ans puis annuelle), coloscopie (annuelle).
 
 Après 5 ans: suivi du risque élevé avec coloscopie tous les 5 ans.
 
-> *INCa 2018*
+> *TNCD 2023* et *INCa 2018*
 
 ### Pour en savoir: traitement du cancer du côlon et du haut rectum
 
@@ -347,12 +347,12 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 
 {{< youtube id="DV0PVuj4Ljw" title="Quelle surveillance endoscopique pour un cancer du côlon ? (TutoGastro SNFGE)" >}}
 
+- [Lecomte T et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive (TNCD). 2023.](https://www.snfge.org/content/3-cancer-du-colon-non-metastatique)
 - [Phelip JM et al. « Cancer colorectal métastatique ». Thésaurus National de Cancérologie Digestive. septembre 2023.](https://www.snfge.org/content/4-cancer-colorectal-metastatique)
 - {{< references/college-gastro >}}
 - [Cervantes A et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)
 - [Service-Public.fr. Cancer colorectal : des kits de dépistage disponibles en pharmacie. 02/11/2022.](https://www.service-public.fr/particuliers/actualites/A15541)
 - [Robaszkiewicz M et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
-- [Lecomte T et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/3-cancer-du-colon-non-metastatique)
 - [Cotte E et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/5-cancer-du-rectum)
 - [INCa. Les cancers colorectaux en 12 points clés. Juillet 2020. (PDF)](https://www.e-cancer.fr/content/download/292187/4161375/file/Cancers_colorectaux_en_12_points_cl%C3%A9s_mel_20200702.pdf)
 - [INCa. Cancer colorectal - Dépistage par test immunologique et autres modalités. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-colorectal-Depistage-par-test-immunologique-et-autres-modalites)

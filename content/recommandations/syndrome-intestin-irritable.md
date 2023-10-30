@@ -287,6 +287,7 @@ style SII stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
+- [SNFGE. Régime pauvre en sucres fermentescibles, les FODMAPs. 2016.](https://www.snfge.org/download/file/fid/4878)
 - [Mearin F et al. Bowel Disorders. Gastroenterology. 2016.](https://pubmed.ncbi.nlm.nih.gov/27144627/)
 - Cochrane
 

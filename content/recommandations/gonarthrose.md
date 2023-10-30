@@ -296,6 +296,7 @@ Recours possible à la duloxétine sur prescription par un expert en l'absence d
 
 ### Bibliographie en attente
 
+- [Duong V et al. Evaluation and Treatment of Knee Pain: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811009)
 - [CNGE. Eviter la visco-supplémentation dans la gonarthrose. 05/09/2022.](https://www.cnge.fr/conseil_scientifique/productions_du_conseil_scientifique/eviter_la_visco_supplementation_dans_la_gonarthros/)
 
 {{%/sources%}}

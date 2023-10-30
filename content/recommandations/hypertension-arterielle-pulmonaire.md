@@ -198,7 +198,7 @@ La prise en charge de l'hypertension artérielle pulmonaire (HTAP) relève uniqu
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'hypertension artérielle pulmonaire" "show" %}}
 
-{{< mermaid title="Prise en charge de l'hypertension artérielle pulmonaire. Dr Alaedine Benani et JB Fron d'après ESC 2022" >}}
+{{< mermaid title="Prise en charge de l'hypertension artérielle pulmonaire. Drs Alaedine Benani et JB Fron d'après ESC 2022" >}}
 graph TB
   risque["<b>Sujet à risque d'HTAP</b><br>—<br>- Cardiopathie congénitale<br>- Insuff. respiratoire<br>- Sclérodermie (dépistage annuel)<br>- Antécédent familial d'HTAP"] --> examens("<b>Examens complémentaires</b><br>—<br>- Biologie<br>- ECG<br>- Radiographie thoracique") --> cardiologue("Consultation de cardiologie<br>pour ETT") -. Confirmation .-> référence(Centre de référence Respifil) --> suivi("<b>Suivi du généraliste</b><br>—<br>- ALD n°5<br>- Observance<br>- Réhabilitation<br>- OLD si PaO2 &lt; 60 mmHg<br>- Vaccinations<br>- Soutien, associations")
   symptômes["<b>Symptômes évocateurs</b><br>—<br>- Dyspnée effort inexpliquée<br>- Syncope à l'effort<br>- Insuff. cardiaque droite"] --> examens

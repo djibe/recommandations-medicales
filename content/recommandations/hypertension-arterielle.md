@@ -498,7 +498,7 @@ Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'hypertension artérielle" "show" %}}
 
-{{< mermaid title="Prise en charge de l'hypertension artérielle de l'adulte. Dr Alaedine Benani et JB Fron d'après ESH 2023" >}}
+{{< mermaid title="Prise en charge de l'hypertension artérielle de l'adulte. Drs Alaedine Benani et JB Fron d'après ESH 2023" >}}
 graph TB
   HTA["<b>Dépistage de l'HTA chez le +16 ans</b><br>—<br>- Minimum tous les 3 ans<br>- Annuel si: MCV, +40 ans, proche 14/9"] --> seuil("PAS ≥ 140 mmHg<br>et/ou PAD ≥ 90 mmHg ?<br>Mesure et appareil standardisés") -- Oui --> confirmation(<b>Confirmation</b><br>—<br>- Automesure 7 jours<br>- MAPA<br>- 2-3 consultations<br>espacées 1-4 sem.)
   style HTA stroke:#4150f5, stroke-width:1px

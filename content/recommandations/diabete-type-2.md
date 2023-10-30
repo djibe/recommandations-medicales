@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2023-10-19"
+lastmod = "2023-10-30"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["ESC", "ESH", "ADA", "EASD", "SFD", "KDIGO", "HAS"]
@@ -22,7 +22,7 @@ todo = "socrisktest, WATCH-DM ESC2023 src480; EASD 2021 Table 2.3 et 2.4, glinid
 
 {{%article-summary%}}
 
-Ce chapitre intègre les dernières recommandations ADA, ESC et ESH 2023 et ADA/EASD 2022 sur le diabète de type 2.
+Ce chapitre intègre les dernières recommandations ADA, ESC et ESH 2023 et ADA/EASD 2022 pour la prise en charge du diabète de type 2.
 
 - Dépister régulièrement un diabète si: +35 ans, prédiabète (annuel), diabète gestationnel (max 3 ans), VIH, surpoids avec autre facteur de risque (antécédent familial, maladie cardiovasculaire, origines africaines/asiatiques/pacifiques, hypertension, HDL < 0,35 g/L, TG > 2,5 g/L, inactivité physique, [stéatose hépatique]({{< relref "steatose-hepatique-et-nash.md" >}}), acanthosis nigricans), [Socrisktest](https://diabetes.org/diabetes-risk-test) ≥ 5 (*ADA 2023*)
 - Pour chaque personne vivant avec un diabète: définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
@@ -368,13 +368,14 @@ window.addEventListener('load', () => {
   - 1 lecteur remboursé tous les 4 ans
   - **Indications à l'autosurveillance glycémique:** insuline envisagée ou en cours, insulinosécréteur avec suspicion d'hypoglycémie, visée pédagogique en cible non atteinte, déséquilibre aigu (infection, corticoïdes, suspension du traitement), (désir de) grossesse
 - Capteur de glycémie
-  - Indications: patient de plus de 4 ans avec insulinothérapie intensifiée (pompe ou ≥ 3 injections quotidiennes) et pratiquant une ASG ≥ 3/j.
+  - Indications pour le remboursement chez patient atteint depuis plus de 4 ans si: insulinothérapie intensifiée (pompe ou ≥ 3 injections quotidiennes) et pratiquant une ASG ≥ 3/j  
+    OU insulinothérapie non intensifiée (< 3/j) avec déséquilibre (HbA1c ≥ 8%) (*[HAS 2022 (PDF)](https://www.has-sante.fr/upload/docs/evamed/CNEDIMTS-6882_FREESTYLE%20LIBRE%202_18%20octobre%202022_(6882)_avis.pdf)*)
   - Prescription initiale par endocrinologue
-  - 26 capteurs/an remboursés ([Freestyle Libre 2](https://www.federationdesdiabetiques.org/federation/actualites/freestyle-libre-2-c-est-officiel-le-dispositif-bientot-pris-en-charge))
+  - 26 capteurs/an remboursés ([Freestyle Libre 2](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043507006))
 - Stylo à insuline connecté (Novopen 6, Novopen Echo Plus)  
   1 stylo par an.
 
-> *[Ameli 2021](https://www.ameli.fr/medecin/exercice-liberal/memos/suivi/auto-surveillance-glycemique-du-patient-diabetique-systeme-freestyle-libre)*
+> – *[Ameli 2021](https://www.ameli.fr/medecin/exercice-liberal/memos/suivi/auto-surveillance-glycemique-du-patient-diabetique-systeme-freestyle-libre)*
 
 {{% /collapse %}}
 {{%sources%}}

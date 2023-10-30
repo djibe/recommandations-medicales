@@ -94,12 +94,10 @@ La splénomégalie n'est qu'un symptôme:
 
 ### Grosses rates isolées
 
-- Parasitoses  
-  Kala-Azar, kyste hydatique de la rate
+- Parasitoses: Kala-Azar, kyste hydatique de la rate.
 - Kystes spléniques congénitaux
 - Fibromes, angiomes spléniques
-- Maladies de surcharge
-  Maladie de Gaucher, de Niemann-Pick.
+- Maladies de surcharge: maladie de Gaucher, de Niemann-Pick.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
