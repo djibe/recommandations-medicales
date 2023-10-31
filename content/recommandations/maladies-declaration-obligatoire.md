@@ -39,7 +39,7 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme:
 - [Fièvre jaune]({{< relref "fievre-jaune.md" >}})
 - Fièvres typhoïdes et paratyphoïdes
 - [Hépatite A aiguë]({{< relref "hepatite-a.md" >}})
-- Infection invasive à méningocoque
+- [Infection invasive à méningocoque]({{< relref "meningite.md" >}})
 - [Infection aiguë symptomatique par le virus de l'hépatite B]({{< relref "hepatite-b.md" >}})
 - [Infection VIH]({{< relref "vih-sida.md" >}})
 - Légionellose

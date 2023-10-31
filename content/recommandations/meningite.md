@@ -27,8 +27,7 @@ imageSrc = "Purpura fulminans à méningocoque du nourrisson. Photos de << Baby 
 - Évaluation rapide des paramètres vitaux, recherche d'un purpura chez le patient déshabillé
 - Appel immédiat du SAMU et antibiothérapie IM par ceftriaxone 1g si purpura fulminans, port du masque
 - Transport immédiat si délai d'intervention du SAMU supérieur à 20 minutes (prévenir les *Urgences*)
-- Prise en charge des sujets contacts par antibioprophylaxie  
-  Vaccination uniquement en cas de méningocoque (sauf sérogroupe B) avec déclaration obligatoire.
+- En cas de méningocoque: prise en charge des sujets contacts par antibioprophylaxie, déclaration obligatoire et vaccination (sauf sérogroupe B)
 - Suivi après méningite bactérienne: suivi neurologique, auditif et du développement chez l'enfant
 - Prévention de la méningite bactérienne: vaccinations méningocoque B et C, pneumocoque et *Haemophilus*
 
