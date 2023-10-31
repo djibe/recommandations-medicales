@@ -23,7 +23,7 @@ flowchart = true
 {{%article-summary%}}
 
 - L'hémangiome hépatique est une tumeur toujours bénigne du foie, le plus souvent asymptomatique
-- L'hémangiome doit être différencié d'un cancer hépatique (CHC surtout, hépatopathie ++), d'une métastase (contexte de cancer connu) ou d'une infection hépatique (voyage)
+- L'hémangiome doit être différencié d'un cancer hépatique ([CHC]({{< relref "carcinome-hepatocellulaire.md" >}}) surtout, hépatopathie ++), d'une métastase (contexte de cancer connu) ou d'une infection hépatique (voyage)
 - Le bilan de l'hémangiome hépatique comporte un examen clinique rigoureux, un bilan hépatique avec sérologies des hépatites et une échographie abdominale
 - Un avis spécialisé du gastro-entérologue est important au diagnostic pour ne pas méconnaître une lésion autre
 - La prise en charge de l'hémangiome est dans la grande majorité des cas simple avec une abstention de traitement
@@ -59,7 +59,7 @@ Autres tumeurs et lésions hépatiques:
 - Tumeurs hépatiques
   - Hyperplasie nodulaire focale (HNF)
   - Adénome hépatocellulaire (AF)
-  - Carcinome hépatocellulaire (CHC)
+  - [Carcinome hépatocellulaire (CHC)]({{< relref "carcinome-hepatocellulaire.md" >}})
   - Cholangiocarcinome
   - Métastase hépatique
 - Kyste biliaire
@@ -76,7 +76,7 @@ Signes et symptômes à rechercher pour étayer un nodule hépatique. L'enjeu co
 ### Interrogatoire
 
 - Antécédents  
-  **[Cancer](/tags/cancer/)** et **facteurs de risque d'hépatopathie**: [hépatite virale](/tags/hepatite/), cirrhose, transfusion, tatouage, drogues IV, syndrome métabolique, [diabète](/tags/diabete/).
+  **[Cancer](/tags/cancer/)**, cirrhose et **facteurs de risque d'hépatopathie**: [hépatite virale](/tags/hepatite/), transfusion, tatouage, drogues IV, alcool, syndrome métabolique, [diabète](/tags/diabete/).
 - Antécédents familiaux: cancer, hépatopathie
 - Traitements en cours et passés: [contraception]({{< relref "contraception.md" >}}), [méthotrexate]({{< relref "methotrexate.md" >}}), [tamoxifène]({{< relref "cancer-sein.md" >}}), androgènes
 - Alcool, tabac
@@ -108,9 +108,11 @@ Le bilan est celui d'une tumeur hépatique:
 - NFS, CRP
 - Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine totale
 - Ferritinémie
-- Coagulation: TP, TCA(*NDLR*)
+- Coagulation: TP, TCA
+- Albuminémie
 - Sérologies VHB, VHC
 - Glycémie à jeun
+- Bilan lipidique
 
 ### Échographie abdominale
 
@@ -123,7 +125,7 @@ Le **diagnostic d'hémangiome hépatique** est échographique si tous les critè
 
 Pas de suivi d'imagerie nécessaire pour un hémangiome typique.
 
-**IRM hépatique** avec injection de produit de contraste en cas d'échographie atypique, de cancer connu ou d'hépatopathie (alternative avec injection: échographie ou scanner).
+**IRM hépatique** avec injection de produit de contraste en cas d'échographie atypique, de cancer connu ou d'hépatopathie (**cirrhose** ++; alternative avec injection: échographie ou scanner).
 
 ### Biopsie hépatique
 
@@ -157,7 +159,7 @@ La transplantation hépatique est exceptionnelle (tumeurs compliquées de grande
 
 {{< mermaid title="Prise en charge d'un hémangiome hépatique. Dr JB Fron d'après EASL 2016">}}
 graph TB
-  incidentalome["Découverte d'un<br><b>hémangiome hépatique</b><br>Fortuite ++ ou symptomatique"] --> clinique("- Clinique: examen,<br> antécédent de cancer,<br>hépatopathie,<br>symptômes, AEG<br>- Biologie: BH,<br>sérologies hépatites") --> aspect("<b>Tous les critères remplis ?</b><br>—<br>1. Aspect typique<br>2. Absence de cancer connu<br>3. Pas d'hépatopathie") -- Oui --> symptômes("Symptômes invalidants ?") -- Oui --> RCP("RCP tumeur bénigne<br>du foie")
+  incidentalome["Découverte d'un<br><b>hémangiome hépatique</b><br>Fortuite ++ ou symptomatique"] --> clinique("- Clinique: examen,<br> antécédent de cancer,<br>hépatopathie,<br>symptômes, AEG<br>- Biologie: BH,<br>sérologies hépatites") --> aspect("<b>Tous les critères remplis ?</b><br>—<br>1. Aspect typique<br>2. Absence de cancer connu<br>3. Absence d'hépatopathie/cirrhose") -- Oui --> symptômes("Symptômes invalidants ?") -- Oui --> RCP("RCP tumeur bénigne<br>du foie")
       symptômes -- "Non, avis<br>de principe" --> gastro("Avis gastro-entérologique") -. "Hémangiome confirmé" .-> suivi("Pas de suivi<br>si &lt; 3 cm")
     aspect -- Non --> bilan("Compléter le bilan:<br>- IRM hépatique<br>± Scanner abdominal") --"Semi-urgent"--> gastro
   style incidentalome stroke:#4150f5, stroke-width:1px

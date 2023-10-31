@@ -61,7 +61,7 @@ EPO
   - Rénale  
     Sténose des artères rénales, insuffisance rénale sévère, hydronéphrose, kystes rénaux.
   - EPO tumorale  
-    CHC, cancer rénal, parathyroïdien, utérin, phéochromocytome, méningiome.
+    [Carcinome hépatocellulaire (CHC)]({{< relref "carcinome-hepatocellulaire.md" >}}), cancer rénal, parathyroïdien, utérin, phéochromocytome, méningiome.
   - EPO iatrogène  
     Érythropoïétine, androgènes, diurétiques.
   - Alcool

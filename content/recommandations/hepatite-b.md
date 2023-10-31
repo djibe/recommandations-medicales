@@ -24,7 +24,7 @@ todo = "dépistage VHB, insuff hépatocellulaire, AFEF 2020: TROD AgHBs isolés,
 
 - Les prochaines recommandations HAS hépatite B seront publiée en 2023
 - Le dépistage VHB - VHC - VIH doit être combiné (*HAS, AFEF*)
-- Le taux d'ALAT est un marqueur de l'activité de la maladie ({{< modal-btn modal-pageb >}}score Page-B{{< /modal-btn >}}) prédictif de carcinome hépatocellulaire (CHC)
+- Le taux d'ALAT est un marqueur de l'activité de la maladie ({{< modal-btn modal-pageb >}}score Page-B{{< /modal-btn >}}) prédictif de [carcinome hépatocellulaire (CHC)]({{< relref "carcinome-hepatocellulaire.md" >}})
 - Vacciner contre l'hépatite B: rattrapage jusque 15 ans révolus et autres indications (voir *Personnes à vacciner*)
 - Vacciner tout l'entourage d'une personne avec hépatite B active
 - L'hépatite B aiguë est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
@@ -34,7 +34,7 @@ todo = "dépistage VHB, insuff hépatocellulaire, AFEF 2020: TROD AgHBs isolés,
 
 Hépatite B
 : Maladie infectieuse du foie causée par le virus de l'hépatite B (VHB) à ADN. La transmission est sexuelle, par des fluides biologiques ou materno-fœtale. Les contaminations par échanges de seringues sont encore fréquents.
-: L'infection (ALAT normales) est le plus souvent asymptomatique, on parle d'hépatite lorsque les ALAT sont élevées. 0,1 à 1% des formes aiguës peuvent évoluer vers l'**hépatite fulminante**. De 2 à 10% des cas deviennent chroniques (90% pour les nouveaux-nés), avec risque de **cirrhose** (10-20%) ou de **carcinome hépatocellulaire** (CHC, 3-5%/an) même en l'absence de cirrhose (virus oncogène).  
+: L'infection (ALAT normales) est le plus souvent asymptomatique, on parle d'hépatite lorsque les ALAT sont élevées. 0,1 à 1% des formes aiguës peuvent évoluer vers l'**hépatite fulminante**. De 2 à 10% des cas deviennent chroniques (90% pour les nouveaux-nés), avec risque de **cirrhose** (10-20%) ou de **[carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}})** (CHC, 3-5%/an) même en l'absence de cirrhose (virus oncogène).  
 Même en cas de disparition de l'AgHBs, un réactivation reste possible en cas d'immunosuppression par persistance d'ADN viral dans les hépatocytes.
 : Une co-infection par le virus de l'hépatite D est possible (< 2%).
 
@@ -353,9 +353,9 @@ Suivi minimum des patients AgHBs + non traités, en l'absence de, cirrhose et en
 
 ### Dépistage du carcinome hépatocellulaire
 
-Indications au dépistage du carcinome hépatocellulaire (CHC): hépatopathie avancée ou à risque (antécédent de CHC au 1<sup>er</sup> degré, {{< modal-btn modal-pageb >}}score Page-B ≥ 10{{< /modal-btn >}}).
+Indications au [dépistage du carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}}) (CHC): hépatopathie avancée ou à risque (antécédent de CHC au 1<sup>er</sup> degré, {{< modal-btn modal-pageb >}}score Page-B ≥ 10{{< /modal-btn >}}).
 
-Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler et alphafoetoprotéine.
+Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler.
 {{%/info%}}
 
 {{% /collapse %}}

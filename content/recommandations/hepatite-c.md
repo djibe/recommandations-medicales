@@ -282,7 +282,7 @@ La surveillance après la guérison d'une hépatite C dépend de l'atteinte hép
 - Si persistance de conduites à risque: PCR VHC x 1-2/an ou après injection à risque
 - Mesures d'hépatoprotection à vie  
   [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}}), {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, automédication.
-- Si cirrhose ou valeurs anormales avant traitement: dépistage du CHC
+- Si cirrhose ou valeurs anormales avant traitement: [dépistage du CHC]({{< relref "carcinome-hepatocellulaire.md" >}})
   Valeurs anormales signes d'hépatopathie avancée: FibroScan® ≥ 10 kPa, Fibrotest® > 0,58 ou Fibromètre® > 0,78.
 
 En l'absence de ces facteurs de risque et de toute comorbidité hépatique (alcool, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, co-infection VHB, hypertension portale), le patient ne nécessite pas de surveillance particulière. (*AFEF 2020*)

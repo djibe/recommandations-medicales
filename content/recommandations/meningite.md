@@ -18,7 +18,6 @@ sctid = "95883001"
 icd10 = "G00.9"
 image = true
 imageSrc = "Purpura fulminans à méningocoque du nourrisson. Photos de << Baby Charlotte >> qui a survécu et servi de modèle à la vaccination anti-méningococcique. babycharlotte.co.nz"
-todo = "vaccins, summary"
 +++
 
 {{%article-summary%}}
@@ -28,8 +27,8 @@ todo = "vaccins, summary"
 - Évaluation rapide des paramètres vitaux, recherche d'un purpura chez le patient déshabillé
 - Appel immédiat du SAMU et antibiothérapie IM par ceftriaxone 1g si purpura fulminans, port du masque
 - Transport immédiat si délai d'intervention du SAMU supérieur à 20 minutes (prévenir les *Urgences*)
-- Antibioprophylaxie des sujets contacts  
-  Vaccination uniquement en cas de méningocoque (sauf sérogroupe B) et déclaration obligatoire.
+- Prise en charge des sujets contacts par antibioprophylaxie  
+  Vaccination uniquement en cas de méningocoque (sauf sérogroupe B) avec déclaration obligatoire.
 - Suivi après méningite bactérienne: suivi neurologique, auditif et du développement chez l'enfant
 - Prévention de la méningite bactérienne: vaccinations méningocoque B et C, pneumocoque et *Haemophilus*
 

@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-24T22:57:41+01:00"
 publishdate = "2022-01-25"
-lastmod = "2023-02-16"
+lastmod = "2023-10-31"
 specialites = ["therapeutique"]
 annees = "2008"
 sources = ["HAS"]
@@ -285,8 +285,11 @@ Patient avec valve mécanique, anticoagulé par AVK ou enfant traité par AVK ay
 {{% /collapse %}}
 {{%sources%}}
 
-Outils: [ThromboClic](https://www.thromboclic.fr/) et [AVKClic](https://www.mgform.org/sites-utiles/avkclic)
+{{< card-link-external title="ThromboClic" url="https://www.thromboclic.fr" subtitle="Aide au bon usage des anticoagulants et antiagrégants plaquettaires" >}}
 
+{{< card-link-external title="AVKClic" url="https://www.mgform.org/sites-utiles/avkclic" subtitle="Aide à l'adaptation des posologies d'AVK" >}}
+
+- [HAS. Surveillance biologique des anticoagulants (héparines et antivitamines K). Flash sécurité patient. 12/10/2023.](https://www.has-sante.fr/jcms/p_3466363/fr/flash-securite-patient-surveillance-biologique-des-anticoagulants-heparines-et-antivitamines-k-une-prise-de-sang-pour-eviter-une-perte-de-sang)
 - [ANSM. Les Questions/réponses des Anti-vitamine K (AVK). 17/03/2021.](https://ansm.sante.fr/dossiers-thematiques/les-questions-reponses-des-anti-vitamine-k-avk)
 - [Afssaps. Les médicamentents antivitamine K (AVK) : Conseils pratiques pour le personnel soignant. Avril 2009.](http://www.omedit-centre.fr/NEVEREVENTAVK_web_gen_web/res/avkConseilsPersonnelSoignant__1_.pdf)
 - [HAS. Prise en charge des surdosages, des situations à risque hémorragique et des accidents hémorragiques chez les patients traités par antivitamines K en ville et en milieu hospitalier. Avril 2008.](https://www.has-sante.fr/jcms/c_682188/fr/prise-en-charge-des-surdosages-des-situations-a-risque-hemorragique-et-des-accidents-hemorragiques-chez-les-patients-traites-par-antivitamines-k-en-ville-et-en-milieu-hospitalier)

@@ -7,7 +7,7 @@ synonyms = ["Poussée aiguë de lombalgie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-26T09:21:22+02:00"
 publishdate = "2021-10-26"
-lastmod = "2023-06-27"
+lastmod = "2023-10-31"
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["HAS"]
@@ -184,7 +184,7 @@ Indications à l'IRM lombaire: lombalgie chronique, geste invasif prévu (infilt
 > L'exercice physique est le traitement principal permettant une évolution favorable de la lombalgie (*HAS 2019*)
 {.alert .alert-info}
 
-La prise en charge est centrée sur le patient (bio-psycho-sociale) avec décisions partagées.
+La prise en charge de la lombalgie est centrée sur le patient (bio-psycho-sociale) avec décisions partagées.
 
 Recommandations pour le traitement et la prise en charge de la << poussée aiguë de lombalgie >>:
 
@@ -192,8 +192,10 @@ Recommandations pour le traitement et la prise en charge de la << poussée aigu�
   - Expliquer les termes et le pronostic favorable
   - [Informations Ameli sur la lombalgie](https://www.ameli.fr/assure/sante/themes/lombalgie-aigue).
 - Maintien d'une activité normale
-- Antalgique palier 1 voire 2
-- AINS
+- Antalgiques pour la lombalgie aiguë
+  - Le paracétamol ne fait pas mieux que le placebo (*Cochrane*)
+  - Les opioïdes ne font pas mieux que le placebo (*CNGE*)
+  - AINS ont une faible efficacité (*Cochrane*)
 - Application de chaleur (*Prescrire*)
 - Réévaluer sous 2-4 semaines
 - Exercice physique dès que possible
@@ -202,14 +204,13 @@ Recommandations pour le traitement et la prise en charge de la << poussée aigu�
   - Renforcement à distance: [Activ'Dos](https://play.google.com/store/apps/details?id=fr.cnamts.samd)
   - Ostéopathie possible si couplée au renforcement
 - Radiculalgie persistante et sévère: infiltration épidurale
-- Ceintures lombaires rigides  
-  Peuvent être envisagées pour aider à la reprise d'activités.
+- Ceintures lombaires rigides: peuvent être envisagées pour aider à la reprise d'activités.
 - Facteurs de chronicisation: psychologue
 - Envisageables: relaxation, méditation pleine conscience ou hypnose
 - Arrêt de travail  
   Indication: douleurs intenses le justifiant, courte durée 5 jours puis réévaluation ([Ameli 2017 (PDF)](https://www.ameli.fr/sites/default/files/Documents/347659/document/2017398_fiche_repere_at_lombalgie_v2_bd_0.pdf))
 
-Ne pas utiliser: néfopam (Acupan®), corticoïdes, myorelaxants
+Ne pas utiliser pour une lombalgie: néfopam (Acupan®), corticoïdes, myorelaxants
 {.alert .alert-warning}
 
 L'acupuncture n'a pas d'efficacité sur l'évolution de la lombalgie.
@@ -229,14 +230,12 @@ Ne pas utiliser: ultrasons, tractions lombaires.
 
 {{< youtube id="YpejbojhWrY" title="La minute RECO HAS | Lombalgie commune (Dr Florent Bailly)" >}}
 
+- [CNGE. Les antalgiques opioïdes dans la lombalgie aiguë : ce n'est pas automatique ! 19/10/2023.](https://www.cnge.fr/conseil_scientifique/productions_du_conseil_scientifique/les_antalgiques_opioides_dans_la_lombalgie_aigue_c/)
+- [Cashin AG et al. Pharmacological treatments for low back pain in adults: an overview of Cochrane Reviews. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013815.pub2/full/fr#pico)
 - Prescrire Redaction. Lombalgie aiguë chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - Prescrire Redaction. Signes de fracture vertébrale en cas de lombalgie récente. Rev Prescrire. Juin 2020.
 - [Collège Français des Enseignants en Rhumatologie (COFER). Rachialgies. Item 94 UE 5. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-3-0.php)
 - [HAS. Prise en charge du patient présentant une lombalgie commune. Mars 2019.](https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient-presentant-une-lombalgie-commune)
-
-### Bibliographie en attente
-
-[Cashin AG et al. Pharmacological treatments for low back pain in adults: an overview of Cochrane Reviews. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013815.pub2/full/fr#pico)
 
 {{%/sources%}}
 {{% modal title="Questionnaire DN4" id="modal-score-dn4"%}}

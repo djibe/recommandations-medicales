@@ -447,6 +447,7 @@ a[data-toggle="modal"]:not(.no-icon)::after {
 .site-title {
   h1 {
     letter-spacing: 1px;
+
   }
   .h1 {
     font-size: calc(clamp(1.875rem, 1.284rem + 2.95vw, 3.5rem));
@@ -462,6 +463,13 @@ a[data-toggle="modal"]:not(.no-icon)::after {
   }
   h3 {
     font-size: calc(clamp(1.25rem, 1.159rem + 0.45vw, 1.5rem)); // Wrap in calc to prevent Sass crash
+  }
+
+  span.text-primary {
+    background-color: var(--bg-hex);
+    border-radius: 42px;
+    padding: .25rem 1rem;
+    color: var(--primary-dark)!important;
   }
 }
 
