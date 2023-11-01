@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-19T13:21:51+02:00"
 publishdate = "2023-07-27"
-lastmod = "2023-10-30"
+lastmod = "2023-11-01"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["HAS", "FFN"]
@@ -28,8 +28,8 @@ flowchart = true
 - << Demander l'accord de la personne pour aborder le poids >> (*HAS 2023*)
 - Un niveau adapté de prise en charge des personnes en obésité est requis (voir [Niveau adapté](#niveau-adapté-de-prise-en-charge-et-chirurgie-bariatrique)):
   - Centre spécialisé de l'obésité (CSO, [annuaire](https://sante.gouv.fr/IMG/pdf/annuaire_national_cso_fevrier_2023.pdf)) si: IMC ≥ 50, insuffisance d'organe, grabataire, cause génétique, échec de chirurgie bariatrique  
-  ou IMC 35-50 avec aggravation d'une maladie chronique, périmètre de marche 100-200 m, hyperphagie boulimique, psychiatrique sévère, obésité secondaire, échec de niveau 2
-  - Nutritionniste si IMC 35-50 kg/m² avec: pathologie cardiovasculaire déséquilibrée (HTA résistante, diabète déséquilibré, NASH, SAHOS sévère), aggravation d'une maladie chronique sans risque majeur, impact marqué sur la qualité de vie, boulimie, échec du niveau 1 ...
+  ou IMC 35-49 avec aggravation d'une maladie chronique, périmètre de marche 100-200 m, hyperphagie boulimique, psychiatrique sévère, obésité secondaire, échec de niveau 2
+  - Nutritionniste si IMC 35-49 kg/m² avec: pathologie cardiovasculaire déséquilibrée (HTA résistante, diabète déséquilibré, NASH, SAHOS sévère), aggravation d'une maladie chronique sans risque majeur, impact marqué sur la qualité de vie, boulimie, échec du niveau 1 ...
 - Indications à la chirurgie bariatrique: IMC ≥ 40 ou ≥ 35 avec comorbidité pouvant s'améliorer (HTA, SAHOS, DT2, NASH) avec échec des prises en charges antérieures (voir [Niveau adapté](#niveau-adapté-de-prise-en-charge-et-chirurgie-bariatrique))
 - Dépister les complications de l'obésité (voir *Dépistage*)
 - Les mesures de prise en charge de l'obésité de l'adulte sont: activité physique 150 à 300 minutes d'intensité modérée par semaine, perte de poids de 5 à 15%, évaluation nutritionnelle et sensations alimentaires, éducation thérapeutique, soutien psychologique, association de patients CNAO
@@ -283,7 +283,7 @@ Prise en charge par un centre spécialisé de l'obésité (CSO, [annuaire PDF](h
 - Échec de chirurgie bariatrique ou risque opératoire élevé
 - Indication de chirurgie bariatrique chez le mineur ou +65 ans
 
-IMC de 35 à 50 et au moins un parmi:
+IMC de 35 à 49 kg/m² et au moins un parmi:
 
 - Aggravation d'une maladie chronique ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), maladie de système ...)
 - Périmètre de marche de 100 à 500 mètres
@@ -295,7 +295,7 @@ IMC de 35 à 50 et au moins un parmi:
 
 ### Indications à une prise en charge de niveau 2 de l'obésité
 
-Prise en charge par un nutritionniste pour un IMC de 35 à 50 kg/m² et au moins un parmi:
+Prise en charge par un nutritionniste pour un IMC de 35 à 49 kg/m² et au moins un parmi:
 
 - Pathologie cardiovasculaire déséquilibrée  
   [HTA résistante]({{< relref "hypertension-arterielle.md" >}}), diabète déséquilibré, [NASH]({{< relref "steatose-hepatique-et-nash.md" >}}), [SAHOS sévère]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}).
@@ -424,8 +424,8 @@ Exemples de conseils alimentaires à proposer en situation d'obésité:
 
 {{< mermaid title="Prise en charge de l'obésité de l'adulte. Drs Alaedine Benani et JB Fron d'après HAS 2023 et 2022">}}
 graph TB
-  obésité["IMC ≥ 30 kg/m²<br>= Obésité"] --> accord("Accord du patient<br>pour en parler") --> pec(Prise en charge) --> niveau3("<b>Niveau 3 ?</b><br>—<br>- IMC ≥ 50<br>- Insuffisance organique<br>- Génétique<br>- Échec chir bariatrique<br>- IMC 35-50 avec: comorbidité<br>sévère, périmètre 100 m,<br>hyperphagie boulimique,<br>obésité secondaire,<br>échec niveau 2") -- Oui --> centre("Centre Spécialisé<br>de l'Obésité (CSO)")
-      niveau3 -- Non --> niveau2("<b>Niveau 2 ?</b><br>—<br>IMC 35-50 kg/m² avec:<br>- MCV déséquilibrée<br>- Comorbidité aggravée<br>- Impact QdV<br>- Boulimie<br>- Échec niveau 1") -- Oui --> nutritionniste("Nutritionniste")
+  obésité["IMC ≥ 30 kg/m²<br>= Obésité"] --> accord("Accord du patient<br>pour en parler") --> pec(Prise en charge) --> niveau3("<b>Niveau 3 ?</b><br>—<br>- IMC ≥ 50<br>- Insuffisance organique<br>- Génétique<br>- Échec chir bariatrique<br>- IMC 35-49 avec: comorbidité<br>sévère, périmètre 100 m,<br>hyperphagie boulimique,<br>obésité secondaire,<br>échec niveau 2") -- Oui --> centre("Centre Spécialisé<br>de l'Obésité (CSO)")
+      niveau3 -- Non --> niveau2("<b>Niveau 2 ?</b><br>—<br>IMC 35-49 kg/m² avec:<br>- MCV déséquilibrée<br>- Comorbidité aggravée<br>- Impact QdV<br>- Boulimie<br>- Échec niveau 1") -- Oui --> nutritionniste("Nutritionniste")
         niveau2 -- Non --> niveau1("<b>Suivi ambulatoire</b><br>—<br>- Mesures hygiéno-diététiques:<br>activité physique,<br>contrôle du poids,<br>soins dentaires<br>- Éval diététique<br>- Éducation thérap.<br>- Soutien psychologique")
     accord --> complications("<b>Dépistage des complications</b><br>—<br>- Vaccinations<br>- Diabète, dyslipidémie<br>- HTA, SAHOS<br>- Ophtalmologue<br>- Cancers<br>- Podologique")
   style obésité stroke:#4150f5, stroke-width:1px

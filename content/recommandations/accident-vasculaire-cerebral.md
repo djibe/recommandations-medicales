@@ -8,7 +8,7 @@ synonyms = ["Accident ischémique transitoire (AIT)", "infarctus cérébral", "h
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-25T14:04:00+02:00"
 publishdate = "2021-01-25"
-lastmod = "2023-8-25"
+lastmod = "2023-11-01"
 specialites = ["neurologie"]
 annees = "2022"
 sources = ["ESO", "ESH", "ESC", "HAS", "AHA"]
@@ -206,7 +206,7 @@ La prise en charge est identique après un accident ischémique transitoire (AIT
   - Cible non connue pour l'AVC hémorragique
   - Molécules: thiazidiques, {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}
   - Automesure tensionnelle
-- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,7 g/L (*ESO 2022* et *ESC 2021*)
+- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,7 g/L (*ESO 2022*, *AHA 2021* voire {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} pour l'*ESC 2021*)
 - Mesures hygiéno-diététiques associées
   - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
   - [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}})
@@ -218,10 +218,9 @@ La prise en charge est identique après un accident ischémique transitoire (AIT
   - AVC < 6 mois: {{< modal-btn modal-hba1c >}}HbA1c cible 8%{{< /modal-btn >}}
   - Après 6 mois: {{< modal-btn modal-hba1c >}}cible réadaptée selon le profil{{< /modal-btn >}}
 - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}} {{%class%}}(40%){{%/class%}}
-- [Déclarer l'ALD]({{< relref "affection-longue-duree.md" >}})  
-  Critère: séquelles neurologiques nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
-- Éducation du patient  
-  Mode de vie, réagir, traitements.
+- [Déclarer l'ALD n°1]({{< relref "affection-longue-duree.md" >}})  
+  Critères: séquelles neurologiques nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
+- Éducation du patient: mode de vie, réagir, traitements
 
 {{% /collapse %}}
 {{%collapse "Post AVC et comorbidités spécifiques" %}}
