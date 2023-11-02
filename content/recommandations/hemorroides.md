@@ -115,7 +115,7 @@ Traitements anti-hémorroïdaires pendant la [grossesse](http://le-crat.fr/spip.
 
 L'objectif de la prise en charge médicale des hémorroïdes est de soulager les symptômes:
 
-- Antalgie: paracétamol, AINS 5-10 jours  
+- Antalgie: paracétamol, anti-inflammatoires AINS 5-10 jours  
   Forme très œdémateuse: corticoïdes.
 - Bains de siège
 - Glaçage (ex petits pois congelés)

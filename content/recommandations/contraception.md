@@ -31,7 +31,7 @@ todo = "modal DIU, nb grossesses efficacité, ONU contraceptions pays, critères
 - Démarrer une contraception hormonale: débuter le *1er jour des règles*  
   ou démarrage à tout moment du cycle: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1<sup>re</sup> plaquette.
 - Informer sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
-- Pas d'interaction DIU et AINS
+- Pas d'interaction DIU et anti-inflammatoires AINS
 
 Chapitres lié: [acné]({{< relref "acne.md" >}}), [IVG]({{< relref "interruption-volontaire-grossesse.md" >}}), [ménopause]({{< relref "menopause.md" >}})
 

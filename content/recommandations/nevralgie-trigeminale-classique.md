@@ -221,7 +221,7 @@ Avec **séquences spécifiques**.
 
 Prise en charge par un traitement médicamenteux de fond de première intention: **carbamazépine ou oxcarbazépine**.
 
-Les antalgiques et AINS ne sont pas efficaces sur la névralgie du trijumeau
+Les antalgiques et anti-inflammatoires AINS ne sont pas efficaces sur la névralgie du trijumeau
 {.alert .alert-warning}
 
 Hospitaliser en cas de poussée douloureuse non contrôlée.

@@ -54,7 +54,7 @@ Traitement de première intention pour les douleurs faibles (EVA/EN 1-3) à mod�
 
 Formes: sirop, capsule, cp.
 
-Associer paracétamol et AINS si besoin (et non pas alterner), 1 heure après le paracétamol si insuffisamment soulagé.
+Associer paracétamol et anti-inflammatoires non stéroïdiens si besoin (et non pas alterner), 1 heure après le paracétamol si insuffisamment soulagé.
 
 > L'OMS 2012 insiste sur le fait qu'il s'agit du seul AINS suffisamment étudié chez l'enfant.
 

@@ -137,7 +137,7 @@ Reprendre l'AVK selon risque de récidive et indication initiale de l' AVK.
 
 ### Gestes invasifs déconseillés
 
-- Association de traitement: AINS, antibiotique, interactions du CYP450
+- Association de traitement: anti-inflammatoires AINS, antibiotique, interactions du CYP450
 - Injections intra-musculaires
 
 {{% /collapse %}}

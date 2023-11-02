@@ -256,7 +256,7 @@ Résumé des recommandations pour la prise en charge de la spondylarthrite:
   {{%class%}}L'obésité est facteur de résistance aux anti-TNF.{{%/class%}}
 - Comorbidités  
   Cardio-vasculaires, [ostéoporose]({{< relref "osteoporose.md" >}}), {{< modal-btn modal-had >}}dépression, anxiété (échelle HAD){{< /modal-btn >}}.
-- AINS  
+- Anti-inflammatoires AINS  
   - AINS à libération prolongée en 1<sup>re</sup> intention pour couvrir le dérouillage
   - Souvent rechute douloureuse en < 48h après leur arrêt
   - Essai ≥ 2 molécules différentes pendant ≥ 15 jours chacune avant de conclure à l'inefficacité de chacune (aucun effet sur l'inflammation biologique). Échec nécessite d'envisager un biomédicament.  

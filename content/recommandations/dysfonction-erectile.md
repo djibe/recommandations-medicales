@@ -329,7 +329,7 @@ Autres précautions:
 - Polymédication: contrôler les interactions
 - Insuffisance rénale: utiliser le dosage minimal
 - Déformation pénienne (Lapeyronie, sclérose des corps caverneux): avis urologique
-- Pathologie hématologique (drépanocytose, myélome, leucémie): avis hématologique
+- Pathologie hématologique (drépanocytose, myélome, [leucémie]({{< relref "leucemie-aigue-adulte.md" >}})): avis hématologique
 - Paraphilie, psychose instable: avis psychiatrique
 
 ### Effets indésirables des IPDE5

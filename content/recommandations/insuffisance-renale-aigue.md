@@ -168,7 +168,7 @@ Risque d'insuffisance rénale aiguë post-contraste selon la voie d'injection:
   - Voie artérielle 1<sup>er</sup> passage
   - Insuffisance rénale aiguë
   - Dans tous les cas contre-indiquée sous 30 mL/min
-- AINS: contre-indiqués en MRC stade IV/V, suspendus selon le rapport bénéfice/risque
+- Anti-inflammatoires AINS: contre-indiqués en MRC stade IV/V, suspendus selon le rapport bénéfice/risque
 - IEC/ARA2: pas d'interruption sauf hypovolémie
 - Diurétiques: selon surcharge hydrosodée et risque d'IRA-PC
 

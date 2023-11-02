@@ -328,7 +328,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
   - [Surveillance du poids x 1-2/semaine](https://www.heartfailurematters.org/wp-content/uploads/2021/02/Surveiller-vos-signes-vitaux.pdf), 3-4/semaine si {{< modal-btn score-nyha >}}NYHA 3-4{{< /modal-btn >}}
 - [ALD n°5]({{< relref "affection-longue-duree.md" >}})
 
-Les **AINS**, anti-COX2, le sotalol, le diltiazem, le vérapamil et la flécaïne sont contre-indiqués
+Les anti-inflammatoires **AINS**, anti-COX2, le sotalol, le diltiazem, le vérapamil et la flécaïne sont contre-indiqués
 {.alert .alert-warning}
 
 ### Autres traitements de l'insuffisance cardiaque à fraction d'éjection diminuée (ICFEd)

@@ -142,7 +142,7 @@ Autres diagnostics à étayer devant des douleurs des genoux.
     Douleur réveillée en palpation de face interne du tibia sous l'interligne fémoro-tibial interne. Déclenchée par flexion contrariée.
 - Hygroma du genou
   - Bursite pré-rotulienne, profession à risque. Tuméfaction molle, peu douloureuse, antérieure.
-  - Traitement par AINS topiques, ponctions évacuatrices avec infiltration de corticoïdes.
+  - Traitement par anti-inflammatoires AINS topiques, ponctions évacuatrices avec infiltration de corticoïdes.
 - Radiculalgie
 - Gonarthrose secondaire
   - Arthrite chronique  

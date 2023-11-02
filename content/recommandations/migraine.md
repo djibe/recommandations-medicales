@@ -312,7 +312,7 @@ Consigner les prises dans l'*agenda migraineux*. {{< modal-btn modal-mtoq >}}Rec
 
 {{%/info%}}
 
-Prescrire AINS et triptan selon les traitements déjà essayés et préférences du patient:
+Prescrire anti-inflammatoires AINS et triptan selon les traitements déjà essayés et préférences du patient:
 
 - Crise légère: AINS, triptan si persistance à H1
 - Crise modérée à sévère: triptan et AINS si persistance à H1
@@ -327,7 +327,7 @@ Prescrire AINS et triptan selon les traitements déjà essayés et préférences
 
 Max 14 j/mois et 8 j/mois si associés (caféine ou métoclopramide).
 
-- AINS  
+- Anti-inflammatoires non stéroïdiens (AINS)  
   - Ibuprofène, kétoprofène, naproxène ou diclofénac, flurbiprofène
   - Essai suppositoire si mal toléré (kétoprofène, naproxène, diclofénac)
 - Nausées et vomissements  

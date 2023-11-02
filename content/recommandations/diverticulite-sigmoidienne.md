@@ -54,7 +54,7 @@ Le traitement de la **diverticulite compliquée** (12% des cas) est urgent et sp
 - Sténose colique
 - Hémorragie diverticulaire
 
-**Facteurs de risque** de complication: aspirine, AINS, [alcool]({{< relref "sevrage-alcool.md" >}}).
+**Facteurs de risque** de complication: aspirine, anti-inflammatoires AINS, [alcool]({{< relref "sevrage-alcool.md" >}}).
 
 ### Abréviations
 

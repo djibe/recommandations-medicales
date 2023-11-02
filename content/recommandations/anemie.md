@@ -47,18 +47,7 @@ Ferritinémie
 Elle est augmentée en cas d'inflammation (carence martiale peu probable si ferritine > 150 ng/mL dans ce cas).
 : Recherche de saignement occulte par endoscopies digestives lorsqu'anémie avec ferritinémie < 45 ng/mL (spécificité 0,92), surtout en cas d'inflammation chronique.
 
-{{< table title="Seuil du diagnostic de l'anémie au niveau de la mer. Dr JB Fron d'après OMS 2011" class="table-sm" >}}
-| Population (années) | Seuil (g/dL) |
-|--------------------:|-------------:|
-|        6 mois-4 ans |           11 |
-|                5-11 |           11 |
-|               12-14 |           12 |
-|          Femme ≥ 15 |           12 |
-|   Grossesse 2 et 3T |           11 |
-|          Homme ≥ 15 |           13 |
-{{< /table >}}
-
-> T = trimestre. Correction de -0,2 g/dL à 1000 mètres et -0,5 à 1500 mètres au dessus du niveau de la mer
+{{< clinique/anemie-definition >}}
 
 {{< table title="Ajustement du taux d'hémoglobine pour les fumeurs. Dr JB Fron d'après OMS 2011" class="table-sm" >}}
 | Tabagisme   | Ajustement du taux d'Hb (g/dL) |

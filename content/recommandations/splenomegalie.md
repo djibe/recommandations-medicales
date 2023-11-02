@@ -71,7 +71,7 @@ La splénomégalie n'est qu'un symptôme:
 - Parasitaire  
   [Paludisme aigu]({{< relref "paludisme.md" >}}), leishmaniose viscérale.
 - Tumorale  
-  Leucémie aiguë lymphoblastique ou [leucémie lymphoïde chronique]({{< relref "leucemie-lymphoide-chronique.md" >}}) (LLC).
+  [Leucémie aiguë lymphoblastique]({{< relref "leucemie-aigue-adulte.md" >}}) ou [leucémie lymphoïde chronique]({{< relref "leucemie-lymphoide-chronique.md" >}}) (LLC).
 - Auto-immun  
   Lupus érythémateux aigu disséminé, sarcoïdose.
 

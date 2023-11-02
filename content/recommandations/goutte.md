@@ -180,7 +180,7 @@ Recommandations pour la prise en charge de la crise de goutte:
 - Hydratation  
   Forcer la diurèse à 2-3 L/jour.
 - Régime hypocalorique (< 2000 kcal/j) et hypo-uricémiant
-- Colchicine, AINS et corticoïdes en première ligne
+- Colchicine, anti-inflammatoiresAINS et corticoïdes en première ligne
   - À prendre dès le début des symptômes, uniquement le temps de la poussée
   - {{%info-span%}}ex. Naproxène 750 mg puis 250 mg x 3/j (max 7 jours){{%/info-span%}} (sauf maladie cardiovasculaire)
   - Pour colchicine et corticoïdes, voir plus bas

@@ -124,7 +124,7 @@ Adresser au rhumatologue en cas de: rhumatisme de type chondrocalcinosique avant
 Le traitement est symptomatique identique à celui de [la crise de goutte]({{< relref "goutte.md" >}}):
 
 - Repos, glaçage
-- AINS ou colchicine 0,5 mg x 3-4/j
+- Anti-inflammatoires AINS ou colchicine 0,5 mg x 3-4/j
 - Voire corticothérapie orale en cas de comorbidités,
 - En cas de symptômes sévères: ponction évacuatrice ± infiltration de corticoïdes
 

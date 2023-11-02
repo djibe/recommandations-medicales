@@ -189,7 +189,7 @@ Les personnes atteintes de mutations BRCA1 ou 2 ou du syndrome de Lynch ont un s
 
 ### Principales localisations à risque de second cancer
 
-- Leucémie aiguë myéloïde (agents alkylants surtout)
+- [Leucémie aiguë myéloblastique]({{< relref "leucemie-aigue-adulte.md" >}}) (agents alkylants surtout)
 - [Cancer colorectal]({{< relref "cancer-colorectal.md" >}}) (si cancer de l'ovaire avant 50 ans ou syndrome de Lynch)
 - [Cancer du sein]({{< relref "cancer-sein.md" >}}) (si cancer de l'ovaire avant 50 ans ou mutation BRCA)
 

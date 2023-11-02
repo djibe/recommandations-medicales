@@ -195,7 +195,7 @@ Recommandations pour le traitement et la prise en charge de la << poussée aigu�
 - Antalgiques pour la lombalgie aiguë
   - Le paracétamol ne fait pas mieux que le placebo (*Cochrane*)
   - Les opioïdes ne font pas mieux que le placebo (*CNGE*)
-  - AINS ont une faible efficacité (*Cochrane*)
+  - Les anti-inflammatoires AINS ont une faible efficacité (*Cochrane*)
 - Application de chaleur (*Prescrire*)
 - Réévaluer sous 2-4 semaines
 - Exercice physique dès que possible

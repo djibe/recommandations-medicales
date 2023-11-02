@@ -180,12 +180,12 @@ Mesures générales de prise en charge de la polyarthrite:
   - Activité physique régulière
   - Correction d'un surpoids
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-  - Échodoppler des TSA
+  - Échodoppler des troncs supra-aortiques (TSA)
 - Dépistage annuel de la MRC: créatininémie et rapport albuminurie/créatininurie (*HAS 2023*)
 - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md">}})  
   - dTP tous les 10 ans
   - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque tous les 5 ans{{< /modal-btn >}}
-- Mise à jour des dépistages des cancers
+- Mise à jour des **[dépistages des cancers](/tags/depistage/)**
 - Association de patients: [AFPric](https://www.polyarthrite.org/), [ANDAR](http://www.polyarthrite-andar.com/)
 - Proposer un soutien psychologique
 - Accompagnement socioprofessionnel
@@ -194,7 +194,7 @@ Mesures générales de prise en charge de la polyarthrite:
 - Pédicurie-podologie
 - Diététique
 - Voire chirurgie
-- [ALD n°22]({{< relref "affection-longue-duree.md" >}})  
+- Déclarer l'[ALD n°22]({{< relref "affection-longue-duree.md" >}})  
   {{%class%}}Critères: Polyarthrite inflammatoire (ou affections apparentées) d'évolution chronique justifiant un traitement de fond ou avec handicap lourd.{{%/class%}}
 
 **NB.** Hormis le {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}} voire une supplémentation en oméga-3 ≥ 2 g/j, aucun régime ou supplémentation n'a fait preuve de son efficacité.

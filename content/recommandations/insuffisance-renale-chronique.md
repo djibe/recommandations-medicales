@@ -167,7 +167,7 @@ Le suivi par le néphrologue est recommandé en cas de doute sur la nature de la
   - Professionnelle  
     Plomb, mercure, cadmium, silice, solvants organiques.
   - Médicamenteuse  
-    AINS, aminoside, produit de contraste iodé, chimiothérapie.
+    Anti-inflammatoires AINS, aminoside, produit de contraste iodé, chimiothérapie.
   - Alimentaire  
     Phytothérapie, herbes chinoises.
 - Résultats antérieurs de créatininémie et analyses urinaires

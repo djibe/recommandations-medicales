@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2020-06-02T11:57:29+02:00"
 publishdate = "2020-06-02"
-lastmod = "2023-09-15"
+lastmod = "2023-11-02"
 specialites = ["pediatrie"]
 annees = "2023"
 sources = ["MinSanté", "Service-Public"]
@@ -46,29 +46,29 @@ Examens médicaux de la naissance à 16 ans avec la cotation associée, facturé
 {{< table title="Examens de suivi du nourrisson remboursés à 100% selon l'Arrêté du 26/02/2019 et cotation des consultations de l'enfant" >}}
 | N°    | Âge           | Cotation MG |
 |------:|:-------------:|:-----------:|
-| 1     | **Dans les 8 premiers jours** | COE (46€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |
-| 2     | 13 ou 14 jours | COD (30€) |
-| 3     | 1 mois | COD (30€) |
-| 4     | 2 mois | COD (30€) |
-| 5     | 3 mois | COD (30€) |
-| 6     | 4 mois | COD (30€) |
-| 7     | 5 mois | COD (30€) |
-| 8     | 6 mois | COD (30€) |
-| 9     | **9 mois** | COE (46€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12597.do)) |
-| 10    | 12 mois | COD (30€) |
-| 11    | 13 mois | COD (30€) |
-| 12    | 16 à 18 mois | COD (30€) |
-| 13    | **24 ou 25 mois** | COE (46€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12598.do)) |
-| 14    | 3 ans | COD (30€) |
-| 15    | 4 ans | COD (30€) |
-| 16    | 5 ans | COD (30€) |
-| 17    | 6 ans | COB (25€) |
-| 18    | 8-9 ans | COB (25€) |
-| 19    | 11-13 ans | COB (25€) |
-| 20    | 15-16 ans | COB (25€) |
+| 1     | **Dans les 8 premiers jours** | COE (47,5€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |
+| 2     | 13 ou 14 jours | COD (31,5€) |
+| 3     | 1 mois | COD (31,5€) |
+| 4     | 2 mois | COD (31,5€) |
+| 5     | 3 mois | COD (31,5€) |
+| 6     | 4 mois | COD (31,5€) |
+| 7     | 5 mois | COD (31,5€) |
+| 8     | 6 mois | COD (31,5€) |
+| 9     | **9 mois** | COE (47,5€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12597.do)) |
+| 10    | 12 mois | COD (31,5€) |
+| 11    | 13 mois | COD (31,5€) |
+| 12    | 16 à 18 mois | COD (31,5€) |
+| 13    | **24 ou 25 mois** | COE (47,5€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12598.do)) |
+| 14    | 3 ans | COD (31,5€) |
+| 15    | 4 ans | COD (31,5€) |
+| 16    | 5 ans | COD (31,5€) |
+| 17    | 6 ans | COB (26,5€) |
+| 18    | 8-9 ans | COB (26,5€) |
+| 19    | 11-13 ans | COB (26,5€) |
+| 20    | 15-16 ans | COB (26,5€) |
 {{< /table >}}
 
-> [Service-public. Visites médicales de l'enfant : examens obligatoires. 21/05/2021](https://www.service-public.fr/particuliers/vosdroits/F967) et [Arrêté du 26/02/2019](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038175215/)
+> [Service-public. Visites médicales de l'enfant : examens obligatoires. 01/09/2023.](https://www.service-public.fr/particuliers/vosdroits/F967) et [Arrêté du 26/02/2019](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038175215/)
 
 Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de suivi:
 
@@ -79,7 +79,7 @@ Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de s
 5. Vaccinations
 
 {{% /collapse %}}
-{{%collapse "Calendrier vaccinal de l'enfant" %}}
+{{%collapse "Calendrier vaccinal de l'enfant" "show" %}}
 
 Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{< relref "vaccination.md" >}})
 {.alert .alert-info}

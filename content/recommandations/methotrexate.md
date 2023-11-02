@@ -27,7 +27,7 @@ todo = "img, quantiféron"
   - Mentionner l'indication, le dosage et la posologie en mg
   - Le jour de la prise de l'acide folique
 - Associer l'acide folique 2 x 5 mg 48 heures après le méthotrexate
-- Ne pas associer le méthotrexate avec: [AINS](/tags/ains/), Bactrim, [vaccins vivants]({{< relref "vaccination.md" >}}) ... ([vérifier les interactions](https://www.drugs.com/interaction/list/?drug_list=1590-0))
+- Ne pas associer le méthotrexate avec: anti-inflammatoires [AINS](/tags/ains/), Bactrim, [vaccins vivants]({{< relref "vaccination.md" >}}) ... ([vérifier les interactions](https://www.drugs.com/interaction/list/?drug_list=1590-0))
 - [Carte du patient sous méthotrexate (PDF)](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-carte-patient-version-1-2021-03.pdf)
 
 {{%/article-summary%}}

@@ -169,7 +169,8 @@ Chez le sujet vivant en établissement, la vaccination réduit la survenue de pa
 Prise en charge symptomatique de la grippe saisonnière non compliquée.  
 Isolement pour limiter la transmission.
 
-Contre-indications aux AINS et corticoïdes. Antitussifs et fluidifiants bronchiques inefficaces.
+Contre-indications aux anti-inflammatoires AINS et corticoïdes. Antitussifs et fluidifiants bronchiques inefficaces.
+{.alert .alert-info}
 
 ### Traitement antiviral de la grippe
 

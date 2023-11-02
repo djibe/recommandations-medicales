@@ -65,7 +65,7 @@ Dysménorrhée
 3. Hypersensibilité centrale  
   Accessible à l'hypnose, psychothérapie, sexologie.
 4. Les douleurs inflammatoires sont surtout liées aux règles  
-  Les AINS ne sont donc utilisés qu'en péri-menstruel.
+  Les anti-inflammatoires AINS ne sont donc utilisés qu'en péri-menstruel.
 {{%/info%}}
 
 ### Épidémiologie de l'endométriose

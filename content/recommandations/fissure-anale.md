@@ -103,7 +103,7 @@ Le traitement et la prise en charge des fissures anales est hygiéno-diététiqu
 - Eau + savon après chaque selle puis séchage doux
 - Lutte contre la constipation avec des laxatifs [ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67437758&typedoc=R) (lactulose ou macrogol chez l'enfant)  
   et apports hydriques et en fibres. Chez l'enfant, obtenir des selles << compote >> et éviter les suppositoires.
-- Antalgie ± AINS
+- Antalgie ± anti-inflammatoires AINS
 - ± Anesthésiques locaux avec lidocaïne ([Anesderm 5%®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63794766&typedoc=R), [Emla 5%®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63396602&typedoc=R), [Titanoréïne lidocaïne®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61165034&typedoc=R) ...) ou autre (Rectoquotane®, Sédorrhoïde crise hémorroïdaire®, Tronothane 1%®)  
   Avant et après la défécation chez le +12 ans.
 - Voire trinitrine topique [Rectogesic® NR](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65328888&typedoc=R) (céphalées)

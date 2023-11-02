@@ -198,7 +198,7 @@ Recommandations de prise en charge associées:
 - Anticoagulation préventive selon le risque  
   Déambulation, âge, autres.
 - Antipyrexie par paracétamol simple
-- Contre-indication aux AINS per os ou locaux  
+- Contre-indication aux anti-inflammatoires AINS per os ou locaux  
   Ils pourraient favoriser les fasciites nécrosantes sauf traitement au long cours.
 - Vérification des vaccinations
 - Surélévation de la jambe pour diminuer œdème et douleurs
