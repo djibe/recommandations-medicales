@@ -23,12 +23,12 @@ flowchart = true
 {{%article-summary%}}
 
 - L'hémangiome hépatique est une tumeur toujours bénigne du foie, le plus souvent asymptomatique
-- L'hémangiome doit être différencié d'un cancer hépatique ([CHC]({{< relref "carcinome-hepatocellulaire.md" >}}) surtout, hépatopathie ++), d'une métastase (contexte de cancer connu) ou d'une infection hépatique (voyage)
+- L'hémangiome doit être différencié d'un cancer hépatique ([carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}}) surtout, hépatopathie ++), d'une métastase (contexte de cancer connu) ou d'une infection hépatique (voyage)
 - Le bilan de l'hémangiome hépatique comporte un examen clinique rigoureux, un bilan hépatique avec sérologies des hépatites et une échographie abdominale
 - Un avis spécialisé du gastro-entérologue est important au diagnostic pour ne pas méconnaître une lésion autre
 - La prise en charge de l'hémangiome est dans la grande majorité des cas simple avec une abstention de traitement
 - En cas de douleurs abdominales non spécifiques attribuables au nodule, proposer le dossier à une RCP des tumeurs bénignes du foie
-- Pas de suivi pour un hémangiome hépatique hépatique typique inférieur à 3 cm
+- Pas de suivi pour un hémangiome hépatique typique inférieur à 3 cm
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

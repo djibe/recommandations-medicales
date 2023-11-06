@@ -242,10 +242,8 @@ Gonadotrophines:
 {{% /collapse %}}
 {{%sources%}}
 
-[ESHRE. International evidence-based guideline for the assessment and management of polycystic ovary syndrome - Summary. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
-
-- Collège gynéco
-- Collège endoc
+- [ESHRE. International evidence-based guideline for the assessment and management of polycystic ovary syndrome - Summary. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
+- Collège national des gynécologues et obstétriciens français (CNGOF). Item 42 Aménorrhée Item 35 Anomalies du cycle menstruel Métrorragies. Gynécologie obstétrique Réussir son DFASM. 2021.
 
 {{%/sources%}}
 {{% modal title="Questionnaire GAD-2" id="modal-gad2"%}}

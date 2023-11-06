@@ -131,7 +131,7 @@ Bilan systématique en cas de signes d'alerte ou de symptômes atypiques:
 - Radiographie thoracique face et profil
 - Scanner thoracique avec injection
 
-Puis adresser en semi-urgence en Centre de Lutte contre le Cancer (CLCC).
+Puis adresser en semi-urgence en [Centre de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
 
 Le scanner n'élimine pas formellement le diagnostic en cas de forte suspicion diagnostique. Intérêt d'avis pneumologique ou oncologique en semi-urgence
 {.alert .alert-warning}

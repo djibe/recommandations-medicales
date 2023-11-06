@@ -23,7 +23,7 @@ flowchart = true
 {{%article-summary%}}
 
 - L'incontinence urinaire est un diagnostic d'interrogatoire: << Vous arrive-t-il d'avoir des pertes ou des fuites d'urine ? >>. Il peut s'agir d'une incontinence urinaire d'effort, par impériosité ou mixte
-- Examen clinique rigoureux pour rechercher des facteurs favorisants l'incontinence urinaire, apprécier la sévérité et la qualité de vie. Le catalogue mictionnel sur 3 jours permet d'objectiver l'incontinence
+- Examen clinique rigoureux pour rechercher des facteurs favorisant l'incontinence urinaire, apprécier la sévérité et la qualité de vie. Le catalogue mictionnel sur 3 jours permet d'objectiver l'incontinence
 - Bilan de l'incontinence urinaire: bandelette urinaire voire ECBU, échographie vésicale sus-pubienne si suspicion de résidu post-mictionnel, femme âgée ou traitement anticholinergique envisagé
 - La prise en charge de l'incontinence urinaire de la femme associe des mesures hygiéno-diététiques (boissons, surpoids, activité physique) et la rééducation périnéale. En cas d'échec le traitement anticholinergique ou la chirurgie sont envisagés
 - Avis urologique en cas de suspicion d'uropathie ou d'échec du traitement de première intention

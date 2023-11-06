@@ -3,7 +3,7 @@ title = "Maladie de Verneuil"
 prefix = "la "
 noindex = true
 description = "Recommandations pour la prise en charge de la maladie de Verneuil ou Hidradénite suppurée. Suivi pluridisciplinaire, antibiothérapie de la poussée et de fond"
-synonyms = ["Hidradénite suppurée", "hidrosadénite"]
+synonyms = ["Hidradénite suppurée (HS)", "hidrosadénite"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-25T16:51:53+01:00"
 publishdate = "2022-01-28"
@@ -99,10 +99,11 @@ Les prélèvements bactériologiques sont d'interprétation délicate et réserv
   - Éviter les longs trajets en voiture par temps chaud
 - Correction d'un surpoids (facteur aggravant)
 - Substituer un traitement au lithium (facteur aggravant)
+- [CHU Henri Mondor: éducation thérapeutique pour l'hidradénite suppurée](https://www.sfdermato.org/page-29-centres-d-education-therapeutique) (ETP)
 - Association de patients: [Association Française pour la Recherche sur l'Hidrosadénite (AFRH)](http://www.afrh.fr/)
 - Soutien psychologique
 - Adaptation du poste avec le médecin du travail
-- [ALD 31]({{< relref "affection-longue-duree.md" >}})  
+- Déclarer comme [ALD 31]({{< relref "affection-longue-duree.md" >}})  
   Demande avec le compte rendu du dermatologue.
 - {{< references/compare >}}
 
@@ -189,9 +190,9 @@ Il est essentiel d'apprendre à reconnaître les signes avant-coureurs des pouss
 
 ### Bibliographie en attente
 
-- [Bertolotti A. et al; Centre de preuves en dermatologie. Prise en charge de l'hidradénite suppurée. 2019. (PDF)](https://document.sfdermato.org/reco/hidrad%C3%A9nite-suppur%C3%A9e/SFD_2020-11_texte-court_prise-en-charge-de-l-hidrad%C3%A9nite-suppur%C3%A9e.pdf)
+- [Bertolotti A et al; Centre de preuves en dermatologie. Prise en charge de l'hidradénite suppurée. 2019. (PDF)](https://document.sfdermato.org/reco/hidrad%C3%A9nite-suppur%C3%A9e/SFD_2020-11_texte-court_prise-en-charge-de-l-hidrad%C3%A9nite-suppur%C3%A9e.pdf)
 - [SFD. recommandations Hidradénite suppurée - Arbre décisionnel. Août 2019.](https://reco.sfdermato.org/fr/recommandations-hidrad%C3%A9nite-suppur%C3%A9e)
-- [Zouboulis C. et al. European S1 guideline for the treatment of hidradenitis suppurativa/acne inversa. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.12966)
+- [Zouboulis C et al. European S1 guideline for the treatment of hidradenitis suppurativa/acne inversa. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.12966)
 - Prescrire
 
 {{%/sources%}}

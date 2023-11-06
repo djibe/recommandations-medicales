@@ -314,6 +314,8 @@ Essayer successivement tous les antihistaminique anti-H1 si échec et adresser a
 
 #### Traitement d'urticaires chronique spécifiques
 
+[Centres d'éducation thérapeutique pour l'urticaire chronique](https://www.sfdermato.org/page-29-centres-d-education-therapeutique) (ETP)
+
 ##### Urticaire chronique physique  
 
 Anti-histaminique anti-H1 au long cours.

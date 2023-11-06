@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-17T20:24:38+01:00"
 publishdate = "2022-12-20"
-lastmod = "2023-10-17"
+lastmod = "2023-11-06"
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
 sources = ["INCa", "ACOG"]
@@ -15,15 +15,16 @@ anglais = ["Ovarian cancer"]
 sctid = "363443007"
 icd10 = "C56"
 image = true
-imageSrc = "Scanner réalisé pour des douleurs abdominales chez une femme de 55 ans. Masse hétérogène droite sans contours nets située entre l'utérus antéversé et le caecum. Cas de Ralph Nelson, Radiopaedia.org, rID: 86567"
-todo = "adresse CLCC, Société française d'accompagnement et de soins palliatifs (SFAP), soins-palliatifs.org, 0811 020 300, cancer info 0805 123 124"
+imageSrc = "Scanner réalisé pour des douleurs abdominales chez une femme de 55 ans. Masse hétérogène droite sans contours nets située entre l'utérus (antéversé) et le caecum. Cas de Ralph Nelson, Radiopaedia.org, rID: 86567"
+todo = "Société française d'accompagnement et de soins palliatifs (SFAP), soins-palliatifs.org, 0811 020 300, cancer info 0805 123 124"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
 - Le cancer de l'ovaire survient le plus souvent après la ménopause (65 ans au diagnostic)
 - Facteurs de risque du cancer de l'ovaire: antécédents de cancers sein-ovaire (mutations BRCA) ou colorectaux (Lynch), nulliparité, surpoids, ménarche précoce, ménopause tardive
-- Les symptômes du cancer de l'ovaire sont aspécifiques, à l'origine de son mauvais pronostic: [souleurs pelviennes](/tags/douleur-pelvienne/) ou abdominales, troubles du transit, métrorragies ou écoulements, autres signes de compression
+- Les symptômes du cancer de l'ovaire sont aspécifiques, à l'origine de son mauvais pronostic: [douleurs pelviennes](/tags/douleur-pelvienne/) ou abdominales, troubles du transit, métrorragies ou écoulements, signes de compression
 - Au moindre doute, prescrire une échographie pelvienne sus-pubienne et endovaginale
 - Prise en charge d'une masse ovarienne: IRM pelvienne et avis spécialisé dans un Centre de lutte contre le cancer concomitant
 - Surveillance clinique et du CA 125 rapprochée après le traitement du cancer de l'ovaire. Un échappement secondaire est très fréquent (70%)
@@ -91,6 +92,8 @@ Les signes et symptômes devant faire évoquer un cancer de l'ovaire en cas de p
 
 - Antécédents personnels ou familiaux  
   [Cancers du sein]({{< relref "cancer-sein.md" >}}) ou de l'ovaire (âge au diagnostic, BRCA), [cancer colorectal]({{< relref "cancer-colorectal.md" >}}) ou de l'[endomètre]({{< relref "cancer-endometre.md" >}}) (syndrome de Lynch).
+- Gynécologues  
+  Âge des premières règles, gestité, parité, statut ménopausique, contraception, traitement hormonal de la ménopause.
 - Symptômes non spécifiques
   - Inconfort abdominal
   - [Douleurs pelviennes](/tags/douleur-pelvienne/) ou douleurs abdominales
@@ -109,8 +112,10 @@ En cas d'antécédents de cancer sein-ovaire, avis d'oncogénétique selon le {{
 
 - Poids, taille, IMC et variations
 - Examen abdominal
-- Touchers pelviens
 - Palpation des aires ganglionnaires
+- Palpation des seins
+- Examen gynécologique au spéculum
+- Touchers pelviens
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -122,7 +127,7 @@ En cas d'antécédents de cancer sein-ovaire, avis d'oncogénétique selon le {{
 **Échographie pelvienne** par voie sus-pubienne et endovaginale
 {{%/info%}}
 
-Si découverte d'une masse ovarienne indéterminée ou suspecte de malignité: avis d'un centre du cancer (CLCC) et **IRM pelvienne** en parallèle.  
+Si découverte d'une masse ovarienne indéterminée ou suspecte de malignité: avis d'un centre du cancer (CLCC) et **IRM abdomino-pelvienne** en parallèle.  
 La découverte au stade précoce survient souvent avec la découverte d'une masse annexielle.
 
 Le **marqueur tumoral CA 125** est dosé en cas de masse indéterminée en imagerie.
@@ -147,11 +152,9 @@ Néanmoins une ablation opportuniste des trompes de Fallope de façon préventiv
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de l'ovaire" %}}
 
-Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP) et est pluridisciplinaire.
+Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP) et est pluridisciplinaire. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
 
 La prise en charge du cancer de l'ovaire repose essentiellement sur la chirurgie avec une chimiothérapie adjuvante voire une thérapie ciblée surajoutée (bevacizumab).
-
-[Guide d'information patiente de l'INCa](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-l-ovaire/Les-points-cles)
 
 Comme pour tout cancer:
 
@@ -160,6 +163,7 @@ Comme pour tout cancer:
 - Proposer un soutien psychologique
 - Soins de confort
 - Évaluation nutritionnelle
+- [Guide d'information INCa sur le cancer de l'ovaire](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-l-ovaire/Les-points-cles)
 - [Directives anticipées]({{< relref "directives-anticipees.md" >}}), [personne de confiance](https://www.service-public.fr/particuliers/vosdroits/R40462)
 - Associations de patients  
   [imagyn](https://www.imagyn.org), [Ligue contre le cancer](https://www.ligue-cancer.net), [roseup](https://www.rose-up.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com).
@@ -194,9 +198,22 @@ Les personnes atteintes de mutations BRCA1 ou 2 ou du syndrome de Lynch ont un s
 - [Cancer du sein]({{< relref "cancer-sein.md" >}}) (si cancer de l'ovaire avant 50 ans ou mutation BRCA)
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du cancer de l'ovaire" "show" %}}
+
+{{< mermaid title="Prise en charge du cancer de l'ovaire par le médecin généraliste. Dr JB Fron d'après INCa 2020" >}}
+graph TB
+  symptômes["<b>Symptômes non spécifiques</b><br>—<br>- Inconfort abdominal<br>- Douleurs abdominales<br>ou pelviennes<br>- Métrorragies, écoulements<br>- Augmentation volume abdo.<br>- AEG"] --> échographie("<b>Échographie pelvienne par voie<br>sus-pubienne et endovaginale</b>") -- Lésion suspecte --> bilan("Typer la lésion rapidement:<br>- IRM abdomino-pelvienne<br>- CA 125") -- En parallèle --> CLCC("Avis d'un Centre de Lutte contre<br>le Cancer semi-urgent")
+    échographie -- Normale --> différentiel(Autre cause)
+  Fortuite("Découverte fortuite d'une<br>tumeur ovarienne") --> bilan
+  Lynch("<b>Syndrome de Lynch</b><br>—<br>Dépistage répété dès 35 ans.<br>Discuter hystérectomie<br>+ annexectomie dès 40 ans") --> échographie
+style symptômes stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [Sessa C et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
+- Collège national des gynécologues et obstétriciens français (CNGOF). Item 306 Diagnostiquer une tumeur de l'ovaire. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [INCa. Les cancers de l'ovaire en 10 points clés. 2020. (PDF)](https://www.e-cancer.fr/content/download/292199/4161575/file/Cancers_de_l_ovaire_en_10_points_cles_mel_20200702.pdf)
 - [INCa. Cancers de l'ovaire Du diagnostic au suivi. 2019. (PDF)](https://www.e-cancer.fr/content/download/275099/3902051/file/Cancers_ovaire_diagostic_suivi_mel_20190920.pdf)
 - [ACOG. Opportunistic Salpingectomy as a Strategy for Epithelial Ovarian Cancer Prevention. 2019.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/04/opportunistic-salpingectomy-as-a-strategy-for-epithelial-ovarian-cancer-prevention)

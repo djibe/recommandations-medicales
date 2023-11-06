@@ -264,12 +264,12 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
-- [Guideline Group on Unexplained Infertility, Romualdi D, et al; ESHRE. Evidence-based guideline: unexplained infertility. Hum Reprod. 2023.](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/dead150/7246182)
+- [Guideline Group on Unexplained Infertility, Romualdi D et al; ESHRE. Evidence-based guideline: unexplained infertility. Hum Reprod. 2023.](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/dead150/7246182)
 - [Huyghe E et al. Recommandations de l'AFU et de la SALF concernant l'évaluation de l'homme infertile. Prog Urol. 2021.](https://www.urofrance.org/recommandation/recommandations-de-lafu-et-de-la-salf-concernant-levaluation-de-lhomme-infertile/)
 - [CNGOF. Avis du CNGOF en matière de conditions d'âge. 07/02/2021. (PDF)](https://cngof.fr/app/uploads/2023/06/AMP-Avis-CNGOF-limites-age-07-02-21.pdf?x53169)
 - [Boitrelle F et al. The Sixth Edition of the WHO Manual for Human Semen Analysis: A Critical Review and SWOT Analysis. Life (Basel). 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8706130/)
 - [World Health Organization. WHO laboratory manual for the examination and processing of human semen, 6th ed. World Health Organization. 2021.](https://www.who.int/publications/i/item/9789240030787)
-- Collège national des gynécologues et obstétriciens français (CNGOF). Item 38 Infertilité du couple : conduite de la première consultation . Gynécologie obstétrique Réussir son DFASM. 2021.
+- Collège national des gynécologues et obstétriciens français (CNGOF). Item 38 Infertilité du couple : conduite de la première consultation. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [Boedt T et al. Preconception lifestyle advice for people with infertility. Cochrane Database of Systematic Reviews. 2021.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008189.pub3/full/fr)
 - [Collège Français des Enseignants en Urologie (CFEU). Stérilité du couple : conduite de la première consultation Item 38. Référentiel du collège d'urologie 5ème édition. 2021.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/chapitre-02-sterilite-du-couple-conduite-de-la-premiere-consultation/)
 - [Wang R et al. Interventions for unexplained infertility: a systematic review and network meta‐analysis. Cochrane Database of Systematic Reviews. 2019.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012692.pub2/full/fr)

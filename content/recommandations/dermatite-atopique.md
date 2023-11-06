@@ -18,7 +18,7 @@ icd10 = "L20.9"
 flowchart = true
 image = true
 imageSrc = "Eczéma lichénifié du dos de la main. Care_SMC sur Foter.com / CC BY-ND"
-todo = "phalangette, préparations CHRU, impétiginisation, https://www.guidelines.edf.one/guidelines/atopic-ezcema"
+todo = "phalangette, préparations CHRU, impétiginisation"
 +++
 
 {{%article-summary%}}
@@ -150,7 +150,7 @@ Aucun examen n'est nécessaire devant un tableau de dermatite atopique dans la p
 
 ### Bilan allergologique
 
-Indications au bilan allergologique:
+Indications au bilan allergologique pour eczéma:
 
 - Suspicion d'allergie (alimentaire, environnement)
 - DA avec échec au traitement adapté bien conduit (même chez nourrissons en allaitement maternel exclusif)
@@ -160,7 +160,7 @@ Indications au bilan allergologique:
 - DA avec signes évocateurs d'allergie de contact  
   Eczéma localisé en zone inhabituelle (siège, paumes, plantes)
 - Autres  
-  RGO, pleurs, coliques résistantes, antécédents familiaux d'atopie sévère, apparition précoce avant 3 mois.
+  [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), pleurs, coliques résistantes, antécédents familiaux d'atopie sévère, apparition précoce avant 3 mois.
 
 {{% /collapse %}}
 {{%collapse "Traitement de fond de la dermatite atopique" %}}
@@ -203,13 +203,13 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 - 19°C dans la chambre
 - Lutte contre les idées reçues  
   Usage des dermocorticoïdes, la dermatite atopique n'est pas allergique-psychologique-infectieuse-contagieuse.
-- Suivi médical régulier  
-  Courbe de croissance ++
-- Vigilance en contact avec l'herpès
+- [Centres d'éducation thérapeutique pour la dermatite atopique](https://www.sfdermato.org/page-29-centres-d-education-therapeutique) (ETP)
+- Suivi médical régulier (courbe de croissance ++)
+- Vigilance en cas de contact avec l'herpès
 - Soutien psychologique
 - Vaccins
   - Allergie à l'œuf associée: avis spécialisé avant grippe ou fièvre jaune
-  - Éviter en poussée sévère
+  - Éviter durant une poussée sévère
 - Éviter les animaux domestiques
 - Encourager l'allaitement maternel exclusif +3 mois
 - [Guide SFD d'information sur la DA (PDF)](https://www.sfdermato.org/upload/fiche/etfad-great-version-france-22o32019-dd00991406282f168b08aec43c3798f0.pdf)
@@ -288,7 +288,8 @@ accTitle: Conduite à tenir devant une suspicion de dermatite atopique et prise 
 
 ### Bibliographie en attente
 
-[Xu AZ, Alexander JT. Topical Therapies for Atopic Dermatitis. JAMA. Published online October 27, 2023. doi:10.1001/jama.2023.17719](https://jamanetwork.com/journals/jama/article-abstract/2811421)
+- [European Dermatology Forum. Living EuroGuiDerm Guideline for the systemic treatment of Atopic Eczema. 2023.](https://www.guidelines.edf.one/guidelines/atopic-ezcema)
+- [Xu AZ, Alexander JT. Topical Therapies for Atopic Dermatitis. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811421)
 
 {{%/sources%}}
 {{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}
