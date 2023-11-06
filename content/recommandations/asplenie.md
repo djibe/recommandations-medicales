@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T23:51:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2023-10-12"
+lastmod = "2023-11-06"
 specialites = ["hematologie"]
 annees = "2023"
 sources = ["MinSanté", "HCSP"]
@@ -19,13 +19,14 @@ image = true
 imageWEBP = true
 imageSrc = "Illustration de la rate par scientificanimations.com, CC BY-SA 4.0"
 todo = "Fièvre du splénectomisé"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
 - L'asplénie (et l'hyposplénie) expose à des infections sévères et parfois foudroyantes (risque à vie mais maximal les 2 premières années)
 - Prise en charge de l'asplénique: antibioprophylaxie par pénicilline V Oracilline® 1 MUI 1 cp x 2/j pendant 2 ans (5 ans chez l'enfant)
-- 6 vaccinations recommandées contre l'immunodépression: {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}}, méningocoques B et ACYW135, grippe, Covid 19 et *Haemophilus*
+- 6 vaccinations recommandées contre l'immunodépression: {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}} et *Haemophilus*, méningocoques B et ACYW135, grippe et Covid 19
 - Les vaccins doivent être injectés dans les 2 à 6 semaines d'une splénectomie en urgence (ou au moins 2 semaines avant une splénectomie programmée)
 - L'asplénie expose à une sensibilité majeure au [paludisme]({{< relref "paludisme.md" >}})
 
@@ -33,10 +34,24 @@ todo = "Fièvre du splénectomisé"
 {{%collapse "Définitions" %}}
 
 Asplénie
-: Absence de la rate ou rate non fonctionnelle à l'origine d'une immunodépression sévère avec sensibilité particulière aux bactéries (pneumocoque, méningocoque et *Haemophilus* ++).
+: Absence de la rate ou rate non fonctionnelle à l'origine d'une immunodépression sévère avec sensibilité particulière aux bactéries (pneumocoque, [méningocoque]({{< relref "meningite.md" >}}) et *Haemophilus* ++).
 : Le risque vital peut être engagé par la survenue d'un **syndrome septique post-splénectomie** ({{%lang%}}Overwhelming Post-Splenectomy Infection (OPSI){{%/lang%}}).
 
-### Étiologie de l'asplénie
+### Complications de l'asplénie
+
+Le risque majeur de l'asplénique est **infectieux**: incidence annuelle d'infections 50 à 100 fois plus élevée. Risque plus important les 3 années suivant la splénectomie mais persiste toute la vie.
+
+Germes responsables du sur-risque infectieux: **pneumocoque** (50-90%) et *Haemophilus influenzae* (10-15%).
+
+### Épidémiologie de l'asplénie
+
+500.000 personnes hypospléniques ou aspléniques en France.
+
+Splénectomie chirurgicale: première cause avec 6 à 9000 cas par an (50% d'adultes). Autres causes: infarctus splénique, asplénisme thérapeutique (radiothérapie).  
+**Drépanocytose**: 10.000 porteurs (50% adultes).
+
+{{% /collapse %}}
+{{%collapse "Étiologie de l'asplénie" %}}
 
 Causes d'une asplénie ou d'une hyposplénie:
 
@@ -55,19 +70,6 @@ Stormorken
 - Transplantation médullaire
 - Maladie auto-immune
 - Cirrhose alcoolique
-
-### Complications de l'asplénie
-
-Le risque majeur de l'asplénique est **infectieux**: incidence annuelle d'infections 50 à 100 fois plus élevée. Risque plus important les 3 années suivant la splénectomie mais persiste toute la vie.
-
-Germes responsables du sur-risque infectieux: **pneumocoque** (50-90%) et *Haemophilus influenzae* (10-15%).
-
-### Épidémiologie de l'asplénie
-
-500.000 personnes hypospléniques ou aspléniques en France.
-
-Splénectomie chirurgicale: première cause avec 6 à 9000 cas par an (50% d'adultes). Autres causes: infarctus splénique, asplénisme thérapeutique (radiothérapie).  
-**Drépanocytose**: 10.000 porteurs (50% adultes).
 
 {{% /collapse %}}
 {{%collapse "Antibioprophylaxie de l'asplénie" %}}
@@ -179,19 +181,27 @@ L'asplénie (par splénectomie ou autre) induit un risque infectieux majeur néc
 - Prophylaxie en cas de morsure animale ou de tiques, léchage de plaie par un animal
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de l'asplénie" "show" %}}
+
+{{< mermaid title="Prise en charge de l'asplénie par le médecin généraliste. Drs JB Fron et Alaedine Benani d'après HCSP, SFAR, Lee GM" >}}
+graph TB
+  asplénie("<b>Asplénie identifiée</b><br>—<br>- Splénectomie, traumatisme<br>ou infarctus splénique<br>- Congénital: drépanocytose,<br>thalassémie, syndromique,<br>maladie de surcharge") --> ETP("<b>Éducation thérapeutique</b><br>—<br>Risque infectieux, CAT fièvre,<br>prophylaxie urgente:") --> antibioprophylaxie("<b>Antibioprophylaxie</b><br>—<br>Péni V min. 2 ans<br>5 ans chez l'enfant") -. Allergie/pénurie .-> alternatives("- Érythromycine<br>- Céfalexine<br>- Amoxicilline")
+    ETP --> vaccin("<b>Vaccinations</b><br>—<br>- Pneumocoque<br>- Haemophilus<br>- Méningites B et ACYW<br>- Grippe et Covid") -- Rappels --> rappels("- dTP<br>- Pneumocoque<br>- Méningocoques<br>- Grippe, Covid")
+    ETP --> spécialiste(Consultation spécialisée<br>Hémato, infectio, interniste)
+  style asplénie stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
 - Collège des enseignants d'hématologie. Splénomégalie. Item 275. 2021.
+- [Lee GM. Preventing infections in children and adults with asplenia. Hematology Am Soc Hematol Educ Program. 2020.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33275684/)
 - [Medqual. Vaccination du patient immunodéprimé. 2019. (PDF)](https://medqual.fr/images/PRO/FORMATION/ATBR_Vaccin_04.pdf)
 - [Vaccination Info Service. Patient asplénique ou hyposplénique. 2018.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Patient-immunodeprime/Patient-asplenique-ou-hyposplenique)
 - [HCSP. Vaccination des personnes immunodéprimées ou aspléniques. Recommandations actualisées. 2014.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
 - [Dahyot-Fizelier C et Mimoz O. Gestion du patient splénectomisé. SFAR. 2010.](https://sfar.org/gestion-du-patient-splenectomise/)
 - [Omedit Centre. Prévention des infections chez le splénectomisé et dans l'asplénie fonctionnelle. 2010. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5198.pdf)
-
-### Bibliographie en attente
-
-[Lee GM. Preventing infections in children and adults with asplenia. Hematology Am Soc Hematol Educ Program. 2020.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33275684/)
 
 {{%/sources%}}
 {{% modal title="Vaccin pneumocoque" id="modal-pneumocoque"%}}

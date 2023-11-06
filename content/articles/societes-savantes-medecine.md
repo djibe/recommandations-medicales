@@ -63,7 +63,6 @@ window.addEventListener('load', () => {
         { data: 'Publications RSS' },
         { data: 'Social' }
       ],
-      select: false,
       "columnDefs": [{
         "targets": 4,
         "render": function ( data, type, row, meta ) {

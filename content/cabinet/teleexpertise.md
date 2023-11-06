@@ -5,7 +5,7 @@ description = "Demander une téléexpertise médicale pour un patient. Comment f
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T09:25:00+02:00"
 publishdate = "2022-08-31"
-lastmod = "2023-02-10"
+lastmod = "2023-11-02"
 specialites = []
 annees = "2023"
 sources = []
@@ -33,7 +33,6 @@ Liste des sites permettant de demander gratuitement une téléexpertise médical
 Vous devez d'abord créer un compte sur une plateforme de téléexpertise afin que l'expert connaisse vos coordonnées (qu'il précisera sur sa feuille de soins électronique).
 
 - [Omnidoc](https://omnidoc.fr/medecins-generalistes)
-- [Postelo](https://www.postelo.fr)
 - [Crossdoc](https://crossdoc.fr) (gastro-entérologie et nutrition pédiatrique)
 {.list-group}
 

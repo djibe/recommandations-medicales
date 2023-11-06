@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-18T09:04:34+02:00"
 publishdate = "2023-09-21"
-lastmod = "2023-09-21"
+lastmod = "2023-11-06"
 specialites = ["dermatologie"]
 annees = "2017"
 sources = ["EDF"]
@@ -16,6 +16,7 @@ sctid = "56317004"
 icd10 = "L65.9"
 image = true
 imageSrc = "Pelade de l'homme d'âge moyen: aspect ovalaire sur cuir chevelu sain. Thirunavukkarasye-Raveendran, CC BY 4.0, via Wikimedia Commons"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -96,7 +97,7 @@ Signes et symptômes pouvant orienter vers la cause de l'alopécie.
 - Antécédents familiaux (capillaires, auto-immuns)
 - Contexte récent  
   Grossesse, stress (médical, chirurgical, psychologique).
-- TOC: trichotillomanie
+- Trouble obsessionnel compulsif (TOC): trichotillomanie
 - Habitudes cosmétiques (défrisage, chignon/brushing tendu)
 - Contage humain ou animal
 - Traitements en cours  
@@ -123,8 +124,8 @@ Signes et symptômes pouvant orienter vers la cause de l'alopécie.
 
 Les examens dépendent de l'étiologie suspectée:
 
-- Si ménorragies, dénutrition, régime: ferritine, bilan carentiel
-- Effluvium télogène persistant à 3-6 mois: TSH, ferritine
+- Si ménorragies, [dénutrition]({{< relref "denutrition.md" >}}), régime: [ferritine](/tags/ferritine/), bilan carentiel
+- Effluvium télogène persistant à 3-6 mois: [TSH](/tags/tsh/), ferritine
 - Chapitre dédié selon la suspicion (SOPK, surrénalienne)
 
 {{% /collapse %}}
@@ -147,7 +148,9 @@ Pour les formes étendues, avis dermatologique (photothérapie, PUVA ou UVB, imm
 
 Les traitements de l'alopécie androgénétique ne sont possibles qu'à partir de 18 ans et doivent être **réévalués à 6 mois**. Prévenir sur le coût des traitements.
 
-Alopécie androgénétique de l'homme (par efficacité décroissante):
+#### Traitements de l'alopécie androgénétique de l'homme
+
+Prise en charge de l'alopécie androgénétique de l'homme (par efficacité décroissante):
 
 - Finastéride 1 mg x 4/j + [fiche info patient ANSM (PDF)](https://ansm.sante.fr/uploads/2022/07/06/20191210-finasteride-fichepatient-1-2.pdf)  
   Possible de 18 à 41 ans avec **risques psychiatriques**, sexuels, gynécomastie à surveiller et baisse du PSA.
@@ -162,7 +165,9 @@ Minoxidil et finastéride peuvent être combinés pour une meilleure efficacité
 Le finastéride (inhibiteur de la 5α-réductase) est sous [surveillance de l'ANSM](https://ansm.sante.fr/dossiers-thematiques/information-pour-les-professionnels-de-sante-a-propos-du-finasteride-1-mg) et est contre-indiqué en cas de dépression ou de trouble sexuel. Le don du sang n'est pas possible.
 {.alert .alert-warning}
 
-Alopécie androgénique de la femme (efficacité mineure sauf minoxidil):
+#### Traitements de l'alopécie androgénique de la femme
+
+Prise en charge de l'alopécie androgénique de la femme (efficacité mineure sauf minoxidil):
 
 - Minoxidil 2% 1 mL x 2/j  
 - Manque d'études pour: minoxidil 5% mousse x 1/j
@@ -173,7 +178,7 @@ Manque d'études pour l'association de traitements.
 
 pour les deux sexes, le traitement par plasma riche en plaquettes (PRP) est insuffisamment étudié.
 
-### Minoxidil
+#### Minoxidil
 
 Le minoxidil est possible à partir de 18 ans en cas d'alopécie androgénétique légère à modérée (Hamilton-Norwood IIv–V).
 
@@ -187,7 +192,7 @@ Informer sur la **chute de cheveux accrue les premiers mois de traitement** et l
 
 Effets indésirables possibles: hypertrichose, eczéma de contact.
 
-### La greffe capillaire
+#### La greffe capillaire
 
 Des greffes répétées par un chirurgien esthétique sont souvent nécessaires. Le résultat final doit être évalué à 9-12 mois de la greffe.
 
@@ -196,6 +201,19 @@ La greffe de cheveux est contre-indiquée en cas de dysmorphie ou d'attente d'un
 Un traitement par minoxidil et/ou finastéride pourrait limiter la progression de l'alopécie androgénétique.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge d'une alopécie" "show" %}}
+
+{{< mermaid title="Prise en charge d'une alopécie par le médecin généraliste. Dr JB Fron d'après EDF 2017" >}}
+graph TB
+  Alopécie --> cuir(Cuir chevelu sain ?) -- Oui --> clinique("Progressive,<br>zones androgénétiques ?") -- Non --> sain("Étayer:<br>- Effluvium télogène<br>- Pelade")
+    clinique -- Oui --> AAG(Alopécie androgénique) -- Homme --> Homme("- Minoxidil<br>- Finastéride (INFO)") --> réévaluation(Réévaluation M6) -- Efficace --> poursuite(Poursuite)
+      AAG -- Femme --> Femme(Minoxidil 2%) --> réévaluation
+        réévaluation -- Échec --> dermatologue(Dermatologue)
+    cuir -- Non --> différentiel("- Teigne<br>- Lupus<br>- Lichen plan<br>- Sarcoïdose<br>- Sclérodermie<br>- Métastase") --> dermatologue
+  style Alopécie stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - Collège des enseignants de dermatologie de France (CEDEF). Troubles des phanères. Dermatologie Réussir son DFASM. 2022.

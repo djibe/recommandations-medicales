@@ -65,8 +65,7 @@ window.addEventListener('load', () => {
         { data: 'Population' },
         { data: 'Lieu' },
         { data: 'Evaluateur' }
-      ],
-      select: false
+      ]
     })
   })
 })

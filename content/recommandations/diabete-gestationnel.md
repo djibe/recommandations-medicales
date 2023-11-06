@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-30T19:57:00+02:00"
 publishdate = "2021-05-01"
-lastmod = "2023-10-12"
+lastmod = "2023-11-02"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["SFD", "CNGOF"]
@@ -18,12 +18,11 @@ icd10 = "O24.4"
 flowchart = true
 image = true
 imageSrc = "Illustration du diabète gestationnel par vectorjuice / Freepik"
-todo = "relecture"
 +++
 
 {{%article-summary%}}
 
-- Indications au dépistage du diabète gestationnel (DG): âge ≥ 35 ans, surpoids, ATCD 1<sup>er</sup> degré familial de diabète type 2, antécédent de macrosomie ou de diabète gestationnel
+- Indications au dépistage du diabète gestationnel (DG): âge ≥ 35 ans, surpoids, ATCD 1<sup>er</sup> degré familial de diabète type 2, antécédent de macrosomie ou de diabète gestationnel, SOPK (HGPO)
 - Dépister par glycémie à jeun au T1 puis HGPO 75g entre 24 et 28 SA
 - Diagnostic de diabète gestationnel si glycémie à jeun ≥ 0,92 g/L ou HGPO H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L
 - Adresser à la maternité pour autosurveillance glycémique et diététique
@@ -95,7 +94,9 @@ Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque par
 3. Antécédent familial de [diabète type 2]({{< relref "diabete-type-2.md" >}}) au 1<sup>er</sup> degré
 4. Antécédent personnel de diabète gestationnel  
 5. Antécédent de macrosomie  
-  Poids de naissance ≥ 4 kg
+  Poids de naissance ≥ 4 kg.
+6. Syndrome des ovaires polykystiques (SOPK, *ESHRE 2023*)  
+  Dès le désir de grossesse ou rattrapage à 24-28 SA.
 
 > *CNGOF, SFD 2010*
 {{%/info%}}
@@ -208,7 +209,7 @@ Le développement d'un diabète gestationnel ne modifie pas les consignes valabl
 {{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge du diabète gestationnel. Dr JB Fron d'après SFD/CNGOF 2010" >}}
 graph TB
 accTitle: Conduite à tenir pour le dépistage et la prise en charge du diabète gestationnel d'après SFD/CNGOF 2010
-fdr["<b>Facteurs de risque de diabète gestationnel</b><br>—<br>1. Âge ≥ 35 ans<br>2. IMC ≥ 25 kg/m²<br>3. ATCD familial 1<sup>er</sup> degré de DT2<br>4. ATCD de DG<br>5. ATCD de macrosomie"]
+fdr["<b>Facteurs de risque de diabète gestationnel</b><br>—<br>1. Âge ≥ 35 ans<br>2. IMC ≥ 25 kg/m²<br>3. ATCD familial 1<sup>er</sup> degré de DT2<br>4. ATCD de DG<br>5. ATCD de macrosomie<br>6. SOPK (HGPO)"]
 style fdr stroke:#4150f5, stroke-width:1px
   fdr -- Oui --> gaj("<b>1<sup>er</sup> trimestre</b><br>Glycémie à jeun")
     gaj -- "&lt; 0,92" --> hgpo("<b>24-28 SA: HGPO 75 g</b><br>—<br>H0 ≥ 0,92<br>H1 ≥ 1,8<br>H2 ≥ 1,53")
@@ -228,6 +229,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 {{< card-link-external title="e-learning EASD" url="https://easd-elearning.org/courses/gestational-diabetes-mellitus/">}}
 
+- [ESHRE. International evidence-based guideline for the assessment and management of polycystic ovary syndrome - Summary. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
 - {{< references/ada-soc >}}
 - {{< references/sfd-dt2 >}}
 - {{< references/college-endocrino >}}

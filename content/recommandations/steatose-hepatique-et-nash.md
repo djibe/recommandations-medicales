@@ -7,7 +7,7 @@ synonyms = ["Stéatose hépatique non alcoolique", "stéatohépatite métaboliqu
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-09-23T09:08:39+02:00"
 publishdate = "2022-09-27"
-lastmod = "2023-05-15"
+lastmod = "2023-11-06"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["EASL", "AFEF", "SNFGE"]
@@ -251,8 +251,9 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Leung PB et al. Diagnosis and Management of Nonalcoholic Fatty Liver Disease. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2810964)
 - [Brissot P, Buffet C. Rapport 23-02. Le foie stéatosique non alcoolique : un défi de santé publique. Académie de médecine. 2023.](https://www.academie-medecine.fr/le-foie-steatosique-non-alcoolique-un-defi-de-sante-publique/)
-EASD
+- EASD
 
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}

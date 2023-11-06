@@ -1,15 +1,15 @@
 +++
 title = "Syndrome des ovaires polykystiques (SOPK)"
-titleSeo = "Syndrome des ovaires polykystiques (SOPK)"
+titleSeo = "Syndrome ovaires polykystiques SOPK"
 prefix = "le "
 description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-11T21:36:45+01:00"
-publishdate = "2022-12-11"
-lastmod = "2022-12-11"
+publishdate = "2023-11-02"
+lastmod = "2023-11-02"
 specialites = ["gynecologie-obstetrique"]
-annees = "2018"
+annees = "2023"
 sources = ["ESHRE"]
 tags = ["infertilite"]
 anglais = ["Polycystic ovary syndrome (PCOS)"]
@@ -29,26 +29,38 @@ TODO:
 {{%collapse "Définitions" %}}
 
 Syndrome des ovaires polykystiques (SOPK)
-: Pathologie féminine parmi les plus fréquentes (prévalence de 8 à 13%) avec une estimation de 70% de patientes non diagnostiquées.
-: Complications du syndrome des ovaires polykystiques: infertilité, métaboliques (diabète et diabète gestationnel x3) et psychologiques.
+: Pathologie féminine chronique parmi les plus fréquentes (prévalence 10-13 %) dont 70% des patientes ne sont pas diagnostiquées. Le SOPK est considéré comme acquis à vie.
+: Complications du syndrome des ovaires polykystiques: infertilité, métaboliques (**diabète** et [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}}) multipliés par 3) avec augmentation du risque cardiovasculaire et psychologiques.
 
 Cycles menstruels irréguliers
-: Définitions selon l'ESHRE 2018:
+: Définitions selon l'ESHRE 2023:
+    - 1-2 ans post-ménarche: durée < 21 jours ou > 45 jours
     - > 1 an post-ménarche: tout cycle > 90 jours
-    - 1-3 ans post-ménarche: durée < 21 jours ou > 45 jours
-    - > 3 ans post-ménarche à la périménopause: durée < 21 jours ou > 35 jours ou < 8 cycles/an
+    - > 3 ans post-ménarche jusqu'à la périménopause: durée < 21 jours ou > 35 jours ou < 8 cycles/an
     - Aménorrhée primaire à 15 ans ou > 3 ans post-thélarche (apparition des seins)
 : Devant des cycles irréguliers, le diagnostic de SOPK doit être évoqué.
 
-TODO: sous forme de tableau
+Des cycles réguliers n'éliminent pas une dysfonction ovulatoire.
 
-Risque de [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) multiplié par 2 à 6 mais le risque absolu est faible.
+Risque de [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) multiplié par 2 à 6 mais le risque absolu reste faible.
 
 ### Diagnostic différentiel
 
 Autres causes d'hyperandrogénie:
 
 Tumeur (androgènes très élevés)
+
+### Abréviations
+
+AMH
+: hormone antimüllérienne
+
+ESHRE
+: {{%lang%}}European Society of Human Reproduction and Embryology{{%/lang%}}
+
+SOPK
+: syndrome des ovaires polykystiques
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -66,32 +78,25 @@ Signes modérés chez les caucasiennes.
 - Traitements en cours
 - Installation des symptômes
 - Troubles menstruels
-  - Age des ménarches
-  - Cycles irréguliers
+  - Âge des ménarches
+  - Régularité des cycles
   - [Infertilité]({{< relref "infertilite-couple.md" >}})
   - Complications gestationnelles
 - Signes d'hyperandrogénie  
-  Hirsutisme modified Ferriman Gallwey score >= 4-6, plus marqué chez les méditerranéennes et orientales, alopécie (score Ludwig), acné
+  {{< clinique/hyperandrogenie >}}.
 - Métabolique et cardiovasculaire
   - {{< modal-btn modal-metabolique >}}Syndrome métabolique{{< /modal-btn >}}
-  Surpoids/obésité
+  - Surpoids ou obésité
   - Prédiabète et diabète type 2
   - Rechercher des apnées du sommeil
   - Evaluation du risque cardiovasculaire (SCORE2)
 - Image du corps
-- Anxiété (GAD-7, PHQ-9), dépression
-- Dépister TCA
+- Dépister anxiété ({{< modal-btn modal-gad2 >}}questionnaire GAD-2{{< /modal-btn >}}) et dépression (les 2 avec le {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}})
+- Dépister un trouble du comportement alimentataire: {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}
 - Psychosexual dysfunction (Female sexual function Index)
 - Qualité de vie (TODO: PCOSQ)
 
 Chez adolescente avec des critères partiels, réévaluer à 8 ans post-ménarche.
-
-Dépister image du corps:
-- Do you worry a lot about the way you look and wish you could think about it less?
-- On a typical day, do you spend more than 1 hour per day worrying about your appearance? (More than 1 hour a day is considered excessive)
-- What specific concerns do you have about your appearance?
-- What effect does it have on your life?
-- Does it make it hard to do your work or be with your friends and family?
 
 Évoquer devant acné sévère ou hirsutisme de l'adolescente.
 
@@ -99,34 +104,44 @@ Diagnostic post-ménopausique peut être considéré si: diagnostic antérieur d
 
 L'apparition d'un SOPK à la ménopause doit faire éliminer une cause tumorale.
 
+Envisager un dépistage du SOPK chez la femme avec diabète type 1 ou 2 (ESHRE 1.9.8).
+
 ### Examen clinique
 
 - Poids, taille, IMC, périmètre abdominal
 - Pression artérielle, fréquence cardiaque
+- Examen cutané et du scalp (hirsutisme, acné, alopécie) en prenant en compte les traitements cosmétiques effectués
 
-## Examens complémentaires
+{{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+### Bilan biologique du SOPK
 
 Les dosages ne peuvent être effectués sous contraception hormonale ou dans les 3 mois suivant son arrêt.
 
-Ils sont surtout utiles lorsque le tableau clinique est incomplet (hirsutisme absent).
+Ils sont surtout utiles lorsque le tableau clinique est incomplet (hirsutisme absent):
 
-- Testostérone libre calculée
-- Free androgen index
+- Hyperandrogénie (possible dès 12-15 ans): testostérone libre et totale
+  - Dosages normaux: envisager androstenedione et DHEAS
+  - Dosages élevés: éliminer tumeur ovarienne et surrénale, syndrome de Cushing, iatrogénie, insulinorésistance sévère
+- Adulte: hormone antimüllérienne (AMH)  
+  Inutile si échographie pelvienne ou cycles irréguliers avec hyperandrogénie.
 
-Testostéronémie totale ou libre normale: envisager Androstenedione et DHEA.
+Après diagnostic de syndrome des ovaires polykystiques, compléter le bilan métabolique avec:
 
-TODO: glycémie à jeun/HbA1c, bilan lipidique
-HGPO 75g si surpoids, prédiabète, antécédent familial de DT2, HTA, pré-conceptionnel ou avant 20 SA.
+- **HGPO 75g** ou à défaut glycémie à jeun ou HbA1c  
+- Bilan lipidique
 
 ### Échographie pelvienne
 
-Inutile dans les 8 ans post-ménarche du fait de fréquentes ovaire multi-folliculaires.
+Critère diagnostique échographique du SOPK de l'adulte: au moins 20 follicule/ovaire (transvaginale à 8 MHz)
+{.alert .alert-info}
 
-L'échographie est dispensable en cas de cycles irréguliers avec hyperandrogénie.
+Critères diagnostiques alternatifs: ovaire de volume ≥ 10 mL ou follicules par section ≥ 10.
 
-Voie transvaginale préférable chez la femme sexuellement active à 8 MHz.
+L'échographie est systématique chez la femme ménopausée pour éliminer une tumeur. Elle n'est pas nécessaire en cas de cycles irréguliers avec hyperandrogénie avant la ménopause.
 
-Critères diagnostiques sur ovaire au choix: follicule > 20/ovaire et/ou ovaire >= 10 mL en l'absence de follicule dominant, cysts or corpora lutea.
+> L'échographie est inutile chez l'adolescente (ovaires multi-folliculaires fréquents durant les 8 ans post-ménarche).
 
 ### Perméabilité tubaire
 
@@ -137,27 +152,28 @@ Explorer avant une induction ovulatoire en cas de suspicion de pathologie tubair
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
+Hirsutisme: prise en charge spécifique
+
 Correction des FRCV à détailler, alimentation pour la santé:
 
-- Surveillance glycémique et de la pression artérielle
+- Surveillance glycémique (1-3 ans) et de la pression artérielle (annuelle)
 - Correction d'un surpoids
-- Arrêt tabac et alcool
 - Régime méditerranéen
-- Activité physique
+- Arrêt tabac et alcool
+- Activité physique régulière  
+  Cible 150-300 minutes modérées, adolescent 1h par jour.
 - Sommeil
 - Soutien psychologique, santé émotionnelle et sexuelle
+- Dépistage métabolique de l'entourage
+- Grossesse: surveillance rapprochée
 
-Hirsutisme: prise en charge spécifique
-Grossesse: surveillance rapprochée
+### Traitement hormonal par contraceptions estroprogestative
+
+Une contraceptions œstroprogestative (COP) pourrait être recommandée chez l'adulte (envisagée chez l'adolescente) pour la prise en charge de l'hirsutisme et des cycles irréguliers. Dosage d'EE de 20 à 30 µg.
+
+Rappeler la sécurité d'utilisation des contraceptions œstroprogestatives.
 
 Cycles > 90j: COP ou progestatif (prévention cancer de l'endomètre)
-
-COP pour hyperandrogénie et/ou cycles irréguliers.
-Considérer chez adolescente avec diagnostic certain ou supposé pour hyperandrogénie et/ou cycles irréguliers.
-
-Selon FRCV.
-
-Pas de dosage/associée particulier ne peut être recommandé. Utiliser avec précautions en vigueur. Privilégier EE 20-30 ou estrogènes naturels.
 
 ### Anti-androgènes
 
@@ -165,9 +181,7 @@ En cas de recours impossible à la COP, recours aux anti-androgènes pour la pri
 
 ### Metformine
 
-Considérer en problèmes métaboliques: risque de diabète, prédiabète ou surpoids.
-
-Pourrait être recommandée pour le contrôle du poids, hormonal et métabolique.
+Considérer la {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}} chez l'adulte en surpoids ou obèse (visée métabolique et symptomatique). Elle pourrait être considérée en l'absence de surpoids, tout comme chez l'adolescente (régulation des cycles).
 
 Envisager chez adolescente en surpoids.
 Considérer chez adolescente avec diagnostic de certitude ou en cours d'exploration.
@@ -228,8 +242,31 @@ Gonadotrophines:
 {{% /collapse %}}
 {{%sources%}}
 
-- [Helena Teede et al. International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
+[ESHRE. International evidence-based guideline for the assessment and management of polycystic ovary syndrome - Summary. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
+
+- Collège gynéco
+- Collège endoc
 
 {{%/sources%}}
+{{% modal title="Questionnaire GAD-2" id="modal-gad2"%}}
+
+{{< scores/gad2 >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
+
+{{< scores/scoff >}}
+
+{{% /modal %}}
+{{% modal title="Metformine" id="modal-metformine"%}}
+
+{{< traitements/metformine >}}
+
+{{% /modal %}}
 
 ≤≥±®æœŒÈ³ÂSpO<sub>2</sub>

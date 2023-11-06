@@ -231,6 +231,10 @@ En l'absence d'orientation étiologique ou d'efficacité d'un traitement étiolo
 - [Spasovski G et al; ERBP. Clinical practice guideline on diagnosis and treatment of hyponatraemia. Nephrol Dial Transplant. 2014.](https://academic.oup.com/ndt/article/29/suppl_2/i1/1904943)
 - [Ichai C. Conduite à tenir devant une hyponatrémie. SFAR. 2009.](https://sfar.org/conduite-a-tenir-devant-une-hyponatremie/)
 
+### Bibliographie en attente
+
+[Adrogué HJ, Madias NE. The Syndrome of Inappropriate Antidiuresis. N Engl J Med. 2023.](https://www.nejm.org/doi/full/10.1056/NEJMcp2210411)
+
 {{%/sources%}}
 {{% modal title="Score de Glasgow" id="modal-glasgow" size="lg" %}}
 

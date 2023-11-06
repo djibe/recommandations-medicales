@@ -397,6 +397,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HCSP. Dépistage biologique de la syphilis guérie chez les donneurs de sang. 05/10/2023.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1348)
 - [US Preventive Services Task Force. Screening for Syphilis Infection in Nonpregnant Adolescents and Adults: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2796685)
 - [Santé Publique France. Bulletin de santé publique VIH-IST. Décembre 2021.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/vih-sida/documents/bulletin-national/bulletin-de-sante-publique-vih-ist.-decembre-2021)
 - [SPILF. Info-antibio N°92. Mai 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)

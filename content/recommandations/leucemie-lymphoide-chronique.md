@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-10T17:25:10+02:00"
 publishdate = "2023-07-17"
-lastmod = "2023-09-21"
+lastmod = "2023-11-06"
 specialites = ["hematologie"]
 annees = "2023"
 sources = ["INCa", "HAS"]
@@ -18,11 +18,12 @@ icd10 = "C91"
 image = true
 imageSrc = "Leucémie lymphoïde chronique (LLC). Lymphocytes B monomorphes, de petite taille, avec une chromatine mature et dense et un rapport nucléocytoplasmique élevé. VashiDonsk, CC BY-SA 3.0, via Wikimedia Commons"
 todo = "maladie pro pesticides, qui prescrit immunophénotypage ?, https://www.eurofins-biomnis.com/referentiel/liendoc/renseignements/B8-Hemopathies.pdf"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Évoquer une leucémie lymphoïde chronique (LLC) en cas d'hyperlymphocytose (> 4 G/L) persistante après 60 ans
+- Évoquer une leucémie lymphoïde chronique (LLC) en cas d'hyperlymphocytose (lymphocytes supérieurs à 4 G/L) persistante après 60 ans
 - L'examen clinique recherche des signes de cytopénies (pâleur, hématomes), des polyadénopathies et une splénomégalie
 - Bilan diagnostique de la LLC: NFS, frottis sanguin et immunophénotypage des lymphocytes sanguins
 - La prise en charge de la leucémie lymphoïde chronique est spécialisée par l'hématologue
@@ -82,7 +83,7 @@ La leucémie lymphoïde chronique (LLC) est le plus souvent découverte fortuite
 
 - Contrôle de la NFS à 6-8 semaines
   - Hyperlymphocytose persistante: ≥ 5 G/L pendant au moins 3 mois (définition *iwCLL 2008*)
-  - Avis spécialisé quand > 4 G/L
+  - Avis spécialisé pour une hyperlymphocytose > 4 G/L
   - Prise en charge semi-urgente en cas de cytopénie associée (anémie, neutropénie, thrombopénie)
 - Frottis sanguin: petits lymphocytes matures
 - Immunophénotypage des lymphocytes sanguins  
@@ -103,7 +104,7 @@ En cas de diagnostic de LLC confirmé, le bilan doit être complété:
 Le scanner est réservé à la suspicion de transformation maligne de la LLC en lymphome agressif.
 
 {{% /collapse %}}
-{{%collapse "Traitement de la LLC" %}}
+{{%collapse "Traitement de la leucémie lymphoïde chronique" %}}
 
 La prise en charge de la leucémie lymphoïde chronique (LLC) relève de l'hématologue. Lorsqu'un traitement est décidé, il s'agit d'une chimiothérapie ou d'une immunothérapie (thérapie ciblée).
 
@@ -128,6 +129,16 @@ Suivi spécialisé et des aires ganglionnaires.
 Une altération de l'état général (AEG) ou une adénopathie de croissance rapide doit faire rechercher un **lymphome agressif** (syndrome de Richter).
 
 {{% /collapse %}}
+{{%collapse "Prise en charge d'une leucémie lymphoïde chronique" "show" %}}
+
+{{< mermaid title="Prise en charge d'une leucémie lymphoïde chronique (LLC) par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après INCa 2023" >}}
+flowchart TB
+  clinique["Rarement:<br>- infection bact. récidivante<br>- syndrome tumoral"] --> NFS("<b>NFS</b> avec hyperlymphocytose<br>> 4000 G/L") --> contrôle(NFS toutes les<br>6-8 semaines) -- Persistance à 3 mois --> hématologue("Avis hématologique<br>(urgent si cytopénie)")
+  fortuite["Découverte fortuite<br>d'hyperlymphocytose"] --> NFS
+style fortuite stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 {{< video poster="https://b-s-h.org.uk/media/17278/bsh-video-poster.png" mp4="https://b-s-h.org.uk/media/21102/guideline-for-the-treatment-of-chronic-lymphocytic-leukaemia.mp3?cf=638034153129670000" webm="https://b-s-h.org.uk/media/21102/guideline-for-the-treatment-of-chronic-lymphocytic-leukaemia.mp3?cf=638034153129670000" description="Podcast de la British Society of Haematology sur la prise en charge de la leucémie lymphoïde chronique" >}}

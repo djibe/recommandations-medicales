@@ -6,7 +6,7 @@ synonyms = ["Favisme", "déficit en Glucose-6-déshydrogénase"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-08T22:38:00+02:00"
 publishdate = "2021-07-09"
-lastmod = "2023-04-09"
+lastmod = "2023-11-06"
 specialites = ["hematologie"]
 annees = "2021"
 sources = ["ANSM", "PNDS"]
@@ -17,11 +17,12 @@ icd10 = "D55.0"
 image = true
 imageSrc = "Illustration du déficit en G6PD par macrovector / Freepik"
 datatable = true
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Déficit en G6PD: éviction à vie des substances à risque  
+- Déficit en G6PD: éviction à vie des substances à risque (fèves, quinine, henné ...) 
 - Port d'une carte de déficit en G6PD et de la liste des médicaments à risque: [liste ANSM (PDF)](https://ansm.sante.fr/uploads/2021/03/11/liste-substances-actives-deficit-g6pd-20052019-1-2.pdf)
 - Bilan en urgence en cas d'exposition aux fèves ou autres produits interdits
 - Conseil génétique familial
@@ -86,7 +87,7 @@ Examens **en urgence** en hémolyse aiguë chez un sujet atteint d'un déficit e
 - Recherche de RAI
 - Sérologies VIH, VHB et VHC
 
-### En déficit G6PD connu
+### En cas de déficit en G6PD connu
 
 - NFS
 - Réticulocytes
@@ -199,6 +200,17 @@ Doit être demandée par le médecin.
   [Vigifavisme](https://www.vigifavisme.com/)
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du déficit en G6PD" "show" %}}
+
+{{< mermaid title="Prise en charge d'un déficit en G6PD par le médecin généraliste. Dr Alaedine Benani d'après PNDS 2017" >}}
+flowchart TB
+  déficit[Déficit en G6DP] --> ETP(Éducation thérapeutique) --> aliments("Substances à proscrire,<br>port de carte") --> signes("Reconnaître les signes d'un<br>accident hémolytique") --> généraux[Fièvre, pâleur,<br>céphalées, asthénie] --> biologie(Examen biologique en urgence)
+    signes --> douleurs("Douleurs abdominales<br>et lombaires") --> biologie
+    signes --> hématurie[Hématurie et ictère] --> biologie
+style déficit stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [ANSM. Médicament et déficit en G6PD : l'ANSM actualise le référentiel. 14/03/2021.](https://ansm.sante.fr/actualites/medicament-et-deficit-en-g6pd-lansm-actualise-le-referentiel)
