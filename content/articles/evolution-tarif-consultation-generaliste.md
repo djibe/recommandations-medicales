@@ -19,7 +19,7 @@ todo = "écriture SEO, Éléments cliquables trop rapprochés, cadres, temps tra
 
 ## Évolution du prix des consultations en médecine générale
 
-Publication préliminaire afin de disposer d'une série longue sur les prix des consultations des médecins généralistes de 1980 à 2022, n'ayant pas trouvé d'article complet sur le sujet.
+Publication préliminaire afin de disposer d'une série longue sur les prix des consultations des médecins généralistes de 1980 à 2023, n'ayant pas trouvé d'article complet sur le sujet.
 
 Les *conventions médicales* fixent les prix des consultations pour les 5 années à venir. Ainsi, la dernière revalorisation du barème de la consultation du généraliste a eu lieu en 2017, avec un tarif affiché à 25€.
 

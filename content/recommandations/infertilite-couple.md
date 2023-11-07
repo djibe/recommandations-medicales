@@ -145,7 +145,7 @@ L'examen clinique concerne chaque membre du couple.
 - Antécédents gynécologiques  
   Gestité, parité, SOPK, hyperprolactinémie, aménorrhée, infections génitales dont IST, salpingite, [endométriose]({{< relref "endometriose.md" >}}), [IVG]({{< relref "interruption-volontaire-grossesse.md" >}}), GEU, chirurgies pelviennes ([appendicectomie]({{< relref "appendicite-aigue.md" >}}), myomectomie).
 - Antécédents masculins  
-  Fertilité antérieure, [cryptorchidie]({{< relref "cryptorchidie.md" >}}), [épididymite]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}), torsion du testicule, traumatisme testiculaire, [hernie inguinale]({{< relref "hernie-parietale.md" >}}) dans l'enfance, oreillons, infections génito-urinaires, [IST](/tags/ist/), chimiothérapie, expositions professionnelles (boulanger, cuisinier, pesticides, solvants, radiations, sauna, hammam).
+  Fertilité antérieure, [cryptorchidie]({{< relref "cryptorchidie.md" >}}), [épididymite]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}), torsion du testicule, traumatisme ou [cancer du testicule]({{< relref "cancer-testicule.md" >}}), [hernie inguinale]({{< relref "hernie-parietale.md" >}}) dans l'enfance, oreillons, infections génito-urinaires, [IST](/tags/ist/), chimiothérapie, expositions professionnelles (boulanger, cuisinier, pesticides, solvants, radiations, sauna, hammam).
 - Antécédents familiaux (consanguinité, hypofertilité, médicaments pendant la grossesse, thrombophilie, [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}), mucoviscidose)
 - Traitements en cours
 - Toxiques: [alcool]({{< relref "sevrage-alcool.md" >}}), [tabac]({{< relref "arret-tabac.md" >}}) (consommation, paquets-années), cannabis, autres

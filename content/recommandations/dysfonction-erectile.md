@@ -149,7 +149,7 @@ La persistance d'une capacité érectile résiduelle est un facteur de bon prono
 #### 5) Antécédents
 
 - Abdomino-pelviens  
-  Cancer du testicule, traumatisme, chirurgie herniaire, cryptorchidie, radiothérapie.
+  [Cancer du testicule]({{< relref "cancer-testicule.md" >}}), traumatisme, chirurgie herniaire, cryptorchidie, radiothérapie.
 - Diabète, maladies neurologiques ou endocriniennes
 - Facteurs de risque et maladies cardiovasculaires
 - Traitements en cours  
