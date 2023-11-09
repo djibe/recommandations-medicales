@@ -11,14 +11,14 @@ lastmod = "2023-11-02"
 specialites = ["gynecologie-obstetrique"]
 annees = "2023"
 sources = ["ESHRE"]
-tags = ["infertilite"]
+tags = ["contraception", "diabete", "HTA", "infertilite", "obesite", "risque cardiovasculaire"]
 anglais = ["Polycystic ovary syndrome (PCOS)"]
 sctid = "237055002"
 icd10 = "E28.2"
 draft = true
 image = false
 imageSrc = ""
-todo = ""
+todo = "descr > summary > liens > photo > newsletter, biblio, pulse"
 +++
 
 {{%article-summary%}}
@@ -29,8 +29,9 @@ TODO:
 {{%collapse "Définitions" %}}
 
 Syndrome des ovaires polykystiques (SOPK)
+: Le SOPK est une maladie gynéco-métabolique et associe: spanioménorrhée, hyperandrogénie (acné sévère, hirsutisme), ovaires polykystiques et insulinorésistance.
 : Pathologie féminine chronique parmi les plus fréquentes (prévalence 10-13 %) dont 70% des patientes ne sont pas diagnostiquées. Le SOPK est considéré comme acquis à vie.
-: Complications du syndrome des ovaires polykystiques: infertilité, métaboliques (**diabète** et [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}}) multipliés par 3) avec augmentation du risque cardiovasculaire et psychologiques.
+: Complications du syndrome des ovaires polykystiques: [infertilité]({{< relref "infertilite-couple.md" >}}), métaboliques (**diabète** et [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}}) multipliés par 3) avec augmentation du [risque cardiovasculaire](/tags/risque-cardiovasculaire/) et psychologiques.
 
 Cycles menstruels irréguliers
 : Définitions selon l'ESHRE 2023:
@@ -77,14 +78,14 @@ Signes modérés chez les caucasiennes.
   Obésité, tabac, dyslipidémie, HTA, inactivité physique.
 - Traitements en cours
 - Installation des symptômes
-- Troubles menstruels
+- **Troubles menstruels**
   - Âge des ménarches
   - Régularité des cycles
   - [Infertilité]({{< relref "infertilite-couple.md" >}})
   - Complications gestationnelles
-- Signes d'hyperandrogénie  
+- **Signes d'hyperandrogénie**  
   {{< clinique/hyperandrogenie >}}.
-- Métabolique et cardiovasculaire
+- **Métabolique et cardiovasculaire**
   - {{< modal-btn modal-metabolique >}}Syndrome métabolique{{< /modal-btn >}}
   - Surpoids ou obésité
   - Prédiabète et diabète type 2
@@ -92,7 +93,7 @@ Signes modérés chez les caucasiennes.
   - Evaluation du risque cardiovasculaire (SCORE2)
 - Image du corps
 - Dépister anxiété ({{< modal-btn modal-gad2 >}}questionnaire GAD-2{{< /modal-btn >}}) et dépression (les 2 avec le {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}})
-- Dépister un trouble du comportement alimentataire: {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}
+- Dépister un trouble du comportement alimentaire: {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}
 - Psychosexual dysfunction (Female sexual function Index)
 - Qualité de vie (TODO: PCOSQ)
 
@@ -150,22 +151,28 @@ Infertilité par anovulation isolée et autres examens normaux, évaluation indi
 Explorer avant une induction ovulatoire en cas de suspicion de pathologie tubaire.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du syndrome des ovaires polykystiques" %}}
 
-Hirsutisme: prise en charge spécifique
+Hirsutisme: prise en charge spécifique (esthétique, metformine, COP, anti-androgènes)
+
+Obésité: prise en charge spécifique, GLP-1 voire chirurgie bariatrique
 
 Correction des FRCV à détailler, alimentation pour la santé:
 
 - Surveillance glycémique (1-3 ans) et de la pression artérielle (annuelle)
-- Correction d'un surpoids
-- Régime méditerranéen
-- Arrêt tabac et alcool
-- Activité physique régulière  
-  Cible 150-300 minutes modérées, adolescent 1h par jour.
-- Sommeil
+- Mesures hygiéno-diététiques pour la correction du risque cardiovasculaire et l'insulinorésistance
+  - Correction d'un surpoids
+  - Régime méditerranéen
+  - Arrêt tabac et alcool
+  - Activité physique régulière  
+    Cible 150-300 minutes modérées, adolescent 1h par jour.
+  - Hygiène de sommeil
 - Soutien psychologique, santé émotionnelle et sexuelle
 - Dépistage métabolique de l'entourage
-- Grossesse: surveillance rapprochée
+- Grossesse: surveillance rapprochée spécialisée
+
+> Those with PCOS should be reassured that pregnancy can often be successfully
+achieved either naturally or with assistance.
 
 ### Traitement hormonal par contraceptions estroprogestative
 
@@ -177,7 +184,14 @@ Cycles > 90j: COP ou progestatif (prévention cancer de l'endomètre)
 
 ### Anti-androgènes
 
-En cas de recours impossible à la COP, recours aux anti-androgènes pour la prise en charge de l'hirsutisme et l'alopécie.
+Anti-androgènes pour la prise en charge de l'hirsutisme et l'alopécie:
+
+- Associée à la COP (si insuffisante à 6 mois)
+- Si COP mal tolérée
+
+Préférer spironolactone 25-100 mg/j.
+
+Information sur la tératogénicité.
 
 ### Metformine
 
@@ -186,8 +200,6 @@ Considérer la {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}} ch
 Envisager chez adolescente en surpoids.
 Considérer chez adolescente avec diagnostic de certitude ou en cours d'exploration.
 
-Titration
-
 ### Alopécie
 
 Considérer le recours aux anti-androgènes avec protection par une contraception efficace.
@@ -195,15 +207,25 @@ Considérer le recours aux anti-androgènes avec protection par une contraceptio
 {{% /collapse %}}
 {{%collapse "Infertilité" %}}
 
+Suivi spécialisé
+
 ### Inducteurs d'ovulation
 
-1re intention: létrozole, souvent hors AMM. Information complète des patientes.
+1re intention en l'absence d'autre facteur d'infertilité associé: létrozole. 
+
+Information complète des patientes.
 Éviter un traitement prolongé en cas d'inefficacité.
 
 Rechercher une grossesse avant de débuter le traitement.
 Risque moindre de grossesse gémellaire qu'avec le clomiphène.
 
 Autres: metformine, citrate de clomiphène
+
+#### Metformine et infertilité
+
+Pourrait être utilisée de façon exclusive en cas d'infertilité par anovulation isolée.  
+ou associée au clomiphène si patiente obèse.
+Informer que d'autres traitements sont plus efficaces.
 
 #### Citrate de clomiphène
 
@@ -214,12 +236,6 @@ En cas d'infertilité par anovulation isolée, le clomiphène:
 - Pourrait être associé à la metformine en cas de résistance au traitement
 
 Risque de grossesse multiple.
-
-#### Metformine et infertilité
-
-Pourrait être utilisé de façon exclusive en cas d'infertilité par anovulation isolée.  
-ou associée au clomiphène si patiente obèse.
-Informer que d'autres traitements sont plus efficaces.
 
 #### Autres traitements inducteurs
 
@@ -244,6 +260,12 @@ Gonadotrophines:
 
 - [ESHRE. International evidence-based guideline for the assessment and management of polycystic ovary syndrome - Summary. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Item 42 Aménorrhée Item 35 Anomalies du cycle menstruel Métrorragies. Gynécologie obstétrique Réussir son DFASM. 2021.
+
+### Bibliographie en attente
+
+- [Goodman NF et al. AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS, AMERICAN COLLEGE OF ENDOCRINOLOGY, AND ANDROGEN EXCESS AND PCOS SOCIETY DISEASE STATE CLINICAL REVIEW: GUIDE TO THE BEST PRACTICES IN THE EVALUATION AND TREATMENT OF POLYCYSTIC OVARY SYNDROME--PART 1. Endocr Pract. 2015.](https://linkinghub.elsevier.com/retrieve/pii/S1530-891X(20)35322-2)
+- [Barry JA et al. Risk of endometrial, ovarian and breast cancer in women with polycystic ovary syndrome: a systematic review and meta-analysis. Hum Reprod Update. 2014.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24688118/)
+- [Amsterdam ESHRE/ASRM-Sponsored 3rd PCOS Consensus Workshop Group. Consensus on women's health aspects of polycystic ovary syndrome (PCOS). Hum Reprod. 2012.](https://academic.oup.com/humrep/article-lookup/doi/10.1093/humrep/der396)
 
 {{%/sources%}}
 {{% modal title="Questionnaire GAD-2" id="modal-gad2"%}}

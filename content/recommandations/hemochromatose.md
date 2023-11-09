@@ -1,15 +1,15 @@
 +++
 title = "Hémochromatose génétique"
 prefix = "l'"
-description = "Recommandations pour le diagnostic et la prise en charge de l'hémochromatose. Bilan d'hyperferritinémie, coefficient de saturation, ferritine et saignées"
+description = "Recommandations pour le diagnostic et la prise en charge de l'hémochromatose génétique. Bilan hyperferritinémie, coefficient de saturation, ferritine, saignées"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-23T16:48:40+02:00"
 publishdate = "2023-07-03"
-lastmod = "2023-07-03"
+lastmod = "2023-11-07"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
-sources = ["AFEF", "CDU-HGE", "HAS"]
+sources = ["AFEF", "SNFGE", "HAS"]
 tags = ["diabete", "fatigue", "ferritine", "risque cardiovasculaire"]
 anglais = ["Hemochromatosis", "haemochromatosis"]
 sctid = "399187006"
@@ -80,13 +80,13 @@ HAS
 Les signes cliniques d'une surcharge en fer par hémochromatose génétique surviennent surtout chez le caucasien, vers 30-40 ans chez l'homme et 50-60 chez la femme et signent l'entrée au stade 3 de la maladie:
 
 - [Fatigue chronique](/tags/fatigue/)
-- Polyarthrite inflammatoire  
-  Articulations distales de la main (MCP ++), orteils, poignets, genou, épaule. Accès pseudo-goutteux possibles.
+- **Polyarthrite inflammatoire**  
+  Articulations distales de la main (atypiques comme MCP 2 et 3++), orteils, poignets, hanches (prothèse x 9), genou, épaule. Accès pseudo-goutteux possibles. Atteinte proche du [rhumatisme à pyrophosphate de calcium]({{< relref "rhumatisme-pyrophosphate-chondrocalcinose.md" >}}).
 - Signes tardifs d'hémochromatose
   - Cytolyse modérée prédominant sur les ALAT
   - Hépatomégalie avec risque de cirrhose
   - Endocrinopathies: [diabète](/tags/diabete/), hypogonadisme (dépilation, [alopécie]({{< relref "alopecie.md" >}}), perte de libido et **[impuissance]({{< relref "dysfonction-erectile.md" >}})** ou [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}))
-  - Ostéoporose avec fractures osseuses
+  - [Ostéoporose]({{< relref "osteoporose.md" >}}) avec fractures osseuses
   - Ongles blancs, plats, koïlonychie (ongles concaves)
   - La mélanodermie est exceptionnelle
 - Signes graves de stade 4
@@ -129,8 +129,9 @@ Bilan à jeun:
 - Ferritinémie
 - Glycémie à jeun
 - Bilan lipidique
+- Radiographies des articulations douloureuses
 
-> — *CDU-HGE* et *CEEDMM*
+> — *CDU-HGE*, *CEEDMM* et *COFER*
 
 En l'absence de poids d'appel, dosage du **coefficient de saturation de la transferrine (CST) à jeun**, recontrôlé si anormal.
 {{%/info%}}
@@ -239,8 +240,9 @@ graph TB
 - {{< references/college-gastro >}}
 - {{< references/college-endocrino >}}
 - {{< references/afef-foie-non-invasif >}}
+- [Collège Français des Enseignants en Rhumatologie (COFER). Pathologie du fer chez l'adulte et l'enfant. Item 219 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-24-0.php)
 - [Brissot P. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. SNFGE et AFEF. 2019. (PDF)](https://www.snfge.org/download/file/fid/4845)
-- [Pilling LC et al. Common conditions associated with hereditary haemochromatosis genetic variants: cohort study in UK Biobank [published correction appears in BMJ. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334179/)
+- [Pilling LC et al. Common conditions associated with hereditary haemochromatosis genetic variants: cohort study in UK Biobank. BMJ. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334179/)
 - [Brissot P et al. Haemochromatosis. Nat Rev Dis Primers. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7775623/)
 - [HAS. Hémochromatose liée au gène HFE (type 1). Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_592228/fr/ald-n17-actes-et-prestations-sur-hemochromatose-actualisation-juin-2012)
 - [HAS. Prise en charge de l'hémochromatose liée au gène HFE (hémochromatose de type 1). 2005.](https://www.has-sante.fr/jcms/c_432802/fr/prise-en-charge-de-l-hemochromatose-liee-au-gene-hfe-hemochromatose-de-type-1)
@@ -249,6 +251,5 @@ graph TB
 
 - [European Association for the Study of the Liver. EASL Clinical Practice Guidelines on haemochromatosis. J Hepatol. 2022.](https://www.journal-of-hepatology.eu/article/S0168-8278(22)00211-2/fulltext)
 - [Adams P et al. Therapeutic recommendations in HFE hemochromatosis for p.Cys282Tyr (C282Y/C282Y) homozygous genotype. Hepatol Int. 2018.](https://link.springer.com/article/10.1007/s12072-018-9855-0) ([VF (PDF)](https://www.hemochromatose.org/wp-content/uploads/2018/05/Recommandations-th%C3%A9rapeutiques-2018.pdf))
-- Prescrire
 
 {{%/sources%}}

@@ -54,6 +54,8 @@ La gamme de prix est très variable (de 33 à 650 €) et parmi les tensiomètre
 
 Le tensiomètre électronique n'a pas besoin de recalibration mais le contrôle des brassards doit être annuel. Le brassard est spécifique de chaque appareil.
 
+Autre bibliographie: [Ishigami J et al. Effects of Cuff Size on the Accuracy of Blood Pressure Readings: The Cuff(SZ) Randomized Crossover Trial. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/10.1001/jamainternmed.2023.3264)
+
 <script>
 window.addEventListener('load', () => {
   $(function () {

@@ -102,7 +102,7 @@ Diagnostic différentiel de douleurs neuropathiques selon la localisation de la 
   Unilatérale, systématisée (ex cruralgie).
 - Syndrome canalaire  
   [Névrome de Morton]({{< relref "nevrome-morton.md" >}}) ++
-- Canal lombaire étroit  
+- [Canal lombaire étroit ]({{< relref "canal-lombaire-etroit.md" >}}) 
   Généralement lombo-sacrée, uniquement à la marche et aggravée par celle-ci avec un périmètre réduit.
 - [Syndrome des jambes sans repos]({{< relref "syndrome-jambes-sans-repos.md" >}})
 - Insuffisance veineuse

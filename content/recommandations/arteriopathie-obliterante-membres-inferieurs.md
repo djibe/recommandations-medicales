@@ -217,7 +217,7 @@ L'*ESC* encourage la **mesure de l'index de pression systolique** (IPS) par tout
 - Claudication veineuse  
   ATCD de TVP. Après la marche, compression/serrement de tout le MI, soulagement rapide jambe surélevée.
 - Sciatalgie/cruralgie
-- Canal lombaire étroit  
+- [Canal lombaire étroit]({{< relref "canal-lombaire-etroit.md" >}})  
   Soulagement variable au repos, aggravé debout.
 - Kyste poplité  
   Antécédents arthrosique. Sensibilité, inconfort, œdème rétro-gonal ou du mollet, au repos et à l'exercice sans effet positionnel.

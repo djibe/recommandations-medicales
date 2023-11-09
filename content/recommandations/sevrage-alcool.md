@@ -8,10 +8,10 @@ synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
 publishdate = "2022-01-11"
-lastmod = "2023-06-23"
+lastmod = "2023-11-09"
 specialites = ["addictologie"]
 annees = "2023"
-sources = ["SFA", "AFEF", "HAS"]
+sources = ["HAS", "SFA", "AFEF"]
 tags = ["depistage", "grossesse"]
 anglais = ["Alcoholism", "alcohol use disorder (AUD)"]
 sctid = "7200002"
@@ -87,8 +87,14 @@ BZD
 CDT
 : Transferrine désialytée (très spécifique d'un TUA)
 
+CJC
+: consultations jeunes consommateurs (15-25 ans)
+
 CSAPA
-: Centres de soins, d'accompagnement et de prévention en addictologie (CSAPA)
+: Centres de soins, d'accompagnement et de prévention en addictologie
+
+ELSA
+: équipe de liaison et de soins en addictologie
 
 FACE
 : Formule pour Approcher la Consommation d'alcool par Entretien
@@ -354,7 +360,7 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
 - Favoriser le soutien de l'entourage  
   Envisager une séance de thérapie conjugale.
 - Ressources de soins
-  - Adresser d'emblée si mésusage très sévère, comorbidités, isolement/précarité, jeune (consultations *jeunes consommateurs*)
+  - Adresser d'emblée si mésusage très sévère, comorbidités, isolement/précarité, jeune (consultations *jeunes consommateurs CJC*)
   - Consultation d'addictologie
   - Centres de soins, d'accompagnement et de prévention en addictologie (CSAPA)
   - Équipe de liaison en addictologie
@@ -487,7 +493,7 @@ Le **suivi doit être au moins mensuel** et les traitements doivent être arrêt
   - 1/2 cp avec une surveillance d'1 heure. Puis prise de l'autre moitié et 1 cp/j pendant 3 mois (jusqu'à 6 mois si bénéfique et souhaité)
 {{%/info%}}
 
-Autre médicament pour le maintien de l'abstinence:
+##### Autres médicaments pour le maintien de l'abstinence
 
 [Disulfirame 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61500746&typedoc=R) (Espéral®):
 
@@ -495,6 +501,8 @@ Autre médicament pour le maintien de l'abstinence:
 - Indication: patient motivé souhaitant l'abstinence avec ce médicament. Nombreuses interactions et contre-indications
 - Après ≥ 24h de la dernière consommation: 1 cp/j
 - Suivi 2/mois 1 mois, puis 1/mois 4 mois puis 2/an
+
+Enfin le **topiramate** peut être introduit par un alcoologue (*AHRQ 2023*).
 
 {{%/collapse%}}
 {{%collapse "Objectif: Réduction d'une consommation" %}}
@@ -639,14 +647,17 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 {{< youtube id="OPs09amiMC0" title="Prise en charge de la maladie du foie liée à l'alcool (AFEF Medical Education)" >}}
 
+- [McPheeters M et al. Pharmacotherapy for Adults With Alcohol Use Disorder in Outpatient Settings: Systematic Review. Comparative Effectiveness Review No. 262. AHRQ Publication No. 23(24)-EHC011. Rockville, MD: Agency for Healthcare Research and Quality; November 2023.](https://effectivehealthcare.ahrq.gov/products/alcohol-use-disorders/research#field_report_title_1)
+- [HAS. Agir en premier recours pour diminuer le risque alcool. 2023.](https://www.has-sante.fr/jcms/p_3326877/fr/agir-en-premier-recours-pour-diminuer-le-risque-alcool-reperer-tous-les-usages-et-accompagner-chaque-personne)
 - [Quatremère G et al. Grossesse et alcool : évolution des connaissances et perceptions des Français entre 2004 et 2020. Bull Épidémiol Hebd. 2023.](http://beh.santepubliquefrance.fr/beh/2023/17/2023_17_1.html)
 - [SFA, ANPAA, EUFAS. Mésusage de l'alcool : dépistage, diagnostic et traitement. 2023. (PDF)](https://sfalcoologie.fr/wp-content/uploads/RECOS-SFA-Version-2023-2.pdf)
 - Prescrire Redaction. Alcoolodépendance : sevrage et maintien de l'abstinence. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Agabio R et al. Baclofen for alcohol use disorder. Cochrane Database of Systematic Reviews. 2023.](https://www.cochrane.org/CD012557/ADDICTN_baclofen-alcohol-use-disorder)
 - [SFA. Repères de consommation d'alcool à moindre risque : les abaisser chez les plus jeunes ?. 08/08/2022. (PDF)](http://www.sfalcoologie.asso.fr/download/2022-CP_alcool-SFA-2022_08_08.pdf)
-- [Angler R. et al. Dépassement des repères de consommation d'alcool à moindre risque en 2020 : résultats du Baromètre santé de Santé publique France. BEH. Novembre 2021.](http://beh.santepubliquefrance.fr/beh/2021/17/2021_17_1.html)
+- [Inserm. Réduction des dommages associés à la consommation d'alcool. Synthèses et recommandations. 2021.](https://www.inserm.fr/expertise-collective/reduction-dommages-associes-consommation-alcool/)
+- [Angler R et al. Dépassement des repères de consommation d'alcool à moindre risque en 2020 : résultats du Baromètre santé de Santé publique France. BEH. Novembre 2021.](http://beh.santepubliquefrance.fr/beh/2021/17/2021_17_1.html)
 - [ANSM. Alcoolo-dépendance : nouvelles recommandations posologiques pour le baclofène. 18/11/2021.](https://ansm.sante.fr/actualites/alcoolo-dependance-nouvelles-recommandations-posologiques-pour-le-baclofene)
-- [Louvet A. et al. Prise en charge de la maladie du foie liée à l'alcool. Recommandations de l'Association française pour l'étude du foie et de la Société française d'alcoologie. Janvier 2021.](https://afef.asso.fr/wp-content/uploads/2021/01/Recommandations-AFEF-SFA-sur-Prise-en-charge-de-la-maladie-du-foie-liee-a-lalcool.pdf)
+- [Louvet A et al. Prise en charge de la maladie du foie liée à l'alcool. Recommandations de l'Association française pour l'étude du foie et de la Société française d'alcoologie. Janvier 2021.](https://afef.asso.fr/wp-content/uploads/2021/01/Recommandations-AFEF-SFA-sur-Prise-en-charge-de-la-maladie-du-foie-liee-a-lalcool.pdf)
 - [HAS. Outil d'aide au repérage précoce et intervention brève : alcool, cannabis, tabac chez l'adulte. Janvier 2021.](https://www.has-sante.fr/jcms/c_1795221/fr/outil-d-aide-au-reperage-precoce-et-intervention-breve-alcool-cannabis-tabac-chez-l-adulte)
 - [HAS. Prévention des addictions et réduction des risques et des dommages par les centres de soins, d'accompagnement et de prévention en addictologie (CSAPA). 2019.](https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa)
 - [Addictions France. Les repères de consommation des boissons alcooliques. Novembre 2018. (PDF)](https://addictions-france.org/datafolder/uploads/2021/02/Fiche-Reperes-Reperes-alcool.pdf)
@@ -659,7 +670,6 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 - [RESPADD. Premiers gestes en alcoologie. 2023. (PDF)](https://mcusercontent.com/6e0fa86cb67b5d4a98c4d0019/files/d11a0a18-8acf-191a-b2f6-bd2852ba7667/Guide_Premiers_gestes_alcoologie_BAT5_.pdf)
 - [European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Management of alcohol-related liver disease. J Hepatol. 2018.](https://www.journal-of-hepatology.eu/article/S0168-8278(18)30214-9/fulltext)
-- [Inserm. Réduction des dommages associés à la consommation d'alcool. Synthèses et recommandations. 2021.](https://www.inserm.fr/expertise-collective/reduction-dommages-associes-consommation-alcool/)
 - [Fédération Française d'Addictologie](https://www.addictologie.org/)
 - [Société Française d'Alcoologie. Documents de référence.](http://www.sfalcoologie.asso.fr/page.php?choix=A10)
 - [Alcool Info Service Professionnels](https://www.alcool-info-service.fr/Alcool/Home-Professionnels/)

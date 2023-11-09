@@ -258,6 +258,10 @@ Les traitements privilégiés sont en **gras**. La réévaluation du traitement 
 - [Amatore F et al; Psoriasis Research Group of the French Society of Dermatology (Groupe de Recherche sur le Psoriasis de la Société Française de Dermatologie). French guidelines on the use of systemic treatments for moderate-to-severe psoriasis in adults. J Eur Acad Dermatol Venereol. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6593704/)
 - [Viguier M et al. Le psoriasis. Dermato-Info. 2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-psoriasis)
 
+### Bibliographie en attente
+
+[Collège Français des Enseignants en Rhumatologie (COFER). Psoriasis. Item 117 UE 5. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-6-0.php)
+
 {{%/sources%}}
 {{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}
 

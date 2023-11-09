@@ -38,7 +38,7 @@ Chapitre lié: [goutte et hyperuricémie]({{< relref "goutte.md" >}})
 Rhumatisme à pyrophosphate de calcium
 : ex Chondrocalcinose articulaire ou pseudogoutte
 : Arthropathie microcristalline à pyrophosphate de calcium (PPC) la plus souvent idiopathique. Le diagnostic est biologique avec la mise en évidence des cristaux sur ponction articulaire. Le tableau peut varier: crises suraiguës occasionnelles (le plus souvent), crises répétées ou atteinte chronique.
-: Une forme secondaire à une hémochromatose ou une hyperparathyroïdie primitive doit être recherchée. Deux autres causes plus rares sont possibles: hypophosphatasie congénitale et syndrome de Gitelman (magnésémie basse), recherchées sur un simple bilan biologique.
+: Une forme secondaire à une [hémochromatose]({{< relref "hemochromatose.md" >}}) ou une hyperparathyroïdie primitive doit être recherchée. Deux autres causes plus rares sont possibles: hypophosphatasie congénitale et syndrome de Gitelman (magnésémie basse), recherchées sur un simple bilan biologique.
 
 ### Abréviations
 
@@ -87,7 +87,7 @@ Bilan devant une monoarthrite évocatrice de rhumatisme à pyrophosphate de calc
 
 - NFS (hyperleucocytose) et CRP élevée possibles
 - Créatininémie
-- Uricémie (?)
+- Diagnostic différentiel: uricémie, ferritinémie
 - Radiographies de l'articulation avec comparatif
 {{%/info%}}
 
@@ -97,7 +97,7 @@ Le diagnostic de certitude nécessite une **ponction articulaire diagnostique** 
 
 En cas de diagnostic confirmé, le bilan étiologique (à distance) recherche une chondrocalcinose secondaire:
 
-- Ferritinémie (hémochromatose)
+- Ferritinémie ([hémochromatose]({{< relref "hemochromatose.md" >}}))
 - Calcémie (hyperparathyroïdie primitive)
 - Magnésémie (hypophosphatasie congénitale)
 - Phosphatases alcalines (PAL, syndrome de Gitelman)
@@ -152,6 +152,7 @@ Adresser au rhumatologue si: épaule douloureuse chronique avec calcifications o
 
 - [Cowley S, McCarthy G. Diagnosis and Treatment of Calcium Pyrophosphate Deposition (CPPD) Disease: A Review. Open Access Rheumatol. 2023.](https://pubmed.ncbi.nlm.nih.gov/36987530/)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-19-0.php)
+- [Collège Français des Enseignants en Rhumatologie (COFER). Pathologie du fer chez l'adulte et l'enfant. Item 219 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-24-0.php)
 - Prescrire Redaction. Diphosphonates : pseudo-gouttes. Rev Prescrire. 2014.
 - [Zhang W et al. EULAR recommendations for calcium pyrophosphate deposition. Part I: terminology and diagnosis. Ann Rheum Dis. 2011.](https://ard.bmj.com/content/70/4/563)
 - [Zhang W et al. EULAR recommendations for calcium pyrophosphate deposition. Part II: Management. Ann Rheum Dis. 2011.](https://ard.bmj.com/content/70/4/571)

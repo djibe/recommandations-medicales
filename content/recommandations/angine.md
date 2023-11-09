@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2023-10-27"
+lastmod = "2023-11-08"
 specialites = ["ORL", "pediatrie"]
 annees = "2022"
 sources = ["HAS", "SPILF"]
@@ -23,13 +23,13 @@ flowchart = true
 
 - Une angine est toujours virale avant 3 ans (et l'est pour 80% des cas ensuite)
 - Test de diagnostic rapide (TDR ou TROD) du streptocoque devant une angine érythémateuse ou érythémato-pultacée de 3 à 14 ans et score clinique de Mac Isaac au-delà
-- Traitement avec prise en charge par antibiotique en cas de TDR positif:
-  - Éviction scolaire les 48 premières heures suivant l'instauration de l'antibiothérapie (*CMIT 2021*)
+- Prise en charge de l'angine par traitement antibiotique en cas de TDR positif:
+  - Éviction scolaire les 48 premières heures suivant l'instauration de l'antibiothérapie (*CMIT 2023*)
   - Adulte: amoxicilline 1 g 2 fois par jour pendant 6 jours
   - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises/j pendant 6 jours
   - Antibiothérapie aussi indiquée pour l'angine de Vincent, la diphtérie, le gonocoque et le [chancre syphilitique]({{< relref "syphilis.md" >}})
 - La prise en charge de l'angine pédiatrique en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
-- Le Streptatest peut être réalisé par le pharmacien sans ordonnance à partir de 10 ans ou sur ordonnance conditionnelle: << si TROD angine positif, sous 7 jours calendaires >> (*[Arrêté du 13/12/21](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044483134)*)
+- Le Streptatest peut être réalisé par le pharmacien sans ordonnance à partir de 3 ans ou sur ordonnance conditionnelle: << si TROD angine positif, sous 7 jours calendaires >> (*[Arrêté du 13/12/21](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044483134)* et [31/10/23](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048368290))
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -162,7 +162,7 @@ Prise en charge de l'angine:
 
 Une angine streptococcique est le plus souvent favorable en 3-4 jours.
 
-Indication à une prise en charge de l'angine par antibiotique: angine chez les +3 ans avec TDR positif.
+**Seule indication à une prise en charge de l'angine par antibiotique:** angine chez les +3 ans avec TDR positif.
 
 #### Antibiothérapie de l'angine chez l'adulte
 
@@ -256,11 +256,11 @@ accTitle: Prise en charge de l'angine selon le tableau clinique d'après SPILF/H
 {{% /collapse %}}
 {{%sources%}}
 
+- [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)
 - [GPIP, SFP, AFPA, SPILF. Conduite à tenir autour d'un cas d'infection invasive à Streptocoque du Groupe A. 2022. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/communiques/conduite-a-tenir-cas-contact-infections-invasives-a-sgadef.pdf)
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
 - [Cohen J, Cohen R; SFP. Angine. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
 - [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'enfant. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/fiche_memo_rhinopharyngite_angine_enfant_durees_antibiotherapies.pdf)
-- [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Angines. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/angines)
 - {{< references/spilf-2020 >}}
 - [Lescanne E et al. Amygdalectomie de l'enfant Actualisation 2020 de la recommandation SFORL & CFC. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2021/11/Recommandation-SFORL-Amygdalectomie_2021.pdf)
