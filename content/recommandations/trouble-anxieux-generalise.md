@@ -66,7 +66,7 @@ TCC
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques du trouble anxieux généralisé" %}}
 
-### Critères diagnostiques DSM-5 du du trouble anxieux généralisé (TAG)
+### Critères diagnostiques DSM-5 du trouble anxieux généralisé (TAG)
 
 Trouble anxieux généralisé selon le DSM-5 si tous les critères sont remplis:
 

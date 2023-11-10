@@ -188,7 +188,7 @@ TSH de 0,1 à 0,4 mUI/L: TSH puis T4L ± T3L << en cascade >> à 6 semaines puis
 
 - TSH normale: euthyroïdie (sauf T4L élevée: avis spécialisé pour suspicion d'hyperthyroïdie centrale)
 - TSH basse
-  - Thyroïde douloureuse: thyroïdite subaiguë de De Quervain probable
+  - Thyroïde douloureuse: thyroïdite subaiguë de *De Quervain* probable
   - T4L élevée: hyperthyroïdie avérée
   - T4L normale et T3L augmentée: hyperthyroïdie à T3L
   - T4L et T3L normales: hyperthyroïdie fruste ou autre cause de TSH basse (voir *[chapitre dédié](#prise-en-charge-de-lhyperthyroïdie-fruste-b)*)

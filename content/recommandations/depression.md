@@ -5,19 +5,19 @@ description = "TODO:"
 synonyms = ["Syndrome dépressif", "épisode dépressif caractérisé"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-14T20:15:23+02:00"
-publishdate = "2023-05-14"
-lastmod = "2023-05-14"
+publishdate = "2023-11-09"
+lastmod = "2023-11-09"
 specialites = ["psychiatrie"]
 annees = "2023"
 sources = ["ACP"]
-tags = ["depression"]
+tags = ["BPCO", "cancer", "demence", "depistage", "depression", "diabete", "douleur", "fatigue", "geriatrie", "grossesse", "obesite"]
 anglais = ["Depression", "major depressive disorder (MDD)"]
 sctid = "35489007"
 icd10 = "F32.9"
 draft = true
 image = false
 imageSrc = ""
-todo = "MonParcoursPsy, quest ASQ, https://pharmacologie.sfpeada.fr/, https://onlinelibrary.wiley.com/doi/10.1002/wps.21069, https://www.bmj.com/content/380/bmj-2022-070678##, Antidépresseurs à éviter: cita + escita, venlafaxine, duloxetine, agomelatine, trianeptine, Eviter (es)-citalopram. Risque mort subite si couplé (éso)-méprazole, https://dumas.ccsd.cnrs.fr/dumas-01599531/document; https://www.psychopharma.fr/switch"
+todo = "descr > summary > liens > photo > newsletter, quest ASQ, https://pharmacologie.sfpeada.fr/, https://onlinelibrary.wiley.com/doi/10.1002/wps.21069, https://www.bmj.com/content/380/bmj-2022-070678##, Antidépresseurs à éviter: cita + escita, venlafaxine, duloxetine, agomelatine, trianeptine. Risque mort subite si couplé (éso)-méprazole, https://dumas.ccsd.cnrs.fr/dumas-01599531/document"
 +++
 
 {{%article-summary%}}
@@ -39,14 +39,90 @@ Trouble dépressif récurrent
 
 ### Épidémiologie de la dépression en France
 
+TODO:
+
 ### Abréviations
 
 ACP
 : {{%lang%}}American College of Physicians{{%/lang%}}
+
+EDC
+: épisode dépressif caractérisé
+
+GDS
+: {{%lang%}}Geriatric Depression Scale{{%/lang%}} (échelle de dépression gériatrique)
+
+HADS
+: {{%lang%}}Hospital and Anxiety Depression Scale{{%/lang%}}
+
+HAS
+: Haute Autorité de Santé
+
+HDRS
+: {{%lang%}}Hamilton Depression Rating Scale{{%/lang%}} (échelle de dépression de Hamilton)
+
+IRSNA
+: inhibiteurs de la recapture de la sérotonine et de la noradrénaline (ou IRSN)
+
+ISRS
+: antidépresseur inhibiteur sélectif de la recapture de la sérotonine (ou IRS)
+
+MADRS
+: {{%lang%}}Montgomery and Asberg Depression Rating Scale{{%/lang%}} (échelle de dépression de Montgomery and Asberg)
+
+PHQ
+: {{%lang%}}Patient Health Questionnaire{{%/lang%}}
+
+TCC
+: thérapie cognitivo-comportementale
 {.dl-inline}
 
 {{% /collapse %}}
+{{%collapse "Critères diagnostiques de l'épisode dépressif caractérisé" %}}
+
+### Critères diagnostiques DSM-5 
+
+TODO: selon le DSM-5 si tous les critères sont remplis:
+
+1. 
+
+### Critères diagnostiques CIM-11 de la dépression
+
+TODO:
+: 
+
+> – [Classification Internationale des Maladies 11e version (CIM-11)](https://icd.who.int/browse11/l-m/fr#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f1712535455)
+
+### Critères diagnostiques CIM-10 de l'épisode dépressif
+
+1. L'épisode présente une durée d'au moins 2 semaines
+2. Le sujet présente au moins deux des trois symptômes principaux suivants:
+    1. humeur dépressive à un degré nettement anormal pour le sujet, présente pratiquement toute la journée et presque tous les jours, dans une large mesure non influencée par les circonstances, et persistant pendant au moins 2 semaines
+    2. diminution marquée de l'intérêt ou du plaisir pour des activités habituellement agréables
+    3. réduction de l'énergie ou augmentation de la fatigabilité
+3. Présence d'au moins deux des symptômes suivants:
+   1. perte de la confiance en soi ou de l'estime de soi
+   2. sentiments injustifiés de culpabilité ou culpabilité excessive et inappropriée
+   3. pensées récurrentes de mort ou idées suicidaires récurrentes, ou comportement suicidaire de n'importe quel type
+   4. diminution de l'aptitude à penser ou à se concentrer (signalée par le sujet ou observées par les autres), se manifestant, par exemple, par une indécision ou des hésitations
+   5. modification de l'activité psychomotrice, caractérisée par une agitation ou un ralentissement (signalés ou observés)
+   6. perturbation du sommeil de n'importe quel type
+   7. modification de l'appétit (diminution ou augmentation) avec variation pondérale correspondante
+{.liste-lettres}
+
+Éléments importants:
+
+- Être attentif aux expressions somatiques (douleurs, plaintes diverses) et aux troubles de la sexualité
+- Le deuil n'est pas un EDC mais peut le devenir
+- Diagnostic difficile chez le sujet âgé avec des troubles somatiques et cognitifs au premier plan
+
+> – [Classification Internationale des Maladies 10e version (CIM-10)](https://icd.who.int/browse10/2008/fr#/F32)
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
+
+Dépister la dépression chez l'adulte (grossesse, post-partum ++ – *USPTF 2023*) et devant tout trouble cognitif (*HAS 2017*)
+{.alert .alert-info}
 
 Le premier épisode dépressif peut survenir à tout âge mais il survient plus souvent chez l'adulte jeune (25 ans).
 
@@ -57,6 +133,9 @@ Le premier épisode dépressif peut survenir à tout âge mais il survient plus 
 - Environnement socio-professionnel
 - Comorbidités
   - Dépistage d'une anxiété (75%): échelle GAD-7
+- Sujet âgé: rechercher 
+
+> << Le diagnostic de l'épisode dépressif caractérisé est clinique >> – *HAS 2017*
 
 ### Particularités de la dépression chez l'adolescent
 
@@ -83,11 +162,15 @@ Cotation TODO:
 {{% /collapse %}}
 {{%collapse "Traitement de la dépression de l'adulte" %}}
 
+Pour le remboursement (rare) de la prise en charge de la psychothérapie, voir [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}).
+
 ### Traitement de la phase aiguë
 
 - Légère: psychothérapie TCC
 - Modérée à sévère: psychologique TCC ou antidépresseur de 2e génération (suggère les 2)
   - Si insuffisant: essayer ou cumuler l'autre traitement, substituer par un autre antidépresseur ou ajouter un 2e traitement médicamenteux
+
+{{< card-link-external title="Switch des antidépresseurs" url="https://www.psychopharma.fr/switch" subtitle="par Psychopharma" >}}
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
@@ -99,14 +182,14 @@ Cotation TODO:
 {{% /collapse %}}
 {{%sources%}}
 
-- [Qaseem A et al. Nonpharmacologic and Pharmacologic Treatments of Adults in the Acute Phase of Major Depressive Disorder: A Living Clinical Guideline From the American College of Physicians. Ann Intern Med. 2023.](https://www.acpjournals.org/doi/full/10.7326/M22-2056?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)
+- [US Preventive Services Task Force, Barry MJ et al. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2023.9297)
+- [HAS. Épisode dépressif caractérisé de l'adulte : prise en charge en soins de premier recours. 2017.](https://www.has-sante.fr/jcms/p_3261767/fr/depression)
 
 ### Bibliographie en attente
 
-- MonParcoursPsy
+- [Qaseem A et al. Nonpharmacologic and Pharmacologic Treatments of Adults in the Acute Phase of Major Depressive Disorder: A Living Clinical Guideline From the American College of Physicians. Ann Intern Med. 2023.](https://www.acpjournals.org/doi/full/10.7326/M22-2056?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)
 - Collège National Universitaire de Psychiatrie (CNUP). Troubles de l'humeur Épisode dépressif caractérisé et trouble dépressif récurrent de l'adolescent et de l'adulte. 2021.
 - [HAS. Dépression](https://www.has-sante.fr/jcms/p_3261767/fr/depression)
-- [US Preventive Services Task Force, Barry MJ et al. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2023.9297)
 - [US Preventive Services Task Force. Screening for Depression and Suicide Risk in Children and Adolescents: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2797145)
 - Antidépresseurs pendant la Grossesse et neurodéveloppement: <https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2797101>
 - [Binder P et al. Detection of adolescent suicidality in primary care: an international utility study of the bullying-insomnia-tobacco-stress test. Early Interv Psychiatry. 2020.](https://pubmed.ncbi.nlm.nih.gov/31058453/)
@@ -145,4 +228,4 @@ Cotation TODO:
 
 {{% /modal %}}
 
-≤≥±®æœŒÈ³ÂSpO<sub>2</sub>
+≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–

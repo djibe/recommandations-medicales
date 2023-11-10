@@ -27,7 +27,7 @@ todo = "flow"
 - Le bilan comporte une IRM lombaire pour étudier l'atteinte foraminale et étiologique
 - La prise en charge du canal lombaire étroit est spécialisée (rhumatologue, neurologue) et associe rééducation de délordose et antalgie
 - La chirurgie du canal lombaire étroit est possible en cas de douleurs résistantes ou de déficit neurologique invalidant
-- Le tableau gravissime et rare est le syndrome de la queue de de cheval avec compression brutale déficitaire qui est une urgence chirurgicale
+- Le tableau gravissime et rare est le syndrome de la queue de cheval avec compression brutale déficitaire qui est une urgence chirurgicale
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

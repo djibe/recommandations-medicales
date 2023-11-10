@@ -25,7 +25,7 @@ todo = "weeks of gestation = SA ou SG ?"
 - La pré-éclampsie (PE) est une urgence diagnostique et thérapeutique
 - Rechercher des signes de gravité et de sévérité devant faire appeler le SAMU
 - La prévention de la pré-éclampsie passe par la surveillance de la pression artérielle et de la bandelette urinaire à chaque consultation de grossesse  
-  Si antécédent de prééclampsie: aspirine faible dose de 12 à 35 semaines d'aménorrhée et recherche d'un syndrome des anticorps anti-phospholipides (SAPL) en cas de de PE précoce ou sévère
+  Si antécédent de prééclampsie: aspirine faible dose de 12 à 35 semaines d'aménorrhée et recherche d'un syndrome des anticorps anti-phospholipides (SAPL) en cas de PE précoce ou sévère
 
 Chapitre liés: [grossesse]({{< relref "grossesse.md" >}}), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
 
@@ -181,7 +181,7 @@ Pré-éclampsie avec au moins un critère de sévérité parmi:
 
 La prévention de la pré-éclampsie par **aspirine faible dose** de 12 à 35 semaines d'aménorrhée (SA) est indiquée en cas d'antécédent de prééclampsie (81 mg/j selon *USPTF*).
 
-Rechercher un **syndrome des anticorps anti-phospholipides** (SAPL) en cas de de pré-éclampsie précoce ou sévère.
+Rechercher un **syndrome des anticorps anti-phospholipides** (SAPL) en cas de pré-éclampsie précoce ou sévère.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la pré-éclampsie" %}}

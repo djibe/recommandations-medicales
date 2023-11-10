@@ -155,7 +155,7 @@ TZD
   - 1,28 milliard d'hypertendus (150 millions en Europe)
   - Prévalence: 1/3 des adultes
   - Décès: 10 millions chaque année
-  - Malgré les progrès thérapeutiques, l'espérance de vie corrigée de l'incapacité a augmenté seulement de de 40% depuis 1990
+  - Malgré les progrès thérapeutiques, l'espérance de vie corrigée de l'incapacité a augmenté seulement de 40% depuis 1990
 - Morbidité
   - Chaque élévation de 20 mmHg de systolique double le risque d'AVC ou de décès coronarien
 

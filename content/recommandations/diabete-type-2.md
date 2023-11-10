@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2023-10-30"
+lastmod = "2023-11-10"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["ESC", "ESH", "ADA", "EASD", "SFD", "KDIGO", "HAS"]
@@ -112,7 +112,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
   - Bithérapie d'emblée {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}  
   {{%class%}}Considérer si albuminurie sans hypertension.{{%/class%}}
 - Définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}} (avec le {{< scores/score2-diabetes >}} en prévention primaire chez le 40-69 ans) ...
-- Afin de déterminer le LDL cible (souvent < 0,7 g/L par {{< modal-btn modal-statine-intensite >}}statine de haute intensité{{< /modal-btn >}}
+- Afin de déterminer le LDL cible (souvent < 0,7 g/L) par {{< modal-btn modal-statine-intensite >}}statine de haute intensité{{< /modal-btn >}}
 - Activité physique
   - **Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée, 75 si intense). Renforcement musculaire 3 j/sem. Commencer par 10 min de marche/j autre objectif *SMART*.
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette 3 j/sem
@@ -325,7 +325,7 @@ window.addEventListener('load', () => {
 {{< table title="Rythme de dépistage des complications du diabète. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
 | Appareil     | Soins                                                                                            | Source                   |
 |--------------|--------------------------------------------------------------------------------------------------|--------------------------|
-| [AAA]({{< relref "anevrysme-aorte-abdominale.md" >}}) | Échographie si homme 65-75 ans et tabac (sevré < 20 ans) ou 50-75 ans avec ATCD familial AAA 1<sup>er</sup> degré | ESC 2014 aortic |
+| [AAA]({{< relref "anevrysme-aorte-abdominale.md" >}}) | Échographie si homme 65-75 ans et tabac ou ATCD familial AAA 1<sup>er</sup> degré, AOMI | ACC/AHA 2022 |
 | AINS         | Éviter toute prise                                                                               | Communiqué ESC 2022      |
 | AOD (rivaroxaban) | Aspirine + AOD à considérer si coronaropathie stable ou AOMI/artériopathie et risque hémorragique faible | ADA 2023    |
 | [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) | Symptômes + pouls + cutané et/ou IPS réguliers.  IPS si ulcération<br>Symptômes + pouls annuels, IPS au diagnostic puis /5-10 ans | ESC 2023 diabetes<br>ESC 2019 diabetes |

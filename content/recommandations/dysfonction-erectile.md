@@ -277,7 +277,7 @@ Un accompagnement par psycho-sexothérapie est possible en parallèle de la pres
 
 Bilan de la partenaire si problématique chez la partenaire suspectée.
 
-Diagnostic de dépression au cours du bilan de DE avec le généraliste:
+Diagnostic de dépression au cours du bilan de dysfonction érectile avec le généraliste:
 
 - Syndrome dépressif sévère apparu avant la DE  
   Traitement de la dépression uniquement

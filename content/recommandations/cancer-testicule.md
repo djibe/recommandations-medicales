@@ -15,7 +15,6 @@ tags = ["cancer", "depistage", "infertilite"]
 anglais = ["Testicular cancer (TC)"]
 sctid = "363449006"
 icd10 = "C62.9"
-draft = true
 image = true
 imageSrc = "Masse hétérogène hypoéchogène du testicule gauche. Cancer du testicule de type séminome. Cas de Andrew Dixon, Radiopaedia.org, rID: 9886"
 todo = "flow"

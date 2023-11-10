@@ -116,11 +116,12 @@ Risque moyen
 Risque élevé
 : 4 groupes à risque élevé de cancer colorectal:
     1. Antécédent personnel de cancer colorectal ou d'adénome
-    2. Antécédent familial de cancer colorectal ou d'adénome ≥ 10 mm chez 1 parent au 1<sup>er</sup> degré avant 65 ans ou chez ≥ 2 parents au 1<sup>er</sup> degré à tout âge
+    2. Antécédent familial de cancer colorectal ou d'adénome ≥ 10 mm chez 1 parent au 1<sup>er</sup> degré avant 65 ans ou chez ≥ 2 parents au 1<sup>er</sup> degré à tout âge  
+      Tous les 5 ans à partir de 45 ans ou 10 ans avant l'âge de diagnostic du cas index (*SFED 2021*)
     3. Maladie inflammatoire chronique de l'intestin  
       {{%class%}}Maladie de Crohn ou rectocolite hémorragique.{{%/class%}}
     4. [Acromégalie]({{< relref "acromegalie.md" >}})
-: Dépistage: surveillance gastro-entérologique et coloscopique (pour le rythme, voir *Dépistage et suivi*).
+: Dépistage: surveillance gastro-entérologique et coloscopique (voir *Dépistage et suivi*).
 
 Risque très élevé = prédisposition génétique au cancer colorectal
 :  - Polyposes adénomateuses familiales (PAF par mutation APC ou MYH)
