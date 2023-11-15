@@ -1,6 +1,7 @@
 <div class="mt-4" id="score-had">
-  <p>Échelle <dfn><abbr title="Hospital Anxiety and Depression scale" lang="en">HAD</abbr></dfn> (<span lang="en">Hospital Anxiety and Depression scale</span>) pour le dépistage des
+  <p>Échelle <dfn><abbr title="Hospital Anxiety and Depression Scale" lang="en">HADS</abbr></dfn> (<span lang="en">Hospital Anxiety and Depression Scale</span>) pour le dépistage des
     troubles anxieux et dépressifs en 14 questions.</p>
+  <p>Intérêt notamment en cas de comorbidités somatiques.</p>
   <fieldset>
     <legend>1. Je me sens tendu(e) ou énervé(e)</legend>
     <input type="radio" id="had-11" name="radio-had-1" class="anxiete d-input-none" value="3" required>
@@ -157,7 +158,7 @@
   </fieldset>
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center">
-      <p class="typography-overline score-output-title">Score HAD</p>
+      <p class="typography-overline score-output-title">Score HADS</p>
       <output class="score-output" id="hadScore">0</output>
     </div>
     <p id="hadText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
@@ -168,7 +169,7 @@
     <a href="https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil__echelle_had.pdf" rel="external nofollow noopener">traduction française JF Lépine</a></p>
 </blockquote>
 {{ $script := `
-  // Score HAD FR by djibe
+  // Score HADS FR by djibe
   window.addEventListener( 'load', event => {
     const scoreHad = document.getElementById('hadScore')
     const textHad = document.getElementById('hadText');

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2023-11-10"
+lastmod = "2023-11-14"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["ESC", "ESH", "ADA", "EASD", "SFD", "KDIGO", "HAS"]
@@ -332,7 +332,7 @@ window.addEventListener('load', () => {
 | Aspirine prev primaire | 75-100 mg/j pourrait être considéré (sauf CI)<br>75-160 mg/j envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} ou {{< modal-btn modal-coronaire-diabete >}}coronaire{{< /modal-btn >}} sans risque de saignement | ESC 2023<br>ADA 2023, ESC 2021 |
 | Aspirine prev secondaire | 75-100 mg/j si coronarien ou revascularisation<br>75-160 mg/j ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ESC 2023 diabetes<br>ADA 2023, ESC 2019 diabetes |
 | [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) | Femmes à haut risque: éducation, correction des FRCV  | ESC 2023 diabetes        |
-| Boulimie et TCA | {{< modal-btn modal-scoff >}}Questionnaire SCOFF{{< /modal-btn >}} pour le dépistage       | HAS 2019                 |
+| Boulimie et TCA | {{< modal-btn modal-scoff >}}Questionnaire SCOFF{{< /modal-btn >}} pour le dépistage          | HAS 2019                 |
 | [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) | - Diabète < 12 mois: ≥ 50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>- Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
 | Cardiologue  | Suivi annuel                                                                                     | HAS 2014                 |
 | Chirurgie bariatrique | -65 ans avec IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH OU IMC ≥ 30 en dernier recours | HAS 2022 et 2009 obésité |
@@ -343,18 +343,19 @@ window.addEventListener('load', () => {
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
 | [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) | Tout âge: dépistage opportuniste par pouls/ECG. +75 ans: ECG systématique à considérer | ESC 2023 diabetes |
 | [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) | Mesure avec brassard adapté tous les 1 à 3 ans | ESC/ESH 2021     |
-| [Incontinence urinaire]({{< relref "incontinence-urinaire-femme.md" >}}) | Dépistage à l'interrogatoire         | Anaes 2003             |
+| [Incontinence urinaire]({{< relref "incontinence-urinaire-femme.md" >}}) | Dépistage à l'interrogatoire         | Anaes 2003               |
 | [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | Dépistage systématique des symptômes et signes et (NT-pro)BNP si suspicion<br>(NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ESC 2023 diabetes<br>ADA 2022 |
-| [Stéatopathie métabolique]({{< relref "steatose-hepatique-et-nash.md" >}}) | Dépistage par échographie abdominale | AFEF 2020 |
+| [Stéatopathie métabolique]({{< relref "steatose-hepatique-et-nash.md" >}}) | Dépistage par échographie abdominale | AFEF 2020              |
 | [Stéatohépatite]({{< relref "steatose-hepatique-et-nash.md" >}}) (NASH) | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} tous les 2 ans | AFEF 2020 |
 | [Néphropathie]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie et rapport albuminurie/créatininurie annuels | ADA et HAS 2023 |
 | Neuropathie  | Dépistage annuel: {{< modal-btn modal-monofilament >}}monofilament{{< /modal-btn >}} et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}), sécheresse cutanée | ADA 2023, HAS 2020 et ESC 2019 diabetes |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | ADA 2023, SFD 2016       |
 | Score calcique | Pas d'argument pour l'utiliser pour la classification du RCV<br>{{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± test d'effort | ESC 2023 diabetes<br>SFD 2021 CAD |
+| [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) | Envisager le dépistage chez la femme          | ESHRE 2023               |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
-| [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) | Étayer si: syndrome plurimétabolique, diabète déséquilibré sans cause évidente, symptômes | PNDS Cushing 2022        |
+| [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) | Étayer si: syndrome plurimétabolique, diabète déséquilibré sans cause évidente, symptômes | PNDS Cushing 2022 |
 | [Vaccins]({{< relref "vaccination.md" >}}) | Covid-19, [grippe]({{< relref "grippe.md" >}}), {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
-| Vitamine B12 | Si metformine: dosage après 4 ans de traitement<br>Surveillance régulière et correction           | KDIGO 2022 diabetes<br>ADA/EASD 2022 |
+| Vitamine B12 | Si metformine: dosage après 4 ans de traitement<br>Surveillance régulière et correction          | KDIGO 2022 diabetes<br>ADA/EASD 2022 |
 {{< /table >}}
 
 > **AAA** = anévrysme de l'aorte abdominale ; **MRC** = maladie rénale chronique ; **aspirine:** IPP si risque élevé de saignement digestif ;  

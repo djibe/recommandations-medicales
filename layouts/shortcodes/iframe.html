@@ -3,8 +3,8 @@
     class="border-0 w-100"
     src="{{ .Get "url" }}"
     allowfullscreen
-    height="600"
+    height="{{ with .Get "height" }}{{ . }}{{ else }}600{{ end }}"
     loading="lazy"
-    title="{{ if .Get "title" }}{{ .Get "title" }}{{ else }}Description manquante{{ end }}"
+    title="{{ with .Get "title" }}{{ . }}{{ else }}Description manquante{{ end }}"
   ></iframe>
 </div>

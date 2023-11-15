@@ -235,7 +235,7 @@ Signes et symptômes du syndrome des jambes sans repos à rechercher:
   Absente (légère à modérée) malgré le temps de sommeil moindre = **caractéristique du SJSR**.
 - Qualité de vie
 - Activités quotidiennes
-- Troubles de l'attention, {{< modal-btn modal-had >}}dépression, anxiété (échelle HAD){{< /modal-btn >}}  
+- Troubles de l'attention, {{< modal-btn modal-hads >}}dépression, anxiété (échelle HAD){{< /modal-btn >}}  
   Principaux marqueurs de l'insomnie.
 - Conséquences sociales, professionnelles/scolaires
 
@@ -375,7 +375,7 @@ La prise en charge du syndrome des jambes sans repos associe:
 6. Traitement spécifique
     - Réservé au médecin du sommeil
     - Indications: SJS modéré à très sévère ({{< modal-btn modal-score-irls >}}score IRLS{{< /modal-btn >}} ≥ 11) ou impactant la qualité de vie malgré les mesures ci-dessus
-7. Réévaluer {{< modal-btn modal-had >}}dépression et anxiété (échelle HAD){{< /modal-btn >}}
+7. Réévaluer {{< modal-btn modal-hads >}}dépression et anxiété (échelle HAD){{< /modal-btn >}}
 
 {{%info%}}
 
@@ -493,8 +493,8 @@ graph TB
 {{< scores/irls >}}
 
 {{% /modal %}}
-{{% modal title="Score HAD" id="modal-had"%}}
+{{% modal title="Score HADS" id="modal-hads"%}}
 
-{{< scores/had >}}
+{{< scores/hads >}}
 
 {{% /modal %}}

@@ -200,7 +200,7 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
   Familiaux, [coronaropathie]({{< relref "syndrome-coronarien-chronique.md" >}}), [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), [phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), autres douleurs ...
 - Alcool, tabac
 - Risques de chronicisation
-  - Rechercher un syndrome anxieux/dépressif ({{< modal-btn modal-had >}}échelle HAD{{< /modal-btn >}})
+  - Rechercher un syndrome anxieux/dépressif ({{< modal-btn modal-hads >}}échelle HAD{{< /modal-btn >}})
   - Abus médicamenteux ++
   - Terrain cardiovasculaire et respiratoire (asthme, hypertension artérielle)
   - Troubles du sommeil (ronflement, insomnie)
@@ -467,7 +467,7 @@ Autres traitements de fond antimigraineux pouvant être proposés en migraine é
 {{% /collapse %}}
 {{%collapse "Suivi et critères de contrôle d'une migraine" %}}
 
-Trois éléments de suivi: Agenda migraineux, {{< modal-btn modal-hit6 >}}qualité de vie HIT-6{{< /modal-btn >}} et {{< modal-btn modal-had >}}retentissement HAD{{< /modal-btn >}}.
+Trois éléments de suivi: Agenda migraineux, {{< modal-btn modal-hit6 >}}qualité de vie HIT-6{{< /modal-btn >}} et {{< modal-btn modal-hads >}}retentissement HAD{{< /modal-btn >}}.
 
 - Traitement de la crise pris dans l'heure est efficace sur tous les critères (ou {{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}}):
     1. Soulagement significatif de la céphalée à H2
@@ -586,9 +586,9 @@ graph TB
 - [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf) (p.29)
 
 {{%/sources%}}
-{{% modal title="Score HAD" id="modal-had"%}}
+{{% modal title="Score HADS" id="modal-hads"%}}
 
-{{< scores/had >}}
+{{< scores/hads >}}
 
 {{% /modal %}}
 {{% modal title="Score HIT-6" id="modal-hit6"%}}

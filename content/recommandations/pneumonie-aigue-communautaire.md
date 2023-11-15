@@ -162,7 +162,7 @@ Radiographie thoracique de face systématique (contrôle à 1 mois chez l'enfant
 Autres bilans ambulatoires de la pneumopathie infectieuse:
 
 - Pas d'examens biologiques en ambulatoire (*CEP*) mais proposer une **sérologie VIH**
-- Si suspicion de pneumopathie à bactérie atypique bien tolérée: PCR naso-pharyngée *Mycoplasma pneumoniae*, *Chlamydophila pneumoniae* + sérologie *M. pneumoniae*
+- Si suspicion de pneumopathie à bactérie atypique bien tolérée: PCR naso-pharyngée *Mycoplasma pneumoniae*, *Chlamydophila pneumoniae* (147€ non remboursés) + sérologie *M. pneumoniae*
 - Le scanner thoracique est un examen de seconde intention devant un cas ou une évolution atypique
 - Électrophorèse des protéines sériques chez le sujet jeune avec germe encapsulé (pneumocoque, *H. influenzae* - *CEP*)  
   Recherche une hypogammaglobulinémie.

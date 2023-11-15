@@ -5,7 +5,7 @@ longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-06T10:21:00+02:00"
 publishdate = "2023-07-06"
-lastmod = "2023-07-06"
+lastmod = "2023-11-14"
 specialites = []
 annees = "2023"
 sources = []
@@ -39,9 +39,10 @@ Les résultats aux ECNi 2023 publiés par le CNG étant disponibles uniquement e
 </thead>
 </table>
 
-## Source
+## Sources
 
-[CNG. Etudiants ECN : Publication des résultats 2023. 28/06/2023.](https://www.cng.sante.fr/actualites/etudiants-ecn-publication-resultats-2023)
+- [Journal Officiel. Arrêté du 7 juillet 2023 fixant par rang de classement la liste des étudiants et des internes de médecine ayant satisfait aux épreuves classantes nationales anonymes donnant accès au troisième cycle des études de médecine organisées au titre de l'année universitaire 2023-2024. 21/07/2023.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047867676)
+- [CNG. Etudiants ECN : Publication des résultats 2023. 28/06/2023.](https://www.cng.sante.fr/actualites/etudiants-ecn-publication-resultats-2023)
 
 <script>
 window.addEventListener('load', () => {

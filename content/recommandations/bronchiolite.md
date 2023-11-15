@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-16T08:08:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2023-10-25"
+lastmod = "2023-11-13"
 specialites = ["pediatrie"]
 annees = "2023"
 sources = ["HAS", "SFP"]
@@ -182,7 +182,8 @@ L'examen est réalisé APRÈS une désobstruction rhinopharyngée (DRP)
 
 Signes et symptômes de la bronchiolite aiguë du nourrisson:
 
-- Antécédents (asthme, néonataux)
+- Antécédents (néonataux, asthme, cardiaques, œsophagiens)
+- Antécédents familiaux d'asthme
 - Pollution  
   Tabagisme, cannabis, cigarette électronique, poêle à bois.
 - Contage infectieux
@@ -438,6 +439,7 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 {{% /collapse %}}
 {{%sources%}}
 
+- [Vartiainen P, Jukarainen S, Rhedin SA, et al. Risk factors for severe respiratory syncytial virus infection during the first year of life: development and validation of a clinical prediction model. Lancet Digit Health. 2023.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00175-9/fulltext)
 - [HAS. Réponses Rapides : Nirsévimab (Beyfortus®) dans la prévention des bronchiolites à virus respiratoire syncytial (VRS) chez les nouveau-nés et les nourrissons. 15/09/2023. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2023-09/reponse_rapide__nirsevimab_beyfortus.pdf)
 - [Infovac-France. Bulletin n°8 Août - Spécial Nirsevimab et Beyfortus. 28/08/2023.](https://www.infovac.fr/actualites/bulletin-n-8-aout-special-nirsevimab-et-beyfortus)
 - [CNP de Pédiatrie. Stratégie de prévention des bronchiolites à VRS des nourrissons. 2023. (PDF)](https://afpa.org/content/uploads/2023/08/Reco-CNP-Pe%CC%81diatrie-21-08-2023.pdf)

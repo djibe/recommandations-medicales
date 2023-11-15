@@ -72,8 +72,8 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 
 ## Psychiatrie {.typography-overline}
 
-- Repérage d'une dépression: {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-had >}}HAD{{< /modal-btn >}}
-- Repérage d'une anxiété: {{< modal-btn modal-gad2 >}}GAD-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}}. Sévérité: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal-had >}}HAD{{< /modal-btn >}}
+- Repérage d'une dépression: {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HAD{{< /modal-btn >}}
+- Repérage d'une anxiété: {{< modal-btn modal-gad2 >}}GAD-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}}. Sévérité: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HAD{{< /modal-btn >}}
 - Troubles du comportement alimentaire: {{< modal-btn modal-scoff >}}dépistage (score SCOFF-F){{< /modal-btn >}}
 - Alcool recherche de mésusage: {{< modal-btn modal-audit >}}questionnaire AUDIT{{< /modal-btn >}}, {{< modal-btn modal-deta >}}CAGE/DETA{{< /modal-btn >}}, {{< modal-btn modal-face >}}FACE{{< /modal-btn >}}
 - Cannabis usage problématique: {{< modal-btn modal-cast >}}CAST{{< /modal-btn >}}
@@ -295,9 +295,9 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< scores/gad7 >}}
 
 {{% /modal %}}
-{{% modal title="Score HAD" id="modal-had"%}}
+{{% modal title="Score HADS" id="modal-hads"%}}
 
-{{< scores/had >}}
+{{< scores/hads >}}
 
 {{% /modal %}}
 {{% modal title="Score CAST de mésusage du cannabis" id="modal-cast"%}}

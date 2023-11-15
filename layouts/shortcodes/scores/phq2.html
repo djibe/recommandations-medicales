@@ -1,0 +1,57 @@
+<div class="mt-4" id="score-phq2">
+  <p>Le questionnaire <dfn><abbr title="2-Item Patient Health Questionnaire for Depression" lang="en">PHQ-2</abbr></dfn> (<span lang="en">Patient Health Questionnaire 2</span>) pour le repérage d’un adulte présentant des symptômes dépressifs.<br>
+  Le questionnaire peut être utilisé pour une auto-évaluation.</p>
+  <p>En cas de repérage ≥ 2 points, il peut être complété par le <em>PHQ-9</em>.</p>
+  <p>Au cours des 2 dernières semaines, selon quelle fréquence avez-vous été gêné(e) par les problèmes suivants&nbsp;?</p>
+  <fieldset>
+    <legend>1. Peu d’intérêt ou de plaisir à faire les choses</legend>
+    <input type="radio" id="phq2-11" name="radio-phq2-1" class="d-input-none" value="0" required>
+    <label for="phq2-11" class="chip chip-action chip-sm chip-choice">Jamais</label>
+    <input type="radio" id="phq2-12" name="radio-phq2-1" class="d-input-none" value="1">
+    <label for="phq2-12" class="chip chip-action chip-sm chip-choice">Plusieurs jours</label>
+    <input type="radio" id="phq2-13" name="radio-phq2-1" class="d-input-none" value="2">
+    <label for="phq2-13" class="chip chip-action chip-sm chip-choice">Plus de la moitié des jours</label>
+    <input type="radio" id="phq2-14" name="radio-phq2-1" class="d-input-none" value="3">
+    <label for="phq2-14" class="chip chip-action chip-sm chip-choice">Presque tous les jours</label>
+  </fieldset>
+  <fieldset>
+    <legend>2. Être triste, déprimé(e) ou désespéré(e)</legend>
+    <input type="radio" id="phq2-21" name="radio-phq2-2" class="d-input-none" value="0" required>
+    <label for="phq2-21" class="chip chip-action chip-sm chip-choice">Jamais</label>
+    <input type="radio" id="phq2-22" name="radio-phq2-2" class="d-input-none" value="1">
+    <label for="phq2-22" class="chip chip-action chip-sm chip-choice">Plusieurs jours</label>
+    <input type="radio" id="phq2-23" name="radio-phq2-2" class="d-input-none" value="2">
+    <label for="phq2-23" class="chip chip-action chip-sm chip-choice">Plus de la moitié des jours</label>
+    <input type="radio" id="phq2-24" name="radio-phq2-2" class="d-input-none" value="3">
+    <label for="phq2-24" class="chip chip-action chip-sm chip-choice">Presque tous les jours</label>
+  </fieldset>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline score-output-title">Score PHQ-2</p>
+      <output class="score-output" id="phq2Score">0</output>
+    </div>
+    <p id="phq2Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</div>
+<blockquote class="blockquote my-4">
+  <p class="mb-0"><a href="https://journals.lww.com/lww-medicalcare/abstract/2003/11000/the_patient_health_questionnaire_2__validity_of_a.8.aspx" rel="external nofollow noopener">Kroenke K, Spitzer RL, Williams JB. The Patient Health Questionnaire-2: validity of a two-item depression screener. Med Care. 2003;41(11):1284-1292. doi:10.1097/01.MLR.0000093487.78664.3C</a></p>
+  <p>Un score ≥ 3 a une sensibilité de 83% et spécificité de 92% pour un épisode dépressif majeur.</p>
+</blockquote>
+{{ $script := `
+  // Score PHQ-2 by djibe
+  window.addEventListener( 'load', event => {
+    const scorephq2 = document.getElementById('phq2Score')
+    const textphq2 = document.getElementById('phq2Text');
+    [...document.querySelectorAll('#score-phq2 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcphq2() ) })
+    const calcphq2 = () => {
+      let score = 0
+      const checkedElems = document.querySelectorAll('#score-phq2 input[type=\"radio\"]:checked')
+      if (checkedElems.length === 2) {
+        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
+        scorephq2.innerHTML = score
+        if (score < 3) { textphq2.innerHTML = "Absence de dépression" }
+        else if (score >= 3) { textphq2.innerHTML = "Épisode dépressif majeur probable" }
+      }
+    }
+  })` }}
+<script type="module">{{ $script | safeJS }}</script>

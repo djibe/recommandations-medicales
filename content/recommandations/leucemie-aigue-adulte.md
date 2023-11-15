@@ -130,7 +130,7 @@ Mesures générales associées à la prise en charge de la leucémie aiguë:
 
 - Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
 - [Guide HAS/INCa d'information sur la leucémie aiguë](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/La-prise-en-charge-des-leucemies-aiguees-de-l-adulte) et [sfh myéloïde (PDF)](https://sfh.hematologie.net/sites/sfh.hematologie.net/files/medias/documents/leucemieaigue_myeloide.pdf)
-- Soutien psychologique voire chimiothérapie
+- Soutien psychologique voire psychothérapie
 - Évaluation nutritionnelle
 - Association de patients: [Fédération Leucémie Espoir](https://www.leucemie-espoir.org)
 - [Tableaux des maladies professionnelles](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&field_activites_nuisances=&field_maladies=leuc%C3%A9mie&field_numeroCAS=&mot_cles_tableau=&motsCles=&valid_RECHERCHE_MOTSCLES=Rechercher&introspection=)

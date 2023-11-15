@@ -82,11 +82,11 @@ Adresser au centre médico-psychologique (CMP) les patients ne relevant pas d'un
 
 ### Échelles d'évaluation de la dépression
 
-Scores: {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-had >}}HAD{{< /modal-btn >}}
+Scores: {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HAD{{< /modal-btn >}}
 
 ### Échelles d'évaluation de l'anxiété
 
-Scores: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal-had >}}HAD{{< /modal-btn >}}
+Scores: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HAD{{< /modal-btn >}}
 
 {{% /collapse %}}
 {{%sources%}}
@@ -115,9 +115,9 @@ Scores: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal
 {{< scores/gad7 >}}
 
 {{% /modal %}}
-{{% modal title="Score HAD" id="modal-had"%}}
+{{% modal title="Score HADS" id="modal-hads"%}}
 
-{{< scores/had >}}
+{{< scores/hads >}}
 
 {{% /modal %}}
 {{% modal title="Score CAST de mésusage du cannabis" id="modal-cast"%}}

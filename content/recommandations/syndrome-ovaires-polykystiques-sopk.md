@@ -2,12 +2,12 @@
 title = "Syndrome des ovaires polykystiques (SOPK)"
 titleSeo = "Syndrome ovaires polykystiques SOPK"
 prefix = "le "
-description = "TODO:"
+description = "Recommandations pour le diagnostic et la prise en charge du syndrome des ovaires polykystiques (SOPK). Echographie pelvienne, bilan hormonal, metformine"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-11T21:36:45+01:00"
-publishdate = "2023-11-02"
-lastmod = "2023-11-02"
+publishdate = "2023-11-14"
+lastmod = "2023-11-14"
 specialites = ["gynecologie-obstetrique"]
 annees = "2023"
 sources = ["ESHRE"]
@@ -18,38 +18,32 @@ icd10 = "E28.2"
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter, biblio, pulse"
+todo = "FSFI, PCOSQ, summary > liens > photo > newsletter > flow, biblio, pulse"
 +++
 
 {{%article-summary%}}
 
 TODO:
+≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Syndrome des ovaires polykystiques (SOPK)
-: Le SOPK est une maladie gynéco-métabolique et associe: spanioménorrhée, hyperandrogénie (acné sévère, hirsutisme), ovaires polykystiques et insulinorésistance.
-: Pathologie féminine chronique parmi les plus fréquentes (prévalence 10-13 %) dont 70% des patientes ne sont pas diagnostiquées. Le SOPK est considéré comme acquis à vie.
-: Complications du syndrome des ovaires polykystiques: [infertilité]({{< relref "infertilite-couple.md" >}}), métaboliques (**diabète** et [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}}) multipliés par 3) avec augmentation du [risque cardiovasculaire](/tags/risque-cardiovasculaire/) et psychologiques.
+: Le syndrome des ovaires polykystiques (SOPK) est une maladie gynéco-métabolique qui associe: ovaires polykystiques avec spanioménorrhée, hyperandrogénie ([acné sévère]({{< relref "acne.md" >}}), [hirsutisme]({{< relref "hirsutisme.md" >}})) et insulinorésistance.
+: Pathologie féminine chronique parmi les plus fréquentes (prévalence de 10 à 13 %) dont 70% des patientes ne sont pas diagnostiquées. Le SOPK est considéré comme acquis à vie.
+: Complications du syndrome des ovaires polykystiques: [infertilité]({{< relref "infertilite-couple.md" >}}), métaboliques ([diabète](/tags/diabete/) et [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}}) multipliés par 3) avec augmentation du [risque cardiovasculaire](/tags/risque-cardiovasculaire/), psychologiques et surrisque de [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) (x 2-6 mais le risque absolu reste faible).
 
 Cycles menstruels irréguliers
-: Définitions selon l'ESHRE 2023:
+: Définitions selon *ESHRE 2023*:
     - 1-2 ans post-ménarche: durée < 21 jours ou > 45 jours
-    - > 1 an post-ménarche: tout cycle > 90 jours
-    - > 3 ans post-ménarche jusqu'à la périménopause: durée < 21 jours ou > 35 jours ou < 8 cycles/an
+    - \> 1 an post-ménarche: tout cycle > 90 jours
+    - **\> 3 ans post-ménarche jusqu'à la périménopause**: durée < 21 jours ou > 35 jours ou < 8 cycles/an
     - Aménorrhée primaire à 15 ans ou > 3 ans post-thélarche (apparition des seins)
-: Devant des cycles irréguliers, le diagnostic de SOPK doit être évoqué.
+: **Devant des cycles irréguliers, le diagnostic de SOPK doit être évoqué**.
 
 Des cycles réguliers n'éliminent pas une dysfonction ovulatoire.
-
-Risque de [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) multiplié par 2 à 6 mais le risque absolu reste faible.
-
-### Diagnostic différentiel
-
-Autres causes d'hyperandrogénie:
-
-Tumeur (androgènes très élevés)
+{.alert .alert-info}
 
 ### Abréviations
 
@@ -66,67 +60,86 @@ SOPK
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Évoquer un SOPK devant des cycles menstruels irréguliers.
+{{%info%}}
+Évoquer un syndrome des ovaires polykystiques en cas de:
 
-Des cycles réguliers n'éliminent pas la possibilité d'une dysfonction ovulatoire.
+- Cycles menstruels irréguliers
+- Acné sévère ou hirsutisme de l'adolescente
+
+> Des cycles réguliers n'éliminent pas la possibilité d'une dysfonction ovulatoire.
+{{%/info%}}
+
+Envisager un dépistage du SOPK chez la femme avec [diabète de type 2]({{< relref "diabete-type-2.md" >}}) ou [type 1]({{< relref "diabete-type-1.md" >}}).
+
+### Critères diagnostiques de Rotterdam révisés du SOPK
+
+Les critères diagnostiques du syndrome des ovaires polykystique (SOPK) nécessitent au-moins 2 parmi:
+
+1. Oligo ou anovulation
+2. Hyperandrogénie clinique et/ou biologique
+3. Ovaires polykystiques en échographie et exclusion des autres causes (hyperplasie congénitale des surrénales, tumeurs sécrétrice d'androgènes, syndrome de Cushing)  
+  ou hormone antimüllérienne (AMH) élevée (*ESHRE 2023*)
+
+> – [Rotterdam ESHRE/ASRM-Sponsored PCOS Consensus Workshop Group. Revised 2003 consensus on diagnostic criteria and long-term health risks related to polycystic ovary syndrome. Fertil Steril. 2004.](https://www.fertstert.org/article/S0015-0282(03)02853-X/fulltext)
 
 ### Antécédents
 
-Signes modérés chez les caucasiennes.
+Les signes cliniques sont modérés chez les caucasiennes.
 
-- FRCV  
-  Obésité, tabac, dyslipidémie, HTA, inactivité physique.
+- Facteurs de risque cardiovasculaire  
+  [Obésité]({{< relref "obesite-adulte.md" >}}), [tabac]({{< relref "arret-tabac.md" >}}), dyslipidémie, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), inactivité physique.
 - Traitements en cours
 - Installation des symptômes
 - **Troubles menstruels**
   - Âge des ménarches
   - Régularité des cycles
-  - [Infertilité]({{< relref "infertilite-couple.md" >}})
-  - Complications gestationnelles
-- **Signes d'hyperandrogénie**  
-  {{< clinique/hyperandrogenie >}}.
+  - [Infertilité]({{< relref "infertilite-couple.md" >}}) ou complications gestationnelles
 - **Métabolique et cardiovasculaire**
   - {{< modal-btn modal-metabolique >}}Syndrome métabolique{{< /modal-btn >}}
   - Surpoids ou obésité
-  - Prédiabète et diabète type 2
-  - Rechercher des apnées du sommeil
-  - Evaluation du risque cardiovasculaire (SCORE2)
-- Image du corps
-- Dépister anxiété ({{< modal-btn modal-gad2 >}}questionnaire GAD-2{{< /modal-btn >}}) et dépression (les 2 avec le {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}})
-- Dépister un trouble du comportement alimentaire: {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}
-- Psychosexual dysfunction (Female sexual function Index)
-- Qualité de vie (TODO: PCOSQ)
+  - Prédiabète et [diabète type 2]({{< relref "diabete-type-2.md" >}})
+  - Rechercher des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}
+  - Evaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ± {{< scores/heartscore >}}
+- Retentissement psychologique
+  - Image du corps
+  - Dépister anxiété ({{< modal-btn modal-gad2 >}}questionnaire GAD-2{{< /modal-btn >}}) et dépression (les 2 avec le {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}})
+  - Dépister un trouble du comportement alimentaire: {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}
+  - Sexualité: score FSFI (*Female sexual function Index*)
+- Qualité de vie (score PCOSQ)
+- Ménopause: l'apparition d'un SOPK à la ménopause doit faire éliminer une cause tumorale
 
-Chez adolescente avec des critères partiels, réévaluer à 8 ans post-ménarche.
+**NB.** Chez adolescente avec des critères diagnostiques partiels de SOPK, réévaluer à 8 ans post-ménarche.
 
-Évoquer devant acné sévère ou hirsutisme de l'adolescente.
-
-Diagnostic post-ménopausique peut être considéré si: diagnostic antérieur de SOPK, antécédents de cycles irréguliers chroniques et hyperandrogénie.
-
-L'apparition d'un SOPK à la ménopause doit faire éliminer une cause tumorale.
-
-Envisager un dépistage du SOPK chez la femme avec diabète type 1 ou 2 (ESHRE 1.9.8).
+Le diagnostic post-ménopausique de SOPK peut être considéré si: diagnostic antérieur de SOPK, antécédents de cycles irréguliers chroniques et hyperandrogénie.
 
 ### Examen clinique
 
 - Poids, taille, IMC, périmètre abdominal
 - Pression artérielle, fréquence cardiaque
+- **Signes d'hyperandrogénie**  
+  {{< clinique/hyperandrogenie >}}.
 - Examen cutané et du scalp (hirsutisme, acné, alopécie) en prenant en compte les traitements cosmétiques effectués
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan biologique du SOPK
+### Bilan biologique du syndrome des ovaires polykystiques (SOPK)
 
-Les dosages ne peuvent être effectués sous contraception hormonale ou dans les 3 mois suivant son arrêt.
+> Les dosages hormonaux ne peuvent pas être effectués sous contraception hormonale ou dans les 3 mois suivant son arrêt.
 
-Ils sont surtout utiles lorsque le tableau clinique est incomplet (hirsutisme absent):
+Les dosages hormonaux sont surtout utiles lorsque le tableau clinique est incomplet (hirsutisme absent):
 
-- Hyperandrogénie (possible dès 12-15 ans): testostérone libre et totale
-  - Dosages normaux: envisager androstenedione et DHEAS
+- Hyperandrogénie: testostérone libre et totale (possible dès 12-15 ans)
+  - Dosages normaux: envisager les dosages d'androsténédione et du sulfate de DHEA
   - Dosages élevés: éliminer tumeur ovarienne et surrénale, syndrome de Cushing, iatrogénie, insulinorésistance sévère
-- Adulte: hormone antimüllérienne (AMH)  
+- Adulte: <mark>hormone antimüllérienne (AMH)</mark>  
   Inutile si échographie pelvienne ou cycles irréguliers avec hyperandrogénie.
+- Aménorrhée ou hyperandrogénie clinique marquée: TSH, prolactine, 17-hydroxy progestérone
 
 Après diagnostic de syndrome des ovaires polykystiques, compléter le bilan métabolique avec:
 
@@ -135,14 +148,16 @@ Après diagnostic de syndrome des ovaires polykystiques, compléter le bilan mé
 
 ### Échographie pelvienne
 
-Critère diagnostique échographique du SOPK de l'adulte: au moins 20 follicule/ovaire (transvaginale à 8 MHz)
-{.alert .alert-info}
+Critère diagnostique échographique du SOPK de l'adulte: **au moins 20 follicule/ovaire** (transvaginale à 8 MHz).
 
 Critères diagnostiques alternatifs: ovaire de volume ≥ 10 mL ou follicules par section ≥ 10.
 
-L'échographie est systématique chez la femme ménopausée pour éliminer une tumeur. Elle n'est pas nécessaire en cas de cycles irréguliers avec hyperandrogénie avant la ménopause.
+L'échographie abdomino-pelvienne est systématique chez la femme ménopausée pour éliminer une tumeur. Elle n'est pas nécessaire en cas de cycles irréguliers avec hyperandrogénie avant la ménopause.
 
-> L'échographie est inutile chez l'adolescente (ovaires multi-folliculaires fréquents durant les 8 ans post-ménarche).
+L'échographie permet également d'éliminer une tumeur surrénale.
+
+> L'échographie pelvienne est inutile chez l'adolescente (ovaires multi-folliculaires fréquents durant les **8 ans post-ménarche**).
+{.alert .alert-info}
 
 ### Perméabilité tubaire
 
@@ -170,6 +185,7 @@ Correction des FRCV à détailler, alimentation pour la santé:
 - Soutien psychologique, santé émotionnelle et sexuelle
 - Dépistage métabolique de l'entourage
 - Grossesse: surveillance rapprochée spécialisée
+- Information de la patiente: [guide Ameli SOPK](https://www.ameli.fr/hauts-de-seine/assure/sante/themes/syndrome-ovaires-polykystiques)
 
 > Those with PCOS should be reassured that pregnancy can often be successfully
 achieved either naturally or with assistance.
@@ -193,7 +209,7 @@ Préférer spironolactone 25-100 mg/j.
 
 Information sur la tératogénicité.
 
-### Metformine
+### Metformine et SOPK
 
 Considérer la {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}} chez l'adulte en surpoids ou obèse (visée métabolique et symptomatique). Elle pourrait être considérée en l'absence de surpoids, tout comme chez l'adolescente (régulation des cycles).
 
@@ -205,13 +221,13 @@ Considérer chez adolescente avec diagnostic de certitude ou en cours d'explorat
 Considérer le recours aux anti-androgènes avec protection par une contraception efficace.
 
 {{% /collapse %}}
-{{%collapse "Infertilité" %}}
+{{%collapse "Infertilité et SOPK" %}}
 
 Suivi spécialisé
 
 ### Inducteurs d'ovulation
 
-1re intention en l'absence d'autre facteur d'infertilité associé: létrozole. 
+Le **létrozole** est recommandé en première intention en l'absence d'autre facteur d'infertilité associé.
 
 Information complète des patientes.
 Éviter un traitement prolongé en cas d'inefficacité.
@@ -219,9 +235,9 @@ Information complète des patientes.
 Rechercher une grossesse avant de débuter le traitement.
 Risque moindre de grossesse gémellaire qu'avec le clomiphène.
 
-Autres: metformine, citrate de clomiphène
+Autres: metformine, citrate de clomiphène.
 
-#### Metformine et infertilité
+#### Metformine et infertilité au cours du SOPK
 
 Pourrait être utilisée de façon exclusive en cas d'infertilité par anovulation isolée.  
 ou associée au clomiphène si patiente obèse.
@@ -229,22 +245,20 @@ Informer que d'autres traitements sont plus efficaces.
 
 #### Citrate de clomiphène
 
-En cas d'infertilité par anovulation isolée, le clomiphène:
+En cas d'infertilité par anovulation isolée, le clomiphène pourrait être utilisé de façon exclusive ou associé à la metformine.
 
-- Pourrait être utilisé de façon exclusive
-- Pourrait être privilégié avant la metformine en cas d'obésité
-- Pourrait être associé à la metformine en cas de résistance au traitement
+Risque de grossesse multiple sous clomiphène (possible suivi échographique).
 
-Risque de grossesse multiple.
+#### Autres traitements de l'infertilité
 
-#### Autres traitements inducteurs
+Les gonadotrophines en monothérapie pourraient être considérées à la place du clomiphène en cas d'infertilité par anovulation isolée.
 
-Gonadotrophines:
+Elles peuvent être associées à la metformine ou au clomiphène.
 
-- 
+La chirurgie ovarienne par cœlioscopie et la fécondation in vitro (FIV) sont possibles en deuxième intention.
 
 {{% /collapse %}}
-{{%collapse "Suivi" %}}
+{{%collapse "Suivi du SOPK" %}}
 
 - Poids et tour de taille 1-2/an
 - Pression artérielle annuelle
@@ -268,6 +282,21 @@ Gonadotrophines:
 - [Amsterdam ESHRE/ASRM-Sponsored 3rd PCOS Consensus Workshop Group. Consensus on women's health aspects of polycystic ovary syndrome (PCOS). Hum Reprod. 2012.](https://academic.oup.com/humrep/article-lookup/doi/10.1093/humrep/der396)
 
 {{%/sources%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
+
+{{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
+
+{{< scores/stop-bang >}}
+
+{{% /modal %}}
+{{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
+
+{{< clinique/syndrome-metabolique >}}
+
+{{% /modal %}}
 {{% modal title="Questionnaire GAD-2" id="modal-gad2"%}}
 
 {{< scores/gad2 >}}
@@ -288,5 +317,3 @@ Gonadotrophines:
 {{< traitements/metformine >}}
 
 {{% /modal %}}
-
-≤≥±®æœŒÈ³ÂSpO<sub>2</sub>

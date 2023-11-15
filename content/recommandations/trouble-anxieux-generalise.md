@@ -113,7 +113,7 @@ Des questions simples permettent d'identifier un trouble anxieux, au choix:
 
 - Êtes-vous nerveux ? (Se 100%, Spe 59%)
 - {{< modal-btn modal-gad2 >}}Questionnaire GAD-2{{< /modal-btn >}}
-- {{< modal-btn modal-phq4 >}}Questionnaire PHQ-4{{< /modal-btn >}} (couplé à la dépression)
+- {{< modal-btn modal-phq4 >}}Questionnaire PHQ-4{{< /modal-btn >}} (couplé à la dépression, ACP 2019)
 
 Une évaluation détaillée est nécessaire en cas de test positif.
 

@@ -26,7 +26,7 @@ todo = "flow, AASLD"
 - Bilan en cas de découverte de nodule hépatique: bilan biologique hépatique, sérologies des hépatites, syndrome métabolique, échographie et scanner abdominal avec injection
 - Avis spécialisé du gastro-entérologue rapide systématique avec le bilan
 - Le diagnostic peut être radiologique en cas de cirrhose et de lésion typique, sinon le diagnostic de carcinome hépatocellulaire reste anatomopathologique sur la biopsie hépatique
-- Dépistage du carcinome hépatocellulaire (CHC) en cas de cirrhose: échographie abdominale tous les 6 sans dosage de l'alpha-fœtoprotéine (AFP)
+- Dépistage du carcinome hépatocellulaire (CHC) en cas de cirrhose: échographie abdominale tous les 6 mois sans dosage de l'alpha-fœtoprotéine (AFP)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

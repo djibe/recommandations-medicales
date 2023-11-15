@@ -76,7 +76,7 @@ INCa
   Cryptorchidie, tumeur testiculaire controlatérale.
 - Symptômes testiculaires:
   - **masse du testicule, dure indolore et unilatérale**
-  - tardifs: gêne ou douleurs testiculaire
+  - tardifs: gêne ou douleur testiculaire
 - Complications:
   - douleurs lombaires ou du flanc, amaigrissement, AEG, dyspnée
   - masse rétro-péritonéale
@@ -122,7 +122,7 @@ L'échographie des testicules est également recommandée devant toute masse ré
 {{% /collapse %}}
 {{%collapse "Dépistage du cancer du testicule" %}}
 
-Informer sur le dépistage par auto-palpation du cancer du testicule les hommes à risque: cryptorchidie, antécédents personnels ou familiaux de cancer du testicule.
+Informer sur le dépistage par autopalpation du cancer du testicule chez les hommes à risque: [cryptorchidie]({{< relref "cryptorchidie.md" >}}), antécédents personnels ou familiaux de cancer du testicule.
 
 Cette vidéo canadienne explique l'auto-palpation du testicule.
 

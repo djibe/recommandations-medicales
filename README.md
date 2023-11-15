@@ -89,16 +89,14 @@ Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans
   <summary>Sous Windows</summary>
 
   1. Sur le PC, aller dans le dossier (au choix) où placer le projet et lancer Powershell ou le Terminal de Windows en mode administrateur (clic droit dans le dossier sous Windows 11)
-  2. Entrer les commandes suivantes: `Set-ExecutionPolicy Bypass -Scope Process -Force; iwr https://community.chocolatey.org/install.ps1 -UseBasicParsing | iex`
-  3. Fermer la commande et la relancer
-  4. `choco install git -y`
-  5. `choco install nvm -y`
-  6. Fermer la commande et la relancer
-  7. `git clone https://github.com/djibe/recommandations-medicales.git`
-  8. puis placer la *Commande* dans le dossier `/recommandations-medicales`
-  9. puis `nvm install 14` et `nvm use 14`
-  10. puis `npm install`
-  11. puis `npm run start:dev`, le site est accessible sur `http://localhost:1313/`
+  2. Entrer les commandes suivantes:
+  3. `winget install --id CoreyButler.NVMforWindows --force`
+  4. Fermer la commande et la relancer
+  5. `git clone https://github.com/djibe/recommandations-medicales.git`
+  6. puis placer la *Commande* dans le dossier `/recommandations-medicales`
+  7. puis `nvm install 14` et `nvm use 14`
+  8. puis `npm install`
+  9. puis `npm run start:dev`, le site est accessible sur `http://localhost:1313/`
 
 </details>
 
@@ -109,15 +107,13 @@ Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans
 
   1. `sudo apt install wget curl nodejs npm git-all golang-go -y`
   2. `wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash`
-  3. `wget https://github.com/gohugoio/hugo/releases/download/v0.119.0/hugo_extended_0.119.0_linux-amd64.deb`
-  4. `sudo dpkg -i hugo_extended_0.119.0_linux-amd64.deb`
-  5. Fermer le terminal
-  6. Ouvrir le terminal et entrer: `nvm install 14`
-  7. Positionner le terminal sur le dossier souhaité
-  8. `git clone https://github.com/djibe/recommandations-medicales.git`
-  9. `cd recommandations-medicales`
-  10. puis `npm install`
-  11. puis `npm run start:dev`, le site est accessible sur `http://localhost:1313/`
+  3. Fermer le terminal
+  4. Ouvrir le terminal et entrer: `nvm install 14`
+  5. Positionner le terminal sur le dossier souhaité
+  6. `git clone https://github.com/djibe/recommandations-medicales.git`
+  7. `cd recommandations-medicales`
+  8. puis `npm install`
+  9. puis `npm run start:dev`, le site est accessible sur `http://localhost:1313/`
 
 </details>
 

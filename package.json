@@ -51,8 +51,8 @@
     "cli-real-favicon": "^0.0.8",
     "cross-env": "^7.0.3",
     "hint": "^7.1.10",
-    "html-validate": "^8.7.0",
-    "hugo-extended": "^0.119.0",
+    "html-validate": "^8.7.1",
+    "hugo-extended": "^0.120.4",
     "linkinator": "^6.0.1",
     "node-sass": "^6.0.1",
     "vnu-jar": "^23.4.11"

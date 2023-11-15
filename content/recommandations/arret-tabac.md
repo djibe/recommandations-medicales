@@ -259,7 +259,7 @@ Parcours synthétisé par les anglo-saxons en 5A pour chaque consultation:
 - Risque cardiovasculaire  
   {{< modal-btn modal-rcv >}}Prévention secondaire{{< /modal-btn >}} ou primaire ({{< scores/heartscore >}})
 - Anxiété et dépression  
-  {{< modal-btn modal-had >}}HAD{{< /modal-btn >}}, anxiété de Beck, dépression de Beck.
+  {{< modal-btn modal-hads >}}HAD{{< /modal-btn >}}, anxiété de Beck, dépression de Beck.
 
 Informer sur les **signes de sevrage** en nicotine: troubles de l'humeur, insomnie, irritabilité, frustration, colère, anxiété, difficultés de concentration, augmentation de l'appétit, fébrilité.
 
@@ -500,9 +500,9 @@ accTitle: Prise en charge de l'arrêt du tabac d'après HAS 2014
 {{< scores/cast >}}
 
 {{% /modal %}}
-{{% modal title="Score HAD" id="modal-had"%}}
+{{% modal title="Score HADS" id="modal-hads"%}}
 
-{{< scores/had >}}
+{{< scores/hads >}}
 
 {{% /modal %}}
 {{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}

@@ -8,7 +8,7 @@ synonyms = ["et maladie rénale chronique (MRC)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2023-10-09"
+lastmod = "2023-11-14"
 specialites = ["nephrologie"]
 annees = "2023"
 sources = ["HAS", "ESH", "KDIGO", "ADA", "ESC"]
@@ -272,7 +272,7 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
 
 Éléments vitaux de la prise en charge de l'insuffisance rénale chronique:
 
-- [ALD n°19]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°19]({{< relref "affection-longue-duree.md" >}})
 - Suivi par le généraliste possible si:
   - Stade 1, 2, 3A stable sans complication, sans albuminurie, HTA contrôlée, pas de traitement à marge thérapeutique étroite
   - Et sujet âgé avec DFG 20-45
@@ -299,8 +299,9 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
     IRC sévère ou modérée avec albuminurie &gt; 3 ; diabète et DFG < 45 ou DFG 45-59 avec albu 3-30 ou albu +30
   - {{< modal-btn modal-rcv >}}RCV élevé{{< /modal-btn >}}: LDL cible < 0,7 g/L et réduction de +50%  
     Toutes les autres atteintes rénales.
-- **Albuminurie cible** < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}  
-  Envisager la {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}} (*ESC 2021*). Pour tous si DFG > 20 selon *ESH 2023*.
+- **Albuminurie**
+  - Albuminurie cible < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}
+  - Envisager la {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}} (*ESH 2023*, *ESC 2021*) si DFG > 20
 - Protéines < 1 g/kg/j
   - DFGe < 60: 0,6-0,8 g/kg/j
   - Sauf chez la personne âgée
@@ -353,7 +354,7 @@ Mesures précédentes avec les particularités suivantes chez la personne vivant
     <button aria-controls="stade5" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#stade5" id="stade5-tab" type="button" role="tab">&lt; 15</button>
   </li>
 </ul>
-<div class="tab-content" id="justifiedTabContent">
+<div class="card-body tab-content" id="justifiedTabContent">
   <div aria-labelledby="sup45-tab" class="tab-pane fade show active" id="sup45" role="tabpanel">
 
 Tant que le DFGe est ≥ 45 mL/min/1,73 m² (20 chez le sujet âgé), stable, sans complications et sans albuminurie:

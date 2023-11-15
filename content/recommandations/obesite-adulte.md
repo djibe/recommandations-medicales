@@ -315,7 +315,7 @@ Liste des nutritionnistes sur [Annuaire Ameli](http://annuairesante.ameli.fr) (e
 
 ### Indications à la chirurgie bariatrique
 
-> << Il s'agit du seul traitement actuel de l'obésité ayant démontré son efficacité sur le long terme en termes de perte de poids et de réduction de certaines comorbidités >> (*CEEDMM*)
+> << Il s'agit du seul traitement actuel de l'obésité ayant démontré son efficacité sur le long terme en termes de perte de poids et de réduction de certaines comorbidités >> – *CEEDMM*
 {.alert .alert-info}
 
 La chirurgie bariatrique est décidée en réunion de concertation pluridisciplinaire (RCP).
@@ -330,7 +330,7 @@ Les indications à une chirurgie bariatrique avec conditions sont:
 5. Patients ayant compris et accepté la nécessité d'un suivi médical et chirurgical à long terme
 6. Risque opératoire acceptable
 
-> *HAS 2009*
+> – Indications à la chirurgie bariatrique selon *HAS 2009*
 
 Les contraceptions orales doivent être réévaluées du fait du risque de malabsorption.
 
