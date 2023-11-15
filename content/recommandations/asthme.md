@@ -428,7 +428,7 @@ Consultation de suivi dans la semaine qui suit l'exacerbation.
 {.alert .alert-info}
 
 {{% /collapse %}}
-{{%collapse "Traitement de fond de l'asthme" "show" %}}
+{{%collapse "Traitement de fond de l'asthme" %}}
 
 {{%info%}}
 Demander à être suivi par le service **Sophia** de l'Assurance Maladie: {{<phone>}}0 809 400 040{{</phone>}}
