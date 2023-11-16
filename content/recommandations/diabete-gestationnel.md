@@ -95,7 +95,7 @@ Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque par
 4. Antécédent personnel de diabète gestationnel  
 5. Antécédent de macrosomie  
   Poids de naissance ≥ 4 kg.
-6. Syndrome des ovaires polykystiques (SOPK, *ESHRE 2023*)  
+6. [Syndrome des ovaires polykystiques]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) (SOPK, *ESHRE 2023*)  
   Dès le désir de grossesse ou rattrapage à 24-28 SA.
 
 > *CNGOF, SFD 2010*

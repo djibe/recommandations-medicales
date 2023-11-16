@@ -126,7 +126,7 @@ Les examens dépendent de l'étiologie suspectée:
 
 - Si ménorragies, [dénutrition]({{< relref "denutrition.md" >}}), régime: [ferritine](/tags/ferritine/), bilan carentiel
 - Effluvium télogène persistant à 3-6 mois: [TSH](/tags/tsh/), ferritine
-- Chapitre dédié selon la suspicion (SOPK, surrénalienne)
+- Chapitre dédié selon la suspicion ([SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}), surrénalienne)
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'alopécie" %}}

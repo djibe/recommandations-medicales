@@ -183,8 +183,8 @@ Les symptômes disparaissent après quelques semaines ou relèvent de traitement
 - Courbes de croissance
 - Activité physique soutenue en cas de surpoids
 - Enquête diététique des apports calciques
-- Syndrome des ovaires polykystiques (SOPK)  
-Surveillance des signes d'hyperandrogénie.  
+- [Syndrome des ovaires polykystiques]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) (SOPK)  
+  Surveillance des signes d'hyperandrogénie.  
 {{%class%}}La prévalence peut atteindre 20% après une puberté précoce.{{%/class%}}
 
 {{%/collapse%}}

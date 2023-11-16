@@ -17,7 +17,7 @@ icd10 = "F32.9"
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter, quest ASQ, https://pharmacologie.sfpeada.fr/, https://onlinelibrary.wiley.com/doi/10.1002/wps.21069, https://www.bmj.com/content/380/bmj-2022-070678##, Antidépresseurs à éviter: cita + escita, venlafaxine, duloxetine, agomelatine, trianeptine. Risque mort subite si couplé (éso)-méprazole, https://dumas.ccsd.cnrs.fr/dumas-01599531/document"
+todo = "Appli Way4Good, descr > summary > liens > photo > newsletter, quest ASQ, https://pharmacologie.sfpeada.fr/, https://onlinelibrary.wiley.com/doi/10.1002/wps.21069, https://www.bmj.com/content/380/bmj-2022-070678##, Antidépresseurs à éviter: cita + escita, venlafaxine, duloxetine, agomelatine, trianeptine. Risque mort subite si couplé (éso)-méprazole, https://dumas.ccsd.cnrs.fr/dumas-01599531/document"
 +++
 
 {{%article-summary%}}

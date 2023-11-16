@@ -419,7 +419,7 @@ Utiliser une chambre d'inhalation si adaptable sur le dispositif.
     Si utilisé aussi comme traitement de secours: conserver la dose de fond, augmenter la dose en secours (max 72 µg/g)  
   - {{< modal-btn modal-ttt-laba-csi >}}Autre LABA + CSI{{< /modal-btn >}}: passer à la dose supérieure ou ajouter un {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} seul pour quadrupler la dose
 - Corticostéroïdes oraux (CSO)  
-  - Adulte: prednisone 40-50 mg/j pendant 5-7 jours
+  - <mark>Adulte: prednisone 40-50 mg/j pendant 5-7 jours</mark>
   - Enfant: prednisone 1-2 mg/kg/j (max 40 mg/j) pendant 3-5 jours
 
 Consultation de suivi dans la semaine qui suit l'exacerbation.

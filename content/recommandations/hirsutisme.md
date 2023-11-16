@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-15T00:43:56+02:00"
 publishdate = "2022-06-20"
-lastmod = "2022-09-27"
+lastmod = "2023-11-16"
 specialites = ["endocrinologie"]
 annees = "2018"
 sources = ["ENDO"]
@@ -22,15 +22,15 @@ todo = "flowchart Figure 2"
 {{%article-summary%}}
 
 - L'hirsutisme est un excès de poils longs, drus et pigmentés, présents chez les femmes sur des zones androgénodépendantes
-- Il est lié à un SOPK pour les 3/4
+- Il est lié à un [syndrome des ovaires polykystiques]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) (SOPK) pour les 3/4
 - Rechercher des signes d'hyperandrogénie
-- [Score Ferriman-Gallwey](http://www.e-dpc.fr/bibliotheque/docs/trouble_du_cycle_amenorrhee_hyperandrogenie/fiches_pratiques/score_ferriman_gallwey.pdf) pour coter le degré d'hirsutisme et le seuil de traitement (voir *Clinique*)  
-  Bilan avec testostéronémie entre 8 et 11 heures si score anormal. hCG si aménorrhée
+- Grader la sévérité de l'hirsutisme avec le [Score Ferriman-Gallwey](http://www.e-dpc.fr/bibliotheque/docs/trouble_du_cycle_amenorrhee_hyperandrogenie/fiches_pratiques/score_ferriman_gallwey.pdf) pour coter le degré d'hirsutisme et le seuil de traitement (voir *Clinique*)
+- Bilan de l'hirsutisme avec testostéronémie entre 8 et 11 heures si score anormal. hCG si aménorrhée
 - Correction d'un surpoids et activité physique
-- Prise en charge et traitement de l'hirsutisme
-  - Rasage, épilation ou photo-épilation
-  - Indication à traiter selon le score Ferriman-Gallwey (voir *Clinique*): utiliser une [contraception œstroprogestative]({{< relref "contraception.md" >}}) (COP) pendant 6 mois en première intention
-  - En 2<sup>e</sup> intention: spironolactone, acétate de cyprotérone ou finastéride
+- Prise en charge et traitement de l'hirsutisme:
+  - rasage, épilation ou photo-épilation
+  - indication à traiter selon le score Ferriman-Gallwey (voir *Clinique*): utiliser une [contraception œstroprogestative]({{< relref "contraception.md" >}}) (COP) pendant 6 mois en première intention
+  - en 2<sup>e</sup> intention: spironolactone, acétate de cyprotérone ou finastéride
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -66,7 +66,7 @@ SOPK
 Les causes de l'hirsutisme sont endocriniennes (+80%), gynécologiques et idiopathique:
 
 - Hirsutisme avec hyperandrogénie
-  - **Syndrome des ovaires polykystiques** (**SOPK**). Première cause (70-80%).  
+  - **[Syndrome des ovaires polykystiques]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}})** (**SOPK**). Première cause (70-80%).  
     Défini par la présence ≥ 2 critères: hyperandrogénie chronique non expliquée autrement, oligoovulation, aspect échographique d'ovaires polykystiques.
 - Hirsutisme sans hyperandrogénie
   - [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}})

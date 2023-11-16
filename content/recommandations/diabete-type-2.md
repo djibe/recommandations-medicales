@@ -351,7 +351,7 @@ window.addEventListener('load', () => {
 | Neuropathie  | Dépistage annuel: {{< modal-btn modal-monofilament >}}monofilament{{< /modal-btn >}} et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}), sécheresse cutanée | ADA 2023, HAS 2020 et ESC 2019 diabetes |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | ADA 2023, SFD 2016       |
 | Score calcique | Pas d'argument pour l'utiliser pour la classification du RCV<br>{{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± test d'effort | ESC 2023 diabetes<br>SFD 2021 CAD |
-| SOPK | Envisager le dépistage chez la femme          | ESHRE 2023               |
+| [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) | Envisager le dépistage chez la femme          | ESHRE 2023               |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
 | [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) | Étayer si: syndrome plurimétabolique, diabète déséquilibré sans cause évidente, symptômes | PNDS Cushing 2022 |
 | [Vaccins]({{< relref "vaccination.md" >}}) | Covid-19, [grippe]({{< relref "grippe.md" >}}), {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |

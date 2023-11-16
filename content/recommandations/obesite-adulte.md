@@ -193,7 +193,7 @@ TCA
 - Comorbidités
   - Quantité de sommeil et {{< modal-btn modal-saos >}}dépister des apnées du sommeil{{< /modal-btn >}} ([SAHOS]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), systématique à partir de 35 d'IMC)
   - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
-  - SOPK  
+  - [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}})  
     Cycles irréguliers, hyperandrogénie ([hirsutisme]({{< relref "hirsutisme.md" >}}), [alopécie]({{< relref "alopecie.md" >}}), [acné]({{< relref "acne.md" >}})), acanthosis nigricans.
 - Évaluation de la motivation aux changements
 - Handicap et autonomie ([ADL](http://medicalcul.free.fr/adlkatz.html), IADL), [gonarthrose]({{< relref "gonarthrose.md" >}})
@@ -301,7 +301,7 @@ Prise en charge par un nutritionniste pour un IMC de 35 à 49 kg/m² et au moins
   [HTA résistante]({{< relref "hypertension-arterielle.md" >}}), diabète déséquilibré, [NASH]({{< relref "steatose-hepatique-et-nash.md" >}}), [SAHOS sévère]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}).
 - Aggravation d'une maladie chronique sans risque majeur
 - [Infertilité]({{< relref "infertilite-couple.md" >}})
-- SOPK
+- [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}})
 - Impact marqué sur la qualité de vie et sur la santé
 - Pathologie psychiatrique avec impact pondéral ou comportemental
 - Facteur aggravant: douleurs chroniques ([fibromyalgie]({{< relref "fibromyalgie.md" >}})), iatrogénie

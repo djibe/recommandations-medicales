@@ -6,8 +6,8 @@ description = "Recommandations pour le diagnostic et la prise en charge du syndr
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-11T21:36:45+01:00"
-publishdate = "2023-11-14"
-lastmod = "2023-11-14"
+publishdate = "2023-11-16"
+lastmod = "2023-11-16"
 specialites = ["gynecologie-obstetrique"]
 annees = "2023"
 sources = ["ESHRE"]
@@ -16,23 +16,31 @@ anglais = ["Polycystic ovary syndrome (PCOS)"]
 sctid = "237055002"
 icd10 = "E28.2"
 draft = true
-image = false
-imageSrc = ""
-todo = "FSFI, PCOSQ, summary > liens > photo > newsletter > flow, biblio, pulse"
+image = true
+imageSrc = "Multiples kystes ovariens à l'échographie endovaginale d'une jeune femme obèse rapportant une aménorrhée secondaire depuis 18 mois et une infertilité. Cas de J. Ray Ballinger, Radiopaedia.org, rID: 23638"
+todo = "FSFI, PCOSQ, flow, pulse"
 +++
 
 {{%article-summary%}}
 
-TODO:
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–
+- Le syndrome des ovaires polykystiques (SOPK) consiste en la présence de kystes ovariens multiples à l'origine d'une sécrétion d'androgènes donnant une hyperandrogénie clinique (acné, hirsutisme, alopécie) et se compliquant de troubles cardio-métaboliques (diabète, obésité, risque cardioavsculaire), psychologiques et d'une [infertilité]({{< relref "infertilite-couple.md" >}})
+- Le diagnostic du syndrome des ovaires polykystiques (SOPK) est défini par les critères d'Amsterdam: oligo-anovulation, hyperandrogénie clinique et/ou biologique et ovaires polykystiques en échographie
+- Rechercher un SOPK en cas de: cycles menstruels irréguliers, acné sévère ou hirsutisme
+- Bilan du syndrome des ovaires polykystiques: échographie pelvienne endovaginale et testostérone libre et totale ± hormone antimüllérienne, bilan supplémentaire si aménorrhée, HGPO 75g
+- La prise en charge du syndrome des ovaires polykystiques (SOPK) est cardio-métabolique (correction du risque cardioavsculaire, activité physique, correction d'un surpoids) et selon le profil clinique:
+  - Hirsutisme, cycles irréguliers: [contraception œstroprogestative]({{< relref "contraception.md" >}}) (COP)
+  - Cycles > 90 jours: COP ou progestatif
+  - [Hirsutisme]({{< relref "hirsutisme.md" >}}), [alopécie]({{< relref "alopecie.md" >}}): anti-androgènes spironolactone
+  - Surpoids, cycles irréguliers: considérer la {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}
+- L'infertilité associée au SOPK nécessite une prise en charge spécialisée. Traitements possibles de première intention: létrozole, metformine voire citrate de clomifène
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Syndrome des ovaires polykystiques (SOPK)
 : Le syndrome des ovaires polykystiques (SOPK) est une maladie gynéco-métabolique qui associe: ovaires polykystiques avec spanioménorrhée, hyperandrogénie ([acné sévère]({{< relref "acne.md" >}}), [hirsutisme]({{< relref "hirsutisme.md" >}})) et insulinorésistance.
-: Pathologie féminine chronique parmi les plus fréquentes (prévalence de 10 à 13 %) dont 70% des patientes ne sont pas diagnostiquées. Le SOPK est considéré comme acquis à vie.
-: Complications du syndrome des ovaires polykystiques: [infertilité]({{< relref "infertilite-couple.md" >}}), métaboliques ([diabète](/tags/diabete/) et [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}}) multipliés par 3) avec augmentation du [risque cardiovasculaire](/tags/risque-cardiovasculaire/), psychologiques et surrisque de [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) (x 2-6 mais le risque absolu reste faible).
+: Le SOPK est une pathologie féminine chronique parmi les plus fréquentes (prévalence de 10 à 13 %) dont 70% des patientes ne sont pas diagnostiquées. Il est considéré comme acquis à vie.
+: Complications du syndrome des ovaires polykystiques: [infertilité]({{< relref "infertilite-couple.md" >}}), métaboliques ([diabète](/tags/diabete/) et [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}}) multipliés par 3) avec augmentation du [risque cardiovasculaire](/tags/risque-cardiovasculaire/), psychologiques et surrisque de [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) (x 3 mais le risque absolu reste faible).
 
 Cycles menstruels irréguliers
 : Définitions selon *ESHRE 2023*:
@@ -45,13 +53,25 @@ Cycles menstruels irréguliers
 Des cycles réguliers n'éliminent pas une dysfonction ovulatoire.
 {.alert .alert-info}
 
+Aménorrhée primaire
+: Absence de menstruations à 15 ans ou plus de 3 ans après la thélarche (apparition des seins).
+
 ### Abréviations
 
 AMH
 : hormone antimüllérienne
 
+COP
+: contraceptions œstroprogestative
+
+EE
+: éthinyl-estradiol
+
 ESHRE
 : {{%lang%}}European Society of Human Reproduction and Embryology{{%/lang%}}
+
+HGPO
+: hyperglycémie provoquée par voie orale
 
 SOPK
 : syndrome des ovaires polykystiques
@@ -123,7 +143,14 @@ Le diagnostic post-ménopausique de SOPK peut être considéré si: diagnostic a
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
+### Diagnostics différentiels du syndrome des ovaires polykystiques
 
+- [Dysthyroïdie](/tags/tsh/)
+- Hyperprolactinémie
+- Hyperplasie congénitale des surrénales
+- Hypogonadisme hypogonadotrophique
+- [Maladie de Cushing]({{< relref "syndrome-cushing.md" >}})
+- Tumeur sécrétrice d'androgènes
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -132,27 +159,30 @@ Le diagnostic post-ménopausique de SOPK peut être considéré si: diagnostic a
 
 > Les dosages hormonaux ne peuvent pas être effectués sous contraception hormonale ou dans les 3 mois suivant son arrêt.
 
+{{%info%}}
 Les dosages hormonaux sont surtout utiles lorsque le tableau clinique est incomplet (hirsutisme absent):
 
 - Hyperandrogénie: testostérone libre et totale (possible dès 12-15 ans)
   - Dosages normaux: envisager les dosages d'androsténédione et du sulfate de DHEA
   - Dosages élevés: éliminer tumeur ovarienne et surrénale, syndrome de Cushing, iatrogénie, insulinorésistance sévère
-- Adulte: <mark>hormone antimüllérienne (AMH)</mark>  
+- Adulte: hormone antimüllérienne (AMH)
   Inutile si échographie pelvienne ou cycles irréguliers avec hyperandrogénie.
-- Aménorrhée ou hyperandrogénie clinique marquée: TSH, prolactine, 17-hydroxy progestérone
+- Aménorrhée ou hyperandrogénie clinique marquée: [TSH](/tags/tsh/), prolactine, 17 hydroxyprogestérone (17-OHP)
+{{%/info%}}
 
 Après diagnostic de syndrome des ovaires polykystiques, compléter le bilan métabolique avec:
 
 - **HGPO 75g** ou à défaut glycémie à jeun ou HbA1c  
 - Bilan lipidique
 
-### Échographie pelvienne
+### Échographie pelvienne endovaginale
 
-Critère diagnostique échographique du SOPK de l'adulte: **au moins 20 follicule/ovaire** (transvaginale à 8 MHz).
+Critère diagnostique échographique du SOPK de l'adulte: au moins 20 follicule/ovaire (endovaginale à 8 MHz).
+{.alert .alert-info}
 
 Critères diagnostiques alternatifs: ovaire de volume ≥ 10 mL ou follicules par section ≥ 10.
 
-L'échographie abdomino-pelvienne est systématique chez la femme ménopausée pour éliminer une tumeur. Elle n'est pas nécessaire en cas de cycles irréguliers avec hyperandrogénie avant la ménopause.
+L'échographie abdomino-pelvienne est **systématique chez la femme ménopausée** pour éliminer une tumeur. Elle n'est pas nécessaire en cas de cycles irréguliers avec hyperandrogénie avant la ménopause.
 
 L'échographie permet également d'éliminer une tumeur surrénale.
 
@@ -161,125 +191,112 @@ L'échographie permet également d'éliminer une tumeur surrénale.
 
 ### Perméabilité tubaire
 
-Infertilité par anovulation isolée et autres examens normaux, évaluation individuelle du bénéfice d'une exploration tubaire (hystérosalpingographie ou autre).
+En cas d'[infertilité]({{< relref "infertilite-couple.md" >}}) par anovulation isolée avec un bilan d'infertilité normal, évaluation individuelle du bénéfice d'une exploration tubaire (hystérosalpingographie ou autre).
 
-Explorer avant une induction ovulatoire en cas de suspicion de pathologie tubaire.
+Réaliser l'exploration tubaire avant une induction ovulatoire en cas de suspicion de pathologie tubaire.
 
 {{% /collapse %}}
 {{%collapse "Traitement du syndrome des ovaires polykystiques" %}}
 
-Hirsutisme: prise en charge spécifique (esthétique, metformine, COP, anti-androgènes)
+La prise en charge du syndrome des ovaires polykystiques (SOPK) vise à minimiser les signes cliniques et les complications cardio-métaboliques de l'excès d'androgènes. Aucun traitement curatif ne permet de corriger l'accumulation de kystes ovariens.
 
-Obésité: prise en charge spécifique, GLP-1 voire chirurgie bariatrique
+### Prise en charge du syndrome des ovaires polykystiques (SOPK)
 
-Correction des FRCV à détailler, alimentation pour la santé:
+Traitement et suivi du SOPK:
 
-- Surveillance glycémique (1-3 ans) et de la pression artérielle (annuelle)
-- Mesures hygiéno-diététiques pour la correction du risque cardiovasculaire et l'insulinorésistance
-  - Correction d'un surpoids
-  - Régime méditerranéen
-  - Arrêt tabac et alcool
+- [Hirsutisme]({{< relref "hirsutisme.md" >}}): prise en charge spécifique (esthétique, {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, [contraception œstroprogestative]({{< relref "contraception.md" >}}), anti-androgènes)
+- [Obésité]({{< relref "obesite-adulte.md" >}}): prise en charge spécifique, GLP-1 voire chirurgie bariatrique
+- Mesures hygiéno-diététiques pour la correction du risque cardiovasculaire et de l'insulinorésistance
+  - Correction d'un surpoids, tour de taille, suivi annuel
+  - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
+  - Surveillance glycémique (tous les 1-3 ans) et de la pression artérielle (annuelle)
+  - Bilan lipidique selon le risque cardiovasculaire
+  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et de l'[alcool]({{< relref "sevrage-alcool.md" >}})
   - Activité physique régulière  
-    Cible 150-300 minutes modérées, adolescent 1h par jour.
+    Cible 150-300 minutes modérées, adolescent 1h/j.
   - Hygiène de sommeil
+- Qualité de vie
 - Soutien psychologique, santé émotionnelle et sexuelle
 - Dépistage métabolique de l'entourage
 - Grossesse: surveillance rapprochée spécialisée
+- Information sur les signes endométriaux post-ménopausiques: saignements anormaux
+- Qualité de vie
 - Information de la patiente: [guide Ameli SOPK](https://www.ameli.fr/hauts-de-seine/assure/sante/themes/syndrome-ovaires-polykystiques)
+- Associations de patientes: [Asso'SOPK](https://www.asso-sopk.com), [SOPK Europe](https://www.sopkeurope.org)
 
-> Those with PCOS should be reassured that pregnancy can often be successfully
-achieved either naturally or with assistance.
+> << Rassurer les femmes atteintes de SOPK sur le fait qu'une grossesse peut souvent être obtenue naturellement ou avec assistance médicale >> – *ESHRE 2023*
 
 ### Traitement hormonal par contraceptions estroprogestative
 
-Une contraceptions œstroprogestative (COP) pourrait être recommandée chez l'adulte (envisagée chez l'adolescente) pour la prise en charge de l'hirsutisme et des cycles irréguliers. Dosage d'EE de 20 à 30 µg.
+Une [contraception œstroprogestative]({{< relref "contraception.md" >}}) (COP) pourrait être recommandée chez l'adulte (envisagée chez l'adolescente) pour la prise en charge de l'hirsutisme et des cycles irréguliers. Dosage d'éthinyl-estradiol de 20 à 30 µg/j.
 
 Rappeler la sécurité d'utilisation des contraceptions œstroprogestatives.
 
-Cycles > 90j: COP ou progestatif (prévention cancer de l'endomètre)
+Cycles > 90 jours: COP ou progestatif (pour la prévention du [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}})).
 
-### Anti-androgènes
+### Anti-androgènes pour le SOPK
 
-Anti-androgènes pour la prise en charge de l'hirsutisme et l'alopécie:
+Les anti-androgènes sont indiqués pour la prise en charge de l'[hirsutisme]({{< relref "hirsutisme.md" >}}) et de l'[alopécie]({{< relref "alopecie.md" >}}):
 
-- Associée à la COP (si insuffisante à 6 mois)
-- Si COP mal tolérée
+- Si [contraception œstroprogestative]({{< relref "contraception.md" >}}) insuffisante à 6 mois: en bithérapie
+- Si contraception œstroprogestative mal tolérée: en monothérapie
 
-Préférer spironolactone 25-100 mg/j.
-
-Information sur la tératogénicité.
+Préférer la [spironolactone](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63145849&typedoc=R) 25-100 mg/j. Contre-indication pendant la grossesse ([Le CRAT](http://www.le-crat.fr/articleSearchSaisie.php?recherche=spironolactone)) et contraception efficace nécessaire.
 
 ### Metformine et SOPK
 
-Considérer la {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}} chez l'adulte en surpoids ou obèse (visée métabolique et symptomatique). Elle pourrait être considérée en l'absence de surpoids, tout comme chez l'adolescente (régulation des cycles).
+Considérer la {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}} chez l'adulte en **surpoids** ou obèse (visée métabolique et symptomatique). Elle pourrait être considérée en l'absence de surpoids, tout comme chez l'adolescente (régulation des cycles).
 
-Envisager chez adolescente en surpoids.
-Considérer chez adolescente avec diagnostic de certitude ou en cours d'exploration.
-
-### Alopécie
-
-Considérer le recours aux anti-androgènes avec protection par une contraception efficace.
+Envisager la metformine chez l'adolescente en surpoids et considérer l'opportunité du traitement en cas de diagnostic de certitude ou en cours d'exploration.
 
 {{% /collapse %}}
 {{%collapse "Infertilité et SOPK" %}}
 
-Suivi spécialisé
+Un **suivi spécialisé** gynécologique est nécessaire en cas d'infertilité liée au syndrome des ovaires polykystiques. Les chapitres suivants sont donc uniquement pour en savoir plus.
 
-### Inducteurs d'ovulation
+### Inducteurs d'ovulation pour le SOPK
 
-Le **létrozole** est recommandé en première intention en l'absence d'autre facteur d'infertilité associé.
+Le [létrozole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69489312&typedoc=R) 2,5 mg/j (anti-aromatase) est le traitement de première intention en l'absence d'autre facteur d'infertilité associé.
+{.alert .alert-info}
 
-Information complète des patientes.
-Éviter un traitement prolongé en cas d'inefficacité.
+Informations sur le traitement du SOPK par létrozole:
 
-Rechercher une grossesse avant de débuter le traitement.
-Risque moindre de grossesse gémellaire qu'avec le clomiphène.
+- Le létrozole doit être arrêté en cas d'inefficacité
+- Rechercher une grossesse avant de débuter le traitement
+- Risque moindre de grossesse gémellaire qu'avec le clomifène
 
-Autres: metformine, citrate de clomiphène.
+Alternatives: metformine, citrate de clomifène.
 
 #### Metformine et infertilité au cours du SOPK
 
-Pourrait être utilisée de façon exclusive en cas d'infertilité par anovulation isolée.  
-ou associée au clomiphène si patiente obèse.
-Informer que d'autres traitements sont plus efficaces.
+La {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}} pourrait être utilisée de façon exclusive en cas d'infertilité par anovulation isolée ou associée au clomifène chez une patiente obèse.
 
-#### Citrate de clomiphène
+Informer que d'autres traitements sont plus efficaces pour la prise en charge de l'infertilité (létrozole, citrate de clomifène).
 
-En cas d'infertilité par anovulation isolée, le clomiphène pourrait être utilisé de façon exclusive ou associé à la metformine.
+#### Citrate de clomifène
 
-Risque de grossesse multiple sous clomiphène (possible suivi échographique).
+En cas d'infertilité par anovulation isolée, le [citrate de clomifène](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65338028&typedoc=R) (Clomid®) pourrait être utilisé de façon exclusive ou associé à la metformine.
 
-#### Autres traitements de l'infertilité
+Risque de **grossesse multiple** sous clomifène (possible suivi échographique).
 
-Les gonadotrophines en monothérapie pourraient être considérées à la place du clomiphène en cas d'infertilité par anovulation isolée.
+#### Autres traitements de l'infertilité liée au SOPK
 
-Elles peuvent être associées à la metformine ou au clomiphène.
+Les **gonadotrophines** en monothérapie pourraient être considérées à la place du clomifène en cas d'infertilité par anovulation isolée. Elles peuvent être associées à la metformine ou au clomifène.
 
-La chirurgie ovarienne par cœlioscopie et la fécondation in vitro (FIV) sont possibles en deuxième intention.
-
-{{% /collapse %}}
-{{%collapse "Suivi du SOPK" %}}
-
-- Poids et tour de taille 1-2/an
-- Pression artérielle annuelle
-- Signes endométriaux  
-  Aménorrhée prolongée, saignements anormaux, surpoids
-- Qualité de vie
-- biologique
-  - Glycémie tous les 1-3 ans
-  - Bilan lipidique selon le RCV
+La **chirurgie ovarienne** par cœlioscopie et la **fécondation in vitro** (FIV) sont possibles en deuxième intention.
 
 {{% /collapse %}}
 {{%sources%}}
 
 - [ESHRE. International evidence-based guideline for the assessment and management of polycystic ovary syndrome - Summary. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Item 42 Aménorrhée Item 35 Anomalies du cycle menstruel Métrorragies. Gynécologie obstétrique Réussir son DFASM. 2021.
+- [Barry JA et al. Risk of endometrial, ovarian and breast cancer in women with polycystic ovary syndrome: a systematic review and meta-analysis. Hum Reprod Update. 2014.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24688118/)
+- [Legro RS et al. Letrozole versus clomiphene for infertility in the polycystic ovary syndrome. N Engl J Med. 2014.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4175743/)
+- [Amsterdam ESHRE/ASRM-Sponsored 3rd PCOS Consensus Workshop Group. Consensus on women's health aspects of polycystic ovary syndrome (PCOS). Hum Reprod. 2012.](https://academic.oup.com/humrep/article-lookup/doi/10.1093/humrep/der396)
 
 ### Bibliographie en attente
 
-- [Goodman NF et al. AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS, AMERICAN COLLEGE OF ENDOCRINOLOGY, AND ANDROGEN EXCESS AND PCOS SOCIETY DISEASE STATE CLINICAL REVIEW: GUIDE TO THE BEST PRACTICES IN THE EVALUATION AND TREATMENT OF POLYCYSTIC OVARY SYNDROME--PART 1. Endocr Pract. 2015.](https://linkinghub.elsevier.com/retrieve/pii/S1530-891X(20)35322-2)
-- [Barry JA et al. Risk of endometrial, ovarian and breast cancer in women with polycystic ovary syndrome: a systematic review and meta-analysis. Hum Reprod Update. 2014.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24688118/)
-- [Amsterdam ESHRE/ASRM-Sponsored 3rd PCOS Consensus Workshop Group. Consensus on women's health aspects of polycystic ovary syndrome (PCOS). Hum Reprod. 2012.](https://academic.oup.com/humrep/article-lookup/doi/10.1093/humrep/der396)
+[Goodman NF et al. AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS, AMERICAN COLLEGE OF ENDOCRINOLOGY, AND ANDROGEN EXCESS AND PCOS SOCIETY DISEASE STATE CLINICAL REVIEW: GUIDE TO THE BEST PRACTICES IN THE EVALUATION AND TREATMENT OF POLYCYSTIC OVARY SYNDROME--PART 1. Endocr Pract. 2015.](https://linkinghub.elsevier.com/retrieve/pii/S1530-891X(20)35322-2)
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
@@ -315,5 +332,10 @@ La chirurgie ovarienne par cœlioscopie et la fécondation in vitro (FIV) sont p
 {{% modal title="Metformine" id="modal-metformine"%}}
 
 {{< traitements/metformine >}}
+
+{{% /modal %}}
+{{% modal title="Régime méditerranéen" id="modal-regime"%}}
+
+{{< traitements/regime-mediterraneen >}}
 
 {{% /modal %}}
