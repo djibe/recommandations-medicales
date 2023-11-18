@@ -27,7 +27,7 @@ flowchart = true
 - Intérêt d'un dépistage des personnes à risque (bas socio-éco, veuvage/séparation/divorce, âge moyen, comorbidités psychiatriques, toxiques, traumatisme et antécédents familiaux de TAG), au choix: << Êtes-vous nerveux ? >>, {{< modal-btn modal-gad2 >}}questionnaire GAD-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}} (couplé à la dépression)
 - En cas de repérage positif, étayer le diagnostic et les critères diagnostiques DSM-5 du trouble anxieux généralisé
 - Prise en charge initiale du trouble anxieux généralisé par mesures hygiéno-diététiques et thérapie cognitive et comportementale (TCC)
-- Puis traitement antidépresseur avec titration d'un {{< modal-btn modal-isrs >}}ISRS{{< /modal-btn >}} ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}. Traitement pleine dose au moins 8 semaines, poursuivi 6-12 mois après amélioration.
+- Puis traitement antidépresseur avec titration d'un {{< modal-btn modal-isrs-tag >}}ISRS{{< /modal-btn >}} ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}. Traitement pleine dose au moins 8 semaines, poursuivi 6-12 mois après amélioration.
 - La réévaluation du TAG comprend: {{< modal-btn modal-gad7 >}}questionnaire GAD-7{{< /modal-btn >}} et risque suicidaire, comorbidités, toxiques, observance, grossesse
 - Avis spécialisé psychiatrique si adolescent ou jeune adulte, diagnostic incertain, comorbidité psychiatrique, fragilité (grossesse), trouble sévère ou résistance au traitement, risque suicidaire, benzodiazépines au long cours
 
@@ -224,7 +224,7 @@ Suivi initial toutes les 2-4 semaines jusqu'à stabilité puis tous les 3-4 mois
 Ex: Sertraline 25 mg/j pendant 1 semaine, puis paliers de 25-50 mg tous les 7-14 jours (max 200 mg/j)
 {.alert .alert-info}
 
-Pour une forme sévère ou lorsque la thérapie cognitive et comportementale (TCC) ne peut être essayée, proposer un {{< modal-btn modal-isrs >}}antidépresseur ISRS{{< /modal-btn >}} ou {{< modal-btn modal-irsna >}}antidépresseur IRSNA{{< /modal-btn >}} (duloxétine, venlafaxine LP).
+Pour une forme sévère ou lorsque la thérapie cognitive et comportementale (TCC) ne peut être essayée, proposer un {{< modal-btn modal-isrs-tag >}}antidépresseur ISRS{{< /modal-btn >}} ou {{< modal-btn modal-irsna >}}antidépresseur IRSNA{{< /modal-btn >}} (duloxétine, venlafaxine LP).
 
 Titration du traitement par paliers de 1-2 semaines. En cas d'inefficacité après **8 semaines** de dose thérapeutique, essayer un autre antidépresseur de la même classe avant de changer de classe.
 
@@ -275,7 +275,7 @@ graph TB
 {{%sources%}}
 
 - Prescrire Redaction. Patients anxieux. Rev Prescrire. 2023.
-- Collège National Universitaire de Psychiatrie (CNUP). Troubles anxieux Trouble anxieux généralisé Item 66b. 2021.
+- [Collège National Universitaire de Psychiatrie (CNUP). Troubles anxieux Trouble anxieux généralisé Item 66b. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
 - [Psychiaclic. Trouble anxieux généralisé. 04/10/2021.](https://www.psychiaclic.fr/troubles-psychiatriques/trouble-anxieux-generalise)
 - [DeMartini J et al; ACP. Generalized Anxiety Disorder. Ann Intern Med. 2019.](https://pubmed.ncbi.nlm.nih.gov/30934083/)
 - [HAS. Troubles anxieux graves. Actes et prestations affection de longue durée. 2017.](https://www.has-sante.fr/jcms/c_556489/fr/ald-n-23-troubles-anxieux-graves)
@@ -307,13 +307,13 @@ graph TB
 {{< scores/phq4 >}}
 
 {{% /modal %}}
-{{% modal title="Antidépresseurs ISRS" id="modal-isrs"%}}
+{{% modal title="Antidépresseurs ISRS" id="modal-isrs-tag"%}}
 
-{{< traitements/isrs >}}
+{{< traitements/isrs-tag >}}
 
 {{% /modal %}}
 {{% modal title="Antidépresseurs IRSNA" id="modal-irsna"%}}
 
-{{< traitements/irsna >}}
+{{< traitements/irsna-tag >}}
 
 {{% /modal %}}

@@ -7,7 +7,7 @@ synonyms = ["Migraine avec ou sans aura", "aura migraineuse"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-12T13:03:13+01:00"
 publishdate = "2022-02-17"
-lastmod = "2023-04-20"
+lastmod = "2023-11-16"
 specialites = ["neurologie"]
 annees = "2021"
 sources = ["SFEMC", "CNGOF"]
@@ -347,6 +347,7 @@ Max 2 prises/24h avec intervalle minimal de 2 heures entre les prises.
   
 Les triptans:
 
+- En pédiatrie: seul le [sumatriptan nasal](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67153334&typedoc=R) est possible à partir de 12 ans
 - Contre-indications: [phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), [cardiopathie ischémique]({{< relref "syndrome-coronarien-chronique.md" >}}) et {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}, hypersensibilité au produit
 - Absence de réponse (ou effets secondaires): augmenter la dose (réduire), changer de voie d'administration, changer de triptan
 - En cas de récidive des céphalées après 48h: coupler triptan + AINS

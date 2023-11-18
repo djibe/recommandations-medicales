@@ -32,7 +32,7 @@ flowchart = true
   - Rattrapage de la dose des 25 ans: joindre la valence coqueluche jusqu'à 39 ans
   - [Vaccination coqueluche]({{< relref "vaccination.md" >}}) pendant chaque grossesse (entre 20 et 36 SA)  
   - **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse si: amené à s'occuper de l'enfant les 6 premiers mois et le dernier rappel a +5 ans avant 25 ans ou +10 ans au-delà
-  - Professionnels: valence coqueluche à chaque rappel
+  - Professionnels de santé: valence coqueluche à chaque rappel
 - [Signalement à l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}) pour au moins 2 cas de coqueluche en collectivité
 
 Chapitre lié: [toux chronique]({{< relref "toux-chronique.md" >}})
@@ -91,7 +91,7 @@ SPILF
 
 ### Cas possible de coqueluche selon l'ECDC
 
-Cas possible de coqueluche: toute personne atteinte de toux depuis ≥ 2 semaines ET ≥ 1 signe parmi:
+Cas possible de coqueluche: toute personne atteinte de toux depuis au moins 2 semaines ET présentant au moins 1 signe parmi:
 
 - Quintes de toux
 - Cornage
@@ -120,7 +120,7 @@ Mauvaise tolérance avec cyanose, apnées, bradycardies. Pneumonies de surinfect
   
 Forme quinteuse ou toux banale sans fièvre. Asymptomatique entre les accès de toux.
 
-Caractères évocateurs: notion de contage, recrudescence nocturne et insomniante, paroxystique, avec turgescence du visage/rougeur conjonctivale, reprise de respiration sonore.
+Caractères évocateurs: notion de contage, **recrudescence nocturne et insomniante**, **paroxystique**, avec turgescence du visage/rougeur conjonctivale, reprise de respiration sonore.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

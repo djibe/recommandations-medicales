@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2023-10-14"
+lastmod = "2023-11-17"
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -30,7 +30,7 @@ todo = "modal DIU, nb grossesses efficacité, ONU contraceptions pays, critères
 - Contraceptions très efficaces de première intention: COP, DIU, implant
 - Démarrer une contraception hormonale: débuter le *1er jour des règles*  
   ou démarrage à tout moment du cycle: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1<sup>re</sup> plaquette.
-- Informer sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
+- Informer sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) et informer sur la surveillance des troubles de l'humeur (dépression)
 - Pas d'interaction DIU et anti-inflammatoires AINS
 
 Chapitres lié: [acné]({{< relref "acne.md" >}}), [IVG]({{< relref "interruption-volontaire-grossesse.md" >}}), [ménopause]({{< relref "menopause.md" >}})
@@ -114,7 +114,7 @@ TVP
 {{% /collapse %}}
 {{%collapse "Contre-indications aux oestroprogestatifs et progestatifs" %}}
 
-Les œstroprogestatifs augmentent le risque de [MVTE](/tags/mvte/) x3-6 (plus important la 1<sup>re</sup> année).  
+Les œstroprogestatifs augmentent le risque de [thromboembolie veineuse](/tags/mvte/) x3-6 (plus important la 1<sup>re</sup> année).  
 Seuls les COP contenant ≥ 50 µg d'EE sont associées au risque d'accident artériel, sauf FRCV associé (dose-dépendant avec tabac ≥ 15 cig/j).
 
 {{%info%}}
@@ -135,10 +135,9 @@ Seuls les COP contenant ≥ 50 µg d'EE sont associées au risque d'accident art
 - Antécédent personnel de [cancer du sein]({{< relref "cancer-sein.md" >}})  
   Contre-indication à toute contraception hormonale.
 - Antécédent personnel de tumeur ovarienne de la granusola adulte avec traitement conservateur
+- Toute contraception hormonale est déconseillée après adénocarcinome séreux de bas grade ou endométrioïde de bas grade [de l'ovaire]({{< relref "cancer-ovaire.md" >}})
 
-Toute contraception hormonale est déconseillée après adénocarcinome séreux de bas grade ou endométrioïde de bas grade de l'ovaire.
-
-Privilégier une contraception non hormonale après traitement d'un hépatocarcinome (pour la fonction hépatique).
+Privilégier une contraception non hormonale après traitement d'un [carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}}) (pour la fonction hépatique).
 
 ### Œstrogènes possibles sous réserve
 
@@ -209,7 +208,7 @@ Nécessité d'une consultation dédiée pour la primo-prescription d'une contrac
 
 - Âge
 - Antécédents personnels  
-  {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}, HTA, dyslipidémie, diabète type 1, migraine (préciser l'aura), thrombophilie, cancer (du sein), MVTE, IST, GEU, chirurgie.
+  Dépression, {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}, HTA, dyslipidémie, diabète type 1, migraine (préciser l'aura), thrombophilie, cancer (du sein), MVTE, IST, GEU, chirurgie.
 - Antécédents familiaux au 1<sup>er</sup> degré  
   IDM/AVC chez homme < 55 ans ou femme < 65 ans, MVTE (TVP, EP) < 50 ans ou épisodes répétés quelque soit le degré.
 - Traitements en cours
@@ -660,7 +659,8 @@ const chartOptions = {
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ameli Medecin. Le point sur les préservatifs pris en charge sans prescription pour les moins de 26 ans. 03/01/2023.](https://www.ameli.fr/medecin/actualites/le-point-sur-les-preservatifs-pris-en-charge-sans-prescription-pour-les-moins-de-26-ans)
+- [ANSM. Les stérilets contenant le plus d’hormone présenteraient davantage de risque de troubles dépressifs. 14/02/2023.](https://ansm.sante.fr/actualites/les-sterilets-contenant-le-plus-dhormone-presenteraient-davantage-de-risque-de-troubles-depressifs)
+- [Ameli Médecin. Le point sur les préservatifs pris en charge sans prescription pour les moins de 26 ans. 03/01/2023.](https://www.ameli.fr/medecin/actualites/le-point-sur-les-preservatifs-pris-en-charge-sans-prescription-pour-les-moins-de-26-ans)
 - [Collège Français des Enseignants en Urologie (CFEU). Contraception. Item 36. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-36-Contraception-.pdf)
 - [HAS. Contraception : consultations initiale et de suivi. Mars 2020.](https://www.has-sante.fr/jcms/p_3122291/fr/contraception-consultations-initiale-et-de-suivi)
 - [HAS. Contraception : prescriptions et conseils aux femmes. Septembre 2019.](https://www.has-sante.fr/jcms/c_1752432/fr/contraception-prescriptions-et-conseils-aux-femmes)

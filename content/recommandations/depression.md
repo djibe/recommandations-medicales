@@ -1,23 +1,24 @@
 +++
 title = "Dépression"
 prefix = "la "
-description = "TODO:"
-synonyms = ["Syndrome dépressif", "épisode dépressif caractérisé"]
+description = "Recommendations pour le diagnostic et la prise en charge de la dépression. Questionnaire PHQ-9 et Hamilton, sévérité, psychothérapie et antidépresseur ISRS"
+synonyms = ["Syndrome dépressif", "épisode dépressif caractérisé (EDC)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-14T20:15:23+02:00"
-publishdate = "2023-11-13"
-lastmod = "2023-11-13"
+publishdate = "2023-11-18"
+lastmod = "2023-11-18 "
 specialites = ["psychiatrie"]
 annees = "2023"
-sources = ["ACP", "HAS"]
+sources = ["ACP", "VA", "HAS"]
 tags = ["BPCO", "cancer", "demence", "depistage", "depression", "diabete", "douleur", "fatigue", "geriatrie", "grossesse", "obesite"]
 anglais = ["Depression", "major depressive disorder (MDD)"]
 sctid = "35489007"
 icd10 = "F32.9"
 draft = true
-image = false
-imageSrc = ""
-todo = "Appli Way4Good, descr > summary > liens > photo > newsletter, quest ASQ, https://pharmacologie.sfpeada.fr/, https://onlinelibrary.wiley.com/doi/10.1002/wps.21069, https://www.bmj.com/content/380/bmj-2022-070678##, Antidépresseurs à éviter: cita + escita, venlafaxine, duloxetine, agomelatine, trianeptine. Risque mort subite si couplé (éso)-méprazole, https://dumas.ccsd.cnrs.fr/dumas-01599531/document"
+image = true
+imageSrc = "La dépression par storyset / Freepik"
+todo = "Enfant, adolescent, ECG, Appli Way4Good, summary > liens, quest ASQ, HAS2017p10, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/101.pdf"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -25,25 +26,19 @@ todo = "Appli Way4Good, descr > summary > liens > photo > newsletter, quest ASQ,
 TODO:
 - Une psychothérapie est toujours associée
 
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–
-
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-Épisode dépressif caractérisé (DSM-5)
+Épisode dépressif caractérisé (terme du DSM-5)
 : Dépression, ex << épisode dépressif majeur >>
-: Maladie psychiatrique fréquente (10% des 18-75 ans sur un an) à prédominance féminine (RR 1,5-3), pourvoyeuse de handicap avec lourd retentissement médico-économique et humain (**risque suicidaire**).
-: La définition est clinique: diminution pathologique de l'humeur (tristesse pathologique) et de l'énergie avec perturbations psychomotrices, physiologiques et psychoaffectives.
-: Il peut s'inscrire dans différentes pathologies psychiatriques (dépression isolée, trouble dépressif récurrent, trouble bipolaire) ou être accompagné d'un autre trouble psychiatrique (anxiété, addiction, schizophrénie).
+: Maladie psychiatrique fréquente (10% des 18-75 ans sur un an) à prédominance féminine (RR 2), pourvoyeuse de handicap avec lourd retentissement médico-économique et humain (**risque suicidaire**).
+: La définition est clinique: diminution pathologique de l'humeur (tristesse pathologique) et de l'énergie avec perturbations psychomotrices, physiologiques et psychoaffectives. **1/3** des épisodes sont d'intensité **sévère**.
+: Il peut s'inscrire dans différentes pathologies psychiatriques (dépression isolée, trouble dépressif récurrent, trouble bipolaire) ou être accompagné d'un autre trouble psychiatrique (**anxiété** pour 75%, addiction, schizophrénie).
 
 Trouble dépressif récurrent
 : Au moins 2 épisodes dépressifs caractérisés sans antécédent d'épisode (hypo)-maniaque.
 
 **NB.** La survenue de la dépression est ubiquitaire (mondiale) et ne dépend pas du niveau d'éducation.
-
-### Épidémiologie de la dépression en France
-
-TODO:
 
 ### Abréviations
 
@@ -65,6 +60,9 @@ HAS
 HDRS
 : {{%lang%}}Hamilton Depression Rating Scale{{%/lang%}} (échelle de dépression de Hamilton)
 
+IMAO
+: antidépresseur inhibiteur de la monoamine oxydase
+
 IRSNA
 : inhibiteurs de la recapture de la sérotonine et de la noradrénaline (ou IRSN)
 
@@ -82,6 +80,9 @@ TCC
 
 TS
 : tentative de suicide
+
+VA
+: {{%lang%}}United States Department of Veterans Affairs{{%/lang%}}
 {.dl-inline}
 
 {{% /collapse %}}
@@ -106,6 +107,7 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{<
 
 - {{< modal-btn modal-phq2 >}}Questionnaire PHQ-2{{< /modal-btn >}}
 - {{< modal-btn modal-phq4 >}}Questionnaire PHQ-4{{< /modal-btn >}} (couplé au repérage d'une anxiété – *ACP 2019*)
+- Post-partum: {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou questionnaire EPDS (Edinburgh postnatal depression scale)
 
   </div>
   <div class="tab-pane fade" id="nav-diagnostic" role="tabpanel" aria-labelledby="nav-tab-diagnostic">
@@ -113,10 +115,10 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{<
 #### Échelles d'aide au diagnostic de la dépression de l'adulte {.typography-headline-6}
 
 - {{< modal-btn modal-phq9 >}}Questionnaire PHQ-9{{< /modal-btn >}}
-- **Échelle de dépression de Beck** TODO: (auto-questionnaire)
+- **Échelle de dépression de Beck** (auto-questionnaire BDI)
 - {{< modal-btn modal-hads >}}Échelle HADS{{< /modal-btn >}} (intérêt en cas de comorbidités somatiques)
 - {{< modal-btn modal-hamilton >}}**Échelle d'Hamilton**{{< /modal-btn >}} (HDRS ou HAM-D, suivi de l'évolution ++)
-- Sujet âgé: échelle GDS-15 (et MMSE) TODO:
+- Sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} (variantes 4 ou 30 questions, et MMSE)
 
   </div>
   <div class="tab-pane fade" id="nav-severite" role="tabpanel" aria-labelledby="nav-tab-severite">
@@ -125,8 +127,8 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{<
 
 - {{< modal-btn modal-phq9 >}}Questionnaire PHQ-9{{< /modal-btn >}}
 - {{< modal-btn modal-hamilton >}}**Échelle d'Hamilton**{{< /modal-btn >}} (HDRS ou HAM-D, suivi de l'évolution ++)
-- **Échelle de dépression de Beck** TODO: (auto-questionnaire)
-- **Échelle MADRS** (Montgomery et Asberg)
+- **Échelle de dépression de Beck** (auto-questionnaire)
+- **[Échelle MADRS](https://www.psychiaclic.fr/media/pages/ressources/ressource-lien/82949d2960-1633341129/madrs.pdf)** (Montgomery Asberg depression rating Scale)
 
   </div>
 </div>
@@ -163,6 +165,12 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{<
 4. L'occurrence de l'EDC n'est pas mieux expliquée par un trouble schizo-affectif, une schizophrénie, un trouble schizophréniforme, un trouble délirant, ou un autre trouble psychotique.
 5. Il n'y a jamais eu d'épisode maniaque ou hypomaniaque.
 {.liste-lettres}
+
+L'évaluation de la sévérité repose sur le nombre de critères, la sévérité des symptômes et le degré de l'altération du fonctionnement:
+
+- Léger: peu ou pas de symptômes supplémentaires par rapport au nombre nécessaire pour répondre au diagnostic; la gravité de symptômes est à l'origine d'un sentiment de détresse mais qui reste gérable, et les symptômes sont à l'origine d'une altération mineure du fonctionnement social ou professionnel.
+- Moyen: le nombre et la gravité des symptômes et/ou de l'altération du fonctionnement sont compris entre << léger >> et << grave >>.
+- Grave: Le nombre des symptômes est en excès par rapport au nombre nécessaire pour faire le diagnostic; la gravité des symptômes est à l'origine d'une souffrance importante et ingérable, et les symptômes perturbent nettement le fonctionnement social ou professionnel.
 
 **NB.** Les critères A à C caractérisent l'EDC.
 
@@ -202,9 +210,6 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{<
 
 > – [Classification Internationale des Maladies 10e version (CIM-10)](https://icd.who.int/browse10/2008/fr#/F32)
 
-{{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
 ### Diagnostic différentiel d'un épisode dépressif caractérisé
 
 - Autres troubles psychiatriques
@@ -217,69 +222,177 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{<
   - Trouble de la personnalité
 - Usage, abus, dépendance et sevrage de médicaments
 - Usage, abus, dépendance et sevrage de substances psychoactives
-- Maladies somatiques: hypothyroïdie, maladie neurodégénérative
+- Maladies somatiques: [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), maladie neurodégénérative
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Dépister la dépression chez l'adulte (notamment si grossesse ou post-partum – *USPTF 2023*) et devant tout trouble cognitif (*HAS 2017*): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}} (couplé à l'anxiété) ou {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}}
+Dépister la dépression chez l'adulte (notamment si grossesse ou post-partum – *USPTF 2023*), l'adolescent de 12 à 18 ans (*USPTF*) et devant tout trouble cognitif (*HAS 2017*): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}} (couplé à l'anxiété) ou {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}}
 {.alert .alert-info}
 
 Le premier épisode dépressif peut survenir à tout âge mais il survient plus souvent chez l'adulte jeune (25 ans).
 
+En ville, le motif de consultation est somatique pour 45 à 95% des patients atteints de dépression (*Prescrire*).
+
 - Antécédents  
   Psychiatriques (TS, dépression, (hypo-)manie, anxiété), médicaux, hospitalisations, maltraitance.
 - Antécédents familiaux (psychiatriques)
-- Traitements en cours, automédication
-- Contraception
+- Traitements en cours, automédication  
+  Médicaments à risque, toujours lire les RCP: antiépileptiques, neuroleptiques, myorelaxants, méthylphénidate, alcool (baclofène, acamprosate, naltrexone), IMAO-B, interféron, rétinoïdes, corticoïdes, montélukast, immunodépresseurs (aprémilast ...), antiviral (ribavirine, éfavirenz ...), pitolisant.
+- Contraception (hormonale ++)
 - Facteurs de risque psycho-sociaux
   - Deuil, perte de relations, aidant, problèmes (financiers, logement, travail, famille)
   - Environnement socio-professionnel et ressources, maltraitance, harcèlement
-- Symptômes
-  - Fatigue
-  - Perte de plaisir des activités appréciées
+- Symptômes psychoaffectifs
+  - Perturbation de l'humeur  
+    Humeur dépressive, tristesse quasi permanente (maximale le matin, amélioration dans la journée).
+  - Perturbation des émotions  
+    Anhédonie, perte de plaisir des activités appréciées, anesthésie affective, anxiété, irritabilité (adolescent ++).
+  - Altération du contenu de la pensée  
+    Culpabilité, dévalorisation (inutilité, indignité), incurabilité.
+  - Pensées de mort
+- Perturbations psychomotrices
+  - Ralentissement psychomoteur ou agitation
+  - Perturbations du cours de la pensée  
+    Bradypsychie, ruminations négatives, monoidéisme.
+  - Altérations cognitives  
+    Troubles de la concentration, de la mémoire, de l'attention, indécision.
+  - Ralentissement moteur et comportemental  
+    Bradykinésie, hypomimie, bradyphémie, aprosodie, clinophilie, incurie, aboulie (exécution des actes planifiés et prise de décision).
+  - Perturbations physiologiques
+    - Troubles du sommeil et du rythme circadien  
+      **Insomnie avec réveils nocturnes**, réveils précoces ou d'endormissement, somnolence.
+    - [Fatigue](/tags/fatigue/)
+    - Conduites alimentaires  
+      Anorexie voire hyperphagie, grignotage, appétence sucrée.
   - Troubles de la sexualité
-  - Plaintes somatiques
   - Symptômes psychotiques: hallucinations, délire
-  - Retentissement socio-professionnel
   - Maintien des activités quotidiennes: hygiène, alimentation
-  - Sévérité de l'épisode dépressif: léger, modérée, sévère TODO: HASp10
+  - Sévérité de l'épisode dépressif: léger, modérée, sévère ({{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}})
+- Symptômes somatiques
 - Comorbidités
   - Toxiques, sevrage
   - Auto/hétéro-agressivité
   - Dépistage d'une anxiété (75%): {{< modal-btn modal-gad2 >}}échelle GAD-2{{< /modal-btn >}}
+- Retentissement socio-professionnel
 - **Évaluation du risque suicidaire**
-- Sujet âgé: rechercher une maladie neuro-dégénérative (Alzheimer, Parkinson), MMSE TODO:
+- Sujet âgé: rechercher une maladie neuro-dégénérative (Alzheimer, Parkinson), [MMSE (PDF)](http://www.sgca.fr/outils/mms.pdf)
 
 Avec l'accord du patient, interroger l'entourage.
 
+Questionnaires d'aide au diagnostic de la dépression chez l'adulte (voir la section dédiée): {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HADS{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} et MMSE.
+
 > << Le diagnostic de l'épisode dépressif caractérisé est clinique >> – *HAS 2017*
-
-### Particularités de la dépression chez l'adolescent
-
-TODO:
 
 {{% /collapse %}}
 {{%collapse "Évaluation du risque suicidaire" %}}
 
 > << Tout épisode dépressif caractérisé chez le sujet âgé comporte un risque suicidaire élevé >> – *HAS 2017*
 
-Évaluer avec tact et confiance le risque suicidaire:
+Exemple de questions à poser pour évaluer l'intention suicidaire:
 
-- Début, durée, intensité et fréquence des idées suicidaires
-- Imminence du passage à l'acte
-- Comportements préparatoires à la concrétisation du passage à l'acte
-- Recherche et accès à des moyens létaux
-- Tenir compte de l'environnement et des facteurs de protection (soutien social fort, raisons positives de vivre)
+- Avez-vous déjà pensé à vous faire du mal ?  
+  Si oui, de quelle façon ?
+- Pensez-vous que votre vie ne vaut pas la peine d'être vécue ?
+- Souhaiteriez-vous être mort ?
+- Avez-vous déjà pensé à mourir ?
+- Avez-vous fait des plans pour mettre fin à vos jours ?
+- Avez-vous à votre disposition les moyens pour faire cela ?
+- Qu'est-ce qui vous retient de mettre en œuvre ces pensées ?
 
-> Le questionnement sur le suicide ne renforce pas le risque suicidaire.
+> – *HAS 2017*
 
-TODO: HASp12
+Le questionnement sur le suicide ne renforce pas le risque suicidaire.
+{.alert .alert-warning}
+
+Numéro national de prévention du suicide (24/7 et section médecin): {{<phone>}}3114{{</phone>}}.
+
+Sites et hotlines: [SOS Amitié France](https://www.sos-amitie.com), [SOS suicide Phénix](https://sos-suicide-phenix.org), [Suicide Écoute](https://www.suicide-ecoute.fr), [Phare-Enfants-Parents](https://www.phare.org)
+
+### Facteurs de risque suicidaire
+
+L'accumulation de facteurs de risque aggrave la dangerosité:
+
+- Facteurs psychosociaux
+  - Solitude, isolement, précarité
+  - Homme
+  - Personne âgée (+75 ans ++) ou jeune (< 30 ans)
+  - Perte récente (décès, divorce, métier, situation sociale)
+  - Autres facteurs de stress
+  - Appartenance à une minorité sexuelle
+  - Absence de facteurs protecteurs, manque de soutiens
+  - Professions cumulant les risques psychosociaux et l'accès à des moyens létaux (médecins ++)
+- Antécédents
+  - Actes impulsifs, violence
+  - Tentative de suicide, automutilation
+  - Antécédent familial de suicide ou de pathologie mentale
+- Caractéristiques cliniques
+- Impulsivité
+  - Dépression sévère
+  - Désespoir, absence de désir de continuer
+  - Douleur psychique
+  - Psychose
+  - Troubles de la personnalité
+  - Anxiété sévère, agitation, attaque de panique
+  - Baisse de l'estime de soi
+  - Toxiques ou sevrage
+  - Comorbidité somatique invalidante, symptômes physiques (douleur chronique, insomnie, incapacité)
+
+> – *HAS 2017*
+
+### Degrés d'urgence suicidaire
+
+Manque de scores en médecine générale pour l'aide à l'évaluation du risque suicidaire (*[Blanchet 2019](https://dumas.ccsd.cnrs.fr/dumas-02122265/document)*).
+
+#### Risque suicidaire élevé (urgence)
+
+Le patient en crise:
+
+- est décidé: sa planification est claire et le passage à l'acte est prévu pour les jours qui viennent
+- est coupé de ses émotions: il rationalise sa décision ou est très émotif, agité, troublé
+- se sent complètement immobilisé par la dépression ou dans un état de grande agitation
+- a une douleur et une expression de la souffrance omniprésentes ou complètement tues
+- a un accès direct et immédiat à un moyen de se suicider
+- a le sentiment d'avoir tout fait et tout essayé
+- est très isolé
+
+Hospitalisation sous contrainte si besoin
+{.alert .alert-warning}
+
+#### Risque suicidaire modéré
+
+Le patient en crise:
+
+- envisage le suicide et son intention est claire
+- a envisagé un scénario suicidaire, mais dont l'exécution est reportée
+- ne voit de recours autre que le suicide pour cesser de souffrir
+- présente un équilibre émotionnel fragile
+- a besoin d'aide et exprime directement ou indirectement son désarroi
+- est isolé
+
+Prise en charge par hospitalisation, suivi renforcé ou avis psychiatrique.
+
+#### Risque suicidaire faible
+
+Le patient en crise:
+
+- est dans une relation de confiance établie avec le praticien
+- désire parler et est à la recherche de communication
+- cherche des solutions à ses problèmes
+- pense au suicide, mais n'a pas de scénario suicidaire précis
+- pense encore à des moyens et à des stratégies pour faire face à la crise
+- n'est pas anormalement troublé, mais psychologiquement souffrant
+
+Réévaluations fréquentes du niveau d'urgence.
+
+> – *HAS 2017*
+
+TODO: grille RUD https://psychotropes.fr/storage/3/tool8.pdf
 
 {{% /collapse %}}
 {{%collapse "Indications à l'hospitalisation" %}}
 
-### Indications à l'hospitalisation d'un adulte pour dépression
+### Critères d'hospitalisation d'un adulte pour dépression
 
 Envisager une hospitalisation immédiate ou au cours de l'évolution si:
 
@@ -289,9 +402,9 @@ Envisager une hospitalisation immédiate ou au cours de l'évolution si:
 - Dépression sévère avec symptômes psychotiques ou somatiques sévères associés
 - Agitation anxieuse importante avec manque de contrôle
 - Sevrage de substance psychoactive
-- À chaque fois qu'une situation particulière l'exige
+- À chaque fois qu'une situation particulière l'exige (sévère du post-partum en unité mère-enfant ...)
 
-> – *HAS 2017*
+> – *HAS. Épisode dépressif caractérisé de l'adulte : prise en charge en soins de premier recours. 2017.*
 
 Si l'hospitalisation est refusée, évaluer une hospitalisation sous contrainte.
 
@@ -309,7 +422,73 @@ La prise en charge de la dépression nécessite des consultations dédiées.
   - Si insuffisant: essayer ou cumuler l'autre traitement, substituer par un autre antidépresseur ou ajouter un 2e traitement médicamenteux
 - Rassurer: tout problème survenant au cours du traitement sera pris en compte de façon appropriée
 
+{{% /collapse %}}
+{{%collapse "Traitement de la dépression" %}}
+
+[Annuaire des psychiatres](https://www.sante.fr/recherche/trouver/psychiatre/Autour%20de%20moi) et des [Centres médico-psychologiques](https://www.sante.fr/recherche/trouver/cmp) (CMP).
+
+- Activité physique régulière (marche, yoga, Qi Gong)  
+  Prescription d'Activité physique adaptée (APA).
+- Activité sociale régulière
+- Maintenir un rythme de vie sain (horaires, sommeil)
+- Luminothérapie (*VA 2022*)
+- Éviter la consommation d'alcool et de toxiques
+- Psychothérapie  
+  {{< modal-btn modal-soutien >}}De soutien{{< /modal-btn >}} ([lignes d'écoute](https://www.psycom.org/sorienter/les-lignes-decoute/#soutien-psychologique-par-profession-655774df4b7d2)), **thérapies cognitivo-comportementales** (TCC), psychothérapies psychodynamiques ou d'inspiration analytique, thérapies systémiques.
+- Arrêt de travail si nécessaire  
+  Court (1-2 semaines) avec réévaluations tous les 3-7 jours ou 1 mois avec évaluations hebdomadaires (*Ameli*).
+- Information du patient  
+  Symptômes et évolution de la maladie, discuter des stéréotypes, effets bénéfiques des traitements et leurs effets indésirables (délai d'action, risque de désinhibition), suivi rapproché, information de l'entourage avec accord.
+- Établir un projet thérapeutique avec le patient, réévaluations
+- Avec l'accord: mobiliser l'entourage
+- Suivi rapproché: symptômes, toxiques, automédication, mode de vie
+- Information du patient: [Psycom](https://www.psycom.org)
+- Lecture pour l'entourage: << Chevance A. En finir avec les idées fausses sur la psychiatrie et la santé mentale. >> (12,50 €)
+- Associations de patients: TODO:
+
+### Traitements médicamenteux de la dépression
+
+Le traitement d'attaque de la phase aiguë de dépression vise la **rémission complète des symptômes**. Ensuite la phase de consolidation vise à prévenir la rechute.
+
+> << Après évaluation, un traitement antidépresseur peut être prescrit dès la première consultation si l'intensité du tableau clinique le nécessite. >> – *HAS 2017* (sauf épisode dépressif caractérisé d'intensité légère)
+
+> << Il n'existe pas de différence d'efficacité clinique démontrée entre les différents types d'antidépresseurs pour les patients suivis en ambulatoire. >> – *HAS 2017*
+
+Classes thérapeutiques: ISRS, IRSNA, autres antidépresseurs (miansérine, mirtazapine 15-45, vortioxétine sauf tianeptine et agomélatine). Antidépresseurs imipraminiques (tricycliques) en 2e intention par toxicité cardiovasculaire (et pas après 75 ans) et IMAO en dernier recours.
+
+TODO: Traitements possibles pendant la grossesse seulement si essentiel: TODO:IRSNA ACP2023p7 (Desvenlafaxine ?), imipraminique (clomipramine, amitriptyline, imipramine).
+
+- Évaluer les interactions médicamenteuses ([Drugs.com](https://www.drugs.com/drug_interactions.html))
+- Réévaluation à 1 et 2 semaines, puis rapprochée les 2 premiers mois (désinhibition suicidaire, agitation, effets indésirables)
+- Informer le patient et l'entourage sur la désinhibition et la nécessité de consulter rapidement en cas de modification de l'humeur
+- Pendant la grossesse, la plupart des traitements de référence sont possibles si un traitement est nécessaire  
+  << l'utilisation d'antidépresseurs pendant la grossesse n'augmente pas le risque de troubles du développement neurologique chez l'enfant >> (*Suarez et al 2022*)
+- Délai d'action plus long chez le sujet âgé (maintenir min 1 an après rémission)
+- Thérapies autres: acupuncture (*ACP*)
+- Si anxiété, agitation, insomnies invalidantes: benzodiazépine pendant 2 semaines
+- Arrêt progressif de l'antidépresseur (> 1 mois – *NICE 2009*) après décision partagée au-delà de 6-12 mois de rémission
+
+#### Recommendations pour le traitement médicamenteux selon la sévérité de la dépression
+
+- EDC d'intensité légère: {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} ou TCC (suggérée par l'ACP), réévaluation à 4-8 semaines ({{< modal-btn modal-phq9 >}}Questionnaire PHQ-9{{< /modal-btn >}}, Hamilton)
+  - Rémission partielle: poursuite et réévaluation 4-8 semaines.  
+    Si persistance: envisager EDC d'intensité modérée et avis psychiatrique
+  - Persistance ou aggravation: réévaluer le diagnostic et envisager un EDC d'intensité modérée
+- EDC d'intensité modérée: TCC (psychiatre, psychologue clinicien ou psychothérapeute), antidépresseur ISRS/IRSNA/autre (*HAS*: selon l'impression clinique; *ACP*: suggéré), réévaluation à 4-8 semaines
+  - Rémission complète: psychothérapie, poursuivre l'éventuel antidépresseur 6-12 mois (4-9 selon l'*ACP*)
+  - Rémission partielle: psychothérapie, augmenter ou substituer l'antidépresseur, réévaluation 4-8 semaines
+  - Persistance ou aggravation: réévaluer le diagnostic et envisager un EDC d'intensité sévère
+- EDC d'intensité sévère: vérifier les critères d'hospitalisation, antidépresseur d'emblée ISRS/IRSNA/autre et avis psychiatrique (psychothérapie, antidépresseur)
+  - Rémission complète: psychothérapie, poursuivre l'antidépresseur 6-12 mois
+  - Rémission partielle, persistance ou aggravation: réévaluation psychiatrique, envisager l'hospitalisation
+
 {{< card-link-external title="Switch des antidépresseurs" url="https://www.psychopharma.fr/switch" subtitle="par Psychopharma" >}}
+
+### Autres traitements de la dépression
+
+D'autres traitements médicamenteux (IMAO, buspirone, kétamine, eskétamine) relèvent du psychiatre.
+
+> << Au total, dans l'indication de traitement de la dépression résistante chez l'adulte, malgré un profil de sécurité rassurant, les données retenues liées à la rTMS (stimulation électrique transcrânienne ou électroconvulsivothérapie ECT) ne montrent pas un impact clinique favorable >> – *HAS 2022*. L'Académie de médecine ne partage pas ce point de vue.
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
@@ -319,30 +498,50 @@ La prise en charge de la dépression nécessite des consultations dédiées.
 {{< youtube id="yiuNoRaEs6k" title="Pourquoi la dépression de l'adolescent est-elle difficile à repérer ? (HAS)" >}}
 
 {{% /collapse %}}
+{{% collapse "Prise en charge de la dépression" "show" %}}
+
+{{< mermaid title="Prise en charge de l'acné selon la forme clinique. Dr JB Fron d'après SFDermato 2015">}}
+graph TB
+  dépistage["Dépistage systémique de la dépression<br>à partir de 12 ans"] --> évaluation
+  style dépistage stroke:#4150f5, stroke-width:1px
+  suspicion["Suspicion de dépression"]
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [US Preventive Services Task Force, Barry MJ et al. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2023.9297)
-- [DeMartini J et al; ACP. Generalized Anxiety Disorder. Ann Intern Med. 2019.](https://pubmed.ncbi.nlm.nih.gov/30934083/)
+- [Qaseem A et al. Nonpharmacologic and Pharmacologic Treatments of Adults in the Acute Phase of Major Depressive Disorder: A Living Clinical Guideline From the American College of Physicians. Ann Intern Med. 2023.](https://www.acpjournals.org/doi/full/10.7326/M22-2056?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)
+- [Vita G et al. Antidepressants for the treatment of depression in people with cancer. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011006.pub4/full/fr)
+- [Académie Nationale de Médecine. Efficacité et tolérance de l'électroconvulsivothérapie en psychiatrie, une mise au point. Communication scientifique. 2023.](https://www.academie-medecine.fr/efficacite-et-tolerance-de-lelectroconvulsivotherapie-en-psychiatrie-une-mise-au-point/)
+- [Cuijpers P et al. Cognitive behavior therapy vs. control conditions, other psychotherapies, pharmacotherapies and combined treatment for depression: a comprehensive meta-analysis including 409 trials with 52,702 patients. World Psychiatry. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36640411/)
+- Prescrire Redaction. Dépressions médicamenteuses. Rev Prescrire. 2023.
+- Prescrire Redaction. Bilan 2023 des médicaments à écarter : psychiatrie - dépendances. Rev Prescrire. 2022.
+- [HAS. Stimulation magnétique transcrânienne dans le traitement de la dépression de l'adulte. 2022.](https://www.has-sante.fr/jcms/p_3211966/fr/stimulation-magnetique-transcranienne-dans-le-traitement-de-la-depression-de-l-adulte)
+- [McQuaid JR et al. The Management of Major Depressive Disorder: Synopsis of the 2022 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline. Ann Intern Med. 2022.](https://www.acpjournals.org/doi/full/10.7326/M22-1603)
+- [US Preventive Services Task Force. Screening for Depression and Suicide Risk in Children and Adolescents: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2797145)
+- [Suarez E et al. Association of Antidepressant Use During Pregnancy With Risk of Neurodevelopmental Disorders in Children. JAMA Intern Med. 2022.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2797101)
+- [Collège National Universitaire de Psychiatrie (CNUP). Troubles de l'humeur Épisode dépressif caractérisé et trouble dépressif récurrent de l'adolescent et de l'adulte. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
+- [Royal College of Psychiatrists. Position statement on antidepressants and depression. 2019. (PDF)](https://www.bap.org.uk/pdfs/PS04-19-antidepressants-and-depression.pdf)
+- [HAS. Coordination entre le médecin généraliste et les différents acteurs de soins dans la prise en charge des patients adultes souffrant de troubles mentaux – états des lieux, repères et outils pour une amélioration. 2018.](https://www.has-sante.fr/jcms/c_2874187/fr/coordination-entre-le-medecin-generaliste-et-les-differents-acteurs-de-soins-dans-la-prise-en-charge-des-patients-adultes-souffrant-de-troubles-mentaux-etats-des-lieux-reperes-et-outils-pour-une-amelioration)
 - [HAS. Épisode dépressif caractérisé de l'adulte : prise en charge en soins de premier recours. 2017.](https://www.has-sante.fr/jcms/p_3261767/fr/depression)
+- [Davidson JR et al; British Association for Psychopharmacology. A psychopharmacological treatment algorithm for generalised anxiety disorder (GAD). J Psychopharmacol. 2010.](https://pubmed.ncbi.nlm.nih.gov/18832431/)
+- [Santé Publique France. Dépression et anxiété.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/sante-mentale/depression-et-anxiete)
+- [Ameli Médecins. La santé mentale en soins primaires.](https://www.ameli.fr/hauts-de-seine/medecin/sante-prevention/sante-mentale-soins-primaires)
+- [Psychiaclic. Trouble dépressif](https://www.psychiaclic.fr/troubles-psychiatriques/trouble-depressif)
+- [psychotropes.fr](https://psychotropes.fr)
+- [SFPEADA pharmacologie](https://pharmacologie.sfpeada.fr)
 
 ### Bibliographie en attente
 
-- [Qaseem A et al. Nonpharmacologic and Pharmacologic Treatments of Adults in the Acute Phase of Major Depressive Disorder: A Living Clinical Guideline From the American College of Physicians. Ann Intern Med. 2023.](https://www.acpjournals.org/doi/full/10.7326/M22-2056?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)
-- Collège National Universitaire de Psychiatrie (CNUP). Troubles de l'humeur Épisode dépressif caractérisé et trouble dépressif récurrent de l'adolescent et de l'adulte. 2021.
-- [HAS. Dépression](https://www.has-sante.fr/jcms/p_3261767/fr/depression)
-- [US Preventive Services Task Force. Screening for Depression and Suicide Risk in Children and Adolescents: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2797145)
-- Antidépresseurs pendant la Grossesse et neurodéveloppement: <https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2797101>
+- [Anaes, FFP. La crise suicidaire : reconnaître et prendre en charge. 2000.](https://www.has-sante.fr/jcms/c_271964/fr/la-crise-suicidaire-reconnaitre-et-prendre-en-charge)
+- [HAS. Manifestations dépressives à l'adolescence : repérage, diagnostic et prise en charge en soins de premier recours. 2014.](https://www.has-sante.fr/jcms/c_1782013/fr/manifestations-depressives-a-l-adolescence-reperage-diagnostic-et-prise-en-charge-en-soins-de-premier-recours)
+- [HAS. Prise en compte de la souffrance psychique de la personne âgée : prévention, repérage et accompagnement. 2014.](https://www.has-sante.fr/jcms/c_2836216/fr/prise-en-compte-de-la-souffrance-psychique-de-la-personne-agee-prevention-reperage-et-accompagnement)
+- [HAS. Idées et conduites suicidaires chez l'enfant et l'adolescent : prévention, repérage, évaluation et prise en charge. 2021.](https://www.has-sante.fr/jcms/p_3288864/fr/idees-et-conduites-suicidaires-chez-l-enfant-et-l-adolescent-prevention-reperage-evaluation-et-prise-en-charge)
 - [Binder P et al. Detection of adolescent suicidality in primary care: an international utility study of the bullying-insomnia-tobacco-stress test. Early Interv Psychiatry. 2020.](https://pubmed.ncbi.nlm.nih.gov/31058453/)
-- [McQuaid JR et al. The Management of Major Depressive Disorder: Synopsis of the 2022 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline. Ann Intern Med. 2022.](https://pubmed.ncbi.nlm.nih.gov/36122380/)
-- Psychiaclic
-- Chevance A. En finir avec les idées fausses sur la psychiatrie et la santé mentale
-- [Vita G et al. Antidepressants for the treatment of depression in people with cancer. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011006.pub4/full/fr)
 - [Williams JB. A structured interview guide for the Hamilton Depression Rating Scale. Arch Gen Psychiatry. 1988;45(8):742-747. doi:10.1001/archpsyc.1988.01800320058007](https://pubmed.ncbi.nlm.nih.gov/3395203/)
-- Prescrire
-- <https://www.academie-medecine.fr/efficacite-et-tolerance-de-lelectroconvulsivotherapie-en-psychiatrie-une-mise-au-point/>
-- <https://www.ameli.fr/medecin/sante-prevention/sante-mentale-soins-primaires>
-- <https://www.bap.org.uk/pdfs/PS04-19-antidepressants-and-depression.pdf>
-- <https://www.bap.org.uk/pdfs/BAP_Guidelines-Antidepressants.pdf>
+- [Cleare A et al. Evidence-based guidelines for treating depressive disorders with antidepressants: A revision of the 2008 British Association for Psychopharmacology guidelines. J Psychopharmacol. 2015. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Antidepressants.pdf)
+- [Dumesnil H et al. La prise en charge de la dépression en médecine générale de ville. Drees. 2012.](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/la-prise-en-charge-de-la-depression-en-medecine-generale-de-0)
 
 {{%/sources%}}
 {{% modal title="Echelle de depression de Hamilton" id="modal-hamilton"%}}
@@ -378,5 +577,25 @@ La prise en charge de la dépression nécessite des consultations dédiées.
 {{% modal title="Échelle HADS" id="modal-hads"%}}
 
 {{< scores/hads >}}
+
+{{% /modal %}}
+{{% modal title="Échelle de dépression gériatrique" id="modal-gds15"%}}
+
+{{< scores/gds15 >}}
+
+{{% /modal %}}
+{{% modal title="La psychothérapie de soutien" id="modal-soutien"%}}
+
+{{< traitements/psychotherapie-soutien >}}
+
+{{% /modal %}}
+{{% modal title="Antidépresseurs ISRS" id="modal-isrs"%}}
+
+{{< traitements/isrs-edc >}}
+
+{{% /modal %}}
+{{% modal title="Antidépresseurs IRSNA" id="modal-irsna"%}}
+
+{{< traitements/irsna-edc >}}
 
 {{% /modal %}}
