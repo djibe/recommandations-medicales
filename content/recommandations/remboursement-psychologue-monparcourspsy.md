@@ -105,7 +105,7 @@ Scores: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal
 {{< scores/audit-c >}}
 
 {{% /modal %}}
-{{% modal title="Score PHQ-9" id="modal-phq9"%}}
+{{% modal title="Questionnaire PHQ-9" id="modal-phq9"%}}
 
 {{< scores/phq9 >}}
 

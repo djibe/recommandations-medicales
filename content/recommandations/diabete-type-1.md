@@ -312,7 +312,7 @@ Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heur
 {{< traitements/regime-mediterraneen >}}
 
 {{% /modal %}}
-{{% modal title="Score PHQ-9" id="modal-phq9"%}}
+{{% modal title="Questionnaire PHQ-9" id="modal-phq9"%}}
 
 {{< scores/phq9 >}}
 

@@ -10,7 +10,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-14T15:58:37+01:00"
 publishdate = "2021-12-14"
-lastmod = "2023-10-17"
+lastmod = "2023-11-19"
 specialites = []
 annees = "2023"
 sources = []
@@ -72,7 +72,10 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 
 ## Psychiatrie {.typography-overline}
 
-- Repérage d'une dépression: {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HAD{{< /modal-btn >}}
+- Dépression
+  - Repérage d'une dépression: {{< modal-btn modal-phq2 >}}PHQ-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}}
+  - Aide au diagnostic d'une dépression: {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HAD{{< /modal-btn >}}, {{< modal-btn modal-gds15 >}}GDS-15{{< /modal-btn >}} (sujet âgé)
+  - Aide à la sévérité de la dépression: {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}
 - Repérage d'une anxiété: {{< modal-btn modal-gad2 >}}GAD-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}}. Sévérité: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HAD{{< /modal-btn >}}
 - Troubles du comportement alimentaire: {{< modal-btn modal-scoff >}}dépistage (score SCOFF-F){{< /modal-btn >}}
 - Alcool recherche de mésusage: {{< modal-btn modal-audit >}}questionnaire AUDIT{{< /modal-btn >}}, {{< modal-btn modal-deta >}}CAGE/DETA{{< /modal-btn >}}, {{< modal-btn modal-face >}}FACE{{< /modal-btn >}}
@@ -275,12 +278,17 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< scores/hamilton >}}
 
 {{% /modal %}}
+{{% modal title="Score PHQ-2" id="modal-phq2"%}}
+
+{{< scores/phq2 >}}
+
+{{% /modal %}}
 {{% modal title="Score PHQ-4" id="modal-phq4"%}}
 
 {{< scores/phq4 >}}
 
 {{% /modal %}}
-{{% modal title="Score PHQ-9" id="modal-phq9"%}}
+{{% modal title="Questionnaire PHQ-9" id="modal-phq9"%}}
 
 {{< scores/phq9 >}}
 
@@ -298,6 +306,11 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{% modal title="Score HADS" id="modal-hads"%}}
 
 {{< scores/hads >}}
+
+{{% /modal %}}
+{{% modal title="Score GDS-15" id="modal-gds15"%}}
+
+{{< scores/gds15 >}}
 
 {{% /modal %}}
 {{% modal title="Score CAST de mésusage du cannabis" id="modal-cast"%}}

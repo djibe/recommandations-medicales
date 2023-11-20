@@ -174,7 +174,7 @@ Galerie de photos du vitiligo.
 {{< clinique/phototype-fitzpatrick >}}
 
 {{% /modal %}}
-{{% modal title="Score PHQ-9" id="modal-phq9"%}}
+{{% modal title="Questionnaire PHQ-9" id="modal-phq9"%}}
 
 {{< scores/phq9 >}}
 

@@ -17,7 +17,7 @@ icd10 = "F32.9"
 draft = true
 image = true
 imageSrc = "La dépression par storyset / Freepik"
-todo = "Enfant, adolescent, ECG, Appli Way4Good, summary > liens, quest ASQ, HAS2017p10, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/101.pdf"
+todo = "Enfant, adolescent, indications suivi CMP, ECG, Appli Way4Good, college > summary > liens, quest ASQ, HAS2017p10, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/101.pdf"
 flowchart = true
 +++
 
@@ -44,6 +44,9 @@ Trouble dépressif récurrent
 
 ACP
 : {{%lang%}}American College of Physicians{{%/lang%}}
+
+CMP
+: Centres médico-psychologiques
 
 EDC
 : épisode dépressif caractérisé
@@ -411,24 +414,31 @@ Si l'hospitalisation est refusée, évaluer une hospitalisation sous contrainte.
 {{% /collapse %}}
 {{%collapse "Traitement de la dépression de l'adulte" %}}
 
-Pour le remboursement (rare) de la prise en charge de la psychothérapie, voir [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}).
+La prise en charge de la dépression nécessite des consultations dédiées. Pour le remboursement (rare) de la prise en charge de la psychothérapie, voir [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}).
+{.alert .alert-info}
 
-La prise en charge de la dépression nécessite des consultations dédiées.
+#### Recommendations pour la prise en charge de la dépression selon sa sévérité
 
-### Traitement de la phase aiguë
+- Épisode dépressif caractérisé d'**intensité légère**: {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} ou thérapie cognitive et comportementale (TCC, suggérée par l'*ACP*), réévaluation à 4-8 semaines ({{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}} d'Hamilton{{< /modal-btn >}})
+  - Rémission partielle: poursuite et réévaluation 4-8 semaines.  
+    Si persistance: envisager EDC d'intensité modérée et avis psychiatrique
+  - Persistance ou aggravation: réévaluer le diagnostic et envisager un EDC d'intensité modérée
+- EDC d'**intensité modérée**: TCC (psychiatre, psychologue clinicien ou psychothérapeute), antidépresseur {{< modal-btn modal-isrs >}}ISRS{{< /modal-btn >}}/{{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}/autre (*HAS*: selon l'impression clinique; *ACP*: suggéré), réévaluation à 4-8 semaines
+  - Rémission complète: psychothérapie, poursuivre l'éventuel antidépresseur 6-12 mois (4-9 selon l'*ACP*)
+  - Rémission partielle: psychothérapie, augmenter ou substituer l'antidépresseur, réévaluation 4-8 semaines
+  - Persistance ou aggravation: réévaluer le diagnostic et envisager un EDC d'intensité sévère
+- EDC d'**intensité sévère**: vérifier les critères d'hospitalisation, antidépresseur d'emblée {{< modal-btn modal-isrs >}}ISRS{{< /modal-btn >}}/{{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}/autre et avis psychiatrique (psychothérapie, antidépresseur)
+  - Rémission complète: psychothérapie, poursuivre l'antidépresseur 6-12 mois
+  - Rémission partielle, persistance ou aggravation: réévaluation psychiatrique, envisager l'hospitalisation
 
-- Légère: psychothérapie TCC
-- Modérée à sévère: psychologique TCC ou antidépresseur de 2e génération (suggère les 2)
-  - Si insuffisant: essayer ou cumuler l'autre traitement, substituer par un autre antidépresseur ou ajouter un 2e traitement médicamenteux
-- Rassurer: tout problème survenant au cours du traitement sera pris en compte de façon appropriée
+{{< card-link-external title="Switch des antidépresseurs" url="https://www.psychopharma.fr/switch" subtitle="par Psychopharma" >}}
 
-{{% /collapse %}}
-{{%collapse "Traitement de la dépression" %}}
+### Mesures générales possibles pour tous les épisodes dépressifs caractérisés
 
 [Annuaire des psychiatres](https://www.sante.fr/recherche/trouver/psychiatre/Autour%20de%20moi) et des [Centres médico-psychologiques](https://www.sante.fr/recherche/trouver/cmp) (CMP).
 
 - Activité physique régulière (marche, yoga, Qi Gong)  
-  Prescription d'Activité physique adaptée (APA).
+  Prescription d'*activité physique adaptée* (APA).
 - Activité sociale régulière
 - Maintenir un rythme de vie sain (horaires, sommeil)
 - Luminothérapie (*VA 2022*)
@@ -454,9 +464,7 @@ Le traitement d'attaque de la phase aiguë de dépression vise la **rémission c
 
 > << Il n'existe pas de différence d'efficacité clinique démontrée entre les différents types d'antidépresseurs pour les patients suivis en ambulatoire. >> – *HAS 2017*
 
-Classes thérapeutiques: ISRS, IRSNA, autres antidépresseurs (miansérine, mirtazapine 15-45, vortioxétine sauf tianeptine et agomélatine). Antidépresseurs imipraminiques (tricycliques) en 2e intention par toxicité cardiovasculaire (et pas après 75 ans) et IMAO en dernier recours.
-
-TODO: Traitements possibles pendant la grossesse seulement si essentiel: TODO:IRSNA ACP2023p7 (Desvenlafaxine ?), imipraminique (clomipramine, amitriptyline, imipramine).
+Classes thérapeutiques d'antidépresseurs: {{< modal-btn modal-isrs >}}ISRS{{< /modal-btn >}}, {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}, autres antidépresseurs (miansérine, mirtazapine 15-45 mg/j, vortioxétine sauf tianeptine et agomélatine). Antidépresseurs imipraminiques (tricycliques) en 2e intention par toxicité cardiovasculaire (et pas après 75 ans) et IMAO en dernier recours.
 
 - Évaluer les interactions médicamenteuses ([Drugs.com](https://www.drugs.com/drug_interactions.html))
 - Réévaluation à 1 et 2 semaines, puis rapprochée les 2 premiers mois (désinhibition suicidaire, agitation, effets indésirables)
@@ -467,22 +475,6 @@ TODO: Traitements possibles pendant la grossesse seulement si essentiel: TODO:IR
 - Thérapies autres: acupuncture (*ACP*)
 - Si anxiété, agitation, insomnies invalidantes: benzodiazépine pendant 2 semaines
 - Arrêt progressif de l'antidépresseur (> 1 mois – *NICE 2009*) après décision partagée au-delà de 6-12 mois de rémission
-
-#### Recommendations pour le traitement médicamenteux selon la sévérité de la dépression
-
-- EDC d'intensité légère: {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} ou TCC (suggérée par l'ACP), réévaluation à 4-8 semaines ({{< modal-btn modal-phq9 >}}Questionnaire PHQ-9{{< /modal-btn >}}, Hamilton)
-  - Rémission partielle: poursuite et réévaluation 4-8 semaines.  
-    Si persistance: envisager EDC d'intensité modérée et avis psychiatrique
-  - Persistance ou aggravation: réévaluer le diagnostic et envisager un EDC d'intensité modérée
-- EDC d'intensité modérée: TCC (psychiatre, psychologue clinicien ou psychothérapeute), antidépresseur ISRS/IRSNA/autre (*HAS*: selon l'impression clinique; *ACP*: suggéré), réévaluation à 4-8 semaines
-  - Rémission complète: psychothérapie, poursuivre l'éventuel antidépresseur 6-12 mois (4-9 selon l'*ACP*)
-  - Rémission partielle: psychothérapie, augmenter ou substituer l'antidépresseur, réévaluation 4-8 semaines
-  - Persistance ou aggravation: réévaluer le diagnostic et envisager un EDC d'intensité sévère
-- EDC d'intensité sévère: vérifier les critères d'hospitalisation, antidépresseur d'emblée ISRS/IRSNA/autre et avis psychiatrique (psychothérapie, antidépresseur)
-  - Rémission complète: psychothérapie, poursuivre l'antidépresseur 6-12 mois
-  - Rémission partielle, persistance ou aggravation: réévaluation psychiatrique, envisager l'hospitalisation
-
-{{< card-link-external title="Switch des antidépresseurs" url="https://www.psychopharma.fr/switch" subtitle="par Psychopharma" >}}
 
 ### Autres traitements de la dépression
 
@@ -500,11 +492,19 @@ D'autres traitements médicamenteux (IMAO, buspirone, kétamine, eskétamine) re
 {{% /collapse %}}
 {{% collapse "Prise en charge de la dépression" "show" %}}
 
-{{< mermaid title="Prise en charge de l'acné selon la forme clinique. Dr JB Fron d'après SFDermato 2015">}}
+{{< mermaid title="Prise en charge de la dépression (épisode dépressif caractérisé) par le médecin généraliste. Dr JB Fron d'après ACP 2023 et HAS 2017">}}
 graph TB
-  dépistage["Dépistage systémique de la dépression<br>à partir de 12 ans"] --> évaluation
+  dépistage["Dépistage systémique de la<br>dépression à partir de 12 ans"] --> évaluation("<b>Dépistage de la dépression</b><br>—<br>- Échelle PHQ-2 ou PHQ-4<br>- Évaluation clinique") -- Pathologique --> diagnostic("<b>Diagnostic de dépression</b><br>—<br>Étayer le diagnostic et<br>évaluer la sévérité<br>- Aide: PHQ-9, Beck ou Hamilton<br>- Risque suicidaire<br>- Comorbidités psychiatriques") -- Légère --> légère("- Psychothérapie<br>de soutien<br>- Suivi") -- "4-8 sem" --> réévaluation(Réévaluation) -- Rémission complète --> guérison(Guérison)
+      réévaluation -- Rémission partielle --> psychothérapie(Psychothérapie) -- "4-8 sem" --> réévaluation2(Réévaluation) -- Rémission complète --> guérison
+        réévaluation2 --> reconsidérer("Étayer une dépression modérée<br>ou avis psychiatrique")
+  suspicion["Suspicion de dépression<br>- Plainte somatique ++<br>TODO:"] --> évaluation
+    évaluation -- Normale --> différentiel(Autre diagnostic)
+    diagnostic -- Modérée --> modérée
+    diagnostic -- Sévère --> sévère(Antidépresseur) -- Avis rapide --> psychiatre(Psychiatre)
+    diagnostic -- Comorbidités psy --> psychiatre
+    diagnostic -- Suicidaire --> urgences(Urgences<br>± sous contrainte)
   style dépistage stroke:#4150f5, stroke-width:1px
-  suspicion["Suspicion de dépression"]
+  style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{%/collapse%}}
@@ -559,7 +559,7 @@ graph TB
 {{< scores/phq4 >}}
 
 {{% /modal %}}
-{{% modal title="Score PHQ-9" id="modal-phq9"%}}
+{{% modal title="Questionnaire PHQ-9" id="modal-phq9"%}}
 
 {{< scores/phq9 >}}
 
@@ -589,12 +589,12 @@ graph TB
 {{< traitements/psychotherapie-soutien >}}
 
 {{% /modal %}}
-{{% modal title="Antidépresseurs ISRS" id="modal-isrs"%}}
+{{% modal title="Antidépresseurs ISRS" id="modal-isrs" size="lg"%}}
 
 {{< traitements/isrs-edc >}}
 
 {{% /modal %}}
-{{% modal title="Antidépresseurs IRSNA" id="modal-irsna"%}}
+{{% modal title="Antidépresseurs IRSNA" id="modal-irsna" size="lg"%}}
 
 {{< traitements/irsna-edc >}}
 

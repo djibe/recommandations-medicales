@@ -1,5 +1,5 @@
-<div class="mt-4" id="score-phq9">
-  <p>Auto-questionnaire <dfn><abbr title="9-Item Patient Health Questionnaire for Depression" lang="en">PHQ-9</abbr></dfn> (<span lang="en">Patient Health Questionnaire 9</span>) pour l’évaluation d’un adulte présentant des symptômes dépressifs.</p>
+<div id="score-phq9">
+  <p>Auto-questionnaire <dfn><abbr title="9-Item Patient Health Questionnaire for Depression" lang="en">PHQ-9</abbr></dfn> (<span lang="en">9-Item Patient Health Questionnaire</span>) pour l’évaluation d’un adulte présentant des symptômes dépressifs.</p>
   <p>Ce questionnaire peut: aider à identifier une dépression (dont post-partum), évaluer la sévérité de l’EDC et réadapter le traitement.</p>
   <p>Au cours des 2 dernières semaines, selon quelle fréquence avez-vous été gêné(e) par les problèmes suivants&nbsp;?</p>
   <fieldset>
@@ -125,7 +125,7 @@
   <p>Un score ≥ 10 a une sensibilité de 88% et spécificité de 88% pour un épisode dépressif majeur.</p>
 </blockquote>
 {{ $script := `
-  // Score PHQ-9 by djibe
+  // Questionnaire PHQ-9 by djibe
   window.addEventListener( 'load', event => {
     const scorephq9 = document.getElementById('phq9Score')
     const textphq9 = document.getElementById('phq9Text');
