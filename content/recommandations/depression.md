@@ -14,7 +14,6 @@ tags = ["BPCO", "cancer", "demence", "depistage", "depression", "diabete", "doul
 anglais = ["Depression", "major depressive disorder (MDD)"]
 sctid = "35489007"
 icd10 = "F32.9"
-draft = true
 image = true
 imageSrc = "La dépression par storyset / Freepik"
 todo = "Enfant, adolescent, indications suivi CMP, ECG, Appli Way4Good, quest ASQ, HAS2017p10, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/101.pdf, grille RUD https://psychotropes.fr/storage/3/tool8.pdf"
