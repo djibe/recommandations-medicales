@@ -442,10 +442,10 @@ Confirmer le diagnostic avant de démarrer un traitement, puis instaurer rapidem
 
 <div class="card card-hover my-3 my-xl-5">
   <ul class="nav nav-tabs nav-justified mb-4" role="tablist">
-  <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-stade1" data-toggle="tab" href="#nav-asthme-stade1" role="tab" aria-controls="nav-asthme-stade1" aria-selected="true">Niveau 1 et 2</button></li>
-  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade3" data-toggle="tab" href="#nav-asthme-stade3" role="tab" aria-controls="nav-asthme-stade3" aria-selected="false">Niveau 3</button></li>
-  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade4" data-toggle="tab" href="#nav-asthme-stade4" role="tab" aria-controls="nav-asthme-stade4" aria-selected="false">Niveau 4</button></li>
-  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade5" data-toggle="tab" href="#nav-asthme-stade5" role="tab" aria-controls="nav-asthme-stade5" aria-selected="false">Niveau 5</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-stade1" data-toggle="tab" data-target="#nav-asthme-stade1" role="tab" aria-controls="nav-asthme-stade1" aria-selected="true">Niveau 1 et 2</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade3" data-toggle="tab" data-target="#nav-asthme-stade3" role="tab" aria-controls="nav-asthme-stade3" aria-selected="false">Niveau 3</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade4" data-toggle="tab" data-target="#nav-asthme-stade4" role="tab" aria-controls="nav-asthme-stade4" aria-selected="false">Niveau 4</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade5" data-toggle="tab" data-target="#nav-asthme-stade5" role="tab" aria-controls="nav-asthme-stade5" aria-selected="false">Niveau 5</button></li>
   </ul>
   <div class="card-body tab-content">
   <div class="tab-pane fade show active" id="nav-asthme-stade1" role="tabpanel" aria-labelledby="nav-tab-stade1">

@@ -15,7 +15,6 @@ tags = ["contraception", "diabete", "HTA", "infertilite", "obesite", "risque car
 anglais = ["Polycystic ovary syndrome (PCOS)"]
 sctid = "237055002"
 icd10 = "E28.2"
-draft = true
 image = true
 imageSrc = "Multiples kystes ovariens à l'échographie endovaginale d'une jeune femme obèse rapportant une aménorrhée secondaire depuis 18 mois et une infertilité. Cas de J. Ray Ballinger, Radiopaedia.org, rID: 23638"
 todo = "FSFI, PCOSQ, flow, pulse"
