@@ -23,10 +23,12 @@ todo = "https://www.freepik.com/free-vector/flat-person-sleeping-night-bed-backg
 
 {{%article-summary%}}
 
-- Adulte: 7 à 9h
-- Adolescent: 8 à 10h
-- Enfant de 6 à 12 ans: 9 à 12h
-- Conséquences majeures d'une restriction du temps de sommeil: maladies cardiovasculaires, métaboliques, dépression et suicides.
+Durées de sommeil recommandées par jour selon l'âge:
+
+- Adulte: 7 à 9 heures
+- Adolescent: 8 à 10 heures
+- Enfant de 6 à 12 ans: 9 à 12 heures
+- Conséquences majeures d'une restriction du temps de sommeil: [maladies cardiovasculaires](/tags/risque-cardiovasculaire/), métaboliques, [dépression et suicides]({{< relref "depression.md" >}}).
 
 {{%/article-summary%}}
 {{%collapse "Durée recommandée de sommeil chez l'adulte" %}}
@@ -41,9 +43,9 @@ Un temps de sommeil souvent inférieur aux durées recommandées provoque une au
 - de la mortalité
 - des maladies cardiovasculaires et neurovasculaires
 - de l'obésité
-- du diabète
-- des cancers
-- des dépressions
+- du [diabète](/tags/diabete/)
+- des [cancers](/tags/cancer/)
+- des [dépressions]({{< relref "depression.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Durée recommandée de sommeil chez l'enfant" %}}

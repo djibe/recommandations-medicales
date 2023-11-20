@@ -62,7 +62,7 @@ Symptômes classiques de l'intolérance au lactose. Ils apparaissent souvent dan
 Autres signes:
 
 - Retentissement sur la qualité de vie
-  - {{< modal-btn modal-hads >}}Anxiété, dépression{{< /modal-btn >}}
+  - Anxiété, [dépression]({{< relref "depression.md" >}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}})
   - [Fatigue](/tags/fatigue/)
 - Troubles alimentaires (par fractionnement)
 - Symptômes extra-digestifs
@@ -136,8 +136,8 @@ Laits sans lactose et maintien d'apports en produits laitiers pour les apports e
 - [Roy ME et al. Diagnostic de l'intolérance au lactose dans un contexte pédiatrique. 2016.](https://www.chusj.org/CORPO/files/81/81da31b9-c18b-44b7-9b9f-eaa5a4c6cb8f.pdf)
 
 {{%/sources%}}
-{{% modal title="Score HADS" id="modal-hads"%}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
 
-{{< scores/hads >}}
+{{< scores/phq4 >}}
 
 {{% /modal %}}

@@ -169,10 +169,7 @@ La persistance d'une capacité érectile résiduelle est un facteur de bon prono
 
 #### 8) Maladie psychiatrique (et antécédent de dépression) et addictions (toxico/alcool/sexuelle)
 
-Dépistage de la dépression en 2 questions (+ si ≥ 1 vraie):
-
-1. << Au cours du dernier mois, vous êtes-vous senti abattu, déprimé, désespéré ? >>
-2. << Au cours du dernier mois, avez-vous souvent ressenti une baisse d'intérêt ou de plaisir dans votre vie de tous les jours ? >>
+Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 - Anxiété de performance sexuelle (anxieux ++)
 - Éléments de vie positifs ou négatifs dans les 6 mois précédents l'apparition du trouble
@@ -263,8 +260,8 @@ Une information adaptée peut parfois suffire.
 - Thiazidique. Remplacer par autre classe hors BB
 - Antidépresseurs: évaluer la DE avant le traitement (intrication)
   - Si DE pré-existante: IPDE5
-  - Si dépression suivie par le psychiatre: avis du psychiatre pour adaptation thérapeutique
-  - Si dépression suivie par le médecin traitant et bien équilibrée : le switch est possible  
+  - Si [dépression]({{< relref "depression.md" >}}) suivie par le psychiatre: avis du psychiatre pour adaptation thérapeutique
+  - Si dépression suivie par le médecin traitant et bien équilibrée: le switch est possible  
     Préférer moclobémide, agomélatine, duloxétine, milnacipran, mirtazapine, amineptine ou tianeptine  
     OU on peut toutefois préférer ajouter un IPDE5 au traitement en cours et le maintenir à posologie minimale efficace.
 - Anti-psychotiques  
@@ -277,10 +274,10 @@ Un accompagnement par psycho-sexothérapie est possible en parallèle de la pres
 
 Bilan de la partenaire si problématique chez la partenaire suspectée.
 
-Diagnostic de dépression au cours du bilan de dysfonction érectile avec le généraliste:
+Diagnostic de [dépression]({{< relref "depression.md" >}}) au cours du bilan de dysfonction érectile avec le généraliste:
 
 - Syndrome dépressif sévère apparu avant la DE  
-  Traitement de la dépression uniquement
+  Traitement de la dépression uniquement.
 - Syndrome dépressif léger apparut avec la DE  
   Traitement de la dépression ± IPDE5  
   \+ psychothérapie si événement inducteur dans les 3 mois précédents
@@ -450,6 +447,11 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 - [Colson MH et al; SFHTA. Chemin clinique piur le dépistage et la prise en charge de la dysfonction érectile des hypertendus. 2019.](https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depistage-et-la-prise-en-charge-de-la-dysfonction-erectile-des)
 
 {{%/sources%}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
+
+{{% /modal %}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
 
 {{< clinique/syndrome-metabolique >}}

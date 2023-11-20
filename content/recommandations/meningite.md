@@ -203,7 +203,7 @@ Consultation de suivi dans les 15 jours puis à 1 mois:
 - Vaccination selon le [calendrier vaccinal]({{< relref "vaccination.md" >}})  
   et pneumocoque ou méningocoque si germe impliqué.
 - Adulte
-  - Qualité de vie, dépister une dépression, test auditif
+  - Qualité de vie, dépister une [dépression]({{< relref "depression.md" >}}), test auditif
   - Rechercher diabète, alcool, cancer, cirrhose, hémopathie, VIH
   - Pneumocoque: électrophorèse des protéines sériques
 - Enfant

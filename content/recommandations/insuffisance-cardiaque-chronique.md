@@ -202,7 +202,7 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
   - Essoufflement penché en avant
   - Sibilants (asthme cardiaque)
   - Gonflement, ballonnements, anorexie
-  - Confusion, dépression
+  - Confusion, [dépression]({{< relref "depression.md" >}})
   - Vertiges
   - Palpitations, tachycardie
   - Syncope
@@ -302,8 +302,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
   - [Obésité]({{< relref "obesite-adulte.md" >}}): prise en charge spécifique
   - Diabète: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
   - {{< modal-btn modal-depistage-bpco >}}Dépister une BPCO{{< /modal-btn >}}
-- Dépister annuellement une dépression
-  - Échelle: Beck, Cardiac Depression Scale
+- Dépister annuellement anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
   - Traitements sûrs: sertraline, escitalopram. Éviter les tricycliques.
 
 {{% /collapse %}}
@@ -442,7 +441,7 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 - Vaccinations
 - ECG annuel
 - ETT si symptômes (NYHA II 1-2 ans, + si aggravation)
-- Dépistage annuel d'une dépression
+- Dépister annuellement anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une insuffisance cardiaque" "show" %}}
@@ -579,6 +578,11 @@ réalistes
 {{% modal title="Échelle NYHA" id="score-nyha"%}}
 
 {{< scores/nyha >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
 
 {{% /modal %}}
 {{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}

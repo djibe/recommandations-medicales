@@ -255,7 +255,7 @@ Résumé des recommandations pour la prise en charge de la spondylarthrite:
 - Contrôle du poids
   {{%class%}}L'obésité est facteur de résistance aux anti-TNF.{{%/class%}}
 - Comorbidités  
-  Cardio-vasculaires, [ostéoporose]({{< relref "osteoporose.md" >}}), {{< modal-btn modal-hads >}}dépression, anxiété (échelle HAD){{< /modal-btn >}}.
+  Cardio-vasculaires, [ostéoporose]({{< relref "osteoporose.md" >}}), [dépression]({{< relref "depression.md" >}}), anxiété (TODO:).
 - Anti-inflammatoires AINS  
   - AINS à libération prolongée en 1<sup>re</sup> intention pour couvrir le dérouillage
   - Souvent rechute douloureuse en < 48h après leur arrêt
@@ -366,7 +366,7 @@ Une amélioration doit être obtenue à 3 mois pour poursuivre une stratégie, a
   - Ophtalmo: uvéite
 - Tolérance des traitements
 - Surveillance du risque cardio-vasculaire
-- {{< modal-btn modal-hads >}}Dépression et anxiété{{< /modal-btn >}}
+- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 ### Autres
 
@@ -400,8 +400,8 @@ graph TB
 - [Collège Français des Enseignants en Rhumatologie (COFER). Spondyloarthrite inflammatoire. Item 197 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-objectifs-0-18-0.php)
 
 {{%/sources%}}
-{{% modal title="Score HADS" id="modal-hads"%}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
 
-{{< scores/hads >}}
+{{< scores/phq4 >}}
 
 {{% /modal %}}

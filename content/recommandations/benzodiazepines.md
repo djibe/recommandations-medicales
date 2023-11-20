@@ -7,11 +7,11 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-16T13:47:19+01:00"
 publishdate = "2021-11-18"
-lastmod = "2023-10-17"
+lastmod = "2023-11-20"
 specialites = ["therapeutique"]
 annees = "2015"
 sources = ["HAS"]
-tags = ["chute", "demence"]
+tags = ["chute", "demence", "prevention"]
 anglais = ["Benzodiazepine"]
 sctid = "372664007"
 icd10 = ""
@@ -33,7 +33,7 @@ Chapitre lié: [sevrage en alcool]({{< relref "sevrage-alcool.md" >}})
 {{%collapse "Définitions" %}}
 
 Benzodiazépines
-: Médicament psychotrope anxiolytique caractérisé chimiquement par un cycle benzénique fusionné à un cycle diazépine.
+: Médicament psychotrope **anxiolytique** caractérisé chimiquement par un cycle benzénique fusionné à un cycle diazépine.
 : Complications chez le sujet âgé: troubles de la mémoire et de la concentration, somnolence, [chutes](/tags/chute/), accidents de voiture.
 : L'arrêt progressif et encadré des BZD n'altère pas la qualité de vie et peut améliorer les fonctions cognitives.
 : 33% des consommateurs de benzodiazépines ont un usage inapproprié (*Bénard-Laribière 2022*).
@@ -79,12 +79,15 @@ Tout consommateur chronique de BZD est exposé en cas d'arrêt brutal accidentel
   - Molécules en cours
   - {{< modal-btn modal-score-ecab >}}Évaluation ECAB{{< /modal-btn >}} de la dépendance
 - État psychologique  
-Troubles anxieux, dépression, insomnie...
+  Troubles anxieux, [dépression]({{< relref "depression.md" >}}), insomnie ...
 - Troubles du sommeil  
-Rechercher un SAOS ou syndrome des jambes sans repos.
+  Rechercher des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) ou [syndrome des jambes sans repos]({{< relref "syndrome-jambes-sans-repos.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Traitement par benzodiazépine et molécules disponibles" "show" %}}
+
+> << il n'y a pas lieu d'associer deux benzodiazépines, y compris pour des indications différentes >> – *CNUP*
+{.alert .alert-warning}
 
 ### Durée du traitement
 
@@ -119,7 +122,9 @@ Respecter l'AMM de la spécialité:
 
 > Données insuffisantes pour comparer les efficacités hypnotiques ou anxiolytiques.  
 Le diazépam est la référence de la *SFA* pour le sevrage alcoolique.  
-L'oxazépam est la BZD de préférence de *Prescrire* pour une insomnie transitoire. Il ne présente pas les interactions avec le cytochrome C3A4 (à l'inverse de l'alprazolam qui pose problème avec le paxlovid).
+L'oxazépam est la benzodiazépine de référence selon *Prescrire* pour une insomnie transitoire. Il ne présente pas les interactions avec le cytochrome C3A4 (à l'inverse de l'alprazolam qui pose problème avec le paxlovid).
+
+Diviser les doses d'initiation par 2 après 65 ans.
 
 {{< card-link-external title=" Calculatrice d'équivalence entre benzodiazépines " url="https://www.psychopharma.fr/equivalence" subtitle="par PsychoPharma.fr" >}}
 
@@ -164,7 +169,7 @@ Accompagnement par TCC efficace.
 - Signes sans gravité après l'arrêt:  
   ne surtout pas reprendre les BZD, information et soutien.
 - Signes plus sévères et persistants:  
-  réévaluation diagnostique et traitement spécifique (dépression, troubles anxieux, insomnie).
+  réévaluation diagnostique et traitement spécifique ([dépression]({{< relref "depression.md" >}}), troubles anxieux, insomnie).
 - Syndrome de sevrage grave (confusion, hallucinations, troubles de vigilance, convulsions, coma):  
   Hospitalisation.
 
@@ -201,6 +206,7 @@ L'essai EMPOWER a démontré l'effet de l'intervention brève sur l'arrêt à 6 
 {{%sources%}}
 
 - [AddictoVigilance. Mésusage et abus des benzodiazépines et apparentés : où en est-on ?. 2023. (PDF)](https://addictovigilance.fr/wp-content/uploads/2023/06/Bulletin-benzodiazepines-n%C2%B020-juin-2023-VF-1-1.pdf)
+- [Collège National Universitaire de Psychiatrie (CNUP). Prescription et surveillance des psychotropes. Item 74. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
 - Prescrire Redaction. Benzodiazépines ou apparentés. Rev Prescrire. Janvier 2021.
 - [HAS. Arrêt des benzodiazépines et médicaments apparentés : démarche du médecin traitant en ambulatoire. Recommandation de bonne pratique. Juin 2015.](https://www.has-sante.fr/jcms/c_2038262/fr/arret-des-benzodiazepines-et-medicaments-apparentes-demarche-du-medecin-traitant-en-ambulatoire)
 - [HAS. Modalités d'arrêt des benzodiazépines et médicaments apparentés chez le patient âgé. Recommandations professionnelles. Octobre 2007.](https://www.has-sante.fr/jcms/c_601509/fr/modalites-d-arret-des-benzodiazepines-et-medicaments-apparentes-chez-le-patient-age)

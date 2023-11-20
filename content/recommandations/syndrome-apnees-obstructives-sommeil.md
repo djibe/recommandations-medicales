@@ -361,7 +361,7 @@ Recommandations générales pour la prise en charge des apnées du sommeil:
 - Réduire la consommation d'alcool
 - Réduire la consommation d'hypnotiques
 - SAOS positionnel: dormir sur le côté
-- Dépister une dépression
+- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 - Proposer des parcours d'éducation thérapeutique
 
 ### Les grands principes à connaître
@@ -543,5 +543,10 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 {{% modal title="Échelle de somnolence d'Epworth" id="modal-score-epworth"%}}
 
 {{< scores/epworth >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
 
 {{% /modal %}}

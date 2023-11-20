@@ -283,7 +283,7 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< scores/phq2 >}}
 
 {{% /modal %}}
-{{% modal title="Score PHQ-4" id="modal-phq4"%}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
 
 {{< scores/phq4 >}}
 

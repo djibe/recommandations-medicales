@@ -214,7 +214,7 @@ Revoir la *maîtrise de l'asthme* à chaque consultation:
       Pollens, poussière, literie avec textiles anti-acariens, éviction tapis-moquettes, animaux en extérieur, contrôle de l'humidité intérieure.
     - Confirmation des allergies alimentaires
     - Contrôle de comorbidités  
-      [Rhinite allergique]({{< relref "rhinite-allergique.md" >}}), sinusite, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), obésité, anxiété, dépression.
+      [Rhinite allergique]({{< relref "rhinite-allergique.md" >}}), sinusite, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), [obésité]({{< relref "obesite-adulte.md" >}}), anxiété, [dépression]({{< relref "depression.md" >}}).
     - Grossesse  
       Suivi toutes les 4-6 semaines et supplémentation en vitamine D (*GINA 2021*).
     - Problèmes socio-économiques

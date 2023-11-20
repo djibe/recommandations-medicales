@@ -40,7 +40,7 @@ Boulimie nerveuse
 : La boulimie atteint le plus souvent les filles (90%) avec une installation en fin d'adolescence (18 ans).
 : Le retentissement est important tant individuel (physique, psychique) que familial et social, à l'origine d'une surmortalité (troubles métaboliques et suicides)
 : La guérison complète est la cible de l'approche pluridisciplinaire qui doit être la plus précoce possible.
-: Les comorbidités psychiatriques sont très fréquentes: dépression, anxiété, addictions, troubles de la personnalité et autres TCA.
+: Les comorbidités psychiatriques sont très fréquentes: [dépression]({{< relref "depression.md" >}}), anxiété, addictions, troubles de la personnalité et autres TCA.
 
 Hyperphagie boulimique
 : Trouble des conduites alimentaires (TCA) marqué par des crises de **boulimie sans les comportements compensatoires** associés à la boulimie nerveuse, à l'origine d'un surpoids ou d'une **[obésité]({{< relref "obesite-adulte.md" >}})**.

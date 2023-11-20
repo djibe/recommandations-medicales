@@ -1,12 +1,12 @@
 +++
 title = "Dépression"
 prefix = "la "
-description = "Recommendations pour le diagnostic et la prise en charge de la dépression. Questionnaire PHQ-9 et Hamilton, sévérité, psychothérapie et antidépresseur ISRS"
+description = "Recommendations pour le diagnostic et la prise en charge de la dépression. Questionnaire PHQ-9 ou Hamilton, sévérité, psychothérapie et antidépresseur ISRS"
 synonyms = ["Syndrome dépressif", "épisode dépressif caractérisé (EDC)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-14T20:15:23+02:00"
-publishdate = "2023-11-18"
-lastmod = "2023-11-18 "
+publishdate = "2023-11-20"
+lastmod = "2023-11-20 "
 specialites = ["psychiatrie"]
 annees = "2023"
 sources = ["ACP", "VA", "HAS"]
@@ -17,14 +17,22 @@ icd10 = "F32.9"
 draft = true
 image = true
 imageSrc = "La dépression par storyset / Freepik"
-todo = "Enfant, adolescent, indications suivi CMP, ECG, Appli Way4Good, college > summary > liens, quest ASQ, HAS2017p10, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/101.pdf"
+todo = "Enfant, adolescent, indications suivi CMP, ECG, Appli Way4Good, quest ASQ, HAS2017p10, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/101.pdf, grille RUD https://psychotropes.fr/storage/3/tool8.pdf"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-TODO:
-- Une psychothérapie est toujours associée
+- La dépression ou épisode dépressif caractérisé (EDC) est fréquente, avec la persistance pendant plus de 2 semaines de plusieurs symptômes parmi: humeur dépressive, perte de plaisir, modifications du poids, troubles du sommeil, agitation ou ralentissement psychomoteur, fatigue persistante, dévalorisation (voir *Critères diagnostiques* et *Échelles de dépression*)
+- Dépister la dépression à partir de 12 ans (grossesse ++) et en cas de trouble cognitif: {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}} (couplé au repérage d'une anxiété)
+- Aide au diagnostic de la dépression chez l'adulte: {{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}}, Beck, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, {{< modal-btn modal-gds15 >}}GDS-15{{< /modal-btn >}} (sujet âgé)
+- En cas de diagnostic d'épisode dépressif caractérisé: évaluer la sévérité ({{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, Beck, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}), le risque suicidaire, les comorbidités (et dépister une {{< modal-btn modal-gad2 >}}anxiété{{< /modal-btn >}}), toxiques, le handicap.  
+  Avec l'accord du patient, interroger l'entourage.
+- Bilan de la dépression: NFS, ionogramme, calcémie, bilan hépatique, glycémie, TSH, ± toxiques urinaires
+- La prise en charge de la dépression associe toujours: {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} ou thérapies cognitivo-comportementales (TCC) (voir [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}) pour le remboursement), activités physique et sociale, rythme de vie, information du patient (dont lignes d'écoute)
+- La dépression de l'enfant et la dépression récurrente ne sont pas encore traités
+- Traitement antidépresseur de la dépression: {{< modal-btn modal-isrs >}}inhibiteur sélectif de la recapture de la sérotonine{{< /modal-btn >}} (ISRS) ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}} en première intention, à envisager pour un EDC d'intensité modérée et systématique si sévère
+- Consultation psychiatrique en cas de diagnostic incertain, comorbidités psychiatriques, suspicion de maladie bipolaire ou psychose, dépression sévère ou résistante
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -32,7 +40,7 @@ TODO:
 Épisode dépressif caractérisé (terme du DSM-5)
 : Dépression, ex << épisode dépressif majeur >>
 : Maladie psychiatrique fréquente (10% des 18-75 ans sur un an) à prédominance féminine (RR 2), pourvoyeuse de handicap avec lourd retentissement médico-économique et humain (**risque suicidaire**).
-: La définition est clinique: diminution pathologique de l'humeur (tristesse pathologique) et de l'énergie avec perturbations psychomotrices, physiologiques et psychoaffectives. **1/3** des épisodes sont d'intensité **sévère**.
+: La définition est clinique: diminution persistante pathologique de l'humeur (tristesse pathologique) et de l'énergie avec perturbations psychomotrices, physiologiques et psychoaffectives. **1/3** des épisodes sont d'intensité **sévère**.
 : Il peut s'inscrire dans différentes pathologies psychiatriques (dépression isolée, trouble dépressif récurrent, trouble bipolaire) ou être accompagné d'un autre trouble psychiatrique (**anxiété** pour 75%, addiction, schizophrénie).
 
 Trouble dépressif récurrent
@@ -47,6 +55,9 @@ ACP
 
 CMP
 : Centres médico-psychologiques
+
+CNUP
+: Collège National Universitaire de Psychiatrie
 
 EDC
 : épisode dépressif caractérisé
@@ -225,7 +236,7 @@ L'évaluation de la sévérité repose sur le nombre de critères, la sévérit�
   - Trouble de la personnalité
 - Usage, abus, dépendance et sevrage de médicaments
 - Usage, abus, dépendance et sevrage de substances psychoactives
-- Maladies somatiques: [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), maladie neurodégénérative
+- Maladies somatiques: endocrinienne ([hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [Cushing]({{< relref "syndrome-cushing.md" >}})), maladie neurodégénérative, neurologique (tumeur, SEP, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}))
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -235,10 +246,12 @@ Dépister la dépression chez l'adulte (notamment si grossesse ou post-partum �
 
 Le premier épisode dépressif peut survenir à tout âge mais il survient plus souvent chez l'adulte jeune (25 ans).
 
-En ville, le motif de consultation est somatique pour 45 à 95% des patients atteints de dépression (*Prescrire*).
+En ville, le motif de consultation est **somatique** pour 45 à 95% des patients atteints de dépression (*Prescrire*).
+
+Les symptômes doivent être présents depuis au moins 15 jours avec changement par rapport à l'état antérieur:
 
 - Antécédents  
-  Psychiatriques (TS, dépression, (hypo-)manie, anxiété), médicaux, hospitalisations, maltraitance.
+  **Psychiatriques** (tentative de suicide, bipolarité, dépression, (hypo)-manie, anxiété), médicaux, hospitalisations, maltraitance.
 - Antécédents familiaux (psychiatriques)
 - Traitements en cours, automédication  
   Médicaments à risque, toujours lire les RCP: antiépileptiques, neuroleptiques, myorelaxants, méthylphénidate, alcool (baclofène, acamprosate, naltrexone), IMAO-B, interféron, rétinoïdes, corticoïdes, montélukast, immunodépresseurs (aprémilast ...), antiviral (ribavirine, éfavirenz ...), pitolisant.
@@ -268,7 +281,7 @@ En ville, le motif de consultation est somatique pour 45 à 95% des patients att
     - [Fatigue](/tags/fatigue/)
     - Conduites alimentaires  
       Anorexie voire hyperphagie, grignotage, appétence sucrée.
-  - Troubles de la sexualité
+    - **Troubles de la sexualité** ([dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}), féminine)
   - Symptômes psychotiques: hallucinations, délire
   - Maintien des activités quotidiennes: hygiène, alimentation
   - Sévérité de l'épisode dépressif: léger, modérée, sévère ({{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}})
@@ -390,8 +403,6 @@ Réévaluations fréquentes du niveau d'urgence.
 
 > – *HAS 2017*
 
-TODO: grille RUD https://psychotropes.fr/storage/3/tool8.pdf
-
 {{% /collapse %}}
 {{%collapse "Indications à l'hospitalisation" %}}
 
@@ -412,6 +423,22 @@ Envisager une hospitalisation immédiate ou au cours de l'évolution si:
 Si l'hospitalisation est refusée, évaluer une hospitalisation sous contrainte.
 
 {{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+### Bilan biologique devant une dépression
+
+Bilan à la recherche de diagnostic différentiel:
+
+- NFS, CRP
+- Glycémie à jeun
+- Ionogramme sanguin, calcémie
+- Bilan hépatique
+- [TSH](/tags/tsh/)
+- ± Toxiques urinaires
+
+> – *CNUP*
+
+{{% /collapse %}}
 {{%collapse "Traitement de la dépression de l'adulte" %}}
 
 La prise en charge de la dépression nécessite des consultations dédiées. Pour le remboursement (rare) de la prise en charge de la psychothérapie, voir [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}).
@@ -421,7 +448,7 @@ La prise en charge de la dépression nécessite des consultations dédiées. Pou
 
 - Épisode dépressif caractérisé d'**intensité légère**: {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} ou thérapie cognitive et comportementale (TCC, suggérée par l'*ACP*), réévaluation à 4-8 semaines ({{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}} d'Hamilton{{< /modal-btn >}})
   - Rémission partielle: poursuite et réévaluation 4-8 semaines.  
-    Si persistance: envisager EDC d'intensité modérée et avis psychiatrique
+    Si persistance: envisager EDC d'intensité modérée ou avis psychiatrique.
   - Persistance ou aggravation: réévaluer le diagnostic et envisager un EDC d'intensité modérée
 - EDC d'**intensité modérée**: TCC (psychiatre, psychologue clinicien ou psychothérapeute), antidépresseur {{< modal-btn modal-isrs >}}ISRS{{< /modal-btn >}}/{{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}/autre (*HAS*: selon l'impression clinique; *ACP*: suggéré), réévaluation à 4-8 semaines
   - Rémission complète: psychothérapie, poursuivre l'éventuel antidépresseur 6-12 mois (4-9 selon l'*ACP*)
@@ -454,7 +481,6 @@ La prise en charge de la dépression nécessite des consultations dédiées. Pou
 - Suivi rapproché: symptômes, toxiques, automédication, mode de vie
 - Information du patient: [Psycom](https://www.psycom.org)
 - Lecture pour l'entourage: << Chevance A. En finir avec les idées fausses sur la psychiatrie et la santé mentale. >> (12,50 €)
-- Associations de patients: TODO:
 
 ### Traitements médicamenteux de la dépression
 
@@ -489,23 +515,28 @@ D'autres traitements médicamenteux (IMAO, buspirone, kétamine, eskétamine) re
 
 {{< youtube id="yiuNoRaEs6k" title="Pourquoi la dépression de l'adolescent est-elle difficile à repérer ? (HAS)" >}}
 
+{{< youtube id="_vohZ4j3iko" title="Aspects sémiologiques des syndromes dépressifs et maniaques  (AESP)" >}}
+
 {{% /collapse %}}
 {{% collapse "Prise en charge de la dépression" "show" %}}
 
 {{< mermaid title="Prise en charge de la dépression (épisode dépressif caractérisé) par le médecin généraliste. Dr JB Fron d'après ACP 2023 et HAS 2017">}}
 graph TB
-  dépistage["Dépistage systémique de la<br>dépression à partir de 12 ans"] --> évaluation("<b>Dépistage de la dépression</b><br>—<br>- Échelle PHQ-2 ou PHQ-4<br>- Évaluation clinique") -- Pathologique --> diagnostic("<b>Diagnostic de dépression</b><br>—<br>Étayer le diagnostic et<br>évaluer la sévérité<br>- Aide: PHQ-9, Beck ou Hamilton<br>- Risque suicidaire<br>- Comorbidités psychiatriques") -- Légère --> légère("- Psychothérapie<br>de soutien<br>- Suivi") -- "4-8 sem" --> réévaluation(Réévaluation) -- Rémission complète --> guérison(Guérison)
-      réévaluation -- Rémission partielle --> psychothérapie(Psychothérapie) -- "4-8 sem" --> réévaluation2(Réévaluation) -- Rémission complète --> guérison
-        réévaluation2 --> reconsidérer("Étayer une dépression modérée<br>ou avis psychiatrique")
-  suspicion["Suspicion de dépression<br>- Plainte somatique ++<br>TODO:"] --> évaluation
+  dépistage["Dépistage systémique de la<br>dépression à partir de 12 ans"] --> évaluation("<b>Dépistage de la dépression</b><br>—<br>- Échelle PHQ-2 ou PHQ-4<br>- Évaluation clinique") -- Pathologique --> diagnostic("<b>Diagnostic de dépression</b><br>—<br>Étayer le diagnostic et<br>évaluer la sévérité<br>- Aide: PHQ-9, Beck ou Hamilton<br>- Risque suicidaire<br>- Comorbidités psychiatriques<br>(anxiété ++)") -- Légère --> légère("- Psychothérapie<br>de soutien<br>- Suivi") -- "4-8 sem" --> réévaluation(Réévaluation) -- "Rémission<br>complète" --> guérison(Guérison)
+      réévaluation -- "Rémission<br>partielle" --> psychothérapie(Psychothérapie) -- "4-8 sem" --> réévaluation2(Réévaluation) -- Rémission complète --> guérison
+        réévaluation2 --> reconsidérer("Étayer une dépression<br>d'intensité modérée<br>ou avis psychiatrique")
+  suspicion["Suspicion de dépression<br>- Plainte somatique ++<br>- Humeur dépressive, anhédonie<br>- Variation poids<br>- Insomnie constante<br>- Agitation ou ralentissement<br>- Fatigue<br>- Dévalorisation,<br>culpabilité<br>- Concentration<br>- Pensées de mort"] --> évaluation
     évaluation -- Normale --> différentiel(Autre diagnostic)
-    diagnostic -- Modérée --> modérée
+    diagnostic -- Modérée --> modérée("- Psychothérapie de soutien<br>ou TCC<br>- Antidépresseur") -- "4-8 sem" --> réévaluation3(Réévaluation) -- "Rémission<br>complète" --> poursuite("- Psychothérapie<br>- Poursuivre AD<br>6-12 mois<br>(4 à 9 selon ACP)")
+      réévaluation3 -- "Rémission<br>partielle" --> augmenter("- Psychothérapie<br>- Augmenter ou<br>substituer l'AD") -- "4-8 sem" --> envisager("Réévaluation:<br>envisager EDC sévère, <br>avis psychiatrique")
     diagnostic -- Sévère --> sévère(Antidépresseur) -- Avis rapide --> psychiatre(Psychiatre)
-    diagnostic -- Comorbidités psy --> psychiatre
+    diagnostic -- "Comorbidités<br>psychiatriques" --> psychiatre
     diagnostic -- Suicidaire --> urgences(Urgences<br>± sous contrainte)
   style dépistage stroke:#4150f5, stroke-width:1px
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
+
+> **ACP =** {{%lang%}}American College of Physicians{{%/lang%}}; **AD =** antidépresseur (ISRS, IRSNA); **EDC =** épisode dépressif caractérisé ; **sem =** semaine; **TCC =** thérapie cognitive et comportementale
 
 {{%/collapse%}}
 {{%sources%}}
@@ -521,7 +552,8 @@ graph TB
 - [McQuaid JR et al. The Management of Major Depressive Disorder: Synopsis of the 2022 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline. Ann Intern Med. 2022.](https://www.acpjournals.org/doi/full/10.7326/M22-1603)
 - [US Preventive Services Task Force. Screening for Depression and Suicide Risk in Children and Adolescents: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2797145)
 - [Suarez E et al. Association of Antidepressant Use During Pregnancy With Risk of Neurodevelopmental Disorders in Children. JAMA Intern Med. 2022.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2797101)
-- [Collège National Universitaire de Psychiatrie (CNUP). Troubles de l'humeur Épisode dépressif caractérisé et trouble dépressif récurrent de l'adolescent et de l'adulte. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
+- [Collège National Universitaire de Psychiatrie (CNUP). Troubles de l'humeur Épisode dépressif caractérisé et trouble dépressif récurrent de l'adolescent et de l'adulte. Item 66a. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
+- [Collège National Universitaire de Psychiatrie (CNUP). Prescription et surveillance des psychotropes. Item 74. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
 - [Royal College of Psychiatrists. Position statement on antidepressants and depression. 2019. (PDF)](https://www.bap.org.uk/pdfs/PS04-19-antidepressants-and-depression.pdf)
 - [HAS. Coordination entre le médecin généraliste et les différents acteurs de soins dans la prise en charge des patients adultes souffrant de troubles mentaux – états des lieux, repères et outils pour une amélioration. 2018.](https://www.has-sante.fr/jcms/c_2874187/fr/coordination-entre-le-medecin-generaliste-et-les-differents-acteurs-de-soins-dans-la-prise-en-charge-des-patients-adultes-souffrant-de-troubles-mentaux-etats-des-lieux-reperes-et-outils-pour-une-amelioration)
 - [HAS. Épisode dépressif caractérisé de l'adulte : prise en charge en soins de premier recours. 2017.](https://www.has-sante.fr/jcms/p_3261767/fr/depression)
@@ -537,6 +569,7 @@ graph TB
 - [Anaes, FFP. La crise suicidaire : reconnaître et prendre en charge. 2000.](https://www.has-sante.fr/jcms/c_271964/fr/la-crise-suicidaire-reconnaitre-et-prendre-en-charge)
 - [HAS. Manifestations dépressives à l'adolescence : repérage, diagnostic et prise en charge en soins de premier recours. 2014.](https://www.has-sante.fr/jcms/c_1782013/fr/manifestations-depressives-a-l-adolescence-reperage-diagnostic-et-prise-en-charge-en-soins-de-premier-recours)
 - [HAS. Prise en compte de la souffrance psychique de la personne âgée : prévention, repérage et accompagnement. 2014.](https://www.has-sante.fr/jcms/c_2836216/fr/prise-en-compte-de-la-souffrance-psychique-de-la-personne-agee-prevention-reperage-et-accompagnement)
+- [HAS. Troubles dépressifs récurrents ou persistants de l'adulte. 2012.](https://www.has-sante.fr/jcms/c_767572/fr/ald-n-23-troubles-depressifs-recurrents-ou-persistants-de-l-adulte)
 - [HAS. Idées et conduites suicidaires chez l'enfant et l'adolescent : prévention, repérage, évaluation et prise en charge. 2021.](https://www.has-sante.fr/jcms/p_3288864/fr/idees-et-conduites-suicidaires-chez-l-enfant-et-l-adolescent-prevention-reperage-evaluation-et-prise-en-charge)
 - [Binder P et al. Detection of adolescent suicidality in primary care: an international utility study of the bullying-insomnia-tobacco-stress test. Early Interv Psychiatry. 2020.](https://pubmed.ncbi.nlm.nih.gov/31058453/)
 - [Williams JB. A structured interview guide for the Hamilton Depression Rating Scale. Arch Gen Psychiatry. 1988;45(8):742-747. doi:10.1001/archpsyc.1988.01800320058007](https://pubmed.ncbi.nlm.nih.gov/3395203/)

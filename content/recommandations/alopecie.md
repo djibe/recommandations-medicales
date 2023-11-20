@@ -162,7 +162,7 @@ Prise en charge de l'alopécie androgénétique de l'homme (par efficacité déc
 
 Minoxidil et finastéride peuvent être combinés pour une meilleure efficacité (risque psychiatrique du finastéride). Les autres associations ne sont pas étudiées.
 
-Le finastéride (inhibiteur de la 5α-réductase) est sous [surveillance de l'ANSM](https://ansm.sante.fr/dossiers-thematiques/information-pour-les-professionnels-de-sante-a-propos-du-finasteride-1-mg) et est contre-indiqué en cas de dépression ou de trouble sexuel. Le don du sang n'est pas possible.
+Le finastéride (inhibiteur de la 5α-réductase) est sous [surveillance de l'ANSM](https://ansm.sante.fr/dossiers-thematiques/information-pour-les-professionnels-de-sante-a-propos-du-finasteride-1-mg) et est contre-indiqué en cas de [dépression]({{< relref "depression.md" >}}) ou de trouble sexuel. Le don du sang n'est pas possible.
 {.alert .alert-warning}
 
 #### Traitements de l'alopécie androgénique de la femme

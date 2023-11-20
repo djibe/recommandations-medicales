@@ -258,8 +258,7 @@ Parcours synthétisé par les anglo-saxons en 5A pour chaque consultation:
   Cancer, [migraine]({{< relref "migraine.md" >}}), cardiovasculaires, respiratoires et signes évocateurs.
 - Risque cardiovasculaire  
   {{< modal-btn modal-rcv >}}Prévention secondaire{{< /modal-btn >}} ou primaire ({{< scores/heartscore >}})
-- Anxiété et dépression  
-  {{< modal-btn modal-hads >}}HAD{{< /modal-btn >}}, anxiété de Beck, dépression de Beck.
+- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 Informer sur les **signes de sevrage** en nicotine: troubles de l'humeur, insomnie, irritabilité, frustration, colère, anxiété, difficultés de concentration, augmentation de l'appétit, fébrilité.
 
@@ -500,9 +499,9 @@ accTitle: Prise en charge de l'arrêt du tabac d'après HAS 2014
 {{< scores/cast >}}
 
 {{% /modal %}}
-{{% modal title="Score HADS" id="modal-hads"%}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
 
-{{< scores/hads >}}
+{{< scores/phq4 >}}
 
 {{% /modal %}}
 {{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}

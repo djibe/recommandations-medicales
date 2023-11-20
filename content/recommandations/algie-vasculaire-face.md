@@ -42,7 +42,7 @@ Algie vasculaire de la face (AVF)
 : Céphalée primaire unilatérale avec hyperactivité parasympathique homolatérale, déclenchée par une activation du système trigémino-vasculaire. Une anomalie hypothalamique est suspectée.
 : Rare, elle atteindrait 0,1 % de la population. Elle atteint principalement l'homme (4,3/1) jeune, caractérisée par des crises douloureuses stéréotypées quotidiennes avec variations circannuelles et intervalles libres.
 : Le plus souvent de forme épisodique (80%, 1-8/j souvent 4 à 12 semaines), elle est dite *chronique* quand l'intervalle libre est inférieur à 1 mois sur 12. Aucun facteur prédictif de passage à la forme chronique n'est identifié.
-: Conséquences: qualité de vie, dépression (x 5,6), idées suicidaires (55%) et perte de productivité professionnelle.
+: Conséquences: qualité de vie, [dépression]({{< relref "depression.md" >}}) (x 5,6), idées suicidaires (55%) et perte de productivité professionnelle.
 
 Algie vasculaire de la face réfractaire
 : Forme chronique d'algie vasculaire depuis plus de 3 ans, crises quotidiennes et résistantes aux traitements de fond (vérapamil à 960 mg/j, lithium efficace et bithérapie).

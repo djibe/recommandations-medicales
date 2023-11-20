@@ -204,7 +204,7 @@ Trame des éléments à relever pour un dossier médical complet.
   Au diagnostic puis annuel pendant 5 ans (*[ISPAD 2018](https://cdn.ymaws.com/www.ispad.org/resource/resmgr/consensus_guidelines_2018_/19.other_complications_and_a.pdf))*.
 - Dépistage du retentissement psychologique  
   Score WHO-5, PAID, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}} ou {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}} (anxiété)  
-  {{%class%}}Dépression et anxiété x2, commentaires de l'entourage.{{%/class%}}
+  {{%class%}}[Dépression]({{< relref "depression.md" >}}) et anxiété x2, commentaires de l'entourage.{{%/class%}}
 - [Programme d'accueil de la FFD](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kita)
 - {{< references/compare >}}, [SFDT1](https://sfdt1.fr)
 

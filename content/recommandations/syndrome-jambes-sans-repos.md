@@ -55,7 +55,7 @@ ET au moins 5 épisodes sur la vie entière.
 
 - Troubles du sommeil
 - Altération de la vigilance diurne
-- Anxiété, dépression {{%class%}}x 2-10{{%/class%}}
+- Anxiété, [dépression]({{< relref "depression.md" >}}) {{%class%}}x 2-10{{%/class%}}
 - Altération de la qualité de vie
 - Impact socio-économique
 - Enfant: troubles du comportement et irritabilité
@@ -235,7 +235,7 @@ Signes et symptômes du syndrome des jambes sans repos à rechercher:
   Absente (légère à modérée) malgré le temps de sommeil moindre = **caractéristique du SJSR**.
 - Qualité de vie
 - Activités quotidiennes
-- Troubles de l'attention, {{< modal-btn modal-hads >}}dépression, anxiété (échelle HAD){{< /modal-btn >}}  
+- Troubles de l'attention, dépression, anxiété TODO:  
   Principaux marqueurs de l'insomnie.
 - Conséquences sociales, professionnelles/scolaires
 
@@ -375,7 +375,7 @@ La prise en charge du syndrome des jambes sans repos associe:
 6. Traitement spécifique
     - Réservé au médecin du sommeil
     - Indications: SJS modéré à très sévère ({{< modal-btn modal-score-irls >}}score IRLS{{< /modal-btn >}} ≥ 11) ou impactant la qualité de vie malgré les mesures ci-dessus
-7. Réévaluer {{< modal-btn modal-hads >}}dépression et anxiété (échelle HAD){{< /modal-btn >}}
+7. Réévaluer anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 {{%info%}}
 
@@ -493,8 +493,8 @@ graph TB
 {{< scores/irls >}}
 
 {{% /modal %}}
-{{% modal title="Score HADS" id="modal-hads"%}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
 
-{{< scores/hads >}}
+{{< scores/phq4 >}}
 
 {{% /modal %}}

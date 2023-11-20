@@ -147,7 +147,7 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 - Œsophagite à éosinophiles
 - Neuropathie
 - Ataxie
-- [Dépression](/tags/depression/)
+- [Dépression]({{< relref "depression.md" >}})
 - [Asthénie](/tags/fatigue/)
 - Petite taille
 - Pathologie osseuse: ostéomalacie, [ostéoporose]({{< relref "osteoporose.md" >}})

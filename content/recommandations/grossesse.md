@@ -37,6 +37,7 @@ Chapitres dédiés:
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et de l'[alcool]({{< relref "sevrage-alcool.md" >}})
 - [Contraception du post-partum]({{< relref "contraception.md" >}})
 - [Covid-19 à haut risque de forme grave]({{< relref "covid-19.md" >}})
+- [Dépression]({{< relref "depression.md" >}})
 - [Diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
 - [Écoulement mamelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
 - [Hémorroïdes]({{< relref "hemorroides.md" >}})

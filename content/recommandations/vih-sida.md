@@ -369,7 +369,7 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 - Addictions  
   [Lutte tabac]({{< relref "arret-tabac.md" >}}) et cannabis, [alcool]({{< relref "sevrage-alcool.md" >}}), psychotropes.
 - Vaccinations multiples (voir *Vaccinations spécifiques au cours du VIH*)
-- Rechercher une dépression, démence
+- Rechercher une [dépression]({{< relref "depression.md" >}}), démence
 - Santé sexuelle
   - Comportements à risque  
     Sexologue, psychologue.

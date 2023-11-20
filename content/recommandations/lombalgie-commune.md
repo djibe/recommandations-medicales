@@ -71,7 +71,7 @@ Signes de gravité à rechercher devant une lombalgie aiguë ou chronique.
 - Pensées  
   Catastrophisme, croyances sur l'état, la douleur, la nocivité, attentes négatives du futur.
 - Sentiments  
-  Inquiétude, détresse, anxiété/dépression, peur du mouvement, incertitudes sur le futur.
+  Inquiétude, détresse, anxiété/[dépression]({{< relref "depression.md" >}}), peur du mouvement, incertitudes sur le futur.
 - Comportement  
   Description de symptômes extrêmes, stratégies passives (ceinture, immobilité), inefficacité des traitements.
 

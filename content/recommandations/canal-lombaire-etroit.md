@@ -109,7 +109,7 @@ Les symptômes du canal lombaire étroit sont majorés debout.
   - **Troubles de la marche**: engourdissements, faiblesses irradiant de la colonne vertébrale vers les fesses
   - Déficit sensitif possible
   - Urgenturie rare
-- Dépister une dépression
+- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 ### Examen clinique
 
@@ -179,3 +179,8 @@ La chirurgie de référence est la laminectomie mais des techniques mini-invasiv
 - [Genevay S et al. Canal lombaire étroit : clinique, physiopathologie et traitement. Rev Med Suisse. 2012.](https://www.revmed.ch/revue-medicale-suisse/2012/revue-medicale-suisse-332/canal-lombaire-etroit-clinique-physiopathologie-et-traitement#tab=tab-read)
 
 {{%/sources%}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
+
+{{% /modal %}}

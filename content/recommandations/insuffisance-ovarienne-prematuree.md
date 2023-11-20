@@ -129,7 +129,7 @@ Signes et symptômes de ménopause précoce à rechercher:
 - Syndrome génito-urinaire de la ménopause  
   Diagnostic clinique si ≥ 1 parmi: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (signes fonctionnels, [cystites récidivantes]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})).
 - Chez l'enfant: impubérisme
-- Dépression, anxiété
+- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 L'aménorrhée peut être révélée après l'arrêt d'une [contraception œstroprogestative]({{< relref "contraception.md" >}}).  
 L'*infertilité* est le plus souvent définitive mais pas toujours (4-10% de grossesses spontanées).
@@ -252,3 +252,8 @@ graph TB
 - [ESHRE. Management of women with premature ovarian insufficiency. 2015.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Management-of-premature-ovarian-insufficiency)
 
 {{%/sources%}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
+
+{{% /modal %}}

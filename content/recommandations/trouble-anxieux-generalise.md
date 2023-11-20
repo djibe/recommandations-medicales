@@ -24,7 +24,7 @@ flowchart = true
 {{%article-summary%}}
 
 - Le trouble anxieux généralisé (TAG) est fréquent, avec des inquiétudes permanentes sur au moins 2 thèmes différents, persistantes depuis plus de 6 mois et difficilement contrôlables. Il est sous-diagnostiqué et sous-traité malgré le sur-risque suicidaire et cardiovasculaire
-- Intérêt d'un dépistage des personnes à risque (bas socio-éco, veuvage/séparation/divorce, âge moyen, comorbidités psychiatriques, toxiques, traumatisme et antécédents familiaux de TAG), au choix: << Êtes-vous nerveux ? >>, {{< modal-btn modal-gad2 >}}questionnaire GAD-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}} (couplé à la dépression)
+- Intérêt d'un dépistage des personnes à risque (bas socio-éco, veuvage/séparation/divorce, âge moyen, comorbidités psychiatriques, toxiques, traumatisme et antécédents familiaux de TAG), au choix: << Êtes-vous nerveux ? >>, {{< modal-btn modal-gad2 >}}questionnaire GAD-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}} (couplé à la [dépression]({{< relref "depression.md" >}}))
 - En cas de repérage positif, étayer le diagnostic et les critères diagnostiques DSM-5 du trouble anxieux généralisé
 - Prise en charge initiale du trouble anxieux généralisé par mesures hygiéno-diététiques et thérapie cognitive et comportementale (TCC)
 - Puis traitement antidépresseur avec titration d'un {{< modal-btn modal-isrs-tag >}}ISRS{{< /modal-btn >}} ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}. Traitement pleine dose au moins 8 semaines, poursuivi 6-12 mois après amélioration.
@@ -126,7 +126,7 @@ Signes et symptômes à rechercher en cas de suspicion de trouble anxieux géné
 
 - Facteurs de risque de trouble anxieux généralisé  
   Niveau socio-économique bas, veuvage, séparation/divorce, âge moyen. Autres: comorbidités psychiatriques, toxiques, traumatisme et antécédents familiaux de TAG.
-- **Antécédents**: psychiatriques (dépression, trouble panique, phobie sociale), somatiques, psychologiques
+- **Antécédents**: psychiatriques ([dépression]({{< relref "depression.md" >}}), trouble panique, phobie sociale), somatiques, psychologiques
 - Facteurs de risque cardiovasculaire
 - Antécédents familiaux
 - Traitements en cours
@@ -146,7 +146,7 @@ Signes et symptômes à rechercher en cas de suspicion de trouble anxieux géné
 - Périodicité des symptômes  
   Évolution chronique mais fluctuations possibles.
 - Complications
-  - Dépression, socio-professionnelles, toxiques, cardiovasculaire, ulcère
+  - [Dépression]({{< relref "depression.md" >}}), socio-professionnelles, toxiques, cardiovasculaire, ulcère
   - **Risque suicidaire** à chaque consultation: << Au cours des 2 dernières semaines, combien de fois avez-vous pensé qu'il vaudrait mieux mourir ou envisagé de vous faire du mal d'une manière ou d'une autre ? >>
 - Sévérité du trouble anxieux: {{< modal-btn modal-gad7 >}}questionnaire GAD-7{{< /modal-btn >}}
 

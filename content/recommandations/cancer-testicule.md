@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-11-06T16:37:01+01:00"
 publishdate = "2023-11-07"
-lastmod = "2023-11-07"
+lastmod = "2023-11-20"
 specialites = ["urologie"]
 annees = "2023"
 sources = ["EAU", "HAS", "INCa"]
@@ -16,8 +16,8 @@ anglais = ["Testicular cancer (TC)"]
 sctid = "363449006"
 icd10 = "C62.9"
 image = true
-imageSrc = "Masse hétérogène hypoéchogène du testicule gauche. Cancer du testicule de type séminome. Cas de Andrew Dixon, Radiopaedia.org, rID: 9886"
-todo = "flow"
+imageSrc = "Masse hétérogène hypoéchogène du testicule gauche. Cancer du testicule de type séminome. Cas d'Andrew Dixon, Radiopaedia.org, rID: 9886"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -157,6 +157,15 @@ Suivi rigoureux du fait du bon pronostic des cancers localisés. Des rechutes ta
 Après chimiothérapie, la spermatogenèse récupère normalement sous 1 à 4 ans.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du cancer du testicule" "show" %}}
+
+{{< mermaid title="Prise en charge de la suspicion de cancer du testicule par le médecin généraliste. Dr JB Fron d'après EAU 2023" >}}
+graph TB
+  suspicion
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [Nicole D et al. EAU Guidelines on Testicular Cancer. 2023.](https://uroweb.org/guidelines/testicular-cancer)

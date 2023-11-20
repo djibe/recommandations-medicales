@@ -213,7 +213,7 @@ La triade classique est akinésie/bradykinésie, rigidité et tremblement de rep
   - Déclin cognitif (1/3 au diagnostic)  
     Échelles PDD short screen (PDD-SS), Addenbrooke's Cognitive Examination-Revised (ACE-R) ou Montreal Cognitive Assessment (MoCA, [web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf)).
 - Excellente réponse à la L-dopa
-- Autres: sommeil, anxiété/dépression (entretien, Beck, Hamilton)
+- Autres: sommeil, anxiété et [dépression]({{< relref "depression.md" >}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}})
 - **Signes négatifs / atypiques** à rechercher tous les 6-12 mois
   - Drapeaux rouges (voir section précédente)
   - AVC multiples
@@ -509,3 +509,8 @@ graph TB
 - [Oertel WH et al. Late (Complicated) Parkinson's Disease. European Handbook of Neurological Management. 2010. [payant]](https://onlinelibrary.wiley.com/doi/10.1002/9781444328394.ch15)
 
 {{%/sources%}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
+
+{{% /modal %}}

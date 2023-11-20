@@ -208,7 +208,7 @@ Nécessité d'une consultation dédiée pour la primo-prescription d'une contrac
 
 - Âge
 - Antécédents personnels  
-  Dépression, {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}, HTA, dyslipidémie, diabète type 1, migraine (préciser l'aura), thrombophilie, cancer (du sein), MVTE, IST, GEU, chirurgie.
+  [Dépression]({{< relref "depression.md" >}}), {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}, HTA, dyslipidémie, diabète type 1, migraine (préciser l'aura), thrombophilie, cancer (du sein), MVTE, IST, GEU, chirurgie.
 - Antécédents familiaux au 1<sup>er</sup> degré  
   IDM/AVC chez homme < 55 ans ou femme < 65 ans, MVTE (TVP, EP) < 50 ans ou épisodes répétés quelque soit le degré.
 - Traitements en cours

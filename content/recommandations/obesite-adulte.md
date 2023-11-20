@@ -187,7 +187,7 @@ TCA
   - Tabous alimentaires, fausses croyances, sources de frustration et de désinhibition
 - Niveau d'activité physique et sédentarité: [score GPAQ](https://www.mangerbouger.fr/bouger-plus/test-de-niveau-d-activite-physique-et-de-sedentarite-des-adultes)
 - Contexte psychopathologique  
-  Anxiété, dépression, image du corps, estime de soi, traumatismes/agressions, addictions.
+  Anxiété et [dépression]({{< relref "depression.md" >}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}), image du corps, estime de soi, traumatismes/agressions, addictions.
 - Environnement social, familial, professionnel, financier, rythmes décalés
 - Retentissement sur la qualité de vie personnelle ou professionnelle
 - Comorbidités
@@ -461,6 +461,11 @@ graph TB
 {{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
 
 {{< scores/stop-bang >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
 
 {{% /modal %}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}

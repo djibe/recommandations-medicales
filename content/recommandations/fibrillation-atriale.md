@@ -93,7 +93,7 @@ Inhibiteurs calciques non dihydropyridiniques: diltiazem ou vérapamil.
 - [Insuffisance cardiaque]({{< relref "embolie-pulmonaire.md" >}})
 - Embolie
 - Démence (+40%)
-- Dépression
+- [Dépression]({{< relref "depression.md" >}})
 - Altération de la qualité de vie
 - Hospitalisations (10-40%/an)
 

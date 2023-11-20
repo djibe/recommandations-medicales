@@ -275,7 +275,7 @@ Du fait du caractère tératogène de l'isotrétinoïne, la prescription est enc
 - [Carnet de suivi patient sous isotrétinoïde (2019, PDF)](https://ansm.sante.fr/uploads/2020/12/30/isotretinoine-cartepatiente-v1-2018-12.pdf)
 - Consultation mensuelle de renouvellement limité à 30 jours
 - Test de grossesse mensuel 3 jours avant l'initiation et chaque renouvellement mensuel. Date et résultats reportés dans le carnet de suivi
-- État psychiatrique (anxiété, dépression)
+- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 - La délivrance en pharmacie doit avoir lieu dans les 7 jours suivants
 - Arrêt du traitement
   - Contraception efficace poursuivie ≥ 1 mois après
@@ -345,3 +345,8 @@ Selon la SFDermato, informer le patient:
 - [ANSM. Restriction de la prescription initiale de l'isotrétinoïne orale aux dermatologues – Lettre aux professionnels de santé. Mai 2015.](https://archiveansm.integra.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Restriction-de-la-prescription-initiale-de-l-isotretinoine-orale-aux-dermatologues-Lettre-aux-professionnels-de-sante)
 
 {{%/sources%}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
+
+{{% /modal %}}

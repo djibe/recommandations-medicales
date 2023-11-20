@@ -98,7 +98,7 @@ L'examen clinique recherche les éléments du syndrome de thyrotoxicose.
 ### Interrogatoire
 
 - Antécédents personnels  
-  Grossesse, pathologie thyroïdienne, maladie auto-immune, cardiopathie, [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), anxiété ou dépression inexpliquée.
+  Grossesse, pathologie thyroïdienne, maladie auto-immune, cardiopathie, [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), anxiété ou [dépression]({{< relref "depression.md" >}}) inexpliquée.
 - Cause transitoire  
   Iode 131, thyroïdectomie partielle, douleurs cervicales récentes.
 - Antécédents familiaux (thyroïdiens et auto-immuns ++)

@@ -192,7 +192,7 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
   - Cardiovasculaires  
     [Hypertension]({{< relref "hypertension-arterielle.md" >}}), coronaropathie, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (8,8%), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (20-70%), [arythmie]({{< relref "fibrillation-atriale.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}})
   - Cancers liés au tabac (poumon, vessie, digestifs)
-  - Dépression, anxiété, addictions, troubles cognitifs
+  - Dépister anxiété et [dépression]({{< relref "depression.md" >}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}), addictions, troubles cognitifs
   - [Ostéoporose]({{< relref "osteoporose.md" >}}) et amyotrophie
   - [Obésité]({{< relref "obesite-adulte.md" >}}), [dénutrition]({{< relref "denutrition.md" >}}), anémie et polyglobulie
   - [Apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), dilatation des bronches
@@ -653,6 +653,11 @@ graph TB
 {{% modal title="COPD Assessment Test" id="modal-score-cat" size="lg"%}}
 
 {{< scores/copd-assessment-test >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
 
 {{% /modal %}}
 <!-- Traitements -->

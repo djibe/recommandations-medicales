@@ -26,10 +26,10 @@ todo = "HAS APA, CALC: critères + score FIQ-R, relecture demandée D. Bouhassir
 - La fibromyalgie est un syndrome ayant pour principaux symptômes: douleurs chroniques (surtout musculo-squelettiques), une allodynie (stimulus anormalement douloureux)
 - Comme toute douleur chronique, la fibromyalgie a une composante bio-psycho-sociale
 - Diagnostic de la fibromyalgie: examen clinique rigoureux pour éliminer un diagnostic différentiel, critères diagnostiques *ACR 2016*, {{< modal-btn modal-first >}}auto-questionnaire FiRST{{< /modal-btn >}}
-- Rechercher des comorbidités: jambes sans repos, apnées du sommeil, anxio-dépression ({{< modal-btn modal-hads >}}échelle HAD{{< /modal-btn >}}), syndrome climatérique ... (voir *Clinique*)
+- Rechercher des comorbidités: jambes sans repos, apnées du sommeil, anxio-dépression ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}), syndrome climatérique ... (voir *Clinique*)
 - Le bilan n'est pas codifié mais les examens ne doivent pas être multipliés
 - La prise en charge de la fibromyalgie repose d'abord sur l'éducation thérapeutique (ETP) et une activité physique adaptée (APA)
-- Les traitements sont adaptées aux plaintes: dépression vraie (psychothérapie, ISRS), douleurs (duloxétine, prégabaline), troubles du sommeil (amitriptyline, prégabaline vespérale), handicap (réadaptation pluridisciplinaire)
+- Les traitements sont adaptées aux plaintes: [dépression vraie]({{< relref "depression.md" >}}) (psychothérapie, ISRS), douleurs (duloxétine, prégabaline), troubles du sommeil (amitriptyline, prégabaline vespérale), handicap (réadaptation pluridisciplinaire)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -179,7 +179,7 @@ Rechercher une fibromyalgie en cas de douleur chronique.
   - [Syndrome des jambes sans repos]({{< relref "syndrome-jambes-sans-repos.md" >}}) (23-64%)
   - [Syndrome d'apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) (45% parmi ceux explorés)  
     {{< modal-btn modal-saos >}}Dépister avec le score STOP-BANG{{< /modal-btn >}}.
-  - Symptômes anxio-dépressifs (60-85%): {{< modal-btn modal-hads >}}échelle HAD{{< /modal-btn >}}
+  - Symptômes anxio-dépressifs (60-85%, {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}})
   - [Troubles climatériques]({{< relref "menopause.md" >}})
   - Autres  
     Syndrome de fatigue chronique, [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) (30-70%), céphalées de tension, conflit de l'articulation temporo-mandibulaire.
@@ -238,9 +238,9 @@ Doses quotidiennes habituelles pour le traitement de la fibromyalgie pour un ess
 
 L'[amitriptyline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68969066&typedoc=R) 10-25 mg (tricyclique, *EULAR*) est également très utilisée quoiqu'avec un niveau de preuve moindre.
 
-Les ISRS (citalopram, fluoxétine, paroxétine) sont utilisés uniquement en cas de dépression avérée.
+Les ISRS (citalopram, fluoxétine, paroxétine) sont utilisés uniquement en cas de [dépression avérée]({{< relref "depression.md" >}}).
 
-Avis d'une structure douleur chronique (SDC) en cas d'échec de la prise en charge.
+Avis d'une *structure douleur chronique* (SDC) en cas d'échec de la prise en charge.
 
 ### Autres prises en charges de la fibromyalgie
 
@@ -301,8 +301,8 @@ graph TB
 {{< scores/first >}}
 
 {{% /modal %}}
-{{% modal title="Score HADS" id="modal-hads"%}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
 
-{{< scores/hads >}}
+{{< scores/phq4 >}}
 
 {{% /modal %}}

@@ -175,7 +175,7 @@ Signes évocateurs de cancer du pancréas, surtout après 50 ans (signes en **gr
   - Hémorragie digestive
   - Diarrhée par maldigestion
   - Ascite
-  - Anxiété, dépression
+  - Anxiété, [dépression]({{< relref "depression.md" >}})
   - Panniculite mésentérique (syndrome de Weber-Christian)
 - Tumeurs neuro-endocrines du pancréas
   - Gastrine: syndrome de Zollinger-Ellison avec diarrhée et ulcères gastro-duodénaux multiples

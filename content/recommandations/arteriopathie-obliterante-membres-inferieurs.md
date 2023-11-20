@@ -176,7 +176,8 @@ Signes et symptômes de l'artériopathie oblitérante des membres inférieurs:
 - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - Mode de vie
 - Habitudes alimentaires
-- Anxiété, dépression, qualité de vie
+- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Qualité de vie
 
 **NB.** Si neuropathie, sédentarité ou intolérance à l'exercice, la claudication peut être indolore (*AOMI masquée*).
 
@@ -345,6 +346,11 @@ accTitle: Prise en charge diagnostique de l'artériopathie oblitérante des memb
 {{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
 
 {{< scores/stop-bang >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
 
 {{% /modal %}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}

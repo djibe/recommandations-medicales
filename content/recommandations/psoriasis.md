@@ -16,7 +16,7 @@ sctid = "9014002"
 icd10 = "L40.9"
 image = true
 imageSrc = "Psoriasis en plaques du cuir chevelu et des mains. Freepik"
-todo = "PASI, EULA RPso, dépistage dépression, SAPHO"
+todo = "PASI, EULA RPso, SAPHO"
 +++
 
 {{%article-summary%}}
@@ -89,6 +89,7 @@ SFD
   - Signes associés: SAPHO (synovite, acné, pustulose, hyperostose, ostéite)
   - Sévérité: [score PASI (PDF)](https://www.sfdermato.org/upload/scores/formulaire-de-calcul-de-score-pasi-239e58233872fe425ce7a8a3232d0265.pdf)
 - Signes généraux: habituellement pas d'AEG
+- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 - Qualité de vie: {{< modal-btn modal-score-dlqi >}}score DLQI{{< /modal-btn >}}
 
 ### Formes cliniques de psoriasis
@@ -271,5 +272,10 @@ Les traitements privilégiés sont en **gras**. La réévaluation du traitement 
 {{% modal title="Score DLQI" id="modal-score-dlqi"%}}
 
 {{< scores/dlqi >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
 
 {{% /modal %}}

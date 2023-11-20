@@ -122,7 +122,7 @@ Les signes cliniques sont modérés chez les caucasiennes.
   - Evaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ± {{< scores/heartscore >}}
 - Retentissement psychologique
   - Image du corps
-  - Dépister anxiété ({{< modal-btn modal-gad2 >}}questionnaire GAD-2{{< /modal-btn >}}) et dépression (les 2 avec le {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}})
+  - Dépister anxiété et dépression: {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
   - Dépister un trouble du comportement alimentaire: {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}
   - Sexualité: score FSFI (*Female sexual function Index*)
 - Qualité de vie (score PCOSQ)
@@ -312,11 +312,6 @@ La **chirurgie ovarienne** par cœlioscopie et la **fécondation in vitro** (FIV
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
 
 {{< clinique/syndrome-metabolique >}}
-
-{{% /modal %}}
-{{% modal title="Questionnaire GAD-2" id="modal-gad2"%}}
-
-{{< scores/gad2 >}}
 
 {{% /modal %}}
 {{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}

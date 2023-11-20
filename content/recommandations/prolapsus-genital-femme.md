@@ -102,7 +102,7 @@ Enquête sur les symptômes et le retentissement du prolapsus génital:
 - Retentissement
   - Activités physiques
   - Sexuel
-  - Anxiété, dépression
+  - Anxiété, [dépression]({{< relref "depression.md" >}})
 - Attentes et préférences
 
 Une aggravation brutale des symptômes lors d'un effort intense ou d'un accident ne préjuge pas de la sévérité du prolapsus génital et ne requiert pas systématiquement de chirurgie.
