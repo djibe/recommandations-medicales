@@ -132,7 +132,7 @@ Les symptômes du canal lombaire étroit sont majorés debout.
 - Radiographies du rachis lombaire face et profil
 - Envisager un échodoppler artériel des membres inférieurs (différentiel)
 
-### Imagerie du rachis lombaire
+### IRM du rachis lombaire
 
 Le diagnostic de canal lombaire étroit nécessite une **IRM lombaire** (voire un scanner).
 {.alert .alert-info}

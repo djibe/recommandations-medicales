@@ -166,6 +166,8 @@ Autres examens selon le contexte.
 
 Le traitement et la prise en charge de l'ictère dépend de l'étiologie retrouvée.
 
+Information du patient: [guide AFEF](https://afef.asso.fr/jaunisse/)
+
 {{% /collapse %}}
 {{%collapse "Prise en charge d'un ictère" "show" %}}
 

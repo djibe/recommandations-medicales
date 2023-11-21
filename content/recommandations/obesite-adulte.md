@@ -27,7 +27,7 @@ flowchart = true
 - Le diagnostic d'obésité de l'adulte est clinique avec un indice de masse corporelle (IMC) supérieur à 30 kg/m² (dite morbide ou classe 3 à partir de 40)
 - << Demander l'accord de la personne pour aborder le poids >> (*HAS 2023*)
 - Un niveau adapté de prise en charge des personnes en obésité est requis (voir [Niveau adapté](#niveau-adapté-de-prise-en-charge-et-chirurgie-bariatrique)):
-  - Centre spécialisé de l'obésité (CSO, [annuaire](https://sante.gouv.fr/IMG/pdf/annuaire_national_cso_fevrier_2023.pdf)) si: IMC ≥ 50, insuffisance d'organe, grabataire, cause génétique, échec de chirurgie bariatrique  
+  - Centre spécialisé de l'obésité (CSO, [annuaire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/article/les-centres-specialises-d-obesite)) si: IMC ≥ 50, insuffisance d'organe, grabataire, cause génétique, échec de chirurgie bariatrique  
   ou IMC 35-49 avec aggravation d'une maladie chronique, périmètre de marche 100-200 m, hyperphagie boulimique, psychiatrique sévère, obésité secondaire, échec de niveau 2
   - Nutritionniste si IMC 35-49 kg/m² avec: pathologie cardiovasculaire déséquilibrée (HTA résistante, diabète déséquilibré, NASH, SAHOS sévère), aggravation d'une maladie chronique sans risque majeur, impact marqué sur la qualité de vie, boulimie, échec du niveau 1 ...
 - Indications à la chirurgie bariatrique: IMC ≥ 40 ou ≥ 35 avec comorbidité pouvant s'améliorer (HTA, SAHOS, DT2, NASH) avec échec des prises en charges antérieures (voir [Niveau adapté](#niveau-adapté-de-prise-en-charge-et-chirurgie-bariatrique))
@@ -63,7 +63,7 @@ Obésité abdominale
 
 Échec de prise en charge de l'obésité
 : Définition *HAS 2022*: perte de poids inférieure à 5% à un an ou absence de son maintien avec: poursuite de la prise de poids, incapacité à modifier durablement ses comportements ou aggravation des complications liées à l'obésité.
-: En cas d'échec à 6-12 mois, le patient doit être orienté vers un **nutritionniste** (niveau 2) qui pourra l'adresser à un **centre spécialisé de l'obésité** (CSO, niveau 3, [annuaire PDF](https://sante.gouv.fr/IMG/pdf/annuaire_national_cso_fevrier_2023.pdf)).
+: En cas d'échec à 6-12 mois, le patient doit être orienté vers un **nutritionniste** (niveau 2) qui pourra l'adresser à un **centre spécialisé de l'obésité** (CSO, niveau 3, [annuaire PDF](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/article/les-centres-specialises-d-obesite)).
 
 Restriction cognitive
 : << Limitation volontaire des apports alimentaires avec possibles privations, dans le but de contrôler son poids >> (*CEEDMM*).
@@ -272,7 +272,7 @@ Situations d'obésité nécessitant une prise en charge spécialisée (d'après 
 
 ### Indications à une prise en charge de niveau 3 de l'obésité
 
-Prise en charge par un centre spécialisé de l'obésité (CSO, [annuaire PDF](https://sante.gouv.fr/IMG/pdf/annuaire_national_cso_fevrier_2023.pdf)) si au moins 1 parmi:
+Prise en charge par un centre spécialisé de l'obésité (CSO, [annuaire PDF](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/article/les-centres-specialises-d-obesite)) si au moins 1 parmi:
 
 - **IMC ≥ 50** kg/m²
 - Insuffisance d'organe

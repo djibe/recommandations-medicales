@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-20T22:32:54+02:00"
 publishdate = "2022-06-21"
-lastmod = "2022-09-19"
+lastmod = "2023-11-21"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["SFCD", "Collèges"]
@@ -16,12 +16,13 @@ sctid = "85189001"
 icd10 = "K35.8"
 image = true
 imageSrc = "Appendicite terminale avec pus intraluminal chez un garçon de 7 ans avec douleurs abdominales depuis 2 jours. Cas de Maulik S Patel, Radiopaedia.org, rID: 16751"
-todo = "rankok, flowchart, https://www.sciencedirect.com/science/article/pii/B9782294759710000298, relecture leon.maggiori@aphp"
+todo = "rankok, https://www.sciencedirect.com/science/article/pii/B9782294759710000298, relecture leon.maggiori@aphp"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Le diagnostic d'appendicite aiguë est délicat (fréquents diagnostics différentiels) et nécessite des examens complémentaires (bandelette urinaire, bilan biologique et échographie abdominale)
+- Le diagnostic d'appendicite aiguë est délicat (fréquents diagnostics différentiels) et nécessite des examens complémentaires urgents (bandelette urinaire, bilan biologique et échographie abdominale)
 - L'appendicite aiguë est une urgence chirurgicale (pouvant être différée jusqu'à 24 heures du diagnostic)
 
 {{%/article-summary%}}
@@ -64,7 +65,7 @@ TDM
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Diagnostics différentiels de l'appendicite aiguë:
+### Diagnostics différentiels de l'appendicite aiguë
 
 - Gastro-entérite aiguë
 - Maladie inflammatoire chronique de l'intestin (MICI)
@@ -74,15 +75,15 @@ Diagnostics différentiels de l'appendicite aiguë:
 - [Pyélonéphrite aiguë]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
 - Colique néphrétique
 - Pédiatrie: adénolymphite mésentérique, invagination intestinale aiguë
-{.list-group}
 
 {{% /collapse %}}
 {{%collapse "Clinique de l'appendicite aiguë" %}}
 
-L'examen clinique n'est pas suffisante pour le diagnostic d'appendicite aiguë.  
-Signes et symptômes devant faire évoquer une appendicite aiguë:
+L'examen clinique n'est pas suffisante pour le diagnostic d'appendicite aiguë.
 
 ### Interrogatoire
+
+Signes et symptômes devant faire évoquer une appendicite aiguë:
 
 - Antécédents, dont digestifs et chirurgicaux  
   Créatininémie récente.
@@ -100,12 +101,12 @@ Signes et symptômes devant faire évoquer une appendicite aiguë:
 - Signes négatifs
   Signes fonctionnels urinaires, gynécologiques.
 
-Chez la femme enceinte: l'utérus repousse l'appendice avec tableau de colique hépatique
+Chez la femme enceinte, l'utérus repousse l'appendice avec **tableau de colique hépatique**
 {.alert .alert-info}
 
 ### Examen clinique
 
-- Pression artérielle, pouls, température
+- Pression artérielle, fréquence cardiaque, température
 - Inspection
   - Cicatrices abdominales
   - Sueurs, pâleur, déshydratation (conjonctives, langue), [ictère]({{< relref "ictere.md" >}}), position antalgique.  
@@ -120,8 +121,9 @@ Chez la femme enceinte: l'utérus repousse l'appendice avec tableau de colique h
 
 ### Signes d'appendicite chez le petit enfant
 
-L'appendicite aiguë est possible à tout âge mais reste exceptionnelle avant 1 an.  
-Les signes sont non spécifiques: AEG, fièvre élevée, vomissements, diarrhées, insomnie, agitation.
+L'appendicite aiguë est possible à tout âge mais reste exceptionnelle avant 1 an.
+
+Les signes d'appendicite sont non spécifiques: AEG, fièvre élevée, vomissements, diarrhées, insomnie, agitation.
 
 ### Autres formes cliniques d'appendicite selon sa topographie
 
@@ -140,7 +142,8 @@ Appendicite en position sous-hépatique
 {{% /collapse %}}
 {{%collapse "Examens complémentaires de l'appendicite aiguë" %}}
 
-Les marqueurs biologiques ne sont pas suffisants pour le diagnostic d'appendicite aiguë.  
+Les marqueurs biologiques ne sont pas suffisants pour le diagnostic d'appendicite aiguë.
+
 Aucun score basé sur le syndrome inflammatoire ne s'est révélé suffisant pour affirmer le diagnostic.
 
 - Bandelette urinaire
@@ -149,7 +152,7 @@ Aucun score basé sur le syndrome inflammatoire ne s'est révélé suffisant pou
 - Créatininémie
 - ßHCG
 
-> *Bilan non exhaustif du CDU-HGE*
+> – *Bilan non exhaustif du CDU-HGE*
 
 En l'absence de signes cliniques (douleur migrant en FID) ET biologiques (NFS et CRP normaux), le diagnostic d'AA est peu probable. Possible exploration par imagerie ou surveillance clinique adaptée au contexte
 {.alert .alert-info}
@@ -165,34 +168,42 @@ Après échographie normale ou non concluante et absence d'accès à l'IRM: scan
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'appendicite aiguë" %}}
 
-> << L'antibiothérapie seule n'est pas recommandée en première intention dans l'appendicite aiguë non compliquée et le traitement chirurgical reste la prise en charge de référence >> (*SFCD 2021*)
+> << L'antibiothérapie seule n'est pas recommandée en première intention dans l'appendicite aiguë non compliquée et le traitement chirurgical reste la prise en charge de référence >> – *SFCD 2021*
 {.alert .alert-info}
 
 [Information des parents mpedia](https://www.mpedia.fr/art-appendicite/?sr=895).
 
 ### Traitement chirurgical par appendicectomie
 
-La chirurgie est le traitement de référence de l'appendicite aiguë non compliquée (par cœlioscopie ou laparotomie, même chez la femme enceinte).  
-Elle peut être différée jusqu'à 24h après le diagnostic. 30-50% pourraient être réalisées en ambulatoire;
+La chirurgie est le traitement de référence de l'appendicite aiguë non compliquée (par cœlioscopie ou laparotomie, même chez la femme enceinte). Elle peut être différée jusqu'à 24 heures après le diagnostic. 30 à 50% pourraient être réalisées en ambulatoire.
 
-Le traitement chirurgical par cœlioscopie est également la référence en appendicite aiguë compliquée mais une antibiothérapie peut être discutée en première ligne (sauf péritonite). Puis chirurgie à froid.
+Le traitement chirurgical par cœlioscopie est également la référence en cas d'appendicite aiguë compliquée mais une antibiothérapie peut être discutée en première ligne (sauf péritonite). Puis chirurgie à froid.
 
-Anatomopathologie de l'appendice systématique.
+Anatomopathologie systématique de l'appendice retiré.
 
-Pas d'antibiothérapie post-opératoire en AA non compliquée. Si compliquée: C3G + imidazolé pendant 3 jours (parfois prolongée).
+Pas d'antibiothérapie post-opératoire pour une appendicite non compliquée. Si compliquée: C3G + imidazolé pendant 3 jours (parfois prolongée).
 
 ### Appendicite aiguë et antibiothérapie
 
-En cas de contre-indication ou d'impossibilité de la chirurgie, l'antibiothérapie IV seule est << une alternative acceptable >> (*SFCD 2021*). Minimum 24 heures de surveillance hospitalière.
+En cas de contre-indication ou d'impossibilité de la chirurgie, l'antibiothérapie IV seule est << une alternative acceptable >> – *SFCD 2021*. Minimum 24 heures de surveillance hospitalière.
 
 La voie orale est recommandée en l'absence de nausées ou vomissements.
 
-Antibiothérapie type amoxicilline + a. clavulanique (Augmentin) ou fluoroquinolone + imidazolé ≤ 8 jours (SPILF 2020: 7 jours)
+Antibiothérapie type amoxicilline + acide clavulanique (Augmentin) ou fluoroquinolone + imidazolé ≤ 8 jours (*SPILF 2020*: 7 jours)
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de l'appendice aiguë" "show" %}}
+
+{{< mermaid title="Prise en charge de la suspicion d'appendice aiguë par le médecin généraliste. Dr JB Fron d'après SFCD 2021 et Collèges" >}}
+graph TB
+  suspicion["<b>Suspicion d'appendicite aiguë</b><br>—<br>- À tout âge<br>- Douleurs en FID persistantes<br>- Sensibilité ou défense<br>en FID<br>- ± Fièvre, tbles transit"] --> urgences("Bilan aux Urgences<br>ou échographie abdominale<br>+ bilan<br>en filière rapide")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
-- [Collard M.K. et al. Appendicite de l'adulte : recommandations pour la pratique clinique de la Société française de chirurgie digestive (SFCD) et de la Société d'imagerie abdominale et digestive (SIAD). Journal de Chirurgie Viscérale. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S1878786X20304447)
+- [Collard MK et al. Appendicite de l'adulte : recommandations pour la pratique clinique de la Société française de chirurgie digestive (SFCD) et de la Société d'imagerie abdominale et digestive (SIAD). Journal de Chirurgie Viscérale. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S1878786X20304447)
 - Collège Français de Chirurgie Générale, Viscérale et Digestive. Appendicite de l'enfant et de l'adulte. Item 351 - UE11. Chirurgie générale, viscérale et digestive. 2e édition.
 - Prescrire Redaction. Signes d'appendicite chez les enfants. Rev Prescrire. 2021.
 - [Ameli. L'appendicite aiguë : symptômes, diagnostic et évolution. 06/12/2021.](https://www.ameli.fr/assure/sante/themes/appendicite-aigue/symptomes-diagnostic-evolution)

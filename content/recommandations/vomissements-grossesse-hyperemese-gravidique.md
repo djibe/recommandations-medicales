@@ -152,7 +152,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Deruelle P. et al. Consensus formalisé d'experts du Collège national des gynécologues et obstétriciens français : prise en charge des nausées et vomissements gravidiques et de l'hyperémèse gravidique. Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/pdf/RPC//1-RPC%20DU%20CNGOF/2022-2023/CFE-Nausees-et-vomissements-gravidiques-2022.pdf?x72671)
+- [Deruelle P. et al. Consensus formalisé d'experts du Collège national des gynécologues et obstétriciens français : prise en charge des nausées et vomissements gravidiques et de l'hyperémèse gravidique. Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2022/CFE-Nausees-et-vomissements-gravidiques-2022.pdf?x55732)
 - [Centre de Référence sur les Agents Tératogènes. Antiémétiques - Grossesse et allaitement. 02/11/2021.](http://le-crat.fr/spip.php?page=article&id_article=133)
 
 {{%/sources%}}

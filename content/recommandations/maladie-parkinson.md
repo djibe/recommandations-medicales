@@ -437,7 +437,7 @@ Conduites addictives: [boulimie]({{< relref "boulimie-hyperphagie.md" >}}), hype
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-Guides: [HAS Maladie de Parkinson (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-09/gp_parkinson_10818_001_008.pdf), [France Parkinson (PDF)](https://www.franceparkinson.fr/wp-content/uploads/2016/11/France-Parkinson-Je-de%CC%81couvre-compresse%CC%81.pdf), [Inserm](https://www.inserm.fr/dossier/parkinson-maladie/) et sur les [médicaments (PDF)](https://www.franceparkinson.fr/wp-content/uploads/2019/11/Flyer_FranceParkinson_m%C3%A9dicament.pdf)
+Guides: [HAS Maladie de Parkinson (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-09/gp_parkinson_10818_001_008.pdf), [France Parkinson (e-learning)](https://www.franceparkinson.fr/les-grands-services/plateforme-de-learning-formaparkinson/), [Inserm](https://www.inserm.fr/dossier/parkinson-maladie/).
 
 Les informations sur la maladie sont expliquées et reprises sur plusieurs consultations à la personne et ses aidants:
 

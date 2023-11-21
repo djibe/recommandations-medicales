@@ -120,6 +120,7 @@ Vaccins combinés: VHA-typhoïde Tyavax® et VHA-VHB Twinrix adulte®
 
 ### Bibliographie en attente
 
-[Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 45](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2045)
+- [AFEF. Hépatite A](https://afef.asso.fr/hepatite-a/)
+- [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 45](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2045)
 
 {{%/sources%}}

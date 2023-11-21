@@ -6,7 +6,7 @@ synonyms = ["Cancer du côlon", "cancer du rectum"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
 publishdate = "2022-09-22"
-lastmod = "2023-10-30"
+lastmod = "2023-11-21"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2023"
 sources = ["SNFGE", "INCa", "HAS", "SFED"]
@@ -16,7 +16,8 @@ sctid = "781382000"
 icd10 = "C18"
 image = true
 imageSrc = "Illustration du cancer colorectal. Blausen Medical Communications, Inc., CC BY 3.0, via Wikimedia Commons"
-todo = "SEO 'dépistage cancer colorectal recommandations', dépistage G8 gériatrie, Vaccination info service chimiothérapie"
+todo = "SEO 'dépistage cancer colorectal recommandations', dépistage G8 gériatrie"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -29,7 +30,7 @@ todo = "SEO 'dépistage cancer colorectal recommandations', dépistage G8 géria
 - Symptômes persistants évocateurs de cancer du côlon ou du rectum: rectorragies/méléna, alternance diarrhée-constipation, douleur ou masse abdominale, syndrome rectal, AEG, anémie ferriprive.  
   Les symptômes d'alerte imposent une consultation rapide de gastro-entérologie pour une coloscopie diagnostique.
 - Facteurs de risque de cancer colorectal: alcool, tabac, surpoids, alimentation riche en viande rouge et charcuterie et faible en fibres
-- Test de dépistage fécal (TIF): tous les 2 ans de 50 à 74 ans (à risque modéré asymptomatiques sans coloscopie dans les 5 ans). Commandes de kits sur Ameli Pro, retrait en pharmacie ou livraison à domicile sur [monkit.depistage-colorectal.fr](https://monkit.depistage-colorectal.fr/#/invitation)
+- Test de dépistage fécal (TIF): tous les 2 ans de 50 à 74 ans (à risque modéré asymptomatiques sans coloscopie dans les 5 ans). Commandes de kits: *Ameli Pro*, retrait en pharmacie ou livraison à domicile sur [monkit.depistage-colorectal.fr](https://monkit.depistage-colorectal.fr/#/invitation)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -111,7 +112,7 @@ Le niveau de risque de cancer colorectal détermine la méthode et le rythme de 
 
 Risque moyen
 : Sujet de 50 à 74 ans asymptomatique sans antécédent personnel ou familial d'adénome/CCR ou personnel de MICI
-: Dépistage: test immunologique fécal.
+: **Dépistage:** test immunologique fécal (TIF).
 
 Risque élevé
 : 4 groupes à risque élevé de cancer colorectal:
@@ -121,12 +122,12 @@ Risque élevé
     3. Maladie inflammatoire chronique de l'intestin  
       {{%class%}}Maladie de Crohn ou rectocolite hémorragique.{{%/class%}}
     4. [Acromégalie]({{< relref "acromegalie.md" >}})
-: Dépistage: surveillance gastro-entérologique et coloscopique (voir *Dépistage et suivi*).
+: **Dépistage:** surveillance gastro-entérologique et coloscopique (voir *Dépistage et suivi*).
 
 Risque très élevé = prédisposition génétique au cancer colorectal
 :  - Polyposes adénomateuses familiales (PAF par mutation APC ou MYH)
     - Cancer colorectal héréditaire non polyposique (HNPCC ou syndrome de Lynch)
-    - Dépistage: surveillance par chromocoloscopie et oncogénétique
+    - **Dépistage:** surveillance par chromocoloscopie et oncogénétique
 
 > *INCa 2020 test immunologique*  
   Risque moyen (80% des cas et risque de CCR vie entière de 3 à 4%) ; Risque élevé (15% des cas et risque vie entière 4-10%) ; Risque très élevé (5% des cas et risque vie entière 40-100%)

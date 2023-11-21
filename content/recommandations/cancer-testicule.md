@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-11-06T16:37:01+01:00"
 publishdate = "2023-11-07"
-lastmod = "2023-11-20"
+lastmod = "2023-11-21"
 specialites = ["urologie"]
 annees = "2023"
 sources = ["EAU", "HAS", "INCa"]
@@ -48,6 +48,9 @@ Cancer du testicule
 CECOS
 : Centre d'études et de conservation des œufs et du sperme humain
 
+CLCC
+: Centre de Lutte contre le Cancer
+
 EAU
 : Association européenne d'urologie ({{%lang%}}European Association of Urology{{%/lang%}})
 
@@ -72,8 +75,10 @@ INCa
 
 ### Interrogatoire
 
+Tableau clinique survenant chez un homme de 30 à 40 ans le plus souvent:
+
 - Antécédents personnels et familiaux  
-  Cryptorchidie, tumeur testiculaire controlatérale.
+  [Cryptorchidie]({{< relref "cryptorchidie.md" >}}), tumeur testiculaire controlatérale.
 - Symptômes testiculaires:
   - **masse du testicule, dure indolore et unilatérale**
   - tardifs: gêne ou douleur testiculaire
@@ -105,16 +110,16 @@ INCa
 Bilan d'une tumeur testiculaire:
 
 - NFS
-- Marqueurs tumoraux si échographie évocatrice: alpha-fœtoprotéine (AFP), β-hCG, LDH
 - Créatininémie, ionogramme sanguin
 - TP, TCA
 - Échographie testiculaire  
   Échographie scrotale bilatérale haute fréquence (> 10 MHz). IRM scrotale en cas d'échographie non concluante.
+- Marqueurs tumoraux si échographie évocatrice: alpha-fœtoprotéine (AFP), β-hCG, LDH
 - Bilan d'extension: scanner thoraco-abdomino-pelvien avec injection (TDM TAP)
 
 > – *HAS, INCa 2011*
 
-Adresser à l'urologue avec les résultats du bilan initial.
+Adresser à l'urologue d'un centre de lutte contre le cancer (CLCC) avec les résultats du bilan initial.
 
 L'échographie des testicules est également recommandée devant toute masse rétropéritonéale ou viscérale (*EAU 2023*)
 {.alert .alert-info}
@@ -159,10 +164,13 @@ Après chimiothérapie, la spermatogenèse récupère normalement sous 1 à 4 an
 {{% /collapse %}}
 {{%collapse "Prise en charge du cancer du testicule" "show" %}}
 
-{{< mermaid title="Prise en charge de la suspicion de cancer du testicule par le médecin généraliste. Dr JB Fron d'après EAU 2023" >}}
+{{< mermaid title="Prise en charge de la suspicion de cancer du testicule par le médecin généraliste. Dr JB Fron d'après EAU 2023 et HAS/INCa 2011" >}}
 graph TB
-  suspicion
+  suspicion["<b>Suspicion de cancer du testicule</b><br>—<br>Homme jeune avec:<br>- Masse testiculaire,<br>indolore, unilatérale<br>- Douleurs lombaires ou flanc<br>- AEG, dyspnée<br>- Ou masse rétropéritonéale<br>ou viscérale"] --> bilan("<b>Bilan</b><br>—<br>- NFS, créatinine, TP<br>- Échographie testiculaire<br>± IRM si insuffisante") -- Cancer --> marqueurs("<b>Bilan d'extension</b><br>—<br>- Marqueurs tumoraux:<br>AFP, β-hCG, LDH<br>- Scanner TAP injecté") -- Semi-urgent --> urologue("Avis urologique<br>dans un CLCC")
+    bilan -- Autre --> différentiel("- Hydrocèle<br>- Tuméfaction épididymaire<br>- Tumeur bénigne de Leydig")
+    dépistage["<b>Dépistage des sujets à risque<br>par autopalpation:</b><br>—<br>- Cryptorchidie<br>- ATCD perso/fam de<br>cancer du testicule"] -. Anomalie .-> bilan
   style suspicion stroke:#4150f5, stroke-width:1px
+  style dépistage stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{%/collapse%}}

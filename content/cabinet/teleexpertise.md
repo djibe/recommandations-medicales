@@ -5,7 +5,7 @@ description = "Demander une téléexpertise médicale pour un patient. Comment f
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T09:25:00+02:00"
 publishdate = "2022-08-31"
-lastmod = "2023-11-02"
+lastmod = "2023-11-20"
 specialites = []
 annees = "2023"
 sources = []
@@ -33,7 +33,8 @@ Liste des sites permettant de demander gratuitement une téléexpertise médical
 Vous devez d'abord créer un compte sur une plateforme de téléexpertise afin que l'expert connaisse vos coordonnées (qu'il précisera sur sa feuille de soins électronique).
 
 - [Omnidoc](https://omnidoc.fr/medecins-generalistes)
-- [Crossdoc](https://crossdoc.fr) (gastro-entérologie et nutrition pédiatrique)
+- [Direct AP-HP](https://direct.aphp.fr/) (TLE, avis téléphonique, staff) mais ne gère pas les remboursements
+- Payants: Avis Doc (dermato), [CrossDoc](https://crossdoc.fr) (gastro-entérologie et nutrition pédiatrique), Medaviz
 {.list-group}
 
 Les plateformes régionales de téléexpertise mises en place par les ARS permettent également de demander des téléexpertises.
@@ -43,12 +44,10 @@ Les plateformes régionales de téléexpertise mises en place par les ARS permet
 - Centre - Val de Loire: [Telis](https://www.esante-centre.fr/portail_pro/services-e-sante/telis-plateforme-regionale-de-telesante-454-559.html)
 - Gironde: [Alliance de Gironde](https://www-telemedecine.alliance-gironde.fr/portal-pro/accueil/authentification-6-6.html)
 - Hauts de France: [prédice](https://www.predice.fr/portail-pro/services/teleexpertise-29-29.html?args=BaXCwDEzx%252AbQdO8DobsgYqICblUlNbrBeZY8RMXOgZelIdpCSDxNwBAjZDBCO%252A%252Ar5vuUAB5GWsGU0umTlO%252ApAw)
-- Ile-de-France: [Direct AP-HP](https://direct.aphp.fr/) (TLE, avis téléphonique, staff) mais ne gère pas les remboursements 
+- Ile-de-France: [Ortif](https://ortif.sante-idf.fr/portail/#/fr/index)
 - ...
 
 **NB.** Je ne sais pas si ces dernières permettent la facturation.
-
-
 
 {{% /collapse %}}
 {{%collapse "Comment demander une téléexpertise ?" %}}
@@ -65,8 +64,8 @@ Le médecin demandeur est dit *requérant* et le médecin expert est dit *requis
 5. Attente de l'expertise
 6. Récupération du compte-rendu de téléexpertise et mise du rapport dans le dossier du patient et son DMP
 7. Feuille de soins *Sesam sans vitale* pour le patient  
-  Cotation RQD (requérant, 10€ sans autre acte ou majoration) en **AMO 100%**
-1. Confirmer la création de la FSE pour que l'expert (le requis) puisse faire la sienne avec les infos patient et vos coordonnées
+  Cotation RQD (requérant, 10€ sans autre acte ou majoration) en **AMO 100%**.
+8. Confirmer la création de la FSE pour que l'expert (le requis) puisse faire la sienne avec les infos patient et vos coordonnées
 
 {{% /collapse %}}
 {{%collapse "Comment facturer une téléexpertise ?" %}}

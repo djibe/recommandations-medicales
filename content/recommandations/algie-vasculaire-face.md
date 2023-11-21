@@ -263,7 +263,7 @@ Indication à la prise en charge par traitement de fond de l'algie vasculaire de
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Éviction de l'alcool, cannabis et cocaïne
 - Traitement transitionnel si besoin le temps de la titration (voir *Traitement de la crise*)
-- Association de patients: [AFCAVF](http://www.afcavf.org/index/page/id/accueil)
+- Association de patients: [AFCAVF](http://www.afcavf.org)
 - [Appli d'agenda des crises](https://play.google.com/store/apps/details?id=eu.monavf.android.monavf)
 - Pas d'ALD accordée
 

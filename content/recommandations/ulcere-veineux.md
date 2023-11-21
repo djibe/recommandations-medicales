@@ -2,19 +2,19 @@
 title = "Ulcère veineux de jambe"
 titleSeo = "Ulcère veineux de jambe"
 prefix = "la "
-description = "Title 2-22 words and description 160 characters max"
+description = "TODO:"
 synonyms = []
-auteurs = ["Jean-Baptiste FRON"]
+auteurs = ["Mustapha DAHLAB", "Jean-Baptiste FRON"]
 date = "2023-11-20T12:00:20+01:00"
 publishdate = "2023-11-20"
 lastmod = "2023-11-20"
-specialites = ["endocrinologie"]
+specialites = ["dermatologie"]
 annees = "2023"
 sources = ["CEDEF", "HAS"]
-tags = ["tag 1", "tag 2"]
-anglais = ["English word", "you can add one or delete this one"]
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = "https://prod-mapping.ihtsdotools.org/#/"
+tags = []
+anglais = ["Venous ulcer of lower limb", "stasis ulcer of lower extremity"]
+sctid = "1237116009"
+icd10 = "I83.0"
 draft = true
 image = false
 imageSrc = ""
@@ -28,18 +28,44 @@ TODO:
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
+Ulcère veineux
+: Plaie de jambe ne cicatrisant pas depuis plus d'un mois (sauf récidive) dont la physiopathologie est uniquement liée à surpression veineuse (reflux dans les veines superficielles, obstruction des veines profondes et/ou déficience musculaire du mollet) sans artériopathie.
+
+Ulcère mixte à prédominance veineuse
+: Ulcère préférentiellement veineux mais associé à une [artériopathie oblitérante des membres inférieurs]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (AOMI) modérée.
+
 ### Abréviations
+
+AOMI
+: artériopathie oblitérante des membres inférieurs
 
 CEDEF
 : Collège des enseignants de dermatologie de France
 
 HAS
 : Haute Autorité de Santé
+
+IPS
+: index de pression systolique
+
+MVTE (ou MTEV)
+: maladie veineuse thrombo-embolique
+
+TVP
+: thrombose veineuse profonde
 {.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+### Interrogatoire
+
+Interrogatoire en cas d'ulcère de la jambe:
+
+- Antécédents  
+  Phlébologiques (ulcère veineux), maladie veineuse thrombo-embolique (MVTE ou MTEV: thrombose veineuse profonde TVP, superficielle TVS ou embolie pulmonaire), traumatisme ou chirurgie des membres inférieurs
+- Antécédents familiaux: varices
+- Facteurs de risque cardiovasculaires
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

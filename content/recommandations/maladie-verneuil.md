@@ -88,7 +88,7 @@ Les prélèvements bactériologiques sont d'interprétation délicate et réserv
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-[Liste des spécialistes du RésoVerneuil](https://resoverneuil.com/nos-specialistes/)
+[Liste des spécialistes du RésoVerneuil](https://www.reso-dermatologie.fr/dermatologues/?_maladies=maladie-de-verneuil)
 
 - Suivi dermatologique systématique  
   Le médecin traitant dépiste, oriente et prescrit le traitement abortif d'urgence.

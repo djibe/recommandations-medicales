@@ -171,7 +171,7 @@ La prise en charge du carcinome hépatocellulaire (CHC) est spécialisée après
 Mesures associées à la prise en charge des cancers:
 
 - Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
-- [Guide information HAS sur le CHC (PDF)](https://www.e-cancer.fr/content/download/85014/866989/file/GP_Cancer_Foie.pdf) et [guide INCa sur les traitements](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-traitements-du-cancer-du-foie)
+- [Guide information HAS sur le CHC (PDF)](https://www.e-cancer.fr/content/download/85014/866989/file/GP_Cancer_Foie.pdf), [guide AFEF](https://afef.asso.fr/cancer-du-foie-chc) et [guide INCa sur les traitements](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-traitements-du-cancer-du-foie)
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - [Sevrage de l'alcool]({{< relref "sevrage-alcool.md" >}}
 - Suivi nutritionnel

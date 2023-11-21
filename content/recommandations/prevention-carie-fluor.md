@@ -7,7 +7,7 @@ synonyms = ["Apports en fluor"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-04-30T20:21:18+02:00"
 publishdate = "2022-05-09"
-lastmod = "2023-02-06"
+lastmod = "2023-11-21"
 specialites = ["pediatrie"]
 annees = "2021"
 sources = ["CEOP", "HAS"]
@@ -24,7 +24,7 @@ todo = "relecture Boub, vidéos"
 
 Mesures d'hygiène bucco-dentaire pour la prévention des caries:
 
-- Pas de collation matinale, grignotage ou de boissons sucrées ([fiche ufsbd (PDF)](http://www.ufsbd.fr/wp-content/uploads/2020/08/FICHE-grignotage_260820.pdf))
+- Pas de collation matinale, grignotage ou de boissons sucrées ([fiche ufsbd (PDF)](https://www.ufsbd.fr/wp-content/uploads/2023/11/2023-FICHE-CONSEIL-UFSBD-grignotage.pdf))
 - Brossage des dents au moins pendant 2 fois par jour pendant 2 minutes après chaque repas
 - Enfants
   - Réaliser/superviser le brossage des dents jusqu'à 8 ans
@@ -151,9 +151,18 @@ La supplémentation orale en fluor n'est plus recommandée aux enfants de moins 
 Après 6 mois, la supplémentation relève uniquement d'un risque carieux élevé et d'un bilan personnalisé des apports en fluor.
 
 {{% /collapse %}}
-{{%sources%}}
+{{%collapse "Vidéos sur l'hygiène dentaire" %}}
 
 {{< youtube id="u_caLAieMsE" title="Technique du brossage des dents" >}}
+
+{{< youtube id="spdFjMfWakk" title="Un bon brossage c'est BROS (UFSBD)" >}}
+
+{{< youtube id="pKP4f02JIbA" title="Bien passer le fil dentaire c'est élémentaire (UFSBD)" >}}
+
+{{< youtube id="cTXpfiCFEKg" title="Avant 6 ans, brossez les dents en 4 temps (UFSBD)" >}}
+
+{{% /collapse %}}
+{{%sources%}}
 
 - [CEOP. Le fluor en prévention primaire : Recommandations du Collège des Enseignants en Odontologie Pédiatrique. 2021. (PDF)](https://sfop.asso.fr/wp-content/uploads/2021/11/Le-fluor-en-pre%CC%81vention-primaire-Droz-et-al-CEOP-2021.pdf)
 - Prescrire Redaction. Caries dentaires chez les enfants et les adolescents. Premiers Choix Prescrire. Rev Prescrire. 2021.

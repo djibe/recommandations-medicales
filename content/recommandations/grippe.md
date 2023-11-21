@@ -188,10 +188,9 @@ L'oseltamivir doit être débuté dans les 48 heures suivant l'apparition des sy
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ameli Pharmacien. Campagne de vaccination contre la grippe saisonnière 2023-2024. 13/10/2023](https://www.ameli.fr/pharmacien/exercice-professionnel/sante-prevention/vaccination/vaccination-grippe-saisonniere)
+- [Ameli Médecin. Vacciner ses patients atteints de maladies chroniques contre la grippe et le Covid-19 est essentiel. 15/11/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/vacciner-ses-patients-atteints-de-maladies-chroniques-contre-la-grippe-et-le-covid-19-est-essentiel)
+- [Ameli Pharmacien. Campagne de vaccination contre la grippe saisonnière 2023-2024. 08/11/2023](https://www.ameli.fr/pharmacien/exercice-professionnel/sante-prevention/vaccination/vaccination-grippe-saisonniere)
 - {{< references/calendrier-vaccinal >}}
-- [Ameli Médecin. Grippe : vacciner ses patients atteints de maladies chroniques est essentiel. 08/11/2022.](https://www.ameli.fr/medecin/actualites/grippe-vacciner-ses-patients-atteints-de-maladies-chroniques-est-essentiel)
-- [Ameli Médecin. Vaccination contre la grippe saisonnière : une FAQ pour répondre aux interrogations des patients. 18/10/2022.](https://www.ameli.fr/medecin/actualites/vaccination-contre-la-grippe-saisonniere-une-faq-pour-repondre-aux-interrogations-des-patients)
 - Prescrire Redaction. Grippe saisonnière. Prescrire. Août 2022.
 - [SPILF. Prise en charge de la grippe en dehors d'une situation de pandémie en 2005. Médecine et Maladies Infectieuses. 2005.](https://www.sciencedirect.com/science/article/pii/S0399077X05002064)
 

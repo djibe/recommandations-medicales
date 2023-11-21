@@ -305,6 +305,7 @@ Les tests sanguins (FIB-4, FibroTest®) ne sont utilisés que couplés au Fibros
   - [Grippe annuelle]({{< relref "grippe.md" >}})
 - [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}}) et du [tabac]({{< relref "arret-tabac.md" >}})
 - Correction d'un surpoids
+- Information du patient: [guide AFEF](https://afef.asso.fr/hepatite-b/)
 - Association de patients: [SOS hépatites](https://soshepatites.org)
 - [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 45](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2045)  
   Exposition lors de soins ou au contact de personnes contaminées.

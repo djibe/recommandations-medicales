@@ -174,7 +174,7 @@ Lorsque les saignées ne sont pas possibles, recours au traitement chélateur du
   - Correction d'un surpoids
   - [Vaccination hépatite B]({{< relref "hepatite-b.md" >}})
 - [ALD n°17]({{< relref "affection-longue-duree.md" >}})
-- Informations du patient sur l'hémochromatose: [sites de la SNFGE](https://www.snfge.org/content/hemochromatose), [AFEF](https://afef.asso.fr/la-maladie/maladies/hemochromatose/) et [Inserm](https://www.inserm.fr/dossier/hemochromatose-genetique/).
+- Informations du patient sur l'hémochromatose: [sites de la SNFGE](https://www.snfge.org/content/hemochromatose), [AFEF](https://afef.asso.fr/lhemochromatose/) et [Inserm](https://www.inserm.fr/dossier/hemochromatose-genetique/).
 - Associations de patients: [France fer hémochromatose](https://www.hemochromatose.org) et [association hémochromatose France](https://www.hemochromatose.fr)
 
 Le [Centre de référence des hémochromatoses](https://centre-reference-fer-rennes.org) est à Rennes.

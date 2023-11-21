@@ -231,6 +231,7 @@ Prise en charge d'une hépatite C et mesures d'hépatoprotection:
   - Charge virale VHC répétée en cas de comportements à risque
   - Pas de partage des rasoirs, brosse à dent.
   - Matériel à usage unique en cas d'acte invasif (drogue IV).
+- Information du patient: [guide AFEF](https://afef.asso.fr/hepatite-c/)
 - Association de patients: [SOS hépatites](https://soshepatites.org)
 - [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 45](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2045)  
   Exposition lors de soins ou au contact de personnes contaminées.
@@ -331,7 +332,7 @@ accTitle: Conduite à tenir dans les suites de la réalisation d'un TROD VHC d'a
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
-[Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/): {{<phone>}}0 800 845 800{{</phone>}}
+[Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/): {{<phone>}}0 800 845 800{{</phone>}} et [guide AFEF](https://afef.asso.fr/hepatite-c/).
 
 - Maladie grave pouvant être guérie le plus souvent
 - Les soins liés à la maladie et ses complications sont intégralement remboursés
@@ -361,7 +362,7 @@ accTitle: Conduite à tenir dans les suites de la réalisation d'un TROD VHC d'a
 - [HAS. Hépatite C - Panorama](https://www.has-sante.fr/jcms/p_3261788/fr/hepatite-c)
 - [HAS. Hépatite C : prise en charge simplifiée chez l'adulte. Mars 2019 MAJ Septembre 2019.](https://www.has-sante.fr/jcms/c_2911891/fr/hepatite-c-prise-en-charge-simplifiee-chez-l-adulte)
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
-- [AFEF, SPILF. Recommandations AFEF pour l'élimination de l'infection par le virus de l'hépatite C en France. Mars 2018. (PDF)](https://afef.asso.fr/wp-content/uploads/2018/06/VF-INTERACTIF-RECO-VHC-AFEF-v2103.pdf)
+- [AFEF, SPILF. Recommandations AFEF pour l'élimination de l'infection par le virus de l'hépatite C en France. Mars 2018. (PDF)](https://afef.asso.fr/wp-content/uploads/2023/06/VF-INTERACTIF-RECO-VHC-AFEF-v2103.pdf)
 - [Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/)
 
 {{%/sources%}}

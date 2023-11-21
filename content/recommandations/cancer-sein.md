@@ -295,7 +295,7 @@ Les mammographies sont remboursées à 100% (les examens supplémentaires ne le 
 - Institut Gustave Roussy (IGR)
   - Pas encore de diagnostic (fournir les examens): [en ligne](https://rdv.gustaveroussy.fr)   ou {{<phone>}}01 42 11 64 33{{</phone>}} (lun-ven 8:45-12:45 et 13:45-16:00)
   - Diagnostic posé mais pas encore suivie: {{<phone>}}01 42 11 64 33{{</phone>}} (oncologie)
-  - 2<sup>e</sup> avis médical: [fiche](https://www.gustaveroussy.fr/sites/default/files/gustaveroussy-2d-avis-sein-form-0323.docx) à renvoyer à <avis.sein@gustaveroussy.fr>
+  - 2<sup>e</sup> avis médical: [IGR](https://www.gustaveroussy.fr/fr/cancer-sein/contacts) à renvoyer à <avis.sein@gustaveroussy.fr>
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
@@ -396,6 +396,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 
 ### Bibliographie en attente
 
+- [Lavoué V et al. Recommandations pour la pratique clinique du CNGOF. Place de l'auto-examen des seins dans les stratégies de dépistage [Place of breast self-examination in screening strategies. French College of Gynecologists and Obstetricians (CNGOF) recommendations for clinical practice]. Gynecol Obstet Fertil Senol. 2023. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2023/RPC-Place%20de%20l'auto-examen%20des%20seins%20dans%20les%20strat%C3%A9gies%20de%20d%C3%A9pistage.pdf)
 - [Sessa C et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
 - [ESMO. Metastatic Breast Cancer Living Guidelines​](https://www.esmo.org/living-guidelines/esmo-metastatic-breast-cancer-living-guidelines)
 - [INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. Octobre 2021.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)

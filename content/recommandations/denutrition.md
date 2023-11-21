@@ -18,7 +18,7 @@ icd10 = "E46"
 image = false
 imageSrc = ""
 flowchart = true
-todo = "FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., https://www.sfncm.org/outils-education/outils/realises-par-la-sfncm"
+todo = "courbes enfants, FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., https://www.sfncm.org/outils-education/outils/realises-par-la-sfncm"
 +++
 
 {{%article-summary%}}
@@ -361,8 +361,8 @@ Critères de dénutrition *HAS* chez l'enfant. Diagnostic de dénutrition de l'e
   - Perte de poids ≥ 5% en 1 mois  
     ou ≥ 10% en 6 mois  
     ou ≥ 10% par rapport au poids habituel avant le début de la maladie
-  - IMC < courbe 18,5 kg/m² (courbes IMC IOTF [filles](https://cress-umr1153.fr/wp-content/uploads/2018/03/Courbes-IMC-filles-1-18-ans-AFPA-CRESS-Inserm-CGM-2018.pdf), [garçon](https://cress-umr1153.fr/wp-content/uploads/2018/03/Courbes-IMC-garcons-1-18-ans-AFPA-CRESS-Inserm-CGM-2018.pdf))
-  - Stagnation pondérale aboutissant à un décalage du poids 2 couloirs en dessous (courbes poids IOTF [filles](https://cress-umr1153.fr/wp-content/uploads/2018/03/Courbes-Taille-et-Poids-filles-1-18-ans-AFPA-CRESS-Inserm-CGM-2018.pdf), [garçon](https://cress-umr1153.fr/wp-content/uploads/2018/03/Courbes-Taille-et-Poids-garcons-1-18-ans-AFPA-CRESS-Inserm-CGM-2018.pdf))
+  - IMC < courbe 18,5 kg/m² ([courbes d'IMC IOTF](https://afpa.org/outil/courbes-de-croissance-filles-francaises/))
+  - Stagnation pondérale aboutissant à un décalage du poids 2 couloirs en dessous ([courbes poids IOTF](https://afpa.org/outil/courbes-de-croissance-filles-francaises/))
   - Réduction de la masse et/ou de la fonction musculaires
 - Critères étiologiques
   - Réduction de la prise alimentaire ≥ 50% pendant > 1 semaine  

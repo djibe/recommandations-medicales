@@ -246,7 +246,7 @@ graph TB
 - {{< references/afef-foie-non-invasif >}}
 - [Serfaty L. Diagnostic de la NASH. Conseil de pratique. SNFGE, AFEF. 2019. (PDF)](https://www.snfge.org/download/file/fid/4859)
 - [SNFGE. Stéatose hépatique non alcoolique (NAFLD/NASH).](https://www.snfge.org/content/steatose-hepatique-non-alcoolique-nafldnash)
-- [AFEF. Stéatose et stéato-hépatite](https://afef.asso.fr/la-maladie/maladies/steatose-et-steato-hepatite/)
+- [AFEF. Stéatose et stéato-hépatite](https://afef.asso.fr/steatose-et-la-steato-hepatite/)
 - [Ameli. Stéatose hépatique ou maladie du foie gras non alcoolique.](https://www.ameli.fr/assure/sante/themes/steatose-hepatique)
 
 ### Bibliographie en attente

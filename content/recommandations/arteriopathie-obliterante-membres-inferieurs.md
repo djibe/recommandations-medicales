@@ -27,8 +27,8 @@ todo = "SEO, centres réadapt vasculaire, QDV EQ-5D, association patient, https:
 - Dépister largement l'artériopathie par index de pression systolique (IPS): {{< modal-btn modal-depistage-prevalent >}}ciblé +55 ans{{< /modal-btn >}}, +65 ans, +50 ans avec antécédent familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, [anévrysme de l'aorte]({{< relref "anevrysme-aorte-abdominale.md" >}}), [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}
 - La présence d'une artériopathie des membres inférieurs définit un {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}
 - Bilan des autres localisations athéromateuses
-- Suivi par cardiologue et angiologue
-- Prise en charge de l'AOMI: {{< modal-btn modal-statine-intensite >}}statine{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, sevrage tabagique, clopidogrel, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
+- Suivi spécialisé de l'artériopathie par cardiologue et angiologue
+- Prise en charge de l'artériopathie des membres inférieurs (AOMI): {{< modal-btn modal-statine-intensite >}}statine{{< /modal-btn >}} pour LDL-cholestérol {{< modal-btn modal-rcv >}}< 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, sevrage tabagique, clopidogrel, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

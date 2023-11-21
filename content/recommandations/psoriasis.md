@@ -182,7 +182,7 @@ La prise en charge et les traitements du psoriasis réduisent l'intensité des l
 - Autres topiques: bains, émollients
 - Soutien psychologique, psychothérapie
 - Contrôle du risque cardiovasculaire
-- Information du patient: [Ameli](https://www.ameli.fr/assure/sante/themes/psoriasis) et [Dermato-Info](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-psoriasis)
+- Information du patient: [appli HappyReso](https://www.happyreso.fr), [Ameli](https://www.ameli.fr/assure/sante/themes/psoriasis) et [Dermato-Info](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-psoriasis)
 - [Centres d'éducation thérapeutique pour le psoriasis](https://www.sfdermato.org/page-29-centres-d-education-therapeutique) (ETP)
 - Associations de patients: [France Psoriasis](https://francepsoriasis.org), [AFPric](https://www.polyarthrite.org), [Aflar](https://www.aflar.org)
 
