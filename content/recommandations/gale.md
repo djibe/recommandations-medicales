@@ -144,7 +144,7 @@ Diagnostic différentiel d'un [prurit](/tags/prurit/) tenace ou d'une gale:
 
 La prise en charge de la gale est ambulatoire (sauf gale norvégienne).
 
-Traitement antiparasitaire anti-scabieux concomitant de toute la famille/entourage avec:
+Traitement antiparasitaire anti-scabieux concomitant de toute la famille et l'entourage avec:
 
 - Traitement curatif par perméthrine ou ivermectine (voir plus bas)
 - Éviction scolaire/professionnelle jusqu'à 3 jours après le traitement (*CMIT*)  
@@ -162,12 +162,13 @@ Le prurit nocturne doit disparaître sous 2 semaines mais le prurit peut persist
 
 ### Traitement anti-scabieux
 
-En première intention pour le traitement de la gale, on peut utiliser la [perméthrine crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61712553&typedoc=R) ou l'ivermectine orale (préférée par le *CMIT* si +15 kg).
+En première intention pour le traitement de la gale, on peut utiliser la [perméthrine crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61712553&typedoc=R) ou l'ivermectine orale (préférée par le *CMIT* au-delà de 15 kg).
 
 #### Perméthrine (Topiscab® 5% crème)
 
 Appliquer le tube entier sur toute la peau (sauf visage). Laisser agir **au moins 8 heures**. Puis douche à l'eau et au savon.  
-**Renouveler le traitement à J8**.  
+**Renouveler le traitement à J8**.
+
 **Contre-indications**: allergie au produit, enfant < 2 mois
 
 {{< table title="Posologie de la perméthrine selon l'âge pour le traitement de la gale" class="table-sm" >}}
@@ -183,10 +184,12 @@ Appliquer le tube entier sur toute la peau (sauf visage). Laisser agir **au moin
 
 #### Ivermectine 3 mg (Stromectol® ou gén)
 
-Traitement oral de la gale par [ivermectine en une prise de 200 µg/kg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67988035&typedoc=R) et **rappel à J8** (*EADV*).  
+Traitement oral de la gale par [ivermectine en une prise de 200 µg/kg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67988035&typedoc=R) et **rappel à J8** (*EADV*).
+
 Traitement de première intention de la gale selon le *CMIT*, à prendre au moins 2 heures avant ou après la prise de nourriture (*Prescrire*).
 
-**Contre-indications:** grossesse au premier trimestre, allaitement, poids < 15 kg, traitement par ivermectine durant le mois.  
+**Contre-indications:** privilégier la perméthrine pendant la grossesse, allaitement, poids < 15 kg, traitement par ivermectine durant le mois.
+
 [Selon Le CRAT](https://le-crat.fr/articleSearchSaisie.php?recherche=ivermectine): pas de souci pendant la grossesse.
 
 {{< table title="Posologie de l'ivermectine en fonction du poids pour le traitement de la gale" class="table-sm">}}

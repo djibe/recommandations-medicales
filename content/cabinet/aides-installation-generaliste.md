@@ -94,7 +94,7 @@ En cas de résiliation anticipée du contrat: le médecin restitue le montant au
   Zone particulièrement déficitaire, majoration par l'ARS: 60.000 € pour 4 jours, 45.000 pour 3 jours...
 3. Majoration de 2500€ en cas d'exercice libéral partagé dans un hôpital de proximité
 
-> *[Ameli CAIM (PDF)](https://www.ameli.fr/sites/default/files/Documents/497913/document/fiche_caim.pdf)* et [Contrat type (PDF)](https://www.iledefrance.paps.sante.fr/system/files/2020-01/Contrat%20type%20CAIM.pdf?rubrique=10010)
+> – *[Ameli CAIM (PDF)](https://www.ameli.fr/sites/default/files/Documents/497913/document/fiche_caim.pdf)* et [Contrat type (PDF)](https://www.iledefrance.paps.sante.fr/system/files/2020-01/Contrat%20type%20CAIM.pdf?rubrique=10010)
 
 ### COSCOM: Contrat de Stabilisation et de Coordination
 
@@ -116,7 +116,7 @@ Le médecin généraliste bénéficiaire s'engage à:
 
 Majoration possible par l'ARS à 6000 €/an + 1500 €/an + 360 €/an.
 
-> *[Ameli COSCOM](https://www.ameli.fr/content/fiche-demographie-contrat-de-stabilisation-et-de-coordination-des-medecins-coscom)*
+> – *[Ameli COSCOM](https://www.ameli.fr/content/fiche-demographie-contrat-de-stabilisation-et-de-coordination-des-medecins-coscom)*
 
 ### Autres aides proches mais non applicables
 
@@ -151,7 +151,7 @@ Faciliter l'installation des médecins généralistes en zone sous-dense (ZIP ou
 - Protection sociale plus étendue  
   Couverture maladie dès 8 jours d'arrêt (68€/j), maternité/paternité/adoption.
 
-> *[Ministère de la Santé. Contrat de début d'exercice (CDE). 22/03/2021](https://solidarites-sante.gouv.fr/professionnels/se-former-s-installer-exercer/contrat-de-debut-d-exercice-cde/CDE)*
+> – *[Ministère de la Santé. Contrat de début d'exercice (CDE). 22/03/2021](https://solidarites-sante.gouv.fr/professionnels/se-former-s-installer-exercer/contrat-de-debut-d-exercice-cde/CDE)*
 
 {{%/collapse%}}
 {{%collapse "Aides régionales" %}}
@@ -165,7 +165,7 @@ Faciliter l'installation des médecins généralistes en zone sous-dense (ZIP ou
 Financement de 50% des dépenses (max 15.000 €) des travaux d'installation et/ou acquisition de l'équipement (médical, informatique, sécurité).  
 Plafond de 30.000 € par cabinet.
 
-> *[Site du CRIF](https://www.iledefrance.fr/aide-linstallation-des-professionnels-de-sante-liberaux)*
+> – *[Site du CRIF](https://www.iledefrance.fr/aide-linstallation-des-professionnels-de-sante-liberaux)*
 
 #### Aides aux maisons de santé pluriprofessionnelles (MSP), centres de santé et cabinets de groupe
 

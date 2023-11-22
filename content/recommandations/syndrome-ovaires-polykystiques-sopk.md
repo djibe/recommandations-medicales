@@ -22,11 +22,11 @@ todo = "FSFI, PCOSQ, flow, pulse"
 
 {{%article-summary%}}
 
-- Le syndrome des ovaires polykystiques (SOPK) consiste en la présence de kystes ovariens multiples à l'origine d'une sécrétion d'androgènes donnant une hyperandrogénie clinique (acné, hirsutisme, alopécie) et se compliquant de troubles cardio-métaboliques (diabète, obésité, risque cardioavsculaire), psychologiques et d'une [infertilité]({{< relref "infertilite-couple.md" >}})
+- Le syndrome des ovaires polykystiques (SOPK) consiste en la présence de kystes ovariens multiples à l'origine d'une sécrétion d'androgènes donnant une hyperandrogénie clinique (acné, hirsutisme, alopécie) et se compliquant de troubles cardio-métaboliques (diabète, obésité, risque cardiovasculaire), psychologiques et d'une [infertilité]({{< relref "infertilite-couple.md" >}})
 - Le diagnostic du syndrome des ovaires polykystiques (SOPK) est défini par les critères d'Amsterdam: oligo-anovulation, hyperandrogénie clinique et/ou biologique et ovaires polykystiques en échographie
 - Rechercher un SOPK en cas de: cycles menstruels irréguliers, acné sévère ou hirsutisme
 - Bilan du syndrome des ovaires polykystiques: échographie pelvienne endovaginale et testostérone libre et totale ± hormone antimüllérienne, bilan supplémentaire si aménorrhée, HGPO 75g
-- La prise en charge du syndrome des ovaires polykystiques (SOPK) est cardio-métabolique (correction du risque cardioavsculaire, activité physique, correction d'un surpoids) et selon le profil clinique:
+- La prise en charge du syndrome des ovaires polykystiques (SOPK) est cardio-métabolique (correction du risque cardiovasculaire, activité physique, correction d'un surpoids) et selon le profil clinique:
   - Hirsutisme, cycles irréguliers: [contraception œstroprogestative]({{< relref "contraception.md" >}}) (COP)
   - Cycles > 90 jours: COP ou progestatif
   - [Hirsutisme]({{< relref "hirsutisme.md" >}}), [alopécie]({{< relref "alopecie.md" >}}): anti-androgènes spironolactone

@@ -335,13 +335,27 @@ Chirurgie le plus souvent. Parfois chimiothérapie adjuvante et thérapie ciblé
 - Terminer la préparation de H-5 à H-2 puis rester à jeun  
   Préparation possible le jour J en cas de coloscopie programmée l'après-midi.
 
-> *SFED 2019*, *ESGE 2019* et *HAS 2013*
+> – *SFED 2019*, *ESGE 2019* et *HAS 2013*
 
 ### Complications de la coloscopie
 
 Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 - 3/1000) et des perforations intestinales (0,5 - 1/1000). Décès 1/10.000 à 1/18.000.
 
 {{% /collapse %}}
+{{%collapse "Aide au dépistage adapté du cancer colorectal" "show" %}}
+
+{{< mermaid title="Choix du dépistage adapté pour le cancer colorectal. Dr JB Fron d'après TNCD 2023 et INCa 2020" >}}
+graph TB
+  moyen["<b>Risque moyen</b><br>—<br>50-74 ans asymptomatique<br>sans ATCD perso ou fam<br>d'adénome/CCR"] --> TIF("TIF tous<br>les 2 ans") -- "Positif: sous 30j" --> coloscopie("Gastro-entérologue<br>pour coloscopie") --> rythme("- Rythme selon niveau<br>de risque et anapath<br>- Prévention: RHD")
+  élevé["<b>Risque élevé</b><br>—<br>- ATCD perso CCR/adénome<br>- ATCD fam adénome/CCR<br>≥ 10 mm au<br>1er degré avant 65A<br>ou ≥ 2 au 1er degré<br>(tous les 5A dès 45<br>ou 10 ans avant l'index)<br>- MICI<br>- Acromégalie"] --> coloscopie
+  trèsElevé["<b>Risque très élevé</b><br>—<br>- PAF<br>- HNPCC"] -- "+ oncogénétique" --> coloscopie
+  symptomatique["<b>Suspicion de CCR</b><br>—<br>- Rectorragie<br>- Diarrhées-constipation<br>- Anémie ferriprive<br>occulte<br>- Douleurs abdominales<br>(+50 ans ++)<br>- Syndrome rectal<br>- Masse abdominale<br>- AEG"] --> coloscopie
+  style moyen stroke:#4150f5, stroke-width:1px
+  style élevé stroke:#4150f5, stroke-width:1px
+  style trèsElevé stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 {{< youtube id="PwEBt_rpET0" title="Dépistage du cancer du côlon en France. FIT ou coloscopie : comment choisir ? (TutoGastro SNFGE)" >}}

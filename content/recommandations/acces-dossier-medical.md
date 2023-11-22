@@ -50,7 +50,7 @@ L'accès au dossier médical d'un tiers n'est pas possible sauf dans les situati
 - Sujet mineur décédé  
   Son représentant légal (sauf si ce le mineur exerce son droit d'opposition).
 
-> *Service-public*
+> – *Service-public*
 
 **NB.** << Une fois que le tuteur a accès aux informations sur la santé de la personne protégée, celui-ci doit respecter le secret médical. Il lui est donc interdit de divulguer à des tiers toute information sur l'état de santé de la personne sous tutelle. >> (*Service-public*)
 

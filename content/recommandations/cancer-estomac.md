@@ -7,16 +7,17 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-16T20:52:00+02:00"
 publishdate = "2021-02-16"
-lastmod = "2023-10-30"
+lastmod = "2023-11-21"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2023"
 sources = ["SNFGE", "HAS"]
-tags = ["EOGD", "ferritine", "gastrite"]
+tags = ["cancer", "EOGD", "ferritine", "gastrite"]
 anglais = ["Cancer of stomach"]
 sctid = "363349007"
 icd10 = "C16.9"
 image = true
 imageSrc = "Coupe histopathologique comparative d'adénocarcinome gastrique. Green, John et al. CC BY 4.0, via Wikimedia Commons"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -24,7 +25,7 @@ imageSrc = "Coupe histopathologique comparative d'adénocarcinome gastrique. Gre
 - Le cancer de l'estomac atteint préférentiellement l'homme après 65 ans
 - Principaux facteurs de risque de cancer de l'estomac: [gastrite à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}}) (80%), tabac, alimentation salée/fumée, antécédent familial de cancer gastrique, syndrome de Lynch/HNPCC
 - Signes d'alarmes devant des symptômes digestifs hauts: dysphagie, amaigrissement, anémie
-- Dépistage du premier degré en cas de lésion cancéreuse de l'estomac: sérologie HP chez un sujet de moins de 45 ans, fibroscopie gastrique au-delà
+- Dépistage de l'entourage au premier degré en cas de lésion cancéreuse de l'estomac: sérologie *Helicobacter pylori* chez un sujet de moins de 45 ans, fibroscopie gastrique au-delà
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -109,7 +110,7 @@ Un cancer de l'estomac doit être évoqué et exploré devant:
 
 - [Dyspepsie]({{< relref "dyspepsie.md" >}}) après 40 ans
 - [Anémie réfractaire]({{< relref "anemie.md" >}})
-- [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}}) chez le ≥ 50 ans ou reflux atypique
+- [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}}) après 50 ans ou reflux atypique
 - Signes digestifs chroniques  
   - Épigastralgies, nausées/vomissements
   - Dysphagie progressive
@@ -160,13 +161,15 @@ En cas de symptômes évocateurs d'un cancer de l'estomac, adresser directement 
 
 Le bilan complémentaire comporte toujours un **scanner** thoraco-abdomino-pelvien avec injection.
 
-> Les marqueurs tumoraux ACE et CA19-9 ne sont pas utiles au diagnostic initial
+> Les marqueurs tumoraux ACE et CA 19-9 ne sont pas utiles au diagnostic initial
 {.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de l'estomac" %}}
 
-La prise en charge relève exclusivement du spécialiste après **réunion de concertation pluri-disciplinaire**.
+La prise en charge du cancer de l'estomac est spécialisée et pluridisciplinaire après **réunion de concertation pluri-disciplinaire**.
+
+### Dépistage de l'entourage
 
 Dépistage d'*Helicobacter pylori* systématique chez l'entourage au premier degré du patient:
 
@@ -176,6 +179,8 @@ Dépistage d'*Helicobacter pylori* systématique chez l'entourage au premier deg
 - Asymptomatique ≥ 45 ans: EOGD
 
 Le traitement du cancer gastrique décidé en RCP peut être: traitement endoscopique, gastrectomie (des 4/5e, totale), chimio(radio)thérapie.
+
+[Guide patients de l'INCa sur les traitements des cancers de l'estomac](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-l-estomac/Points-cles).
 
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}
@@ -210,11 +215,15 @@ Le traitement du cancer gastrique décidé en RCP peut être: traitement endosco
 - Fièvre prolongée, douleur des mollets
 
 {{% /collapse %}}
-{{%collapse "Information du patient" %}}
+{{%collapse "Prise en charge du cancer de l'estomac" "show" %}}
 
-[Guide patients de l'INCa sur les traitements des cancers de l'estomac](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-l-estomac/Points-cles).
+{{< mermaid title="Prise en charge du cancer de l'estomac par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après TNCD 2023 et INCa" >}}
+graph TB
+  suspicion["<b>Suspicion de cancer<br>de l'estomac</b><br>—<br>- Asymptomatique le + souvent<br>- Dyspepsie après 40 ans<br>- Anémie réfractaire<br>- Reflux après 50 ans<br>- Épigastralgies,<br>dysphagie<br>- AEG"] --> bilan("<b>Bilan</b><br>—<br>- NFS, albuminémie<br>- Bilan hépatique<br>- Iono, créatinine") -- Semi-urgence --> gastro("Gastro-entérologue<br>pour EOGD")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 
-{{% /collapse %}}
+{{%/collapse%}}
 {{%sources%}}
 
 - [Zaanan A et al. << Cancer de l'estomac >>. Thésaurus National de Cancérologie Digestive. Octobre 2023.](https://www.snfge.org/content/2-cancer-de-lestomac)

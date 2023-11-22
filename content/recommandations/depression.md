@@ -1,12 +1,12 @@
 +++
 title = "Dépression"
 prefix = "la "
-description = "Recommendations pour le diagnostic et la prise en charge de la dépression. Questionnaire PHQ-9 ou Hamilton, sévérité, psychothérapie et antidépresseur ISRS"
+description = "Recommandations pour le diagnostic et la prise en charge de la dépression. Questionnaire PHQ-9 ou Hamilton, sévérité, psychothérapie et antidépresseur ISRS"
 synonyms = ["Syndrome dépressif", "épisode dépressif caractérisé (EDC)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-14T20:15:23+02:00"
 publishdate = "2023-11-20"
-lastmod = "2023-11-20 "
+lastmod = "2023-11-22"
 specialites = ["psychiatrie"]
 annees = "2023"
 sources = ["ACP", "VA", "HAS"]
@@ -28,10 +28,11 @@ flowchart = true
 - En cas de diagnostic d'épisode dépressif caractérisé: évaluer la sévérité ({{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, Beck, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}), le risque suicidaire, les comorbidités (et dépister une {{< modal-btn modal-gad2 >}}anxiété{{< /modal-btn >}}), toxiques, le handicap.  
   Avec l'accord du patient, interroger l'entourage.
 - Bilan de la dépression: NFS, ionogramme, calcémie, bilan hépatique, glycémie, TSH, ± toxiques urinaires
-- La prise en charge de la dépression associe toujours: {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} ou thérapies cognitivo-comportementales (TCC) (voir [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}) pour le remboursement), activités physique et sociale, rythme de vie, information du patient (dont lignes d'écoute)
-- La dépression de l'enfant et la dépression récurrente ne sont pas encore traités
+- La prise en charge de la dépression associe toujours: {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} ou thérapies cognitivo-comportementales (TCC) (voir [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}) pour le remboursement), activités physiques et sociales, rythme de vie, information du patient (dont lignes d'écoute)
 - Traitement antidépresseur de la dépression: {{< modal-btn modal-isrs >}}inhibiteur sélectif de la recapture de la sérotonine{{< /modal-btn >}} (ISRS) ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}} en première intention, à envisager pour un EDC d'intensité modérée et systématique si sévère
 - Consultation psychiatrique en cas de diagnostic incertain, comorbidités psychiatriques, suspicion de maladie bipolaire ou psychose, dépression sévère ou résistante
+
+La dépression de l'enfant et la dépression récurrente seront traités ultérieurement.
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -77,7 +78,7 @@ IMAO
 : antidépresseur inhibiteur de la monoamine oxydase
 
 IRSNA
-: inhibiteurs de la recapture de la sérotonine et de la noradrénaline (ou IRSN)
+: inhibiteurs de la recapture de la sérotonine et de la noradrénaline (ou IRSN pour la *HAS*)
 
 ISRS
 : antidépresseur inhibiteur sélectif de la recapture de la sérotonine (ou IRS)
@@ -415,11 +416,11 @@ Envisager une hospitalisation immédiate ou au cours de l'évolution si:
 - Dépression sévère avec symptômes psychotiques ou somatiques sévères associés
 - Agitation anxieuse importante avec manque de contrôle
 - Sevrage de substance psychoactive
-- À chaque fois qu'une situation particulière l'exige (sévère du post-partum en unité mère-enfant ...)
+- À chaque fois qu'une situation particulière l'exige (ex. dépression sévère du post-partum)
 
 > – *HAS. Épisode dépressif caractérisé de l'adulte : prise en charge en soins de premier recours. 2017.*
 
-Si l'hospitalisation est refusée, évaluer une hospitalisation sous contrainte.
+Si l'hospitalisation est refusée par le patient, évaluer une hospitalisation sous contrainte.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -443,7 +444,7 @@ Bilan à la recherche de diagnostic différentiel:
 La prise en charge de la dépression nécessite des consultations dédiées. Pour le remboursement (rare) de la prise en charge de la psychothérapie, voir [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}).
 {.alert .alert-info}
 
-#### Recommendations pour la prise en charge de la dépression selon sa sévérité
+#### Recommandations pour la prise en charge de la dépression selon sa sévérité
 
 - Épisode dépressif caractérisé d'**intensité légère**: {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} ou thérapie cognitive et comportementale (TCC, suggérée par l'*ACP*), réévaluation à 4-8 semaines ({{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}} d'Hamilton{{< /modal-btn >}})
   - Rémission partielle: poursuite et réévaluation 4-8 semaines.  
@@ -499,7 +500,8 @@ Classes thérapeutiques d'antidépresseurs: {{< modal-btn modal-isrs >}}ISRS{{< 
 - Délai d'action plus long chez le sujet âgé (maintenir min 1 an après rémission)
 - Thérapies autres: acupuncture (*ACP*)
 - Si anxiété, agitation, insomnies invalidantes: benzodiazépine pendant 2 semaines
-- Arrêt progressif de l'antidépresseur (> 1 mois – *NICE 2009*) après décision partagée au-delà de 6-12 mois de rémission
+- Arrêt progressif de l'antidépresseur (> 1 mois – *NICE 2009*) après décision partagée au-delà de 6-12 mois de rémission  
+  Prolonger le traitement (2 ans) en cas de trouble dépressif récurrent.
 
 ### Autres traitements de la dépression
 

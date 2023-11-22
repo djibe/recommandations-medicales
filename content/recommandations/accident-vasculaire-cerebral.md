@@ -190,7 +190,7 @@ Liste des contre-indications à la thrombolyse par balancé bénéfice-risque d�
 - PAS > 185 mmHg ou PAD > 110 mmHg, ou traitement d'attaque IV nécessaire pour réduire la pression artérielle à ces valeurs seuils
 - Glycémie inférieure à 50 mg/dL ou supérieure à 400 mg/dL (< 2,8 mmol/l ou > 22,2 mmol/l)
 
-> *[BDPM](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67177673&typedoc=R#RcpContreindications)*
+> – *[BDPM](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67177673&typedoc=R#RcpContreindications)*
 
 {{% /collapse %}}
 {{%collapse "Traitement post AVC" %}}

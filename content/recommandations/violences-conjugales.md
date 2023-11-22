@@ -180,13 +180,13 @@ Pour le médecin généraliste.: Aborder les violences, évaluer, le certificat 
 #### memo-de-vie.org
 
 - Journal intime, espace de stockage pour éléments à charge (photos, dépositions, certificats).
-- Stockage sécurisé. [Lien vers memo-de-vie.org](https://memo-de-vie.org/)
+- Stockage sécurisé: [memo-de-vie.org](https://memo-de-vie.org)
 - Contacts utiles, chat anonyme, accompagnement par un professionnel de l'aide aux victimes.
+
+{{< youtube id="GNSBChaTGys" title="Webinaire Violences conjugales : en parler pour mieux les repérer (HAS)" >}}
 
 {{% /collapse %}}
 {{%sources%}}
-
-{{< youtube id="GNSBChaTGys" title="Webinaire Violences conjugales : en parler pour mieux les repérer (HAS)" >}}
 
 - [HAS. Outil d'aide au repérage des violences conjugales. 2022. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/outil_daide_au_reperage_des_violences_conjugales.pdf)
 - [Guiguet-Auclair C et al. Validation de la version française d'un outil de dépistage des violences conjugales faites aux femmes, le WAST (Woman Abuse Screening Tool). BEH. 2021.](http://beh.santepubliquefrance.fr/beh/2021/2/2021_2_2.html)
@@ -194,6 +194,7 @@ Pour le médecin généraliste.: Aborder les violences, évaluer, le certificat 
 
 ### Bibliographie en attente
 
+- [Gouvernement. Violences au sein du couple. Document d'aide au signalement pour les professionnels de santé. Novembre 2023. (PDF)](https://sante.gouv.fr/IMG/pdf/2023_07_18_doc_d_aide_au_signalement_des_ps_vf.pdf)
 - [HAS. Repérage des femmes victimes de violences au sein du couple. Recommandation de bonne pratique. 2020.](https://www.has-sante.fr/jcms/p_3104867/fr/reperage-des-femmes-victimes-de-violences-au-sein-du-couple)
 - [HAS. Violences : repérer, protéger, accompagner.](https://www.has-sante.fr/jcms/p_3116900/fr/violences-reperer-proteger-accompagner)
 
