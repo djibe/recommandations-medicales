@@ -505,9 +505,9 @@ Classes thérapeutiques d'antidépresseurs: {{< modal-btn modal-isrs >}}ISRS{{< 
 
 ### Autres traitements de la dépression
 
-D'autres traitements médicamenteux (IMAO, buspirone, kétamine, eskétamine) relèvent du psychiatre.
+Les autres traitements, médicamenteux (IMAO, buspirone, kétamine, eskétamine) ou non (électroconvulsivothérapie ECT, neurochirurgie) relèvent du psychiatre.
 
-> << Au total, dans l'indication de traitement de la dépression résistante chez l'adulte, malgré un profil de sécurité rassurant, les données retenues liées à la rTMS (stimulation électrique transcrânienne ou électroconvulsivothérapie ECT) ne montrent pas un impact clinique favorable >> – *HAS 2022*. L'Académie de médecine ne partage pas ce point de vue.
+> << Au total, dans l'indication de traitement de la dépression résistante chez l'adulte, malgré un profil de sécurité rassurant, les données retenues liées à la rTMS (stimulation électrique transcrânienne) ne montrent pas un impact clinique favorable >> – *HAS 2022*
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-22T19:42:41+02:00"
 publishdate = "2020-07-22"
-lastmod = "2023-06-23"
+lastmod = "2023-11-23"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["BSG", "Collège"]
@@ -18,6 +18,7 @@ icd10 = "K52.9"
 image = true
 imageSrc = "Illustration des diarrhées chroniques par brgfx / Freepik"
 todo = "SEO, SeHCAT, FODMAPs"
+flowchart = true
 +++
 
 {{%article-summary%}}

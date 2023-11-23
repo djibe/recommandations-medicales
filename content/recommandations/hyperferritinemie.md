@@ -137,7 +137,7 @@ Enquête devant la découverte d'une hyperferritinémie:
 - Antécédents familiaux  
   Hépatopathie, surcharge en fer, hémoglobinopathie, diabète, cataracte précoce.
 - Traitements en cours, automédication, apports en fer, transfusions
-- Consommation d'alcool (({{< modal-btn modal-audit >}}questionnaire AUDIT{{< /modal-btn >}}, {{< modal-btn modal-deta >}}questionnaire CAGE/DETA{{< /modal-btn >}}))
+- Consommation d'alcool (({{< modal-btn modal-auditc >}}questionnaire AUDIT-C{{< /modal-btn >}}, {{< modal-btn modal-deta >}}questionnaire CAGE/DETA{{< /modal-btn >}}))
 - Symptômes
   - Fatigue
   - Douleurs abdominales
@@ -262,7 +262,7 @@ accTitle: Prise en charge diagnostique d'une hyperferritinémie d'après SNFGE 2
 {{< clinique/syndrome-metabolique >}}
 
 {{% /modal %}}
-{{% modal title="Questionnaire AUDIT-C" id="modal-audit"%}}
+{{% modal title="Questionnaire AUDIT-C" id="modal-auditc"%}}
 
 {{< scores/audit-c >}}
 

@@ -7,7 +7,7 @@ synonyms = ["Hépatocarcinome", "cancer primitif du foie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-30T19:19:57+01:00"
 publishdate = "2023-10-31"
-lastmod = "2023-10-31"
+lastmod = "2023-11-23"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2023"
 sources = ["SNFGE", "AFEF", "EASL", "HAS", "INCa"]
@@ -17,13 +17,14 @@ sctid = "109841003"
 icd10 = "C22.0"
 image = true
 imageSrc = "Douleurs de l'hypocondre droit et ictère chez un homme de 80 ans. Large masse hépatique du lobe droit et plus petites avec prise de contraste précoce faisant découvrir un carcinome hépatocellulaire (CHC). Cas de Mohammadtaghi Niknejad, Radiopaedia.org, rID: 21793"
-todo = "flow, AASLD"
+todo = "adresser CLCC ?, AASLD"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Le carcinome hépatocellulaire (CHC) survient le plus souvent sur foie cirrhotique (alcool, hépatite C ou B, NASH)
-- Bilan en cas de découverte de nodule hépatique: bilan biologique hépatique, sérologies des hépatites, syndrome métabolique, échographie et scanner abdominal avec injection
+- Le carcinome hépatocellulaire (CHC) survient le plus souvent sur foie cirrhotique ([alcool]({{< relref "sevrage-alcool.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}) ou [B]({{< relref "hepatite-b.md" >}}), [NASH]({{< relref "steatose-hepatique-et-nash.md" >}}))
+- Bilan en cas de découverte de nodule hépatique: bilan biologique hépatique, sérologies des hépatites, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, échographie et scanner/IRM abdominal avec injection
 - Avis spécialisé du gastro-entérologue rapide systématique avec le bilan
 - Le diagnostic peut être radiologique en cas de cirrhose et de lésion typique, sinon le diagnostic de carcinome hépatocellulaire reste anatomopathologique sur la biopsie hépatique
 - Dépistage du carcinome hépatocellulaire (CHC) en cas de cirrhose: échographie abdominale tous les 6 mois sans dosage de l'alpha-fœtoprotéine (AFP)
@@ -33,7 +34,7 @@ todo = "flow, AASLD"
 
 Carcinome hépatocellulaire (CHC)
 : Tumeur primitive du foie la plus fréquente (10.580 cas en 2018, en augmentation) à prédominance masculine (80%) par dégénérescence hépatocytaire. Le CHC survient le plus souvent sur une **cirrhose** (80%) et plus rarement sur une hépatopathie chronique non cirrhotique ([stéatopathie métabolique NASH]({{< relref "steatose-hepatique-et-nash.md" >}}) ...), exceptionnellement sur foie sain.
-: Les facteurs de risque majeurs en France sont l'**alcool**, puis les [hépatites C]({{< relref "hepatite-c.md" >}}) et [B]({{< relref "hepatite-c.md" >}}) et la NASH.
+: Les facteurs de risque majeurs de carcinome hépatocellulaire en France sont l'**[alcool]({{< relref "sevrage-alcool.md" >}})**, puis les [hépatites C]({{< relref "hepatite-c.md" >}}) et [B]({{< relref "hepatite-c.md" >}}) et la [NASH]({{< relref "steatose-hepatique-et-nash.md" >}}).
 
 ### Abréviations
 
@@ -48,6 +49,9 @@ CDU-HGE
 
 CHC
 : carcinome hépatocellulaire
+
+CLCC
+: Centre de Lutte contre le Cancer
 
 EASL
 : {{%lang%}}European Association for the Study of the Liver{{%/lang%}}
@@ -89,9 +93,10 @@ Le CHC reste longtemps asymptomatique causant souvent un diagnostic tardif.
 
 - Antécédents  
   Maladie chronique du foie connue, [cancer](/tags/cancer/), insuffisance d'organe, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}} ([hypertension]({{< relref "hypertension-arterielle.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}), dyslipidémie).
-- **Facteurs de risque d'hépatopathie**: [hépatite virale](/tags/hepatite/), transfusion, tatouage, drogues IV, alcool, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, [diabète](/tags/diabete/)
+- **Facteurs de risque d'hépatopathie**: [hépatite virale](/tags/hepatite/), transfusion, tatouage, drogues IV, [alcool]({{< relref "sevrage-alcool.md" >}}), {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, [diabète](/tags/diabete/)
 - Traitements en cours
-- Alcool, tabac
+- Tabac
+- **Rechercher un mésusage de l'alcool**: {{< modal-btn modal-auditc >}}questionnaire AUDIT-C{{< /modal-btn >}}
 - Symptômes: AEG, douleurs de l'hypochondre droit
 
 ### Examen clinique
@@ -166,14 +171,14 @@ Encourager la consommation de café en cas d'hépatopathie (*EASL 2018*).
 {{% /collapse %}}
 {{%collapse "Traitement du carcinome hépatocellulaire" %}}
 
-La prise en charge du carcinome hépatocellulaire (CHC) est spécialisée après RCP.
+La prise en charge du carcinome hépatocellulaire (CHC) est spécialisée après RCP. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
 
 Mesures associées à la prise en charge des cancers:
 
 - Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
 - [Guide information HAS sur le CHC (PDF)](https://www.e-cancer.fr/content/download/85014/866989/file/GP_Cancer_Foie.pdf), [guide AFEF](https://afef.asso.fr/cancer-du-foie-chc) et [guide INCa sur les traitements](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-traitements-du-cancer-du-foie)
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
-- [Sevrage de l'alcool]({{< relref "sevrage-alcool.md" >}}
+- [Sevrage de l'alcool]({{< relref "sevrage-alcool.md" >}})
 - Suivi nutritionnel
 - Soutien psychologique voire psychothérapie
 - Association de patients: [Ligue contre le cancer](https://www.ligue-cancer.net), [roseup](https://www.rose-up.fr)
@@ -185,6 +190,18 @@ Après traitement du cancer, le suivi est trimestriel pendant 2 ans puis semestr
 Le traitement du carcinome hépatique (CHC) est décidé en réunion de concertation pluridisciplinaire (**RCP**) spécialisée et peut être: ablation percutanée, chirurgicale, transplantation hépatique, chimio-embolisation artérielle, anti-angiogénique, immunothérapie ou abstention thérapeutique.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du carcinome hépatocellulaire" "show" %}}
+
+{{< mermaid title="Prise en charge du carcinome hépatocellulaire (CHC) par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après SNFGE, AFEF, EASL et HAS" >}}
+graph TB
+  cirrhose["Cirrhose Child A/B<br>ou C en attente greffe"] -- Semestriel --> échographie(Échographie abdominale) -. Anomalie .-> bilan(<b>Bilan de nodule hépatique</b><br>—<br>- Sd métabolique<br>- Biologie standard<br>- Bilan hépatique<br>- TP, albumine<br>- Sérologies hépatites<br>- Ferritine<br>- Scanner/IRM AP injectée) -- Avis rapide --> gastro(Gastro-entérologue)
+  autre["Bilan d'alcool,<br>VHC, VHB, NASH"] --> échographie
+  autre --> dépistage("Recherche non invasive<br>de fibrose hépatique") -. Pathologique .-> cirrhose
+  style cirrhose stroke:#4150f5, stroke-width:1px
+  style autre stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [Blanc JF et al; AFEF. Carcinome hépatocellulaire (cancer primitif du foie). Thésaurus National de Cancérologie Digestive (TNCD). septembre 2023.](https://www.snfge.org/content/7-carcinome-hepatocellulaire-cancer-primitif-du-foie)
@@ -208,5 +225,10 @@ Le traitement du carcinome hépatique (CHC) est décidé en réunion de concerta
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire AUDIT-C" id="modal-auditc"%}}
+
+{{< scores/audit-c >}}
 
 {{% /modal %}}

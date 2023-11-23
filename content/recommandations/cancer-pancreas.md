@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-16T15:41:56+01:00"
 publishdate = "2022-01-07"
-lastmod = "2022-12-20"
+lastmod = "2023-11-23"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
 sources = ["INCa", "SNFGE"]
@@ -17,16 +17,16 @@ sctid = "363418001"
 icd10 = "C25.9"
 image = true
 imageSrc = "Invasion du deuxième segment duodénal par une masse pancréatique au scanner. Cas d'Ahmed Abdrabou, Radiopaedia.org, rID: 35723"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
 - Consultation d'oncogénétique et dépistage du cancer du pancréas si au moins 2 apparentés atteints d'adénocarcinome du pancréas dont au moins 1 au premier degré  
   ou certaines mutations génétiques (voir *Dépistage*)
-- Suspecter un cancer du pancréas devant les symptômes suivants: ictère, douleurs abdominales transfixiantes, diabète récent ou décompensé
+- Suspecter un cancer du pancréas devant les symptômes suivants: ictère, douleurs abdominales, AEG
 - Bilan avec scanner thoraco-abdomino-pelvien avec injection en semi-urgence dès la suspicion
-- Le marqueur tumoral CA 19-9 n'a aucun intérêt pour le dépistage ou le diagnostic du cancer du pancréas
-- La prise en charge du cancer du pancréas est semi-urgente
+- La prise en charge du cancer du pancréas est une semi-urgence
 - Pour toute la population: prévention du cancer du pancréas par correction des facteurs de risque ([tabagisme]({{< relref "arret-tabac.md" >}}), [obésité]({{< relref "obesite-adulte.md" >}}) et [diabète]({{< relref "diabete-type-2.md" >}}))
 
 {{%/article-summary%}}
@@ -67,6 +67,9 @@ AP (*SNFGE*, ou ADCP pour l'*INCa*)
 CaPaFa
 : cancers pancréatiques familiaux
 
+CLCC
+: Centre de Lutte contre le Cancer
+
 Premier degré
 : parents, fratrie, enfants.
 
@@ -83,14 +86,20 @@ TVP
 {{% /collapse %}}
 {{%collapse "Dépistage du cancer du pancréas" %}}
 
-Pour toute la population: correction de tabagisme, obésité et diabète.
+Le marqueur tumoral CA 19-9 n'a aucun intérêt pour le dépistage de l'adénocarcinome du pancréas
+{.alert .alert-info}
+
+Pour toute la population: correction de [tabagisme]({{< relref "arret-tabac.md" >}}), [obésité]({{< relref "obesite-adulte.md" >}}) et [diabète]({{< relref "diabete-type-2.md" >}}).
 
 ### Chez qui dépister le cancer du pancréas ?
 
 Adresser en consultation d'oncogénétique devant une suspicion de cancers familiaux
 {.alert .alert-info}
 
+Le dépistage du cancer du pancréas est réalisé par échoendoscopie couplée à l'IRM abdominale:
+
 - Pancréatite chronique
+  - diagnostic précoce: survenue ou résurgence de douleurs pancréatiques chroniques, pancréatite aiguë, amaigrissement > 10%, majoration de l'insuffisance exocrine, cholestase d'apparition récente ou ictère
   - génétique (mutation PRSS1)
   - idiopathique ou génétique (SPINK1, CTRC ou CFTR) avec imagerie pancréatique anormale
 - Contexte de cancers pancréatiques familiaux (CaPaFa)
@@ -98,8 +107,11 @@ Adresser en consultation d'oncogénétique devant une suspicion de cancers famil
   - Patient avec syndrome de Peutz-Jeghers
   - Porteur de mutation BRCA2 ou PALB2 avec antécédent d'AP au 1<sup>er</sup> degré ou ≥ 2 AP de tout degré
   - Porteur de mutation DKN2A/p16INK4 ou syndrome de Lynch avec ≥ 1 AP au 1<sup>er</sup> degré
+- Sujet diabétique (diagnostic précoce par scanner ou IRM)
+  - Diabète récent (< 12 mois) après 50 ans sans antécédent familial de diabète ni surpoids OU amaigrissement > 10%
+  - Pancréatite chronique et apparition ou décompensation de diabète
 
-Le dépistage débute à 40 ans en cas de pancréatite héréditaire et 50 ans (ou 10 ans avant le cas index) dans les CaPaFa.
+Le dépistage débute à 40 ans en cas de pancréatite héréditaire et 50 ans (ou 10 ans avant le cas index) dans les cancers pancréatiques familiaux.
 
 > *INCa 2019*
 
@@ -114,8 +126,7 @@ Dépister les personnes avec risque cumulé d'adénocarcinome du pancréas supé
 
 </details>
 
-Dépistage uniquement si l'état de santé permettrait une chirurgie après avis d'un **centre expert**.  
-Le dépistage du cancer du pancréas est réalisé par échoendoscopie couplée à l'IRM.
+Dépistage uniquement si l'état de santé permettrait une chirurgie après avis d'un **centre expert**.
 
 ### Quand rechercher un cancer du pancréas en cas de diabète ?
 
@@ -186,29 +197,31 @@ Signes évocateurs de cancer du pancréas, surtout après 50 ans (signes en **gr
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Le marqueur tumoral CA 19-9 n'a aucun intérêt pour le dépistage et le diagnostic de l'adénocarcinome du pancréas (AP)
-{.alert .alert-info}
-
 ### Bilan biologique
+
+Bilan biologique initial en cas de suspicion de cancer du pancréas:
 
 - NFS
 - Ionogramme sanguin
 - Créatininémie
 - Glycémie à jeun
-- ASAT, ALAT, GGT, PAL
+- Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine totale
 - Albuminémie
+- Indications au dosage du marqueur tumoral CA-19:  
+  Masse pancréatique évocatrice de cancer, pancréatite chronique avec masse suspecte.
 
 ### Scanner abdomino-pelvien avec injection
 
-La TDM abdomino-pelvienne est l'examen de référence en semi-urgence den suspicion d'adénocarcinome du pancréas (protocole d'acquisition spécifique). Complétée par scanner thoracique en cas de lésions anormales.  
-Si le diagnostic est évoqué sur l'imagerie, la RCP doit avoir lieu dans les 4 semaines.
+Le scanner abdomino-pelvien est l'examen de référence en semi-urgence en cas de suspicion d'adénocarcinome du pancréas (protocole d'acquisition spécifique). Compléter par un scanner thoracique en cas de lésions anormales.
+
+Si le diagnostic est évoqué sur l'imagerie, la RCP doit avoir lieu **dans les 4 semaines**.
 
 L'IRM a une performance diagnostique équivalente (et plus chère).
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Adresser en semi-urgence à l'équipe hospitalière de gastro-entérologie pour la suite de la prise en charge du cancer du pancréas.
+Adresser en semi-urgence à l'équipe hospitalière de gastro-entérologie pour la suite de la prise en charge du cancer du pancréas. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
 
 10-20% des patients peuvent bénéficier d'une chirurgie d'exérèse à visée curative.  
 [Guide d'information patient SFCD/FCVD pancréatectomie (PDF)](https://www.fcvd.fr/wp-content/uploads/2022/01/FICHE-D_INFORMATION-PATIENT-PANCREATECTOMIE.pdf)
@@ -221,6 +234,17 @@ Soins associés: ALD, traitement de douleur, prise en charge de la dépression e
 Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr/).
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du cancer du pancréas" "show" %}}
+
+{{< mermaid title="Prise en charge du cancer du pancréas par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après INCa 2020 et 2019" >}}
+graph TB
+  suspicion["<b>Suspicion de<br>cancer du pancréas</b><br>—<br>Après 50 ans surtout:<br>- Douleurs abdominales<br>- AEG<br>- Ictère"] --> bilan("<b>Bilan semi-urgent</b><br>—<br>- NFS ...<br>- Bilan hépatique<br>- Albuminémie<br>- Glycémie<br>- Scanner AP<br>avec injection") -- Anormal --> spécialiste("- Gastro-entérologue de CLCC<br>sous 4 semaines<br>- Scanner thoracique<br>- Dosage CA 19-9") -.-> familial("Dépistage familial<br>si ≥ 2 AP au 1er degré<br>ou 3 AP au 2e degré")
+  bilan -- Normal --> prévention("- Explorer une<br>autre cause<br>- Prévention de l'AP:<br>Arrêt tabac,<br>correction surpoids,<br>activité physique") -.-> familial
+  risque("<b>Situations à risque<br>de cancer du pancréas</b><br>—<br>- Diabète récent (&lt; 1 an)<br>après 50 ans sans<br>surpoids ni ATCD fam<br>ou amaigrissement &gt; 10%<br>- Pancréatite chronique<br>(voir <em>Dépistage</em>)") --> bilan
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - {{< references/college-gastro >}}

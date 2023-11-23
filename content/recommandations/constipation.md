@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-08-28T10:44:20+02:00"
 publishdate = "2023-09-15"
-lastmod = "2023-09-15"
+lastmod = "2023-11-23"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2018"
 sources = ["SNFGE", "SNFCP"]
@@ -17,6 +17,7 @@ icd10 = "K59.0"
 image = true
 imageSrc = "Illustration de la constipation par storyset / Freepik"
 todo = "nourrisson, Rome IV"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -82,7 +83,7 @@ SNFGE
   - Douleurs abdominales
   - [Fissure anale]({{< relref "fissure-anale.md" >}}), [incontinence fécale]({{< relref "incontinence-fecale.md" >}}) ou [hémorroïdaires]({{< relref "hemorroides.md" >}})
   - Incontinence urinaire ([chapitre de l'IU de la femme]({{< relref "incontinence-urinaire-femme.md" >}}))
-- Signes d'alarmes (drapeaux rouges)  
+- **Signes d'alarmes** (drapeaux rouges)  
   AEG, rectorragies, méléna, constipation sévère persistante et résistante sans cause évidente, syndrome rectal (épreinte, ténesme, faux besoins), masse abdominale ou rectale.
 
 ### Examen clinique
@@ -106,7 +107,7 @@ Le bilan vise à éliminer une cause métabolique et une [anémie]({{< relref "a
 - ± [TSH](/tags/tsh/)
 - ± Créatininémie, ionogramme sanguin
 - ± Calcémie
-- ± ferritine (NDLR)
+- ± Ferritine (NDLR)
 
 Recherche de [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) selon le tableau clinique.
 
@@ -161,6 +162,16 @@ Les laxatifs par voie rectale (lavements et suppositoires) sont recommandés en 
 - Laxatif prokinétique (non remboursés): pyridostigmine, prucalopride ([Resolor®](https://ec.europa.eu/health/documents/community-register/2022/20221216158010/anx_158010_fr.pdf))
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la constipation" "show" %}}
+
+{{< mermaid title="Prise en charge de la constipation par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après SNFGE 2018 et SNFCP 2017" >}}
+graph TB
+  constipation["<b>Constipation</b><br>—<br>Depuis ≥ 6 mois, ≥ 2 parmi:<br>- &lt; 3 selles/semaine<br>- Selles dures<br>- Efforts de poussée<br>- Évacuation incomplète<br>- Blocage ano-rectal<br>- Manœuvres d'exonération"] --> examen("<b>Clinique</b><br>—<br>- ATCD perso/fam<br>- Transit<br>- Échelle Bristol<br>- Autres symptômes") --> bilan("<b>Bilan</b><br>—<br>- NFS, CRP<br>- Glycémie à jeun<br>- Autres selon clinique") --> alarme("<b>Signe d'alarme ?</b><br>—<br>≥ 1 parmi:<br>- Anémie<br>- Haute risque CCR<br>- AEG<br>- Rectorragies après 50 ans<br>- Constipation résistante<br>- Masse abdominale") -- Oui --> coloscopie("Gastro-entérologue<br>pour coloscopie") -- Normale --> traitement("<b>Traitement</b><br>—<br>- RHD: adaptation ttt,<br>fibres 25 g/j,<br>apports hydriques ...<br>- Laxatifs macrogol<br>et/ou ispaghul<br>- Évacuation: suppositoire") -. Échec .-> deuxième("<b>Deuxième ligne</b><br>—<br>- Évacuation: rééducation<br>- Laxatifs lubrifiant,<br>stimulant, prokinétique") -. Échec .-> Gastro-entérologue
+  alarme -- Non --> traitement
+  style constipation stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - {{< references/college-gastro >}}

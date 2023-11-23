@@ -14,7 +14,6 @@ title = "RecoMédicales"
   specialite = "specialites"
   tag = "tags"
   annee = "annees"
-  score = "scores"
 
 [params]
   author = "Jean-Baptiste FRON"

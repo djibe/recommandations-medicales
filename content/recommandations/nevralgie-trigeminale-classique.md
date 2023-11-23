@@ -51,7 +51,7 @@ Nerf trijumeau
 - Atteint préférentiellement les femmes: 2/3
 - 1/3 des patients n'ont pas de récidives
 
-La névralgie trigéminale classique est souvent associée à une [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}.
+La névralgie trigéminale classique est souvent associée à une [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}).
 
 ### Abréviations
 
