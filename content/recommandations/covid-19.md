@@ -8,8 +8,8 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2023-09-17"
-specialites = ["infectiologie"]
+lastmod = "2023-11-24"
+specialites = ["infectiologie", "pneumologie"]
 annees = "2023"
 sources = ["HAS", "HCSP", "MinSanté"]
 tags = ["vaccin"]
@@ -18,8 +18,8 @@ sctid = "840539006"
 icd10 = "U07.1"
 image = true
 imageSrc = "La Covid-19 par stories / Freepik"
-flowchart = true
 todo = "https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1246, https://ansm.sante.fr/actualites/troubles-menstruels-apres-la-vaccination-contre-le-covid-19-etat-des-connaissances-et-conseils-aux-femmes-concernees"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -30,10 +30,10 @@ Page servant uniquement à stocker quelques mémos
 - Maladie à déclaration obligatoire par le biologiste
 - [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire)
 - Vaccination de toutes les femmes enceintes quel que soit le terme (*CNGOF*)
-- Rappel à partir du 2 octobre 2023 ([MinSanté](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/la-campagne-de-vaccination-contre-le-covid-19-avancee-de-15-jours-commencera-le)) si +65 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave (chimio, dialyse, voir *Personnes à risque*, *DGS 2023-07*)
+- Rappel à partir du 2 octobre 2023 ([MinSanté](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/la-campagne-de-vaccination-contre-le-covid-19-avancee-de-15-jours-commencera-le)) si +65 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave (chimio, dialyse, voir *Personnes à risque*, *DGS 2023-07*) et 2e rappel au printemps si +80 ans fragile (*HAS 2023*)
 - Passe vaccinal frauduleux désirant se faire vacciner, orienter vers un centre de vaccination (*[CNOM 23/02](https://www.conseil-national.medecin.fr/publications/actualites/rectification-vaccinal-frauduleux)*)
 
-<< Important de bien comprendre cela car pas du tout évident à priori. L'immunité naturelle, celle que l'on acquiert après une infection procure en générale une bonne protection. Ce n'est pas le cas avec le Sars-Cov2, non seulement l'immunité naturelle ne semble pas très efficace mais le virus éroderait notre système immunitaire. De plus, les réinfections augmenteraient le risque de séquelles à long terme. >> (*Rémi Salomon 16/07/2022*)
+<< Important de bien comprendre cela car pas du tout évident à priori. L'immunité naturelle, celle que l'on acquiert après une infection procure en générale une bonne protection. Ce n'est pas le cas avec le Sars-Cov2, non seulement l'immunité naturelle ne semble pas très efficace mais le virus éroderait notre système immunitaire. De plus, les réinfections augmenteraient le risque de séquelles à long terme. >> – *Pr Rémi Salomon 16/07/2022*
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -189,6 +189,18 @@ Atteintes possibles après une infection à Sars-Cov-2.
 {{< youtube id="Aj3reT1GI_8" title="Technique de prélèvement nasal" >}}
 
 {{%/collapse%}}
+{{%collapse "Prise en charge par Paxlovid" "show" %}}
+
+{{< mermaid title="Prise en charge par Paxlovid par le médecin généraliste. Dr Alaedine Benani d'après HAS 2023 et DGS-Urgent" >}}
+graph TB
+  covid["<b>Covid symptomatique<br>depuis ≤ 5 jours</b><br>—<br>Âge ?"] -- "&lt; 18" --> mineur("Paxlovid non testé<br>chez les mineurs")
+  covid -- "≥ 18" --> gravité("Risque de forme grave ?") -- Oui --> test("Test antigénique ou<br>PCR positif") --> contre-indication("Contre-indication au Paxlovid ?") -- Oui --> hôpital("Hospitalisation pour<br>administration d'Evusheld")
+    gravité -- Non --> absence(Pas de traitement)
+      contre-indication -- Non --> paxlovid(Prescription de Paxlovid)
+  style covid stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 ### Haut Conseil de la Santé Publique
@@ -199,10 +211,10 @@ Atteintes possibles après une infection à Sars-Cov-2.
 
 ### Autres
 
-- [HAS. Stratégie vaccinale de rappel contre la Covid-19. 20/09/2022.](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/recommandation_strategie_vaccinale_de_rappel_contre_le_covid-19_2022-09-20_13-59-33_801.pdf)
+- [HAS. Stratégie de vaccination contre la Covid-19 : anticipation des campagnes de vaccination en 2023. 24/02/2023.](https://www.has-sante.fr/jcms/p_3417245/fr/strategie-de-vaccination-contre-la-covid-19-anticipation-des-campagnes-de-vaccination-en-2023)
 - [DGS-Urgent](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Covid-19 : une dose de rappel vaccinal additionnelle ouverte à davantage de personnes et des délais précisés. 13/07/2022.](https://www.has-sante.fr/jcms/p_3352553/fr/covid-19-une-dose-de-rappel-vaccinal-additionnelle-ouverte-a-davantage-de-personnes-et-des-delais-precises)
-- [HAS. Réponse rapide dans le cadre du COVID-19 Traitement par antiviral des patients à risque de forme grave de la Covid-19. Janvier 2022.](https://www.has-sante.fr/upload/docs/application/pdf/2022-01/reco458_fiche_rr_paxlovid_mel.pdf)
+- [HAS. Réponse rapide dans le cadre du COVID-19 Traitement par antiviral des patients à risque de forme grave de la Covid-19. Mai 2022.](https://www.has-sante.fr/upload/docs/application/pdf/2022-01/reco458_fiche_rr_paxlovid_mel.pdf)
 - [CNGOF. Vaccin anti SARS-CoV-2 et grossesse 3e injection ? Avis du 17 novembre 2021. (PDF)](http://www.cngof.net/Publications-CNGOF/Pratique-clinique/COVID-19/CNGOF-GRIG-171021-3e%20dose%20vaccin%20anti%20SARS-COV2%20femmes%20enceintes.pdf)
 - [HAS. Stratégie de vaccination contre le Sars-Cov-2. 01/03/2021.](https://www.has-sante.fr/upload/docs/application/pdf/2021-03/actualisation_des_facteurs_de_risque_de_formes_graves_de_la_covid-19_et_des_reco_sur_la_strategie_de_priorisation_des_popula.pdf)
 - [Journal Officiel. Arrêté du 24 juillet 2020 modifiant l'arrêté du 10 juillet 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans les territoires sortis de l'état d'urgence sanitaire et dans ceux où il a été prorogé. 25/07/2020.](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000042148309&categorieLien=id)

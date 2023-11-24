@@ -157,14 +157,14 @@ Cotations NGAP disponibles en sus de la consultation ou de la visite.
 
 > \* Médecin traitant uniquement ; MIS et PIV sont anonymisés en MTX sur une feuille de soins
 
-### Les actes importants pour le médecin généraliste
+### Les actes importants pour le médecin généraliste {.mt-5}
 
 Actes CCAM importants non cumulables ou cumulables avec une consultation (3 au total: ECG, frottis cervico-vaginal et biopsie cutanée).
 
 {{< table title="Actes importants pour le médecin généraliste. Majoration M possible si urgence pour les actes mentionnés" >}}
 | Code CCAM   | Description                                                               | Tarif&nbsp;(€) |
 |-------------|---------------------------------------------------------------------------|----------:|
-| + DEQP003   | ECG 12D                                                                   |     14,26 |
+| + DEQP003   | ECG 12 dérivations                                                        |     14,26 |
 | + JKHD001   | Frottis cervico-vaginal                                                   |     12,46 |
 | ALQP003     | Test standardisé d'évaluation d'une dépression (max 1/an)                 |     69,12 |
 | ALQP006     | Test standardisé d'évaluation d'un déficit cognitif (max 1/an)            |     69,12 |

@@ -6,7 +6,7 @@ synonyms = ["Sinus pilonidal"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-16T22:24:08+02:00"
 publishdate = "2022-10-20"
-lastmod = "2022-10-20"
+lastmod = "2023-11-24"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["ASCRS", "SNFGE", "SNFCP"]
@@ -16,15 +16,16 @@ sctid = "47639008"
 icd10 = "L05.9"
 image = true
 imageSrc = "Kyste pilonidal abcédé. Jonathanlund, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "rankok, https://doi.org/10.1136/bmj-2022-071511"
+todo = "rankok"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
 - Abstention thérapeutique devant un kyste pilonidal asymptomatique
-- En cas d'abcès (sinus pilonidal infecté): prise en charge du kyste pilonidal avec chirurgie en urgence et incision
-- Kyste pilonidal chronique invalidant: chirurgie programmée de cicatrisation dirigée
-- Correction d'un surpoids + rasage/épilation local pour limiter les récidives
+- En cas d'abcès du kyste (sinus pilonidal infecté): prise en charge du kyste pilonidal avec chirurgie en urgence et incision
+- Traitement d'un kyste pilonidal chronique invalidant: chirurgie programmée de cicatrisation dirigée
+- Mesures générales de prise en charge: correction d'un surpoids et rasage local ou épilation pour limiter les récidives
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -78,7 +79,7 @@ Des examens systématiques ne sont pas nécessaires devant un tableau typique.
 Diagnostics à évoquer devant une lésion évocatrice de sinus pilonidal:
 
 - Suppurations indépendantes de l'anus  
-  Maladie de Verneuil, kyste épidermique. L'association reste possible.
+  [Maladie de Verneuil]({{< relref "maladie-verneuil.md" >}}), kyste épidermique. L'association reste possible.
 - Maladie de Crohn
 - Fistule anale
 - Anomalies congénitales
@@ -116,11 +117,26 @@ Une nouvelle technique est possible au laser (SiLaT).
 Débuter un rasage local hebdomadaire après cicatrisation permet de réduire les récidives. Voire réaliser une épilation laser locale ou un application de phénol ou de colle à base de fibrine (*ASCRS 2019*).
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du kyste pilonidal" "show" %}}
+
+{{< mermaid title="Prise en charge du kyste pilonidal par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après ASCRS 2019, SNFGE et SNFCP" >}}
+graph TB
+  kyste["<b>Kyste pilonidal</b>"] --> asymptomatique("Abstention thérapeutique<br>et surveillance") --> RHD("<b>Mesures générales</b><br>—<br>- Antalgies, pansements<br>- Contrôle du poids<br>- Arrêt du tabac<br>- Rasage, épilation")
+    kyste --> infecté("Abcès: sinus pilonidal infecté") --> urgence("Chirurgie en urgence<br>et excision") --> RHD
+    kyste --> chronique("Kyste pilonidal<br>chronique invalidant") --> programmée("Chirurgie programmée<br>de cicatrisation dirigée") --> RHD
+  style kyste stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
-- [Johnson E. et al. The American Society of Colon and Rectal Surgeons' Clinical Practice Guidelines for the Management of Pilonidal Disease. Diseases of the Colon & Rectum. 2019.](https://journals.lww.com/dcrjournal/Fulltext/2019/02000/The_American_Society_of_Colon_and_Rectal_Surgeons_.5.aspx)
-- [Spindler L. et al. Le traitement laser du sinus pilonidal infecté : résultats à 1 an de la première cohorte française. SFHOD. 2019.](https://www.snfge.org/content/le-traitement-laser-du-sinus-pilonidal)
+- [Johnson E et al. The American Society of Colon and Rectal Surgeons' Clinical Practice Guidelines for the Management of Pilonidal Disease. Diseases of the Colon & Rectum. 2019.](https://journals.lww.com/dcrjournal/Fulltext/2019/02000/The_American_Society_of_Colon_and_Rectal_Surgeons_.5.aspx)
+- [Spindler L et al. Le traitement laser du sinus pilonidal infecté : résultats à 1 an de la première cohorte française. SFHOD. 2019.](https://www.snfge.org/content/le-traitement-laser-du-sinus-pilonidal)
 - [Pillant-Le Moult H, Soudan D. Le sinus pilonidal. Conseil de pratique. SNFGE, SNFCP. 2017. (PDF)](https://www.snfge.org/download/file/fid/4856)
 - [SNFCP. Le Kyste pilonidal.](https://www.snfcp.org/informations-maladies/fistules-anales-suppurations/le-kyste-pilonidal/)
+
+### Bibliographie en attente
+
+[Walker H et al. Diagnosis and management of sacrococcygeal pilonidal disease in primary care. BMJ. 2023.](https://www.bmj.com/content/382/bmj-2022-071511)
 
 {{%/sources%}}

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-22T19:42:41+02:00"
 publishdate = "2020-07-22"
-lastmod = "2023-11-23"
+lastmod = "2023-11-24"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["BSG", "Collège"]
@@ -17,7 +17,7 @@ sctid = "236071009"
 icd10 = "K52.9"
 image = true
 imageSrc = "Illustration des diarrhées chroniques par brgfx / Freepik"
-todo = "SEO, SeHCAT, FODMAPs"
+todo = "CDU-HGE p144, SEO, SeHCAT, FODMAPs"
 flowchart = true
 +++
 
@@ -118,11 +118,11 @@ L'interrogatoire est primordial pour orienter vers l'origine de la diarrhée chr
 - Antécédents  
   Chirurgie digestive (bariatrique, cholécystectomie, résection), auto-immuns, thyroïde, diabète, radiothérapie, SEP, rapports sexuels non protégés.
 - Antécédents familiaux  
-  Tumoraux, MICI, [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}).
+  [Cancer](/tags/cancer/), MICI, [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}).
 - [Alcool]({{< relref "sevrage-alcool.md" >}})
 - Degré de consommation de café, boissons énergisantes, lait, sorbitol, fructose
 - Traitements en cours et essayés  
-  Antibiotique, AINS, magnésium, IEC, olmésartan, metformine-iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.
+  Antibiotique, AINS, magnésium, IEC, olmésartan, metformine, iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.
 - Diarrhée
   - Contexte de voyage, toxi-infection alimentaire
   - Antibiothérapie récente
@@ -146,18 +146,21 @@ La *malabsorption* donne souvent une stéatorrhée avec selles pâteuses et déc
 
 - Poids, taille, IMC et variations
 - Examen abdominal
-- Inspection et toucher rectal
+- Inspection et **toucher rectal**
 - Fonte musculaire
 - Signes généraux  
   Syndrome anémique ou hémorragique, thyrotoxicose, glossite, aménorrhée.
 - Recherche d'œdèmes
+
+En cas de rectorragies ou de modifications du transit: adresser au gastro-entérologue pour une coloscopie.
+{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 {{%info%}}
 
-### Bilan devant une diarrhée chronique
+### Bilan de la diarrhée chronique
 
 - NFS, VS, CRP
 - Ferritinémie
@@ -170,11 +173,9 @@ La *malabsorption* donne souvent une stéatorrhée avec selles pâteuses et déc
   IgA anti-transglutaminase et IgA totales.
 - Examen parasitologique des selles 3 jours de suite (se 60-90%)
 - [Test immunologique fécal]({{< relref "cancer-colorectal.md" >}}) (TIF *ex* Hemoccult®)
-
-En cas de rectorragies ou de modifications du transit: adresser au gastro-entérologue pour une coloscopie.
 {{%/info%}}
 
-### Bilan de deuxième intention
+### Bilan de deuxième intention de la diarrhée chronique
 
 - Suspicion de [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) avant 40-45 ans: calprotectine fécale (pour éliminer une MICI, 60€ non remboursé)  
   Bilan normal et symptômes typiques: diagnostic de *syndrome de l'intestin irritable* (SII).
@@ -198,7 +199,7 @@ Boire normalement (1,5 L/j) et éviter le jeûne (pullulation microbienne avec b
 #### Aliments privilégiés en cas de diarrhée chronique
 
 - Eau du robinet
-- Thym, laurier, cumin
+- Thym, laurier, cumin.
 - Produits laitiers  
   Yaourt nature, fromage blanc, petit suisse, fromage à pâte dure et fondus, lait enrichi en probiotiques.
 - Viandes  
@@ -229,18 +230,31 @@ Boire normalement (1,5 L/j) et éviter le jeûne (pullulation microbienne avec b
 - Matières grasses  
   Cuites, grosse quantité, aliments gras (charcuterie, viennoiserie), mayonnaise, crème fraîche.
 
-> *CREGG*
+> – *CREGG 2010*
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la diarrhée chronique" "show" %}}
+
+{{< mermaid title="Prise en charge de la diarrhée chronique par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après BSG 2021" >}}
+graph TB
+  diarrhée["<b>Diarrhée chronique</b><br>—<br>Plus de 3 selles/j,<br>molles à liquides"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements<br>- Contexte: voyage,<br>antibiotiques, constipation<br>- Échelle Bristol<br>- Autres symptômes") --> bilan("<b>Bilan</b><br>—<br>- Bilan standard<br>- Glycémie, ferritine<br>- TSH<br>- Proposer VIH<br>- Malabsorption<br>- Sérologie cœliaque<br>- EPS 3 jours<br>- TIF") -- Normal --> alarme("<b>Signe d'alarme ?</b><br>—<br>≥ 1 parmi:<br>- Anémie<br>- Haute risque CCR<br>- AEG<br>- Rectorragies<br>+50 ans<br>- Modifications récentes<br>du transit<br>- Masse abdominale") -- Oui --> coloscopie("Gastro-entérologue<br>pour coloscopie") -- Normale --> traitement("<b>Traitement</b><br>—<br>Si bilan 100% normal:<br>diagnostic de SII-D<br>- Aliments privilégiés<br>et à éviter<br>- Éviter le jeûne") -. Échec .-> gastro(Gastro-entérologue)
+    alarme -- Non --> traitement
+    bilan -- Anomalie --> étiologique("Diagnostic étiologique:<br>traitement ciblé") --> alarme
+  style diarrhée stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+> **SII-D =** syndrome de l'intestin irritable avec diarrhées
+
+{{%/collapse%}}
 {{%sources%}}
 
-- {{< references/college-gastro >}}
 - [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut. 2018.](https://gut.bmj.com/node/219278.full)
 - [Tarrerias AL et al. Régime alimentaire en cas de diarrhées. CREGG. 2010. (PDF)](https://www.cregg.org/wordpress/wp-content/uploads/2012/06/documents-tinymce-00004-fiche-diarrhe.pdf)
 - [SNFGE. Diarrhée chronique.](https://www.snfge.org/content/diarrhee-chronique)
 
 ### Bibliographie en attente
 
-[Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Diarrhée chronique. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/diarrhee)
+- {{< references/college-gastro >}}
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Diarrhée chronique. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/diarrhee)
 
 {{%/sources%}}

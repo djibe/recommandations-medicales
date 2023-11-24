@@ -17,6 +17,7 @@ sctid = "70153002"
 icd10 = "K64.9"
 image = true
 imageSrc = "Schéma des paquets hémorroïdaires. WikipedianProlific et Mikael Häggström, CC BY-SA 3.0, via Wikimedia Commons"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -65,7 +66,7 @@ Le diagnostic d'hémorroïdes est clinique.
 - Grossesse
 - Antécédents  
   Digestifs ([syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}), MICI, [diverticules]({{< relref "diverticulite-sigmoidienne.md" >}})), gynéco-obstétricaux, [infections sexuellement transmissibles (IST)](/tags/ist/).
-- Antécédents familiaux ([cancer colorectal]({{< relref "cancer-colorectal.md" >}}))
+- Antécédents familiaux: [cancer colorectal]({{< relref "cancer-colorectal.md" >}})
 - Traitements en cours
 - Traitements essayés pour les hémorroïdes
 - Alimentation: contenu en fibres
@@ -89,7 +90,7 @@ L'examen est facilité en décubitus latéral gauche (position de Sims).
 - Inspection de la marge anale  
   Hémorroïdes externes, thrombose hémorroïdaire, marisques (bourrelet charnu séquellaire d'une thrombose hémorroïdaire) et différentiel ([fissure anale]({{< relref "fissure-anale.md" >}}), [oxyurose]({{< relref "oxyurose.md" >}}) ...)
 - Prolapsus hémorroïdaire, rectal ou gynécologique
-- Toucher rectal omis car douloureux en cas de crise
+- Toucher rectal (omis en cas de crise)
 
 Les hémorroïdes internes ne sont visibles qu'en anuscopie et nécessitent donc un avis spécialisé.
 
@@ -163,12 +164,22 @@ Le traitement des hémorroïdes internes peut être: instrumental par ligature �
 En cas d'échec une chirurgie hémorroïdaire par hémorroïdectomie pédiculaire est discutée.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge des hémorroïdes" "show" %}}
+
+{{< mermaid title="Prise en charge des hémorroïdes par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après ESCP 2020, SNFGE, SNFCP et ASCRS" >}}
+graph TB
+  symptômes["<b>Symptômes hémorroïdaires</b><br>—<br>- Prurit<br>- Poussées douloureuses<br>- Rectorragies<br>- Tuméfaction douloureuse<br>- Tension et brûlure du canal anal<br>- Trouble du transit<br>- Prolapsus"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements<br>- Alimentation<br>- Symptômes<br>- Qualité de vie<br>- Examen proctologique") --> coloscopie("<b>Indication à la coloscopie ?</b><br>—<br>- +50 ans sans coloscopie<br>dans les 10 ans<br>- ATCD familial de CCR<br>- TIF positif<br>- Diagnostic incertain") -- Oui --> spécialiste("Gastro-entérologue<br>pour coloscopie") --> traitement("<b>Prise en charge</b><br>—<br>- Topiques<br>- Veinotoniques<br>- Lutte constipation") -- Échec --> proctologue(Avis proctologique)
+    coloscopie -- non --> traitement
+  style symptômes stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 {{< youtube id="0L8aFHXeQrQ" title="Hémorroïdes : c'est la crise ! (TutoGastro SNFGE 2023)" >}}
 
 - {{< references/college-gastro >}}
-- [van Tol R et al. European Society of ColoProctology: guideline for haemorrhoidal disease. Colorectal Dis. 2020. (payant)](https://onlinelibrary.wiley.com/doi/abs/10.1111/codi.14975)
+- [Van Tol R et al. European Society of ColoProctology: guideline for haemorrhoidal disease. Colorectal Dis. 2020. (payant)](https://onlinelibrary.wiley.com/doi/abs/10.1111/codi.14975)
 - [Siproudhis L, Higuero T. Traitements de la maladie hémorroïdaire. Conseil de pratique. SNFGE, SNFCP. 2020. (PDF)](https://www.snfge.org/download/file/fid/4860)
 - Prescrire Redaction. Hémorroïdes. Premiers Choix Prescrire. Rev Prescrire. 2020.
 - [Davis BR et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Hemorrhoids. Dis Colon Rectum. 2018.](https://journals.lww.com/dcrjournal/Fulltext/2018/03000/The_American_Society_of_Colon_and_Rectal_Surgeons.7.aspx)
