@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-14T13:07:50+02:00"
 publishdate = "2023-09-14"
 lastmod = "2023-09-14"
-specialites = ["endocrinologie"]
+specialites = ["endocrinologie", "pediatrie"]
 annees = "2022"
 sources = ["SPF", "EFSA"]
 tags = ["adolescent", "enfant", "geriatrie", "grossesse", "nourrisson"]
@@ -42,7 +42,7 @@ Apports alimentaires recommandés pendant la croissance afin de satisfaire les b
 
 {{< clinique/calcium-cible >}}
 
-> – Également *[[Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Alimentation et besoins nutritionnels. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/alimentation#e-apports-en-calcium-conseilles)*
+> – Également *[Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Alimentation et besoins nutritionnels. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/alimentation#e-apports-en-calcium-conseilles)*
 
 ## Teneur en calcium des aliments {.mt-5}
 

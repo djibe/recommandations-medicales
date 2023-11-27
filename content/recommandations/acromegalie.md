@@ -138,7 +138,7 @@ graph TB
 - [Centre de référence des maladies rares de l'hypophyse (HYPO). Acromégalie. PNDS. 2021.](https://www.has-sante.fr/jcms/p_3292767/fr/acromegalie)
 - [Fleseriu M et al. A Pituitary Society update to acromegaly management guidelines. Pituitary. 2021.](https://link.springer.com/article/10.1007/s11102-020-01091-7)
 - {{< references/college-endocrino >}}
-- [HAS. Dépistage et prévention du cancer colorectal. Juin 2013.](https://www.has-sante.fr/jcms/c_1623732/fr/depistage-et-prevention-du-cancer-colorectal)
+- [HAS. Dépistage et prévention du cancer colorectal. 2013.](https://www.has-sante.fr/jcms/c_1623732/fr/depistage-et-prevention-du-cancer-colorectal)
 - [Orphanet. Acromégalie.](https://www.orpha.net/consor/cgi-bin/Disease_Search.php?lng=FR&data_id=408&Disease_Disease_Search_diseaseGroup=Acromegalie&Disease_Disease_Search_diseaseType=Pat&Maladie(s)/groupes%20de%20maladies=Acromegalie&title=Acrom%E9galie&search=Disease_Search_Simple)
 
 {{%/sources%}}

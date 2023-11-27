@@ -383,6 +383,8 @@ a[data-toggle="modal"]:not(.no-icon)::after {
 
 .card {
   background-color: var(--surface);
+  word-wrap: break-word;
+  word-break: break-word;
 }
 
 .card-img-top,

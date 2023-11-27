@@ -391,12 +391,12 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Wendling D. et al. Actualisation 2022 des recommandations de la Société française de rhumatologie (SFR) pour la prise en charge en pratique courante des malades atteints de spondyloarthrite, incluant le rhumatisme psoriasique. Revue du Rhumatisme. 2022.](https://www.sciencedirect.com/science/article/pii/S1169833022000023)
-- [Wendling D. et al. Actualisation 2018 des recommandations de la Société française de rhumatologie (SFR) pour la prise en charge en pratique courante des malades atteints de spondyloarthrite. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S116983301830005X)
-- [Gossec L. et al. Collecte et prise en charge de certaines comorbidités et facteurs de risque associés dans le cadre des rhumatismes inflammatoires chroniques dans la pratique quotidienne en France. Revue du Rhumatisme. 2017.](https://www.sciencedirect.com/science/article/abs/pii/S1169833016308250)
-- [Van der Heijde D. et al. 2016 update of the ASAS-EULAR management recommendations for axial spondyloarthritis. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/6/978)
-- [Mandl P. et al. EULAR recommendations for the use of imaging in the diagnosis and management of spondyloarthritis in clinical practice. Annals of the Rheumatic Diseases. 2015.](https://ard.bmj.com/content/74/7/1327)
-- [Wendling D. et al. Recommandations de la Société française de rhumatologie pour la prise en charge en pratique courante des malades atteints de spondylarthrite. Revue du Rhumatisme. 2014. (PDF)](https://www.larhumato.fr/wp-content/uploads/2017/11/SA20recos20SFR20Rev20Rhum.pdf)
+- [Wendling D et al. Actualisation 2022 des recommandations de la Société française de rhumatologie (SFR) pour la prise en charge en pratique courante des malades atteints de spondyloarthrite, incluant le rhumatisme psoriasique. Revue du Rhumatisme. 2022.](https://www.sciencedirect.com/science/article/pii/S1169833022000023)
+- [Wendling D et al. Actualisation 2018 des recommandations de la Société française de rhumatologie (SFR) pour la prise en charge en pratique courante des malades atteints de spondyloarthrite. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S116983301830005X)
+- [Gossec L et al. Collecte et prise en charge de certaines comorbidités et facteurs de risque associés dans le cadre des rhumatismes inflammatoires chroniques dans la pratique quotidienne en France. Revue du Rhumatisme. 2017.](https://www.sciencedirect.com/science/article/abs/pii/S1169833016308250)
+- [Van der Heijde D et al. 2016 update of the ASAS-EULAR management recommendations for axial spondyloarthritis. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/6/978)
+- [Mandl P et al. EULAR recommendations for the use of imaging in the diagnosis and management of spondyloarthritis in clinical practice. Annals of the Rheumatic Diseases. 2015.](https://ard.bmj.com/content/74/7/1327)
+- [Wendling D et al. Recommandations de la Société française de rhumatologie pour la prise en charge en pratique courante des malades atteints de spondylarthrite. Revue du Rhumatisme. 2014. (PDF)](https://www.larhumato.fr/wp-content/uploads/2017/11/SA20recos20SFR20Rev20Rhum.pdf)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Spondyloarthrite inflammatoire. Item 197 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-objectifs-0-18-0.php)
 
 {{%/sources%}}

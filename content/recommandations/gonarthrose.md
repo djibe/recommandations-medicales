@@ -16,6 +16,7 @@ sctid = "239873007"
 icd10 = "M17.9"
 image = true
 imageSrc = "Arthrose sévère du genou avec disparition de l'interligne des 3 compartiments et ostéophytose. Sclérose sous-chondrale. Dr Ian Bickle publié sur Radiopaedia.org"
+todo = "https://rheumatology.org/indications-for-total-hip-and-knee-arthroplasty-guideline"
 +++
 
 {{%article-summary%}}

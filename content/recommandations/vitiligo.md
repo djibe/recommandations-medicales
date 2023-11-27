@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-29T20:48:41+02:00"
 publishdate = "2022-11-22"
-lastmod = "2022-11-23"
+lastmod = "2023-11-24"
 specialites = ["dermatologie"]
 annees = "2021"
 sources = ["BAD", "Inserm"]
@@ -15,17 +15,18 @@ anglais = ["Vitiligo"]
 sctid = "56727007"
 icd10 = "L80"
 image = true
-imageSrc = "Vitiligo des mains par James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
+imageSrc = "Vitiligo des mains. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
 todo = "rankok, BAD Figure 1"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
 - Le diagnostic de vitiligo relève du dermatologue
 - Dépistage systématique d'une [dysthyroïdie](/tags/tsh/) par TSH + anticorps anti-TPO
-- Prise en charge du vitiligo par le généraliste: information, photoprotection des plaques, évaluation psychologique ({{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}})
+- Prise en charge du vitiligo par le généraliste: information, photoprotection des plaques, évaluation psychologique ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}})
 - Traitement de première intention du vitiligo: {{< modal-btn modal-dc >}}dermocorticoïdes{{< /modal-btn >}} ou tacrolimus et photothérapie UVB
-- Suivi dermatologique tous les 3 à 6 mois tant que le vitiligo est actif
+- Suivi spécialisé par le dermatologue tous les 3 à 6 mois tant que le vitiligo est actif
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -36,7 +37,7 @@ Une atteinte exclusive des muqueuses est possible et rare.
 Il atteint 0,5 à 1% de la population de façon homogène avec un sur-risque en cas d'**antécédents familiaux et de stress**.
 : Le vitiligo est dit **stable** en l'absence de nouvelle lésions sur 12 mois avec une stabilité des lésions pré-existantes.
 : Le pronostic du vitiligo est **psychologique** sans augmentation des **cancers de la peau**.  
-Les comorbidités auto-immunes sont fréquentes: [Hashimoto]({{< relref "hypothyroidie.md" >}}), Basedow, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [diabète de type 1]({{< relref "diabete-type-1.md" >}}), MICI.
+Les comorbidités auto-immunes sont fréquentes: [Hashimoto]({{< relref "hypothyroidie.md" >}}), [Basedow]({{< relref "hyperthyroidie.md" >}}), [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [diabète de type 1]({{< relref "diabete-type-1.md" >}}), MICI.
 
 Vitiligo segmentaire
 : Forme de vitiligo la plus rare avec une dépigmentation unilatérale circonscrite à une zone bien délimitée du corps.
@@ -85,20 +86,20 @@ Le diagnostic de vitiligo est clinique avec à la lampe de Wood une dépigmentat
   - Localisation et surface corporelle
   - Traitements essayés
   - Plaques le plus souvent asymptomatiques
-- Retentissement psychologique et qualité de vie  
-  Scores PHQ-4, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal-score-dlqi >}}DLQI{{< /modal-btn >}}, VIPs ou VitiQoL.
+- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Qualité de vie: {{< modal-btn modal-score-dlqi >}}score DLQI{{< /modal-btn >}}, VIPs ou VitiQoL
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Dépistage d'une [hypothyroïdie]({{< relref "hypothyroidie.md" >}}) ou d'une prédisposition: [TSH](/tags/tsh/) et anticorps anti-TPO.
+Dépister une [hypothyroïdie]({{< relref "hypothyroidie.md" >}}) ou une prédisposition: [TSH](/tags/tsh/) et anticorps anti-TPO.
 
 [Contrôle de la vitamine D]({{< relref "vitamine-d.md" >}}) en cas d'éviction solaire totale.
 
 {{% /collapse %}}
-{{%collapse "Traitement du vitiligo" %}}
+{{%collapse "Traitement de vitiligo" %}}
 
-La prise en charge du vitiligo relève du dermatologue. Adresser en semi-urgence en cas d'évolution rapide.
+La prise en charge du vitiligo est spécialisée par le dermatologue. Adresser en semi-urgence en cas d'évolution rapide.
 {.alert .alert-info}
 
 Mesures générales de prise en charge du vitiligo:
@@ -106,7 +107,7 @@ Mesures générales de prise en charge du vitiligo:
 - Limiter les frottements
 - Crème solaire IP50 sur les zones atteintes
 - Soutien psychologique: [parcours MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}) ou autre
-- Information du patient: [Dermato-Info](https://dermato-info.fr/fr/les-maladies-de-la-peau/vitiligo-quand-la-peau-perd-son-pigment)
+- Information du patient sur le vitiligo: [Dermato-Info](https://dermato-info.fr/fr/les-maladies-de-la-peau/vitiligo-quand-la-peau-perd-son-pigment)
 - Association de patients: [Association Française du Vitiligo](https://www.afvitiligo.com/comprendre-le-vitiligo/les-traitements-du-vitiligo/)
 - {{< references/compare >}}
 
@@ -157,6 +158,16 @@ Galerie de photos du vitiligo.
 {{< /gallery >}}
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du vitiligo" "show" %}}
+
+{{< mermaid title="Prise en charge du vitiligo par le médecin généraliste. Dr Alaedine Benani d'après BAD 2021" >}}
+graph TB
+  achromique["Apparition de zones<br>achromiques distales"] --> vitiligo(Suspicion de vitiligo) --> dermatologue("Avis dermatologique<br>avec dosage TSH, anti-TPO,<br>vitamine D")
+  achromique -- Diagnostic différentiel --> différentiel("- Dartres<br>- Psoriasis<br>- Eczéma")
+  style achromique stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [Inserm. Vitiligo. 2023.](https://www.inserm.fr/information-en-sante/dossiers-information/vitiligo)
@@ -174,14 +185,9 @@ Galerie de photos du vitiligo.
 {{< clinique/phototype-fitzpatrick >}}
 
 {{% /modal %}}
-{{% modal title="Questionnaire PHQ-9" id="modal-phq9"%}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
 
-{{< scores/phq9 >}}
-
-{{% /modal %}}
-{{% modal title="Score GAD-7" id="modal-gad7"%}}
-
-{{< scores/gad7 >}}
+{{< scores/phq4 >}}
 
 {{% /modal %}}
 {{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}

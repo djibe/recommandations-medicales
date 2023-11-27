@@ -1,22 +1,22 @@
 +++
-title = "Violences conjugales"
+title = "Violences faites aux femmes"
 prefix = "les "
 noindex = true
-description = "Recommandations pour le dépistage des violences faites aux femmes. Questionnaire WAST, informer pour porter plainte et où se rendre pour être en sécurité"
-synonyms = ["Violences faites aux femmes"]
+description = "Recommandations pour le dépistage des violences faites aux femmes. Dépistage WAST, information où porter plainte, numéros et où se rendre pour être en sécurité"
+synonyms = ["Violences conjugales"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-04T19:26:00+02:00"
 publishdate = "2021-02-04"
-lastmod = "2022-11-24"
+lastmod = "2023-11-26"
 specialites = ["certificats"]
-annees = "2020"
+annees = "2022"
 sources = ["HAS"]
 tags = ["depistage"]
 anglais = ["Domestic violence"]
 sctid = "404189009"
 icd10 = "Y07.9"
 image = true
-imageSrc = "European Parliament sur Foter.com / CC BY-NC-ND"
+imageSrc = "Les violences faites aux femmes. Parlement Européen sur Foter.com / CC BY-NC-ND"
 todo = "lire sources, liste centre hébergement urgence, commissariat + proche, lien vers chaque droit, https://www.inserm.fr/actualite/violences-sexuelles-au-coeur-dune-enquete-accablante/"
 +++
 
@@ -24,19 +24,19 @@ todo = "lire sources, liste centre hébergement urgence, commissariat + proche, 
 
 *Page en construction*
 
-- Rechercher systématiquement l'exposition à des violences conjugales à l'interrogatoire (comme pour les antécédents et le tabac)
-- **3 patientes sur 10 de votre salle d'attente !**
+- Rechercher systématiquement l'exposition des femmes à des violences à l'interrogatoire (comme pour les antécédents et le tabac)
+- **3 patientes sur 10 de nos salles d'attente !**
 - [Modèle de certificat initial (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/certificat_en_cas_de_violences_sur_personne_majeure.pdf)
 - En cas de suspicion de violences faites aux femmes, conseiller:
   - de déposer plainte
   - de naviguer sur internet en mode *Incognito*
   - d'appeler le {{<phone>}}15{{</phone>}}, par tchat [service-public.fr/cmi](https://www.service-public.fr/cmi) ou d'aller aux *Urgences* à toute heure
-- [Outil pour le médecin: Declicviolence](https://declicviolence.fr/)
+- [Outil pour le médecin: Declicviolence](https://declicviolence.fr)
 
 {{%/article-summary%}}
 {{%collapse "Épidémiologie" %}}
 
-### État des lieux des violences conjugales en France
+### État des lieux des violences faites aux femmes en France
 
 - Prévalence au cours de la vie d'une femme: 26%
 - Incidence: 225.000 femmes majeures/an
@@ -44,13 +44,23 @@ todo = "lire sources, liste centre hébergement urgence, commissariat + proche, 
 
 > << Les données dans la littérature sont contradictoires concernant l'association entre le statut socio-économique et les violences conjugales >> (*Santé Publique France*)
 
-{{% /collapse %}}
-{{%collapse "Dépistage des violences conjugales" %}}
+### Pour en savoir plus
 
-> << Questionnez toutes vos patientes lors de l'anamnèse comme vous le faites pour les antécédents médicaux ou la consommation de tabac >> (*HAS 2020*)
+#### La stratégie de l'agresseur
+
+1. Isoler
+2. Dévaloriser
+3. Instaurer un climat de peur
+4. Inverser la culpabilité
+5. Assurer son impunité
+
+{{% /collapse %}}
+{{%collapse "Dépistage des violences faites aux femmes" %}}
+
+> << Questionnez toutes vos patientes lors de l'anamnèse comme vous le faites pour les antécédents médicaux ou la consommation de tabac >> (*HAS 2020*), << 9 femmes sur 10 estiment même qu'aborder ce sujet en consultation est important, légitime et rassurant >> (*HAS 2023*)
 {.alert .alert-warning}
 
-### Dépister des violences conjugales à l'interrogatoire
+### Dépister des violences faites aux femmes à l'interrogatoire
 
 Exemples de formulations:
 
@@ -58,6 +68,8 @@ Exemples de formulations:
 - Pensez-vous avoir subi des violences (physiques, verbales, psychiques, sexuelles) au cours de votre vie ?
 
 << Pour normaliser le sujet, vous pouvez préciser que vous abordez cette question avec toutes vos patientes. >>
+
+**NB.** Le dépistage n'est pas forcément à la première consultation, éviter la répétition de l'histoire traumatique, rappeler la loi (interdiction des violences)
 
 ### Le questionnaire WAST
 
@@ -103,7 +115,7 @@ Exemples de formulations:
 {{% /collapse %}}
 {{%collapse "Information de la patiente" %}}
 
-Informer toute victime de violence conjugale sur:
+Informer toute victime de violence sur:
 
 - Appeler le {{<phone>}}15{{</phone>}} ou aller aux Urgences 24/7
 - L'inciter à déposer plainte maintenant ou plus tard  
@@ -144,7 +156,7 @@ La consultation et l'examen clinique de la patiente sont un préalable indispens
 {{% /collapse %}}
 {{%collapse "FMC" %}}
 
-{{< card-link-external title="Violences faites aux femmes" url="https://www.pns-mooc.com/fr/mooc/module/64/introduction" subtitle="Pédagogie Numérique en Santé">}}
+{{< card-link-external title="MOOC Violences faites aux femmes" url="https://www.pns-mooc.com/fr/mooc/module/64/introduction" subtitle="Pédagogie Numérique en Santé">}}
 
 {{< youtube id="cHONPEYxRKo" title="La minute RECO HAS | Violences conjugales (Dr Ghada Hatem)" >}}
 
@@ -183,14 +195,12 @@ Pour le médecin généraliste.: Aborder les violences, évaluer, le certificat 
 - Stockage sécurisé: [memo-de-vie.org](https://memo-de-vie.org)
 - Contacts utiles, chat anonyme, accompagnement par un professionnel de l'aide aux victimes.
 
-{{< youtube id="GNSBChaTGys" title="Webinaire Violences conjugales : en parler pour mieux les repérer (HAS)" >}}
-
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS. Outil d'aide au repérage des violences conjugales. 2022. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/outil_daide_au_reperage_des_violences_conjugales.pdf)
+- [HAS. Violences conjugales : la HAS appelle les médecins à se saisir pleinement du sujet. 2023.](https://has-sante.fr/jcms/p_3473528/fr/violences-conjugales-la-has-appelle-les-medecins-a-se-saisir-pleinement-du-sujet)
+- [HAS. Repérage des femmes victimes de violences au sein du couple. 2022.](https://www.has-sante.fr/jcms/p_3104867/fr/reperage-des-femmes-victimes-de-violences-au-sein-du-couple)
 - [Guiguet-Auclair C et al. Validation de la version française d'un outil de dépistage des violences conjugales faites aux femmes, le WAST (Woman Abuse Screening Tool). BEH. 2021.](http://beh.santepubliquefrance.fr/beh/2021/2/2021_2_2.html)
-- [HAS. Repérage des femmes victimes de violences au sein du couple Comment agir. 2020. (PDF)](https://www.has-sante.fr/jcms/p_3104867/fr/reperage-des-femmes-victimes-de-violences-au-sein-du-couple)
 
 ### Bibliographie en attente
 

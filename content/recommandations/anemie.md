@@ -246,7 +246,7 @@ accTitle: Prise en charge d'une anémie avec suspicion de carence en fer d'aprè
 - [Santé Publique France. Étude de santé sur l'environnement, la biosurveillance, l'activité physique et la nutrition (Esteban) 2014-2016. Volet Nutrition. Chapitre Dosages biologiques : vitamines et minéraux. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/rapport-synthese/etude-de-sante-sur-l-environnement-la-biosurveillance-l-activite-physique-et-la-nutrition-esteban-2014-2016-.-volet-nutrition.-chapitre-dosages)
 - Rouillon JM. Prise en charge de l'anémie ferriprive. SNFGE. 2018.
 - [OMS. Concentrations en hémoglobine permettant de diagnostiquer l'anémie et d'en évaluer la sévérité. Système d'informations nutritionnelles sur les vitamines et les minéraux. 2011.](https://www.who.int/fr/publications-detail/WHO-NMH-NHD-MNM-11.1)
-- [HAS. Choix des examens du métabolisme du fer en cas de suspicion de carence en fer. Mars 2011.](https://www.has-sante.fr/jcms/c_1051506/fr/choix-des-examens-du-metabolisme-du-fer-en-cas-de-suspicion-de-carence-en-fer-rapport-d-evaluation)
+- [HAS. Choix des examens du métabolisme du fer en cas de suspicion de carence en fer. 2011.](https://www.has-sante.fr/jcms/c_1051506/fr/choix-des-examens-du-metabolisme-du-fer-en-cas-de-suspicion-de-carence-en-fer-rapport-d-evaluation)
 
 ### Bibliographie en attente
 

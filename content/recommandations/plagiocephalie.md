@@ -15,8 +15,9 @@ anglais = ["Plagiocephaly"]
 sctid = "21850008"
 icd10 = "Q67.3"
 image = true
-imageSrc = "Plagiocéphalie positionnelle postérieure gauche chez un nourrisson par Gzzz, CC BY-SA 4.0, via Wikimedia Commons"
+imageSrc = "Plagiocéphalie positionnelle postérieure gauche chez un nourrisson. Gzzz, CC BY-SA 4.0, via Wikimedia Commons"
 todo = "rankok"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -65,15 +66,17 @@ MIN
 
 PP
 : plagiocéphalie positionnelle
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic de plagiocéphalie est clinique.  
-L'examen clinique recherche des facteurs aggravants.
+Le diagnostic de plagiocéphalie est clinique. L'examen clinique recherche des facteurs aggravants.
 
-- Interrogatoire sur les facteurs de risque et le couchage
-- Rechercher **dysmorphies et syndromes** (examen neuromoteur complet)  
+- Facteurs de risque de plagiocéphalie (voir *Définition*)  
+  Garçon, aîné, torticolis congénital, sommeil en décubitus dorsal, allaitement artificiel exclusif, périodes d'éveil sur le ventre < 3 fois par jour, taux d'activité limité, position préférentielle pendant le sommeil, position fixe dans le lit.
+- Mode de couchage
+- Rechercher des **dysmorphies et syndromes** (examen neuromoteur complet)  
   Examiner le sommet de la tête, vue du dessus et regarder la position des oreilles et des pommettes.
 - Vérifier l'**amplitude des mouvements passifs et actifs du cou** (torticolis congénital)
 - Vérifier les **sutures** (lambdoïdes +++, craniosynostose)
@@ -92,7 +95,7 @@ Aucun examen complémentaire devant une plagiocéphalie positionnelle isolée.
 Radiographies du crâne uniquement en suspicion de craniosynostose ou d'aggravation à un âge où les DCP devraient s'atténuer.
 
 {{% /collapse %}}
-{{%collapse "Prévention" %}}
+{{%collapse "Prévention de la plagiocéphalie" %}}
 
 Mesures de prévention de la plagiocéphalie positionnelle:
 
@@ -105,7 +108,7 @@ Mesures de prévention de la plagiocéphalie positionnelle:
 {{% /collapse %}}
 {{%collapse "Traitement de la plagiocéphalie" %}}
 
-> << Le couchage à plat sur le dos strict pour le sommeil est recommandé pour prévenir la mort inattendue du nourrisson >> (*HAS 2020*)
+> << Le couchage à plat sur le dos strict pour le sommeil est recommandé pour prévenir la mort inattendue du nourrisson >> – *HAS 2020*
 {.alert .alert-info}
 
 Autres facteurs de **mort inattendue du nourrisson** (MIN): cale-bébé, cale-tête, coussin de positionnement, réducteur de lit, tour de lit. Ni doudous, peluches, couettes ou couvertures.
@@ -114,7 +117,7 @@ Autres facteurs de **mort inattendue du nourrisson** (MIN): cale-bébé, cale-t�
 
 Recommandations générales pour la prise en charge de la plagiocéphalie:
 
-- Mesure de prévention de la mort inattendue du nourrisson
+- Mesures de prévention de la mort inattendue du nourrisson
 - Thérapie de positions (voir *Prévention*)  
   Traitement de référence chez nourrissons ≤ 4 mois avec asymétrie légère à modérée.
 - Kinésithérapie à orientation pédiatrique  
@@ -128,9 +131,22 @@ Recommandations générales pour la prise en charge de la plagiocéphalie:
 Prise en charge chirurgicale d'une plagiocéphalie en cas de craniosynostose confirmée.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la plagiocéphalie" "show" %}}
+
+{{< mermaid title="Prise en charge de la plagiocéphalie par le médecin généraliste. Dr JB Fron d'après HAS 2020" >}}
+graph TB
+  plagiocéphalie["<b>Plagiocéphalie positionnelle</b><br>ou déformations crâniennes<br>positionnelles<br>—<br>Asymétrie crânienne<br>par appui prolongé"] --> clinique("<b>Clinique</b><br>—<br>- Facteurs de risque<br>- Couchage<br>- Rechercher dysmorphies<br>et syndromes<br>- Amplitude des mouvements<br>- Sutures<br>- Mesures de prévention MIN") --> traitement("<b>Traitement</b><br>—<br>- Mesures prévention MIN<br>- ≤ 4 mois légère-modérée:<br>thérapie de positions<br>(idem Prévention)<br>- Kinésithérapie") --> prévention("<b>Prévention</b><br>—<br>Pour tous:<br>- Alterner le couchage,<br>position contre sa<br>préférence ++<br>- Éveil sur le ventre<br>min 10-15 min x 3/j<br>- Fiche info parents")
+  clinique -- "Doute diagnostique<br>ou sévère<br>ou tardif" --> pédiatre(Pédiatre) -.-> traitement
+  traitement -- Échec --> pédiatre
+  style plagiocéphalie stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 {{< youtube id="5xtCwQV86pA" title="La minute RECO HAS | Plagiocéphalies (Pr Hugues Patural)" >}}
+
+{{< card-link-external title="Plagiocéphalies, craniosténoses et syndrome du bébé secoué en MG" url="https://open.spotify.com/episode/7kGUwLjNWULG3qKRg5Yh27" subtitle="Guideline.care">}}
 
 - [HAS, CNPP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. Février 2020.](https://www.has-sante.fr/jcms/p_3151574/fr/prevention-des-deformations-craniennes-positionnelles-dcp-et-mort-inattendue-du-nourrisson)
 - [Société Canadienne de Pédiatrie. La plagiocéphalie positionnelle. Octobre 2011.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3202395/)

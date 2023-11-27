@@ -7,10 +7,10 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr JG LETAROUILLY (SFR)"
 date = "2020-10-23T22:24:41+02:00"
 publishdate = "2020-10-23"
-lastmod = "2023-10-09"
+lastmod = "2023-11-26"
 specialites = ["rhumatologie"]
 annees = "2022"
-sources = ["EULAR", "SFRhumato", "ACR", "HAS"]
+sources = ["ACR", "EULAR", "SFRhumato", "HAS"]
 tags = ["biotherapie", "vaccin"]
 anglais = ["Rheumatoid arthritis"]
 sctid = "69896004"
@@ -165,7 +165,7 @@ Les autres examens relèvent du rhumatologue.
 La décision du traitement dépend du rhumatologue, partagée avec le patient
 {.alert .alert-info}
 
-Mesures générales de prise en charge de la polyarthrite:
+### Mesures générales de prise en charge de la polyarthrite
 
 - Anti-inflammatoires (AINS)  
   {{%class%}}Si symptomatique, état rénal et cardio-vasculaire correct. En complément du traitement de fond.{{%/class%}}
@@ -212,14 +212,14 @@ Ceux-ci relèvent exclusivement du rhumatologue.
 - Prévention des complications: cardiovasculaires, respiratoires, infectieuses, lymphomes et fractures [ostéoporotiques]({{< relref "osteoporose.md" >}}).
 - Éducation thérapeutique
 
-### Traitement de fond conventionnel
+### Traitement de fond conventionnel de la polyarthrite rhumatoïde
 
 Le traitement de la polyarthrite rhumatoïde est systématique, << en urgence >> dès le diagnostic, même s'il ne remplit pas encore les critères de rhumatisme défini.  
 Il est modifié en cas d'**inefficacité à 3 mois** (ou objectif thérapeutique non atteint à 6 mois).
 
 {{%info%}}
 **Méthotrexate (MTX)** en première intention, dose optimale (25 mg/semaine) à atteindre en 4-8 semaines.  
-Débuter à 10-15 mg en prise unique par semaine par voie orale (Novatrex®, Imeth®, génériques).  
+Débuter à 10-15 mg en prise unique (ou scindée en 2 doses, étude SMART) par semaine par voie orale (Novatrex®, Imeth®, génériques).  
 Augmentation de 5 mg/1-4 semaines selon efficacité-tolérance.
 
 ---
@@ -328,6 +328,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+- [England BR et al. 2022 American College of Rheumatology Guideline for Exercise, Rehabilitation, Diet, and Additional Integrative Interventions for Rheumatoid Arthritis. Arthritis Rheumatol. 2023.](https://rheumatology.org/integrative-ra-treatment-guideline)
 - {{< references/esh-2023 >}}
 - [Smolen JS et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. Annals of the Rheumatic Diseases. 2022.](https://ard.bmj.com/content/early/2022/11/10/ard-2022-223356)
 - [Daien C, Czernichow S, Letarouilly JG et al. Recommandations de la Société française de rhumatologie sur l'alimentation des patients ayant un rhumatisme inflammatoire chronique. Revue du Rhumatisme. 2021.](https://www.sciencedirect.com/science/article/pii/S1169833021009108)

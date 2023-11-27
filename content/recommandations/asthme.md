@@ -8,7 +8,7 @@ synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-06-21T10:56:00+02:00"
 publishdate = "2021-06-29"
-lastmod = "2023-10-10"
+lastmod = "2023-11-27"
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["GINA", "ERS", "SPLF", "HAS"]
@@ -18,7 +18,8 @@ sctid = "195967001"
 icd10 = "J45.9"
 image = true
 imageSrc = "Illustration de l'asthme par brgfx / Freepik"
-todo = "doses Symbicort turbuhaler, CSI + ARL, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, rhinite allergique"
+todo = "doses Symbicort turbuhaler, CSI + ARL, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -26,16 +27,21 @@ todo = "doses Symbicort turbuhaler, CSI + ARL, plan d'action, Prescrire asthme f
 - Bannir le terme de << bronchite asthmatiforme >>, l'asthme est une maladie chronique
 - Éviction du tabac et de la cigarette électronique
 - Diagnostic de certitude de l'asthme par symptômes évocateurs répétés et EFR concluantes
-- Maîtrise de l'asthme: {{< modal-btn modal-score-act >}}questionnaire *ACT™*{{< /modal-btn >}} à chaque consultation et appli [Asthm'Activ](https://play.google.com/store/apps/details?id=com.sophia.asthme), [Effic'Asthme](https://play.google.com/store/apps/details?id=fr.parisdescartes.efficasthme&hl=fr&gl=US)
-- Le débit expiratoire de pointe (DEP) est toujours répété 3 fois de suite
-- Épreuves fonctionnelles respiratoires (EFR) 1-3 fois par an
-- 80% ne savent pas utiliser l'inhalateur (*GINA 2022*)
-- Le plan d'action doit être écrit
-- Jamais de {{< modal-btn modal-ttt-baca >}}bronchodilatateur de courte durée{{< /modal-btn >}} seul
-- Traitement de crise de l'asthme: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} (béclométasone ou budésonide)
-- Traitements de fond de l'asthme: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous. Ou en asthme parfaitement contrôlé sans traitement {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} en cas de symptômes. Si ALD: {{< modal-btn modal-vaccin-pneumocoque >}}vaccins pneumocoque{{< /modal-btn >}} et grippe
-- Décroissance: par paliers de 25-50% si parfaitement contrôlé 2-3 mois jusqu'à {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} en cas de symptômes
-- [PAI de l'asthme en PDF](https://eduscol.education.fr/document/7751/download)
+- Exacerbation asthmatique
+  - Le débit expiratoire de pointe (DEP) est toujours répété 3 fois de suite
+  - Le plan d'action de l'asthme doit être écrit
+  - 80% ne savent pas utiliser l'inhalateur (*GINA 2022*): chambre d'inhalation préconisée
+  - Traitement de crise de l'asthme: bronchodilatateur de courte durée d'action {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} (béclométasone ou budésonide)  
+    avec prednisone 40-50 mg/j pendant 5 à 7 jours
+- Asthme en état stable
+  - Maîtrise de l'asthme: {{< modal-btn modal-score-act >}}questionnaire *ACT™*{{< /modal-btn >}} à chaque consultation et applis [Asthm'Activ](https://play.google.com/store/apps/details?id=com.sophia.asthme) ou [Effic'Asthme](https://play.google.com/store/apps/details?id=fr.parisdescartes.efficasthme&hl=fr)
+  - Épreuves fonctionnelles respiratoires (EFR) 1-3 fois par an
+  - Jamais de {{< modal-btn modal-ttt-baca >}}bronchodilatateur de courte durée{{< /modal-btn >}} seul
+  - Traitements de fond de l'asthme: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous. Pour un asthme parfaitement contrôlé sans traitement: {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} en cas de symptômes
+  - Décroissance: par paliers de 25-50% si parfaitement contrôlé 2-3 mois jusqu'à {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} en cas de symptômes
+  - Si ALD: {{< modal-btn modal-vaccin-pneumocoque >}}vaccins pneumocoque{{< /modal-btn >}} et grippe
+
+Pour la pratique: [modèle de PAI de l'asthme](https://eduscol.education.fr/document/7751/download) (PDF) et [annuaire des Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/).
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -51,9 +57,8 @@ Jusqu'à 30% de diagnostics en excès.
 
 Exacerbation d'asthme
 : *ex* crise d'asthme
-: Majoration des symptômes respiratoires habituels et de l'obstruction bronchique pendant plus de 48 heures (*SPLF 2015*).  
-Parler de *poussée* avec le patient (*GINA 2019*).
-: **Exacerbation dite*sévère** si nécessite des corticoïdes oraux, un passage aux urgences ou une hospitalisation.
+: Majoration des symptômes respiratoires habituels et de l'obstruction bronchique pendant plus de 48 heures (*SPLF 2015*). Parler de *poussée* avec le patient (*GINA 2019*).
+: **Exacerbation dite sévère** si nécessite des corticoïdes oraux, un passage aux urgences ou une hospitalisation.
 
 Maîtrise de l'asthme
 : Elle correspond à 2 champs d'action: la {{< modal-btn modal-score-act >}}maîtrise des symptômes{{< /modal-btn >}} et celle des facteurs de risque de complications futures (exacerbations ++).
@@ -149,7 +154,7 @@ VEMS
 
 Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 
-- Pouls > 110/min
+- Fréquence cardiaque > 110/min
 - Fréquence respiratoire ≥ 25/min ou pauses respiratoires
 - Impossibilité de terminer les phrases en une inspiration
 - DEP ≤ 50% de la théorique ou de la meilleure valeur connue du patient
@@ -216,7 +221,7 @@ Revoir la *maîtrise de l'asthme* à chaque consultation:
     - Contrôle de comorbidités  
       [Rhinite allergique]({{< relref "rhinite-allergique.md" >}}), sinusite, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), [obésité]({{< relref "obesite-adulte.md" >}}), anxiété, [dépression]({{< relref "depression.md" >}}).
     - Grossesse  
-      Suivi toutes les 4-6 semaines et supplémentation en vitamine D (*GINA 2021*).
+      Suivi toutes les 4-6 semaines et [supplémentation en vitamine D]({{< relref "vitamine-d.md" >}}) (*GINA 2021*).
     - Problèmes socio-économiques
     - EFR au moins annuelles
 
@@ -489,7 +494,7 @@ Confirmer le diagnostic avant de démarrer un traitement, puis instaurer rapidem
   - Toujours disposer de {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} de secours
   - {{< modal-btn modal-vaccin-pneumocoque >}}Vaccin pneumocoque{{< /modal-btn >}} et coqueluche ++
   - [Carte du patient asthmatique](https://asthme-allergies.org/carte-asthme-agir/)
-  - [Guide patient HAS: vivre avec un asthme (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/guide_patient-asthme.pdf)
+  - [Guide patient HAS: vivre avec un asthme (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-07/mieux_vivre_avec_son_asthme_2008-07-15_15-59-23_222.pdf)
   - [Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/)
 - Mesures hygiéno-diététiques
   - Correction d'un surpoids
@@ -499,7 +504,7 @@ Confirmer le diagnostic avant de démarrer un traitement, puis instaurer rapidem
   Bêtabloquants de façon relative, aspirine et AINS si hypersensibilité.
 - Asthme professionnel  
   Déclarer la maladie professionnelle, médecin du travail, reclassement, RQTH.
-- Association de patients: [Asthme & Allergies](https://asthme-allergies.org/)
+- Association de patients: [Asthme & Allergies](https://asthme-allergies.org)
 
 **NB.** Les purificateurs d'air n'ont pas prouvé d'amélioration du contrôle de l'asthme.
 
@@ -568,6 +573,19 @@ La prescription dépend uniquement du pneumologue:
 [Ameli. Comprendre ma maladie & bien utiliser mon dispositif d'inhalation (PDF)](https://www.ameli.fr/sites/default/files/Documents/5358/document/asthme-bien-utiliser-dispositif-inhalation_assurance-maladie.pdf)
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de l'asthme" "show" %}}
+
+{{< mermaid title="Prise en charge de l'asthme par le médecin généraliste. Dr JB Fron d'après GINA 2023, ERS, SPLF 2021 et HAS" >}}
+graph TB
+  Asthme["<b>Asthme</b>"] --> stable("<b>État stable</b><br>—<br>- Maîtrise de l'asthme: ACT<br>- Auto-surveillance DEP<br>- Examen respiratoire<br>- Éducation thérapeutique<br>- Vérifier Plan d'action<br>- Traitement de fond pris<br>- Observance<br>- Comorbidités: atopique,<br>RGO, obésité, dépression<br>- EFR annuelle<br>± PAI") --> fond("<b>Traitement de fond</b><br>—<br>Paliers 2-3 mois:<br>- Adapter selon maîtrise,<br>traitement selon Niveau GINA") -. "Non contrôlé" .-> pneumologue("- Pneumologue<br>- Ameli Sophia Asthme<br>- École de l'Asthme<br>± ALD 14")
+  Asthme --> exacerbation("<b>Exacerbation</b><br>—<br>Majoration des symptômes ≥ 48h<br>Sévère = corticoïdes oraux<br>ou Urgences") --> gravité("<b>Signes de gravité ?</b><br>—<br>- FC > 110/min, bradycardie<br>- FR ≥ 25/min ou pauses<br>- Impossibilité de terminer<br>une phrase<br>- SpO2 < 92%<br>- DEP ≤ 50%<br>- Hypotension<br>- Silence auscultatoire<br>- Cyanose<br>- Confusion, coma<br>- Épuisement") -- Non --> ambulatoire("<b>Traitement ambulatoire</b><br>—<br>- BACA à volonté<br>avec chambre d'inhalation ++<br>- Quadrupler le CSI<br>- Adulte: prednisone 40-50 mg/j 5-7j<br>- Enfant: 1-2 mg/kg/j (max 40)<br>3-5j<br>- Consultations de surveillance") -. Aggravation .-> gravité
+    gravité -- Oui --> urgences("Appel du SAMU")
+  style Asthme stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+> **CSI =** corticostéroïde inhalé (ou corticoïde inhalé) ; **CSO =** corticostéroïde oral (ou corticoïde oral)
+
+{{%/collapse%}}
 {{%sources%}}
 
 {{< youtube id="kVODyHcz2xk" title="Mesure du débit expiratoire de pointe - Peak flow (IFMK Brest)" >}}

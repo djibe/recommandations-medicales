@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-21T10:49:58+02:00"
 publishdate = "2023-09-22"
-lastmod = "2023-09-22"
+lastmod = "2023-11-27"
 specialites = ["cardiologie"]
 annees = "2023"
 sources = ["ESH", "ESC", "SFC"]
@@ -17,22 +17,23 @@ sctid = "28651003"
 icd10 = "I95.1"
 image = true
 imageSrc = "Illustration de l'hypotension orthostatique. pch.vector / Freepik"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- L'hypotension orthostatique (hO) est une baisse de la pression artérielle d'au moins 20 mmHg de la systolique et/ou 10 mmHg de la diastolique, à 1 minute et/ou 3 minutes après le lever
+- L'hypotension orthostatique (hO) est une baisse de la pression artérielle d'au moins 20 mmHg de la systolique et/ou 10 mmHg de la diastolique, à 1 minute et/ou 3 minutes après le lever (depuis la position assise)
 - L'hypotension orthostatique est souvent iatrogène et est à l'origine d'un surrisque de mortalité, d'événements cardiovasculaires et de {{< modal-btn modal-risque-chute >}}chutes{{< /modal-btn >}}
-- Rechercher une hypotension orthostatique en cas de: diabète, après 65 ans, maladie neurologique, traitement antihypertenseur ou à risque ...
+- Rechercher une hypotension orthostatique régulièrement en cas de: [diabète](/tags/diabete/), après 65 ans, maladie neurologique, traitement antihypertenseur ou à risque ...
 - La prise en charge et le traitement de l'hypotension orthostatique associent: éducation du patient, substituer un traitement à risque, contention veineuse et mesures hygiéno-diététiques
 
-Article lié: [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+Articles liés: [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), [tensiomètres électroniques validés]({{< relref "tensiometres-electroniques-valides.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Hypotension orthostatique
-: Baisse de la PAS ≥ 20 mmHg et/ou de la PAD ≥ 10 mmHg, à 1 minute et/ou 3 minutes après le lever.
+: Baisse de la PAS ≥ 20 mmHg et/ou de la PAD ≥ 10 mmHg, à 1 minute et/ou 3 minutes après le lever depuis la position assise.
 : L'hypotension orthostatique atteint 7% de la population (16% après 65 ans), est souvent **iatrogène** et est associée à un surrisque de: mortalité, d'événements cardiovasculaires, de {{< modal-btn modal-risque-chute >}}chutes{{< /modal-btn >}} (vasodilatateurs ++).
 
 ### Abréviations
@@ -93,7 +94,7 @@ Signes et symptômes à rechercher lorsqu'une hypotension orthostatique est susp
 
 ### Examen clinique
 
-- Pression artérielle couché puis debout à 1 et 3 minutes, fréquence cardiaque
+- Pression artérielle assis puis debout à 1 et 3 minutes (*ESC/ESH 2018*), fréquence cardiaque
 - Poids et variations, taille, IMC
 - Examen cardiorespiratoire
 - Examen neurologique
@@ -127,7 +128,7 @@ Prise en charge et traitement de l'hypotension orthostatique:
 - Rechercher et corriger les autres facteurs de {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}}
 - Si HTO sévère: réduire le traitement antihypertenseur
 
-> *ESH 2023, ESC 2018 et SFHTA 2014*
+> – *ESH 2023, ESC 2018 et SFHTA 2014*
 
 En cas d'hypotension orthostatique résistante, avis cardiologique pour envisager un traitement spécifique (midodrine, fludrocortisone).
 
@@ -145,9 +146,21 @@ Apprendre à identifier les symptômes, connaître les mesures hygiéno-diétét
   - S'accroupir
 - Activation du réflexe gastro-sympathique: boire un grand verre d'eau
 
-> *SFHTA 2014*
+> – *SFHTA 2014*
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de l'hypotension orthostatique" "show" %}}
+
+{{< mermaid title="Prise en charge de l'hypotension orthostatique par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après ESH 2023, ESC et SFC" >}}
+graph TB
+  traitement["Traitement à risque:<br>antihypertenseur,<br>psychotrope, vasodilatateur,<br>anticholinergique,<br>gliflozine, opiacé"] --> hypotension("Dépister une <br>hypotension orthostatique<br>régulièrement<br>—<br>Mesure assis puis<br>debout à 1 et 3 min") --> pec("<b>Traitement</b><br>—<br>- RHD: hydratation,<br>activité physique,<br>éducation<br>- Substituer traitement<br>à risque<br>- Contention veineuse")
+  âge("+65 ans") --> hypotension
+  comorbidité("Pathologie à risque:<br>- Diabète<br>- Parkinson<br>- Démence<br>- HTA") --> hypotension
+  symptômes("Symptômes:<br>- Lipothymie<br>- Perte de connaissance<br>- Vertiges<br>- Chutes<br>- Troubles visuels") --> hypotension
+  style hypotension stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - {{< references/esh-2023 >}}
