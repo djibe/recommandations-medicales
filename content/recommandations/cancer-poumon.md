@@ -7,7 +7,7 @@ synonyms = ["Cancer broncho-pulmonaire", "tumeur pulmonaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T17:35:52+02:00"
 publishdate = "2022-05-12"
-lastmod = "2022-12-20"
+lastmod = "2023-11-28"
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["HAS", "SPLF", "ERS"]
@@ -18,6 +18,7 @@ icd10 = "C34.9"
 image = true
 imageSrc = "Masse hilaire droite avec atélectasie du lobe supérieur droit est notée avec perte de volume de l'hémithorax droit. Assoc Prof Frank Gaillard / Radiopaedia.org"
 todo = "SPF, information du patient NICE et HAS"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -46,6 +47,9 @@ CBPC
 
 CBNPC
 : cancer broncho-pulmonaire non à petites cellules
+
+CLCC
+: centre de lutte contre le cancer
 
 DFGe
 : débit de filtration glomérulaire estimé
@@ -141,7 +145,7 @@ Le scanner n'élimine pas formellement le diagnostic en cas de forte suspicion d
 
 Aucun dépistage du cancer du poumon n'est actuellement recommandé en France.
 
-Aucun intérêt du dépistage par: radiographie thoracique, ECBC, fibroscopie ou TEP-TDM (*SPLF 2021*)
+Aucun intérêt du dépistage par: radiographie thoracique, ECBC, fibroscopie ou TEP-TDM – *SPLF 2021*
 {.alert .alert-info}
 
 ### Préconisations SPLF 2021 pour le dépistage du cancer du poumon
@@ -185,7 +189,7 @@ Et pour une [personne vivant avec le VIH]({{< relref "vih-sida.md" >}}) (PVVIH) 
 - Douleur chronique
 - Altération de l'état général
 
-> *CNS 2017*
+> – *CNS 2017*
 
 #### Information sur le dépistage destinée aux personnes éligibles (SPLF)
 
@@ -204,7 +208,7 @@ Alors qu'un cancer, découvert par des symptômes, est souvent à un stade avanc
 La mise en œuvre de ce dépistage, si elle est accompagnée d'un arrêt du tabac, contribue à une diminution encore plus conséquente de la mortalité. C'est un moment privilégié pour arrêter de fumer si vous fumez encore. Votre médecin peut vous accompagner dans cette démarche. Vous pouvez également consulter les centres anti-tabac dont vous trouverez le numéro d'appel au 39 89 ou sur le site : <https://www.tabac-info-service.fr>.  
 Votre médecin est à votre disposition pour discuter de tous ces éléments.
 
-> *SPLF 2021*
+> – *SPLF 2021*
 
 ### Pour en savoir plus: le dépistage du cancer du poumon aux États-Unis d'Amérique
 
@@ -213,20 +217,32 @@ Votre médecin est à votre disposition pour discuter de tous ces éléments.
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Le traitement curatif dépend de l'évaluation de la RCP (chirurgie, radiothérapie, chimiothérapie, immunothérapie ± associées).  
-Le traitement doit être démarré dans les 6 semaines qui suivent la réalisation du bilan d'extension.
+Adresser en semi-urgence à l'équipe hospitalière de pneumologie pour la suite de la prise en charge du cancer du poumon. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
 
-- ALD
+Le traitement curatif dépend de la RCP (chirurgie, radiothérapie, chimiothérapie, immunothérapie ± associées). Il doit être démarré dans les 6 semaines qui suivent la réalisation du bilan d'extension.
+
+- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
 - Rechercher une exposition professionnelle (amiante ...)
   - [Tableaux des maladies professionnelles](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&motsCles=&planPatho=TABMALPRO_Cancers%2FCancer%20broncho-pulmonaire%20et%20pleural%2FCancer%20broncho-pulmonaire%2FCancer%20primitif)
   - Rédiger un certificat médical initial établissant le lien possible. C'est le patient qui l'adresse à sa CPAM pour la reconnaissance en Maladie Professionnelle.
 - [Guide patient: la prise en charge du cancer du poumon (PDF)](https://www.has-sante.fr/jcms/c_985214/fr/ald-n-30-guide-patient-la-prise-en-charge-du-cancer-du-poumon)
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})  
   Améliore la survie à tous les stades (voir vidéo dans les *Sources*).
-- Association de patients: [De l'Air](https://cancer-poumon.fr/)
+- Association de patients: [De l'Air](https://cancer-poumon.fr)
 - Soins de support, [directives anticipées]({{< relref "directives-anticipees.md" >}})
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du cancer du poumon" "show" %}}
+
+{{< mermaid title="Prise en charge du cancer du poumon par le médecin généraliste. Dr JB Fron d'après HAS 2022, SPLF 2021 et ERS" >}}
+graph TB
+  risque["<b>Patient à haut risque de<br>cancer du poumon</b><br>—<br>Tous les critères remplis:<br>1. 50-74 ans<br>2. Tabac &gt; 10 cig/j 30 ans<br>ou 15 cig/j &gt; 25 ans<br>3. Actif ou sevré ≤ 10 ans<br>4. Accord éclairé<br>5 Volontaire pour sevrage<br>6. Sans comorbidité sévère<br>(voir Dépistage)"] -- Selon SPLF --> dépistage("<b>Dépistage</b><br>—<br>Scanner faible dose.<br>Non recommandé par HAS")
+  suspicion["<b>Suspicion de<br>cancer du poumon</b><br>—<br>(Fumeur actif ou sevré ++)<br>- Toux<br>- Dyspnée<br>- Hémoptysie<br>- Pneumonies récidivantes<br>- AEG<br>- Dysphonie<br>- Syndromes d'envahissement<br>- Syndrome paranéoplasique"] --> bilan("<b>Bilan semi-urgent</b><br>—<br>- Biologie<br>- Radiographie thoracique<br>- Scanner thoracique injecté") --> CLCC(Avis CLCC)
+  style risque stroke:#4150f5, stroke-width:1px
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 {{< video mp4="https://docs.splf.fr/videos/ATS/mission-ats-2022/ATS-Dr-Marjolaine-Georges.mp4" description="Le tabac c'est tabou! sous toutes ses formes! et à tous les stades de cancer! (SPLF)" >}}

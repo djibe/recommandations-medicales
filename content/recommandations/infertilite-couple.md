@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-28T16:02:04+02:00"
 publishdate = "2023-10-02"
-lastmod = "2023-10-26"
+lastmod = "2023-11-28"
 specialites = ["gynecologie-obstetrique"]
 annees = "2023"
 sources = ["ESHRE", "AFU", "CNGOF"]
@@ -150,7 +150,7 @@ L'examen clinique concerne chaque membre du couple.
 - Traitements en cours
 - Toxiques: [alcool]({{< relref "sevrage-alcool.md" >}}), [tabac]({{< relref "arret-tabac.md" >}}) (consommation, paquets-années), cannabis, autres
 - Activité physique
-- Régime alimentaire
+- Régime alimentaire, dépister un TCA ({{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}) (*HAS/FFAB 2019*)
 - Suivi gynécologique, dernier frottis cervico-vaginal
 - Date d'arrêt de la contraception
 - Durée et régularité des cycles
@@ -282,5 +282,10 @@ graph TB
 {{< clinique/reserve-ovarienne >}}
 
 > *CNGOF 2010*
+
+{{% /modal %}}
+{{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
+
+{{< scores/scoff >}}
 
 {{% /modal %}}

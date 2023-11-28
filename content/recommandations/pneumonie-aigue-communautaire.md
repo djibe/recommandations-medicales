@@ -7,7 +7,7 @@ synonyms = ["Pneumopathies infectieuses communautaires"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-15T17:05:04+02:00"
 publishdate = "2023-05-17"
-lastmod = "2023-10-19"
+lastmod = "2023-11-28"
 specialites = ["pneumologie"]
 annees = "2020"
 sources = ["SPILF", "Afssaps"]
@@ -162,7 +162,7 @@ Radiographie thoracique de face systématique (contrôle à 1 mois chez l'enfant
 Autres bilans ambulatoires de la pneumopathie infectieuse:
 
 - Pas d'examens biologiques en ambulatoire (*CEP*) mais proposer une **sérologie VIH**
-- Si suspicion de pneumopathie à bactérie atypique bien tolérée: PCR naso-pharyngée *Mycoplasma pneumoniae*, *Chlamydophila pneumoniae* (147€ non remboursés) + sérologie *M. pneumoniae*
+- Si suspicion de pneumopathie à bactérie atypique bien tolérée: PCR naso-pharyngée *Mycoplasma pneumoniae* (108€ non remboursés), *Chlamydophila pneumoniae* (147€ non remboursés) + sérologie *M. pneumoniae*
 - Le scanner thoracique est un examen de seconde intention devant un cas ou une évolution atypique
 - Électrophorèse des protéines sériques chez le sujet jeune avec germe encapsulé (pneumocoque, *H. influenzae* - *CEP*)  
   Recherche une hypogammaglobulinémie.
@@ -323,6 +323,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Cohen R et al. Mycoplasma pneumoniae. Infovac-France Bulletin Supplémentaire N°11. Novembre 2023.](https://www.infovac.fr/actualites/bulletin-supplementaire-n-11-novembre-2023-mycoplasma-pneumoniae)
 - [Collège des Enseignants de Pneumologie (CEP). Infections broncho-pulmonaires communautaires de l'adulte. Item 154. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_154_INFECTIONS_RESPIRATOIRES_2023.pdf)
 - [GPIP, SFP, AFPA, SPILF. Conduite à tenir autour d'un cas d'infection invasive à Streptocoque du Groupe A. 2022. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/communiques/conduite-a-tenir-cas-contact-infections-invasives-a-sgadef.pdf)
 - {{< references/calendrier-vaccinal >}}

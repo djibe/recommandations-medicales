@@ -19,7 +19,7 @@ icd10 = "N18.9"
 image = true
 imageSrc = "Illustration de l'insuffisance rénale par pch.vector / Freepik"
 flowchart = true
-todo = "Albuminurie perturbée, aliments riches K/P (HAS2023p71), désindexation surface corp"
+todo = "Albuminurie perturbée, aliments riches K/P (HAS2023p71), désindexation surface corporelle +++"
 +++
 
 {{% article-summary %}}

@@ -122,7 +122,7 @@ Les signes cliniques sont modérés chez les caucasiennes.
 - Retentissement psychologique
   - Image du corps
   - Dépister anxiété et dépression: {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
-  - Dépister un trouble du comportement alimentaire: {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}
+  - Dépister un trouble des conduites alimentaire (TCA): {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} (*HAS/FFAB 2019*)
   - Sexualité: score FSFI (*Female sexual function Index*)
 - Qualité de vie (score PCOSQ)
 - Ménopause: l'apparition d'un SOPK à la ménopause doit faire éliminer une cause tumorale

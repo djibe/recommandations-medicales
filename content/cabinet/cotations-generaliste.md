@@ -140,7 +140,7 @@ Actes et surcotations disponibles pour le médecin généraliste.
 
 Cotations NGAP disponibles en sus de la consultation ou de la visite.
 
-{{< table title="Surcotations possibles pour des situations particulières" >}}
+{{< table title="Surcotations possibles pour des situations particulières" class="table-wrap" >}}
 | Code NGAP | Description                                                                                                                  | Tarif supp (€) |
 |-----------|------------------------------------------------------------------------------------------------------------------------------|---------------:|
 | RQD       | Demande de téléexpertise (à 100%)                                                                                            |             10 |

@@ -7,17 +7,18 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-09-26T14:50:48+02:00"
 publishdate = "2022-10-20"
-lastmod = "2023-07-24"
+lastmod = "2023-11-28"
 specialites = ["psychiatrie"]
 annees = "2019"
 sources = ["HAS", "FFAB"]
-tags = ["depistage", "vitamine d"]
+tags = ["adolescent", "depistage", "vitamine d"]
 anglais = ["Bulimia nervosa"]
 sctid = "78004001"
 icd10 = "F50.2"
 image = true
 imageSrc = "Illustration de la boulimie par storyset / Freepik"
 todo = "borderline: https://jamanetwork.com/journals/jama/article-abstract/2801843, complications"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -89,7 +90,8 @@ TOC
 {{% /collapse %}}
 {{%collapse "Quand évoquer une boulimie ?" %}}
 
-**NB.** Les personnes souffrant de *troubles des conduites alimentaires* (TCA) consultent plus fréquemment, notamment pour des troubles digestifs.
+Les personnes souffrant de *troubles des conduites alimentaires* (TCA) consultent plus fréquemment, notamment pour des troubles digestifs.
+{.alert .alert-info}
 
 ### Facteurs de risque de boulimie
 
@@ -117,25 +119,18 @@ Un repérage ciblé de la boulimie est recommandé chez les groupes à risque:
   - Troubles de la personnalité (personnalité limite)
   - Troubles de déficit de l'attention avec hyperactivité
   - Abus sexuel, maltraitance
-- Signes cliniques d'appel
-  - Demande de perte de poids ou régime amaigrissant
-  - Préoccupations autour du poids (surtout en IMC normal)
-  - Restrictions alimentaires, exclusions, détox
-  - Usage inapproprié de laxatifs, diurétiques, compléments alimentaires
-  - Inquiétude de l'entourage pour le comportement alimentaire
-  - Exercice physique excessif
 
-### Facteurs devant faire rechercher une boulimie hyperphagique
+### Facteurs devant faire rechercher une hyperphagique boulimique
 
-- Surpoids, obésité, demande de chirurgie bariatrique
-- Échec d'une chirurgie bariatrique
+- Surpoids, [obésité]({{< relref "obesite-adulte.md" >}})
+- Demande ou échec de chirurgie bariatrique
 - Troubles bipolaires
 - Traitement antipsychotique (amplifie la prise de poids)
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-**NB.** Chez les jeunes, il est recommandé de réaliser l'entretien avec puis sans les accompagnants.
+**NB.** Chez les jeunes, il est recommandé de réaliser l'entretien avec, puis sans les accompagnants.
 
 ### Aborder la boulimie
 
@@ -151,17 +146,23 @@ Le repérage de la boulimie peut également être réalisé avec un questionnair
 
 ### Interrogatoire
 
-Un repérage positif doit faire reprendre l'ensemble des éléments cliniques détaillés plus haut (voir *Quand évoquer une boulimie*).  
-Il permet une évaluation exhaustive des atteintes somatiques et psychiatriques.
+Un repérage positif doit faire reprendre l'ensemble des éléments cliniques détaillés plus haut (voir *Quand évoquer une boulimie*). Il permet une évaluation exhaustive des atteintes somatiques et psychiatriques.
 
 L'interrogatoire explore également:
 
 - Identifier la demande ou la plainte
 - Antécédents (voir *Quand évoquer une boulimie*)
 - Autres situations à dépister
-  - Femme enceinte: nausées/vomissements intenses, prise de poids insuffisante/excessive
-  - Diabète type 1: variations importantes d'HbA1c ou poids (mésusage d'insuline). Questionnaires adaptés (DEPS-R, m-EDI, m-SCOFF)
+  - Femme enceinte: [nausées/vomissements intenses]({{< relref "vomissements-grossesse-hyperemese-gravidique.md" >}}), prise de poids insuffisante/excessive
+  - [Diabète type 1]({{< relref "diabete-type-1.md" >}}): variations importantes d'HbA1c ou poids (mésusage d'insuline). Questionnaires adaptés (DEPS-R, m-EDI, m-SCOFF)
 - Traitements en cours
+- Signes cliniques évocateurs de boulimie nerveuse
+  - Demande de perte de poids ou régime amaigrissant
+  - Préoccupations autour du poids (surtout en IMC normal)
+  - Restrictions alimentaires, exclusions, détox
+  - Usage inapproprié de laxatifs, diurétiques, compléments alimentaires
+  - Inquiétude de l'entourage pour le comportement alimentaire
+  - Exercice physique excessif
 - Histoire des troubles
   - Ancienneté, installation
   - Fréquence et déroulement des crises (où, quand, comment, facteur déclenchant)
@@ -176,9 +177,9 @@ L'interrogatoire explore également:
   - Automutilations ou boulimie sévère: rechercher des antécédents d'abus ou de troubles de la personnalité
   - Obésité et crises boulimiques: rechercher un trouble bipolaire
   - Homme: envisager la recherche de signes de schizophrénie
-- Diagnostic différentiel: signes de [ténia]({{< relref "tenia.md" >}}), hyperthyroïdie, Cushing ...
+- Étayer le diagnostic différentiel: signes de [ténia]({{< relref "tenia.md" >}}), [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}), [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) ...
 
-Envisager la recherche de schizophrénie chez tout homme atteinte de TCA
+Envisager la recherche de schizophrénie chez tout homme atteint de TCA
 {.alert .alert-warning}
 
 Freins aux soins les plus souvent observés: la honte, la peur, la méconnaissance, le déni, la recherche de solutions immédiates, l'accès aux soins, la chronicisation ...
@@ -233,7 +234,7 @@ Examens proposés pour évaluer le retentissement de la boulimie:
   - ECG
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la boulimie" %}}
 
 **Objectifs majeurs de la prise en charge de la boulimie:** réduire les crises de boulimie et de purge et un retour à une scolarité/vie professionnelle stables.  
 Prise en charge concomitante du TCA et de l'**obésité**.
@@ -273,8 +274,7 @@ La prise en charge de la boulimie est pluridisciplinaire et chronique, ambulatoi
 - Suivi psychologique
   - Après le bilan initial pluridisciplinaire
   - Techniques: auto-support ([guides FFAB](https://www.ffab.fr/trouver-de-l-aide/livres)), thérapies cognitivo-comportementales (TCC), thérapies comportementales dialectiques, thérapies interpersonnelles, psychothérapies psychodynamiques ou d'inspiration analytique, thérapies familiales.
-- Antidépresseur ISRS  
-  En 2<sup>e</sup> ligne, associé à la psychothérapie (ex. sertraline)
+- En 2<sup>e</sup> ligne: {{< modal-btn modal-isrs >}}Antidépresseur ISRS{{< /modal-btn >}} associé à la psychothérapie
 - Diététicien  
   Veiller à l'absence de recours à des régimes ou coupes-faim.
 - Insertion sociale, aides voire MDPH
@@ -327,6 +327,21 @@ Autres ressources: Fédération FNA-TCA {{<phone>}}06 87 41 86 66{{</phone>}}, [
   - Troubles de la personnalité
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la boulimie nerveuse" "show" %}}
+
+{{< mermaid title="Prise en charge de la boulimie par le médecin généraliste. Dr JB Fron d'après HAS/FFAB 2019" >}}
+graph TB
+  risque["<b>Sujet à risque de boulimie</b><br>—<br>- Adolescente, étudiant<br>- Mannequin<br>- Sportif à catégorie de poids<br>Danse, gym, athlétisme ...<br>- ATCD perso/familial de TCA"] --> dépistage("Dépistage par questionnaire SCOFF<br>ou interrogatoire spécifique") -- Positif --> clinique("<b>Clinique</b><br>—<br>- Plainte<br>- Signes cliniques<br>- Histoire des troubles<br>- Retentissement ++<br>- Comorbidités psychiatriques<br>- Risque suicidaire<br>- Homme: envisager schizophrénie<br>- Examen physique") --> hospitalisation("≥ 1 parmi ?<br>- Hypokaliémie majeure<br>- État de mal boulimique<br>- Risque suicidaire") -- Non --> bilan("<b>Bilan</b><br>—<br>- Biologique<br>- Dentaire<br>- Gynécologique<br>- Diététique<br>± Ostéodensitométrie<br>- Autres si vomissements") --> traitement("<b>Traitement de la boulimie</b><br>—<br>- Suivi spécialisé: FFAB,<br>nutritionniste, psychiatre<br>- Somatique<br>- Impliquer la famille<br>- Suivi psychologique<br>- Diététicien<br>- Associations<br>- Information<br>- Sévère: ALD 23")
+    hospitalisation -- Oui --> urgence(Hospitalisation)
+    dépistage -- Diagnostic différentiel --> différentiel("- Ténia<br>- Tumeur cérébrale, démence<br>- Épilepsie partielle<br>- Endocrinopathie<br>- Sd Kleine-Levin<br>- Trouble psychiatrique")
+  symptômes["<b>Suspicion de boulimie<br>nerveuse</b><br>—<br>Femme surtout:<br>- Variations rapides du poids<br>- Surpoids/obésité résistant<br>- DT1, DT2, cœliaque<br>- Aménorrhée, infertilité<br>- SOPK<br>- Symptômes digestifs,<br>vomissements<br>hypokaliémie inexpliqués<br>- Manifestations psychiatriques<br>TS, automutilations,<br>addictions, tble anxieux,<br>maltraitance ..."] --> dépistage
+  hyperphagie["<b>Suspicion d'hyperphagie<br>boulimique</b><br>—<br>- Surpoids, obésité<br>- Demande ou échec<br>chirurgie bariatrique<br>- Trouble bipolaire<br>- Traitement antipsychotique"] --> dépistage
+  style risque stroke:#4150f5, stroke-width:1px
+  style symptômes stroke:#4150f5, stroke-width:1px
+  style hyperphagie stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles des conduites alimentaires de l'adolescent. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/medecine-ladolescent/troubles-conduites-alimentaires-ladolescent)
@@ -343,5 +358,10 @@ Autres ressources: Fédération FNA-TCA {{<phone>}}06 87 41 86 66{{</phone>}}, [
 {{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
 
 {{< scores/scoff >}}
+
+{{% /modal %}}
+{{% modal title="Antidépresseurs ISRS" id="modal-isrs" size="lg"%}}
+
+{{< traitements/isrs-edc >}}
 
 {{% /modal %}}

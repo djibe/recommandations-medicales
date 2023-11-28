@@ -32,7 +32,7 @@ todo = "annexe 6"
 {{%collapse "Définitions" %}}
 
 Nausées et vomissements gravidiques
-: Nausées et vomissements débutant au premier trimestre de grossesse en l'absence d'autre étiologie.
+: Nausées et vomissements débutant au premier trimestre de grossesse en l'absence d'autre étiologie (ex. [boulimie nerveuse]({{< relref "boulimie-hyperphagie.md" >}}) ...).
 : Ils sont **non compliqués** en l'absence de critères d'hyperémèse gravidique.
 : Ils atteignent 50-90% des femmes enceintes, souvent modérés sans atteinte de la qualité de vie et cèdent à la **fin du premier trimestre**.
 : 35% ont des symptômes invalidants avec un impact marqué sur la vie personnelle. 0,3 à 3,6% sont hospitalisées.
@@ -101,6 +101,7 @@ Les posologies ne sont pas encore disponibles faute d'accès aux articles
 
 Prise en charge et traitements recommandés pour les nausées et vomissements pendant la grossesse:
 
+- Dépister un trouble des conduites alimentaires ({{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}) (*HAS/FFAB 2019*)
 - Arrêter les vitamines et la [supplémentation en fer]({{< relref "anemie.md" >}}), sauf la vitamine B9
 - Adapter le mode de vie selon les préférences personnelles
 - <mark>Traitements des nausées de première intention</mark>
@@ -152,12 +153,17 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Deruelle P. et al. Consensus formalisé d'experts du Collège national des gynécologues et obstétriciens français : prise en charge des nausées et vomissements gravidiques et de l'hyperémèse gravidique. Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2022/CFE-Nausees-et-vomissements-gravidiques-2022.pdf?x55732)
+- [Deruelle P et al. Consensus formalisé d'experts du Collège national des gynécologues et obstétriciens français : prise en charge des nausées et vomissements gravidiques et de l'hyperémèse gravidique. Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2022/CFE-Nausees-et-vomissements-gravidiques-2022.pdf?x55732)
 - [Centre de Référence sur les Agents Tératogènes. Antiémétiques - Grossesse et allaitement. 02/11/2021.](http://le-crat.fr/spip.php?page=article&id_article=133)
 
 {{%/sources%}}
 {{% modal title="Score PUQE des vomissements gravidiques" id="modal-puqe"%}}
 
 {{< scores/puqe >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
+
+{{< scores/scoff >}}
 
 {{% /modal %}}

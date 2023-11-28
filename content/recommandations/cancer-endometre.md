@@ -6,7 +6,7 @@ synonyms = ["Carcinome endométrial"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-16T10:38:54+01:00"
 publishdate = "2022-12-17"
-lastmod = "2023-09-11"
+lastmod = "2023-11-28"
 specialites = ["gynecologie-obstetrique"]
 annees = "2016"
 sources = ["ESMO", "HAS", "INCa", "ACOG"]
@@ -16,6 +16,7 @@ sctid = "93781006"
 icd10 = "C54.1"
 image = true
 imageSrc = "Carcinome endométrial chez une femme de 40 ans. Cas d'Aneta Kecler-Pietrzyk, Radiopaedia.org, rID: 53104"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -47,7 +48,7 @@ Surtout par présence d'œstrogènes en excès:
   - Dépistage échographique annuel à partir de 35 ans
   - Hystérectomie totale avec annexectomie discutée à partir de 40 ans
 
-> *ESMO*
+> – *ESMO*
 
 ### Épidémiologie du cancer de l'endomètre en France
 
@@ -62,6 +63,9 @@ Surtout par présence d'œstrogènes en excès:
 ACOG
 : {{%lang%}}The American College of Obstetricians and Gynecologists{{%/lang%}}
 
+CLCC
+: centre de lutte contre le cancer
+
 RCP
 : réunion de concertation pluridisciplinaire
 
@@ -72,7 +76,7 @@ VPN
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << Le cancer de l'endomètre est la première cause à évoquer devant des métrorragies post-ménopausiques >> (*HAS 2010*)
+> << Le cancer de l'endomètre est la première cause à évoquer devant des métrorragies post-ménopausiques >> – *HAS 2010*
 {.alert .alert-warning}
 
 ### Interrogatoire
@@ -91,7 +95,7 @@ Signes et symptômes évocateurs à rechercher en cas de suspicion d'un cancer d
   - [Cystites répétées]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
 - +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
-> << Le diagnostic doit également être envisagé devant des métrorragies chez les femmes non ménopausées >> (*HAS 2010*)
+> << Le diagnostic doit également être envisagé devant des métrorragies chez les femmes non ménopausées >> – *HAS 2010*
 {.alert .alert-info}
 
 ### Examen clinique
@@ -104,14 +108,14 @@ Signes et symptômes évocateurs à rechercher en cas de suspicion d'un cancer d
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> << Contrairement au cancer du col de l'utérus, il n'existe pas de dépistage du cancer de l'endomètre >> (*HAS 2010*)
+> << Contrairement au cancer du col de l'utérus, il n'existe pas de dépistage du cancer de l'endomètre >> – *HAS 2010*
 {.alert .alert-info}
 
 ### Échographie pelvienne sus-pubienne et endovaginale
 
 **Échographie utérine** systématique en semi-urgence devant des métrorragies suspectes pour évaluer l'épaisseur de l'endomètre et rechercher d'autres anomalies pelviennes.
 
-> Une épaisseur endométriale ≤ 4 mm a une valeur prédictive négative supérieure à 99% (*ACOG 2020*)
+> Une épaisseur endométriale ≤ 4 mm a une valeur prédictive négative supérieure à 99% – *ACOG 2020*
 
 En cas d'hyperplasie endométriale, hystéroscopie avec **biopsie endométriale** systématique pour examen anatomopathologique.
 
@@ -124,7 +128,7 @@ Le dosage du **marqueur tumoral CA 125** peut être discuté initialement en cas
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de l'endomètre" %}}
 
-Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP).
+Adresser en semi-urgence à l'équipe hospitalière de gynécologie pour la suite de la prise en charge du cancer de l'endomètre. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC). Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP).
 
 La prise en charge du cancer de l'endomètre repose essentiellement sur la chirurgie avec **hystérectomie totale** et salpingo-ovariectomie bilatérale si la patiente est opérable.
 
@@ -165,6 +169,16 @@ Suivi après traitement du cancer de l'endomètre:
 **Hématurie** après radiothérapie pelvienne: éliminer sans délai un cancer de la vessie.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du cancer de l'endomètre" "show" %}}
+
+{{< mermaid title="Prise en charge du cancer de l'endomètre par le médecin généraliste. Dr JB Fron d'après ESMO 2016, HAS, INCa et ACOG" >}}
+graph TB
+  suspicion["<b>Suspicion de cancer de l'endomètre</b><br>—<br>- Métrorragies post-ménopausiques ++<br>- Métrorragies avant la ménopause<br>- Leucorrhées<br>- Douleurs pelviennes<br>- Cystites répétées"] --> bilan("Échographie pelvienne<br>sus-pubienne et endovaginale<br>semi-urgente") --"Endomètre ≤ 4 mm"--> négatif("Autres étiologie<br>VPN &gt; 99%")
+  bilan --"&gt; 4 mm"--> avis("Avis gynécologique<br>en CLCC semi-urgent<br>+ IRM pelvienne et des aires<br>ganglionnaires lombo-aortiques")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [ACOG. Management of Endometrial Intraepithelial Neoplasia or Atypical Endometrial Hyperplasia. 2023.](https://www.acog.org/clinical/clinical-guidance/clinical-consensus/articles/2023/09/management-of-endometrial-intraepithelial-neoplasia-or-atypical-endometrial-hyperplasia)
