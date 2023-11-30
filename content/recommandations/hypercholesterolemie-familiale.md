@@ -7,25 +7,26 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-18T15:03:34+02:00"
 publishdate = "2023-04-21"
-lastmod = "2023-04-21"
+lastmod = "2023-11-30"
 specialites = ["cardiologie"]
 annees = "2021"
-sources = ["ESC", "Biblio"]
+sources = ["ESC", "EAS"]
 tags = ["risque cardiovasculaire"]
 anglais = ["Familial hypercholesterolaemia (FH)", "familial hypercholesterolemia"]
 sctid = "398036000"
 icd10 = "E78.0"
 image = true
-imageSrc = "Xanthélasma de la paupière supérieure. Bobtheowl2, CC BY-SA 3.0, via Wikimedia Commons"
+imageSrc = "Xanthélasma de la paupière supérieure au cours d'une hypercholestérolémie familiale. Bobtheowl2, CC BY-SA 3.0, via Wikimedia Commons"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
 - Évoquer une hypercholestérolémie familiale (HF) en cas de: hérédité cardiovasculaire, coronaropathie avant 55/60 ans (H/F), proches avec xanthomes des tendons ou HF, LDL > 1,9 g/L (1,5 chez l'enfant), arc cornéen complet avant 45 ans
-- Signes d'HF: hérédité et événements précoces cardiovasculaires, xanthomes, arc cornéen, xanthélasma
-- Bilan de l'hypercholestérolémie familiale: bilan lipidique avec contrôle, créatininémie, albuminurie sur échantillon, TSH, consultation de cardiologie
+- Le diagnostic d'hypercholestérolémie familiale est clinique sur les critères *Dutch Lipid Clinic Network*: hérédité et événements précoces cardiovasculaires, xanthomes, arc cornéen, xanthélasma (voir *Critères diagnostiques*)
+- Bilan de l'hypercholestérolémie familiale: bilan lipidique avec confirmation, créatininémie, albuminurie sur échantillon, TSH, consultation de cardiologie
 - Le risque cardiovasculaire est au moins {{< modal-btn modal-rcv >}}élevé{{< /modal-btn >}}
-- Prise en charge de l'hypercholestérolémie familiale: statine de forte intensité pour LDL < 0,7 g/L et réduction ≥ 50%, ± ézétimibe ± anti-PCSK9, correction des facteurs de risque cardiovasculaire et suivi pluridisciplinaire
+- Prise en charge de l'hypercholestérolémie familiale: statine de forte intensité pour LDL < 0,7 g/L et réduction ≥ 50%, ± ézétimibe ± anti-PCSK9, correction des facteurs de risque cardiovasculaire, suivi pluridisciplinaire et dépistage familial
 
 Chapitres liés: [statines]({{< relref "statines.md" >}}) et [syndrome coronarien chronique]({{< relref "syndrome-coronarien-chronique.md" >}})
 
@@ -34,7 +35,7 @@ Chapitres liés: [statines]({{< relref "statines.md" >}}) et [syndrome coronarie
 
 Hypercholestérolémie familiale (HF)
 : Maladie métabolique génétique autosomique dominante provoquant une exposition à des taux élevés de LDL cholestérol (par dysfonction des récepteurs aux LDL) sur toute la vie et d'un {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}} (coronaropathie +++). Les sujets homozygotes (HFHo) ont des taux de LDL très élevés (+5 g/L contre 1,55 à 5 g/L pour les hétérozygotes).
-: L'hypercholestérolémie familiale atteint de 2 à 5% de la population (avec de fortes variations selon les origines) et est sous-diagnostiquée. 5% des syndromes coronariens avant 60 ans et 20% avant 45% sont attribués à l'hypercholestérolémie familiale.
+: La prévalence de l'hypercholestérolémie familiale est estimée à 0,5% (avec de fortes variations selon les origines) et est sous-diagnostiquée. 5% des syndromes coronariens avant 60 ans et 20% avant 45% sont attribués à l'hypercholestérolémie familiale.
 
 {{< table title="Sujets de population générale ayant 80% de probabilité d'hypercholestérolémie familiale selon l'âge et le taux de LDL cholestérol d'après Bouhairie and Goldberg 2015" >}}
 |   Âge | LDL cholestérol (≥ à, g/L) |
@@ -60,6 +61,9 @@ HF
 {{%collapse "Critères diagnostiques de l'hypercholestérolémie familiale" %}}
 
 ### Critères Dutch Lipid Clinic Network Diagnostic Criteria pour le diagnostic de l'hypercholestérolémie familiale hétérozygote
+
+Le diagnostic d'hypercholestérolémie familiale est clinique avec les *critères DLCN* ci-dessous (probable au-delà de 5 et certaine pour un score > 8).
+{.alert .alert-info}
 
 {{< scores/dutch-lipid-clinic-network >}}
 
@@ -104,7 +108,7 @@ En l'absence de signes cliniques (xanthomes) et d'hérédité cardiovasculaire o
 
 > Intérêt du dépistage de l'HF par un bilan lipidique entre 9 et 11 ans en cas d'hérédité cardiovasculaire ou d'hypercholestérolémie (*Bouhairie 2015*)
 
-Bilan biologique: bilan lipidique de contrôle à 1-12 semaines d'intervalle, créatininémie, albuminurie sur échantillon, TSH
+Bilan biologique: bilan lipidique de contrôle à 1-12 semaines d'intervalle, créatininémie, albuminurie sur échantillon, [TSH](/tags/tsh/)
 
 > Le bilan lipidique n'a pas besoin d'être réalisé à jeun (*ESC 2021*)
 
@@ -149,6 +153,15 @@ Le traitement doit être débuté rapidement:
 D'autres traitements exceptionnels sont possibles: bypass iléal voire transplantation hépatique.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de l'hypercholestérolémie familiale" "show" %}}
+
+{{< mermaid title="Prise en charge de l'hypercholestérolémie familiale par le médecin généraliste. Dr JB Fron d'après ESC 2021 et 2019" >}}
+graph TB
+  suspicion["<b>Suspicion<br>d'hypercholestérolémie familiale (HF)</b><br>—<br>- Hérédité cardiovasculaire<br>- Coronaropathie précoce<br>- HF ou xanthomes familiaux<br>- LDL &gt; 1,9 g/L (enfant: 1,5)<br>- Arc cornéen avant 45 ans"] --> bilan("Confirmer l'hypercholestérolémie<br>—<br>- Bilan lipidique<br>- Créatininémie<br>- Albuminurie<br>- TSH") --> DLCN("Critères diagnostiques<br>Dutch Lipid Clinic Network Diagnostic") --> cardiologue(Bilan cardiologique) --> traitement("<b>Prise en charge</b><br>—<br>Risque cardiovasculaire (très) élevé:<br>- Suivi spécialisé<br>- Correction des FRCV:<br>tabac, tension, activité, sédentarité,<br>obésité.<br>- Statine pour LDL &lt; 0,7 g/L<br>et réduction≥ 50%<br>± Ézétimibe<br>± Anti-PCSK9<br>Voire LDL-aphérèse")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - {{< references/esc-cvd >}}
@@ -156,11 +169,7 @@ D'autres traitements exceptionnels sont possibles: bypass iléal voire transplan
 - [Collège National des Enseignants de Cardiologie. Endocardite infectieuse. Item 220 UE8. Cardiologie 2e édition. 2019. (PDF)](https://www.sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch03_dyslipidemie.pdf)
 - {{< references/college-endocrino >}}
 - [Bouhairie VE, Goldberg AC. Familial hypercholesterolemia. Cardiol Clin. 2015.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4472364/)
-
-### Bibliographie en attente
-
 - [Nordestgaard BG et al. Familial hypercholesterolaemia is underdiagnosed and undertreated in the general population: guidance for clinicians to prevent coronary heart disease: consensus statement of the European Atherosclerosis Society. Eur Heart J. 2013.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23956253/)
-- EAS
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}

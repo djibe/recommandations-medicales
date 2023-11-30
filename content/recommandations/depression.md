@@ -6,7 +6,7 @@ synonyms = ["Syndrome dépressif", "épisode dépressif caractérisé (EDC)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-14T20:15:23+02:00"
 publishdate = "2023-11-20"
-lastmod = "2023-11-22"
+lastmod = "2023-11-30"
 specialites = ["psychiatrie"]
 annees = "2023"
 sources = ["ACP", "VA", "HAS"]
@@ -293,6 +293,7 @@ Les symptômes doivent être présents depuis au moins 15 jours avec changement 
 - Retentissement socio-professionnel
 - **Évaluation du risque suicidaire**
 - Sujet âgé: rechercher une maladie neuro-dégénérative (Alzheimer, Parkinson), [MMSE (PDF)](http://www.sgca.fr/outils/mms.pdf)
+- Enfant: irritabilité, baisse des performances scolaires, variations de poids
 
 Avec l'accord du patient, interroger l'entourage.
 
@@ -464,6 +465,7 @@ La prise en charge de la dépression nécessite des consultations dédiées. Pou
 
 [Annuaire des psychiatres](https://www.sante.fr/recherche/trouver/psychiatre/Autour%20de%20moi) et des [Centres médico-psychologiques](https://www.sante.fr/recherche/trouver/cmp) (CMP).
 
+- Correction des facteurs psycho-sociaux
 - Activité physique régulière (marche, yoga, Qi Gong)  
   Prescription d'*activité physique adaptée* (APA).
 - Activité sociale régulière
@@ -499,13 +501,17 @@ Classes thérapeutiques d'antidépresseurs: {{< modal-btn modal-isrs >}}ISRS{{< 
   << l'utilisation d'antidépresseurs pendant la grossesse n'augmente pas le risque de troubles du développement neurologique chez l'enfant >> (*Suarez et al 2022*)
 - Délai d'action plus long chez le sujet âgé (maintenir min 1 an après rémission)
 - Thérapies autres: acupuncture (*ACP*)
-- Si anxiété, agitation, insomnies invalidantes: benzodiazépine pendant 2 semaines
-- Arrêt progressif de l'antidépresseur (> 1 mois – *NICE 2009*) après décision partagée au-delà de 6-12 mois de rémission  
+- Si anxiété, agitation, insomnies invalidantes: [benzodiazépine]({{< relref "benzodiazepines.md" >}}) pendant 2 semaines
+- Arrêt progressif de l'antidépresseur (> 1 mois – *BAP*, *NICE*) après décision partagée au-delà de 6-12 mois de rémission  
   Prolonger le traitement (2 ans) en cas de trouble dépressif récurrent.
+
+> Selon *BAP 2015*, choix pour une efficacité maximale recherchée: clomipramine, venlafaxine ≥ 150 mg, escitalopram 20 mg, sertraline voire amitriptyline ou mirtazapine.
 
 ### Autres traitements de la dépression
 
 Les autres traitements, médicamenteux (IMAO, buspirone, kétamine, eskétamine) ou non (électroconvulsivothérapie ECT, neurochirurgie) relèvent du psychiatre.
+
+La bithérapie est également une décision du spécialiste: grade A (quétiapine, aripiprazole, risperidone), grade B (olanzapine, mirtazapine voire bupropion, buspirone).
 
 > << Au total, dans l'indication de traitement de la dépression résistante chez l'adulte, malgré un profil de sécurité rassurant, les données retenues liées à la rTMS (stimulation électrique transcrânienne) ne montrent pas un impact clinique favorable >> – *HAS 2022*
 
@@ -558,6 +564,7 @@ graph TB
 - [Royal College of Psychiatrists. Position statement on antidepressants and depression. 2019. (PDF)](https://www.bap.org.uk/pdfs/PS04-19-antidepressants-and-depression.pdf)
 - [HAS. Coordination entre le médecin généraliste et les différents acteurs de soins dans la prise en charge des patients adultes souffrant de troubles mentaux – états des lieux, repères et outils pour une amélioration. 2018.](https://www.has-sante.fr/jcms/c_2874187/fr/coordination-entre-le-medecin-generaliste-et-les-differents-acteurs-de-soins-dans-la-prise-en-charge-des-patients-adultes-souffrant-de-troubles-mentaux-etats-des-lieux-reperes-et-outils-pour-une-amelioration)
 - [HAS. Épisode dépressif caractérisé de l'adulte : prise en charge en soins de premier recours. 2017.](https://www.has-sante.fr/jcms/p_3261767/fr/depression)
+- [Cleare A et al. Evidence-based guidelines for treating depressive disorders with antidepressants: A revision of the 2008 British Association for Psychopharmacology guidelines. J Psychopharmacol. 2015. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Antidepressants.pdf)
 - [Davidson JR et al; British Association for Psychopharmacology. A psychopharmacological treatment algorithm for generalised anxiety disorder (GAD). J Psychopharmacol. 2010.](https://pubmed.ncbi.nlm.nih.gov/18832431/)
 - [Santé Publique France. Dépression et anxiété.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/sante-mentale/depression-et-anxiete)
 - [Ameli Médecins. La santé mentale en soins primaires.](https://www.ameli.fr/hauts-de-seine/medecin/sante-prevention/sante-mentale-soins-primaires)
@@ -574,7 +581,6 @@ graph TB
 - [HAS. Idées et conduites suicidaires chez l'enfant et l'adolescent : prévention, repérage, évaluation et prise en charge. 2021.](https://www.has-sante.fr/jcms/p_3288864/fr/idees-et-conduites-suicidaires-chez-l-enfant-et-l-adolescent-prevention-reperage-evaluation-et-prise-en-charge)
 - [Binder P et al. Detection of adolescent suicidality in primary care: an international utility study of the bullying-insomnia-tobacco-stress test. Early Interv Psychiatry. 2020.](https://pubmed.ncbi.nlm.nih.gov/31058453/)
 - [Williams JB. A structured interview guide for the Hamilton Depression Rating Scale. Arch Gen Psychiatry. 1988;45(8):742-747. doi:10.1001/archpsyc.1988.01800320058007](https://pubmed.ncbi.nlm.nih.gov/3395203/)
-- [Cleare A et al. Evidence-based guidelines for treating depressive disorders with antidepressants: A revision of the 2008 British Association for Psychopharmacology guidelines. J Psychopharmacol. 2015. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Antidepressants.pdf)
 - [Dumesnil H et al. La prise en charge de la dépression en médecine générale de ville. Drees. 2012.](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/la-prise-en-charge-de-la-depression-en-medecine-generale-de-0)
 
 {{%/sources%}}

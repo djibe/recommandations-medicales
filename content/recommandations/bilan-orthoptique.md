@@ -17,6 +17,7 @@ sctid = "252847008"
 icd10 = ""
 image = true
 imageSrc = "Illustration du bilan orthoptique par rawpixel.com / Freepik"
+todo = "https://www.has-sante.fr/jcms/c_272178/fr/depistage-precoce-des-troubles-de-la-fonction-visuelle-chez-l-enfant-pour-prevenir-l-amblyopie"
 +++
 
 {{%article-summary%}}
@@ -25,7 +26,7 @@ imageSrc = "Illustration du bilan orthoptique par rawpixel.com / Freepik"
 - Accès libre à l'orthoptiste pour la prescription de lunettes de 16 à 42 ans  
   Patient déjà porteur de lunettes: possible si bilan ophtalmologique dans les 5 ans (3 ans si lentilles de contact).
 - Accès direct à l'orthoptiste pour le dépistage de l'amblyopie et de troubles visuels entre 9 à 15 mois puis entre 30 mois et 5 ans
-- [Annuaire des orthoptistes en France](http://annuairesante.ameli.fr/)
+- [Annuaire des orthoptistes de France](https://www.sante.fr/recherche/trouver/orthoptiste/Autour%20de%20moi)
 
 {{%/article-summary%}}
 {{%collapse "Indications au bilan orthoptique" "show" %}}

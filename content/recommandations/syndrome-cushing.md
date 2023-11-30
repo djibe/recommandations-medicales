@@ -189,6 +189,7 @@ La prise en charge des femmes enceintes et des enfants avec un syndrome de Cushi
 
 La prise en charge du syndrome de Cushing par l'endocrinologue vise à confirmer la maladie, rechercher l'étiologie et démarrer un traitement spécifique:
 
+- Déclaration [ALD 31]({{< relref "affection-longue-duree.md" >}})
 - Information du patient: [sfendocrino Cushing Infos](https://www.sfendocrino.org/cushing-infos/)
 - Association de patients: [Association Surrénales](https://www.surrenales.com)
 

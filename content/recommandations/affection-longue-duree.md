@@ -104,7 +104,8 @@ Exemples:
 - Maladie de Paget, [maladie de Verneuil]({{< relref "maladie-verneuil.md" >}})
 - Ulcère cutané chronique ou récidivant avec retentissement fonctionnel sévère
 - Transsexualisme
-- Stérilité
+- [Infertilité]({{< relref "infertilite-couple.md" >}})
+- [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}})
 
 {{% /collapse %}}
 {{%collapse "ALD exonérante - Polypathologies ALD 32" %}}

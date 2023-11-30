@@ -18,7 +18,7 @@ icd10 = "I83.0"
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter"
+todo = "descr > summary > liens > photo > newsletter, ALD 31 récidivant"
 +++
 
 {{%article-summary%}}
@@ -63,9 +63,9 @@ TVP
 Interrogatoire en cas d'ulcère de la jambe:
 
 - Antécédents  
-  Phlébologiques (ulcère veineux), maladie veineuse thrombo-embolique (MVTE ou MTEV: thrombose veineuse profonde TVP, superficielle TVS ou embolie pulmonaire), traumatisme ou chirurgie des membres inférieurs
-- Antécédents familiaux: varices
-- Facteurs de risque cardiovasculaires
+  Phlébologiques (varices, ulcère veineux), maladie veineuse thrombo-embolique (MVTE ou MTEV: thrombose veineuse profonde TVP, superficielle TVS ou embolie pulmonaire), traumatisme ou chirurgie des membres inférieurs
+- Facteurs de risque veineux: antécédents familiaux de varices
+- Facteurs de risque cardiovasculaire
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
