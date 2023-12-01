@@ -6,8 +6,8 @@ description = "TODO:"
 synonyms = []
 auteurs = ["Mustapha DAHLAB", "Jean-Baptiste FRON"]
 date = "2023-11-20T12:00:20+01:00"
-publishdate = "2023-11-20"
-lastmod = "2023-11-20"
+publishdate = "2023-11-30"
+lastmod = "2023-11-30"
 specialites = ["dermatologie"]
 annees = "2023"
 sources = ["CEDEF", "HAS"]
@@ -62,9 +62,9 @@ TVP
 
 Interrogatoire en cas d'ulcère de la jambe:
 
-- Antécédents  
-  Phlébologiques (varices, ulcère veineux), maladie veineuse thrombo-embolique (MVTE ou MTEV: thrombose veineuse profonde TVP, superficielle TVS ou embolie pulmonaire), traumatisme ou chirurgie des membres inférieurs
-- Facteurs de risque veineux: antécédents familiaux de varices
+- Antécédents personnels ou familiaux  
+  Phlébologiques (varices), maladie veineuse thrombo-embolique (MVTE ou MTEV: thrombose veineuse profonde TVP, superficielle TVS ou embolie pulmonaire).
+- Antécédents: ulcère veineux, traumatisme ou chirurgie des membres inférieurs
 - Facteurs de risque cardiovasculaire
 
 {{% /collapse %}}

@@ -6,16 +6,17 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-24T09:13:24+02:00"
 publishdate = "2023-04-24"
-lastmod = "2023-10-19"
+lastmod = "2023-11-30"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
-sources = ["ASCRS"]
+sources = ["ASCRS", "SNFCP"]
 tags = ["enfant", "grossesse"]
 anglais = ["Anal fissure"]
 sctid = "30037006"
 icd10 = "K60.2"
 image = true
 imageSrc = "Fissure anale de la ligne médiane postérieure typique. Bernardo Gui, Public domain, via Wikimedia Commons"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -70,7 +71,7 @@ Des fissures latérales ou multiples sont atypiques et nécessitent un avis spé
 ### Interrogatoire
 
 - Antécédents  
-  Accouchement récent, digestifs (troubles du transit, MICI), infectieux, rapports à risque (IST, sodomie).
+  Accouchement récent, digestifs (troubles du transit, MICI), infectieux, rapports à risque ([IST](/tags/ist/), sodomie).
 - Traitements  
   Isotrétinoïne (iatrogénie) et traitements essayés.
 - Date de début des symptômes
@@ -90,7 +91,7 @@ Des fissures latérales ou multiples sont atypiques et nécessitent un avis spé
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Bilan complémentaire en cas de fissure latérale ou multiples selon les facteurs de risque: bilan des [IST](/tags/ist/)
+Bilan complémentaire en cas de fissure latérale ou multiples selon les facteurs de risque: bilan des [infections sexuellement transmissibles](/tags/ist/).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la fissure anale" %}}
@@ -118,6 +119,17 @@ La prise en charge chronique peut être: trinitrine topique (voir ci-dessus, peu
 Une chirurgie par sphinctérotomie latérale interne peut être envisagée. La cicatrisation est longue (de 6 à 16 semaines).
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la fissure anale" "show" %}}
+
+{{< mermaid title="Prise en charge de la fissure anale par le médecin généraliste. Dr JB Fron d'après ASCRS 2022 et SNFCP" >}}
+graph TB
+  suspicion["<b>Suspicion de fissure anale</b><br>—<br>Rythmées par la défécation:<br>- Douleur anale intense<br>- Rectorragies"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Facteurs de risque<br>- Symptômes<br>- Examen anal") --> traitement("<b>Traitement</b><br>—<br>- Bains de siège<br>- Hygiène douce<br>- Laxatifs ispaghul<br>- Antalgie, AINS<br>± Anesthésiques locaux<br>avec lidocaïne<br>± Trinitrine topique (NR)") -- Échec --> spécialiste(Proctologue)
+    clinique -- "Fissures multiples<br>ou latérales" --> spécialiste
+    clinique -- Diagnostic différentiel --> différentiel("- Abcès périanal<br>- Fissure anorectale<br>- Thrombose hémorroïdaire<br>externe<br>- Psoriasis, eczéma<br>- Cancer anal")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [Davids JS et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Anal Fissures. Dis Colon Rectum. 2023.](https://journals.lww.com/dcrjournal/Fulltext/2023/02000/The_American_Society_of_Colon_and_Rectal_Surgeons.8.aspx)

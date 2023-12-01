@@ -6,7 +6,7 @@ synonyms = ["Entérobiase"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-17T17:38:12+02:00"
 publishdate = "2023-07-18"
-lastmod = "2023-07-18"
+lastmod = "2023-12-01"
 specialites = ["infectiologie", "pediatrie"]
 annees = "2022"
 sources = ["Collèges"]
@@ -16,6 +16,7 @@ sctid = "266162007"
 icd10 = "B80"
 image = true
 imageSrc = "Deux femelles *Enterobius vermicularis* signant une oxyurose. Erich gasboy, CC BY, via Wikimedia Commons"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -58,9 +59,10 @@ Tableau clinique, signes et symptômes de l'oxyurose:
   - Douleurs abdominales, diarrhées
   - Troubles du sommeil (cauchemars), irritabilité, difficultés de concentration
 
-Le diagnostic d'oxyurose est clinique lorsque des vers blancs centimétriques sont vus dans les selles ou sur la marge anale.
+Le diagnostic d'oxyurose est clinique lorsque des **vers blancs centimétriques** sont vus dans les selles ou sur la marge anale.
 
-### Diagnostic différentiel
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
 
 Autres causes de prurit anal:
 
@@ -98,9 +100,21 @@ La prise en charge de l'oxyurose comprend le traitement de tous les sujets de l'
   ou [albendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69731801&typedoc=R) (posologie selon l'âge) dose unique à renouveler à J15 (ou J21)
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de l'oxyurose" "show" %}}
+
+{{< mermaid title="Prise en charge de l'oxyurose par le médecin généraliste. Dr JB Fron d'après Collèges" >}}
+graph TB
+  suspicion["<b>Suspicion d'oxyurose</b><br>—<br>Enfant ++ ou entourage:<br>- Prurit anal<br>vespéral et nocturne<br>- Vulvovaginite<br>- Troubles mictionnels<br>- Lésions de grattage périnéales<br>- Douleurs abdominales, diarrhées<br>- Troubles du sommeil, irritabilité"] --> clinique("<b>Clinique</b><br>—<br>- Entourage<br>- Symptômes<br>- Examen anal") --> vers(Oxyures observés ?) -- Oui --> traitement("<b>Traitement systématique</b><br>—<br>- Entourage<br>- Hygiène des mains<br>- Linge de corps, draps<br>- Flubendazole dose unique") -- J15 --> répéter(Flubendazole dose unique)
+      vers -- Non --> scotch(Scotch-test anal) -- Positif --> traitement
+        scotch -- Négatif répété --> différentiel
+    clinique -- Diagnostic différentiel --> différentiel("Prurit anal:<br>- Hémorroïdes<br>- Abcès, fistule anale<br>- Eczéma, psoriasis<br>- Candidose<br>- Condylomes<br>- Herpès<br>- MICI")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
-- Anofel. Chapitre 11: Oxyurose. 2022.
+- Association Française des Enseignants & Praticiens Hospitaliers titulaires de Parasitologie & Mycologie Médicale (Anofel). Chapitre 11: Oxyurose. 2022.
 - [CMIT. Parasitoses digestives : giardiose, amoebose, téniasis, ascaridiose, oxyurose. Item 172. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-172-web.pdf)
 - Prescrire Redaction. Oxyurose. Premiers Choix Prescrire. Rev Prescrire. 2021.
 

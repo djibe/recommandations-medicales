@@ -7,7 +7,7 @@ synonyms = ["Aponévrosite plantaire, épine calcanéenne, fasciite plantaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-06-02T15:14:20+02:00"
 publishdate = "2020-06-02"
-lastmod = "2022-01-27"
+lastmod = "2023-12-01"
 specialites = ["rhumatologie"]
 annees = "2021"
 sources = ["Prescrire"]
@@ -17,11 +17,13 @@ sctid= "202882003"
 icd10 = "M72.27"
 image = true
 imageSrc = "Illustration de l'épine calcanéenne par Injurymap, CC BY 4.0, via Wikimedia Commons"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Devant un aspect d'enthésopathie calcanéenne: rechercher des arguments neurologiques, métaboliques et auto-immuns
+- Les symptômes de l'épine calcanéenne sont le plus souvent des douleurs plantaires au lever avec amélioration dans la journée
+- Devant une suspicion d'enthésopathie calcanéenne: rechercher des arguments neurologiques, métaboliques et auto-immuns
 - Prise en charge de l'épine calcanéenne: talonnettes, contention, kinésithérapie, éviter la station debout prolongée
 
 {{%/article-summary%}}
@@ -65,9 +67,10 @@ L'atteinte est souvent **bilatérale**.
 
 ### Interrogatoire
 
-- Caractères des douleurs: Talalgie plantaire mécanique
+- Caractères des douleurs: talalgie plantaire mécanique
 - Antécédents neurologiques, métaboliques et auto-immuns
-- Métier
+- Profession
+- Habitudes de chaussage (extérieur, domicile)
 
 ### Examen clinique
 
@@ -106,7 +109,7 @@ Examens de 2<sup>e</sup> intention:
 - Scanner/IRM
 
 {{%/collapse%}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'épine calcanéenne" %}}
 
 Prise en charge recommandée de l'épine calcanéenne:
 
@@ -120,10 +123,20 @@ Prise en charge recommandée de l'épine calcanéenne:
   - Décontraction du système suro-achilléo-calcanéo-plantaire
   - Massages transverses profonds, séquences de contraction isométrique, relâchement puis étirement passif
 - Antalgiques
-- anti-inflammatoires AINS
+- Anti-inflammatoires AINS
 - Semelles orthopédiques si trouble de la statique plantaire
 
 En cas de persistance des douleurs plantaires: avis d'un pédicure-podologue pour la confection d'orthèses plantaires voire infiltrations de corticoïdes (rhumatologue).
+
+{{%/collapse%}}
+{{%collapse "Prise en charge de l'épine calcanéenne" "show" %}}
+
+{{< mermaid title="Prise en charge de l'épine calcanéenne par le médecin généraliste. Dr JB Fron d'après bibliographie" >}}
+graph TB
+  suspicion["<b>Suspicion d'épine calcanéenne</b><br>—<br>Douleurs mécaniques du talon<br>avec amélioration dans la journée"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Profession<br>- Chaussage<br>- Déformation des pieds<br>- Testing, sensibilité") --> traitement("<b>Traitement</b><br>—<br>- Repos<br>- Antalgie, AINS<br>- Talons, talonnette<br>- Semelles souples<br>- Étirements<br>- Chaussettes de contention<br>- Kinésithérapie<br>± Semelles orthopédiques") -. Persistance .-> bilan("<b>Bilan</b><br>—<br>- Uricémie, glycémie<br>- Radiographies talon profil<br>± Échographie<br>- 2e intention: IRM")
+    clinique --> différentiel("Autre diagnostic")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 
 {{%/collapse%}}
 {{%sources%}}

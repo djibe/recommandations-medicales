@@ -6,7 +6,7 @@ synonyms = ["Scabiose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-16T16:50:41+01:00
 publishdate = "2020-12-15"
-lastmod = "2023-01-13"
+lastmod = "2023-12-01"
 specialites = ["dermatologie"]
 annees = "2021"
 sources = ["CMIT", "EADV", "CEDEF"]
@@ -16,6 +16,7 @@ sctid = "128869009"
 icd10 = "B86"
 image = true
 imageSrc = "Lésions de gale de la main. Photo de Sven Teschke, CC BY-SA 3.0, via Wikimedia Commons"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -60,6 +61,22 @@ CEDEF
 EADV
 : {{%lang%}}European Academy of Dermatology and Venereology{{%/lang%}}
 {.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+### Diagnostic différentiel d'un prurit tenace ou d'une gale
+
+- [Eczéma atopique]({{< relref "dermatite-atopique.md" >}}) ou de contact
+- [Teigne]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
+- [Psoriasis]({{< relref "psoriasis.md" >}})
+- Lymphome cutané
+- Prurit médicamenteux ou psychologiques
+- Pemphigoïde bulleuse
+- [Prurit sénile]({{< relref "prurit.md" >}})
+- [Pédiculose]({{< relref "pediculoses.md" >}})
+- Prurit métabolique  
+  Cholestases et insuffisances hépatiques ou rénales.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -122,22 +139,6 @@ Gale des gens propres
 Gale du nourrisson
 : Atteinte plantaire ou palmaire vésiculeuse ou pustuleuse. Lésions infiltrées, rouge cuivré des régions péri-axillaires et du tronc.  
 L'enfant présente des mouvements de reptation lorsqu'il est déshabillé.
-
-{{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-Diagnostic différentiel d'un [prurit](/tags/prurit/) tenace ou d'une gale:
-
-- [Eczéma atopique]({{< relref "dermatite-atopique.md" >}}) ou de contact
-- [Teigne]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
-- [Psoriasis]({{< relref "psoriasis.md" >}})
-- Lymphome cutané
-- Prurit médicamenteux ou psychologiques
-- Pemphigoïde bulleuse
-- [Prurit sénile]({{< relref "prurit.md" >}})
-- [Pédiculose]({{< relref "pediculoses.md" >}})
-- Prurit métabolique  
-  Cholestases et insuffisances hépatiques ou rénales.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la gale" %}}
@@ -300,6 +301,16 @@ Les sacs de vêtements peuvent être ouverts avec des gants jetables et lavés e
 - Si traitement oral: 2<sup>e</sup> prise orale du nombre de comprimés prescrits.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la gale" "show" %}}
+
+{{< mermaid title="Prise en charge de la gale par le médecin généraliste. Dr JB Fron d'après CMIT, EADV et CEDEF" >}}
+graph TB
+  suspicion["<b>Suspicion de gale</b><br>—<br>- Tout prurit<br>diffus, nocturne ++,<br>épargnant le visage<br>- Toute impétiginisation<br>- Incubation silencieuse 1M<br>- Notion de contage"] --> clinique("<b>Clinique</b><br>—<br>- Topographie des lésions:<br>interdigital, poignets, avant-bras,<br>ombilic, fesses,<br>OGE (homme), mamelon") --> traitement("<b>Traitement</b><br>—<br>Traitement concomitant du foyer:<br>- Éviction 3 jours<br>- Prévenir l'école<br>- Désinfection du linge<br>- Ivermectine 200 µg/kg<br>ou perméthrine crème (grossesse ++)<br>- Proposer bilan d'IST<br>- Info: prurit 1 mois") -- J8 --> rappel(2e dose de traitement)
+    clinique -- Diagnostic différentiel --> prurit("- Eczéma<br>- Teigne<br>- Psoriasis<br>- Lymphome cutané<br>- Médicamenteux<br>- Pemphigoïde bulleuse<br>- Prurit sénile<br>- Pédiculose<br>- Prurit métabolique")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [CMIT. Gale et pédiculose. Item 171. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-171-web.pdf)

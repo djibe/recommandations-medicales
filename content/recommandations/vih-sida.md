@@ -97,7 +97,7 @@ VIH
   70% d'hommes (2x moins de dépistage chez les hommes).  
   +50% vivraient dans les 3 régions à risque (voir plus bas).
 - **Incidence:** 6200 nouveaux cas par an (25-49 ans surtout)
-- **Stade de la maladie au diagnostic:** 29% au stade tardif  
+- **Stade de la maladie au diagnostic:** 43% au stade tardif  
   {{%class%}}SIDA ou taux de CD4 ≤ 200/mm³.{{%/class%}}  
   Surtout chez UDI (55%) et hétérosexuels (né en France ou non).  
 - **Délai entre infection et diagnostic:** ~3 ans

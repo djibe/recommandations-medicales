@@ -7,7 +7,7 @@ synonyms = ["Pneumopathies infectieuses communautaires"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-15T17:05:04+02:00"
 publishdate = "2023-05-17"
-lastmod = "2023-11-28"
+lastmod = "2023-12-01"
 specialites = ["pneumologie"]
 annees = "2020"
 sources = ["SPILF", "Afssaps"]
@@ -274,9 +274,15 @@ En cas de **pneumonies récidivantes** d'un même territoire, évoquer un **corp
 
 ##### Suspicion de pneumonie à bactérie atypique
 
-Macrolide spiramycine 3 MUI x 2-3/j pendant 14 jours (peu d'interactions ou azithromycine, clarithromycine 500 mg x 2/j).
+<mark>Macrolide spiramycine 3 MUI x 2-3/j pendant 14 jours (peu d'interactions ou azithromycine, clarithromycine 500 mg x 2/j).</mark>
 
-Chez l'enfant (pas d'intracellulaire avant 3 ans): clarithromycine 15 mg/kg/j en 2 prises (max 1 g/j).
+Chez l'enfant (pas d'intracellulaire avant 3 ans) selon *GPIP 2016*:
+
+- Préférence: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 15 mg/kg/j en 2 prises (max 1 g/j) pendant 10 jours
+- Alternative si allergie:
+  - josamycine 50 mg/kg en 2 prises pendant 14 jours
+  - azithromycine 20 mg/kg en 1 prise pendant 3 jours (uniquement si pneumocoque exclu)
+  - +6 ans: pristinamycine 50 mg/kg en 2 prises pendant 10 jours
 
 #### PAC avec comorbidité, alcool ou sujet âgé ambulatoire
 

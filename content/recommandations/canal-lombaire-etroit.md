@@ -7,7 +7,7 @@ synonyms = ["Sténose du canal rachidien"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-11-07T14:22:38+01:00"
 publishdate = "2023-11-09"
-lastmod = "2023-11-09"
+lastmod = "2023-12-01"
 specialites = ["neurologie"]
 annees = "2014"
 sources = ["Biblio"]
@@ -17,7 +17,7 @@ sctid = "18347007"
 icd10 = "M48.06"
 image = true
 imageSrc = "Canal lombaire étroit. Universitätsklinik für Neurochirurgie, Inselspital Bern © CC BY-NC 4.0"
-todo = "flow"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -95,7 +95,7 @@ Le **syndrome de la queue de cheval** entraîne un déficit moteur, sensitif ou 
 Les symptômes du canal lombaire étroit sont majorés debout.
 
 - Antécédents  
-  Lombo-sciatique, [lombalgie]({{< relref "lombalgie-commune.md" >}}), rhumatisme, traumatisme, neurologique, cardiovasculaire, cancer.
+  Lombo-sciatique, [lombalgie]({{< relref "lombalgie-commune.md" >}}), rhumatisme, traumatisme, neurologique, cardiovasculaire, [cancer](/tags/cancer/).
 - Traitements en cours
 - Tabagisme
 - Asymptomatique (10-15 %)
@@ -105,7 +105,7 @@ Les symptômes du canal lombaire étroit sont majorés debout.
   - Aggravation progressive à la marche imposant l'arrêt
   - Régression rapide à l'arrêt
   - Améliorée penché en avant (signe du Caddie)
-  - **Radiculalgie à la marche**. Sciatique tronquée bilatérale à bascule à la marche (descente ++) ou en position debout prolongée. Douleurs inconstantes
+  - **Radiculalgie à la marche**: Sciatique tronquée bilatérale à bascule à la marche (descente ++) ou en position debout prolongée. Douleurs inconstantes
   - **Troubles de la marche**: engourdissements, faiblesses irradiant de la colonne vertébrale vers les fesses
   - Déficit sensitif possible
   - Urgenturie rare
@@ -120,7 +120,7 @@ Les symptômes du canal lombaire étroit sont majorés debout.
 - Examen neurologique complet (pauvre)  
   Testing, sensibilité (proprioception, vibration), réflexes ++.
 - Pouls distaux
-- Signes d'endocrinopathie: acromégalie, Cushing
+- Signes d'endocrinopathie: [acromégalie]({{< relref "acromegalie.md" >}}), [Cushing]({{< relref "syndrome-cushing.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -169,6 +169,17 @@ Indications à la chirurgie de décompression du canal lombaire: claudication ou
 La chirurgie de référence est la laminectomie mais des techniques mini-invasives sont aujourd'hui possibles.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du canal lombaire étroit" "show" %}}
+
+{{< mermaid title="Prise en charge du canal lombaire étroit par le médecin généraliste. Dr JB Fron d'après Collèges et bibliographie" >}}
+graph TB
+  suspicion["<b>Suspicion de canal lombaire étroit</b><br>—<br>Sujet âgé avec:<br>- Claudication<br>- Radiculalgie<br>- Chutes<br>- Fonte musculaire"] --> urgence("Déficit moteur, sensitif<br>ou urinaire brutal<br>ou rapidement progressif ?") -- Non --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements<br>- Claudication neurologique:<br>insidieuse progressive,<br>asymptomatique au repos,<br>aggravation à la marche<br>imposant l'arrêt<br>signe du Caddie,<br> radiculalgie à la marche<br>- Examen neurologique<br>et cardiovasculaire") --> bilan("<b>Bilan</b><br>—<br>- NFS, CRP<br>- Glycémie<br>- Radiographies rachidiennes<br>- IRM rachis lombaire<br>- Envisager doppler artériel") --> neurologue(Neurologue)
+      urgence -- Oui --> urgences(Urgence chirurgicale)
+    bilan -- Diagnostic différentiel --> différentiel("- Neuropathie périphérique<br>- Coxarthrose<br>- Bursite trochantérienne<br>- AOMI<br>- Compression médullaire<br>- Malformation artério-veineuse")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - Prescrire Redaction. Syndrome du canal lombaire étroit. Rev Prescrire. Juillet 2023.
