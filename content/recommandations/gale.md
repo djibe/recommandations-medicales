@@ -313,10 +313,10 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+- [Collège des enseignants de dermatologie de France (CEDEF). Ectoparasitoses cutanées : gale et pédiculose. Item 171. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-171-%E2%80%94-Ectoparasitoses-cutanees-gale-et-pediculose_CompressPdf.pdf)
 - [CMIT. Gale et pédiculose. Item 171. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-171-web.pdf)
 - Prescrire Redaction. Gale. Premiers Choix Prescrire. Janvier 2021.
 - [Salavastru C et al; European Academy of Dermatology and Venereology. European guideline for the management of scabies. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14351)
-- Collège des enseignants de dermatologie de France (CEDEF). Ectoparasitoses cutanées : gale et pédiculose. Item 167 UE 6. 2017.
 - [HCSP. Survenue de un ou plusieurs cas de gale. Conduite à tenir. 2012.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=312)
 - [Omedit Centre. Prise en charge et traitement des sujets atteints de gale. Mars 2010. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/6308.pdf)
 

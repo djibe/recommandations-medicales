@@ -251,11 +251,11 @@ Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{< rel
 {{%sources%}}
 
 - [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-168.pdf)
+- [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 169. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-169-%E2%80%94-Infection-a-VIH-manifestations-cutaneo-muqueuses-de-la-primo-infection-a-VIH_CompressPdf.pdf)
 - {{< references/calendrier-vaccinal >}}
 - Prescrire Redaction. Douleurs postzostériennes. Premiers Choix Prescrire. 2023.
 - Prescrire Redaction. Zona. L'essentiel sur les soins de premier choix. Premiers Choix Prescrire. Mars 2021.
 - [SFORL. Prise en charge de la Paralysie Faciale Idiopathique à la phase aiguë chez l'adulte. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-de-la-Paralysie-Faciale-Idiopathique-%C3%A0-la-phase-aigu%C3%AB-chez-l-adulte-2020.pdf)
-- Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 UE 6. 2017.
 - [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998. (PDF)](https://urgences-serveur.fr/IMG/article_PDF/Prise-en-charge-des-infections-VZV_a324.pdf)
 
 ### Bibliographie en attente

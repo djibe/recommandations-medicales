@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-18T18:48:00+02:00"
 publishdate = "2021-04-21"
-lastmod = "2023-01-13"
+lastmod = "2023-12-05"
 specialites = ["dermatologie"]
-annees = "2021"
-sources = ["CMIT", "CSHP", "SFDermato"]
+annees = "2023"
+sources = ["Collèges", "CSHP", "SFDermato"]
 tags = ["prurit"]
 anglais = ["Pediculosis", "head lice"]
 sctid = "20848007"
@@ -17,15 +17,16 @@ icd10 = "B85.2"
 image = true
 imageSrc = "Poux extrait du crâne. CC BY-SA 3.0 via Wikimedia Commons"
 todo = "rankok, modèle école, https://cpias-occitanie.fr/wp-content/uploads/2019/06/P%C3%A9diculoses-2019.pdf, TTT"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Le diagnostic de pédiculose est clinique avec la visualisation des lentes à la racine des cheveux/poils
+- Le diagnostic de pédiculose est clinique avec la visualisation des lentes à la racine des cheveux ou des poils
 - Les poux sont très rarement visibles
-- Examen et prise en charge de l'entourage
-- Traitement par diméticone lotion à J1 et J7, peigne anti-poux et décontamination des linge, literie et accessoires
-- Prévenir l'école
+- Examen et prise en charge de l'entourage d'un cas de pédiculose
+- Prise en charge des poux avec traitement par diméticone lotion appliquée à J1 et J7, peigne anti-poux et décontamination des linge, literie et accessoires
+- Prévenir l'école d'un cas de pédiculose
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -45,6 +46,9 @@ Autres pédiculoses:
 
 ### Abréviations
 
+CEDEF
+: Collège des enseignants de dermatologie de France
+
 CMIT
 : Collège des Universitaires des Maladies Infectieuses et Tropicales
 
@@ -58,13 +62,13 @@ CSHP
 Le diagnostic de pédiculose est clinique par visualisation de lentes vivantes à la racine des cheveux
 {.alert .alert-info}
 
-- Symptômes
+- Symptômes de pédiculose
   - [Prurit](/tags/prurit/) (50-60%)
   - Excoriations
   - Impétigo cervical
   - Adénopathies
   - Eczéma
-- Atteinte du cuir chevelu  
+- Localisations atteintes du cuir chevelu  
   Tempes, contour des oreilles, nuque.
 - Poux de corps  
   Dos, ceinture et racine des membres. Vivent dans les vêtements (coutures +++).
@@ -75,12 +79,11 @@ Le diagnostic de pédiculose est clinique par visualisation de lentes vivantes �
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Surtout le diagnostic d'un prurit de la tête. Les lentes sont pathognomoniques.
+Diagnostic différentiel d'un prurit de la tête:
 
 - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
 - [Psoriasis]({{< relref "psoriasis.md" >}})
 - [Dermatophytie]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
-{.list-group}
 
 {{% /collapse %}}
 {{%collapse "Traitement des poux" %}}
@@ -88,8 +91,10 @@ Surtout le diagnostic d'un prurit de la tête. Les lentes sont pathognomoniques.
 [Information du patient - Santé BD: Les poux](https://santebd.org/les-fiches-santebd/docteur-generaliste/je-me-protege-contre-les-poux)
 
 {{%info%}}
-Diméticone lotion 2 applications à J1 et J7  
-Suivie par peignage anti-poux 30 minutes
+
+- Diméticone lotion 2 applications (durée selon le produit) à J1 et J7
+- Rinçage avec shampooing doux
+- Puis peignage anti-poux pendant30 minutes
 
 Examen de tous les membres du foyer
 
@@ -131,17 +136,27 @@ Nota bene:
 - Dépistage des [infections sexuellement transmissibles (IST)](/tags/ist/)
 
 {{% /collapse %}}
+{{%collapse "Prise en charge des poux" "show" %}}
+
+{{< mermaid title="Prise en charge des poux du cuir chevelu par le médecin généraliste. Dr JB Fron d'après Collèges, SFD et CSHP" >}}
+graph TB
+  suspicion["<b>Suspicion de pédiculose<br>du cuir chevelu</b><br>—<br>Tempes, contour des<br>oreilles et nuque:<br>- Prurit<br>- Excoriations, impétigo<br>- Eczéma<br>- Adénopathies"] --> clinique("<b>Diagnostic clinique</b><br>—<br>Visualisation de<br>lentes aux racines") --> traitement("<b>Traitement</b><br>—<br>- Diméticone lotion, <br>shampooing doux<br>puis peignage anti-poux<br>- Examen des proches<br>- Décontamination du linge ...<br>- Prévenir l'école") -- J7-10 --> rappel("Répétition de la diméticone<br>et peignage") -- J12 --> contrôle(Contrôle clinique)
+    clinique -- Diagnostic différentiel --> différentiel("- Dermatite séborrhéique<br>- Psoriasis<br>- Dermatophytie")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
-- [CMIT. Gale et pédiculose. Item 171. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-171-web.pdf)
+- [Collège des enseignants de dermatologie de France (CEDEF). Ectoparasitoses cutanées : gale et pédiculose. Item 171. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-171-%E2%80%94-Ectoparasitoses-cutanees-gale-et-pediculose_CompressPdf.pdf)
+- [CMIT. Gale et pédiculose. Item 171. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-171.pdf)
+- Prescrire Redaction. Pédiculose du cuir chevelu. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Jegou-Penouil MH. Les poux. Dermato-Info. 02/12/2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/les-poux)
-- [Chosidow O.; SFDermato. Prise en charge de la pédiculose du cuir chevelu en 2019 en France. Mise au point. Novembre 2019. (PDF)](https://www.sfdermato.org/media/pdf/actualite/note-pediculos-sfd-gridist-51283d08cd07c9ac26310a6d2669ff30.pdf)
-- Prescrire Redaction. Pédiculose du cuir chevelu. Premiers Choix Prescrire. Rev Prescrire. 2019.
-- Collège des enseignants de dermatologie de France (CEDEF). Ectoparasitoses cutanées : gale et pédiculose. Item 167 UE 6. 2017.
+- [Chosidow O; SFDermato. Prise en charge de la pédiculose du cuir chevelu en 2019 en France. Mise au point. Novembre 2019. (PDF)](https://www.sfdermato.org/media/pdf/actualite/note-pediculos-sfd-gridist-51283d08cd07c9ac26310a6d2669ff30.pdf)
 - [Conseil Supérieur d'Hygiène Publique de France. Avis relatif à la conduite à tenir devant un sujet atteint de pédiculose du cuir chevelu. 27/06/2003. (PDF)](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=a_mt_270603_pediculose.pdf)
 
 ### Bibliographie en attente
 
-- [Salavastru C. et al. European guideline for the management of pediculosis pubis. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14420)
+- [Salavastru C et al. European guideline for the management of pediculosis pubis. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14420)
 
 {{%/sources%}}

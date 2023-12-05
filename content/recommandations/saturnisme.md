@@ -7,7 +7,7 @@ synonyms = ["Intoxication au plomb"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-12-21T22:01:41+02:00"
 publishdate = "2020-12-21"
-lastmod = "2022-03-28"
+lastmod = "2023-12-05"
 specialites = ["pediatrie"]
 annees = "2015"
 sources = ["Inserm", "InVS"]
@@ -16,26 +16,27 @@ anglais = ["Plumbism", "Lead poisoning"]
 sctid = "1145155005"
 icd10 = "T56.0"
 image = true
-imageSrc = "Symptômes du saturnisme par Lamiot, from Mikael Häggström 2015 - CC BY-SA 4.0"
+imageSrc = "Symptômes du saturnisme. Lamiot, from Mikael Häggström 2015 - CC BY-SA 4.0"
 todo = "Liens InVS, MAJ"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Déclaration obligatoire du saturnisme pour enfants avec plombémie ≥ 50 µg/L
+- Déclaration obligatoire du saturnisme pour les enfants avec plombémie ≥ 50 µg/L
 - Prise en charge du saturnisme: Repérer les facteurs de risque, doser la plombémie, déclaration obligatoire au médecin inspecteur de santé publique
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Saturnisme
-: Imprégnation excessive des individus au plomb. *Toxicité sans seuil* avec effets même à faible concentration.  
-Le plomb est un toxique sans rôle physiologique, il s'accumule principalement dans le squelette avec une demi-vie supérieure à 10 ans. Contamination par voie digestive ou respiratoire. L'intoxication par le plomb est à l'origine du saturnisme.
+: Imprégnation excessive des individus au plomb. **Toxicité sans seuil** avec effets même à faible concentration.  
+Le plomb est un toxique sans rôle physiologique, il s'accumule principalement dans le squelette avec une demi-vie supérieure à 10 ans. Contamination par voie digestive ou respiratoire.
 : **Maladie à déclaration obligatoire chez les enfants pour une plombémie ≥ 50 µg/L** (définition du cas de saturnisme depuis juin 2015).
-: Le saturne était le plomb chez les grecs
+: Le saturne était le plomb chez les grecs.
 
 Pica
-: Trouble es conduites alimentaires caractérisé par l'ingestion prolongée (> 1 mois) de substances non comestibles non nutritives.
+: Trouble des conduites alimentaires caractérisé par l'ingestion prolongée (> 1 mois) de substances non comestibles non nutritives.
 
 ### Épidémiologie du saturnisme
 
@@ -47,12 +48,12 @@ Objectif de Santé Publique 2017:
 - 98% de la population avec plombémie < 40 µg/L
 
 {{% /collapse %}}
-{{%collapse "Complications" %}}
+{{%collapse "Complications du saturnisme" %}}
 
 Jeune enfant
 : Les plus exposés par ingestion de poussières.  
-Diminution des performances cognitives et sensorimotrices (audition), altération du comportement et des développements staturo-pondéral et sexuel.  
-Plombémie 12 µg/L entraîne la perte d'1 point de QI.
+Diminution des performances cognitives et sensorimotrices (audition), altération du comportement et des développements staturo-pondéral et sexuel.
+: Une plombémie de 12 µg/L entraîne la perte d'1 point de QI.
 
 Femme enceinte
 : Altération du développement fœtal.
@@ -69,9 +70,9 @@ Repérer systématiquement aux examens obligatoires des 9<sup>e</sup> et 24<sup>
 
 ### Facteurs de risque d'exposition au plomb
 
-- Peintures au plomb dans l'habitat ancien. De loin la 1<sup>re</sup> cause  
-  Habitations avant 1949 (même recouvertes de peintures récentes), voire 1975 et travaux de rénovations dans les 6 derniers mois (répandent le plomb)
-- Environnement de site industriel rejetant (ou ayant rejeté) du plomb (2<sup>e</sup> cause).
+- **Peintures au plomb dans l'habitat ancien**. De loin la 1<sup>re</sup> cause.  
+  Habitations avant 1949 (même recouvertes de peintures récentes), voire 1975 et travaux de rénovations dans les 6 mois (répandent le plomb)
+- Environnement de site industriel rejetant (ou ayant rejeté) du plomb (2<sup>e</sup> cause)
 - Arrivée récente en France +++
 - Activité professionnelle exposant au plomb  
   Restauration de vitraux, fonderie, céramiques ou émail, munitions, plombs de pêche ou de petits soldats en plomb.
@@ -79,6 +80,8 @@ Repérer systématiquement aux examens obligatoires des 9<sup>e</sup> et 24<sup>
 - Aliments provenant de pays avec essence au plomb
 - Vaisselles céramiques décorées, cosmétiques traditionnels (khôl, surma)
 {{%/info%}}
+
+### Questionnaire standardisé
 
 En cas de présence de facteurs de risques d'exposition au plomb, soumettre ce questionnaire standardisé aux parents:
 
@@ -91,9 +94,9 @@ En cas de présence de facteurs de risques d'exposition au plomb, soumettre ce q
 - Tendance de l'enfant au comportement de *pica* ?
 - Connaissance d'un frère, d'une sœur ou d'un camarade intoxiqué par le plomb ?
 - Familles en situation de précarité  
-  Niveau de revenus, bénéficiaires d'aides sociales
+  Niveau de revenus, bénéficiaires d'aides sociales.
 - Populations itinérantes  
-  Gens du voyage: terrain pollué, maniement de matériels pollués
+  Gens du voyage: terrain pollué, maniement de matériels pollués.
 - Immigration récente
 
 En présence de facteurs de risque, une **plombémie** doit être réalisée
@@ -157,6 +160,17 @@ Nécessite d'informer les familles et le dosage trimestriel de la plombémie afi
   - Matériaux utilisés dans le cadre des loisirs: figurines en plomb, poterie, plombs de chasse
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du saturnisme" "show" %}}
+
+{{< mermaid title="Prise en charge du saturnisme par le médecin généraliste. Dr JB Fron d'après Inserm 2015" >}}
+graph TB
+  examen["<b>Examen du nourrisson<br>et de l'enfant</b>"] --> risque("<b>Facteurs de risque<br>de saturnisme</b><br>—<br>- Habitations avant 1949-1975 et<br>rénovations dans les 6 mois<br>- Industrie émettrice proche<br>ou ayant émis<br>- Immigration récente<br>- Exposition professionnelle<br>- Canalisations au plomb<br>- Aliments de pays avec<br> essence au plomb<br>- Vaisselle en céramique décorée<br>- Cosmétiques: khôl, surma") --> questionnaire(Questionnaire standardisé) -- Positif --> plombémie("Plombémie") -- "≥ 50 µg/L" --> déclaration("Déclaration obligatoire<br>au MISP de l'ARS")
+    plombémie -- "25-49" --> surveillance("- Éviction du plomb<br>- Surveillance trimestrielle")
+    plombémie -- "&lt; 25" --> absence(Information)
+  style examen stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [Inserm. Le saturnisme ou intoxication au plomb. Août 2015.](https://www.inserm.fr/information-en-sante/dossiers-information/saturnisme)

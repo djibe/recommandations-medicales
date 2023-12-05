@@ -179,8 +179,8 @@ graph TB
 {{%sources%}}
 
 - [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 111. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-111-%E2%80%94-Dermatoses-faciales-acne-rosacee-dermatite-seborrheique_CompressPdf.pdf)
+- [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 169. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-169-%E2%80%94-Infection-a-VIH-manifestations-cutaneo-muqueuses-de-la-primo-infection-a-VIH_CompressPdf.pdf)
 - Prescrire Rédaction. Dermatite séborrhéique chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-155-web.pdf)
-- Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 UE 6. 2017.
 
 {{%/sources%}}

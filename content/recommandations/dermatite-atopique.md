@@ -279,8 +279,8 @@ accTitle: Conduite à tenir devant une suspicion de dermatite atopique et prise 
 {{%/collapse%}}
 {{%sources%}}
 
+- [Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéomuqueuses chez l'enfant et l'adulte. urticaire, dermatites atopique et de contact. Item 187. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-187-%E2%80%94-Hypersensibilites-et-allergies-cutaneo-muqueuses-chez-lenfant-et-ladulte.-Urticaire-dermatites-atopique-et-de-contact_CompressPdf.pdf)
 - [Staumont D. La dermatite atopique. Dermato-Info. 29/05/2021.](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-dermatite-atopique)
-- Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéomuqueuses chez l'enfant et l'adulte. urticaire, dermatites atopique et de contact. Item 187. 2021.
 - [Wollenberg A et al; European Task Force on Atopic Dermatitis/EADV Eczema Task Force. ETFAD/EADV Eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children. J Eur Acad Dermatol Venereol. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16892)
 - Prescrire Redaction. Eczéma atopique des nourrissons. La Revue Prescrire. Octobre 2017.
 - Collège des enseignants de dermatologie de France (CEDEF), Staumont D. Dermatite atopique. Item 163 UE 7. 2017.

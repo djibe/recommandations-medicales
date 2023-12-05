@@ -102,7 +102,8 @@ En cas d'autres parasitoses digestives associées: albendazole à 400 mg/j penda
 
 {{< mermaid title="Prise en charge du ténia par le médecin généraliste. Dr JB Fron d'après Collèges 2022" >}}
 graph TB
-  suspicion["<b>Suspicion de ténia</b><br>—<br>Surtout asymptomatique<br>- Aspect de « tagliatelles »<br>dans les sous-vêtements<br>- Troubles digestifs<br>- Douleurs épigastriques<br>- Prurit anal<br>- Urticaire<br>- Irritabilité<br>- Troubles du sommeil<br>- Éosinophilie"] --> bilan("<b>Bilan</b><br>—<br>- Scotch-test anal<br>- Examen parasitologique<br>des selles 3 jours<br>- Anneaux rectangulaires: examen direct") --> traitement("<b>Traitement</b><br>—<br>- Précautions porc/bœuf<br>- Lavage des mains<br>- Linge 60°C<br>- Praziquantel 10 mg/kg unique") -- 3 mois --> contrôle("Répéter les examens<br>des selles")
+  suspicion["<b>Suspicion de ténia</b><br>—<br>Surtout asymptomatique<br>- Aspect de « tagliatelles »<br>dans les sous-vêtements<br>- Troubles digestifs<br>- Douleurs épigastriques<br>- Prurit anal<br>- Urticaire<br>- Irritabilité<br>- Troubles du sommeil<br>- Éosinophilie"] --> bilan("<b>Bilan</b><br>—<br>- Scotch-test anal<br>- Examen parasitologique<br>des selles 3 jours<br>- Si anneaux rectangulaires:<br>examen direct") --> traitement("<b>Traitement</b><br>—<br>- Précautions porc/bœuf<br>- Lavage des mains<br>- Linge 60°C<br>- Praziquantel 10 mg/kg unique") -- 3 mois --> contrôle("Répéter les examens<br>des selles")
+    bilan --> différentiel("Diagnostic différentiel<br>ou avis spécialisé")
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

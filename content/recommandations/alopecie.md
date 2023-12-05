@@ -216,7 +216,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
-- Collège des enseignants de dermatologie de France (CEDEF). Troubles des phanères. Dermatologie Réussir son DFASM. 2022.
+- [Collège des enseignants de dermatologie de France (CEDEF). Troubles des phanères. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Troubles-des-phaneres_CompressPdf.pdf)
 - [Jegou-Penouil MH. L'alopécie. Dermato-Info. 02/12/2019.](https://dermato-info.fr/fr/les-phan%C3%A8res_cheveux-et-poils/l%E2%80%99alop%C3%A9cie)
 - [Kanti V et al; EDF. Evidence-based (S3) guideline for the treatment of androgenetic alopecia in women and in men - short version. J Eur Acad Dermatol Venereol. 2018.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.14624)
 

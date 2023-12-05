@@ -71,7 +71,7 @@ Forme enkystée: incision de la glande de Meibomius par l'ophtalmologue sous ane
 
 En cas de saignement post-interventionnel: compression simple pendant quelques minutes.
 
-## Prise en charge du chalazion
+## Prise en charge du chalazion {.mt-5}
 
 {{< mermaid title="Prise en charge du chalazion par le médecin généraliste. Dr JB Fron d'après COUF 2021" >}}
 graph TB

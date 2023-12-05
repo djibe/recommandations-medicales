@@ -18,6 +18,7 @@ icd10 = "M11.29"
 image = true
 imageSrc = "Gonalgie chez un homme de 70 ans. Liseré calcique des surfaces articulaires typique de chondrocalcinose permettant la visualisation des ménisques. Cas de Mohammadtaghi Niknejad, Radiopaedia.org, rID: 87743"
 todo = "arthrite septique"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -125,7 +126,7 @@ Le traitement est symptomatique identique à celui de [la crise de goutte]({{< r
 
 - Repos, glaçage
 - Anti-inflammatoires AINS ou colchicine 0,5 mg x 3-4/j
-- Voire corticothérapie orale en cas de comorbidités,
+- Voire corticothérapie orale en cas de comorbidités
 - En cas de symptômes sévères: ponction évacuatrice ± infiltration de corticoïdes
 
 Chez le sujet âgé, attention aux interactions et effets indésirables des AINS et de la colchicine.
@@ -138,7 +139,7 @@ En cas d'atteinte chronique (symptômes persistants), les traitements préféren
 
 - AINS ou colchicine faible dose (0,5-1 mg/j)
 - Corticothérapie faible dose
-- Voire méthotrexate 5-10 mg/sem  
+- Voire [méthotrexate]({{< relref "methotrexate.md" >}}) 5-10 mg/sem  
   ou hydroxychloroquine 100-400 mg/j
 
 ### Tendinopathie calcifiante ou inflammation péri-articulaire d'origine apatitique
@@ -148,9 +149,20 @@ Le traitement est identique: repos, glaçage, AINS, voire corticothérapie orale
 Adresser au rhumatologue si: épaule douloureuse chronique avec calcifications ou accès inflammatoires récidivants sur calcifications multiples.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la chondrocalcinose articulaire" "show" %}}
+
+{{< mermaid title="Prise en charge du rhumatisme à pyrophosphate de calcium PPC (ex chondrocalcinose articulaire) par le médecin généraliste. Dr JB Fron d'après Cowley 2023 et EULAR" >}}
+graph TB
+  suspicion["<b>Suspicion de rhumatisme à PPC</b><br>—<br>Début brutal et rapidement<br>progressif de<br>monoarthrite du sujet âgé:<br>- Genou, poignet ou épaule<br>- Signes locaux intenses<br>- Récupération rapide"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements<br>- Porte d'entrée ?<br>- Différentiel: purines, bière") --> bilan("<b>Bilan</b><br>—<br>- NFS, CRP<br>- Créatinine<br>± Uricémie<br>- Radiographies comparatives<br>(sensibilité 40%)<br>± Échographie articulaire") --> traitement("<b>Traitement</b><br>—<br>- Repos, glaçage<br>- AINS ou colchicine") --> rhumatologue("Rhumatologue<br>Ponction articulaire<br>diagnostique ± évacuatrice") -- Confirmation diagnostique --> bilan2("<b>Recherche de rhumatisme<br>secondaire</b><br>—<br>- Ferritine<br>- Calcium<br>- Magnésium<br>- PAL<br>- TSH")
+    clinique -- "Suspicion d'arthrite<br>septique" --> ponction("Ponction articulaire<br>urgente")
+      rhumatologue -- Diagnostic différentiel --> différentiel("- Goutte<br>- Polyarthrite rhumatoïde<br>- PPR<br>- Arthrose")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
-- [Cowley S, McCarthy G. Diagnosis and Treatment of Calcium Pyrophosphate Deposition (CPPD) Disease: A Review. Open Access Rheumatol. 2023.](https://pubmed.ncbi.nlm.nih.gov/36987530/)
+- [Cowley S, McCarthy G. Diagnosis and Treatment of Calcium Pyrophosphate Deposition (CPPD) Disease: A Review. Open Access Rheumatol. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10040153/)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-19-0.php)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Pathologie du fer chez l'adulte et l'enfant. Item 219 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-24-0.php)
 - Prescrire Redaction. Diphosphonates : pseudo-gouttes. Rev Prescrire. 2014.

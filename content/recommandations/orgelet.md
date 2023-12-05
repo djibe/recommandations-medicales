@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-29T23:33:00+02:00"
 publishdate = "2021-04-30"
-lastmod = "2023-05-09"
+lastmod = "2023-12-05"
 specialites = ["ophtalmologie"]
 annees = "2021"
 sources = ["COUF"]
@@ -16,6 +16,7 @@ sctid = "1489008"
 icd10 = "H00.0"
 image = true
 imageSrc = "Orgelet de la paupière supérieure droite. Andre Riemann, domaine public, via Wikimedia Commons"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -46,7 +47,7 @@ Cliniquement, on observe une tuméfaction inflammatoire centrée par un point bl
 
 Prise en charge de l'orgelet par un collyre ou une pommade antibiotique **pendant 8 jours**.
 
-{{< table title="Antibiotiques disponibles pour le traitement d'un orgelet. Dr JB Fron d'après BDPM" >}}
+{{< table title="Antibiotiques en collyre pour le traitement d'un orgelet. Dr JB Fron d'après BDPM" >}}
 | Famille      | Spécialité  | Posologie |
 |--------------|-------------|-----------|
 | Acide fusidique | [fucithalmic 1% gel opht](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69088419&typedoc=R) | 1 gte x 2/j |
@@ -59,6 +60,14 @@ Prise en charge de l'orgelet par un collyre ou une pommade antibiotique **pendan
   **: éviter pendant la grossesse
 
 **Forme enkystée ou résistante** d'orgelet: incision du bord libre par l'ophtalmologue sous anesthésie locale.
+
+## Prise en charge de l'orgelet {.mt-5}
+
+{{< mermaid title="Prise en charge de l'orgelet par le médecin généraliste. Dr JB Fron d'après COUF 2021" >}}
+graph TB
+  orgelet["<b>Orgelet</b><br>—<br>Furoncle du bord libre<br>de la paupière"] --> collyre("- Collyre antibiotique 8 jours<br>adapté à l'âge, sauf grossesse<br>- Pas de lentilles") -. Échec .-> ophtalmologue(Ophtalmologue)
+  style orgelet stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 
 ## Source {.mt-5}
 

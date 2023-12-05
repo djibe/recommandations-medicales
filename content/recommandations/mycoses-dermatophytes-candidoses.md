@@ -566,6 +566,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+- [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 155. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-155-%E2%80%94-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques_CompressPdf.pdf)
 - Prescrire Redaction. Patients atteints de mycose superficielle. Prescrire. 2023.
 - Prescrire Redaction. Patientes ayant une infection vulvovaginale ou du col utérin. Prescrire. 2023.
 - Anofel. Parasitoses et mycoses des régions tempérées et tropicales. 2022.
@@ -576,13 +577,12 @@ graph TB
 - Prescrire Redaction. Candidose vulvovaginale. Prescrire. 2021.
 - [Saxon GDGC. et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
 - Prescrire Redaction. Pityriasis versicolor. Prescrire. 2019.
-- Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 152 UE 6. 2017.
 - [Haut conseil de la santé publique (HCSP). Survenue de maladies infectieuses dans une collectivité. Conduites à tenir. 2012.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=306)
 - [Bell-Syer SE et al. Oral treatments for fungal infections of the skin of the foot. Cochrane Database Syst Rev. 2012.](https://pubmed.ncbi.nlm.nih.gov/23076898/)
 - [Chabasse D, SFD. Onychomycoses, recommandations pour les modalités de diagnostic et de prise en charge. Journal de Mycologie Médicale. 2007. (PDF)](https://www.sfdermato.org/upload/recommandations/onychomycoses-ea897f8482d176d93ec53661dbea2561.pdf)
 
 ### Bibliographie en attente
 
-[CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-155-web.pdf)
+CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2023. (PDF)
 
 {{%/sources%}}
