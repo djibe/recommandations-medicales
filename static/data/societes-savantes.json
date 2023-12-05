@@ -1307,7 +1307,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.sfo-online.fr",
       "Publications RSS": "No",
-      "Social": ""
+      "Social": "No"
     },
     {
       "Organisation": "Société Française de Chirurgie Orthopédique et Traumatologique",
@@ -1319,6 +1319,17 @@
       "Publications ouvertes": "https://sofcot.net/docuSofcot/",
       "Publications RSS": "No",
       "Social": "https://twitter.com/sofcot_ortho"
+    },
+    {
+      "Organisation": "Société Française et Francophone des Plaies et Cicatrisations",
+      "Abréviation": "SFFPC",
+      "Spécialité": "dermatologie",
+      "Type": "societe savante",
+      "Actualités": "https://www.sffpc.org/news",
+      "RSS": "https://www.sffpc.org/news?format=feed&type=rss",
+      "Publications ouvertes": "No",
+      "Publications RSS": "No",
+      "Social": "No"
     },
     {
       "Organisation": "Société Française de Gériatrie et Gérontologie",
@@ -1352,6 +1363,17 @@
       "Publications ouvertes": "https://afpa.org/nos-outils/recommandations/",
       "Publications RSS": "No",
       "Social": "https://twitter.com/pediatresafpa"
+    },
+    {
+      "Organisation": "Société Française de Neurologie Pédiatrique",
+      "Abréviation": "SFNP",
+      "Spécialité": "neurologie",
+      "Type": "societe savante",
+      "Actualités": "https://www.sfneuroped.fr/actualites/",
+      "RSS": "https://www.sfneuroped.fr/feed/",
+      "Publications ouvertes": "No",
+      "Publications RSS": "No",
+      "Social": "No"
     },
     {
       "Organisation": "Société Française de Néonatalogie",

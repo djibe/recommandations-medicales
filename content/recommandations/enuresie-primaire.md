@@ -7,35 +7,35 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-24T16:33:00+02:00"
 publishdate = "2021-04-27"
-lastmod = "2021-04-27"
+lastmod = "2023-12-05"
 specialites = ["urologie"]
-annees = "2019"
-sources = ["AFU"]
+annees = "2010"
+sources = ["AFU", "SFP"]
 tags = []
 anglais = ["Primary nocturnal enuresis"]
 sctid = "450842007"
 icd10 = "F98.0"
 image = false
 imageSrc = ""
-todo = "oxyure ?, NICE, info parents, https://afpa.org/content/uploads/2018/11/Enur%C3%A9sie-Dr-Desvignes.pdf"
+todo = "NICE, info parents, https://afpa.org/content/uploads/2018/11/Enur%C3%A9sie-Dr-Desvignes.pdf"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Éliminer: infection urinaire, [diabète]({{< relref "diabete-type-1.md" >}}), constipation
-- Définition stricte après 5 ans
-- N'a pas d'origine psychologique, déculpabiliser l'enfant
-- Diagnostic clinique, [calendrier mictionnel](https://afpa.org/content/uploads/2017/08/nuit-au-sec-carre%CC%81-blanc.jpg)
-- Mesures hygiéno-diétetiques
+- L'énurésie primaire isolée (EnPI) est une incontinence urinaire intermittente, pendant le sommeil, après l'âge de 5 ans
+- Devant un cas d'énurésie, éliminer: [infection urinaire]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), [diabète]({{< relref "diabete-type-1.md" >}}), [constipation]({{< relref "constipation.md" >}}), [oxyurose]({{< relref "oxyurose.md" >}})
+- L'énurésie primaire isolée n'a pas d'origine psychologique: déculpabiliser l'enfant
+- L'énurésie primaire isolée est un diagnostic clinique ([calendrier mictionnel](https://afpa.org/content/uploads/2017/08/nuit-au-sec-carre%CC%81-blanc.jpg))
+- La prise en charge de l'énurésie comprend des mesures hygiéno-diétetiques
 - Adresser à l'urologue en cas d'échec
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Énurésie primaire isolée (EnPI)
-: Incontinence urinaire intermittente, pendant le sommeil, après l'âge de **5 ans**, sans période de continence supérieure à six mois, sans aucun autre symptôme associé (notamment diurne, sauf nycturie)
-ET n'a jamais eu de continence nocturne.  
-Pathologie sensible à la desmopressine.
+: Incontinence urinaire intermittente, pendant le sommeil, après l'âge de **5 ans**, sans période de continence supérieure à six mois, sans aucun autre symptôme associé (notamment diurne, sauf nycturie)  
+ET n'a jamais eu de continence nocturne. Pathologie sensible à la desmopressine.
 : L'énurésie primaire n'a pas d'origine psychologique.
 : Elle touche 10% des 5-10 ans (22% chaque nuit). Guérison spontanée au rythme de 15%/an avec 2,2% encore touchés 19 ans.
 
@@ -45,11 +45,11 @@ Pathologie sensible à la desmopressine.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic est clinique après exclusion de pathologies urinaires.
+Le diagnostic d'énurésie primaire est clinique après exclusion de pathologies urinaires.
 
 - [Calendrier mictionnel](https://afpa.org/content/uploads/2017/08/nuit-au-sec-carre%CC%81-blanc.jpg)  
-Rythme, volume mictionnel et nuits mouillées.  
-Intensité:
+Rythme, volume mictionnel et nuits mouillées.
+- Intensité de l'énurésie:
   - modérée < 1 épisode/semaine
   - moyenne 1-2 épisodes
   - sévère ≥ 3 épisodes
@@ -74,9 +74,8 @@ Intensité:
   {{%class%}}Sécrétion inversée de vasopressine{{%/class%}}
 - Ronflements et apnées du sommeil observées
 - Troubles associés  
-  Seuil d'éveil anormal, troubles avec déficit d'attention et hyperactivité (TDAH), baisse de l'estime de soi (pas de sur-représentation des autres troubles psychiatriques)
-- Enquête des apports hydriques/heure  
-  {{%class%}}Polyurie nocturne par hydratation excessive.{{%/class%}}
+  Seuil d'éveil anormal, troubles avec déficit d'attention et hyperactivité (TDAH), baisse de l'estime de soi (pas de sur-représentation des autres troubles psychiatriques).
+- Enquête des apports hydriques par heure (Polyurie nocturne par hydratation excessive)
 - Épisodes d'énurésie  
   Fréquence, horaire, circonstances des épisodes.
 - Port de couches
@@ -90,7 +89,7 @@ Intensité:
 - Poids, taille, IMC et courbes de croissance
 - Organes génitaux externes
 - Inspection de la région lombo-sacrée  
-  {{%class%}}Recherche spina bifida, agénésie du sacrum.{{%/class%}}
+  Recherche spina bifida, agénésie du sacrum.
 - Examen neurologique simple
 - Bandelette urinaire
 
@@ -114,7 +113,7 @@ Seul traitement première intention (20% de guérison).
 - Rassurer et déculpabiliser l'enfant voire proposer un soutien psychologique
 - Informer sur la maladie
 - [Calendrier mictionnel](https://afpa.org/content/uploads/2017/08/nuit-au-sec-carre%CC%81-blanc.jpg) en suivant les conseils pendant ≥ 2 semaines
-- [Correction d'une constipation]({{< relref "constipation.md" >}}) ou infection urinaire
+- [Correction d'une constipation]({{< relref "constipation.md" >}}) ou [infection urinaire]
 
 Aucune étude fiable sur: hypnose, psychothérapie, acupuncture, homéopathie et chiropraxie
 {.alert .alert-warning}
@@ -133,18 +132,26 @@ Adresser à l'urologue.
 - Échec et suspicion de faible capacité vésicale  
   Oxybutynine en monothérapie
 - Échec en monothérapie  
-  - Desmopressine et alarme
-  - OU desmopressine et oxybutynine
+  - Desmopressine (Minirin®, Octim®) et alarme
+  - OU desmopressine et oxybutynine (Driptane®, Ditropan®, gén)
   - OU alarme et oxybutynine
 
-**Desmopressine:** Minirin®, Octim®  
-**Oxybutynine:** génériques, driptane®, ditropan®
-
 {{% /collapse %}}
+{{%collapse "Prise en charge de l'énurésie primaire" "show" %}}
+
+{{< mermaid title="Prise en charge de l'énurésie primaire par le médecin généraliste. Dr JB Fron d'après AFU et SFP 2010" >}}
+graph TB
+  énurésie["<b>Énurésie primaire isolée (EnPI)</b><br>—<br>Incontinence urinaire intermittente<br>pendant le sommeil<br>après l’âge de 5 ans"] --> clinique("<b>Clinique</b><br>—<br>- Calendrier mictionnel<br>- Intensité<br>- Tolérance, vécu<br>- Retentissement<br>- Examen clinique<br>- Bandelette urinaire") --> RHD("<b>Règles hygiéno-diététiques</b><br>—<br>- Distribution des<br>apports hydriques 7-18h<br>- Mictions régulières<br>et complètes<br>- Faciliter l'accès<br>aux toilettes<br>- Déculpabiliser<br>- Lutte constipation") -. Échec .-> urologue(Urologue)
+    clinique -- Diagnostic différentiel --> différentiel("- Infection urinaire<br>- Apnées du sommeil<br>- Diabète<br>- Constipation massive")
+  style énurésie stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
-- Prescrire Redaction. Patients ayant une énurésie nocturne. Janvier 2021.
-- Prescrire Redaction. Énurésie isolée des enfants. 2019.
-- [Aubert D. et al. Énurésie nocturne primaire isolée : diagnostic et prise en charge. Progrès en Urologie. 2010. (PDF)](https://afpa.org/content/uploads/2017/09/main.pdf)
+- Prescrire Redaction. Patients ayant une énurésie nocturne. Rev Prescrire. Janvier 2021.
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles mictionnels. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/nephrologie-chirurgie-urologique/troubles-mictionnels)
+- Prescrire Redaction. Énurésie isolée des enfants. Rev Prescrire. 2019.
+- [Aubert D et al; AFU, SFP, SFNP, SIFUDPP. Énurésie nocturne primaire isolée : diagnostic et prise en charge. Recommandations par consensus formalisé d'experts. Progrès en Urologie. 2010. (PDF)](https://afpa.org/content/uploads/2017/09/main.pdf)
 
 {{%/sources%}}

@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-19T15:57:14+02:00"
 publishdate = "2023-10-30"
-lastmod = "2023-10-30"
+lastmod = "2023-12-05"
 specialites = ["infectiologie", "neurologie"]
 annees = "2018"
 sources = ["SPILF", "MinSanté", "DGS"]
@@ -18,6 +18,7 @@ sctid = "95883001"
 icd10 = "G00.9"
 image = true
 imageSrc = "Purpura fulminans à méningocoque du nourrisson. Photos de << Baby Charlotte >> qui a survécu et servi de modèle à la vaccination anti-méningococcique. babycharlotte.co.nz"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -121,10 +122,10 @@ Remplissage vasculaire si disponible et précautions gouttelettes par masque chi
 Préparer les documents utiles au secours:
 
 - Antécédents (coagulopathie, thrombopénie)
-- Facteurs de risque de méningite: asplénie, brèche méningée, déficit immunitaire, alcool, SDF, comorbidité psychiatrique
+- Facteurs de risque de méningite: [asplénie]({{< relref "asplenie.md" >}}), brèche méningée, déficit immunitaire, [alcool]({{< relref "sevrage-alcool.md" >}}), SDF, comorbidité psychiatrique
 - Traitements en cours (anticoagulants), prise récente d'antibiotiques
 - Allergies médicamenteuses
-- Voyage récent
+- [Voyage récent]({{< relref "voyage.md" >}})
 - Histoire de la maladie
 - Examen clinique initial
 - Contacts des proches
@@ -220,8 +221,9 @@ Consultation de suivi dans les 15 jours puis à 1 mois:
 {{%collapse "Conduite à tenir autour d'un cas de méningite" %}}
 
 > La méningite à méningocoque est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}).
+{.alert .alert-warning}
 
-Pas de mesures prophylactiques en dehors de la méningite à méningocoque.
+Pas de mesures prophylactiques en dehors de la **méningite à méningocoque**.
 
 ### Prophylaxie autour d'un cas de méningite bactérienne à méningocoque
 
@@ -240,13 +242,23 @@ Antibioprophylaxie et vaccination urgente des << sujets contacts >>:
   - Enfant: 10 mg/kg (max 600 mg) x 2/j
   - Possible pendant la grossesse, coloration des urines et larmes, interactions médicamenteuses
 - En cas de contre-indication: [ceftriaxone IM 250 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69211366&typedoc=R) dose unique (enfant 125 mg) ou [ciprofloxacine 500 mg cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63431715&typedoc=R) dose unique (enfant à 20 mg/kg max 500 mg)
-- Si méningocoque disposant d'une vaccination (C, A, Y, W135 sauf B): vaccination urgente (C voire A/C/Y/W, voir *Prévention*)
+- Si méningocoque disposant d'une vaccination (C, A, Y, W sauf B): vaccination urgente (voir *Prévention*)
 - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}})
 
 > << La vaccination avec le vaccin Bexsero® n'est recommandée autour d'un cas d'IIM B qu'en zone de campagne de vaccination >> – *DGS*
 {.alert .alert-info}
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la méningite bactérienne" "show" %}}
+
+{{< mermaid title="Prise en charge de la méningite bactérienne par le médecin généraliste. Dr JB Fron d'après AFU et SFP 2010" >}}
+graph TB
+  suspicion["<b>Suspicion de méningite</b><br>—<br>- Fièvre<br>- Raideur de nuque<br>- Céphalées<br>- Troubles de conscience<br>- Purpura fébrile<br>- Signes de localisation<br>- Convulsion fébrile avant 6 mois"] --> clinique("<b>Examen clinique immédiat rapide</b><br>—<br>- Constantes, Glasgow<br>- Examen neurologique<br>- Purpura<br>- Port du masque") --> appel("Appel du SAMU<br>voire transport immédiat") -- Attente du SAMU --> SAMU("- Monitoring<br>- Recherche porte<br> d'entrée infectieuse<br>- Si purpura: injection IV voire IM<br>ceftriaxone 1g<br>enfant: 50 mg/kg<br>- Remplissage<br>- Éléments vitaux") -. Méningocoque .-> méningocoque("<b>Méningocoque identifié</b><br>—<br>- Déclaration obligatoire<br>- Antibioprophylaxie des contacts<br>rifampicine 600 mg x 2/j<br>- Vaccination des contacts (sauf B)")
+    appel -- "Transport immédiat et<br>appel des Urgences" --> Urgences(Urgences) -. Méningocoque .-> méningocoque
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}

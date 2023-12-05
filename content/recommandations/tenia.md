@@ -6,8 +6,8 @@ synonyms = ["Ver solitaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-24T09:08:00+02:00"
 publishdate = "2023-07-24"
-lastmod = "2023-07-24"
-specialites = ["infectiologie"]
+lastmod = "2023-12-05"
+specialites = ["hepato-gastro-enterologie", "infectiologie"]
 annees = "2022"
 sources = ["Collèges"]
 tags = ["prurit"]
@@ -16,6 +16,7 @@ sctid = "76172008"
 icd10 = "B68.0"
 image = true
 imageSrc = "Cycle de vie du Taenia (ténia). Centers for Disease Control & Prevention, National Center for Infectious Diseases, Division of Parasitic Diseases, Public domain, via Wikimedia Commons"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -97,6 +98,15 @@ La prise en charge des ténias associe:
 En cas d'autres parasitoses digestives associées: albendazole à 400 mg/j pendant 3 jours avec nouveau cycle de traitement à 2 ou 3 semaines.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du ténia" "show" %}}
+
+{{< mermaid title="Prise en charge du ténia par le médecin généraliste. Dr JB Fron d'après Collèges 2022" >}}
+graph TB
+  suspicion["<b>Suspicion de ténia</b><br>—<br>Surtout asymptomatique<br>- Aspect de « tagliatelles »<br>dans les sous-vêtements<br>- Troubles digestifs<br>- Douleurs épigastriques<br>- Prurit anal<br>- Urticaire<br>- Irritabilité<br>- Troubles du sommeil<br>- Éosinophilie"] --> bilan("<b>Bilan</b><br>—<br>- Scotch-test anal<br>- Examen parasitologique<br>des selles 3 jours<br>- Anneaux rectangulaires: examen direct") --> traitement("<b>Traitement</b><br>—<br>- Précautions porc/bœuf<br>- Lavage des mains<br>- Linge 60°C<br>- Praziquantel 10 mg/kg unique") -- 3 mois --> contrôle("Répéter les examens<br>des selles")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - Prescrire Redaction. Ver solitaire. Rev Prescrire. 2023.

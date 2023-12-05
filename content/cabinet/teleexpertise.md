@@ -1,6 +1,7 @@
 +++
 title = "Demande de téléexpertise par le médecin généraliste"
 titleSeo = "Demande de téléexpertise"
+noindex = true
 description = "Demander une téléexpertise médicale pour un patient. Comment faire ? Comment facturer la téléexpertise ? Quelles plateformes utiliser ?"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T09:25:00+02:00"

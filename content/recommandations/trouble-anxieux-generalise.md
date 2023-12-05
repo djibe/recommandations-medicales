@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON", "Mustapha DAHLAB"]
 date = "2023-10-13T08:53:34+02:00"
 publishdate = "2023-10-17"
-lastmod = "2023-10-17"
+lastmod = "2023-12-03"
 specialites = ["psychiatrie"]
 annees = "2019"
 sources = ["ACP", "BAP"]
@@ -207,6 +207,7 @@ La prise en charge du trouble anxieux généralisé (TAG) nécessite un traiteme
   - Gestion des émotions et inquiétudes, relaxation. Environ 12 séances.
   - Si trouble léger à modéré: proposer [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}) (praticiens rares)
   - Si financièrement difficile: proposer des livres (audio), vidéos ou webapps sur la TCC
+- Thérapie cognitive de pleine conscience (TCPC, *Hoge 2023*)
 - Traitement ponctuel si symptômes intenses et invalidants:
   - [benzodiazépines]({{< relref "benzodiazepines.md" >}}) (alprazolam 0,5-2 mg/j, diazépam 2-10 mg/j) 2-4 semaines (max 12. Doses plus fortes selon *BAP 2010*)
   - voire hydroxyzine (50-100 mg x 4/j)
@@ -261,7 +262,7 @@ Autres traitements prescriptibles par le psychiatre: quétiapine, rispéridone, 
 {{< mermaid title="Prise en charge du trouble anxieux généralisé (TAG). Dr JB Fron d'après ACP 2019 et BAP 2010" >}}
 graph TB
   symptômes["<b>Suspicion de trouble<br>anxieux généralisé</b><br>—<br>- Symptômes psychologiques:<br>irritabilité, hypervigilance,<br>agitation, tbles concentration,<br>tremblements ...<br>- Symptômes physiques<br>palpitations, oppression thoracique<br>- Autres: sommeil, appétit, sexualité"] --> dépistage("Êtes-vous nerveux ?<br>ou GAD-2 ou PHQ-4")
-  risque["<b>Personne à risque</b><br>—<br>- Bas socio-économique<br>- Isolement affectif<br>- Âge moyen<br>- Tble psychiatrique<br>- Toxiques<br>- Traumatisme<br>- Antécédent familial de TAG"] -- Dépister --> dépistage
+  risque["<b>Personne à risque</b><br>—<br>- Bas niveau<br>socio-économique<br>- Isolement affectif<br>- Âge moyen<br>- Tble psychiatrique<br>- Toxiques<br>- Traumatisme<br>- Antécédent familial de TAG"] -- Dépister --> dépistage
   style symptômes stroke:#4150f5, stroke-width:1px
   style risque stroke:#4150f5, stroke-width:1px
     dépistage -- Positif --> étayer("- Critères diagnostiques<br>- Clinique exhaustive<br>- Bilan biologique ou +") -- Confirmation --> TAG["<b>Diagnostic de TAG</b>"] --> indicationPsychiatre("<b>Indication au psychiatre ?</b><br>—<br>- Ado, adulte jeune<br>- Diagnostic incertain<br>- Comorbidité psy<br>- Fragilité (grossesse)<br>- Trouble sévère ou résistant<br>- Risque suicidaire<br>- BZD chronique") -- Non --> RHD("- Mesures d'hygiène<br>- TCC<br>- MonParcoursPsy") -. Insuffisant .-> antidépresseur("Antidépresseur ISRS ou IRSNA<br>- Titration et min 8 semaines<br>- Puis min 6-12 mois") --> suivi("Suivi régulier:<br>- GAD-7, risque suicidaire<br>- Comorbidités<br>- Toxiques<br>- Observance<br>± grossesse")
@@ -274,6 +275,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+- [Hoge EA et al. Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial. JAMA Psychiatry. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9647561/)
 - Prescrire Redaction. Patients anxieux. Rev Prescrire. 2023.
 - [Collège National Universitaire de Psychiatrie (CNUP). Troubles anxieux Trouble anxieux généralisé Item 66b. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
 - [Psychiaclic. Trouble anxieux généralisé. 04/10/2021.](https://www.psychiaclic.fr/troubles-psychiatriques/trouble-anxieux-generalise)

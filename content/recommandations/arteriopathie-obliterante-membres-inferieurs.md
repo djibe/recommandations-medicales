@@ -8,7 +8,7 @@ synonyms = ["AOMI", "artériopathie aorto-iliaque et des membres inférieurs", "
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-05-05T18:53:00+02:00"
 publishdate = "2021-05-16"
-lastmod = "2022-10-15"
+lastmod = "2023-12-04"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS", "SFMV"]
@@ -301,6 +301,10 @@ Prise en charge de l'artériopathie (AOMI): Suivi cardiologique spécialisé, tr
   Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant nécessité revascularisation ou amputation.
 - {{< references/compare >}}
 
+### Ulcère de jambe et AOMI
+
+Pour l'ulcère mixte à prédominance veineuse (IPS < 0,8 ou > 1,3), adapter la compression: pression < 30 mmHg par bande à étirement court, surveillance spécialisée, informer sur le retrait en cas d'aggravation des douleurs (*HAS 2006*).
+
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
@@ -340,7 +344,8 @@ accTitle: Prise en charge diagnostique de l'artériopathie oblitérante des memb
 - [TASC II. Management of Peripheral Arterial Disease. 2007.](https://www.jvascsurg.org/article/S0741-5214(06)02296-8/pdf)
 - [Bendermacher BL et al. A clinical prediction model for the presence of peripheral arterial disease--the benefit of screening individuals before initiation of measurement of the ankle-brachial index: an observational study. Vasc Med. 2007.](https://journals.sagepub.com/doi/10.1177/1358863X07076827)
 - [HAS. Guide ALD Artériopathie oblitérante des membres inférieurs. Mars 2007.](https://www.has-sante.fr/upload/docs/application/pdf/ald3_aomi_guide_cardiovasc_post_corrlemire_revuenp28avril__205.pdf)
-- [HAS. Prise en charge de l'artériopathie chronique oblitérante athéroscléreuse des membres inférieurs. Avril 2006.](https://www.has-sante.fr/jcms/c_272513/fr/prise-en-charge-de-l-arteriopathie-chronique-obliterante-atherosclereuse-des-membres-inferieurs-indications-medicamenteuses-de-revascularisation-et-de-reeducation)
+- [HAS. Prise en charge de l'artériopathie chronique oblitérante athéroscléreuse des membres inférieurs. 2006.](https://www.has-sante.fr/jcms/c_272513/fr/prise-en-charge-de-l-arteriopathie-chronique-obliterante-atherosclereuse-des-membres-inferieurs-indications-medicamenteuses-de-revascularisation-et-de-reeducation)
+- [HAS. Prise en charge de l'ulcère de jambe à prédominance veineuse hors pansement. 2006.](https://www.has-sante.fr/jcms/c_459541/fr/prise-en-charge-de-l-ulcere-de-jambe-a-predominance-veineuse-hors-pansement)
 
 {{%/sources%}}
 {{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}

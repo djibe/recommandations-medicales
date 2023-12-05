@@ -64,7 +64,7 @@ Le diagnostic d'oxyurose est clinique lorsque des **vers blancs centimétriques*
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Autres causes de prurit anal:
+### Autres causes de prurit anal
 
 - [Hémorroïdes]({{< relref "hemorroides.md" >}})
 - Abcès anal
@@ -72,6 +72,7 @@ Autres causes de prurit anal:
 - [Dermatite atopique]({{< relref "dermatite-atopique.md" >}}) ou de contact
 - [Psoriasis]({{< relref "psoriasis.md" >}})
 - [Candidose]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
+- [Ténia]({{< relref "tenia.md" >}})
 - Condylomes
 - Herpès
 - Atteinte périnéale d'une MICI

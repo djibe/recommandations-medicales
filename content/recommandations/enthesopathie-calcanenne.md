@@ -7,7 +7,7 @@ synonyms = ["Aponévrosite plantaire, épine calcanéenne, fasciite plantaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-06-02T15:14:20+02:00"
 publishdate = "2020-06-02"
-lastmod = "2023-12-01"
+lastmod = "2023-12-04"
 specialites = ["rhumatologie"]
 annees = "2021"
 sources = ["Prescrire"]
@@ -122,6 +122,7 @@ Prise en charge recommandée de l'épine calcanéenne:
 - Kinésithérapie  
   - Décontraction du système suro-achilléo-calcanéo-plantaire
   - Massages transverses profonds, séquences de contraction isométrique, relâchement puis étirement passif
+  - Ondes de choc
 - Antalgiques
 - Anti-inflammatoires AINS
 - Semelles orthopédiques si trouble de la statique plantaire
@@ -141,6 +142,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+- [Guimarães JS et al. Effects of therapeutic interventions on pain due to plantar fasciitis: A systematic review and meta-analysis. Clin Rehabil. 2023.](https://www.minerva-ebp.be/FR/Analysis/830)
 - Prescrire Redaction. Douleur sous le talon par fasciite plantaire et orthèses. Juin 2021.
 - [Fulpius T et al. Talalgies plantaires : aspects cliniques et pratiques. Rev Med Suisse 2002; volume -2. 22006](https://www.revmed.ch/RMS/2002/RMS-2384/22006)
 

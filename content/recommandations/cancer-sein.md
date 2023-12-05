@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
 publishdate = "2021-11-03"
-lastmod = "2022-12-20"
+lastmod = "2023-12-04"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["INCa", "HAS", "ACOG"]
@@ -17,13 +17,13 @@ sctid = "254837009"
 icd10 = "C50.9"
 image = true
 imageSrc = "Le cancer du sein, illustration par Freepik"
-todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e, https://www.has-sante.fr/jcms/c_2849735/fr/revue-critique-de-la-litterature-sur-la-performance-de-la-mammographie-par-tomosynthese-dans-le-depistage-organise-du-cancer-du-sein, file:///C:/Users/JB/Downloads/ETAETHDEPSEIN12.pdf"
+todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e"
 +++
 
 {{%article-summary%}}
 
 - Prévention du cancer du sein: arrêt tabac et alcool, correction d'un surpoids et activité physique régulière
-- Palpation mammaire annuelle à partir de 25 ans
+- Palpation mammaire annuelle à partir de 25 ans par un médecin
 - Vérifier la participation au dépistage organisé du cancer du sein (de 50 à 74 ans, à consigner dans le dossier médical)  
   Dépistage identique en cas de prothèses mammaires (*INCa 2019*).
 - Dépistage spécifique en cas de risque élevé ou très élevé de cancer du sein (voir *Niveaux de risque*)
@@ -86,7 +86,9 @@ Chiffres du cancer du sein en France:
 - Incidence: 58.459 (métropole 2018)
 - Mortalité: 12.146 (métropole 2018)
 - Survie: 88% à 5 ans (métropole, diagnostic en 2010-2015)
-- Participation au dépistage organisé: 50,3% (2018)
+- Participation au dépistage organisé: 50,6% (2020-2021)
+- Attribution de l'augmentation des cas: facteurs de risque (51%: hormones, alcool, surpoids, sédentarité), population (30%), vieillissement (23%)
+- Introduction du dépistage généralisé: 2004
 
 {{< card-link title="Les Français et leur participation au dépistage des cancers" subtitle="Article RecoMédicales" url="/articles/participation-depistage-cancers/">}}
 
@@ -96,6 +98,9 @@ Chiffres du cancer du sein en France:
 
 ACOG
 : {{%lang%}}The American College of Obstetricians and Gynecologists{{%/lang%}}
+
+AES
+: auto-examen des seins
 
 CNGOF
 : Collège National des Gynécologues et Obstétriciens Français
@@ -116,8 +121,7 @@ RCP
 > Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans (*HAS*)
 {.alert .alert-info}
 
-Dépistages recommandés du cancer du sein chez les femmes à haut risque selon *HAS 2019* (repris par *INCa 2022*).  
-Le dépistage généralisé est aussi recommandé par la *Commission Européenne* 2022 (de 45 à 74 ans).
+Dépistages recommandés du cancer du sein chez les femmes à haut risque selon *HAS 2019* (repris par *INCa 2022*). Le dépistage généralisé est aussi recommandé par la *Commission Européenne* 2022 (de 45 à 74 ans).
 
 ### Absence de facteur de risque élevé de cancer du sein
 
@@ -246,12 +250,14 @@ Les indications à l'IRM sont limitées:
 
 ### Lutte contre les facteurs de risques modifiables de cancer du sein
 
-Réduction de la consommation d'[alcool]({{< relref "sevrage-alcool.md" >}}) (15% attribuables, *CIRC et SPF*), tabac (4,4%), lutte contre surpoids/obésité (11%) et l'inactivité physique.
+Réduction de la consommation d'[alcool]({{< relref "sevrage-alcool.md" >}}) (15% attribuables, *CIRC et SPF*), tabac (4,4%), lutte contre surpoids/[obésité]({{< relref "obesite-adulte.md" >}}) (11%) et l'inactivité physique.
 
 ### Palpation mammaire annuelle
 
-Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans (*HAS*)
+Palpation mammaire annuelle par un médecin recommandée pour toutes les femmes à partir de 25 ans (*HAS*)
 {.alert .alert-info}
+
+L'auto-examen des seins (AES) n'est pas recommandé pour les femmes de 25 à 74 ans à risque modéré bénéficiant d'une palpation annuelle et du dépistage recommandé (*CNGOF 2023*). Dans les autres cas, les données manquent.
 
 ### Mammographies de dépistage du cancer du sein
 
@@ -382,6 +388,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 
 {{< youtube id="QXlT9651svA" title="Palpation des seins (Dr Jean-Philippe Harlicot)" >}}
 
+- [Lavoué V et al. Recommandations pour la pratique clinique du CNGOF. Place de l'auto-examen des seins dans les stratégies de dépistage [Place of breast self-examination in screening strategies. French College of Gynecologists and Obstetricians (CNGOF) recommendations for clinical practice]. Gynecol Obstet Fertil Senol. 2023. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2023/RPC-Place%20de%20l'auto-examen%20des%20seins%20dans%20les%20strat%C3%A9gies%20de%20d%C3%A9pistage.pdf)
 - [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. Septembre 2022.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Santé Publique France. Dépistage du cancer du sein : quelle participation des femmes en 2021 ? 2022.](https://www.santepubliquefrance.fr/les-actualites/2022/depistage-du-cancer-du-sein-quelle-participation-des-femmes-en-2021)
@@ -396,7 +403,6 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 
 ### Bibliographie en attente
 
-- [Lavoué V et al. Recommandations pour la pratique clinique du CNGOF. Place de l'auto-examen des seins dans les stratégies de dépistage [Place of breast self-examination in screening strategies. French College of Gynecologists and Obstetricians (CNGOF) recommendations for clinical practice]. Gynecol Obstet Fertil Senol. 2023. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2023/RPC-Place%20de%20l'auto-examen%20des%20seins%20dans%20les%20strat%C3%A9gies%20de%20d%C3%A9pistage.pdf)
 - [Sessa C et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
 - [ESMO. Metastatic Breast Cancer Living Guidelines​](https://www.esmo.org/living-guidelines/esmo-metastatic-breast-cancer-living-guidelines)
 - [INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. Octobre 2021.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)

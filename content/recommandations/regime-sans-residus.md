@@ -1,13 +1,12 @@
 +++
-title = "{{ replace .Name '-' ' ' | title }}"
-titleSeo = "In case of long title or delete whole line"
-prefix = "la "
-description = "Title 2-22 words and description 160 characters max"
+title = "Régime sans résidus"
+prefix = "le "
+description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = "{{ .Date }}"
-publishdate = "{{ now.Format "2006-01-02" }}"
-lastmod = "{{ now.Format "2006-01-02" }}"
+date = "2023-12-04T15:39:22+01:00"
+publishdate = "2023-12-04"
+lastmod = "2023-12-04"
 specialites = ["endocrinologie"]
 annees = "2020"
 sources = ["Society1", "Society2"]
