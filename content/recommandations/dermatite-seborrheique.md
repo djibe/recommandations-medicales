@@ -7,7 +7,7 @@ synonyms = ["Dermite séborrhéique", "eczéma séborrhéique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-01T22:39:41+02:00
 publishdate = "2020-09-01"
-lastmod = "2023-10-16"
+lastmod = "2023-12-05"
 specialites = ["dermatologie"]
 annees = "2023"
 sources = ["CEDEF", "CMIT"]
@@ -15,9 +15,9 @@ tags = ["VIH"]
 anglais = ["Seborrheic dermatitis"]
 sctid = "50563003"
 icd10 = "L21.9"
-flowchart = true
 image = true
-imageSrc = "Dermatite séborrhéique du visage, Roymishali, CC BY-SA 3.0, via Wikimedia Commons"
+imageSrc = "Dermatite séborrhéique du visage. Roymishali, CC BY-SA 3.0, via Wikimedia Commons"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -27,7 +27,7 @@ imageSrc = "Dermatite séborrhéique du visage, Roymishali, CC BY-SA 3.0, via Wi
   - Mesures d'hygiène: éviction des facteurs déclenchants, toilette quotidienne au savon doux
   - Traitement d'attaque pendant 2 à 4 semaines
   - Traitement d'entretien 2 à 4 fois par mois au long cours
-  - Cuir chevelu: kétoconazole ou ciclopirox 1,5% shampooing x 2-3/semaine
+  - Cuir chevelu: kétoconazole ou ciclopirox 1,5 % shampooing x 2-3/semaine
 - Si dermatite séborrhéique récente, extensive ou résistante: dépister le [VIH]({{< relref "vih-sida.md" >}})
 
 Chapitres liés: [acné]({{< relref "acne.md" >}}), [eczéma]({{< relref "dermatite-atopique.md" >}}), [mycoses]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), [rosacée]({{< relref "rosacee.md" >}})
@@ -43,7 +43,7 @@ Dermatite séborrhéique (DS ou dermite séborrhéique)
 
 - [Maladie de Parkinson]({{< relref "maladie-parkinson.md" >}}) et syndromes extrapyramidaux iatrogènes
 - [Alcoolisme chronique]({{< relref "sevrage-alcool.md" >}})
-- Carcinome des VADS
+- Carcinome des voies aéro-digestives supérieures
 - [Personne vivant avec le VIH]({{< relref "vih-sida.md" >}}) (40% des séropositifs, 80% au stade SIDA)
 
 {{% /collapse %}}
@@ -102,7 +102,8 @@ Aucun examen complémentaire en l'absence d'arguments pour une autre cause.
 {{% /collapse %}}
 {{% collapse "Traitement de la dermatite séborrhéique" %}}
 
-Le traitement de la dermatite séborrhéique est suspensif et doit donc être répété.  
+Le traitement de la dermatite séborrhéique est suspensif et doit donc être répété.
+
 Prise en charge de la dermatite séborrhéique par un **traitement d'attaque pendant 2 à 4 semaines** puis **traitement d'entretien 2 à 4 fois par mois** au long cours.
 
 ### Mesures hygiéno-diététiques
@@ -121,6 +122,8 @@ OU [ciclopirox olamine crème 1%](https://base-donnees-publique.medicaments.gouv
 
 Puis application 2 à 4 fois par mois.
 
+Un [dermocorticoïde modéré]({{< relref "dermocorticoides.md" >}}) peut être utilisé initialement sur une très courte durée.
+
 #### Cuir chevelu
 
 Shampooing antipelliculaire en alternance avec un shampooing doux.
@@ -132,17 +135,7 @@ OU [kétoconazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDo
 **Effets indésirables:** prurit, sensation de brûlure, xérose cutanée, interactions médicamenteuses.  
 Seul le kétoconazole topique peut être utilisé [pendant la grossesse](https://le-crat.fr/spip.php?page=article&id_article=494).
 
-Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine (ex: *DOP antipelliculaire*), pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
-
-{{%warning%}}
-**Ne pas utiliser sur la dermatite séborrhéique:**
-
-- Dermocorticoïdes (ou sur de très courtes périodes)
-- Photothérapie
-- Gluconate de lithium
-- Acide salicylique
-
-{{%/warning%}}
+Autres produits: gluconate de lithium 8% (Lithioderm®), climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine (ex: *DOP antipelliculaire*), pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
 
 ### Terrains particuliers
 
@@ -154,7 +147,7 @@ Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, p
 {{% /collapse %}}
 {{% collapse "Prise en charge de la dermatite séborrhéique" "show" %}}
 
-{{< mermaid title="Prise en charge de la dermatite séborrhéique. Dr JB Fron d'après CEDEF 2023 et CMIT" >}}
+{{< mermaid title="Prise en charge de la dermatite séborrhéique par le médecin généraliste. Dr JB Fron d'après CEDEF 2023 et CMIT" >}}
 graph TB
   suspicion[Suspicion de dermatite séborrhéique] --> diagnostic(Diagnostic clinique<br>de DS)
   style suspicion stroke:#4150f5, stroke-width:1px
@@ -164,7 +157,7 @@ graph TB
   diagnostic --> grossesse("Grossesse<br>—<br>Kétoconazole<br>gel/crème<br>2% x 2/sem")
     scalp --> attaque("<b>Phase d'attaque</b><br>Traitement 2 à 4 sem")
     face --> attaque
-      attaque --> entretien("<b>Phase d'entretien</b><br>2 à 4 applications/mois")
+      attaque --> entretien("<b>Phase d'entretien</b><br>2 à 4 applications par mois")
         entretien -.-> severe("Sévère et résistant<br>—<br>Sérologie VIH<br>Avis dermatologique")
 {{< /mermaid >}}
 
@@ -177,17 +170,17 @@ graph TB
 - Le traitement améliore l'aspect esthétique mais est seulement suspensif
 - Il doit donc être répété lors des poussées
 - Des effets secondaires peuvent survenir à la suite d'un traitement excessif
-- En atteinte du cuir chevelu
+- En cas d'atteinte du cuir chevelu
   - Un shampooing antipelliculaire peut être utilisé en alternance avec un shampooing doux
-  - Essayer d'autres compositions en inefficacité (ciclopirox, pyrithione de zinc, sulfure de sélénium, piroctone olamine...)
-  - Si inefficace: kétoconazole 2% ou ciclopirox 1% pendant 1 mois
+  - Essayer d'autres compositions en cas d'inefficacité (ciclopirox, pyrithione de zinc, sulfure de sélénium, piroctone olamine ...)
+  - Si inefficaces: essayer kétoconazole 2% ou ciclopirox 1% pendant 1 mois
 
 {{% /collapse %}}
 {{%sources%}}
 
 - [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 111. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-111-%E2%80%94-Dermatoses-faciales-acne-rosacee-dermatite-seborrheique_CompressPdf.pdf)
+- Prescrire Rédaction. Dermatite séborrhéique chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-155-web.pdf)
-- Prescrire Rédaction. Dermatite séborrhéique chez un adulte. Rev Prescrire. Août 2020.
 - Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 UE 6. 2017.
 
 {{%/sources%}}
