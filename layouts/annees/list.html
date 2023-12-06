@@ -24,7 +24,7 @@
       </div>
       <div class="col-12 grid-1-2-3 mb-5">
       {{ range where .Pages.ByLastmod.Reverse "Section" "recommandations" }}
-      <div class="card">
+      <div class="card card-grid">
         <div class="card-body position-relative card-primary-action">
           <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
           {{ with .Params.specialites}}<h3 class="card-subtitle d-none d-md-block">{{ delimit . ", " }}</h3>{{end}}
@@ -33,9 +33,11 @@
             <span>{{ .Lastmod.Format "02/01/2006" }}</span>
           </p>
         </div>
+        {{ if .Params.tags }}
         <div class="card-actions">
-          {{ partial "widgets/tags-render.html" . }}
+          {{ partial "widgets/tags-outline-render.html" . }}
         </div>
+        {{ end }}
       </div>
       {{ end }}
       </div>

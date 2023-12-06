@@ -4,8 +4,16 @@
   <div class="container-md">
     <div class="row">
       <div class="col-12">
-        <h1 class="taxonomyList">{{ .Title }}</h1>
-        <nav aria-label="Fil d'ariane" class="mb-4">
+        <header class="fancy__header grid-1-2" style="padding-top: 80px">
+          <div class="title-container">
+            <h1>{{ .Title }}</h1>
+            <h2>Chapitres autour du concept</h2>
+          </div>
+          <div class="icon-container">
+            <img src="/images/icons/tag.svg" class="img-fluid" alt="Nuage de mots-clés">
+          </div>
+        </header>
+        <nav aria-label="Fil d'ariane" class="my-4">
           <ol class="breadcrumb">
             {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
           </ol>
@@ -14,14 +22,14 @@
       </div>
       <div class="col-12 grid-1-2-3 mb-5">
       {{ range .Pages.ByTitle }}
-      <div class="card">
+      <div class="card card-grid">
         <div class="card-body position-relative card-primary-action">
           <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
           {{ with .Params.specialites}}<h3 class="card-subtitle d-none d-md-block">{{ delimit . ", " }}</h3>{{end}}
         </div>
         <div class="card-actions">
           {{ partial "widgets/guidelineyear-render.html" . }}
-          {{ partial "widgets/tags-render.html" . }}
+          {{ partial "widgets/tags-outline-render.html" . }}
         </div>
       </div>
       {{ end }}

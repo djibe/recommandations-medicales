@@ -15,6 +15,14 @@ title = "RecoMédicales"
   tag = "tags"
   annee = "annees"
 
+[[cascade]]
+  [cascade._build]
+    list = 'never'
+    render = 'never'
+  [cascade._target]
+    kind = '{taxonomy,term}'
+    path = '{/specialites,/specialites/**}'
+
 [params]
   author = "Jean-Baptiste FRON"
   dateFormat = "02/01/2006"

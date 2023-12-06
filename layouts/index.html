@@ -40,7 +40,7 @@
       <h3 class="typography-headline-5 mb-4"><a href="/recommandations/" class="mb-5">Dernières recommandations ajoutées</a></h3>
       <div class="grid-1-2-3">
       {{ range first 6 ( where site.RegularPages.ByPublishDate.Reverse "Section" "recommandations" ) }}
-        <div class="card">
+        <div class="card card-grid">
           <div class="card-body card-primary-action">
             <h4 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
             <p class="card-subtitle pb-0">

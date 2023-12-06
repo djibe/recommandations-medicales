@@ -634,12 +634,10 @@ article {
   }
 }
 
-.home {
-  @media (min-width: 1200px) {
-    .card {
-      border: 1px solid rgba(0, 0, 0, 0.12);
-      box-shadow: none;
-    }
+@media (min-width: 1200px) {
+  .card-grid {
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    box-shadow: none;
   }
 }
 
