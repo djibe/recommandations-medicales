@@ -188,7 +188,7 @@ Adresser au spécialiste si un diagnostic pouvant être suivi en ville n'est pas
 
 La prise en charge d'une diarrhée chronique est surtout étiologique.
 
-### Prise en charge de la diarrhée chronique
+### Mesures de prise en charge de la diarrhée chronique
 
 Mesures à proposer pour la prise en charge de la diarrhée chronique, en parallèle du bilan étiologique:
 

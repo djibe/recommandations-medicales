@@ -1,8 +1,8 @@
 +++
 title = "Méningite bactérienne et méningocoque"
 titleSeo = "Méningite bactérienne méningocoque"
-noindex = true
 prefix = "la "
+longHtml = true
 description = "Recommandations pour la prise en charge des méningites bactériennes. Purpura fulminans, examen clinique, appel du SAMU, ceftriaxone 1g IM si purpura fulminans"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

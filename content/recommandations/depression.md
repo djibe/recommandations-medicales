@@ -110,9 +110,9 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{<
 
 <div class="card card-hover my-3 my-xl-5">
   <ul class="nav nav-tabs nav-justified mb-4" role="tablist">
-  <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-depistage" data-toggle="tab" href="#nav-depistage" role="tab" aria-controls="nav-depistage" aria-selected="true">Dépistage</button></li>
-  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-diagnostic" data-toggle="tab" href="#nav-diagnostic" role="tab" aria-controls="nav-diagnostic" aria-selected="false">Diagnostic</button></li>
-  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-severite" data-toggle="tab" href="#nav-severite" role="tab" aria-controls="nav-severite" aria-selected="false">Sévérité</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-depistage" data-toggle="tab" data-target="#nav-depistage" role="tab" aria-controls="nav-depistage" aria-selected="true">Dépistage</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-diagnostic" data-toggle="tab" data-target="#nav-diagnostic" role="tab" aria-controls="nav-diagnostic" aria-selected="false">Diagnostic</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-severite" data-toggle="tab" data-target="#nav-severite" role="tab" aria-controls="nav-severite" aria-selected="false">Sévérité</button></li>
   </ul>
   <div class="card-body tab-content">
   <div class="tab-pane fade show active" id="nav-depistage" role="tabpanel" aria-labelledby="nav-tab-depistage">
@@ -123,8 +123,8 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{<
 - {{< modal-btn modal-phq4 >}}Questionnaire PHQ-4{{< /modal-btn >}} (couplé au repérage d'une anxiété – *ACP 2019*)
 - Post-partum: {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou questionnaire EPDS (Edinburgh postnatal depression scale)
 
-  </div>
-  <div class="tab-pane fade" id="nav-diagnostic" role="tabpanel" aria-labelledby="nav-tab-diagnostic">
+</div>
+<div class="tab-pane fade" id="nav-diagnostic" role="tabpanel" aria-labelledby="nav-tab-diagnostic">
 
 #### Échelles d'aide au diagnostic de la dépression de l'adulte {.typography-headline-6}
 
@@ -134,8 +134,8 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{<
 - {{< modal-btn modal-hamilton >}}**Échelle d'Hamilton**{{< /modal-btn >}} (HDRS ou HAM-D, suivi de l'évolution ++)
 - Sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} (variantes 4 ou 30 questions, et MMSE)
 
-  </div>
-  <div class="tab-pane fade" id="nav-severite" role="tabpanel" aria-labelledby="nav-tab-severite">
+</div>
+<div class="tab-pane fade" id="nav-severite" role="tabpanel" aria-labelledby="nav-tab-severite">
 
 #### Échelles d'aide pour grader la sévérité de la dépression {.typography-headline-6}
 
@@ -144,7 +144,7 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{<
 - **Échelle de dépression de Beck** (auto-questionnaire)
 - **[Échelle MADRS](https://www.psychiaclic.fr/media/pages/ressources/ressource-lien/82949d2960-1633341129/madrs.pdf)** (Montgomery Asberg depression rating Scale)
 
-  </div>
+</div>
 </div>
 </div>
 
