@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-18T17:12:47+02:00"
 publishdate = "2023-09-19"
-lastmod = "2023-10-14"
+lastmod = "2023-12-07"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "SFAR", "USPTF"]
@@ -16,7 +16,8 @@ sctid = "398254007"
 icd10 = "O14.9"
 image = true
 imageSrc = "Découverte d'une vascularite placentaire après délivrance dans les suites d'une pré-éclampsie. Nephron, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "weeks of gestation = SA ou SG ?"
+todo = "RELECTURE, weeks of gestation = SA ou SG ?"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -46,7 +47,7 @@ Pré-éclampsie (ou prééclampsie)
   - Antécédents familiaux de pré-éclampsie
   - Origine Africaine
 - Facteurs immunologiques
-  - **Nulliparité** (70-75%)
+  - **Nulliparité** (70-75 %)
   - Changement de partenaire
   - Insémination avec donneur
 - Facteurs physiologiques: avant 20 ans et après 35 ans
@@ -132,7 +133,7 @@ Pré-éclampsie avec au moins un critère de sévérité parmi:
 - Signes neurologiques: céphalées sévères résistantes au traitement, troubles visuels ou auditifs persistants, réflexes ostéo-tendineux vifs, diffusés et polycinétiques
 - Aggravation des signes ci-dessus
 
-> *CNGOF, SFAR 2022*
+> – *CNGOF, SFAR 2022*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -157,7 +158,7 @@ Pré-éclampsie avec au moins un critère de sévérité parmi:
 
 ### Examen clinique
 
-> Pendant la grossesse, mesure manuelle de la pression artérielle [selon les recommandations]({{< relref "hypertension-arterielle.md" >}}) ou par [tensiomètre électronique validé pour la grossesse](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=pregnancy). (*ESH 2023*) **à chaque consultation** avec la bandelette urinaire
+> Pendant la grossesse, mesure manuelle de la pression artérielle [selon les recommandations]({{< relref "hypertension-arterielle.md" >}}) ou par [tensiomètre électronique validé pour la grossesse]({{< relref "tensiometres-electroniques-valides.md" >}}) (*ESH 2023*) **à chaque consultation** avec la bandelette urinaire
 {.alert .alert-info}
 
 - Mesure de la pression artérielle à chaque consultation pendant la grossesse, fréquence cardiaque
@@ -186,7 +187,7 @@ Rechercher un **syndrome des anticorps anti-phospholipides** (SAPL) en cas de pr
 {{% /collapse %}}
 {{%collapse "Traitement de la pré-éclampsie" %}}
 
-> << L'hospitalisation est systématique lors de la découverte d'une prééclampsie >> (*Collège*)
+> << L'hospitalisation est systématique lors de la découverte d'une prééclampsie >> – *Collège*
 {.alert .alert-warning}
 
 Toute suspicion de pré-éclampsie doit être prise en charge dans des **urgences obstétricales**.
@@ -217,6 +218,20 @@ Pour une pré-éclampsie sévère entre 24 et 34 SA sans signes de gravité mate
 - Si pré-éclampsie sévère ou précoce: rechercher des anticorps anti-phospholipides (*CNGOF post-partum*)
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la pré-éclampsie" "show" %}}
+
+{{< mermaid title="Prise en charge de la pré-éclampsie par le médecin généraliste. Dr JB Fron d'après CNGOF et SFAR" >}}
+graph TB
+  suspicion["<b>Grossesse</b><br>—<br>Mesure de la pression<br>artérielle à chaque consultation,<br>manuelle ou appareil validé<br>pour la grossesse<br>et bandelette urinaire"] --> cabinet("Pression artérielle ≥ 140 et/ou 90 mmHg<br>et protéines à la bandelette urinaire") -- HTA + protéinurie --> prééclampsie["<b>Suspicion de pré-éclampsie</b><br>—<br>Après 20 SA: hypertension artérielle<br>≥ 140 et/ou 90 mmHg avec<br>protéinurie ≥ 0,3 g/24h"] --> gravité("<b>Signe de gravité ?</b><br>—<br>- HTA ≥ 160/110 mmHg<br>- Épigastralgies, douleurs HCD<br>en barre persistantes ou intenses<br>- Signes neurologiques<br>- Détresse respiratoire<br>- Douleur thoracique<br>- Oligoanurie") -- Oui --> SAMU(Appel du 15) --> urgences(Urgences obstétricales)
+    gravité -- Non --> urgences
+      cabinet -- "HTA isolée ≥ 160/110" --> urgences
+      cabinet -- "HTA isolée &lt; 160/110" --> HTA("<b>HTA gestationnelle modérée</b><br>—<br>- Méthyldopa<br>- Suivi spécialisé<br>- Bilan mensuel:<br>albuminurie, NFS, ASAT, ALAT,<br>créatininémie, uricémie<br>- Après 22 SA: échodoppler<br>des artères utérines") -.-> prééclampsie
+  style prééclampsie stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+> **160/110 =** PAS ≥ 160 mmHg et/ou PAD ≥ 110 mmHg
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [US Preventive Services Task Force. Screening for Hypertensive Disorders of Pregnancy: US Preventive Services Task Force Final Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2809680)

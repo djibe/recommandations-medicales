@@ -475,7 +475,7 @@ Particularités de l'hypertension artérielle pendant la grossesse:
 - Classification différente
   - HTA modérée: 140-159/90-109 mmHg
   - HTA sévère: ≥ 160/110 mmHg, nécessite une hospitalisation en urgence
-- [Tensiomètres pour la grossesse](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=pregnancy)
+- [Tensiomètres pour la grossesse]({{< relref "tensiometres-electroniques-valides.md" >}})
 - Traiter si ≥ 140/90 mmHg
 - Tension cible < 140/90 mmHg
 - Définitions
@@ -490,7 +490,7 @@ Particularités de l'hypertension artérielle pendant la grossesse:
   - Échodoppler des artères utérines (après 22 SA)
   - Recherche des signes de phéochromocytome
 
-Traitements de préférence: Methyldopa, labétalol voire nifédipine LP.
+Traitements de préférence: [méthyldopa](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60578560&typedoc=R) (Aldomet®), [labétalol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65193337&typedoc=R) (Trandate®) voire nifédipine LP.
 
 Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine
 {.alert .alert-warning}

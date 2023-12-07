@@ -7,7 +7,7 @@ synonyms = ["Colpocèle"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-07T13:29:43+02:00"
 publishdate = "2022-06-14"
-lastmod = "2022-11-23"
+lastmod = "2023-12-07"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["HAS"]
@@ -23,11 +23,12 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Lutte contre les faveurs favorisants le prolapsus génital
-- Prise en charge du prolapsus génital de la femme par une sage-femme ou un kinésithérapeute pour la rééducation abdomino-périnéale et le choix du pessaire (non remboursé)
+- Le prolapsus génital de la femme correspond à une hernie de la cavité vaginale (ou colpocèle) dans laquelle s'engage un ou plusieurs éléments du contenu pelvien.
+- Lutte contre les faveurs favorisant le prolapsus: correction d'un surpoids et d'une constipation, toux chronique, porte de charges lourdes, sédentarité
+- Prise en charge du prolapsus génital de la femme en cas de symptômes ou de complications. Traitement par une sage-femme ou un kinésithérapeute pour la rééducation abdomino-périnéale et le choix du pessaire (non remboursé)
 - Chirurgie des prolapsus génitaux uniquement en cas d'échec de la rééducation et du pessaire
 
-Article lié: [Ménopause et traitement hormonal]({{< relref "menopause.md" >}})
+Article lié: [ménopause et traitement hormonal]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -128,12 +129,12 @@ Examens selon des symptômes non expliqués par le prolapsus génital.
 
 ### Échographie rénale
 
-Indication: prolapsus extériorisé en permanence pr risque d'insuffisance rénale obstructive.
+Indication: prolapsus extériorisé en permanence pour risque d'[insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) obstructive.
 
 {{% /collapse %}}
 {{%collapse "Mesures générales" %}}
 
-Prise en charge restreinte aux prolapsus génitaux symptomatiques ou compliqués
+La prise en charge des prolapsus génitaux est indiquée en cas de symptômes ou de complications
 {.alert .alert-info}
 
 ### Mesures générales de prise en charge du prolapsus génital
@@ -166,8 +167,7 @@ Traitement de première intention d'un prolapsus génital de la femme (stade < 3
 
 #### Pessaire
 
-Efficacité immédiate et équivalente au traitement chirurgical du prolapsus.  
-Non pris en charge par l'Assurance Maladie.
+Efficacité immédiate et équivalente au traitement chirurgical du prolapsus. Non pris en charge par l'Assurance Maladie.
 
 Adresser à tout spécialiste en gynécologie (généraliste, gynécologue, sage-femme) pour l'évaluation du modèle adéquat et le suivi du pessaire gynécologique
 {.alert .alert-info}
@@ -193,8 +193,7 @@ Consulter rapidement en cas de: pertes vaginales anormales, métrorragies, troub
 
 #### Rééducation périnéale
 
-La rééducation périnéale du prolapsus génital améliore les symptômes, la qualité de vie et le confort des femmes.  
-Elle est recommandée pour la prise en charge en **première intention d'un prolapsus génital modéré**.
+La rééducation périnéale du prolapsus génital améliore les symptômes, la qualité de vie et le confort des femmes. Elle est recommandée pour la prise en charge en **première intention d'un prolapsus génital modéré**.
 
 Elle est réalisée par les **kinésithérapeute ou sage-femme** avec apprentissage d'auto-rééducation.  
 Elle peut être associée à l'utilisation d'un pessaire.
@@ -260,6 +259,15 @@ En règle générale, le pessaire peut être utilisé plusieurs années (2-3 ans
 {.alert .alert-info}
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du prolapsus génital" "show" %}}
+
+{{< mermaid title="Prise en charge du prolapsus génital de la femme par le médecin généraliste. Dr JB Fron d'après HAS 2021" >}}
+graph TB
+  suspicion["<b>Colpocèle</b><br>—<br>- Pesanteur pelvienne et/ou<br>sensation de boule vaginale<br>- Prolapsus vaginal à l'examen"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Facteurs de risque:<br>toux chronique, efforts de poussée,<br>obésité, sédentarité,<br>port de charges lourdes<br>- Autres symptômes: urinaires,<br>ano-rectaux<br>- Gêne<br>- Retentissement:<br>activités, sexuel, psychologiques<br>- Attentes et préférences") --> examen("<b>Examen pelvien</b><br>—<br>Couché puis debout.<br>Efforts de poussée et toux.") --> bilan("<b>Bilan</b><br>—<br>- Frottis cervico-vaginal<br>- Test immunologique fécal<br>- Prolapsus extériorisé:<br>échographie rénale") -- "Symptomatique<br>ou compliqué" --> mesures("<b>Mesures générales</b><br>—<br>- Information<br>- Lutte: surpoids,<br>constipation<br>- Activité physique<br>- Régime méditerranéen<br>- Port de charges") --> traitement("<b>Traitement</b><br>—<br>- Rééducation périnéale<br>- Pessaire") -. Échec .-> chirurgie("Chirurgien gynécologique<br>ou urologue")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 {{< youtube id="ZlMzXY4J-P8" title="La minute RECO HAS | Prolapsus génital (Dr Anne-Cécile Pizzaferrato)" >}}

@@ -326,7 +326,7 @@ Chirurgie le plus souvent. Parfois chimiothérapie adjuvante et thérapie ciblé
 
 ### Préparation colique pour une coloscopie
 
-- Régime sans résidus à débuter la veille (*ESGE*)
+- [Régime sans résidus]({{< relref "regime-sans-residus.md" >}}) à débuter la veille (*ESGE*)
   - Interdits: fruits, légumes, lait, yaourts, fromage blanc, pains et céréales complètes, jus de fruits
   - Autorisés: pommes ou carottes fraîches cuites, viandes, volailles, œufs, poissons, jambon blanc, pâtes, riz et pain blanc, pommes de terre (sans la peau), fromages à pâte cuite (gruyère, emmental, beaufort, comté), biscottes au froment, gâteaux secs simples
 - Le liquide de préparation colique

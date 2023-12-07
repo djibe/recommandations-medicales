@@ -1,58 +1,119 @@
 +++
 title = "Régime sans résidus"
 prefix = "le "
-description = "TODO:"
+description = "Recommandations pour l'application du régimes sans résidu pour une coloscopie ou une maladie de l'intestin. Liste des aliments interdits et autorisés"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-12-04T15:39:22+01:00"
-publishdate = "2023-12-04"
-lastmod = "2023-12-04"
-specialites = ["endocrinologie"]
-annees = "2020"
-sources = ["Society1", "Society2"]
-tags = ["tag 1", "tag 2"]
-anglais = ["English word", "you can add one or delete this one"]
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = "https://prod-mapping.ihtsdotools.org/#/"
-draft = true
-image = false
-imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter"
+publishdate = "2023-12-07"
+lastmod = "2023-12-07"
+specialites = ["hepato-gastro-enterologie"]
+annees = "2017"
+sources = ["SNFGE", "CREGG"]
+tags = []
+anglais = ["Low residue diet"]
+sctid = "160675002"
+icd10 = ""
+image = true
+imageSrc = "Le régime sans résidus. brgfx / Freepik"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-
+- Le régime sans résidu évince les fibres végétales et les résidus de viande
+- Il est utilisé en vue d'une coloscopie, au cours d'une maladie inflammatoire intestinale ou en post-opératoire
+- Pour une coloscopie, le régime sans résidus est à démarrer 3 jours avant l'examen (la veille selon *ESGE 2019*)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
+Régime sans résidus
+: Régime alimentaire supprimant les fibres alimentaires végétales et les résidus de viande (tendons, kératine). Il peut être utilisé en vue d'une **coloscopie** ou pour une maladie intestinale (inflammatoire, post-opératoire).
+: Pour une coloscopie, le régime sans résidus doit être débuté **3 jours avant** (la veille selon *ESGE 2019*).
 
+### Abréviations
+
+CREGG
+: Club de Réflexion des Cabinets et Groupes d'Hépato‑Gastroentérologie
+
+SNFGE
+: Société Nationale Française de Gastro-Entérologie
+{.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Clinique" %}}
+{{%collapse "Aliments autorisés" %}}
 
+### Aliments adaptés au régime sans résidus
+
+- Matières grasses  
+  Beurre, margarine et huiles crus.
+- Viandes cuites sans matière grasses
+  - À l'eau, à la vapeur, en papillote, au four traditionnel, au micro-ondes
+  - Viande rouge maigre, lapin, volailles sans la peau, jambon maigre
+- Poissons frais ou surgelés, non panés, cuits sans matière grasse
+- Coquillages, crustacés (sauf escargots)
+- Œufs cuits sans matière grasse (à la coque, mollets, durs)
+- Riz, pâtes, semoule, tapioca
+- Pain blanc grillé, biscottes
+- Assaisonnements  
+  Vinaigre, jus de citron sans pulpe ni pépin, sel, aromates sans feuille.
+- Bouillon en cubes ou bouillons clairs (eau de cuisson seule)
+- Fromages à pâte dure  
+  Gruyère, Cantal, hollande, Tomme de Savoie ou Pyrénées.
+- Biscuits secs, meringues, sucre, miel, gelées (type groseille, coing ...)
+- Eau plate  
+  Eau minérale, du robinet, de source.
+- Eau gazeuse: naturelle ou aromatisée
+- Sodas sans pulpe
+- Jus de fruits sans pulpe dilués ou non avec de l'eau
+- Infusions, thé, café
+- Produits sucrés: sucre, miel, chocolat noir et au lait (sans fruits secs)
 
 {{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
+{{%collapse "Aliments interdits" %}}
 
+<< Tout aliment ou boisson ne figurant pas sur cette liste doit être considéré comme interdit >> – *SNFGE/CREGG 2017*
+{.alert .alert-warning}
+
+### Aliments proscrits pour le régime sans résidus
+
+- Viandes fumées grasses, en sauce, crues
+- Matières grasses cuites
+- Charcuteries
+- Poissons fumés ou séchés
+- Fruits et légumes cuits, crus ou en conserve
+- Pommes de terre (chips, frites, purée)
+- Quinoa
+- Confitures
+- Lait et laitages: interdits quand il existe une atteinte de la muqueuse colique  
+  Le lait peut avoir un effet bénéfique de chasse colique dans le cadre d'une préparation à la coloscopie
+- Pain complet ou frais, céréales, muesli ...
+- Fromages fermentés  
+  Camembert, brie, persillés (roquefort, bleu ...).
+- Pâtisserie, glaces ou sorbets, chocolat avec noisettes ou fruits
+- Condiments  
+  Moutarde, cornichons, sauces pimentées, aromates en feuille, sauce tomate, épices fortes, vinaigre.
+- Boissons alcoolisées
+- Jus de fruits ou soda avec pulpe
+- Café turc
+
+Ne pas consommer de fruits à pépins (raisins, fraises, figues, kiwis ...) durant les 6 jours précédents la coloscopie, soit 3 jours avant le début du régime sans résidus.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Prise en charge par un régime sans résidus" "show" %}}
 
+{{< mermaid title="Prise en charge par un régime sans résidus. Dr JB Fron d'après SNFGE/CREGG 2017" >}}
+graph TB
+  régime["<b>Indication au régime sans résidus</b><br>—<br>- Coloscopie: 3 jours avant<br>La veille selon ESGE 2019<br>- Maladie inflammatoire intestinale<br>- Post-opératoire"] --> autorisé("<b>Aliments autorisés</b><br>—<br>- Matières grasses<br>- Viandes maigres<br>- Poissons frais<br>- Crustacés<br>- Riz, pâtes, semoules<br>- Pain blanc grillé<br>- Fromages à pâte dure<br>- Thé, café")
+    régime --> interdit("<b>Aliments interdits</b><br>—<br>- Viandes et poissons fumées<br>- Charcuteries<br>- Matières grasses cuites<br>- Pommes de terre<br> Fruits et légumes<br>- Pain et farines complètes<br>- Fromages fermentés<br>- Alcool<br>- Tout le reste")
+  style régime stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 
-{{% /collapse %}}
+{{%/collapse%}}
 {{%sources%}}
 
-- [Source 1](URL)
-
-### Bibliographie en attente
-
-- Prescrire
-- Cochrane
-- Minerva
+- [Hassan C et al. Bowel preparation for colonoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2019. Endoscopy. 2019.](https://www.thieme-connect.de/products/ejournals/html/10.1055/a-0959-0505)
+- [Coulom P, Grunberg B. Régime sans résidus. SNFGE, CREGG. 2017.](https://www.snfge.org/download/file/fid/2919)
 
 {{%/sources%}}
-
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–
-[External link](https://discourse.gohugo.io/ "{rel='nofollow'}")
