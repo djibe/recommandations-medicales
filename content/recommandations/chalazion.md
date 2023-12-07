@@ -5,7 +5,7 @@ description = "Recommandations pour la prise en charge et le traitement du chala
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-29T23:34:00+02:00"
 publishdate = "2021-04-30"
-lastmod = "2023-11-30"
+lastmod = "2023-12-07"
 specialites = ["ophtalmologie"]
 annees = "2021"
 sources = ["COUF"]
@@ -22,8 +22,8 @@ flowchart = true
 {{%article-summary%}}
 
 - Le chalazion est un granulome de la paupière par obstruction canal excréteur de la glande de Meibomius
-- Prise en charge du granulome par des soins de paupières avec massage doux pour désobstruer le canal et un collyre antibiotique
-- Traitement médicamenteux du chalazion par collyre antibiotique de l'œil atteint pendant 7 jours
+- Prise en charge du granulome par des soins de paupières avec massage doux pour désobstruer le canal
+- Traitement médicamenteux du chalazion par pommade ou collyre corticoïde de l'œil atteint pendant 7 jours
 
 Article lié: [Orgelet]({{< relref "orgelet.md" >}})
 
@@ -39,14 +39,14 @@ Chalazion
 
 Prise en charge du chalazion:
 
-- Soins de paupières  
+- **Soins de paupières** principalement  
   Humidification à l'eau chaude puis massages avec le doigt, de la base vers le bord libre pour drainer les sécrétions.
 - Éviter le port de lentilles de contact pendant toute la durée du traitement
 - Avis ophtalmologique si persistance après 7 à 14 jours
 
-### Corticothérapie et antibiotique local {.mt-5}
+### Corticothérapie locale {.mt-5}
 
-Corticothérapie locale avec collyre antibiotique pendant **7 jours** (parfois prolongé quelques jours).
+Corticothérapie locale par pommade ou collyre pendant **7 jours** (parfois prolongé quelques jours). En France, ces spécialités ne sont disponibles qu'associées à des antibiotiques.
 
 Vérifier la monographie car il existe des contre-indications spécifiques pour chaque spécialité.
 
@@ -75,7 +75,7 @@ En cas de saignement post-interventionnel: compression simple pendant quelques m
 
 {{< mermaid title="Prise en charge du chalazion par le médecin généraliste. Dr JB Fron d'après COUF 2021" >}}
 graph TB
-  chalazion["<b>Chalazion</b><br>—<br>Tuméfaction de la paupière"] --> soins("<b>Auto-soins</b><br>—<br>- Soins de paupières<br>- Pas de lentilles") --> collyre("Collyre antibiotique 7 jours<br>adapté à l'âge, sauf grossesse") -. Échec .-> autre(Prolonger 7 jours<br>ou avis ophtalmologique)
+  chalazion["<b>Chalazion</b><br>—<br>Tuméfaction de la paupière"] --> soins("<b>Auto-soins</b><br>—<br>- Soins de paupières<br>- Pas de lentilles") --> collyre("Collyre corticoïde 7 jours<br>adapté à l'âge, sauf grossesse") -. Échec .-> autre(Prolonger 7 jours<br>ou avis ophtalmologique)
   style chalazion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

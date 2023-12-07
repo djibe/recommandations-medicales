@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-16T13:47:19+01:00"
 publishdate = "2021-11-18"
-lastmod = "2023-11-20"
+lastmod = "2023-12-07"
 specialites = ["therapeutique"]
 annees = "2015"
 sources = ["HAS"]
@@ -116,11 +116,12 @@ Respecter l'AMM de la spécialité:
 | Lormétazépam             | Ex-noctamide, gén |         13,5 | Insomnie occasionnelle/transitoire |
 | Oxazépam                 | Seresta           |            8 | Anxiété, sevrage alcool            |
 | Prazépam                 | Lysanxia, gén     |           65 | Anxiété, sevrage alcool            |
-| Zolpidem                 | Stilnox, gén      |          2,5 | Insomnie occasionnelle/transitoire |
+| Zolpidem ²               | Stilnox, gén      |          2,5 | Insomnie occasionnelle/transitoire |
 | Zopiclone                | Imovane, gén      |            5 | Insomnie occasionnelle/transitoire |
 {{< /table >}}
 
-> Données insuffisantes pour comparer les efficacités hypnotiques ou anxiolytiques.  
+> ²: ordonnance sécurisée  
+Données insuffisantes pour comparer les efficacités hypnotiques ou anxiolytiques.  
 Le diazépam est la référence de la *SFA* pour le sevrage alcoolique.  
 L'oxazépam est la benzodiazépine de référence selon *Prescrire* pour une insomnie transitoire. Il ne présente pas les interactions avec le cytochrome C3A4 (à l'inverse de l'alprazolam qui pose problème avec le paxlovid).
 
@@ -210,6 +211,7 @@ L'essai EMPOWER a démontré l'effet de l'intervention brève sur l'arrêt à 6 
 - Prescrire Redaction. Benzodiazépines ou apparentés. Rev Prescrire. Janvier 2021.
 - [HAS. Arrêt des benzodiazépines et médicaments apparentés : démarche du médecin traitant en ambulatoire. Recommandation de bonne pratique. Juin 2015.](https://www.has-sante.fr/jcms/c_2038262/fr/arret-des-benzodiazepines-et-medicaments-apparentes-demarche-du-medecin-traitant-en-ambulatoire)
 - [HAS. Modalités d'arrêt des benzodiazépines et médicaments apparentés chez le patient âgé. Recommandations professionnelles. Octobre 2007.](https://www.has-sante.fr/jcms/c_601509/fr/modalites-d-arret-des-benzodiazepines-et-medicaments-apparentes-chez-le-patient-age)
+- [Ministre des affaires sociales et de la santé. Arrêté du 7 janvier 2017 portant application d'une partie de la réglementation des stupéfiants aux médicaments à base de zolpidem administrés par voie orale. Journal Officiel. 2017.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033843028/)
 
 ### Bibliographie en attente
 

@@ -18,7 +18,7 @@ icd10 = "https://prod-mapping.ihtsdotools.org/#/"
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter"
+todo = "descr > summary > liens > photo > newsletter > flow"
 +++
 
 {{%article-summary%}}

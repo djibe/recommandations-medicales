@@ -18,7 +18,7 @@ icd10 = "I83.0"
 draft = true
 image = false
 imageSrc = ""
-todo = "summary > liens > photo > newsletter > Mustapha, ALD 31 récidivant"
+todo = "summary > liens > photo > newsletter > Mustapha > flow, ALD 31 récidivant"
 +++
 
 {{%article-summary%}}

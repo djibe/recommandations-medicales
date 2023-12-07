@@ -16,6 +16,7 @@ sctid = "75053002"
 icd10 = "M30.3"
 image = true
 imageSrc = "Signes de la maladie de Kawasaki. A. Hyperhémie conjonctivale aiguë bilatérale non purulente. B. Chéilite et langue framboisée. C. Rash érythémateux. D et E. Érythème des extrémités avec œdèmes douloureux. F. Desquamation des doigts. G. Érythème du site vaccinal au BCG. H. Érythème et desquamation périanale. Dong Soo Kim, CC BY-SA 4.0 via Wikimedia Commons"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -111,6 +112,16 @@ L'enfant peut mener une vie tout à fait normale.
 Le schéma vaccinal doit être adapté après l'administration d'immunoglobulines.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la maladie de Kawasaki" "show" %}}
+
+{{< mermaid title="Prise en charge de la suspicion de maladie de Kawasaki par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après PNDS 2022" >}}
+graph TB
+  suspicion["<b>Suspicion de maladie<br>de Kawasaki</b><br>—<br>Fièvre ≥ 5 jours de l'enfant<br>de 6 mois à 5 ans"] --> clinique("<b>Critères diagnostiques</b><br>—<br>- Éruption cutanée polymorphe<br>- Hyperhémie conjonctivale aiguë<br>bilatérale non purulente<br>- Énanthème lèvres et bouche<br>- Adénopathies cervicales:<br> au moins 1 &gt; 1,5 cm<br>- Signes tardifs des extrémités:<br>érythème, œdème, desquamation") -- "≥ 4 signes" --> diagnostic(Diagnostic clinique) --> urgences(Urgences pédiatriques)
+    clinique -- "&lt; 4 signes" --> incomplet(Forme incomplète) --> urgences
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [Centre de Référence des Maladies Auto-inflammatoires et de l'Amylose inflammatoire (CeRéMAIA). Maladie de Kawasaki. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3363015/fr/maladie-de-kawasaki)

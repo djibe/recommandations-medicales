@@ -17,6 +17,7 @@ icd10 = "N47"
 image = false
 imageSrc = ""
 todo = "sources +++"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -35,7 +36,7 @@ Il peut s'accompagner d'adhérences balano-préputiales et/ou d'une brièveté d
 
 Phimosis serré
 : Rétraction du prépuce strictement impossible.
-: Le phimosis est dit peu-serré quand la rétraction du prépuce est possible mais aboutit à un anneau de striction plus ou moins marqué.
+: Le phimosis est dit << peu serré >> quand la rétraction du prépuce est possible mais aboutit à un anneau de striction plus ou moins marqué.
 
 Prépuce
 : Capuchon cutanéo-muqueux très innervé qui assure protection du méat urétral et évite frottements du gland.
@@ -158,6 +159,16 @@ Méthodes chirurgicales:
 [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pathologies courantes de la région inguino-scrotale et du pénis. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/pathologies)
 
 {{%/sources%}}
+{{%collapse "Prise en charge du phimosis" "show" %}}
+
+{{< mermaid title="Prise en charge du phimosis par le médecin généraliste. Dr JB Fron d'après Biblio" >}}
+graph TB
+  phimosis["<b>Phimosis</b><br>—<br>Étroitesse du prépuce prédominant sur<br>l’anneau distal, empêchant plus<br>ou moins sa rétractation"] --> forcées("Jamais de manœuvres de<br>rétractions forcées du prépuce") --> âge(Âge) -- "&lt; 3-6 ans" --> abstention(Abstention)
+    âge -- "≥ 3-6 ans" --> dermocorticoïdes("Dermocorticoïde fort<br>pendant 4 semaines<br>et manœuvres douces") -. Échec .-> urologue(Urologue)
+  style phimosis stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}
 
 {{< traitements/dermocorticoides >}}

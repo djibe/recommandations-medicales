@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-29T14:54:41+02:00"
 publishdate = "2020-11-30"
-lastmod = "2023-07-10"
+lastmod = "2023-12-07"
 specialites = ["dermatologie"]
 annees = "2022"
 sources = ["EADO", "HAS", "SFDermato"]
@@ -15,7 +15,8 @@ anglais = ["Melanoma"]
 sctid = "372244006"
 icd10 = "C43.9"
 image = true
-imageSrc = "Mélanome cutané par le National Cancer Institute"
+imageSrc = "Mélanome cutané. National Cancer Institute"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -99,7 +100,7 @@ Pour toutes les personnes à risque: auto-examen cutané tous les 3 mois et cons
   - Nævus congénital géant
   - Nævus atypique (> 5 mm, irrégulier)
   - Sensibilité au soleil (coups de soleil fréquents, bronze peu)
-- Photo-exposition solaire (UV, latitude)  
+- Exposition solaire (UV, latitude)  
   Brûlures dans l'enfance (cloques) ++
 - **Antécédents familiaux de cancer cutané** (5-10% ont un caractère familial)
 - Antécédent personnel de mélanome  
@@ -108,7 +109,7 @@ Pour toutes les personnes à risque: auto-examen cutané tous les 3 mois et cons
 - Exposition professionnelle  
   Travail en extérieur, rayonnements ionisants, soudure de métaux, sidérurgie, pesticides.
 
-Ces personnes doivent réaliser un auto-examen trimestriel et un suivi dermatologique annuel.
+Ces personnes doivent réaliser un **auto-examen trimestriel** et un **suivi dermatologique annuel**.
 
 ### Phototypes
 
@@ -321,6 +322,19 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 > *HAS 2006*
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du mélanome" "show" %}}
+
+{{< mermaid title="Prise en charge de la suspicion de mélanome et des sujets à risque par le médecin généraliste. Dr JB Fron d'après EADO 2022, HAS, INCa" >}}
+graph TB
+  suspicion["<b>Suspicion de mélanome</b><br>—<br>Lésion pigmentée avec<br>≥ 2 critères ABCDE:<br>- Asymétrie<br>- Bordure irrégulière<br>- Couleur hétérogène<br>- Diamètre &gt; 5 mm (EADO 2022)<br>- Évolution (taille, couleur ...)"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents personnels<br>et familiaux<br>- Expositions aux UV<br>- Facteurs de risque<br>- Immunodépression<br>- Lésion pré-existante,<br>symptômes<br>- Examen régional<br>- Aires ganglionnaires") -- Semi-urgent --> dermatologue(Dermatologue)
+  prévention["<b>Prévention du mélanome</b><br>—<br>Pour tous:<br>- Photoprotection<br>- Limiter l'exposition<br>- Information"]
+risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Éphélides nombreuses<br>- ≥ 40 nævi<br>- Nævus congénital géant<br>- Nævus atypique<br>- Sensibilité au soleil<br>- Exposition solaire et UV<br>- ATCD familial cancer cutané<br>- Antécédent de mélanome<br>- Immunodépression<br>- Exposition professionnelle"] --> dépistage("- Auto-examen trimestriel<br>- Dermatologue annuel")
+  style suspicion stroke:#4150f5, stroke-width:1px
+  style prévention stroke:#4150f5, stroke-width:1px
+  style risque stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - {{< references/voyageur >}}
@@ -338,8 +352,8 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 
 ### Bibliographie en attente
 
-- [Michielin O. et al. ESMO consensus conference recommendations on the management of locoregional melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39940-3/fulltext)
-- [Keilholz U. et al. ESMO consensus conference recommendations on the management of metastatic melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39939-7/fulltext)
+- [Michielin O et al. ESMO consensus conference recommendations on the management of locoregional melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39940-3/fulltext)
+- [Keilholz U et al. ESMO consensus conference recommendations on the management of metastatic melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39939-7/fulltext)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

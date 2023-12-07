@@ -204,7 +204,7 @@ Doit être demandée par le médecin.
 
 {{< mermaid title="Prise en charge d'un déficit en G6PD par le médecin généraliste. Dr Alaedine Benani d'après PNDS 2017" >}}
 flowchart TB
-  déficit[Déficit en G6DP] --> ETP(Éducation thérapeutique) --> aliments("Substances à proscrire,<br>port de carte") --> signes("Reconnaître les signes d'un<br>accident hémolytique") --> généraux[Fièvre, pâleur,<br>céphalées, asthénie] --> biologie(Examen biologique en urgence)
+  déficit[Déficit en G6DP] --> ETP("- Éducation thérapeutique<br>- Substances à proscrire<br>- Port de carte") --> signes("Reconnaître les signes d'un<br>accident hémolytique") --> généraux[Fièvre, pâleur,<br>céphalées, asthénie] --> biologie(Examen biologique en urgence)
     signes --> douleurs("Douleurs abdominales<br>et lombaires") --> biologie
     signes --> hématurie[Hématurie et ictère] --> biologie
 style déficit stroke:#4150f5, stroke-width:1px

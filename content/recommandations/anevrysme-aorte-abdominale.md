@@ -27,7 +27,7 @@ Indications au dépistage de l'anévrysme de l'aorte abdominale (AAA) par échod
 1. Homme de plus de 65 ans ayant fumé
 2. Sujet de plus de 65 ans avec antécédent familial d'AAA au 1<sup>er</sup> degré (parents/fratrie)
 3. Considérer chez la femme de plus de 65 ans ayant fumé
-4. Considérer avant 65 ans si antécédent familial d'AAA au 1<sup>er</sup> degré ou facteurs de risques multiples d'AAA (tabac, homme, âge, antécédent familial, facteurs de risque cardiovasculaires)
+4. Considérer avant 65 ans si antécédent familial d'AAA au 1<sup>er</sup> degré ou facteurs de risque multiples d'AAA (tabac, homme, âge, antécédent familial, facteurs de risque cardiovasculaires)
 5. En cas d'[artériopathie des membres inférieurs AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (*ESC 2017*)
 
 {{%/article-summary%}}
@@ -42,12 +42,12 @@ Anévrisme de l'aorte abdominale (AAA)
 
 ### Facteurs de risque d'anévrysme de l'aorte abdominale
 
-- Facteurs de risques majeurs
+- Facteurs de risque majeurs
   - Tabagisme (≥ 100 cigarettes, risque vie entière 10,5%)
   - Âge +65 ans
   - Homme (ratio 13/1, risque vie entière 8,2%)
   - Antécédent familial au premier degré d'anévrysme de l'aorte abdominale
-- Autres facteurs de risques: hypertension, dyslipidémie, origines Caucasiennes, connectivite vasculaire, athérosclérose
+- Autres facteurs de risque: hypertension, dyslipidémie, origines Caucasiennes, connectivite vasculaire, athérosclérose
 
 ### Abréviations
 
