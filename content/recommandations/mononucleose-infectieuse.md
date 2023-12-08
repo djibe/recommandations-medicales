@@ -7,25 +7,26 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-24T11:29:36+02:00"
 publishdate = "2023-07-27"
-lastmod = "2023-07-27"
+lastmod = "2023-12-08"
 specialites = ["infectiologie"]
-annees = "2021"
+annees = "2023"
 sources = ["Collèges"]
 tags = ["adolescent", "enfant", "eruption febrile", "fatigue"]
 anglais = ["Infectious mononucleosis", "glandular fever", "monocytic angina", "Pfeiffer's disease"]
 sctid = "271558008"
 icd10 = "B27.0"
 image = true
-imageSrc = "Angine pseudomembraneuse durant une mononucléose infectieuse. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
+imageSrc = "Angine pseudomembraneuse au cours d'une mononucléose infectieuse. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- La mononucléose infectieuse (MNI) est une primo-infection Epstein-Barr virus (EBV) symptomatique
+- La mononucléose infectieuse (MNI) est une primo-infection symptomatique à Epstein-Barr virus (EBV)
 - Les symptômes de la mononucléose sont aspécifiques avec le plus souvent une fatigue persistante, une fièvre prolongée chez le nourrisson et le jeune enfant, une angine pseudomembraneuse ou érythématopultacée
 - Un exanthème polymorphe après la prise d'amoxicilline est évocateur
 - Évoquer une mononucléose devant une angine, une splénomégalie ou la découverte d'un syndrome mononucléosique biologique
-- Le bilan biologique comporte: NFS, CRP, MNI test. La sérologie EBV n'est réalisée qu'en présomption forte avec un MNI test négatif
+- Le bilan de la mononucléose comporte: NFS, CRP, MNI test ± sérologie CMV. La sérologie EBV n'est réalisée qu'en cas de présomption forte avec un MNI test négatif
 - La prise en charge de la mononucléose infectieuse comprend un simple traitement symptomatique avec repos. Aucune éviction de collectivité n'est requise
 - Informer sur le caractère durable de la fatigue d'une mononucléose
 
@@ -39,7 +40,7 @@ Mononucléose infectieuse (MNI)
 Syndrome mononucléosique
 : Diagnostic biologique sur l'hémogramme avec plus de 50% de cellules mononucléées parmi les leucocytes et plus de 10% de lymphocytes activés (lymphocytes T hyperbasophiles de taille augmentée dits << atypiques >>) au frottis sanguin. En pratique les ratios sont souvent omis pour parler du syndrome mononucléosique. Il témoigne d'une activation intense de l'**immunité cellulaire** par un agent infectieux (viral ++) ou médicamenteux.
 : La mononucléose infectieuse est la première cause de syndrome mononucléosique (80%) et à l'origine des plus intenses.
-: Autres étiologies: primo-infection CMV, VIH, toxoplasmose et plus rares (hépatite virale, HHV6, rubéole, adénovirus, rickettsioses, syphilis secondaire, brucellose, typhoïde, listériose) ou médicamenteuse (sulfamides, bêta-lactamines, anticonvulsivants).
+: Autres étiologies: primo-infection CMV, [VIH]({{< relref "vih-sida.md" >}}), toxoplasmose et plus rares ([hépatite virale](/tags/hepatite/), HHV6, rubéole, adénovirus, rickettsioses, [syphilis secondaire]({{< relref "syphilis.md" >}}), brucellose, typhoïde, listériose) ou médicamenteuse (sulfamides, bêta-lactamines, anticonvulsivants).
 
 ### Abréviations
 
@@ -61,10 +62,14 @@ MNI
 La mononucléose infectieuse (primo-infection EBV) est le plus souvent asymptomatique ou donne un tableau clinique aspécifique du nourrisson à l'adulte jeune:
 
 - Incubation longue (4-6 semaines)
+- Antécédents
+- Traitements en cours
+- Consommation de viande crue ou peu cuite, chat dans l'entourage
+- Rapport sexuel à risque
 - Signes généraux
-  - Fièvre d'intensité variable
+  - Fièvre d'intensité variable  
+    Nourrisson: fièvre prolongée isolée.
   - [Fatigue](/tags/fatigue/) marquée (adolescent)
-  - Nourrisson: fièvre prolongée isolée
 - **[Angine]({{< relref "angine.md" >}}) érythématopultacée ou pseudo-membraneuse** respectant la luette  
   Parfois purpura du voile du palais, œdème de la luette.
 - Voix nasonnée (obstruction du cavum, paralysie du voile du palais)
@@ -81,12 +86,13 @@ La mononucléose infectieuse (primo-infection EBV) est le plus souvent asymptoma
 - Pression artérielle, fréquence cardiaque
 - Examen ORL, palpation cervicale
 - Palpation abdominale
-- Examen cutanéo-muqueux
+- Examen cutané
+- Aires ganglionnaires
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Bilan au laboratoire: NFS, CRP, MNI test
+Bilan au laboratoire: NFS, CRP, MNI test ± sérologie CMV et/ou toxoplasmose
 {.alert .alert-info}
 
 Le diagnostic de mononucléose infectieuse est biologique:
@@ -94,7 +100,8 @@ Le diagnostic de mononucléose infectieuse est biologique:
 - NFS: syndrome mononucléosique intense
 - CRP augmentée
 - MNI test (se 85-90% sauf enfant, spe +90%, *CMIT*, *CEMI*)
-- Si MNI test négatif: sérologie EBV avec primo-infection signée par des IgM anti-VCA positifs et IgG anti-EBNA absents
+- Si MNI test négatif: sérologie EBV  
+  Primo-infection: IgM anti-VCA + et IgG anti-EBNA -
 - Cytolyse modérée isolée
 
 Autres anomalies plus rares: anémie hémolytique, thrombopénie auto-immune.
@@ -111,10 +118,20 @@ La prise en charge d'une mononucléose infectieuse est purement symptomatique:
 - Si fièvre: paracétamol
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la mononucléose infectieuse" "show" %}}
+
+{{< mermaid title="Prise en charge de la mononucléose infectieuse (MNI) par le médecin généraliste. Dr JB Fron d'après Collèges 2023" >}}
+graph TB
+  suspicion["<b>Suspicion de mononucléose infectieuse</b><br>symptomatique<br>—<br>Incubation 4-6 semaines:<br>- Fièvre persistante<br>- Fatigue intense<br>- Angine érythématopultacée<br>ou pseudo-membraneuse<br>- Éruption fébrile<br>- Rash sous amoxicilline"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements en cours<br>- Rapport sexuel à risque<br>- Risque de toxoplasmose<br>- Examen clinique") --> bilan("<b>Bilan</b><br>—<br>- NFS, CRP<br>- MNI test<br>± Sérologie CMV<br>± Sérologie toxoplasmose<br>- Autres ciblés") --> traitement("<b>Traitement</b><br>—<br>- Repos<br>- Symptomatique<br>- Informer: durée de<br>la fièvre non prévisible")
+    clinique --> autre(Autre diagnostic)
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
+- [CMIT. Syndrome mononucléosique. Item 217. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-217.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
 - Collège National des Enseignants de Médecine Interne (CEMI). Syndrome mononucléosique. Item 217. Référentiel Collège de Médecine interne R2C. 2021.
-- [CMIT. Syndrome mononucléosique. Item 217. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-217-web.pdf)
 
 {{%/sources%}}

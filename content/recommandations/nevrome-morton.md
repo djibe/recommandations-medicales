@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-08T08:58:20+02:00"
 publishdate = "2021-01-08"
-lastmod = "2022-05-17"
+lastmod = "2023-12-08"
 specialites = ["rhumatologie"]
 annees = "2013"
 sources = ["RevMedSuis", "SFD"]
@@ -17,8 +17,9 @@ anglais = ["Morton's metatarsalgia"]
 sctid= "30085007"
 icd10 = "G57.6"
 image = true
-imageSrc = "Zone œdématiée en regard des métatarsiens par gm.esthermax sur Foter.com"
-todo = "SEO"
+imageSrc = "Zone œdématiée en regard des métatarsiens au cours d'un névrome de Morton bilatéral. gm.esthermax sur Foter.com"
+todo = "qualité"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -68,9 +69,18 @@ Prise en charge du névrome de Morton avec:
 La chirurgie est réservée aux échecs du traitement médical.
 
 {{%/collapse%}}
+{{%collapse "Prise en charge du névrome de Morton" "show" %}}
+
+{{< mermaid title="Prise en charge du névrome de Morton par le médecin généraliste. Dr JB Fron d'après Revue Médicale Suisse" >}}
+graph TB
+  suspicion["<b>Suspicion de névrome de Morton</b><br>ou métatarsalgies de Morton<br>—<br>- Douleur plantaire aiguë<br>des MTP3 et 4 à la marche<br>- Type neuropathique<br>- Allodynie locale"] --> clinique(Examen clinique) --> bilan("<b>Bilan</b><br>—<br>Radiographies de l’avant-pied<br>Si doute: échographie<br>voire IRM") --> traitement("<b>Traitement</b><br>—<br>Semelles orthopédiques sur mesure") -. Échec .-> infiltrations(Infiltrations) -. Échec .-> chirurgie(Chirurgie)
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [Ray A. Métatarsalgies : diagnostic et prise en charge. Rev Med Suisse. 2013.](https://www.revmed.ch/RMS/2013/RMS-N-411/Metatarsalgies-diagnostic-et-prise-en-charge)
-- [Hartemann A. et al; SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)
+- [Hartemann A et al; SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)
 
 {{%/sources%}}

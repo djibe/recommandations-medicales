@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2023-10-05T11:12:30+02:00"
 publishdate = "2023-10-10"
-lastmod = "2023-10-16"
+lastmod = "2023-12-08"
 specialites = ["dermatologie"]
 annees = "2019"
 sources = ["SFD"]
@@ -17,6 +17,7 @@ icd10 = "L40.9"
 image = true
 imageSrc = "Psoriasis en plaques du cuir chevelu et des mains. Freepik"
 todo = "PASI, EULA RPso, SAPHO"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -157,15 +158,13 @@ Il est périphérique ou axial avec atteinte fréquente de: enthèses, interphal
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Le diagnostic de psoriasis est **clinique**.
+Le diagnostic de psoriasis est **clinique**. En cas de doute diagnostique, adresser au dermatologue pour envisager une **biopsie cutanée**.
 
-En cas de doute diagnostique, adresser au dermatologue pour envisager une **biopsie cutanée**.
+### Bilan devant un psoriasis
 
-En cas de doute ou de résistance au traitement, les **sérologies VIH et syphilis** doivent être proposées.
-
-L'*ESsCD* préconise une [sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}).
-
-Compléter le bilan cardiovasculaire avec bilan lipidique et glycémie à jeun.
+- Bilan lipidique et glycémie à jeun
+- [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}) (*ESsCD*)
+- Si doute diagnostique ou de résistance au traitement: [sérologies VIH]({{< relref "vih-sida.md" >}}) et [syphilis]({{< relref "syphilis.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Traitement du psoriasis" %}}
@@ -187,6 +186,7 @@ La prise en charge et les traitements du psoriasis réduisent l'intensité des l
 - Associations de patients: [France Psoriasis](https://francepsoriasis.org), [AFPric](https://www.polyarthrite.org), [Aflar](https://www.aflar.org)
 
 Le traitement du **rhumatisme psoriasique** est rhumatologique et n'est pas abordé ici (lire les recommandations *EULAR* et *GRAPPA*).
+{.alert .alert-info}
 
 ### Traitements locaux du psoriasis : dermocorticoïdes et analogues de la vitamine D3
 
@@ -194,10 +194,10 @@ Les traitements locaux du psoriasis (dermocorticoïdes et analogues de la vitami
 
 #### Les dermocorticoïdes
 
-{{< modal-btn modal-dc >}}Tableau des dermocorticoïdes et leurs consignes d'utilisation{{< /modal-btn >}}.
+{{< modal-btn modal-dc >}}Tableau des dermocorticoïdes et leurs consignes d'utilisation{{< /modal-btn >}}
 {.alert .alert-info}
 
-Exemple pour le cuir chevelu en cas de squames: [Diprosalic® lotion](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64435022&typedoc=R) x 2/j pendant 1-2 semaines, puis espacer en traitement d'entretien
+Exemple pour le cuir chevelu en cas de squames: [Diprosalic® lotion](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64435022&typedoc=R) x 2/j pendant 1-2 semaines, puis espacer en traitement d'entretien.
 
 #### Analogues de la vitamine D3
 
@@ -251,6 +251,18 @@ Les traitements systémiques relèvent uniquement du dermatologue:
 Les traitements privilégiés sont en **gras**. La réévaluation du traitement général par le dermatologue doit être au moins semestrielle.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du psoriasis" "show" %}}
+
+{{< mermaid title="Prise en charge du psoriasis par le médecin généraliste. Dr JB Fron d'après SFD 2019" >}}
+graph TB
+  suspicion["<b>Suspicion de psoriasis</b><br>—<br>Chez l'adulte jeune:<br>- Plaques érythémato-squameuses<br>quasi symétriques<br>- Prurit en poussée<br>- Zones de frottement<br>- Contexte de stress<br>- Respect du visage"] --> clinique["<b>Diagnostic clinique</b><br>le plus souvent<br>—<br>- Antécédents<br>- Traitements en cours et essayés<br>- Facteurs modificateurs<br>- Localisations<br>- Phanères<br>- Surface corporelle atteinte<br>- Symptômes<br>- Complications<br>- DLQI, PASI, psychologique"] --> mesures("<b>Mesures générales</b><br>—<br>- glycémie, bilan lipidique<br>- Proposer sérologie cœliaque<br>- Rechercher une iatrogénie<br>- Arrêt tabac, alcool<br>- Corriger un surpoids<br>- Topiques: bains, émollients<br>- Soutien psychologique<br>- Information, ETP<br>- Associations") -- "Surface ≤ 10% et<br>PASI/DLQI ≤ 10" --> traitement("<b>Traitement</b><br>—<br>- Dermocorticoïde<br>- Analogue de la vitamine D3") -. Échec .-> dermatologue
+    clinique -- Diagnostic différentiel --> différentiel("- Pityriasis rosé de Gibert<br>- Dermatite séborrhéique<br>- Eczéma<br>- Lymphome cutané<br>- Mycose<br>- Toxidermie")
+    clinique -- Doute diagnostique --> dermatologue("Dermatologue<br>Proposer sérologies<br>VIH et syphilis")
+      mesures -- "Sévère" --> dermatologue
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [Collège des enseignants de dermatologie de France (CEDEF). Psoriasis. Item 117. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-117-%E2%80%94-Psoriasis_CompressPdf.pdf)
