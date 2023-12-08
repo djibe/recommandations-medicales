@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-18T17:12:47+02:00"
 publishdate = "2023-09-19"
-lastmod = "2023-12-07"
+lastmod = "2023-12-08"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "SFAR", "USPTF"]
@@ -225,7 +225,7 @@ graph TB
   suspicion["<b>Grossesse</b><br>—<br>Mesure de la pression<br>artérielle à chaque consultation,<br>manuelle ou appareil validé<br>pour la grossesse<br>et bandelette urinaire"] --> cabinet("Pression artérielle ≥ 140 et/ou 90 mmHg<br>et protéines à la bandelette urinaire") -- HTA + protéinurie --> prééclampsie["<b>Suspicion de pré-éclampsie</b><br>—<br>Après 20 SA: hypertension artérielle<br>≥ 140 et/ou 90 mmHg avec<br>protéinurie ≥ 0,3 g/24h"] --> gravité("<b>Signe de gravité ?</b><br>—<br>- HTA ≥ 160/110 mmHg<br>- Épigastralgies, douleurs HCD<br>en barre persistantes ou intenses<br>- Signes neurologiques<br>- Détresse respiratoire<br>- Douleur thoracique<br>- Oligoanurie") -- Oui --> SAMU(Appel du 15) --> urgences(Urgences obstétricales)
     gravité -- Non --> urgences
       cabinet -- "HTA isolée ≥ 160/110" --> urgences
-      cabinet -- "HTA isolée &lt; 160/110" --> HTA("<b>HTA gestationnelle modérée</b><br>—<br>- Méthyldopa<br>- Suivi spécialisé<br>- Bilan mensuel:<br>albuminurie, NFS, ASAT, ALAT,<br>créatininémie, uricémie<br>- Après 22 SA: échodoppler<br>des artères utérines") -.-> prééclampsie
+      cabinet -- "HTA isolée &lt; 160/110 et<br>biologie normale" --> HTA("<b>HTA gestationnelle modérée</b><br>—<br>- Méthyldopa<br>- Suivi spécialisé<br>- Bilan mensuel:<br>albuminurie, NFS, ASAT, ALAT,<br>créatininémie, uricémie<br>- Après 22 SA: échodoppler<br>des artères utérines") -.-> prééclampsie
   style prééclampsie stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

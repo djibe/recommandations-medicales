@@ -8,7 +8,7 @@ date = "2023-10-05T11:12:30+02:00"
 publishdate = "2023-10-10"
 lastmod = "2023-12-08"
 specialites = ["dermatologie"]
-annees = "2019"
+annees = "2018"
 sources = ["SFD"]
 tags = ["prurit", "risque cardiovasculaire"]
 anglais = ["Psoriasis"]
@@ -16,7 +16,7 @@ sctid = "9014002"
 icd10 = "L40.9"
 image = true
 imageSrc = "Psoriasis en plaques du cuir chevelu et des mains. Freepik"
-todo = "PASI, EULA RPso, SAPHO"
+todo = "PASI, EULA RPso, SAPHO, relecture demandée mviguier"
 flowchart = true
 +++
 
@@ -253,7 +253,7 @@ Les traitements privilégiés sont en **gras**. La réévaluation du traitement 
 {{% /collapse %}}
 {{%collapse "Prise en charge du psoriasis" "show" %}}
 
-{{< mermaid title="Prise en charge du psoriasis par le médecin généraliste. Dr JB Fron d'après SFD 2019" >}}
+{{< mermaid title="Prise en charge du psoriasis par le médecin généraliste. Dr JB Fron d'après SFD 2018" >}}
 graph TB
   suspicion["<b>Suspicion de psoriasis</b><br>—<br>Chez l'adulte jeune:<br>- Plaques érythémato-squameuses<br>quasi symétriques<br>- Prurit en poussée<br>- Zones de frottement<br>- Contexte de stress<br>- Respect du visage"] --> clinique["<b>Diagnostic clinique</b><br>le plus souvent<br>—<br>- Antécédents<br>- Traitements en cours et essayés<br>- Facteurs modificateurs<br>- Localisations<br>- Phanères<br>- Surface corporelle atteinte<br>- Symptômes<br>- Complications<br>- DLQI, PASI, psychologique"] --> mesures("<b>Mesures générales</b><br>—<br>- glycémie, bilan lipidique<br>- Proposer sérologie cœliaque<br>- Rechercher une iatrogénie<br>- Arrêt tabac, alcool<br>- Corriger un surpoids<br>- Topiques: bains, émollients<br>- Soutien psychologique<br>- Information, ETP<br>- Associations") -- "Surface ≤ 10% et<br>PASI/DLQI ≤ 10" --> traitement("<b>Traitement</b><br>—<br>- Dermocorticoïde<br>- Analogue de la vitamine D3") -. Échec .-> dermatologue
     clinique -- Diagnostic différentiel --> différentiel("- Pityriasis rosé de Gibert<br>- Dermatite séborrhéique<br>- Eczéma<br>- Lymphome cutané<br>- Mycose<br>- Toxidermie")

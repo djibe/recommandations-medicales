@@ -8,22 +8,23 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2023-04-14"
-specialites = ["infectiologie"]
-annees = "2022"
-sources = ["HAS", "HCSP", "MinSanté"]
+lastmod = "2023-12-08"
+specialites = ["dermatologie", "infectiologie"]
+annees = "2023"
+sources = ["MinSanté", "HAS", "HCSP"]
 tags = ["HSH", "IST", "prevention", "vaccin"]
 anglais = ["Monkeypox"]
 sctid = "359814004"
 icd10 = "B04"
 image = true
-imageSrc = "Illustration du Monkeypox par brgfx / Freepik"
+imageSrc = "Évolution d'une lésion cutanée de Monkeypox. João P. Caldas, Sofia R. Valdoleiros, Sandra Rebelo, and Margarida Tavares, CC0, via Wikimedia Commons"
 todo = "personnes contacts + flow avec https://www.has-sante.fr/jcms/p_3361191/fr/reponses-rapides-infection-par-le-virus-monkeypox-prise-en-charge-en-medecine-de-1er-recours"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Le virus de la variole du singe est un Poliovirus = [maladie à déclaration obligatoire avec cerfa spécifique](https://www.formulaires.service-public.fr/gf/cerfa_12218.do) à déclarer au plus vite à l'ARS
+- Le virus de la variole du singe est un Poliovirus = [maladie à déclaration obligatoire avec Cerfa spécifique](https://www.formulaires.service-public.fr/gf/cerfa_12218.do) à déclarer au plus vite à l'ARS une fois confirmé
 - Suspicion de Monkeypox:
   - Suspicion: appel d'un {{< references/cegidd >}} ou du 15 pour avis infectiologique urgent
   - Certitude: isolement strict avec prévention des surinfections des lésions, déclaration obligatoire et remise de [la conduite à tenir (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/flyer_cas_confirmes_mkp_120822_vdef.pdf)
@@ -43,23 +44,19 @@ Monkeypox ou variole du singe
 : Maladie infectieuse liée virus Monkeypox (MPXV, orthopoxvirus). Contamination directe par muqueuse ou peau lésée ou gouttelettes. Contamination également possible par literie, vêtements, vaisselle, linge de bain ...  
 Les zones d'endémie sont les zones forestières d'Afrique du Centre et de l'Ouest avec contamination par des rongeurs sauvages ou des primates (zoonose) puis dans le foyer familial.
 : Complications de la variole du singe: surinfection cutanées bactériennes, infections respiratoires basses, sepsis, encéphalite, kératites, ou gastro-intestinales avec pertes liquidiennes (*HCSP mai 2022*).
-: 5000 cas confirmés en France au 23 mars 2023, à 96% des [HSH]({{< relref "hsh.md" >}}) sans aucun décès en France.
+: 5002 cas confirmés en France au 27 avril 2023, à 96% des [HSH]({{< relref "hsh.md" >}}) sans aucun décès en France.
 
 Cas suspect de Monkeypox
-: Signes cliniques évocateurs de Monkeypox sans exposition à risque. Diagnostic biologique.
-: Pour les enfants, ajouter: durant les 15 jours précédents, contact étroit ou prolongé avec un adulte présentant une infection monkey pox documentée ou très probable. (*GPIP* et *SFP*) et l'absence d'argument pour une autre cause, notamment la varicelle.
-
-Cas possible de Monkeypox
-: Signes cliniques évocateurs de Monkeypox et ≥ 1 exposition à risque (retour d'un pays d'endémie, partenaires sexuels multiples). Diagnostic biologique dispensable si lésions typiques.
+: Éruption cutanée ou ulcération(s) de la muqueuse génitale, anale ou buccale, évocatrice de MKP - isolée, ou précédée ou accompagnée d'une fièvre ressentie ou mesurée (> 38°C), d'adénopathies ou d'une odynophagie. Test biologique.
 
 Cas probable de Monkeypox
-: Signes cliniques évocateurs de Monkeypox et lien épidémiologique avec un cas confirmé. Pas de test biologique.
+: Signes cliniques évocateurs de Monkeypox et contact à risque avec un cas confirmé. Pas de test biologique, déclaration obligatoire.
 
 Cas confirmé de Monkeypox
-: Diagnostic biologique avec qPCR d'Orthopoxvirus positif ± séquençage partiel du virus MKP.
+: Diagnostic biologique positif par qPCR ou RT-PCR d'Orthopoxvirus positif ± séquençage partiel du virus MKP. Déclaration obligatoire.
 
-Personne à risque d'exposition au Monkeypox
-: Contact direct non protégé avec une lésion ou contact à < 2 mètres pendant 3 heures sur la journée.
+Personne-contact à risque
+: Contact direct non protégé sans notion de durée avec la peau lésée ou les fluides biologiques d'un cas probable ou confirmé symptomatique ou le contact avec des textiles (vêtements, linge de bain, literie) ou de la vaisselle sale utilisés par le cas probable ou confirmé symptomatique.
 
 > Définitions de *Santé Publique France*
 
@@ -217,14 +214,26 @@ Prise en charge recommandée en cas de variole du singe:
   - Pas de vaccination si antécédent de Monkeypox
 - Dépistage des [IST](/tags/ist/) si rapports à risque
 
-### Antiviral Tecovirimat
+### Antiviral tecovirimat
 
 Antiviral disponible en gélules indiqué chez les personnes à **risque de forme grave** de variole du singe (voir *Personnes à risque de forme grave*). La durée de prise du tecovirimat est de 14 jours.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la variole du singe / Monkeypox" "show" %}}
+
+{{< mermaid title="Prise en charge du Monkeypox (variole du singe) par le médecin généraliste. Dr JB Fron d'après MinSanté 2023, HAS et HCSP 2022" >}}
+graph TB
+  suspicion["<b>Suspicion de variole du singe</b><br>Monkeypox ou mpox<br>—<br>- Éruption évocatrice<br>- Douleurs associées<br>- Prurit peu marqué"] -- "Masques et gants" --> clinique("<b>Clinique</b><br>—<br>Étayer un diagnostic différentiel:<br>- Varicelle<br>- Rougeole<br>- Variole<br>- Infection bactérienne<br>- Syphilis secondaire<br>- Dermatite bulleuse<br>- Gale<br>- Allergie") -- "Doute persistant<br>ou contact à risque" --> samu("Appel infectiologue immédiat<br>ou appel du 15")
+    clinique --> autre(Autre diagnostic)
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
-- [Santé Publique France. Variole du singe : point de situation en France au 23 mars 2023. 30/03/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/variole-du-singe-point-de-situation-en-france-au-23-mars-2023)
+- [Santé Publique France. Variole du singe (mpox) : point de situation en France au 27 avril. 03/05/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/variole-du-singe-mpox-point-de-situation-en-france-au-27-avril-2023)
+- [Santé publique France, Ministère de la Santé et de la Prévention. Cas de Mpox en Europe, définitions et conduite à tenir. 20/04/2023. (PDF)](https://www.santepubliquefrance.fr/content/download/437302/file/def_cas_CAT_mpox_20042023.pdf)
+- [ANSM. Monkeypox. 16/03/2023.](https://ansm.sante.fr/dossiers-thematiques/monkeypox)
 - [HAS. Monkeypox : la HAS complète ses recommandations sur la vaccination. 11/10/2022.](https://www.has-sante.fr/jcms/p_3376314/fr/monkeypox-la-has-complete-ses-recommandations-sur-la-vaccination)
 - [DGS-Urgent 2022-76, 70, 65, 61, 58. 05/08/2022.](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Réponses Rapides : Infection par le virus Monkeypox – Prise en charge en médecine de 1er recours. 05/09/2022.](https://www.has-sante.fr/jcms/p_3361191/fr/reponses-rapides-infection-par-le-virus-monkeypox-prise-en-charge-en-medecine-de-1er-recours)
@@ -235,7 +244,6 @@ Antiviral disponible en gélules indiqué chez les personnes à **risque de form
 - Ameli. Virus Monkeypox : les recommandations sur la prise en charge. 19/07/2022.
 - [ARS Ile-de-France. Variole du singe : conseils et prise en charge en Ile-de-France. 18/07/2022.](https://www.iledefrance.ars.sante.fr/variole-du-singe-conseils-et-prise-en-charge-en-ile-de-france)
 - [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
-- [ANSM. Monkeypox. 20/06/2022.](https://ansm.sante.fr/dossiers-thematiques/monkeypox)
 - [HCSP. Avis relatif relatif à la conduite à tenir pour les cas confirmés d'infection à Monkeypox virus (MPXV) à risque de forme grave et pour les personnes contacts à risque d'infection par MPXV. 09/06/2022.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=1216)
 - [HCSP. Avis relatif à la conduite à tenir autour d'un cas suspect, probable ou confirmé d'infection à Monkeypox virus. 24/05/2022.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=1216)
 - [Sante.fr. Monkeypox : ressources et supports de communication](https://www.sante.fr/monkeypox-ressources-et-supports-de-communication)
