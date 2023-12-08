@@ -3,37 +3,13 @@ ID = "327af24a-1868-47c1-959c-7c0afe3b1891"
 
 [build]
 publish = "public"
-command = "hugo --cleanDestinationDir --gc --minify"
+command = "hugo --gc --minify"
 
 [build.environment]
 NODE_VERSION = "16"
-
-[context.production.environment]
-HUGO_VERSION = "0.121.1"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "false"
 NODE_ENV = "production"
-
-[context.split1]
-command = "hugo --gc --minify"
-
-[context.split1.environment]
-HUGO_VERSION = "0.121.1"
+HUGO_VERSION = "0.121.0"
 HUGO_ENV = "production"
-
-[context.deploy-preview]
-command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
-
-[context.deploy-preview.environment]
-HUGO_VERSION = "0.121.1"
-
-[context.branch-deploy]
-command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy.environment]
-HUGO_VERSION = "0.121.1"
-
-[context.next.environment]
 HUGO_ENABLEGITINFO = "false"
 
 [[headers]]
