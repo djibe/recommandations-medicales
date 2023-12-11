@@ -131,7 +131,7 @@ Signes cliniques à rechercher chez le neutropénique:
 - Signes de neutropénie centrale profonde
   - Gingivite érosive, hémorragique et douloureuse avec papules de la langues et des muqueuses jugales
   - Parfois douleurs abdominales et diarrhées
-  - Ecthyma gangrenosum: ulcères infectieux péri-anaux
+  - *Ecthyma gangrenosum*: ulcères infectieux péri-anaux
 
 La neutropénie est une contre-indication à la mesure de la température rectale et aux injections intramusculaires
 {.alert .alert-warning}

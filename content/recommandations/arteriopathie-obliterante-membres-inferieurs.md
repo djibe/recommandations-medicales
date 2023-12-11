@@ -8,7 +8,7 @@ synonyms = ["AOMI", "artériopathie aorto-iliaque et des membres inférieurs", "
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-05-05T18:53:00+02:00"
 publishdate = "2021-05-16"
-lastmod = "2023-12-04"
+lastmod = "2023-12-11"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS", "SFMV"]
@@ -117,6 +117,7 @@ Sujets à haut risque de développer une artériopathie des membres inférieurs:
 
 - {{< modal-btn modal-depistage-prevalent >}}Ciblé +55 ans{{< /modal-btn >}} (*Bendermacher 2007*)
 - Suspicion clinique
+  - [Ulcère de jambe]({{< relref "ulcere-veineux.md" >}}) (*HAS 2006*)
   - Abolition des pouls distaux ou souffle vasculaire
   - Douleur d'effort
   - Limitation d'effort
@@ -151,7 +152,7 @@ Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se
 {{%collapse "Clinique" %}}
 
 60 à 80% des patients sont asymptomatiques au diagnostic d'artériopathie des membres inférieurs
-{.alert .alert-info}
+{.alert .alert-warning}
 
 Signes et symptômes de l'artériopathie oblitérante des membres inférieurs:
 
@@ -316,7 +317,7 @@ Pour l'ulcère mixte à prédominance veineuse (IPS < 0,8 ou > 1,3), adapter la 
 {{< mermaid title="Conduite à tenir pour le dépistage de l'AOMI. Dr JB Fron d'après SFMV 2020 et ESC 2017" >}}
 graph TB
 accTitle: Prise en charge diagnostique de l'artériopathie oblitérante des membres inférieurs (AOMI) d'après SFMV 2020 et ESC 2017
-  depister["<b>Personne à risque</b> <br><b>ou symptomatique</b><br>—<br>- Suspicion clinique<br>- Athérome connu<br>- Anévrysme aortique<br>- Insuff. rénale<br>- Insuff. cardiaque<br>- Dépistage PREVALENT<br>- Âge ≥ 65 ans<br>- Risque CV élevé<br>- ≥ 50 ans et ATCD familial AOMI<br>ou ≥ 1 autre FRCV"] --> clinique("- Interrogatoire<br>- Examen clinique")
+  depister["<b>Personne à risque</b> <br><b>ou symptomatique</b><br>—<br>- Ulcère de jambe<br>- Suspicion clinique<br>- Athérome connu<br>- Anévrysme aortique<br>- Insuff. rénale<br>- Insuff. cardiaque<br>- Dépistage PREVALENT<br>- Âge ≥ 65 ans<br>- Risque CV élevé<br>- ≥ 50 ans et ATCD familial AOMI<br>ou ≥ 1 autre FRCV"] --> clinique("- Interrogatoire<br>- Examen clinique")
   style depister stroke:#4150f5, stroke-width:1px
     clinique --> ips("Mesure de l'IPS<br>et IPSGO")
       ips -- "IPS ≤ 0,9 et IPSGO ≤ 0,7" --> AOMI(Diagnostic d'AOMI)

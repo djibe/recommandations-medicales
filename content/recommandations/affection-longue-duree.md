@@ -102,7 +102,7 @@ Exemples:
 - [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}})
 - [Asthme]({{< relref "asthme.md" >}})
 - Maladie de Paget, [maladie de Verneuil]({{< relref "maladie-verneuil.md" >}})
-- Ulcère cutané chronique ou récidivant avec retentissement fonctionnel sévère
+- [Ulcère cutané chronique ou récidivant avec retentissement fonctionnel sévère]({{< relref "ulcere-veineux.md" >}})
 - Transsexualisme
 - [Infertilité]({{< relref "infertilite-couple.md" >}})
 - [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}})

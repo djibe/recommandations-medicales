@@ -316,8 +316,8 @@ Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l
   Sélégiline (Deprenyl®), rasagiline, safinamide (non remboursé, Xadago®).
 - Agonistes dopaminergiques
   - Le plus longtemps possible
-  - Dérivés de l'ergot de seigle: **ropinirole**, piribédil (Trivastal®), pramipexole, rotigotine (Neupro®, transdermique)
-  - Autres: bromocriptine (Parlodel®), lisuride (Arolac®)
+  - Non dérivés de l'ergot en première intention: **ropinirole**, piribédil (Trivastal®), pramipexole, rotigotine (Neupro®, transdermique)
+  - Dérivés de l'ergot de seigle: bromocriptine (Parlodel®), lisuride (Arolac®)
 - Amantadine (Mantadix® pour les dyskinésies)
 - **L-Dopa**  
   Retarder l'instauration pour épargner son efficacité (apparition de fluctuations et dyskinésies à terme sous traitement).

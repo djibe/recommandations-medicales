@@ -7,7 +7,7 @@ synonyms = ["Violences conjugales"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-04T19:26:00+02:00"
 publishdate = "2021-02-04"
-lastmod = "2023-11-26"
+lastmod = "2023-12-08"
 specialites = ["certificats"]
 annees = "2022"
 sources = ["HAS"]
@@ -17,7 +17,7 @@ sctid = "404189009"
 icd10 = "Y07.9"
 image = true
 imageSrc = "Les violences faites aux femmes. Parlement Européen sur Foter.com / CC BY-NC-ND"
-todo = "lire sources, liste centre hébergement urgence, commissariat + proche, lien vers chaque droit, https://www.inserm.fr/actualite/violences-sexuelles-au-coeur-dune-enquete-accablante/"
+todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaque droit, https://www.inserm.fr/actualite/violences-sexuelles-au-coeur-dune-enquete-accablante/"
 +++
 
 {{%article-summary%}}
@@ -31,6 +31,7 @@ todo = "lire sources, liste centre hébergement urgence, commissariat + proche, 
   - de déposer plainte
   - de naviguer sur internet en mode *Incognito*
   - d'appeler le {{<phone>}}15{{</phone>}}, par tchat [service-public.fr/cmi](https://www.service-public.fr/cmi) ou d'aller aux *Urgences* à toute heure
+- En cas de violence domestique, une allocation est possible pour quitter le domicile familial ([Service-Public](https://www.service-public.fr/particuliers/actualites/A16962))
 - [Outil pour le médecin: Declicviolence](https://declicviolence.fr)
 
 {{%/article-summary%}}
@@ -44,7 +45,7 @@ todo = "lire sources, liste centre hébergement urgence, commissariat + proche, 
 
 > << Les données dans la littérature sont contradictoires concernant l'association entre le statut socio-économique et les violences conjugales >> (*Santé Publique France*)
 
-### Pour en savoir plus
+### Pour en savoir plus sur les violences faites aux femmes
 
 #### La stratégie de l'agresseur
 
@@ -104,13 +105,15 @@ Exemples de formulations:
 {{% /collapse %}}
 {{%collapse "Situation à risque élevé" %}}
 
-- Conseiller à la victime de prévoir des mesures de sécurité pour se protéger en cas d'urgence sous la forme d'un **Plan de sécurité** à préparer de façon anticipée.
-  - Liste des numéros d'urgence
-  - Photocopie des documents personnels
-  - Double des clés et de l'argent de côté
-  - Sac avec effets de première nécessité (en lieu sûr)
-  - Lieu où se réfugier (famille, amis, association)
-  - Convenir avec famille/amis de confiance un message codé destiné à alerter de danger imminent
+Conseiller à la victime de prévoir des mesures de sécurité pour se protéger en cas d'urgence sous la forme d'un **Plan de sécurité** à préparer de façon anticipée:
+- Liste des numéros d'urgence
+- Photocopie des documents personnels
+- Double des clés et de l'argent de côté
+- Sac avec effets de première nécessité (en lieu sûr)
+- Lieu où se réfugier (famille, amis, association)
+- Convenir avec famille/amis de confiance un message codé destiné à alerter de danger imminent
+
+Une allocation peut être demandée pour fuir le domicile ([Service-Public](https://www.service-public.fr/particuliers/actualites/A16962)).
 
 {{% /collapse %}}
 {{%collapse "Information de la patiente" %}}
@@ -126,6 +129,7 @@ Informer toute victime de violence sur:
 - Utiliser le mode de navigation internet *Incognito*
 - Solliciter l'aide des services du Conseil départemental  
   PMI et services sociaux.
+- Le recours à une allocation pour fuir après dépôt de plainte ([Service-Public](https://www.service-public.fr/particuliers/actualites/A16962))
 
 {{% /collapse %}}
 {{%collapse "Établir un certificat médical ou une attestation professionnelle" %}}
@@ -139,9 +143,9 @@ La consultation et l'examen clinique de la patiente sont un préalable indispens
 
 - N'exprimer aucun jugement ni aucune interprétation  
   Le rédacteur ne se prononce pas sur la réalité des faits, sur la responsabilité d'un tiers, ni sur l'imputabilité.
-- Ne pas désigner nommément le tiers responsable
-- Reporter les dires spontanés de la victime sur le mode déclaratif  
-  Entre guillemets, sous la forme << X dit avoir été victime de... >>, << la victime déclare... >>, << selon les dires de la victime... >>.
+- **Ne pas désigner** nommément le tiers responsable
+- **Reporter les dires spontanés** de la victime sur le mode déclaratif  
+  Entre guillemets, sous la forme << X dit avoir été victime de ... >>, << la victime déclare ... >>, << selon les dires de la victime... >>.
 - Noter les doléances de façon exhaustive  
   (Sans interprétation ni tri) entre guillemets, et les symptômes exprimés par la victime en utilisant ses mots.
 - Décrire avec précision et sans ambiguïté les faits médicalement constatés  
@@ -198,6 +202,7 @@ Pour le médecin généraliste.: Aborder les violences, évaluer, le certificat 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Service-Public.fr. Une aide universelle d’urgence est mise en place pour les victimes de violences conjugales. 29/11/2023.](https://www.service-public.fr/particuliers/actualites/A16962)
 - [HAS. Violences conjugales : la HAS appelle les médecins à se saisir pleinement du sujet. 2023.](https://has-sante.fr/jcms/p_3473528/fr/violences-conjugales-la-has-appelle-les-medecins-a-se-saisir-pleinement-du-sujet)
 - [HAS. Repérage des femmes victimes de violences au sein du couple. 2022.](https://www.has-sante.fr/jcms/p_3104867/fr/reperage-des-femmes-victimes-de-violences-au-sein-du-couple)
 - [Guiguet-Auclair C et al. Validation de la version française d'un outil de dépistage des violences conjugales faites aux femmes, le WAST (Woman Abuse Screening Tool). BEH. 2021.](http://beh.santepubliquefrance.fr/beh/2021/2/2021_2_2.html)

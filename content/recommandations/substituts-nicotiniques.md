@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-17T14:11:29+02:00
 publishdate = "2020-06-17"
-lastmod = "2023-01-23"
+lastmod = "2023-12-08"
 specialites = ["addictologie"]
 annees = "2023"
 sources = ["Ameli"]
@@ -18,6 +18,7 @@ icd10 = ""
 image = true
 imageSrc = "La journée mondiale sans tabac par Freepik"
 todo = "SEO 'liste des substituts nicotiniques remboursables par l'assurance maladie', 'substitut nicotinique remboursé'"
+flowchart = true
 +++
 
 ## Les substituts nicotiniques remboursés pour le sevrage tabagique {.typography-headline-5}
@@ -194,6 +195,15 @@ Débuter avec ces dosages le premier mois.
 
 {{< references/tabac-info-service >}}
 
+## Prise en charge par substituts nicotiniques {.my-5}
+
+{{< mermaid title="Prise en charge de l'intention d'arrêt du tabac par substituts nicotiniques par le médecin généraliste. Dr JB Fron d'après HAS et Ameli" >}}
+graph TB
+  arrêt["<b>Intention d'arrêt</b>"] -- Oui --> TNS("<b>Sevrage</b><br>—<br>Date planifiée:<br>- Patchs et autres formes<br>- Suivi rapproché<br>- Tabac Info Service<br>- Soutien psychologique") -- "≥ 20 cig/j" --> vingt("Patch 21-25 mg/j<br>voire plusieurs<br>puis décroissance progressive")
+    arrêt -- Non --> réduction("Réduction envisagée ?") -- Oui --> patch("Poursuite du tabagisme<br>avec patch seul au<br>dosage adapté") -.-> TNS
+      TNS -- "&lt; 20 cig/j<br>ou Fagerström-2 bas" --> moins20("Patch 7-14 mg/j<br>puis décroissance progressive")
+  style arrêt stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 {{% modal title="Test de Fagerström de dépendance au tabac" id="modal-fagerstrom"%}}
 
 {{< scores/fagerstrom >}}

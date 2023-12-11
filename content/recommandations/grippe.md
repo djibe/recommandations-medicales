@@ -7,7 +7,7 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2023-10-25"
+lastmod = "2023-12-08"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2023"
 sources = ["MinSanté", "HAS"]
@@ -16,8 +16,9 @@ anglais = ["influenza", "flu"]
 sctid = "6142004"
 icd10 = "J11.1"
 image = true
-imageSrc = "Particules de virus grippal H1N1 en microscopie électronique. Les protéines de surface sont en noir. NIAID, CC BY 2.0 via Wikimedia Commons"
+imageSrc = "Particules de virus grippal H1N1 en microscopie électronique: les protéines de surface sont en noir. NIAID, CC BY 2.0 via Wikimedia Commons"
 todo = "grippe grossesse, antiviral"
+flowchart = true
 +++
 
 {{%article-summary%}}

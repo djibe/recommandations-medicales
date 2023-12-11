@@ -25,7 +25,7 @@ flowchart = true
 - Bilan biologique selon le terrain sur lequel survient l'érysipèle (diabète, fonction rénale ...)
 - Prise en charge de l'érysipèle et traitement: antibiothérapie par amoxicilline 50 mg/kg en 3 prises pendant 7 jours (max 6 g/j)
 - Réévaluation clinique de l'infection à 48 - 72 heures
-- Éradication de la porte d'entrée infectieuse ([intertrigo]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), ulcère cutané ...)
+- Éradication de la porte d'entrée infectieuse ([intertrigo]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), [ulcère cutané]({{< relref "ulcere-veineux.md" >}}) ...)
 - Prévention des récidives d'érysipèle: contention veineuse en cas d'insuffisance veineuse
 
 {{%/article-summary%}}
@@ -38,7 +38,7 @@ Première cause de grosse jambe rouge aiguë.
 Gravité initiale selon terrain, sévérité locale et sepsis.
 : Chez l'enfant, les DHBNN sont dues au *Staphylococcus aureus* sensible à la méticilline (SASM) et au SGA.
 : Les complications sont exceptionnelles: abcès, sepsis sévère, glomérulonéphrite post-streptococcique, DHB nécrosante avec/sans fasciite nécrosante (DHBN-FN. Terrain +50 ans, diabète, hémopathie/cancer, insuffisance d'organe, toxicomanie).
-: Facteurs de risque d'érysipèle: facteurs locaux (lymphœdème, intertrigo, ulcère de jambe, plaie) et [obésité]({{< relref "obesite-adulte.md" >}}).
+: Facteurs de risque d'érysipèle: facteurs locaux (lymphœdème, intertrigo, [ulcère de jambe]({{< relref "ulcere-veineux.md" >}}), plaie) et [obésité]({{< relref "obesite-adulte.md" >}}).
 
 **NB.** *Alcoolisme* et *diabète* << ne semblent pas être des facteurs de risque >> d'érysipèle.
 
@@ -194,7 +194,7 @@ Recommandations de prise en charge associées:
 
 - Surveillance clinique quotidienne des signes locaux et généraux
 - Éradication de la porte d'entrée  
-  Intertrigo, ulcère. Soins de peau à l'eau et au savon sauf plaie franchement surinfectée.
+  Intertrigo, [ulcère]({{< relref "ulcere-veineux.md" >}}). Soins de peau à l'eau et au savon sauf plaie franchement surinfectée.
 - Anticoagulation préventive selon le risque  
   Déambulation, âge, autres.
 - Antipyrexie par paracétamol simple

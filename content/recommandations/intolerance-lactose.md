@@ -70,7 +70,7 @@ Autres signes:
   - [Céphalées](/tags/cephalees/)
   - Douleurs musculo-squelettiques
   - Troubles du rythme cardiaque
-  - Ulcère buccaux
+  - Ulcères buccaux
   - Dyspareunie et troubles menstruels
   - Pollakiurie
   - Eczéma et atopie (sinusite, [rhinite allergique]({{< relref "rhinite-allergique.md" >}}), [asthme]({{< relref "asthme.md" >}}))

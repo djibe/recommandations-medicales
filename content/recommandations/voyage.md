@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T11:56:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2023-07-10"
+lastmod = "2023-12-11"
 specialites = ["infectiologie"]
 annees = "2023"
 sources = ["HCSP", "MinSanté", "Pasteur"]
@@ -341,6 +341,15 @@ Autres mesures: choisir l'endroit le plus stable du véhicule (avant train-voitu
 
 N'ont pas démontré d'efficacité: gingembre, homéopathie, acupressure du point P6 (proche du poignet)
 {.alert .alert-info}
+
+{{% /collapse %}}
+{{%collapse "FMC gratuites" %}}
+
+{{< youtube id="9zaiqm0iW_s" title="Vaccination des voyageurs - Amérique du sud (VacciNews)" >}}
+
+{{< youtube id="2uWSWtOVB_Q" title="Vaccination des voyageurs - Afrique (VacciNews)" >}}
+
+{{< youtube id="2LLIpFzxnEk" title="Vaccination des voyageurs - Asie (VacciNews)" >}}
 
 {{% /collapse %}}
 {{%sources%}}
