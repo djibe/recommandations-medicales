@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2023-11-14"
+lastmod = "2023-12-12"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["ESC", "ESH", "ADA", "EASD", "SFD", "KDIGO", "HAS"]
@@ -139,6 +139,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 - Cliquer sur la classe thérapeutique pour afficher plus d'informations sur la prise en charge
 - Les classes thérapeutiques de préférence sont entourées ou signalées avec un indicateur bleu
 - **Objectif 0 hypoglycémie !**
+- Réévaluation de l'efficacité et de la tolérance **3-6 mois** après chaque modification
 - Pendant la grossesse, les objectifs sont identiques au [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
 
 <div class="border rounded-lg p-4 my-4">
@@ -168,11 +169,11 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 <p class="font-weight-bold my-2">La metformine doit être maintenue au long cours.</p>
 <!-- 2e intention -->
 <h3 class="typography-overline mt-4">Bithérapie <span class="choix-standard choix-obese">- Ajouter au choix</span></h3>
-<p class="mt-4 text-black-secondary">Possibilité de proposer d'emblée une bithérapie si déséquilibre initial important (HbA<sub>1c</sub> &gt; 9%)</p>
+<p class="mt-4 text-black-secondary">Possibilité de proposer d'emblée une bithérapie si déséquilibre initial important (HbA<sub>1c</sub> &gt; 8,5 %)</p>
 <div class="mb-2 choix-standard">
-  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button>
   <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
   <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1ra">GLP-1</button>
+  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button>
   <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-su">SU</button>
 </div>
 <div class="mb-2 choix-obese">
@@ -218,21 +219,6 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 <p class="text-primary typography-overline mt-4">Trithérapie - Selon les traitements essayés</p>
 <div class="accordion mb-5" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" role="button">
-      <h4 class="card-title">Après iDPP4</h4>
-    </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-      <div>
-        <ul class="list-group list-group-flush">
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Substituer par un GLP-1</li>
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
-          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
-          <li class="list-group-item list-group-item-action">Substituer par une insuline basale</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  <div class="card">
     <div class="card-header" id="headingThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" role="button">
       <h4 class="card-title">Après iSGLT2</h4>
     </div>
@@ -242,7 +228,22 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Substituer ou ajouter un GLP-1</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
-          <li class="list-group-item list-group-item-action">Ajouter une insuline basale</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-insuline">Substituer par une insuline basale</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" role="button">
+      <h4 class="card-title">Après iDPP4</h4>
+    </div>
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Substituer par un GLP-1</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-insuline">Substituer par une insuline basale</li>
         </ul>
       </div>
     </div>
@@ -256,6 +257,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
         <ul class="list-group list-group-flush">
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-insuline">Substituer/associer à une insuline basale</li>
         </ul>
       </div>
     </div>
@@ -267,10 +269,11 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div>
          <ul class="list-group list-group-flush">
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Substituer ou ajouter un GLP-1</li>
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Substituer par un GLP-1</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
-          <li class="list-group-item list-group-item-action">Substituer par une insuline basale</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Réduire et ajouter par un GLP-1</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-insuline">Substituer par une insuline basale</li>
         </ul>
       </div>
     </div>
@@ -280,7 +283,8 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 <h3 class="text-primary typography-overline mt-3">4e intention</h3>
 <ul>
   <li>Avis endocrinologique de préférence</li>
-  <li>Sinon metformine + <a role="button" data-toggle="modal" href="#modal-glp1ra">GLP1</a> + <a role="button" data-toggle="modal" href="#modal-isglt2">iSGLT2</a>/<a role="button" data-toggle="modal" href="#modal-su">SU</a></li>
+  <li>Metformine + <a role="button" data-toggle="modal" href="#modal-glp1ra">GLP-1</a></li>
+  <li>Voire metformine + <a role="button" data-toggle="modal" href="#modal-glp1ra">GLP-1</a> + <a role="button" data-toggle="modal" href="#modal-isglt2">iSGLT2</a> (plutôt que <a role="button" data-toggle="modal" href="#modal-su">SU</a>)</li>
   <li>ou metformine + <a role="button" data-toggle="modal" href="#modal-insuline">insuline basale</a></li>
 </ul>
 </div>
@@ -385,6 +389,7 @@ window.addEventListener('load', () => {
 
 {{< card-link-external title="Ameli Data Pathologies. Dépenses des soins liés au diabète" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Diab%C3%A8te">}}
 
+- {{< references/sfd-dt2-2023 >}}
 - {{< references/esc-diabetes-2023 >}}
 - {{< references/esh-2023 >}}
 - {{< references/ada-soc >}}

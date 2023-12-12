@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-30T18:17:39+02:00"
 publishdate = "2021-10-02"
 lastmod = "2023-07-07"
-specialites = ["infectiologie"]
+specialites = ["dermatologie", "infectiologie"]
 annees = "2022"
 sources = ["HAS", "DGS"]
 tags = ["prevention"]
@@ -17,6 +17,7 @@ icd10 = "A69.2"
 image = true
 imageSrc = "Érythème migrant après piqûre de tique. monkeypuzzle sur Foter"
 todo = "algo HAS Annexe 2 et 3, vaccin encéphalite à tiques"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -201,24 +202,23 @@ Caractères cliniques du lymphocytome borrélien:
 Autres signes cliniques et symptômes de la maladie de Lyme:
 
 - Rhumatologiques
-  - Phase précoce: **arthralgies** (50-70%)
+  - Phase précoce: **arthralgies** (50-70 %)
   - Phase disséminée: monoarthrite du genou (85%) ou oligoarthrite  
     Quelques semaines à 2 ans après la piqûre, poussées paroxystiques des douleurs articulaires avec intervalles libres.  
     Guérison sous 5 ans même sans antibiothérapie.
   - Sérologie *Borrelia*
   - Avis rhumatologique ou CC MVT
 - Cardiaques
-  - 0,3-4% des cas dans un délai de 4 jours à 7 mois
+  - 0,3-4 % des cas dans un délai de 4 jours à 7 mois
   - Sérologie *Borrelia*
   - Avis cardiologique en cas de symptômes cardiaques
   - Blocs atrio-ventriculaires surtout
   - Péricardite  
-    Réaliser une sérologie en étiologie indéterminée.
+    Réaliser une sérologie en cas d'étiologie indéterminée.
 
 ### Neuroborréliose de Lyme
 
-La neuroborréliose est présente dans 6,5 à 15% des borrélioses de Lyme.  
-Elle survient dans la phase disséminée précoce (< 6 mois, +90% des cas).
+La neuroborréliose est présente dans 6,5 à 15% des borrélioses de Lyme. Elle survient dans la phase disséminée précoce (< 6 mois, +90% des cas).
 
 Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose
 {.alert .alert-info}
@@ -238,7 +238,7 @@ Atteintes neurologiques évocatrices:
 - Beaucoup plus rares  
   [Méningites]({{< relref "meningite.md" >}}), myélites aiguës et encéphalites.
 
-Adresser au CC MVT pour investigations et ponction lombaire.
+Adresser au centre de compétence des MVT ([annuaire](https://crmvt.fr/)) pour investigations et ponction lombaire.
 
 #### Pour en savoir plus: critères diagnostiques européens de la maladie de Lyme
 
@@ -269,7 +269,7 @@ Recommandations pour la prise en charge de l'érythème migrans après piqûre d
   Persistance à 1 mois: observance de l'antibiotique, étude d'un diagnostic différentiel, **avis dermatologique**.
 - Traitement identique en érythèmes migrants multiples (EMM)
 
-L'antibiothérapie de référence de la maladie de Lyme au stade de l'érythème migrant est la doxycycline et l'amoxicilline avant 8 ans.
+L'antibiothérapie de référence de la maladie de Lyme au stade de l'érythème migrant est la doxycycline (et l'amoxicilline avant 8 ans).
 
 {{%info%}}
 
@@ -288,12 +288,22 @@ Antibiothérapie pendant **14 jours**:
 
 ### Traitement du lymphocytome borrélien
 
-Prise en charge du lymphocytome borrélien avec des posologies identiques.  
-Antibiothérapie pendant 21 jours sauf enfant < 8 ans avec l'azithromycine: 10 jours.
+Prise en charge du lymphocytome borrélien avec des posologies identiques.
 
-Traitement par l'infectiologue des autres formes de borréliose.
+Antibiothérapie pendant 21 jours sauf enfant de moins de 8 ans avec l'azithromycine: 10 jours.
+
+Traitement par l'**infectiologue** des autres formes de borréliose.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de l'érythème migrant" "show" %}}
+
+{{< mermaid title="Prise en charge de l'érythème migrant par le médecin généraliste. Dr JB Fron d'après HAS et SFR" >}}
+graph TB
+  suspicion["<b>Piqûre de tique</b><br>—<br>- Extraction au tire-tique<br>- Inspection du reste du corps<br>- Auto-surveillance 30 jours"] -- "Sous 3-30 jours" --> érythème("<b>Érythème migrant</b><br>—<br>Large macule rosée:<br>- Antibiothérapie<br>doxycycline 100 mg x 2/j<br>- Photos<br>- Signalement de tique<br>- Mesure de prévention<br>- Forestier: déclaration MP") -- J14 --> contrôle(Contrôle clinique) -. Persistance .-> dermatologue(Dermatologue)
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - {{< references/voyageur >}}
