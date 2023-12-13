@@ -111,15 +111,6 @@ Spécialités chez l'adulte:
 << GARDASIL 9® recommandée jusqu'à l'âge de 26 ans, en prévention des lésions précancéreuses anales, des cancers anaux et des condylomes. Dans cette situation, la vaccination peut être proposée dans certains {{< references/cegidd >}} et dans certains centres publics de vaccination. >>
 
 {{% /collapse %}}
-{{%collapse "Prévention " "show" %}}
-
-{{< mermaid title="Prise en charge de l'érythème migrant par le médecin généraliste. Dr JB Fron d'après HAS et SFR" >}}
-graph TB
-  suspicion["<b>Piqûre de tique</b><br>—<br>- Extraction au tire-tique<br>- Inspection du reste du corps<br>- Auto-surveillance 30 jours"] -- "Sous 3-30 jours" --> érythème("<b>Érythème migrant</b><br>—<br>Large macule rosée:<br>- Antibiothérapie<br>doxycycline 100 mg x 2/j<br>- Photos<br>- Signalement de tique<br>- Mesure de prévention<br>- Forestier: déclaration MP") -- J14 --> contrôle(Contrôle clinique) -. Persistance .-> dermatologue(Dermatologue)
-  style suspicion stroke:#4150f5, stroke-width:1px
-{{< /mermaid >}}
-
-{{%/collapse%}}
 {{%sources%}}
 
 - [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)

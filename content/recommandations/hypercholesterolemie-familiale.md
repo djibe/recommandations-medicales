@@ -133,6 +133,7 @@ La prise en charge de l'hypercholestérolémie familiale est pluridisciplinaire 
   - Endurance: 150-300 minutes (ou 75-150 minutes intenses)
   - Renforcement ≥ 2 jours par semaine (1-3 séries de 8-12 mouvements)
 - Prise en charge d'une [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) et d'un [diabète](/tags/diabete/)
+- Association de patients: [Association Nationale des Hypercholestérolémies familiales et Lipoprotéines (a)](https://www.anhet.fr)
 - ALD 31 en cas de traitement intensif
 
 ### Traitement spécifique de l'hypercholestérolémie familiale

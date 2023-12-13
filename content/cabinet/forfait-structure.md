@@ -4,7 +4,7 @@ description = "Explication et détail des indicateurs du Forfait structure pour 
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-16T09:20:00+02:00"
 publishdate = "2022-05-16"
-lastmod = "2023-12-12"
+lastmod = "2023-12-13"
 specialites = []
 annees = "2023"
 sources = ["CNAM"]
@@ -24,12 +24,15 @@ Le Forfait structure est segmenté en 2 parties: équipement du cabinet et servi
 
 La déclaration des objectifs est complétée depuis *AmeliPro* (section *Déclarer mes indicateurs*).
 
+Les tableaux prennent en compte les dernières dispositions: pas d'addendum 8, Ségur au 31/1/24, DMP à 10%
+{.alert .alert-warning}
+
 ## Forfait structure Volet 1 : Équipement du cabinet 2023
 
 **280 points, soit 1960 €** seront accordés pour l'application des éléments suivants durant l'année 2023:
 
-- Utiliser un [DPI référencé *Ségur*](https://industriels.esante.gouv.fr/segur-du-numerique-en-sante/solutions-referencees-segur) avec logiciel d'aide à la prescription (LAP) certifié HAS
-- Utiliser les derniers chiffrements Sesam-Vitale 1.4 addendum 8*
+- Utiliser un [DPI référencé *Ségur*](https://industriels.esante.gouv.fr/segur-du-numerique-en-sante/solutions-referencees-segur) (étendu au 31/1/24) avec logiciel d'aide à la prescription (LAP) certifié HAS
+- Utiliser l'avant-dernier chiffrement Sesam-Vitale 1.4 addendum 7*
 - Télétransmettre > 2/3 des feuilles de soins
 - Afficher les horaires d'ouverture du cabinet dans l'*Annuaire Santé* (section *Horaires de cabinet* sur AmeliPro)
 {.list-group}
@@ -46,7 +49,7 @@ Les primes du volet 2 ne sont accessibles que lorsque l'ensemble des points du V
 - Taux de dématérialisation AAT ≥ 70% | 22,5 pts - 157,5€
 - Taux de dématérialisation AT/MP ≥ 45% | 22,5 pts - 157,5€
 - Taux de dématérialisation PSE ≥ 80% | 22,5 pts - 157,5€
-- Taux de dématérialisation DMT ≥ 90% | 22,5 pts - 157,5€
+- ~~Taux de dématérialisation DMT ≥ 90% | 22,5 pts - 157,5€~~
 - Taux de dématérialisation SPE ≥ 90% | 22,5 pts - 157,5€
 - Implication dans des soins coordonnés (MSP, ESP, CPTS, RCP ...) | 120 pts - 840€
 - TODO: Capacité à coder et requêter sur des données médicales pour alimenter ou produire des registres par exemple | 50 pts - 350€
@@ -74,7 +77,7 @@ Le volet de synthèse médicale (VSM) est un bref récapitulatif présentant le 
 
 Le volet de synthèse médicale (VSM) peut être déposé automatiquement sur le DMP du patient avec certains logiciels ou édité manuellement.
 
-La rémunération dépend du taux de VSM complétés pour les patients en ALD dont le généraliste est le médecin traitant:
+La rémunération dépend du taux de VSM complétés (au 30 juin 2024) pour les patients en ALD dont le généraliste est le médecin traitant:
 
 - 50% de VSM complétés pour la patientèle ALD: 1500 €
 - 90% de VSM complétés pour la patientèle ALD: 3000 €
