@@ -108,14 +108,14 @@ Prise en charge et traitements recommandés pour les nausées et vomissements pe
   - Consultation de contrôle à 72 heures nécessaire
   - Symptômes légers ({{< modal-btn modal-puqe >}}Score PUQE < 6{{< /modal-btn >}})  
     Gingembre, ~~vitamine B6 (pyridoxine)~~ (non disponible seule), acupression, acupuncture, électrostimulation même si leur efficacité n'est pas prouvée.
-  - Doxylamine 15 mg ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64741955&typedoc=R), [CRAT](http://le-crat.fr/articleSearch.php?id_groupe=12))
+  - Doxylamine 15 mg ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64741955&typedoc=R), [CRAT](https://le-crat.fr/articleSearchSaisie.php?recherche=doxylamine))
   - Doxylamine + pyridoxine 10/10 mg ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61447165&typedoc=R), Cariban®, Xonvea®)
-  - Dimenhydrinate 50 mg ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60173964&typedoc=R), [CRAT](http://le-crat.fr/articleSearchSaisie.php?recherche=Dimenhydrinate), Nausicaalm® voire Mercalm®)
-- Traitement de 2<sup>e</sup> intention: métoclopramide 10 mg ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63177843&typedoc=R), [CRAT](http://le-crat.fr/spip.php?page=article&id_article=57))
+  - Dimenhydrinate 50 mg ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60173964&typedoc=R), [CRAT](https://le-crat.fr/articleSearchSaisie.php?recherche=Dimenhydrinate), Nausicaalm® voire Mercalm®)
+- Traitement de 2<sup>e</sup> intention: métoclopramide 10 mg ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63177843&typedoc=R), [CRAT](https://le-crat.fr/spip.php?page=article&id_article=57))
 - Traitements de 3<sup>e</sup> intention
-  - Chlorpromazine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65676987&typedoc=R), [CRAT](http://le-crat.fr/spip.php?page=article&id_article=116), Largactil®)
-  - Prométhasine 25 mg ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69764032&typedoc=R), [CRAT](http://le-crat.fr/spip.php?page=article&id_article=213), Phénargan®)
-  - Métopimazine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69503737&typedoc=R), [CRAT](http://le-crat.fr/spip.php?page=article&id_article=58), Vogalène®)
+  - Chlorpromazine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65676987&typedoc=R), [CRAT](https://le-crat.fr/spip.php?page=article&id_article=116), Largactil®)
+  - Prométhasine 25 mg ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69764032&typedoc=R), [CRAT](https://le-crat.fr/spip.php?page=article&id_article=213), Phénargan®)
+  - Métopimazine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69503737&typedoc=R), [CRAT](https://le-crat.fr/spip.php?page=article&id_article=58), Vogalène®)
 - Soutien psychologique
 - Ne pas utiliser: aromathérapie
 
@@ -133,7 +133,7 @@ Prise en charge de l'hyperémèse gravidique:
 - Soutien psychologique
 - Association de patientes: [Association de lutte contre l'hyperémèse gravidique](https://www.associationhg.fr) et [9 mois avec ma bassine](https://www.facebook.com/9moisavecmabassine/)
 
-Sur prescription spécialisée uniquement pour l'hyperémèse gravidique: ondansétron 8 mg après 10 SA (ordonnance d'exception, [RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64961378&typedoc=R), [CRAT](http://le-crat.fr/articleSearchSaisie.php?recherche=ondansetron)), corticoïdes IV en dernier recours.
+Sur prescription spécialisée uniquement pour l'hyperémèse gravidique: ondansétron 8 mg après 10 SA (ordonnance d'exception, [RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64961378&typedoc=R), [CRAT](https://le-crat.fr/articleSearchSaisie.php?recherche=ondansetron)), corticoïdes IV en dernier recours.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge des nausées et vomissements de grossesse" "show" %}}
@@ -154,7 +154,7 @@ graph TB
 {{%sources%}}
 
 - [Deruelle P et al. Consensus formalisé d'experts du Collège national des gynécologues et obstétriciens français : prise en charge des nausées et vomissements gravidiques et de l'hyperémèse gravidique. Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2022/CFE-Nausees-et-vomissements-gravidiques-2022.pdf?x55732)
-- [Centre de Référence sur les Agents Tératogènes. Antiémétiques - Grossesse et allaitement. 02/11/2021.](http://le-crat.fr/spip.php?page=article&id_article=133)
+- [Centre de Référence sur les Agents Tératogènes. Antiémétiques - Grossesse et allaitement. 02/11/2021.](https://le-crat.fr/spip.php?page=article&id_article=133)
 
 {{%/sources%}}
 {{% modal title="Score PUQE des vomissements gravidiques" id="modal-puqe"%}}

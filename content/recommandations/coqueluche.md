@@ -206,7 +206,7 @@ Prise en charge de la coqueluche:
 Antibiothérapie de la coqueluche: uniquement dans les 3 premières semaines d'évolution pour réduire la contagiosité.  
 Ne traiter un *B. parapertussis* pauci-symptomatique qu'en présence de personne à risque dans son entourage.
 
-Antibiotique de la classe macrolides possibles pendant la grossesse ([CRAT](http://le-crat.fr/articleSearchSaisie.php?recherche=azithro)):
+Antibiotique de la classe macrolides possibles pendant la grossesse ([CRAT](https://le-crat.fr/articleSearchSaisie.php?recherche=azithromycine)):
 
 - Azithromycine 250 mg x 2/j pendant 3 jours  
   ou 1 dose-kg/jour

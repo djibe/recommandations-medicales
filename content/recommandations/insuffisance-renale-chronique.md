@@ -333,7 +333,7 @@ Mesures précédentes avec les particularités suivantes chez la personne vivant
 - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}} (8% si IRC sévère ou terminale)
 - Suivi diabétologique impératif
 - DFG ≥ 20: **{{< modal-btn modal-isglt2 >}}iSGLT2 / gliflozine{{< /modal-btn >}}** (cana, empa ou dapagliflozine)
-- Traitements hypoglycémiants préférés: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}} voire {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}
+- Traitements hypoglycémiants préférés: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}} voire {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}
 - Régime désodé < 5 g/j
 - Attention au risque hypoglycémique (sulfamide, glinide, insuline)
 
@@ -534,7 +534,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{< clinique/osteoporose-risque-fracture >}}
 
 {{% /modal %}}
-{{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
+{{% modal title="Objectifs glycémiques selon SFD 2023" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}
 
@@ -564,9 +564,9 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{< traitements/isglt2 >}}
 
 {{% /modal %}}
-{{% modal title="Agonistes du récepteur GLP-1" id="modal-glp1ra"%}}
+{{% modal title="Agonistes du récepteur GLP-1" id="modal-glp1"%}}
 
-{{< traitements/glp1ra >}}
+{{< traitements/glp1 >}}
 
 {{% /modal %}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}

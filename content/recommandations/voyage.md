@@ -119,9 +119,9 @@ du séjour, la destination précise ou les activités qui y seront pratiquées
 
 ### Vaccins contre-indiqués pendant la grossesse
 
-Les vaccins vivants sont contre-indiqués: rougeole/ROR, varicelle, BCG.
+Les vaccins vivants sont contre-indiqués: rougeole/ROR, [varicelle]({{< relref "varicelle.md" >}}), [BCG]({{< relref "tuberculose.md" >}}).
 
-Le vaccin fièvre jaune est possible quelque soit le terme ([CRAT](http://www.le-crat.fr/articleSearch.php?id_groupe=17)).
+Le vaccin fièvre jaune est possible quelque soit le terme ([CRAT](https://le-crat.fr/articleSearchSaisie.php?recherche=stamaril)).
 
 {{% /collapse %}}
 {{%collapse "Mesures de protection à appliquer" %}}

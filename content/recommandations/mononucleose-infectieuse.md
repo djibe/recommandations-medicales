@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-24T11:29:36+02:00"
 publishdate = "2023-07-27"
 lastmod = "2023-12-08"
-specialites = ["infectiologie"]
+specialites = ["infectiologie", "pediatrie"]
 annees = "2023"
 sources = ["Collèges"]
 tags = ["adolescent", "enfant", "eruption febrile", "fatigue"]
@@ -124,6 +124,7 @@ La prise en charge d'une mononucléose infectieuse est purement symptomatique:
 graph TB
   suspicion["<b>Suspicion de mononucléose infectieuse</b><br>symptomatique<br>—<br>Incubation 4-6 semaines:<br>- Fièvre persistante<br>- Fatigue intense<br>- Angine érythématopultacée<br>ou pseudo-membraneuse<br>- Éruption fébrile<br>- Rash sous amoxicilline"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements en cours<br>- Rapport sexuel à risque<br>- Risque de toxoplasmose<br>- Examen clinique") --> bilan("<b>Bilan</b><br>—<br>- NFS, CRP<br>- MNI test<br>± Sérologie CMV<br>± Sérologie toxoplasmose<br>- Autres ciblés") --> traitement("<b>Traitement</b><br>—<br>- Repos<br>- Symptomatique<br>- Informer: durée de<br>la fièvre non prévisible")
     clinique --> autre(Autre diagnostic)
+    bilan --> autre
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

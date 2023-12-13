@@ -51,7 +51,7 @@ HTA: [carnet international d'automesure tensionnelle (PDF)](https://www.stridebp
 - {{< modal-btn modal-rcv-diabete >}}Risque cardiovasculaire du diabétique{{< /modal-btn >}}
 - [Risque de diabète à 10 ans](https://www.diabeclic.com/findrisc)
 - Traitements  
-  {{< modal-btn modal-metformine >}}Metformine{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}}.
+  {{< modal-btn modal-metformine >}}Metformine{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}}.
 
 ## Hépato-gastroentérologie {.typography-overline .mt-4}
 
@@ -103,7 +103,7 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< scores/nyha >}}
 
 {{% /modal %}}
-{{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
+{{% modal title="Objectifs glycémiques selon SFD 2023" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}
 
@@ -153,9 +153,9 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< traitements/isglt2 >}}
 
 {{% /modal %}}
-{{% modal title="Agonistes du récepteur GLP-1" id="modal-glp1ra"%}}
+{{% modal title="Agonistes du récepteur GLP-1" id="modal-glp1"%}}
 
-{{< traitements/glp1ra >}}
+{{< traitements/glp1 >}}
 
 {{% /modal %}}
 {{% modal title="Insuline basale" id="modal-insuline"%}}

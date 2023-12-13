@@ -87,7 +87,7 @@ La vaccination anti-amarile est contre-indiquée en cas de:
 - Chimiothérapie terminée depuis < 6 mois
 - Immunosuppression, biothérapie ou corticothérapie: lire HCSP
 
-> Pour la grossesse, si le voyage ne peut être reporté, << la vaccination contre la fièvre jaune doit être effectuée quel que soit le terme de la grossesse >> (*[CRAT](http://www.le-crat.fr/articleSearch.php?id_groupe=17)*)
+> Pour la grossesse, si le voyage ne peut être reporté, << la vaccination contre la fièvre jaune doit être effectuée quel que soit le terme de la grossesse >> (*[CRAT](https://le-crat.fr/articleSearchSaisie.php?recherche=stamaril)*)
 
 {{% /collapse %}}
 {{%collapse "Liste des centres de vaccinations fièvre jaune agréés" %}}

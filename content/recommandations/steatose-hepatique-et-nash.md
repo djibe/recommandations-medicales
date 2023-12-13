@@ -193,7 +193,7 @@ Marqueurs non invasifs de l'évaluation du foie pour éviter la ponction-biopsie
 
 La prise en charge de la stéatohépatite non alcoolique (NASH) repose sur la perte de poids (10%) et la correction de chacun des facteurs de risque cardiovasculaire / métabolique (tabac, hypertension, LDL, régime méditerranéen).
 
-Les glitazones (non disponibles en France) et les {{< modal-btn modal-glp1ra >}}analogues du GLP-1{{< /modal-btn >}} améliorent la NASH.
+Les glitazones (non disponibles en France) et les {{< modal-btn modal-glp1 >}}analogues du GLP-1{{< /modal-btn >}} améliorent la NASH.
 
 - Suivi par le gastro-entérologue
 - Aucune consommation d'alcool
@@ -281,8 +281,8 @@ graph TB
 {{< scores/saos-diabete >}}
 
 {{% /modal %}}
-{{% modal title="Agonistes du récepteur GLP-1" id="modal-glp1ra"%}}
+{{% modal title="Agonistes du récepteur GLP-1" id="modal-glp1"%}}
 
-{{< traitements/glp1ra >}}
+{{< traitements/glp1 >}}
 
 {{% /modal %}}

@@ -369,7 +369,7 @@ accTitle: Prise en charge diagnostique de l'artériopathie oblitérante des memb
 {{< clinique/risque-cardiovasculaire-diabete >}}
 
 {{% /modal %}}
-{{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
+{{% modal title="Objectifs glycémiques selon SFD 2023" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}
 

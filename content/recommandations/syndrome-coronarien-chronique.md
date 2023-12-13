@@ -226,7 +226,7 @@ Réévaluation du traitement à chaque consultation:
 - Activité physique adaptée (APA) régulière  
   - Programme d'APA; min 150 min/sem endurance, renforcement musculaire 2-3/sem avec 10-15 répétitions
   - Sédentarité < 7h/j, bouger 1 minute/h
-- Si diabète de type 2: {{< modal-btn modal-hba1c >}}HbA1c cible ~ 7%{{< /modal-btn >}}, suivi diabétologique, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} ou {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}} selon le profil
+- Si diabète de type 2: {{< modal-btn modal-hba1c >}}HbA1c cible ~ 7%{{< /modal-btn >}}, suivi diabétologique, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} ou {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}} selon le profil
 
 ### Prise en charge du syndrome coronarien chronique
 
@@ -359,7 +359,7 @@ Prise en charge pour l'auto-gestion de la douleur angineuse:
 {{< clinique/risque-cardiovasculaire >}}
 
 {{% /modal %}}
-{{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
+{{% modal title="Objectifs glycémiques selon SFD 2023" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}
 
@@ -384,9 +384,9 @@ Prise en charge pour l'auto-gestion de la douleur angineuse:
 {{< traitements/isglt2 >}}
 
 {{% /modal %}}
-{{% modal title="Agonistes du récepteur GLP-1" id="modal-glp1ra"%}}
+{{% modal title="Agonistes du récepteur GLP-1" id="modal-glp1"%}}
 
-{{< traitements/glp1ra >}}
+{{< traitements/glp1 >}}
 
 {{% /modal %}}
 {{% modal title="Inhibiteurs calciques pour l'angor" id="modal-ica-angor"%}}

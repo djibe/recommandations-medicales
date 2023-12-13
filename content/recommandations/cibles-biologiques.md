@@ -56,7 +56,7 @@ todo = "LDL"
 Références respectives mentionnées pour chaque entité (vitamine D, carence martiale...).
 
 {{%/sources%}}
-{{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
+{{% modal title="Objectifs glycémiques selon SFD 2023" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}
 
