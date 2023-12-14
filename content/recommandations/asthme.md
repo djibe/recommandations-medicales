@@ -514,7 +514,7 @@ Conditions de prise en charge à 100% de l'asthme par l'[ALD 14]({{< relref "aff
 
 - Adulte: asthme persistant sévère
   - Symptômes permanents, exacerbations fréquentes, asthme nocturne fréquent ou activité physique limitée par les symptômes
-  - Variabilité du DEP > 30% et VEMS/DEP < 60% théorique
+  - Variabilité du DEP > 30% et VEMS/CV < 60% théorique
   - Traitement d'entretien par LABA + CSI fortes doses
 - Enfant: asthme persistant sévère
   - Persistance des symptômes et/ou anomalies EFR
@@ -533,7 +533,6 @@ Prise en charge de l'asthme non contrôlé:
 - {{< modal-btn modal-observance >}}Vérifier l'observance{{< /modal-btn >}}
 - Vérifier la [technique d'inhalation](https://splf.fr/videos-zephir/)
 - Évaluer les croyances à l'égard de l'asthme et des médicaments
-{.list-group}
 
 ### Asthme parfaitement contrôlé
 

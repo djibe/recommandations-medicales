@@ -8,7 +8,7 @@ synonyms = ["Arythmie complète par fibrillation auriculaire (ACFA)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-05T17:43:41+02:00"
 publishdate = "2022-02-10"
-lastmod = "2023-08-25"
+lastmod = "2023-12-14"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "ESH", "HAS"]
@@ -19,17 +19,19 @@ icd10 = "I48.9"
 image = true
 imageSrc = "Fibrillation atriale sur 2 dérivations, PeaBrainC, CC BY-SA 4.0 via Wikimedia Commons"
 todo = "SEO 'recommandation fibrillation auriculaire', ESC 2020: chap 11.5 saignement, Source 2013 bonne pour EGS, prev IRC Marijon"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
 - FA mal tolérée = appel du {{< phone >}}15{{< /phone >}}
 - Dépister la fibrillation atriale (FA ou ACFA) si: +65 ans, diabète, hypertension artérielle
-- Le diagnostic de fibrillation est ECG. Survient-elle de façon isolée ou sur une cardiopathie ?
+- Le diagnostic de fibrillation est électrocardiographique (ECG)
+- Survient-elle de façon isolée ou sur une cardiopathie ?
 - Réévaluer régulièrement les {{< modal-btn modal-chads >}}risques embolique avec le score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}hémorragique HAS-BLED{{< /modal-btn >}}, symptômes, facteurs favorisants
 - Selon le {{< modal-btn modal-chads >}}risque embolique{{< /modal-btn >}}: {{< modal-btn modal-aod >}}anticoagulant oral direct (AOD){{< /modal-btn >}} ou absence d'anticoagulant...
 - voire [antivitamine K (AVK)]({{< relref "avk.md" >}}) si valve mécanique ou sténose mitrale modérée à sévère
-- Prise en charge de la fibrillation: suivi cardiologique, {{< modal-btn modal-bradycardisant >}}ralentir la fréquence cardiaque < 80 bpm{{< /modal-btn >}} au repos, Holter-ECG
+- Prise en charge de la fibrillation auriculaire: suivi cardiologique, {{< modal-btn modal-bradycardisant >}}ralentir la fréquence cardiaque < 80 bpm{{< /modal-btn >}} au repos, Holter-ECG
 - Parfois anti-arythmiques pour prévenir la récidive. Contrôler leurs contre-indications
 
 {{%/article-summary%}}
@@ -269,7 +271,7 @@ Recommandations générales pour la prise en charge de la fibrillation atriale:
 
 ### Anticoagulation
 
-Recommandation des **AOD** (anticoagulants oraux directs) en 1<sup>re</sup> intention ({{< modal-btn modal-aod >}}liste{{< /modal-btn >}}) si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).
+Recommandation des **AOD** ({{< modal-btn modal-aod >}}liste des anticoagulants oraux directs{{< /modal-btn >}}) en 1<sup>re</sup> intention si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).
 
 Recours aux [AVK]({{< relref "avk.md" >}}) en cas de valve mécanique ou de sténose mitrale modérée à sévère.
 
@@ -285,7 +287,7 @@ Réévaluer fréquemment le risque de saignement avec le {{< modal-btn modal-has
 Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS
 {.alert .alert-warning}
 
-Adaptation à la fonction rénale selon CKD-EPI.
+Adaptation à la fonction rénale selon {{< scores/ckd-epi >}}.
 
 #### Antivitamines K (AVK)
 
@@ -352,7 +354,8 @@ ECG de contrôle de 1-2 semaines (1 mois pour l'amiodarone)
 
 ### Suivi des traitements
 
-Sous amiodarone: TSH à M3 puis tous les 6-12 mois et jusqu'à 1 an après l'arrêt du traitement (et foie-poumon - *HAS 2022*).  
+Sous amiodarone: TSH à M3 puis tous les 6-12 mois et jusqu'à 1 an après l'arrêt du traitement (et foie-poumon - *HAS 2022*).
+
 Une TSH augmentée n'est pas une indication à arrêter le traitement (prise en charge de l'[hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md" >}}) ou [avérée]({{< relref "hypothyroidie.md" >}})).
 
 {{% /collapse %}}
@@ -382,6 +385,18 @@ Information du patient et de l'entourage sur la fibrillation atriale.
   Poursuite de l'anticoagulant même si sinusal +++
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la fibrillation atriale" "show" %}}
+
+{{< mermaid title="Prise en charge de la fibrillation atriale par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après ESC, ESH et HAS" >}}
+graph TB
+  dépistage["<b>Dépister la FA</b><br>—<br>Asymptomatique ++:<br>- +65 ans<br>- Diabète<br>- Hypertension"] --> ECG(ECG) --> cardiologue("Consultation de cardiologie<br>semi-urgente avec bilan<br>voire urgences") --> traitement("<b>Traitement</b><br>—<br>- Anticoagulant selon<br>CHA2DS2-VASc et HAS-BLED<br>- Correction du risque<br>cardiovasculaire<br>- FC &lt; 80 au repos<br>- Cible PA &lt; 130/80 mmHg<br>- Contrôle du rythme: BB ++<br>- Selon le cas: anti-arythmique<br>- Éducation thérapeutique<br>- ALD n°5")  --> suivi("<b>Suivi de la FA</b><br>—<br>- FRCV<br>- Symptômes<br>- Vie quotidienne<br>- CHA2DS2-VASc et HAS-BLED<br>- Fréquence cardiaque<br>- Observance<br>- Complications<br>- Bilan: NFS, créatine, hépatique<br>- Suivi cardiologique")
+  suspicion["<b>Suspicion de<br>fibrillation atriale</b><br>—<br>- Palpitations<br>- Fatigue<br>- Dyspnée<br>- Angor, douleurs<br>- Intolérance à l'effort<br>- Malaises"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Risque cardiovasculaire<br>- Histoire récente<br>- Toxiques<br>- Traitements<br>- Symptômes<br>- Apnées du sommeil<br>- Constantes") --> disponible("ECG disponible ?") -- Oui --> ECG
+    disponible -- "Non mais<br>pouls irrégulier<br>ou forte suspicion;<br>SAMU si mal toléré" --> cardiologue
+  style dépistage stroke:#4150f5, stroke-width:1px
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 {{< youtube id="3HeRh1Q25kQ" title="Parcours de soin chez un patient avec Fibrillation Atriale (Fréquence Médicale)" >}}

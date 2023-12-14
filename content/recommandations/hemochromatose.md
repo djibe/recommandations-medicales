@@ -236,6 +236,8 @@ graph TB
 
 {{< youtube id="N4mWcUyGAf8" title="Nouvelle classification des surcharges en fer - E. BARDOU-JACQUET 2019 (AFEF Medical Education)" >}}
 
+{{< youtube id="SCXvdQo9x_w" title="DES Hématologie 2020-2021 : Pathologies du fer (1/2)  (Association des Internes en Hématologie AIH)" >}}
+
 - [Académie de médecine, CNOM. Prévenons les jeunes adultes de l'hémochromatose. 06/06/2023.](https://www.academie-medecine.fr/prevenons-les-jeunes-adultes-de-lhemochromatose/)
 - {{< references/college-gastro >}}
 - {{< references/college-endocrino >}}

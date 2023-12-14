@@ -116,7 +116,7 @@ Facteurs prédictifs de progression du *MGUS* (1 point par critère, *Mayo Clini
 - Dosage sérique des immunoglobulines IgG, IgA et IgM
 - [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}}) avec immunofixation
 - Électrophorèse des protéines urinaires
-- Dosage des chaînes légères sériques kappa et lambda et rapport κ/λ
+- Dosage des chaînes légères sériques kappa et lambda et rapport κ/λ (non remboursé en ville)
 - En cas de risque haut-intermédiaire de progression (≥ 2 points aux critères *Mayo Clinic 2005*, voir *Clinique*)
   - LDH, bêta-2 microglobuline
   - Pic IgM: scanner cervico-pelvien
@@ -208,6 +208,10 @@ graph TB
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< youtube id="CYETMQNct2w" title="Introduction au cours de DES : Gammapathie monoclonale (Association des Internes en Hématologie AIH)" >}}
+
+{{< youtube id="3YNq-PT-XoA" title="Phase socle 2022-2023 : dyslogublinémie monoclonale hors myélome - Dr ELESSA (Association des Internes en Hématologie AIH)" >}}
 
 - [Stern S et al. Investigation and management of the monoclonal gammopathy of undetermined significance: A British Society for Haematology Good Practice Paper. Br J Haematol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.18866)
 - Société française d'hématologie (sfh). Item 320 - Myélome multiple. Hématologie Réussir son DFASM. 2021.

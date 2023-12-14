@@ -173,7 +173,7 @@ Indications au dépistage de la NASH chez les sujets à risque élevé d'évolut
 - Bilan lipidique
 - Échographie abdominale
 
-**NB.** PBH indiquée si: obésité morbide, diabète type 2 avec stéatose échographique, cytolyse chronique inexpliquée, infection VIH avec ALAT augmentées.
+**NB.** PBH indiquée si: obésité grade 3, diabète type 2 avec stéatose échographique, cytolyse chronique inexpliquée, infection VIH avec ALAT augmentées.
 
 ### Pour en savoir plus: les marqueurs non invasifs de la fibrose hépatique
 
@@ -216,7 +216,7 @@ Le suivi est réalisé avec les méthodes non invasives selon le niveau de fibro
 graph TB
   anomalie["<strong>Anomalie biologique</strong><br>—<br>- Syndrome métabolique<br>- Cytolyse inexpliquée<br>(voir Facteur de risque)<br>- Cholestase<br>- Hyperferritinémie"] --> bilan
   style anomalie stroke:#4150f5, stroke-width:1px
-  fdr["<strong>Facteur de risque de NASH</strong><br>—<br>- Obésité<br>- Diabète type 2<br>- VIH avec lipodystrophie<br>- Stéatose échographique"] --> hautRisque("- Obésité morbide ?<br>- Diabète type 2 avec<br>stéatose échographique ?<br>- Infection VIH avec ALAT<br>augmentées ?<br>- Cytolyse chronique inexpliquée ?")
+  fdr["<strong>Facteur de risque de NASH</strong><br>—<br>- Obésité<br>- Diabète type 2<br>- VIH avec lipodystrophie<br>- Stéatose échographique"] --> hautRisque("- Obésité grade 3 ?<br>- Diabète type 2 avec<br>stéatose échographique ?<br>- Infection VIH avec ALAT<br>augmentées ?<br>- Cytolyse chronique inexpliquée ?")
   hautRisque -- Non --> bilan
   hautRisque -- Oui envisager PBH--> gastro
   bilan("<strong>Compléter le bilan</strong><br>—<br>- NFS, bilan hépatique, TP<br>- Glycémie, lipidique<br>- Échographie hépatique<br>- Sérologies VHB, VHC<br>± CST")

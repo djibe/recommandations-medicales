@@ -218,6 +218,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="18aUtSEwuU0" title="[Tuto AIH] Palpation de la rate (Association des Internes en Hématologie AIH)" >}}
+
 - Collège des enseignants d'hématologie. Splénomégalie. Item 275. 2021.
 - Collège National des Enseignants de Médecine Interne (CEMI). Splénomégalie. Item 275. 2021.
 

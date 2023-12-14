@@ -1,5 +1,6 @@
 +++
 title = "Diabète de type 2 (DT2)"
+titleSeo = "Diabète type 2 DT2"
 prefix = "le "
 longHtml = true
 description = "Recommandations pour la prise en charge et le traitement du diabète type 2. Critères diagnostiques, rémission, dépistage des complications, metformine, GLP1 ..."
@@ -159,7 +160,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
     <label for="age" class="chip chip-action chip-choice" data-toggle="tooltip" title="+75 ans fragile ou dépendant">+75 ans fragile</label>
   </div>
 </div>
-<h3 class="typography-overline">Toujours</h3>
+<p class="typography-overline">Toujours</p>
 <p>Changement des habitudes alimentaires, lutte contre la sédentarité et activité physique adaptée.</p>
 <p>Réévaluation à 3-6 mois.</p>
 <p class="choix-obese font-weight-bold">Chirurgie bariatrique indiquée à partir de 35 d’IMC.</p>
@@ -200,7 +201,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
   <p>Si fragile avec MRC ou IC: <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">± iSGLT2</button></p>
 </div>
 <div class="mb-2 choix-standard">
-<p class="text-primary typography-overline mt-4">Trithérapie - Selon les traitements essayés</p>
+<p class="text-primary typography-overline mt-4">Troisième ligne - Selon les traitements essayés</p>
 <div class="accordion mb-5" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" role="button">
@@ -209,7 +210,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div>
         <ul class="list-group list-group-flush">
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Substituer ou ajouter un GLP-1</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Ajouter ou substituer par un GLP-1</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-insuline">Substituer par une insuline basale</li>
@@ -264,7 +265,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
   </div>
 </div>
 <!-- 4e intention -->
-<h3 class="text-primary typography-overline mt-3">4e intention</h3>
+<p class="text-primary typography-overline mt-3">4e intention</p>
 <ul>
   <li>Avis endocrinologique de préférence</li>
   <li>Metformine + <a role="button" data-toggle="modal" href="#modal-glp1">GLP-1</a></li>

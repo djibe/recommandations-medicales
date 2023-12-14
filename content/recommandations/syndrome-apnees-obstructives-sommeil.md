@@ -26,7 +26,7 @@ todo = "SEO 'depistage saos', 103, 105, à lire, renouvellement DAP PPC: aide, f
 {{%article-summary%}}
 
 - Suspecter des apnées du sommeil en cas de: sommeil non réparateur, somnolence, [fatigue](/tags/fatigue/), hypertension non contrôlée, reflux nocturne
-- Dépister systématiquement des apnées si [obésité morbide]({{< relref "obesite-adulte.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}), fibrillation atriale, maladie cardiovasculaire ...
+- Dépister systématiquement des apnées si [obésité grade 3]({{< relref "obesite-adulte.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}), fibrillation atriale, maladie cardiovasculaire ...
 - Dépister des apnées par le questionnaire STOP-BANG ou les *8 questions* chez le diabétique (voir *Comment dépister ...* )
 - Probabilité forte de syndrome d'apnées du sommeil avec somnolence inexpliquée malgré une polygraphie normale: réaliser une polysomnographie
 - La ventilation par PPC doit être utilisée au moins 4 heures par nuit et renouvelée au bout de 3 ans par le médecin traitant

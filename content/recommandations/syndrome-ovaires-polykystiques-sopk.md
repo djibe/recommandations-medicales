@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-11T21:36:45+01:00"
 publishdate = "2023-11-16"
 lastmod = "2023-11-16"
-specialites = ["gynecologie-obstetrique"]
+specialites = ["endocrinologie", "gynecologie-obstetrique"]
 annees = "2023"
 sources = ["ESHRE"]
 tags = ["contraception", "diabete", "HTA", "infertilite", "obesite", "risque cardiovasculaire"]
@@ -17,12 +17,14 @@ sctid = "237055002"
 icd10 = "E28.2"
 image = true
 imageSrc = "Multiples kystes ovariens à l'échographie endovaginale d'une jeune femme obèse rapportant une aménorrhée secondaire depuis 18 mois et une infertilité. Cas de J. Ray Ballinger, Radiopaedia.org, rID: 23638"
-todo = "FSFI, PCOSQ, flow, pulse"
+todo = "FSFI, PCOSQ, pulse"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
 - Le syndrome des ovaires polykystiques (SOPK) consiste en la présence de kystes ovariens multiples à l'origine d'une sécrétion d'androgènes donnant une hyperandrogénie clinique (acné, hirsutisme, alopécie) et se compliquant de troubles cardio-métaboliques (diabète, obésité, risque cardiovasculaire), psychologiques et d'une [infertilité]({{< relref "infertilite-couple.md" >}})
+- 70% des patientes ne sont pas diagnostiquées
 - Le diagnostic du syndrome des ovaires polykystiques (SOPK) est défini par les critères d'Amsterdam: oligo-anovulation, hyperandrogénie clinique et/ou biologique et ovaires polykystiques en échographie
 - Rechercher un SOPK en cas de: cycles menstruels irréguliers, acné sévère ou hirsutisme
 - Bilan du syndrome des ovaires polykystiques: échographie pelvienne endovaginale et testostérone libre et totale ± hormone antimüllérienne, bilan supplémentaire si aménorrhée, HGPO 75g
@@ -101,10 +103,11 @@ Les critères diagnostiques du syndrome des ovaires polykystique (SOPK) nécessi
 
 > – [Rotterdam ESHRE/ASRM-Sponsored PCOS Consensus Workshop Group. Revised 2003 consensus on diagnostic criteria and long-term health risks related to polycystic ovary syndrome. Fertil Steril. 2004.](https://www.fertstert.org/article/S0015-0282(03)02853-X/fulltext)
 
-### Antécédents
+### Interrogatoire
 
 Les signes cliniques sont modérés chez les caucasiennes.
 
+- Antécédents
 - Facteurs de risque cardiovasculaire  
   [Obésité]({{< relref "obesite-adulte.md" >}}), [tabac]({{< relref "arret-tabac.md" >}}), dyslipidémie, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), inactivité physique.
 - Traitements en cours
@@ -164,7 +167,7 @@ Les dosages hormonaux sont surtout utiles lorsque le tableau clinique est incomp
 - Hyperandrogénie: testostérone libre et totale (possible dès 12-15 ans)
   - Dosages normaux: envisager les dosages d'androsténédione et du sulfate de DHEA
   - Dosages élevés: éliminer tumeur ovarienne et surrénale, syndrome de Cushing, iatrogénie, insulinorésistance sévère
-- Adulte: hormone antimüllérienne (AMH)
+- Adulte: hormone antimüllérienne (AMH)  
   Inutile si échographie pelvienne ou cycles irréguliers avec hyperandrogénie.
 - Aménorrhée ou hyperandrogénie clinique marquée: [TSH](/tags/tsh/), prolactine, 17 hydroxyprogestérone (17-OHP)
 {{%/info%}}
@@ -197,7 +200,9 @@ Réaliser l'exploration tubaire avant une induction ovulatoire en cas de suspici
 {{% /collapse %}}
 {{%collapse "Traitement du syndrome des ovaires polykystiques" %}}
 
-La prise en charge du syndrome des ovaires polykystiques (SOPK) vise à minimiser les signes cliniques et les complications cardio-métaboliques de l'excès d'androgènes. Aucun traitement curatif ne permet de corriger l'accumulation de kystes ovariens.
+La prise en charge du syndrome des ovaires polykystiques (SOPK) vise à minimiser les signes cliniques et les complications cardio-métaboliques de l'excès d'androgènes.
+
+Aucun traitement curatif ne permet de corriger l'accumulation de kystes ovariens.
 
 ### Prise en charge du syndrome des ovaires polykystiques (SOPK)
 
@@ -285,6 +290,19 @@ Les **gonadotrophines** en monothérapie pourraient être considérées à la pl
 La **chirurgie ovarienne** par cœlioscopie et la **fécondation in vitro** (FIV) sont possibles en deuxième intention.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge des HSH" "show" %}}
+
+{{< mermaid title="Prise en charge des hommes ayant des rapports sexuels avec des hommes par le médecin généraliste. Dr JB Fron d'après ESHRE 2023" >}}
+graph TB
+  suspicion["<b>Suspicion de syndrome<br>des ovaires polykystiques</b><br>—<br>- Cycles irréguliers:<br>&lt; 21j, &gt; 35j, &lt; 8 cycles/an<br>- Aménorrhée primaire:<br>absence de menstruations à 15 ans<br>- Hyperandrogénie:<br>acné sévère, hirsutisme<br>- Envisager si diabète"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- FRCV<br>- Traitements<br>- Histoire des<br>troubles menstruels<br>- Infertilité<br>- Psychologique<br>- Qualité de vie<br>- Examen clinique:<br>constantes, hirsutisme;<br>acné, alopécie") --> bilan("<b>Bilan</b><br>—<br>Sans contraception hormonale:<br>- Testostérone libre et totale<br>- Aménorrhée ou hyperandrogénie<br>marquée: TSH, prolactine, 17-OHP<br>- ± AMH<br>- Échographie pelvienne") --> Rotterdam("Critères de Rotterdam.<br>Compléter avec HGPO 75g") --> traitement("<b>Traitement du SOPK</b><br>—<br>- Avis endocrinologique<br>- Prévention cardiovasculaire<br>- Obésité: metformine,<br>ttt spécifique<br>- Cycles irréguliers: COP<br>- Associations") --> hirsutisme("<b>Hirsutisme, alopécie</b><br>—<br>- Traitement esthétique<br>- COP") -- "Échec à 6 mois" --> hirsutisme2("- Avis dermatologique<br>- Spironolactone")
+  bilan -- Diagnostic différentiel --> différentiel("- Dysthyroïdie<br>- Hyperprolactinémie<br>- Hyperplasie congénitale<br>des surrénales<br>- Hypogonadisme<br>hypogonadotrophique<br>- Cushing<br>- Tumeur sécrétrice")
+    traitement --> infertilité("<b>Infertilité</b><br>—<br>- Suivi gynécologique<br>- Possibilités: metformine,<br>citrate de clomifène,<br>gonadotrophines")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+> COP = contraception œstroprogestative (20-30 µg/j)
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [ESHRE. International evidence-based guideline for the assessment and management of polycystic ovary syndrome - Summary. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
@@ -295,7 +313,8 @@ La **chirurgie ovarienne** par cœlioscopie et la **fécondation in vitro** (FIV
 
 ### Bibliographie en attente
 
-[Goodman NF et al. AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS, AMERICAN COLLEGE OF ENDOCRINOLOGY, AND ANDROGEN EXCESS AND PCOS SOCIETY DISEASE STATE CLINICAL REVIEW: GUIDE TO THE BEST PRACTICES IN THE EVALUATION AND TREATMENT OF POLYCYSTIC OVARY SYNDROME--PART 1. Endocr Pract. 2015.](https://linkinghub.elsevier.com/retrieve/pii/S1530-891X(20)35322-2)
+- [Goodman NF et al. AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS, AMERICAN COLLEGE OF ENDOCRINOLOGY, AND ANDROGEN EXCESS AND PCOS SOCIETY DISEASE STATE CLINICAL REVIEW: GUIDE TO THE BEST PRACTICES IN THE EVALUATION AND TREATMENT OF POLYCYSTIC OVARY SYNDROME--PART 1. Endocr Pract. 2015.](https://linkinghub.elsevier.com/retrieve/pii/S1530-891X(20)35322-2)
+- Collège endocrinologie
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}

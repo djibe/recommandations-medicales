@@ -112,6 +112,7 @@ Bilan pré thérapeutique du méthotrexate:
 
 ### Spécialités de méthotrexate
 
+- Imenor (cp)
 - Imeth (cp, cp séc, SC)
 - Méthotrexate ([cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60390455&typedoc=R), [SC](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65917662&typedoc=R))
 - Metoject (SC)

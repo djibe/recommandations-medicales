@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-19T13:21:51+02:00"
 publishdate = "2023-07-27"
-lastmod = "2023-11-01"
+lastmod = "2023-12-14"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["HAS", "FFN"]
@@ -324,11 +324,12 @@ Les indications à une chirurgie bariatrique avec conditions sont:
 
 1. IMC ≥ 40 kg/m²  
   ou IMC ≥ 35 avec au moins une comorbidité pouvant s'améliorer après la chirurgie (ex: HTA, SAHOS et autres troubles respiratoires sévères, diabète de type 2, maladies ostéoarticulaires invalidantes, stéato-hépatite non alcoolique)
-2. Échec d'un traitement médical, nutritionnel, diététique et psychothérapeutique bien conduit pendant 6 à 12 mois, en l'absence de perte de poids suffisante ou en l'absence de maintien de la perte de poids
-3. Patient bien informé
-4. Évaluation et prise en charge préopératoires pluridisciplinaires pendant plusieurs mois
-5. Patients ayant compris et accepté la nécessité d'un suivi médical et chirurgical à long terme
-6. Risque opératoire acceptable
+2. IMC 30-35 avec [diabète type 2]({{< relref "diabete-type-2.md" >}}) non contrôlé malgré suivi pluridisciplinaire pendant 12 mois (*HAS 2022*). Au cas par cas selon *SFD 2023*.
+3. Échec d'un traitement médical, nutritionnel, diététique et psychothérapeutique bien conduit pendant 6 à 12 mois, en l'absence de perte de poids suffisante ou en l'absence de maintien de la perte de poids
+4. Patient bien informé
+5. Évaluation et prise en charge préopératoires pluridisciplinaires pendant plusieurs mois
+6. Patients ayant compris et accepté la nécessité d'un suivi médical et chirurgical à long terme
+7. Risque opératoire acceptable
 
 > – Indications à la chirurgie bariatrique selon *HAS 2009*
 
@@ -439,6 +440,7 @@ graph TB
 {{< youtube id="Uyel7_curVU" title="Que faire face à un patient en situation d'obésité ? (HAS)" >}}
 
 - [HAS. Guide du parcours de soins : surpoids et obésité de l'adulte. Guide parcours de soins. 2023.](https://www.has-sante.fr/jcms/p_3408871/fr/guide-du-parcours-de-soins-surpoids-et-obesite-de-l-adulte)
+- [HAS. Chirurgie métabolique : traitement chirurgical du diabète de type 2 - Rapport d'évaluation. 10/10/2022.](https://www.has-sante.fr/jcms/p_3303025/fr/chirurgie-metabolique-traitement-chirurgical-du-diabete-de-type-2-rapport-d-evaluation)
 - [Fontbonne A et al. Prevalence of Overweight and Obesity in France: The 2020 Obepi-Roche Study by the "Ligue Contre l'Obésité". J Clin Med. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9918095/)
 - [HAS, FFN. Obésité de l'adulte : prise en charge de 2e et 3e niveaux - Partie I : prise en charge médicale. Recommandation de bonne pratique. 2022.](https://www.has-sante.fr/jcms/p_3346001/fr/obesite-de-l-adulte-prise-en-charge-de-2e-et-3e-niveaux-partie-i-prise-en-charge-medicale)
 - [Inserm. Objectif summer body : tous égaux face à la perte de poids, vraiment ?. Salle de presse. 07/07/2022.](https://presse.inserm.fr/canal-detox/objectif-summer-body-tous-egaux-face-a-la-perte-de-poids-vraiment/)

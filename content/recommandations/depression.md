@@ -251,7 +251,7 @@ En ville, le motif de consultation est **somatique** pour 45 à 95% des patients
 Les symptômes doivent être présents depuis au moins 15 jours avec changement par rapport à l'état antérieur:
 
 - Antécédents  
-  **Psychiatriques** (tentative de suicide, bipolarité, dépression, (hypo)-manie, anxiété), médicaux, hospitalisations, maltraitance.
+  **Psychiatriques** (tentative de suicide, bipolarité, dépression, (hypo)-manie, anxiété), médicaux, hospitalisations, maltraitance, agressions (homophobes ...).
 - Antécédents familiaux (psychiatriques)
 - Traitements en cours, automédication  
   Médicaments à risque, toujours lire les RCP: antiépileptiques, neuroleptiques, myorelaxants, méthylphénidate, alcool (baclofène, acamprosate, naltrexone), IMAO-B, interféron, rétinoïdes, corticoïdes, montélukast, immunodépresseurs (aprémilast ...), antiviral (ribavirine, éfavirenz ...), pitolisant.
