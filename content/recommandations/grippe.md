@@ -127,9 +127,9 @@ Signes et symptômes de la grippe:
 - Enfant: somnolence, troubles digestifs
 - Immunodéprimés (greffé, SIDA): mortalité identique aux +65 ans.
 
-Signes de gravité: fièvre très élevée persistante, réapparition de la fièvre, dyspnée ou tachycardie, cyanose, convulsions fébriles, signes méningés, hypotonie ...
+**Signes de gravité de la grippe:** fièvre très élevée persistante, réapparition de la fièvre, dyspnée ou tachycardie, cyanose, convulsions fébriles, signes méningés, hypotonie ...
 
-Aucun examen complémentaire devant un tableau de grippe saisonnière non compliquée.
+**Aucun examen complémentaire** devant un tableau de grippe saisonnière non compliquée.
 
 {{%/collapse%}}
 {{%collapse "Vaccins disponibles pour la campagne de vaccination 2023-2024" %}}
@@ -167,8 +167,9 @@ Chez le sujet vivant en établissement, la vaccination réduit la survenue de pa
 {{% /collapse %}}
 {{%collapse "Traitement de la grippe" %}}
 
-Prise en charge symptomatique de la grippe saisonnière non compliquée.  
-Isolement pour limiter la transmission.
+Prise en charge symptomatique de la grippe saisonnière non compliquée.
+
+**Isolement** pour limiter la transmission.
 
 Contre-indications aux anti-inflammatoires AINS et corticoïdes. Antitussifs et fluidifiants bronchiques inefficaces.
 {.alert .alert-info}
@@ -187,15 +188,6 @@ Indications au traitement antiviral de la grippe par [oseltamivir](https://base-
 L'oseltamivir doit être débuté dans les 48 heures suivant l'apparition des symptômes (même pendant la grossesse), à dose prophylactique en post-exposition.
 
 {{% /collapse %}}
-{{%collapse "Prise en charge de la grippe" "show" %}}
-
-{{< mermaid title="Prise en charge de la grippe par le médecin généraliste. Dr JB Fron d'après SFCD 2021 et Collèges" >}}
-graph TB
-  suspicion["<b>Suspicion d'appendicite aiguë</b><br>—<br>"]
-  style suspicion stroke:#4150f5, stroke-width:1px
-{{< /mermaid >}}
-
-{{%/collapse%}}
 {{%sources%}}
 
 - [Ameli Médecin. Vacciner ses patients atteints de maladies chroniques contre la grippe et le Covid-19 est essentiel. 15/11/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/vacciner-ses-patients-atteints-de-maladies-chroniques-contre-la-grippe-et-le-covid-19-est-essentiel)
