@@ -161,7 +161,7 @@
 {{ if or (.Params.noindex) (eq .Kind "taxonomy") (eq .Kind "term") }}
 <meta name="robots" content="noindex, follow">
 {{ else if .Params.seoInvisible}}
-<meta name="robots" content="none">
+<meta name="robots" content="noindex, nofollow">
 {{ else }}
 <meta name="robots" content="index, follow">
 {{ end }}

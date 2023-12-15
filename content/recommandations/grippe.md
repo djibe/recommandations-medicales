@@ -7,7 +7,7 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2023-12-08"
+lastmod = "2023-12-14"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2023"
 sources = ["MinSanté", "HAS"]
@@ -187,6 +187,15 @@ Indications au traitement antiviral de la grippe par [oseltamivir](https://base-
 L'oseltamivir doit être débuté dans les 48 heures suivant l'apparition des symptômes (même pendant la grossesse), à dose prophylactique en post-exposition.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la grippe" "show" %}}
+
+{{< mermaid title="Prise en charge de la grippe par le médecin généraliste. Dr JB Fron d'après SFCD 2021 et Collèges" >}}
+graph TB
+  suspicion["<b>Suspicion d'appendicite aiguë</b><br>—<br>"]
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [Ameli Médecin. Vacciner ses patients atteints de maladies chroniques contre la grippe et le Covid-19 est essentiel. 15/11/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/vacciner-ses-patients-atteints-de-maladies-chroniques-contre-la-grippe-et-le-covid-19-est-essentiel)

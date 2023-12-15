@@ -544,17 +544,18 @@ article {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  margin-bottom: 6rem;
+  gap: .5rem;
 
-  .card {
+  > .card {
     background-color: var(--bg-hex);
+    flex: 1 1 160px;
   }
 }
 
-.home-cabinet,
+/* .home-cabinet,
 .home-articles {
   max-width: 22rem;
-}
+}*/
 
 #home__nav {
   margin: 5rem auto;
