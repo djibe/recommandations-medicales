@@ -325,7 +325,7 @@ ET/OU consommation déclarée ≥ 14 verres/semaine
 
 #### Critères diagnostiques de la maladie du foie liée à l'alcool
 
-**Diagnostic de MFLA devant: mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, GGT augmentées, élimination des autres hépatopathies.**  
+**Diagnostic de MFLA devant: mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, [GGT augmentées]({{< relref "augmentation-gamma-gt.md" >}}), élimination des autres hépatopathies.**  
 En cas de MFLA: test non invasif de fibrose hépatique systématique (**FibroScan® ou biologique: Fibrotest® ou Fibromètre Alcool®**), arrêt du tabac et correction d'un surpoids, **suivi addictologique spécialisé**.
 
 Un bilan hépatique normal permet d'exclure une MFLA significative à court terme.  
@@ -668,6 +668,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 ### Bibliographie en attente
 
+- [Newsome PN et al; BSG. Guidelines on the management of abnormal liver blood tests. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5754852/)
 - [RESPADD. Premiers gestes en alcoologie. 2023. (PDF)](https://mcusercontent.com/6e0fa86cb67b5d4a98c4d0019/files/d11a0a18-8acf-191a-b2f6-bd2852ba7667/Guide_Premiers_gestes_alcoologie_BAT5_.pdf)
 - [European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Management of alcohol-related liver disease. J Hepatol. 2018.](https://www.journal-of-hepatology.eu/article/S0168-8278(18)30214-9/fulltext)
 - [Fédération Française d'Addictologie](https://www.addictologie.org/)

@@ -7,17 +7,16 @@ synonyms = ["Jaunisse"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-18T13:33:02+02:00"
 publishdate = "2023-07-21"
-lastmod = "2023-07-21"
+lastmod = "2023-12-15"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
-sources = ["CDU-HGE"]
+sources = ["CDU-HGE", "BSG"]
 tags = ["hepatite", "prurit"]
 anglais = ["Icterus", "jaundice"]
 sctid = "18165001"
 icd10 = "R17"
 image = true
 imageSrc = "Ictère faisant découvrir un cancer du pancréas. James Heilman, MD, CC BY 3.0, via Wikimedia Commons"
-todo = "EBM"
 flowchart = true
 +++
 
@@ -44,6 +43,9 @@ Syndrome de Gilbert (*ex* maladie de Gilbert)
 : Le syndrome de Gilbert est lié à une mutation du gène de la glucuronyl-transférase. Il est aggravé par la fatigue, le jeûne et les infections.
 
 ### Abréviations
+
+BSG
+: {{%lang%}}British Society of Gastroenterology{{%/lang%}}
 
 CBP
 : cholangite biliaire primitive
@@ -74,7 +76,7 @@ Les causes d'ictère sont nombreuses et classées selon qu'elles sont à bilirub
 
 ### Ictère à bilirubine conjuguée ou mixte
 
-- Ictère par cholestase: augmentation des PAL, GGT et de la bilirubine conjuguée
+- Ictère par cholestase: augmentation des PAL, [GGT]({{< relref "augmentation-gamma-gt.md" >}}) et de la bilirubine conjuguée
   - Pathologie des canaux biliaires: cholangite sclérosante primitive
   - **Obstruction des canaux biliaires** surtout: [cancer du pancréas]({{< relref "cancer-pancreas.md" >}}), cholangiocarcinome et lithiase de la voie biliaire principale. Autres causes: sténose post-opératoire, pancréatite chronique calcifiante, adénopathie ou cholangite sclérosante primitive
   - Pathologie des canalicules biliaires: médicamenteuse, auto-immune (cholangite biliaire primitive), virale, génétique
@@ -171,7 +173,7 @@ Information du patient: [guide AFEF](https://afef.asso.fr/jaunisse/)
 {{% /collapse %}}
 {{%collapse "Prise en charge d'un ictère" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour la prise en charge d'un ictère chez un adulte. Dr JB Fron d'après CDU-HGE 2022" >}}
+{{< mermaid title="Conduite à tenir pour la prise en charge d'un ictère chez un adulte. Dr JB Fron d'après CDU-HGE 2022 et BSG" >}}
 graph TB
 ictère[Ictère] --> clinique(Examen clinique) --> biologie("<b>Bilan</b><br>—<br>- NFS<br>- Bili totale et conjuguée<br>- ASAT, ALAT, GGT, PAL")
 style ictère stroke:#4150f5, stroke-width:1px
@@ -185,6 +187,7 @@ style ictère stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%sources%}}
 
-{{< references/college-gastro >}}
+- {{< references/college-gastro >}}
+- [Newsome PN et al; BSG. Guidelines on the management of abnormal liver blood tests. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5754852/)
 
 {{%/sources%}}

@@ -126,7 +126,7 @@ Le plus souvent, la stéatopathie métabolique est découverte par des **anomali
 
 - Cytolyse (ASAT ou ALAT augmentées < 10 N)  
   ASAT/ALAT > 1 fait suspecter une cirrhose.
-- Cholestase (GGT < 10 N)
+- Cholestase ([GGT]({{< relref "augmentation-gamma-gt.md" >}}) < 10 N)
 - [Hyperferritinémie]({{< relref "hyperferritinemie.md" >}}) (< 1000 µg/L avec CST < 45%)  
   10% ont une hépatosidérose dysmétabolique.
 - Cirrhose cryptogénique  
@@ -251,6 +251,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Newsome PN et al; BSG. Guidelines on the management of abnormal liver blood tests. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5754852/)
 - [Leung PB et al. Diagnosis and Management of Nonalcoholic Fatty Liver Disease. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2810964)
 - [Brissot P, Buffet C. Rapport 23-02. Le foie stéatosique non alcoolique : un défi de santé publique. Académie de médecine. 2023.](https://www.academie-medecine.fr/le-foie-steatosique-non-alcoolique-un-defi-de-sante-publique/)
 - EASD

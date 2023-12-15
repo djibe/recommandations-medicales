@@ -265,8 +265,9 @@ Adresser au spécialiste avec le bilan initial de l'hépatite B
 - Co-infections  
   Sérologies **VHD**, [VHC]({{< relref "hepatite-c.md" >}}), [VHA]({{< relref "hepatite-a.md" >}}), [VIH]({{< relref "vih-sida.md" >}}).
 - NFS
-- ASAT, ALAT, GGT, PAL, bilirubine, TP  
+- ASAT, ALAT, GGT, PAL, bilirubine  
   Seuils ALAT (UI/L) de l'*AASLD*: H 35 | F 25. ALAT > 2N est une indication à traiter.
+- TP
 - Créatininémie, albuminémie
 - Ferritinémie
 - [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}}) (TODO: vérifier)

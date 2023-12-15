@@ -167,7 +167,7 @@ Mesure de la charge virale hépatite C systématique lorsque 2 sérologies sont 
 - NFS
 - INR
 - Créatininémie et DFG {{< scores/ckd-epi >}}
-- ASAT, ALAT, GGT, bilirubine
+- Bilan hépatique: ASAT, ALAT, PAL, GGT, bilirubine
 - TP, albuminémie
 - Ferritinémie
 - Glycémie à jeun et bilan lipidique
