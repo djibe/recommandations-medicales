@@ -188,6 +188,16 @@ Indications au traitement antiviral de la grippe par [oseltamivir](https://base-
 L'oseltamivir doit être débuté dans les 48 heures suivant l'apparition des symptômes (même pendant la grossesse), à dose prophylactique en post-exposition.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la grippe" "show" %}}
+
+{{< mermaid title="Prise en charge de la grippe par le médecin généraliste. Dr JB Fron d'après SFCD 2021 et Collèges" >}}
+graph TB
+  risque["<b>Sujet à risque de grippe grave</b><br>—<br>Vaccin annuel:<br>- +65 ans<br>- Femme enceinte<br>- Diabète<br>- Obésité grade 3<br>- Maladies respiratoires<br>- Maladies cardiovasculaires<br>- Hépatopathies<br>- Neuromusculaires<br>- Néphropathies graves<br>- Drépanocytose<br>- Déficits immunitaires<br>- EHPAD, SSR<br>- Entourage de nourrisson<br>&lt; 6 mois prématuré<br>ou comorbidité<br>+ Professionnel de santé"]
+  suspicion[""]
+  style risque stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [Ameli Médecin. Vacciner ses patients atteints de maladies chroniques contre la grippe et le Covid-19 est essentiel. 15/11/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/vacciner-ses-patients-atteints-de-maladies-chroniques-contre-la-grippe-et-le-covid-19-est-essentiel)
