@@ -1093,6 +1093,7 @@ legend {
 .img-index {
   height: 100%;
   object-fit: cover;
+  object-position: center top;
 }
 
 .img-32 {
@@ -1401,6 +1402,10 @@ a:focus-visible {
 .chip-outline-active {
   background-color: rgba(var(--bg-rgb), 0.12);
   color: var(--primary);
+}
+
+.cursor-pointer {
+  cursor: pointer !important;
 }
 
 /* Plugins */
