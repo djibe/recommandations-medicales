@@ -1,0 +1,54 @@
+<!-- TODO: -->
+<div class="card-body" id="score-iadl-simplifiee">
+  <p>Évaluation de l’autonomie par l’échelle <dfn><abbr title="Instrumental Activities of Daily Living">IADL</abbr></dfn> simplifiée.</p>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="iadl-simpl-1" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="iadl-simpl-1">Utilisation du téléphone</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="iadl-simpl-2" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="iadl-simpl-2">Utilisation des transports</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="iadl-simpl-3" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="iadl-simpl-3">Gère seul et correctement ses médicaments</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="iadl-simpl-4" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="iadl-simpl-4">Gère seul et correctement ses affaires financières (budget, factures)</label>
+  </div>
+</div>
+<div class="alert bg-light d-flex mt-md-4">
+  <div class="d-flex flex-column align-items-center">
+    <p class="typography-overline score-output-title">IADL simplifiée</p>
+    <output class="score-output" id="iadl-simplScore">0</output>
+  </div>
+  <p id="iadl-simplText" class="lead m-0">Poursuivre le bilan mémoire</p>
+</div>
+<blockquote class="blockquote">
+  <p></p>
+  <p lang="en"><a href="" rel="external nofollow noopener"></a></p>
+</blockquote>
+{{ $script := `
+  // Score IADL simplifiée by djibe
+  window.addEventListener( 'load', event => {
+    const scoreiadlSimpl = document.getElementById('iadl-simplScore')
+    const textiadlSimpl = document.getElementById('iadl-simplText');
+    var iadlSimplElems = document.querySelectorAll('#score-iadl-simplifiee input');
+    iadlSimplElems.forEach((elem) => { elem.addEventListener('change', () => calcIadlSimpl() ) })
+    const calcIadlSimpl = () => {
+      let score = 0
+      iadlSimplElems.forEach(iadlSimplElem => {
+        if (iadlSimplElem.checked) {
+          score += parseInt(iadlSimplElem.value, 10)
+          scoreIadlSimpl.innerHTML = score
+          if (score >= 1) {
+            textiadlSimpl.innerHTML = 'Poursuivre le bilan mémoire'
+          } else if (score < 1) {
+            textiadlSimpl.innerHTML = 'Pas d’élément inquiétant dans la vie quotidienne'
+          }
+        }
+      })
+    }
+  })` }}
+<script type="module">{{ $script | safeJS }}</script>

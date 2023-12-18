@@ -350,7 +350,6 @@ Chez l'enfant (pas d'intracellulaire avant 3 ans) selon *GPIP 2016*:
 
 - <mark>Préférence: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose-kg x 2/j (max 1 g/j) pendant 10 jours</mark>
 - Alternatives si allergie:
-  - [josamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66113600&typedoc=R) 50 mg/kg en 2 prises pendant 14 jours
   - [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67287098&typedoc=R) 1 dose-kg en 1 prise (soit 20 mg/kg avant 25 kg, max 500 mg/j), 500 mg/j au-delà pendant 3 jours (uniquement si pneumocoque exclu)
   - +6 ans, aussi pour doute sur pneumocoque: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69494932&typedoc=R) 50 mg/kg en 2 prises pendant 10 jours (uniquement en comprimés)
 

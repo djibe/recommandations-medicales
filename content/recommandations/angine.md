@@ -178,7 +178,6 @@ Antibiothérapies alternatives à partir de 15 ans:
 - Contre-indication aux bêtalactamines
   - macrolide azithromycine 500 mg 1 prise quotidienne pendant 3 jours  
   - ou clarithromycine 250 mg x 2/j pendant 5 jours
-  - ou josamycine 1 g x 2/j pendant 5 jours (arrêt en mars 2023)
 
 #### Antibiothérapie de l'angine chez l'enfant
 
@@ -190,8 +189,7 @@ Antibiothérapies alternatives avant 15 ans:
 - Allergie vraie à la pénicilline
   - C3G céfpodoxime 8 mg/kg/j en 2 prises (max 400 mg/j) 5 jours
 - Contre-indication aux bêtalactamines
-  - azithromycine 20 mg/kg/j x 1/j (max 500 mg/j) 3 jours
-  - ou josamycine 15 mg/kg/j en 2 prises (max 1g/j)
+  - Azithromycine 20 mg/kg/j x 1/j (max 500 mg/j) 3 jours
 
 {{%warning%}}
 

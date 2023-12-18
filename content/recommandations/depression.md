@@ -132,7 +132,7 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{<
 - **Échelle de dépression de Beck** (auto-questionnaire BDI)
 - {{< modal-btn modal-hads >}}Échelle HADS{{< /modal-btn >}} (intérêt en cas de comorbidités somatiques)
 - {{< modal-btn modal-hamilton >}}**Échelle d'Hamilton**{{< /modal-btn >}} (HDRS ou HAM-D, suivi de l'évolution ++)
-- Sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} (variantes 4 ou 30 questions, et MMSE)
+- Sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} (variantes 4 ou 30 questions, et {{< scores/mmse >}})
 
 </div>
 <div class="tab-pane fade" id="nav-severite" role="tabpanel" aria-labelledby="nav-tab-severite">
@@ -292,12 +292,12 @@ Les symptômes doivent être présents depuis au moins 15 jours avec changement 
   - Dépistage d'une anxiété (75%): {{< modal-btn modal-gad2 >}}échelle GAD-2{{< /modal-btn >}}
 - Retentissement socio-professionnel
 - **Évaluation du risque suicidaire**
-- Sujet âgé: rechercher une maladie neuro-dégénérative (Alzheimer, Parkinson), [MMSE (PDF)](http://www.sgca.fr/outils/mms.pdf)
+- Sujet âgé: rechercher une maladie neuro-dégénérative (Alzheimer, Parkinson), {{< scores/mmse >}}
 - Enfant: irritabilité, baisse des performances scolaires, variations de poids
 
 Avec l'accord du patient, interroger l'entourage.
 
-Questionnaires d'aide au diagnostic de la dépression chez l'adulte (voir la section dédiée): {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HADS{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} et MMSE.
+Questionnaires d'aide au diagnostic de la dépression chez l'adulte (voir la section dédiée): {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HADS{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} couplé au {{< scores/mmse >}}.
 
 > << Le diagnostic de l'épisode dépressif caractérisé est clinique >> – *HAS 2017*
 

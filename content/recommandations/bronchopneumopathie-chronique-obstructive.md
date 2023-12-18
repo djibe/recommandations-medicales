@@ -218,7 +218,7 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
 - Auscultation pulmonaire  
   Sibilants, tirage, cyanose.
 - Calcul du risque cardiovasculaire {{< scores/heartscore >}}
-- [Dépister des apnées du sommeil](https://www.diabeclic.com/questionnaire-stop-bang)
+- {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - Rechercher une [mycose buccale]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
 
 {{% /collapse %}}
@@ -643,6 +643,11 @@ graph TB
 {{% modal title="Échelle de dyspnée du Medical Research Council modifiée" id="modal-score-mmrc"%}}
 
 {{< scores/mmrc >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
+
+{{< scores/stop-bang >}}
 
 {{% /modal %}}
 {{% modal title="Sévérité de l'obstruction bronchique" id="modal-severite-bpco"%}}

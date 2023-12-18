@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2020-12-22T09:52:41+02:00
 publishdate = "2020-12-22"
-lastmod = "2022-11-24"
+lastmod = "2023-12-18"
 specialites = ["medecine du sommeil"]
 annees = "2018"
 sources = ["SFRMS", "AASM", "HAS"]
@@ -21,13 +21,14 @@ image = true
 imageSrc = "Illustration de l'apnée du sommeil par Habib M'henni / Wikimedia Commons"
 imagePNG = true
 todo = "SEO 'depistage saos', 103, 105, à lire, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, doc explication PPC"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Suspecter des apnées du sommeil en cas de: sommeil non réparateur, somnolence, [fatigue](/tags/fatigue/), hypertension non contrôlée, reflux nocturne
-- Dépister systématiquement des apnées si [obésité grade 3]({{< relref "obesite-adulte.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}), fibrillation atriale, maladie cardiovasculaire ...
-- Dépister des apnées par le questionnaire STOP-BANG ou les *8 questions* chez le diabétique (voir *Comment dépister ...* )
+- Suspecter des apnées du sommeil en cas de: sommeil non réparateur, somnolence, [fatigue](/tags/fatigue/), [hypertension non contrôlée]({{< relref "hypertension-arterielle.md" >}}), [reflux nocturne]({{< relref "reflux-gastro-oesophagien.md" >}})
+- Dépister systématiquement des apnées si [obésité grade 3]({{< relref "obesite-adulte.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}), [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/) ...
+- Dépister des apnées par le questionnaire STOP-BANG ou les *8 questions* chez le diabétique (voir *[Dépister les apnées](#dépister-les-apnées-du-sommeil)* )
 - Probabilité forte de syndrome d'apnées du sommeil avec somnolence inexpliquée malgré une polygraphie normale: réaliser une polysomnographie
 - La ventilation par PPC doit être utilisée au moins 4 heures par nuit et renouvelée au bout de 3 ans par le médecin traitant
 
@@ -42,8 +43,8 @@ Il a une origine *obstructive* (SAOS), *centrale* (SACS) ou *mixte*.
 
 ### Complications des apnées du sommeil
 
-- Coronaropathie et [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (+50%)  
-  [Hypertension artérielle diastolique]({{< relref "hypertension-arterielle.md" >}}), nocturne et résistante (+60% des hypertensions résistantes).
+- Coronaropathie et [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (> 50 %)  
+  [Hypertension artérielle diastolique]({{< relref "hypertension-arterielle.md" >}}), nocturne et résistante (+60 % des hypertensions résistantes).
 - [Accidents vasculaires cérébraux]({{< relref "accident-vasculaire-cerebral.md" >}}) (x 2-3)
 - [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}})
 - Insulinorésistance
@@ -92,10 +93,10 @@ Hypersomnie
 
 ### Comorbidités des apnées du sommeil
 
-- [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (20%)
-- [Diabète de type 2]({{< relref "diabete-type-2.md">}}) (15-30%)  
-  40-70% des DT2 ont un SAOS.
-- 60% des [insuffisants cardiaques]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ont une forme d'apnées du sommeil
+- [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (20 %)
+- [Diabète de type 2]({{< relref "diabete-type-2.md">}}) (15-30 %)  
+  40-70 % des DT2 ont un SAOS.
+- 60 % des [insuffisants cardiaques]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ont une forme d'apnées du sommeil
 
 ### Abréviations en médecine du sommeil
 
@@ -141,12 +142,12 @@ VEMS
 Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 
 - **Prévalence du syndrome d'apnées du sommeil**  
-  - US: 14% des hommes et 9% des femmes (*Peppard AJE 2013*) et jusqu'à 50% des hommes adultes (*Heinzer 2015*)
+  - US: 14% des hommes et 9% des femmes (*Peppard AJE 2013*) et jusqu'à 50 % des hommes adultes (*Heinzer 2015*)
   - France: 4% de la population (*HAS*)
   - 1 à 4% des enfants
-- <mark>82% des hommes et 92% des femmes ne sont pas diagnostiqués</mark>
-- 60% des SAOS modérés à sévères sont attribuables au surpoids
-- De 18 à 53% des diabétiques ont un SAOS modéré à sévère
+- <mark>82 % des hommes et 92 % des femmes ne sont pas diagnostiqués</mark>
+- 60 % des SAHOS modérés à sévères sont attribuables au surpoids
+- De 18 à 53 % des diabétiques ont un SAHOS modéré à sévère
 
 {{% /collapse %}}
 {{%collapse "Dépister les apnées du sommeil" %}}
@@ -183,20 +184,20 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 #### Personnes à haut risque d'apnées du sommeil
 
 - Obèse ≥ 35 kg/m²
-- [Diabète type 2]({{< relref "diabete-type-2.md">}}) (65-85%)  
+- [Diabète type 2]({{< relref "diabete-type-2.md">}}) (65-85 %)  
   Surtout si hypertension résistante, insuffisance rénale d'évolution rapide, rétinopathie, forte insulinorésistance, chauffeur professionnel (*SFD 2019*).
 - [Diabète type 1]({{< relref "diabete-type-1.md">}}) (*SFD 2019*)
 - Maladie cardiovasculaire
   - Coronaropathie
-  - [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) (71%)
-  - [Hypertension artérielle résistante]({{< relref "hypertension-arterielle.md" >}}) (73-82%)
+  - [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) (71 %)
+  - [Hypertension artérielle résistante]({{< relref "hypertension-arterielle.md" >}}) (73-82 %)
   - Insuffisance respiratoire
   - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
-  - [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) (76-85%)
+  - [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) (76-85 %)
   - Arythmies nocturnes
   - [HTAP]({{< relref "hypertension-arterielle-pulmonaire.md" >}})
 - Chauffeurs professionnels (ou métiers à risque)
-- Pré-opératoire de chirurgie bariatrique (71-77%)
+- Pré-opératoire de chirurgie bariatrique (71-77 %)
 
 > Indications au dépistage selon *SPLF 2010*
 {{%/info%}}
@@ -224,23 +225,24 @@ Toute suspicion d'apnées du sommeil doit être confirmée par un enregistrement
   Liste des médicaments, rhinite chronique.
 - Symptômes diurnes
   - **Sommeil non réparateur**
-  - **Somnolence diurne excessive** (15-50%)
+  - **Somnolence diurne excessive** (15-50 %)
   - **Fatigue**
   - Troubles mnésiques ou de la concentration
   - Troubles de la libido
-  - Céphalées matinales (12-18%)
+  - Céphalées matinales (12-18 %)
 - Symptômes nocturnes
   - **Ronflements**  
-    Sévères et quotidiens (50-60%).
+    Sévères et quotidiens (50-60 %).
   - **Réveils fréquents**
   - Pauses respiratoires  
-    Constatées par l'entourage (10-15%).
+    Constatées par l'entourage (10-15 %).
   - Sensation d'étouffement ou de suffocation pendant le sommeil
-  - **Reflux gastro-œsophagien** nocturne (50-75%)
+  - **Reflux gastro-œsophagien** nocturne (50-75 %)
   - Agitation nocturne
   - Insomnie
-  - Nycturie (≥ 2/nuit, 30%)
+  - Nycturie (≥ 2/nuit, 30 %)
 - Autres symptômes
+  - Obstruction nasale
   - Durée totale de sommeil
   - Perturbations du sommeil du partenaire
   - Dyspnée de repos et d'effort
@@ -261,22 +263,20 @@ Toute suspicion d'apnées du sommeil doit être confirmée par un enregistrement
   - Douleurs  
     {{%class%}}Rhumatismales, artéritiques, polynévrite ou neurologiques.{{%/class%}}
   - Dysthyroïdie
-- Qualité de Vie
+- Qualité de vie
 
 ### Examen clinique
 
 - Poids, taille, IMC
 - Périmètre abdominal et cervical
+- Pression artérielle aux 2 bras avec pouls, fréquence cardiaque, SpO<sub>2</sub>
 - Examen ORL
   - Rétrognatisme
   - Macroglossie
   - Hypertrophie du palais mou et de ses piliers avec hypertrophie de la luette
   - Hypertrophie des amygdales
-  - Obstruction nasale
 - [Score de Mallampati modifié](https://www.msdmanuals.com/fr/professional/multimedia/figure/score-de-mallampati-modifi%C3%A9)
-- Examen cardio-respiratoire  
-Pression artérielle aux 2 bras avec pouls, SpO<sub>2</sub>.  
-Auscultation cardiaque et vasculaire.
+- Examen cardio-respiratoire
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -308,7 +308,7 @@ La prescription et l'interprétation relèvent d'un médecin formé à la médec
 
 *Polygraphie ventilatoire* voire *polysomnographie* en cas de suspicion de pathologies neurologiques associées.
 
-En cas de somnolence avec suspicion forte de SAOS, une polygraphie normale n'exclut pas le diagnostic et doit faire pratiquer une polysomnographie (25-50% de faux négatifs, *Gottlieb 2020*)
+En cas de somnolence avec suspicion forte de SAOS, une polygraphie normale n'exclut pas le diagnostic et doit faire pratiquer une polysomnographie (25-50 % de faux négatifs, *Gottlieb 2020*)
 {.alert .alert-warning}
 
 ### Gaz du sang
@@ -317,7 +317,7 @@ Indications aux gaz du sang:
 
 - BPCO, trouble ventilatoire obstructif
 - Obésité ≥ grade 2 (35 kg/m²)
-- Sp0<sub>2</sub> éveil < 94%
+- Sp0<sub>2</sub> éveil < 94 %
 
 ### Épreuves fonctionnelles respiratoires (EFR)
 
@@ -348,14 +348,14 @@ Il consiste en une ventilation à pression positive continue (PPC) ou un orthès
 
 ### Mesures générales
 
-Recommandations générales pour la prise en charge des apnées du sommeil:
+Recommandations générales pour la prise en charge du syndrome d'apnées du sommeil:
 
-- Perte de poids si surpoids  
+- Correction d'un surpoids  
   {{%class%}}Améliore l'IAH et les désaturations.{{%/class%}}
   - Chirurgie bariatrique si IMC ≥ 35 avant 65 ans (*HAS 2009 obésité*)
 - Activité physique régulière
-- Évaluer le bénéfice/risque d'une chirurgie bariatrique chez les sujets obèses (35 kg/m²)
-- Traitement d'une rhinite chronique/obstruction nasale associée
+- Évaluer le bénéfice/risque d'une [chirurgie bariatrique]({{< relref "obesite-adulte.md" >}}) chez les sujets obèses (35 kg/m²)
+- Traitement d'une [rhinite chronique]({{< relref "rhinite-allergique.md" >}})/obstruction nasale associée
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})  
   {{%class%}}N'améliore pas le SAOS mais réduit l'impact des comorbidités.{{%/class%}}
 - Réduire la consommation d'alcool
@@ -364,13 +364,11 @@ Recommandations générales pour la prise en charge des apnées du sommeil:
 - Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 - Proposer des parcours d'éducation thérapeutique
 
-### Les grands principes à connaître
+### PPC : Les grands principes à connaître
 
-1. Principe de la PPC  
-  Le maintien d'une pression permanente dans les voies aériennes prévient le collapsus du pharynx pendant le sommeil et donc toute interruption des débits d'air.
-1. La PPC doit être utilisée au moins 4 heures par nuit
-1. La PPC peut être renouvelée par le médecin traitant au bout de 3 ans  
-    - Après 3 ans de traitement, le médecin traitant peut renouveler la demande d'entente préalable de la PPC
+1. Le maintien d'une pression permanente dans les voies aériennes prévient le collapsus du pharynx pendant le sommeil et donc toute interruption des débits d'air
+2. La PPC doit être utilisée au moins 4 heures par nuit pour être remboursée
+3. Elle peut être renouvelée par le médecin traitant au bout de 3 ans  
     - Conditions: observance des 12 derniers mois (≥ 112 heures sur 10 mois et ≥ 56 heures sur les 2 restants)
     - Les données d'observance sont fournies par le prestataire
 
@@ -519,6 +517,17 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 - [Lyon 1](http://offre-de-formations.univ-lyon1.fr/parcours-658/physiologie-et-pathologie-du-sommeil.html)
 
 {{% /collapse %}}
+{{%collapse "Prise en charge des apnées du sommeil" "show" %}}
+
+{{< mermaid title="Prise en charge de la suspicion de syndrome d'apnées du sommeil par le médecin généraliste. Dr JB Fron d'après SFRMS et AASM" >}}
+graph TB
+  dépistage["<b>Dépistage systématique</b><br>—<br>- Obésité grade 2+<br>- Diabète<br>- Maladie cardiovasculaire<br>- Chauffeur professionnel<br>- Chirurgie bariatrique"] --> spécialiste("Médecin du sommeil,<br>pneumologue ou ORL")
+  suspicion["<b>Suspicion d'apnées du sommeil</b><br>—<br>- Sommeil non réparateur<br>- Somnolence diurne<br>- Fatigue<br>- Ronflements<br>- Reflux nocturne<br>- Nycturie"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements<br>- Symptômes<br>- Examen clinique") --> spécialiste
+  style dépistage stroke:#4150f5, stroke-width:1px
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [US Preventive Services Task Force. Screening for Obstructive Sleep Apnea in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2798399)

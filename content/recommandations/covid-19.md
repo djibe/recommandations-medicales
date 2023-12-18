@@ -184,11 +184,6 @@ Atteintes possibles après une infection à Sars-Cov-2.
 > << L'Ordre rappelle que les médecins n'ont pas à établir de certificat médical pour le retour à l'école. >> *[CNOM 11/09/2020](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificat-medical-lecole)*
 
 {{%/collapse%}}
-{{%collapse "Vidéos" %}}
-
-{{< youtube id="Aj3reT1GI_8" title="Technique de prélèvement nasal" >}}
-
-{{%/collapse%}}
 {{%collapse "Prise en charge par Paxlovid" "show" %}}
 
 {{< mermaid title="Prise en charge par Paxlovid par le médecin généraliste. Dr Alaedine Benani d'après HAS 2023 et DGS-Urgent" >}}

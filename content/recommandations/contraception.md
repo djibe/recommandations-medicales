@@ -7,8 +7,8 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2023-11-17"
-specialites = ["gynecologie-obstetrique"]
+lastmod = "2023-12-18"
+specialites = ["gynecologie-obstetrique", "urologie"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
 tags = ["contraception", "grossesse", "MVTE"]
@@ -16,9 +16,10 @@ anglais = ["Contraception"]
 sctid = "13197004"
 icd10 = "Z30"
 image = true
-imageSrc = "La contraception illustrée par stories / Freepik"
+imageSrc = "La contraception. stories / Freepik"
 chart = true
 todo = "modal DIU, nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, 360medics, inducteur enz p9, cat vmts et diarrhées p9, contraception définitive"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -32,6 +33,8 @@ todo = "modal DIU, nb grossesses efficacité, ONU contraceptions pays, critères
   ou démarrage à tout moment du cycle: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1<sup>re</sup> plaquette.
 - Informer sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) et informer sur la surveillance des troubles de l'humeur (dépression)
 - Pas d'interaction DIU et anti-inflammatoires AINS
+
+Les contraceptions définitives ne sont pas encore traitées.
 
 Chapitres lié: [acné]({{< relref "acne.md" >}}), [IVG]({{< relref "interruption-volontaire-grossesse.md" >}}), [ménopause]({{< relref "menopause.md" >}})
 
@@ -165,7 +168,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 {{% /collapse %}}
 {{%collapse "Spécialités de contraceptifs" "show" %}}
 
-> La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares (*CNGOF 2018*)
+> La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares – *CNGOF 2018*
 {.alert .alert-info}
 
 {{< table title="Spécialités de contraception disponibles en France en 2023 (sauf dernières générations et DMPA qui augmentent le risque vasculaire). Dr JB Fron d'après BDPM" class="table-wrap" id="table-pilule" >}}
@@ -272,7 +275,7 @@ La première consultation reprend les types de contraceptifs groupés par effica
 
 ### Consultation contraception gratuite avant 26 ans
 
-- La consultation: coter GS (25 €) avec Exo 3 (dit *Soins particuliers exonérés*, comme pour Covid)  
+- La consultation: coter GS (26,5 €) avec Exo 3 (dit *Soins particuliers exonérés*, comme pour Covid)  
   Cocher TP AMO + AMC sur la feuille de soins.
 - Les actes (stérilet, implant): coter l'acte avec Exo 3
 
@@ -368,7 +371,7 @@ Nécessitent une abstinence pendant la période fertile.
 
 Méthode MAMA: voir *Contraception selon le profil > Post-partum*
 
-<< La méthode du retrait n'est pas recommandée comme une méthode de contraception >> (*CNGOF 2018*)
+<< La méthode du retrait n'est pas recommandée comme une méthode de contraception >> – *CNGOF 2018*
 
 ### Méthodes barrières
 
@@ -467,7 +470,7 @@ Changement de contraception à discuter.
 
 ### Prise de poids
 
-> Les contraceptions hormonales ne sont pas associées à une prise de poids (*CNGOF 2018*)
+> Les contraceptions hormonales ne sont pas associées à une prise de poids – *CNGOF 2018*
 {.alert .alert-info}
 
 L'implant sous-cutané à l'étonogestrel ou le DMPA injectable peuvent parfois augmenter modérément le poids.  
@@ -488,14 +491,14 @@ Migraines cataméniales sous COP, proposer au choix:
 
 ### Troubles de l'humeur
 
-<< Il n'existe pas de preuve solide permettant d'établir que l'utilisation d'une contraception hormonale est un facteur de risque de troubles de l'humeur >> (*CNGOF 2018*)
+> << Il n'existe pas de preuve solide permettant d'établir que l'utilisation d'une contraception hormonale est un facteur de risque de troubles de l'humeur >> – *CNGOF 2018*
 
 Étayer les aspects psychologiques et discuter un changement de contraception en parallèle.
 
 {{% /collapse %}}
 {{%collapse "Interactions médicamenteuses" %}}
 
-> Pas de contre-indication aux AINS avec le DIU cuivre (*CNGOF 2018*)
+> Pas de contre-indication aux AINS avec le DIU cuivre – *CNGOF 2018*
 {.alert .alert-info}
 
 Contrôler les interactions médicamenteuses en cas de cotraitement.
@@ -526,7 +529,7 @@ En traitement prolongé, utiliser une contraception non hormonale.
 {{% /collapse %}}
 {{%collapse "Contraception et cancers" %}}
 
-> Il n'est pas retrouvé d'augmentation de l'incidence ou de la mortalité par cancer (tous confondus) chez les utilisatrices de contraception (*CNGOF 2018*)
+> Il n'est pas retrouvé d'augmentation de l'incidence ou de la mortalité par cancer (tous confondus) chez les utilisatrices de contraception – *CNGOF 2018*
 
 ### Contraception œstroprogestative et cancers
 
@@ -657,6 +660,18 @@ const chartOptions = {
 </script>
 
 {{% /collapse %}}
+{{%collapse "Prise en charge par contraception" "show" %}}
+
+{{< mermaid title="Prise en charge d'une contraception par le médecin généraliste. Dr JB Fron d'après CNGOF et HAS" >}}
+graph TB
+  contraception["<b>Contraception</b><br>—<br>Personne en âge de procréer<br>sans désir d'enfant.<br>Information sur la<br>contraception d'urgence."] --> homme("<b>Homme</b><br>—<br>- Préservatif<br>- Vasectomie")
+  contraception --> femme("<b>Femme</b><br>—<br>DIU cuivre<br>et ...") -- Estrogènes --> estrogènes("<b>Contre-indication<br>aux estrogènes ?</b><br>—<br>- ATCD familial 1er degré:<br>IDM/AVC précoce<br>MVTE avant 50 ans<br>ou répétés<br>- HTA<br>- Dyslipidémie non contrôlée<br>- DT1 &gt; 20 ans<br>- Migraine avec aura<br>- Migraine de novo ou aggravation<br>sous estrogènes<br>- Thrombophilie<br>- Risque cardiovasculaire élevé<br>- Antécédent de cancer du sein,<br>tumeur ovarienne,<br>carcinome hépatocellulaire") -- Non --> réserves("<b>Max 1 parmi:</b><br>—<br>- Âge &ge; 35 ans<br>- Surpoids, obésité<br>- Tabac &gt; 15 cig/j<br>- Dyslipidémie contrôlée<br>- DT2<br>- Migraine sans aura") -- Oui --> estrogènes2("Pilule lévonorgestrel<br>ou norgestimate") -. Inadaptée .-> estrogènes3("- Patch 18-45 ans<br>- Anneau 18-40 ans<br>- 3e, 4e génération")
+    femme -- Progestatif --> progestatif("<b>Contre-indications<br>aux progestatifs</b><br>—<br>- MVTE en cours<br>- Saignements génitaux inexpliqués<br>- Cancer sein ou utérus<br>- Pathologie hépatique sévère") -- Non --> progestatif2("À tout âge:<br>- Pilule progestative<br>- DIU hormonal<br>- Implant de 18 à 40 ans")
+    femme -- Définitive --> définitive("Gynécologue")
+  style contraception stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [ANSM. Les stérilets contenant le plus d’hormone présenteraient davantage de risque de troubles dépressifs. 14/02/2023.](https://ansm.sante.fr/actualites/les-sterilets-contenant-le-plus-dhormone-presenteraient-davantage-de-risque-de-troubles-depressifs)
@@ -670,11 +685,11 @@ const chartOptions = {
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/rpc/?x72671)
 - [Robin F et al; CNGOF. Faut-il vraiment avoir peur de la pilule contraceptive ? 2017. (PDF)](https://cngof.fr/app/uploads/2023/06/piluleCNGOF-2017-09.pdf?x53169)
 - CNGOF. Contraception du post-partum : recommandations pour la pratique clinique.
-- [HAS. Contraception : focus sur les méthodes efficaces. Actualités & Pratiques. Mai 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-05/contraception_focus_methodes_2013-05-22_18-09-35_548.pdf)
+- [HAS. Contraception : focus sur les méthodes efficaces. Actualités & Pratiques. 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-05/contraception_focus_methodes_2013-05-22_18-09-35_548.pdf)
 
 ### Bibliographie en attente
 
-- [HAS. Stérilisation à visée contraceptive chez l'homme et chez la femme. Septembre 2019.](https://www.has-sante.fr/jcms/c_1752765/fr/sterilisation-a-visee-contraceptive-chez-l-homme-et-chez-la-femme)
+- [HAS. Stérilisation à visée contraceptive chez l'homme et chez la femme. 2019.](https://www.has-sante.fr/jcms/c_1752765/fr/sterilisation-a-visee-contraceptive-chez-l-homme-et-chez-la-femme)
 - [HAS. Contraception chez l'homme. Septembre 2019.](https://www.has-sante.fr/jcms/c_1757909/fr/contraception-chez-l-homme)
 - [HAS. Efficacité des méthodes contraceptives. 2014.](https://www.has-sante.fr/jcms/c_1757924/fr/efficacite-des-methodes-contraceptives)
 

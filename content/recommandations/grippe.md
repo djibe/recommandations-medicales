@@ -7,7 +7,7 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2023-12-14"
+lastmod = "2023-12-18"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2023"
 sources = ["MinSanté", "HAS"]
@@ -17,7 +17,7 @@ sctid = "6142004"
 icd10 = "J11.1"
 image = true
 imageSrc = "Particules de virus grippal H1N1 en microscopie électronique: les protéines de surface sont en noir. NIAID, CC BY 2.0 via Wikimedia Commons"
-todo = "grippe grossesse, antiviral"
+todo = "flowchart, grippe grossesse, antiviral"
 flowchart = true
 +++
 
@@ -63,9 +63,9 @@ Diagnostics à étayer devant un tableau de toux aiguë:
 {{%collapse "Personnes à risque de grippe grave" %}}
 
 {{%info%}}
-Vaccination annuelle en octobre pour les personnes à risque de grippe grave.
+Vaccination annuelle en octobre pour les personnes à risque de forme grave de la grippe.
 
-Bon de prise en charge à 100% cerfa n°610e sur *Ameli pro*.
+Bon de prise en charge à 100% Cerfa n°610e sur *Ameli pro*.
 {{%/info%}}
 
 Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination antigrippale est recommandée chaque année:
@@ -95,6 +95,9 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 
 > {{< references/calendrier-vaccinal >}}
 
+> << Les femmes enceintes constituent une population à risque d'infection grippale d'une gravité particulière avec des complications à court terme (mort fœtale et mort maternelle, hypoxémie réfractaire, complications des soins de réanimation) et à long terme sous forme d'insuffisance respiratoire. >> – *CNGOF 2013*
+{.alert .alert-warning}
+
 ### Recommandations pour les professionnels
 
 - Professionnels de santé et tout professionnel en contact régulier et prolongé avec des personnes à risque de grippe sévère
@@ -106,6 +109,21 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 ### Vaccination anti-grippale des enfants
 
 > La vaccination contre la grippe << peut être proposée chaque année à tous les enfants âgés de 2 à 17 ans révolus. Dans cette tranche d'âge, il est recommandé d'utiliser préférentiellement le vaccin administré par voie intranasale Fluenz Tetra® >> (*Calendrier vaccinal 2023*) qui n'est évidemment pas disponible en pharmacie en France.
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+### Diagnostic différentiel de la grippe
+
+Autres étiologies de toux aiguë:
+
+- Infectieuse
+  - Covid-19
+  - Bronchite
+  - Pneumonie aiguë communautaire ou virale (VRS ...)
+  - Coqueluche
+- Pneumo-allergique: allergie, asthme
+- Mécanique avec surinfection: tumeur, compression trachéale, corps étranger
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -125,9 +143,9 @@ Signes et symptômes de la grippe:
   - Dyspnée, confusion mentale, déshydratation, troubles digestifs
   - Pneumopathie post-grippale (J5-J7)
 - Enfant: somnolence, troubles digestifs
-- Immunodéprimés (greffé, SIDA): mortalité identique aux +65 ans.
+- Immunodéprimés (greffé, SIDA): mortalité identique aux +65 ans
 
-**Signes de gravité de la grippe:** fièvre très élevée persistante, réapparition de la fièvre, dyspnée ou tachycardie, cyanose, convulsions fébriles, signes méningés, hypotonie ...
+**Signes de gravité de la grippe:** fièvre très élevée persistante, réapparition de la fièvre, dyspnée ou tachycardie, cyanose, convulsions fébriles, signes méningés, hypotonie, décompensation d'organe ...
 
 **Aucun examen complémentaire** devant un tableau de grippe saisonnière non compliquée.
 
@@ -171,15 +189,17 @@ Prise en charge symptomatique de la grippe saisonnière non compliquée.
 
 **Isolement** pour limiter la transmission.
 
-Contre-indications aux anti-inflammatoires AINS et corticoïdes. Antitussifs et fluidifiants bronchiques inefficaces.
+Contre-indications aux anti-inflammatoires AINS, aspirine et corticoïdes. Antitussifs et fluidifiants bronchiques inefficaces.
 {.alert .alert-info}
 
 ### Traitement antiviral de la grippe
 
+La méta-analyse 2023 publiée dans le JAMA n'identifie pas de réduction du risque d'hospitalisation par l'oseltamivir. La Revue Prescrire va dans ce sens.
+
 {{%info%}}
 Indications au traitement antiviral de la grippe par [oseltamivir](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65545895&typedoc=R) (Tamiflu®, gén):
 
-- Personnes à risque de grippe grave (voir section plus haut) symptomatique ou en post-exposition
+- Personnes à risque de grippe grave (voir section plus haut, dont **femmes enceintes**) symptomatique ou en post-exposition
 - Grippe grave d'emblée
 - Grippe hospitalisée
 - Post-exposition (< 48h): comorbidités sévères, immunodéprimé, EHPAD
@@ -190,11 +210,14 @@ L'oseltamivir doit être débuté dans les 48 heures suivant l'apparition des sy
 {{% /collapse %}}
 {{%collapse "Prise en charge de la grippe" "show" %}}
 
-{{< mermaid title="Prise en charge de la grippe par le médecin généraliste. Dr JB Fron d'après SFCD 2021 et Collèges" >}}
+{{< mermaid title="Prise en charge de la grippe par le médecin généraliste. Dr JB Fron d'après MinSanté, CMIT et SPILF" >}}
 graph TB
-  risque["<b>Sujet à risque de grippe grave</b><br>—<br>Vaccin annuel:<br>- +65 ans<br>- Femme enceinte<br>- Diabète<br>- Obésité grade 3<br>- Maladies respiratoires<br>- Maladies cardiovasculaires<br>- Hépatopathies<br>- Neuromusculaires<br>- Néphropathies graves<br>- Drépanocytose<br>- Déficits immunitaires<br>- EHPAD, SSR<br>- Entourage de nourrisson<br>&lt; 6 mois prématuré<br>ou comorbidité<br>+ Professionnel de santé"]
-  suspicion[""]
+  risque["<b>Sujet à risque de grippe grave</b><br>—<br>- +65 ans<br>- Femme enceinte<br>- Diabète<br>- Obésité grade 3<br>- Maladies respiratoires<br>- Maladies cardiovasculaires<br>- Hépatopathies<br>- Neuromusculaires<br>- Néphropathies graves<br>- Drépanocytose<br>- Déficits immunitaires<br>- EHPAD, SSR<br>- Entourage de nourrisson<br>&lt; 6 mois prématuré<br>ou comorbidité<br>+ Professionnel de santé"] --> vaccin(Vaccin annuel)
+  suspicion["<b>Suspicion de grippe</b><br>—<br>Syndrome grippal<br>difficile depuis "] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Facteurs de risque<br>de grippe grave<br>- Signes de gravité: fièvre élevée,<br>dyspnée, tachycardie,<br>cyanose, convulsions,<br>signes méningés, hypotonie<br>- Auscultation") --> traitement("<b>Traitement</b><br>—<br>- Traitement symptomatique:<br>AINS, corticoïdes<br>contre-indiqués<br>- Isolement J6<br>± Oseltamivir si<br>sujet à risque<br>(voir liste vaccinale)") -. "Résurgence<br>de la fièvre" .-> pneumonie("Éliminer pneumonie<br>post grippale")
+    clinique -- "Gravité,<br>décompensation" --> hospitalisation(Hospitalisation)
+    clinique -- Diagnostic différentiel --> différentiel("- Covid<br>- Bronchite<br>- Pneumonie<br>- Coqueluche<br>- Allergie, asthme<br>- Tumeur, corps étranger")
   style risque stroke:#4150f5, stroke-width:1px
+  style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{%/collapse%}}
@@ -202,13 +225,11 @@ graph TB
 
 - [Ameli Médecin. Vacciner ses patients atteints de maladies chroniques contre la grippe et le Covid-19 est essentiel. 15/11/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/vacciner-ses-patients-atteints-de-maladies-chroniques-contre-la-grippe-et-le-covid-19-est-essentiel)
 - [Ameli Pharmacien. Campagne de vaccination contre la grippe saisonnière 2023-2024. 08/11/2023](https://www.ameli.fr/pharmacien/exercice-professionnel/sante-prevention/vaccination/vaccination-grippe-saisonniere)
-- {{< references/calendrier-vaccinal >}}
-- Prescrire Redaction. Grippe saisonnière. Prescrire. Août 2022.
-- [SPILF. Prise en charge de la grippe en dehors d'une situation de pandémie en 2005. Médecine et Maladies Infectieuses. 2005.](https://www.sciencedirect.com/science/article/pii/S0399077X05002064)
-
-### Bibliographie en attente
-
 - [Hanula R et al. Evaluation of Oseltamivir Used to Prevent Hospitalization in Outpatients With Influenza: A Systematic Review and Meta-analysis. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2805976)
-- [CMIT. Grippe. Item 166. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-166-web.pdf)
+- [CMIT. Grippe. Item 166. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-166.pdf)
+- {{< references/calendrier-vaccinal >}}
+- Prescrire Redaction. Grippe saisonnière. Rev Prescrire. 2022.
+- [CNGOF. Grippe et grossesse. 2013. (PDF)](https://cngof.fr/app/pdf/R%C3%A9f%C3%A9rentiels//GRIPPE/2013_GRIPPE.pdf?x13417)
+- [SPILF. Prise en charge de la grippe en dehors d'une situation de pandémie en 2005. Médecine et Maladies Infectieuses. 2005.](https://www.sciencedirect.com/science/article/pii/S0399077X05002064)
 
 {{%/sources%}}

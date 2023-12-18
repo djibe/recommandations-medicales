@@ -6,24 +6,25 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-19T12:48:54+02:00"
 publishdate = "2022-05-22"
-lastmod = "2022-05-22"
-specialites = ["endocrinologie"]
+lastmod = "2023-12-18"
+specialites = ["allergologie", "hepato-gastro-enterologie"]
 annees = "2020"
 sources = ["Biblio"]
 tags = ["allergie", "cephalees", "fatigue"]
 anglais = ["Lactose intolerance", "intolerance to lactose"]
 sctid = "785696007"
 icd10 = "E73.9"
-image = false
-imageSrc = ""
+image = true
+imagePNG = true
+imageSrc = "Le lactose C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>. Benjah-bmm27, Public domain, via Wikimedia Commons"
 todo = "SEO 'test intolérance lactose remboursement', diarrhée chro, https://doi.org/10.1016/j.mmm.2020.10.008"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Prévalence européenne de l'intolérance au lactose: 28%
-- Symptômes typiques de l'intolérance au lactose: douleurs abdominales, diarrhées, flatulences  
-  Dans l'heure suivant l'ingestion (hypervariable possible)
+- Prévalence européenne de l'intolérance au lactose: 28 %
+- Symptômes typiques de l'intolérance au lactose, dans l'heure suivant l'ingestion: douleurs abdominales, diarrhées, flatulences (délai très variable possible)
 - Toujours évoquer devant une [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
 - Diagnostic de l'intolérance au lactose: amélioration franche après un test d'éviction du lactose pendant 2 semaines car test respiratoire à l'hydrogène non remboursé
 - Prise en charge: des apports de 12 à 18 g quotidiens de lactose semblent tolérés
@@ -129,6 +130,16 @@ Laits sans lactose et maintien d'apports en produits laitiers pour les apports e
 > Teneur < 1g/100g d'après la *[Table Ciqual de l'Anses](https://ciqual.anses.fr/)*
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de l'intolérance au lactose" "show" %}}
+
+{{< mermaid title="Prise en charge de l'intolérance au lactose par le médecin généraliste. Dr JB Fron d'après Bibliographie" >}}
+graph TB
+  suspicion["<b>Suspicion d'intolérance au lactose</b><br>—<br>- Diarrhées chroniques<br>- Dans l'heure post-prandiale:<br>douleurs abdominales,<br>diarrhées, flatulences"] --> éviction("Test d'éviction<br>2 semaines") -- Positif --> traitement("- Éviction globale<br>- Maintien possible 12-18 g<br>de lactose quotidien<br>- Produits sans lactose")
+    éviction -- Négatif --> différentiel(Autre diagnostic)
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [Catanzonaro R et al. Lactose intolerance: An update on its pathogenesis, diagnosis, and treatment. Nutrition Research. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0271531721000129)

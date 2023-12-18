@@ -341,7 +341,7 @@ Dans l'attente de la MAPA: observance, automesures avec appareil validé, revér
 - Auscultation cardiaque, palpation et auscultation des trajets artériels
 - Si possible: [mesure de l'IPS]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
 - Examen neurologique
-- +65 ans: dépistage cognitif par [MMSE (PDF)](http://www.sgca.fr/outils/mms.pdf) ou MoCA ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf))
+- +65 ans: dépistage cognitif par {{< scores/mmse >}} ou MoCA ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf))
 - Signes d'hypertension secondaire
   - Tâches café au lait
   - Contact lombaire

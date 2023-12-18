@@ -17,16 +17,17 @@ anglais = []
 sctid = ""
 icd10 = "Z027"
 image = true
-imageSrc = "Le certificat du sportif illustré par pikisuperstar / Freepik"
+imageSrc = "Le certificat de non contre-indication à la pratique du sport (CNCI). pikisuperstar / Freepik"
 chart = true
 todo = "rein unique, Bio > 35 ans, type 1A (sources 12-13), quel examen clinique, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/guide_aps_chapitre_6_la_consultation_medicale_ap.pdf, duree certif plongee, https://pubmed.ncbi.nlm.nih.gov/36256586/, https://www.fmfpro.org/est-ce-que-les-cnci-servent-vraiment-a-quelque-chose/"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
 *Version préliminaire*
 
-- Majeurs: certificat sportif valable 3 ans sauf exceptions (voir [Disciplines nécessitant un certificat](#disciplines-nécessitant-un-certificat-de-sport-annuel))
+- Majeurs: certificat sportif valable 3 ans sauf exceptions (voir *[Disciplines nécessitant un certificat](#disciplines-nécessitant-un-certificat-de-sport-annuel)*)
 - Mineurs: [questionnaire de santé](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486824) sauf exceptions (cf ci-dessus). Certificat médical requis uniquement si au moins 1 réponse positive.  
   Pour les parents: [simulateur de Service-public.fr](https://www.service-public.fr/simulateur/calcul/certificatMedical) pour savoir si un certificat est requis
 - Préciser l'accès aux compétitions le cas échéant
@@ -208,6 +209,15 @@ Informer sur les 10 règles d'or pour le sportif:
 {{< card-link-external title="Guide méthodologique Sport et Santé" url="https://www.mooc-sportsante.com/course/guide-methodologique/" subtitle="Par l'IRBMS">}}
 
 {{% /collapse %}}
+{{%collapse "Choix du bilan chez le sportif" "show" %}}
+
+{{< mermaid title="Prise en charge du dépistage cardiovasculaire du sportif par le médecin généraliste. Dr JB Fron d'après SFC 2022" >}}
+graph TB
+  suspicion["<b>Sportif de haut niveau<br>ou licencié ?</b>"] -- Oui --> ECG("<b>ECG</b><br>—<br>- 12-25 ans:<br>tous les 3 ans<br>- 25-35 ans: 1 ECG<br>si jamais eu") --> testEffort("<b>Test d'effort</b><br>—<br>Indications:<br>- Sédentaire (H +40 ans<br>ou F ménopausée)<br>reprenant activité intense<br>- Sportif symptomatique<br>- Sportif à risque<br>cardiovasculaire élevé") --> ETT("<b>ETT</b> chez l'adulte<br>de haut niveau")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [CCS, GERS-P. Position commune du Club des Cardiologues du Sport (CCS) et du Groupe Sport (GERS-P) de la Société Française de Cardiologie sur le bilan cardio-vasculaire recommandé pour la pratique sportive. 2022.](https://www.sfcardio.fr/publication/recommandations-sur-le-bilan-cardiovasculaire-recommande-pour-la-pratique-sportive)

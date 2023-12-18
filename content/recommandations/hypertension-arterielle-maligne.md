@@ -117,7 +117,7 @@ Appel du 15 pour bilan en urgence
 {.alert .alert-warning}
 
 {{% /collapse %}}
-{{%collapse "FMC gratuite" %}}
+{{%collapse "FMC gratuites" %}}
 
 {{< card-link-external title="Diagnosis and management of hypertensive emergencies" url="https://www.escardio.org/Education/E-Learning/Webinars/diagnosis-and-management-of-hypertensive-emergencies" subtitle="ESC Councils webinar">}}
 
