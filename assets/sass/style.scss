@@ -565,6 +565,7 @@ article {
   color: var(--text);
   letter-spacing: normal;
   line-height: 1.5rem;
+  text-wrap: pretty;
 }
 
 .lead {
@@ -830,6 +831,12 @@ article {
 
 .form-ripple::before {
   top: calc(60px - 2px);
+}
+
+.form-control:user-invalid {
+  border-color: #ba1a1a;
+  box-shadow: inset 0 -2px 0 -1px #ba1a1a;
+  color: #ba1a1a;
 }
 
 .projet {
