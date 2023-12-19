@@ -159,3 +159,5 @@ Sources citées en regard des sections.
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Suivi médical pédiatrique. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/suivi-medical-pediatrique)
 
 {{%/sources%}}
+
+{{< card-link-external title="MOOC Repérer et prendre en charge les mineurs en danger" url="https://www.maformationmedicale.fr/landing/enfants-et-adolescents-en-danger-reperage-et-prise-en-charge-par-les-professionnels-en-sante" >}}

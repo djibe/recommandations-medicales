@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Mustapha DAHLAB", "Jean-Baptiste FRON"]
 date = "2023-10-02T09:57:41+02:00"
 publishdate = "2023-10-03"
-lastmod = "2023-10-19"
+lastmod = "2023-12-19"
 specialites = ["ophtalmologie"]
 annees = "2022"
 sources = ["HAS"]
@@ -18,7 +18,8 @@ sctid = "267718000"
 icd10 = "H35.3"
 image = true
 imageSrc = "DMLA intermédiaire avec nombreux drusens de tailles variables au fond d'œil.National Eye Institute of the NIH, Public domain, via Wikimedia Commons"
-todo = "flowchart, doses cplts"
+todo = "doses cplts"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -78,6 +79,8 @@ Dépistage régulier des personnes de **plus de 50 ans avec facteur de risque de
 
 {{< clinique/dmla-fdr >}}
 
+Rythme de surveillance des personnes à risque de DMLA:
+
 1. Utiliser à domicile la [grille d'Amsler (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/grille_damsler.pdf) ou une application mobile pour tester la vision monoculaire
 2. Examen ophtalmologique tous les 1-2 ans
 
@@ -116,7 +119,9 @@ Une baisse d'acuité visuelle chez un patient avec des drusens connus (maculopat
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Le bilan d'une suspicion de dégénérescence maculaire liée à l'âge est spécialisé. L'ophtalmologue réalise les tests essentiels (fond d'œil, tomographie en cohérence optique OCT et angiographie à la fluorescéine du fond d'œil ou OCT-Angiographie).
+Le bilan d'une suspicion de dégénérescence maculaire liée à l'âge est spécialisé.
+
+L'ophtalmologue réalise les tests essentiels (**fond d'œil**, **tomographie en cohérence optique** OCT et **angiographie à la fluorescéine** du fond d'œil ou OCT-Angiographie).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la DMLA" %}}
@@ -167,6 +172,18 @@ Informations à expliquer au patient sur la dégénérescence maculaire liée à
 Article lié: [les services d'urgences ophtalmologiques]({{< relref "urgences-ophtalmologiques.md" >}})
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la DMLA" "show" %}}
+
+{{< mermaid title="Prise en charge de la suspicion dégénérescence maculaire liée à l'âge (DMLA) par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après HAS 2022" >}}
+graph TB
+  risque["<b>Facteurs de risque de DMLA</b><br>—<br>Après 50 ans:<br>- Antécédents familiaux<br>- Tabagisme<br>- Régime déséquilibré<br>- Obésité"] --> dépistage("- Dépistage régulier<br>par la <b>grille d'Amsler</b><br>- Correction du risque<br>cardiovasculaire") -- Négatif --> ophtalmologue("Suivi ophtalmologique<br>régulier tous<br>les 1-2 ans") --> dépistage
+    dépistage -- Positif ou<br>douteux --> urgent("Examen ophtalmologique<br>semi-urgent")
+  suspicion["<b>Suspicion de DMLA</b><br>—<br>- Baisse d'acuité visuelle<br>- Métamorphopsies<br>- Scotome"] -- "Dans la semaine<br>(sous 48h si suivi)" --> urgent
+  style risque stroke:#4150f5, stroke-width:1px
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [Evans JR, Lawrenson JG. Antioxidant vitamin and mineral supplements for slowing the progression of age‐related macular degeneration. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000254.pub5/full/fr)

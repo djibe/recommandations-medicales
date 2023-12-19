@@ -18,6 +18,7 @@ icd10 = "E10"
 image = true
 imageSrc = "Illustration du diabète type 1 par macrovector / Freepik"
 todo = "A REPRENDRE +++, EASD 2021 Fig 1 | Table 5, SFD capteur, glucagon, ADA 2023 p.8+, hypoglycémie Gold and Clarke questionnaires showing a score equal or above 4 are indicative of IAH (100, 103)"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -46,8 +47,9 @@ Diabète de type 1
 
 ### Quels anticorps pour le diagnostic de diabète type 1 ?
 
-En cas de suspicion de diabète de type 1, les **anticorps anti-GAD** (Glutamic Acid Decarboxylase) doivent être dosés.  
-S'ils sont négatifs, rechercher les anticorps anti-IA2 (islet tyrosine phosphatase 2) et/ou anti-ZNT8 (Zinc transporter 8).
+En cas de suspicion de diabète de type 1: **anticorps anti-GAD** (Glutamic Acid Decarboxylase).
+
+S'ils sont négatifs, rechercher les *anticorps anti-IA2* (islet tyrosine phosphatase 2) et/ou anti-ZNT8 (Zinc transporter 8).
 
 > *ADA/EASD 2021*
 
@@ -278,6 +280,17 @@ Temporaire avant avis ophtalmologique: rétinopathie diabétique proliférante o
 ### Conduite automobile
 
 Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heures (+ adaptations nationales).
+
+{{%/collapse%}}
+{{%collapse "Prise en charge du diabète type 1" "show" %}}
+
+{{< mermaid title="Prise en charge de la suspicion de diabète de type 1 par le médecin généraliste. Dr JB Fron d'après ADA/EASD 2021" >}}
+graph TB
+  suspicion["<b>Suspicion de<br>diabète de type 1</b><br>—<br>- Fatigue<br>- Perte de poids<br>- Soif, polyuro-polydipsie"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Ancienneté des troubles<br>- Constantes<br>- Glycémie capillaire<br>- Bandelette urinaire<br>—<br>En faveur du DT1:<br>- Âge &lt; 35 ans<br>- IMC &lt; 25<br>- Amaigrissement involontaire<br>- Acidocétose<br>- Glycémie &gt; 3,6 g/L") -- "Acétonurie<br>" --> urgences(Urgences)
+    clinique --> endocrinologue
+    clinique -- "Doute diagnostique<br>ou autres arguments<br>sans mesure disponible" --> bilan("Glycémie") --> endocrinologue("Appel de l'endocrinologue<br>hospitalier")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 
 {{%/collapse%}}
 {{%sources%}}

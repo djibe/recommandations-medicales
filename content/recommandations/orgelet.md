@@ -24,6 +24,7 @@ flowchart = true
 - L'orgelet est un furoncle du bord libre de la paupière
 - Le diagnostic d'orgelet est clinique
 - La prise en charge de l'orgelet consiste en un traitement antibiotique local pendant 8 jours
+- Ne pas porter de lentilles de contact pendant toute la durée du traitement
 
 Chapitre lié: [chalazion]({{< relref "chalazion.md" >}})
 
@@ -63,9 +64,10 @@ Prise en charge de l'orgelet par un collyre ou une pommade antibiotique **pendan
 
 ## Prise en charge de l'orgelet {.mt-5}
 
-{{< mermaid title="Prise en charge de l'orgelet par le médecin généraliste. Dr JB Fron d'après COUF 2021" >}}
+{{< mermaid title="Prise en charge de l'orgelet par le médecin généraliste. Drs JB Fron et Alaedine Benani d'après COUF 2021" >}}
 graph TB
-  orgelet["<b>Orgelet</b><br>—<br>Furoncle du bord libre<br>de la paupière"] --> collyre("- Collyre antibiotique 8 jours<br>adapté à l'âge, sauf grossesse<br>- Pas de lentilles") -. Échec .-> ophtalmologue(Ophtalmologue)
+  orgelet["<b>Orgelet</b><br>—<br>Furoncle du bord libre<br>de la paupière"] --> collyre("- Collyre antibiotique 8 jours<br>adapté à l'âge, sauf grossesse<br>- Pas de lentilles de contact") -. Échec .-> ophtalmologue(Ophtalmologue)
+    collyre -. Récidives fréquentes .-> diabète("Rechercher<br>un diabète")
   style orgelet stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

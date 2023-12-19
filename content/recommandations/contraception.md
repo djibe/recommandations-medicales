@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2023-12-18"
+lastmod = "2023-12-19"
 specialites = ["gynecologie-obstetrique", "urologie"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -674,6 +674,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+- [ANSM. Progestatifs et risque de méningiome : recommandations pour limiter ce risque. 18/12/2023.](https://ansm.sante.fr/actualites/progestatifs-et-risque-de-meningiome-recommandations-pour-limiter-ce-risque)
 - [ANSM. Les stérilets contenant le plus d’hormone présenteraient davantage de risque de troubles dépressifs. 14/02/2023.](https://ansm.sante.fr/actualites/les-sterilets-contenant-le-plus-dhormone-presenteraient-davantage-de-risque-de-troubles-depressifs)
 - [Ameli Médecin. Le point sur les préservatifs pris en charge sans prescription pour les moins de 26 ans. 03/01/2023.](https://www.ameli.fr/medecin/actualites/le-point-sur-les-preservatifs-pris-en-charge-sans-prescription-pour-les-moins-de-26-ans)
 - [Collège Français des Enseignants en Urologie (CFEU). Contraception. Item 36. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-36-Contraception-.pdf)

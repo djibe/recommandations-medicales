@@ -7,7 +7,7 @@ synonyms = ["Cancer broncho-pulmonaire", "tumeur pulmonaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T17:35:52+02:00"
 publishdate = "2022-05-12"
-lastmod = "2023-11-28"
+lastmod = "2023-12-18"
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["HAS", "SPLF", "ERS"]
@@ -212,7 +212,7 @@ Votre médecin est à votre disposition pour discuter de tous ces éléments.
 
 ### Pour en savoir plus: le dépistage du cancer du poumon aux États-Unis d'Amérique
 
-*Medicare* rembourse le scanner faible dose pour les personnes de 55-77 ans avec au moins 30 paquets-années (tabagisme actif ou arrêté depuis < 15 ans).
+L'*ACS* recommande le dépistage chez les sujets éligibles de 50 à 80 ans avec au moins 20 paquets-année par scanner faible dose annuel.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
@@ -247,6 +247,7 @@ graph TB
 
 {{< video mp4="https://docs.splf.fr/videos/ATS/mission-ats-2022/ATS-Dr-Marjolaine-Georges.mp4" description="Le tabac c'est tabou! sous toutes ses formes! et à tous les stades de cancer! (SPLF)" >}}
 
+- [Wolf AMD et al. Screening for lung cancer: 2023 guideline update from the American Cancer Society. CA Cancer J Clin. 2023.](https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21811)
 - [Collège des Enseignants de Pneumologie (CEP). Tumeurs du Poumon, primitives et secondaires. Item 309. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_309_CANCER_2023.pdf)
 - [HAS. Dépistage du cancer bronchopulmonaire par scanner thoracique faible dose sans injection : actualisation de l'avis de 2016. 2022.](https://www.has-sante.fr/jcms/p_3310940/fr/depistage-du-cancer-bronchopulmonaire-par-scanner-thoracique-faible-dose-sans-injection-actualisation-de-l-avis-de-2016)
 - [Couraud S et al; SPLF. Recommandations de l'Intergroupe francophone de cancérologie thoracique, de la Société de pneumologie de langue française, et de la Société d'imagerie thoracique sur le dépistage du cancer bronchopulmonaire par tomodensitométrie à faible dose d'irradiation. Rev Mal Resp. 2021.](https://www.sciencedirect.com/science/article/pii/S0761842521000437)

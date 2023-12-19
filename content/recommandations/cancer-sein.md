@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
 publishdate = "2021-11-03"
-lastmod = "2023-12-04"
+lastmod = "2023-12-18"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["INCa", "HAS", "ACOG"]
@@ -18,6 +18,7 @@ icd10 = "C50.9"
 image = true
 imageSrc = "Le cancer du sein, illustration par Freepik"
 todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -123,7 +124,7 @@ RCP
 
 Dépistages recommandés du cancer du sein chez les femmes à haut risque selon *HAS 2019* (repris par *INCa 2022*). Le dépistage généralisé est aussi recommandé par la *Commission Européenne* 2022 (de 45 à 74 ans).
 
-### Absence de facteur de risque élevé de cancer du sein
+### Risque moyen
 
 Femme asymptomatique de 50 à 74 ans (sans facteur ci-dessous).
 
@@ -294,7 +295,7 @@ Les mammographies sont remboursées à 100% (les examens supplémentaires ne le 
 {{% /collapse %}}
 {{%collapse "Prise en charge rapide d'anomalies du sein" %}}
 
-[Tous les établissements de France pour le cancer du sein](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie)
+[Annuaire des établissements de France pour le cancer du sein](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie)
 
 ### En Île-de-France
 
@@ -384,25 +385,38 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 - En silicone *modèle technique* (adhérente ou non) après 4 mois (14 mois si adhérente). Si symptômes (problème de cicatrisation, risque de lymphœdème, douleurs, bouffées de chaleur) ou meilleure convenance (remb. 240€)
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du cancer du sein" "show" %}}
+
+{{< mermaid title="Prise en charge du cancer du sein par le médecin généraliste. Dr JB Fron d'après INCa, HAS et ACOG" >}}
+graph TB
+  moyen["<b>Risque moyen</b><br>—<br>Non à risque élevé:<br>- Palpation annuelle par<br>un médecin dès 25 ans<br>- 50-74 ans: mammographies<br>tous les 2 ans"] -- Normale --> prévention("<b>Prévention</b><br>—<br>- Réduction alcool,<br>tabac, surpoids<br>- Activité physique")
+    moyen -. Anomalie .-> échographie("Échographie<br>+ mammographie") -- Semi-urgent --> gynécologue(Gynécologue en CLCC)
+  élevé["<b>Risque élevé</b><br>—<br>- Antécédent de cancer du sein<br>ou carcinome canalaire in situ<br>- Radiothérapie haute dose<br>- Hyperplasie canalaire<br>ou lobulaire atypique<br>ou carcinome lobulaire in situ<br>- Eisinger ≥ 3 et risque<br>élevé selon l'oncogénéticien<br>pour les proches au 1er degré"] --> spécifique(Suivi spécifique) -. Anomalie .-> gynécologue
+  trèsElevé["<b>Risque très élevé</b><br>—<br>- BRAC1 ou 2 ou apparenté<br>au 1er degré<br>ou nièce par frère<br>- Eisinger ≥ 3 et<br>risque très élevé"] --> suivi("- Oncogénétique<br>- Palpation tous les 6<br>mois dès 20 ans<br>- Mammographies<br>- Et IRM annuelles<br>dès 30 ans<br>± Échographie") -. Anomalie .-> gynécologue
+  style moyen stroke:#4150f5, stroke-width:1px
+  style élevé stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
-{{< youtube id="QXlT9651svA" title="Palpation des seins (Dr Jean-Philippe Harlicot)" >}}
+{{< card-link-external title="Vidéo de la palpation des seins" url="https://www.youtube.com/watch?v=QXlT9651svA" subtitle="par le Dr Jean-Philippe Harlicot" >}}
 
 - [Lavoué V et al. Recommandations pour la pratique clinique du CNGOF. Place de l'auto-examen des seins dans les stratégies de dépistage [Place of breast self-examination in screening strategies. French College of Gynecologists and Obstetricians (CNGOF) recommendations for clinical practice]. Gynecol Obstet Fertil Senol. 2023. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2023/RPC-Place%20de%20l'auto-examen%20des%20seins%20dans%20les%20strat%C3%A9gies%20de%20d%C3%A9pistage.pdf)
-- [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. Septembre 2022.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
+- [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. 2022.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Santé Publique France. Dépistage du cancer du sein : quelle participation des femmes en 2021 ? 2022.](https://www.santepubliquefrance.fr/les-actualites/2022/depistage-du-cancer-du-sein-quelle-participation-des-femmes-en-2021)
-- [INCa. Les cancers du sein en 10 points clés. Juin 2020. (PDF)](https://www.e-cancer.fr/content/download/292195/4161509/file/Cancers_du_sein_en_10_points_cles_mel_20200702.pdf)
+- [INCa. Les cancers du sein en 10 points clés. 2020. (PDF)](https://www.e-cancer.fr/content/download/292195/4161509/file/Cancers_du_sein_en_10_points_cles_mel_20200702.pdf)
 - [ACOG. Tamoxifen and Uterine Cancer. 2014. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/tamoxifen-and-uterine-cancer)
 - [HAS. Cancer du sein : modalités spécifiques de dépistage pour les femmes à haut risque. 2019.](https://www.has-sante.fr/jcms/pprd_2974673/fr/cancer-du-sein-modalites-specifiques-de-depistage-pour-les-femmes-a-haut-risque)
 - [INCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
 - [INCa. Prothèses mammaires et risque de cancer. Avril 2019.](https://www.e-cancer.fr/Comprendre-prevenir-depister/Reduire-les-risques-de-cancer/Protheses-mammaires)
-- [INCa. Cancer du sein - Quelles modalités de dépistage, pour quelles femmes ? Janvier 2018.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-du-sein-Quelles-modalites-de-depistage-pour-quelles-femmes)
 - [CNGOF. Cancers du sein : les patientes dans la tourmente. 2017. (PDF)](https://cngof.fr/app/uploads/2023/06/K-SEIN-2017_compressed_1pdf.io_.pdf?x53169)
 - [HAS. Dépistage et prévention du cancer du sein. Février 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
 
 ### Bibliographie en attente
 
+- [INCa. Cancer du sein : du diagnostic au suivi. 2016. (PDF)](https://www.e-cancer.fr/content/download/164989/2115178/file/Cancer-du-sein-Du-diagnostic-au-suivi-20161129.pdf)
 - [Sessa C et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
 - [ESMO. Metastatic Breast Cancer Living Guidelines​](https://www.esmo.org/living-guidelines/esmo-metastatic-breast-cancer-living-guidelines)
 - [INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. Octobre 2021.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)

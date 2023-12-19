@@ -519,10 +519,10 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 {{% /collapse %}}
 {{%collapse "Prise en charge des apnées du sommeil" "show" %}}
 
-{{< mermaid title="Prise en charge de la suspicion de syndrome d'apnées du sommeil par le médecin généraliste. Dr JB Fron d'après SFRMS et AASM" >}}
+{{< mermaid title="Prise en charge de la suspicion de syndrome d'apnées du sommeil par le médecin généraliste. Drs Alaedine Benanie et JB Fron d'après SFRMS et AASM" >}}
 graph TB
-  dépistage["<b>Dépistage systématique</b><br>—<br>- Obésité grade 2+<br>- Diabète<br>- Maladie cardiovasculaire<br>- Chauffeur professionnel<br>- Chirurgie bariatrique"] --> spécialiste("Médecin du sommeil,<br>pneumologue ou ORL")
-  suspicion["<b>Suspicion d'apnées du sommeil</b><br>—<br>- Sommeil non réparateur<br>- Somnolence diurne<br>- Fatigue<br>- Ronflements<br>- Reflux nocturne<br>- Nycturie"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements<br>- Symptômes<br>- Examen clinique") --> spécialiste
+  dépistage["<b>Dépistage systématique</b><br>—<br>- Obésité grade 2+<br>- Diabète<br>- Maladie cardiovasculaire<br>- Chauffeur professionnel<br>- Chirurgie bariatrique"] --> spécialiste("Médecin du sommeil,<br>pneumologue ou ORL") -- SAHOS confirmé --> traitement("Mesures hygiéno-diététiques, OAM ou PPC")
+  suspicion["<b>Suspicion d'apnées du sommeil</b><br>—<br>- Sommeil non réparateur<br>- Somnolence diurne<br>- Fatigue<br>- Ronflements<br>- Reflux nocturne<br>- Nycturie"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements<br>- Symptômes<br>- Examen clinique<br>- Questionnaire STOP-BANG<br>ou autre") --> spécialiste
   style dépistage stroke:#4150f5, stroke-width:1px
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}

@@ -7,7 +7,7 @@ synonyms = ["Hyperplasie bénigne de la prostate", "prostatisme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-04T10:52:08+02:00"
 publishdate = "2023-02-16"
-lastmod = "2023-10-19"
+lastmod = "2023-12-19"
 specialites = ["urologie"]
 annees = "2023"
 sources = ["EAU", "AFU"]
@@ -27,7 +27,7 @@ flowchart = true
 - Le diagnostic d'HBP est clinique avec des symptômes du bas appareil urinaire (SBAU) et un toucher rectal obligatoire
 - Rechercher des troubles de la libido, une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) ou de l'éjaculation
 - Nycturie: [agenda mictionnel (PDF)](https://www.urofrance.org/fileadmin/medias/scores/catalogue-mictionnel.pdf) sur 3 jours, recherche d'{{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} et avis urologique
-- Bilan initial de l'hypertrophie de la prostate: {{< modal-btn modal-ipss >}}score IPSS{{< /modal-btn >}}, ECBU et mesure du résidu post-mictionnel (*EAU*) voire PSA, créatininémie et échographie
+- Bilan initial de l'hypertrophie de la prostate: {{< modal-btn modal-ipss >}}score IPSS{{< /modal-btn >}}, ECBU et échographie réno-vésico-prostatique avec mesure du résidu post-mictionnel (*EAU*) voire PSA et créatininémie
 - Prise en charge de l'hypertrophie prostatique: mesures hygiéno-diététiques et selon l'intensité des symptômes: abstention, alpha-bloquant ou autres
 - Suivi de l'HBP: {{< modal-btn modal-ipss >}}symptômes urinaires{{< /modal-btn >}} et {{< modal-btn modal-iief5 >}}sexuels{{< /modal-btn >}}, tolérance et efficacité des traitements
 - Avis urologique si: toucher rectal non fait, symptômes atypiques, examen ou ECBU anormal, échec du traitement, complication ...
@@ -80,6 +80,19 @@ TR
 {.dl-inline}
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+### Diagnostic différentiel des symptômes urinaires de l'homme
+
+{{< table title="Diagnostic différentiel de l'hypertrophie bénigne de la prostate selon le Collège Français des Enseignants en Urologie (CFEU) 2021" class="table-wrap" >}}
+| Syndrome                           | Diagnostic différentiel |
+|------------------------------------|-------------------------|
+| Nycturie prédominante<br>ou isolée | Polyurie nocturne (diurétiques, modification du rythme nycthéméral, [SAOS]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})), polyurie des 24 heures ([diabète](/tags/diabete/), potomanie) et troubles du sommeil. Agenda mictionnel |
+| Phase de remplissage               | Tumeur de vessie, vessie neurologique centrale, prostatite, calcul ou corps étranger vésical |
+| Mictionnels ou post-mictionnels    | [Cancer de la prostate]({{< relref "cancer-prostate.md" >}}), sténose de l'urètre, maladie du col vésical, hypotonie détrusorienne (+80 ans ou RPM > 300 mL) |
+{{< /table >}}
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 Le diagnostic d'hypertrophie bénigne de prostate est clinique.
@@ -90,11 +103,11 @@ Le diagnostic d'hypertrophie bénigne de prostate est clinique.
 ### Interrogatoire
 
 - Antécédents médicaux  
-  Neurologiques, [diabète](/tags/diabete/), chirurgicaux, urinaires (infection, hématurie), radiothérapie pelvienne.
+  Neurologiques, cardiovasculaires, [diabète](/tags/diabete/), chirurgicaux, urinaires (infection, hématurie), radiothérapie pelvienne.
 - Traitements en cours
 - Tabagisme
 - Recherche de complications  
-  Rétention aiguë d'urines, [infection urinaire récidivante]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), hématurie macroscopique, diverticule vésical symptomatique, lithiase vésicale.
+  Rétention aiguë d'urines, [infections urinaires récidivantes]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), hématurie macroscopique, diverticule vésical symptomatique, lithiase vésicale, douleurs pelviennes.
 - Terminologie des symptômes du bas appareil selon l'*International Continence Society* (ICS):
   - Phase de remplissage  
     Pollakiurie diurne et nocturne, urgenturie (impériosité mictionnelle), nycturie, incontinence urinaire.
@@ -118,23 +131,13 @@ Le diagnostic d'hypertrophie bénigne de prostate est clinique.
 - Poids, taille, IMC
 - Déficit des membres inférieurs
 - Aspect des pénis, méat et bourses  
-  Recherche: [écoulement urétral]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}), sténose du méat, [phimosis]({{< relref "phimosis.md" >}}), cancer du pénis.
+  Recherche: [écoulement urétral]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}), sténose du méat, [phimosis]({{< relref "phimosis.md" >}}), anomalie des organes génitaux externes, cancer du pénis.
 - Globe vésical
 - Toucher rectal: prostate volumineuse (> 20mL), ferme, indolore, lisse, régulière avec disparition du sillon médian.  
   **Avis urologique** si non fait.
 - Bandelette urinaire
 
 > Absence de relation entre la sévérité des troubles et le volume prostatique
-
-### Le diagnostic différentiel dépend du syndrome clinique
-
-{{< table title="Diagnostic différentiel de l'hypertrophie bénigne de la prostate selon le Collège Français des Enseignants en Urologie (CFEU) 2021" class="table-wrap" >}}
-| Syndrome                           | Diagnostic différentiel |
-|------------------------------------|-------------------------|
-| Nycturie prédominante<br>ou isolée | Polyurie nocturne (diurétiques, modification du rythme nycthéméral, [SAOS]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})), polyurie des 24 heures ([diabète](/tags/diabete/), potomanie) et troubles du sommeil. Agenda mictionnel |
-| Phase de remplissage               | Tumeur de vessie, vessie neurologique centrale, prostatite, calcul ou corps étranger vésical |
-| Mictionnels ou post-mictionnels    | [Cancer de la prostate]({{< relref "cancer-prostate.md" >}}), sténose de l'urètre, maladie du col vésical, hypotonie détrusorienne (+80 ans ou RPM > 300 mL) |
-{{< /table >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -146,12 +149,11 @@ Bilan d'hypertrophie bénigne de prostate (HBP) de première intention:
 - Mesure du résidu post-mictionnel (RPM)  
   Quantification par échographie ou Bladder scan. Positif si > 50 mL.
 - ± PSA (si traitement envisageable)
-- ± Créatininémie avec DFG CKD-EPI (si facteurs de risque)
-- ± Échographie réno-vésico-prostatique  
-  Indications: volumineux résidu post-mictionnel, hématurie ou antécédents de lithiase urinaire.
+- ± Créatininémie et DFG CKD-EPI (si facteurs de risque)
+- Échographie réno-vésico-prostatique  
 - RPM > 150 mL: débitmétrie urinaire (*EAU 2022*)
 
-> Bilan de l'HBP selon *EAU 2022* et *AFU 2015*
+> Bilan de l'HBP selon *EAU 2023* et *AFU 2023 et 2015*
 
 Le bilan urodynamique et les autres examens sont réservés à l'urologue.
 
@@ -161,17 +163,20 @@ Le bilan urodynamique et les autres examens sont réservés à l'urologue.
 ### Indications à une réévaluation de l'HBP par l'urologue
 
 - Symptômes atypiques  
-  Urgenturie ou nycturie isolée, incontinence urinaire, maladie neurologique, sténose urétrale connue.
+  Urgenturie ou nycturie isolée, incontinence urinaire, hématurie, infections urinaires récidivantes, douleurs pelviennes, anomalie des organes génitaux externes, maladie neurologique, sténose urétrale connue.
+- Symptômes de remplissage  
+  Pollakiurie diurne et nocturne, urgenturie (impériosité mictionnelle), nycturie, incontinence urinaire. Demander un catalogue mictionnel.
 - Examen clinique anormal  
   Globe vésical, **toucher rectal non réalisable** ou avec nodule ou induration, [phimosis serré]({{< relref "phimosis.md" >}}).
-- ECBU anormal
+- BU ou ECBU anormal persistant
+- Anomalie de la créatininémie, du PSA ou de l'échographie
 - Échec du traitement médical
 - Avant traitement anticholinergique
 - Augmentation du PSA sous inhibiteur de la 5-alpha-réductase
 - Obstruction sévère ou complication  
   Symptômes sévères, rétention aiguë d'urines, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [prostatite aiguë]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), calcul ou diverticule de la vessie, résidu post-mictionnel > 100 mL.
 
-> *AFU 2015*
+> *AFU 2023* et *2015*
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hypertrophie bénigne de prostate HBP" %}}
@@ -314,20 +319,21 @@ Avis urologique en cas de d'échec des traitements, de symptômes anormaux (hém
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'HBP" "show" %}}
 
-{{< mermaid title="Prise en charge de l'hypertrophie bénigne de la prostate (HBP). Dr JB Fron d'après EAU 2022 et AFU 2015" >}}
+{{< mermaid title="Prise en charge de l'hypertrophie bénigne de la prostate (HBP). Dr JB Fron d'après EAU 2023 et AFU 2023" >}}
 graph TB
-accTitle: Prise en charge de l'hypertrophie bénigne de la prostate (HBP) d'après EAU 2022 et AFU 2015
+accTitle: Prise en charge de l'hypertrophie bénigne de la prostate (HBP) d'après EAU 2023 et AFU 2023
   SBAU[Symptômes du bas<br>appareil urinaire chez le +40 ans] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Symptômes<br>- Phase mictionnelle<br>- Score IPSS<br>- Dysfonction érectile<br>- Examen clinique") --> examens("<b>Examens</b><br>—<br>- ECBU<br>- Résidu post-mictionnel<br>± échographie<br>- ± PSA<br>- ± Créatininémie") --> criteres("≥ 1 parmi:<br>- Toucher rectal non fait<br>- Symptômes atypiques<br>- Anomalie clinico-biologique<br>- PSA augmenté<br>- Complication")
   style SBAU stroke:#4150f5, stroke-width:1px
     criteres -- Non --> rhd(Mesures hygiéno-diététiques<br><br>Symptômes gênants ?) -- Non --> abstention(Abstention-surveillance)
       rhd -- Oui --> traitement("- Phytothérapie<br>- Alpha-bloquant<br>- Prostate +40mL: I5AR<br>- DE: IPDE5<br>voire bithérapie") -. Échec .-> uro
-    criteres -- Oui --> uro(Avis urologique)
+    criteres -- Oui --> uro(Urologue)
 {{< /mermaid >}}
 
 > **DE =** dysfonction érectile
 {{%/collapse%}}
 {{%sources%}}
 
+- [AFU. Bilans pré-thérapeutiques des troubles mictionnels de l'homme adulte - Label HAS. Recommander les bonnes pratiques. 2023.](https://www.has-sante.fr/jcms/p_3323646/fr/label-bilans-pre-therapeutiques-des-troubles-mictionnels-de-l-homme-adulte-modalites-et-acteurs)
 - [Cornu JN et al. EAU guidelines on management of non-neurogenic male lower urinary tract symptoms (LUTS), incl. benign prostatic obstruction (BPO). 2023.](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts)
 - Prescrire Redaction. Hypertrophie bénigne de la prostate. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Franco JVA et al. Serenoa repens for the treatment of lower urinary tract symptoms due to benign prostatic enlargement. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001423.pub4/full/fr)
