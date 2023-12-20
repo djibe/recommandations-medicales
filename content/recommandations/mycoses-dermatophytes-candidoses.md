@@ -309,7 +309,7 @@ Le prélèvement vaginal est dispensable pour un épisode aigu ambulatoire d'év
 
 - Inspection vulvaire
 - <mark>Fluconazole 150 mg cp dose unique</mark> ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67860651&typedoc=R), [interactions](https://www.drugs.com/interaction/list/?drug_list=1096-0))
-- ou clotrimazole 500 mg caps vaginale (Mycohydralin® NR) dose unique ([molécule de référence pendant la grossesse](https://le-crat.fr/spip.php?page=article&id_article=929))  
+- ou clotrimazole 500 mg caps vaginale (Mycohydralin® NR) dose unique ([molécule de référence pendant la grossesse](http://www.lecrat.fr/10189/))  
   Pendant la **grossesse**, renouveler le traitement jusqu'à 6 fois si besoin.
 - Alternatives
   - Clotrimazole 200 mg cp vaginal (Mycohydralin® NR) pendant 3 nuits

@@ -7,8 +7,8 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-16T13:47:19+01:00"
 publishdate = "2021-11-18"
-lastmod = "2023-12-07"
-specialites = ["therapeutique"]
+lastmod = "2023-12-19"
+specialites = ["psychiatrie", "therapeutique"]
 annees = "2015"
 sources = ["HAS"]
 tags = ["chute", "demence", "prevention"]
@@ -18,6 +18,7 @@ icd10 = ""
 image = false
 imageSrc = ""
 todo = "grille arrêt"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -194,9 +195,9 @@ Bien entendu je me tiens à votre disposition pour répondre à toutes vos quest
 
 Dr ...
 
-> *HAS 2015*
+> – *HAS 2015*
 
-L'essai EMPOWER a démontré l'effet de l'intervention brève sur l'arrêt à 6 mois: 77% de sevrage versus 5% dans le groupe contrôle.
+L'essai EMPOWER a démontré l'effet de l'intervention brève sur l'arrêt à 6 mois: 77 % de sevrage versus 5 % dans le groupe contrôle.
 {.alert .alert-info}
 
 ### Calendrier de suivi de l'arrêt des benzodiazépines
@@ -204,6 +205,16 @@ L'essai EMPOWER a démontré l'effet de l'intervention brève sur l'arrêt à 6 
 [Calendrier de suivi de l'arrêt des benzodiazépines (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_calendrier_de_suivi.pdf)
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du sevrage des benzodiazépines" "show" %}}
+
+{{< mermaid title="Prise en charge du suivi et du sevrage des benzodiazépines par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après HAS 2015" >}}
+graph TB
+  BZD["<b>Traitement &gt; 30 jours<br>par benzodiazépine</b>"] --> clinique("réévaluation clinique<br>et diagnostique") --> intervention("Intervention brève") -- "Réduction<br>choisie" --> sevrage
+    clinique -- Réfractaire --> consultation("- Répéter à la prochaine<br>consultation<br>- Intervention brève<br>écrite") --> clinique
+  style BZD stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [AddictoVigilance. Mésusage et abus des benzodiazépines et apparentés : où en est-on ?. 2023. (PDF)](https://addictovigilance.fr/wp-content/uploads/2023/06/Bulletin-benzodiazepines-n%C2%B020-juin-2023-VF-1-1.pdf)

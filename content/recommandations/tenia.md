@@ -92,7 +92,7 @@ La prise en charge des ténias associe:
 - Lavage des mains régulier
 - Couper les ongles courts et les brosser
 - Changer et laver le linge de nuit à 60°C
-- Antiparasitaire: [praziquantel](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60996403&typedoc=R) 10 mg/kg (Biltricide® hors AMM) en 1 prise (y compris pendant la grossesse, [CRAT](http://www.le-crat.fr/articleSearchSaisie.php?recherche=praziquantel))
+- Antiparasitaire: [praziquantel](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60996403&typedoc=R) 10 mg/kg (Biltricide® hors AMM) en 1 prise (y compris pendant la grossesse, [CRAT](http://www.lecrat.fr/10527/))
 - Contrôle parasitaire 3 mois après le traitement
 
 En cas d'autres parasitoses digestives associées: albendazole à 400 mg/j pendant 3 jours avec nouveau cycle de traitement à 2 ou 3 semaines.

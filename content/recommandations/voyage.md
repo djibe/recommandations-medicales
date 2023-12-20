@@ -121,7 +121,7 @@ du séjour, la destination précise ou les activités qui y seront pratiquées
 
 Les vaccins vivants sont contre-indiqués: rougeole/ROR, [varicelle]({{< relref "varicelle.md" >}}), [BCG]({{< relref "tuberculose.md" >}}).
 
-Le vaccin fièvre jaune est possible quelque soit le terme ([CRAT](https://le-crat.fr/articleSearchSaisie.php?recherche=stamaril)).
+Le vaccin fièvre jaune est possible quelque soit le terme ([CRAT](http://www.lecrat.fr/9431/)).
 
 {{% /collapse %}}
 {{%collapse "Mesures de protection à appliquer" %}}

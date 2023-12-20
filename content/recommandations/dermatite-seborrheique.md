@@ -133,13 +133,13 @@ OU [kétoconazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDo
 {.alert .alert-info}
 
 **Effets indésirables:** prurit, sensation de brûlure, xérose cutanée, interactions médicamenteuses.  
-Seul le kétoconazole topique peut être utilisé [pendant la grossesse](https://le-crat.fr/spip.php?page=article&id_article=494).
+Seul le kétoconazole topique p²eut être utilisé [pendant la grossesse](http://www.lecrat.fr/7564/).
 
 Autres produits: gluconate de lithium 8% (Lithioderm®), climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine (ex: *DOP antipelliculaire*), pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
 
 ### Terrains particuliers
 
-- Grossesse: kétoconazole uniquement ([CRAT](https://le-crat.fr/spip.php?page=article&id_article=494))
+- Grossesse: kétoconazole uniquement ([CRAT](http://www.lecrat.fr/7564/))
 - Forme très inflammatoire: les dermocorticoïdes d'activité modérée (faible sur visage) sont limités à quelques jours avec relais par un traitement d'attaque.
 - Forme sévère et résistante: avis dermatologique
 - Érythrodermie de Leiner-Moussous: kétoconazole topique

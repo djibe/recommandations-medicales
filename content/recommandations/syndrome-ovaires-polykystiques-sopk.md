@@ -245,7 +245,7 @@ Les anti-androgènes sont indiqués pour la prise en charge de l'[hirsutisme]({{
 - Si [contraception œstroprogestative]({{< relref "contraception.md" >}}) insuffisante à 6 mois: en bithérapie
 - Si contraception œstroprogestative mal tolérée: en monothérapie
 
-Préférer la [spironolactone](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63145849&typedoc=R) 25-100 mg/j. Contre-indication pendant la grossesse ([Le CRAT](http://www.le-crat.fr/articleSearchSaisie.php?recherche=spironolactone)) et contraception efficace nécessaire.
+Préférer la [spironolactone](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63145849&typedoc=R) 25-100 mg/j (contre-indiquée pendant la grossesse - [CRAT](http://www.lecrat.fr/11555/) et contraception efficace nécessaire).
 
 ### Metformine et SOPK
 

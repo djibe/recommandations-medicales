@@ -282,7 +282,7 @@ Prise en charge et traitement d'une syphilis latente tardive (aucun signe neurol
 Une injection de BPG (Extencilline®) 2,4 MUI IM par semaine pendant 3 semaines
 {.alert .alert-info}
 
-- Femme enceinte: pas d'alternative à la pénicilline G ([CRAT](https://le-crat.fr/articleSearchSaisie.php?recherche=Extencilline))  
+- Femme enceinte: pas d'alternative à la pénicilline G ([CRAT](http://www.lecrat.fr/13304/))  
   Désensibilisation si nécessaire.
 - Allergie aux bêtalactamines  
   Doxycycline 100 mg x 2/j per os pendant 28 jours

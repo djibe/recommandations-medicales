@@ -191,7 +191,7 @@ Traitement de première intention de la gale selon le *CMIT*, à prendre au moin
 
 **Contre-indications:** privilégier la perméthrine pendant la grossesse, allaitement, poids < 15 kg, traitement par ivermectine durant le mois.
 
-[Selon Le CRAT](https://le-crat.fr/articleSearchSaisie.php?recherche=ivermectine): pas de souci pendant la grossesse.
+[Selon Le CRAT](http://www.lecrat.fr/7600/): pas de souci pendant la grossesse.
 
 {{< table title="Posologie de l'ivermectine en fonction du poids pour le traitement de la gale" class="table-sm">}}
 | Poids (kg) | Nombre de cp à 3 mg |
