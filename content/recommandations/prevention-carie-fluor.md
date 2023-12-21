@@ -7,7 +7,7 @@ synonyms = ["Apports en fluor"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-04-30T20:21:18+02:00"
 publishdate = "2022-05-09"
-lastmod = "2023-11-21"
+lastmod = "2023-12-21"
 specialites = ["pediatrie"]
 annees = "2021"
 sources = ["CEOP", "HAS"]
@@ -16,8 +16,9 @@ anglais = ["Dental caries"]
 sctid = "80967001"
 icd10 = "K02.9"
 image = true
-imageSrc = "Illustration de la carie dentaire par pikisuperstar / Freepik"
-todo = "relecture Boub, vidéos"
+imageSrc = "Illustration de la carie dentaire. pikisuperstar / Freepik"
+todo = "relecture Boub"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -25,7 +26,7 @@ todo = "relecture Boub, vidéos"
 Mesures d'hygiène bucco-dentaire pour la prévention des caries:
 
 - Pas de collation matinale, grignotage ou de boissons sucrées ([fiche ufsbd (PDF)](https://www.ufsbd.fr/wp-content/uploads/2023/11/2023-FICHE-CONSEIL-UFSBD-grignotage.pdf))
-- Brossage des dents au moins pendant 2 fois par jour pendant 2 minutes après chaque repas
+- Brossage des dents au moins pendant 2 fois par jour pendant 2 minutes (au mieux peu après chaque repas)
 - Enfants
   - Réaliser/superviser le brossage des dents jusqu'à 8 ans
   - Dentifrice: teneur en fluor adaptée à l'âge (-6 ans: ≥ 1000 ppmF, 1450 ensuite), dose sur la brosse adaptée à l'âge (-3 ans: trace, petit pois jusqu'à 6 ans puis 1/3 longueur de brosse)
@@ -162,6 +163,16 @@ Après 6 mois, la supplémentation relève uniquement d'un risque carieux élev�
 {{< youtube id="cTXpfiCFEKg" title="Avant 6 ans, brossez les dents en 4 temps (UFSBD)" >}}
 
 {{% /collapse %}}
+{{%collapse "Soins dentaires de l'enfant" "show" %}}
+
+{{< mermaid title="Prise en charge et prévention de la santé bucco-dentaire par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après CEOP et HAS" >}}
+graph TB
+  mesures["<b>Mesures générales</b><br>—<br>- Pas de grignotage<br>- Éviter les boissons sucrées"] --> suivi("<b>Suivi dentaire</b><br>—<br>- Annuel dès 6 ans<br>- M'T Dents tous les<br>3 ans de 3 à<br>24 ans<br>- Détartrage annuel") -- Renforcé --> risque("Renforcé chez<br>le sujet à risque:<br>- Maladie inflammatoire<br>- Immunodépression<br>- Sujet âgé<br>- Tabagisme")
+    mesures --> brossage("<b>Brossage</b><br>—<br>- Dès les premières dents<br>- Par un adulte avant 8 ans<br>- Min. matin et soir<br>- Min. 2 minutes<br>- Dentifrice pour l'âge")
+  style mesures stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [CEOP. Le fluor en prévention primaire : Recommandations du Collège des Enseignants en Odontologie Pédiatrique. 2021. (PDF)](https://sfop.asso.fr/wp-content/uploads/2021/11/Le-fluor-en-pre%CC%81vention-primaire-Droz-et-al-CEOP-2021.pdf)

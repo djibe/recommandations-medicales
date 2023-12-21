@@ -7,7 +7,7 @@ synonyms = ["Syndrome de Ménière"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-30T08:50:00+02:00"
 publishdate = "2021-03-30"
-lastmod = "2022-11-08"
+lastmod = "2023-12-21"
 specialites = ["ORL"]
 annees = "2019"
 sources = ["SFORL"]
@@ -17,20 +17,23 @@ sctid = "13445001"
 icd10 = "H81.0"
 image = true
 imageSrc = "Oreille interne. Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "ttt betahistine"
+todo = "ttt betahistine, biblio"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Tétrade diagnostique de la Maladie de Menière par atteinte de l'oreille interne: vertiges, surdité/hypoacousie unilatérale, acouphènes et sensation de plénitude de l'oreille chez un sujet d'âge moyen
-- Examens de la suspicion de Maladie de Menière par bilan biologique et IRM cérébrale avant avis ORL spécialisé
+- La maladie de Menière est une maladie de l'oreille interne évoluant par crises brutales
+- Tétrade diagnostique de la Maladie de Menière: vertiges, surdité / hypoacousie unilatérale, acouphènes et sensation de plénitude de l'oreille chez un sujet d'âge moyen
+- Bilan de la suspicion de Maladie de Menière: biologie avec NFS, VS, CRP, glycémie, TSH, sérologie syphilis, IRM cérébrale
+- Adresser à l'ORL avec le bilan
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Maladie de Menière
-: Maladie chronique peu fréquente de l'oreille interne évoluant par crises brutales, de cause inconnue et entraînant une **surdité** toujours associée à des **vertiges** spontanés et épisodiques.  
-Elle découle de modifications de l'endolymphe, touche toutes les populations, préférentiellement les femmes (60%) et survient le plus souvent entre 20 et 50 ans.
+: Maladie chronique peu fréquente de l'oreille interne évoluant par crises brutales, de cause inconnue et entraînant une **surdité** toujours associée à des **vertiges** spontanés et épisodiques.
+: Elle découle de modifications de l'endolymphe, touche toutes les populations, préférentiellement les femmes (60%) et survient le plus souvent entre 20 et 50 ans.
 : L'évolution de la maladie est imprévisible. Avec les années, la surdité s'installe et devient moins dépendante des crises, les crises de vertiges deviennent plus rares.
 
 {{% /collapse %}}
@@ -95,7 +98,7 @@ Pathologies donnant des symptômes similaires (hypoacousie ou surdité, vertiges
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan devant une suspicion de maladie de Menière
+### Bilan d'une suspicion de maladie de Menière
 
 - NFS, VS, CRP
 - Glycémie à jeun
@@ -140,8 +143,7 @@ La prise en charge dépend de la plainte et de la sévérité de la maladie de M
 - Suivi de l'efficacité par la qualité de vie et l'*Échelle de niveau fonctionnel*
 - Soutien psychologique  
   {{%class%}}Efficacité prouvée sur la réhabilitation vestibulaire et le niveau d'anxiété.{{%/class%}}
-- [Orthoptie]({{< relref "bilan-orthoptique.md" >}})  
-  {{%class%}}Si troubles de la vergence et du suivi oculaire.{{%/class%}}
+- Si troubles de la vergence et du suivi oculaire: [orthoptie]({{< relref "bilan-orthoptique.md" >}})
 - Association de patients: [France Acouphènes](https://www.france-acouphenes.org/)
 - Information du patient  
   [Document d'information du patient de l'Encyclopédie Orphanet sur La maladie de Menière. (PDF)](https://www.orpha.net/data/patho/Pub/fr/Meniere-FRfrPub10587v02.pdf)
@@ -155,13 +157,9 @@ Le traitement relève du spécialiste.
 La kinésithérapie vise à entraîner une compensation vestibulaire controlatérale (amélioration prouvée de la qualité de vie).  
 Elle est interrompue durant la période critique.
 
-### Rééducation orthoptique
-
-En cas de troubles de la vergence et du suivi oculaire.
-
 ### Réhabilitation auditive
 
-Voir SFORL 2016.
+Voir *SFORL 2016*.
 
 ### Pour en savoir plus sur la Maladie de Menière
 
@@ -174,7 +172,7 @@ Peut être prescrite en 1<sup>re</sup> intention.
 
 Diurétique à dose minimale efficace
 : Pour améliorer les vertiges, fractionner sur le nycthémère. Données d'efficacité limitées.
-: Molécules: hydrochlorothiazide (HCT), acétazolamide, <del>chlorthalidone</del>, hydrochlorothiazide-triamtérène.  
+: Molécules: hydrochlorothiazide (HCT), acétazolamide, ~~chlorthalidone~~, hydrochlorothiazide-triamtérène.  
 Surveillance du ionogramme sanguin.
 
 Corticoïdes par voie générale ou intratympanique (ITC)
@@ -199,6 +197,16 @@ Principaux moyens chirurgicaux pour la prise en charge de la Maladie de Menière
 - Chirurgie d'oblitération des canaux semi-circulaires
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la maladie de Menière" "show" %}}
+
+{{< mermaid title="Prise en charge de la suspicion de maladie de Menière par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après SFORL" >}}
+graph TB
+  suspicion["<b>Suspicion de maladie<br>de Menière</b><br>—<br>Femme surtout:<br>- Crises vertigineuses<br>20 min à 12 heures<br>ou à l'emporte-pièce sans PCI<br>- Surdité unilatérale fluctuante<br>- Hypoacousie sur les graves<br>- Acouphènes,<br>plénitude de l'oreille"] --> bilan("<b>Bilan</b><br>—<br>- Bilan standard<br>- TSH<br>- Sérologie syphilis<br>- IRM cérébrale") --> ORL("Consultation d'ORL") -- "Diagnostic confirmé" --> mesures("<b>Mesures générales</b><br>—<br>- Suivi spécialisé<br>- Éviter le stress,<br>les psychostimulants<br>- Réduire sel et glutamate<br>- Soutien psychologique<br>- Si troubles visuels:<br>orthoptie<br>- Associations<br>- Information")
+    ORL -- "Diagnostic différentiel" --> différentiel("- Tumeur labyrinthique ou locale<br>- Malformation de Chiari<br>- Schwannome vestibulaire<br>- Sclérose en plaques<br>- Hypotension intracrânienne<br>- Migraine vestibulaire<br>- Névrite vestibulaire et<br>labyrinthite virale")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [Wu V et al. Approche à adopter pour la prise en charge de la maladie de Ménière. Canadian family physician Medecin de famille canadien. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6738464/)

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-16T13:47:19+01:00"
 publishdate = "2021-11-18"
-lastmod = "2023-12-19"
+lastmod = "2023-12-21"
 specialites = ["psychiatrie", "therapeutique"]
 annees = "2015"
 sources = ["HAS"]
@@ -26,7 +26,8 @@ flowchart = true
 - Ces recommandations concernent le sevrage des benzodiazépines (BZD) après une prise supérieure à 30 jours
 - Respecter les durées de traitement par benzodiazépines de l'AMM
 - Intervention brève sur les risques des benzodiazépines à chaque prescription (réduit fortement la demande de renouvellement)
-- La décroissance des benzodiazépines est toujours progressive après prise prolongée pour prévenir le syndrome de sevrage
+- La décroissance des benzodiazépines ([calendrier de suivi](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_calendrier_de_suivi.pdf)) est toujours progressive après prise prolongée pour prévenir le syndrome de sevrage ({{< modal-btn modal-score-ecab >}}évaluation ECAB{{< /modal-btn >}} de la dépendance)
+- << il n'y a pas lieu d'associer deux benzodiazépines, y compris pour des indications différentes >> (*CNUP*)
 
 Chapitre lié: [sevrage en alcool]({{< relref "sevrage-alcool.md" >}})
 
@@ -62,8 +63,14 @@ AMM
 BZD
 : benzodiazépine
 
+CNUP
+: Collège National Universitaire de Psychiatrie
+
 ECAB
 : {{< modal-btn modal-score-ecab >}}échelle cognitive d'attachement aux benzodiazépines{{< /modal-btn >}}
+
+HAS
+: Haute Autorité de Santé
 {.dl-inline}
 
 {{% /collapse %}}
@@ -100,7 +107,9 @@ Respecter l'AMM de la spécialité:
   - Insomnie transitoire: 2-3 semaines
 - Anxiété
   - Anxiété sévère: 8-12 semaines en tenant compte de la période de décroissance
-  - [Sevrage en alcool]({{< relref "sevrage-alcool.md" >}}): 8-10 jours
+  - [Sevrage en alcool]({{< relref "sevrage-alcool.md" >}}): 8 à 10 jours
+
+Diviser les doses d'initiation par 2 après 65 ans.
 
 {{< table title="Benzodiazépines et apparentés disponibles en France par voie orale en 2023. Dr JB Fron d'après BDPM" class="table-wrap" >}}
 | Molécule                 | Spécialité        | Demi-vie (h) | AMM                                |
@@ -125,8 +134,6 @@ Respecter l'AMM de la spécialité:
 Données insuffisantes pour comparer les efficacités hypnotiques ou anxiolytiques.  
 Le diazépam est la référence de la *SFA* pour le sevrage alcoolique.  
 L'oxazépam est la benzodiazépine de référence selon *Prescrire* pour une insomnie transitoire. Il ne présente pas les interactions avec le cytochrome C3A4 (à l'inverse de l'alprazolam qui pose problème avec le paxlovid).
-
-Diviser les doses d'initiation par 2 après 65 ans.
 
 {{< card-link-external title=" Calculatrice d'équivalence entre benzodiazépines " url="https://www.psychopharma.fr/equivalence" subtitle="par PsychoPharma.fr" >}}
 
@@ -160,11 +167,12 @@ Nécessité d'une consultation spécifique ciblée sur l'arrêt des BZD en déci
 ### La décroissance
 
 Arrêt progressif en 1 à 3 mois (voire 1 an).
+{.alert .alert-info}
 
-Proposer une diminution de 25% la 1<sup>re</sup> semaine avec consultation de suivi.  
-Puis paliers de 25% toutes les 2-4 semaines en l'absence de difficultés.  
-Consultation de suivi 7 jours après l'arrêt et rapporter les boîtes en pharmacie.
-Accompagnement par TCC efficace.
+- Proposer une diminution de 25% la 1<sup>re</sup> semaine avec consultation de suivi
+- Puis paliers de 25 % toutes les 2-4 semaines en l'absence de difficultés
+- Consultation de suivi 7 jours après l'arrêt et rapporter les boîtes en pharmacie
+- Accompagnement par thérapie cognitive et comportementales (TCC) efficace
 
 - Signes sans gravité pendant la décroissance:  
   reprendre la posologie antérieure et décroître plus doucement.
@@ -207,11 +215,13 @@ L'essai EMPOWER a démontré l'effet de l'intervention brève sur l'arrêt à 6 
 {{% /collapse %}}
 {{%collapse "Prise en charge du sevrage des benzodiazépines" "show" %}}
 
-{{< mermaid title="Prise en charge du suivi et du sevrage des benzodiazépines par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après HAS 2015" >}}
+{{< mermaid title="Prise en charge du suivi et du sevrage des benzodiazépines par le médecin généraliste. Drs JB Fron et Alaedine Benani d'après HAS 2015" >}}
 graph TB
-  BZD["<b>Traitement &gt; 30 jours<br>par benzodiazépine</b>"] --> clinique("réévaluation clinique<br>et diagnostique") --> intervention("Intervention brève") -- "Réduction<br>choisie" --> sevrage
-    clinique -- Réfractaire --> consultation("- Répéter à la prochaine<br>consultation<br>- Intervention brève<br>écrite") --> clinique
-  style BZD stroke:#4150f5, stroke-width:1px
+  benzodiazépine["<b>Traitement &gt; 30 jours<br>par benzodiazépine</b>"] --> clinique("<b>Clinique</b><br>—<br>- Ancienneté<br>- Traitements, alcool<br>- Diagnostic<br>- État psychologique<br>- Troubles du sommeil<br>- Intervention brève<br>- Évaluation de dépendance") -- "Réduction<br>choisie" --> sevrage("<b>Réduction des doses</b><br>—<br>- Calendrier de décroissance<br>- Réduction de 25%<br>la semaine 1") -- 7 jours --> suivi("<b>Suivi</b><br>—<br>- Renforcer l'intervention<br>- Évolution des symptômes<br>psychiques et de sevrage") -- Satisfaisant --> poursuite("Réduction de 25% toutes<br>les 2-4 semaines") --> suivi
+    suivi -- Sevrage difficile --> palier("- Paliers plus longs<br>- TCC<br>- Réévaluation des troubles")
+    suivi -- Sevrage grave --> hospitalisation("Hospitalisation si confusion,<br>hallucinations, convulsions ...")
+    clinique -- "Patient<br>réfractaire" --> consultation("- Répéter à la prochaine<br>consultation<br>- Intervention brève<br>écrite") --> clinique
+  style benzodiazépine stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{%/collapse%}}
