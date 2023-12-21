@@ -457,7 +457,7 @@ accTitle: Prise en charge de l'arrêt du tabac d'après HAS 2014
 
 - [Theodoulou A et al. Different doses, durations and modes of delivery of nicotine replacement therapy for smoking cessation. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013308.pub2/full/fr)
 - [Collège des Enseignants de Pneumologie (CEP). Addiction au tabac. Item 75. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_75_TABAC_2023.pdf)
-- Prescrire Redaction. Consommation et arrêt du tabac. Premiers Choix Prescrire. 2023.
+- Prescrire Redaction. Consommation et arrêt du tabac. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Santé Publique France. Tabac.](https://www.santepubliquefrance.fr/determinants-de-sante/tabac)
 - [INCa. Panorama des cancers en France - Édition 2022.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Panorama-des-cancers-en-France-Edition-2022)
 - [Haut Conseil de la santé publique (HCSP). Avis relatif aux bénéfices-risques de la cigarette électronique. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1138)

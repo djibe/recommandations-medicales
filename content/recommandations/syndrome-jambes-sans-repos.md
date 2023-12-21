@@ -473,7 +473,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- Prescrire Redaction. Syndrome des jambes sans repos. Prescrire. Octobre 2022.
+- Prescrire Redaction. Syndrome des jambes sans repos. Prescrire. Rev Prescrire. 2022.
 - [Chenini S. et al. Depressive Symptoms and Suicidal Thoughts in Restless Legs Syndrome. Mov Disord. 2022.](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28903)
 - [Chenini S. et al.; SFRMS. Syndrome des jambes sans repos pharmaco-résistant. Médecine du Sommeil. 2019.](https://doi.org/10.1016/j.msom.2018.10.004)
 - [Limousin N. et al.; SFRMS. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449)

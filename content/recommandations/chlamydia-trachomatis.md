@@ -165,7 +165,7 @@ PCR de contrôle à 6 mois
 {{%sources%}}
 
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
-- Prescrire Redaction. Chlamydiose liée à un rapport sexuel. Premiers Choix Prescrire. Mars 2021.
+- Prescrire Redaction. Chlamydiose liée à un rapport sexuel. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Santé Publique France. Chlamydiae. 01/12/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/chlamydiae)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [Dupin N. et al; Société Française de Dermatologie (SFD). Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement Transmissibles Infection à Chlamydia trachomatis. 2016. (PDF)](https://www.cnr-ist.fr/ressources/editeur/Guidelines%20IST%20SFDermato%202016.pdf)

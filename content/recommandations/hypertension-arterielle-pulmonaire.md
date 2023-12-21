@@ -211,7 +211,7 @@ graph TB
 
 - [Humbert M et al; ESC/ERS Scientific Document Group. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension: Developed by the task force for the diagnosis and treatment of pulmonary hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS). Endorsed by the International Society for Heart and Lung Transplantation (ISHLT) and the European Reference Network on rare respiratory diseases (ERN-LUNG). European Heart Journal. 2022.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehac237/6673929)
 - [Centre de référence de l'hypertension artérielle. Hypertension artérielle pulmonaire. PNDS. 2020.](https://www.has-sante.fr/jcms/p_3167172/fr/hypertension-arterielle-pulmonaire)
-- Prescrire Redaction. Hypertensions artérielles pulmonaires d'origine médicamenteuse. Avril 2020.
+- Prescrire Redaction. Hypertensions artérielles pulmonaires d'origine médicamenteuse. Rev Prescrire. 2020.
 - [Collège National des Enseignants de Cardiologie. Hypertension artérielle pulmonaire de l'enfant et de l'adulte. Item 222. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch19_hypertension_pulmonaire.pdf)
 - [Orphanet. Hypertension artérielle pulmonaire idiopathique/familiale.](https://www.orpha.net/consor/www/cgi-bin/OC_Exp.php?lng=FR&Expert=422)
 

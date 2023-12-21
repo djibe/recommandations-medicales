@@ -8,7 +8,7 @@ synonyms = ["Pneumopathies infectieuses communautaires"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-15T17:05:04+02:00"
 publishdate = "2023-05-17"
-lastmod = "2023-12-16"
+lastmod = "2023-12-21"
 specialites = ["pneumologie"]
 annees = "2020"
 sources = ["SPILF", "Afssaps"]
@@ -73,7 +73,8 @@ Si allergie ou doute sur atypique et +6 ans et avale comprimés: [pristinamycine
 
 ---
 
-Bactérie atypique: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose-kg x 2/j (max 1 g/j) pendant 10 jours
+Bactérie atypique: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose-kg x 2/j (max 1 g/j) pendant 10 jours (5 jours selon *Infovac 2023*)  
+ou [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67287098&typedoc=R) 1 dose-kg en 1 prise (soit 20 mg/kg/j, max 500 mg/j)
 
   </div>
   <div class="tab-pane fade" id="nav-pna-comorbide" role="tabpanel" aria-labelledby="nav-tab-comorbide">
@@ -193,8 +194,8 @@ Présentation de pneumonie aiguë communautaire bactérienne **la plus fréquent
 - Contexte épidémique
 - Tableau fruste d'installation **progressive**
   - Fébricule
-  - Toux sèche persistante
-  - Syndrome pseudo-grippal avec myalgies, conjonctivite, diarrhées, éruption cutanée
+  - Toux sèche persistante (3-4 semaines), sifflements
+  - Syndrome pseudo-grippal avec myalgies, conjonctivite, diarrhées, éruption cutanée maculopapuleuse
 - PCR nasopharyngée *Mycoplasma pneumoniae* et *Chlamydophila pneumoniae* (ou *Chlamydia pneumoniae*)
 - Si biologie: anémie hémolytique, cytolyse hépatique
 - Opacités multifocales
@@ -231,7 +232,7 @@ Radiographie thoracique de face systématique (contrôle à 1 mois chez l'enfant
 Autres bilans ambulatoires de la pneumopathie infectieuse:
 
 - Pas d'examens biologiques en ambulatoire (*CEP*) mais proposer une **sérologie VIH**
-- Si suspicion de pneumopathie à bactérie atypique bien tolérée: PCR naso-pharyngée *Mycoplasma pneumoniae* (108€ non remboursés), *Chlamydophila pneumoniae* (147€ non remboursés) + sérologie *M. pneumoniae*
+- Si suspicion de pneumopathie à bactérie atypique bien tolérée: PCR naso-pharyngée *Mycoplasma pneumoniae* (108€ non remboursés), *Chlamydophila pneumoniae* (147€ non remboursés) + sérologie *M. pneumoniae* (après J7)
 - Le scanner thoracique est un examen de seconde intention devant un cas ou une évolution atypique
 - Électrophorèse des protéines sériques chez le sujet jeune avec germe encapsulé (pneumocoque, *H. influenzae* - *CEP*)  
   Recherche une hypogammaglobulinémie.
@@ -348,7 +349,7 @@ Peu d'interactions ou azithromycine, clarithromycine 500 mg x 2/j.
 
 Chez l'enfant (pas d'intracellulaire avant 3 ans) selon *GPIP 2016*:
 
-- <mark>Préférence: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose-kg x 2/j (max 1 g/j) pendant 10 jours</mark>
+- <mark>Préférence: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose-kg x 2/j (max 1 g/j) pendant 10 jours</mark> (5 jours selon *Infovac 2023*)
 - Alternatives si allergie:
   - [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67287098&typedoc=R) 1 dose-kg en 1 prise (soit 20 mg/kg avant 25 kg, max 500 mg/j), 500 mg/j au-delà pendant 3 jours (uniquement si pneumocoque exclu)
   - +6 ans, aussi pour doute sur pneumocoque: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69494932&typedoc=R) 50 mg/kg en 2 prises pendant 10 jours (uniquement en comprimés)

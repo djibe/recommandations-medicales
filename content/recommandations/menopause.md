@@ -8,7 +8,7 @@ synonyms = ["Syndrome climatérique", "traitement hormonal substitutif (THS)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2023-07-05"
+lastmod = "2023-12-21"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
@@ -543,7 +543,7 @@ Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch par semaine (sur fess
 | Estradiol patch     | Estradiol                  | Dermestril (-Septem), Estrapatch, Femsept, Oesclim, Thais (-sept), Vivelledot |       25, 37,5, 40, 50, 60, 75, 100 |
 | Estradiol gel       | Estradiol                  | Delidose, Estreva, Oestrodose                                                 |                        0,5, 0,75, 1 |
 | Progestatif         | Dydrogestérone             | Duphaston                                                                     |                                  10 |
-|                     | Médrogestone               | Colprone                                                                      |                                   5 |
+|                     | Médrogestone à éviter      | Colprone                                                                      |                                   5 |
 |                     | Progestérone               | Progesterone, Utrogestan                                                      |                            100, 200 |
 | Progestatif vaginal | Progestérone               | Utrogestan                                                                    |                            100, 200 |
 | Association         | Estradiol + lévonorgestrel | Femseptcombi, Femseptevo                                                      |                         50/7, 50/10 |
@@ -622,11 +622,13 @@ Le traitement hormonal de la ménopause (THM):
 {{% /collapse %}}
 {{%sources%}}
 
+- [ANSM. Progestatifs et risque de méningiome : recommandations pour limiter ce risque. 18/12/2023.](https://ansm.sante.fr/actualites/progestatifs-et-risque-de-meningiome-recommandations-pour-limiter-ce-risque)
 - [US Preventive Services Task Force. Hormone Therapy for the Primary Prevention of Chronic Conditions in Postmenopausal Persons: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2797867)
 - [Kremer C et al. European Stroke Organisation guidelines on stroke in women: Management of menopause, pregnancy and postpartum. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/full/10.1177/23969873221078696)
 - [Trémollieres F et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000593)
 - [Saxon GDGC et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
-- Prescrire Redaction. Troubles liés à la ménopause. Premiers Choix Prescrire. 2020.
+- Prescrire Redaction. Troubles liés à la ménopause. Premiers Choix Prescrire. Rev Prescrire. 2020.
+- [HAS. Les traitements hormonaux substitutifs de la ménopause. 2004.](https://www.has-sante.fr/jcms/c_272308/fr/les-traitements-hormonaux-substitutifs-de-la-menopause)
 
 ### Bibliographie en attente
 
@@ -637,7 +639,6 @@ Le traitement hormonal de la ménopause (THM):
 - [ACOG. Postmenopausal Estrogen Therapy Route of Administration and Risk of Venous Thromboembolism. 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/04/postmenopausal-estrogen-therapy-route-of-administration-and-risk-of-venous-thromboembolism)
 - [HAS. Traitements hormonaux de la ménopause. Communiqués de presse. 16/07/2014.](https://www.has-sante.fr/jcms/c_1754596/fr/traitements-hormonaux-de-la-menopause)
 - [International Menopause Society. Papers, Recommendations & Statements](https://www.imsociety.org/statements/)
-- [HAS. Les traitements hormonaux substitutifs de la ménopause. 2004.](https://www.has-sante.fr/jcms/c_272308/fr/les-traitements-hormonaux-substitutifs-de-la-menopause)
 
 {{%/sources%}}
 {{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}

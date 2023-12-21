@@ -325,8 +325,8 @@ Favorisée par l'obésité et une hernie hiatale.
 - [HAS. Bon usage des inhibiteurs de la pompe à protons (IPP). Septembre 2022.](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/fiche_bum_-_bon_usage_des_inhibiteurs_de_la_pompe_a_protons_ipp.pdf)
 - [Zerbib F. Traitement endoscopique du reflux gastro-œsophagien : la quête du graal continue. GastroScoop. 27/04/2022.](https://www.snfge.org/gastroscoop/traitement-endoscopique-du-reflux-gastro-oesophagien-la-quete-du-graal-continue)
 - [Jouet P. Faut-il diminuer les FODMAPs en cas de RGO ? GastroScoop. 28/07/2021.](https://www.snfge.org/gastroscoop/faut-il-diminuer-les-fodmaps-en-cas-de-rgo)
-- Prescrire Redaction. Patients ayant un reflux gastro-œsophagien. Janvier 2021.
-- Prescrire Redaction. Reflux gastro-œsophagien chez un nourrisson. Août 2020.
+- Prescrire Redaction. Patients ayant un reflux gastro-œsophagien. Rev Prescrire. 2021.
+- Prescrire Redaction. Reflux gastro-œsophagien chez un nourrisson. Rev Prescrire. 2020.
 - [Rouillon JM. Traitement du RGO. SNFGE. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
 - [SNFGE. Reflux gastro-œsophagien (RGO)](https://www.snfge.org/content/reflux-gastro-oesophagien-rgo)
 - [Gyawali CP et al. Modern diagnosis of GERD: the Lyon Consensus. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6031267/)

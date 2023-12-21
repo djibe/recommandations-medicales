@@ -321,7 +321,7 @@ accTitle: Conduite à tenir et prise en charge d'une suspicion d'endométriose d
 
 {{< card-link-external title="Endométriose : l'affaire de tous" url="https://endometriose-affairedetous.com" subtitle="CNGOF, ARS IDF, PNS-MOOC">}}
 
-- Prescrire Redaction. Douleurs liées à une endométriose pelvienne. Premiers Choix Prescrire. 2023.
+- Prescrire Redaction. Douleurs liées à une endométriose pelvienne. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [ANSM. Troubles menstruels après la vaccination contre le Covid-19 : état des connaissances et conseils aux femmes concernées. 21/07/2022.](https://ansm.sante.fr/actualites/troubles-menstruels-apres-la-vaccination-contre-le-covid-19-etat-des-connaissances-et-conseils-aux-femmes-concernees)
 - [ACOG. Dysmenorrhea and Endometriosis in the Adolescent. 2018.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/12/dysmenorrhea-and-endometriosis-in-the-adolescent)
 - Prescrire Rédaction. Endométriose douloureuse. En absence de projet de grossesse : paracétamol et AINS, voire estroprogestatif ou DIU au lévonorgestrel. Prescrire. 2019.

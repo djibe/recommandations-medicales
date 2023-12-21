@@ -149,7 +149,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
-- Prescrire Redaction. Patients ayant une énurésie nocturne. Rev Prescrire. Janvier 2021.
+- Prescrire Redaction. Patients ayant une énurésie nocturne. Rev Prescrire. 2021.
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles mictionnels. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/nephrologie-chirurgie-urologique/troubles-mictionnels)
 - Prescrire Redaction. Énurésie isolée des enfants. Rev Prescrire. 2019.
 - [Aubert D et al; AFU, SFP, SFNP, SIFUDPP. Énurésie nocturne primaire isolée : diagnostic et prise en charge. Recommandations par consensus formalisé d'experts. Progrès en Urologie. 2010. (PDF)](https://afpa.org/content/uploads/2017/09/main.pdf)

@@ -143,7 +143,7 @@ graph TB
 {{%sources%}}
 
 - [Guimarães JS et al. Effects of therapeutic interventions on pain due to plantar fasciitis: A systematic review and meta-analysis. Clin Rehabil. 2023.](https://www.minerva-ebp.be/FR/Analysis/830)
-- Prescrire Redaction. Douleur sous le talon par fasciite plantaire et orthèses. Juin 2021.
+- Prescrire Redaction. Douleur sous le talon par fasciite plantaire et orthèses. Rev Prescrire. 2021.
 - [Fulpius T et al. Talalgies plantaires : aspects cliniques et pratiques. Rev Med Suisse 2002; volume -2. 22006](https://www.revmed.ch/RMS/2002/RMS-2384/22006)
 
 {{%/sources%}}

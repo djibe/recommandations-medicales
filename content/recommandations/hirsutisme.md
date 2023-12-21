@@ -205,7 +205,7 @@ Molécules anti-androgéniques:
 {{%/collapse %}}
 {{%sources%}}
 
-- Prescrire Redaction. Hirsutisme L'essentiel sur les soins de premier choix. 2019.
+- Prescrire Redaction. Hirsutisme L'essentiel sur les soins de premier choix. Rev Prescrire. 2019.
 - [Martin K et al. Evaluation and Treatment of Hirsutism in Premenopausal Women: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2018.](https://academic.oup.com/jcem/article/103/4/1233/4924418)
 
 {{%/sources%}}

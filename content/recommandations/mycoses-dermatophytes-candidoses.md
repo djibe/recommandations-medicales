@@ -567,16 +567,16 @@ graph TB
 {{%sources%}}
 
 - [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 155. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-155-%E2%80%94-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques_CompressPdf.pdf)
-- Prescrire Redaction. Patients atteints de mycose superficielle. Prescrire. 2023.
-- Prescrire Redaction. Patientes ayant une infection vulvovaginale ou du col utérin. Prescrire. 2023.
+- Prescrire Redaction. Patients atteints de mycose superficielle. Rev Prescrire. 2023.
+- Prescrire Redaction. Patientes ayant une infection vulvovaginale ou du col utérin. Rev Prescrire. 2023.
 - Anofel. Parasitoses et mycoses des régions tempérées et tropicales. 2022.
-- Prescrire Redaction. Teignes du cuir chevelu. Prescrire. 2022.
+- Prescrire Redaction. Teignes du cuir chevelu. Rev Prescrire. 2022.
 - [ANSM. Traitement de la teigne de l'enfant et indisponibilité de la griséofulvine : l'ANSM précise la conduite à tenir. 19/07/2021.](https://ansm.sante.fr/actualites/traitement-de-la-teigne-de-lenfant-et-indisponibilite-de-la-griseofulvine-lansm-precise-la-conduite-a-tenir)
 - [Société Française de Dermatologie, GPIP, SFDP, SPILF, SFMM. Algorithme. Centre de preuves en dermatologie. 2021.](https://centredepreuves.sfdermato.org/#hot-topics)
-- Prescrire Redaction. Intertrigo des grands plis. Prescrire. 2021.
-- Prescrire Redaction. Candidose vulvovaginale. Prescrire. 2021.
+- Prescrire Redaction. Intertrigo des grands plis. Rev Prescrire. 2021.
+- Prescrire Redaction. Candidose vulvovaginale. Rev Prescrire. 2021.
 - [Saxon GDGC. et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
-- Prescrire Redaction. Pityriasis versicolor. Prescrire. 2019.
+- Prescrire Redaction. Pityriasis versicolor. Rev Prescrire. 2019.
 - [Haut conseil de la santé publique (HCSP). Survenue de maladies infectieuses dans une collectivité. Conduites à tenir. 2012.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=306)
 - [Bell-Syer SE et al. Oral treatments for fungal infections of the skin of the foot. Cochrane Database Syst Rev. 2012.](https://pubmed.ncbi.nlm.nih.gov/23076898/)
 - [Chabasse D, SFD. Onychomycoses, recommandations pour les modalités de diagnostic et de prise en charge. Journal de Mycologie Médicale. 2007. (PDF)](https://www.sfdermato.org/upload/recommandations/onychomycoses-ea897f8482d176d93ec53661dbea2561.pdf)
