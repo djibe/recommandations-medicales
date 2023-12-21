@@ -6,7 +6,7 @@ longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-05T12:18:00+02:00"
 publishdate = "2022-12-08"
-lastmod = "2023-05-20"
+lastmod = "2023-12-21"
 annees = "2023"
 sources = ["CNOM"]
 tags = []
@@ -165,7 +165,8 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
       const valueStored = localStorage.getItem('contract-duration');
       if (valueStored){ duration.value = valueStored };
     }
-    [...document.querySelectorAll('#contract-generator input')].forEach((elem) => { elem.addEventListener('change', () => editContract() ) })
+    [...document.querySelectorAll('#contract-generator input')].forEach((elem) => { elem.addEventListener('change', () => editContract() ) });
+    [...document.querySelectorAll('#contract-generator textarea')].forEach((elem) => { elem.addEventListener('change', () => editContract() ) });
     const editContract = () => {
       [...titleFull].forEach((elem) => { elem.textContent = setPolite(sexMan).full });
       [...titleSubstituteFull].forEach((elem) => { elem.textContent = setPolite(sexSubstituteMan).subFull });

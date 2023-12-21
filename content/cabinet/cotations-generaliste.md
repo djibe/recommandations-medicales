@@ -6,7 +6,7 @@ description = ""
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2023-11-01"
+lastmod = "2023-12-21"
 annees = "2023"
 sources = ["Assurance Maladie"]
 tags = []
@@ -25,12 +25,9 @@ Les outils *OMNIPrat* et *CotaMG* permettent aux jeunes médecins d'apprendre à
 
 {{< card-link-external title="Outil d'aide à la cotation et au remplissage des feuilles de soins" url="https://www.cotamg.fr/" subtitle="CotaMG">}}
 
-## Les nouvelles cotations 2023
+## Les nouvelles cotations à venir en 2024
 
-- IMT à 60€: depuis le 1er mai, consultation où l'on déclare un patient en [ALD 30]({{< relref "affection-longue-duree.md" >}}) comme médecin traitant.  
-  Si l'ALD n'est pas déclarée, la demander et seulement inscrire le patient quand elle a été validée.
-- G(S)/VG(S): après [presque 6 ans à 25€]({{< relref "evolution-tarif-consultation-generaliste.md" >}}), le G (GS) est passé à 26,5€ le 1er novembre. Les autres actes (COD, COB, COE, APC, CCX, CDE, CCP) augmentent également de 1,5€.
-- Déplafonnement du nombre de visites palliatives très complexes (VSP)
+- Majoration MOP de 5€ pour les +80 ans qui ne font pas partie de la patientèle (valable en (télé)consultation ou visite)
 
 ## Les cotations pour les médecins généralistes
 
