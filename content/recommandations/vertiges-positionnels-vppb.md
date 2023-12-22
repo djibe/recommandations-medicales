@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-21T19:36:09+02:00"
 publishdate = "2022-09-07"
-lastmod = "2022-11-08"
+lastmod = "2023-12-22"
 specialites = ["ORL"]
 annees = "2017"
 sources = ["HAS", "SFORL"]
@@ -18,6 +18,7 @@ icd10 = "H81.1"
 image = true
 imageSrc = "Illustration de l'oreille interne par BruceBlaus. Blausen.com staff (2014). WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436., via Wikimedia Commons"
 todo = "SEO dont 'vertiges positionnels paroxystiques bénins', vertige signes périph collège neuro"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -101,6 +102,7 @@ Drapeaux rouges à rechercher devant chaque épisode de [vertiges](/tags/vertige
   - Nystagmus atypique (battant vers le menton, spontané ou persistant au regard fixe)
   - Marche impossible sans chute
 - ORL: surdité brusque, acouphènes ou otalgie
+- Enfant
 {.list-group}
 
 {{% /collapse %}}
@@ -108,7 +110,7 @@ Drapeaux rouges à rechercher devant chaque épisode de [vertiges](/tags/vertige
 
 Le caractère << bénin >> nécessite des critères précis et un examen rigoureux en période vertigineuse. Adresser à l'ORL en l'absence de formation spécifique ou pour un premier épisode.
 
-> << Un vertige positionnel doit être toujours très suspect d'une atteinte centrale durant l'enfance >> (*SFORL 2012*)
+> << Un vertige positionnel doit être toujours très suspect d'une atteinte centrale durant l'enfance >> – *SFORL 2012*
 {.alert .alert-warning}
 
 ### Interrogatoire
@@ -171,11 +173,10 @@ Autres examens:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires d'un VPPB" %}}
 
-**Adresser à l'ORL** au premier épisode de vertiges pour examens auditifs systématiques.  
-(Audiométrie tonale et vocale, impédancemétrie)
+**Adresser à l'ORL** au premier épisode de vertiges pour examens auditifs systématiques (audiométrie tonale et vocale, impédancemétrie).
 {.alert .alert-info}
 
-Les autres examens dépendent de l'avis de l'ORL ou de VPPB atypiques (IRM ++).
+Les autres examens dépendent de l'avis de l'ORL ou de VPPB atypiques (IRM cérébrale ++).
 
 {{% /collapse %}}
 {{%collapse "Traitement du VPPB" %}}
@@ -210,6 +211,19 @@ Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, m�
 {.alert .alert-warning}
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la maladie de Menière" "show" %}}
+
+{{< mermaid title="Prise en charge de la suspicion de maladie de Menière par le médecin généraliste. Drs JB Fron et Alaedine Benani d'après SFORL" >}}
+graph TB
+  vertiges["<b>Vertiges</b><br>—<br>Illusion de mouvement"] --> gravité("<b>Signe de gravité ?</b><br>—<br>- Traumatisme crânien ou cervical<br>- Céphalée violente et brusque<br>- Cervicalgies récentes<br>- Déficit neurologique<br>- Nystagmus atypique<br>vers le menton, spontané ou<br>persistant au regard fixe<br>- Marche impossible sans chute<br>- Surdité brusque, acouphènes<br>- Otalgie<br>- Enfant<br>- VPPB &gt; 1 mois") -- Non --> clinique("<b>Clinique</b><br>—<br>- Antécédents ORL,<br>cardiovasculaires<br>- Traitements<br>- Caractères des vertiges:<br>brefs, répétés, reproductibles ...<br>- Examen neurologique<br>- Examen ORL") -- Critères remplis --> VPPB(VPPB) -- "Premier épisode<br>ou &gt; 1 mois" --> ORL("Consultation ORL")
+  gravité -- Oui --> samu(Appel du 15)
+    clinique -- Doute --> samu
+      VPPB --> traitement("<b>Traitement</b><br>—<br>- Information<br>- Pas de traitement<br>- Ordonnance anticipée<br>pour les manœuvres") -. "Persistance &gt; 1 mois" .-> ORL
+        traitement -- "Vertiges<br>mal tolérés" --> manoeuvre("Manœuvres par<br>kiné ou ORL")
+  style vertiges stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 {{< youtube id="1obEgiJj-IA" title="Manœuvre de Dix et Hallpike (ORL INFORMATION)" >}}
@@ -218,7 +232,7 @@ Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, m�
 
 {{< youtube id="6hkOuBKGJkI" title="Manœuvre de Semont (JAMA Network)" >}}
 
-- Prescrire Redaction. Vertiges positionnels paroxystiques bénins. Premiers Choix Prescrire. Janvier 2022.
+- Prescrire Redaction. Vertiges positionnels paroxystiques bénins. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - [Collège des Enseignants de Neurologie (CEN). Vertige. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/vertige)
 - [HAS. Vertiges positionnels paroxystiques bénins : Manoeuvres diagnostiques et thérapeutiques. Décembre 2017.](https://www.has-sante.fr/jcms/c_2819896/fr/vertiges-positionnels-paroxystiques-benins-manoeuvres-diagnostiques-et-therapeutiques)
 - [SFORL. THÈME : VERTIGE POSITIONNEL PAROXYSTIQUE BENIN. Janvier 2012. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/Vertige-Positionnel-Paroxystique-Benin-2012-Janvier.pdf)
@@ -226,6 +240,6 @@ Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, m�
 
 ### Bibliographie en attente
 
-[Bhattacharyya N. et al. Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update). Otolaryngology–Head and Neck Surgery. 2017.](https://journals.sagepub.com/doi/full/10.1177/0194599816689667)
+[Bhattacharyya N et al. Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update). Otolaryngology–Head and Neck Surgery. 2017.](https://journals.sagepub.com/doi/full/10.1177/0194599816689667)
 
 {{%/sources%}}
