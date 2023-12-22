@@ -83,7 +83,7 @@ IPS
   - Spondylarthrite ankylosante
   - Rhumatisme psoriasique
   - Arthropathies microcristallines
-  - Maladies neurodégénératives (Alzheimer, [Parkinson]({{< relref "maladie-parkinson.md" >}}))
+  - Maladies neurodégénératives ([Alzheimer]({{< relref "maladie-alzheimer.md" >}}), [Parkinson]({{< relref "maladie-parkinson.md" >}}))
   - Sarcopénie
   - Anti-cancéreux: **anti-EGFR**, capécitabine, taxanes
   - Arthrose

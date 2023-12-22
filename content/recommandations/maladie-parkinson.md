@@ -36,7 +36,7 @@ todo = "sd pyramidal, sd cérébelleux, American Academy of Neurology, HAS 2016 
 
 Maladie de Parkinson idiopathique (MPI)
 : Maladie dégénérative de cause inconnue touchant les systèmes dopaminergiques, cholinergiques, noradrénergiques et sérotoninergiques. Le diagnostic de certitude est histologique (et donc autopsique).
-: Première cause de syndrome parkinsonien et 2<sup>e</sup> maladie neurodégénérative (derrière Alzheimer).
+: Première cause de syndrome parkinsonien et 2<sup>e</sup> maladie neurodégénérative (derrière [Alzheimer]({{< relref "maladie-alzheimer.md" >}})).
 
 Tremblement essentiel
 : Début à l'adolescence (~15 ans) ou plus tard vers 50 ans, fréquent, souvent bilatéral et symétrique, rapide (4-10 Hz), tremblement d'action postural ou cinétique sans tremblement de repos. Déclenchement immédiat du tremblement postural.

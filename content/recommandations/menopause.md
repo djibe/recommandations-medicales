@@ -34,7 +34,7 @@ todo = "écriture SEO, KEY patiente | règles d'hygiène, Chart J1-J31, lire sou
 - Le traitement hormonal de la ménopause (THM):
   - Débuter quand diagnostic certain et seulement dans les 10 premières années
   - Indications et contre-indications précises (voir *Traitement hormonal de la ménopause*)  
-  **Contre-indications majeures**: antécédent de [cancer du sein]({{< relref "cancer-sein.md" >}}), infarctus du myocarde, AVC ou Alzheimer
+  **Contre-indications majeures**: antécédent de [cancer du sein]({{< relref "cancer-sein.md" >}}), infarctus du myocarde, AVC ou [Alzheimer]({{< relref "maladie-alzheimer.md" >}})
   - Utiliser les doses minimales efficaces d'estrogène cutané et de progestérone orale combinés
 - Rapporter tout saignement vaginal après la ménopause
 
@@ -320,7 +320,7 @@ Contre-indications au traitement de la ménopause:
 - [Antécédent de cancer du sein]({{< relref "cancer-sein.md" >}})  
   Quelque soit le statut hormonal ou invasif/in situ.
 - Antécédent d'infarctus du myocarde ou d'[AVC ischémique]({{< relref "accident-vasculaire-cerebral.md" >}})
-- Maladie d'Alzheimer
+- [Maladie d'Alzheimer]({{< relref "maladie-alzheimer.md" >}})
 - Contre-indication relative
   - Syndrome douloureux mammaire
 - Contre-indications temporaires

@@ -292,7 +292,7 @@ Les symptômes doivent être présents depuis au moins 15 jours avec changement 
   - Dépistage d'une anxiété (75%): {{< modal-btn modal-gad2 >}}échelle GAD-2{{< /modal-btn >}}
 - Retentissement socio-professionnel
 - **Évaluation du risque suicidaire**
-- Sujet âgé: rechercher une maladie neuro-dégénérative (Alzheimer, Parkinson), {{< scores/mmse >}}
+- Sujet âgé: rechercher une maladie neuro-dégénérative ([Alzheimer]({{< relref "maladie-alzheimer.md" >}}), Parkinson), {{< scores/mmse >}}
 - Enfant: irritabilité, baisse des performances scolaires, variations de poids
 
 Avec l'accord du patient, interroger l'entourage.

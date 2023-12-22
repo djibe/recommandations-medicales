@@ -45,7 +45,7 @@ Diagnostic de ménopause précoce par l'association d'un critère clinique:
     - FSH élevée (≥ 25 UI/L) à 2 reprises à ≥ 4 semaines d'intervalle avec estradiol bas
 : L'IOP peut être due à 3 mécanismes: diminution du stock des follicules primordiaux lors de la vie fœtale, atrésie folliculaire accélérée ou blocage de la maturation folliculaire.
 : Augmentation des risques cardiovasculaire (ischémique +80%) et fracturaire des femmes.  
-Lien épidémiologique suggéré: risque d'Alzheimer x3 (annulée si THM jusqu'à 50 ans, *CNGOF*).
+Lien épidémiologique suggéré: risque d'[Alzheimer]({{< relref "maladie-alzheimer.md" >}}) x3 (annulée si THM jusqu'à 50 ans, *CNGOF*).
 
 Spanioménorrhée
 : Diminution de la fréquence des cycles menstruels (= allongement de leur durée).

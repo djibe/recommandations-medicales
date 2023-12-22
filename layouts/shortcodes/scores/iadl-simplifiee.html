@@ -1,6 +1,6 @@
 <!-- TODO: -->
 <div class="card-body" id="score-iadl-simplifiee">
-  <p>Évaluation de l’autonomie par l’échelle <dfn><abbr title="Instrumental Activities of Daily Living">IADL</abbr></dfn> simplifiée.</p>
+  <p>Évaluation de l’autonomie par l’échelle <dfn><abbr title="Instrumental Activities of Daily Living">IADL</abbr></dfn> simplifiée (étude Paquid).</p>
   <div class="custom-control custom-checkbox">
     <input type="checkbox" id="iadl-simpl-1" class="custom-control-input" value="1">
     <label class="custom-control-label" for="iadl-simpl-1">Utilisation du téléphone</label>
@@ -38,17 +38,21 @@
     iadlSimplElems.forEach((elem) => { elem.addEventListener('change', () => calcIadlSimpl() ) })
     const calcIadlSimpl = () => {
       let score = 0
+      if (document.querySelectorAll('#score-iadl-simplifiee input:checked').length == 0){
+        scoreiadlSimpl.innerHTML = 0;
+        textiadlSimpl.innerHTML = 'Poursuivre le bilan mémoire'
+      } else {
       iadlSimplElems.forEach(iadlSimplElem => {
         if (iadlSimplElem.checked) {
           score += parseInt(iadlSimplElem.value, 10)
-          scoreIadlSimpl.innerHTML = score
-          if (score >= 1) {
-            textiadlSimpl.innerHTML = 'Poursuivre le bilan mémoire'
-          } else if (score < 1) {
+          scoreiadlSimpl.innerHTML = score
+          if (score == 4) {
             textiadlSimpl.innerHTML = 'Pas d’élément inquiétant dans la vie quotidienne'
+          } else if (score < 4) {
+            textiadlSimpl.innerHTML = 'Poursuivre le bilan mémoire'
           }
         }
-      })
+      })}
     }
   })` }}
 <script type="module">{{ $script | safeJS }}</script>

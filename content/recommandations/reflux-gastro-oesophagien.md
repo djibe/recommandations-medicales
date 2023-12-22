@@ -322,6 +322,7 @@ Favorisée par l'obésité et une hernie hiatale.
 {{%/collapse%}}
 {{%sources%}}
 
+- [Tighe MP et al. Pharmacological treatment of gastro‐oesophageal reflux in children. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008550.pub3/full/fr)
 - [HAS. Bon usage des inhibiteurs de la pompe à protons (IPP). Septembre 2022.](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/fiche_bum_-_bon_usage_des_inhibiteurs_de_la_pompe_a_protons_ipp.pdf)
 - [Zerbib F. Traitement endoscopique du reflux gastro-œsophagien : la quête du graal continue. GastroScoop. 27/04/2022.](https://www.snfge.org/gastroscoop/traitement-endoscopique-du-reflux-gastro-oesophagien-la-quete-du-graal-continue)
 - [Jouet P. Faut-il diminuer les FODMAPs en cas de RGO ? GastroScoop. 28/07/2021.](https://www.snfge.org/gastroscoop/faut-il-diminuer-les-fodmaps-en-cas-de-rgo)

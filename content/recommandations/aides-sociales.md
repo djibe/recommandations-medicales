@@ -60,8 +60,6 @@ Ces aides à la prise en charge médicale et aux soins doivent être communiqué
 - Curatelle
 - Tutelle
 
-> *[FranceAlzheimer](https://aides.francealzheimer.org)*
-
 ## Le droit des patients
 
 - [Accès au dossier médical]({{< relref "acces-dossier-medical.md" >}})

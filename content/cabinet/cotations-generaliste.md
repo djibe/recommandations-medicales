@@ -158,13 +158,13 @@ Cotations NGAP disponibles en sus de la consultation ou de la visite.
 
 Actes CCAM importants non cumulables ou cumulables avec une consultation (3 au total: ECG, frottis cervico-vaginal et biopsie cutanée).
 
-{{< table title="Actes importants pour le médecin généraliste. Majoration M possible si urgence pour les actes mentionnés" >}}
+{{< table title="Actes importants pour le médecin généraliste. Majoration M possible si urgence pour les actes mentionnés" class="table-wrap" >}}
 | Code CCAM   | Description                                                               | Tarif&nbsp;(€) |
 |-------------|---------------------------------------------------------------------------|----------:|
 | + DEQP003   | ECG 12 dérivations                                                        |     14,26 |
 | + JKHD001   | Frottis cervico-vaginal                                                   |     12,46 |
-| ALQP003     | Test standardisé d'évaluation d'une dépression (max 1/an)                 |     69,12 |
-| ALQP006     | Test standardisé d'évaluation d'un déficit cognitif (max 1/an)            |     69,12 |
+| ALQP003     | Test standardisé d'évaluation d'une dépression: {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, Beck, MADRS, MMPI et STAI (max 1/an) | 69,12 |
+| ALQP006     | Test standardisé d'évaluation d'un déficit cognitif: [MMSE](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/mmse.pdf), [MoCA](/print/moca.pdf), GP-COG, MIS, Codex, 5 mots de Dubois (max 1/an) | 69,12 |
 | JKLD001     | Pose d'un stérilet                                                        |     38,40 |
 | JKKD001     | Changement d'un stérilet                                                  |     38,40 |
 | QZGA002     | Ablation ou changement d'un implant                                       |     41,80 |
@@ -193,3 +193,9 @@ L'extraction de cérumen (CAGD001) à 19,25€ n'a pas d'intérêt.
 ### Bibliographie en attente
 
 [Suhard V. Historique des conventions médicales. IRDES. 2022. (PDF)](https://www.irdes.fr/documentation/syntheses/historique-des-conventions-medicales.pdf)
+
+{{% modal title="Echelle de depression de Hamilton" id="modal-hamilton"%}}
+
+{{< scores/hamilton >}}
+
+{{% /modal %}}

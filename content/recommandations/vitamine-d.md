@@ -37,7 +37,7 @@ Vitamine D
 : La vitamine D participe à la régulation du métabolisme phosphocalcique et prévient: **rachitisme, ostéomalacie, douleurs musculaires diffuses**.  
 L'unité internationale est le **nmol/L**.
 : **Bénéfices de la supplémentation en vitamine D**: elle réduit les fractures non vertébrales après 65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 75 nmol/L (30 ng/mL). Aliments riches: poissons et produits laitiers.
-: Selon l'Inserm, une carence en vitamine D serait fortement liée au développement de la maladie d'Alzheimer. D'autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés (*[Féart 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)*).
+: Selon l'Inserm, une carence en vitamine D serait fortement liée au développement de la [maladie d'Alzheimer]({{< relref "maladie-alzheimer.md" >}}). D'autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés (*[Féart 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)*).
 
 Carence en vitamine D de l'adulte et de l'enfant
 : Taux sérique de vitamine D < 30 nmol/L.  

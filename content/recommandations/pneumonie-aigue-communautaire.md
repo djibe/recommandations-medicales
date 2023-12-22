@@ -8,7 +8,7 @@ synonyms = ["Pneumopathies infectieuses communautaires"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-15T17:05:04+02:00"
 publishdate = "2023-05-17"
-lastmod = "2023-12-21"
+lastmod = "2023-12-22"
 specialites = ["pneumologie"]
 annees = "2020"
 sources = ["SPILF", "Afssaps"]
@@ -196,7 +196,7 @@ Présentation de pneumonie aiguë communautaire bactérienne **la plus fréquent
   - Fébricule
   - Toux sèche persistante (3-4 semaines), sifflements
   - Syndrome pseudo-grippal avec myalgies, conjonctivite, diarrhées, éruption cutanée maculopapuleuse
-- PCR nasopharyngée *Mycoplasma pneumoniae* et *Chlamydophila pneumoniae* (ou *Chlamydia pneumoniae*)
+- Inutiles en ville: PCR nasopharyngée *Mycoplasma pneumoniae* et *Chlamydophila pneumoniae* (ou *Chlamydia pneumoniae*)
 - Si biologie: anémie hémolytique, cytolyse hépatique
 - Opacités multifocales
 - Traitement antibiotique par macrolide
@@ -232,7 +232,7 @@ Radiographie thoracique de face systématique (contrôle à 1 mois chez l'enfant
 Autres bilans ambulatoires de la pneumopathie infectieuse:
 
 - Pas d'examens biologiques en ambulatoire (*CEP*) mais proposer une **sérologie VIH**
-- Si suspicion de pneumopathie à bactérie atypique bien tolérée: PCR naso-pharyngée *Mycoplasma pneumoniae* (108€ non remboursés), *Chlamydophila pneumoniae* (147€ non remboursés) + sérologie *M. pneumoniae* (après J7)
+- Inutiles en ville - suspicion de pneumopathie à bactérie atypique bien tolérée: PCR naso-pharyngée *Mycoplasma pneumoniae* (108€ non remboursés), *Chlamydophila pneumoniae* (147€ non remboursés) + sérologie *M. pneumoniae* (après J7)
 - Le scanner thoracique est un examen de seconde intention devant un cas ou une évolution atypique
 - Électrophorèse des protéines sériques chez le sujet jeune avec germe encapsulé (pneumocoque, *H. influenzae* - *CEP*)  
   Recherche une hypogammaglobulinémie.
@@ -400,6 +400,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Réponse rapide sur la prise en charge diagnostique et thérapeutique des pneumonies atypiques à Mycoplasma pneumoniae en ambulatoire chez l'enfant et l'adulte. 22/12/2023.](https://www.has-sante.fr/jcms/p_3482996/fr/reponse-rapide-sur-la-prise-en-charge-diagnostique-et-therapeutique-des-pneumonies-atypiques-a-mycoplasma-pneumoniae-en-ambulatoire-chez-l-enfant-et-l-adulte)
 - [Cohen R et al. Mycoplasma pneumoniae. Infovac-France Bulletin Supplémentaire N°11. Novembre 2023.](https://www.infovac.fr/actualites/bulletin-supplementaire-n-11-novembre-2023-mycoplasma-pneumoniae)
 - [CMIT. Infections broncho-pulmonaires communautaires de l'adulte et de l'enfant. Item 154. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-154.pdf)
 - [Collège des Enseignants de Pneumologie (CEP). Infections broncho-pulmonaires communautaires de l'adulte. Item 154. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_154_INFECTIONS_RESPIRATOIRES_2023.pdf)

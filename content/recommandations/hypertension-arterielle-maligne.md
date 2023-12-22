@@ -48,7 +48,7 @@ Autres urgences hypertensives: AVC, dissection aortique, infarctus du myocarde, 
 - Antécédents
   - Hypertension artérielle  
   Ancienneté et observance.
-  - Autres ATCD médicaux
+  - Autres antécédents médicaux
 - Traitements en cours
 - Toxiques
 - Symptômes
