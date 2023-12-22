@@ -6,7 +6,7 @@ longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-05T12:18:00+02:00"
 publishdate = "2022-12-08"
-lastmod = "2023-12-21"
+lastmod = "2023-12-22"
 annees = "2023"
 sources = ["CNOM"]
 tags = []
@@ -24,7 +24,7 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 
 > Aucune donnée n'est transmise (comme partout ailleurs sur **RecoMédicales**)
 
-<form class="card card-body shadow-none border flex-wrap mb-3" id="contract-generator">
+<form class="card card-body shadow-none border flex-wrap mb-3" id="contract-generator" onsubmit="if (this.checkValidity()) { printPageArea('contract-generated') }">
 <fieldset>
 <legend class="typography-overline">Médecin installé</legend>
 <div class="form-group d-flex">
@@ -35,7 +35,7 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 </div>
 <div class="form-group floating-label textfield-box form-ripple">
   <label for="contract-name">Prénom et NOM du médecin installé</label>
-  <input class="form-control" id="contract-name" type="text" autocomplete="name" required>
+  <input class="form-control" id="contract-name" type="text" autocomplete="name" required oninvalid="setCustomValidity('Nom manquant')" onchange="this.setCustomValidity('')">
 </div>
 <div class="form-group floating-label textfield-box form-ripple">
   <label for="contract-address">Adresse du médecin installé</label>
@@ -48,7 +48,7 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 </div>
 <div class="form-group floating-label textfield-box form-ripple w-50">
   <label for="contract-inscription">RPPS</label>
-  <input class="form-control" id="contract-inscription" type="text" inputmode="numeric" pattern="[0-9]{11}" aria-label="RPPS à 11 chiffres" maxlength="11" required>
+  <input class="form-control" id="contract-inscription" type="text" inputmode="numeric" pattern="[0-9]{11}" aria-label="RPPS à 11 chiffres" maxlength="11" required oninvalid="setCustomValidity('RPPS non valide')" onchange="this.setCustomValidity('')">
   <small class="form-text">Le RPPS a 11 chiffres</small>
 </div>
 </fieldset>
@@ -62,17 +62,17 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 </div>
 <div class="form-group floating-label textfield-box form-ripple">
   <label for="contract-name-substitute">Prénom et NOM du remplaçant</label>
-  <input class="form-control" id="contract-name-substitute" type="text" autocomplete="off" required>
+  <input class="form-control" id="contract-name-substitute" type="text" autocomplete="off" required oninvalid="setCustomValidity('Nom manquant')" onchange="this.setCustomValidity('')">
 </div>
 <div class="form-group floating-label textfield-box form-ripple">
   <label for="contract-address-substitute">Adresse du remplaçant</label>
-  <input class="form-control" id="contract-address-substitute" type="text" autocomplete="off" required>
+  <input class="form-control" id="contract-address-substitute" type="text" autocomplete="off" required oninvalid="setCustomValidity('Adresse manquante')" onchange="this.setCustomValidity('')">
   <small class="form-text">Adresse complète sur 1 ligne</small>
 </div>
 <div class="d-flex">
 <div class="form-group floating-label textfield-box form-ripple w-50 mr-3">
   <label for="contract-inscription-substitute">RPPS ou licence</label>
-  <input class="form-control" id="contract-inscription-substitute" type="text" required>
+  <input class="form-control" id="contract-inscription-substitute" type="text" required oninvalid="setCustomValidity('RPPS non valide')" onchange="this.setCustomValidity('')">
 </div>
 <div class="form-group floating-label textfield-box form-ripple w-50">
   <label class="mb-2" for="contract-urssaf">Siret</label>
@@ -93,7 +93,7 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 </div>
 <div class="form-group floating-label textfield-box form-ripple w-50">
   <label for="contract-retrocession">Rétrocession (%)</label>
-  <input class="form-control" id="contract-retrocession" type="number" min="20" max="100" required>
+  <input class="form-control" id="contract-retrocession" type="number" inputmode="numeric" min="20" max="100" required oninvalid="setCustomValidity('Rétrocession manquante')" onchange="this.setCustomValidity('')">
 </div>
 </div>
 <div class="form-group floating-label textfield-box">
@@ -110,7 +110,7 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
 
 </fieldset>
 <p class="text-center my-3">Chrome/Edge: cliquez ici avant de lancer l'impression</p>
-<button class="btn btn-outline-primary d-print-none mt-4" type="button" id="contract-btn" onclick="printPageArea('contract-generated')">
+<button class="btn btn-outline-primary d-print-none mt-4" type="submit" id="contract-btn" >
   <svg class="svg-primary mr-2" aria-hidden="true" height="24" viewBox="0 0 24 24" width="24"><path d="M19 8h-1V3H6v5H5c-1.66 0-3 1.34-3 3v6h4v4h12v-4h4v-6c0-1.66-1.34-3-3-3zM8 5h8v3H8V5zm8 12v2H8v-4h8v2zm2-2v-2H6v2H4v-4c0-.55.45-1 1-1h14c.55 0 1 .45 1 1v4h-2z"/><circle cx="18" cy="11.5" r="1"/></svg> Imprimer le contrat
 </button>
 </form>
