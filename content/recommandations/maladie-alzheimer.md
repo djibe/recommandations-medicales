@@ -3,6 +3,7 @@ title = "Maladie d'Alzheimer et démences"
 titleSeo = "Maladie Alzheimer"
 prefix = "la "
 description = "Recommandations pour le diagnostic, le traitement et la prise en charge de la maladie d'Alzheimer. Démence, test MMSE, autonomie, protection juridique, ateliers"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-12-17T21:22:00+01:00"
@@ -169,7 +170,7 @@ Imagerie systématique par IRM cérébrale pour le bilan de démence.
 - Troubles du langage, déglutition: orthophonie
 - Interventions non médicamenteuses  
   Art-thérapie, hortithérapie, interventions d'animaux, danse, musicothérapie, réhabilitation cognitive, stimulation multisensorielle, thérapie par réminiscence.
-- [Podologue]({{< relref "soins-podologiques-personne-risque.md" >}})
+- Podologue
 - Protection
   - [Protection juridique](https://www.service-public.fr/particuliers/vosdroits/N155)
   - Permis de conduire: incompatibilité sauf avis du spécialiste (Article 4.4.2 du JO)
@@ -180,7 +181,7 @@ Imagerie systématique par IRM cérébrale pour le bilan de démence.
 - Personne de confiance
 - Assistant social: [APA]({{< relref "allocation-personnalisee-autonomie.md" >}}), MDPH
 - Information: maisons pour l'autonomie et l'intégration des malades Alzheimer (MAIA), structures de répit
-- Associations de patients: [France Alzheimer](https://guide.francealzheimer.org/)
+- Associations de patients: [France Alzheimer](https://guide.francealzheimer.org)
 
 Ne pas proposer: mélatonine, acupuncture (*NICE*), Ginkgo biloba (*Prescrire*), vitamine E, plantes
 {.alert .alert-warning}

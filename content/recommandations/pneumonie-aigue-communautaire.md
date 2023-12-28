@@ -36,7 +36,7 @@ flowchart = true
 
 {{%/article-summary%}}
 
-<div class="card card-hover my-3 my-xl-5" aria-label="Aide au choix de l'antibiothérapie pour pneumonie aiguë communautaire non grave">
+<div class="card card-hover my-3 my-xl-5">
   <ul class="nav nav-tabs nav-justified mb-4" role="tablist">
   <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-adulte" data-toggle="tab" data-target="#nav-pna-adulte" role="tab" aria-controls="nav-pna-adulte" aria-selected="true">Adulte</button></li>
   <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-enfant" data-toggle="tab" data-target="#nav-pna-enfant" role="tab" aria-controls="nav-pna-enfant" aria-selected="false">Enfant</button></li>
@@ -62,8 +62,8 @@ Bactérie atypique ou Légionelle: [clarithromycine](https://base-donnees-publiq
 - Si 2e échec ou aggravation rapide: hospitalisation
 - [Déclaration obligatoire](https://www.formulaires.service-public.fr/gf/cerfa_12202_02.do) de la Légionelle
 
-  </div>
-  <div class="tab-pane fade" id="nav-pna-enfant" role="tabpanel" aria-labelledby="nav-tab-enfant">
+</div>
+<div class="tab-pane fade" id="nav-pna-enfant" role="tabpanel" aria-labelledby="nav-tab-enfant">
 
 Amoxicilline 80-100 mg/kg/j en 3 prises (max 3 g/j) pendant **5 jours**
 

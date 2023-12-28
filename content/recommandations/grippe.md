@@ -45,14 +45,6 @@ Maladie cardiovasculaire, risque d'infarctus du myocarde multiplié par 6-10 dan
 - Extra-pulmonaire: myocardite, péricardite, encéphalite
 - Décompensation d'une comorbidité
 
-### Diagnostic différentiel
-
-Diagnostics à étayer devant un tableau de toux aiguë:
-
-- Bronchite ou pneumonie virale ou bactérienne (VRS, coronavirus, adénovirus, [coqueluche]({{< relref "coqueluche.md" >}}))
-- Toux pneumo-allergologique: allergie, [asthme]({{< relref "asthme.md" >}})
-- Toux mécanique avec surinfection: tumeur, compression trachéale, corps étranger
-
 ### Épidémiologie de la grippe en France
 
 - 10.000 morts/an dont +90% chez les +65 ans.
@@ -118,11 +110,11 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 Autres étiologies de toux aiguë:
 
 - Infectieuse
-  - Covid-19
+  - [Covid-19]({{< relref "covid-19.md" >}})
   - Bronchite
-  - Pneumonie aiguë communautaire ou virale (VRS ...)
-  - Coqueluche
-- Pneumo-allergique: allergie, asthme
+  - [Pneumonie aiguë communautaire]({{< relref "pneumonie-aigue-communautaire.md" >}}) ou virale (VRS, coronavirus, adénovirus ...)
+  - [Coqueluche]({{< relref "coqueluche.md" >}})
+- Pneumo-allergique: allergie, [asthme]({{< relref "asthme.md" >}})
 - Mécanique avec surinfection: tumeur, compression trachéale, corps étranger
 
 {{% /collapse %}}
