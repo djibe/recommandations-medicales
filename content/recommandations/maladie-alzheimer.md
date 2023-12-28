@@ -15,7 +15,6 @@ tags = ["chute", "demence", "depression", "geriatrie", "SAS", "TSH", "VIH"]
 anglais = ["Alzheimer's disease"]
 sctid = "26929004"
 icd10 = "G30.9"
-draft = true
 image = true
 imageSrc = "Lésions cérébrales de la maladie d'Alzheimer. derivative work: Garrondo: ADEAR: Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging, Public domain, via Wikimedia Commons"
 todo = "flow, biblio IADL simplifiée"
