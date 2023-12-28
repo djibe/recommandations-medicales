@@ -8,7 +8,7 @@ synonyms = ["Arythmie complète par fibrillation auriculaire (ACFA)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-05T17:43:41+02:00"
 publishdate = "2022-02-10"
-lastmod = "2023-12-14"
+lastmod = "2023-12-27"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "ESH", "HAS"]
@@ -212,7 +212,8 @@ Envisager un ECG de dépistage systématique ≥ 75 ans (ou avec dispositif conn
 ### Bilan devant une fibrillation atriale
 
 - NFS
-- Ionogramme sanguin, créatininémie, DFG selon {{< scores/ckd-epi >}}
+- Ionogramme sanguin
+- Créatininémie, DFG selon {{< scores/ckd-epi >}}
 - Glycémie à jeun
 - TP, TCA
 - TSH
@@ -266,8 +267,9 @@ Recommandations générales pour la prise en charge de la fibrillation atriale:
 - Hypertension artérielle
   - Cible de la population générale (< 130/80): 120-129 / 70-79 mmHg
   - Préférer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, anti-aldostérone
-- Éducation thérapeutique du patient et son entourage (min /6 mois)
-- [ALD n°5]({{< relref "affection-longue-duree.md" >}})
+- Éducation thérapeutique du patient et son entourage (min tous les 6 mois)
+- [ALD n°5]({{< relref "affection-longue-duree.md" >}})  
+  La FA régularisée sans salves n'est pas concernée.
 
 ### Anticoagulation
 
@@ -401,13 +403,13 @@ graph TB
 
 {{< youtube id="3HeRh1Q25kQ" title="Parcours de soin chez un patient avec Fibrillation Atriale (Fréquence Médicale)" >}}
 
+- [HAS. Fibrillation auriculaire. Actes et prestations Affection de longue durée. 2023.](https://www.has-sante.fr/jcms/c_568395/fr/ald-n-5-fibrillation-auriculaire)
 - {{< references/esh-2023 >}}
 - [US Preventive Services Task Force. Screening for Atrial Fibrillation: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2021.23732)
 - {{< references/esc-cvd >}}
 - [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. 2021.](https://doi.org/10.1093/eurheartj/ehaa612)
 - Prescrire Redaction. Fibrillation auriculaire. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Collège National des Enseignants de Cardiologie. Fibrillation atriale. Item 230 - UE8. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch14_fibrillation_atriale.pdf)
-- [HAS. Fibrillation auriculaire. Actes et prestations Affection de longue durée. Juillet 2015.](https://www.has-sante.fr/jcms/c_568395/fr/ald-n-5-fibrillation-auriculaire)
 - [HAS. Fibrillation atriale. Guide parcours de soins. Février 2014.](https://www.has-sante.fr/jcms/c_1741768/fr/guide-parcours-de-soins-fibrillation-atriale)
 - [Société Française de Gériatrie et Gérontologie et Société Française de Cardiologie. Prise en charge de la fibrillation atriale du sujet âgé. La Revue de Gériatrie. 2013. (PDF)](http://www.omedit-idf.fr/wp-content/uploads/2015/02/CV-antico-recoFASFGGSFC2013.pdf)
 

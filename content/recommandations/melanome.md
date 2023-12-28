@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-29T14:54:41+02:00"
 publishdate = "2020-11-30"
-lastmod = "2023-12-07"
+lastmod = "2023-12-27"
 specialites = ["dermatologie"]
 annees = "2022"
 sources = ["EADO", "HAS", "SFDermato"]
@@ -29,7 +29,7 @@ flowchart = true
 - Personnes à risque de mélanome: auto-examen cutané tous les 3 mois et consultation annuelle du dermatologue
 - Une lésion mélanocytaire est suspecte si elle remplit ≥ 2 critères ABCDE
 - Un nævus est suspect s'il est différent des autres
-- Suspicion de mélanome = avis dermatologique en semi-urgence
+- Suspicion de mélanome = avis dermatologique en semi-urgence (éviter la téléexpertise pour une lésion suspecte)
 - Cabines de bronzage = cancérigènes certains
 
 {{%/article-summary%}}
@@ -170,6 +170,7 @@ Un mélanome est lésion pigmentée avec les critères ABCDE suivants:
 - Inspection et palpation de l'ensemble de la peau et des muqueuses accessibles  
   Recherche mélanome, nævus atypique, nodules sous-cutanés.
 - Palpation des aires ganglionnaires
+- La téléexpertise est défaillante pour les lésions suspectes (*[Desmoulins 2022](https://dune.univ-angers.fr/documents/dune14712)*)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -341,6 +342,7 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 - [Garbe C et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00152-6/fulltext)
 - [Garbe C et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00228-3/fulltext)
 - [INCa. << L'ombre, c'est l'endroit le plus cool de l'été ! >>: la nouvelle campagne d'information de l'Institut national du cancer sur la prévention des risques solaires. 04/07/2022.](https://www.e-cancer.fr/Actualites-et-evenements/Actualites/L-ombre-c-est-l-endroit-le-plus-cool-de-l-ete-!-la-nouvelle-campagne-d-information-de-l-Institut-national-du-cancer-sur-la-prevention-des-risques-solaires)
+- [Desmoulins E. Téléexpertise dermatologique à partir de photographies prises avec un smartphone par des médecins généralistes en cas de suspicion de mélanome : évaluation de la concordance de prise en charge. Thèse d'exercice en médecine. 2022.](https://dune.univ-angers.fr/documents/dune14712)
 - [HAS. Mélanome cutané : la détection précoce est essentielle. 11/02/2020.](https://www.has-sante.fr/jcms/pprd_2974838/fr/melanome-cutane-la-detection-precoce-est-essentielle?fbclid=IwAR0lsNr1vfC7AvM-SeKrLZlYNiRb0q4bgx4_mgwkQRRjHLJNMPPIlmxWC_U)
 - [Oncologik. Mélanomes vulvaires et vaginaux. 24/01/2020.](http://oncologik.fr/referentiels/rrc/melanomes-vulvaires-et-vaginaux)
 - [Oncologik. Mélanome cutané. 22/03/2019.](http://oncologik.fr/referentiels/oncolor/melanome-cutane)

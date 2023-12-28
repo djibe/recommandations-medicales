@@ -629,6 +629,7 @@ Vidéos de formation sur l'ostéoporose.
 
 ### Bibliographie en attente
 
+- [Humphrey MB et al. 2022 American College of Rheumatology Guideline for the Prevention and Treatment of Glucocorticoid-Induced Osteoporosis. Arthritis Rheumatol. 2023.](https://rheumatology.org/glucocorticoid-induced-osteoporosis-guideline)
 - [Waterhouse M et al. The effect of monthly vitamin D supplementation on fractures: a tertiary outcome from the population-based, double-blind, randomised, placebo-controlled D-Health trial. The Lancet Diabetes & Endocrinology. 2023.](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(23)00063-3/fulltext)
 - [Qaseem A et al. Clinical Guidelines Committee of the American College of Physicians. Pharmacologic Treatment of Primary Osteoporosis or Low Bone Mass to Prevent Fractures in Adults: A Living Clinical Guideline From the American College of Physicians. Ann Intern Med. 2023.](https://www.acpjournals.org/doi/10.7326/M22-1034)
 - {{< references/college-endocrino >}}

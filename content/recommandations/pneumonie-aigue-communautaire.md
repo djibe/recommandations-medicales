@@ -8,10 +8,10 @@ synonyms = ["Pneumopathies infectieuses communautaires"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-15T17:05:04+02:00"
 publishdate = "2023-05-17"
-lastmod = "2023-12-22"
+lastmod = "2023-12-28"
 specialites = ["pneumologie"]
-annees = "2020"
-sources = ["SPILF", "Afssaps"]
+annees = "2023"
+sources = ["HAS", "SPILF", "Afssaps"]
 tags = ["dyspnee", "fatigue", "fievre", "geriatrie", "toux", "vaccin", "VIH"]
 anglais = ["Community acquired pneumonia (CAP)"]
 sctid = "385093006"
@@ -46,42 +46,46 @@ flowchart = true
   <div class="card-body tab-content">
   <div class="tab-pane fade show active" id="nav-pna-adulte" role="tabpanel" aria-labelledby="nav-tab-adulte">
 
-[Amoxicilline 1g](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) x 3/j pendant 5 jours
+[Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) 1g x 3/j pendant 5 jours
 
 ---
 
-Si allergie ou doute sur atypique: [pristinamycine 1g](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) x 3/j pendant 5 jours
+Si allergie ou doute sur atypique: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j pendant 5 jours
 
 ---
 
-Bactérie atypique ou Légionelle: [spiramycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66951450&typedoc=R) 3 MUI x 2-3/j pendant 14 jours
+Bactérie atypique ou Légionelle: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62913185&typedoc=R) 500 mg x 2/j pendant 5 jours
 
 ---
 
-- Échec à 48-72h: substituer par l'autre classe (macrolide ou amoxicilline), prolonger pour total de 7 jours et réévaluer 48-72h
+- Échec à 48-72h: substituer par l'autre classe (macrolide ou amoxicilline), prolonger pour total de 7 jours et réévaluer à 48-72h
 - Si 2e échec ou aggravation rapide: hospitalisation
 - [Déclaration obligatoire](https://www.formulaires.service-public.fr/gf/cerfa_12202_02.do) de la Légionelle
 
   </div>
   <div class="tab-pane fade" id="nav-pna-enfant" role="tabpanel" aria-labelledby="nav-tab-enfant">
 
-Amoxicilline 80-100 mg/kg/j en 3 prises (max 3 g/j) pendant 5 jours
+Amoxicilline 80-100 mg/kg/j en 3 prises (max 3 g/j) pendant **5 jours**
 
 ---
 
-Si allergie ou doute sur atypique et +6 ans et avale comprimés: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69494932&typedoc=R) 50 mg/kg en 2 prises pendant 10 jours
+Si allergie ou doute sur atypique et +6 ans et avale comprimés: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69494932&typedoc=R) 50 mg/kg/j en 2-3 prises pendant 7 jours
 
 ---
 
-Bactérie atypique: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose-kg x 2/j (max 1 g/j) pendant 10 jours (5 jours selon *Infovac 2023*)  
-ou [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67287098&typedoc=R) 1 dose-kg en 1 prise (soit 20 mg/kg/j, max 500 mg/j)
+Bactérie atypique:
+
+- [Clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose/kg x 2/j (max 1 g/j) pendant **5 jours**
+- [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67287098&typedoc=R) 1 dose/kg en 1 prise par jour (soit 20 mg/kg avant 25 kg, max 500 mg/j), 500 mg/j au-delà, pendant **3 jours** (uniquement si pneumocoque exclu)
+
+Si pénurie: voir *Traitement*
 
   </div>
   <div class="tab-pane fade" id="nav-pna-comorbide" role="tabpanel" aria-labelledby="nav-tab-comorbide">
 
 En l'absence de critères d'hospitalisation:
 
-- Amoxicilline - acide clavulanique 1g x 3/j pendant 7 jours
+- Amoxicilline-acide clavulanique 1g x 3/j pendant 7 jours
 - ou ceftriaxone IM 1g
 - voire lévofloxacine 0,5-1 g x 1/j
 
@@ -90,7 +94,7 @@ En l'absence de critères d'hospitalisation:
   </div>
   <div class="tab-pane fade" id="nav-pna-grippale" role="tabpanel" aria-labelledby="nav-tab-grippale">
 
-Amoxicilline - acide clavulanique 1g x 3/j pendant 7 jours
+Amoxicilline-acide clavulanique 1g x 3/j pendant 7 jours
 
 Alternative: pristinamycine 1g x 3/j pendant 7 jours (ou lévofloxacine 0,5 - 1 g/j)
 
@@ -226,7 +230,7 @@ La **pneumonie post-grippale** est une ré-aggravation à J5-J7 après le début
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Radiographie thoracique de face systématique (contrôle à 1 mois chez l'enfant)
+Radiographie thoracique de face systématique en inspiration (contrôle à 1 mois chez l'enfant)
 {.alert .alert-info}
 
 Autres bilans ambulatoires de la pneumopathie infectieuse:
@@ -329,7 +333,7 @@ Antibiothérapie selon l'orientation du tableau clinique.
 
 Traitement antibiotique probabiliste **pendant 5 jours** avec réévaluation systématique à 48-72 heures (7 jours en cas de persistance de syndrome infectieux, 14 jours pour la légionelle selon *SPILF 2020*):
 
-- [Amoxicilline 1g](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) x 3/j  
+- [Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) 1g x 3/j  
   Enfant: 80-100 mg/kg/j en 3 prises (max 3 g/j - *SFP*).
 - Si allergie: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j (Pyostacine® à partir de 6 ans, double sensibilité pneumocoque + intracellulaires)
 - Si échec à 48-72 heures: substituer par l'autre classe (macrolide ou amoxicilline) et réévaluer 48-72h
@@ -344,15 +348,31 @@ En cas de **pneumonies récidivantes** d'un même territoire, évoquer un **corp
 
 ##### Suspicion de pneumonie à bactérie atypique
 
-<mark>Macrolide [spiramycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66951450&typedoc=R) 3 MUI x 2-3/j pendant 14 jours</mark>  
-Peu d'interactions ou azithromycine, clarithromycine 500 mg x 2/j.
+<mark>Macrolide [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62913185&typedoc=R) 500 mg x 2/j pendant 5 jours</mark>  
+ou [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68133135&typedoc=R) 500 mg à J1 puis 250 mg/j de J2 à J5.
 
-Chez l'enfant (pas d'intracellulaire avant 3 ans) selon *GPIP 2016*:
+- Si pénurie:
+  - [spiramycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66951450&typedoc=R) 3 MUI x 3/j pendant 7 jours (peu d'interactions)
+  - [roxithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65250560&typedoc=R) 150 mg matin et soir pendant 10 jours
+- Si allergie ou contre-indication aux macrolides:
+  - [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j pendant 7 jours
+  - [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R): 2 x 100 mg en 1 prise par jour pendant 7 jours  
+    < 60 kg: 2 x 100 mg à J1 puis 100 mg/j pendant 6 jours.
+  - Dernier recours: lévofloxacine 500 mg en 1 prise par jour pendant 7 jours
 
-- <mark>Préférence: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose-kg x 2/j (max 1 g/j) pendant 10 jours</mark> (5 jours selon *Infovac 2023*)
-- Alternatives si allergie:
-  - [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67287098&typedoc=R) 1 dose-kg en 1 prise (soit 20 mg/kg avant 25 kg, max 500 mg/j), 500 mg/j au-delà pendant 3 jours (uniquement si pneumocoque exclu)
-  - +6 ans, aussi pour doute sur pneumocoque: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69494932&typedoc=R) 50 mg/kg en 2 prises pendant 10 jours (uniquement en comprimés)
+###### Traitement de la pneumonie atypique de l'enfant
+
+Antibiothérapie chez l'enfant (pas d'intracellulaire avant 3 ans) selon *HAS 2023*:
+
+- <mark>Préférence: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose/kg x 2/j (max 1 g/j) pendant **5 jours**</mark>
+- [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67287098&typedoc=R) 1 dose/kg en 1 prise par jour (soit 20 mg/kg avant 25 kg, max 500 mg/j), 500 mg/j au-delà, pendant **3 jours** (uniquement si pneumocoque exclu)
+- Si pénurie: [roxithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68658161&typedoc=R) pendant **10 jours**
+  - 6-11 kg: 25 mg matin et soir
+  - 12-23 kg: 50 mg matin et soir
+  - 24-40 kg: 100 mg matin et soir
+- Si allergie ou contre-indication aux macrolides:
+  - +6 ans, aussi pour doute sur pneumocoque: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69494932&typedoc=R) 50 mg/kg/j en 2-3 prises pendant 7 jours (cp uniquement)
+  - +12 ans: [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R) 2 x 100 mg à J1 puis 100 mg en 1 prise par jour pendant 6 jours
 
 #### PAC avec comorbidité, alcool ou sujet âgé ambulatoire
 
