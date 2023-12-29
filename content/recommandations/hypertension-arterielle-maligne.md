@@ -23,8 +23,9 @@ todo = "SEO hta maligne, https://academic.oup.com/ehjcvp/article/5/1/37/5079054"
 
 {{%article-summary%}}
 
+- L'hypertension artérielle maligne est rare et survient chez le sujet atteint ou non d'hypertension. Elle associe hypertension récente, PAS ≥ 180 mmHg ou PAD ≥ 110 mmHg avec atteinte d'organe
 - Interrogatoire et examen neurologique complet
-- Appel du {{<phone>}}15{{</phone>}} en cas d'hypertension grade 3 (PAS ≥ 180 mmHg ou PAD ≥ 110 mmHg) avec suspicion de souffrance viscérale
+- Appel du {{<phone>}}15{{</phone>}} en cas d'hypertension grade 3 (PAS ≥ 180 mmHg ou PAD ≥ 110 mmHg) avec suspicion de souffrance viscérale (rétinopathie, microangiopathie, encéphalopathie, CIVD)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

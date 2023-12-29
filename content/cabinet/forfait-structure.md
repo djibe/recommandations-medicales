@@ -4,7 +4,7 @@ description = "Explication et détail des indicateurs du Forfait structure pour 
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-16T09:20:00+02:00"
 publishdate = "2022-05-16"
-lastmod = "2023-12-13"
+lastmod = "2023-12-29"
 specialites = []
 annees = "2023"
 sources = ["CNAM"]
@@ -82,7 +82,11 @@ La rémunération dépend du taux de VSM complétés (au 30 juin 2024) pour les 
 - 50% de VSM complétés pour la patientèle ALD: 1500 €
 - 90% de VSM complétés pour la patientèle ALD: 3000 €
 
-Ce forfait est pondéré en fonction de la taille de la patientèle (450 patients selon [patientèle de référence](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000031249985) utilisée pour la calcul de la ROSP).
+Il est majoré de 20% si > 1/3 des documents sont déposés sous forme structurée (dépendant du logiciel utilisé).
+
+Il est également pondéré en fonction de la taille de la patientèle (référence de 800 patients selon la patientèle de référence (article 27.3) utilisée pour la calcul de la ROSP).
+
+> << Le nombre de points attribués au médecin est défini pour une patientèle moyenne de 800 patients pour un médecin traitant des patients de seize ans et plus, 600 patients pour un médecin traitant des patients âgés de moins de 16 ans >> – *Article 27.3 de la Convention médicale 2016*
 
 ## Abréviations
 
@@ -107,7 +111,9 @@ SAS
 
 ## Sources
 
-- [Ameli. Modernisation du cabinet médical avec le forfait structure. 12/12/2023.](https://www.ameli.fr/paris/medecin/exercice-liberal/vie-cabinet/aides-financieres/modernisation-cabinet)
+- [Assurance Maladie. Note méthodologique de la rémunération valorisant l'élaboration et l'alimentation du Volet de Synthèse Médicale (VSM) par les médecins traitants pour les patients en ALD. 2023. (PDF)](https://www.ameli.fr/sites/default/files/Documents/20231213_%20Note%20methodologique%20r%C3%A9mun%C3%A9ration%20VSM%20ALD_MT.pdf)
+- [Ameli Médecin. Modernisation du cabinet médical avec le forfait structure. 19/12/2023.](https://www.ameli.fr/paris/medecin/exercice-liberal/vie-cabinet/aides-financieres/modernisation-cabinet)
 - [Buzz Médecin. Forfait structure 2023 : c’est parti pour la déclaration. 11/12/2023.](https://comparatif-logiciels-medicaux.fr/actualite/forfait-structure-2023-cest-parti-pour-la-declaration)
 - [Avis relatif à l'avenant n°4](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046363095)
 - [Avenant 9](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044097701)
+- [Arrêté du 20 octobre 2016 portant approbation de la convention nationale organisant les rapports entre les médecins libéraux et l'assurance maladie signée le 25 août 2016](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000033285608)

@@ -45,10 +45,13 @@ h2,
   letter-spacing: normal;
 }
 
-h1,
+h1 {
+  text-wrap: balance;
+}
+
 h2,
 h3 {
-  text-wrap: balance;
+  text-wrap: pretty;
 }
 
 h1 {

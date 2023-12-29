@@ -100,11 +100,11 @@ Recommandations pour la prise en charge de l'otite moyenne aiguë selon l'âge:
 - À partir de 2 ans (adulte compris): traitement symptomatique uniquement  
   Antibiothérapie d'emblée si **symptômes mal tolérés, otorrhée ou aggravation après 48 heures de surveillance**.
 
-> *HAS, SPILF, GPIP 2021*
+> – *HAS, SPILF, GPIP 2021*
 
 Dans tous les cas, DRP, traitement antalgique voire antipyrétique et nouvelle consultation à 48-72 heures en l'absence d'amélioration.
 
-> << des affections mineures, comme une rhinopharyngite, une otite, une laryngite, une bronchite ou une diarrhée modérée, ne sont pas des contre-indications à la vaccination. >> (*[Infovac-France](https://www.infovac.fr/pratique-vaccinale/contre-indications-vaccinales)*)
+> << des affections mineures, comme une rhinopharyngite, une otite, une laryngite, une bronchite ou une diarrhée modérée, ne sont pas des contre-indications à la vaccination. >> – *[Infovac-France](https://www.infovac.fr/pratique-vaccinale/contre-indications-vaccinales)*
 
 Aucune indication aux AINS, corticoïdes ou antibiotiques auriculaires
 {.alert .alert-warning}
@@ -160,8 +160,9 @@ Les recommandations 2016 citaient des deuxièmes lignes d'antibiothérapie chez 
 graph TB
 OMAP["Otite moyenne aiguë<br>purulente (OMAP)"] --> 3mois("&lt; 3 mois<br>ou suspicion de<br>complication") --> hôpital("Avis hospitalier<br>urgent")
 style OMAP stroke:#4150f5, stroke-width:1px
-  OMAP --> 2ans("3-23 mois<br>ou ≥ 2 ans avec<br>symptômes intenses") --> antibiothérapie("<b>Antibiothérapie</b><br>—<br>- Amoxicilline<br>- Otite-conjonctivite:<br>+ a. clavulanique") -. Échec 48h .-> spécialiste(Avis spécialisé)
+  OMAP --> 2ans("3-23 mois<br>ou ≥ 2 ans avec<br>symptômes intenses") --> antibiothérapie("<b>Antibiothérapie</b><br>—<br>- Amoxicilline<br>- Otite + conjonctivite:<br>+ a. clavulanique") -. Échec 48h .-> spécialiste(Avis spécialisé)
   OMAP --> adulte("≥ 2 ans, adulte<br>avec symptômes<br>peu intenses") --> abstention(Abstention) -. Persistance à 48h .-> réévaluation("Réévaluation") -.-> antibiothérapie
+   antibiothérapie -. Allergie .-> allergie("Céfpodoxime ou céfuroxime<br>selon l'âge")
 {{< /mermaid >}}
 
 {{< card-link-external title="Quiz sur l'otoscopie" url="https://docs.google.com/forms/d/e/1FAIpQLSfPLdMfKAuKyrIQI0pWI8w-v72YwYRYjhjxXmJvJUHnH-7nrQ/viewform" subtitle="par MedQual" >}}

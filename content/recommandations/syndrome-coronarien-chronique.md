@@ -4,11 +4,11 @@ titleSeo = "Syndrome coronarien chronique"
 prefix = "le "
 description = "Recommandations pour la prise en charge du syndrome coronarien chronique (cardiopathie ischémique): angor, hypertension, dyslipidémie LDL statine, bêtabloquant"
 longHtml = true
-synonyms = ["Coronaropathie", "post-infarctus", "angor", "angine de poitrine"]
+synonyms = ["Coronaropathie", "angor", "angine de poitrine"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-28T16:29:03+02:00"
 publishdate = "2023-04-04"
-lastmod = "2023-08-24"
+lastmod = "2023-12-29"
 specialites = ["cardiologie"]
 annees = "2023"
 sources = ["ESH", "HAS", "ESC"]
@@ -18,25 +18,26 @@ sctid = "413844008"
 icd10 = "I25.9"
 image = true
 imageSrc = "Réseau des artères coronaires et de leurs branches. BruceBlaus, CC BY 3.0 via Wikimedia Commons"
-todo = "flowchart, aigu possible en AccT, DAPT pour HAS-BLED"
+todo = "BB utilisés, aigu possible en AccT, DAPT pour HAS-BLED"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- L'angor détermine un {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé à très élevé{{< /modal-btn >}} (si sténose objectivée). Évoquer devant une douleur épigastrique, mandibulaire, entre les épaules, ou le bras/poignet/main
-- Bilan initial du syndrome coronarien chronique: biologie, ECG 12D, échocardiographie et avis cardiologique
-- Mesures hygiéno-diétetiques: arrêt tabac et alcool, pression artérielle < 130/80 mmHg, sel 5-6 g/j, activité physique adaptée (APA), correction d'un surpoids
+- L'angor détermine un {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé à très élevé{{< /modal-btn >}} (si sténose objectivée). Évoquer devant une douleur épigastrique, mandibulaire, entre les épaules ou le bras/poignet/main
+- Bilan initial du syndrome coronarien chronique: biologie, ECG 12 dérivations, échocardiographie et avis cardiologique
+- Mesures hygiéno-diétetiques: arrêt tabac et alcool, pression artérielle cible inférieure à 130/80 mmHg, sel 5-6 g/j, activité physique adaptée (APA), correction d'un surpoids
 - Prise en charge de la cardiopathie ischémique:
   - Réadaptation cardiaque
   - Si symptômes à l'effort: dérivés nitrés d'action rapide
   - Anti-angineux de première intention: bêtabloquant (BB) ou {{< modal-btn modal-ica-angor >}}inhibiteur calcique (ICa){{< /modal-btn >}} (voire association) avec cible 55-60 bpm et 130 bpm à l'effort
-  - Aspirine 75-100 mg/j voire bithérapie après événement CV ou revascularisation, à considérer sinon
-  - Statine systématique: {{< modal-btn modal-rcv >}}LDL < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (< 0,55 si sténose à l'imagerie ou événement CV)
+  - Aspirine 75-100 mg/j voire bithérapie après événement cardiovasculaire ou revascularisation, à considérer sinon
+  - Statine systématique: {{< modal-btn modal-rcv >}}LDL < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (< 0,55 si sténose à l'imagerie ou maladie cardiovasculaire)
 
 Chapitres liés: [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [épreuve d'effort]({{< relref "epreuve-effort.md" >}})
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Syndrome coronarien chronique (SCC)
 : *ex* maladie coronarienne stable
@@ -61,7 +62,7 @@ Le syndrome coronarien chronique est la maladie cardiovasculaire chronique la pl
 
 {{< card-link-external title="Dépenses directes liées à la maladie coronaire chronique" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20cardio-neurovasculaires&refine.patho_niv2=Maladie%20coronaire&refine.patho_niv3=Maladie%20coronaire%20chronique">}}
 
-> Le contrôle médical est insuffisant: seulement 20% ont un LDL < 0,7 g/L et < 1/3 ont une tension < 130/80 mmHg (*CLARIFY*)
+> Le contrôle médical est insuffisant: seulement 20% ont un LDL < 0,7 g/L et < 1/3 ont une tension < 130/80 mmHg – étude *CLARIFY*
 {.alert .alert-warning}
 
 ### Abréviations
@@ -201,7 +202,7 @@ L'électrocardiogramme 12 dérivations est systématique.
 {{% /collapse %}}
 {{%collapse "Traitement du syndrome coronarien chronique" %}}
 
-> L'arrêt du tabac est la mesure la plus efficace avec une réduction de la mortalité de 36% après un infarctus du myocarde
+> L'arrêt du tabac est la mesure la plus efficace avec une réduction de la mortalité de 36 % après un infarctus du myocarde
 {.alert .alert-warning}
 
 Réévaluation du traitement à chaque consultation:
@@ -258,7 +259,7 @@ Mesures spécifiques pour la prise en charge de la cardiopathie ischémique stab
 
 La décision d'une revascularisation myocardique (stent ou autre) relève uniquement du cardiologue et n'est donc pas abordée ici.
 
-> Un suivi coordonné par un infirmier de pratique avancée (IPA) est équivalent au suivi par un généraliste (*[Wood 2008](https://pubmed.ncbi.nlm.nih.gov/18555911/)*)
+> Un suivi coordonné par un infirmier de pratique avancée (IPA) est équivalent au suivi par un généraliste – *[Wood 2008](https://pubmed.ncbi.nlm.nih.gov/18555911/)*
 
 {{< table title="Suggestion de titration du traitement anti-ischémique du patient atteint de coronaropathie à type de syndrome coronarien chronique selon le tableau clinique initial. Dr JB Fron d'après ESC 2019" >}}
 | Intention | Standard                        | FC > 80/min          | FC < 50/min   | Dysfonction VG/IC              | Hypotension artérielle             |
@@ -306,7 +307,7 @@ Ensemble de connaissances à acquérir au cours des consultations d'éducation t
 - Connaître les effets délétères du tabagisme et élaborer une balance bénéfices/risques du sevrage
 - S'engager dans le sevrage avec l'accompagnement nécessaire
 
-> *HAS*
+> – *HAS*
 > + FC cible 55-60/min, pas d'arrêt brutal des BB ou anti-angineux
 
 Connaissance des indications:
@@ -340,9 +341,19 @@ Prise en charge pour l'auto-gestion de la douleur angineuse:
 - Une dose peut être prise avant un effort déclenchant les symptômes
 - La trinitrine ne peut être prise avec d'autres vasodilatateurs comme les traitements de la dysfonction érectile (sildénafil Viagra®, tadalafil Cialis®)
 
-> *HAS* et *ESC*
+> – *HAS* et *ESC*
 
 {{% /collapse %}}
+{{%collapse "Prise en charge du syndrome coronarien chronique" "show" %}}
+
+{{< mermaid title="Prise en charge de la suspicion de syndrome coronarien chronique par le médecin généraliste. Dr JB Fron d'après ESH, HAS et ESC" >}}
+graph TB
+  syndrome["<b>Suspicion de syndrome<br>coronarien chronique</b><br>—<br>Facteurs de risque<br>cardiovasculaire:<br>- Angor<br>- Dyspnée d'effort"] --> clinique("<b>Clinique</b><br>—<br>- FRCV<br>- Antécédents<br>- Critères de l'angor<br>- Traitements<br>- Profession<br>- Symptômes cardiovasculaires:<br>repos, effort et nocturnes<br>- Dysfonction érectile<br>- Apnées du sommeil<br>- Retentissement<br>- Examen clinique") --> bilan("<b>Bilan</b><br>—<br>- NFS<br>- Glycémie, lipidique<br>- Rénal<br>- ECG 12D si disponible<br>± TSH, NT-proBNP<br>- Calcul du SCORE2") --> cardiologue(Cardiologue) -- Confirmation du SCC --> prise("<b>Mesures générales</b><br>—<br>- Écho TSA, AAA, IPS<br>- Sevrage tabagique<br>- Statine systématique<br>LDL &lt; 0,7 voire 0,55<br>- HTA: traiter dès normale haute,<br>cible &lt; 130/80 mmHg<br>- Régime méditerranéen<br>- Activité physique<br>- Éducation thérapeutique<br>- Vaccin grippe<br>- ALD 5 si ischémie<br>documentée<br>- Suivi rigoureux") --> traitements("<b>Traitements</b><br>—<br>Cas général:<br>- Réadaptation cardiaque ++<br>- À l'effort: dérivé nitré<br>- BB/ICa<br>- FC cible: 55-60 bpm<br>± Aspirine 75-100<br>- Suivi cardiologique annuel")
+    cardiologue -- Autre diagnostic --> autre(Suivi spécialisé)
+  style syndrome stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - {{< references/esh-2023 >}}

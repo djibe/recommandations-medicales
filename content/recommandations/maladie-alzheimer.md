@@ -8,26 +8,28 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-12-17T21:22:00+01:00"
 publishdate = "2023-12-22"
-lastmod = "2023-12-22"
+lastmod = "2023-12-29"
 specialites = ["neurologie"]
-annees = "2023"
-sources = ["HAS"]
+annees = "2018"
+sources = ["NICE", "HAS"]
 tags = ["chute", "demence", "depression", "geriatrie", "SAS", "TSH", "VIH"]
 anglais = ["Alzheimer's disease"]
 sctid = "26929004"
 icd10 = "G30.9"
 image = true
 imageSrc = "Lésions cérébrales de la maladie d'Alzheimer. derivative work: Garrondo: ADEAR: Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging, Public domain, via Wikimedia Commons"
-todo = "flow, biblio IADL simplifiée"
+todo = "biblio IADL simplifiée"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
 - La maladie d'Alzheimer est de loin la première cause de démence chez le sujet âgé
-- Examen clinique rigoureux en présence de l'entourage avec interrogatoire exhaustif (antécédents, mode de vie, fragilités, activités) et examen neurologique
-- Tests de repérage de la démence (ALQP006 69,12 €): {{< scores/mmse >}}, MoCA ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf)) ...
+- Examen clinique rigoureux en présence de l'entourage avec interrogatoire exhaustif ({{< modal-btn modal-iadl >}}autonomie{{< /modal-btn >}}, antécédents, mode de vie, fragilités, activités) et examen neurologique
+- Tests de repérage de la démence (cotation annuelle ALQP006 69,12 €): {{< scores/mmse >}}, MoCA ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf)) ...
 - Le bilan de la maladie d'Alzheimer comprend un bilan sanguin complet: NFS, bilan rénal et hépatique, TSH, vitamines B12 et folates, sérologies syphilis, VIH et Lyme
 - L'IRM cérébrale est systématique pour le bilan initial d'une démence
+- Adresser au Centre mémoire, neurologue ou gériatre pour le bilan spécialisé et l'annonce diagnostique
 - Le traitement de la maladie d'Alzheimer associe: activité physique adaptée et contrôle cardiovasculaire, rééducation (orthophonie), interventions non médicamenteuses (art-thérapie, danse, musicothérapie ...), protection juridique et du logement, information du patient et des aidants, aides à domicile
 
 {{%/article-summary%}}
@@ -50,6 +52,9 @@ HAS
 
 INM
 : interventions non médicamenteuses
+
+NICE
+: National Institute for Health and Care Excellence
 
 TCC
 : troubles chroniques du comportement
@@ -206,9 +211,20 @@ Le suivi par le généraliste est au moins annuel, comme pour le spécialiste.
 - Soins: orthophonie, infirmier, psychomotricité
 - Aidant: fatigue, santé
 - [Directives anticipées]({{< relref "directives-anticipees.md" >}})
-- Suspicion de maltraitance: Allô Maltraitrance (ALMA, {{<phone>}}3977{{</phone>}})
+- Suspicion de maltraitance: Allô Maltraitance (ALMA, {{<phone>}}3977{{</phone>}})
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la maladie d'Alzheimer" "show" %}}
+
+{{< mermaid title="Prise en charge de la suspicion de la maladie d'Alzheimer ou d'une démence par le médecin généraliste. Dr JB Fron d'après HAS et NICE" >}}
+graph TB
+  suspicion["<b>Suspicion de maladie<br>d'Alzheimer</b><br>—<br>Rapportés par le patient<br>ou l'entourage:<br>- Oublis<br>- Apathie<br>- Dyspraxies<br>- Perte d'autonomie"] --> clinique("<b>Clinique</b><br>—<br>En présence d'un proche:<br>- Antécédents<br>- Traitements<br>- Toxiques<br>- Mode de vie, entourage<br>- Études, professions<br>- Symptômes<br>- Autonomie: IADL simplifiée<br>- Fragilités: chutes,<br>dénutrition, apnées<br>- Dépister dépression/anxiété<br>- Test cognitif: MMSE, MoCA, GP-COG,<br>5 mots, horloge ...<br>- Examen clinique: cardiovasculaire,<br>neurologique") --> bilan("<b>Bilan</b><br>—<br>- Bilan standard<br>- Bilan rénal, hépatique<br>- Métabolique<br>- TSH<br>- Albuminémie, calcémie<br>- Vitamine B12, folate<br>- Sérologies syphilis, VIH, Lyme<br>- IRM cérébrale") -- Bilan anormal --> spécialiste("Bilan spécialisé:<br>Centre mémoire, neurologue, gériatre") -- "Alzheimer confirmé" --> traitement("<b>Traitement</b><br>—<br>- ALD 15<br>- Contrôle des FRCV,<br>chutes, nutrition,<br>vision, dentition,<br>pieds<br>- Psychologue, psychiatre<br>- Accueil de jour<br>± Orthophonie<br>- Interventions non médicamenteuses:<br>art-thérapie, animaux, danse, musicothérapie ...<br>- Protection juridique<br>- Personne de confiance<br>- Assistant social<br>- MAIA, structures de répit<br>- Associations") --> suivi("<b>Suivi</b><br>—<br>- Suivi spécialisé annuel<br>- Réévaluation autonomie,<br>fragilités, dangers<br>- Aidants<br>- Directives anticipées")
+    bilan -- Bilan normal --> répéter("Répéter l'enquête à<br>6-12 mois") -. Anormal .-> spécialiste
+      spécialiste -- Autre démence --> différentiel("- Maladie de Parkinson<br>- Corps de Lewy<br>- Paralysie supranucléaire<br>- Atrophie multisystématisée<br>- Dégénérescence corticobasale")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 {{< youtube id="UFkHk0wRr_I" title="La minute RECO HAS | Maladies neuroévolutives : accompagner à domicile" >}}

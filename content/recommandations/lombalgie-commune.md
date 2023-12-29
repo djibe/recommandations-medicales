@@ -7,7 +7,7 @@ synonyms = ["Poussée aiguë de lombalgie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-26T09:21:22+02:00"
 publishdate = "2021-10-26"
-lastmod = "2023-10-31"
+lastmod = "2023-12-19"
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["HAS"]
@@ -16,16 +16,17 @@ anglais = ["Low back pain"]
 sctid = "279039007"
 icd10 = "M54.5"
 image = true
-imageSrc = "Illustration des muscles dorsaux. kjpargeter / Freepik"
-todo = "questionnaires cliquables, flowchart"
+imageSrc = "Les muscles dorsaux. kjpargeter / Freepik"
+todo = "questionnaires cliquables"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
 - Ces recommandations concernent la lombalgie dégénérative (non traumatique, tumorale, infectieuse ou inflammatoire)
-- Toujours rechercher des signes d'alerte devant une lombalgie (drapeaux rouges ++)
-- << Le bon traitement, c'est le mouvement >> (*[Affiches pour la salle d'attente](https://www.ameli.fr/medecin/sante-prevention/pathologies/lombalgies/outils-prise-charge-lombalgie-commune)*)  
-  L'activité physique est le traitement principal des douleurs lombaires.
+- Toujours rechercher des [signes d'alerte](#signes-dalerte) devant une lombalgie (drapeaux rouges ++): âges extrêmes, traumatisme, fièvre, AEG ...
+- Pas de bilan dans les 6 premières semaines sauf anomalie: drapeau rouge, ménopause, corticothérapie ...
+- << Le bon traitement, c'est le mouvement >> (*[Affiches pour la salle d'attente](https://www.ameli.fr/medecin/sante-prevention/pathologies/lombalgies/outils-prise-charge-lombalgie-commune)*): l'activité physique est le traitement principal des douleurs lombaires
 - Renforcement musculaire dorsal: [Appli Activ' Dos](https://play.google.com/store/apps/details?id=fr.cnamts.samd)
 - On prononce lom-bago
 
@@ -49,10 +50,10 @@ Lombalgie récidivante
 
 - La lombalgie touche principalement les 40-60 ans sans prédominance de sexe
 - Évolution vers la chronicité: 6-8%
-- Impact économique: le coût annuel dépasse les 900 millions d'euros
+- Impact économique: +900 millions d'euros annuels
 - La lombalgie représente 30% des **arrêts de travail de +6 mois** et 20% des accidents du travail
 - 3<sup>e</sup> motif d'admission en invalidité
-- 2014-2017: 481.300 entrées aux Urgences, 10% hospitalisées
+- 2014-2017: 481.300 entrées aux Urgences, 10 % hospitalisées
 
 {{% /collapse %}}
 {{%collapse "Signes d'alerte" %}}
@@ -102,10 +103,12 @@ Arrêt > 4 semaines: rechercher drapeaux bleus et noirs et expertise avec le *m�
 
 ### Interrogatoire
 
+Signes et symptômes à rechercher devant un épisode de lombalgie:
+
 - Âge  
   Risque de fracture après 70 ans.
 - Antécédents personnels  
-  **Traumatisme récent**, tumeur, neurologique, infectieux ou inflammatoire-rhumatismal.
+  **Traumatisme récent**, [cancer](/tags/cancer/), neurologique, infectieux ou inflammatoire-rhumatismal.
 - Antécédents familiaux
 - Traitements  
   **Corticothérapie** prolongée (+3 mois, dont inhalée), iatrogénie ([statine]({{< relref "statines.md" >}}), gabapentine, ciclosporine, colchicine ...).
@@ -122,8 +125,7 @@ Arrêt > 4 semaines: rechercher drapeaux bleus et noirs et expertise avec le *m�
   - Examen et périmètre de marche déclaré
   - Douleurs neuropathiques ({{< modal-btn modal-score-dn4 >}}DN4{{< /modal-btn >}})
   - Rechercher un syndrome de la queue de cheval
-- Signes généraux  
-  AEG, fièvre.
+- Signes généraux: AEG, fièvre
 - Identifier les peurs, croyances, contexte psychologique et social (facteurs de risque de chronicité)  
   Explications sur la solidité de la colonne vertébrale. L'atteinte est musculaire ou ligamentaire.
 - Évaluation du risque de chronicité  
@@ -148,16 +150,15 @@ Arrêt > 4 semaines: rechercher drapeaux bleus et noirs et expertise avec le *m�
 - Signes négatifs
   - Douleurs: épines lombaires, sacro-iliaques, hanches, fessiers
 
-[Examen vidéo COFER du rachis lombaire](http://www.lecofer.org/semiologie.php)
+{{< card-link-external title="Examen vidéo du rachis lombaire" url="http://www.lecofer.org/semiologie.php" subtitle="par le COFER" >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Aucun bilan n'est recommandé dans les 6 premières semaines d'évolution de la lombalgie (sauf *Drapeau rouge*).  
-Expliquer au patient pourquoi l'imagerie n'est pas nécessaire
+Aucun bilan n'est recommandé dans les 6 premières semaines d'évolution de la lombalgie (sauf *Drapeau rouge*). Expliquer au patient pourquoi l'imagerie n'est pas nécessaire.
 {.alert .alert-info}
 
-Pas de renouvellement de l'imagerie sauf modification des symptômes. Expliquer les termes du compte-rendu au patient.
+**Ne pas renouveler l'imagerie** sauf modification des symptômes. **Expliquer** les termes du compte-rendu au patient.
 
 ### Radiographies rachidiennes
 
@@ -171,17 +172,19 @@ Indications aux radiographies pour lombalgie:
 - Antécédent de fracture vertébrale (*SFR 2018 ostéoporose*)
 - Corticothérapie prolongée, anti-aromatase/androgène (*SFR 2018 ostéoporose*)
 
-> << Il n'y a aucun parallélisme entre radiographies standards et clinique >> (*COFER*)
-{.alert .alert-info}
+> << Il n'y a aucun parallélisme entre radiographies standards et clinique >> – *COFER*
+{.alert .alert-info}>
 
 ### IRM lombaire
 
-Indications à l'IRM lombaire: lombalgie chronique, geste invasif prévu (infiltration épidurale ou chirurgie).
+Indications à l'IRM lombaire: lombalgie chronique (> 3 mois), geste invasif prévu (infiltration épidurale ou chirurgie).
+
+Scanner lombaire en cas de contre-indication à l'IRM.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la lombalgie aiguë" %}}
 
-> L'exercice physique est le traitement principal permettant une évolution favorable de la lombalgie (*HAS 2019*)
+> L'exercice physique est le traitement principal permettant une évolution favorable de la lombalgie – *HAS 2019*
 {.alert .alert-info}
 
 La prise en charge de la lombalgie est centrée sur le patient (bio-psycho-sociale) avec décisions partagées.
@@ -190,7 +193,7 @@ Recommandations pour le traitement et la prise en charge de la << poussée aigu�
 
 - Éducation du patient
   - Expliquer les termes et le pronostic favorable
-  - [Informations Ameli sur la lombalgie](https://www.ameli.fr/assure/sante/themes/lombalgie-aigue).
+  - [Informations Ameli sur la lombalgie](https://www.ameli.fr/assure/sante/themes/lombalgie-aigue)
 - Maintien d'une activité normale
 - Antalgiques pour la lombalgie aiguë
   - Le paracétamol ne fait pas mieux que le placebo (*Cochrane*)
@@ -226,6 +229,19 @@ Indications: facteurs psychosociaux faisant obstacle à leur rétablissement, é
 Ne pas utiliser: ultrasons, tractions lombaires.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la lombalgie aiguë" "show" %}}
+
+{{< mermaid title="Prise en charge de la poussée aiguë de lombalgie avec ou sans radiculalgie par le médecin généraliste. Drs JB Fron et Alaedine Benani d'après HAS 2019" >}}
+graph TB
+  lombalgie["<b>Poussée aiguë de lombalgie</b><br>avec ou sans radiculalgie"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements<br>- Histoire de la maladie<br>- Douleurs<br>- Examen clinique: neurologique,<br>rachidien") --> alerte("<b>Signes d'alerte ?</b><br>—<br>- Âges &lt; 20 ou &gt; 55<br>- Traumatisme, déformation<br>- Douleur constante, progressive,<br>inflammatoire<br>- Dorsalgie<br>- Antécédents tumoraux<br>- Corticothérapie prolongée<br>- Toxicomanie,<br>immunosuppression, VIH<br>- AEG<br>- Fièvre<br>- Déficit moteur, sphinctérien,<br>périnéal") == Non ==> commune("Lombalgie commune") --> traitement("<b>Traitement</b><br>—<br>- Information: bénin,<br>pas d'imagerie, exercices,<br>brochure<br>- Antalgie: chaleur, AINS,<br>pas d'opioïdes<br>- Mouvement +++<br>- Renforcement: Activ dos<br>± Arrêt de travail") -- "2-4 semaines" --> réévaluation("<b>Réévaluation</b><br>—<br>Douleurs, activités") -. "2 mois:<br>chronicisation" .-> chronique("- IRM lombaire<br>- Kinésithérapie<br>- Auto-exercices") --> réévaluation2("Réévaluation:<br>Centre douleur, rhumatologue,<br>chirurgien")
+      chronique -- Anomalie --> spécialiste("Spécialiste adapté")
+    réévaluation -.-> kiné
+    traitement -- Drapeau jaune --> kiné(Kinésithérapie) --> réévaluation
+    alerte -- "Oui<br>1-5 %" --> urgence("Prise en charge<br>urgente")
+  style lombalgie stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 {{< youtube id="YpejbojhWrY" title="La minute RECO HAS | Lombalgie commune (Dr Florent Bailly)" >}}
@@ -236,7 +252,7 @@ Ne pas utiliser: ultrasons, tractions lombaires.
 - Prescrire Redaction. Lombalgie aiguë chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - Prescrire Redaction. Signes de fracture vertébrale en cas de lombalgie récente. Rev Prescrire. Juin 2020.
 - [Collège Français des Enseignants en Rhumatologie (COFER). Rachialgies. Item 94 UE 5. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-3-0.php)
-- [HAS. Prise en charge du patient présentant une lombalgie commune. Mars 2019.](https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient-presentant-une-lombalgie-commune)
+- [HAS. Prise en charge du patient présentant une lombalgie commune. 2019.](https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient-presentant-une-lombalgie-commune)
 
 {{%/sources%}}
 {{% modal title="Questionnaire DN4" id="modal-score-dn4"%}}

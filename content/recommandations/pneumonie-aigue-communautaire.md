@@ -8,7 +8,7 @@ synonyms = ["Pneumopathies infectieuses communautaires"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-15T17:05:04+02:00"
 publishdate = "2023-05-17"
-lastmod = "2023-12-28"
+lastmod = "2023-12-29"
 specialites = ["pneumologie"]
 annees = "2023"
 sources = ["HAS", "SPILF", "Afssaps"]
@@ -408,10 +408,10 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
     gravité -- Oui --> hospitalisation(Hospitalisation)
       risque -- Oui --> hospitalisation
-      tableau --> âgé(Âgé, comorbidité) --> âgé2("Augmentin, C3G<br>ou FQAP") -- 48-72h --> âgé3("Réévaluation<br>Échec = hospitalisation")
-      tableau --> pneumocoque(Pneumocoque) --> amoxicilline(Amoxicilline) -- 48-72h --> pneumo2("Réévaluation<br>Échec: substituer<br>par macrolide")
-      tableau --> douteux(Doute pneumo-intracellulaire) --> douteux1("Amoxicilline<br>ou pristinamycine") -- 48-72h --> douteux2("Réévaluation<br>Échec: substituer<br>par lévofloxacine<br>ou pristinamycine<br>(Hospi si 1re ligne)")
-      tableau --> intracellulaire(Atypique) --> macrolide(Macrolide) -- 48-72h --> intra2(Réévaluation<br>Échec: substituer<br>par amoxicilline)
+      tableau --> âgé("<b>Âgé, comorbidité</b><br>—<br>Augmentin, C3G<br>ou FQAP") -- 48-72 h --> âgé3(Réévaluation) -. Échec .-> hospitalisationAgé(Hospitalisation)
+      tableau --> pneumocoque("<b>Pneumocoque</b><br>—<br>Amoxicilline") -- 48-72 h --> pneumo2(Réévaluation) -. Échec .-> pneumo3("Substituer<br>par macrolide")
+      tableau --> douteux("<b>Doute pneumo/intracellulaire</b><br>—<br>Amoxicilline<br>ou pristinamycine") -- 48-72 h --> douteux2(Réévaluation) -. Échec .-> douteux3("Substituer<br>par lévofloxacine<br>ou pristinamycine<br>(Hospitalisation si<br>utilisés en 1re ligne)")
+      tableau --> intracellulaire("<b>Atypique</b><br>—<br>Macrolide") -- 48-72 h --> intra2(Réévaluation) -. Échec .-> intra3("Substituer<br>par amoxicilline")
 {{< /mermaid >}}
 
 > Hospitalisation si échec de la 2e ligne de traitement.  

@@ -196,7 +196,7 @@ Antibiothérapie type amoxicilline + acide clavulanique (Augmentin) ou fluoroqui
 
 {{< mermaid title="Prise en charge de la suspicion d'appendice aiguë par le médecin généraliste. Dr JB Fron d'après SFCD 2021 et Collèges" >}}
 graph TB
-  suspicion["<b>Suspicion d'appendicite aiguë</b><br>—<br>- À tout âge<br>- Douleurs en FID persistantes<br>- Sensibilité ou défense<br>en FID<br>- ± Fièvre, tbles transit"] --> urgences("Bilan aux Urgences<br>ou échographie abdominale<br>+ bilan<br>en filière rapide")
+  suspicion["<b>Suspicion d'appendicite aiguë</b><br>—<br>À tout âge:<br>- Douleurs en FID persistantes<br>- Sensibilité ou défense<br>en FID<br>- ± Fièvre, tbles transit"] --> urgences("Bilan aux Urgences<br>ou échographie abdominale<br>+ bilan<br>en filière rapide")
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
