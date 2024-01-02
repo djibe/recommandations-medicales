@@ -61,6 +61,9 @@ EOGD
 HP
 : *Helicobacter pylori*
 
+INCa
+: Institut national du cancer
+
 IPP
 : Inhibiteurs de la pompe à protons
 

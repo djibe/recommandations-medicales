@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-10T18:52:41+02:00"
 publishdate = "2021-02-10"
-lastmod = "2023-07-10"
+lastmod = "2023-12-30"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
 sources = ["MinSanté", "Pasteur"]
@@ -18,6 +18,7 @@ icd10 = "B15.9"
 image = true
 imageSrc = "Pays à risque modéré à élevé d'infection par le virus de l'hépatite A. OMS 2010"
 todo = "symptômes/fatigue, vaccin combiné"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -51,8 +52,7 @@ Indications à la vaccination hépatite A:
 
 - Jeune résidant en établissement de l'enfance en situation de handicap
 - Mucoviscidose
-- Pathologie à risque d'hépatopathie chronique  
-  [Hépatite B]({{< relref "hepatite-b.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}), [alcool]({{< relref "sevrage-alcool.md" >}}).
+- Pathologie à risque d'hépatopathie chronique: [hépatite B]({{< relref "hepatite-b.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}), [alcool]({{< relref "sevrage-alcool.md" >}})
 - Enfant de +1 an né de personne venant de zone endémique et susceptible d'y séjourner
 - [HSH]({{< relref "hsh.md" >}})
 - Entourage d'un cas d'hépatite A aiguë  
@@ -111,6 +111,16 @@ Rappel à 6 mois ou plus selon la spécialité administrée.
 Vaccins combinés: VHA-typhoïde Tyavax® et VHA-VHB Twinrix adulte®
 
 {{% /collapse %}}
+{{%collapse "Prévention de l'hépatite A" "show" %}}
+
+{{< mermaid title="Prise en charge de la prévention de l'hépatite A par le médecin généraliste. Dr JB Fron d'après Ministère de la Santé" >}}
+graph TB
+  prévention["<b>Prévention de l'hépatite A</b>"] --> vaccination("<b>Vaccination</b><br>—<br>- Enfant handicapé en résidence<br>- Mucoviscidose<br>- Hépatite, alcool<br>- Voyage: vérifier sur Pasteur")
+    prévention --> hygiène("<b></b><br>—<br>")
+  style prévention stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}

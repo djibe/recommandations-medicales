@@ -101,6 +101,9 @@ EV
 HBP
 : hypertrophie bénigne de la prostate
 
+INCa
+: Institut national du cancer
+
 ISUP
 : score 2014 de l'{{%lang%}}International Society of Urological Pathology{{%/lang%}} (évolution du Gleason)
 

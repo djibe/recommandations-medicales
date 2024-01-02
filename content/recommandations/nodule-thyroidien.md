@@ -30,7 +30,7 @@ flowchart = true
 - Surveillance des nodules EU-TIRADS 2-3-4 ou Bethesda II: échographie à 1-2 ans puis 2-4 ans plus tard puis tous les 4-5 ans
 - La prise en charge du nodule thyroïdien chez l'enfant et pendant la grossesse relève du spécialiste (TSH + échographie systématique)
 
-Chapitre lié: [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
+Chapitre lié: [cancer de la thyroïde]({{< relref "cancer-thyroide.md" >}}), [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -126,7 +126,7 @@ TA
 
 - Antécédents personnels
 - Antécédents familiaux thyroïdiens et génétiques
-- Facteurs de risque de cancer de la thyroïde  
+- Facteurs de risque de [cancer de la thyroïde]({{< relref "cancer-thyroide.md" >}})  
   Irradiation cervicale antérieure ou sus-claviculaire, néoplasie endocrinienne multiple de type 2 (NEM2), syndrome de Cowden, complexe de Carney, polypose adénomateuse familiale (PAF), syndrome de Gardner, syndrome de Werner, syndrome DICER1.
 - Symptômes: ancienneté et évolution
   - Modifications de la voix
@@ -140,6 +140,7 @@ TA
 > << Un examen clinique normal ne permet pas d'éliminer l'existence d'un cancer thyroïdien >> (*SFE 2022*)
 {.alert .alert-info}
 
+- Poids et variations, taille, IMC
 - Inspection et palpation de la thyroïde  
   Consistance, goitre, souffle vasculaire.
 - Nodules thyroïdiens  
@@ -221,7 +222,7 @@ Indications au dosage de la calcitonine:
 
 1. Antécédents personnels ou familiaux de CMT ou NEM2
 2. Nodule thyroïdien avec diarrhée motrice, flushs ou adénopathies
-3. Nodule suspect de cancer de la thyroïde
+3. Nodule suspect de [cancer de la thyroïde]({{< relref "cancer-thyroide.md" >}})
 4. Avant toute chirurgie ou thermoablation de la thyroïde
 
 Une calcitonine normale ne doit pas être recontrôlée sauf prédisposition génétique au cancer médullaire de la thyroïde (CMT).
@@ -337,7 +338,7 @@ Chirurgie si souhaitée ou croissance du nodule à 2 reprises consécutives.
 
 - Contrôle de la TSH 6-8 semaines après lobectomie
   - Traitement dans les suites d'un nodule bénin si TSH > 10 mUI/L, discuté si > 4 selon l'âge (borne habituelle = âge/10 chez le +60 ans), symptômes, anticorps anti-TPO.
-  - Traitement dans les suites d'un cancer de la thyroïde: si risque faible à intermédiaire de récidive et TSH > 2 mU/L.  
+  - Traitement dans les suites d'un [cancer de la thyroïde]({{< relref "cancer-thyroide.md" >}}): si risque faible à intermédiaire de récidive et TSH > 2 mU/L.  
 - Contrôle de la calcémie + PTH à H24 après une thyroïdectomie totale
 
 Le suivi après cancer repose sur l'échographie cervicale. Rythme de surveillance par échographie cervicale:

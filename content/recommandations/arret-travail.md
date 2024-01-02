@@ -108,7 +108,7 @@ TAD
 : Trouble anxio-dépressif
 {.dl-inline}
 
-### Les arrêts de travail ne France
+### Les arrêts de travail en France
 
 - 361 millions de journées d'arrêts de travail pour 13,9 milliards d'euros
 - Période 2014-2019: +21,6% de journées (pour seulement +2% de salariés)

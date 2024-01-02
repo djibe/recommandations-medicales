@@ -30,6 +30,7 @@ flowchart = true
   - À partir de 2 ans et chez l'adulte: antibiotique uniquement si symptômes sévères ou persistance des symptômes à 48-72 heures. L'antibiothérapie dure 5 jours (10 jours chez l'enfant si otorrhée ou récidive +4 jours après la fin des antibiotiques)
   - Avis spécialisé en cas d'échec de la première ligne d'antibiotiques
 - La prévention de l'otite moyenne aiguë passe par les DRP et la vaccination anti-pneumoccique
+- Participer à l'[étude ADOMA](https://docs.google.com/forms/d/e/1FAIpQLScbwnGzkxnx_kIhvCsOoPgvq887krPBXgIqul_0a2drnt0gAQ/viewform) en soins primaires pour l'antibiothérapie différée
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

@@ -56,6 +56,9 @@ CLCC
 EASL
 : {{%lang%}}European Association for the Study of the Liver{{%/lang%}}
 
+INCa
+: Institut national du cancer
+
 RCP
 : réunion de concertation pluridisciplinaire
 

@@ -86,7 +86,7 @@ Si vous avez de bons yeux, **l'écran doit être de résolution WQHD** (aussi ap
 {{%info%}}
 Mon choix: [Dell S2721DS](https://ledenicheur.fr/product.php?p=5485696) (élégant avec un son de bonne qualité)
 
-Autres modèles QHD [parmi cette liste](https://ledenicheur.fr/c/ecrans?1705=2717&528=834&544=13606%7C16660%7C25920&b_1624=1&b_3453=1&r_89=27-28&sort=price_includes_shipping) (vérifiez les critères cités plus haut pour le pied réglable etc ...).
+Autres modèles QHD ou 4K [parmi cette liste](https://ledenicheur.fr/c/ecrans?1705=2717&528=834&544=13606%7C16660&b_1624=1&b_3453=1&r_89=27-28&sort=price_includes_shipping) (vérifiez les critères cités plus haut pour le pied réglable etc ...).
 {{%/info%}}
 
 Sinon, vous pouvez prendre un écran FullHD (1920 x 1080 pixels, au risque de voir les pixels rendant la lecture difficile)
@@ -138,6 +138,7 @@ Classement composite d'après *LesNumerique*, *01Net* et autres, par ordre de qu
 
 Webcams avec une qualité d'image suffisante pour une téléconsultation et avec un microphone intégré.
 
+- [Elgato Facecam - 160€ (la meilleure, FullHD)](https://ledenicheur.fr/product.php?p=5828769)
 - [Logitech StreamCam - 105€ (FullHD)](https://ledenicheur.fr/product.php?p=5278071)
 - [Logitech HD Pro Webcam C920S - 80€ (FullHD)](https://ledenicheur.fr/product.php?p=5064507)
 - [Logitech HD Pro Webcam C920 - 80€ (FullHD)](https://ledenicheur.fr/product.php?p=1027960)

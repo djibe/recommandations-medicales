@@ -6,8 +6,8 @@ description = ""
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2023-12-21"
-annees = "2023"
+lastmod = "2024-01-02"
+annees = "2024"
 sources = ["Assurance Maladie"]
 tags = []
 image = true
@@ -62,12 +62,12 @@ Cotations pour la consultation d'un adulte ou l'enfant à partir de 6 ans.
 | CCP        | 1re consultation contraception avant 26 ans (à 100%, anonymisable)                            |      47,5 |
 | G(S)       | Consultation contraception annuelle avant 26 ans (à 100% en EXO3)                             |      26,5 |
 | APC        | Adressé par son MT pour une compétence explicite avec compte-rendu (ne pas revoir à ± 4 mois) |      56,5 |
-| G(S) + MN  | Consultation "urgente" non régulée 20-24h (appel après 19h) et 6-8h                           |        60 |
-| G(S) + MM  | Consultation "urgente" non régulée 0-6h                                                       |        65 |
+| G(S) + MN  | Consultation "urgente" non régulée 20-24h (appel après 19h) et 6-8h                           |      61,5 |
+| G(S) + MM  | Consultation "urgente" non régulée 0-6h                                                       |      66,5 |
 | G(S) + F   | Consultation "urgente" non régulée dimanche et jours fériés                                   |     45,56 |
-| G(S) + CRN | Consultation régulée 20-24h et 6-8h                                                           |     67,50 |
-| G(S) + CRN | Consultation régulée 0-6h                                                                     |     76,50 |
-| G(S) + CRD | Consultation régulée dimanche et jours fériés                                                 |     51,50 |
+| G(S) + CRN | Consultation régulée 20-24h et 6-8h                                                           |        69 |
+| G(S) + CRM | Consultation régulée 0-6h                                                                     |        78 |
+| G(S) + CRD | Consultation régulée dimanche et jours fériés                                                 |        53 |
 {{< /table >}}
 
 > A = année ; M = mois

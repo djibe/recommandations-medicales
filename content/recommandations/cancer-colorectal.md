@@ -74,6 +74,9 @@ HNPCC
 IMC
 : indice de masse corporelle
 
+INCa
+: Institut national du cancer
+
 MHS
 : métastase hépatique synchrone
 

@@ -191,6 +191,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [[Collège Universitaire des Enseignants de Néphrologie (CUEN). Élévation de la créatininémie. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?article62)](https://cuen.fr/manuel3/spip.php?rubrique3)
 - [ESUR](http://www.esur.org/fileadmin/content/2019/ESUR_Guidelines_10.0_Final_Version.pdf)
 - [EMA](https://www.ema.europa.eu/en/documents/referral/gadolinium-article-31-referral-prac-confirms-restrictions-use-linear-gadolinium-agents_en.pdf)
 

@@ -46,13 +46,13 @@ L'accès au dossier médical d'un tiers n'est pas possible sauf dans les situati
 - Sujet mineur vivant
   - Lui-même
   - Le médecin de son choix
-  - Son représentant légal (sauf si ce le mineur exerce son droit d'opposition)
+  - Son représentant légal (sauf si le mineur exerce son droit d'opposition)
 - Sujet mineur décédé  
-  Son représentant légal (sauf si ce le mineur exerce son droit d'opposition).
+  Son représentant légal (sauf si le mineur exerce son droit d'opposition).
 
-> – *Service-public*
+> – *Service-Public*
 
-**NB.** << Une fois que le tuteur a accès aux informations sur la santé de la personne protégée, celui-ci doit respecter le secret médical. Il lui est donc interdit de divulguer à des tiers toute information sur l'état de santé de la personne sous tutelle. >> (*Service-public*)
+**NB.** << Une fois que le tuteur a accès aux informations sur la santé de la personne protégée, celui-ci doit respecter le secret médical. Il lui est donc interdit de divulguer à des tiers toute information sur l'état de santé de la personne sous tutelle. >> – *Service-Public*
 
 ### En l'absence de remise du dossier médical
 
@@ -106,8 +106,8 @@ En l'absence de réponse, contacter une association d'aides aux démarches: [Avi
 {{%sources%}}
 
 - [Commission d'accès aux documents administratifs (Cada). Dossier médical personnel.](https://www.cada.fr/administration/dossier-medical-personnel)
-- [Service-public.fr. Dossier médical. 15/11/2022.](https://www.service-public.fr/particuliers/vosdroits/F12210)
-- [Service-public.fr. Santé d'une personne sous tutelle ou curatelle : quelles sont les règles ? 23/03/2022.](https://www.service-public.fr/particuliers/vosdroits/F33899)
+- [Service-Public. Dossier médical. 15/11/2022.](https://www.service-public.fr/particuliers/vosdroits/F12210)
+- [Service-Public. Santé d'une personne sous tutelle ou curatelle : quelles sont les règles ? 23/03/2022.](https://www.service-public.fr/particuliers/vosdroits/F33899)
 - [Conseil national de l'Ordre des médecins. Accéder à mon dossier médical.](https://www.conseil-national.medecin.fr/patient/droits/acceder-dossier-medical)
 
 {{%/sources%}}

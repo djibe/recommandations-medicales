@@ -231,7 +231,7 @@ Indications limitées à l'échographie thyroïdienne:
 - Signes de compression  
   Dysphonie, dysphagie, dyspnée.
 - Palpation thyroïdienne difficile
-- Facteur de risque de cancer de la thyroïde (*HAS 2021*)
+- Facteur de risque de [cancer de la thyroïde]({{< relref "cancer-thyroide.md" >}}) (*HAS 2021*)
 {{%/info%}}
 
 Pas d'indication à la scintigraphie en cas d'hypothyroïdie.

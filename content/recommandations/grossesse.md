@@ -188,5 +188,6 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 - [Medqual. La vaccination des femmes enceintes. VacciNews 03. 2023. (PDF)](https://medqual.fr/images/VACCINEWS/LETTRES/VACCINEWS_3.pdf)
 - [Boisseau N. Physical Activity During the Perinatal Period: Guidelines for Interventions During the Perinatal Period from the French National College of Midwives. J Midwifery Womens Health. 2022.](https://onlinelibrary.wiley.com/doi/10.1111/jmwh.13425)
 - [HAS. Grossesse, accouchement et suivi postnatal. Panorama.](https://www.has-sante.fr/jcms/p_3286443/fr/grossesse-accouchement-et-suivi-postnatal)
+- [Service-Public. A-t-on droit à des absences liées à la grossesse dans la fonction publique ? 24/11/2023.](https://www.service-public.fr/particuliers/vosdroits/F34536)
 
 {{%/sources%}}

@@ -202,7 +202,7 @@ Pour le médecin généraliste.: Aborder les violences, évaluer, le certificat 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Service-Public.fr. Une aide universelle d’urgence est mise en place pour les victimes de violences conjugales. 29/11/2023.](https://www.service-public.fr/particuliers/actualites/A16962)
+- [Service-Public. Une aide universelle d’urgence est mise en place pour les victimes de violences conjugales. 29/11/2023.](https://www.service-public.fr/particuliers/actualites/A16962)
 - [HAS. Violences conjugales : la HAS appelle les médecins à se saisir pleinement du sujet. 2023.](https://has-sante.fr/jcms/p_3473528/fr/violences-conjugales-la-has-appelle-les-medecins-a-se-saisir-pleinement-du-sujet)
 - [HAS. Repérage des femmes victimes de violences au sein du couple. 2022.](https://www.has-sante.fr/jcms/p_3104867/fr/reperage-des-femmes-victimes-de-violences-au-sein-du-couple)
 - [Guiguet-Auclair C et al. Validation de la version française d'un outil de dépistage des violences conjugales faites aux femmes, le WAST (Woman Abuse Screening Tool). BEH. 2021.](http://beh.santepubliquefrance.fr/beh/2021/2/2021_2_2.html)

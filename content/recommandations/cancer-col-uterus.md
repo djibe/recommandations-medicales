@@ -96,6 +96,9 @@ Complications des infections par les papillomavirus et incidence imputée entre 
 HSH
 : homme ayant des rapports sexuels avec des hommes
 
+INCa
+: Institut national du cancer
+
 IST
 : infection sexuellement transmissible (*ex* maladie sexuellement transmissible - MST)
 
