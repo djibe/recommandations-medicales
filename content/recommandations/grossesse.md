@@ -56,7 +56,7 @@ Chapitres dédiés:
 - [Vomissements et nausées pendant la grossesse]({{< relref "vomissements-grossesse-hyperemese-gravidique.md" >}})
 
 {{%/article-summary%}}
-{{%collapse "La maternité en France" "show"%}}
+{{%collapse "La maternité en France"%}}
 
 {{< figure-chart title="Évolution du nombre de maternités en France métropolitaine et naissances vivantes depuis 1975. Dr JB Fron d’après Drees Les établissements de santé - édition 2022 (fiche 21). NB. Échelle non linéaire en abscisse" >}}
 
@@ -96,7 +96,7 @@ const chartOptions = {
 }
 </script>
 
-Malgré ces fermetures de maternités, **43 %** des maternités ont réalisé en 2020 **moins de 3 accouchements par jour**. – [Drees Les établissements de santé - édition 2022 (fiche 21)](https://drees.solidarites-sante.gouv.fr/publications-documents-de-reference-communique-de-presse/panoramas-de-la-drees/les-etablissements)
+Malgré ces fermetures de maternités, **43 %** des maternités ont réalisé en 2020 **moins de 3 accouchements par jour**. – *[Drees Les établissements de santé - édition 2022 (fiche 21)](https://drees.solidarites-sante.gouv.fr/publications-documents-de-reference-communique-de-presse/panoramas-de-la-drees/les-etablissements)*
 {.alert .alert-info}
 
 {{% /collapse %}}

@@ -111,7 +111,7 @@ Pas de différences entre les statines concernant la survenue de myalgies. La su
 
 ### Statine mal tolérée
 
-> << 70-90% des patients qui rapportent une intolérance aux statines peuvent en tolérer une après un nouvel essai >> - *{{< references/esc-diabetes-2023 >}}*
+> << 70-90% des patients qui rapportent une intolérance aux statines peuvent en tolérer une après un nouvel essai >> – *{{< references/esc-diabetes-2023 >}}*
 {.alert .alert-info}
 
 En cas de complications attribuables à une statine:

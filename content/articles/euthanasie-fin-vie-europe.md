@@ -14,7 +14,7 @@ tags = []
 geochart = true
 image = true
 imageSrc = "Carte d'Europe revisitée par Freepik"
-todo = "comparatif des conditions dans les pays, SEO: euthanasie en europe carte, enthanasie pays europeen, pays europe euthanasie, stats belges: https://organesdeconcertation.sante.belgique.be/fr/documents/euthanasie-chiffres-de-lannee-2022"
+todo = "https://schema.org/Map, comparatif des conditions dans les pays, SEO: euthanasie en europe carte, enthanasie pays europeen, pays europe euthanasie, stats belges: https://organesdeconcertation.sante.belgique.be/fr/documents/euthanasie-chiffres-de-lannee-2022"
 +++
 
 Alors que la France engage un débat sur l'euthanasie, son adoption en Europe et dans le monde reste marginale. À ce jour, seulement quatre pays d'Europe ont encadré le recours à l'euthanasie: le Benelux (Belgique, Pays-Bas et Luxembourg) et l'Espagne.

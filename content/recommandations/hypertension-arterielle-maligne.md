@@ -105,7 +105,7 @@ Principalement essentielle (20-30% chez blancs et 80% chez noirs).
   - EPO
   - ciclosporine
 Tumeurs
-  - Cancer du rein
+  - [Cancer du rein]({{< relref "cancer-rein.md" >}})
   - Tumeur de Wilms
   - Lymphome
 - Coarctation de l'aorte

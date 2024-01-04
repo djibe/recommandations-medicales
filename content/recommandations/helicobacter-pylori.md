@@ -272,7 +272,7 @@ En cas de sensibilité à la clarithromycine, trithérapie pendant 10 jours (14 
 
 {{%/info%}}
 
-> << la prescription d'Amoxicilline devrait être de 50 mg/kg/j en 3-4 prises/j >> - *GEFH 2021*
+> << la prescription d'Amoxicilline devrait être de 50 mg/kg/j en 3-4 prises/j >> – *GEFH 2021*
 
 #### Résistance à la clarithromycine
 
