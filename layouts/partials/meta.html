@@ -131,6 +131,25 @@
       }
     }
   </script>
+
+  {{ if .Params.sctid }}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalCondition",
+      "name": {{ .Title }},
+      {{ if .Params.synonyms }}"alternateName": "{{ delimit .Params.synonyms ", " }}",{{ end }}
+      "medicineSystem": "evidence-based",
+      "image": {{ $imageUrl | absURL }},
+      "url" : {{ .Permalink }},
+      "code": {
+        "@type": "MedicalCode",
+        "code": "{{ .Params.sctid }}",
+        "codingSystem": "SNOMED-CT"
+      }
+    }
+  </script>
+  {{ end }}
 {{ end }}
 
 <!-- Website tags -->
