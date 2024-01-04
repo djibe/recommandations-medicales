@@ -107,7 +107,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - Prescrire Redaction. Ver solitaire. Rev Prescrire. 2023.

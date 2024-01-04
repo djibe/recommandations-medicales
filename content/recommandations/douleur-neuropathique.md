@@ -91,7 +91,7 @@ TENS
 : {{%lang%}}transcutaneous electrical nerve stimulation{{%/lang%}}, stimulation électrique transcutanée
 {.dl-inline}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
 Diagnostic différentiel de douleurs neuropathiques selon la localisation de la douleur:
@@ -109,7 +109,7 @@ Diagnostic différentiel de douleurs neuropathiques selon la localisation de la 
 - Arthropathie
 - Myalgie
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 Avis neurologique devant toute douleur neuropathique dont l'étiologie ou le tableau n'est pas raisonnablement explicable
@@ -168,7 +168,7 @@ Avis neurologique devant toute douleur neuropathique dont l'étiologie ou le tab
 | Pression         | Aδ, C  | Doigt               | Normal  |
 {{< /table >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 {{%info%}}
@@ -189,7 +189,7 @@ Avis neurologique devant toute douleur neuropathique dont l'étiologie ou le tab
 
 Uniquement sur avis du neurologue.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Classes thérapeutiques efficaces" %}}
 
 Traitements des douleurs neuropathiques de première intention ou ayant un niveau de preuve satisfaisant en 2020 chez l'adulte:
@@ -231,7 +231,7 @@ Traitements des douleurs neuropathiques de première intention ou ayant un nivea
 
 Amitriptyline 10 mg/j et gabapentine 900 mg/j avec la même efficacité sans effets indésirables majeurs.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Traitement des douleurs neuropathiques" %}}
 
 - [Liste des structures spécialisées douleur chronique (SDC)](https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
@@ -315,7 +315,7 @@ Prise en charge, prescription et réalisation uniquement en centre de la douleur
 
 Les opioïdes forts ne doivent être proposés par un spécialiste de la douleur qu'en l'absence d'alternatives
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Prise en charge des douleurs neuropathiques" "show" %}}
 
 {{< mermaid title="Conduite à tenir pour la prise en charge des douleurs neuropathiques. Dr JB Fron d'après SFETD 2020" >}}
@@ -334,7 +334,7 @@ accTitle: Conduite à tenir pour la prise en charge des douleurs neuropathiques 
 Psychothérapie associée dès la 2<sup>e</sup> ligne de traitement.  
 Bilan étiologique par le neurologue en cause non évidente.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Moisset X et al. French guidelines for neuropathic pain: An update and commentary. Revue neurologique. 2021.](https://hal.archives-ouvertes.fr/hal-03401768)

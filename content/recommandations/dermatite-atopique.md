@@ -276,7 +276,7 @@ accTitle: Conduite à tenir devant une suspicion de dermatite atopique et prise 
     suspicion -- Diagnostic différentiel --> differentiel("Dermite de contact, psoriasis,<br>lymphome cutané, gale<br>—<br>Nourrisson: dermatite séborrhéique, gale")
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéomuqueuses chez l'enfant et l'adulte. urticaire, dermatites atopique et de contact. Item 187. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-187-%E2%80%94-Hypersensibilites-et-allergies-cutaneo-muqueuses-chez-lenfant-et-ladulte.-Urticaire-dermatites-atopique-et-de-contact_CompressPdf.pdf)

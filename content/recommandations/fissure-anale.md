@@ -129,7 +129,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Davids JS et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Anal Fissures. Dis Colon Rectum. 2023.](https://journals.lww.com/dcrjournal/Fulltext/2023/02000/The_American_Society_of_Colon_and_Rectal_Surgeons.8.aspx)

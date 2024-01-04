@@ -294,7 +294,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< card-link-external title="Sémiologie du genou en vidéo" url="http://www.lecofer.org/semiologie.php" subtitle="COFER" >}}

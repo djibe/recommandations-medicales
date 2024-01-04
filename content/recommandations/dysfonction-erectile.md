@@ -84,7 +84,7 @@ MCV
 : maladie cardiovasculaire
 {.dl-inline}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 La dysfonction érectile est un diagnostic d'interrogatoire: << Donc, vous avez un problème d'érection pendant les rapports ? >>
@@ -195,7 +195,7 @@ Examen clinique annuel en cas de dysfonction érectile avec:
 
 Rechercher des signes de [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) (graisses faciotronculaires, fragilité cutanée, vergetures ...).
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 {{%info%}}
@@ -225,7 +225,7 @@ Systématique en présence d'au moins 3 facteurs de risque cardiovasculaires (en
 
 En cas de suspicion de neuropathie périphérique ([diabète ancien]({{< relref "diabete-type-2.md" >}}), [alcoolisme chronique]({{< relref "sevrage-alcool.md" >}})).
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Mesures générales" %}}
 
 ### Information sexuelle
@@ -295,7 +295,7 @@ Avis psychiatrique systématique: dysfonction érectile primaire, pathologie psy
 - Anxiété de performance: réassurance
 - Problème relationnel au premier plan: thérapie de couple, sexothérapie
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Contre-indications aux iPDE-5 et effets indésirables" %}}
 
 ### Contre-indications aux iPDE-5
@@ -335,7 +335,7 @@ Des effets indésirables sont observés dans 2-16% des cas: Céphalées (+10%), 
 
 Les effets indésirables graves sont rares: allongement QT, IDM, NOIAA (3/100.000), surdité brutale irréversible.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Traitements spécifiques de la dysfonction érectile" %}}
 
 ### Inhibiteurs de la phospho-diestérase de type 5 (iPDE-5)
@@ -389,7 +389,7 @@ Les traitements suivants ne relèvent pas de la prise en charge du médecin trai
 
 L'association à une éjaculation précoce est fréquente et l'utilisation de dapoxétine (Priligy®) est possible.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Suivi" %}}
 
 Réévaluation de l'impuissance systématique sous 1-2 mois: compréhension et utilisation du traitement, efficacité, effets secondaires, satisfaction personnelle et de la partenaire.
@@ -411,7 +411,7 @@ ET suivi spécialisé de maladie chronique
 
 Examen clinique de suivi annuel.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
 Explications devant toujours accompagner la prescription d'un traitement sexo-actif:
@@ -426,7 +426,7 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 
 > *AIUS*
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="J0OPuM9DA5s" title="Troubles de l'érection, ne plus se cacher (Fréquence Médicale)" >}}

@@ -42,7 +42,7 @@ Situations à risque augmenté d'enthésopathie calcanéenne:
 - Âge
 {.list-group}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
 Diagnostic différentiel de symptômes évocateurs de l'épine calcanéenne:
@@ -59,7 +59,7 @@ Diagnostic différentiel de symptômes évocateurs de l'épine calcanéenne:
 - Varice plantaire
 {.list-group}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 Talalgie plantaire (douleurs plantaires). Les douleurs surviennent souvent dès le lever puis s'améliorent avec récurrence en fin de journée. Parfois irradiations plantaires.  
@@ -108,7 +108,7 @@ Examens de 2<sup>e</sup> intention:
 - Scintigraphie osseuse
 - Scanner/IRM
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Traitement de l'épine calcanéenne" %}}
 
 Prise en charge recommandée de l'épine calcanéenne:
@@ -129,7 +129,7 @@ Prise en charge recommandée de l'épine calcanéenne:
 
 En cas de persistance des douleurs plantaires: avis d'un pédicure-podologue pour la confection d'orthèses plantaires voire infiltrations de corticoïdes (rhumatologue).
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Prise en charge de l'épine calcanéenne" "show" %}}
 
 {{< mermaid title="Prise en charge de l'épine calcanéenne par le médecin généraliste. Dr JB Fron d'après bibliographie" >}}
@@ -139,7 +139,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Guimarães JS et al. Effects of therapeutic interventions on pain due to plantar fasciitis: A systematic review and meta-analysis. Clin Rehabil. 2023.](https://www.minerva-ebp.be/FR/Analysis/830)

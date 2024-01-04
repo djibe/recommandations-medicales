@@ -272,7 +272,7 @@ graph TB
       étayer --> différentiel
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Hoge EA et al. Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial. JAMA Psychiatry. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9647561/)

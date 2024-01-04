@@ -121,7 +121,7 @@ graph TB
   style prévention stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Ministère de la Santé. Liste des centres de vaccination habilités à effectuer la vaccination contre la fièvre jaune (anti-amarile). Décembre 2023.](https://solidarites-sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination-fievre-jaune)

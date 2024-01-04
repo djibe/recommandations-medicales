@@ -75,7 +75,7 @@ SNFGE
 : Société Nationale Française de Gastro-Entérologie
 {.dl-inline}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Facteurs de risque de maladie coeliaque" %}}
 
 - Antécédents familiaux  
@@ -85,7 +85,7 @@ SNFGE
 - HLA-DQ2 et HLA-DQ8
 - Autres: voir *Qui dépister par sérologie ?*
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Qui dépister par fibroscopie d'emblée ?" %}}
 
 Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la maladie cœliaque chez les personnes à **risque élevé** définies comme:
@@ -101,7 +101,7 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 - Iléostomie ou colostomie avec hyperdébit non expliqué
 {.list-group}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Qui dépister par sérologie coeliaque ?" %}}
 
 - [Syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) (SII)
@@ -127,7 +127,7 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 - Hémosidérose pulmonaire
 - Néphropathie à IgA
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 ### Symptômes de la maladie cœliaque
@@ -162,7 +162,7 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 
 Le diagnostic est affirmé par un faisceau d'arguments cliniques, biologiques, par la biopsie du grêle **ET** par la régression de ces signes en **éviction totale du gluten**.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 Prise en charge ciblée devant une suspicion de maladie cœliaque.
@@ -205,7 +205,7 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 
 - Vitamine D
 - **Ostéodensitométrie** au diagnostic puis tous les 2-5 ans selon la densité osseuse (*ESsCD 2019*)
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Traitement de la maladie cœliaque" %}}
 
 **NB.** Le diagnostic de certitude de la maladie cœliaque doit être posé par un gastro-entérologue.

@@ -80,7 +80,7 @@ Selon Branger (France)
 - Gêne mictionnelle  
   Les examens de débitmétrie ou d'échographie n'objectivent que rarement un réel retentissement (même si le prépuce se ballonise). Surtout retrouvé dans les phimosis serrés secondaires de l'adulte.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 Signes et symptômes du phimosis chez l'adulte et chez l'enfant.
@@ -98,7 +98,7 @@ Interrogatoire sur les [infections sexuelles](/tags/ist/) et [urinaires]({{< rel
 
 Définir si le phimosis est physiologique persistant ou secondaire.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Traitement du phimosis" %}}
 
 Recommandations pour la prise en charge du phimosis:
@@ -148,7 +148,7 @@ Méthodes chirurgicales:
 - Dysurie vraie  
   Chirurgie ± conservatrice
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - Dr Biserte CHRU Lille (Urologie 2008, JPP 2009)
@@ -168,7 +168,7 @@ graph TB
   style phimosis stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}
 
 {{< traitements/dermocorticoides >}}

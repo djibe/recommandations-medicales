@@ -165,7 +165,7 @@ graph TB
   style incidentalome stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - {{< references/college-gastro >}}

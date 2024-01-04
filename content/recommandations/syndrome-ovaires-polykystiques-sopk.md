@@ -302,7 +302,7 @@ graph TB
 
 > COP = contraception œstroprogestative (20-30 µg/j)
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [ESHRE. International evidence-based guideline for the assessment and management of polycystic ovary syndrome - Summary. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)

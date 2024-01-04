@@ -231,7 +231,7 @@ graph TB
 
 > **160/110 =** PAS ≥ 160 mmHg et/ou PAD ≥ 110 mmHg
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [US Preventive Services Task Force. Screening for Hypertensive Disorders of Pregnancy: US Preventive Services Task Force Final Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2809680)

@@ -184,7 +184,7 @@ style ictère stroke:#4150f5, stroke-width:1px
   biologie -- Mixte --> insuffisance("TP, facteur V,<br>albuminémie") --> hépatite("Hépatite<br>ou cirrhose")
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - {{< references/college-gastro >}}

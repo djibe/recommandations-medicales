@@ -127,7 +127,7 @@ graph TB
   style kyste stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Johnson E et al. The American Society of Colon and Rectal Surgeons' Clinical Practice Guidelines for the Management of Pilonidal Disease. Diseases of the Colon & Rectum. 2019.](https://journals.lww.com/dcrjournal/Fulltext/2019/02000/The_American_Society_of_Colon_and_Rectal_Surgeons_.5.aspx)

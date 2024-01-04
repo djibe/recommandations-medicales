@@ -224,7 +224,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="UFkHk0wRr_I" title="La minute RECO HAS | Maladies neuroévolutives : accompagner à domicile" >}}

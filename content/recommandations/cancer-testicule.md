@@ -173,7 +173,7 @@ graph TB
   style dépistage stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Nicole D et al. EAU Guidelines on Testicular Cancer. 2023.](https://uroweb.org/guidelines/testicular-cancer)

@@ -183,7 +183,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Evans JR, Lawrenson JG. Antioxidant vitamin and mineral supplements for slowing the progression of age‐related macular degeneration. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000254.pub5/full/fr)

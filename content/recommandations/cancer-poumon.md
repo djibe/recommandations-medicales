@@ -242,7 +242,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< video mp4="https://docs.splf.fr/videos/ATS/mission-ats-2022/ATS-Dr-Marjolaine-Georges.mp4" description="Le tabac c'est tabou! sous toutes ses formes! et à tous les stades de cancer! (SPLF)" >}}

@@ -316,7 +316,7 @@ ADA = adapalène 0,1%
 PeBo = peroxyde de benzoyle (2,5, 5 % ou 10% sauf mention contraire, 1 appli/j)  
 Trétinoïne = trétinoïne 0,025 ou 0,05%
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
 [Haute Autorité de Santé. Acné: quand et comment la traiter?](https://www.has-sante.fr/jcms/c_2564525/fr/acne-quand-et-comment-la-traiter)
@@ -328,7 +328,7 @@ Selon la SFDermato, informer le patient:
 - de la nécessité de la régularité des applications
 - des effets irritants fréquents des traitements locaux et des mesures à prendre pour les prévenir et les prendre en charge
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< card-link-external title="Recommandations Acné SFD" url="https://reco.sfdermato.org/fr/recommandations-acn%C3%A9" subtitle="SFDermato">}}

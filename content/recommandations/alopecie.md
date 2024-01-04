@@ -213,7 +213,7 @@ graph TB
   style Alopécie stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Collège des enseignants de dermatologie de France (CEDEF). Troubles des phanères. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Troubles-des-phaneres_CompressPdf.pdf)

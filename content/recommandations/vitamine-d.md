@@ -83,7 +83,7 @@ vitamine D3
 : cholécalciférol (ou colécalciférol)
 {.dl-inline}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Conversion d'unités de la vitamine D" %}}
 
 Convertir dans les 2 sens les unités de mesure de la vitamine D: nmol/L (unités internationales) et ng/mL.
@@ -97,7 +97,7 @@ Convertir dans les 2 sens les unités de mesure de la vitamine D: nmol/L (unité
 
 Vitamine D3 (cholécalciférol): 1 µg = 40 UI
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Facteurs de risque de carence" %}}
 
 ### Personnes à risque de complications par carence en vitamine D
@@ -118,7 +118,7 @@ Vitamine D3 (cholécalciférol): 1 µg = 40 UI
 2. Protocole de correction rapide
 3. Apports calciques ≥ 1 g/j
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Apports cibles en vitamine D selon l'âge" %}}
 
 La supplémentation en vitamine D peut être instaurée et suivie sans dosage de la vitamine D sauf chez les sujets à risque mentionnés plus haut (voir *Patients à risque*).

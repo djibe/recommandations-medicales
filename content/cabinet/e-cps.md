@@ -33,7 +33,7 @@ ProSantéConnect
 : Protocole qui permet de s'authentifier sur différents services de santé (ex: Mailiz) avec ses identifiants de l'Ordre.  
 L'équivalent de "Se connecter avec Google" (ou Facebook).
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Créer sa e-CPS" %}}
 
 La e-CPS est une version dématérialisée de la carte CPS. Elle ne concerne donc que les professionnels de santé autorisés à en disposer.
@@ -71,7 +71,7 @@ Cette étape va passer par l'adresse de courriel associée à votre compte ordin
 
 [FAQ e-CPS](https://esante.gouv.fr/securite/faq-e-cps) ou {{<phone>}}0 809 40 00 82{{</phone>}} (gratuit)
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Fraude à la e-CPS" %}}
 
 La vaccination anti-covid a amené le lot de margoulins qui veulent accéder à *Vaccin Covid* d'Ameli Pro pour vendre de faux passes sanitaires.
@@ -83,4 +83,4 @@ Si vous recevez une notification de l'application e-CPS, refusez-là ! Puis sign
 - Le CDOM
 - La [police](https://www.pre-plainte-en-ligne.gouv.fr/)
 
-{{%/collapse%}}
+{{% /collapse %}}

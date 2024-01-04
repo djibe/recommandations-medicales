@@ -400,7 +400,7 @@ graph TB
   style élevé stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< card-link-external title="Vidéo de la palpation des seins" url="https://www.youtube.com/watch?v=QXlT9651svA" subtitle="par le Dr Jean-Philippe Harlicot" >}}

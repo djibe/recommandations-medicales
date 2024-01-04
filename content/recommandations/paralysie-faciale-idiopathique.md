@@ -293,7 +293,7 @@ graph TB
           ttt --> surv("Surveillance de la récupération<br>± Kiné, orthophoniste")
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [SFORL. Prise en charge de la Paralysie Faciale Idiopathique à la phase aiguë chez l'adulte. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-de-la-Paralysie-Faciale-Idiopathique-%C3%A0-la-phase-aigu%C3%AB-chez-l-adulte-2020.pdf)

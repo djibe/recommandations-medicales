@@ -303,7 +303,7 @@ style grossesse stroke:#4150f5, stroke-width:1px
   antecedent -- Oui --> ras(Pas de risque<br>Ne rien faire)
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}

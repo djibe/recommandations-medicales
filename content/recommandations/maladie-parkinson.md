@@ -490,7 +490,7 @@ graph TB
       invasifs --> enterale(Lévodopa-carbidopa<br>entérale)
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Santé Publique France. Maladie de Parkinson : quelle évolution entre 2016 et 2020 ?. 11/04/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/maladie-de-parkinson-quelle-evolution-entre-2016-et-2020)

@@ -226,7 +226,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Zaanan A et al. << Cancer de l'estomac >>. Thésaurus National de Cancérologie Digestive. Octobre 2023.](https://www.snfge.org/content/2-cancer-de-lestomac)

@@ -112,7 +112,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - Association Française des Enseignants & Praticiens Hospitaliers titulaires de Parasitologie & Mycologie Médicale (Anofel). Chapitre 11: Oxyurose. 2022.

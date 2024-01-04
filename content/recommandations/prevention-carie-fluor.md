@@ -172,7 +172,7 @@ graph TB
   style mesures stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [CEOP. Le fluor en prévention primaire : Recommandations du Collège des Enseignants en Odontologie Pédiatrique. 2021. (PDF)](https://sfop.asso.fr/wp-content/uploads/2021/11/Le-fluor-en-pre%CC%81vention-primaire-Droz-et-al-CEOP-2021.pdf)

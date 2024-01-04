@@ -328,7 +328,7 @@ accTitle: Prise en charge diagnostique de l'artériopathie oblitérante des memb
     clinique -- Différentiel --> diff("- Sd des loges<br>- Sciatalgie<br>- Canal lombaire étroit<br>- Coxarthrose<br>- Kyste poplité<br>- Métastase osseuse<br>- Congestion veineuse")
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="YqY_zHXRgxQ" title="La mesure de l'index de pression systolique (Dr Richard Belley)" >}}

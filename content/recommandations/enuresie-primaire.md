@@ -146,7 +146,7 @@ graph TB
   style énurésie stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - Prescrire Redaction. Patients ayant une énurésie nocturne. Rev Prescrire. 2021.

@@ -364,7 +364,7 @@ Colchicine J1 = 1 mg puis 0,5 mg à H1 puis jours suivants 0,5 mg x 2-3/j.
 AINS = naproxène 750 mg puis 250 mg x 3/j.  
 Corticoïdes = 30 mg/j prednisone 3-5 jours.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{% collapse "Prise en charge de la goutte par traitement de fond hypouricémiant" "show" %}}
 
 {{< mermaid title="Conduite à tenir pour le traitement hypouricémiant de fond du patient goutteux. Dr JB Fron d'après SFR et ACR 2020" >}}
@@ -388,7 +388,7 @@ accTitle: Prise en charge de la goutte par traitement de fond d'après SFR et AC
 > **MCV** = Maladie cardiovasculaire  
 Uricémie cible < 50 mg/L (300 µmol/L)
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
 Éducation du patient goutteux:

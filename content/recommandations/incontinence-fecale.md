@@ -143,7 +143,7 @@ graph TB
     examen -. Anomalie .-> bilan("Anomalie, AEG, rectorragie,<br>modification du transit<br>après 50 ans") --> spécialiste("Gastro-entérologue")
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="gniC0GCA4rY" title="Incontinence anale : que retenir ? (TutoGastro SNFGE 2023)" >}}

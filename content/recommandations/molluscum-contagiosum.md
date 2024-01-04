@@ -98,7 +98,7 @@ graph TB
     molluscum -- Diagnostic différentiel --> différentiel("- Verrue<br>- Adulte: condylome<br>- Immunodéprimé:<br>kératoacanthome,<br>carcinome basocellulaire")
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
 {{< youtube id="j4pmVvJmpWM" title="Comment soigner les molluscum contagiosum ? (WhyDoc)" >}}

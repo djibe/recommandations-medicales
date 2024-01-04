@@ -245,7 +245,7 @@ graph TB
 
 > **SII-D =** syndrome de l'intestin irritable avec diarrhées
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut. 2018.](https://gut.bmj.com/node/219278.full)

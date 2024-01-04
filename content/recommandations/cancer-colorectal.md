@@ -358,7 +358,7 @@ graph TB
   style trèsElevé stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="PwEBt_rpET0" title="Dépistage du cancer du côlon en France. FIT ou coloscopie : comment choisir ? (TutoGastro SNFGE)" >}}

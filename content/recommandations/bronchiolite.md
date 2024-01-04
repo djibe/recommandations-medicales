@@ -382,7 +382,7 @@ accTitle: Prise en charge de la bronchiolite et d'une dyspnée sifflante d'aprè
 
 > **AA =** air ambiant; **FC =** fréquence cardiaque; **FR =** fréquence respiratoire. L'alimentation est quantifiée sur 3 prises consécutives
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Bronchiolite et Permanence des soins" %}}
 
 ### Réseau Bronchiolite en Île-de-France

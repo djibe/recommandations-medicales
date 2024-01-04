@@ -208,7 +208,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [INCa. Cancers de la thyroïde / Du diagnostic au suivi. Outils pour la pratique. 2023.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-de-la-tete-et-du-cou)

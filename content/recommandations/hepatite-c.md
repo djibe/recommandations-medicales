@@ -329,7 +329,7 @@ accTitle: Conduite à tenir dans les suites de la réalisation d'un TROD VHC d'a
     trodIncertain --> 3mois
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
 [Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/): {{<phone>}}0 800 845 800{{</phone>}} et [guide AFEF](https://afef.asso.fr/hepatite-c/).

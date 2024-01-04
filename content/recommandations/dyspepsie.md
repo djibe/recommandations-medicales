@@ -83,7 +83,7 @@ Signes de gravité devant un syndrome dyspeptique nécessitant la réalisation d
 - Odynophagie
 {{%/danger%}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 Le bilan est ciblé devant une dyspepsie.
@@ -151,7 +151,7 @@ graph TB
       gravite -- Oui --> EOGD
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 [Mion F. Prise en charge de la dyspepsie. Conseil de pratique. SNFGE et GFNG. 2019. (PDF)](https://www.snfge.org/download/file/fid/4855)

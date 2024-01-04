@@ -545,7 +545,7 @@ graph TB
 
 > **ACP =** {{%lang%}}American College of Physicians{{%/lang%}}; **AD =** antidépresseur (ISRS, IRSNA); **EDC =** épisode dépressif caractérisé ; **sem =** semaine; **TCC =** thérapie cognitive et comportementale
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [US Preventive Services Task Force, Barry MJ et al. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2023.9297)

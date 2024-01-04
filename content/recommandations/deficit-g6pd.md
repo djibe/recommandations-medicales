@@ -210,7 +210,7 @@ flowchart TB
 style déficit stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [ANSM. Médicament et déficit en G6PD : l'ANSM actualise le référentiel. 14/03/2021.](https://ansm.sante.fr/actualites/medicament-et-deficit-en-g6pd-lansm-actualise-le-referentiel)

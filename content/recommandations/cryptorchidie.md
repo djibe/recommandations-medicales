@@ -117,7 +117,7 @@ graph TB
   style dépistage stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Ameli. Comprendre la cryptorchidie ou testicule non descendu. 13/01/2023.](https://www.ameli.fr/assure/sante/themes/cryptorchidie-testicule-non-descendu-ectopie-testiculaire/comprendre-cryptorchidie)

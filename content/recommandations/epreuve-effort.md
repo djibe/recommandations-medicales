@@ -54,7 +54,7 @@ RCV
 : {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}
 {.dl-inline}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Indications par pathologie ou symptômes" "show" %}}
 
 ### Profil cardiovasculaire
@@ -253,7 +253,7 @@ window.addEventListener('load', () => {
 })
 </script>
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Indications par grade" %}}
 
 ### Épreuve d'effort recommandée
@@ -356,7 +356,7 @@ Un test d'effort doit être envisagé chez un **professionnel** (pompier, milita
 
 > **RCV =** risque cardiovasculaire
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [CCS, GERS-P. Position commune du Club des Cardiologues du Sport (CCS) et du Groupe Sport (GERS-P) de la Société Française de Cardiologie sur le bilan cardio-vasculaire recommandé pour la pratique sportive. 2022.](https://www.sfcardio.fr/publication/recommandations-sur-le-bilan-cardiovasculaire-recommande-pour-la-pratique-sportive)

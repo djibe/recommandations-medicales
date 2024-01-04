@@ -222,7 +222,7 @@ gravité -- Non --> clinique("<b>Clinique</b><br>—<br>- Traitement à risque (
 
 En l'absence d'orientation étiologique ou d'efficacité d'un traitement étiologique simple (ex. substitution d'un diurétique), adresser au spécialiste (endocrinologue, néphrologue) avec le bilan de deuxième intention ciblé.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hyponatrémie - Hypernatrémie. Item 267. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?article11)

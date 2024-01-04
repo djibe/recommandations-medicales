@@ -317,7 +317,7 @@ accTitle: Prise en charge de l'algie vasculaire de la face d'après SFEMC 2014
     ICHD3 -- Diagnostic différentiel --> differentiel("- Migraine<br>- Névralgie du trijumeau<br>- Autres CTA")
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 > [Demande de prise en charge à 100% par des députés, sans réponse](https://questions.assemblee-nationale.fr/q15/15-4922QE.htm)

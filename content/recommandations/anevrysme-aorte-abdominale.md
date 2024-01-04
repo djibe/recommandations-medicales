@@ -66,7 +66,7 @@ AHA
 
 **Fissuration anévrismale:** douleur brutale sur le trajet de l'aorte avec irradiation (dos-abdomen, dos-aine, dos-jambe) ou des vomissements, résistante aux antalgiques.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Dépistage de l'anévrysme de l'aorte abdominale" %}}
 
 Le dépistage de l'anévrisme de l'aorte abdominale est à réaliser une seule fois par échodoppler artériel aortique chez:
@@ -83,7 +83,7 @@ En cas de mesures échographiques limites et de plusieurs facteurs de risque d'A
 
 > Ne pas répéter l'échodoppler aortique chez le sujet asymptomatique de plus de 75 ans avec échographie initiale normale.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Traitement de l'anévrisme de l'aorte abdominale" %}}
 
 Prise en charge de l'anévrisme de l'aorte abdominale (AAA):
@@ -106,7 +106,7 @@ Prise en charge de l'anévrisme de l'aorte abdominale (AAA):
 Le traitement des anévrismes de l'aorte abdominale de moins de 50 mm n'a montré aucun bénéfice par rapport à l'abstention.
 {.alert .alert-info}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{% collapse "Prise en charge de l'anévrisme de l'aorte abdominale" "show" %}}
 
 {{< mermaid title="Conduite à tenir pour le dépistage de l'anévrisme de l'aorte abdominale. Drs Alaedine Benani et JB Fron d'après ACC/AHA 2022 et ESC 2017">}}
@@ -124,7 +124,7 @@ graph TB
 
 > **AOMI =** artériopathie oblitérante des membres inférieurs
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - {{< references/esh-2023 >}}

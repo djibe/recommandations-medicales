@@ -170,7 +170,7 @@ graph TB
   style examen stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Inserm. Le saturnisme ou intoxication au plomb. Août 2015.](https://www.inserm.fr/information-en-sante/dossiers-information/saturnisme)

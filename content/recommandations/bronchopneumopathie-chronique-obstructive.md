@@ -580,7 +580,7 @@ graph TB
 {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} = anticholinergique de longue durée d'action  
 {{< modal-btn modal-ttt-laba-lama >}}Associations LABA + LAMA{{< /modal-btn >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Information du patient BPCO" %}}
 
 [Carnet de suivi en ligne de la BPCO par la SPLF](http://www.carnet-bpco.fr/)  

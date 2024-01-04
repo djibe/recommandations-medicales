@@ -138,7 +138,7 @@ flowchart TB
 style fortuite stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< video poster="https://b-s-h.org.uk/media/17278/bsh-video-poster.png" mp4="https://b-s-h.org.uk/media/21102/guideline-for-the-treatment-of-chronic-lymphocytic-leukaemia.mp3?cf=638034153129670000" webm="https://b-s-h.org.uk/media/21102/guideline-for-the-treatment-of-chronic-lymphocytic-leukaemia.mp3?cf=638034153129670000" description="Podcast de la British Society of Haematology sur la prise en charge de la leucémie lymphoïde chronique" >}}

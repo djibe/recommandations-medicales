@@ -527,7 +527,7 @@ haute["TSH &ge; 0,1mUI/L"] --> haute2("- Pas de traitement<br>- TSH / 6-12 mois<
 style haute stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="7VUjGq2OYX0" title="La minute RECO HAS | Pathologies thyroïdiennes : pertinence des examens d'imagerie (Dr Jean Tramalloni)" >}}

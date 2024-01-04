@@ -261,7 +261,7 @@ graph TB
     clinique -- Femme --> bilanFemme("<b>Bilan de la femme</b><br>—<br>- TSH<br>- Sérologies IST voire autres<br>- Échographie pelvienne<br>endo-vaginale 3D à J2-J3<br>- Selon critères: hormones") --> AMP
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Guideline Group on Unexplained Infertility, Romualdi D et al; ESHRE. Evidence-based guideline: unexplained infertility. Hum Reprod. 2023.](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/dead150/7246182)

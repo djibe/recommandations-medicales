@@ -155,7 +155,7 @@ graph TB
   style lymphopénie stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Abou Chahla W; SFP. Lymphopénie de découverte fortuite de l'enfant. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/hematologie/lymphopenie-de-decouverte-fortuite-de-lenfant)

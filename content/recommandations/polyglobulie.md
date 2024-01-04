@@ -141,7 +141,7 @@ graph TB
   style polyglobulie stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - Société française d'hématologie (sfh). Item 317 - Syndromes myéloprolifératifs. Hématologie Réussir son DFASM. 2021.

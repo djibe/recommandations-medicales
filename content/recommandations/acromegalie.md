@@ -132,7 +132,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Centre de référence des maladies rares de l'hypophyse (HYPO). Acromégalie. PNDS. 2021.](https://www.has-sante.fr/jcms/p_3292767/fr/acromegalie)

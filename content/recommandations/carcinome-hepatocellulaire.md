@@ -204,7 +204,7 @@ graph TB
   style autre stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Blanc JF et al; AFEF. Carcinome hépatocellulaire (cancer primitif du foie). Thésaurus National de Cancérologie Digestive (TNCD). septembre 2023.](https://www.snfge.org/content/7-carcinome-hepatocellulaire-cancer-primitif-du-foie)

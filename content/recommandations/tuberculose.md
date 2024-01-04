@@ -64,7 +64,7 @@ Le BCG peut être administré en même temps que n'importe quel autre vaccin mai
 
 > *[Santé Publique France. Liste des pays de haute endémie (taux d'incidence > 40 cas de tuberculose/100.000 habitants), année 2021.](https://www.santepubliquefrance.fr/media/files/01-maladies-et-traumatismes/maladies-et-infections-respiratoires/tuberculose/donnees-tuberculose_tableau-12)*
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Suivi thérapeutique de la tuberculose" %}}
 
 {{< table title="Examens de suivi de la tuberculose maladie" >}}
@@ -86,19 +86,19 @@ Le BCG peut être administré en même temps que n'importe quel autre vaccin mai
   Bio (NFS-plaq, créatininémie)  
   Opht (Examen ophtalmologique)
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Conduite à tenir devant un cas contact de tuberculose" %}}
 
 Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre de Lutte AntiTuberculeuse* (CLAT) départemental.
 
 {{< iframe url="https://splf.fr/clat/" title="SPLF: Liste des centres de lutte AntiTuberculeuse">}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Informations du patient avec la tuberculose" %}}
 
 [HAS. ALD n°29 - Guide patient: Comprendre la tuberculose](https://www.has-sante.fr/jcms/c_609444/fr/ald-n-29-guide-patient-comprendre-la-tuberculose)
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
 
 {{< card-link-external title="Formation complète à distance sur la tuberculose" url="https://www.fun-mooc.fr/fr/cours/tuberculosis/" subtitle="Par l'Institut Pasteur">}}

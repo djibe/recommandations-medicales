@@ -68,7 +68,7 @@ Contact à risque négligeable
 : Toutes les autres situations de contact
 : ou Covid-19 déjà identifié confirmé par sérologie ou RT-PCR, guéri ou symptomatique depuis > 7 jours (et apyrétique depuis > 48 heures).
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Personnes à risque de forme grave" %}}
 
 > La vaccination anti-SARS-CoV-2 est recommandée à toutes les femmes enceintes quel que soit le terme de la grossesse. (*CNGOF*), 3 doses
@@ -82,7 +82,7 @@ Risque démultiplié de forme grave de covid-19 si polypathologique. Doit tenir 
   - Comorbidité à haut risque de forme sévère et schéma vaccinal incomplet (tout âge)
 {{< clinique/covid-forme-grave >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Antiviraux" %}}
 
 ### Paxlovid
@@ -122,7 +122,7 @@ Paxlovid®: Nirmatrelvir 150 mg 2 cp + Ritonavir 100 mg 1 cp per os toutes les 1
 Possibilité de préciser une **dispensation conditionnelle** en cas de test Covid positif dans les 5 jours suivant la prescription.
 {{%/info%}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Vaccination" %}}
 
 - [Centres de vaccination](https://www.sante.fr/cf/centres-vaccination-covid.html)
@@ -178,12 +178,12 @@ Atteintes possibles après une infection à Sars-Cov-2.
 - Perte de mémoire
 - Psychiques
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Certificats" %}}
 
 > << L'Ordre rappelle que les médecins n'ont pas à établir de certificat médical pour le retour à l'école. >> *[CNOM 11/09/2020](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificat-medical-lecole)*
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Prise en charge par Paxlovid" "show" %}}
 
 {{< mermaid title="Prise en charge par Paxlovid par le médecin généraliste. Dr Alaedine Benani d'après HAS 2023 et DGS-Urgent" >}}
@@ -195,7 +195,7 @@ graph TB
   style covid stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 ### Haut Conseil de la Santé Publique

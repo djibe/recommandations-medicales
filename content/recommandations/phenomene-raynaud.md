@@ -245,7 +245,7 @@ style susp stroke:#4150f5, stroke-width:1px
       bilan -- Anormal --> bilanComp
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Les Clés Du Diagnostic. Acrosyndrome vasculaire. Filières de santé maladies rares. 2023 (PDF)](https://clesdudiagnostic.fr/wp-content/uploads/2023/01/2-cles-acrosyndrome.pdf)

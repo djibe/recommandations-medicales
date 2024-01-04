@@ -474,7 +474,7 @@ accTitle:Prise en charge d'une personne à risque de dénutrition d'après HAS e
 
 > CNO = complément alimentaire; MNA = {{%lang%}}Mini Nutritional Assessment{{%/lang%}}; PP = perte de poids, sem = semaine
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="1uehBQjbbFU" title="La minute RECO HAS | Dénutrition : pour un meilleur diagnostic (Pr Éric Fontaine)" >}}

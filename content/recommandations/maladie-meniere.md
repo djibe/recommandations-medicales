@@ -206,7 +206,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Wu V et al. Approche à adopter pour la prise en charge de la maladie de Ménière. Canadian family physician Medecin de famille canadien. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6738464/)

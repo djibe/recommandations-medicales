@@ -157,7 +157,7 @@ graph TB
 
 > **RPM =** résidu post-mictionnel
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - Prescrire Redaction. Patients ayant une incontinence d'urine. Rev Prescrire. 2023.

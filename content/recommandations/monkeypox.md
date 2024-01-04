@@ -186,7 +186,7 @@ La 2<sup>e</sup> dose sera réalisée quand une large population aura été prim
 
 [Liste des Centres de vaccination contre Monkeypox](https://www.sante.fr/monkeypox) ou [spécifiques de l'Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients).
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Traitement du Monkeypox" %}}
 
 Poliovirus = [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}). Le monkeypox nécessite un [cerfa spécifique de déclaration](https://www.formulaires.service-public.fr/gf/cerfa_12218.do). Contacter l'ARS au plus vite en cas de femme ou d'enfant.  
@@ -228,7 +228,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Santé Publique France. Variole du singe (mpox) : point de situation en France au 27 avril. 03/05/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/variole-du-singe-mpox-point-de-situation-en-france-au-27-avril-2023)

@@ -125,7 +125,7 @@ L'ostéoporose est responsable d'un lourd fardeau médico-économique:
 - 35.000 fractures du poignet (2001)
 - 2009 - 2016: 2x moins de traitements spécifiques de l'ostéoporose prescrits ! (*[Cortet 2022](https://doi.org/10.1016/j.bone.2021.116255)*)
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 ### Interrogatoire
@@ -149,7 +149,7 @@ L'ostéoporose est responsable d'un lourd fardeau médico-économique:
   - Appui monopodal < 5s
   - Difficulté à garder l'équilibre en poussée sternale
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 Examens pour éliminer une ostéoporose secondaire.
@@ -223,7 +223,7 @@ Toutefois 50% des fractures surviennent chez des personnes avec T-score > -2,5.
 
 Les mesures sur os arthrosique ou sur fracture vertébrale surestiment la DMO.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Calcul du FRAX et du risque de fracture osseuse" %}}
 
 ### Calcul du FRAX
@@ -329,7 +329,7 @@ $(function () {
 })
 </script>
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Prévention de l'ostéoporose" %}}
 
 ### Mesures de prévention de l'ostéoporose
@@ -360,7 +360,7 @@ Tout au long de la vie: activité physique adaptée, {{< modal-btn modal-regime 
 - Apports protéiques minimum de 1 à 1,2 g/kg/j
 - Limiter les sodas
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Traitements anti-ostéoporotiques: biphosphonates, raloxifène, dénosumab" %}}
 
 {{%info%}}
@@ -520,7 +520,7 @@ window.addEventListener('load', function() {
 - Romosozumab  
   Conditions: femme ménopausée avant 75 ans sans risque cardiovasculaire.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Suivi du patient ostéoporotique" %}}
 
 Réévaluation de la prise en charge de l'ostéoporose:
@@ -550,7 +550,7 @@ Envisager la suspension de la prise en charge par médicaments de l'ostéoporose
 
 Réévaluation de la prise en charge avec ostéodensitométrie 2 ans après l'arrêt du traitement.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Prise en charge de l'ostéoporose" "show" %}}
 
 **NB.** La figure suivante concerne uniquement la prise en charge en l'absence de fracture.
@@ -589,7 +589,7 @@ graph TB
 > **FESF** = fracture de l'extrémité supérieure du fémur  
 **NB.** Discordance entre SFRhumato et HAS en cas de fracture non sévère: indication de traitement si T-score ≤ -2 (-3 pour la *HAS*)
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
 - [Associations des patients: Aflar](https://www.aflar.org)
@@ -600,7 +600,7 @@ graph TB
 - Prévention des chutes  
   [GRIO. À la maison, apprenons à éviter les dangers (PDF)](http://www.grio.org/documents/page85/dangers-maison.pdf)
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Vidéos de formation" %}}
 
 Vidéos de formation sur l'ostéoporose.
@@ -609,7 +609,7 @@ Vidéos de formation sur l'ostéoporose.
 
 {{< video mp4="https://media.frequencemedicale.com/JDF/EM223/20221004_JDF_OSTEOPOROSE.mp4" poster="https://www.frequencemedicale.com/media/fmtype/images/jdf223img-1666000030.png" description="Ostéoporose : nouvelles stratégies thérapeutiques (Pr Briot, Pr Cortet par FréquenceMédicale)" >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Biver E et al. Dietary recommendations in the prevention and treatment of osteoporosis. Joint Bone Spine. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X22001816)

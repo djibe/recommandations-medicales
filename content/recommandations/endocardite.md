@@ -156,7 +156,7 @@ accTitle: Recommandations pour la prise en charge des personnes à haut risque d
       mesures -- Antibioprophylaxie --> antibioprophylaxie("Soins dentaires à haut risque:<br>Amoxicilline 2 g 30-60 min avant<br>—<br>Pas d'antibioprophylaxie des autres gestes<br>(sauf sepsis)")
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 Pour le traitement des endocardites infectieuses, lire {{< references/spilf-2020 >}}.

@@ -504,7 +504,7 @@ Le **suivi doit être au moins mensuel** et les traitements doivent être arrêt
 
 Enfin le **topiramate** peut être introduit par un alcoologue (*AHRQ 2023*).
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Objectif: Réduction d'une consommation" %}}
 
 Rappel: Il est recommandé de **promouvoir l'abstinence** mais d'**accepter les objectifs de consommation du patient** s'il choisit une réduction de la consommation (idéalement à faible risque < 10 verres/semaine).  
@@ -521,7 +521,7 @@ Réévaluation à 7 et 14 jours puis 1/mois au moins 6 mois.
 
 Autre traitement: titration de baclofène (Baclocur® ou Baclofène Zentiva, max 80 mg/j, remb 15%), 30 mg/j en cas de cirrhose.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
 ### Associations pour l'arrêt de l'alcool

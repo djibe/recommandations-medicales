@@ -173,7 +173,7 @@ graph TB
   style symptômes stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="0L8aFHXeQrQ" title="Hémorroïdes : c'est la crise ! (TutoGastro SNFGE 2023)" >}}

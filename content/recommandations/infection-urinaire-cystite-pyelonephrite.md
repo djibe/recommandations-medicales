@@ -363,7 +363,7 @@ accTitle: Prise en charge d'une pyélonéphrite en ambulatoire d'après HAS 2021
   gravite -- Oui --> urgences(Urgences)
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [HAS. Antibiogrammes ciblés pour les infections urinaires à Entérobactéries dans la population féminine adulte (à partir de 12 ans). 2023.](https://www.has-sante.fr/jcms/p_3262788/fr/antibiogrammes-cibles-pour-les-infections-urinaires-a-enterobacteries-dans-la-population-feminine-adulte-a-partir-de-12-ans)

@@ -308,7 +308,7 @@ graph TB
     suspicion -- Diagnostic différentiel --> differentiel("- Spondyloarthrite<br>- Connectivite<br>- Arthrose digitale")
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
 [HAS - Vivre avec une polyarthrite rhumatoïde (PDF)](https://www.has-sante.fr/jcms/c_825900/fr/ald-n-22-guide-patient-vivre-avec-une-polyarthrite-rhumatoide)
@@ -325,7 +325,7 @@ graph TB
 
 **NB.** Régimes sans gluten et lactose n'ont pas fait preuve d'efficacité.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [England BR et al. 2022 American College of Rheumatology Guideline for Exercise, Rehabilitation, Diet, and Additional Integrative Interventions for Rheumatoid Arthritis. Arthritis Rheumatol. 2023.](https://rheumatology.org/integrative-ra-treatment-guideline)

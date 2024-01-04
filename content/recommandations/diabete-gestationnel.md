@@ -224,7 +224,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 > Glycémie exprimée en g/L
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< card-link-external title="e-learning EASD" url="https://easd-elearning.org/courses/gestational-diabetes-mellitus/">}}

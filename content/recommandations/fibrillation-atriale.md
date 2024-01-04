@@ -398,7 +398,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="3HeRh1Q25kQ" title="Parcours de soin chez un patient avec Fibrillation Atriale (Fréquence Médicale)" >}}

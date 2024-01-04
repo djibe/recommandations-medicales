@@ -17,7 +17,7 @@ sctid = "118185001"
 icd10 = ""
 image = true
 imageSrc = "Illustration de la grossesse par stories / Freepik"
-todo = "critères TSH, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
+todo = "grossesse altitude, critères TSH, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
 chart = true
 +++
 
@@ -152,13 +152,18 @@ Un scanner thoraco-abdominopelvien avec ou sans injection de produit de contrast
 
 ### Traumatisme pendant la grossesse
 
-- Chute ou traumatisme thoraco-abdominal non grave: examen obstétrical systématique après 20 SA
+Chute ou traumatisme thoraco-abdominal non grave: examen obstétrical systématique après 20 SA
 
 > – *CNGOF/SFMU/SFAR 2022*
 
 ### Menace d'accouchement imminent
 
-Signes prédictifs d'accouchement imminent à l'interrogatoire: multiparité, antécédent d'accouchement extrahospitalier ou rapide, contractions utérines douloureuses et rapprochées, envie de pousser.
+Signes prédictifs d'accouchement imminent à l'interrogatoire:
+
+- Multiparité
+- Antécédent d'accouchement extrahospitalier ou rapide
+- Contractions utérines douloureuses et rapprochées
+- Envie de pousser
 
 Toucher vaginal avant appel urgent de l'équipe obstétricale prévue.
 

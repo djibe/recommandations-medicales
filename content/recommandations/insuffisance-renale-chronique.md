@@ -80,6 +80,9 @@ IRC
 IRCT
 : insuffisance rénale chronique terminale
 
+KDIGO
+: {{%lang%}}Kidney Disease: Improving Global Outcomes{{%/lang%}}
+
 KFRE
 : score {{%lang%}}Kidney Failure Risk Equation{{%/lang%}}
 
@@ -106,7 +109,7 @@ Fin 2018: 89.692 malades en suppléance (55% dialyse et 45% greffés).
 
 [Dépenses liées à l'IRC terminale](https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Insuffisance%20r%C3%A9nale%20chronique%20terminale), à la [transplantation rénale](https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Insuffisance%20r%C3%A9nale%20chronique%20terminale&refine.patho_niv2=Transplantation%20r%C3%A9nale) et son [suivi](https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Insuffisance%20r%C3%A9nale%20chronique%20terminale&refine.patho_niv2=Suivi%20de%20transplantation%20r%C3%A9nale)
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Facteurs de risque d'insuffisance rénale - Qui dépister?" %}}
 
 Population à risque d'insuffisance rénale chronique, définie par la présence d'au moins un facteur de risque parmi:
@@ -155,7 +158,7 @@ Indications au suivi de la maladie rénale chronique par un néphrologue:
 
 Le suivi par le néphrologue est recommandé en cas de doute sur la nature de la maladie rénale, des antécédents familiaux, une albuminurie, un traitement à marge thérapeutique étroite.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Clinique, stade et albuminurie" %}}
 
 ### 1) Interrogatoire
@@ -232,7 +235,7 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
 
 Le déclin annuel est **physiologique** quand < 2 mL/min/1,73m²/an.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 {{%info%}}
@@ -469,7 +472,7 @@ Protection du capital veineux quand DFGe < 45 mL/min (pas de prélèvement des a
 
 Connaître les signes et symptômes de la maladie rénale chronique et savoir qui prévenir.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Conduite à tenir pour le dépistage de la maladie rénale chronique" "show" %}}
 
 {{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge de la maladie rénale chronique. Dr JB Fron d'après HAS 2023 et KDIGO" >}}
@@ -488,7 +491,7 @@ style fdr stroke:#4150f5, stroke-width:1px
   nephroprotection -- stade 3B+ --> avis(Suivi néphrologique)
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [HAS. Maladie rénale chronique de l'adulte (MRC). Guide du parcours de soins. 2023.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)

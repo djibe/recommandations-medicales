@@ -209,7 +209,7 @@ accTitle: Prise en charge d'une suspicion de diverticulite sigmoïdienne d'aprè
         bio --> SIB-(Pas de SIB) --> autre(Autre diagnostic)
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - {{< references/college-gastro >}}

@@ -177,7 +177,7 @@ Des tests de provocation cutanée (Prick tests) sont réalisés au préalable.
 
 Les symptômes disparaissent après quelques semaines ou relèvent de traitement symptomatique.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Surveillance" %}}
 
 - Courbes de croissance
@@ -187,7 +187,7 @@ Les symptômes disparaissent après quelques semaines ou relèvent de traitement
   Surveillance des signes d'hyperandrogénie.  
 {{%class%}}La prévalence peut atteindre 20% après une puberté précoce.{{%/class%}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
 {{< mermaid title="Conduite à tenir devant une suspicion de puberté précoce. Dr JB Fron d'après SFEndocrino" >}}

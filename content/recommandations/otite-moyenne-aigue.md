@@ -168,7 +168,7 @@ style OMAP stroke:#4150f5, stroke-width:1px
 
 {{< card-link-external title="Quiz sur l'otoscopie" url="https://docs.google.com/forms/d/e/1FAIpQLSfPLdMfKAuKyrIQI0pWI8w-v72YwYRYjhjxXmJvJUHnH-7nrQ/viewform" subtitle="par MedQual" >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)

@@ -45,7 +45,7 @@ todo = "rythme suivi RGO par EOGD, Reflux Disease Questionnaire (RDQ)"
 - Échec du traitement
 {{%/danger%}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Définitions" %}}
 
 Reflux gastro-œsophagien (RGO)
@@ -82,7 +82,7 @@ SNFGE
 : Société Nationale Française de Gastro-Entérologie
 {.dl-inline}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 Le reflux gastro-œsophagien est un diagnostic d'interrogatoire devant des signes typiques et en l'absence de signes d'alarme.
@@ -107,7 +107,7 @@ Signes typiques de reflux gastro-œsophagien:
 - Enrouement, laryngite chronique
 - Érosions dentaires
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
 Pathologies à étayer devant un tableau de reflux gastro-œsophagien:
@@ -119,7 +119,7 @@ Pathologies à étayer devant un tableau de reflux gastro-œsophagien:
 - Lithiases biliaires
 - [Angor]({{< relref "syndrome-coronarien-chronique.md" >}})
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 Aucun examen complémentaire devant des signes typiques de reflux gastrique et l'absence de signe d'alarme
@@ -161,7 +161,7 @@ Indication: EOGD documentée avec résistance au traitement optimisé.
 
 Réalisé sous IPP double dose.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Traitement du RGO" %}}
 
 **Objectifs de la prise en charge du reflux gastro-œsophagien:** soulager les symptômes, cicatrisation des lésions et prévention des récidives.
@@ -282,7 +282,7 @@ Utiliser dans l'ordre:
 - Perte d'appétit
 - Faible prise de poids
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Prise en charge du reflux gastrique" "show" %}}
 
 {{< mermaid title="Conduite à tenir et prise en charge du reflux gastro-œsophagien. Dr JB Fron d'après SNFGE" >}}
@@ -301,7 +301,7 @@ graph TB
   RGO -- Différentiel --> differentiel("Dyspepsie<br>Cancer<br>Ulcère gastrique/duodénal<br>Sténose peptique de l'œsophage<br>Lithiase biliaire<br>Angor")
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
 - [SNFGE. Guide patient: Le reflux gastro-œsophagien (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/reflux_gastro-oesophagien_snfge-cregg_2017.pdf)
@@ -312,14 +312,14 @@ Favorisée par l'obésité et une hernie hiatale.
 - Du fait de l'absence de clapet, le traitement consiste à éviter de faire remonter le contenu gastrique grâce aux mesures d'hygiènes
 - Mais aussi par les médicaments qui diminuent l'acidité gastrique.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
 
 [Zerbib F. Diagnostic actuel du RGO : Consensus de Lyon (GUT 2018). POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-actuel-du-rgo-consensus-de-lyon-gut-2018/)
 
 {{< youtube id="Kf2iGE3aUrI" title="Vidéo d'explications du traitement du reflux gastro-œsophagien (SNFGE)" >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Tighe MP et al. Pharmacological treatment of gastro‐oesophageal reflux in children. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008550.pub3/full/fr)

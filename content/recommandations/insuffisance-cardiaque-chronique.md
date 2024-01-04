@@ -474,7 +474,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 
 > ICFEd = insuffisance cardiaque à fraction d'éjection diminuée
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
 [HAS. Vivre avec une insuffisance cardiaque (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-06/08-096_gp_insuf-cardia.pdf) et [HeartFailureMatters.org](https://www.heartfailurematters.org/fr/).
@@ -548,7 +548,7 @@ réalistes
 
 > *HAS 2014, ESC 2021, [HFA 2010](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)*
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="60VQUo3xqAw" title="Insuffisance cardiaque, encore un effort! (Fréquence Médicale)" >}}

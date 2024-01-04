@@ -121,7 +121,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Centre de Référence des Maladies Auto-inflammatoires et de l'Amylose inflammatoire (CeRéMAIA). Maladie de Kawasaki. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3363015/fr/maladie-de-kawasaki)

@@ -181,7 +181,7 @@ style clinique stroke:#4150f5, stroke-width:1px
 style fortuite stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - Société française d'hématologie (sfh). Leucémies aiguës. Hématologie Réussir son DFASM. 2021.

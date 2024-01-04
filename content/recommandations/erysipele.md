@@ -227,7 +227,7 @@ accTitle: Conduite à tenir et prise en charge d'un érysipèle d'après HAS/SPI
 
 > **BPG =** Benzathine-pénicilline G; **DH =** dermohypodermite; **SG =** signes généraux.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-155.pdf)

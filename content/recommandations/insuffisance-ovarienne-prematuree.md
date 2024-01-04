@@ -238,7 +238,7 @@ graph TB
 
 > FSH exprimée en UI/L
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [HAS. Insuffisance ovarienne prématurée / primitive (en dehors du syndrome de Turner). Mars 2021.](https://www.has-sante.fr/jcms/p_3264990/fr/insuffisance-ovarienne-prematuree-iop)

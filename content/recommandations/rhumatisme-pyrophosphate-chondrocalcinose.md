@@ -159,7 +159,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Cowley S, McCarthy G. Diagnosis and Treatment of Calcium Pyrophosphate Deposition (CPPD) Disease: A Review. Open Access Rheumatol. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10040153/)

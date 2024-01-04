@@ -139,7 +139,7 @@ graph TB
   style augmentation stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Rouillon JM. Élévation isolée de la γ-GT. SNFGE. 2018. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/recommandations/elevation_isolee_0.pdf)

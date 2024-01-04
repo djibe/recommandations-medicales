@@ -151,7 +151,7 @@ accTitle: Prise en charge d'un écoulement mamelonnaire d'après CNGOF 2015
 
 > **PRL =** prolactine
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - Boisserie-Lacroix M, Lippa N. Prise en charge d'un écoulement mamelonnaire. La lettre du sénologue. 2016.

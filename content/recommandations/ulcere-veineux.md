@@ -301,7 +301,7 @@ graph TB
   style ulcère stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="YqY_zHXRgxQ" title="La mesure de l'index de pression systolique (Dr Richard Belley)" >}}

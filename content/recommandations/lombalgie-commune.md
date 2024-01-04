@@ -241,7 +241,7 @@ graph TB
   style lombalgie stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="YpejbojhWrY" title="La minute RECO HAS | Lombalgie commune (Dr Florent Bailly)" >}}

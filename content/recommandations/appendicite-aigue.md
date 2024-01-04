@@ -200,7 +200,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Collard MK et al. Appendicite de l'adulte : recommandations pour la pratique clinique de la Société française de chirurgie digestive (SFCD) et de la Société d'imagerie abdominale et digestive (SIAD). Journal de Chirurgie Viscérale. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S1878786X20304447)

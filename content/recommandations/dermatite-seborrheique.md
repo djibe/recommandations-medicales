@@ -161,7 +161,7 @@ graph TB
         entretien -.-> severe("Sévère et résistant<br>—<br>Sérologie VIH<br>Avis dermatologique")
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{% collapse "Information du patient" %}}
 
 Éléments à présenter au patient concernant la dermite séborrhéique:

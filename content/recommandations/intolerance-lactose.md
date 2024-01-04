@@ -139,7 +139,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Catanzonaro R et al. Lactose intolerance: An update on its pathogenesis, diagnosis, and treatment. Nutrition Research. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0271531721000129)

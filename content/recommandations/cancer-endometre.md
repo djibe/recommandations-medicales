@@ -181,7 +181,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [ACOG. Management of Endometrial Intraepithelial Neoplasia or Atypical Endometrial Hyperplasia. 2023.](https://www.acog.org/clinical/clinical-guidance/clinical-consensus/articles/2023/09/management-of-endometrial-intraepithelial-neoplasia-or-atypical-endometrial-hyperplasia)

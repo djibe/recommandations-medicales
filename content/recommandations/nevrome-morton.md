@@ -39,7 +39,7 @@ Probablement par origine microtraumatique.
 
 Bursite inter-capito-métatarsienne.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 ### Symptômes du névrome de Morton
@@ -58,7 +58,7 @@ Pour diagnostic différentiel.
 
 En cas de doute diagnostique.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Traitement du névrome de Morton" %}}
 
 Prise en charge du névrome de Morton avec:
@@ -68,7 +68,7 @@ Prise en charge du névrome de Morton avec:
 
 La chirurgie est réservée aux échecs du traitement médical.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Prise en charge du névrome de Morton" "show" %}}
 
 {{< mermaid title="Prise en charge du névrome de Morton par le médecin généraliste. Dr JB Fron d'après Revue Médicale Suisse" >}}
@@ -77,7 +77,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Ray A. Métatarsalgies : diagnostic et prise en charge. Rev Med Suisse. 2013.](https://www.revmed.ch/RMS/2013/RMS-N-411/Metatarsalgies-diagnostic-et-prise-en-charge)

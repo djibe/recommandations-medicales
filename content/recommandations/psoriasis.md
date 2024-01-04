@@ -262,7 +262,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Collège des enseignants de dermatologie de France (CEDEF). Psoriasis. Item 117. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-117-%E2%80%94-Psoriasis_CompressPdf.pdf)

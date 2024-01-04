@@ -275,7 +275,7 @@ style SII stroke:#4150f5, stroke-width:1px
   alarme -- Oui --> gastro(Consultation du<br>gastro-entérologue)
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - Prescrire Redaction. Troubles intestinaux bénins récurrents. Rev Prescrire. 2023.

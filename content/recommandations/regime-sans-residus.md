@@ -110,7 +110,7 @@ graph TB
   style régime stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Hassan C et al. Bowel preparation for colonoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2019. Endoscopy. 2019.](https://www.thieme-connect.de/products/ejournals/html/10.1055/a-0959-0505)

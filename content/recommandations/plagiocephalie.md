@@ -141,7 +141,7 @@ graph TB
   style plagiocéphalie stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="5xtCwQV86pA" title="La minute RECO HAS | Plagiocéphalies (Pr Hugues Patural)" >}}

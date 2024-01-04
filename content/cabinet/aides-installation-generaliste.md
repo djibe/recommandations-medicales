@@ -54,7 +54,7 @@ En dehors des aides auxquelles ont est en droit de prétendre lorsqu'on travaill
 - L'ESP doit être composé de professionnels de la santé de 1er et 2nd recours ; pas pour la CPTS,
 - Le projet de santé doit toucher les patients de la patientèle des médecins se regroupant pour l'ESP alors que la CPTS, cela doit refléter l'ensemble de la population du territoire couvert par la CPTS.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Cartes des zones d'installation prioritaires" %}}
 
 Cartographies pour l'aide à l'installation des médecins généralistes avec le zonage et les différentes aides (ARS, Assurance Maladie, aide de la région ...)
@@ -64,7 +64,7 @@ Cartographies pour l'aide à l'installation des médecins généralistes avec le
 - Zonage régional des ARS
   - [Île-de-France](https://santegraphie.fr/mviewer/?config=app/zonage_medecin.xml#)
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Aides de l'Assurance Maladie" %}}
 
 Aides possibles uniquement pour une installation en ZIP.
@@ -125,7 +125,7 @@ Majoration possible par l'ARS à 6000 €/an + 1500 €/an + 360 €/an.
 - CSTM  
   Inciter les médecins des zones non sous-dotées à exercer à temps partiel dans les zones sous-dotées.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Aides des ARS" %}}
 
 Possibles pour installation en ZIP ou en ZAC.
@@ -153,7 +153,7 @@ Faciliter l'installation des médecins généralistes en zone sous-dense (ZIP ou
 
 > – *[Ministère de la Santé. Contrat de début d'exercice (CDE). 22/03/2021](https://solidarites-sante.gouv.fr/professionnels/se-former-s-installer-exercer/contrat-de-debut-d-exercice-cde/CDE)*
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Aides régionales" %}}
 
 ### Région Île-de-France
@@ -174,7 +174,7 @@ Financement de la création de nouvelles structures d'exercices collectif (créa
 - Subvention à hauteur de 30% du montant (immobilier + travaux) avec un plafond de 250.000 €
 - À hauteur de 50% de la dépense de l'équipement dans la limite de 100.000 €
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 Les références sont mentionnées sous chaque article.

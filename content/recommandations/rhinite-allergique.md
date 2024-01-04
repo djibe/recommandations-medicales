@@ -264,7 +264,7 @@ style suspicion stroke:#4150f5, stroke-width:1px
   clinique -- Diagnostic différentiel --> différentiel("- Pathologie olfactive<br>- Sinusite<br>- Maladie de système<br>- Plexus caverneux<br>- Iatrogénie<br>- Masse mobile<br>- Rhinite inflammatoire<br>- Réflexe photo-sternutatoire<br>- Brèche méningée")
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Collège des Enseignants de Pneumologie (CEP). Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_188_ASTHME_RHINITE_2023.pdf)

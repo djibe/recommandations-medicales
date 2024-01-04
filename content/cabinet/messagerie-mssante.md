@@ -24,7 +24,7 @@ MSSanté
 Plusieurs opérateurs ont été homologués pour échanger des messages sur ce réseau sécurisé. Le webmail MSSanté [Mailiz](https://mailiz.mssante.fr/) est gratuit pour les médecins.
 : Depuis 2022, le service de l'Assurance Maladie *MonEspaceSanté* a intégré ce réseau, permettant de transmettre à tout patient des messages et documents de façon sécurisée (voir *Envoyer un message sécurisé à un patient*).
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Créer une adresse MSSanté" %}}
 
 Gratuit pour tous les médecins: [https://mailiz.mssante.fr/](https://mailiz.mssante.fr/).  
@@ -34,7 +34,7 @@ L'identité utilisée correspond à celle avec laquelle vous êtes enregistrés 
 
 **NB.** Pour les médecins salariés, contactez les service informatique pour connaître l'adresse déjà créée pour vous.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Trouver l'adresse de messagerie d'un confrère" %}}
 
 Pour trouver l'adresse sécurisée d'un confrère:
@@ -44,14 +44,14 @@ Pour trouver l'adresse sécurisée d'un confrère:
 - Ou bien sur l'[Annuaire Santé](https://annuaire.sante.fr/)  
   Accessible sans identifiants.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Utiliser la messagerie MSSanté sur mobile" %}}
 
 L'application gratuite M@iliz ([Android](https://play.google.com/store/apps/details?id=fr.asip.mssante), [iOS](https://apps.apple.com/fr/app/mssant%C3%A9/id813551300)) permet d'accéder à sa boîte mail MSSanté depuis son smartphone.
 
 Le numéro de téléphone doit être associé à l'adresse de messagerie sécurisée **depuis l'espace personnel web** de Mailiz.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Envoyer un message sécurisé à un patient" %}}
 
 Tout médecin peut envoyer un message sécurisé avec ou sans pièce-jointe à un patient en écrivant à:
@@ -61,4 +61,4 @@ NumeroDeSécuDuPatientA13Chiffres@patient.mssante.fr
 
 **NB.** Les patients ne peuvent pas initier de conversation avec vous. Mais ils pourront répondre à votre message depuis leur espace **MonEspaceSanté**.
 
-{{%/collapse%}}
+{{% /collapse %}}

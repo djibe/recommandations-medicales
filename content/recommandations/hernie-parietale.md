@@ -156,7 +156,7 @@ accTitle: Conduite à tenir et prise en charge d'une hernie pariétale d'après 
       etranglement -- Oui --> urgences(Urgence vitale)
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - Collège Français de Chirurgie Générale, Viscérale et Digestive. Hernie pariétale chez l'enfant et chez l'adulte. Item 286 - UE8. Chirurgie générale, viscérale et digestive. 2e édition.

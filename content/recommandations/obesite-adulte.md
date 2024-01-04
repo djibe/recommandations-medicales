@@ -434,7 +434,7 @@ graph TB
 
 > **MCV =** maladie cardiovasculaire ; **QdV =** qualité de vie
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="Uyel7_curVU" title="Que faire face à un patient en situation d'obésité ? (HAS)" >}}

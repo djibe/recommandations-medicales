@@ -311,7 +311,7 @@ gitGraph
 
 > 2 cp de 2 à 24h avant le rapport puis 1 cp 24 heures après cette double prise, 4<sup>e</sup> cp 24h après la 2<sup>e</sup> prise. En cas de rapports répétés, poursuivre 1 cp/j avec arrêt 2 jours après le dernier rapport sexuel.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Chou R et al. Preexposure Prophylaxis for the Prevention of HIV: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2023.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prevention-of-human-immunodeficiency-virus-hiv-infection-pre-exposure-prophylaxis)

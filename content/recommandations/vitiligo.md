@@ -167,7 +167,7 @@ graph TB
   style achromique stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Inserm. Vitiligo. 2023.](https://www.inserm.fr/information-en-sante/dossiers-information/vitiligo)

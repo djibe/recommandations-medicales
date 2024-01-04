@@ -353,7 +353,7 @@ graph TB
   style syndrome stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - {{< references/esh-2023 >}}

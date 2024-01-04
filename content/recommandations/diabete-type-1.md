@@ -71,7 +71,7 @@ Un **peptide C** > 600 pmol/L affirme un [diabète de type 2]({{< relref "diabet
 
 [Calcul du risque de diabète MODY](https://www.diabetesgenes.org/exeter-diabetes-app/).
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{% collapse "Dossier médical spécifique pour le diabète type 1" %}}
 
 Trame des éléments à relever pour un dossier médical complet.
@@ -179,7 +179,7 @@ Trame des éléments à relever pour un dossier médical complet.
 
 > *ADA/EASD 2021*
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{% collapse "Les points vitaux du diabète type 1" "show" %}}
 
 - Toute personne avec un diabète type 1 est à risque cardiovasculaire au moins modéré (*ESC 2019*)
@@ -212,12 +212,12 @@ Trame des éléments à relever pour un dossier médical complet.
 
 Adulte bien équilibré: un suivi annuel peut être suffisant.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{% collapse "Insulinothérapie" %}}
 
 Adulte: aiguilles de 4 mm avec injection à 90°.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{% collapse "Hypoglycémies" %}}
 
 > Section d'après *ADA/EASD 2021* sauf mention contraire
@@ -266,7 +266,7 @@ Altération de la perception des hypoglycémies
 : Le facteur majeur est la survenue répétée d'hypoglycémies.  
 La sensibilité aux hypos peut être restaurée en évinçant leur survenue.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{% collapse "Activité physique et vie quotidienne" %}}
 
 > Section d'après *ADA/EASD 2021* sauf mention contraire
@@ -281,7 +281,7 @@ Temporaire avant avis ophtalmologique: rétinopathie diabétique proliférante o
 
 Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heures (+ adaptations nationales).
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Prise en charge du diabète type 1" "show" %}}
 
 {{< mermaid title="Prise en charge de la suspicion de diabète de type 1 par le médecin généraliste. Dr JB Fron d'après ADA/EASD 2021" >}}
@@ -292,7 +292,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< card-link-external title="e-learning EASD" url="https://easd-elearning.org/">}}

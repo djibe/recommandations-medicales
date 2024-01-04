@@ -50,6 +50,9 @@ Facteurs suspectés: hypertension artérielle, exposition au cadmium ou à l'ami
 CCR
 : carcinome à cellules rénales
 
+HAS
+: Haute Autorité de Santé
+
 INCa
 : Institut national du cancer
 {.dl-inline}
@@ -136,7 +139,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Lapôtre-Ledoux B et al. Incidence des principaux cancers en France métropolitaine en 2023 et tendances depuis 1990. Bull Épidémiol Hebd. 2023.](http://beh.santepubliquefrance.fr/beh/2023/12-13/2023_12-13_1.html)

@@ -229,7 +229,7 @@ graph TB
   style fdr stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< card-link-external title="e-learning EASD sur la NASH" url="https://easd-elearning.org/courses/nafld/">}}

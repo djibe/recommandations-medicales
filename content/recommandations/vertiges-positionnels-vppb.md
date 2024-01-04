@@ -223,7 +223,7 @@ graph TB
   style vertiges stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="1obEgiJj-IA" title="Manœuvre de Dix et Hallpike (ORL INFORMATION)" >}}

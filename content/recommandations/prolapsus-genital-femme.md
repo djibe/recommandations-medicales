@@ -267,7 +267,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="ZlMzXY4J-P8" title="La minute RECO HAS | Prolapsus génital (Dr Anne-Cécile Pizzaferrato)" >}}

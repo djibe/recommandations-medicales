@@ -51,7 +51,7 @@ Maladie cardiovasculaire, risque d'infarctus du myocarde multiplié par 6-10 dan
 - Couverture vaccinale 2019-2020 des personnes à risque: 45% (objectif *OMS* de 75%), 21% chez les femmes enceintes (*BEH 2023*)
 - Admis en réanimation pour grippe: mortalité de 20%.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Personnes à risque de grippe grave" %}}
 
 {{%info%}}
@@ -141,7 +141,7 @@ Signes et symptômes de la grippe:
 
 **Aucun examen complémentaire** devant un tableau de grippe saisonnière non compliquée.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Vaccins disponibles pour la campagne de vaccination 2023-2024" %}}
 
 {{%info%}}
@@ -212,7 +212,7 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Ameli Médecin. Vacciner ses patients atteints de maladies chroniques contre la grippe et le Covid-19 est essentiel. 15/11/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/vacciner-ses-patients-atteints-de-maladies-chroniques-contre-la-grippe-et-le-covid-19-est-essentiel)

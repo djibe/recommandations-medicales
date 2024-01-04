@@ -283,7 +283,7 @@ graph TB
 
 > **FESF** = fracture de l'extrémité supérieure du fémur
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< card-link-external title="FMC GRIO - Ostéoporose Masculine" url="http://www.grio.org/membres/video-webcast.php" subtitle="Le point sur les recommandations françaises de la prise en charge de l'ostéoporose masculine">}}

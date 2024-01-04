@@ -330,7 +330,7 @@ accTitle: Prise en charge de l'hypertrophie bénigne de la prostate (HBP) d'apr�
 {{< /mermaid >}}
 
 > **DE =** dysfonction érectile
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [AFU. Bilans pré-thérapeutiques des troubles mictionnels de l'homme adulte - Label HAS. Recommander les bonnes pratiques. 2023.](https://www.has-sante.fr/jcms/p_3323646/fr/label-bilans-pre-therapeutiques-des-troubles-mictionnels-de-l-homme-adulte-modalites-et-acteurs)

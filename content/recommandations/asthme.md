@@ -584,7 +584,7 @@ graph TB
 
 > **CSI =** corticostéroïde inhalé (ou corticoïde inhalé) ; **CSO =** corticostéroïde oral (ou corticoïde oral)
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="kVODyHcz2xk" title="Mesure du débit expiratoire de pointe - Peak flow (IFMK Brest)" >}}

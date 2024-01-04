@@ -160,7 +160,7 @@ graph TB
   style hypotension stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - {{< references/esh-2023 >}}

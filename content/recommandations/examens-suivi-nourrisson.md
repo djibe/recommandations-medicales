@@ -147,7 +147,7 @@ Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{
 |      6 ans | Apparition des premières incisives définitives |
 {{< /table >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 Sources citées en regard des sections.

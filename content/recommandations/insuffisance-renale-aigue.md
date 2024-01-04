@@ -83,6 +83,9 @@ IRA F
 IRC
 : insuffisance rénale chronique
 
+KDIGO
+: {{%lang%}}Kidney Disease: Improving Global Outcomes{{%/lang%}}
+
 PCI
 : produit de contraste iodé
 
@@ -172,7 +175,7 @@ Risque d'insuffisance rénale aiguë post-contraste selon la voie d'injection:
 - IEC/ARA2: pas d'interruption sauf hypovolémie
 - Diurétiques: selon surcharge hydrosodée et risque d'IRA-PC
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Prise en charge d'une insuffisance rénale aiguë" "show" %}}
 
 {{< mermaid title="Prise en charge d'une insuffisance rénale aiguë. Dr JB Fron d'après Collèges et KDIGO 2012" >}}
@@ -181,7 +184,7 @@ graph TB
   style IRA stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%sources%}}
 
 - [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale aiguë - Anurie. Item 348. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?article62)

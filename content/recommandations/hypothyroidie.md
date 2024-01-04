@@ -243,7 +243,7 @@ Plus rarement bloc de branche, micro-voltage, torsade de pointe, extrasystoles v
 
 Signes résolutifs sous lévothyroxine.
 
-{{%/collapse%}}
+{{% /collapse %}}
 {{%collapse "Traitement de l'hypothyroïdie" %}}
 
 En cas d'indication de traitement peu claire (ex. doses faibles de LT4), il est possible de suspendre le traitement en accord avec le patient et de contrôler la TSH à 4-6 semaines
