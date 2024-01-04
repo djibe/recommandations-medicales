@@ -169,8 +169,6 @@ Mesures associées à la prise en charge des cancers:
 - Personne de confiance
 - Droit à l'oubli: protocole achevé depuis 5 ans en l'absence de rechute
 
-Suivi: clinique, biologie voire échographie cervicale.
-
 ### Pour en savoir plus: les traitements du cancer de la thyroïde
 
 > << Les cancers anaplasiques de la thyroïde représentent une urgence thérapeutique. >> – INCa 2023

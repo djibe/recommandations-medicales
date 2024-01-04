@@ -55,7 +55,6 @@ Sur la même période, 21 départements ont vu le nombre de médecins générali
 
 ### Pyramide des âges des médecins généralistes en activité
 
-<script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Pyramide des âges des médecins généralistes en activité régulière en 2023"}</script>
 <figure class="figure-chart">
   <div id="chart2"></div>
   <figcaption><b>Figure 2.</b> Pyramide des âges des médecins généralistes en activité régulière en 2023. Dr JB Fron d'après CNOM 2023.</figcaption>

@@ -1,5 +1,5 @@
 +++
-title = "Coronovirus Disease 2019 (Covid-19)"
+title = "Coronavirus Disease 2019 (Covid-19)"
 prefix = "la "
 noindex = true
 titleSeo = "CoViD-19"

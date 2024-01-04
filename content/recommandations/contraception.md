@@ -51,8 +51,8 @@ Le défaut d'observance est l'une des causes principales des grossesses non plan
 
 <figure class="figure-chart">
   <div id="chart2"></div>
-  <figcaption><b>Figure.</b> Évolution de la fécondité en France métropolitaine de 1950 à nos jours. Dr JB Fron d'après <em><a href="https://www.insee.fr/fr/statistiques/4277635?sommaire=4318291" rel="external nofollow noopener">Insee 2020</a></em>. Échelle de temps non linéaire.<br>
-  <b>Légende:</b> Indicateur conjoncturel de fécondité (ICF), plus communément appelé nombre d'enfants par femme.</figcaption>
+  <figcaption><b>Figure.</b> Évolution de la fécondité en France métropolitaine de 1950 à nos jours. Dr JB Fron d’après <em><a href="https://www.insee.fr/fr/statistiques/4277635?sommaire=4318291" rel="external nofollow noopener">Insee 2020</a></em>. Échelle de temps non linéaire.<br>
+  <b>Légende:</b> Indicateur conjoncturel de fécondité (ICF), plus communément appelé nombre d’enfants par femme.</figcaption>
 </figure>
 <script>
 const chartOptions2 = {
