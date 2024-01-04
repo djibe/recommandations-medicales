@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2023-10-05"
+lastmod = "2024-01-04"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "CRAT", "SFD"]
@@ -18,6 +18,7 @@ icd10 = ""
 image = true
 imageSrc = "Illustration de la grossesse par stories / Freepik"
 todo = "critères TSH, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
+chart = true
 +++
 
 {{%article-summary%}}
@@ -55,6 +56,50 @@ Chapitres dédiés:
 - [Vomissements et nausées pendant la grossesse]({{< relref "vomissements-grossesse-hyperemese-gravidique.md" >}})
 
 {{%/article-summary%}}
+{{%collapse "La maternité en France" "show"%}}
+
+{{< figure-chart title="Évolution du nombre de maternités en France métropolitaine et naissances vivantes depuis 1975. Dr JB Fron d’après Drees Les établissements de santé - édition 2022 (fiche 21). NB. Échelle non linéaire en abscisse" >}}
+
+<script>
+const chartOptions = {
+  series: [{
+    name: 'Maternités',
+    data: [1369, 1035, 814, 695, 581, 519, 471, 458]
+  },
+  {
+    name: 'Naissances vivantes',
+    data: [745.065, 768.461, 734.338, 774.782, 796.896, 790.290, 719.737, 696.900]
+  }],
+  chart: { type: 'line', height: 280 },
+  markers: { size: 0 },
+  stroke: { colors: ['#4150f5', '#ffa600'], curve: 'smooth', width: 4 },
+  title: { text: 'Évolution du nombre de maternités en France métropolitaine' },
+  xaxis: { categories: [1975, 1985, 1996, 2000, 2006, 2012, 2018, 2020] },
+  yaxis: [
+    {
+      title: { text: 'Maternités'},
+      labels: { style: { colors: '#757575' }},
+      decimalsInFloat: 0,
+      tickAmount: 4,
+      min: 0
+    },
+    {
+      opposite: true,
+      title: { text: 'Naissances vivantes (milliers)' },
+      decimalsInFloat: 1,
+    }
+  ],
+  tooltip: {
+    y: [{ formatter: function(value) { return value} },
+      { formatter: function(value) { return value }}]
+  },
+}
+</script>
+
+Malgré ces fermetures de maternités, **43 %** des maternités ont réalisé en 2020 **moins de 3 accouchements par jour**. – [Drees Les établissements de santé - édition 2022 (fiche 21)](https://drees.solidarites-sante.gouv.fr/publications-documents-de-reference-communique-de-presse/panoramas-de-la-drees/les-etablissements)
+{.alert .alert-info}
+
+{{% /collapse %}}
 {{%collapse "Désir de grossesse et bilan pré-conceptionnel" %}}
 
 ### Désir de grossesse
@@ -93,14 +138,14 @@ Pour toutes les femmes: double détermination du groupe sanguin RhD et recherche
   - Fœtus RhD négatif: 2e génotypage après 15 SA à au moins 2 semaines du premier. Si RhD négatif confirmé, pas de prévention d'allo-immunisation nécessaire.
   - Le RhD fœtal ne peut être déterminé sur 2 prélèvements: considérer comme RhD positif
 
-> - *CNGOF 2017*
+> – *CNGOF 2017*
 
 {{% /collapse %}}
 {{%collapse "Imageries et grossesse" %}}
 
 Un scanner thoraco-abdominopelvien avec ou sans injection de produit de contraste peut être réalisé s'il est indiqué pour la mère, << la balance bénéfice/risque de cet examen devant prévaloir à la décision de sa réalisation >>.
 
-> - *CNGOF/SFMU/SFAR 2022*
+> – *CNGOF/SFMU/SFAR 2022*
 
 {{% /collapse %}}
 {{%collapse "Urgences pendant la grossesse" %}}
@@ -109,7 +154,7 @@ Un scanner thoraco-abdominopelvien avec ou sans injection de produit de contrast
 
 - Chute ou traumatisme thoraco-abdominal non grave: examen obstétrical systématique après 20 SA
 
-> - *CNGOF/SFMU/SFAR 2022*
+> – *CNGOF/SFMU/SFAR 2022*
 
 ### Menace d'accouchement imminent
 
@@ -121,13 +166,13 @@ En ville, position gynécologique suggérée pour pouvoir réaliser la manœuvre
 
 Pas d'épisiotomie systématique.
 
-> - *CNGOF/SFMU/SFAR 2022*
+> – *CNGOF/SFMU/SFAR 2022*
 
 ### Menace d'accouchement prématuré (MAP)
 
 Pas de transport en SAMU systématique des MAP.
 
-> - *CNGOF/SFMU/SFAR 2022*
+> – *CNGOF/SFMU/SFAR 2022*
 
 {{% /collapse %}}
 {{%collapse "Prise de poids pendant la grossesse" %}}
