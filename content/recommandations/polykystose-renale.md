@@ -15,10 +15,8 @@ tags = ["HTA", "nephropathie"]
 anglais = ["Autosomal Dominant Polycystic Kidney Disease (ADPKD)"]
 sctid = "765330003"
 icd10 = "Q61.2"
-draft = true
 image = true
 imageSrc = "Kystes rénaux et hépatiques multiples affirmant une polykystose chez une femme de 45 ans. Cas d'Erik Ranschaert, Radiopaedia.org, rID: 11109"
-todo = "liens"
 flowchart = true
 +++
 
