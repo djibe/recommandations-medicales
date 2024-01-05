@@ -678,6 +678,7 @@ graph TB
 - [ANSM. Les stérilets contenant le plus d’hormone présenteraient davantage de risque de troubles dépressifs. 14/02/2023.](https://ansm.sante.fr/actualites/les-sterilets-contenant-le-plus-dhormone-presenteraient-davantage-de-risque-de-troubles-depressifs)
 - [Ameli Médecin. Le point sur les préservatifs pris en charge sans prescription pour les moins de 26 ans. 03/01/2023.](https://www.ameli.fr/medecin/actualites/le-point-sur-les-preservatifs-pris-en-charge-sans-prescription-pour-les-moins-de-26-ans)
 - [Collège Français des Enseignants en Urologie (CFEU). Contraception. Item 36. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-36-Contraception-.pdf)
+- {{< references/college-endocrino >}}
 - [HAS. Contraception : consultations initiale et de suivi. Mars 2020.](https://www.has-sante.fr/jcms/p_3122291/fr/contraception-consultations-initiale-et-de-suivi)
 - [HAS. Contraception : prescriptions et conseils aux femmes. Septembre 2019.](https://www.has-sante.fr/jcms/c_1752432/fr/contraception-prescriptions-et-conseils-aux-femmes)
 - [HAS. Contraception chez la femme à risque cardiovasculaire. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1638478/fr/contraception-chez-la-femme-a-risque-cardiovasculaire)

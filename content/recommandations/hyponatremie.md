@@ -233,7 +233,8 @@ En l'absence d'orientation étiologique ou d'efficacité d'un traitement étiolo
 
 ### Bibliographie en attente
 
-[Adrogué HJ, Madias NE. The Syndrome of Inappropriate Antidiuresis. N Engl J Med. 2023.](https://www.nejm.org/doi/full/10.1056/NEJMcp2210411)
+- [Adrogué HJ, Madias NE. The Syndrome of Inappropriate Antidiuresis. N Engl J Med. 2023.](https://www.nejm.org/doi/full/10.1056/NEJMcp2210411)
+- {{< references/college-endocrino >}}
 
 {{%/sources%}}
 {{% modal title="Score de Glasgow" id="modal-glasgow" size="lg" %}}

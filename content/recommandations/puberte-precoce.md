@@ -5,27 +5,26 @@ description = "Recommandations pour le diagnostic de la puberté précoce. Âge,
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-30T14:06:29+02:00
 publishdate = "2020-06-30"
-lastmod = "2022-11-23"
+lastmod = "2024-01-05"
 specialites = ["endocrinologie", "pediatrie"]
-annees = "2015"
-sources = ["SFE", "CNPU"]
-tags = ["enfant", "adolescent"]
+annees = "2022"
+sources = ["SFP"]
+tags = ["enfant"]
 anglais = ["Precocious puberty"]
 sctid = "400179000"
 icd10 = "E30.1"
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Stades de Tanner pour le développement mammaire. The Adolescent Period, 1951Frank Kayley Shuttleworth, Public domain, via Wikimedia Commons"
 flowchart = true
-todo = "Avances pubertaires dissociées"
 +++
 
 {{%article-summary%}}
 
-- Puberté précoce = caractères sexuels secondaires chez fille avant 8 ans et le garçon avant 9,5 ans.
-- IRM semi-urgente si troubles visuels ou syndrome polyuro-polydipsique.
-- Suivi de la puberté précoce: tracer les courbes à chaque consultation.
-- Bilan de première intention de la puberté précoce: âge osseux et échographie pelvienne (chez la fille).
-- Prise en charge spécialisée de la puberté précoce avec avis de l'endocrinologue pédiatrique systématique.
+- La puberté précoce est définie par l'apparition des seins (thélarche) chez une fille avant 8 ans (90% des cas) et l'augmentation de volume des testicules du garçon avant 9 ans avec accélération de la vitesse de croissance et avance de l'âge osseux
+- Bilan d'une puberté précoce: âge osseux et échographie pelvienne (chez la fille)
+- Si troubles visuels ou syndrome polyuro-polydipsique: bilan avec IRM cérébrale semi-urgente
+- Suivi de la puberté précoce: tracer les courbes de croissance à chaque consultation
+- Prise en charge spécialisée de la puberté précoce avec avis de l'endocrinologue pédiatrique systématique
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -36,8 +35,8 @@ Puberté normale
 : Les premiers signes du début de la puberté sont le développement des seins chez la fille et l'augmentation du volume testiculaire chez le garçon.
 
 Puberté précoce (PP)
-: Le diagnostic est clinique, défini par l'âge d'apparition des caractères sexuels (CS II): Fille < 8 ans et garçon < 9,5 ans.
-: La puberté précoce atteint surtout les filles (4,5/1) avec pour origine une tumeur dans 40% des cas (*Klein. JCEM 86*).
+: Le diagnostic est clinique, défini par l'âge d'apparition des caractères sexuels (CS II): Fille avant 8 ans (développement des seins, S2 selon Tanner) et garçon avant 9 ans.
+: La puberté précoce atteint surtout les **filles** (90 %) avec pour origine une tumeur dans 40 % des cas (*Klein. JCEM 86*).
 : Complication: petite taille à l'âge adulte.
 
 La survenue précoce de la puberté est associée à une maturation sexuelle plus rapide et plus marquée du développement physique.  
@@ -47,43 +46,55 @@ Seins de S1 à S4 chez les filles - Testicules de G1 à G5 chez les garçons - P
 
 Prémature thélarche
 : Développement isolé des seins sans:
-
-- Accélération de la croissance  
-- Pilosité pubienne  
-- Avance de l'âge osseux
+    - Accélération de la croissance  
+    - Pilosité pubienne  
+    - Avance de l'âge osseux
+: Les bilans (osseux et échographie pelvienne) sont normaux.
 
 ### Calendrier pubertaire
 
-L'âge moyen de début des caractères sexuels secondaires est de 11 ± 2 ans pour les filles et 12 ± 2 ans pour les garçons.
+L'âge moyen de début des caractères sexuels secondaires est de **11 ± 2 ans** pour les filles et **12 ± 2 ans** pour les garçons.
 
 #### Ordre d'apparition des caractères sexuels secondaires
 
-- Filles. Seins > Poils pubiens > Menstruations
-- Garçons. Testicules (> 4 mL) > Pénis > Poils pubiens
+- Filles: **Seins** > Poils pubiens > Menstruations
+- Garçons: **Testicules** (> 4 mL) > Pénis > Poils pubiens
 
-30 à 65 % des garçons développent au milieu de la puberté une gynécomastie bilatérale pendant quelques mois
+> 30 à 65 % des garçons développent au milieu de la puberté une gynécomastie bilatérale pendant quelques mois
 {.alert .alert-info}
+
+### Abréviations
+
+PP
+: puberté précoce
+
+PPC
+: puberté précoce centrale
+
+SFP
+: Société Française de Pédiatrie
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Étiologie des pubertés précoces" %}}
 
-2 grands groupes:
+2 grands groupes de pathologies à l'origine d'une puberté précoce: centrale ou périphérique.
 
-### 1. Pubertés précoces centrales (PPC)
+### Pubertés précoces centrales (PPC)
 
-Hypothalamo-hypophysaire par activation précoce de la sécrétion de hypothalamique GnRH.
+Origine hypothalamo-hypophysaire par activation précoce de la sécrétion de hypothalamique GnRH:
 
-- Idiopathique (80-95% des filles)
+- **Idiopathique** (92 % des filles, 50 % des garçons)
 - Tumeurs du SNC  
-{{%class%}}**Hamartome hypothalamique**, gliome du chiasma, astrocytome, autres (50% des garçons).{{%/class%}}
+  **Hamartome hypothalamique**, gliome du chiasma, astrocytome, autres (50 % des garçons).
 - Radiothérapie cérébrale
 - Infections: [méningite]({{< relref "meningite.md" >}})
 - Pathologie inflammatoire  
-  {{%class%}}Neurofibromatose de type 1, sclérose tubéreuse de Bourneville.{{%/class%}}
+  Neurofibromatose de type 1, sclérose tubéreuse de Bourneville.
 - Congénitale et malformative  
   Hydrocéphalie, atrophie corticale, kyste arachnoïdien.
 
-### 2. Pubertés précoces périphériques
+### Pubertés précoces périphériques
 
 Sécrétion de stéroïdes sexuels par une gonade autonome.
 
@@ -100,20 +111,21 @@ Sécrétion de stéroïdes sexuels par une gonade autonome.
 
 ### Interrogatoire
 
-- Taille des parents
+Interrogatoire à mener en cas de puberté précoce:
+
+- Taille des parents et calcul de la taille cible
 - Âge de puberté des parents et de la fratrie
 - Chronologie d'apparition des caractères sexuels
 - Antécédents personnels et familiaux
 - Médicaments pris
 - Céphalées
 - Troubles visuels  
-{{%class%}}Baisse d'acuité visuelle, scotome.{{%/class%}}
-- Syndrome polyuro-polydipsique  
-{{%class%}}Suspicion de diabète insipide.{{%/class%}}
+  Baisse d'acuité visuelle, scotome.
+- Syndrome polyuro-polydipsique
 - Symptômes digestifs
 - Crises de rires immotivés  
-{{%class%}}Crises épileptiques dites gélastiques de l'hamartome hypothalamique.{{%/class%}}
-- Fille: prise de la pilule de la mère, crème avec œstrogènes.
+  Crises épileptiques dites gélastiques de l'hamartome hypothalamique.
+- Fille: prise de la pilule de la mère, crème avec œstrogènes
 
 ### Examen clinique
 
@@ -121,44 +133,79 @@ Sécrétion de stéroïdes sexuels par une gonade autonome.
 - **Courbes de croissance**
 - **[Examen des caractères sexuels](https://wikimedi.ca/index.php?title=ULaval:MED-1230/Puberté_normale_et_anormale#Pubert.C3.A9_normale)**
 - Examen cutané  
-{{%class%}}Tâches café au lait de la neurofibromatose type 1 (syndrome de McCune Albright).{{%/class%}}
+  Tâches café au lait de la neurofibromatose type 1 (syndrome de McCune Albright), vergetures ([Cushing]({{< relref "syndrome-cushing.md" >}})).
+
+### Calculer la taille cible
+
+<div class="card-body rounded-lg border mb-3" style="max-width: 280px" id="target-height">
+  <div class="form-group floating-label textfield-box form-ripple">
+    <label for="height-father">Taille du père (cm)</label>
+    <input class="form-control" id="height-father" type="number" min="120" max="220">
+  </div>
+  <div class="form-group floating-label textfield-box form-ripple">
+    <label for="height-mother">Taille de la mère (cm)</label>
+    <input class="form-control" id="height-mother" type="number" min="120" max="200">
+  </div>
+  <div class="form-group">
+    <p class="typography-overline text-black-secondary">Taille cible (cm)</p>
+    <output class="form-control text-black-secondary" id="">Fille: <span id="height-female">Compléter les mesures</span></output>
+    <output class="form-control text-black-secondary" id="">Garçon: <span id="height-male">Compléter les mesures</span></output>
+  </div>
+</div>
+<script>
+window.addEventListener('load', () => {
+  const fatherHeightElem = document.getElementById('height-father');
+  const motherHeightElem = document.getElementById('height-mother');
+  const resultFElem = document.getElementById('height-female');
+  const resultMElem = document.getElementById('height-male');
+  [...document.querySelectorAll('#target-height input[type="number"]')].forEach((elem) => { elem.addEventListener('input', () => calcTargetHeight() ) })
+  const calcTargetHeight = () => {
+    let heightMale = 0;
+    let heightFemale = 0;
+    if (fatherHeightElem.value > 0 && motherHeightElem.value > 0) {
+      heightMale = ((parseInt(fatherHeightElem.value, 10) + parseInt(motherHeightElem.value, 10)) / 2) + 6.5;
+      heightFemale = ((parseInt(fatherHeightElem.value, 10) + parseInt(motherHeightElem.value, 10)) / 2) - 6.5;
+      resultFElem.innerText = heightFemale;
+      resultMElem.innerText = heightMale;
+    }
+  }
+})
+</script>
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan devant une puberté précoce
+### Bilan de la puberté précoce
 
-Réservé au spécialiste avec **test LHRH**.
+Le bilan est réservé au spécialiste avec **test LHRH**.
 
-### Âge osseux +++
+### Âge osseux
 
 **Bilan de première intention** par radiographie de la main gauche.
 
-### Échographie pelvienne +++
+### Échographie pelvienne
 
-**Systématique chez la fille en première intention**.  
-{{%class%}}Affirme l'imprégnation œstrogénique (utérus devient piriforme avec taille > 36 mm, apparition d'une ligne endocavitaire et renflement fundique, ovaires > 2 mL) et élimine une cause périphérique (kyste sécrétant ovarien).{{%/class%}}
+**Échographie pelvienne systématique chez la fille en première intention**.
+
+L'échographie affirme l'imprégnation œstrogénique (utérus devient piriforme avec taille > 36 mm, apparition d'une ligne endocavitaire et renflement fundique, ovaires > 2 mL) et élimine une cause périphérique (kyste sécrétant ovarien).
 
 ### IRM hypophysaire
 
-Prescrite par le spécialiste.  
-Étude du volume hypophysaire et recherche syndrome tumoral supra-sellaire.
+L'IRM hypophysaire relève d'une **prescription spécialisée**. Étude du volume hypophysaire et recherche syndrome tumoral supra-sellaire.
 
 {{%warning%}}
 Indications à l'IRM en semi-urgence:
 
-- Troubles visuels  
-  Baisse d'acuité visuelle, scotome.
-- Syndrome polyuro-polydipsique (suspicion de diabète insipide)
-
+- Troubles visuels: baisse d'acuité visuelle, scotome
+- Syndrome polyuro-polydipsique
 {{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Traitement de la puberté précoce" %}}
 
-Le traitement relève du **pédiatre spécialisé en endocrinologie**.
+Le traitement de la puberté précoce relève du **pédiatre spécialisé en endocrinologie**.
 
-### Traitement de la puberté précoce centrale (PPC)
+### Pour en savoir plus: traitement de la puberté précoce centrale (PPC)
 
 Il consiste en des injections (SC/IM) d'**analogues ou agonistes de la GnRH** (tryptoréline ou leuproréline en formes LP).
 
@@ -169,51 +216,40 @@ Des tests de provocation cutanée (Prick tests) sont réalisés au préalable.
 
 #### Tolérance des analogues du GnRH
 
-- Bonne
+- Bonne tolérance
 - Douleurs au point point d'injection
 - Céphalées 1/3 des cas
-- Bouffées de chaleur < 10%
+- Bouffées de chaleur < 10 %
 - Troubles digestifs < 5%
 
-Les symptômes disparaissent après quelques semaines ou relèvent de traitement symptomatique.
+Les effets indésirables des analogues du GnRH disparaissent après quelques semaines ou relèvent de traitement symptomatique.
 
 {{% /collapse %}}
-{{%collapse "Surveillance" %}}
+{{%collapse "Surveillance de la puberté précoce" %}}
 
 - Courbes de croissance
 - Activité physique soutenue en cas de surpoids
 - Enquête diététique des apports calciques
-- [Syndrome des ovaires polykystiques]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) (SOPK)  
-  Surveillance des signes d'hyperandrogénie.  
-{{%class%}}La prévalence peut atteindre 20% après une puberté précoce.{{%/class%}}
+- Signes de [syndrome des ovaires polykystiques]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) (SOPK)  
+  Surveillance des signes d'hyperandrogénie.
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{%collapse "Prise en charge d'une puberté précoce" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de puberté précoce. Dr JB Fron d'après SFEndocrino" >}}
+{{< mermaid title="Prise en charge d'une suspicion de puberté précoce par le médecin généraliste. Dr JB Fron d'après SFP" >}}
 graph TB
-  pp[Observation de caractères sexuels] -- Fille --> fille["Âge &lt; 8 ans"]
+  pp[Observation de caractères sexuels] -- Fille --> fille["Âge &lt; 8 ans"] -- Oui --> examen("<b>Clinique</b><br>—<br>- Interrogatoire<br>- Examen clinique<br>- Courbes de croissance<br>- Taille cible") -- Signes de gravité ? --> gravite("- Céphalées<br>- Troubles visuels<br>- Polyuro-polydipsie") -- Non --> bilan("Âge osseux<br>Fille: Échographie pelvienne") --> specialiste(Endocrinologue pédiatrique)
   style pp stroke:#4150f5, stroke-width:1px
-    pp -- Garçon --> garcon("Âge &lt; 9,5 ans")
-      fille -- Oui --> examen("Interrogatoire<br>Examen clinique<br>Courbes de croissance")
-      garcon -- Oui --> examen
-        examen --> bilan("Âge osseux<br>Fille: Échographie pelvienne")
-          bilan --> specialiste("Consultation d'endocrinologue<br>pédiatrique")
-        examen -- Signes de gravité ? --> gravite("Céphalées<br>Troubles visuels<br>Polyuro-polydipsie")
-          gravite -- Oui -->  IRM("IRM hypophysaire<br>en semi-urgence")
-            IRM --> specialiste
+    pp -- Garçon --> garcon("Âge &lt; 9 ans") -- Oui --> examen
+    gravite -- Oui --> IRM("IRM hypophysaire<br>en semi-urgence") --> specialiste
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
-- {{< references/college-endocrino >}}
-- [Pienkowski C. et al. La puberté avant l'âge - Nouveaux aspects. (PDF)](http://www.medecine.ups-tlse.fr/desc/fichiers/Puberte%20precoce.pdf)
-
-### Bibliographie en attente
-
+- Prescrire Redaction. Puberté précoce chez les filles. Rev Prescrire. 2023.
 - [Haïne E. Puberté précoce. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/endocrinologie/puberte-precoce)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Puberté normale et pathologique. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/puberte-normale-pathologique)
-- Prescrire
+- Pienkowski C et al. La puberté avant l'âge - Nouveaux aspects.
 
 {{%/sources%}}

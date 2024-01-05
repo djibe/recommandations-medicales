@@ -270,6 +270,7 @@ graph TB
 - [Boitrelle F et al. The Sixth Edition of the WHO Manual for Human Semen Analysis: A Critical Review and SWOT Analysis. Life (Basel). 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8706130/)
 - [World Health Organization. WHO laboratory manual for the examination and processing of human semen, 6th ed. World Health Organization. 2021.](https://www.who.int/publications/i/item/9789240030787)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Item 38 Infertilité du couple : conduite de la première consultation. Gynécologie obstétrique Réussir son DFASM. 2021.
+- {{< references/college-endocrino >}}
 - [Boedt T et al. Preconception lifestyle advice for people with infertility. Cochrane Database of Systematic Reviews. 2021.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008189.pub3/full/fr)
 - [Collège Français des Enseignants en Urologie (CFEU). Stérilité du couple : conduite de la première consultation Item 38. Référentiel du collège d'urologie 5ème édition. 2021.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/chapitre-02-sterilite-du-couple-conduite-de-la-premiere-consultation/)
 - [Wang R et al. Interventions for unexplained infertility: a systematic review and network meta‐analysis. Cochrane Database of Systematic Reviews. 2019.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012692.pub2/full/fr)

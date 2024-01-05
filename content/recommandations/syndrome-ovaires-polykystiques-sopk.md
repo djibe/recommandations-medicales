@@ -313,8 +313,8 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Teede HJ et al; International PCOS Network. Recommendations from the 2023 International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome. Fertil Steril. 2023.](https://www.fertstert.org/article/S0015-0282(23)00719-7/fulltext)
 - [Goodman NF et al. AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS, AMERICAN COLLEGE OF ENDOCRINOLOGY, AND ANDROGEN EXCESS AND PCOS SOCIETY DISEASE STATE CLINICAL REVIEW: GUIDE TO THE BEST PRACTICES IN THE EVALUATION AND TREATMENT OF POLYCYSTIC OVARY SYNDROME--PART 1. Endocr Pract. 2015.](https://linkinghub.elsevier.com/retrieve/pii/S1530-891X(20)35322-2)
-- Collège endocrinologie
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}

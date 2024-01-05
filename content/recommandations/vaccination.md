@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2023-09-17"
+lastmod = "2024-01-01"
 specialites = ["infectiologie", "pediatrie"]
 annees = "2023"
 sources = ["MinSanté", "HCSP"]
@@ -16,14 +16,14 @@ anglais = ["Immunization", "vaccination"]
 sctid = "33879002"
 icd10 = ""
 image = true
-imageSrc = "Illustration de la vaccination par Freepik"
-todo = "Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages, https://publications.aap.org/pediatrics/article/150/3/e2021056007/188497/Value-of-the-Immunization-Program-for-Children-in"
+imageSrc = "La vaccination. Freepik"
+todo = "HAS EMLA, Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages, https://publications.aap.org/pediatrics/article/150/3/e2021056007/188497/Value-of-the-Immunization-Program-for-Children-in"
 +++
 
 {{%article-summary%}}
 
 - Rappel vaccinal de [la coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA), stratégie de cocooning sinon
-- Les pharmaciens formés peuvent prescrire et administrer chez les +11 ans tous les vaccins du calendrier vaccinal, y compris le ROR (sauf immunodépression)
+- Les pharmaciens formés peuvent prescrire et administrer à partir de 11 ans tous les vaccins du calendrier vaccinal, y compris le ROR (sauf immunodépression)
 - Vaccination des +16 ans par les infirmiers sans ordonnance pour: [grippe]({{< relref "grippe.md" >}}), dTcaPolio, [papillomavirus]({{< relref "cancer-col-uterus.md" >}}), pneumocoque, [hépatite A]({{< relref "hepatite-a.md" >}}) et [B]({{< relref "hepatite-b.md" >}}), méningocoques B et ACYW135 et la rage
 - Poser une question pour un cas vaccinal particulier: [Infovac App](https://app.infovac.fr) (nécessite de créer un compte)
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
@@ -207,17 +207,20 @@ Contre-indications temporaires à la vaccination:
 {{% /collapse %}}
 {{%collapse "Administration des vaccins" %}}
 
-> << La présence d'une infection mineure ou d'une fièvre de faible intensité ne doit pas retarder le rattrapage vaccinal. L'existence d'une maladie fébrile (> 38°C) ou d'une infection aiguë modérée ou sévère ne contre-indique pas la vaccination mais peut conduire à la différer de quelques jours >> (*Calendrier vaccinal*)
+> << La présence d'une infection mineure ou d'une fièvre de faible intensité ne doit pas retarder le rattrapage vaccinal. L'existence d'une maladie fébrile (> 38°C) ou d'une infection aiguë modérée ou sévère ne contre-indique pas la vaccination mais peut conduire à la différer de quelques jours >> – *Calendrier vaccinal*
 {.alert .alert-warning}
 
-Contrôler la date de péremption du vaccin, la chaîne du froid (à l'abri de la lumière, température de 2°C à 8°C), consigner le lot dans le dossier médical.  
-Changer d'aiguille après la reconstitution du vaccin.
-
-Possibilité de réaliser jusqu'à 4 injections en même temps, dont 2 sur le même site (2 IM, 2 SC ou IM + SC) espacées d'au moins 2,5 cm.  
-La présence d'une infection mineure ne doit pas retarder le rattrapage vaccinal.  
-Vaccins vivants, soit injectés en même temps ou sinon laisser 1 mois de délai entre les 2 injections.
-
-Vider l'air de la seringue (optionnel), désinfection locale et laisser sécher (risque d'inactivation du vaccin), insérer avec angle de 90° avec la peau, injection rapide avec retrait rapide (testée chez nourrisson). Pas d'aspiration préalable nécessaire.
+- Contrôler la date de péremption du vaccin, la chaîne du froid (à l'abri de la lumière, température de 2°C à 8°C)
+- Consigner le lot dans le dossier médical
+- **Changer d'aiguille** après la reconstitution du vaccin
+- Possibilité de réaliser jusqu'à 4 injections en même temps, dont 2 sur le même site (2 IM, 2 SC ou IM + SC) espacées d'au moins 2,5 cm
+- Vaccins vivants: soit injectés en même temps ou espacés d'1 mois entre les 2 injections
+- Désinfection locale et laisser sécher (risque d'inactivation du vaccin)
+- Ne pas purger l'air
+- Demander un relâchement musculaire
+- Insérer avec angle de 90° (pour une IM) avec la peau en une seule fois
+- Pas d'aspiration préalable nécessaire
+- Injection rapide avec retrait rapide
 
 Disposer du matériel nécessaire à un choc anaphylactique.
 
@@ -226,14 +229,21 @@ Depuis le 7 novembre 2022, les infirmiers et pharmaciens peuvent administrer san
 
 ### Sites d'injection
 
-- Avant 1 an
-  - Face antéro-latérale du tiers moyen de la cuisse
-  - Aiguille 16 mm (orange)
-- Après 1 an
-  - Deltoïde
-  - Aiguilles: 16 mm (orange) < 60 kg; 30-40 mm (bleue-noire) pour ado/adulte, 40 mm (noire) si > 90 kg
+Injection intramusculaire (IM):
 
-**NB.** Après BCG, ne pas injecter pendant 3 mois sur le même mebre.
+- Avant 2 ans: face antéro-latérale du tiers moyen de la cuisse (aiguille 16 mm - orange)  
+  **Deltoïde** dès que: +1 an, marche acquise, +10 kg.
+- Après 2 ans: deltoïde  
+  Aiguilles: 16 mm (orange) < 60 kg; 30-40 mm (bleue-noire) pour ado/adulte, 40 mm (noire) si > 90 kg
+
+**NB.** Après BCG, ne pas injecter pendant 3 mois sur le même membre.
+
+Injection sous-cutanée:
+
+- Avant 1 an: face antéro-latérale du tiers moyen de la cuisse
+- Après 1 an: face postérieure du bras
+
+> – *CNPU*
 
 #### Sites où ne pas injecter
 
@@ -249,7 +259,7 @@ Ne pas injecter dans un site si celui-ci présente:
 ### Technique d'injection
 
 - Sous-cutanée
-  - Pincer la peau et injection à 45° dans le deltoïde
+  - Pincer la peau et injection à 45° dans le deltoïde (face postérieure du bras – *CNPU*)
   - Vaccins viraux vivants/tués comme ROR, fièvre jaune
 - Intramusculaire
   - Angle de 90°
@@ -257,7 +267,8 @@ Ne pas injecter dans un site si celui-ci présente:
 - Intradermique
   - Réservée au BCG
 
-**NB.** Pour les thrombocytémiques, hémophiles ou sans anticoagulants: préférer la sous-cutanée suivie de compression locale ≥ 5 minutes. Sinon dans le deltoïde avec aiguille fine suivie d'une compression forte et prolongée.
+**NB.** Pour les thrombocytémiques, hémophiles ou sans anticoagulants: préférer la sous-cutanée suivie de compression locale au moins 5 minutes. Sinon dans le deltoïde avec aiguille fine suivie d'une compression forte et prolongée.
+{.alert .alert-info}
 
 ### Vaccination et don du sang
 
@@ -299,13 +310,13 @@ Documents pour informer sur la vaccination:
 - [Ministère de la Santé. La vaccination du nourrisson contre les rotavirus. Questions/Réponses pour les professionnels de santé. Novembre 2022.](https://sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-ps.pdf)
 - [Omedit Auvergne. Vaccination et Chimiothérapie. 22/07/2022.](https://www.omedit-auvergne-rhone-alpes.ars.sante.fr/vaccination-et-chimiotherapie)
 - [Décret 2022-610 pour la vaccination par les infirmiers et pharmaciens. Journal officiel.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045638858)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Vaccinations. Infections urinaires. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/vaccinations)
+- [Cohen R. Administration des vaccins par voie intramusculaire. Médecine & enfance. 2021. (PDF)](https://www.infovac.fr/docman-marc/public/pratiques-vaccinales/1874-ia-intramusculaire-me-decine-et-enfance/file)
 - [Infovac](https://www.infovac.fr)
 - [Vaccination Info Service](https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Administration-des-vaccins)
 
 ### Bibliographie en attente
 
 - [HAS. Obligations et recommandations vaccinales des professionnels : Actualisation des recommandations et obligations pour les étudiants et professionnels des secteurs sanitaire, médicosocial et en contacts étroits avec de jeunes enfants. 2023.](https://www.has-sante.fr/jcms/p_3424589/fr/obligations-vaccinales-des-professionnels-la-has-publie-le-1er-volet-de-ses-travaux)
-- [Cohen R. Administration des vaccins par voie intramusculaire. Médecine & enfance. 2021. (PDF)](https://www.infovac.fr/docman-marc/public/pratiques-vaccinales/1874-ia-intramusculaire-me-decine-et-enfance/file)
-- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Vaccinations. Infections urinaires. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/vaccinations)
 
 {{%/sources%}}

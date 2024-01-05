@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-11T15:36:18+01:00"
 publishdate = "2021-11-11"
-lastmod = "2021-11-11"
+lastmod = "2024-01-05"
 specialites = ["allergologie"]
 annees = "2015"
 sources = ["Anses", "Bibliographie"]
@@ -33,6 +33,8 @@ Allergie croisée
 
 {{% /collapse %}}
 {{%collapse "Principales allergies croisées" %}}
+
+{{< card-link-external title="Allerdata - Toutes les allergies croisées" url="https://www.allerdata.com/spip.php?article5" subtitle="par STAllergenes et ThermoFisher" >}}
 
 {{< table title="Principales allergies croisées. Dr JB Fron d'après sources mentionnées" class="table-wrap" >}}
 | Allergène        | Allergie croisée                                                                                                | Source       |
@@ -83,7 +85,7 @@ Acariens présents dans les aliments: récipients hermétiques au congélateur.
 
 ### Allergies aux pollens
 
-- Alerte pollinique: [pollens.fr](https://www.pollens.fr/)
+- Alerte pollinique: [pollens.fr](https://www.pollens.fr)
 - Éviter les promenades en prairies et chemins en cas d'alerte pollinique forte
 - Fermer les fenêtres en milieu de matinée et début d'après-midi
 - Fermer les fenêtres en voiture

@@ -154,7 +154,6 @@ L'estimation des **besoins énergétiques totaux** applique au DEB un facteur de
   window.addEventListener('load', () => {
   $(function () {
     $('#harris-age, #harris-height, #harris-weight').on('input', () => {
-      console.log('start');
       const age = $('#harris-age').val();
       const height = $('#harris-height').val();
       const weight = $('#harris-weight').val();
@@ -167,7 +166,7 @@ L'estimation des **besoins énergétiques totaux** applique au DEB un facteur de
 })
 </script>
 
-> [Harris JA, Benedict FG. A Biometric Study of Human Basal Metabolism. Proc Natl Acad Sci U S A. 1918;4(12):370-373. doi:10.1073/pnas.4.12.370](https://pubmed.ncbi.nlm.nih.gov/16576330/)
+> – *[Harris JA, Benedict FG. A Biometric Study of Human Basal Metabolism. Proc Natl Acad Sci U S A. 1918;4(12):370-373. doi:10.1073/pnas.4.12.370](https://pubmed.ncbi.nlm.nih.gov/16576330/)*
 
 ### Estimation des besoins énergétiques de l'enfant (règle 100/50/25)
 
