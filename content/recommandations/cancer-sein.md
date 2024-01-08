@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
 publishdate = "2021-11-03"
-lastmod = "2023-12-18"
+lastmod = "2024-01-08"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["INCa", "HAS", "ACOG"]
@@ -86,10 +86,11 @@ Chiffres du cancer du sein en France:
 
 - Incidence: 58.459 (métropole 2018)
 - Mortalité: 12.146 (métropole 2018)
-- Survie: 88% à 5 ans (métropole, diagnostic en 2010-2015)
-- Participation au dépistage organisé: 50,6% (2020-2021)
+- Survie: 88 % à 5 ans (métropole, diagnostic en 2010-2015)
+- Participation au dépistage organisé: 50,6 % (2020-2021)
+- 22 % ont moins de 50 ans au diagnostic (35 % au stade régional)
 - Attribution de l'augmentation des cas: facteurs de risque (51%: hormones, alcool, surpoids, sédentarité), population (30%), vieillissement (23%)
-- Introduction du dépistage généralisé: 2004
+- Année d'introduction du dépistage généralisé: 2004
 
 {{< card-link title="Les Français et leur participation au dépistage des cancers" subtitle="Article RecoMédicales" url="/articles/participation-depistage-cancers/">}}
 
@@ -221,7 +222,8 @@ Précisions sur la réalisation des mammographies:
 
 ### Bilan devant un nodule palpable
 
-Mammographies et échographie mammaire bilatérales, complétées par biopsies pour histologie.
+Mammographies et échographie mammaire bilatérales  
+(complétées par biopsies pour histologie et échographie axillaire bilatérale concomitante).
 {{%/info%}}
 
 ### Bilan devant un écoulement mamelonnaire unipore sérosanglant
@@ -240,7 +242,7 @@ Voir le chapitre [écoulement mamelonnaire]({{< relref "ecoulement-mamelonnaire.
 
 ### IRM mammaire
 
-Les indications à l'IRM sont limitées:
+Les indications à l'IRM mammaire sont limitées:
 
 - Antécédent de radiothérapie thoracique haute dose (systématique)
 - BRCA1 ou 2 ou prédisposition génétique avérée (systématique)
@@ -310,7 +312,7 @@ Les mammographies sont remboursées à 100% (les examens supplémentaires ne le 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Chirurgie, radiothérapie, chimiothérapie, hormonothérapie (récepteur estrogène ou progestérone), thérapies ciblées (bévacizumab, HER2).
+Après RCP peuvent être proposés pour la prise en charge du cancer du sein: chirurgie, radiothérapie, chimiothérapie, hormonothérapie (récepteur estrogène ou progestérone), thérapies ciblées (bévacizumab, HER2).
 
 ### Mesures associées
 
@@ -336,7 +338,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
   - Radiothérapie du lit tumoral
 - Cancer du sein infiltrant
   - Tumorectomie voire mastectomie
-  - Radiothérapie des lit tumoral ± paroi thoracique
+  - ± Radiothérapie des lit tumoral ± paroi thoracique
   - ± adjuvant: chimiothérapie, radiothérapie, hormonothérapie
   - ± néo-adjuvant: chimiothérapie, hormonothérapie
 - Cancer du sein métastatique  
@@ -372,12 +374,25 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 
 ### Consignes de précautions pour le côté d'un curage axillaire (lymphœdème)
 
+Lymphœdème
+: En clinique: différence de périmètre brachial ou avant-brachial de 2 cm.
+
+Prise en charge du lymphœdème (*INCa 2022*):
+
+- Correction d'un surpoids
 - Kinésithérapie (massage, drainage lymphatique)
-- Éviter le port de charges lourdes, mouvements répétés longuement
-- Éviter les prises de sang, de tension et injections
+- Phase initiale
+  - Bandages peu élastiques 24h/24 pendant 1-3 semaines
+  - Exercices sous bandages
+- À long terme
+  - Manchon élastique du matin au soir
+  - Bandages monotypes peu élastiques 3 nuits par semaine
 - Désinfection immédiate si blessure
 - Gants de protection si activité à risque de blessure
 - Savoir identifier les signes de lymphangite et consulter en urgence devant: œdème augmenté, rougeur, chaleur, fièvre
+
+> << Pas de contre-indication à: réaliser un prélèvement sanguin, une injection intraveineuse, une mesure de la pression artérielle, un vol en avion, poursuivre les activités de la vie quotidienne, y compris le port de charge >> – *INCa 2022*
+{.alert .alert-warning}
 
 ### Prothèses mammaires externes
 
@@ -407,6 +422,7 @@ graph TB
 
 - [Lavoué V et al. Recommandations pour la pratique clinique du CNGOF. Place de l'auto-examen des seins dans les stratégies de dépistage [Place of breast self-examination in screening strategies. French College of Gynecologists and Obstetricians (CNGOF) recommendations for clinical practice]. Gynecol Obstet Fertil Senol. 2023. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2023/RPC-Place%20de%20l'auto-examen%20des%20seins%20dans%20les%20strat%C3%A9gies%20de%20d%C3%A9pistage.pdf)
 - [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. 2022.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
+- [INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. 2022.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Santé Publique France. Dépistage du cancer du sein : quelle participation des femmes en 2021 ? 2022.](https://www.santepubliquefrance.fr/les-actualites/2022/depistage-du-cancer-du-sein-quelle-participation-des-femmes-en-2021)
 - [INCa. Les cancers du sein en 10 points clés. 2020. (PDF)](https://www.e-cancer.fr/content/download/292195/4161509/file/Cancers_du_sein_en_10_points_cles_mel_20200702.pdf)
@@ -422,7 +438,6 @@ graph TB
 - [INCa. Cancer du sein : du diagnostic au suivi. 2016. (PDF)](https://www.e-cancer.fr/content/download/164989/2115178/file/Cancer-du-sein-Du-diagnostic-au-suivi-20161129.pdf)
 - [Sessa C et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
 - [ESMO. Metastatic Breast Cancer Living Guidelines​](https://www.esmo.org/living-guidelines/esmo-metastatic-breast-cancer-living-guidelines)
-- [INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. Octobre 2021.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)
 
 {{%/sources%}}
 {{% modal title="Score d'Eisinger et consultation génétique" id="modal-eisinger"%}}
