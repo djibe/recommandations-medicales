@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2024-01-04"
+lastmod = "2024-01-05"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "CRAT", "SFD"]
@@ -28,6 +28,7 @@ chart = true
 - 0 alcool et 0 tabac pendant la grossesse, interroger à chaque consultation
 - Vaccins grippe et coqueluche à chaque grossesse et 3 doses de Covid-19
 - [Calendrier de grossesse de GestaClic](http://gestaclic.fr/calculette.html)
+- [Nata](https://play.google.com/store/search?q=NATA&c=apps): l'appli officielle du suivi de grossesse multilingue
 - Besoins en [calcium]({{< relref "apports-calcium.md" >}}): 1 g/j (*IOF*)
 
 Chapitres dédiés:

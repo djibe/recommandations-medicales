@@ -216,8 +216,8 @@ graph TB
 - [INCa. Les cancers de la thyroïde en 10 points clés. 2023.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-de-la-tete-et-du-cou)
 - [Lapôtre-Ledoux B et al. Incidence des principaux cancers en France métropolitaine en 2023 et tendances depuis 1990. Bull Épidémiol Hebd. 2023.](http://beh.santepubliquefrance.fr/beh/2023/12-13/2023_12-13_1.html)
 - [Menegaux F et al. SFE-AFCE-SFMN 2022 consensus on the management of thyroid nodules: Surgical treatment. Ann Endocrinol. 2022.](https://www.sciencedirect.com/science/article/abs/pii/S0003426622008563)
+- Collège Français d'ORL et de Chirurgie Cervico-faciale. Goitres, nodules thyroïdiens et cancers thyroïdiens. Item 241. 2022.
 - {{< references/college-endocrino >}}
 - [HAS. Cancer de la thyroïde. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_969305/fr/ald-n-30-cancer-de-la-thyroide)
-- Collège Français d'ORL et de Chirurgie Cervico-faciale. Goitres, nodules thyroïdiens et cancers thyroïdiens. Item 241.
 
 {{%/sources%}}

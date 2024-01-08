@@ -254,6 +254,8 @@ accTitle: Prise en charge de l'angine selon le tableau clinique d'après SPILF/H
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="YShG67mWGMc" title="Oral cavity examination (Geeky Medics)" >}}
+
 {{< youtube id="NtXLF4DnCYY" title="Infections à Streptocoque du groupe A (CRAtb Pays de la Loire)" >}}
 
 - [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)

@@ -55,8 +55,14 @@ LIC
 LICcs
 : lésions intracrâniennes cliniquement sévères
 
+NICE
+: {{%lang%}}National Institute for Health and Care Excellence{{%/lang%}}
+
 PEC
 : prise en charge
+
+SFMU
+: Société Française de Médecine d'Urgence
 
 TC
 : traumatisme crânien

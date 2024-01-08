@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-12-17T21:22:00+01:00"
 publishdate = "2023-12-22"
-lastmod = "2023-12-29"
+lastmod = "2024-01-08"
 specialites = ["neurologie"]
 annees = "2018"
 sources = ["NICE", "HAS"]
@@ -54,7 +54,7 @@ INM
 : interventions non médicamenteuses
 
 NICE
-: National Institute for Health and Care Excellence
+: {{%lang%}}National Institute for Health and Care Excellence{{%/lang%}}
 
 TCC
 : troubles chroniques du comportement
@@ -114,6 +114,7 @@ Demander l'accord pour interroger un accompagnant.
   - Tests de mémoire: [épreuve des 5 mots de Dubois](http://www.amiform.com/documentation%20alzheimer/le_test_de_5_mots.pdf) ou Memory Impairment Screen (MIS)
   - Autres tests de repérage: [test de l'horloge](http://www.geronto-sud-lorraine.com/docs/Test_horloge.pdf), test de fluence verbale
 - Conscience des troubles
+- Repérer une surdité: {{< modal-btn modal-hhies >}}échelle HHIE-S{{< /modal-btn >}}
 
 ### Examen clinique
 
@@ -196,7 +197,7 @@ Ne pas proposer: mélatonine, acupuncture (*NICE*), Ginkgo biloba (*Prescrire*),
 {{% /collapse %}}
 {{%collapse "Suivi" %}}
 
-Le suivi par le généraliste est au moins annuel, comme pour le spécialiste.
+Le suivi de la maladie d'Alzheimer par le généraliste est au moins annuel, comme pour le spécialiste.
 
 - Clinique
   - Comorbidités, dénutrition, chutes
@@ -205,7 +206,7 @@ Le suivi par le généraliste est au moins annuel, comme pour le spécialiste.
 - Observance
 - MMSE
 - Comportement: [échelle NPI](https://www.has-sante.fr/upload/docs/application/pdf/2011-12/maladies_alzheimer_et_maladies_apparentees_diagnostic_et_prise_en_charge_annexe_3.pdf) (PDF) ou questionnaire de dyscontrôle comportemental (QDC)
-- Activités et autonomie: {{< modal-btn modal-iadl >}}échelle IADL simplifiée{{< /modal-btn >}}, APA
+- Activités et autonomie: {{< modal-btn modal-iadl >}}échelle IADL simplifiée{{< /modal-btn >}}, [APA]({{< relref "allocation-personnalisee-autonomie.md" >}})
 - Sécurité: gaz, détecteur de fumée, tapis non fixés, sanitaires, baignoires, protection juridique, armes, finances
 - Activités: accueil de jour
 - Soins: orthophonie, infirmier, psychomotricité
@@ -285,5 +286,10 @@ graph TB
 {{% modal title="Échelle IADL simplifiée" id="modal-iadl"%}}
 
 {{< scores/iadl-simplifiee >}}
+
+{{% /modal %}}
+{{% modal title="Échelle HHIE-S de dépistage de la presbyacousie" id="modal-hhies"%}}
+
+{{< scores/hhies >}}
 
 {{% /modal %}}

@@ -176,6 +176,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="JXQrhIaEN4E" title="Rectal examination (Geeky Medics)" >}}
+
 {{< youtube id="0L8aFHXeQrQ" title="Hémorroïdes : c'est la crise ! (TutoGastro SNFGE 2023)" >}}
 
 - {{< references/college-gastro >}}

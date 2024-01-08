@@ -333,6 +333,8 @@ accTitle: Prise en charge diagnostique de l'artériopathie oblitérante des memb
 
 {{< youtube id="YqY_zHXRgxQ" title="La mesure de l'index de pression systolique (Dr Richard Belley)" >}}
 
+{{< youtube id="JFJK6ODqPnc" title="ABPI measurement (OSCE Guide)" >}}
+
 - {{< references/esc-cvd >}}
 - {{< references/sfd-dt2 >}}
 - [Mahé G. et al, the SFMV/SCVE group. Disparities between international guidelines (AHA/ESC/ESVS/ESVM/SVS) concerning - Lower extremity arterial disease: consensus of the French Society of Vascular Medicine (SFMV) and the French Society for Vascular and Endovascular Surgery (SCVE). Annals of Vascular Surgery. 2021.](https://doi.org/10.1016/j.avsg.2020.11.011)
