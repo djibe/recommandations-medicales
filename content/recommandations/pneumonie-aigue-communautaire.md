@@ -8,10 +8,10 @@ synonyms = ["Pneumopathies infectieuses communautaires"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-15T17:05:04+02:00"
 publishdate = "2023-05-17"
-lastmod = "2023-12-29"
+lastmod = "2024-01-10"
 specialites = ["pneumologie"]
 annees = "2023"
-sources = ["HAS", "SPILF", "Afssaps"]
+sources = ["HAS", "SPILF", "GPIP", "Afssaps"]
 tags = ["dyspnee", "fatigue", "fievre", "geriatrie", "toux", "vaccin", "VIH"]
 anglais = ["Community acquired pneumonia (CAP)"]
 sctid = "385093006"
@@ -65,7 +65,7 @@ Bactérie atypique ou Légionelle: [clarithromycine](https://base-donnees-publiq
 </div>
 <div class="tab-pane fade" id="nav-pna-enfant" role="tabpanel" aria-labelledby="nav-tab-enfant">
 
-Amoxicilline 80-100 mg/kg/j en 3 prises (max 3 g/j) pendant **5 jours**
+Amoxicilline 80-100 mg/kg/j en 2 prises (max 3 g/j) pendant **5 jours**
 
 ---
 
@@ -90,6 +90,8 @@ En l'absence de critères d'hospitalisation:
 - voire lévofloxacine 0,5-1 g x 1/j
 
 Échec à 48-72 heures: ajout macrolide 14 jours (sauf si lévofloxacine) ou hospitalisation (CEP).
+
+Pneumopathie d'inhalation de l'enfant: Amoxicilline-acide clavulanique 1 dose/kg x 3/j pendant 7 jours
 
   </div>
   <div class="tab-pane fade" id="nav-pna-grippale" role="tabpanel" aria-labelledby="nav-tab-grippale">
@@ -126,6 +128,9 @@ CMIT
 
 FQAP
 : fluoroquinolone anti-pneumococcique (lévofloxacine, moxifloxacine à éviter)
+
+GPIP
+: Groupe de Pathologie Infectieuse Pédiatrique (de la Société Française de Pédiatrie)
 
 IRB
 : infection respiratoire basse (sous-glottique)
@@ -331,11 +336,12 @@ Antibiothérapie selon l'orientation du tableau clinique.
 
 {{%info%}}
 
-Traitement antibiotique probabiliste **pendant 5 jours** avec réévaluation systématique à 48-72 heures (7 jours en cas de persistance de syndrome infectieux, 14 jours pour la légionelle selon *SPILF 2020*):
+Traitement antibiotique probabiliste **pendant 5 jours** avec réévaluation systématique à 48-72 heures (adulte: 7 jours en cas de persistance de syndrome infectieux, 14 jours pour la légionelle selon *SPILF 2020*):
 
 - [Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) 1g x 3/j  
-  Enfant: 80-100 mg/kg/j en 3 prises (max 3 g/j - *SFP*).
-- Si allergie: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j (Pyostacine® à partir de 6 ans, double sensibilité pneumocoque + intracellulaires)
+  Enfant: 80-100 mg/kg/j en 2 prises (max 3 g/j – *GPIP 2023*).
+- Si allergie: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j (Pyostacine® à partir de 6 ans, double sensibilité pneumocoque + intracellulaires)  
+  Seule alternative de l'enfant: ceftriaxone 50 mg/kg/j IV ou IM pendant 5 jours
 - Si échec à 48-72 heures: substituer par l'autre classe (macrolide ou amoxicilline) et réévaluer 48-72h
 - Si 2<sup>e</sup> échec ou aggravation rapide: hospitalisation
 {{%/info%}}
@@ -362,7 +368,7 @@ ou [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDo
 
 ###### Traitement de la pneumonie atypique de l'enfant
 
-Antibiothérapie chez l'enfant (pas d'intracellulaire avant 3 ans) selon *HAS 2023*:
+Antibiothérapie chez l'enfant (pas d'intracellulaire avant 3 ans) selon *HAS 2023* et *GPIP 2023*:
 
 - <mark>Préférence: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose/kg x 2/j (max 1 g/j) pendant **5 jours**</mark>
 - [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67287098&typedoc=R) 1 dose/kg en 1 prise par jour (soit 20 mg/kg avant 25 kg, max 500 mg/j), 500 mg/j au-delà, pendant **3 jours** (uniquement si pneumocoque exclu)
@@ -372,7 +378,8 @@ Antibiothérapie chez l'enfant (pas d'intracellulaire avant 3 ans) selon *HAS 20
   - 24-40 kg: 100 mg matin et soir
 - Si allergie ou contre-indication aux macrolides:
   - +6 ans, aussi pour doute sur pneumocoque: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69494932&typedoc=R) 50 mg/kg/j en 2-3 prises pendant 7 jours (cp uniquement)
-  - +12 ans: [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R) 2 x 100 mg à J1 puis 100 mg en 1 prise par jour pendant 6 jours
+  - +12 ans: [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R) 2 x 100 mg à J1 puis 100 mg en 1 prise par jour pendant 6 jours  
+    Selon GPIP: 4 mg/kg en 2 prises (max 200 mg/j) à J1 puis 2 mg/kg x 1/j pendant 4 jours
 
 #### PAC avec comorbidité, alcool ou sujet âgé ambulatoire
 
@@ -381,6 +388,8 @@ En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-p
 - <mark>Amoxicilline-acide clavulanique 1g</mark> x 3/j  
   ou ceftriaxone IM 1g x 1/j (ou FQAP lévofloxacine 0,5 - 1 g/j) pendant 7 jours
 - Si échec à 48-72 heures: ajout macrolide 14 jours (sauf lévofloxacine - *CMIT*) ou hospitalisation (*CEP*)
+
+**Pneumonie d'inhalation de l'enfant:** amoxicilline-acide clavulanique 1 dose/kg x 3/j pendant 7 jours (*GPIP 2023*). Alternative: IV uniquement.
 
 #### Pneumonie post-grippale
 
@@ -402,7 +411,7 @@ En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-p
 {{% /collapse %}}
 {{%collapse "Prise en charge de la pneumonie aiguë communautaire" "show" %}}
 
-{{< mermaid title="Prise en charge de la pneumonie aiguë communautaire (PAC). Dr JB Fron d'après SPILF 2020 et Afssaps 2010" >}}
+{{< mermaid title="Prise en charge de la pneumonie aiguë communautaire (PAC). Dr JB Fron d'après HAS 2023, SPILF 2020 et Afssaps" >}}
 graph TB
   suspicion["Suspicion de pneumonie<br> aiguë communautaire (PAC)"] --> gravité("<b>Gravité ?</b><br>—<br>- CRB65<br>- Constantes, tirage<br>- Cancer actif<br>- Pneumonie d'inhalation<br>- Épanchement pleural<br>- Socio-éco, isolement") -- Non --> risque("<b>Risque de mortalité</b><br>—<br>≥ 2 ou ≥ 1 chez le +65 ans:<br>- Comorbidités<br>- Immunodépression<br>- ATCD pneumonie<br>- Hospitalisation dans l'année<br>- Institution") -- Non --> tableau("Tableau clinique<br>Antibiothérapie puis RxT")
   style suspicion stroke:#4150f5, stroke-width:1px
@@ -421,6 +430,7 @@ graph TB
 {{%sources%}}
 
 - [HAS. Réponse rapide sur la prise en charge diagnostique et thérapeutique des pneumonies atypiques à Mycoplasma pneumoniae en ambulatoire chez l'enfant et l'adulte. 22/12/2023.](https://www.has-sante.fr/jcms/p_3482996/fr/reponse-rapide-sur-la-prise-en-charge-diagnostique-et-therapeutique-des-pneumonies-atypiques-a-mycoplasma-pneumoniae-en-ambulatoire-chez-l-enfant-et-l-adulte)
+- [Madhi F et al. Antimicrobial treatment of lower respiratory tract infections in children. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001446)
 - [Cohen R et al. Mycoplasma pneumoniae. Infovac-France Bulletin Supplémentaire N°11. Novembre 2023.](https://www.infovac.fr/actualites/bulletin-supplementaire-n-11-novembre-2023-mycoplasma-pneumoniae)
 - [CMIT. Infections broncho-pulmonaires communautaires de l'adulte et de l'enfant. Item 154. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-154.pdf)
 - [Collège des Enseignants de Pneumologie (CEP). Infections broncho-pulmonaires communautaires de l'adulte. Item 154. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_154_INFECTIONS_RESPIRATOIRES_2023.pdf)

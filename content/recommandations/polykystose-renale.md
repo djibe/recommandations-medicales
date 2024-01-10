@@ -24,7 +24,7 @@ flowchart = true
 
 Les prochaines recommandations KDIGO sur la PKRAD seront publiées en 2024.
 
-- La polykystose rénale autosomique dominante (PKRAD) entraîne une insuffisance rénale terminal précoce dans certaines familles
+- La polykystose rénale autosomique dominante (PKRAD) entraîne une insuffisance rénale terminale précoce dans certaines familles
 - La polykystose peut être évoquée devant plusieurs signes et symptômes: hypertension artérielle précoce, hématurie macroscopique, douleurs lombaires
 - Le bilan comporte: créatininémie et échographie abdominale
 - La prise en charge de la polykystose rénale est spécialisée. Elle associe les mesures de néphroprotection: contrôle tensionnel, sevrage tabagique, restriction sodée ...
@@ -67,7 +67,7 @@ PKRAD
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-La polykystose rénale est le plus souvent découverte chez l'adulte jeune sur les signes ou symptômes suivant:
+La polykystose rénale est le plus souvent découverte chez l'adulte jeune sur les signes ou symptômes suivants:
 
 - Antécédents familiaux: maladie rénale kystique
 - Arbre généalogique

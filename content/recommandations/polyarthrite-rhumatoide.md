@@ -246,7 +246,7 @@ En association avec le méthotrexate (≥ 10 mg/semaine), selon la tolérance, p
   - Sous-cutanés: adalimumab ({{< traitements/adalimumab >}}), certolizumab (Cimzia®), étanercept (Benepali®, Enbrel® ou Erelzi®, Nepexto®), golimumab (Simponi®)
   - IV: infliximab (Remicade® ou Flixabi®, Inflextra®, Remsima®, Zessly®)
 - Anti-IL6
-  - Sarilumab (Kevzara®), tocilizumab (Roactemra®)
+  - Sarilumab (Kevzara®), tocilizumab (Roactemra®, gén)
 - Anti-CD20  
   Rituximab (pour cas spécifiques: Mabthera®, Truxima®).
 - Inhibiteurs JAK  

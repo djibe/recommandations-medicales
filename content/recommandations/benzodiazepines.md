@@ -111,7 +111,7 @@ Respecter l'AMM de la spécialité:
 
 Diviser les doses d'initiation par 2 après 65 ans.
 
-{{< table title="Benzodiazépines et apparentés disponibles en France par voie orale en 2023. Dr JB Fron d'après BDPM" class="table-wrap" >}}
+{{< table title="Benzodiazépines et apparentés disponibles en France par voie orale en 2024. Dr JB Fron d'après BDPM" class="table-wrap" >}}
 | Molécule                 | Spécialité        | Demi-vie (h) | AMM                                |
 |--------------------------|-------------------|-------------:|------------------------------------|
 | Alprazolam               | Xanax, gén        |        10-20 | Anxiété, sevrage alcool            |

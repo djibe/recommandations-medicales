@@ -386,7 +386,8 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 - Si (pré-)cirrhose: échographie hépatique x 2/an
 - Ostéodensitométrie  
   Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
-- [Déclaration obligatoire anonyme]({{< relref "maladies-declaration-obligatoire.md" >}})
+- [Maladie à déclaration obligatoire anonyme]({{< relref "maladies-declaration-obligatoire.md" >}})
+- Guide d'information patient VIH: [guide CHRU Nancy](http://sfls.aei.fr/ckfinder/userfiles/files/SFLS/Commissions/pharmaciens-medicaments/Livret%20patient%20VIH%20-%20Format%20livret_CHRU%20Nancy_15%2012%2023.pdf)
 - Déclarer l'[ALD 7]({{< relref "affection-longue-duree.md" >}})
 
 ### VIH et suivi cardiovasculaire

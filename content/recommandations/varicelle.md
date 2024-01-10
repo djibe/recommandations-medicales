@@ -183,7 +183,7 @@ Effets indésirables: fébricule et œdème au point d'injection, 5% ont exanth�
 {{% /collapse %}}
 {{%collapse "Traitement de la varicelle du sujet immunocompétent" %}}
 
-Guérison de la varicelle en **10-12 jours**.
+Guérison de la varicelle en **10 à 12 jours**.
 
 Période de contagiosité: J-2 à J+4 de l'apparition des vésicules ou par voie respiratoire dans la phase pré-éruptive.
 

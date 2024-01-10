@@ -1,5 +1,5 @@
 +++
-title = "Maladies à déclaration obligatoire en 2023"
+title = "Maladies à déclaration obligatoire en 2024"
 prefix = "les "
 titleSeo = "Maladies déclaration obligatoire"
 noindex = true
@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-27T17:24:00+02:00"
 publishdate = "2021-03-27"
-lastmod = "2023-08-25"
+lastmod = "2024-01-09"
 specialites = ["certificats"]
 annees = "2023"
 sources = ["SPF"]
@@ -20,7 +20,7 @@ image = true
 imageSrc = "Illustration des Maladies à déclaration obligatoire par rawpixel.com / Freepik"
 +++
 
-37 maladies sont à déclaration obligatoire (MDO) en 2023, dont 2 non infectieuses (mésothéliomes et saturnisme chez les enfants mineurs). Cette liste est définie par l'[article D3113-6](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190444/) du Code de la Santé publique.
+37 maladies sont à déclaration obligatoire (MDO) en 2024, dont 2 non infectieuses (mésothéliomes et saturnisme chez les enfants mineurs). Cette liste est définie par l'[article D3113-6](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190444/) du Code de la Santé publique.
 
 ## Liste des maladies à déclaration obligatoire
 

@@ -8,10 +8,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-19T15:57:14+02:00"
 publishdate = "2023-10-30"
-lastmod = "2023-12-05"
+lastmod = "2024-01-10"
 specialites = ["infectiologie", "neurologie"]
-annees = "2018"
-sources = ["SPILF", "MinSanté", "DGS"]
+annees = "2023"
+sources = ["GPIP", "SPILF", "MinSanté", "DGS"]
 tags = ["cephalees", "eruption febrile", "fievre", "prevention", "vaccin"]
 anglais = ["Bacterial meningitis"]
 sctid = "95883001"
@@ -62,6 +62,9 @@ Purpura fulminans
 
 CMIT
 : Collège des Universitaires des Maladies Infectieuses et Tropicales
+
+GPIP
+: Groupe de Pathologie Infectieuse Pédiatrique (de la Société Française de Pédiatrie)
 
 IIM
 : infection invasive à méningocoque
@@ -261,6 +264,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Gillet Y et al. Antibiotic treatment of neuro-meningeal infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001501)
 - {{< references/calendrier-vaccinal >}}
 - [CMIT. Méningites, méningo-encéphalites, abcès cérébral chez l'adulte et l'enfant. Item 151. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-151.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Méningites et méningo-encéphalites. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/meningites-meningo-encephalites)

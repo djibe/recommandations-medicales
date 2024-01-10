@@ -27,7 +27,7 @@ flowchart = true
 - L'examen au cours d'une hypoacousie recherche des traitements à risque ototoxiques, des antécédents otologiques, des symptômes associés (vertiges, otorrhée, céphalées) et une otoscopie bilatérale
 - Sauf formation spécifique, le bilan de la surdité est spécialisé par l'ORL avec audiométrie et examen
 - IRM du crâne et des angles ponto-cérébelleux si: vertiges, acouphènes unilatéraux
-- La prise en charge de la presbyacousie associe: information du patient, audioprothèses bilatérales voir implants cochléaires, rééducation orthophonique et suivi annuel
+- La prise en charge de la presbyacousie associe: information du patient, audioprothèses bilatérales voire implants cochléaires, rééducation orthophonique et suivi annuel
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -76,7 +76,7 @@ Signes et symptômes chez le sujet de plus de 60 ans:
   - Bilatérale et symétrique
   - Insidieuse, progressive
   - Prédominant sur les aigus (voix féminines)
-  - Difficultés de compréhension des paroles les environnements bruyants (<< cocktail party >>)
+  - Difficultés de compréhension des paroles dans les environnements bruyants (<< cocktail party >>)
   - Débits rapides: théâtre, spectacle
   - Mauvaise localisation des sources sonores
   - Questionnaire de repérage de la presbyacousie: {{< modal-btn modal-hhies >}}inventaire HHIE-S{{< /modal-btn >}}

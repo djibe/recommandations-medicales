@@ -28,7 +28,7 @@ Ce chapitre intègre les dernières recommandations SFD, ADA, ESC et ESH 2023 et
 - Dépister régulièrement un diabète si: +35 ans, prédiabète (annuel), diabète gestationnel (max 3 ans), VIH, surpoids avec autre facteur de risque (antécédent familial, maladie cardiovasculaire, origines africaines/asiatiques/pacifiques, hypertension, HDL < 0,35 g/L, TG > 2,5 g/L, inactivité physique, [stéatose hépatique]({{< relref "steatose-hepatique-et-nash.md" >}}), acanthosis nigricans), [Socrisktest](https://diabetes.org/diabetes-risk-test) ≥ 5 (*ADA 2023*)
 - Pour chaque personne vivant avec un diabète: définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
 - {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7%)
-- Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}
+- Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}} rarement
 - [Dépistage des complications du diabète](#dépistage-des-complications-du-diabète) et des comorbidités
 - Éducation thérapeutique du patient diabétique
 

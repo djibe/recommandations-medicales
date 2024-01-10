@@ -124,14 +124,14 @@ Méthode: ponction ou prélèvement au méat moyen.
 
 - Consulter le dentiste si SMA unilatérale (fétide++)
 - Antalgie  
-  Paracétamol 1g x 4/j voire palier 2.
+  Paracétamol voire palier 2.
   - Hyperalgique: corticoïdes per os max 7 jours.
   - Si insuffisants: avis ORL pour ponction-drainage maxillaire.
 - Désobstruction rhino-pharyngée (DRP)
 
 **NB.** Les AINS n'ont pas d'efficacité démontrée.
 
-### Antibiothérapie
+### Antibiothérapie des sinusites
 
 Indications à une prise en charge d'une sinusite par antibiothérapie:
 
@@ -160,12 +160,12 @@ En cas de pénurie, traitement différé si possible: Amoxicilline cp 1 g disper
 [Ordonnance (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/lien_2_ordonnance_dilution_amoxicilline_plus_de_12_kg.pdf)
 {.alert .alert-warning}
 
-##### Si échec ou origine dentaire
+##### Antibiotique en cas d'échec ou d'origine dentaire
 
 - **Adulte:** Amoxicilline-acide clavulanique 1 g x 3/j pendant 7 jours
 - **Enfant:** Amoxicilline-acide clavulanique 1 dose-kg x 3/j pendant 10 jours
 
-##### Allergie à la pénicilline sans allergie céphalosporines
+##### Allergie à la pénicilline sans allergie aux céphalosporines
 
 - **Adulte:** Céfuroxime-axétil 250 mg x 2/j pendant 5 jours  
   ou céfpodoxime 200 mg x 2/j pendant 5 jours
