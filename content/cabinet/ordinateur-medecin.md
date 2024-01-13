@@ -86,7 +86,7 @@ Vous pouvez demander à l'informaticien du quartier de vous monter les pièces d
 [Achat du petit PC recommandé sur Hardware.fr](https://shop.hardware.fr/configurateur/c15eb7442a3472b4463668633bea006c) (avec carte Wi-Fi), qui offre un bon service de support
 {.alert .alert-info}
 
-Changez la couleur du boîtier (les goûts et les couleurs) et la souris si vous avez de petites mains. Ajoutez un lecteur DVD ou Blu-Ray selon vos besoins (mais en 2023 ...).
+Changez la couleur du boîtier (les goûts et les couleurs) et la souris si vous avez de petites mains. Ajoutez un lecteur DVD ou Blu-Ray selon vos besoins (mais en 2024 ...).
 
 **NB.** Windows 10/11 peut être acheté 15€ (au lieu des 200€) sur les géants du e-commerce si un ami peut vous l'installer.
 

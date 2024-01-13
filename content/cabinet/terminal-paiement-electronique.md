@@ -14,7 +14,7 @@ image = true
 imageSrc = "des TPE par Undraw"
 +++
 
-De nombreux terminaux de paiement électroniques (TPE) pour la lecture des cartes bancaires ont permis de passer outre les offres des banques. Ce comparatif explore les offres disponibles en France en 2023.
+De nombreux terminaux de paiement électroniques (TPE) pour la lecture des cartes bancaires ont permis de passer outre les offres des banques. Ce comparatif explore les offres disponibles en France en 2024.
 {.lead .mb-5}
 
 La plupart des solutions nécessitent d'acheter un lecteur de carte bleue (pour une somme souvent dérisoire). Une **commission est ensuite prélevée à chaque paiement**, avec pour certaines un barème fixe en sus sur chaque transaction.

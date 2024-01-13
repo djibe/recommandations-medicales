@@ -1,14 +1,14 @@
 +++
-title = "Carte de l'euthanasie en France et en Europe en 2023"
-titleSeo = "Carte de l'euthanasie en Europe 2023"
+title = "Carte de l'euthanasie en France et en Europe en 2024"
+titleSeo = "Carte de l'euthanasie en Europe 2024"
 description = "Carte d'Europe des pays légalisant l'aide au suicide, l'euthanasie ou interdisant leur usage. L'euthanasie est légale dans quatre pays européens: Belgique ..."
 longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-16T12:20:00+02:00"
 publishdate = "2023-01-26"
-lastmod = "2023-03-27"
+lastmod = "2024-01-12"
 specialites = []
-annees = "2023"
+annees = "2024"
 sources = ["CNOM"]
 tags = []
 geochart = true
@@ -36,7 +36,7 @@ Dans ces pays, la personne demandeuse exécute elle-même les gestes qui donnero
 
 ### Les pays légalisant l'euthanasie
 
-L'euthanasie, où un tiers enclenche la mort d'autrui dans un cadre législatif normé, est légale dans 4 pays en 2023.
+L'euthanasie, où un tiers enclenche la mort d'autrui dans un cadre législatif normé, est légale dans 4 pays en 2024.
 
 Tous les pays du Benelux (Belgique, Pays-Bas et Luxembourg) ont adopté une législation encadrant l'euthanasie, ainsi que l'Espagne plus récemment (loi votée en 2020).
 

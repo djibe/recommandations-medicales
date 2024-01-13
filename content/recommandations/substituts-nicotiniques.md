@@ -2,14 +2,14 @@
 title = "Substituts nicotiniques remboursés"
 prefix = "les "
 titleSeo = "Substituts nicotiniques remboursés"
-description = "Liste des substituts nicotiniques remboursés par l'Assurance Maladie en 2023: Patchs, gommes, comprimés, pastilles, comprimés sublinguaux et sprays de nicotine"
+description = "Liste des substituts nicotiniques remboursés par l'Assurance Maladie en 2024: Patchs, gommes, comprimés, pastilles, comprimés sublinguaux et sprays de nicotine"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-17T14:11:29+02:00
 publishdate = "2020-06-17"
-lastmod = "2023-12-08"
+lastmod = "2024-01-12"
 specialites = ["addictologie"]
-annees = "2023"
+annees = "2024"
 sources = ["Ameli"]
 tags = ["asthme", "BPCO", "cancer", "tabac"]
 anglais = ["Product containing only nicotine"]
@@ -23,7 +23,7 @@ flowchart = true
 
 ## Les substituts nicotiniques remboursés pour le sevrage tabagique {.typography-headline-5}
 
-Liste des substituts nicotiniques remboursés sur prescription par la Sécurité Sociale en 2023, sans limite de remboursement en vue de [l'arrêt du tabac]({{< relref "arret-tabac.md" >}}).
+Liste des substituts nicotiniques remboursés sur prescription par la Sécurité Sociale en 2024, sans limite de remboursement en vue de [l'arrêt du tabac]({{< relref "arret-tabac.md" >}}).
 
 <div class="card card-body card-primary-action rounded-lg mw-248" role="button" data-toggle="modal" data-target="#modal-fagerstrom" style="background: var(--bg-hex)">
   <h3 class="card-title">Évaluer la dépendance tabagique avec le test de Fagerström</h3>

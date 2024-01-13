@@ -86,7 +86,7 @@ Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{
 
 ### Vaccinations de l'enfant
 
-{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2023. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Calendrier Vaccinal 2023 et DGS Urgent 2023-14" >}}
+{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Calendrier Vaccinal 2023 et DGS Urgent 2023-14" >}}
 | Âge     | Valences      | Spécialités équivalentes       |
 |:-------:|---------------|--------------------------------|
 | Né après<br>le 6/2/23 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Beyfortus au mieux avant<br>la sortie de maternité |

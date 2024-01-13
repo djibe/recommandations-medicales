@@ -31,7 +31,7 @@ todo = "lecture tubertest, quantiferon positif signe TM ?, KEY: maladie, lutte c
 Le vaccin BCG (BCG AJVaccines®) est disponible uniquement en centre de vaccination, PMI ou CLAT.  
 Il est réalisé à partir de 1 mois, idéalement à **2 mois** et réalisé **jusqu'à 15 ans**.
 
-### Indications au BCG en 2023
+### Indications au BCG en 2024
 
 - Avant la sortie de la maternité: en Guyane ou à Mayotte ou cas récent (< 5 ans) de tuberculose dans son entourage
 - Enfant né dans un pays de forte endémie (voir plus bas)

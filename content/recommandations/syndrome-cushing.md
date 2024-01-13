@@ -197,7 +197,7 @@ La prise en charge du syndrome de Cushing par l'endocrinologue vise à confirmer
 
 L'hôpital Cochin est le *Centre de référence des maladies rares de la surrénale* (CRMRS, [site](https://maladiesrares-cochin-hotel-dieu.aphp.fr/surrenale/)).
 
-{{< table title="Centres de compétence des maladies rares de la surrénale en France en 2023. Dr JB Fron" class="datatable" >}}
+{{< table title="Centres de compétence des maladies rares de la surrénale en France. Dr JB Fron" class="datatable" >}}
 | Ville                                                       | Hôpital                                                                                                   | Téléphone                                                                  | Adresse                                                              | Référents                                                                 |
 |-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------|
 | Centre de compétence Marseille                              | AP-HM - Hôpital de la Conception - Service d'Endocrinologie, Diabète et Maladies Métaboliques Adulte      | 0491383479, 0491383375, 0491382935                                         | 147 Boulevard Baille, Marseille CEDEX 5 13385, France                | BRUE Thierry                                                              |

@@ -135,7 +135,7 @@ En cas de bilan étiologique négatif, contrôle semestriel du bilan hépatique 
 {{< mermaid title="Prise en charge d'une augmentation de la Gamma-GT par le médecin généraliste. Dr JB Fron d'après SNFGE et BSG" >}}
 graph TB
   augmentation["<b>Augmentation des Gamma GT</b>"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents: hépatiques,<br>métaboliques et familiaux<br>- Traitements<br>- Alcool et toxiques<br>- Expositions aux hépatites<br>et professionnelles<br>- Résultats antérieurs<br>- Symptômes<br>- Examen clinique") --> bilan("<b>Bilan</b><br>—<br>- NFS<br>- Bilan hépatique<br>- Ferritinémie<br>- Ag HBs, sérologie VHC<br>- Glycémie à jeun<br>- Bilan lipidique<br>- Échographie abdominale") --> gastro(Gastro-entérologue)
-  bilan -- "Cholestase:<br>PAL + GGT élevées" --> anticorps("Compléter avec anticorps:<br>muscle lisse, mitochondires<br>et anti-nucléaires") --> gastro
+  bilan -- "Cholestase:<br>PAL + GGT élevées" --> anticorps("Compléter avec anticorps:<br>muscle lisse, mitochondries<br>et anti-nucléaires") --> gastro
   style augmentation stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

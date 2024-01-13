@@ -7,10 +7,10 @@ synonyms = ["Rhinosinusites infectieuses aiguës"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-18T09:20:00+02:00"
 publishdate = "2021-01-18"
-lastmod = "2022-12-08"
+lastmod = "2024-01-11"
 specialites = ["ORL"]
-annees = "2021"
-sources = ["HAS", "SPILF"]
+annees = "2023"
+sources = ["GPIP", "HAS", "SPILF"]
 tags = ["toux"]
 anglais = ["Sinusitis"]
 sctid = "36971009"
@@ -66,10 +66,25 @@ Rechercher systématiquement des signes de complication de la sinusite:
 - Douleurs insomniantes
 {{%/warning%}}
 
+### Abréviations
+
+GPIP
+: Groupe de Pathologie Infectieuse Pédiatrique (de la Société Française de Pédiatrie)
+
+HAS
+: Haute Autorité de Santé
+
+SMA
+: sinusite maxillaire aiguë
+
+SPILF
+: Société de pathologie infectieuse de langue française
+{.dl-inline}
+
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic est clinique et nécessite **au moins 2 critères** parmi:
+Le diagnostic de sinusite est clinique et nécessite **au moins 2 critères** parmi:
 
 1. Persistance ou augmentation des douleurs sinusiennes infra-orbitaires sous traitement symptomatique ≥ 48h
 2. Caractère unilatéral  
@@ -120,11 +135,10 @@ Méthode: ponction ou prélèvement au méat moyen.
 
 [Contrôler l'antibiothérapie sur Antibioclic](https://antibioclic.com/questionnaire/45).
 
-### Mesures générales
+### Mesures générales de prise en charge de la sinusite
 
-- Consulter le dentiste si SMA unilatérale (fétide++)
-- Antalgie  
-  Paracétamol voire palier 2.
+- Consulter le dentiste si SMA unilatérale (fétide ++)
+- Antalgie: paracétamol voire palier 2.
   - Hyperalgique: corticoïdes per os max 7 jours.
   - Si insuffisants: avis ORL pour ponction-drainage maxillaire.
 - Désobstruction rhino-pharyngée (DRP)
@@ -141,6 +155,7 @@ Indications à une prise en charge d'une sinusite par antibiothérapie:
   - Échec du traitement symptomatique > 3 jours
   - Infection dentaire de l'arc supérieur homolatéral
   - Rhinopharyngite aiguë > 10 jours sans amélioration/ré-aggravation progressive
+  - Enfant: fièvre élevée > 3-4 jours ou si comorbidité (asthme, cardiopathie, drépanocytose)
 - Sinusite ethmoïdale
 - Sinusite sphénoïdale
 - Complication
@@ -153,7 +168,7 @@ Pas d'antibiothérapie si diagnostic incertain.
 Antibiotique de référence pour la prise en charge de la sinusite maxillaire:
 
 - **Adulte:** Amoxicilline 1 g x 3/j pendant 7 jours
-- **Enfant:** Amoxicilline 80-100 mg/kg/j en 2 prises/j pendant 10 jours
+- **Enfant:** Amoxicilline 80-100 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours
 {{%/info%}}
 
 En cas de pénurie, traitement différé si possible: Amoxicilline cp 1 g dispersible toutes les 12 heures pendant 5 jours  
@@ -169,7 +184,7 @@ En cas de pénurie, traitement différé si possible: Amoxicilline cp 1 g disper
 
 - **Adulte:** Céfuroxime-axétil 250 mg x 2/j pendant 5 jours  
   ou céfpodoxime 200 mg x 2/j pendant 5 jours
-- **Enfant:** Céfpodoxime 4 mg/kg x 2/j pendant 8 jours
+- **Enfant:** Céfpodoxime 8 mg/kg/j en 2 prises pendant 10 jours
 
 ##### Contre-indication aux bêtalactamines
 
@@ -197,16 +212,18 @@ Antibiotique de référence pour la prise en charge de la sinusite frontale:
 
 ##### Forme sévère ou contre-indication aux bêtalactamines (sinusite frontale)
 
-- **Adulte:** lévofloxacine 500 mg x 1/j pendant 7 jours  
+- **Adulte:** Lévofloxacine 500 mg x 1/j pendant 7 jours  
   ou moxifloxacine (effets indésirables graves)
 - **Enfant:** Avis spécialisé
 
 #### Antibiothérapie de la sinusite sphénoïdale ou ethmoïdite de forme mineure
 
+Scanner des sinus nécessaire.
+
 Antibiotique de référence pour la prise en charge de la sinusite sphénoïdale ou ethmoïdite de forme mineure:
 
 - **Adulte:** Amoxicilline-acide clavulanique 1 g/125 mg x 3/j pendant 7 jours
-- **Enfant:** Amoxicilline-acide clavulanique 1 dose-kg x 3/j pendant 7 jours
+- **Enfant:** Amoxicilline-acide clavulanique 1 dose-kg x 3/j pendant 10 jours
 
 ##### Allergie à la pénicilline sans allergie céphalosporines (sphénoïdale ou ethmoïdite)
 
@@ -241,6 +258,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Cohen R et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471)
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)

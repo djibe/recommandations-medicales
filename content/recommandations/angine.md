@@ -6,11 +6,11 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2023-11-08"
+lastmod = "2024-01-11"
 specialites = ["ORL", "pediatrie"]
-annees = "2022"
-sources = ["HAS", "SPILF"]
-tags = []
+annees = "2023"
+sources = ["GPIP", "HAS", "SPILF"]
+tags = ["enfant", "adolescent"]
 anglais = ["Tonsillitis"]
 sctid = "90176007"
 icd10 = "J03.9"
@@ -62,7 +62,7 @@ Les complications sont locales voire générales:
 
 ### Épidémiologie de l'angine en France
 
-- Incidence de l'angine 9 millions de cas par an
+- Incidence de l'angine: 9 millions de cas annuels
 - Seulement 1,2 millions de TROD angine commandés chaque année
 - 2 fois trop d'antibiotiques prescrits (3x selon l'Assurance Maladie)
 
@@ -70,8 +70,17 @@ Les complications sont locales voire générales:
 
 ### Abréviations
 
+GPIP
+: Groupe de Pathologie Infectieuse Pédiatrique (de la Société Française de Pédiatrie)
+
+HAS
+: Haute Autorité de Santé
+
 SBHA
 : streptocoque β-hémolytique du groupe A (*SGA* ou *Streptococcus pyogenes*)
+
+SPILF
+: Société de pathologie infectieuse de langue française
 
 TDR
 : test de diagnostic rapide
@@ -181,15 +190,13 @@ Antibiothérapies alternatives à partir de 15 ans:
 
 #### Antibiothérapie de l'angine chez l'enfant
 
-Amoxicilline 50 mg/kg/j en 2 prises par jour pendant 6 jours (max 2 g/j)
+Amoxicilline 50 mg/kg/j en 2 prises pendant 6 jours (max 2 g/j)
 {.alert .alert-info}
 
 Antibiothérapies alternatives avant 15 ans:
 
-- Allergie vraie à la pénicilline
-  - C3G céfpodoxime 8 mg/kg/j en 2 prises (max 400 mg/j) 5 jours
-- Contre-indication aux bêtalactamines
-  - Azithromycine 20 mg/kg/j x 1/j (max 500 mg/j) 3 jours
+- Allergie vraie à la pénicilline: C3G céfpodoxime 8 mg/kg/j en 2 prises (max 400 mg/j) pendant 5 jours
+- Contre-indication aux bêtalactamines: macrolide clarithromycine 30 mg/kg/j (max 500 mg/j) en 2 prises pendant 5 jours
 
 {{%warning%}}
 
@@ -240,12 +247,11 @@ Rechercher:
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'angine" "show" %}}
 
-{{< mermaid title="Prise en charge de l'angine selon le tableau clinique. Dr JB Fron d'après SPILF/HAS 2016 et HAS 2021" >}}
+{{< mermaid title="Prise en charge de l'angine selon le tableau clinique. Dr JB Fron d'après GPIP 2023, SPILF/HAS 2016 et HAS 2021" >}}
 graph TB
-accTitle: Prise en charge de l'angine selon le tableau clinique d'après SPILF/HAS 2016 et HAS 2021
   angine[Angine érythémateuse<br>ou érythémato-pultacée] --> moins3("&lt; 3 ans") --> viral(Viral)
   style angine stroke:#4150f5, stroke-width:1px
-    angine --> 314ans(3 à 14 ans) --> TDR(TDR) -- "Positif" --> ATB("<b>Antibiothérapie 6 jours</b><br>—<br>Adulte: amoxicilline 1g x 2/j<br>Enfant: amox 25 mg/kg x 2/j<br>+ éviction 48 heures")
+    angine --> 314ans(3 à 14 ans) --> TDR(TDR) -- Positif --> ATB("<b>Antibiothérapie 6 jours</b><br>—<br>Adulte: amoxicilline 1g x 2/j<br>Enfant: amox 25 mg/kg x 2/j<br>+ éviction 48 heures")
       TDR -- Négatif --> viral
     angine --> 15plus("≥ 15 ans") --> score(Mac Isaac) -- "≥ 2" --> ATB
       score -- "&lt; 2" --> viral
@@ -258,6 +264,7 @@ accTitle: Prise en charge de l'angine selon le tableau clinique d'après SPILF/H
 
 {{< youtube id="NtXLF4DnCYY" title="Infections à Streptocoque du groupe A (CRAtb Pays de la Loire)" >}}
 
+- [Cohen R et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471)
 - [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)
 - [GPIP, SFP, AFPA, SPILF. Conduite à tenir autour d'un cas d'infection invasive à Streptocoque du Groupe A. 2022. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/communiques/conduite-a-tenir-cas-contact-infections-invasives-a-sgadef.pdf)
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)

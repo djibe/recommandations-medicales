@@ -362,7 +362,7 @@ graph TB
 - {{< references/esc-cvd >}}
 - [Sorbets E et al; CLARIFY investigators. Long-term outcomes of chronic coronary syndrome worldwide: insights from the international CLARIFY registry. European Heart Journal. 2020.](https://academic.oup.com/eurheartj/article/41/3/347/5556903)
 - [Knuuti J et al; ESC Scientific Document Group. 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes: The Task Force for the diagnosis and management of chronic coronary syndromes of the European Society of Cardiology (ESC). European Heart Journal. 2019.](https://academic.oup.com/eurheartj/article/41/3/407/5556137)
-- [Collège National des Enseignants de Cardiologie. Syndromes coronariens aigus. Item 334 UE11. Cardiologie 2e édition. Octobre 2019. (PDF)](https://www.sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch04_syndromes_coronariens.pdf)
+- Collège National des Enseignants de Cardiologie (CNEC). Syndromes coronariens aigus. Item 339. Cardiologie 2e édition. 2019.
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}

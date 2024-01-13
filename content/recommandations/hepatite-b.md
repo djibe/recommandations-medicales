@@ -22,7 +22,6 @@ todo = "dépistage VHB, insuff hépatocellulaire, AFEF 2020: TROD AgHBs isolés,
 
 {{%article-summary%}}
 
-- Les prochaines recommandations HAS hépatite B seront publiée en 2023
 - Le dépistage VHB - VHC - VIH doit être combiné (*HAS, AFEF*)
 - Le taux d'ALAT est un marqueur de l'activité de la maladie ({{< modal-btn modal-pageb >}}score Page-B{{< /modal-btn >}}) prédictif de [carcinome hépatocellulaire (CHC)]({{< relref "carcinome-hepatocellulaire.md" >}})
 - Vacciner contre l'hépatite B: rattrapage jusque 15 ans révolus et autres indications (voir *Personnes à vacciner*)

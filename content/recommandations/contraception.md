@@ -171,7 +171,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 > La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares – *CNGOF 2018*
 {.alert .alert-info}
 
-{{< table title="Spécialités de contraception disponibles en France en 2023 (sauf dernières générations et DMPA qui augmentent le risque vasculaire). Dr JB Fron d'après BDPM" class="table-wrap" id="table-pilule" >}}
+{{< table title="Spécialités de contraception disponibles en France en 2024 (sauf dernières générations et DMPA qui augmentent le risque vasculaire). Dr JB Fron d'après BDPM" class="table-wrap" id="table-pilule" >}}
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
 |-------------|---------:|------------------|-----------------|
 | 2G          | 30/40    | LNG 0,15-0,2     | Adepal, Pacilia |
@@ -191,7 +191,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 {{< /table >}}
 
 > **EE** = éthinyl-estradiol ; **gén** = générique ; **LNG** = lévonorgestrel ; **NR** = non remboursé. Les pilules de 1<sup>re</sup> génération ne sont plus disponibles en France.  
-Autres contraceptions: diaphragme, capes cervicales (NR), spermicides (NR), retrait, stérilisation, méthode Ogino.
+Autres contraceptions: diaphragme, capes cervicales (NR), spermicides (NR), retrait, stérilisation, méthode *Ogino*.
 
 Les générations de pilules œstroprogestatives correspondent à la date de mise sur le marché du progestatif (P3: désogestrel, gestodène et norgestimate; P4: drospirénone). **Utiliser LNG et norgestimate en première intention**, les autres progestatifs de 3<sup>e</sup> et 4<sup>e</sup> générations doublent le risque de MVTE (*HAS 2013*).  
 Pas d'arrêt brutal d'une contraception de 3-4<sup>e</sup> génération bien tolérée.

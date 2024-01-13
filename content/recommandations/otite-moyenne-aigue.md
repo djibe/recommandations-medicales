@@ -167,7 +167,7 @@ En cas d'échec de la première ligne **chez l'enfant**:
 - Par amoxicilline: amoxicilline-acide clavulanique 80 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours  
   voire céfpodoxime 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 10 jours
 - Par céfpodoxime: amoxicilline 150 mg/kg en 3 prises (max 3 g/j)
-- Par ceftriaxone: 50 mg/kg/j IM/IV pendant 3 jours
+- Par amoxicilline-acide clavulanique: ceftriaxone 50 mg/kg/j IM/IV pendant 3 jours
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'otite moyenne aiguë" "show" %}}

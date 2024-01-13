@@ -361,6 +361,7 @@ Un test d'effort doit être envisagé chez un **professionnel** (pompier, milita
 
 - [CCS, GERS-P. Position commune du Club des Cardiologues du Sport (CCS) et du Groupe Sport (GERS-P) de la Société Française de Cardiologie sur le bilan cardio-vasculaire recommandé pour la pratique sportive. 2022.](https://www.sfcardio.fr/publication/recommandations-sur-le-bilan-cardiovasculaire-recommande-pour-la-pratique-sportive)
 - [Knuuti J et al; ESC Scientific Document Group. 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes: The Task Force for the diagnosis and management of chronic coronary syndromes of the European Society of Cardiology (ESC). European Heart Journal. 2019.](https://academic.oup.com/eurheartj/article/41/3/407/5556137)
+- Collège National des Enseignants de Cardiologie (CNEC). Syndromes coronariens aigus. Item 339. Cardiologie 2e édition. 2019.
 - [SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
 
 {{%/sources%}}

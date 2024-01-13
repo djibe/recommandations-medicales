@@ -6,8 +6,8 @@ description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-08T12:47:29+01:00"
-publishdate = "2024-01-08"
-lastmod = "2024-01-08"
+publishdate = "2024-01-12"
+lastmod = "2024-01-12"
 specialites = ["cardiologie"]
 annees = "2023"
 sources = ["ESC"]
@@ -25,12 +25,15 @@ todo = "descr > summary > liens > photo > newsletter > flow, cours ECG | ECG, cl
 
 TODO:
 
+Chapitres liés: insuffisance cardiaque aiguë, insuffisance cardiaque chronique
+
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Syndrome coronarien aigu
 : Ischémie myocardique aiguë. Le SCA recouvre l'angor instable, le SCANST (sans sus-décalage persistant du segment ST) et SCAST+ (avec sus-décalage persistant du segment ST ou infarctus du myocarde).
 : Le SCA est 4 fois plus fréquent chez l'homme avant 60 ans mais à dominance féminine après 75 ans.
+: Prévalence aux urgences pour douleur thoracique sans sélection: SCAST+ (5-10 %), SCANST (15-20 %), angor instable (10%), autres affections cardiaques (15%), causes non cardiaques (50%).
 
 Infarctus du myocarde (IDM, 4e définition TODO:)
 : Nécrose cardiomyocytaire en contexte de d'ischémie myocardique aiguë. L'électrocardiogramme et la troponine sont anormaux.
@@ -62,8 +65,14 @@ HVG
 IDM
 : infarctus du myocarde
 
+MINOCA
+: {{%lang%}}Myocardial Infraction with Non-Obstructive Coronary Arteries{{%/lang%}}
+
 SCA
 : syndrome coronarien aigu
+
+SCAST+
+: syndrome coronarien aigu avec sus-décalage persistant du segment ST ou infarctus du myocarde (ou SCA ST+ ou IDMST+)
 
 Tn-us
 : troponine ultrasensible
@@ -77,7 +86,21 @@ TNT
 
 ### Diagnostic différentiel d'une douleur thoracique
 
-TODO:
+- Accidents cardiovasculaires non coronariens
+  - Dissection aortique
+  - [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
+  - Myocardite, péricardite
+  - Syndrome de tako-tsubo
+  - Accident vasculaire cérébral
+- Accidents extra-cardiaques
+  - Pneumothorax, pleurésie
+  - Anaphylaxie
+  - Septicémie
+  - [Pneumopathie]({{< relref "pneumonie-aigue-communautaire.md" >}})
+  - Fracture de côte
+  - Douleurs articulaires ou musculaires
+  - Pancréatite, cholécystite
+  - Gastrite, œsophagite, [reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -88,13 +111,17 @@ En cas d'appel d'un patient suspect de syndrome coronarien aigu, le rediriger ve
 ### Interrogatoire
 
 - Facteurs de risque cardiovasculaires  
-  Sexe et âge, tabac, dyslipidémie, diabète, hypertension artérielle, hérédité précoce, obésité, sédentarité, athérome connu.
+  Sexe et âge, tabac, dyslipidémie, [diabète](/tags/diabete/), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), hérédité précoce, [obésité]({{< relref "obesite-adulte.md" >}}), sédentarité, athérome connu.
 - Antécédents cardiovasculaires  
-  Facteurs aggravants: antécédent de syndrome coronarien aigu, syndrome coronarien chronique, altération de la fonction VG, insuffisance cardiaque, AOMI, AVC, diabète, **insuffisance rénale**.
-- Toxiques
+  Antécédent de syndrome coronarien aigu, [syndrome coronarien chronique]({{< relref "syndrome-coronarien-chronique.md" >}}), altération de la fonction VG, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}), [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), diabète, **[insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})**.
+- Traitements en cours
+- Tabac, toxiques
 - Heure et date de début des symptômes
+- Prise d'IPDE5 dans les 48 heures
+- Contexte aggravant  
+  Anémie, infection, inflammation (polyarthrite rhumatoïde), comorbidité (acromégalie, goutte, BPCO).
 - Circonstances de déclenchement
-- Symptômes du syndrome coronarien aigu
+- Caractères du syndrome coronarien aigu
   - Asymptomatique ou atypique (femme, sujet âgé, diabète, insuffisance rénale, démence)
   - Signes généraux: fatigue, sueurs, nausées, gêne épigastrique, anxiété
   - Inconfort thoracique: douleur, oppression, tension, lourdeur, brûlure
@@ -102,11 +129,14 @@ En cas d'appel d'un patient suspect de syndrome coronarien aigu, le rediriger ve
     Typiquement rétrosternale en barre, constrictive (brûlure ou pesanteur) avec irradiation dans le(s) bras et la mâchoire.
   - Dyspnée
   - Palpitations, malaise, syncope
+- Caractères des douleurs thoraciques
+- Autres symptômes
 
 ### Examen clinique
 
 - Pression artérielle aux 2 bras, fréquence cardiaque
 - SpO<sub>2</sub>
+- ECG antérieur
 - Auscultation cardio-respiratoire
 - Signes d'insuffisance cardiaque droite  
   {{< clinique/insuffisance-cardiaque-droite >}}.
@@ -116,10 +146,15 @@ Si disponible: électrocardiogramme 12 dérivations voire 18 dérivations (droit
 
 Refaire des tracés dans l'attente du SAMU.
 
+> << Si la suspicion clinique est forte (angor persistant), la présence d'un bloc de branche gauche (BBG), qu'il soit récent ou non, doit être considérée comme équivalent d'un sus-décalage du segment ST >>. << Le bloc de branche droit (BBD), marqueur de pronostic péjoratif lorsqu'il est associé à ischémie myocardique (parce que souvent en lien avec une atteinte du territoire antérieur), doit également être considéré comme équivalent d'un sus-décalage du segment ST. >> – *CNEC*
+
+> << La stimulation ventriculaire (pacemaker) ne permet pas d'identifier un sus-décalage du segment ST. >> – *CNEC*
+{.alert .alert-warning}
+
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Le bilan complémentaire est réalisé après régulation par le SAMU - Centre 15.
+Le bilan complémentaire est réalisé après régulation par le SAMU.
 
 ### Électrocardiogramme 12 dérivations
 
@@ -130,26 +165,71 @@ Si réalisé au cabinet, refaire des tracés dans l'attente du SAMU.
 
 ### Troponine ultrasensible (Tn-us)
 
-Avec résultat dans l'heure. Algorithme ESC en série 0-1 heure (voire 0-2 heures).
+Pour les SCANST avec résultat dans l'heure. Algorithme ESC en série 0-1 heure (voire 0-2 heures).
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitements post infarctus et post SCA" %}}
 
-Mesures de prévention secondaire:
+Mesures de prévention secondaire pour le très haut risque cardiovasculaire après infarctus du myocarde ou autre syndrome coronarien aigu:
 
-- Arrêt du tabac
-- Statine
-- Antiagrégant plaquettaire
-- Réhabilitation cardiaque
+- **Réhabilitation cardiaque**
+- Contrôle du risque cardiovasculaire
+  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (réduit décès de 40%)
+  - Arrêt de l'alcool (max 10 verres/semaine)
+  - {{< modal-btn modal-statine-intensite >}}Statine haute intensité{{< /modal-btn >}}  
+    LDL < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} et réduction ≥ 50%. Considérer < 0,4 g/L si nouvel événement CV dans les 2 ans. (chapitre [Statines]({{< relref "statines.md" >}}))
+  - Activité physique
+  - Lutte contre la sédentarité
+  - Correction d'un surpoids
+  - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
+- Antiagrégants plaquettaires
+  - Bithérapie aspirine 75-100 mg/j + prasugrel/ticagrelor (voire clopidogrel 75) ...
+  - pendant **minimum 12 mois**  
+    Considérer monothérapie après 3-6 mois sauf haut risque ischémique; après 1 mois si haut risque de saignement. Une trithérapie est possible.
+  - Puis **aspirine seule 75-100 mg/j** (prasugrel/ticagrelor possibles)
+  - IPP si haut risque de saignement (TODO: 287, 288)
+  - Si ACFA: AOD + clopidogrel pendant 12 mois  
+    AOD à dose réduite si risque de saignement. Si AVK indiqué: INR cible 2 - 2,5.
+- [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+  - Bêtabloquant (FEVG ≤ 40%) et {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} non systématiques mais à considérer
+  - Cible < 130/80 mmHg
+- [Vaccin grippe]({{< relref "grippe.md" >}}) annuel
+- Colchicine 0,5 mg/j pourrait être considérée en cas de facteurs mal contrôlés ou de nouvel événement CV
+- Développement d'un syndrome coronarien chronique: voir [chapitre dédié]({{< relref "syndrome-coronarien-chronique.md" >}})
+- Bilan complémentaire: échodopplers des TSA, AAA et membres inférieurs
 - Anxiété, dépression
 - Apnées
-- Vaccin grippe
+- Vérifier l'observance (seulement 66%)
+
+{{% /collapse %}}
+{{%collapse "Outils de formation gratuits" %}}
+
+### Applications
+
+- [CardioSmart Heart Explorer (ACC)](https://play.google.com/store/apps/details?id=org.acc.csexplorer)
+
+### Formation complète
+
+{{< card-link-external title="Cursus ECG" url="https://www.cardiocases.com/fr/ecg/cursus-ecg" subtitle="par Cardiocases" >}} {{< card-link-external title="Livre ECG" url="https://book.cardio-fr.com/fr/" >}}
+
+- [e-cardiogram](https://www.e-cardiogram.com) (Dr Pierre Taboulet)
+- [ECG Learning Center](https://ecg.utah.edu/)
+
+### Entraînements de lecture d'ECG
+
+- [Cardio Learn](https://cardiolearn.univ-catholille.fr/exercice-ecg/) (Lille)
+- [Cardiocases](https://www.cardiocases.com/fr/ecg/se-former)
+- [ECG Quiz](http://www.ecg-quiz.com/ecg-quiz/)
+- [EKG.Academy](https://ekg.academy/fr/exercices-entrainement-ecg)
+- [Dr Smith's ECG Blog](http://hqmeded-ecg.blogspot.com/2014/12/)
+
+Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ecg-pediatrique.html).
 
 {{% /collapse %}}
 {{%sources%}}
 
 - [Byrne RA et al; ESC Scientific Document Group. 2023 ESC Guidelines for the management of acute coronary syndromes. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)
-- TODO: [supp data](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/eurheartj/44/38/10.1093_eurheartj_ehad191/1/ehad191_supplementary_data.pdf?Expires=1707733826&Signature=scYEJXc-hkzOZB6Zo5tN9xaES0rdxFJ4SwrPYe8wI612YgDh8uyzIoFP~LllvVbGiJ1~TNGplatGXQWsd6~YVgXmZKTRhc4CREudX-UDpiSV2d-f9JS1bOthzJSsue1yE58tTSSmZGu6EcmODdVMNXQL7oJfrNgO4brWuI3vcayNznEIEO~DjFSs33LSc0yyuNxKQ1BivzB0LWNflX8COexXgZvSgRB9Jcx3-ZlzrI0v~zDBuhtlKcx~uvLXAHX7xcGAJmlQJMbNEw5TlGas110nmIPQ187UsfSriN-rfKPpZZPfHAj7YsrH-esINxIJKvkVakGAQmsRhYpBNZ3E9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+- [2023 ESC Guidelines for the management of acute coronary syndromes - Supplementary Data.](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)
 - Collège National des Enseignants de Cardiologie (CNEC). Syndromes coronariens aigus. Item 339. Cardiologie 2e édition. 2019.
 
 ### Bibliographie en attente
@@ -161,5 +241,25 @@ Mesures de prévention secondaire:
 - SPF
 
 {{%/sources%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
+
+{{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+{{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}
+
+{{< traitements/statine-intensite >}}
+
+{{% /modal %}}
+{{% modal title="Régime méditerranéen" id="modal-regime"%}}
+
+{{< traitements/regime-mediterraneen >}}
+
+{{% /modal %}}
+{{% modal title="IEC dans l'hypertension" id="modal-iec" %}}
+
+{{< traitements/iec >}}
+
+{{% /modal %}}
 
 ≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–
