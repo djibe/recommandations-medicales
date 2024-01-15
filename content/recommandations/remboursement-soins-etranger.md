@@ -24,7 +24,7 @@ imageSrc = "Illustration par Freepik"
 Le remboursement de soins effectués à l'étranger s'effectue depuis le compte Ameli de l'assuré ou en envoyant un double des factures à sa Caisse Primaire d'Assurance Maladie (CPAM).  
 Taux moyen de remboursement en 2018: 73,4% (*France Assos Santé*)
 
-### Remboursement via Ameli.fr
+### Remboursement de soins à l'étranger via Ameli.fr
 
 Demander un remboursement des soins via le portail Ameli:
 

@@ -29,6 +29,7 @@ flowchart = true
 - Appel du 15 pour régulation vers le centre cardiologique adapté
 - Prise en charge du post-infarctus (ou post SCA) et du très haut risque cardiovasculaire: réhabilitation cardiaque, arrêt du tabac et de l'alcool, {{< modal-btn modal-statine-intensite >}}Statine haute intensité{{< /modal-btn >}} pour LDL cible < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} et baisse ≥ 50%, tension cible < 130/80 mmHg, bithérapie aspirine + prasugrel/ticagrelor pendant min. 12 mois, BB et IEC non systématiques, vaccin grippe, bilan et dépistages complémentaires
 - Voir [syndrome coronarien chronique]({{< relref "syndrome-coronarien-chronique.md" >}}) (SCC) pour la prise en charge des symptômes ischémiques persistants
+- Éducation des personnes à haut risque cardiovasculaire: appeler le 15 en cas de douleurs thoraciques ou autres symptômes évocateurs de SCA
 
 Chapitres liés: [insuffisance cardiaque aiguë]({{< relref "insuffisance-cardiaque-aigue.md" >}}), [insuffisance cardiaque chronique]({{< relref "insuffisance-cardiaque-chronique.md" >}})
 
@@ -53,13 +54,23 @@ Angor instable
 
 ### Épidémiologie de l'infarctus du myocarde
 
-- Incidence de l'infarctus du myocarde: +60.000 cas annuels
+- Incidence du SCA: 120.000 annuels (2014)
+- Hospitalisations pour infarctus du myocarde: +60.000 annuelles
+- Décès par infarctus: +15.000 annuels
+- Progression du SCA chez les femmes 45 à 65 ans: +20 % entre 2008 et 2014
 - Mortalité à 1 an: 10 %
+- Seuls 58% de la population déclare appeler le SAMu en cas de douleurs thoraciques
 
 ### Abréviations
 
+aspirine
+: acide acétylsalicylique
+
 BB
 : bloc de branche
+
+CNEC
+: Collège National des Enseignants de Cardiologie
 
 ECG
 : électrocardiogramme
@@ -127,7 +138,7 @@ Autres diagnostics à rechercher devant un épisode de douleurs thoraciques:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-En cas d'appel d'un patient suspect de syndrome coronarien aigu, le rediriger vers le SAMU.
+En cas d'appel d'un patient suspect de syndrome coronarien aigu, le rediriger vers le SAMU. << L'objectif est de "prescrire le 15" >> – HAS
 {.alert .alert-warning}
 
 ### Interrogatoire
@@ -227,6 +238,8 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
   Pourrait être considérée en cas de facteurs mal contrôlés ou de nouvel événement CV.
 - Développement d'un syndrome coronarien chronique: voir [chapitre dédié]({{< relref "syndrome-coronarien-chronique.md" >}})
 - Bilan complémentaire: échodopplers des TSA, AAA et membres inférieurs
+- Suivi cardiologique spécialisé au moins annuel
+- Épreuve d'effort tous les 2 ans (*HAS 2016*)
 - Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) (SAHOS) par polygraphie ventilatoire
 - Rechercher une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})
 - Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
@@ -238,9 +251,9 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
 {{% /collapse %}}
 {{%collapse "Prise en charge du syndrome coronarien aigu" "show" %}}
 
-{{< mermaid title="Prise en charge de la suspicion de syndrome coronarien aigu par le médecin généraliste. Dr JB Fron d'après ESC 2023" >}}
+{{< mermaid title="Prise en charge de la suspicion de syndrome coronarien aigu par le médecin généraliste. Dr JB Fron d'après ESC 2023 et HAS" >}}
 graph TB
-  syndrome["<b>Suspicion de syndrome<br>coronarien aigu</b><br>—<br>Facteurs de risque,<br>antécédents cardiovasculaires:<br>- Douleurs thoraciques<br>- Fatigue, pâleur, sueurs<br>- Nausées, anxiété<br>- Dyspnée<br>- Palpitations"] -- Urgent --> clinique("<b>Clinique</b><br>—<br>Évaluation rapide:<br>- PA aux 2 bras, FC<br>- SpO2<br>- Examen cardio-respiratoire<br>- Examen abdominal<br>- Si disponible: ECG") --> SAMU("Appel du 15<br>pour régulation<br>et orientation hospitalière") -- SCA confirmé --> postIDM("<b>Post-infarctus</b><br>—<br>- Réhabilitation cardiaque<br>- Arrêt tabac, alcool<br>- Aspirine 75/100 +<br>prasugrel/ticagrelor<br>min 12 mois puis seule<br>- Atorvastatine pour LDL &lt; 0,55<br>- PA &lt; 130/80 mmHg<br>- Si ischémie: voir SCC<br>- Activité physique, lutte surpoids<br>- Régime méditerranéen<br>- Vaccin grippe<br>- ALD 5") --> bilan("<b>Bilan complémentaire</b><br>—<br>- Polygraphie ventilatoire<br>- Échodopplers TSA, AAA et<br>membre inférieurs<br>- Dysfonction érectile<br>- Dépression/anxiété")
+  syndrome["<b>Suspicion de syndrome<br>coronarien aigu</b><br>—<br>Facteurs de risque,<br>antécédents cardiovasculaires:<br>- Douleurs thoraciques<br>- Fatigue, pâleur, sueurs<br>- Nausées, anxiété<br>- Dyspnée<br>- Palpitations"] -- Urgent --> clinique("<b>Clinique</b><br>—<br>Évaluation rapide:<br>- PA aux 2 bras, FC<br>- SpO2<br>- Examen cardio-respiratoire<br>- Examen abdominal<br>- Si disponible: ECG") --> SAMU("Appel du 15<br>pour régulation<br>et orientation hospitalière") -- SCA confirmé --> postIDM("<b>Post-infarctus</b><br>—<br>- Réhabilitation cardiaque<br>- Arrêt tabac, alcool<br>- Aspirine 75/100 +<br>prasugrel/ticagrelor<br>min 12 mois puis seule<br>- Atorvastatine pour LDL &lt; 0,55<br>- PA &lt; 130/80 mmHg<br>- Si ischémie: voir SCC<br>- Activité physique, lutte surpoids<br>- Régime méditerranéen<br>- Vaccin grippe<br>- ALD 5") --> bilan("<b>Bilan complémentaire</b><br>—<br>- Polygraphie ventilatoire<br>- Échodopplers TSA, AAA et<br>membre inférieurs<br>- Test d'effort /2 ans<br>- Dysfonction érectile<br>- Dépression/anxiété")
     SAMU --> autre(Autre diagnostic)
   style syndrome stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
@@ -275,15 +288,13 @@ Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ec
 - [Byrne RA et al; ESC Scientific Document Group. 2023 ESC Guidelines for the management of acute coronary syndromes. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)
 - [2023 ESC Guidelines for the management of acute coronary syndromes - Supplementary Data.](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)
 - Collège National des Enseignants de Cardiologie (CNEC). Syndromes coronariens aigus. Item 339. Cardiologie 2e édition. 2019.
+- [Santé Publique France. Infarctus du myocarde. 25/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/infarctus-du-myocarde)
+- [HAS. Maladie coronarienne stable. 2016.](https://www.has-sante.fr/jcms/c_1761792/fr/guide-parcours-de-soins-maladie-coronarienne-stable)
+- [HAS, SAMU, SFMU, SFC. Prise en charge de l'infarctus du myocarde à la phase aiguë en dehors des services de cardiologie. 2006.](https://www.has-sante.fr/jcms/c_484720/fr/prise-en-charge-de-l-infarctus-du-myocarde-a-la-phase-aigue-en-dehors-des-services-de-cardiologie)
 
 ### Bibliographie en attente
 
-- [Thygesen K et al; ESC Scientific Document Group. Fourth universal definition of myocardial infarction (2018). Eur Heart J. 2019.](https://academic.oup.com/eurheartj/article/40/3/237/5079081)
-- SFMU
-- Prescrire
-- Cochrane
-- Minerva
-- SPF
+[Thygesen K et al; ESC Scientific Document Group. Fourth universal definition of myocardial infarction (2018). Eur Heart J. 2019.](https://academic.oup.com/eurheartj/article/40/3/237/5079081)
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}

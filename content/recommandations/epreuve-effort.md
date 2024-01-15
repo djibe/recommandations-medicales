@@ -7,7 +7,7 @@ synonyms = ["Test d'effort"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-07T19:51:41+02:00"
 publishdate = "2020-09-07"
-lastmod = "2023-03-30"
+lastmod = "2024-01-15"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["SFC", "ESC", "SFD"]
@@ -122,6 +122,7 @@ RCV
 : Probabilité pré-test de coronaropathie **Élevée**.
 : Probabilité pré-test de coronaropathie **Intermédiaire**.
 : Pour la prescription adaptée d'activité physique et réadaptation cardiaque.
+: Tous les 2 ans selon *HAS 2016*
 
 Épreuve d'effort doit être envisagée
 : Probabilité pré-test de coronaropathie **Faible** ET {{< modal-btn modal-rcv >}}risque cardiovasculaire (très) élevé{{< /modal-btn >}}.
@@ -261,22 +262,22 @@ window.addEventListener('load', () => {
 - Probabilité pré-test de coronaropathie **Intermédiaire**
 - Probabilité pré-test de coronaropathie **Élevée**
 - Coronaropathie  
-Pour prescription adaptée d'activité physique et réadaptation cardiaque
+  Pour prescription adaptée d'activité physique et réadaptation cardiaque. Tous les 2 ans selon *HAS 2016 maladie coronaire*.
 - Symptômes à l'effort  
-Syncope, fatigue anormale, palpitations
+  Syncope, fatigue anormale, palpitations.
 - Insuffisance cardiaque
   - Pour optimiser l'entraînement à l'effort (EEVO<sub>2</sub>).
   - Pour évaluer la capacité fonctionnelle et préciser l'indication d'une assistance ventriculaire ou d'une transplantation cardiaque (EEVO<sub>2</sub>).
 - HTAP  
-Au diagnostic puis tous les 6 à 12 mois (EEVO<sub>2</sub>).
+  Au diagnostic puis tous les 6 à 12 mois (EEVO<sub>2</sub>).
 - AOMI
 - HTA avec angor et ECG normal
-- Diabète avec angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire (répétée tous les 3-5 ans){{< /modal-btn >}}  
-Après score calcique si {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} (*SFD 2021 CAD*)
-- Femme > 50 ans avec angor et ECG normal
+- Diabète avec angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire (répétée tous les 3-5 ans){{< /modal-btn >}}.  
+  Après score calcique si {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} (*SFD 2021 CAD*)
+- Femme +50 ans avec angor et ECG normal
 - Sportif
   - avec angor
-  - avec RCV élevé/très élevé
+  - avec risque cardiovasculaire (très) élevé
 
 ### Épreuve d'effort doit être envisagée
 
@@ -363,6 +364,7 @@ Un test d'effort doit être envisagé chez un **professionnel** (pompier, milita
 - [Knuuti J et al; ESC Scientific Document Group. 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes: The Task Force for the diagnosis and management of chronic coronary syndromes of the European Society of Cardiology (ESC). European Heart Journal. 2019.](https://academic.oup.com/eurheartj/article/41/3/407/5556137)
 - Collège National des Enseignants de Cardiologie (CNEC). Syndromes coronariens aigus. Item 339. Cardiologie 2e édition. 2019.
 - [SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
+- [HAS. Maladie coronarienne stable. 2016.](https://www.has-sante.fr/jcms/c_1761792/fr/guide-parcours-de-soins-maladie-coronarienne-stable)
 
 {{%/sources%}}
 {{% modal title="Diabète et risque coronaire selon SFD 2021" id="modal-coronaire-diabete"%}}

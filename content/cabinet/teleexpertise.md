@@ -96,9 +96,9 @@ La FSE de la téléexpertise peut être réalisée le jour de la consultation ma
 
 [SFDermato. Photographies en télédermatologie. Mai 2021. (PDF)](https://www.sfdermato.org/upload/files/fichiers/groupes-thematiques/recos%20photos%20TD%20-%20v2%20FINALE.pdf)
 
+- [Ameli Médecin. La téléexpertise. 04/01/2024.](https://www.ameli.fr/medecin/exercice-liberal/telemedecine/teleexpertise)
 - [Ministère de la Santé. La téléexpertise. 04/05/2022.](https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/article/la-teleexpertise)
 - [Service-Public. Téléexpertise : dispositif ouvert à tous pour obtenir plus rapidement l'avis d'un spécialiste. 13/04/2022.](https://www.service-public.fr/particuliers/actualites/A15615)
-- [Ameli. La téléexpertise. 28/03/2022.](https://www.ameli.fr/medecin/exercice-liberal/telemedecine/teleexpertise)
 - [HAS. Téléconsultation et téléexpertise : guide de bonnes pratiques. 2019.](https://www.has-sante.fr/jcms/c_2971632/fr/teleconsultation-et-teleexpertise-guide-de-bonnes-pratiques)
 
 {{%/sources%}}

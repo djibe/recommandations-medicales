@@ -45,7 +45,7 @@ Exemple pour une patientèle de 1300 patients déjà déclarés: déclarer 260 p
 
 En cas de contrat déjà signé, rien ne change sauf si le médecin demande à basculer dans le nouveau dispositif.
 
-L'appli *Ameli Mémo* ([Android](https://play.google.com/store/apps/details?id=fr.cnamts.amelimemo&hl=fr), [iOS](https://apps.apple.com/fr/app/ameli-m%C3%A9mo/id1304468265)) permet de vérifier son éligibilité au dispositif.
+L'appli *ameli Mémo* ([Android](https://play.google.com/store/apps/details?id=fr.cnamts.amelimemo&hl=fr), [iOS](https://apps.apple.com/fr/app/ameli-m%C3%A9mo/id1304468265)) permet de vérifier son éligibilité au dispositif.
 
 {{% /collapse %}}
 {{%collapse "Les aides pour financer un assistant médical" %}}
@@ -107,11 +107,10 @@ Toutefois, toute personne peut commencer la collaboration sous réserve de passe
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ameli Médecin. L'aide à l'emploi d'assistants médicaux dans les cabinets libéraux. 14/11/2023.](https://www.ameli.fr/hauts-de-seine/medecin/exercice-liberal/vie-cabinet/aides-financieres/aide-emploi-assistants-medicaux)
 - [Ameli Médecin. Emploi d’un assistant médical : nouvel outil en ligne pour simuler facilement son aide financière. 20/10/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/emploi-d-un-assistant-medical-nouvel-outil-en-ligne-pour-simuler-facilement-son-aide-financiere)
 - [Ameli. Assistant médical - Un professionnel pour vous faire gagner du temps au service de vos patients. 2023. (PDF)](https://www.ameli.fr/sites/default/files/Documents/Assistant%20medical-Brochure-Medecin%20liberal.pdf)
-- [Ameli Médecin. L'aide à l'emploi d'assistants médicaux dans les cabinets libéraux. 23/05/2023.](https://www.ameli.fr/hauts-de-seine/medecin/exercice-liberal/vie-cabinet/aides-financieres/aide-emploi-assistants-medicaux)
 - [Ameli Médecin. Assistants médicaux : un levier pour renforcer l'accès aux soins dans les territoires. 28/10/2022.](https://www.ameli.fr/medecin/actualites/assistants-medicaux-un-levier-pour-renforcer-l-acces-aux-soins-dans-les-territoires)
-- [Ameli Médecin.  L'aide à l'embauche d'assistants médicaux dans les cabinets libéraux. 08/09/2021.](https://www.ameli.fr/medecin/exercice-liberal/vie-cabinet/aides-financieres/aide-embauche-assistants-medicaux)
 - [Arrêté du 7 novembre 2019 relatif à l'exercice de l'activité d'assistant médical](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039364029)
 - [Site de la Convention collective nationale du personnel des cabinets médicaux](https://ccn-cabinets-medicaux.fr/assistants-medicaux)
 - [Légifrance. Convention collective nationale du personnel des cabinets médicaux du 14 octobre 1981.](https://www.legifrance.gouv.fr/conv_coll/id/KALICONT000005635409/)

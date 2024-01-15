@@ -212,7 +212,7 @@ Prise en charge de la fibromyalgie:
 
 - Reconnaître les symptômes, rassurer, annoncer clairement le diagnostic, ne pas multiplier les examens
 - Éducation thérapeutique du patient (ETP)  
-  Informations sur les composantes bio-psycho-sociales des douleurs chroniques. Voir plus bas Ameli.fr et associations.
+  Informations sur les composantes bio-psycho-sociales des douleurs chroniques. Voir plus bas *Ameli.fr et associations.
 - Activité physique adaptée (APA) régulière  
   Aérobie (marche, vélo, natation) et en résistance, voire aquatique, yoga, tai-chi ou Qi Gong.
 - Psychothérapie

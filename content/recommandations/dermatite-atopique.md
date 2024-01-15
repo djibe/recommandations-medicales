@@ -288,6 +288,7 @@ accTitle: Conduite à tenir devant une suspicion de dermatite atopique et prise 
 
 ### Bibliographie en attente
 
+- [Werfel T et al. S3 Guideline Atopic dermatitis: Part 1 - General aspects, topical and non-drug therapies, special patient groups. J Dtsch Dermatol Ges. 2024.](https://onlinelibrary.wiley.com/doi/10.1111/ddg.15230)
 - [European Dermatology Forum. Living EuroGuiDerm Guideline for the systemic treatment of Atopic Eczema. 2023.](https://www.guidelines.edf.one/guidelines/atopic-ezcema)
 - [Xu AZ, Alexander JT. Topical Therapies for Atopic Dermatitis. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811421)
 

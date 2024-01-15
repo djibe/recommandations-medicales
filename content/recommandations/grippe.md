@@ -216,7 +216,6 @@ graph TB
 {{%sources%}}
 
 - [Ameli Médecin. Vacciner ses patients atteints de maladies chroniques contre la grippe et le Covid-19 est essentiel. 15/11/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/vacciner-ses-patients-atteints-de-maladies-chroniques-contre-la-grippe-et-le-covid-19-est-essentiel)
-- [Ameli Pharmacien. Campagne de vaccination contre la grippe saisonnière 2023-2024. 08/11/2023](https://www.ameli.fr/pharmacien/exercice-professionnel/sante-prevention/vaccination/vaccination-grippe-saisonniere)
 - [Hanula R et al. Evaluation of Oseltamivir Used to Prevent Hospitalization in Outpatients With Influenza: A Systematic Review and Meta-analysis. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2805976)
 - [CMIT. Grippe. Item 166. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-166.pdf)
 - {{< references/calendrier-vaccinal >}}
