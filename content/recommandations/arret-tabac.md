@@ -455,6 +455,7 @@ accTitle: Prise en charge de l'arrêt du tabac d'après HAS 2014
 {{% /collapse %}}
 {{%sources%}}
 
+- [Lindson N et al. Pharmacological and electronic cigarette interventions for smoking cessation in adults: component network meta‐analyses. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015226.pub2/full/fr)
 - [Theodoulou A et al. Different doses, durations and modes of delivery of nicotine replacement therapy for smoking cessation. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013308.pub2/full/fr)
 - [Collège des Enseignants de Pneumologie (CEP). Addiction au tabac. Item 75. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_75_TABAC_2023.pdf)
 - Prescrire Redaction. Consommation et arrêt du tabac. Premiers Choix Prescrire. Rev Prescrire. 2023.

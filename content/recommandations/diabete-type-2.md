@@ -44,7 +44,7 @@ Diabète
     - ou HGPO-75g H2 ≥ 2 g/L
     - Symptômes et glycémie ≥ 2 g/L  
       Polyurie, polydipsie, amaigrissement.
-: Au cours du diabète, l'atteinte coronaire est plus étendue, sévère et diffuse. 6 à 35% ont une **[ischémie myocardique sans angor]({{< relref "syndrome-coronarien-chronique.md" >}})** et 50% des infarctus du myocarde sont **silencieux** (*SFD 2021 CAD*). Le responsable majeur est le **LDL cholestérol**. Le risque d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) est multiplié par 2 à 4.  
+: Au cours du diabète, l'atteinte coronaire est plus étendue, sévère et diffuse. 6 à 35% ont une **[ischémie myocardique sans angor]({{< relref "syndrome-coronarien-chronique.md" >}})** et 50% des [infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) sont **silencieux** (*SFD 2021 CAD*). Le responsable majeur est le **LDL cholestérol**. Le risque d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) est multiplié par 2 à 4.  
 Les femmes avec DT2 sont à risque élevé d'[AVC]({{< relref "accident-vasculaire-cerebral.md" >}}).
 : Épidémiologie du diabète en France: 3,5 millions de sujets traités, 80% en surpoids ou obèses, 3/4 hypertendus, 13% sont fumeurs et seulement 64% reçoivent une statine (*Entred3*).
 

@@ -142,7 +142,7 @@ Le tolvaptan est le seul traitement spécifique envisageable par le spécialiste
 {{< mermaid title="Prise en charge de la suspicion de polykystose rénale autosomique dominante (PKRAD) par le médecin généraliste. Dr JB Fron d'après CUEN 2023" >}}
 graph TB
   suspicion["<b>Suspicion de polykystose rénale</b><br>—<br>Adulte jeune:<br>- Antécédents rénaux familiaux<br>- Hypertension artérielle précoce<br>- Hématurie macroscopique<br>- Coliques néphrétiques<br>- Incidentalome"] --> bilan("<b>Bilan</b><br>—<br>- Créatininémie, DFG<br>- Bilan hépatique<br>- Échographie abdominale") -- Polykystose rénale --> néphrologue(Néphrologue) --> suivi("<b>Suivi</b><br>—<br>- Suivi au moins annuel<br>- Clinique<br>- Pression artérielle<br>- Créatininémie<br>- Néphroprotection<br>- ECBU si fièvre")
-    bilan -- Autre diagnostic --> autre("Polykystose écartée si:<br>- 30-39 ans: aucun kyste<br>- +40 ans: < 2 kystes")
+    bilan -- Autre diagnostic --> autre("Polykystose écartée si:<br>- 30-39 ans: aucun kyste<br>- +40 ans: &lt; 2 kystes")
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

@@ -57,6 +57,9 @@ AIT
 AVC
 : accident vasculaire cérébral
 
+ESC
+: {{%lang%}}European Society of Cardiology{{%/lang%}}
+
 ESO
 : {{%lang%}}European Stroke Organisation{{%/lang%}}
 

@@ -263,7 +263,7 @@ Posologies chez l'enfant, traitement de 3 jours:
   - Accident de décompression après la plongée
   - HTIC
   - Infection ORL
-  - Infarctus du myocarde ou [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) récent
+  - [Infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) ou [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) récent
   - Chirurgie ou traumatisme récent avec risque de flatulence
   - Fracture avec plâtre fermé
   - Traumatisme ou chirurgie cranio-faciale ou oculaire

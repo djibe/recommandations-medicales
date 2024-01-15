@@ -12,7 +12,7 @@ lastmod = "2023-12-11"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS", "SFMV"]
-tags = ["BPCO", "depistage", "diabete", "epreuve effort", "HTA", "neuropathie", "risque cardiovasculaire", "SAS", "tabac", "vaccin"]
+tags = ["antiplaquettaire", "BPCO", "depistage", "diabete", "epreuve effort", "HTA", "neuropathie", "risque cardiovasculaire", "SAS", "tabac", "vaccin"]
 anglais = ["Lower extremity artery disease (LEAD)"]
 sctid = "789703007"
 icd10 = "I70.20"
@@ -38,7 +38,7 @@ Artériopathie oblitérante des membres inférieurs (AOMI)
 : Les facteurs majeurs d'artérite sont: âge, tabac, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), dyslipidémie et [diabète]({{< relref "diabete-type-2.md" >}}).
 : 3 stades: asymptomatique (20-50%), ischémie d'effort (45%, dont seulement 10-35% de claudication typique) et ischémie de repos (ou *critique*, < 5%).
 : Patients à {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} par atteinte artérielle globale:
-    - Coronaropathie (50%) et infarctus du myocarde (IDM)
+    - [Coronaropathie (50%) et infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) (IDM)
     - [Accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}})
     - Mortalité cardiovasculaire  
     Corrélation IPS-mortalité forte.
@@ -77,6 +77,9 @@ BB
 
 CV
 : cardiovasculaire
+
+ESC
+: {{%lang%}}European Society of Cardiology{{%/lang%}}
 
 FRCV
 : facteurs de risque cardiovasculaire

@@ -82,6 +82,8 @@ En cas d'absence de l'assistant (maternité, maladie, démission), il faut prév
 
 {{< card-link-external title="Estimateur de cotisations" url="https://www.urssaf.fr/portail/home/utile-et-pratique/estimateur-de-cotisations.html" subtitle="URSSAF">}}
 
+{{< youtube id="0h2LpuOYpWQ" title="Travailleurs indépendants : J’embauche mes salariés en toute simplicité (URSSAF IDF)" >}}
+
 {{% /collapse %}}
 {{%collapse "Les qualifications nécessaires pour un assistant médical" %}}
 

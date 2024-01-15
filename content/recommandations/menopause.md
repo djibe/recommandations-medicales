@@ -34,7 +34,7 @@ todo = "écriture SEO, KEY patiente | règles d'hygiène, Chart J1-J31, lire sou
 - Le traitement hormonal de la ménopause (THM):
   - Débuter quand diagnostic certain et seulement dans les 10 premières années
   - Indications et contre-indications précises (voir *Traitement hormonal de la ménopause*)  
-  **Contre-indications majeures**: antécédent de [cancer du sein]({{< relref "cancer-sein.md" >}}), infarctus du myocarde, AVC ou [Alzheimer]({{< relref "maladie-alzheimer.md" >}})
+  **Contre-indications majeures**: antécédent de [cancer du sein]({{< relref "cancer-sein.md" >}}), [infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}), AVC ou [Alzheimer]({{< relref "maladie-alzheimer.md" >}})
   - Utiliser les doses minimales efficaces d'estrogène cutané et de progestérone orale combinés
 - Rapporter tout saignement vaginal après la ménopause
 
@@ -319,7 +319,7 @@ Contre-indications au traitement de la ménopause:
 
 - [Antécédent de cancer du sein]({{< relref "cancer-sein.md" >}})  
   Quelque soit le statut hormonal ou invasif/in situ.
-- Antécédent d'infarctus du myocarde ou d'[AVC ischémique]({{< relref "accident-vasculaire-cerebral.md" >}})
+- Antécédent d'[infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) ou d'[AVC ischémique]({{< relref "accident-vasculaire-cerebral.md" >}})
 - [Maladie d'Alzheimer]({{< relref "maladie-alzheimer.md" >}})
 - Contre-indication relative
   - Syndrome douloureux mammaire
@@ -564,7 +564,7 @@ Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch par semaine (sur fess
 
 - Fracture de tous les sites osseux  
   Prévention de l'[ostéoporose]({{< relref "osteoporose.md" >}}).
-- Infarctus du myocarde  
+- [Infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}})  
   Avant 60 ans ou ménopause de moins de 10 ans.
 - Cancers: [colorectal]({{< relref "cancer-colorectal.md" >}}), du [pancréas]({{< relref "cancer-pancreas.md" >}}), de l'œsophage, de l'[estomac]({{< relref "cancer-estomac.md" >}}) et du foie
 - Démence (29-44% mais faible niveau de preuve - [cas-contrôle à l'opposé](https://www.bmj.com/content/381/bmj-2022-072770)) surtout si [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})

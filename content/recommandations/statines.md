@@ -137,7 +137,7 @@ Lorsqu'une statine doit être arrêtée pour mauvaise tolérance, envisager la s
 {{% /collapse %}}
 {{%collapse "Effets de l'arrêt d'une statine" %}}
 
-Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**infarctus du myocarde** en plus et une **surmortalité cardiovasculaire** de 18%.
+Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**[infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}})** en plus et une **surmortalité cardiovasculaire** de 18%.
 
 > *[Sune Fallgaard Nielsen 2016](https://academic.oup.com/eurheartj/article/37/11/908/2398344)*
 
@@ -146,6 +146,7 @@ Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**infarctus 
 
 *Autres bibliographies en regard de chaque élément présenté*
 
+- [Adams SP et al. Pravastatin for lowering lipids. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013673.pub2/full/fr)
 - {{< references/esh-2023 >}}
 - {{< references/esc-cvd >}}
 - {{< references/esc-dyslipidaemias >}}

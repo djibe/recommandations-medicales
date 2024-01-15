@@ -1,43 +1,48 @@
 +++
 title = "Syndrome coronarien aigu (SCA) et infarctus du myocarde (IDM)"
 titleSeo = "Syndrome coronarien infarctus du myocarde"
-prefix = "le "
-description = "TODO:"
+prefix = "les "
+description = "Recommandations pour la prise en charge à distance du syndrome coronarien aigu SCA ou infarctus du myocarde. Réhabilitation cardiaque, antiagrégant plaquettaire"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-08T12:47:29+01:00"
-publishdate = "2024-01-12"
-lastmod = "2024-01-12"
+publishdate = "2024-01-15"
+lastmod = "2024-01-15"
 specialites = ["cardiologie"]
 annees = "2023"
 sources = ["ESC"]
-tags = []
+tags = ["antiplaquettaire", "BPCO", "cancer", "chute", "diabete", "dyspnee", "fatigue", "HTA", "risque cardiovasculaire", "sueurs nocturnes", "vertige"]
 anglais = ["Acute coronary syndrome (ACS)", "myocardial infarction (MI, STEMI)", "unstable angina (UA)"]
 sctid = "394659003"
 icd10 = "I24.9"
-draft = true
-image = false
-imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow, cours ECG | ECG, clinique, critères gravité"
+image = true
+imageSrc = "Infarctus du myocarde inférieur: élévation du segment ST en DII, DIII, et aVF et image en miroir en DI et aVL. Glenlarson, CC BY-SA 3.0, via Wikimedia Commons"
+todo = " ECG, critères gravité"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-TODO:
+- Le syndrome coronarien aigu (SCA) recouvre les différentes présentation de l'ischémie myocardique (infarctus du myocarde IDM, SCA sans sus-décalage SCANST, angor instable)
+- Le syndrome coronarien aigu (SCA) est suspecté en cas de: facteurs de risque cardiovasculaire (tabac, hypertension, dyslipidémie) et antécédents cardiovasculaires, douleurs thoraciques, palpitations, signes généraux (fatigue, sueurs, anxiété, [dyspnée](/tags/dyspnee/))
+- L'évaluation clinique est immédiate dès la suspicion de SCA: critères de gravité (constantes, signes d'insuffisance cardiaque), ECG si disponible
+- Appel du 15 pour régulation vers le centre cardiologique adapté
+- Prise en charge du post-infarctus (ou post SCA) et du très haut risque cardiovasculaire: réhabilitation cardiaque, arrêt du tabac et de l'alcool, {{< modal-btn modal-statine-intensite >}}Statine haute intensité{{< /modal-btn >}} pour LDL cible < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} et baisse ≥ 50%, tension cible < 130/80 mmHg, bithérapie aspirine + prasugrel/ticagrelor pendant min. 12 mois, BB et IEC non systématiques, vaccin grippe, bilan et dépistages complémentaires
+- Voir [syndrome coronarien chronique]({{< relref "syndrome-coronarien-chronique.md" >}}) (SCC) pour la prise en charge des symptômes ischémiques persistants
 
-Chapitres liés: insuffisance cardiaque aiguë, insuffisance cardiaque chronique
+Chapitres liés: [insuffisance cardiaque aiguë]({{< relref "insuffisance-cardiaque-aigue.md" >}}), [insuffisance cardiaque chronique]({{< relref "insuffisance-cardiaque-chronique.md" >}})
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Syndrome coronarien aigu
-: Ischémie myocardique aiguë. Le SCA recouvre l'angor instable, le SCANST (sans sus-décalage persistant du segment ST) et SCAST+ (avec sus-décalage persistant du segment ST ou infarctus du myocarde).
-: Le SCA est 4 fois plus fréquent chez l'homme avant 60 ans mais à dominance féminine après 75 ans.
+: Ischémie myocardique aiguë. Le SCA recouvre l'angor instable, les SCANST (sans sus-décalage persistant du segment ST) et SCAST+ (avec sus-décalage persistant du segment ST ou infarctus du myocarde).
+: Le SCA est 4 fois plus fréquent chez l'homme avant 60 ans mais majoritaire chez les femmes après 75 ans.
 : Prévalence aux urgences pour douleur thoracique sans sélection: SCAST+ (5-10 %), SCANST (15-20 %), angor instable (10%), autres affections cardiaques (15%), causes non cardiaques (50%).
 
-Infarctus du myocarde (IDM, 4e définition TODO:)
+Infarctus du myocarde (IDM)
 : Nécrose cardiomyocytaire en contexte de d'ischémie myocardique aiguë. L'électrocardiogramme et la troponine sont anormaux.
-: Élévation persistante du segment ST au point J dans ≥ 2 dérivations contiguës:
+: Élévation persistante du segment ST au point J dans au moins 2 dérivations contiguës:
     - en l'absence de bloc de branche gauche (BBG) ou d'hypertrophie ventriculaire
     - ≥ 1 mm
     - Homme en V2-V3: ≥ 2 mm (2,5 avant 40 ans)
@@ -58,6 +63,9 @@ BB
 
 ECG
 : électrocardiogramme
+
+ESC
+: {{%lang%}}European Society of Cardiology{{%/lang%}}
 
 HVG
 : hypertrophie ventriculaire gauche
@@ -86,21 +94,35 @@ TNT
 
 ### Diagnostic différentiel d'une douleur thoracique
 
+Autres diagnostics à rechercher devant un épisode de douleurs thoraciques:
+
 - Accidents cardiovasculaires non coronariens
-  - Dissection aortique
-  - [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
-  - Myocardite, péricardite
+  - Myocardite, péricardite, cardiomyopathie
+  - Tachyarythmie
+  - [Insuffisance cardiaque aiguë]({{< relref "insuffisance-cardiaque-aigue.md" >}})
+  - [Hypertension artérielle maligne]({{< relref "hypertension-arterielle-maligne.md" >}})
+  - Sténose de la valve aortique
   - Syndrome de tako-tsubo
-  - Accident vasculaire cérébral
+  - Spasme coronaire
+  - Traumatisme cardiaque
+  - Dissection aortique
+  - [Anévrisme de l'aorte abdominale symptomatique]({{< relref "anevrysme-aorte-abdominale.md" >}})
+  - [Accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}})
+  - [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
 - Accidents extra-cardiaques
   - Pneumothorax, pleurésie
+  - [Pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}})
   - Anaphylaxie
   - Septicémie
-  - [Pneumopathie]({{< relref "pneumonie-aigue-communautaire.md" >}})
   - Fracture de côte
   - Douleurs articulaires ou musculaires
+  - Dorsalgie
   - Pancréatite, cholécystite
   - Gastrite, œsophagite, [reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
+- Autres
+  - Anxiété
+  - [Anémie]({{< relref "anemie.md" >}})
+  - [Zona]({{< relref "zona.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -117,15 +139,15 @@ En cas d'appel d'un patient suspect de syndrome coronarien aigu, le rediriger ve
 - Traitements en cours
 - Tabac, toxiques
 - Heure et date de début des symptômes
-- Prise d'IPDE5 dans les 48 heures
+- Prise d'IPDE5 dans les 24 heures (48h si tadalafil)
 - Contexte aggravant  
   Anémie, infection, inflammation (polyarthrite rhumatoïde), comorbidité (acromégalie, goutte, BPCO).
 - Circonstances de déclenchement
 - Caractères du syndrome coronarien aigu
   - Asymptomatique ou atypique (femme, sujet âgé, diabète, insuffisance rénale, démence)
-  - Signes généraux: fatigue, sueurs, nausées, gêne épigastrique, anxiété
+  - Signes généraux: fatigue, pâleur, sueurs, nausées, gêne épigastrique, anxiété
   - Inconfort thoracique: douleur, oppression, tension, lourdeur, brûlure
-  - Douleurs thoraciques prolongées (> 15 min) ou récidivant dans l'heure, de novo ou aggravation  
+  - **Douleurs thoraciques** (80%) prolongées (> 15 min) ou récidivant dans l'heure, de novo ou aggravation  
     Typiquement rétrosternale en barre, constrictive (brûlure ou pesanteur) avec irradiation dans le(s) bras et la mâchoire.
   - Dyspnée
   - Palpitations, malaise, syncope
@@ -136,10 +158,11 @@ En cas d'appel d'un patient suspect de syndrome coronarien aigu, le rediriger ve
 
 - Pression artérielle aux 2 bras, fréquence cardiaque
 - SpO<sub>2</sub>
-- ECG antérieur
+- Tracé ECG antérieur
 - Auscultation cardio-respiratoire
 - Signes d'insuffisance cardiaque droite  
   {{< clinique/insuffisance-cardiaque-droite >}}.
+- Examen abdominal
 - Pouls périphériques principaux
 
 Si disponible: électrocardiogramme 12 dérivations voire 18 dérivations (droites V3R, V4R, V7-V9) si infarctus inférieur suspecté. Dans les 10 minutes suivant la suspicion de SCA (avec l'interprétation spécialisée).
@@ -154,52 +177,73 @@ Refaire des tracés dans l'attente du SAMU.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Le bilan complémentaire est réalisé après régulation par le SAMU.
+Le bilan complémentaire (hors ECG si disponible au cabinet) est réalisé après régulation par le SAMU.
 
 ### Électrocardiogramme 12 dérivations
 
-Dérivations droites en cas de suspicion d'infarctus inférieur.
-Avec interprétation par spécialiste dans les 10 minutes.
+L'ECG doit être réalisé et interprété par un professionnel compétent dans les 10 minutes après le premier contact.
 
-Si réalisé au cabinet, refaire des tracés dans l'attente du SAMU.
+Compléter l'ECG avec les dérivations droites (ECG 18 dérivations) en cas de suspicion d'infarctus inférieur.
+
+Si l'ECG est réalisé au cabinet, refaire des tracés dans l'attente du SAMU.
 
 ### Troponine ultrasensible (Tn-us)
 
-Pour les SCANST avec résultat dans l'heure. Algorithme ESC en série 0-1 heure (voire 0-2 heures).
+Le dosage de la troponine est inutile pour un infarctus du myocarde.
+
+Pour les SCANST, le dosage nécessite un résultat dans l'heure avec interprétation selon l'algorithme ESC en série 0-1 heure (voire 0-2 heures).
 
 {{% /collapse %}}
 {{%collapse "Traitements post infarctus et post SCA" %}}
 
-Mesures de prévention secondaire pour le très haut risque cardiovasculaire après infarctus du myocarde ou autre syndrome coronarien aigu:
+> L'arrêt du tabac est la mesure la plus efficace avec une réduction de la mortalité de 36% après un [infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}})
+{.alert .alert-warning}
+
+Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} après infarctus du myocarde ou autre syndrome coronarien aigu:
 
 - **Réhabilitation cardiaque**
 - Contrôle du risque cardiovasculaire
   - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (réduit décès de 40%)
-  - Arrêt de l'alcool (max 10 verres/semaine)
+  - [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}}) (max 10 verres/semaine)
   - {{< modal-btn modal-statine-intensite >}}Statine haute intensité{{< /modal-btn >}}  
-    LDL < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} et réduction ≥ 50%. Considérer < 0,4 g/L si nouvel événement CV dans les 2 ans. (chapitre [Statines]({{< relref "statines.md" >}}))
+    LDL cible < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} et réduction ≥ 50%. Titration par paliers de 4-6 semaines. Considérer < 0,4 g/L si nouvel événement CV dans les 2 ans. (chapitre [Statines]({{< relref "statines.md" >}}))
   - Activité physique
   - Lutte contre la sédentarité
   - Correction d'un surpoids
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Antiagrégants plaquettaires
-  - Bithérapie aspirine 75-100 mg/j + prasugrel/ticagrelor (voire clopidogrel 75) ...
+  - Bithérapie [aspirine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68881730&typedoc=R) 75-100 mg/j + [prasugrel](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61374393&typedoc=R)/ticagrelor (voire clopidogrel 75) ...
   - pendant **minimum 12 mois**  
     Considérer monothérapie après 3-6 mois sauf haut risque ischémique; après 1 mois si haut risque de saignement. Une trithérapie est possible.
-  - Puis **aspirine seule 75-100 mg/j** (prasugrel/ticagrelor possibles)
-  - IPP si haut risque de saignement (TODO: 287, 288)
-  - Si ACFA: AOD + clopidogrel pendant 12 mois  
+  - Puis **[aspirine seule](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68881730&typedoc=R) 75-100 mg/j** (prasugrel/ticagrelor possibles)
+  - IPP si haut risque de saignement (à venir: *ESC DAPT*)
+  - Si [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}): AOD + clopidogrel pendant 12 mois  
     AOD à dose réduite si risque de saignement. Si AVK indiqué: INR cible 2 - 2,5.
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
   - Bêtabloquant (FEVG ≤ 40%) et {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} non systématiques mais à considérer
-  - Cible < 130/80 mmHg
+  - Cible tensionnelle < 130/80 mmHg
 - [Vaccin grippe]({{< relref "grippe.md" >}}) annuel
-- Colchicine 0,5 mg/j pourrait être considérée en cas de facteurs mal contrôlés ou de nouvel événement CV
+- Colchicine 0,5 mg/j  
+  Pourrait être considérée en cas de facteurs mal contrôlés ou de nouvel événement CV.
 - Développement d'un syndrome coronarien chronique: voir [chapitre dédié]({{< relref "syndrome-coronarien-chronique.md" >}})
 - Bilan complémentaire: échodopplers des TSA, AAA et membres inférieurs
-- Anxiété, dépression
-- Apnées
+- Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) (SAHOS) par polygraphie ventilatoire
+- Rechercher une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})
+- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Si diabète: {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}}
 - Vérifier l'observance (seulement 66%)
+- Déclarer l'[ALD n°5]({{< relref "affection-longue-duree.md" >}})  
+  Indications: toute ischémie myocardique objectivement documentée (ECG, épreuve d'effort, scintigraphie myocardique de perfusion, échographie de stress, échographie d'effort, holter ECG, coronarographie).
+
+{{% /collapse %}}
+{{%collapse "Prise en charge du syndrome coronarien aigu" "show" %}}
+
+{{< mermaid title="Prise en charge de la suspicion de syndrome coronarien aigu par le médecin généraliste. Dr JB Fron d'après ESC 2023" >}}
+graph TB
+  syndrome["<b>Suspicion de syndrome<br>coronarien aigu</b><br>—<br>Facteurs de risque,<br>antécédents cardiovasculaires:<br>- Douleurs thoraciques<br>- Fatigue, pâleur, sueurs<br>- Nausées, anxiété<br>- Dyspnée<br>- Palpitations"] -- Urgent --> clinique("<b>Clinique</b><br>—<br>Évaluation rapide:<br>- PA aux 2 bras, FC<br>- SpO2<br>- Examen cardio-respiratoire<br>- Examen abdominal<br>- Si disponible: ECG") --> SAMU("Appel du 15<br>pour régulation<br>et orientation hospitalière") -- SCA confirmé --> postIDM("<b>Post-infarctus</b><br>—<br>- Réhabilitation cardiaque<br>- Arrêt tabac, alcool<br>- Aspirine 75/100 +<br>prasugrel/ticagrelor<br>min 12 mois puis seule<br>- Atorvastatine pour LDL &lt; 0,55<br>- PA &lt; 130/80 mmHg<br>- Si ischémie: voir SCC<br>- Activité physique, lutte surpoids<br>- Régime méditerranéen<br>- Vaccin grippe<br>- ALD 5") --> bilan("<b>Bilan complémentaire</b><br>—<br>- Polygraphie ventilatoire<br>- Échodopplers TSA, AAA et<br>membre inférieurs<br>- Dysfonction érectile<br>- Dépression/anxiété")
+    SAMU --> autre(Autre diagnostic)
+  style syndrome stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%collapse "Outils de formation gratuits" %}}
@@ -234,6 +278,7 @@ Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ec
 
 ### Bibliographie en attente
 
+- [Thygesen K et al; ESC Scientific Document Group. Fourth universal definition of myocardial infarction (2018). Eur Heart J. 2019.](https://academic.oup.com/eurheartj/article/40/3/237/5079081)
 - SFMU
 - Prescrire
 - Cochrane
@@ -261,5 +306,13 @@ Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ec
 {{< traitements/iec >}}
 
 {{% /modal %}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
 
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–
+{{< scores/phq4 >}}
+
+{{% /modal %}}
+{{% modal title="Objectifs glycémiques selon SFD 2023" id="modal-hba1c"%}}
+
+{{< clinique/objectifs-hba1c >}}
+
+{{% /modal %}}

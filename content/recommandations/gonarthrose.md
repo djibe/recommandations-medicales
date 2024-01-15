@@ -306,6 +306,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Moseng T et al. EULAR recommendations for the non-pharmacological core management of hip and knee osteoarthritis: 2023 update. Ann Rheum Dis. 2024.](https://ard.bmj.com/content/early/2024/01/11/ard-2023-225041.long)
 - [Duong V et al. Evaluation and Treatment of Knee Pain: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811009)
 - [Hannon CP et al. 2023 American College of Rheumatology and American Association of Hip and Knee Surgeons Clinical Practice Guideline for the Optimal Timing of Elective Hip or Knee Arthroplasty for Patients With Symptomatic Moderate-to-Severe Osteoarthritis or Advanced Symptomatic Osteonecrosis With Secondary Arthritis for Whom Nonoperative Therapy Is Ineffective. Arthritis Care Res (Hoboken). 2023.](https://rheumatology.org/indications-for-total-hip-and-knee-arthroplasty-guideline)
 

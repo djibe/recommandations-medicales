@@ -1,7 +1,6 @@
 +++
-title = "Cancer du rein de l'adulte"
+title = "Cancer du rein"
 prefix = "le "
-titleSeo = "Cancer du rein"
 description = "Recommandations pour le diagnostic et la prise en charge du cancer du rein. Bilan rénal et scanner abdominal. Urologue pour RCP et chirurgie de néphrectomie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -21,6 +20,8 @@ flowchart = true
 +++
 
 {{%article-summary%}}
+
+Ces recommandations concernent uniquement le cancer du rein de l'adulte:
 
 - Le cancer du rein est le plus souvent de découverte fortuite chez un homme d'âge moyen
 - Les facteurs de risque de cancer du rein sont la dialyse prolongée, l'obésité et le tabagisme

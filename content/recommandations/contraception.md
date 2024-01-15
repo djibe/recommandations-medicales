@@ -125,7 +125,7 @@ Seuls les COP contenant ≥ 50 µg d'EE sont associées au risque d'accident art
 ### Contre-indications formelles aux œstrogènes
 
 - Antécédent familial au 1<sup>er</sup> degré
-  - Infarctus du myocarde ou AVC chez homme -55 ans ou femme -65 ans
+  - [Infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) ou AVC chez homme -55 ans ou femme -65 ans
   - MVTE (TVP, EP) avant 50 ans  
     Ou nombre élevé d'apparentés quelque soit le degré.
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})

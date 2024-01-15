@@ -404,7 +404,7 @@ La prise en charge de l'hypertension est toujours associée aux mesures hygiéno
 - Titration jusqu'à la dose maximale tolérée (diastolique minimale: 70 mmHg)
 - Aucune différence entre une prise le matin ou le soir (*étude TIME*) mais **observance meilleure le matin** (*ESH 2023*)
 - Pas d'arrêt du traitement sur le seul critère d'âge
-- Les bêtabloquants sont privilégiés en cas de maladie cardiovasculaire ([insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [angor]({{< relref "syndrome-coronarien-chronique.md" >}}), infarctus, [FA]({{< relref "fibrillation-atriale.md" >}})) ou grossesse  
+- Les bêtabloquants sont privilégiés en cas de maladie cardiovasculaire ([insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [angor]({{< relref "syndrome-coronarien-chronique.md" >}}), [infarctus]({{< relref "syndrome-coronarien-aigu.md" >}}), [FA]({{< relref "fibrillation-atriale.md" >}})) ou grossesse  
 - Suivi 1-2/mois jusqu'à la cible (*ESH 2023*) puis contrôle à 3-6 mois la première année
 - Suivi au long cours: 1-2/an si équilibrée (*ESH 2023*)
 - Intérêt de l'éducation thérapeutique pour maximiser l'observance

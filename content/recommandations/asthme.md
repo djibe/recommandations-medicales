@@ -43,6 +43,8 @@ flowchart = true
 
 Pour la pratique: [modèle de PAI de l'asthme](https://eduscol.education.fr/document/7751/download) (PDF) et [annuaire des Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/).
 
+Chapitres liés: [corticoïdes inhalés]({{< relref "corticoides-inhales.md" >}}), [rhinite allergique]({{< relref "rhinite-allergique.md" >}}), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
+
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 

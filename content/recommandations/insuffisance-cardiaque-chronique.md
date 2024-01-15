@@ -173,7 +173,7 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
 - Facteurs de risque cardiovasculaire
 - Antécédents  
   - Cardiovasculaires  
-    [Hypertension]({{< relref "hypertension-arterielle.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}), [angor]({{< relref "syndrome-coronarien-chronique.md" >}}), syndrome coronarien/infarctus, [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}), myocardite/péricardite, valvulopathie, trouble du rythme.
+    [Hypertension]({{< relref "hypertension-arterielle.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}), [angor]({{< relref "syndrome-coronarien-chronique.md" >}}), [syndrome coronarien aigu/infarctus]({{< relref "syndrome-coronarien-aigu.md" >}}), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}), myocardite/péricardite, valvulopathie, trouble du rythme.
   - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
   - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (20%)  
     {{< modal-btn modal-depistage-bpco >}}Faut-il faire une spirométrie ?{{< /modal-btn >}}

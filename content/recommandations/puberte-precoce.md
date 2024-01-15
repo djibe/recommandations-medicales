@@ -148,8 +148,8 @@ Interrogatoire à mener en cas de puberté précoce:
   </div>
   <div class="form-group">
     <p class="typography-overline text-black-secondary">Taille cible (cm)</p>
-    <output class="form-control text-black-secondary" id="">Fille: <span id="height-female">Compléter les mesures</span></output>
-    <output class="form-control text-black-secondary" id="">Garçon: <span id="height-male">Compléter les mesures</span></output>
+    <output class="form-control text-black-secondary">Fille: <span id="height-female">Compléter les mesures</span></output>
+    <output class="form-control text-black-secondary">Garçon: <span id="height-male">Compléter les mesures</span></output>
   </div>
 </div>
 <script>

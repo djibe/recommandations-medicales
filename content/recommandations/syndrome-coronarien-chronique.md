@@ -202,9 +202,6 @@ L'électrocardiogramme 12 dérivations est systématique.
 {{% /collapse %}}
 {{%collapse "Traitement du syndrome coronarien chronique" %}}
 
-> L'arrêt du tabac est la mesure la plus efficace avec une réduction de la mortalité de 36 % après un infarctus du myocarde
-{.alert .alert-warning}
-
 Réévaluation du traitement à chaque consultation:
 
 - Le patient est à {{< modal-btn modal-rcv >}}haut voire très haut risque cardiovasculaire en cas de sténose à l'imagerie ou d'événement CV{{< /modal-btn >}}
@@ -229,7 +226,7 @@ Réévaluation du traitement à chaque consultation:
   - Sédentarité < 7h/j, bouger 1 minute/h
 - Si diabète de type 2: {{< modal-btn modal-hba1c >}}HbA1c cible ~ 7%{{< /modal-btn >}}, suivi diabétologique, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} ou {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}} selon le profil
 
-### Prise en charge du syndrome coronarien chronique
+### Mesures de prise en charge du syndrome coronarien chronique
 
 Mesures spécifiques pour la prise en charge de la cardiopathie ischémique stable:
 
