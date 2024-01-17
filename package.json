@@ -51,14 +51,14 @@
     "cli-real-favicon": "^0.0.8",
     "cross-env": "^7.0.3",
     "hint": "^7.1.10",
-    "html-validate": "^8.9.0",
+    "html-validate": "^8.9.1",
     "hugo-extended": "^0.121.2",
-    "linkinator": "^6.0.3",
+    "linkinator": "^6.0.4",
     "node-sass": "6.0.1",
     "vnu-jar": "^23.4.11"
   },
   "dependencies": {
-    "autoprefixer": "^10.4.16",
+    "autoprefixer": "^10.4.17",
     "postcss": "^8.4.3",
     "postcss-cli": "^10.1.0"
   },
