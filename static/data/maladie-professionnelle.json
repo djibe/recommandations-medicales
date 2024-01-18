@@ -1,0 +1,2119 @@
+{
+"data": [
+ {
+   "TABLEAU_MP": "057A",
+   "LIBELLE": "A- Tendinopathie chronique non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs objectivée par IRM droite",
+   "EXAMEN": "IRM de l'épaule, arthroscanner en cas de contre indication"
+ },
+ {
+   "TABLEAU_MP": "057A",
+   "LIBELLE": "A- Tendinopathie chronique non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs objectivée par IRM gauche",
+   "EXAMEN": "IRM de l'épaule, arthroscanner en cas de contre indication"
+ },
+ {
+   "TABLEAU_MP": "057A",
+   "LIBELLE": "A- Rupture partielle ou transfixiante de la coiffe des rotateurs objectivée par IRM droite",
+   "EXAMEN": "IRM de l'épaule, arthroscanner en cas de contre indication"
+ },
+ {
+   "TABLEAU_MP": "057A",
+   "LIBELLE": "A- Rupture partielle ou transfixiante de la coiffe des rotateurs objectivée par IRM gauche",
+   "EXAMEN": "IRM de l'épaule, arthroscanner en cas de contre indication"
+ },
+ {
+   "TABLEAU_MP": "057A",
+   "LIBELLE": "A- Tendinopathie aiguë non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs droite",
+   "EXAMEN": "Radiographie épaule"
+ },
+ {
+   "TABLEAU_MP": "057A",
+   "LIBELLE": "A- Tendinopathie aiguë non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs gauche",
+   "EXAMEN": "Radiographie épaule"
+ },
+ {
+   "TABLEAU_MP": "057B",
+   "LIBELLE": "B - Syndrome canalaire du nerf ulnaire dans la gouttière épitrochléo-olécrânienne confirmé par électroneuromyographie (EMG). droit",
+   "EXAMEN": "Électroneuromyogramme (EMG)"
+ },
+ {
+   "TABLEAU_MP": "057B",
+   "LIBELLE": "B - Syndrome canalaire du nerf ulnaire dans la gouttière épitrochléo-olécrânienne confirmé par électroneuromyographie (EMG). gauche",
+   "EXAMEN": "Électroneuromyogramme (EMG)"
+ },
+ {
+   "TABLEAU_MP": "069A",
+   "LIBELLE": "A- Affections ostéo-articulaires confirmées par des examens radiologiques : Arthrose du coude droit",
+   "EXAMEN": "Radiographie coude"
+ },
+ {
+   "TABLEAU_MP": "069A",
+   "LIBELLE": "A- Affections ostéo-articulaires confirmées par des examens radiologiques :Arthrose du coude gauche",
+   "EXAMEN": "Radiographie coude"
+ },
+ {
+   "TABLEAU_MP": "069B",
+   "LIBELLE": "B- Affections ostéo-articulaires confirmées par des examens radiologiques : Arthrose du coude droit",
+   "EXAMEN": "Radiographie coude"
+ },
+ {
+   "TABLEAU_MP": "069B",
+   "LIBELLE": "B Affections ostéo-articulaires confirmées par des examens radiologiques :Arthrose du coude gauche",
+   "EXAMEN": "Radiographie coude"
+ },
+ {
+   "TABLEAU_MP": "069A",
+   "LIBELLE": "A- Troubles angioneurotiques de la main,prédominant à l'index et au médius, pouvant s'accompagner de crampes de la main et de troubles prolongés de la sensibilité et confirmés par des épreuves fonctionnelles objectivant le phénomène de Raynaud- droit",
+   "EXAMEN": "Examen spécialisé"
+ },
+ {
+   "TABLEAU_MP": "069A",
+   "LIBELLE": "A- Troubles angioneurotiques de la main,prédominant à l'index et au médius, pouvant s'accompagner de crampes de la main et de troubles prolongés de la sensibilité et confirmés par des épreuves fonctionnelles objectivant le phénomène de Raynaud- gauche",
+   "EXAMEN": "Examen spécialisé"
+ },
+ {
+   "TABLEAU_MP": "069A",
+   "LIBELLE": "A- Affections ostéo-articulaires confirmées par des examens radiologiques : Ostéonécrose du semi-lunaire (maladie de Kienböck) droite",
+   "EXAMEN": "Radiographie poignet"
+ },
+ {
+   "TABLEAU_MP": "069A",
+   "LIBELLE": "A- Affections ostéo-articulaires confirmées par des examens radiologiques : Ostéonécrose du semi-lunaire (maladie de Kienböck) gauche",
+   "EXAMEN": "Radiographie poignet"
+ },
+ {
+   "TABLEAU_MP": "069A",
+   "LIBELLE": "A- Affections ostéo-articulaires confirmées par des examens radiologiques : Ostéonécrose du scaphoïde carpien (maladie de Köhler) droit",
+   "EXAMEN": "Radiographie poignet"
+ },
+ {
+   "TABLEAU_MP": "069A",
+   "LIBELLE": "A- Affections ostéo-articulaires confirmées par des examens radiologiques : Ostéonécrose du scaphoïde carpien (maladie de Köhler) gauche",
+   "EXAMEN": "Radiographie poignet"
+ },
+ {
+   "TABLEAU_MP": "069B",
+   "LIBELLE": "B- Affections ostéo-articulaires confirmées par des examens radiologiques : Ostéonécrose du semi-lunaire (maladie de Kienböck) droit",
+   "EXAMEN": "Radiographie poignet"
+ },
+ {
+   "TABLEAU_MP": "069B",
+   "LIBELLE": "B- Affections ostéo-articulaires confirmées par des examens radiologiques : Ostéonécrose du semi-lunaire (maladie de Kienböck) gauche",
+   "EXAMEN": "Radiographie poignet"
+ },
+ {
+   "TABLEAU_MP": "069B",
+   "LIBELLE": "B- Affections ostéo-articulaires confirmées par des examens radiologiques : Ostéonécrose du scaphoïde carpien (maladie de Köhler) droit",
+   "EXAMEN": "Radiographie poignet"
+ },
+ {
+   "TABLEAU_MP": "069B",
+   "LIBELLE": "B- Affections ostéo-articulaires confirmées par des examens radiologiques : Ostéonécrose du scaphoïde carpien (maladie de Köhler) gauche",
+   "EXAMEN": "Radiographie poignet"
+ },
+ {
+   "TABLEAU_MP": "069C",
+   "LIBELLE": "C- Atteinte vasculaire cubito-palmaire en règle unilatérale (syndrome du marteau hypothénar)entraînant un phénomène de Raynaud ou des manifestations ischémiques des doigts confirmée par l'artériographie objectivant un anévrisme ou une thrombose de l'artère cubitale ou de l'arcade palmaire superficielle droite",
+   "EXAMEN": "Examen spécialisé"
+ },
+ {
+   "TABLEAU_MP": "069C",
+   "LIBELLE": "C- Atteinte vasculaire cubito-palmaire en règle unilatérale (syndrome du marteau hypothénar)entraînant un phénomène de Raynaud ou des manifestations ischémiques des doigts confirmée par l'artériographie objectivant un anévrisme ou une thrombose de l'artère cubitale ou de l'arcade palmaire superficielle gauche",
+   "EXAMEN": "Examen spécialisé"
+ },
+ {
+   "TABLEAU_MP": "097A",
+   "LIBELLE": "Sciatique par hernie discale L4-L5 avec atteinte radiculaire de topographie concordante.",
+   "EXAMEN": "Examens spécialisés (imagerie lombaire ou CRO)"
+ },
+ {
+   "TABLEAU_MP": "097A",
+   "LIBELLE": "Sciatique par hernie discale L5-S1 avec atteinte radiculaire de topographie concordante.",
+   "EXAMEN": "Examens spécialisés (imagerie lombaire ou CRO)"
+ },
+ {
+   "TABLEAU_MP": "097A",
+   "LIBELLE": "Radiculalgie crurale par hernie discale L2- L3 avec atteinte radiculaire de topographie concordante.",
+   "EXAMEN": "Examens spécialisés (imagerie lombaire ou CRO)"
+ },
+ {
+   "TABLEAU_MP": "097A",
+   "LIBELLE": "Radiculalgie crurale par hernie discale L3-L4 avec atteinte radiculaire de topographie concordante.",
+   "EXAMEN": "Examens spécialisés (imagerie lombaire ou CRO)"
+ },
+ {
+   "TABLEAU_MP": "097A",
+   "LIBELLE": "Radiculalgie crurale par hernie discale L4-L5, avec atteinte radiculaire de topographie concordante.",
+   "EXAMEN": "Examens spécialisés (imagerie lombaire ou CRO)"
+ },
+ {
+   "TABLEAU_MP": "098A",
+   "LIBELLE": "Sciatique par hernie discale L4-L5 avec atteinte radiculaire de topographie concordante.",
+   "EXAMEN": "Examens spécialisés (imagerie lombaire ou CRO)"
+ },
+ {
+   "TABLEAU_MP": "098A",
+   "LIBELLE": "Sciatique par hernie discale L5-S1 avec atteinte radiculaire de topographie concordante.",
+   "EXAMEN": "Examens spécialisés (imagerie lombaire ou CRO)"
+ },
+ {
+   "TABLEAU_MP": "098A",
+   "LIBELLE": "Radiculalgie crurale par hernie discale L2-L3 avec atteinte radiculaire de topographie concordante.",
+   "EXAMEN": "Examens spécialisés (imagerie lombaire ou CRO)"
+ },
+ {
+   "TABLEAU_MP": "098A",
+   "LIBELLE": "Radiculalgie crurale par hernie discale L3-L4,avec atteinte radiculaire de topographie concordante.",
+   "EXAMEN": "Examens spécialisés (imagerie lombaire ou CRO)"
+ },
+ {
+   "TABLEAU_MP": "098A",
+   "LIBELLE": "Radiculalgie crurale par hernie discale L4-L5, avec atteinte radiculaire de topographie concordante.",
+   "EXAMEN": "Examens spécialisés (imagerie lombaire ou CRO)"
+ },
+ {
+   "TABLEAU_MP": "057D",
+   "LIBELLE": "D- Compression du nerf sciatique poplité externe (SPE) (nerf fibulaire commun) (droit) au col du péroné (fibula) objectivée par ENMG.",
+   "EXAMEN": "Électroneuromyogramme (EMG)"
+ },
+ {
+   "TABLEAU_MP": "057D",
+   "LIBELLE": "D- Compression du nerf sciatique poplité externe (SPE) (nerf fibulaire commun)(gauche) au col du péroné (fibula) objectivée par ENMG.",
+   "EXAMEN": "Électroneuromyogramme (EMG)"
+ },
+ {
+   "TABLEAU_MP": "057D",
+   "LIBELLE": "D- Tendinopathie sous quadricipitale (droite)objectivée par échographie",
+   "EXAMEN": "Échographie du genou"
+ },
+ {
+   "TABLEAU_MP": "057D",
+   "LIBELLE": "Tendinopathie sous quadricipitale (gauche)objectivée par échographie",
+   "EXAMEN": "Échographie du genou"
+ },
+ {
+   "TABLEAU_MP": "057D",
+   "LIBELLE": "D- Tendinopathie quadricipitale (droite)objectivée par échographie",
+   "EXAMEN": "Échographie du genou"
+ },
+ {
+   "TABLEAU_MP": "057D",
+   "LIBELLE": "D- Tendinopathie quadricipitale (gauche)objectivée par échographie",
+   "EXAMEN": "Échographie du genou"
+ },
+ {
+   "TABLEAU_MP": "057D",
+   "LIBELLE": "D- Tendinopathie de la patte d’oie (gauche)objectivée par échographie.",
+   "EXAMEN": "Échographie du genou"
+ },
+ {
+   "TABLEAU_MP": "057D",
+   "LIBELLE": "D- Tendinopathie de la patte d’oie (droite)objectivée par échographie.",
+   "EXAMEN": "Échographie du genou"
+ },
+ {
+   "TABLEAU_MP": "057D",
+   "LIBELLE": "D- Genou syndrome de la bandelette ilio-tibiale droite objectivée par échographie",
+   "EXAMEN": "Échographie du genou"
+ },
+ {
+   "TABLEAU_MP": "057D",
+   "LIBELLE": "D- Genou syndrome de la bandelette ilio-tibiale gauche objectivée par échographie",
+   "EXAMEN": "Échographie du genou"
+ },
+ {
+   "TABLEAU_MP": "079A",
+   "LIBELLE": "Lésions chroniques à caractère dégénératif du ménisque isolées ou associées à des lésions du cartilage articulaire, confirmées par IRM (*)ou au cours d'une intervention chirurgicale.- Droit- (*) L'arthroscanner le cas échéant",
+   "EXAMEN": "IRM du genou ou Compte rendu Opératoire (CRO)"
+ },
+ {
+   "TABLEAU_MP": "079A",
+   "LIBELLE": "Lésions chroniques à caractère dégénératif du ménisque isolées ou associées à des lésions du cartilage articulaire, confirmées par IRM (*)ou au cours d'une intervention chirurgicale.- Gauche- (*) L'arthroscanner le cas échéant",
+   "EXAMEN": "IRM du genou ou Compte rendu Opératoire (CRO)"
+ },
+ {
+   "TABLEAU_MP": "057E",
+   "LIBELLE": "Tendinopathie d’Achille (droite) objectivée par échographie* (*) L’IRM le cas échéant",
+   "EXAMEN": "Examen spécialisé Échographie du tendon concerné ou IRM"
+ },
+ {
+   "TABLEAU_MP": "057E",
+   "LIBELLE": "Tendinopathie d’Achille (gauche) objectivée par échographie* (*) L’IRM le cas échéant",
+   "EXAMEN": "Examen spécialisé Échographie du tendon concerné ou IRM"
+ },
+ {
+   "TABLEAU_MP": "016B",
+   "LIBELLE": "Epithélioma primitif de la peau",
+   "EXAMEN": "Examens spécialisés (dermatologie, oncologie,anatomopathologie…)"
+ },
+ {
+   "TABLEAU_MP": "020A",
+   "LIBELLE": "§§D. Affections cancéreuses : Epithélioma cutané primitif",
+   "EXAMEN": "Examens spécialisés (dermatologie, oncologie,anatomopathologie…)"
+ },
+ {
+   "TABLEAU_MP": "036B",
+   "LIBELLE": "Epithélioma primitif de la peau",
+   "EXAMEN": "Examens spécialisés (dermatologie, oncologie,anatomopathologie…)"
+ },
+ {
+   "TABLEAU_MP": "020A",
+   "LIBELLE": "§§D. Affections cancéreuses : Dyskératose lenticulaire en disque (maladie de Bowen)",
+   "EXAMEN": "Examens spécialisés (dermatologie, oncologie,anatomopathologie…)"
+ },
+ {
+   "TABLEAU_MP": "043B",
+   "LIBELLE": "Carcinome du nasopharynx",
+   "EXAMEN": "Examens spécialisés (ORL, oncologie, anatomopathologie)"
+ },
+ {
+   "TABLEAU_MP": "010T",
+   "LIBELLE": "Cancer des cavités nasales",
+   "EXAMEN": "Examens spécialisés (ORL, oncologie, anatomopathologie)"
+ },
+ {
+   "TABLEAU_MP": "047A",
+   "LIBELLE": "Carcinome des fosses nasales",
+   "EXAMEN": "Examens spécialisés (ORL, oncologie, anatomopathologie)"
+ },
+ {
+   "TABLEAU_MP": "037T",
+   "LIBELLE": "Cancer primitif de l'ethmoïde et des sinus de la face",
+   "EXAMEN": "Examens spécialisés (ORL, oncologie, anatomopathologie)"
+ },
+ {
+   "TABLEAU_MP": "047A",
+   "LIBELLE": "Cancer primitif de l'ethmoïde et des sinus de la face",
+   "EXAMEN": "Examens spécialisés (ORL, oncologie, anatomopathologie)"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "A2.- Silicose chronique : Manifestation pathologique associée à des signes radiologiques ou des lésions de nature silicotique : - cancer broncho-pulmonaire primitif",
+   "EXAMEN": "Examens spécialisés (Radiographies pulmonaires, TDM, anatomopathologie)"
+ },
+ {
+   "TABLEAU_MP": "006A",
+   "LIBELLE": "Cancer broncho-pulmonaire primitif par inhalation",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie )"
+ },
+ {
+   "TABLEAU_MP": "010T",
+   "LIBELLE": "Cancer broncho-pulmonaire primitif",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie )"
+ },
+ {
+   "TABLEAU_MP": "016B",
+   "LIBELLE": "Cancer broncho-pulmonaire primitif",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie )"
+ },
+ {
+   "TABLEAU_MP": "020B",
+   "LIBELLE": "Cancer bronchique primitif",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie )"
+ },
+ {
+   "TABLEAU_MP": "020T",
+   "LIBELLE": "Cancer bronchique primitif",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "030A",
+   "LIBELLE": "Dégénérescence maligne broncho-pulmonaire compliquant des lésions parenchymateuses et pleurales bénignes.",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie )"
+ },
+ {
+   "TABLEAU_MP": "030B",
+   "LIBELLE": "Cancer broncho-pulmonaire primitif",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie )"
+ },
+ {
+   "TABLEAU_MP": "037T",
+   "LIBELLE": "Cancer bronchique primitif",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie )"
+ },
+ {
+   "TABLEAU_MP": "044B",
+   "LIBELLE": "Cancer broncho-pulmonaire primitif",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie )"
+ },
+ {
+   "TABLEAU_MP": "061B",
+   "LIBELLE": "Cancer broncho-pulmonaire primitif",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie)"
+ },
+ {
+   "TABLEAU_MP": "070T",
+   "LIBELLE": "Cancer broncho-pulmonaire primitif",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie)"
+ },
+ {
+   "TABLEAU_MP": "081A",
+   "LIBELLE": "Cancer bronchique primitif",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie )"
+ },
+ {
+   "TABLEAU_MP": "030A",
+   "LIBELLE": "Autres tumeurs pleurales primitives",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie )"
+ },
+ {
+   "TABLEAU_MP": "030A",
+   "LIBELLE": "Mésothéliome malin primitif de la plèvre",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie )"
+ },
+ {
+   "TABLEAU_MP": "016B",
+   "LIBELLE": "C. Tumeur primitive de l'épithélium urinaire (vessie, voies excrétrices supérieures) confirmée par examen histopathologique ou cytopathologique.",
+   "EXAMEN": "Examens spécialisés (examen histopathologique , ou cytopathologique)"
+ },
+ {
+   "TABLEAU_MP": "101A",
+   "LIBELLE": "Cancer du rein primitif",
+   "EXAMEN": "Tout examen spécialisé confirmant le cancer primitif du rein."
+ },
+ {
+   "TABLEAU_MP": "102A",
+   "LIBELLE": "Cancer de la prostate",
+   "EXAMEN": "Tout examen histologique ou d’imagerie confirmant le cancer de prostate."
+ },
+ {
+   "TABLEAU_MP": "015T",
+   "LIBELLE": "Tumeur primitive de l'épithélium urinaire (vessie,voies excrétrices supérieures) confirmée par examen histopathologique ou cytopathologique",
+   "EXAMEN": "Examens spécialisés (examen histopathologique ou cytopathologique)"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "B - Hépatites virales transmises par le sang, ses dérivés et tout autre liquide biologique ou tissu humains a) Hépatites à virus B (en dehors des cas qui auraient été pris en charge au titre d'un accident du travail) : Carcinome hépato-cellulaire post hépatite à virus B",
+   "EXAMEN": "Examens spécialisés (Examens biochimiques et  marqueurs du virus)"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "B - Hépatites virales transmises par le sang, ses dérivés et tout autre liquide biologique ou tissu humains c) Hépatites à virus C (en dehors des cas qui auraient été pris en charge au titre d'un accident du travail) : Carcinome hépato-cellulaire post hépatite à virus C",
+   "EXAMEN": "Examens spécialisés (Examens biochimiques et  marqueurs du virus)"
+ },
+ {
+   "TABLEAU_MP": "052B",
+   "LIBELLE": "Carcinome hépatocellulaire histologiquement confirmé et associé à au moins deux des lésions suivantes du foie non tumoral : - fibrose porte et pénicillée péri porte ou nodule(s) fibrohyalin(s) capsulaire(s) ;- congestion sinusoïdale ; - hyperplasie ou dysplasie endothéliale ; - nodule(s) d'hyperplasie hépatocytaire ; - foyer(s) de dysplasie hépatocytaire.",
+   "EXAMEN": "Examens spécialisés Examenan atomopathologique"
+ },
+ {
+   "TABLEAU_MP": "020A",
+   "LIBELLE": "D. Affections cancéreuses : Angiosarcome du foie",
+   "EXAMEN": "Examens spécialisés (Gastoenterologie, oncologie, anatomopathologie..)"
+ },
+ {
+   "TABLEAU_MP": "085A",
+   "LIBELLE": "Glioblastome",
+   "EXAMEN": "Examens spécialisés (neurologie,neurochirurgie, oncologie, anatomopathologie)"
+ },
+ {
+   "TABLEAU_MP": "030A",
+   "LIBELLE": "Mésothéliome malin primitif du péritoine",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie)"
+ },
+ {
+   "TABLEAU_MP": "030A",
+   "LIBELLE": "Mésothéliome malin primitif du péricarde",
+   "EXAMEN": "Examens spécialisés (oncologie, anatomopathologie)"
+ },
+ {
+   "TABLEAU_MP": "052A",
+   "LIBELLE": "Angiosarcome",
+   "EXAMEN": "Examens spécialisés (Gastroentérologie, oncologie, anatomopathologie..)"
+ },
+ {
+   "TABLEAU_MP": "004A",
+   "LIBELLE": "Leucémie aiguë lymphoblastique à l'exclusion des leucémies aiguës avec des antécédents d'hémopathies.",
+   "EXAMEN": "Examens spécialisés (hématologie, oncologie…)"
+ },
+ {
+   "TABLEAU_MP": "004A",
+   "LIBELLE": "Leucémies aiguës myéloblastiques l'exclusion des leucémies aiguës avec des antécédents d'hémopathies.",
+   "EXAMEN": "Examens spécialisés (hématologue, oncologue…)"
+ },
+ {
+   "TABLEAU_MP": "099A",
+   "LIBELLE": "Leucémie myéloïde chronique",
+   "EXAMEN": "Examens spécialisés (hémato-oncologie …)"
+ },
+ {
+   "TABLEAU_MP": "006A",
+   "LIBELLE": "Leucémies",
+   "EXAMEN": "Examens spécialisés (hématologue,oncologue…)"
+ },
+ {
+   "TABLEAU_MP": "006A",
+   "LIBELLE": "Sarcome osseux",
+   "EXAMEN": "Examens spécialisés (oncologie…)"
+ },
+ {
+   "TABLEAU_MP": "001A",
+   "LIBELLE": "Anémie",
+   "EXAMEN": "Résultats biologiques suivants: taux d’hémoglobine sanguine, ferritinémie + 2 plombémies ou 1 plombémie et 1 concentration érythrocytaire de protoporphyrine zinc"
+ },
+ {
+   "TABLEAU_MP": "001A",
+   "LIBELLE": "Syndrome douloureux abdominal",
+   "EXAMEN": "Résultats biologiques suivants: 2 plombémies ou 1 plombémie et 1 concentration érythrocytaire de protoporphyrine zinc"
+ },
+ {
+   "TABLEAU_MP": "001A",
+   "LIBELLE": "Néphropathie tubulaire proximale subaiguë",
+   "EXAMEN": "Résultats biologiques suivants: 2 marqueurs urinaires + 2 plombémies ou 1 plombémie et 1 concentration érythrocytaire de protoporphyrine zinc"
+ },
+ {
+   "TABLEAU_MP": "001A",
+   "LIBELLE": "Néphropathie glomérulaire et tubulo-interstitielle tardive",
+   "EXAMEN": "Résultats biologiques suivants: albuminurie + 2plombémies"
+ },
+ {
+   "TABLEAU_MP": "001A",
+   "LIBELLE": "Encéphalopathie chronique",
+   "EXAMEN": "Examen neurologique : 2 tests psychométriques et 2 plombémies"
+ },
+ {
+   "TABLEAU_MP": "001A",
+   "LIBELLE": "Neuropathie périphérique",
+   "EXAMEN": "Examen electrophysiologique et 2 plombémies ou 1plombémie et 1 concentration érythrocytaire de protoporphyrine zinc"
+ },
+ {
+   "TABLEAU_MP": "001A",
+   "LIBELLE": "Encéphalopathie aiguë",
+   "EXAMEN": "Résultat biologique plombémie"
+ },
+ {
+   "TABLEAU_MP": "001A",
+   "LIBELLE": "Syndrome biologique",
+   "EXAMEN": "Résultats biologiques suivants: 2 plombémies  et 2concentrations érythrocytaires de protoporphyrine zinc"
+ },
+ {
+   "TABLEAU_MP": "010B",
+   "LIBELLE": "Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.",
+   "EXAMEN": "Épreuve Fonctionnelle Respiratoire (EFR)°"
+ },
+ {
+   "TABLEAU_MP": "012A",
+   "LIBELLE": "neuropathies trigéminales, confirmées par des examens électrophysiologiques.",
+   "EXAMEN": "Examen electrophysiologique"
+ },
+ {
+   "TABLEAU_MP": "012A",
+   "LIBELLE": "Polyneuropathies (après exclusion de la polyneuropathie alcoolique) confirmées par des examens électrophysiologiques.",
+   "EXAMEN": "Examen electrophysiologique"
+ },
+ {
+   "TABLEAU_MP": "012A",
+   "LIBELLE": "Neuropathies optiques rétrobulbaires bilatérales confirmées par des examens complémentaires, après exclusion de la neuropathie alcoolique.",
+   "EXAMEN": "Examens Spécialisés"
+ },
+ {
+   "TABLEAU_MP": "012A",
+   "LIBELLE": "Manifestations d’intoxication oxycarbonée résultant du métabolisme du dichlorométhane, avec une oxycarbonémie supérieure à 15 ml /litre de sang, ou une carboxyhémoglobine supérieure à 10 %.",
+   "EXAMEN": "Oxycarbonémie ou carboxyhémoglobinémie"
+ },
+ {
+   "TABLEAU_MP": "014A",
+   "LIBELLE": "C. Manifestations digestives (douleurs abdominales, vomissements, diarrhées) associées à la présence du toxique ou de ses métabolites dans le sang ou les urines.",
+   "EXAMEN": "Bilan sanguin ou urinaire"
+ },
+ {
+   "TABLEAU_MP": "015A",
+   "LIBELLE": "Hémoglobinurie avec hémolyse et méthémoglobinémie",
+   "EXAMEN": "Bilans biologique"
+ },
+ {
+   "TABLEAU_MP": "015B",
+   "LIBELLE": "Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "019A",
+   "LIBELLE": "Toute manifestation clinique de leptospirose provoquée par Leptospira interrogans. La maladie doit être confirmée par identification du germe ou à l'aide d'un sérodiagnostic d'agglutination, à un taux considéré comme significatif.",
+   "EXAMEN": "Identification du germe ou sérodiagnostic d'agglutination"
+ },
+ {
+   "TABLEAU_MP": "019A",
+   "LIBELLE": "2. Manifestations secondaires. Méningite lymphocytaire, parfois isolée ou associée à :- douleurs radiculaires ; - troubles de la sensibilité; - atteinte des nerfs périphériques et crâniens (syndrome de Garin-Bujadoux-Bannwarth).",
+   "EXAMEN": "Sérologie"
+ },
+ {
+   "TABLEAU_MP": "019A",
+   "LIBELLE": "3. Manifestations tertiaires :Encéphalomyélite progressive",
+   "EXAMEN": "Sérologie"
+ },
+ {
+   "TABLEAU_MP": "019A",
+   "LIBELLE": "2. Manifestations secondairesPéricardite",
+   "EXAMEN": "Sérologie"
+ },
+ {
+   "TABLEAU_MP": "019A",
+   "LIBELLE": "2. Manifestations secondairesTroubles de la conduction",
+   "EXAMEN": "Sérologie"
+ },
+ {
+   "TABLEAU_MP": "019A",
+   "LIBELLE": "3. Manifestations tertiaires :Dermatite chronique atrophiante",
+   "EXAMEN": "Sérologie"
+ },
+ {
+   "TABLEAU_MP": "019A",
+   "LIBELLE": "2. Manifestations secondaires: Oligoarthrites régressives 3. Manifestations tertiaires : arthrite chronique destructrice",
+   "EXAMEN": "Sérologie"
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose aiguë avec septicémie (fièvre ondulante sudoro-algique, tableau pseudo-grippal, tableau pseudo-typhoïdique)",
+   "EXAMEN": "Isolement du germe, ou résultats combinés de deux réactions sérologiques"
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose chronique : Anémie. purpura.hémorragie. adénopathie",
+   "EXAMEN": "Intradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose subaiguë avec focalisation : Réaction neuro-méningée aiguë Brucellose chronique : réaction méningée.méningite. arachnoïdite chronique",
+   "EXAMEN": "Isolement du germe, ou résultats combinés de deux réactions sérologiquesIntradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose chronique : Méningo-encéphalite.myélite",
+   "EXAMEN": "Intradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose chronique : Névrite radiculaire",
+   "EXAMEN": "Intradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose chronique : Endocardite",
+   "EXAMEN": "Intradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose chronique : Phlébite",
+   "EXAMEN": "Intradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose subaiguë avec focalisation : Bronchite.pneumopathie",
+   "EXAMEN": "Isolement du germe, ou résultats combinés de deux réactions sérologiques"
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose chronique : Bronchite. pneumopathie",
+   "EXAMEN": "Intradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose chronique : Pleurésie sérofibrineuse.pleurésie purulente",
+   "EXAMEN": "Intradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose subaiguë avec focalisation : Formes hépato-spléniques subaiguës",
+   "EXAMEN": "Isolement du germe, ou résultats combinés de deux réactions sérologiques"
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose chronique : Hépatite",
+   "EXAMEN": "Intradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose subaiguë avec focalisation : Monoarthrite aiguë fébrile. Polyarthrite Brucellose chronique : arthrite séreuse. arthrite suppurée. ostéo-arthrite. osteite. spondylodiscite. Sacrocoxite",
+   "EXAMEN": "Intradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose chronique : Néphrite",
+   "EXAMEN": "Intradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose chronique : Prostatite",
+   "EXAMEN": "Intradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose chronique : Orchite. épididymite",
+   "EXAMEN": "Intradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose chronique : Salpingite",
+   "EXAMEN": "Intradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose chronique : Manifestations cutanées d'allergie",
+   "EXAMEN": "Intradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "024A",
+   "LIBELLE": "Brucellose chronique : Asthénie profonde. asthénie profonde associée à un syndrome dépressif",
+   "EXAMEN": "Intradermo-réaction positive à un allergène brucellien avec ou sans réaction sérologique positive."
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de silice cristalline : quartz, cristobalite, tridymite A2.- Silicose chronique : Complication pleuro-pulmonaire : Aspergillose intracavitaire confirmée par la sérologie",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de silice cristalline : quartz, cristobalite, tridymite A2.- Silicose chronique : Complication cardiaque : - Insuffisance ventriculaire droite caractérisée",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de silice cristalline : quartz, cristobalite, tridymite  A1.- Silicose aiguë : pneumoconiose caractérisée par des lésions alvéolo-interstitielles bilatérales mises en évidence par des examens radiographiques ou tomodensitométriques ou par des constatations anatomopathologiques (lipoprotéinose) lorsqu'elles existent ; ces signes ou ces constatations s'accompagnent de troubles fonctionnels respiratoires d'évolution rapide. A2.- Silicose chronique : pneumoconiose caractérisée par des lésions interstitielles micronodulaires ou nodulaires bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomopathologiques lorsqu'elles existent ; ces signes ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires.",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de silice cristalline : quartz, cristobalite, tridymite A2.- Silicose chronique : Complication pleuro-pulmonaire :  - tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulaire, M. kansasii) surajoutée et caractérisée",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de silice cristalline : quartz, cristobalite, tridymite A2.- Silicose chronique :Complication non spécifique : - surinfection ou suppuration bactérienne bronchopulmonaire,subaiguë ou chronique.",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de silice cristalline : quartz, cristobalite, tridymite A2.- Silicose chronique : Complication non spécifique : -Pneumothorax spontané",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de silice cristalline : quartz, cristobalite, tridymite  A2.- Silicose chronique :Complication pleuro-pulmonaire : - nécrose cavitaire aseptique d'une masse pseudo-tumorale ;",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de silice cristalline : quartz, cristobalite, tridymite  A2.- Silicose chronique :Manifestation pathologique associée à des signes radiologiques ou des lésions de nature silicotique : - lésions pleuro-pneumoconiotiques à type rhumatoïde (syndrome de Caplan-Collinet)",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "B Affections dues à l'inhalation de poussières minérales renfermant des silicates cristallins (kaolins, talc) ou du graphite Pneumoconioses caractérisées par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomopathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires : B1 Kaolinose  B2 talcose",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "B Affections dues à l'inhalation de poussières minérales renfermant des silicates cristallins (kaolins, talc) ou du graphite. Pneumoconioses caractérisées par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomopathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires : B3 Graphitose",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de houille : C1.- Pneumoconiose caractérisée par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomo-pathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires.  Complications pleuro-pulmonaires : - aspergillose intracavitaire confirmée par la sérologie",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de houille :  C1.- Pneumoconiose caractérisée par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomo-pathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires. Complications cardiaques : - insuffisance ventriculaire droite caractérisée ;",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de houille :  C1.- Pneumoconiose caractérisée par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomo-pathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires.",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de houille : C1.- Pneumoconiose caractérisée par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomo-pathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires.  Complications pleuro-pulmonaires : - tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulaire, M. kansasii) surajoutée et caractérisée",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de houille :  C1.- Pneumoconiose caractérisée par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomo-pathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires.  Complications non spécifiques : -Suppuration broncho-pulmonaire subaiguë ou chronique",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de houille : C1.- Pneumoconiose caractérisée par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomo-pathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires.  Complications non spécifiques : -Pneumothorax spontané",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de houille :  C1.- Pneumoconiose caractérisée par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomo-pathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires. Complications pleuro-pulmonaires : - nécrose cavitaire aseptique d'une masse \tpseudotumorale ;Nécrose cavitaire aseptique",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de houille : C1.- Pneumoconiose caractérisée par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomo-pathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires. Manifestation pathologique associée : -Lésions pleuro-pneumoconiotiques à type rhumatoïde (syndrome de Caplan Colinet)",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de houille : C2.- Fibrose interstitielle pulmonaire diffuse non régressive, d'apparence primitive. Cette affection doit être confirmée par un examen radiographique ou par tomodensitométrie en coupes millimétriques ou par des constatations anatomopathologiques lorsqu'elles existent. Complications de cette affection : - insuffisance ventriculaire droite caractérisée",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de houille : C2.- Fibrose interstitielle pulmonaire diffuse non régressive, d'apparence primitive. Cette affection doit être confirmée par un examen radiographique ou par tomodensitométrie en coupes millimétriques ou par des constatations anatomopathologiques lorsqu'elles existent. Complications de cette affection : - tuberculose et autre mycobactériose (Mycobacterium xenopi, M. aviumintracellulaire, M. kansasii) surajoutée et caractérisée",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de houille : C2.- Fibrose interstitielle pulmonaire diffuse non régressive, d'apparence primitive. Cette affection doit être confirmée par un examen radiographique ou par tomodensitométrie en coupes millimétriques ou par des constatations anatomopathologiques lorsqu'elles existent.",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de houille : C2.- Fibrose interstitielle pulmonaire diffuse non régressive, d'apparence primitive. Cette affection doit être confirmée par un examen radiographique ou par tomodensitométrie en coupes millimétriques ou par des constatations anatomopathologiques lorsqu'elles existent. Complications de cette affection : - pneumothorax spontané.",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de houille : C2.- Fibrose interstitielle pulmonaire diffuse non régressive, d'apparence primitive. Cette affection doit être confirmée par un examen radiographique ou par tomodensitométrie en coupes millimétriques ou par des constatations anatomopathologiques lorsqu'elles existent. Complications de cette affection : - insuffisance respiratoire chronique caractérisée",
+   "EXAMEN": "Radiographies pulmonaires ou TDM ou anatomopathologie"
+ },
+ {
+   "TABLEAU_MP": "028A",
+   "LIBELLE": "Anémie, confirmée par la présence de plus de 200œufs d'ankylostome par centimètre cube de selles, un nombre de globules rouges égal ou inférieur à 3.500.000 par millimètre cube et un taux d'hémoglobine inférieur à 70 %.",
+   "EXAMEN": "Hémogramme et examen des selles"
+ },
+ {
+   "TABLEAU_MP": "029A",
+   "LIBELLE": "Syndrome vertigineux confirmé par épreuve labyrinthique.",
+   "EXAMEN": "Épreuves labyrinthiques"
+ },
+ {
+   "TABLEAU_MP": "029A",
+   "LIBELLE": "Hypoacousie par lésion cochléaire irréversible,s'accompagnant ou non de troubles labyrinthiqueset ne s'aggravant pas après arrêt d'exposition au risque. Le diagnostic sera confirmé par une audiométrie tonale et vocale effectuée de six mois à un an après la première constatation.",
+   "EXAMEN": "Audiométrie"
+ },
+ {
+   "TABLEAU_MP": "029A",
+   "LIBELLE": "Ostéonécrose avec ou sans atteinte articulaire intéressant l'épaule, la hanche et le genou,confirmée par l'aspect radiologique des lésions.",
+   "EXAMEN": "Radiographie de l'articulation concernée"
+ },
+ {
+   "TABLEAU_MP": "030A",
+   "LIBELLE": "A. Asbestose : fibrose pulmonaire diagnostiquéesur des signes radiologiques spécifiques, qu'il y ait ou non des modifications des explorationsfonctionnelles respiratoires. Complications :  insuffisance ventriculaire droite.",
+   "EXAMEN": "Examen radiologique pulmonaire (habituellement scanner thoracique)"
+ },
+ {
+   "TABLEAU_MP": "030A",
+   "LIBELLE": "A. Asbestose : fibrose pulmonaire diagnostiquéesur des signes radiologiques spécifiques, qu'il y ait ou non des modifications des explorationsfonctionnelles respiratoires.",
+   "EXAMEN": "Examen radiologique pulmonaire (habituellement scanner thoracique)"
+ },
+ {
+   "TABLEAU_MP": "030A",
+   "LIBELLE": "A. Asbestose : fibrose pulmonaire diagnostiquéesur des signes radiologiques spécifiques, qu'il y ait ou non des modifications des explorationsfonctionnelles respiratoires. Complications : insuffisance respiratoire aiguë",
+   "EXAMEN": "Examen radiologique pulmonaire (habituellement scanner thoracique)"
+ },
+ {
+   "TABLEAU_MP": "030A",
+   "LIBELLE": "B. Lésions pleurales bénignes avec ou sansmodifications des explorations fonctionnelles respiratoires : - plaques calcifiées ou non péricardiques oupleurales, unilatérales ou bilatérales, lorsqu'elles sont confirmées par un examentomodensitométrique",
+   "EXAMEN": "Scanner thoracique"
+ },
+ {
+   "TABLEAU_MP": "030A",
+   "LIBELLE": "B. Lésions pleurales bénignes avec ou sansmodifications des explorations fonctionnelles respiratoires : - plaques calcifiées ou non péricardiques oupleurales, unilatérales ou bilatérales, lorsqu'elles sont confirmées par un examentomodensitométrique",
+   "EXAMEN": "scanner thoracique"
+ },
+ {
+   "TABLEAU_MP": "030A",
+   "LIBELLE": "B. Lésions pleurales bénignes avec ou sansmodifications des explorations fonctionnelles respiratoires : - épaississement de la plèvre viscérale, soit diffussoit localisé lorsqu'il est associé à des bandes parenchymateuses ou à une atélectasie parenroulement. Ces anomalies devront être confirmées par un examen tomodensitométrique.",
+   "EXAMEN": "scanner thoracique"
+ },
+ {
+   "TABLEAU_MP": "033A",
+   "LIBELLE": "B. Manifestations générales : Fibrose pulmonaire diffuse avec signes radiologiques, troubles fonctionnels et signes généraux (amaigrissement, fatigue), confirmée par des épreuves fonctionnelles respiratoires, y comprisles complications cardiaques (insuffisanceventriculaire droite) et les complicationspleuropulmonaires secondaires (Pneumothorax spontané).",
+   "EXAMEN": "Examens spécialisés Épreuve fonctionnelle respiratoire EFR"
+ },
+ {
+   "TABLEAU_MP": "034A",
+   "LIBELLE": "A. Troubles digestifs : crampes abdominales, hypersalivation, nausées ou vomissements,diarrhée.",
+   "EXAMEN": "Taux de la cholinestérase sérique et de l'acétylcholinestérase des globules rouges"
+ },
+ {
+   "TABLEAU_MP": "034A",
+   "LIBELLE": "B. Troubles respiratoires : dyspnée asthmatiforme,œdème broncho-alvéolaire.",
+   "EXAMEN": "Taux de la cholinestérase sérique et de l'acétylcholinestérase des globules rouges"
+ },
+ {
+   "TABLEAU_MP": "034A",
+   "LIBELLE": "C. Troubles nerveux : céphalées, vertiges,confusion mentale accompagnée de myosis.",
+   "EXAMEN": "Taux de la cholinestérase sérique et de l'acétylcholinestérase des globules rouges"
+ },
+ {
+   "TABLEAU_MP": "034A",
+   "LIBELLE": "D. Troubles généraux et vasculaires : asthénie,bradycardie et hypotension, amblyopie.",
+   "EXAMEN": "Taux de la cholinestérase sérique et de l'acétylcholinestérase des globules rouges"
+ },
+ {
+   "TABLEAU_MP": "034A",
+   "LIBELLE": "E. Syndrome biologique caractérisé par unabaissement significatif de l'acétylcholinestérase des globules rouges.",
+   "EXAMEN": "Taux de la cholinestérase sérique et de l'acétylcholinestérase des globules rouges"
+ },
+ {
+   "TABLEAU_MP": "037B",
+   "LIBELLE": "Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.",
+   "EXAMEN": "Épreuve fonctionnelle respiratoire (EFR)"
+ },
+ {
+   "TABLEAU_MP": "040A",
+   "LIBELLE": "A- Affections dues à Mycobacterium bovisTuberculose ganglionnaire",
+   "EXAMEN": "Examens spécialisés : Preuves bactériologiques, examens anatomo-pathologiques ou d'imagerie,traitement d'épreuve spécifique."
+ },
+ {
+   "TABLEAU_MP": "040A",
+   "LIBELLE": "A- Affections dues à Mycobacterium bovisTuberculose cutanée ou sous cutanée",
+   "EXAMEN": "Examens spécialisés : Preuves bactériologiques, examens anatomo-pathologiques ou d'imagerie,traitement d'épreuve spécifique."
+ },
+ {
+   "TABLEAU_MP": "040A",
+   "LIBELLE": "A- Affections dues à Mycobacterium bovisAutres localisations",
+   "EXAMEN": "Examen spécialisés ;  Preuves bactériologiques, examens anatomo-pathologiques ou d'imagerie,traitement d'épreuve spécifique."
+ },
+ {
+   "TABLEAU_MP": "040A",
+   "LIBELLE": "A- Affections dues à Mycobacterium bovisOstéoarthrite",
+   "EXAMEN": "Examens spécialisés : Preuves bactériologiques, examens anatomo-pathologiques ou d'imagerie,traitement d'épreuve spécifique."
+ },
+ {
+   "TABLEAU_MP": "040A",
+   "LIBELLE": "A- Affections dues à Mycobacterium bovisSynovite",
+   "EXAMEN": "Examens spécialisés ; Preuves bactériologiques, examens anatomo-pathologiques ou d'imagerie,traitement d'épreuve spécifique."
+ },
+ {
+   "TABLEAU_MP": "040A",
+   "LIBELLE": "B-Affections dues à Mycobacterium tuberculosis,Mycobacterium bovis, Mycobacterium africanum : Tuberculose pulmonaire",
+   "EXAMEN": "Examens spécialisés: Preuves bactériologiques, examens anatomo-pathologiques ou d'imagerie,traitement d'épreuve spécifique."
+ },
+ {
+   "TABLEAU_MP": "040A",
+   "LIBELLE": "B-Affections dues à Mycobacterium tuberculosis,Mycobacterium bovis, Mycobacterium africanum : Tuberculose pleurale",
+   "EXAMEN": "Examens spécialisés: Preuves bactériologiques, examens anatomo-pathologiques ou d'imagerie,traitement d'épreuve spécifique."
+ },
+ {
+   "TABLEAU_MP": "040A",
+   "LIBELLE": "B-Affections dues à Mycobacterium tuberculosis,Mycobacterium bovis, Mycobacterium africanum : Affection tuberculeuse latente",
+   "EXAMEN": "Examens spécialisés : Tests tuberculiniques (IDR et/ouIGRA)"
+ },
+ {
+   "TABLEAU_MP": "040A",
+   "LIBELLE": "B-Affections dues à Mycobacterium tuberculosis,Mycobacterium bovis, Mycobacterium africanum : Tuberculose extrathoracique",
+   "EXAMEN": "Examens spécialisés; Preuves bactériologiques, examensanatomo-pathologiques ou d'imagerie,traitement d'épreuve spécifique."
+ },
+ {
+   "TABLEAU_MP": "040A",
+   "LIBELLE": "C- Infections dues à Mycobacterium aviumintracellulaire, Mycobacterium kansasii,Mycobacterium xenopi : pneumopathies chroniques dont l'étiologie doit être confirmée par des examens bactériologiques.",
+   "EXAMEN": "Examens spécialisés : Examens bactériologiques"
+ },
+ {
+   "TABLEAU_MP": "040A",
+   "LIBELLE": "D - Affections cutanées dues à Mycobacteriummarinum et fortuitum : - infection cutanée granulomateuse ulcéreuse  prolongée dont l'étiologie doit être confirmée par des examens bactériologiques.",
+   "EXAMEN": "Examens spécialisés ; Examens bactériologiques"
+ },
+ {
+   "TABLEAU_MP": "041A",
+   "LIBELLE": "Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.",
+   "EXAMEN": "Épreuve fonctionnelle respiratoire EFR"
+ },
+ {
+   "TABLEAU_MP": "042A",
+   "LIBELLE": "Hypoacousie de perception par lésion cochléaire irréversible, accompagnée ou non d'acouphènes. Cette hypoacousie est caractérisée par un déficit audiométrique bilatéral, le plus souvent symétrique et affectant préférentiellement les fréquences élevées …",
+   "EXAMEN": "Examen spécialisé ; Audiométries"
+ },
+ {
+   "TABLEAU_MP": "043A",
+   "LIBELLE": "Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.",
+   "EXAMEN": "Épreuve fonctionnelle respiratoire EFR"
+ },
+ {
+   "TABLEAU_MP": "044A",
+   "LIBELLE": "Sidérose : pneumopathie interstitielle chronique parsurcharge de particules de fer ou d'oxydes de fer, révélée par des opacités punctiformes diffuses surdes documents radiographiques outomodensitométriques ou par des constatationsanatomopathologiques lorsqu'elles existent, ces signes ou constatations s'accompagnant ou non de troubles fonctionnels respiratoires. Manifestation pathologique associée : emphysème",
+   "EXAMEN": "Examens spécialisés :Compte rendu CRradiographiques ou tomodensitométriques pulmonaires ou confirmation anatomopathologiques"
+ },
+ {
+   "TABLEAU_MP": "044A",
+   "LIBELLE": "Sidérose : pneumopathie interstitielle chronique parsurcharge de particules de fer ou d'oxydes de fer, révélée par des opacités punctiformes diffuses surdes documents radiographiques outomodensitométriques ou par des constatationsanatomopathologiques lorsqu'elles existent, cessignes ou constatations s'accompagnant ou non de troubles fonctionnels respiratoires.",
+   "EXAMEN": "Examens spécialisés CR radiographiques outomodensitométriques pulmonaires ou constatationsanatomopathologiques"
+ },
+ {
+   "TABLEAU_MP": "044B",
+   "LIBELLE": "Emphysème objectivé par des signes tomodensitométriques et des altérationsfonctionnelles de type obstructif ou, lorsqu'elles existent, par des constatationsanatomopathologiques.",
+   "EXAMEN": "Examens spécialisés : Scanner thoracique , EFR , ouconstatations anatomopathologiques"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "A - Hépatites virales transmises par voie oralea) Hépatites à virus A : Hépatite fulminante à virus A",
+   "EXAMEN": "Examens spécialisés Examens biochimiques et  marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "A - Hépatites virales transmises par voie oralea) Hépatites à virus A : Hépatite aiguë ou subaiguë à virus A",
+   "EXAMEN": "Examens spécialisés Examens biochimiques et  marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "A - Hépatites virales transmises par voie orale b)Hépatite à virus E :Hépatite aiguë ou subaiguë ou fulminans à virus E",
+   "EXAMEN": "Examens spécialisés ; Examens biochimiques et  marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "A - Hépatites virales transmises par voie oralea) Hépatites à virus A : Formes à rechutes d'une hépatite à virus A",
+   "EXAMEN": "Examens spécialisés ; Examens biochimiques et  marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "B - Hépatites virales transmises par le sang, ses dérivés et tout autre liquide biologique ou tissu humains b) Co-infection d'une hépatite B par le virus D : Hépatite fulminante due à la co-infection d'une hépatite B par le virus D",
+   "EXAMEN": "Examens biochimiques et  marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "B - Hépatites virales transmises par le sang, ses dérivés et tout autre liquide biologique ou tissuhumains b) Co-infection d'une hépatite B par le virus D : Hépatite aiguë due à la co-infection d'une hépatite B par le virus D",
+   "EXAMEN": "Examens biochimiques et  marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "B - Hépatites virales transmises par le sang, ses dérivés et tout autre liquide biologique ou tissu humains a) Hépatites à virus B (en dehors des cas qui auraient été pris en charge au titre d'un accident du travail) : Hépatite fulminante à virus B",
+   "EXAMEN": "Examens biochimiques et  marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "B - Hépatites virales transmises par le sang, ses  dérivés et tout autre liquide biologique ou tissu humains a) Hépatites à virus B (en dehors des cas qui auraient été pris en charge au titre d'un accident du travail) : Hépatite aiguë à virus B avec ou sansmanifestations ictériques",
+   "EXAMEN": "Examens biochimiques et  marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "B - Hépatites virales transmises par le sang, ses dérivés et tout autre liquide biologique ou tissu humains c) Hépatites à virus C (en dehors des cas qui auraient été pris en charge au titre d'un accident du travail) : Hépatite aiguë à virus C avec ou sansmanifestations cliniques",
+   "EXAMEN": "Examens biochimiques et  marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "B - Hépatites virales transmises par le sang, ses dérivés et tout autre liquide biologique ou tissuhumains b) Co-infection d'une hépatite B par le virus D : Hépatite chronique active due à la co-infectiond'une hépatite B par le virus D",
+   "EXAMEN": "Examens biochimiques et  marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "B - Hépatites virales transmises par le sang, ses dérivés et tout autre liquide biologique ou tissu humains a) Hépatites à virus B (en dehors des cas qui auraient été pris en charge au titre d'un accident du travail) : Hépatite chronique à virus B active ou non",
+   "EXAMEN": "Examens biochimiques et  marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "B - Hépatites virales transmises par le sang, ses dérivés et tout autre liquide biologique ou tissu humains c) Hépatites à virus C (en dehors des cas qui auraient été pris en charge au titre d'un accident du travail) : Hépatite chronique à virus C active ou non",
+   "EXAMEN": "Examens biochimiques et  marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "B - Hépatites virales transmises par le sang, ses dérivés et tout autre liquide biologique ou tissu humains c) Hépatites à virus C (en dehors des cas qui auraient été pris en charge au titre d'un accident du travail) : Manifestations extra-hépatiques dues à l'infectionchronique par le virus C associées à une cryoglobulinémie",
+   "EXAMEN": "Examens biochimiques et  marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "B - Hépatites virales transmises par le sang, ses dérivés et tout autre liquide biologique ou tissu humains c) Hépatites à virus C (en dehors des cas qui auraient été pris en charge au titre d'un accident du travail) : Manifestations extra-hépatiques dues à l'infectionchronique par le virus C hors de la présence d'une cryoglobulinémie",
+   "EXAMEN": "Examens biochimiques et  marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "B - Hépatites virales transmises par le sang, ses dérivés et tout autre liquide biologique ou tissu humains a) Hépatites à virus B (en dehors des cas qui auraient été pris en charge au titre d'un accident du travail) : Cirrhose post hépatite à virus B",
+   "EXAMEN": "Examens biochimiques et marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "B - Hépatites virales transmises par le sang, ses dérivés et tout autre liquide biologique ou tissu humains a) Hépatites à virus B (en dehors des cas qui auraient été pris en charge au titre d'un accident du travail) : Manifestations extra-hépatiques dues à l'infectionaiguë ou chronique par le virus B : urticaire,érythème noueux, acrodermatite papuleuse,syndrome de Raynaud, vascularites, polyarthrite,néphropathie glomérulaire, anémie hémolytique",
+   "EXAMEN": "Examens biochimiques et marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "045A",
+   "LIBELLE": "B - Hépatites virales transmises par le sang, ses dérivés et tout autre liquide biologique ou tissu humains c) Hépatites à virus C (en dehors des cas qui auraient été pris en charge au titre d'un accident du travail) : Cirrhose post hépatite à virus C",
+   "EXAMEN": "Examens biochimiques et  marqueurs du virus en cause"
+ },
+ {
+   "TABLEAU_MP": "046A",
+   "LIBELLE": "A . Mycoses de la peau glabre : Lésionsérythémato-vésiculeuses et squameuses, circinées,appelées encore herpès circiné.",
+   "EXAMEN": "Examens spécialisés : Examen direct et culture confirmant atteinte mycotique"
+ },
+ {
+   "TABLEAU_MP": "046A",
+   "LIBELLE": "B. Mycoses du cuir chevelu : Plaques squameuses du cuir chevelu supportant un mélange de cheveuxsains et de cheveux cassés courts, accompagnésquelquefois d'une folliculite suppurée (Kérion).",
+   "EXAMEN": "Examens spécialisés : Examen direct et culture confirmant atteinte mycotique"
+ },
+ {
+   "TABLEAU_MP": "046A",
+   "LIBELLE": "C. Mycoses des orteils : Lésions érythémato-vésiculeuses et squameuses avec fissuration des plisinterdigitaux, ou aspect blanc nacré, épaissi de l'épiderme digital ou interdigital, accompagné ounon de décollement, de fissures épidermiques. Ces lésions peuvent atteindre un ou plusieursorteils, s'accompagner éventuellement d'onyxis (généralement du gros orteil).",
+   "EXAMEN": "Examens spécialisés : Examen direct et culture confirmant atteinte mycotique"
+ },
+ {
+   "TABLEAU_MP": "047A",
+   "LIBELLE": "Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "047A",
+   "LIBELLE": "Syndrome respiratoire avec dyspnée, toux,expectoration, récidivant après nouvelle expositionau risque, dont l'étiologie professionnelle est confirmée par la présence dans le sérum d'anticorpsprécipitants permettant d'identifier l'agent pathogène correspondant au produit responsable.",
+   "EXAMEN": "Examens spécialisés :Anticorps précipitants"
+ },
+ {
+   "TABLEAU_MP": "047A",
+   "LIBELLE": "Fibrose pulmonaire avec signes radiologiques et troubles respiratoires confirmés par l'exploration fonctionnelle lorsqu'il y a des signes immunologiques significatifs.",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "049B",
+   "LIBELLE": "Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "050A",
+   "LIBELLE": "Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "052A",
+   "LIBELLE": "Ostéolyse des phalanges unguéales des mainsconfirmée radiologiquement.",
+   "EXAMEN": "Examen radiographique du ou des doigt(s) concerné(s)"
+ },
+ {
+   "TABLEAU_MP": "053A",
+   "LIBELLE": "A- Rickettsioses Manifestations cliniques aiguës.",
+   "EXAMEN": "Examens de laboratoire spécifiques."
+ },
+ {
+   "TABLEAU_MP": "053A",
+   "LIBELLE": "B. - Fièvre Q : Manifestations cliniques aiguës",
+   "EXAMEN": "Examens de laboratoire spécifiques."
+ },
+ {
+   "TABLEAU_MP": "053A",
+   "LIBELLE": "B. - Fièvre Q : Endocardite",
+   "EXAMEN": "Examens de laboratoire spécifiques."
+ },
+ {
+   "TABLEAU_MP": "053A",
+   "LIBELLE": "B. - Fièvre Q : Hépatite granulomateuse",
+   "EXAMEN": "Examens de laboratoire spécifiques."
+ },
+ {
+   "TABLEAU_MP": "055A",
+   "LIBELLE": "Manifestations aiguës de l'amibiase, notamment hépatite amibienne, confirmées par la présenced'amibes du type Entamœba histolytica ou de kystes amibiens dans les selles ou par les résultats positifs d'une méthode immunologique reconnue par l'OMS.",
+   "EXAMEN": "Examen des selles ou immunologique"
+ },
+ {
+   "TABLEAU_MP": "058A",
+   "LIBELLE": "Crampes musculaires avec sueurs profuses, oligurie et chlorure urinaire égal ou inférieur à 5 g/l.",
+   "EXAMEN": "Examens spécialisés : Chlorure urinaire"
+ },
+ {
+   "TABLEAU_MP": "058A",
+   "LIBELLE": "Crampes musculaires avec sueurs profuses, oligurie et chlorure urinaire égal ou inférieur à 5 g/l.",
+   "EXAMEN": "Examens spécialisés Chlorure urinaire"
+ },
+ {
+   "TABLEAU_MP": "061A",
+   "LIBELLE": "Ostéomalacie avec ou sans fractures spontanées,accompagnée ou non de manifestationsdouloureuses, radiologiquement confirmée.",
+   "EXAMEN": "Radiographies"
+ },
+ {
+   "TABLEAU_MP": "062A",
+   "LIBELLE": "Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "063A",
+   "LIBELLE": "Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "064A",
+   "LIBELLE": "Syndrome associant céphalées, asthénie, vertiges, nausées, confirmé par la présence dans le sang d'untaux d'oxyde de carbone supérieur à 1,5 millilitre pour 100 millilitres de sang",
+   "EXAMEN": "Examen spécialisé : Carboxyhémoglobine"
+ },
+ {
+   "TABLEAU_MP": "066A",
+   "LIBELLE": "Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "066B",
+   "LIBELLE": "Fibrose pulmonaire avec signes radiologiques et troubles respiratoires confirmés par l'exploration fonctionnelle respiratoire et la présence d'anticorpsprécipitants dans le sérum contre l'agent pathogène responsable ou à défaut résultats de lavage broncho-alvéolaire (lymphocytose) et sa complication : insuffisance ventriculaire droite.",
+   "EXAMEN": "Examens spécialisés : EFR, anticorps précipitants dansle sérum ou résultats de lavage broncho-alvéolaire"
+ },
+ {
+   "TABLEAU_MP": "066B",
+   "LIBELLE": "Bronchoalvéolite aiguë ou subaiguë avec syndrome respiratoire (dyspnée, toux, expectoration) et/ou signes généraux (fièvres, amaigrissement)confirmés par l'exploration fonctionnelle respiratoire et la présence d'anticorps précipitantsdans le sérum contre l'agent pathogène responsable ou à défaut résultats de lavage broncho-alvéolaire (lymphocytose).",
+   "EXAMEN": "Examens spécialisés : EFR, anticorps précipitants dansle sérum ou résultats de lavage broncho-alvéolaire"
+ },
+ {
+   "TABLEAU_MP": "066B",
+   "LIBELLE": "Fibrose pulmonaire avec signes radiologiques et troubles respiratoires confirmés par l'exploration fonctionnelle respiratoire et la présence d'anticorpsprécipitants dans le sérum contre l'agent pathogène responsable ou à défaut résultats de lavage broncho-alvéolaire (lymphocytose)",
+   "EXAMEN": "Examens spécialisés : EFR, anticorps précipitants dansle sérum ou résultats de lavage broncho-alvéolaire"
+ },
+ {
+   "TABLEAU_MP": "068A",
+   "LIBELLE": "Syndrome pouvant revêtir soit l'aspect, en tout oupartie, d'une des grandes formes cliniques (brachiale, oculaire, pharyngée, pulmonaire outyphoïde), soit un aspect atypique.",
+   "EXAMEN": "Examens spécialisés ; Sérologie spécifique"
+ },
+ {
+   "TABLEAU_MP": "070A",
+   "LIBELLE": "Asthme ou dyspnée asthmatiforme objectivé(e) parexplorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ouconfirmé(e) par test.",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "070B",
+   "LIBELLE": "Fibrose pulmonaire diffuse, avec signes radiologiques et troubles fonctionnels, confirmée par l'exploration fonctionnelle respiratoire, et ses complications : - infection pulmonaire ; - insuffisance ventriculaire droite.",
+   "EXAMEN": "Examens spécialisés : EFR + radiographies pulmonaires"
+ },
+ {
+   "TABLEAU_MP": "070B",
+   "LIBELLE": "Fibrose pulmonaire diffuse, avec signes radiologiques et troubles fonctionnels, confirmée par l'exploration fonctionnelle respiratoire, et ses complications : - infection pulmonaire ; - insuffisance ventriculaire droite.",
+   "EXAMEN": "EFR + radiographies pulmonaires"
+ },
+ {
+   "TABLEAU_MP": "070B",
+   "LIBELLE": "Fibrose pulmonaire diffuse, avec signes radiologiques et troubles fonctionnels, confirmée par l'exploration fonctionnelle respiratoire, et ses complications : - infection pulmonaire ; - insuffisance ventriculaire droite.",
+   "EXAMEN": "EFR + radiographies pulmonaires"
+ },
+ {
+   "TABLEAU_MP": "073A",
+   "LIBELLE": "Stibiose : pneumopathie caractérisée par des signesradiographiques spécifiques accompagnés ou nonde troubles tels que toux, expectoration, dyspnée",
+   "EXAMEN": "Examens spécialisés ; radiographie pulmonaires"
+ },
+ {
+   "TABLEAU_MP": "074A",
+   "LIBELLE": "Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "A. - Infections dues aux staphylocoques  Manifestations cliniques de staphylococcie : Septicémie",
+   "EXAMEN": "Examens spécialisés : Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "A. - Infections dues aux staphylocoquesManifestations cliniques de staphylococcie : Atteinte viscérale",
+   "EXAMEN": "Examens spécialisés : Mise en évidence et typage dugerme, hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "A. - Infections dues aux staphylocoquesManifestations cliniques de staphylococcie : Panaris",
+   "EXAMEN": "Examens spécialisés : Mise en évidence et typage dugerme, hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "Mensspécialisés :",
+   "LIBELLE": "B. - Infections dues aux pseudomonas aeruginosa : Septicémie",
+   "EXAMEN": "Examens spécialisés :Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "B. - Infections dues aux pseudomonas aeruginosa Localisations viscérales. cutanéo-muqueuses et oculaires",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme, hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "C. - Infections dues aux entérobactériesSepticémie confirmée par hémoculture.",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "D. - Infections dues aux pneumocoquesManifestations cliniques de pneumococcie : Septicémie",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "D. - Infections dues aux pneumocoquesManifestations cliniques de pneumococcie : Méningite purulente",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "D. - Infections dues aux pneumocoquesManifestations cliniques de pneumococcie : Pneumonie. broncho-pneumonie",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "E. - Infections dues aux streptocoques bêta-hémolytiquesManifestations cliniques de streptococcie : Erysipèle",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "E. - Infections dues aux streptocoques bêta-hémolytiquesManifestations cliniques de streptococcie :Otite compliquée",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "E. - Infections dues aux streptocoques bêta-hémolytiquesManifestations cliniques de streptococcie : Endocardite",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "E. - Infections dues aux streptocoques bêta-hémolytiquesManifestations cliniques de streptococcie : Broncho-pneumonie",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "E. - Infections dues aux streptocoques bêta-hémolytiquesManifestations cliniques de streptococcie : Glomérulonéphrite aiguë",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "F. - Infections dues aux méningocoques Conjonctivite",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "F. - Infections dues aux méningocoquesMéningite",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "G- Fièvres typhoïde et paratyphoïde A et B",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "H - Dysenterie bacillaire",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "I - Choléra",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "J. - Fièvres hémorragiques (Lassa, Ebola, Marburg, Congo-Crimée)",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "K. - Infections dues aux gonocoquesManifestations cliniques :  Complicationsarticulaires",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "K. - Infections dues aux gonocoquesManifestations cliniques : Gonococcie cutanée",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "L. - Syphilis",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme , hémoculture, recherche d'antigènes, coproculture, séroconversion, présence d'anticorps,sérologie"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "N. - Gale Parasitose à Sarcoptes Scabiei avecprurit et éventuellement surinfection des atteintes cutanées dues au parasiteEn dehors d'un contexte épidémique, l'affection devra être confirmée par l'identification des sarcoptes.",
+   "EXAMEN": "Examens spécialisés Mise en évidence des sarcoptes"
+ },
+ {
+   "TABLEAU_MP": "082A",
+   "LIBELLE": "Manifestations respiratoires chroniques avecaltérations des épreuves fonctionnelles respiratoires, survenant après l'une des affectionsénumérées ci-dessus.",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "082A",
+   "LIBELLE": "Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "083A",
+   "LIBELLE": "Lésions de l'oreille interne",
+   "EXAMEN": "Examens spécialisés : Audiométrie"
+ },
+ {
+   "TABLEAU_MP": "083A",
+   "LIBELLE": "Otites moyennes subaiguës ou chroniques",
+   "EXAMEN": "Examen ORL"
+ },
+ {
+   "TABLEAU_MP": "084A",
+   "LIBELLE": "B- Encéphalopathies caractérisées par des altérations des fonctions cognitives, constituées parau moins trois des six anomalies suivantes : -ralentissement psychomoteur - troubles de la dextérité, de la mémoire, de l'organisation visuospatiale, des fonctionsexécutives, de l'attention, et ne s'aggravant pas après cessation de l'exposition au risque.",
+   "EXAMEN": "Examens spécialisés : Tests psychométriques"
+ },
+ {
+   "TABLEAU_MP": "086A",
+   "LIBELLE": "Manifestations cliniques aiguës de pasteurellose parinoculation (en dehors des cas considérés comme accidents du travail).",
+   "EXAMEN": "Examens spécialisés Examen de laboratoire spécifique ou intradermoréaction."
+ },
+ {
+   "TABLEAU_MP": "086A",
+   "LIBELLE": "Manifestations loco-régionales tardives. Pasteurellose",
+   "EXAMEN": "Examen spécialisé"
+ },
+ {
+   "TABLEAU_MP": "087A",
+   "LIBELLE": "Ornithose-Psittacose : formes typhoïdes avectroubles digestifs et états stuporeux",
+   "EXAMEN": "Examens spécialisés Isolement du germe ou par unexamen sérologique spécifique de Chlamydia-psittaci."
+ },
+ {
+   "TABLEAU_MP": "087A",
+   "LIBELLE": "Ornithose-Psittacose : formes neuroméningées",
+   "EXAMEN": "Examens spécialisés Isolement du germe ou par unexamen sérologique spécifique de Chlamydia-psittaci."
+ },
+ {
+   "TABLEAU_MP": "087A",
+   "LIBELLE": "Ornithose-Psittacose : pneumopathie aiguë",
+   "EXAMEN": "Examens spécialisés Isolement du germe ou par unexamen sérologique spécifique de Chlamydia-psittaci."
+ },
+ {
+   "TABLEAU_MP": "089A",
+   "LIBELLE": "Hépatite ayant récidivé après nouvelle exposition et confirmée par des tests biochimiques, après exclusion d'une autre étiologie.",
+   "EXAMEN": "Examens spécialisés Résultats biochimiques"
+ },
+ {
+   "TABLEAU_MP": "090A",
+   "LIBELLE": "A- Syndrome respiratoire obstructif aigu caractérisé par une oppression thoracique survenant habituellement après une interruption d'expositionau risque d'au moins 36 heures et se manifestant quelques heures après la reprise de l'exposition au risque (byssinose et affections apparentées). Le caractère obstructif de ce syndrome doit être confirmé par des explorations fonctionnelles respiratoires pratiquées au moment de la reprise de l'exposition au risque et six à huit heures après.",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "090A",
+   "LIBELLE": "B- Bronchopneumopathie chronique obstructive consécutive à des épisodes respiratoires obstructifsaigus caractérisés cliniquement comme ci-dessus et répétitifs. Cette bronchopneumopathie doit être confirmée par des explorations fonctionnelles respiratoires avec un volume expiratoire maximal par seconde (V.E.M.S.) abaissé d'au moins 40 % par rapport à la valeur moyenne théorique.",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "091A",
+   "LIBELLE": "Broncho-pneumopathie chronique obstructive entraînant un déficit respiratoire chronique. Elle est caractérisée par l'association de signes cliniques telsque dyspnée, toux, hypersécrétion bronchique et d'un syndrome ventilatoire de type obstructif avecun volume expiratoire maximum seconde (VEMS)abaissé au jour de la déclaration d'au moins 30 % par rapport à la valeur moyenne théorique. Cet abaissement doit être constaté en dehors de tout épisode aigu",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "092A",
+   "LIBELLE": "Septicémie isolée, tableau de coagulopathie intravasculaire disséminée.",
+   "EXAMEN": "Examens spécialisés :Mise en évidence et typage dugerme"
+ },
+ {
+   "TABLEAU_MP": "092A",
+   "LIBELLE": "Méningite purulente avec bactériémie,accompagnée le plus souvent d'une atteinte cochléo-vestibulaire : surdité de perception uni- oubilatérale, avec acouphènes et troubles de l'équilibre (vertiges et ataxie).",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme"
+ },
+ {
+   "TABLEAU_MP": "092A",
+   "LIBELLE": "Paralysie faciale",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme"
+ },
+ {
+   "TABLEAU_MP": "092A",
+   "LIBELLE": "Endophtalmie. Uvéite",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme"
+ },
+ {
+   "TABLEAU_MP": "092A",
+   "LIBELLE": "Atteinte cochléo-vestibulaire aiguë et ses complications cochléaires (troubles de l'auditionirréversibles).",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme"
+ },
+ {
+   "TABLEAU_MP": "092A",
+   "LIBELLE": "Endocardite",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme Mise en évidence et typage du germe"
+ },
+ {
+   "TABLEAU_MP": "092A",
+   "LIBELLE": "Myocardite",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme Mise en évidence et typage du germe"
+ },
+ {
+   "TABLEAU_MP": "092A",
+   "LIBELLE": "Pneumonie",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme Mise en évidence et typage du germe"
+ },
+ {
+   "TABLEAU_MP": "092A",
+   "LIBELLE": "Arthrites inflammatoires ou septiques",
+   "EXAMEN": "Examens spécialisés Mise en évidence et typage dugerme Mise en évidence et typage du germe"
+ },
+ {
+   "TABLEAU_MP": "094A",
+   "LIBELLE": "Broncho-pneumopathie chronique obstructive entraînant un déficit respiratoire chronique. Elle est caractérisée par l'association de signes cliniques telsque dyspnée, toux, hypersécrétion bronchique et d'un syndrome ventilatoire de type obstructif avecun volume expiratoire maximum seconde (VEMS)abaissé au jour de la déclaration d'au moins 30 % par rapport à la valeur moyenne théorique. Cet abaissement doit être constaté en-dehors de tout épisode aigu.",
+   "EXAMEN": "EFR"
+ },
+ {
+   "TABLEAU_MP": "095A",
+   "LIBELLE": "Conjonctivite aiguë bilatérale ayant récidivé après nouvelle exposition et confirmés par test",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "095A",
+   "LIBELLE": "Rhinite récidivant en cas de nouvelle exposition au risque et confirmée par test.",
+   "EXAMEN": "CR spécialisé avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "095A",
+   "LIBELLE": "asthme ayant récidivé après nouvelle exposition au risque et confirmé par un test.",
+   "EXAMEN": "CR spécialisé avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "095A",
+   "LIBELLE": "Urticaire de contact ayant récidivé après nouvelle exposition au risque et confirmée par un test.",
+   "EXAMEN": "CR spécialisé avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "096A",
+   "LIBELLE": "Infections aiguës par hantavirus, se traduisant parune insuffisance rénale aiguë ou un syndrome algique pseudo-grippal ou des manifestionshémorragiques, dont l'étiologie aura été confirméesoit par la mise en évidence du virus, soit par la présence d'anticorps spécifiques à un taux considéré comme significatif dans le sérum prélevé au coursde la maladie.",
+   "EXAMEN": "Examens spécialisés Mise en évidence du virus, soit parla présence d'anticorps spécifiques"
+ },
+ {
+   "TABLEAU_MP": "002A",
+   "LIBELLE": "Encéphalopathie aiguë",
+   "EXAMEN": "Examens spécialisés (neurologie..)"
+ },
+ {
+   "TABLEAU_MP": "002A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "002A",
+   "LIBELLE": "Néphrite azotémique",
+   "EXAMEN": "Examens biologiques"
+ },
+ {
+   "TABLEAU_MP": "003A",
+   "LIBELLE": "Névrite ou polynévrite",
+   "EXAMEN": "Examens spécialisés (neurologie et /ouelectrophysiologie)"
+ },
+ {
+   "TABLEAU_MP": "003A",
+   "LIBELLE": "Ictère par hépatite",
+   "EXAMEN": "Examens biologiques"
+ },
+ {
+   "TABLEAU_MP": "003A",
+   "LIBELLE": "Hépatonéphrite",
+   "EXAMEN": "Examens biologiques"
+ },
+ {
+   "TABLEAU_MP": "003A",
+   "LIBELLE": "Accidents nerveux aigus",
+   "EXAMEN": "Examens spécialisés (neurologie…)"
+ },
+ {
+   "TABLEAU_MP": "004A",
+   "LIBELLE": "Syndromes myélodysplasiques acquis et nonmédicamenteux",
+   "EXAMEN": "Examens spécialisés (hématologue, oncologue…)"
+ },
+ {
+   "TABLEAU_MP": "004A",
+   "LIBELLE": "Syndromes myéloprolifératifs",
+   "EXAMEN": "Examens spécialisés (hématologue, oncologue …)"
+ },
+ {
+   "TABLEAU_MP": "004A",
+   "LIBELLE": "Hypoplasies et aplasies médullaires isolées ou associées acquises primitives non réversibles",
+   "EXAMEN": "Examens spécialisés (hématologue, oncologue…)"
+ },
+ {
+   "TABLEAU_MP": "005A",
+   "LIBELLE": "Ostéomalacie",
+   "EXAMEN": "Examens spécialisés (rhumatologie, imagerie,biologie…)"
+ },
+ {
+   "TABLEAU_MP": "005A",
+   "LIBELLE": "Nécrose du maxillaire inférieur",
+   "EXAMEN": "Examens spécialisés (imagerie)"
+ },
+ {
+   "TABLEAU_MP": "005A",
+   "LIBELLE": "B. Dermite aiguë irritative ou eczématiforme récidivant en cas de nouvelle exposition au risque).",
+   "EXAMEN": "Examens spécialisés (dermatologue , allergologue …)"
+ },
+ {
+   "TABLEAU_MP": "005A",
+   "LIBELLE": "C. Dermite (chronique irritative ou eczématiforme récidivant au contact du sesquisulfure de phosphore).",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "006A",
+   "LIBELLE": "Anémie consécutive à une irradiation aiguë ouchronique",
+   "EXAMEN": "Examens spécialisés (hématologue …)"
+ },
+ {
+   "TABLEAU_MP": "006A",
+   "LIBELLE": "Thrombopénie consécutive à une irradiation aiguë ou chronique",
+   "EXAMEN": "Examens spécialisés (hématologue …)"
+ },
+ {
+   "TABLEAU_MP": "006A",
+   "LIBELLE": "Syndrome hémorragique consécutif à une irradiation aiguë ou chronique",
+   "EXAMEN": "Examens spécialisés (hématologue …)"
+ },
+ {
+   "TABLEAU_MP": "006A",
+   "LIBELLE": "Leucopénie consécutive à une irradiation aiguë ouchronique",
+   "EXAMEN": "Examens spécialisés (hématologue …)"
+ },
+ {
+   "TABLEAU_MP": "006A",
+   "LIBELLE": "Kératite",
+   "EXAMEN": "Examens spécialisés (ophtalmologie)"
+ },
+ {
+   "TABLEAU_MP": "006A",
+   "LIBELLE": "Cataracte",
+   "EXAMEN": "Examens spécialisés (ophtalmologie)"
+ },
+ {
+   "TABLEAU_MP": "006A",
+   "LIBELLE": "Radionécrose osseuse",
+   "EXAMEN": "Examens spécialisés (imagerie)"
+ },
+ {
+   "TABLEAU_MP": "007A",
+   "LIBELLE": "Tétanos en dehors des cas consécutifs à un accident du travail.",
+   "EXAMEN": "Examens spécialisés"
+ },
+ {
+   "TABLEAU_MP": "008A",
+   "LIBELLE": "Dermites eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "009A",
+   "LIBELLE": "Porphyrie cutanée tardive, causée parl'hexachlorobenzène, caractérisée par des lésionsbulleuses favorisées par l'exposition au soleil et s'accompagnant d'élévation des uroporphyrines dans les urines",
+   "EXAMEN": "Examens spécialisés avec test urinaire (uroporphyrines)"
+ },
+ {
+   "TABLEAU_MP": "009A",
+   "LIBELLE": "Accidents nerveux aigus causés par le monochlorobenzène et le monobromobenzène.",
+   "EXAMEN": "Examens spécialisés (neurologue…)"
+ },
+ {
+   "TABLEAU_MP": "010A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "010B",
+   "LIBELLE": "Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "011A",
+   "LIBELLE": "Ictère par hépatite, initialement apyrétique.",
+   "EXAMEN": "Examens biologiques"
+ },
+ {
+   "TABLEAU_MP": "011A",
+   "LIBELLE": "Hépatonéphrite initialement apyrétique, ictérigène ou non.",
+   "EXAMEN": "Examens biologiques"
+ },
+ {
+   "TABLEAU_MP": "011A",
+   "LIBELLE": "Néphrite aiguë ou subaiguë avec albuminurie,cylindrurie et azotémie progressive",
+   "EXAMEN": "Examens spécialisés (nephrologue…)"
+ },
+ {
+   "TABLEAU_MP": "011A",
+   "LIBELLE": "Accidents nerveux aigus en dehors des cas considérés comme accidents du travail.",
+   "EXAMEN": "Examens spécialisés (neurologie…)"
+ },
+ {
+   "TABLEAU_MP": "012A",
+   "LIBELLE": "Troubles cardiaques aigus à type d'hyperexcitabilité ventriculaire ou supra ventriculaire",
+   "EXAMEN": "Examens spécialisés (cardiologie)"
+ },
+ {
+   "TABLEAU_MP": "012A",
+   "LIBELLE": "Néphropathies tubulaires",
+   "EXAMEN": "Examens biologiques"
+ },
+ {
+   "TABLEAU_MP": "012A",
+   "LIBELLE": "Hépatites aiguës cytolytiques à l’exclusion des hépatites virales A, B et C ainsi que des hépatitesalcooliques.",
+   "EXAMEN": "Examens spécialisés (gastro enterologue,hépatologue…)"
+ },
+ {
+   "TABLEAU_MP": "012A",
+   "LIBELLE": "Anémies hémolytiques de survenue brutale.",
+   "EXAMEN": "Examens biologiques"
+ },
+ {
+   "TABLEAU_MP": "012A",
+   "LIBELLE": "Aplasies ou hypoplasies médullaires entraînant : – anémies ;– leucopénies ; – neutropénies.",
+   "EXAMEN": "Examens spécialisés (hématologue …)"
+ },
+ {
+   "TABLEAU_MP": "013A",
+   "LIBELLE": "Anémie consécutive à l'intoxication subaiguë ouchronique",
+   "EXAMEN": "Examens biologiques"
+ },
+ {
+   "TABLEAU_MP": "013A",
+   "LIBELLE": "Dermites chroniques irritatives ou eczématiformes causées par les dérivés chloronitrés récidivant encas de nouvelle exposition au risque.",
+   "EXAMEN": "Examens spécialisés (dermatologue , allergologue …)"
+ },
+ {
+   "TABLEAU_MP": "013A",
+   "LIBELLE": "Accident aigus (coma) en dehors des cas considérés comme accidents du travail.",
+   "EXAMEN": "Examens spécialisés (neurologie…)"
+ },
+ {
+   "TABLEAU_MP": "014A",
+   "LIBELLE": "A. Intoxication suraiguë avec hyperthermie, œdème pulmonaire, éventuellement atteinte hépatique, rénale et myocardique.",
+   "EXAMEN": "Examens spécialisés"
+ },
+ {
+   "TABLEAU_MP": "014A",
+   "LIBELLE": "F. Syndrome biologique caractérisé par : Neutropénie franche (moins de 1000 polynucléaires neutrophiles par mm3) liée à des préparations associant du pentachlorophénol, ses homologues ou ses sels, à du lindane.",
+   "EXAMEN": "Examens spécialisés (biologiste - hemogramme)"
+ },
+ {
+   "TABLEAU_MP": "015A",
+   "LIBELLE": "Troubles neurologiques à type de somnolence.narcose. coma",
+   "EXAMEN": "Examens spécialisés (neurologie…)"
+ },
+ {
+   "TABLEAU_MP": "015B",
+   "LIBELLE": "Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "015B",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "016A",
+   "LIBELLE": "Dermites eczématiformes récidivant en cas de nouvelle exposition au risque",
+   "EXAMEN": "Examens spécialisés (dermatologue , allergologue …)"
+ },
+ {
+   "TABLEAU_MP": "018A",
+   "LIBELLE": "Pustule maligne",
+   "EXAMEN": "Examens spécialisés"
+ },
+ {
+   "TABLEAU_MP": "018A",
+   "LIBELLE": "Charbon pulmonaire",
+   "EXAMEN": "Examens spécialisés"
+ },
+ {
+   "TABLEAU_MP": "018A",
+   "LIBELLE": "Charbon gastro-intestinal",
+   "EXAMEN": "Examens spécialisés"
+ },
+ {
+   "TABLEAU_MP": "018A",
+   "LIBELLE": "Oedème malin",
+   "EXAMEN": "Examens spécialisés"
+ },
+ {
+   "TABLEAU_MP": "019A",
+   "LIBELLE": "1. Manifestation primaire : erythème migrant de Lipschutz, avec ou sans signes généraux.",
+   "EXAMEN": "Examens spécialisés"
+ },
+ {
+   "TABLEAU_MP": "020A",
+   "LIBELLE": "A. Intoxication aiguë :Troubles de l'hémostase",
+   "EXAMEN": "Examens biologiques"
+ },
+ {
+   "TABLEAU_MP": "020A",
+   "LIBELLE": "A. Intoxication aiguë : Encéphalopathie",
+   "EXAMEN": "Examens spécialisés (neurologie…)"
+ },
+ {
+   "TABLEAU_MP": "020A",
+   "LIBELLE": "A. Intoxication aiguë : Vomissement. diarrhée.syndrome de cytolyse hépatique",
+   "EXAMEN": "Examens biologiques"
+ },
+ {
+   "TABLEAU_MP": "020A",
+   "LIBELLE": "A. Intoxication aiguë : Insuffisance circulatoire.troubles du rythme. arrêt circulatoire",
+   "EXAMEN": "Examens spécialisés"
+ },
+ {
+   "TABLEAU_MP": "020A",
+   "LIBELLE": "B. Effets caustiques : Kératite",
+   "EXAMEN": "Examens spécialisés (ophtalmologie)"
+ },
+ {
+   "TABLEAU_MP": "020A",
+   "LIBELLE": "C. Intoxication subaiguë : Polynévrites",
+   "EXAMEN": "Examens spécialisés (neurologie et /ouelectrophysiologie)"
+ },
+ {
+   "TABLEAU_MP": "021A",
+   "LIBELLE": "Hémoglobinurie.Ictère avec hémolyse.",
+   "EXAMEN": "Examens biologiques"
+ },
+ {
+   "TABLEAU_MP": "021A",
+   "LIBELLE": "Néphrite azotémique",
+   "EXAMEN": "Examens biologiques"
+ },
+ {
+   "TABLEAU_MP": "021A",
+   "LIBELLE": "Accidents aigus (coma), en dehors des cas considérés comme accidents du travail.",
+   "EXAMEN": "Examens spécialisés (neurologue)"
+ },
+ {
+   "TABLEAU_MP": "022A",
+   "LIBELLE": "Polynévrites et névrites, quel qu'en soit le degré,avec troubles des réactions électriques (notamment chronaximétriques).",
+   "EXAMEN": "Examens spécialisés (examen electrophysiologique …)"
+ },
+ {
+   "TABLEAU_MP": "022A",
+   "LIBELLE": "Névrite optique",
+   "EXAMEN": "Examens spécialisés (neurologie, ophtalmologie …)"
+ },
+ {
+   "TABLEAU_MP": "025A",
+   "LIBELLE": "Affections dues à l'inhalation de poussières de silice cristalline : quartz, cristobalite, tridymite A3.- Sclérodermie systémique progressive.",
+   "EXAMEN": "Examens spécialisés (interniste, dermatologie …)"
+ },
+ {
+   "TABLEAU_MP": "026A",
+   "LIBELLE": "Troubles oculaires : Amblyopie",
+   "EXAMEN": "Examens spécialisés (ophtalmologie)"
+ },
+ {
+   "TABLEAU_MP": "026A",
+   "LIBELLE": "Troubles oculaires : Amaurose",
+   "EXAMEN": "Examens spécialisés (ophtalmologie)"
+ },
+ {
+   "TABLEAU_MP": "026A",
+   "LIBELLE": "Troubles auriculaires : Vertiges et troubles labyrinthiques",
+   "EXAMEN": "Examens spécialisés (ORL…)"
+ },
+ {
+   "TABLEAU_MP": "026A",
+   "LIBELLE": "Troubles encéphalo-médullaires : Coma",
+   "EXAMEN": "Examens spécialisés (neurologie…)"
+ },
+ {
+   "TABLEAU_MP": "027A",
+   "LIBELLE": "Amblyopie",
+   "EXAMEN": "Examens spécialisés (ophtalmologie)"
+ },
+ {
+   "TABLEAU_MP": "027A",
+   "LIBELLE": "Accidents aigus (coma, délire) en dehors des cas considérés comme accidents du travail.",
+   "EXAMEN": "Examens spécialisés (neurologie…)"
+ },
+ {
+   "TABLEAU_MP": "030A",
+   "LIBELLE": "B. Lésions pleurales bénignes avec ou sansmodifications des explorations fonctionnelles respiratoires : - pleurésie exsudative",
+   "EXAMEN": "Examens spécialisés (pneumologue…)"
+ },
+ {
+   "TABLEAU_MP": "031A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "032A",
+   "LIBELLE": "A. Manifestations locales aiguës : Oedème aigu dupoumon",
+   "EXAMEN": "Examens spécialisés (pneumologie, imagerie…)"
+ },
+ {
+   "TABLEAU_MP": "032A",
+   "LIBELLE": "B. Manifestations chroniques : Syndrome ostéoligamentaire douloureux ou non,comportant nécessairement une ostéocondensationdiffuse et associé à des calcifications des ligamentssacrosciatiques ou des membranes interosseuses, radiocubitale ou obturatrice.",
+   "EXAMEN": "Examens spécialisés (rhumatologue…)"
+ },
+ {
+   "TABLEAU_MP": "033A",
+   "LIBELLE": "A. Manifestations locales : Dermite aiguë irritative ou eczématiforme récidivant en cas de nouvelle exposition au risque.",
+   "EXAMEN": "Examens spécialisés (dermatologue , allergologue …)"
+ },
+ {
+   "TABLEAU_MP": "033A",
+   "LIBELLE": "Bronchopneumopathie aiguë ou subaiguë diffuse avec apparition retardée de signes radiologiques le plus souvent discrets.",
+   "EXAMEN": "Examens spécialisés (imagerie pulmonaire)"
+ },
+ {
+   "TABLEAU_MP": "036A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "036A",
+   "LIBELLE": "C- Insuffisance respiratoire liée à un granulome pulmonaire confirmé médicalement ou à une pneumopathie dont la relation avec l'huile minérale ou la paraffine est confirmée par la présence au seindes macrophages alvéolaires de vacuoles intracytoplasmiques prenant les colorations usuellesdes lipides.",
+   "EXAMEN": "Examens spécialisés (pneumologue…)"
+ },
+ {
+   "TABLEAU_MP": "037A",
+   "LIBELLE": "Dermites eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "037B",
+   "LIBELLE": "Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "038A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "041A",
+   "LIBELLE": "Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "041A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "043A",
+   "LIBELLE": "Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "043A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "047A",
+   "LIBELLE": "Conjonctivite récidivant en cas de nouvelle exposition ou confirmée par un test",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "047A",
+   "LIBELLE": "Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "047A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "049A",
+   "LIBELLE": "Dermites eczématiformes confirmées par des testsépicutanés ou par la récidive à une nouvelle exposition",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "049B",
+   "LIBELLE": "Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "050A",
+   "LIBELLE": "Anémie de type hémolytique",
+   "EXAMEN": "Examens biologiques"
+ },
+ {
+   "TABLEAU_MP": "050A",
+   "LIBELLE": "Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "050A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "051A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "052A",
+   "LIBELLE": "Syndrome d'hypertension portale spécifique : - soit avec varices œsophagiennes, splénomégalie et thrombocytopénie ; - soit avec fibrose ou dysplasie des cellules endothéliales.",
+   "EXAMEN": "Examens spécialisés (gastroenterologue…)"
+ },
+ {
+   "TABLEAU_MP": "054A",
+   "LIBELLE": "Toutes manifestations de la poliomyélite antérieure aiguë.",
+   "EXAMEN": "Examens spécialisés (neurologie, biologie)"
+ },
+ {
+   "TABLEAU_MP": "056A",
+   "LIBELLE": "Toutes manifestations de la rage",
+   "EXAMEN": "Examens spécialisés"
+ },
+ {
+   "TABLEAU_MP": "056A",
+   "LIBELLE": "Affections imputables à la séro ou vaccinothérapie antirabique",
+   "EXAMEN": "Examens spécialisés"
+ },
+ {
+   "TABLEAU_MP": "059A",
+   "LIBELLE": "Polynévrites, avec troubles des réactionsélectriques.",
+   "EXAMEN": "Examens spécialisés (examen electrophysiologique …)"
+ },
+ {
+   "TABLEAU_MP": "061A",
+   "LIBELLE": "Néphropathie avec protéinurie",
+   "EXAMEN": "Examens spécialisés ( biologie urinaire)"
+ },
+ {
+   "TABLEAU_MP": "062A",
+   "LIBELLE": "Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "062A",
+   "LIBELLE": "Pneumopathie interstitielle aiguë ou subaiguë d’hypersensibilité objectivée par : – des signes respiratoires (toux, dyspnée) et/ou des signes généraux ; – des signes radiographiques et/ou tomodensitométriques compatibles, lorsqu’ilsexistent ; – une diminution de la DLCO ou une hypoxie d’effort ; – des signes immunologiques significatifs : présence d’anticorps précipitants dans le sérum contre l’agent pathogène présumé responsable ou, à défaut, lymphocytose au lavage broncho-alvéolaire.",
+   "EXAMEN": "Examens spécialisés (pneumologue…)"
+ },
+ {
+   "TABLEAU_MP": "062A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "062A",
+   "LIBELLE": "Pneumopathie d’hypersensibilité chronique avecaltération des explorations fonctionnelles respiratoires (trouble ventilatoire restrictif ouobstructif), signes radiologiques compatibles et signes immunologiques significatifs : présenced’anticorps précipitants dans le sérum contre l’agent pathogène présumé responsable ou, à défaut, lymphocytose au lavage broncho-alvéolaire.",
+   "EXAMEN": "Examens spécialisés (pneumologue…)"
+ },
+ {
+   "TABLEAU_MP": "063A",
+   "LIBELLE": "Conjonctivite aiguë bilatérale récidivant en cas de nouvelle exposition ou confirmée par un test",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "063A",
+   "LIBELLE": "Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "063A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "065A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané positif au produit manipulé.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "066A",
+   "LIBELLE": "Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "066A",
+   "LIBELLE": "Insuffisance respiratoire chronique secondaire à la maladie asthmatique",
+   "EXAMEN": "Examens spécialisés (pneumologie)"
+ },
+ {
+   "TABLEAU_MP": "070A",
+   "LIBELLE": "Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test spécifique",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "070A",
+   "LIBELLE": "Insuffisance respiratoire chronique obstructive secondaire à la maladie asthmatique",
+   "EXAMEN": "Examens spécialisés (pneumologie)"
+ },
+ {
+   "TABLEAU_MP": "070A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané positif spécifique",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "070B",
+   "LIBELLE": "Syndrome respiratoire irritatif à type de toux et de dyspnée récidivant après nouvelle exposition au risque.",
+   "EXAMEN": "Examens spécialisés (pneumologue…)"
+ },
+ {
+   "TABLEAU_MP": "070B",
+   "LIBELLE": "Broncho-alvéolite aigüe ou subaigüe avec signesgénéraux",
+   "EXAMEN": "Examens spécialisés (pneumologie)"
+ },
+ {
+   "TABLEAU_MP": "071A",
+   "LIBELLE": "Cataracte",
+   "EXAMEN": "Examens spécialisés (ophtalmologie)"
+ },
+ {
+   "TABLEAU_MP": "072A",
+   "LIBELLE": "Douleurs précordiales à type d'angine de poitrine,ischémie myocardique aiguë, infarctus dumyocarde survenant au cours d'une période de quatre jours suivant un arrêt de l'exposition à l'agent toxique.",
+   "EXAMEN": "Examens spécialisés (cardiologue…)"
+ },
+ {
+   "TABLEAU_MP": "072A",
+   "LIBELLE": "Douleurs précordiales à type d'angine de poitrine,ischémie myocardique aiguë, infarctus dumyocarde survenant au cours d'une période de quatre jours suivant un arrêt de l'exposition à l'agent toxique.",
+   "EXAMEN": "Examens spécialisés (cardiologue…)"
+ },
+ {
+   "TABLEAU_MP": "073A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque",
+   "EXAMEN": "Examens spécialisés (dermatologue , allergologue …)"
+ },
+ {
+   "TABLEAU_MP": "074A",
+   "LIBELLE": "Conjonctivite récidivant en cas de nouvelle exposition .",
+   "EXAMEN": "Examens spécialisés (ophtalmologue…)"
+ },
+ {
+   "TABLEAU_MP": "074A",
+   "LIBELLE": "Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "074A",
+   "LIBELLE": "Dermites eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "075A",
+   "LIBELLE": "Oedème pulmonaire",
+   "EXAMEN": "Examens spécialisés ( pneumologie, imagerie…)"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "M. - Infections à Herpes virus varicellae Varicelle et ses complications : - complications de la phase aiguë : septicémie,encéphalite, neuropathie périphérique, purpura thrombopénique, pneumopathie spécifique,varicelle grave généralisée ;",
+   "EXAMEN": "Examens spécialisés"
+ },
+ {
+   "TABLEAU_MP": "076A",
+   "LIBELLE": "M. - Infections à Herpes virus varicellae Varicelle et ses complications : - complications dues à l'infection chronique par le  virus : zona et ses manifestations cutanée,auriculaire, ophtalmique, méningée, neurologique périphérique, algies post-zostériennes chez une personne ayant été atteinte antérieurement d'une varicelle.",
+   "EXAMEN": "Examens spécialisés"
+ },
+ {
+   "TABLEAU_MP": "080A",
+   "LIBELLE": "Kératite nummulaire sous-épithéliale",
+   "EXAMEN": "Examens spécialisés (ophtalmologie)"
+ },
+ {
+   "TABLEAU_MP": "080A",
+   "LIBELLE": "Kératite superficielle ulcéreuse avec conjonctivite associée",
+   "EXAMEN": "Examens spécialisés (ophtalmologie)"
+ },
+ {
+   "TABLEAU_MP": "082A",
+   "LIBELLE": "Conjonctivite récidivant en cas de nouvelle exposition au risque.",
+   "EXAMEN": "Examens spécialisés (ophtalmologue…)"
+ },
+ {
+   "TABLEAU_MP": "082A",
+   "LIBELLE": "Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "082A",
+   "LIBELLE": "Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "084A",
+   "LIBELLE": "A- Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par untest épicutané.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ },
+ {
+   "TABLEAU_MP": "084A",
+   "LIBELLE": "A- Syndrome narcotique pouvant aller jusqu’aucoma",
+   "EXAMEN": "Examens spécialisés (neurologie…)"
+ },
+ {
+   "TABLEAU_MP": "088A",
+   "LIBELLE": "Rouget du porc : Forme cutanée simple : placard érysipéloïde (en dehors des cas considérés comme accidents du travail). Formes cutanées chroniques, à rechute",
+   "EXAMEN": "Examens spécialisés"
+ },
+ {
+   "TABLEAU_MP": "088A",
+   "LIBELLE": "Rouget du porc : formes septicémiquescomplications endocarditiques, intestinales.",
+   "EXAMEN": "Examens spécialisés"
+ },
+ {
+   "TABLEAU_MP": "088A",
+   "LIBELLE": "Rouget du porc : Forme cutanée associée à une monoarthrite ou à une polyarthrite loco-régionale.",
+   "EXAMEN": "Examens spécialisés"
+ },
+ {
+   "TABLEAU_MP": "095A",
+   "LIBELLE": "Lésions eczématiformes ayant récidivé après nouvelle exposition au risque ou confirmées par untest épicutané positif.",
+   "EXAMEN": "Examens spécialisés avec résultat des tests spécifiques"
+ }
+]
+}
