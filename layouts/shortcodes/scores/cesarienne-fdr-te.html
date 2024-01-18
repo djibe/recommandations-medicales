@@ -1,0 +1,118 @@
+<div class="card-body" id="score-cesarienne-fdr">
+  <p>Décider d’une thromboprophylaxie après césarienne en l’absence de facteur de risque thromboembolique majeur
+    selon le <dfn><abbr title="Collège National des Gynécologues et Obstétriciens Français">CNGOF</abbr></dfn> 2015.</p>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-age" class="custom-control-input" value="1.4">
+    <label class="custom-control-label" for="check-age">Âge ≥ 35 ans</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-weight" class="custom-control-input" value="4">
+    <label class="custom-control-label" for="check-weight">Obésité ou poids &gt; 120 kg</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-pregnancy" class="custom-control-input" value="2">
+    <label class="custom-control-label" for="check-pregnancy">Parité &gt; 3</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-tobacco" class="custom-control-input" value="3">
+    <label class="custom-control-label" for="check-tobacco">Tabagisme</label>
+    <p class="typography-caption text-black-secondary">+10 cig/j avant la grossesse ou persistant après.</p>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-varicose" class="custom-control-input" value="2">
+    <label class="custom-control-label" for="check-varicose">Varices importantes</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-sickle" class="custom-control-input" value="4">
+    <label class="custom-control-label" for="check-sickle">Drépanocytose</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-cardiopathy" class="custom-control-input" value="7">
+    <label class="custom-control-label" for="check-cardiopathy">Cardiopathie majeure</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-lupus" class="custom-control-input" value="8">
+    <label class="custom-control-label" for="check-lupus">Lupus érythémateux disséminé</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-ibd" class="custom-control-input" value="4">
+    <label class="custom-control-label" for="check-ibd">Maladie inflammatoire de l’intestin</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-thrombophilia" class="custom-control-input" value="3">
+    <label class="custom-control-label" for="check-thrombophilia">Thrombophilie asymptomatique à bas risque</label>
+    <p class="typography-caption text-black-secondary">FV ou prothrombine hétérozygote, déficit en protéine C ou S.</p>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-anemia" class="custom-control-input" value="3">
+    <label class="custom-control-label" for="check-anemia">Anémie ou hémorragie pendant la grossesse</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-map" class="custom-control-input" value="4">
+    <label class="custom-control-label" for="check-map">Grossesse obtenue en AMP</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-preeclampsia" class="custom-control-input" value="3">
+    <label class="custom-control-label" for="check-preeclampsia">Prééclampsie</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-preeclampsia-severe" class="custom-control-input" value="4">
+    <label class="custom-control-label" for="check-preeclampsia-severe">Prééclampsie grave ou avec RCIU</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-multiple" class="custom-control-input" value="4">
+    <label class="custom-control-label" for="check-multiple">Grossesse multiple</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-delivery" class="custom-control-input" value="3">
+    <label class="custom-control-label" for="check-delivery">Accouchement avant 37 SA</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-emergency" class="custom-control-input" value="3">
+    <label class="custom-control-label" for="check-emergency">Césarienne en urgence</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-hemorrhage" class="custom-control-input" value="3">
+    <label class="custom-control-label" for="check-hemorrhage">Hémorragie grave du post-partum</label>
+    <p class="typography-caption text-black-secondary">Saignement &gt; 1 L et/ou transfusion.</p>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-infection" class="custom-control-input" value="4">
+    <label class="custom-control-label" for="check-infection">Infection du post-partum</label>
+  </div>
+</div>
+<div class="alert bg-light d-md-flex">
+  <div class="d-flex flex-column align-items-center">
+    <p class="typography-overline score-output-title">Odds Ratio</p>
+    <output class="score-output" id="cesarScore">0</output>
+  </div>
+  <p id="cesarFdrText" class="lead m-auto">Risque thrombotique faible<br>Pas d’antithrombotique</p>
+</div>
+<blockquote class="blockquote">
+  <p><a href="https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2015/2015-RPC-POSTPARTUM.pdf?x13417" rel="external nofollow noopener">CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.</a></p>
+</blockquote>
+{{ $script := `
+  // Score Thrombophylaxis after cesarean section by djibe
+  window.addEventListener( 'load', event => {
+    const textCesarRf = document.getElementById('cesarFdrText')
+    const scoreCesarRf = document.getElementById('cesarScore');
+    [...document.querySelectorAll('#score-cesarienne-fdr input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcCesarFdr() ) })
+    const calcCesarFdr = () => {
+      let score = 1
+      const elemsChecked = document.querySelectorAll('#score-cesarienne-fdr input[type=\"checkbox\"]:checked');
+      elemsChecked.forEach(elemChecked => {
+        score *= parseFloat(elemChecked.value)
+        scoreCesarRf.innerHTML = score
+        if (score >= 10) {
+          textCesarRf.innerHTML = 'HBPM à dose préventive pendant 7-14 jours<br>Risque thromboembolique &gt; 3%'
+        } else {
+          textCesarRf.innerHTML = 'Risque thrombotique faible<br>Pas d’antithrombotique'
+        }
+      })
+      if (elemsChecked.length === 0) {
+        scoreCesarRf.innerHTML = 0
+        textCesarRf.innerHTML = "Risque thrombotique faible<br>Pas d’antithrombotique"
+      }
+    }
+  })` }}
+<script type="module">{{ $script | safeJS }}</script>

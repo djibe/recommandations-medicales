@@ -157,7 +157,7 @@ L'imagerie n'est pas suffisante pour déterminer l'étiologie. La **biopsie hép
 
 L'alpha-fœtoprotéine relève du bilan d'extension une fois le carcinome hépatocellulaire prouvé.
 
-Par ailleurs l'alpha-fœtoprotéine n'est plus utilisée pour le dépistage semestriel du CHC chez le patient cirrhotique (voir *Dépistage*). Pourtant les généralistes ont prescrit pour 2,48 millions d'euros d'examens en 2020 (*Open SNDS*).
+Par ailleurs l'alpha-fœtoprotéine n'est plus utilisée pour le dépistage semestriel du CHC chez le patient cirrhotique (voir *Dépistage*). Pourtant les généralistes ont prescrit pour 2,48 millions d'euros d'examens en 2020 (*Open Bio*).
 
 {{% /collapse %}}
 {{%collapse "Dépistage du CHC" %}}

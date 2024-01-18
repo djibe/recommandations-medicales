@@ -89,7 +89,7 @@ Signes et symptômes devant faire rechercher un cancer de la thyroïde:
   Risque de malignité plus élevé: dur, évolutif, fixé, homme, avant 20 ans et après 60 ans.
 - Goitre
 - Adénopathie cervicale latérale ferme et évolutive
-- Signe de compression: dysphonie, dysphagie, dyspnée
+- Signes de compression: dysphonie, dysphagie, dyspnée
 - Métastases: lésions secondaires pulmonaires, douleur, fracture pathologique
 - CMT: flushs, diarrhées
 - Analyse génétique familiale

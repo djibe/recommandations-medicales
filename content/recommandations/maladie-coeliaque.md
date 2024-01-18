@@ -325,6 +325,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Arnold MJ. Diagnosis and Management of Celiac Disease: Guidelines From the American College of Gastroenterology. Am Fam Physician. 2024.](https://pubmed.ncbi.nlm.nih.gov/38227887/)
 [Lengliné H, Fabre A. Diagnostic de la maladie coeliaque chez l'enfant. 07/06/2022.](https://pap-pediatrie.fr/hepato-gastro/diagnostic-de-la-maladie-coeliaque-chez-lenfant)
 
 {{%/sources%}}

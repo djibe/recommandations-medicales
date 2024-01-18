@@ -44,7 +44,7 @@ Tabagisme
 Le tabagisme est la deuxième cause de mortalité mondiale (5,1 millions de décès/an) et la première cause évitable de mortalité.
 : **Notes:** Ne pas utiliser les termes bien/mal mais plutôt bon/mauvais pour la santé. Rappeler que l'arrêt du tabac n'est pas une question de volonté mais qu'il s'agit d'une addiction nécessitant le suivi d'un professionnel.
 
-> << Il n'existe pas de seuil au-dessous duquel fumer ne représente pas de risque >> (*SPF*)
+> << Il n'existe pas de seuil au-dessous duquel fumer ne représente pas de risque >> – *SPF*
 
 Fumeur actif
 : Fumeur non sevré depuis 12 mois (*Collège*).
@@ -364,9 +364,9 @@ Possible en cas d'antécédents neuro-psychiatriques.
 
 Injonctions paradoxales pour le généraliste:
 
-- << Les connaissances fondées sur les preuves sont insuffisantes pour proposer les SEDEN comme aides au sevrage tabagique dans la prise en charge des fumeurs par les professionnels de santé >> (*HCSP 2022*)
+- << Les connaissances fondées sur les preuves sont insuffisantes pour proposer les SEDEN comme aides au sevrage tabagique dans la prise en charge des fumeurs par les professionnels de santé >> – *HCSP 2022*
 - << La cigarette électronique peut être considérée comme une aide au sevrage tabagique (*Collège*) >>
-- << les CE [NDLR cigarettes électroniques] avec nicotine aident plus de personnes à arrêter de fumer que les TSN. Les CE avec nicotine aident probablement plus de personnes à arrêter de fumer que les CE sans nicotine, mais d'autres études sont encore nécessaires pour le confirmer. >> (*Cochrane 2022*)
+- << les CE [NDLR cigarettes électroniques] avec nicotine aident plus de personnes à arrêter de fumer que les TSN. Les CE avec nicotine aident probablement plus de personnes à arrêter de fumer que les CE sans nicotine, mais d'autres études sont encore nécessaires pour le confirmer. >> – *Cochrane 2022*
 {.alert .alert-info}
 
 Synthèse des 13 recommandations du *Haut Conseil de la Santé Publique* pour la prise en charge par cigarette électronique (SEDEN) du sevrage tabagique (les 5 premières nous concernent):

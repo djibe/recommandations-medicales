@@ -17,12 +17,12 @@ icd10 = ""
 draft = true
 image = false
 imageSrc = ""
-todo = ""
+todo = "descr > summary > liens > photo > newsletter > flow"
 +++
 
 {{%article-summary%}}
 
-
+TODO:
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -55,7 +55,12 @@ Renouvellement possible tous les 3 mois après la prescription initiale de 10 se
 {{% /collapse %}}
 {{%sources%}}
 
-<https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/brochure/le-guide-de-l-allaitement-maternel>
+### Bibliographie en attente
+
+- [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2015/2015-RPC-POSTPARTUM.pdf?x13417)
+- CNGOF allaitement
+- Collège
+- <https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/brochure/le-guide-de-l-allaitement-maternel>
 
 {{%/sources%}}
 

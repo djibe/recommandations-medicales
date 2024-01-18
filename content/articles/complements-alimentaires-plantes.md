@@ -23,7 +23,7 @@ De nombreux compléments alimentaires à base de plantes, dont certaines utilis�
 
 L'**Anses**, l'agence de sécurité sanitaire, a ainsi rédigé pour chaque extrait de plante les précautions à connaître en général, les contre-indications et les précautions pour certaines populations (femmes enceintes, enfants).
 
-> << l'Anses rappelle une nouvelle fois que la consommation des compléments alimentaires à base de plante n'est pas sans risques. Ces produits, qui sont loin d'être anodins, peuvent entraîner des effets indésirables parfois graves, comme des allergies sévères ou des atteintes hépatiques potentiellement mortelles.>> (*Anses 2023*)
+> << l'Anses rappelle une nouvelle fois que la consommation des compléments alimentaires à base de plante n'est pas sans risques. Ces produits, qui sont loin d'être anodins, peuvent entraîner des effets indésirables parfois graves, comme des allergies sévères ou des atteintes hépatiques potentiellement mortelles.>> – *Anses 2023*
 {.alert .alert-warning}
 
 **CA =** complément alimentaire

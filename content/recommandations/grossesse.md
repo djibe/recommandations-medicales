@@ -26,7 +26,7 @@ chart = true
 *Vaste chapitre en chantier*
 
 - 0 alcool et 0 tabac pendant la grossesse, interroger à chaque consultation
-- Vaccins grippe et coqueluche à chaque grossesse et 3 doses de Covid-19
+- Vaccins grippe et coqueluche à chaque grossesse et 3 doses cumulées de Covid-19
 - [Calendrier de grossesse de GestaClic](http://gestaclic.fr/calculette.html)
 - [Nata](https://play.google.com/store/search?q=NATA&c=apps): l'appli officielle du suivi de grossesse multilingue
 - Besoins en [calcium]({{< relref "apports-calcium.md" >}}): 1 g/j (*IOF*)

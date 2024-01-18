@@ -132,4 +132,8 @@ Appel du 15 pour bilan en urgence
 - JNC7, Hypertension 2003;42:1206
 - [AFSSAPS. Poussées hypertensives de l'adulte. Recommandations. 2002. (PDF)](https://urgences-serveur.fr/IMG/pdf/hta_-_afssps2002.pdf)
 
+### Bibliographie en attente
+
+[SFMU. L'hypertension artérielle au service d'accueil des urgences (femmes enceintes et enfants de moins de 15 ans exceptés). 2006.](https://www.sfmu.org/fr/vie-professionnelle/outils-professionnels/consensus//hta-au-sau/con_id/292)
+
 {{%/sources%}}

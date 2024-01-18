@@ -31,7 +31,7 @@ L'accès est demandé au professionnel libéral concerné ou au directeur de l'�
 Le dossier médical peut être consulté sur place ou envoyé par voie postale. Les frais sont alors à la charge du demandeur.
 
 << La présence d'une tierce personne (un autre médecin par exemple) lors de la consultation de certaines informations peut être recommandée par le médecin. Elle ne peut pas être imposée, sauf dans le cas d'une personne hospitalisée en service psychiatrique, d'office ou sur demande d'un tiers.  
-Si la présence d'un tiers est recommandée, les informations sont communiquées dès que l'intéressé a exprimé son refus ou son acceptation de suivre la recommandation. >> (*Service-public*)
+Si la présence d'un tiers est recommandée, les informations sont communiquées dès que l'intéressé a exprimé son refus ou son acceptation de suivre la recommandation. >> – *Service-public*
 
 ### Accès au dossier médical par des tiers
 

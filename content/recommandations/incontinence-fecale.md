@@ -150,6 +150,7 @@ graph TB
 
 - [Assmann S et al. Guideline for the diagnosis and treatment of Faecal Incontinence - A UEG/ESCP/ESNM/ESPCG collaboration. United European Gastroenterol J. 2022.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.12213)
 - [Paquette I et al. The American Society of Colon and Rectal Surgeons' Clinical Practice Guideline for the Treatment of Fecal Incontinence. Diseases of the Colon & Rectum. 2015.](https://journals.lww.com/dcrjournal/Fulltext/2015/07000/The_American_Society_of_Colon_and_Rectal_Surgeons_.2.aspx)
+- [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2015/2015-RPC-POSTPARTUM.pdf?x13417)
 - [SNFCP. Traitements de l'incontinence fécale. Recommandations. 2012. (PDF)](https://www.snfcp.org/wp-content/uploads/2017/Recommandations/Recommandation-IA-2013.pdf)
 
 ### Bibliographie en attente

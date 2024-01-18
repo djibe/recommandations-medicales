@@ -190,6 +190,10 @@ graph TB
 - [HAS. Dégénérescence maculaire liée à l'âge. 2022.](https://www.has-sante.fr/jcms/p_3383781/fr/degenerescence-maculaire-liee-a-l-age)
 - [Collège des Ophtalmologistes Universitaires de France (COUF). Dégénérescence maculaire liée à l'âge. Chapitre 15. Item 81 et 82. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
 
+### Bibliographie en attente
+
+[Fleckenstein M et al. Age-Related Macular Degeneration: A Review. JAMA. 2024.](https://jamanetwork.com/journals/jama/article-abstract/2813768)
+
 {{%/sources%}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 

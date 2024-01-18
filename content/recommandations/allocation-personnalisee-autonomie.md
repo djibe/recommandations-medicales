@@ -8,15 +8,15 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-25T11:57:30+01:00"
 publishdate = "2021-11-25"
-lastmod = "2023-10-27"
+lastmod = "2024-01-17"
 specialites = ["social"]
-annees = "2023"
+annees = "2024"
 sources = ["Service-Public"]
 tags = ["geriatrie"]
 anglais = []
 sctid = ""
 image = true
-imageSrc = "Illustration de l'Allocation Personnalisée d'Autonomie (APA) par storyset / Freepik"
+imageSrc = "L'Allocation Personnalisée d'Autonomie (APA). storyset / Freepik"
 +++
 
 {{%article-summary%}}

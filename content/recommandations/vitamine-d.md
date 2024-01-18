@@ -176,7 +176,7 @@ et aussi
 
 En dehors des 6 indications (+ suppléments), préciser sur l'ordonnance la raison.  
 En dosage de complaisance, préciser << Non remboursable >> sur la prescription (9,45€, code B35).  
-{{%class%}}92 millions d'euros de dosages de vitamine D en 2011{{%/class %}}
+{{%class%}}36 millions d'euros de dosages de vitamine D en 2020{{%/class %}}
 
 {{% /collapse %}}
 {{%collapse "Protocoles de correction d'une carence en vitamine D" %}}

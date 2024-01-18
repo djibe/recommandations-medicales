@@ -307,7 +307,7 @@ Informer et traiter les risques liés à chaque atteinte:
 Anorexie-Boulimie Info {{<phone>}}0 810 037 037{{</phone>}} et [Association Autrement](https://www.anorexie-et-boulimie.fr/).  
 Autres ressources: Fédération FNA-TCA {{<phone>}}06 87 41 86 66{{</phone>}}, [guides FFAB](https://www.ffab.fr/trouver-de-l-aide/livres) et [annuaire des centres FFAB](https://www.ffab.fr/trouver-de-l-aide/annuaire-2021).
 
-> << Il n'est jamais trop tard pour consulter : la guérison est toujours possible même après plusieurs années d'évolution des troubles >> (*HAS 2019*)
+> << Il n'est jamais trop tard pour consulter : la guérison est toujours possible même après plusieurs années d'évolution des troubles >> – *HAS 2019*
 {.alert .alert-info}
 
 - Alimentation saine et comportement alimentaire pour la santé

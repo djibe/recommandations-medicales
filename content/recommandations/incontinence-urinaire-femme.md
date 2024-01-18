@@ -122,13 +122,13 @@ Mesures hygiéno-diététiques adaptées à l'incontinence urinaire:
 
 La **rééducation périnéale** par renforcement des muscles du plancher pelvien est réalisée par une sage-femme ou un kinésithérapeute (10 à 20 séances). Renouvelables si efficaces.
 
-Indications: incontinence urinaire d'effort ou mixte, incontinence urinaire pré et postnatale.
+Indications: incontinence urinaire d'effort ou mixte, incontinence urinaire pré et postnatale (persistante à 3 mois).
 
 La rééducation est possible durant la grossesse.
 
 Rééducation comportementale en cas d'urgenturie prédominante.
 
-> << Le résultat de l'électrostimulation vaginal dans l'incontinence urinaire d'effort chez la femme semble d'effet limité >> (CNGOF 2009)
+> << Le résultat de l'électrostimulation vaginale dans l'incontinence urinaire d'effort chez la femme semble d'effet limité >> – *CNGOF 2009*
 
 ### Traitements médicamenteux de l'incontinence urinaire
 
@@ -162,6 +162,7 @@ graph TB
 
 - Prescrire Redaction. Patients ayant une incontinence d'urine. Rev Prescrire. 2023.
 - [Collège Français des Enseignants en Urologie (CFEU). Incontinence urinaire de l'adulte et du sujet âgé. Référentiel du collège d'urologie 5ème édition. 2021.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/chapitre-07-incontinence-urinaire-de-ladulte-et-du-sujet-age/)
+- [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2015/2015-RPC-POSTPARTUM.pdf?x13417)
 - [CNGOF. Diagnostic et prise en charge de l'incontinence urinaire de la femme adulte. Recommandations pour la pratique clinique. 2009.](https://cngof.fr/app/uploads/2023/06/RPC-INCONTINENCE_2009.pdf?x72671)
 - [Anaes. Prise en charge de l'incontinence urinaire de la femme en médecine générale. 2003.](https://www.has-sante.fr/jcms/c_272291/fr/prise-en-charge-de-l-incontinence-urinaire-de-la-femme-en-medecine-generale-actualisation-2003)
 

@@ -58,7 +58,7 @@ Les complications sont locales voire générales:
   - Chorée de Sydenham
   - Scarlatine par atteinte toxinique voire choc toxique streptococcique
 
-> << Les angines à SGA évoluent le plus souvent favorablement en 3-4 jours même en l'absence de traitement antibiotique. Cependant, elles peuvent donner lieu à des complications potentiellement graves (syndromes post-streptococciques: rhumatisme articulaire aigu (RAA), glomérulonéphrite aiguë (GNA), et complications septiques loco-régionales dont la prévention justifie la mise en œuvre d'une antibiothérapie. >> (*Collège*)
+> << Les angines à SGA évoluent le plus souvent favorablement en 3-4 jours même en l'absence de traitement antibiotique. Cependant, elles peuvent donner lieu à des complications potentiellement graves (syndromes post-streptococciques: rhumatisme articulaire aigu (RAA), glomérulonéphrite aiguë (GNA), et complications septiques loco-régionales dont la prévention justifie la mise en œuvre d'une antibiothérapie. >> – *Collège*
 
 ### Épidémiologie de l'angine en France
 
