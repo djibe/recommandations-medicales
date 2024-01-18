@@ -61,7 +61,7 @@ Des examens sont requis pour la reconnaissance de certaines maladies professionn
   // Anses
 window.addEventListener('load', () => {
   $(function () {
-    $('#table-mp"').DataTable({
+    $('#table-mp').DataTable({
       ajax: '/data/maladie-professionnelle.json',
       columns: [
         { data: 'TABLEAU_MP' },

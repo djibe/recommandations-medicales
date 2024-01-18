@@ -172,8 +172,7 @@ Toutes les chimioprophylaxies antipaludiques disponibles en France sont possible
 | Vitamine K1 (Phytoménadione) | Déconseillée |
 {{< /table >}}
 
-> **Possible:** sous respect des doses maximales  
-Détail dans le document de l'*ANSM*
+> **Possible:** en respectant les doses maximales. Détail dans le document de l'*ANSM*
 
 {{% /collapse %}}
 {{%collapse "Traitement du déficit en G6PD" %}}

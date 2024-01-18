@@ -121,9 +121,11 @@ HBPM dose préventive pendant 7 à 14 jours (6 semaines si facteurs multiples):
   - Ne permet pas de traiter un prolapsus ou des dyspareunies
 - Dépression postnatale
   - Blues du post-partum (50-80 %): survient les premiers jours, transitoire et résolution spontanée sous 10 jours. Sévère à risque de transformation en dépression
-  - Dépistage clinique (13 %), voire échelle EPDS
+  - Dépistage clinique (13 %), voire échelle EPDS, troubles anxieux (13%)
+  - Visite à domicile, soutien téléphonique, psychothérapie
   - Évaluation des facteurs de risque psycho-sociaux ++
-  - Tabac déconseillé, alcool
+  - Risque de récidive élevé aux grossesses suivantes
+- Tabac déconseillé, alcool
 - Infection de cicatrice périnéale: atb large spectre et soins locaux
 - Hypertension artérielle du post-partum ou prééclampsie: prescription antihypertenseurs identique à l'HTA gravidique
 - Information de la mère: [Ameli](https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne/suivi-domicile), Appli 1000 premiers jours
