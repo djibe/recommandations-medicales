@@ -113,7 +113,7 @@ Après 50 ans, la borne des D-dimères est à 10x l'âge {{%class%}}(ex. 700 à 
   - Ne pas poursuivre les investigations
 - D-dimères anormaux: écho-doppler veineux
 
-Autres situations où les d-dimères sont augmentés (*SFMV 2021*): état inflammatoire (traumatisme, hématome, post-opératoire, maladie inflammatoire, sepsis), [cancer](/tags/cancer/), malformation vasculaire, CIVD, âge, grossesse et post-partum.
+Autres situations où les d-dimères sont augmentés (*SFMV 2021*): état inflammatoire (traumatisme, hématome, post-opératoire, maladie inflammatoire, sepsis), [cancer](/tags/cancer/), malformation vasculaire, CIVD, âge, [grossesse]({{< relref "grossesse.md" >}}) et [post-partum]({{< relref "post-partum.md" >}}).
 
 ### Écho-doppler veineux
 

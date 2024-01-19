@@ -323,7 +323,7 @@ Promouvoir les substituts nicotiniques pour tous afin de réduire la consommatio
 - Si besoin appliquer plusieurs patchs  
   En cas d'intolérance cutanée, changer de site tous les jours ou changer de marque.
 - Possibles dès 15 ans, aucune limitation pendant la grossesse
-- Promouvoir en post-partum afin de réduire le nombre élevé de rechutes (80% dans l'année)
+- Promouvoir en [post-partum]({{< relref "post-partum.md" >}}) afin de réduire le nombre élevé de rechutes (80% dans l'année)
 - Arrêt du tabac immédiat préconisé mais une réduction progressive sous TNS est possible
 - Peuvent être prescrits par les infirmiers
 

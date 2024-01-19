@@ -52,7 +52,7 @@ Les primes du volet 2 ne sont accessibles que lorsque l'ensemble des points du V
 - ~~Taux de dématérialisation DMT ≥ 90% | 22,5 pts - 157,5€~~
 - Taux de dématérialisation SPE ≥ 90% | 22,5 pts - 157,5€
 - Implication dans des soins coordonnés (MSP, ESP, CPTS, RCP ...) | 120 pts - 840€
-- TODO: Capacité à coder et requêter sur des données médicales pour alimenter ou produire des registres par exemple | 50 pts - 350€
+- Capacité à coder et requêter (ex antécédents CIM-10) | 50 pts - 350€
 - TODO: Services pour parcours complexes (personnel ou prestataire, médico-sociale) | 70 pts - 490€
 - Étudiant en médecine niveau 1 | 50 pts - 350€
 - Équipement pour téléconsultation sécurisée | 50 pts - 350€

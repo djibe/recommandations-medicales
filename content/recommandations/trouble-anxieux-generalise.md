@@ -247,7 +247,7 @@ Indications à la consultation psychiatrique (non exhaustif):
 
 - Adolescent ou jeune adulte
 - Diagnostic incertain
-- Situation de fragilité (grossesse, post-partum)
+- Situation de fragilité ([grossesse]({{< relref "grossesse.md" >}}), [post-partum]({{< relref "post-partum.md" >}}))
 - Anxiété sévère
 - Comorbidités psychiatrique
 - Résistance au traitement

@@ -48,7 +48,7 @@ L'hypothyroïdie atteint 1 à 2% de la population, dont ⅔ de femmes et 10% des
 
 ### Facteurs favorisants l'hypothyroïdie
 
-- Post-partum
+- [Post-partum]({{< relref "post-partum.md" >}})
 - Antécédents personnels ou familiaux auto-immuns (ex. [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}))
 - Irradiation cervicale
 - Trisomie 21 et Syndrome de Turner
@@ -78,8 +78,8 @@ Pathologies responsables d'hypothyroïdie, le plus souvent par insuffisance thyr
 - Thyroïdite transitoire  
   Thyrotoxicose pauci-symptomatique puis hypothyroïdie séquellaire dans 20% des cas.
 - Thyroïdite du post-partum
-  - Fréquente (5-10% des femmes), survient dans l'année, surtout si diabète type 1 ou taux élevés d'anticorps antithyroïdiens au 1er trimestre. Récidive dans 70% des cas à la grossesse suivante
-  - Souvent transitoire (70%), contrôle TSH à 1 an
+  - Fréquente (5-10 % des femmes), survient dans l'année, surtout si diabète type 1 ou taux élevés d'anticorps antithyroïdiens au 1er trimestre. Récidive dans 70 % des cas à la grossesse suivante
+  - Souvent transitoire (70 %), contrôle TSH à 1 an
   - Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le 2e mois post-partum (reprise rapide du poids normal, nervosité)
 - Autres causes
   - Hypothyroïdie centrale (hypothyroïdie secondaire par **insuffisance thyréotrope**)  

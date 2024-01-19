@@ -479,8 +479,8 @@ Particularités de l'hypertension artérielle pendant la grossesse:
 - Traiter si ≥ 140/90 mmHg
 - Tension cible < 140/90 mmHg
 - Définitions
-  - HTA pré-existante: précède la grossesse ou apparaît avant 20 semaines de grossesse, persiste > 6 semaines post-partum ± protéinurie
-  - HTA gestationnelle: apparaît après 20 semaines de grossesse et se résout généralement dans les 6 semaines post-partum
+  - HTA pré-existante: précède la grossesse ou apparaît avant 20 semaines de grossesse, persiste > 6 semaines [post-partum]({{< relref "post-partum.md" >}}) ± protéinurie
+  - **Hypertension artérielle gestationnelle**: apparaît **après 20 semaines** de grossesse et se résout généralement dans les 6 semaines post-partum
   - HTA pré-existante avec HTA gestationnelle surajoutée avec protéinurie
   - [Pré-éclampsie]({{< relref "pre-eclampsie.md" >}}): HTA gravidique avec protéinurie
   - Hypertension anténatale non classifiée: découverte après 20 semaines de grossesse sans connaissance de valeurs pré-gestationnelles. La surveillance après 6 semaines du post-partum aide au diagnostic rétrospectif.

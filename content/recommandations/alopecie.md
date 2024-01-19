@@ -21,7 +21,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'alopécie est la raréfaction ou la disparition des cheveux. Les Principales causes sont l'alopécie androgénétique, la pelade et l'effluvium télogène (post-partum, chirurgie, stress aigu)
+- L'alopécie est la raréfaction ou la disparition des cheveux. Les principales causes sont l'alopécie androgénétique, la pelade et l'effluvium télogène ([post-partum]({{< relref "post-partum.md" >}}), chirurgie, stress aigu)
 - Connaître la physiologie de la pousse des cheveux pour l'expliquer au patient
 - L'examen clinique bien conduit est essentiel pour déterminer la cause de l'alopécie
 - Les examens complémentaires sont ciblés lors de situations spécifiques
@@ -72,7 +72,7 @@ Principales étiologies d'une alopécie:
 
 - **Effluvium télogène**
   - Alopécie diffuse sur cuir chevelu sain
-  - Souvent dans les 2 mois suivants: **post-partum**, chirurgie, fièvre élevée ou infections, maladie inflammatoire, médicaments
+  - Souvent dans les 2 mois suivants: **[post-partum]({{< relref "post-partum.md" >}})**, chirurgie, fièvre élevée ou infections, maladie inflammatoire, médicaments
   - Physiologique en automne/printemps. **Rassurer**.
 - **Alopécie androgénétique**
   - Progressive, localisée aux zones androgéniques fronto-temporales et vertex avec calvitie (échelles [Hamilton-Norwood I–VII](https://fr.wikipedia.org/wiki/%C3%89chelle_de_Hamilton-Norwood#/media/Fichier:Partial_Norwood_scale_for_male_pattern_baldness.png), Ludwig I–III, Christmas tree pattern I–III)

@@ -168,6 +168,7 @@ graph TB
 
 ### Bibliographie en attente
 
-[Harding CK et al. EAU guidelines on management of non-neurogenic female lower urinary tract symptoms. 2023.](https://uroweb.org/guidelines/non-neurogenic-female-luts)
+- [Harding CK et al. EAU guidelines on management of non-neurogenic female lower urinary tract symptoms. 2023.](https://uroweb.org/guidelines/non-neurogenic-female-luts)
+- [Okeahialam N A et al. Pelvic floor muscle training: a practical guide. BMJ. 2022.](https://www.bmj.com/content/378/bmj-2022-070186)
 
 {{%/sources%}}

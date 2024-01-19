@@ -144,7 +144,7 @@ Prise en charge recommandée pour toutes les femmes avec un diagnostic de diabè
 
 - Surveillance glycémique à jeun et post-prandiale (H2)
 - Si glycémie à jeun (GAJ) ≥ 0,95 g/L à jeun ou ≥ 1,20 g/L 2 heures après le repas pendant 7 à 10 jours malgré les mesures hygiéno-diététiques, recours à l'insulinothérapie
-- Auto-surveillance glycémique poursuivie en post-partum immédiat
+- Auto-surveillance glycémique poursuivie en [post-partum]({{< relref "post-partum.md" >}}) immédiat
 
 ### Indications à l'insuline au cours du diabète gestationnel
 
@@ -182,11 +182,11 @@ Risque de récidive de diabète gestationnel de 30 à 84%, de {{< modal-btn moda
 
 Suivi après un diabète gestationnel:
 
-- Surveillance de la normalisation des glycémies post-partum sans traitement
-- Si autres facteurs de risque cardiovasculaire: [contraception]({{< relref "contraception.md" >}}) par DIU préférable.
+- Surveillance de la normalisation des glycémies [post-partum]({{< relref "post-partum.md" >}}) sans traitement
+- Si autres facteurs de risque cardiovasculaire: [contraception]({{< relref "contraception.md" >}}) par DIU préférable
 - Information de la patiente
   - En cas de nouvelle grossesse: dépistage du diabète gestationnel
-  - Glycémie à jeun en consultation post-natale
+  - Glycémie à jeun à la consultation post-natale
   - avant nouvelle grossesse
   - et tous les 1 à 3 ans à vie
 - Mesures hygiéno-diététiques

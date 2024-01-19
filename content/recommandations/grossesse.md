@@ -17,7 +17,7 @@ sctid = "118185001"
 icd10 = ""
 image = true
 imageSrc = "Illustration de la grossesse par stories / Freepik"
-todo = "grossesse altitude, critères TSH, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
+todo = "fiche ANSM vaccins, grossesse altitude, critères TSH, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
 chart = true
 +++
 
@@ -50,6 +50,7 @@ Chapitres dédiés:
 - [Interruption volontaire de grossesse]({{< relref "interruption-volontaire-grossesse.md" >}})
 - [Mycoses pendant la grossesse]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
 - [Phlébite et score LEFt pendant la grossesse]({{< relref "thrombose-veineuse-profonde.md" >}})
+- [Post-partum]({{< relref "post-partum.md" >}})
 - [Reflux pendant la grossesse]({{< relref "reflux-gastro-oesophagien.md" >}})
 - [Syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}})
 - [Varicelle pendant la grossesse]({{< relref "varicelle.md" >}})
@@ -116,13 +117,15 @@ Prise de 0,4 à 0,8 mg/j d'acide folique (*USPTF*)
 
 ### Vaccins chez la femme enceinte
 
-Vaccins à réaliser pendant la grossesse ([fiche Vaccination]({{< relref "vaccination.md" >}})):
+Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{< relref "vaccination.md" >}})):
 
-- Covid-19 (RR de réanimation: 18)
+- Covid-19 ARNm (RR de réanimation: 18)
 - dTcaPolio à chaque grossesse entre 20 et 36 SA (BoostrixTetra, Repevax)
 - En période épidémique: grippe
 
 > {{< references/calendrier-vaccinal >}}
+
+{{< card-link-external title="Tableau Vaccins et grossesse" url="https://medqual.fr/images/VACCINEWS/OUTILS/20220427-dossier-medicament-grossesse-vaccins-tableau.pdf" subtitle="par l'ANSM" >}}
 
 {{% /collapse %}}
 {{%collapse "Prévention de l'allo-immunisation Rhésus D" %}}
@@ -229,6 +232,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 {{%sources%}}
 
 - [Ministère de la Santé. Vaccination contre le Covid-19 et maternité. 2023. (PDF)](https://sante.gouv.fr/IMG/pdf/fiche_-_vaccination_contre_le_covid-19_et_maternite.pdf)
+- [Medqual. La vaccination des femmes enceintes. VacciNews 03. 2023. (PDF)](https://medqual.fr/images/VACCINEWS/LETTRES/VACCINEWS_3.pdf)
 - [US Preventive Services Task Force, Barry MJ et al. Folic Acid Supplementation to Prevent Neural Tube Defects: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2807739)
 - [CNGOF, SFMU, SFAR. Prise en charge des urgences obstétricales en médecine d'urgence. Recommandations de Pratiques Professionnelles. 2022.](https://sfar.org/prise-en-charge-des-urgences-obstetricales-en-medecine-durgence/)
 - [CNGOF. Vaccin anti SARS-CoV-2 et grossesse 3e injection ? Avis du 17 novembre 2021. (PDF)](http://www.cngof.net/Publications-CNGOF/Pratique-clinique/COVID-19/CNGOF-GRIG-171021-3e%20dose%20vaccin%20anti%20SARS-COV2%20femmes%20enceintes.pdf)
@@ -236,7 +240,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 
 ### Bibliographie en attente
 
-- [Medqual. La vaccination des femmes enceintes. VacciNews 03. 2023. (PDF)](https://medqual.fr/images/VACCINEWS/LETTRES/VACCINEWS_3.pdf)
+- [HAS. Situations pathologiques pouvant relever de l'hospitalisation à domicile au cours de l'ante et du post-partum. 2011.](https://www.has-sante.fr/jcms/c_1066375/fr/situations-pathologiques-pouvant-relever-de-l-hospitalisation-a-domicile-au-cours-de-l-ante-et-du-post-partum)
 - [Boisseau N. Physical Activity During the Perinatal Period: Guidelines for Interventions During the Perinatal Period from the French National College of Midwives. J Midwifery Womens Health. 2022.](https://onlinelibrary.wiley.com/doi/10.1111/jmwh.13425)
 - [HAS. Grossesse, accouchement et suivi postnatal. Panorama.](https://www.has-sante.fr/jcms/p_3286443/fr/grossesse-accouchement-et-suivi-postnatal)
 - [Service-Public. A-t-on droit à des absences liées à la grossesse dans la fonction publique ? 24/11/2023.](https://www.service-public.fr/particuliers/vosdroits/F34536)

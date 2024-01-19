@@ -92,7 +92,7 @@ Appel du {{<phone>}}15{{</phone>}} en présence d'au moins un signe parmi:
 {{% /collapse %}}
 {{%collapse "Probabilité clinique d'embolie pulmonaire" %}}
 
-+50 ans, grossesse ou post-partum = Urgences
++50 ans, grossesse ou post-partum = *Urgences*
 {.alert .alert-warning}
 
 Sauf critères de gravité ou profil cité ci-dessus, utiliser l'un de ces scores validés pour déterminer la probabilité clinique d'embolie pulmonaire.

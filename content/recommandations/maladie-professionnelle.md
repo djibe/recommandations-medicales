@@ -42,7 +42,26 @@ L'*Institut national de recherche et de sécurité pour la prévention des accid
 Des pathologies peuvent être prises en charge sans être inscrites aux Tableaux (maladies hors tableaux).
 
 {{% /collapse %}}
-{{%collapse "Examens nécessaires pour la reconnaissance des maladies professionnelles" %}}
+{{%collapse "Déclarer une maladie professionnelle" %}}
+
+1. Évoquer une maladie professionnelle (MP) devant toute pathologie
+2. Rechercher les critères de prise en charge de la pathologie au [Tableau](https://www.inrs.fr/publications/bdd/mp.html) (voir *Tableaux des maladies*)
+3. Affirmer la pathologie par les critères habituels: biologie, imagerie, avis spécialisé
+4. Vérifier si les examens nécessaires à la reconnaissance en maladie professionnelle ont été réalisés (voir *Examens pour la reconnaissance*)
+5. Établir le **certificat médical initial** (CMI) sur *Ameli Pro* (ou formulaire *S6909*)
+    - La date correspond à la première constatation médicale de symptômes liés à la pathologie professionnelle (même si le diagnostic est ultérieur)
+    - Pour le diagnostic, utiliser les termes du tableau des maladies professionnelles (voir *Tableaux des maladies*)
+6. Le patient complète le formulaire [cerfa 50562#03](https://www.ameli.fr/sites/default/files/formulaires/133/s6100.pdf) de **déclaration de maladie professionnelle** et joint le certificat médical initial pour les renvoyer à sa Caisse
+7. La CPAM dispose de 120 jours pour instruire le dossier et se prononcer sur la reconnaissance de la maladie professionnelle (MP)
+8. En cas d'accord, le patient présente la feuille (S 6201c) à chaque soin en rapport avec sa MP (comme pour l'accident de travail).  
+  En cas de refus, les recours sont précisés sur l'attestation de refus.
+9. Les consultations sont facturées en tiers payant total (**cocher les 2 cases AMO et AMC**) comme pour les accidents du travail. Préciser le numéro de la MP ou date de la MP.
+10. Les aggravations et guérisons de la pathologie nécessitent les mêmes compléments que les accidents du travail.
+
+{{< youtube id="R3hUzhyx0f4" title="Focus sur la déclaration en maladie professionnelle (Assurance Maladie)" >}}
+
+{{% /collapse %}}
+{{%collapse "Examens nécessaires pour la reconnaissance des maladies professionnelles" "show" %}}
 
 Des examens sont requis pour la reconnaissance de certaines maladies professionnelles. Le tableau suivant liste tous les examens nécessaires pour le bilan de ces maladies professionnelles.
 
@@ -72,25 +91,6 @@ window.addEventListener('load', () => {
   })
 })
 </script>
-
-{{% /collapse %}}
-{{%collapse "Déclarer une maladie professionnelle" %}}
-
-1. Évoquer une maladie professionnelle (MP) devant toute pathologie
-2. Rechercher les critères de prise en charge de la pathologie au [Tableau](https://www.inrs.fr/publications/bdd/mp.html) (voir *Tableaux des maladies*)
-3. Affirmer la pathologie par les critères habituels: biologie, imagerie, avis spécialisé
-4. Vérifier si les examens nécessaires à la reconnaissance en maladie professionnelle ont été réalisés (voir *Examens pour la reconnaissance*)
-5. Établir le **certificat médical initial** (CMI) sur *Ameli Pro* (ou formulaire *S6909*)
-    - La date correspond à la première constatation médicale de symptômes liés à la pathologie professionnelle (même si le diagnostic est ultérieur)
-    - Pour le diagnostic, utiliser les termes du tableau des maladies professionnelles (voir *Tableaux des maladies*)
-6. Le patient complète le formulaire [cerfa 50562#03](https://www.ameli.fr/sites/default/files/formulaires/133/s6100.pdf) de **déclaration de maladie professionnelle** et joint le certificat médical initial pour les renvoyer à sa Caisse
-7. La CPAM dispose de 120 jours pour instruire le dossier et se prononcer sur la reconnaissance de la maladie professionnelle (MP)
-8. En cas d'accord, le patient présente la feuille (S 6201c) à chaque soin en rapport avec sa MP (comme pour l'accident de travail).  
-  En cas de refus, les recours sont précisés sur l'attestation de refus.
-1. Les consultations sont facturées en tiers payant total (**cocher les 2 cases AMO et AMC**) comme pour les accidents du travail. Préciser le numéro de la MP ou date de la MP.
-2.  Les aggravations et guérisons de la pathologie nécessitent les mêmes compléments que les accidents du travail.
-
-{{< youtube id="R3hUzhyx0f4" title="Focus sur la déclaration en maladie professionnelle (Assurance Maladie)" >}}
 
 {{% /collapse %}}
 {{%sources%}}

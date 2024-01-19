@@ -287,7 +287,7 @@ Mesures de prévention des TVP:
 - Programmes d'exercices sans quitter sa place
 - Boissons sans alcool régulières
 - Si facteur de risque de phlébite: bas mi-cuisse classe 2  
-  Facteurs de risque: antécédents personnels ou familiaux de MVTE, thrombophilie, cancer actif, grossesse ou post-partum, contraception œstroprogestative ou THM, obésité, âge avancé, tailles extrêmes, hospitalisation pour traumatisme ou anesthésie générale récente (< 4 semaines), tabac.
+  Facteurs de risque: antécédents personnels ou familiaux de MVTE, thrombophilie, cancer actif, grossesse ou [post-partum]({{< relref "post-partum.md" >}}), contraception œstroprogestative ou THM, [obésité]({{< relref "obesite-adulte.md" >}}), âge avancé, tailles extrêmes, hospitalisation pour traumatisme ou anesthésie générale récente (< 4 semaines), tabac.
 - Si risque élevé de MVTE: évaluer un anticoagulant  
   Risque élevé si: antécédent personnel de MVTE non provoquée ou liée à un voyage, chirurgie à risque (abdomen, bassin, jambes) ou traumatisme récent, cancer actif, 2 facteurs de risque.
 
@@ -296,13 +296,13 @@ Mesures de prévention des TVP:
 En cas de risque élevé de thrombo-embolie veineuse, une injection sous-cutanée 2 à 4 heures avant chaque vol long courrier.
 
 {{< table title="Principaux schémas d'anticoagulants à dose préventive pour les vols long courrier selon HCSP 2023" >}}
-| DCI   | Posologie     |
-|-------|:-------------:|
-| Daltéparine | 5000 UI |
-| Enoxaparine | 40 mg |
-| Tinzaparine | 4500 UI |
-| Nadroparine | 2500 UI |
-| Fondaparinux | 2,5 mg |
+| DCI          | Posologie |
+|--------------|:---------:|
+| Daltéparine  |  5000 UI  |
+| Enoxaparine  |   40 mg   |
+| Tinzaparine  |  4500 UI  |
+| Nadroparine  |  2500 UI  |
+| Fondaparinux |  2,5 mg   |
 {{< /table >}}
 
 ### Prévention du jet lag

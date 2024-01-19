@@ -34,7 +34,7 @@ Chapitre lié: [cancer du sein]({{< relref "cancer-sein.md" >}})
 {{%collapse "Définitions" %}}
 
 Écoulement mamelonnaire (EM)
-: Extériorisation de liquide par un ou deux mamelons. Il peut être unipore ou de plusieurs pores et avoir une couleur ou aspect variable. Il est spontané ou provoqué mais survient toujours en dehors de l'allaitement (jusqu'à 1 an) et du post-partum.
+: Extériorisation de liquide par un ou deux mamelons. Il peut être unipore ou de plusieurs pores et avoir une couleur ou aspect variable. Il est spontané ou provoqué mais survient toujours en dehors de l'allaitement (jusqu'à 1 an) et du [post-partum]({{< relref "post-partum.md" >}}).
 
 Galactorrhée
 : Une galactorrhée (écoulement de lait) est physiologique pendant ou après la grossesse et jusqu'à 1 an après la fin de l'allaitement.

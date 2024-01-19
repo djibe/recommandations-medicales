@@ -121,7 +121,7 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{<
 
 - {{< modal-btn modal-phq2 >}}Questionnaire PHQ-2{{< /modal-btn >}}
 - {{< modal-btn modal-phq4 >}}Questionnaire PHQ-4{{< /modal-btn >}} (couplé au repérage d'une anxiété – *ACP 2019*)
-- Post-partum: {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou questionnaire EPDS (Edinburgh postnatal depression scale)
+- [Post-partum]({{< relref "post-partum.md" >}}): {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou [questionnaire EPDS](https://www.hug.ch/sante-psychique-perinatalite/comment-depister-depression-perinatale-quizz-epds) (Edinburgh postnatal depression scale)
 
 </div>
 <div class="tab-pane fade" id="nav-diagnostic" role="tabpanel" aria-labelledby="nav-tab-diagnostic">
