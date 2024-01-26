@@ -316,8 +316,8 @@ graph TB
 
 {{< youtube id="l3CGdp4T7Fw" title="Le régime sans gluten pour qui et pourquoi (TutoGastro SNFGE)" >}}
 
-- Prescrire Redaction. Intolérance au gluten - L'essentiel sur les soins de premier choix. Rev Prescrire. 2020.
-- [Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal. 2019.](https://doi.org/10.1177%2F2050640619844125)
+- Prescrire Redaction. Intolérance au gluten. Premiers Choix Prescrire. Rev Prescrire. 2020.
+- [Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal. 2019.](https://onlinelibrary.wiley.com/doi/10.1177/2050640619844125)
 - [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut. 2018.](https://gut.bmj.com/content/gutjnl/67/8/1380.full.pdf)
 - [HAS. Recherche d'anticorps dans la maladie cœliaque et suivi de l'observance du régime sans gluten. Janvier 2007. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/synthese_maladie_coeliaque.pdf)
 - [SNFGE. Maladie cœliaque](https://www.snfge.org/content/maladie-coeliaque)

@@ -594,11 +594,11 @@ graph TB
 {{< video poster="https://splf.fr/wp-content/uploads/2021/11/Webinaire-2021-12-06-1300-500.jpg" mp4="https://dts.podtrac.com/redirect.mp4/docs.splf.fr/videos/Webinaires/2021/Webinaire-asthme-2021-12-09.mp4" description="Mise à jour des recommandations 2021 pour la prise en charge des patients asthmatiques adultes (SPLF)" >}}
 
 - [Collège des Enseignants de Pneumologie (CEP). Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_188_ASTHME_RHINITE_2023.pdf)
+- Prescrire Redaction. Asthme. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [GINA. Global strategy for the asthma management and prevention. 2022.](https://ginasthma.org/reports/)
-- [Gaillard EA et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5-16 years. Eur Respir J. 2021.](https://doi.org/10.1183/13993003.04173-2020)
+- [Gaillard EA et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5-16 years. Eur Respir J. 2021.](https://erj.ersjournals.com/content/58/5/2004173)
 - [Raherison-Semjen C et al. Asthme. Revue des Maladies Respiratoires Actualités. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1877120320300598)
 - [Santé Publique France. Asthme. 05/10/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/asthme)
-- Prescrire Redaction. Asthme. Premiers Choix Prescrire. Rev Prescrire. 2020.
 - [Raherison C et al. Updated guidelines (2015) for management and monitoring of adult and adolescent asthmatic patients (from 12 years and older) of the Société de pneumologie de langue française (SPLF) (summary). Revue des Maladies Respiratoires. 2016. (PDF)](https://splf.fr/wp-content/uploads/2016/11/reco-asthme-re%CC%81sume%CC%81-2016.pdf)
 - [HAS. Insuffisance respiratoire chronique grave secondaire à un asthme. Octobre 2006.](https://www.has-sante.fr/jcms/c_452137/fr/ald-n14-insuffisance-respiratoire-chronique-grave-secondaire-a-un-asthme)
 - [HAS. Recommandations pour le suivi médical des patients asthmatiques adultes et adolescents. Recommandations de bonne pratique. 01/09/2004.](https://www.has-sante.fr/jcms/c_272363/fr/recommandations-pour-le-suivi-medical-des-patients-asthmatiques-adultes-et-adolescents)

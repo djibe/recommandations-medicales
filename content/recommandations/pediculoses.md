@@ -65,7 +65,7 @@ Le diagnostic de pédiculose est clinique par visualisation de lentes vivantes �
 - Symptômes de pédiculose
   - [Prurit](/tags/prurit/) (50-60%)
   - Excoriations
-  - Impétigo cervical
+  - [Impétigo cervical]({{< relref "infection-cutanee-bacterienne.md" >}})
   - Adénopathies
   - Eczéma
 - Localisations atteintes du cuir chevelu  

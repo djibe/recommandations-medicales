@@ -425,8 +425,8 @@ Intérêt de colchicine prophylactique.
 - [ANSM. Prise en charge par colchicine de la goutte : une nouvelle posologie plus faible et un message d'alerte sur les boites pour réduire le risque de surdosage. 10/10/2023.](https://ansm.sante.fr/informations-de-securite/prise-en-charge-par-colchicine-de-la-goutte-une-nouvelle-posologie-plus-faible-et-un-message-dalerte-sur-les-boites-pour-reduire-le-risque-de-surdosage)
 - {{< references/esh-2023 >}}
 - Prescrire Rédaction. Crise de goutte. Premiers Choix Prescrire. Rev Prescrire. 2021.
-- [Latourte A et al. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.008)
-- [Pascart T et al. Recommandations de la Société française de rhumatologie pour la prise en charge de la goutte : le traitement hypo-uricémiant. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.009)
+- [Latourte A et al. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. Octobre 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301502)
+- [Pascart T et al. Recommandations de la Société française de rhumatologie pour la prise en charge de la goutte : le traitement hypo-uricémiant. Octobre 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301514)
 - [FitzGerald JD et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res. 2020.](https://onlinelibrary.wiley.com/doi/full/10.1002/acr.24180)
 - [Richette P et al. 2016 updated EULAR evidence-based recommendations for the management of gout. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/1/29)
 - [ANSM. Allopurinol et risque de survenue de toxidermies graves – Lettre aux professionnels de santé. 25 Février 2013.](https://archiveansm.integra.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Allopurinol-et-risque-de-survenue-de-toxidermies-graves-Lettre-aux-professionnels-de-sante)

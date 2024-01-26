@@ -47,7 +47,7 @@ Varicelle
 ### Complications de la varicelle
 
 - Surinfections bactériennes cutanées
-  - Impétigo voire [dermohypodermites]({{< relref "erysipele.md" >}}) et fasciite nécrosante
+  - [Impétigo]({{< relref "infection-cutanee-bacterienne.md" >}}) voire [dermohypodermites]({{< relref "erysipele.md" >}}) et fasciite nécrosante
   - Abcès, lésions nécrotiques, toxine exfoliante
   - Jusqu'à 50% chez l'enfant. Surtout *S. aureus* et *S. pyogenes*.
 - Neurologique  
@@ -219,19 +219,7 @@ Recommandations pour la prise en charge de la varicelle:
 Reporter les vaccinations du nourrisson d'au moins 15 jours (question à *Infovac*)
 {.alert .alert-info}
 
-### Traitement d'une varicelle surinfectée : impétigo
-
-[Contrôler le traitement recommandé sur Antibioclic](https://antibioclic.com/strategie/91/675)
-
-Traitement selon la taille de l'impétigo:
-
-- Éviction scolaire/collectivité pendant 3 jours si lésions non couvrables
-- Surface < 2%  
-  Eau + savon et [mupirocine 2%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61059102&typedoc=R) 1 appli x 2-3/j pendant 5 jours.
-- \> 2% ou > 6 lésions ou extension rapide ou nécrotique  
-  - Prélèvement bactériologique
-  - Antibiothérapie pendant 7 jours: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69494932&typedoc=R) (Pyostacine®) 1 g x 2-3/j ou [céfalexine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64064987&typedoc=R) (Keforal®) 1-2 g x 2/j
-  - Enfant: amoxicilline-acide clavulanique 1 dose-kg x 3/j pendant 7 jours
+En cas de varicelle surinfectée, voir [impétigo]({{< relref "infection-cutanee-bacterienne.md" >}}).
 
 Détersion des croûtes par vaseline x 2/j et couvrir par pansement.
 

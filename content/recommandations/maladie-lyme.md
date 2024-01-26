@@ -6,10 +6,10 @@ synonyms = ["Borréliose de Lyme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-30T18:17:39+02:00"
 publishdate = "2021-10-02"
-lastmod = "2023-07-07"
+lastmod = "2024-01-26"
 specialites = ["dermatologie", "infectiologie"]
-annees = "2022"
-sources = ["HAS", "DGS"]
+annees = "2023"
+sources = ["GPIP", "HAS", "DGS"]
 tags = ["prevention"]
 anglais = ["Lyme disease"]
 sctid = "23502006"
@@ -60,6 +60,9 @@ CR MVT
 
 EM
 : érythème migrant
+
+GPIP
+: Groupe de Pathologie Infectieuse Pédiatrique (de la Société Française de Pédiatrie)
 
 LCS
 : liquide cérébrospinal
@@ -279,11 +282,10 @@ Antibiothérapie pendant **14 jours**:
 
 - Adulte: [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R) 100 mg x 2/j  
   2<sup>e</sup> ligne ou grossesse: amoxicilline 1 g x 3/j.
-- Enfant ≥ 8 ans: doxycycline 4 mg/kg/j en 2 prises (max 100 mg/prise et 200 mg/j)  
+- Enfant ≥ 8 ans: doxycycline 4 mg/kg/j (max 100 mg/prise et 200 mg/j) en 2 prises pendant 14 à 21 jours  
   2<sup>e</sup> ligne: amoxicilline 50 mg/kg/j (max 3 g/j) en 3 prises.
-- Enfant < 8 ans: amoxicilline 50 mg/kg/j en 3 prises  
-  (sinon 25 mg/kg toutes les 12h)
-  - 2<sup>e</sup> ligne: azithromycine 20 mg/kg/j (max 500 mg/j) pendant 5 jours
+- Enfant < 8 ans: amoxicilline 50 mg/kg/j (max 3 g/j) en 2-3 prises  
+  2<sup>e</sup> ligne: azithromycine 20 mg/kg/j (max 500 mg/j) pendant 10 jours.
 {{%/info%}}
 
 ### Traitement du lymphocytome borrélien
@@ -306,6 +308,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Gillet Y et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)
 - {{< references/voyageur >}}
 - [CMIT. Zoonoses. Item 173. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-173.pdf)
 - [HAS. Guide du parcours de soins de patients présentant une suspicion de borréliose de Lyme. 2022.](https://www.has-sante.fr/jcms/p_3323862/fr/guide-du-parcours-de-soins-de-patients-presentant-une-suspicion-de-borreliose-de-lyme)

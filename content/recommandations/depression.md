@@ -574,6 +574,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [CBIP. Arrêt progressif des antidépresseurs : lignes directrices (mise à jour 2024). Folia Pharmacotherapeutica. 2024.](https://www.cbip.be/fr/articles/4239?folia=4237)
 - [Anaes, FFP. La crise suicidaire : reconnaître et prendre en charge. 2000.](https://www.has-sante.fr/jcms/c_271964/fr/la-crise-suicidaire-reconnaitre-et-prendre-en-charge)
 - [HAS. Manifestations dépressives à l'adolescence : repérage, diagnostic et prise en charge en soins de premier recours. 2014.](https://www.has-sante.fr/jcms/c_1782013/fr/manifestations-depressives-a-l-adolescence-reperage-diagnostic-et-prise-en-charge-en-soins-de-premier-recours)
 - [HAS. Prise en compte de la souffrance psychique de la personne âgée : prévention, repérage et accompagnement. 2014.](https://www.has-sante.fr/jcms/c_2836216/fr/prise-en-compte-de-la-souffrance-psychique-de-la-personne-agee-prevention-reperage-et-accompagnement)

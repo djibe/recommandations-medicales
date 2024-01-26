@@ -9,8 +9,8 @@ date = "2021-09-19T19:35:02+02:00"
 publishdate = "2021-09-19"
 lastmod = "2023-10-20"
 specialites = ["dermatologie", "infectiologie"]
-annees = "2021"
-sources = ["HAS", "SPILF"]
+annees = "2023"
+sources = ["GPIP", "HAS", "SPILF"]
 tags = []
 anglais = ["Erysipelas"]
 sctid = "44653001"
@@ -70,6 +70,9 @@ DHBNN
 
 FN
 : fasciite nécrosante
+
+GPIP
+: Groupe de Pathologie Infectieuse Pédiatrique (de la Société Française de Pédiatrie)
 
 SGA
 : streptocoque β-hémolytique du groupe A (*Streptococcus pyogenes*)
@@ -155,13 +158,15 @@ En cas d'allergie à la pénicilline: azithromycine 250 mg x 1/j
 - Doute diagnostique
 - Signes généraux marqués
 - Terrain fragile  
-  Personne âgée polypathologique, diabète, insuffisance cardiaque, alcool/toxico, immunodépression.
+  Personne âgée polypathologique, diabète, insuffisance cardiaque, alcool/toxico, **immunodépression**.
 - Contexte social
 - Complication locale  
   Ulcère de jambe, décollement bulleux, nécrose, cyanose.
 - Traitement au long cours par AINS/corticoïdes
 - Absence d'amélioration à 24-48 heures
 {{%/warning%}}
+
+Et chez l'enfant, facteurs supplémentaires: **âge < 1 an**, syndrome toxinique, post-opératoire (abdomen, périnée), extensif ou rapidement progressif, échec d'antibiothérapie orale, suspicion d'emboles septiques (arthrite ...), difficultés d'administration.
 
 ### Traitement ambulatoire de l'érysipèle
 
@@ -178,15 +183,16 @@ Autres schémas de prise en charge par antibiothérapie:
 - Allergie à la pénicilline
   - Clindamycine (Dalacine®) 600 mg x 3/j (x 4/j si poids > 100 kg) pendant 7 jours
   - ou pristinamycine (Pyostacine®) 1 g x 3/j pendant 7 jours
-- Enfants
-  - Amoxicilline-acide clavulanique 80 mg/kg/j en 3 prises pendant 7 jours (max 3 g/j)
-  - Si allergie pénicilline +6 ans: clindamycine buvable 40 mg/kg/j en 3 prises pendant 7 jours
-  - Si allergie pénicilline avant 6 ans: triméthoprime-sulfaméthoxazole 40 mg/kg/j (de SMX) en 3 prises pendant 7 jours
+- Enfant
+  - <mark>Amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 7 jours</mark>
+  - Alternative: céfalexine 50 mg/kg/j (max 2 g/j) en 2-3 prises pendant 7 jours
+  - Si allergie pénicilline +6 ans: clindamycine buvable 30 mg/kg/j (max 2,4 g/j) en 3 prises pendant 7 jours
+  - Si allergie pénicilline avant 6 ans: triméthoprime-sulfaméthoxazole 30 mg/kg/j (de SMX, max 1,6 g/j) en 2 prises pendant 7 jours
 - Morsure d'animal (adulte)  
   - Amoxicilline-acide clavulanique 50 mg/kg/j en 3 prises pendant 7 jours (amoxicilline max 6 g/j et a. clavulanique max 375 mg/j)
   - Avis infectiologique en cas d'allergie à la pénicilline
 
-> *HAS 2021*
+> – *HAS 2021* et *GPIP 2023* (enfant)
 
 ### Mesures associées
 
@@ -230,6 +236,7 @@ accTitle: Conduite à tenir et prise en charge d'un érysipèle d'après HAS/SPI
 {{% /collapse %}}
 {{%sources%}}
 
+- [Gillet Y et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)
 - [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-155.pdf)
 - [Collège des enseignants de dermatologie de France (CEDEF). Grosse jambe rouge aiguë. Item 350. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-350-%E2%80%94-Grosse-jambe-rouge-aigue_CompressPdf.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)

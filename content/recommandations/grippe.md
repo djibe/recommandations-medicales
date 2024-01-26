@@ -7,7 +7,7 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2023-12-18"
+lastmod = "2024-01-25"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2023"
 sources = ["MinSanté", "HAS"]
@@ -159,7 +159,7 @@ Vaccins contre la grippe disponibles en France pour la campagne vaccinale:
 
 Le vaccin intranasal Fluenz Tetra® n'est pas disponible en France.
 
-La campagne de vaccination débute le <mark>17 octobre 2023</mark> ([MinSanté](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/la-campagne-de-vaccination-contre-le-covid-19-avancee-de-15-jours-commencera-le)) et se terminera le 31 janvier 2024.
+La campagne de vaccination a débuté le <mark>17 octobre 2023</mark> ([MinSanté](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/la-campagne-de-vaccination-contre-le-covid-19-avancee-de-15-jours-commencera-le)) et se terminera le 29 février 2024.
 
 [Document CRATB d'information patient contre la grippe (PDF)](http://medqual.fr/images/PRO_2018/CAT-PATHO-IFECTIEUSE/GRIPPE/MEDCAL_GRIPPE_A3_OK_VF.pdf)
 

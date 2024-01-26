@@ -407,7 +407,7 @@ graph TB
 - {{< references/esh-2023 >}}
 - [US Preventive Services Task Force. Screening for Atrial Fibrillation: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2021.23732)
 - {{< references/esc-cvd >}}
-- [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. 2021.](https://doi.org/10.1093/eurheartj/ehaa612)
+- [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. 2021.](https://academic.oup.com/eurheartj/article/42/5/373/5899003)
 - Prescrire Redaction. Fibrillation auriculaire. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Collège National des Enseignants de Cardiologie. Fibrillation atriale. Item 230 - UE8. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch14_fibrillation_atriale.pdf)
 - [HAS. Fibrillation atriale. Guide parcours de soins. Février 2014.](https://www.has-sante.fr/jcms/c_1741768/fr/guide-parcours-de-soins-fibrillation-atriale)

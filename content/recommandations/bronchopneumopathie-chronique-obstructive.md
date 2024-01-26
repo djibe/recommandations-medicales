@@ -618,16 +618,16 @@ graph TB
 
 - [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease 2023 Report. 2023.](https://goldcopd.org/2023-gold-report-2/)
 - [Collège des Enseignants de Pneumologie (CEP). Bronchopneumopathie chronique obstructive (BPCO). Item 209. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_209_BRONCHOPNEUMOPATHIE_CHRONIQUE_OBSTRUCTIVE_2023.pdf)
+- Prescrire Redaction. Bronchopneumopathie chronique obstructive - Premiers Choix Prescrire. Rev Prescrire. 2022.
 - [Zysman M et al. Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. Position de la Société de pneumologie de langue française. Actualisation 2021. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/optimisation-du-traitement-BPCO.pdf)
 - [Georges M. Réhabilitation respiratoire dans la BPCO : bis repetita. 18/05/2021.](https://splf.fr/rehabilitation-respiratoire-dans-la-bpco-bis-repetita/)
 - Prescrire Redaction. Questionner sa pratique : préserver la qualité de vie des patients souffrant de BPCO. Rev Prescrire. 2020.
-- Prescrire Redaction. Bronchopneumopathie chronique obstructive - Premiers Choix Prescrire. Rev Prescrire. 2020.
 - [HAS. Patients à risque ou atteints de BPCO. Indicateurs de qualité du parcours de soins. 30/01/2020.](https://www.has-sante.fr/jcms/p_3151500/fr/patients-a-risque-ou-atteints-de-bronchopneumopathie-chronique-obstructive-bpco-indicateurs-de-qualite-du-parcours-de-soins)
 - [Marques C et al. Évolution des connaissances de la bronchopneumopathie chronique obstructive après la campagne nationale du 31 mai 2019 : résultats d'une évaluation avant/après. Synthèse. Santé Publique France. 2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bpco-et-insuffisance-respiratoire-chronique/documents/rapport-synthese/evolution-des-connaissances-de-la-bronchopneumopathie-chronique-obstructive-apres-la-campagne-nationale-du-31-mai-2019-resultats-d-une-evaluation)
 - [HAS. Bronchopneumopathie chronique obstructive. Guide du parcours de soins. Novembre 2019.](https://www.has-sante.fr/jcms/c_1242507/fr/guide-du-parcours-de-soins-bronchopneumopathie-chronique-obstructive-bpco)
 - [Santé Publique France. BPCO et insuffisance respiratoire chronique. 27/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bpco-et-insuffisance-respiratoire-chronique)
 - [Jouneau S et al. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017. (PDF)](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
-- [Wedzicha JA et al. Prevention of COPD exacerbations: a European Respiratory Society/American Thoracic Society guideline. Eur Respir J. 2017.](https://doi.org/10.1183/13993003.02265-2016)
+- [Wedzicha JA et al. Prevention of COPD exacerbations: a European Respiratory Society/American Thoracic Society guideline. Eur Respir J. 2017.](https://erj.ersjournals.com/content/50/3/1602265)
 - [Zysman M et al. Propositions de la SPLF pour l'optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016. (PDF)](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
 
 ### Bibliographie en attente

@@ -129,9 +129,9 @@ graph TB
 
 - {{< references/esh-2023 >}}
 - [Isselbacher E et al. 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines. Circulation. 2022.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001106)
-- [Aboyans V et al. 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS). European Heart Journal. 2018.](https://doi.org/10.1093/eurheartj/ehx095)
+- [Aboyans V et al. 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS). European Heart Journal. 2018.](https://academic.oup.com/eurheartj/article/39/9/763/4095038)
 - [Robert M et al. Anévrismes de l'aorte abdominale et dissections aortiques : patients hospitalisés et mortalité, France, 2000-2013. Bulletin Epidémiologique Hebdomadaire. 2015.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/anevrisme-de-l-aorte-abdominale/documents/article/anevrismes-de-l-aorte-abdominale-et-dissections-aortiques-patients-hospitalises-et-mortalite-france-2000-2013)
-- [Erbel R et al. 2014 ESC Guidelines on the diagnosis and treatment of aortic diseases: Document covering acute and chronic aortic diseases of the thoracic and abdominal aorta of the adult. European Heart Journal. 2014.](https://doi.org/10.1093/eurheartj/ehu281)
+- [Erbel R et al. 2014 ESC Guidelines on the diagnosis and treatment of aortic diseases: Document covering acute and chronic aortic diseases of the thoracic and abdominal aorta of the adult. European Heart Journal. 2014.](https://academic.oup.com/eurheartj/article/35/41/2873/407693)
 - [HAS. Dépistage et prévention des anévrismes de l'aorte abdominale. 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2013-02/aaa_fiche_med_vfinale.pdf)
 
 {{%/sources%}}

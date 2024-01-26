@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-08T12:47:29+01:00"
 publishdate = "2024-01-15"
-lastmod = "2024-01-15"
+lastmod = "2024-01-26"
 specialites = ["cardiologie"]
 annees = "2023"
 sources = ["ESC"]
@@ -212,7 +212,8 @@ Pour les SCANST, le dosage nécessite un résultat dans l'heure avec interpréta
 
 Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} après infarctus du myocarde ou autre syndrome coronarien aigu:
 
-- **Réhabilitation cardiaque**
+- **Réhabilitation cardiaque**  
+  En centre voire accompagnée à domicile.
 - Contrôle du risque cardiovasculaire
   - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (réduit décès de 40%)
   - [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}}) (max 10 verres/semaine)
@@ -287,6 +288,7 @@ Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ec
 
 - [Byrne RA et al; ESC Scientific Document Group. 2023 ESC Guidelines for the management of acute coronary syndromes. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)
 - [2023 ESC Guidelines for the management of acute coronary syndromes - Supplementary Data.](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)
+- [McDonagh STJ et al. Home‐based versus centre‐based cardiac rehabilitation. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007130.pub5/full/fr)
 - Collège National des Enseignants de Cardiologie (CNEC). Syndromes coronariens aigus. Item 339. Cardiologie 2e édition. 2019.
 - [Santé Publique France. Infarctus du myocarde. 25/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/infarctus-du-myocarde)
 - [HAS. Maladie coronarienne stable. 2016.](https://www.has-sante.fr/jcms/c_1761792/fr/guide-parcours-de-soins-maladie-coronarienne-stable)

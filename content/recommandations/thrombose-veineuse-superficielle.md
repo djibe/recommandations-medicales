@@ -124,7 +124,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-[Sanchez O et al; SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires (2019).](https://doi.org/10.1016/j.rmr.2019.01.003)
+[Sanchez O et al; SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires (2019).](https://www.sciencedirect.com/science/article/abs/pii/S0761842519300051)
 
 {{%/sources%}}
 {{% modal title="Score hémorragique de RIETE" id="modal-score-riete" size="lg"%}}

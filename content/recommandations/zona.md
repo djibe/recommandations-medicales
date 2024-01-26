@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-14T19:48:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2023-10-24"
+lastmod = "2024-01-26"
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
 annees = "2023"
 sources = ["CMIT", "SPILF", "MinSanté"]
@@ -134,6 +134,8 @@ Ulcérations pseudo-membraneuses et vésicules de l'hémilangue.
 
 Vaccin vivant: [Zostavax®](https://ec.europa.eu/health/documents/community-register/2019/20191024146373/anx_146373_fr.pdf) (104,74€, remb. 30% SS).
 
+Le vaccin zona Shingrix® n'est pas encore remboursé.
+
 **Indication:** dose unique sous-cutanée de 65 à 74 ans (y compris en antécédents de zona, *Calendrier vaccinal*). Le *GOLD 2022* propose aussi de vacciner en cas de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}).  
 **Contre-indication:** grossesse, immunodépression.  
 **Avis de Prescrire®:** Efficacité modeste. Pas d'intérêt à une vaccination systématique.
@@ -250,6 +252,7 @@ Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{< rel
 {{% /collapse %}}
 {{%sources%}}
 
+- [de Oliveira Gomes J et al. Vaccines for preventing herpes zoster in older adults. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008858.pub5/full/fr)
 - [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-168.pdf)
 - [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 169. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-169-%E2%80%94-Infection-a-VIH-manifestations-cutaneo-muqueuses-de-la-primo-infection-a-VIH_CompressPdf.pdf)
 - {{< references/calendrier-vaccinal >}}

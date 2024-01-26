@@ -41,7 +41,7 @@ Rattrapage vaccinal
 Nourrisson prématuré
 : Naissance avant 37 semaines d'aménorrhée (SA).
 
-> << Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >> (*[SFSEP 2019](https://doi.org/10.1016/j.neurol.2019.01.218)*)
+> << Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >> (*[SFSEP 2019](https://www.sciencedirect.com/science/article/abs/pii/S0035378719302759)*)
 {.alert .alert-info}
 
 ### Abréviations
@@ -296,7 +296,7 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%collapse "FMC gratuites sur la vaccination" %}}
 
-{{< card-link-external title="e-learning vaccination" url="https://www.formationvaccinationpaca.fr" subtitle="Par la Région PACA">}}
+{{< card-link-external title="e-learning vaccination" url="https://www.formationvaccinationpaca.fr" subtitle="Par la Région PACA">}} {{< card-link-external title="Quiz rattrapage vaccinal" url="https://medqual.fr/index.php?option=com_vquiz&view=quizmanager&layout=description&id=7" subtitle="Par Medqual">}}
 
 {{< youtube id="u31xRtiITzk" title="Administration du vaccin Rotarix (CDC)" >}}
 

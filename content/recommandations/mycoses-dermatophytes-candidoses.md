@@ -390,11 +390,11 @@ Les traitements recommandés ne sont pas disponibles en France (nystatine, acide
 {{% /collapse %}}
 {{%collapse "Mycoses des phanères - poils et ongles" %}}
 
-### Dermatophytoses des poils (folliculites, sycosis)
+### Dermatophytoses des poils (sycosis trichophytique)
 
-Les infections par dermatophytes des poils atteignent le plus souvent les **hommes** au niveau de la **barbe** ou de la moustache (sycosis). Les autres poils d'autres localisations peuvent être atteints donnant des **folliculites douloureuses avec surinfections fréquentes**.
+Les infections par dermatophytes des poils atteignent le plus souvent les **hommes** au niveau de la **barbe** ou de la moustache (à différencier du sycosis staphylococcique). Les autres poils d'autres localisations peuvent être atteints donnant des **folliculites douloureuses avec surinfections fréquentes**.
 
-Le traitement du sycosis mycotique est identique à celui des mycoses des plis.
+Le traitement est celui des mycoses des plis.
 
 ### Onychomycoses ou mycoses des ongles (candidoses des ongles ou onyxis, mycose unguéale, dermatophytoses ou tinea unguium)
 
