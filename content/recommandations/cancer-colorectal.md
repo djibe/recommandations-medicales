@@ -242,6 +242,7 @@ Le kit du dépistage du cancer du côlon peut être remis par le médecin, retir
 - Commander des kits en tant que patient avec livraison gratuite à domicile: [monkit.depistage-colorectal.fr](https://monkit.depistage-colorectal.fr/#/invitation) (nécessite l'invitation de la Sécu)
   - Le site permet aussi au patient de consulter son résultat
   - Sans invitation, le patient contacte son [CRCDC (annuaire)](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Strategies-de-depistage/Centres-regionaux-de-coordination-des-depistages-des-cancers/)
+  - L'Assurance Maladie va désormais réaliser ce suivi
 - En Ile-de-France, avec ou sans invitation par son pharmacien (*NeonetIDF*)
 
 #### Pour en savoir plus : le test immunologique fécal (FIT)

@@ -114,6 +114,7 @@ Après 50 ans, la borne des D-dimères est à 10x l'âge {{%class%}}(ex. 700 à 
 - D-dimères anormaux: écho-doppler veineux
 
 Autres situations où les d-dimères sont augmentés (*SFMV 2021*): état inflammatoire (traumatisme, hématome, post-opératoire, maladie inflammatoire, sepsis), [cancer](/tags/cancer/), malformation vasculaire, CIVD, âge, [grossesse]({{< relref "grossesse.md" >}}) et [post-partum]({{< relref "post-partum.md" >}}).
+Autres situations où les d-dimères sont augmentés (*SFMV 2021*): état inflammatoire (traumatisme, hématome, post-opératoire, maladie inflammatoire, sepsis), [cancer](/tags/cancer/), malformation vasculaire, CIVD, âge, [grossesse]({{< relref "grossesse.md" >}}) et [post-partum]({{< relref "post-partum.md" >}}).
 
 ### Écho-doppler veineux
 
@@ -288,6 +289,11 @@ TODO:
 ### Filtre cave
 
 Indication: TVP proximale diagnostiquée dans les 30 jours (avec ou sans EP) avec contre-indication à l'anticoagulation curative.
+
+{{% /collapse %}}
+{{%collapse "Phlébite et voyage" %}}
+
+Voir [Voyage]({{< relref "voyage.md" >}}) (section *Voyage en avion*).
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une TVP" "show" %}}

@@ -92,6 +92,8 @@ window.addEventListener('load', () => {
 })
 </script>
 
+{{< card-link-external title="Examens nécessaires pour la reconnaissance de certaines maladies professionnelles" url="https://www.ameli.fr/val-de-marne/content/liste-des-examens-medicaux-effectuer-en-cas-de-maladie-professionnelle" subtitle="par Ameli" >}}
+
 {{% /collapse %}}
 {{%sources%}}
 

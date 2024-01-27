@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-14T23:30:41+02:00"
 publishdate = "2020-04-14"
-lastmod = "2023-04-17"
+lastmod = "2024-01-27"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["HAS", "SFE"]
@@ -17,20 +17,19 @@ icd10 = "E03.9"
 image = true
 imageSrc = "Illustration de l'hypothyroïdie par storyset / Freepik"
 flowchart = true
-todo = "SEO TSH élevée > hypthyroidie traitement, fdr K thyroïde"
+todo = "SEO TSH élevée > hypothyroidie traitement, grossesse et hypothyroïdie, infertilité et hypothyroïdie"
 +++
 
 {{%article-summary%}}
 
 - Pas de dépistage systématique de l'hypothyroïdie
-- Doser la TSH seule en cas de symptômes évocateurs d'hypothyroïdie
-- Définition biologique de l'hypothyroïdie avérée: TSH > 10 mUI/L (20 si +65 ans) et T4L < intervalle de référence du laboratoire
-- +60 ans: borne supérieure de TSH = décennie du patient (ex. 8 mUI/L de 80 à 89 ans)
-- Découverte d'une hypothyroïdie chez le +65 ans: pas d'examens complémentaires, traiter si TSH > 20 mUI/L (avis endocrinologique entre 10 et 20)
-- Prise en charge par un traitement hormonal de lévothyroxine (LT4): dosage de la TSH et adaptation par paliers de 12 µg toutes les 6-12 semaines sur critères clinico-TSH (cible de TSH dans la norme)
+- Doser la TSH seule en cas de symptômes évocateurs d'hypothyroïdie: fatigue, dépilation, ralentissement, myxœdème ...
+- Le diagnostic d'hypothyroïdie (dite avérée) est biologique: TSH > 10 mUI/L (20 si +65 ans) et T4L inférieure à l'intervalle de référence du laboratoire
+- Découverte d'une hypothyroïdie chez le +65 ans: pas de bilan complémentaire, traiter si TSH > 20 mUI/L (avis endocrinologique entre 10 et 20)
+- Prise en charge de l'hypothyroïdie: traitement hormonal de substitution par lévothyroxine (LT4)
+- Adaptation du traitement par paliers de 12 µg toutes les 6-12 semaines sur critères clinico-TSH (cible de TSH dans la norme du laboratoire)
 - Puis surveillance annuelle de la TSH (sauf symptômes ou traitement perturbateur)
 - Si maladie de Hashimoto: rechercher une [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) associée
-- Grossesse, désir de grossesse ou infertilité: chapitre dédié pour la prise en charge
 
 Chapitre lié: [hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md" >}}) (TSH > 4 mUI/L et T4L normale)
 
@@ -407,7 +406,7 @@ graph TB
             adulte -- Fragilité --> fragile("<b>+65 ans avec TSH &gt; 20</b>: Débuter à 1,1-1,3 µg/kg/j<br>TSH cible valeurs hautes<br>avis endoc entre 10 et 20 mUI/L<br>—<br><b>Cardiopathe</b>: Débuter 12,5-25 µg/j")
           traitement --> enfant("<b>Enfant</b><br>Débuter à 2 µg/kg/j")
   decouverte -- Grossesse ou désir --> chapitre(Section dédiée)
-  decouverte -. "TSH &gt; 10 et T4L basse" .-> hT
+  decouverte -. "TSH &gt; 10 et T4L basse<br>TSH &gt; 20 si +65 ans" .-> hT
 {{< /mermaid >}}
 
 {{% /collapse %}}
