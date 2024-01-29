@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2023-12-13"
+lastmod = "2024-01-28"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["SFD", "ESC", "ESH", "ADA", "EASD", "KDIGO", "HAS"]
@@ -325,6 +325,7 @@ window.addEventListener('load', () => {
 | [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) | - Diabète < 12 mois: ≥ 50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>- Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
 | Cardiologue  | Suivi annuel                                                                                     | HAS 2014                 |
 | Chirurgie bariatrique | -65 ans avec IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH OU IMC ≥ 30 en dernier recours | HAS 2022 et 2009 obésité |
+| [Covid-19]({{< relref "covid-19.md" >}}) | Antiviral en urgence si infection Covid-19                           | HAS 2023                 |
 | Dentaire     | Suivi annuel                                                                                     | HAS 2014, IDF 2009       |
 | [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) | Interrogatoire systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018             |
 | ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
@@ -374,6 +375,7 @@ window.addEventListener('load', () => {
 
 {{< card-link-external title="Ameli Data Pathologies. Dépenses des soins liés au diabète" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Diab%C3%A8te">}}
 
+- [HAS, ANRS. Traitement de la Covid-19. 22/12/2023.](https://www.has-sante.fr/jcms/p_3447571/fr/traitement-de-la-covid-19)
 - {{< references/sfd-dt2-2023 >}}
 - {{< references/esc-diabetes-2023 >}}
 - {{< references/esh-2023 >}}

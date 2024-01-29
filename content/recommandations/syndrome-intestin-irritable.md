@@ -229,8 +229,7 @@ L'acupuncture et l'ostéopathie n'ont pas démontré de bénéfices.
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-- [Document d'information sur le syndrome de l'intestin irritable](https://www.sfed.org/files/2021-10/le-syndrome-de-l-intestin-irritable.pdf) promu par la Société Française d'Endoscopie Digestive (SFED)
-- [Inconfort abdominal](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/inconfort_abdominal_snfge-cregg_2017.pdf) (PDF par SNFGE et CREGG)
+[Inconfort abdominal](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/inconfort_abdominal_snfge-cregg_2017.pdf) (PDF par SNFGE et CREGG)
 
 ### Le syndrome de l'intestin irritable
 

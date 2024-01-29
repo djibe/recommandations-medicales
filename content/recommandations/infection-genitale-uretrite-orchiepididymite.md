@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-17T11:25:20+01:00"
 publishdate = "2023-01-19"
-lastmod = "2023-05-21"
+lastmod = "2024-01-29"
 specialites = ["urologie"]
-annees = "2022"
+annees = "2023"
 sources = ["EAU", "HAS", "SFDermato"]
 tags = ["HSH", "IST"]
 anglais = ["Urethritis", "epididymitis"]
@@ -52,6 +52,9 @@ PNN
 
 SFD
 : Société Française de Dermatologie (ou SFDermato)
+
+UNG
+: urétrite non gonococcique
 {.dl-inline}
 
 {{% /collapse %}}
@@ -65,10 +68,12 @@ Urétrite
 
 ### Symptômes de l'urétrite
 
+- Incubation variable (gonocoque 4-6 jours)
 - Écoulement urétral (jaune ou blanchâtre) purulent, séreux voire hémorragique
 - Dysurie, brûlures mictionnelles
 - Prurit urétral
-- Très souvent asymptomatique
+- Auto-contamination: conjonctivite, pharyngite, proctite
+- Très souvent **asymptomatique**
 
 ### Examens complémentaires de l'urétrite
 
@@ -93,7 +98,7 @@ Antibiothérapie probabiliste de l'urétrite en cas de symptômes marqués.
       <button aria-controls="has-urethritis-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#has-urethritis-panel" id="has-urethritis-tab" type="button" role="tab">HAS 2021</button>
     </li>
     <li class="nav-item" role="presentation">
-      <button aria-controls="eau-urethritis-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#eau-urethritis-panel" id="eau-urethritis-tab" type="button" role="tab">EAU 2022</button>
+      <button aria-controls="eau-urethritis-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#eau-urethritis-panel" id="eau-urethritis-tab" type="button" role="tab">EAU 2023</button>
     </li>
     <li class="nav-item" role="presentation">
       <button aria-controls="sfd-urethritis-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#sfd-urethritis-panel" id="sfd-urethritis-tab" type="button" role="tab">SFD 2016</button>
@@ -117,8 +122,7 @@ Attendre la PCR pour une antibiothérapie guidée en cas de symptômes légers.
 
 Ceftriaxone 1g IM dose unique
 
-\+ doxycycline 100 mg x 2/j pendant 7 jours  
-OU azithromycine 1g dose unique
+\+ azithromycine 1g dose unique
 
 > Voir l'onglet *Par Germe* en cas d'autre germe
 
@@ -143,21 +147,25 @@ OU azithromycine 1g dose unique
 </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
 <div aria-labelledby="eau-spe-urethritis-tab" class="tab-pane fade" id="eau-spe-urethritis-panel" role="tabpanel">
 
-Traitement par germe selon *EAU 2022*:
+Traitement par germe selon *EAU 2023*:
 
 - *Chlamydia trachomatis*
   - Doxycycline 100 mg x 2/j pendant 7 jours  
     OU azithromycine 1 - 1,5 g dose unique
-  - Voire lévofloxacine 500 mg ou ofloxacine 200 mg x 2/j pendant 7 jours
+  - Voire lévofloxacine 500 mg x 1/j ou ofloxacine 200 mg x 2/j pendant 7 jours
+- Gonocoque
+  - Ceftriaxone 1g IM + azithromycine 1 g dose unique
 - *Mycoplasma genitalium*
+  - À rechercher en cas de persistance après traitement d'une urétrite non gonococcique (UNG)
   - Azithromycine 500 mg J1 puis 250 mg pendant 4 jours
-  - Si résistance aux macrolides: Moxifloxacine 400 mg x 1/j pendant 7 à 14 jours
+  - Si résistance aux macrolides: moxifloxacine 400 mg x 1/j pendant 7 à 14 jours
 - *Ureaplasma urealyticum*
   - Doxycycline 100 mg x 2/j pendant 7 jours
   - Voire azithromycine 1 - 1,5 g dose unique
 - *Trichomonas vaginalis*
   - Métronidazole 2g dose unique + tinidazole (Fasigyne®) 2g dose unique
-  - Voire métronidazole 500 mg x 2//j pendant 7 jours
+  - Voire métronidazole 500 mg x 2/j pendant 7 jours
+- Non identifié: doxycycline 100 mg x 2/j pendant 7 jours
 
 </div>
 </div>
@@ -170,7 +178,7 @@ Mesures associées:
 - Si persistance des symptômes après 72 heures: consultation de contrôle avec les résultats
 - Gonococcie: déclaration anonyme à l'ARS (*CMIT*)
 
-> *HAS 2021* et *EAU 2022*
+> *HAS 2021* et *EAU 2023*
 
 {{% /collapse %}}
 {{%collapse "Épididymite et orchi-épididymite" %}}
@@ -203,7 +211,7 @@ Antibiothérapie probabiliste de l'orchi-épididymite selon les différentes rec
 <div class="card card-hover my-3 mb-xl-5 mw-640">
   <ul class="nav nav-tabs nav-justified" id="tabs-orchiepididymite" role="tablist">
   <li class="nav-item" role="presentation">
-    <button aria-controls="eau-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#eau-panel" id="eau-tab" type="button" role="tab">EAU 2022</button>
+    <button aria-controls="eau-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#eau-panel" id="eau-tab" type="button" role="tab">EAU 2023</button>
   </li>
   <li class="nav-item" role="presentation">
     <button aria-controls="sfd-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#sfd-panel" id="sfd-tab" type="button" role="tab">SPILF 2020/SFD 2016</button>
@@ -213,13 +221,13 @@ Antibiothérapie probabiliste de l'orchi-épididymite selon les différentes rec
   <div aria-labelledby="eau-tab" class="tab-pane fade show active" id="eau-panel" role="tabpanel">
 
 Ceftriaxone 1g IM dose unique  
-\+ doxycycline 200 mg x 2/j à J1 puis 100 mg x 2/j pendant 10 à 14 jours
+\+ doxycycline 200 mg dose unique à J1 puis 100 mg x 2/j pendant 10 à 14 jours
 {.alert .alert-info .mb-5}
 
 - Si faible suspicion de gonococcie et suspicion d'origine urinaire:
   - Ciprofloxacine 500 mg x 2/j pendant 10 à 14 jours  
     ou lévofloxacine 750 mg (indisponible en France) x 1/j
-  - OU doxycycline 200 mg x 2/j à J1 puis 100 mg x 2/j pendant 10 à 14 jours  
+  - OU doxycycline 200 mg dose unique à J1 puis 100 mg x 2/j pendant 10 à 14 jours  
     \+ TODO: Entérobactérie pendant 10 à 14 jours
 - Si homme âgé sans rapports à risque: traitement d'une infection urinaire masculine  
   Ciprofloxacine 500 mg x 2/j ou lévofloxacine 750 mg (indisponible en France) x 1/j pendant 10 à 14 jours
@@ -246,17 +254,20 @@ Mesures associées au traitement de l'orchiépididymite:
 
 Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques en cas de récidive.
 
-> *EAU 2022 et SFD 2016*
+> *EAU 2023 et SFD 2016*
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Bonkat G et al. EAU guidelines on urological infections. 2022.](https://uroweb.org/guidelines/urological-infections)
+- [Bonkat G et al. EAU guidelines on urological infections. 2023.](https://uroweb.org/guidelines/urological-infections)
+- [CMIT, SFMTSI, SPILF, SMV. Écoulement urétral chez l'homme. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-162-web.pdf)
 - {{< references/spilf-2020 >}}
 - [Gerhardt P et al; Société Française de Dermatologie (SFD). Urétrite masculine. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/uretrite-masculine-61ed71f0cf1553f5b94bbb4214d5905e.pdf)
 - [Janier M et al; Société Française de Dermatologie (SFD). Orchiépididymite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/orchiepididymite-e11608a96bbf138a1ce4045e283aa71a.pdf)
+- [Alcaraz I et al; Société Française de Dermatologie (SFD). Trichomonose. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/trichomonose-c45b526c66838139b708515093a8be44.pdf)
+- [Alcaraz I et al; Société Française de Dermatologie (SFD). Mycoplasmes génitaux. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/mycoplasmes-genitaux-6e4ae5d4b4748a07c993deaa05dbbb86.pdf)
 
 ### Bibliographie en attente
 

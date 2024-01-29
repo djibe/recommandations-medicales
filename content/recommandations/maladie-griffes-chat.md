@@ -7,10 +7,10 @@ synonyms = ["Bartonellose à Bartonella henselae, lymphogranulomatose bénigne d
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-28T19:47:00+02:00"
 publishdate = "2021-03-28"
-lastmod = "2023-12-07"
+lastmod = "2024-01-29"
 specialites = ["infectiologie"]
 annees = "2022"
-sources = ["CDC", "MinAgri"]
+sources = ["CDC", "CMIT", "MinAgri"]
 tags = []
 anglais = ["Cat scratch disease"]
 sctid = "79974007"
@@ -122,6 +122,7 @@ graph TB
 {{%sources%}}
 
 - [CMIT. Zoonoses. Item 173. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-173.pdf)
+- [CMIT, SFMTSI, SPILF, SMV. Bartonelloses. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
 - [Centers for Disease Control and Prevention (CDC). Bartonella henselae infection or cat scratch disease (CSD). 2022.](https://www.cdc.gov/bartonella/bartonella-henselae/index.html)
 - [Boillat N, Greub G. Maladie des griffes du chat et autres bartonelloses. Revue Médicale Suisse. 2008.](https://www.revmed.ch/revue-medicale-suisse/2008/revue-medicale-suisse-152/maladie-des-griffes-du-chat-et-autres-bartonelloses)
 - [Ministère de l'Agriculture. Maladie des griffes du chat. Janvier 2007. (PDF)](https://agriculture.gouv.fr/telecharger/118893)

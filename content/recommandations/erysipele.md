@@ -240,7 +240,7 @@ accTitle: Conduite à tenir et prise en charge d'un érysipèle d'après HAS/SPI
 - [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-155.pdf)
 - [Collège des enseignants de dermatologie de France (CEDEF). Grosse jambe rouge aiguë. Item 350. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-350-%E2%80%94-Grosse-jambe-rouge-aigue_CompressPdf.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
-- [HAS, SPILF. Prise en charge des infections cutanées bactériennes courantes. Février 2019. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/recos/2019-fiche-de-synthese-infections-cutanees-mel.pdf)
+- [HAS, SPILF. Prise en charge des infections cutanées bactériennes courantes. 2019.](https://www.has-sante.fr/jcms/c_2911550/fr/prise-en-charge-des-infections-cutanees-bacteriennes-courantes)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [SFD, SPILF. Erysipèle et fasciite nécrosante : prise en charge. Ann Dermatol Venerol. 2001. (PDF)](http://www.sfdermato.org/media/pdf/recommandation/erysipele-long-60a03bfa8c55af03ef3ec54a1b380a73.pdf)
 

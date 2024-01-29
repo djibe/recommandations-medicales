@@ -253,7 +253,8 @@ accTitle: Prise en charge diagnostique d'une hyperferritinémie d'après SNFGE 2
 
 ### Bibliographie en attente
 
-- [Cullis JO et al; British Society for Haematology. Investigation and management of a raised serum ferritin. Br J Haematol. 2018.](https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.15166?sid=nlm%3Apubmed)
+- [Ruivard M, Lobbes H. Diagnostic et traitement d'une surcharge en fer. La Revue de Médecine Interne. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S024886632300680X)
+- [Cullis JO et al; British Society for Haematology. Investigation and management of a raised serum ferritin. Br J Haematol. 2018.](https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.15166)
 - {{< references/college-endocrino >}}
 
 {{%/sources%}}

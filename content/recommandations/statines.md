@@ -6,7 +6,7 @@ synonyms = ["Hypolipémiants"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-17T13:36:17+01:00"
 publishdate = "2022-03-17"
-lastmod = "2023-10-03"
+lastmod = "2024-01-29"
 specialites = ["cardiologie", "therapeutique"]
 annees = "2023"
 sources = ["ESC", "USPTF", "ESH", "SFC"]
@@ -25,7 +25,7 @@ imageSrc = "Illustration des statines par macrovector / Freepik"
 - Cible de LDL selon la maladie cardiovasculaire ou le {{< scores/heartscore >}} (en l'absence d'évènement ou de comorbidité cardiovasculaire)
 - Statines et effets indésirables: 90% des myalgies sont attribuables à un effet nocebo, elles surviennent durant la première année (sauf statine de haute intensité)
 - L'arrêt d'une statine entraîne une surmortalité cardiovasculaire de 20%
-- Arrêter une statine au moins 4 semaines avant l'arrêt d'une contraception
+- Préparer une grossesse: le plus souvent interrompre le traitement, voire avis du CRAT pour les cas sévères
 - Le bilan lipidique n'a pas besoin d'être réalisé à jeun sauf syndrome métabolique, [diabète](/tags/diabete/) ou hypertriglycéridémie (*ESC 2021*)
 
 {{%/article-summary%}}
@@ -75,7 +75,7 @@ Débuter un traitement par statine:
 - Contrôler le bilan lipidique 1-12 semaines après le bilan initial (sauf très haut risque ou syndrome coronarien aigu)
 - Bilan pré-thérapeutique: ALAT, CPK  
   Ne pas démarrer si CPK > 4N (surveiller les CPK)
-- Contraception efficace
+- Contraception efficace (voir *Statines, grossesse et allaitement*)
 - Surveiller
   - Le bilan lipidique 4-12 semaines après chaque modification
   - Les ALAT 8-12 semaines après chaque augmentation de posologie
@@ -85,7 +85,7 @@ Débuter un traitement par statine:
 {{% /collapse %}}
 {{%collapse "Statines et effets indésirables" %}}
 
-### Statines et surrisque de diabète
+### Statines et sur-risque de diabète
 
 Les statines entraînent un sur-risque de diabète de 9%, négligeable par rapport à la réduction des complications cardiovasculaires qu'elles engendrent chez la personne vivant avec un diabète.
 
@@ -133,6 +133,23 @@ Lorsqu'une statine doit être arrêtée pour mauvaise tolérance, envisager la s
 {.alert .alert-info}
 
 > *ESC* et *Bouhairie et al*
+
+{{% /collapse %}}
+{{%collapse "Statines, grossesse et allaitement" %}}
+
+### Statines et grossesse
+
+- Selon le *CRAT* pour [atorvastatine](http://www.lecrat.fr/8611/), [pravastatine](http://www.lecrat.fr/8622/), [rosuvastatine](http://www.lecrat.fr/8643/), [simvastatine](http://www.lecrat.fr/8653/):
+  - Prévoir l'arrêt de la statine pendant la grossesse, sinon contacter le CRAT (cas d'[hypercholestérolémie familiale]({{< relref "hypercholesterolemie-familiale.md" >}}) ou hypertriglycéridémies sévères)
+- Selon *ESC CVD 2021* (grade C):  
+  << Le traitement par statines n'est pas recommandé chez les femmes non ménopausées qui envisagent une grossesse ou qui n'utilisent pas une contraception efficace. >>
+- Selon les [RCP de la pravastatine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61650728&typedoc=R):  
+  << La pravastatine est contre-indiquée pendant la grossesse et doit être administrée aux femmes en âge de procréer uniquement si une conception est improbable et si ces patientes ont été informées du risque potentiel. >>
+
+### Statines et allaitement
+
+- Selon le *CRAT* pour [atorvastatine](http://www.lecrat.fr/8616/), [rosuvastatine](http://www.lecrat.fr/8644/), [simvastatine](http://www.lecrat.fr/8654/):  
+  Recours à la [pravastatine](http://www.lecrat.fr/8626/) si traitement indispensable.
 
 {{% /collapse %}}
 {{%collapse "Effets de l'arrêt d'une statine" %}}

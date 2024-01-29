@@ -202,6 +202,7 @@ Trame des éléments à relever pour un dossier médical complet.
   Négocier une perte de poids (5-10%). Un accompagnement spécialisé permet une baisse d'HbA<sub>1c</sub> de 1-1,9%.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Vaccinations: Covid-19, grippe, pneumocoque
+- Si Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}})
 - Dépistage de la [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})  
   Au diagnostic puis annuel pendant 5 ans (*[ISPAD 2018](https://cdn.ymaws.com/www.ispad.org/resource/resmgr/consensus_guidelines_2018_/19.other_complications_and_a.pdf))*.
 - Dépistage du retentissement psychologique  

@@ -319,8 +319,8 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
   - [Vitamine D cible]({{< relref "vitamine-d.md" >}}) > 75 nmol/L (*HAS 2023*)
 - Acidose métabolique < 23 mmol/L: cible 23-27 mmol/L, alimentation alcalisante voire 3-6 g/j de bicarbonate de sodium
 - Lutte contre l'hyperphosphorémie
-- Associations de patients  
-  [Fondation du Rein](https://www.fondation-du-rein.org), [France Rein](https://www.francerein.org), [renaloo](https://renaloo.com), [AIRG](https://www.airg-france.fr), [Objectif Rein Santé](https://objectifreinsante.org).
+- Associations de patients: [Fondation du Rein](https://www.fondation-du-rein.org), [France Rein](https://www.francerein.org), [renaloo](https://renaloo.com), [AIRG](https://www.airg-france.fr), [Objectif Rein Santé](https://objectifreinsante.org)
+- Si MRC sévère et Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}})
 - [Reconnaissance possible en Maladie professionnelle](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&field_activites_nuisances=&field_maladies=insuffisance+r%C3%A9nale&field_numeroCAS=&mot_cles_tableau=&motsCles=&valid_RECHERCHE_MOTSCLES=Rechercher&introspection=)  
   Expositions au plomb, mercure, solvants.
 

@@ -308,12 +308,12 @@ graph TB
 
 - Prescrire Redaction. Ulcère veineux de jambe. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Collège des enseignants de dermatologie de France (CEDEF). Ulcère de jambe. Item 228. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-228-%E2%80%94-Ulcere-de-jambe_CompressPdf.pdf)
+- [omedit Centre Val de Loire. Plaies chroniques et retard de cicatrisation liés aux traitements. 2023. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/11681.pdf)
 - [HAS. Bandes sèches à allongement long. Prise en charge du lymphœdème et des ulcères veineux actifs. 2020. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2020-02/rapport_bandes_a_allongement_long_dm-eval_244.pdf)
 - [HAS. Les pansements. Indications et utilisations recommandées. 2011. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2009-01/pansements_synthese_rapport.pdf)
 - [HAS. La compression médicale dans les affections veineuses chroniques. Bon usage des technologies de santé. 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-12/fiche_de_bon_usage_-_compression_medicale_dans_les_affections_veineuses_chroniques.pdf)
 - [HAS. Prise en charge de l'ulcère de jambe à prédominance veineuse hors pansement. 2006.](https://www.has-sante.fr/jcms/c_459541/fr/prise-en-charge-de-l-ulcere-de-jambe-a-predominance-veineuse-hors-pansement)
 - [Assurance Maladie. Plaies chroniques. Prise en charge en ville. (PDF)](https://www.ameli.fr/sites/default/files/Documents/5122/document/plaies-chroniques-prise-en-charge_assurance-maladie.pdf)
-- [omedit Centre Val de Loire. Plaies chroniques et retard de cicatrisation liés aux traitements. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/7878.pdf)
 - [Euro-pharmat. Fiches de bon usage Pansements.](https://www.euro-pharmat.com/pansements)
 
 {{%/sources%}}

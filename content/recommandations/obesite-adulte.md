@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-19T13:21:51+02:00"
 publishdate = "2023-07-27"
-lastmod = "2023-12-14"
+lastmod = "2024-01-29"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["HAS", "FFN"]
@@ -246,6 +246,7 @@ Complications à dépister chez un adulte en obésité.
 | [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) | Scanner AP injecté si symptômes                                | INCa 2020           |
 | [Cancer du sein]({{< relref "cancer-sein.md" >}}) | Dépistage organisé                                                     | INCa 2022           |
 | [Contraception œstroprogestative]({{< relref "contraception.md" >}}) | En l'absence d'autre d'autre FRCV                   | CNGOF 2018          |
+| [Covid-19]({{< relref "covid-19.md" >}}) | Antiviral en urgence si infection Covid-19                                      | HAS 2023            |
 | Dentaire                        | Suivi annuel                                                                             | HAS 2023            |
 | [Diabète type 2]({{< relref "diabete-type-2.md" >}}) | Dépistage par glycémie à jeun tous les 1-3 ans                      | HAS 2023            |
 | [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}}) | Dépistage régulier après 50 ans ou si symptômes            | HAS 2022 DMLA       |
@@ -377,6 +378,7 @@ La prise en charge de l'obésité associe:
 - Autres intervenants: psychologue, psychiatre, médecin du travail, travailleur social
 - Associations de patients: [Collectif National des Associations d'Obèses (CNAO)](https://cnao.fr)
 - Adaptation des doses d'antibiotiques: [AbxBMI](https://abxbmi.com)
+- Si Covid-19: [antiviral]({{< relref "covid-19.md" >}}) en urgence
 
 > << Les régimes déséquilibrés ou très restrictifs sont déconseillés >> – *HAS 2022* | < 1200 kcal/j ne sont pas conseillés – *CEEDMM*
 {.alert .alert-warning}
@@ -439,6 +441,7 @@ graph TB
 
 {{< youtube id="Uyel7_curVU" title="Que faire face à un patient en situation d'obésité ? (HAS)" >}}
 
+- [HAS, ANRS. Traitement de la Covid-19. 22/12/2023.](https://www.has-sante.fr/jcms/p_3447571/fr/traitement-de-la-covid-19)
 - [HAS. Guide du parcours de soins : surpoids et obésité de l'adulte. Guide parcours de soins. 2023.](https://www.has-sante.fr/jcms/p_3408871/fr/guide-du-parcours-de-soins-surpoids-et-obesite-de-l-adulte)
 - [HAS. Chirurgie métabolique : traitement chirurgical du diabète de type 2 - Rapport d'évaluation. 10/10/2022.](https://www.has-sante.fr/jcms/p_3303025/fr/chirurgie-metabolique-traitement-chirurgical-du-diabete-de-type-2-rapport-d-evaluation)
 - [Fontbonne A et al. Prevalence of Overweight and Obesity in France: The 2020 Obepi-Roche Study by the "Ligue Contre l'Obésité". J Clin Med. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9918095/)

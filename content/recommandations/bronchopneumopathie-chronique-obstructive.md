@@ -460,7 +460,7 @@ Opioïdes faible dose par le pneumologue (*SPLF 2021*).
 
 ### 1. Éliminer un diagnostic différentiel
 
-- Syndrome coronarien aigu
+- [Syndrome coronarien aigu]({{< relref "syndrome-coronarien-aigu.md" >}})
 - [Arythmie cardiaque]({{< relref "fibrillation-atriale.md" >}})
 - Aggravation de l'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (NT-proBNP)
 - [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) (d-dimères)
@@ -469,7 +469,8 @@ Opioïdes faible dose par le pneumologue (*SPLF 2021*).
 
 ### 2. Rechercher le facteur déclenchant
 
-- Infection virale ou bactérienne
+- Infection virale ou bactérienne  
+  Si Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}}).
 - Pollution intérieure/extérieure
 - Arrêt du traitement de fond
 

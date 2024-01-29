@@ -571,6 +571,7 @@ graph TB
 - Prescrire Redaction. Patientes ayant une infection vulvovaginale ou du col utérin. Rev Prescrire. 2023.
 - Anofel. Parasitoses et mycoses des régions tempérées et tropicales. 2022.
 - Prescrire Redaction. Teignes du cuir chevelu. Rev Prescrire. 2022.
+- [CMIT, SFMTSI, SPILF, SMV. Infections de la peau, des tissus mous et des muscles. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
 - [ANSM. Traitement de la teigne de l'enfant et indisponibilité de la griséofulvine : l'ANSM précise la conduite à tenir. 19/07/2021.](https://ansm.sante.fr/actualites/traitement-de-la-teigne-de-lenfant-et-indisponibilite-de-la-griseofulvine-lansm-precise-la-conduite-a-tenir)
 - [Société Française de Dermatologie, GPIP, SFDP, SPILF, SFMM. Algorithme. Centre de preuves en dermatologie. 2021.](https://centredepreuves.sfdermato.org/#hot-topics)
 - Prescrire Redaction. Intertrigo des grands plis. Rev Prescrire. 2021.

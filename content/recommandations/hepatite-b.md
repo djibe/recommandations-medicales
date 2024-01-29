@@ -366,6 +366,8 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler.
 
 {{< youtube id="sYKByv4Olg8" title="VHB Indications thérapeutiques et surveillance H. Fontaine 2019 (AFEF Medical Education)" >}}
 
+{{< youtube id="XfEdz-xm9qs" title="Sérologie de l'hépatite B autour de la vaccination (Vaccinews)" >}}
+
 - {{< references/calendrier-vaccinal >}}
 - [CMIT. Hépatites virales. Item 167. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-167-web.pdf)
 - {{< references/afef-foie-non-invasif >}}

@@ -653,7 +653,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 - [SFA, ANPAA, EUFAS. Mésusage de l'alcool : dépistage, diagnostic et traitement. 2023. (PDF)](https://sfalcoologie.fr/wp-content/uploads/RECOS-SFA-Version-2023-2.pdf)
 - Prescrire Redaction. Alcoolodépendance : sevrage et maintien de l'abstinence. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Agabio R et al. Baclofen for alcohol use disorder. Cochrane Database of Systematic Reviews. 2023.](https://www.cochrane.org/CD012557/ADDICTN_baclofen-alcohol-use-disorder)
-- [SFA. Repères de consommation d'alcool à moindre risque : les abaisser chez les plus jeunes ?. 08/08/2022. (PDF)](http://www.sfalcoologie.asso.fr/download/2022-CP_alcool-SFA-2022_08_08.pdf)
+- [SFA. Repères de consommation d'alcool à moindre risque : les abaisser chez les plus jeunes ?. 08/08/2022. (PDF)](https://sfalcoologie.fr/wp-content/uploads/2022-CP_alcool-SFA-2022_08_08.pdf)
 - [Inserm. Réduction des dommages associés à la consommation d'alcool. Synthèses et recommandations. 2021.](https://www.inserm.fr/expertise-collective/reduction-dommages-associes-consommation-alcool/)
 - [Angler R et al. Dépassement des repères de consommation d'alcool à moindre risque en 2020 : résultats du Baromètre santé de Santé publique France. BEH. Novembre 2021.](http://beh.santepubliquefrance.fr/beh/2021/17/2021_17_1.html)
 - [ANSM. Alcoolo-dépendance : nouvelles recommandations posologiques pour le baclofène. 18/11/2021.](https://ansm.sante.fr/actualites/alcoolo-dependance-nouvelles-recommandations-posologiques-pour-le-baclofene)

@@ -293,6 +293,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
   - Éducation thérapeutique
   - Évaluation diététique
   - Vaccinations grippe, Covid-19, {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}}/5 ans
+  - Si Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}})
   - Diagnostic rapide des infections intercurrentes
   - Surveillance des cardiotoxiques
   - Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
@@ -315,7 +316,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
 - {{< modal-btn modal-bb >}}Bêta-bloquant{{< /modal-btn >}} dose maximale  
   En maintenant la FC ≥ 50/min ou sur avis cardiologique en-dessous.
 - Anti-aldostérone spironolactone ou éplérénone
-- {{< modal-btn modal-isglt2 >}}Dapagliflozine ou empagliflozine (iSGLT2){{< /modal-btn >}} 10 mg/j systématique (*ESC 2021*)
+- {{< modal-btn modal-isglt2 >}}Dapagliflozine ou empagliflozine (iSGLT2){{< /modal-btn >}} 10 mg/j systématique
 - Traitements de 2<sup>e</sup> ligne: symptômes persistants
   - Ivabradine  
     Indication: FEVG ≤ 35% et fréquence cardiaque ≥ 70/min sous BB dose maximale ou mal tolérés.
@@ -526,24 +527,20 @@ style ICFEd stroke:#4150f5, stroke-width:1px
     Min 20 min x 3/sem en ciblant une dyspnée légère à modérée.
   - Effets de l'altitude sur la respiration
 - Activité sexuelle
-  - Ne pas craindre les rapports sexuels et discuter des problèmes avec les
-professionnels de santé
-  - Comprendre les problèmes sexuels spécifiques et développer des stratégies
-permettant de les surmonter
+  - Ne pas craindre les rapports sexuels et discuter des problèmes avec les professionnels de santé
+  - Comprendre les problèmes sexuels spécifiques et développer des stratégies permettant de les surmonter
 - Vaccination grippe + pneumocoque
+- Si Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}})
 - Troubles du sommeil et de la respiration
   - Correction des FRCV, obésité, alcool
   - S'informer des options thérapeutiques si approprié
 - Observance  
-  Comprendre l'importance du respect des recommandations thérapeutiques et
-d'une motivation soutenue à suivre le plan de soins.
+  Comprendre l'importance du respect des recommandations thérapeutiques et d'une motivation soutenue à suivre le plan de soins.
 - Psychologie
-  - Comprendre que la dépression et les troubles cognitifs sont fréquents et que
-l'accompagnement social est important
+  - Comprendre que la dépression et les troubles cognitifs sont fréquents et que l'accompagnement social est important
   - S'informer des options thérapeutiques si approprié
 - Pronostic
-  - Comprendre l'importance des facteurs pronostiques et prendre des décisions
-réalistes
+  - Comprendre l'importance des facteurs pronostiques et prendre des décisions réalistes
   - Chercher un soutien psychosocial si approprié
 
 > *HAS 2014, ESC 2021, [HFA 2010](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)*

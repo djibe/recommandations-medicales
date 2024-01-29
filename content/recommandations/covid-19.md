@@ -8,7 +8,7 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2023-11-24"
+lastmod = "2024-01-28"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2023"
 sources = ["HAS", "HCSP", "MinSanté"]
@@ -26,7 +26,7 @@ flowchart = true
 
 Page servant uniquement à stocker quelques mémos
 
-- Recours à l'antiviral Paxlovid +++, voir *Antiviraux*
+- Recours large à l'antiviral Paxlovid +++ (+65 ans, diabète, obésité, comorbidité ...), voir *Antiviraux*
 - Maladie à déclaration obligatoire par le biologiste
 - [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire)
 - Vaccination de toutes les femmes enceintes quel que soit le terme (*CNGOF*)
@@ -74,12 +74,8 @@ Contact à risque négligeable
 > La vaccination anti-SARS-CoV-2 est recommandée à toutes les femmes enceintes quel que soit le terme de la grossesse. (*CNGOF*), 3 doses
 {.alert .alert-info}
 
-Risque démultiplié de forme grave de covid-19 si polypathologique. Doit tenir compte des comorbidités, âge, sexe, facteurs socio-économiques. L'âge est le facteur majeur.
+Risque démultiplié de forme grave de Covid-19 si polypathologique. Doit tenir compte des comorbidités, âge, sexe, facteurs socio-économiques. L'âge est le facteur majeur.
 
-- DGS Urgent 2022-66 a ajouté
-  - +60 ans sans 2<sup>e</sup> rappel
-  - Immunodépression (tout âge et tout statut vaccinal)
-  - Comorbidité à haut risque de forme sévère et schéma vaccinal incomplet (tout âge)
 {{< clinique/covid-forme-grave >}}
 
 {{% /collapse %}}
@@ -97,15 +93,17 @@ Risque démultiplié de forme grave de covid-19 si polypathologique. Doit tenir 
 
 Toutes les conditions doivent être remplies pour la prescription de Paxlovid:
 
-1. Personne ≥ 18 ans à risque de {{< modal-btn modal-grave >}}forme grave{{< /modal-btn >}}
+1. Personne à (très) haut risque de {{< modal-btn modal-grave >}}forme grave{{< /modal-btn >}} ou **+65 ans**  
+  Quelque soit leur âge et leur statut vaccinal.
 2. Test antigénique ou RT-PCR positif
 3. Pas d'oxygénothérapie nécessaire
-4. Début des symptômes depuis ≤ 5 jours
+4. Début des symptômes depuis ≤ 5 jours (idéalement)
 5. [Absence de contre-indication au traitement](https://www.ameli.fr/sites/default/files/Documents/Prescription-Paxlovid-en-ville.pdf)
+    - Grossesse
     - Insuffisance hépatique sévère (Child C)
     - Insuffisance rénale sévère (clairance < 30 mL/min)
     - Médicaments contre-indiqués liés au CYP3A (voir ci-dessous item 6)
-6. [Contrôle obligatoire des interactions du Paxlovid](https://sfpt-fr.org/recospaxlovid)
+6. [Contrôle obligatoire des interactions du Paxlovid](https://sfpt-fr.org/recospaxlovid) (alternative: [Liverpool](https://www.covid19-druginteractions.org/checker))
 
 > En cas de contre-indication au Paxlovid, adresser à l'hôpital pour administration d'Evusheld (*DGS Urgent 2022-66*)
 
@@ -124,6 +122,8 @@ Possibilité de préciser une **dispensation conditionnelle** en cas de test Cov
 
 {{% /collapse %}}
 {{%collapse "Vaccination" %}}
+
+> << Il n'y a aujourd'hui pas de seuil établi qui permette de corréler la réponse humorale à la protection contre les formes graves d'infection. Il est donc inutile de faire une sérologie avant un nouveau rappel. >> – *HAS 2023*
 
 - [Centres de vaccination](https://www.sante.fr/cf/centres-vaccination-covid.html)
 - [Trouver une dose d'ARNm](https://vitemadose.covidtracker.fr)
@@ -206,6 +206,7 @@ graph TB
 
 ### Autres
 
+- [HAS, ANRS. Traitement de la Covid-19. 22/12/2023.](https://www.has-sante.fr/jcms/p_3447571/fr/traitement-de-la-covid-19)
 - [HAS. Stratégie de vaccination contre la Covid-19 : anticipation des campagnes de vaccination en 2023. 24/02/2023.](https://www.has-sante.fr/jcms/p_3417245/fr/strategie-de-vaccination-contre-la-covid-19-anticipation-des-campagnes-de-vaccination-en-2023)
 - [DGS-Urgent](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Covid-19 : une dose de rappel vaccinal additionnelle ouverte à davantage de personnes et des délais précisés. 13/07/2022.](https://www.has-sante.fr/jcms/p_3352553/fr/covid-19-une-dose-de-rappel-vaccinal-additionnelle-ouverte-a-davantage-de-personnes-et-des-delais-precises)

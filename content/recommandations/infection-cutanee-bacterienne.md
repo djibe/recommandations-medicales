@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-18T14:42:09+01:00"
 publishdate = "2024-01-26"
-lastmod = "2024-01-26"
+lastmod = "2024-01-29"
 specialites = ["dermatologie"]
 annees = "2023"
-sources = ["GPIP", "HAS"]
+sources = ["GPIP", "CMIT", "HAS"]
 tags = ["enfant"]
 anglais = ["Skin and soft tissue infections (SSTI)"]
 sctid = "128936008"
@@ -47,7 +47,7 @@ Folliculite superficielle
 
 Furoncle
 : Infection profonde et nécrosante du follicule pilo-sébacé due à *Staphylococcus aureus*, qui produit le plus souvent une toxine, la leucocidine de Panton-Valentine.
-: Dit **anthrax** quand multiples furoncles. **Furonculose** quand répétition de furoncles sur une longue période (portage nasal ++).
+: Dit **anthrax** quand multiples furoncles agglomérés. **Furonculose** quand répétition de furoncles sur une longue période (portage nasal ++).
 : Cliniquement: lésion papulo-nodulaire évoluant vers le bourbillon purulent en 5 à 10 jours.
 : Diagnostic différentiel du furoncle: kyste épidermique inflammatoire ou surinfecté (pré-existant), [hidradénite suppurée]({{< relref "maladie-verneuil.md" >}}).
 
@@ -64,6 +64,9 @@ du nez avec **AEG fébrile** et œdème du visage.
 : Urgence spécialisée.
 
 ### Abréviations
+
+CMIT
+: Collège des Universitaires des Maladies Infectieuses et Tropicales
 
 GPIP
 : Groupe de Pathologie Infectieuse Pédiatrique (de la Société Française de Pédiatrie)
@@ -200,10 +203,7 @@ Prise en charge d'un abcès cutané:
 - [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 155. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-155-%E2%80%94-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques_CompressPdf.pdf)
 - [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-155.pdf)
 - Prescrire Redaction. Furoncle. Premiers Choix Prescrire. Rev Prescrire. 2023.
+- [CMIT, SFMTSI, SPILF, SMV. Infections de la peau, des tissus mous et des muscles. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
-
-### Bibliographie en attente
-
-- Prescrire
 
 {{%/sources%}}

@@ -6,12 +6,12 @@ synonyms = ["Borréliose de Lyme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-30T18:17:39+02:00"
 publishdate = "2021-10-02"
-lastmod = "2024-01-26"
+lastmod = "2024-01-29"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2023"
 sources = ["GPIP", "HAS", "DGS"]
 tags = ["prevention"]
-anglais = ["Lyme disease"]
+anglais = ["Lyme disease", "tick bites"]
 sctid = "23502006"
 icd10 = "A69.2"
 image = true
@@ -130,7 +130,7 @@ Prise en charge recommandée après une morsure de tique:
 
 En cas d'extraction incomplète: désinfection seule et surveillance régulière du site de la piqûre (*HCSP 2023*).
 
-Pas d'antibiothérapie ou d'examens systématiques après extraction de tique
+Pas d'antibiothérapie ou d'examens systématiques après extraction de tique (à discuter en pédiatrie si piqûres multiples avec succion > 48-72 heures – *GPIP 2023*)
 {.alert .alert-warning}
 
 {{% /collapse %}}

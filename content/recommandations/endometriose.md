@@ -304,7 +304,7 @@ accTitle: Conduite à tenir et prise en charge d'une suspicion d'endométriose d
 
 ### Applications
 
-[Ziwig](https://endo.ziwig.com/main/home), [easyendo](https://www.easyendo.fr/), [Follow Metrios](https://followmetrios.com/application-endometriose/), [LUNA](https://www.luna-endometriose.com/).
+[Ziwig](https://endo.ziwig.com/main/home), [easyendo](https://www.easyendo.fr/), [Follow Metrios](https://followmetrios.com/application-endometriose/).
 
 ### Documents
 
