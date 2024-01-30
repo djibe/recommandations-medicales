@@ -1,16 +1,15 @@
 +++
-title = "Cirrhose biliaire primitive (CBP)"
-titleSeo = "Cirrhose biliaire primitive"
-prefix = "la "
+title = "Hépatite auto-immune"
+prefix = "l'"
 description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = "2024-01-30T10:45:25+01:00"
+date = "2024-01-30T17:16:57+01:00"
 publishdate = "2024-01-30"
 lastmod = "2024-01-30"
-specialites = ["endocrinologie"]
-annees = "2020"
-sources = ["Society1", "Society2"]
+specialites = ["hepato-gastro-enterologie"]
+annees = "2021"
+sources = ["PNDS"]
 tags = ["tag 1", "tag 2"]
 anglais = ["English word", "you can add one or delete this one"]
 sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"

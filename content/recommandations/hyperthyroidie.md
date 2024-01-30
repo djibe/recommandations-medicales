@@ -211,6 +211,8 @@ Causes extra-thyroïdiennes de TSH basse isolée:
 
 Seule la thyroglobuline sérique peut être utile en cas de suspicion d'hyperthyroïdie factice (prise d'hormones thyroïdiennes).
 
+Réaliser une [sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}) en cas de maladie de Basedow (*ESsCD*).
+
 {{%warning%}}
 
 - Le dosage de la T3L n'a pas d'utilité sauf hyperthyroïdie sous amiodarone ou TSH basse avec T4L normale

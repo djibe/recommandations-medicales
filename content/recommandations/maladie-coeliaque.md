@@ -105,18 +105,18 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 {{%collapse "Qui dépister par sérologie coeliaque ?" %}}
 
 - [Syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) (SII)
+- [Cirrhose biliaire primitive]({{< relref "cholangite-biliaire-primitive.md" >}}) (*SNFGE/AFEF 2019*)
 - Transaminases augmentées inexpliquées
 - [Diabète type 1]({{< relref "diabete-type-1.md" >}}) (tous les 5 ans)
 - Symptômes évocateurs de maladie cœliaque  
   ou malabsorption sans antécédents familiaux ni auto-immuns
 - Colite microscopique
-- [Thyroïdite de Hashimoto]({{< relref "hypothyroidie.md" >}})  
-  ou maladie de Basedow
+- [Thyroïdite de Hashimoto]({{< relref "hypothyroidie.md" >}}) ou [maladie de Basedow]({{< relref "hyperthyroidie.md" >}})
 - Ostéopénie, [ostéoporose]({{< relref "osteoporose.md" >}})
 - Ataxie ou neuropathie périphérique inexpliquée
 - Aphtes récurrents ou défauts de l'émail dentaire
 - [Infertilité]({{< relref "infertilite-couple.md" >}}), fausses couches répétées, règles tardives, [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
-- Syndrome de fatigue chronique
+- Syndrome de [fatigue chronique](/tags/fatigue/)
 - Pancréatite aiguë ou chronique en l'absence d'autres facteur causal
 - Épilepsie
 - Céphalées, [migraines]({{< relref "migraine.md" >}})
