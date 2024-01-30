@@ -35,7 +35,7 @@ todo = "flow, paronychie GPIP"
 - Pour les cas d'allergie ou d'infections cutanées de l'enfant, voir *Traitement*
 - La prise en charge de l'abcès cutané est avant tout chirurgicale (avec antibiothérapie anti-staphylococcique)
 
-Chapitres liés: [érysipèle]({{< relref "erysipele.md" >}}), morsure, [orgelet]({{< relref "orgelet.md" >}})
+Chapitres liés: [érysipèle]({{< relref "erysipele.md" >}}), [morsure]({{< relref "morsure.md" >}}), [orgelet]({{< relref "orgelet.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

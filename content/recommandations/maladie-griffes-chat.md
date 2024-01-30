@@ -52,7 +52,7 @@ MGC
 
 Signes et symptômes évocateurs de la maladie des griffes du chat:
 
-- Contexte de griffure ou morsure par un chat  
+- Contexte de griffure ou [morsure par un chat]({{< relref "morsure.md" >}})  
   Exceptionnellement par inoculation (épine ou écharde).
 - Incubation pendant **2 à 3 semaines** puis apparition d'**adénopathie régionale** (unique pour la moitié des cas) pouvant persister plusieurs mois (réaction immunologique principalement)
 - Rougeur ou lésion au niveau de la plaie 3 à 10 jours après l'inoculation (50%)

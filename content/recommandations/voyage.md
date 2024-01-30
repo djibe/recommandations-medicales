@@ -157,7 +157,7 @@ Prévention du mal des montagnes:
 
 ### Protection contre les animaux
 
-Toute morsure OU piqûre avec symptômes locaux marqués ou généraux nécessite une consultation
+Toute [morsure]({{< relref "morsure.md" >}}) ou piqûre avec symptômes locaux marqués ou généraux nécessite une consultation
 {.alert .alert-warning}
 
 Les -15 ans représentent 40% des morsures à risque de rage.

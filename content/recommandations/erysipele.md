@@ -50,7 +50,7 @@ Autres causes de grosse jambe rouge:
   - Évolution souvent subaiguë du pied et tiers inférieur de jambe. L'inflammation cutanée apparaît moins limitée avec douleur modérée et fièvre parfois absente
   - Germes: staphylocoque doré, *Pseudomonas aeruginosa*
 - Autres dermohypodermites bactériennes aiguës  
-  Pasteurellose d'inoculation si notion de morsure de chien ou chat.
+  Pasteurellose d'inoculation si notion de [morsure de chien ou chat]({{< relref "morsure.md" >}}).
 - Dermohypodermite sur insuffisance veineuse
 - Eczéma
   - Prurit, placard érythémateux à bords émiettés

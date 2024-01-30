@@ -178,7 +178,7 @@ L'asplénie (par splénectomie ou autre) induit un risque infectieux majeur néc
 - Notification de la date et du motif sur le carnet de santé
 - Intérêt du suivi vaccinal rigoureux
 - Consulter avant de voyager à l'étranger
-- Prophylaxie en cas de morsure animale ou de tiques, léchage de plaie par un animal
+- Prophylaxie en cas de [morsure animale]({{< relref "morsure.md" >}}) ou de tiques, léchage de plaie par un animal
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'asplénie" "show" %}}

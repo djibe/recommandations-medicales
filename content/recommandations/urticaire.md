@@ -402,7 +402,7 @@ Et aussi:
 - Stress et émotions, efforts physiques
 - Coups, traumatismes
 - Interventions chirurgicales
-- Piqûres de guêpes, abeilles, morsures de serpents
+- Piqûres de guêpes, abeilles, [morsures de serpents]({{< relref "morsure.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une urticaire" "show" %}}

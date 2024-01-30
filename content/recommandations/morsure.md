@@ -1,35 +1,44 @@
 +++
-title = "Morsure"
+title = "Morsure par un homme ou un animal"
 prefix = "la "
-description = "TODO:"
+description = "Recommandations pour le traitement et la prise en charge des morsures par un homme ou un animal (chien). Exploration de la plaie, antibiothérapie, tétanos, rage"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-26T12:44:02+01:00"
-publishdate = "2024-01-29"
-lastmod = "2024-01-29"
+publishdate = "2024-01-30"
+lastmod = "2024-01-30"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2023"
-sources = ["GPIP"]
+sources = ["GPIP", "CMIT"]
 tags = []
-anglais = ["Bite"]
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = "https://prod-mapping.ihtsdotools.org/#/"
-draft = true
-image = false
-imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow"
+anglais = ["Bites"]
+sctid = "3404009"
+icd10 = ""
+image = true
+imageSrc = "Morsure de chien superficielle. Nicor, CC BY-SA 3.0, via Wikimedia Commons"
+todo = "flow"
 +++
 
 {{%article-summary%}}
 
-TODO:
+- Toute morsure par un animal est à risque et doit être évaluée par un médecin
+- La prise en charge initiale de la morsure (chien, chat, autre) associe lavage abondant à l'eau et au savon, antisepsie
+- L'examen clinique recherche une immunodépression et l'état de la plaie (délabrement, profondeur) et le risque infectieux (bactérien, tétanos, rage)
+- Antibiothérapie par amoxicilline - clavulanique pendant 7 jours si: comorbidités (immunodépression, asplénie, diabète, alcool), érysipèle, plaie profonde ou délabrée, atteinte articulaire, près de tendon ou osseuse, main, face, suture
+- Adresser une plaie par morsure aux Urgences si: geste chirurgical ou suture envisagés, plaie grave (localisation, délabrement, animal suspect), immunothérapie antitétanique nécessaire, anti-venin
+- Tout animal mordeur doit être signalé en mairie ([annuaire](https://www.service-public.fr/particuliers/vosdroits/F24028)) par le propriétaire ou le médecin et placé sous surveillance vétérinaire pendant 15 jours
+- [Annuaire des Centres antirabiques (PDF)](https://www.pasteur.fr/fr/file/14548/download)
 
 Chapitre lié: [érysipèle]({{< relref "erysipele.md" >}}), [maladie des griffes du chat]({{< relref "maladie-griffes-chat.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-TODO:
+Morsure
+: Plaie qui résulte d'une lésion causée par des dents ou appendices équivalents.
+: Définition pour le chien selon l'*Anses 2020*: Prise en gueule avec contact des dents sur une personne que la peau soit couverte (vêtements et accessoires en contact avec le corps) ou non, portant atteinte à l'intégrité physique de cette personne.
+: Le pronostic est infectieux, fonctionnel (articulaire, tendineux), douloureux, psychologique et esthétique.
+: Morsure de chien: 40 % ont des séquelles à 1 an et 33 décès sur la période 1990-2010.
 
 ### Abréviations
 
@@ -45,9 +54,9 @@ GPIP
 
 ### Interrogatoire
 
-Éléments à rechercher à l'interrogatoire en cas de morsure par un homme ou un animal.
+Éléments à rechercher à l'interrogatoire en cas de morsure par un homme ou un animal:
 
-- Antécédents: **immunodépression**, [asplénie]({{< relref "asplenie.md" >}}), diabète ...
+- Antécédents: **immunodépression**, [asplénie]({{< relref "asplenie.md" >}}), [diabète](/tags/diabete/) ...
 - Traitements en cours
 - Date du dernier rappel antitétanique
 - Alcool, tabac
@@ -81,8 +90,9 @@ Prise en charge commune à toutes les morsures d'animaux et d'hommes:
 - **Lavage** abondant à l'eau et au savon
 - **Désinfection** par antiseptique (chlorhexidine ++)
 - Parage
-- Une suture est à décider au cas par cas (contre-indiquée si infection)
-- Pas de pansement occlusif
+- Une suture est à décider au cas par cas  
+  Visage toujours sinon contre-indiquée si infection.
+- Pansement non occlusif
 - Statut vaccinal pour le tétanos (*CMIT 2022*):
   - Vaccin à jour (< 20 ans avant 65 ans et 10 ans après): ne rien faire
   - Plaie mineure propre et non immunisé: vaccination immédiate
@@ -102,19 +112,21 @@ Avis chirurgical et/ou infectiologique urgent en cas de plaie grave (localisatio
 
 ### Traitement de la morsure par chien et chat
 
-Prise en charge commune aux morsures d'animaux et déterminer le statut rabique de l'animal (incubation humaine de 3 jours à 3 mois). Pour la prise en charge du chien mordeur, voir le chapitre suivant.
+Prise en charge des morsures de chien commune aux morsures d'animaux et déterminer le statut rabique de l'animal (incubation humaine de 3 jours à 3 mois). Pour la prise en charge du chien mordeur, voir le chapitre suivant.
 
-Avis urgent du Centre antirabique si: morsure survenue dans une région endémique (TODO:) ou animal y ayant séjourné.
+Avis urgent du **Centre antirabique** ([annuaire](https://www.pasteur.fr/fr/file/14548/download)) si: morsure survenue dans une région endémique ou animal y ayant séjourné ([carte des pays à risque](https://apps.who.int/neglected_diseases/ntddata/rabies/rabies.html)).
+
+> << L'analyse de la littérature scientifique ne permet pas d'identifier la race et/ou le type racial (et a fortiori des races en particulier) comme seul facteur (ou facteur majeur) de risque de morsure >> – *Anses 2020*
 
 ### Traitement de la morsure humaine
 
-Selon le contexte: statut vaccinal voire prophylaxie hépatite B.
+Selon le contexte: statut vaccinal voire prophylaxie [hépatite B]({{< relref "hepatite-b.md" >}}).
 
 ### Traitement de la morsure de vipère
 
-Urgences pour immunothérapie (Viperfav®) si venimeuse
+Adresser aux Urgences pour immunothérapie (Viperfav®) si vipère venimeuse.
 
-Si venimeuse: amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 7 jours
+Si vipère venimeuse: amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 7 jours
 
 {{% /collapse %}}
 {{%collapse "Surveillance du chien après morsure" %}}
@@ -122,7 +134,7 @@ Si venimeuse: amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 prises p
 > << Un comportement normal et la bonne santé apparente d'un chien n'éliminent pas le risque de contamination rabique. >> – *Prescrire Redaction*
 {.alert .alert-info}
 
-- Toute morsure par un chien doit être déclarée par son propriétaire à sa mairie de résidence  
+- Toute morsure par un chien doit être déclarée par son propriétaire à sa mairie de résidence ([annuaire](https://www.service-public.fr/particuliers/vosdroits/F24028))  
   À défaut, par tout médecin ([art. L. 211-14-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022200148))
 - Tout animal mordeur ou griffeur (domestique ou sauvage) doit être surveillé par un *vétérinaire sanitaire* (homologué) pendant 15 jours ([Arrêté du 21 avril 1997](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000564885/))
   - Même si l'animal est vacciné contre la rage
@@ -136,16 +148,13 @@ Si venimeuse: amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 prises p
 
 - [Gillet Y et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)
 - [CMIT. Tétanos. Item 160. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-160.pdf)
+- [Service-Public. Que faire en cas de morsure par un chien ? 17/03/2023.](https://www.service-public.fr/particuliers/vosdroits/F24028)
+- [Ameli. Morsure de chien ou de chat. 29/11/2023.](https://www.ameli.fr/assure/sante/urgence/morsures-griffures-piqures/morsure-chien-chat)
 - [CMIT, SFMTSI, SPILF, SMV. Infections par inoculation, morsures (hors rage et envenimations). ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
 - [CMIT, SFMTSI, SPILF, SMV. Envenimations. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
+- [Anses. Risque de morsure de chien. 2020. (PDF)](https://www.anses.fr/fr/system/files/SABA2015SA0158Ra.pdf)
 - Prescrire Redaction. Morsure ou griffure de chien : quelles obligations de surveillance de l'animal. Rev Prescrire. 2020.
 - [HAS, SPILF. Prise en charge des infections cutanées bactériennes courantes. 2019.](https://www.has-sante.fr/jcms/c_2911550/fr/prise-en-charge-des-infections-cutanees-bacteriennes-courantes)
-
-### Bibliographie en attente
-
-- CEDEF
-- Service-Public
+- [zoopsy, InVS. Facteurs de gravité des morsures de chien aux urgences. 2010. (PDF)](https://conseil53.ordre.medecin.fr/sites/default/files/domain-349/1/morsures_chiens_1.pdf)
 
 {{%/sources%}}
-
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–

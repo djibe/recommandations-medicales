@@ -143,13 +143,13 @@ Lorsqu'une statine doit être arrêtée pour mauvaise tolérance, envisager la s
   - Prévoir l'arrêt de la statine pendant la grossesse, sinon contacter le CRAT (cas d'[hypercholestérolémie familiale]({{< relref "hypercholesterolemie-familiale.md" >}}) ou hypertriglycéridémies sévères)
 - Selon *ESC CVD 2021* (grade C):  
   << Le traitement par statines n'est pas recommandé chez les femmes non ménopausées qui envisagent une grossesse ou qui n'utilisent pas une contraception efficace. >>
-- Selon les [RCP de la pravastatine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61650728&typedoc=R):  
+- Selon les [RCP de la pravastatine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61650728&typedoc=R#RcpFertGrossAllait):  
   << La pravastatine est contre-indiquée pendant la grossesse et doit être administrée aux femmes en âge de procréer uniquement si une conception est improbable et si ces patientes ont été informées du risque potentiel. >>
 
 ### Statines et allaitement
 
 - Selon le *CRAT* pour [atorvastatine](http://www.lecrat.fr/8616/), [rosuvastatine](http://www.lecrat.fr/8644/), [simvastatine](http://www.lecrat.fr/8654/):  
-  Recours à la [pravastatine](http://www.lecrat.fr/8626/) si traitement indispensable.
+  Recours à la [pravastatine](http://www.lecrat.fr/8626/) si traitement indispensable (les [RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61650728&typedoc=R#RcpFertGrossAllait) le réfutent).
 
 {{% /collapse %}}
 {{%collapse "Effets de l'arrêt d'une statine" %}}
