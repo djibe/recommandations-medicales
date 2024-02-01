@@ -189,4 +189,8 @@ graph TB
 - [SNFCP. Les hémorroïdes](https://www.snfcp.org/informations-maladies/hemorroides/les-hemorroides/)
 - [SNFCP. Hémorroïdes et Grossesse](https://www.snfcp.org/informations-maladies/pathologie-anale-grossesses-et-accouchement/hemorroides-et-grossesse/)
 
+### Bibliographie en attente
+
+[Hawkins AT et al; Clinical Practice Guidelines Committee of the American Society of Colon and Rectal Surgeons. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Hemorrhoids. Dis Colon Rectum. 2024.](https://journals.lww.com/dcrjournal/citation/9900/the_american_society_of_colon_and_rectal_surgeons.541.aspx)
+
 {{%/sources%}}

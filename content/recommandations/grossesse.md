@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2024-01-05"
+lastmod = "2024-01-31"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "CRAT", "SFD"]
@@ -27,7 +27,6 @@ chart = true
 
 - 0 alcool et 0 tabac pendant la grossesse, interroger à chaque consultation
 - Vaccins grippe et coqueluche à chaque grossesse et 3 doses cumulées de Covid-19
-- [Calendrier de grossesse de GestaClic](http://gestaclic.fr/calculette.html)
 - [Nata](https://play.google.com/store/search?q=NATA&c=apps): l'appli officielle du suivi de grossesse multilingue
 - Besoins en [calcium]({{< relref "apports-calcium.md" >}}): 1 g/j (*IOF*)
 
@@ -100,6 +99,13 @@ const chartOptions = {
 
 Malgré ces fermetures de maternités, **43 %** des maternités ont réalisé en 2020 **moins de 3 accouchements par jour**. – *[Drees Les établissements de santé - édition 2022 (fiche 21)](https://drees.solidarites-sante.gouv.fr/publications-documents-de-reference-communique-de-presse/panoramas-de-la-drees/les-etablissements)*
 {.alert .alert-info}
+
+{{% /collapse %}}
+{{%collapse "Calendrier de grossesse" %}}
+
+{{< card-link-external title="Calendrier gestationnel" url="http://gestaclic.fr/calculette.html" subtitle="par GestaClic" >}} {{< card-link-external title="Calendrier de grossesse" url="https://www.perinat-nef.org/public-2/calendrier-de-grossesse/" subtitle="par nef" >}}
+
+{{< outils/terme >}}
 
 {{% /collapse %}}
 {{%collapse "Désir de grossesse et bilan pré-conceptionnel" %}}

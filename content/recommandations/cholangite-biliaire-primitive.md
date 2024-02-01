@@ -34,7 +34,7 @@ todo = "flow"
 
 Cholangite biliaire primitive (CBP ou cirrhose biliaire primitive)
 : Hépatopathie chronique auto-immune par inflammation des petites voies biliaires, à l'origine d'une **cholestases**. Elle atteint le plus souvent les femmes après 40 ans (90 %).
-: Une hépatite auto-immune (HAI) est associée dans 10% des cas.
+: Une [hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) (HAI) est associée dans 10% des cas.
 
 ### Abréviations
 
@@ -70,7 +70,7 @@ Diagnostic de cirrhose biliaire primitive (CBP) si au moins 2 critères sont rem
   et/ou anticorps anti-nucléaires de type cerclés (anti-gp210 ou anti-sp100)
 3. Lésions de cholangite inflammatoire destructrice granulomateuse ou lymphocytaire des canaux biliaires inter-lobulaires
 
-On parle de **syndrome de chevauchement** (*Overlap syndrome*) si une hépatite auto-immune (HAI) est associée avec au moins 2 critères parmi:
+On parle de **syndrome de chevauchement** (*Overlap syndrome*) si une [hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) (HAI) est associée avec au moins 2 critères parmi:
 
 1. Cytolyse avec ALAT > 5N
 2. IgG > 20 g/L ou anticorps anti-muscles lisses ≥ 1/80
@@ -85,9 +85,10 @@ Signes et symptômes à rechercher en cas de suspicion de cholangite biliaire pr
 
 ### Interrogatoire
 
-- Antécédents
+- Antécédents: hépatopathie, auto-immuns
+- Antécédents familiaux: hépatopathie, auto-immuns
 - Traitements en cours
-- Alcool, tabac
+- Alcool, tabac, toxiques
 - Bilans hépatiques antérieurs
 - Symptômes
   - **Asymptomatique** (20-30 %)
@@ -117,7 +118,7 @@ Signes et symptômes à rechercher en cas de suspicion de cholangite biliaire pr
 ### Bilan de la suspicion de cholangite biliaire primitive
 
 - NFS
-- Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine totale
+- Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine totale et conjuguée
 - TP
 - Électrophorèse des protéines sériques
 - Anticorps anti-mitochondries
@@ -136,12 +137,12 @@ Une fois le diagnostic de cholangite biliaire primitive posé, des comorbidités
 - [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}): IgA totales, IgA anti-transglutaminase
 - Vitamine D
 - [Ostéodensitométrie]({{< relref "osteoporose.md" >}})
-- Fibroscan®
+- Élastométrie hépatique (Fibroscan®)
 
 {{% /collapse %}}
 {{%collapse "Traitement de la cholangite biliaire primitive" %}}
 
-La prise en charge de la cholangite biliaire primitive est spécialisée par le gastro-entérologue: [annuaire des centres de compétence](https://www.filfoie.com/ou-consulter/carte-interactive/?fwp_type_de_public=adulte&fwp_rseau_centre=mivb-h) de la filière des maladies rares Filfoie.
+La prise en charge de la cholangite biliaire primitive est spécialisée par le gastro-entérologue: [annuaire des centres de compétence](https://www.filfoie.com/ou-consulter/carte-interactive/?fwp_type_de_public=adulte&fwp_rseau_centre=mivb-h) de la filière des maladies rares *Filfoie*.
 
 [Guide EASL d'information du patient](https://www.filfoie.com/wp-content/uploads/2019/09/Guidelines-EASL-CBP-pour-les-patients.pdf) et association de patients: [albi France](https://albi-france.org).
 

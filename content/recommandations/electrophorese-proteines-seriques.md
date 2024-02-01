@@ -60,7 +60,10 @@ Indications à la réalisation de l'électrophorèse des protéines sériques (E
 - Certaines anomalies osseuses radiologiques  
   Fracture vertébrale suspecte, fracture pathologique, géodes.
 - [Bouffées vasomotrices atypiques]({{< relref "menopause.md" >}}) (*CNGOF 2021 Ménopause*)
-- [Prurit sans orientation]({{< relref "prurit.md" >}}) (*CEDEF 2021*)
+- Hépatopathie
+  - [Prurit sans orientation]({{< relref "prurit.md" >}}) (*CEDEF 2021*)
+  - [Cholangite biliaire primitive]({{< relref "cholangite-biliaire-primitive.md" >}}) (*SNFGE/AFEF 2019*)
+  - [Hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) (*PNDS 2021*)
 - [Pneumonie aiguë communautaire]({{< relref "pneumonie-aigue-communautaire.md" >}}) à germe encapsulé (pneumocoque, *H. influenzae*) chez le jeune (*CEP*)
 
 > – *HAS 2017*

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-24T11:29:36+02:00"
 publishdate = "2023-07-27"
-lastmod = "2023-12-08"
+lastmod = "2024-01-02"
 specialites = ["infectiologie", "pediatrie"]
 annees = "2023"
 sources = ["Collèges"]
@@ -101,7 +101,7 @@ Le diagnostic de mononucléose infectieuse est biologique:
 - CRP augmentée
 - MNI test (se 85-90% sauf enfant, spe +90%, *CMIT*, *CEMI*)
 - Si MNI test négatif: sérologie EBV  
-  Primo-infection: IgM anti-VCA + et IgG anti-EBNA -
+  Primo-infection: IgM anti-VCA (+ les 3 premiers mois) et IgG anti-EBNA (- les 3 premiers mois)
 - Cytolyse modérée isolée
 
 Autres anomalies plus rares: anémie hémolytique, thrombopénie auto-immune.
@@ -114,7 +114,7 @@ La prise en charge d'une mononucléose infectieuse est purement symptomatique:
 - Pas d'éviction de la collectivité (*CNPU*)
 - Absence de mesure prophylactique pour les contacts
 - Repos  
-  Prévenir que la fatigue est de durée variable.
+  Prévenir que la fatigue est de durée variable (10% ont plusieurs mois).
 - Si fièvre: paracétamol
 
 {{% /collapse %}}

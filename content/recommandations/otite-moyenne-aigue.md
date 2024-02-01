@@ -157,14 +157,13 @@ Avis spécialisé ORL en cas d'échec à 48-72 heures chez l'adulte (*HAS/SPILF/
 {.alert .alert-warning}
 
 Échec de l'antibiothérapie de l'otite moyenne aiguë (*GPIP 2023*)
-:
-    - Persistance ou aggravation pendant l'antibiothérapie
-    - ou réapparition des symptômes et des signes otoscopiques dans les 72 heures suivant son arrêt
+: - Persistance ou aggravation pendant l'antibiothérapie
+- ou réapparition des symptômes et des signes otoscopiques dans les 72 heures suivant son arrêt
 : Elle est le plus souvent due à *Haemophilus influenzae*.
 
 En cas d'échec de la première ligne **chez l'enfant**:
 
-- Par amoxicilline: amoxicilline-acide clavulanique 80 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours  
+- Par amoxicilline: <mark>amoxicilline-acide clavulanique 80 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours</mark>  
   voire céfpodoxime 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 10 jours
 - Par céfpodoxime: amoxicilline 150 mg/kg en 3 prises (max 3 g/j)
 - Par amoxicilline-acide clavulanique: ceftriaxone 50 mg/kg/j IM/IV pendant 3 jours

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-07T13:22:41+02:00
 publishdate = "2021-01-07"
-lastmod = "2022-03-23"
+lastmod = "2024-01-30"
 specialites = ["ophtalmologie"]
 annees = "2022"
 sources = []
@@ -63,6 +63,7 @@ datatable = true
 | Toulon | Ophtaval | Pl. Gén de Gaulle Le Médival<br>Bat A, 83160 La Valette du Var | Journée | 04 94 61 00 88 | |
 | Toulouse | Site Purpan - Hôpital Riquet<br>3e étage, Hall C | Pl. du Dr Baylac<br>31300 Toulouse | 24/7 | 05 61 77 22 33 | |
 | Toulouse | Centre ophtalmologique de la<br>clinique de l'union | Bd de Ratalens<br>31240 Saint-Jean | lun-ven<br>9:00-12:00<br>14:00-18:00 | 05 61 37 87 34 | Urgences de la clinique we et jf |
+| Tours | CHU Bretonneau | 2 bd Tonnelé<br>37000 Tours | lun-ven 8:30-17:30 | 02 47 47 47 47 | Sur appel en dehors des horaires |
 | Villeneuve-Saint-Georges | Hôpital Intercommunal CHIV | 40 All. de la source<br>94190 Villeneuve-St-Georges | 24/7 | 01 43 86 20 20 | Urgences de 17:00 à 8:30 |
 {{< /table >}}
 
