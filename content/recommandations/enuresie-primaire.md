@@ -24,7 +24,7 @@ flowchart = true
 {{%article-summary%}}
 
 - L'énurésie primaire isolée (EnPI) est une incontinence urinaire intermittente, pendant le sommeil, après l'âge de 5 ans
-- Devant un cas d'énurésie, éliminer: [infection urinaire]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), [diabète]({{< relref "diabete-type-1.md" >}}), [constipation]({{< relref "constipation.md" >}}), [oxyurose]({{< relref "oxyurose.md" >}})
+- Devant un cas d'énurésie, éliminer: [infection urinaire]({{< relref "infection-urinaire-enfant.md" >}}), [diabète]({{< relref "diabete-type-1.md" >}}), [constipation]({{< relref "constipation.md" >}}), [oxyurose]({{< relref "oxyurose.md" >}})
 - L'énurésie primaire isolée n'a pas d'origine psychologique: déculpabiliser l'enfant
 - L'énurésie primaire isolée est un diagnostic clinique ([calendrier mictionnel](https://afpa.org/content/uploads/2017/08/nuit-au-sec-carre%CC%81-blanc.jpg))
 - La prise en charge de l'énurésie comprend des mesures hygiéno-diétetiques
@@ -61,9 +61,9 @@ Rythme, volume mictionnel et nuits mouillées.
 
 - Antécédents urinaires et traumatiques
 - Antécédents familiaux (30-60%)
-- Signes de [diabète]({{< relref "diabete-type-2.md" >}})  
+- Signes de [diabète](/tags/diabete/)  
   Polyuro-polydipsie, perte de poids, fatigue.
-- Signes d'infection urinaire  
+- Signes d'[infection urinaire]({{< relref "infection-urinaire-enfant.md" >}})  
   Brûlures mictionnelles, pollakiurie, urines malodorantes.
 - Signes d'anomalie urinaire  
   Pertes d'urines, urgenturie, > 7 ou < 4 mictions diurnes, douleurs mictionnelles, jet faible, nécessité de pression abdominale pour uriner.  
@@ -113,7 +113,7 @@ Seul traitement première intention (20% de guérison).
 - Rassurer et déculpabiliser l'enfant voire proposer un soutien psychologique
 - Informer sur la maladie
 - [Calendrier mictionnel](https://afpa.org/content/uploads/2017/08/nuit-au-sec-carre%CC%81-blanc.jpg) en suivant les conseils pendant ≥ 2 semaines
-- [Correction d'une constipation]({{< relref "constipation.md" >}}) ou [infection urinaire]
+- [Correction d'une constipation]({{< relref "constipation.md" >}}) ou [infection urinaire]({{< relref "infection-urinaire-enfant.md" >}})
 
 Aucune étude fiable sur: hypnose, psychothérapie, acupuncture, homéopathie et chiropraxie
 {.alert .alert-warning}

@@ -43,6 +43,8 @@ Recommandations pour le traitement des infections urinaires communautaires de l'
   - Cystite: ECBU, antibiothérapie probabiliste puis ECBU de contrôle et mensuel
   - Pyélonéphrite: *Urgences*
 
+Chapitres liés: [infections urinaires chez l'enfant]({{< relref "infection-urinaire-enfant.md" >}}), [infections génitales de l'homme]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}})
+
 {{%/article-summary%}}
 {{%collapse "BU et ECBU" %}}
 

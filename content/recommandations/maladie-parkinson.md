@@ -398,7 +398,7 @@ Arrêt des anticholinergiques si possible. Augmenter les fibres/fruits et l'hydr
 
 #### Troubles mictionnels
 
-Les troubles mictionnels sont très fréquents et débutent souvent avec une nycturie. Exclure une infection urinaire en aigu, dépister un diabète selon les symptômes. Hydratation, hygiène locale, traitement de la constipation, dispositifs pour éviter de se lever la nuit. Envisager un anticholinergique avec le neurologue (bilan urodynamique recommandé). Avis urologique en cas de symptômes résistants.
+Les troubles mictionnels sont très fréquents et débutent souvent avec une nycturie. Exclure une [infection urinaire]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}) en aigu, dépister un diabète selon les symptômes. Hydratation, hygiène locale, traitement de la constipation, dispositifs pour éviter de se lever la nuit. Envisager un anticholinergique avec le neurologue (bilan urodynamique recommandé). Avis urologique en cas de symptômes résistants.
 
 #### Dysfonction érectile et de la libido
 
