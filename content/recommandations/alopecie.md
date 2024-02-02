@@ -152,7 +152,7 @@ Les traitements de l'alopécie androgénétique ne sont possibles qu'à partir d
 
 Prise en charge de l'alopécie androgénétique de l'homme (par efficacité décroissante):
 
-- Finastéride 1 mg x 4/j + [fiche info patient ANSM (PDF)](https://ansm.sante.fr/uploads/2022/07/06/20191210-finasteride-fichepatient-1-2.pdf)  
+- Finastéride 1 mg/j + [fiche info patient ANSM (PDF)](https://ansm.sante.fr/uploads/2022/07/06/20191210-finasteride-fichepatient-1-2.pdf)  
   Possible de 18 à 41 ans avec **risques psychiatriques**, sexuels, gynécomastie à surveiller et baisse du PSA.
 - Si échec finastéride à 12 mois: dutastéride 0,5 mg x 1/j, sinon au long cours
 - [Minoxidil 5%](https://base-donnees-publique.medicaments.gouv.fr/extrait.php?specid=62182563) 1 mL ou 1/2 bouchon x 2/j
