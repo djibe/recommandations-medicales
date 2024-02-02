@@ -309,9 +309,10 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
   - DFGe < 60: 0,6-0,8 g/kg/j
   - Sauf chez la personne âgée
 - Vaccinations
-  - Grippe annuelle, Covid-19
+  - Annuels: grippe, Covid-19 et de l'entourage
   - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
-  - Sérologie [hépatite B]({{< relref "hepatite-b.md" >}}) et vacciner si Ac anti-HBs < 10 UI/L
+  - Sérologie [hépatite B]({{< relref "hepatite-b.md" >}}) et vacciner si Ac anti-HBs < 10 UI/L  
+    [4 doubles doses]({{< relref "hepatite-b.md" >}}) si hémodialysé non vacciné.
 - Ferritinémie cible > 100 ng/mL
 - DFGe < 45
   - Suivi par néphrologue impératif
@@ -503,6 +504,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 - {{< references/sfd-dt2 >}}
 - [HAS. Maladie rénale chronique de l'adulte. Guide du parcours de soins. Juillet 2021.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
 - [Cheung A et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://www.kidney-international.org/article/S0085-2538(20)31269-2/fulltext)
+- [Vaccination Info Service. Patient présentant une maladie rénale chronique. 23/04/2020.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Patient-porteur-d-une-maladie-chronique/Patient-presentant-une-maladie-renale-chronique)
 - {{< references/esc-dyslipidaemias >}}
 - {{< references/esc-hta >}}
 - [Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2012 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney inter. Suppl. 2013. (PDF)](https://kdigo.org/wp-content/uploads/2017/02/KDIGO_2012_CKD_GL.pdf)

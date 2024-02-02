@@ -235,13 +235,14 @@ Si prématuré < 32 semaines ou poids < 2 kg: schéma 4 doses à J0-M1-M2-M6 ave
 
 #### Patient hémodialysé ou immunodéprimé avec exposition
 
-4 doses *doubles* à M0-M1-M2-M6 par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R) (2 injections pour 40 µg d'antigène).  
+4 doses *doubles* à M0-M1-M2-M6 par doubles [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R) (2 injections pour 40 µg d'antigène).  
 
 ### Contre-indications à la vaccination hépatite B
 
 Une seule contre-indication: hypersensibilité à la substance ou ses composants.
 
-Précautions chez: sclérose en plaques.
+> << Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >> (*[SFSEP 2019](https://www.sciencedirect.com/science/article/abs/pii/S0035378719302759)*)
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Découverte d'une hépatite B active" %}}
@@ -371,7 +372,7 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler.
 
 {{< youtube id="XfEdz-xm9qs" title="Sérologie de l'hépatite B autour de la vaccination (Vaccinews)" >}}
 
-- [HAS, anrs, CNS. Recommandations de prise en charge des personnes infectées chroniquement par le virus de l'hépatite B +/- de l'hépatite delta. 2023.](https://www.has-sante.fr/jcms/p_3324682/fr/prise-en-charge-des-personnes-infectees-par-les-virus-de-l-hepatite-b-c-ou-d)
+- [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées chroniquement par le virus de l'hépatite B +/- de l'hépatite delta. 2023.](https://www.has-sante.fr/jcms/p_3324682/fr/prise-en-charge-des-personnes-infectees-par-les-virus-de-l-hepatite-b-c-ou-d)
 - {{< references/calendrier-vaccinal >}}
 - [CMIT. Hépatites virales. Item 167. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-167.pdf)
 - {{< references/afef-foie-non-invasif >}}

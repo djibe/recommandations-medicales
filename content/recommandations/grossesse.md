@@ -125,13 +125,13 @@ Prise de 0,4 à 0,8 mg/j d'acide folique (*USPTF*)
 
 Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{< relref "vaccination.md" >}})):
 
-- Covid-19 ARNm (RR de réanimation: 18)
+- Covid-19 ARNm au 1er trimestre (RR de réanimation sans vaccination: 18)
 - dTcaPolio à chaque grossesse entre 20 et 36 SA (BoostrixTetra, Repevax)
-- En période épidémique: grippe
+- Avant ou en début de période épidémique: [grippe]({{< relref "grippe.md" >}})
 
-> {{< references/calendrier-vaccinal >}}
+> – {{< references/calendrier-vaccinal >}} et *Vaccination Info Service*
 
-{{< card-link-external title="Tableau Vaccins et grossesse" url="https://medqual.fr/images/VACCINEWS/OUTILS/20220427-dossier-medicament-grossesse-vaccins-tableau.pdf" subtitle="par l'ANSM" >}}
+{{< card-link-external title="Tableau Vaccins et grossesse" url="https://ansm.sante.fr/uploads/2022/04/27/20220427-dossier-medicament-grossesse-vaccins-tableau.pdf" subtitle="par l'ANSM" >}}
 
 {{% /collapse %}}
 {{%collapse "Prévention de l'allo-immunisation Rhésus D" %}}
@@ -238,6 +238,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 {{%sources%}}
 
 - [Ministère de la Santé. Vaccination contre le Covid-19 et maternité. 2023. (PDF)](https://sante.gouv.fr/IMG/pdf/fiche_-_vaccination_contre_le_covid-19_et_maternite.pdf)
+- [Vaccination Info Service. Femmes enceintes. 06/06/2023.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Personnes-exposees-a-des-risques-specifiques/Femmes-enceintes)
 - [Medqual. La vaccination des femmes enceintes. VacciNews 03. 2023. (PDF)](https://medqual.fr/images/VACCINEWS/LETTRES/VACCINEWS_3.pdf)
 - [US Preventive Services Task Force, Barry MJ et al. Folic Acid Supplementation to Prevent Neural Tube Defects: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2807739)
 - [CNGOF, SFMU, SFAR. Prise en charge des urgences obstétricales en médecine d'urgence. Recommandations de Pratiques Professionnelles. 2022.](https://sfar.org/prise-en-charge-des-urgences-obstetricales-en-medecine-durgence/)
