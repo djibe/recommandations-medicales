@@ -104,7 +104,7 @@ L'**IRM hypophysaire** retrouve souvent une tumeur.
 La prise en charge de l'acromégalie dépend du centre spécialisé et le suivi doit être annuel
 {.alert .alert-info}
 
-- [ALD n°31]({{< relref "affection-longue-duree.md" >}})
+- [ALD 31]({{< relref "affection-longue-duree.md" >}})
 - MDPH
 - Prise en charge des complications spécialisée
 - Soutien psychologique

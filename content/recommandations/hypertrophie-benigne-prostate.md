@@ -7,10 +7,10 @@ synonyms = ["Hyperplasie bénigne de la prostate", "prostatisme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-04T10:52:08+02:00"
 publishdate = "2023-02-16"
-lastmod = "2023-12-19"
+lastmod = "2024-02-01"
 specialites = ["urologie"]
 annees = "2023"
-sources = ["EAU", "AFU"]
+sources = ["AFU", "EAU"]
 tags = ["geriatrie", "SAS"]
 anglais = ["Benign prostatic hyperplasia (BPH)"]
 sctid = "266569009"
@@ -148,10 +148,11 @@ Bilan d'hypertrophie bénigne de prostate (HBP) de première intention:
   {{%class%}}Seul examen complémentaire recommandé de façon systématique par la EAU.{{%/class%}}
 - Mesure du résidu post-mictionnel (RPM)  
   Quantification par échographie ou Bladder scan. Positif si > 50 mL.
-- ± PSA (si traitement envisageable)
+- ± [PSA]({{< relref "cancer-prostate.md" >}}) (si traitement envisageable)
 - ± Créatininémie et DFG CKD-EPI (si facteurs de risque)
-- Échographie réno-vésico-prostatique  
-- RPM > 150 mL: débitmétrie urinaire (*EAU 2022*)
+- Échographie réno-vésico-prostatique avec mesure du résidu post-mictionnel  
+  Significatif si > 1/3 du volume pré-mictionnel.
+- Si RPM > 150 mL: débitmétrie urinaire (*EAU 2022*)
 
 > Bilan de l'HBP selon *EAU 2023* et *AFU 2023 et 2015*
 

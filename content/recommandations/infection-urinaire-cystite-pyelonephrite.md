@@ -18,7 +18,7 @@ icd10 = "N39.0"
 image = true
 imageSrc = "Illustration des infections urinaires par Freepik"
 flowchart = true
-todo = "SEO infection urinaire homme recommandation, flowchart Figure 1 et 5, revoir uroscanner p. 23, améliorer pec ECBU+, enfants++ fille < 12 ans et garçon < 16 ans, http://medqual.fr/images/PRO_2018/FORMATIONS/OUTILS/ATBR_Memo_OCT2022_OK_PAP.pdf, https://www.urofrance.org/2023/05/02/cystite-recidivante-du-depistage-a-la-prise-en-charge-optimale-2/"
+todo = "SEO infection urinaire homme recommandation, flowchart Figure 1 et 5, revoir uroscanner p. 23, améliorer pec ECBU+, http://medqual.fr/images/PRO_2018/FORMATIONS/OUTILS/ATBR_Memo_OCT2022_OK_PAP.pdf, https://www.urofrance.org/2023/05/02/cystite-recidivante-du-depistage-a-la-prise-en-charge-optimale-2/"
 +++
 
 {{%article-summary%}}
@@ -128,12 +128,12 @@ Prise en charge de la cystite par **BU** (leucocytes+ voire nitrites+) et antibi
 
 ECBU uniquement en l'absence d'amélioration à 72 heures, récidive dans les 2 semaines ou double contre-indication. Le traitement adapté à l'antibiogramme sera celui des cystites à risque de complication.
 
-> Traitement << minute >> possible chez la jeune fille uniquement si pubère (*SPILF 2020*).
+> Traitement << minute >> possible dès que la jeune fille est pubère. – *GPIP 2023*
 
 **En cas de BU négative**, rechercher un diagnostic différentiel: mycose, urétrite, sécheresse cutanéo-muqueuse.  
 Une BU peut être réalisée en pharmacie avec orientation vers le médecin en cas de positivité.
 
-> En cas de cystite aiguë sur sonde urinaire: 3 jours d'antibiothérapie (*SPILF 2020*)
+> En cas de cystite aiguë sur **sonde urinaire**: 3 jours d'antibiothérapie – *SPILF 2020*
 {.alert .alert-info}
 
 ### Cystite aiguë à risque de complication
@@ -378,10 +378,6 @@ accTitle: Prise en charge d'une pyélonéphrite en ambulatoire d'après HAS 2021
 - [Plateel T et al. Nitrofurantoin failure in males with an uncomplicated urinary tract infection: a primary care observational cohort study. British Journal of General Practice. 2023.](https://bjgp.org/content/73/728/e204)
 - [NICE. Urinary tract infections in adults. 2023.](https://www.nice.org.uk/guidance/qs90/chapter/Quality-statements) (BU si < 2 sympt pour cystite)
 - [Bonkat G et al. EAU guidelines on urological infections. 2022.](https://uroweb.org/guidelines/urological-infections)
-- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Infections urinaires. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/infections-urinaires)
-- [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
-- [Cohen R et al. Prise en charge des infections urinaires de l'enfant. Recommandations du groupe de pathologie infectieuse pédiatrique de la Société française de pédiatrie et de la Société de pathologie infectieuse de langue française. Archives de Pédiatrie. 2015. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/infections_voies_urinaires_gpip_2015.pdf)
-- Information des parents: [mpedia](https://www.mpedia.fr/art-pyelonephrite/?sr=895)
 - [CMIT. Infections urinaires de l'adulte / Connaître les particularités de l'infection urinaire au cours de la grossesse. Item 161. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-161-web.pdf)
 
 {{%/sources%}}

@@ -175,6 +175,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Chou R et al. Screening, Referral, Behavioral Counseling, and Preventive Interventions for Oral Health in Adults: A Systematic Review for the US Preventive Services Task Force. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2811707)
 - [CEOP. Le fluor en prévention primaire : Recommandations du Collège des Enseignants en Odontologie Pédiatrique. 2021. (PDF)](https://sfop.asso.fr/wp-content/uploads/2021/11/Le-fluor-en-pre%CC%81vention-primaire-Droz-et-al-CEOP-2021.pdf)
 - Prescrire Redaction. Caries dentaires chez les enfants et les adolescents. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Berthet A., Lopez I., Jacquelin LF.; Société Française de Pédiatrie (SFP). Dépistage carieux en denture temporaire. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/depistage-carieux-en-denture-temporaire)

@@ -115,4 +115,8 @@ Toutefois, toute personne peut commencer la collaboration sous réserve de passe
 - [Site de la Convention collective nationale du personnel des cabinets médicaux](https://ccn-cabinets-medicaux.fr/assistants-medicaux)
 - [Légifrance. Convention collective nationale du personnel des cabinets médicaux du 14 octobre 1981.](https://www.legifrance.gouv.fr/conv_coll/id/KALICONT000005635409/)
 
+### Bibliographie en attente
+
+[Ameli Médecin. Assistant médical : simplifier ses démarches de recrutement avec le Titre emploi service entreprise. 25/01/2024.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/assistant-medical-simplifier-ses-demarches-de-recrutement-avec-le-titre-emploi-service-entreprise)
+
 {{%/sources%}}

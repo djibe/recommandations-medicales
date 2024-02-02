@@ -7,7 +7,7 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2024-01-25"
+lastmod = "2024-02-02"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2023"
 sources = ["MinSanté", "HAS"]
@@ -26,6 +26,7 @@ flowchart = true
 - Vaccination annuelle contre la grippe des personnes à risque de forme grave (+65 ans, grossesse, ...) à partir de mi-octobre (en métropole)
 - Le vaccin ne donne évidemment pas de syndrome grippal puisqu'il ne contient que quelques protéines de surface virales
 - Le rappel antigrippal est couplé à la vaccination Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*)
+- L'oseltamivir n'est pas remboursé
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -186,7 +187,11 @@ Contre-indications aux anti-inflammatoires AINS, aspirine et corticoïdes. Antit
 
 ### Traitement antiviral de la grippe
 
+> << Le service médical rendu par TAMIFLU est faible dans le cadre d'un traitement préventif en situation de **pandémie grippale** avérée ou potentielle. >> – *HAS 2020*
+
 La méta-analyse 2023 publiée dans le JAMA n'identifie pas de réduction du risque d'hospitalisation par l'oseltamivir. La Revue Prescrire va dans ce sens.
+
+L'oseltamivir n'est pas remboursé en dehors d'une hypothétique << pandémie grippale >>.
 
 {{%info%}}
 Indications au traitement antiviral de la grippe par [oseltamivir](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65545895&typedoc=R) (Tamiflu®, gén):
@@ -219,6 +224,7 @@ graph TB
 - [Hanula R et al. Evaluation of Oseltamivir Used to Prevent Hospitalization in Outpatients With Influenza: A Systematic Review and Meta-analysis. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2805976)
 - [CMIT. Grippe. Item 166. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-166.pdf)
 - {{< references/calendrier-vaccinal >}}
+- [HAS. Tamiflu (oseltamivir). Commission de la transparence. 24/06/2020.](https://www.has-sante.fr/jcms/p_3191478)
 - Prescrire Redaction. Grippe saisonnière. Rev Prescrire. 2022.
 - [CNGOF. Grippe et grossesse. 2013. (PDF)](https://cngof.fr/app/pdf/R%C3%A9f%C3%A9rentiels//GRIPPE/2013_GRIPPE.pdf?x13417)
 - [SPILF. Prise en charge de la grippe en dehors d'une situation de pandémie en 2005. Médecine et Maladies Infectieuses. 2005.](https://www.sciencedirect.com/science/article/pii/S0399077X05002064)

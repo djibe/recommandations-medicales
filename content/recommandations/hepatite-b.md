@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-07T12:03:00+02:00"
 publishdate = "2021-09-07"
-lastmod = "2023-05-11"
+lastmod = "2024-02-01"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2020"
-sources = ["AFEF", "SNFGE", "HAS"]
+annees = "2023"
+sources = ["HAS", "AFEF", "SNFGE"]
 tags = ["fatigue", "hepatite", "HSH", "IST", "prevention", "prurit", "vaccin", "VIH", "voyage"]
 anglais = ["Hepatitis B"]
 sctid = "66071002"
@@ -22,8 +22,9 @@ todo = "dépistage VHB, insuff hépatocellulaire, AFEF 2020: TROD AgHBs isolés,
 
 {{%article-summary%}}
 
-- Le dépistage VHB - VHC - VIH doit être combiné (*HAS, AFEF*)
-- Le taux d'ALAT est un marqueur de l'activité de la maladie ({{< modal-btn modal-pageb >}}score Page-B{{< /modal-btn >}}) prédictif de [carcinome hépatocellulaire (CHC)]({{< relref "carcinome-hepatocellulaire.md" >}})
+- Le dépistage hépatite B, hépatite C et VIH doit être combiné (*HAS, AFEF*)
+- Le taux de transaminases ALAT est un marqueur de l'activité de l'hépatite B ({{< modal-btn modal-pageb >}}score Page-B{{< /modal-btn >}}) prédictif de [carcinome hépatocellulaire (CHC)]({{< relref "carcinome-hepatocellulaire.md" >}})
+- La prise en charge de l'hépatite B chronique est spécialisée
 - Vacciner contre l'hépatite B: rattrapage jusque 15 ans révolus et autres indications (voir *Personnes à vacciner*)
 - Vacciner tout l'entourage d'une personne avec hépatite B active
 - L'hépatite B aiguë est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
@@ -33,13 +34,13 @@ todo = "dépistage VHB, insuff hépatocellulaire, AFEF 2020: TROD AgHBs isolés,
 
 Hépatite B
 : Maladie infectieuse du foie causée par le virus de l'hépatite B (VHB) à ADN. La transmission est sexuelle, par des fluides biologiques ou materno-fœtale. Les contaminations par échanges de seringues sont encore fréquents.
-: L'infection (ALAT normales) est le plus souvent asymptomatique, on parle d'hépatite lorsque les ALAT sont élevées. 0,1 à 1% des formes aiguës peuvent évoluer vers l'**hépatite fulminante**. De 2 à 10% des cas deviennent chroniques (90% pour les nouveaux-nés), avec risque de **cirrhose** (10-20%) ou de **[carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}})** (CHC, 3-5%/an) même en l'absence de cirrhose (virus oncogène).  
+: L'infection (ALAT normales) est le plus souvent asymptomatique, on parle d'hépatite lorsque les ALAT sont élevées. 0,1 à 1% des formes aiguës peuvent évoluer vers l'**hépatite fulminante**. De 2 à 10% des cas deviennent chroniques (90% pour les nouveaux-nés), avec risque de **cirrhose** (10-20 %) ou de **[carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}})** (CHC, 3-5%/an) même en l'absence de cirrhose (virus oncogène).  
 Même en cas de disparition de l'AgHBs, un réactivation reste possible en cas d'immunosuppression par persistance d'ADN viral dans les hépatocytes.
 : Une co-infection par le virus de l'hépatite D est possible (< 2%).
 
 Hépatite B chronique (ou porteur chronique de l'Ag HBs)
 : Toute personne avec AgHBs positif pendant plus de 6 mois.
-: L'antigène HBe est un marqueur de l'activité virale. Le traitement antiviral est le plus bénéfique au stade d'hépatite AgHBe+.
+: **L'antigène HBe est un marqueur de l'activité virale**. Le traitement antiviral est le plus bénéfique au stade d'hépatite AgHBe+.
 
 ### Phases de l'infection par le virus de l'hépatite B
 
@@ -65,7 +66,7 @@ Seulement 36.180 personnes sont en [ALD]({{< relref "affection-longue-duree.md" 
 ### L'hépatite B dans le monde
 
 - 2 milliards de personnes infectées par le VHB  
-  Dont 250 millions de porteurs de l'antigène HBs
+  316 millions de porteurs de l'antigène HBs.
 - 900.000 décès annuels estimés
 - 50% des carcinomes hépatocellulaires (CHC)
 
@@ -76,6 +77,9 @@ AFEF
 
 CHC
 : carcinome hépatocellulaire
+
+HAS
+: Haute Autorité de Santé
 
 HSH
 : homme ayant des relations sexuelles avec des hommes
@@ -270,8 +274,7 @@ Adresser au spécialiste avec le bilan initial de l'hépatite B
 - Créatininémie, albuminémie
 - Ferritinémie
 - [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}}) (TODO: vérifier)
-- Alpha-fœtoprotéine  
-  Une alphafoetoprotéine > 20 mg/L est un marqueur de haut risque de carcinome hépatocellulaire.
+- [Alpha-fœtoprotéine]({{< relref "carcinome-hepatocellulaire.md" >}}) (AFP)
 - [TSH](/tags/tsh/)
 - Anticorps anti-TPO, anti-nucléaires, anti-muscle lisse, anti-LKM1
 - Glycémie à jeun
@@ -286,15 +289,15 @@ Adresser au spécialiste avec le bilan initial de l'hépatite B
 Le Fibroscan® permet d'éliminer une fibrose hépatique selon le niveau des ALAT (conférence Baveno VII 2021).  
 Il est systématique dans le bilan initial d'une hépatite B active.
 
-Les tests sanguins (FIB-4, FibroTest®) ne sont utilisés que couplés au Fibroscan®.
+Les tests sanguins ({{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}, FibroTest®) ne sont utilisés que couplés au Fibroscan®.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hépatite B active" %}}
 
 **Objectifs de la prise en charge de l'hépatite B**: disparition de l'ADN du virus de l'hépatite B, normalisation voire régression des anomalies biologiques et histologiques, obtention d'une séroconversion HBe et séroconversion HBs (plus rare).
 
-- [ALD n°6]({{< relref "affection-longue-duree.md" >}})  
-  Indications: AgHBs+ + > 2000 copies/mL ou cytolyse + nécessité d'un traitement antiviral ou de suivi prolongé, séquelles graves.
+- Déclarer l'[ALD n°6]({{< relref "affection-longue-duree.md" >}})  
+  Indications: AgHBs+ avec > 2000 copies/mL ou cytolyse et nécessité d'un traitement antiviral ou de suivi prolongé, séquelles graves.
 - Adresser au spécialiste pour initier un traitement  
   {{%class%}}Interféron alpha-2a/b, pégylé alpha-2a, lamivudine, adéfovir, entecavir, telbivudine, tenofovir.{{%/class%}}
 - Préservatif obligatoire
@@ -368,13 +371,14 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler.
 
 {{< youtube id="XfEdz-xm9qs" title="Sérologie de l'hépatite B autour de la vaccination (Vaccinews)" >}}
 
+- [HAS, anrs, CNS. Recommandations de prise en charge des personnes infectées chroniquement par le virus de l'hépatite B +/- de l'hépatite delta. 2023.](https://www.has-sante.fr/jcms/p_3324682/fr/prise-en-charge-des-personnes-infectees-par-les-virus-de-l-hepatite-b-c-ou-d)
 - {{< references/calendrier-vaccinal >}}
-- [CMIT. Hépatites virales. Item 167. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-167-web.pdf)
+- [CMIT. Hépatites virales. Item 167. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-167.pdf)
 - {{< references/afef-foie-non-invasif >}}
 - [Sogni P; SNFGE, AFEF. Prise en charge d'un patient porteur chronique de l'AgHBs. Conseil de pratique. 2018. (PDF)](https://www.snfge.org/download/file/fid/4861)
-- [HAS. Hépatite chronique B. Actes et prestations Affection de longue durée. Mai 2016.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
+- [HAS. Hépatite chronique B. Actes et prestations Affection de longue durée. 2016.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
 - [HAS. Place des tests rapides d'orientation diagnostique (TROD) dans la stratégie de dépistage de l'hépatite B. 2016](https://www.has-sante.fr/jcms/c_2063232/fr/place-des-tests-rapides-d-orientation-diagnostique-trod-dans-la-strategie-de-depistage-de-l-hepatite-b)
-- [HAS. Hépatite B Chronique. Guide Affection de longue durée. Octobre 2006.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
+- [HAS. Hépatite B Chronique. Guide Affection de longue durée. 2006.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
 
 ### Bibliographie en attente
 
@@ -384,5 +388,10 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler.
 {{% modal title="Score PAGE-B du risque de CHC" id="modal-pageb"%}}
 
 {{< scores/pageb >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage de la fibrose hépatique" id="modal-fib4"%}}
+
+{{< scores/fib4 >}}
 
 {{% /modal %}}

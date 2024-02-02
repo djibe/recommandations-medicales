@@ -285,10 +285,9 @@ Pour les mineurs désirant le secret:
 
 - Rédiger une ordonnance dédiée avec mention << contraception mineurs >> et son âge
 - Facturer
-  - Sur la FSE, GS + Exo 3 avec **NIR anonyme** 2 55 55 55 *CCC* 042/*XX* pour la mineure et 1 55 55 55 *CCC* 042/*XX* pour le mineur (la date de naissance doit être exacte) et TP AMO + AMC
+  - Sur la FSE Sesam sans vitale, GS + Exo 3 avec **NIR anonyme** 2 55 55 55 *CCC* 042/XX pour la mineure et 1 55 55 55 *CCC* 042/XX pour le mineur (la date de naissance doit être exacte) et TP AMO + AMC
   - *CCC* doit être remplacé par le numéro de la CPAM du patient en ajoutant un 1 derrière le numéro du département (331 pour la Gironde), sauf 64 et DOM
   - Ensuite *XX*, la clé du NIR anonyme, [doit être calculée ici](https://commentcalculer.fr/calcul/cle-nir/)
-- Sesam sans vitale si le mineur n'a pas sa carte vitale
 
 > *[Ameli](https://www.ameli.fr/sites/default/files/Documents/Modalites-facturation-contraception-Medecins-SF-Labo.pdf)*
 

@@ -8,7 +8,7 @@ synonyms = ["Arythmie complète par fibrillation auriculaire (ACFA)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-05T17:43:41+02:00"
 publishdate = "2022-02-10"
-lastmod = "2023-12-27"
+lastmod = "2024-02-02"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "ESH", "HAS"]
@@ -127,7 +127,7 @@ Inhibiteurs calciques non dihydropyridiniques: diltiazem ou vérapamil.
   - Infection, chirurgie
   - Hypokaliémie
 - Iatrogénie  
-  Diurétiques, théophylline, salbutamol, anti-arythmique (voir *Clinique* > *Interrogatoire*).
+  Diurétiques, théophylline, salbutamol, anti-arythmique, oméga-3 (voir *Clinique* > *Interrogatoire*).
 
 ### Épidémiologie de la fibrillation atriale en France
 
@@ -165,7 +165,7 @@ Toute suspicion clinique de fibrillation atriale doit être confirmée au plus t
 - Tabac, [alcool]({{< relref "sevrage-alcool.md" >}}), toxiques
 - Activité physique
 - Traitements en cours et {{< modal-btn modal-observance >}}observance{{< /modal-btn >}}  
-  Pro-arythmiques: diurétiques, théophylline, salbutamol, triptan, AINS, bupropione, biphosphonate.
+  Pro-arythmiques: diurétiques, théophylline, salbutamol, triptan, AINS, bupropione, biphosphonate, oméga-3.
 - Fibrillation atriale
   - Ancienneté
   - Facteurs déclenchants
@@ -403,6 +403,7 @@ graph TB
 
 {{< youtube id="3HeRh1Q25kQ" title="Parcours de soin chez un patient avec Fibrillation Atriale (Fréquence Médicale)" >}}
 
+- [ANSM. Esters éthyliques d'acides Oméga-3 : Risque accru et dose-dépendant de fibrillation auriculaire (ou atriale) chez des patients atteints de maladies cardiovasculaires ou présentant des facteurs de risque cardiovasculaires. 17/11/2023.](https://ansm.sante.fr/informations-de-securite/esters-ethyliques-dacides-omega-3-risque-accru-et-dose-dependant-de-fibrillation-auriculaire-ou-atriale-chez-des-patients-atteints-de-maladies-cardiovasculaires-ou-presentant-des-facteurs-de-risque-cardiovasculaires)
 - [HAS. Fibrillation auriculaire. Actes et prestations Affection de longue durée. 2023.](https://www.has-sante.fr/jcms/c_568395/fr/ald-n-5-fibrillation-auriculaire)
 - {{< references/esh-2023 >}}
 - [US Preventive Services Task Force. Screening for Atrial Fibrillation: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2021.23732)

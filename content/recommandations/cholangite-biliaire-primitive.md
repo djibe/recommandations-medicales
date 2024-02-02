@@ -7,17 +7,17 @@ synonyms = ["Cirrhose biliaire primitive"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-30T10:45:25+01:00"
 publishdate = "2024-01-30"
-lastmod = "2024-01-30"
+lastmod = "2024-02-02"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2019"
-sources = ["SNFGE", "AFEF"]
+annees = "2021"
+sources = ["AASLD", "SNFGE", "AFEF", "EASL"]
 tags = ["EPS", "fatigue", "prurit", "vitamine d"]
 anglais = ["Primary biliary cholangitis (PBC)", "primary biliary cirrhosis"]
 sctid = "31712002"
 icd10 = "K74.3"
 image = true
 imageSrc = "Lésions anatomopathologiques de la cholangite biliaire primitive (ou cirrhose biliaire primitive CBP): inflammation du canal biliaire avec lymphocytes, éosinophiles, granulomatose. Nephron, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "flow"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -29,17 +29,23 @@ todo = "flow"
 - Des comorbidités sont systématiquement recherchées: sclérodermie, Gougerot, maladie cœliaque, hypothyroïdie, ostéoporose
 - [Annuaire des centres de compétence](https://www.filfoie.com/ou-consulter/carte-interactive/?fwp_type_de_public=adulte&fwp_rseau_centre=mivb-h) de la cirrhose biliaire primitive
 
+Chapitre lié: a[ugmentation des GGT]({{< relref "augmentation-gamma-gt.md" >}})
+
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Cholangite biliaire primitive (CBP ou cirrhose biliaire primitive)
-: Hépatopathie chronique auto-immune par inflammation des petites voies biliaires, à l'origine d'une **cholestases**. Elle atteint le plus souvent les femmes après 40 ans (90 %).
+: Hépatopathie chronique auto-immune par inflammation des petites voies biliaires, à l'origine d'une **cholestases**. Elle atteint le plus souvent les femmes après 40 ans (90 % avec prévalence 1/1000) et évolue lentement.
 : Une [hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) (HAI) est associée dans 10% des cas.
+: La gravité de la cirrhose biliaire primitive est liée au risque de **cirrhose biliaire**.
 
 ### Abréviations
 
 AAM
 : anticorps anti-mitochondries
+
+AASLD
+: {{%lang%}}American Association for the Study of Liver Diseases{{%/lang%}}
 
 AFEF
 : Association Française pour l'Étude du Foie
@@ -49,6 +55,9 @@ AUDC
 
 CBP
 : cholangite biliaire primitive (*ex* cirrhose biliaire primitive)
+
+EASL
+: {{%lang%}}European Association for the Study of the Liver{{%/lang%}}
 
 PBH
 : ponction-biopsie hépatique
@@ -63,7 +72,7 @@ TH
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques de la cholangite biliaire primitive" %}}
 
-Diagnostic de cirrhose biliaire primitive (CBP) si au moins 2 critères sont remplis:
+Diagnostic de cirrhose biliaire primitive (CBP) si au moins 2 critères *EASL* sont remplis:
 
 1. Cholestase avec PAL > 1,5 N
 2. Anticorps anti-mitochondries (AAM) ≥ 1/40 confirmés en immunoblot ou ELISA (90 %)  
@@ -72,7 +81,7 @@ Diagnostic de cirrhose biliaire primitive (CBP) si au moins 2 critères sont rem
 
 On parle de **syndrome de chevauchement** (*Overlap syndrome*) si une [hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) (HAI) est associée avec au moins 2 critères parmi:
 
-1. Cytolyse avec ALAT > 5N
+1. Cytolyse avec ALAT > 5N (> 6 mois)
 2. IgG > 20 g/L ou anticorps anti-muscles lisses ≥ 1/80
 3. Lésions d'hépatite d'interface lymphocytaire modérée à sévère
 
@@ -85,19 +94,25 @@ Signes et symptômes à rechercher en cas de suspicion de cholangite biliaire pr
 
 ### Interrogatoire
 
-- Antécédents: hépatopathie, auto-immuns
+- Antécédents: hépatopathie, auto-immuns, polytraumatisme, réanimation, chirurgies
 - Antécédents familiaux: hépatopathie, auto-immuns
-- Traitements en cours
+- Voyages
+- Traitements, automédication, transfusions, anabolisants
 - Alcool, tabac, toxiques
+- Expositions: peintures, diesel, gaz industriels
 - Bilans hépatiques antérieurs
 - Symptômes
   - **Asymptomatique** (20-30 %)
   - [Prurit]({{< relref "prurit.md" >}}) (30-40 %)
   - [Ictère]({{< relref "ictere.md" >}})
-  - [Fatigue](/tags/fatigue/)
+  - Inconfort abdominal ou de l'hypochondre droit
+  - [Fatigue](/tags/fatigue/) (> 50 %)  
+    Non corrélée à la sévérité de la maladie.
+  - Autres: douleurs osseuses, arthralgies, troubles mnésiques ou de concentration
   - {{< modal-btn modal-mna >}}Dépister une dénutrition{{< /modal-btn >}}
+- Qualité de vie
 - Rechercher des comorbidités:  
-  Syndrome de Gougerot-Sjögren (sécheresses muqueuses), la sclérodermie (CREST syndrome).
+  [Raynaud]({{< relref "phenomene-raynaud.md" >}}), syndrome de Gougerot-Sjögren (sécheresses muqueuses), sclérodermie (CREST syndrome), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}).
 
 ### Examen clinique
 
@@ -120,12 +135,17 @@ Signes et symptômes à rechercher en cas de suspicion de cholangite biliaire pr
 - NFS
 - Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine totale et conjuguée
 - TP
+- Sérologies [VHB]({{< relref "hepatite-b.md" >}}) et [VHC]({{< relref "hepatite-c.md" >}})
 - Électrophorèse des protéines sériques
-- Anticorps anti-mitochondries
 - Glycémie à jeun
 - Bilan lipidique
 - Échographie abdominale (normale)
+- Si sérologies virales négatives et échographie normale:
+  - Anticorps anti-mitochondries (AAM) > 1/40 (90%)
+  - Si AAM négatifs: anticorps anti-nucléaires spécifiques: anti-sp100 et anti-gp210 (30%, *EASL 2017*)
 {{%/info%}}
+
+Si les anticorps sont négatifs et que l'accès au spécialiste est très long, une **IRM des voies biliaires** par un radiologue spécialisé est possible.
 
 La **ponction-biopsie hépatique** (PBH) est le plus souvent dispensable (sauf anticorps anti-mitochondries absents, ALAT > 5N, IgG > 20 g/L ou comorbidité hépatique suspectée).
 
@@ -133,11 +153,11 @@ La **ponction-biopsie hépatique** (PBH) est le plus souvent dispensable (sauf a
 
 Une fois le diagnostic de cholangite biliaire primitive posé, des comorbidités doivent être recherchées:
 
+- **Élastométrie hépatique**: Fibroscan®
 - [TSH](/tags/tsh/)
 - [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}): IgA totales, IgA anti-transglutaminase
 - Vitamine D
 - [Ostéodensitométrie]({{< relref "osteoporose.md" >}})
-- Élastométrie hépatique (Fibroscan®)
 
 {{% /collapse %}}
 {{%collapse "Traitement de la cholangite biliaire primitive" %}}
@@ -150,15 +170,19 @@ La prise en charge de la cholangite biliaire primitive est spécialisée par le 
 
 Sauf syndrome de chevauchement, le traitement de première intention de la cirrhose biliaire primitive (CBP) est l'**[acide ursodesoxycholique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68806603&typedoc=R)** (AUDC) 13-15 mg/kg/j (min 10 - max 20).
 
-La prise en charge par acide ursodesoxycholique est poursuivie au long cours quel que soit le stade de la maladie. Une titration initiale est nécessaire.
+La prise en charge par acide ursodesoxycholique est poursuivie au long cours quel que soit le stade de la maladie. Une titration initiale est nécessaire. Réponse biologique de 25 à 50 %.
+
+Les **-45 ans**, les hommes et les sujets symptomatiques ou **stades avancés** répondent moins bien au traitement. La bilirubinémie est un marqueur de sévérité.
 
 Effets indésirables rares (< 5%): diarrhées, épigastralgies.
 
 Autres traitements possibles:
 
-- De la CBP: acide obéticholique (AOC, décommandé par *Prescrire*), bézafibrate (BZF)
-- Du prurit: **[cholestyramine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65691327&typedoc=R)** (Questran® 4-16 g/j) > rifampicine (150-600 mg/j) > naltrexone (25-50 mg/j) > sertraline (50 mg/j)
+- De la CBP: acide obéticholique (AOC, contre-indiqué si antécédent de décompensation cirrhotique, décommandé par *Prescrire*), bézafibrate (BZF)
+- Du prurit: **[cholestyramine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65691327&typedoc=R)** (Questran® 4-16 g/j) > rifampicine (150-300 mg/j) > naltrexone (25-50 mg/j), nalméfène > sertraline (50 mg/j). Émollients, TCC.
 - Si cholestase persistante: [supplémentation calcium]({{< relref "apports-calcium.md" >}}) + [vitamine D]({{< relref "vitamine-d.md" >}}) (1g/800 UI/j)
+- De l'ostéoporose: supplémentation vitamino-calcique, traiter quand T-score fémoral < -1,5
+- Surveillance des vitamines liposolubles (A, D, E, K)
 
 La transplantation hépatique (TH) est envisagée si: bilirubinémie > 100 µmol/L, cirrhose décompensée.
 
@@ -174,18 +198,30 @@ La surveillance de la cholangite biliaire primitive est spécialisée:
 - Tous les 2-4 ans: ostéodensitométrie
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la cholangite biliaire primitive" "show" %}}
+
+{{< mermaid title="Prise en charge de la cholangite biliaire primitive par le médecin généraliste. Dr JB Fron d'après AASLD, EASD et SNFGE/AFEF" >}}
+graph TB
+  suspicion["<b>Suspicion de cholangite<br>biliaire primitive (CBP)</b><br>—<br>Cholestase chronique (PAL et/ou GGT),<br>femme après 40 ans ++"] --> sérologie("Bilan hépatique complet<br>et sérologies:<br>AgHBs, anti-VHC") -- Négatives --> clinique("<b>Clinique</b><br>—<br>- Antécédents personnels<br>et familiaux<br>- Traitements, toxiques<br>- Bilans antérieurs<br>- Symptômes: fatigue,<br>prurit, ictère, autres<br>- Comorbidités: hypothyroïdie,<br>Sjögren, sclérodermie ...<br>- Examen abdominal") --> bilan("<b>Bilan</b><br>—<br>- Électrophorèse des protéines<br>- Glycémie, bilan lipidique<br>- <b>Échographie abdominale</b>") -- Écho normale --> anticorps("Anticorps anti-mitochondries") -- "> 1/40" --> référence("Avis du centre<br>de compétence")
+    sérologie -- Positive --> hépatite(Voir hépatite)
+    bilan -- Écho anormale --> autre(Autre diagnostic)
+      anticorps -- Négatifs --> nucléaires("Anticorps antinucléaires<br>anti-sp100 et anti-gp210") --> référence
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{% /collapse %}}
 {{%sources%}}
 
 - Prescrire Redaction. Bilan 2024 des médicaments à écarter : gastro-entérologie. Rev Prescrire. 2023.
+- [Lindor KD et al. Primary Biliary Cholangitis: 2021 Practice Guidance update from the American Association for the Study of Liver Diseases. Hepatology. 2022.](https://journals.lww.com/hep/fulltext/2022/04000/primary_biliary_cholangitis__2021_practice.24.aspx)
 - [Corpechot C; SNFGE, AFEF. Prise en charge de la cirrhose biliaire primitive (CBP). Conseil de pratique. 2019. (PDF)](https://www.snfge.org/download/file/fid/4850)
+- [European Association for the Study of the Liver. EASL Clinical Practice Guidelines: The diagnosis and management of patients with primary biliary cholangitis. J Hepatol. 2017.](https://www.journal-of-hepatology.eu/article/S0168-8278(17)30186-1/fulltext)
 - [SNFGE. Cholangite biliaire primitive](https://www.snfge.org/content/cholangite-biliaire-primitive-0)
 - [Filfoie. Cholangite biliaire primitive](https://www.filfoie.com/glossary/cholangite-biliaire-primitive-cirrhose-biliaire-primitive/)
 
 ### Bibliographie en attente
 
-- [European Association for the Study of the Liver. EASL Clinical Practice Guidelines: The diagnosis and management of patients with primary biliary cholangitis. J Hepatol. 2017.](https://www.journal-of-hepatology.eu/article/S0168-8278(17)30186-1/fulltext)
 - [Lindor KD et al. Primary Biliary Cholangitis: 2018 Practice Guidance from the American Association for the Study of Liver Diseases. Hepatology. 2019.](https://journals.lww.com/hep/Fulltext/2019/01000/Primary_Biliary_Cholangitis__2018_Practice.32.aspx)
-- AASLD 2021
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}

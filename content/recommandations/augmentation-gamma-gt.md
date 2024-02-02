@@ -66,7 +66,7 @@ Il existe 4 grandes causes pour une augmentation des Gamma GT:
 4. Alcool  
   Une GGT élevée signe une [consommation chronique d'alcool]({{< relref "sevrage-alcool.md" >}}) mais sans relation avec la quantité et avec une sensibilité faible (60%). Autres signes de mésusage: macrocytose, diminution de 50% à J10 du sevrage.
 
-Une augmentation des Gamma-GT avec les phosphatases alcalines (PAL) signe une cholestase ([cirrhose biliaire primitive]({{< relref "cholangite-biliaire-primitive.md" >}}), lithiase ou tumeur biliaire, médicamenteuse).
+Une augmentation des Gamma-GT avec les phosphatases alcalines (PAL) signe une cholestase ([cholangite biliaire primitive]({{< relref "cholangite-biliaire-primitive.md" >}}), lithiase ou tumeur biliaire, médicamenteuse).
 {.alert .alert-info}
 
 {{% /collapse %}}

@@ -15,7 +15,7 @@ sources = ["Assurance Maladie"]
 tags = []
 anglais = ["Chronic disease"]
 sctid = "27624003"
-idc10 = "na"
+idc10 = ""
 image = true
 imageSrc = "Les affections de longue durée par pch.vector / Freepik "
 todo= "Affections psychiatriques de longue durée, HCht fam"
@@ -106,32 +106,57 @@ Exemples:
 - Transsexualisme
 - [Infertilité]({{< relref "infertilite-couple.md" >}})
 - [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}})
+- [Hypercholestérolémie familiale]({{< relref "hypercholesterolemie-familiale.md" >}}) avec traitement intensif
+- [Hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) sans cirrhose ou syndrome de chevauchement
 
 {{% /collapse %}}
 {{%collapse "ALD exonérante - Polypathologies ALD 32" %}}
 
-Ex: Polyarthrose avec troubles de la marche + incontinence urinaire + tremblement essentiel
+Exemple: Polyarthrose avec troubles de la marche + incontinence urinaire + tremblement essentiel
+
+{{% /collapse %}}
+{{%collapse "ALD non exonérante" %}}
+
+> << Une ALD non exonérante est une affection qui nécessite une interruption de travail ou des soins d'une durée prévisible supérieure à 6 mois, mais qui n'ouvre pas droit à la suppression du ticket modérateur. >> – *Ameli*
+
+Elle permet de percevoir des indemnités journalières au-delà de 6 mois d'arrêt et la prise en charge à 65% des frais de transport (et de cures thermales) liés à son ALD.
+
+Exemples d'ALD non exonérantes:
+
+- Fracture de l'épaule surinfectée nécessitant plus de 6 mois d'arrêt
+- Dépression suite au décès de son conjoint nécessitant plus de 6 mois d'arrêt
 
 {{% /collapse %}}
 {{%collapse "Rémunération" %}}
 
 ### ALD 30
 
+La demande d'ALD 30 n'est pas facturée.
+
 Lorsque l'on est le médecin traitant d'un patient déclaré en ALD exonérante, la CPAM verse 42€ par an (70€ pour les +80 ans) via le *Forfait patientèle médecin traitant* (FPMT).
-
-Avec ce patient, il faut consacrer 1 consultation dédiée par an. Elle se cote CA (26 €).  
-Compléter le dossier médical avec le modèle (PDF suivi patient ALD).
-
-La demande d'ALD exonérante pour enfant < 16 ans se cote C 2,5 (soit 57,50€).
 
 ### ALD hors liste ou non exonérante
 
-Demande d'ALD hors liste ou non exonérante, il faut coter l'acte C 1,5 (soit 34,50€ la consultation).
+Demande d'ALD hors liste ou non exonérante, il faut coter l'acte C 1.5 (soit 34,5 € la consultation).
+
+{{% /collapse %}}
+{{%collapse "Dispositif de suivi post-ALD" %}}
+
+> << Il concerne les patients en sortie d'ALD 30 dont l'état de santé ne requiert plus aucun traitement mais nécessite un suivi clinique et paraclinique régulier. Il leur permet d'être exonérés du ticket modérateur pour les actes médicaux et les examens biologiques nécessaires à leur surveillance. >> – *Ameli Médecin*
+
+La demande dispositif de suivi post-ALD doit être réalisée par le médecin traitant dans les suites de [cancer](/tags/cancer/), [hépatite](/tags/hepatite/) ou autre lorsque l'ALD 30 est échue. Elle est accordée pour 5 ans et renouvelable.
+
+Le médecin doit ajouter la mention **<< suivi post-ALD >>** sur les ordonnances de bilans biologiques et imageries en rapport avec le suivi.
+
+**Demande de suivi post-ALD:** ordonnance simple adressée au service médical de la CPAM dont le patient dépend avec mention impérative de l’ALD concernée.
+{.alert .alert-primary}
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ameli Médecin. Dispositif de suivi post-ALD : le médecin traitant doit faire la demande. 24/11/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/dispositif-de-suivi-post-ald-le-medecin-traitant-doit-faire-la-demande)
+- [Ameli. Qu'est-ce que le dispositif appelé Affection Longue Durée (ALD) ?. 23/11/2023.](https://www.ameli.fr/assure/droits-demarches/maladie-accident-hospitalisation/affection-longue-duree-ald/affection-longue-duree-maladie-chronique)
 - [Assurance Maladie. Critères médicaux - Admission et prolongation d'une affection de longue durée exonérante du ticket modérateur. (PDF)](https://www.ameli.fr/sites/default/files/Documents/ald-exonerante-criteres-medicaux_assurance-maladie.pdf)
-- [Ameli.fr Médecins. Qu'est-ce qu'une affection de longue durée ?. 24/01/2023](https://www.ameli.fr/medecin/exercice-liberal/presciption-prise-charge/situation-patient-ald-affection-longue-duree/definition-ald)
+- [Ameli Médecins. Qu'est-ce qu'une affection de longue durée ?. 24/01/2023](https://www.ameli.fr/medecin/exercice-liberal/presciption-prise-charge/situation-patient-ald-affection-longue-duree/definition-ald)
 
 {{%/sources%}}
