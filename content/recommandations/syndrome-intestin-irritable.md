@@ -286,6 +286,9 @@ style SII stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
+- [Kucharzik T et al. ECCO Guidelines on the Prevention, Diagnosis, and Management of Infections in Inflammatory Bowel Disease. J Crohns Colitis. 2021.](https://academic.oup.com/ecco-jcc/article/15/6/879/6175313)
+- [Maaser C et al; European Crohn's and Colitis Organisation [ECCO] and the European Society of Gastrointestinal and Abdominal Radiology [ESGAR]. ECCO-ESGAR Guideline for Diagnostic Assessment in IBD Part 1: Initial diagnosis, monitoring of known IBD, detection of complications. J Crohns Colitis. 2019.](https://academic.oup.com/ecco-jcc/article/13/2/144/5078195)
+- [Sturm A et al; European Crohn’s and Colitis Organisation [ECCO] and the European Society of Gastrointestinal and Abdominal Radiology [ESGAR]. ECCO-ESGAR Guideline for Diagnostic Assessment in IBD Part 2: IBD scores and general principles and technical aspects. J Crohns Colitis. 2019.](https://academic.oup.com/ecco-jcc/article/13/3/273/5078200?login=false)
 - [SNFGE. Régime pauvre en sucres fermentescibles, les FODMAPs. 2016.](https://www.snfge.org/download/file/fid/4878)
 - [Mearin F et al. Bowel Disorders. Gastroenterology. 2016.](https://pubmed.ncbi.nlm.nih.gov/27144627/)
 - Cochrane

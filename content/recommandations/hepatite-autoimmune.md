@@ -114,8 +114,8 @@ Signes et symptômes à rechercher en cas de suspicion d'hépatite auto-immune (
 - Ferritinémie (*Filfoie*)
 - Sérologies [VHA]({{< relref "hepatite-a.md" >}}), [VHB]({{< relref "hepatite-b.md" >}}), [VHC]({{< relref "hepatite-c.md" >}}), VHE
 - Cuprémie, céruléoplasmine, cuprurie des 24h, cuivre échangeable
-- Électrophorèse des protéines sériques
-- Dosage des IgG (IgG augmentées pour 90%)
+- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
+- Dosage des IgG (IgG augmentées pour 90 %)
 - Anticorps anti-nucléaires (AAN) par IFI
 - Anticorps anti-muscle lisse (AML, 40%) ≥ 1/40
 - Échographie abdominale
@@ -149,7 +149,7 @@ La prise en charge de l'hépatite auto-immune débute par un traitement immunosu
 
 Autres traitements possibles: mycophénolate mofétil (1-2 g/j) voire troisième ligne par ciclosporine.
 
-Le suivi de l'hépatite auto-immune est spécialisé et dépend de l'activité de la maladie (3-6 mois si quiescente).
+Le suivi de l'hépatite auto-immune est spécialisé et dépend de l'activité de la maladie (tous les 3 à 6 mois si quiescente).
 
 {{% /collapse %}}
 {{%sources%}}

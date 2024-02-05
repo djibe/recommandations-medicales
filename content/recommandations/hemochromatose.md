@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-23T16:48:40+02:00"
 publishdate = "2023-07-03"
-lastmod = "2023-11-07"
+lastmod = "2024-02-05"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2020"
-sources = ["AFEF", "SNFGE", "HAS"]
+annees = "2022"
+sources = ["EASL", "AFEF", "SNFGE", "HAS"]
 tags = ["diabete", "fatigue", "ferritine", "risque cardiovasculaire"]
 anglais = ["Hemochromatosis", "haemochromatosis"]
 sctid = "399187006"
@@ -21,20 +21,22 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'hémochromatose génétique est la maladie génétique la plus fréquente chez le caucasien avec une surcharge en fer
+- L'hémochromatose génétique est la maladie génétique la plus fréquente chez le **caucasien** avec une surcharge en fer
 - Les symptômes de l'hémochromatose débutent vers 30 ans chez l'homme et 50 ans chez la femme avec: fatigue chronique, polyarthralgies, diabète, hypogonadisme (baisse de libido, impuissance, ménopause précoce) et risque d'insuffisance d'organes (cardiaque, hépatique)
 - Le diagnostic doit être recherché en cas d'[hyperferritinémie]({{< relref "hyperferritinemie.md" >}}) (> 200 µg/L chez la femme et 300 chez l'homme) sans autre anomalie
-- Un coefficient de saturation de la transferrine (CST) à jeun à 2 reprises supérieur à **45%** nécessite un avis gastro-entérologique et ensuite un conseil génétique
+- Un coefficient de saturation de la transferrine (CST) matinal à 2 reprises supérieur à **45%** et 50% chez l'homme nécessite un avis hépato-gastroentérologique et ensuite un conseil génétique
 - Le bilan des complications de l'hémochromatose dépend du stade de la maladie
 - La prise en charge de l'hémochromatose génétique comporte: saignées thérapeutiques pour une ferritine cible ≤ 50 µg/L, dépistage des proches au premier degré, suivi spécialisé au long cours et les mesures d'hépatoprotection.
+
+Chapitre lié: [hyperferritinémie]({{< relref "hyperferritinemie.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Hémochromatose génétique (primitive ou héréditaire)
-: Maladie génétique autosomique récessive à pénétrance variable par homozygotie du variant C282Y du gène HFE (+90%, dit type 1) atteignant principalement les sujets caucasiens.
-: L'hémochromatose entraîne une surcharge en fer par absence de rétrocontrôle de l'absorption intestinale du fer.
-: La prévalence de l'allèle C282Y est de 7,6% et 0,6% des Français sont hétérozygotes. D'autres mutations existent, on parle d'hémochromatose type 2, 3 ...
+: Maladie génétique autosomique récessive à pénétrance variable par homozygotie du variant C282Y du gène HFE (+90%, dit type 1) atteignant les caucasiens.
+: L'hémochromatose entraîne une surcharge en fer par absence de rétrocontrôle de l'absorption intestinale du fer. La gravité de l'hémochromatose est liée au risque de cirrhose et de [carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}}).
+: La prévalence de l'allèle C282Y est de 7,6 % et 0,6 % des Français sont hétérozygotes. D'autres mutations existent, on parle d'hémochromatose type 2, 3 ...
 
 Ferritine
 : Protéine intracellulaire du stockage du fer. La ferritinémie est donc un reflet indirect de ce stock.  
@@ -70,6 +72,9 @@ CDU-HGE
 CST
 : coefficient de saturation de la transferrine (CS-Tf pour la HAS)
 
+EASL
+: {{%lang%}}European Association for the Study of the Liver{{%/lang%}}
+
 HAS
 : Haute Autorité de Santé
 {.dl-inline}
@@ -99,10 +104,10 @@ Les signes cliniques d'une surcharge en fer par hémochromatose génétique surv
 Rechercher des facteurs aggravants:
 
 - Antécédents personnels ([hépatites B]({{< relref "hepatite-b.md" >}}) et [C]({{< relref "hepatite-c.md" >}}))
-- Antécédents familiaux
+- Antécédents familiaux: hémochromatose, hépatopathie
 - [Consommation d'alcool]({{< relref "sevrage-alcool.md" >}})
 
-> << Dans 85% des cas le diagnostic est trop tardif >> (*Inserm*)
+> << Dans 85% des cas le diagnostic est trop tardif >> – *Inserm*
 {.alert .alert-warning}
 
 ### Examen clinique
@@ -110,7 +115,12 @@ Rechercher des facteurs aggravants:
 - Poids, taille, IMC
 - Pression artérielle et fréquence cardiaque
 - Examen cardio-vasculaire
-- Palpation abdominale (hépatomégalie, hypertension portale)
+- Palpation abdominale
+- Signes d'hypertension portale  
+  {{< clinique/hypertension-portale >}}
+- Signes d'insuffisance hépatocellulaire  
+  {{< clinique/insuffisance-hepato-cellulaire >}}
+- [Splénomégalie]({{< relref "splenomegalie.md" >}})
 - Examen articulaire
 - Examen cutané et buccal
 
@@ -124,7 +134,7 @@ Rechercher des facteurs aggravants:
 Bilan à jeun:
 
 - NFS, CRP
-- ASAT, ALAT, GGT, PAL, bilirubine totale
+- ASAT, ALAT, PAL, GGT, bilirubine totale
 - CPK, réticulocytes, haptoglobine
 - Ferritinémie
 - Glycémie à jeun
@@ -133,47 +143,54 @@ Bilan à jeun:
 
 > — *CDU-HGE*, *CEEDMM* et *COFER*
 
-En l'absence de poids d'appel, dosage du **coefficient de saturation de la transferrine (CST) à jeun**, recontrôlé si anormal.
+En l'absence de poids d'appel, dosage du **coefficient de saturation de la transferrine (CST) le matin**, recontrôlé si anormal (le jeûne n'est pas nécessaire selon l'*EASL 2022*).
 {{%/info%}}
 
-> << L'hémochromatose est évoquée en cas d'[hyperferritinémie]({{< relref "hyperferritinemie.md" >}}) et de coefficient de saturation de la transferrine à plus de **45%** >> (*CDU-HGE*)
+> << L'hémochromatose est évoquée en cas d'[hyperferritinémie]({{< relref "hyperferritinemie.md" >}}) et de coefficient de saturation de la transferrine à plus de **45%** >> (NDLR: *50%* chez l'homme, caucasiens) — *CDU-HGE*
 {.alert .alert-info}
 
-Lorsque l'hémochromatose génétique est évoquée, adresser au gastro-entérologue pour la confirmation diagnostique (conseil génétique avec recherche du variant C282Y).
+Lorsque l'hémochromatose génétique est évoquée (HF + CST élevé), adresser au gastro-entérologue pour la confirmation diagnostique (**conseil génétique** avec recherche du variant *C282Y*).
+
+L'EASL préconise la recherche de la mutation *C282Y* chez tous les caucasiens avec hyperferritinémie et coefficient de saturation non expliqués dépassant le seuil pour le sexe. Également indiquée chez le sujet majeur avec antécédent au 1<sup>er</sup> degré d'hémochromatose.
+{.alert .alert-info}
 
 ### IRM fer hépatique
 
-Indication: sur prescription spécialisée (ex: hyperferritinémie avec CST augmenté sans homozygotie C282Y)
+Indication: sur prescription spécialisée (*ex* pour hyperferritinémie avec CST augmenté mais sans homozygotie *C282Y*).
 
-L'IRM hépatique a remplacé la ponction-biopsie hépatique.
+L'IRM hépatique a remplacé la ponction-biopsie hépatique (PBH).
 
 ### Autres bilans de l'hémochromatose
 
-Bilan complémentaire en cas de confirmation du diagnostic d'hémochromatose au stade 3 ou 4:
+Bilan complémentaire au diagnostic d'hémochromatose:
 
-- Tout stade: [ostéodensitométrie]({{< relref "osteoporose.md" >}})
-- Homme: testostéronémie
 - Échographie hépatique
-- Échocardiographie transthoracique
+- Élastométrie hépatique: Fibroscan®
+- [Ostéodensitométrie]({{< relref "osteoporose.md" >}})
+- Hémochromatose au stade 3 ou 4
+  - Homme: testostéronémie
+  - ECG et échocardiographie transthoracique
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hémochromatose" %}}
 
-La prise en charge de l'hémochromatose est symptomatique par des **saignées thérapeutiques** répétées avec un rythme selon la ferritinémie (cible ≤ 50 µg/L).
+La prise en charge de l'hémochromatose est symptomatique par des **saignées thérapeutiques** répétées avec un rythme selon la ferritinémie (cible ≤ 50 µg/L initialement).
 
 Les saignées sont débutées dès le stade 2 (hyperferritinémie) et sont suspendues en cas d'anémie < 11 g/dL (ou baisse +2 points d'Hb).  
 Lorsque les saignées ne sont pas possibles, recours au traitement chélateur du fer: déféroxamine (Desféral®) voire défériprone ou déférasirox.
 
-> << Un régime pauvre en fer n'est pas indiqué >> (*CEEDMM*)
+> << Un régime pauvre en fer n'est pas indiqué >> — *CEEDMM*
 
 - Hémochromatose génétique: conseil génétique des apparentés majeurs au premier degré et bilan martial  
   Bilan martial seul à partir de 65 ans.
 - Suivi spécialisé au long cours
+- Apports en fer  
+  Pas de régime pauvre en fer ou supplémentation en fer ou vitamine C, limiter les apports en viande rouge.
 - Hépatoprotection
   - Limiter la [consommation d'alcool]({{< relref "sevrage-alcool.md" >}})
   - Correction d'un surpoids
   - [Vaccination hépatite B]({{< relref "hepatite-b.md" >}})
-- [ALD n°17]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°17]({{< relref "affection-longue-duree.md" >}})
 - Informations du patient sur l'hémochromatose: [sites de la SNFGE](https://www.snfge.org/content/hemochromatose), [AFEF](https://afef.asso.fr/lhemochromatose/) et [Inserm](https://www.inserm.fr/dossier/hemochromatose-genetique/).
 - Associations de patients: [France fer hémochromatose](https://www.hemochromatose.org) et [association hémochromatose France](https://www.hemochromatose.fr)
 
@@ -183,12 +200,12 @@ Le [Centre de référence des hémochromatoses](https://centre-reference-fer-ren
 
 Les saignées (phlébotomie) sont possibles à domicile par un infirmier selon la proximité d'un centre de soins et les aptitudes du patient.
 
-- Traitement initial par saignées
+- Traitement d'induction par saignées
   - Saignée au maximum hebdomadaire jusqu'à ferritine ≤ 50 µg/L
   - Ferritine mensuelle jusqu'à correction de l'hyperferritinémie puis toutes les 2 saignées
 - Rythme d'entretien des saignées
-  - Tous les 2-4 mois pour ferritinémie cible ≤ 50 µg/L
-  - Ferritine toutes les 2 saignées et Hb dans les 8 jours avant
+  - Tous les 2-6 mois pour ferritinémie cible < 50-100 µg/L (*EASL 2022*)
+  - Ferritine et CST toutes les 2 saignées et Hb dans les 8 jours avant
 
 À savoir sur les saignées:
 
@@ -222,13 +239,14 @@ Pas de suivi des hétérozygotes sauf présence d'une hyperferritinémie.
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'hémochromatose" "show" %}}
 
-{{< mermaid title="Prise en charge d'une suspicion d'hémochromatose. Dr JB Fron d'après SNFGE 2019, AFEF 2020, HAS 2005 et Collèges" >}}
+{{< mermaid title="Prise en charge d'une suspicion d'hémochromatose. Dr JB Fron d'après EASL 2022, SNFGE, AFEF, HAS et Collèges" >}}
 graph TB
-  HF["<b>Hyperferritinémie</b><br>—<br>Femme &gt; 200 µg/L<br>Homme &gt; 300 µg/L"] --> bilan("<b>Bilan</b><br>—<br>- NFS, CRP<br>- Bilan hépatique<br>- CPK, réticulocytes,<br>haptoglobine<br>- Ferritine<br>- Glycémie à jeun<br>- Bilan lipidique") -- Normal --> CST("Coefficient de saturation<br>de la transferrine<br>(CST) à jeun") -- "&gt; 45%" --> contrôle("2e CST à jeun") -- "&gt; 45%" --> spécialiste("Avis gastro et<br>conseil génétique") -- Homozygote C282Y --> hémochromatose("<b>Diagnostic d'hémochromatose</b><br>—<br>Prise en charge :<br>- Saignées<br>- Dépistage familial<br>- Hépatoprotection")
+  HF["<b>Hyperferritinémie</b><br>chez le caucasien<br>—<br>Femme &gt; 200 µg/L<br>Homme &gt; 300 µg/L"] --> bilan("<b>Bilan</b><br>—<br>- NFS, CRP<br>- Bilan hépatique<br>- CPK, réticulocytes,<br>haptoglobine<br>- Ferritine<br>- Glycémie à jeun<br>- Bilan lipidique") -- "Hyperferritinémie<br>isolée" --> CST("Coefficient de saturation<br>de la transferrine<br>(CST) le matin") -- "&gt; 45%" --> contrôle("2<sup>e</sup> CST le matin") -- "Femme &gt; 45%<br>ou Homme &gt; 50%" --> spécialiste("Avis gastro et<br>conseil génétique") -- Homozygote C282Y --> hémochromatose("<b>Diagnostic d'hémochromatose</b><br>—<br>Prise en charge :<br>- Saignées<br>- Dépistage familial<br>- Hépatoprotection")
   style HF stroke:#4150f5, stroke-width:1px
     bilan -- Anormal --> différentiel("Autre cause<br>d'hyperferritinémie:<br>alcool, inflammation,<br>sd métabolique")
     CST -- "&lt; 45%" --> différentiel
-    contrôle -- "&lt; 45%" --> différentiel
+    contrôle -- "&lt; 45/50 %" --> différentiel
+    antécédent["Antécédent d'HC<br>au 1<sup>er</sup> degré"] --> spécialiste
 {{< /mermaid >}}
 
 {{% /collapse %}}
@@ -239,6 +257,7 @@ graph TB
 {{< youtube id="SCXvdQo9x_w" title="DES Hématologie 2020-2021 : Pathologies du fer (1/2)  (Association des Internes en Hématologie AIH)" >}}
 
 - [Académie de médecine, CNOM. Prévenons les jeunes adultes de l'hémochromatose. 06/06/2023.](https://www.academie-medecine.fr/prevenons-les-jeunes-adultes-de-lhemochromatose/)
+- [European Association for the Study of the Liver. EASL Clinical Practice Guidelines on haemochromatosis. J Hepatol. 2022.](https://www.journal-of-hepatology.eu/article/S0168-8278(22)00211-2/fulltext)
 - {{< references/college-gastro >}}
 - {{< references/college-endocrino >}}
 - {{< references/afef-foie-non-invasif >}}
@@ -251,7 +270,6 @@ graph TB
 
 ### Bibliographie en attente
 
-- [European Association for the Study of the Liver. EASL Clinical Practice Guidelines on haemochromatosis. J Hepatol. 2022.](https://www.journal-of-hepatology.eu/article/S0168-8278(22)00211-2/fulltext)
 - [Adams P et al. Therapeutic recommendations in HFE hemochromatosis for p.Cys282Tyr (C282Y/C282Y) homozygous genotype. Hepatol Int. 2018.](https://link.springer.com/article/10.1007/s12072-018-9855-0) ([VF (PDF)](https://www.hemochromatose.org/wp-content/uploads/2018/05/Recommandations-th%C3%A9rapeutiques-2018.pdf))
 
 {{%/sources%}}

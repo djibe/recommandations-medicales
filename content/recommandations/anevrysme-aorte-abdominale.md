@@ -134,4 +134,8 @@ graph TB
 - [Erbel R et al. 2014 ESC Guidelines on the diagnosis and treatment of aortic diseases: Document covering acute and chronic aortic diseases of the thoracic and abdominal aorta of the adult. European Heart Journal. 2014.](https://academic.oup.com/eurheartj/article/35/41/2873/407693)
 - [HAS. Dépistage et prévention des anévrismes de l'aorte abdominale. 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2013-02/aaa_fiche_med_vfinale.pdf)
 
+### Bibliographie en attente
+
+[Wanhainen A et al. Editor's Choice -- European Society for Vascular Surgery (ESVS) 2024 Clinical Practice Guidelines on the Management of Abdominal Aorto-Iliac Artery Aneurysms. Eur J Vasc Endovasc Surg. 2024.](https://www.ejves.com/article/S1078-5884(23)00889-4/fulltext)
+
 {{%/sources%}}

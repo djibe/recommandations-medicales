@@ -17,6 +17,7 @@ sctid = "31712002"
 icd10 = "K74.3"
 image = true
 imageSrc = "Lésions anatomopathologiques de la cholangite biliaire primitive (ou cirrhose biliaire primitive CBP): inflammation du canal biliaire avec lymphocytes, éosinophiles, granulomatose. Nephron, CC BY-SA 3.0, via Wikimedia Commons"
+todo = "relecture demandée"
 flowchart = true
 +++
 
@@ -51,7 +52,7 @@ AFEF
 : Association Française pour l'Étude du Foie
 
 AUDC
-: acide ursodesoxycholique
+: acide ursodésoxycholique
 
 CBP
 : cholangite biliaire primitive (*ex* cirrhose biliaire primitive)
@@ -156,7 +157,7 @@ Une fois le diagnostic de cholangite biliaire primitive posé, des comorbidités
 - **Élastométrie hépatique**: Fibroscan®
 - [TSH](/tags/tsh/)
 - [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}): IgA totales, IgA anti-transglutaminase
-- Vitamine D
+- [Vitamine D]({{< relref "vitamine-d.md" >}})
 - [Ostéodensitométrie]({{< relref "osteoporose.md" >}})
 
 {{% /collapse %}}
@@ -168,9 +169,9 @@ La prise en charge de la cholangite biliaire primitive est spécialisée par le 
 
 ### Pour en savoir plus: prise en charge de la cirrhose biliaire primitive
 
-Sauf syndrome de chevauchement, le traitement de première intention de la cirrhose biliaire primitive (CBP) est l'**[acide ursodesoxycholique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68806603&typedoc=R)** (AUDC) 13-15 mg/kg/j (min 10 - max 20).
+Sauf syndrome de chevauchement, le traitement de première intention de la cirrhose biliaire primitive (CBP) est l'**[acide ursodésoxycholique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68806603&typedoc=R)** (AUDC) 13-15 mg/kg/j (min 10 - max 20).
 
-La prise en charge par acide ursodesoxycholique est poursuivie au long cours quel que soit le stade de la maladie. Une titration initiale est nécessaire. Réponse biologique de 25 à 50 %.
+La prise en charge par acide ursodésoxycholique est poursuivie au long cours quel que soit le stade de la maladie. Une titration initiale est nécessaire. Réponse biologique de 25 à 50 %.
 
 Les **-45 ans**, les hommes et les sujets symptomatiques ou **stades avancés** répondent moins bien au traitement. La bilirubinémie est un marqueur de sévérité.
 

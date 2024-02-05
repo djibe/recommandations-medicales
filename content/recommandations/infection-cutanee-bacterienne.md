@@ -174,7 +174,7 @@ Prise en charge d'une furonculose:
 - Protection par pansement
 - Prélèvement bactériologique
 - Enfant: avis spécialisé
-- <mark>Adulte: [clindamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69886424&typedoc=R) 600 mg x 3/j (4/j si poids > 100 kg) pendant 7 jours<mark>  
+- <mark>Adulte: [clindamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69886424&typedoc=R) 600 mg x 3/j (4/j si poids > 100 kg) pendant 7 jours</mark>  
   ou pristinamycine 1g x 3/j pendant 7 jours
 
 Après guérison de la poussée de furoncles, décolonisation des gîtes bactériens:

@@ -6,7 +6,7 @@ synonyms = ["Puerpéralité", "suite de couches"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-16T09:32:54+01:00"
 publishdate = "2024-01-19"
-lastmod = "2024-01-19"
+lastmod = "2024-02-05"
 specialites = ["gynecologie-obstetrique"]
 annees = "2015"
 sources = ["CNGOF", "HAS"]
@@ -92,6 +92,13 @@ Une suspicion d'embolie pulmonaire doit être explorée aux *Urgences* (voire SA
 {.alert .alert-warning}
 
 {{% /collapse %}}
+{{%collapse "Contraception du post-partum" %}}
+
+Voir [Contraception]({{< relref "contraception.md" >}}).
+
+{{< traitements/contraception-pp >}}
+
+{{% /collapse %}}
 {{%collapse "Pathologies du post-partum" %}}
 
 Information de la mère: [Ameli](https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne/suivi-domicile), [1000 premiers jours](https://play.google.com/store/apps/details?id=com.fabrique.millejours), [M-pedia](https://www.mpedia.fr)
@@ -113,12 +120,6 @@ Voir [alopécie]({{< relref "alopecie.md" >}}).
 ### Céphalées par brèche méningée
 
 Pour les céphalées liées à la péridurale, un blood patch peut être réalisé 48 heures l'accouchement.
-
-### Contraception du post-partum
-
-Voir [Contraception]({{< relref "contraception.md" >}}).
-
-{{< traitements/contraception-pp >}}
 
 ### Dépression postnatale
 
@@ -188,7 +189,7 @@ La rééducation périnéale ne permet pas de traiter un [prolapsus]({{< relref 
 
 - {{< references/calendrier-vaccinal >}}
 - [US Preventive Services Task Force, Barry MJ et al. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2023.9297)
-- [HAS. Contraception chez la femme en post-partum. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1369193/fr/contraception-chez-la-femme-en-post-partum)
+- [HAS. Contraception chez la femme en post-partum. Recommandation de bonne pratique. 2019.](https://www.has-sante.fr/jcms/c_1369193/fr/contraception-chez-la-femme-en-post-partum)
 - [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2015/2015-RPC-POSTPARTUM.pdf?x13417)
 - [HAS. Situations pathologiques pouvant relever de l'hospitalisation à domicile au cours de l'ante et du post-partum. 2011.](https://www.has-sante.fr/jcms/c_1066375/fr/situations-pathologiques-pouvant-relever-de-l-hospitalisation-a-domicile-au-cours-de-l-ante-et-du-post-partum)
 - [Dedecker F. Grossesses rapprochées : facteurs de risque et conséquences périnatales. Journal de gynécologie obstétrique et biologie de la reproduction. 2006.](https://www.em-consulte.com/article/115440)

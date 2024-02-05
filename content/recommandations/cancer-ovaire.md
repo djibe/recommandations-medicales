@@ -222,6 +222,7 @@ style symptômes stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
+- [Ledermann JA et al. ESGO-ESMO-ESP consensus conference recommendations on ovarian cancer: pathology and molecular biology and early, advanced and recurrent disease. Ann Oncol. 2024.](https://www.annalsofoncology.org/article/S0923-7534(23)05103-7/fulltext)
 - [ACOG. Hereditary Breast and Ovarian Cancer Syndrome. 2017. (payant)](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2017/09/hereditary-breast-and-ovarian-cancer-syndrome)
 
 {{%/sources%}}
