@@ -665,6 +665,7 @@ graph TB
 - [HAS. Contraception chez la femme à risque cardiovasculaire. Recommandation de bonne pratique. 2019.](https://www.has-sante.fr/jcms/c_1638478/fr/contraception-chez-la-femme-a-risque-cardiovasculaire)
 - [HAS. Contraception chez la femme en post-partum. Recommandation de bonne pratique. 2019.](https://www.has-sante.fr/jcms/c_1369193/fr/contraception-chez-la-femme-en-post-partum)
 - [HAS. Contraception : prescriptions et conseils aux femmes. 2019.](https://www.has-sante.fr/jcms/c_1752432/fr/contraception-prescriptions-et-conseils-aux-femmes)
+- [RFCRPV. Quels risques d'interaction médicamenteuse au cours de la contraception ? 2019.](https://www.rfcrpv.fr/quels-risques-dinteraction-medicamenteuse-au-cours-de-la-contraception/)
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/rpc/?x72671)
 - [Robin F et al; CNGOF. Faut-il vraiment avoir peur de la pilule contraceptive ? 2017. (PDF)](https://cngof.fr/app/uploads/2023/06/piluleCNGOF-2017-09.pdf?x53169)
 - CNGOF. Contraception du post-partum : recommandations pour la pratique clinique.

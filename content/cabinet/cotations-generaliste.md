@@ -6,7 +6,7 @@ description = ""
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2024-01-02"
+lastmod = "2024-02-06"
 annees = "2024"
 sources = ["Assurance Maladie"]
 tags = []
@@ -25,7 +25,7 @@ Les outils *OMNIPrat* et *CotaMG* permettent aux jeunes médecins d'apprendre à
 
 {{< card-link-external title="Outil d'aide à la cotation et au remplissage des feuilles de soins" url="https://www.cotamg.fr/" subtitle="CotaMG">}}
 
-## Les nouvelles cotations à venir en 2024
+## Les nouvelles cotations en 2024
 
 - Majoration MOP de 5€ pour les +80 ans qui ne font pas partie de la patientèle (valable en (télé)consultation ou visite)
 
@@ -142,6 +142,7 @@ Cotations NGAP disponibles en sus de la consultation ou de la visite.
 |-----------|------------------------------------------------------------------------------------------------------------------------------|---------------:|
 | RQD       | Demande de téléexpertise (à 100%)                                                                                            |             10 |
 | + MCG     | Consultation d'un patient +16 ans hors résidence habituelle avec rédaction d'un compte-rendu pour son MT                     |              5 |
+| + MOP     | Consultation d'un patient +80 ans qui ne fait pas partie de la patientèle déclarée                                           |              5 |
 | + MSH**   | Sortie d'hospitalisation (chirurgie, décompensation ou diagnostic d'affection grave) dans le mois d'un patient polypathologique. MIC non applicable pour la même hospitalisation. | 23 |
 | + MIC**   | Sortie d'hospitalisation dans les 2 mois pour [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) |             23 |
 | + MIS     | Consultation initiale d'information cancer ou neurodégénératif                                                               |             30 |

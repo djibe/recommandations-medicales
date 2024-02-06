@@ -237,6 +237,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 {{% /collapse %}}
 {{%sources%}}
 
+- [HCSP. Dépistage systématique de l'infection à cytomégalovirus pendant la grossesse. 08/12/2023.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1367)
 - [Ministère de la Santé. Vaccination contre le Covid-19 et maternité. 2023. (PDF)](https://sante.gouv.fr/IMG/pdf/fiche_-_vaccination_contre_le_covid-19_et_maternite.pdf)
 - [Vaccination Info Service. Femmes enceintes. 06/06/2023.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Personnes-exposees-a-des-risques-specifiques/Femmes-enceintes)
 - [Medqual. La vaccination des femmes enceintes. VacciNews 03. 2023. (PDF)](https://medqual.fr/images/VACCINEWS/LETTRES/VACCINEWS_3.pdf)

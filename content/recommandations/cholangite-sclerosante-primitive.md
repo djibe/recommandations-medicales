@@ -23,15 +23,16 @@ todo = "descr > summary > liens > photo > newsletter > flow"
 
 {{%article-summary%}}
 
+- Le diagnostic de CSP est retenu en présence d'une cholestase chronique et d'anomalies typiques des voies biliaires en cholangio-IRM, et en l'absence de cause de cholangite sclérosante secondaire
 TODO:
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Cholangite sclérosante primitive (CSP)
-: Maladie cholestatique chronique rare et complexe atteignant l'adulte (homme jeune ++) et l'enfant et associée dans 2/3 des cas à une maladie inflammatoire chronique de l'intestin (MICI). Elle peut être associée à une hépatite auto-immune.
+: Maladie cholestatique chronique rare et complexe atteignant l'adulte (homme jeune ++) et l'enfant et associée dans 2/3 des cas à une maladie inflammatoire chronique de l'intestin (MICI). Elle peut être associée à une [hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) (dit syndrome de chevauchement).
 : Elle est caractérisée par une atteinte inflammatoire et fibrosante des voies biliaires intra et/ou extra-hépatiques (probablement dysimmunitaire). L'évolution est très variable mais potentiellement grave.
-: La gravité de la cholangite sclérosante primitive est liée au risque de cirrhose, de **cholangiocarcinome** (1 %/an) dont le diagnostic précoce est difficile. Enfin, la MICI fréquemment associée ajoute un risque élevé de **[cancer du côlon]({{< relref "cancer-colorectal.md" >}})**.
+: La gravité de la cholangite sclérosante primitive est liée au risque de cirrhose et de **cholangiocarcinome** (1 %/an) dont le diagnostic précoce est difficile. Enfin, la MICI fréquemment associée ajoute un risque élevé de **[cancer du côlon]({{< relref "cancer-colorectal.md" >}})**.
 : Les critères de gravité sont: cliniques (cirrhose), biologiques (thrombopénie, PAL, bilirubine), radiologiques (élastométrie > 10 kPa).
 
 ### Abréviations
@@ -68,22 +69,28 @@ TH
 
 Les signes et symptômes de la cholangite sclérosante primitive sont très variables.
 
-- Antécédents: hépatopathie, auto-immuns
+- Antécédents: hépatopathie, angiocholite, auto-immuns
 - Antécédents familiaux: hépatopathie, auto-immuns
 - Traitements, automédication
 - Alcool, tabac, toxiques
 - Bilans hépatiques antérieurs
-- Augmentation de la gamma-GT ± PAL ± bilirubine
+- **Cholestase biologique**: augmentation de la gamma-GT (> 3N) + PAL (> 1,5N, absentes chez 10%) ± bilirubine
+- Cytolyse hépatique modérée souvent associée: ASAT et ALAT 2-3 N  
+  Rechercher une [hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) si > 5N (et IgG > 20 g/L).
 - Symptômes
   - **Asymptomatique**
   - [Fatigue](/tags/fatigue/)
   - [Prurit]({{< relref "prurit.md" >}})
   - [Ictère]({{< relref "ictere.md" >}})
+  - Pesanteur ou douleurs de l'hypochondre droit
+  - Symptômes de MICI: douleurs abdominales, [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
 - Qualité de vie
 - Rechercher des comorbidités:  
   [Raynaud]({{< relref "phenomene-raynaud.md" >}}), syndrome de Gougerot-Sjögren (sécheresses muqueuses), sclérodermie (CREST syndrome), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}).
 
 ### Examen clinique
+
+<< L'examen clinique est le plus souvent normal dans les formes débutantes. >> – *PNDS 2022*
 
 - Poids, taille, IMC
 - Pression artérielle, fréquence cardiaque
@@ -119,16 +126,16 @@ Le bilan complémentaire au diagnostic de cholangite sclérosante primitive comp
 
 - **Cholangio-IRM 3D**
 - **Élastométrie hépatique**: Fibroscan®
+- Bilan différentiel: anticorps anti-mitochondries
 - Coloscopie
-  - Si MICI absente: IgG, IgM, IgG4, anticorps anti-nucléaires, anti-muscle lisse (*SNFGE*)
-- TODO: [TSH](/tags/tsh/)
+  - Si MICI absente, recherche secondaire: IgG, IgM, IgG4, anticorps anti-nucléaires, anti-muscle lisse (*SNFGE*)
 - [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}): IgA totales, IgA anti-transglutaminase
 - [Vitamine D]({{< relref "vitamine-d.md" >}})
 - [Ostéodensitométrie]({{< relref "osteoporose.md" >}})
 
-### Cholangio-IRM
+### Cholangio-IRM 3D
 
-La **cholangio IRM** doit être interprétée par un radiologue expérimenté et un avis d'un centre expert est nécessaire pour le diagnostic.
+La **cholangio IRM** avec étude du pancréas est l'<mark>examen diagnostique de référence</mark> de la cholangite sclérosante primitive. Elle doit être interprétée par un radiologue expérimenté et un avis d'un centre expert est nécessaire pour le diagnostic.
 
 L'échoendoscopie peut aider à préciser l'épaississement de la paroi des voies biliaires extra-hépatiques.
 

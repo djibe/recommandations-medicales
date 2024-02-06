@@ -27,7 +27,7 @@ Ce chapitre intègre les dernières recommandations SFD, ADA, ESC et ESH 2023 et
 
 - Dépister régulièrement un diabète si: +35 ans, prédiabète (annuel), diabète gestationnel (max 3 ans), VIH, surpoids avec autre facteur de risque (antécédent familial, maladie cardiovasculaire, origines africaines/asiatiques/pacifiques, hypertension, HDL < 0,35 g/L, TG > 2,5 g/L, inactivité physique, [stéatose hépatique]({{< relref "steatose-hepatique-et-nash.md" >}}), acanthosis nigricans), [Socrisktest](https://diabetes.org/diabetes-risk-test) ≥ 5 (*ADA 2023*)
 - Pour chaque personne vivant avec un diabète: définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
-- {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7%)
+- {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7%) et {{< modal-btn modal-hba1c-faussee >}}situations où l'HbA1c n'est pas fiable{{< /modal-btn >}}
 - Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}} rarement
 - [Dépistage des complications du diabète](#dépistage-des-complications-du-diabète) et des comorbidités
 - Éducation thérapeutique du patient diabétique
@@ -42,8 +42,7 @@ Diabète
     - 2 glycémies à jeun ≥ 1,26 g/L (jeûne de 8 heures)
     - ou HbA1c ≥ 6,5% (48 mmol/mol)
     - ou HGPO-75g H2 ≥ 2 g/L
-    - Symptômes et glycémie ≥ 2 g/L  
-      Polyurie, polydipsie, amaigrissement.
+    - Glycémie ≥ 2 g/L et symptômes (polyurie, polydipsie, amaigrissement)
 : Au cours du diabète, l'atteinte coronaire est plus étendue, sévère et diffuse. 6 à 35% ont une **[ischémie myocardique sans angor]({{< relref "syndrome-coronarien-chronique.md" >}})** et 50% des [infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) sont **silencieux** (*SFD 2021 CAD*). Le responsable majeur est le **LDL cholestérol**. Le risque d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) est multiplié par 2 à 4.  
 Les femmes avec DT2 sont à risque élevé d'[AVC]({{< relref "accident-vasculaire-cerebral.md" >}}).
 : Épidémiologie du diabète en France: 3,5 millions de sujets traités, 80% en surpoids ou obèses, 3/4 hypertendus, 13% sont fumeurs et seulement 64% reçoivent une statine (*Entred3*).
@@ -63,13 +62,13 @@ Rémission du diabète
 : Le *dépistage des complications* du diabète doit être poursuivi, avec la surveillance de l'HbA<sub>1c</sub> tous les 3 à 12 mois.
 
 Jeûne
-: Restriction calorique pendant au moins 8 heures (*ESC Diabetes 2023*)
+: Restriction calorique pendant au moins 8 heures (*ESC Diabetes 2023*).
 
 ### Conversion des unités du diabète
 
 <div class="form-group">
   <label for="hba1cInput">HbA<sub>1c</sub> (%, dit NGSP)</label>
-  <input type="number" class="form-alternative" id="hba1cInput" step="0.1" value="7" min="4" max="16" onchange="hba1cIfccInput.value = Math.round((parseInt(this.value, 10) - 2.152) /0.09148); eagInput.value = Math.round(parseInt(this.value, 10) * 28.7 - 46.7)">
+  <input type="number" class="form-alternative" id="hba1cInput" step="0.1" value="7" min="4" max="16" onchange="hba1cIfccInput.value = Math.round((parseFloat(this.value) - 2.152) /0.09148); eagInput.value = Math.round(parseFloat(this.value) * 28.7 - 46.7)">
   <div class="my-3">
   <label for="hba1cIfccInput">HbA<sub>1c</sub> (mmol/mol, dit IFCC)</label>
   <input type="number" class="form-alternative" id="hba1cIfccInput" value="53" min="1" max="160" onchange="hba1cInput.value = Math.round((parseInt(this.value, 10) * 0.09148 + 2.152) / 0.1) * 0.1; eagInput.value = Math.round((parseInt(this.value, 10) * 0.09148 + 2.152) * 28.7 - 46.7)">
@@ -127,7 +126,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 - Si maladie rénale chronique: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} systématique (dapa ou empagliflozine) et finérénone (non disponible en France)
 - Soutien psychologique
 - [Programme d'accueil de la FFD](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kitb)
-- [ALD n°8]({{< relref "affection-longue-duree.md" >}}) et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
+- Déclarer l'[ALD n°8]({{< relref "affection-longue-duree.md" >}}) et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
 
 > Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*)
 {.alert .alert-info}

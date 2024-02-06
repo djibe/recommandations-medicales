@@ -54,7 +54,7 @@ Indications à la réalisation de l'électrophorèse des protéines sériques (E
 - VS élevée avec CRP normale  
   {{%class%}}En dehors de la grossesse et en tenant compte de l'âge.{{%/class%}}
 - Hypercalcémie  
-  {{%class%}}Corrigée en fonction de l'albuminémie/protidémie.{{%/class%}}
+  {{%class%}}Ionisée ou corrigée en fonction de l'albuminémie/protidémie.{{%/class%}}
 - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) récente non obstructive
 - Protéinurie > 0,5 g/L
 - Certaines anomalies osseuses radiologiques  

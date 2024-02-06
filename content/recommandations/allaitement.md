@@ -90,6 +90,7 @@ Renouvellement possible tous les 3 mois après la prescription initiale de 10 se
 - <https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/brochure/le-guide-de-l-allaitement-maternel>
 - <https://www.has-sante.fr/jcms/c_272220/fr/allaitement-maternel-mise-en-oeuvre-et-poursuite-dans-les-6-premiers-mois-de-vie-de-l-enfant>
 - <https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007239.pub4/full/fr?highlightAbstract=partum>
+- <https://www.em-consulte.com/article/1644667/alerteM>
 
 {{%/sources%}}
 
