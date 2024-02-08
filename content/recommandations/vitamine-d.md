@@ -7,7 +7,7 @@ synonyms = ["Cholécalciferol vitamine D3", "ergocalciférol vitamine D2"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-15T00:28:29+02:00"
 publishdate = "2020-04-15"
-lastmod = "2022-12-06"
+lastmod = "2024-02-08"
 specialites = ["endocrinologie", "pediatrie", "therapeutique"]
 annees = "2022"
 sources = ["SFP", "HAS", "SFR"]
@@ -36,12 +36,11 @@ Articles liés: [apports en calcium]({{< relref "apports-calcium.md" >}}), [ost�
 Vitamine D
 : La vitamine D participe à la régulation du métabolisme phosphocalcique et prévient: **rachitisme, ostéomalacie, douleurs musculaires diffuses**.  
 L'unité internationale est le **nmol/L**.
-: **Bénéfices de la supplémentation en vitamine D**: elle réduit les fractures non vertébrales après 65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 75 nmol/L (30 ng/mL). Aliments riches: poissons et produits laitiers.
-: Selon l'Inserm, une carence en vitamine D serait fortement liée au développement de la [maladie d'Alzheimer]({{< relref "maladie-alzheimer.md" >}}). D'autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés (*[Féart 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)*).
+: **Bénéfices de la supplémentation en vitamine D**: elle réduit les fractures non vertébrales après 65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 75 nmol/L (30 ng/mL). Aliments riches en vitamine D: poissons et produits laitiers.
+: Selon l'*Inserm*, une carence en vitamine D serait fortement liée au développement de la [maladie d'Alzheimer]({{< relref "maladie-alzheimer.md" >}}). D'autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés (*[Féart 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)*).
 
 Carence en vitamine D de l'adulte et de l'enfant
-: Taux sérique de vitamine D < 30 nmol/L.  
-Risque élevé de *rachitisme*.
+: Taux sérique de vitamine D < 30 nmol/L. Risque élevé de *rachitisme*.
 
 Déficit en vitamine D de l'adulte et de l'enfant
 : 30 < **taux sérique** < 50 nmol/L.
@@ -235,15 +234,19 @@ Ampoule
 : Cholécalciférol 200, 100, 80 ou 50.000 UI
 
 Capsule molle
-: Kipos® 100.000 UI, Uvedose® 50.000 UI
+: Kipos® 100.000 UI, Uvecaps® 1000 UI ou 20.000 UI, Uvedose® 50.000 UI
 
 Goutte
 : Adrigyl® 333 UI/goutte, ZymaD® 300 UI/goutte
 {.dl-inline}
 
+Spécialités avec calcium + vitamine D3 associées: Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.
+
 ### Spécialité de vitamine D2
 
 Stérogyl® 400 UI/gte
+
+Non recommandée.
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour la supplémentation en vitamine D" "show" %}}
@@ -265,8 +268,9 @@ Ne pas utiliser d'autres formes de supplémentations.
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ameli Medecin. Dosage de la vitamine D : le point sur la prescription et la prise en charge. 08/02/2024.](https://www.ameli.fr/medecin/actualites/dosage-de-la-vitamine-d-le-point-sur-la-prescription-et-la-prise-en-charge)
 - [Bacchetta J et al; SFP, SFneonatalogie, AFPA et al. Vitamin D and calcium intakes in general pediatric populations: A French expert consensus paper. Archives de pédiatrie. 2022. (PDF)](https://afpa.org/content/uploads/2022/03/Vitamin-D-and-calcium-intakes-in-general-pediatric-populations-A-French-expert-consensus-paper-20-02-2022.pdf)
-- [Anses. Vitamine D : pourquoi et comment assurer un apport suffisant ? Septembre 2021.](https://www.anses.fr/fr/content/vitamine-d-pourquoi-et-comment-assurer-un-apport-suffisant)
+- [Anses. Vitamine D : pourquoi et comment assurer un apport suffisant ? 02/03/2022.](https://www.anses.fr/fr/content/vitamine-d-pourquoi-et-comment-assurer-un-apport-suffisant)
 - [Omedit Centre Val de Loire. Protocole de supplémentation en vitamine D en EHPAD. Décembre 2020. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/10827.pdf)
 - [Ameli. Dosage de la vitamine D. 29/12/2020.](https://www.ameli.fr/paris/laboratoire-danalyses-medicales/exercice-liberal/memos/dosage-vitamine)
 - [Souberbielle JC et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d'ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 2019. (PDF)](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)

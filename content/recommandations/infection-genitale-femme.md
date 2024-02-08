@@ -1,18 +1,18 @@
 +++
-title = "Article"
-titleSeo = "In case of long title or delete whole line"
+title = "Infections génitales de la femme: urétrite, vaginose, vaginite, cervicite, endométrite, salpingite"
+titleSeo = "TODO:"
 prefix = "la "
-description = "Title 2-22 words and description 160 characters max"
+description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-06T09:05:23+01:00"
 publishdate = "2024-02-06"
 lastmod = "2024-02-06"
-specialites = ["endocrinologie"]
+specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["HAS", "SPILF", "SFD"]
 tags = ["IST"]
-anglais = ["English word"]
+anglais = []
 sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
 icd10 = "https://prod-mapping.ihtsdotools.org/#/"
 draft = true
@@ -97,7 +97,7 @@ Métronidazole 2g dose unique
 
 Après prélèvements: ceftriaxone 1g IM dose unique  
 \+ doxycycline 100 mg x 2/j pendant 7 jours (ou azithromycine 1g dose unique)
-{.alert .alert-primary}
+{.alert .alert-info}
 
 Cervicite muco-purulente
 : Inflammation de l'endocol utérin avec des symptômes variables (écoulement purulent ou muco-purulent par le col, col inflammatoire saignant au contact ou polynucléaires neutrophiles (PNN) sur le frottis endocervical coloré au Gram ou au bleu de méthylène).

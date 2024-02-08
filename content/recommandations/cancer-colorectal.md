@@ -238,11 +238,10 @@ Le kit du dépistage du cancer du côlon peut être remis par le médecin, retir
 {.alert .alert-info}
 
 - Commander des kits en tant que médecin: **Ameli Pro** > Commandes > Commande de dispositifs > Kit de Dépistage du Cancer Colorectal
-- Retirer le kit en pharmacie (*Service-Public.fr 02/11/2022*)
+- Retirer le kit en pharmacie (*[Service-Public](https://www.service-public.fr/particuliers/actualites/A15541)*)
 - Commander des kits en tant que patient avec livraison gratuite à domicile: [monkit.depistage-colorectal.fr](https://monkit.depistage-colorectal.fr/#/invitation) (nécessite l'invitation de la Sécu)
   - Le site permet aussi au patient de consulter son résultat
-  - Sans invitation, le patient contacte son [CRCDC (annuaire)](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Strategies-de-depistage/Centres-regionaux-de-coordination-des-depistages-des-cancers/)
-  - L'Assurance Maladie va désormais réaliser ce suivi
+  - Sans invitation sur son compte *Ameli* (via courrier en son absence), le patient contacte sa CPAM
 - En Ile-de-France, avec ou sans invitation par son pharmacien (*NeonetIDF*)
 
 #### Pour en savoir plus : le test immunologique fécal (FIT)
@@ -370,7 +369,6 @@ graph TB
 - [Phelip JM et al. « Cancer colorectal métastatique ». Thésaurus National de Cancérologie Digestive. septembre 2023.](https://www.snfge.org/content/4-cancer-colorectal-metastatique)
 - {{< references/college-gastro >}}
 - [Cervantes A et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)
-- [Service-Public.fr. Cancer colorectal : des kits de dépistage disponibles en pharmacie. 02/11/2022.](https://www.service-public.fr/particuliers/actualites/A15541)
 - [Robaszkiewicz M et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
 - [Cotte E et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/5-cancer-du-rectum)
 - [INCa. Les cancers colorectaux en 12 points clés. Juillet 2020. (PDF)](https://www.e-cancer.fr/content/download/292187/4161375/file/Cancers_colorectaux_en_12_points_cl%C3%A9s_mel_20200702.pdf)

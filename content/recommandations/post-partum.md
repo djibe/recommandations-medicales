@@ -25,7 +25,7 @@ todo = "flow"
 - Pour l'allaitement, lire le chapitre dédié (à venir)
 - Rattrapage vaccinal après l'accouchement: dTcaPolio de tout l'entourage si le dernier rappel a +10 ans (+5 ans avant 25 ans), grippe si nourrisson vulnérable voire varicelle et rubéole selon les sérologies/carnet de santé
 - Après césarienne: contention veineuse systématique 7-14 jours, héparine si haut risque thromboembolique ou plusieurs {{< modal-btn modal-fdr-te >}}facteurs de risques mineurs thrombo-emboliques{{< /modal-btn >}}
-- Une contraception doit être débutée dans les 21 jours qui suivent l'accouchement (implant ++) ou DIU à la consultation post-natale
+- Une contraception peut être débutée dans les 21 jours qui suivent l'accouchement (implant ++) ou DIU à la consultation post-natale
 - Dépistage systématique de la dépression post natale: {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou [échelle EPDS](https://www.hug.ch/sante-psychique-perinatalite/comment-depister-depression-perinatale-quizz-epds)
 - La consultation post-natale est essentielle et doit avoir lieu dans les 6-8 semaines après l'accouchement
 - Des situations postnatales (cicatrices, dépression) peuvent justifier une Hospitalisation À Domicile (HAD)
@@ -119,19 +119,19 @@ Voir [alopécie]({{< relref "alopecie.md" >}}).
 
 ### Céphalées par brèche méningée
 
-Pour les céphalées liées à la péridurale, un blood patch peut être réalisé 48 heures l'accouchement.
+Pour les céphalées liées à la péridurale, un blood patch peut être réalisé 48 heures après l'accouchement.
 
 ### Dépression postnatale
 
-Le **blues du post-partum** (50-80 % ou << baby blues >>) survient les premiers jours. Il est transitoire avec résolution spontanée **sous 10 jours**. Un blues sévère est à risque de transformation en **dépression**.
+Le **blues du post-partum** (ou << baby blues >>) survient les premiers jours (50 à 80% des parturiantes). Il est transitoire avec résolution spontanée **sous 10 jours**. Un blues sévère est à risque de transformation en **[dépression]({{< relref "depression.md" >}})**.
 
-Dépistage clinique systématique de la **dépression postnatale** (prévalence: 13%). Voire {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou [échelle EPDS](https://www.hug.ch/sante-psychique-perinatalite/comment-depister-depression-perinatale-quizz-epds). Les facteurs de risques principaux sont les **facteurs de risque psycho-sociaux**.
+Dépistage clinique systématique de la **dépression postnatale** (prévalence: 13%). Voire {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou [échelle EPDS](https://www.hug.ch/sante-psychique-perinatalite/comment-depister-depression-perinatale-quizz-epds). Les facteurs de risques principaux sont les **facteurs de risques psycho-sociaux**.
 
 Dépister des troubles anxieux (prévalence identique).
 
 En cas de dépression postnatale:
 
-- Réévaluation des facteurs de risque psycho-sociaux ++
+- Réévaluation des facteurs de risques psycho-sociaux ++
 - Visite à domicile, soutien téléphonique, psychothérapie
 - Risque de récidive élevé aux grossesses suivantes
 - Voir le chapitre [dépression]({{< relref "depression.md" >}})
@@ -147,7 +147,7 @@ Une Hospitalisation À Domicile (HAD) est possible pour des soins considérables
 {{% /collapse %}}
 {{%collapse "Consultation post-natale" %}}
 
-La consultation post natale doit avoir lieu dans les 6-8 semaines après l'accouchement. Elle est réalisée par un gynécologue en cas de **complications obstétricales**.
+La consultation post natale doit avoir lieu dans les 6-8 semaines après l'accouchement. Elle doit être réalisée par un gynécologue en cas de **complications obstétricales**.
 
 Éléments repris lors de la consultation post-natale:
 
@@ -177,10 +177,10 @@ La consultation post natale doit avoir lieu dans les 6-8 semaines après l'accou
 La rééducation périnéale n'est pas efficace sur le long terme. Les exercices devront être répétés si besoin.
 {.alert .alert-info}
 
-La rééducation périnéale est indiquée:
+La rééducation périnéale est réalisée par une sage-femme ou un kinésithérapeute et est possible à partir de 2 mois après l'accouchement si:
 
-- Si l'[incontinence urinaire]({{< relref "incontinence-urinaire-femme.md" >}}) **persiste à 3 mois** (pas avant 2 mois)
-- Si [incontinence anale]({{< relref "incontinence-fecale.md" >}})
+- L'[incontinence urinaire]({{< relref "incontinence-urinaire-femme.md" >}}) **persiste à 3 mois** (pas avant 2 mois)
+- [Incontinence anale]({{< relref "incontinence-fecale.md" >}})
 
 La rééducation périnéale ne permet pas de traiter un [prolapsus]({{< relref "prolapsus-genital-femme.md" >}}) ou des dyspareunies.
 

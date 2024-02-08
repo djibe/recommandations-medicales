@@ -19,7 +19,7 @@ icd10 = "Z027"
 image = true
 imageSrc = "Le certificat de non contre-indication à la pratique du sport (CNCI). pikisuperstar / Freepik"
 chart = true
-todo = "rein unique, Bio > 35 ans, type 1A (sources 12-13), quel examen clinique, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/guide_aps_chapitre_6_la_consultation_medicale_ap.pdf, duree certif plongee, https://pubmed.ncbi.nlm.nih.gov/36256586/, https://www.fmfpro.org/est-ce-que-les-cnci-servent-vraiment-a-quelque-chose/"
+todo = "rein unique, Bio > 35 ans, type 1A (sources 12-13), quel examen clinique, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/guide_aps_chapitre_6_la_consultation_medicale_ap.pdf, duree certif plongee, https://pubmed.ncbi.nlm.nih.gov/36256586/, https://www.fmfpro.org/est-ce-que-les-cnci-servent-vraiment-a-quelque-chose/, https://www.conseil-national.medecin.fr/sites/default/files/external-package/bulletin/1vyilzi/medecins_89.pdf"
 flowchart = true
 +++
 

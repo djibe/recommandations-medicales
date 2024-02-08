@@ -35,7 +35,7 @@ Chapitres liés: [hépatites](/tags/hepatite/), [cholangite biliaire primitive](
 
 Hépatite auto-immune (HAI)
 : Maladie inflammatoire chronique rare du foie survenant à tout âge et atteignant principalement les femmes (+85 %). Elle associe cytolyse, hypergammaglobuminémie et auto-anticorps (anti-nucléaires et anti-muscle lisse) et une histologie hépatique compatible.
-: Une [cholangite biliaire primitive]({{< relref "cholangite-biliaire-primitive.md" >}}) (CBP) ou une cholangite sclérosante primitive (CSP) peut être associée (*syndrome de chevauchement* ou *overlap syndrome*).
+: Une [cholangite biliaire primitive]({{< relref "cholangite-biliaire-primitive.md" >}}) (CBP) ou une [cholangite sclérosante primitive]({{< relref "cholangite-sclerosante-primitive.md" >}}) (CSP) peut être associée (*syndrome de chevauchement* ou *overlap syndrome*).
 : La gravité de l'hépatite auto-immune est liée au risque de **cirrhose**.
 
 ### Abréviations

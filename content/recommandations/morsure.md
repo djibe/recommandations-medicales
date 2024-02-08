@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-26T12:44:02+01:00"
 publishdate = "2024-01-30"
-lastmod = "2024-01-30"
+lastmod = "2024-02-08"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2023"
 sources = ["GPIP", "CMIT"]
@@ -82,9 +82,6 @@ GPIP
 
 ### Prise en charge des morsures
 
-Antibiothérapie pour morsure si: comorbidités (immunodépression, asplénie, diabète, alcool), érysipèle, plaie profonde ou délabrée, atteinte articulaire, près de tendon ou osseuse, main, face, suture. – *CMIT 2022*
-{.alert .alert-warning}
-
 Prise en charge commune à toutes les morsures d'animaux et d'hommes:
 
 - **Lavage** abondant à l'eau et au savon
@@ -97,18 +94,35 @@ Prise en charge commune à toutes les morsures d'animaux et d'hommes:
   - Vaccin à jour (< 20 ans avant 65 ans et 10 ans après): ne rien faire
   - Plaie mineure propre et non immunisé: vaccination immédiate
   - Plaie majeure ou contamination tellurique et non immunisé: vaccination immédiate et adresser aux Urgences pour test rapide voire immunoglobulines tétaniques humaines
-- Si antibiothérapie de l'adulte indiquée:
-  - Prélèvements de la porte d'entrée
-  - <mark>Amoxicilline - clavulanique 50 mg/kg/j (max 6 g/j) pendant 7 jours</mark>
-  - Étendue à 10-15 jours si infection patente ou morsure vue tardivement
-  - Si allergie: doxycycline ou avis spécialisé
-- Si antibiothérapie de l'enfant indiquée (idem ci-dessus + chat, localisation génitale):
-  - Traitement de **5 jours** en cas de morsure humaine
-  - <mark>Amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 3 à 7 jours</mark> selon l'évolution
-  - Allergie: doxycycline 4 mg/kg/j (max 200 mg/j) en 2 prises pendant 3 à 7 jours selon l'évolution
 
 Avis chirurgical et/ou infectiologique urgent en cas de plaie grave (localisation, délabrement, animal suspect ...).
 {.alert .alert-warning}
+
+### Morsure et antibiothérapie
+
+Antibiothérapie pour morsure si: comorbidités (immunodépression, asplénie, diabète, alcool), érysipèle, plaie profonde ou délabrée, atteinte articulaire, près de tendon ou osseuse, main, face, suture. – *CMIT 2022*
+{.alert .alert-warning}
+
+Antibiothérapie de l'adulte si indiquée:
+
+- Prélèvements de la porte d'entrée
+- Durée du traitement antibiotique
+  - **5 jours** en cas de morsure de mammifère sans signe clinique d'infection
+  - 5 jours si signes d'infection, prolongée si complication ou évolution défavorable pendant 10 jours (14 si non satisfaisant à J10)
+- <mark>[Amoxicilline - clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60998361&typedoc=R) 1g x 3/j</mark>
+- Étendue à 10-15 jours si infection patente ou morsure vue tardivement
+- Si allergie: doxycycline 100 mg x 2/j  
+  ou pristinamycine 1g x 3/j ou clindamycine 600 mg x 3/j ou cotrimoxazole 800/160 mg x 2/j
+
+> – *SPILF 2018*
+
+Antibiothérapie de l'enfant si indiquée (idem ci-dessus + chat ou localisation génitale):
+
+- Traitement de **5 jours** en cas de morsure humaine
+- <mark>[Amoxicilline - clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64550843&typedoc=R) 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 3 à 7 jours</mark> selon l'évolution
+- Allergie: doxycycline 4 mg/kg/j (max 200 mg/j) en 2 prises pendant 3 à 7 jours selon l'évolution
+
+> – *GPIP 2023*
 
 ### Traitement de la morsure par chien et chat
 
@@ -150,11 +164,16 @@ Si vipère venimeuse: amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 
 - [CMIT. Tétanos. Item 160. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-160.pdf)
 - [Service-Public. Que faire en cas de morsure par un chien ? 17/03/2023.](https://www.service-public.fr/particuliers/vosdroits/F24028)
 - [Ameli. Morsure de chien ou de chat. 29/11/2023.](https://www.ameli.fr/assure/sante/urgence/morsures-griffures-piqures/morsure-chien-chat)
-- [CMIT, SFMTSI, SPILF, SMV. Infections par inoculation, morsures (hors rage et envenimations). ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
-- [CMIT, SFMTSI, SPILF, SMV. Envenimations. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
+- [CMIT, SFMTSI, SPILF, SMV. Infections par inoculation, morsures (hors rage et envenimations). ePILLY Trop. 2022.](https://www.infectiologie.com/fr/pillytrop.html)
+- [CMIT, SFMTSI, SPILF, SMV. Envenimations. ePILLY Trop. 2022.](https://www.infectiologie.com/fr/pillytrop.html)
 - [Anses. Risque de morsure de chien. 2020. (PDF)](https://www.anses.fr/fr/system/files/SABA2015SA0158Ra.pdf)
 - Prescrire Redaction. Morsure ou griffure de chien : quelles obligations de surveillance de l'animal. Rev Prescrire. 2020.
 - [HAS, SPILF. Prise en charge des infections cutanées bactériennes courantes. 2019.](https://www.has-sante.fr/jcms/c_2911550/fr/prise-en-charge-des-infections-cutanees-bacteriennes-courantes)
 - [zoopsy, InVS. Facteurs de gravité des morsures de chien aux urgences. 2010. (PDF)](https://conseil53.ordre.medecin.fr/sites/default/files/domain-349/1/morsures_chiens_1.pdf)
+
+### Bibliographie en attente
+
+- [SPILF. Info-antibio N°80. Mars 2018. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2018-03-plaies.pdf)
+- [SFMU, SFFPC. Plaies aiguës en structure d'urgence. 2017.](https://www.sfmu.org/upload/consensus/rbp_plaies2017_v2.pdf)
 
 {{%/sources%}}

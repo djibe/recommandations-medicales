@@ -40,7 +40,7 @@ Articles liés: [diabète type 1]({{< relref "diabete-type-1.md" >}}), [diabète
 Diabète
 : Hyperglycémie chronique dont le diagnostic est biologique (définitions *ADA 2023*):
     - 2 glycémies à jeun ≥ 1,26 g/L (jeûne de 8 heures)
-    - ou HbA1c ≥ 6,5% (48 mmol/mol)
+    - ou HbA1c ≥ 6,5 % (48 mmol/mol)
     - ou HGPO-75g H2 ≥ 2 g/L
     - Glycémie ≥ 2 g/L et symptômes (polyurie, polydipsie, amaigrissement)
 : Au cours du diabète, l'atteinte coronaire est plus étendue, sévère et diffuse. 6 à 35% ont une **[ischémie myocardique sans angor]({{< relref "syndrome-coronarien-chronique.md" >}})** et 50% des [infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) sont **silencieux** (*SFD 2021 CAD*). Le responsable majeur est le **LDL cholestérol**. Le risque d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) est multiplié par 2 à 4.  

@@ -78,7 +78,7 @@ CEDEF
   - [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}), métastases hépatiques
   - [Hépatite B]({{< relref "hepatite-b.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}})
   - [Cirrhose biliaire primitive]({{< relref "cholangite-biliaire-primitive.md" >}})
-  - Cholangite sclérosante primitive
+  - [Cholangite sclérosante primitive]({{< relref "cholangite-sclerosante-primitive.md" >}})
   - Cholestase gravidique  
     Prurit généralisé, sévère et nu par cholestase biologique.
 - Prurit hématologique

@@ -276,7 +276,7 @@ Dépistage identique en cas de prothèses mammaires (*INCa 2019*).
 
 Les mammographies sont remboursées à 100% (les examens supplémentaires ne le sont pas) dans le cadre du Programme national de dépistage organisé du cancer du sein (introduit en 2001, modifié en 2006, géré par DGS et INCa).
 
-> La patiente ne reçoit pas ses invitations ? Elle contacte le [CRCDC régional](https://www.e-cancer.fr/Comprendre-prevenir-depister/Se-faire-depister/Centres-regionaux-de-coordination-des-depistages-des-cancers).
+> La patiente ne reçoit pas ses invitations sur son compte *Ameli* (via courrier en son absence) ? Elle contacte sa CPAM.
 
 #### Conduite à tenir selon les résultats de la mammographie
 
