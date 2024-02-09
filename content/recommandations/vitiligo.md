@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-29T20:48:41+02:00"
 publishdate = "2022-11-22"
-lastmod = "2023-11-24"
+lastmod = "2024-02-08"
 specialites = ["dermatologie"]
 annees = "2021"
 sources = ["BAD", "Inserm"]
@@ -116,8 +116,8 @@ Mesures générales de prise en charge du vitiligo:
 Ensemble des traitements possibles pour la prise en charge spécialisée d'un vitiligo:
 
 - **Traitements locaux**
-  - {{< modal-btn modal-dc >}}Dermocorticoïde fort ou très fort{{< /modal-btn >}} ou tacrolimus 0,1% x 2/j (hors AMM)  
-    Sauf péri-oculaire.
+  - {{< modal-btn modal-dc >}}Dermocorticoïde fort ou très fort{{< /modal-btn >}} ou tacrolimus 0,1% x 2/j (hors AMM). Sauf péri-oculaire.
+  - Ruxolitinib (Opzelura®) 1,5% crème (délivrance hospitalière, remb. à 100%)
 - **Photothérapie UVB** + bétaméthasone 0,1 mg/kg x 2/sem voire PUVA thérapie en deuxième intention.
 - Laser (± 5-fluorouracil)  
   Dépigmentation de zones restantes.

@@ -53,7 +53,7 @@ Indications à la réalisation de l'électrophorèse des protéines sériques (E
   {{%class%}}[Anémie]({{< relref "anemie.md" >}}), [lymphopénie]({{< relref "lymphopenie.md" >}}) isolée ou hyperlymphocytose, [hyperéosinophilie persistante]({{< relref "hypereosinophilie.md" >}}) (*PNDS HE*).{{%/class%}}
 - VS élevée avec CRP normale  
   {{%class%}}En dehors de la grossesse et en tenant compte de l'âge.{{%/class%}}
-- Hypercalcémie  
+- [Hypercalcémie]({{< relref "hypercalcemie.md" >}})  
   {{%class%}}Ionisée ou corrigée en fonction de l'albuminémie/protidémie.{{%/class%}}
 - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) récente non obstructive
 - Protéinurie > 0,5 g/L
@@ -92,7 +92,7 @@ Personnes avec suspicion d'hémopathie maligne devant être adressées rapidemen
 
 {{%warning%}}
 
-- Patient de -60 ans
+- Patient de moins de 60 ans
 - Suspicion d'hémopathie maligne  
   AEG, douleurs osseuses, adénopathies, syndrome tumoral.
 - Anomalie biologique  

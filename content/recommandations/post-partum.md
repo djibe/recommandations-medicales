@@ -147,7 +147,7 @@ Une Hospitalisation À Domicile (HAD) est possible pour des soins considérables
 {{% /collapse %}}
 {{%collapse "Consultation post-natale" %}}
 
-La consultation post natale doit avoir lieu dans les 6-8 semaines après l'accouchement. Elle doit être réalisée par un gynécologue en cas de **complications obstétricales**.
+La consultation post natale doit avoir lieu dans les 6-8 semaines après l'accouchement (n'est plus obligatoire depuis [2003](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000540419)). Elle doit être réalisée par un gynécologue en cas de **complications obstétricales**.
 
 Éléments repris lors de la consultation post-natale:
 
@@ -162,6 +162,7 @@ La consultation post natale doit avoir lieu dans les 6-8 semaines après l'accou
 - Expliquer les risques des grossesses rapprochées (< 6 mois): prématurité (x 3)
 - Contraception du post-partum (voir section dédiée)
 - Troubles psychiques, relation mère-enfant
+- Couple, relations sexuelles
 - Allaitement (voir chapitre dédié)
 - RCIU, MFIU, [pré-éclampsie sévère ou précoce]({{< relref "pre-eclampsie.md" >}}): rechercher un syndrome des anticorps antiphospholipides (SAPL)
 - Si [pré-éclampsie]({{< relref "pre-eclampsie.md" >}}): voir le chapitre dédié
@@ -189,15 +190,12 @@ La rééducation périnéale ne permet pas de traiter un [prolapsus]({{< relref 
 
 - {{< references/calendrier-vaccinal >}}
 - [US Preventive Services Task Force, Barry MJ et al. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2023.9297)
+- Collège national des gynécologues et obstétriciens français (CNGOF). Grossesse normale. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [HAS. Contraception chez la femme en post-partum. Recommandation de bonne pratique. 2019.](https://www.has-sante.fr/jcms/c_1369193/fr/contraception-chez-la-femme-en-post-partum)
 - [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2015/2015-RPC-POSTPARTUM.pdf?x13417)
 - [HAS. Situations pathologiques pouvant relever de l'hospitalisation à domicile au cours de l'ante et du post-partum. 2011.](https://www.has-sante.fr/jcms/c_1066375/fr/situations-pathologiques-pouvant-relever-de-l-hospitalisation-a-domicile-au-cours-de-l-ante-et-du-post-partum)
 - [Dedecker F. Grossesses rapprochées : facteurs de risque et conséquences périnatales. Journal de gynécologie obstétrique et biologie de la reproduction. 2006.](https://www.em-consulte.com/article/115440)
 - [Anaes. Rééducation dans le cadre du post-partum. 2002.](https://www.has-sante.fr/jcms/c_272241/fr/reeducation-dans-le-cadre-du-post-partum)
-
-### Bibliographie en attente
-
-- Collège
 
 {{%/sources%}}
 {{% modal title="Questionnaire PHQ-2" id="modal-phq2"%}}

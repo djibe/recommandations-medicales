@@ -39,6 +39,12 @@ Mycoplasmes
 : Plus petites bactéries capables de réplication autonome.
 : Trois ont un pouvoir pathogène pour l'appareil génital: *M. genitalium*, *M. hominis* et *Ureaplasma spp* (*U. urealyticum* et *U. parvum*). Toutefois *Ureaplasma spp* et *M. hominis* appartiennent à la flore commensale des voies génitales basses et leur rôle pathogène est controversé.
 
+### Abréviations
+
+IGH
+: infection génitales hautes (endométrites, salpingites, pelvipéritonites d'origine génitale)
+{.dl-inline}
+
 {{% /collapse %}}
 {{%collapse "Vaginose bactérienne et vaginite" %}}
 
@@ -133,6 +139,7 @@ La responsabilité de *Mycoplasma genitalium* est possible dans certains cas de 
 {{%sources%}}
 
 - [HAS, SPILF. Choix et durée de l'antibiothérapie : Urétrites et cervicites non compliquées. 2021](https://www.has-sante.fr/jcms/c_2038472/fr/choix-et-duree-de-l-antibiotherapie-uretrites-et-cervicites-non-compliquees)
+- [Graesslin O et al; CNGOF, SPILF. Les infections génitales hautes. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2018/CNGOF_RPC_2018_Infections_genitales-VF.pdf?x13417)
 - [Janier M et al; SFD. Cervicite muco-purulente. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/cervicite-muco-purulente-aa8c23d0b90fa191483668eafcb8660f.pdf)
 - [Vexiau-Robert D et al; SFD. Leucorrhées. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/leucorrhees-c145eb55e49c2c5c6b7aa0e28b8a77ca.pdf)
 - [Alcaraz I et al; SFD. Trichomonose. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/trichomonose-c45b526c66838139b708515093a8be44.pdf)
@@ -143,11 +150,10 @@ La responsabilité de *Mycoplasma genitalium* est possible dans certains cas de 
 - [Gonococcie](https://www.sfdermato.org/upload/recommandations/gonococcie-8e5167e17549b4912a1f1a4b3011eda7.pdf)
 - [MST et grossesse](https://www.sfdermato.org/upload/recommandations/mst-et-grossesse-8d334c94352709631c8240d4ff4466b7.pdf)
 - [Ulcération génitale](https://www.sfdermato.org/upload/recommandations/ulceration-genitale-98decf280ecc17666541d6b3203bebb6.pdf)
-- [Graesslin O et al; CNGOF. Les infections génitales hautes. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2018/CNGOF_RPC_2018_Infections_genitales-VF.pdf?x13417)
 - [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-162-web.pdf)
 - SPILF
 - EAU
-- Collège
+- Collège gynéco p234
 - Prescrire
 - Cochrane
 - Minerva

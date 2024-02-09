@@ -52,6 +52,7 @@ todo = "descr > summary > liens > photo > newsletter > flow"
 
 ### Bibliographie en attente
 
+- Collège
 - Prescrire
 - Cochrane
 - Minerva

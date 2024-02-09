@@ -129,7 +129,7 @@ Adresser à l'hématologue en cas de:
 - Drapeau rouge (anomalie clinique, symptôme suspect)
 - AEG
 - Anémie
-- Hypercalcémie
+- [Hypercalcémie]({{< relref "hypercalcemie.md" >}})
 - Anomalie de la fonction rénale
 - Anomalie liée au taux du pic monoclonal, au type d'immunoglobuline, au rapport des chaînes légères ou à la protéinurie (voir chapitre suivant)
 
