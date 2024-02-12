@@ -305,7 +305,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [ESHRE. International evidence-based guideline for the assessment and management of polycystic ovary syndrome - Summary. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
+- [Teede H et al. International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome 2023. Monash University. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
 - [Inserm. Syndrome des ovaires polykystiques : un problème de sensibilité à l’œstradiol. 18/01/2024.](https://www.inserm.fr/actualite/syndrome-des-ovaires-polykystiques-un-probleme-de-sensibilite-a-loestradiol/)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Item 42 Aménorrhée Item 35 Anomalies du cycle menstruel Métrorragies. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [Barry JA et al. Risk of endometrial, ovarian and breast cancer in women with polycystic ovary syndrome: a systematic review and meta-analysis. Hum Reprod Update. 2014.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24688118/)

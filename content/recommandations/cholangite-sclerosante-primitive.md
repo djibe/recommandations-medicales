@@ -139,7 +139,7 @@ Adresser à l'hépato-gastroentérologue du **centre de compétence** avec le bi
 Le bilan complémentaire au diagnostic de cholangite sclérosante primitive comprend:
 
 - **Cholangio-IRM 3D**
-- **Élastométrie hépatique**: Fibroscan® (ou élastométrie impulsionnelle, élastographie)
+- **Élastométrie hépatique** (ou élastométrie impulsionnelle, élastographie)
 - [TSH](/tags/tsh/)
 - IgG4 sériques, [anticorps anti-mitochondries]({{< relref "cholangite-biliaire-primitive.md" >}})
 - [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}): IgA totales, IgA anti-transglutaminase
@@ -210,7 +210,7 @@ Le suivi de la cholangite sclérosante primitive est spécialisé au centre de c
 - Symptômes: [fatigue](/tags/fatigue/), [prurit]({{< relref "prurit.md" >}}), ictère
 - Biologie: ASAT, ALAT, GGT, **PAL**, **bilirubine** totale et conjuguée, TP
 - Radiologie: cholangio-IRM annuelle
-- Élastométrie: Fibroscan® annuel (tous les 2 ans si peu évoluée)
+- Élastométrie: annuelle (tous les 2 ans si peu évoluée)
 - Coloscopie: chromo-coloscopie annuelle si MICI, tous les 5 ans sans MICI
 - Ostéodensitométrie: tous les 2 à 4 ans et dosage de la vitamine D
 

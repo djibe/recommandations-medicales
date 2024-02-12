@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-26T13:38:41+02:00
 publishdate = "2020-07-26"
-lastmod = "2023-10-27"
+lastmod = "2024-02-10"
 specialites = ["social"]
-annees = "2023"
+annees = "2024"
 sources = ["MinSanté"]
 tags = ["geriatrie"]
 anglais = ["Social health insurance"]
@@ -46,13 +46,17 @@ Ces aides à la prise en charge médicale et aux soins doivent être communiqué
 - Aide au logement
 - [Allocation personnalisée d'autonomie (APA)]({{< relref "allocation-personnalisee-autonomie.md" >}})
 
-## Aides pour les moins de 60 ans
+## Aides médicales pour les moins de 60 ans
 
 - Indemnités journalières
 - Pension d'invalidité
 - Allocation aux adultes handicapés (AAH)
 - Allocation compensatrice pour tierce personne (ACTP)
 - Prestation de compensation du handicap (PCH)
+
+## Aides juridiques
+
+- [Aide juridictionnelle](https://www.aidejuridictionnelle.justice.fr) ([annuaire par commune](http://www.annuaires.justice.gouv.fr/annuaires-12162/liste-des-juridictions-competentes-pour-une-commune-22081.html))
 
 ## La protection des majeurs
 

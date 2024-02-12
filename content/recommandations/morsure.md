@@ -90,8 +90,8 @@ Prise en charge commune à toutes les morsures d'animaux et d'hommes:
 - Une suture est à décider au cas par cas  
   Visage toujours sinon contre-indiquée si infection.
 - Pansement non occlusif
-- Statut vaccinal pour le tétanos (*CMIT 2022*):
-  - Vaccin à jour (< 20 ans avant 65 ans et 10 ans après): ne rien faire
+- **Statut vaccinal pour le tétanos** (morsure et toute plaie – *CMIT 2022*):
+  - Vaccin à jour (< 20 ans avant 65 ans puis tous les 10 ans chez le +65 ans): ne rien faire
   - Plaie mineure propre et non immunisé: vaccination immédiate
   - Plaie majeure ou contamination tellurique et non immunisé: vaccination immédiate et adresser aux Urgences pour test rapide voire immunoglobulines tétaniques humaines
 

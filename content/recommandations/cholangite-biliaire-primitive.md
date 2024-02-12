@@ -36,7 +36,7 @@ Chapitre lié: a[ugmentation des GGT]({{< relref "augmentation-gamma-gt.md" >}})
 {{%collapse "Définition" %}}
 
 Cholangite biliaire primitive (CBP ou cirrhose biliaire primitive)
-: Hépatopathie chronique auto-immune par inflammation des petites voies biliaires, à l'origine d'une **cholestases**. Elle atteint le plus souvent les femmes après 40 ans (90 % avec prévalence 1/1000) et évolue lentement.
+: Hépatopathie chronique auto-immune par inflammation des petites voies biliaires, à l'origine d'une **cholestase**. Elle atteint le plus souvent les femmes après 40 ans (90 % avec prévalence 1/1000) et évolue lentement.
 : Une [hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) (HAI) est associée dans 10% des cas.
 : La gravité de la cirrhose biliaire primitive est liée au risque de **cirrhose biliaire**.
 
@@ -154,7 +154,7 @@ La **ponction-biopsie hépatique** (PBH) est le plus souvent dispensable (sauf a
 
 Une fois le diagnostic de cholangite biliaire primitive posé, des comorbidités doivent être recherchées:
 
-- **Élastométrie hépatique**: Fibroscan®
+- **Élastométrie hépatique** (ou élastographie)
 - [TSH](/tags/tsh/)
 - [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}): IgA totales, IgA anti-transglutaminase
 - [Vitamine D]({{< relref "vitamine-d.md" >}})

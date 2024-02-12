@@ -476,6 +476,10 @@ accTitle: Prise en charge de l'arrêt du tabac d'après HAS 2014
 - [Intervenir Addictions](https://intervenir-addictions.fr)
 - [Observatoire français des drogues et des tendances addictives (OFDT)](https://www.ofdt.fr)
 
+### Bibliographie en attente
+
+[Cho ER et al. Smoking Cessation and Short- and Longer-Term Mortality. NEJM Evid. 2024.](https://evidence.nejm.org/doi/abs/10.1056/EVIDoa2300272)
+
 {{%/sources%}}
 
 {{< references/tabac-info-service >}}

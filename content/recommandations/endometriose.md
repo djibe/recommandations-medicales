@@ -328,6 +328,10 @@ accTitle: Conduite à tenir et prise en charge d'une suspicion d'endométriose d
 - [Inserm. Endométriose. Dossiers d'information. 11/12/2018.](https://www.inserm.fr/information-en-sante/dossiers-information/endometriose)
 - [HAS, CNGOF. Prise en charge de l'endométriose. Recommandation de bonne pratique. Décembre 2017.](https://www.has-sante.fr/jcms/c_2819733/fr/prise-en-charge-de-l-endometriose)
 
+### Bibliographie en attente
+
+[ESHRE Guideline Endometriosis. 2022.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Endometriosis-guideline)
+
 {{%/sources%}}
 {{% modal title="Échelle EHP-5" id="modal-score-ehp5"%}}
 

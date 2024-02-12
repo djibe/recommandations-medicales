@@ -165,7 +165,7 @@ L'IRM hépatique a remplacé la ponction-biopsie hépatique (PBH).
 Bilan complémentaire au diagnostic d'hémochromatose:
 
 - Échographie hépatique
-- Élastométrie hépatique: Fibroscan®
+- Élastométrie hépatique (ou élastographie)
 - [Ostéodensitométrie]({{< relref "osteoporose.md" >}})
 - Hémochromatose au stade 3 ou 4
   - Homme: testostéronémie

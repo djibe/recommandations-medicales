@@ -183,7 +183,7 @@ Marqueurs non invasifs de l'évaluation du foie pour éviter la ponction-biopsie
 - NASH: pas de marqueur spécifique
 - Fibrose
   - Biologique: {{< modal-btn modal-fib4 >}}FIB-4{{< /modal-btn >}} (composite avec ASAT, ALAT, plaquettes), NAFLD Fibrosis Score (NFS, composite), Fibrotest®, Fibromètre®
-  - Imagerie: FibroScan®, élasto-IRM
+  - Imagerie: élastographie hépatique (échographie), élasto-IRM
 
 {{% /collapse %}}
 {{%collapse "Traitement de la NASH" %}}

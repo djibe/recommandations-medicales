@@ -130,7 +130,7 @@ Le vaccin fièvre jaune est possible quelque soit le terme ([CRAT](http://www.le
 
 ### Protection contre les accidents de la route
 
-- Ceinture de sécurité ou casque, siège auto
+- Ceinture de sécurité ou casque, siège auto (même pendant la grossesse – *CNGOF*)
 - Éviter de conduire soi-même
 
 ### Risque transfusionnel

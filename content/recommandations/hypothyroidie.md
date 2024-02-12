@@ -10,7 +10,7 @@ lastmod = "2024-01-27"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["HAS", "SFE"]
-tags = ["coeliaque", "depression", "fatigue", "infertilite", "TSH", "vertige"]
+tags = ["coeliaque", "depression", "fatigue", "grossesse", "infertilite", "TSH", "vertige"]
 anglais = ["Hypothyroidism"]
 sctid = "40930008"
 icd10 = "E03.9"
@@ -36,13 +36,15 @@ Chapitre lié: [hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md" >}})
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
+Pas de dépistage systématique de l'hypothyroïdie en population générale.
+{.alert .alert-info}
+
 Hypothyroïdie
 : Dysfonctionnement thyroïdien le plus fréquent consistant en une sécrétion insuffisante d'hormones thyroïdiennes.  
 Souvent par altération de la glande mais parfois par atteinte centrale hypothalamo-hypophysaire.  
 L'hypothyroïdie atteint 1 à 2% de la population, dont ⅔ de femmes et 10% des sujets âgés.
 : Définition biologique de l'hypothyroïdie avérée: <mark>TSH > 10 mUI/L et T4L < intervalle de référence du laboratoire</mark>.
 : Les principales causes sont auto-immune (thyroïdite chronique lymphocytaire dont maladie de Hashimoto avec goitre et anticorps anti-TPO) et iatrogène (médicament, radiothérapie).
-: **Pas de dépistage systématique de l'hypothyroïdie en population générale.**
 : On la distingue de l'**[hypothyroïdie fruste ou infraclinique]({{< relref "hypothyroidie-fruste.md" >}})** où la **TSH est élevée de façon isolée** (la T4L est dans l'intervalle) à 2 reprises espacées d'au moins 6 semaines.
 
 ### Facteurs favorisants l'hypothyroïdie

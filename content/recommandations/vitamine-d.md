@@ -106,7 +106,7 @@ Vitamine D3 (cholécalciférol): 1 µg = 40 UI
 - Maladies endocriniennes et dermatologiques  
   Hyperparathyroïdie ...
 - Malabsorption, maldigestion, cholestase, insuffisance hépatique  
-  [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), mucoviscidose, chirurgie bariatrique.
+  [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), mucoviscidose, cholangites, [chirurgie bariatrique]({{< relref "obesite-adulte.md" >}}).
 - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}), syndrome néphrotique
 - Anorexie mentale
 - Sujets âgés à {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}}
@@ -115,20 +115,14 @@ Vitamine D3 (cholécalciférol): 1 µg = 40 UI
 
 1. Taux ≥ 75 nmol/L avec dosage initial
 2. Protocole de correction rapide
-3. Apports calciques ≥ 1 g/j
+3. [Apports calciques]({{< relref "apports-calcium.md" >}}) ≥ 1 g/j
 
 {{% /collapse %}}
 {{%collapse "Apports cibles en vitamine D selon l'âge" %}}
 
-La supplémentation en vitamine D peut être instaurée et suivie sans dosage de la vitamine D sauf chez les sujets à risque mentionnés plus haut (voir *Patients à risque*).
+La supplémentation en vitamine D est prescrite au long cours sans dosage de la vitamine D sauf chez les sujets à risque mentionnés plus haut (voir *Patients à risque*).
 
-S'assurer d'apports calciques suffisants:
-
-- {{< modal-btn modal-calcium-cible >}}Apports en calcium cibles selon l'âge{{< /modal-btn >}}
-- Avant 18 ans: ≥ 3 portions de produits laitiers quotidiens  
-  - Eaux riches en calcium si apports légèrement insuffisants (Courmayeur, Hépar et Contrex)
-  - Sinon supplémentation en calcium 500 à 1000 mg/j (apports < 300 mg/j ou vegan)
-- Évaluer les apports calciques si fracture ou douleurs osseuses
+S'assurer également d'[apports calciques suffisants]({{< relref "apports-calcium.md" >}}).
 
 {{< table title="Apports en vitamine D recommandés en 2024 selon le profil du patient" >}}
 | Population                                                    | Apports (UI/j) ou cibles (25OHD) recommandés                                         | Source           |
@@ -145,23 +139,26 @@ S'assurer d'apports calciques suffisants:
 | Ostéoporose, biphosphonates                                   | ≥ 75 nmol/L                                                                          | *Annweiler 2018* |
 {{< /table >}}
 
-> Apports quotidiens préférés chez l'enfant et l'adolescent: vitamine D2 (Stérogyl® 400 UI/gte) ou D3 (ZymaD® 300 UI/gte ou Adrigyl® 333 UI/gte). Sinon vitamine D3 en ampoule (*Bacchetta 2022*)  
+> Apports quotidiens préférés chez l'enfant et l'adolescent: vitamine D2 (Stérogyl® 400 UI/gte) ou D3 (ZymaD® 300 UI/gte ou Adrigyl® 333 UI/gte). Sinon vitamine D3 en ampoule (*Bacchetta 2022*).  
 Ne pas utiliser d'autres formes de supplémentations.
 
 {{% /collapse %}}
 {{%collapse "Quand doser la vitamine D ?" %}}
+
+Supplémentation quotidienne ou mensuelle **sans dosage de la vitamine D** chez les sujets en bonne santé (pas de pathologie ostéoporotique ou polypathologies, absence de chutes) – *Souberbielle et al 2019*
+{.alert .alert-warning}
 
 Situations pouvant faire contrôler le taux de vitamine D:
 
 1. Suspicion de rachitisme
 2. Suspicion d'ostéomalacie (fatigue musculaire, douleurs osseuses)
 3. À 3 mois d'une transplantation rénale
-4. Avant et après une chirurgie bariatrique
+4. Avant et après une [chirurgie bariatrique]({{< relref "obesite-adulte.md" >}})
 5. Personne âgée avec [chutes](/tags/chute/) répétées  
   Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>.
-6. Traitement préconisant une mesure de la vitamine D (ex. biphosphonate)
+1. Traitement préconisant une mesure de la vitamine D (ex. [biphosphonate]({{< relref "osteoporose.md" >}}))
 
-> *HAS 2013* et *Conditions de prise en charge par l'Assurance Maladie*
+> – *HAS 2013* et *Conditions de prise en charge par l'Assurance Maladie*
 
 et aussi
 
@@ -170,11 +167,12 @@ et aussi
 - Enfants à peau pigmentée sans supplémentation avec arcature des membres inférieurs (*SFD*)
 - Enfant avec supplémentation prolongée à des doses excessives (*Bacchetta 2022*)
 - Prématuré < 32 SA ou < 1,5 kg (*Bacchetta 2022*)  
-  Cible de vitamine D 50-120 nmol/L
+  Cible de vitamine D: 50-120 nmol/L.
 - Bilan initial de [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) (*HAS 2023*)
 
-En dehors des 6 indications (+ suppléments), préciser sur l'ordonnance la raison.  
-En dosage de complaisance, préciser << Non remboursable >> sur la prescription (9,45€, code B35).  
+En dehors des 6 indications (+ suppléments), préciser sur l'ordonnance la raison.
+
+Pour un dosage de complaisance, préciser **<< Non remboursable >>** sur la prescription (9,45 €, code B35).  
 {{%class%}}36 millions d'euros de dosages de vitamine D en 2020{{%/class %}}
 
 {{% /collapse %}}

@@ -191,7 +191,7 @@ Dépister des atteintes d'organes en cas de ferritine > 1000 µg/L ou une concen
 - Échocardiographie
 - Ostéodensitométrie
 - Glycémie à jeun
-- ± Mesure non invasive de la fibrose hépatique (FibroScan®)
+- ± Mesure non invasive de la fibrose hépatique: élastographie hépatique
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hyperferritinémie" %}}

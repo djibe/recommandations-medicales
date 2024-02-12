@@ -179,10 +179,10 @@ Par le spécialiste ou sur prescription pour un traitement ambulatoire.
 
 Test non invasif de fibrose hépatique en première intention:
 
-- Élasticité hépatique échographique: FibroScan®  
+- Élastographie hépatique  
   - Absence de maladie sévère si résultat < 10 kPa
   - [Remb. 100% en ALD x 1/an](https://www.aideaucodage.fr/ccam-hlqm002)
-  - FibroScan® le plus proche: appeler {{<phone>}}0 800 004 372{{</phone>}}
+  - Élastographie hépatique
 - Tests sanguins
   - FibroTest®  
     Absence de maladie sévère si résultat ≤ 0,58.  
@@ -208,7 +208,7 @@ Prise en charge de l'hépatite C par antiviraux à action directe possible par t
 - Absence d'insuffisance rénale sévère
 - Absence de comorbidité hépatique mal contrôlée
 - Absence de maladie hépatique sévère (fibrose F3-F4)  
-  {{%class%}}Objectivée par FibroScan®, FibroTest® ou Fibromètre®.{{%/class%}}
+  {{%class%}}Objectivée par élastographie hépatique, FibroTest® ou Fibromètre®.{{%/class%}}
 - Bilan clinique et complémentaire sans anomalie majeure (voir *Clinique* et *Examens complémentaires*)
 
 ### Mesures générales du traitement de l'hépatite C
@@ -284,7 +284,7 @@ La surveillance après la guérison d'une hépatite C dépend de l'atteinte hép
 - Mesures d'hépatoprotection à vie  
   [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}}), {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, automédication.
 - Si cirrhose ou valeurs anormales avant traitement: [dépistage du CHC]({{< relref "carcinome-hepatocellulaire.md" >}})
-  Valeurs anormales signes d'hépatopathie avancée: FibroScan® ≥ 10 kPa, Fibrotest® > 0,58 ou Fibromètre® > 0,78.
+  Valeurs anormales signes d'hépatopathie avancée: élastographie hépatique ≥ 10 kPa, Fibrotest® > 0,58 ou Fibromètre® > 0,78.
 
 En l'absence de ces facteurs de risque et de toute comorbidité hépatique (alcool, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, co-infection VHB, hypertension portale), le patient ne nécessite pas de surveillance particulière. (*AFEF 2020*)
 

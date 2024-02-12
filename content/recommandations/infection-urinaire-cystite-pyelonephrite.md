@@ -33,7 +33,7 @@ Recommandations pour le traitement des infections urinaires communautaires de l'
 - **Cystite aiguë à {{< modal-btn modal-fdr-complication >}}risque de complication{{< /modal-btn >}} ou infection urinaire masculine pauci-symptomatique**  
   Privilégier si possible un traitement différé adapté à l'antibiogramme.
 - **Pyélonéphrite aiguë simple**  
-  Vérifier les indications à l'hospitalisation, ECBU en urgence puis Ciprofloxacine 500 mg x 2/j et réadaptation avec l'antibiogramme.
+  Vérifier les indications à l'hospitalisation, ECBU en urgence puis ciprofloxacine 500 mg x 2/j et réadaptation avec l'antibiogramme.
 - **Pyélonéphrite avec {{< modal-btn modal-fdr-complication >}}facteur de risque de complication{{< /modal-btn >}} sans signe de gravité**  
   Bilan biologique, uroscanner et antibiothérapie probabiliste identique à la PNA simple.
 - **Infection urinaire masculine** (voir section dédiée plus bas)
@@ -59,7 +59,8 @@ Devant des signes évocateurs d'infection urinaire (IU) chez l'immunocompétent,
 
 ### Examen cytobactériologique des urines (ECBU)
 
-**Indications à l'ECBU:** toute suspicion clinique d'infection urinaire sauf cystite simple ou colonisation urinaire nécessitant un traitement (grossesse ou geste urologique programmé).  
+**Indications à l'ECBU:** toute suspicion clinique d'infection urinaire sauf cystite simple ou colonisation urinaire nécessitant un traitement (grossesse ou geste urologique programmé).
+
 L'ECBU est réalisé avant l'antibiothérapie.
 
 **NB.** Conservation possible des urines 12 heures à 4°C (*Collège*).

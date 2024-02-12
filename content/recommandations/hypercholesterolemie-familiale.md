@@ -173,6 +173,10 @@ graph TB
 - [Bouhairie VE, Goldberg AC. Familial hypercholesterolemia. Cardiol Clin. 2015.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4472364/)
 - [Nordestgaard BG et al. Familial hypercholesterolaemia is underdiagnosed and undertreated in the general population: guidance for clinicians to prevent coronary heart disease: consensus statement of the European Atherosclerosis Society. Eur Heart J. 2013.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23956253/)
 
+### Bibliographie en attente
+
+[Durand A et al. Familial hypercholesterolaemia in UK primary care: a Clinical Practice Research Datalink study of an under-recognised condition. British Journal of General Practice. 2024.](https://bjgp.org/content/early/2024/02/06/BJGP.2023.0010%20)
+
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 

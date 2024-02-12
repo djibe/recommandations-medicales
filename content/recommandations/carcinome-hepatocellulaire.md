@@ -135,7 +135,7 @@ Le bilan initial est celui d'une tumeur hépatique:
 - Créatininémie
 - Échographie abdominale
 
-**NB.** En cas de tumeur hépatique sans cirrhose connue, la valeur de l'élastométrie hépatique (biologique avec Fibromètre®, Fibrotest® ou échographique Fibroscan®) n'est pas connue.
+**NB.** En cas de tumeur hépatique sans cirrhose connue, la valeur de l'élastométrie hépatique (biologique avec Fibromètre®, Fibrotest® ou échographique par élastométrie hépatique) n'est pas connue.
 
 ### Imagerie abdominale avec injection de produit de contraste
 

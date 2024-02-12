@@ -287,10 +287,9 @@ Adresser au spécialiste avec le bilan initial de l'hépatite B
 
 ### Pour en savoir plus: les tests non invasifs d'évaluation de la fibrose (TNIF)
 
-Le Fibroscan® permet d'éliminer une fibrose hépatique selon le niveau des ALAT (conférence Baveno VII 2021).  
-Il est systématique dans le bilan initial d'une hépatite B active.
+L'élastographie hépatique permet d'éliminer une fibrose hépatique selon le niveau des ALAT (conférence Baveno VII 2021). Elle est systématique dans le bilan initial d'une hépatite B active.
 
-Les tests sanguins ({{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}, FibroTest®) ne sont utilisés que couplés au Fibroscan®.
+Les tests sanguins ({{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}, FibroTest®) ne sont utilisés que couplés à l'élastographie.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hépatite B active" %}}
@@ -326,7 +325,7 @@ Les tests sanguins ({{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}, F
   puis tous les 6 mois.
 - AgHBs quantitatif tous les 3 ans (annuel si < 1000 UI/mL)
 - Si comorbidité hépatique: test non invasif de fibrose hépatique tous les 1-3 ans  
-  ex. FibroScan®, Fibrotest®, Fibromètre®.
+  ex. élastographie, Fibrotest®, Fibromètre®.
 - Si hépatopathie chronique: élasticité hépatique annuelle
 - Ag HBe+ avec réduction < 100.000 copies/mL
   - Ag HBe tous les 6 mois

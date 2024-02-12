@@ -33,11 +33,11 @@ todo = "SEO 'sevrage alcoolique has', simplifier, remarques mail, KEY x3 sevrage
 - 0 alcool pendant la grossesse et chez les enfants
 - 1 verre standard = 10g d'alcool | seuil de mésusage = 10 verres/semaine  
   << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> et << toute consommation d'alcool comporte un risque pour la santé >> *[Affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*
-- Dépister la Maladie du foie liée à l'alcool (MFLA): ≥ 14 verres/semaine et/ou âge ≥ 40 ans ET score AUDIT-C pathologique (voir *Évaluation d'une consommation*) par test de fibrose hépatique (FibroScan® ou biologique Fibrotest® ou Fibromètre Alcool). Arrêt du tabac et lutte surpoids, suivi addictologique
+- Dépister la Maladie du foie liée à l'alcool (MFLA): ≥ 14 verres/semaine et/ou âge ≥ 40 ans ET score AUDIT-C pathologique (voir *Évaluation d'une consommation*) par test de fibrose hépatique (élastographie hépatique ou biologique Fibrotest® ou Fibromètre Alcool). Arrêt du tabac et lutte surpoids, suivi addictologique
 - Accepter l'objectif de consommation du sujet car toute réduction de consommation est positive. + efficace: auto-évaluation quotidienne de la consommation
 - Abstinence est préférable en cas de dépendance à l'alcool ou comorbidités. Si non souhaitée, accompagnement vers la réduction des dommages
 
-Ressources: [Annuaire des centres de soins CSAPA, addictologues et hôpitaux](https://www.addictaide.fr/annuaire/)
+Ressources: [Annuaire des centres de soins CSAPA, addictologues et hôpitaux](https://www.addictaide.fr/annuaire/), appli [mydéfi](https://play.google.com/store/apps/details?id=com.appdiction.mydefi)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -307,7 +307,7 @@ Le bilan biologique est annuel:
 - Sérologies [hépatite B]({{< relref "hepatite-b.md" >}}) et [hépatite C]({{< relref "hepatite-c.md" >}})
 - Sérologie VIH si expositions à risque
 - Occasionnel: glycémie à jeun et bilan lipidique
-- Mésusage et +40 ans: FibroScan® ou test non invasif biologique (Fibrotest® ou Fibromètre Alcool®)  
+- Mésusage et +40 ans: élastographie hépatique ou test non invasif biologique (Fibrotest® ou Fibromètre Alcool®)  
   Interprétation des résultats selon les taux d'ASAT et bilirubine (voir plus bas).
 - Consultation ORL
 - Consultation dentaire
@@ -326,17 +326,17 @@ ET/OU consommation déclarée ≥ 14 verres/semaine
 #### Critères diagnostiques de la maladie du foie liée à l'alcool
 
 **Diagnostic de MFLA devant: mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, [GGT augmentées]({{< relref "augmentation-gamma-gt.md" >}}), élimination des autres hépatopathies.**  
-En cas de MFLA: test non invasif de fibrose hépatique systématique (**FibroScan® ou biologique: Fibrotest® ou Fibromètre Alcool®**), arrêt du tabac et correction d'un surpoids, **suivi addictologique spécialisé**.
+En cas de MFLA: test non invasif de fibrose hépatique systématique (**élastographie ou biologique: Fibrotest® ou Fibromètre Alcool®**), arrêt du tabac et correction d'un surpoids, **suivi addictologique spécialisé**.
 
 Un bilan hépatique normal permet d'exclure une MFLA significative à court terme.  
 L'échographie hépatique n'a pas d'intérêt pour dépister une MFLA.
 
-{{< table title="Seuils diagnostiques du Fibrotest®, du FibroMètre Alcool®, et du FibroScan® dans la maladie du foie liée à l'alcool selon AFEF 2021" >}}
+{{< table title="Seuils diagnostiques du Fibrotest®, du FibroMètre Alcool®, et de l'élastographie hépatique dans la maladie du foie liée à l'alcool selon AFEF 2021" >}}
 |                                                         | Fibrose septale | Fibrose sévère | Cirrhose |
 |---------------------------------------------------------|----------------:|---------------:|---------:|
 | Fibrotest                                               |            0,49 |           0,59 |     0,75 |
 | FibroMètre Alcool                                       |           0,593 |                |    0,947 |
-| **FibroScan (kPa)**                                     |                 |                |          |
+| **Élastographie (kPa)**                                 |                 |                |          |
 | ASAT < 38,7 UI/L et bili < 9 µmol/L                     |             6,9 |            8,8 |     12,1 |
 | ASAT 38,7-75 et bili < 9<br>ou ASAT < 38,7 et bili 9-16 |             8,1 |           11,2 |     15,4 |
 | ASAT 38,7-75 et bili 9-16                               |             8,8 |           12,3 |     19,9 |
@@ -360,6 +360,7 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
 - Favoriser le soutien de l'entourage  
   Envisager une séance de thérapie conjugale.
 - Ressources de soins
+  - Appli d'aide à l'arrêt: [mydéfi](https://play.google.com/store/apps/details?id=com.appdiction.mydefi)
   - Adresser d'emblée si mésusage très sévère, comorbidités, isolement/précarité, jeune (consultations *jeunes consommateurs CJC*)
   - Consultation d'addictologie
   - Centres de soins, d'accompagnement et de prévention en addictologie (CSAPA)
