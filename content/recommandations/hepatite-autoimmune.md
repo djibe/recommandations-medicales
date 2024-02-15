@@ -130,7 +130,7 @@ La **ponction-biopsie hépatique** (PBH) est systématique pour le diagnostic de
 {{% /collapse %}}
 {{%collapse "Traitement de l'hépatite auto-immune" %}}
 
-La prise en charge de l'hépatite auto-immune relève du gastro-entérologue du centre de compétence ou de référence des maladies rares du foie. [annuaire des centres de compétence](https://www.filfoie.com/ou-consulter/carte-interactive/?fwp_type_de_public=adulte&fwp_rseau_centre=mivb-h) de la filière des maladies rares *Filfoie*.
+La prise en charge de l'hépatite auto-immune relève de l'hépatologue du centre de compétence ou de référence des maladies rares du foie. [annuaire des centres de compétence](https://www.filfoie.com/ou-consulter/carte-interactive/?fwp_type_de_public=adulte&fwp_rseau_centre=mivb-h) de la filière des maladies rares *Filfoie*.
 {.alert .alert-info}
 
 L'objectif du traitement de l'hépatite auto-immune est d'obtenir une rémission biochimique (normalisation des ALAT et IgG) et histologique complète.
@@ -157,5 +157,9 @@ Le suivi de l'hépatite auto-immune est spécialisé et dépend de l'activité d
 - [PNDS. Hépatite Auto-immune. 2021.](https://www.has-sante.fr/jcms/p_3291664/fr/hepatite-auto-immunes-hai)
 - [Filfoie. Hépatite auto-immune.](https://www.filfoie.com/glossary/hepatite-auto-immune-2/)
 - [SNFGE. Hépatite auto-immune](https://www.snfge.org/content/hepatite-auto-immune)
+
+### Bibliographie en attente
+
+[European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Autoimmune hepatitis. J Hepatol. 2015.](https://www.journal-of-hepatology.eu/article/S0168-8278(15)00458-4/fulltext)
 
 {{%/sources%}}

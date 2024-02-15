@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-08T22:26:36+01:00"
 publishdate = "2024-02-12"
-lastmod = "2024-02-12"
+lastmod = "2024-02-13"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["ESHRE"]
@@ -24,7 +24,7 @@ todo = "photo > flow"
 
 - On peut parler de fausses couches répétées à partir de 2 fausses couches spontanées avant 24 SA
 - L'examen clinique évalue les antécédents, le mode de vie et les toxiques chez le couple
-- Le bilan de fausses couches répétées comporte: TSH, anticorps anti-TPO, sérologie coeliaque, anticoagulant type lupique, IgG et IgM anti-cardiolipine et échographie pelvienne transvaginale 3D
+- Le bilan de fausses couches répétées comporte: TSH, anticorps anti-TPO, sérologie cœliaque, anticoagulant type lupique, IgG et IgM anti-cardiolipine et échographie pelvienne transvaginale 3D
 - D'autres examens peuvent être associés
 - La prise en charge associe mesure hygiéno-diététiques (tabac, alcool, poids normal), soutien psychologique et traitements spécifiques (aspirine si SAPL, progestérone vaginale)
 
@@ -64,11 +64,12 @@ Les facteurs majeurs de fausses couches répétées sont l'**âge de la femme** 
 - Évaluation du partenaire  
   Tabac, alcool, activité physique, IMC.
 
-### Clinique
+### Examen clinique
 
 - Poids, taille, IMC
 - Pression artérielle, fréquence cardiaque
-- Examen général
+- Examen général  
+  Signes de maladie de système, hypothyroïdie, [maladie de Wilson]({{< relref "maladie-wilson.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -89,6 +90,7 @@ Bilan complémentaire à considérer:
 - Anticorps anti β2 glycoprotéine (anti-β2GPI)
 - Anticorps anti-nucléaires (AAN)
 - Fragmentation de l'ADN spermatique
+- Rechercher une Maladie de Wilson (*PNDS 2022*)
 
 Bilans non recommandés: typage HLA, dépistage de SOPK, glycémie à jeun, androgènes, évaluation de la réserve ovarienne, d'une insuffisance lutéale, thrombophilie (non suggéré sauf facteurs de risque).
 {.alert .alert-warning}

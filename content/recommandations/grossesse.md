@@ -126,14 +126,15 @@ Malgré les fermetures, **43 %** des maternités ont réalisé en 2020 **moins d
 |----------|----------|---------|------------|
 | Chaque consultation | PA, poids, {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}BU{{%/tooltip%}}, signes de grossesse | Toxoplasmose si -, {{%tooltip "Jusqu'à 18 SA"%}}rubéole si -{{%/tooltip%}}, TSH si sympt. aspécifiques | Arrêt alcool/tabac et {{%tooltip "lecrat.fr"%}}automédication{{%/tooltip%}}, {{%tooltip "mangerbouger.fr"%}}alimentation{{%/tooltip%}} (listériose ++) |
 | Préconceptionnelle<br>ou 1re consultation | ATCD (dont varicelle), profession, vaccinations, précarité, maltraitance, DDR | NFS, ferritine, {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}}<br>Sérologies {{%tooltip "Sauf vaccination double dose documentée"%}}rubéole{{%/tooltip%}}, toxoplasmose, syphilis, VIH, VHC, {{%tooltip "AgHBs sans vaccination"%}}anti-HBs{{%/tooltip%}}, TSH si sympt. aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et FDR{{< /modal-btn >}} | {{%tooltip "Jusqu'à 12 SA"%}}acide folique{{%/tooltip%}} 0,4 mg/j, {{%tooltip "De 11 à 16 SA + 6j"%}}écho T1{{%/tooltip%}}, dépistage T21 |
-| 4e mois ||||
-| 5e mois || {{%tooltip "De 20 à 24 SA"%}}Écho T2{{%/tooltip%}} ||
-| 6e mois || NFS, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} ||
-| 7e mois || {{%tooltip "32 SA"%}}Écho T3{{%/tooltip%}} ||
-| 8e ou 9e mois || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}} ||
+| 4e mois<br>16-20 SA ||||
+| 5e mois<br>20-24 SA || {{%tooltip "De 20 à 24 SA"%}}Écho T2{{%/tooltip%}} ||
+| 6e mois<br>24-28 SA || NFS, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} ||
+| 7e mois<br>28-32 SA || {{%tooltip "32 SA"%}}Écho T3{{%/tooltip%}} ||
+| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, prélèvement vaginal (strepto B) | VitD 100.000 UI |
+| 9e mois<br>37-42 SA ||||
 {{< /table >}}
 
-> – *HAS 2009*, *USPTF 2023*
+> – *HAS 2009*, *USPTF 2023* TODO: Collège p401
 
 {{% /collapse %}}
 {{%collapse "Médicaments et vaccins pendant la grossesse" %}}
@@ -271,6 +272,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 - Collège national des gynécologues et obstétriciens français (CNGOF). Gynécologie obstétrique Réussir son DFASM. 2021.
 - [CNGOF. Prévention de l'allo-immunisation Rhésus D chez les patientes de groupe Rhésus D négatif. 2017. (PDF)](https://cngof.fr/rpc/)
 - [HAS. Projet de grossesse : informations, messages de prévention, examens à proposer. 2009. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-01/projet_de_grossesse_informations_messages_de_prevention_examens_a_proposer_-_fiche_de_synthese.pdf)
+- [DFS. Recommandations pour la prévention des anomalies de la fermeture du tube neural. 2001. (PDF)](https://sante.gouv.fr/IMG/pdf/Recommandations_pour_la_prevention_des_anomalies_de_la_fermeture_du_tube_neural.pdf)
 
 ### Bibliographie en attente
 

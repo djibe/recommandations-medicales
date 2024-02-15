@@ -35,3 +35,5 @@ Compilation d'actualités autour de la santé qui concernent notre pratique de m
 {.alert .alert-info}
 
 </div>
+</div>
+</div>

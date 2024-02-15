@@ -115,7 +115,7 @@ Diagnostics différentiels à écarter pour le diagnostic d'une stéatose hépat
 - Toxines industrielles
 - [Hépatite C]({{< relref "hepatite-b.md" >}})
 - Maladies génétiques ou métaboliques
-  - Maladie de Wilson
+  - [Maladie de Wilson]({{< relref "maladie-wilson.md" >}})
   - Hypo-bétalipoprotéinémie, maladie de Weber-Christian, maladie de Wolman, maladie de dépôt des esters de cholestérol
   - Syndromes lipodystrophiques
 

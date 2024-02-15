@@ -169,6 +169,6 @@ graph TB
 {{%sources%}}
 
 - {{< references/college-gastro >}}
-- [European Association for the Study of the Liver (EASL). Recommandations de pratique clinique de l'EASL sur la prise en charge des tumeurs bénignes du foie. J Hepatol. 2016. doi:10.1016/j.jhep.2016.04.001. (PDF)](https://easl.eu/wp-content/uploads/2018/10/2016-BLT_FR.pdf)
+- [European Association for the Study of the Liver (EASL). Recommandations de pratique clinique de l'EASL sur la prise en charge des tumeurs bénignes du foie. J Hepatol. 2016. (PDF)](https://easl.eu/wp-content/uploads/2018/10/2016-BLT_FR.pdf)
 
 {{%/sources%}}

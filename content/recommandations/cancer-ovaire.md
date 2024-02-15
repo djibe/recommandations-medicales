@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-17T20:24:38+01:00"
 publishdate = "2022-12-20"
-lastmod = "2023-11-06"
+lastmod = "2024-02-13"
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
 sources = ["INCa", "ACOG"]
@@ -127,8 +127,7 @@ En cas d'antécédents de cancer sein-ovaire, avis d'oncogénétique selon le {{
 **Échographie pelvienne** par voie sus-pubienne et endovaginale
 {{%/info%}}
 
-Si découverte d'une masse ovarienne indéterminée ou suspecte de malignité: avis d'un centre du cancer (CLCC) et **IRM abdomino-pelvienne** en parallèle.  
-La découverte au stade précoce survient souvent avec la découverte d'une masse annexielle.
+Si découverte d'une masse ovarienne indéterminée ou suspecte de malignité: avis d'un centre du cancer (CLCC) et **IRM abdomino-pelvienne** en parallèle.
 
 Le **marqueur tumoral CA 125** est dosé en cas de masse indéterminée en imagerie.
 
@@ -212,6 +211,7 @@ style symptômes stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ledermann JA et al. ESGO-ESMO-ESP consensus conference recommendations on ovarian cancer: pathology and molecular biology and early, advanced and recurrent disease. Ann Oncol. 2024.](https://www.annalsofoncology.org/article/S0923-7534(23)05103-7/fulltext)
 - [Sessa C et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Item 306 Diagnostiquer une tumeur de l'ovaire. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [INCa. Les cancers de l'ovaire en 10 points clés. 2020. (PDF)](https://www.e-cancer.fr/content/download/292199/4161575/file/Cancers_de_l_ovaire_en_10_points_cles_mel_20200702.pdf)
@@ -222,7 +222,6 @@ style symptômes stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
-- [Ledermann JA et al. ESGO-ESMO-ESP consensus conference recommendations on ovarian cancer: pathology and molecular biology and early, advanced and recurrent disease. Ann Oncol. 2024.](https://www.annalsofoncology.org/article/S0923-7534(23)05103-7/fulltext)
 - [ACOG. Hereditary Breast and Ovarian Cancer Syndrome. 2017. (payant)](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2017/09/hereditary-breast-and-ovarian-cancer-syndrome)
 
 {{%/sources%}}

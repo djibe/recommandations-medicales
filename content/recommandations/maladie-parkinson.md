@@ -90,7 +90,7 @@ La Maladie de Parkinson est la seule cause de tremblement de repos unilatéral (
 
 Autres diagnostics à étayer devant un syndrome parkinsonien:
 
-- Infarctus cérébraux multiples  
+- [Infarctus cérébraux multiples]({{< relref "accident-vasculaire-cerebral.md" >}})  
   Plutôt symétrique, peu sensible aux dopaminergiques, syndrome peudo-bulbaire.
 - Syndromes parkinsoniens dégénératifs
   - Maladie de Parkinson
@@ -102,7 +102,7 @@ Autres diagnostics à étayer devant un syndrome parkinsonien:
     Dysautonomie précoce, syndrome cérébelleux et pyramidal.
   - Dégénérescence corticobasale  
     Myoclonies, dystonie distale des extrémités, rigidité unilatérale, apraxie, main capricieuse ou "étrangère".
-- Maladie de Wilson  
+- [Maladie de Wilson]({{< relref "maladie-wilson.md" >}})  
   Sujet jeune, autosomique récessif, atteinte hépatique et oculaire. Bilan du cuivre.
 
 ### Épidémiologie de la Maladie de Parkinson en France
@@ -112,7 +112,7 @@ Autres diagnostics à étayer devant un syndrome parkinsonien:
   +65% sur la période 2010-2030 avec une augmentation de l'espérance de vie de 3 ans sur cette période.
 - Âge moyen au diagnostic pour une femme: 71,8 ans (cohorte E3N)
 - Sex-ratio H/F: 1,5
-- Sur-représentation des agriculteurs (+13%), notamment viticulteurs
+- Sur-représentation des agriculteurs (+13 %), notamment viticulteurs
 
 {{< card-link-external title="Dépenses directes liées à la maladie de Parkinson" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20neurologiques%20ou%20d%C3%A9g%C3%A9n%C3%A9ratives&refine.patho_niv2=Maladie%20de%20Parkinson">}}
 

@@ -35,7 +35,7 @@ todo = "descr > summary > liens > photo > newsletter > flow"
 
 ### Interrogatoire
 
-### Clinique
+### Examen clinique
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
