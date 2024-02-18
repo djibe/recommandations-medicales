@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-12-02T15:14:41+02:00"
 publishdate = "2020-12-02"
-lastmod = "2023-06-18"
+lastmod = "2024-02-15"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["HAS", "SPILF", "GEFH", "SNFGE"]
@@ -209,47 +209,45 @@ La France est un pays de faible incidence d'*Helicobacter pylori*:
   - Purpura thrombopénique immunologique de l'adulte
   - Souhait du patient
 
-> *GEFH 2021*
+> – *GEFH 2021*
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
-
+>
 ### Sérologie *Helicobacter pylori*
 
-Indications à la sérologie (test diagnostique):
+Indications à la sérologie (test diagnostique) chez le sujet asymptomatique avec ≥ 1 parmi:
 
-**Chez un sujet asymptomatique et ...**
-
-- < 40-45 ans avec antécédent au 1<sup>er</sup> degré de cancer gastrique
-- Antécédent d'ulcère gastro-duodénal sans preuve d'éradication de *HP*
+- < 40-45 ans avec antécédent au 1<sup>er</sup> degré de [cancer gastrique]({{< relref "cancer-estomac.md" >}})
+- Antécédent d'ulcère gastro-duodénal sans preuve d'éradication d'*HP*
 - Purpura thrombopénique immunologique
 
-> *HAS 2017*
+> – *HAS 2017*
 
 **NB.** Aucun intérêt de la sérologie *HP* pour le contrôle de la guérison.
 
 ### Endoscopie œso-gastro-duodénale
 
-L'*EOGD* doit être **systématique en cas de symptômes ulcéreux, en cas de sérologie positive ou douteuse et pour tous les autres patients à risque** pour analyse anatomopathologique, mise en culture avec recherche de *H. pylori* et antibiogramme.
+La gastroscopie doit être **systématique en cas de symptômes ulcéreux, en cas de sérologie positive ou douteuse et pour tous les autres patients à risque** pour analyse anatomopathologique, mise en culture avec recherche d'*H. pylori* et antibiogramme.
 
-Indications en première intention:
+Indications à l'endoscopie en première intention:
 
 - **Patient symptomatique**
   - Syndrome ulcéreux
   - [Dyspepsie]({{< relref "dyspepsie.md" >}}) chez un patient > 40-45 ans
   - Signe d'alarme  
-  Dysphagie, amaigrissement, anémie.
+    Dysphagie, amaigrissement, anémie.
   - Anémie ferriprive ou carence en vitamine B12 sans autre cause
 - Patient avec facteurs de risque de cancer gastrique
   - &gt; 40-45 ans avec antécédent au 1<sup>er</sup> degré de cancer gastrique
   - Autres facteurs de risque (Voir plus haut *Facteurs de risque ...*)
 - Lymphome gastrique du MALT
-- Chirurgie bariatrique prévue
+- [Chirurgie bariatrique]({{< relref "obesite-adulte.md" >}}) prévue
 
-> *HAS 2017*
+> – *HAS 2017*
 
 {{% /collapse %}}
-{{%collapse "Traitement de Helicobacter pylori 2021 avec antibiogramme" %}}
+{{%collapse "Traitement de Helicobacter pylori avec antibiogramme" %}}
 
 En cas de grossesse ou d'allaitement, il faut différer le traitement
 {.alert .alert-warning}
@@ -430,7 +428,7 @@ Il est réalisé à jeun au laboratoire avec un test acheté sur ordonnance en p
 
 ### Antigène fécal
 
-La recherche fécale de *H. pylori* est une alternative au test respiratoire pour la guérison mais n'est pas remboursé.
+La recherche de l'**antigène fécal** d'*H. pylori* est une alternative au test respiratoire pour le contrôle de la guérison mais n'est pas remboursé (~ 50€).
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir en présence de Helicobacter pylori" "show" %}}
@@ -490,8 +488,7 @@ accTitle: Prise en charge de l'infection à Helicobacter pylori sans antibiogram
     grossesse -- Oui --> reporter("Reporter le<br>traitement")
 {{< /mermaid >}}
 
-> **Légende**  
-EOGD = gastroscopie avec biopsies et antibiogramme
+> **EOGD =** gastroscopie avec biopsies et antibiogramme
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

@@ -8,7 +8,7 @@ synonyms = ["Syndrome climatérique", "traitement hormonal substitutif (THS)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2023-12-21"
+lastmod = "2024-02-15"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
@@ -364,16 +364,16 @@ Précisions: aucun effet sur l'endomètre si durée < 2 ans.
 
 Recommandations pour le traitement hormonal de la ménopause (THM) en pratique:
 
-- Débuté seulement après diagnostic clinique certain et < 10 ans après le début de la ménopause
-- Association: estradiol par voie cutanée 17bêta-estradiol ou valérate d'estradiol + progestérone micronisée ou dydrogestérone ≥ 12 j/mois
+- Le THM est débuté seulement après diagnostic clinique certain et moins de 10 ans après le début de la ménopause
+- Association: estradiol par voie cutanée 17bêta-estradiol ou valérate d'estradiol + progestérone micronisée ou dydrogestérone au moins 12 jours par mois
 - Utiliser les doses minimales efficaces
-- Hystérectomie: Estradiol cutané seul
-- Schéma
+- Si hystérectomie: estradiol cutané seul
+- Schéma de THM
   - *Combiné continu* privilégié  
     Évite hémorragies de privation et BVM concomitantes, [migraines]({{< relref "migraine.md" >}}), simplicité.
   - ou *séquentiel* (hémorragies de privation)
   - La dose minimale efficace peut varier avec le temps
-- Délai d'efficacité sur les BVM: 2-6 semaines.  
+- Délai d'efficacité sur les bouffées vasomotrices: 2-6 semaines.  
   L'absence d'efficacité doit faire rechercher des BVM atypiques (voir *Clinique*).
 - Contre-indications à l'estradiol par voie orale
   - Antécédent de MVTE
@@ -560,45 +560,49 @@ Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch par semaine (sur fess
 
 ### Balance bénéfices-risques du THM
 
-#### Bénéfices du THM avec réduction des risques
+#### Effets neutres importants à signaler
 
-- Fracture de tous les sites osseux  
-  Prévention de l'[ostéoporose]({{< relref "osteoporose.md" >}}).
-- [Infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}})  
-  Avant 60 ans ou ménopause de moins de 10 ans.
-- Cancers: [colorectal]({{< relref "cancer-colorectal.md" >}}), du [pancréas]({{< relref "cancer-pancreas.md" >}}), de l'œsophage, de l'[estomac]({{< relref "cancer-estomac.md" >}}) et du foie
-- Démence (29-44% mais faible niveau de preuve - [cas-contrôle à l'opposé](https://www.bmj.com/content/381/bmj-2022-072770)) surtout si [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
-- Mortalité avant 60 ans  
-  Effet cardiovasculaire très protecteur.
-
-#### Risques du THM
-
-- Récidive d'[Accident vasculaire cérébral (AVC) ischémique]({{< relref "accident-vasculaire-cerebral.md" >}}) ou d'infarctus du myocarde  
-  Uniquement avec ECE + MPA mais principe de précaution.
-- AVC ischémique si estradiol oral
-- [Maladie veineuse thrombo-embolique](/tags/mvte/) (MVTE)  
-  - Si estradiol + acétate de nomegestrol ou promegestone
-  - Risque de récidive en cas d'antécédent de thromboembolie veineuse et estradiol oral
-- [Cancer du sein]({{< relref "cancer-sein.md" >}}) si traitement hormonal (THM) prolongé +5 ans  
-  Le sur-risque disparaît en 2-10 ans après l'arrêt du THM.
-- [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) si estradiol seul  
-  Effacé si prise de 12 jours minimum de progestatif mensuels.
-- [Cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}})  
-  1 cas supplémentaire pour 8000 femmes traitées. Essai avec ECE + MPA ne retrouvait pas de différence pour durée < 5 ans.
-- Facteur de risque de [candidose vaginale récurrente]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
-
-##### Effets neutres marquants du THM
+Le THM utilisé en France ne modifie pas la survenue des pathologies suivantes:
 
 - Thrombo-embolies veineuses  
   Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de chlormadinone, médrogestone, acétate de cyprotérone, acétate de médroxyprogestérone) quelque soit l'IMC.
-- Incidence du cancer du sein si durée du THM < 5 ans
+- Incidence du cancer du sein si durée du THM de moins de 5 ans
 - Mortalité par cancer du sein
-- [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) (en association estradiol + progestérone)
+- [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}})
 
 > *CNGOF 2021*
 
 > << La mortalité par cancer du sein n'est pas augmentée chez les femmes recevant un THM que cela soit dans les essais randomisés ou les études d'observation et quel que soit le type de THM >> (*CNGOF 2021*)
 {.alert .alert-info}
+
+#### Bénéfices du traitement hormonal de la ménopause
+
+- Osseux  
+  Réduit le risque de fractures de tous les sites osseux (voir [ostéoporose]({{< relref "osteoporose.md" >}})).
+- Cardiovasculaires ++  
+  Réduit le risque d'[infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) si débuté avant 60 ans ou ménopause de moins de 10 ans.
+- Cancers  
+  Réduit le risque des cancers: [colorectal]({{< relref "cancer-colorectal.md" >}}), du [pancréas]({{< relref "cancer-pancreas.md" >}}), de l'œsophage, de l'[estomac]({{< relref "cancer-estomac.md" >}}) et du [foie]({{< relref "carcinome-hepatocellulaire.md" >}})
+- Démence  
+  Réduirait le risque de 29 à 44% mais faible niveau de preuve ([étude divergente](https://www.bmj.com/content/381/bmj-2022-072770)) surtout en cas de [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}).
+- Survie  
+  La mortalité avant 60 ans est réduite par un effet cardiovasculaire très protecteur.
+
+#### Risques du traitement hormonal de la ménopause
+
+- [Cancer du sein]({{< relref "cancer-sein.md" >}}) si traitement prolongé +5 ans  
+  Le sur-risque disparaît en 2 à 10 ans après l'arrêt du THM.
+- Antécédents cardiovasculaires  
+  Surrisque de récidive d'[AVC ischémique]({{< relref "accident-vasculaire-cerebral.md" >}}) ou d'[infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) en cas de schéma de THM non utilisé en France (ECE + MPA) mais le principe de précaution s'applique.
+- [Cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}})  
+  1 cas supplémentaire pour 8000 femmes traitées. Essai avec schéma non français (ECE + MPA) ne retrouvait pas de différence pour durée de moins de 5 ans.
+- Risque de [candidose vaginale récurrente]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
+- Risques avec les schémas non utilisés en France (estradiol oral, acétate de médroxyprogestérone MPA ...)
+  - Estradiol oral: surrisque d'AVC ischémique, de récidive de thromboembolie veineuse
+  - Estradiol seul: [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) (annulé par la prise de 12 jours minimum de progestatif mensuels)
+  - Si estradiol + acétate de nomegestrol ou promegestone
+  - [Maladie veineuse thrombo-embolique](/tags/mvte/) (MVTE)  
+    Augmentation du risque de phlébite, embolie pulmonaire.
 
 {{% /collapse %}}
 {{%collapse "Information de la patiente" %}}

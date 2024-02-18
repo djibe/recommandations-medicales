@@ -19,11 +19,11 @@ todo = "écriture SEO, Éléments cliquables trop rapprochés, cadres, temps tra
 
 ## Évolution du prix des consultations en médecine générale
 
-Publication préliminaire afin de disposer d'une série longue sur les prix des consultations des médecins généralistes de 1980 à 2023, n'ayant pas trouvé d'article complet sur le sujet.
+Publication préliminaire afin de disposer d'une série longue sur les prix des consultations des médecins généralistes de 1980 à 2023 en France métropolitaine, n'ayant pas trouvé d'article complet sur le sujet.
 
 Les *conventions médicales* fixent les prix des consultations pour les 5 années à venir. Ainsi, la dernière revalorisation du barème de la consultation du généraliste a eu lieu en 2017, avec un tarif affiché à 25€.
 
-Avec la forte inflation intervenue en 2022, la consultation, toujours affichée 25€ début 2023, ne vaut plus que 22,59€ de 2017, soit le prix de la consultation en 1995 en euros constants.
+Avec la forte inflation intervenue en 2022, la consultation, toujours affichée 25€ en 2023, ne valait plus que 22,59 € de 2017, soit le prix de la consultation en 1995 en euros constants.
 {.alert .alert-info}
 
 ### Éléments à retravailler sur cette page
@@ -36,7 +36,7 @@ Ce qui nécessitera un autre travail: l'évolution de l'activité des praticiens
 
 ## Graphique de l'historique des honoraires médicaux des médecins généralistes conventionnés secteur 1
 
-{{< figure-chart title="Évolution du prix d'une consultation chez le médecin généraliste en secteur 1 de 1980 à 2023. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après <a href='http://www.carmf.fr/doc/publications/chronologie/2022/chronologie-2022.pdf' rel='external nofollow noopener'>CARMF 2022 (PDF)</a>, <a href='http://piketty.pse.ens.fr/fichiers/enseig/memothes/DeaMayneris2004.pdf' rel='external nofollow noopener'>Mayneris 2004 (PDF)</a> et <a href='https://www.insee.fr/fr/information/2417794' rel='external nofollow noopener'>Insee</a>" >}}
+{{< figure-chart title="Évolution du prix d'une consultation chez le médecin généraliste en secteur 1 de 1980 à 2023 en France métropolitaine. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après <a href='http://www.carmf.fr/doc/publications/chronologie/2022/chronologie-2022.pdf' rel='external nofollow noopener'>CARMF 2022 (PDF)</a>, <a href='http://piketty.pse.ens.fr/fichiers/enseig/memothes/DeaMayneris2004.pdf' rel='external nofollow noopener'>Mayneris 2004 (PDF)</a> et <a href='https://www.insee.fr/fr/information/2417794' rel='external nofollow noopener'>Insee</a>" >}}
 
 <script>
 const chartOptions = {
@@ -86,7 +86,9 @@ const chartOptions = {
 }
 </script>
 
-{{%collapse "Tarifs des consultations en francs" %}}
+{{%collapse "Données utilisées" %}}
+
+### Tarifs des consultations en francs
 
 Les données du prix des consultations chez le médecin sont téléchargeables depuis le graphique.
 
@@ -95,28 +97,69 @@ Pour le graphique avant 2002, les francs français ont été convertis avec l'ou
 {{< table title="Prix de la consultation médicale des médecins généralistes conventionnée Secteur 1 en Francs et en Euros 2021 de 1980 à 2001 d'après Mayneris 2004 et Insee. Dr JB Fron" >}}
 | Année | Consultation (Francs) | C (Euros 2021) |
 |-------|----------------------:|---------------:|
-| 1980  | 43                    | 19.05          |
-| 1981  | 55                    | 21.49          |
-| 1982  | 55                    | 19.22          |
-| 1983  | 65                    | 20.72          |
-| 1984  | 70                    | 20.77          |
-| 1985  | 75                    | 21.03          |
-| 1986  | 80                    | 21.85          |
-| 1987  | 85                    | 22.51          |
-| 1988  | 85                    | 21.92          |
-| 1989  | 85                    | 21.16          |
-| 1990  | 90                    | 21.67          |
-| 1991  | 90                    | 20.98          |
-| 1992  | 100                   | 22.79          |
-| 1993  | 100                   | 22.32          |
-| 1994  | 105                   | 23.06          |
-| 1995  | 110                   | 23.71          |
-| 1996  | 110                   | 23.24          |
-| 1997  | 110                   | 22.97          |
-| 1998  | 115                   | 23.86          |
-| 1999  | 115                   | 23.74          |
-| 2000  | 115                   | 23.36          |
-| 2001  | 115                   | 22.98          |
+| 1980  |                    43 |          19.05 |
+| 1981  |                    55 |          21.49 |
+| 1982  |                    55 |          19.22 |
+| 1983  |                    65 |          20.72 |
+| 1984  |                    70 |          20.77 |
+| 1985  |                    75 |          21.03 |
+| 1986  |                    80 |          21.85 |
+| 1987  |                    85 |          22.51 |
+| 1988  |                    85 |          21.92 |
+| 1989  |                    85 |          21.16 |
+| 1990  |                    90 |          21.67 |
+| 1991  |                    90 |          20.98 |
+| 1992  |                   100 |          22.79 |
+| 1993  |                   100 |          22.32 |
+| 1994  |                   105 |          23.06 |
+| 1995  |                   110 |          23.71 |
+| 1996  |                   110 |          23.24 |
+| 1997  |                   110 |          22.97 |
+| 1998  |                   115 |          23.86 |
+| 1999  |                   115 |          23.74 |
+| 2000  |                   115 |          23.36 |
+| 2001  |                   115 |          22.98 |
 {{< /table >}}
+
+### Patients en affection de longue durée (ALD)
+
+**NB.** Un patient peut avoir plusieurs ALD mais la charge en soins est identique.
+
+{{< table title="Patients du régime général (France entière) en ALD (30, 31 ou 32) de 2008 à 2022 et évolution (base 100 en 2008). Dr JB Fron d'après l'Assurance Maladie" >}}
+| Année | Effectif (millions) | Évolution (%) |
+|-------|--------------------:|--------------:|
+| 2008  |               8,286 |           100 |
+| 2009  |               8,637 |           104 |
+| 2010  |               8,983 |           108 |
+| 2011  |               9,237 |           111 |
+| 2012  |               9,460 |           114 |
+| 2013  |               9,660 |           117 |
+| 2014  |               9,864 |           119 |
+| 2015  |              10,099 |           122 |
+| 2016  |              10,390 |           125 |
+| 2017  |              10,737 |           130 |
+| 2018  |              11,110 |           134 |
+| 2019  |              11,402 |           138 |
+| 2020  |              12,068 |           146 |
+| 2021  |              12,131 |           146 |
+| 2022  |              12,344 |           149 |
+{{< /table >}}
+
+> – *[Assurance Maladie. Effectif, prévalence et caractéristiques des bénéficiaires d'une ALD - 2008 à 2022. 20/11/2023](https://assurance-maladie.ameli.fr/etudes-et-donnees/prevalence-beneficiaires-ald)*
+
+### Population de plus de 60 ans
+
+{{< table title="Part de la population de plus de 60 ans en France métropolitaine de 1980 à 2018 et évolution (base 100 en 1980). Dr JB Fron d'après Insee" >}}
+| Année | Proportion (%) | Évolution (%) |
+|-------|---------------:|--------------:|
+| 1980  |             17 |           100 |
+| 1990  |             19 |           112 |
+| 2000  |           20,6 |           121 |
+| 2010  |           22,8 |           134 |
+| 2015  |           24,8 |           146 |
+| 2018  |           25,9 |           152 |
+{{< /table >}}
+
+> *[Insee. Population par âge. Tableaux de l'économie française. 27/02/2018.](https://www.insee.fr/fr/statistiques/3303333?sommaire=3353488#consulter)*
 
 {{% /collapse %}}

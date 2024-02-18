@@ -261,6 +261,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Nierengarten MB. Updated American Cancer Society lung cancer screening guidelines: The new guidelines offer expanded criteria recommended for lung cancer screening based on age, smoking status, and smoking history. Cancer. 2024.](https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.35223)
 - [ESMO Clinical Practice Guidelines](https://www.esmo.org/guidelines/guidelines-by-topic/lung-and-chest-tumours)
 - [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 10 TER](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2010%20TER), 20 BIS, 20 TER, 61 BIS
 

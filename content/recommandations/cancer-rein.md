@@ -70,7 +70,7 @@ Signes et symptômes de cancer du rein:
 - Antécédents: maladie rénale
 - Antécédents familiaux de cancers urologiques
 - Tabac
-- **Hématurie** totale, indolore, spontanée, récidivante
+- **[Hématurie]({{< relref "hematurie.md" >}})** totale, indolore, spontanée, récidivante
 - Douleur du flanc
 - Masse lombaire palpée
 - [Polyglobulie]({{< relref "polyglobulie.md" >}})

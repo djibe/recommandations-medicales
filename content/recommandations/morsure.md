@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-26T12:44:02+01:00"
 publishdate = "2024-01-30"
-lastmod = "2024-02-08"
+lastmod = "2024-02-16"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2023"
 sources = ["GPIP", "CMIT"]
@@ -156,6 +156,8 @@ Si vipère venimeuse: amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 
   - Un certificat est remis à la personne mordue tous les 7 jours
 - Le maire peut obliger le propriétaire à appliquer la loi sous 24 heures ([art. L. 223-10 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024395954/))
 - Le maire peut également ordonner le placement de l'animal voire son euthanasie ([art. L. 211-14-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022200148))
+
+> **NB.** Les chiens de 1<sup>re</sup> et 2<sup>e</sup> catégorie (ex: American Staffordshire terrier, Rottweiler, Tosa) doivent obligatoirement être assurés (*[Service Public](https://www.service-public.fr/particuliers/actualites/A17155)*)
 
 {{% /collapse %}}
 {{%sources%}}

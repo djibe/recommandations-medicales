@@ -169,7 +169,7 @@ Suivi après traitement du cancer de l'endomètre:
 - Suspicion de récidive: scanner abdomino-pelvien
 - Localisation des récidives d'un cancer endométrial les plus fréquentes: vessie, côlon, sein
 
-**Hématurie** après radiothérapie pelvienne: éliminer sans délai un cancer de la vessie.
+**[Hématurie]({{< relref "hematurie.md" >}})** après radiothérapie pelvienne: éliminer sans délai un cancer de la vessie.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du cancer de l'endomètre" "show" %}}

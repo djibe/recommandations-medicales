@@ -141,4 +141,8 @@ Avis du spécialiste en urologie pédiatrique si:
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Cohen R et al. Prise en charge des infections urinaires de l'enfant. Recommandations du groupe de pathologie infectieuse pédiatrique de la Société française de pédiatrie et de la Société de pathologie infectieuse de langue française. Archives de Pédiatrie. 2015. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/infections_voies_urinaires_gpip_2015.pdf)
 
+### Bibliographie en attente
+
+[Khoury L et al. Improving Management: Novel Guidelines for Diagnosing Urinary Tract Infection in Infants. Pediatr Infect Dis J. 2024.](https://journals.lww.com/pidj/abstract/9900/improving_management__novel_guidelines_for.751.aspx)
+
 {{%/sources%}}

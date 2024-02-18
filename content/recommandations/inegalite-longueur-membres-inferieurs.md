@@ -44,7 +44,7 @@ Risque de douleurs plus marqué avec forte différence et grande activité physi
 
 Le plus souvent d'origine fonctionnelle (surcharge musculaire)
 - Anatomique (jambe ou cuisse plus courte)
-Congénitale, paralysie, pied plat asymétrique, tumeur osseuse ou du cartilage. Souvent plus importantes.
+- Congénitale, paralysie, pied plat asymétrique, tumeur osseuse ou du cartilage. Souvent plus importantes.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -69,7 +69,7 @@ Radiographies des membres inférieurs en entier avec rotules en positions antér
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Traitement envisagé pour une inégalité > 1 cm pendant la croissance et  2,5 cm chez l'adolescent en fin de croissance.
+Traitement envisagé pour une inégalité > 1 cm pendant la croissance et 2,5 cm chez l'adolescent en fin de croissance.
 
 Avis orthopédique pédiatrique.
 
@@ -93,6 +93,10 @@ https://pap-pediatrie.fr/les-inegalites-de-longueur-des-membres-inferieurs
 
 ### Bibliographie en attente
 
+- https://www.revmed.ch/RMS/2017/RMS-N-550/Corrections-d-axes-et-allongements-des-membres-inferieurs-en-orthopedie-pediatrique
+- https://www.veterans.gc.ca/fra/health-support/physical-health-and-wellness/compensation-illness-injury/disability-benefits/benefits-determined/entitlement-eligibility-guidelines/leglen
+- Vidéo: Compensation des inégalités de longueur des membres inférieurs (ILMI)
+- https://ifpek.centredoc.org/doc_num.php?explnum_id=1854
 - Prescrire
 - Cochrane
 

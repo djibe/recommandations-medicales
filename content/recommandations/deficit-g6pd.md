@@ -61,7 +61,7 @@ Nécessité d'un bilan biologique en urgence
   - Malaise
   - Douleurs abdominales et lombaires
   - Hémoglobinurie  
-    Urines foncées, rouge << porto >> voire noires.
+    [Hématurie]({{< relref "hematurie.md" >}}): urines foncées, rouge << porto >> voire noires.
   - [Ictère]({{< relref "ictere.md" >}})
 - [Splénomégalie]({{< relref "splenomegalie.md" >}}) en cas d'hémolyse chronique
 

@@ -212,7 +212,8 @@ Prise en charge de la fibromyalgie:
 
 - Reconnaître les symptômes, rassurer, annoncer clairement le diagnostic, ne pas multiplier les examens
 - Éducation thérapeutique du patient (ETP)  
-  Informations sur les composantes bio-psycho-sociales des douleurs chroniques. Voir plus bas *Ameli.fr et associations.
+  - Informations sur les composantes bio-psycho-sociales des douleurs chroniques. Voir plus bas *Ameli.fr* et associations.
+  - Tramadol uniquement sur avis spécialisé
 - Activité physique adaptée (APA) régulière  
   Aérobie (marche, vélo, natation) et en résistance, voire aquatique, yoga, tai-chi ou Qi Gong.
 - Psychothérapie
@@ -277,6 +278,7 @@ graph TB
 
 {{< video mp4="https://media.frequencemedicale.com/JDF/EM238/20230314_JDF_FIBRO_NEURO.mp4" poster="https://www.frequencemedicale.com/media/fmtype/images/jdf238-1678872447.png" description="Douleur chronique diffuse : fibromyalgie ou neuropathie des petites fibres ? (Dr Florian Bailly par FréquenceMédicale)" >}}
 
+- [HAS. Bon usage des médicaments opioïdes : antalgie, prévention et prise en charge du trouble de l'usage et des surdoses. 2022.](https://www.has-sante.fr/jcms/p_3215131/fr/bon-usage-des-medicaments-opioides-antalgie-prevention-et-prise-en-charge-du-trouble-de-l-usage-et-des-surdoses)
 - Collège National des Enseignants de Médecine Interne (CEMI). Troubles à symptomatologie somatique et apparentés à tous les âges. Item 72. Référentiel Collège de Médecine interne R2C. 2021.
 - [Inserm. Fibromyalgie. Collection Expertise collective. Montrouge : EDP Sciences. 2020.](https://www.inserm.fr/expertise-collective/fibromyalgie/)
 - [Macfarlane GJ et al. EULAR revised recommendations for the management of fibromyalgia. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/2/318)

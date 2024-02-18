@@ -7,17 +7,17 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-02T17:26:08+01:00"
 publishdate = "2024-02-08"
-lastmod = "2024-02-08"
+lastmod = "2024-02-15"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
-sources = ["PNDS", "SNFGE", "AFEF"]
+sources = ["PNDS", "EASL", "SNFGE", "AFEF"]
 tags = ["fatigue", "prurit", "TSH", "vitamine d"]
 anglais = ["Primary sclerosing cholangitis (PSC)"]
 sctid = "197441003"
 icd10 = "K83.0"
 image = true
 imageSrc = "Diagnostic de cholangite sclérosante primitive (CSP) sur des images typiques de cholangio-IRM 3D. Cas de Mohammad A. ElBeialy, Radiopaedia.org, rID: 46719"
-todo = "flow"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -47,6 +47,9 @@ CCK
 
 CSP
 : cholangite sclérosante primitive
+
+EASL
+: {{%lang%}}European Association for the Study of the Liver{{%/lang%}}
 
 HTP
 : hypertension portale
@@ -84,9 +87,9 @@ Les signes et symptômes de la cholangite sclérosante primitive sont très vari
 - Antécédents: mucoviscidose, auto-immuns, hépatopathie, angiocholite, pancréatite, chirurgie ou endoscopie biliaire
 - Antécédents familiaux: hépatopathie, auto-immuns
 - Traitements, automédication
-- Alcool, tabac, toxiques
+- Alcool, tabac, toxiques (kétamine)
 - Bilans hépatiques antérieurs
-- **Cholestase biologique**: [augmentation de la gamma-GT]({{< relref "augmentation-gamma-gt.md" >}}) (> 3N) + PAL (> 1,5N, absentes chez 10%) ± bilirubine
+- **Cholestase biologique**: [augmentation de la gamma-GT]({{< relref "augmentation-gamma-gt.md" >}}) (> 3N) + **PAL** (> 1,5 N, absentes chez 10%) ± bilirubine
 - Cytolyse hépatique modérée souvent associée: ASAT et ALAT 2-3 N  
   Rechercher une [hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) si > 5N (et IgG > 20 g/L).
 - Symptômes
@@ -136,9 +139,8 @@ Adresser à l'hépato-gastroentérologue du **centre de compétence** avec le bi
 
 ### Bilan complémentaire après le diagnostic de CSP
 
-Le bilan complémentaire au diagnostic de cholangite sclérosante primitive comprend:
+Le bilan complémentaire après le diagnostic de cholangite sclérosante primitive par **cholangio-IRM 3D** comprend:
 
-- **Cholangio-IRM 3D**
 - **Élastométrie hépatique** (ou élastométrie impulsionnelle, élastographie)
 - [TSH](/tags/tsh/)
 - IgG4 sériques, [anticorps anti-mitochondries]({{< relref "cholangite-biliaire-primitive.md" >}})
@@ -146,20 +148,23 @@ Le bilan complémentaire au diagnostic de cholangite sclérosante primitive comp
 - [Vitamine D]({{< relref "vitamine-d.md" >}})
 - [Ostéodensitométrie]({{< relref "osteoporose.md" >}})
 - Coloscopie avec biopsies  
-  Si MICI absente: recherche de cholangite sclérosante secondaire: IgG, IgM, anticorps anti-nucléaires, anti-muscle lisse (*SNFGE*).
+  Si MICI absente, recherche de cholangite sclérosante secondaire: IgG, IgM, anticorps anti-nucléaires, anti-muscle lisse (*SNFGE*).
 - Si thrombopénie: EOGD
 - Si suspicion de cholangiocarcinome (CSP des gros canaux avec détérioration clinique ou sténose biliaire serrée): IRM biliaire avec injection et CA 19-9
 - Polype vésiculaire ≥ 8 mm: cholécystectomie
+- Si ALAT > 5N et/ou IgG > 1,5 N: rechercher une [hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}})
 
 #### Cholangio-IRM 3D
 
-La **cholangio IRM** avec étude du pancréas est l'<mark>examen diagnostique de référence</mark> de la cholangite sclérosante primitive. Elle doit être interprétée par un radiologue expérimenté et un avis d'un centre expert est nécessaire pour le diagnostic.
+La **cholangio IRM** avec étude du pancréas est l'<mark>examen diagnostique de référence</mark> de la cholangite sclérosante primitive (Se 86%, Spe 94%). Elle doit être interprétée par un radiologue expérimenté et un avis d'un centre expert est nécessaire pour le diagnostic.
+
+Dans 10% des cas, l'atteinte est sur les petites voies biliaires et la cholangio-IRM ne suffit pas au diagnostic.
 
 L'échoendoscopie peut aider à préciser l'épaississement de la paroi des voies biliaires extra-hépatiques.
 
 ### Ponction-biopsie hépatique (PBH)
 
-La **ponction-biopsie hépatique** est le plus souvent dispensable sauf suspicion d'hépatite auto-immune associée (transaminases > 5 N et IgG > 20 g/L), cholangite des petits canaux (cholangio-IRM normale) ou de doute diagnostique.
+La **ponction-biopsie hépatique** est le plus souvent dispensable sauf suspicion d'[hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) associée (transaminases > 5 N et IgG > 20 g/L), cholangite des petits canaux (cholangio-IRM normale) ou de doute diagnostique.
 
 #### Coloscopie
 
@@ -217,14 +222,22 @@ Le suivi de la cholangite sclérosante primitive est spécialisé au centre de c
 La surveillance est intensifiée en cas de cirrhose.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de la cholangite sclérosante primitive" "show" %}}
+
+{{< mermaid title="Prise en charge de la suspicion de cholangite sclérosante primitive (CSP) par le médecin généraliste. Dr JB Fron d'après PNDS et EASL 2022" >}}
+graph TB
+  suspicion["<b>Suspicion de cholangite<br>sclérosante primitive</b><br>—<br>Homme jeune ++ avec<br>cholestase: PAL + GGT et/ou bilirubine ↑"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents personnels<br>et familiaux<br>- Traitements<br>- Toxiques<br>- Bilans antérieurs<br>- Symptômes<br>- Examen clinique") -- Bilan --> échographie("Échographie hépatique") -- Normale --> anticorps("Selon EASL 2022: anticorps<br>anti-mitochondries,<br>± anti-gp210 ou anti-sp100") -- Absents --> cholangioIRM(Cholangio-IRM) --> compétence("Hépatologue du<br>centre de compétence")
+    échographie -- Autre diagnostic --> autre("Voies biliaires visibles,<br>tumeur")
+      anticorps -- Présents --> CBP("Cholangite biliaire<br>primitive (CBP)")
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+{{% /collapse %}}
 {{%sources%}}
 
+- [Bowlus CL et al. AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma. Hepatology. 2023.](https://journals.lww.com/hep/fulltext/2023/02000/aasld_practice_guidance_on_primary_sclerosing.29.aspx)
 - [PNDS. Cholangite Sclérosante Primitive. 2022.](https://www.has-sante.fr/jcms/p_3392249/fr/cholangite-sclerosante-primitive)
 - [Chazouillères O; SNFGE, AFEF. Prise en charge de la cholangite sclérosante primitive (CSP). Conseil de pratique. 2019. (PDF)](https://www.snfge.org/download/file/fid/4849)
-
-### Bibliographie en attente
-
-- [Bowlus CL et al. AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma. Hepatology. 2023.](https://journals.lww.com/hep/fulltext/2023/02000/aasld_practice_guidance_on_primary_sclerosing.29.aspx)
 
 {{%/sources%}}
 {{% modal title="Score de Child-Pugh" id="modal-score-child"%}}

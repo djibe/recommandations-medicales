@@ -132,7 +132,7 @@ Signes et symptômes cliniques d'une anémie:
   - Gynécologiques: grossesse, [contraception]({{< relref "contraception.md" >}}), méno-métrorragies
   - Digestives: [dyspepsie]({{< relref "dyspepsie.md" >}}), syndrome ulcéreux, douleurs abdominales, [hémorroïdes]({{< relref "hemorroides.md" >}}) ou saignements digestifs
   - Épistaxis
-  - Hématurie
+  - [Hématurie]({{< relref "hematurie.md" >}})
 - Anémie
   - Tolérance
   - Dyspnée, [fatigue](/tags/fatigue/), vertiges

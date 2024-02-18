@@ -154,7 +154,7 @@ Indications au suivi de la maladie rénale chronique par un néphrologue:
 - Rapide
   - Lithiase, hydronéphrose, tumeur
   - [Hypertension artérielle réfractaire]({{< relref "hypertension-arterielle.md" >}})
-  - Syndrome néphrotique, œdèmes, hématurie, signes extra-rénaux
+  - Syndrome néphrotique, œdèmes, [hématurie]({{< relref "hematurie.md" >}}), signes extra-rénaux
 
 Le suivi par le néphrologue est recommandé en cas de doute sur la nature de la maladie rénale, des antécédents familiaux, une albuminurie, un traitement à marge thérapeutique étroite.
 
@@ -263,7 +263,7 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
 - Si anémie: réticulocytes  
   {{%class%}}Anémie normochrome normocytaire arégénérative au cours de l'IRC.{{%/class%}}
 - **Confirmer une albuminurie** +30 mg/g (3 mg/mmol) sur un échantillon du matin
-- Si signes fonctionnels urinaires ou hématurie: échographie vésicale
+- Si signes fonctionnels urinaires ou [hématurie]({{< relref "hematurie.md" >}}): échographie vésicale
 - Si [goutte symptomatique]({{< relref "goutte.md" >}}): uricémie
 - Si [suspicion de gammapathie monoclonale]({{< relref "gammapathie-monoclonale-mgus.md" >}}): électrophorèse des protéines sériques, protéinurie/créatininurie
 - ± NT-proBNP

@@ -75,7 +75,7 @@ La polykystose rénale est le plus souvent découverte chez l'adulte jeune sur l
 - Complications rénales
   - Gros reins
   - Douleurs (lithiase, hémorragie intrakystique), pesanteurs lombaires
-  - Hématurie macroscopique
+  - [Hématurie macroscopique]({{< relref "hematurie.md" >}}) (rupture de kyste)
   - Colique néphrétique
   - Infection d'un kyste
   - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})

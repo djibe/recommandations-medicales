@@ -107,7 +107,7 @@ Signes et symptômes de l'endocardite infectieuse:
 - Signes neurologiques  
   AVC, convulsions fébriles, troubles de la conscience, syndrome méningé, abcès cérébral.
 - Signes rénaux  
-  Protéinurie/hématurie isolée, insuffisance rénale.
+  Protéinurie/[hématurie]({{< relref "hematurie.md" >}}) isolée, insuffisance rénale.
 - Signes vasculaires  
   Ischémie (sub)-aiguë de membre, syndrome coronarien aigu, embolie pulmonaire.
 

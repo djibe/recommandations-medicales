@@ -71,7 +71,7 @@ IUE
   - À l'effort (activité physique, rire, toux ou éternuement) et/ou impériosités
   - Circonstances de survenue
   - Fréquence et sévérité des fuites (protections, changes, social)
-- Symptômes urinaires: signes fonctionnels urinaires (SFU) avec brûlures mictionnelles, pollakiurie, dysurie, urgenturie, hématurie, nycturie
+- Symptômes urinaires: signes fonctionnels urinaires (SFU) avec brûlures mictionnelles, pollakiurie, dysurie, urgenturie, [hématurie]({{< relref "hematurie.md" >}}), nycturie
 - Si âgée, urgenturie, nycturie ou pollakiurie: [catalogue mictionnel (PDF)](https://www.urofrance.org/fileadmin/medias/scores/catalogue-mictionnel.pdf) sur 3 jours (fréquence et volume mictionnel, fréquence des fuites)
 - Autres symptômes: [constipation]({{< relref "constipation.md" >}}), [incontinence fécale]({{< relref "incontinence-fecale.md" >}}), sécheresse vaginale, dyspareunie, métrorragies, leucorrhées, chutes
 - Avis gériatrique si: +85 ans, polymédication, trouble cognitif, [dépression]({{< relref "depression.md" >}}), [dénutrition]({{< relref "denutrition.md" >}}), déficit sensoriel, instabilité posturale, sédentarité, perte d'autonomie, isolement social

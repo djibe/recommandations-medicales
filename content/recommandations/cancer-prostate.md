@@ -234,7 +234,7 @@ Répéter le dépistage par toucher rectal et dosage du PSA:
 
 La biopsie de prostate (voie transrectale ou transpérinéale) est indiquée en cas de lésion avancée à l'IRM prostatique.
 
-Liste des complications de la biopsie prostatique par ordre de fréquence: hémospermie (37%), hématurie +1 jour, rectorragie < 2 jours, prostatite, fièvre, épididymite ...
+Liste des complications de la biopsie prostatique par ordre de fréquence: hémospermie (37%), [hématurie]({{< relref "hematurie.md" >}}) +1 jour, rectorragie < 2 jours, prostatite, fièvre, épididymite ...
 
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de la prostate" %}}

@@ -39,7 +39,7 @@ Hypertrophie bénigne de la prostate (HBP)
 : Augmentation bénigne du volume de la prostate liée à l'âge, le plus souvent asymptomatique.
 : L'HBP est la première cause de symptômes du bas appareil urinaire (SBAU) chez l'homme de plus de 50 ans: elle est dite HBP clinique. Moins d'un tiers des hommes sont gênés après 65 ans.
 : **Complications chroniques de l'hypertrophie prostatique:** vessie de lutte, lithiase vésicale de stase, [insuffisance rénale chronique obstructive]({{< relref "insuffisance-renale-chronique.md" >}}) et [hernie pariétale]({{< relref "hernie-parietale.md" >}}). L'HBP n'augmente pas le risque de [cancer de la prostate]({{< relref "cancer-prostate.md" >}}).
-: **Complications aiguës:** rétention aiguë d'urines, [infections urinaires]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}) et [génitales]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}), hématurie initiale et [insuffisance rénale aiguë obstructive]({{< relref "insuffisance-renale-aigue.md" >}}).
+: **Complications aiguës:** rétention aiguë d'urines, [infections urinaires]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}) et [génitales]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}), [hématurie initiale]({{< relref "hematurie.md" >}}) et [insuffisance rénale aiguë obstructive]({{< relref "insuffisance-renale-aigue.md" >}}).
 
 {{%info%}}
 Aucun parallélisme entre la symptomatologie obstructive ou irritative et le volume prostatique
@@ -103,7 +103,7 @@ Le diagnostic d'hypertrophie bénigne de prostate est clinique.
 ### Interrogatoire
 
 - Antécédents médicaux  
-  Neurologiques, cardiovasculaires, [diabète](/tags/diabete/), chirurgicaux, urinaires (infection, hématurie), radiothérapie pelvienne.
+  Neurologiques, cardiovasculaires, [diabète](/tags/diabete/), chirurgicaux, urinaires (infection, [hématurie]({{< relref "hematurie.md" >}})), radiothérapie pelvienne.
 - Traitements en cours
 - Tabagisme
 - Recherche de complications  

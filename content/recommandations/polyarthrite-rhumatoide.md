@@ -136,7 +136,7 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
 - NFS, VS, CRP
 - ASAT, ALAT, PAL, bilirubine
 - Créatininémie, DFG selon {{< scores/ckd-epi >}}
-- Bandelette urinaire (protéinurie, hématurie)
+- Bandelette urinaire (protéinurie, [hématurie]({{< relref "hematurie.md" >}}))
 - Facteur rhumatoïde (FR)
 - Anticorps anti-peptide citrulliné (*ACPA* ou *anti-CCP*)
 - Anticorps antinucléaires (AAN)
