@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2024-01-11"
+lastmod = "2024-02-23"
 specialites = ["ORL", "pediatrie"]
 annees = "2023"
 sources = ["GPIP", "HAS", "SPILF"]
@@ -253,7 +253,7 @@ graph TB
   style angine stroke:#4150f5, stroke-width:1px
     angine --> 314ans(3 à 14 ans) --> TDR(TDR) -- Positif --> ATB("<b>Antibiothérapie 6 jours</b><br>—<br>Adulte: amoxicilline 1g x 2/j<br>Enfant: amox 25 mg/kg x 2/j<br>+ éviction 48 heures")
       TDR -- Négatif --> viral
-    angine --> 15plus("≥ 15 ans") --> score(Mac Isaac) -- "≥ 2" --> ATB
+    angine --> 15plus("≥ 15 ans") --> score(Mac Isaac) -- "≥ 2" --> TDR
       score -- "&lt; 2" --> viral
 {{< /mermaid >}}
 
