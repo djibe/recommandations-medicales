@@ -352,7 +352,8 @@ graph TB
 
 ### Bibliographie en attente
 
-[Himmerich H et al. World Federation of Societies of Biological Psychiatry (WFSBP) guidelines update 2023 on the pharmacological treatment of eating disorders. World J Biol Psychiatry. 2023.](https://www.tandfonline.com/doi/full/10.1080/15622975.2023.2179663)
+- [Himmerich H et al. World Federation of Societies of Biological Psychiatry (WFSBP) guidelines update 2023 on the pharmacological treatment of eating disorders. World J Biol Psychiatry. 2023.](https://www.tandfonline.com/doi/full/10.1080/15622975.2023.2179663)
+- Arnold MJ. Treating Patients With Eating Disorders: Guidelines From the American Psychiatric Association. Am Fam Physician. 2024 Feb;109(2):185-187. PMID: 38393813.
 
 {{%/sources%}}
 {{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}

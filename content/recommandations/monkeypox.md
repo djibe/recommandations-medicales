@@ -252,6 +252,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [SF2H. Nouvelles recommandations de la SF2H pour la prise en charge intra hospitalière des patients infectés par le Mpox. 2024. (PDF)](https://www.sf2h.net/k-stock/data/pdf/monkeypox_bulletin_148.pdf)
 - [HCSP. Mesures de prévention vis-à-vis de l'infection à Monkeypox virus. 08/07/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1230)
 - [COREB. Monkeypox - Prendre en charge les patients.](https://www.coreb.infectiologie.com/fr/prendre-en-charge-les-patients-fiches-pratiques.html)
 - [SPILF. Monkeypox: actualités mise à jour. 09/12/2022.](https://www.infectiologie.com/fr/actualites/mpox-actualites-mise-a-jour_-n.html)

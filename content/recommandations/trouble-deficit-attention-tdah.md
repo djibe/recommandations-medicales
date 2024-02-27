@@ -12,13 +12,13 @@ specialites = ["pediatrie", "psychiatrie"]
 annees = "2014"
 sources = ["HAS"]
 tags = []
-anglais = ["English word", "you can add one or delete this one"]
+anglais = ["ADHD"]
 sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
 icd10 = "https://prod-mapping.ihtsdotools.org/#/"
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow"
+todo = "descr > summary > liens > photo > newsletter > flow, ne pas introduire pénurie ANSM ?, ALD ?"
 +++
 
 {{%article-summary%}}

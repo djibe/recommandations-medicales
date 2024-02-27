@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-12T14:52:52+01:00"
 publishdate = "2024-02-12"
 lastmod = "2024-02-12"
-specialites = ["therapeutique"]
+specialites = ["neurologie"]
 annees = "2022"
 sources = ["HAS"]
 tags = []
@@ -18,7 +18,7 @@ icd10 = "https://prod-mapping.ihtsdotools.org/#/"
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow, dl neuropathique"
+todo = "descr > summary > liens > photo > newsletter > flow, dl neuropathique, où classer"
 +++
 
 {{%article-summary%}}
@@ -224,6 +224,7 @@ Information du patient et de son entourage lors d'un traitement par morphiniques
 
 ### Bibliographie en attente
 
+- [Onco Paca-Corse. Soins palliatifs précoces et prise en charge de la douleur pour un cancer de mauvais pronostic. 2023. (PDF)](https://www.oncopacacorse.org/sites/default/files/guide-bonnes-pratiques-soins_palliatifs_precoces-juin2023.pdf)
 - [HAS. Antalgie des douleurs rebelles et pratiques sédatives chez l'adulte : prise en charge médicamenteuse en situations palliatives jusqu'en fin de vie. 2020.](https://www.has-sante.fr/jcms/p_3150631/fr/antalgie-des-douleurs-rebelles-et-pratiques-sedatives-chez-l-adulte-prise-en-charge-medicamenteuse-en-situations-palliatives-jusqu-en-fin-de-vie)
 - [HAS. Évaluation et prise en charge thérapeutique de la douleur chez les personnes âgées ayant des troubles de la communication verbale. 2006.](https://www.has-sante.fr/jcms/c_272123/fr/evaluation-et-prise-en-charge-therapeutique-de-la-douleur-chez-les-personnes-agees-ayant-des-troubles-de-la-communication-verbale)
 - HAS. Parcours de santé d'une personne présentant une douleur chronique. LU

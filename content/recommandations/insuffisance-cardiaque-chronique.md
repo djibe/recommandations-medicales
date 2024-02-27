@@ -297,14 +297,15 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
   - Diagnostic rapide des infections intercurrentes
   - Surveillance des cardiotoxiques
   - Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
-  - Mesure systématique de l'IPS (*ESC 2017 LEAD*)
-  - Ferritinémie cible ≥ 100 ng/mL: bilan étiologique et fer maltose IV si ICFEd ou ICFEmd symptomatique
+  - Mesure systématique de l'**IPS** (*ESC 2017 LEAD*)
+  - **Ferritinémie** cible ≥ 100 ng/mL: bilan étiologique et fer maltose IV si ICFEd ou ICFEmd symptomatique
+  - Permis de conduire: interdit si NYHA IV, NYHA III sur avis spécialisé
 - Comorbidités
   - [Obésité]({{< relref "obesite-adulte.md" >}}): prise en charge spécifique
   - Diabète: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
   - {{< modal-btn modal-depistage-bpco >}}Dépister une BPCO{{< /modal-btn >}}
-- Dépister annuellement anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
-  - Traitements sûrs: sertraline, escitalopram. Éviter les tricycliques.
+  - Dépister annuellement anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}  
+  Traitements sûrs: sertraline, escitalopram. Éviter les tricycliques.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'insuffisance cardiaque à fraction d'éjection diminuée (ICFEd)" %}}
@@ -555,6 +556,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - [Taylor C et al. Natriuretic peptide testing and heart failure diagnosis in primary care: diagnostic accuracy study. British Journal of General Practice. 2023.](https://bjgp.org/content/73/726/e1)
 - [McDonagh STJ et al. Home‐based versus centre‐based cardiac rehabilitation. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007130.pub5/full/fr)
 - [HAS. JARDIANCE (empagliflozine) - Insuffisance cardiaque chronique symptomatique. 16/09/2022.](https://www.has-sante.fr/jcms/p_3352200/fr/jardiance-empagliflozine-insuffisance-cardiaque-chronique-symptomatique)
+- [Arrêté du 28 mars 2022 fixant la liste des affections médicales incompatibles ou compatibles avec ou sans aménagements ou restrictions pour l’obtention, le renouvellement ou le maintien du permis de conduire.](https://www.legifrance.gouv.fr/download/pdf?id=8dD3wEzkeHMp59Q_y7Jrp2jXbwEqgi4p1G3fTjlpsFU=)
 - {{< references/esc-cvd >}}
 - [McDonagh T et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. 2021.](https://doi.org/10.1093/eurheartj/ehab368)
 - Prescrire Redaction. Insuffisances cardiaques médicamenteuses en bref, Patients insuffisants cardiaques chroniques. Rev Prescrire. 2021.

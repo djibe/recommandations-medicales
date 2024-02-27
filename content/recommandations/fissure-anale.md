@@ -140,4 +140,8 @@ graph TB
 - [Nelson RL et al. Non surgical therapy for anal fissure. Cochrane Database of Systematic Reviews. 2012.](https://www.cochrane.org/CD003431/COLOCA_non-surgical-therapy-for-anal-fissure.)
 - [SNFCP. La fissure anale.](https://www.snfcp.org/informations-maladies/fissure-anale/la-fissure-anale/)
 
+### Bibliographie en attente
+
+Arnold MJ. Management of Anal Fissures: Guidelines From the American Society of Colon and Rectal Surgeons. Am Fam Physician. 2024 Feb;109(2):188-189. PMID: 38393814.
+
 {{%/sources%}}

@@ -1,7 +1,6 @@
 +++
-title = "Prise en charge d'une splénomégalie"
+title = "Splénomégalie"
 prefix = "la "
-titleSeo = "splénomégalie"
 description = "Recommandations pour la prise en charge d'une splénomégalie. Orientation diagnostique devant une splénomégalie: NFS, bilan hépatique, échographie abdominale"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-16T13:00:47+01:00"
 publishdate = "2024-02-18"
-lastmod = "2024-02-18"
+lastmod = "2024-02-25"
 specialites = ["nephrologie", "urologie"]
 annees = "2023"
 sources = ["CUEN"]
@@ -16,7 +16,7 @@ sctid = "34436003"
 icd10 = "R31"
 image = true
 imageSrc = "Hématurie macroscopique. James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "flow CUEN p11"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -71,7 +71,7 @@ SFU
 
 ### Hématuries d'origine néphrologique
 
-Une origine rénale est suspectée en cas d'antécédents personnels ou familiaux de néphropathie ou en cas de signes d'orientation (hypertension artérielle, œdèmes des membres inférieurs, protéinurie, insuffisance rénale).
+Une origine rénale est suspectée en cas d'antécédents personnels ou familiaux de néphropathie ou en cas de signes d'orientation ([hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), œdèmes des membres inférieurs, protéinurie, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})).
 
 - Hématuries néphrologiques microscopiques
   - Glomérulonéphrite à dépôts d'IgA primitive (maladie de Berger)
@@ -82,7 +82,7 @@ Une origine rénale est suspectée en cas d'antécédents personnels ou familiau
   - Syndrome d'Alport  
     Antécédents familiaux, surdité, atteinte ophtalmologique.
   - Autres: néphropathies interstitielles aiguës (médicamenteuse ++), syndrome hémolytique et urémique (SHU)
-  - Enfant: surtout syndrome d'Alport et glomérulonéphrite aiguë post-infectieuse
+  - **Enfant:** surtout syndrome d'Alport et glomérulonéphrite aiguë post-infectieuse
 - Hématuries néphrologiques macroscopiques
   - Elles sont à rechercher **après le bilan urologique**
   - Néphropathie à IgA
@@ -116,6 +116,7 @@ Causes urologiques à éliminer en priorité: tumeur des voies urinaires, infect
 - Cause d'élimination: exercice physique important
 
 Chez l'enfant, les principales étiologies urinaires d'une hématurie sont: [infection urinaire]({{< relref "infection-urinaire-enfant.md" >}}), lithiase, traumatisme et tumeurs.
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -131,7 +132,7 @@ Caractères sémiologiques de l'hématurie macroscopique:
 
 ### Interrogatoire
 
-- Antécédents: urologiques, néphropathie, HTA, traumatisme
+- Antécédents: urologiques, néphropathie, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), traumatisme abdominal
 - Antécédents familiaux: néphropathie
 - Tabagisme
 - Traitements: anticoagulant, antiagrégant (ne dispense pas du bilan)
@@ -198,7 +199,21 @@ L'ECBU peut également identifier des **cylindres hématiques** ou des hématies
 
 La prise en charge de l'hématurie est principalement étiologique avec avis spécialisé (urologue ou néphrologue) en l'absence de cause évidente (infection urinaire, colique néphrétique).
 
-L'**hospitalisation** est urgente en cas de caillots nombreux, surinfectés (pyélonéphrite) ou compliqués de rétention urinaire.
+L'**hospitalisation** devant une hématurie est urgente en cas de caillots nombreux, surinfectés (pyélonéphrite) ou compliqués de rétention urinaire.
+
+{{% /collapse %}}
+{{%collapse "Prise en charge d'une hématurie" "show" %}}
+
+{{< mermaid title="Prise en charge d'une hématurie par le médecin généraliste. Dr JB Fron d'après Collèges" >}}
+graph TB
+  macroscopique["<b>Suspicion d'hématurie<br>macroscopique</b><br>—<br>Urines rosées à brunes"] --> ECBU("<b>Clinique:</b><br>- Antécédents<br>- Traitements<br>- Tabac<br>- Betteraves<br>- Expositions sexuelles<br>- Caractères de l'hématurie<br>- Signes urologique:<br>douleurs,<br>caillots, SFU<br>- Examen clinique<br>—<br>- <b>ECBU matinal</b><br>- NFS, TP, TCA<br>- Créatinine, DFG") -- Urologique --> urologique("- Cytologie urinaire<br>- Échographie<br>des voies urinaires<br>- Uroscanner") --> urologue(Urologue)
+    ECBU -- Néphrologique --> néphrologique("- Cytologie quantitative<br>des urines<br>- Protéinurie des 24 heures
+") --> néphrologue(Néphrologue)
+  microscopique["<b>Suspicion d'hématurie<br>microscopique</b><br>—<br>Sang détecté à la BU"] --> ECBU
+    ECBU -- Diagnostic différentiel --> différentiel("- Infection urinaire<br>- Urétrorragie<br>- Saignement génital<br>- Coloration: pigment,<br>médicament, aliment")
+  style macroscopique stroke:#4150f5, stroke-width:1px
+  style microscopique stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}

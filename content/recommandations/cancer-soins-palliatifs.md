@@ -73,6 +73,10 @@ Ne pas utiliser:
 - [INCa. Prévention et gestion des effets indésirables des anticancéreux - Hormonothérapies dans le traitement adjuvant des cancers du sein. 2023.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Prevention-et-gestion-des-effets-indesirables-des-anticancereux-Hormonotherapies-dans-le-traitement-adjuvant-des-cancers-du-sein)
 - [Fuleihan G. et al. Treatment of Hypercalcemia of Malignancy in Adults: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2022.](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgac621/6916871)
 
+### Bibliographie en attente
+
+[Onco Paca-Corse. Soins palliatifs précoces et prise en charge de la douleur pour un cancer de mauvais pronostic. 2023. (PDF)](https://www.oncopacacorse.org/sites/default/files/guide-bonnes-pratiques-soins_palliatifs_precoces-juin2023.pdf)
+
 {{%/sources%}}
 {{% modal title="Questionnaire DN4" id="modal-score-dn4"%}}
 

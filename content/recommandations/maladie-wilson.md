@@ -16,7 +16,7 @@ sctid = "88518009"
 icd10 = "E83.0"
 image = true
 imageSrc = "Maladie de Wilson chez une femme de 25 ans de poids normal: foie d'aspect normal hyperéchogène diffus. Cas d'Henry Knipe, Radiopaedia.org, rID: 88694"
-todo = "flow, anomalies Wilson"
+todo = "anomalies Wilson, flow"
 +++
 
 {{%article-summary%}}
@@ -70,10 +70,10 @@ Les symptômes surviennent le plus souvent chez le sujet jeune:
 - Symptômes hépatiques (45%)
   - [Fatigue](/tags/fatigue/)
   - Douleurs de l'hypochondre droit
-  - Tableau d'[hépatite](/tags/hepatite/): cytolyse (ASAT et ALAT)
+  - Tableau d'[hépatite](/tags/hepatite/): cytolyse hépatique (ASAT et ALAT)
   - [Ictère]({{< relref "ictere.md" >}})
   - Ascite, œdème des membres inférieurs
-- Symptômes neurologiques (35%, retard diagnostique de 2 ans) sur quelques semaines à quelques mois
+- Symptômes neurologiques (35%, retard diagnostique de 2 ans) apparaissant en quelques semaines à quelques mois
   - Anomalies de mimique
   - Hypersalivation, troubles de déglutition
   - **Dysarthrie**, dysgraphie
@@ -120,9 +120,9 @@ Les symptômes surviennent le plus souvent chez le sujet jeune:
 - NFS
 - Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine totale et conjuguée
 - TP, Facteur V
+- Céruloplasmine
 - Cuprémie totale
 - Cuprurie des 24h
-- Céruloplasmine
 - Échographie hépatique et doppler
 - Élastométrie hépatique (pendant l'échographie)
 - IRM cérébrale
@@ -139,15 +139,16 @@ Bilan complémentaire au diagnostic:
 
 #### Céruloplasmine
 
-Céruloplasmine < 0,14 g/L. Suspicion quand basse de 0,14 à 0,19 g/L.
-
 Une céruloplasmine normale (0,2 - 0,4 g/L) n'élimine pas le diagnostic.
+{.alert .alert-info}
+
+Céruloplasmine < 0,14 g/L. Suspicion de maladie de Wilson quand elle est abaissée de 0,14 à 0,19 g/L.
 
 Elle peut être augmentée en cas d'inflammation, d'infection, de traitement par œstrogènes ou de grossesse.
 
 #### Cuprémie totale
 
-Cuivre sérique le plus souvent bas (< 10 µmol/L ou 635 µg/L) mais peut être élevée en cas d'hémolyse. Suspicion pour un cuivre sérique total de 11 à 13 µmol/L (700 - 830 µg/L).
+Cuivre sérique le plus souvent bas (< 10 µmol/L ou 635 µg/L) mais peut être élevée en cas d'hémolyse. Suspicion de maladie de Wilson pour un cuivre sérique total de 11 à 13 µmol/L (700 - 830 µg/L).
 
 Cuprémie libre (approximative) = cuprémie totale - 0,3 (céruloplasmine / 100)
 
