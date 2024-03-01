@@ -23,7 +23,7 @@ todo = "tableau espérance de vie"
 
 {{%article-summary%}}
 
-- Proposer le dépistage du cancer de la prostate (CaP, préférer << détection précoce >>) par toucher rectal et dosage du PSA après information éclairée aux hommes asymptomatiques ayant espérance de vie de +15 ans (~70 ans) (EAU, AFU et Commission européenne):
+- Proposer le dépistage du cancer de la prostate (CaP, préférer << détection précoce >>) par toucher rectal et dosage du PSA après information éclairée aux hommes asymptomatiques ayant espérance de vie de +15 ans (71 ans) (EAU, AFU et Commission européenne):
   - **Hommes à risque augmenté:** +50 ans, +45 ans avec antécédent familial de CaP ou d'origine africaine, +40 ans avec BRCA2
   - Tous les 2 ans
   - voire tous les 8 ans (**4** pour l'*AFU*) si risque faible: PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans
@@ -195,7 +195,7 @@ Positions des différents comités sur la détection précoce du cancer de la pr
 - Commission européenne 2022  
   PSA jusqu'à 70 ans.
 - EAU 2023  
-  Intérêt d'une détection précoce des *hommes à risque* ayant une [espérance de vie (EV) de +15 ans](https://ec.europa.eu/eurostat/databrowser/view/demo_mlexpec$DV_291/default/table)
+  Intérêt d'une détection précoce des *hommes à risque* ayant une [espérance de vie (EV) de +15 ans]({{< relref "esperance-vie-age-france.md" >}})
 - AFU 2022  
   Hommes de 50 (40 à 45 si *à risque*) à 70 ans avec espérance de vie de +10 ans, tous les 2 à 4 ans.
 - USPTF 2018  
@@ -226,7 +226,7 @@ Répéter le dépistage par toucher rectal et dosage du PSA:
   - PSA > 1 ng/mL à 40 ans
   - PSA > 2 ng/mL à 60 ans
 - Tous les 8 ans en dessous de ces seuils (**4 ans** pour l'AFU)
-- Arrêt du dépistage: [espérance de vie < 15 ans](https://ec.europa.eu/eurostat/databrowser/view/demo_mlexpec$DV_291/default/table) (10 ans selon *AFU*)
+- Arrêt du dépistage: [espérance de vie < 15 ans]({{< relref "esperance-vie-age-france.md" >}}) (10 ans selon *AFU*)
 
 > Rythme de surveillance du PSA proposé par la *EAU 2022*
 

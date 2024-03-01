@@ -42,7 +42,7 @@ Hypertension artérielle
 : Le seuil de traitement est 14/9 **de 18 à 79 ans** et de 160 mmHg après 80 ans mais un seuil plus bas est à considérer. Chez le **sujet fragile**, les seuils sont individualisés.
 : Premier facteur de morbi-mortalité modifiable dans le monde.  
 La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance cardiaque, coronaropathie, AVC, fibrillation atriale, dégradation cognitive et démence.
-: La réduction de la systolique de 10 mmHg (et de 5 mmHg pour la diastolique) réduit le risque d'évènement cardiovasculaire de 20%, la mortalité de 10-15 %, le risque d'AVC de 35%, de SCA de 20%, d'insuffisance cardiaque de 40%. Le traitement allonge l'espérance de vie.
+: La réduction de la systolique de 10 mmHg (et de 5 mmHg pour la diastolique) réduit le risque d'évènement cardiovasculaire de 20%, la mortalité de 10-15 %, le risque d'AVC de 35%, de SCA de 20%, d'insuffisance cardiaque de 40%. Le traitement allonge l'[espérance de vie]({{< relref "esperance-vie-age-france.md" >}}).
 : 3/4 des patients ne sont pas contrôlés principalement par défaut d'**observance** (à 6 mois: 2/3 - 1 an: 50%) et **inertie du médecin**.
 
 Hypertension artérielle résistante

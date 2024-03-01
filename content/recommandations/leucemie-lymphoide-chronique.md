@@ -34,7 +34,7 @@ flowchart = true
 Leucémie lymphoïde chronique
 : Hémopathie maligne par prolifération lymphoïde B monoclonale entraînant une infiltration de la moelle, du sang et des ganglions. Elle est classée parmi les lymphomes et n'atteint presque qu'exclusivement le **sujet âgé** avec une prédominance masculine. La mortalité est surtout liée aux **complications infectieuses**.
 : La **classification pronostique de Binet** utilisée en France comptabilise l'hémoglobine, les plaquettes et le nombre d'aires ganglionnaires atteintes.
-: Au diagnostic, 70-80 % des patients sont au stade A. La moitié d'entre eux n'aura pas de traitement spécifique avec une espérance de vie non modifiée.
+: Au diagnostic, 70-80 % des patients sont au stade A. La moitié d'entre eux n'aura pas de traitement spécifique avec une [espérance de vie]({{< relref "esperance-vie-age-france.md" >}}) non modifiée.
 
 ### Épidémiologie de la leucémie lymphoïde chronique en France
 

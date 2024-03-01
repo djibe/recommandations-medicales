@@ -35,7 +35,7 @@ flowchart = true
 
 Polyarthrite rhumatoïde (PR)
 : Maladie chronique de la membrane synoviale évoluant par poussées inflammatoires. Il s'agit du 1<sup>er</sup> rhumatisme inflammatoire de l'adulte (prévalence de 0,3 à 1%).  
-La destruction articulaire entraîne une altération de la qualité de vie, un handicap et une réduction de l'espérance de vie (10 ans)
+La destruction articulaire entraîne une altération de la qualité de vie, un handicap et une réduction de l'[espérance de vie]({{< relref "esperance-vie-age-france.md" >}}) de 10 ans
 : Intérêt d'un diagnostic et d'un traitement précoce pour ralentir l'évolution de la maladie.
 : **Complications** de la polyarthrite: déformations articulaires et handicap, douleurs et altération de la qualité de vie, augmentation du risque cardiovasculaire, insuffisance respiratoire restrictive, infections, lymphomes, fractures ostéoporotiques.
 : *Rémission* de la polyarthrite rhumatoïde: lorsque le score [DAS28](https://sfr.larhumatologie.fr/sites/sfr.larhumatologie.fr/files/medias/formations-ressources/boite_outils/das28.pdf) est < 2,6.

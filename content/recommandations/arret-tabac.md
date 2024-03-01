@@ -64,7 +64,7 @@ Faux pas
 ### Bénéfices de l'arrêt
 
 > << Il n'est jamais trop tard pour arrêter (*HAS 2014*) >>  
-Arrêter à 40 ans augmente l'espérance de vie de 7 ans, à 50 ans de 4 ans, à 60 ans de 3 ans
+Arrêter à 40 ans augmente l'[espérance de vie]({{< relref "esperance-vie-age-france.md" >}}) de 7 ans, à 50 ans de 4 ans, à 60 ans de 3 ans
 {.alert .alert-info}
 
 Bénéfices importants sur la morbi-mortalité (cardiovasculaire et cancer du poumon ++).
