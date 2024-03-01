@@ -13,6 +13,7 @@ sources = ["SFNeonat"]
 tags = ["nourrisson"]
 anglais = ["Vitamin K"]
 sctid = "65183007"
+atc = "B02BA"
 image = false
 imageSrc = ""
 todo = "rankok, SEO 'vitamine k1 nourrisson'"

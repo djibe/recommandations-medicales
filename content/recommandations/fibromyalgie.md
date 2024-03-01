@@ -261,7 +261,7 @@ Ne pas utiliser d'opioïdes (paliers 2 ou 3) pour la fibromyalgie et autres doul
 
 {{< mermaid title="Prise en charge de la fibromyalgie. Dr JB Fron d'après Inserm, EULAR" >}}
 graph TB
-  fibromyalgie["Suspicion de fibromyalgie (FM)<br>de l'adulte"] --> clinique("<b>Clinique</b><br>—<br>- Interrogatoire<br>- Symptômes depuis ≥ 3 mois<br>- Examen rigoureux<br>- Comorbidités:<br>dépression, SAOS, climatère<br>- Score FiRST<br>- Critères ACR 2016")
+  fibromyalgie["Suspicion de fibromyalgie (FM)<br>de l'adulte"] --> clinique("<b>Clinique</b><br>—<br>- Interrogatoire<br>- Symptômes depuis ≥ 3 mois<br>- Examen rigoureux<br>- Comorbidités:<br>dépression, SAHOS, climatère<br>- Score FiRST<br>- Critères ACR 2016")
   style fibromyalgie stroke:#4150f5, stroke-width:1px
     clinique --> bilan("Bilan (non codifié)") -- Normal --> diagnostic("Diagnostic de<br>fibromyalgie") --> ETP(Éducation thérapeutique) -- Insuffisant --> APA("Activité physique<br>adaptée (APA)") -- Insuffisant --> individualisé(Traitement personnalisé)
       individualisé -- "Anxiété, dépression" --> psycho("Psychothérapie<br>± antidépresseur")

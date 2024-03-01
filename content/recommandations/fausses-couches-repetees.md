@@ -26,7 +26,7 @@ todo = "photo > flow"
 - L'examen clinique évalue les antécédents, le mode de vie et les toxiques chez le couple
 - Le bilan de fausses couches répétées comporte: TSH, anticorps anti-TPO, sérologie cœliaque, anticoagulant type lupique, IgG et IgM anti-cardiolipine et échographie pelvienne transvaginale 3D
 - D'autres examens peuvent être associés
-- La prise en charge associe mesure hygiéno-diététiques (tabac, alcool, poids normal), soutien psychologique et traitements spécifiques (aspirine si SAPL, progestérone vaginale)
+- La prise en charge associe mesures hygiéno-diététiques (tabac, alcool, poids normal), soutien psychologique et traitements spécifiques (aspirine si SAPL, progestérone vaginale)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

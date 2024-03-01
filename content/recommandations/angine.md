@@ -237,7 +237,7 @@ Antalgie après amygdalectomie: paracétamol + ibuprofène, voire tramadol ou mo
 Rechercher:
 
 - Antécédents médicaux et chirurgicaux  
-  Prématurité, antécédents familiaux de SAOS, malformations crânio-faciales ou des VADS, maladies neuromusculaire ou métabolique
+  Prématurité, antécédents familiaux de SAHOS, malformations crânio-faciales ou des VADS, maladies neuromusculaire ou métabolique
 - Symptômes nocturnes  
   Ronflement > 3 nuits/semaine, pauses respiratoires/apnées, reprise respiratoire bruyante, sueurs, énurésie, sommeil agité, tête en hyperextension, cyanose,
   réveils fréquents, parasomnie

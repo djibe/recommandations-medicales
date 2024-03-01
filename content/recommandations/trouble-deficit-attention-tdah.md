@@ -18,7 +18,7 @@ icd10 = "https://prod-mapping.ihtsdotools.org/#/"
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow, ne pas introduire pénurie ANSM ?, ALD ?"
+todo = "descr > summary > liens > photo > newsletter > flow, ne pas introduire pénurie ANSM ?, ALD ? https://www.bmj.com/content/384/bmj-2022-073448"
 +++
 
 {{%article-summary%}}
@@ -57,6 +57,7 @@ TDAH
 - [Bolea-Alamañac B et al; British Association for Psychopharmacology. Evidence-based guidelines for the pharmacological management of attention deficit hyperactivity disorder: update on recommendations from the British Association for Psychopharmacology. J Psychopharmacol. 2014.](https://journals.sagepub.com/doi/10.1177/0269881113519509?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 - TDAH 2021 WFADHD
 - [; SFP. . Pas à Pas en Pédiatrie. 2017.]()
+- [](https://www.bmj.com/content/384/bmj-2022-073448)
 - Collège pediatrie
 - Collège psychiatrie
 - Prescrire

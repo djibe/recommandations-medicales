@@ -15,6 +15,7 @@ tags = ["depistage", "vitamine d", "chute", "nourrisson", "enfant", "adolescent"
 anglais = ["Vitamin D"]
 sctid = "30178006"
 icd10 = ""
+atc = "A11CC"
 image = true
 imageSrc = "Illustration de la vitamine D par pch.vector / Freepik"
 flowchart = true

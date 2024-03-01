@@ -16,6 +16,7 @@ tags = ["HSH", "IST", "prevention", "VIH"]
 anglais = ["Treatment as Prevention (TasP)"]
 sctid = ""
 icd10 = ""
+atc = "J05AR03"
 flowchart = true
 image = true
 imageSrc = "Illustration de la Prophylaxie pré-exposition (PrEP) par pikisuperstar / Freepik"
@@ -271,7 +272,7 @@ Collection de différents supports d'informations sur la PrEP à remettre au pat
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
 
-{{< card-link-external title="La PrEP et ses enjeux" url="https://www.formaprep.org/" subtitle="e-learning gratuit par FormaPrEP">}}
+{{< card-link-external title="La PrEP et ses enjeux" url="https://www.formaprep.org" subtitle="e-learning gratuit par FormaPrEP">}}
 
 [ANSM. Informations importantes concernant le bon usage de l'emtricitabine/Ténofovir disoproxil dans l'indication Prophylaxie pré-exposition (PrEP) au VIH (PDF)](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-brochure-d-information-pds-version4-2021-juin.pdf)
 

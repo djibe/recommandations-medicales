@@ -348,7 +348,7 @@ window.addEventListener('load', () => {
 {{< /table >}}
 
 > **AAA** = anévrysme de l'aorte abdominale ; **MRC** = maladie rénale chronique ; **aspirine:** IPP si risque élevé de saignement digestif ;  
-Épreuve d'effort: évaluer les facteurs de risque: FRCV usuels, tour de taille, ancienneté du diabète, HbA<sub>1c</sub>, complications, dysfonction érectile, SAOS, NASH
+Épreuve d'effort: évaluer les facteurs de risque: FRCV usuels, tour de taille, ancienneté du diabète, HbA<sub>1c</sub>, complications, dysfonction érectile, SAHOS, NASH
 
 {{% /collapse %}}
 {{%collapse "Appareillage" %}}
@@ -439,7 +439,7 @@ window.addEventListener('load', () => {
 {{< clinique/risque-coronaire-diabete >}}
 
 {{% /modal %}}
-{{% modal title="Dépistage du SAOS et diabète" id="modal-saos-diabete"%}}
+{{% modal title="Dépistage du SAHOS et diabète" id="modal-saos-diabete"%}}
 
 {{< scores/saos-diabete >}}
 

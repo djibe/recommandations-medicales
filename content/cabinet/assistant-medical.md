@@ -82,7 +82,7 @@ En cas d'absence de l'assistant (maternité, maladie, démission), il faut prév
 
 {{< card-link-external title="Estimateur de cotisations" url="https://www.urssaf.fr/portail/home/utile-et-pratique/estimateur-de-cotisations.html" subtitle="URSSAF">}}
 
-{{< youtube id="0h2LpuOYpWQ" title="Travailleurs indépendants : J’embauche mes salariés en toute simplicité (URSSAF IDF)" >}}
+{{< youtube id="0h2LpuOYpWQ" title="Travailleurs indépendants : J'embauche mes salariés en toute simplicité (URSSAF IDF)" >}}
 
 {{% /collapse %}}
 {{%collapse "Les qualifications nécessaires pour un assistant médical" %}}
@@ -108,7 +108,7 @@ Toutefois, toute personne peut commencer la collaboration sous réserve de passe
 {{%sources%}}
 
 - [Ameli Médecin. L'aide à l'emploi d'assistants médicaux dans les cabinets libéraux. 14/11/2023.](https://www.ameli.fr/hauts-de-seine/medecin/exercice-liberal/vie-cabinet/aides-financieres/aide-emploi-assistants-medicaux)
-- [Ameli Médecin. Emploi d’un assistant médical : nouvel outil en ligne pour simuler facilement son aide financière. 20/10/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/emploi-d-un-assistant-medical-nouvel-outil-en-ligne-pour-simuler-facilement-son-aide-financiere)
+- [Ameli Médecin. Emploi d'un assistant médical : nouvel outil en ligne pour simuler facilement son aide financière. 20/10/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/emploi-d-un-assistant-medical-nouvel-outil-en-ligne-pour-simuler-facilement-son-aide-financiere)
 - [Ameli. Assistant médical - Un professionnel pour vous faire gagner du temps au service de vos patients. 2023. (PDF)](https://www.ameli.fr/sites/default/files/Documents/Assistant%20medical-Brochure-Medecin%20liberal.pdf)
 - [Ameli Médecin. Assistants médicaux : un levier pour renforcer l'accès aux soins dans les territoires. 28/10/2022.](https://www.ameli.fr/medecin/actualites/assistants-medicaux-un-levier-pour-renforcer-l-acces-aux-soins-dans-les-territoires)
 - [Arrêté du 7 novembre 2019 relatif à l'exercice de l'activité d'assistant médical](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039364029)

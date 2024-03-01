@@ -16,6 +16,7 @@ tags = ["anticoagulant", "chute"]
 anglais = ["Antivitamin k"]
 sctid = "419847008"
 icd10 = ""
+atc = "B01AA"
 image = true
 imageSrc = "L'AVK de référence: la warfarine. Gonegonegone, CC BY-SA 3.0, via Wikimedia Commons"
 todo = "rename, adapt doses: https://www.mgform.org/boite-a-outils/avkclic/fluindione"

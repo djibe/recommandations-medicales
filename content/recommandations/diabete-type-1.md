@@ -208,7 +208,7 @@ Trame des éléments à relever pour un dossier médical complet.
 - Dépistage du retentissement psychologique  
   Score WHO-5, PAID, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}} ou {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}} (anxiété)  
   {{%class%}}[Dépression]({{< relref "depression.md" >}}) et anxiété x2, commentaires de l'entourage.{{%/class%}}
-- [Programme d'accueil de la FFD](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kita)
+- Information du patient: [programme d'accueil de la FFD](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kita)
 - {{< references/compare >}}, [SFDT1](https://sfdt1.fr)
 
 Adulte bien équilibré: un suivi annuel peut être suffisant.
@@ -312,6 +312,7 @@ graph TB
 ### Bibliographie en attente
 
 - [D'Souza D et al. Incidence of Diabetes in Children and Adolescents During the COVID-19 Pandemic: A Systematic Review and Meta-Analysis. JAMA Netw Open. 2023.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2806712)
+- [Dreves B et al. GluciQuizz : un nouvel outil validé pour évaluer les connaissances diététiques des patients vivant avec un diabète de type 1. 2024.](https://www.em-consulte.com/article/1651313/)
 - {{< references/ada-soc >}}
 - [Jane L et al. Type 1 Diabetes in Children and Adolescents: A Position Statement by the American Diabetes Association. Diabetes Care. 2018.](https://diabetesjournals.org/care/article/41/9/2026/40739/Type-1-Diabetes-in-Children-and-Adolescents-A)
 

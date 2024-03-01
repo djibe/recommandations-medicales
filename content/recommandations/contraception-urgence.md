@@ -15,6 +15,7 @@ tags = ["contraception"]
 anglais = ["Postcoital contraception"]
 sctid = "268463003"
 icd10 = "Z30"
+atc = ""
 image = true
 imageSrc = "Communication sur la contraception d'urgence par OnSexPrime.fr"
 flowchart = true

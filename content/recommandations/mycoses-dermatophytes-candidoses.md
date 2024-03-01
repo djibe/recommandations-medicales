@@ -160,7 +160,7 @@ Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athl�
 **Diagnostic différentiel** d'un intertrigo: [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), [psoriasis inversé]({{< relref "psoriasis.md" >}}), [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}}), pityriasis rosé de Gibert, érythrasma (bactérie *Corynebacterium minutissimum* sensible aux antifongiques azolés).
 
 {{% /collapse %}}
-{{%collapse "Teignes ou Dermatophytoses du cuir chevelu" %}}
+{{%collapse "Teignes ou dermatophytoses du cuir chevelu" %}}
 
 > << Tout état squameux, croûteux ou pustuleux du cuir chevelu est une teigne jusqu'à preuve du contraire >> (*Pilly 2020*)
 {.alert .alert-info}

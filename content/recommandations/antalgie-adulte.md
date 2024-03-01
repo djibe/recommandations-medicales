@@ -231,6 +231,7 @@ Information du patient et de son entourage lors d'un traitement par morphiniques
 - [Michenot N et al; AFSOS, SFAP, SFETD. La morphine dans le cadre du changement d'opioïdes ou de voie d'administration, chez l'adulte avec une douleur due au cancer [Opioid switch and change of route of administration in cancer patients treated by morphine]. Bull Cancer. 2018. (PDF)](https://www.sfetd-douleur.org/wp-content/uploads/2019/06/20170130_morphine_final_ok.pdf)
 - [Chvetzoff G et al. Use of Hydromorphone and Change of Opioid in Cancer Pain. Douleur analg. 2018.](https://www.sfetd-douleur.org/recos-et-referentiels/)
 - <https://www.bmj.com/content/381/bmj-2023-076036>
+- Risque de chute x5 dans le mois qui suit l'introduction chez le sujet âgé (https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2815009)
 - Collège douleur
 - SFAP
 - Prescrire

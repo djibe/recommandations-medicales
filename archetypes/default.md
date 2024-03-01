@@ -56,6 +56,7 @@ todo = "descr > summary > liens > photo > newsletter > flow"
 - Prescrire
 - Cochrane
 - Minerva
+- Cismef
 
 {{%/sources%}}
 

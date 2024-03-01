@@ -15,6 +15,7 @@ tags = ["chute", "demence", "prevention"]
 anglais = ["Benzodiazepine"]
 sctid = "372664007"
 icd10 = ""
+atc = "N05BA"
 image = false
 imageSrc = ""
 todo = "grille arrêt"

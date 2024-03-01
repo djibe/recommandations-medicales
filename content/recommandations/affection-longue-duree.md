@@ -148,7 +148,7 @@ La demande dispositif de suivi post-ALD doit être réalisée par le médecin tr
 
 Le médecin doit ajouter la mention **<< suivi post-ALD >>** sur les ordonnances de bilans biologiques et imageries en rapport avec le suivi.
 
-**Demande de suivi post-ALD:** ordonnance simple adressée au service médical de la CPAM dont le patient dépend avec mention impérative de l’ALD concernée.
+**Demande de suivi post-ALD:** ordonnance simple adressée au service médical de la CPAM dont le patient dépend avec mention impérative de l'ALD concernée.
 {.alert .alert-info}
 
 {{% /collapse %}}

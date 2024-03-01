@@ -16,7 +16,7 @@ sctid = "35489007"
 icd10 = "F32.9"
 image = true
 imageSrc = "La dépression par storyset / Freepik"
-todo = "Enfant, adolescent, indications suivi CMP, ECG, Appli Way4Good, quest ASQ, HAS2017p10, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/101.pdf, grille RUD https://psychotropes.fr/storage/3/tool8.pdf, http://beh.santepubliquefrance.fr/beh/2024/3/2024_3_1.html"
+todo = "Enfant, adolescent, indications suivi CMP, ECG, Appli Way4Good, quest ASQ, HAS2017p10, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/101.pdf, grille RUD https://psychotropes.fr/storage/3/tool8.pdf, http://beh.santepubliquefrance.fr/beh/2024/3/2024_3_1.html, https://www.nejm.org/doi/full/10.1056/NEJMcp2305428"
 flowchart = true
 +++
 
@@ -574,6 +574,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Noetel M et al. Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. 2024.](https://www.bmj.com/content/384/bmj-2023-075847)
 - [CBIP. Arrêt progressif des antidépresseurs : lignes directrices (mise à jour 2024). Folia Pharmacotherapeutica. 2024.](https://www.cbip.be/fr/articles/4239?folia=4237)
 - [Anaes, FFP. La crise suicidaire : reconnaître et prendre en charge. 2000.](https://www.has-sante.fr/jcms/c_271964/fr/la-crise-suicidaire-reconnaitre-et-prendre-en-charge)
 - [HAS. Manifestations dépressives à l'adolescence : repérage, diagnostic et prise en charge en soins de premier recours. 2014.](https://www.has-sante.fr/jcms/c_1782013/fr/manifestations-depressives-a-l-adolescence-reperage-diagnostic-et-prise-en-charge-en-soins-de-premier-recours)

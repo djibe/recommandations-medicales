@@ -15,6 +15,7 @@ tags = ["AINS", "toux"]
 anglais = ["Methotrexate"]
 sctid = "387381009"
 icd10 = ""
+atc = "L04AX03"
 image = false
 imageSrc = ""
 todo = "img, quantiféron"

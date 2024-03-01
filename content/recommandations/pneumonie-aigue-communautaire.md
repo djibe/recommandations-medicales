@@ -29,7 +29,7 @@ flowchart = true
 - La prise en charge de la pneumonie aiguë communautaire est possible en ambulatoire en l'absence de ces critères
 - La radiographie thoracique de face est systématique
 - Bilan complémentaire en cas de germe encapsulé chez le jeune ou suspicion de bactérie atypique
-- L'antibiothérapie est urgente et dépend du tableau de pneumopathie infectieuse: amoxicilline 1g x 3/j (+ acide clavulanique si âgé ou comorbidité), macrolide si bactérie atypique intracellulaire
+- L'antibiothérapie est urgente et dépend du tableau de pneumopathie infectieuse: amoxicilline 1g x 3/j (+ clavulanique si âgé, comorbidités ou post-grippal), macrolide si bactérie atypique intracellulaire
 - La durée du traitement de la pneumonie est de 5 jours (7 jours si adulte non rétabli à J3, 14 jours si légionelle avec DO – *SPILF 2020*)
 - Réévaluation clinique systématique à 48-72 heures
 - Prévention de la pneumonie par arrêt du tabac et vaccinations grippe/Covid (+65 ans, immunodépression ...) et pneumocoque (voir *Prévention*)

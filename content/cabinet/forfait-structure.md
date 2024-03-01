@@ -62,7 +62,7 @@ Les primes du volet 2 ne sont accessibles que lorsque l'ensemble des points du V
 - ≥ 30% d'e-prescription | 40 pts - 280€
 {.list-group}
 
-> AAT = arrêt de travail en ligne ; AT/MP = certificat médical d’accident de travail ou de maladie professionnelle ; DMT = déclaration médecin traitant ; PSE = protocole de soins électronique ; SPE = prescription électronique de transport. Il ne prend en compte que les affiliés au Régime Général.  
+> AAT = arrêt de travail en ligne ; AT/MP = certificat médical d'accident de travail ou de maladie professionnelle ; DMT = déclaration médecin traitant ; PSE = protocole de soins électronique ; SPE = prescription électronique de transport. Il ne prend en compte que les affiliés au Régime Général.  
 **MSS** = messagerie sécurisée de santé (MSSanté ou Apicrypt v2)
 
 ## Forfait structure : ce qui va changer en 2024
@@ -113,7 +113,7 @@ SAS
 
 - [Assurance Maladie. Note méthodologique de la rémunération valorisant l'élaboration et l'alimentation du Volet de Synthèse Médicale (VSM) par les médecins traitants pour les patients en ALD. 2023. (PDF)](https://www.ameli.fr/sites/default/files/Documents/20231213_%20Note%20methodologique%20r%C3%A9mun%C3%A9ration%20VSM%20ALD_MT.pdf)
 - [Ameli Médecin. Modernisation du cabinet médical avec le forfait structure. 19/12/2023.](https://www.ameli.fr/paris/medecin/exercice-liberal/vie-cabinet/aides-financieres/modernisation-cabinet)
-- [Buzz Médecin. Forfait structure 2023 : c’est parti pour la déclaration. 11/12/2023.](https://comparatif-logiciels-medicaux.fr/actualite/forfait-structure-2023-cest-parti-pour-la-declaration)
+- [Buzz Médecin. Forfait structure 2023 : c'est parti pour la déclaration. 11/12/2023.](https://comparatif-logiciels-medicaux.fr/actualite/forfait-structure-2023-cest-parti-pour-la-declaration)
 - [Avis relatif à l'avenant n°4](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046363095)
 - [Avenant 9](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044097701)
 - [Arrêté du 20 octobre 2016 portant approbation de la convention nationale organisant les rapports entre les médecins libéraux et l'assurance maladie signée le 25 août 2016](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000033285608)

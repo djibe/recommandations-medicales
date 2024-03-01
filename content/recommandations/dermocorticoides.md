@@ -14,6 +14,7 @@ tags = ["atopie"]
 anglais = ["Topical corticosteroids"]
 sctid = ""
 icd10 = ""
+atc = "D07A"
 image = true
 imageSrc = "Tube de dermocorticoïde en crème. Dr JB Fron"
 +++

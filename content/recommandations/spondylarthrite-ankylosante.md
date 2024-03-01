@@ -249,7 +249,7 @@ L'IRM des sacro-iliaques et des rachis dorso-lombaires est importante pour un di
 Résumé des recommandations pour la prise en charge de la spondylarthrite:
 
 - Suivi spécialisé systématique par le rhumatologue
-- [Arrêt du tabac systématique ]({{< relref "arret-tabac.md" >}}) 
+- [Arrêt du tabac systématique ]({{< relref "arret-tabac.md" >}})  
   {{%class%}}Augmente la sévérité de la maladie et facteur de moindre réponse aux anti-TNF.{{%/class%}}
 - Activité physique quotidienne
 - Contrôle du poids
@@ -337,7 +337,7 @@ Réduction et espacement en rémission stable et prolongée.
   - Ixekizumab
   - Sécukinumab (Cosentyx®)
 
-[Bilan pré-thérapeutique et surveillance sous biothérapie](http://www.cri-net.com/fiches-pratiques-et-eSessions/dernieres-mises-a-jour).
+[Bilan pré-thérapeutique et surveillance sous biothérapie](https://cri-net.com/ckfinder/userfiles/files/fiches-pratiques/Anti-TNF_Nov2020/Anti_TNF_Bilan_04042021.pdf).
 
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}
