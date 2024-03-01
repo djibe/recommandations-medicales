@@ -804,7 +804,7 @@ article {
     color: #B85300;
   }
   .alert-summary {
-    // width: Min(100%,768px);
+    background-color: #FFF9ED;
     &:last-child {
       margin-bottom: 0;
     }
@@ -1229,7 +1229,7 @@ legend {
 }
 
 #recommandation-aside {
-  background-color: #FFF9ED; // #f5f5f5;
+  background-color: #FFF9ED;
   border-radius: 24px;
   .figure {
     border-radius: 24px;

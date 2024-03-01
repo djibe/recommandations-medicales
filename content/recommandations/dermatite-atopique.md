@@ -211,7 +211,7 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
   - Allergie à l'œuf associée: avis spécialisé avant grippe ou fièvre jaune
   - Éviter durant une poussée sévère
 - Éviter les animaux domestiques
-- Encourager l'allaitement maternel exclusif +3 mois
+- Encourager l'[allaitement maternel]({{< relref "allaitement.md" >}}) exclusif +3 mois
 - Information du patient: [appli HappyReso](https://www.happyreso.fr), [guide SFD (PDF)](https://www.sfdermato.org/upload/fiche/etfad-great-version-france-22o32019-dd00991406282f168b08aec43c3798f0.pdf)
 
 **NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (*EADV* et Pr D. Staumont *Dermato-Info*) car sans efficacité sur le prurit. En visée sédative, recours à l'[hydroxyzine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61162294&typedoc=R).

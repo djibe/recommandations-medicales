@@ -213,14 +213,14 @@ Diarrhée du voyageur
 : Elles sont classées en 3 types: diarrhées aiguës bénignes, modérées (pénible et perturbant les activités) ou sévères (syndrome dysentérique = selles sanglantes, activités difficiles ou impossibles) et dites *persistantes* après 2 semaines.
 : Tourista (ou turista): épisode aigu bénin survenant pendant le séjour ou dans les 7 jours suivant le retour, spontanément résolutif en 1-3 jours.
 
-Le plus souvent la diarrhée est liée au péril fécal avec une origine bactérienne 80% (*E. coli*, *Campylobacter* ...), parasitaire 5-10% (persistante ++,  *Entamoeba histolytica*, *Giardia intestinalis*, *Cryptosporidium spp*, *Isospora belli*, *Cyclospora*) ou médicamenteuse.
+Le plus souvent la diarrhée est liée au péril fécal avec une origine bactérienne 80% (*E. coli*, *Campylobacter* ...), parasitaire 5-10 % (persistante ++,  *Entamoeba histolytica*, *Giardia intestinalis*, *Cryptosporidium spp*, *Isospora belli*, *Cyclospora*) ou médicamenteuse.
 
 ### En cas de diarrhées pendant le voyage
 
 - Réhydratation précoce sans attendre la soif  
   - Alterner liquides sucrés et salés, SRO
   - Petites doses régulières si vomissements (cuillère à soupe)
-  - Poursuivre l'allaitement maternel
+  - Poursuivre l'[allaitement maternel]({{< relref "allaitement.md" >}})
 - Anti-diarrhéique sécrétoire racécadotril
 - Consultation si forme modérée, sévère ou fébrile
 
@@ -242,7 +242,7 @@ Posologies chez l'enfant, traitement de 3 jours:
 - Ne consommer que de l'eau en bouteille capsulée (et ouverte devant soi) ou, à défaut, rendue potable par ébullition (1 minute à gros bouillons) ou par une désinfection (produits à base de DCCNa - dichloroisocyanurate de sodium - ou hypochlorite de sodium), éventuellement précédée d'une filtration (filtre portatif) si l'eau est trouble
 - Éviter les glaçons
 - Éviter les jus de fruits frais préparés de façon artisanale
-- Ne consommer du lait que pasteurisé ou bouilli, privilégier l'allaitement maternel chez les nourrissons
+- Ne consommer du lait que pasteurisé ou bouilli, privilégier l'[allaitement maternel]({{< relref "allaitement.md" >}}) chez les nourrissons
 - Laver ou peler les fruits soi-même avec des mains propres
 - Éviter: crudités, coquillages, plats réchauffés
 - Éviter les glaces artisanales (glaces industrielles, de moindre risque si l'emballage est intact)

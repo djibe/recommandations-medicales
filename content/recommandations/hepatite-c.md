@@ -365,6 +365,10 @@ accTitle: Conduite à tenir dans les suites de la réalisation d'un TROD VHC d'a
 - [AFEF, SPILF. Recommandations AFEF pour l'élimination de l'infection par le virus de l'hépatite C en France. Mars 2018. (PDF)](https://afef.asso.fr/wp-content/uploads/2023/06/VF-INTERACTIF-RECO-VHC-AFEF-v2103.pdf)
 - [Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/)
 
+### Bibliographie en attente
+
+[Indolfi G et al; Hepatology Committee of the ESPGHAN. ESPGHAN recommendations on treatment of chronic hepatitis C virus infection in adolescents and children including those living in resource-limited settings. J Pediatr Gastroenterol Nutr. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/jpn3.12160)
+
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
 

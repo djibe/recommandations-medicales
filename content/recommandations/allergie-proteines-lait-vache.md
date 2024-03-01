@@ -22,24 +22,24 @@ todo = "SEO dont 'aplv recommandations', poulet ?, https://www.sciencedirect.com
 
 {{%article-summary%}}
 
-- PPN: préparation pour nourrissons (= lait homologué)
-- Poursuivre l'éviction jusqu'aux 2 ans de l'enfant, tenter réintroduction douce (milieu hospitalier si grave)
-- Suivi régulier des courbes de croissance
-- Plus de détails sur [EBMFrance](https://www.ebmfrance.net/fr/Pages/ebm/ebm00645.aspx)
+- PPN = préparation pour nourrissons (lait homologué)
+- Poursuivre l'éviction des protéines de lait de vache jusqu'aux 2 ans de l'enfant puis tenter une réintroduction progressive (en milieu hospitalier pour les allergies graves)
+- Attention aux allergies croisées (autres laits, viande de bœuf, dérivés de soja) et aux autres allergies alimentaires potentiellement associées
+- Suivi régulier des courbes de croissance des enfants allergiques aux protéines de lait de vache
 
 {{%/article-summary%}}
 {{%collapse "Allergies croisées avec l'APLV" %}}
 
 Allergie quasi constante:
 
-- lait de chèvre et brebis (92% selon Sicherer S, 2001)
+- lait de chèvre et brebis (92% selon *Sicherer 2001*)
 - viande de bœuf (88% selon *Mamikoglu B 2005*)
 - dérivés de soja
 
-Allergies croisées à étayer 1 par 1:
+Allergies croisées à étayer une par une:
 
 - lait de bufflonne
-- lait de jument très rare (4% selon Businco et al.)
+- lait de jument très rare (4% selon *Businco et al*)
 - lait d'ânesse
 - œuf de poule
 - viande d'ovins, porc
@@ -50,7 +50,7 @@ Allergies croisées à étayer 1 par 1:
 Conformément à la législation, ce contenu est réservé aux professionnels de santé
 {.alert .alert-warning}
 
-Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de vache, en complément ou après arrêt de l'allaitement maternel.
+Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de vache, en complément ou après arrêt de l'[allaitement maternel]({{< relref "allaitement.md" >}}).
 
 ### Lait à base de protéines de riz
 

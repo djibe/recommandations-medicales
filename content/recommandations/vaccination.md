@@ -196,7 +196,7 @@ Vacciner 4 à 6 semaines avant la mise en place d'une immunosuppression.
 Les virus vivants atténués (VVA) sont contre-indiqués pendant la grossesse et en cas d'immunodépression, sauf cas particuliers (charge virale et CD4 pour le VIH).  
 Ils ne sont pas contre-indiqués en cas d'hyposplénie ou d'asplénie.
 
-Contre-indications temporaires à la vaccination:
+Contre-indications temporaires à la vaccination fièvre jaune:
 
 - Au moins 3 mois (jusqu'à 11 mois) après administration de produits sanguins (dont immunoglobulines) et vaccin vivant
 - Au moins 3 mois (6 mois pour rituximab ou après chimiothérapie) après arrêt de l'immunosuppresseur, d'une biothérapie ou corticothérapie immunosuppressive et un vaccin vivant

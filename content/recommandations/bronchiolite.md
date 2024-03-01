@@ -240,7 +240,7 @@ Indications à la radiographie de thorax devant un épisode évocateur de bronch
 
 Recommandations pour la prévention de la bronchiolite:
 
-- Allaitement maternel
+- [Allaitement maternel]({{< relref "allaitement.md" >}})
 - Retarder la mise en collectivité
 - Nourrisson à haut risque de forme grave: ne pas fréquenter la collectivité en période épidémique
 - Mesures d'hygiène
@@ -316,7 +316,7 @@ Recommandations de prise en charge d'un épisode de bronchiolite:
 - Aération correcte de la chambre, température optimale 19°C
 - Lavage des mains à l'eau + savon pluriquotidiens
 - En collectivité: décontamination quotidienne des objets de surface
-- Promouvoir l'allaitement maternel et retarder la mise en collectivité
+- Promouvoir l'[allaitement maternel]({{< relref "allaitement.md" >}}) et retarder la mise en collectivité
 - Collectivité
   - Fréquentation non souhaitable en phase aiguë (*HAS*)  
     On rappellera que le Collège 2021 dit: << Pas d'éviction >>

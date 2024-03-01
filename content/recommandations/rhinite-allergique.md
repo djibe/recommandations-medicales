@@ -184,7 +184,7 @@ Avis pneumologique recommandé en cas de suspicion d'[asthme]({{< relref "asthme
 Mesures de prévention de la rhinite allergique:
 
 - Proscrire le tabagisme passif pendant la grossesse et la petite enfance
-- Favoriser l'allaitement exclusif
+- Favoriser l'[allaitement exclusif]({{< relref "allaitement.md" >}})
 - Réduire l'exposition aux acariens en cas d'atopie
 - Réduire l'exposition professionnelle au latex
 

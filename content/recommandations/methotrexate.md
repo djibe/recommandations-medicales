@@ -39,9 +39,9 @@ En cas de grossesse sous méthotrexate, adresser au diagnostic anténatal en sem
 
 ### Liste des contre-indications au méthotrexate
 
-- Grossesse  
+- [Grossesse]({{< relref "grossesse.md" >}})  
   Possible sans délai après l'arrêt de la contraception ([CRAT](http://www.lecrat.fr/3331/)).
-- Allaitement
+- [Allaitement]({{< relref "allaitement.md" >}})
 - Femme ou homme sans contraception efficace
 - Homme  
   Délai minimal de 3 mois entre arrêt de la contraception et procréation ([CRAT](http://www.lecrat.fr/10800/)).
@@ -49,6 +49,8 @@ En cas de grossesse sous méthotrexate, adresser au diagnostic anténatal en sem
 - Insuffisance hépatique sévère
 - Insuffisance respiratoire chronique
 - Allergie connue au méthotrexate
+
+Lire les [RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61495968&typedoc=R) complètes et contrôler les [interactions médicamenteuses](https://www.drugs.com/interaction/list/?drug_list=1590-0).
 
 ### Associations contre-indiquées avec le méthotrexate
 

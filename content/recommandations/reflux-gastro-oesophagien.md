@@ -319,6 +319,8 @@ Favorisée par l'obésité et une hernie hiatale.
 
 {{< youtube id="Kf2iGE3aUrI" title="Vidéo d'explications du traitement du reflux gastro-œsophagien (SNFGE)" >}}
 
+{{< youtube id="8eIheDrUlUI" title="Déprescrire les inhibiteurs de la pompe à proton (Canadian Deprescribing Network)" >}}
+
 {{% /collapse %}}
 {{%sources%}}
 

@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2023-10-20"
+lastmod = "2024-03-01"
 specialites = ["cardiologie"]
 annees = "2023"
 sources = ["ESH", "USPTF", "ESC"]
@@ -41,9 +41,9 @@ Hypertension artérielle
 : Maladie chronique la plus fréquente définie une pression artérielle systolique (PAS) ≥ **140 mmHg** et/ou diastolique ≥ **90 mmHg** au cabinet (135/85 mmHg en automesure et 130/80 mmHg en MAPA, *ESC 2021*) à partir de 16 ans. Avant 16 ans: pression artérielle ≥ 95e percentile.
 : Le seuil de traitement est 14/9 **de 18 à 79 ans** et de 160 mmHg après 80 ans mais un seuil plus bas est à considérer. Chez le **sujet fragile**, les seuils sont individualisés.
 : Premier facteur de morbi-mortalité modifiable dans le monde.  
-La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance cardiaque, coronaropathie, AVC, [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), dégradation cognitive et démence.
-: La réduction de la systolique de 10 mmHg (et de 5 mmHg pour la diastolique) réduit le risque d'évènement CV de 20%, la mortalité de 10-15%, le risque d'AVC de 35%, de SCA de 20%, d'insuffisance cardiaque de 40%. Le traitement allonge l'espérance de vie.
-: 1 patient sur 2 dépasse 140/90 mmHg. Principaux facteurs de non contrôle: défaut d'**observance** (à 6 mois: 2/3 - 1 an: 50%) et **inertie du médecin**.
+La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance cardiaque, coronaropathie, AVC, fibrillation atriale, dégradation cognitive et démence.
+: La réduction de la systolique de 10 mmHg (et de 5 mmHg pour la diastolique) réduit le risque d'évènement cardiovasculaire de 20%, la mortalité de 10-15 %, le risque d'AVC de 35%, de SCA de 20%, d'insuffisance cardiaque de 40%. Le traitement allonge l'espérance de vie.
+: 3/4 des patients ne sont pas contrôlés principalement par défaut d'**observance** (à 6 mois: 2/3 - 1 an: 50%) et **inertie du médecin**.
 
 Hypertension artérielle résistante
 : Pressions mesurées au cabinet ≥ 140/90 mmHg et confirmées au domicile par MAPA (AMT à défaut) malgré un traitement optimal et bien suivi avec RHD et au moins 3 traitements à doses maximales tolérées (IEC/ARA2, TZD, ICa). Concerne 10% des hypertendus.
@@ -173,8 +173,8 @@ Une mesure standardisée est nécessaire pour le contrôle des objectifs tension
   - Assis au calme depuis au moins 5 minutes
   - Température ambiante confortable
   - Sans tabac, café, alimentation ou exercice physique dans les 30 minutes
-  - Adossé, les jambes non croisées avec les pieds posés à plat
   - Vessie vide
+  - Adossé, les jambes non croisées avec les pieds posés à plat
   - Personne ne parle pendant et entre les mesures
   - Retrait de tous les vêtements de la zone de mesure
 - Technique validée
@@ -524,8 +524,11 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [SFHTA. Disponibilité des trithérapies fixes d'antihypertenseurs pour contribuer à un meilleur contrôle tensionnel des hypertendus : prise de position de la Société Française d'Hypertension Artérielle (SFHTA). 2024. (PDF)](https://www.sfhta.eu/wp-content/uploads/2024/02/Disponibilite-des-tritherapies-fixes-dantihypertenseurs-prise-de-position-de-la-SFHTA.pdf)
 - [US Preventive Services Task Force. Screening for Hypertensive Disorders of Pregnancy: US Preventive Services Task Force Final Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2809680)
 - {{< references/esh-2023 >}}
+- [Whealton S et al. Why Is Cuff Size So Important and Other Factors That Affect Accurate Blood Pressure Measurement. ACC. 2023.](https://www.acc.org/Latest-in-Cardiology/Articles/2023/06/05/19/18/Why-Is-Cuff-Size-So-Important-and-Other-Factors-That-Affect-Accurate-BP-Measurement)
+- [Olié V et al. Épidémiologie de l'hypertension artérielle en France : prévalence élevée et manque de sensibilisation de la population. BEH. 2023.](http://beh.santepubliquefrance.fr/beh/2023/8/2023_8_1.html)
 - {{< references/ada-soc >}}
 - {{< references/esc-cvd >}}
 - [Stergiou GS et al. 2021 European Society of Hypertension practice guidelines for office and out-of-office blood pressure measurement. J Hypertens. 2021.](https://doi.org/10.1097/hjh.0000000000002843)
@@ -540,8 +543,8 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Charchar FJ et al. Lifestyle management of hypertension: International Society of Hypertension position paper endorsed by the World Hypertension League and European Society of Hypertension. J Hypertens. 2023.](https://journals.lww.com/jhypertension/fulltext/9900/lifestyle_management_of_hypertension_.315.aspx)
-- [Whealton S et al. Why Is Cuff Size So Important and Other Factors That Affect Accurate Blood Pressure Measurement. ACC. 2023.](https://www.acc.org/Latest-in-Cardiology/Articles/2023/06/05/19/18/Why-Is-Cuff-Size-So-Important-and-Other-Factors-That-Affect-Accurate-BP-Measurement)
+- []()
+- [Charchar FJ et al. Lifestyle management of hypertension: International Society of Hypertension position paper endorsed by the World Hypertension League and European Society of Hypertension. J Hypertens. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37712135/)
 - [Duly-Bouhanick B et al; SFHTA. HTA de l'enfant et de l'adolescent. Consensus d'experts. 2022. (PDF)](https://sfhta.eu/wp-content/uploads/2022/06/2020-11-27_recos-seules-HTA-enfants-et-ado-V2-du-02.06.2022.pdf)
 - [Xi B et al. Establishing International Blood Pressure References Among Nonoverweight Children and Adolescents Aged 6 to 17 Years. Circulation. 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729639/#SD1)
 

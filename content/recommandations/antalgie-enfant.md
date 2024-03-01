@@ -163,7 +163,7 @@ Autres méthodes antalgiques pouvant être associées au traitement médicamente
 
 - Nourrisson: tenir dans les bras, succion (sein, tétine)
 - Solutions sucrées chez le nourrisson jusqu'à 6 mois  
-  Allaitement, saccharose 24% (Algopédol®), glucosé 30%. Quelques gouttes sur le bout de la langue, 2 minutes avant le soin. Efficace 5-7 minutes.
+  [Allaitement]({{< relref "allaitement.md" >}}), saccharose 24% (Algopédol®), glucosé 30%. Quelques gouttes sur le bout de la langue, 2 minutes avant le soin. Efficace 5-7 minutes.
 - MEOPA  
   Chez +1 mois. Minimum 3 minutes avant le soin et poursuivi pendant. Efficace < 60 minutes. Ne pas administer de force.
 - Crème/patch lidocaïne - prilocaïne  
@@ -216,7 +216,7 @@ Une douleur aiguë entraîne des symptômes bruyants. Lorsqu'elle se prolonge el
 
 ### Éléments de prise en charge
 
-Rassurer, selon l'âge mobiliser: présence des parents, portage, paroles, allaitement, tétine, distraire, musique, cocon, informer, distraire, rappeler que ce n'est pas de sa faute, courage, négociation.
+Rassurer, selon l'âge mobiliser: présence des parents, portage, paroles, [allaitement]({{< relref "allaitement.md" >}}), tétine, distraire, musique, cocon, informer, distraire, rappeler que ce n'est pas de sa faute, courage, négociation.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la douleur nociceptive de l'enfant" "show" %}}

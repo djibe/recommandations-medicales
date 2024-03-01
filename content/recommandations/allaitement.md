@@ -5,19 +5,18 @@ description = "Recommandations pour la promotion de l'allaitement maternel: tech
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-20T18:16:14+01:00"
-publishdate = "2024-02-25"
-lastmod = "2024-02-25"
+publishdate = "2024-03-01"
+lastmod = "2024-03-01"
 specialites = ["gynecologie-obstetrique"]
 annees = "2015"
 sources = ["CNGOF", "Anaes"]
 tags = ["atopie", "cancer", "contraception", "grossesse", "nourrisson", "obesite", "tabac", "VIH"]
-anglais = ["Breast feeding"]
+anglais = ["Breastfeeding"]
 sctid = "1297276008"
 icd10 = ""
-draft = true
 image = true
 imageSrc = "L'allaitement. Freepik"
-todo = "liens > flow, diversification alimentaire, lactaclic, ATB"
+todo = "flow, diversification alimentaire, lactaclic"
 +++
 
 {{%article-summary%}}
@@ -28,8 +27,9 @@ todo = "liens > flow, diversification alimentaire, lactaclic, ATB"
 - Alimentation de la mère: café 2-3 tasses par jour, alcool déconseillé, arrêt du tabac
 - L'allaitement en pratique, pas de données sur: une position d'allaitement particulière, la nécessité d'utiliser 1 sein ou les 2, débuter précocement et la durée entre 2 tétées
 - Informer sur le contrôle de tous les médicaments sur [le CRAT](http://www.lecrat.fr)
-- Les contre-indications à l'allaitement sont: VIH, hépatite C, cocaïne et cannabis
+- Les rares contre-indications à l'allaitement sont: VIH, hépatite C, cocaïne et cannabis
 - Le recours à la méthode de contraception MAMA nécessite des critères stricts
+- Abcès du sein, crevasses, engorgement mammaire, mastite, mycose: voir la section *Prise en charge des complications*
 
 Chapitres liés: [grossesse]({{< relref "grossesse.md" >}}), [post-partum]({{< relref "post-partum.md" >}})
 
@@ -135,32 +135,75 @@ Aucune mesure non médicamenteuse n'a prouvé son efficacité pour interrompre l
 {{% /collapse %}}
 {{%collapse "Prise en charge des complications pendant l'allaitement" %}}
 
-### Crevasses du mamelon
+Traitement des complications pouvant survenir au décours de l'allaitement (classées par ordre alphabétique) d'après *Rigourd et al 2019*.
 
-Crevasse
-: Rupture de la barrière cutanée mamelonnaire, principalement par friction avec la bouche du bébé.
-: Risque de complications infectieuses et douleurs.
+### Abcès du sein
 
-Le traitement des crevasses est principalement la correction de la prise du sein.
-{.alert .alert-info}
+Abcès du sein
+: Douleur lancinante avec souvent fatigue et fièvre, masse limitée fluctuante (parfois non palpée).
+
+Prise en charge de la suspicion d'abcès du sein en urgence avec une échographie mammaire.
+
+- Si abcès non collectée: antibiothérapie anti-staphylococcique [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j (max 100 mg/kg/j)  
+  Nouvelle échographie en cas de persistance des symptômes.
+- Si abcès collecté: avis chirurgical urgent pour ponction-aspiration à l'aiguille fine (voire incision et drainage)
+- Poursuite de l'allaitement aux 2 seins  
+  Sauf chirurgie avec incision proche de l'aréole.
 
 ### Candidose mammaire et allaitement
 
 Prise en charge de la candidose du mamelon:
 
-- <mark>Éconazole seul en nettoyant le mamelon avant la tétée (*[CRAT](http://www.lecrat.fr/10273/)*)</mark>
-- Ne pas utiliser le violet de gentiane pendant la grossesse ou l'allaitement (*ANSM*)
-- L'application de lanoline et de lait maternel aurait un intérêt
+- Changement de soutien-gorge et des coussinets
+- Savon alcalin pour la toilette
+- Nettoyage après les tétées:
+  - bicarbonate 14/1000 ou eau de Vichy
+  - puis éconazole (*[CRAT](http://www.lecrat.fr/10273/)*) x 3/j après les tétées
+  - et préparation à base de miel après les autres tétées
+  - ne pas utiliser le violet de gentiane pendant la grossesse ou l'allaitement (*ANSM*)
+- Rechercher un muguet du nourrisson
+- Si persistance à 3 semaines: amphotéricine B 100 mg/j pendant 14 jours
+
+### Cloque de lait
+
+Cloque de lait
+: Petite vésicule remplie de lait située à l'entrée d'un pore lactifère bouché.
+
+La prise en charge de la cloque de lait est une simple surveillance voire aide àa la résorption (compression par compresse, percement par aiguille stérile avec antisepsie).
+
+### Crevasses du mamelon
+
+Crevasse
+: Rupture de la barrière cutanée mamelonnaire, principalement par friction avec la bouche du bébé avec risque de complications infectieuses et douleurs. Des saignements sont possibles et elles sont très douloureuses.
+
+Traitement des crevasses associe:
+
+- Correction de la prise du sein  
+  Position, initiation trop tardive, tétées insuffisantes, frein de langue antérieur.
+- Après les tétées: crème à base de lanoline purifiée mélangée avec du lait  
+  voire formule à base de miel et d'acide hyaluronique mélangée avec du lait.
+- Ne pas interrompre la mise au sein
+- Paracétamol
+- Si douleurs invalidantes: utilisation transitoire de bouts de seins, tire-lait 24-48 heures
+
+### Douleurs des seins
+
+Une sensibilité douloureuse est fréquente en début d'allaitement. La majeure partie des douleurs et lésions du mamelon sont liées à un mauvais positionnement au sein.
+
+Rechercher une mycose (voir **Candidose** ci-dessus) pour les douleurs en << coup de poignard >>.
 
 ### Engorgement mammaire
 
 Engorgement mammaire
 : Congestion mammaire (augmentation de volume, tension des seins et chaleur) avec inflammation douloureuse entraînant une gêne à l'écoulement du lait.
 
-Prévention de l'engorgement mammaire: tétées précoces, sans restriction de fréquence ou durée.
+Prévention de l'engorgement mammaire: tétées précoces, sans restriction de fréquence ou de durée.
 
-Traitement de l'engorgement mammaire: expression manuelle ou tire-lait et tétée.
-{.alert .alert-info}
+Traitement de l'engorgement mammaire:
+
+- Expression manuelle ou avec un tire-lait et tétées
+- Application de chaleur avant la tétée (douche, gant)
+- Paracétamol et AINS
 
 Aucune autre technique n'est recommandée.
 
@@ -169,23 +212,27 @@ En l'absence de traitement l'engorgement mammaire peut se compliquer de **mastit
 ### Mastite
 
 Mastite (lymphangite ou galactophorite si infectieuse)
-: Inflammation du sein pouvant évoluer vers un infection.
-: Les signes sont unilatéraux: inflammation (rougeur, chaleur, douleur) localisée (quadrant supéro-externe ++) ou étendue avec signes généraux (fièvre, syndrome pseudo-grippal).
+: Inflammation du sein liée à une stase lactée pouvant se surinfecter.
+: Les signes sont unilatéraux: inflammation (rougeur, chaleur, douleur) localisée (quadrant supéro-externe ++) ou étendue avec fréquemment des signes généraux (fièvre, syndrome pseudo-grippal).
 : Facteurs de risque de mastite: engorgement mammaire, crevasses et lésions du mamelon.
 
 Prise en charge de la mastite:
 
 - Recherche d'une porte d'entrée infectieuse
-- Avis d'un praticien de la lactation (technique d'allaitement)
-- Pas d'aspirine ou AINS
+- Éviter les soutiens-gorges trop serrés
+- Avis spécialisé sur la technique d'allaitement (PMI, consultant en lactation, association)
+- Optimiser le drainage par tétées, expression manuelle ou tire-lait
+- Poursuivre l'allaitement (sauf prématuré)
+- Paracétamol et AINS
 - **Analyse bactériologique du lait** et antibiogramme (germe > 10<sup>6</sup>/mL)
 - ± Échographie mammaire pour éliminer un abcès
-- Si infection prouvée, symptômes graves, lésion mamelonnaire, échec à 12-24 heures: **antibiothérapie** anti-staphylococcique (Augmentin, amoxicilline, céphalexine)
-- Arrêt de l'allaitement du sein atteint (*CNGOF 2015*) et poursuite de la vidange au tire-lait
+- Surveillance clinique quotidienne
+- Si infection prouvée, crevasse surinfectée, fièvre élevée et résistante, échec à 24-48 heures: **antibiothérapie** anti-staphylococcique [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R)
 
-### Abcès du sein
+### Réflexe d'éjection trop fort
 
-Un abcès du sein est une **urgence chirurgicale** pour incision et drainage (voire ponction à l'aiguille fine) sans antibiothérapie.
+- Drainage manuel avant la tétée jusqu'à ce qie l'aréole soit souple
+- Installer bébé: à plat sur le ventre de la mère pour la tétée, en << biologic nurturing >> ou en face à face
 
 {{% /collapse %}}
 {{%collapse "Location d'un tire-lait" %}}
@@ -200,12 +247,22 @@ Le renouvellement est possible tous les 3 mois après la prescription initiale d
 > – *[Arrêté du 11/03/2019](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038219812)*
 
 {{% /collapse %}}
+{{%collapse "Don de lait et lactarium" %}}
+
+Le don de lait est anonyme et gratuit.
+
+Les contre-indications au don de lait sont celles du don du sang.
+
+{{% /collapse %}}
 {{%sources%}}
+
+{{< card-link-external title="MOOC Allaitement : l'Affaire de Tous" url="https://www.pns-mooc.com/fr/mooc/3/presentation" subtitle="par CNGOF, Gen-IF, APHP, Paris Descartes" >}}
 
 - [Service-Public. Une salariée peut-elle allaiter pendant les heures de travail ?. 14/02/2024.](https://www.service-public.fr/particuliers/vosdroits/F1769)
 - [ANSM. Candidose mammaire et allaitement : éviter le violet de gentiane. 22/06/2022.](https://ansm.sante.fr/actualites/candidose-mammaire-et-allaitement-eviter-le-violet-de-gentiane)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Allaitement maternel. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [Crepinsek MA et al. Interventions for preventing mastitis after childbirth. Cochrane Database of Systematic Reviews. 2020.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007239.pub4/full/fr)
+- [Rigourd V et al. Allaitement maternel : difficultés et complications. Perfectionnement en Pédiatrie. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S2588932X19300038) (payant)
 - [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2015/2015-RPC-POSTPARTUM.pdf?x13417)
 - [Chantry AA et al; CNGOF. Allaitement maternel (partie 1) : fréquence, bénéfices et inconvénients, durée optimale et facteurs influençant son initiation et sa prolongation. Recommandations pour la pratique clinique. 2015.](https://www.sciencedirect.com/science/article/abs/pii/S0368231515002665)
 - [Marcellin L et al; CNGOF. Allaitement maternel (partie 2) : méthodes d'inhibition de la la lactation. Recommandations pour la pratique clinique. 2015.](https://www.sciencedirect.com/science/article/abs/pii/S0368231515002689)

@@ -93,7 +93,7 @@ Jamais sur céphalées et migraines.
 
 fibromyalgie et tramadol: seulement sur avis spécialisé
 
-Allaitement: tramadol possible 2-3 jours à la plus faible dose possible. Codéine possible dans les mêmes conditions après J14 post-accouchement.
+[Allaitement]({{< relref "allaitement.md" >}}): tramadol possible 2-3 jours à la plus faible dose possible. Codéine possible dans les mêmes conditions après J14 post-accouchement.
 
 {{% /collapse %}}
 {{%collapse "Antalgie palier 3: morphine, oxycodone ..." %}}

@@ -22,7 +22,6 @@ todo = "flow"
 {{%article-summary%}}
 
 - Le post-partum est la période entre l'accouchement et les premières règles après la grossesse (retour de couches)
-- Pour l'allaitement, lire le chapitre dédié (à venir)
 - Rattrapage vaccinal après l'accouchement: dTcaPolio de tout l'entourage si le dernier rappel a +10 ans (+5 ans avant 25 ans), grippe si nourrisson vulnérable voire varicelle et rubéole selon les sérologies/carnet de santé
 - Après césarienne: contention veineuse systématique 7-14 jours, héparine si haut risque thromboembolique ou plusieurs {{< modal-btn modal-fdr-te >}}facteurs de risques mineurs thrombo-emboliques{{< /modal-btn >}}
 - Une contraception peut être débutée dans les 21 jours qui suivent l'accouchement (implant ++) ou DIU à la consultation post-natale
@@ -31,7 +30,7 @@ todo = "flow"
 - Des situations postnatales (cicatrices, dépression) peuvent justifier une Hospitalisation À Domicile (HAD)
 - Informations pour les parents: [Ameli](https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne/suivi-domicile), [1000 premiers jours](https://play.google.com/store/apps/details?id=com.fabrique.millejours), [M-pedia](https://www.mpedia.fr)
 
-Chapitre lié: [grossesse]({{< relref "grossesse.md" >}})
+Chapitres liés: [allaitement]({{< relref "allaitement.md" >}}), [grossesse]({{< relref "grossesse.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -163,7 +162,7 @@ La consultation post natale doit avoir lieu dans les 6-8 semaines après l'accou
 - Contraception du post-partum (voir section dédiée)
 - Troubles psychiques, relation mère-enfant
 - Couple, relations sexuelles
-- Allaitement (voir chapitre dédié)
+- [Allaitement]({{< relref "allaitement.md" >}})
 - RCIU, MFIU, [pré-éclampsie sévère ou précoce]({{< relref "pre-eclampsie.md" >}}): rechercher un syndrome des anticorps antiphospholipides (SAPL)
 - Si [pré-éclampsie]({{< relref "pre-eclampsie.md" >}}): voir le chapitre dédié
 - Si [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}}):

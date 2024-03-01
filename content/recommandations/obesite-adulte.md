@@ -454,6 +454,9 @@ graph TB
 
 ### Bibliographie en attente
 
+- [HAS. Guide du parcours de soins : surpoids et obésité de l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3408871/fr/guide-du-parcours-de-soins-surpoids-et-obesite-de-l-adulte)
+- [HAS. Obésité de l'adulte : prise en charge de 2e et 3e niveaux. 2024.](https://www.has-sante.fr/jcms/p_3346001/fr/obesite-de-l-adulte-prise-en-charge-de-2e-et-3e-niveaux)
+- [HAS. Surpoids et obésité de l'adulte Prescription d'activité physique. 2022.](https://www.has-sante.fr/jcms/p_3322208/fr/obesite)
 - [Ligue contre l'obésité. Les vrais chiffres de la grossophobie. Odoxa. 2021. (PDF)](https://liguecontrelobesite.org/app/uploads/2021/03/Odoxa-pour-OBEPI-Discriminations-et-ob%C3%A9sit%C3%A9-2.pdf)
 - Ligue contre l'obésité
 

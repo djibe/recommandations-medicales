@@ -23,7 +23,7 @@ todo = "descr > summary > liens > photo > newsletter > flow, ne pas introduire p
 
 {{%article-summary%}}
 
-
+TODO:
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

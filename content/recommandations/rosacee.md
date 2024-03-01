@@ -189,7 +189,8 @@ Ne pas s'allonger dans l'heure qui suit.
 
 **NB.** *Prescrire®* rapporte une efficacité comparable de la **doxycycline 50 mg/j** pour la rosacée avec une tolérance bien meilleure.
 
-**Effets indésirables:** troubles digestifs, réactions cutanées, vaginites, HTIC, photosensibilité, atteinte hépatique.  
+**Effets indésirables:** troubles digestifs, réactions cutanées, vaginites, HTIC, photosensibilité, atteinte hépatique.
+
 **Contre-indications:** grossesse/allaitement.
 
 Traitement d'attaque de 2<sup>e</sup> intention:

@@ -157,14 +157,14 @@ Situations pouvant faire contrôler le taux de vitamine D:
 4. Avant et après une [chirurgie bariatrique]({{< relref "obesite-adulte.md" >}})
 5. Personne âgée avec [chutes](/tags/chute/) répétées  
   Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>.
-1. Traitement préconisant une mesure de la vitamine D (ex. [biphosphonate]({{< relref "osteoporose.md" >}}))
+6. Traitement préconisant une mesure de la vitamine D (ex. [biphosphonate]({{< relref "osteoporose.md" >}}))
 
 > – *HAS 2013* et *Conditions de prise en charge par l'Assurance Maladie*
 
 et aussi
 
 - Hospitalisation pour exacerbation de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (*GOLD*)
-- Enfant en allaitement maternel sans supplémentation pendant des mois (*SFD*)
+- Enfant en [allaitement maternel]({{< relref "allaitement.md" >}}) sans supplémentation pendant des mois (*SFD*)
 - Enfants à peau pigmentée sans supplémentation avec arcature des membres inférieurs (*SFD*)
 - Enfant avec supplémentation prolongée à des doses excessives (*Bacchetta 2022*)
 - Prématuré < 32 SA ou < 1,5 kg (*Bacchetta 2022*)  

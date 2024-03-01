@@ -52,7 +52,7 @@ Cancer de l'ovaire
   - [Ménopause tardive]({{< relref "menopause.md" >}})
   - Âge
 
-> Facteurs protecteurs du cancer de l'ovaire: [contraception orale]({{< relref "contraception.md" >}}), grossesse, allaitement, ligature des trompes, salpingectomie bilatérale.
+> Facteurs protecteurs du cancer de l'ovaire: [contraception orale]({{< relref "contraception.md" >}}), [grossesse]({{< relref "grossesse.md" >}}), [allaitement]({{< relref "allaitement.md" >}}), ligature des trompes, salpingectomie bilatérale.
 
 ### Abréviations
 
