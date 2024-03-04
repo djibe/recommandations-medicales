@@ -137,7 +137,7 @@ Interrogatoire à mener en cas de puberté précoce:
 
 ### Calculer la taille cible
 
-<div class="card-body rounded-lg border mb-3" style="max-width: 280px" id="target-height">
+<div class="card-body card-util rounded-lg border mb-3" style="max-width: 280px" id="target-height">
   <div class="form-group floating-label textfield-box form-ripple">
     <label for="height-father">Taille du père (cm)</label>
     <input class="form-control" id="height-father" type="number" min="120" max="220">

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-20T18:16:14+01:00"
 publishdate = "2024-03-01"
-lastmod = "2024-03-01"
+lastmod = "2024-03-03"
 specialites = ["gynecologie-obstetrique"]
 annees = "2015"
 sources = ["CNGOF", "Anaes"]
@@ -106,6 +106,8 @@ La méthode de l'allaitement maternel et de l'aménorrhée (<em>MAMA</em>) est p
 - Allaitement exclusif jour et nuit x 6-10/j
 - Maximum 6 heures entre 2 tétées la nuit et 4 heures le jour
 - Aménorrhée persistante
+
+La contraception œstro-progestative n'est pas recommandée dans les 6 mois qui suivent l’accouchement en cas d'allaitement.
 
 Voir le chapitre [contraception du post-partum]({{< relref "post-partum.md" >}}).
 

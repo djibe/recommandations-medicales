@@ -55,7 +55,7 @@ Le calcul de la **calcémie corrigée** (valeur de la calcémie totale si l'albu
 
 Le calcul n'est évidemment pas utile lorsque l'on dispose de la **calcémie ionisée**.
 
-<div class="card-body rounded-lg border my-5">
+<div class="card-body card-util rounded-lg border my-5">
   <div class="d-block d-lg-flex form-corrected">
     <div class="form-group floating-label textfield-box form-ripple mr-3">
       <label for="input-calcemia">Calcémie (mmol/L)</label>
@@ -210,7 +210,7 @@ Le traitement de l'hypercalcémie est étiologique avec des mesures complémenta
 {{< mermaid title="Prise en charge d'une hypercalcémie par le médecin généraliste. Dr JB Fron d'après Collèges" >}}
 graph TB
   hypercalcémie["<b>Hypercalcémie</b><br>—<br>Calcémie &gt; 2,6 mmol/L"] -- Albumine couplée --> corrigée("- Calcul de la <br>calcémie corrigée<br>- Clinique") -- "CaCorr 2,6-3 et<br>asymptomatique" --> ambulatoire("<b>Bilan ambulatoire</b><br>—<br>- Antécédents<br>- Traitements<br>- Calcémies antérieures") --> bilan("PTH, phosphore") -- "PTH ↑<br>ou normale" --> calciurie(Calciurie des 24h) --> endocrinologue(Endocrinologue)
-  bilan -- PTH ↓ --> complémentaire("- PTHrp<br>- 25 OH vitD<br>- 1 25 OH vitD<br>- TSH<br>- EPS et EPU") -- "PTHrp ↑<br>Phosphore ↓<br>1,25 OH vitD ↓" --> cancer("Hypercalcémie<br>tumorale")
+  bilan -- PTH ↓ --> complémentaire("- PTHrp<br>- 25 OH vitD<br>- 1, 25 OH vitD<br>- TSH<br>- EPS et EPU") -- "PTHrp ↑<br>Phosphore ↓<br>1,25 OH vitD ↓" --> cancer("Hypercalcémie<br>tumorale")
     hypercalcémie -- "Calcémie ionisée couplée<br>&gt; 1,3" --> ionisée("- Hypercalcémie vraie<br>- Clinique") -- "&gt; 1,5 ou<br>symptomatique" --> urgences("Urgences voire SAMU<br>sauf ECG et biologie<br>disponibles en urgence")
       corrigée -- "CaCorr &gt; 3 ou<br>symptomatique" --> urgences
     hypercalcémie -- "Sans albumine<br>ou Ca ionisée" --> urgences

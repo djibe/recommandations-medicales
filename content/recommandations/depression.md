@@ -108,7 +108,7 @@ VA
 
 En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{< relref "cotations-generaliste.md" >}}) (69,12 €).
 
-<div class="card card-hover my-3 my-xl-5">
+<div class="card card-hover card-tab my-3 my-xl-5">
   <ul class="nav nav-tabs nav-justified mb-4" role="tablist">
   <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-depistage" data-toggle="tab" data-target="#nav-depistage" role="tab" aria-controls="nav-depistage" aria-selected="true">Dépistage</button></li>
   <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-diagnostic" data-toggle="tab" data-target="#nav-diagnostic" role="tab" aria-controls="nav-diagnostic" aria-selected="false">Diagnostic</button></li>

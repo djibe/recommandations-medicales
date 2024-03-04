@@ -91,7 +91,6 @@ Diagnostic différentiel à étayer selon le terrain:
 - [Obésité]({{< relref "obesite-adulte.md" >}})
 - Pathologie ostéoarticulaire ou musculaire
 - Dysfonction des cordes vocales
-{.list-group}
 
 ### Abréviations
 
@@ -168,7 +167,7 @@ Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 - Confusion, coma
 - Épuisement
 
-> *ANAES 2004*
+> – *ANAES 2004*
 
 ### Signes de lutte
 
@@ -184,6 +183,8 @@ Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 
 ### Patients à risque de décès par asthme
 
+Patients nécessitant un suivi médical et d'une éducation thérapeutique renforcés:
+
 - Mauvais contrôle sur les 12 derniers mois  
   Hospitalisation, urgences, corticoïdes oraux.
 - Antécédent d'asthme aigu grave avec intubation/VNI
@@ -193,9 +194,7 @@ Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 - Allergie alimentaire associée
 - Antécédents de troubles psychiatriques ou psychosociaux
 
-> *GINA 2019*
-
-Ces personnes doivent bénéficier d'un suivi médical et d'une éducation thérapeutique renforcés.
+> – *GINA 2019*
 
 {{% /collapse %}}
 {{%collapse "Contrôle de l'asthme" %}}
@@ -248,7 +247,7 @@ Très haut sur et sous-diagnostic de la maladie asthmatique.
     - Le diagnostic est d'autant plus probable si la variabilité est importante et fréquente
     - Il peut être nécessaire de répéter les tests lorsque les symptômes sont présents, en début de matinée ou après une interruption des bronchodilatateurs
 
-> *GINA 2019*
+> – *GINA 2019*
 
 Pour le diagnostic de 5 à 16 ans, l'*ERS 2021* recommande d'obtenir 2 examens objectifs concluants pour affirmer le diagnostic.  
 **Ne pas utiliser de traitement d'épreuve pour affirmer le diagnostic.**
@@ -447,7 +446,7 @@ Confirmer le diagnostic avant de démarrer un traitement, puis instaurer rapidem
 
 ### Stratégie de traitement de l'asthme à partir de 12 ans selon GINA 2023
 
-<div class="card card-hover my-3 my-xl-5">
+<div class="card card-hover card-tab my-3 my-xl-5">
   <ul class="nav nav-tabs nav-justified mb-4" role="tablist">
   <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-stade1" data-toggle="tab" data-target="#nav-asthme-stade1" role="tab" aria-controls="nav-asthme-stade1" aria-selected="true">Niveau 1 et 2</button></li>
   <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade3" data-toggle="tab" data-target="#nav-asthme-stade3" role="tab" aria-controls="nav-asthme-stade3" aria-selected="false">Niveau 3</button></li>

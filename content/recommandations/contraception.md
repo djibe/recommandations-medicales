@@ -19,17 +19,17 @@ atc = ""
 image = true
 imageSrc = "La contraception. stories / Freepik"
 chart = true
-todo = "modal DIU, nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, 360medics, inducteur enz p9, cat vmts et diarrhées p9, contraception définitive"
+todo = "oubli https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/que-faire-en-cas-d-oubli-de-pilule, modal DIU, nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, 360medics, inducteur enz p9, cat vmts et diarrhées p9, contraception définitive"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
 - Contraception annuelle gratuite avant 26 ans (consultation, pilule/stérilet, coter GS Exo 3 depuis le [1/1/2022](https://www.service-public.fr/particuliers/actualites/A15158))  
-  Coter la première consultation contraception avant 26 ans: CCP (46€ avec TP AMO)
+  Coter la première consultation contraception avant 26 ans: CCP (46€ avec tiers payant AMO)
 - Seul le préservatif est efficace contre les [IST](/tags/ist/) (gratuit sans ordonnance en pharmacie pour les -26 ans)
 - [QuestionSexualité - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception) et [comparatif des contraceptions](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception), [Annuaire des centres de santé sexuelle](https://ivg.gouv.fr/les-centres-de-sante-sexuelle.html)
-- Contraceptions très efficaces de première intention: COP, DIU, implant
+- Contraceptions très efficaces de première intention: contraception œstroprogestative, stérilet, implant
 - Démarrer une contraception hormonale: débuter le *1er jour des règles*  
   ou démarrage à tout moment du cycle: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1<sup>re</sup> plaquette.
 - Informer sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) et informer sur la surveillance des troubles de l'humeur (dépression)
@@ -127,7 +127,7 @@ Seuls les COP contenant ≥ 50 µg d'EE sont associées au risque d'accident art
 
 - Antécédent familial au 1<sup>er</sup> degré
   - [Infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) ou AVC chez homme -55 ans ou femme -65 ans
-  - MVTE (TVP, EP) avant 50 ans  
+  - MVTE (thrombose veineuse profonde, embolie pulmonaire) avant 50 ans  
     Ou nombre élevé d'apparentés quelque soit le degré.
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
 - Dyslipidémie non contrôlée
@@ -390,9 +390,9 @@ Les préservatifs sont les seules barrières contre les IST. Informer sur la *Co
 ### Adolescente
 
 - Temps seule pour la confidentialité
-- Gratuité avant 25 ans
+- Gratuité avant 26 ans
 - Préservatif associé pour la prévention des IST et vaccination HPV
-- DIU et implant possibles et très efficaces
+- DIU et implant (AMM à partir de 18 ans) possibles et très efficaces
 - COP: préférer avec 30 µg EE (risque d'oubli, minéralisation osseuse. Avis d'experts)
 
 ### Femme après 40 ans

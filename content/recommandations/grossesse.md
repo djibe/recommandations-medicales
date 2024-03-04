@@ -135,7 +135,7 @@ Malgré les fermetures, **43 %** des maternités ont réalisé en 2020 **moins d
 | 9e mois<br>37-42 SA ||||
 {{< /table >}}
 
-> – *HAS 2009*, *USPTF 2023* TODO: Collège p401
+> – *HAS 2009*, *USPTF 2023*
 
 {{% /collapse %}}
 {{%collapse "Médicaments et vaccins pendant la grossesse" %}}

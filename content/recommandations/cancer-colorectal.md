@@ -285,7 +285,7 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 
 ### Rythme de dépistage chez les personnes à très haut risque de cancer colorectal
 
-{{<figure image="/images/photos/cancer-colorectal-thr.jpg" title="Indications au dépistage du cancer colorectal pour les personnes à très haut risque selon HAS 2017" loading="lazy">}}
+{{< figure image="/images/photos/cancer-colorectal-thr.jpg" title="Indications au dépistage du cancer colorectal pour les personnes à très haut risque selon HAS 2017" loading="lazy">}}
 
 {{% /collapse %}}
 {{%collapse "Traitement du cancer colorectal" %}}

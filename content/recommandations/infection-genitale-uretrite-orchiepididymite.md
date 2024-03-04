@@ -92,7 +92,7 @@ Prélèvements au laboratoire:
 
 Antibiothérapie probabiliste de l'urétrite en cas de symptômes marqués.
 
-<div class="card card-hover my-3 mb-xl-5 mw-640">
+<div class="card card-hover card-tab my-3 mb-xl-5 mw-640">
   <ul class="nav nav-tabs nav-justified" id="tabs-uretrite" role="tablist">
   <li class="nav-item" role="presentation">
       <button aria-controls="has-urethritis-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#has-urethritis-panel" id="has-urethritis-tab" type="button" role="tab">HAS 2021</button>

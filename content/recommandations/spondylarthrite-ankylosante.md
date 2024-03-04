@@ -359,7 +359,7 @@ Une amélioration doit être obtenue à 3 mois pour poursuivre une stratégie, a
 - Enthèses  
   Nombre d'enthèses douloureuses.
 - Retentissement fonctionnel  
-  Échelles {{< score "basfi" "BASFI" >}}, HAQ.
+  Échelles BASFI, HAQ.
 - Atteintes extra-articulaires
   - Cutané: [psoriasis]({{< relref "psoriasis.md" >}})
   - Digestif: MICI

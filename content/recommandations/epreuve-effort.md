@@ -59,7 +59,7 @@ RCV
 
 ### Profil cardiovasculaire
 
-<div class="alert" id="epreuve-effort">
+<div class="alert card-util" id="epreuve-effort">
 <input type="checkbox" id="chip-tout" class="d-input-none">
 <label for="chip-tout" class="chip chip-action chip-filter collapsed chip-activator">Afficher tout</label>
 <input type="checkbox" id="chip-aomi" class="d-input-none">

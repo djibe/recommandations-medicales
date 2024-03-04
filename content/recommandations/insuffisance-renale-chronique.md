@@ -110,7 +110,7 @@ Fin 2018: 89.692 malades en suppléance (55% dialyse et 45% greffés).
 [Dépenses liées à l'IRC terminale](https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Insuffisance%20r%C3%A9nale%20chronique%20terminale), à la [transplantation rénale](https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Insuffisance%20r%C3%A9nale%20chronique%20terminale&refine.patho_niv2=Transplantation%20r%C3%A9nale) et son [suivi](https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Insuffisance%20r%C3%A9nale%20chronique%20terminale&refine.patho_niv2=Suivi%20de%20transplantation%20r%C3%A9nale)
 
 {{% /collapse %}}
-{{%collapse "Facteurs de risque d'insuffisance rénale - Qui dépister?" %}}
+{{%collapse "Facteurs de risque d'insuffisance rénale - Qui dépister ?" %}}
 
 Population à risque d'insuffisance rénale chronique, définie par la présence d'au moins un facteur de risque parmi:
 
@@ -343,7 +343,7 @@ Mesures précédentes avec les particularités suivantes chez la personne vivant
 
 ### Surveillance biologique selon HAS 2023
 
-<div class="card card-hover">
+<div class="card card-hover card-tab my-3 my-xl-5">
 <ul class="nav nav-tabs nav-justified mb-4" id="justifiedTab" role="tablist">
   <li class="nav-item" role="presentation">
     <button aria-controls="sup45" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#sup45" id="sup45-tab" type="button" role="tab">DFGe ≥ 45</button>
@@ -369,7 +369,7 @@ Tant que le DFGe est ≥ 45 mL/min/1,73 m² (20 chez le sujet âgé), stable, sa
   </div>
   <div aria-labelledby="stade3b-tab" class="tab-pane fade" id="stade3b" role="tabpanel">
 
-Suivi au stade 3B:
+#### Suivi au stade 3B {.typography-headline-6}
 
   - Suivi généraliste ≥ 2/an
   - Si néphrologue: ≥ 1/an
@@ -383,7 +383,7 @@ Suivi au stade 3B:
   </div>
   <div aria-labelledby="stade4-tab" class="tab-pane fade" id="stade4" role="tabpanel">
 
-Suivi au stade 4:
+#### Suivi au stade 4 {.typography-headline-6}
 
   - Suivi généraliste ≥ 4/an
   - Néphrologue: ≥ 2/an
@@ -395,7 +395,7 @@ Suivi au stade 4:
   </div>
   <div aria-labelledby="stade5-tab" class="tab-pane fade" id="stade5" role="tabpanel">
 
-Suivi au stade 5:
+#### Suivi au stade 5 {.typography-headline-6}
 
   - Suivi généraliste les mois sans consultation néphrologique
   - Néphrologue: ≥ 4/an

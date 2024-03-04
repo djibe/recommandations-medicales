@@ -18,7 +18,7 @@ datatable = true
 Plusieurs interventions en prévention en médecine générale prennent en compte l'espérance de vie (contrôle du diabète, dépistages). Pour pouvoir raisonner sciemment, RecoMédicales facilite l'accès à ces données d'espérance de vie selon l'âge.
 {.lead}
 
-L'espérance de vie à la naissance (France métropolitaine) atteignait **82 ans** pour les femmes et **80 ans** pour les hommes **en 2023**, la France comptant une importante mortalité précoce (alcool, tabac).
+L'espérance de vie à la naissance (en France métropolitaine) atteignait **82 ans** pour les femmes et **80 ans** pour les hommes **en 2023**, la France comptant une importante mortalité précoce (alcool, tabac).
 
 Pour rappel, l'espérance de vie << à la naissance >> est la moyenne des âges des personnes décédées dans l'année.
 

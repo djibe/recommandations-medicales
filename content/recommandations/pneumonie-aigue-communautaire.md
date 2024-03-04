@@ -36,7 +36,7 @@ flowchart = true
 
 {{%/article-summary%}}
 
-<div class="card card-hover my-3 my-xl-5">
+<div class="card card-hover card-tab my-3 my-xl-5">
   <ul class="nav nav-tabs nav-justified mb-4" role="tablist">
   <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-adulte" data-toggle="tab" data-target="#nav-pna-adulte" role="tab" aria-controls="nav-pna-adulte" aria-selected="true">Adulte</button></li>
   <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-enfant" data-toggle="tab" data-target="#nav-pna-enfant" role="tab" aria-controls="nav-pna-enfant" aria-selected="false">Enfant</button></li>

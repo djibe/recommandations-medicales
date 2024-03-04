@@ -243,7 +243,7 @@ Le calcul du FRAX est validé en France uniquement en cas de [ménopause]({{< re
 
 Le seuil d'intervention sur l'ostéoporose dépend de l'âge de la patiente et la décision de traiter du clinicien.
 
-<div class="border card-body mt-3">
+<div class="card-util border card-body mt-3">
   <label for="age" class="mb-4">Âge de la patiente ménopausée</label>
   <div class="d-flex align-items-center">
     <input type="text" value="50" id="age" oninput="ageInput.value = this.value">
@@ -385,7 +385,7 @@ Critères de choix du traitement: [espérance de vie suffisante]({{< relref "esp
 **Objectif minimal:** absence de perte osseuse (perte > 0,03 g/cm² de DMO).  
 **DMO très basse et fracture:** cible T-score > -2,5 (voire -2).
 
-<div class="card card-hover card-osteoporose my-3 my-xl-5">
+<div class="card card-util card-hover card-osteoporose my-3 my-xl-5">
   <h3 class="card-header card-title m-0">Choix du traitement anti-ostéoporotique</h3>
   <div class="card-body card-list-material">
   <div class="mb-4">

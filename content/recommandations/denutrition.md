@@ -131,7 +131,7 @@ La formule de Harris-Benedict permet d'estimer le **débit énergétique de base
 
 L'estimation des **besoins énergétiques totaux** applique au DEB un facteur de 1 à 1,5 selon l'intensité métabolique auquel son organisme est soumis.
 
-<div class="card-body rounded-lg border mb-3" style="max-width: 280px">
+<div class="card-body card-util rounded-lg border mb-3" style="max-width: 280px">
   <div class="form-group floating-label textfield-box form-ripple">
     <label for="harris-age">Âge (ans)</label>
     <input class="form-control" id="harris-age" type="number" min="5" max="120">
@@ -182,7 +182,7 @@ L'estimation des **besoins énergétiques totaux** applique au DEB un facteur de
 
 Après 60 ans, lorsque la taille n'est pas mesurable par une toise (alitement, troubles de la statique dorsale), on l'estime par la *formule de Chumlea* (extrapolation à partir de la distance talon-genou).
 
-<div class="card-body rounded-lg border mb-5" style="max-width: 280px">
+<div class="card-body card-util rounded-lg border mb-5" style="max-width: 280px">
   <div class="form-group">
     <input type="radio" id="chumlea-female" name="chumlea-radio" class="d-input-none" value="f" required checked>
     <label for="chumlea-female" class="chip chip-action chip-choice">Femme</label>

@@ -142,7 +142,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 - Réévaluation de l'efficacité et de la tolérance **3-6 mois** après chaque modification
 - Pendant la grossesse, les objectifs sont identiques au [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
 
-<div class="border rounded-lg p-4 my-4">
+<div class="card-util border rounded-lg p-4 my-4">
   <div class="m-0">
     <legend>Comorbidités</legend>
     <input type="radio" name="assistant" id="standard" class="d-input-none" checked>

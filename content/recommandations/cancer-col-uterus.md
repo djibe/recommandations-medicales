@@ -211,8 +211,8 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 
 ### Prise en charge d'un frottis cervico-vaginal anormal
 
-{{<figure image="/images/photos/cancer-col-uterus-30.jpg" title="Conduite à tenir devant un frottis avec analyse cytologique anormale de 25 à 29 ans. INCa 2020" loading="lazy">}}
-{{<figure image="/images/photos/cancer-col-uterus-30+.jpg" title="Conduite à tenir devant un frottis avec test HPV haut risque anormal de 30 à 65 ans. INCa 2020" loading="lazy">}}
+{{< figure image="/images/photos/cancer-col-uterus-30.jpg" title="Conduite à tenir devant un frottis avec analyse cytologique anormale de 25 à 29 ans. INCa 2020" loading="lazy">}}
+{{< figure image="/images/photos/cancer-col-uterus-30+.jpg" title="Conduite à tenir devant un frottis avec test HPV haut risque anormal de 30 à 65 ans. INCa 2020" loading="lazy">}}
 
 {{< card-link-external title="Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale (PDF)" url="https://www.e-cancer.fr/content/download/287960/4097542/file/Conduite_a_tenir_devant_une_femme_ayant_une_cytologie_cervico_uterine_anormale_mel_20200306.pdf" subtitle="INCa">}}
 

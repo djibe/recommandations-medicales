@@ -152,7 +152,7 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 {{% /collapse %}}
 {{%collapse "Dépister les apnées du sommeil" %}}
 
-<div class="card card-hover my-3 mb-xl-5 mw-640">
+<div class="card card-hover card-tab my-3 mb-xl-5 mw-640">
   <ul class="nav nav-tabs nav-justified" id="tabs-saos" role="tablist">
     <li class="nav-item" role="presentation">
       <button aria-controls="stop-bang-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#stop-bang-panel" id="stop-bang-tab" type="button" role="tab">STOP-BANG</button>

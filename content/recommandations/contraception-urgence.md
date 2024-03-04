@@ -83,8 +83,7 @@ Prise en charge en urgence (le plus tôt possible) de tout rapport non protégé
 
 **Méthode la plus efficace** et qui le reste durant au moins 4 ans.
 
-Stérilet à poser dans les 5 jours suivant le rapport non protégé.  
-Privilégié chez les obèses ou après un cancer hormonosensible.
+Stérilet à poser dans les 5 jours suivant le rapport non protégé. Privilégier chez les obèses ou après un cancer hormonosensible.
 
 Avant la pose, bilan en urgence: **auto-prélèvement vaginal** pour PCR *[Chlamydia trachomatis]({{< relref "chlamydia-trachomatis.md" >}})* et *Neisseria gonorrhoeae* notamment en cas d'antécédents d'[infection sexuellement transmissible (IST)](/tags/ist/), d'infection génitale haute en cours ou récente, d'âge < 25 ans ou de partenaires multiples.
 
@@ -101,7 +100,8 @@ Le stérilet est remboursé sur prescription de sage-femme ou médecin (à 60%).
 AR 1 fois si besoin.  
 Ou ulipristal si 72 heures dépassées (voir plus bas)
 
-Prise en charge associée au préservatif jusqu'au 1<sup>er</sup> jour des règles suivantes et débuter la contraception efficace à ce moment.  
+Prise en charge associée au préservatif jusqu'au 1<sup>er</sup> jour des règles suivantes et débuter la contraception efficace à ce moment.
+
 Utiliser un test de grossesse si retard des règles supérieur à 5 jours.  
 En cas de vomissements survenant dans les 3 heures suivant la prise du comprimé ou en cas de fortes diarrhées, reprendre immédiatement un comprimé.
 {{%/info%}}
@@ -119,8 +119,7 @@ Aucun risque décrit, aucune contre-indication hormis la grossesse.
 
 #### Ulipristal acétate (UPA)
 
-À prendre le plus tôt possible et jusqu'à 5 jours (120 heures) suivant le rapport.  
-Préférer le LNG en contraception hormonale au long cours.
+À prendre le plus tôt possible et jusqu'à 5 jours (120 heures) suivant le rapport. Préférer le LNG en cas de contraception hormonale au long cours.
 
 [Ulipristal acétate 30 mg en 1 prise](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62621512&typedoc=R) (Ellaone® ou gén).
 
@@ -139,7 +138,7 @@ Même délivrance que le lévonorgestrel.
 - Info sexualité, contraception, IVG, violences: {{<phone>}}0800 08 11 11{{</phone>}} (9:00-23:00)
 - La contraception d'urgence n'est pas efficace à 100%
 - Elle est à pratiquer le plus tôt possible après un rapport à risque  
-Sans contraception ou oubli.
+  Sans contraception ou oubli.
 - Utiliser le préservatif jusqu'au 1<sup>er</sup> jour des règles suivantes et débuter la contraception efficace à ce moment
 - Utiliser un test de grossesse si retard des règles > 5 jours
 - En cas de vomissements survenant dans les 3 heures suivant la prise du comprimé ou en cas de fortes diarrhées, reprendre immédiatement un comprimé
