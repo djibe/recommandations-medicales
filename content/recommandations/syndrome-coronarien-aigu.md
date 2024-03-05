@@ -59,7 +59,7 @@ Angor instable
 - Décès par infarctus: +15.000 annuels
 - Progression du SCA chez les femmes 45 à 65 ans: +20 % entre 2008 et 2014
 - Mortalité à 1 an: 10 %
-- Seuls 58% de la population déclare appeler le SAMu en cas de douleurs thoraciques
+- Seuls 58% de la population déclare appeler le SAMU en cas de douleurs thoraciques
 
 ### Abréviations
 
@@ -67,7 +67,7 @@ aspirine
 : acide acétylsalicylique
 
 BB
-: bloc de branche
+: bloc de branche ou bêtabloquant
 
 CNEC
 : Collège National des Enseignants de Cardiologie

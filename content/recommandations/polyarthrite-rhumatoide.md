@@ -301,7 +301,7 @@ Infiltrations ciblées des articulations douloureuses.
 
 {{< mermaid title="Conduite à tenir pour le diagnostic de la polyarthrite rhumatoïde. Dr JB Fron d'après SFRhumato 2018" >}}
 graph TB
-  suspicion["<b>Suspicion de PR</b><br>—<br>- Arthrite<br>- Dérouillage matinal<br>- Douleur en pression MCP/MTP"]
+  suspicion["<b>Suspicion de<br>polyarthrite rhumatoïde</b><br>—<br>- Arthrite<br>- Dérouillage matinal<br>- Douleur en pression MCP/MTP"]
   style suspicion stroke:#4150f5, stroke-width:1px
     suspicion --> bilan("<b>Examens complémentaires</b><br>—<br>- NFS, VS, CRP<br>- ASAT, ALAT<br>- Créatininémie, DFG<br>- BU<br>- Facteur rhumatoïde (FR)<br>- Anticorps anti-peptide citrulliné (ACPA)<br>- Anticorps antinucléaires (AAN)<br>- Sérologie hépatites B et C<br>- Radiographies")
       bilan --> rhumato("Avis rhumatologique<br>sous 6 semaines")

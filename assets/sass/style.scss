@@ -1432,6 +1432,10 @@ a:focus-visible {
   list-style: none !important;
 }
 
+.dataTables_info {
+  padding-top: 0 !important;
+}
+
 table.dataTable {
   > tbody > tr.child span.dtr-title {
     font-weight: 500;

@@ -79,7 +79,7 @@ HAS
 IPS
 : index de pression systolique
 
-MVTE (ou MTEV)
+MVTE (ou MTEV ou ETEV)
 : maladie veineuse thrombo-embolique
 
 TVP

@@ -56,7 +56,7 @@ HPN
 MICI
 : maladies inflammatoires chroniques intestinales
 
-MVTE (ou MTEV)
+MVTE (ou MTEV ou ETEV)
 : maladie veineuse thromboembolique (ou maladie thrombo-embolique veineuse)
 
 SAPL

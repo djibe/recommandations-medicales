@@ -29,7 +29,7 @@ todo = "gluconate de zinc, outil"
   - Acné inflammatoire: peroxyde de benzoyle 5% x 1/j pendant 4-6 semaines puis entretien 2-3/semaine  
     Acné étendue: ajouter la doxycycline 100 mg/j pendant maximum 3 mois
 - Acné sévère: avis dermatologique (voir *Acné sévère*)
-- Acné déclenchée par une contraception hormonale: substituer par lévonorgestrel seul > norgestimate > autre voire Triafemi ([Fiche contraception]({{< relref "contraception.md" >}}))
+- Acné déclenchée par une contraception hormonale: substituer par lévonorgestrel seul > norgestimate > autre voire Triafemi (voir [contraception]({{< relref "contraception.md" >}}))
 - Acné pendant la grossesse: Peroxyde de benzoyle 5% gel 1 à 2 applications par jour sur peau propre
 
 {{%/article-summary%}}
@@ -301,7 +301,7 @@ graph TB
 accTitle: Prise en charge de l'acné selon la forme clinique d'après SFDermato 2015
   suspicion[Suspicion d'acné] --> diagnostic(Diagnostic clinique d'acné)
   style suspicion stroke:#4150f5, stroke-width:1px
-  suspicion -- Diagnostic différentiel --> differentiel("- Dermatite péri-orale ou med<br>- Rosacée papulo-pustuleuse<br>- Syphilis<br>- Sarcoïdose")
+  suspicion -- Diagnostic différentiel --> differentiel("- Dermatite péri-orale<br>- Folliculite médicamenteuse<br>- Rosacée papulo-pustuleuse<br>- Syphilis<br>- Sarcoïdose")
     diagnostic --> soins(Soins locaux) ---> personne(Enfant et adulte)
       personne --> tresLegere(Très légère) -- Attaque --> tl("Trétinoïne<br>ou ADA<br>ou PeBo 1/j") -- Entretien --> tle("ADA (1/j ou 1j/2)<br>OU<br>ADA<br>+ PeBo 2,5% 1/j") -. Échec M3 .-> tlechec(voir Légère)
       personne --> legere(Légère) -- Attaque --> l(Trétinoïne<br>OU<br>ADA<br>+ PeBo 1/j) -- Entretien --> le("1/j: ADA (1/j ou 1j/2)<br>OU<br>ADA<br>+ PeBo 2,5%") -. Échec M3 .-> lechec("- Intensification<br>ou rétinoïdes + atb locale<br>ou acide azélaïque + atb locale<br>ou doxycycline ou lymécycline<br>+ rétinoïde + PeBo")

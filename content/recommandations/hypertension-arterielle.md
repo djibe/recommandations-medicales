@@ -1,5 +1,5 @@
 +++
-title = "Hypertension artérielle de l'adulte (HTA)"
+title = "Hypertension artérielle (HTA)"
 prefix = "l'"
 titleSeo = "Hypertension artérielle HTA"
 description = "Recommandations HTA 2023 diagnostic et traitement de l'hypertension artérielle. Cibles tensionnelles selon le profil, carnet d'automesure, associations IEC ..."
@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2024-03-01"
+lastmod = "2024-03-04"
 specialites = ["cardiologie"]
 annees = "2023"
 sources = ["ESH", "USPTF", "ESC"]
@@ -178,7 +178,7 @@ Une mesure standardisée est nécessaire pour le contrôle des objectifs tension
   - Personne ne parle pendant et entre les mesures
   - Retrait de tous les vêtements de la zone de mesure
 - Technique validée
-  - **Tensiomètre électronique validé uniquement** ([liste]({{< relref "tensiometres-electroniques-valides.md" >}})) ou manuel chez l'enfant
+  - **[Tensiomètre électronique validé uniquement]({{< relref "tensiometres-electroniques-valides.md" >}})** ou manuel chez l'enfant
   - Brassard huméral validé et calibré régulièrement (annuel)
   - Bras nu posé sur le bureau
   - Le centre du brassard est posé en regard de l'artère brachiale et le milieu du brassard doit être au niveau du sternum médian
@@ -257,7 +257,7 @@ Chez l'enfant ou pendant la grossesse, un appareil validé spécifique est néce
 {{% /collapse %}}
 {{%collapse "Objectifs tensionnels" "show" %}}
 
-Une PAD 70-79 mmHg est la cible pour tout hypertendu. La pression cible doit être atteinte sous 3 mois
+Une diastolique entre 70 et 79 mmHg est la cible pour tout hypertendu. La pression cible doit être atteinte sous 3 mois.
 {.alert .alert-info}
 
 {{< table title="Synthèse des cibles de pression artérielle au cabinet selon le profil de l'adulte de plus de 18 ans. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
@@ -425,7 +425,7 @@ Prise en charge de l'hypertension artérielle par bithérapie au choix parmi:
 
 - Envisager une **monothérapie** si: +80 ans, sujet fragile, HTA < 150 mmHg à faible risque cardiovasculaire ou tension normale haute avec maladie cardiovasculaire
 - Chez le sujet noir: {{< modal-btn modal-tzd-ica >}}TZD + ICa{{< /modal-btn >}} aussi possible
-- L'ajout d'un IEC/ARA2 à l'anticalcique réduit la survenue d'œdèmes et au thiazidique réduit la survenue d'hypokaliémie
+- L'ajout d'un IEC/ARA2 à l'anticalcique réduit la survenue d'œdèmes et l'association au thiazidique réduit la survenue d'hypokaliémie
 - Pas d'arrêt brutal: BB, ICa, diurétique, antihypertenseur central
 
 La baisse de pression artérielle intervient en 1-2 semaines après l'introduction du traitement, pouvant se prolonger jusqu'à 2 mois.
@@ -435,6 +435,8 @@ La baisse de pression artérielle intervient en 1-2 semaines après l'introducti
 
 {{< modal-btn modal-triple >}}IEC/ARA2 + TZD + ICa{{< /modal-btn >}} en 1 seul comprimé (non remboursés).
 
+Pour être remboursé: associer <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + ICa</button> ou <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button> et hydrochlorothiazide
+
 ### Traitement de niveau 3
 
 Hypertension résistante: avis spécialisé + RHD rappelées + ajout de [spironolactone](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63145849&typedoc=R) 25-50 mg/j (ou autre diurétique, alpha ou bêtabloquant).
@@ -443,9 +445,9 @@ En cas d'hypertension artérielle résistant, éliminer:
 
 Défaut d'observance, effet blouse blanche, mesures de PA non standardisées, {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}, calcifications des artères brachiales, inertie du médecin, consommation de sel, HTA secondaire, [maladie rénale]({{< relref "insuffisance-renale-chronique.md" >}}).
 
-### Améliorer l'observance
+### Améliorer l'observance du traitement antihypertenseur
 
-Éléments pouvant favoriser l'observance:
+Éléments pouvant favoriser l'observance du traitement:
 
 - Côté médecin
   - Informer sur les conséquences de l'hypertension et donc les raisons et bénéfices du traitement et des RHD

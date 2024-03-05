@@ -1,6 +1,5 @@
 +++
-title = "Ictère de l'adulte"
-titleSeo = "Ictère de l'adulte"
+title = "Ictère"
 prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge d'un ictère. Bilan biologique, Gilbert, bilirubine conjuguée avec échographie des voies biliaires"
 synonyms = ["Jaunisse"]

@@ -387,13 +387,13 @@ Efficacité prouvée: Neuromodulation électrique. Sur prescription spécialisé
 ### Indications à un traitement de fond anti-migraineux
 
 - Utilisation du traitement de crise ≥ 8 j/mois depuis ≥ 3 mois
-- Migraine sévère  
+- Migraine sévère
   - Crises fréquentes (≥ 8 j/mois)
-  - OU {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60
-  - OU intensité impose un arrêt total des activités pour ≥ 50% des crises
+  - ou {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60
+  - ou intensité imposant un arrêt total des activités pour ≥ 50% des crises
 - Crises migraineuses invalidantes malgré un traitement de crise optimal
 
-> *Ducros A et al 2021 Table 6*
+> – *Ducros 2021 Table 6*
 {{%/info%}}
 
 **Objectif:** réduire le nombre de jours de céphalées au moins de moitié si *migraineux épisodique* (< 15 j/m) ou au moins 30% si *migraineux chronique* (≥ 15 j/m). Réévaluation au 3<sup>e</sup> mois.  

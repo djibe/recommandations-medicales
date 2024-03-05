@@ -132,15 +132,15 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 {.alert .alert-info}
 
 {{% /collapse %}}
-{{%collapse "Escalade thérapeutique" %}}
+{{%collapse "Escalade thérapeutique du diabète" %}}
 
 ### Aide au choix du traitement antidiabétique d'après SFD 2023
 
-- Cliquer sur la classe thérapeutique pour afficher plus d'informations sur la prise en charge
-- Les classes thérapeutiques de préférence sont entourées ou signalées avec un indicateur bleu
+- Cliquer sur la classe thérapeutique pour afficher plus d'informations sur la prise en charge  
+  Les classes préférentielles ont un indicateur bleu.
 - **Objectif 0 hypoglycémie !**
 - Réévaluation de l'efficacité et de la tolérance **3-6 mois** après chaque modification
-- Pendant la grossesse, les objectifs sont identiques au [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
+- En cas de grossesse: les objectifs glycémiques sont identiques au [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
 
 <div class="card-util border rounded-lg p-4 my-4">
   <div class="m-0">

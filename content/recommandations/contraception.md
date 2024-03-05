@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2023-12-19"
+lastmod = "2024-03-04"
 specialites = ["gynecologie-obstetrique", "therapeutique", "urologie"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -52,20 +52,20 @@ Le défaut d'observance est l'une des causes principales des grossesses non plan
 
 <figure class="figure-chart">
   <div id="chart2"></div>
-  <figcaption><b>Figure.</b> Évolution de la fécondité en France métropolitaine de 1950 à nos jours. Dr JB Fron d’après <em><a href="https://www.insee.fr/fr/statistiques/4277635?sommaire=4318291" rel="external nofollow noopener">Insee 2020</a></em>. Échelle de temps non linéaire.<br>
+  <figcaption><b>Figure.</b> Évolution de la fécondité en France métropolitaine de 1950 à nos jours. Dr JB Fron d’après <em><a href="https://www.insee.fr/fr/statistiques/7746164?sommaire=7746197" rel="external nofollow noopener">Insee 2024</a></em>. Échelle de temps non linéaire.<br>
   <b>Légende:</b> Indicateur conjoncturel de fécondité (ICF), plus communément appelé nombre d’enfants par femme.</figcaption>
 </figure>
 <script>
 const chartOptions2 = {
   series: [{
     name: 'ICF',
-    data: [2.947, 1.945, 1.778, 1.874, 1.841, 1.835]
+    data: [2.947, 2.74, 2.48, 1.945, 1.778, 1.874, 2.016, 1.782, 1.639]
   }],
   chart: { type: 'line', height: 240 },
   markers: { size: 0 },
   stroke: { colors: ['#4150f5'], curve: 'smooth', width: 3 },
   title: { text: 'Évolution de la fécondité en France métropolitaine' },
-  xaxis: { categories: [1950, 1980, 1990, 2000, 2018, 2019] },
+  xaxis: { categories: [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020, 2023] },
   yaxis: [
     {
       title: { text: 'Enfants par femme' },
