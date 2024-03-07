@@ -29,10 +29,10 @@ TODO:
 {{%collapse "Définition" %}}
 
 Artérite à cellules géantes (ou maladie de Horton)
-: Vascularite rare des gros troncs artériels survenant après 50 ans (70 ++) et atteignant principalement les femmes (75%) originaires d'Europe du Nord. Le syndrome inflammatoire est pratiquement constant.
-: Les complications majeures sont à court terme la cécité avec perte d'autonomie et à long terme le risque cardiovasculaire.
+: Vascularite rare des gros troncs artériels survenant après 50 ans (70 ans surtout) et atteignant principalement les femmes (75%) originaires d'Europe du Nord. Le syndrome inflammatoire est pratiquement constant.
 : Les vaisseaux atteints sont surtout les artères: carotides externes, opthalmiques et vertébrales.
-: Des pathologies sont fréquemment associées: pseudo-polyarthrite rhizomélique (PPR, 50%) et l'aortite isolée (1/3, asymptomatique).
+: Les complications majeures sont à court terme la cécité avec perte d'autonomie et à long terme le risque cardiovasculaire.
+: Deux comorbidités sont fréquemment associées: la pseudo-polyarthrite rhizomélique (PPR, 50%) et l'aortite isolée (1/3, asymptomatique).
 
 ### Abréviations
 
@@ -56,7 +56,7 @@ PPR
 {{%collapse "Clinique" %}}
 
 {{%warning%}}
-Suspecter systématiquement une maladie de Horton devant les symptômes suivants après 50 ans: céphalées inhabituelles, claudication de la mâchoire, anomalies cliniques de l'artère temporale et symptômes visuels récents.
+Suspecter systématiquement une maladie de Horton après 50 ans en cas de: céphalées inhabituelles, claudication de la mâchoire, anomalies cliniques de l'artère temporale et symptômes visuels récents.
 
 ---
 
@@ -86,11 +86,13 @@ Signes et symptômes à rechercher chez le sujet de plus de 50 ans lorsqu'une ma
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+Information du patient dès que le diagnostic est suspecté: consultation en urgence en cas de signes visuels.
+
 ### Bilan de la maladie de Horton
 
 - NFS
-- CRP
 - VS ou fibrinogène
+- CRP
 
 Adresser au spécialiste (rhumatologue, interniste) pour la confirmation du diagnostic. Le délai d'adressage dépend de la gravité des symptômes (voir *Traitement*).
 
@@ -98,16 +100,24 @@ Adresser au spécialiste (rhumatologue, interniste) pour la confirmation du diag
 
 La biopsie de l'artère temporale est l'examen de référence pour affirmer le diagnostic d'artérite à cellules géantes (maladie de Horton).
 
-La biopsie de l'artère temporale est réalisée sous anesthésie locale en ambulatoire. Elle reste interprétable au moins jusqu'à 2 semaines après le début du traitement par corticoïdes.
+La biopsie de l'artère temporale est réalisée sous anesthésie locale en ambulatoire TODO: où ?. Elle reste interprétable au moins 2 semaines après l'initiation de la corticothérapie.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la maladie de Horton" %}}
 
 ### Indications à une hospitalisation en urgence
+
+Signes visuels
+
+méthylprednisolone IV voire prednisone 1 mg/kg/j à défaut.
+
+### Traitement
 
 ### Corticothérapie de la maladie de Horton
 
 La corticosensibilité est un argument supplémentaire en faveur du diagnostic d'artérite à cellules géantes.
+
+prednisone 0,7 mg/kg/j
 
 {{% /collapse %}}
 {{%sources%}}

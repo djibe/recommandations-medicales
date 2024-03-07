@@ -280,13 +280,13 @@ style SII stroke:#4150f5, stroke-width:1px
 - Prescrire Redaction. Troubles intestinaux bénins récurrents. Rev Prescrire. 2023.
 - {{< references/college-gastro >}}
 - [Vasant D et al. British Society of Gastroenterology guidelines on the management of irritable bowel syndrome. Gut. 2021.](https://gut.bmj.com/content/70/7/1214)
-- [Sabaté JM, Jouët P. Prise en charge du Syndrome de l'Intestin Irritable (SII). Conseil de pratique. SNFGE, GFNG. 2016. (PDF)](https://www.snfge.org/download/file/fid/4871)
+- [Sabaté JM, Jouët P. Prise en charge du Syndrome de l'Intestin Irritable (SII). Conseil de pratique. SNFGE, GFNG. 2016. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp036-sii_2016.pdf)
 - [Conseil National Professionnel d'Hépato-Gastroentérologie (CNP-HGE). Syndrome de l'intestin irritable.](https://www.cnp-hge.fr/syndrome-de-lintestin-irritable/)
-- [SNFGE. Syndrome de l'intestin irritable (SII).](https://www.snfge.org/content/syndrome-de-lintestin-irritable-sii)
+- [SNFGE. Syndrome de l'intestin irritable (SII).](https://www.snfge.org/grand-public/maladies-digestives/syndrome-lintestin-irritable-sii)
 
 ### Bibliographie en attente
 
-- [SNFGE. Régime pauvre en sucres fermentescibles, les FODMAPs. 2016.](https://www.snfge.org/download/file/fid/4878)
+- [SNFGE. Régime pauvre en sucres fermentescibles, les FODMAPs. 2016.](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/les_fodmaps.pdf)
 - [Mearin F et al. Bowel Disorders. Gastroenterology. 2016.](https://pubmed.ncbi.nlm.nih.gov/27144627/)
 - Cochrane
 

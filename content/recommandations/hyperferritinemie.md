@@ -248,7 +248,7 @@ accTitle: Prise en charge diagnostique d'une hyperferritinémie d'après SNFGE 2
 - [European Association for the Study of the Liver. EASL Clinical Practice Guidelines on haemochromatosis. J Hepatol. 2022.](https://www.journal-of-hepatology.eu/article/S0168-8278(22)00211-2/fulltext)
 - {{< references/college-gastro >}}
 - {{< references/afef-foie-non-invasif >}}
-- [Brissot P. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. SNFGE et AFEF. 2019. (PDF)](https://www.snfge.org/download/file/fid/4845)
+- [Brissot P. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. SNFGE et AFEF. 2019. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/brissot_2019_0_0.pdf)
 - [Brissot P et al. Pathophysiology and classification of iron overload diseases; update 2018. Transfusion Clinique et Biologique. 2018.](https://doi.org/10.1016/j.tracli.2018.08.006)
 - [Lorcerie B et al. Démarche diagnostique devant une hyperferritinémie. La Revue de Médecine Interne. 2015.](https://www.sciencedirect.com/science/article/pii/S0248866314011114)
 - [Brissot P. Diagnostic d'une hyperferritinémie. 2012. (PDF)](https://www.hemochromatose.org/wp-content/uploads/2012/12/hyperferritinemie.pdf)

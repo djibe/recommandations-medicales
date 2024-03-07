@@ -9,8 +9,8 @@ date = "2021-12-16T15:41:56+01:00"
 publishdate = "2022-01-07"
 lastmod = "2023-11-23"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2020"
-sources = ["INCa", "SNFGE"]
+annees = "2021"
+sources = ["SNFGE", "INCa"]
 tags = ["cancer", "diabete", "obesite", "prurit", "tabac"]
 anglais = ["Pancreatic cancer"]
 sctid = "363418001"
@@ -226,15 +226,14 @@ L'IRM a une performance diagnostique équivalente (et plus chère).
 
 Adresser en semi-urgence à l'équipe hospitalière de gastro-entérologie pour la suite de la prise en charge du cancer du pancréas. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
 
-10-20% des patients peuvent bénéficier d'une chirurgie d'exérèse à visée curative.  
+10-20 % des patients peuvent bénéficier d'une chirurgie d'exérèse à visée curative.  
 [Guide d'information patient SFCD/FCVD pancréatectomie (PDF)](https://www.fcvd.fr/wp-content/uploads/2022/01/FICHE-D_INFORMATION-PATIENT-PANCREATECTOMIE.pdf)
 
-La majorité reçoit aussi une chimiothérapie.  
-Le taux de **récidive** est très élevé.
+La majorité reçoit aussi une chimiothérapie. Le taux de **récidive** est très élevé.
 
 Soins associés: ALD, traitement de douleur, prise en charge de la dépression et de la dénutrition.
 
-Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr/).
+Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr).
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du cancer du pancréas" "show" %}}
@@ -251,12 +250,12 @@ graph TB
 {{%sources%}}
 
 - {{< references/college-gastro >}}
-- [Rebours V. Risque de cancer du pancréas : maigrir c'est bien, ne pas grossir c'est mieux. GastroScoop. 13/01/2022.](https://www.snfge.org/gastroscoop/risque-de-cancer-du-pancreas-maigrir-cest-bien-ne-pas-grossir-cest-mieux)
-- [Rebours V. Les chiffres du cancer du pancréas dans le monde : l'effroyable raz-de-marée. GastroScoop. 17/11/2021.](https://www.snfge.org/gastroscoop/les-chiffres-du-cancer-du-pancreas-dans-le-monde-leffroyable-raz-de-maree)
+- Rebours V. Risque de cancer du pancréas : maigrir c'est bien, ne pas grossir c'est mieux. GastroScoop. 13/01/2022.
+- [Hammel P et al. Cancer du pancréas. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/tncd/cancer-du-pancreas)
+- [Rebours V. Les chiffres du cancer du pancréas dans le monde : l'effroyable raz-de-marée. GastroScoop. 17/11/2021.
 - [INCa. Les cancers du pancréas en 12 points clés. Juin 2020. (PDF)](https://www.e-cancer.fr/content/download/291472/4150728/file/Cancer_du_pancreas_points-cles_mel_20200605.pdf)
 - [INCa. Cancer du pancréas - Du diagnostic au suivi. Juin 2020. (PDF)](https://www.e-cancer.fr/content/download/291469/4150680/file/Cancer_du_pancreas_du_diagnostic_au_suivi_mel_20200605.pdf)
 - [INCa. Synthèse - Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Septembre 2019. (PDF)](https://www.e-cancer.fr/content/download/278143/3948778/file/Synthese_CAT_patients_atteints_adenocarcinomes_pancreas_mel_20191118.pdf)
-- [Neuzillet C. et al. Thésaurus National de Cancérologie Digestive (TNCD). Dig Liver Dis. 2018.](https://www.snfge.org/content/9-cancer-du-pancreas)
 
 ### Bibliographie en attente
 

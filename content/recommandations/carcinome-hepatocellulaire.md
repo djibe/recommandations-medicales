@@ -207,7 +207,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Blanc JF et al; AFEF. Carcinome hépatocellulaire (cancer primitif du foie). Thésaurus National de Cancérologie Digestive (TNCD). septembre 2023.](https://www.snfge.org/content/7-carcinome-hepatocellulaire-cancer-primitif-du-foie)
+- [Blanc JF et al; AFEF. Carcinome hépatocellulaire (cancer primitif du foie). Thésaurus National de Cancérologie Digestive (TNCD). 2023.](https://www.snfge.org/tncd/carcinome-hepatocellulaire-cancer-primitif-du-foie)
 - {{< references/college-gastro >}}
 - [European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Management of hepatocellular carcinoma. J Hepatol. 2018.](https://www.journal-of-hepatology.eu/article/S0168-8278(18)30215-0/fulltext)
 - [Trinchet JC. Diagnostic du carcinome hépatocellulaire. Conseil de pratique. SNFGE et AFEF. 2016. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/recommandations/2016_chc_avec_figure_integree_0.pdf)

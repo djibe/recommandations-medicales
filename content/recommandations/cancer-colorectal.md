@@ -323,9 +323,9 @@ Chirurgie le plus souvent. Parfois chimiothérapie adjuvante et thérapie ciblé
 {{% /collapse %}}
 {{%collapse "La coloscopie" %}}
 
-[SFED, SNFGE - informations médicales avant réalisation d'une coloscopie (PDF)](https://www.snfge.org/download/file/fid/2772) et [CREGG: Coloscopie : préparation, déroulement & complications de l'examen](https://www.cregg.org/espace-patients/tube-digestif/coloscopie-preparation-deroulement-complications-de-lexamen/)
+[SFED, SNFGE - informations médicales avant réalisation d'une coloscopie (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/information_patient_coloscopie_sfed-snfge-snfcp_2017.pdf) et [CREGG: Coloscopie : préparation, déroulement & complications de l'examen](https://www.cregg.org/espace-patients/tube-digestif/coloscopie-preparation-deroulement-complications-de-lexamen/)
 
-{{< card-link-external title="Appli MaColo" subtitle="Application d'aide à la préparation de la coloscopie" url="https://macolo.fr/">}}
+{{< card-link-external title="Appli MaColo" subtitle="Application d'aide à la préparation de la coloscopie" url="https://macolo.fr">}}
 
 ### Préparation colique pour une coloscopie
 
@@ -365,12 +365,12 @@ graph TB
 
 {{< youtube id="DV0PVuj4Ljw" title="Quelle surveillance endoscopique pour un cancer du côlon ? (TutoGastro SNFGE)" >}}
 
-- [Lecomte T et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive (TNCD). 2023.](https://www.snfge.org/content/3-cancer-du-colon-non-metastatique)
-- [Phelip JM et al. « Cancer colorectal métastatique ». Thésaurus National de Cancérologie Digestive. septembre 2023.](https://www.snfge.org/content/4-cancer-colorectal-metastatique)
+- [Lecomte T et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive (TNCD). 2023.](https://www.snfge.org/tncd/cancer-du-colon-non-metastatique)
+- [Phelip JM et al. Cancer colorectal métastatique. Thésaurus National de Cancérologie Digestive. septembre 2023.](https://www.snfge.org/tncd/cancer-colorectal-metastatique)
 - {{< references/college-gastro >}}
 - [Cervantes A et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)
 - [Robaszkiewicz M et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
-- [Cotte E et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/5-cancer-du-rectum)
+- [Cotte E et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/tncd/cancer-du-rectum)
 - [INCa. Les cancers colorectaux en 12 points clés. Juillet 2020. (PDF)](https://www.e-cancer.fr/content/download/292187/4161375/file/Cancers_colorectaux_en_12_points_cl%C3%A9s_mel_20200702.pdf)
 - [INCa. Cancer colorectal - Dépistage par test immunologique et autres modalités. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-colorectal-Depistage-par-test-immunologique-et-autres-modalites)
 - [INCa. Dépistage du cancer colorectal - Accompagner vos patients de 50 à 74 ans. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Depistage-du-cancer-colorectal-Accompagner-vos-patients-de-50-a-74-ans)

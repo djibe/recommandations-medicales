@@ -215,9 +215,9 @@ graph TB
 
 - Prescrire Redaction. Bilan 2024 des médicaments à écarter : gastro-entérologie. Rev Prescrire. 2023.
 - [Lindor KD et al. Primary Biliary Cholangitis: 2021 Practice Guidance update from the American Association for the Study of Liver Diseases. Hepatology. 2022.](https://journals.lww.com/hep/fulltext/2022/04000/primary_biliary_cholangitis__2021_practice.24.aspx)
-- [Corpechot C; SNFGE, AFEF. Prise en charge de la cirrhose biliaire primitive (CBP). Conseil de pratique. 2019. (PDF)](https://www.snfge.org/download/file/fid/4850)
+- [Corpechot C; SNFGE, AFEF. Prise en charge de la cirrhose biliaire primitive (CBP). Conseil de pratique. 2019. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp007_snfge_2019_-_cbp_-_corpechot-zoulim_revcorpechot_1_0.pdf)
 - [European Association for the Study of the Liver. EASL Clinical Practice Guidelines: The diagnosis and management of patients with primary biliary cholangitis. J Hepatol. 2017.](https://www.journal-of-hepatology.eu/article/S0168-8278(17)30186-1/fulltext)
-- [SNFGE. Cholangite biliaire primitive](https://www.snfge.org/content/cholangite-biliaire-primitive-0)
+- [SNFGE. Cholangite biliaire primitive](https://www.snfge.org/grand-public/maladies-digestives/cholangite-biliaire-primitive)
 - [Filfoie. Cholangite biliaire primitive](https://www.filfoie.com/glossary/cholangite-biliaire-primitive-cirrhose-biliaire-primitive/)
 
 ### Bibliographie en attente

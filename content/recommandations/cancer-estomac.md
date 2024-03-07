@@ -160,7 +160,7 @@ Le bilan biologique recherche des signes de malignité:
 
 En cas de symptômes évocateurs d'un cancer de l'estomac, adresser directement au gastro-entérologue pour **endoscopie** oeso-gastro-duodénale (EOGD) avec biopsies.
 
-[SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/download/file/fid/2775)
+[SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/information_patient_gastroscopie_diagnostique_sfed-snfge.pdf)
 
 Le bilan complémentaire comporte toujours un **scanner** thoraco-abdomino-pelvien avec injection.
 
@@ -229,11 +229,10 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Zaanan A et al. << Cancer de l'estomac >>. Thésaurus National de Cancérologie Digestive. Octobre 2023.](https://www.snfge.org/content/2-cancer-de-lestomac)
+- [Zaanan A et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/cancer-lestomac)
 - {{< references/college-gastro >}}
 - [Chollet R et al; SFED, CREGG. Prévention du cancer de l'estomac. 2021.](https://www.sfed.org/sites/www.sfed.org/files/2021-08/Cancerestomac_prevention.pdf)
 - [Nousbaum JB et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)
-- [Zaanan A et al. Gastric cancer: French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, SFRO). Dig Liver Dis. 2018.](https://www.snfge.org/content/2-cancer-de-lestomac)
 - [SNFGE. Traitement du RGO. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
 - [HAS et CNPHGE. Diagnostic de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
 - [SFED et CREGG. Prévention du cancer de l'estomac. Fiche de Recommandation sur la prévention des cancers digestifs par endoscopie. 14/03/2014.](https://www.cregg.org/commissions/prevention-des-cancers-par-endoscopie/fiches-de-recommandations-prevention-des-cancers-par-endoscopie/prevention-du-cancer-de-l-estomac-2/)

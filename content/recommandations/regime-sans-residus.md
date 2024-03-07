@@ -114,6 +114,6 @@ graph TB
 {{%sources%}}
 
 - [Hassan C et al. Bowel preparation for colonoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2019. Endoscopy. 2019.](https://www.thieme-connect.de/products/ejournals/html/10.1055/a-0959-0505)
-- [Coulom P, Grunberg B. Régime sans résidus. SNFGE, CREGG. 2017.](https://www.snfge.org/download/file/fid/2919)
+- [Coulom P, Grunberg B. Régime sans résidus. SNFGE, CREGG. 2017.](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/regime_sans_residus_snfge-cregg_2017.pdf)
 
 {{%/sources%}}

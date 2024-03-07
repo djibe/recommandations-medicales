@@ -237,7 +237,7 @@ graph TB
 
 - [Bowlus CL et al. AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma. Hepatology. 2023.](https://journals.lww.com/hep/fulltext/2023/02000/aasld_practice_guidance_on_primary_sclerosing.29.aspx)
 - [PNDS. Cholangite Sclérosante Primitive. 2022.](https://www.has-sante.fr/jcms/p_3392249/fr/cholangite-sclerosante-primitive)
-- [Chazouillères O; SNFGE, AFEF. Prise en charge de la cholangite sclérosante primitive (CSP). Conseil de pratique. 2019. (PDF)](https://www.snfge.org/download/file/fid/4849)
+- [Chazouillères O; SNFGE, AFEF. Prise en charge de la cholangite sclérosante primitive (CSP). Conseil de pratique. 2019. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp06_2019_0.pdf)
 
 {{%/sources%}}
 {{% modal title="Score de Child-Pugh" id="modal-score-child"%}}

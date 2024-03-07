@@ -156,7 +156,7 @@ Le suivi de l'hépatite auto-immune est spécialisé et dépend de l'activité d
 
 - [PNDS. Hépatite Auto-immune. 2021.](https://www.has-sante.fr/jcms/p_3291664/fr/hepatite-auto-immunes-hai)
 - [Filfoie. Hépatite auto-immune.](https://www.filfoie.com/glossary/hepatite-auto-immune-2/)
-- [SNFGE. Hépatite auto-immune](https://www.snfge.org/content/hepatite-auto-immune)
+- [SNFGE. Hépatite auto-immune](https://www.snfge.org/grand-public/maladies-digestives/hepatite-auto-immune)
 
 ### Bibliographie en attente
 

@@ -200,7 +200,7 @@ Prise en charge de l'anémie par supplémentation et fer puis surveillance de la
 
 ### Pour en savoir plus: Éléments importants sur la supplémentation en fer
 
-- < 10% du fer alimentaire est absorbé ([SNFGE](https://www.snfge.org/content/hemochromatose))
+- Moins de 10% du fer alimentaire est absorbé ([SNFGE](https://www.snfge.org/grand-public/maladies-digestives/hemochromatose))
 - Supplémenter une carence martiale symptomatique chez la femme non ménopausée ([fatigue](/tags/fatigue/), ralentissement cognitif) et pendant la grossesse
 - Débuter le traitement pendant la réalisation du bilan étiologique  
   Sauf si délai de coloscopie de 2 semaines (coloration des selles).

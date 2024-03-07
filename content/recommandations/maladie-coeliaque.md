@@ -189,11 +189,12 @@ En cas de déficit en IgA: sérologie IgG anti-TG2 et IgG anti-endomysium avec E
 
 Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 4) et du grêle sont systématiques.
 
-**NB. La biopsie du grêle est décommandée chez l'enfant (AG nécessaire) par mauvais rapport bénéfice/risque.**
+**NB. La biopsie du grêle est décommandée chez l'enfant (anesthésie générale nécessaire) par mauvais rapport bénéfice/risque.**
 
-{{% warning %}}Dépistage de tous les proches au 1<sup>er</sup> degré{{% /warning %}}
+Dépister tous les proches au 1<sup>er</sup> degré.
+{.alert .alert-warning}
 
-[SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/download/file/fid/2775)
+[SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/information_patient_gastroscopie_diagnostique_sfed-snfge.pdf)
 
 ### Autres examens
 
@@ -320,7 +321,7 @@ graph TB
 - [Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal. 2019.](https://onlinelibrary.wiley.com/doi/10.1177/2050640619844125)
 - [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut. 2018.](https://gut.bmj.com/content/gutjnl/67/8/1380.full.pdf)
 - [HAS. Recherche d'anticorps dans la maladie cœliaque et suivi de l'observance du régime sans gluten. Janvier 2007. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/synthese_maladie_coeliaque.pdf)
-- [SNFGE. Maladie cœliaque](https://www.snfge.org/content/maladie-coeliaque)
+- [SNFGE. Maladie cœliaque](https://www.snfge.org/grand-public/maladies-digestives/maladie-coeliaque)
 - [Ameli. Intolérance au gluten.](https://www.ameli.fr/hauts-de-seine/assure/sante/themes/intolerance-gluten-maladie-coeliaque)
 
 ### Bibliographie en attente

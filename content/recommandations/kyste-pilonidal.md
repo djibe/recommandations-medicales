@@ -131,8 +131,8 @@ graph TB
 {{%sources%}}
 
 - [Johnson E et al. The American Society of Colon and Rectal Surgeons' Clinical Practice Guidelines for the Management of Pilonidal Disease. Diseases of the Colon & Rectum. 2019.](https://journals.lww.com/dcrjournal/Fulltext/2019/02000/The_American_Society_of_Colon_and_Rectal_Surgeons_.5.aspx)
-- [Spindler L et al. Le traitement laser du sinus pilonidal infecté : résultats à 1 an de la première cohorte française. SFHOD. 2019.](https://www.snfge.org/content/le-traitement-laser-du-sinus-pilonidal)
-- [Pillant-Le Moult H, Soudan D. Le sinus pilonidal. Conseil de pratique. SNFGE, SNFCP. 2017. (PDF)](https://www.snfge.org/download/file/fid/4856)
+- Spindler L et al. Le traitement laser du sinus pilonidal infecté : résultats à 1 an de la première cohorte française. SFHOD. 2019.
+- [Pillant-Le Moult H, Soudan D. Le sinus pilonidal. Conseil de pratique. SNFGE, SNFCP. 2017. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp014-2017_le_sinus_pilonidal_0.pdf)
 - [SNFCP. Le Kyste pilonidal.](https://www.snfcp.org/informations-maladies/fistules-anales-suppurations/le-kyste-pilonidal/)
 
 ### Bibliographie en attente

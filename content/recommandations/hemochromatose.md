@@ -191,7 +191,7 @@ Lorsque les saignées ne sont pas possibles, recours au traitement chélateur du
   - Correction d'un surpoids
   - [Vaccination hépatite B]({{< relref "hepatite-b.md" >}})
 - Déclarer l'[ALD n°17]({{< relref "affection-longue-duree.md" >}})
-- Informations du patient sur l'hémochromatose: [sites de la SNFGE](https://www.snfge.org/content/hemochromatose), [AFEF](https://afef.asso.fr/lhemochromatose/) et [Inserm](https://www.inserm.fr/dossier/hemochromatose-genetique/).
+- Informations du patient sur l'hémochromatose: [sites de la SNFGE](https://www.snfge.org/grand-public/maladies-digestives/hemochromatose), [AFEF](https://afef.asso.fr/lhemochromatose/) et [Inserm](https://www.inserm.fr/dossier/hemochromatose-genetique/).
 - Associations de patients: [France fer hémochromatose](https://www.hemochromatose.org) et [association hémochromatose France](https://www.hemochromatose.fr)
 
 Le [Centre de référence des hémochromatoses](https://centre-reference-fer-rennes.org) est à Rennes.
@@ -262,7 +262,7 @@ graph TB
 - {{< references/college-endocrino >}}
 - {{< references/afef-foie-non-invasif >}}
 - [Collège Français des Enseignants en Rhumatologie (COFER). Pathologie du fer chez l'adulte et l'enfant. Item 219 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-24-0.php)
-- [Brissot P. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. SNFGE et AFEF. 2019. (PDF)](https://www.snfge.org/download/file/fid/4845)
+- [Brissot P. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. SNFGE et AFEF. 2019. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/brissot_2019_0_0.pdf)
 - [Pilling LC et al. Common conditions associated with hereditary haemochromatosis genetic variants: cohort study in UK Biobank. BMJ. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334179/)
 - [Brissot P et al. Haemochromatosis. Nat Rev Dis Primers. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7775623/)
 - [HAS. Hémochromatose liée au gène HFE (type 1). Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_592228/fr/ald-n17-actes-et-prestations-sur-hemochromatose-actualisation-juin-2012)

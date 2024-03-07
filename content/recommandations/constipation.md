@@ -176,7 +176,7 @@ graph TB
 
 - {{< references/college-gastro >}}
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Constipation. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/constipation)
-- [Mion F. Constipation. Conseil de pratique. SNFGE et GFNG. 2018. (PDF)](https://www.snfge.org/download/file/fid/4872)
+- [Mion F. Constipation. Conseil de pratique. SNFGE et GFNG. 2018. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp035-constipation_2018.pdf)
 - [SNFCP. Prise en charge de la CONSTIPATION - version courte. Recommandations pour la pratique clinique. 2017. (PDF)](https://www.snfcp.org/wp-content/uploads/2017/Recommandations/Constipation-RPC-TC-2017.pdf)
 
 ### Bibliographie en attente

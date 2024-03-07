@@ -6,9 +6,9 @@ description = "Quels périphériques pour le PC du médecin ? Conseils sur les �
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T19:15:00+02:00"
 publishdate = "2022-05-15"
-lastmod = "2023-07-21"
+lastmod = "2024-03-07"
 specialites = []
-annees = "2023"
+annees = "2024"
 sources = []
 tags = []
 image = true
@@ -139,9 +139,10 @@ Classement composite d'après *LesNumerique*, *01Net* et autres, par ordre de qu
 Webcams avec une qualité d'image suffisante pour une téléconsultation et avec un microphone intégré.
 
 - [Elgato Facecam - 160€ (la meilleure, FullHD)](https://ledenicheur.fr/product.php?p=5828769)
-- [Logitech StreamCam - 105€ (FullHD)](https://ledenicheur.fr/product.php?p=5278071)
+- [Logitech StreamCam - 110€ (FullHD)](https://ledenicheur.fr/product.php?p=5278071)
 - [Logitech HD Pro Webcam C920S - 80€ (FullHD)](https://ledenicheur.fr/product.php?p=5064507)
 - [Logitech HD Pro Webcam C920 - 80€ (FullHD)](https://ledenicheur.fr/product.php?p=1027960)
+- [Razer Kiyo - 60€ (FullHD)](https://ledenicheur.fr/product.php?p=4535183)
 - [Microsoft LifeCam HD-3000 - 25€ (720p)](https://ledenicheur.fr/product.php?p=829887)
 {.list-group}
 

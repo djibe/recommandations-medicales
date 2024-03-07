@@ -138,7 +138,7 @@ Aucun examen complémentaire devant des signes typiques de reflux gastrique et l
 
 #### Indications à la fibroscopie pour un reflux
 
-[SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/download/file/fid/2775)
+[SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/information_patient_gastroscopie_diagnostique_sfed-snfge.pdf)
 
 Prise en charge diagnostique du reflux gastrique par endoscopie si:
 
@@ -326,17 +326,17 @@ Favorisée par l'obésité et une hernie hiatale.
 
 - [Tighe MP et al. Pharmacological treatment of gastro‐oesophageal reflux in children. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008550.pub3/full/fr)
 - [HAS. Bon usage des inhibiteurs de la pompe à protons (IPP). Septembre 2022.](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/fiche_bum_-_bon_usage_des_inhibiteurs_de_la_pompe_a_protons_ipp.pdf)
-- [Zerbib F. Traitement endoscopique du reflux gastro-œsophagien : la quête du graal continue. GastroScoop. 27/04/2022.](https://www.snfge.org/gastroscoop/traitement-endoscopique-du-reflux-gastro-oesophagien-la-quete-du-graal-continue)
+- Zerbib F. Traitement endoscopique du reflux gastro-œsophagien : la quête du graal continue. GastroScoop. 27/04/2022.
 - Prescrire Redaction. Reflux gastro-œsophagien chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - Prescrire Redaction. Reflux gastro-œsophagien chez un nourrisson. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - [Jouet P. Faut-il diminuer les FODMAPs en cas de RGO ? GastroScoop. 28/07/2021.](https://www.snfge.org/gastroscoop/faut-il-diminuer-les-fodmaps-en-cas-de-rgo)
 - [Rouillon JM. Traitement du RGO. SNFGE. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
-- [SNFGE. Reflux gastro-œsophagien (RGO)](https://www.snfge.org/content/reflux-gastro-oesophagien-rgo)
+- [SNFGE. Reflux gastro-œsophagien (RGO)](https://www.snfge.org/grand-public/maladies-digestives/reflux-gastro-oesophagien-rgo)
 - [Gyawali CP et al. Modern diagnosis of GERD: the Lyon Consensus. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6031267/)
 
 ### Bibliographie en attente
 
-- [Zerbib F. Prise en charge du reflux gastro-oesophagien. Conseil de pratique. SNFGE, GFNG. 2018. (PDF)](https://www.snfge.org/download/file/fid/4863)
+- [Zerbib F. Prise en charge du reflux gastro-oesophagien. Conseil de pratique. SNFGE, GFNG. 2018. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp021-2018zerbib_cp_rgo_revu_2018_plus_qcm_3_0.pdf)
 - [Fass R. Gastroesophageal Reflux Disease. N Engl J Med. 2022.](https://pubmed.ncbi.nlm.nih.gov/36170502/)
 - {{< references/college-gastro >}}
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Reflux gastro-œsophagien. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/reflux-gastro)

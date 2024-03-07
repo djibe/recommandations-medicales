@@ -209,6 +209,6 @@ graph TB
 - Prescrire Redaction. Signes d'appendicite chez les enfants. Rev Prescrire. 2021.
 - {{< references/spilf-2020 >}}
 - [HAS. Appendicectomie. Évaluation des technologies de santé. 2012.](https://www.has-sante.fr/jcms/c_1218019/fr/appendicectomie-elements-decisionnels-pour-une-indication-pertinente-rapport-d-evaluation)
-- [SNFGE. Appendicite aiguë.](https://www.snfge.org/content/appendicite-aigue-0)
+- [SNFGE. Appendicite aiguë.](https://www.snfge.org/grand-public/maladies-digestives/appendicite-aigue)
 
 {{%/sources%}}

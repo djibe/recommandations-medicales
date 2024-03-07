@@ -154,6 +154,6 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-[Mion F. Prise en charge de la dyspepsie. Conseil de pratique. SNFGE et GFNG. 2019. (PDF)](https://www.snfge.org/download/file/fid/4855)
+[Mion F. Prise en charge de la dyspepsie. Conseil de pratique. SNFGE et GFNG. 2019. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/dyspepsie_2019_0.pdf)
 
 {{%/sources%}}

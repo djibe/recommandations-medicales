@@ -375,7 +375,7 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler.
 - {{< references/calendrier-vaccinal >}}
 - [CMIT. Hépatites virales. Item 167. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-167.pdf)
 - {{< references/afef-foie-non-invasif >}}
-- [Sogni P; SNFGE, AFEF. Prise en charge d'un patient porteur chronique de l'AgHBs. Conseil de pratique. 2018. (PDF)](https://www.snfge.org/download/file/fid/4861)
+- [Sogni P; SNFGE, AFEF. Prise en charge d'un patient porteur chronique de l'AgHBs. Conseil de pratique. 2018. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp_019_vhb_mars_2018_0.pdf)
 - [HAS. Hépatite chronique B. Actes et prestations Affection de longue durée. 2016.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
 - [HAS. Place des tests rapides d'orientation diagnostique (TROD) dans la stratégie de dépistage de l'hépatite B. 2016](https://www.has-sante.fr/jcms/c_2063232/fr/place-des-tests-rapides-d-orientation-diagnostique-trod-dans-la-strategie-de-depistage-de-l-hepatite-b)
 - [HAS. Hépatite B Chronique. Guide Affection de longue durée. 2006.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)

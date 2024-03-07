@@ -250,7 +250,7 @@ graph TB
 
 - [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut. 2018.](https://gut.bmj.com/node/219278.full)
 - [Tarrerias AL et al. Régime alimentaire en cas de diarrhées. CREGG. 2010. (PDF)](https://www.cregg.org/wordpress/wp-content/uploads/2012/06/documents-tinymce-00004-fiche-diarrhe.pdf)
-- [SNFGE. Diarrhée chronique.](https://www.snfge.org/content/diarrhee-chronique)
+- [SNFGE. Diarrhée chronique.](https://www.snfge.org/grand-public/maladies-digestives/diarrhee-chronique)
 
 ### Bibliographie en attente
 

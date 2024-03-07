@@ -136,7 +136,7 @@ graph TB
 - Prescrire Redaction. Fissure anale. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [SNFCP. Fissure anale. Fiches diagnostiques. 2018.](https://www.snfcp.org/actualites/fiche-diag_fissure-anale/)
 - [SNFCP. Fissure anale (de l'enfant). Fiches diagnostiques. 2018.](https://www.snfcp.org/fiches-diagnostiques-2/pathologies-proctologiques-de-lenfant/fiche-diag_principales-pathologies-proctologiques-de-lenfant-fissure-anale/)
-- [Higuero T. Fissure anale. Conseil de pratique. SNFGE, SNFCP. 2017. (PDF)](https://www.snfge.org/download/file/fid/4852)
+- [Higuero T. Fissure anale. Conseil de pratique. SNFGE, SNFCP. 2017. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp009-2017_fissure_anale_0.pdf)
 - [Nelson RL et al. Non surgical therapy for anal fissure. Cochrane Database of Systematic Reviews. 2012.](https://www.cochrane.org/CD003431/COLOCA_non-surgical-therapy-for-anal-fissure.)
 - [SNFCP. La fissure anale.](https://www.snfcp.org/informations-maladies/fissure-anale/la-fissure-anale/)
 

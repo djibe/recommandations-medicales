@@ -182,7 +182,7 @@ graph TB
 
 - {{< references/college-gastro >}}
 - [Van Tol R et al. European Society of ColoProctology: guideline for haemorrhoidal disease. Colorectal Dis. 2020. (payant)](https://onlinelibrary.wiley.com/doi/abs/10.1111/codi.14975)
-- [Siproudhis L, Higuero T. Traitements de la maladie hémorroïdaire. Conseil de pratique. SNFGE, SNFCP. 2020. (PDF)](https://www.snfge.org/download/file/fid/4860)
+- [Siproudhis L, Higuero T. Traitements de la maladie hémorroïdaire. Conseil de pratique. SNFGE, SNFCP. 2020. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp018-_hemorroides_2020_0.pdf)
 - Prescrire Redaction. Hémorroïdes. Premiers Choix Prescrire. Rev Prescrire. 2020.
 - [Davis BR et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Hemorrhoids. Dis Colon Rectum. 2018.](https://journals.lww.com/dcrjournal/Fulltext/2018/03000/The_American_Society_of_Colon_and_Rectal_Surgeons.7.aspx)
 - [Higuero T et al. Recommandations pour la pratique clinique du traitement de la maladie hémorroïdaire (version courte). SNFCP. 2013. (PDF)](https://www.snfcp.org/wp-content/uploads/2017/Recommandations/RPC-MALADIE-HEMORROIDAIRE.pdf)
