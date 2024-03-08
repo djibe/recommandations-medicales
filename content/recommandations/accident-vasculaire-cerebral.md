@@ -220,7 +220,9 @@ La prise en charge est identique après un accident ischémique transitoire (AIT
 - Si diabète
   - AVC < 6 mois: {{< modal-btn modal-hba1c >}}HbA1c cible 8%{{< /modal-btn >}}
   - Après 6 mois: {{< modal-btn modal-hba1c >}}cible réadaptée selon le profil{{< /modal-btn >}}
-- {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}} {{%class%}}(40%){{%/class%}}
+- Comorbidités
+  - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}} {{%class%}}(40%){{%/class%}}
+  - Territoire vertébro-basilaire: rechercher une [maladie de Horton]({{< relref "arterite-cellules-geantes-horton.md" >}})
 - [Déclarer l'ALD n°1]({{< relref "affection-longue-duree.md" >}})  
   Critères: séquelles neurologiques nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
 - Éducation du patient: mode de vie, réagir, traitements

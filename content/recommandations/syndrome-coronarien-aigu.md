@@ -238,12 +238,13 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
 - Colchicine 0,5 mg/j  
   Pourrait être considérée en cas de facteurs mal contrôlés ou de nouvel événement CV.
 - Développement d'un syndrome coronarien chronique: voir [chapitre dédié]({{< relref "syndrome-coronarien-chronique.md" >}})
-- Bilan complémentaire: échodopplers des TSA, AAA et membres inférieurs
-- Suivi cardiologique spécialisé au moins annuel
-- Épreuve d'effort tous les 2 ans (*HAS 2016*)
-- Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) (SAHOS) par polygraphie ventilatoire
-- Rechercher une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})
-- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Bilan complémentaire
+  - Échodopplers des TSA, AAA et membres inférieurs
+  - Suivi cardiologique spécialisé au moins annuel
+  - Épreuve d'effort tous les 2 ans (*HAS 2016*)
+  - Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) (SAHOS) par polygraphie ventilatoire
+  - Rechercher une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})
+  - Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 - Si diabète: {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}}
 - Vérifier l'observance (seulement 66%)
 - Déclarer l'[ALD n°5]({{< relref "affection-longue-duree.md" >}})  
