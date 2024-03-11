@@ -1,0 +1,29 @@
+<div class="card-body card-util rounded-lg border my-5">
+  <div class="d-block d-lg-flex form-corrected">
+    <div class="form-group floating-label textfield-box form-ripple mr-3">
+      <label for="input-calcemia">Calcémie (mmol/L)</label>
+      <input class="form-control" id="input-calcemia" type="number" min="0" max="50" step="0.1">
+    </div>
+    <div class="form-group floating-label textfield-box form-ripple mr-3">
+      <label for="input-albumine">Albuminémie (g/L)</label>
+      <input class="form-control" id="input-albumine" type="number" min="10" max="100" step="1">
+    </div>
+    <div>
+      <label for="input-corrected">Calcémie corrigée</label>
+      <input class="form-control" id="input-corrected" type="text" placeholder="Préciser les valeurs" readonly>
+    </div>
+  </div>
+</div>
+{{ $script := `
+  // Outil de calcul de la calcémie corrigée by djibe
+  window.addEventListener( 'load', () => {
+    const calcemia = document.getElementById('input-calcemia')
+    const albumine = document.getElementById('input-albumine')
+    const corrected = document.getElementById('input-corrected');
+    [calcemia, albumine].forEach(elem => elem.addEventListener('input', () => { calcCorrected() }))
+    const calcCorrected = () => {
+    if (calcemia.value > 0 && albumine.value > 0) {
+      corrected.value = (0.025 * (40 - parseInt(albumine.value)) + parseFloat(calcemia.value)).toFixed(2) + ' mmol/L' }
+    }
+  })` }}
+<script type="module" async>{{ $script | safeJS }}</script>

@@ -63,7 +63,7 @@ Devant des signes évocateurs d'infection urinaire (IU) chez l'immunocompétent,
 
 L'ECBU est réalisé avant l'antibiothérapie.
 
-**NB.** Conservation possible des urines 12 heures à 4°C (*Collège*).
+**NB.** Conservation possible des urines 12 heures à 4°C. – *Collège*
 
 #### Prise en charge d'un ECBU positif
 
@@ -103,7 +103,7 @@ Rechercher des signes de gravité devant toute infection urinaire avec des signe
 
 ### Facteurs de risque de complication d'une infection urinaire
 
-> << Le diabète, type 1 ou 2, n'est pas un facteur de risque de complication >> (*HAS 2021*)
+> << Le diabète, type 1 ou 2, n'est pas un facteur de risque de complication >>. – *HAS 2021*
 {.alert .alert-info}
 
 {{< clinique/iu-fdr-complication >}}
@@ -136,7 +136,7 @@ ECBU uniquement en l'absence d'amélioration à 72 heures, récidive dans les 2 
 **En cas de BU négative**, rechercher un diagnostic différentiel: mycose, urétrite, sécheresse cutanéo-muqueuse.  
 Une BU peut être réalisée en pharmacie avec orientation vers le médecin en cas de positivité.
 
-> En cas de cystite aiguë sur **sonde urinaire**: 3 jours d'antibiothérapie – *SPILF 2020*
+> En cas de cystite aiguë sur **sonde urinaire**: 3 jours d'antibiothérapie. – *SPILF 2020*
 {.alert .alert-info}
 
 ### Cystite aiguë à risque de complication

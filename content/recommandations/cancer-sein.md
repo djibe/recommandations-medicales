@@ -374,6 +374,9 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: ch
 
 ### Consignes de précautions pour le côté d'un curage axillaire (lymphœdème)
 
+> Prévention du lymphœdème: << Pas de contre-indication à: réaliser un prélèvement sanguin, une injection intraveineuse, une mesure de la pression artérielle, un vol en avion, poursuivre les activités de la vie quotidienne, y compris le port de charge >> – *INCa 2022*
+{.alert .alert-warning}
+
 Lymphœdème
 : En clinique: différence de périmètre brachial ou avant-brachial de 2 cm.
 
@@ -390,9 +393,6 @@ Prise en charge du lymphœdème (*INCa 2022*):
 - Désinfection immédiate si blessure
 - Gants de protection si activité à risque de blessure
 - Savoir identifier les signes de lymphangite et consulter en urgence devant: œdème augmenté, rougeur, chaleur, fièvre
-
-> << Pas de contre-indication à: réaliser un prélèvement sanguin, une injection intraveineuse, une mesure de la pression artérielle, un vol en avion, poursuivre les activités de la vie quotidienne, y compris le port de charge >> – *INCa 2022*
-{.alert .alert-warning}
 
 ### Prothèses mammaires externes
 

@@ -313,7 +313,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
 **La prise en charge de l'insuffisance cardiaque à fraction d'éjection diminuée a 3 objectifs:** réduire la mortalité, les hospitalisations pour décompensation, améliorer les capacités fonctionnelles et la qualité de vie.
 
 - {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} dose maximale  
-  Remplacé par [valsartan/sacubitril](https://www.ema.europa.eu/en/documents/product-information/entresto-epar-product-information_fr.pdf) (Entresto®) si insuffisant ou mal toléré.
+  Remplacé par [valsartan/sacubitril](https://ec.europa.eu/health/documents/community-register/2023/20230526159257/anx_159257_fr.pdf) (Entresto®) si insuffisant ou mal toléré.
 - {{< modal-btn modal-bb >}}Bêta-bloquant{{< /modal-btn >}} dose maximale  
   En maintenant la FC ≥ 50/min ou sur avis cardiologique en-dessous.
 - Anti-aldostérone spironolactone ou éplérénone
@@ -327,9 +327,9 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
 - Mesures hygiéno-diététiques
   - Régime sans sel (< 5 g/j)
   - [Surveillance du poids x 1-2/semaine](https://www.heartfailurematters.org/wp-content/uploads/2021/02/Surveiller-vos-signes-vitaux.pdf), 3-4/semaine si {{< modal-btn score-nyha >}}NYHA 3-4{{< /modal-btn >}}
-- [ALD n°5]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°5]({{< relref "affection-longue-duree.md" >}})
 
-Les anti-inflammatoires **AINS**, anti-COX2, le sotalol, le diltiazem, le vérapamil et la flécaïne sont contre-indiqués
+Les anti-inflammatoires **AINS**, anti-COX2, le sotalol, le diltiazem, le vérapamil et la flécaïne sont contre-indiqués.
 {.alert .alert-warning}
 
 ### Autres traitements de l'insuffisance cardiaque à fraction d'éjection diminuée (ICFEd)
@@ -356,7 +356,7 @@ Peu de traitements ont fait leurs preuves pour la prise en charge de l'insuffisa
 ### Traitements à considérer
 
 - {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} ou {{< modal-btn modal-ara2-ic >}}ARA2{{< /modal-btn >}} à dose maximale  
-  Remplacé par [valsartan/sacubitril](https://www.ema.europa.eu/en/documents/product-information/entresto-epar-product-information_fr.pdf) (Entresto®) si insuffisant.
+  Remplacé par [valsartan/sacubitril](https://ec.europa.eu/health/documents/community-register/2023/20230526159257/anx_159257_fr.pdf) (Entresto®) si insuffisant.
 - {{< modal-btn modal-bb >}}Bêta-bloquant{{< /modal-btn >}} dose maximale  
   En maintenant la FC ≥ 50/min ou sur avis cardiologique en-dessous.
 - Anti-aldostérone spironolactone ou éplérénone

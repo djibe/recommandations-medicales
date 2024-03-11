@@ -316,7 +316,7 @@ window.addEventListener('load', () => {
 | [AAA]({{< relref "anevrysme-aorte-abdominale.md" >}}) | Échographie si homme 65-75 ans et tabac ou ATCD familial AAA 1<sup>er</sup> degré, AOMI | ACC/AHA 2022 |
 | AINS         | Éviter toute prise                                                                               | Communiqué ESC 2022      |
 | AOD (rivaroxaban) | Aspirine + AOD à considérer si coronaropathie stable ou AOMI/artériopathie et risque hémorragique faible | ADA 2023    |
-| [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) | Symptômes + pouls + cutané et/ou IPS réguliers.  IPS si ulcération<br>Symptômes + pouls annuels, IPS au diagnostic puis /5-10 ans | ESC 2023 diabetes<br>ESC 2019 diabetes |
+| [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) | Symptômes + pouls + cutané et/ou IPS réguliers.  IPS si ulcération | ESC 2023 diabetes |
 | Aspirine prev primaire | 75-100 mg/j pourrait être considéré (sauf CI)<br>75-160 mg/j envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} ou {{< modal-btn modal-coronaire-diabete >}}coronaire{{< /modal-btn >}} sans risque de saignement | ESC 2023<br>ADA 2023, ESC 2021 |
 | Aspirine prev secondaire | 75-100 mg/j si coronarien ou revascularisation<br>75-160 mg/j ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ESC 2023 diabetes<br>ADA 2023, ESC 2019 diabetes |
 | [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) | Femmes à haut risque: éducation, correction des FRCV  | ESC 2023 diabetes        |
@@ -326,12 +326,12 @@ window.addEventListener('load', () => {
 | Chirurgie bariatrique | -65 ans avec IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH OU IMC ≥ 30 en dernier recours | HAS 2022 et 2009 obésité |
 | [Covid-19]({{< relref "covid-19.md" >}}) | Antiviral en urgence si infection Covid-19                           | HAS 2023                 |
 | Dentaire     | Suivi annuel                                                                                     | HAS 2014, IDF 2009       |
-| [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) | Interrogatoire systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018             |
+| [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) | Interrogatoire systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018 |
 | ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
 | [Épreuve d'effort]({{< relref "epreuve-effort.md" >}}) | [Angor]({{< relref "syndrome-coronarien-chronique.md" >}}), dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans). Considérer si MCV et reprise effort | ESC 2023, ADA 2023, SFD 2021 CAD |
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
 | [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) | Tout âge: dépistage opportuniste par pouls/ECG. +75 ans: ECG systématique à considérer | ESC 2023 diabetes |
-| [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) | Mesure avec brassard adapté tous les 1 à 3 ans | ESC/ESH 2021     |
+| [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) | Dépistage avec brassard adapté tous les 1 à 3 ans | ESH 2023     |
 | [Incontinence urinaire]({{< relref "incontinence-urinaire-femme.md" >}}) | Dépistage à l'interrogatoire         | Anaes 2003               |
 | [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | Dépistage systématique des symptômes et signes et (NT-pro)BNP si suspicion<br>(NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ESC 2023 diabetes<br>ADA 2022 |
 | [Stéatopathie métabolique]({{< relref "steatose-hepatique-et-nash.md" >}}) | Dépistage par échographie abdominale | AFEF 2020              |
@@ -343,7 +343,7 @@ window.addEventListener('load', () => {
 | [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) | Envisager le dépistage chez la femme          | ESHRE 2023               |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
 | [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) | Étayer si: syndrome plurimétabolique, diabète déséquilibré sans cause évidente, symptômes | PNDS Cushing 2022 |
-| [Vaccins]({{< relref "vaccination.md" >}}) | Covid-19, [grippe]({{< relref "grippe.md" >}}), {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
+| [Vaccins]({{< relref "vaccination.md" >}}) | [Covid-19]({{< relref "covid-19.md" >}}), [grippe]({{< relref "grippe.md" >}}), {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
 | Vitamine B12 | Si metformine: dosage après 4 ans de traitement<br>Surveillance régulière et correction          | KDIGO 2022 diabetes<br>ADA/EASD 2022 |
 {{< /table >}}
 

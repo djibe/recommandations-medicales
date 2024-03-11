@@ -39,6 +39,23 @@ Syndrome d'apnée du sommeil (SAS)
 : Survenue pendant le sommeil d'interruptions anormalement fréquentes de la ventilation (*apnées*) ou de la réduction de celle-ci (*hypopnées*), entraînant une *hypoxémie* et des *micro-éveils* associés à des symptômes.  
 Il a une origine *obstructive* (SAOS), *centrale* (SACS) ou *mixte*.
 
+Index Apnées-Hypopnées (IAH)
+: ({{%lang%}}Apnea-hypopnea index AHI{{%/lang%}})
+: Le décompte est électro-physiologique et définit la sévérité du SAS. **On ne considère que les IAH ≥ 15**.
+: Il est calculé comme la somme des événements d'apnées et d'hypopnées = nombre d'apnées + nombre d'hypopnées / nombre d'heures de sommeil enregistrés.
+
+Insomnie
+: Trouble persistant portant sur l'initiation, la durée, le maintien ou la qualité du sommeil, qui se manifeste en dépit de circonstances et d'occasions satisfaisantes pour le sommeil et qui retentit sur le fonctionnement de la personne au cours de la journée.
+
+Somnolence diurne
+: Incapacité à rester éveillé et alerte pendant les périodes de veille majeures de la journée, ce qui entraîne des épisodes de besoin irrépressible de dormir ou des accès de somnolence ou de sommeil non intentionnels.
+
+Hypersomnolence
+: Symptôme d'une somnolence excessive.
+
+Hypersomnie
+: Se rapporte à des maladies spécifiques.
+
 {{%info%}}
 
 ### Complications des apnées du sommeil
@@ -56,23 +73,6 @@ Il a une origine *obstructive* (SAOS), *centrale* (SACS) ou *mixte*.
 
 Le traitement des apnées réduit significativement les risques.
 {{%/info%}}
-
-Index Apnées-Hypopnées (IAH)
-: ({{%lang%}}Apnea-hypopnea index AHI{{%/lang%}})
-: Le décompte est électro-physiologique et définit la sévérité du SAS. **On ne considère que les IAH ≥ 15**.
-: Il est calculé comme la somme des événements d'apnées et d'hypopnées = nombre d'apnées + nombre d'hypopnées / nombre d'heures de sommeil enregistrés.
-
-Insomnie
-: Trouble persistant portant sur l'initiation, la durée, le maintien ou la qualité du sommeil, qui se manifeste en dépit de circonstances et d'occasions satisfaisantes pour le sommeil et qui retentit sur le fonctionnement de la personne au cours de la journée.
-
-Somnolence diurne
-: Incapacité à rester éveillé et alerte pendant les périodes de veille majeures de la journée, ce qui entraîne des épisodes de besoin irrépressible de dormir ou des accès de somnolence ou de sommeil non intentionnels.
-
-Hypersomnolence
-: Symptôme d'une somnolence excessive.
-
-Hypersomnie
-: Se rapporte à des maladies spécifiques.
 
 ### Facteurs de risque d'apnées du sommeil
 
@@ -129,9 +129,6 @@ SHRVAS
 
 TILE
 : test itératif de latence à l'endormissement. Test de mesure objective de la somnolence.
-
-TRS
-: troubles respiratoires du sommeil
 
 VEMS
 : volume expiratoire maximal pendant la 1<sup>re</sup> seconde
@@ -341,7 +338,7 @@ D'autres tests peuvent être demandés selon les suspicions cliniques:
 {{% /collapse %}}
 {{%collapse "Traitement du SAOS" %}}
 
-Lea prise en charge du syndrome d'apnées du sommeil relève exclusivement du spécialiste.  
+La prise en charge du syndrome d'apnées du sommeil relève exclusivement du spécialiste.  
 Il consiste en une ventilation à pression positive continue (PPC) ou un orthèse d'avancée mandibulaire (OAM).
 
 [Liste des centres homologués SFRMS par région](https://www.sfrms-sommeil.org/carte-des-centres-agrees/)
@@ -458,7 +455,7 @@ Environ 10% des patients peuvent avoir une somnolence résiduelle malgré un tra
 
 ### Critères diagnostiques pour le SAOS de l'adulte ICSD-3
 
-(A et B) ou C satisfont aux critères (ICSD-3 2014)
+(A et B) ou C satisfont aux critères (ICSD-3 2014 - International Classification of Sleep Disorders)
 
 1. Présence ≥ 1 vrai parmi:
     1. Plainte de somnolence diurne, sommeil non réparateur, fatigue ou d'insomnie
@@ -469,6 +466,8 @@ Environ 10% des patients peuvent avoir une somnolence résiduelle malgré un tra
 RDI ≥ 5 (événements respiratoires principalement obstructifs: apnées obstructives ou mixtes, hypopnées ou ERIM) par heure de sommeil (PSG) ou heure d'enregistrement (PV)
 3. PSG ou PV ambulatoire mesurent:  
 RDI ≥ 15 (événements respiratoires principalement obstructifs: apnées, hypopnées ou ERIM) par heure de sommeil (PSG) ou heure d'enregistrement (PV)
+
+> **RDI =** Respiratory Disturbance Index. Nombre d'apnées + hypopnées + ERIM / temps de sommeil total.
 
 Les critères pour le SAOS de l'enfant sont différents.
 

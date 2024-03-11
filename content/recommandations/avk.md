@@ -142,7 +142,7 @@ Reprendre l'AVK selon risque de récidive et indication initiale de l' AVK.
 - Injections intra-musculaires
 
 {{% /collapse %}}
-{{%collapse "Intervention programmée avec arrêt ou relais des AVK" %}}
+{{%collapse "Arrêt ou relais des AVK" %}}
 
 Rythme d'arrêt des AVK avant une intervention à déterminer avec l'équipe hospitalière. Savoir si on réalise un relais héparine ou un arrêt simple.
 
@@ -173,7 +173,7 @@ Rythme d'arrêt des AVK avant une intervention à déterminer avec l'équipe hos
 
 **NB.** Pas d'utilisation d'HBPM curative en 1 seule injection (Innohep®, Fondaparinux®)
 
-### Repris des AVK en post-opératoire
+### Reprise des AVK en post-opératoire
 
 Lors du retour à domicile, si l'INR n'est pas dans la cible, l'héparine à dose curative est poursuivie jusqu'à obtenir 2 INR successifs dans la cible.
 
@@ -268,7 +268,7 @@ inexpliqué
 
 ### Système d'automesure des AVK: CoaguChek INRange
 
-TROD INR avec résultat fiable en une minute.
+TROD (test rapide d'orientation diagnostique) INR avec résultat fiable en une minute.
 
 #### Indication au remboursement du système d'autocontrôle de l'INR
 

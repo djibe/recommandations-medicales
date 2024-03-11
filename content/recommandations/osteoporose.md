@@ -382,8 +382,10 @@ La prise en charge médicamenteuse de l'ostéoporose est recommandée dans les s
 
 Critères de choix du traitement: [espérance de vie suffisante]({{< relref "esperance-vie-age-france.md" >}}), antécédent de fracture, son type, son ancienneté, l'âge, les autres antécédents, le {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} et la DMO. Avis rhumatologique si besoin.
 
-**Objectif minimal:** absence de perte osseuse (perte > 0,03 g/cm² de DMO).  
-**DMO très basse et fracture:** cible T-score > -2,5 (voire -2).
+**Objectif minimal:** absence de perte osseuse (perte > 0,03 g/cm² de DMO).
+
+**DMO très basse et fracture:** T-score cible > -2,5 (voire -2).
+{.alert .alert-info}
 
 <div class="card card-util card-hover card-osteoporose my-3 my-xl-5">
   <h3 class="card-header card-title m-0">Choix du traitement anti-ostéoporotique</h3>

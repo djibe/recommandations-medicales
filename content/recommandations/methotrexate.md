@@ -37,7 +37,7 @@ todo = "img, quantiféron"
 En cas de grossesse sous méthotrexate, adresser au diagnostic anténatal en semi-urgence
 {.alert .alert-warning}
 
-### Liste des contre-indications au méthotrexate
+### Contre-indications au méthotrexate
 
 - [Grossesse]({{< relref "grossesse.md" >}})  
   Possible sans délai après l'arrêt de la contraception ([CRAT](http://www.lecrat.fr/3331/)).

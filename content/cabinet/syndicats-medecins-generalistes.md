@@ -1,7 +1,7 @@
 +++
 title = "Les syndicats de médecins généralistes"
 noindex = true
-description = "La liste des syndicats de médecins généralistes de France"
+description = "La liste des syndicats de médecins généralistes de France: CSMF, Fédération des Médecins de France FMF, MG France, ReAGJIR, SML, SNJMG ..."
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-11T12:30:00+02:00"
 publishdate = "2023-04-11"
