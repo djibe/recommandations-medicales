@@ -28,7 +28,7 @@
   --yellow: #ffeb3b;
   --primary: #4150f5;
   --primary-dark: #292ed1;
-  --primary-light: #a6acfc;
+  --primary-light: #ecedfe;
   --secondary: #e87500;
   --secondary-dark: #c05500;
   --secondary-light: #ffca7f;
@@ -250,6 +250,7 @@ figure {
 
 img {
   border-style: none;
+  font-style: italic;
   vertical-align: middle;
 }
 
@@ -3886,6 +3887,11 @@ input:disabled + .chip {
   border: 1px solid #e1e1e1;
 }
 
+.table-bordered td,
+.table-bordered th {
+  border-right: 1px solid #e1e1e1;
+}
+
 .card > .table-bordered {
   border: 0;
 }
@@ -3915,7 +3921,7 @@ input:disabled + .chip {
 .table-primary,
 .table-primary > td,
 .table-primary > th {
-  background-color: #a6acfc;
+  background-color: #ecedfe;
   color: rgba(0, 0, 0, 0.87);
 }
 
@@ -4318,7 +4324,7 @@ input:disabled + .chip {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-end;
-  padding: 0.5rem 0.5rem;
+  padding: 1.5rem 1.5rem;
 }
 
 .modal-footer:first-child {
@@ -4329,6 +4335,10 @@ input:disabled + .chip {
 .modal-footer:last-child {
   border-bottom-right-radius: 1.75rem;
   border-bottom-left-radius: 1.75rem;
+}
+
+.modal-body + .modal-footer {
+  padding: 0 1.5rem 1.5rem;
 }
 
 .modal-footer > * {
@@ -4691,7 +4701,7 @@ input:disabled + .chip {
 }
 
 .list-group-item-primary {
-  background-color: #a6acfc;
+  background-color: #ecedfe;
   color: rgba(0, 0, 0, 0.87);
 }
 
@@ -8740,7 +8750,7 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 }
 
 .bg-primary-light {
-  background-color: #a6acfc !important;
+  background-color: #ecedfe !important;
 }
 
 .bg-secondary-dark {

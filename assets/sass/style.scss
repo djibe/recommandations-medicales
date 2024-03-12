@@ -2,7 +2,6 @@
 
 :root {
   --bg-rgb: 65 80 245;
-  --bg-hex: #ecedfe;
   --bg-secondary-rgb: 232 117 0;
   --bg-secondary-hex: #fef3de;
   --article: #af34dc;
@@ -178,7 +177,7 @@ main {
 }
 
 mark {
-  background-color: var(--bg-hex);
+  background-color: var(--primary-light);
 }
 
 .taxonomyTerms {
@@ -470,7 +469,7 @@ a[data-toggle="modal"]:not(.no-icon)::after {
   }
 
   span.text-primary {
-    background-color: var(--bg-hex);
+    background-color: var(--primary-light);
     border-radius: 42px;
     padding: .25rem 1rem;
     color: var(--primary-dark)!important;
@@ -513,7 +512,7 @@ article {
 .home-icon {
   padding: 1rem;
   color: var(--primary);
-  background-color: var(--bg-hex);
+  background-color: var(--primary-light);
   background-blend-mode: multiple;
   border-radius: 1rem;
   mix-blend-mode: darken;
@@ -549,7 +548,7 @@ article {
   gap: .5rem;
 
   > .card {
-    background-color: var(--bg-hex);
+    background-color: var(--primary-light);
     flex: 1 1 160px;
   }
 }
@@ -590,7 +589,7 @@ article {
   }
 
   .title-container {
-    background-color: var(--bg-hex);
+    background-color: var(--primary-light);
 
     &.bg-secondary {
       background-color: var(--bg-secondary-hex) !important;
@@ -601,7 +600,7 @@ article {
   }
 
   .icon-container {
-    border: 1px solid var(--bg-hex);
+    border: 1px solid var(--primary-light);
 
     img {
       max-height: 14rem;
@@ -663,7 +662,7 @@ article {
     text-decoration-skip-ink: auto;
 
     &:hover {
-      background-color: var(--bg-hex);
+      background-color: var(--primary-light);
       color: var(--primary);
     }
   }
