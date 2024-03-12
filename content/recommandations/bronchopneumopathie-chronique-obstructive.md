@@ -276,7 +276,7 @@ Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mm
 - NT-proBNP, D-dimères pour éliminer une part cardiaque
 
 {{% /collapse %}}
-{{%collapse "Indications à l'hospitalisation et sortie d'hospitalisation" %}}
+{{%collapse "Critères d'hospitalisation et suivi à la sortie" %}}
 
 {{%info%}}
 
@@ -477,7 +477,7 @@ Opioïdes faible dose par le pneumologue (*SPLF 2021*).
 
 ### 3. Hospitaliser ?
 
-Voir *Indications à l'hospitalisation*.
+Voir *Critères d'hospitalisation*.
 
 Joindre le courrier détaillé des traitements en cours, contexte social, derniers bilans, personne de confiance, [directives anticipées]({{< relref "directives-anticipees.md" >}}).
 

@@ -340,19 +340,18 @@ Rééducation hospitalière envisageable pour une Évaluation spécialisée cour
 
 ### Message de prévention
 
+> << AVC, agir vite c'est important >>
+
 L'accident vasculaire cérébral se manifeste soudainement par:
 
 - une déformation de la bouche  
-ex: lorsque la personne sourit le sourire n'est pas symétrique.
+  ex: lorsque la personne sourit le sourire n'est pas symétrique.
 - une faiblesse d'un côté du corps, bras ou jambe  
-ex: lorsqu'on demande à la personne de lever les deux bras devant elle, l'un des bras ne peut être levé ou rester en hauteur, il retombe.
+  ex: lorsqu'on demande à la personne de lever les deux bras devant elle, l'un des bras ne peut être levé ou rester en hauteur, il retombe.
 - des troubles de la parole  
-ex: lorsqu'on demande à la personne de répéter une phrase, elle a des difficultés à parler ou à comprendre.
+  ex: lorsqu'on demande à la personne de répéter une phrase, elle a des difficultés à parler ou à comprendre.
 
-Si vous êtes témoin d'un de ces 3 signes, réagissez. Appelez immédiatement le SAMU, faites le {{<phone>}}15{{</phone>}}.
-<< AVC, agir vite c'est important >>
-
-Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de troubles de l'équilibre, de maux de tête intenses ou d'une baisse de vision.
+Si vous êtes témoin d'un de ces 3 signes, réagissez. Appelez immédiatement le SAMU, faites le {{<phone>}}15{{</phone>}}. Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de troubles de l'équilibre, de maux de tête intenses ou d'une baisse de vision.
 
 {{% /collapse %}}
 {{% collapse "Prise en charge post AVC" "show" %}}

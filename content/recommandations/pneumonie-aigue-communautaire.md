@@ -25,7 +25,7 @@ flowchart = true
 {{%article-summary%}}
 
 - Diagnostic de pneumonie aiguë communautaire (PAC): examen clinique pour relever les terrains à risques de mortalité et les signes de gravité
-- [Critères d'hospitalisation stricts](#critères-dhospitalisation-pour-pneumonie) pour la pneumonie qui reste une infection grave: CRB65 (confusion FR ≥ 30/min, PAS < 90 ou PAD ≤ 60 mmHg, âge +65 ans), signes de gravité et facteurs de risque selon l'âge
+- [Critères d'hospitalisation stricts](#critères-dhospitalisation) pour la pneumonie qui reste une infection grave: CRB65 (confusion FR ≥ 30/min, PAS < 90 ou PAD ≤ 60 mmHg, âge +65 ans), signes de gravité et facteurs de risque selon l'âge
 - La prise en charge de la pneumonie aiguë communautaire est possible en ambulatoire en l'absence de ces critères
 - La radiographie thoracique de face est systématique
 - Bilan complémentaire en cas de germe encapsulé chez le jeune ou suspicion de bactérie atypique
@@ -89,7 +89,11 @@ En l'absence de critères d'hospitalisation:
 - ou ceftriaxone IM 1g
 - voire lévofloxacine 0,5-1 g x 1/j
 
+---
+
 Échec à 48-72 heures: ajout macrolide 14 jours (sauf si lévofloxacine) ou hospitalisation (CEP).
+
+---
 
 Pneumopathie d'inhalation de l'enfant: Amoxicilline-acide clavulanique 1 dose/kg x 3/j pendant 7 jours
 
@@ -98,7 +102,11 @@ Pneumopathie d'inhalation de l'enfant: Amoxicilline-acide clavulanique 1 dose/kg
 
 Amoxicilline-acide clavulanique 1g x 3/j pendant 7 jours
 
+---
+
 Alternative: pristinamycine 1g x 3/j pendant 7 jours (ou lévofloxacine 0,5 - 1 g/j)
+
+---
 
 Si échec à 48-72 heures: hospitalisation
 

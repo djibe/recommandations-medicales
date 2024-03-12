@@ -524,13 +524,14 @@ window.addEventListener('load', function() {
   Conditions: femme ménopausée avant 75 ans sans risque cardiovasculaire.
 
 {{% /collapse %}}
-{{%collapse "Suivi du patient ostéoporotique" %}}
+{{%collapse "Suivi de la femme ostéoporotique" %}}
 
 Réévaluation de la prise en charge de l'ostéoporose:
 
-- {{< modal-btn modal-risque-fracture >}}Risque de fracture{{< /modal-btn >}}
-- {{< modal-btn modal-risque-chute >}}Risque de chute{{< /modal-btn >}}
-- Taille, poids, IMC annuels
+- Clinique:
+  - Taille, poids, IMC annuels
+  - {{< modal-btn modal-risque-fracture >}}Risque de fracture{{< /modal-btn >}}
+  - {{< modal-btn modal-risque-chute >}}Risque de chute{{< /modal-btn >}}
 - Observance du traitement
 - Ostéodensitométrie tous les (2-)3 ans et à chaque modification du traitement
   - Contrôle de l'absence de perte osseuse (perte > 0,03 g/cm² de DMO)
