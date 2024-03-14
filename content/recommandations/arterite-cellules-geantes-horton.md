@@ -212,7 +212,7 @@ Le spécialiste peut avoir recours à des traitements complémentaires: [méthot
 
 Le suivi de l'artérite à cellules géantes est pluridisciplinaire:
 
-- Suivi spécialisé (rhumatologue, interniste) et ophtalmologique
+- Suivi spécialisé: rhumatologue, interniste et ophtalmologique
 - Clinique
   - Pression artérielle, céphalées, symptômes, palpation des tempes
   - Claudication, pouls, risque cardiovasculaire {{< scores/heartscore >}}

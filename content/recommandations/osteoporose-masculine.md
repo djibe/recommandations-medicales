@@ -29,8 +29,9 @@ flowchart = true
 4. Avis rhumatologique si: -70 ans, hypogonadisme, T-score proche de l'indication de traiter, contre-indication au traitement, après 2-3 ans de traitement
 5. Prise en charge par biphosphonate: bilan bucco-dentaire, [zolédronate 5 mg/100 mL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) (tériparatide SC possible pour ≥ 2 fractures vertébrales)  
   Au moins 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)
-1. Contrôle de l'ostéodensitométrie à 2-3 ans + avis rhumatologique
-2. Nouveau contrôle de la DXA 2 ans après l'arrêt du traitement
+6. {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} et souvent supplémenter en calcium/vitamine D
+7. Contrôle de l'ostéodensitométrie à 2-3 ans + avis rhumatologique
+8. Nouveau contrôle de la DXA 2 ans après l'arrêt du traitement
 
 ### Prévention pour tous {.typography-overline .mb-2}
 
@@ -122,6 +123,7 @@ Rechercher les facteurs de risque de fracture chez l'homme +70 ans:
     1. Êtes-vous tombé dans la dernière année et si oui combien avez-vous fait de chutes et avez-vous eu des blessures ?
     2. Avez-vous peur de tomber ?
     3. Vous sentez-vous instable en marchant ou en vous levant ?
+- {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}}
 - Signes négatifs: AEG, douleurs osseuses atypiques
 
 ### Examen clinique
@@ -321,5 +323,10 @@ Fracture ayant atteint: {{< clinique/osteoporose-fracture-severe >}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 
 {{< traitements/regime-mediterraneen >}}
+
+{{% /modal %}}
+{{% modal title="Évaluation des apports en calcium" id="modal-apports-calcium"%}}
+
+{{< scores/questionnaire-grio >}}
 
 {{% /modal %}}

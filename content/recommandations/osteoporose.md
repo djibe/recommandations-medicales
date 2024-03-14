@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. CORTET et Dr T. FUNCK-BRENTANO (SFR, GRIO)"
 date = "2020-09-04T17:43:41+02:00"
 publishdate = "2021-12-06"
-lastmod = "2023-02-16"
+lastmod = "2024-03-14"
 specialites = ["rhumatologie"]
 annees = "2023"
 sources = ["HAS", "SFRhumato", "GRIO", "IOF"]
@@ -36,8 +36,9 @@ Recommandations simplifiées pour une prise en charge réaliste de l'ostéoporos
 5. Biphosphonate: bilan bucco-dentaire, [acide alendronique 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois
     - Au moins 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)  
     - Fracture du col du fémur (FESF): [zolédronate 5 mg/100 mL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture).
-6. Contrôle de l'ostéodensitométrie à 2-3 ans ± avis rhumatologique
-7. Nouveau contrôle de la DXA 2 ans après l'arrêt du traitement
+6. {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} et souvent supplémenter en calcium/vitamine D
+7. Contrôle de l'ostéodensitométrie à 2-3 ans ± avis rhumatologique
+8. Nouveau contrôle de la DXA 2 ans après l'arrêt du traitement
 
 Pour l'**ostéoporose cortisonique**, voir la section [traitements anti-ostéoporotiques](#traitements-anti-ostéoporotiques-biphosphonates-raloxifène-dénosumab).
 
@@ -45,7 +46,7 @@ Pour l'**ostéoporose cortisonique**, voir la section [traitements anti-ostéopo
 
 {{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, [arrêt du tabac]({{< relref "arret-tabac.md" >}}), activité physique, [vitamine D]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1 - 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
 
-Chapitres liés: [Traitement hormonal de la ménopause]({{< relref "menopause.md" >}}) et [vitamine D]({{< relref "vitamine-d.md" >}})
+Chapitres liés: [Traitement hormonal de la ménopause]({{< relref "menopause.md" >}}), [calcium]({{< relref "apports-calcium.md" >}}) et [vitamine D]({{< relref "vitamine-d.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -138,13 +139,14 @@ L'ostéoporose est responsable d'un lourd fardeau médico-économique:
   Et corticothérapie (dont inhalée) > 3 mois.
 - {{< modal-btn modal-risque-fracture >}}Facteurs de risque de fracture{{< /modal-btn >}}
 - {{< modal-btn modal-risque-chute >}}Facteurs de risque de chute{{< /modal-btn >}}
-- Fracture ostéoporotique  
+- {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}}
+- Fracture ostéoporotique:  
   Éliminer une cause métabolique, tumorale, génotypique.
 
 ### Examen clinique
 
-- Poids, taille, IMC
-- Risque de [chute](/tags/chute/)
+- Poids, taille et variation par rapport à 20 ans, IMC
+- Évaluer le risque de [chute](/tags/chute/):
   - {{%lang%}}Timed up and go test{{%/lang%}} > 14s
   - Appui monopodal < 5s
   - Difficulté à garder l'équilibre en poussée sternale
@@ -352,8 +354,8 @@ Tout au long de la vie: activité physique adaptée, {{< modal-btn modal-regime 
   - Dose d'entretien: 800-1200 UI/j (ou 80-100.000 UI/2-3 mois)
   - Voir *[Vitamine D]({{< relref "vitamine-d.md" >}})* pour les protocoles de correction
 - Calcium
-  - Femme ménopausée ≥ 50 ans: {{< modal-btn modal-calcium-cible >}}apports cibles 1 - 1,2 g/j{{< /modal-btn >}}  
-    [Évaluer les apports avec le questionnaire du GRIO](https://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php).
+  - Femme ménopausée ≥ 50 ans: {{< modal-btn modal-calcium-cible >}}apports cibles 1 - 1,2 g/j{{< /modal-btn >}}
+  - {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}}
   - Associations calcium/vitamine D  
     {{% class "text-black-secondary" %}}Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.{{%/class%}}
   - {{< modal-btn modal-calcium >}}Aliments riches en calcium{{< /modal-btn >}}, 2-3 produits laitiers/j
@@ -675,5 +677,10 @@ Fracture ayant atteint: {{< clinique/osteoporose-fracture-severe >}}
 {{% modal title="Apports en calcium recommandés" id="modal-calcium-cible"%}}
 
 {{< clinique/calcium-cible >}}
+
+{{% /modal %}}
+{{% modal title="Évaluation des apports en calcium" id="modal-apports-calcium"%}}
+
+{{< scores/questionnaire-grio >}}
 
 {{% /modal %}}

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-14T13:07:50+02:00"
 publishdate = "2023-09-14"
-lastmod = "2023-09-14"
+lastmod = "2024-03-14"
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2022"
 sources = ["SPF", "EFSA"]
@@ -26,7 +26,7 @@ todo = "IRC"
 - Jusqu'à 3 ans les apports calciques quotidiens peuvent être couverts par du lait de croissance, un yaourt et 10 g de fromage à pâte pressée
 - Chez l'adulte, les besoins en calcium sont de 1 g/j et de 1,2 g/j après la ménopause ou chez l'homme après 70 ans
 - Le lait et les fromages à pâte cuite sont les aliments les plus riches en calcium
-- Le [questionnaire du GRIO](https://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php) permet de calculer ses apports quotidiens en calcium pour éventuellement compléter avec des comprimés de calcium
+- Le questionnaire préconisé par le GRIO (plus bas) permet de calculer ses apports quotidiens en calcium pour éventuellement compléter avec des comprimés de calcium
 
 Chapitres liés: [vitamine D]({{< relref "vitamine-d.md" >}}), [ostéoporose de la femme]({{< relref "osteoporose.md" >}}) et de l'[homme]({{< relref "osteoporose-masculine.md" >}})
 
@@ -43,6 +43,10 @@ Apports alimentaires recommandés pendant la croissance afin de satisfaire les b
 {{< clinique/calcium-cible >}}
 
 > – Également *[Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Alimentation et besoins nutritionnels. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/alimentation#e-apports-en-calcium-conseilles)*
+
+## Évaluer les quotidiens apports en calcium
+
+{{< scores/questionnaire-grio >}}
 
 ## Teneur en calcium des aliments {.mt-5}
 
