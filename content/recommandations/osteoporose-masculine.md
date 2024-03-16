@@ -294,6 +294,10 @@ graph TB
 - [Biver E et al. Dietary recommendations in the prevention and treatment of osteoporosis. Joint Bone Spine. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X22001816)
 - [Bouvard P et al; GRIO. Recommandations françaises de la prise en charge et du traitement de l'ostéoporose masculine. Revue du Rhumatisme. 2021. (PDF)](https://www.grio.org/documents/page246/reco-op-masculine.pdf)
 
+### Bibliographie en attente
+
+[Fuggle NR et al. Evidence-Based Guideline for the management of osteoporosis in men. Nat Rev Rheumatol. 2024.](https://www.nature.com/articles/s41584-024-01094-9)
+
 {{%/sources%}}
 {{% modal title="Fractures ostéoporotiques dites sévères" id="modal-fracture-severe"%}}
 

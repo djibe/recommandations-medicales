@@ -235,6 +235,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Pessano S et al. Ibuprofen for acute postoperative pain in children. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015432.pub2/full/fr)
 - [ANSM. Anti-inflammatoires non stéroïdiens (AINS) et complications infectieuses graves. 28/04/2023.](https://ansm.sante.fr/actualites/anti-inflammatoires-non-steroidiens-ains-et-complications-infectieuses-graves)
 - [Pillai Riddell RR et al. Non-pharmacological management of infant and young child procedural pain. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006275.pub4/full)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Prise en charge de la douleur. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/enfant-vulnerable-genetique/prise-charge-douleur)

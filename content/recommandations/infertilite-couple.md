@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-28T16:02:04+02:00"
 publishdate = "2023-10-02"
-lastmod = "2023-11-28"
+lastmod = "2024-03-15"
 specialites = ["gynecologie-obstetrique", "urologie"]
 annees = "2023"
-sources = ["ESHRE", "AFU", "CNGOF"]
+sources = ["CNGOF", "ESHRE", "AFU"]
 tags = ["cancer", "coeliaque", "douleur pelvienne", "infertilite", "vaccin"]
 anglais = ["Infertility"]
 sctid = "8619003"
@@ -23,12 +23,12 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'infertilité est définie comme l'absence de grossesse après plus de 12 mois de rapports sexuels réguliers sans contraception
+- L'infertilité est définie comme l'absence de grossesse après plus de 12 mois de rapports sexuels réguliers sans contraception. Le bilan est débuté dès 6 mois chez la femme à partir de 35 ans
 - Les facteurs pronostiques principaux chez la femme: âge, poids et tabagisme
 - L'examen clinique avec un interrogatoire exhaustif concerne l'homme et la femme et recherche d'autres facteurs de risque (pathologie pelvienne, infections génito-urinaires, traitement gonadotoxique ...)
-- Le bilan d'infertilité de la femme comporte: TSH, sérologies IST, échographie pelvienne endovaginale 3D à J2-J3. Si {{< modal-btn modal-reserve-ovarienne >}}signe de baisse de la réserve ovarienne{{< /modal-btn >}}: bilan hormonal FSH, LH, œstradiol, AMH
-- Bilan d'infertilité de l'homme: sérologies IST, spermogramme avec spermocytogramme. Si antécédent d'infection génito-urinaire: spermoculture
-- La prise en charge de l'infertilité associe des mesures hygiéno-diététique comme l'arrêt du tabac (voir *Traitement*) et un suivi spécialisé dans un centre d'**Assistance Médicale à la Procréation** (AMP, [annuaire](https://www.procreation-medicale.fr/les-centres-autorises/))
+- Le bilan d'infertilité de la femme comporte: TSH, sérologies IST, prélèvement vaginal, échographie pelvienne endovaginale 3D à J2-J3, AMH si AMP. Si {{< modal-btn modal-reserve-ovarienne >}}signe de baisse de la réserve ovarienne{{< /modal-btn >}}: bilan hormonal FSH, LH, œstradiol, AMH
+- Bilan d'infertilité de l'homme: sérologies IST, spermogramme, spermocytogramme et spermoculture
+- La prise en charge de l'infertilité associe des mesures hygiéno-diététique comme l'arrêt du tabac (voir *Traitement*), un régime méditerranéen et un suivi spécialisé dans un centre d'**Assistance Médicale à la Procréation** (AMP, [annuaire](https://www.procreation-medicale.fr/les-centres-autorises/))
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -180,7 +180,7 @@ L'examen clinique concerne chaque membre du couple.
 
 > << Aucune exploration invasive ne doit avoir lieu tant que les investigations de base, moins invasives, n'ont pas été réalisées >> (*CNGOF 2010*)
 
-L'*OMS* préconise le bilan **à partir du stade d'infertilité** (12 mois de rapports réguliers sans contraception).
+L'*OMS* préconise le bilan **à partir du stade d'infertilité** (12 mois de rapports réguliers sans contraception). Le *CNGOF* 6 mois après 35 ans et 12 mois avant.
 
 Évaluation selon les facteurs de risque chez la femme après **35 ans** ou en cas de facteur spécifique (traitement gonadotoxique, salpingite, ou de l'homme: cryptorchidie, épididymite, torsion aiguë du cordon spermatique, traumatisme testiculaire, cure de hernie inguinale dans l'enfance, monorchidie, varicocèle).
 
@@ -188,14 +188,17 @@ L'*OMS* préconise le bilan **à partir du stade d'infertilité** (12 mois de ra
 
 - [TSH](/tags/tsh/)
 - Sérologies [VIH]({{< relref "vih-sida.md" >}}), [VHB]({{< relref "hepatite-b.md" >}}), [VHC]({{< relref "hepatite-c.md" >}}), [syphilis]({{< relref "syphilis.md" >}}), rubéole, toxoplasmose ± [varicelle]({{< relref "varicelle.md" >}})
+- Prélèvement vaginal
 - Échographie pelvienne endo-vaginale 3D à J2-J3
 - Si {{< modal-btn modal-reserve-ovarienne >}}signe de baisse de la réserve ovarienne{{< /modal-btn >}}: bilan hormonal (de J2 à J4): **FSH**, LH, œstradiol, AMH
+- Si AMP: bilan hormonal AMH de J2 à J4
 - Considérer: [sérologie *Chlamydia*]({{< relref "chlamydia-trachomatis.md" >}}), [sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}) (systématique selon *ESsCD* par IgA totales, IgA anti-transglutaminase)
 - Suspicion de pathologie tubo-pelvienne (GEU, appendicite compliquée, chirurgie pelvienne, maladie inflammatoire pelvienne, endométriose, *Chlamydia* ou hydrosalpynx):
   - Hystérosalpingographie (HSG) ou hystérosonographie en première partie de cycle  
     En première intention selon *CNGOF 2010*.
   - Cœlioscopie
 - Suspicion d'anomalie endo-cavitaire: hystéroscopie
+- Bilan normal avant 30 ans: proposer cœlioscopie
 
 En cas de découverte d'endométriose minime à légère, l'infertilité n'est plus décrite comme *inexpliquée*.
 
@@ -206,11 +209,12 @@ En cas de découverte d'endométriose minime à légère, l'infertilité n'est p
 Bilan à la recherche d'une cause d'infertilité masculine:
 
 - Sérologies VIH, VHB, VHC, syphilis
-- Spermogramme avec spermocytogramme  
+- Spermogramme, spermocytogramme et spermoculture  
   Après 2-7 jours d'abstinence (*AFU/SALF*), dans un laboratoire expérimenté. En cas de résultat < 5<sup>e</sup> percentile, nouvel examen à 3 mois.
-- Si antécédents d'infection génito-urinaire (urétrite, orchi-épididymite ...) ou de leucospermie: spermoculture
 - Anomalie du spermogramme, pathologie testiculaire suspectée ou bilan du couple normal: échographie testiculaire
 - Hypogonadisme, anomalie du spermogramme, troubles sexuels: FSH et testostérone libre entre 8 et 11h
+
+Consultation d'andrologie en cas d'anomalie du spermogramme.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'infertilité" %}}
@@ -225,16 +229,16 @@ Informer sur la chute de la fertilité liée à l'âge.
 
 La prise en charge spécialisée de l'infertilité après un an relève du centre d'**Assistance Médicale à la Procréation** (AMP, [annuaire](https://www.procreation-medicale.fr/les-centres-autorises/)).
 
-Adresser avant les 12 mois de rapports non protégés chez la femme après 35 ans ou en cas de facteur de risque d'infertilité (voir *Clinique*).
+Adresser après 6 mois de rapports non protégés chez la femme après 35 ans ou en cas de facteur de risque d'infertilité (voir *Clinique*), 12 mois avant 35 ans.
 
 ### Mesures hygiéno-diététiques
 
-Les mesures hygiéno-diététiques sont proposées pour l'infertilité du couple:
+Les mesures hygiéno-diététiques sont proposées pour le couple infertile:
 
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et de l'[alcool]({{< relref "sevrage-alcool.md" >}})
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}), cannabis et de l'[alcool]({{< relref "sevrage-alcool.md" >}}) (< 5 U/semaine)
 - Réduire la consommation de café à moins de 5 tasses quotidiennes
 - Correction d'un surpoids
-- Régime alimentaire équilibré
+- {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Activité physique régulière
 - Femme:
   - Éviter les exercices physiques intenses, répétés et réguliers
@@ -254,16 +258,18 @@ En centre spécialisé, différents traitements sont possibles: citrate de clomi
 {{% /collapse %}}
 {{% collapse "Prise en charge de l'infertilité du couple" "show" %}}
 
-{{< mermaid title="Prise en charge de l'infertilité du couple. Dr Alaedine Benani d'après ESHRE 2023, CNGOF et AFU">}}
+{{< mermaid title="Prise en charge de l'infertilité du couple. Drs Alaedine Benani et JB Fron d'après CNGOF et ESHRE 2023, AFU">}}
 graph TB
-  grossesse("Absence de grossesse<br>pendant 12 mois<br>(avant si F +35 ans)") --> diagnostic(Infertilité) --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements, toxiques<br>- Mode de vie<br>-Ancienneté<br>- Cycles, rapports<br>- Symptômes<br>- Examen clinique") -- Homme --> bilan("<b>Bilan de l'homme</b><br>—<br>- Sérologies IST<br>- Spermogramme avec<br>spermocytogramme<br>- Selon comorbidités: hormones,<br>échographie testiculaire") --> AMP("Centre d'Assistance Médicale<br>à la Procréation (AMP)")
+  grossesse("Absence de grossesse<br>pendant 12 mois<br>(6 mois si F +35 ans)") --> diagnostic(Infertilité) --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements, toxiques<br>- Mode de vie<br>-Ancienneté<br>- Cycles, rapports<br>- Symptômes<br>- Examen clinique") -- Homme --> bilan("<b>Bilan de l'homme</b><br>—<br>- Sérologies IST<br>- Spermogramme avec<br>spermocytogramme<br>et spermoculture<br>- Selon comorbidités: hormones,<br>échographie testiculaire") --> AMP("Centre d'Assistance Médicale<br>à la Procréation (AMP)")
+    bilan -- Spermogramme anormal --> andrologue("Échographie testiculaire<br>et andrologue") -.-> AMP
   style diagnostic stroke:#4150f5, stroke-width:1px
-    clinique -- Femme --> bilanFemme("<b>Bilan de la femme</b><br>—<br>- TSH<br>- Sérologies IST voire autres<br>- Échographie pelvienne<br>endo-vaginale 3D à J2-J3<br>- Selon critères: hormones") --> AMP
+    clinique -- Femme --> bilanFemme("<b>Bilan de la femme</b><br>—<br>- TSH<br>- Sérologies IST voire autres<br>- Prél-vement vaginal<br>- Échographie pelvienne<br>endo-vaginale 3D à J2-J3<br>- AMH si AMP<br>- Selon critères: hormones") --> AMP
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Sonigo C et al. Prise en charge de première intention du couple infertile: Mise à jour des RPC 2010 du CNGOF [First line management of infertile couple. Guidelines for Clinical Practice of the French College of Obstetricians and Gynecologists 2022.]. Gynecol Obstet Fertil Senol. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2468718924000370)
 - [Gibbons T et al. Timed intercourse for couples trying to conceive. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011345.pub3/full/fr)
 - [Romualdi D et al; ESHRE Guideline Group on Unexplained Infertility. Evidence-based guideline: unexplained infertility. Hum Reprod. 2023.](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/dead150/7246182)
 - [Huyghe E et al. Recommandations de l'AFU et de la SALF concernant l'évaluation de l'homme infertile. Prog Urol. 2021.](https://www.urofrance.org/recommandation/recommandations-de-lafu-et-de-la-salf-concernant-levaluation-de-lhomme-infertile/)
@@ -278,10 +284,6 @@ graph TB
 - [Hédon B et al; CNGOF. La prise en charge du couple infertile. Recommandations pour la pratique clinique. 2010. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2010/RPC_INFERTILITE_2010.pdf?x13417)
 - [Agence de la Biomédecine. Assistance médicale à la procréation - Principaux chiffres de l'activité.](https://rams.agence-biomedecine.fr/principaux-chiffres-de-lactivite)
 
-### Bibliographie en attente
-
-[Sonigo C et al. Prise en charge de première intention du couple infertile: Mise à jour des RPC 2010 du CNGOF [First line management of infertile couple. Guidelines for Clinical Practice of the French College of Obstetricians and Gynecologists 2022.]. Gynecol Obstet Fertil Senol. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2468718924000370)
-
 {{%/sources%}}
 {{% modal title="Signes de baisse de la réserve ovarienne" id="modal-reserve-ovarienne"%}}
 
@@ -293,5 +295,10 @@ graph TB
 {{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
 
 {{< scores/scoff >}}
+
+{{% /modal %}}
+{{% modal title="Régime méditerranéen" id="modal-regime"%}}
+
+{{< traitements/regime-mediterraneen >}}
 
 {{% /modal %}}

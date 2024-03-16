@@ -114,9 +114,9 @@ Le traitement chirurgical s'adresse aux échecs du traitement médical et du phi
 ### Traitement médical du phimosis
 
 En première intention dans le phimosis congénital avec application de {{< modal-btn modal-dc >}}dermocorticoïdes forts{{< /modal-btn >}} pendant 4 semaines couplés à des **manœuvres douces de rétraction du prépuce** (études discordantes).
+{.alert .alert-info}
 
-Les manipulations du prépuce sont débutées entre J1 et J14 après le début d'application des dermocorticoïdes (efficacité 79-96%)  
-Répéter un deuxième cycle de traitement identique en cas d'échec.
+Les manipulations du prépuce sont débutées entre J1 et J14 après le début d'application des dermocorticoïdes (efficacité 79-96%). **Répéter un deuxième cycle** de traitement identique en cas d'échec.
 
 **NB.** Absence d'effets secondaires. Le facteur déterminant est l'observance du traitement. Risque de récidive faible.
 
@@ -151,6 +151,7 @@ Méthodes chirurgicales:
 {{% /collapse %}}
 {{%sources%}}
 
+- [Moreno G et al. Topical corticosteroids for treating phimosis in boys. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008973.pub3/full/fr)
 - Dr Biserte CHRU Lille (Urologie 2008, JPP 2009)
 - Dr Panait HFME Bron
 
