@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
 lastmod = "2023-11-14"
-specialites = ["nephrologie"]
+specialites = ["néphrologie"]
 annees = "2023"
 sources = ["HAS", "ESH", "KDIGO", "ADA", "ESC"]
 tags = ["depistage", "diabete", "dyspnee", "fatigue", "ferritine", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "vaccin", "vitamine d"]
@@ -422,7 +422,7 @@ Tant que le DFGe est ≥ 45 mL/min/1,73 m² (20 chez le sujet âgé), stable, sa
 {{%/collapse %}}
 {{%collapse "Éducation thérapeutique" %}}
 
-> << L'éducation thérapeutique du patient (ETP) fait partie intégrante de la stratégie thérapeutique >> (*HAS 2023*)
+> << L'éducation thérapeutique du patient (ETP) fait partie intégrante de la stratégie thérapeutique >>. – *HAS 2023*
 {.alert .alert-info}
 
 ### Reprendre en consultation dédiée

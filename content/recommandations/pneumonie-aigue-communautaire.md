@@ -67,6 +67,8 @@ Bactérie atypique ou Légionelle: [clarithromycine](https://base-donnees-publiq
 
 Amoxicilline 80-100 mg/kg/j en 2 prises (max 3 g/j) pendant **5 jours**
 
+Contrôle de la radiographie thoracique à 1 mois.
+
 ---
 
 Si allergie ou doute sur atypique et +6 ans et avale comprimés: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69494932&typedoc=R) 50 mg/kg/j en 2-3 prises pendant 7 jours
@@ -358,7 +360,7 @@ Traitement antibiotique probabiliste **pendant 5 jours** avec réévaluation sys
 
 En cas de **pneumonies récidivantes** d'un même territoire, évoquer un **corps étranger** ou une **tumeur**.
 
-> Pédiatrie: << La normalisation complète n'est pas observée avant plusieurs semaines. >> (*CNPU*)
+> En pédiatrie: << La normalisation complète n'est pas observée avant plusieurs semaines. >> – *CNPU*
 
 ##### Suspicion de pneumonie à bactérie atypique
 

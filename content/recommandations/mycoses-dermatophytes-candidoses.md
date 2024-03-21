@@ -162,7 +162,7 @@ Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athl�
 {{% /collapse %}}
 {{%collapse "Teignes ou dermatophytoses du cuir chevelu" %}}
 
-> << Tout état squameux, croûteux ou pustuleux du cuir chevelu est une teigne jusqu'à preuve du contraire >> (*Pilly 2020*)
+> << Tout état squameux, croûteux ou pustuleux du cuir chevelu est une teigne jusqu'à preuve du contraire >>. – *Pilly 2020*
 {.alert .alert-info}
 
 - Les teignes (dites aussi tinea capitis) sont le plus souvent **tondantes** ou inflammatoires (rarement faviques)
@@ -221,7 +221,7 @@ Avis spécialisé si: *Microsporum* à l'examen direct ou après 6 semaines de t
 Plus précisément **levuroses**, le plus souvent par *Candida albicans* lors d'un facteur de risque (antibiotiques ... voir *Définitions*). Traitement par antifongique azolé local voire fluconazole par voie orale.  
 L'itraconazole est utile pour les formes résistantes.
 
-> << Les candidoses génitales ne sont pas considérées comme des infections sexuellement transmissibles >> (*Anofel*)
+> << Les candidoses génitales ne sont pas considérées comme des infections sexuellement transmissibles >>. – *Anofel*
 
 ### Candidose buccale ou oropharyngée
 
@@ -300,7 +300,7 @@ Signes et symptômes d'une candidose vulvovaginale:
   - Vulvodynie
 - [Photos de candidose vulvovaginale](https://dermnetnz.org/topics/vulvovaginal-candidiasis-images)
 
-> << La candidose vaginale récidivante peut être la première manifestation clinique de l'[infection à VIH]({{< relref "vih-sida.md" >}}) >> (*Anofel*)
+> << La candidose vaginale récidivante peut être la première manifestation clinique de l'[infection à VIH]({{< relref "vih-sida.md" >}}) >>. – *Anofel*
 
 ### Prise en charge de la candidose vulvovaginale aiguë
 

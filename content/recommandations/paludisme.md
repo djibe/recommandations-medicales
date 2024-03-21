@@ -40,7 +40,7 @@ Paludisme
 : Personnes à risque de forme grave: femme enceinte, nourrissons et enfants avant 6 ans, personnes âgées, [PVVIH]({{< relref "vih-sida.md" >}}) et [aspléniques]({{< relref "asplenie.md" >}}).
 : Absence de transmission du parasite sous 18°C.
 
-> << Un des principaux facteurs de risque pour les accès graves et les décès est le retard au diagnostic, souvent lié à une prise en charge inadaptée des patients lors d'une première consultation >> (*HCSP 2023*)
+> << Un des principaux facteurs de risque pour les accès graves et les décès est le retard au diagnostic, souvent lié à une prise en charge inadaptée des patients lors d'une première consultation >>. – *HCSP 2023*
 {.alert .alert-warning}
 
 ### Abréviations
@@ -108,7 +108,7 @@ Appel du 15 en cas de suspicion d'accès palustre grave:
 - Hypoglycémie
 {{%/warning%}}
 
-> << Tout accès palustre à *P. falciparum* peut évoluer vers une forme grave et entraîner le décès du patient >> (*CMIT 2021*)
+> << Tout accès palustre à *P. falciparum* peut évoluer vers une forme grave et entraîner le décès du patient >>. – *CMIT 2021*
 
 ### Critères d'hospitalisation pour paludisme
 
@@ -162,7 +162,7 @@ Après quelques jours, tableau d'**anémie hémolytique fébrile**:
 - Hépatomégalie (enfant surtout)
 - [Splénomégalie]({{< relref "splenomegalie.md" >}})
 
-> << Toute convulsion fébrile chez un enfant au retour d'une zone d'endémie palustre doit faire évoquer un accès palustre grave >> (*Anofel 2022*)
+> << Toute convulsion fébrile chez un enfant au retour d'une zone d'endémie palustre doit faire évoquer un accès palustre grave >>. – *Anofel 2022*
 
 Chez l'enfant, se méfier d'un tableau clinique à prédominance digestive.
 

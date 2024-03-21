@@ -248,6 +248,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Reuben DB et al. Dementia Prevention and Treatment: A Narrative Review. JAMA Intern Med. 2024.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2815813)
 - [HAS. Maladie d'Alzheimer et maladies apparentées : prise en charge des troubles du comportement perturbateurs. 2009.](https://www.has-sante.fr/jcms/c_819667/fr/maladie-d-alzheimer-et-maladies-apparentees-prise-en-charge-des-troubles-du-comportement-perturbateurs)
 - [HAS. Maladie d'Alzheimer et maladies apparentées : suivi médical des aidants naturels. 2010.](https://www.has-sante.fr/jcms/c_938713/fr/maladie-d-alzheimer-et-maladies-apparentees-suivi-medical-des-aidants-naturels)
 - [MHRA. Antipsychotics: initiative to reduce prescribing to older people with dementia. 2014.](https://www.gov.uk/drug-safety-update/antipsychotics-initiative-to-reduce-prescribing-to-older-people-with-dementia)

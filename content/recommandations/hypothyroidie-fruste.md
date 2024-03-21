@@ -30,7 +30,7 @@ flowchart = true
   - Si +65 ans: TSH à 3-6 mois puis tous les 6 mois puis annuelle
   - Annuel en antécédent de traitement thyroïdien chirurgical ou radioactif
 - Critères très différents pendant la grossesse: voir la section dédiée du chapitre [hypothyroïdie avérée]({{< relref "hypothyroidie.md" >}})
-- On dit << fruste >> et non << frustre >> (qui n'existe pas, [Académie française](https://www.dictionnaire-academie.fr/article/A9F1803))
+- On dit << fruste >> et non << frustre >> (qui n'existe pas, *[Académie française](https://www.dictionnaire-academie.fr/article/A9F1803)*)
 
 Chapitre lié: [hypothyroïdie avérée]({{< relref "hypothyroidie.md" >}}) (TSH > 10 mUI et T4L < borne inférieure du laboratoire)
 

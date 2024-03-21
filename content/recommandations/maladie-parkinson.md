@@ -249,7 +249,7 @@ Le syndrome malin des neuroleptiques provoque: troubles de la conscience, rigidi
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> << Il n'y a aucun examen paraclinique diagnostique de référence >> (*HAS 2016*) et << Le diagnostic est clinique et ne justifie aucun examen complémentaire >> (*Collège*)
+> << Il n'y a aucun examen paraclinique diagnostique de référence >> (*HAS 2016*) et << Le diagnostic est clinique et ne justifie aucun examen complémentaire >>. (*Collège*)
 {.alert .alert-info}
 
 ### IRM cérébrale

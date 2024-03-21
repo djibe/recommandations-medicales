@@ -92,7 +92,7 @@ La prise en charge par un traitement antibiotique (macrolide) de la maladie des 
 - Enfant ou poids ≤ 45,5 kg: azithromycine 10 mg/kg à J1 puis 5 mg/kg/j de J2 à J5
 - Allergie ou contre-indication aux macrolides: doxycycline 200 mg x 1/j pendant 14 jours.
 
-> Pour le traitement de la maladie des griffes du chat: << Chez l'immunocompétent, l'intérêt d'une antibiothérapie est discuté, car l'évolution est spontanément favorable >> (*CMIT 2020*)
+> Remarque du *CMIT 2020*: << Chez l'immunocompétent, l'intérêt d'une antibiothérapie est discuté, car l'évolution est spontanément favorable >>.
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

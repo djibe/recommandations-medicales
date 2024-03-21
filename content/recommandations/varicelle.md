@@ -91,7 +91,7 @@ VZV
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-<< les personnes immunodéprimées doivent être considérées comme non protégées, même en cas de sérologie précédemment positive et surveillées pendant les 28 jours qui suivent le contage >> (*PAP Pédiatrie*)
+<< les personnes immunodéprimées doivent être considérées comme non protégées, même en cas de sérologie précédemment positive et surveillées pendant les 28 jours qui suivent le contage >>. – *PAP Pédiatrie*
 {.alert .alert-warning}
 
 Toujours rechercher des complications de la varicelle: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans

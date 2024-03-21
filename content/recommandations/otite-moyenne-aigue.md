@@ -86,7 +86,7 @@ Avis ORL si les tympans sont mal ou non vus avant 2 ans
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> << Aucun examen n'est nécessaire en cas d'OMA purulente non compliquée >> (*CNPU*)
+> << Aucun examen n'est nécessaire en cas d'OMA purulente non compliquée >>. – *CNPU*
 
 ### Scanner avec injection de produit de contraste
 

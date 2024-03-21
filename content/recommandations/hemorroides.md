@@ -151,7 +151,7 @@ Prise en charge de la thrombose hémorroïdaire externe: AINS, antalgiques, rég
 
 Traitements le plus efficace à J4 sur la douleur de thrombose hémorroïdaire: hémorroïdectomie > nitroglycérine topique [Rectogesic® NR](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65328888&typedoc=R) > thrombectomie (*Cavcié J 2001*). Pas de différence d'efficacité à 1 mois.
 
-> << L'incision ou l'excision de la thrombose hémorroïdaire externe n'est pas systématique >> (*SNFCP*)
+> << L'incision ou l'excision de la thrombose hémorroïdaire externe n'est pas systématique >>. – *SNFCP*
 
 La thrombose hémorroïdaire interne ne doit pas être incisée ni excisée.
 

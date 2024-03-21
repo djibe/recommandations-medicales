@@ -191,7 +191,7 @@ En première intention: **TSH diagnostique** (à tout moment de la journée) et 
 
 **NB.** Préciser sur l'ordonnance la situation: diagnostic, contrôle ou suivi sous traitement.
 
-> << Le dosage de la T3L n'a pas d'utilité >> (*HAS 2022*), également vrai pour les autres anticorps antithyroïdiens (sauf anti-thyroglobuline en cas de forte suspicion auto-immune avec anti-TPO négatifs).
+> << Le dosage de la T3L n'a pas d'utilité >>. – *HAS 2022*; également vrai pour les autres anticorps antithyroïdiens (sauf anti-thyroglobuline en cas de forte suspicion auto-immune avec anti-TPO négatifs).
 {.alert .alert-info}
 
 #### Interpréter les résultats de TSH et T4L

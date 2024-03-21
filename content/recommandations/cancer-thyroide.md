@@ -96,7 +96,7 @@ Signes et symptômes devant faire rechercher un cancer de la thyroïde:
 
 ### Examen clinique
 
-> << Un examen clinique normal ne permet pas d'éliminer l'existence d'un cancer thyroïdien >> (*SFE 2022*)
+> << Un examen clinique normal ne permet pas d'éliminer l'existence d'un cancer thyroïdien >>. – *SFE 2022*
 {.alert .alert-info}
 
 - Poids et variations, taille, IMC

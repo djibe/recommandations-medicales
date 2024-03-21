@@ -21,7 +21,7 @@ todo = "Personne de confiance ?"
 
 {{%collapse "Accès au dossier médical, que dit la loi ?" %}}
 
-> << Toute personne a accès à l'ensemble des informations concernant sa santé détenues, à quelque titre que ce soit, par des professionnels et établissements de santé, qui sont formalisés ou ont fait l'objet d'échanges écrits entre professionnels de santé >> ([loi 2002-303](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024316824/2015-11-24))
+> << Toute personne a accès à l'ensemble des informations concernant sa santé détenues, à quelque titre que ce soit, par des professionnels et établissements de santé, qui sont formalisés ou ont fait l'objet d'échanges écrits entre professionnels de santé >> – *[Article L1111-7 - Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024316824/2024-03-21/)*
 {.alert .alert-info}
 
 L'accès au dossier médical est un droit pour la personne concernée et n'a donc pas à être motivé.

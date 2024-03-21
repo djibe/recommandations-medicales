@@ -1,23 +1,24 @@
 +++
 title = "Hypocalcémie"
 prefix = "l'"
-description = "TODO:"
+description = "Recommandations pour le diagnostic et la prise en charge de l'hypocalcémie. "
 synonyms = ["Diminution du calcium sérique", "calcémie basse"]
 auteurs = ["Alaedine BENANI", "Jean-Baptiste FRON"]
 date = "2024-03-08T15:43:33+01:00"
 publishdate = "2024-03-08"
 lastmod = "2024-03-08"
-specialites = ["endocrinologie", "nephrologie"]
+specialites = ["endocrinologie", "néphrologie"]
 annees = "2024"
 sources = ["Collèges"]
-tags = []
+tags = ["fatigue"]
 anglais = ["Hypocalcemia"]
 sctid = "5291005"
 icd10 = "E83.5"
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow"
+todo = "summary > liens > photo > newsletter > flow"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -31,8 +32,8 @@ Chapitre lié: [vitamine D]({{< relref "vitamine-d.md" >}})
 
 Hypocalcémie
 : Calcémie inférieure à 2,2 mmol/L (88 mg/L, pour une albuminémie de 40 g/L) ou de calcémie ionisée < 1,15 mmol/L. Elle peut être modifiée par le pH (l'alcalose diminue la calcémie ionisée).
-: Elle est urgente lorsqu'elle est aiguë, symptomatique, sévère < 1,8 mmol/L ou ionisée < 1 mmol/L.
-: Une hypocalcémie chronique ne peut survenir qu'en cas d'anomalie de la production de PTH ou de son action tissulaire ou d'une carence profonde en [vitamine D]({{< relref "vitamine-d.md" >}}).
+: Elle est urgente lorsqu'elle est aiguë, symptomatique, sévère (< 1,8 mmol/L, 70 mg/L) ou ionisée < 1 mmol/L.
+: Une hypocalcémie chronique ne peut survenir qu'en cas d'anomalie de la production de PTH ou de son action tissulaire ou d'une carence profonde en [vitamine D]({{< relref "vitamine-d.md" >}}) active.
 
 ### Diagnostic différentiel
 
@@ -72,14 +73,14 @@ Causes d'hypocalcémie chronique, évaluées selon le niveau de PTH:
   PTH basse ou anormalement normale avec phosphatémie élevée.
   - Iatrogène post-opératoire
   - Hypomagnésémie profonde (< 0,5 mmol/L)
-  - Génétique
+  - Génétique (syndrome de DiGeorge)
   - Rares infiltrations parathyroïdiennes: amylose, granulome, métastases
 - Hypocalcémies chroniques extra-parathyroïdiennes  
   PTH augmentée en réponse à l'hypocalcémie.
   - Pseudo-hypocalcémie  
     La calcémie ionisée ou corrigée est normale.
   - **[Carence en vitamine D]({{< relref "vitamine-d.md" >}})** (apports ou UV insuffisants, malabsorption, médicaments)  
-    PTH élevée avec bilan phospho-vitamino-calcique bas (calciurie, phosphatémie, vitamine D et calcitriol bas).
+    PTH élevée avec bilan phospho-vitamino-calcique bas (calciurie, phosphatémie, vitamine D bas).
   - [Insuffisance rénale chronique sévère]({{< relref "insuffisance-renale-chronique.md" >}})  
     PTH élevée avec phosphatémie élevée.
 
@@ -96,33 +97,43 @@ Causes d'hypocalcémie chronique, évaluées selon le niveau de PTH:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Les symptômes d'une hypocalcémie sont très corrélés à la profondeur de l'hypocalcémie et sa rapidité d'installation.
+Les symptômes d'une hypocalcémie sont très corrélés à la profondeur de l'hypocalcémie et sa rapidité d'installation. Ils peuvent être spontanés ou déclenchés par l'effort.
 
 ### Interrogatoire
 
 - Antécédents: chirurgie cervicale, pancréatite, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
 - Antécédents familiaux d'hypocalcémie
+- Traitements: anticonvulsivants, biphosphonates, transfusions massives
 - Régime alimentaire
+- Calcémie antérieures
+- [Fatigue](/tags/fatigue/)
 - **Symptômes neuromusculaires**
   - Paresthésies distales
   - Crampes musculaires
   - Spasmes laryngés
-  - Tétanie
+  - Tétanie  
+    << main d'accoucheur >>, bouche en << museau de carpe >>, hyperextension des jambes et des pîeds.
   - Convulsions
 - Troubles neuro-psychologiques  
-  Difficultés de concentration, troubles de la personnalité.
-- Symptômes cardiaques
-  - Élargissement de l'intervalle QT: malaises, fibrillation ventriculaire
+  Troubles de l'attention, anxiété, irritabilité, dépression, démence, troubles de la personnalité, syndrome extrapyramidal.
+- Symptômes cardiaques  
+  Élargissement de l'intervalle QT: malaises, tachycardie ventriculaire, fibrillation ventriculaire, insuffisance cardiaque.
+- Cataract sous-capsulaire
+- Troubles trophiques (signes chroniques)
+  - Ongles striés et cassants
+  - Cheveux secs et fragiles
+  - Dentaires: altération de l'émail, caries
 
 ### Examen clinique
 
 - Pression artérielle, fréquence cardiaque
 - Poids, taille, IMC
 - Rechercher une cicatrice cervicale
+- Réflexes ostéo-tendineux vifs
 - Signe de Chvostek  
-  La percussion du nerf facial sous le zygomatique déclenche une contraction faciale.
+  La percussion du nerf facial sous le zygomatique déclenche une contraction de la commissure des lèvres.
 - **Signe de Trousseau**  
-  Avec le brassard tensionnel maintenu 3 minutes gonflé sur la pression systolique et les doigts en hyperextension (pouce fléchi), on observe une flexion du poignet et des métacarpo-phalangiennes (les doigts sont joints).
+  Avec le brassard tensionnel maintenu 2 minutes gonflé 20 mmHg au-dessus de la pression systolique, on observe une flexion du poignet et des métacarpo-phalangiennes (les doigts sont en extension et le pouce en opposition).
 - Électrocardiogramme si disponible  
   BAV, allongement du QT.
 
@@ -132,31 +143,28 @@ Les symptômes d'une hypocalcémie sont très corrélés à la profondeur de l'h
 ### Bilan de l'hypocalcémie
 
 - NFS
+- Créatininémie
 - Calcémie et albuminémie
 - ou calcémie ionisée
+- Calciurie des 24 heures (< 100 mg/24h)
 - Phosphatémie
+- 25 OH vitamine D
 - PTH plasmatique (N 15-65 pg/mL)
-- 25 OH vitamine D et 1,25 OH vitamine D (calcitriol)
-- Calciurie des 24 heures
-- Électrocardiogramme si disponible (allongement du QT)
-
-### Bilan étiologique de l'hypocalcémie
-
-- Si PTH haute:
-
-Bilan comp CaU
+- Électrocardiogramme +++ (allongement du QT)
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-TODO: urgent
+> << Le traitement de l'hypocalcémie symptomatique est une urgence >>, idem si aiguë . – *CEEDMM*
+{.alert .alert-warning}
 
-Le traitement de l'hypocalcémie est principalement étiologique.
+La prise en charge de l'hypocalcémie est principalement étiologique.
 
-### Traitement symptomatique d'une hypocalcémie
+### Traitement symptomatique d'une hypocalcémie chronique
 
 - Supplémentation en calcium: 500 à 1500 mg/j en dehors des repas  
   Max 500 mg/j si insuffisance rénale.
+- Suspension des traitements allongeant le QT
 - Si carence en 25 OH vitamine D: [supplémentation en vitamine D]({{< relref "vitamine-d.md" >}})
 - Si hypomagnésémie: supplémentation en magnésium
 - Si insuffisance rénale sévère avec carence en calcitriol: supplémentation en 1-α OH-vitamine D (Alfacalcidiol, Un Alfa®, Un-Alfa®) ou 1, 25 OH vitamine D (Rocaltrol®)
@@ -167,7 +175,16 @@ Le traitement de l'hypocalcémie est principalement étiologique.
 
 {{< mermaid title="Prise en charge d'une hypocalcémie par le médecin généraliste. Dr JB Fron d'après Collèges" >}}
 graph TB
-  hypocalcémie["<b>Hypocalcémie</b><br>—<br>Calcémie &lt; 2,2 mmol/L"]
+  hypocalcémie["<b>Hypocalcémie</b><br>—<br>Calcémie &lt; 2,2 mmol/L"] -- Albumine couplée --> corrigée("- Calcul de la <br>calcémie corrigée<br>- Clinique") -- "CaCorr 1,8 - 2,2,<br>chronique et<br>asymptomatique" --> ambulatoire("<b>Bilan ambulatoire</b><br>—<br>- Antécédents<br>- Clinique<br>- ECG") --> bilan("- Créatinine<br>- PTH<br>- Phosphatémie<br>- Calciurie 24h<br>- 25 OH vitD") -- "PTH ↓ ou N" --> hypoparathyroïdie(Hypoparathyroïdie) --> endocrinologue(Endocrinologue)
+  bilan -- PTH ↑ --> phosphatémie("Phosphatémie ?")
+    bilan -- "Créatinine ↑↑<br>et phosphates ↑" --> insuffisance("Insuffisance rénale<br>sévère")
+    hypocalcémie -- "Calcémie ionisée couplée<br>&lt; 1,15" --> ionisée("Hypercalcémie vraie:<br>- Antécédents<br>- Clinique") -- "&lt; 1,<br>aiguë ou<br>symptomatique" --> urgences("Urgences voire SAMU")
+      corrigée -- "CaCorr &lt; 1,8,<br>aiguë ou<br>symptomatique" --> urgences
+    hypocalcémie -- "Sans albumine<br>ou Ca ionisée" --> urgences
+      ionisée -- "1 - 1,15<br>chronique et<br>asymptomatique" --> ambulatoire
+        phosphatémie -- "Phosphatémie ↓" --> vitamineD("25 OH vitD ?") -- "vitD ↓" --> carence("- Carence d'apports<br>- Malabsorption<br>- Insuffisance hépatocellulaire<br>- Anticonvulsivants<br>- Biphosphonates")
+        phosphatémie -- "Phosphatémie ↑" --> pseudo-hypoparathyroïdies("Pseudo-<br>hypoparathyroïdies")
+          vitamineD -- "vitD ↑" --> rachitisme("Rachitisme<br>vitamino-résistant")
   style hypocalcémie stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
@@ -178,10 +195,10 @@ graph TB
 - {{< references/college-endocrino >}}
 - [Fong J, Khan A. Hypocalcémie: Mises à jour dans le diagnostic et la prise en charge en soins primaires. Can Fam Physician. 2012.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3279287/)
 - [Orphanet. Hypoparathyroïdie isolée familiale. 2005.](https://www.orpha.net/fr/disease/detail/2238?name=Hypoparathyroidie&mode=name)
+- [Guitton C et al; Société de Réanimation de Langue Française. Dyscalcémie aux urgences. 2002. (PDF)](https://www.srlf.org/wp-content/uploads/2015/11/0211-Reanimation-Vol11-N7-p493_501.pdf)
 
 ### Bibliographie en attente
 
-- [Guitton C et al; Société de Réanimation de Langue Française. Dyscalcémie aux urgences. 2002. (PDF)](https://www.srlf.org/wp-content/uploads/2015/11/0211-Reanimation-Vol11-N7-p493_501.pdf)
 - [Kamenický P. Hypocalcémie de l'adulte. MCED. 2016.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/JNDES/2016/16_jndes_hypocalcemie_adulte_p_kamenicky.pdf)
 - Collège
 - Prescrire

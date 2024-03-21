@@ -104,7 +104,7 @@ Principaux facteurs de risque de cancer du cardia gastrique: surpoids et [reflux
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << Le plus souvent, les tumeurs gastriques sont asymptomatiques >> (*CDU-HGE*)
+> << Le plus souvent, les tumeurs gastriques sont asymptomatiques >>. – *CDU-HGE*
 {.alert .alert-info}
 
 ### Symptômes évocateurs du cancer de l'estomac

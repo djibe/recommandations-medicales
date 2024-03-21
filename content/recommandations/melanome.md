@@ -48,7 +48,7 @@ Il n'est donné que pour les mélanomes envahissant le derme.
 Éphélides
 : Communément appelées *tâches de rousseur*.
 
-> << Une peau bronzée est un signe de dommages causés par le soleil et il n'existe pas de "bronzage sain" >> (*HCSP 2023*)
+> << Une peau bronzée est un signe de dommages causés par le soleil et il n'existe pas de << bronzage sain >> >> – *HCSP 2023*
 {.alert .alert-warning}
 
 ### Types histologiques de mélanome

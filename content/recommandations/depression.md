@@ -6,7 +6,7 @@ synonyms = ["Syndrome dépressif", "épisode dépressif caractérisé (EDC)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-14T20:15:23+02:00"
 publishdate = "2023-11-20"
-lastmod = "2023-11-30"
+lastmod = "2024-03-17"
 specialites = ["psychiatrie"]
 annees = "2023"
 sources = ["ACP", "VA", "HAS"]
@@ -405,7 +405,7 @@ Réévaluations fréquentes du niveau d'urgence.
 > – *HAS 2017*
 
 {{% /collapse %}}
-{{%collapse "Indications à l'hospitalisation" %}}
+{{%collapse "Critères d'hospitalisation de la dépression" %}}
 
 ### Critères d'hospitalisation d'un adulte pour dépression
 
@@ -466,8 +466,10 @@ La prise en charge de la dépression nécessite des consultations dédiées. Pou
 [Annuaire des psychiatres](https://www.sante.fr/recherche/trouver/psychiatre/Autour%20de%20moi) et des [Centres médico-psychologiques](https://www.sante.fr/recherche/trouver/cmp) (CMP).
 
 - Correction des facteurs psycho-sociaux
-- Activité physique régulière (marche, yoga, Qi Gong)  
-  Prescription d'*activité physique adaptée* (APA).
+- Activité physique régulière
+  - Marche, jogging, yoga, Qi Gong, renforcement musculaire
+  - Encore plus efficaces de manière intense
+  - Prescription d'*activité physique adaptée* (APA)
 - Activité sociale régulière
 - Maintenir un rythme de vie sain (horaires, sommeil)
 - Luminothérapie (*VA 2022*)
@@ -498,7 +500,7 @@ Classes thérapeutiques d'antidépresseurs: {{< modal-btn modal-isrs >}}ISRS{{< 
 - Réévaluation à 1 et 2 semaines, puis rapprochée les 2 premiers mois (désinhibition suicidaire, agitation, effets indésirables)
 - Informer le patient et l'entourage sur la désinhibition et la nécessité de consulter rapidement en cas de modification de l'humeur
 - Pendant la grossesse, la plupart des traitements de référence sont possibles si un traitement est nécessaire  
-  << l'utilisation d'antidépresseurs pendant la grossesse n'augmente pas le risque de troubles du développement neurologique chez l'enfant >> (*Suarez et al 2022*)
+  << l'utilisation d'antidépresseurs pendant la grossesse n'augmente pas le risque de troubles du développement neurologique chez l'enfant >> (*Suarez et al 2022*).
 - Délai d'action plus long chez le sujet âgé (maintenir min 1 an après rémission)
 - Thérapies autres: acupuncture (*ACP*)
 - Si anxiété, agitation, insomnies invalidantes: [benzodiazépine]({{< relref "benzodiazepines.md" >}}) pendant 2 semaines
@@ -548,6 +550,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Noetel M et al. Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. 2024.](https://www.bmj.com/content/384/bmj-2023-075847)
 - [US Preventive Services Task Force, Barry MJ et al. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2023.9297)
 - [Qaseem A et al. Nonpharmacologic and Pharmacologic Treatments of Adults in the Acute Phase of Major Depressive Disorder: A Living Clinical Guideline From the American College of Physicians. Ann Intern Med. 2023.](https://www.acpjournals.org/doi/full/10.7326/M22-2056?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)
 - [Vita G et al. Antidepressants for the treatment of depression in people with cancer. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011006.pub4/full/fr)
@@ -566,6 +569,7 @@ graph TB
 - [HAS. Épisode dépressif caractérisé de l'adulte : prise en charge en soins de premier recours. 2017.](https://www.has-sante.fr/jcms/p_3261767/fr/depression)
 - [Cleare A et al. Evidence-based guidelines for treating depressive disorders with antidepressants: A revision of the 2008 British Association for Psychopharmacology guidelines. J Psychopharmacol. 2015. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Antidepressants.pdf)
 - [Davidson JR et al; British Association for Psychopharmacology. A psychopharmacological treatment algorithm for generalised anxiety disorder (GAD). J Psychopharmacol. 2010.](https://pubmed.ncbi.nlm.nih.gov/18832431/)
+- [Dumesnil H et al. La prise en charge de la dépression en médecine générale de ville. Drees. 2012.](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/la-prise-en-charge-de-la-depression-en-medecine-generale-de-0)
 - [Santé Publique France. Dépression et anxiété.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/sante-mentale/depression-et-anxiete)
 - [Ameli Médecins. La santé mentale en soins primaires.](https://www.ameli.fr/hauts-de-seine/medecin/sante-prevention/sante-mentale-soins-primaires)
 - [Psychiaclic. Trouble dépressif](https://www.psychiaclic.fr/troubles-psychiatriques/trouble-depressif)
@@ -574,7 +578,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Noetel M et al. Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. 2024.](https://www.bmj.com/content/384/bmj-2023-075847)
+- [Belzeaux R et al. French Society for Biological Psychiatry and Neuropsychopharmacology and French-speaking Marcé Society guidelines for the management of mood disorders in women before, during, and after pregnancy. Arch Womens Ment Health. 2024.](https://link.springer.com/article/10.1007/s00737-024-01440-6)
 - [CBIP. Arrêt progressif des antidépresseurs : lignes directrices (mise à jour 2024). Folia Pharmacotherapeutica. 2024.](https://www.cbip.be/fr/articles/4239?folia=4237)
 - [Anaes, FFP. La crise suicidaire : reconnaître et prendre en charge. 2000.](https://www.has-sante.fr/jcms/c_271964/fr/la-crise-suicidaire-reconnaitre-et-prendre-en-charge)
 - [HAS. Manifestations dépressives à l'adolescence : repérage, diagnostic et prise en charge en soins de premier recours. 2014.](https://www.has-sante.fr/jcms/c_1782013/fr/manifestations-depressives-a-l-adolescence-reperage-diagnostic-et-prise-en-charge-en-soins-de-premier-recours)
@@ -583,7 +587,6 @@ graph TB
 - [HAS. Idées et conduites suicidaires chez l'enfant et l'adolescent : prévention, repérage, évaluation et prise en charge. 2021.](https://www.has-sante.fr/jcms/p_3288864/fr/idees-et-conduites-suicidaires-chez-l-enfant-et-l-adolescent-prevention-reperage-evaluation-et-prise-en-charge)
 - [Binder P et al. Detection of adolescent suicidality in primary care: an international utility study of the bullying-insomnia-tobacco-stress test. Early Interv Psychiatry. 2020.](https://pubmed.ncbi.nlm.nih.gov/31058453/)
 - [Williams JB. A structured interview guide for the Hamilton Depression Rating Scale. Arch Gen Psychiatry. 1988;45(8):742-747. doi:10.1001/archpsyc.1988.01800320058007](https://pubmed.ncbi.nlm.nih.gov/3395203/)
-- [Dumesnil H et al. La prise en charge de la dépression en médecine générale de ville. Drees. 2012.](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/la-prise-en-charge-de-la-depression-en-medecine-generale-de-0)
 
 {{%/sources%}}
 {{% modal title="Echelle de depression de Hamilton" id="modal-hamilton"%}}

@@ -62,7 +62,10 @@ Principaux aliments riches en vitamine D: poissons et produits laitiers (*Anses*
 ### Abréviations
 
 25OHD (25-OH-D)
-: vitamine D-25
+: vitamine D-25 ou calcidiol
+
+calcitriol
+: vitamine D active (1, 25 OH vitamine D)
 
 HAS
 : Haute autorité de santé
@@ -239,7 +242,7 @@ Goutte
 : Adrigyl® 333 UI/goutte, ZymaD® 300 UI/goutte
 {.dl-inline}
 
-Spécialités avec calcium + vitamine D3 associées: Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.
+Spécialités avec calcium + vitamine D3 associées (prendre à distance des repas): Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.
 
 ### Spécialité de vitamine D2
 

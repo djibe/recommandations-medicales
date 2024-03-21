@@ -5,7 +5,7 @@ noindex = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-11-15T16:02:00+02:00"
 publishdate = "2022-11-17"
-lastmod = "2023-10-23"
+lastmod = "2024-03-17"
 specialites = []
 annees = "2023"
 sources = []
@@ -76,6 +76,8 @@ La seule alternative à l'emploi à temps complet est l'emploi d'un collaborateu
 
 Pour le **contrat de travail**, l'Assistant peut être embauché directement par le médecin ou indirectement par un groupement d'employeurs en capacité de réaliser la gestion administrative pour le médecin.
 
+La gestion de la paie peut être facilitée par le [Titre emploi service entreprise](https://www.letese.urssaf.fr/portail/accueil/adherer.html) (Tese).
+
 En cas d'absence de l'assistant (maternité, maladie, démission), il faut prévenir la Caisse pour mettre en suspend les objectifs.
 
 {{< iframe url="https://www.urssaf.fr/portail/home/utile-et-pratique/estimateur-de-cotisations.html" title="Urssaf: Estimateur de cotisations">}}
@@ -107,6 +109,7 @@ Toutefois, toute personne peut commencer la collaboration sous réserve de passe
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ameli Médecin. Assistant médical : simplifier ses démarches de recrutement avec le Titre emploi service entreprise. 25/01/2024.](https://www.ameli.fr/medecin/actualites/assistant-medical-simplifier-ses-demarches-de-recrutement-avec-le-titre-emploi-service-entreprise)
 - [Ameli Médecin. L'aide à l'emploi d'assistants médicaux dans les cabinets libéraux. 14/11/2023.](https://www.ameli.fr/hauts-de-seine/medecin/exercice-liberal/vie-cabinet/aides-financieres/aide-emploi-assistants-medicaux)
 - [Ameli Médecin. Emploi d'un assistant médical : nouvel outil en ligne pour simuler facilement son aide financière. 20/10/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/emploi-d-un-assistant-medical-nouvel-outil-en-ligne-pour-simuler-facilement-son-aide-financiere)
 - [Ameli. Assistant médical - Un professionnel pour vous faire gagner du temps au service de vos patients. 2023. (PDF)](https://www.ameli.fr/sites/default/files/Documents/Assistant%20medical-Brochure-Medecin%20liberal.pdf)

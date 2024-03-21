@@ -32,9 +32,9 @@ flowchart = true
   - Nutritionniste si IMC 35-49 kg/m² avec: pathologie cardiovasculaire déséquilibrée (HTA résistante, diabète déséquilibré, NASH, SAHOS sévère), aggravation d'une maladie chronique sans risque majeur, impact marqué sur la qualité de vie, boulimie, échec du niveau 1 ...
 - Indications à la chirurgie bariatrique: IMC ≥ 40 ou ≥ 35 avec comorbidité pouvant s'améliorer (HTA, SAHOS, DT2, NASH) avec échec des prises en charges antérieures (voir [Niveau adapté](#niveau-adapté-de-prise-en-charge-et-chirurgie-bariatrique))
 - Dépister les complications de l'obésité (voir *Dépistage*)
-- Les mesures de prise en charge de l'obésité de l'adulte sont: activité physique 150 à 300 minutes d'intensité modérée par semaine, perte de poids de 5 à 15%, évaluation nutritionnelle et sensations alimentaires, éducation thérapeutique, soutien psychologique, association de patients CNAO
+- Les mesures de prise en charge de l'obésité de l'adulte sont: activité physique 150 à 300 minutes d'intensité modérée par semaine, perte de poids de 5 à 15%, évaluation nutritionnelle et sensations alimentaires, éducation thérapeutique, rappeler l'absence d'interdits alimentaires, soutien psychologique, association de patients *CNAO*
 - Les prescriptions (dont GLP-1) sont réservées au nutritionniste
-- [Adaptation des antibiotiques](https://abxbmi.com) chez le sujet en obésité
+- [Adaptation des antibiotiques](https://abxbmi.com) chez le sujet en situation d'obésité
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -66,7 +66,7 @@ Obésité abdominale
 : En cas d'échec à 6-12 mois, le patient doit être orienté vers un **nutritionniste** (niveau 2) qui pourra l'adresser à un **centre spécialisé de l'obésité** (CSO, niveau 3, [annuaire PDF](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/article/les-centres-specialises-d-obesite)).
 
 Restriction cognitive
-: << Limitation volontaire des apports alimentaires avec possibles privations, dans le but de contrôler son poids >> (*CEEDMM*).
+: << Limitation volontaire des apports alimentaires avec possibles privations, dans le but de contrôler son poids >>. – *CEEDMM*
 
 ### Épidémiologie de l'obésité en France
 
@@ -167,7 +167,7 @@ TCA
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << Demander l'accord de la personne pour aborder le poids >> (*HAS 2023*)
+> << Demander l'accord de la personne pour aborder le poids >>. – *HAS 2023*
 {.alert .alert-info}
 
 ### Interrogatoire
@@ -400,7 +400,7 @@ La prise en charge de l'obésité associe:
 {{% /collapse %}}
 {{%collapse "Conseils alimentaires" %}}
 
-> Pour toute personne, << Il n'y a pas d'interdits alimentaires >> (*CEEDMM*)
+> Pour toute personne, << Il n'y a pas d'interdits alimentaires >>. – *CEEDMM*
 {.alert .alert-info}
 
 Exemples de conseils alimentaires à proposer en situation d'obésité:

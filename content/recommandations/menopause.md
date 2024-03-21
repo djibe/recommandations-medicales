@@ -305,7 +305,7 @@ Objectifs: amélioration de la santé, des signes climatériques, du risque card
 - Antécédent de cancer du sein  
   Contre-indication aux phytoœstrogènes.
 
-> Prise de poids à la ménopause: << Seuls les excès répétés et/ou un déséquilibre chronique quantitatif et qualitatif de l'alimentation peuvent être en cause >> (*CNGOF 2021*)
+> Prise de poids à la ménopause: << Seuls les excès répétés et/ou un déséquilibre chronique quantitatif et qualitatif de l'alimentation peuvent être en cause >>. – *CNGOF 2021*
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -572,7 +572,7 @@ Le THM utilisé en France ne modifie pas la survenue des pathologies suivantes:
 
 > *CNGOF 2021*
 
-> << La mortalité par cancer du sein n'est pas augmentée chez les femmes recevant un THM que cela soit dans les essais randomisés ou les études d'observation et quel que soit le type de THM >> (*CNGOF 2021*)
+> << La mortalité par cancer du sein n'est pas augmentée chez les femmes recevant un THM que cela soit dans les essais randomisés ou les études d'observation et quel que soit le type de THM >>. – *CNGOF 2021*
 {.alert .alert-info}
 
 #### Bénéfices du traitement hormonal de la ménopause

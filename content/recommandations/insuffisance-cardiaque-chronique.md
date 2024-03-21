@@ -258,7 +258,7 @@ Utiliser toujours le même marqueur au cours du suivi.
 
 ### Électrocardiogramme de repos 12 dérivations
 
-La sensibilité de l'ECG est de 89%: << L'IC est peu probable en cas d'ECG totalement normal >> (*ESC 2021*)
+La sensibilité de l'ECG est de 89%: << L'IC est peu probable en cas d'ECG totalement normal >>. – *ESC 2021*
 
 L'**[épreuve d'effort]({{< relref "epreuve-effort.md" >}})** (EEVO<sub>2</sub>) est systématique au diagnostic d'insuffisance cardiaque (*SFC 2018*).
 

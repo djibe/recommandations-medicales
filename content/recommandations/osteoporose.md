@@ -36,7 +36,7 @@ Recommandations simplifiées pour une prise en charge réaliste de l'ostéoporos
 5. Biphosphonate: bilan bucco-dentaire, [acide alendronique 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois
     - Au moins 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)  
     - Fracture du col du fémur (FESF): [zolédronate 5 mg/100 mL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture).
-6. {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} et souvent supplémenter en calcium/vitamine D
+6. {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} et souvent supplémenter en calcium/vitamine D à distance des repas
 7. Contrôle de l'ostéodensitométrie à 2-3 ans ± avis rhumatologique
 8. Nouveau contrôle de la DXA 2 ans après l'arrêt du traitement
 
@@ -356,7 +356,7 @@ Tout au long de la vie: activité physique adaptée, {{< modal-btn modal-regime 
 - Calcium
   - Femme ménopausée ≥ 50 ans: {{< modal-btn modal-calcium-cible >}}apports cibles 1 - 1,2 g/j{{< /modal-btn >}}
   - {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}}
-  - Associations calcium/vitamine D  
+  - Associations calcium/vitamine D, à distance des repas  
     {{% class "text-black-secondary" %}}Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.{{%/class%}}
   - {{< modal-btn modal-calcium >}}Aliments riches en calcium{{< /modal-btn >}}, 2-3 produits laitiers/j
   - Apports lactés quotidiens jusqu'à 3 ans

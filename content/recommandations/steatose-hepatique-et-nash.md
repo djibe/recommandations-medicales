@@ -188,7 +188,7 @@ Marqueurs non invasifs de l'évaluation du foie pour éviter la ponction-biopsie
 {{% /collapse %}}
 {{%collapse "Traitement de la NASH" %}}
 
-> << ... perdre 10% du poids du corps fait disparaître la stéatohépatite dans 90% des cas >> (*SNFGE*)
+> << ... perdre 10% du poids du corps fait disparaître la stéatohépatite dans 90% des cas >>. – *SNFGE*
 {.alert .alert-info}
 
 La prise en charge de la stéatohépatite non alcoolique (NASH) repose sur la perte de poids (10%) et la correction de chacun des facteurs de risque cardiovasculaire / métabolique (tabac, hypertension, LDL, régime méditerranéen).

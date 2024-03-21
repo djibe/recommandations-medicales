@@ -142,7 +142,7 @@ Signes et symptômes de la variole du singe:
 
 Appel du 15 pour l'avis d'un infectiologue en éruption douteuse.
 
-<< Risque très faible d'avoir la maladie et de la transmettre, forte probabilité de diagnostic différentiel bénin devant une éruption vésiculeuse. Les pédiatres restent en même temps vigilants car de nombreuses inconnues persistent. >> (*Infovac 20/07/2022*)
+<< Risque très faible d'avoir la maladie et de la transmettre, forte probabilité de diagnostic différentiel bénin devant une éruption vésiculeuse. Les pédiatres restent en même temps vigilants car de nombreuses inconnues persistent. >>. – *Infovac 20/07/2022*
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

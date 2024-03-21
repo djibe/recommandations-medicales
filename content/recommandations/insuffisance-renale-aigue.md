@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-25T16:39:18+02:00"
 publishdate = "2022-10-28"
 lastmod = "2023-09-01"
-specialites = ["nephrologie"]
+specialites = ["néphrologie"]
 annees = "2012"
 sources = ["KDIGO"]
 tags = ["AINS", "cephalees"]
@@ -131,7 +131,7 @@ Consultation de contrôle à 3 mois après la correction de l'épisode d'insuffi
 {{% /collapse %}}
 {{%collapse "Rein et injections de produits de contraste" %}}
 
-> << il n'est pas recommandé de doser la créatininémie pour estimer le DFG avant une IRM injectée >> car << une insuffisance rénale aiguë avec les produits gadolinés en IRM, n'existe pas aux doses utilisées >> (*SFNDT 2020*)
+> << il n'est pas recommandé de doser la créatininémie pour estimer le DFG avant une IRM injectée >> car << une insuffisance rénale aiguë avec les produits gadolinés en IRM, n'existe pas aux doses utilisées >> – *SFNDT 2020*
 {.alert .alert-info}
 
 Insuffisance rénale aiguë post-contraste (IRA-PC)

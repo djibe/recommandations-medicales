@@ -36,12 +36,12 @@ dTcaPolio
 Ces dosages réduits ne peuvent être utilisés qu'à partir de 11 ans (BoostrixTetra, Repevax). Délai minimal entre 2 rappels de 1 mois.
 
 Rattrapage vaccinal
-: << Si un retard est intervenu dans le programme de vaccination, il n'est pas nécessaire de recommencer. Il suffit de reprendre ce programme au stade où il a été interrompu et de compléter la vaccination en fonction de l'âge et du nombre de doses de vaccin manquantes >> (*INPES*).
+: << Si un retard est intervenu dans le programme de vaccination, il n'est pas nécessaire de recommencer. Il suffit de reprendre ce programme au stade où il a été interrompu et de compléter la vaccination en fonction de l'âge et du nombre de doses de vaccin manquantes >>. – *INPES*
 
 Nourrisson prématuré
 : Naissance avant 37 semaines d'aménorrhée (SA).
 
-> << Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >> (*[SFSEP 2019](https://www.sciencedirect.com/science/article/abs/pii/S0035378719302759)*)
+> << Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >>. – *[SFSEP 2019](https://www.sciencedirect.com/science/article/abs/pii/S0035378719302759)*
 {.alert .alert-info}
 
 ### Abréviations
@@ -87,7 +87,7 @@ VVA
 {{% /collapse %}}
 {{%collapse "Rattrapage vaccinal" %}}
 
-> << Un rattrapage vaccinal est indiqué en cas de statut inconnu >> (*Calendrier vaccinal*)
+> << Un rattrapage vaccinal est indiqué en cas de statut inconnu >>. – *Calendrier vaccinal*
 {.alert .alert-info}
 
 {{< table title="Âges limites du rattrapage vaccinal systématique en population générale selon le Calendrier vaccinal" >}}

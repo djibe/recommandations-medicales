@@ -43,7 +43,7 @@ todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaq
 - Incidence: 225.000 femmes majeures/an
 - Décès: 121 en 2018
 
-> << Les données dans la littérature sont contradictoires concernant l'association entre le statut socio-économique et les violences conjugales >> (*Santé Publique France*)
+> << Les données dans la littérature sont contradictoires concernant l'association entre le statut socio-économique et les violences conjugales >>. – *Santé Publique France*
 
 ### Pour en savoir plus sur les violences faites aux femmes
 
@@ -74,12 +74,12 @@ Exemples de formulations:
 
 ### Le questionnaire WAST
 
-> << Le questionnaire WAST en français est un outil valide et rapide d'utilisation à destination de tous les professionnels de santé. >> (*Santé Publique France*)
+> << Le questionnaire WAST en français est un outil valide et rapide d'utilisation à destination de tous les professionnels de santé. >> – *Santé Publique France*
 {.alert .alert-info}
 
 {{< scores/wast >}}
 
-**NB.** << les femmes plébiscitent des approches garantissant la confidentialité et l'intimité tel que remplir un questionnaire seule et en privé >> (*Santé publique France*)
+> << les femmes plébiscitent des approches garantissant la confidentialité et l'intimité tel que remplir un questionnaire seule et en privé >>. – *Santé publique France*
 
 {{% /collapse %}}
 {{%collapse "Situation jugée grave" %}}

@@ -172,7 +172,7 @@ Efficacité immédiate et équivalente au traitement chirurgical du prolapsus. N
 Adresser à tout spécialiste en gynécologie (généraliste, gynécologue, sage-femme) pour l'évaluation du modèle adéquat et le suivi du pessaire gynécologique
 {.alert .alert-info}
 
-> << Il est recommandé de proposer la pose d'un pessaire en première intention à toutes les patientes présentant un prolapsus génital symptomatique, quels que soient leur âge et le stade du prolapsus >> (*HAS 2021*)
+> << Il est recommandé de proposer la pose d'un pessaire en première intention à toutes les patientes présentant un prolapsus génital symptomatique, quels que soient leur âge et le stade du prolapsus >>. – *HAS 2021*
 {.alert .alert-info}
 
 Éléments à connaître sur les pessaires:

@@ -180,8 +180,7 @@ Critères de réalisation d'un électrocardiogramme (ECG) 12 dérivations chez l
 {{% /collapse %}}
 {{%collapse "Information des sportifs" %}}
   
-> << Appeler - masser - défibriller >> (93% des morts subites au sport arrivent devant témoin)  
-[FédéCardio: Savez-vous sauver ?](https://fedecardio.org/je-me-teste/savez-vous-sauver/)
+> << Appeler - masser - défibriller >> (93% des morts subites au sport arrivent devant témoin) – *[FédéCardio: Savez-vous sauver ?](https://fedecardio.org/je-me-teste/savez-vous-sauver/)*
 
 Informer sur les 10 règles d'or pour le sportif:
 

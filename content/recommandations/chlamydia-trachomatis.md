@@ -154,7 +154,7 @@ PCR de contrôle à 6 mois
 - Dépistage des autres [IST](/tags/ist/)  
   Gonocoque, trichomonase, [syphilis]({{< relref "syphilis.md" >}}), [VIH]({{< relref "vih-sida.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}).
 - Statut vaccinal hépatite B ± vaccination VHB  
-  Indication: << Personnes ayant des relations sexuelles avec des partenaires multiples, exposées aux IST ou ayant une IST en cours ou récente >> (*Calendrier vaccinal. MinSanté*).
+  Indication: << Personnes ayant des relations sexuelles avec des partenaires multiples, exposées aux IST ou ayant une IST en cours ou récente >> (*Calendrier vaccinal*).
 
 #### Traitement des cas particuliers d'infections à Chlamydia
 

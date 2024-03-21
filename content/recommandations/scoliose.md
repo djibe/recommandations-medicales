@@ -66,7 +66,7 @@ PNDS
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << Toute scoliose est susceptible de s'aggraver >> (*HAS 2008*) et << Le dépistage doit être réalisé de façon systématique à l'adolescence >> (*CNPU*)
+> << Toute scoliose est susceptible de s'aggraver >> (*HAS 2008*) et << Le dépistage doit être réalisé de façon systématique à l'adolescence >>. – *CNPU*
 {.alert .alert-warning}
 
 La scoliose apparaît et évolue au cours de l'enfance (filles +++).
@@ -141,7 +141,7 @@ La prise en charge de la scoliose est pluridisciplinaire:
 - Kinésithérapie systématique  
   Ne contrôle pas l'évolutivité mais prévient les complications.
 - Activité physique adaptée régulière  
-  << La dispense de sport est rarement justifiée >> (*HAS 2008*)
+  << La dispense de sport est rarement justifiée >> (*HAS 2008*).
 - Correction d'un surpoids
 - Prévention de l'ostéoporose
 - Associations de patients: [Scoliose & partage](https://www.scoliose.org/silverstripe/), [Fondation Cotrel](https://www.fondationcotrel.org)

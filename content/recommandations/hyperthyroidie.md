@@ -447,7 +447,7 @@ Petit adénome toxique: la thermoablation (radiologie interventionnelle) est pos
 
 Avant chirurgie thyroïdienne, [dosage de la vitamine D et correction d'une carence]({{< relref "vitamine-d.md" >}}).
 
-> << Un projet de grossesse ne doit pas, de façon isolée, conduire à envisager plus rapidement un traitement chirurgical >> (*HAS 2022*)
+> << Un projet de grossesse ne doit pas, de façon isolée, conduire à envisager plus rapidement un traitement chirurgical >>. – *HAS 2022*
 {.alert .alert-info}
 
 #### Indications à la chirurgie de la thyroïde

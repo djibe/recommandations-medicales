@@ -189,7 +189,7 @@ La vaccination est recommandée pour les voyageurs, dès la naissance si besoin,
 {{% /collapse %}}
 {{%collapse "Vaccins hépatite B et schéma vaccinal" %}}
 
-> << Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >> (*[SFSEP 2019](https://doi.org/10.1016/j.neurol.2019.01.218)*)
+> << Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >>. – *[SFSEP 2019](https://doi.org/10.1016/j.neurol.2019.01.218)*
 {.alert .alert-info}
 
 La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
@@ -241,7 +241,7 @@ Si prématuré < 32 semaines ou poids < 2 kg: schéma 4 doses à J0-M1-M2-M6 ave
 
 Une seule contre-indication: hypersensibilité à la substance ou ses composants.
 
-> << Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >> (*[SFSEP 2019](https://www.sciencedirect.com/science/article/abs/pii/S0035378719302759)*)
+> << Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >>. – *[SFSEP 2019](https://www.sciencedirect.com/science/article/abs/pii/S0035378719302759)*
 {.alert .alert-info}
 
 {{% /collapse %}}

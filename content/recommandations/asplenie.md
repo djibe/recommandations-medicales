@@ -159,7 +159,7 @@ Vaccin [ACT-HIB®](https://base-donnees-publique.medicaments.gouv.fr/affichageDo
 
 1 dose annuelle de rappel au moment de la campagne annuelle de vaccination (voir [Grippe]({{< relref "grippe.md" >}})).
 
-> << Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques >> (sauf les vaccins vivants en cas d'immunosuppression). (*HCSP 2014*)
+> << Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques >> (sauf les vaccins vivants en cas d'immunosuppression). – *HCSP 2014*
 {.alert .alert-info}
 
 ### Vaccination de l'entourage du patient splénectomisé
