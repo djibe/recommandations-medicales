@@ -254,6 +254,8 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
   ECBU + rapport albuminurie/créatininurie (RAC).
 {{%/info%}}
 
+#### Examens supplémentaires selon le terrain
+
 - DFGe < 60 (voire < 45)
   - Ionogramme sanguin, bicarbonates
   - Ferritinémie
@@ -269,7 +271,7 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
 - ± NT-proBNP
 
 {{%/collapse %}}
-{{%collapse "Prise en charge et suivi de l'insuffisant rénal" %}}
+{{%collapse "Traitement de l'insuffisance rénale" %}}
 
 **Objectifs du traitement:** traiter la maladie causale, ralentir la progression de la maladie, prévenir le risque cardiovasculaire et les complications de la MRC.
 
@@ -340,6 +342,9 @@ Mesures précédentes avec les particularités suivantes chez la personne vivant
 - Traitements hypoglycémiants préférés: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}} voire {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}
 - Régime désodé < 5 g/j
 - Attention au risque hypoglycémique (sulfamide, glinide, insuline)
+
+{{%/collapse %}}
+{{%collapse "Suivi de la maladie rénale chronique" %}}
 
 ### Surveillance biologique selon HAS 2023
 

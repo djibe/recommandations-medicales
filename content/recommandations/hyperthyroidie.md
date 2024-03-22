@@ -494,7 +494,7 @@ Les corticoïdes peuvent être utilisés pour le traitement de l'hyperthyroïdie
 ### Informations sur la chirurgie de thyroïdectomie
 
 - Efficacité immédiate
-- Risque de complications chirurgicales locales (difficultés à parler, hypocalcémie, hémorragie)
+- Risque de complications chirurgicales locales (difficultés à parler, [hypocalcémie]({{< relref "hypocalcemie.md" >}}), hémorragie)
 - Hypothyroïdie définitive
 
 {{% /collapse %}}

@@ -7,7 +7,7 @@ synonyms = ["Eczéma atopique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-02T17:43:41+02:00
 publishdate = "2021-11-29"
-lastmod = "2023-06-19"
+lastmod = "2024-03-22"
 specialites = ["allergologie", "dermatologie"]
 annees = "2020"
 sources = ["EADV", "SFDermato", "CEDEF"]
@@ -23,9 +23,9 @@ todo = "phalangette, préparations CHRU, impétiginisation"
 
 {{%article-summary%}}
 
-- Traitement de fond de la dermatite atopique (DA): émollients quotidiens (préparations détaillées dans *Traitement de fond*) et éviction des facteurs favorisants
+- Traitement de fond de la dermatite atopique (DA): émollients quotidiens (voire préparations détaillées dans *Traitement de fond*) et éviction des facteurs favorisants
 - Prise en charge de la poussée d'eczéma atopique: {{< modal-btn modal-dc >}}dermocorticoïde d'activité adaptée{{< /modal-btn >}} en 1 seule application par jour jusqu'à disparition de l'inflammation puis arrêt brutal
-- Dermatite atopique sévère: contrôle de l'observance, suivi dermatologique spécialisé et École de l'atopie
+- Dermatite atopique sévère: contrôle de l'observance, suivi dermatologique spécialisé et *École de l'atopie*
 - [Guide SFD d'information sur la dermatite atopique (PDF)](https://www.sfdermato.org/upload/fiche/etfad-great-version-france-22o32019-dd00991406282f168b08aec43c3798f0.pdf)
 
 {{%/article-summary%}}
@@ -172,8 +172,9 @@ La prise en charge de la dermatite atopique est symptomatique avec **lutte contr
 Application 1 à 2 fois/j au long cours en couche épaisse (1 kg/mois chez l'adulte, prévoir 30 minutes d'application, doubler la dose par temps froid et sec):
 
 - Niveau 1  
-  [Glycérol/Vaseline/Paraffine 15%/8%/2% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62395668&typedoc=R).
-- Niveau 2: préparation*  
+  - Émollients: lait, gel, crème ou pommade
+  - Seul remboursé en France: [Glycérol/Vaseline/Paraffine 15%/8%/2% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62395668&typedoc=R).
+- Niveau 2: Préparation*  
   Glycérolé d'amidon 35 g + Cold Cream Fluide 300 mL sur tout le corps (*CHRU Lille*)
 - Niveau 3: Cérat de Galien ou préparation*:  
   Cire blanche 26 g + Huile de paraffine 107 g + Eau stérile 66 g + Borate de sodium 1 g (*CHRU Lille*)
@@ -280,6 +281,7 @@ accTitle: Conduite à tenir devant une suspicion de dermatite atopique et prise 
 {{%sources%}}
 
 - [Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéomuqueuses chez l'enfant et l'adulte. urticaire, dermatites atopique et de contact. Item 187. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-187-%E2%80%94-Hypersensibilites-et-allergies-cutaneo-muqueuses-chez-lenfant-et-ladulte.-Urticaire-dermatites-atopique-et-de-contact_CompressPdf.pdf)
+- [Ridd MJ et al. Effectiveness and safety of lotion, cream, gel, and ointment emollients for childhood eczema: a pragmatic, randomised, phase 4, superiority trial. Lancet Child Adolesc Health. 2022.](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(22)00146-8/fulltext)
 - [Staumont D. La dermatite atopique. Dermato-Info. 29/05/2021.](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-dermatite-atopique)
 - [Wollenberg A et al; European Task Force on Atopic Dermatitis/EADV Eczema Task Force. ETFAD/EADV Eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children. J Eur Acad Dermatol Venereol. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16892)
 - Prescrire Redaction. Eczéma atopique des nourrissons. Rev Prescrire. 2017.

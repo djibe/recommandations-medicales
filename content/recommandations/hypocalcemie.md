@@ -5,8 +5,8 @@ description = "Recommandations pour le diagnostic et la prise en charge de l'hyp
 synonyms = ["Diminution du calcium sérique", "calcémie basse"]
 auteurs = ["Alaedine BENANI", "Jean-Baptiste FRON"]
 date = "2024-03-08T15:43:33+01:00"
-publishdate = "2024-03-08"
-lastmod = "2024-03-08"
+publishdate = "2024-03-22"
+lastmod = "2024-03-22"
 specialites = ["endocrinologie", "néphrologie"]
 annees = "2024"
 sources = ["Collèges"]
@@ -14,16 +14,20 @@ tags = ["fatigue"]
 anglais = ["Hypocalcemia"]
 sctid = "5291005"
 icd10 = "E83.5"
-draft = true
 image = false
 imageSrc = ""
-todo = "summary > liens > photo > newsletter > flow"
+todo = "liens > photo > Alaedine"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-TODO:
+- L'hypocalcémie est une calcémie vraie inférieure à 2,2 mmol/L (ou 88 mg/L) ou une calcémie ionisée inférieure à 1,1 mmol/L
+- Le dosage de la calcémie doit toujours être accompagné du dosage de l'albuminémie pour le calcul de la calcémie corrigée (voir section dédiée), et/ou doser la calcémie ionisée
+- Devant une hypocalcémie, la présence de symptômes, une survenue aiguë ou l'absence d'électrocardiogramme au cabinet impose la réalisation du bilan initial en urgence (ECG ++) voire l'appel du SAMU
+- La prise en charge de l'hypocalcémie est urgente si elle est aiguë ou sévère (< 1,8 mmol/L ou symptomatique) et le traitement est à la fois symptomatique (supplémentation en calcium ± magnésium) et étiologique
+- Le bilan initial de l'hypocalcémie vraie comporte: PTH, phosphorémie et fonction rénale, 25 OH vitamine D, calciurie des 24 heures et ECG
+- Un avis spécialisé (endocrinologie ou néphrologie) est souvent nécessaire
 
 Chapitre lié: [vitamine D]({{< relref "vitamine-d.md" >}})
 
@@ -31,8 +35,8 @@ Chapitre lié: [vitamine D]({{< relref "vitamine-d.md" >}})
 {{%collapse "Définition" %}}
 
 Hypocalcémie
-: Calcémie inférieure à 2,2 mmol/L (88 mg/L, pour une albuminémie de 40 g/L) ou de calcémie ionisée < 1,15 mmol/L. Elle peut être modifiée par le pH (l'alcalose diminue la calcémie ionisée).
-: Elle est urgente lorsqu'elle est aiguë, symptomatique, sévère (< 1,8 mmol/L, 70 mg/L) ou ionisée < 1 mmol/L.
+: Calcémie inférieure à 2,2 mmol/L (88 mg/L, pour une albuminémie de 40 g/L) ou de calcémie ionisée < 1,1 mmol/L. Elle peut être modifiée par le pH (l'alcalose diminue la calcémie ionisée).
+: Elle est urgente lorsqu'elle est aiguë, symptomatique, sévère (< 1,8 mmol/L ou 70 mg/L) ou ionisée < 1 mmol/L.
 : Une hypocalcémie chronique ne peut survenir qu'en cas d'anomalie de la production de PTH ou de son action tissulaire ou d'une carence profonde en [vitamine D]({{< relref "vitamine-d.md" >}}) active.
 
 ### Diagnostic différentiel
@@ -162,7 +166,7 @@ La prise en charge de l'hypocalcémie est principalement étiologique.
 
 ### Traitement symptomatique d'une hypocalcémie chronique
 
-- Supplémentation en calcium: 500 à 1500 mg/j en dehors des repas  
+- Supplémentation en calcium: 500 à 2000 mg/j en 3-4 prises en dehors des repas  
   Max 500 mg/j si insuffisance rénale.
 - Suspension des traitements allongeant le QT
 - Si carence en 25 OH vitamine D: [supplémentation en vitamine D]({{< relref "vitamine-d.md" >}})
@@ -178,13 +182,13 @@ graph TB
   hypocalcémie["<b>Hypocalcémie</b><br>—<br>Calcémie &lt; 2,2 mmol/L"] -- Albumine couplée --> corrigée("- Calcul de la <br>calcémie corrigée<br>- Clinique") -- "CaCorr 1,8 - 2,2,<br>chronique et<br>asymptomatique" --> ambulatoire("<b>Bilan ambulatoire</b><br>—<br>- Antécédents<br>- Clinique<br>- ECG") --> bilan("- Créatinine<br>- PTH<br>- Phosphatémie<br>- Calciurie 24h<br>- 25 OH vitD") -- "PTH ↓ ou N" --> hypoparathyroïdie(Hypoparathyroïdie) --> endocrinologue(Endocrinologue)
   bilan -- PTH ↑ --> phosphatémie("Phosphatémie ?")
     bilan -- "Créatinine ↑↑<br>et phosphates ↑" --> insuffisance("Insuffisance rénale<br>sévère")
-    hypocalcémie -- "Calcémie ionisée couplée<br>&lt; 1,15" --> ionisée("Hypercalcémie vraie:<br>- Antécédents<br>- Clinique") -- "&lt; 1,<br>aiguë ou<br>symptomatique" --> urgences("Urgences voire SAMU")
+    hypocalcémie -- "Calcémie ionisée couplée<br>&lt; 1,1" --> ionisée("Hypercalcémie vraie:<br>- Antécédents<br>- Clinique") -- "&lt; 1,<br>aiguë ou<br>symptomatique" --> urgences("Urgences voire SAMU")
       corrigée -- "CaCorr &lt; 1,8,<br>aiguë ou<br>symptomatique" --> urgences
     hypocalcémie -- "Sans albumine<br>ou Ca ionisée" --> urgences
-      ionisée -- "1 - 1,15<br>chronique et<br>asymptomatique" --> ambulatoire
-        phosphatémie -- "Phosphatémie ↓" --> vitamineD("25 OH vitD ?") -- "vitD ↓" --> carence("- Carence d'apports<br>- Malabsorption<br>- Insuffisance hépatocellulaire<br>- Anticonvulsivants<br>- Biphosphonates")
+      ionisée -- "1 - 1,1<br>chronique et<br>asymptomatique" --> ambulatoire
+        phosphatémie -- "Phosphatémie ↓" --> vitamineD("25 OH vitD ?") -- "Vitamine D ↓" --> carence("- Carence d'apports<br>- Malabsorption<br>- Insuffisance hépatocellulaire<br>- Anticonvulsivants<br>- Biphosphonates")
         phosphatémie -- "Phosphatémie ↑" --> pseudo-hypoparathyroïdies("Pseudo-<br>hypoparathyroïdies")
-          vitamineD -- "vitD ↑" --> rachitisme("Rachitisme<br>vitamino-résistant")
+          vitamineD -- "Vitamine D ↑" --> rachitisme("Rachitisme<br>vitamino-résistant")
   style hypocalcémie stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
@@ -193,19 +197,9 @@ graph TB
 
 - [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hypercalcémie - hypocalcémie. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?article28)
 - {{< references/college-endocrino >}}
+- [Kamenický P. Hypocalcémie de l'adulte. MCED. 2016. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/JNDES/2016/16_jndes_hypocalcemie_adulte_p_kamenicky.pdf)
 - [Fong J, Khan A. Hypocalcémie: Mises à jour dans le diagnostic et la prise en charge en soins primaires. Can Fam Physician. 2012.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3279287/)
 - [Orphanet. Hypoparathyroïdie isolée familiale. 2005.](https://www.orpha.net/fr/disease/detail/2238?name=Hypoparathyroidie&mode=name)
 - [Guitton C et al; Société de Réanimation de Langue Française. Dyscalcémie aux urgences. 2002. (PDF)](https://www.srlf.org/wp-content/uploads/2015/11/0211-Reanimation-Vol11-N7-p493_501.pdf)
 
-### Bibliographie en attente
-
-- [Kamenický P. Hypocalcémie de l'adulte. MCED. 2016.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/JNDES/2016/16_jndes_hypocalcemie_adulte_p_kamenicky.pdf)
-- Collège
-- Prescrire
-- Cochrane
-- Minerva
-- Cismef
-
 {{%/sources%}}
-
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–

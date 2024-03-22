@@ -268,7 +268,7 @@ Complications possibles de la chirurgie:
 
 - [Hypothyroïdie]({{< relref "hypothyroidie.md" >}}): TSH de contrôle à 6-8 semaines  
   Elle est systématique lors de la thyroïdectomie totale, peu fréquente après lobo-isthmectomie (facteurs majeurs: TSH pré-opératoire, thyroïdite lymphocytaire chronique)
-- **Hypocalcémie** iatrogène après thyroïdectomie totale: hypocalcémie persistante à 6 mois avec PTH inadaptée
+- **[Hypocalcémie]({{< relref "hypocalcemie.md" >}})** iatrogène après thyroïdectomie totale: hypocalcémie persistante à 6 mois avec PTH inadaptée
 - Paralysie récurrentielle définitive avec dysphonie (1% par côté)
 
 La **thermoablation** (TA) est une alternative en cas de nodule bénin (à 2 reprises en cytologie) solide: gênant, autonome ou volumineux. Surveillance bio-échographique à 3, 6, 12 mois puis annuellement pendant 5 ans. Elle peut parfois être combinée à l'alcoolisation percutanée.

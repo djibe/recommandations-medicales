@@ -8,7 +8,7 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2024-01-28"
+lastmod = "2024-03-22"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2023"
 sources = ["HAS", "HCSP", "MinSanté"]
@@ -30,7 +30,7 @@ Page servant uniquement à stocker quelques mémos
 - Maladie à déclaration obligatoire par le biologiste
 - [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire)
 - Vaccination de toutes les femmes enceintes quel que soit le terme (*CNGOF*)
-- Rappel à partir du 2 octobre 2023 ([MinSanté](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/la-campagne-de-vaccination-contre-le-covid-19-avancee-de-15-jours-commencera-le)) si +65 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave (chimio, dialyse, voir *Personnes à risque*, *DGS 2023-07*) et 2e rappel au printemps si +80 ans fragile (*HAS 2023*)
+- Rappel au printemps 2024 ([MinSanté](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/ si +80 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave (chimio, dialyse, voir *Personnes à risque*, *DGS 2024-02*)
 - Passe vaccinal frauduleux désirant se faire vacciner, orienter vers un centre de vaccination (*[CNOM 23/02](https://www.conseil-national.medecin.fr/publications/actualites/rectification-vaccinal-frauduleux)*)
 
 << Important de bien comprendre cela car pas du tout évident à priori. L'immunité naturelle, celle que l'on acquiert après une infection procure en générale une bonne protection. Ce n'est pas le cas avec le Sars-Cov2, non seulement l'immunité naturelle ne semble pas très efficace mais le virus éroderait notre système immunitaire. De plus, les réinfections augmenteraient le risque de séquelles à long terme. >> – *Pr Rémi Salomon 16/07/2022*

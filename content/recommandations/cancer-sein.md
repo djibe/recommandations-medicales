@@ -99,7 +99,7 @@ Chiffres du cancer du sein en France:
 ### Abréviations
 
 ACOG
-: {{%lang%}}The American College of Obstetricians and Gynecologists{{%/lang%}}
+: {{%lang%}}American College of Obstetricians and Gynecologists{{%/lang%}}
 
 AES
 : auto-examen des seins

@@ -26,6 +26,7 @@ chart = true
 *Vaste chapitre en chantier*
 
 - 0 alcool et 0 tabac pendant la grossesse, interroger à chaque consultation
+- 1/3 des tests de grossesse non conformes (*[DGCCRF](https://www.economie.gouv.fr/dgccrf/les-autotests-de-fertilite-au-banc-dessai)*)
 - Vaccins grippe et coqueluche à chaque grossesse et 3 doses cumulées de Covid-19
 - [Nata](https://play.google.com/store/search?q=NATA&c=apps): l'appli officielle du suivi de grossesse multilingue
 - Besoins en [calcium]({{< relref "apports-calcium.md" >}}): 1 g/j (*IOF*) et [alimentation pendant la grossesse (MangerBouger)](https://www.mangerbouger.fr/manger-mieux/a-tout-age-et-a-chaque-etape-de-la-vie/les-recommandations-et-conseils-avant-pendant-et-apres-la-grossesse/manger-equilibre-avant-pendant-et-apres-la-grossesse)

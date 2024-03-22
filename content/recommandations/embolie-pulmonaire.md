@@ -324,6 +324,7 @@ accTitle: Prise en charge ambulatoire d'une suspicion d'embolie pulmonaire d'apr
 
 ### Bibliographie en attente
 
+- [Wang X et al. Oral direct thrombin inhibitors or oral factor Xa inhibitors versus conventional anticoagulants for the treatment of deep vein thrombosis. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010956.pub3/full)
 - [Collège des Enseignants de Pneumologie (CEP). Embolie pulmonaire et thrombose veineuse profonde. Item 226. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_226_MALADIE_THROMBO-EMBOLIQUE_VEINEUSE_2023.pdf)
 - [Stavros V et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS). 2019.](https://erj.ersjournals.com/content/54/3/1901647)
 

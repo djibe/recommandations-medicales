@@ -165,7 +165,7 @@ Nécessité d'une consultation spécifique ciblée sur l'arrêt des BZD en déci
 - Conseils adaptés pour réduire puis arrêt les BZD
 - Tenir un [calendrier de décroissance (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_calendrier_de_suivi.pdf) (posologies, symptômes) et [agenda de sommeil (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_agenda_sommeil_-_eveil.pdf)
 
-### La décroissance
+### La décroissance des benzodiazépines
 
 Arrêt progressif en 1 à 3 mois (voire 1 an).
 {.alert .alert-info}
@@ -183,6 +183,8 @@ Arrêt progressif en 1 à 3 mois (voire 1 an).
   réévaluation diagnostique et traitement spécifique ([dépression]({{< relref "depression.md" >}}), troubles anxieux, insomnie).
 - Syndrome de sevrage grave (confusion, hallucinations, troubles de vigilance, convulsions, coma):  
   Hospitalisation.
+
+{{< card-link-external title="e-learning Sevrage des benzodiazépines" url="https://auditorium.flowsparks.com/?startactivity=AFBZD" subtitle="par le CBIP (compte gratuit)" >}}
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
@@ -228,6 +230,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< card-link-external title="e-learning Sevrage des benzodiazépines" url="https://auditorium.flowsparks.com/?startactivity=AFBZD" subtitle="par le CBIP (compte gratuit)" >}}
+
 - [AddictoVigilance. Mésusage et abus des benzodiazépines et apparentés : où en est-on ?. 2023. (PDF)](https://addictovigilance.fr/wp-content/uploads/2023/06/Bulletin-benzodiazepines-n%C2%B020-juin-2023-VF-1-1.pdf)
 - [Collège National Universitaire de Psychiatrie (CNUP). Prescription et surveillance des psychotropes. Item 74. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
 - Prescrire Redaction. Benzodiazépines ou apparentés. Rev Prescrire. Janvier 2021.
@@ -237,7 +241,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Baldwin D et al; British Association for Psychopharmacology. Benzodiazepines: Risks and benefits. A reconsideration. 2013. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Benzodiazepines.pdf)
+[Baldwin D et al; British Association for Psychopharmacology. Benzodiazepines: Risks and benefits. A reconsideration. 2013. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Benzodiazepines.pdf)
 
 {{%/sources%}}
 {{% modal title="Échelle ECAB" id="modal-score-ecab"%}}

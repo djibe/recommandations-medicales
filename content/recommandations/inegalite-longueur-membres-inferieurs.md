@@ -93,6 +93,8 @@ https://pap-pediatrie.fr/les-inegalites-de-longueur-des-membres-inferieurs
 
 ### Bibliographie en attente
 
+- Collège Suivi d’un nourrisson, d’un enfant, et d’un adolescent normal.
+Dépistage des anomalies orthopédiques .
 - https://www.revmed.ch/RMS/2017/RMS-N-550/Corrections-d-axes-et-allongements-des-membres-inferieurs-en-orthopedie-pediatrique
 - https://www.veterans.gc.ca/fra/health-support/physical-health-and-wellness/compensation-illness-injury/disability-benefits/benefits-determined/entitlement-eligibility-guidelines/leglen
 - Vidéo: Compensation des inégalités de longueur des membres inférieurs (ILMI)
