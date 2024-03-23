@@ -6,17 +6,17 @@ synonyms = ["Diminution du calcium sérique", "calcémie basse"]
 auteurs = ["Alaedine BENANI", "Jean-Baptiste FRON"]
 date = "2024-03-08T15:43:33+01:00"
 publishdate = "2024-03-22"
-lastmod = "2024-03-22"
+lastmod = "2024-03-23"
 specialites = ["endocrinologie", "néphrologie"]
 annees = "2024"
-sources = ["Collèges"]
+sources = ["Bibliographie"]
 tags = ["fatigue"]
 anglais = ["Hypocalcemia"]
 sctid = "5291005"
 icd10 = "E83.5"
 image = false
 imageSrc = ""
-todo = "liens > photo > Alaedine"
+todo = "photo"
 flowchart = true
 +++
 
@@ -69,7 +69,7 @@ Le calcul de la **calcémie corrigée** (valeur de la calcémie totale si l'albu
 {{% /collapse %}}
 {{%collapse "Étiologies de l'hypocalcémie" %}}
 
-### Causes d'hypercalcémie chronique
+### Causes d'hypocalcémie chronique
 
 Causes d'hypocalcémie chronique, évaluées selon le niveau de PTH:
 
@@ -88,7 +88,7 @@ Causes d'hypocalcémie chronique, évaluées selon le niveau de PTH:
   - [Insuffisance rénale chronique sévère]({{< relref "insuffisance-renale-chronique.md" >}})  
     PTH élevée avec phosphatémie élevée.
 
-### Causes d'hypercalcémie aiguë
+### Causes d'hypocalcémie aiguë
 
 - Hypoparathyroïdie aiguë post-parathyroïdectomie (PTH basse)
 - Autres hypocalcémies aiguës (PTH élevée)
