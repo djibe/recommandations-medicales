@@ -36,6 +36,8 @@ flowchart = true
 - La consultation n'est pas prise en charge par l'*Assurance Maladie*
 - La mort subite atteint quasi exclusivement les hommes d'âge moyen et il est bien plus efficace d'apprendre à masser, de signaler les symptômes à l'effort et de corriger les facteurs de risque cardiovasculaire avant les accidents (*[Anys 2021](https://www.larevuedupraticien.fr/article/faut-il-un-screening-cardiaque-du-sportif-pour-ou-contre-2)*)
 
+Chapitre lié: [test d'effort]({{< relref "epreuve-effort.md" >}})
+
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 

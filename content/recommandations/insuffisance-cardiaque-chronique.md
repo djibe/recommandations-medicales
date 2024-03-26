@@ -412,7 +412,7 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 [Information service de suivi Prado (PDF)](https://www.ameli.fr/sites/default/files/Documents/4084/document/je_suis_accompagnee_apres_mon_hospitalisation_pour_decompensation_cardiaque_service_prado_assurance_maladie.pdf) et [Carnet de suivi Ameli du service Prado de retour à domicile (PDF)](https://www.ameli.fr/sites/default/files/Documents/400225/document/prado_ic_carnet_de_suivi_ic.pdf).
 
 {{% /collapse %}}
-{{%collapse "Surveillance de l'insuffisant cardiaque" %}}
+{{%collapse "Suivi" %}}
 
 {{< table title="Nombre minimal de consultations par an de l'<strong>ICFEd</strong> en état stable. HAS 2014" >}}
 | NYHA  | Généraliste | Cardiologue |
@@ -430,6 +430,8 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 | III-IV | 4-12       | 2-3         |
 {{< /table >}}
 
+Éléments à reprendre pour le suivi de l'insuffisant cardiaque:
+
 - {{< modal-btn modal-observance >}}Observance du traitement{{< /modal-btn >}}
 - Auto-surveillance du poids et adaptation du furosémide
 - Consulter en aggravation des symptômes ou l'absence d'amélioration sous traitement
@@ -446,7 +448,7 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 - Dépister annuellement anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant une insuffisance cardiaque" "show" %}}
+{{%collapse "Prise en charge de l'insuffisance cardiaque" "show" %}}
 
 {{< mermaid title="Prise en charge pour le diagnostic et le bilan initial de l'insuffisance cardiaque chronique par le médecin généraliste. Dr JB Fron d'après ESC 2023" >}}
 graph TB

@@ -58,6 +58,18 @@ LTFA
 {.dl-inline}
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Les diagnostics différentiels de l'entorse de la cheville sont explorés par les critères d'Ottawa:
+
+- Fracture des malléoles
+- Arrachement de la base du 5e métatarsien
+- Fracture arrachement du tubercule du naviculaire
+- Luxation des tendons fibulaires
+- Ruptures tendineuses
+- Entorses: talo-naviculaire, talo-calcanéenne, calcanéo-cuboïdienne
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 ### Interrogatoire
@@ -108,7 +120,7 @@ TODO:
 Radiographies de cheville double incidence (face en rotation interne 20° et profil)
 {.alert .alert-info}
 
-Les radiographies de cheville sont systématiques si au moins 1 parmi (règles d'Ottawa):
+Les radiographies de cheville double incidence sont systématiques en présence d'au moins 1 critère parmi (règles d'Ottawa):
 
 1. Âge < 18 ans ou > 55 ans
 2. Douleurs à la palpation d'une malléole sur ses 6 derniers centimètres
@@ -116,6 +128,8 @@ Les radiographies de cheville sont systématiques si au moins 1 parmi (règles d
 4. Impossibilité de faire 4 pas en plein appui
 
 Des **radiographies du pied** sont associées en cas de douleurs à la palpation (naviculaire, métatarsien).
+
+> Les critères d'Ottawa ont une sensibilité de 100 % pour une fracture de la cheville et du médio-pied.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'entorse de la cheville" %}}
@@ -143,15 +157,15 @@ Lors de la réévaluation à J3-J5:
 {{% /collapse %}}
 {{%sources%}}
 
+- [Bachmann LM et al. Accuracy of Ottawa ankle rules to exclude fractures of the ankle and mid-foot: systematic review. BMJ. 2003.](https://www.bmj.com/content/326/7386/417)
 - [Collège Français des Chirurgiens Orthopédistes et Traumatologues (COFCOT). Lésions péri-articulaires et ligamentaires de la cheville (lésions ligamentaires). Orthopédie Traumatologie. 3e édition. 2020. (PDF)](https://www.sofcot.fr/sites/www.sofcot.fr/files/medias/documents/CollegeOrthop%C3%A9dieTraumatologieELLIPSES%203%C3%A8me%20%C3%A9dition.pdf)
 - [Vermeulen B et al; Société Francophone d'Urgences Médicales. L'entorse de la cheville au service d'Urgences. 1995.](https://www.sfmu.org/fr/vie-professionnelle/outils-professionnels/consensus//entorse-de-cheville/con_id/174)
+- [Stiell IG et al. Implementation of the Ottawa ankle rules. JAMA. 1994.](https://jamanetwork.com/journals/jama/article-abstract/367534)
 
 ### Bibliographie en attente
 
 - [American College of of Radiology. ]()
 - Prescrire Redaction. Entorse de cheville chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2023.
-- [Bachmann LM et al. Accuracy of Ottawa ankle rules to exclude fractures of the ankle and mid-foot: systematic review. BMJ. 2003.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC149439/)
-- Collège
 - Prescrire
 - Cochrane
 - Minerva

@@ -40,7 +40,7 @@ Puberté précoce (PP)
 : Complication: petite taille à l'âge adulte.
 
 La survenue précoce de la puberté est associée à une maturation sexuelle plus rapide et plus marquée du développement physique.  
-**Âge osseux >> Âge statural > Âge chronologique**
+**Âge osseux >\> Âge statural > Âge chronologique**
 
 Seins de S1 à S4 chez les filles - Testicules de G1 à G5 chez les garçons - Pilosité pubienne de P1 à P5.
 

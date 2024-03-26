@@ -461,19 +461,20 @@ Les informations sur la maladie sont expliquées et reprises sur plusieurs consu
 - Signaler les autres traitements pris
 - Plus tard: impact sur la famille, soutiens, aides sociales, risques de la conduite automobile
 
-> *HAS 2016*
+> – *HAS 2016*
 
 {{% /collapse %}}
 {{% collapse "Prise en charge de la maladie de Parkinson débutante" "show" %}}
 
 {{< mermaid title="Traitements médicamenteux des troubles moteurs au début de la Maladie de Parkinson. Dr JB Fron d'après HAS 2016">}}
 graph TB
-  Parkinson[Syndrome parkinsonien typique<br>sans gêne fonctionnelle] --> neurologue(Avis neurologique) --> abstention(Abstention en l'absence de gêne) --> gêne(Symptômes avec gêne fonctionnelle)
-  style Parkinson stroke:#4150f5, stroke-width:1px
+  Parkinson[Syndrome parkinsonien typique<br>sans gêne fonctionnelle] --> neurologue(Neurologue) -- Diagnostic --> maladie(Maladie de Parkinson) --> abstention(Abstention en l'absence de gêne) -.-> gêne(Symptômes avec gêne fonctionnelle)
+    neurologue -- Différentiel --> autre(Autre diagnostic)
     gêne --> IMAOB("<b>IMAO B</b><br>—<br>Sujet jeune avec gêne<br>modérée")
     gêne --> agonistes("<b>Agonistes<br>dopaminergiques</b><br>—<br>Sujet jeune sans<br>contre-indication") -. Intolérance .-> Levodopa
     gêne --> Levodopa("<b>Lévodopa</b><br>—<br>Sujet âgé")
     gêne --> autres("<b>Autres options</b><br>—<br>Amantadine<br>Anticholinergiques<br>si tremblement<br>prédomine")
+  style Parkinson stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{< mermaid title="Prise en charge par traitement médicamenteux des troubles moteurs au stade avancé de la Maladie de Parkinson. Dr JB Fron d'après HAS 2016. SC = sous-cutanée">}}

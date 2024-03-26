@@ -578,6 +578,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Yrondi A et al. French Society for Biological Psychiatry and Neuropsychopharmacology (AFPBN) guidelines for the management of patients with partially responsive depression and treatment-resistant depression: Update 2024. Encephale. 2024.](https://pubmed.ncbi.nlm.nih.gov/38369426/)
 - [Belzeaux R et al. French Society for Biological Psychiatry and Neuropsychopharmacology and French-speaking Marcé Society guidelines for the management of mood disorders in women before, during, and after pregnancy. Arch Womens Ment Health. 2024.](https://link.springer.com/article/10.1007/s00737-024-01440-6)
 - [CBIP. Arrêt progressif des antidépresseurs : lignes directrices (mise à jour 2024). Folia Pharmacotherapeutica. 2024.](https://www.cbip.be/fr/articles/4239?folia=4237)
 - [Anaes, FFP. La crise suicidaire : reconnaître et prendre en charge. 2000.](https://www.has-sante.fr/jcms/c_271964/fr/la-crise-suicidaire-reconnaitre-et-prendre-en-charge)

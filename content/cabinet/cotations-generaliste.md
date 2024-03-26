@@ -13,7 +13,7 @@ tags = []
 image = true
 imageSrc = "unDraw"
 style = "thead > tr > th:first-of-type {width: 110px}"
-todo = "VSP, CTE, FS exemple frottis, MD, jour férié, IK, routexl, MPH aussi quand change de MT ?, https://www.fmfpro.org/nomenclature/tarifs-medecins-generalistes-metropole/"
+todo = "RDV, VSP, CTE, FS exemple frottis, MD, jour férié, IK, routexl, MPH aussi quand change de MT ?, https://www.fmfpro.org/nomenclature/tarifs-medecins-generalistes-metropole/"
 +++
 
 Liste des codes pour les actes et les consultations en médecine générale.
@@ -157,7 +157,9 @@ Cotations NGAP disponibles en sus de la consultation ou de la visite.
 
 ### Les actes importants pour le médecin généraliste {.mt-5}
 
-Actes CCAM importants non cumulables ou cumulables avec une consultation (3 au total: ECG, frottis cervico-vaginal et biopsie cutanée).
+Actes CCAM importants non cumulables ou cumulables avec une consultation (3 possibles en cumul: ECG, frottis cervico-vaginal et biopsie cutanée).
+
+Les sutures ne sont pas présentées ici mais penser à associer le code CCAM *M* (26,88 €) de soins d'urgences.
 
 {{< table title="Actes importants pour le médecin généraliste. Majoration M possible si urgence pour les actes mentionnés" class="table-wrap" >}}
 | Code CCAM   | Description                                                               | Tarif&nbsp;(€) |

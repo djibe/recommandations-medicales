@@ -20,7 +20,7 @@ Le projet est né suite à plusieurs constats:
 - Or nous ne retenons que 10% de ce que nous lisons
 - Donc même en apprenant TOUT, nous n'en saurions pas plus de 10%, ce qui est insuffisant
 - Nous sommes donc dans la nécessité d'avoir un accès permanent à de l'information fiable pour guider nos consultations
-- De plus, les enjeux de Santé publique ([hypertension artérielle](https://recomedicales.fr/recommandations/hypertension-arterielle/), [diabète type 2](https://recomedicales.fr/recommandations/diabete-type-2/), [BPCO](https://recomedicales.fr/recommandations/bronchopneumopathie-chronique-obstructive/), [ostéoporose](https://recomedicales.fr/recommandations/osteoporose/) sont d'une complexité croissante, hors de portée de simples fiches textes et de nos petits cerveaux.
+- De plus, les enjeux de Santé publique ([hypertension artérielle](https://recomedicales.fr/recommandations/hypertension-arterielle/), [diabète type 2](https://recomedicales.fr/recommandations/diabete-type-2/), [BPCO](https://recomedicales.fr/recommandations/bronchopneumopathie-chronique-obstructive/), [ostéoporose](https://recomedicales.fr/recommandations/osteoporose/)) sont d'une complexité croissante, hors de portée de simples fiches textes et de nos petits cerveaux.
 
 Seul un outil numérique peut nous aider.
 
@@ -90,7 +90,7 @@ Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans
 
   1. Sur le PC, aller dans le dossier (au choix) où placer le projet et lancer Powershell ou le Terminal de Windows en mode administrateur (clic droit dans le dossier sous Windows 11)
   2. Entrer les commandes suivantes:
-  3. `winget install --id CoreyButler.NVMforWindows --force`
+  3. `winget install --id=Git.Git -e && winget install --id=CoreyButler.NVMforWindows -e`
   4. Fermer la commande et la relancer
   5. `git clone https://github.com/djibe/recommandations-medicales.git`
   6. puis placer la *Commande* dans le dossier `/recommandations-medicales`
@@ -106,7 +106,7 @@ Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans
   Désinstaller Hugo si déjà installé et entrer les commandes dans l'ordre:
 
   1. `sudo apt install wget curl nodejs npm git-all golang-go -y`
-  2. `wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash`
+  2. `wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash`
   3. Fermer le terminal
   4. Ouvrir le terminal et entrer: `nvm install 14`
   5. Positionner le terminal sur le dossier souhaité
@@ -121,11 +121,11 @@ Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans
 
 ### Créer un nouvel article
 
-Entrez la commande `npm run recommandations:new`.
+Entrer la commande `npm run recommandations:new`.
 
 Le fichier article.md est créé dans le dossier `/content/recommandations/`.
 
-Tous les articles sont au [format Markdown](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0) qui permet d'écrire du texte brut avec quelques enrichissements pour se concentrer sur le contenu.
+Tous les articles sont au [format Markdown](https://github.com/lifeparticle/Markdown-Cheatsheet) qui permet d'écrire du texte brut avec quelques enrichissements pour se concentrer sur le contenu.
 
 ### Faciliter l'édition du contenu
 

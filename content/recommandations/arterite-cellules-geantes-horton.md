@@ -23,7 +23,7 @@ todo = "flow"
 {{%article-summary%}}
 
 - L'artérite à cellules géantes ou maladie de Horton est rare et atteint surtout les femmes après 70 ans originaires d'Europe du Nord
-- Les symptômes sont dominés par des céphalées inhabituelles (récentes, nocturnes ou matinales), une claudication de la mâchoire, une Hyperesthésie du scalp ou des symptômes visuels (signe de gravité: BAV, amaurose, diplopie)
+- Les symptômes sont dominés par des céphalées inhabituelles (récentes, nocturnes ou matinales), une claudication de la mâchoire, une hyperesthésie du scalp ou des symptômes visuels (signe de gravité: BAV, amaurose, diplopie)
 - Une pseudo-polyarthrite rhizomélique (PPR) est fréquemment associée avec des arthralgies et des myalgies des épaules et du bassin
 - Le bilan affirme un syndrome inflammatoire quasi constant: NFS, CRP > 25 mg/L, VS ou fibrinogène élevés
 - Adresser en semi-urgence toute suspicion de maladie de Horton au spécialiste (rhumatologue, interniste) du centre de compétence ([annuaire](https://www.fai2r.org/les-centres-fai2r/centres-competence/)) pour affirmer le diagnostic par biopsie de l'artère temporale (BAT)

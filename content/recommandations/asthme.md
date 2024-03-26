@@ -495,7 +495,7 @@ Confirmer le diagnostic avant de démarrer un traitement, puis instaurer rapidem
   - Toujours disposer de {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} de secours
   - {{< modal-btn modal-vaccin-pneumocoque >}}Vaccin pneumocoque{{< /modal-btn >}} et coqueluche ++
   - [Carte du patient asthmatique](https://asthme-allergies.org/carte-asthme-agir/)
-  - [Guide patient HAS: vivre avec un asthme (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-07/mieux_vivre_avec_son_asthme_2008-07-15_15-59-23_222.pdf)
+  - [Guide patient HAS: vivre avec un asthme (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-07/mieux_vivre_avec_son_asthme_2008-07-15_15-59-23_222.pdf), [Ameli: Comprendre ma maladie & bien utiliser mon dispositif d'inhalation (PDF)](https://www.ameli.fr/sites/default/files/Documents/5358/document/asthme-bien-utiliser-dispositif-inhalation_assurance-maladie.pdf)
   - [Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/)
 - Mesures hygiéno-diététiques
   - Correction d'un surpoids
@@ -561,16 +561,9 @@ La prescription dépend uniquement du pneumologue:
 {{% /collapse %}}
 {{%collapse "Techniques d'inhalation des bronchodilatateurs" %}}
 
-[Asthma education videos](https://ginasthma.org/asthma-education-videos/)
+[Asthma education videos](https://ginasthma.org/asthma-education-videos/) et [Ameli: Comprendre ma maladie & bien utiliser mon dispositif d'inhalation (PDF)](https://www.ameli.fr/sites/default/files/Documents/5358/document/asthme-bien-utiliser-dispositif-inhalation_assurance-maladie.pdf).
 
-*Ouvrir chaque vidéo dans un nouvel onglet.* (clic droit > Ouvrir le lien dans un nouvel onglet)
-
-{{< iframe url="https://splf.fr/videos-zephir/" title="SPLF: vidéos pour la maîtrise des inhalateurs">}}
-
-{{% /collapse %}}
-{{%collapse "Information du patient" %}}
-
-[Ameli. Comprendre ma maladie & bien utiliser mon dispositif d'inhalation (PDF)](https://www.ameli.fr/sites/default/files/Documents/5358/document/asthme-bien-utiliser-dispositif-inhalation_assurance-maladie.pdf)
+{{< card-link-external title="Vidéos pour la maîtrise des inhalateurs" url="https://splf.fr/videos-zephir/" subtitle="par la SPLF" >}}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'asthme" "show" %}}

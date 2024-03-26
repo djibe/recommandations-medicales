@@ -37,8 +37,6 @@ todo = "img, quantiféron"
 En cas de grossesse sous méthotrexate, adresser au diagnostic anténatal en semi-urgence
 {.alert .alert-warning}
 
-### Contre-indications au méthotrexate
-
 - [Grossesse]({{< relref "grossesse.md" >}})  
   Possible sans délai après l'arrêt de la contraception ([CRAT](http://www.lecrat.fr/3331/)).
 - [Allaitement]({{< relref "allaitement.md" >}})
@@ -108,7 +106,7 @@ Bilan pré thérapeutique du méthotrexate:
 - Puis mensuel pendant 2 mois
 - Puis trimestriel (1-2 jours avant l'injection)
 
-> — Schéma de surveillance du GETAID
+> — Schéma de surveillance du *GETAID*
 
 {{% /collapse %}}
 {{%collapse "Spécialités - Fiches RCP - Grossesse" %}}
@@ -170,6 +168,10 @@ La supplémentation en acide folique (vitamine B9) réduit les effets indésirab
 - [GETAID. Méthotrexate.](https://www.getaid.org/fiches-medicament/le-methotrexate-ledertrexate-methotrexate-metoject-nordimet-novatrex)
 - [CRI. Comment optimiser l'efficacité du méthotrexate ? (PDF)](http://www.cri-net.com/ckfinder/userfiles/files/fiches-pratiques/MTX-Dec2016/MTX_02.pdf)
 - [HAS. Commission de la transparence. 20/11/2013. (PDF)](https://www.has-sante.fr/upload/docs/evamed/CT-12801_NOVATREX_PIS_RI_Avis1_CT12801.pdf)
+
+### Bibliographie en attente
+
+[Club Rhumatisme et Inflammations (CRI).  Prise en charge pratique des patients sous méthotrexate. Fiches pratiques du CRI. 2016.](https://cri-net.com/fiches-du-cri/dernieres-mises-a-jour/fiches-pratiques-mtx)
 
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}

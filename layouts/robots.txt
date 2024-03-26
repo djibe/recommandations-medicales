@@ -44,4 +44,8 @@ User-agent: *
 Allow: /
 Disallow: /index.json
 
+User-agent: *
+Allow: /
+Disallow: /recommandations/index.json
+
 Sitemap: {{ "sitemap.xml" | absURL }}
