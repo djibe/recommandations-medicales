@@ -4360,6 +4360,14 @@ a.text-secondary:hover, a.text-secondary:focus, a.text-secondary:active {
   color: #e87500 !important;
 }
 
+a.text-danger:hover, a.text-danger:focus, a.text-danger:active {
+  color: #b7374f !important;
+}
+
+.text-danger {
+  color: #f54150 !important;
+}
+
 a.text-warning:hover, a.text-warning:focus, a.text-warning:active {
   color: #ee6002 !important;
 }

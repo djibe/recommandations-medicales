@@ -26,7 +26,7 @@ Sélection de grilles et scores essentiels en pratique quotidienne de médecine 
 
 ## Cardiovasculaire {.typography-overline}
 
-HTA: [carnet international d'automesure tensionnelle (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
+HTA: [carnet international d'automesure tensionnelle (PDF)](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf)
 
 - ACFA: {{< modal-btn modal-chads >}}score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}}
 - AOMI: {{< modal-btn modal-depistage-prevalent >}}critères de dépistage chez le +55 ans{{< /modal-btn >}}

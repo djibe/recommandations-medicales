@@ -32,7 +32,7 @@ flowchart = true
 - Les cibles tensionnelles dépendant du profil (120-129 / 70-79 mmHg avant 80 ans) et ne sont connues que pour les mesure au cabinet
 - Objectif d'un seul comprimé antihypertenseur combiné et informer sur les conséquences d'une hypertension non traitée ([accidents cardiovasculaires](/tags/risque-cardiovasculaire/), démence)
 - Bithérapies antihypertensives de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
-- [Le carnet d'automesure tensionnelle 2021 (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
+- [Le carnet d'automesure tensionnelle 2021 (PDF)](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -218,7 +218,7 @@ Le brassard est spécifique de chaque appareil.
 {{% /collapse %}}
 {{%collapse "Automesure tensionnelle" %}}
 
-[Le carnet d'automesure tensionnelle en PDF (international 2021)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf) et les [appareils validés pour l'automesure tensionnelle](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=home).
+[Le carnet d'automesure tensionnelle en PDF (international 2021)](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf) et les [appareils validés pour l'automesure tensionnelle](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=home).
 
 L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hypertension en vie quotidienne et démasquer une hypertension masquée:
 
