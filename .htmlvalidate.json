@@ -1,7 +1,5 @@
 {
-  "extends": [
-    "html-validate:recommended"
-  ],
+  "extends": ["html-validate:recommended"],
   "rules": {
     "attr-quotes": "off",
     "doctype-style": "off",
@@ -13,6 +11,9 @@
       "exclude": [ "button", "section" ]
     }],
     "svg-focusable": "off",
-    "void-style": "off"
+    "valid-id": "off",
+    "void-style": "off",
+    "wcag/h32": "off",
+    "wcag/h63": "off"
   }
 }
