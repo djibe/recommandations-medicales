@@ -9,6 +9,7 @@
     "specialites": "{{ delimit .Params.specialites ", " }}",
     "annees": "{{ .Params.annees }}",
     "sources": "{{ delimit .Params.sources ", " }}",
+    "reviewer": "{{ with .Params.relecteur }}{{ . }}{{ end }}",
     "tags": "{{ delimit .Params.tags ", " }}",
     "synonyms": "{{ .Params.synonyms }}",
     "icd10": "{{ .Params.icd10 }}",
