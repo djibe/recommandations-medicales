@@ -7,7 +7,7 @@ synonyms = ["Anémie ferriprive", "carence en fer"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-08T13:02:19+02:00"
 publishdate = "2021-10-12"
-lastmod = "2023-01-24"
+lastmod = "2024-03-28"
 specialites = ["hematologie"]
 annees = "2021"
 sources = ["BSG", "SNFGE"]
@@ -23,8 +23,8 @@ todo = "La voie orale est inefficace dans les MICI (*SOURCE*), red flags NICE 23
 
 {{%article-summary%}}
 
-- Définition de l'anémie: hémoglobine < 12 g/dL chez la femme et < 13 chez l'homme  
-  Correction des valeurs selon le statut tabagique et l'altitude.
+- Définition de l'anémie: hémoglobine < 12 g/dL chez la femme et < 13 chez l'homme
+  Corriger les valeurs d'hémoglobine selon le statut tabagique et l'altitude.
 - Carence martiale = [Ferritinémie](/tags/ferritine/) < 45 ng/mL (*BSG*)
 - Bilan étiologique d'une anémie: examen gynécologique, BU/ECBU, sérologie cœliaque
 - [Fibroscopie](/tags/eogd/) et coloscopie si homme ou femme +50 ans, ménopausée/sans menstruations, [risque élevé de cancer colorectal]({{< relref "cancer-colorectal.md" >}}), sévérité inexpliquée
@@ -36,27 +36,27 @@ todo = "La voie orale est inefficace dans les MICI (*SOURCE*), red flags NICE 23
 
 Anémie
 : Hémoglobinémie (au niveau de la mer) chez la femme < 12 g/dL (11 si grossesse) ou < 13 g/dL chez l'homme (*OMS 2011*). Elle entraîne une augmentation de la morbi-mortalité et une réduction de la qualité de vie.
-: La carence martiale (CM) est la 1<sup>re</sup> cause d'anémie (2-5% chez les adultes d'âge moyen, 20% des femmes en âge de procréer) et atteint 50% des femmes enceintes après 25 SA. La *thalassémie* (anémie microcytaire hypochrome mais régénérative) se présente sous le même tableau.  
+: La carence martiale (CM) est la 1<sup>re</sup> cause d'anémie (2-5% chez les adultes d'âge moyen, 20% des femmes en âge de procréer) et atteint 50% des femmes enceintes après 25 SA. La *thalassémie* (anémie microcytaire hypochrome mais régénérative) se présente sous le même tableau.
 La carence martiale *non anémique* est fréquente (50% des femmes avec [ménorragies]({{< relref "menorragies.md" >}})).
 : L'*hypochromie* et la *microcytose* typiques de la carence en fer sont absentes en cas de maladie chronique ou carence concomitante en vitamines B9 ou 12. L'anémie ferriprive est toujours **arégénérative** (réticulocytes sans intérêt).
 : Chez le sujet âgé, l'anémie est toujours multifactorielle (régime, carence B9/B12, aspirine, insuffisance d'organe, saignement occulte).
 
 Ferritinémie
 : La ferritinémie reflète les réserves en fer de l'organisme. Le fer est essentiel à l'hématopoïèse et au myocarde.
-: Un dosage < 15 ng/mL signe une déplétion en fer, < 30 des stocks de fer bas, **< 45** seuil pour diagnostic de carence en fer (avec meilleures Se/Spe selon *BSG 2021*).  
+: Un dosage < 15 ng/mL signe une déplétion en fer, < 30 des stocks de fer bas, **< 45** seuil pour diagnostic de carence en fer (avec meilleures Se/Spe selon *BSG 2021*).
 Elle est augmentée en cas d'inflammation (carence martiale peu probable si ferritine > 150 ng/mL dans ce cas).
 : Recherche de saignement occulte par endoscopies digestives lorsqu'anémie avec ferritinémie < 45 ng/mL (spécificité 0,92), surtout en cas d'inflammation chronique.
 
 {{< clinique/anemie-definition >}}
 
-{{< table title="Ajustement du taux d'hémoglobine pour les fumeurs. Dr JB Fron d'après OMS 2011" class="table-sm" >}}
-| Tabagisme   | Ajustement du taux d'Hb (g/dL) |
-|-------------|-------------------------------:|
-| Non         |                  0&nbsp;&nbsp; |
-| Fumeur      |                           -0,3 |
-| 0,5-1 paq/j |                           -0,3 |
-| 1-2 paq/j   |                           -0,5 |
-| ≥ 2 paq/j   |                           -0,7 |
+{{< table title="Ajustement du taux d'hémoglobine pour les fumeurs. Dr JB Fron d'après OMS 2024" class="table-sm" >}}
+| Tabagisme (cig/j) | Ajustement du taux d'Hb (g/dL) |
+|-------------------|-------------------------------:|
+| Non               |                  0&nbsp;&nbsp; |
+| Fumeur            |                           -0,3 |
+| &lt; 10           |                           -0,3 |
+| 10-19             |                           -0,5 |
+| ≥ 20              |                           -0,6 |
 {{< /table >}}
 
 Hypochromie
@@ -69,12 +69,12 @@ Microcytose
 
 Liste des causes possibles d'une carence en fer:
 
-- Femme non ménopausée  
+- Femme non ménopausée
   Les menstruations sont responsables de la perte en fer.
-- Hommes et femmes ménopausées  
-  Principalement d'origine digestive et une **cause tumorale** doit être recherchée.  
+- Hommes et femmes ménopausées
+  Principalement d'origine digestive et une **cause tumorale** doit être recherchée.
   Autres causes fréquentes: *ulcère gastro-duodénal*, *érosions gastriques* et *œsophagite*.
-- Malabsorption  
+- Malabsorption
   [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), gastrectomie/sleeve, gastrite atrophique.
 - Alimentation carencée
 - Dons du sang répétés
@@ -120,11 +120,11 @@ L'enquête diagnostique de l'anémie doit être effectuée sans délai chez un a
 
 Signes et symptômes cliniques d'une anémie:
 
-- Antécédents familiaux  
+- Antécédents familiaux
   Hémoglobinopathie, hémorragies, métabolisme du fer, pathologie digestive.
-- Antécédents personnels  
+- Antécédents personnels
   Transfusions, dons de sang, [chirurgie de l'obésité]({{< relref "obesite-adulte.md" >}}) ou gastrique, traumatismes, insuffisance cardiaque ou rénale.
-- Traitements  
+- Traitements
   AINS, anticoagulants ou IPP au long cours.
 - Régime alimentaire, {{< modal-btn modal-scoff >}}troubles du comportement alimentaire{{< /modal-btn >}}
 - Consommation de thé
@@ -157,17 +157,17 @@ Bilan d'une *carence martiale isolée* chez des sujets sans pertes physiologique
 Examens recommandés pour la prise en charge d'une anémie (réaliser dans l'ordre):
 
 - BU, ECBU
-- Recherche de [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) (à tout âge, 3-5%)  
+- Recherche de [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) (à tout âge, 3-5%)
   IgA totales + IgA anti-transglutaminase
-- **Électrophorèse de l'hémoglobine**  
+- **Électrophorèse de l'hémoglobine**
   Indication: ferritinémie normale chez sujet originaire d'Asie-Afrique-Méditerranée, avant bilan endoscopique.
-- Femme  
+- Femme
   Examen gynécologique.
 - Facteur de risque d'insuffisance rénale: créatininémie
 - Sujet âgé: vitamines B9 et B12
-- Homme (tout âge)  
+- Homme (tout âge)
   ou femme +50 ans, ménopausée/sans menstruations, [risque élevé de cancer colorectal]({{< relref "cancer-colorectal.md" >}}), sévérité inexpliquée:
-  - Fibroscopie gastrique et coloscopie rapidement  
+  - Fibroscopie gastrique et coloscopie rapidement
     Uniquement si anémie. Si carence martiale seule, surveillance de la NFS.
   - Coloscanner si impossible voire coloIRM
   - Si endoscopies normales et absence de réponse à la supplémentation: exploration du grêle et des voies urinaires
@@ -202,13 +202,13 @@ Prise en charge de l'anémie par supplémentation et fer puis surveillance de la
 
 - Moins de 10% du fer alimentaire est absorbé ([SNFGE](https://www.snfge.org/grand-public/maladies-digestives/hemochromatose))
 - Supplémenter une carence martiale symptomatique chez la femme non ménopausée ([fatigue](/tags/fatigue/), ralentissement cognitif) et pendant la grossesse
-- Débuter le traitement pendant la réalisation du bilan étiologique  
+- Débuter le traitement pendant la réalisation du bilan étiologique
   Sauf si délai de coloscopie de 2 semaines (coloration des selles).
 - Biodisponibilité médiocre en prise pendant le repas
 - En cas de mauvaise tolérance du traitement: 1 j/2 > sirop > IV
 - Si remontée de l'Hb < 2 g/dL à 1 mois: fer 1 j/2 > fer IV, dosage vitamines B9 et B12
 - Elle peut être poursuivie au long cours sur conseil de l'hématologue
-- Elle est quasi-impossible à obtenir par des seuls apports alimentaires  
+- Elle est quasi-impossible à obtenir par des seuls apports alimentaires
   Boudin noir, Moules, seiche, lentilles, soja, épinards, raison sec ([Anses. Tables Ciqual](https://ciqual.anses.fr/#/constituants/10260/fer-(mg-100-g)))
 - La supplémentation en cas d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ou d'[insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) est spécifique
 - La voie orale est inefficace dans les MICI
@@ -241,6 +241,7 @@ accTitle: Prise en charge d'une anémie avec suspicion de carence en fer d'aprè
 {{% /collapse %}}
 {{%sources%}}
 
+- [Guideline on haemoglobin cutoffs to define anaemia in individuals and populations. Geneva: World Health Organization; 2024. (PDF)](https://iris.who.int/bitstream/handle/10665/376196/9789240088542-eng.pdf?sequence=1)
 - [HCSP. Avis relatif à la couverture des besoins de la population générale en vitamine D et en fer. 21/06/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1251)
 - [Snook J et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021.](https://gut.bmj.com/content/70/11/2030)
 - [Santé Publique France. Étude de santé sur l'environnement, la biosurveillance, l'activité physique et la nutrition (Esteban) 2014-2016. Volet Nutrition. Chapitre Dosages biologiques : vitamines et minéraux. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/rapport-synthese/etude-de-sante-sur-l-environnement-la-biosurveillance-l-activite-physique-et-la-nutrition-esteban-2014-2016-.-volet-nutrition.-chapitre-dosages)

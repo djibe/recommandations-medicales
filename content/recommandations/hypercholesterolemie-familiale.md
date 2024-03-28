@@ -166,6 +166,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Peretti N et al. Treatment of pediatric heterozygous familial hypercholesterolemia 7 years after the EAS recommendations: Real-world results from a large French cohort. Arch Pediatr. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S0929693X24000204)
 - {{< references/esc-cvd >}}
 - {{< references/esc-dyslipidaemias >}}
 - [Collège National des Enseignants de Cardiologie. Endocardite infectieuse. Item 220 UE8. Cardiologie 2e édition. 2019. (PDF)](https://www.sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch03_dyslipidemie.pdf)

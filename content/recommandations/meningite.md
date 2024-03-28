@@ -264,6 +264,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Infections invasives à méningocoques : des recommandations vaccinales actualisées. 27/03/2024.](https://has-sante.fr/jcms/p_3502914/fr/infections-invasives-a-meningocoques-des-recommandations-vaccinales-actualisees)
 - [Gillet Y et al. Antibiotic treatment of neuro-meningeal infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001501)
 - {{< references/calendrier-vaccinal >}}
 - [CMIT. Méningites, méningo-encéphalites, abcès cérébral chez l'adulte et l'enfant. Item 151. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-151.pdf)

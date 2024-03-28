@@ -28,7 +28,7 @@ todo = "sup. Table 4 MRA+5Sacu+7Diur, depression Beck"
 - Bilan initial devant une suspicion d'insuffisance cardiaque chronique: ECG, NT-proBNP avec biologie complète et consultation de cardiologie
 - Bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), anémie) d'une fatigue ou d'une dyspnée
 - Contrôle des facteurs de risque cardiovasculaire: hypertension artérielle, tabac, dyslipidémie, obésité, diabète
-- Prise en charge: maximiser les posologies des traitements {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} voire valsartan/sacubitril (Entresto®), {{< modal-btn modal-bb >}}bêta-bloquant{{< /modal-btn >}} (maintenir FC ≥ 50/min), anti-aldostérone, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} (empa/dapagliflozine), ferritine > 100 ng/mL
+- Prise en charge: maximiser les posologies des traitements {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} voire valsartan/sacubitril (Entresto®), {{< modal-btn modal-bb >}}bêta-bloquant{{< /modal-btn >}} (maintenir FC ≥ 50/min), anti-aldostérone, {{< modal-btn modal-isglt2 >}}SGLT2{{< /modal-btn >}} (empa/dapagliflozine), ferritine > 100 ng/mL
 - Éducation thérapeutique pour la surveillance des poids et tension et l'adaptation des diurétiques
 
 {{%/article-summary%}}

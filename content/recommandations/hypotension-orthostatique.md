@@ -83,7 +83,7 @@ Signes et symptômes à rechercher lorsqu'une hypotension orthostatique est susp
 - Antécédents  
   [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), [diabète](/tags/diabete/), [maladie de Parkinson]({{< relref "maladie-parkinson.md" >}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/).
 - **Traitements en cours**  
-  Antihypertenseur, diurétique, psychotrope, vasodilatateur, anticholinergique, morphinique, iSGLT2.
+  Antihypertenseur, diurétique, psychotrope, vasodilatateur, anticholinergique, morphinique, SGLT2.
 - Toxiques
 - Apports hydriques
 - Contexte de déshydratation
