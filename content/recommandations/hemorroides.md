@@ -106,7 +106,7 @@ Indications à réaliser une coloscopie:
 - +40 ans ou 10 ans avant l'âge de survenue d'un CCR chez 2 proches au premier degré
 - Test de dépistage (test immunologique fécal TIF) positif
 
-> *ASCRS 2018*
+> – *ASCRS 2018*
 
 {{% /collapse %}}
 {{%collapse "Traitement des hémorroïdes" %}}

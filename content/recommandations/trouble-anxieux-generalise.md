@@ -277,7 +277,7 @@ graph TB
 
 - [Hoge EA et al. Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial. JAMA Psychiatry. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9647561/)
 - Prescrire Redaction. Patients anxieux. Rev Prescrire. 2023.
-- [Collège National Universitaire de Psychiatrie (CNUP). Troubles anxieux Trouble anxieux généralisé Item 66b. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
+- [Collège National Universitaire de Psychiatrie (CNUP). Troubles anxieux Trouble anxieux généralisé Item 66b. Référentiel de Psychiatrie et Addictologie. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
 - [Psychiaclic. Trouble anxieux généralisé. 04/10/2021.](https://www.psychiaclic.fr/troubles-psychiatriques/trouble-anxieux-generalise)
 - [DeMartini J et al; ACP. Generalized Anxiety Disorder. Ann Intern Med. 2019.](https://pubmed.ncbi.nlm.nih.gov/30934083/)
 - [HAS. Troubles anxieux graves. Actes et prestations affection de longue durée. 2017.](https://www.has-sante.fr/jcms/c_556489/fr/ald-n-23-troubles-anxieux-graves)

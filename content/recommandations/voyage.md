@@ -272,7 +272,7 @@ Posologies chez l'enfant, traitement de 3 jours:
   - Drépanocytose
   - Trouble psychotique (sauf totalement maîtrisé)
 
-> *HCSP*
+> – *HCSP*
 
 L'avion est autorisé pour un nouveau-né né à terme à partir de 48 heures de vie (41 SA d'âge corrigé si prématuré) mais il est conseillé d'attendre au moins 7 jours. Reporter le voyage en cas d'infection des voies aériennes ou d'[asthme]({{< relref "asthme.md" >}}) non contrôlé.
 

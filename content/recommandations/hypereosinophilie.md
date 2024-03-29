@@ -197,7 +197,7 @@ Avis spécialisé (hématologue, interniste) en cas d'hyperéosinophilie persist
   - Adénopathies ou HE persistante: scanner thoraco-abdomino-pelvien (*PNDS*)
   - Éosinophilie persistante: NT-proBNP, ECG, échodoppler cardiaque
 
-> *CEMI 2021*
+> – *CEMI 2021*
 
 {{% /collapse %}}
 {{%collapse "Traitement d'une hyperéosinophilie" %}}
@@ -213,7 +213,7 @@ En l'absence d'orientation probante, un **traitement d'épreuve antihelminthe** 
 - Hyperéosinophilie inexpliquée (> 1500/mm³ ciblant toxocarose, trichinellose, ascaridiose, [oxyurose]({{< relref "oxyurose.md" >}})):  
   [Albendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65565944&typedoc=R) 10-15 mg/kg/j en 2 prises/j (max 800 mg/j).
 
-> *PNDS 2022*
+> – *PNDS 2022*
 
 Si l'éosinophilie persiste malgré le traitement d'épreuve, adresser toute éosinophilie persistante dans un Centre de Référence des syndromes hyperéosinophiliques (CEREO, [annuaire](http://www.cereo.fr/website/reseau_eosinophile_&710&1732720681092952015.html)) pour la suite de la prise en charge
 {.alert .alert-warning}

@@ -8,7 +8,7 @@ synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
 publishdate = "2022-01-11"
-lastmod = "2023-11-09"
+lastmod = "2024-03-29"
 specialites = ["addictologie"]
 annees = "2023"
 sources = ["HAS", "SFA", "AFEF"]
@@ -130,7 +130,7 @@ TUA
 - 1/3 des décès prématurés
 - Décès: 41.000 annuels (30.000 hommes)
   - Cancers: 30.000 annuels attribuables (2<sup>e</sup> cause évitable derrière le tabac)  
-    Bouche, pharynx, larynx, œsophage, foie, côlon-rectum, sein. Augmentation du risque/unité alcool de 9 à 168% selon les localisations (bouche, pharynx, larynx +++).
+    Bouche, pharynx, larynx, œsophage, foie, côlon-rectum, sein. Augmentation du risque/unité alcool de 9 à 168 % selon les localisations (bouche, pharynx, larynx +++).
   - Décès cardiovasculaires: 9900 décès annuels attribuables (HTA, AVC, FA)
 - Coût sociétal: 118 milliards annuels
 - Consommation excessive
@@ -173,7 +173,8 @@ Conseils à associer:
 3. Éviter les lieux et les activités à risque
 4. S'assurer que vous avez des personnes que vous connaissez près de vous et que vous pouvez rentrer chez vous en toute sécurité
 
-Toute consommation pendant la **grossesse** est un mésusage: urgence addictologique, gynécologique, psychologique et sociale.  
+Toute consommation pendant la **grossesse** est un mésusage: urgence addictologique, gynécologique, psychologique et sociale.
+
 Idem sans urgence pour jeune (avec avis psychiatrique + parents), cirrhose, travail sur machine (BTP ...), chauffeur professionnel, sports à risque
 {.alert .alert-warning}
 
@@ -234,7 +235,7 @@ Le questionnaire *AUDIT-C* peut être utilisé pour une **évaluation de la sév
 
 L'entretien motivationnel est empathique avec une écoute sans jugement et une acceptation inconditionnelle de la situation (acceptation et bienveillance), c'est un accompagnement.
 
-Encourager à tenir un **agenda de la consommation** et:
+Encourager à tenir un **agenda de la consommation** ([application](https://dryjanuary.fr/lapplication-try-dry/)) et:
 
 - Informer
   - Restituer les résultats des questionnaires de consommation
@@ -260,7 +261,7 @@ De 0 à 10, évaluer:
 - Le bon moment pour réduire/arrêter sa consommation
 - Confiance dans la réussite du projet de réduire/arrêter sa consommation
 
-> *HAS 2021*
+> – *HAS 2021*
 
 En cas d'alcoolodépendance, le suivi spécialisé est préférable.
 
@@ -454,7 +455,7 @@ Doses adaptées aux symptômes et réduites chez l'adolescent et le sujet âgé.
 Rester à la maison les 2 premiers jours, pas de conduite automobile pendant 5 jours.  
 Suivi rapproché durant le traitement.
 
-> *AFEF 2021 et SFA 2015*
+> – *AFEF 2021 et SFA 2015*
 {{%/info%}}
 
 Les **dépressions** sont fréquentes (80%) au cours du sevrage de l'alcool, mais seules 15% persistent à son issue. Recontrôler à 2-4 semaines après le début du sevrage avant d'introduire un antidépresseur.
@@ -527,23 +528,23 @@ Autre traitement: titration de baclofène (Baclocur® ou Baclofène Zentiva, max
 
 ### Associations pour l'arrêt de l'alcool
 
-[Alcool Info Service.fr](https://www.alcool-info-service.fr/) ou {{<phone>}}0 980 980 930{{</phone>}}.
+[Alcool Info Service.fr](https://www.alcool-info-service.fr) ou {{<phone>}}0 980 980 930{{</phone>}}.
 
-- [Addictions France (ex ANPAA)](https://addictions-france.org/)
+- [Addictions France (ex ANPAA)](https://addictions-france.org)
 - [Alcooliques Anonymes](https://www.alcooliques-anonymes.fr)
-- [Les amis de la santé](https://www.lesamisdelasante.org/)
-- [Camerup](https://www.camerup.fr/)
-- [La Croix-Bleue](https://croixbleue.fr/)
-- [drogues info service](https://www.drogues-info-service.fr/)
-- [entraid' addict](https://www.entraidaddict.fr/)
-- [Joie et santé - Alcool Écoute](https://www.alcoolecoute.com/)
-- [Vie Libre](https://www.vielibre.org/)
+- [Les amis de la santé](https://www.lesamisdelasante.org)
+- [Camerup](https://www.camerup.fr)
+- [La Croix-Bleue](https://croixbleue.fr)
+- [drogues info service](https://www.drogues-info-service.fr)
+- [entraid' addict](https://www.entraidaddict.fr)
+- [Joie et santé - Alcool Écoute](https://www.alcoolecoute.com)
+- [Vie Libre](https://www.vielibre.org)
 
 ### Ressources
 
 - [SPF: L'alcool pour comprendre](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/brochure/l-alcool-pour-comprendre)
 - [Santé BD. L'alcool et ma santé](https://santebd.org/les-fiches-santebd/cancer/ma-sante-et-lalcool)
-- [Addictions France (ex ANPAA)](https://addictions-france.org/)
+- [Addictions France (ex ANPAA)](https://addictions-france.org)
 
 ### Applications
 

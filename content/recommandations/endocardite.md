@@ -61,7 +61,7 @@ Seules personnes éligibles à l'antibioprophylaxie en soins dentaires à haut r
     - Cyanogène
     - Matériel prothétique implanté dans les 6 mois ou avec persistance de shunt ou régurgitation valvulaire
 
-> *ESC 2023*
+> – *ESC 2023*
 {{%/info%}}
 
 ### Chirurgies dentaires à risque chez le sujet à haut risque d'endocardite
@@ -69,7 +69,7 @@ Seules personnes éligibles à l'antibioprophylaxie en soins dentaires à haut r
 - Manipulation de la région gingivale ou péri-apicale de la dent
 - Perforation de la muqueuse orale
 
-> *ESC 2015*
+> – *ESC 2015*
 
 Lors des autres gestes invasifs ([coloscopie]({{< relref "cancer-colorectal.md" >}}), endoscopie bronchique, urétéroscopie ...), l'antibioprophylaxie pourrait être considérée.
 

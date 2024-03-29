@@ -63,7 +63,7 @@ Autres diagnostics à évoquer devant des polyarthralgies:
 - Érosions précoces
 - Échec d'au moins 2 traitements conventionnels
 
-> *EULAR 2022*
+> – *EULAR 2022*
 
 ### Abréviations
 

@@ -184,7 +184,7 @@ Si le bilan du syndrome de Raynaud est négatif: pas d'avis spécialisé sauf mo
 - ± [TSH](/tags/tsh/)
 - ± [Facteur rhumatoïde (FR)]({{< relref "polyarthrite-rhumatoide.md" >}})
 
-> *Filière Maladies rares*, *SFMV* et *COFER*
+> – *Filière Maladies rares*, *SFMV* et *COFER*
 
 {{%/info%}}
 

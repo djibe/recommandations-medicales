@@ -66,7 +66,7 @@ Les complications sont locales voire générales:
 - Seulement 1,2 millions de TROD angine commandés chaque année
 - 2 fois trop d'antibiotiques prescrits (3x selon l'Assurance Maladie)
 
-> *[Mission régulation des produits de santé 2023 (PDF)](https://sante.gouv.fr/IMG/pdf/mission-regulation-des-produits-de-sante-rapport-aout-2023.pdf)*
+> – *[Mission régulation des produits de santé 2023 (PDF)](https://sante.gouv.fr/IMG/pdf/mission-regulation-des-produits-de-sante-rapport-aout-2023.pdf)*
 
 ### Abréviations
 
@@ -150,7 +150,7 @@ La sensibilité du TDR chez l'enfant est de 85%.
 - Gingivo-stomatite herpétique sévère empêchant l'alimentation
 - Angine de Vincent
 
-> *CMIT 2021*
+> – *CMIT 2021*
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'angine" %}}
@@ -228,7 +228,7 @@ Indications à une amygdalectomie chez l'enfant:
   - Glomérulonéphrite à IgA
   - Angine aiguë dyspnéisante
 
-> *SFORL 2020*
+> – *SFORL 2020*
 
 Antalgie après amygdalectomie: paracétamol + ibuprofène, voire tramadol ou morhpine.
 

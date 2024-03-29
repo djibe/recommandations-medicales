@@ -12,9 +12,9 @@ specialites = ["pediatrie", "psychiatrie"]
 annees = "2014"
 sources = ["HAS"]
 tags = []
-anglais = ["ADHD"]
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = "https://prod-mapping.ihtsdotools.org/#/"
+anglais = ["Attention deficit disorder with hyperactivity (ADHD)", "attention deficit hyperactivity disorder"]
+sctid = "406506008"
+icd10 = "F90.0"
 draft = true
 image = false
 imageSrc = ""
@@ -28,14 +28,49 @@ TODO:
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
+Trouble déficit de l'attention avec hyperactivité (ou sans hyperactivité – TDAH)
+: Inattention et/ou hyperactivité/impulsivité persistants plus importants que ce qui est attendu pour l'âge, interférant avec le fonctionnement de la personne.
+: Les symptômes débutent dans l'enfance avec forte prévalence (5%), atteignant principalement les garçons (75%).
+: Les complications du TDAH ...
+
+### Abréviations
+
 TDAH
 : trouble déficit de l'attention/hyperactivité
 {.dl-inline}
 
 {{% /collapse %}}
+{{%collapse "Critères diagnostiques du TDAH" %}}
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 ### Interrogatoire
+
+Les signes et symptômes de l'évaluation d'un TDAH s'apprécient par rapport à ce qui est attendu pour l'âge ou le contexte.
+
+- **Syndrome d'inattention**
+  - Difficultés à se concentrer et à maintenir la concentration  
+    Manque d'attention aux détails, étourderies.
+  - Distractibilité  
+    Propres pensées ou stimuli externes.
+  - Difficultés d'organisation  
+    Gestion du cartable ou de l'agenda.
+  - Procrastination
+  - Évitement de l'effort cognitif (devoirs scolaires)
+  - Difficultés à comprendre et suivre les règles et consignes
+  - Lenteur d'exécution
+- **Syndrome d'hyperactivité / impulsivité**
+  - Activité excessive, désordonnée, mal contrôlée, non efficace
+  - Instabilité motrice: incapacité à rester assis (ou sans bouger), court partout
+  - Hyperactivité présente en permanence (famille, social, extra-scolaire)
+  - Impulsivité: agit ou parle sans réflexion sur les conséquences  
+    Précipitation, incapacité à attendre son tour, prise de risque (traverser la route).
+- Dépister des comorbidités psychiatriques
+  - Troubles du comportement
+  - Autres troubles du neurodéveloppement
+  - Troubles anxieux ou de l'humeur
+  - Addictions
+  - Troubles du sommeil
 
 ### Examen clinique
 
@@ -46,6 +81,7 @@ TDAH
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
+> << Les mesures thérapeutiques et rééducatives des troubles du neurodéveloppement doivent être précoces, intensives, multidisciplinaires et adaptées au profil clinique de chaque individu. >> – *CNUP*
 
 {{% /collapse %}}
 {{%sources%}}
@@ -59,7 +95,7 @@ TDAH
 - [; SFP. . Pas à Pas en Pédiatrie. 2017.]()
 - [](https://www.bmj.com/content/384/bmj-2022-073448)
 - Collège pediatrie
-- Collège psychiatrie
+- [Collège National Universitaire de Psychiatrie (CNUP). Principaux troubles du neurodéveloppement Item 67. Référentiel de Psychiatrie et Addictologie. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
 - Prescrire
 - Cochrane
 - Minerva

@@ -240,7 +240,7 @@ Informations à délivrer concernant le prolapsus génital:
 - L'utilisation d'un pessaire peut améliorer la gêne et les symptômes associés au prolapsus et n'altère pas la qualité de vie sexuelle
 - Lorsque la chirurgie est choisie, elle est très rarement urgente
 
-> *HAS 2021*
+> – *HAS 2021*
 
 ### Informations sur les pessaires
 

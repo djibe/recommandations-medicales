@@ -424,7 +424,7 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 - Les comportements de pénétration hâtive, de précipitation ou d'insistance doivent être évités car ils aggravent les problèmes d'érection
 - Plusieurs prises peuvent être nécessaires avant d'être satisfait d'un traitement de l'érection
 
-> *AIUS*
+> – *AIUS*
 
 {{% /collapse %}}
 {{%sources%}}

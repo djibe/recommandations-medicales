@@ -295,7 +295,7 @@ Les mammographies sont remboursées à 100% (les examens supplémentaires ne le 
 
 << Détecter un cancer le plus petit possible, c'est s'assurer le moins d'ennuis possible >>
 
-> *Natacha Espié*, psychologue et présidente de l'association Europa Donna (*CNGOF 2017*)
+> – *Natacha Espié*, psychologue et présidente de l'association Europa Donna (*CNGOF 2017*)
 
 {{% /collapse %}}
 {{%collapse "Prise en charge rapide d'anomalies du sein" %}}

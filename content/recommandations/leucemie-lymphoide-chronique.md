@@ -44,7 +44,7 @@ Leucémie lymphoïde chronique
 - 95% ont plus de 51 ans
 - Survie nette standardisée à 5 ans: 89%
 
-> *INCa 2023*
+> – *INCa 2023*
 
 ### Abréviations
 

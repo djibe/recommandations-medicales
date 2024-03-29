@@ -393,7 +393,7 @@ On propose l'OAM en cas de refus ou d'intolérance à la PPC et pour les autres 
 - SAOS léger
 - Patient SAOS refusant ou ne tolérant par sa PPC
 
-> *AASM 2015 OAM*
+> – *AASM 2015 OAM*
 
 Une surveillance dentaire régulière est nécessaire avec l'orthèse d'avancée mandibulaire.
 
@@ -409,7 +409,7 @@ si peut consulter observance des 12 derniers mois (≥ 112 heures sur 10 mois et
 - Remboursable à 65%
 - Nécessite une demande d'entente préalable par le spécialiste avec renouvellement annuel si respect des conditions ci-dessus
 
-> *[HAS 2014](https://www.has-sante.fr/portail/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)*
+> – *[HAS 2014](https://www.has-sante.fr/portail/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)*
 
 {{% /collapse %}}
 {{%collapse "Surveillance du traitement" %}}
@@ -485,7 +485,7 @@ Sévère
 : Somnolence indésirable ou épisodes de sommeil involontaire perturbant de façon importante la vie sociale ou professionnelle et apparaissant lors d'activités de la vie quotidienne (manger, tenir une conversation, marcher, conduire).
 {.dl-inline}
 
-> *AASM 1999*, repris *SPLF 2010*
+> – *AASM 1999*, repris *SPLF 2010*
 
 #### Sévérité des événements obstructifs respiratoires
 
@@ -504,7 +504,7 @@ Sévère ({{%lang%}}severe{{%/lang%}})
 : IAH ≥ 30
 {.dl-inline}
 
-> *AASM Chicago 1997*
+> – *AASM Chicago 1997*
 
 Les évolutions successives de la définition des hypopnées par l'AASM entraîne de grands reclassements des groupes de patients par modifications profondes de l'IAH. En effet, le score a été établi avec des capteurs de l'époque et n'incluait pas les micro-éveils (ERIM).
 

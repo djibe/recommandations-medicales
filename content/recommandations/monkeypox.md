@@ -86,7 +86,7 @@ Personnes à risque de forme grave de Monkeypox:
   Risque mort fœtale in utero, fausse couche spontanée, transmission materno-fœtale ou périnatale
 - Enfants et adolescents de moins de 18 ans
 
-> *HCSP mai 2022*
+> – *HCSP mai 2022*
 
 {{%/warning%}}
 
@@ -103,7 +103,7 @@ Signes de gravité de la variole du singe:
 - Anomalies biologiques  
   Transaminases, hypoalbuminémie, hyperleucocytose et thrombopénie.
 
-> *HCSP mai 2022*
+> – *HCSP mai 2022*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -175,7 +175,7 @@ Toutes les personnes avec risque élevé d'exposition au virus de la variole du 
 - Professionnel travaillant dans les lieux de consommation sexuelle
 - Femmes avec contact proches des personnes ci-dessus
 
-> *HAS 11/10 et 08/07/2022*
+> – *HAS 11/10 et 08/07/2022*
 
 ### Comment vacciner contre Monkeypox ?
 

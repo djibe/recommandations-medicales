@@ -146,7 +146,7 @@ Néanmoins une ablation opportuniste des trompes de Fallope de façon préventiv
 - Césarienne avec désir de stérilisation
 - L'ovariectomie peut être couplée chez une femme ménopausée
 
-> *ACOG 2019*
+> – *ACOG 2019*
 
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de l'ovaire" %}}

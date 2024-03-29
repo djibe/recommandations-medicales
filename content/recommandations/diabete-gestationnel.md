@@ -98,7 +98,7 @@ Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque par
 6. [Syndrome des ovaires polykystiques]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) (SOPK, *ESHRE 2023*)  
   Dès le désir de grossesse ou rattrapage à 24-28 SA.
 
-> *CNGOF, SFD 2010*
+> – *CNGOF, SFD 2010*
 {{%/info%}}
 
 ### Comment dépister le diabète gestationnel ?

@@ -62,7 +62,8 @@ Mort subite du sportif
 \> 50% avaient eu des symptômes typiques dans le mois qui précède.
 : 93% des cas surviennent en présence d'un témoin mais il ne réanime que dans 31% des cas.  
 La survie sans séquelles dépend énormément de la formation de la population au massage cardiaque (> 90% dans le Nord, 10-20% en France). 300-400 décès pourraient être évités chaque année avec les gestes de 1<sup>er</sup> secours.
-  > *Marijon 2021*
+
+> – *Marijon 2021*
 
 {{< figure-chart title="Incidence moyenne annuelle de la mort subite du sportif par million de sportifs de 15 à 75 ans selon l'âge et le sexe. Se référer à l'article pour l'intervalle de confiance. Dr JB Fron d'après Marijon 2013" >}}
 
@@ -167,7 +168,7 @@ Critères de réalisation d'un électrocardiogramme (ECG) 12 dérivations chez l
 - 25-35 ans: un ECG si jamais eu
 - Adulte de haut niveau: une échocardiographie
 
-> *SFC 2022*
+> – *SFC 2022*
 
 ### Indications au test d'effort maximal
 
@@ -175,7 +176,7 @@ Critères de réalisation d'un électrocardiogramme (ECG) 12 dérivations chez l
 - Sportif symptomatique ([angor]({{< relref "syndrome-coronarien-chronique.md" >}}), perte de performances)
 - Sportif à {{< modal-btn modal-risque-cv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 
-> *SFC 2022*
+> – *SFC 2022*
 
 [Liste nationale de centres de tests d'effort recommandés par le Club des Cardiologues du Sport (non exhaustive)](https://www.clubcardiosport.com/etablissements-v02-max)
 
@@ -198,7 +199,7 @@ Informer sur les 10 règles d'or pour le sportif:
   Informer: les microbes ne sont pas éliminés par la sueur.
 10. Bilan médical avant de reprendre une activité sportive à partir de 35 ans si homme, 45 ans si femme
 
-> *[ClubCardioSport. Les 10 règles d'or. Argumentaire. (PDF)](https://www.clubcardiosport.com/sites/www.clubcardiosport.com/files/inline-files/argu_scientifique.pdf)*
+> – *[ClubCardioSport. Les 10 règles d'or. Argumentaire. (PDF)](https://www.clubcardiosport.com/sites/www.clubcardiosport.com/files/inline-files/argu_scientifique.pdf)*
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}

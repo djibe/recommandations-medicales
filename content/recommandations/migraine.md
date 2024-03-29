@@ -482,7 +482,7 @@ Trois éléments de suivi: Agenda migraineux, {{< modal-btn modal-hit6 >}}qualit
     2. Traitement utilisé de façon optimale (dose, moment, voie d'administration) pendant ≥ 3 mois consécutifs
     3. Traitement bien toléré
 
-> *Donnet A. 2021*
+> – *Donnet A. 2021*
 
 {{% /collapse %}}
 {{%collapse "Migraine cataméniale, grossesse, contraception ou THM" %}}

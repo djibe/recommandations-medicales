@@ -145,7 +145,7 @@ Indications à une **consultation d'oncogénétique**:
 - Phénotype MSI ou dMMR
 - Suspicion de Polypose Adénomateuse Familiale (PAF)
 
-> *TNCD 2023*
+> – *TNCD 2023*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -218,7 +218,7 @@ Facteurs de risque de cancer colorectal liés au mode de vie:
 - Alimentation pauvre en fibres  
   Cible 400 g/j
 
-> *HAS 2017 et 2013*
+> – *HAS 2017 et 2013*
 
 {{% /collapse %}}
 {{%collapse "Les tests de dépistage du cancer colorectal" %}}
@@ -307,7 +307,7 @@ Pendant 5 ans: clinique (trimestrielle pendant 3 ans puis semestriel), scanner o
 
 Après 5 ans: suivi du risque élevé avec coloscopie tous les 5 ans.
 
-> *TNCD 2023* et *INCa 2018*
+> – *TNCD 2023* et *INCa 2018*
 
 ### Pour en savoir: traitement du cancer du côlon et du haut rectum
 

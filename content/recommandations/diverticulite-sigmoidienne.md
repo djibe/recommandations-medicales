@@ -92,7 +92,7 @@ Facteurs prédictif de complication:
 - Hyperleucocytose > 13.500/mm³
 - CRP > 140 mg/L
 
-> *ACP 2022*
+> – *ACP 2022*
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

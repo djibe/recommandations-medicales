@@ -83,7 +83,7 @@ Un régime alimentaire est dit << équilibré >> avec les apports suivants:
 - Lipides: 35-40%
 - Protides: 10-20% (15-20% chez le +70 ans)
 
-> *CDU-HGE 2022*
+> – *CDU-HGE 2022*
 
 ### Abréviations
 
@@ -453,7 +453,7 @@ Réévaluation de la dénutrition **à chaque consultation**, au moins mensuelle
 - Quel est votre poids ? Avez-vous perdu du poids depuis une semaine, un mois ?
 - Avez-vous diminué votre consommation alimentaire depuis une semaine, un mois ?
 
-> *SFNCM CNO*
+> – *SFNCM CNO*
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une dénutrition" "show" %}}

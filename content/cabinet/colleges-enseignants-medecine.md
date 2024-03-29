@@ -36,7 +36,6 @@ Le tableau ci-dessous liste tous les référentiels disponibles en téléchargem
 | Gynécologie | CNGOF <br><span class="typography-caption">Collège national des gynécologues et obstétriciens français</span> | 2015 | [lien](http://www.cngof.net/E-book/GO-2016/) |
 | Infectiologie | CMIT <br><span class="typography-caption">Collège des universitaires de Maladies Infectieuses et Tropicales</span> | 2023 | [Pilly](https://www.infectiologie.com/fr/pilly-etudiant-2021-uniquement-en-ligne-pilly-etudiant-2023-disponible-a-la-vente-et-en-ligne.html) |
 | Médecine physique | COFEMER <br><span class="typography-caption">Collège Français des Enseignants universitaires de Médecine physique et de Réadaptation</span> | 2018 | [lien](https://www.cofemer.fr/cofemer/gestionPagesWebStandard.do?dispatchMethod=affiche&pageId=55) |
-| Médecine vasculaire | CEMV <br><span class="typography-caption">Collège des Enseignants de Médecine Vasculaire</span> | 2015 | [lien](http://cemv.vascular-e-learning.net/poly/Poly-Vx.pdf) |
 | Néphrologie | CUEN <br><span class="typography-caption">Collège Universitaire des Enseignants de Néphrologie</span> | 2023 | [lien](https://cuen.fr/manuel3/) |
 | Neurologie | CEN <br><span class="typography-caption">Collège des Enseignants de Neurologie</span> | 2019 | [lien](https://www.cen-neurologie.fr/deuxieme-cycle) |
 | Ophtalmologie | COUF <br><span class="typography-caption">Collège des Ophtalmologistes Universitaires de France</span> | 2021 | [lien](http://couf.fr/espace-etudiants/2eme-cycle-dcem/) |
@@ -59,6 +58,7 @@ Pour ne pas les citer:
 
 - Collège des Enseignants en Allergologie (CEA)
 - Collégiale de Bactériologie-Virologie-Hygiène (Azay)
+- Collège des Enseignants de Médecine Vasculaire (CEMV)
 - Collège national de biochimie et biologie moléculaire médicale (CNBBMM)
 - Collège des Enseignants de Radiologie de France (CERF), Collège National des Enseignants de Biophysique et de Médecine Nucléaire (CNEBMN)
 - Chirurgie Maxillo-faciale et Stomatologie (CNECMF)

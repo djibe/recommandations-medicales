@@ -154,7 +154,7 @@ Possibles seulement si 1 seul facteur de risque cardiovasculaire isolé parmi:
 - [Diabète type 2]({{< relref "diabete-type-2.md" >}})
 - [Migraine sans aura]({{< relref "migraine.md" >}})
 
-> *CNGOF 2018 et SFEMC 2021*
+> – *CNGOF 2018 et SFEMC 2021*
 {{%/info%}}
 
 La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas les risques veineux et artériels (sauf acétate de médroxyprogestérone intramusculaire). Elle est recommandée en cas de contre-indication figurant ci-dessus.
@@ -256,14 +256,14 @@ Bilan après 3-6 mois de contraception (avant et renouvelé en antécédent fami
 - Glycémie à jeun
 - Antécédent au 1<sup>er</sup> degré avant 60 ans de MVTE: avis hématologique
 
-> *HAS 2019*
+> – *HAS 2019*
 
 #### DIU
 
 Pas de dépistage systématique des IST avant la pose du dispositif intra-utérin (DIU, stérilet) sauf personne à risque.  
 Notamment *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* chez les 15-25 ans ou partenaires multiples non protégés.
 
-> *CNGOF 2018*
+> – *CNGOF 2018*
 
 {{% /collapse %}}
 {{%collapse "Cotation des actes" %}}
@@ -290,7 +290,7 @@ Pour les mineurs désirant le secret:
   - *CCC* doit être remplacé par le numéro de la CPAM du patient en ajoutant un 1 derrière le numéro du département (331 pour la Gironde), sauf 64 et DOM
   - Ensuite *XX*, la clé du NIR anonyme, [doit être calculée ici](https://commentcalculer.fr/calcul/cle-nir/)
 
-> *[Ameli](https://www.ameli.fr/sites/default/files/Documents/Modalites-facturation-contraception-Medecins-SF-Labo.pdf)*
+> – *[Ameli](https://www.ameli.fr/sites/default/files/Documents/Modalites-facturation-contraception-Medecins-SF-Labo.pdf)*
 
 ### Stérilet
 

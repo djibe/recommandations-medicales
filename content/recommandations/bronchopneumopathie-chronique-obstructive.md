@@ -164,7 +164,7 @@ Dépister par spirométrie toute personne par l'{{< modal-btn modal-depistage-bp
 - Expectoration fréquente
 - Dyspnée
 
-> *HAS 2019*
+> – *HAS 2019*
 
 **NB.** L'utilisation d'un **mini-spiromètre au cabinet** est fortement encouragée par les différentes sociétés savantes. La mesure nécessite une confirmation pneumologique spécialisée.
 
@@ -297,7 +297,7 @@ Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mm
 - Contexte social
 - Échec du traitement ambulatoire ou aggravation à 48-72h (*SPLF 2017*)
 
-> *HAS 2019* et *GOLD 2023*
+> – *HAS 2019* et *GOLD 2023*
 {{%/info%}}
 
 ### Sortie d'hospitalisation après une exacerbation de BPCO
@@ -420,7 +420,7 @@ Substitution envisagée par {{< modal-btn modal-ttt-laba-lama >}}bithérapie LAB
 Envisager l'arrêt des corticoïdes inhalés en l'absence d'exacerbation modérée à sévère dans l'année (avec suivi rapproché si éosinophiles > 300/mm³), éosinophiles < 300/mm³, pneumonie (ou effet indésirable des CSI)  
 sauf si éosinophiles > 300/mm³ et exacerbations fréquentes en l'absence de pneumonie.
 
-> *SPLF 2021*
+> – *SPLF 2021*
 {{%/info%}}
 
 Éosinophilie: mesurée en état stable. Elle n'a aucun intérêt en exacerbations fréquentes.
@@ -602,7 +602,7 @@ graph TB
 - Planification des rendez-vous futurs
 - Aides extérieures, réseaux et associations de patients pour un soutien du patient et de son entourage
 
-> *HAS 2019*
+> – *HAS 2019*
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}

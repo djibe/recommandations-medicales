@@ -75,7 +75,7 @@ Vascularites
 - Produits anesthésiques 3%
 - Opiacés 3%
 
-> *Jerschow et al JACI 2014*
+> – *Jerschow et al 2014*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

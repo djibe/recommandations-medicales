@@ -62,7 +62,7 @@ Le BCG peut être administré en même temps que n'importe quel autre vaccin mai
   Sauf Grèce, Hongrie, Croatie, Slovaquie, Slovénie et République Tchèque.
 - Groenland
 
-> *[Santé Publique France. Liste des pays de haute endémie (taux d'incidence > 40 cas de tuberculose/100.000 habitants), année 2021.](https://www.santepubliquefrance.fr/media/files/01-maladies-et-traumatismes/maladies-et-infections-respiratoires/tuberculose/donnees-tuberculose_tableau-12)*
+> – *[Santé Publique France. Liste des pays de haute endémie (taux d'incidence > 40 cas de tuberculose/100.000 habitants), année 2021.](https://www.santepubliquefrance.fr/media/files/01-maladies-et-traumatismes/maladies-et-infections-respiratoires/tuberculose/donnees-tuberculose_tableau-12)*
 
 {{% /collapse %}}
 {{%collapse "Suivi thérapeutique de la tuberculose" %}}

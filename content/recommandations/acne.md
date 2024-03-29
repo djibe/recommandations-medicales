@@ -241,7 +241,7 @@ Proposer un changement de contraception:
 - Changement de contraception
 - COP triphasique avec 35 µg d'EE et norgestimate: Triafemi (non remboursée)
 
-> *CNGOF 2018*
+> – *CNGOF 2018*
 
 {{% /collapse %}}
 {{% collapse "Acné sévère et surveillance de l'isotrétinoïne" %}}
@@ -281,7 +281,7 @@ Du fait du caractère tératogène de l'isotrétinoïne, la prescription est enc
   - Contraception efficace poursuivie ≥ 1 mois après
   - Dernier test de grossesse 5 semaines après l'arrêt du traitement
 
-> *ANSM 2021*
+> – *ANSM 2021*
 
 {{%/info%}}
 

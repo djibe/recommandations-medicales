@@ -159,7 +159,7 @@ Indications à une consultation d'oncogénétique chez un homme ayant un **anté
   ou d'un membre familial décédé d'un cancer de prostate
 - Antécédents familiaux génétiques tumoraux ou de cancers multiples d'une branche familiale
 
-> *EAU 2022*  
+> – *EAU 2022*  
 \* **Haut risque =** PSA > 20 ou Gleason > 7 (ISUP 4/5) ou cT2c ou cT3-4 ou cN+ (*EAU Table 4.2*)
 
 Indications à une consultation d'oncogénétique selon l'*AFU 2022*:
@@ -214,7 +214,7 @@ Patient à risque **asymptomatique** informé demandant une détection précoce,
   - PSA en augmentation > 30%: avis urologique (*AFU*)
 - Toucher rectal anormal: avis urologique
 
-> *EAU 2022*
+> – *EAU 2022*
 
 Le bilan diagnostique est aujourd'hui dominé par des scores permettant de stratifier le recours à l'IRM prostatique avant la biopsie de prostate.
 
@@ -263,7 +263,7 @@ Le seuil de PSA total pour affirmer une récidive dépend du traitement radical:
 - Curiethérapie: idem
 - HIFU (ultrasons): PSA Nadir + 1,2 ng/mL
 
-> *AFU 2022*
+> – *AFU 2022*
 
 ### Complications des traitements
 

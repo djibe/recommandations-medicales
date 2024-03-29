@@ -202,7 +202,7 @@ La reprise de la tumeur dépend du classement pT de la tumeur afin de détermine
   \+ IRM cérébrale  
   Indications: stade IIC et supérieurs.
 
-> *EADO/EDF/EORTC 2022*
+> – *EADO/EDF/EORTC 2022*
 
 #### Ganglion sentinelle
 
@@ -211,7 +211,7 @@ Indications au ganglion sentinelle (en l'absence d'adénopathie suspecte):
 - Indice de Breslow ≥ 1 mm
 - ou ≥ 0,8 mm avec d'autres facteurs de risque histologiques (ulcération, ≥ 1 mitose/mm², microsatellites ...)
 
-> *EADO/EDF/EORTC 2022*
+> – *EADO/EDF/EORTC 2022*
 
 #### LDH
 
@@ -235,7 +235,7 @@ Aucun dosage de marqueurs tumoraux n'est recommandé.
     Voir *Éducation thérapeutique*.
   - Surveillance annuelle par le dermatologue
 
-> *INCa* et *HCSP*
+> – *INCa* et *HCSP*
 
 {{% /collapse %}}
 {{%collapse "Traitement du mélanome" %}}
@@ -301,7 +301,7 @@ En cas de suspicion de récidive, le patient doit être ré-adressé à l'équip
 - Impliquer selon les cas son entourage dans la gestion de la maladie, des traitements et des répercussions qui en découlent
 - Recourir si besoin à des modalités d'accompagnement psychologique appropriées.
 
-> *HAS 2006*
+> – *HAS 2006*
 
 ### Méthode d'auto-examen cutané
 
@@ -320,7 +320,7 @@ Avec miroir en pied et examen de haut en bas. Tourner le côté gauche puis le c
 
 Examen avec miroir à main: Surélever chaque jambe pour examiner la face interne, externe et postérieure du mollet et de la cuisse. Face postérieure des bras, la nuque, le dos, le cuir chevelu et la région génitale.
 
-> *HAS 2006*
+> – *HAS 2006*
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du mélanome" "show" %}}

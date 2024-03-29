@@ -289,7 +289,7 @@ Indications au scanner thoracique pour le dépistage du [cancer du poumon]({{< r
 - Douleur chronique
 - Altération de l'état général
 
-> *CNS 2017*
+> – *CNS 2017*
 
 ### Dépistage du cancer de la vessie
 
@@ -298,7 +298,7 @@ En cas d'exposition pendant au moins 1 an à un agent cancérigène vésical.
 
 **Méthode:** cytologie urinaire tous les 6 mois.
 
-> *CNS 2017*
+> – *CNS 2017*
 
 ### Dépistage du lymphome
 

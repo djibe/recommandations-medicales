@@ -117,7 +117,7 @@ L'écoulement mamelonnaire pathologique est unilatéral, abondant, persistant, s
 
 Adresser au spécialiste avec les résultats.
 
-> *CNGOF 2015*
+> – *CNGOF 2015*
 
 {{%/info%}}
 

@@ -287,7 +287,7 @@ graph TB
 
 {{< clinique/reserve-ovarienne >}}
 
-> *CNGOF 2010*
+> – *CNGOF 2010*
 
 {{% /modal %}}
 {{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}

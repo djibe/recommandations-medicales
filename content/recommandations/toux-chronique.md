@@ -38,7 +38,7 @@ Toux chronique native
     3. En dehors d'un épisode identifié susceptible d'être en cause
 : Un **hemmage** (raclement de gorge) peut être une forme clinique.
 
-> *SFORL 2020*
+> – *SFORL 2020*
 
 ### Abréviations
 

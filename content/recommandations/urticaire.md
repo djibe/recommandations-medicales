@@ -222,7 +222,7 @@ Aucun examen complémentaire n'est recommandé devant une urticaire chronique ba
 - Anticorps anti-TPO  
   et TSH si anticorps positifs.
 
-> *Consensus ANAES/SFDermato 2003*
+> – *Consensus ANAES/SFDermato 2003*
 
 En cas de syndrome inflammatoire biologique, d'anomalie de la NFS ou de signes cliniques évocateurs:
 

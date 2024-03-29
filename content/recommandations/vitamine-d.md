@@ -57,7 +57,7 @@ Principaux aliments riches en vitamine D: poissons et produits laitiers (*Anses*
 - **Déficit en vitamine D**: 75% des adultes et 70% des enfants
 - **Carence en vitamine D**: 7% des adultes, 13% des adolescents et 4% des enfants
 
-> *Étude Esteban (Santé Publique France)*
+> – *Étude Esteban (Santé Publique France)*
 
 ### Abréviations
 

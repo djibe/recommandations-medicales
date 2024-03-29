@@ -140,7 +140,7 @@ RCV
 : Angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire (répétée tous les 3-5 ans){{< /modal-btn >}}
 : Après score calcique si {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}}
 
-> *SFD 2021 CAD*
+> – *SFD 2021 CAD*
 
 </div>
 <div class="collapse" id="collapse-hta">
@@ -236,7 +236,7 @@ Ex: athlète, pilote de ligne, chauffeur routier ou de bus.
 
 </div>
 
-> *SFC 2018*
+> – *SFC 2018*
 {.mt-5}
 
 </div>

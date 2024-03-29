@@ -90,7 +90,7 @@ Situations où une hyponatrémie nécessite une prise en charge urgente:
   - Convulsions
   - Coma avec {{< modal-btn modal-glasgow >}}score de Glasgow{{< /modal-btn >}} ≤ 8
 
-> *ERBP 2014*
+> – *ERBP 2014*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

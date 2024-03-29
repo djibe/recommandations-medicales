@@ -154,7 +154,7 @@ Pour les professionnels concernés par l'obligation vaccinale, le [Certificat m�
 2. Myocardites ou péricardites d'étiologie non liée à une infection par SARS-CoV-2 survenues antérieurement à la vaccination et toujours évolutives
 3. Syndrome inflammatoire multi-systémique pédiatrique (PIMS) post-infection par le SARS-CoV-2, pendant 3 mois suivant la survenue du PIMS. La vaccination peut avoir lieu passé ce délai, après récupération d'une fonction cardiaque normale, et en l'absence de tout syndrome inflammatoire.
 
-> *DGS Urgent 2022-72*
+> – *DGS Urgent 2022-72*
 
 {{% /collapse %}}
 {{%collapse "Séquelles du Covid" %}}

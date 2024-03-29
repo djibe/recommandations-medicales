@@ -134,7 +134,7 @@ En cas de complications attribuables à une statine:
 Lorsqu'une statine doit être arrêtée pour mauvaise tolérance, envisager la substitution par l'[ézétimibe](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63964962&typedoc=R) voire l'ajout de [cholestyramine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65691327&typedoc=R) et/ou d'un anti-PCSK9 selon le risque cardiovasculaire (*ESC 2021*)
 {.alert .alert-info}
 
-> *ESC* et *Bouhairie et al*
+> – *ESC* et *Bouhairie et al*
 
 {{% /collapse %}}
 {{%collapse "Statines, grossesse et allaitement" %}}

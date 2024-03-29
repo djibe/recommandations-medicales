@@ -160,6 +160,6 @@ Pour le graphique avant 2002, les francs français ont été convertis avec l'ou
 | 2018  |           25,9 |           152 |
 {{< /table >}}
 
-> *[Insee. Population par âge. Tableaux de l'économie française. 27/02/2018.](https://www.insee.fr/fr/statistiques/3303333?sommaire=3353488#consulter)*
+> – *[Insee. Population par âge. Tableaux de l'économie française. 27/02/2018.](https://www.insee.fr/fr/statistiques/3303333?sommaire=3353488#consulter)*
 
 {{% /collapse %}}

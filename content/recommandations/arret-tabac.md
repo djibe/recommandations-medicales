@@ -211,7 +211,7 @@ Rappeler que l'arrêt du tabac n'est pas qu'une question de volonté mais qu'il 
 - Continuer à fumer aggravera votre bronchite ou votre asthme (...), en revanche arrêter de fumer pourra améliorer votre santé de façon importante
 - La fréquence des infections respiratoires des enfants est supérieure dans un environnement fumeur
 
-> *HAS 2014*
+> – *HAS 2014*
 {{%/info%}}
 
 ### 4) Évaluation de la motivation à l'arrêt
@@ -394,7 +394,7 @@ Synthèse des 13 recommandations du *Haut Conseil de la Santé Publique* pour la
 12. Des études de cohorte sont nécessaires pour analyser le rôle initiateur des SEDEN
 13. Les connaissances sur le rôle des saveurs sur l'attractivité des jeunes doivent être analysées
 
-> *HCSP 2022*, **SEDEN** = systèmes électroniques de délivrance de la nicotine (cigarette électronique)
+> – *HCSP 2022*; **SEDEN** = systèmes électroniques de délivrance de la nicotine (cigarette électronique)
 
 Pour en savoir plus, regarder le webinaire SPLF dans la section suivante (*Pour en savoir plus*).
 
