@@ -7,7 +7,7 @@ synonyms = ["Cancer broncho-pulmonaire", "tumeur pulmonaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T17:35:52+02:00"
 publishdate = "2022-05-12"
-lastmod = "2023-12-18"
+lastmod = "2024-03-29"
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["HAS", "SPLF", "ERS"]
@@ -23,7 +23,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le cancer du poumon est la première cause de mortalité par cancer alors qu'il est quasi totalement évitable (arrêt du tabac)
+- Le cancer du poumon est la première cause de mortalité par cancer alors qu'il est presque totalement évitable ([arrêt du tabac]({{< relref "arret-tabac.md" >}}))
 - Rechercher un cancer du poumon devant toute hémoptysie ou symptôme thoracique persistant chez un (ex)-fumeur
 - Radiographie de thorax F+P et scanner thoracique avec injection
 - Adresser en semi-urgence au Centre de Lutte contre le Cancer
@@ -32,7 +32,7 @@ flowchart = true
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Cancer broncho-pulmonaire (CBP)
+Cancer bronchopulmonaire (CBP)
 : Les cancers du poumon sont principalement de type histologique non à petites cellules (CBNPC, 85%, adénocarcinome surtout, carcinome épidermoïde ou carcinome à grandes cellules) ou à petites cellules (15%).
 : Principaux facteurs de risque: tabagisme actif ou passif (85-90%) et amiante (x5, x50 si tabac), échappement de diesel, radon, arsenic, nickel, cobalt, chrome, hydrocarbure à cycle aromatique, rayonnements ionisants, silice, cadmium. Aussi: antécédent de CBP, [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), pneumopathies interstitielles diffuses fibrosantes.  
 La nocivité de la cigarette dépend plus de la durée d'exposition que du paquet-année (PA).
@@ -40,13 +40,13 @@ La nocivité de la cigarette dépend plus de la durée d'exposition que du paque
 ### Abréviations
 
 CBP
-: cancer broncho-pulmonaire
+: cancer bronchopulmonaire
 
 CBPC
-: cancer broncho-pulmonaire à petites cellules
+: cancer bronchopulmonaire à petites cellules
 
 CBNPC
-: cancer broncho-pulmonaire non à petites cellules
+: cancer bronchopulmonaire non à petites cellules
 
 CLCC
 : centre de lutte contre le cancer
@@ -66,7 +66,7 @@ SPLF
 - Incidence: 46.000/an (2e de l'homme, 3e de la femme)
 - Décès: 33.000/an (2018. 1<sup>re</sup> cause de mortalité par cancer)
 - Survie à 5 ans (tous stades): < 20% (+11 points en 25 ans)
-- Le tabagisme passif causerait 1/4 des CBP des non fumeurs (*Collège*)
+- Le tabagisme passif causerait 1/4 des cancers broncho-pulmonaires des non fumeurs (*Collège*)
 
 {{< card-link-external title="Dépenses liées au cancer du poumon" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Cancers&refine.patho_niv2=Cancer%20du%20poumon">}}
 
@@ -80,12 +80,12 @@ La Commission européenne recommande ce dépistage depuis son [communiqué de se
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic de cancer broncho-pulmonaire est évoqué devant les symptômes suivants (fumeur ou ancien fumeur ++):
+Le diagnostic de cancer broncho-pulmonaire est évoqué devant les symptômes suivants (**fumeur** ou ancien fumeur ++):
 
-- Signes respiratoires
+- **Hémoptysie**
+- Signes respiratoires chroniques
   - [Toux](/tags/toux/)
   - [Dyspnée](/tags/dyspnee/)
-  - Hémoptysie
   - Infection respiratoire basse récidivante
 - AEG: [fatigue](/tags/fatigue/), amaigrissement, anorexie
 - Envahissement locorégional
@@ -217,9 +217,9 @@ L'*ACS* recommande le dépistage chez les sujets éligibles de 50 à 80 ans avec
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Adresser en semi-urgence à l'équipe hospitalière de pneumologie pour la suite de la prise en charge du cancer du poumon. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
+Adresser en semi-urgence à l'équipe hospitalière d'oncologie ou pneumologie pour la suite de la prise en charge du cancer du poumon. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
 
-Le traitement curatif dépend de la RCP (chirurgie, radiothérapie, chimiothérapie, immunothérapie ± associées). Il doit être démarré dans les 6 semaines qui suivent la réalisation du bilan d'extension.
+Le traitement curatif du cancer bronchopulmonaire dépend de la RCP (chirurgie, radiothérapie, chimiothérapie, immunothérapie ± associées). Il doit être démarré dans les 6 semaines qui suivent la réalisation du bilan d'extension.
 
 - Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
 - Rechercher une exposition professionnelle (amiante ...)
@@ -251,10 +251,12 @@ graph TB
 - [Collège des Enseignants de Pneumologie (CEP). Tumeurs du Poumon, primitives et secondaires. Item 309. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_309_CANCER_2023.pdf)
 - [HAS. Dépistage du cancer bronchopulmonaire par scanner thoracique faible dose sans injection : actualisation de l'avis de 2016. 2022.](https://www.has-sante.fr/jcms/p_3310940/fr/depistage-du-cancer-bronchopulmonaire-par-scanner-thoracique-faible-dose-sans-injection-actualisation-de-l-avis-de-2016)
 - [Couraud S et al; SPLF. Recommandations de l'Intergroupe francophone de cancérologie thoracique, de la Société de pneumologie de langue française, et de la Société d'imagerie thoracique sur le dépistage du cancer bronchopulmonaire par tomodensitométrie à faible dose d'irradiation. Rev Mal Resp. 2021.](https://www.sciencedirect.com/science/article/pii/S0761842521000437)
+- [INCa. Les cancers bronchopulmonaires en 10 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-bronchopulmonaires-en-10-points-cles)
 - [Kauczor H-U et al. ESR/ERS statement paper on lung cancer screening. Eur Respir J. 2020.](https://erj.ersjournals.com/content/55/2/1900506)
 - [Delafosse P et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Poumon. Santé Publique France. 2020.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-poumon)
 - [NICE. Lung cancer: diagnosis and management. 2019.](https://www.nice.org.uk/guidance/NG122)
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
+- [INCA. Cancers bronchopulmonaires - Du diagnostic au suivi. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-bronchopulmonaires-Du-diagnostic-au-suivi)
 - [HAS. ALD n°30 Cancer du poumon et mésothéliome pleural malin. 2014.](https://www.has-sante.fr/jcms/c_820058/fr/ald-n-30-cancer-du-poumon-et-mesotheliome-pleural-malin)
 - [HAS. Guides du parcours de soins des cancers broncho-pulmonaires et mésothéliome pleural malin. 2013.](https://www.has-sante.fr/jcms/c_1650525/fr/guides-du-parcours-de-soins-des-cancers-broncho-pulmonaires-et-mesotheliome-pleural-malin)
 - [INCa. Cancer du poumon - Bilan initial. 2011.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-du-poumon-Bilan-initial-recommandation-argumentees)

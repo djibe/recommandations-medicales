@@ -214,7 +214,7 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 {{< figure image="/images/photos/cancer-col-uterus-30.jpg" title="Conduite à tenir devant un frottis avec analyse cytologique anormale de 25 à 29 ans. INCa 2020" loading="lazy">}}
 {{< figure image="/images/photos/cancer-col-uterus-30+.jpg" title="Conduite à tenir devant un frottis avec test HPV haut risque anormal de 30 à 65 ans. INCa 2020" loading="lazy">}}
 
-{{< card-link-external title="Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale (PDF)" url="https://www.e-cancer.fr/content/download/287960/4097542/file/Conduite_a_tenir_devant_une_femme_ayant_une_cytologie_cervico_uterine_anormale_mel_20200306.pdf" subtitle="INCa">}}
+{{< card-link-external title="Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale" url="https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Conduite-a-tenir-devant-une-femme-ayant-une-cytologie-cervico-uterine-anormale" subtitle="INCa 2017">}}
 
 {{% /collapse %}}
 {{%collapse "Traitement du cancer du col de l'utérus" %}}
@@ -251,14 +251,15 @@ En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md"
 - [HAS. Évaluation de la recherche des papillomavirus humains (HPV) en dépistage primaire des lésions précancéreuses et cancéreuses du col de l'utérus et de la place du double immuno-marquage p16/Ki67. 2019.](https://www.has-sante.fr/jcms/c_2806160/fr/evaluation-de-la-recherche-des-papillomavirus-humains-hpv-en-depistage-primaire-des-lesions-precancereuses-et-cancereuses-du-col-de-l-uterus-et-de-la-place-du-double-immuno-marquage-p16/ki67)
 - [Marth C et al. Cervical cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2017.](https://www.annalsofoncology.org/article/S0923-7534(19)42148-0/fulltext)
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
-- [INCa. Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale. 2017. (PDF)](https://www.e-cancer.fr/content/download/287960/4097542/file/Conduite_a_tenir_devant_une_femme_ayant_une_cytologie_cervico_uterine_anormale_mel_20200306.pdf)
+- [INCa. Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale. 2017.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Conduite-a-tenir-devant-une-femme-ayant-une-cytologie-cervico-uterine-anormale)
 - [HAS. Cancer invasif du col utérin. Actes et prestations Affection de longue durée. Juin 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_lap_col_uterin_web.pdf)
 - [HAS. Cancer invasif du col utérin. Janvier 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_gm_col_uterin_web_2010-02-12_09-57-34_599.pdf)
 - [Vaccination Info Service. Les infections à papillomavirus humains (HPV).](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Les-Infections-a-Papillomavirus-humains-HPV)
 
 ### Bibliographie en attente
 
-[Fischerova D et al. The Role of Imaging in Cervical Cancer Staging: ESGO/ESTRO/ESP Guidelines (Update 2023). Cancers (Basel). 2024.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38398166/)
+- [Fischerova D et al. The Role of Imaging in Cervical Cancer Staging: ESGO/ESTRO/ESP Guidelines (Update 2023). Cancers (Basel). 2024.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38398166/)
+- [INCa. Cancers invasifs du col utérin - Du diagnostic au suivi. 2021.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-invasifs-du-col-uterin-Du-diagnostic-au-suivi)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
 publishdate = "2021-11-03"
-lastmod = "2024-01-08"
+lastmod = "2024-03-29"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["INCa", "HAS", "ACOG"]
@@ -17,7 +17,7 @@ sctid = "254837009"
 icd10 = "C50.9"
 image = true
 imageSrc = "Le cancer du sein, illustration par Freepik"
-todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e"
+todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, INCa autres guides"
 flowchart = true
 +++
 
@@ -425,17 +425,17 @@ graph TB
 - [INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. 2022.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Santé Publique France. Dépistage du cancer du sein : quelle participation des femmes en 2021 ? 2022.](https://www.santepubliquefrance.fr/les-actualites/2022/depistage-du-cancer-du-sein-quelle-participation-des-femmes-en-2021)
-- [INCa. Les cancers du sein en 10 points clés. 2020. (PDF)](https://www.e-cancer.fr/content/download/292195/4161509/file/Cancers_du_sein_en_10_points_cles_mel_20200702.pdf)
+- [INCa. Les cancers du sein en 10 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-du-sein-en-10-points-cles)
 - [ACOG. Tamoxifen and Uterine Cancer. 2014. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/tamoxifen-and-uterine-cancer)
 - [HAS. Cancer du sein : modalités spécifiques de dépistage pour les femmes à haut risque. 2019.](https://www.has-sante.fr/jcms/pprd_2974673/fr/cancer-du-sein-modalites-specifiques-de-depistage-pour-les-femmes-a-haut-risque)
-- [INCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
-- [INCa. Prothèses mammaires et risque de cancer. Avril 2019.](https://www.e-cancer.fr/Comprendre-prevenir-depister/Reduire-les-risques-de-cancer/Protheses-mammaires)
+- [INCa. Remboursement des prothèses et appareillages. 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
+- [INCa. Prothèses mammaires et risque de cancer. 2019.](https://www.e-cancer.fr/Comprendre-prevenir-depister/Reduire-les-risques-de-cancer/Protheses-mammaires)
 - [CNGOF. Cancers du sein : les patientes dans la tourmente. 2017. (PDF)](https://cngof.fr/app/uploads/2023/06/K-SEIN-2017_compressed_1pdf.io_.pdf?x53169)
-- [HAS. Dépistage et prévention du cancer du sein. Février 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
+- [INCa. Cancer du sein : du diagnostic au suivi. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-du-sein-Du-diagnostic-au-suivi)
+- [HAS. Dépistage et prévention du cancer du sein. 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
 
 ### Bibliographie en attente
 
-- [INCa. Cancer du sein : du diagnostic au suivi. 2016. (PDF)](https://www.e-cancer.fr/content/download/164989/2115178/file/Cancer-du-sein-Du-diagnostic-au-suivi-20161129.pdf)
 - [Sessa C et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
 - [ESMO. Metastatic Breast Cancer Living Guidelines​](https://www.esmo.org/living-guidelines/esmo-metastatic-breast-cancer-living-guidelines)
 

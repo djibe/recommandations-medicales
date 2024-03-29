@@ -31,6 +31,10 @@ TODO:
 Trouble déficit de l'attention avec hyperactivité (ou sans hyperactivité – TDAH)
 : Inattention et/ou hyperactivité/impulsivité persistants plus importants que ce qui est attendu pour l'âge, interférant avec le fonctionnement de la personne.
 : Les symptômes débutent dans l'enfance avec forte prévalence (5%), atteignant principalement les garçons (75%).
+: 3 présentations cliniques prédominent:
+    - présentation hyperactive/impulsive prédominante (pré-scolaire ++)
+    - présentation combinée
+    - présentation inattentive prédominante
 : Les complications du TDAH ...
 
 ### Abréviations
@@ -41,6 +45,15 @@ TDAH
 
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques du TDAH" %}}
+
+> << La difficulté à poser le diagnostic réside dans le fait que l’inattention ou l’hyperactivité/impulsivité peuvent
+exister dans diverses pathologies médicales psychiatriques ou non psychiatriques. La plupart des comorbidités du TDAH sont aussi des diagnostics différentiels >>.
+{.alert .alert-info}
+
+Le diagnostic de TDAH nécessite plusieurs symptômes du syndrome d'inattention et/ou du syndrome d'hyperactivité et d'impulsivité dans au moins 2 contextes (familial, scolaire, extra-scolaire, amical) avec un retentissement social, scolaire ou professionnel.
+
+Le TDAH est persistant (symptômes permanents pendant plus de 6 mois) et précoce (début **avant 12 ans**).
+
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
@@ -48,6 +61,13 @@ TDAH
 
 Les signes et symptômes de l'évaluation d'un TDAH s'apprécient par rapport à ce qui est attendu pour l'âge ou le contexte.
 
+L'évaluation est au mieux réalisée aec les parents et les enseignants.
+
+- Antécédents
+- Traitements
+- Développement
+- Environnement: famille, scolaire, amical
+- Ancienneté des troubles: +6 mois et début avant 12 ans
 - **Syndrome d'inattention**
   - Difficultés à se concentrer et à maintenir la concentration  
     Manque d'attention aux détails, étourderies.
@@ -65,14 +85,33 @@ Les signes et symptômes de l'évaluation d'un TDAH s'apprécient par rapport à
   - Hyperactivité présente en permanence (famille, social, extra-scolaire)
   - Impulsivité: agit ou parle sans réflexion sur les conséquences  
     Précipitation, incapacité à attendre son tour, prise de risque (traverser la route).
-- Dépister des comorbidités psychiatriques
-  - Troubles du comportement
-  - Autres troubles du neurodéveloppement
-  - Troubles anxieux ou de l'humeur
-  - Addictions
+- Retentissement: familial, scolaire, extra-scolaire, amical
+- Dépister des **comorbidités** psychiatriques (80%), qui sont également des **diagnostics différentiels**
+  - Troubles du comportement: TOP ++, troubles des conduites
+  - Autres troubles du neurodéveloppement: troubles des apprentissages (50-80% : dyslexie, dysgraphie, dyscalculie, dyspraxie), handicap intellectuel, TSA, TIC
+  - Troubles anxieux (1/3) ou de l'humeur
+  - Troubles addictifs
   - Troubles du sommeil
 
+#### Plaintes évocatrices de TDAH
+
+| Sujet       | Plainte                                                                                                                                             |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Enfant      | - Peu/pas d'amis<br>- Conflit avec les parents<br>- Faible estime de soi                                                                            |
+| Famille     | - Distraction, n'écoute pas<br>- Difficultés d'organisation, manque d'écoute<br>- Agitation, conduites dangereuses<br>- Impatience, coupe la parole |
+| Enseignants | - Rêveur, distrait<br>- Difficultés de concentration,<br>mémorisation, autonomie                                                                    |
+
 ### Examen clinique
+
+- Poids, taille, IMC, périmètre crânien, courbes de croissance
+- Pression artérielle, fréquence cardiaque
+- Examen neurologique et test oculomoteurs
+- Tests neuropsychologiques
+  - Tests d'attention
+  - Tests de QI
+- Questionnaires: ADHD-RS, Conners, SNAP-IV
+
+L'évaluation est poursuivie par un spécialiste du trouble (pédopsychiatre, psychiatre, pédiatre, neuropédiatre, neurologue).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -82,6 +121,12 @@ Les signes et symptômes de l'évaluation d'un TDAH s'apprécient par rapport à
 {{%collapse "Traitement" %}}
 
 > << Les mesures thérapeutiques et rééducatives des troubles du neurodéveloppement doivent être précoces, intensives, multidisciplinaires et adaptées au profil clinique de chaque individu. >> – *CNUP*
+
+- Suivi régulier: symptômes, traitements
+- Rester en contact avec l'enseignant, la famille et les spécialistes
+- Prise en charge des comorbidités: orthophonie, ergothérapie, psychologue ...
+- Aménagements pédagogiques
+- Associations de patients
 
 {{% /collapse %}}
 {{%sources%}}

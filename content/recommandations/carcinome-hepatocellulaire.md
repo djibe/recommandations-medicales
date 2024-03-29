@@ -7,7 +7,7 @@ synonyms = ["Hépatocarcinome", "cancer primitif du foie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-30T19:19:57+01:00"
 publishdate = "2023-10-31"
-lastmod = "2023-11-23"
+lastmod = "2024-03-29"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2023"
 sources = ["SNFGE", "AFEF", "EASL", "HAS", "INCa"]
@@ -33,8 +33,8 @@ flowchart = true
 {{%collapse "Définition" %}}
 
 Carcinome hépatocellulaire (CHC)
-: Tumeur primitive du foie la plus fréquente (10.580 cas en 2018, en augmentation) à prédominance masculine (80%) par dégénérescence hépatocytaire. Le CHC survient le plus souvent sur une **cirrhose** (80%) et plus rarement sur une hépatopathie chronique non cirrhotique ([stéatopathie métabolique NASH]({{< relref "steatose-hepatique-et-nash.md" >}}) ...), exceptionnellement sur foie sain.
-: Les facteurs de risque majeurs de carcinome hépatocellulaire en France sont l'**[alcool]({{< relref "sevrage-alcool.md" >}})**, puis les [hépatites C]({{< relref "hepatite-c.md" >}}) et [B]({{< relref "hepatite-c.md" >}}) et la [NASH]({{< relref "steatose-hepatique-et-nash.md" >}}).
+: Tumeur primitive du foie la plus fréquente (90% des 10.580 cas en 2018, en augmentation) à prédominance masculine (80%) par dégénérescence hépatocytaire. Le CHC survient le plus souvent sur une **cirrhose** (80%) et plus rarement sur une hépatopathie chronique non cirrhotique ([stéatopathie métabolique NASH]({{< relref "steatose-hepatique-et-nash.md" >}}) ...), exceptionnellement sur foie sain.
+: Les facteurs de risque majeurs de carcinome hépatocellulaire en France sont l'**[alcool]({{< relref "sevrage-alcool.md" >}})** pour moitié, puis les [hépatites C]({{< relref "hepatite-c.md" >}}) et [B]({{< relref "hepatite-c.md" >}}) et la [NASH]({{< relref "steatose-hepatique-et-nash.md" >}}).
 
 ### Abréviations
 
@@ -164,12 +164,14 @@ Par ailleurs l'alpha-fœtoprotéine n'est plus utilisée pour le dépistage seme
 
 ### Dépistage du carcinome hépatocellulaire (CHC)
 
-Dépistage du carcinome hépatocellulaire chez les patients avec cirrhose {{< modal-btn modal-score-child >}}Child A ou B{{< /modal-btn >}} (ou C en attente de transplantation) par échographie abdominale semestrielle sans dosage de l'alpha-fœtoprotéine.
+Dépistage du carcinome hépatocellulaire chez les patients avec cirrhose {{< modal-btn modal-score-child >}}Child A ou B{{< /modal-btn >}} (ou C en attente de transplantation) par échographie abdominale semestrielle sans dosage de l'alpha-fœtoprotéine et suivi hépatologique au moins annuel.
 {.alert .alert-info}
 
-> – *SNFGE/AFEF 2023*
+> – *SNFGE/AFEF 2023* et *INCa 2022*
 
 Encourager la consommation de café en cas d'hépatopathie (*EASL 2018*).
+
+> Un dépistage non invasif de la fibrose hépatique (score FIB-4 voire élastométrie hépatique) est recommandé en cas de facteur de risque: alcool, NASH, diabète type 2, hépatite B ou C chronique.
 
 {{% /collapse %}}
 {{%collapse "Traitement du carcinome hépatocellulaire" %}}
@@ -208,6 +210,7 @@ graph TB
 {{%sources%}}
 
 - [Blanc JF et al; AFEF. Carcinome hépatocellulaire (cancer primitif du foie). Thésaurus National de Cancérologie Digestive (TNCD). 2023.](https://www.snfge.org/tncd/carcinome-hepatocellulaire-cancer-primitif-du-foie)
+- [INCa. Cancer du foie - Repérage et suivi des patients à risque en médecine générale. 2022.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-du-foie-reperage-et-suivi-des-patients-a-risque-en-medecine-generale)
 - {{< references/college-gastro >}}
 - [European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Management of hepatocellular carcinoma. J Hepatol. 2018.](https://www.journal-of-hepatology.eu/article/S0168-8278(18)30215-0/fulltext)
 - [Trinchet JC. Diagnostic du carcinome hépatocellulaire. Conseil de pratique. SNFGE et AFEF. 2016. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/recommandations/2016_chc_avec_figure_integree_0.pdf)

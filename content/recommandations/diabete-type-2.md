@@ -395,7 +395,7 @@ window.addEventListener('load', () => {
 - [Valensi P et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_paper_sfc_sfd_march_2021.pdf)
 - [HAS. Affection podologique & diabète : un suivi pluriprofessionnel. 2020.](https://www.has-sante.fr/jcms/p_3218144/fr/affection-podologique-diabete-un-suivi-pluriprofessionnel)
 - {{< references/afef-foie-non-invasif >}}
-- [INCa. Synthèse - Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Septembre 2019. (PDF)](https://www.e-cancer.fr/content/download/278143/3948778/file/Synthese_CAT_patients_atteints_adenocarcinomes_pancreas_mel_20191118.pdf)
+- [INCa. Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Synthèse. 2019.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Synthese-Conduites-a-tenir-devant-des-patients-atteints-d-adenocarcinomes-du-pancreas)
 - {{< references/esc-dyslipidaemias >}}
 - {{< references/esc-diabetes >}}
 - [HAS, FFAB. Boulimie et hyperphagie boulimique. Recommandation de bonne pratique. Juin 2019.](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique-reperage-et-elements-generaux-de-prise-en-charge)

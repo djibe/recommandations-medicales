@@ -253,9 +253,9 @@ graph TB
 - Rebours V. Risque de cancer du pancréas : maigrir c'est bien, ne pas grossir c'est mieux. GastroScoop. 13/01/2022.
 - [Hammel P et al. Cancer du pancréas. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/tncd/cancer-du-pancreas)
 - [Rebours V. Les chiffres du cancer du pancréas dans le monde : l'effroyable raz-de-marée. GastroScoop. 17/11/2021.
-- [INCa. Les cancers du pancréas en 12 points clés. Juin 2020. (PDF)](https://www.e-cancer.fr/content/download/291472/4150728/file/Cancer_du_pancreas_points-cles_mel_20200605.pdf)
-- [INCa. Cancer du pancréas - Du diagnostic au suivi. Juin 2020. (PDF)](https://www.e-cancer.fr/content/download/291469/4150680/file/Cancer_du_pancreas_du_diagnostic_au_suivi_mel_20200605.pdf)
-- [INCa. Synthèse - Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Septembre 2019. (PDF)](https://www.e-cancer.fr/content/download/278143/3948778/file/Synthese_CAT_patients_atteints_adenocarcinomes_pancreas_mel_20191118.pdf)
+- [INCa. Les cancers du pancréas en 12 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-du-pancreas-en-12-points-cles)
+- [INCa. Cancer du pancréas - Du diagnostic au suivi. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-du-pancreas-Du-diagnostic-au-suivi)
+- [INCa. Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Synthèse. 2019.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Synthese-Conduites-a-tenir-devant-des-patients-atteints-d-adenocarcinomes-du-pancreas)
 
 ### Bibliographie en attente
 

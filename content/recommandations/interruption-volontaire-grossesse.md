@@ -229,7 +229,6 @@ graph TB
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/rpc/?x72671)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
 - [CNGOF. L'interruption volontaire de grossesse. Recommandations pour la pratique clinique. 2016. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2016/RPC_2016_IVG.pdf?x55732)
-- [HAS. Interruption volontaire de grossesse par méthode médicamenteuse. Décembre 2010. (PDF)](https://www.has-sante.fr/portail/upload/docs/application/pdf/2011-04/ivg_methode_medicamenteuse_-_recommandations_-_mel_2011-04-28_11-39-11_882.pdf)
 
 ### Bibliographie en attente
 

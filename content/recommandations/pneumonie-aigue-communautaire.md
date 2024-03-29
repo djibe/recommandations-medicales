@@ -407,17 +407,6 @@ En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-p
 - Alternative: pristinamycine 1g x 3/j pendant 7 jours (ou FQAP)
 - Si échec à 48-72 heures: hospitalisation
 
-### Comparaison des schémas d'antibiothérapies proposées pour les pneumonies aiguës communautaires
-
-{{< table title="Schémas d'antibiothérapies ambulatoires pour le traitement des pneumonies aiguës communautaires selon diverses sociétés. Dr JB Fron d'après Antibioclic 2023, Afssaps 2010 et Collèges de médecine" >}}
-| Tableau                           | Antibioclic | Afssaps                                                                                                                        | CMIT et CEP                                                   |
-|-----------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| <b>Pneumocoque</b>                | Amoxicilline<br>Allergie: pristina ou lévoflo<br>48h: pristina, lévoflo<br>ou amox + macrolide |Amoxicilline<br>48h: Macrolide, lévofloxacine,<br>pristinamycine,<br>ou télithromycine                                         | Amoxicilline<br>Alternative: pristinamycine<br>48h: Macrolide |
-| <b>Intracellulaire</b>            | Macrolide<br>48h: amoxicilline, pristina,<br>lévoflo ou moxiflo | Macrolide<br>48h: Amoxicilline, lévofloxacine,<br> pristinamycine<br>ou télithromycine                                         | Macrolide<br>Alternative: pristinamycine<br>48h: Amoxicilline |
-| <b>Doute pneumocoque<br>ou atypique</b> | Amoxicilline ou<br>pristinamycine<br>48h: Hospitalisation | Amoxicilline ou pristina/télithro<br>48h: lévofloxacine,<br>pristinamycine,<br>ou télithromycine<br>Hosp. si pristina/télithro |                                                               |
-| <b>Sujet âgé, comorbidités</b>     | Augmentin<br>48h ou allergie: ceftriaxone IM,<br>lévoflo ou moxiflo | Augmentin, lévofloxacine<br>ou ceftriaxone IM<br>48h: hospitalisation                                                          | Idem<br>48h: hospitalisation (CMIT: ajout macrolide)          |
-{{< /table >}}
-
 {{% /collapse %}}
 {{%collapse "Prise en charge de la pneumonie aiguë communautaire" "show" %}}
 
