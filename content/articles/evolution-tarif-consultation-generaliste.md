@@ -1,14 +1,14 @@
 +++
 title = "Évolution du tarif des consultations des médecins généralistes"
 titleSeo = "Évolution du tarif de la consultation du généraliste"
-description = "Évolution du prix d'une consultation d'un médecin généraliste sur 40 ans (honoraires en secteur 1), de 1980 à 2022, corrigée de l'inflation"
+description = "Évolution du prix d'une consultation d'un médecin généraliste sur 40 ans (honoraires en secteur 1), de 1980 à 2023, corrigée de l'inflation"
 longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-23T14:00:00+02:00"
 publishdate = "2022-01-27"
-lastmod = "2023-06-06"
+lastmod = "2024-04-01"
 specialites = []
-annees = "2023"
+annees = "2024"
 sources = ["CNAM", "CARMF", "Insee"]
 tags = []
 chart = true
@@ -17,13 +17,14 @@ imageSrc = "storyset / Freepik"
 todo = "écriture SEO, Éléments cliquables trop rapprochés, cadres, temps travail, cotisations | KEY x3: consultations, médecin, médecins généralistes, consultation médicale, médecin traitant, tiers payant, augmentation des tarifs réglementés, assurance maladie, assurés, euro par consultation, patients | x1: prix d'une consultation, consultations chez le médecin, prix d'une visite, montant, médecine générale, sécurité sociale, revalorisation, évolution des prix, consultation classique; https://www.ofce.sciences-po.fr/pdf/ebook/ebook121.pdf; https://www.insee.fr/fr/outil-interactif/5369554/series-longues-dans-le-secteur-prive, https://www.pourquoidocteur.fr/Articles/Question-d-actu/21060-Consultation-revenus-generalistes-les-faibles-d-Europe, https://francais.medscape.com/voirarticle/3609481?src=WNL_mdplsfeat_221221_mscpedit_fr&uac=413635SY&impID=5012922&faf=1"
 +++
 
+Cet article est une publication préliminaire afin de disposer d'une série longue sur l'évolution des tarifs des consultations des médecins généralistes de 1980 à 2023 en France métropolitaine, n'ayant pas trouvé d'article complet sur le sujet.
+{.lead}
+
 ## Évolution du prix des consultations en médecine générale
 
-Publication préliminaire afin de disposer d'une série longue sur les prix des consultations des médecins généralistes de 1980 à 2023 en France métropolitaine, n'ayant pas trouvé d'article complet sur le sujet.
+Les *conventions médicales* fixent les prix des consultations pour les 5 années à venir. Ainsi, la dernière revalorisation du barème de la consultation du généraliste par signature de la convention a eu lieu en 2017, avec un tarif affiché à 25€. Une augmentation de 1,5€ de la consultation a été décrétée en 2023 par arbitrage, la Convention n'obtenant pas la signature des syndicats.
 
-Les *conventions médicales* fixent les prix des consultations pour les 5 années à venir. Ainsi, la dernière revalorisation du barème de la consultation du généraliste a eu lieu en 2017, avec un tarif affiché à 25€.
-
-Avec la forte inflation intervenue en 2022, la consultation, toujours affichée 25€ en 2023, ne valait plus que 22,59 € de 2017, soit le prix de la consultation en 1995 en euros constants.
+Avec la forte inflation démarrée en 2022, la consultation du généraliste, toujours affichée 25€ en 2023 (jusqu'en novembre), atteignait la valeur d'une consultation en **1992** (en euros constants).
 {.alert .alert-info}
 
 ### Éléments à retravailler sur cette page
@@ -42,8 +43,12 @@ Ce qui nécessitera un autre travail: l'évolution de l'activité des praticiens
 const chartOptions = {
   // https://www.insee.fr/fr/information/2417794
   series: [{
-    name: 'Euros 2021',
-    data: [19.05, 21.49, 19.22, 20.72, 20.77, 21.03, 21.85, 22.51, 21.92, 21.16, 21.67, 20.98, 22.79, 22.32, 23.06, 23.71, 23.24, 22.97, 23.86, 23.74, 23.36, 22.98, 25.71, 25.2, 24.67, 24.22, 25.02, 25.83, 25.12, 25.1, 24.73, 25.32, 24.83, 24.62, 24.49, 24.48, 24.44, 26.29, 25.81, 25.53, 25.41, 25, 23.76, null]
+    name: 'Euros 2023',
+    data: [21.02, 23.71, 21.20, 22.86, 22.92, 23.21, 24.11, 24.84, 24.19, 23.35,
+     23.91, 23.16, 25.15, 24.63, 25.44, 26.16, 25.65, 25.35, 26.34, 26.2,
+      25.78, 25.36, 28.37, 27.80, 27.22, 26.73, 27.62, 28.51, 27.73, 27.70,
+       27.29, 27.94, 27.40, 27.16, 27.03, 27.02, 26.97, 29.01, 28.49,
+        28.18, 28.04, 27.59, 26.22, 25]
   },
   {
     name: 'Euros courants',
@@ -54,8 +59,12 @@ const chartOptions = {
   stroke: { colors: ['#4150f5', '#717cf8'], curve: 'smooth', width: 3 },
   title: { text: 'Honoraires de la consultation d’un médecin généraliste en secteur 1' },
   xaxis: {
-    categories: [1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
-    tickAmount: 21
+    categories: [1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989,
+     1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999,
+      2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009,
+       2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019,
+        2020, 2021, 2022, 2023],
+    tickAmount: 22
   },
   yaxis: [
     {
@@ -94,7 +103,7 @@ Les données du prix des consultations chez le médecin sont téléchargeables d
 
 Pour le graphique avant 2002, les francs français ont été convertis avec l'outil [Convertisseur franc-euro de l'Insee](https://www.insee.fr/fr/information/2417794).
 
-{{< table title="Prix de la consultation médicale des médecins généralistes conventionnée Secteur 1 en Francs et en Euros 2021 de 1980 à 2001 d'après Mayneris 2004 et Insee. Dr JB Fron" >}}
+{{< table title="Prix de la consultation médicale des médecins généralistes conventionnée Secteur 1 en Francs et en Euros 2021 de 1980 à 2001. Dr JB Fron d'après Mayneris 2004 et Insee" >}}
 | Année | Consultation (Francs) | C (Euros 2021) |
 |-------|----------------------:|---------------:|
 | 1980  |                    43 |          19.05 |
@@ -149,8 +158,8 @@ Pour le graphique avant 2002, les francs français ont été convertis avec l'ou
 
 ### Population de plus de 60 ans
 
-{{< table title="Part de la population de plus de 60 ans en France métropolitaine de 1980 à 2018 et évolution (base 100 en 1980). Dr JB Fron d'après Insee" >}}
-| Année | Proportion (%) | Évolution (%) |
+{{< table title="Part de la population de plus de 60 ans en France métropolitaine de 1980 à 2024 et évolution (base 100 en 1980). Dr JB Fron d'après Insee" >}}
+| Année | Proportion (%) |     Évolution |
 |-------|---------------:|--------------:|
 | 1980  |             17 |           100 |
 | 1990  |             19 |           112 |
@@ -158,8 +167,10 @@ Pour le graphique avant 2002, les francs français ont été convertis avec l'ou
 | 2010  |           22,8 |           134 |
 | 2015  |           24,8 |           146 |
 | 2018  |           25,9 |           152 |
+| 2021  |             27 |           159 |
+| 2014  |             28 |           165 |
 {{< /table >}}
 
-> – *[Insee. Population par âge. Tableaux de l'économie française. 27/02/2018.](https://www.insee.fr/fr/statistiques/3303333?sommaire=3353488#consulter)*
+> – *[Insee. Pyramide des âges ai 1er janvier. 2024.](https://www.insee.fr/fr/outil-interactif/5014911/pyramide.htm#!&t=1)*
 
 {{% /collapse %}}

@@ -2,7 +2,7 @@
 title = "Examens de suivi de l'enfant et de l'adolescent"
 prefix = "les "
 titleSeo = "Suivi de l'enfant"
-description = "Liste des 20 examens du nourrisson et de l'enfant remboursés à 100% par l'Assurance Maladie avec leur code de facturation selon l'âge"
+description = "Les 20 examens du nourrisson et de l'enfant remboursés à 100 % par l'Assurance Maladie avec leur code de facturation selon l'âge. Dépistages: visuel, scoliose"
 shortname = "Suivi pédiatrique"
 synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
@@ -154,6 +154,7 @@ Sources citées en regard des sections.
 
 ### Bibliographie en attente
 
+- [Feltner C et al. Screening for Speech and Language Delay and Disorders in Children Age 5 Years or Younger: An Evidence Review for the U.S. Preventive Services Task Force. Rockville (MD): Agency for Healthcare Research and Quality (US); January 2024.](https://www.ncbi.nlm.nih.gov/books/NBK599720/)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Développement psychomoteur. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/developpement-psychomoteur)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Dépistages chez l'enfant. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/depistages-lenfant)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Suivi médical pédiatrique. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/suivi-medical-pediatrique)
