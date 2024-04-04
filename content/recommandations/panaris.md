@@ -15,7 +15,7 @@ anglais = ["Whitlow"]
 sctid = "32021005"
 icd10 = "L02.4"
 image = true
-imageSrc = "Panaris avec composante inflammatoire et collectée par Uwe Jendricke, Public domain, via Wikimedia Commons"
+imageSrc = "Panaris avec composantes inflammatoire et collectée. Uwe Jendricke, Public domain, via Wikimedia Commons"
 flowchart = true
 todo = "rankok"
 +++
@@ -23,10 +23,10 @@ todo = "rankok"
 {{%article-summary%}}
 
 - Le diagnostic de panaris est clinique
-- Prise en charge d'un panaris par des bains antiseptiques pluriquotidiens (2 à 3 fois par jour)
-- Antibiothérapie ciblant le staphylocoque doré si immunodépression, valvulopathies, diabète ou évolution défavorable
-- Exérèse chirurgicale en cas de panaris collecté étendu
-- Consignes pour prévenir les récidives du panaris
+- La prise en charge d'un panaris comprend surtout des bains antiseptiques pluriquotidiens (2 à 3 fois par jour)
+- Antibiothérapie ciblant le staphylocoque doré (pristinamycine) si immunodépression, valvulopathies, diabète ou évolution défavorable du panaris
+- Un panaris collecté étendu nécessite une exérèse chirurgicale
+- Consignes pour prévenir les récidives du panaris: lavage des mains, désinfection des plaies, précautions lors des manucures
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -51,15 +51,14 @@ Pathologies à étayer devant une suspicion de panaris:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-**Le diagnostic de panaris est clinique.**  
-Rechercher une inoculation septique à l'interrogatoire et un corps étranger.
+**Le diagnostic de panaris est clinique.** Rechercher une inoculation septique à l'interrogatoire et un corps étranger.
 
 Intérêt de l'auscultation cardiaque chez le patient à risque d'[endocardite infectieuse]({{< relref "endocardite.md" >}}).
 
-### Stade inflammatoire
+Stade inflammatoire du panaris
+: Atteinte superficielle de la pulpe ou de type péri-onyxis (tourniole).
 
-Atteinte superficielle de la pulpe ou de type péri-onyxis (tourniole).  
-Inflammation de la dernière phalange avec douleurs modérées (doigt érythémateux, œdématié) sans fièvre.
+Cliniquement: inflammation de la dernière phalange avec douleurs modérées (doigt érythémateux, œdématié) sans fièvre.
 
 ### Panaris au stade collecté
 
@@ -74,7 +73,7 @@ Aspect caractéristique du panaris collecté:
 
 **Aucun examen complémentaire n'est recommandé de façon systématique devant une suspicion de panaris.**
 
-{{%class%}}Une radiographie de doigt peut être utile pour éliminer une ostéite ou un corps étranger{{%/class%}}
+Une radiographie de doigt peut être utile pour éliminer une ostéite ou un corps étranger.
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
@@ -141,7 +140,7 @@ Pansement à changer tous les jours pendant 1 semaine puis toutes les 48 heures 
 {{% /collapse %}}
 {{%collapse "Prise en charge d'un panaris" "show" %}}
 
-{{< mermaid title="Prise en charge d'un panaris" >}}
+{{< mermaid title="Prise en charge d'un panaris. Dr JB Fron d'après Collèges" >}}
 graph TB
   diagnostic[Diagnostic de panaris] --> inflammatoire(Inflammatoire) --> bains(Bains antiseptiques x 3/j) --> immunodepression("Immunodépression,<br>valuvulopathie, diabète,<br>complication,<br>évolution défavorable ?") -- Oui --> ATB(Antibiothérapie<br>Pristinamycine 1g x 2-3/j 7 jours)
   style diagnostic stroke:#4150f5, stroke-width:1px

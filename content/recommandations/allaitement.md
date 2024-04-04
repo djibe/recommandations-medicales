@@ -171,7 +171,7 @@ Prise en charge de la candidose du mamelon:
 Cloque de lait
 : Petite vésicule remplie de lait située à l'entrée d'un pore lactifère bouché.
 
-La prise en charge de la cloque de lait est une simple surveillance voire aide àa la résorption (compression par compresse, percement par aiguille stérile avec antisepsie).
+La prise en charge de la cloque de lait est une simple surveillance voire aide à la résorption (compression par compresse, percement par aiguille stérile avec antisepsie).
 
 ### Crevasses du mamelon
 

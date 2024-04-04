@@ -30,7 +30,7 @@ todo = "tabac, Anticorps anti-surrénaliens"
 - Le traitement hormonal substitutif (THS) doit être démarré rapidement pour réduire le risque cardiovasculaire et [fracturaire]({{< relref "osteoporose.md" >}})
 - Le THS utilisé pour les insuffisances ovariennes prématurées spontanées (non iatrogènes) n'augmente pas le risque de [cancer du sein]({{< relref "cancer-sein.md" >}}) (*HAS 2021*)
 
-Article lié: [Ménopause et traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
+Chapitre lié: [ménopause et traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

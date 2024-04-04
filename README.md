@@ -31,7 +31,7 @@ Seul un outil numérique peut nous aider.
 - Participatif  
   Tout le monde peut commenter le travail, participer à l'élaboration et demander plus d'informations.
 - Indépendant  
-  Aucun financement de l'industrie. Jamais.
+  Aucun financement de l'industrie pharmaceutique. Jamais.
 - Gratuit
 - Validé  
   Faire valider chaque fiche par un expert ou la Société savante de référence (certaines fiches pour le moment).
@@ -63,7 +63,7 @@ et aussi...
 - Low tech  
   Seulement à base de fichiers textes modifiables par tout le monde.
 - Connectable  
-  Via les codes CIM-10 et SNOMED-CT, le site peut être branché à d'autres systèmes par une API.
+  Via les codes CIM-10 et SNOMED-CT, le site peut être branché à d'autres systèmes.
 - Résistant  
   Pas de bases de données, facile à sauvegarder et déménager.
 - Sans frais  
@@ -76,7 +76,7 @@ et aussi...
 ## Ce qui manque pour le moment
 
 - **Vous !**
-- L'application mobile (ça arrive ...)
+- L'application mobile
 - Plus de contenu
 - La certification des Sociétés savantes
 - Le soutien des autorités (Assurance Maladie ...)

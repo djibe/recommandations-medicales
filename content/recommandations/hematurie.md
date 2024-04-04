@@ -175,12 +175,12 @@ Caractères sémiologiques de l'hématurie macroscopique:
 
 Bilan complémentaire lorsque l'hématurie est confirmée par l'ECBU:
 
-- Si orientation urologique:
+- Si orientation urologique (isolée ou avec douleurs, caillots):
   - cytologie urinaire
   - échographie des voies urinaires
   - uroscanner
   - adresser à l'urologue en l'absence d'infection urinaire
-- Si orientation néphrologique:
+- Si orientation néphrologique (totale, indolore, SFU absents):
   - cytologie quantitative des urines
   - protéinurie des 24 heures  
     voire rapport protéinurie/créatininurie en dehors des épisodes d'hématurie macroscopique

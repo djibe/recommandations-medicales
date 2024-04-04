@@ -28,7 +28,7 @@ flowchart = true
 - Prise en charge du prolapsus génital de la femme en cas de symptômes ou de complications. Traitement par une sage-femme ou un kinésithérapeute pour la rééducation abdomino-périnéale et le choix du pessaire (non remboursé)
 - Chirurgie des prolapsus génitaux uniquement en cas d'échec de la rééducation et du pessaire
 
-Article lié: [ménopause et traitement hormonal]({{< relref "menopause.md" >}})
+Chapitre lié: [ménopause et traitement hormonal]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

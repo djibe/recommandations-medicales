@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-03-21T18:57:26+01:00"
 publishdate = "2024-03-28"
-lastmod = "2024-03-28"
+lastmod = "2024-04-04"
 specialites = ["orthopedie"]
 annees = "2020"
 sources = ["ACR", "COFCOT"]
@@ -23,13 +23,13 @@ todo = "flow"
 {{%article-summary%}}
 
 - L'entorse de la cheville atteint principalement le sujet jeune lors du sport
-- L'évaluation clinique initiale recherche toujours les signes de gravité via les critères d'Ottawa: mineur ou âge +55 ans, douleurs à la palpation d'une malléole sur ses 6 derniers centimètres ou de la base du 5e métatarsien ou de l'os naviculaire, impossibilité de faire 4 pas en plein appui
+- L'évaluation clinique initiale recherche toujours les signes de gravité via les critères d'Ottawa: âge < 18 ans ou +55 ans, douleurs à la palpation d'une malléole sur ses 6 derniers centimètres ou de la base du 5e métatarsien ou de l'os naviculaire, impossibilité de faire 4 pas en plein appui
 - Si la douleur limite l'examen clinique, une consultation de contrôle est nécessaire entre J3 et J5
 - Des radiographies de la cheville (face en rotation interne 20° et profil) sont systématiques en présence d'un critère d'Ottawa
 - La prise en charge de l'entorse de la cheville bénigne associe: protocole RICE (repos, glaçage, compression et surélévation) du pied, antalgie, auto-rééducation
 - En cas d'entorse de moyenne gravité (ecchymoses): attelle de la cheville
 - Les entorses graves (craquement, hématome, luxation, fracture) nécessitent un plâtre pendant 6 semaines (absence d'appui en cas de fracture, mesures associées aux plâtres)
-- Après entorse non bénigne: rééducation proprioceptive intensive pendant 6 à 12 semaines
+- Après entorse non bénigne: rééducation proprioceptive intensive par pendant 6 à 12 semaines
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -41,6 +41,8 @@ Entorse de la cheville
     2. Stade 2 gravité moyenne (distension): élongation du ligament avec instabilité articulaire, **ecchymose** retardée.
     3. Stade 3 entorse grave (rupture ligamentaire): laxité articulaire avec impotence fonctionnelle immédiate. Possible subluxation articulaire, **hématome** précoce.
 : L'entorse de la cheville est l'urgence traumatique la plus fréquente (6000 cas quotidiens). Les complications sont liées au risque de prise en charge inadaptée d'une **fracture** (15% des entorses) avec séquelles motrices.
+
+**NB.** Des travaux de [recommendations par la HAS](https://www.has-sante.fr/jcms/p_3460983/fr/entorses-laterales-de-la-cheville-diagnostic-reeducation-et-retour-a-la-pratique-sportive-note-de-cadrage) ont débuté en 2023 pour la prise en charge de l'entorse latérale de la cheville.
 
 ### Facteurs de risque d'entorse de la cheville
 
@@ -159,7 +161,7 @@ Prise en charge de l'entorse de la cheville par le protocole << RICE >> ({{%lang
 - Bandage, strapping de la cheville
 - Surélévation de la jambe
 - Si douleurs marquées ou entorse de moyenne gravité: orthèse de la cheville (dite attelle) 3 semaines
-- Si entorse de moyenne gravité ou entorse grave: **rééducation** intensive
+- Si entorse de moyenne gravité, entorse grave ou récidivante: **rééducation** intensive par kinésithérapeute
 - Si entorse moyenne ou grave: reprise du sport à 6 (12 si grave) semaines avec chevillère souple
 
 La **réévaluation** sous 3 à 5 jours est systématique si l'évaluation initiale ets limitée par la douleur.
@@ -179,6 +181,7 @@ Le développement d'une **algodystrophie** est possible (1/3 ont des douleurs à
 - [Collège Français des Chirurgiens Orthopédistes et Traumatologues (COFCOT). Lésions péri-articulaires et ligamentaires de la cheville (lésions ligamentaires). Orthopédie Traumatologie. 3e édition. 2020. (PDF)](https://www.sofcot.fr/sites/www.sofcot.fr/files/medias/documents/CollegeOrthop%C3%A9dieTraumatologieELLIPSES%203%C3%A8me%20%C3%A9dition.pdf)
 - [Derry S et al. Topical NSAIDs for acute musculoskeletal pain in adults. Cochrane Database of Systematic Reviews. 2015.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007402.pub3/full/fr?highlightAbstract=entors%7Centorse%7Ccheville%7Cchevill)
 - [Bachmann LM et al. Accuracy of Ottawa ankle rules to exclude fractures of the ankle and mid-foot: systematic review. BMJ. 2003.](https://www.bmj.com/content/326/7386/417)
+- [Anaes. Rééducation de l'entorse externe de la cheville. Recommandations pour les pratiques de soins. 2000.](https://www.has-sante.fr/jcms/c_272398/fr/reeducation-de-l-entorse-externe-de-la-cheville)
 - [Vermeulen B et al; Société Francophone d'Urgences Médicales. L'entorse de la cheville au service d'Urgences. 1995.](https://www.sfmu.org/fr/vie-professionnelle/outils-professionnels/consensus//entorse-de-cheville/con_id/174)
 - [Stiell IG et al. A study to develop clinical decision rules for the use of radiography in acute ankle injuries. Ann Emerg Med. 1992.](https://www.annemergmed.com/article/S0196-0644(05)82656-3/abstract)
 

@@ -142,7 +142,8 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 - Réévaluation de l'efficacité et de la tolérance **3-6 mois** après chaque modification
 - En cas de grossesse: les objectifs glycémiques sont identiques au [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
 
-<div class="card-util border rounded-lg p-4 my-4">
+<div class="card-util">
+<div class="border rounded-lg p-4 my-4">
   <div class="m-0">
     <legend>Comorbidités</legend>
     <input type="radio" name="assistant" id="standard" class="d-input-none" checked>
@@ -271,6 +272,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
   <li>Voire metformine + <a role="button" data-toggle="modal" href="#modal-glp1">GLP-1</a> + <a role="button" data-toggle="modal" href="#modal-isglt2">iSGLT2</a> (plutôt que <a role="button" data-toggle="modal" href="#modal-su">SU</a>)</li>
   <li>ou metformine + <a role="button" data-toggle="modal" href="#modal-insuline">insuline basale</a></li>
 </ul>
+</div>
 </div>
 <script>
 window.addEventListener('load', () => {

@@ -169,7 +169,7 @@ Informations à expliquer au patient sur la dégénérescence maculaire liée à
   - Consulter en urgence en cas de suspicion d'endophtalmie: douleurs oculaires ou gêne accrue, aggravation des rougeurs oculaires, vision trouble ou diminuée, sensibilité accrue à la lumière ou augmentation du nombre de corps flottants
 - Donner la liste des Associations de patients (voir *Traitement*)
 
-Article lié: [les services d'urgences ophtalmologiques]({{< relref "urgences-ophtalmologiques.md" >}})
+Chapitre lié: [les services d'urgences ophtalmologiques]({{< relref "urgences-ophtalmologiques.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la DMLA" "show" %}}

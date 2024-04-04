@@ -137,7 +137,7 @@ L'évaluation est poursuivie par un spécialiste du trouble (pédopsychiatre, ps
 
 ### Psychostimulants: le méthylphénidate
 
-Le méthylphénidate est le traitement privilégié chez l'enfant et l'adolescent. Les amphétamines sont préférées chez les adultes. 
+Le méthylphénidate est le traitement privilégié chez l'enfant et l'adolescent. Les amphétamines sont préférées chez les adultes.
 
 Prescription initiale et annuelle réservée au spécialiste.
 

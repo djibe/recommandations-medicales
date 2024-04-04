@@ -25,7 +25,7 @@ flowchart = true
 - Prise en charge du granulome par des soins de paupières avec massage doux pour désobstruer le canal
 - Traitement médicamenteux du chalazion par pommade ou collyre corticoïde de l'œil atteint pendant 7 jours
 
-Article lié: [Orgelet]({{< relref "orgelet.md" >}})
+Chapitre lié: [orgelet]({{< relref "orgelet.md" >}})
 
 {{%/article-summary%}}
 

@@ -11,7 +11,7 @@ specialites = ["urologie"]
 annees = "2010"
 sources = ["HAS", "INCa"]
 tags = ["cancer"]
-anglais = ["Renal cancer"]
+anglais = ["Renal cancer", "renal cell carcinoma"]
 sctid = "363518003"
 icd10 = "C64"
 image = true
@@ -50,6 +50,9 @@ Facteurs suspectés: hypertension artérielle, exposition au cadmium ou à l'ami
 
 CCR
 : carcinome à cellules rénales
+
+EAU
+: Association européenne d'urologie ({{%lang%}}European Association of Urology{{%/lang%}})
 
 HAS
 : Haute Autorité de Santé
@@ -146,5 +149,9 @@ graph TB
 - [Lapôtre-Ledoux B et al. Incidence des principaux cancers en France métropolitaine en 2023 et tendances depuis 1990. Bull Épidémiol Hebd. 2023.](http://beh.santepubliquefrance.fr/beh/2023/12-13/2023_12-13_1.html)
 - [HAS, INCa. Cancer du rein de l'adulte. Liste des actes et prestations Affection de longue durée. 2011.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-uronephrologiques)
 - [HAS, INCa. Cancer du rein de l'adulte. Guide affection de longue durée. 2010.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-uronephrologiques)
+
+### Bibliographie en attente
+
+[Ljungberg B et al. EAU Guidelines on Renal Cancer Carcinoma. 2024.](https://uroweb.org/guidelines/renal-cell-carcinoma)
 
 {{%/sources%}}

@@ -29,7 +29,7 @@ flowchart = true
 - Le recours à l'hématologue doit être rapide en cas d'anomalie
 - Lorsqu'une gammapathie monoclonale de signification indéterminée (MGUS) est affirmée, la prise en charge comporte une surveillance clinico-biologique à 6 mois puis annuelle
 
-Article lié: [électrophorèse des protéines sériques (EPS)]({{< relref "electrophorese-proteines-seriques.md" >}})
+Chapitre lié: [électrophorèse des protéines sériques (EPS)]({{< relref "electrophorese-proteines-seriques.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
