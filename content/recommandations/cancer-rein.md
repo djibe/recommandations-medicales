@@ -6,16 +6,17 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-02T12:40:26+01:00"
 publishdate = "2024-01-04"
-lastmod = "2024-01-04"
+lastmod = "2024-04-05"
 specialites = ["urologie"]
-annees = "2010"
-sources = ["HAS", "INCa"]
-tags = ["cancer"]
+annees = "2024"
+sources = ["EAU", "HAS", "INCa"]
+tags = ["cancer", "tabac"]
 anglais = ["Renal cancer", "renal cell carcinoma"]
 sctid = "363518003"
 icd10 = "C64"
 image = true
-imageSrc = "Cancer du pôle supérieur du rein gauche précédemment suspecté sur une échographie abdominale chez un homme de 55 ans. Cas de Bálint Botz, Radiopaedia.org, rID: 61449"
+imageSrc = "Cancer du pôle supérieur du rein gauche suspecté lors d'une échographie abdominale chez un homme de 55 ans. Cas de Bálint Botz, Radiopaedia.org, rID: 61449"
+todo = "rank"
 flowchart = true
 +++
 
@@ -38,13 +39,15 @@ Cancer du rein
 
 ### Facteurs de risque de cancer du rein
 
-- [Dialyse]({{< relref "insuffisance-renale-chronique.md" >}}) depuis plus de 3 ans (cancer tubulopapillaire)
+- [Tabac]({{< relref "arret-tabac.md" >}})
 - [Obésité]({{< relref "obesite-adulte.md" >}})
-- [Tabagisme]({{< relref "arret-tabac.md" >}})
+- [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+- {{< modal-btn modal-metabolique >}}Syndrome métabolique{{< /modal-btn >}}
+- [Dialyse]({{< relref "insuffisance-renale-chronique.md" >}}) depuis plus de 3 ans (cancer tubulopapillaire)
 - Génétique: maladie de von Hippel-Lindau (1-2 % des cas)  
   Hémangiomes cérébelleux et rétiniens, plus de la moitié développe un cancer du rein.
 
-Facteurs suspectés: hypertension artérielle, exposition au cadmium ou à l'amiante.
+Facteurs suspectés: exposition au cadmium ou à l'amiante.
 
 ### Abréviations
 
@@ -85,8 +88,8 @@ Signes et symptômes de cancer du rein:
 - Poids et variations, taille, IMC
 - Pression artérielle, fréquence cardiaque
 - Palpation abdominale et fosses lombaires
-- Aires ganglionnaires (sus-claviculaire gauche << de Troisier >> )
-- Examen des bourses
+- Aires ganglionnaires (sus-claviculaire gauche << de Troisier >> ++)
+- Examen des bourses (varicocèle)
 - Œdèmes des membres inférieurs
 - Bandelette urinaire
 
@@ -98,11 +101,19 @@ Signes et symptômes de cancer du rein:
 ### Bilan d'une tumeur rénale
 
 - NFS
+- VS
 - Créatininémie, DFG selon {{< scores/ckd-epi >}}
+- ASAT, ALAT, GGT, PAL
+- LDH
+- Albuminémie, calcémie
+- TP
+- ECBU
 - Scanner abdominal avec injection
 {{%/info%}}
 
-Adresser aux urologues du Centre de Lutte contre le Cancer (CLCC) avec le bilan. Compléter avec un scanner thoracique en cas de suspicion de métastases ou d'images typiques.
+Adresser aux urologues du Centre de Lutte contre le Cancer (CLCC) avec le bilan.
+
+Compléter avec un **scanner thoracique** en cas de suspicion de métastases ou d'images typiques.
 
 {{% /collapse %}}
 {{%collapse "Traitement du cancer du rein" %}}
@@ -112,6 +123,11 @@ La prise en charge du cancer du rein est spécialisée après RCP. [Annuaire des
 Mesures associées à la prise en charge des cancers:
 
 - Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Avis oncogénétique si ≤ 46 avec ≥ 1 parmi:
+  - tumeur bilatérale ou multifocale
+  - antécédent familial au 1er ou 2e degré
+  - proche avec mutation connue
+  - histologie évocatrice
 - Information du patient: [guide INCa](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-du-rein/Points-cles) sur le cancer du rein
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - [Réduction de l'alcool]({{< relref "sevrage-alcool.md" >}})
@@ -123,7 +139,7 @@ Mesures associées à la prise en charge des cancers:
 
 ### Pour en savoir plus: les traitements du cancer du rein
 
-Le traitement du cancer du rein est décidé en réunion de concertation pluridisciplinaire (**RCP**) spécialisée et peut être, selon le type histologique et l'extension: chirurgical (néphrectomie partielle ou élargie), immunothérapie, thérapie ciblée, radiothérapie voire surveillance active.
+Le traitement du cancer du rein est décidé en réunion de concertation pluridisciplinaire (**RCP**) spécialisée et peut être, selon le type histologique et l'extension: chirurgical (ablation tumorale, néphrectomie partielle ou élargie), immunothérapie, thérapie ciblée, radiothérapie voire surveillance active.
 
 > << Le cancer du rein est généralement résistant à la radiothérapie et à la chimiothérapie cytostatique classique >> – *HAS/INCa 2010*
 
@@ -136,7 +152,7 @@ Le suivi et son rythme après cancer du rein est décidé par l'équipe spécial
 {{% /collapse %}}
 {{%collapse "Prise en charge du cancer du rein" "show" %}}
 
-{{< mermaid title="Prise en charge de la suspicion de cancer du rein par le médecin généraliste. Dr JB Fron d'après HAS/INCa" >}}
+{{< mermaid title="Prise en charge de la suspicion de cancer du rein par le médecin généraliste. Dr JB Fron d'après EAU 2024 et HAS/INCa" >}}
 graph TB
   suspicion["<b>Suspicion de cancer du rein</b><br>—<br>- Incidentalome ++<br>- Hématurie totale<br>- Douleur du flanc<br>- Masse lombaire"] --> bilan("<b>Bilan</b><br>—<br>- NFS, créatininémie<br>- Scanner abdominal injecté") --"Aspect de<br>cancer du rein,<br>± scanner thoracique"--> urologue("Urologue du CLCC")
     bilan -- Autre diagnostic --> autre("Prise en charge<br>adaptée")
@@ -146,12 +162,14 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ljungberg B et al. EAU guidelines on renal cancer carcinoma. 2024.](https://uroweb.org/guidelines/renal-cell-carcinoma)
 - [Lapôtre-Ledoux B et al. Incidence des principaux cancers en France métropolitaine en 2023 et tendances depuis 1990. Bull Épidémiol Hebd. 2023.](http://beh.santepubliquefrance.fr/beh/2023/12-13/2023_12-13_1.html)
-- [HAS, INCa. Cancer du rein de l'adulte. Liste des actes et prestations Affection de longue durée. 2011.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-uronephrologiques)
+- [HAS, INCa. Cancer du rein de l'adulte. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_985455/fr/ald-n-30-cancer-du-rein-de-l-adulte)
 - [HAS, INCa. Cancer du rein de l'adulte. Guide affection de longue durée. 2010.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-uronephrologiques)
 
-### Bibliographie en attente
-
-[Ljungberg B et al. EAU Guidelines on Renal Cancer Carcinoma. 2024.](https://uroweb.org/guidelines/renal-cell-carcinoma)
-
 {{%/sources%}}
+{{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
+
+{{< clinique/syndrome-metabolique >}}
+
+{{% /modal %}}

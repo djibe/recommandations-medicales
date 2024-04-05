@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-03-21T18:57:26+01:00"
 publishdate = "2024-03-28"
-lastmod = "2024-04-04"
+lastmod = "2024-04-05"
 specialites = ["orthopedie"]
 annees = "2020"
 sources = ["ACR", "COFCOT"]
@@ -23,10 +23,10 @@ todo = "flow"
 {{%article-summary%}}
 
 - L'entorse de la cheville atteint principalement le sujet jeune lors du sport
-- L'évaluation clinique initiale recherche toujours les signes de gravité via les critères d'Ottawa: âge < 18 ans ou +55 ans, douleurs à la palpation d'une malléole sur ses 6 derniers centimètres ou de la base du 5e métatarsien ou de l'os naviculaire, impossibilité de faire 4 pas en plein appui
+- L'évaluation clinique initiale recherche toujours les signes de gravité de l'entorse de cheville avec les critères d'Ottawa: âge < 18 ans ou +55 ans, douleurs à la palpation d'une malléole sur ses 6 derniers centimètres ou de la base du 5e métatarsien ou de l'os naviculaire, impossibilité de faire 4 pas en plein appui
 - Si la douleur limite l'examen clinique, une consultation de contrôle est nécessaire entre J3 et J5
 - Des radiographies de la cheville (face en rotation interne 20° et profil) sont systématiques en présence d'un critère d'Ottawa
-- La prise en charge de l'entorse de la cheville bénigne associe: protocole RICE (repos, glaçage, compression et surélévation) du pied, antalgie, auto-rééducation
+- Le traitement de l'entorse de la cheville bénigne associe: protocole RICE (repos, glaçage, compression et surélévation) du pied, antalgie, auto-rééducation
 - En cas d'entorse de moyenne gravité (ecchymoses): attelle de la cheville
 - Les entorses graves (craquement, hématome, luxation, fracture) nécessitent un plâtre pendant 6 semaines (absence d'appui en cas de fracture, mesures associées aux plâtres)
 - Après entorse non bénigne: rééducation proprioceptive intensive par pendant 6 à 12 semaines
@@ -59,10 +59,13 @@ COFCOT
 : Collège Français des Chirurgiens Orthopédistes et Traumatologues
 
 LCF
-: ligament calcanéo-fibulaire
+: ligament calcanéo-fibulaire (faisceau du LLE)
+
+LLE
+: ligament latéral externe
 
 LTFA
-: ligament talo-fibulaire antérieur
+: ligament talo-fibulaire antérieur (faisceau du LLE)
 {.dl-inline}
 
 {{% /collapse %}}
@@ -144,7 +147,7 @@ Des **radiographies du pied** sont associées en cas de douleurs à la palpation
 {{% /collapse %}}
 {{%collapse "Traitement de l'entorse de la cheville" %}}
 
-La cicatrisation d'une entorse bénigne de la cheville a lieu sous 6 semaines. La **rééducation proprioceptive** est systématique pour éviter des séquelles et des récidives (auto-rééducation pour l'entorse bénigne).
+La cicatrisation d'une entorse bénigne de la cheville a lieu sous 6 semaines. La **rééducation proprioceptive précoce** est systématique pour éviter des séquelles et des récidives (auto-rééducation pour l'entorse bénigne).
 {.alert .alert-info}
 
 Les **entorses graves** de la cheville nécessitent une **immobilisation** par botte (plâtrée, résine) pendant 6 semaines (avec mesures sous plâtre associées) et l'absence d'appui en cas de fracture.
@@ -153,6 +156,7 @@ Prise en charge de l'entorse de la cheville par le protocole << RICE >> ({{%lang
 
 - Repos
   - Décharge avec appui (selon la douleur), déambulation limitée avec cannes anglaises (béquilles).
+  - Reprise d'activité la plus rapide
   - Thromboprophylaxie en l'absence d'appui
 - Glaçage  
   15-20 minutes toutes les 2-3 heures initialement.
@@ -164,7 +168,7 @@ Prise en charge de l'entorse de la cheville par le protocole << RICE >> ({{%lang
 - Si entorse de moyenne gravité, entorse grave ou récidivante: **rééducation** intensive par kinésithérapeute
 - Si entorse moyenne ou grave: reprise du sport à 6 (12 si grave) semaines avec chevillère souple
 
-La **réévaluation** sous 3 à 5 jours est systématique si l'évaluation initiale ets limitée par la douleur.
+La **réévaluation** sous 3 à 5 jours est systématique si l'évaluation initiale est limitée par la douleur.
 
 Lors de la réévaluation à J3-J5, en cas de douleurs marquées:
 

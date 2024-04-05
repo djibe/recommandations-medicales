@@ -164,6 +164,7 @@ D'autres traitements médicamenteux sont possibles: stimulants (amphétamine) ou
 - [; SFP. . Pas à Pas en Pédiatrie. 2017.]()
 - [](https://www.bmj.com/content/384/bmj-2022-073448)
 - [Collège National Universitaire de Psychiatrie (CNUP). Principaux troubles du neurodéveloppement Item 67. Référentiel de Psychiatrie et Addictologie. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
+- [Peterson BS et al. ADHD Diagnosis and Treatment in Children and Adolescents. Agency for Healthcare Research and Quality. 2024.](https://effectivehealthcare.ahrq.gov/products/attention-deficit-hyperactivity-disorder/research)
 - Prescrire
 - Cochrane
 - Minerva

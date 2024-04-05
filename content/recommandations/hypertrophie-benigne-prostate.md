@@ -7,10 +7,10 @@ synonyms = ["Hyperplasie bénigne de la prostate", "prostatisme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-04T10:52:08+02:00"
 publishdate = "2023-02-16"
-lastmod = "2024-02-01"
+lastmod = "2024-04-05"
 specialites = ["urologie"]
-annees = "2023"
-sources = ["AFU", "EAU"]
+annees = "2024"
+sources = ["EAU", "AFU"]
 tags = ["geriatrie", "SAS"]
 anglais = ["Benign prostatic hyperplasia (BPH)"]
 sctid = "266569009"
@@ -151,10 +151,10 @@ Bilan d'hypertrophie bénigne de prostate (HBP) de première intention:
 - ± [PSA]({{< relref "cancer-prostate.md" >}}) (si traitement envisageable)
 - ± Créatininémie et DFG CKD-EPI (si facteurs de risque)
 - Échographie réno-vésico-prostatique avec mesure du résidu post-mictionnel  
-  Significatif si > 1/3 du volume pré-mictionnel.
-- Si RPM > 150 mL: débitmétrie urinaire (*EAU 2022*)
+  Significatif si RPM > 1/3 du volume pré-mictionnel.
+- Si RPM > 150 mL: débitmétrie urinaire (*EAU 2024*)
 
-> Bilan de l'HBP selon *EAU 2023* et *AFU 2023 et 2015*
+> Bilan de l'HBP selon *EAU 2024*, *AFU 2023 et 2015*
 
 Le bilan urodynamique et les autres examens sont réservés à l'urologue.
 
@@ -205,14 +205,13 @@ Indication: HBP non compliquée avec symptômes légers ou acceptables ({{< moda
 
 ### Phytothérapie
 
-Indication à la phytothérapie: symptômes gênants.
+Indication à la phytothérapie: symptômes gênants (efficacité modeste).
 
-Elle ne peut pas être associée aux autres traitements.  
-{{%class%}}Chaque formulation est très différente empêchant des études de qualité. L'EAU 2017 ne peut se prononcer.{{%/class%}}
+La phytothérapie ne peut pas être associée aux autres traitements.
 
 - ~~Pygeum Africanum~~ (Tadenan®, non disponible)
-- [Serenoa Repens](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63398507&typedoc=R) 160 mg x 2/j (Permixon®, Prodinan®, Sereprosta®, AMM pour 6 mois de traitement)  
-  Cochrane: pas de supériorité au placebo.
+- [Serenoa Repens](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63398507&typedoc=R) 160 mg x 2/j (Permixon®, Sereprosta®, AMM pour 6 mois de traitement)  
+  *Cochrane*: pas de supériorité au placebo.
 
 ### Alpha-bloquants
 
@@ -228,7 +227,7 @@ Attention aux associations avec antihypertenseurs et aux conducteurs de véhicul
 
 Indication: symptômes gênants.
 
-Alpha-bloquants disponibles: [alfuzosine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64068708&typedoc=R), doxazosine, prazosine, [silodosine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67692214&typedoc=R) (absence d'hypotension selon *EAU 2022*), [tamsulosine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68470152&typedoc=R), térazosine.
+Alpha-bloquants disponibles: [alfuzosine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64068708&typedoc=R), doxazosine, prazosine, [silodosine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67692214&typedoc=R) (absence d'hypotension selon *EAU 2024*), [tamsulosine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68470152&typedoc=R), térazosine.
 
 Efficace en 48 heures. Consultation de contrôle précoce pour évaluer l'efficacité.
 
@@ -320,9 +319,8 @@ Avis urologique en cas de d'échec des traitements, de symptômes anormaux (hém
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'HBP" "show" %}}
 
-{{< mermaid title="Prise en charge de l'hypertrophie bénigne de la prostate (HBP). Dr JB Fron d'après EAU 2023 et AFU 2023" >}}
+{{< mermaid title="Prise en charge de l'hypertrophie bénigne de la prostate (HBP). Dr JB Fron d'après EAU 2024 et AFU 2023" >}}
 graph TB
-accTitle: Prise en charge de l'hypertrophie bénigne de la prostate (HBP) d'après EAU 2023 et AFU 2023
   SBAU[Symptômes du bas<br>appareil urinaire chez le +40 ans] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Symptômes<br>- Phase mictionnelle<br>- Score IPSS<br>- Dysfonction érectile<br>- Examen clinique") --> examens("<b>Examens</b><br>—<br>- ECBU<br>- Résidu post-mictionnel<br>± échographie<br>- ± PSA<br>- ± Créatininémie") --> criteres("≥ 1 parmi:<br>- Toucher rectal non fait<br>- Symptômes atypiques<br>- Anomalie clinico-biologique<br>- PSA augmenté<br>- Complication")
   style SBAU stroke:#4150f5, stroke-width:1px
     criteres -- Non --> rhd(Mesures hygiéno-diététiques<br><br>Symptômes gênants ?) -- Non --> abstention(Abstention-surveillance)
@@ -334,8 +332,8 @@ accTitle: Prise en charge de l'hypertrophie bénigne de la prostate (HBP) d'apr�
 {{% /collapse %}}
 {{%sources%}}
 
+- [Cornu JN et al. EAU guidelines on management of non-neurogenic male lower urinary tract symptoms (LUTS). 2024.](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts)
 - [AFU. Bilans pré-thérapeutiques des troubles mictionnels de l'homme adulte - Label HAS. Recommander les bonnes pratiques. 2023.](https://www.has-sante.fr/jcms/p_3323646/fr/label-bilans-pre-therapeutiques-des-troubles-mictionnels-de-l-homme-adulte-modalites-et-acteurs)
-- [Cornu JN et al. EAU guidelines on management of non-neurogenic male lower urinary tract symptoms (LUTS), incl. benign prostatic obstruction (BPO). 2023.](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts)
 - Prescrire Redaction. Hypertrophie bénigne de la prostate. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Franco JVA et al. Serenoa repens for the treatment of lower urinary tract symptoms due to benign prostatic enlargement. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001423.pub4/full/fr)
 - Prescrire Redaction. Traitement de l'hypertrophie bénigne de la prostate. Rev Prescrire. 2023.

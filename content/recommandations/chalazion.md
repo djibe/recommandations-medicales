@@ -5,7 +5,7 @@ description = "Recommandations pour la prise en charge et le traitement du chala
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-29T23:34:00+02:00"
 publishdate = "2021-04-30"
-lastmod = "2023-12-07"
+lastmod = "2024-04-05"
 specialites = ["ophtalmologie"]
 annees = "2021"
 sources = ["COUF"]
@@ -81,11 +81,8 @@ graph TB
 
 ## Source {.mt-5}
 
-[Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 86. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
-
-### Bibliographie en attente
-
-[HAS. Rapport d'évaluation des spécialités ophtalmiques associant un corticoïde à un(des) antibiotique(s). Commission de la transparence. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-03/rapport_reevaluation_collyres_atb_corticoides_avisdef_cteval503.pdf)
+- [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 86. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
+- [HAS. Rapport d'évaluation des spécialités ophtalmiques associant un corticoïde à un(des) antibiotique(s). Commission de la transparence. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-03/rapport_reevaluation_collyres_atb_corticoides_avisdef_cteval503.pdf)
 
 ## Vidéo de formation pour la prise en charge du chalazion
 

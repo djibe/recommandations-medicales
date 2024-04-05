@@ -265,7 +265,7 @@ graph TB
 - [Brissot P. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. SNFGE et AFEF. 2019. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/brissot_2019_0_0.pdf)
 - [Pilling LC et al. Common conditions associated with hereditary haemochromatosis genetic variants: cohort study in UK Biobank. BMJ. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334179/)
 - [Brissot P et al. Haemochromatosis. Nat Rev Dis Primers. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7775623/)
-- [HAS. Hémochromatose liée au gène HFE (type 1). Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_592228/fr/ald-n17-actes-et-prestations-sur-hemochromatose-actualisation-juin-2012)
+- [HAS. Hémochromatose liée au gène HFE (type 1). Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_592230/fr/ald-n-17-hemochromatose)
 - [HAS. Prise en charge de l'hémochromatose liée au gène HFE (hémochromatose de type 1). 2005.](https://www.has-sante.fr/jcms/c_432802/fr/prise-en-charge-de-l-hemochromatose-liee-au-gene-hfe-hemochromatose-de-type-1)
 
 ### Bibliographie en attente

@@ -381,7 +381,7 @@ accTitle: Prise en charge d'une pyélonéphrite en ambulatoire d'après HAS 2021
 
 - [Plateel T et al. Nitrofurantoin failure in males with an uncomplicated urinary tract infection: a primary care observational cohort study. British Journal of General Practice. 2023.](https://bjgp.org/content/73/728/e204)
 - [NICE. Urinary tract infections in adults. 2023.](https://www.nice.org.uk/guidance/qs90/chapter/Quality-statements) (BU si < 2 sympt pour cystite)
-- [Bonkat G et al. EAU guidelines on urological infections. 2022.](https://uroweb.org/guidelines/urological-infections)
+- [Bonkat G et al. EAU guidelines on urological infections. 2024.](https://uroweb.org/guidelines/urological-infections)
 - [CMIT. Infections urinaires de l'adulte / Connaître les particularités de l'infection urinaire au cours de la grossesse. Item 161. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-161-web.pdf)
 
 {{%/sources%}}

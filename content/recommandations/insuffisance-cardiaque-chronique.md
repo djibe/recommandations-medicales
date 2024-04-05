@@ -568,8 +568,8 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - [Santé Publique France. Insuffisance cardiaque. 17/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/insuffisance-cardiaque)
 - {{< references/esc-hta >}}
 - [SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
-- [HAS. Insuffisance cardiaque systolique. ALD n°5. Actes et prestations - Affection de longue durée. Juillet 2015. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/liste_ald_insuf_card_systolique.pdf)
-- [HAS. Insuffisance cardiaque. Guide du parcours de soins. Juin 2014. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_ic_web.pdf)
+- [HAS. Insuffisance cardiaque systolique. Actes et prestations Affection de longue durée. 2015.](https://www.has-sante.fr/jcms/c_534689/fr/ald-n-5-insuffisance-cardiaque-systolique)
+- [HAS. Insuffisance cardiaque. Guide du parcours de soins. 2014.](https://www.has-sante.fr/jcms/c_1242988/fr/guide-parcours-de-soins-insuffisance-cardiaque)
 - [Lainscak M et al. Self-care management of heart failure: practical recommendations from the Patient Care Committee of the Heart Failure Association of the European Society of Cardiology. European Journal of Heart Failure. 2014.](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)
 
 ### Bibliographie en attente

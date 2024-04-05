@@ -189,8 +189,8 @@ graph TB
 - [ACOG. Tamoxifen and Uterine Cancer. 2014. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/tamoxifen-and-uterine-cancer)
 - [ACOG. The Role of Transvaginal Ultrasonography in Evaluating the Endometrium of Women With Postmenopausal Bleeding. 2018. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/05/the-role-of-transvaginal-ultrasonography-in-evaluating-the-endometrium-of-women-with-postmenopausal-bleeding)
 - [Jéhannin-Ligier K et al. Projection de l'incidence et de la mortalité par cancer en France métropolitaine en 2017. Rapport technique. Santé publique France. 2017.](https://www.santepubliquefrance.fr/docs/projection-de-l-incidence-et-de-la-mortalite-par-cancer-en-france-metropolitaine-en-2017)
-- [HAS. Cancer de l'endomètre. Actes et prestations. Février 2016.](https://www.has-sante.fr/jcms/c_1021574/fr/ald-n-30-cancer-de-l-endometre)
-- [HAS, INCa. Cancer de l'endomètre. Décembre 2010. (PDF)](https://www.e-cancer.fr/content/download/95892/1020980/file/GUIALDEND11.pdf)
+- [HAS. Cancer de l'endomètre. Actes et prestations Affection de longue durée. 2016.](https://www.has-sante.fr/jcms/c_1021574/fr/ald-n-30-cancer-de-l-endometre)
+- [HAS, INCa. Cancer de l'endomètre. Guide affection longue durée. 2010.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-gynecologiques)
 
 ### Bibliographie en attente
 

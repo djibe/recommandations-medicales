@@ -147,7 +147,7 @@ style fortuite stroke:#4150f5, stroke-width:1px
 - [INCa. La leucémie lymphoïde chronique en 12 points clés. 2023.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/La-leucemie-lymphoide-chronique-en-12-points-cles)
 - Collège des enseignants d'hématologie. Leucémie lymphoïde chronique. Item 318. 2021.
 - [Hallek M. Chronic lymphocytic leukemia: 2017 update on diagnosis, risk stratification, and treatment. Am J Hematol. 2017.](https://onlinelibrary.wiley.com/doi/10.1002/ajh.24826)
-- [HAS. Actes et prestations sur la leucémie lymphoïde chronique. 2012.](https://www.has-sante.fr/jcms/c_1096149/fr/ald-n-30-leucemie-lymphoide-chronique)
+- [HAS. Actes et prestations sur la leucémie lymphoïde chronique. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_1096149/fr/ald-n-30-leucemie-lymphoide-chronique)
 - [Hallek M et al. Guidelines for the diagnosis and treatment of chronic lymphocytic leukemia: a report from the International Workshop on Chronic Lymphocytic Leukemia updating the National Cancer Institute-Working Group 1996 guidelines. Blood. 2008.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2972576/)
 - [International Workshop on CLL (iwCLL)](https://www.iwcll.org)
 

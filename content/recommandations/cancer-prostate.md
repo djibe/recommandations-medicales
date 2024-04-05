@@ -7,9 +7,9 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr J. OLIVIER (AFU)"
 date = "2020-09-27T19:51:30+02:00"
 publishdate = "2020-09-27"
-lastmod = "2023-10-30"
+lastmod = "2024-04-05"
 specialites = ["urologie"]
-annees = "2023"
+annees = "2024"
 sources = ["EAU", "AFU", "HAS", "USPTF"]
 tags = ["cancer", "depistage"]
 anglais = ["Prostate cancer (PCa)"]
@@ -18,7 +18,6 @@ icd10 = "C61"
 image = true
 imageSrc = "Illustration du cancer de la prostate par brgfx / Freepik"
 flowchart = true
-todo = "tableau espérance de vie"
 +++
 
 {{%article-summary%}}
@@ -47,7 +46,7 @@ Cancer de la prostate héréditaire
 
 ### Facteurs de risque de cancer de la prostate
 
-> Aucun moyen préventif alimentaire ou pharmacologique du cancer de la prostate n'a été identifié (*EAU 2022*)
+> Aucun moyen préventif alimentaire ou pharmacologique du cancer de la prostate n'a été identifié (*EAU 2024*)
 {.alert .alert-info}
 
 - Principal facteur de risque: âge +50 ans
@@ -61,7 +60,7 @@ Cancer de la prostate héréditaire
 
 Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de Gleason et ISUP** (évolution du Gleason) au diagnostic.
 
-{{< table title="Risque de cancer de prostate (CaP) selon le taux de PSA. Agressif = CaP ISUP ≥ 2. EAU 2022" class="table-sm" >}}
+{{< table title="Risque de cancer de prostate (CaP) selon le taux de PSA. Agressif = CaP ISUP ≥ 2. EAU 2024" class="table-sm" >}}
 | PSA (ng/mL) | Risque de CaP (%) | Risque de CaP agressif (%) |
 |------------:|------------------:|---------------------------:|
 | 0 - 0,5     | 6,6               | 0,8                        |
@@ -149,44 +148,21 @@ La plupart des hommes atteints par le cancer de la prostate sont asymptomatiques
 {{% /collapse %}}
 {{%collapse "Dépistage du cancer de la prostate" %}}
 
-### Indications à une consultation d'oncogénétique
-
-Indications à une consultation d'oncogénétique chez un homme ayant un **antécédent personnel ou familial** de:
-
-- Cancer prostatique métastatique
-- Cancer de la prostate à *haut risque* * avec antécédent familial de diagnostic de CaP avant 60 ans  
-- Plusieurs antécédents familiaux de cancers prostatiques diagnostiqués avant 60 ans  
-  ou d'un membre familial décédé d'un cancer de prostate
-- Antécédents familiaux génétiques tumoraux ou de cancers multiples d'une branche familiale
-
-> – *EAU 2022*  
-\* **Haut risque =** PSA > 20 ou Gleason > 7 (ISUP 4/5) ou cT2c ou cT3-4 ou cN+ (*EAU Table 4.2*)
-
-Indications à une consultation d'oncogénétique selon l'*AFU 2022*:
-
-- Suspicion de forme héréditaire de cancer de la prostate
-  - 3 cas de CaP de la même branche familiale au 1<sup>er</sup> ou 2<sup>e</sup> degré
-  - 2 cas de CaP avant 55 ans de la même branche familiale au 1<sup>er</sup> ou 2<sup>e</sup> degré
-- Forme précoce de cancer de la prostate: CaP avant 50 ans
-- CaP associé au [cancer du sein]({{< relref "cancer-sein.md" >}}) ou de l'[ovaire]({{< relref "cancer-ovaire.md" >}})  
-  Mutation prédisposant (ex. BRCA2), cancer du sein (avant 40 ans, bilatéral ou de l'homme), un cas de cancer de l'ovaire
-
-Une détection précoce peut être proposée à partir de 40 ans voire 10 ans avant le cas le plus jeune diagnostiqué.
-
-### Dépistage du cancer de la prostate chez les hommes à risque par mesure du PSA
+### Dépistage du cancer de la prostate par mesure du PSA
 
 {{%warning%}}
-**Hommes à risque augmenté de cancer de la prostate:** +50 ans, +45 ans avec antécédent familial de CaP ou d'origine africaine, +40 ans avec BRCA2 (*AFU* et *EAU 2022*).
+**Hommes à risque augmenté de cancer de la prostate:** +50 ans, +45 ans avec antécédent familial de CaP ou d'origine africaine, +40 ans avec BRCA2 (*AFU* et *EAU 2024*).
 
 Risque diminué de cancer de la prostate si PSA < 1 ng/mL à 40 ans et < 2 à 60 ans.
 {{%/warning%}}
 
-**Rappel.** La mesure du PSA est faussée à la hausse par une prostatite, une [HBP]({{< relref "hypertrophie-benigne-prostate.md" >}}) ou à l'inverse à la baisse par un IPDE5 (HBP, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})).  
+**Rappel.** La mesure du PSA est faussée à la hausse par une prostatite, une [HBP]({{< relref "hypertrophie-benigne-prostate.md" >}}) ou à l'inverse à la baisse par un IPDE5 (HBP, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})).
+
 En cas de prise d'IPDE5, doubler la valeur du PSA (*McConnell 2003*).
 
 {{%info%}}
 
-#### Positions des organismes et sociétés savantes sur le dépistage du cancer de la prostate
+#### Positions des instances sur le dépistage du cancer de la prostate
 
 Positions des différents comités sur la détection précoce du cancer de la prostate, après information éclairée:
 
@@ -194,8 +170,8 @@ Positions des différents comités sur la détection précoce du cancer de la pr
   Pas de dépistage systématique en population générale ni à haut risque ([INCa 2016. Le dépistage du cancer de la prostate - s'informer avant de décider](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Le-depistage-du-cancer-de-la-prostate-S-informer-avant-de-decider)).
 - Commission européenne 2022  
   PSA jusqu'à 70 ans.
-- EAU 2023  
-  Intérêt d'une détection précoce des *hommes à risque* ayant une [espérance de vie (EV) de +15 ans]({{< relref "esperance-vie-age-france.md" >}})
+- EAU 2024  
+  Intérêt d'une détection précoce des *hommes à risque* ayant une [espérance de vie (EV) de +15 ans]({{< relref "esperance-vie-age-france.md" >}}) (71 ans en France)
 - AFU 2022  
   Hommes de 50 (40 à 45 si *à risque*) à 70 ans avec espérance de vie de +10 ans, tous les 2 à 4 ans.
 - USPTF 2018  
@@ -210,11 +186,11 @@ Patient à risque **asymptomatique** informé demandant une détection précoce,
   - PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans: répéter le dosage dans 8 ans
   - PSA 1<sup>er</sup> dosage de 3-10 ng/mL: refaire le dosage (min 2 semaines)
   - PSA 2<sup>e</sup> dosage de 2-10 ng/mL: avis urologique pour utilisation d'un score ou IRM prostatique (seuil de 4 ng/mL selon *AFU 2022*)
-  - PSA +10 ng/mL: avis urologique
+  - PSA > 10 ng/mL: avis urologique
   - PSA en augmentation > 30%: avis urologique (*AFU*)
 - Toucher rectal anormal: avis urologique
 
-> – *EAU 2022*
+> – *EAU 2024*
 
 Le bilan diagnostique est aujourd'hui dominé par des scores permettant de stratifier le recours à l'IRM prostatique avant la biopsie de prostate.
 
@@ -225,10 +201,10 @@ Répéter le dépistage par toucher rectal et dosage du PSA:
 - Tous les 2 ans si:
   - PSA > 1 ng/mL à 40 ans
   - PSA > 2 ng/mL à 60 ans
-- Tous les 8 ans en dessous de ces seuils (**4 ans** pour l'AFU)
+- Tous les 8 ans sous ces seuils (**4 ans** pour l'AFU)
 - Arrêt du dépistage: [espérance de vie < 15 ans]({{< relref "esperance-vie-age-france.md" >}}) (10 ans selon *AFU*)
 
-> Rythme de surveillance du PSA proposé par la *EAU 2022*
+> – *EAU 2024*
 
 ### Pour en savoir plus: la biopsie de prostate
 
@@ -236,10 +212,34 @@ La biopsie de prostate (voie transrectale ou transpérinéale) est indiquée en 
 
 Liste des complications de la biopsie prostatique par ordre de fréquence: hémospermie (37%), [hématurie]({{< relref "hematurie.md" >}}) +1 jour, rectorragie < 2 jours, prostatite, fièvre, épididymite ...
 
+### Indications à une consultation d'oncogénétique
+
+Indications à une consultation d'oncogénétique chez un homme ayant un **antécédent personnel ou familial** de:
+
+- Cancer prostatique métastatique
+- Cancer de la prostate à *haut risque* * avec antécédent familial de diagnostic de CaP avant 60 ans  
+- Plusieurs antécédents familiaux de cancers prostatiques diagnostiqués avant 60 ans  
+  ou d'un membre familial décédé d'un cancer de prostate
+- Antécédents familiaux génétiques tumoraux ou de cancers multiples d'une branche familiale
+
+> – *EAU 2024*  
+\* **Haut risque =** PSA > 20 ou Gleason > 7 (ISUP 4/5) ou cT2c ou cT3-4 ou cN+ (*EAU Table 4.2*)
+
+Indications à une consultation d'oncogénétique selon l'*AFU 2022*:
+
+- Suspicion de forme héréditaire de cancer de la prostate
+  - 3 cas de CaP de la même branche familiale au 1<sup>er</sup> ou 2<sup>e</sup> degré
+  - 2 cas de CaP avant 55 ans de la même branche familiale au 1<sup>er</sup> ou 2<sup>e</sup> degré
+- Forme précoce de cancer de la prostate: CaP avant 50 ans
+- CaP associé au [cancer du sein]({{< relref "cancer-sein.md" >}}) ou de l'[ovaire]({{< relref "cancer-ovaire.md" >}})  
+  Mutation prédisposant (ex. BRCA2), cancer du sein (avant 40 ans, bilatéral ou de l'homme), un cas de cancer de l'ovaire
+
+Une détection précoce peut être proposée à partir de 40 ans voire 10 ans avant le cas le plus jeune diagnostiqué.
+
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de la prostate" %}}
 
-Chapitre pour en savoir plus sur la prise en charge du cancer de la prostate, le traitement du cancer de la prostate dépend des décisions de la réunion de **concertation pluridisciplinaire** (RCP) et du souhait du patient.
+La prise en charge du cancer de la prostate est spécialisée après RCP. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
 
 Déclarer l'**[ALD n°30]({{< relref "affection-longue-duree.md" >}})**.
 
@@ -278,9 +278,8 @@ Complications fréquentes survenant dans les suites d'une prostatectomie (PT) ra
 {{% /collapse %}}
 {{%collapse "Prise en charge par le dépistage du cancer de la prostate" "show" %}}
 
-{{< mermaid title="Dépistage du cancer de la prostate et conduite à tenir devant une augmentation du PSA. Dr JB Fron d'après AFU et EAU 2022" >}}
+{{< mermaid title="Dépistage du cancer de la prostate et conduite à tenir devant une augmentation du PSA. Dr JB Fron d'après AFU et EAU 2024" >}}
 graph TB
-accTitle: Dépistage du cancer de la prostate et conduite à tenir devant une augmentation du PSA d'après EAU 2022
   homme["Homme asymptomatique<br>avec Espérance de vie +15 ans<br>—<br>+50 ans<br>+45 ans avec antécédent familial<br>ou origine Africaine<br>+40 ans avec BRCA2"] -- Information éclairée --> depistage(TR + PSA<br>tous les 2 ans)
   style homme stroke:#4150f5, stroke-width:1px
     depistage ==> normal("<b>TR normal</b>")
@@ -299,7 +298,7 @@ accTitle: Dépistage du cancer de la prostate et conduite à tenir devant une au
 
 {{< youtube id="cm7rIZAXHYU" title="Indication du toucher rectal en médecine (Urologie Lyon Sud)" >}}
 
-- [Mottet N et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2023.](https://uroweb.org/guidelines/prostate-cancer)
+- [Cornford P et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2024.](https://uroweb.org/guidelines/prostate-cancer)
 - [Ploussard G et al. French AFU Cancer Committee Guidelines - Update 2022-2024: prostate cancer - Diagnosis and management of localised disease. Progrès en Urologie. 2022.](https://www.sciencedirect.com/science/article/pii/S116670872200344X)
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Collège Français des Enseignants en Urologie (CFEU). Tumeur de prostate. Item 310. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-310-Tumeur-de-prostate.pdf)

@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-17T11:25:20+01:00"
 publishdate = "2023-01-19"
-lastmod = "2024-01-29"
+lastmod = "2024-04-05"
 specialites = ["urologie"]
-annees = "2023"
+annees = "2024"
 sources = ["EAU", "HAS", "SFDermato"]
 tags = ["HSH", "IST"]
 anglais = ["Urethritis", "epididymitis"]
@@ -98,7 +98,7 @@ Antibiothérapie probabiliste de l'urétrite en cas de symptômes marqués.
       <button aria-controls="has-urethritis-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#has-urethritis-panel" id="has-urethritis-tab" type="button" role="tab">HAS 2021</button>
     </li>
     <li class="nav-item" role="presentation">
-      <button aria-controls="eau-urethritis-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#eau-urethritis-panel" id="eau-urethritis-tab" type="button" role="tab">EAU 2023</button>
+      <button aria-controls="eau-urethritis-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#eau-urethritis-panel" id="eau-urethritis-tab" type="button" role="tab">EAU 2024</button>
     </li>
     <li class="nav-item" role="presentation">
       <button aria-controls="sfd-urethritis-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#sfd-urethritis-panel" id="sfd-urethritis-tab" type="button" role="tab">SFD 2016</button>
@@ -124,7 +124,7 @@ Ceftriaxone 1g IM dose unique
 
 \+ azithromycine 1g dose unique
 
-> Voir l'onglet *Par Germe* en cas d'autre germe
+> Voir l'onglet *Par Germe* en cas d'autre germe.
 
 Infection non-gonococcique persistante:
 
@@ -147,7 +147,7 @@ OU azithromycine 1g dose unique
 </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
 <div aria-labelledby="eau-spe-urethritis-tab" class="tab-pane fade" id="eau-spe-urethritis-panel" role="tabpanel">
 
-Traitement par germe selon *EAU 2023*:
+Traitement par germe selon *EAU 2024*:
 
 - *Chlamydia trachomatis*
   - Doxycycline 100 mg x 2/j pendant 7 jours  
@@ -178,7 +178,7 @@ Mesures associées:
 - Si persistance des symptômes après 72 heures: consultation de contrôle avec les résultats
 - Gonococcie: déclaration anonyme à l'ARS (*CMIT*)
 
-> *HAS 2021* et *EAU 2023*
+> *HAS 2021* et *EAU 2024*
 
 {{% /collapse %}}
 {{%collapse "Épididymite et orchi-épididymite" %}}
@@ -211,7 +211,7 @@ Antibiothérapie probabiliste de l'orchi-épididymite selon les différentes rec
 <div class="card card-hover my-3 mb-xl-5 mw-640">
   <ul class="nav nav-tabs nav-justified" id="tabs-orchiepididymite" role="tablist">
   <li class="nav-item" role="presentation">
-    <button aria-controls="eau-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#eau-panel" id="eau-tab" type="button" role="tab">EAU 2023</button>
+    <button aria-controls="eau-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#eau-panel" id="eau-tab" type="button" role="tab">EAU 2024</button>
   </li>
   <li class="nav-item" role="presentation">
     <button aria-controls="sfd-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#sfd-panel" id="sfd-tab" type="button" role="tab">SPILF 2020/SFD 2016</button>
@@ -254,12 +254,12 @@ Mesures associées au traitement de l'orchiépididymite:
 
 Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques en cas de récidive.
 
-> *EAU 2023 et SFD 2016*
+> *EAU 2024* et *SFD 2016*
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Bonkat G et al. EAU guidelines on urological infections. 2023.](https://uroweb.org/guidelines/urological-infections)
+- [Bonkat G et al. EAU guidelines on urological infections. 2024.](https://uroweb.org/guidelines/urological-infections)
 - [CMIT, SFMTSI, SPILF, SMV. Écoulement urétral chez l'homme. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-162-web.pdf)
