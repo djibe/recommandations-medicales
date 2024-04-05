@@ -18,7 +18,7 @@
     "links-md:check": "linkinator content/**/*.md --config ./build/linkinator.config.json 2> debug-linkinator.log",
     "links-external:check": "linkinator public/recommandations/**/*.html --config ./build/linkinator-html.config.json --format CSV",
     "start": "hugo --environment production --cleanDestinationDir --gc --minify",
-    "start:dev": "hugo server --buildDrafts --watch --destination dev --logLevel warn --cleanDestinationDir -p 1313",
+    "start:dev": "hugo server --environment development --buildDrafts --watch --destination dev --logLevel warn --cleanDestinationDir -p 1313",
     "webhint": "hint http://localhost:1313"
   },
   "keywords": [
