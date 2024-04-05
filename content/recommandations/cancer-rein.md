@@ -35,7 +35,7 @@ Ces recommandations concernent uniquement le cancer du rein de l'adulte:
 
 Cancer du rein
 : Tumeur maligne du rein, le plus souvent par un carcinome à cellules rénales (CCR à 85 %). La découverte est principalement fortuite (incidentalome pour 60 %). Les métastases sont **pulmonaires** (75 %) > osseuses > hépatiques > cérébrales.
-: 17.141 cas de cancers du reins estimés en 2023 avec 2/3 d'hommes (âge moyen de 65 ans).
+: 17.141 cas de cancers du reins en 2023 avec 2/3 d'hommes (âge moyen de 65 ans).
 
 ### Facteurs de risque de cancer du rein
 
@@ -163,7 +163,7 @@ graph TB
 {{%sources%}}
 
 - [Ljungberg B et al. EAU guidelines on renal cancer carcinoma. 2024.](https://uroweb.org/guidelines/renal-cell-carcinoma)
-- [Lapôtre-Ledoux B et al. Incidence des principaux cancers en France métropolitaine en 2023 et tendances depuis 1990. Bull Épidémiol Hebd. 2023.](http://beh.santepubliquefrance.fr/beh/2023/12-13/2023_12-13_1.html)
+- {{< references/beh-cancers >}}
 - [HAS, INCa. Cancer du rein de l'adulte. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_985455/fr/ald-n-30-cancer-du-rein-de-l-adulte)
 - [HAS, INCa. Cancer du rein de l'adulte. Guide affection de longue durée. 2010.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-uronephrologiques)
 

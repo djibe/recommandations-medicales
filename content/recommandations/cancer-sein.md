@@ -84,7 +84,7 @@ Autres diagnostics à étayer devant une lésion du sein:
 
 Chiffres du cancer du sein en France:
 
-- Incidence: 58.459 (métropole 2018)
+- Incidence: 61.214 (métropole 2023)
 - Mortalité: 12.146 (métropole 2018)
 - Survie: 88 % à 5 ans (métropole, diagnostic en 2010-2015)
 - Participation au dépistage organisé: 50,6 % (2020-2021)
@@ -421,6 +421,7 @@ graph TB
 {{< card-link-external title="Vidéo de la palpation des seins" url="https://www.youtube.com/watch?v=QXlT9651svA" subtitle="par le Dr Jean-Philippe Harlicot" >}}
 
 - [Lavoué V et al. Recommandations pour la pratique clinique du CNGOF. Place de l'auto-examen des seins dans les stratégies de dépistage [Place of breast self-examination in screening strategies. French College of Gynecologists and Obstetricians (CNGOF) recommendations for clinical practice]. Gynecol Obstet Fertil Senol. 2023. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2023/RPC-Place%20de%20l'auto-examen%20des%20seins%20dans%20les%20strat%C3%A9gies%20de%20d%C3%A9pistage.pdf)
+- {{< references/beh-cancers >}}
 - [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. 2022.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
 - [INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. 2022.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)

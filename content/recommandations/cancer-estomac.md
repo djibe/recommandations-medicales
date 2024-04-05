@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-16T20:52:00+02:00"
 publishdate = "2021-02-16"
-lastmod = "2023-11-21"
+lastmod = "2024-04-05"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2023"
+annees = "2024"
 sources = ["SNFGE", "HAS"]
 tags = ["cancer", "EOGD", "ferritine", "gastrite"]
 anglais = ["Cancer of stomach"]
@@ -23,7 +23,7 @@ flowchart = true
 {{%article-summary%}}
 
 - Le cancer de l'estomac atteint préférentiellement l'homme après 65 ans
-- Principaux facteurs de risque de cancer de l'estomac: [gastrite à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}}) (80%), tabac, alimentation salée/fumée, antécédent familial de cancer gastrique, syndrome de Lynch/HNPCC
+- Principaux facteurs de risque de cancer de l'estomac: [gastrite à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}}) (80 %), tabac, alimentation salée/fumée, antécédent familial de cancer gastrique, syndrome de Lynch/HNPCC
 - Signes d'alarmes devant des symptômes digestifs hauts: dysphagie, amaigrissement, anémie
 - Dépistage de l'entourage au premier degré en cas de lésion cancéreuse de l'estomac: sérologie *Helicobacter pylori* chez un sujet de moins de 45 ans, fibroscopie gastrique au-delà
 
@@ -229,7 +229,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Zaanan A et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/cancer-lestomac)
+- [Zaanan A et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 2024.](https://www.snfge.org/tncd/cancer-lestomac)
 - {{< references/college-gastro >}}
 - [Chollet R et al; SFED, CREGG. Prévention du cancer de l'estomac. 2021.](https://www.sfed.org/sites/www.sfed.org/files/2021-08/Cancerestomac_prevention.pdf)
 - [Nousbaum JB et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)

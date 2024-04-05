@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-17T14:11:29+02:00
 publishdate = "2020-06-17"
-lastmod = "2024-01-12"
+lastmod = "2024-04-05"
 specialites = ["addictologie"]
 annees = "2024"
 sources = ["Ameli"]
@@ -96,7 +96,7 @@ Mâcher jusqu'à ressentir le goût puis placer entre la gencive et la joue. Mâ
   {{< list-item title="Nicorette sans sucre 2 mg (Fruits, menthe fraîche, menthe glaciale, neutre)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 30/j." >}}
   {{< list-item title="Nicotine EG sans sucre 2 mg (Citron, fruit, menthe)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 24/j." >}}
   {{< list-item title="Niquitin sans sucre 2 mg (Fruits tropicaux, menthe glaciale)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 25/j." >}}
-  {{< list-item title="Nicotinell sans sucre 2 mg (Fruit, fruit exotique, menthe fraîcheur)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 25/j." >}}
+  {{< list-item title="Nicotinell sans sucre 2 mg (Fruit, menthe fraîcheur)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 25/j." >}}
 </ul>
 <!-- Comprimés à sucer -->
 
@@ -185,7 +185,7 @@ Débuter avec ces dosages le premier mois.
 </div>
 </div>
 <blockquote class="blockquote mt-5">
-  <h3 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au 18/10/2022. (PDF)</h3>
+  <h3 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au 31/12/2023. (PDF)</h3>
   <footer class="blockquote-footer">
     <cite title="Ameli"><a
         href="https://www.ameli.fr/content/liste-des-substituts-nicotiniques-pris-en-charge-par-l-assurance-maladie"

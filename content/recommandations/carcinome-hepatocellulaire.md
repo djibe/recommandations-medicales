@@ -33,7 +33,7 @@ flowchart = true
 {{%collapse "Définition" %}}
 
 Carcinome hépatocellulaire (CHC)
-: Tumeur primitive du foie la plus fréquente (90% des 10.580 cas en 2018, en augmentation) à prédominance masculine (80%) par dégénérescence hépatocytaire. Le CHC survient le plus souvent sur une **cirrhose** (80%) et plus rarement sur une hépatopathie chronique non cirrhotique ([stéatopathie métabolique NASH]({{< relref "steatose-hepatique-et-nash.md" >}}) ...), exceptionnellement sur foie sain.
+: Tumeur primitive du foie la plus fréquente (90% des 11.658 cas en 2023, en augmentation) à prédominance masculine (80%) par dégénérescence hépatocytaire. Le CHC survient le plus souvent sur une **cirrhose** (80%) et plus rarement sur une hépatopathie chronique non cirrhotique ([stéatopathie métabolique NASH]({{< relref "steatose-hepatique-et-nash.md" >}}) ...), exceptionnellement sur foie sain.
 : Les facteurs de risque majeurs de carcinome hépatocellulaire en France sont l'**[alcool]({{< relref "sevrage-alcool.md" >}})** pour moitié, puis les [hépatites C]({{< relref "hepatite-c.md" >}}) et [B]({{< relref "hepatite-c.md" >}}) et la [NASH]({{< relref "steatose-hepatique-et-nash.md" >}}).
 
 ### Abréviations
@@ -209,7 +209,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Blanc JF et al; AFEF. Carcinome hépatocellulaire (cancer primitif du foie). Thésaurus National de Cancérologie Digestive (TNCD). 2023.](https://www.snfge.org/tncd/carcinome-hepatocellulaire-cancer-primitif-du-foie)
+- [Blanc JF et al; AFEF. Carcinome hépatocellulaire (cancer primitif du foie). Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/carcinome-hepatocellulaire-cancer-primitif-du-foie)
+- {{< references/beh-cancers >}}
 - [INCa. Cancer du foie - Repérage et suivi des patients à risque en médecine générale. 2022.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-du-foie-reperage-et-suivi-des-patients-a-risque-en-medecine-generale)
 - {{< references/college-gastro >}}
 - [European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Management of hepatocellular carcinoma. J Hepatol. 2018.](https://www.journal-of-hepatology.eu/article/S0168-8278(18)30215-0/fulltext)

@@ -50,7 +50,7 @@ Cancer de la thyroïde
 
 ### Épidémiologie du cancer de la thyroïde en France
 
-- Incidence du cancer de la thyroïde: 7684 cas annuels (2018)
+- Incidence du cancer de la thyroïde: 7684 cas annuels (métropole 2018)
 - Prévalence féminine: 73 %
 - Âge médian au décès (H/F): 72 / 79 ans
 - Survie nette standardisée à 5 ans (H/F): 93 % / 97 %
@@ -214,7 +214,7 @@ graph TB
 
 - [INCa. Cancers de la thyroïde / Du diagnostic au suivi. Outils pour la pratique. 2023.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-de-la-tete-et-du-cou)
 - [INCa. Les cancers de la thyroïde en 10 points clés. 2023.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-de-la-tete-et-du-cou)
-- [Lapôtre-Ledoux B et al. Incidence des principaux cancers en France métropolitaine en 2023 et tendances depuis 1990. Bull Épidémiol Hebd. 2023.](http://beh.santepubliquefrance.fr/beh/2023/12-13/2023_12-13_1.html)
+- {{< references/beh-cancers >}}
 - [Menegaux F et al. SFE-AFCE-SFMN 2022 consensus on the management of thyroid nodules: Surgical treatment. Ann Endocrinol. 2022.](https://www.sciencedirect.com/science/article/abs/pii/S0003426622008563)
 - Collège Français d'ORL et de Chirurgie Cervico-faciale. Goitres, nodules thyroïdiens et cancers thyroïdiens. Item 241. 2022.
 - {{< references/college-endocrino >}}

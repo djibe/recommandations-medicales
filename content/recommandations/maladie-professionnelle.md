@@ -99,5 +99,6 @@ window.addEventListener('load', () => {
 
 - [Ameli Médecin. Maladie professionnelle. 13/09/2023.](https://www.ameli.fr/val-de-marne/medecin/exercice-liberal/prise-charge-situation-type-soin/situation-patient-mp/maladies-professionnelles)
 - [Service-Public. Maladie professionnelle : démarches à effectuer. 12/04/2023.](https://www.service-public.fr/particuliers/vosdroits/F176)
+- [IRNS. Tableaux des maladies professionnelles.](https://www.inrs.fr/publications/bdd/mp.html)
 
 {{%/sources%}}
