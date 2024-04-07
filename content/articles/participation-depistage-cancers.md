@@ -14,7 +14,7 @@ tags = ["cancer"]
 chart = true
 image = true
 imageSrc = "du dépistage des cancers par starline / Freepik"
-todo = "https://www.e-cancer.fr/Patients-et-proches/Les-cancers, {{< references/beh-cancers >}} - ### Le dépistage organisé des cancers | KEY x10: dépistage du cancer | x3: cancer du sein, mammographie de dépistage, dépistage organisé, participation au dépistage, assurance maladie, décès par cancer, dépistage individuel, données, facteurs de risque, programme de dépistage | x1: ATCD personnel de cancer, avance de frais, consultation d'oncogénétique, courrier d'invitation, prise en charge thérapeutique, tranches d'âge"
+todo = "https://www.e-cancer.fr/Patients-et-proches/Les-cancers, {{< references/beh-cancers-incidence >}} - ### Le dépistage organisé des cancers | KEY x10: dépistage du cancer | x3: cancer du sein, mammographie de dépistage, dépistage organisé, participation au dépistage, assurance maladie, décès par cancer, dépistage individuel, données, facteurs de risque, programme de dépistage | x1: ATCD personnel de cancer, avance de frais, consultation d'oncogénétique, courrier d'invitation, prise en charge thérapeutique, tranches d'âge"
 +++
 
 ## Résumé

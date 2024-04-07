@@ -74,12 +74,12 @@ Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de G
 
 ### Épidémiologie du cancer de la prostate
 
-- **Incidence du cancer de la prostate:** 59.885 cas (2018, 1<sup>er</sup> cancer de l'homme)
-- **Décès:** 3<sup>e</sup> cause de décès par cancer de l'homme (8500 en 2015)
-- Âge médian au diagnostic: 74 ans
+- **Incidence du cancer de la prostate:** 59.885 nouveaux cas (métropole 2018, 1<sup>er</sup> cancer de l'homme)
+- **Décès:** 8100 (métropole 2018, 3<sup>e</sup> cause de décès par cancer de l'homme)
+- Âge médian au diagnostic: 69 ans
 - Prévalence du cancer de la prostate à l'autopsie: 5% avant 30 ans et 59% chez les +79 ans  
   Enjeu de ne traiter que les cancers agressifs.
-- Survie nette standardisée à 5 ans: 93% et 80% à 10 ans
+- Survie nette standardisée à 5 ans: 93 % (80% à 10 ans)
 
 {{< card-link-external title="Dépenses liées au cancer de la prostate" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Cancers&refine.patho_niv2=Cancer%20de%20la%20prostate">}}
 
@@ -299,7 +299,7 @@ graph TB
 {{< youtube id="cm7rIZAXHYU" title="Indication du toucher rectal en médecine (Urologie Lyon Sud)" >}}
 
 - [Cornford P et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2024.](https://uroweb.org/guidelines/prostate-cancer)
-- {{< references/beh-cancers >}}
+- {{< references/beh-cancers-incidence >}}
 - [Ploussard G et al. French AFU Cancer Committee Guidelines - Update 2022-2024: prostate cancer - Diagnosis and management of localised disease. Progrès en Urologie. 2022.](https://www.sciencedirect.com/science/article/pii/S116670872200344X)
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Collège Français des Enseignants en Urologie (CFEU). Tumeur de prostate. Item 310. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-310-Tumeur-de-prostate.pdf)

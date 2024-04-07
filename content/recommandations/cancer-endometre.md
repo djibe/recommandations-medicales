@@ -53,7 +53,7 @@ Surtout par présence d'œstrogènes en excès:
 ### Épidémiologie du cancer de l'endomètre en France
 
 - Cancer gynécologique pelvien le plus fréquent
-- Incidence: 8432 nouveaux cas par an (2023)
+- Incidence: 8432 nouveaux cas par an (métropole 2023)
 - Décès: 1880 annuels (2009)
 - Âge moyen au diagnostic: 68 ans
 - Survie à 5 ans: 76 % (95 % pour un stade localisé)
@@ -169,7 +169,7 @@ Suivi après traitement du cancer de l'endomètre:
 - Suspicion de récidive: scanner abdomino-pelvien
 - Localisation des récidives d'un cancer endométrial les plus fréquentes: vessie, côlon, sein
 
-**[Hématurie]({{< relref "hematurie.md" >}})** après radiothérapie pelvienne: éliminer sans délai un cancer de la vessie.
+**[Hématurie]({{< relref "hematurie.md" >}})** après radiothérapie pelvienne: éliminer sans délai un [cancer de la vessie]({{< relref "cancer-vessie.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du cancer de l'endomètre" "show" %}}
@@ -185,7 +185,7 @@ graph TB
 {{%sources%}}
 
 - [ACOG. Management of Endometrial Intraepithelial Neoplasia or Atypical Endometrial Hyperplasia. 2023.](https://www.acog.org/clinical/clinical-guidance/clinical-consensus/articles/2023/09/management-of-endometrial-intraepithelial-neoplasia-or-atypical-endometrial-hyperplasia)
-- {{< references/beh-cancers >}}
+- {{< references/beh-cancers-incidence >}}
 - [Colombo N et al. ESMO-ESGO-ESTRO Consensus Conference on Endometrial Cancer: diagnosis, treatment and follow-up. Annals of Oncology. 2016.](https://www.annalsofoncology.org/article/S0923-7534(19)35337-2/fulltext)
 - [ACOG. Tamoxifen and Uterine Cancer. 2014. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/tamoxifen-and-uterine-cancer)
 - [ACOG. The Role of Transvaginal Ultrasonography in Evaluating the Endometrium of Women With Postmenopausal Bleeding. 2018. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/05/the-role-of-transvaginal-ultrasonography-in-evaluating-the-endometrium-of-women-with-postmenopausal-bleeding)

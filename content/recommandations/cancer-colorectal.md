@@ -50,10 +50,11 @@ Adénome
 Le diagnostic de cancer du côlon ou du rectum est le plus souvent réalisé à un stade avancé et la France est un pays Européen avec les plus **hautes incidences** de cancer colorectal.
 
 - Incidence: 2<sup>e</sup> cancer de la femme (21.370 en 2023), 3<sup>e</sup> cancer de l'homme (26.212)
-- Décès: **2<sup>e</sup> par mortalité** (17.117 en 2017)
+- Décès: **2<sup>e</sup> par mortalité** (17.100 en 2018)
+- Âge médian au diagnostic: 72 ans pour les femmes et 71 pour les hommes
 - Taux de participation au dépistage: **34,6 %** (2020 - 2021)
 - 95 % des cancers colorectaux surviennent après 50 ans
-- Survie à 5 ans: stade I 90 % - stade IV 13 %
+- Survie à 5 ans: 63 % (stade I 90 % - stade IV 13 %)
 
 {{< card-link title="Les Français et leur participation au dépistage des cancers" subtitle="Article RecoMédicales" url="/articles/participation-depistage-cancers/" class="my-4">}}
 
@@ -366,7 +367,8 @@ graph TB
 
 - [Phelip JM et al. Cancer colorectal métastatique. Thésaurus National de Cancérologie Digestive. 2024.](https://www.snfge.org/tncd/cancer-colorectal-metastatique)
 - [Lecomte T et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/cancer-du-colon-non-metastatique)
-- {{< references/beh-cancers >}}
+- {{< references/beh-cancers-incidence >}}
+- {{< references/inca-cancers-mortalite >}}
 - {{< references/college-gastro >}}
 - [Cervantes A et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)
 - [Robaszkiewicz M et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)

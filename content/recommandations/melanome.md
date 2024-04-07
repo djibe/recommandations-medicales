@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-29T14:54:41+02:00"
 publishdate = "2020-11-30"
-lastmod = "2023-12-27"
+lastmod = "2024-04-06"
 specialites = ["dermatologie"]
 annees = "2022"
 sources = ["EADO", "HAS", "SFDermato"]
@@ -72,16 +72,16 @@ Plusieurs facteurs sont utilisés: indice de Breslow, de Clark, ulcération, ind
 ### Épidémiologie du mélanome
 
 - 13<sup>e</sup> cancer de la femme, 7<sup>e</sup> de l'homme
-- **Incidence:** 15.500 nouveaux cas en 2018  
-  {{%class%}}47% de femmes. Incidence en augmentation de 3,4 %/an (période 2010-2018). x50 sur période 1990-2018{{%/class%}}
-- Âge moyen au diagnostic: 56 ans.
-- Décès annuels: 1783 (2017)  
-  {{%class%}}58% d'hommes - 1,2% des décès par cancer - 90% de la mortalité par cancer cutané{{%/class%}}
-- **Survie à 5 ans:** 88% en stade localisé versus 18% si métastatique.
-- 80% surviennent de novo sur peau saine et 20% sur nævus pré-existant.
-- 10% des mélanomes sont familiaux (≥ 2 personnes atteintes dans une famille).
+- **Incidence:** 17.922 nouveaux cas (métropole 2023)  
+  {{%class%}}49% de femmes. Incidence en augmentation de 3,4 %/an (période 2010 - 2018). x50 sur période 1990 - 2018{{%/class%}}
+- Âge médian au diagnostic: 62 ans pour les femmes et 68 ans pour les hommes.
+- **Mortalité**: 1980 (métropole 2018)  
+  {{%class%}}58% d'hommes - 1,2% des décès par cancer - 90 % de la mortalité par cancer cutané{{%/class%}}
+- **Survie à 5 ans:** 93 % (88 % en stade localisé versus 18 % si métastatique)
+- 80 % surviennent de novo sur peau saine et 20% sur nævus pré-existant.
+- 10 % des mélanomes sont familiaux (≥ 2 personnes atteintes dans une famille).
 - Très rares formes muqueuses ou rétiniennes.
-- 80% sont détectés par le patient (*FMC EREVO*)  
+- 80 % sont détectés par le patient (*FMC EREVO*)  
   Attention à toute lésion présentée par le patient.
 
 {{% /collapse %}}
@@ -339,6 +339,7 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 {{%sources%}}
 
 - {{< references/voyageur >}}
+- {{< references/inca-cancers-mortalite >}}
 - [Garbe C et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00152-6/fulltext)
 - [Garbe C et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00228-3/fulltext)
 - [INCa. << L'ombre, c'est l'endroit le plus cool de l'été ! >>: la nouvelle campagne d'information de l'Institut national du cancer sur la prévention des risques solaires. 04/07/2022.](https://www.e-cancer.fr/Actualites-et-evenements/Actualites/L-ombre-c-est-l-endroit-le-plus-cool-de-l-ete-!-la-nouvelle-campagne-d-information-de-l-Institut-national-du-cancer-sur-la-prevention-des-risques-solaires)

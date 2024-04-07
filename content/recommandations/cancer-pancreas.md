@@ -33,8 +33,7 @@ flowchart = true
 {{%collapse "Définitions" %}}
 
 Adénocarcinome du pancréas (AP)
-: 90% des tumeurs du pancréas et tumeur digestive avec le plus mauvais pronostic (survie à 5 ans 7-8%).
-: Incidence en forte hausse: x2 hommes et x3 femmes (sur la période 1982 - 2012, *Bouvier 2017*), 15.991 cas en 2023, 5 à 10 % seraient génétiques.
+: 90% des tumeurs du pancréas et tumeur digestive avec le plus mauvais pronostic (survie à 5 ans de 11 %).
 : Autres types de cancers pancréatiques: neuro-endocrine.
 
 Cancers du pancréas familiaux (CaPaFa)
@@ -52,6 +51,16 @@ OU ≥ 3 cas de la même branche (quelque soit le degré de parenté et l'âge d
 - Mutation BRCA1 et BRCA1
 - Néoplasie endocrinienne multiple type 1 (NEM1) et autres mutations
 - Syndrome de Lynch
+
+### Épidémiologie des cancers du pancréas
+
+Incidence en forte hausse des cancers du pancréas: x2 hommes et x3 femmes sur la période 1982 - 2012 (*Bouvier 2017*)
+
+- Incidence: 15.991 nouveaux cas (métropole 2023)  
+  5 à 10 % seraient génétiques.
+- Mortalité: 11.500 décès annuels (métropole 2018)
+- Âge médian au diagnostic: 74 ans chez les femmes et 71 chez les hommes
+- Survie à 5 ans: 11 %
 
 ### Abréviations
 
@@ -249,7 +258,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- {{< references/beh-cancers >}}
+- {{< references/beh-cancers-incidence >}}
+- {{< references/inca-cancers-mortalite >}}
 - {{< references/college-gastro >}}
 - Rebours V. Risque de cancer du pancréas : maigrir c'est bien, ne pas grossir c'est mieux. GastroScoop. 13/01/2022.
 - [Hammel P et al. Cancer du pancréas. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/tncd/cancer-du-pancreas)

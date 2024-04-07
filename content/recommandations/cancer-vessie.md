@@ -5,8 +5,8 @@ description = "Recommandations pour le diagnostic et la prise en charge du cance
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-04-04T21:20:18+02:00"
-publishdate = "2024-04-05"
-lastmod = "2024-04-05"
+publishdate = "2024-04-07"
+lastmod = "2024-04-07"
 specialites = ["urologie"]
 annees = "2024"
 sources = ["EAU", "HAS", "INCa"]
@@ -14,17 +14,18 @@ tags = ["cancer", "tabac"]
 anglais = ["Bladder cancer (BC)"]
 sctid = "399326009"
 icd10 = "C67.9"
-draft = true
 image = true
 imageSrc = "Lésion festonnée vésicale en échographie chez un homme de 70 ans. Cas de Craig Hacking, Radiopaedia.org, rID: 173374"
-todo = "summary > liens > flow"
+todo = "flow"
 +++
 
 {{%article-summary%}}
 
-TODO:
-
-Chapitre lié: hématurie
+- Le cancer de la vessie est le plus souvent un carcinome urothélial découvert par une [hématurie]({{< relref "hematurie.md" >}}) macroscopique chez un (ancien) fumeur
+- Le tabac est responsable de la moitié des cancers de vessie et doit être sevré pour limiter le risque de récidive qui est très élevé
+- Rechercher une exposition professionnelle et des antécédents de radiothérapie pelvienne
+- Le bilan initial d'une suspicion de cancer de vessie comporte: NFS, créatinine, cytologie urinaire (hors urines du matin) et échographie des voies urinaires
+- Adresser en semi-urgence à l'urologue d'un centre de lutte contre le cancer (CLCC) pour réaliser la cystoscopie diagnostique et la prise en charge du cancer de la vessie
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -45,11 +46,9 @@ Cancer de la vessie
 
 ### Épidémiologie du cancer de la vessie
 
-- Incidence: 14.062 cas (2023)
+- Incidence: 14.062 cas (métropole 2023)
 - 8e cancer le plus fréquent
-- Sex-ratio: 80% d'hommes
-
-> – *BEH*
+- Sex-ratio: 80 % d'hommes
 
 ### Abréviations
 
@@ -162,7 +161,7 @@ La cystectomie totale comprend chez l'homme une cystoprostatectomie et chez la f
 
 - [Gontero P et al. EAU Guidelines on Non-muscle-invasive Bladder Cancer (TaT1 and CIS). 2024.](https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer)
 - [Witjes JA et al. EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer. 2024.](https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer)
-- {{< references/beh-cancers >}}
+- {{< references/beh-cancers-incidence >}}
 - [Collège Français des Enseignants en Urologie (CFEU). Tumeurs vésicales. Item 314. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-314-Tumeurs-de-vessie.pdf)
 - [HAS. Cancer de la vessie. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_969326/fr/ald-n-30-cancer-de-la-vessie)
 - [HAS, INCa. Cancer de la vessie. Guide Affection longue durée. 2010.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-uronephrologiques)

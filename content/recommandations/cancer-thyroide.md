@@ -214,7 +214,7 @@ graph TB
 
 - [INCa. Cancers de la thyroïde / Du diagnostic au suivi. Outils pour la pratique. 2023.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-de-la-tete-et-du-cou)
 - [INCa. Les cancers de la thyroïde en 10 points clés. 2023.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-de-la-tete-et-du-cou)
-- {{< references/beh-cancers >}}
+- {{< references/beh-cancers-incidence >}}
 - [Menegaux F et al. SFE-AFCE-SFMN 2022 consensus on the management of thyroid nodules: Surgical treatment. Ann Endocrinol. 2022.](https://www.sciencedirect.com/science/article/abs/pii/S0003426622008563)
 - Collège Français d'ORL et de Chirurgie Cervico-faciale. Goitres, nodules thyroïdiens et cancers thyroïdiens. Item 241. 2022.
 - {{< references/college-endocrino >}}

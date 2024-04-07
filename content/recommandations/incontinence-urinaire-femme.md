@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-17T16:53:27+02:00"
 publishdate = "2023-10-20"
 lastmod = "2023-10-20"
-specialites = ["gynecologie-obstetrique"]
+specialites = ["gynecologie-obstetrique", "urologie"]
 annees = "2009"
 sources = ["CNGOF", "Anaes"]
 tags = ["BPCO", "contraception", "demence", "diabete", "geriatrie", "grossesse", "neuropathie", "obesite"]
@@ -16,7 +16,7 @@ anglais = ["Urinary incontinence"]
 sctid = "165232002"
 icd10 = "R32"
 image = true
-imageSrc = "Situation pelvienne de la vessie et de l'urètre de la femme. OpenStax College, CC BY 3.0, via Wikimedia Commons"
+imageSrc = "Topographie pelvienne de la femme. OpenStax College, CC BY 3.0, via Wikimedia Commons"
 flowchart = true
 +++
 

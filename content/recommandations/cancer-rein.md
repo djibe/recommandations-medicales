@@ -163,7 +163,7 @@ graph TB
 {{%sources%}}
 
 - [Ljungberg B et al. EAU guidelines on renal cancer carcinoma. 2024.](https://uroweb.org/guidelines/renal-cell-carcinoma)
-- {{< references/beh-cancers >}}
+- {{< references/beh-cancers-incidence >}}
 - [HAS, INCa. Cancer du rein de l'adulte. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_985455/fr/ald-n-30-cancer-du-rein-de-l-adulte)
 - [HAS, INCa. Cancer du rein de l'adulte. Guide affection de longue durée. 2010.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-uronephrologiques)
 

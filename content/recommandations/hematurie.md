@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-16T13:00:47+01:00"
 publishdate = "2024-02-18"
-lastmod = "2024-02-25"
+lastmod = "2024-04-07"
 specialites = ["néphrologie", "urologie"]
 annees = "2023"
 sources = ["CUEN"]
@@ -30,6 +30,8 @@ flowchart = true
   - Orientation urologique: cytologie urinaire, échographie des des voies urinaires, uroscanner
   - Orientation néphrologique: cytologie quantitative des urines, protéinurie des 24 heures
 - La prise en charge de l'hématurie est étiologique par le spécialiste (urologue ou néphrologue)
+
+Chapitre lié: [cancer de la vessie]({{< relref "cancer-vessie.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -101,7 +103,7 @@ Causes urologiques à éliminer en priorité: tumeur des voies urinaires, infect
 
 - Causes fréquentes d'hématurie urologique
   - [Infections urinaires]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
-  - Carcinome urothélial
+  - [Carcinome urothélial]({{< relref "cancer-vessie.md" >}})
   - [Cancer du rein]({{< relref "cancer-rein.md" >}})
   - Lithiase urinaire
   - [Cancer ou adénome prostatique]({{< relref "cancer-prostate.md" >}})
@@ -121,7 +123,7 @@ Chez l'enfant, les principales étiologies urinaires d'une hématurie sont: [inf
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << L'hématurie microscopique a la même valeur diagnostique que l'hématurie macroscopique. >> – *CUEN 2023*
+> << L'hématurie microscopique a la même valeur diagnostique que l'hématurie macroscopique. >> – *CUEN 2023*. Un [cancer de vessie]({{< relref "cancer-vessie.md" >}}) doit être éliminé chez le (ancien) fumeur.
 {.alert .alert-info}
 
 Caractères sémiologiques de l'hématurie macroscopique:
@@ -132,10 +134,12 @@ Caractères sémiologiques de l'hématurie macroscopique:
 
 ### Interrogatoire
 
-- Antécédents: urologiques, néphropathie, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), traumatisme abdominal
-- Antécédents familiaux: néphropathie
+- Antécédents: urologiques, néphropathie, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), traumatisme abdominal, radiothérapie pelvienne, bilharziose urinaire
+- Antécédents familiaux: néphropathie, cancer
 - Tabagisme
-- Traitements: anticoagulant, antiagrégant (ne dispense pas du bilan)
+- Expositions professionnelles aux amines aromatiques  
+  Peintures, métal, pétrole, charbon.
+- Traitements: anticoagulant, antiagrégant (ne dispense pas du bilan), cyclophosphamide
 - Expositions sexuelles
 - Hématurie
   - Contexte de découverte

@@ -63,9 +63,10 @@ SPLF
 
 ### Épidémiologie du cancer du poumon en France
 
-- Incidence: 52.777/an (2e de l'homme, 3e de la femme)
+- Incidence: 52.777 nouveaux cas annuels (2e de l'homme, 3e de la femme)
 - Décès: 33.000/an (2018. 1<sup>re</sup> cause de mortalité par cancer)
-- Survie à 5 ans (tous stades): < 20% (+11 points en 25 ans)
+- Âge médian au diagnostic: 66 ans pour les femmes, 68 pour les hommes
+- Survie à 5 ans (tous stades): 20 % (+11 points en 25 ans)
 - Le tabagisme passif causerait 1/4 des cancers broncho-pulmonaires des non fumeurs (*Collège*)
 
 {{< card-link-external title="Dépenses liées au cancer du poumon" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Cancers&refine.patho_niv2=Cancer%20du%20poumon">}}
@@ -249,7 +250,8 @@ graph TB
 
 - [Wolf AMD et al. Screening for lung cancer: 2023 guideline update from the American Cancer Society. CA Cancer J Clin. 2023.](https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21811)
 - [Collège des Enseignants de Pneumologie (CEP). Tumeurs du Poumon, primitives et secondaires. Item 309. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_309_CANCER_2023.pdf)
-- {{< references/beh-cancers >}}
+- {{< references/beh-cancers-incidence >}}
+- {{< references/inca-cancers-mortalite >}}
 - [HAS. Dépistage du cancer bronchopulmonaire par scanner thoracique faible dose sans injection : actualisation de l'avis de 2016. 2022.](https://www.has-sante.fr/jcms/p_3310940/fr/depistage-du-cancer-bronchopulmonaire-par-scanner-thoracique-faible-dose-sans-injection-actualisation-de-l-avis-de-2016)
 - [Couraud S et al; SPLF. Recommandations de l'Intergroupe francophone de cancérologie thoracique, de la Société de pneumologie de langue française, et de la Société d'imagerie thoracique sur le dépistage du cancer bronchopulmonaire par tomodensitométrie à faible dose d'irradiation. Rev Mal Resp. 2021.](https://www.sciencedirect.com/science/article/pii/S0761842521000437)
 - [INCa. Les cancers bronchopulmonaires en 10 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-bronchopulmonaires-en-10-points-cles)

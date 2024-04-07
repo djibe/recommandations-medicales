@@ -88,7 +88,7 @@ TR
 | Syndrome                           | Diagnostic différentiel |
 |------------------------------------|-------------------------|
 | Nycturie prédominante<br>ou isolée | Polyurie nocturne (diurétiques, modification du rythme nycthéméral, [SAOS]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})), polyurie des 24 heures ([diabète](/tags/diabete/), potomanie) et troubles du sommeil. Agenda mictionnel |
-| Phase de remplissage               | Tumeur de vessie, vessie neurologique centrale, prostatite, calcul ou corps étranger vésical |
+| Phase de remplissage               | [Tumeur de vessie]({{< relref "cancer-vessie.md" >}}), vessie neurologique centrale, prostatite, calcul ou corps étranger vésical |
 | Mictionnels ou post-mictionnels    | [Cancer de la prostate]({{< relref "cancer-prostate.md" >}}), sténose de l'urètre, maladie du col vésical, hypotonie détrusorienne (+80 ans ou RPM > 300 mL) |
 {{< /table >}}
 

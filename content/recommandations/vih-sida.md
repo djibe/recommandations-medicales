@@ -293,8 +293,7 @@ Indications au scanner thoracique pour le dépistage du [cancer du poumon]({{< r
 
 ### Dépistage du cancer de la vessie
 
-En cas d'exposition pendant au moins 1 an à un agent cancérigène vésical.  
-À partir de la 20<sup>e</sup> année qui suit la période d'exposition.
+En cas d'exposition pendant au moins 1 an à un agent cancérigène vésical (ex cyclophosphamide): À partir de la 20<sup>e</sup> année qui suit la période d'exposition.
 
 **Méthode:** cytologie urinaire tous les 6 mois.
 

@@ -190,7 +190,7 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
 - Comorbidités  
   - Cardiovasculaires  
     [Hypertension]({{< relref "hypertension-arterielle.md" >}}), coronaropathie, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (8,8%), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (20-70%), [arythmie]({{< relref "fibrillation-atriale.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}})
-  - Cancers liés au tabac (poumon, vessie, digestifs)
+  - Cancers liés au tabac ([poumon]({{< relref "cancer-poumon.md" >}}), [vessie]({{< relref "cancer-vessie.md" >}}), digestifs)
   - Dépister anxiété et [dépression]({{< relref "depression.md" >}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}), addictions, troubles cognitifs
   - [Ostéoporose]({{< relref "osteoporose.md" >}}) et amyotrophie
   - [Obésité]({{< relref "obesite-adulte.md" >}}), [dénutrition]({{< relref "denutrition.md" >}}), anémie et polyglobulie
