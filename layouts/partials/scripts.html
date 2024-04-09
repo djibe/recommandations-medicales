@@ -163,7 +163,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
   document.addEventListener( 'DOMContentLoaded', event => {
 
     // Register Lyra search
-    {{ $searchModule := resources.Get "/js/lyra.mjs" | minify | fingerprint "sha384" }}
+    {{ $searchModule := resources.Get "/js/orama.mjs" | minify | fingerprint "sha384" }}
     document.getElementById('btn-search-modal').addEventListener('click', () => import('{{ $searchModule.Permalink }}'))
 
     // Newsletter: Mailchimp
