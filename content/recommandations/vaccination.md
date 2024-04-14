@@ -1,5 +1,5 @@
 +++
-title = "Vaccination et calendrier vaccinal"
+title = "Vaccination et calendrier vaccinal 2023"
 prefix = "la "
 titleSeo = "vaccination"
 description = "Recommandations sur les vaccins selon le Calendrier vaccinal 2023. Âge de rattrapage, vaccins selon l'âge, taille d'aiguille et sites d'injection des vaccins"
@@ -82,7 +82,7 @@ VVA
 
 **Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours (pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles). Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
 
-> Les consultations à 25, 45 et 65 ans seront gratuites courant 2023.
+> Les consultations à 25, 45 et 65 ans sont gratuites avec la **cotation RDV**.
 
 {{% /collapse %}}
 {{%collapse "Rattrapage vaccinal" %}}

@@ -35,7 +35,10 @@ Trouble déficit de l'attention avec hyperactivité (ou sans hyperactivité – 
     - présentation hyperactive/impulsive prédominante (pré-scolaire ++)
     - présentation combinée
     - présentation inattentive prédominante
-: Les complications du TDAH sont multiples: organiques (asthme, allergies, obésité, diabète, hypertension, psoriasis, épilepsie), conduites à risque (drogue, IST, violence, accidents, jeux, suicide).
+: Les complications du TDAH sont multiples:
+    - organiques: asthme, allergies, obésité, diabète, hypertension, psoriasis, épilepsie
+    - conduites à risque: drogues, [infections sexuelles](/tags/ist/), violence, accidents, jeux, suicide
+    - professionnelles et sociétales: chômage, arrêts maladie
 
 ### Abréviations
 

@@ -54,12 +54,13 @@ Angor instable
 
 ### Épidémiologie de l'infarctus du myocarde
 
-- Incidence du SCA: 120.000 annuels (2014)
+- Incidence du SCA: 134.846 cas annuels (2019)
 - Hospitalisations pour infarctus du myocarde: +60.000 annuelles
 - Décès par infarctus: +15.000 annuels
 - Progression du SCA chez les femmes 45 à 65 ans: +20 % entre 2008 et 2014
 - Mortalité à 1 an: 10 %
-- Seuls 58% de la population déclare appeler le SAMU en cas de douleurs thoraciques
+- Taux de réadaptation cardiaque dans les 6 mois: 22 %
+- Seul 58 % de la population déclare appeler le SAMU en cas de douleurs thoraciques
 
 ### Abréviations
 
@@ -212,7 +213,7 @@ Pour les SCANST, le dosage nécessite un résultat dans l'heure avec interpréta
 
 Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} après infarctus du myocarde ou autre syndrome coronarien aigu:
 
-- **Réhabilitation cardiaque**  
+- **Réhabilitation cardiaque** +++  
   En centre voire accompagnée à domicile.
 - Contrôle du risque cardiovasculaire
   - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (réduit décès de 40%)
@@ -287,6 +288,7 @@ Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ec
 {{% /collapse %}}
 {{%sources%}}
 
+- [Grave C et al. Évolutions nationale et régionales de l'admission en réadaptation cardiaque après un syndrome coronaire aigu en France entre 2009 et 2021 : des disparités persistantes. Bull Épidémiol Hebd. 2024.](http://beh.santepubliquefrance.fr/beh/2024/8/2024_8_3.html)
 - [Byrne RA et al; ESC Scientific Document Group. 2023 ESC Guidelines for the management of acute coronary syndromes. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)
 - [2023 ESC Guidelines for the management of acute coronary syndromes - Supplementary Data.](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)
 - [McDonagh STJ et al. Home‐based versus centre‐based cardiac rehabilitation. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007130.pub5/full/fr)

@@ -564,7 +564,7 @@ Agenda de consommation d'alcool: Try Dry ([Android](https://play.google.com/stor
 {{% /collapse %}}
 {{%collapse "Information du Grand Public" %}}
 
-{{< card-link-external title="Alcoometre.fr" url="https://www.alcoometre.fr/" subtitle="Auto-évaluer sa consommation">}}
+{{< card-link-external title="Alcoometre.fr" url="https://www.alcoometre.fr" subtitle="Auto-évaluer sa consommation">}}
 
 [Affiches pour le cabinet](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/outils/#tabs)
 

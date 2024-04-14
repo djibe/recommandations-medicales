@@ -142,7 +142,7 @@ Un interrogatoire complet permet un diagnostic fiable de rhinite allergique (*SF
 > << La sévérité des symptômes est généralement sous-estimée par les médecins >>. – *SFORL*
 {.alert .alert-info}
 
-{{< card-link-external title="Carte du Risque d'Allergie aux Pollens" url="https://www.pollens.fr/" subtitle="pollens.fr">}}
+{{< card-link-external title="Carte du Risque d'Allergie aux Pollens" url="https://www.pollens.fr" subtitle="pollens.fr">}}
 
 ### Examen clinique
 

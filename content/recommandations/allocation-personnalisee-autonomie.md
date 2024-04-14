@@ -122,4 +122,4 @@ La prestation est accordée pour 5 ans, automatiquement renouvelable.
 
 {{%/sources%}}
 
-{{< card-link-external title="pourlesPersonnesâgées.gouv.fr" url="https://www.pour-les-personnes-agees.gouv.fr/" subtitle="Site Officiel" >}}
+{{< card-link-external title="pourlesPersonnesâgées.gouv.fr" url="https://www.pour-les-personnes-agees.gouv.fr" subtitle="Site Officiel" >}}

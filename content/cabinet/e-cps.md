@@ -42,7 +42,7 @@ Télécharger l'appli e-CPS sur l'[App Store](https://apps.apple.com/fr/app/e-cp
 
 ### Créer sa e-CPS avec sa CPS
 
-1. Depuis l'ordinateur avec la CPS branchée, aller sur <https://wallet.esw.esante.gouv.fr/>
+1. Depuis l'ordinateur avec la CPS branchée, aller sur <https://wallet.esw.esante.gouv.fr>
 2. Cliquer sur le bouton PROSANTECONNECT
 3. À l'étape Connectez-vous, cliquer sur l'onglet *Carte CPS* puis *Se connecter avec la carte CPS*
 4. Cliquer sur *J'accepte les CGU* et *Commencer l'activation*
@@ -56,7 +56,7 @@ Vous pouvez maintenant vous connecter à certains services avec votre smartphone
 
 Cette étape va passer par l'adresse de courriel associée à votre compte ordinal et nécessite un 2<sup>e</sup> appareil pour afficher le QR code à venir.
 
-1. Depuis le téléphone, aller sur <https://wallet.esw.esante.gouv.fr/>
+1. Depuis le téléphone, aller sur <https://wallet.esw.esante.gouv.fr>
 2. Cliquer sur le bouton PROSANTECONNECT
 3. Entrez votre numéro RPPS précédé d'un 8
 4. Consulter le mail sur le 2<sup>e</sup> appareil et scanner le QR code avec l'appli e-CPS
@@ -81,6 +81,6 @@ Si vous recevez une notification de l'application e-CPS, refusez-là ! Puis sign
 - L'Assurance Maladie: {{<phone>}}3608{{</phone>}}
 - L'Agence du Numérique en Santé ([ANS](https://esante.gouv.fr/actualites/professionnels-de-sante-comment-reagir-en-cas-de-doute-la-fraude-au-pass-sanitaire)): {{<phone>}}0825 85 2000{{</phone>}} (0,06 €/min)
 - Le CDOM
-- La [police](https://www.pre-plainte-en-ligne.gouv.fr/)
+- La [police](https://www.pre-plainte-en-ligne.gouv.fr)
 
 {{% /collapse %}}

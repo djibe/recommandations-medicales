@@ -32,7 +32,7 @@ todo = "vérif co-vaccination ROR, https://pap-pediatrie.fr/sites/pap-pediatrie.
   - Varicelle chez la femme enceinte dont l'éruption débute 10 jours avant l'accouchement
 - Statut immunitaire de l'entourage et sérologie en urgence si personne à risque de forme grave exposée à la varicelle ou au zona ou personne susceptible d'être vaccinée
 - Prise en charge symptomatique sans AINS, aspirine ni corticoïdes
-- Pas d'éviction scolaire en cas de varicelle (*CMIT 2020*)
+- Pas d'éviction scolaire en cas de varicelle (*Assur Maladie*, *CMIT*)
 
 Chapitre lié: [zona]({{< relref "zona.md" >}})
 
@@ -192,7 +192,7 @@ Recommandations pour la prise en charge de la varicelle:
 - Statut sérologique de l'entourage  
   Vaccination dans les 3 jours si +12 ans non immun (sauf grossesse).
 - Contre-indication aux AINS/aspirine/corticoïdes
-- L'éviction scolaire n'est plus recommandée (*CMIT 2020*)
+- L'éviction scolaire n'est plus recommandée (*Assur Maladie*, *CMIT 2020*)
   - Sinon éviction scolaire jusqu'au stade croûteux
   - Signaler le cas à la collectivité pour prévenir des personnes à risque
   - Éviter les personnes fragiles et les lieux publics (transports en communs, centres commerciaux, hôpitaux...)
@@ -301,7 +301,8 @@ style grossesse stroke:#4150f5, stroke-width:1px
 - [ANSM. Varitect CP. 2021.](https://ansm.sante.fr/tableau-acces-derogatoire/varitect-cp)
 - [Pinquier D et al. Vaccin contre la varicelle. Infovac. Avril 2019.](https://www.infovac.fr/docman-marc/public/fiches/1471-fiche-varicelle/file)
 - [Floret D; SFP. Conduite à tenir devant un contage varicelleux chez une femme enceinte ou un nouveau-né. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/conduite-tenir-devant-un-contage-varicelleux-chez-une-femme-enceinte-ou-un)
-- [HCSP. Avis relatif aux recommandations de vaccination contre la varicelle. Juillet 2007.](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcsp045a20070705_Varicelle.pdf)
+- [HCSP. Avis relatif aux recommandations de vaccination contre la varicelle. 2007.](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcsp045a20070705_Varicelle.pdf)
+- [Assurance Maladie. Collectivités et jeunes enfants et maladies infectieuses. Guide pratique. 2006. (PDF)](https://www.ameli.fr/sites/default/files/Documents/4900/document/collectivites-maladies-infectieuses_assurance-maladie.pdf)
 - [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998.](https://www.infectiologie.com/UserFiles/File/medias/Recos/vzv98.pdf)
 - [Santé Publique France. Varicelle.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-prevention-vaccinale/varicelle)
 - [Ameli. Varicelle](https://www.ameli.fr/assure/sante/themes/varicelle)

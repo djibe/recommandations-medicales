@@ -29,7 +29,7 @@ Ces aides à la prise en charge médicale et aux soins doivent être communiqué
 
 {{< references/mes-droits-sociaux >}}
 
-{{< card-link-external title="pourlesPersonnesâgées.gouv.fr" url="https://www.pour-les-personnes-agees.gouv.fr/" subtitle="Site Officiel" >}}
+{{< card-link-external title="pourlesPersonnesâgées.gouv.fr" url="https://www.pour-les-personnes-agees.gouv.fr" subtitle="Site Officiel" >}}
 
 {{< card-link-external title="1jeune1solution" url="https://mes-aides.1jeune1solution.beta.gouv.fr" subtitle="Évaluer les droits à 591 aides">}}
 

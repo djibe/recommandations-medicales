@@ -13,7 +13,7 @@ sources = []
 tags = []
 image = true
 imageSrc = "de la téléexpertise par macrovector / Freepik"
-todo = "https://medicam.mipih.fr/"
+todo = "https://medicam.mipih.fr"
 +++
 
 La téléexpertise (TLE) permet de demander un avis médical spécialisé de façon différée: ni le patient ni l'expert ne doivent être présents, elle est dite asynchrone.

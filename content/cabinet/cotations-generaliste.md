@@ -23,11 +23,12 @@ Les outils *OMNIPrat* et *CotaMG* permettent aux jeunes médecins d'apprendre à
 
 {{< card-link-external title="Outil d'aide à la cotation et au remplissage des feuilles de soins" url="https://omniprat.org/cotation/" subtitle="OMNIprat">}}
 
-{{< card-link-external title="Outil d'aide à la cotation et au remplissage des feuilles de soins" url="https://www.cotamg.fr/" subtitle="CotaMG">}}
+{{< card-link-external title="Outil d'aide à la cotation et au remplissage des feuilles de soins" url="https://www.cotamg.fr" subtitle="CotaMG">}}
 
 ## Les nouvelles cotations en 2024
 
 - Majoration MOP de 5€ pour les +80 ans qui ne font pas partie de la patientèle (valable en (télé)consultation ou visite)
+- La cotation RDV est à 100% pour le rendez-vous de prévention à réaliser une fois à 18-25, 45-50, 60-65 et 70-75 ans
 
 ## Les cotations pour les médecins généralistes
 

@@ -97,7 +97,7 @@ Scores: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal
 
 {{< youtube id="sARvPRwl-hY" title="Psychologue et/ou Psychiatre: comment choisir? (Fréquence Médicale)" >}}
 
-{{< card-link-external title="MonParcoursPsy" url="https://monparcourspsy.sante.gouv.fr/" subtitle="Le site officiel">}}
+{{< card-link-external title="MonParcoursPsy" url="https://monparcourspsy.sante.gouv.fr" subtitle="Le site officiel">}}
 
 {{%/sources%}}
 {{% modal title="Évaluation d'un mésusage de l'alcool" id="modal-auditc"%}}

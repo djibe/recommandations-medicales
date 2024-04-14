@@ -35,7 +35,7 @@ Exanthèmes maculo-papuleux
 Réactions de photosensibilité
 
 Allergie sévère
-: Choc anaphylactique, 	Angiœdème  
+: Choc anaphylactique, Angiœdème  
 Pustulose exanthématique aiguë généralisée (PEAG)  
 Syndromes de Lyell et Stevens-Johnson  
 DRESS  

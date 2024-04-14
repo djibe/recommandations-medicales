@@ -51,7 +51,7 @@ Hypertension artérielle résistante
 
 ### Grades de l'hypertension artérielle
 
-> << Un dépistage moins fréquent (ex tous les 3-5 ans) est approprié pour les adultes 18-39 ans sans surrisque d'hypertension ayant déjà eu une mesure de la pression artérielle >> (surrisque: sujet noir, surpoids, tension normale haute) - *USPTF 2021*
+> << Un dépistage moins fréquent (ex tous les 3 à 5 ans) est approprié pour les adultes 18-39 ans sans surrisque d'hypertension ayant déjà eu une mesure de la pression artérielle >> (surrisque: sujet noir, surpoids, tension normale haute) - *USPTF 2021*
 {.alert .alert-info}
 
 {{< table title="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après ESH 2023 et USPTF 2021" class="table-wrap" >}}
@@ -411,7 +411,7 @@ La prise en charge de l'hypertension est toujours associée aux mesures hygiéno
 - Tant que PAS > 160/100 mmHg: pas de séjour en altitude > 2500m
 - Surveillance biologique (*ESH 2023* et *HAS 2016*)
   - Annuelle: ionogramme, créatininémie, DFG, albuminurie sur échantillon
-  - Tous les 3 ans: glycémie à jeun, bilan lipidique, ECG (3-5 ans)
+  - Tous les 3 ans: glycémie à jeun, bilan lipidique, ECG (3 à 5 ans)
 - Réévaluation des complications au **minimum tous les 2 ans**
 
 ### Traitement de première intention de l'hypertension artérielle non compliquée
