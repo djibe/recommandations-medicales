@@ -19,7 +19,7 @@
   "start_url": "/?utm_source=pwa",
   "scope": "/",
   "orientation": "portrait",
-  "display": "minimal-ui",
+  "display": "standalone",
   "theme_color": "#4150f5",
   "background_color": "#ffffff"
 }
