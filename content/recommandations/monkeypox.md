@@ -129,7 +129,7 @@ Signes et symptômes de la variole du singe:
 - Adénopathies (74%)
 - Céphalées, courbatures
 - Éruption vésiculeuse avec contenu liquidien
-  - [Photos de la *SFDermato*](https://www.sfdermato.org/upload/news/groupemonkeypeauxfinal-1.pdf)
+  - [Photos de la *SFD*](https://www.sfdermato.org/upload/news/groupemonkeypeauxfinal-1.pdf)
   - Dessèchement puis croûtes puis cicatrisation
   - Localisation: visage, génito-anale (78%), paumes et plantes, possibles aussi sur tronc et membres.  
     Muqueuses buccale ou génitale
@@ -190,7 +190,7 @@ La 2<sup>e</sup> dose sera réalisée quand une large population aura été prim
 {{%collapse "Traitement du Monkeypox" %}}
 
 Poliovirus = [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}). Le monkeypox nécessite un [cerfa spécifique de déclaration](https://www.formulaires.service-public.fr/gf/cerfa_12218.do). Contacter l'ARS au plus vite en cas de femme ou d'enfant.  
-Pas d'AINS (*SFDermato*)
+Pas d'AINS (*SFD*)
 {.alert .alert-warning}
 
 Le traitement du Monkeypox est symptomatique avec la prévention des surinfections cutanéo-muqueuses.
@@ -202,7 +202,7 @@ Prise en charge recommandée en cas de variole du singe:
 - Prévenir la ré-inoculation: éviter le grattage des lésions, couvrir les lésions
 - Remettre la [fiche d'information patient Monkeypox (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/flyer_cas_confirmes_mkp_120822_vdef.pdf)
 - Autres mesures: éloigner les animaux de compagnie
-- [Traitement des surinfections et lésions douloureuses (*SFDermato*)](https://www.sfdermato.org/upload/news/groupemonkeypeauxfinal-1.pdf)
+- [Traitement des surinfections et lésions douloureuses (*SFD*)](https://www.sfdermato.org/upload/news/groupemonkeypeauxfinal-1.pdf)
 - Contact tracing  
   avec auto-surveillance jusqu'à 3 semaines post-contact
 - Vaccination post-exposition des contacts
@@ -247,7 +247,7 @@ graph TB
 - [HCSP. Avis relatif relatif à la conduite à tenir pour les cas confirmés d'infection à Monkeypox virus (MPXV) à risque de forme grave et pour les personnes contacts à risque d'infection par MPXV. 09/06/2022.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=1216)
 - [HCSP. Avis relatif à la conduite à tenir autour d'un cas suspect, probable ou confirmé d'infection à Monkeypox virus. 24/05/2022.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=1216)
 - [Sante.fr. Monkeypox : ressources et supports de communication](https://www.sante.fr/monkeypox-ressources-et-supports-de-communication)
-- [SFDermato. Monkeypox Virus Manifestations dermatologiques.](https://www.sfdermato.org/upload/news/groupemonkeypeauxfinal-1.pdf)
+- [Société Française de Dermatologie. Monkeypox Virus Manifestations dermatologiques.](https://www.sfdermato.org/upload/news/groupemonkeypeauxfinal-1.pdf)
 - [Institut Pasteur. Variole du singe (Monkeypox).](https://www.pasteur.fr/fr/centre-medical/fiches-maladies/variole-du-singe-monkeypox?utm_source=sendinblue&utm_campaign=Newsletter%20de%20lInstitut%20Pasteur%20-%20N%2054&utm_medium=email)
 
 ### Bibliographie en attente

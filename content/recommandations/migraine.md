@@ -66,31 +66,6 @@ Céphalées par abus médicamenteux
 : Critères diagnostiques ICHD-3 8.2.
 : Consommation de triptans ≥ 10 j/mois ou AINS ≥ 15 j/mois.
 
-### Diagnostic différentiel des migraines
-
-Autres causes de céphalées:
-
-- Céphalées par abus médicamenteux  
-  Céphalées ≥ 15 j/mois, lors de prise d'antalgiques > 10 j/mois > 3 mois. Souvent associée.
-- Céphalée de tension  
-  Durée en heures ou jours, diffuse, non pulsatile, non aggravée à l'effort, moins intense, sans signes digestifs associés, parfois phono OU photophobie. Souvent associée chez le migraineux.
-- Névralgie d'Arnold
-- Sinusite aiguë
-- Troubles de la vision binoculaire ([orthoptie]({{< relref "bilan-orthoptique.md" >}}))  
-  Fatigue visuelle, céphalées, difficultés de concentration ou de lecture...
-- [Algie vasculaire de la face]({{< relref "algie-vasculaire-face.md" >}})  
-  Crises pluriquotidiennes, 15-180 min, stricte unilatéralité fixe, arrachement, décharges, intensité très sévère.
-- [Névralgie du nerf trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})  
-  Très brèves (qq secondes à 2 minutes), strictement unilatérale V2/V3, neuropathique, gâchette, pas de phonophotophobie ou troubles digestifs.
-- Tumeur du 3<sup>e</sup> ventricule
-
-Diagnostic différentiel des migraines avec aura:
-
-- [AIT]({{< relref "accident-vasculaire-cerebral.md" >}})  
-  Déficit de début brutal et symptômes d'emblée maximaux, souvent associés (moteur et sensitif), ± amaurose fugace ou hémianopsie, souvent > 40 ans.
-- Épilepsie partielle occipitale  
-  Installation en quelques secondes, début en vision périphérique, formes circulaires colorées de qq secondes à minutes, début enfance/adolescence.
-
 ### Abréviations
 
 EI
@@ -115,6 +90,34 @@ SFEMC
   France: 21,3% des adultes remplissent les critères de la migraine ICHD-3.
 - 2<sup>e</sup> maladie la plus importante responsable d'*années vécues avec une incapacité* (AVI, *OMS 2016*)
 - 50% ont au moins 2 crises par mois; 40% ont durée +24h; 50% ont intensité sévère à très sévère
+
+{{% /collapse %}}
+{{%collapse "Critères différentiel" %}}
+
+### Diagnostic différentiel des migraines
+
+Autres causes de céphalées:
+
+- Céphalées par abus médicamenteux  
+  Céphalées ≥ 15 j/mois, lors de prise d'antalgiques > 10 j/mois > 3 mois. Souvent associée.
+- Céphalée de tension  
+  Durée en heures ou jours, diffuse, non pulsatile, non aggravée à l'effort, moins intense, sans signes digestifs associés, parfois phono OU photophobie. Souvent associée chez le migraineux.
+- Névralgie d'Arnold
+- Sinusite aiguë
+- Troubles de la vision binoculaire ([orthoptie]({{< relref "bilan-orthoptique.md" >}}))  
+  Fatigue visuelle, céphalées, difficultés de concentration ou de lecture...
+- [Algie vasculaire de la face]({{< relref "algie-vasculaire-face.md" >}})  
+  Crises pluriquotidiennes, 15-180 min, stricte unilatéralité fixe, arrachement, décharges, intensité très sévère.
+- [Névralgie du nerf trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})  
+  Très brèves (qq secondes à 2 minutes), strictement unilatérale V2/V3, neuropathique, gâchette, pas de phonophotophobie ou troubles digestifs.
+- Tumeur du 3<sup>e</sup> ventricule
+
+### Diagnostic différentiel des migraines avec aura
+
+- [AIT]({{< relref "accident-vasculaire-cerebral.md" >}})  
+  Déficit de début brutal et symptômes d'emblée maximaux, souvent associés (moteur et sensitif), ± amaurose fugace ou hémianopsie, souvent > 40 ans.
+- Épilepsie partielle occipitale  
+  Installation en quelques secondes, début en vision périphérique, formes circulaires colorées de qq secondes à minutes, début enfance/adolescence.
 
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques ICHD-3" %}}

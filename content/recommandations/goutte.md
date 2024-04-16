@@ -17,7 +17,7 @@ sctid = "90560007"
 icd10 = "M10.99"
 image = true
 imageWEBP = true
-imageSrc = "scientificanimations.com, CC BY-SA 4.0"
+imageSrc = "Illustration de la goutte de la première articulation métatarso-phalangienne. scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
 todo = "relecture"
 +++
@@ -29,6 +29,7 @@ todo = "relecture"
   - privilégier l'infiltration en monoarthrite de grosse articulation
 - Traitement de fond de la goutte:
   - allopurinol: titration en débutant ≤ 100 mg/j avec uricémie cible < 50 mg/L et couverture colchicine 0,5 à 1 mg/j pendant les 3 à 6 premiers mois
+  - Précautions avec demi-dose chez les vietnamiens, Han ... à haut risque de toxidermie
   - Le traitement de fond peut être débuté pendant la crise
 - Régime pauvre en purines  
   Perte de poids, arrêt de la bière, réduire alcool/sodas/jus, viandes/abats, crustacés, laits maigres, substituer un diurétique.
@@ -168,14 +169,15 @@ Remplacer si possible par **hypouricémiants**: losartan, amlodipine, fénofibra
 {{% /collapse %}}
 {{%collapse "Traitement de la crise de goutte" %}}
 
-La prise en charge par traitement de crise doit être la plus précoce possible (< 12 heures), dès les prodromes (auto-médication adaptée aux comorbidités).  
-Traitement adapté à la tolérance et à l'efficacité passée.
+La prise en charge par traitement de crise doit être la plus précoce possible (< 12 heures), dès les prodromes (auto-médication adaptée aux comorbidités).
 
-Recommandations pour la prise en charge de la crise de goutte:
+Le traitement est adapté à la tolérance et à l'efficacité passée.
+
+Mesures générales recommandées pour la prise en charge de la crise de goutte:
 
 - Repos au lit avec immobilisation de l'articulation
 - Glaçage de l'articulation  
-  3 fois par jour pendant 10-15 minutes x 3/j (avec protection cutanée).
+  10-15 minutes x 3/j (avec protection cutanée).
 - Paracétamol pleine dose
 - Hydratation  
   Forcer la diurèse à 2-3 L/jour.
@@ -213,8 +215,7 @@ En troisième intention selon *Prescrire®*, en remplacement des AINS et de la c
 [Prednisone 20 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64793934&typedoc=R) 1,5 cp x 1/j pendant 3-5 jours
 {.alert .alert-info}
   
-Ne pas associer AINS et corticoïdes.  
-Ne pas utiliser en cas de diabète ou d'[HTA]({{< relref "hypertension-arterielle.md" >}}) déséquilibrés.
+Ne pas associer AINS et corticoïdes. Ne pas utiliser en cas de diabète ou d'[HTA]({{< relref "hypertension-arterielle.md" >}}) déséquilibrés.
 
 Possibilité d'infiltrations de corticoïdes pour une arthrite facilement accessible (ex. genou).  
 Elles doivent être privilégiées afin d'épargner un traitement général.  
@@ -248,16 +249,17 @@ ou recommandé pour certains patients ayant déjà eu ≥ 1 crise mais non fréq
 ou recommandé si DFG < 60, uricémie ≥ 90 mg/L ou lithiase urique.
 {{%/info%}}
 
-**Objectif du traitement de fond:** Prévenir les crises douloureuses et les complications par la dissolution des cristaux d'urate de sodium en maintenant l'uricémie < 60 mg/L (360 µmol/L) au long cours avec cible **< 50 mg/L** (300 µmol/L).  
-Contrôle de l'**uricémie 1-2/an**.  
-Ne pas descendre l'uricémie sous **30 mg/L** au long cours car l'acide urique a un probable rôle neuroprotecteur.
+**Objectif du traitement de fond:** prévenir les crises douloureuses et les complications par la dissolution des cristaux d'urate de sodium en maintenant l'uricémie < 60 mg/L (360 µmol/L) au long cours avec cible **< 50 mg/L** (300 µmol/L). Contrôler l'**uricémie 1 à 2 fois par an**.
+
+Ne pas descendre l'uricémie sous **30 mg/L** au long cours car l'acide urique a probablement un rôle neuroprotecteur.
 
 ### Mise en route du traitement de fond
 
-Informer systématiquement sur la nécessité d'interrompre immédiatement le traitement en cas de réaction cutanée et de consulter immédiatement un médecin
+Informer systématiquement sur la nécessité d'interrompre immédiatement le traitement en cas de réaction cutanée et de consulter immédiatement un médecin.
 {.alert .alert-warning}
 
-La dissolution des dépôts d'urate expose à des crises de goutte durant les 6 premiers mois du traitement de fond.  
+> La dissolution des dépôts d'urate expose à des crises de goutte durant les 6 premiers mois du traitement de fond.
+
 L'allopurinol est le traitement de référence mais nécessite une titration pour éviter les **toxidermies**.
 
 {{%info%}}
@@ -267,8 +269,9 @@ Peut être débuté pendant la crise de goutte.
 Prévention de crise par colchicine 0,5 à 1 mg/j pendant les 3 à 6 premiers mois (alternatives: AINS, prednisone).
 {{%/info%}}
 
-L'*ACR* recommande la recherche *HLA–B*5801* pour les **personnes originaires d'Asie du Sud-Est** (Chine, Thaïlande, Corée) et **afro-américains** par sur-risque de toxidermie (x3).  
-La recherche d'HLA n'étant pas remboursée, il est prudent de démarrer à 50 mg avec paliers de 50 mg pour ces personnes.
+L'*ACR* recommande la recherche d'*HLA–B*5801* pour les **personnes originaires d'Asie du Sud-Est** (**Vietnam**, Chine, Thaïlande, Corée) et **afro-américains** par sur-risque de toxidermie (x3).
+
+La recherche d'HLA n'étant pas remboursée en France (100€), il est prudent de démarrer à 50 mg avec paliers de 50 mg pour ces personnes.
 
 #### Traitement de fond privilégié selon la fonction rénale
 
@@ -281,7 +284,7 @@ La recherche d'HLA n'étant pas remboursée, il est prudent de démarrer à 50 m
 
 ### Précisions sur le traitement de fond de la goutte
 
-- Surveillance de l'uricémie 1 à 2/an
+- Surveillance de l'uricémie 1 à 2 fois par an
 - Si fonction rénale altérée:  
   Utiliser une dose adaptée d'allopurinol jusqu'à 30 mL/min.
 - Si intolérance digestive:  
@@ -303,7 +306,7 @@ Indications au fébuxostat:
 
 - Persistance des crises et cible non atteinte avec l'allopurinol sous régime bien conduit
 - Mauvaise tolérance de l'allopurinol
-- Insuffisance rénale chronique < 30 mL/min/1,73m² (voire < 60)
+- Insuffisance rénale chronique sévère < 30 mL/min/1,73m² (voire < 60)
 
 {{%warning%}}
 Fébuxostat contre-indiqué en maladie cardiovasculaire sévère:
@@ -373,7 +376,7 @@ accTitle: Prise en charge de la goutte par traitement de fond d'après SFR et AC
   diagnostic[Diagnostic de goutte] --> education("<b>Éducation</b><br>—<br>- Traitement sur soi<br>- RHD") --> criteres("<b>Critères de traitement</b><br>—<br>- SFRhumato: dès la 1<sup>re</sup> crise<br>- ACR:<br>≥ 1 tophus, lésions radiologiques,<br>≥ 2 crises/an,<br>critères annexes (Voir ttt fond)")
   style diagnostic stroke:#4150f5, stroke-width:1px
     criteres -- Oui --> clairance(Évaluation clairance et<br>cardiovasculaire)
-      clairance -- Sans comorbidités --> allopurinol(Allopurinol 50<br>à 100 mg/j) --> prophylaxie("Associer la prophylaxie:<br>colchicine 0,5 à 1 mg/j ≥ 3-6 mois<br>(prednisone si insuff. rénale")
+      clairance -- Sans comorbidités --> allopurinol("Allopurinol 50<br>à 100 mg/j<br>(demi-dose si Asiat.)") --> prophylaxie("Associer la prophylaxie:<br>colchicine 0,5 à 1 mg/j ≥ 3-6 mois<br>(prednisone si insuff. rénale)")
       clairance -- IRC modérée --> ircmoderee(Allopurinol 50 mg<br>ou fébuxostat 40 mg x 2/j) --> prophylaxie
       clairance -- IRC sévère --> ircsevere(Fébuxostat 40 mg x 2/j) --> prophylaxie
       clairance -- MCV sévère --> mcv(<b>Pas de fébuxostat</b>)
@@ -425,11 +428,11 @@ Intérêt de colchicine prophylactique.
 - [ANSM. Prise en charge par colchicine de la goutte : une nouvelle posologie plus faible et un message d'alerte sur les boites pour réduire le risque de surdosage. 10/10/2023.](https://ansm.sante.fr/informations-de-securite/prise-en-charge-par-colchicine-de-la-goutte-une-nouvelle-posologie-plus-faible-et-un-message-dalerte-sur-les-boites-pour-reduire-le-risque-de-surdosage)
 - {{< references/esh-2023 >}}
 - Prescrire Rédaction. Crise de goutte. Premiers Choix Prescrire. Rev Prescrire. 2021.
-- [Latourte A et al. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. Octobre 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301502)
-- [Pascart T et al. Recommandations de la Société française de rhumatologie pour la prise en charge de la goutte : le traitement hypo-uricémiant. Octobre 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301514)
+- [Latourte A et al. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301502)
+- [Pascart T et al. Recommandations de la Société française de rhumatologie pour la prise en charge de la goutte : le traitement hypo-uricémiant. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301514)
 - [FitzGerald JD et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res. 2020.](https://onlinelibrary.wiley.com/doi/full/10.1002/acr.24180)
 - [Richette P et al. 2016 updated EULAR evidence-based recommendations for the management of gout. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/1/29)
-- [ANSM. Allopurinol et risque de survenue de toxidermies graves – Lettre aux professionnels de santé. 25 Février 2013.](https://archiveansm.integra.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Allopurinol-et-risque-de-survenue-de-toxidermies-graves-Lettre-aux-professionnels-de-sante)
+- [ANSM. Allopurinol et risque de survenue de toxidermies graves. Lettre aux professionnels de santé. 25 Février 2013. (PDF)](https://archive.ansm.sante.fr/var/ansm_site/storage/original/application/0d726dfed60daadafe7766e02654ddef.pdf)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-19-0.php#ch_2_1)
 
 {{%/sources%}}

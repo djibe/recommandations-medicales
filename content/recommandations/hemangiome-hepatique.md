@@ -42,11 +42,11 @@ Syndrome de Kasabach-Merritt (SKM)
 
 ### Abréviations
 
-EASL
-: {{%lang%}}European Association for the Study of the Liver{{%/lang%}}
-
 CDU-HGE
 : Collège Des Universitaires d'Hépato-GastroEntérologie
+
+EASL
+: {{%lang%}}European Association for the Study of the Liver{{%/lang%}}
 {.dl-inline}
 
 {{% /collapse %}}
@@ -125,7 +125,7 @@ Le **diagnostic d'hémangiome hépatique** est échographique si tous les critè
 
 Pas de suivi d'imagerie nécessaire pour un hémangiome typique.
 
-**IRM hépatique** avec injection de produit de contraste en cas d'échographie atypique, de cancer connu ou d'hépatopathie (**cirrhose** ++; alternative avec injection: échographie ou scanner).
+Compléter avec une **IRM hépatique** avec injection de produit de contraste en cas d'échographie atypique, de cancer connu ou d'hépatopathie (**cirrhose** ++; alternative avec injection: échographie ou scanner).
 
 ### Biopsie hépatique
 

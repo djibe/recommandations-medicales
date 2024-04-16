@@ -25,14 +25,13 @@ todo = "rankok, reco enfant 2022, comment diag quand rosacée, dépistage en AIN
 {{%article-summary%}}
 
 - Dépistage d'*Helicobacter pylori* par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication
+- Signes d'alarmes en cas de symptômes digestifs hauts: dysphagie, amaigrissement, anémie
 - Endoscopie gastrique si symptômes ou facteurs de risque de cancer de l'estomac
-- Reporter le traitement d'éradication si grossesse/allaitement
+- Reporter le traitement d'éradication en cas de grossesse ou d'allaitement
 - Privilégier le traitement adapté à l'antibiogramme d'*Helicobacter pylori* +++
 - Posologie de l'amoxicilline: 50 mg/kg/j en 3-4 prises (max 6 g/j)
 - 2 IPP à privilégier: ésoméprazole 40 ou rabéprazole 20 mg (sauf oméprazole pour Bismuth), matin et soir
-- {{< modal-btn modal-test-respi >}}Contrôle de l'éradication{{< /modal-btn >}} systématique avec le test à l'urée marquée
-- Signes d'alarmes en cas de symptômes digestifs hauts:  
-  Dysphagie, amaigrissement, anémie.
+- {{< modal-btn modal-test-respi >}}Contrôle de l'éradication{{< /modal-btn >}} systématique avec le test à l'urée marquée à 1 mois
 
 {{%/article-summary%}}
 {{%collapse "Comment traiter Helicobacter pylori ?" "show" %}}
@@ -93,7 +92,7 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
         <li>Traitement probabiliste au choix
           <p>Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j) + Clarithromycine 500 x 2/j + Métronidazole 500 x 2/j + ésoméprazole 40 mg x 2/j pendant 14 jours</p>
           <p>OU Pylera® 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours<br>
-          (si macrolide récent ou allergie à l'amoxicilline pour HAS/SPILF)</p>
+          (selon HAS/SPILF: si macrolide récent ou allergie à l'amoxicilline)</p>
         </li>
       </ul>
       <p class="typography-overline text-black-secondary pt-2">2<sup>e</sup> ligne</p>
@@ -433,32 +432,6 @@ La recherche de l'**antigène fécal** d'*H. pylori* est une alternative au test
 {{% /collapse %}}
 {{%collapse "Conduite à tenir en présence de Helicobacter pylori" "show" %}}
 
-{{< mermaid title="Prise en charge de l'infection à Helicobacter pylori avec résultat d'antibiogramme. Dr JB Fron d'après HAS, SPILF et GEFH 2021" >}}
-graph TB
-accTitle: Prise en charge de l'infection à Helicobacter pylori avec résultat d'antibiogramme d'après GEFH 2021
-  asymptomatique["<b>Asymptomatique</b><br>—<br>- &lt; 45 ans et ATCD K gastrique 1<sup>er</sup> degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em> ")
-  style asymptomatique stroke:#4150f5, stroke-width:1px
-    serologie -- Négative --> indemne(Pas d'infection active)
-    serologie -- Positive/Douteuse --> gastro
-  suspicion["<b>Symptomatique</b><br>—<br>- Suspicion d'ulcère<br>- Dyspepsie chez &gt; 40 ans<br>- Signe d'alarme"] --> gastro("<b>Gastro-entérologue</b><br>EOGD")
-  style suspicion stroke:#4150f5, stroke-width:1px
-  suspect["<b>Comorbidités</b><br>—<br>- ≥ 45 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
-  style suspect stroke:#4150f5, stroke-width:1px
-    gastro -- H. pylori + ---> grossesse("Grossesse ou<br>allaitement ?")
-      grossesse == Non ===> antibiogramme("<b>Antibiogramme</b><br>Sensible clarithromycine?")
-        antibiogramme == Sensible ==> triAmox("<b>Trithérapie 10-14j</b><br>IPP + amoxicilline<br>+ clarithromycine")
-          triAmox ===> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et ≥ 2 semaines sans IPP")
-        antibiogramme -- Résistant --> levofloS("Sensible lévofloxacine ?")
-          levofloS -- Sensible --> levoflo("<b>Trithérapie 10-14j</b><br>IPP + amoxicilline<br>+ lévofloxacine") --> controle
-          levofloS -- Résistant --> levofloR("<b>Quadrithérapie 10j</b><br>Oméprazole + Bismuth<br>—<br>OU IPP + amoxicilline<br>+ métronidazole 14j<br>(GEFH uniquement)") --> controle
-          controle -- Négatif --> ok(Bactérie éradiquée)
-          controle -- Positif --> bismuth("Oméprazole + Bismuth 10j<br>&#40;si non utilisé&#41;")
-            bismuth --> controle2(Test respiratoire) -- Négatif --> ok
-              controle2 -- Positif --> final("- ClariS: amox + clari + IPP 14j<br>- Clari-R-Quinolone-S: amox + lévoflo + IPP 14j<br>- Double résistance: avis du GEFH")
-        antibiogramme -- Allergie péni --> bismuth
-      grossesse -- Oui --> reporter(Reporter le<br>traitement)
-{{< /mermaid >}}
-
 ### Traitement probabiliste en l'absence de l'antibiogramme de *H. pylori*
 
 {{< mermaid title="Prise en charge de l'infection à Helicobacter pylori sans antibiogramme. Dr JB Fron d'après HAS, SPILF et GEFH 2021" >}}
@@ -489,6 +462,34 @@ accTitle: Prise en charge de l'infection à Helicobacter pylori sans antibiogram
 {{< /mermaid >}}
 
 > **EOGD =** gastroscopie avec biopsies et antibiogramme
+
+### Traitement d'Helicobacter guidé par l'antibiogramme
+
+{{< mermaid title="Prise en charge de l'infection à Helicobacter pylori avec résultat d'antibiogramme. Dr JB Fron d'après HAS, SPILF et GEFH 2021" >}}
+graph TB
+accTitle: Prise en charge de l'infection à Helicobacter pylori avec résultat d'antibiogramme d'après GEFH 2021
+  asymptomatique["<b>Asymptomatique</b><br>—<br>- &lt; 45 ans et ATCD K gastrique 1<sup>er</sup> degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em> ")
+  style asymptomatique stroke:#4150f5, stroke-width:1px
+    serologie -- Négative --> indemne(Pas d'infection active)
+    serologie -- Positive/Douteuse --> gastro
+  suspicion["<b>Symptomatique</b><br>—<br>- Suspicion d'ulcère<br>- Dyspepsie chez &gt; 40 ans<br>- Signe d'alarme"] --> gastro("<b>Gastro-entérologue</b><br>EOGD")
+  style suspicion stroke:#4150f5, stroke-width:1px
+  suspect["<b>Comorbidités</b><br>—<br>- ≥ 45 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
+  style suspect stroke:#4150f5, stroke-width:1px
+    gastro -- H. pylori + ---> grossesse("Grossesse ou<br>allaitement ?")
+      grossesse == Non ===> antibiogramme("<b>Antibiogramme</b><br>Sensible clarithromycine?")
+        antibiogramme == Sensible ==> triAmox("<b>Trithérapie 10-14j</b><br>IPP + amoxicilline<br>+ clarithromycine")
+          triAmox ===> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et ≥ 2 semaines sans IPP")
+        antibiogramme -- Résistant --> levofloS("Sensible lévofloxacine ?")
+          levofloS -- Sensible --> levoflo("<b>Trithérapie 10-14j</b><br>IPP + amoxicilline<br>+ lévofloxacine") --> controle
+          levofloS -- Résistant --> levofloR("<b>Quadrithérapie 10j</b><br>Oméprazole + Bismuth<br>—<br>OU IPP + amoxicilline<br>+ métronidazole 14j<br>(GEFH uniquement)") --> controle
+          controle -- Négatif --> ok(Bactérie éradiquée)
+          controle -- Positif --> bismuth("Oméprazole + Bismuth 10j<br>&#40;si non utilisé&#41;")
+            bismuth --> controle2(Test respiratoire) -- Négatif --> ok
+              controle2 -- Positif --> final("- ClariS: amox + clari + IPP 14j<br>- Clari-R-Quinolone-S: amox + lévoflo + IPP 14j<br>- Double résistance: avis du GEFH")
+        antibiogramme -- Allergie péni --> bismuth
+      grossesse -- Oui --> reporter(Reporter le<br>traitement)
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

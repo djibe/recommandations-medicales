@@ -295,4 +295,8 @@ Patient avec valve mécanique, anticoagulé par AVK ou enfant traité par AVK ay
 - [Afssaps. Les médicamentents antivitamine K (AVK) : Conseils pratiques pour le personnel soignant. Avril 2009.](http://www.omedit-centre.fr/NEVEREVENTAVK_web_gen_web/res/avkConseilsPersonnelSoignant__1_.pdf)
 - [HAS. Prise en charge des surdosages, des situations à risque hémorragique et des accidents hémorragiques chez les patients traités par antivitamines K en ville et en milieu hospitalier. Avril 2008.](https://www.has-sante.fr/jcms/c_682188/fr/prise-en-charge-des-surdosages-des-situations-a-risque-hemorragique-et-des-accidents-hemorragiques-chez-les-patients-traites-par-antivitamines-k-en-ville-et-en-milieu-hospitalier)
 
+### Bibliographie en attente
+
+[Rahman AA et al. Concomitant Use of Selective Serotonin Reuptake Inhibitors With Oral Anticoagulants and Risk of Major Bleeding. JAMA Netw Open. 2024.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2816687)
+
 {{%/sources%}}

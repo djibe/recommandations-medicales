@@ -9,7 +9,7 @@ publishdate = "2020-09-02"
 lastmod = "2023-05-17"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2020"
-sources = ["EADV", "SPILF", "SFDermato"]
+sources = ["EADV", "SPILF", "SFD"]
 tags = ["depistage", "HSH", "IST", "prevention", "VIH"]
 anglais = ["Syphilis"]
 sctid = "76272004"
@@ -381,7 +381,7 @@ Galerie de photos de syphilis à des stades différents.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une syphilis" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le diagnostic et la prise en charge de la syphilis. Dr JB Fron d'après EADV 2020 et SFDermato 2016" >}}
+{{< mermaid title="Conduite à tenir pour le diagnostic et la prise en charge de la syphilis. Dr JB Fron d'après EADV 2020 et SFD 2016" >}}
 graph TB
   chancre[Chancre] -- Syphilis primaire --> ttt("- VDRL, sérologies IST<br>- BPG 2,4 MUI IM unique<br>- Paracétamol<br>- Dépistage contacts &lt; 3 mois")
   style chancre stroke:#4150f5, stroke-width:1px

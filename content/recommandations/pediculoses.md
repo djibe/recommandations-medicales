@@ -9,7 +9,7 @@ publishdate = "2021-04-21"
 lastmod = "2023-12-05"
 specialites = ["dermatologie"]
 annees = "2023"
-sources = ["Collèges", "CSHP", "SFDermato"]
+sources = ["Collèges", "CSHP", "SFD"]
 tags = ["prurit"]
 anglais = ["Pediculosis", "head lice"]
 sctid = "20848007"
@@ -152,7 +152,7 @@ graph TB
 - [CMIT. Gale et pédiculose. Item 171. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-171.pdf)
 - Prescrire Redaction. Pédiculose du cuir chevelu. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Jegou-Penouil MH. Les poux. Dermato-Info. 02/12/2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/les-poux)
-- [Chosidow O; SFDermato. Prise en charge de la pédiculose du cuir chevelu en 2019 en France. Mise au point. Novembre 2019. (PDF)](https://www.sfdermato.org/media/pdf/actualite/note-pediculos-sfd-gridist-51283d08cd07c9ac26310a6d2669ff30.pdf)
+- [Chosidow O; Société Française de Dermatologie. Prise en charge de la pédiculose du cuir chevelu en 2019 en France. Mise au point. Novembre 2019. (PDF)](https://www.sfdermato.org/media/pdf/actualite/note-pediculos-sfd-gridist-51283d08cd07c9ac26310a6d2669ff30.pdf)
 - [Conseil Supérieur d'Hygiène Publique de France. Avis relatif à la conduite à tenir devant un sujet atteint de pédiculose du cuir chevelu. 27/06/2003. (PDF)](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=a_mt_270603_pediculose.pdf)
 
 ### Bibliographie en attente

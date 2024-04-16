@@ -1537,8 +1537,12 @@ div.mermaidTooltip {
 }
 
 // Utilities
+.bg-primary-light {
+  background-color: var(--primary-light);
+}
+
 .bg-light {
-  background: #fafafa !important;
+  background-color: #fafafa !important;
 }
 
 .letter-spacing-normal {

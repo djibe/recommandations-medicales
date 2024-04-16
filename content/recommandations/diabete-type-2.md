@@ -143,7 +143,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 - En cas de grossesse: les objectifs glycémiques sont identiques au [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
 
 <div class="card-util">
-<div class="border rounded-lg p-4 my-4">
+<div class="bg-primary-light rounded-lg p-4 my-4">
   <div class="m-0">
     <legend>Comorbidités</legend>
     <input type="radio" name="assistant" id="standard" class="d-input-none" checked>

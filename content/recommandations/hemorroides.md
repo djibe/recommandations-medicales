@@ -99,7 +99,7 @@ Les hémorroïdes internes ne sont visibles qu'en anuscopie et nécessitent donc
 
 ### Coloscopie
 
-Indications à réaliser une coloscopie:
+Indications à la coloscopie:
 
 - +50 ans sans coloscopie dans les 10 ans
 - +40 ans ou 10 ans avant l'âge de survenue d'un [cancer colorectal (CCR)]({{< relref "cancer-colorectal.md" >}}) au premier degré avant 60 ans

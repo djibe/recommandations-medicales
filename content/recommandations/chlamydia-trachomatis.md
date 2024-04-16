@@ -7,7 +7,7 @@ synonyms = ["Chlamydiose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-28T12:09:00+02:00"
 publishdate = "2021-03-28"
-lastmod = "2022-12-08"
+lastmod = "2024-04-15"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["HAS", "SPILF"]
@@ -16,20 +16,20 @@ anglais = ["Chlamydia trachomatis infection"]
 sctid = "240589008"
 icd10 = "A74.9"
 image = true
-imageSrc = "Frottis cervical avec Chlamydia trachomatis dans des vacuoles en grossissement 500. Dr. Lance Liotta Laboratory via Wikimedia Commons"
-todo = "orchiépididymite, améliorer clinique, flowchart"
+imageSrc = "Frottis cervical avec Chlamydia trachomatis dans des vacuoles en grossissement 500. Dr Lance Liotta Laboratory via Wikimedia Commons"
+todo = "améliorer clinique, flowchart"
 +++
 
 {{%article-summary%}}
 
-- Dépister largement les *Chlamydia trachomatis* (voir *Qui dépister ?*), tous les 3-6 mois chez [les HSH]({{< relref "hsh.md" >}})
+- Dépister largement les *Chlamydia trachomatis* (voir *Qui dépister ?*), tous les 3 à 6 mois chez [les HSH]({{< relref "hsh.md" >}})
 - PCR *Chlamydia trachomatis* sur auto-prélèvement vaginal ou premier jet d'urine pour les hommes
-- Prélèvement des autres sites selon les pratiques
-- Prise en charge par antibiothérapie doxycycline 100 mg x 2/j 7 jours OU azithromycine 1g dose unique + traitement du partenaire + préservatif 7 jours
+- Prélèvement des autres sites selon les pratiques (pharynx, anus)
+- Prise en charge par des *Chlamydia* par antibiothérapie doxycycline 100 mg x 2/j pendant 7 jours OU azithromycine 1g dose unique avec traitement du partenaire et préservatif pendant 7 jours
 - Dépistage des [autres infections sexuellement transmissibles (IST)](/tags/ist/) et des partenaires des 12 derniers mois
-- Contrôle de l'éradication des *Chlamydia* à 6 mois
+- Contrôle de l'éradication des *Chlamydia* à 6 mois par de nouveaux prélèvements
 
-Renseigner sur la [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}}) toute personne exposée au VIH
+Chapitres liés: [urétrite et orchi-épididymite]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}), [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -53,8 +53,8 @@ GEU
 HSH
 : homme ayant des rapports sexuels avec des hommes
 
-IST
-: infection sexuellement transmissible (ex maladie sexuellement transmissible MST)
+[IST](/tags/ist/)
+: infection sexuellement transmissible (*ex* maladie sexuellement transmissible MST)
 
 PVVIH
 : personne vivant avec le VIH
@@ -149,7 +149,7 @@ PCR de contrôle à 6 mois
 - Traiter simultanément le partenaire
 - Préservatif pendant 7 jours
 - Consultation de contrôle à J7 pour guérison clinique, résultats du bilan IST et conseils de prévention
-- [HSH]({{< relref "hsh.md" >}}): PCR répétée tous les **3-6 mois**
+- [HSH]({{< relref "hsh.md" >}}): PCR répétées tous les **3-6 mois**
 - Contacter les partenaires des 12 derniers mois
 - Dépistage des autres [IST](/tags/ist/)  
   Gonocoque, trichomonase, [syphilis]({{< relref "syphilis.md" >}}), [VIH]({{< relref "vih-sida.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}).
@@ -164,6 +164,7 @@ PCR de contrôle à 6 mois
 {{% /collapse %}}
 {{%sources%}}
 
+- [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-162.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - Prescrire Redaction. Chlamydiose liée à un rapport sexuel. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Santé Publique France. Chlamydiae. 01/12/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/chlamydiae)
@@ -174,7 +175,6 @@ PCR de contrôle à 6 mois
 
 ### Bibliographie en attente
 
-- [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-162-web.pdf)
-- [Lymphogranulome vénérienne (Maladie de Nicolas Favre)](https://www.sfdermato.org/upload/recommandations/lymphogranulome-venerien-maladie-de-nicolas-favre-1d34056eed4de0eb0768b25f7b4e3517.pdf)
+[Caumes E et al; Société Française de Dermatologie. Lymphogranulome vénérien (Maladie de Nicolas Favre). 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/lymphogranulome-venerien-maladie-de-nicolas-favre-1d34056eed4de0eb0768b25f7b4e3517.pdf)
 
 {{%/sources%}}

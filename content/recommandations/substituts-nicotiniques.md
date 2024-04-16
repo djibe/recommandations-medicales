@@ -25,7 +25,7 @@ flowchart = true
 
 Liste des substituts nicotiniques remboursés sur prescription par la Sécurité Sociale en 2024, sans limite de remboursement en vue de [l'arrêt du tabac]({{< relref "arret-tabac.md" >}}).
 
-<div class="card card-body card-primary-action rounded-lg mw-248" role="button" data-toggle="modal" data-target="#modal-fagerstrom" style="background: var(--bg-hex)">
+<div class="card card-body card-primary-action bg-primary-light rounded-lg mw-248" role="button" data-toggle="modal" data-target="#modal-fagerstrom">
   <h3 class="card-title">Évaluer la dépendance tabagique avec le test de Fagerström</h3>
 </div>
 <hr class="my-5">

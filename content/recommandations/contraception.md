@@ -32,7 +32,7 @@ flowchart = true
 - Contraceptions très efficaces de première intention: contraception œstroprogestative, stérilet, implant
 - Démarrer une contraception hormonale: débuter le *1er jour des règles*  
   ou démarrage à tout moment du cycle: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1<sup>re</sup> plaquette.
-- Informer sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) et informer sur la surveillance des troubles de l'humeur (dépression)
+- Informer sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}}), savoir [gérer un oubli de pilule](https://www.oubli.formagyn.fr), et informer sur la surveillance des troubles de l'humeur (dépression)
 - Pas d'interaction DIU et anti-inflammatoires AINS
 
 Les contraceptions définitives ne sont pas encore traitées.
@@ -674,6 +674,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Faculty of Sexual and Reproductive Healthcare (FSRH). FSRH Guidelines & Statements.](https://www.fsrh.org/standards-and-guidance/fsrh-guidelines-and-statements/)
 - [HAS. Stérilisation à visée contraceptive chez l'homme et chez la femme. 2019.](https://www.has-sante.fr/jcms/c_1752765/fr/sterilisation-a-visee-contraceptive-chez-l-homme-et-chez-la-femme)
 - [HAS. Contraception chez l'homme. 2019.](https://www.has-sante.fr/jcms/c_1757909/fr/contraception-chez-l-homme)
 - [HAS. Efficacité des méthodes contraceptives. 2014.](https://www.has-sante.fr/jcms/c_1757924/fr/efficacite-des-methodes-contraceptives)

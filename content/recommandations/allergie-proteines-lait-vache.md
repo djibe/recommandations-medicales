@@ -101,6 +101,7 @@ Nécessaire chez < 2% des enfants.
 
 ### Bibliographie en attente
 
-[Couderc L, Mouterde O, Marguet C; SFP. Allergie aux protéines du lait de vache. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/allergo-pneumo/reintroduction-des-proteines-de-lait-de-vache)
+- [Ulicny K, Orr M. Clinical guideline highlights for the hospitalist: Evaluation, management, and prevention of cow's milk allergy. J Hosp Med. 2024.](https://shmpublications.onlinelibrary.wiley.com/doi/10.1002/jhm.13337)
+- [Couderc L et al; SFP. Allergie aux protéines du lait de vache. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/allergo-pneumo/reintroduction-des-proteines-de-lait-de-vache)
 
 {{%/sources%}}

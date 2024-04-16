@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-17T11:25:20+01:00"
 publishdate = "2023-01-19"
-lastmod = "2024-04-05"
+lastmod = "2024-04-15"
 specialites = ["urologie"]
 annees = "2024"
-sources = ["EAU", "HAS", "SFDermato"]
+sources = ["EAU", "HAS", "SFD"]
 tags = ["HSH", "IST"]
 anglais = ["Urethritis", "epididymitis"]
 sctid = "128478005"
@@ -51,7 +51,7 @@ PNN
 : polynucléaire neutrophile (globule blanc)
 
 SFD
-: Société Française de Dermatologie (ou SFDermato)
+: Société Française de Dermatologie
 
 UNG
 : urétrite non gonococcique
@@ -178,7 +178,7 @@ Mesures associées:
 - Si persistance des symptômes après 72 heures: consultation de contrôle avec les résultats
 - Gonococcie: déclaration anonyme à l'ARS (*CMIT*)
 
-> *HAS 2021* et *EAU 2024*
+> – *HAS 2021* et *EAU 2024*
 
 {{% /collapse %}}
 {{%collapse "Épididymite et orchi-épididymite" %}}
@@ -254,15 +254,15 @@ Mesures associées au traitement de l'orchiépididymite:
 
 Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques en cas de récidive.
 
-> *EAU 2024* et *SFD 2016*
+> – *EAU 2024* et *SFD 2016*
 
 {{% /collapse %}}
 {{%sources%}}
 
 - [Bonkat G et al. EAU guidelines on urological infections. 2024.](https://uroweb.org/guidelines/urological-infections)
+- [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-162.pdf)
 - [CMIT, SFMTSI, SPILF, SMV. Écoulement urétral chez l'homme. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
-- [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-162-web.pdf)
 - {{< references/spilf-2020 >}}
 - [Gerhardt P et al; Société Française de Dermatologie (SFD). Urétrite masculine. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/uretrite-masculine-61ed71f0cf1553f5b94bbb4214d5905e.pdf)
 - [Janier M et al; Société Française de Dermatologie (SFD). Orchiépididymite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/orchiepididymite-e11608a96bbf138a1ce4045e283aa71a.pdf)
@@ -271,6 +271,6 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 
 ### Bibliographie en attente
 
-- [Janier M et al; Société Française de Dermatologie (SFD). Balanite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/balanites-f5f2cf585640275406ec42b19340d0c8.pdf)
+[Janier M et al; Société Française de Dermatologie (SFD). Balanite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/balanites-f5f2cf585640275406ec42b19340d0c8.pdf)
 
 {{%/sources%}}

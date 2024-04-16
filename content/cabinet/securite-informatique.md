@@ -59,6 +59,8 @@ Les gestionnaires de mots de passe dédiés recommandés sont: 1Password, Bitwar
 
 ## Formations gratuites sur la cybersécurité
 
+{{< card-link-external title="SensCyber" url="https://www.cybermalveillance.gouv.fr/sens-cyber/apprendre" subtitle="Le site officiel CyberMalveillance du gouvernement" >}}
+
 {{< card-link-external title="Cours sur la sécurité" url="https://esante-formation.coorpacademy.com/catalog?goal=cert_hZZ6wT4v69" subtitle="par l'Agence du Numérique en Santé" >}}
 
 ## Sources

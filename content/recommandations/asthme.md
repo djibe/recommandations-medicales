@@ -344,7 +344,7 @@ Reconnaissance de la crise d'asthme par le patient et application du *plan d'act
 
 ### Le plan d'action écrit
 
-<!--<div class="card card-body border shadow-none my-2 flex-row justify-content-between" style="background-color: rgba(var(--bg-rgb), 0.05)">
+<!--<div class="card card-body bg-primary-light shadow-none my-2 flex-row justify-content-between">
   <div>
     <p class="typography-overline">Âge</p>
     <input type="radio" name="asthme-age" id="enfant" class="d-input-none" required>

@@ -10,7 +10,7 @@ publishdate = "2020-10-27"
 lastmod = "2023-06-01"
 specialites = ["allergologie", "dermatologie"]
 annees = "2021"
-sources = ["SFDermato", "CEDEF"]
+sources = ["SFD", "CEDEF"]
 tags = ["prurit"]
 anglais = ["Urticaria"]
 sctid = "126485001"
@@ -222,7 +222,7 @@ Aucun examen complémentaire n'est recommandé devant une urticaire chronique ba
 - Anticorps anti-TPO  
   et TSH si anticorps positifs.
 
-> – *Consensus ANAES/SFDermato 2003*
+> – *Consensus ANAES/SFD 2003*
 
 En cas de syndrome inflammatoire biologique, d'anomalie de la NFS ou de signes cliniques évocateurs:
 

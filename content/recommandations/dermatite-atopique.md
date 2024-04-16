@@ -10,7 +10,7 @@ publishdate = "2021-11-29"
 lastmod = "2024-03-22"
 specialites = ["allergologie", "dermatologie"]
 annees = "2020"
-sources = ["EADV", "SFDermato", "CEDEF"]
+sources = ["EADV", "SFD", "CEDEF"]
 tags = ["atopie", "prurit"]
 anglais = ["Atopic dermatitis (AD)"]
 sctid = "24079001"
@@ -285,12 +285,10 @@ accTitle: Conduite à tenir devant une suspicion de dermatite atopique et prise 
 - [Staumont D. La dermatite atopique. Dermato-Info. 29/05/2021.](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-dermatite-atopique)
 - [Wollenberg A et al; European Task Force on Atopic Dermatitis/EADV Eczema Task Force. ETFAD/EADV Eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children. J Eur Acad Dermatol Venereol. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16892)
 - Prescrire Redaction. Eczéma atopique des nourrissons. Rev Prescrire. 2017.
-- Collège des enseignants de dermatologie de France (CEDEF), Staumont D. Dermatite atopique. Item 163 UE 7. 2017.
-- [SFDermato. Prise en charge de la dermatite atopique de l'enfant. Ann Dermatol Venereol. 2005. (PDF)](https://www.sfdermato.org/upload/recommandations/da-court-21929906693b437d6f4315bef48d1518.pdf)
+- [Société Française de Dermatologie. Prise en charge de la dermatite atopique de l'enfant (texte court). Ann Dermatol Venereol. 2005. (PDF)](https://www.sfdermato.org/upload/recommandations/da-court-21929906693b437d6f4315bef48d1518.pdf)
 
 ### Bibliographie en attente
 
-- [Werfel T et al. S3 Guideline Atopic dermatitis: Part 1 - General aspects, topical and non-drug therapies, special patient groups. J Dtsch Dermatol Ges. 2024.](https://onlinelibrary.wiley.com/doi/10.1111/ddg.15230)
 - [European Dermatology Forum. Living EuroGuiDerm Guideline for the systemic treatment of Atopic Eczema. 2023.](https://www.guidelines.edf.one/guidelines/atopic-ezcema)
 - [Xu AZ, Alexander JT. Topical Therapies for Atopic Dermatitis. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811421)
 
