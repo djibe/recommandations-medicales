@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2024-03-04"
+lastmod = "2024-04-17"
 specialites = ["gynecologie-obstetrique", "therapeutique", "urologie"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -172,7 +172,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 > La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares – *CNGOF 2018*
 {.alert .alert-info}
 
-{{< table title="Spécialités de contraception disponibles en France en 2024 (sauf dernières générations et DMPA qui augmentent le risque vasculaire). Dr JB Fron d'après BDPM" class="table-wrap" id="table-pilule" >}}
+{{< table title="Spécialités de contraception disponibles en France en 2024 (sauf dernières générations et DMPA qui augmentent le risque vasculaire) et préservatifs remboursés. Dr JB Fron d'après BDPM et Assurance Maladie" class="table-wrap" id="table-pilule" >}}
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
 |-------------|---------:|------------------|-----------------|
 | 2G          | 30/40    | LNG 0,15-0,2     | Adepal, Pacilia |
@@ -188,7 +188,8 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 | Patch       | 20       | Norelgestromine 0,15 | NR: Evra (18-45 ans, < 90 kg) |
 | DIU cuivre  | 0        | 0                | 7Med, CCD, Mona Lisa. [Liste](http://bluegyn.com/gynorama/fiche-dequivalence-diu-ccd/) et [autre liste (PDF)](http://www.apima.org/img_bronner/Tableau_contraceptifs.pdf) |
 | DIU         | 0        | LNG              | Donasert, Jaydess, Kyleena, Mirena |
-| Préservatif | 0        | 0                | Eden, Sortez couverts ! |
+| Préservatif | 0        | 0                | Be Loved, Eden, Sortez couverts ! Terpan |
+| Cape cervicale | 0     | 0                | Ormelle, Terpan  |
 {{< /table >}}
 
 > **EE** = éthinyl-estradiol ; **gén** = générique ; **LNG** = lévonorgestrel ; **NR** = non remboursé. Les pilules de 1<sup>re</sup> génération ne sont plus disponibles en France.  

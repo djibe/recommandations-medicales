@@ -31,7 +31,7 @@ todo = "flow"
 {{%collapse "Définition" %}}
 
 Cancer de la vessie
-: Carcinome urothélial (à 95 %), le plus souvent sans infiltration du muscle vésical (tumeur de vessie non infiltrante du muscle TVNIM, 75%) avec un risque de récidive est très élevé (50-70 % pour les TVNIM).
+: Carcinome urothélial (à 95 %), le plus souvent sans infiltration du muscle vésical (tumeur de vessie non infiltrante du muscle TVNIM, 75%) avec un risque de récidive très élevé (50-70 % pour les TVNIM).
 
 ### Facteurs de risque de cancer de la vessie
 
@@ -116,14 +116,14 @@ Le bilan est semi-urgent:
 - NFS
 - Créatininémie, DFG
 - Cytologie urinaire (hors urines du matin)
-- Échographie des voies urinaires par voie sus-pubienne (ou uroscanner, *EAU 2024*)
+- Échographie des voies urinaires par voie sus-pubienne (ou uroscanner selon l'*EAU 2024*)
 {{%/info%}}
 
 > Une cytologie ou une échographie normales n'éliminent pas le diagnostic.
 
 ### Pour en savoir plus: bilan complémentaire
 
-La **cystoscopie diagnostique** relève de l'urologue avec copeaux de résection transurétrale de vessie (RTUV) pour affirmer le diagnostic de cancer de la vessie.
+La **cystoscopie diagnostique** relève de l'urologue avec copeaux de résection transurétrale de vessie (RTUV) à visée anatomopathologique pour affirmer le diagnostic de cancer de la vessie.
 
 Le bilan d'extension du cancer comporte:
 

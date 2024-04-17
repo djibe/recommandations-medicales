@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2024-01-28"
+lastmod = "2024-04-17"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["SFD", "ESC", "ESH", "ADA", "EASD", "KDIGO", "HAS"]
@@ -25,7 +25,7 @@ todo = "socrisktest, WATCH-DM ESC2023 src480; EASD 2021 Table 2.3 et 2.4, https:
 
 Ce chapitre intègre les dernières recommandations SFD, ADA, ESC et ESH 2023 et ADA/EASD 2022 pour la prise en charge du diabète de type 2.
 
-- Dépister régulièrement un diabète si: +35 ans, prédiabète (annuel), diabète gestationnel (max 3 ans), VIH, surpoids avec autre facteur de risque (antécédent familial, maladie cardiovasculaire, origines africaines/asiatiques/pacifiques, hypertension, HDL < 0,35 g/L, TG > 2,5 g/L, inactivité physique, [stéatose hépatique]({{< relref "steatose-hepatique-et-nash.md" >}}), acanthosis nigricans), [Socrisktest](https://diabetes.org/diabetes-risk-test) ≥ 5 (*ADA 2023*)
+- Dépister régulièrement un diabète si: +35 ans, prédiabète (annuel), diabète gestationnel (max tous les 3 ans), VIH, surpoids avec autre facteur de risque (antécédent familial, maladie cardiovasculaire, origines africaines/asiatiques/pacifiques, hypertension, HDL < 0,35 g/L, TG > 2,5 g/L, inactivité physique, [stéatose hépatique]({{< relref "steatose-hepatique-et-nash.md" >}}), acanthosis nigricans), Socrisktest ≥ 5 (*ADA 2023*)
 - Pour chaque personne vivant avec un diabète: définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
 - {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7%) et {{< modal-btn modal-hba1c-faussee >}}situations où l'HbA1c n'est pas fiable{{< /modal-btn >}}
 - Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}} rarement
@@ -323,9 +323,9 @@ window.addEventListener('load', () => {
 | Aspirine prev secondaire | 75-100 mg/j si coronarien ou revascularisation<br>75-160 mg/j ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ESC 2023 diabetes<br>ADA 2023, ESC 2019 diabetes |
 | [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) | Femmes à haut risque: éducation, correction des FRCV  | ESC 2023 diabetes        |
 | Boulimie et TCA | {{< modal-btn modal-scoff >}}Questionnaire SCOFF{{< /modal-btn >}} pour le dépistage          | HAS 2019                 |
-| [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) | - Diabète < 12 mois: ≥ 50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>- Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
+| [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) | Scanner AP injecté si:<br>- Diabète < 12 mois: ≥ 50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>- Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
 | Cardiologue  | Suivi annuel                                                                                     | HAS 2014                 |
-| Chirurgie bariatrique | -65 ans avec IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH OU IMC ≥ 30 en dernier recours | HAS 2022 et 2009 obésité |
+| Chirurgie bariatrique | < 65 ans avec IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH OU IMC ≥ 30 en dernier recours | HAS 2022 et 2009 obésité |
 | [Covid-19]({{< relref "covid-19.md" >}}) | Antiviral en urgence si infection Covid-19                           | HAS 2023                 |
 | Dentaire     | Suivi annuel                                                                                     | HAS 2014, IDF 2009       |
 | [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) | Interrogatoire systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018 |
@@ -360,8 +360,8 @@ window.addEventListener('load', () => {
   - 1 lecteur remboursé tous les 4 ans
   - **Indications à l'autosurveillance glycémique:** insuline envisagée ou en cours, insulinosécréteur avec suspicion d'hypoglycémie, visée pédagogique en cible non atteinte, déséquilibre aigu (infection, corticoïdes, suspension du traitement), (désir de) grossesse
 - Capteur de glycémie
-  - Indications pour le remboursement chez patient atteint depuis plus de 4 ans si: insulinothérapie intensifiée (pompe ou ≥ 3 injections quotidiennes) et pratiquant une ASG ≥ 3/j  
-    OU insulinothérapie non intensifiée (< 3/j) avec déséquilibre (HbA1c ≥ 8%) (*[HAS 2022 (PDF)](https://www.has-sante.fr/upload/docs/evamed/CNEDIMTS-6882_FREESTYLE%20LIBRE%202_18%20octobre%202022_(6882)_avis.pdf)*)
+  - Indications pour le remboursement chez patient atteint depuis plus de 4 ans si: insulinothérapie intensifiée (pompe ou ≥ 3 injections quotidiennes) et pratiquant une ASG ≥ 3/j
+  - OU insulinothérapie (< 3 injections/jour) avec déséquilibre (HbA1c ≥ 8%) (*[HAS 2022 (PDF)](https://www.has-sante.fr/upload/docs/evamed/CNEDIMTS-6882_FREESTYLE%20LIBRE%202_18%20octobre%202022_(6882)_avis.pdf)*)
   - Prescription initiale par endocrinologue
   - 26 capteurs/an remboursés ([Freestyle Libre 2](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043507006)) ou 36 si [Dexcom One](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047911730)
 - Stylo à insuline connecté (Novopen 6, Novopen Echo Plus)  

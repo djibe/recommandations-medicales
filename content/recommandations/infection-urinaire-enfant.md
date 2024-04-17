@@ -44,7 +44,7 @@ Chapitre lié: [infections urinaires de l'adulte]({{< relref "infection-urinaire
 Toutes les infections urinaires doivent être documentées chez l'enfant avant antibiothérapie:
 
 - Bandelette urinaire (BU) systématique à partir de l'âge de 1 mois
-- Examen cytobactériologique des urines (ECBU) si: BU avec leucocytes et/ou nitrates positifs, nouveau-né (< 1 mois), uropathie, neutropénie fébrile, signes fonctionnels urinaires, fièvre inexpliquée > 48 heures, [échelle de Pittsburgh](https://uticalc.pitt.edu)  
+- Examen cytobactériologique des urines (ECBU) si: BU avec leucocytes et/ou nitrites positifs, nouveau-né (< 1 mois), uropathie, neutropénie fébrile, signes fonctionnels urinaires, fièvre inexpliquée > 48 heures, [échelle de Pittsburgh](https://uticalc.pitt.edu)  
   Surtout: prélèvement au jet, cathéterisme urétral, ponction sus-pubienne.
 
 Une BU négative a une VPN > 90% (sauf nouveau-né, neutropénie ou sepsis). Les leucocytes ont une VPP très faible.
@@ -117,7 +117,7 @@ Adaptation à l'antibiogramme dès le rendu des résultats pour une totale (prob
 3. Si Enterococcus ou *Proteus sp.* sensibles: amoxicilline
 4. Céfixime + amoxicilline - clavulanique
 
-L'antibiothérapie pour pyélonéphrite aiguë de l'enfant a une durée totale (probabiliste + adaptée) de **10 jours**, sans contrôle de l'ECBU.
+L'antibiothérapie pour pyélonéphrite aiguë de l'enfant a une durée totale (antibiothérapie probabiliste + adaptée) de **10 jours**, sans contrôle de l'ECBU.
 
 Pas d'amoxicilline (± clavulanique) pour la pyélonéphrite de l'enfant.
 {.alert .alert-warning}

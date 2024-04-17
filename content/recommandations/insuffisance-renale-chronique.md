@@ -1,10 +1,10 @@
 +++
-title = "Insuffisance rénale chronique (IRC)"
+title = "Maladie rénale chronique (MRC) et insuffisance rénale chronique (IRC)"
 prefix = "l'"
-titleSeo = "Insuffisance rénale chronique"
-description = "Recommandations HAS et KDIGO pour la prise en charge de l'insuffisance rénale chronique. Clairance de la créatinine CKD-EPI, néphroprotection, IEC, statine ..."
+titleSeo = "Maladie et insuffisance rénale chronique"
+description = "Recommandations pour la prise en charge de la maladie rénale et l'insuffisance rénale chronique. Débit de filtration créatinine CKD-EPI, néphroprotection, IEC, statine"
 longHtml = true
-synonyms = ["et maladie rénale chronique (MRC)"]
+synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
@@ -24,7 +24,6 @@ todo = "Albuminurie perturbée, aliments riches K/P (HAS2023p71), désindexation
 
 {{% article-summary %}}
 
-- {{< modal-btn modal-creatinine >}}Situations où le débit de filtration estimé n'est pas fiable{{< /modal-btn >}}
 - Dépistage annuel des populations à risque d'insuffisance rénale chronique par créatininémie et albuminurie sur échantillon
 - 3 piliers de l'évaluation de la maladie rénale chronique: étiologie, DFG selon CKD-EPI et rapport albuminurie/créatininurie (RAC)
 - Toute personne avec une insuffisance rénale chronique est à {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
@@ -32,6 +31,7 @@ todo = "Albuminurie perturbée, aliments riches K/P (HAS2023p71), désindexation
   Arrêt du tabac, {{< modal-btn modal-nephrotoxiques >}}éviter les néphrotoxiques{{< /modal-btn >}}, tension cible < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}}, vaccin covid-19, activité physique
 - Traitements supplémentaires chez le diabétique (voir *Prise en charge*)
 - Adaptation des traitements selon la clairance {{< scores/ckd-epi >}}
+- {{< modal-btn modal-creatinine >}}Situations où le débit de filtration estimé n'est pas fiable{{< /modal-btn >}}
 - Avis néphrologique si: étiologie autre que diabète ou hypertension, DFGe < 45 (20 si âgé), évolutive ([score KFRE](https://kidneyfailurerisk.com), déclin rapide), albuminurie, complication, hypertension non contrôlée, traitement à {{< modal-btn modal-nephrotoxiques >}}marge thérapeutique étroite{{< /modal-btn >}}
 - Le suivi de la maladie rénale chronique de l'enfant relève exclusivement du néphrologue
 
@@ -42,16 +42,15 @@ Les stades de l'insuffisance rénale et de l'albuminurie sont dans la section su
 {.alert .alert-info}
 
 Maladie rénale chronique (MRC)
-: {{%lang%}}Chronic kidney disease{{%/lang%}}
-: Présence d'une *insuffisance rénale chronique* (IRC):  
-Diminution du *débit de filtration glomérulaire estimé* (DFGe) < 60 mL/min/1,73 m² (formule {{< scores/ckd-epi >}} à utiliser selon *KDIGO 2012*)  
-OU présence d'au moins un *marqueur d'atteinte rénale* persistant **plus de 3 mois**:  
+: **1) Présence d'une insuffisance rénale chronique (IRC)**:  
+Diminution du *débit de filtration glomérulaire estimé* (DFGe) < 60 mL/min/1,73 m² (formule {{< scores/ckd-epi >}})  
+**2) OU présence d'au moins un *marqueur d'atteinte rénale* persistant plus de 3 mois**:  
     - Albuminurie ou protéinurie
     - Hématurie > 10/mm³ (hors cause urologique)  
     - Leucocyturie > 10/mm³ (en l'absence d'infection)
     - Anomalie morphologique à l'échographie rénale  
       Asymétrie de taille, contours bosselés, reins de petite taille ou gros reins polykystiques, néphrocalcinose, kyste.
-: La maladie rénale chronique augmente le risque et la {{< modal-btn modal-rcv >}}mortalité cardiovasculaire{{< /modal-btn >}}.
+: La maladie rénale chronique augmente le risque et la {{< modal-btn modal-rcv >}}mortalité cardiovasculaires{{< /modal-btn >}}.
 : L'hypertension et la diabète sont responsables de la moitié des cas d'insuffisance rénale avec traitement de suppléance.
 
 Insuffisance rénale chronique terminale (IRCT)
@@ -200,7 +199,7 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 | A3    | &gt; 30 | &gt; 300 | &gt; 300 | Augmentée            |
 {{< /table >}}
 
-Le terme de *microalbuminurie* n'est plus utilisé
+Le terme de *microalbuminurie* n'est plus utilisé.
 {.alert .alert-warning}
 
 **NB.** Faux positifs pour une albuminurie (ou protéinurie): [infection urinaire]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), fièvre, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), protéinurie orthostatique, sport intense dans les 24h, menstruations, AINS, alimentation riche en protéines.
@@ -271,7 +270,7 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
 - ± NT-proBNP
 
 {{%/collapse %}}
-{{%collapse "Traitement de l'insuffisance rénale" %}}
+{{%collapse "Traitement de la maladie rénale chronique" %}}
 
 **Objectifs du traitement:** traiter la maladie causale, ralentir la progression de la maladie, prévenir le risque cardiovasculaire et les complications de la MRC.
 
@@ -479,7 +478,7 @@ Protection du capital veineux quand DFGe < 45 mL/min (pas de prélèvement des a
 Connaître les signes et symptômes de la maladie rénale chronique et savoir qui prévenir.
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir pour le dépistage de la maladie rénale chronique" "show" %}}
+{{%collapse "Prise en charge de la maladie rénale chronique" "show" %}}
 
 {{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge de la maladie rénale chronique. Dr JB Fron d'après HAS 2023 et KDIGO" >}}
 graph TB

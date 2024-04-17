@@ -7,7 +7,7 @@ synonyms = ["Hyperplasie bénigne de la prostate", "prostatisme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-04T10:52:08+02:00"
 publishdate = "2023-02-16"
-lastmod = "2024-04-05"
+lastmod = "2024-04-17"
 specialites = ["urologie"]
 annees = "2024"
 sources = ["EAU", "AFU"]
@@ -177,7 +177,7 @@ Le bilan urodynamique et les autres examens sont réservés à l'urologue.
 - Obstruction sévère ou complication  
   Symptômes sévères, rétention aiguë d'urines, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [prostatite aiguë]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), calcul ou diverticule de la vessie, résidu post-mictionnel > 100 mL.
 
-> *AFU 2023* et *2015*
+> – *AFU 2023* et *2015*
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hypertrophie bénigne de prostate HBP" %}}
@@ -251,18 +251,18 @@ Peut être associé à un alpha-bloquant (tamsulosine + dutastéride [Combodart�
 - Finastéride 5 mg (Chibro-Proscar®, gén)  
   Surveillance renforcée de l'ANSM pour troubles sexuels et psychiatriques.
 
+> Les I5AR entraînent une diminution du PSA de moitié. (*McConnell 2003*)
+{.alert .alert-info}
+
 ### Inhibiteurs de la phosphodiestérase de type 5 (IPDE5)
 
 Indication aux IPDE5: symptômes gênants avec ou sans [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}).
 
-[Tadalafil 5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62472584&typedoc=R) (Cialis® ou gén, seul avec l'AMM mais non remboursé) avec surveillance du PSA annuelle.
+[Tadalafil 5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62472584&typedoc=R) (Cialis® ou gén, seul avec l'AMM mais non remboursé).
 
 Utilisation possible en bithérapie avec un alpha-bloquant.
 
 **Effets indésirables:** hypotension artérielle, contraception efficace nécessaire (agénésie des organes génitaux).
-
-Les IPDE5 entraînent une diminution du PSA de moitié (*McConnell 2003*)
-{.alert .alert-info}
 
 ### Anticholinergiques
 
@@ -312,7 +312,6 @@ Le suivi du patient traité pour HBP est principalement clinique:
 - Symptômes urinaires ({{< modal-btn modal-ipss >}}score IPSS{{< /modal-btn >}})
 - Symptômes sexuels ({{< modal-btn modal-iief5 >}}score IIEF-5{{< /modal-btn >}})
 - Tolérance et efficacité des traitements
-- IPDE5 tadalafil: PSA annuel
 
 Avis urologique en cas de d'échec des traitements, de symptômes anormaux (hématurie), avant anticholinergique.
 
@@ -333,7 +332,7 @@ graph TB
 {{%sources%}}
 
 - [Cornu JN et al. EAU guidelines on management of non-neurogenic male lower urinary tract symptoms (LUTS). 2024.](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts)
-- [AFU. Bilans pré-thérapeutiques des troubles mictionnels de l'homme adulte - Label HAS. Recommander les bonnes pratiques. 2023.](https://www.has-sante.fr/jcms/p_3323646/fr/label-bilans-pre-therapeutiques-des-troubles-mictionnels-de-l-homme-adulte-modalites-et-acteurs)
+- [AFU. Bilans pré-thérapeutiques des troubles mictionnels de l'homme adulte. Recommander les bonnes pratiques. 2023.](https://www.has-sante.fr/jcms/p_3323646/fr/label-bilans-pre-therapeutiques-des-troubles-mictionnels-de-l-homme-adulte-modalites-et-acteurs)
 - Prescrire Redaction. Hypertrophie bénigne de la prostate. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Franco JVA et al. Serenoa repens for the treatment of lower urinary tract symptoms due to benign prostatic enlargement. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001423.pub4/full/fr)
 - Prescrire Redaction. Traitement de l'hypertrophie bénigne de la prostate. Rev Prescrire. 2023.

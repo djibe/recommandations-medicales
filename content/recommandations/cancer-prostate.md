@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr J. OLIVIER (AFU)"
 date = "2020-09-27T19:51:30+02:00"
 publishdate = "2020-09-27"
-lastmod = "2024-04-05"
+lastmod = "2024-04-17"
 specialites = ["urologie"]
 annees = "2024"
 sources = ["EAU", "AFU", "HAS", "USPTF"]
@@ -156,9 +156,9 @@ La plupart des hommes atteints par le cancer de la prostate sont asymptomatiques
 Risque diminué de cancer de la prostate si PSA < 1 ng/mL à 40 ans et < 2 à 60 ans.
 {{%/warning%}}
 
-**Rappel.** La mesure du PSA est faussée à la hausse par une prostatite, une [HBP]({{< relref "hypertrophie-benigne-prostate.md" >}}) ou à l'inverse à la baisse par un IPDE5 (HBP, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})).
+**Rappel.** La mesure du PSA est faussée à la hausse par une prostatite, une [HBP]({{< relref "hypertrophie-benigne-prostate.md" >}}) ou à l'inverse à la baisse par un I5AR (HBP, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})).
 
-En cas de prise d'IPDE5, doubler la valeur du PSA (*McConnell 2003*).
+> En cas de prise d'inhibiteur de la 5-alpha-réductase, doubler la valeur du PSA (*McConnell 2003*).
 
 {{%info%}}
 
@@ -245,8 +245,9 @@ Déclarer l'**[ALD n°30]({{< relref "affection-longue-duree.md" >}})**.
 
 Plusieurs stratégies thérapeutiques sont disponibles pour la prise en charge du cancer de la prostate: **prostatectomie totale, radiothérapie, hormonothérapie, surveillance active** (détaillée plus bas) voire une ***Abstention-surveillance*** (patient asymptomatique avec cancer localisé et espérance de vie < 10 ans).
 
-Toutes les techniques nécessitent un suivi spécialisé prolongé avec dosages réguliers du PSA: tous les 6 mois pendant 3 ans puis annuel.  
-Après prostatectomie totale, la cible du PSA est < 0,2 ng/mL à 6 semaines.
+Toutes les techniques nécessitent un suivi spécialisé prolongé avec dosages réguliers du PSA: tous les 6 mois pendant 3 ans puis annuel.
+
+> Après prostatectomie totale, la cible du PSA est < 0,2 ng/mL à 6 semaines.
 
 ### La surveillance active
 
