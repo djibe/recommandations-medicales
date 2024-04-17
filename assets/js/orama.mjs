@@ -2,7 +2,7 @@ import {
   create,
   search,
   insertMultiple,
-} from 'https://cdn.jsdelivr.net/npm/@orama/orama@2.0.15/dist/index.js';
+} from 'https://cdn.jsdelivr.net/npm/@orama/orama@2.0.16/dist/index.js';
 import { stemmer } from 'https://cdn.jsdelivr.net/npm/@orama/stemmers/dist/fr.js';
 const indexResponse = await fetch('https://recomedicales.fr/index.json');
 const index = await indexResponse.json();
