@@ -108,7 +108,7 @@ La prise en charge des poux doit être systématique.
 - Examiner et traiter simultanément l'entourage atteint
 - Diméticone lotion (Pouxit® ou autre)
   - Produit inflammable
-  - [Possible pendant la grossesse](http://www.lecrat.fr/12157/)
+  - [Possible pendant la grossesse](https://www.lecrat.fr/12157/)
   - Respecter strictement les délais et consignes d'application  
   Puis rincer avec un shampooing doux.
 - Terminer par un élentage  

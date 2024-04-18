@@ -146,7 +146,7 @@ Tous les rétinoïdes sont tératogènes, même en gel ou crème
 {{% /collapse %}}
 {{%collapse "Traitement de l'acné minime à modérée" %}}
 
-Seuls traitements autorisés pendant la grossesse: gluconate de zinc, peroxyde de benzoyle, antibiotiques topiques (clindamycine, érythromycine, acide azélaïque) (*[Le CRAT](http://www.lecrat.fr/6311/)*)
+Seuls traitements autorisés pendant la grossesse: gluconate de zinc, peroxyde de benzoyle, antibiotiques topiques (clindamycine, érythromycine, acide azélaïque) (*[Le CRAT](https://www.lecrat.fr/6311/)*)
 {.alert .alert-warning}
 
 ### Acné à prédominance rétentionnelle

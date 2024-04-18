@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2024-01-01"
+lastmod = "2024-04-18"
 specialites = ["infectiologie", "pediatrie", "therapeutique"]
 annees = "2023"
 sources = ["MinSanté", "HCSP"]
@@ -78,6 +78,7 @@ VVA
 |  +65 ans   | dTPolio tous les 10 ans<br>Antigrippal annuel        | Revaxis<br>Efluelda, Flurarix-Influvac-Vaxigrip Tetra                     |
 | 65-74 ans  | Zona                                                 | Zostavax (vivant)                                                         |
 | Grossesse  | Coqueluche, Covid, grippe                            | BoostrixTetra, Repevax ...                                                |
+| Médecin généraliste | Coqueluche à chaque dTP, Covid-19, grippe, ROR, varicelle, VHA, VHB |                                                   |
 {{< /table >}}
 
 **Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours (pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles). Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)

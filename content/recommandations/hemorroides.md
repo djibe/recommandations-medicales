@@ -25,7 +25,7 @@ flowchart = true
 - Le diagnostic d'hémorroïdes est clinique
 - L'examen clinique vise à éliminer un diagnostic différentiel ([fissure anale]({{< relref "fissure-anale.md" >}}) ...)
 - Coloscopie après 50 ans ou en cas d'antécédents de cancer colorectal
-- La prise en charge des hémorroïdes est surtout symptomatique avec: lutte contre la constipation (laxatifs ispaghul, hydratation ...), topiques (non remboursés: corticoïdes ± anesthésiques, carraghénates), veinotoniques voire traitement instrumental. Ces traitements sont globalement aussi utiles pendant la grossesse ([*CRAT*](http://www.lecrat.fr/12336/))
+- La prise en charge des hémorroïdes est surtout symptomatique avec: lutte contre la constipation (laxatifs ispaghul, hydratation ...), topiques (non remboursés: corticoïdes ± anesthésiques, carraghénates), veinotoniques voire traitement instrumental. Ces traitements sont globalement aussi utiles pendant la grossesse ([*CRAT*](https://www.lecrat.fr/12336/))
 - L'incision de la thrombose hémorroïdaire externe n'est pas systématique
 - Avis proctologique en cas d'hémorroïdes chroniques
 
@@ -111,7 +111,7 @@ Indications à la coloscopie:
 {{% /collapse %}}
 {{%collapse "Traitement des hémorroïdes" %}}
 
-Traitements anti-hémorroïdaires pendant la [grossesse](http://www.lecrat.fr/12336/) et l'[allaitement](http://www.lecrat.fr/8523/) (*CRAT*)
+Traitements anti-hémorroïdaires pendant la [grossesse](https://www.lecrat.fr/12336/) et l'[allaitement](https://www.lecrat.fr/8523/) (*CRAT*)
 {.alert .alert-info}
 
 L'objectif de la prise en charge médicale des hémorroïdes est de soulager les symptômes:

@@ -178,7 +178,7 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 {{< /table >}}
 
 > **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse (si amené à s'occuper de l'enfant durant les 6 premiers mois) avant 25 ans si dernière dose a +5 ans, si rappel a +10 ans ensuite  
-**Professionnels de santé et de la petite enfance:** ajouter la coqueluche à chaque rappel du dTPolio (45 et 65 ans) + 1 dose si dernière dose réalisée ≤ 18 ans et date de +5 ans.
+**Professionnels de santé et de la petite enfance:** ajouter la coqueluche à chaque rappel du dTPolio (45 et 65 ans) + 1 dose si dernière dose réalisée avant 18 ans et date de +5 ans.
 
 La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
 
@@ -206,7 +206,7 @@ Prise en charge de la coqueluche:
 Antibiothérapie de la coqueluche: uniquement dans les 3 premières semaines d'évolution pour réduire la contagiosité.  
 Ne traiter un *B. parapertussis* pauci-symptomatique qu'en présence de personne à risque dans son entourage.
 
-Antibiotique de la classe macrolides possibles pendant la grossesse ([CRAT](http://www.lecrat.fr/6363/)):
+Antibiotique de la classe macrolides possibles pendant la grossesse ([CRAT](https://www.lecrat.fr/6363/)):
 
 - Azithromycine 250 mg x 2/j pendant 3 jours  
   ou 1 dose-kg/jour

@@ -22,8 +22,8 @@ todo = "vérif co-vaccination ROR, https://pap-pediatrie.fr/sites/pap-pediatrie.
 
 {{%article-summary%}}
 
-- La varicelle est bénigne uniquement chez les enfants immunocompétents
-- L'immunité conférée par l'infection au virus VZV est quasi définitive (5% de récidives)
+- La varicelle n'est bénigne que chez les enfants immunocompétents
+- L'immunité procurée par l'infection au virus VZV est quasi définitive (5% de récidives)
 - Rechercher des complications de la varicelle: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans
 - Personnes à risque de forme grave de varicelle:
   - Immunodépression (hémopathie, [VIH]({{< relref "vih-sida.md" >}}), chimiothérapie)

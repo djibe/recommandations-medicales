@@ -370,6 +370,7 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
   - [Annuaire des CSAPA, addictologues, hôpitaux](https://www.addictaide.fr/annuaire/)
 - Livret d'information  
   Maladie alcoolique, sevrage, intérêt de l'accompagnement, coordonnées des acteurs.
+- hépatoprotection: vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) et [hépatite B]({{< relref "hepatite-b.md" >}}) (après sérologie négative)
 - Intervention psychosociale
   - Soutien psychologique ([remboursés sur ordonnance]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}))
   - Renforcement de la motivation au changement

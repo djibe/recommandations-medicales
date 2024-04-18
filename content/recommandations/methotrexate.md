@@ -38,11 +38,11 @@ En cas de grossesse sous méthotrexate, adresser au diagnostic anténatal en sem
 {.alert .alert-warning}
 
 - [Grossesse]({{< relref "grossesse.md" >}})  
-  Possible sans délai après l'arrêt de la contraception ([CRAT](http://www.lecrat.fr/3331/)).
+  Possible sans délai après l'arrêt de la contraception ([CRAT](https://www.lecrat.fr/3331/)).
 - [Allaitement]({{< relref "allaitement.md" >}})
 - Femme ou homme sans contraception efficace
 - Homme  
-  Délai minimal de 3 mois entre arrêt de la contraception et procréation ([CRAT](http://www.lecrat.fr/10800/)).
+  Délai minimal de 3 mois entre arrêt de la contraception et procréation ([CRAT](https://www.lecrat.fr/10800/)).
 - [Insuffisance rénale sévère]({{< relref "insuffisance-renale-chronique.md" >}})
 - Insuffisance hépatique sévère
 - Insuffisance respiratoire chronique

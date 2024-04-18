@@ -150,7 +150,7 @@ La responsabilité de *Mycoplasma genitalium* est possible dans certains cas de 
 - [Gonococcie](https://www.sfdermato.org/upload/recommandations/gonococcie-8e5167e17549b4912a1f1a4b3011eda7.pdf)
 - [MST et grossesse](https://www.sfdermato.org/upload/recommandations/mst-et-grossesse-8d334c94352709631c8240d4ff4466b7.pdf)
 - [Ulcération génitale](https://www.sfdermato.org/upload/recommandations/ulceration-genitale-98decf280ecc17666541d6b3203bebb6.pdf)
-- [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-162-web.pdf)
+- [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-162.pdf)
 - SPILF
 - EAU
 - Collège gynéco p234

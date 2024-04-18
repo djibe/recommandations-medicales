@@ -26,7 +26,7 @@ todo = "flow, diversification alimentaire, lactaclic"
 - [Brochure d'information sur l'allaitement](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/brochure/le-guide-de-l-allaitement-maternel)
 - Alimentation de la mère: café 2-3 tasses par jour, alcool déconseillé, arrêt du tabac
 - L'allaitement en pratique, pas de données sur: une position d'allaitement particulière, la nécessité d'utiliser 1 sein ou les 2, débuter précocement et la durée entre 2 tétées
-- Informer sur le contrôle de tous les médicaments sur [le CRAT](http://www.lecrat.fr)
+- Informer sur le contrôle de tous les médicaments sur [le CRAT](https://www.lecrat.fr)
 - Les rares contre-indications à l'allaitement sont: VIH, hépatite C, cocaïne et cannabis
 - Le recours à la méthode de contraception MAMA nécessite des critères stricts
 - Abcès du sein, crevasses, engorgement mammaire, mastite, mycose: voir la section *Prise en charge des complications*
@@ -71,7 +71,7 @@ Informations sur l'allaitement maternel:
   - Alcool déconseillé  
     Max 1 à 2 verres lors d'occasions, 2 heures de délai avant la mise au sein.
   - Dépister le [tabagisme]({{< relref "arret-tabac.md" >}}) et accompagner l'arrêt
-  - Prise de médicaments: vérifier sur [le CRAT](http://www.lecrat.fr)
+  - Prise de médicaments: vérifier sur [le CRAT](https://www.lecrat.fr)
 - Position au sein
   - Pas de données sur: position particulière, 1 sein ou 2 ou débuter précocement et la durée entre 2 tétées
   - Aucune "technique de préparation du mamelon" n'est recommandée
@@ -160,7 +160,7 @@ Prise en charge de la candidose du mamelon:
 - Savon alcalin pour la toilette
 - Nettoyage après les tétées:
   - bicarbonate 14/1000 ou eau de Vichy
-  - puis éconazole (*[CRAT](http://www.lecrat.fr/10273/)*) x 3/j après les tétées
+  - puis éconazole (*[CRAT](https://www.lecrat.fr/10273/)*) x 3/j après les tétées
   - et préparation à base de miel après les autres tétées
   - ne pas utiliser le violet de gentiane pendant la grossesse ou l'allaitement (*ANSM*)
 - Rechercher un muguet du nourrisson
