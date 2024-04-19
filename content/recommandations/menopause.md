@@ -393,7 +393,7 @@ Recommandations pour le traitement hormonal de la ménopause (THM) en pratique:
 {{< figure-chart title="Schémas de prise du traitement hormonal de la ménopause. Dr JB Fron d'après CNGOF 2021" >}}
 
 <script>
-const chartOptions = {
+const chartOptions1 = {
   series: [
   {
     name: 'Estrogène',

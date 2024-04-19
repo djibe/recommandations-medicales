@@ -76,7 +76,7 @@ Restriction cognitive
 {{< figure-chart title="Évolution de la prévalence de l'obésité chez l'adulte en France de 1997 à 2020. Dr JB Fron d'après ObÉpi 2020" >}}
 
 <script>
-const chartOptions = {
+const chartOptions1 = {
   series: [{
     name: 'Prévalence',
     data: [8.5, 10.1, 11.9, 13.1, 14.5, 15, null, null, 17]
@@ -99,7 +99,7 @@ const chartOptions = {
 }
 </script>
 <figure class="figure-chart">
-  <div id="chart2"></div>
+  <div id="chart-2"></div>
   <figcaption><b>Figure 2.</b> Évolution de la prévalence de l'obésité en France selon l'âge de 1997 à 2020. Dr JB Fron d'après ObÉpi 2020. NB: les abscisses ne sont pas linéaires.</figcaption>
 </figure>
 <script>

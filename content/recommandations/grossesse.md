@@ -69,7 +69,7 @@ Chapitres dédiés:
 {{< figure-chart title="Évolution du nombre de maternités et de l'indicateur conjoncturel de fécondité depuis 1975 en France métropolitaine. Dr JB Fron d'après Drees Les établissements de santé - édition 2022 (fiche 21) et Insee Bilan démographique 2023. NB. Échelle non linéaire en abscisse" >}}
 
 <script>
-const chartOptions = {
+const chartOptions1 = {
   series: [{
     name: 'Maternités',
     data: [1369, 1035, 814, 695, 581, 519, 471, 458, null]

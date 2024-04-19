@@ -68,7 +68,7 @@ La survie sans séquelles dépend énormément de la formation de la population 
 {{< figure-chart title="Incidence moyenne annuelle de la mort subite du sportif par million de sportifs de 15 à 75 ans selon l'âge et le sexe. Se référer à l'article pour l'intervalle de confiance. Dr JB Fron d'après Marijon 2013" >}}
 
 <script>
-const chartOptions = {
+const chartOptions1 = {
   series: [{
     name: 'Femmes',
     data: [0.39, 0.47, 0.5, 0.49, 0.67, 0.62]

@@ -48,7 +48,7 @@ Plus simplement, 30% des diabétiques traités par monothérapie n'avaient pas d
 {{< figure-chart title="Consommation d'antibiotiques en secteur de ville en France sur la période 2009-2019 (<a href='https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-associees-aux-soins-et-resistance-aux-antibiotiques/resistance-aux-antibiotiques/documents/rapport-synthese/la-consommation-d-antibiotiques-en-secteur-de-ville-en-france-2009-2019.-synthese-preliminaire-des-indicateurs-disponibles-sous-geodes' rel='external nofollow noopener'>Santé Publique France</a>).<br><b>DQD:</b> doses quotidiennes définies/1000 hab/j (DDD en anglais)" >}}
 
 <script>
-const chartOptions = {
+const chartOptions1 = {
   series: [{
     name: "DQD",
     data: [[2009, 23.3], [2010, 23.4], [2011, 24], [2012, 24.2], [2013, 24], [2014, 23.1], [2015, 23.8], [2016, 24.1], [2017, 23], [2018, 22.8], [2019, 22.2]]
@@ -63,7 +63,7 @@ const chartOptions = {
 }
 </script>
 <figure class="figure-chart">
-  <div id="chart2"></div>
+  <div id="chart-2"></div>
   <figcaption><b>Figure 2.</b> Proportion de personnes diabétiques traitées pharmacologiquement ayant bénéficié des examens de suivi recommandés, France entière en 2001, 2007 et 2013. Dr JB Fron d'après <em><a href="https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/documents/article/suivi-des-examens-recommandes-dans-la-surveillance-du-diabete-en-france-en-2013" rel="external nofollow noopener">Fosse-Edorh 2015</a></em> et <a href="https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/articles/etude-entred-2001-2003" rel="external nofollow noopener">Entred 2001-2003</a>.<br>
   <b>Légende:</b> Au moins 1 examen réalisé dans l'année pour chaque item (3 pour l'HbA<sub>1c</sub>)</figcaption>
 </figure>

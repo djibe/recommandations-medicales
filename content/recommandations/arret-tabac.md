@@ -95,7 +95,7 @@ Dans le monde, la culture du tabac occupe 4,3 Mha de terres, responsable de 2 à
 {{< figure-chart title="Prévalence du tabagisme quotidien parmi les 18-75 ans en France de 2000 à 2020 (<em>SPF 2021</em>). NB: Échelle non linéaire années en abscisse" >}}
 
 <script>
-const chartOptions = {
+const chartOptions1 = {
   series: [{
     name: 'Moyenne',
     data: [30, 27.5, 29.7, 28.5, 29.4, 29.4, 26.9, 25.4, 24, 25.5]

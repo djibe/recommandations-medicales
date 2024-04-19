@@ -99,7 +99,7 @@ Les marqueurs de **réserve ovarienne** sont: âge de la patiente, FSH et E2, AM
 {{< figure-chart title="Taux d'accouchement par ponction en FIV hors ICSI en intraconjugal selon l'âge de la femme à la ponction en 2021. Dr JB Fron d'après <a href='https://rams.agence-biomedecine.fr/activite-intraconjugale' rel='external nofollow noopener'>Agence de la Biomédecine</a>" >}}
 
 <script>
-const chartOptions = {
+const chartOptions1 = {
   chart: { type: 'bar', height: 256 },
   series: [{
     name: 'Taux par ponction',

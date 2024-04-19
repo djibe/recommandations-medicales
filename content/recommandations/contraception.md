@@ -51,7 +51,7 @@ Le défaut d'observance est l'une des causes principales des grossesses non plan
 ### Évolution de la fécondité des françaises
 
 <figure class="figure-chart">
-  <div id="chart2"></div>
+  <div id="chart-2"></div>
   <figcaption><b>Figure.</b> Évolution de la fécondité en France métropolitaine de 1950 à nos jours. Dr JB Fron d’après <em><a href="https://www.insee.fr/fr/statistiques/7746164?sommaire=7746197" rel="external nofollow noopener">Insee 2024</a></em>. Échelle de temps non linéaire.<br>
   <b>Légende:</b> Indicateur conjoncturel de fécondité (ICF), plus communément appelé nombre d’enfants par femme.</figcaption>
 </figure>
@@ -635,7 +635,7 @@ Bénéfices similaires pour les différentes voies d'administration (orale, vagi
 {{< figure-chart title="Méthodes de contraception des françaises de 15 à 49 ans en 2016. Dr JB Fron d'après <a href='https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/enquetes-etudes/barometre-sante-2016-contraception-quatre-ans-apres-la-crise-de-la-pilule-les-evolutions-se-poursuivent' rel='external nofollow noopener'>Rahib D 2017</a>" >}}
 
 <script>
-const chartOptions = {
+const chartOptions1 = {
   series: [36.5, 25.6, 15.5, 8, 4.6, 4.5, 4.3, 1],
   chart: { type: 'donut' },
   title: { text: 'Contraceptions utilisées par les femmes en France' },

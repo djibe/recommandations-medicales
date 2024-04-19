@@ -42,7 +42,7 @@ Représentation des taux de participation aux dépistages organisés des cancers
 - [Santé Publique France. Cancer du col de l'utérus : la couverture du dépistage et de la vaccination doivent progresser pour une meilleure prévention. Janvier 2022.](https://www.santepubliquefrance.fr/presse/2022/cancer-du-col-de-l-uterus-la-couverture-du-depistage-et-de-la-vaccination-doivent-progresser-pour-une-meilleure-prevention)
 
 <script>
-const chartOptions = {
+const chartOptions1 = {
   chart: {
     type: 'bar'
   },

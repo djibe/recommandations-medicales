@@ -31,7 +31,7 @@ Avec la forte inflation apparue en 2022, en utilisant toujours les euros de 2021
 {{< figure-chart title="Évolution du tarif de la cotisation ordinale des médecins de 2001 à 2024. Valeurs faciales et valeurs corrigées de l'inflation (bleu clair). Dr JB Fron d'après cotisations CNOM et dernières valeurs Insee" >}}
 
 <script>
-const chartOptions = {
+const chartOptions1 = {
   // https://www.insee.fr/fr/information/2417794
   series: [{
     name: 'Euros courants',

@@ -92,18 +92,26 @@ document.addEventListener( 'DOMContentLoaded', event => {
       // min: 0 // Do not set to allow negative values
     }
   };
-  const chart = new ApexCharts(document.getElementById('chart'), chartOptions)
+  const chart = new ApexCharts(document.getElementById('chart-1'), chartOptions1)
   chart.render()
 
-  if (document.getElementById('chart2')) {
-    const chart2 = new ApexCharts(document.getElementById('chart2'), chartOptions2)
+  if (document.getElementById('chart-2')) {
+    const chart2 = new ApexCharts(document.getElementById('chart-2'), chartOptions2)
     chart2.render()
   }
 
-  if (document.getElementById('chart3')) {
-    const chart3 = new ApexCharts(document.getElementById('chart3'), chartOptions3)
+  if (document.getElementById('chart-3')) {
+    const chart3 = new ApexCharts(document.getElementById('chart-3'), chartOptions3)
     chart3.render()
   }
+
+  /*[...document.querySelectorAll('[id^="chart-"]')].forEach(function(element, index) {
+    // Assignation d'un paramètre unique à chaque élément, par exemple, un attribut de données (data)
+    //element.setAttribute('data-param', 'valeur_unique_' + index);
+    console.log(element, chartOptions + index);
+    const figure = new ApexCharts(element, chartOptions + index);
+    figure.render();
+  })*/
 })
 </script>
 {{- end -}}

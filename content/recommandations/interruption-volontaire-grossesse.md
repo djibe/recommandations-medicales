@@ -55,7 +55,7 @@ Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contrace
 {{< figure-chart title="Évolution du nombre d'interruptions de grossesse annuelles et du ratio d'avortement France entière de 1990 à 2021. (<em>Drees 2022</em>)<br>Le ratio d'avortement correspond au rapport entre le nombre d'IVG et le nombre de naissances vivantes. Ex: en 2021, 30 IVG pour 100 naissances vivantes (<em>Drees 2022</em>)" >}}
 
 <script>
-const chartOptions = {
+const chartOptions1 = {
   series: [{
     name: 'Nombre d’IVG',
     data: [208325, 211533, 204105, 203679, 202426, 193763, 202567, 204157, 211075, 210735, 205099, 215611, 220070, 216436, 221587, 219421, 228678, 226812, 222188, 222277, 225836, 221970, 219148, 228984, 227055, 220319, 216068, 217793, 225226, 233259, 222640, 223282]

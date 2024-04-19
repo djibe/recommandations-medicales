@@ -40,7 +40,7 @@ Ce qui nécessitera un autre travail: l'évolution de l'activité des praticiens
 {{< figure-chart title="Évolution du prix d'une consultation chez le médecin généraliste en secteur 1 de 1980 à 2023 en France métropolitaine. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après <a href='http://www.carmf.fr/doc/publications/chronologie/2022/chronologie-2022.pdf' rel='external nofollow noopener'>CARMF 2022 (PDF)</a>, <a href='http://piketty.pse.ens.fr/fichiers/enseig/memothes/DeaMayneris2004.pdf' rel='external nofollow noopener'>Mayneris 2004 (PDF)</a> et <a href='https://www.insee.fr/fr/information/2417794' rel='external nofollow noopener'>Insee</a>" >}}
 
 <script>
-const chartOptions = {
+const chartOptions1 = {
   // https://www.insee.fr/fr/information/2417794
   series: [{
     name: 'Euros 2023',
