@@ -17,16 +17,14 @@ sctid = "118185001"
 icd10 = ""
 image = true
 imageSrc = "Illustration de la grossesse par stories / Freepik"
-todo = "FCV, dépistage DG, électrophorèse Hb, fiche ANSM vaccins, grossesse altitude, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
+todo = "évaluer les apports calcium, FCV, dépistage DG, électrophorèse Hb, fiche ANSM vaccins, grossesse altitude, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
 chart = true
 +++
 
 {{%article-summary%}}
 
-*Vaste chapitre en chantier*
-
 - 0 alcool et 0 tabac pendant la grossesse, interroger à chaque consultation
-- 1/3 des tests de grossesse non conformes (*[DGCCRF](https://www.economie.gouv.fr/dgccrf/les-autotests-de-fertilite-au-banc-dessai)*)
+- 1/3 des tests de grossesse sont non conformes (*[DGCCRF](https://www.economie.gouv.fr/dgccrf/les-autotests-de-fertilite-au-banc-dessai)*)
 - Vaccins grippe et coqueluche à chaque grossesse et 3 doses cumulées de Covid-19
 - [Nata](https://play.google.com/store/search?q=NATA&c=apps): l'appli officielle du suivi de grossesse multilingue
 - Besoins en [calcium]({{< relref "apports-calcium.md" >}}): 1 g/j (*IOF*) et [alimentation pendant la grossesse (MangerBouger)](https://www.mangerbouger.fr/manger-mieux/a-tout-age-et-a-chaque-etape-de-la-vie/les-recommandations-et-conseils-avant-pendant-et-apres-la-grossesse/manger-equilibre-avant-pendant-et-apres-la-grossesse)
@@ -61,10 +59,11 @@ Chapitres dédiés:
 {{%/article-summary%}}
 {{%collapse "La maternité en France"%}}
 
-678.000 naissances en France 2023 (-6,6 % sur 1 an), soit 1,64 enfant par femme.
-{.lead .text-primary .my-3}
+Rechercher une grossesse avant **32 ans** pour avoir 90 % de chance d'obtenir 2 enfants (27 ans sans AMP) ou avant 35 pour 1 (32 ans sans AMP). – *[Habbema et al 2015](https://pubmed.ncbi.nlm.nih.gov/26185187/)*
+{.alert .alert-info}
 
-> Rappel: rechercher une grossesse avant **32 ans** pour avoir 90% de chance d'obtenir 2 enfants (27 ans sans AMP) ou avant 35 pour 1 (32 ans sans AMP). (*[Habbema et al 2015](https://pubmed.ncbi.nlm.nih.gov/26185187/)*)
+> 678.000 naissances en France 2023 (-6,6 % sur 1 an), soit **1,64** enfant par femme.
+{.lead .my-3}
 
 {{< figure-chart title="Évolution du nombre de maternités et de l'indicateur conjoncturel de fécondité depuis 1975 en France métropolitaine. Dr JB Fron d'après Drees Les établissements de santé - édition 2022 (fiche 21) et Insee Bilan démographique 2023. NB. Échelle non linéaire en abscisse" >}}
 
@@ -119,9 +118,6 @@ Malgré les fermetures, **43 %** des maternités ont réalisé en 2020 **moins d
 
 {{% /collapse %}}
 {{%collapse "Suivi de grossesse" "show"%}}
-
-*En chantier*
-{.alert .alert-warning}
 
 {{< table title="Suivi simplifié de la grossesse. Dr JB Fron d'après HAS 2009 et Collège" class="table-wrap">}}
 | Moment   | Clinique | Examen  | Traitement |
