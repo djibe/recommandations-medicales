@@ -316,6 +316,12 @@ mark {
   margin-top: 80px !important;
 }
 
+@-moz-document url-prefix() {
+  .btn-share {
+    display: none !important;
+  }
+}
+
 %material-icon {
   content: "";
   display: inline-block;

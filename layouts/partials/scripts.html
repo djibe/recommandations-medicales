@@ -156,8 +156,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 
 <script crossorigin>
   document.addEventListener( 'DOMContentLoaded', event => {
-
-    // Register Lyra search
+    // Register Orama search
     {{ $searchModule := resources.Get "/js/orama.mjs" | minify | fingerprint "sha384" }}
     document.getElementById('btn-search-modal').addEventListener('click', () => import('{{ $searchModule.Permalink }}'))
 
@@ -172,8 +171,19 @@ document.addEventListener( 'DOMContentLoaded', event => {
 
   {{ with .Site.RegularPages }}
     // Open external sources in new window
-      let externalLinks = document.querySelectorAll('a[href^="http"]:not([href*="recomedicales.fr"])')
-      externalLinks.forEach((elem) => { elem.setAttribute('target', '_blank') })
+      let externalLinks = document.querySelectorAll('a[href^="http"]:not([href*="recomedicales.fr"])');
+      externalLinks.forEach((elem) => { elem.setAttribute('target', '_blank') });
+
+    // Share button not Firefox compatible
+      const shareBtn = document.querySelector('.btn-share');
+      shareBtn.addEventListener('click', async () => {
+        try {
+          let url = document.location.href;
+          await navigator.share({ url: url });
+        } catch (err) {
+          console.log(`Error: ${err}`);
+        }
+      });
   {{ end }}
 
   $(function() {
