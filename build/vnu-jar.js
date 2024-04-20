@@ -38,6 +38,7 @@ childProcess.exec('java -version', (error, stdout, stderr) => {
     'Attribute “fetchpriority” not allowed on element “img” at this point.*',
     'Attribute “fetchpriority” not allowed on element “iframe” at this point.*',
     'Attribute “fetchpriority” not allowed on element “link” at this point.*',
+    'Attribute “netlify-honeypot” not allowed on element “form” at this point.*',
     'CSS: “unicode-range”: Too many values or values are not recognized.*',
     'The “inputmode” attribute is not supported in all browsers. Please be sure to test, and consider using a polyfill.*'
   ].join('|')

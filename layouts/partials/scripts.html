@@ -93,11 +93,9 @@ document.addEventListener( 'DOMContentLoaded', event => {
     }
   };
 
-  // Render all ApexCharts
-  [...document.querySelectorAll('[id^="chart-"]')].forEach(function(element, index) {
-    let options = eval('chartOptions' + (index + 1))
-    console.log(eval('chartOptions' + (index + 1)))
-    console.log(element, options)
+  // Render all ApexCharts (charts must be in order)
+  [...document.querySelectorAll('[id^="chart-"]')].forEach((element, index) => {
+    let options = eval('chartOptions' + (index + 1));
     const figure = new ApexCharts(element, options);
     figure.render();
   })
