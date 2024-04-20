@@ -16,11 +16,11 @@
               <img class="d-none d-md-block" src="/images/icons/undraw_Typing.svg" alt="Écrire un commentaire" aria-hidden="true" width="250" height="214" loading="lazy">
               <p class="modal-title" id="modal-contact-title">Contact réservé aux médecins</p>
             </div>
-            <form id="contact-form" name="contact" method="post" netlify-honeypot="bot-field" data-netlify="true">
+            <form id="contact-form" name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
               <div class="modal-body">
                 Une suggestion, une remarque ou une critique ? Dites-le.
                 <div class="form-group mt-4">
-                  <label class="d-none"><input id="form-email" name="bot-field"></label>
+                  <label class="d-none"><input name="bot-field"></label>
                   <div class="input-group">
                     <input class="form-control" id="form-email" placeholder="Adresse e-mail" type="email" name="email" aria-label="Votre e-mail" autocomplete="email" required oninvalid="setCustomValidity('Merci de renseigner votre e-mail')" onchange="this.setCustomValidity('')">
                     <span class="input-group-icon">
