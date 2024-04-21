@@ -10,6 +10,7 @@ specialites = []
 annees = "2023"
 sources = []
 tags = []
+image = true
 imageSrc = "par pch.vector sur Freepik"
 datatable = true
 +++

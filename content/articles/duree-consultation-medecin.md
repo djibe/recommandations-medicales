@@ -10,6 +10,7 @@ specialites = []
 annees = "2017"
 sources = []
 tags = []
+image = true
 imageSrc = "par storyset / Freepik"
 chart = true
 +++

@@ -10,6 +10,7 @@ specialites = []
 annees = "2023"
 sources = []
 tags = []
+image = true
 imageSrc = "des sociétés savantes de médecine / unDraw"
 datatable = true
 todo = "ESH, SFC, http"
