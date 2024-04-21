@@ -328,6 +328,7 @@ window.addEventListener('load', () => {
 | Chirurgie bariatrique | < 65 ans avec IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH OU IMC ≥ 30 en dernier recours | HAS 2022 et 2009 obésité |
 | [Covid-19]({{< relref "covid-19.md" >}}) | Antiviral en urgence si infection Covid-19                           | HAS 2023                 |
 | Dentaire     | Suivi annuel                                                                                     | HAS 2014, IDF 2009       |
+| [Douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}) | Chapitre dédié                           | SFETD 2021               |
 | [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) | Interrogatoire systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018 |
 | ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
 | [Épreuve d'effort]({{< relref "epreuve-effort.md" >}}) | [Angor]({{< relref "syndrome-coronarien-chronique.md" >}}), dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans). Considérer si MCV et reprise effort | ESC 2023, ADA 2023, SFD 2021 CAD |

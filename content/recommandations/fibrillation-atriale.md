@@ -403,6 +403,7 @@ graph TB
 
 {{< youtube id="3HeRh1Q25kQ" title="Parcours de soin chez un patient avec Fibrillation Atriale (Fréquence Médicale)" >}}
 
+- [Ray WA et al. Serious Bleeding in Patients With Atrial Fibrillation Using Diltiazem With Apixaban or Rivaroxaban. JAMA. 2024.](https://jamanetwork.com/journals/jama/article-abstract/2817546)
 - [ANSM. Esters éthyliques d'acides Oméga-3 : Risque accru et dose-dépendant de fibrillation auriculaire (ou atriale) chez des patients atteints de maladies cardiovasculaires ou présentant des facteurs de risque cardiovasculaires. 17/11/2023.](https://ansm.sante.fr/informations-de-securite/esters-ethyliques-dacides-omega-3-risque-accru-et-dose-dependant-de-fibrillation-auriculaire-ou-atriale-chez-des-patients-atteints-de-maladies-cardiovasculaires-ou-presentant-des-facteurs-de-risque-cardiovasculaires)
 - [HAS. Fibrillation auriculaire. Actes et prestations Affection de longue durée. 2023.](https://www.has-sante.fr/jcms/c_568395/fr/ald-n-5-fibrillation-auriculaire)
 - {{< references/esh-2023 >}}

@@ -1,7 +1,7 @@
 +++
 title = "Psoriasis"
 prefix = "le "
-description = "Recommandations pour la prise en charge du psoriasis. Dermocorticoïdes et analogues vitamine D3 calcipotriol, béthaméthasone. Avis dermatologique et biothérapie"
+description = "Recommandations pour la prise en charge du psoriasis. Dermocorticoïdes et analogues vitamine D3 calcipotriol, bétaméthasone. Avis dermatologique et biothérapie"
 synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2023-10-05T11:12:30+02:00"
@@ -205,8 +205,8 @@ Exemple pour le cuir chevelu en cas de squames: [Diprosalic® lotion](https://ba
 Les analogues de la vitamine D3 peuvent être combinés en ne dépassant pas 100g de topique par semaine:
 
 - Calcitriol pommade ([Silkis®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62597239&typedoc=R)) x 2/j
-- Calcipotriol + béthaméthasone x 1/j  
-  Gel (cuir chevelu, corps): Closalis®, Daivobet®, Xamio® – pommade (corps): [gén](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63038758&typedoc=R), Daivobet®, Daivonex® – mousse: Enstillar®.
+- Calcipotriol + bétaméthasone x 1/j  
+  Gel (cuir chevelu, corps): Closalis®, Daivobet®, Xamio® | pommade (corps): [gén](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63038758&typedoc=R), Daivobet®, Daivonex® | mousse: Enstillar® (possibles pendant la grossesse, [CRAT](https://www.lecrat.fr/10888/)).
 
 Traitement continu pendant **maximum 4 semaines** puis **traitement d'entretien x 2/semaine**.
 {{%/info%}}

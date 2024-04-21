@@ -233,8 +233,8 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
   - Si [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}): AOD + clopidogrel pendant 12 mois  
     AOD à dose réduite si risque de saignement. Si AVK indiqué: INR cible 2 - 2,5.
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
-  - Bêtabloquant (FEVG ≤ 40%) et {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} non systématiques mais à considérer
   - Cible tensionnelle < 130/80 mmHg
+  - Bêtabloquant (si FEVG ≤ 40 %) et {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} non systématiques mais à considérer
 - [Vaccin grippe]({{< relref "grippe.md" >}}) annuel
 - Colchicine 0,5 mg/j  
   Pourrait être considérée en cas de facteurs mal contrôlés ou de nouvel événement CV.

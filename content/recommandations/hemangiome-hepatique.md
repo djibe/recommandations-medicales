@@ -57,7 +57,7 @@ EASL
 Autres tumeurs et lésions hépatiques:
 
 - Tumeurs hépatiques
-  - Hyperplasie nodulaire focale (HNF)
+  - [Hyperplasie nodulaire focale](hyperplasie-nodulaire-focale.md) (HNF)
   - Adénome hépatocellulaire (AF)
   - [Carcinome hépatocellulaire (CHC)]({{< relref "carcinome-hepatocellulaire.md" >}})
   - Cholangiocarcinome

@@ -75,7 +75,7 @@ Autres tumeurs et lésions hépatiques:
 
 - Tumeurs hépatiques
   - [Hémangiome hépatique]({{< relref "hemangiome-hepatique.md" >}})
-  - Hyperplasie nodulaire focale (HNF)
+  - [Hyperplasie nodulaire focale]({{< relref "hyperplasie-nodulaire-focale.md" >}}) (HNF)
   - Adénome hépatocellulaire (AF)
   - Cholangiocarcinome
   - Métastase hépatique
