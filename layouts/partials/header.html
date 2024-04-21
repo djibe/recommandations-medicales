@@ -29,7 +29,7 @@
   {{ if hugo.IsProduction }}
     {{ $sass = resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint "sha384" }}
     {{ $print = resources.Get "sass/print.scss" | toCSS | postCSS | minify | fingerprint "sha384" }}
-    <link rel="preload" href="{{ $sass.Permalink }}" as="style">
+    <link rel="preload" href="{{ $sass.Permalink }}" integrity="{{ $sass.Data.Integrity }}" as="style">
     <link rel="stylesheet" href="{{ $sass.Permalink }}" integrity="{{ $sass.Data.Integrity }}">
     <link rel="stylesheet" href="{{ $print.Permalink }}" media="print" integrity="{{ $print.Data.Integrity }}">
     {{ else }}
