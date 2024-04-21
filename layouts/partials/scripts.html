@@ -176,7 +176,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 
     // Share button not Firefox compatible
       const shareBtn = document.querySelector('.btn-share');
-      shareBtn.addEventListener('click', async () => {
+      shareBtn?.addEventListener('click', async () => {
         try {
           let url = document.location.href;
           await navigator.share({ url: url });
