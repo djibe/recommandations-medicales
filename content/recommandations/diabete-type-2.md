@@ -280,11 +280,11 @@ window.addEventListener('load', () => {
     const allElems = $('[class*="choix-"]')
     $('[class*="choix-"]:not(.choix-standard)').addClass('d-input-none')
     $(':radio').on('change', function() {
-      if ( $(':radio:checked').length === 0 ){
+      if ( $(':radio:checked').length === 0 ) {
         allElems.addClass('d-input-none')
         $(`.choix-standard`).removeClass('d-input-none')
       }
-      else if ($(this).is(':checked')){
+      else if ($(this).is(':checked')) {
         allElems.addClass('d-input-none')
         $(`.choix-${this.id}`).removeClass('d-input-none')
       }

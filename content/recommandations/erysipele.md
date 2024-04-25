@@ -154,7 +154,7 @@ En cas d'allergie à la pénicilline: azithromycine 250 mg x 1/j
 
 ### Critères d'hospitalisation pour érysipèle
 
-- Fasciite nécrosante, appeler le 15
+- Fasciite nécrosante, appeler le SAMU
 - Doute diagnostique
 - Signes généraux marqués
 - Terrain fragile  

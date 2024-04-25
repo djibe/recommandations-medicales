@@ -321,7 +321,7 @@ Sinon avec mesure du résidu post-mictionnel, dès le 2<sup>e</sup> épisode ou 
 
 ### Infection urinaire de l'homme pauci-symptomatique
 
-En cas d'infection urinaire peu symptomatique (<< cystite-like >> sans signes généraux): antibiothérapie identique à l'IU masculine symptomatique mais pendant 7 jours.
+En cas d'infection urinaire peu symptomatique (<< cystite-like >> sans signes généraux): antibiothérapie identique à l'IU masculine symptomatique mais pendant **7 jours**.
 
 ### Infection urinaire de l'homme symptomatique
 

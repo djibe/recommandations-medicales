@@ -56,7 +56,7 @@ Autres diagnostics à évoquer devant des polyarthralgies:
 
 Éléments en faveur d'une forme sévère:
 
-- Persistance d'une activité modérée à forte sous traitement conventionnel selon un score composite (dont nombre élevé d'articulations gonflées
+- Persistance d'une activité modérée à forte sous traitement conventionnel selon un score composite (dont nombre élevé d'articulations gonflées)
 - VS et CRP élevées
 - Nombreuses articulations gonflées
 - Présence de facteur rhumatoïde et/ou d'ACPA (surtout si taux élevés ≥ 3N)

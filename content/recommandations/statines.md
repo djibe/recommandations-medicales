@@ -25,9 +25,9 @@ todo = "photo"
 - Comparaison de l'intensité des différentes statines pour la réduction du LDL (voir *Intensité*)  
   Pour une baisse du LDL cholestérol supérieure à 50%: statine de haute intensité atorvastatine 40 ou rosuvastatine 20 mg ou plus.
 - La cible de LDL dépend de la présence d'une maladie cardiovasculaire ou du {{< scores/heartscore >}} en prévention primaire
-- Statines et effets indésirables: 90% des myalgies sont attribuables à un effet nocebo; elles surviennent durant la première année (sauf statine de haute intensité)
+- Statines et effets indésirables: 90% des myalgies sont attribuables à un effet nocebo; elles surviennent la première année (sauf statine de haute intensité). Ne pas prendre de pamplemousse
 - L'arrêt d'une statine entraîne une surmortalité cardiovasculaire de 20%
-- Préparer une grossesse: le plus souvent interrompre le traitement, voire demander une expertise au CRAT pour les cas sévères
+- Préparer une grossesse: le plus souvent interrompre le traitement, voire demander une [expertise au CRAT](https://www.lecrat.fr/contact-2/) pour les cas sévères
 - Le bilan lipidique n'a pas besoin d'être réalisé à jeun sauf syndrome métabolique, [diabète](/tags/diabete/) ou hypertriglycéridémie (*ESC 2021*)
 
 {{%/article-summary%}}
