@@ -369,7 +369,7 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler.
 
 {{< youtube id="sYKByv4Olg8" title="VHB Indications thérapeutiques et surveillance H. Fontaine 2019 (AFEF Medical Education)" >}}
 
-{{< youtube id="XfEdz-xm9qs" title="Sérologie de l'hépatite B autour de la vaccination (Vaccinews)" >}}
+{{< youtube id="XfEdz-xm9qs" title="Sérologie de l'hépatite B autour de la vaccination (VacciNews)" >}}
 
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées chroniquement par le virus de l'hépatite B +/- de l'hépatite delta. 2023.](https://www.has-sante.fr/jcms/p_3324682/fr/prise-en-charge-des-personnes-infectees-par-les-virus-de-l-hepatite-b-c-ou-d)
 - {{< references/calendrier-vaccinal >}}

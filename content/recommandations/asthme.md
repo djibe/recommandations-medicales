@@ -511,7 +511,7 @@ Confirmer le diagnostic avant de démarrer un traitement, puis instaurer rapidem
 
 #### Asthme et ALD
 
-Conditions de prise en charge à 100% de l'asthme par l'[ALD 14]({{< relref "affection-longue-duree.md" >}}):
+Conditions de prise en charge à 100% de l'asthme par l'[ALD n°14]({{< relref "affection-longue-duree.md" >}}):
 
 - Adulte: asthme persistant sévère
   - Symptômes permanents, exacerbations fréquentes, asthme nocturne fréquent ou activité physique limitée par les symptômes

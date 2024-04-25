@@ -303,6 +303,8 @@ Documents pour informer sur la vaccination:
 
 {{< youtube id="FPI_1SQtZ5U" title="Webinaire Les Mardis de la Vaccination sur Vaccins et sexualités (HPV, Hépatite A)" >}}
 
+{{< youtube id="yxPdBkQO7ms" title=" Vaccination contre le rotavirus (VacciNews)" >}}
+
 {{% /collapse %}}
 {{%sources%}}
 

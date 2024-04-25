@@ -235,6 +235,8 @@ En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md"
 
 {{< card-link-external title="MOOC HPV - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/21/presentation" subtitle="Université de Paris">}}
 
+{{< youtube id="-AMgdgFq9EM" title="Vaccination contre les papillomavirus humains (HPV) (VacciNews)" >}}
+
 - [INCa. Dépistage organisé du cancer du col de l'utérus](https://depistagecoluterus.e-cancer.fr)
 - [Abramovitz L. Vaccin contre le Papilloma virus : De l'AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/)
 

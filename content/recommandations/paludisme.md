@@ -259,7 +259,8 @@ Deux vaccins contre le paludisme existent (RTS,S et R21/Matrix-M), recommandés 
 
 ### Atovaquone-proguanil
 
-Spécialités: [atovaquone/proguanil 250/100 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66395950&typedoc=R) et [cpP atovaquone/proguanil 62,5/25 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68303281&typedoc=R), comprimés uniquement.  
+Spécialités: [atovaquone/proguanil 250/100 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66395950&typedoc=R) (ex Malarone) et [cpP atovaquone/proguanil 62,5/25 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68303281&typedoc=R), comprimés uniquement.
+
 Prise quotidienne pendant le repas à heure fixe, avec une boisson ou un produit lacté (sucré si besoin, goût amer).
 
 - Personne > 40 kg  
@@ -278,13 +279,13 @@ Prise quotidienne pendant le repas à heure fixe, avec une boisson ou un produit
 > cpP = comprimé pédiatrique (62,5/25 mg), doses selon *HCSP/SPF voyage*
 
 {{%info%}}
-À débuter la veille ou le jour du départ et poursuivre 7 jours après le retour.
+À débuter la veille ou le jour du départ et poursuivre 7 jours après le retour. Prise possible pendant toute la grossesse [CRAT](http://www.lecrat.fr/6459/).
 
 La prise en continu est limitée à 3 mois consécutifs.
 {{%/info%}}
 
-**Effets indésirables de l'atovaquone-proguanil**: augmentation de l'INR sous AVK  
-**Contre-indication:** insuffisance rénale sévère
+**Effets indésirables de l'atovaquone-proguanil**: augmentation de l'INR sous AVK.  
+**Contre-indication:** insuffisance rénale sévère.
 
 ### Doxycycline (monohydrate ou hyclate)
 

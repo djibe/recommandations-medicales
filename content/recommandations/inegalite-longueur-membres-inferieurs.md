@@ -1,20 +1,20 @@
 +++
 title = "Inégalité de longueur des membres inférieurs (ILMI)"
 titleSeo = "Inégalité longueur membres inférieurs"
-prefix = "la "
+prefix = "l'"
 description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-11-09T18:37:31+01:00"
-publishdate = "2023-11-13"
-lastmod = "2023-11-13"
+publishdate = "2024-04-25"
+lastmod = "2024-04-25"
 specialites = ["orthopedie"]
 annees = "2017"
 sources = ["Biblio"]
 tags = []
-anglais = ["English word"]
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = "https://prod-mapping.ihtsdotools.org/#/"
+anglais = ["Leg length inequality", "lower limb length difference"]
+sctid = "45939007"
+icd10 = ""
 draft = true
 image = false
 imageSrc = ""
@@ -42,7 +42,7 @@ Risque de douleurs plus marqué avec forte différence et grande activité physi
 
 ### Étiologie
 
-Le plus souvent d'origine fonctionnelle (surcharge musculaire)
+- Le plus souvent d'origine fonctionnelle (surcharge musculaire)
 - Anatomique (jambe ou cuisse plus courte)
 - Congénitale, paralysie, pied plat asymétrique, tumeur osseuse ou du cartilage. Souvent plus importantes.
 
@@ -105,4 +105,3 @@ Dépistage des anomalies orthopédiques .
 {{%/sources%}}
 
 ≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–
-

@@ -109,7 +109,7 @@ Les symptômes d'une hypocalcémie sont très corrélés à la profondeur de l'h
 - Antécédents familiaux d'hypocalcémie
 - Traitements: anticonvulsivants, biphosphonates, transfusions massives
 - Régime alimentaire
-- Calcémie antérieures
+- Calcémies antérieures
 - [Fatigue](/tags/fatigue/)
 - **Symptômes neuromusculaires**
   - Paresthésies distales
@@ -122,7 +122,7 @@ Les symptômes d'une hypocalcémie sont très corrélés à la profondeur de l'h
   Troubles de l'attention, anxiété, irritabilité, dépression, démence, troubles de la personnalité, syndrome extrapyramidal.
 - Symptômes cardiaques  
   Élargissement de l'intervalle QT: malaises, tachycardie ventriculaire, fibrillation ventriculaire, insuffisance cardiaque.
-- Cataract sous-capsulaire
+- Cataracte sous-capsulaire
 - Troubles trophiques (signes chroniques)
   - Ongles striés et cassants
   - Cheveux secs et fragiles

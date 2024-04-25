@@ -1056,8 +1056,10 @@ blockquote {
 }
 
 div.data-table {
+  display: flex;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
+  overflow-x: hidden;
 }
 
 #table-pilule > tbody > tr:nth-of-type(4),
