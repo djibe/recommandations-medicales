@@ -306,40 +306,38 @@ Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à
 ### Les œstroprogestatifs
 
 - Contre-indiqués dans plusieurs situations (voir *Contre-indications aux œstroprogestatifs*)
-- Efficacité identique quelques soit la voie d'administration
-- N'augmentent globalement pas le risque de cancer (voir *Contraception et cancer*)
+- Efficacité identique quelque soit la voie d'administration
+- Les œstroprogestatifs n'augmentent globalement pas le risque de cancer (voir *Contraception et cancer*)
 - EE + lévonorgestrel/norgestimate en première intention
-- Schéma continu possible  
-  Symptômes cataméniaux, [ménorragies]({{< relref "menorragies.md" >}}) fonctionnelles, [endométriose]({{< relref "endometriose.md" >}}) ou choix personnel.
+- Schéma continu possible si: symptômes cataméniaux, [ménorragies]({{< relref "menorragies.md" >}}) fonctionnelles, [endométriose]({{< relref "endometriose.md" >}}) ou choix personnel.
 - 5% développent une [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) (*ESC 2018 HTA*)
 - Les progestatifs de 3e génération (gestodène, désogestrel sauf le norgestimate), la drospirénone ou l'acétate de cyprotérone augmentent plus le risque de MVTE que le lévonorgestrel
 - Les œstroprogestatifs par voies non orales (patch, anneau) ont probablement le même sur-risque veineux
 
-### Les dispositifs intra-utérins
+### Les dispositifs intra-utérins (DIU)
 
-- Contraception la moins chère (28,37€ pour 5 ans)
-- Pas de contre-indication aux AINS avec les DIU
+Métrorragies ou douleurs pelviennes persistantes sous stérilet: échographie ± ASP.
+{.alert .alert-warning}
+
+- Contraception la moins chère (28,37 € pour 5 ans, Mirena 97€ pour 8 ans)
+- Le DIU ne contre-indique pas les AINS
+- Un antécédent de GEU n'est pas une contre-indication
 - Cotation CCAM
   - Pose du stérilet JKLD001 (38,40 €)
   - Ablation non cotée sauf remplacement du stérilet JKKD001 (38,40 €)
-- Seuls le toucher vaginal avec examen bimanuel et l'inspection cervicale sont formellement recommandés avant la pose d'un DIU
+- Pose du dispositif intra-utérin
+  - Pose à n'importe quel moment du cycle (en l'absence de grossesse)
+  - Pas de dépistage systématique des [IST](/tags/ist/) avant la pose  
+    Dépistage des IST le jour de la prescription voire avant la pose si à risque (notamment *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* chez les 15-25 ans ou partenaires multiples non protégés).
+  - Seuls le toucher vaginal avec examen bimanuel et l'inspection cervicale sont formellement recommandés avant la pose d'un DIU
+  - Couper les fils à 2-3 cm de leur saillie (plus courts si gênants)
+  - Préciser la date du retrait
 - Informer sur la modification des saignements selon le stérilet
-- Pas de dépistage systématique des IST avant la pose  
-  Dépistage des IST si à risque (notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou partenaires multiples non protégés).  
-  Le jour de la prescription voire avant la pose.
-- Peut être posé à n'importe quel moment du cycle (en l'absence de grossesse)
-- Couper les fils à 2-3 cm de leur saillie  
-  Ou plus courts si gênants.
-- Préciser la date du retrait
 - Contrôle annuel de la visibilité des fils
-- Un antécédent de GEU n'est pas une contre-indication
-- Métrorragies ou douleurs pelviennes persistantes:  
-  Échographie ± ASP.
-- Grossesse (intra-utérine) sur DIU  
-  Le retirer si les fils sont accessibles.
-- IST ou infection génitale haute  
-  Pas de retrait d'emblée.
-- VIH pré-SIDA  
+- Affection intercurrent sous stérilet
+  - [Grossesse]({{< relref "grossesse.md" >}}) intra-utérine sur DIU: retirer le stérilet si les fils sont accessibles
+  - IST ou infection génitale haute: pas de retrait d'emblée.
+  - VIH pré-SIDA  
   Le stérilet n'augmente pas le risque de progression du virus ni le risque de transmission au partenaire.
 
 {{%info%}}
@@ -347,7 +345,7 @@ La contraception intra-utérine ne constitue pas un facteur de risque de grosses
 
 ---
 
-N'est pas un facteur d'infection pelvienne (sauf dans les 21j à 4 mois)
+Le stérilet n'est pas un facteur d'infection pelvienne (sauf dans les 21 jours à 4 mois)
 {{%/info%}}
 
 ### L'implant progestatif

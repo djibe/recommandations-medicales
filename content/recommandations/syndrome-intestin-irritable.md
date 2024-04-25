@@ -286,6 +286,7 @@ style SII stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
+- [Nybacka S et al. A low FODMAP diet plus traditional dietary advice versus a low-carbohydrate diet versus pharmacological treatment in irritable bowel syndrome (CARBIS): a single-centre, single-blind, randomised controlled trial. Lancet Gastroenterol Hepatol. 2024.](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(24)00045-1/abstract)
 - [SNFGE. Régime pauvre en sucres fermentescibles, les FODMAPs. 2016.](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/les_fodmaps.pdf)
 - [Mearin F et al. Bowel Disorders. Gastroenterology. 2016.](https://pubmed.ncbi.nlm.nih.gov/27144627/)
 - Cochrane

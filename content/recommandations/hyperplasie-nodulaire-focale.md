@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-04-14T11:57:43+02:00"
 publishdate = "2024-04-21"
-lastmod = "2024-04-21"
+lastmod = "2024-04-24"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2016"
 sources = ["EASL"]
@@ -23,8 +23,8 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'hyperplasie nodulaire focale (HNF) est la 2<sup>e</sup> tumeur bénigne du fois la plus fréquente, le plus souvent asymptomatique (incidentalome). Elle se développe surtout les femmes entre 35 et 50 ans et ne présente qu'un risque infime de complications
-- La clinique recherche des symptômes et des arguments pour une cirrhose, infectieuse ([hépatites](/tags/hepatite/)) ou métabolique et des comorbidités
+- L'hyperplasie nodulaire focale (HNF) est la 2<sup>e</sup> tumeur bénigne du fois la plus fréquente, le plus souvent asymptomatique (incidentalome). Elle se développe surtout chez les femmes entre 35 et 50 ans et ne présente qu'un risque infime de complications
+- La clinique recherche des symptômes et des arguments pour une cirrhose, une cause infectieuse ([hépatites](/tags/hepatite/)) ou métabolique et des comorbidités
 - Le bilan initial d'une tumeur hépatique comporte une biologie (bilan hépatique et lipidique, TP, albumine, ferritine, sérologies des hépatites, glycémie) et l'échographie abdominale
 - Une IRM hépatique injectée est nécessaire pour que l'hépatologue pose un diagnostic de certitude d'hyperplasie nodulaire focale
 - Lorsque le diagnostic d'hyperplasie nodulaire focale (HNF) est formel et que le nodule est asymptomatique, aucune surveillance n'est nécessaire puisque l'HNF est parfaitement stable. Les hormones et grossesses ne modifient pas l'évolution du nodule.
