@@ -29,7 +29,7 @@ flowchart = true
 - Appel du 15 pour régulation vers le centre cardiologique adapté
 - Prise en charge du post-infarctus (ou post SCA) et du très haut risque cardiovasculaire: réhabilitation cardiaque, arrêt du tabac et de l'alcool, {{< modal-btn modal-statine-intensite >}}statine haute intensité{{< /modal-btn >}} pour LDL cible < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} et baisse ≥ 50%, tension cible < 130/80 mmHg, bithérapie aspirine + prasugrel/ticagrelor pendant min. 12 mois, BB et IEC non systématiques, vaccin grippe, bilan et dépistages complémentaires
 - Voir [syndrome coronarien chronique]({{< relref "syndrome-coronarien-chronique.md" >}}) (SCC) pour la prise en charge des symptômes ischémiques persistants
-- Éducation des personnes à haut risque cardiovasculaire: appeler le 15 en cas de douleurs thoraciques ou autres symptômes évocateurs de SCA
+- Éducation des personnes à haut risque cardiovasculaire: appeler le SAMU en cas de douleurs thoraciques ou autres symptômes évocateurs de SCA
 
 Chapitres liés: [insuffisance cardiaque aiguë]({{< relref "insuffisance-cardiaque-aigue.md" >}}), [insuffisance cardiaque chronique]({{< relref "insuffisance-cardiaque-chronique.md" >}})
 

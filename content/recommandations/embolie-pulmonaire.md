@@ -312,7 +312,7 @@ accTitle: Prise en charge ambulatoire d'une suspicion d'embolie pulmonaire d'apr
         age -- Non --> urgences(Exploration aux Urgences)
       probaClin -- Intermédiaire --> urgences
       probaClin -- Élevée --> samu
-    gravite -- Oui --> samu(Appeler le 15)
+    gravite -- Oui --> samu(Appeler le SAMU)
 {{< /mermaid >}}
 
 {{% /collapse %}}

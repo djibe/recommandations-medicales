@@ -241,12 +241,12 @@ Bilan initial devant une suspicion d'insuffisance cardiaque:
 - TSH
 - NT-proBNP
 - Radiographie thoracique
-- ECG de repos 12D
+- ECG de repos 12 dérivatiosn
 - Consultation de cardiologie
 - Échocardiographie
 - Bilan des autres suspicions diagnostiques ({{< modal-btn modal-depistage-bpco >}}spirométrie{{< /modal-btn >}})
 
-> Bilan initial selon la *ESC 2021*
+> *ESC 2021*
 {{%/info%}}
 
 ### Peptides natriurétiques
@@ -271,7 +271,6 @@ Indications à une consultation génétique: cardiomyopathie hypertrophique (CMH
 
 Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaque:
 
-- Voir avec le cardiologue pour une télésurveillance de l'insuffisance cardiaque
 - Diurétiques de l'anse à visée symptomatique
   - [Furosémide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68009803&typedoc=R) 20 à 40 mg jusqu'à 1000 mg/j. Fractionner à partir de 40 mg
   - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R) 0,5 à 1 mg jusqu'à 5 mg/j. Fractionner à partir de 1 mg
@@ -306,6 +305,8 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
   - {{< modal-btn modal-depistage-bpco >}}Dépister une BPCO{{< /modal-btn >}}
   - Dépister annuellement anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}  
   Traitements sûrs: sertraline, escitalopram. Éviter les tricycliques.
+- Déclarer l'[ALD n°5]({{< relref "affection-longue-duree.md" >}})
+- Voir avec le cardiologue pour une télésurveillance de l'insuffisance cardiaque
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'insuffisance cardiaque à fraction d'éjection diminuée (ICFEd)" %}}
@@ -319,15 +320,10 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
 - Anti-aldostérone spironolactone ou éplérénone
 - {{< modal-btn modal-isglt2 >}}Dapagliflozine ou empagliflozine (iSGLT2){{< /modal-btn >}} 10 mg/j systématique
 - Traitements de 2<sup>e</sup> ligne: symptômes persistants
-  - Ivabradine  
-    Indication: FEVG ≤ 35% et fréquence cardiaque ≥ 70/min sous BB dose maximale ou mal tolérés.
-  - Vericiguat
-  - Hydralazine et isosorbide dinitrate chez les sujets noirs
-  - Digoxine
+  - Ivabradine (FEVG ≤ 35% et fréquence cardiaque ≥ 70/min sous BB dose maximale ou mal tolérés), vericiguat, hydralazine et isosorbide dinitrate chez les sujets noirs, digoxine
 - Mesures hygiéno-diététiques
   - Régime sans sel (< 5 g/j)
   - [Surveillance du poids x 1-2/semaine](https://www.heartfailurematters.org/wp-content/uploads/2021/02/Surveiller-vos-signes-vitaux.pdf), 3-4/semaine si {{< modal-btn score-nyha >}}NYHA 3-4{{< /modal-btn >}}
-- Déclarer l'[ALD n°5]({{< relref "affection-longue-duree.md" >}})
 
 Les anti-inflammatoires **AINS**, anti-COX2, le sotalol, le diltiazem, le vérapamil et la flécaïne sont contre-indiqués.
 {.alert .alert-warning}
@@ -412,7 +408,7 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 [Information service de suivi Prado (PDF)](https://www.ameli.fr/sites/default/files/Documents/4084/document/je_suis_accompagnee_apres_mon_hospitalisation_pour_decompensation_cardiaque_service_prado_assurance_maladie.pdf) et [Carnet de suivi Ameli du service Prado de retour à domicile (PDF)](https://www.ameli.fr/sites/default/files/Documents/400225/document/prado_ic_carnet_de_suivi_ic.pdf).
 
 {{% /collapse %}}
-{{%collapse "Suivi" %}}
+{{%collapse "Suivi de l'insuffisant cardiaque" %}}
 
 {{< table title="Nombre minimal de consultations par an de l'<strong>ICFEd</strong> en état stable. HAS 2014" >}}
 | NYHA  | Généraliste | Cardiologue |

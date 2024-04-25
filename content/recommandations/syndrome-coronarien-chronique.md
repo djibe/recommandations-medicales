@@ -293,7 +293,7 @@ Ensemble de connaissances à acquérir au cours des consultations d'éducation t
 - Savoir pratiquer et interpréter les automesures (hypertension, diabète)
 - Connaître et expliquer sa maladie
 - Repérer les facteurs déclenchants et les signes précurseurs de l'angor
-- Utiliser le traitement de la crise à bon escient et savoir quand appeler le 15
+- Utiliser le traitement de la crise à bon escient et savoir quand appeler le SAMU
 - Connaître le traitement de fond, les effets bénéfiques et indésirables, et les modalités de prises
 - Participer régulièrement au suivi (renouvellements, médecine du travail en cas de besoin)
 - Repérer et corriger les erreurs alimentaires
@@ -333,7 +333,7 @@ Prise en charge pour l'auto-gestion de la douleur angineuse:
 - S'allonger en cas de vertiges
 - Les autres effets possibles sont: maux de têtes, rougeur et bouffées de chaleur
 - Répéter toutes les 5 minutes jusqu'à disparition des symptômes sans dépasser 15 minutes (10 minutes selon *HAS*) ou 1,2 mg
-- Appeler le 15 en cas du dépassement du délai précisé ci-dessus (10-15 minutes ou 1,2 mg)
+- Appeler le SAMU en cas du dépassement du délai précisé ci-dessus (10-15 minutes ou 1,2 mg)
 - Faire part au médecin de la survenue de douleurs intermittentes
 - Une dose peut être prise avant un effort déclenchant les symptômes
 - La trinitrine ne peut être prise avec d'autres vasodilatateurs comme les traitements de la dysfonction érectile (sildénafil Viagra®, tadalafil Cialis®)
