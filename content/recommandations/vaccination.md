@@ -75,7 +75,7 @@ VVA
 | 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 x 2<br>NR: Nimenrix, MenQuadfi ou<br>Menveo (pas d'aiguille)    |
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |   45 ans   | dTPolio                                              | Revaxis (arrêt 2024) > dTcaPolio                                          |
-|  +65 ans   | dTPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Zona | Revaxis<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>Shingrix x 2 |
+|  +65 ans   | dTPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Zona | Revaxis<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>NR: Shingrix x 2 |
 | Grossesse  | Coqueluche, Covid, grippe                            | BoostrixTetra, Repevax ...                                                |
 | Médecin généraliste | Coqueluche à chaque dTP,<br>Covid-19, grippe, ROR,<br>varicelle, VHB |                                                  |
 {{< /table >}}
