@@ -59,7 +59,7 @@ VVA
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal 2024" "show" %}}
 
-{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Calendrier vaccinal 2024 et DGS Urgent 2023-14." >}}
+{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie sauf NR. Dr JB Fron d'après Calendrier vaccinal 2024 et DGS Urgent 2023-14." >}}
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
 |   Né après<br>le 6/2/23 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Beyfortus au mieux avant<br>la sortie de maternité                |
@@ -71,18 +71,23 @@ VVA
 |  12 mois   | Méningo C<br>ROR<br>Méningo B                        | Neisvac<br>MMRvaxPro, Priorix<br>Bexsero                                  |
 | 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
-| 11-13 ans  | dTcaPolio<br>(DTCaPolio si non fait)                 | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
-| 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 x 2<br>Nimenrix, MenQuadfi, Menveo (pas d'aiguille)             |
+| 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
+| 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 x 2<br>NR: Nimenrix, MenQuadfi ou<br>Menveo (pas d'aiguille)    |
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |   45 ans   | dTPolio                                              | Revaxis (arrêt 2024) > dTcaPolio                                          |
-|  +65 ans   | dTPolio tous les 10 ans<br>Annuels: grippe + Covid-19<br>Zona | Revaxis<br>Flurarix-Influvac-Vaxigrip Tetra + ARNm Covid-19<br>Shingrix x 2 |
+|  +65 ans   | dTPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Zona | Revaxis<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>Shingrix x 2 |
 | Grossesse  | Coqueluche, Covid, grippe                            | BoostrixTetra, Repevax ...                                                |
-| Médecin généraliste | Coqueluche à chaque dTP, Covid-19, grippe, ROR, varicelle, VHB |                                                        |
+| Médecin généraliste | Coqueluche à chaque dTP,<br>Covid-19, grippe, ROR,<br>varicelle, VHB |                                                  |
 {{< /table >}}
 
-**Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours (pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles). Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
-
 > Les consultations à 25, 45 et 65 ans sont gratuites avec la **cotation RDV**.
+
+### Vaccin rotavirus
+
+Informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours (pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles).
+
+Possibilité de manger immédiatement avant ou après.  
+[Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf).
 
 {{% /collapse %}}
 {{%collapse "Rattrapage vaccinal" %}}
@@ -96,11 +101,11 @@ VVA
 | Coqueluche                       |                       39 ans                        | [Grossesse voire cocooning]({{< relref "coqueluche.md" >}}) |
 | Haemophilus                      |                        5 ans                        | [Asplénie]({{< relref "asplenie.md" >}})               |
 | Hépatite B                       |                       15 ans                        | [Hépatite B]({{< relref "hepatite-b.md" >}})           |
-| Méningocoque ACWY                |                       24 ans                        | Dose unique si non fait entre 11 et 14 ans             |
+| Méningocoque ACWY                |                       24 ans                        | Dose unique si non fait à 11-14 ans                    |
 | Méningocoque B                   |                       23 mois                       |                                                        |
 | Méningocoque C                   |                       24 ans                        | Dose unique après 12 mois                              |
 | Papillomavirus (HPV)             |                       19 ans                        | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}})          |
-| Pneumocoque                      |                       23 mois                       | Asplénie, BPCO, cancer,  diabète, VIH ...              |
+| Pneumocoque                      |                       23 mois                       | Asplénie, BPCO, cancer,  diabète ...                   |
 | Rotavirus                        |                       4 mois                        | Doit être terminé avant 24 semaines                    |
 | Rougeole<br>Oreillons<br>Rubéole |                       44 ans                        |                                                        |
 | Tuberculose                      | Lire [tuberculose]({{< relref "tuberculose.md" >}}) |                                                        |
