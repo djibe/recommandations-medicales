@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2023-12-08"
+lastmod = "2024-04-26"
 specialites = ["dermatologie", "infectiologie"]
-annees = "2023"
+annees = "2024"
 sources = ["MinSanté", "HAS", "HCSP"]
 tags = ["HSH", "IST", "prevention", "vaccin"]
 anglais = ["Monkeypox"]
@@ -32,7 +32,7 @@ flowchart = true
 - Site d'information [Sexosafe](https://www.sexosafe.fr/Variole-du-singe) pour les HSH et [Flyer d'info Variole du singe](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-transmissibles-de-l-animal-a-l-homme/monkeypox/documents/depliant-flyer/variole-du-singe-monkeypox-flyer-a5) (*SPF*)
 - Monkeypox Info Service Grand public: {{<phone>}}0 801 90 80 69{{</phone>}} (8-23h)
 
-Chapitre lié: [HSH]({{< relref "hsh.md" >}})
+Chapitre lié: [hommes ayant des rapports avec des hommes]({{< relref "hsh.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -125,8 +125,8 @@ Antécédents dont statut VIH +++ (et CD4+. Avis spécialisé)
 
 Signes et symptômes de la variole du singe:
 
-- Fièvre (76%) 1-3 jours
-- Adénopathies (74%)
+- Fièvre (76 %) 1-3 jours
+- Adénopathies (74 %)
 - Céphalées, courbatures
 - Éruption vésiculeuse avec contenu liquidien
   - [Photos de la *SFD*](https://www.sfdermato.org/upload/news/groupemonkeypeauxfinal-1.pdf)
@@ -142,12 +142,12 @@ Signes et symptômes de la variole du singe:
 
 Appel du 15 pour l'avis d'un infectiologue en éruption douteuse.
 
-<< Risque très faible d'avoir la maladie et de la transmettre, forte probabilité de diagnostic différentiel bénin devant une éruption vésiculeuse. Les pédiatres restent en même temps vigilants car de nombreuses inconnues persistent. >>. – *Infovac 20/07/2022*
+> << Risque très faible d'avoir la maladie et de la transmettre, forte probabilité de diagnostic différentiel bénin devant une éruption vésiculeuse. Les pédiatres restent en même temps vigilants car de nombreuses inconnues persistent. >>. – *Infovac 20/07/2022*
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Bilan des [IST](/tags/ist/) en cas de transmission sexuelle.
+Bilan des [infections sexuellement transmissibles (IST)](/tags/ist/) en cas de transmission sexuelle.
 
 ### Ordonnance devant des lésions évocatrices de Monkeypox
 
@@ -169,13 +169,12 @@ Isolement immédiat dans l'attente des résultats.
 
 Toutes les personnes avec risque élevé d'exposition au virus de la variole du singe sont éligibles à la vaccination préventive:
 
-- [Hommes ayant des relations sexuelles avec des hommes (HSH)]({{< relref "hsh.md" >}})
+- [Hommes ayant des relations sexuelles avec des hommes (HSH)]({{< relref "hsh.md" >}}) différents
 - Personnes trans multi-partenaires
 - Prostitution
-- Professionnel travaillant dans les lieux de consommation sexuelle
 - Femmes avec contact proches des personnes ci-dessus
 
-> – *HAS 11/10 et 08/07/2022*
+> – *Calendrier vaccinal*
 
 ### Comment vacciner contre Monkeypox ?
 
@@ -231,6 +230,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [Santé Publique France. Variole du singe (mpox) : point de situation en France au 27 avril. 03/05/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/variole-du-singe-mpox-point-de-situation-en-france-au-27-avril-2023)
 - [Santé publique France, Ministère de la Santé et de la Prévention. Cas de Mpox en Europe, définitions et conduite à tenir. 20/04/2023. (PDF)](https://www.santepubliquefrance.fr/content/download/437302/file/def_cas_CAT_mpox_20042023.pdf)
 - [ANSM. Monkeypox. 16/03/2023.](https://ansm.sante.fr/dossiers-thematiques/monkeypox)

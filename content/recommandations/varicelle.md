@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-22T12:09:36+01:00"
 publishdate = "2022-04-07"
-lastmod = "2023-07-24"
+lastmod = "2024-04-26"
 specialites = ["dermatologie", "pediatrie"]
 annees = "2020"
 sources = ["SPILF", "ANSM", "MinSanté"]
@@ -149,7 +149,7 @@ Vaccination recommandée en l'absence d'antécédent de varicelle (ou histoire d
   La vaccination doit avoir lieu dans les 3 jours suivant le contact.
 6. Professionnels de santé ou de la petite enfance (crèches, collectivités)
 
->– *Calendrier vaccinal*
+> – *Calendrier vaccinal*
 
 InfoVac-France conseille la vaccination varicelle pour tous à partir de 12 mois ([article](https://www.infovac.fr/vaccins/maladies-evitables/varicelle)).
 
@@ -189,7 +189,7 @@ Période de contagiosité: J-2 à J+4 de l'apparition des vésicules ou par voie
 
 Recommandations pour la prise en charge de la varicelle:
 
-- Statut sérologique de l'entourage  
+- **Statut sérologique de l'entourage**  
   Vaccination dans les 3 jours si +12 ans non immun (sauf grossesse).
 - Contre-indication aux AINS/aspirine/corticoïdes
 - L'éviction scolaire n'est plus recommandée (*Assur Maladie*, *CMIT 2020*)
@@ -219,7 +219,7 @@ Recommandations pour la prise en charge de la varicelle:
 Reporter les vaccinations du nourrisson d'au moins 15 jours (question à *Infovac*)
 {.alert .alert-info}
 
-En cas de varicelle surinfectée, voir [impétigo]({{< relref "infection-cutanee-bacterienne.md" >}}).
+> En cas de varicelle surinfectée, voir [impétigo]({{< relref "infection-cutanee-bacterienne.md" >}}).
 
 Détersion des croûtes par vaseline x 2/j et couvrir par pansement.
 
@@ -285,9 +285,9 @@ Si statut sérologique non connu ou séronégative: Sérologie VZV en urgence et
 graph TB
 grossesse[Contage varicelle<br>de la femme enceinte] --> antecedent(Antécédent de varicelle ?)
 style grossesse stroke:#4150f5, stroke-width:1px
-  antecedent -- Non --> serologie(Sérologie en<br>urgence)
-    serologie -- Négative --> dan("Avis du Diagnostic Anténatal<br>en urgence<br>± Ig anti-VZV<br>± Antiviral aciclovir")
-    serologie -- Positive --> ras
+  antecedent -- Non --> sérologie(Sérologie en<br>urgence)
+    sérologie -- Négative --> dan("Avis du Diagnostic Anténatal<br>en urgence<br>± Ig anti-VZV<br>± Antiviral aciclovir")
+    sérologie -- Positive --> ras
   antecedent -- Oui --> ras(Pas de risque<br>Ne rien faire)
 {{< /mermaid >}}
 
@@ -296,9 +296,9 @@ style grossesse stroke:#4150f5, stroke-width:1px
 
 - {{< references/calendrier-vaccinal >}}
 - [ANSM. Anti-inflammatoires non stéroïdiens (AINS) et complications infectieuses graves. 28/04/2023.](https://ansm.sante.fr/actualites/anti-inflammatoires-non-steroidiens-ains-et-complications-infectieuses-graves)
+- [ANSM. Varitect CP. 2023.](https://ansm.sante.fr/tableau-acces-derogatoire/varitect-cp)
 - [Grimprel E, Launay E, Bruel H, Pinquier D; SFP. Contage varicelleux chez l'enfant. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/immuno-infectio-parasito/contage-varicelleux-chez-lenfant)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
-- [ANSM. Varitect CP. 2021.](https://ansm.sante.fr/tableau-acces-derogatoire/varitect-cp)
 - [Pinquier D et al. Vaccin contre la varicelle. Infovac. Avril 2019.](https://www.infovac.fr/docman-marc/public/fiches/1471-fiche-varicelle/file)
 - [Floret D; SFP. Conduite à tenir devant un contage varicelleux chez une femme enceinte ou un nouveau-né. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/conduite-tenir-devant-un-contage-varicelleux-chez-une-femme-enceinte-ou-un)
 - [HCSP. Avis relatif aux recommandations de vaccination contre la varicelle. 2007.](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcsp045a20070705_Varicelle.pdf)

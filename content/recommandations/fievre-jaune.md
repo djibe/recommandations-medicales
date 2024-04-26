@@ -7,10 +7,10 @@ synonyms = ["Fièvre amarile, typhus amaril, vomito negro"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-12T08:55:00+02:00"
 publishdate = "2021-02-12"
-lastmod = "2023-12-30"
+lastmod = "2024-04-26"
 specialites = ["infectiologie"]
-annees = "2023"
-sources = ["HCSP", "MinSanté"]
+annees = "2024"
+sources = ["MinSanté", "HCSP"]
 tags = ["vaccin", "voyage"]
 anglais = ["Yellow fever"]
 sctid = "16541001"
@@ -23,7 +23,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-La fièvre jaunes et une maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}).
+La fièvre jaune et une maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}).
 
 La vaccination contre la fièvre jaune est:
 
@@ -124,11 +124,11 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ministère de la Santé. Liste des centres de vaccination habilités à effectuer la vaccination contre la fièvre jaune (anti-amarile). Décembre 2023.](https://solidarites-sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination-fievre-jaune)
-- [Ministère de la Santé. Fièvre jaune. 2023.](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/la-fievre-jaune)
+- {{< references/calendrier-vaccinal >}}
+- [Ministère de la Santé. Fièvre jaune. 2024.](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/la-fievre-jaune)
+- [Ministère de la Santé. Liste des centres de vaccination habilités à effectuer la vaccination contre la fièvre jaune (anti-amarile). Janvier 2024.](https://solidarites-sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination-fievre-jaune)
 - [OMS. Fièvre jaune. 31/05/2023.](https://www.who.int/fr/news-room/fact-sheets/detail/yellow-fever)
 - {{< references/voyageur >}}
-- {{< references/calendrier-vaccinal >}}
 - [Institut Pasteur. Fièvre jaune : mieux comprendre les rares effets secondaires des vaccins. 26/04/2021.](https://www.pasteur.fr/fr/journal-recherche/actualites/fievre-jaune-mieux-comprendre-rares-effets-secondaires-vaccins)
 - [OMS. Mise à jour sur la fièvre jaune dans le monde, 2020. iris. 2021.](https://iris.who.int/handle/10665/344323)
 - [HCSP. Vaccination de rappel contre la fièvre jaune pour la Guyane. Nouvelles recommandations. 17/12/2015.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=531)

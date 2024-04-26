@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-19T15:57:14+02:00"
 publishdate = "2023-10-30"
-lastmod = "2024-01-10"
+lastmod = "2024-04-26"
 specialites = ["infectiologie", "neurologie"]
 annees = "2023"
 sources = ["GPIP", "SPILF", "MinSanté", "DGS"]
@@ -143,7 +143,7 @@ Prévention primaire de la méningite bactérienne: [vaccinations]({{< relref "v
 
 ### Vaccin pneumocoque
 
-3 doses de Prevenar13® de tous les nourrissons à M2-M4 avec rappel à 11 mois. Rattrapage jusqu'à 23 mois.
+3 doses de Vaxneuvance® (Prevenar13® à défaut) de tous les nourrissons à M2, M4 et rappel à 11 mois. Rattrapage jusqu'à 23 mois.
 
 Pas de vaccination anti-pneumococcique autour d'un cas de méningite bactérienne à pneumocoque.
 
@@ -153,11 +153,11 @@ Pas de vaccination anti-pneumococcique autour d'un cas de méningite bactérienn
 
 Vaccination de la méningite C en prévention primaire de tous les nourrissons: 2 doses obligatoire à 5 et 12 mois. Rattrapage jusqu'à 24 ans.
 
-Pour la vaccination des sujets contacts en prévention secondaire, lire *Calendrier vaccinal*.
+Pour la vaccination des **sujets contacts** en prévention secondaire, lire *Calendrier vaccinal*.
 
 #### Méningocoque A/Y/W
 
-Vaccination de la méningite A, Y et W en prévention primaire: immunodépression ([asplénie]({{< relref "asplenie.md" >}})), laboratoire travaillant sur le méningocoque, voyage (La Mecque).
+Vaccination de la méningite A, W, Y en prévention primaire: adolescent de 11 à 14 ans (rattrapage jusqu'à 24 ans), immunodépression ([asplénie]({{< relref "asplenie.md" >}})), laboratoire travaillant sur le méningocoque, voyage (La Mecque).
 
 Spécialités disponibles: [Menquadfi®](https://ec.europa.eu/health/documents/community-register/2022/20220929157200/anx_157200_fr.pdf), Menveo® (fourni sans seringue ni aiguille) ou [Nimenrix®](https://ec.europa.eu/health/documents/community-register/2023/20230223158551/anx_158551_fr.pdf)
 
@@ -264,9 +264,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [HAS. Infections invasives à méningocoques : des recommandations vaccinales actualisées. 27/03/2024.](https://has-sante.fr/jcms/p_3502914/fr/infections-invasives-a-meningocoques-des-recommandations-vaccinales-actualisees)
 - [Gillet Y et al. Antibiotic treatment of neuro-meningeal infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001501)
-- {{< references/calendrier-vaccinal >}}
 - [CMIT. Méningites, méningo-encéphalites, abcès cérébral chez l'adulte et l'enfant. Item 151. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-151.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Méningites et méningo-encéphalites. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/meningites-meningo-encephalites)
 - [Hoen B et al; SPILF, CMIT, APNET, SFM, SFMU, SFN, SFORL, SFP, SNFMI, SRLF, SFR. Management of acute community-acquired bacterial meningitis (excluding newborns). Short text. Med Mal Infect. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X18300416)

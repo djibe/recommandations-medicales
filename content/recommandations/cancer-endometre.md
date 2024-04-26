@@ -135,11 +135,11 @@ Adresser en semi-urgence à l'équipe hospitalière de gynécologie pour la suit
 
 La prise en charge du cancer de l'endomètre repose essentiellement sur la chirurgie avec **hystérectomie totale** et salpingo-ovariectomie bilatérale si la patiente est opérable.
 
-La chirurgie avant 50 ans **entraîne une stérilisation** pouvant être substituée par THS avec œstrogènes seuls (voir [ménopause]({{< relref "menopause.md" >}})).
+La chirurgie avant 50 ans entraîne une [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}) pouvant être substituée par traitement hormonal substitutif avec œstrogènes seuls (*HAS 2010*, voir [ménopause]({{< relref "menopause.md" >}}) pour le THS).
 
 Comme pour tout cancer:
 
-- [ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
 - [Sevrage tabagique]({{< relref "arret-tabac.md" >}})
 - Proposer un soutien psychologique
 - Soins de confort

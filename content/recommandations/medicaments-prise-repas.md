@@ -63,11 +63,9 @@ Médicaments (hors antiviraux) dont le résumé des caractéristiques du produit
 
 {{< references/bdpm >}}
 
-Non concernés: amoxicilline, azithromycine, ciprofloxacine, clarithromycine, diltiazem, métronidazole, phénoxyméthylpénicilline.
-
 ## Médicaments mieux tolérés pendant le repas {.mt-5}
 
-La prise du médicament pendant le repas n'améliore pas la biodisponibilité mais la tolérance du médicament.
+La prise du médicament pendant le repas n'améliore pas la biodisponibilité mais la **tolérance** du médicament:
 
 - AINS (ibuprofène, naproxène ...)
 - Aspirine

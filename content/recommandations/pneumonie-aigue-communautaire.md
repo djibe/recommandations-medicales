@@ -8,7 +8,7 @@ synonyms = ["Pneumopathies infectieuses communautaires"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-15T17:05:04+02:00"
 publishdate = "2023-05-17"
-lastmod = "2024-01-10"
+lastmod = "2024-04-26"
 specialites = ["pneumologie"]
 annees = "2023"
 sources = ["HAS", "SPILF", "GPIP", "Afssaps"]
@@ -303,7 +303,7 @@ Autres bilans ambulatoires de la pneumopathie infectieuse:
 {{% /collapse %}}
 {{%collapse "Prévention de la pneumonie" %}}
 
-[Sevrage tabagique]({{< relref "arret-tabac.md" >}}) et [indications à la vaccination antigrippale]({{< relref "grippe.md" >}}) (+65 ans, grossesse, diabète ...) et anti-Sars-Cov2 (+65 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave: chimio, dialyse, voir *Personnes à risque*, *DGS 2023-07*).
+[Sevrage tabagique]({{< relref "arret-tabac.md" >}}) et [indications à la vaccination antigrippale]({{< relref "grippe.md" >}}) (+65 ans, grossesse, diabète ...) et anti-Covid (+65 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave: chimio, dialyse, voir *Personnes à risque*, *DGS 2023-07*).
 
 Indications à la vaccination anti-pneumococcique:
 
@@ -428,13 +428,13 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [HAS. Réponse rapide sur la prise en charge diagnostique et thérapeutique des pneumonies atypiques à Mycoplasma pneumoniae en ambulatoire chez l'enfant et l'adulte. 22/12/2023.](https://www.has-sante.fr/jcms/p_3482996/fr/reponse-rapide-sur-la-prise-en-charge-diagnostique-et-therapeutique-des-pneumonies-atypiques-a-mycoplasma-pneumoniae-en-ambulatoire-chez-l-enfant-et-l-adulte)
 - [Madhi F et al. Antimicrobial treatment of lower respiratory tract infections in children. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001446)
 - [Cohen R et al. Mycoplasma pneumoniae. Infovac-France Bulletin Supplémentaire N°11. Novembre 2023.](https://www.infovac.fr/actualites/bulletin-supplementaire-n-11-novembre-2023-mycoplasma-pneumoniae)
 - [CMIT. Infections broncho-pulmonaires communautaires de l'adulte et de l'enfant. Item 154. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-154.pdf)
 - [Collège des Enseignants de Pneumologie (CEP). Infections broncho-pulmonaires communautaires de l'adulte. Item 154. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_154_INFECTIONS_RESPIRATOIRES_2023.pdf)
 - [GPIP, SFP, AFPA, SPILF. Conduite à tenir autour d'un cas d'infection invasive à Streptocoque du Groupe A. 2022. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/communiques/conduite-a-tenir-cas-contact-infections-invasives-a-sgadef.pdf)
-- {{< references/calendrier-vaccinal >}}
 - Prescrire Redaction. Pneumonie communautaire chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pneumonies aiguës communautaires. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/pneumonies-aigues-communautaires)
 - {{< references/spilf-2020 >}}

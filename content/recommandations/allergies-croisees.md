@@ -99,7 +99,7 @@ Acariens présents dans les aliments: récipients hermétiques au congélateur.
 - Consommation possible de produits étiquetés *avec traces* (Anses 2015)  
 Sauf sujet avec seuil réactogène bas.
 
->– *Anses*
+> – *Anses*
 
 ### Allergies aux moisissures des aliments
 

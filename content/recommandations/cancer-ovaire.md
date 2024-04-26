@@ -174,7 +174,7 @@ Comme pour tout cancer:
 
 La chirurgie du cancer de l'ovaire exige une exérèse chirurgicale sans rupture de la masse ovarienne, annexectomie bilatérale avec hystérectomie totale, omentectomie, appendicectomie, curage ganglionnaire pelvien et lombo-aortique, cytologie et biopsies péritonéale.
 
-Pour certains stades précoces, la chirurgie avant 50 ans entraîne une stérilisation pouvant être traitée par un traitement hormonal substitutif (voir [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})).
+Les stades précoces accessibles en chirurgie avant 50 ans déclenchent une [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}) pouvant être traitée par un traitement hormonal substitutif par l'équipe oncologique.
 
 {{% /collapse %}}
 {{%collapse "Suivi d'un cancer de l'ovaire" %}}

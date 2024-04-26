@@ -6,7 +6,7 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2023-04-18"
+lastmod = "2024-04-26"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HCSP", "SPILF", "HAS"]
@@ -163,7 +163,7 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 
 > Délai minimal d'un mois entre 2 doses de vaccin coquelucheux
 
-{{< table title="Recommandations vaccinales contre la coqueluche selon Calendrier vaccinal 2023" class="table-wrap" >}}
+{{< table title="Recommandations vaccinales contre la coqueluche selon Calendrier vaccinal 2024" class="table-wrap" >}}
 | Âge                         | Spécialités                                                    | Commentaire                             |
 |-----------------------------|----------------------------------------------------------------|-----------------------------------------|
 | 2 mois                      | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
@@ -175,6 +175,7 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 | Grossesse 20-36 SA          | BoostrixTetra, Repevax                                         | À chaque grossesse. Entourage (foyer, grands-parents, babysitters) si non fait pendant la grossesse |
 | Adulte avec projet parental | BoostrixTetra, Repevax                                         |                                         |
 | Coqueluche                  | Pas de rappel nécessaire dans les 10 ans                       | Sauf coqueluche du nourrisson           |
+| Médecin généraliste         | BoostrixTetra, Repevax                                         | Coqueluche à chaque dTP                 |
 {{< /table >}}
 
 > **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse (si amené à s'occuper de l'enfant durant les 6 premiers mois) avant 25 ans si dernière dose a +5 ans, si rappel a +10 ans ensuite  

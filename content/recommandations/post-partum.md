@@ -187,7 +187,7 @@ La rééducation périnéale ne permet pas de traiter un [prolapsus]({{< relref 
 {{% /collapse %}}
 {{%sources%}}
 
-- {{< references/calendrier-vaccinal >}}
+- {{< references/calendrier-vaccinal-2023 >}}
 - [US Preventive Services Task Force, Barry MJ et al. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2023.9297)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Grossesse normale. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [HAS. Contraception chez la femme en post-partum. Recommandation de bonne pratique. 2019.](https://www.has-sante.fr/jcms/c_1369193/fr/contraception-chez-la-femme-en-post-partum)

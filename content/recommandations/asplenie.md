@@ -109,9 +109,9 @@ Vaccins à réaliser avant voire après une splénectomie.
 | dTPolio         | Calendrier vaccinal          | Revaxis® tous les 10 ans |
 | Grippe          | 1 dose                       | Annuel           |
 | *H. influenzae* | ACT-HIB® dose unique         |                  |
-| Méningocoque ACYW135 | Menveo® (sans seringue)/Nimenrix® à M0 et M6<br>ou Menquadfi® | Tous les 5 ans<br>Non connu  |
+| Méningocoque ACWY | Menveo® (sans seringue)/Nimenrix® à M0-M6<br>ou Menquadfi® | Tous les 5 ans<br>Non connu |
 | Méningocoque B  | Bexsero® (ou Trumenba®) à M0 et M2 | Tous les 2-3 ans selon *Lee GM* |
-| {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} | Prevenar 13® puis Pneumovax® M2 | Pneumovax® tous les 5 ans |
+| {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} | +18 ans: Prevenar 20<br>< 18 ans: lire calendrier vaccinal | |
 {{< /table >}}
 
 ### Quand vacciner ?
@@ -129,7 +129,7 @@ Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}).
 
 - Prevenar 13® puis Pneumovax® 2 mois après  
   {{%class%}}Intervalle avec dernier Prevenar 13® doit être > 3 ans.{{%/class%}}
-- Enfant 2 à 5 ans non vaccinés: Prevenar 13® M0M2 et Pneumovax® M4
+- Enfant 2 à 5 ans non vaccinés: Prevenar 13® M0-M2 et Pneumovax® M4
 - Enfant < 2 ans: schéma nourrisson et rappel Pneumovax® après ses 2 ans
 
 Rappel par Pneumovax® tous les 5 ans.
@@ -194,7 +194,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- {{< references/calendrier-vaccinal >}}
+- {{< references/calendrier-vaccinal-2023 >}}
 - Collège des enseignants d'hématologie. Splénomégalie. Item 275. 2021.
 - [Lee GM. Preventing infections in children and adults with asplenia. Hematology Am Soc Hematol Educ Program. 2020.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33275684/)
 - [Medqual. Vaccination du patient immunodéprimé. 2019. (PDF)](https://medqual.fr/images/PRO/FORMATION/ATBR_Vaccin_04.pdf)

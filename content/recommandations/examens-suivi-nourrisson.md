@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2020-06-02T11:57:29+02:00"
 publishdate = "2020-06-02"
-lastmod = "2023-11-02"
+lastmod = "2024-04-26"
 specialites = ["pediatrie"]
-annees = "2023"
+annees = "2024"
 sources = ["MinSanté", "Service-Public"]
 tags = ["nourrisson", "enfant", "adolescent"]
 anglais = ["Children follow up"]
@@ -32,7 +32,7 @@ Enfant
 : Enfant de 2 à 18 ans.
 {.dl-inline}
 
-> {{< references/calendrier-vaccinal >}}
+> – {{< references/calendrier-vaccinal >}}
 
 {{% /collapse %}}
 {{%collapse "Calendrier des 20 examens médicaux" "show" %}}
@@ -44,31 +44,31 @@ Examens médicaux de la naissance à 16 ans avec la cotation associée, facturé
 - Les tarifs ci-dessous concernent la Métropole
 
 {{< table title="Examens de suivi du nourrisson remboursés à 100% selon l'Arrêté du 26/02/2019 et cotation des consultations de l'enfant" >}}
-| N°    | Âge           | Cotation MG |
-|------:|:-------------:|:-----------:|
-| 1     | **Dans les 8 premiers jours** | COE (47,5€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |
-| 2     | 13 ou 14 jours | COD (31,5€) |
-| 3     | 1 mois | COD (31,5€) |
-| 4     | 2 mois | COD (31,5€) |
-| 5     | 3 mois | COD (31,5€) |
-| 6     | 4 mois | COD (31,5€) |
-| 7     | 5 mois | COD (31,5€) |
-| 8     | 6 mois | COD (31,5€) |
-| 9     | **9 mois** | COE (47,5€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12597.do)) |
-| 10    | 12 mois | COD (31,5€) |
-| 11    | 13 mois | COD (31,5€) |
-| 12    | 16 à 18 mois | COD (31,5€) |
-| 13    | **24 ou 25 mois** | COE (47,5€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12598.do)) |
-| 14    | 3 ans | COD (31,5€) |
-| 15    | 4 ans | COD (31,5€) |
-| 16    | 5 ans | COD (31,5€) |
-| 17    | 6 ans | COB (26,5€) |
-| 18    | 8-9 ans | COB (26,5€) |
-| 19    | 11-13 ans | COB (26,5€) |
-| 20    | 15-16 ans | COB (26,5€) |
+| N° |              Âge              |                                    Cotation MG                                    |
+|---:|:-----------------------------:|:---------------------------------------------------------------------------------:|
+|  1 | **Dans les 8 premiers jours** | COE (47,5€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |
+|  2 |        13 ou 14 jours         |                                    COD (31,5€)                                    |
+|  3 |            1 mois             |                                    COD (31,5€)                                    |
+|  4 |            2 mois             |                                    COD (31,5€)                                    |
+|  5 |            3 mois             |                                    COD (31,5€)                                    |
+|  6 |            4 mois             |                                    COD (31,5€)                                    |
+|  7 |            5 mois             |                                    COD (31,5€)                                    |
+|  8 |            6 mois             |                                    COD (31,5€)                                    |
+|  9 |          **9 mois**           | COE (47,5€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12597.do)) |
+| 10 |            12 mois            |                                    COD (31,5€)                                    |
+| 11 |            13 mois            |                                    COD (31,5€)                                    |
+| 12 |         16 à 18 mois          |                                    COD (31,5€)                                    |
+| 13 |       **24 ou 25 mois**       | COE (47,5€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12598.do)) |
+| 14 |             3 ans             |                                    COD (31,5€)                                    |
+| 15 |             4 ans             |                                    COD (31,5€)                                    |
+| 16 |             5 ans             |                                    COD (31,5€)                                    |
+| 17 |             6 ans             |                                    COB (26,5€)                                    |
+| 18 |            8-9 ans            |                                    COB (26,5€)                                    |
+| 19 |           11-13 ans           |                                    COB (26,5€)                                    |
+| 20 |           15-16 ans           |                                    COB (26,5€)                                    |
 {{< /table >}}
 
-> [Service-public. Visites médicales de l'enfant : examens obligatoires. 01/09/2023.](https://www.service-public.fr/particuliers/vosdroits/F967) et [Arrêté du 26/02/2019](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038175215/)
+> – *[Service-public. Visites médicales de l'enfant : examens obligatoires. 01/09/2023.](https://www.service-public.fr/particuliers/vosdroits/F967)* et *[Arrêté du 26/02/2019](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038175215/)*
 
 Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de suivi:
 
@@ -86,20 +86,20 @@ Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{
 
 ### Vaccinations de l'enfant
 
-{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Calendrier Vaccinal 2023 et DGS Urgent 2023-14" >}}
-| Âge     | Valences      | Spécialités équivalentes       |
-|:-------:|---------------|--------------------------------|
-| Né après<br>le 6/2/23 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Beyfortus au mieux avant<br>la sortie de maternité |
-| 2 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
-| 3 mois  | Méningo B<br>Rotavirus<br>Prématuré: Pneumo 13 | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>Prevenar 13 |
-| 4 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS) | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 3/3 |
-| 5 mois  | Méningo C<br>Méningo B | Menjugate, Neisvac<br>Bexsero |
-| 11 mois | DTCaP-Hib-HB<br>Pneumo 13 | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
-| 12 mois | Méningo C<br>ROR<br>Méningo B | Menjugate, Neisvac<br>MMRvaxPro, Priorix<br>Bexsero |
-| 16-18 mois | ROR        | MMRvaxPro, Priorix             |
-| 6 ans   | DTCaPolio     | ~~InfanrixTetra~~, Tetravac-acellulaire |
-| 11-13 ans   | dTcaPolio<br>(DTCaPolio si non fait)       | BoostrixTetra, Repevax<br>(voir 6 ans)    |
-| 11-14 ans   | HPV       | Gardasil9                      |
+{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Calendrier Vaccinal 2024" >}}
+|          Âge          | Valences                                        | Spécialités équivalentes                                                                |
+|:---------------------:|-------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Né après<br>le 6/2/23 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Beyfortus au mieux avant<br>la sortie de maternité                                      |
+|        2 mois         | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus          | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
+|        3 mois         | Méningo B<br>Rotavirus<br>Prématuré: Pneumo 13  | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>Vaxneuvance > Prevenar 13                        |
+|        4 mois         | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus          | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13<br>RotaTeq 3/3              |
+|        5 mois         | Méningo C<br>Méningo B                          | Neisvac<br>Bexsero                                                                      |
+|        11 mois        | DTCaP-Hib-HB<br>Pneumo 13                       | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13                             |
+|        12 mois        | Méningo C<br>ROR<br>Méningo B                   | Neisvac<br>MMRvaxPro, Priorix<br>Bexsero                                                |
+|      16-18 mois       | ROR                                             | MMRvaxPro, Priorix                                                                      |
+|         6 ans         | DTCaPolio                                       | ~~InfanrixTetra~~, Tetravac-acellulaire                                                 |
+|       11-13 ans       | dTcaPolio<br>(DTCaPolio si non fait)            | BoostrixTetra, Repevax<br>(voir *6 ans*)                                                |
+|       11-14 ans       | HPV<br>Méningo ACWY                             | Gardasil9 x 2<br>Nimenrix, MenQuadfi, Menveo (pas d'aiguille)                           |
 {{< /table >}}
 
 **Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours avec pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles. Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
@@ -107,18 +107,20 @@ Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{
 ### Rattrapage vaccinal
 
 {{< table title="Âges limites du rattrapage vaccinal systématique en population générale selon le Calendrier vaccinal" >}}
-| Germe        | Âge limite de rattrapage | Rattrapages spécifiques |
-|--------------|:------------------------:|-------------------------|
-| Coqueluche   | 39 ans                   |                         |
-| Haemophilus  | 5 ans                    | [Asplénie]({{< relref "asplenie.md" >}}) |
-| Hépatite B   | 15 ans                   | [Hépatite B]({{< relref "hepatite-b.md" >}}) |
-| Méningocoque B | 23 mois                |                         |
-| Méningocoque C | 24 ans                 | Dose unique après 12 mois |
-| Papillomavirus | 19 ans                 | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}}) |
-| Pneumocoque  | 23 mois                  |                         |
-| Rotavirus    | 3 mois                   |                         |
-| Rougeole<br>Oreillons<br>Rubéole | 42 ans |                       |
-| Varicelle    | 18 ans                   | [Autour d'un cas]({{< relref "varicelle.md" >}}) |
+| Pathologie                       |              Âge limite de rattrapage               | Rattrapages étendus                                    |
+|----------------------------------|:---------------------------------------------------:|--------------------------------------------------------|
+| Coqueluche                       |                       39 ans                        | [Grossesse voire cocooning]({{< relref "coqueluche.md" >}}) |
+| Haemophilus                      |                        5 ans                        | [Asplénie]({{< relref "asplenie.md" >}})               |
+| Hépatite B                       |                       15 ans                        | [Hépatite B]({{< relref "hepatite-b.md" >}})           |
+| Méningocoque ACWY                |                       24 ans                        | Dose unique si non fait entre 11 et 14 ans             |
+| Méningocoque B                   |                       23 mois                       |                                                        |
+| Méningocoque C                   |                       24 ans                        | Dose unique après 12 mois                              |
+| Papillomavirus (HPV)             |                       19 ans                        | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}})          |
+| Pneumocoque                      |                       23 mois                       | Asplénie, BPCO, cancer,  diabète, VIH ...              |
+| Rotavirus                        |                       4 mois                        | Doit être terminé avant 24 semaines                    |
+| Rougeole<br>Oreillons<br>Rubéole |                       44 ans                        |                                                        |
+| Tuberculose                      | Lire [tuberculose]({{< relref "tuberculose.md" >}}) |                                                        |
+| Varicelle                        |                       18 ans                        | [Autour d'un cas]({{< relref "varicelle.md" >}})       |
 {{< /table >}}
 
 {{% /collapse %}}
@@ -137,14 +139,14 @@ Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{
 {{%collapse "Développement dentaire" %}}
 
 {{< table title="Développement dentaire du nourrisson et de l'enfant" >}}
-| Âge (mois) | Spécificités                       |
-|-----------:|------------------------------------|
-|          5 | Apparition des incisives centrales |
-|          9 | Apparition des incisives latérales |
+| Âge (mois) | Spécificités                                                                                     |
+|-----------:|--------------------------------------------------------------------------------------------------|
+|          5 | Apparition des incisives centrales                                                               |
+|          9 | Apparition des incisives latérales                                                               |
 |         12 | Apparition des 1<sup>res</sup> molaires<br>1<sup>re</sup> consultation dentaire entre 12-18 mois |
-|         18 | Apparition des canines             |
-|         24 | Apparition des 2<sup>e</sup> molaires |
-|      6 ans | Apparition des premières incisives définitives |
+|         18 | Apparition des canines                                                                           |
+|         24 | Apparition des 2<sup>e</sup> molaires                                                            |
+|      6 ans | Apparition des premières incisives définitives                                                   |
 {{< /table >}}
 
 {{% /collapse %}}

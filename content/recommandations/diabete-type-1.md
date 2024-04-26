@@ -299,7 +299,7 @@ graph TB
 {{< card-link-external title="e-learning EASD" url="https://easd-elearning.org/">}}
 
 - {{< references/esc-diabetes-2023 >}}
-- {{< references/calendrier-vaccinal >}}
+- {{< references/calendrier-vaccinal-2023 >}}
 - [Holt R et al. The management of type 1 diabetes in adults. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481000/)
 - [Monnier L et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
 - [Valensi P et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_paper_sfc_sfd_march_2021.pdf)

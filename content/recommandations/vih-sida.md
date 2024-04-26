@@ -420,7 +420,7 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 
 {{< youtube id="XnQ4rNUkEyU" title="La minute RECO HAS | VIH : le suivi en médecine générale (Dr Jean-Philippe Joseph)" >}}
 
-- {{< references/calendrier-vaccinal >}}
+- {{< references/calendrier-vaccinal-2023 >}}
 - CMIT. Infection à VIH. Item 165 UE6. ECN.Pilly 2020.
 - [Cazein F. et al. Activité de dépistage du VIH et circonstances de découverte de l'infection à VIH, France 2018. Bull Epidémiol Hebd. 2019.](http://beh.santepubliquefrance.fr/beh/2019/31-32/2019_31-32_1.html)
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)

@@ -7,9 +7,9 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2024-02-02"
+lastmod = "2024-04-26"
 specialites = ["infectiologie", "pneumologie"]
-annees = "2023"
+annees = "2024"
 sources = ["MinSanté", "HAS"]
 tags = ["BPCO", "obesite", "prevention", "vaccin"]
 anglais = ["influenza", "flu"]
@@ -48,7 +48,7 @@ Maladie cardiovasculaire, risque d'infarctus du myocarde multiplié par 6-10 dan
 
 ### Épidémiologie de la grippe en France
 
-- 10.000 morts/an dont +90% chez les +65 ans.
+- 10.000 morts/an dont +90 % chez les +65 ans.
 - Couverture vaccinale 2019-2020 des personnes à risque: 45% (objectif *OMS* de 75%), 21% chez les femmes enceintes (*BEH 2023*)
 - Admis en réanimation pour grippe: mortalité de 20%.
 
@@ -86,7 +86,7 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 - Résident de SSR, EHPAD ou médico-social
 - Entourage des nourrissons de moins de 6 mois présentant des facteurs de risque de grippe grave: prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d'une affection de longue durée ainsi que l'entourage des personnes immunodéprimées.
 
-> {{< references/calendrier-vaccinal >}}
+> {{< references/calendrier-vaccinal-2023 >}}
 
 > << Les femmes enceintes constituent une population à risque d'infection grippale d'une gravité particulière avec des complications à court terme (mort fœtale et mort maternelle, hypoxémie réfractaire, complications des soins de réanimation) et à long terme sous forme d'insuffisance respiratoire. >> – *CNGOF 2013*
 {.alert .alert-warning}
@@ -97,7 +97,7 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 - Personnel navigant des bateaux de croisière et des avions et personnel de l'industrie des voyages accompagnant les groupes de voyageurs (guides)
 - Professionnel exposé aux virus porcins et aviaires
 
-> {{< references/calendrier-vaccinal >}}
+> {{< references/calendrier-vaccinal-2023 >}}
 
 ### Vaccination anti-grippale des enfants
 
@@ -153,7 +153,6 @@ Bon de prise en charge à 100% cerfa n°610e sur *Ameli pro*.
 
 Vaccins contre la grippe disponibles en France pour la campagne vaccinale:
 
-- Efluelda® (+65 ans)
 - FlurarixTetra®
 - InfluvacTetra®
 - VaxigripTetra®
@@ -220,10 +219,10 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [Ameli Médecin. Vacciner ses patients atteints de maladies chroniques contre la grippe et le Covid-19 est essentiel. 15/11/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/vacciner-ses-patients-atteints-de-maladies-chroniques-contre-la-grippe-et-le-covid-19-est-essentiel)
 - [Hanula R et al. Evaluation of Oseltamivir Used to Prevent Hospitalization in Outpatients With Influenza: A Systematic Review and Meta-analysis. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2805976)
 - [CMIT. Grippe. Item 166. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-166.pdf)
-- {{< references/calendrier-vaccinal >}}
 - [HAS. Tamiflu (oseltamivir). Commission de la transparence. 24/06/2020.](https://www.has-sante.fr/jcms/p_3191478)
 - Prescrire Redaction. Grippe saisonnière. Rev Prescrire. 2022.
 - [CNGOF. Grippe et grossesse. 2013. (PDF)](https://cngof.fr/app/pdf/R%C3%A9f%C3%A9rentiels//GRIPPE/2013_GRIPPE.pdf?x13417)

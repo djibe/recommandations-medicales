@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-14T19:48:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2024-01-26"
+lastmod = "2024-04-26"
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
 annees = "2023"
 sources = ["CMIT", "SPILF", "MinSanté"]
@@ -25,9 +25,9 @@ todo = "rankok, flowchart, zona en pédiatrie"
   zona ophtalmique, +50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs intenses en phase aiguë, lésions cutanées graves)
 - Critères d'hospitalisation du zona en urgence: immunodépression, atteinte organique ou [paralysie faciale zostérienne]({{< relref "paralysie-faciale-idiopathique.md" >}})
 - Vaccination post-exposition (varicelle) après 12 ans chez l'immunocompétent sans antécédent de varicelle en contact avec un cas de zona, après sérologie
-- Vaccination zona de 65 à 74 ans avec une seule dose par le médecin (vaccin vivant)
-- [PCR VIH]({{< relref "vih-sida.md" >}}) en cas de zona avant 50 ans
-- Douleurs post-zostériennes: traitement des [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}) locales (glaçage, protection locale voire emplâtres de lidocaïne) ou étendues (clomipramine ou carbamazépine si paroxystique)
+- Vaccination zona des +65 ans par 2 doses de Shingrix par le médecin (vaccin vivant)
+- Bilan avec [PCR VIH]({{< relref "vih-sida.md" >}}) en cas de zona avant 50 ans
+- Traitement des douleurs post-zostériennes: prise en charge des [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}) locales (glaçage, protection locale voire emplâtres de lidocaïne) ou étendues (clomipramine ou carbamazépine si paroxystique)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -132,15 +132,16 @@ Ulcérations pseudo-membraneuses et vésicules de l'hémilangue.
 
 ### Vaccination contre le zona
 
-Vaccin vivant: [Zostavax®](https://ec.europa.eu/health/documents/community-register/2019/20191024146373/anx_146373_fr.pdf) (104,74€, remb. 30% SS).
+> Shingrix 2 injections IM espacées de 2 mois
+{.alert .alert-info}
 
-Le vaccin zona Shingrix® n'est pas encore remboursé.
+Double dose chez les +65 immunocompétent (y compris en cas d'antécédents de zona, de Zostavax > 1 an) à M0-M2. Le *GOLD 2022* propose aussi de vacciner en cas de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}).
 
-**Indication:** dose unique sous-cutanée de 65 à 74 ans (y compris en antécédents de zona, *Calendrier vaccinal*). Le *GOLD 2022* propose aussi de vacciner en cas de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}).  
-**Contre-indication:** grossesse, immunodépression.  
-**Avis de Prescrire®:** Efficacité modeste. Pas d'intérêt à une vaccination systématique.
+**Contre-indications:** grossesse, immunodépression.
 
-Comme tous les vaccins vivants, la vaccination anti-zostérienne doit être réalisée par un médecin ([arrêté 2022-610](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045638858)).
+En l'absence de Shingrix®, continuer le Zostavax® dose unique sous-cutanée de 65 à 74 ans.
+
+Comme tous les vaccins vivants, la vaccination anti-zostérienne doit être réalisée par un médecin (*[arrêté 2022-610](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045638858)*).
 
 ### Vaccination post-exposition du zona
 
@@ -252,10 +253,10 @@ Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{< rel
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [de Oliveira Gomes J et al. Vaccines for preventing herpes zoster in older adults. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008858.pub5/full/fr)
 - [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-168.pdf)
 - [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 169. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-169-%E2%80%94-Infection-a-VIH-manifestations-cutaneo-muqueuses-de-la-primo-infection-a-VIH_CompressPdf.pdf)
-- {{< references/calendrier-vaccinal >}}
 - Prescrire Redaction. Douleurs postzostériennes. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - Prescrire Redaction. Zona. L'essentiel sur les soins de premier choix. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [SFORL. Prise en charge de la Paralysie Faciale Idiopathique à la phase aiguë chez l'adulte. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-de-la-Paralysie-Faciale-Idiopathique-%C3%A0-la-phase-aigu%C3%AB-chez-l-adulte-2020.pdf)

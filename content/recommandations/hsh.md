@@ -8,7 +8,7 @@ synonyms = ["Homosexuel ou bisexuel masculin"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-22T17:43:41+02:00"
 publishdate = "2020-07-22"
-lastmod = "2023-12-14"
+lastmod = "2024-04-26"
 specialites = ["infectiologie"]
 annees = "2020"
 sources = ["HAS", "MinSanté"]
@@ -112,7 +112,7 @@ Spécialités chez l'adulte:
 {{% /collapse %}}
 {{%collapse "Prise en charge des HSH" "show" %}}
 
-{{< mermaid title="Prise en charge des hommes ayant des rapports sexuels avec des hommes par le médecin généraliste. Dr JB Fron d'après HAS" >}}
+{{< mermaid title="Prise en charge des hommes ayant des rapports sexuels avec des hommes (HSH) par le médecin généraliste. Dr JB Fron d'après HAS" >}}
 graph TB
   HSH["<b>Homme ayant des rapports<br>sexuels avec des hommes</b>"] --> prévention("<b>Prévention</b><br>—<br>- Préservatif systématique<br>- PrEP<br>- Vaccinations VHA, VHB,<br>monkeypox, HPV 26 ans<br>- Information sur les IST<br>- Informations chemsex")
   HSH --> dépistages("<b>Dépistages</b><br>—<br>- Dépression<br>- VIH 3 mois<br>- Chlamydia 3-6 mois")
@@ -122,8 +122,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
 - {{< references/calendrier-vaccinal >}}
+- [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
 - [Le Bourhis-Zaimi M et al. Épidémie d'hépatite A parmi des hommes ayant des rapports sexuels avec des hommes, Rouen, décembre 2016 – avril 2017. BEH. 2017.](http://beh.santepubliquefrance.fr/beh/2017/18/2017_18_2.html)

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2024-02-29"
+lastmod = "2024-04-26"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "CRAT", "SFD"]
@@ -25,7 +25,7 @@ chart = true
 
 - 0 alcool et 0 tabac pendant la grossesse, interroger à chaque consultation
 - 1/3 des tests de grossesse sont non conformes (*[DGCCRF](https://www.economie.gouv.fr/dgccrf/les-autotests-de-fertilite-au-banc-dessai)*)
-- Vaccins grippe et coqueluche à chaque grossesse et 3 doses cumulées de Covid-19
+- Vaccins Covid-19, grippe et coqueluche à chaque grossesse
 - [Nata](https://play.google.com/store/search?q=NATA&c=apps): l'appli officielle du suivi de grossesse multilingue
 - Besoins en [calcium]({{< relref "apports-calcium.md" >}}): 1 g/j (*IOF*) et [alimentation pendant la grossesse (MangerBouger)](https://www.mangerbouger.fr/manger-mieux/a-tout-age-et-a-chaque-etape-de-la-vie/les-recommandations-et-conseils-avant-pendant-et-apres-la-grossesse/manger-equilibre-avant-pendant-et-apres-la-grossesse)
 
@@ -119,6 +119,8 @@ Malgré les fermetures, **43 %** des maternités ont réalisé en 2020 **moins d
 {{% /collapse %}}
 {{%collapse "Suivi de grossesse" "show"%}}
 
+Vaccinations Covid-19 et grippe à n'importe quel terme et coqueluche entre 20 et 36 SA à chaque grossesse.
+
 {{< table title="Suivi simplifié de la grossesse. Dr JB Fron d'après HAS 2009 et Collège" class="table-wrap">}}
 | Moment   | Clinique | Examen  | Traitement |
 |----------|----------|---------|------------|
@@ -148,7 +150,7 @@ Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{< re
   Délai minimal entre 2 doses de 4 semaines.
 - Avant ou en début de période épidémique: [grippe]({{< relref "grippe.md" >}})
 
-> – {{< references/calendrier-vaccinal >}} et *Vaccination Info Service*
+> – {{< references/calendrier-vaccinal-2023 >}} et *Vaccination Info Service*
 
 {{< card-link-external title="Tableau Vaccins et grossesse" url="https://ansm.sante.fr/uploads/2022/04/27/20220427-dossier-medicament-grossesse-vaccins-tableau.pdf" subtitle="par l'ANSM" >}}
 
@@ -259,7 +261,8 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ameli Médecin.  Maternité : l'examen bucco-dentaire désormais pris en charge jusqu'au 6e mois après l'accouchement. 28/02/2024.](https://www.ameli.fr/medecin/actualites/maternite-l-examen-bucco-dentaire-desormais-pris-en-charge-jusqu-au-6e-mois-apres-l-accouchement)
+- {{< references/calendrier-vaccinal >}}
+- [Ameli Médecin. Maternité : l'examen bucco-dentaire désormais pris en charge jusqu'au 6e mois après l'accouchement. 28/02/2024.](https://www.ameli.fr/medecin/actualites/maternite-l-examen-bucco-dentaire-desormais-pris-en-charge-jusqu-au-6e-mois-apres-l-accouchement)
 - [Insee. Bilan démographique 2023 - Fécondité. 2024.](https://www.insee.fr/fr/statistiques/7746164?sommaire=7746197)
 - [HCSP. Dépistage systématique de l'infection à cytomégalovirus pendant la grossesse. 08/12/2023.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1367)
 - [Ministère de la Santé. Vaccination contre le Covid-19 et maternité. 2023. (PDF)](https://sante.gouv.fr/IMG/pdf/fiche_-_vaccination_contre_le_covid-19_et_maternite.pdf)

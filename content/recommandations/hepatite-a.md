@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-10T18:52:41+02:00"
 publishdate = "2021-02-10"
-lastmod = "2023-12-30"
+lastmod = "2024-04-26"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2022"
+annees = "2024"
 sources = ["MinSanté", "Pasteur"]
 tags = ["fatigue", "hepatite", "HSH", "IST", "prevention", "vaccin", "voyage"]
 anglais = ["Viral hepatitis type A"]
@@ -65,6 +65,7 @@ Indications à la vaccination hépatite A:
 - Entourage d'un cas d'une communauté précaire  
   Dans les 14 jours après le début des signes chez le cas.
 - Professionnels
+  - médecins avec exercice de pédiatrie ou de handicap
   - de la petite enfance (enfants sans propreté)
   - accueil de personnes handicapées
   - collecte des eaux usées et égouts
@@ -124,9 +125,9 @@ graph TB
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
-- [Ministère de la Santé. L'hépatite A. 16/03/2022.](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/l-hepatite-a)
-- [Organisation Mondiale de la Santé. Hépatite A. 27/07/2020.](https://www.who.int/fr/news-room/fact-sheets/detail/hepatitis-a)
-- [Vaccination Info Service Professionnels. Hépatite A. 21/04/2020.](https://professionnels.vaccination-info-service.fr/Maladies-et-leurs-vaccins/Hepatite-A)
+- [Ministère de la Santé. L'hépatite A. 26/03/2024.](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/l-hepatite-a)
+- [Vaccination Info Service Professionnels. Hépatite A. 21/09/2023.](https://professionnels.vaccination-info-service.fr/Maladies-et-leurs-vaccins/Hepatite-A)
+- [Organisation Mondiale de la Santé. Hépatite A. 20/07/2023.](https://www.who.int/fr/news-room/fact-sheets/detail/hepatitis-a)
 
 ### Bibliographie en attente
 

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-07T12:03:00+02:00"
 publishdate = "2021-09-07"
-lastmod = "2024-02-01"
+lastmod = "2024-04-26"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2023"
 sources = ["HAS", "AFEF", "SNFGE"]
@@ -158,7 +158,7 @@ Indications à la vaccination hépatite B:
 - Tout adolescent jusqu'à 15 ans révolus
 - Nouveau-nés de mère AgHBs+ ou nés en Guyane ou à Mayotte
 - Institution psychiatrique
-- Partenaires multiples, exposition aux IST ou IST récente
+- Partenaires sexuels multiples, exposition aux [IST](/tags/ist/) ou IST récente
 - Usager de drogue IV ou intra-nasale
 - Voyage ou résidence en pays de moyenne/forte endémie
 - Potentielles transfusions répétées*  
@@ -371,8 +371,8 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler.
 
 {{< youtube id="XfEdz-xm9qs" title="Sérologie de l'hépatite B autour de la vaccination (VacciNews)" >}}
 
-- [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées chroniquement par le virus de l'hépatite B +/- de l'hépatite delta. 2023.](https://www.has-sante.fr/jcms/p_3324682/fr/prise-en-charge-des-personnes-infectees-par-les-virus-de-l-hepatite-b-c-ou-d)
 - {{< references/calendrier-vaccinal >}}
+- [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées chroniquement par le virus de l'hépatite B +/- de l'hépatite delta. 2023.](https://www.has-sante.fr/jcms/p_3324682/fr/prise-en-charge-des-personnes-infectees-par-les-virus-de-l-hepatite-b-c-ou-d)
 - [CMIT. Hépatites virales. Item 167. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-167.pdf)
 - {{< references/afef-foie-non-invasif >}}
 - [Sogni P; SNFGE, AFEF. Prise en charge d'un patient porteur chronique de l'AgHBs. Conseil de pratique. 2018. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp_019_vhb_mars_2018_0.pdf)

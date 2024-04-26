@@ -119,7 +119,7 @@ Signes et symptômes à rechercher lors d'une suspicion d'entorse de la cheville
 
 {{%info%}}
 
-#### Critères d'Ottawa
+### Critères d'Ottawa
 
 Évaluation systématique des règles d'Ottawa pour réaliser des radiographies (si ≥ 1 critère chez le +5 ans):
 

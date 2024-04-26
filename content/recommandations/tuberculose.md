@@ -7,7 +7,7 @@ synonyms = ["Bacille de Koch", "Mycobacterium tuberculosis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-06-03T15:14:20+02:00"
 publishdate = "2020-06-03"
-lastmod = "2023-07-10"
+lastmod = "2024-04-26"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2017"
 sources = ["HAS", "MinSanté", "CMIT"]
@@ -28,10 +28,13 @@ todo = "lecture tubertest, quantiferon positif signe TM ?, KEY: maladie, lutte c
 {{%/article-summary%}}
 {{%collapse "Vaccination BCG" %}}
 
-Le vaccin BCG (BCG AJVaccines®) est disponible uniquement en centre de vaccination, PMI ou CLAT.  
-Il est réalisé à partir de 1 mois, idéalement à **2 mois** et réalisé **jusqu'à 15 ans**.
+Le vaccin BCG (BCG AJVaccines®) est disponible uniquement en centre de vaccination, **PMI** ou centre de lutte antituberculeuse (**CLAT**).
+
+Le BCG est réalisé à partir d'un mois, idéalement à **2 mois** et rattrapé **jusqu'à 15 ans**.
 
 ### Indications au BCG en 2024
+
+Le BCG est indiqué en cas de risque élevé de tuberculose parmi:
 
 - Avant la sortie de la maternité: en Guyane ou à Mayotte ou cas récent (< 5 ans) de tuberculose dans son entourage
 - Enfant né dans un pays de forte endémie (voir plus bas)
@@ -62,7 +65,7 @@ Le BCG peut être administré en même temps que n'importe quel autre vaccin mai
   Sauf Grèce, Hongrie, Croatie, Slovaquie, Slovénie et République Tchèque.
 - Groenland
 
-> – *[Santé Publique France. Liste des pays de haute endémie (taux d'incidence > 40 cas de tuberculose/100.000 habitants), année 2021.](https://www.santepubliquefrance.fr/media/files/01-maladies-et-traumatismes/maladies-et-infections-respiratoires/tuberculose/donnees-tuberculose_tableau-12)*
+> – *[Santé Publique France. Liste des pays de haute endémie (taux d'incidence > 40 cas de tuberculose/100.000 habitants), année 2022.](https://www.santepubliquefrance.fr/media/files/01-maladies-et-traumatismes/maladies-et-infections-respiratoires/tuberculose/donnees-tuberculose_tableau-12)*
 
 {{% /collapse %}}
 {{%collapse "Suivi thérapeutique de la tuberculose" %}}
@@ -111,7 +114,7 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
-- [HAS. Tuberculose maladie. Juin 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/actualisationlap_tuberculose__web_.pdf)
+- [HAS. Tuberculose maladie. Actes et prestations Affection de longue durée. 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/actualisationlap_tuberculose__web_.pdf)
 
 ### Bibliographie en attente
 

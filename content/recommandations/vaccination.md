@@ -1,15 +1,15 @@
 +++
-title = "Vaccination et calendrier vaccinal 2023"
+title = "Vaccination et calendrier vaccinal 2024"
 prefix = "la "
 titleSeo = "vaccination"
-description = "Recommandations sur les vaccins selon le Calendrier vaccinal 2023. Âge de rattrapage, vaccins selon l'âge, taille d'aiguille et sites d'injection des vaccins"
+description = "Recommandations sur les vaccins selon le Calendrier vaccinal 2024. Âge de rattrapage, vaccins selon l'âge, taille d'aiguille et sites d'injection des vaccins"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2024-04-18"
+lastmod = "2024-04-26"
 specialites = ["infectiologie", "pediatrie", "therapeutique"]
-annees = "2023"
+annees = "2024"
 sources = ["MinSanté", "HCSP"]
 tags = ["BPCO", "diabete", "grossesse", "prevention", "vaccin", "zona"]
 anglais = ["Immunization", "vaccination"]
@@ -57,28 +57,27 @@ VVA
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Calendrier vaccinal 2023" "show" %}}
+{{%collapse "Calendrier vaccinal 2024" "show" %}}
 
-{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Calendrier vaccinal 2023 et DGS Urgent 2023-14." >}}
+{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Calendrier vaccinal 2024 et DGS Urgent 2023-14." >}}
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
 |   Né après<br>le 6/2/23 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Beyfortus au mieux avant<br>la sortie de maternité                |
-|   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
-|   3 mois   | Méningo B<br>Rotavirus<br>Prématuré: Pneumo 13       | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>Prevenar 13                        |
-|   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 3/3              |
-|   5 mois   | Méningo C<br>Méningo B                               | Menjugate, Neisvac<br>Bexsero                                             |
-|  11 mois   | DTCaP-Hib-HB<br>Pneumo 13                            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13                             |
-|  12 mois   | Méningo C<br>ROR<br>Méningo B                        | Menjugate, Neisvac<br>MMRvaxPro, Priorix<br>Bexsero                       |
+|   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
+|   3 mois   | Méningo B<br>Rotavirus<br>Prématuré: Pneumo 13       | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>Vaxneuvance > Prevenar 13          |
+|   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13<br>RotaTeq 3/3 |
+|   5 mois   | Méningo C<br>Méningo B                               | Neisvac<br>Bexsero                                                        |
+|  11 mois   | DTCaP-Hib-HB<br>Pneumo 13                            | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13               |
+|  12 mois   | Méningo C<br>ROR<br>Méningo B                        | Neisvac<br>MMRvaxPro, Priorix<br>Bexsero                                  |
 | 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si non fait)                 | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
-| 11-14 ans  | HPV                                                  | Gardasil9                                                                 |
+| 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 x 2<br>Nimenrix, MenQuadfi, Menveo (pas d'aiguille)             |
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
-|   45 ans   | dTPolio                                              | Revaxis                                                                   |
-|  +65 ans   | dTPolio tous les 10 ans<br>Antigrippal annuel        | Revaxis<br>Efluelda, Flurarix-Influvac-Vaxigrip Tetra                     |
-| 65-74 ans  | Zona                                                 | Zostavax (vivant)                                                         |
+|   45 ans   | dTPolio                                              | Revaxis (arrêt 2024) > dTcaPolio                                          |
+|  +65 ans   | dTPolio tous les 10 ans<br>Annuels: grippe + Covid-19<br>Zona | Revaxis<br>Flurarix-Influvac-Vaxigrip Tetra + ARNm Covid-19<br>Shingrix x 2 |
 | Grossesse  | Coqueluche, Covid, grippe                            | BoostrixTetra, Repevax ...                                                |
-| Médecin généraliste | Coqueluche à chaque dTP, Covid-19, grippe, ROR, varicelle, VHA, VHB |                                                   |
+| Médecin généraliste | Coqueluche à chaque dTP, Covid-19, grippe, ROR, varicelle, VHB |                                                        |
 {{< /table >}}
 
 **Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours (pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles). Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
@@ -92,19 +91,21 @@ VVA
 {.alert .alert-info}
 
 {{< table title="Âges limites du rattrapage vaccinal systématique en population générale selon le Calendrier vaccinal" >}}
-| Pathologie                       |              Âge limite de rattrapage               | Rattrapages spécifiques                                |
+| Pathologie                       |              Âge limite de rattrapage               | Rattrapages étendus                                    |
 |----------------------------------|:---------------------------------------------------:|--------------------------------------------------------|
 | Coqueluche                       |                       39 ans                        | [Grossesse voire cocooning]({{< relref "coqueluche.md" >}}) |
 | Haemophilus                      |                        5 ans                        | [Asplénie]({{< relref "asplenie.md" >}})               |
 | Hépatite B                       |                       15 ans                        | [Hépatite B]({{< relref "hepatite-b.md" >}})           |
+| Méningocoque ACWY                |                       24 ans                        | Dose unique si non fait entre 11 et 14 ans             |
 | Méningocoque B                   |                       23 mois                       |                                                        |
 | Méningocoque C                   |                       24 ans                        | Dose unique après 12 mois                              |
-| Papillomavirus                   |                       19 ans                        | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}})          |
-| Pneumocoque                      |                       23 mois                       | BPCO, diabète ...                                      |
-| Rotavirus                        |                       3 mois                        |                                                        |
-| Rougeole<br>Oreillons<br>Rubéole |                       43 ans                        |                                                        |
+| Papillomavirus (HPV)             |                       19 ans                        | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}})          |
+| Pneumocoque                      |                       23 mois                       | Asplénie, BPCO, cancer,  diabète, VIH ...              |
+| Rotavirus                        |                       4 mois                        | Doit être terminé avant 24 semaines                    |
+| Rougeole<br>Oreillons<br>Rubéole |                       44 ans                        |                                                        |
 | Tuberculose                      | Lire [tuberculose]({{< relref "tuberculose.md" >}}) |                                                        |
 | Varicelle                        |                       18 ans                        | [Autour d'un cas]({{< relref "varicelle.md" >}})       |
+| Zona                             |                        Aucune                       | [À partir de 65 ans]({{< relref "zona.md" >}})         |
 {{< /table >}}
 
 ### Rattrapage du vaccin méningocoque B
@@ -140,7 +141,7 @@ Lire le *Calendrier vaccinal* page 75.
 2. Tétanos
 3. Poliomyélite
 
-> *[Loi 2007-293](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687781/2007-03-06)*
+> – *[Loi 2007-293](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687781/2007-03-06)*
 
 ### Enfant né après le 1<sup>er</sup> janvier 2018
 
@@ -174,7 +175,7 @@ Personnes nécessitant un schéma vaccinal renforcé (détail des vaccinations d
   - Pas de recommandations spécifiques sous immunothérapie, thérapie ciblée ou hormonothérapie
   - Calendrier vaccinal avec rappel systématique 3 mois après l'arrêt de la chimio (6 mois si hémopathie)
   - Covid-19 (+ entourage)
-  - Grippe (2 doses à M0M1 si chimio et période épidémique à < 6 mois)
+  - Grippe (2 doses à M0-M1 si chimio et période épidémique à < 6 mois)
   - Pneumocoque. Schéma complet à refaire 3 mois après l'arrêt de la chimio si primo-vaccination avant la chimio
   - Vaccins vivants contre-indiqués pendant et jusqu'à 6 mois après
 - Cardio-vasculaire
@@ -308,8 +309,8 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
-- [Service Public. Les pharmaciens peuvent désormais vous prescrire et vous administrer vos vaccins. 30/08/2023.](https://www.service-public.fr/particuliers/actualites/A16732) et [arrêté 2023-736](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047948973)
 - {{< references/calendrier-vaccinal >}}
+- [Service Public. Les pharmaciens peuvent désormais vous prescrire et vous administrer vos vaccins. 30/08/2023.](https://www.service-public.fr/particuliers/actualites/A16732) et [arrêté 2023-736](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047948973)
 - [Ministère de la Santé. La vaccination du nourrisson contre les rotavirus. Questions/Réponses pour les professionnels de santé. Novembre 2022.](https://sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-ps.pdf)
 - [Omedit Auvergne. Vaccination et Chimiothérapie. 22/07/2022.](https://www.omedit-auvergne-rhone-alpes.ars.sante.fr/vaccination-et-chimiotherapie)
 - [Décret 2022-610 pour la vaccination par les infirmiers et pharmaciens. Journal officiel.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045638858)

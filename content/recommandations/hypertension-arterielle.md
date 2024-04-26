@@ -186,7 +186,7 @@ Une mesure standardisée est nécessaire pour le contrôle des objectifs tension
   - 1 doigt peut être aisément glissé sous le brassard à ses extrémités
 - Mesures
   - Utiliser le bras avec les valeurs les plus hautes  
-    Une différence de 15-20 mmHg nécessite un avis cardiologique.
+    Une différence de 15-20 mmHg nécessite un avis cardiologique (asymétrie tensionnelle).
   - 3 mesures (2 si normales) espacées de 1 minute et noter la moyenne des 2 dernières
   - En manuel: gonfler 20-30 mmHg au-delà de la disparition du premier bruit de Korotkoff. Dégonfler de 2-3 mmHg/s.
   - **Enfants, grossesse, arythmie**: contrôler manuellement la tension (ou avec un appareil validé)
