@@ -155,9 +155,9 @@ Vaccination de la méningite C en prévention primaire de tous les nourrissons: 
 
 Pour la vaccination des **sujets contacts** en prévention secondaire, lire *Calendrier vaccinal*.
 
-#### Méningocoque A/Y/W
+#### Méningocoque A/W/Y
 
-Vaccination de la méningite A, W, Y en prévention primaire: adolescent de 11 à 14 ans (rattrapage jusqu'à 24 ans), immunodépression ([asplénie]({{< relref "asplenie.md" >}})), laboratoire travaillant sur le méningocoque, voyage (La Mecque).
+Vaccination de la méningite A, W, Y en prévention primaire avec **dose unique**: adolescent de 11 à 14 ans (rattrapage jusqu'à 24 ans), immunodépression ([asplénie]({{< relref "asplenie.md" >}})), laboratoire travaillant sur le méningocoque, voyage (La Mecque).
 
 Spécialités disponibles: [Menquadfi®](https://ec.europa.eu/health/documents/community-register/2022/20220929157200/anx_157200_fr.pdf), Menveo® (fourni sans seringue ni aiguille) ou [Nimenrix®](https://ec.europa.eu/health/documents/community-register/2023/20230223158551/anx_158551_fr.pdf)
 

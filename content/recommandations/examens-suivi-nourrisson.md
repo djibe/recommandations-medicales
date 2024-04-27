@@ -87,19 +87,19 @@ Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{
 ### Vaccinations de l'enfant
 
 {{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie sauf NR. Dr JB Fron d'après Calendrier Vaccinal 2024" >}}
-|          Âge          | Valences                                        | Spécialités équivalentes                                                                |
-|:---------------------:|-------------------------------------------------|-----------------------------------------------------------------------------------------|
-| Né après<br>le 6/2/23 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Beyfortus au mieux avant<br>la sortie de maternité                                      |
-|        2 mois         | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus          | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
-|        3 mois         | Méningo B<br>Rotavirus<br>Prématuré: Pneumo 13  | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>Vaxneuvance > Prevenar 13                        |
-|        4 mois         | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus          | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13<br>RotaTeq 3/3              |
-|        5 mois         | Méningo C<br>Méningo B                          | Neisvac<br>Bexsero                                                                      |
-|        11 mois        | DTCaP-Hib-HB<br>Pneumo 13                       | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13                             |
-|        12 mois        | Méningo C<br>ROR<br>Méningo B                   | Neisvac<br>MMRvaxPro, Priorix<br>Bexsero                                                |
-|      16-18 mois       | ROR                                             | MMRvaxPro, Priorix                                                                      |
-|         6 ans         | DTCaPolio                                       | ~~InfanrixTetra~~, Tetravac-acellulaire                                                 |
-|       11-13 ans       | dTcaPolio<br>(DTCaPolio si non fait)            | BoostrixTetra, Repevax<br>(voir *6 ans*)                                                |
-|       11-14 ans       | HPV<br>Méningo ACWY                             | Gardasil9 x 2<br>NR: Nimenrix, MenQuadfi, Menveo (pas d'aiguille)                       |
+|    Âge     | Valences                                             | Spécialités équivalentes                                                  |
+|:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
+|   Né après<br>le 6/2/23 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Beyfortus au mieux avant<br>la sortie de maternité                |
+|   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
+|   3 mois   | Méningo B<br>Rotavirus<br>Prématuré: Pneumo 13       | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>Vaxneuvance > Prevenar 13          |
+|   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13<br>RotaTeq 3/3 |
+|   5 mois   | Méningo C<br>Méningo B                               | Neisvac<br>Bexsero                                                        |
+|  11 mois   | DTCaP-Hib-HB<br>Pneumo 13                            | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13               |
+|  12 mois   | Méningo C<br>ROR<br>Méningo B                        | Neisvac<br>MMRvaxPro, Priorix<br>Bexsero                                  |
+| 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
+|   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
+| 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
+| 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>NR: Nimenrix, MenQuadfi ou<br>Menveo (pas d'aiguille)  |
 {{< /table >}}
 
 **Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours avec pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles. Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)

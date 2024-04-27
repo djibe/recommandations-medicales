@@ -72,15 +72,15 @@ VVA
 | 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
-| 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 x 2<br>NR: Nimenrix, MenQuadfi ou<br>Menveo (pas d'aiguille)    |
+| 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>NR: Nimenrix, MenQuadfi ou<br>Menveo (pas d'aiguille)  |
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |   45 ans   | dTPolio                                              | Revaxis (arrêt 2024) > dTcaPolio                                          |
-|  +65 ans   | dTPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Zona | Revaxis<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>NR: Shingrix x 2 |
+|  +65 ans   | dTPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Zona | Revaxis<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>NR: Shingrix M0-M2 |
 | Grossesse  | Coqueluche, Covid, grippe                            | BoostrixTetra, Repevax ...                                                |
 | Médecin généraliste | Coqueluche à chaque dTP,<br>Covid-19, grippe, ROR,<br>varicelle, VHB |                                                  |
 {{< /table >}}
 
-> Les consultations à 25, 45 et 65 ans sont gratuites avec la **cotation RDV**.
+> Les consultations à 25, 45 et 65 ans sont gratuites avec la **cotation RDV** (30€).
 
 ### Vaccin rotavirus
 
