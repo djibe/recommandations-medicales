@@ -32,7 +32,7 @@ flowchart = true
 - Traitement antidépresseur de la dépression: {{< modal-btn modal-isrs >}}inhibiteur sélectif de la recapture de la sérotonine{{< /modal-btn >}} (ISRS) ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}} en première intention, à envisager pour un EDC d'intensité modérée et systématique si sévère
 - Consultation psychiatrique en cas de diagnostic incertain, comorbidités psychiatriques, suspicion de maladie bipolaire ou psychose, dépression sévère ou résistante
 
-La dépression de l'enfant et la dépression récurrente seront traités ultérieurement.
+La dépression de l'enfant et la dépression récurrente seront traitées ultérieurement.
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

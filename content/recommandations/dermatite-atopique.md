@@ -177,7 +177,7 @@ Application 1 à 2 fois/j au long cours en couche épaisse (1 kg/mois chez l'adu
 - Niveau 2: Préparation*  
   Glycérolé d'amidon 35 g + Cold Cream Fluide 300 mL sur tout le corps (*CHRU Lille*)
 - Niveau 3: Cérat de Galien ou préparation*:  
-  Cire blanche 26 g + Huile de paraffine 107 g + Eau stérile 66 g + Borate de sodium 1 g (*CHRU Lille*)
+  Après 30 mois: Cire blanche 26 g + Huile de paraffine 107 g + Eau stérile 66 g + Borate de sodium 1 g (*CHRU Lille*)
 - Niveau 4  
   Blanc de baleine synthétique 11,75 g + Cire blanche d'abeille 13,5 g + Huile paraffine 63,25 g (*CHRU Lille*)
 - Nourrisson: 150-200 g/sem

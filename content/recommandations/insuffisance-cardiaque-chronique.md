@@ -241,12 +241,12 @@ Bilan initial devant une suspicion d'insuffisance cardiaque:
 - TSH
 - NT-proBNP
 - Radiographie thoracique
-- ECG de repos 12 dérivatiosn
+- ECG de repos 12 dérivations
 - Consultation de cardiologie
 - Échocardiographie
 - Bilan des autres suspicions diagnostiques ({{< modal-btn modal-depistage-bpco >}}spirométrie{{< /modal-btn >}})
 
-> *ESC 2021*
+> – *ESC 2021*
 {{%/info%}}
 
 ### Peptides natriurétiques

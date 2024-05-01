@@ -90,11 +90,11 @@ Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
 |   Né après<br>le 6/2/23 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Beyfortus au mieux avant<br>la sortie de maternité                |
-|   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
-|   3 mois   | Méningo B<br>Rotavirus<br>Prématuré: Pneumo 13       | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>Vaxneuvance > Prevenar 13          |
-|   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13<br>RotaTeq 3/3 |
+|   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 1/3, Rotarix 1/2 |
+|   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + pneumocoque) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance)         |
+|   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3 |
 |   5 mois   | Méningo C<br>Méningo B                               | Neisvac<br>Bexsero                                                        |
-|  11 mois   | DTCaP-Hib-HB<br>Pneumo 13                            | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13               |
+|  11 mois   | DTCaP-Hib-HB<br>Pneumo 13                            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance                |
 |  12 mois   | Méningo C<br>ROR<br>Méningo B                        | Neisvac<br>MMRvaxPro, Priorix<br>Bexsero                                  |
 | 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |

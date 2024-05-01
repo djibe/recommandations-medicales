@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2024-04-26"
+lastmod = "2024-05-01"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "CRAT", "SFD"]
@@ -150,7 +150,7 @@ Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{< re
   Délai minimal entre 2 doses de 4 semaines.
 - Avant ou en début de période épidémique: [grippe]({{< relref "grippe.md" >}})
 
-> – {{< references/calendrier-vaccinal-2023 >}} et *Vaccination Info Service*
+> – {{< references/calendrier-vaccinal >}} et *Vaccination Info Service*
 
 {{< card-link-external title="Tableau Vaccins et grossesse" url="https://ansm.sante.fr/uploads/2022/04/27/20220427-dossier-medicament-grossesse-vaccins-tableau.pdf" subtitle="par l'ANSM" >}}
 
