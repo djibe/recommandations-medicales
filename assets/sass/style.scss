@@ -1545,6 +1545,10 @@ div.mermaidTooltip {
 }
 
 // Utilities
+.mx-5 {
+  margin-inline: 3rem !important;
+}
+
 .bg-primary-light {
   background-color: var(--primary-light);
 }

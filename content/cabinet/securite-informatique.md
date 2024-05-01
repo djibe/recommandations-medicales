@@ -30,16 +30,17 @@ Les logiciels présentés plus bas peuvent être installés avec **WingetUI**.
 
 > Les informations ci-dessous proviennent des comparatifs d'antivirus [AV-Test](https://www.av-test.org/fr/) et [AV-Comparatives](https://www.av-comparatives.org/consumer/).
 
-L'antivirus par défaut de Windows, **Microsoft Defender** assure une protection efficace.  
-Il faut néanmoins s'assurer qu'il est bien actif: dans le menu Démarrer, tapez << Sécurité Windows >> et cliquer sur l'application correspondante. Aller dans **Protection contre les virus et les menaces** et vérifier que tous les modules sont activés.
+L'antivirus par défaut de Windows, **Microsoft Defender** assure une protection efficace. Il faut néanmoins s'assurer qu'il est bien actif: dans le menu Démarrer, tapez << Sécurité Windows >> et cliquer sur l'application correspondante. Aller dans **Protection contre les virus et les menaces** et vérifier que tous les modules sont activés.
 
 Antivirus gratuits alternatifs: Avast Free, AVG Free, Bitdefender Free. Les mêmes antivirus gratuits sont recommandés sur le téléphone portable (disponibles depuis **WingetUI**). Malwarebytes Antimalware est également intéressant pour faire des scans occasionnels.
 
-Antivirus payants de haute protection: Avira, Bitdefender, GDATA, McAfee.
+**Antivirus payants** de haute protection: Avira, Bitdefender, GDATA, McAfee.
 
-L'antivirus russe Kaspersky n'est pas cité selon les [préconisations de l'ANSSI](https://www.cert.ssi.gouv.fr/cti/CERTFR-2022-CTI-001/) (Agence nationale de la sécurité des systèmes d'information).
+> L'antivirus russe Kaspersky n'est pas cité selon les [préconisations de l'ANSSI](https://www.cert.ssi.gouv.fr/cti/CERTFR-2022-CTI-001/) (Agence nationale de la sécurité des systèmes d'information).
 
 Sur Mac, un antivirus peut être ajouté, et les grands noms sont tous efficaces: Avast Free, AVG Free, Avira, Bitdefender, Trend Micro.
+
+Sur mobile, les mêmes noms DOIVENT être utilisés.
 
 ## Les mots de passe
 
@@ -53,7 +54,7 @@ Tous les navigateurs internet récents permettent de générer des mots de passe
 
 Le respect de ces standards de sécurité sont accessibles facilement par chacun sous réserve de l'utilisation d'un **gestionnaire de mots de passe**.
 
-Les navigateurs récents peuvent gérer ces mots de passe (Google Chrome, Microsoft Edge avec l'application Authenticator sur mobile) sous réserve que le mot de passe du compte Google/Microsoft... soit lui aussi fort et géré avec une double authentification (SMS ou autre).
+Les navigateurs récents peuvent gérer ces mots de passe (Google Chrome et Google Wallet sur mobile, Microsoft Edge et l'appli Authenticator sur mobile) sous réserve que le mot de passe du compte Google/Microsoft... soit lui aussi fort et géré avec une double authentification (SMS ou code).
 
 Les gestionnaires de mots de passe dédiés recommandés sont: 1Password, Bitwarden, Dashlane, Enpass, Keepass, NordPass.
 

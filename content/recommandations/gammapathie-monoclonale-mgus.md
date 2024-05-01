@@ -2,12 +2,12 @@
 title = "Pic monoclonal et gammapathie monoclonale de signification indéterminée (MGUS ou GMSI)"
 titleSeo = "Gammapathie monoclonale MGUS"
 prefix = "la "
-description = "Recommandations pour l'exploration d'un pic monoclonal et d'une gammapathie monoclonale de signification indéterminée (MGUS). Electrophorèse des protéines, IgG"
+description = "Recommandations pour l'exploration d'un pic monoclonal IgG ou IgM et d'une gammapathie monoclonale de signification indéterminée (MGUS): électrophorèse des protéines"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-22T16:14:20+02:00"
 publishdate = "2023-09-28"
-lastmod = "2023-09-28"
+lastmod = "2024-05-01"
 specialites = ["hematologie"]
 annees = "2023"
 sources = ["BSH"]
@@ -108,6 +108,8 @@ Facteurs prédictifs de progression du *MGUS* (1 point par critère, *Mayo Clini
 
 ### Bilan d'un pic monoclonal
 
+Bilan d'un pic monoclonal IgG ou IgM:
+
 - NFS
 - Créatininémie, DFG
 - Albuminémie
@@ -136,12 +138,12 @@ Adresser à l'hématologue en cas de:
 {{% /collapse %}}
 {{%collapse "Interprétation et prise en charge d'un pic monoclonal" %}}
 
-> Un pic monoclonal > 10 g/L et un ratio de chaînes légères κ/λ (< 0,1 ou > 7) a une sensibilité de 98% pour le myélome multiple et élimine 95% des gammapathies monoclonales de signification indéterminées (MGUS).
+> Un pic monoclonal supérieur à 10 g/L et un ratio de chaînes légères κ/λ (< 0,1 ou > 7) a une sensibilité de 98 % pour le myélome multiple et élimine 95 % des gammapathies monoclonales de signification indéterminées (MGUS).
 {.alert .alert-info}
 
 Faible risque de myélome pour un pic < 10 g/L et un ratio compris de 0,1 à 7.
 
-Conduite à tenir du **Myeloma Diagnostic Tool** devant un pic monoclonal:
+Conduite à tenir du *Myeloma Diagnostic Tool* devant un pic monoclonal:
 
 1. Urgences si:
     - Pic monoclonal ou ratio de chaînes légères libres anormal  

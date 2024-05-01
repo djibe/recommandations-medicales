@@ -19,7 +19,7 @@ Page mémo pour accéder à tous les polycopiés des Collèges des enseignants d
 
 ## Liste des référentiels gratuits des Collèges d'enseignants de médecine
 
-Le tableau ci-dessous liste tous les référentiels disponibles en téléchargement gratuit.
+Le tableau ci-dessous liste tous les référentiels des Collèges de médecine disponibles en téléchargement gratuit.
 
 {{< table title="Livres gratuits des Collèges des enseignants de médecine pour le deuxième cycle" class="table-wrap" >}}
 | Spécialité | Collège        | Année    | Lien |

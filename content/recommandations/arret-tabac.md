@@ -362,12 +362,13 @@ Possible en cas d'antécédents neuro-psychiatriques.
 {{% /collapse %}}
 {{%collapse "Place de la cigarette électronique" %}}
 
+{{%info%}}
 Injonctions paradoxales pour le généraliste:
 
 - << Les connaissances fondées sur les preuves sont insuffisantes pour proposer les SEDEN comme aides au sevrage tabagique dans la prise en charge des fumeurs par les professionnels de santé >> – *HCSP 2022*
 - << La cigarette électronique peut être considérée comme une aide au sevrage tabagique (*Collège*) >>
 - << les CE [NDLR cigarettes électroniques] avec nicotine aident plus de personnes à arrêter de fumer que les TSN. Les CE avec nicotine aident probablement plus de personnes à arrêter de fumer que les CE sans nicotine, mais d'autres études sont encore nécessaires pour le confirmer. >> – *Cochrane 2022*
-{.alert .alert-info}
+{{%/info%}}
 
 Synthèse des 13 recommandations du *Haut Conseil de la Santé Publique* pour la prise en charge par cigarette électronique (SEDEN) du sevrage tabagique (les 5 premières nous concernent):
 

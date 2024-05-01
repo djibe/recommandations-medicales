@@ -2,7 +2,7 @@
 title = "Helicobacter pylori (HP)"
 prefix = "l'"
 titleSeo = "Helicobacter pylori"
-description = "Dernières recommandations 2021 sur le traitement d'Helicobacter pylori pour le médecin généraliste. Traitement antibiotique selon l'antibiogramme..."
+description = "Dernières recommandations HAS et GEFH 2021 sur le traitement d'Helicobacter pylori pour le médecin généraliste. Traitement antibiotique selon l'antibiogramme"
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -26,11 +26,11 @@ todo = "rankok, reco enfant 2022, comment diag quand rosacée, dépistage en AIN
 
 - Dépistage d'*Helicobacter pylori* par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication
 - Signes d'alarmes en cas de symptômes digestifs hauts: dysphagie, amaigrissement, anémie
-- Endoscopie gastrique si symptômes ou facteurs de risque de cancer de l'estomac
-- Reporter le traitement d'éradication en cas de grossesse ou d'allaitement
-- Privilégier le traitement adapté à l'antibiogramme d'*Helicobacter pylori* +++
+- Endoscopie gastrique (EOGD) si symptômes ou facteurs de risque de [cancer de l'estomac]({{< relref "cancer-estomac.md" >}})
+- Privilégier le traitement adapté à l'antibiogramme d'*Helicobacter pylori* (après endoscopie)
 - Posologie de l'amoxicilline: 50 mg/kg/j en 3-4 prises (max 6 g/j)
 - 2 IPP à privilégier: ésoméprazole 40 ou rabéprazole 20 mg (sauf oméprazole pour Bismuth), matin et soir
+- Reporter le traitement d'éradication d'*Helicobacter pylori* en cas de grossesse ou d'allaitement
 - {{< modal-btn modal-test-respi >}}Contrôle de l'éradication{{< /modal-btn >}} systématique avec le test à l'urée marquée à 1 mois
 
 {{%/article-summary%}}
@@ -38,7 +38,7 @@ todo = "rankok, reco enfant 2022, comment diag quand rosacée, dépistage en AIN
 <div class="card card-hover card-list-material my-4">
   <div class="card-body">
     <h3 class="card-title mt-0">Aide au choix du traitement d'<em>Helicobacter pylori</em> 2021</h3>
-    <h4 class="card-subtitle">Dr JB Fron d'après GEFH, HAS et SPILF 2021</h4>
+    <h4 class="card-subtitle">Dr JB Fron d'après HAS, GEFH et SPILF 2021</h4>
     <p class="card-text">Le traitement devrait toujours être guidé (antibiogramme, PCR).</p>
     <input type="checkbox" id="btn-atbgramme" class="d-input-none" checked onclick="functionHp()">
     <label for="btn-atbgramme" class="chip chip-action chip-filter" data-toggle="collapse" data-target="#hp-1-reference">Antibiogramme</label>

@@ -475,7 +475,7 @@ Les corticoïdes peuvent être utilisés pour le traitement de l'hyperthyroïdie
 
 ### Informations sur les antithyroïdiens de synthèse (ATS)
 
-- Risque de récidive élevé (40-50%)
+- Risque de récidive élevé (40-50 %)
 - Effets indésirables (agranulocytose, hépatite ...)
 - Arrêter le traitement et dosage de NFS en urgence en cas de fièvre et de signes infectieux (angine).
 - Symptômes devant faire consulter rapidement  

@@ -1,12 +1,11 @@
 +++
-title = "Aides à la cotation des consultations en médecine générale"
-titleSeo = "Aide cotation généraliste"
-noindex = true
-description = ""
+title = "Aide à la cotation des consultations en médecine générale"
+titleSeo = "Cotation des consultations de médecine générale"
+description = "Aide à la cotation des consultations en médecine générale: cotation des consultations et visites de l'adulte et de l'enfant. Codes NGAP G, VG, MOP, RDV, COD"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2024-02-06"
+lastmod = "2024-05-01"
 annees = "2024"
 sources = ["Assurance Maladie"]
 tags = []
@@ -16,19 +15,21 @@ style = "thead > tr > th:first-of-type {width: 110px}"
 todo = "RDV, VSP, CTE, FS exemple frottis, MD, jour férié, IK, routexl, MPH aussi quand change de MT ?, https://www.fmfpro.org/nomenclature/tarifs-medecins-generalistes-metropole/"
 +++
 
-Liste des codes pour les actes et les consultations en médecine générale.
+Liste des codes pour les actes et les consultations des adultes et des enfants en médecine générale.
 {.lead}
+
+## Les nouvelles cotations 2024
+
+- Majoration MOP de 5€ pour les +80 ans qui ne font pas partie de la patientèle (valable en (télé)consultation ou visite)
+- La cotation RDV est à 100% pour le rendez-vous de prévention à réaliser une fois à 18-25, 45-50, 60-65 et 70-75 ans
+
+## Les outils d'aide à la cotation du généraliste
 
 Les outils *OMNIPrat* et *CotaMG* permettent aux jeunes médecins d'apprendre à compléter les feuilles de soins et de connaître la cotation des actes en médecine générale (*NGAP* = Nomenclature Générale des Actes Professionnels)
 
 {{< card-link-external title="Outil d'aide à la cotation et au remplissage des feuilles de soins" url="https://omniprat.org/cotation/" subtitle="OMNIprat">}}
 
 {{< card-link-external title="Outil d'aide à la cotation et au remplissage des feuilles de soins" url="https://www.cotamg.fr" subtitle="CotaMG">}}
-
-## Les nouvelles cotations en 2024
-
-- Majoration MOP de 5€ pour les +80 ans qui ne font pas partie de la patientèle (valable en (télé)consultation ou visite)
-- La cotation RDV est à 100% pour le rendez-vous de prévention à réaliser une fois à 18-25, 45-50, 60-65 et 70-75 ans
 
 ## Les cotations pour les médecins généralistes
 
@@ -50,9 +51,9 @@ Les outils *OMNIPrat* et *CotaMG* permettent aux jeunes médecins d'apprendre à
   <div class="tab-content card-body">
     <div aria-labelledby="adulte-tab" class="tab-pane fade show active" id="adulte-panel" role="tabpanel">
 
-Cotations pour la consultation d'un adulte ou l'enfant à partir de 6 ans.
+Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 
-{{< table title="Cotations pour la consultation d'un adulte ou l'enfant à partir de 6 ans" class="table-wrap" >}}
+{{< table title="Cotations pour la consultation de l'adulte et de l'enfant à partir de 6 ans" class="table-wrap" >}}
 | Code NGAP  | Description                                                                                   | Tarif&nbsp;(€) |
 |------------|-----------------------------------------------------------------------------------------------|----------:|
 | G(S)       | Consultation                                                                                  |      26,5 |
@@ -136,7 +137,7 @@ Actes et surcotations disponibles pour le médecin généraliste.
 
 ### Surcotations disponibles pour le généraliste
 
-Cotations NGAP disponibles en sus de la consultation ou de la visite.
+Cotations NGAP disponibles en sus de la consultation ou de la visite médicale.
 
 {{< table title="Surcotations possibles pour des situations particulières" class="table-wrap" >}}
 | Code NGAP | Description                                                                                                                  | Tarif supp (€) |

@@ -22,14 +22,14 @@ flowchart = true
 {{%article-summary%}}
 
 - Le régime sans résidu évince les fibres végétales et les résidus de viande
-- Il est utilisé en vue d'une coloscopie, au cours d'une maladie inflammatoire intestinale ou en post-opératoire
+- Ce régime est utilisé avant une coloscopie, au cours d'une maladie inflammatoire intestinale ou en post-opératoire
 - Pour une coloscopie, le régime sans résidus est à démarrer 3 jours avant l'examen (la veille selon *ESGE 2019*)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Régime sans résidus
-: Régime alimentaire supprimant les fibres alimentaires végétales et les résidus de viande (tendons, kératine). Il peut être utilisé en vue d'une **coloscopie** ou pour une maladie intestinale (inflammatoire, post-opératoire).
+: Régime alimentaire supprimant les fibres alimentaires végétales et les résidus de viande (tendons, kératine). Il peut être utilisé avant une **coloscopie** ou pour une maladie intestinale (inflammatoire, post-opératoire).
 : Pour une coloscopie, le régime sans résidus doit être débuté **3 jours avant** (la veille selon *ESGE 2019*).
 
 ### Abréviations
@@ -42,7 +42,7 @@ SNFGE
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Aliments autorisés" %}}
+{{%collapse "Aliments autorisés pour le régime sans résidus" %}}
 
 ### Aliments adaptés au régime sans résidus
 
