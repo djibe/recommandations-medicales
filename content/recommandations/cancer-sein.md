@@ -88,7 +88,7 @@ Chiffres du cancer du sein en France:
 - Mortalité: 12.146 (métropole 2018), 1<sup>er</sup> rang chez la femme
 - Âge médian au diagnostic: 64 ans
 - Survie: 88 % à 5 ans (métropole, diagnostic en 2010-2015)
-- Participation au dépistage organisé: 50,6 % (2020-2021)
+- Participation au dépistage organisé: 46,5 % (2022-2023)
 - 22 % ont moins de 50 ans au diagnostic (35 % au stade régional)
 - Attribution de l'augmentation des cas: facteurs de risque (51%: hormones, alcool, surpoids, sédentarité), population (30%), vieillissement (23%)
 - Année d'introduction du dépistage généralisé: 2004
@@ -96,6 +96,11 @@ Chiffres du cancer du sein en France:
 {{< card-link title="Les Français et leur participation au dépistage des cancers" subtitle="Article RecoMédicales" url="/articles/participation-depistage-cancers/">}}
 
 {{< card-link-external title="Dépenses liées au cancer du sein" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Cancers&refine.patho_niv2=Cancer%20du%20sein%20de%20la%20femme">}}
+
+### Dépistage du cancer sein dans les autres pays
+
+- En Belgique (*[KCE](https://kce.fgov.be/fr/d%C3%A9pistage-du-cancer-du-sein-sur-mesure-en-fonction-du-risque)*): mammographies tous les 2 ans de 50 à 69 ans
+- Aux États-Unis (*[USPTF 2024](https://jamanetwork.com/journals/jama/fullarticle/2818283)*): mammographies tous les 2 ans chez les femmes de 40 à 74 ans
 
 ### Abréviations
 
@@ -268,7 +273,7 @@ L'auto-examen des seins (AES) n'est pas recommandé pour les femmes de 25 à 74 
 
 ### Mammographies de dépistage du cancer du sein
 
-Mammographies avec double lecture tous les 2 ans chez les femmes de 50 à 74 ans asymptomatiques (sans facteur de risque élevé ou très élevé de cancer du sein): [annuaire des radiologues conventionnés](https://www.ameli.fr/assure/sante/assurance-maladie/prevention-depistages/depistages-organises-cancer/depistage-organise-50-74-ans#text_209125)
+Dépistage par mammographies avec double lecture tous les 2 ans chez les femmes de 50 à 74 ans asymptomatiques (sans facteur de risque élevé ou très élevé de cancer du sein): [annuaire des radiologues conventionnés](https://www.ameli.fr/assure/sante/assurance-maladie/prevention-depistages/depistages-organises-cancer/depistage-organise-50-74-ans#text_209125)
 {.alert .alert-info}
 
 [Guide patiente INCa : le dépistage des cancers du sein (PDF)](https://www.e-cancer.fr/content/download/336634/4809878/file/Depliant%20DOCS%202022_148x210%20DEPSEIN21%20BD.pdf)
@@ -421,6 +426,7 @@ graph TB
 
 {{< card-link-external title="Vidéo de la palpation des seins" url="https://www.youtube.com/watch?v=QXlT9651svA" subtitle="par le Dr Jean-Philippe Harlicot" >}}
 
+- [Taux de participation au programme de dépistage organisé du cancer du sein 2022-2023 et évolution depuis 2005. Santé Publique France. 2024.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-sein/articles/taux-de-participation-au-programme-de-depistage-organise-du-cancer-du-sein-2022-2023-et-evolution-depuis-2005)
 - [Lavoué V et al. Recommandations pour la pratique clinique du CNGOF. Place de l'auto-examen des seins dans les stratégies de dépistage [Place of breast self-examination in screening strategies. French College of Gynecologists and Obstetricians (CNGOF) recommendations for clinical practice]. Gynecol Obstet Fertil Senol. 2023. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2023/RPC-Place%20de%20l'auto-examen%20des%20seins%20dans%20les%20strat%C3%A9gies%20de%20d%C3%A9pistage.pdf)
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}

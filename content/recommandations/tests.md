@@ -57,12 +57,14 @@ todo = "descr > summary > liens > photo > newsletter > flow"
     <label for="gfr-sex-m" class="chip chip-action chip-choice">Homme</label>
     <input type="radio" name="gfr-sex" id="gfr-sex-f" value="woman" class="d-input-none">
     <label for="gfr-sex-f" class="chip chip-action chip-choice">Femme</label>
-    <input type="radio" name="gfr-ethnic" id="gfr-ethnic-other" value="other" class="d-input-none" checked required>
-    <label for="gfr-ethnic-other" class="chip chip-action chip-choice">Non africain</label>
-    <input type="radio" name="gfr-ethnic" id="gfr-ethnic-african" value="african" class="d-input-none">
-    <label for="gfr-ethnic-african" class="chip chip-action chip-choice">Africain/américain</label>
     <div>
-      <label for="input-gfr">DFG CKD-EPI</label>
+      <input type="radio" name="gfr-ethnic" id="gfr-ethnic-other" value="other" class="d-input-none" checked required>
+      <label for="gfr-ethnic-other" class="chip chip-action chip-choice">Non africain</label>
+      <input type="radio" name="gfr-ethnic" id="gfr-ethnic-african" value="african" class="d-input-none">
+      <label for="gfr-ethnic-african" class="chip chip-action chip-choice">Africain/américain</label>
+      </div>
+    <div class="mt-4">
+      <label for="input-gfr">DFGe CKD-EPI</label>
       <input class="form-control" id="input-gfr" type="text" placeholder="Préciser les valeurs" readonly>
     </div>
   </div>
@@ -80,23 +82,26 @@ todo = "descr > summary > liens > photo > newsletter > flow"
       const ethnic = document.querySelector('input[name="gfr-ethnic"]:checked');
       const ageVal = parseInt(age.value);
       const creatinineVal = parseFloat(creatinine.value);
-      var alpha, beta;
+      let alpha, beta, kappa;
       if (sex.value === "man") {
-        alpha = 141;
-        beta = 0.9;
+        alpha = -0.411;
+        beta = 1;
+        kappa = 79.6;
       } else {
-        alpha = 144;
-        beta = 0.7;
+        alpha = -0.329;
+        beta = 1.018;
+        kappa = 61.9;
       }
+      // TODO: age ?
+      // https://wikimedi.ca/wiki/CKD-EPI_(formule)
       if (ageVal > 0 && creatinineVal > 0) {
-        let gfr = 141 * Math.min(Math.pow(creatinineVal / beta, -alpha), 1) * Math.pow(0.993, ageVal);
+        let gfr = 141 * Math.min(creatinineVal / kappa, 1) ** alpha * Math.max(creatinineVal / kappa, 1) ** -1.209 * 0.993 ** ageVal * beta
         console.log(gfr)
         // Adjust for African/American ethnicity
         if (ethnic.value === "african") {
           gfr *= 1.159;
         }
-        // Update the input field with the calculated GFR
-        gfrEl.value = gfr.toFixed(2);
+        gfrEl.value = Math.round(gfr);
       }
     };
     }

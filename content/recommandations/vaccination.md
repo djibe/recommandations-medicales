@@ -82,6 +82,8 @@ VVA
 
 > Les consultations à 25, 45 et 65 ans sont gratuites avec la **cotation RDV** (30€).
 
+**NB.** Le Nimenrix peut être réalisé à M6-M12 en remplacement du Neisvac M5-M12 (non remboursé). Neisvac M5 et Nimenrix M12 (NR) est également possible.
+
 ### Vaccin rotavirus
 
 Informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours (pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles).
