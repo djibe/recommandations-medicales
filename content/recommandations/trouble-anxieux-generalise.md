@@ -205,7 +205,7 @@ La prise en charge du trouble anxieux généralisé (TAG) nécessite un traiteme
   - Techniques de relaxation
 - Psychothérapie par thérapie cognitivo-comportementale (TCC)
   - Gestion des émotions et inquiétudes, relaxation. Environ 12 séances.
-  - Si trouble léger à modéré: proposer [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}) (praticiens rares)
+  - Si trouble léger à modéré: proposer [Mon soutien psy]({{< relref "remboursement-psychologue-monsoutienpsy.md" >}}) (praticiens rares)
   - Si financièrement difficile: proposer des livres (audio), vidéos ou webapps sur la TCC
 - Thérapie cognitive de pleine conscience (TCPC, *Hoge 2023*)
 - Traitement ponctuel si symptômes intenses et invalidants:
@@ -265,7 +265,7 @@ graph TB
   risque["<b>Personne à risque</b><br>—<br>- Bas niveau<br>socio-économique<br>- Isolement affectif<br>- Âge moyen<br>- Tble psychiatrique<br>- Toxiques<br>- Traumatisme<br>- Antécédent familial de TAG"] -- Dépister --> dépistage
   style symptômes stroke:#4150f5, stroke-width:1px
   style risque stroke:#4150f5, stroke-width:1px
-    dépistage -- Positif --> étayer("- Critères diagnostiques<br>- Clinique exhaustive<br>- Bilan biologique ou +") -- Confirmation --> TAG["<b>Diagnostic de TAG</b>"] --> indicationPsychiatre("<b>Indication au psychiatre ?</b><br>—<br>- Ado, adulte jeune<br>- Diagnostic incertain<br>- Comorbidité psy<br>- Fragilité (grossesse)<br>- Trouble sévère ou résistant<br>- Risque suicidaire<br>- BZD chronique") -- Non --> RHD("- Mesures d'hygiène<br>- TCC<br>- MonParcoursPsy") -. Insuffisant .-> antidépresseur("Antidépresseur ISRS ou IRSNA<br>- Titration et min 8 semaines<br>- Puis min 6-12 mois") --> suivi("Suivi régulier:<br>- GAD-7, risque suicidaire<br>- Comorbidités<br>- Toxiques<br>- Observance<br>± grossesse")
+    dépistage -- Positif --> étayer("- Critères diagnostiques<br>- Clinique exhaustive<br>- Bilan biologique ou +") -- Confirmation --> TAG["<b>Diagnostic de TAG</b>"] --> indicationPsychiatre("<b>Indication au psychiatre ?</b><br>—<br>- Ado, adulte jeune<br>- Diagnostic incertain<br>- Comorbidité psy<br>- Fragilité (grossesse)<br>- Trouble sévère ou résistant<br>- Risque suicidaire<br>- BZD chronique") -- Non --> RHD("- Mesures d'hygiène<br>- TCC<br>- Mon soutien psy") -. Insuffisant .-> antidépresseur("Antidépresseur ISRS ou IRSNA<br>- Titration et min 8 semaines<br>- Puis min 6-12 mois") --> suivi("Suivi régulier:<br>- GAD-7, risque suicidaire<br>- Comorbidités<br>- Toxiques<br>- Observance<br>± grossesse")
       RHD --> suivi
       indicationPsychiatre -- Oui --> psychiatre(Suivi psychiatrique)
     dépistage -- Diagnostic différentiel --> différentiel("- Pathologie somatique:<br>cardiovasculaire, respiratoire,<br>neuro, endocrinienne<br>- Toxiques<br>- Psychiatrique: tble anxieux,<br>dépression, phobie sociale ...")

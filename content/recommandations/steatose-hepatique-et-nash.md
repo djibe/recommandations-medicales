@@ -232,7 +232,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="e-learning EASD sur la NASH" url="https://easd-elearning.org/courses/nafld/">}}
+{{< card-link-external title="e-learning EASD sur la NASH" url="https://easd-elearning.eu/courses/nafld/">}}
 
 {{< youtube id="K5QbZI12BJM" title="Webconférence AFEF 2021 - Partie 1 NASH (AFEF Medical Education)" >}}
 

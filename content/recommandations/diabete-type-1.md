@@ -296,7 +296,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="e-learning EASD" url="https://easd-elearning.org/">}}
+{{< card-link-external title="e-learning EASD" url="https://easd-elearning.eu/courses/diagnosis-of-type-1-diabetes/">}}
 
 - {{< references/calendrier-vaccinal >}}
 - {{< references/esc-diabetes-2023 >}}

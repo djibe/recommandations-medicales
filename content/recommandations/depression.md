@@ -28,7 +28,7 @@ flowchart = true
 - En cas de diagnostic d'épisode dépressif caractérisé: évaluer la sévérité ({{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, Beck, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}), le risque suicidaire, les comorbidités (et dépister une {{< modal-btn modal-gad2 >}}anxiété{{< /modal-btn >}}), toxiques, le handicap.  
   Avec l'accord du patient, interroger l'entourage.
 - Bilan de la dépression: NFS, ionogramme, calcémie, bilan hépatique, glycémie, TSH, ± toxiques urinaires
-- La prise en charge de la dépression associe toujours: {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} ou thérapies cognitivo-comportementales (TCC) (voir [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}) pour le remboursement), activités physiques et sociales, rythme de vie, information du patient (dont lignes d'écoute)
+- La prise en charge de la dépression associe toujours: {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} ou thérapies cognitivo-comportementales (TCC) (voir [Mon soutien psy]({{< relref "remboursement-psychologue-monsoutienpsy.md" >}}) pour le remboursement), activités physiques et sociales, rythme de vie, information du patient (dont lignes d'écoute)
 - Traitement antidépresseur de la dépression: {{< modal-btn modal-isrs >}}inhibiteur sélectif de la recapture de la sérotonine{{< /modal-btn >}} (ISRS) ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}} en première intention, à envisager pour un EDC d'intensité modérée et systématique si sévère
 - Consultation psychiatrique en cas de diagnostic incertain, comorbidités psychiatriques, suspicion de maladie bipolaire ou psychose, dépression sévère ou résistante
 
@@ -442,7 +442,7 @@ Bilan à la recherche de diagnostic différentiel:
 {{% /collapse %}}
 {{%collapse "Traitement de la dépression de l'adulte" %}}
 
-La prise en charge de la dépression nécessite des consultations dédiées. Pour le remboursement (rare) de la prise en charge de la psychothérapie, voir [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}).
+La prise en charge de la dépression nécessite des consultations dédiées. Pour le remboursement (rare) de la prise en charge de la psychothérapie, voir [Mon soutien psy]({{< relref "remboursement-psychologue-monsoutienpsy.md" >}}).
 {.alert .alert-info}
 
 #### Recommandations pour la prise en charge de la dépression selon sa sévérité

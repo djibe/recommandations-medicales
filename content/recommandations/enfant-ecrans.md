@@ -23,7 +23,7 @@ todo = "https://www.santepubliquefrance.fr/docs/temps-d-ecran-de-2-a-5-ans-et-de
 {{%article-summary%}}
 
 - Pas d'écrans avant 3 ans, sauf accompagné occasionnel
-- [Fiche information pour les parents](https://lecmg.fr/wp-content/uploads/2023/03/Kit-addictions-CMG-Ecran.pdf) (*CMG*)
+- [Fiche information pour les parents (PDF)](https://www.cmg.fr/wp-content/uploads/2024/03/Kit-ecran-2023.pdf) (*CMG*)
 
 {{%/article-summary%}}
 {{%collapse "Message aux parents" %}}

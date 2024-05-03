@@ -11,7 +11,7 @@ publishdate = "2021-02-17"
 lastmod = "2024-05-01"
 specialites = ["certificats", "infectiologie"]
 annees = "2023"
-sources = ["HCSP", "MinSanté", "Pasteur"]
+sources = ["MinSanté", "HCSP", "Pasteur"]
 tags = ["vaccin", "voyage"]
 anglais = ["Travel abroad", "recommandations for travellers"]
 sctid = "276030007"
@@ -30,7 +30,7 @@ todo = "apps jet lag, long courrier"
 - Voyager avec le double des ordonnances écrites en DCI
 - Préparer le voyage sur le [site du Ministère des Affaires étrangères](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/)
 - Europe: demander une [carte européenne d'assurance maladie](https://www.ameli.fr/assure/adresses-et-contacts/lobtention-dun-document/commander-une-carte-europeenne-dassurance-maladie-ceam) (CEAM sur Ameli)
-- Déclarer son déplacement au Ministère des Affaires étrangères sur le [Fil d'Ariane](https://pastel.diplomatie.gouv.fr/fildariane/)
+- Déclarer son déplacement au Ministère des Affaires étrangères sur le [Fil d'Ariane](https://fildariane.diplomatie.gouv.fr/fildariane-internet/accueil)
 - Le voyage avec des nourrissons en haute altitude ou dans les pays tropicaux avec des conditions précaires est déconseillé
 - Nécessité de consulter et de signaler un séjour tropical à tout médecin en cas de fièvre dans les 3 mois après le retour
 
@@ -225,7 +225,7 @@ Le plus souvent la diarrhée est liée au péril fécal avec une origine bactér
 - Consultation si forme modérée, sévère ou fébrile
 
 Si consultation impossible et diarrhée sévère ou terrain à risque:  
-antibiothérapie probabiliste par azithromycine dose unique de 4 cp de 250 mg (ou 500 mg/j pendant 3 jours)  
+antibiothérapie probabiliste par **azithromycine** dose unique de 4 cp de 250 mg (ou 500 mg/j pendant 3 jours)  
 voire ciprofloxacine 500 mg x 2/j pendant 3 jours
 {.alert .alert-info}
 

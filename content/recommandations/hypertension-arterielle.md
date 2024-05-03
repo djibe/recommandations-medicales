@@ -391,7 +391,7 @@ Bilan HTA:
 - {{%modal-btn "modal-rcv"%}}LDL cible selon le risque cardiovasculaire{{%/modal-btn%}}
 - Pas de bénéfice avec l'aspirine en prévention primaire
 - Contrôle du stress: méditation, yoga
-- Associations de patients: [Comité Français de Lutte Contre l'Hypertension Artérielle (CFLCHTA)](http://www.comitehta.org), [Fédération Française de Cardiologie](https://fedecardio.org)
+- Associations de patients: [Comité Français de Lutte Contre l'Hypertension Artérielle (CFLCHTA)](http://www.comitehta.org), [Fédération Française de Cardiologie](https://www.fedecardio.org)
 
 > – *ESH 2023* et *ESC 2021*
 

@@ -373,7 +373,7 @@ window.addEventListener('load', () => {
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="e-learning EASD: Diabète" url="https://easd-elearning.org/">}}
+{{< card-link-external title="e-learning EASD: Diabète" url="https://easd-elearning.eu/courses/management-of-hyperglycaemia-in-type-2-diabetes/">}}
 
 {{< card-link-external title="Ameli Data Pathologies. Dépenses des soins liés au diabète" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Diab%C3%A8te">}}
 

@@ -183,7 +183,7 @@ Critères de réalisation d'un électrocardiogramme (ECG) 12 dérivations chez l
 {{% /collapse %}}
 {{%collapse "Information des sportifs" %}}
   
-> << Appeler - masser - défibriller >> (93% des morts subites au sport arrivent devant témoin) – *[FédéCardio: Savez-vous sauver ?](https://fedecardio.org/je-me-teste/savez-vous-sauver/)*
+> << Appeler - masser - défibriller >> (93% des morts subites au sport arrivent devant témoin) – *[FédéCardio: Savez-vous sauver ?](https://www.fedecardio.org/je-me-teste/savez-vous-sauver/)*
 
 Informer sur les 10 règles d'or pour le sportif:
 
@@ -197,7 +197,7 @@ Informer sur les 10 règles d'or pour le sportif:
 8. Jamais de dope et éviter l'automédication
 9. Pas de sport intense si fièvre ou dans les 8 jours suivant un épisode grippal  
   Informer: les microbes ne sont pas éliminés par la sueur.
-10. Bilan médical avant de reprendre une activité sportive à partir de 35 ans si homme, 45 ans si femme
+1.  Bilan médical avant de reprendre une activité sportive à partir de 35 ans si homme, 45 ans si femme
 
 > – *[ClubCardioSport. Les 10 règles d'or. Argumentaire. (PDF)](https://www.clubcardiosport.com/sites/www.clubcardiosport.com/files/inline-files/argu_scientifique.pdf)*
 
