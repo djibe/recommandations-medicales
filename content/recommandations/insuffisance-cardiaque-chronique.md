@@ -305,6 +305,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
   - {{< modal-btn modal-depistage-bpco >}}Dépister une BPCO{{< /modal-btn >}}
   - Dépister annuellement anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}  
   Traitements sûrs: sertraline, escitalopram. Éviter les tricycliques.
+- Associations de patients: [Alliance du cœur](https://www.alliancecoeur.fr), [ASPIC](https://asso-aspic.fr), [AVEC Insuffisance cardiaque](https://www.avec-france.com/), [SIC Soutien à l'Insuffisance Cardiaque](https://www.sic-asso.org), [Vaincre l'insuffisance cardiaque](https://vaincrelinsuffisancecardiaque.org)
 - Déclarer l'[ALD n°5]({{< relref "affection-longue-duree.md" >}})
 - Voir avec le cardiologue pour une télésurveillance de l'insuffisance cardiaque
 
