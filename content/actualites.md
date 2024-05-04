@@ -1,5 +1,6 @@
 +++
 title = "Actualités médicales"
+layout = "actualites"
 seoInvisible = true
 description = "Les actualités pour l'information du médecin généraliste. Les dernières informations et actualités médicales pour l'amélioration des soins de premier recours"
 breadcrumbTitle = "Journal"

@@ -1,7 +1,7 @@
 {
   "name": "{{ .Site.Title }}",
   "short_name": "{{ .Site.Title }}",
-  "description": "{{ .Site.Params.Description }}",
+  "description": "{{ .Site.Params.Description }}.",
   "lang": "{{ .Site.LanguageCode }}",
   "icons": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "src": "/images/icons/pwa-small.jpg",
-       "sizes": "1907x966",
+       "sizes": "424x793",
        "type": "image/jpg",
        "form_factor": "narrow",
        "label": "RecoMédicales sur mobile"

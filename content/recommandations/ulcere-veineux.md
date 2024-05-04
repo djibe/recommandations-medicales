@@ -306,6 +306,7 @@ graph TB
 
 {{< youtube id="YqY_zHXRgxQ" title="La mesure de l'index de pression systolique (Dr Richard Belley)" >}}
 
+- [de Moraes Silva MA et al. Compression for preventing recurrence of venous ulcers. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002303.pub4/full/fr)
 - Prescrire Redaction. Ulcère veineux de jambe. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Collège des enseignants de dermatologie de France (CEDEF). Ulcère de jambe. Item 228. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-228-%E2%80%94-Ulcere-de-jambe_CompressPdf.pdf)
 - [omedit Centre Val de Loire. Plaies chroniques et retard de cicatrisation liés aux traitements. 2023. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/11681.pdf)

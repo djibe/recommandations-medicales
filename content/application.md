@@ -1,6 +1,7 @@
 +++
 title = "L'Application"
 description = "TODO:"
+layout = "application"
 breadcrumbTitle = "Application"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-03-27T09:54:00+02:00"
