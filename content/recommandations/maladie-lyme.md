@@ -259,7 +259,7 @@ Diagnostic de maladie de Lyme certain si 3 critères - possible si 2 - exclu si 
   - Critères: manifestations cliniques et confirmée par sérologies
 - Les anticorps ne protègent pas contre une nouvelle infection à *Borrelia burgdorferi*
 
-Le contrôle de la guérison d'un Lyme est clinique. Des taux élevés d'anticorps peuvent persister des années après la guérison
+Le contrôle de la guérison d'une maladie de Lyme est clinique. Des taux élevés d'anticorps peuvent persister des années après la guérison.
 {.alert .alert-info}
 
 ### Traitement de l'érythème migrant

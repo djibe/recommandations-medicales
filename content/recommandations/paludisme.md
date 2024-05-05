@@ -35,7 +35,7 @@ todo = "Prescrire, ttt ambulatoire accès palustre"
 {{%collapse "Définition" %}}
 
 Paludisme
-: de l'ancien français << palus >> (marécage) ou aussi malaria, littéralement << mauvais air >>.
+: de l'ancien français *palus* (marécage) ou aussi malaria, littéralement << mauvais air >>.
 : Maladie infectieuse due au parasite du genre *Plasmodium* (5 types: *Plasmodium falciparum* surtout voire *P. vivax*, *P. malariae*, *P. ovale* ou *P knowlesi*) transmise par les moustiques femelles du genre *Anopheles* (piqûres de 23 à 6 heures). La moitié de la population mondiale vit en zone d'endémie avec 600.000 morts chaque année.
 : Personnes à risque de forme grave: femme enceinte, nourrissons et enfants avant 6 ans, personnes âgées, [PVVIH]({{< relref "vih-sida.md" >}}) et [aspléniques]({{< relref "asplenie.md" >}}).
 : Absence de transmission du parasite sous 18°C.

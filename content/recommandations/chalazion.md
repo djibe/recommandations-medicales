@@ -5,7 +5,7 @@ description = "Recommandations pour la prise en charge et le traitement du chala
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-29T23:34:00+02:00"
 publishdate = "2021-04-30"
-lastmod = "2024-04-05"
+lastmod = "2024-05-04"
 specialites = ["ophtalmologie"]
 annees = "2021"
 sources = ["COUF"]
@@ -21,9 +21,10 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le chalazion est un granulome de la paupière par obstruction canal excréteur de la glande de Meibomius
-- Prise en charge du granulome par des soins de paupières avec massage doux pour désobstruer le canal
-- Traitement médicamenteux du chalazion par pommade ou collyre corticoïde de l'œil atteint pendant 7 jours
+- Le chalazion est un granulome de la paupière par obstruction du canal excréteur de la glande de Meibomius
+- La prise en charge du chalazion repose sur des soins de paupières avec massage doux pour désobstruer le canal excréteur
+- Un traitement du chalazion par corticoïde collyre ou pommade est possible en cas d'atteinte sévère, pendant 7 jours
+- Avis ophtalmologique en cas de forme atypique, retentissement visuel ou chronicisation du chalazion
 
 Chapitre lié: [orgelet]({{< relref "orgelet.md" >}})
 
@@ -46,7 +47,7 @@ Prise en charge du chalazion:
 
 ### Corticothérapie locale {.mt-5}
 
-Corticothérapie locale par pommade ou collyre pendant **7 jours** (parfois prolongé quelques jours). En France, ces spécialités ne sont disponibles qu'associées à des antibiotiques.
+Corticothérapie locale par pommade ou collyre pendant **7 jours** (parfois prolongé quelques jours) pour les cas sévères. En France, ces spécialités ne sont disponibles qu'associées à des antibiotiques.
 
 Vérifier la monographie car il existe des contre-indications spécifiques pour chaque spécialité.
 
@@ -71,19 +72,20 @@ Forme enkystée: incision de la glande de Meibomius par l'ophtalmologue sous ane
 
 En cas de saignement post-interventionnel: compression simple pendant quelques minutes.
 
+## Soins de paupière d'un chalazion
+
+{{< youtube id="vji5gGRZfSo" title="Traitement du chalazion (DOCTEUR VIDEO)" >}}
+
 ## Prise en charge du chalazion {.mt-5}
 
 {{< mermaid title="Prise en charge du chalazion par le médecin généraliste. Dr JB Fron d'après COUF 2021" >}}
 graph TB
-  chalazion["<b>Chalazion</b><br>—<br>Tuméfaction de la paupière"] --> soins("<b>Auto-soins</b><br>—<br>- Soins de paupières<br>- Pas de lentilles") --> collyre("Collyre corticoïde 7 jours<br>adapté à l'âge, sauf grossesse") -. Échec .-> autre(Prolonger 7 jours<br>ou avis ophtalmologique)
+  chalazion["<b>Chalazion</b><br>—<br>Tuméfaction de la paupière<br>avec granulome"] --> soins("<b>Auto-soins</b><br>—<br>- Soins de paupières +++<br>- Pas de lentilles") -. Échec .-> collyre("Collyre corticoïde 7 jours<br>adapté à l'âge, sauf grossesse") -. Échec .-> autre(Prolonger 7 jours<br>ou avis ophtalmologique)
   style chalazion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-## Source {.mt-5}
+## Sources {.mt-5}
 
 - [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 86. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
 - [HAS. Rapport d'évaluation des spécialités ophtalmiques associant un corticoïde à un(des) antibiotique(s). Commission de la transparence. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-03/rapport_reevaluation_collyres_atb_corticoides_avisdef_cteval503.pdf)
-
-## Vidéo de formation pour la prise en charge du chalazion
-
-{{< youtube id="vji5gGRZfSo" title="Traitement du chalazion (DOCTEUR VIDEO)" >}}
+- [Afssaps. Collyres et autres topiques antibiotiques dans les infections oculaires superficielles. Recommandations. Médecine et Maladies Infectieuses. 2004.](https://www.sciencedirect.com/science/article/pii/S0399077X04002380)

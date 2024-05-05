@@ -80,7 +80,7 @@ GPIP
 {{% /collapse %}}
 {{%collapse "Traitement des morsures" %}}
 
-### Prise en charge des morsures
+### Prise en charge des morsures d'animaux
 
 Prise en charge commune à toutes les morsures d'animaux et d'hommes:
 
@@ -98,12 +98,12 @@ Prise en charge commune à toutes les morsures d'animaux et d'hommes:
 Avis chirurgical et/ou infectiologique urgent en cas de plaie grave (localisation, délabrement, animal suspect ...).
 {.alert .alert-warning}
 
-### Morsure et antibiothérapie
+### Antibiothérapie pour morsure
 
-Antibiothérapie pour morsure si: comorbidités (immunodépression, asplénie, diabète, alcool), érysipèle, plaie profonde ou délabrée, atteinte articulaire, près de tendon ou osseuse, main, face, suture. – *CMIT 2022*
+Indications à l'antibiothérapie pour morsure: suture, comorbidités (immunodépression, asplénie, diabète, alcool), [érysipèle]({{< relref "erysipele.md" >}}), plaie profonde ou délabrée, atteinte articulaire, près de tendon ou osseuse, main, face. – *CMIT 2022*
 {.alert .alert-warning}
 
-Antibiothérapie de l'adulte si indiquée:
+Antibiothérapie de l'adulte si indiquée (voir ci-dessus):
 
 - Prélèvements de la porte d'entrée
 - Durée du traitement antibiotique

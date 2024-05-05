@@ -7,11 +7,11 @@ breadcrumbTitle = "Journal"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-26T11:07:00+02:00"
 publishdate = "2023-09-26"
-lastmod = "2024-02-06"
+lastmod = "2024-05-04"
 +++
 
-Compilation d'actualités autour de la santé qui concernent notre pratique de médecins généralistes.
-{.typography-headline-5 .my-5}
+Compilation d'**actualités** autour de la santé qui concernent notre pratique de médecins généralistes ainsi que les dernières publications de **guides de bonnes pratiques**.
+{.lead .my-5}
 
 <div class="card border shadow-none my-5" style="width:100%">
   <ul class="nav nav-tabs nav-justified mb-4" role="tablist">

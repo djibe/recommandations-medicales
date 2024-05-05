@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-29T23:33:00+02:00"
 publishdate = "2021-04-30"
-lastmod = "2023-12-05"
+lastmod = "2024-05-04"
 specialites = ["ophtalmologie"]
 annees = "2021"
 sources = ["COUF"]
@@ -71,6 +71,7 @@ graph TB
   style orgelet stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-## Source {.mt-5}
+## Sources {.mt-5}
 
-[Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 86. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
+- [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 86. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
+- [Afssaps. Collyres et autres topiques antibiotiques dans les infections oculaires superficielles. Recommandations. Médecine et Maladies Infectieuses. 2004.](https://www.sciencedirect.com/science/article/pii/S0399077X04002380)

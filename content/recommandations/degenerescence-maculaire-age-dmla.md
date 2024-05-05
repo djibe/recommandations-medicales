@@ -79,7 +79,7 @@ Dépistage régulier des personnes de **plus de 50 ans avec facteur de risque de
 
 {{< clinique/dmla-fdr >}}
 
-Rythme de surveillance des personnes à risque de DMLA:
+### Surveillance des personnes à risque de DMLA
 
 1. Utiliser à domicile la [grille d'Amsler (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/grille_damsler.pdf) ou une application mobile pour tester la vision monoculaire
 2. Examen ophtalmologique tous les 1-2 ans

@@ -227,7 +227,7 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
 - Antiagrégants plaquettaires
   - Bithérapie [aspirine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68881730&typedoc=R) 75-100 mg/j + [prasugrel](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61374393&typedoc=R)/ticagrelor (voire clopidogrel 75) ...
   - pendant **minimum 12 mois**  
-    Considérer monothérapie après 3-6 mois sauf haut risque ischémique; après 1 mois si haut risque de saignement. Une trithérapie est possible.
+    Considérer une monothérapie après 3-6 mois sauf haut risque ischémique; après 1 mois si haut risque de saignement. Une trithérapie est possible.
   - Puis **[aspirine seule](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68881730&typedoc=R) 75-100 mg/j** (prasugrel/ticagrelor possibles)
   - IPP si haut risque de saignement (à venir: *ESC DAPT*)
   - Si [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}): AOD + clopidogrel pendant 12 mois  
