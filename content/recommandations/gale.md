@@ -213,7 +213,7 @@ Traitement de première intention de la gale selon le *CMIT*, à prendre au moin
 
 ### Prise en charge des formes particulières
 
-- Impétiginisation: antibiothérapie
+- Impétiginisation: [antibiothérapie]({{< relref "infection-cutanee-bacterienne.md" >}})
 - Persistance de nodules scabieux: dermocorticoïdes
 - Gale norvégienne: hospitalisation en dermatologie pour application de kératolytiques avant le traitement
 

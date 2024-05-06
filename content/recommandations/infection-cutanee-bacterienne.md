@@ -206,4 +206,8 @@ Prise en charge d'un abcès cutané:
 - [CMIT, SFMTSI, SPILF, SMV. Infections de la peau, des tissus mous et des muscles. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 
+### Bibliographie en attente
+
+{{< references/spilf-2020 >}}
+
 {{%/sources%}}

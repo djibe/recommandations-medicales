@@ -26,7 +26,7 @@ flowchart = true
 - La méningite est une urgence vitale
 - Signes de méningite bactérienne: fièvre élevée, raideur de la nuque, céphalées, troubles de conscience, purpura, convulsions
 - Évaluation rapide des paramètres vitaux, recherche d'un purpura chez le patient déshabillé
-- Appel immédiat du SAMU et antibiothérapie IM par ceftriaxone 1g si purpura fulminans, port du masque
+- Devant un purpura fulminans: appel immédiat du SAMU et antibiothérapie par ceftriaxone 1g IM (50/mg/kg chez l'enfant, max 1g), port du masque
 - Transport immédiat si délai d'intervention du SAMU supérieur à 20 minutes (prévenir les *Urgences*)
 - En cas de méningocoque: prise en charge des sujets contacts par antibioprophylaxie, déclaration obligatoire et vaccination (sauf sérogroupe B)
 - Suivi après méningite bactérienne: suivi neurologique, auditif et du développement chez l'enfant

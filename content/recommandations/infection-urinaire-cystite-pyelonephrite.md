@@ -115,7 +115,7 @@ En l'absence de facteurs de risque de complication, l'infection urinaire (IU) es
 
 Colonisation urinaire
 : *ex bactériurie asymptomatique*. Présence de micro-organismes dans les urines sans manifestations cliniques.
-: En dehors de la grossesse (voir *Infections urinaires gravidiques*) ou avant un geste urologique programmé, il n'y pas de seuil de bactériurie.
+: En dehors de la grossesse (voir *Infections urinaires pendant la grossesse*) ou avant un geste urologique programmé, il n'y pas de seuil de bactériurie.
 
 {{% /collapse %}}
 {{%collapse "Cystite" %}}
@@ -220,16 +220,16 @@ BU et si positive **ECBU**.
 
 ### Pyélonéphrite aiguë simple
 
-Antibiothérapie probabiliste juste après l'ECBU:
+Antibiothérapie probabiliste de la pyélonéphrite aiguë simple juste **après l'ECBU**:
 
 1. <mark>Ciprofloxacine 500 mg x 2/j ou lévofloxacine 500 mg/j</mark>  
   Sauf fluoroquinolone dans les 6 mois.
 2. Ceftriaxone IM 1 g/j (2g si obèse)
 3. Hospitalisation
 
-Échographie rénale sous 24 heures si évolution défavorable après 72 heures d'antibiothérapie.
+> **Échographie rénale** sous 24 heures si évolution défavorable après 72 heures d'antibiothérapie.
 
-Adaptation à l'antibiogramme dès le rendu des résultats:
+**Adaptation à l'antibiogramme** dès le rendu des résultats:
 
 1. <mark>Amoxicilline 1g x 3/j pendant 10 jours</mark>
 2. Cotrimoxazole 800/160 mg x 2/j pendant 10 jours
@@ -244,8 +244,7 @@ Adaptation à l'antibiogramme dès le rendu des résultats:
     3. Céfoxitine  
     4. Hospitalisation
 
-**Réévaluation systématique à 72 heures**.  
-ECBU de contrôle uniquement en cas d'évolution défavorable après 72 heures.
+**Réévaluation systématique à 72 heures**. **ECBU de contrôle** uniquement en cas d'évolution défavorable après 72 heures.
 
 ### Pyélonéphrite aiguë à risque de complication
 
@@ -268,7 +267,7 @@ Colonisation urinaire gravidique
 : Patiente asymptomatique avec un ECBU positif avec un seul germe à titre ≥ **10<sup>5</sup> UFC/mL**. Idéalement 2 ECBU positifs à une semaine d'intervalle sont requis pour le diagnostic (en pratique 1 seul est admis).
 : Dépistage par **BU mensuelle** (ECBU en cas d'IU pendant la grossesse, uropathie, diabète, antécédent de cystites récidivantes).
 
-Prise en charge par **antibiothérapie systématique** d'emblée adaptée à l'antibiogramme:
+Prise en charge de la colonisation urinaire gravidique par **antibiothérapie systématique** d'emblée adaptée à l'antibiogramme:
 
 1. <mark>Amoxicilline 1g x 3/j pendant 7 jours</mark>
 2. Pivmécillinam (Selexid®) 400 mg x 2/j pendant 7 jours
@@ -277,9 +276,9 @@ Prise en charge par **antibiothérapie systématique** d'emblée adaptée à l'a
   Éviter les 10 premières semaines d'aménorrhée.
 5. Alternatives pendant 7 jours: nitrofurantoïne 100 mg x 3/j, cotrimoxazole 800/160 mg x 2/j (éviter < 10 SA), amoxicilline-acide clavulanique 1g x 3/j
 
-**ECBU de contrôle** à J8-J10 puis mensuel jusqu'à l'accouchement
+**ECBU de contrôle** à J8-J10 puis mensuel jusqu'à l'accouchement.
 
-**NB.** Une infection urinaire à Streptocoque B pendant la grossesse impose une antibioprophylaxie péri-natale.
+> **NB.** Une infection urinaire à Streptocoque B pendant la grossesse impose une antibioprophylaxie péri-natale.
 
 ### Cystite pendant la grossesse
 
@@ -321,7 +320,7 @@ Sinon avec mesure du résidu post-mictionnel, dès le 2<sup>e</sup> épisode ou 
 
 ### Infection urinaire de l'homme pauci-symptomatique
 
-En cas d'infection urinaire peu symptomatique (<< cystite-like >> sans signes généraux): antibiothérapie identique à l'IU masculine symptomatique mais pendant **7 jours**.
+En cas d'infection urinaire peu symptomatique (<< cystite-like >> sans signes généraux): antibiothérapie identique à l'IU masculine symptomatique mais **pendant 7 jours**.
 
 ### Infection urinaire de l'homme symptomatique
 

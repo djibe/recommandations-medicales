@@ -91,6 +91,9 @@ EADV
 IST
 : infection sexuellement transmissible
 
+SFD
+: Société Française de Dermatologie
+
 SPILF
 : Société de pathologie infectieuse de langue française
 {.dl-inline}

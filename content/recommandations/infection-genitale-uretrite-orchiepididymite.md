@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-17T11:25:20+01:00"
 publishdate = "2023-01-19"
-lastmod = "2024-04-18"
+lastmod = "2024-05-06"
 specialites = ["urologie"]
 annees = "2024"
 sources = ["EAU", "HAS", "SFD"]
@@ -183,7 +183,7 @@ Mesures associées:
 {{% /collapse %}}
 {{%collapse "Épididymite et orchi-épididymite" %}}
 
-Toujours évoquer une torsion du testicule chez le jeune (urgence chirurgicale)
+Toujours évoquer une torsion du testicule chez le jeune (urgence chirurgicale).
 {.alert .alert-warning}
 
 Orchiépididymite
@@ -211,14 +211,32 @@ Antibiothérapie probabiliste de l'orchi-épididymite selon les différentes rec
 <div class="card card-hover my-3 mb-xl-5 mw-640">
   <ul class="nav nav-tabs nav-justified" id="tabs-orchiepididymite" role="tablist">
   <li class="nav-item" role="presentation">
-    <button aria-controls="eau-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#eau-panel" id="eau-tab" type="button" role="tab">EAU 2024</button>
+    <button aria-controls="has-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#has-panel" id="has-tab" type="button" role="tab">HAS 2021</button>
   </li>
   <li class="nav-item" role="presentation">
-    <button aria-controls="sfd-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#sfd-panel" id="sfd-tab" type="button" role="tab">SPILF 2020/SFD 2016</button>
+    <button aria-controls="eau-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#eau-panel" id="eau-tab" type="button" role="tab">EAU 2024</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button aria-controls="sfd-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#sfd-panel" id="sfd-tab" type="button" role="tab">SFD 2016</button>
     </li>
   </ul>
   <div class="card-body tab-content">
-  <div aria-labelledby="eau-tab" class="tab-pane fade show active" id="eau-panel" role="tabpanel">
+  <div aria-labelledby="has-tab" class="tab-pane fade show active" id="has-panel" role="tabpanel">
+
+D'après *HAS 2021 urétrite* (aucun guide HAS ou SPILF estampillé orchiépididymite récent):
+
+Ceftriaxone 1g IM dose unique  
+\+ doxycycline 100 mg x 2/j pendant 7 jours ou azithromycine 1g dose unique
+{.alert .alert-info}
+
+Si allergie aux bêta-lactamines: antibiogramme puis traitement guidé.
+
+Consultation à J3 si persistance des symptômes et **J7 systématique** (guérison, bilan des IST, prévention).
+
+En l'absence de risque d'IST, voir *SFD 2016*.
+
+</div>
+<div aria-labelledby="eau-tab" class="tab-pane fade" id="eau-panel" role="tabpanel">
 
 Ceftriaxone 1g IM dose unique  
 \+ doxycycline 200 mg dose unique à J1 puis 100 mg x 2/j pendant 10 à 14 jours
@@ -236,10 +254,9 @@ Ceftriaxone 1g IM dose unique
 <div aria-labelledby="sfd-tab" class="tab-pane fade " id="sfd-panel" role="tabpanel">
 
 Ceftriaxone 500 mg IM dose unique  
-\+ doxycycline 100 mg x 2/j pendant 10 jours  
-ou azithromycine 1g dose unique (SPILF)
+\+ doxycycline 100 mg x 2/j pendant 10 jours
 
-Si faible suspicion de gonococcie et suspicion d'origine urinaire: Ceftriaxone + ofloxacine 200 mg x 3/j pendant 10 jours
+Si faible suspicion de gonococcie et suspicion d'origine urinaire: ceftriaxone 500 mg IM dose unique + ofloxacine 200 mg x 3/j pendant 10 jours.
 
 </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
 </div>
