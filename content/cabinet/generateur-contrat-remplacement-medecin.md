@@ -81,7 +81,7 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 </div>
 </div>
 
-**NB.** Le remplaçant doit fournir son assurance professionnelle
+**NB.** Le remplaçant doit fournir son assurance professionnelle.
 
 </fieldset>
 <fieldset>
@@ -109,8 +109,9 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
 
 </fieldset>
-<p class="text-center my-3">Chrome/Edge: cliquez ici avant de lancer l'impression</p>
-<button class="btn btn-outline-primary d-print-none mt-4" type="submit" id="contract-btn" >
+<button class="btn btn-link mb-4 d-print-none" type="button" data-toggle="modal" data-target="#modal-contact">Signaler un problème</button>
+<p class="text-center my-3">Chrome/Edge: cliquez ici avant de lancer l'impression.</p>
+<button class="btn btn-outline-primary d-print-none" type="submit" id="contract-btn" >
   <svg class="svg-primary mr-2" aria-hidden="true" height="24" viewBox="0 0 24 24" width="24"><path d="M19 8h-1V3H6v5H5c-1.66 0-3 1.34-3 3v6h4v4h12v-4h4v-6c0-1.66-1.34-3-3-3zM8 5h8v3H8V5zm8 12v2H8v-4h8v2zm2-2v-2H6v2H4v-4c0-.55.45-1 1-1h14c.55 0 1 .45 1 1v4h-2z"/><circle cx="18" cy="11.5" r="1"/></svg> Imprimer le contrat
 </button>
 </form>

@@ -112,7 +112,7 @@ h6 {
 }
 
 dt {
-  font-weight: 500;
+  font-weight: bold;
 }
 
 dl {
@@ -1055,11 +1055,10 @@ blockquote {
   width: 36px;
 }
 
-div.data-table {
-  display: flex;
+.data-table {
+  display: inline-flex;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
-  overflow-x: hidden;
 }
 
 #table-pilule > tbody > tr:nth-of-type(4),

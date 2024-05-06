@@ -1,24 +1,26 @@
 @import "../css/print-material";
 
 @page {
-  margin: 0;
-  size: auto;
+  // margin: 0;
+  margin: 2cm;
+  size: A4 portrait;
 }
 html {
   background-color: #fff !important;
   margin: 0;
 }
-body {
-  margin: 2cm;
-}
 main > .recommandation {
   padding-top: 0;
 }
 .alert {
-  border: 1px solid rgba(0, 0, 0, 0.12);
   &-info {
     color: #212121;
   }
+}
+.recommandation__content section > h2:not([class]) {
+  border-top: 0;
+  color: #000 !important;
+  font-size: 38px;
 }
 .recommandation .chip-secondary {
   color: var(--secondary);
@@ -31,6 +33,11 @@ h1.my-xl-5 {
 }
 p {
   color: #000 !important;
+
+  &.alert {
+    border-left: 4px solid black;
+    border-radius: 0;
+  }
 }
 a[target="_blank"] {
   color: initial;
@@ -46,6 +53,10 @@ blockquote,
 .list-group,
 .list-group-item {
   border: 0;
+}
+blockquote {
+  border-left: 4px solid black !important;
+  border-radius: 0 !important;
 }
 footer.footer,
 nav,
@@ -72,6 +83,4 @@ nav,
   position: relative;
   box-sizing: border-box;
   page-break-after: always;
-  height: 296mm;
-  width: 210mm;
 }

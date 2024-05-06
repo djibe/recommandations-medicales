@@ -268,7 +268,7 @@ Recommandations générales pour la prise en charge de la fibrillation atriale:
   - Cible de la population générale (< 130/80): 120-129 / 70-79 mmHg
   - Préférer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, anti-aldostérone
 - Éducation thérapeutique du patient et son entourage (min tous les 6 mois)
-- [ALD n°5]({{< relref "affection-longue-duree.md" >}})  
+- Déclarer l'[ALD n°5]({{< relref "affection-longue-duree.md" >}})  
   La FA régularisée sans salves n'est pas concernée.
 
 ### Anticoagulation

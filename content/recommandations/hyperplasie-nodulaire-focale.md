@@ -72,7 +72,7 @@ Autres tumeurs et lésions hépatiques:
 
 Signes et symptômes à rechercher pour étayer un nodule hépatique. L'enjeu consiste à savoir si la tumeur évolue sur foie cirrhotique (en faveur de tumeur maligne primitive) ou à risque métastatique (cancer connu) ou non.
 
-L'HNF est le plus souvent asymptomatique (**incidentalome** ++).
+L'hyperplasie nodulaire focale est le plus souvent asymptomatique (**incidentalome** ++).
 
 ### Interrogatoire
 
