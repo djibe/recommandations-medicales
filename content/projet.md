@@ -1,7 +1,8 @@
 +++
-title = "Le projet des Recommandations médicales"
+title = "RecoMédicales : le projet des recommandations médicales pour tous les généralistes"
 noindex = true
 description = "Présentation du projet RecoMédicales développé pour tous les médecins généralistes. Créé pour accéder à l'information nécessaire aux soins primaires"
+layout = "projet"
 longHtml = true
 breadcrumbTitle = "Projet"
 auteurs = ["Jean-Baptiste FRON"]

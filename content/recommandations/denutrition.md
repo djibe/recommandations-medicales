@@ -403,7 +403,6 @@ Prise en charge de la dénutrition de l'adulte:
 - Dénutrition sévère: nutrition entérale
 - Maintien d'une activité physique
 - [Site officiel d'information pour le public](https://www.nutritionclinique.fr)
-- Appli patient pour enrichir: Poids plus ([Android](https://play.google.com/store/apps/details?id=com.poids&hl=fr), [iOS](https://apps.apple.com/fr/app/poidsplus/id1308936761))
 
 ### Compléments nutritionnels oraux (CNO)  
 
@@ -442,8 +441,6 @@ Réévaluation de la dénutrition **à chaque consultation**, au moins mensuelle
 - Niveau d'activité physique
 
 ### Exemple de questions d'évaluation du suivi de la dénutrition
-
-[Appli patient Poids plus](https://play.google.com/store/apps/details?id=com.poids&hl=fr)
 
 - Combien faites-vous de repas par jour ?
 - Mangez-vous tout votre repas ?

@@ -38,7 +38,7 @@ Si les durées de consultation étaient le plus souvent déclarées par le méde
 
 La réticence des médecins à enregistrer les consultations afin de mieux mesurer la durée des consultations limite la précision de la plupart des études.
 
-## Source
+## Sources
 
 - [Irving G et al. International variations in primary care physician consultation time: a systematic review of 67 countries. BMJ Open. 2017.](https://bmjopen.bmj.com/content/7/10/e017902)
 - [Breuil-Genier P. La durée des séances des médecins généralistes. Études et résultats. 2006.](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/la-duree-des-seances-des-medecins-generalistes)
@@ -46,7 +46,7 @@ La réticence des médecins à enregistrer les consultations afin de mieux mesur
 <script>
 const chartOptions1 = {
   series: [{
-    name: 'Durée moyenne d’une consultation',
+    name: 'Durée d’une consultation',
     data: [
     { x: 'Suède', y: 22.5},
     { x: 'États-Unis', y: 21.1},
@@ -67,7 +67,7 @@ const chartOptions1 = {
     { x: 'Pakistan', y: 1.8}
     ]
   }],
-  chart: { type: 'bar' },
+  chart: { type: 'bar', height: 620 },
   //dataLabels: { enabled: false },
   plotOptions: { bar: { horizontal: true } },
   title: { text: 'Durée d’une consultation d’un médecin généraliste dans le monde' },

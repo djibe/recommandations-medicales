@@ -6,7 +6,7 @@ synonyms = ["Puerpéralité", "suite de couches"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-16T09:32:54+01:00"
 publishdate = "2024-01-19"
-lastmod = "2024-02-05"
+lastmod = "2024-05-01"
 specialites = ["gynecologie-obstetrique"]
 annees = "2015"
 sources = ["CNGOF", "HAS"]
@@ -60,11 +60,11 @@ SAPL
 
 ### Rattrapage des vaccins après la grossesse
 
-- Rattrapage dTcaPolio (Boostrix, Repevax) de tout l'entourage pour cocooning [anti-coqueluche]({{< relref "coqueluche.md" >}}) si le dernier rappel a +10 ans (+5 ans avant 25 ans)
+- Si mère non vaccinée [coqueluche]({{< relref "coqueluche.md" >}}) en fin de grossesse: rattrapage dTcaPolio (Boostrix, Repevax) de tout l'entourage pour cocooning si le dernier rappel a +10 ans (+5 ans avant 25 ans)
 - Si enfant vulnérable: rattrapage [grippe]({{< relref "grippe.md" >}})
 - Si mère séronégative: [varicelle]({{< relref "varicelle.md" >}}), rubéole
 
-> – *Calendrier vaccinal 2023*
+> – *Calendrier vaccinal*
 
 {{% /collapse %}}
 {{%collapse "Prévention des thromboses après césarienne" %}}
@@ -187,7 +187,7 @@ La rééducation périnéale ne permet pas de traiter un [prolapsus]({{< relref 
 {{% /collapse %}}
 {{%sources%}}
 
-- {{< references/calendrier-vaccinal-2023 >}}
+- {{< references/calendrier-vaccinal >}}
 - [US Preventive Services Task Force, Barry MJ et al. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2023.9297)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Grossesse normale. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [HAS. Contraception chez la femme en post-partum. Recommandation de bonne pratique. 2019.](https://www.has-sante.fr/jcms/c_1369193/fr/contraception-chez-la-femme-en-post-partum)

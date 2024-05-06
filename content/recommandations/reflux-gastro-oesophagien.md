@@ -329,7 +329,7 @@ Favorisée par l'obésité et une hernie hiatale.
 - Zerbib F. Traitement endoscopique du reflux gastro-œsophagien : la quête du graal continue. GastroScoop. 27/04/2022.
 - Prescrire Redaction. Reflux gastro-œsophagien chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - Prescrire Redaction. Reflux gastro-œsophagien chez un nourrisson. Premiers Choix Prescrire. Rev Prescrire. 2022.
-- [Jouet P. Faut-il diminuer les FODMAPs en cas de RGO ? GastroScoop. 28/07/2021.](https://www.snfge.org/gastroscoop/faut-il-diminuer-les-fodmaps-en-cas-de-rgo)
+- Jouet P. Faut-il diminuer les FODMAPs en cas de RGO ? GastroScoop. 28/07/2021.
 - [Rouillon JM. Traitement du RGO. SNFGE. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
 - [SNFGE. Reflux gastro-œsophagien (RGO)](https://www.snfge.org/grand-public/maladies-digestives/reflux-gastro-oesophagien-rgo)
 - [Gyawali CP et al. Modern diagnosis of GERD: the Lyon Consensus. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6031267/)

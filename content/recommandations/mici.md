@@ -226,8 +226,8 @@ En dehors des rectites, une surveillance régulière doit être organisée en fo
 
 Les patients à risque intermédiaire doivent bénéficier d'une coloscopie tous les 2 à 3 ans. Les facteurs de risque intermédiaire correspondent aux colites extensives d'activité légère à modérée, aux pseudo-polypes inflammatoires ou à un antécédent familial de CCR au premier degré diagnostiqué à ou avant 50 ans. Les patients ne présentant ni un risque élevé ni un risque intermédiaire bénéficieront de la coloscopie suivante à 5 ans.
 
-
-
 ECCO-ESGAR Guideline for Diagnostic Assessment in IBD Part 1: Initial diagnosis, monitoring of known IBD, detection of complications. Maaser C. et al, J Crohns Colitis. 2019 Feb 1;13(2):144-164. doi: 10.1093/ecco-jcc/jjy113
 
 https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-initial-suivi-des-mici-et-detection-des-complications-reco-ecco-esgar-2019/
+
+{{< youtube id="mYyl0RZ25UU" title="La calprotectine pour les nuls (TutoGastro SNFGE 2023)" >}}

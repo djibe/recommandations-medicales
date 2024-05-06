@@ -216,8 +216,7 @@ Ceux-ci relèvent exclusivement du rhumatologue.
 
 ### Traitement de fond conventionnel de la polyarthrite rhumatoïde
 
-Le traitement de la polyarthrite rhumatoïde est systématique, << en urgence >> dès le diagnostic, même s'il ne remplit pas encore les critères de rhumatisme défini.  
-Il est modifié en cas d'**inefficacité à 3 mois** (ou objectif thérapeutique non atteint à 6 mois).
+Le traitement de la polyarthrite rhumatoïde est systématique, **<< en urgence >>** dès le diagnostic, même s'il ne remplit pas encore les critères de rhumatisme défini. Il est modifié en cas d'**inefficacité à 3 mois** (ou objectif thérapeutique non atteint à 6 mois).
 
 {{%info%}}
 **Méthotrexate (MTX)** en première intention, dose optimale (25 mg/semaine) à atteindre en 4-8 semaines.  
@@ -226,8 +225,8 @@ Augmentation de 5 mg/1-4 semaines selon efficacité-tolérance.
 
 ---
 
-10 mg/semaine d'acide folique systématique  
-Associée à une corticothérapie initiale.
+- 10 mg/semaine d'acide folique systématique
+- Corticothérapie initiale associée.
 {{%/info%}}
 
 Voie sous-cutanée au-delà de 15 mg/semaine ou si efficacité insuffisante (Imeth injectable®, Metoject®, Nordimet®, génériques).

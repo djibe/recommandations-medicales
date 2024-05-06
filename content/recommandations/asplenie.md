@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T23:51:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2023-11-06"
+lastmod = "2024-05-01"
 specialites = ["hematologie", "infectiologie"]
-annees = "2023"
+annees = "2024"
 sources = ["MinSanté", "HCSP"]
 tags = ["vaccin", "voyage"]
 anglais = ["Asplenia"]
@@ -102,7 +102,7 @@ La pénicilline V existe en sirop (250.000 UI/5 mL, 500.000 UI/5 mL, 1 MUI/10 mL
 
 Vaccins à réaliser avant voire après une splénectomie.
 
-{{< table title="Synthèse des vaccins à administrer en cas d'asplénie selon Calendrier vaccinal 2023 et HCSP 2014. Contrôler l'âge sur les RCP" class="table-wrap" >}}
+{{< table title="Synthèse des vaccins à administrer en cas d'asplénie selon Calendrier vaccinal 2024 et HCSP 2014. Contrôler l'âge sur les RCP" class="table-wrap" >}}
 | Germe           | Primo-vaccination            | Rappel           |
 |-----------------|------------------------------|------------------|
 | Covid-19        | Recommandations en vigueur   |                  |
@@ -194,7 +194,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- {{< references/calendrier-vaccinal-2023 >}}
+- {{< references/calendrier-vaccinal >}}
 - Collège des enseignants d'hématologie. Splénomégalie. Item 275. 2021.
 - [Lee GM. Preventing infections in children and adults with asplenia. Hematology Am Soc Hematol Educ Program. 2020.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33275684/)
 - [Medqual. Vaccination du patient immunodéprimé. 2019. (PDF)](https://medqual.fr/images/PRO/FORMATION/ATBR_Vaccin_04.pdf)

@@ -17,7 +17,7 @@ sctid = "776904000"
 icd10 = ""
 image = true
 imageSrc = "La journée mondiale sans tabac par Freepik"
-todo = "SEO 'liste des substituts nicotiniques remboursables par l'assurance maladie', 'substitut nicotinique remboursé'"
+todo = "SEO 'liste des substituts nicotiniques remboursables par l'assurance maladie'"
 flowchart = true
 +++
 
@@ -30,7 +30,7 @@ Liste des substituts nicotiniques remboursés sur prescription par la Sécurité
 </div>
 <hr class="my-5">
 
-## Aide au choix des traitements nicotiniques de substitution remboursés à 65% par l'Assurance Maladie sur prescription médicale
+## Aide à la prescription des traitements nicotiniques de substitution remboursés à 65% par l'Assurance Maladie sur prescription médicale
 
 <div class="my-4" style="max-width: 800px">
 

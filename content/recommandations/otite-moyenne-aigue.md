@@ -17,7 +17,7 @@ sctid = "194281003"
 icd10 = "H66.0"
 image = true
 imageSrc = "Otite moyenne aiguë purulente gauche non perforée (tympan inflammatoire et bombé). B. Welleschik, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "récidivantes, durée otorrhée adulte"
+todo = "outil, récidivantes, durée otorrhée adulte"
 flowchart = true
 +++
 
@@ -134,7 +134,7 @@ Antibiothérapie systématique pendant **10 jours**:
 
 #### Otite moyenne aiguë de l'enfant de plus de 2 ans
 
-Antibiothérapie si: symptômes mal tolérés, otorrhée ou aggravation après 48 heures de surveillance pendant **5 jours** (10 jours si **otorrhée** ou **otite récidivante** > 4 jours après l'arrêt des antibiotiques):
+Antibiothérapie si: symptômes mal tolérés, otorrhée ou aggravation après 48 heures de surveillance **pendant 5 jours** (10 jours si **otorrhée** ou **otite récidivante** > 4 jours après l'arrêt des antibiotiques):
 
 - <mark>Amoxicilline 80-100 mg/kg/j (max 3 g/j) en 2 prises</mark>
 - Syndrome otite-conjonctivite: amoxicilline (idem ci-dessus) ou amoxicilline-acide clavulanique 80 mg/kg/j en 2 prises (max 3 g/j)

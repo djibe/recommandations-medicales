@@ -106,7 +106,7 @@ Mesures générales de prise en charge du vitiligo:
 
 - Limiter les frottements
 - Crème solaire IP50 sur les zones atteintes
-- Soutien psychologique: [parcours MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}) ou autre
+- Soutien psychologique: [parcours Mon soutien psy]({{< relref "remboursement-psychologue-monsoutienpsy.md" >}}) ou autre
 - Information du patient sur le vitiligo: [Dermato-Info](https://dermato-info.fr/fr/les-maladies-de-la-peau/vitiligo-quand-la-peau-perd-son-pigment)
 - Association de patients: [Association Française du Vitiligo](https://www.afvitiligo.com/comprendre-le-vitiligo/les-traitements-du-vitiligo/)
 - {{< references/compare >}}

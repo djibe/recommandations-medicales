@@ -34,7 +34,7 @@ flowchart = true
   - Traitement de crise de l'asthme: bronchodilatateur de courte durée d'action {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} (béclométasone ou budésonide)  
     avec prednisone 40-50 mg/j pendant 5 à 7 jours
 - Asthme en état stable
-  - Maîtrise de l'asthme: {{< modal-btn modal-score-act >}}questionnaire *ACT™*{{< /modal-btn >}} à chaque consultation et applis [Asthm'Activ](https://play.google.com/store/apps/details?id=com.sophia.asthme) ou [Effic'Asthme](https://play.google.com/store/apps/details?id=fr.parisdescartes.efficasthme&hl=fr)
+  - Maîtrise de l'asthme: {{< modal-btn modal-score-act >}}questionnaire *ACT™*{{< /modal-btn >}} à chaque consultation
   - Épreuves fonctionnelles respiratoires (EFR) 1-3 fois par an
   - Jamais de {{< modal-btn modal-ttt-baca >}}bronchodilatateur de courte durée{{< /modal-btn >}} seul
   - Traitements de fond de l'asthme: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous. Pour un asthme parfaitement contrôlé sans traitement: {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} en cas de symptômes

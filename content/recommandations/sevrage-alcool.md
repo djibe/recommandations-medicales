@@ -27,7 +27,7 @@ todo = "SEO 'sevrage alcoolique has', simplifier, remarques mail, KEY x3 sevrage
 2. Évaluer la consommation d'alcool: score *AUDIT-C* et recherche de comorbidités (voir *Évaluation*)
 3. Intervention brève pour favoriser l'engagement dans une réduction de la consommation d'alcool, encourager à noter la consommation quotidienne
 4. Évaluer les situations sociale, familiale et professionnelle ...
-5. et dépister les complications liées à l'alcool (somatiques, [MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}), dépression, anxiété) et les co-addictions (tabac, cannabis)
+5. et dépister les complications liées à l'alcool (somatiques, [Mon soutien psy]({{< relref "remboursement-psychologue-monsoutienpsy.md" >}}), dépression, anxiété) et les co-addictions (tabac, cannabis)
 6. Donner la liste des associations et des consultations (voir *Information du patient*)
 
 - 0 alcool pendant la grossesse et chez les enfants
@@ -372,7 +372,7 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
   Maladie alcoolique, sevrage, intérêt de l'accompagnement, coordonnées des acteurs.
 - hépatoprotection: vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) et [hépatite B]({{< relref "hepatite-b.md" >}}) (après sérologie négative)
 - Intervention psychosociale
-  - Soutien psychologique ([remboursés sur ordonnance]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}))
+  - Soutien psychologique ([remboursés sur ordonnance]({{< relref "remboursement-psychologue-monsoutienpsy.md" >}}))
   - Renforcement de la motivation au changement
   - **Mouvements d'entraide** (voir *Information du patient*)
   - Évaluation du risque suicidaire
@@ -676,7 +676,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 - [RESPADD. Premiers gestes en alcoologie. 2023. (PDF)](https://mcusercontent.com/6e0fa86cb67b5d4a98c4d0019/files/d11a0a18-8acf-191a-b2f6-bd2852ba7667/Guide_Premiers_gestes_alcoologie_BAT5_.pdf)
 - [European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Management of alcohol-related liver disease. J Hepatol. 2018.](https://www.journal-of-hepatology.eu/article/S0168-8278(18)30214-9/fulltext)
 - [Fédération Française d'Addictologie](https://www.addictologie.org/)
-- [Société Française d'Alcoologie. Documents de référence.](http://www.sfalcoologie.asso.fr/page.php?choix=A10)
+- [Société Française d'Alcoologie. Recommandations SFA.](https://sfalcoologie.fr/recommandations-sfa/)
 - [Alcool Info Service Professionnels](https://www.alcool-info-service.fr/Alcool/Home-Professionnels/)
 - [LiSSA Alcool](https://www.lissa.fr/dc/#env=lissa&q=alcool&p=1)
 - J. Rehm, Section of Cancer Surveillance, International Agency for Research on Cancer, Lyon, France

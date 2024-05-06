@@ -1,37 +1,36 @@
 +++
-title = "Prescrire des séances chez un psychologue (MonParcoursPsy)"
-titleSeo = "Psychologue remboursé avec MonParcoursPsy"
+title = "Prescrire des séances chez un psychologue (Mon soutien psy)"
+titleSeo = "Psychologue remboursé avec Mon soutien psy"
 prefix = "pour "
-noindex = true
-description = "Informations pour prescrire des séances de psychologue remboursées (MonParcoursPsy). Ordonnance modèle pour le remboursement de la psychothérapie"
+description = "Informations pour prescrire des séances de psychologue remboursées (Mon soutien psy). Ordonnance modèle pour le remboursement de la psychothérapie"
 synonyms = ["Psychothérapie remboursée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-23T13:48:59+02:00"
 publishdate = "2022-05-23"
-lastmod = "2023-01-23"
-specialites = ["psychiatrie", "therapeutique"]
-annees = "2023"
+lastmod = "2024-05-03"
+specialites = ["pediatrie", "psychiatrie", "therapeutique"]
+annees = "2024"
 sources = ["Ameli"]
 tags = ["adolescent", "depression", "enfant"]
 anglais = ["Psychotherapy"]
 sctid = "75516001"
 icd10 = ""
 image = true
-imageSrc = "Illustration de la séance de psychothérapie par stories / Freepik"
+imageSrc = "La psychothérapie. stories / Freepik"
 todo = "échelles"
 +++
 
 {{%article-summary%}}
 
-- Des séances de psychothérapie sont remboursables sur prescription, jusqu'à 8 séances annuelles avec le système **MonParcoursPsy** (*ex MonPsy*)
+- Des séances de psychothérapie sont remboursables sur prescription à partir de 3 ans, jusqu'à 8 séances annuelles avec le système **[Mon soutien psy](https://www.ameli.fr/medecin/exercice-liberal/prise-charge-situation-type-soin/accompagnement-psychologue-conventionne-mon-soutien-psy)** (*ex MonPsy* puis *MonParcoursPsy*)
 - Rédiger un << courrier d'adressage au psychologue pour le remboursement >>:  
-  Adressage pour un accompagnement psychologique (entretien d'évaluation et jusqu'à 7 séances de suivi) par un psychologue conventionné avec l'Assurance Maladie (annuaire disponible sur [monparcourspsy.sante.gouv.fr](https://monparcourspsy.sante.gouv.fr/)) ...
+  Adressage pour un accompagnement psychologique (entretien d'évaluation et jusqu'à 7 séances de suivi) par un psychologue conventionné avec l'Assurance Maladie (annuaire disponible sur [monsoutienpsy.ameli.fr](https://monsoutienpsy.ameli.fr/recherche-psychologue)) ...
 - accompagné courrier du contexte médico-psychologique
-- [Annuaire des psychologues remboursés (MonParcoursPsy)](https://monparcourspsy.sante.gouv.fr/annuaire), des [CMP](https://www.santeenfrance.fr/annuaire/13-centres-medico-psychologiques-cmp-cattp) et [CMPP](https://annuaire.action-sociale.org/etablissements/jeunes-handicapes/centre-medico-psycho-pedagogique--c-m-p-p---189.html)
+- [Annuaire des psychologues remboursés (Mon soutien psy)](https://monsoutienpsy.ameli.fr/recherche-psychologue), des [CMP](https://www.santeenfrance.fr/annuaire/13-centres-medico-psychologiques-cmp-cattp) et [CMPP](https://annuaire.action-sociale.org/etablissements/jeunes-handicapes/centre-medico-psycho-pedagogique--c-m-p-p---189.html)
 - [Appli pour le suivi des symptômes psychologiques: Mon suivi psy](https://jardinmental.fabrique.social.gouv.fr/pro)
 
 {{%/article-summary%}}
-{{%collapse "Personnes éligibles au dispositif MonParcoursPsy" %}}
+{{%collapse "Personnes éligibles au dispositif Mon soutien psy" %}}
 
 - Enfants dès 3 ans ou adolescents avec mal-être ou souffrance psychique d'intensité légère à modérée
 - Adultes en souffrance psychique d'intensité légère à modérée
@@ -41,11 +40,11 @@ todo = "échelles"
     {{%class%}}En cas de dépendance, adresser en [CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html).{{%/class%}}
   - Trouble des conduites alimentaires (TCA sans gravité)
 
-Les autres patients relèvent de suivi spécialisé psychiatrique, voire CMP (sauf urgence).
+Les autres patients relèvent de suivi spécialisé psychiatrique, voire *CMP* (sauf urgence).
 
 {{%info%}}
 
-### Critères de non-inclusion pour le suivi psychologique MonParcoursPsy
+### Critères de non-inclusion pour le suivi psychologique Mon soutien psy
 
 - Risque suicidaire
 - Antécédents psychiatriques ou formes sévères
@@ -59,13 +58,13 @@ Les autres patients relèvent de suivi spécialisé psychiatrique, voire CMP (sa
 {{% /collapse %}}
 {{%collapse "Prescrire les séances de psychothérapie remboursées" %}}
 
-Pour prescrire les 8 séances de psychothérapie remboursées annuellement dans le cadre du parcours MonParcoursPsy (*ex* MonPsy), mentionner sur une ordonnance nominative.
+Pour prescrire les 8 séances de psychothérapie remboursées annuellement dans le cadre du parcours *Mon soutien psy*, mentionner sur une ordonnance nominative:
 
 {{%info%}}
 
 ### Ordonnance pour le remboursement du psychologue
 
-Adressage pour un accompagnement psychologique (entretien d'évaluation et jusqu'à 7 séances de suivi) par un psychologue conventionné avec l'Assurance Maladie (annuaire disponible sur [monparcourspsy.sante.gouv.fr](https://monparcourspsy.sante.gouv.fr)).
+Adressage pour un accompagnement psychologique (entretien d'évaluation et jusqu'à 7 séances de suivi) par un psychologue conventionné avec l'*Assurance Maladie* (annuaire disponible sur [monsoutienpsy.ameli.fr](https://monsoutienpsy.ameli.fr/recherche-psychologue)).
 {{%/info%}}
 
 Le patient choisit son psychologue dans l'annuaire (ci-dessus).
@@ -97,7 +96,7 @@ Scores: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal
 
 {{< youtube id="sARvPRwl-hY" title="Psychologue et/ou Psychiatre: comment choisir? (Fréquence Médicale)" >}}
 
-{{< card-link-external title="MonParcoursPsy" url="https://monparcourspsy.sante.gouv.fr" subtitle="Le site officiel">}}
+{{< card-link-external title="Mon soutien psy" url="https://monsoutienpsy.ameli.fr/recherche-psychologue" subtitle="Le site officiel">}}
 
 {{%/sources%}}
 {{% modal title="Évaluation d'un mésusage de l'alcool" id="modal-auditc"%}}

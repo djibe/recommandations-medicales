@@ -23,7 +23,7 @@ todo = "https://www.santepubliquefrance.fr/docs/temps-d-ecran-de-2-a-5-ans-et-de
 {{%article-summary%}}
 
 - Pas d'écrans avant 3 ans, sauf accompagné occasionnel
-- [Fiche information pour les parents](https://lecmg.fr/wp-content/uploads/2023/03/Kit-addictions-CMG-Ecran.pdf) (*CMG*)
+- [Fiche information pour les parents (PDF)](https://www.cmg.fr/wp-content/uploads/2024/03/Kit-ecran-2023.pdf) (*CMG*)
 
 {{%/article-summary%}}
 {{%collapse "Message aux parents" %}}
@@ -69,6 +69,7 @@ Les normes de sécurité oculaire devraient prendre en compte la photosensibilit
 
 ### Bibliographie en attente
 
+- [Enfants et écrans. À la recherche du temps perdu. Elysée. 2024. (PDF)](https://www.elysee.fr/admin/upload/default/0001/16/fbec6abe9d9cc1bff3043d87b9f7951e62779b09.pdf)
 - [Bernard J et al. Temps d'écran de 2 à 5 ans et demi chez les enfants de la cohorte nationale Elfe. BEH. 2023.](http://beh.santepubliquefrance.fr/beh/2023/6/2023_6_1.html)
 - HCSP. Avis relatif aux effets de l'exposition des enfants et des jeunes aux écrans. 2019.
 

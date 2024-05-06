@@ -105,7 +105,7 @@ Ces lésions risquent de laisser des cicatrices cutanées atrophiques définitiv
 
 Rechercher des signes d'hyperandrogénie pour éliminer une acné secondaire:
 
-{{< clinique/hyperandrogenie >}}
+{{< clinique/hyperandrogenie >}}.
 {{%/info%}}
 
 {{% /collapse %}}
@@ -186,10 +186,9 @@ Extraction des microkystes par le dermatologue. Doit être réalisée après plu
 {{%info%}}
 Peroxyde de benzoyle 5% gel 1 à 2 applications par jour sur peau propre  
 (Curaspot, Cutacnyl, Eclaran, Effacné, Pannogel, Panoxyl, Papclair).  
-
-En irritation locale forte: espacer les applications tous les 2 ou 3 jours.  
-Efficacité visible en 4-6 semaines.  
-Puis 2 à 3 applications par semaine en entretien.
+  
+Efficacité visible en 4-6 semaines. Puis 2 à 3 applications par semaine en traitement d'entretien.  
+En cas de survenue d'irritation locale marquée: espacer les applications tous les 2 ou 3 jours.
 {{%/info%}}
 
 **Effets indésirables:** photosensibilité, allergie, décoloration des phanères et vêtements.

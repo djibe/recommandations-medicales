@@ -94,7 +94,7 @@ Signes et symptômes à rechercher lorsqu'une hypotension orthostatique est susp
 
 ### Examen clinique
 
-- Pression artérielle assis puis debout à 1 et 3 minutes (*ESC/ESH 2018*), fréquence cardiaque
+- Pression artérielle assis puis debout à 1 et 3 minutes (*ESH 2023*), fréquence cardiaque
 - Poids et variations, taille, IMC
 - Examen cardiorespiratoire
 - Examen neurologique

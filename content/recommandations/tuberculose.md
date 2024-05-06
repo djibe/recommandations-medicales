@@ -60,12 +60,12 @@ Le BCG peut être administré en même temps que n'importe quel autre vaccin mai
   Sauf Antigua, Barbuda, Barbade, Bermudes, Bonaire, Cuba et du Costa Rica, Curaçao, Jamaïque, Îles Vierges et Caïmans, Porto Rico.
 - Asie sauf Japon
 - Proche Orient  
-  Sauf Arabie Saoudite, Chypre, Émirats Arabes Unis, Israël, Koweït, Jordanie, Oman, Turquie.
+  Sauf Arabie Saoudite, Chypre, Émirats Arabes Unis, Israël, Jordanie, Oman.
 - Europe centrale  
   Sauf Grèce, Hongrie, Croatie, Slovaquie, Slovénie et République Tchèque.
 - Groenland
 
-> – *[Santé Publique France. Liste des pays de haute endémie (taux d'incidence > 40 cas de tuberculose/100.000 habitants), année 2022.](https://www.santepubliquefrance.fr/media/files/01-maladies-et-traumatismes/maladies-et-infections-respiratoires/tuberculose/donnees-tuberculose_tableau-12)*
+> – *Recommandations sanitaires aux voyageurs*
 
 {{% /collapse %}}
 {{%collapse "Suivi thérapeutique de la tuberculose" %}}
@@ -114,6 +114,7 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
+- {{< references/voyageur >}}
 - [HAS. Tuberculose maladie. Actes et prestations Affection de longue durée. 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/actualisationlap_tuberculose__web_.pdf)
 
 ### Bibliographie en attente

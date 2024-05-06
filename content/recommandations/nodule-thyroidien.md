@@ -27,7 +27,7 @@ flowchart = true
 - Le bilan initial d'un nodule thyroïdien comporte une TSH seule
 - Indications à l'échographie de la thyroïde: nodule palpable, gênant ou compressif, incidentalome en imagerie. Elle donne le score EU-TIRADS
 - Recommandations pour le recours à la cytoponction: adénopathie cervicale suspecte, EU-TIRADS 5 > 10 mm, EU-TIRADS 4 > 15 mm, EU-TIRADS 3 > 20 mm. Elle donne le score de Bethesda
-- Surveillance des nodules EU-TIRADS 2-3-4 ou Bethesda II: échographie à 1-2 ans puis 2-4 ans plus tard puis tous les 4-5 ans
+- Surveillance des nodules thyroïdiens EU-TIRADS 2-3-4 ou Bethesda II: échographie à 1-2 ans puis 2-4 ans plus tard puis tous les 4-5 ans
 - La prise en charge du nodule thyroïdien chez l'enfant et pendant la grossesse relève du spécialiste (TSH + échographie systématique)
 
 Chapitre lié: [cancer de la thyroïde]({{< relref "cancer-thyroide.md" >}}), [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
@@ -162,7 +162,7 @@ Confirmation d'une anomalie par un 2<sup>e</sup> prélèvement puis exploration 
 ### Échographie thyroïdienne
 
 {{%info%}}
-Recommandations pour le recours à l'échographie thyroïdienne en cas de nodule thyroïdien:
+Indications à l'échographie thyroïdienne pour un nodule thyroïdien:
 
 1. Nodule palpable
 2. Nodule gênant
@@ -172,7 +172,7 @@ Recommandations pour le recours à l'échographie thyroïdienne en cas de nodule
 6. Discussion spécialisée d'un dépistage sélectif si: syndrome monogénique à risque de cancer thyroïdien, radiothérapie totale ou cervicale à forte dose dans l'enfance (tous les 3-5 ans), ≥ 3 cas de cancers thyroïdiens familiaux, exposition significative aux radiations ionisantes
 {{%/info%}}
 
-Chaque nodule de la thyroïde est décrit selon la **classification EU-TIRADS** (5 niveaux, voir *Définition*).
+Chaque nodule de la thyroïde est décrit én échographie selon la **classification EU-TIRADS** (5 niveaux, voir *Définition*).
 
 Les autres imageries (scanner, IRM) relèvent du spécialiste (goitre plongeant, compression trachéale ou œsophagienne, rapports vasculaires).
 

@@ -104,13 +104,13 @@ L'**IRM hypophysaire** retrouve souvent une tumeur.
 La prise en charge de l'acromégalie dépend du centre spécialisé et le suivi doit être annuel
 {.alert .alert-info}
 
-- [ALD 31]({{< relref "affection-longue-duree.md" >}})
-- MDPH
-- Prise en charge des complications spécialisée
+- Déclarer une [ALD 31]({{< relref "affection-longue-duree.md" >}})
+- Dossier MDPH
+- Prise en charge spécialisée des complications
 - Soutien psychologique
 - Lutte contre le [risque cardiovasculaire](/tags/risque-cardiovasculaire/)
 - Programmes d'éducation thérapeutique au sein des centres de référence
-- Association de patients acromégales: [Acromégales Pas Seulement](https://www.acromegalie-asso.org)
+- Association de patients: [Acromégales Pas Seulement](https://www.acromegalie-asso.org)
 
 ### Pour en savoir plus: traitement hormonal de l'acromégalie
 

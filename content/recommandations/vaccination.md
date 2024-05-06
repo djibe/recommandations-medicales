@@ -63,11 +63,11 @@ VVA
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
 |   Né après<br>le 6/2/23 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Beyfortus au mieux avant<br>la sortie de maternité                |
-|   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
-|   3 mois   | Méningo B<br>Rotavirus<br>Prématuré: Pneumo 13       | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>Vaxneuvance > Prevenar 13          |
-|   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13<br>RotaTeq 3/3 |
+|   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 1/3, Rotarix 1/2 |
+|   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + pneumocoque) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance)         |
+|   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3 |
 |   5 mois   | Méningo C<br>Méningo B                               | Neisvac<br>Bexsero                                                        |
-|  11 mois   | DTCaP-Hib-HB<br>Pneumo 13                            | Hexyon, Infanrix Hexa, Vaxelis<br>Vaxneuvance > Prevenar 13               |
+|  11 mois   | DTCaP-Hib-HB<br>Pneumo 13                            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance                |
 |  12 mois   | Méningo C<br>ROR<br>Méningo B                        | Neisvac<br>MMRvaxPro, Priorix<br>Bexsero                                  |
 | 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
@@ -81,6 +81,8 @@ VVA
 {{< /table >}}
 
 > Les consultations à 25, 45 et 65 ans sont gratuites avec la **cotation RDV** (30€).
+
+**NB.** Le Nimenrix peut être réalisé à M6-M12 en remplacement du Neisvac M5-M12 (non remboursé). Neisvac M5 et Nimenrix M12 (NR) est également possible.
 
 ### Vaccin rotavirus
 
@@ -316,16 +318,14 @@ Documents pour informer sur la vaccination:
 
 - {{< references/calendrier-vaccinal >}}
 - [Service Public. Les pharmaciens peuvent désormais vous prescrire et vous administrer vos vaccins. 30/08/2023.](https://www.service-public.fr/particuliers/actualites/A16732) et [arrêté 2023-736](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047948973)
-- [Ministère de la Santé. La vaccination du nourrisson contre les rotavirus. Questions/Réponses pour les professionnels de santé. Novembre 2022.](https://sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-ps.pdf)
-- [Omedit Auvergne. Vaccination et Chimiothérapie. 22/07/2022.](https://www.omedit-auvergne-rhone-alpes.ars.sante.fr/vaccination-et-chimiotherapie)
+- [HAS. Actualisation des recommandations et obligations vaccinales des professionnels. Volet 1/2 : diphtérie, tétanos, poliomyélite, hépatite B, Covid-19. 2023.](https://www.has-sante.fr/jcms/p_3424586/fr/actualisation-des-recommandations-et-obligations-pour-les-etudiants-et-professionnels-des-secteurs-sanitaire-medicosocial-et-en-contacts-etroits-avec-de-jeunes-enfants)
+- [HAS. Actualisation des recommandations et obligations vaccinales des professionnels. Volet 2/2 : coqueluche, grippe saisonnière, hépatite A, rougeole, oreillons, rubéole, varicelle. 2023.](https://www.has-sante.fr/jcms/p_3456351/fr/actualisation-des-recommandations-et-obligations-vaccinales-des-professionnels)
+- [Ministère de la Santé. La vaccination du nourrisson contre les rotavirus. Questions/Réponses pour les professionnels de santé. 2022.](https://sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-ps.pdf)
+- [Omedit Auvergne. Vaccination et Chimiothérapie. 21/07/2022. (PDF)](https://www.omedit-auvergne-rhone-alpes.ars.sante.fr/media/97563/download?inline)
 - [Décret 2022-610 pour la vaccination par les infirmiers et pharmaciens. Journal officiel.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045638858)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Vaccinations. Infections urinaires. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/vaccinations)
 - [Cohen R. Administration des vaccins par voie intramusculaire. Médecine & enfance. 2021. (PDF)](https://www.infovac.fr/docman-marc/public/pratiques-vaccinales/1874-ia-intramusculaire-me-decine-et-enfance/file)
 - [Infovac](https://www.infovac.fr)
 - [Vaccination Info Service](https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Administration-des-vaccins)
-
-### Bibliographie en attente
-
-- [HAS. Obligations et recommandations vaccinales des professionnels : Actualisation des recommandations et obligations pour les étudiants et professionnels des secteurs sanitaire, médicosocial et en contacts étroits avec de jeunes enfants. 2023.](https://www.has-sante.fr/jcms/p_3424589/fr/obligations-vaccinales-des-professionnels-la-has-publie-le-1er-volet-de-ses-travaux)
 
 {{%/sources%}}

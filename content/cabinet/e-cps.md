@@ -43,9 +43,9 @@ Télécharger l'appli e-CPS sur l'[App Store](https://apps.apple.com/fr/app/e-cp
 ### Créer sa e-CPS avec sa CPS
 
 1. Depuis l'ordinateur avec la CPS branchée, aller sur <https://wallet.esw.esante.gouv.fr>
-2. Cliquer sur le bouton PROSANTECONNECT
-3. À l'étape Connectez-vous, cliquer sur l'onglet *Carte CPS* puis *Se connecter avec la carte CPS*
-4. Cliquer sur *J'accepte les CGU* et *Commencer l'activation*
+2. Cliquer sur le bouton **PROSANTECONNECT**
+3. À l'étape *Connectez-vous*, cliquer sur l'onglet **Carte CPS** puis **Se connecter avec la carte CPS**
+4. Cliquer sur **J'accepte les CGU** et **Commencer l'activation**
 5. À l'étape suivante, scanner le QR code affiché sur l'écran du PC avec l'appli e-CPS
 6. Puis entrer sur l'ordinateur le code affiché sur le téléphone
 7. Définir un code PIN pour l'appli e-CPS
@@ -57,8 +57,8 @@ Vous pouvez maintenant vous connecter à certains services avec votre smartphone
 Cette étape va passer par l'adresse de courriel associée à votre compte ordinal et nécessite un 2<sup>e</sup> appareil pour afficher le QR code à venir.
 
 1. Depuis le téléphone, aller sur <https://wallet.esw.esante.gouv.fr>
-2. Cliquer sur le bouton PROSANTECONNECT
-3. Entrez votre numéro RPPS précédé d'un 8
+2. Cliquer sur le bouton **PROSANTECONNECT**
+3. Entrez votre numéro RPPS **précédé d'un 8**
 4. Consulter le mail sur le 2<sup>e</sup> appareil et scanner le QR code avec l'appli e-CPS
 5. Demander la réception du SMS, l'activation est normalement automatique
 6. Choisir un code PIN

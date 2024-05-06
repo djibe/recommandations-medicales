@@ -227,7 +227,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="e-learning EASD" url="https://easd-elearning.org/courses/gestational-diabetes-mellitus/">}}
+{{< card-link-external title="e-learning EASD" url="https://easd-elearning.eu/courses/gestational-diabetes-mellitus/">}}
 
 - [ESHRE. International evidence-based guideline for the assessment and management of polycystic ovary syndrome - Summary. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
 - {{< references/ada-soc >}}

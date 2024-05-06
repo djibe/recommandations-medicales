@@ -253,7 +253,7 @@ Oxygénothérapie normobare au masque haute concentration 12-15 L/min pendant 15
 Traiter au moins 3 crises à 12-15 L/min pendant 30 minutes avant de conclure à son inefficacité.  
 *Effet rebond* possible.
 
-> [Modèle de prescription (PDF)](http://www.urps-pharmaciens-paca.fr/wp-content/uploads/2016/03/Algie-Vasculaires-de-la-Face-AVF-%E2%80%93-Neurologue-ORL-ou-Structure-de-PEC-de-la-douleu.pdf), [Journal Officiel](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000030367524) et [forfaits de l'AM OAVF 4.28 et 4.29](http://www.codage.ext.cnamts.fr/cgi/tips/cgi-fiche?p_code_tips=1135392&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
+> [Journal Officiel](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000030367524) et [forfaits de l'AM OAVF 4.28 et 4.29](http://www.codage.ext.cnamts.fr/cgi/tips/cgi-fiche?p_code_tips=1135392&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
 
 {{% /collapse %}}
 {{%collapse "Traitement de fond de l'algie vasculaire" %}}
@@ -264,7 +264,6 @@ Indication à la prise en charge par traitement de fond de l'algie vasculaire de
 - Éviction de l'alcool, cannabis et cocaïne
 - Traitement transitionnel si besoin le temps de la titration (voir *Traitement de la crise*)
 - Association de patients: [AFCAVF](http://www.afcavf.org)
-- [Appli d'agenda des crises](https://play.google.com/store/apps/details?id=eu.monavf.android.monavf)
 - Pas d'ALD accordée
 
 ### Vérapamil

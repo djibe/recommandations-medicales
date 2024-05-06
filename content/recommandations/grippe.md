@@ -7,7 +7,7 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2024-04-26"
+lastmod = "2024-05-01"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2024"
 sources = ["MinSanté", "HAS"]
@@ -86,7 +86,7 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 - Résident de SSR, EHPAD ou médico-social
 - Entourage des nourrissons de moins de 6 mois présentant des facteurs de risque de grippe grave: prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d'une affection de longue durée ainsi que l'entourage des personnes immunodéprimées.
 
-> {{< references/calendrier-vaccinal-2023 >}}
+> – *Calendrier vaccinal*
 
 > << Les femmes enceintes constituent une population à risque d'infection grippale d'une gravité particulière avec des complications à court terme (mort fœtale et mort maternelle, hypoxémie réfractaire, complications des soins de réanimation) et à long terme sous forme d'insuffisance respiratoire. >> – *CNGOF 2013*
 {.alert .alert-warning}
@@ -97,11 +97,11 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 - Personnel navigant des bateaux de croisière et des avions et personnel de l'industrie des voyages accompagnant les groupes de voyageurs (guides)
 - Professionnel exposé aux virus porcins et aviaires
 
-> {{< references/calendrier-vaccinal-2023 >}}
+> – *Calendrier vaccinal*
 
 ### Vaccination anti-grippale des enfants
 
-> La vaccination contre la grippe << peut être proposée chaque année à tous les enfants âgés de 2 à 17 ans révolus. Dans cette tranche d'âge, il est recommandé d'utiliser préférentiellement le vaccin administré par voie intranasale Fluenz Tetra® >> (*Calendrier vaccinal 2023*) qui n'est évidemment pas disponible en pharmacie en France.
+> La vaccination contre la grippe << peut être proposée chaque année à tous les enfants âgés de 2 à 17 ans révolus. >> – *Calendrier vaccinal*
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}

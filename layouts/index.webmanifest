@@ -1,7 +1,7 @@
 {
   "name": "{{ .Site.Title }}",
   "short_name": "{{ .Site.Title }}",
-  "description": "{{ .Site.Params.Description }}",
+  "description": "{{ .Site.Params.Description }}.",
   "lang": "{{ .Site.LanguageCode }}",
   "icons": [
     {
@@ -21,5 +21,21 @@
   "orientation": "portrait",
   "display": "standalone",
   "theme_color": "#4150f5",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "screenshots": [
+    {
+     "src": "/images/icons/pwa.jpg",
+      "sizes": "1907x966",
+      "type": "image/jpg",
+      "form_factor": "wide",
+      "label": "RecoMédicales sur ordinateur"
+    },
+    {
+      "src": "/images/icons/pwa-small.jpg",
+       "sizes": "424x793",
+       "type": "image/jpg",
+       "form_factor": "narrow",
+       "label": "RecoMédicales sur mobile"
+     }
+  ]
 }

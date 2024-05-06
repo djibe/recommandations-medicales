@@ -316,7 +316,7 @@ gitGraph
 {{%sources%}}
 
 - [Chou R et al. Preexposure Prophylaxis for the Prevention of HIV: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2023.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prevention-of-human-immunodeficiency-virus-hiv-infection-pre-exposure-prophylaxis)
-- [Ameli Médecin. Forte augmentation de la prescription de la PrEP en ville par des médecins généralistes. 29/11/2022.](https://www.ameli.fr/medecin/actualites/forte-augmentation-de-la-prescription-de-la-prep-en-ville-par-des-medecins-generalistes)
+- Ameli Médecin. Forte augmentation de la prescription de la PrEP en ville par des médecins généralistes. 29/11/2022.
 - [Velter A. et al. Évolution du niveau de protection contre le VIH parmi les hommes ayant des rapports sexuels avec des hommes séronégatifs pour le VIH – Résultats de l'enquête Rapport au sexe 2017-2019-2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_1.html)
 - [MedQual. VIH : La PrEP arrive en ville ! Janvier 2022.](http://www.medqual.fr/images/PRO_2018/LA/2022-JAN-LAPrEP-n195-vF.pdf)
 - [ANSM. Emtricitabine - Ténofovir disoproxil. 27/07/2021.](https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil)

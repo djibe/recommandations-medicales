@@ -6,7 +6,7 @@ synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T12:42:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2023-10-03"
+lastmod = "2024-05-02"
 specialites = ["infectiologie"]
 annees = "2018"
 sources = ["SPILF", "HCSP"]
@@ -35,12 +35,12 @@ todo = "Prescrire, ttt ambulatoire accès palustre"
 {{%collapse "Définition" %}}
 
 Paludisme
-: de l'ancien français << palus >> (marécage) ou aussi malaria, littéralement << mauvais air >>.
+: de l'ancien français *palus* (marécage) ou aussi malaria, littéralement << mauvais air >>.
 : Maladie infectieuse due au parasite du genre *Plasmodium* (5 types: *Plasmodium falciparum* surtout voire *P. vivax*, *P. malariae*, *P. ovale* ou *P knowlesi*) transmise par les moustiques femelles du genre *Anopheles* (piqûres de 23 à 6 heures). La moitié de la population mondiale vit en zone d'endémie avec 600.000 morts chaque année.
 : Personnes à risque de forme grave: femme enceinte, nourrissons et enfants avant 6 ans, personnes âgées, [PVVIH]({{< relref "vih-sida.md" >}}) et [aspléniques]({{< relref "asplenie.md" >}}).
 : Absence de transmission du parasite sous 18°C.
 
-> << Un des principaux facteurs de risque pour les accès graves et les décès est le retard au diagnostic, souvent lié à une prise en charge inadaptée des patients lors d'une première consultation >>. – *HCSP 2023*
+> <<  Un des principaux facteurs de risque des formes graves et de décès du paludisme demeure le retard au diagnostic, souvent lié à une prise en soin inadaptée des patients lors d'une première consultation >>. – *Ministère de la Santé 2024*
 {.alert .alert-warning}
 
 ### Abréviations
@@ -81,9 +81,9 @@ Un accès palustre doit être éliminé avant d'étayer les autres causes de fi�
 ### Épidémiologie du paludisme en France
 
 - Incidence: 4995 cas estimés en 2021 (9 présumés autochtones, *CNR*)  
-  99,5% contractés en **Afrique subsaharienne** et 88,8 % par *Plasmodium falciparum*, sans diminution.
-- 87,6% des patients sont des voyageurs retournant au pays
-- Formes graves: 16,2% (2021), à 98,6% par *P falciparum*
+  89 % contractés en **Afrique subsaharienne** et 88 % par *Plasmodium falciparum*, sans diminution.
+- 87,6 % des patients sont des voyageurs retournant au pays
+- Formes graves: 17,6 %, à 98,6 % par *P falciparum*
 - Décès en France: 8 (2021)
 
 L'Afrique subsaharienne comptabilise 90% des cas mondiaux de paludisme.
@@ -221,7 +221,7 @@ Choix de la chimioprophylaxie antipaludique (CPAP):
 - **Séjour << non conventionnel >>**: avis spécialisé
   - Routards, militaires, séjour improvisé, mission humanitaire ou une exploration scientifique.  
   1 ou + parmi: durée supérieure à un mois, nombre élevé de nuitées en zone rurale, hébergements précaires (tente, habitations non protégées), périple pendant la saison des pluies ou dans une région de forte transmission palustre.
-  - En situation d'isolement: intérêt d'un avis spécialisé pour le traitement présomptif d'urgence (traitement de réserve)
+  - En situation d'isolement: intérêt d'un avis spécialisé pour le traitement présomptif d'urgence (*traitement de réserve*)
 
 > En cas de cas complexe, prendre l'avis d'un centre de conseils aux voyageurs et de vaccination internationaux (CVI).
 
@@ -371,8 +371,8 @@ Les traitements d'intention moindre sont l'atovaquone-proguanil voire la quinine
 {{% /collapse %}}
 {{%sources%}}
 
-- [Pasteur. Paludisme : la prise en charge des malades du paludisme à Plasmodium falciuparum mise en périle dans la Corne de l'Afrique. 28/09/2023.](https://www.pasteur.fr/fr/espace-presse/documents-presse/paludisme-prise-charge-malades-du-paludisme-plasmodium-falciparum-mise-peril-corne-afrique)
 - {{< references/voyageur >}}
+- [Pasteur. Paludisme : la prise en charge des malades du paludisme à Plasmodium falciuparum mise en périle dans la Corne de l'Afrique. 28/09/2023.](https://www.pasteur.fr/fr/espace-presse/documents-presse/paludisme-prise-charge-malades-du-paludisme-plasmodium-falciparum-mise-peril-corne-afrique)
 - Anofel. Paludisme. Parasitoses et mycoses des régions tempérées et tropicales. 2022.
 - [CMIT. Paludisme. Item 170. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-170-web.pdf)
 - [Bouchaud O et al. Prise en charge et prévention du paludisme d'importation - Mise à jour 2018 des RPC 2007. Médecine et Maladies Infectieuses. 2020.](https://www.sciencedirect.com/science/article/pii/S0399077X19310613)

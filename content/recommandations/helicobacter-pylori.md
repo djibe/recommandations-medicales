@@ -2,7 +2,7 @@
 title = "Helicobacter pylori (HP)"
 prefix = "l'"
 titleSeo = "Helicobacter pylori"
-description = "Dernières recommandations 2021 sur le traitement d'Helicobacter pylori pour le médecin généraliste. Traitement antibiotique selon l'antibiogramme..."
+description = "Dernières recommandations HAS et GEFH 2021 sur le traitement d'Helicobacter pylori pour le médecin généraliste. Traitement antibiotique selon l'antibiogramme"
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -26,11 +26,11 @@ todo = "rankok, reco enfant 2022, comment diag quand rosacée, dépistage en AIN
 
 - Dépistage d'*Helicobacter pylori* par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication
 - Signes d'alarmes en cas de symptômes digestifs hauts: dysphagie, amaigrissement, anémie
-- Endoscopie gastrique si symptômes ou facteurs de risque de cancer de l'estomac
-- Reporter le traitement d'éradication en cas de grossesse ou d'allaitement
-- Privilégier le traitement adapté à l'antibiogramme d'*Helicobacter pylori* +++
+- Endoscopie gastrique (EOGD) si symptômes ou facteurs de risque de [cancer de l'estomac]({{< relref "cancer-estomac.md" >}})
+- Privilégier le traitement adapté à l'antibiogramme d'*Helicobacter pylori* (après endoscopie)
 - Posologie de l'amoxicilline: 50 mg/kg/j en 3-4 prises (max 6 g/j)
 - 2 IPP à privilégier: ésoméprazole 40 ou rabéprazole 20 mg (sauf oméprazole pour Bismuth), matin et soir
+- Reporter le traitement d'éradication d'*Helicobacter pylori* en cas de grossesse ou d'allaitement
 - {{< modal-btn modal-test-respi >}}Contrôle de l'éradication{{< /modal-btn >}} systématique avec le test à l'urée marquée à 1 mois
 
 {{%/article-summary%}}
@@ -38,7 +38,7 @@ todo = "rankok, reco enfant 2022, comment diag quand rosacée, dépistage en AIN
 <div class="card card-hover card-list-material my-4">
   <div class="card-body">
     <h3 class="card-title mt-0">Aide au choix du traitement d'<em>Helicobacter pylori</em> 2021</h3>
-    <h4 class="card-subtitle">Dr JB Fron d'après GEFH, HAS et SPILF 2021</h4>
+    <h4 class="card-subtitle">Dr JB Fron d'après HAS, GEFH et SPILF 2021</h4>
     <p class="card-text">Le traitement devrait toujours être guidé (antibiogramme, PCR).</p>
     <input type="checkbox" id="btn-atbgramme" class="d-input-none" checked onclick="functionHp()">
     <label for="btn-atbgramme" class="chip chip-action chip-filter" data-toggle="collapse" data-target="#hp-1-reference">Antibiogramme</label>
@@ -534,7 +534,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 - [HAS et CNPHGE. Diagnostic de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
 - [HAS et CNPHGE. Traitement de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)
 - [Bonfils C. et Zuliani S. La prise de traitements chroniques au quotidien : évaluer les pratiques des patients et optimiser l'horaire de prise des médicaments. Sciences pharmaceutiques. 2015. dumas-01169981](https://dumas.ccsd.cnrs.fr/dumas-01169981/document)
-- [Delchier JC, Courillon-Mallet A, Lamarque D. Infection à Helicobacter pylori de l'adulte. Conseil de pratique. SNFGE. 2015. (PDF)](https://www.https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp011-infection-a-helicobacter-pylori-de-ldulte_2015-06.pdf)
+- [Delchier JC, Courillon-Mallet A, Lamarque D. Infection à Helicobacter pylori de l'adulte. Conseil de pratique. SNFGE. 2015. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp011-infection-a-helicobacter-pylori-de-ldulte_2015-06.pdf)
 - [HAS. Dépistage de l'infection à Helicobacter pylori. Avril 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-08/synthese_-_depistage_de_linfection_a_helicobacter_pylori.pdf)
 - [Groupe d'Études Français des Helicobacter (GEFH). Site officiel.](http://www.helicobacter.fr)
 

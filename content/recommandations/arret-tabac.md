@@ -284,7 +284,7 @@ Prise en charge du patient souhaitant arrêter de fumer:
 - Tabacologue ([annuaire](https://www.tabac-info-service.fr/je-trouve-un-tabacologue))  
   Indications: demande du patient, rechutes répétées, accompagnement psychologique spécifique, poly-addictions, comorbidités psychiatriques.
 - Soutien psychologique ± **thérapie cognitive et comportementale** (TCC)  
-  Voir [remboursement MonParcoursPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}).
+  Voir [remboursement Mon soutien psy]({{< relref "remboursement-psychologue-monsoutienpsy.md" >}}).
 - Suivi bucco-dentaire rigoureux
 - Voire traitement médicamenteux
 - Auto-support: [Tabac Info Service](https://www.tabac-info-service.fr/), appli [Kwit](https://play.google.com/store/apps/details?id=fr.kwit.android)
@@ -362,12 +362,13 @@ Possible en cas d'antécédents neuro-psychiatriques.
 {{% /collapse %}}
 {{%collapse "Place de la cigarette électronique" %}}
 
+{{%info%}}
 Injonctions paradoxales pour le généraliste:
 
 - << Les connaissances fondées sur les preuves sont insuffisantes pour proposer les SEDEN comme aides au sevrage tabagique dans la prise en charge des fumeurs par les professionnels de santé >> – *HCSP 2022*
 - << La cigarette électronique peut être considérée comme une aide au sevrage tabagique (*Collège*) >>
 - << les CE [NDLR cigarettes électroniques] avec nicotine aident plus de personnes à arrêter de fumer que les TSN. Les CE avec nicotine aident probablement plus de personnes à arrêter de fumer que les CE sans nicotine, mais d'autres études sont encore nécessaires pour le confirmer. >> – *Cochrane 2022*
-{.alert .alert-info}
+{{%/info%}}
 
 Synthèse des 13 recommandations du *Haut Conseil de la Santé Publique* pour la prise en charge par cigarette électronique (SEDEN) du sevrage tabagique (les 5 premières nous concernent):
 

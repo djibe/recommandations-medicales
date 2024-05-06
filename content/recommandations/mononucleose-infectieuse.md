@@ -101,7 +101,7 @@ Le diagnostic de mononucléose infectieuse est biologique:
 - CRP augmentée
 - MNI test (se 85-90% sauf enfant, spe +90%, *CMIT*, *CEMI*)
 - Si MNI test négatif: sérologie EBV  
-  Primo-infection: IgM anti-VCA (+ les 3 premiers mois) et IgG anti-EBNA (- les 3 premiers mois)
+  Primo-infection à la sérologie MNI: IgM anti-VCA (+ les 3 premiers mois) et IgG anti-EBNA (- les 3 premiers mois)
 - Cytolyse modérée isolée
 
 Autres anomalies plus rares: anémie hémolytique, thrombopénie auto-immune.

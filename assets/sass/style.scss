@@ -58,7 +58,7 @@ h1 {
   font-weight: 400;
   &.site-title {
     // color: var(--secondary);
-    font-family: 'Roboto', system-ui;
+    font-family: Roboto, system-ui;
     font-size: calc(2rem + 1.15vw);
     font-weight: 700;
   }
@@ -1545,6 +1545,10 @@ div.mermaidTooltip {
 }
 
 // Utilities
+.mx-5 {
+  margin-inline: 3rem !important;
+}
+
 .bg-primary-light {
   background-color: var(--primary-light);
 }
