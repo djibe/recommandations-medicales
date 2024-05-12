@@ -173,7 +173,7 @@ Caractères sémiologiques de l'hématurie macroscopique:
 
 - NFS
 - TP, TCA
-- Créatininémie, DFG {{< scores/ckd-epi >}}
+- Créatininémie, DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - ECBU matinal (après toilette, en dehors des menstruations)
 {{%/info%}}
 
@@ -226,3 +226,8 @@ graph TB
 - [Collège Français des Enseignants en Urologie (CFEU). Hématurie. Item 260. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-260-Hematurie.pdf)
 
 {{%/sources%}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
+
+{{% /modal %}}

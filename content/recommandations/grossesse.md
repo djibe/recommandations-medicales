@@ -278,6 +278,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 
 ### Bibliographie en attente
 
+- [Cour des Comptes. La politique de périnatalité. 2024.](https://www.ccomptes.fr/fr/publications/la-politique-de-perinatalite)
 - [Vigoureux S et al; CNGOF. Prévention de l'allo-immunisation anti-RH1 au premier trimestre de la grossesse: recommandations pour la pratique clinique du Collège National des Gynécologues-Obstétriciens Français. Gynécologie Obstétrique Fertilité & Sénologie. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2468718924000813)
 - [HAS. Accompagnement médico-psycho-social des femmes, des parents et de leur enfant, en situation de vulnérabilité, pendant la grossesse et en postnatal. 2024.](https://www.has-sante.fr/jcms/p_3271226/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal)
 - [HAS. Situations pathologiques pouvant relever de l'hospitalisation à domicile au cours de l'ante et du post-partum. 2011.](https://www.has-sante.fr/jcms/c_1066375/fr/situations-pathologiques-pouvant-relever-de-l-hospitalisation-a-domicile-au-cours-de-l-ante-et-du-post-partum)

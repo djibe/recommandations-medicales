@@ -233,7 +233,7 @@ Bilan initial devant une suspicion d'insuffisance cardiaque:
 
 - NFS
 - Ferritinémie, CRP
-- Ionogramme, créatininémie, DFG {{< scores/ckd-epi >}}
+- Ionogramme, créatininémie, DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - Urée, albumine (*HAS 2015*)
 - ASAT, ALAT, GGT, bilirubine
 - Glycémie à jeun ou HbA1c
@@ -291,7 +291,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
 - Mesures associées
   - Éducation thérapeutique
   - Évaluation diététique
-  - Vaccinations grippe, Covid-19, {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}}/5 ans
+  - Vaccinations grippe, Covid-19, {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}}
   - Si Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}})
   - Diagnostic rapide des infections intercurrentes
   - Surveillance des cardiotoxiques
@@ -627,5 +627,10 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
 
 {{< scores/mna >}}
+
+{{% /modal %}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
 
 {{% /modal %}}

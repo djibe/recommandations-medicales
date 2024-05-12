@@ -28,7 +28,7 @@ flowchart = true
 - Prescrire le bilan biologique avec les radiographies pour adresser au rhumatologue dans les 6 semaines (voir *Examens complémentaires*)
 - La prise en charge de la polyarthrite rhumatoïde par un traitement spécifique relève exclusivement du rhumatologue
 - Le méthotrexate doit être pris un jour fixe de la semaine avec prise de 10 mg d'acide folique 48 heures après
-- Mesures associées au traitement: dépistage des [cancers](/tags/cancer/), contrôle de risque cardiovasculaire, rappels vaccinaux (dTP tous les 10 ans, pneumocoque tous les 5 ans)
+- Mesures associées au traitement: dépistage des [cancers](/tags/cancer/), contrôle de risque cardiovasculaire, rappels vaccinaux (dTP tous les 10 ans, pneumocoque)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -135,7 +135,7 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
 
 - NFS, VS, CRP
 - ASAT, ALAT, PAL, bilirubine
-- Créatininémie, DFG selon {{< scores/ckd-epi >}}
+- Créatininémie, DFG selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - Bandelette urinaire (protéinurie, [hématurie]({{< relref "hematurie.md" >}}))
 - Facteur rhumatoïde (FR)
 - Anticorps anti-peptide citrulliné (*ACPA* ou *anti-CCP*)
@@ -183,8 +183,7 @@ La décision du traitement dépend du rhumatologue, partagée avec le patient
   - Échodoppler des troncs supra-aortiques (TSA)
   - Dépistage annuel de la maladie rénale chronique: créatininémie et rapport albuminurie/créatininurie (*HAS 2023*)
 - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md">}})  
-  - dTP tous les 10 ans
-  - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque tous les 5 ans{{< /modal-btn >}}
+  dTP tous les 10 ans, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}.
 - Mise à jour des **[dépistages des cancers](/tags/depistage/)**
 - Association de patients: [AFPric](https://www.polyarthrite.org/), [ANDAR](http://www.polyarthrite-andar.com/)
 - Soins paramédicaux
@@ -352,3 +351,8 @@ graph TB
 {{< traitements/vaccin-pneumocoque >}}
 
 {{%/modal%}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
+
+{{% /modal %}}

@@ -30,7 +30,7 @@ todo = "Albuminurie perturbée, aliments riches K/P (HAS2023p71), désindexation
 - Néphroprotection et prise en charge de l'insuffisance rénale:  
   Arrêt du tabac, {{< modal-btn modal-nephrotoxiques >}}éviter les néphrotoxiques{{< /modal-btn >}}, tension cible < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}}, vaccin covid-19, activité physique
 - Traitements supplémentaires chez le diabétique (voir *Prise en charge*)
-- Adaptation des traitements selon la clairance {{< scores/ckd-epi >}}
+- Adaptation des traitements selon la clairance {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - {{< modal-btn modal-creatinine >}}Situations où le débit de filtration estimé n'est pas fiable{{< /modal-btn >}}
 - Avis néphrologique si: étiologie autre que diabète ou hypertension, DFGe < 45 (20 si âgé), évolutive ([score KFRE](https://kidneyfailurerisk.com), déclin rapide), albuminurie, complication, hypertension non contrôlée, traitement à {{< modal-btn modal-nephrotoxiques >}}marge thérapeutique étroite{{< /modal-btn >}}
 - Le suivi de la maladie rénale chronique de l'enfant relève exclusivement du néphrologue
@@ -43,7 +43,7 @@ Les stades de l'insuffisance rénale et de l'albuminurie sont dans la section su
 
 Maladie rénale chronique (MRC)
 : **1) Présence d'une insuffisance rénale chronique (IRC)**:  
-Diminution du *débit de filtration glomérulaire estimé* (DFGe) < 60 mL/min/1,73 m² (formule {{< scores/ckd-epi >}})  
+Diminution du *débit de filtration glomérulaire estimé* (DFGe) < 60 mL/min/1,73 m² (formule {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}})  
 **2) OU présence d'au moins un *marqueur d'atteinte rénale* persistant plus de 3 mois**:  
     - Albuminurie ou protéinurie
     - Hématurie > 10/mm³ (hors cause urologique)  
@@ -136,7 +136,7 @@ Le dépistage des populations à risque doit être **annuel** (ou selon l'avis d
 
 {{%info%}}
 
-- Créatininémie avec DFG selon {{< scores/ckd-epi >}}
+- Créatininémie avec DFG selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - Ratio albuminurie/créatininurie (RAC)  
   {{%class%}}Recueil à tout moment de la journée (de préférence le matin).{{%/class%}}
 {{%/info%}}
@@ -246,7 +246,7 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
 - Échographie rénale ± mesure du résidu post-mictionnel
 - ± Écho-doppler des artères rénales
 - NFS
-- Créatininémie avec estimation du DFGe {{< scores/ckd-epi >}}
+- Créatininémie avec estimation du DFGe {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - Bilan lipidique (de moins d'un an)
 - Glycémie à jeun ou HbA<sub>1C</sub>
 - Urinaire  
@@ -281,7 +281,7 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
   - Stade 1, 2, 3A stable sans complication, sans albuminurie, HTA contrôlée, pas de traitement à marge thérapeutique étroite
   - Et sujet âgé avec DFG 20-45
 - Thérapeutique
-  - Adaptation médicamenteuse selon le DFG estimé par {{< scores/ckd-epi >}}
+  - Adaptation médicamenteuse selon le DFG estimé par {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
   - {{< modal-btn modal-nephrotoxiques >}}Éviction des néphrotoxiques{{< /modal-btn >}}
   - Pas d'automédication ou herbes chinoises
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire (RCV) élevé ou très élevé{{< /modal-btn >}}
@@ -601,5 +601,10 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{% modal title="Traitements marge thérapeutique étroite" id="modal-nonsubstituable"%}}
 
 {{< traitements/nonsubstituable >}}
+
+{{% /modal %}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
 
 {{% /modal %}}

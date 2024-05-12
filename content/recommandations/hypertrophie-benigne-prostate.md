@@ -149,7 +149,7 @@ Bilan d'hypertrophie bénigne de prostate (HBP) de première intention:
 - Mesure du résidu post-mictionnel (RPM)  
   Quantification par échographie ou Bladder scan. Positif si > 50 mL.
 - ± [PSA]({{< relref "cancer-prostate.md" >}}) (si traitement envisageable)
-- ± Créatininémie et DFG CKD-EPI (si facteurs de risque)
+- ± Créatininémie et DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}} (si facteurs de risque)
 - Échographie réno-vésico-prostatique avec mesure du résidu post-mictionnel  
   Significatif si RPM > 1/3 du volume pré-mictionnel.
 - Si RPM > 150 mL: débitmétrie urinaire (*EAU 2024*)
@@ -361,5 +361,10 @@ EAU 2022 Nocturia chap 5.5, incontinence chap 5.6
 {{% modal title="Score IPSS des symptômes de l'HBP" id="modal-ipss"%}}
 
 {{< scores/ipss >}}
+
+{{% /modal %}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
 
 {{% /modal %}}

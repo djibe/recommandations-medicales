@@ -116,7 +116,7 @@ Signes et symptômes de la crise de goutte.
 
 Le bilan étaie les facteurs de risque cardiovasculaire associés à la goutte:
 
-- Créatininémie et DFG {{< scores/ckd-epi >}}
+- Créatininémie et DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - Uricémie
 - Glycémie à jeun si facteur de risque ou ≥ 45 ans
 - Dyslipidémie selon le terrain
@@ -339,7 +339,7 @@ La goutte étant une maladie chronique, les points suivants doivent être repris
 - Connaissances sur l'automédication des crises
 - Fréquence des crises, arthropathie microcristalline, tophus, lithiases uriques
 - Biologique
-  - Créatininémie et clairance CKD-EPI
+  - Créatininémie et clairance {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
   - Uricémie 1-2/an si traitement de fond
   - Surveillance cardiovasculaire
 
@@ -439,5 +439,10 @@ Intérêt de colchicine prophylactique.
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
 
 {{< clinique/syndrome-metabolique >}}
+
+{{% /modal %}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
 
 {{% /modal %}}

@@ -1,20 +1,20 @@
 +++
-title = "Conjonctivite de l'enfant"
+title = "Conjonctivite"
 titleSeo = "TODO:"
 prefix = "la "
 description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-05-02T21:24:24+02:00"
-publishdate = "2024-05-02"
-lastmod = "2024-05-02"
+publishdate = "2024-05-08"
+lastmod = "2024-05-08"
 specialites = ["ophtalmologie"]
 annees = "2017"
 sources = ["AFSOP"]
-tags = ["enfant", "nourrisson"]
-anglais = []
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = "https://prod-mapping.ihtsdotools.org/#/"
+tags = ["atopie", "enfant", "nourrisson"]
+anglais = ["Conjunctivitis"]
+sctid = "9826008"
+icd10 = "H10.9"
 draft = true
 image = false
 imageSrc = ""
@@ -29,7 +29,7 @@ TODO:
 {{%collapse "Définitions" %}}
 
 Conjonctivite
-: Irritation de la surface de la conjonctive.
+: Irritation de la surface de la conjonctive. Elle peut d'être d'origine infectieuse (bactérienne ou virale), inflammatoire ou allergique.
 
 Chémosis
 : Œdème de la conjonctive.
@@ -37,7 +37,7 @@ Chémosis
 {{% /collapse %}}
 {{%collapse "Critères de gravité" %}}
 
-Critères de gravité d'une conjonctive bactérienne:
+### Critères de gravité d'une conjonctive bactérienne
 
 - Sécrétions purulentes importantes
 - Chémosis
@@ -54,30 +54,59 @@ Critères de gravité d'une conjonctive bactérienne:
 
 ### Interrogatoire
 
-- Antécédents
-- Si nouveau-né: suivi de la grossesse, IST
-- Symptômes de la conjonctive
+- Antécédents: [atopie](/tags/atopie/), maladie auto-immune
+- Facteurs de **gravité**: monophtalme, nouveau-né
+- Si nouveau-né: suivi de la grossesse, infections sexuellement transmissibles des parents ([IST](/tags/ist/))
+- Traitements en cours et essayés
+- Cosmétiques
+- Notion de contage
+- Ancienneté des symptômes
+- Latéralité: souvent bilatérale
+- Symptômes de la conjonctivite
   - Douleurs oculaires absentes ou minimes
   - Sensation de **grain de sable** ou de poussière
   - Prurit
-  - 
+  - Brûlure ou cuisson
+- Signes allergiques: atopie, caractère saisonnier récidivant, atteinte bilatérale, éternuements
 
 ### Examen clinique
 
-- Sécrétions
-- Adénopathie prétragienne
+- Signes de gravité de conjonctivite:
+  - Sécrétions purulentes importantes
+  - Chémosis
+  - Larmoiement important
+  - Baisse d'acuité visuelle (BAV)
+  - Photophobie
+- Signes de conjonctive bactérienne  
+  Rougeur conjonctivale diffuse (cul-de-sac inférieur ++), **sécrétions muco-purulentes** (œil collé au réveil, aspect de cils en poils de pinceau) voire chémosis et œdème palpébral.
+- Signes de conjonctive virale
+  - Évolution spontanément favorable en 10-15 jours
+  - Contagiosité, bilatéralisation, **hyperhémie conjonctivale** voire hémorragies sous-conjonctivales, **sécrétions claires**
+- Signes de conjonctivite allergique  
+  Conjonctive rosée, sécrétions claires, œdème palpébral modéré.
+- Autres: eczéma des paupières, ectropion, sécheresse oculaire
+- Adénopathie prétragienne (conjonctive virale ou chronique)
+- Otoscopie, examen pharyngé
+
+Consultation ophtalmologique urgente en cas d'œil rouge et douloureux ([Urgences ophtalmologiques]({{< relref "urgences-ophtalmologiques.md" >}}))
+{.alert .alert-warning}
 
 {{% /collapse %}}
-{{%collapse "Prévention de la conjonctivite" %}}
+{{%collapse "Formes cliniques de conjonctivite selon l'âge" %}}
 
-### Prévention de la conjonctivite chez le nouveau-né (< 1 mois)
+### Conjonctivites du nouveau-né
 
-Prophylaxie du nouveau-né si indication: [rifamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63828371&typedoc=R) (ou [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69326767&typedoc=R)) collyre 1 goutte dans les 24 premières heures
+Une conjonctive est banale chez 5% des nouveaux-nés (*Staphylococcus aureus*, *Staphylococcus epidermidis*, *Escherichia Coli*). **Prélèvement et traitement systématique**.
+
+
+
+{{% /collapse %}}
+{{%collapse "Prévention de la conjonctivite néonatale" %}}
+
+La prophylaxie systématique de la conjonctive néonatale n'est plus recommandée.
 {.alert .alert-info}
 
-La prophylaxie systématique néonatale n'est plus recommandée.
-
-Indications à la prophylaxie néonatale de la conjonctivite:
+Indications à la prophylaxie de la conjonctivite du nouveau-né:
 
 - Parents à risque d'infections sexuellement transmissibles ([IST](/tags/ist/))
 - Grossesse mal suivie
@@ -87,18 +116,23 @@ Indications à la prophylaxie néonatale de la conjonctivite:
 
 > Si une **infection est découverte chez la mère lors de l'accouchement**: ceftriaxone 50 mg/kg (max 125 mg) dose unique (ou céfotaxime 100 mg/kg).
 
+Prophylaxie du nouveau-né si indiquée: [rifamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63828371&typedoc=R) (ou [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69326767&typedoc=R)) collyre 1 goutte dans les 24 premières heures
+{.alert .alert-info}
+
 {{% /collapse %}}
-{{%collapse "Traitement de la conjonctivite en pédiatrie" %}}
+{{%collapse "Traitement de la conjonctivite" %}}
+
+Conjonctivite bactérienne: hygiène des mains, lavages répétés au sérum physiologique, collyre antiseptique 4-6/jour.
+
+Conjonctivite virale: hygiène des mains, lavages répétés au sérum physiologique
+
+Allergique: sérum physio, collyre antih1, dégranulant
 
 ### Traitement de la conjonctivite néonatale
 
-Banale chez 5% des nouveaux-nés (Staphylococcus aureus, Staphylococcus epidermidis, Escherichia Coli).
-
-Prélèvement systématique
-
-[Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69326767&typedoc=R) collyre 1 goutte matin et soir pendant 3 jours
-
-ou [rifamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63828371&typedoc=R) collyre 1 gte x 4-5/j pendant 7 jours.
+- Prélèvement systématique
+- [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69326767&typedoc=R) collyre 1 goutte matin et soir pendant 3 jours
+- ou [rifamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63828371&typedoc=R) collyre 1 gte x 4-5/j pendant 7 jours
 
 Germes des IST (gonocoques, Chlamydiae) donnent des atteintes plus graves.
 
@@ -171,18 +205,16 @@ Hygiène des paupières, cures courtes d'azithromycine et ciclosporine collyre a
 {{% /collapse %}}
 {{%sources%}}
 
+- [Chen Y-Y et al. Antibiotics versus placebo for acute bacterial conjunctivitis. Cochrane Database of Systematic Reviews. 2023.](https://www.cochrane.org/fr/CD001211/EYES_quels-sont-les-benefices-et-les-risques-des-antibiotiques-dans-le-traitement-de-la-conjonctivite)
+- [Collège des Ophtalmologistes Universitaires de France (COUF). Infections et inflammations oculaires. Chapitre 6. Items 83 et 187. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
 - [Vera L et al; Association Francophone de Strabologie et d'Ophtalmologie Pédiatrique (AFSOP). Conduite à tenir devant une conjonctivite de l'enfant. 2017. (PDF)](https://www.sfo-online.fr/sites/www.sfo-online.fr/files/medias/documents/conduite_atenir_devant_une_conjonctivite_de_l_enfant_afsop_mai2017.pdf)
 - [Afssaps. Prophylaxie des infections conjonctivales du nouveau-né. 2010. (PDF)](https://ansm.sante.fr/uploads/2021/03/11/8d7b81471c088327d5343c5c102feafa.pdf)
 - [Afssaps. Collyres et autres topiques antibiotiques dans les infections oculaires superficielles. Recommandations. Médecine et Maladies Infectieuses. 2004.](https://www.sciencedirect.com/science/article/pii/S0399077X04002380)
 
 ### Bibliographie en attente
 
-- [Collège des Ophtalmologistes Universitaires de France (COUF). Infections et inflammations oculaires. Chapitre 6. Items 83 et 187. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
 - [Société Française d'Ophtalmologie (SFO). Pathologies conjonctivales. Chapitre 8. Ophtalmologie pédiatrique.](https://www.em-consulte.com/em/SFO/2017/file_10008.html)
-- Prescrire
-- Cochrane
-- Minerva
-- Cismef
+- Prescrire Redaction. Conjonctivite aiguë infectieuse. Premiers Choix Prescrire. Rev Prescrire. 2020.
 
 {{%/sources%}}
 

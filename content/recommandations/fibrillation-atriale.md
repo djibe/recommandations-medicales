@@ -213,7 +213,7 @@ Envisager un ECG de dépistage systématique ≥ 75 ans (ou avec dispositif conn
 
 - NFS
 - Ionogramme sanguin
-- Créatininémie, DFG selon {{< scores/ckd-epi >}}
+- Créatininémie, DFG selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - Glycémie à jeun
 - TP, TCA
 - TSH
@@ -289,7 +289,7 @@ Réévaluer fréquemment le risque de saignement avec le {{< modal-btn modal-has
 Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS
 {.alert .alert-warning}
 
-Adaptation à la fonction rénale selon {{< scores/ckd-epi >}}.
+Adaptation à la fonction rénale selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}.
 
 #### Antivitamines K (AVK)
 
@@ -473,5 +473,10 @@ graph TB
 {{% modal title="Observance des traitements" id="modal-observance"%}}
 
 {{< scores/observance >}}
+
+{{% /modal %}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
 
 {{% /modal %}}

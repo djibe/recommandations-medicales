@@ -161,7 +161,7 @@ Examens pour éliminer une ostéoporose secondaire.
 ### Bilan biologique pour la prise en charge de l'ostéoporose
 
 - NFS, VS, CRP
-- Ionogramme, créatininémie avec DFG CKD-EPI
+- Ionogramme, créatininémie, DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - ASAT, ALAT, GGT, PAL
 - TSH
 - Vitamine D
@@ -682,5 +682,10 @@ Fracture ayant atteint: {{< clinique/osteoporose-fracture-severe >}}
 {{% modal title="Évaluation des apports en calcium" id="modal-apports-calcium"%}}
 
 {{< scores/questionnaire-grio >}}
+
+{{% /modal %}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
 
 {{% /modal %}}

@@ -147,7 +147,7 @@ Bilan biologique:
 
 - NFS, CRP
 - Ionogramme sanguin
-- Créatininémie, {{< scores/ckd-epi >}}
+- Créatininémie, DFGe {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - Glycémie à jeun
 - TSH
 - Albuminémie, calcémie
@@ -293,5 +293,10 @@ graph TB
 {{% modal title="Échelle HHIE-S de dépistage de la presbyacousie" id="modal-hhies"%}}
 
 {{< scores/hhies >}}
+
+{{% /modal %}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
 
 {{% /modal %}}

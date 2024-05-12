@@ -358,7 +358,7 @@ Bilan HTA:
 - Acide urique (marqueur de RCV)
 - Calcémie
 - Dépistage des complications
-  - Ionogramme sanguin, créatinine, DFG {{< scores/ckd-epi >}}
+  - Ionogramme sanguin, créatinine, DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
   - BU, ratio albuminurie/créatininurie sur échantillon
   - **ECG 12 dérivations**
 {{%/info%}}
@@ -594,5 +594,10 @@ graph TB
 {{% modal title="Intensité d'activité physique et MET" id="modal-met"%}}
 
 {{< clinique/activite-physique-intensite >}}
+
+{{% /modal %}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
 
 {{% /modal %}}

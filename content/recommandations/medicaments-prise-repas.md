@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-04-25T14:08:50+02:00"
 publishdate = "2024-04-25"
-lastmod = "2024-04-25"
+lastmod = "2024-05-10"
 specialites = ["therapeutique"]
 annees = "2024"
 sources = ["BDPM"]
@@ -53,6 +53,7 @@ Médicaments (hors antiviraux) dont le résumé des caractéristiques du produit
 | Lévothyroxine | Avant | Matin: au moins 30 minutes | BDPM |
 | Metformine | Pendant | ou à la fin | BDPM |
 | Métoprolol | Avant ou après | | BDPM |
+| Méthylphénidate: DCI, Médikinet | Pendant | ou juste après | BDPM |
 | Pancréatine (Créon) | Pendant | ou juste après | BDPM |
 | Rifampicine | Avant | Au moins 30 minutes | BDPM |
 | Stromectol | Avant | Avec de l'eau | BDPM |

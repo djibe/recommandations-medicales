@@ -241,7 +241,7 @@ L'*ESC* encourage la **mesure de l'index de pression systolique** (IPS) par tout
   - ASAT ALAT
   - Glycémie à jeun
   - Bilan lipidique
-  - Créatininémie, DFGe {{< scores/ckd-epi >}}, albuminurie sur échantillon
+  - Créatininémie, {{< modal-btn modal-ckd-epi >}}DFG CKD-EPI{{< /modal-btn >}}, albuminurie sur échantillon
 - Échodoppler artériel des membres inférieurs, aorte et TSA
 - ECG de repos
 - Consultation de cardiologie
@@ -402,5 +402,10 @@ accTitle: Prise en charge diagnostique de l'artériopathie oblitérante des memb
 {{% modal title="IEC" id="modal-iec" %}}
 
 {{< traitements/iec >}}
+
+{{% /modal %}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
 
 {{% /modal %}}

@@ -166,7 +166,7 @@ Mesure de la charge virale hépatite C systématique lorsque 2 sérologies sont 
 - Sérologie VHB: Ag Hbs, anticorps anti-HBs, anticorps anti-HBc
 - NFS
 - INR
-- Créatininémie et DFG {{< scores/ckd-epi >}}
+- Créatininémie et DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - Bilan hépatique: ASAT, ALAT, PAL, GGT, bilirubine
 - TP, albuminémie
 - Ferritinémie
@@ -225,7 +225,7 @@ Prise en charge d'une hépatite C et mesures d'hépatoprotection:
   - Lutte contre surpoids/[obésité]({{< relref "obesite-adulte.md" >}})
   - Équilibre strict d'un diabète
   - Vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) et [hépatite B]({{< relref "hepatite-b.md" >}}) (après sérologie négative)
-- Vaccination [grippe]({{< relref "grippe.md" >}}) annuelle et {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque tous les 5 ans{{< /modal-btn >}}
+- Vaccination [grippe]({{< relref "grippe.md" >}}) annuelle et {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}
 - Dépistage de l'entourage et des partenaires
 - Prévention des contaminations
   - Charge virale VHC répétée en cas de comportements à risque
@@ -388,5 +388,10 @@ accTitle: Conduite à tenir dans les suites de la réalisation d'un TROD VHC d'a
 {{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}
 
 {{< traitements/vaccin-pneumocoque >}}
+
+{{% /modal %}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
 
 {{% /modal %}}

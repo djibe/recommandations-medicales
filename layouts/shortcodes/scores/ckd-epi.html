@@ -1,1 +1,61 @@
-<a href="https://www.sfndt.org/professionnels/calculateurs/mdrds-ckd-epi-cockcroft" rel="external nofollow noopener">CKD-EPI</a>
+<p>La formule <dfn><abbr title="Chronic Kidney Disease Epidemiology Collaboration">CKD-EPI</abbr></dfn> 2021 est la formule d’estimation du débit de filtration glomérulaire (DFGe)
+  chez l’adulte en état stable recommandée par la HAS.
+</p>
+<p>La version révisée du CKD-EPI de 2021 a retiré le concept de race qui est une conception humaine.</p>
+<div class="card-body card-util rounded-lg border my-5" id="form-gfr">
+  <div class="d-block d-lg-flex form-gfr">
+    <div class="form-group floating-label textfield-box form-ripple mr-3">
+      <label for="gfr-age">Âge</label>
+      <input class="form-control" id="gfr-age" type="number" min="16" max="120">
+    </div>
+    <div class="form-group floating-label textfield-box form-ripple mr-3">
+      <label for="gfr-creatinine">Créatininémie (mg/L)</label>
+      <input class="form-control" id="gfr-creatinine" type="number" min="1" max="100" step="0.1">
+    </div>
+  </div>
+  <p class="typography-overline mb-0">Sexe</p>
+  <input type="radio" name="gfr-sex" id="gfr-sex-m" value="man" class="d-input-none" checked required>
+  <label for="gfr-sex-m" class="chip chip-action chip-choice">Homme</label>
+  <input type="radio" name="gfr-sex" id="gfr-sex-f" value="woman" class="d-input-none">
+  <label for="gfr-sex-f" class="chip chip-action chip-choice">Femme</label>
+  <div class="mt-4">
+    <label for="input-gfr">DFGe CKD-EPI 2021</label>
+    <input class="form-control" id="input-gfr" type="text" placeholder="Préciser les valeurs" readonly>
+  </div>
+</div>
+<blockquote>
+  <p lang="en"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34554658/" rel="external nofollow noopener">
+    Inker LA, Eneanya ND, Coresh J, et al. New Creatinine- and Cystatin C-Based Equations to Estimate GFR without Race. N Engl J Med. 2021;385(19):1737-1749. doi:10.1056/NEJMoa2102953
+    </a></p>
+</blockquote>
+{{ $script := `
+  // Outil de calcul du DFG CKD-EPI 2021 by djibe
+  window.addEventListener( 'load', event => {
+    const age = document.getElementById('gfr-age');
+    const creatinine = document.getElementById('gfr-creatinine');
+    const gfrEl = document.getElementById('input-gfr');
+    [age, creatinine].forEach(elem => elem.addEventListener('input', () => calcGFR() ));
+    [...document.querySelectorAll('#form-gfr input[type="radio"]')].forEach(elem => elem.addEventListener('change', () => calcGFR() ));
+    const calcGFR = () => {
+      const sex = document.querySelector('input[name="gfr-sex"]:checked');
+      const ageVal = parseInt(age.value);
+      let creatinineVal = parseFloat(creatinine.value);
+      let alpha, beta, kappa;
+      if (sex.value === 'man') {
+        alpha = -0.302;
+        beta = 1;
+        kappa = 0.9;
+      } else {
+        alpha = -0.241;
+        beta = 1.012;
+        kappa = 0.7;
+      }
+      if (ageVal > 0 && creatinineVal > 0) {
+        // Convert mg/L to mg/dL
+        creatinineVal /= 10
+        let gfr = 142 * Math.min(creatinineVal / kappa, 1) ** alpha * Math.max(creatinineVal / kappa, 1) ** -1.200 * 0.9938 ** ageVal * beta
+        gfrEl.value = Math.round(gfr);
+      }
+    }
+  })` }}
+<script type="module">{{ $script | safeJS }}</script>

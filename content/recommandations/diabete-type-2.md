@@ -304,7 +304,7 @@ window.addEventListener('load', () => {
 - Bilan lipidique (LDL, HDL, CT, TG) à jeun
 - NFS, ferritinémie
 - ASAT, ALAT, GGT, {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}
-- Créatininémie et DFG (CKD-EPI)
+- Créatininémie et DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - Ratio albuminurie/créatininurie sur échantillon
 - Si HTA: ionogramme sanguin
 - Si obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme ou bas socio-éco: (NT-pro)BNP
@@ -515,5 +515,10 @@ window.addEventListener('load', () => {
 {{% modal title="Test de sensibilité au monofilament" id="modal-monofilament"%}}
 
 {{< clinique/monofilament >}}
+
+{{% /modal %}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
 
 {{% /modal %}}

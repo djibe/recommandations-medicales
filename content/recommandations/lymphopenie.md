@@ -125,7 +125,7 @@ En cas de **découverte fortuite** d'une lymphopénie, **recontrôler l'hémogra
 Bilan de première intention pour la prise en charge d'une lymphopénie:
 
 - NFS, CRP
-- Créatininémie et DFG (CKD-EPI)
+- Créatininémie et DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
 - Calcémie, calciurie
 - Zinc
@@ -165,3 +165,8 @@ graph TB
 - [Swaanenburg JC et al. The determination of reference values for hematologic parameters using results obtained from patient populations. Am J Clin Pathol. 1987. [payant]](https://academic.oup.com/ajcp/article-abstract/88/2/182/1799788?redirectedFrom=fulltext&login=false)
 
 {{%/sources%}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
+
+{{% /modal %}}

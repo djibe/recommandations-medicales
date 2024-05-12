@@ -117,7 +117,7 @@ Soins complémentaires:
   - [Covid-19]({{< relref "covid-19.md" >}})
   - [Grippe annuelle]({{< relref "grippe.md" >}})
   - *Haemophilus influenzae*: ACT-HIB® dose unique
-  - {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} tous les 5 ans
+  - {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
 - Surveillance des stades A et B asymptomatiques tous les 6-12 mois
   - Consultation: symptômes, aires ganglionnaires, hépato-splénomégalie ...
   - Suivi biologique: NFS, réticulocytes, hémolyse (haptoglobine, bilirubine libre, LDH, Coombs direct)

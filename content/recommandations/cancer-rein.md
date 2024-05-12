@@ -102,7 +102,7 @@ Signes et symptômes de cancer du rein:
 
 - NFS
 - VS
-- Créatininémie, DFG selon {{< scores/ckd-epi >}}
+- Créatininémie, DFG selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - ASAT, ALAT, GGT, PAL
 - LDH
 - Albuminémie, calcémie
@@ -171,5 +171,10 @@ graph TB
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
 
 {{< clinique/syndrome-metabolique >}}
+
+{{% /modal %}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
 
 {{% /modal %}}

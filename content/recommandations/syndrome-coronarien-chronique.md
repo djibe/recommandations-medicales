@@ -178,7 +178,7 @@ Bilan d'un angor ou de douleurs thoraciques évocatrices de cardiopathie ischém
 - Glycémie à jeun (< 1 an), HbA<sub>1c</sub>
 - Bilan lipidique (< 1 an)
 - Ionogramme sanguin
-- Créatininémie avec DFG {{< scores/ckd-epi >}}
+- Créatininémie, DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - Uricémie
 - Selon le tableau: TSH, (NT-pro)BNP
 - ECG de repos
@@ -400,5 +400,10 @@ graph TB
 {{% modal title="Inhibiteurs calciques pour l'angor" id="modal-ica-angor"%}}
 
 {{< traitements/ica-angor >}}
+
+{{% /modal %}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
 
 {{% /modal %}}

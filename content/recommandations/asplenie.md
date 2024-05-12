@@ -127,12 +127,11 @@ Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}).
 
 #### Pneumocoque
 
-- Prevenar 13® puis Pneumovax® 2 mois après  
+- Prevenar 20® 1 dose  
+  ou Prevenar 13® puis Pneumovax® 2 mois après  
   {{%class%}}Intervalle avec dernier Prevenar 13® doit être > 3 ans.{{%/class%}}
 - Enfant 2 à 5 ans non vaccinés: Prevenar 13® M0-M2 et Pneumovax® M4
 - Enfant < 2 ans: schéma nourrisson et rappel Pneumovax® après ses 2 ans
-
-Rappel par Pneumovax® tous les 5 ans.
 
 #### Vaccination anti-méningococcique (*Neisseria meningitidis*)
 

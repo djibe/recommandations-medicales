@@ -99,7 +99,7 @@ La polykystose rénale est le plus souvent découverte chez l'adulte jeune sur l
 ### Bilan de kystes rénaux
 
 - NFS
-- Créatininémie, DFG selon {{< scores/ckd-epi >}}
+- Créatininémie, DFG selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - Bilan hépatique
 - Échographie abdominale
 {{%/info%}}
@@ -157,3 +157,8 @@ graph TB
 [KDIGO. Autosomal Dominant Polycystic Kidney Disease (ADPKD).](https://kdigo.org/guidelines/autosomal-dominant-polycystic-kidney-disease-adpkd/)
 
 {{%/sources%}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
+
+{{% /modal %}}

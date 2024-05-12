@@ -321,7 +321,7 @@ Palpation des aires ganglionnaires au moins 1/an.
   - Rappel si anticorps anti-HBs < 10 UI/mL
 - Papillomavirus  
   Enfants de 11 à 19 ans vivant avec le VIH par le schéma d'injection en 3 doses: Gardasil 9® à M0, M2 et M6.
-- {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque tous les 5 ans{{< /modal-btn >}}
+- {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
 
 ### Vaccinations lorsque CD4 > 200/mm³
 
