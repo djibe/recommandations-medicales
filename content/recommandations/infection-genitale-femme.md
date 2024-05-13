@@ -138,7 +138,7 @@ La responsabilité de *Mycoplasma genitalium* est possible dans certains cas de 
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS, SPILF. Choix et durée de l'antibiothérapie : Urétrites et cervicites non compliquées. 2021](https://www.has-sante.fr/jcms/c_2038472/fr/choix-et-duree-de-l-antibiotherapie-uretrites-et-cervicites-non-compliquees)
+- [HAS, SPILF. Choix et durée de l'antibiothérapie : Urétrites et cervicites non compliquées. 2021.](https://www.has-sante.fr/jcms/c_2038472/fr/choix-et-duree-de-l-antibiotherapie-uretrites-et-cervicites-non-compliquees)
 - [Graesslin O et al; CNGOF, SPILF. Les infections génitales hautes. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2018/CNGOF_RPC_2018_Infections_genitales-VF.pdf?x13417)
 - [Janier M et al; SFD. Cervicite muco-purulente. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/cervicite-muco-purulente-aa8c23d0b90fa191483668eafcb8660f.pdf)
 - [Vexiau-Robert D et al; SFD. Leucorrhées. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/leucorrhees-c145eb55e49c2c5c6b7aa0e28b8a77ca.pdf)
@@ -147,6 +147,8 @@ La responsabilité de *Mycoplasma genitalium* est possible dans certains cas de 
 
 ### Bibliographie en attente
 
+- SPILF 2020
+- HAS Cervicite compliquée 2021
 - [Gonococcie](https://www.sfdermato.org/upload/recommandations/gonococcie-8e5167e17549b4912a1f1a4b3011eda7.pdf)
 - [MST et grossesse](https://www.sfdermato.org/upload/recommandations/mst-et-grossesse-8d334c94352709631c8240d4ff4466b7.pdf)
 - [Ulcération génitale](https://www.sfdermato.org/upload/recommandations/ulceration-genitale-98decf280ecc17666541d6b3203bebb6.pdf)

@@ -373,7 +373,7 @@ Le patient en crise:
 - a le sentiment d'avoir tout fait et tout essayé
 - est très isolé
 
-Hospitalisation sous contrainte si besoin
+Hospitalisation sous contrainte si besoin.
 {.alert .alert-warning}
 
 #### Risque suicidaire modéré

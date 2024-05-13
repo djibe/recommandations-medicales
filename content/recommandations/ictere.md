@@ -85,8 +85,7 @@ Les causes d'ictère sont nombreuses et classées selon qu'elles sont à bilirub
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Urgence à rechercher devant un ictère: angiocholite et insuffisance hépatique (cirrhose, hépatite).  
-Signe de gravité: encéphalopathie hépatique avec baisse de TP et facteur V < 50%.
+Urgence à rechercher devant un ictère: angiocholite et insuffisance hépatique (cirrhose, [hépatite](/tags/hepatite/)). **Signe de gravité:** encéphalopathie hépatique avec baisse de TP et facteur V < 50 %.
 {.alert .alert-warning}
 
 ### Tableau clinique de l'ictère à bilirubine non conjuguée

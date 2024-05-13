@@ -58,7 +58,7 @@ todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaq
 {{% /collapse %}}
 {{%collapse "Dépistage des violences faites aux femmes" %}}
 
-> << Questionnez toutes vos patientes lors de l'anamnèse comme vous le faites pour les antécédents médicaux ou la consommation de tabac >> (*HAS 2020*), << 9 femmes sur 10 estiment même qu'aborder ce sujet en consultation est important, légitime et rassurant >> (*HAS 2023*)
+> << Questionnez toutes vos patientes lors de l'anamnèse comme vous le faites pour les antécédents médicaux ou la consommation de tabac >> (*HAS 2020*), << 9 femmes sur 10 estiment même qu'aborder ce sujet en consultation est important, légitime et rassurant >>. – *HAS 2023*
 {.alert .alert-warning}
 
 ### Dépister des violences faites aux femmes à l'interrogatoire
@@ -138,7 +138,7 @@ Le certificat médical peut être utilisé pour faire valoir les droits de la vi
 
 [Modèle de certificat initial (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/certificat_en_cas_de_violences_sur_personne_majeure.pdf)
 
-La consultation et l'examen clinique de la patiente sont un préalable indispensable à la rédaction du certificat
+La consultation et l'examen clinique de la patiente sont un préalable indispensable à la rédaction du certificat.
 {.alert .alert-warning}
 
 - N'exprimer aucun jugement ni aucune interprétation  

@@ -132,7 +132,7 @@ L'examen clinique recherche les éléments du syndrome de thyrotoxicose.
   - Orbitopathie basedowienne  
     Rétraction palpébrale avec œdème, asynergie oculo-palpébrale, hyperhémie conjonctivale avec larmoiement, chémosis (œdème de la conjonctive), photophobie, exophtalmie, diplopie.
 
-L'urgence vitale est la **crise aiguë thyrotoxique** survenant après thyroïdectomie sans traitement antithyroïdien préalable
+L'urgence vitale est la **crise aiguë thyrotoxique** survenant après thyroïdectomie sans traitement antithyroïdien préalable.
 {.alert .alert-warning}
 
 ### Examen clinique
@@ -364,7 +364,7 @@ Le suivi biologique est identique après irathérapie ou chirurgie de GMNT.
 
 ### Arrêt du traitement par ATS
 
-Arrêt et contre-indication définitive aux ATS en cas de neutropénie < 800/mm³, hospitalisation en urgence si < 500/mm³ (agranulocytose)
+Arrêt et contre-indication définitive aux ATS en cas de neutropénie < 800/mm³. Hospitalisation en urgence si < 500/mm³ (agranulocytose).
 {.alert .alert-warning}
 
 Après 12 à 18 mois de première ligne, réévaluation clinico-biologique pour envisager l'arrêt des ATS de première ligne.

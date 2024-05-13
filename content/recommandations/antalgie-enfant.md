@@ -103,7 +103,7 @@ La nalbuphine n'est utilisée qu'en intraveineuse ou rectale en urgence.
 {{% /collapse %}}
 {{%collapse "Antalgie palier 3" %}}
 
-Cette section synthétique est réservée aux médecins habitués à manipuler des antalgiques de palier 3 chez l'enfant
+Cette section synthétique est réservée aux médecins habitués à manipuler des antalgiques de palier 3 chez l'enfant.
 {.alert .alert-warning}
 
 Traitement des douleurs très intenses (EVA/EN 7-10), toujours en association au paracétamol et AINS si indiqués.  

@@ -47,7 +47,7 @@ Allergies croisées à étayer une par une:
 {{% /collapse %}}
 {{%collapse "Laits sans protéines de lait de vaches disponibles en France" %}}
 
-Conformément à la législation, ce contenu est réservé aux professionnels de santé
+Conformément à la législation, ce contenu est réservé aux professionnels de santé.
 {.alert .alert-warning}
 
 Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de vache, en complément ou après arrêt de l'[allaitement maternel]({{< relref "allaitement.md" >}}).

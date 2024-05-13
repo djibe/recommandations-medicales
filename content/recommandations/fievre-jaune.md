@@ -72,7 +72,7 @@ Personnes éligibles à la vaccination contre la fièvre jaune:
 
 > – *Calendrier vaccinal*
 
-Vaccin vivant contre-indiqué chez l'immunodéprimé et la femme allaitante
+Le vaccin fièvre jaune est un vaccin vivant et donc contre-indiqué chez l'immunodéprimé et la femme allaitante.
 {.alert .alert-warning}
 
 ### Voyage - faut-il vacciner contre la fièvre jaune ?

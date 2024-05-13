@@ -18,7 +18,7 @@ icd10 = "F90.0"
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow, critères DSM, ne pas introduire pénurie ANSM ?, ALD ? https://www.bmj.com/content/384/bmj-2022-073448"
+todo = "descr > summary > liens > photo > newsletter > flow, critères DSM, prise repas, ne pas introduire pénurie ANSM ?, ALD ? https://www.bmj.com/content/384/bmj-2022-073448"
 +++
 
 {{%article-summary%}}

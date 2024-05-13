@@ -41,7 +41,7 @@ Insuffisance cardiaque aiguë
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Appel du 15/SAMU en cas de signes de suspicion d'insuffisance cardiaque aiguë mal tolérée ou d'aggravation rapide
+Appel du SAMU en cas de signes de suspicion d'insuffisance cardiaque aiguë mal tolérée ou d'aggravation rapide.
 {.alert .alert-warning}
 
 En attendant le SAMU, étayer les tableaux cliniques cardiaques possibles et renseigner pour le SAMU:
@@ -78,7 +78,7 @@ La batterie d'examens urgents de l'insuffisance cardiaque (**ECG** si disponible
 {{% /collapse %}}
 {{%collapse "Traitement de l'insuffisance cardiaque aiguë" %}}
 
-Appel du 15/SAMU en cas de signes de suspicion d'insuffisance cardiaque aiguë mal tolérée ou d'aggravation rapide
+Appel du SAMU en cas de signes de suspicion d'insuffisance cardiaque aiguë mal tolérée ou d'aggravation rapide.
 {.alert .alert-warning}
 
 La prise en charge d'une insuffisance cardiaque aiguë est une urgence:

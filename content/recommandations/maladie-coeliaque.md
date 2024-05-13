@@ -191,7 +191,7 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 
 
 **NB. La biopsie du grêle est décommandée chez l'enfant (anesthésie générale nécessaire) par mauvais rapport bénéfice/risque.**
 
-Dépister tous les proches au 1<sup>er</sup> degré.
+Dépister la maladie cœliaque tous les proches au 1<sup>er</sup> degré.
 {.alert .alert-warning}
 
 [SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/information_patient_gastroscopie_diagnostique_sfed-snfge.pdf)

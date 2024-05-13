@@ -57,6 +57,7 @@ todo = "descr > summary > liens > photo > newsletter > flow"
 - Cochrane
 - Minerva
 - Cismef
+- NICE Clinical guidance
 
 {{%/sources%}}
 

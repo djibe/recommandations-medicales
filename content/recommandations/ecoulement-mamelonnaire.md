@@ -101,7 +101,7 @@ PRL
 
 L'écoulement mamelonnaire (EM) bénin est typiquement lactescent, bilatéral, provoqué et multipore. Par sécrétions apocrines glandulaires mammaires.  
 
-L'écoulement mamelonnaire pathologique est unilatéral, abondant, persistant, spontané et unipore
+L'écoulement mamelonnaire pathologique est unilatéral, abondant, persistant, spontané et unipore.
 {.alert .alert-warning}
 
 {{% /collapse %}}

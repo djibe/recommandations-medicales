@@ -299,7 +299,7 @@ Prise en charge du patient souhaitant arrêter de fumer:
 
 {{< references/tabac-info-service >}}
 
-Non recommandés (sans efficacité démontrée) mais inoffensifs si le patient y tient: activité physique, acupuncture, hypnose
+Non recommandés (efficacité non démontrée) mais inoffensifs si le patient y tient: activité physique, acupuncture, hypnose.
 {.alert .alert-warning}
 
 ### Traitements médicamenteux pour l'arrêt du tabac

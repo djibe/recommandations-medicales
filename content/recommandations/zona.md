@@ -159,7 +159,7 @@ Informer sur la nécessité de consultation immédiate en cas de survenue de br�
 {{% /collapse %}}
 {{%collapse "Traitement du zona" %}}
 
-Hospitalisation en cas de zona chez un immunodéprimé ou compliqué d'atteinte organique
+Hospitalisation en cas de zona chez un immunodéprimé ou compliqué d'atteinte organique.
 {.alert .alert-warning}
 
 Prise en charge d'un zona non sévère:
@@ -178,7 +178,7 @@ Prise en charge d'un zona non sévère:
   Antibiothérapie per os cloxacilline.
 - PCR VIH si -50 ans
 
-Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anesthésiques, antiprurigineux) ne doit être appliqué
+Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anesthésiques, antiprurigineux) ne doit être appliqué.
 {.alert .alert-warning}
 
 **NB**. Pas de bénéfice prouvé des anti-histaminiques sur le prurit au cours d'un zona.

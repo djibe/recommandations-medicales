@@ -115,7 +115,7 @@ Seul traitement première intention (20% de guérison).
 - [Calendrier mictionnel](https://afpa.org/content/uploads/2017/08/nuit-au-sec-carre%CC%81-blanc.jpg) en suivant les conseils pendant ≥ 2 semaines
 - [Correction d'une constipation]({{< relref "constipation.md" >}}) ou [infection urinaire]({{< relref "infection-urinaire-enfant.md" >}})
 
-Aucune étude fiable sur: hypnose, psychothérapie, acupuncture, homéopathie et chiropraxie
+Aucune étude fiable sur: hypnose, psychothérapie, acupuncture, homéopathie et chiropraxie.
 {.alert .alert-warning}
 
 ### Échec du traitement

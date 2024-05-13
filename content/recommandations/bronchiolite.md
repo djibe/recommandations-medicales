@@ -196,7 +196,7 @@ Signes et symptômes de la bronchiolite aiguë du nourrisson:
 
 ### Examen clinique
 
-Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une insuffisance cardiaque aiguë
+Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une insuffisance cardiaque aiguë.
 {.alert .alert-warning}
 
 - Désinfection des mains et matériel et masque FFP2
@@ -256,9 +256,6 @@ Recommandations pour la prévention de la bronchiolite:
 ### Les anticorps monoclonaux anti-VRS
 
 #### Nirsévimab (Beyfortus®)
-
-Seules les doses de Beyfortus® 100 mg sont actuellement disponible en ville
-{.alert .alert-warning}
 
 Indications à la prévention de la bronchiolite par une immunisation passive avec l'anticorps monoclonal nirsévimab:
 
@@ -322,7 +319,7 @@ Recommandations de prise en charge d'un épisode de bronchiolite:
     On rappellera que le Collège 2021 dit: << Pas d'éviction >>
   - Nourrisson à haut risque de forme grave: ne pas fréquenter en période épidémique
 
-Ne pas utiliser: bronchodilatateurs (salbutamol Ventoline ou autre), corticoïdes, antibiotiques, anti-reflux, antitussifs et fluidifiants
+Ne pas utiliser: bronchodilatateurs (salbutamol Ventoline ou autre), corticoïdes, antibiotiques, anti-reflux, antitussifs et fluidifiants.
 {.alert .alert-warning}
 
 ### Traitement médical d'une bronchiolite aiguë

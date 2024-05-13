@@ -184,7 +184,7 @@ Sur prescription spécialisée, le bilan d'imagerie du syndrome de Cushing compr
 {{% /collapse %}}
 {{%collapse "Traitement du syndrome de Cushing" %}}
 
-La prise en charge des femmes enceintes et des enfants avec un syndrome de Cushing est réalisée uniquement dans des centres de compétence
+La prise en charge des femmes enceintes et des enfants avec un syndrome de Cushing est réalisée uniquement dans des centres de compétence.
 {.alert .alert-warning}
 
 La prise en charge du syndrome de Cushing par l'endocrinologue vise à confirmer la maladie, rechercher l'étiologie et démarrer un traitement spécifique:

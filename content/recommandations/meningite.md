@@ -76,7 +76,7 @@ SPILF
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> À partir de 2 ans et chez l'adulte: << une méningite est hautement probable chez un patient présentant de la fièvre, une raideur de nuque et, soit des céphalées, soit des troubles de la conscience >>, << une méningite est hautement probable chez un patient présentant de la fièvre et un purpura >> – *SPILF 2018*
+> À partir de 2 ans et chez l'adulte: << une méningite est hautement probable chez un patient présentant de la fièvre, une raideur de nuque et, soit des céphalées, soit des troubles de la conscience >>, << une méningite est hautement probable chez un patient présentant de la fièvre et un purpura >>. – *SPILF 2018*
 {.alert .alert-warning}
 
 > Évoquer une méningite en cas de fièvre avec signes de localisation ou convulsions. Y penser en cas de **céphalées fébriles**.
@@ -111,13 +111,13 @@ Toute convulsion fébrile avant 6 mois nécessite une ponction lombaire en urgen
   - [endocardite infectieuse]({{< relref "endocardite.md" >}})
   - différentielle: herpès
 
-Appel du SAMU immédiat dès la suspicion de méningite
+Appel du SAMU immédiat dès la suspicion de méningite.
 {.alert .alert-warning}
 
 ### En attendant les secours
 
 > En cas de purpura fulminans, injection immédiate IV ou à défaut IM de ceftriaxone  
-50 mg/kg chez l'enfant (max 1g) et 1g chez l'adulte (*DGS 2018*)
+50 mg/kg chez l'enfant (max 1g) et 1g chez l'adulte. – *DGS 2018*
 {.alert .alert-warning}
 
 Remplissage vasculaire si disponible et précautions gouttelettes par masque chirurgical.
@@ -133,7 +133,7 @@ Préparer les documents utiles au secours:
 - Examen clinique initial
 - Contacts des proches
 
-Transport immédiat aux *Urgences* (et les prévenir) si délai d'intervention du SAMU supérieur à 20 minutes (*DGS*)
+Transport immédiat aux *Urgences* (et les prévenir) si délai d'intervention du SAMU supérieur à 20 minutes. – *DGS*
 {.alert .alert-warning}
 
 {{% /collapse %}}
@@ -186,12 +186,12 @@ Pas de vaccination anti-Haemophilus autour d'un cas de méningite bactérienne �
 {{%collapse "Traitement et suivi de la méningite bactérienne" %}}
 
 > En cas de purpura fulminans, injection immédiate IV ou à défaut IM de ceftriaxone  
-50 mg/kg chez l'enfant (max 1g) et 1 g chez l'adulte (*DGS 2018*)
+50 mg/kg chez l'enfant (max 1g) et 1 g chez l'adulte. – *DGS 2018*
 {.alert .alert-warning}
 
 Appel du SAMU en urgence et précautions gouttelettes.
 
-Transport immédiat aux *Urgences* (et les prévenir) si délai d'intervention du SAMU supérieur à 20 minutes (*DGS*)
+Transport immédiat aux *Urgences* (et les prévenir) si délai d'intervention du SAMU supérieur à 20 minutes. – *DGS*
 {.alert .alert-warning}
 
 Une hémoculture est nécessaire avant antibiothérapie (ou délai avant prise en charge hospitalière supérieur à 90 minutes) sauf purpura fulminans.

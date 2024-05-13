@@ -150,7 +150,7 @@ Indications à une **consultation d'oncogénétique**:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Tout signe évocateur de cancer colorectal impose une consultation de gastro-entérologie en vue d'une coloscopie
+Tout signe évocateur de cancer colorectal impose une consultation de gastro-entérologie en vue d'une coloscopie.
 {.alert .alert-warning}
 
 ### Interrogatoire

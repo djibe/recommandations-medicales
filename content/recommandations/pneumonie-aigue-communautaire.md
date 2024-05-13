@@ -178,7 +178,7 @@ SPILF
 
 ### Examen clinique
 
-Une auscultation normale n'élimine pas le diagnostic de pneumonie
+Une auscultation normale n'élimine pas le diagnostic de pneumonie.
 {.alert .alert-warning}
 
 - Pression artérielle, fréquence cardiaque, température, TRC

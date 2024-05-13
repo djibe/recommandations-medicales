@@ -91,7 +91,7 @@ La polykystose rénale est le plus souvent découverte chez l'adulte jeune sur l
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> << Toute fièvre d'origine incertaine au cours de la PKRAD justifie un ECBU >> – *CUEN 2023*. Il affirme une pyélonéphrite mais ne permet pas d'éliminer un abcès rénal.
+> << Toute fièvre d'origine incertaine au cours de la PKRAD justifie un ECBU >> – *CUEN 2023*. L'ECBU affirme une pyélonéphrite mais ne permet pas d'éliminer un abcès rénal.
 {.alert .alert-warning}
 
 {{%info%}}

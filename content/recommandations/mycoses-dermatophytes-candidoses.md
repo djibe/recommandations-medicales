@@ -192,7 +192,7 @@ Les teignes faviques sont exceptionnelles en Europe par *Trichophyton schoenlein
 
 ### Prise en charge de la teigne
 
-La prise en charge d'un enfant de moins de 10 kg est hospitalière du fait de l'indisponibilité de la griséofulvine
+La prise en charge d'un enfant de moins de 10 kg est hospitalière du fait de l'indisponibilité de la griséofulvine.
 {.alert .alert-warning}
 
 - Prélèvement au laboratoire
@@ -501,7 +501,7 @@ Moins efficace sur *C. albicans*.
 
 ### Traitement antifongique général
 
-Tous les traitements antifongiques par voie générale exposent à des toxidermies graves et sont contre-indiqués pendant la grossesse
+Tous les traitements antifongiques par voie générale exposent à des toxidermies graves et sont contre-indiqués pendant la grossesse.
 {.alert .alert-warning}
 
 #### Azolé Fluconazole
@@ -536,7 +536,7 @@ Effet topique digestif non absorbé et donc interactions limitées ([vérifier l
 
 #### Pour en savoir plus: Itraconazole
 
-La prescription initiale d'itraconazole est hospitalière
+La prescription initiale d'itraconazole est hospitalière.
 {.alert .alert-warning}
 
 [Fiche SFD info patient terbinafine et itraconazole (SFD)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Bordereau-3_Prise-des-medicaments.pdf)

@@ -248,7 +248,7 @@ Indications à l'endoscopie en première intention:
 {{% /collapse %}}
 {{%collapse "Traitement de Helicobacter pylori avec antibiogramme" %}}
 
-En cas de grossesse ou d'allaitement, il faut différer le traitement
+En cas de grossesse ou d'allaitement, il faut différer le traitement.
 {.alert .alert-warning}
 
 ### Traitement de première ligne de *H. pylori*
@@ -257,7 +257,7 @@ En cas de grossesse ou d'allaitement, il faut différer le traitement
 
 Traitement de première intention d'infection à *Helicobacter pylori* avec fonction rénale normale.
 
-Tout traitement antibiotique doit être suivi d'un {{< modal-btn modal-test-respi >}}contrôle d'éradication{{< /modal-btn >}}
+Tout traitement antibiotique doit être suivi d'un {{< modal-btn modal-test-respi >}}contrôle d'éradication{{< /modal-btn >}}.
 {.alert .alert-warning}
 
 {{%info%}}
@@ -291,10 +291,10 @@ Quadrithérapie avec *bismuth* pendant 10 jours:
 - Oméprazole 20 mg matin et soir 15 minutes avant le repas  
   {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
 
-Arrêt immédiat du traitement et avis médical en cas de signes neurologiques
+Arrêt immédiat du traitement et avis médical en cas de signes neurologiques.
 {.alert .alert-warning}
 
-Voire trithérapie pendant 14 jours pour le GEFH uniquement:
+Voire trithérapie pendant 14 jours pour le *GEFH* uniquement:
 
 - Amoxicilline 50 mg/kg/j (en 3-4 prises/j) pendant le repas
 - Métronidazole 500 mg matin et soir pendant le repas
@@ -321,7 +321,7 @@ La réalisation d'une nouvelle endoscopie est préférable pour antibiogramme.
 {{% /collapse %}}
 {{%collapse "Traitement probabiliste d'infection à Helicobacter pylori" %}}
 
-En cas de grossesse ou d'allaitement, il faut différer le traitement
+En cas de grossesse ou d'allaitement, il faut différer le traitement.
 {.alert .alert-warning}
 
 Traitement sans antibiogramme, dit *traitement empirique*.
@@ -343,7 +343,7 @@ ou quadrithérapie avec *bismuth* pendant 10 jours:
 
 La quadrithérapie avec bismuth est utilisée en première ligne seulement en cas de prise récente de macrolide ou d'allergie à l'amoxicilline pour la *HAS/SPILF*.
 
-Arrêt immédiat du traitement et avis médical en cas de signes neurologiques
+Arrêt immédiat du traitement et avis médical en cas de signes neurologiques.
 {.alert .alert-warning}
 
 ### Empirique de deuxième ligne
@@ -373,7 +373,7 @@ Quadrithérapie avec *bismuth* pendant 10 jours:
 - Oméprazole 20 mg matin et soir 15 minutes avant le repas  
 {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
 
-Arrêt immédiat du traitement et avis médical en cas de signes neurologiques
+Arrêt immédiat du traitement et avis médical en cas de signes neurologiques.
 {.alert .alert-warning}
 
 #### Allergie à la pénicilline: 2e ligne

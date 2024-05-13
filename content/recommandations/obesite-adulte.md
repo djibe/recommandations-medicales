@@ -380,7 +380,7 @@ La prise en charge de l'obésité associe:
 - Adaptation des doses d'antibiotiques: [AbxBMI](https://abxbmi.com)
 - Si Covid-19: [antiviral]({{< relref "covid-19.md" >}}) en urgence
 
-> << Les régimes déséquilibrés ou très restrictifs sont déconseillés >> – *HAS 2022* | < 1200 kcal/j ne sont pas conseillés – *CEEDMM*
+> << Les régimes déséquilibrés ou très restrictifs sont déconseillés >>. – *HAS 2022* | < 1200 kcal/j ne sont pas conseillés. – *CEEDMM*
 {.alert .alert-warning}
 
 ### Suivi

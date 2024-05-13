@@ -11,7 +11,7 @@ lastmod = "2024-01-26"
 specialites = ["cardiologie"]
 annees = "2023"
 sources = ["ESC"]
-tags = ["antiplaquettaire", "BPCO", "cancer", "chute", "diabete", "dyspnee", "fatigue", "HTA", "risque cardiovasculaire", "sueurs nocturnes", "vertige"]
+tags = ["antiplaquettaire", "BPCO", "chute", "diabete", "dyspnee", "fatigue", "HTA", "risque cardiovasculaire", "sueurs nocturnes", "vertige"]
 anglais = ["Acute coronary syndrome (ACS)", "myocardial infarction (MI, STEMI)", "unstable angina (UA)"]
 sctid = "394659003"
 icd10 = "I24.9"
@@ -139,7 +139,7 @@ Autres diagnostics à rechercher devant un épisode de douleurs thoraciques:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-En cas d'appel d'un patient suspect de syndrome coronarien aigu, le rediriger vers le SAMU. << L'objectif est de "prescrire le 15" >> – HAS
+En cas d'appel d'un patient suspect de syndrome coronarien aigu, le rediriger vers le SAMU. << L'objectif est de "prescrire le 15" >>. – *HAS*
 {.alert .alert-warning}
 
 ### Interrogatoire
@@ -208,7 +208,7 @@ Pour les SCANST, le dosage nécessite un résultat dans l'heure avec interpréta
 {{% /collapse %}}
 {{%collapse "Traitements post infarctus et post SCA" %}}
 
-> L'arrêt du tabac est la mesure la plus efficace avec une réduction de la mortalité de 36% après un [infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}})
+> L'arrêt du tabac est la mesure la plus efficace avec une réduction de la mortalité de 36 % après un [infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}).
 {.alert .alert-warning}
 
 Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} après infarctus du myocarde ou autre syndrome coronarien aigu:

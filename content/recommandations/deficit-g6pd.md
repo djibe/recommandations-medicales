@@ -49,8 +49,7 @@ PNDS
 
 Le patient atteint d'un déficit en G6PD doit reconnaître les signes d'un accident hémolytique.
 
-La survenue d'une hémolyse aiguë peut mettre en jeu le pronostic vital.  
-Nécessité d'un bilan biologique en urgence
+La survenue d'une hémolyse aiguë peut mettre en jeu le pronostic vital. Nécessité d'un bilan biologique en urgence.
 {.alert .alert-warning}
 
 - Homme le plus souvent
@@ -114,8 +113,7 @@ L'enfant doit aussi porter la carte spécifique sur lui.
 
 ### Médicaments à proscrire et possibles
 
-Toute **automédication** est proscrite lors d'un déficit en G6PD.  
-Remettre au patient la [liste ANSM (PDF)](https://ansm.sante.fr/uploads/2021/03/11/liste-substances-actives-deficit-g6pd-20052019-1-2.pdf) des médicaments proscrits.
+Toute **automédication** est proscrite lors d'un déficit en G6PD. Remettre au patient la [liste ANSM (PDF)](https://ansm.sante.fr/uploads/2021/03/11/liste-substances-actives-deficit-g6pd-20052019-1-2.pdf) des médicaments proscrits.
 {.alert .alert-warning}
 
 Toutes les chimioprophylaxies antipaludiques disponibles en France sont possibles au cours d'un déficit en G6PD.

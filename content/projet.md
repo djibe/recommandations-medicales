@@ -8,7 +8,7 @@ breadcrumbTitle = "Projet"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-06T09:56:35+02:00"
 publishdate = "2021-07-07"
-lastmod = "2023-06-16"
+lastmod = "2024-05-12"
 todo = "https://ansm.sante.fr/actualites/lansm-publie-un-rapport-sur-la-consommation-des-antibiotiques-entre-2000-et-2020"
 chart = true
 +++
@@ -20,13 +20,13 @@ Je suis Jean-Baptiste Fron, médecin généraliste diplômé à Lille en 2014. E
 
 ## Motivation du projet
 
-Comme tous mes confrères, je suis confronté quotidiennement à la nécessité d'obtenir rapidement les éléments de référence pour réaliser des prises en charge de qualité au cours de mes consultations de médecine générale. À cet effet, je me heurte à plusieurs obstacles, que je liste ci-dessous.
+Comme tous mes confrères, je suis confronté chaque jour à la difficulté de connaître les **bonnes pratiques** pour réaliser des consultations de **médecine générale de qualité**. À cet effet, je me heurte à plusieurs obstacles, que je liste ci-dessous.
 
-### L'état de l'art évolue rapidement et sa dissémination aux généralistes est très limitée
+### L'état de l'art évolue rapidement et sa diffusion aux généralistes est très limitée
 
-L'**État de l'art** est dispersé sur internet (HAS, sociétés savantes ...), dans des documents trop longs, souvent dans des PDF dissimulés. Il n'est pas adapté aux soins primaires, quand il n'est tout simplement pas détenu par des éditeurs à but lucratif (Elsevier...). De plus, le rythme des publications est rapide.
+L'**État de l'art** est dispersé sur internet (HAS, sociétés savantes ...), dans des documents trop longs, souvent en anglais et principalement dans des PDF mal indexés. Il n'est pas adapté aux soins primaires, quand il n'est tout simplement pas détenu par des éditeurs à but lucratif (Elsevier ...). De plus, le rythme des publications est rapide.
 
-> Les progrès de la médecine n'atteignent guère les généralistes
+> Les progrès de la médecine n'atteignent guère les généralistes.
 
 ### Le généraliste ne peut tout savoir et ne peut souvent pas accéder aux informations pertinentes en temps utile pour la consultation
 
@@ -34,7 +34,7 @@ Le médecin généraliste est le premier intervenant de la grande majorité des 
 
 Il ne peut pas tout savoir, et l'humain ne retient au mieux que 10% de ce qu'il apprend. Seul un assistant informationnel permettrait de résoudre ce dilemme.
 
-> L'information pertinente doit être accessible rapidement pendant la consultation
+> L'information pertinente doit être accessible rapidement pendant la consultation.
 
 ### La formation médicale continue (FMC) est peu efficace
 
@@ -42,9 +42,9 @@ La FMC des médecins est obligatoire depuis le 24 avril 1996 ([CN FMCH. L'obliga
 
 Pourtant, des exemples comme les *prescriptions d'antibiotiques* ou le *suivi du diabète* (voir ci-dessous) ne montrent pas de signes d'amélioration à la hauteur du temps de formation consacré.
 
-Plus simplement, 30% des diabétiques traités par monothérapie n'avaient pas de metformine en 2019 (*Assurance Maladie. Charges et Produits 2019*) ou 30% des personnes traitées par Lévothyrox n'avaient pas eu de dosage de la TSH avant la prescription (*HAS 2022*).
+Plus simplement, 30 % des diabétiques traités par monothérapie n'avaient pas de metformine en 2019 (*Assurance Maladie. Charges et Produits 2019*) ou 30 % des personnes traitées par Lévothyrox® n'avaient pas eu de dosage de la *TSH* avant la prescription (*HAS 2022*).
 
-> Si un schéma ne donne pas les résultats escomptés, il faut en chercher d'autres
+> Si un schéma ne donne pas les résultats escomptés, il faut en chercher d'autres.
 
 {{< figure-chart title="Consommation d'antibiotiques en secteur de ville en France sur la période 2009-2019 (<a href='https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-associees-aux-soins-et-resistance-aux-antibiotiques/resistance-aux-antibiotiques/documents/rapport-synthese/la-consommation-d-antibiotiques-en-secteur-de-ville-en-france-2009-2019.-synthese-preliminaire-des-indicateurs-disponibles-sous-geodes' rel='external nofollow noopener'>Santé Publique France</a>).<br><b>DQD:</b> doses quotidiennes définies/1000 hab/j (DDD en anglais)" >}}
 
@@ -124,11 +124,11 @@ Cette limitation est récurrente sur les sites existants, pourtant d'une grande 
 
 > L'outil doit être dynamique en cas de forte complexité (scores, escalade thérapeutique ...)
 
-## Objectifs du Projet
+## Objectifs du projet
 
 Le projet << RecoMédicales >> vise à produire un démonstrateur de plateforme informatique **permettant à tous les généralistes d'accéder rapidement aux informations médicales les plus récentes nécessaires à chaque prise en charge**.
 
-Le démonstrateur doit être **hautement interactif, simple d'emploi, gratuit et Open Source**.
+Le démonstrateur doit être **hautement interactif, simple d'emploi, gratuit, indépendant et Open Source**.
 
 Le **contenu** de la plateforme opérationnelle suivant le démonstrateur devra être **validé** par les autorités médicales et/ou spécialistes respectifs, et **tenu à jour en permanence**.
 
@@ -140,18 +140,17 @@ Le **contenu** de la plateforme opérationnelle suivant le démonstrateur devra 
 
 Chaque personne compétente pourra juger sur le site à quel point ces objectifs sont déjà atteints.
 
-Il faut noter que le développement du démonstrateur a demandé un effort limité au regard des bénéfices attendus. Le démonstrateur disponible sur ce site a nécessité environ 1,5 ans de travail à temps partiel, avec des compétences médicales et informatiques.
+Il faut noter que le développement du démonstrateur a demandé un effort limité au regard des bénéfices attendus. Le démonstrateur disponible sur ce site a nécessité environ 4 ans de travail à temps partiel, avec des compétences médicales et informatiques.
 
 ## Prochaines étapes
 
 - Finalisation du démonstrateur (fiches, validation, etc.)
-- Engagement d'agence de santé
+- Engagement d'agences de santé
 - Démonstrations aux praticiens, autorités et organisations compétentes, médias spécialisés
-- Test par un échantillon significatif de praticiens
 
 ## Remerciements
 
-Je tiens ici à remercier tous ceux qui m'ont soutenu dans ce projet, mon épouse médecin généraliste, les spécialistes qui ont bien voulu vérifier et valider les différentes fiches, et tous ceux qui m'aident, me conseillent et m'encouragent.
+Je tiens ici à remercier tous ceux qui m'ont soutenu dans ce projet, mon épouse médecin généraliste, les spécialistes qui ont participé à la validation de différentes fiches, et tous ceux qui m'aident, me conseillent et m'encouragent.
 
 Je vous remercie pour votre attention,
 

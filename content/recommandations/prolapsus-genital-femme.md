@@ -188,7 +188,7 @@ Adresser à tout spécialiste en gynécologie (généraliste, gynécologue, sage
 
 Le pessaire peut être utilisé comme test diagnostic lorsque le lien symptômes - prolapsus n'est pas certain (ex: dysurie, urgenturie, douleurs abdomino-pelviennes).
 
-Consulter rapidement en cas de: pertes vaginales anormales, métrorragies, troubles de la vidange vésicale ou rectale, fuites urinaires, inconfort ou douleurs
+Consulter rapidement en cas de: pertes vaginales anormales, métrorragies, troubles de la vidange vésicale ou rectale, fuites urinaires, inconfort ou douleurs.
 {.alert .alert-warning}
 
 #### Rééducation périnéale

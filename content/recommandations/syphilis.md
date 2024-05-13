@@ -130,7 +130,7 @@ Recommandations pour le dépistage répété des personnes à risque de syphilis
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Examen soigneux de tout patient avec sérologie syphilitique: neurologique, oculaire, auditive
+Examen soigneux de tout patient avec sérologie syphilitique: neurologique, oculaire, auditive.
 {.alert .alert-warning}
 
 ### Syphilis primaire = Chancre
@@ -177,7 +177,7 @@ Les lésions de syphilis secondaire sont contagieuses si excoriées
 - Uvéite
 - Glomérulonéphrite
 
-Les atteintes ophtalmologiques et neurologiques de la syphilis peuvent engager le pronostic fonctionnel et doivent être traquées
+Les atteintes ophtalmologiques et neurologiques de la syphilis peuvent engager le pronostic fonctionnel et doivent être traquées.
 {.alert .alert-warning}
 
 **NB.** Ne pas confondre la *réaction d'Herxeimer* avec une allergie aux bêtalactamines.
@@ -205,7 +205,7 @@ Recommandations pour la prise en charge diagnostique devant une suspicion de syp
 
 ### Sérologie syphilitique
 
-Une sérologie syphilitique négative n'élimine pas une syphilis primaire
+Une sérologie syphilitique négative n'élimine pas une syphilis primaire.
 {.alert .alert-warning}
 
 Les sérologies se positivent quelques jours après le début du chancre et atteignent un titre maximum vers 6 mois, correspondant à la phase secondaire si elle est présente.

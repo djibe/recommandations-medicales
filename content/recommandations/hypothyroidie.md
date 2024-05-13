@@ -302,7 +302,7 @@ Surveillance au long cours une fois l'euthyroïdie obtenue: contrôle clinique +
 
 **Effets indésirables en cas de surdosage:** tachycardie/palpitations, agitation, insomnie. Surveiller la survenue d'**attaques de paniques** même en concentrations plasmatiques thérapeutiques.
 
-> Pas de surveillance de la T4L, des anticorps ou de l'iodémie/iodurie
+> Pas de surveillance de la T4L, des anticorps ou de l'iodémie/iodurie.
 {.alert .alert-warning}
 
 ### Avis endocrinologique
@@ -353,7 +353,7 @@ Suivi thérapeutique par dosage de T3L + T4L qui doit être dans le tiers supér
 {{% /collapse %}}
 {{%collapse "Hypothyroïdie et grossesse ou désir de grossesse" %}}
 
-> Patiente déjà traitée: augmenter en urgence la lévothyroxine de 20 à 30% dès connaissance de la grossesse, dans l'attente de l'avis endocrinologique
+> Patiente déjà traitée: augmenter en urgence la lévothyroxine de 20 à 30 % dès connaissance de la grossesse, dans l'attente de l'avis endocrinologique.
 {.alert .alert-warning}
 
 Particularités de la prise en charge de l'hypothyroïdie en rapport avec une [grossesse]({{< relref "grossesse.md" >}}) ou un désir de grossesse:

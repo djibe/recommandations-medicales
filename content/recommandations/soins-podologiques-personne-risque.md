@@ -170,7 +170,7 @@ Mesures d'hygiène des pieds recommandées pour l'ensemble de la population au c
 - Chaussettes et chaussures en matériau perspirant
 - Lieux collectifs chauds et humides: porter des claquettes
 
-Ne pas utiliser: bains de pieds, antiseptiques répétés, coricides, matériel tranchant, fish pédicure
+Ne pas utiliser: bains de pieds, antiseptiques répétés, coricides, matériel tranchant, << fish pédicure >>.
 {.alert .alert-warning}
 
 > – *HAS 2020*
@@ -240,7 +240,7 @@ Elle comprend 1 paire d'été + 1 paire d'hiver puis 1 paire par an.
   - Mise en place adaptée et entretien
   - Port, renouvellement régulier et surveillance de la peau et des phanères
 
-Déconseiller: de marcher pieds nus en cas de troubles sensitifs ou vasculaires, d'utiliser des instruments tranchants/piquants ou des irritants (coricides ...)
+Déconseiller: de marcher pieds nus en cas de troubles sensitifs ou vasculaires, d'utiliser des instruments tranchants/piquants ou des irritants (coricides ...).
 {.alert .alert-warning}
 
 > – *HAS 2020*

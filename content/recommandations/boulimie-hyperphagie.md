@@ -47,7 +47,7 @@ Hyperphagie boulimique
 : Trouble des conduites alimentaires (TCA) marqué par des crises de **boulimie sans les comportements compensatoires** associés à la boulimie nerveuse, à l'origine d'un surpoids ou d'une **[obésité]({{< relref "obesite-adulte.md" >}})**.
 : Le trouble débute un peu plus tard (jeune adulte) sans différence de sexe.
 
-Le vécu douloureux du trouble impose de faire preuve de bienveillance et d'empathie. Éviter d'être moralisateur et informer que la guérison est possible et le répéter régulièrement
+Le vécu douloureux du trouble impose de faire preuve de bienveillance et d'empathie. Éviter d'être moralisateur et informer que la guérison est possible et le répéter régulièrement.
 {.alert .alert-warning}
 
 ### Diagnostic différentiel de la boulimie nerveuse
@@ -179,7 +179,7 @@ L'interrogatoire explore également:
   - Homme: envisager la recherche de signes de schizophrénie
 - Étayer le diagnostic différentiel: signes de [ténia]({{< relref "tenia.md" >}}), [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}), [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) ...
 
-Envisager la recherche de schizophrénie chez tout homme atteint de TCA
+Envisager la recherche de schizophrénie chez tout homme atteint de TCA.
 {.alert .alert-warning}
 
 Freins aux soins les plus souvent observés: la honte, la peur, la méconnaissance, le déni, la recherche de solutions immédiates, l'accès aux soins, la chronicisation ...

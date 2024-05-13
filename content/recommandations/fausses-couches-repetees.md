@@ -92,7 +92,7 @@ Bilan complémentaire à considérer:
 - Fragmentation de l'ADN spermatique
 - Rechercher une Maladie de Wilson (*PNDS 2022*)
 
-Bilans non recommandés: typage HLA, dépistage de SOPK, glycémie à jeun, androgènes, évaluation de la réserve ovarienne, d'une insuffisance lutéale, thrombophilie (non suggéré sauf facteurs de risque).
+Bilans **non recommandés**: typage HLA, dépistage de [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}), glycémie à jeun, androgènes, évaluation de la réserve ovarienne, d'une insuffisance lutéale, thrombophilie (non suggéré sauf facteurs de risque).
 {.alert .alert-warning}
 
 Une analyse génétique du fœtus pourrait être réalisée à visée étiologique avec conseil génétique du couple en cas d'anomalie.

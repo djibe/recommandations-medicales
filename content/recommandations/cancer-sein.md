@@ -380,7 +380,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: ch
 
 ### Consignes de précautions pour le côté d'un curage axillaire (lymphœdème)
 
-> Prévention du lymphœdème: << Pas de contre-indication à: réaliser un prélèvement sanguin, une injection intraveineuse, une mesure de la pression artérielle, un vol en avion, poursuivre les activités de la vie quotidienne, y compris le port de charge >> – *INCa 2022*
+> Prévention du lymphœdème: << Pas de contre-indication à: réaliser un prélèvement sanguin, une injection intraveineuse, une mesure de la pression artérielle, un vol en avion, poursuivre les activités de la vie quotidienne, y compris le port de charge >>. – *INCa 2022*
 {.alert .alert-warning}
 
 Lymphœdème

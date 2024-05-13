@@ -218,9 +218,7 @@ Les antihistaminiques et corticoïdes nasaux sont le traitement symptomatique de
 - Chez l'enfant de 1 à 3 ans: les antihistaminiques oraux sont le seul traitement de la rhinite allergique
 - Association de patients: [afpral](https://www.afpral.fr/page/953363-l-association)
 
-> << Les glucocorticoïdes per os sont à éviter >>  
-<< La chirurgie n'a pas sa place dans le traitement de la RA >>  
-— *SPLF 2010*
+> << Les glucocorticoïdes per os sont à éviter >>, << La chirurgie n'a pas sa place dans le traitement de la RA >>. — *SPLF 2010*
 {.alert .alert-warning}
 
 ### Mesures d'éviction ciblée de l'allergène identifié

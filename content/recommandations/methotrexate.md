@@ -34,7 +34,7 @@ todo = "img, quantiféron"
 {{%/article-summary%}}
 {{%collapse "Contre-indications au méthotrexate" %}}
 
-En cas de grossesse sous méthotrexate, adresser au diagnostic anténatal en semi-urgence
+En cas de grossesse sous méthotrexate, adresser au diagnostic anténatal en semi-urgence.
 {.alert .alert-warning}
 
 - [Grossesse]({{< relref "grossesse.md" >}})  

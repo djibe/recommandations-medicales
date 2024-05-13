@@ -83,7 +83,7 @@ RCP
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Au moindre doute, prescrire une échographie pelvienne sus-pubienne et endovaginale
+Au moindre doute de tumeur ovarienne, prescrire une échographie pelvienne sus-pubienne et endovaginale.
 {.alert .alert-warning}
 
 Les signes et symptômes devant faire évoquer un cancer de l'ovaire en cas de persistance après la ménopause sont aspécifiques.

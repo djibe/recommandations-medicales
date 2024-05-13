@@ -73,7 +73,7 @@ SNFGE
 {{% /collapse %}}
 {{%collapse "Aliments interdits" %}}
 
-<< Tout aliment ou boisson ne figurant pas sur cette liste doit être considéré comme interdit >> – *SNFGE/CREGG 2017*
+<< Tout aliment ou boisson ne figurant pas sur cette liste doit être considéré comme interdit >>. – *SNFGE/CREGG 2017*
 {.alert .alert-warning}
 
 ### Aliments proscrits pour le régime sans résidus

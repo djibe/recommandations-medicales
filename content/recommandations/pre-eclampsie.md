@@ -102,7 +102,7 @@ SFAR
 {{% /collapse %}}
 {{%collapse "Critères de gravité et de sévérité de la pré-éclampsie" %}}
 
-Une pré-éclampsie grave ou sévère nécessite l'appel du 15 / SAMU
+Une pré-éclampsie grave ou sévère nécessite l'appel du SAMU.
 {.alert .alert-warning}
 
 ### Critères de gravité de la pré-éclampsie
@@ -138,7 +138,7 @@ Pré-éclampsie avec au moins un critère de sévérité parmi:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> Une suspicion de pré-éclampsie est une urgence diagnostique et thérapeutique
+> Une suspicion de pré-éclampsie est une urgence diagnostique et thérapeutique.
 {.alert .alert-warning}
 
 ### Interrogatoire
@@ -187,7 +187,7 @@ Rechercher un **syndrome des anticorps anti-phospholipides** (SAPL) en cas de pr
 {{% /collapse %}}
 {{%collapse "Traitement de la pré-éclampsie" %}}
 
-> << L'hospitalisation est systématique lors de la découverte d'une prééclampsie >> – *Collège*
+> << L'hospitalisation est systématique lors de la découverte d'une prééclampsie >>. – *Collège*
 {.alert .alert-warning}
 
 Toute suspicion de pré-éclampsie doit être prise en charge dans des **urgences obstétricales**.

@@ -110,7 +110,7 @@ Les symptômes surviennent le plus souvent chez le sujet jeune:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> << Un bilan hépatique normal n'élimine pas une atteinte hépatique qui peut alors prendre la forme d'une stéatose ou d'une fibrose évoluant à bas bruit (intérêt du Fibroscan® systématique) >> – *PNDS 2022*
+> << Un bilan hépatique normal n'élimine pas une atteinte hépatique qui peut alors prendre la forme d'une stéatose ou d'une fibrose évoluant à bas bruit (intérêt du Fibroscan® systématique) >>. – *PNDS 2022*
 {.alert .alert-warning}
 
 {{%info%}}

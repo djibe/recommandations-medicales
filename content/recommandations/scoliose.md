@@ -130,7 +130,7 @@ Profiter des [examens de suivi]({{< relref "examens-suivi-nourrisson.md" >}}) (3
 {{% /collapse %}}
 {{%collapse "Traitement de la scoliose" %}}
 
-Avis orthopédique adapté à l'âge pour une scoliose ≥ 15° (*Collège*)
+Avis orthopédique adapté à l'âge pour une scoliose ≥ 15°. – *Collège*
 {.alert .alert-warning}
 
 Objectifs de la prise en charge de la scoliose: obtenir la déformation la plus limitée possible, prévenir le retentissement fonctionnel, assurer l'éducation thérapeutique pour le patient et l'entourage.

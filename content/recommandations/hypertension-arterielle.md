@@ -24,7 +24,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Dépister l'hypertension artérielle dès 3 ans, au moins tous les 3 ans après 40 ans (annuellement selon la *USPTF*, 1/3 des adultes atteints et 3/4 non contrôlés)
+- Dépister l'hypertension artérielle dès 3 ans, au moins tous les 3 ans après 40 ans (annuellement selon la *USPTF*, 1/3 des adultes sont hypertendus et les 3/4 ne sont pas contrôlés)
 - Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet* et [tensiomètres validés]({{< relref "tensiometres-electroniques-valides.md" >}}))
 - Confirmer le diagnostic par mesures et automesures / MAPA répétées, conserver le grade et le stade d'hypertension au diagnostic
 - Recherche des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} ({{< scores/heartscore >}} en prévention primaire) (le LDL cible en découle)
@@ -162,7 +162,7 @@ TZD
 {{% /collapse %}}
 {{%collapse "Mesure de la pression artérielle au cabinet" %}}
 
-> Les mesures sur la table d'examen ne sont pas valables (*ESH 2021*)
+> Les mesures de pression artérielle sur la table d'examen ne sont pas valables. – *ESH 2021*
 {.alert .alert-warning}
 
 Toute personne majeure devrait avoir la mesure de pression artérielle (PA) dans son dossier et connaître ses valeurs.

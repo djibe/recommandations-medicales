@@ -305,12 +305,12 @@ La prescription et l'interprétation relèvent d'un médecin formé à la médec
 
 *Polygraphie ventilatoire* voire *polysomnographie* en cas de suspicion de pathologies neurologiques associées.
 
-En cas de somnolence avec suspicion forte de SAOS, une polygraphie normale n'exclut pas le diagnostic et doit faire pratiquer une polysomnographie (25-50 % de faux négatifs, *Gottlieb 2020*)
+En cas de somnolence avec suspicion forte de SAHOS, une polygraphie normale n'exclut pas le diagnostic et doit faire pratiquer une polysomnographie (25-50 % de faux négatifs, *Gottlieb 2020*).
 {.alert .alert-warning}
 
 ### Gaz du sang
 
-Indications aux gaz du sang:
+Indications aux gaz du sang au cours du bilan d'apnées du sommeil:
 
 - BPCO, trouble ventilatoire obstructif
 - Obésité ≥ grade 2 (35 kg/m²)

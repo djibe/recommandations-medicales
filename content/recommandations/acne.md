@@ -128,7 +128,7 @@ Les soins locaux sont systématiques pour la prise en charge de l'acné:
 - Pas de bénéfices à modifier son alimentation  
   Envisager un test d'éviction du lactose (*Aghasi 2018*)
 
-Traitements déconseillés sur l'acné: Produits alcoolisés ou antiseptiques, manipulation des lésions (provoquent poussées inflammatoires) et exposition au soleil
+Traitements déconseillés sur l'acné: produits alcoolisés ou antiseptiques, manipulation des lésions (provoquent poussées inflammatoires) et exposition au soleil.
 {.alert .alert-warning}
 
 ### Traitements topiques de l'acné
@@ -140,13 +140,13 @@ Traitements déconseillés sur l'acné: Produits alcoolisés ou antiseptiques, m
 
 **Tous les traitements sont irritants, attention à l'application près des yeux et bouche.**
 
-Tous les rétinoïdes sont tératogènes, même en gel ou crème
+Tous les rétinoïdes sont tératogènes, même en gel ou crème.
 {.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'acné minime à modérée" %}}
 
-Seuls traitements autorisés pendant la grossesse: gluconate de zinc, peroxyde de benzoyle, antibiotiques topiques (clindamycine, érythromycine, acide azélaïque) (*[Le CRAT](https://www.lecrat.fr/6311/)*)
+Seuls traitements autorisés pendant la grossesse: gluconate de zinc, peroxyde de benzoyle, antibiotiques topiques (clindamycine, érythromycine, acide azélaïque). – *[CRAT](https://www.lecrat.fr/6311/)*
 {.alert .alert-warning}
 
 ### Acné à prédominance rétentionnelle
@@ -226,7 +226,7 @@ Antibiothérapie à utiliser en association avec:
 - Rétinoïde local si lésions rétentionnelles, adapalène aussi actif sur lésions inflammatoires
 - Ou l'association des 2
 
-L'association d'antibiothérapie locale et générale n'est pas recommandée
+L'association d'antibiothérapie locale et générale n'est pas recommandée.
 {.alert .alert-warning}
 
 ### Acné et contraception hormonale

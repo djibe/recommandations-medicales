@@ -128,7 +128,7 @@ Les signes et symptômes de l'hyponatrémie sont aspécifiques:
   - [Chutes](/tags/chute/), fractures, dépister les autres facteurs de risque d'[ostéoporose]({{< relref "osteoporose.md" >}})
   - Suspicion de malignité: AEG
 
-Une suspicion de SIADH paranéoplasique impose un avis néphrologique urgent (IRM cérébrale et scanner thoracique)
+Une suspicion de SIADH paranéoplasique impose un avis néphrologique urgent (IRM cérébrale et scanner thoracique).
 {.alert .alert-warning}
 
 ### Examen clinique
@@ -171,10 +171,10 @@ Le calcul de la natrémie corrigée est nécessaire en cas d'hyperglycémie:
 {{% /collapse %}}
 {{%collapse "Traitement de l'hyponatrémie" %}}
 
-La découverte d'une hyponatrémie inférieure à 125 mmol/L est une urgence. Avis spécialisé urgent de 125-129 mmol/L ou en cas de symptômes
+La découverte d'une hyponatrémie inférieure à 125 mmol/L est une urgence. Avis spécialisé urgent de 125-129 mmol/L ou en cas de symptômes.
 {.alert .alert-warning}
 
-L'apport de sel n'améliore pas l'hyponatrémie qui est un trouble du bilan de l'eau
+L'apport de sel n'améliore pas l'hyponatrémie qui est un trouble du bilan de l'eau.
 {.alert .alert-info}
 
 La prise en charge de l'hyponatrémie est étiologique (pathologie ou médicament en cause) et le traitement symptomatique consiste en une **restriction hydrique** (500-750 mL/j).

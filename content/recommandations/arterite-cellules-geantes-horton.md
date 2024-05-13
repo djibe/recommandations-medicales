@@ -132,7 +132,7 @@ Signes et symptômes à rechercher chez le sujet de plus de 50 ans lorsqu'une ma
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Information du patient dès que le diagnostic de Horton est suspecté: consultation en urgence en cas de signes visuels.
+Information du patient dès que le diagnostic de maladie de Horton est suspecté: consultation en urgence en cas de signes visuels.
 {.alert .alert-warning}
 
 {{%info%}}

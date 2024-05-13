@@ -24,9 +24,6 @@ Le Forfait structure est segmenté en 2 parties: équipement du cabinet et servi
 
 La déclaration des objectifs est complétée depuis *AmeliPro* (section *Déclarer mes indicateurs*).
 
-Les tableaux prennent en compte les dernières dispositions: pas d'addendum 8, Ségur au 31/1/24, DMP à 10%
-{.alert .alert-warning}
-
 ## Forfait structure Volet 1 : Équipement du cabinet 2024
 
 **280 points, soit 1960 €** seront accordés pour l'application des éléments suivants durant l'année 2024:

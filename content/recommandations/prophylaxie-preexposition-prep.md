@@ -148,7 +148,7 @@ Bilan avant l'instauration de la PrEP, en l'absence de suspicion de primo-infect
 {{% /collapse %}}
 {{%collapse "Prescrire la PrEP" %}}
 
-Ne pas prescrire la PrEP en suspicion de primo-infection VIH
+Ne pas prescrire la PrEP en suspicion de primo-infection VIH.
 {.alert .alert-warning}
 
 Prescription initiale possible avec **sérologie VIH < 7 jours (et créatininémie)** pour une durée initiale d'un mois.  

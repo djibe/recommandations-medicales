@@ -137,7 +137,7 @@ Personnes à risque d'hépatite C:
 
 ### Sérologie hépatite C et co-infections hépatite B et VIH
 
-> Le dépistage VHB - VHC - VIH doit être combiné (*AFEF*)
+> Le dépistage VHB - VHC - VIH doit être combiné. – *AFEF*
 {.alert .alert-warning}
 
 Sérologie hépatite C ([Remb. 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=3784&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)):

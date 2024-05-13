@@ -207,7 +207,7 @@ Prise en charge d'une hyperferritinémie:
 - Traitement spécialisé de la maladie causale
 - Cirrhose: dépistage du carcinome hépatocellulaire
 
-Pas de surveillance de la ferritine pour les pathologies ne pouvant pas donner de surcharge en fer significative (ex métabolique)
+Pas de surveillance de la ferritine pour les pathologies ne pouvant pas donner de surcharge en fer significative (ex. cause métabolique).
 {.alert .alert-warning}
 
 ### Traitement spécifique de l'hyperferritinémie

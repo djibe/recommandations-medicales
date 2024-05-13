@@ -216,7 +216,7 @@ Contre-indications temporaires à la vaccination fièvre jaune:
 {{% /collapse %}}
 {{%collapse "Administration des vaccins" %}}
 
-> << La présence d'une infection mineure ou d'une fièvre de faible intensité ne doit pas retarder le rattrapage vaccinal. L'existence d'une maladie fébrile (> 38°C) ou d'une infection aiguë modérée ou sévère ne contre-indique pas la vaccination mais peut conduire à la différer de quelques jours >> – *Calendrier vaccinal*
+> << La présence d'une infection mineure ou d'une fièvre de faible intensité ne doit pas retarder le rattrapage vaccinal. L'existence d'une maladie fébrile (> 38°C) ou d'une infection aiguë modérée ou sévère ne contre-indique pas la vaccination mais peut conduire à la différer de quelques jours >>. – *Calendrier vaccinal*
 {.alert .alert-warning}
 
 - Contrôler la date de péremption du vaccin, la chaîne du froid (à l'abri de la lumière, température de 2°C à 8°C)

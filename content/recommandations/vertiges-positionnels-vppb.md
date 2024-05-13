@@ -110,7 +110,7 @@ Drapeaux rouges à rechercher devant chaque épisode de [vertiges](/tags/vertige
 
 Le caractère << bénin >> nécessite des critères précis et un examen rigoureux en période vertigineuse. Adresser à l'ORL en l'absence de formation spécifique ou pour un premier épisode.
 
-> << Un vertige positionnel doit être toujours très suspect d'une atteinte centrale durant l'enfance >> – *SFORL 2012*
+> << Un vertige positionnel doit être toujours très suspect d'une atteinte centrale durant l'enfance >>. – *SFORL 2012*
 {.alert .alert-warning}
 
 ### Interrogatoire
@@ -207,13 +207,13 @@ Elles peuvent aggraver transitoirement les symptômes.
 - VPPB du canal semi-circulaire antérieur  
   Pas de recommandations.
 
-Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, méclozine, dompéridone (Vogalène®), métoclopramide (Primpéran® ainsi que les autres anti-émétiques)
+Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, méclozine, dompéridone (Vogalène®), métoclopramide (Primpéran® ainsi que les autres anti-émétiques).
 {.alert .alert-warning}
 
 {{% /collapse %}}
-{{%collapse "Prise en charge de la maladie de Menière" "show" %}}
+{{%collapse "Prise en charge des VPPB" "show" %}}
 
-{{< mermaid title="Prise en charge de la suspicion de maladie de Menière par le médecin généraliste. Drs JB Fron et Alaedine Benani d'après SFORL" >}}
+{{< mermaid title="Prise en charge des vertiges paroxystiques positionnels bénins (VPPB) par le médecin généraliste. Drs JB Fron et Alaedine Benani d'après SFORL" >}}
 graph TB
   vertiges["<b>Vertiges</b><br>—<br>Illusion de mouvement"] --> gravité("<b>Signe de gravité ?</b><br>—<br>- Traumatisme crânien ou cervical<br>- Céphalée violente et brusque<br>- Cervicalgies récentes<br>- Déficit neurologique<br>- Nystagmus atypique<br>vers le menton, spontané ou<br>persistant au regard fixe<br>- Marche impossible sans chute<br>- Surdité brusque, acouphènes<br>- Otalgie<br>- Enfant<br>- VPPB &gt; 1 mois") -- Non --> clinique("<b>Clinique</b><br>—<br>- Antécédents ORL,<br>cardiovasculaires<br>- Traitements<br>- Caractères des vertiges:<br>brefs, répétés, reproductibles ...<br>- Examen neurologique<br>- Examen ORL") -- Critères remplis --> VPPB(VPPB) -- "Premier épisode<br>ou &gt; 1 mois" --> ORL("Consultation ORL")
   gravité -- Oui --> samu(Appel du 15)

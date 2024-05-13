@@ -149,7 +149,7 @@ Ne pas utiliser d'autres formes de supplémentations.
 {{% /collapse %}}
 {{%collapse "Quand doser la vitamine D ?" %}}
 
-Supplémentation quotidienne ou mensuelle **sans dosage de la vitamine D** chez les sujets en bonne santé (pas de pathologie ostéoporotique ou polypathologies, absence de chutes) – *Souberbielle et al 2019*
+Supplémentation quotidienne ou mensuelle **sans dosage de la vitamine D** chez les sujets en bonne santé (pas de pathologie ostéoporotique ou polypathologies, absence de chutes). – *Souberbielle et al 2019*
 {.alert .alert-warning}
 
 Situations pouvant faire contrôler le taux de vitamine D:

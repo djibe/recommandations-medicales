@@ -542,7 +542,7 @@ Réévaluation de la prise en charge de l'ostéoporose:
 - Radiographies dorso-lombaires  
   Si perte de taille ≥ 2 cm au cours du suivi ou rachialgies.
 
-Douleurs persistantes de l'aine ou des cuisses chez une patiente traitée par bisphosphonate ou dénosumab: éliminer une fracture atypique fémorale
+Douleurs persistantes de l'aine ou des cuisses chez une patiente traitée par bisphosphonate ou dénosumab: éliminer une fracture du fémur atypique.
 {.alert .alert-warning}
 
 ### Arrêt du traitement anti-ostéoporotique

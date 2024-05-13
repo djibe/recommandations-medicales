@@ -110,7 +110,7 @@ IVG
 
 {{%info%}}L'interruption volontaire de grossesse par un médecin généraliste en ville (ou sage-femme) est possible jusqu'à 9 semaines d'aménorrhée (SA), à condition d'une formation suffisante et de convention avec établissement de santé autorisé{{%/info%}}
 
-Informer du risque d'échec de l'IVG médicamenteuse avec recours à la chirurgie possible
+Informer du risque d'échec de l'IVG médicamenteuse avec recours à la chirurgie possible.
 {.alert .alert-warning}
 
 Les métrorragies (témoin de l'efficacité) surviennent 3 à 4 heures après la prise du misoprostol.  

@@ -53,7 +53,7 @@ PNDS
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Adresser aux *Urgences pédiatriques* toute suspicion de maladie de Kawasaki
+Adresser aux *Urgences pédiatriques* toute suspicion de maladie de Kawasaki.
 {.alert .alert-warning}
 
 Le diagnostic de maladie de Kawasaki est clinique:
@@ -95,7 +95,7 @@ La maladie de Kawasaki donne un syndrome inflammatoire non spécifique: polynucl
 {{% /collapse %}}
 {{%collapse "Traitement de la maladie de Kawasaki" %}}
 
-Risque d'anévrisme coronaire: 5% si traitement avant 10 jours de fièvre, 15-25 % en l'absence de traitement précoce (*PNDS*)
+Risque d'anévrisme coronaire: 5% si traitement avant 10 jours de fièvre, 15 à 25 % en l'absence de traitement précoce. – *PNDS*
 {.alert .alert-warning}
 
 La prise en charge de toute suspicion de maladie de Kawasaki est hospitalière en urgence.

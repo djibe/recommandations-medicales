@@ -97,7 +97,7 @@ TR
 
 Le diagnostic d'hypertrophie bénigne de prostate est clinique.
 
-Évoquer un *cancer de la vessie* devant toute symptomatologie chez un fumeur
+Évoquer un *cancer de la vessie* devant toute symptomatologie chez un fumeur.
 {.alert .alert-warning}
 
 ### Interrogatoire

@@ -192,7 +192,7 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
 {{% /collapse %}}
 {{%collapse "Traitement de l'endométriose" %}}
 
-[Déclarer à la pharmacovigilance](https://signalement.social-sante.gouv.fr) une résurgence des douleurs imputables à la vaccination Covid-19 ([guide PDF](https://ansm.sante.fr/uploads/2022/08/01/20220801-covid-19-troubles-menstruels-tutoriel-pds-26-07-2022.pdf), *ANSM 2022*)
+[Déclarer à la pharmacovigilance](https://signalement.social-sante.gouv.fr) une résurgence des douleurs imputables à la vaccination Covid-19 ([guide PDF](https://ansm.sante.fr/uploads/2022/08/01/20220801-covid-19-troubles-menstruels-tutoriel-pds-26-07-2022.pdf), *ANSM 2022*).
 {.alert .alert-warning}
 
 Tout traitement autre que la contraception et l'antalgie relève du spécialiste

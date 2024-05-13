@@ -114,7 +114,7 @@ Tumeurs
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Appel du 15 pour bilan en urgence
+Appel du 15 pour bilan en urgence.
 {.alert .alert-warning}
 
 {{% /collapse %}}

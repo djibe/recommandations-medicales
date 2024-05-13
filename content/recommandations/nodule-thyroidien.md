@@ -176,7 +176,7 @@ Chaque nodule de la thyroïde est décrit én échographie selon la **classifica
 
 Les autres imageries (scanner, IRM) relèvent du spécialiste (goitre plongeant, compression trachéale ou œsophagienne, rapports vasculaires).
 
-Examen en urgence dans un centre expert en cas de symptômes compressifs ou d'évolution rapide (suspicion de cancer anaplasique ou de lymphome)
+Examen en urgence dans un centre expert en cas de symptômes compressifs ou d'évolution rapide (suspicion de cancer anaplasique ou de lymphome).
 {.alert .alert-warning}
 
 #### Cytoponction guidée par échographie d'un nodule thyroïdien
@@ -245,7 +245,7 @@ Le dosage systématique de la thyroglobuline, de la calcémie, calcémie corrig�
 {{% /collapse %}}
 {{%collapse "Traitement des nodules thyroïdiens" %}}
 
-Ne sont pas recommandés: supplémentation en iode, traitement par lévothyroxine d'une euthyroïdie
+Ne sont pas recommandés: supplémentation en iode, traitement par lévothyroxine d'une euthyroïdie.
 {.alert .alert-warning}
 
 La prise en charge pendant la grossesse et chez l'enfant relèvent d'avis spécialisés.

@@ -48,7 +48,7 @@ Il n'est donné que pour les mélanomes envahissant le derme.
 Éphélides
 : Communément appelées *tâches de rousseur*.
 
-> << Une peau bronzée est un signe de dommages causés par le soleil et il n'existe pas de << bronzage sain >> >> – *HCSP 2023*
+> << Une peau bronzée est un signe de dommages causés par le soleil et il n'existe pas de << bronzage sain >> >>. – *HCSP 2023*
 {.alert .alert-warning}
 
 ### Types histologiques de mélanome
@@ -87,7 +87,7 @@ Plusieurs facteurs sont utilisés: indice de Breslow, de Clark, ulcération, ind
 {{% /collapse %}}
 {{%collapse "Facteurs de risques de mélanome" %}}
 
-Pour toutes les personnes à risque: auto-examen cutané tous les 3 mois et consultation annuelle chez le dermatologue
+Pour toutes les personnes à risque: auto-examen cutané tous les 3 mois et consultation annuelle chez le dermatologue.
 {.alert .alert-warning}
 
 ### Personnes à risque de mélanome malin
@@ -240,7 +240,7 @@ Aucun dosage de marqueurs tumoraux n'est recommandé.
 {{% /collapse %}}
 {{%collapse "Traitement du mélanome" %}}
 
-Dès suspicion de mélanome, adresser en semi-urgence au dermatologue pour une exérèse complète
+Dès suspicion de mélanome, adresser en semi-urgence au dermatologue pour une exérèse complète.
 {.alert .alert-warning}
 
 **NB**. Jamais de biopsie de lésion pigmentée, l'exérèse complète doit être systématique.

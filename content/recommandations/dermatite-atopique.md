@@ -217,7 +217,7 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 
 **NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (*EADV* et Pr D. Staumont *Dermato-Info*) car sans efficacité sur le prurit. En visée sédative, recours à l'[hydroxyzine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61162294&typedoc=R).
 
-Acupuncture, homéopathie et phytothérapie déconseillées par la *SFD*, pas d'efficacité des eaux thermales
+Acupuncture, homéopathie et phytothérapie déconseillées par la *SFD*, pas d'efficacité des eaux thermales.
 {.alert .alert-warning}
 
 ### Suivi de la dermatite atopique sévère
@@ -250,7 +250,7 @@ Traiter dès le début la poussée d'eczéma atopique:
   - Avis dermatologique si résistance au traitement
 - Consultation de suivi
 
-Les corticoïdes par voie orale ou injectable n'ont aucune indication dans la dermatite atopique
+Les corticoïdes par voie orale ou injectable n'ont aucune indication dans la dermatite atopique.
 {.alert .alert-warning}
 
 {{% /collapse %}}

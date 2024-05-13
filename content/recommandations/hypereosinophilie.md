@@ -215,7 +215,7 @@ En l'absence d'orientation probante, un **traitement d'épreuve antihelminthe** 
 
 > – *PNDS 2022*
 
-Si l'éosinophilie persiste malgré le traitement d'épreuve, adresser toute éosinophilie persistante dans un Centre de Référence des syndromes hyperéosinophiliques (CEREO, [annuaire](http://www.cereo.fr/website/reseau_eosinophile_&710&1732720681092952015.html)) pour la suite de la prise en charge
+Si l'éosinophilie persiste malgré le traitement d'épreuve, adresser toute éosinophilie persistante dans un Centre de Référence des syndromes hyperéosinophiliques (CEREO, [annuaire](http://www.cereo.fr/website/reseau_eosinophile_&710&1732720681092952015.html)) pour la suite de la prise en charge.
 {.alert .alert-warning}
 
 ### Pour en savoir plus : traitement des syndromes hyperéosinophiliques

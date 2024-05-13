@@ -301,7 +301,7 @@ Le traitement est symptomatique et pluridisciplinaire avec un accès privilégi�
 
 ### Les traitements spécifiques du Parkinson
 
-Ne jamais interrompre brutalement un traitement antiparkinsonien (risque d'akinésie aiguë ou de syndrome malin des neuroleptiques)
+Ne jamais interrompre brutalement un traitement antiparkinsonien (risque d'akinésie aiguë ou de syndrome malin des neuroleptiques).
 {.alert .alert-warning}
 
 Le traitement de la Maladie de Parkinson n'est pas une urgence. Intérêt d'un diagnostic fiable avant l'introduction des traitements.

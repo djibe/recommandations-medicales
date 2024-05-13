@@ -255,7 +255,7 @@ Les hypoglycémies peuvent aussi être subdivisées selon qu'elles sont **sympto
   - Pas de chocolat
 - Toutes les 15 minutes jusqu'à disparition des symptômes et contrôle > 70 mg/dL
 
-En cas d'hypoglycémie sévère (troubles de conscience): contre-indication au resucrage oral (fausse route) et glucagon (SC, IM ou nasal), puis 20 g de glucides complexes
+En cas d'hypoglycémie sévère (troubles de conscience): contre-indication au resucrage oral (fausse route) et glucagon (SC, IM ou nasal), puis 20 g de glucides complexes.
 {.alert .alert-warning}
 
 ### Facteurs de risque d'hypoglycémie

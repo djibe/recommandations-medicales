@@ -49,7 +49,7 @@ PPC
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic différentiel principal de l'arthrite aiguë à pyrophosphate de calcium est l'**arthrite septique** qui peut coexister avec une poussée de PPC
+Le diagnostic différentiel principal de l'arthrite aiguë à pyrophosphate de calcium est l'**arthrite septique** qui peut coexister avec une poussée de PPC.
 {.alert .alert-warning}
 
 Sémiologie classique suraiguë des accès microcristallins articulaires:

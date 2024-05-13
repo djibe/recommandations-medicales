@@ -88,7 +88,7 @@ Chémosis
 - Adénopathie prétragienne (conjonctive virale ou chronique)
 - Otoscopie, examen pharyngé
 
-Consultation ophtalmologique urgente en cas d'œil rouge et douloureux ([Urgences ophtalmologiques]({{< relref "urgences-ophtalmologiques.md" >}}))
+Consultation ophtalmologique urgente en cas d'œil rouge et douloureux ([Urgences ophtalmologiques]({{< relref "urgences-ophtalmologiques.md" >}})).
 {.alert .alert-warning}
 
 {{% /collapse %}}

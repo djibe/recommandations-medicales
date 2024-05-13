@@ -386,7 +386,7 @@ Dyspnée sous monothérapie toujours {{< modal-btn modal-score-mmrc >}}mMRC ≥ 
 
 Avis pneumologique si exacerbations répétées ou hospitalisation avec éosinophilie ≥ 300/mm³
 
-Sur-risque de pneumopathie avec les corticoïdes inhalés
+Sur-risque de pneumopathie avec les corticoïdes inhalés.
 {.alert .alert-warning}
 
 #### 4) Prescription spécialisée

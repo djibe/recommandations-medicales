@@ -92,7 +92,7 @@ Appel du {{<phone>}}15{{</phone>}} en présence d'au moins un signe parmi:
 {{% /collapse %}}
 {{%collapse "Probabilité clinique d'embolie pulmonaire" %}}
 
-+50 ans, grossesse ou post-partum = *Urgences*
++50 ans, grossesse ou post-partum = *Urgences*.
 {.alert .alert-warning}
 
 Sauf critères de gravité ou profil cité ci-dessus, utiliser l'un de ces scores validés pour déterminer la probabilité clinique d'embolie pulmonaire.
@@ -129,7 +129,7 @@ La réponse aux 8 questions suivantes doit être négative pour infirmer une *su
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Toute suspicion d'embolie pulmonaire doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC)
+Toute suspicion d'embolie pulmonaire doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC).
 {.alert .alert-warning}
 
 {{%info%}}
@@ -160,7 +160,7 @@ Indications à l'angioscanner:
 {{% /collapse %}}
 {{%collapse "Traitement de l'embolie pulmonaire" %}}
 
-Toute suspicion d'embolie pulmonaire doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC)
+Toute suspicion d'embolie pulmonaire doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC).
 {.alert .alert-warning}
 
 ### Prise en charge ambulatoire de l'embolie pulmonaire

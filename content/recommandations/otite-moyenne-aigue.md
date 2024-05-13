@@ -17,7 +17,7 @@ sctid = "194281003"
 icd10 = "H66.0"
 image = true
 imageSrc = "Otite moyenne aiguë purulente gauche non perforée (tympan inflammatoire et bombé). B. Welleschik, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "outil, récidivantes, durée otorrhée adulte"
+todo = "outil, récidivantes, avion"
 flowchart = true
 +++
 
@@ -80,7 +80,7 @@ SPILF
 
 En cas d'**otite congestive** (tympan érythémateux sans signe d'épanchement), réévaluation en cas de persistance à J3.
 
-Avis ORL si les tympans sont mal ou non vus avant 2 ans
+Avis ORL si les tympans sont mal ou non vus avant 2 ans.
 {.alert .alert-warning}
 
 {{% /collapse %}}
@@ -116,7 +116,7 @@ Dans tous les cas, DRP, traitement antalgique voire antipyrétique et nouvelle c
 
 > << des affections mineures, comme une rhinopharyngite, une otite, une laryngite, une bronchite ou une diarrhée modérée, ne sont pas des contre-indications à la vaccination. >> – *[Infovac-France](https://www.infovac.fr/pratique-vaccinale/contre-indications-vaccinales)*
 
-Aucune indication aux AINS, corticoïdes ou antibiotiques auriculaires
+Aucune indication aux AINS, corticoïdes ou antibiotiques auriculaires.
 {.alert .alert-warning}
 
 ### Antibiothérapie probabiliste de l'otite moyenne aiguë
@@ -153,7 +153,7 @@ Si indication, antibiothérapie pendant **5 jours**:
 
 ### En cas d'échec de l'antibiothérapie à 48 heures
 
-Avis spécialisé ORL en cas d'échec à 48-72 heures chez l'adulte (*HAS/SPILF/GPIP 2021*)
+Avis spécialisé ORL en cas d'échec à 48-72 heures chez l'adulte. – *HAS/SPILF/GPIP 2021*
 {.alert .alert-warning}
 
 Échec de l'antibiothérapie de l'otite moyenne aiguë (*GPIP 2023*)

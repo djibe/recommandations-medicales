@@ -273,10 +273,10 @@ Hospitalisation en urgence, [lire le chapitre *Zona*]({{< relref "zona.md" >}}).
 {{%class%}}Ne permet pas d'affirmer la réduction des séquelles.{{%/class%}}
 - Exercices musculaires du visage, biofeedback, traitement au laser, massage et thermothérapie au cours des premiers mois + auto-exercices.
 
-Exercices contre-indiqués en cas de PFI: électrothérapie, travail de force (chewing-gum)
+Exercices contre-indiqués en cas de PFI: électrothérapie, travail de force (chewing-gum).
 {.alert .alert-warning}
 
-Traitements non recommandés au cours d'une PFI: acupuncture et oxygénothérapie hyperbare
+Traitements non recommandés au cours d'une PFI: acupuncture et oxygénothérapie hyperbare.
 {.alert .alert-warning}
 
 {{% /collapse %}}

@@ -136,8 +136,7 @@ Le vaccin fièvre jaune est possible quelque soit le terme ([CRAT](https://www.l
 ### Risque transfusionnel
 
 << Refuser tout geste dont on n'est pas certain qu'il sera effectué avec du matériel neuf à usage unique >>  
-<< La pratique de tatouages et de piercing (dont le perçage des oreilles) présente un risque majeur de transmission d'agents pathogènes par le sang, notamment les virus des hépatites B et C et le VIH >>  
-— *HCSP*
+<< La pratique de tatouages et de piercing (dont le perçage des oreilles) présente un risque majeur de transmission d'agents pathogènes par le sang, notamment les virus des hépatites B et C et le VIH >>. — *HCSP*
 {.alert .alert-warning}
 
 Les tatouages éphémères noirs exposent au risque de dermite de contact.
@@ -157,7 +156,7 @@ Prévention du mal des montagnes:
 
 ### Protection contre les animaux
 
-Toute [morsure]({{< relref "morsure.md" >}}) ou piqûre avec symptômes locaux marqués ou généraux nécessite une consultation
+Toute [morsure]({{< relref "morsure.md" >}}) ou piqûre avec symptômes locaux marqués ou généraux nécessite une consultation.
 {.alert .alert-warning}
 
 Les -15 ans représentent 40% des morsures à risque de rage.
@@ -199,13 +198,13 @@ Lorsque le risque disparaît: rincer à l'eau et au savon
 
 {{< traitements/ppav >}}
 
-Méthodes non recommandées: bracelets anti-insectes, huiles essentielles (d'Eucalyptus ou autre), ultrasons, vitamine B1, homéopathie, rubans/autocollants sans insecticide
+Méthodes non recommandées: bracelets anti-insectes, huiles essentielles (d'Eucalyptus ou autre), ultrasons, vitamine B1, homéopathie, rubans/autocollants sans insecticide.
 {.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Diarrhées du voyageur" %}}
 
-En cas de diarrhée fébrile: évoquer un [accès palustre]({{< relref "paludisme.md" >}}) (enfant ++) et une fièvre typhoïde
+En cas de diarrhée fébrile: évoquer un [accès palustre]({{< relref "paludisme.md" >}}) (enfant ++) et une fièvre typhoïde.
 {.alert .alert-warning}
 
 Diarrhée du voyageur

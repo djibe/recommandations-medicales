@@ -20,7 +20,7 @@ La e-CPS est un service d'authentification forte du médecin en mobilité. Au li
 
 La protection des données de santé impose un haut niveau de sécurité. L'authentification forte répond à cette nécessité et correspond à une connexion avec l'association d'un élément dont je dispose (la carte CPS) et un élément que je connais (le mot de passe).
 
-Si vous recevez une notification de connexion de l'appli e-CPS et que vous n'êtes pas à l'origine de la connexion, refusez la connexion et référez-vous à la section *Fraude à la e-CPS*
+Si vous recevez une notification de connexion de l'appli e-CPS et que vous n'êtes pas à l'origine de la connexion, refusez la connexion et référez-vous à la section *Fraude à la e-CPS*.
 {.alert .alert-warning}
 
 {{%collapse "Définitions" %}}

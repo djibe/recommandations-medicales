@@ -98,7 +98,7 @@ La présentation du tableau faisant découvrir la neutropénie guide l'enquête 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-La découverte d'une infection grave chez le neutropénique est une urgence médicale
+La découverte d'une infection grave chez le neutropénique est une urgence médicale.
 {.alert .alert-warning}
 
 L'examen du sujet neutropénique recherche des signes d'orientation étiologique, de gravité et de complications infectieuses.
@@ -133,7 +133,7 @@ Signes cliniques à rechercher chez le neutropénique:
   - Parfois douleurs abdominales et diarrhées
   - *Ecthyma gangrenosum*: ulcères infectieux péri-anaux
 
-La neutropénie est une contre-indication à la mesure de la température rectale et aux injections intramusculaires
+La neutropénie est une contre-indication à la mesure de la température rectale et aux injections intramusculaires.
 {.alert .alert-warning}
 
 {{% /collapse %}}

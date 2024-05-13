@@ -176,7 +176,7 @@ Conseils à associer:
 
 Toute consommation pendant la **grossesse** est un mésusage: urgence addictologique, gynécologique, psychologique et sociale.
 
-Idem sans urgence pour jeune (avec avis psychiatrique + parents), cirrhose, travail sur machine (BTP ...), chauffeur professionnel, sports à risque
+Idem sans urgence pour jeune (avec avis psychiatrique + parents), cirrhose, travail sur machine (BTP ...), chauffeur professionnel, sports à risque.
 {.alert .alert-warning}
 
 Occasions pour dépister un mésusage: consultation de routine, prescription d'un médicament interagissant avec l'alcool, désir de grossesse, tabagisme, jeune adulte, troubles psychiatriques, précarité, pathologie cardiovasculaire, pathologie résistante au traitement (douleur, dépression, diabète...) (*NIAAA*).
@@ -413,7 +413,7 @@ Le sevrage de l'alcool peut le plus souvent être un sevrage ambulatoire mais n�
 
 ### Indications au sevrage hospitalier en alcool
 
-Seulement 3 indications aux services d'*Urgences*: complications somatiques sévères, crises suicidaires, agitation avec agressivité
+Seulement 3 indications à l'adressage pour sevrage alcoolique aux *Urgences*: complications somatiques sévères, crises suicidaires, agitation avec agressivité.
 {.alert .alert-warning}
 
 Indications à l'hospitalisation pour une abstinence:
