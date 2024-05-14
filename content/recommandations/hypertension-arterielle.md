@@ -27,9 +27,9 @@ flowchart = true
 - Dépister l'hypertension artérielle dès 3 ans, au moins tous les 3 ans après 40 ans (annuellement selon la *USPTF*, 1/3 des adultes sont hypertendus et les 3/4 ne sont pas contrôlés)
 - Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet* et [tensiomètres validés]({{< relref "tensiometres-electroniques-valides.md" >}}))
 - Confirmer le diagnostic par mesures et automesures / MAPA répétées, conserver le grade et le stade d'hypertension au diagnostic
-- Recherche des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} ({{< scores/heartscore >}} en prévention primaire) (le LDL cible en découle)
+- Rechercher des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} ({{< scores/heartscore >}} en prévention primaire) pour déterminer le LDL cible
 - Traitement selon le grade d'hypertension (voir *Définitions*) et mesures hygiéno-diététiques systématiques
-- Les cibles tensionnelles dépendant du profil (120-129 / 70-79 mmHg avant 80 ans) et ne sont connues que pour les mesure au cabinet
+- Les cibles tensionnelles dépendent du profil (120-129 / 70-79 mmHg avant 80 ans) et ne sont valables que pour les mesures de tension au cabinet
 - Objectif d'un seul comprimé antihypertenseur combiné et informer sur les conséquences d'une hypertension non traitée ([accidents cardiovasculaires](/tags/risque-cardiovasculaire/), démence)
 - Bithérapies antihypertensives de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
 - [Le carnet d'automesure tensionnelle 2021 (PDF)](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf)

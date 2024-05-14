@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-17T14:11:29+02:00
 publishdate = "2020-06-17"
-lastmod = "2024-04-05"
+lastmod = "2024-05-14"
 specialites = ["addictologie"]
 annees = "2024"
 sources = ["Ameli"]
@@ -195,14 +195,14 @@ Débuter avec ces dosages le premier mois.
 
 {{< references/tabac-info-service >}}
 
-## Prise en charge par substituts nicotiniques {.my-5}
+## Prise en charge du sevrage tabagique par les substituts nicotiniques {.my-5}
 
-{{< mermaid title="Prise en charge de l'intention d'arrêt du tabac par substituts nicotiniques par le médecin généraliste. Dr JB Fron d'après HAS et Ameli" >}}
+{{< mermaid title="Prise en charge de l'arrêt du tabac chez le fumeur par substituts nicotiniques par le médecin généraliste. Dr JB Fron d'après HAS 2014 et Ameli" >}}
 graph TB
-  arrêt["<b>Intention d'arrêt</b>"] -- Oui --> TNS("<b>Sevrage</b><br>—<br>Date planifiée:<br>- Patchs et autres formes<br>- Suivi rapproché<br>- Tabac Info Service<br>- Soutien psychologique") -- "≥ 20 cig/j" --> vingt("Patch 21-25 mg/j<br>voire plusieurs<br>puis décroissance progressive")
-    arrêt -- Non --> réduction("Réduction envisagée ?") -- Oui --> patch("Poursuite du tabagisme<br>avec patch seul au<br>dosage adapté") -.-> TNS
-      TNS -- "&lt; 20 cig/j<br>ou Fagerström-2 bas" --> moins20("Patch 7-14 mg/j<br>puis décroissance progressive")
-  style arrêt stroke:#4150f5, stroke-width:1px
+  essai["Patient fumeur:<br>- « Avez-vous déjà envisagé<br>d'arrêter de fumer ?<br>Voulez-vous qu'on<br>prenne le temps d'en parler ? »<br>- Proposer une brochure"] -- Oui --> debut("<b>Intention</b><br>—<br>- Croyances, dépendance<br>- Conseiller d'arrêter<br>- Évaluer la motivation") --> arrêt("<b>Action</b><br>—<br>- Substituts nicotiniques<br>- Suivi hebdomadaire<br>- Appli Tabac Info<br>- Soutien psychologique") -- "≥ 20 cig/j" --> vingt("Patch 21-25 mg/j<br>voire plusieurs<br>puis décroissance progressive")
+    arrêt -- "&lt; 20 cig/j<br>ou Fagerström-2 bas" --> moins20("Patch 7-14 mg/j<br>puis décroissance progressive")
+    essai -- Non --> refus("<b>Pré-intention</b><br>—<br>- Conseiller d'arrêter:<br>« Savez-vous qu'il existe<br>des moyens pour vous aider<br>à arrêter de fumer et<br>à soulager les<br>symptômes de sevrage ?»<br>- Rappeler votre disponibilité<br>- Proposer une réduction<br>± patchs nicotiniques")
+  style essai stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 {{% modal title="Test de Fagerström de dépendance au tabac" id="modal-fagerstrom"%}}
 

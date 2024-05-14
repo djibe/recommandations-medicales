@@ -4,11 +4,11 @@
 <p>La version révisée du CKD-EPI de 2021 a retiré le concept de race qui est une conception humaine.</p>
 <div class="card-body card-util rounded-lg border my-5" id="form-gfr">
   <div class="d-block d-lg-flex form-gfr">
-    <div class="form-group floating-label textfield-box form-ripple mr-3">
+    <div class="form-group floating-label textfield-box form-ripple flex-grow-1 mr-3">
       <label for="gfr-age">Âge</label>
-      <input class="form-control" id="gfr-age" type="number" min="16" max="120">
+      <input class="form-control" id="gfr-age" type="number" min="18" max="122">
     </div>
-    <div class="form-group floating-label textfield-box form-ripple mr-3">
+    <div class="form-group floating-label textfield-box form-ripple flex-grow-1">
       <label for="gfr-creatinine">Créatininémie (mg/L)</label>
       <input class="form-control" id="gfr-creatinine" type="number" min="1" max="100" step="0.1">
     </div>
@@ -21,6 +21,7 @@
   <div class="mt-4">
     <label for="input-gfr">DFGe CKD-EPI 2021</label>
     <input class="form-control" id="input-gfr" type="text" placeholder="Préciser les valeurs" readonly>
+    <small class="form-text">mL/min/1,73 m²</small>
   </div>
 </div>
 <blockquote>

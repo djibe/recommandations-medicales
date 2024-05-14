@@ -25,7 +25,7 @@ todo = "socrisktest, WATCH-DM ESC2023 src480; EASD 2021 Table 2.3 et 2.4, https:
 
 Ce chapitre intègre les dernières recommandations SFD, ADA, ESC et ESH 2023 et ADA/EASD 2022 pour la prise en charge du diabète de type 2.
 
-- Dépister régulièrement un diabète si: +35 ans, prédiabète (annuel), diabète gestationnel (max tous les 3 ans), VIH, surpoids avec autre facteur de risque (antécédent familial, maladie cardiovasculaire, origines africaines/asiatiques/pacifiques, hypertension, HDL < 0,35 g/L, TG > 2,5 g/L, inactivité physique, [stéatose hépatique]({{< relref "steatose-hepatique-et-nash.md" >}}), acanthosis nigricans), Socrisktest ≥ 5 (*ADA 2023*)
+- Dépister régulièrement un diabète si: +35 ans, prédiabète (annuel), diabète gestationnel (max tous les 3 ans), VIH, surpoids avec autre facteur de risque (antécédent familial, maladie cardiovasculaire, origines africaines/asiatiques/pacifiques, PA > 130/80 mmHg ou traitée, HDL < 0,35 g/L, TG > 2,5 g/L, inactivité physique, [stéatose hépatique]({{< relref "steatose-hepatique-et-nash.md" >}}), acanthosis nigricans), Socrisktest ≥ 5 (*ADA 2023*)
 - Pour chaque personne vivant avec un diabète: définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
 - {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7%) et {{< modal-btn modal-hba1c-faussee >}}situations où l'HbA1c n'est pas fiable{{< /modal-btn >}}
 - Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}} rarement
@@ -104,7 +104,7 @@ SFD
 Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} (rarement bas ou modéré) {{%class%}}(risque CV x2-4){{%/class%}}.
 {.alert .alert-warning}
 
-- HbA<sub>1c</sub> cible: {{< modal-btn modal-hba1c >}}globalement **7%**{{< /modal-btn >}} {{%class%}}(SFD, ESC 2023){{%/class%}}
+- HbA<sub>1c</sub> cible: {{< modal-btn modal-hba1c >}}globalement **7%**{{< /modal-btn >}} (SFD, ESC 2023)
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (passif et électronique également) et alcool à moindre risque
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
   - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans - *ESH 2023* et 130/80 selon *ADA 2023*)
@@ -305,7 +305,7 @@ window.addEventListener('load', () => {
 - NFS, ferritinémie
 - ASAT, ALAT, GGT, {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}
 - Créatininémie et DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
-- Ratio albuminurie/créatininurie sur échantillon
+- Rapport albuminurie/créatininurie sur échantillon
 - Si HTA: ionogramme sanguin
 - Si obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme ou bas socio-éco: (NT-pro)BNP
 {{%/info%}}

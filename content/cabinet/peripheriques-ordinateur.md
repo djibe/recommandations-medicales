@@ -117,14 +117,14 @@ Classement composite d'après *LesNumerique*, *01Net* et autres, par ordre de qu
 - [Logitech MX Master 3 - 150€ (grandes mains)](https://ledenicheur.fr/product.php?p=5184666)
 - [Razer Pro Click - 100€](https://ledenicheur.fr/product.php?p=5542256)
 - [Logitech MX Anywhere 3 - 60€ (petites mains)](https://ledenicheur.fr/product.php?p=5542303)
-- [Logitech Lift - 60€ (ergonomique)](https://ledenicheur.fr/product.php?p=6220032)
 - [Logitech MX Anywhere 2S - 55€ (petites mains)](https://ledenicheur.fr/product.php?p=4354037)
 - [Steelseries Rival 3 Wireless - 40€](https://ledenicheur.fr/product.php?p=5576780)
 - [Razer Pro Click Mini - 80€ (petites mains)](https://ledenicheur.fr/product.php?p=5935454)
 - [Logitech G Pro Wireless - 80€](https://ledenicheur.fr/product.php?p=4960533)
 - [Microsoft Classic Intellimouse - 35€](https://ledenicheur.fr/product.php?p=4526662)
-- [Trust Verto (ergonomique recommandée par un Divanais) - 30€](https://www.amazon.fr/Trust-22879-Souris-Noir/dp/B07FM2GLNQ/ref=sr_1_5)
 {.list-group}
+
+Souris ergonomiques (par 01Net): [Logitech Lift (60 €)](https://ledenicheur.fr/product.php?p=6220032), R-Go HE Break, [Trust Verto Wireless (20 €)](https://fr.shopping.rakuten.com/offer/buy/3316798081/trust-verto-souris.html?bbaid=13044726097&t=6862148&eff_cpt=21749386)
 
 ### Ensembles clavier-souris
 
