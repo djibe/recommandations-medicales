@@ -1,6 +1,6 @@
 // From https://github.com/wildhaber/offline-first-sw
 
-const CACHE_VERSION = 1;
+const CACHE_VERSION = 2;
 
 const BASE_CACHE_FILES = [
   "/index.json",
@@ -165,7 +165,7 @@ function precacheUrl(url) {
   }
 }
 
-self.addEventListener("install", (event) => {
+self.addEventListener("appinstalled", (event) => {
   event.waitUntil(Promise.all([installServiceWorker(), self.skipWaiting()]));
 });
 
