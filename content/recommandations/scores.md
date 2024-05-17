@@ -10,9 +10,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-14T15:58:37+01:00"
 publishdate = "2021-12-14"
-lastmod = "2023-11-19"
+lastmod = "2024-05-17"
 specialites = []
-annees = "2023"
+annees = "2024"
 sources = []
 tags = ["risque cardiovasculaire"]
 anglais = []
@@ -56,6 +56,10 @@ HTA: [carnet international d'automesure tensionnelle (PDF)](https://www.stridebp
 ## Hépato-gastroentérologie {.typography-overline .mt-4}
 
 Fibrose hépatique avec {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}} annuel si: [obésité]({{< relref "obesite-adulte.md" >}}), [diabète de type 2]({{< relref "diabete-type-2.md" >}}), [VIH avec lipodystrophie]({{< relref "vih-sida.md" >}}), cytolyse inexpliquée, stéatose échographique
+
+## Néphrologie {.typography-overline}
+
+DFG selon {{< modal-btn modal-ckd-epi >}}CKD-EPI 2021{{< /modal-btn >}}.
 
 ## Neurologie {.typography-overline}
 
@@ -333,3 +337,9 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< scores/ipss >}}
 
 {{% /modal %}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
+
+{{% /modal %}}
+

@@ -28,7 +28,7 @@ Recommandations pour la prise en charge des infections urinaires (IU) de la fill
 - ECBU systématique si BU positive (ou < 1 mois, uropathie, neutropénie, SFU, fièvre inexpliquée > 48 heures, [échelle de Pittsburgh](https://uticalc.pitt.edu) prédictive d'IU) avant antibiothérapie
 - Pas d'ECBU de contrôle
 - Examen clinique rigoureux pour relever l'état clinique et les antécédents (uropathie, infections urinaires, immunodépression ++)
-- Prise en charge de la cystite aiguë de l'enfant (infection urinaire non fébrile): ECBU puis amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2 prises pendant 5 jours
+- Prise en charge de la cystite aiguë de l'enfant (infection urinaire non fébrile): ECBU puis amoxicilline - clavulanique 1,5 dose-kg (80 mg/kg/j, max 3 g/j) en 2 prises pendant 5 jours
 - Prise en charge de la pyélonéphrite aiguë (PNA) de l'enfant:
   - Hospitalisation si: < 3 mois, uropathie, immunodépression, lithiase urinaire, AEG, suspicion de sepsis, mauvaise compréhension familiale, cocci Gram+
   - Échographie des voies urinaires lors du premier épisode
@@ -87,7 +87,7 @@ La cystite est une infection urinaire **sans fièvre** et sans anomalie biologiq
 Prise en charge ambulatoire de la cystite aiguë (infection urinaire basse):
 
 - Fille pubère: traitement minute par fosfomycine sauf uropathie (voir [IU de l'adulte]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}))
-- <mark>[Amoxicilline - clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64550843&typedoc=R) 80 mg/kg/j (max 3 g/j) en 2 prises pendant 5 jours</mark>
+- <mark>[Amoxicilline - clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64550843&typedoc=R) 1,5 dose-kg (80 mg/kg/j, max 3 g/j) en 2 prises pendant 5 jours</mark>
 - Si allergie: [cotrimoxazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69464049&typedoc=R) 30 mg/kg/j (max 1,6 g/j) de SMX en 2 prises pendant 5 jours  
   ou [céfixime](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67547553&typedoc=R) 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 5 jours
 

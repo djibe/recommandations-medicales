@@ -127,7 +127,7 @@ Recommandations pour la prise en charge par antibiotiques de l'otite moyenne aig
 
 Antibiothérapie systématique pendant **10 jours**:
 
-- <mark>[Amoxicilline 80-100 mg/kg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66773446&typedoc=R) (max 3 g/j) en 2 prises</mark>
+- <mark>[Amoxicilline 80-100 mg/kg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66773446&typedoc=R) (max 3 g/j) en **2 prises**</mark>
 - Syndrome otite-conjonctivite: amoxicilline (idem ci-dessus) ou amoxicilline-acide clavulanique 80 mg/kg/j en 2 prises
 - Allergie: [céfpodoxime 8 mg/kg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67932983&typedoc=R) en 2 prises
 - Allergie aux bêta-lactamines: triméthoprime-sulfaméthoxazole 6/30 mg/kg/j (max 160/800 mg/j) en 2 prises
@@ -137,7 +137,7 @@ Antibiothérapie systématique pendant **10 jours**:
 Antibiothérapie si: symptômes mal tolérés, otorrhée ou aggravation après 48 heures de surveillance **pendant 5 jours** (10 jours si **otorrhée** ou **otite récidivante** > 4 jours après l'arrêt des antibiotiques):
 
 - <mark>Amoxicilline 80-100 mg/kg/j (max 3 g/j) en 2 prises</mark>
-- Syndrome otite-conjonctivite: amoxicilline (idem ci-dessus) ou amoxicilline-acide clavulanique 80 mg/kg/j en 2 prises (max 3 g/j)
+- Syndrome otite-conjonctivite: amoxicilline (idem ci-dessus) ou amoxicilline-acide clavulanique 1,5 dose-kg x 2/j (80 mg/kg/j en 2 prises, max 3 g/j)
 - Allergie: céfpodoxime 8 mg/kg/j (max 400 mg/j) en 2 prises
 - Allergie aux bêta-lactamines: triméthoprime-sulfaméthoxazole 6/30 mg/kg/j (max 160/800 mg/j) en 2 prises
 

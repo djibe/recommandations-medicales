@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2024-04-17"
+lastmod = "2024-05-17"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["SFD", "ESC", "ESH", "ADA", "EASD", "KDIGO", "HAS"]
@@ -121,14 +121,17 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 - Surpoids  
   Perte de poids (5-15 %), {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}} (sémaglutide) voire [chirurgie bariatrique]({{< relref "obesite-adulte.mdn" >}}).
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Dépister des {{< modal-btn modal-saos-diabete >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) {{%class%}}(50%){{%/class%}}
-- Dépistage des [cancers](/tags/cancer/) recommandés
-- Si maladie rénale chronique: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} systématique (dapa ou empagliflozine) et finérénone (non disponible en France)
+- Dépistages recommandés
+  - {{< modal-btn modal-saos-diabete >}}Apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}}
+  - [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) {{%class%}}(50%){{%/class%}}
+  - Participation au dépistage organisé des [cancers](/tags/cancer/)
+- Si maladie rénale chronique: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} systématique  
+  {{%class%}}et finérénone (non disponible en France){{%/class%}}
 - Soutien psychologique
-- [Programme d'accueil de la FFD](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kitb)
+- Association de patients: [programme d'accueil de la FFD](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kitb)
 - Déclarer l'[ALD n°8]({{< relref "affection-longue-duree.md" >}}) et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
 
-> Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*)
+> Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75 %. – *ESC 2019 diabetes*
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -145,7 +148,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 <div class="card-util">
 <div class="bg-primary-light rounded-lg p-4 my-4">
   <div class="m-0">
-    <legend>Comorbidités</legend>
+    <p class="typography-headline-5">Comorbidités</p>
     <input type="radio" name="assistant" id="standard" class="d-input-none" checked>
     <label for="standard" class="chip chip-action chip-choice">Sans</label>
     <input type="radio" name="assistant" id="obese" class="d-input-none">
@@ -170,7 +173,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 <button class="chip chip-action choix-mrc choix-ic choix-mcv" type="button" data-toggle="modal" data-target="#modal-isglt2">+ iSGLT2</button>
 <button class="chip chip-action choix-mcv" type="button" data-toggle="modal" data-target="#modal-glp1">ou GLP-1</button>
 <p class="my-2 choix-ic">Suspendre la metformine en cas de décompensation</p>
-<p class="font-weight-bold my-2">La metformine doit être maintenue au long cours <span class="font-weight-normal choix-mrc">(suspendue sous 30 mL/min)</span></p>
+<p class="font-weight-bold my-2">La metformine doit être maintenue au long cours <span class="font-weight-normal choix-mrc">(suspendue sous 30 mL/min).</span></p>
 <!-- 2e intention -->
 <p class="text-primary typography-overline mt-4 choix-standard choix-obese">Deuxième ligne - Ajouter au choix</p>
 <p class="mt-4 text-black-secondary">Possibilité de proposer d'emblée une bithérapie si déséquilibre initial important (HbA<sub>1c</sub> &gt; 8,5 %)</p>
@@ -380,6 +383,7 @@ window.addEventListener('load', () => {
 - {{< references/calendrier-vaccinal >}}
 - [HAS, ANRS. Traitement de la Covid-19. 22/12/2023.](https://www.has-sante.fr/jcms/p_3447571/fr/traitement-de-la-covid-19)
 - {{< references/sfd-dt2-2023 >}}
+- [Diévart F et al. Quand et comment utiliser les inhibiteurs de la SGLT2 ou gliflozines en pratique clinique ? Nephrol Ther. 2023.](https://hal.science/hal-04541399)
 - {{< references/esc-diabetes-2023 >}}
 - {{< references/esh-2023 >}}
 - {{< references/ada-soc >}}
