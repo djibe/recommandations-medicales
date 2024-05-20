@@ -71,7 +71,7 @@ et aussi...
 - Flux RSS  
   Pour se tenir informé des nouveaux chapitres sans naviguer de site en site.
 - Diffusé  
-  Nouveautés partagées par newsletter ou sur Twitter, Facebook et LinkedIn.
+  Nouveautés partagées par newsletter ou sur X/Twitter, Facebook et LinkedIn.
 
 ## Ce qui manque pour le moment
 
