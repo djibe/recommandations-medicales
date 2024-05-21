@@ -6,8 +6,8 @@ description = "Apprendre à créer sa carte e CPS afin de bénéficier de connex
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-20T09:00:00+02:00"
 publishdate = "2022-01-20"
-lastmod = "2022-06-18"
-annees = "2023"
+lastmod = "2024-05-21"
+annees = "2024"
 sources = ["ANS"]
 tags = []
 image = true
@@ -56,12 +56,16 @@ Vous pouvez maintenant vous connecter à certains services avec votre smartphone
 
 Cette étape va passer par l'adresse de courriel associée à votre compte ordinal et nécessite un 2<sup>e</sup> appareil pour afficher le QR code à venir.
 
-1. Depuis le téléphone, aller sur <https://wallet.esw.esante.gouv.fr>
-2. Cliquer sur le bouton **PROSANTECONNECT**
-3. Entrez votre numéro RPPS **précédé d'un 8**
-4. Consulter le mail sur le 2<sup>e</sup> appareil et scanner le QR code avec l'appli e-CPS
-5. Demander la réception du SMS, l'activation est normalement automatique
-6. Choisir un code PIN
+1. Depuis le store, télécharger l'application e-CPS et la lancer
+2. Appuyer sur **Commencer l'activation**
+3. Faire défiler le texte de la license puis appuyer sur **Accepter**
+4. Appuyer sur le bouton **Envoyer une demande d'activation**
+5. Entrez votre numéro RPPS **précédé d'un 8** puis confirmer en appuyant sur l'icône loupe
+6. Les coordonnées personnelles renseignées auprès du CNOM apparaissent, confirmer en appuyant sur **Envoyer ma demande d'activation**
+7. Consulter le mail sur le 2<sup>e</sup> appareil
+8. Sur l'appli e-CPS, appuyer sur **Scanner un QR code** et scanner le QR code
+9. Demander la réception du SMS, l'activation est normalement automatique
+10. Choisir un code PIN et le confirmer
 
 ### Le guide d'installation en vidéo
 

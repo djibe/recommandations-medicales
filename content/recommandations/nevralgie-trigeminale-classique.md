@@ -213,8 +213,9 @@ Autres diagnostics responsables de douleurs faciales à étayer:
 
 ### IRM cérébrale 3T
 
-IRM cérébrale systématique pour la recherche d'un conflit vasculo-nerveux (NTC) ou le diagnostic différentiel (NTD).  
-Avec **séquences spécifiques**.
+IRM cérébrale systématique pour la recherche d'un conflit vasculo-nerveux (NTC) ou le diagnostic différentiel (NTD).
+
+L'IRM cérébrale est réalisée avec des séquences d'acquisitions spécifiques.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la névralgie du trijumeau" %}}

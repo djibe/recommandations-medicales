@@ -18,6 +18,7 @@ icd10 = "A46"
 image = true
 imageSrc = "Érysipèle de jambe droite. Grook Da Oger, CC BY-SA 3.0 via Wikimedia Commons"
 flowchart = true
+todo = "dose chez l'insuffisant rénal"
 +++
 
 {{%article-summary%}}

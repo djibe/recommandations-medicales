@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-11-20T09:08:48+01:00"
 publishdate = "2023-11-20"
-lastmod = "2023-11-20"
+lastmod = "2024-05-17"
 specialites = ["dermatologie", "therapeutique"]
 annees = "2023"
-sources = ["CEDEF"]
+sources = ["EDF"]
 tags = ["atopie"]
 anglais = ["Topical corticosteroids"]
 sctid = ""
@@ -34,6 +34,9 @@ imageSrc = "Tube de dermocorticoïde en crème. Dr JB Fron"
 
 {{%sources%}}
 
-Autre bibliographie: [Wollenberg A et al; European Task Force on Atopic Dermatitis/EADV Eczema Task Force. ETFAD/EADV Eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children. J Eur Acad Dermatol Venereol. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16892)
+Autres bibliographies:
+
+- [Wollenberg A et al. First update of the living European guideline (EuroGuiDerm) on atopic eczema. J Eur Acad Dermatol Venereol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.19269)
+- [Wollenberg A et al; European Task Force on Atopic Dermatitis/EADV Eczema Task Force. ETFAD/EADV Eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children. J Eur Acad Dermatol Venereol. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16892)
 
 {{%/sources%}}

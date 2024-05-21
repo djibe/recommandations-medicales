@@ -23,7 +23,7 @@ todo = "https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.pdf"
 
 {{%article-summary%}}
 
-- La diverticulose colique est asymptomatique dans 80% des cas
+- La diverticulose colique est asymptomatique dans 80 % des cas
 - Première poussée de diverticulite sigmoïdienne aiguë (*ex* sigmoïdite diverticulaire): diagnostic systématique par scanner abdomino-pelvien
 - Pas d'antibiotiques en cas de crise de diverticulite non compliquée, sans gravité et sans grossesse durant les 48 premières heures
 - Chirurgie prophylactique des diverticules en cas de comorbidités:  
@@ -36,17 +36,17 @@ Diverticulite sigmoïdienne aiguë
 : *ex* sigmoïdite diverticulaire (aussi appelée diverticulite colique ou sigmoïdite aiguë)
 : Inflammation infectieuse colique d'origine diverticulaire survenant le plus souvent entre 50 et 70 ans. L'atteinte du côlon droit est prédominante en Asie.
 : Facteurs de risque de diverticulite sigmoïdienne: âge, hérédité, [obésité]({{< relref "obesite-adulte.md" >}}).  
-30% de récidives à 5 ans. 16 à 35% se compliquent d'abcès.
+30% de récidives à 5 ans. 16 à 35 % se compliquent d'abcès.
 
 Diverticulose du côlon
 : Anomalie anatomique du côlon acquise caractérisée par la présence de diverticules.  
-Elle est asymptomatique dans 80% des cas.
+Elle est asymptomatique dans 80 % des cas.
 
 ### Complications d'une poussée de diverticulite
 
 Les complications des poussées de diverticulite sigmoïdienne (*ex* sigmoïdite diverticulaire) surviennent principalement à la première poussée.
 
-Le traitement de la **diverticulite compliquée** (12% des cas) est urgent et spécialisé:
+Le traitement de la **diverticulite compliquée** (12 % des cas) est urgent et spécialisé:
 
 - Abcès
 - Fistule sigmoïdienne
@@ -80,7 +80,7 @@ Triade de symptômes d'une poussée de diverticulite sigmoïdienne aiguë:
 - Fièvre, sepsis
 - Troubles du transit
 
-> Le diagnostic clinique de poussée de diverticulite est erroné dans plus de 50% des cas (*[Werner 2003](https://doi.org/10.1007/s00330-003-1887-7)*)
+> Le diagnostic clinique de poussée de diverticulite est erroné dans plus de 50 % des cas. – *[Werner 2003](https://doi.org/10.1007/s00330-003-1887-7)*
 {.alert .alert-info}
 
 Facteurs prédictif de complication:

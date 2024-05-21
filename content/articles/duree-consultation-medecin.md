@@ -43,6 +43,10 @@ La réticence des médecins à enregistrer les consultations afin de mieux mesur
 - [Irving G et al. International variations in primary care physician consultation time: a systematic review of 67 countries. BMJ Open. 2017.](https://bmjopen.bmj.com/content/7/10/e017902)
 - [Breuil-Genier P. La durée des séances des médecins généralistes. Études et résultats. 2006.](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/la-duree-des-seances-des-medecins-generalistes)
 
+### Bibliographie en attente
+
+[Chaput H et al. Deux tiers des médecins généralistes libéraux déclarent travailler au moins 50 heures par semaine. Drees. 2019.](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/publications/etudes-et-resultats/article/deux-tiers-des-medecins-generalistes-liberaux-declarent-travailler-au-moins-50)
+
 <script>
 const chartOptions1 = {
   series: [{

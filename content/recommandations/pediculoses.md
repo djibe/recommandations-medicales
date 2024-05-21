@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-18T18:48:00+02:00"
 publishdate = "2021-04-21"
-lastmod = "2023-12-05"
+lastmod = "2024-05-21"
 specialites = ["dermatologie"]
 annees = "2023"
 sources = ["Collèges", "CSHP", "SFD"]
@@ -16,7 +16,7 @@ sctid = "20848007"
 icd10 = "B85.2"
 image = true
 imageSrc = "Poux extrait du crâne. CC BY-SA 3.0 via Wikimedia Commons"
-todo = "rankok, modèle école, https://cpias-occitanie.fr/wp-content/uploads/2019/06/P%C3%A9diculoses-2019.pdf, TTT"
+todo = "rankok, modèle école"
 flowchart = true
 +++
 
@@ -26,7 +26,7 @@ flowchart = true
 - Les poux sont très rarement visibles
 - Examen et prise en charge de l'entourage d'un cas de pédiculose
 - Prise en charge des poux avec traitement par diméticone lotion appliquée à J1 et J7, peigne anti-poux et décontamination des linge, literie et accessoires
-- Prévenir l'école d'un cas de pédiculose
+- Prévenir l'école d'un cas de pédiculose mais sans éviction obligatoire
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -116,7 +116,8 @@ La prise en charge des poux doit être systématique.
 - Répéter le traitement à J7 (ou J10)
 - Décontamination de la literie, poupées/peluches, accessoires  
   Lavage: 60°C ou éviction 10 jours + lavage long.
-- Prévenir l'école
+- Prévenir l'école / crèche (directeur)
+- << Une éviction scolaire n'est pas obligatoire pour un enfant infesté par des poux. >> (*Ameli*), sous réserve de traitement et l'absence d'[impétigo]({{< relref "infection-cutanee-bacterienne.md" >}})
 - Contrôle clinique à J12  
   Retraiter si persistance.
 
@@ -148,11 +149,12 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ameli. Poux : comment s'en débarrasser ? 06/12/2023.](https://www.ameli.fr/assure/sante/themes/poux/bons-reflexes)
 - [Collège des enseignants de dermatologie de France (CEDEF). Ectoparasitoses cutanées : gale et pédiculose. Item 171. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-171-%E2%80%94-Ectoparasitoses-cutanees-gale-et-pediculose_CompressPdf.pdf)
 - [CMIT. Gale et pédiculose. Item 171. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-171.pdf)
 - Prescrire Redaction. Pédiculose du cuir chevelu. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Jegou-Penouil MH. Les poux. Dermato-Info. 02/12/2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/les-poux)
-- [Chosidow O; Société Française de Dermatologie. Prise en charge de la pédiculose du cuir chevelu en 2019 en France. Mise au point. Novembre 2019. (PDF)](https://www.sfdermato.org/media/pdf/actualite/note-pediculos-sfd-gridist-51283d08cd07c9ac26310a6d2669ff30.pdf)
+- [Chosidow O; Société Française de Dermatologie. Prise en charge de la pédiculose du cuir chevelu en 2019 en France. Mise au point. 2019. (PDF)](https://www.sfdermato.org/media/pdf/actualite/note-pediculos-sfd-gridist-51283d08cd07c9ac26310a6d2669ff30.pdf)
 - [Conseil Supérieur d'Hygiène Publique de France. Avis relatif à la conduite à tenir devant un sujet atteint de pédiculose du cuir chevelu. 27/06/2003. (PDF)](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=a_mt_270603_pediculose.pdf)
 
 ### Bibliographie en attente
