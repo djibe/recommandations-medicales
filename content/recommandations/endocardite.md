@@ -168,6 +168,7 @@ Pour le traitement des endocardites infectieuses, lire {{< references/spilf-2020
 
 ### Bibliographie en attente
 
+- [HAS. Prise en charge bucco-dentaire des patients à haut risque d'endocardite infectieuse. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3301328/fr/prise-en-charge-bucco-dentaire-des-patients-a-haut-risque-d-endocardite-infectieuse)
 [Delgado V et al. 2023 ESC Guidelines for the management of endocarditis. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad193/7243107)
 
 {{%/sources%}}

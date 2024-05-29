@@ -23,8 +23,9 @@ flowchart = true
 
 - Une angine est toujours virale avant 3 ans (et l'est pour 80% des cas ensuite)
 - Test de diagnostic rapide (TDR ou TROD) du streptocoque devant une angine érythémateuse ou érythémato-pultacée de 3 à 14 ans et score clinique de Mac Isaac au-delà
-- Prise en charge de l'angine par traitement antibiotique en cas de TDR positif:
+- Prise en charge de l'angine streptococcique par traitement antibiotique (TDR positif):
   - Éviction scolaire les 48 premières heures suivant l'instauration de l'antibiothérapie (*CMIT 2023*)
+  - **NB.** Le CNGE ne préconise une antibiothérapie qu'en cas de scarlatine ou de symptômes intenses
   - Adulte: amoxicilline 1 g 2 fois par jour pendant 6 jours
   - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises/j pendant 6 jours
   - Antibiothérapie aussi indiquée pour l'angine de Vincent, la diphtérie, le gonocoque et le [chancre syphilitique]({{< relref "syphilis.md" >}})
@@ -230,7 +231,7 @@ Indications à une amygdalectomie chez l'enfant:
 
 > – *SFORL 2020*
 
-Antalgie après amygdalectomie: paracétamol + ibuprofène, voire tramadol ou morhpine.
+Antalgie après amygdalectomie: paracétamol + ibuprofène, voire tramadol ou morphine.
 
 ### Troubles respiratoires du sommeil de l'enfant
 
@@ -277,5 +278,9 @@ graph TB
 - [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - Collège Français d'ORL et de Chirurgie Cervico-faciale. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 146 UE6.
+
+### Bibliographie en attente
+
+[Conseil scientifique du Collège National des Généralistes Enseignants (CNGE). Antibiotiques dans l'angine à streptocoque A : faut-il continuer ? Avis du conseil scientifique. 2024. (PDF)](https://www.cnge.fr/wp-content/uploads/2024/05/240430_CS_CNGE-angine_Vsite.pdf)
 
 {{%/sources%}}

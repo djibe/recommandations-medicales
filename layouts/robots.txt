@@ -19,6 +19,12 @@ Disallow: /
 User-agent: Omgili
 Disallow: /
 
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Applebot
+Disallow: /
+
 User-agent: cohere-ai
 Disallow: /
 
@@ -35,6 +41,15 @@ User-agent: anthropic-ai
 Disallow: /
 
 User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: YouBot
 Disallow: /
 
 User-agent: The Knowledge AI

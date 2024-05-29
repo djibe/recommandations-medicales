@@ -40,7 +40,7 @@ Bronchiolite aiguë (BA)
 : Premier épisode aigu de gêne respiratoire (rhinite suivie de signes respiratoires: toux, sibilants, crépitants ± polypnée ± signes de lutte) du nourrisson de moins de 12 mois à tout moment de l'année.
 : Persistance des signes d'obstruction respiratoire pendant 8-10 jours et une toux résiduelle peut persister 15 jours.  
 Guérison spontanée le plus souvent en 3-4 semaines.  
-Taux de récidive élevé: 23 à 60% avant 2 ans.
+Taux de récidive élevé: 23 à 60 % avant 2 ans.
 : Tabagisme passif: facteur de risque majeur de bronchiolite et augmente le risque d'hospitalisation. Le tabagisme pendant la grossesse augmente le risque de BA et la gravité chez le prématuré.
 
 Asthme du nourrisson
@@ -274,7 +274,7 @@ Indications à la prévention de la bronchiolite par une immunisation passive av
 - Par un généraliste, pédiatre, ~~sage-femme~~ ou infirmier sur prescription
 - Effets indésirables possibles: rash, induration, fièvre
 - Disponible en pharmacie à partir du 15 septembre 2023 jusqu'à la fin de l'épidémie (fin janvier)
-- Intégralement remboursé
+- Remboursé à 30 % (401,80 €)
 
 Le nirsévimab est efficace au moins 5 mois.
 

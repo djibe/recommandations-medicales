@@ -46,7 +46,7 @@ OU ≥ 3 cas de la même branche (quelque soit le degré de parenté et l'âge d
 - Antécédents familiaux de cancer du pancréas (CaPaFa)
 - [Diabète de type 2]({{< relref "diabete-type-2.md" >}}) ancien (x 1,5-3)
 - [Tabac]({{< relref "arret-tabac.md" >}})
-- [Obésité]({{< relref "obesite-adulte.md" >}}) (+45% d'incidence quand IMC > 35)
+- [Obésité]({{< relref "obesite-adulte.md" >}}) (+45 % d'incidence quand IMC > 35)
 - Pancréatite chronique
 - Mutation BRCA1 et BRCA1
 - Néoplasie endocrinienne multiple type 1 (NEM1) et autres mutations
@@ -257,6 +257,8 @@ graph TB
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< youtube id="BInhR4vlfH0" title="Cancer du pancréas : pourquoi ça augmente ? (TutoGastro SNFGE)" >}}
 
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}

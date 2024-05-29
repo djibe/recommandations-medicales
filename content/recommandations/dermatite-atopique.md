@@ -7,10 +7,10 @@ synonyms = ["Eczéma atopique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-02T17:43:41+02:00
 publishdate = "2021-11-29"
-lastmod = "2024-03-22"
+lastmod = "2024-05-23"
 specialites = ["allergologie", "dermatologie"]
-annees = "2020"
-sources = ["EADV", "SFD", "CEDEF"]
+annees = "2023"
+sources = ["EDF", "EADV", "SFD"]
 tags = ["atopie", "prurit"]
 anglais = ["Atopic dermatitis (AD)"]
 sctid = "24079001"
@@ -18,7 +18,7 @@ icd10 = "L20.9"
 flowchart = true
 image = true
 imageSrc = "Eczéma lichénifié du dos de la main. Care_SMC sur Foter.com / CC BY-ND"
-todo = "phalangette, préparations CHRU, impétiginisation"
+todo = "phalangette"
 +++
 
 {{%article-summary%}}
@@ -78,8 +78,14 @@ DC
 EADV
 : {{%lang%}}European Academy of Dermatology and Venereology{{%/lang%}}
 
+EDF
+{{%lang%}}European Dermatology Forum{{%/lang%}}
+
 SCORAD
 : {{%lang%}}SCORing Atopic Dermatitis{{%/lang%}}
+
+SFD
+: Société Française de Dermatologie
 {.dl-inline}
 
 {{% /collapse %}}
@@ -88,7 +94,7 @@ SCORAD
 ### Critères diagnostiques de Williams de la dermatite atopique (*US Working Party 1994*)
 
 - [Prurit](/tags/prurit/)  
-  ou troubles du sommeil chez le nourrisson
+  ou troubles du sommeil chez le nourrisson.
 - et ≥ 3 critères parmi:
   - Début avant 2 ans
   - Antécédent de lésions des convexités
@@ -131,8 +137,7 @@ Siège généralement épargné, parfois sur le cuir chevelu: squames et croûte
 
 #### Dermatite atopique de l'enfant après 2 ans
 
-Lésions aux plis (cou, coudes, poplités) et extrémités (mains, poignets, chevilles, mamelons). Lichénification fréquente (épaississement par grattage lié au prurit).  
-Souvent aggravation automno-hivernale, amélioration estivale.
+Lésions aux plis (cou, coudes, poplités) et extrémités (mains, poignets, chevilles, mamelons). Lichénification fréquente (épaississement par grattage lié au prurit). Souvent **aggravation automno-hivernale**, amélioration estivale.
 
 Au visage, parfois des lésions hypopigmentées, parfois rosées finement squameuses (été ++): eczématides/dartres achromiantes/pytiriasis alba.  
 Régressent toujours, attribuées à tort aux DC.
@@ -165,11 +170,11 @@ Indications au bilan allergologique pour eczéma:
 {{% /collapse %}}
 {{%collapse "Traitement de fond de la dermatite atopique" %}}
 
-La prise en charge de la dermatite atopique est symptomatique avec **lutte contre la xérose** cutanée en dehors des poussées.
+La prise en charge de la dermatite atopique est symptomatique avec **lutte contre la xérose** cutanée par les émollients pendant et en dehors des poussées.
 
 ### Émollients remboursés
 
-Application 1 à 2 fois/j au long cours en couche épaisse (1 kg/mois chez l'adulte, prévoir 30 minutes d'application, doubler la dose par temps froid et sec):
+Application 1 à **2 fois/j** au long cours en couche épaisse après le bain (1 kg/mois chez l'adulte, prévoir 30 minutes d'application, doubler la dose par temps froid et sec):
 
 - Niveau 1  
   - Émollients: lait, gel, crème ou pommade
@@ -190,7 +195,7 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 
 - Éviter les facteurs favorisants  
   - Stress, détergents, savons, laine. Préférer coton, soie, polyesters à fibres fines
-  - Bain court quotidien ou 1j/2 ou douche avec température tiède, pains ou gels surgras sans savon
+  - Bain court (ou douche) avec température tiède, pains ou gels surgras sans savon
   - Sécher en tamponnant plutôt que frottant
   - Pas d'intérêt de lessive spécifique
   - Ongles courts
@@ -217,7 +222,7 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 
 **NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (*EADV* et Pr D. Staumont *Dermato-Info*) car sans efficacité sur le prurit. En visée sédative, recours à l'[hydroxyzine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61162294&typedoc=R).
 
-Acupuncture, homéopathie et phytothérapie déconseillées par la *SFD*, pas d'efficacité des eaux thermales.
+Acupuncture, homéopathie et phytothérapie déconseillées par la *SFD* et l'*EDF*, pas d'efficacité des eaux thermales.
 {.alert .alert-warning}
 
 ### Suivi de la dermatite atopique sévère
@@ -226,15 +231,16 @@ Acupuncture, homéopathie et phytothérapie déconseillées par la *SFD*, pas d'
 - Suivi médical régulier
 - [École de l'atopie](https://www.fondationeczema.org/etre-accompagne/trouver-un-expert)
 
-#### Pour en savoir plus: Traitements spécialisés de l'eczéma sévère
+#### Pour en savoir plus: traitements spécialisés de l'eczéma sévère
 
 Traitements de la dermatite atopique sur prescription spécialisée uniquement:
 
 - Inhibiteur de la calcineurine: tacrolimus topique (Takrozem®, Protopic®)
 - Photothérapie UVA ou UVB
-- Rétinoïdes
-- Ciclosporine, [méthotrexate]({{< relref "methotrexate.md" >}})
-- Anticorps monoclonaux anti-R IL-4 dupilumab (Dupixent®)
+- Rétinoïdes (alitrétinoïne)
+- Ciclosporine, [méthotrexate]({{< relref "methotrexate.md" >}}), azathioprine
+- Anticorps monoclonaux dupilumab (Dupixent®), tralokinumab (Adtralza®)
+- Inhibiteur des Janus kinases: abrocitinib (Cibinqo®), baricitinib (Olumiant®), upadacitinib (Rinvoq®)
 
 {{% /collapse %}}
 {{%collapse "Traitement des poussées de dermatite atopique" %}}
@@ -280,6 +286,7 @@ accTitle: Conduite à tenir devant une suspicion de dermatite atopique et prise 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Wollenberg A et al. First update of the living European guideline (EuroGuiDerm) on atopic eczema. J Eur Acad Dermatol Venereol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.19269)
 - [Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéomuqueuses chez l'enfant et l'adulte. urticaire, dermatites atopique et de contact. Item 187. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-187-%E2%80%94-Hypersensibilites-et-allergies-cutaneo-muqueuses-chez-lenfant-et-ladulte.-Urticaire-dermatites-atopique-et-de-contact_CompressPdf.pdf)
 - [Ridd MJ et al. Effectiveness and safety of lotion, cream, gel, and ointment emollients for childhood eczema: a pragmatic, randomised, phase 4, superiority trial. Lancet Child Adolesc Health. 2022.](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(22)00146-8/fulltext)
 - [Staumont D. La dermatite atopique. Dermato-Info. 29/05/2021.](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-dermatite-atopique)
@@ -289,8 +296,7 @@ accTitle: Conduite à tenir devant une suspicion de dermatite atopique et prise 
 
 ### Bibliographie en attente
 
-- [European Dermatology Forum. Living EuroGuiDerm Guideline for the systemic treatment of Atopic Eczema. 2023.](https://www.guidelines.edf.one/guidelines/atopic-ezcema)
-- [Xu AZ, Alexander JT. Topical Therapies for Atopic Dermatitis. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811421)
+[Xu AZ, Alexander JT. Topical Therapies for Atopic Dermatitis. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811421)
 
 {{%/sources%}}
 {{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}
