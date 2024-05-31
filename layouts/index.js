@@ -182,7 +182,7 @@ self.addEventListener("activate", (event) => {
   );
 });
 
-self.addEventListener("fetch", (event) => {
+/* self.addEventListener("fetch", (event) => {
   event.respondWith(
     caches.open(CACHE_VERSIONS.content).then((cache) => {
       return cache
@@ -272,6 +272,7 @@ self.addEventListener("fetch", (event) => {
     })
   );
 });
+*/
 
 self.addEventListener("message", (event) => {
   if (typeof event.data === "object" && typeof event.data.action === "string") {

@@ -25,7 +25,7 @@
   "screenshots": [
     {
      "src": "/images/icons/pwa.jpg",
-      "sizes": "1907x966",
+      "sizes": "1920x1080",
       "type": "image/jpg",
       "form_factor": "wide",
       "label": "RecoMédicales sur ordinateur"
