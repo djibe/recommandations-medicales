@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
 lastmod = "2024-04-26"
-specialites = ["infectiologie"]
+specialites = ["infectiologie", "ORL"]
 annees = "2022"
 sources = ["HCSP", "SPILF", "HAS"]
 tags = ["nourrisson", "toux"]
@@ -251,7 +251,7 @@ graph TB
     durée -- 15-21j --> PCR(PCR) -- Positive --> traitement
       les2 -- Négative --> différentiel("<b>Diagnostic différentiel</b><br>—<br>- Mycoplasme, Chlamydia<br>- Grippe<br>- Tuberculose<br>- Sinusite<br>- Allergie<br>- RGO<br>- Tumeur<br>- Corps étranger<br>- Iatrogène<br>- Psychogène")
       PCR -- Négative --> différentiel
-    durée -- &gt; 21j --> clinique(Clinique)
+    durée -- &gt; 21j --> clinique(Clinique) --> abstention("- Mesures générales<br>- Pas d'antibiothérapie")
 {{< /mermaid >}}
 
 {{% /collapse %}}

@@ -203,6 +203,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Doleman B et al. Appendectomy versus antibiotic treatment for acute appendicitis. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015038.pub2/full/fr)
 - [Ameli. L'appendicite aiguë : symptômes, diagnostic et évolution. 27/11/2023.](https://www.ameli.fr/assure/sante/themes/appendicite-aigue/symptomes-diagnostic-evolution)
 - [Collard MK et al. Appendicite de l'adulte : recommandations pour la pratique clinique de la Société française de chirurgie digestive (SFCD) et de la Société d'imagerie abdominale et digestive (SIAD). Journal de Chirurgie Viscérale. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S1878786X20304447)
 - Collège Français de Chirurgie Générale, Viscérale et Digestive. Appendicite de l'enfant et de l'adulte. Item 351 - UE11. Chirurgie générale, viscérale et digestive. 2e édition.

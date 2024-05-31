@@ -1,29 +1,32 @@
 +++
 title = "Phimosis"
 prefix = "le "
-description = "Recommandations pour le diagnostic et la prise en charge du phimosis. Applications de dermocorticoïdes et repousser la chirurgie après 3 voire 6 ans"
+description = "Recommandations pour le diagnostic et la prise en charge du phimosis. Prépuce étroit après 8 ans: applications de dermocorticoïdes 8 semaines voire chirurgie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:35:35+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-12-30"
-specialites = ["urologie"]
-annees = "2000"
-sources = []
-tags = []
+lastmod = "2024-05-31"
+specialites = ["urologie", "pediatrie"]
+annees = "2021"
+sources = ["CNPU"]
+tags = ["enfant", "nourrisson"]
 anglais = ["Phimosis"]
 sctid = "449826002"
 icd10 = "N47"
 image = false
 imageSrc = ""
-todo = "sources +++"
+todo = "sources"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Ne pas manipuler le phimosis physiologique du nouveau-né
-- Pas de prise en charge du phimosis avant 3 ans (6 ans pour certains)
+- Le phimosis correspond à un étroitesse du prépuce prédominant sur<br>l'anneau distal, empêchant plus<br>ou moins sa rétractation
+- Le phimosis du nouveau-né est physiologique et ne doit pas être manipulé
+- Absence de prise en charge du phimosis avant 7-8 ans
+- Le traitement d'un phimosis après 8 ans peut être débuté par application de [dermocorticoïde fort]({{< relref "dermocorticoides.md" >}}) 1 à 2 fois par jour accompagnée de manœuvres douces pendant 6 à 8 semaines
+- La chirurgie du prépuce est réservée aux phimosis résistants aux dermocorticoïdes
 - Jamais de manœuvres de rétractions forcées du prépuce quelque soit l'étiologie du phimosis
 
 {{%/article-summary%}}
@@ -80,6 +83,12 @@ Selon Branger (France)
 - Gêne mictionnelle  
   Les examens de débitmétrie ou d'échographie n'objectivent que rarement un réel retentissement (même si le prépuce se ballonise). Surtout retrouvé dans les phimosis serrés secondaires de l'adulte.
 
+### Abréviation
+
+CNPU
+: Collège National des Pédiatres Universitaires
+{.dl-inline}
+
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
@@ -104,9 +113,8 @@ Définir si le phimosis est physiologique persistant ou secondaire.
 Recommandations pour la prise en charge du phimosis:
 
 - Ne pas manipuler le phimosis physiologique du nouveau-né
-- Respecter les adhérences balano-préputiales jusqu'à 3 voire 5 ans
 - **Jamais de manœuvres de rétractions forcées quelque soit l'étiologie du phimosis**
-- Pas de traitement médical/chirurgical du phimosis avant 3 ans (6 ans pour certains)
+- Pas de traitement médical/chirurgical du phimosis avant 7-8 ans
 
 Le traitement chirurgical s'adresse aux échecs du traitement médical et du phimosis acquis très scléreux
 {.alert .alert-info}
@@ -141,35 +149,32 @@ Méthodes chirurgicales:
 ### Traitement des complications
 
 - Posthite et balano-posthite  
-  Antiseptique local. Type Dakin® ou chlorhexidine aqueuse dilué dans ⅔ d'eau, matin et soir pendant 5 minutes, 5 jours.
+  Antiseptique local type Dakin® ou chlorhexidine aqueuse dilué dans ⅔ d'eau, matin et soir pendant 5 minutes, 5 jours.
 - Paraphimosis  
   Urgence chirurgicale. Contexte de manipulation de phimosis.  
   Prévention: éviter les manipulations des phimosis, toujours recalotter après la pose de sonde urinaire.
 - Dysurie vraie  
-  Chirurgie ± conservatrice
+  Chirurgie ± conservatrice.
 
 {{% /collapse %}}
-{{%sources%}}
-
-- [Moreno G et al. Topical corticosteroids for treating phimosis in boys. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008973.pub3/full/fr)
-- Dr Biserte CHRU Lille (Urologie 2008, JPP 2009)
-- Dr Panait HFME Bron
-
-### Bibliographie en attente
-
-[Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pathologies courantes de la région inguino-scrotale et du pénis. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/pathologies)
-
-{{%/sources%}}
 {{%collapse "Prise en charge du phimosis" "show" %}}
 
-{{< mermaid title="Prise en charge du phimosis par le médecin généraliste. Dr JB Fron d'après Biblio" >}}
+{{< mermaid title="Prise en charge du phimosis par le médecin généraliste. Dr JB Fron d'après Bibliographie" >}}
 graph TB
-  phimosis["<b>Phimosis</b><br>—<br>Étroitesse du prépuce prédominant sur<br>l’anneau distal, empêchant plus<br>ou moins sa rétractation"] --> forcées("Jamais de manœuvres de<br>rétractions forcées du prépuce") --> âge(Âge) -- "&lt; 3-6 ans" --> abstention(Abstention)
+  phimosis["<b>Phimosis</b>"] --> forcées("Jamais de manœuvres de<br>rétractions forcées du prépuce") --> âge(Âge) -- "&lt; 3-6 ans" --> abstention(Abstention)
     âge -- "≥ 3-6 ans" --> dermocorticoïdes("Dermocorticoïde fort<br>pendant 4 semaines<br>et manœuvres douces") -. Échec .-> urologue(Urologue)
   style phimosis stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{% /collapse %}}
+{{%sources%}}
+
+- [Moreno G et al. Topical corticosteroids for treating phimosis in boys. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008973.pub3/full/fr)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pathologies courantes de la région inguino-scrotale et du pénis. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/pathologies)
+- Dr Biserte CHRU Lille (Urologie 2008, JPP 2009)
+- Dr Panait HFME Bron
+
+{{%/sources%}}
 {{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}
 
 {{< traitements/dermocorticoides >}}
