@@ -20,7 +20,7 @@ image = true
 imageSrc = "Illustration de la ménopause par Freepik"
 chart = true
 flowchart = true
-todo = "écriture SEO, KEY patiente | règles d'hygiène, Chart J1-J31, lire sources, relecture gemvi-secretariat@gemvi.org"
+todo = "écriture SEO, KEY patiente | règles d'hygiène, Chart J1-J31, lire sources, relecture gemvi-secretariat@gemvi.org, Apex rangebar"
 +++
 
 {{%article-summary%}}

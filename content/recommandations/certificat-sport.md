@@ -28,7 +28,7 @@ flowchart = true
 *Version préliminaire*
 
 - Majeurs: certificat sportif valable 3 ans sauf exceptions (voir *[Disciplines nécessitant un certificat](#disciplines-nécessitant-un-certificat-de-sport-annuel)*)
-- Mineurs: [questionnaire de santé](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486824) sauf exceptions (cf ci-dessus). Certificat médical requis uniquement si au moins 1 réponse positive.  
+- Mineurs: [questionnaire de santé QS - Sport](https://www.formulaires.service-public.fr/gf/cerfa_15699.do) sauf exceptions (cf ci-dessus). Certificat médical requis uniquement si au moins 1 réponse positive.  
   Pour les parents: [simulateur de Service-public.fr](https://www.service-public.fr/simulateur/calcul/certificatMedical) pour savoir si un certificat est requis
 - Préciser l'accès aux compétitions le cas échéant
 - Indications à l'ECG, au test d'effort et à l'échocardiographie (voir *Examens*)

@@ -6,8 +6,8 @@ description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-05-23T15:48:22+02:00"
-publishdate = "2024-05-23"
-lastmod = "2024-05-23"
+publishdate = "2024-05-31"
+lastmod = "2024-05-31"
 specialites = ["infectiologie"]
 annees = "2013"
 sources = ["Anses"]
@@ -58,12 +58,13 @@ DLC
 {{% /collapse %}}
 {{%collapse "Cuisson des aliments" %}}
 
-Mesures sanitaires pour la cuisson des produits destinés aux jeunes enfants (< 5 ans), femmes enceintes et personnes immunodéprimées:
+Mesures sanitaires pour la cuisson des produits destinés aux jeunes enfants (< 5 ans), femmes enceintes et personnes immunodéprimées (et les +80 ans pour le lait cru):
 
 - Jamais de cru (tartare, carpaccio, lait sauf pâte pressée)
 - Viandes et steak hachés bien cuits à cœur
 
-La cuisson à cœur de tout type de viande est recommandée.
+> La cuisson à cœur de tout type de viande est recommandée.
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Conservation des aliments" %}}
@@ -73,7 +74,7 @@ Mesures d'hygiène associées à la conservation et au stockage des aliments et 
 - Aliments industriels: respecter la date limite de consommation (DLC)
 - Produits traiteur, pâtisseries à la crème: 3 jours au réfrigérateur (sauf consigne de l'artisan)
 - Produits artisanaux à la coupe: idem
-- Viande destinée à être consommée crue ou peu cuite: congélation -10°C 10 jours ou -15°C 6 jours
+- Viande destinée à être consommée crue ou peu cuite: congélation -10°C pendant 10 jours (ou -15°C pendant 6 jours)
 - Réfrigérateur: ranger les aliments **au plus tard 2 heures** après cuisson (*OMS*)  
   Répartir les grandes quantités (> 1 kg ou > 1 L).
 - Réfrigérateur: ne pas entreposer de nourriture sans contenant
@@ -81,14 +82,28 @@ Mesures d'hygiène associées à la conservation et au stockage des aliments et 
   La température doit être surveillée.
 - Réfrigérateur: nettoyer rapidement les surfaces souillées avec un détergent  
   Nettoyage complet autant de fois que nécessaire et au moins annuel (en retirant les clayettes).
-- Biberons: conservation max 48h à 4°C, 1h à température ambiante et 30 minutes si chauffé
+- Biberons: conservation maximum 48h à 4°C, 1h à température ambiante et 30 minutes si chauffé
 
 TODO: torchons
 
 {{% /collapse %}}
+{{%collapse "Précautions par catégorie d'aliments" %}}
 
+- Mesures générales
+  - Réfrigérateur: maximum **4°C** dans la zone la plus froide
+  - Séparation des aliments crus et cuits
+  - Ranger au réfrigérateur les aliments **au plus tard 2 heures** après cuisson (*OMS*)
+- Viandes et produits carnés
+  - Cuisson à cœur pour tous
+  - Obligatoire si: jeune enfant (< 5 ans), femme enceinte ou immunodépression
+  - Viande crue ou peu cuite: congélation à -10°C pendant 10 jours (ou -15°C pendant 6 jours)
+- Produits laitiers
+  - Pas de lait cru sauf pâte pressée cuite si: +80 ans, jeune enfant (< 5 ans), femme enceinte, immunodépression ou comorbidité
+
+{{% /collapse %}}
 {{%sources%}}
 
+- [MangerBouger. À tout âge et à chaque étape de la vie.](https://www.mangerbouger.fr/bouger-plus/a-tout-age-et-a-chaque-etape-de-la-vie)
 - [Anses. ]()
 
 ### Bibliographie en attente

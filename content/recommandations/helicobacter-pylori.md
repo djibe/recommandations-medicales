@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-12-02T15:14:41+02:00"
 publishdate = "2020-12-02"
-lastmod = "2024-02-15"
+lastmod = "2024-05-30"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["HAS", "SPILF", "GEFH", "SNFGE"]
@@ -24,14 +24,18 @@ todo = "rankok, reco enfant 2022, comment diag quand rosacée, dépistage en AIN
 
 {{%article-summary%}}
 
-- Dépistage d'*Helicobacter pylori* par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication
-- Signes d'alarmes en cas de symptômes digestifs hauts: dysphagie, amaigrissement, anémie
+- Dépister l'*Helicobacter pylori* par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication
+- Signes d'alarmes en cas de symptômes digestifs hauts: dysphagie, amaigrissement, anémie. Une fibroscopie gastrique est nécessaire
 - Endoscopie gastrique (EOGD) si symptômes ou facteurs de risque de [cancer de l'estomac]({{< relref "cancer-estomac.md" >}})
 - Privilégier le traitement adapté à l'antibiogramme d'*Helicobacter pylori* (après endoscopie)
-- Posologie de l'amoxicilline: 50 mg/kg/j en 3-4 prises (max 6 g/j)
-- 2 IPP à privilégier: ésoméprazole 40 ou rabéprazole 20 mg (sauf oméprazole pour Bismuth), matin et soir
+- Traitement probabiliste de première intention de l'Helicobacter pylori pendant 14 jours:
+  - Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j)
+  - Clarithromycine 500 x 2/j
+  - Métronidazole 500 x 2/j
+  - Ésoméprazole 40/rabéprazole 20 mg x 2/j
+  - {{< modal-btn modal-test-respi >}}Contrôle de l'éradication{{< /modal-btn >}} systématique avec le test à l'urée marquée à 1 mois
+- 2 inhibiteurs de la pompe à protons (IPP) sont à privilégier: ésoméprazole 40 ou rabéprazole 20 mg (sauf oméprazole pour un traitement par Bismuth) matin et soir
 - Reporter le traitement d'éradication d'*Helicobacter pylori* en cas de grossesse ou d'allaitement
-- {{< modal-btn modal-test-respi >}}Contrôle de l'éradication{{< /modal-btn >}} systématique avec le test à l'urée marquée à 1 mois
 
 {{%/article-summary%}}
 {{%collapse "Comment traiter Helicobacter pylori ?" "show" %}}
@@ -56,19 +60,19 @@ todo = "rankok, reco enfant 2022, comment diag quand rosacée, dépistage en AIN
     <p class="typography-overline text-black-secondary pt-4">Première ligne</p>
     <div class="collapse show" id="hp-1-reference">
 
-  - Clari-S  
-  <span>Amox 50 mg/kg/j (3-4 prises) + Clari 500 x 2/j + IPP x 2/j | 10 jours (14 pour le *GEFH*)</span>
-  - Clari-R Quinolone-S  
-  <span>Amox 50 mg/kg/j (3-4 prises) + Lévoflo 500 x 1/j (x 2/j pour le *GEFH*) + IPP x 2/j | 10 jours (14 pour le *GEFH*)</span>
-  - Clari-R Quinolone-R (ou non testée)  
-  <span>Pylera® 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours  
-  GEFH: OU Amox 50 mg/kg/j (3-4 prises) + Métroni 500 x 2/j + IPP x 2/j | 14 jours</span>
+- Clarithromycine-Sensible  
+  <span>Amoxicilline 50 mg/kg/j (3-4 prises) + clarithromycine 500 x 2/j + ésoméprazole 40 mg/rabéprazole 20 mg (IPP) x 2/j pendant 10 jours (14 selon le *GEFH*)</span>
+- Clarithromycine-Résistant et Quinolone-Sensible  
+  <span>Amoxicilline 50 mg/kg/j (3-4 prises) + lévofloxacine 500 x 1/j (x 2/j pour le *GEFH*) + IPP x 2/j pendant 10 jours (14 selon le *GEFH*)</span>
+- Clarithromycine-Résistant et Quinolone-Résistant (ou non testée)  
+  <span>Pylera® 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours  
+  *GEFH*: OU amoxicilline 50 mg/kg/j (3-4 prises) + métronidazole 500 x 2/j + IPP x 2/j pendant 14 jours</span>
 
 2<sup>e</sup> ligne
 {.typography-overline .text-black-secondary .pt-2}
 
-  Pylera® 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours  
-  <span>Si non utilisée en première ligne (sinon voir 3<sup>e</sup> ligne)</span>
+  Pylera® 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours  
+  <span>Si non utilisée en première ligne (sinon voir 3<sup>e</sup> ligne).</span>
 
 3<sup>e</sup> ligne
 {.typography-overline .text-black-secondary .pt-2}
@@ -76,13 +80,13 @@ todo = "rankok, reco enfant 2022, comment diag quand rosacée, dépistage en AIN
 EOGD souhaitable (sauf si Quinolone-S et non utilisées).
 
   <ul>
-        <li>Clari-S
-          <span>Amox 50 mg/kg/j (3-4 prises) + Clari 500 x 2/j + IPP x 2/j | 14 jours</span>
+        <li>Clarithromycine-S
+          <span>Amoxicilline 50 mg/kg/j (3-4 prises) + Clarithromycine 500 x 2/j + IPP x 2/j pendant 14 jours</span>
         </li>
-        <li>Clari-R Quinolone-S
-          <span>Amox 50 mg/kg/j (3-4 prises) + Lévoflo 500 x 2/j + IPP x 2/j | 14 jours</span>
+        <li>Clarithromycine-R et Quinolone-S
+          <span>Amoxicilline 50 mg/kg/j (3-4 prises) + Lévofloxacine 500 x 2/j + IPP x 2/j pendant 14 jours</span>
         </li>
-        <li>Clari-R Quinolone-R (ou non testée)
+        <li>Clarithromycine-R et Quinolone-R (ou non testée)
           <span><a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" rel="external nofollow noopener">Avis d'expert du GEFH</a></span>
         </li>
       </ul>
@@ -90,26 +94,25 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
     <div class="collapse" id="hp-2">
       <ul>
         <li>Traitement probabiliste au choix
-          <p>Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j) + Clarithromycine 500 x 2/j + Métronidazole 500 x 2/j + ésoméprazole 40 mg x 2/j pendant 14 jours</p>
-          <p>OU Pylera® 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours<br>
-          (selon HAS/SPILF: si macrolide récent ou allergie à l'amoxicilline)</p>
+          <p>Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j) + Clarithromycine 500 x 2/j + Métronidazole 500 x 2/j + ésoméprazole 40/rabéprazole 20 mg (IPP) x 2/j pendant 14 jours</p>
+          <p>OU Pylera® 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours (selon HAS/SPILF: si macrolide récent ou allergie à l'amoxicilline)</p>
         </li>
       </ul>
       <p class="typography-overline text-black-secondary pt-2">2<sup>e</sup> ligne</p>
       <ul>
-        <li>Privilégier une EOGD (pour le GEFH)</li>
-        <li>Ou utiliser le traitement alternatif (pour la HAS/SPILF)</li>  
+        <li>Privilégier une EOGD (pour le *GEFH*)</li>
+        <li>Ou utiliser le traitement alternatif (pour la *HAS/SPILF*)</li>  
       </ul>
       <p class="typography-overline text-black-secondary pt-2">3<sup>e</sup> ligne</p>
       <p>Traitement avec antibiogramme.</p>
       <ul>
-        <li>Clari-S
-          <span>Amox 50 mg/kg/j (3-4 prises) + Clari 500 x 2/j + IPP x 2/j | 14 jours</span>
+        <li>Clarithromycine-S
+          <span>Amoxicilline 50 mg/kg/j (3-4 prises) + Clarithromycine 500 x 2/j + IPP x 2/j pendant 14 jours</span>
         </li>
-        <li>Clari-R Quinolone-S
-          <span>Amox 50 mg/kg/j (3-4 prises) + Lévoflo 500 x 2/j + IPP x 2/j | 14 jours</span>
+        <li>Clarithromycine-R et Quinolone-S
+          <span>Amoxicilline 50 mg/kg/j (3-4 prises) + Lévofloxacine 500 x 2/j + IPP x 2/j pendant 14 jours</span>
         </li>
-        <li>Clari-R Quinolone-R (ou non testée)
+        <li>Clarithromycine-R et Quinolone-R (ou non testée)
           <span><a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" rel="external nofollow noopener">Avis d'expert du GEFH</a></span>
         </li>
       </ul>
@@ -121,17 +124,17 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
       <p class="typography-overline text-black-secondary pt-2">2<sup>e</sup> ligne</p>
       <p>Réaliser une EOGD.</p>
       <ul>
-        <li>Clari-S Quinolone-S
-          <span>Clari 500 x 2/j + Lévoflo 500 x 2/j + IPP x 2/j | 14 jours</span>
+        <li>Clarithromycine-S et Quinolone-S
+          <span>Clarithromycine 500 x 2/j + Lévofloxacine 500 x 2/j + IPP x 2/j pendant 14 jours</span>
         </li>
-        <li>Clari-R
+        <li>Clarithromycine-R
           <span><a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" rel="external nofollow noopener">Avis d'expert du GEFH</a></span>
         </li>
       </ul>
       <p class="typography-overline text-black-secondary pt-2">3<sup>e</sup> ligne</p>
       <p>Traitement avec antibiogramme et <a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" rel="external nofollow noopener">avis d'expert du GEFH</a></p>
     </div>
-    <small>Doses en mg, amox = amoxicilline (max 6g/j); lévoflo = lévofloxacine; métroni = métronidazole</small>
+    <small>Doses en mg</small>
   </div>
 </div>
 
@@ -174,9 +177,9 @@ SPILF
 
 La France est un pays de faible incidence d'*Helicobacter pylori*:
 
-- 15 à 30% de la population serait infectée  
-< 20% avant 30 ans et > 50% après 50 ans.
-- 10% développent un ulcère et 1% un cancer.
+- 15 à 30 % de la population serait infectée par l'*Helicobacter*  
+  < 20 % avant 30 ans et > 50 % après 50 ans.
+- 10 % développent un ulcère et 1% un [cancer de l'estomac]({{< relref "cancer-estomac.md" >}}).
 
 #### Antibiorésistance d'*H. pylori* en France en 2020
 
@@ -531,8 +534,8 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 - [Bénéjat L et al. Épidémiologie de l'infection à Helicobacter pylori en France en 2020 : données de surveillance du CNR Campylobacters et Hélicobacters. Bull Epidémiol Hebd. 2021.](http://beh.santepubliquefrance.fr/beh/2021/15/2021_15_2.html)
 - [GEFH. Recommandations de prise en charge de l'infection à *Helicobacter pylori* en 2021 pour les hépato-gastro-entérologues. 04/03/2021. (PDF)](http://www.helicobacter.fr/wp-content/uploads/2021/03/Fiche-HP-specialistes-2021.pdf)
 - [HAS. Helicobacter pylori : recherche et traitement. 26/03/2019.](https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement)
-- [HAS et CNPHGE. Diagnostic de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
-- [HAS et CNPHGE. Traitement de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)
+- [HAS et CNPHGE. Diagnostic de l'infection par Helicobacter pylori chez l'adulte. 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
+- [HAS et CNPHGE. Traitement de l'infection par Helicobacter pylori chez l'adulte. 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)
 - [Bonfils C. et Zuliani S. La prise de traitements chroniques au quotidien : évaluer les pratiques des patients et optimiser l'horaire de prise des médicaments. Sciences pharmaceutiques. 2015. dumas-01169981](https://dumas.ccsd.cnrs.fr/dumas-01169981/document)
 - [Delchier JC, Courillon-Mallet A, Lamarque D. Infection à Helicobacter pylori de l'adulte. Conseil de pratique. SNFGE. 2015. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp011-infection-a-helicobacter-pylori-de-ldulte_2015-06.pdf)
 - [HAS. Dépistage de l'infection à Helicobacter pylori. Avril 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-08/synthese_-_depistage_de_linfection_a_helicobacter_pylori.pdf)
