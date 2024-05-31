@@ -98,7 +98,7 @@
                 </ol>
               </nav>
               <header class="recommandation__header">
-                <h1 class="my-3 mt-md-5 my-xl-5">{{ .Title }}</h1>
+                <h1 class="my-3 mt-md-5 my-xl-5">{{ .Title | markdownify }}</h1>
                 {{ with .Params.Synonyms }}
                 <h2>{{ delimit . ", " }}</h2>
                 {{ end }}
