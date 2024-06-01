@@ -114,7 +114,7 @@ Cas possible de coqueluche: toute personne atteinte de toux depuis au moins 2 se
 Toux quinteuse prolongée cyanosante sans chant du coq.
 Mauvaise tolérance avec cyanose, apnées, bradycardies. Pneumonies de surinfection fréquentes.
 
-**NB.** Les anticorps maternels ne sont pas protecteurs.
+**NB.** Les anticorps maternels résiduels ne sont pas protecteurs ce qui justifie un rappel vaccinal de valence coqueluche entre 20 et 36 SA à chaque grossesse.
 
 ### Coqueluche de l'enfant vacciné et de l'adulte
   

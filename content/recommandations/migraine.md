@@ -92,7 +92,7 @@ SFEMC
 - 50% ont au moins 2 crises par mois; 40% ont durée +24h; 50% ont intensité sévère à très sévère
 
 {{% /collapse %}}
-{{%collapse "Critères différentiel" %}}
+{{%collapse "Diagnostic différentiel" %}}
 
 ### Diagnostic différentiel des migraines
 

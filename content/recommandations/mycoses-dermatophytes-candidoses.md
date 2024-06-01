@@ -95,8 +95,10 @@ Zone centrale claire cicatricielle avec bourrelet périphérique squameux et vé
 
 ### Pityriasis versicolor
 
-Macules hypo ou hyperpigmentées bien limitées, le plus souvent thoracique, cervicale ou à la racine des bras. Prurit rare.  
-Le pityriasis versicolor est bénin, **n'est pas contagieux**, causé par la levure *Malassezia furfur*.  
+Macules hypo ou hyperpigmentées bien limitées (<< chamois >>), le plus souvent **thoraciques**, cervicales ou à la racine des bras. Prurit rare.
+
+Le pityriasis versicolor est bénin, **n'est pas contagieux**, causé par la levure *Malassezia furfur*.
+
 [Photos de pityriasis versicolor](https://dermnetnz.org/topics/pityriasis-versicolor-images)
 
 {{%info%}}
@@ -106,7 +108,7 @@ Le pityriasis versicolor est bénin, **n'est pas contagieux**, causé par la lev
 - Information du patient  
   Les lésions disparaissent lentement après le traitement (quelques mois !) et les récidives sont très fréquentes.
 - Abstention thérapeutique
-- ou [kétoconazole 2% gel récipient unidose](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62701346&typedoc=R) en une seule application  
+- ou [kétoconazole 2% gel récipient unidose](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62701346&typedoc=R) en une seule application (x2/semaine pendant 1 mois selon *CRATB*)  
   Laisser agir au moins 5 minutes.
 - ou terbinafine 1% crème ou ciclopirox olamine 1% crème x 1-2/j pendant 7 à 14 jours
 {{%/info%}}
@@ -227,7 +229,8 @@ L'itraconazole est utile pour les formes résistantes.
 
 Les candidoses buccales atteignent le plus souvent les moins de 18 ans et les sujets âgés (prothèses dentaires, hyposialie, [dénutrition]({{< relref "denutrition.md" >}})).
 
-L'aspect pseudo-membraneux blanc (**muguet**) est le plus fréquent, souvent associé à une **perlèche** (intertrigo de la commissure labiale). Les autres aspects sont la **glossite** (langue rouge dépapillée) associée à une **stomatite** (xérose buccale, goût métallique et de cuisson).  
+L'aspect pseudo-membraneux blanc (**muguet**) est le plus fréquent, souvent associé à une **perlèche** (intertrigo de la commissure labiale). Les autres aspects sont la **glossite** (langue rouge dépapillée) associée à une **stomatite** (xérose buccale, goût métallique et de cuisson).
+
 [Photos de candidose buccale](https://dermnetnz.org/topics/oral-candidiasis)
 
 **NB.** Les langues noires villeuses ne sont pas des candidoses (oxydation des papilles, souvent par le tabagisme).
@@ -240,7 +243,7 @@ L'aspect pseudo-membraneux blanc (**muguet**) est le plus fréquent, souvent ass
 - Bains de bouche avec chlorhexidine ou bicarbonate de soude
 - Traitement de l'hyposialie
 - Miconazole gel buccal  
-  [Miconazole 2% gel buccal (Daktarin®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69184289&typedoc=R) 2,5 mL 4 fois par jour pendant 7 à 14 jours.
+  [Miconazole 2% gel buccal](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69184289&typedoc=R) (Daktarin®, à partir de 4 mois) 2,5 mL x 4/j pendant 7 à 14 jours.
 - ou miconazole cp muco-adhésif chez l'immunodéprimé  
   [Miconazole cp 50 mg (Loramyc®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69980852&typedoc=R) x 1/j pendant 7 à 14 jours, face bombée placée le matin après le brossage contre la gencive supérieure au-dessus d'une incisive. Interactions +++
 - ou amphotéricine B buvable  
