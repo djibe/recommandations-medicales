@@ -1,16 +1,23 @@
 <p>La formule <dfn><abbr title="Chronic Kidney Disease Epidemiology Collaboration">CKD-EPI</abbr></dfn> 2021 est la formule d’estimation du débit de filtration glomérulaire (DFGe)
-  chez l’adulte en état stable recommandée par la HAS.
+  chez l’adulte (à partir de 20 ans) en état stable recommandée par la <dfn><abbr title="Haute Autorité de Santé">HAS</abbr></dfn>.
 </p>
-<p>La version révisée du CKD-EPI de 2021 a retiré le concept de race qui est une conception humaine.</p>
+<p>La version révisée du CKD-EPI de 2021 a retiré le concept de “race” qui est une conception humaine.
+  Avant 20 ans, utiliser la formule de Schwartz.</p>
 <div class="card-body card-util rounded-lg border my-5" id="form-gfr">
   <div class="d-block d-lg-flex form-gfr">
     <div class="form-group floating-label textfield-box form-ripple flex-grow-1 mr-3">
       <label for="gfr-age">Âge</label>
-      <input class="form-control" id="gfr-age" type="number" min="18" max="122">
+      <input class="form-control" id="gfr-age" type="number" min="20" max="122">
     </div>
-    <div class="form-group floating-label textfield-box form-ripple flex-grow-1">
-      <label for="gfr-creatinine">Créatininémie (mg/L)</label>
-      <input class="form-control" id="gfr-creatinine" type="number" min="1" max="100" step="0.1">
+    <div class="d-flex flex-grow-1 align-items-center">
+      <div class="form-group floating-label textfield-box form-ripple flex-grow-1">
+        <label for="gfr-creatinine">Créatininémie</label>
+        <input class="form-control" id="gfr-creatinine" type="number" min="0" step="0.1">
+      </div>
+      <input type="radio" name="gfr-unit" id="gfr-unit-mg" value="mg" class="d-input-none" checked required>
+      <label for="gfr-unit-mg" class="chip chip-action chip-choice">mg/L</label>
+      <input type="radio" name="gfr-unit" id="gfr-unit-mol" value="mol" class="d-input-none">
+      <label for="gfr-unit-mol" class="chip chip-action chip-choice">µmol/L</label>
     </div>
   </div>
   <p class="typography-overline mb-0">Sexe</p>
@@ -33,14 +40,16 @@
   // Outil de calcul du DFG CKD-EPI 2021 by djibe
   window.addEventListener( 'load', event => {
     const age = document.getElementById('gfr-age');
-    const creatinine = document.getElementById('gfr-creatinine');
+    const creatinineEl = document.getElementById('gfr-creatinine');
     const gfrEl = document.getElementById('input-gfr');
-    [age, creatinine].forEach(elem => elem.addEventListener('input', () => calcGFR() ));
+    [age, creatinineEl].forEach(elem => elem.addEventListener('input', () => calcGFR() ));
     [...document.querySelectorAll('#form-gfr input[type="radio"]')].forEach(elem => elem.addEventListener('change', () => calcGFR() ));
     const calcGFR = () => {
+      const unit = document.querySelector('input[name="gfr-unit"]:checked');
       const sex = document.querySelector('input[name="gfr-sex"]:checked');
       const ageVal = parseInt(age.value);
-      let creatinineVal = parseFloat(creatinine.value);
+      let creatinineVal = parseFloat(creatinineEl.value);
+      let creatinine;
       let alpha, beta, kappa;
       if (sex.value === 'man') {
         alpha = -0.302;
@@ -51,10 +60,14 @@
         beta = 1.012;
         kappa = 0.7;
       }
+      if (unit.value === 'mol') {
+        // Convert µmol/L to mg/L
+        creatinineVal *= 0.1131;
+      }
       if (ageVal > 0 && creatinineVal > 0) {
         // Convert mg/L to mg/dL
-        creatinineVal /= 10
-        let gfr = 142 * Math.min(creatinineVal / kappa, 1) ** alpha * Math.max(creatinineVal / kappa, 1) ** -1.200 * 0.9938 ** ageVal * beta
+        creatinine = creatinineVal / 10
+        let gfr = 142 * Math.min(creatinine / kappa, 1) ** alpha * Math.max(creatinine / kappa, 1) ** -1.200 * 0.9938 ** ageVal * beta
         gfrEl.value = Math.round(gfr);
       }
     }
