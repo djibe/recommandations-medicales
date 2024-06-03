@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-04-25T14:08:50+02:00"
 publishdate = "2024-04-25"
-lastmod = "2024-05-10"
+lastmod = "2024-06-03"
 specialites = ["therapeutique"]
 annees = "2024"
 sources = ["BDPM"]
@@ -28,11 +28,11 @@ Médicaments utilisés en médecine générale dont l'efficacité et la sécurit
 
 Médicaments (hors antiviraux) dont le résumé des caractéristiques du produit (RCP) précise s'il doit être pris à jeun ou non. Ces médicaments doivent être pris avant (**minimum 30 minutes à 1 heure avant**), pendant ou **2 heures après** le repas.
 
-{{< table title="Médicaments dont la biodisponibilité dépend du moment du repas (prise à jeun, prandiale ou post-prandiale). Dr JB Fron d'après BDPM 2024" class="datatable" >}}
+{{< table title="Médicaments dont la biodisponibilité dépend du moment du repas (prise à jeun, prandiale ou post-prandiale). Dr JB Fron d'après BDPM 2024 ou bibliographie précisée" class="datatable" >}}
 | Substance     | Repas | Délai | Source |
 |---------------|-------|-------|--------|
 | Acide alendronique | Avant | Matin: au moins 30 minutes avec un grand verre d'eau du robinet | BDPM |
-| Amoxicilline/clavulanique| Pendant | Début de repas | BDPM |
+| Amoxicilline-clavulanique| Pendant | Début de repas | BDPM |
 | Atovaquone/proguanil | Pendant | ou boisson lactée | BDPM |
 | Bismuth (Pylera) | Après | En position assise, avec un grand verre d'eau (25 cL). Ne pas s'allonger immédiatement après | BDPM |
 | Cefpodoxime | Pendant | | BDPM |
@@ -41,11 +41,13 @@ Médicaments (hors antiviraux) dont le résumé des caractéristiques du produit
 | Doxycycline | Pendant | Au moins 1 heure avant le coucher | BDPM |
 | Céfalexine | Avant ou après | | BDPM |
 | Érythromycine | Avant | | BDPM |
-| Fer (sulfate, Tardyferon, Timoferol) | Avant ou pendant | | BDPM |
+| Fer (sulfate, Tardyferon, Timoferol) | Avant voire pendant | | BDPM, CBIP |
 | Fosfomycine | Avant ou après | 2-3 heures avant ou après | BDPM |
 | Gaviscon | Après | | BDPM |
+| Gliclazide | Avant | Juste avant ou pendant | CBIP |
+| Glinides | Avant | | BDPM |
 | Hydroxychloroquine | Après | Après la fin du repas | BDPM |
-| IPP: oméprazole ... | Avant | Avec de l'eau | BDPM |
+| IPP: oméprazole ... | Avant | Avec de l'eau. Préférer le matin (*CBIP*) | BDPM |
 | Isoniazide | Avant | Matin: au moins 30 minutes| BDPM |
 | Isotrétinoïne | Pendant | | BDPM |
 | Itraconazole | Pendant | Juste après | BDPM |
@@ -54,6 +56,7 @@ Médicaments (hors antiviraux) dont le résumé des caractéristiques du produit
 | Metformine | Pendant | ou à la fin | BDPM |
 | Métoprolol | Avant ou après | | BDPM |
 | Méthylphénidate: DCI, Médikinet | Pendant | ou juste après | BDPM |
+| Nitrofurantoïne | Pendant || BDPM |
 | Pancréatine (Créon) | Pendant | ou juste après | BDPM |
 | Rifampicine | Avant | Au moins 30 minutes | BDPM |
 | Stromectol | Avant | Avec de l'eau | BDPM |
@@ -71,6 +74,7 @@ La prise du médicament pendant le repas n'améliore pas la biodisponibilité ma
 - AINS (ibuprofène, naproxène ...)
 - Aspirine
 - Clindamycine
+- Métronidazole (et ne pas prendre d'alcool)
 
 ## Médicaments mieux tolérés à jeun
 
@@ -80,6 +84,8 @@ La prise du médicament pendant le repas n'améliore pas la biodisponibilité ma
 
 {{< references/bdpm >}}
 
+- [Centre Belge d'Information Pharmacothérapeutique (CBIP). Chaque médicament au bon moment! Partie 1: (le matin) à jeun. 2023.](https://www.cbip.be/fr/articles/4216?folia=4215)
+- [Centre Belge d'Information Pharmacothérapeutique (CBIP). Chaque médicament au bon moment! Partie 2: lors des repas. 2023.](https://www.cbip.be/fr/articles/4306?folia=4305)
 - [Pharmacie des Hôpitaux de l'Est Lémanique. Importance du moment de prise pour les médicaments. 2022. (PDF)](https://www.phel.ch/upload/docs/application/pdf/2018-04/importance_du_moment_de_prise_pour_les_medicaments.pdf)
 - [Perucca P. Les interactions entre les aliments et les médicaments dans la pratique officinale. 2017. (PDF)](https://dumas.ccsd.cnrs.fr/dumas-01613518/document)
 - [CAPP-INFO. Médicaments et alimentation - Avant ? Pendant ? Après le repas ?. Bulletin d'information du CAPP. 2000. (PDF)](https://pharmacie.hug.ch/infomedic/cappinfo/cappinfo15.pdf)
