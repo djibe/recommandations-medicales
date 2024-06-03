@@ -286,12 +286,12 @@ accTitle: Conduite à tenir devant une suspicion de dermatite atopique et prise 
 {{% /collapse %}}
 {{%sources%}}
 
+- Prescrire Redaction. Eczéma atopique des nourrissons. Rev Prescrire. 2024.
 - [Wollenberg A et al. First update of the living European guideline (EuroGuiDerm) on atopic eczema. J Eur Acad Dermatol Venereol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.19269)
 - [Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéomuqueuses chez l'enfant et l'adulte. urticaire, dermatites atopique et de contact. Item 187. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-187-%E2%80%94-Hypersensibilites-et-allergies-cutaneo-muqueuses-chez-lenfant-et-ladulte.-Urticaire-dermatites-atopique-et-de-contact_CompressPdf.pdf)
 - [Ridd MJ et al. Effectiveness and safety of lotion, cream, gel, and ointment emollients for childhood eczema: a pragmatic, randomised, phase 4, superiority trial. Lancet Child Adolesc Health. 2022.](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(22)00146-8/fulltext)
 - [Staumont D. La dermatite atopique. Dermato-Info. 29/05/2021.](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-dermatite-atopique)
 - [Wollenberg A et al; European Task Force on Atopic Dermatitis/EADV Eczema Task Force. ETFAD/EADV Eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children. J Eur Acad Dermatol Venereol. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16892)
-- Prescrire Redaction. Eczéma atopique des nourrissons. Rev Prescrire. 2017.
 - [Société Française de Dermatologie. Prise en charge de la dermatite atopique de l'enfant (texte court). Ann Dermatol Venereol. 2005. (PDF)](https://www.sfdermato.org/upload/recommandations/da-court-21929906693b437d6f4315bef48d1518.pdf)
 
 ### Bibliographie en attente

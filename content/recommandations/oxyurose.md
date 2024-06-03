@@ -117,6 +117,6 @@ graph TB
 
 - Association Française des Enseignants & Praticiens Hospitaliers titulaires de Parasitologie & Mycologie Médicale (Anofel). Chapitre 11: Oxyurose. 2022.
 - [CMIT. Parasitoses digestives : giardiose, amoebose, téniasis, ascaridiose, oxyurose. Item 172. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-172-web.pdf)
-- Prescrire Redaction. Oxyurose. Premiers Choix Prescrire. Rev Prescrire. 2021.
+- Prescrire Redaction. Oxyurose. Premiers Choix Prescrire. Rev Prescrire. 2022.
 
 {{%/sources%}}

@@ -1,6 +1,6 @@
 +++
 title = "{{ replace .Name '-' ' ' | title }}"
-titleSeo = "In case of long title or delete whole line"
+titleSeo = "In case of long title or delete whole line (max 70 ch ... or more)"
 prefix = "la "
 description = "Title 2-22 words and description 160 characters max"
 synonyms = []

@@ -178,7 +178,7 @@ Le suivi par le néphrologue est recommandé en cas de doute sur la nature de la
 
 Stades de l'insuffisance rénale chronique selon le débit de filtration glomérulaire et de l'albuminurie.
 
-{{< table title="Stades de la maladie rénale chronique et de l'insuffisance rénale chronique selon KDIGO 2012" >}}
+{{< table title="Stades de la maladie rénale chronique et de l'insuffisance rénale chronique selon KDIGO 2012 (après 2 ans)" >}}
 | Stade | DFGe          | Définition    |
 |:-----:|:-------------:|---------------|
 | 1     | ≥ 90          | MRC avec DFG normal ou augmenté |

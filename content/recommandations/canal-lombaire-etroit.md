@@ -182,7 +182,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- Prescrire Redaction. Syndrome du canal lombaire étroit. Rev Prescrire. Juillet 2023.
+- Prescrire Redaction. Syndrome du canal lombaire étroit. Rev Prescrire. 2023.
 - [Collège Français des Chirurgiens Orthopédistes et Traumatologues (CFOCT). Rachialgie. Orthopédie Traumatologie. 3e édition. 2020. (PDF)](https://www.sofcot.fr/sites/www.sofcot.fr/files/medias/documents/CollegeOrthop%C3%A9dieTraumatologieELLIPSES%203%C3%A8me%20%C3%A9dition.pdf)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Radiculalgie et syndrome canalaire. Item 95 UE 5. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-4-0.php)
 - [Collège des Enseignants de Neurologie (CEN). Troubles de la marche et de l'équilibre. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/troubles-marche-lequilibre-troubles-marche-lequilibre-sujet-age)

@@ -145,7 +145,7 @@ ECBU en cas de {{< modal-btn modal-fdr-complication >}}facteur de risque de comp
 
 Antibiothérapie probabiliste uniquement en cas de symptômes marqués:
 
-1. [Nitrofurantoïne](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62013296&typedoc=R) (Furadantine®) 100 mg x 3/j pendant 7 jours  
+1. [Nitrofurantoïne](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62013296&typedoc=R) (Furadantine®) 100 mg x 3/j pendant le repas pendant 7 jours  
   Sauf clairance < 45 mL/min.
 2. Fosfomycine trométamol 3g dose unique
 
@@ -153,7 +153,7 @@ Antibiotique de préférence adapté à l'antibiogramme:
 
 1. <mark>Amoxicilline 1g x 3/j pendant 7 jours</mark>
 2. Pivmécillinam (Selexid®) 400 mg x 2/j pendant 7 jours
-3. Nitrofurantoïne 100 mg x 3/j pendant 7 jours
+3. Nitrofurantoïne 100 mg x 3/j pendant le repas pendant 7 jours
   
 ECBU de contrôle uniquement en l'absence d'amélioration à 72 heures ou récidive précoce dans les 2 semaines.
 
@@ -297,7 +297,7 @@ En cas d'échec ou de résistance:
 1. <mark>Amoxicilline 1g x 3/j pendant 7 jours</mark>
 2. Triméthoprime 300 mg/j pendant 7 jours  
   Éviter les 10 premières semaines d'aménorrhée.
-3. Nitrofurantoïne 100 mg x 3/j pendant 7 jours
+3. Nitrofurantoïne 100 mg x 3/j pendant le repas pendant 7 jours
 4. Alternatives pendant 7 jours: cotrimoxazole 800/160 mg x 2/j (éviter < 10 SA) ou amoxicilline-acide clavulanique 1g x 3/j
 
 ### Pyélonéphrite pendant la grossesse
