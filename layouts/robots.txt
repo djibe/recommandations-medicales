@@ -61,14 +61,14 @@ Disallow: /index.json
 
 User-agent: *
 Allow: /
+Disallow: /recommandations/index.json
+
+User-agent: *
+Allow: /
 Disallow: /404
 
 User-agent: *
 Allow: /
 Disallow: /offline/
-
-User-agent: *
-Allow: /
-Disallow: /recommandations/index.json
 
 Sitemap: {{ "sitemap.xml" | absURL }}
