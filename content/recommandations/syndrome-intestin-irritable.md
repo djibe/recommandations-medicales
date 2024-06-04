@@ -29,7 +29,7 @@ flowchart = true
 - Le traitement et la prise en charge de l'intestin irritable comporte:
     1. Information, activité physique et réévaluations à 2-3 mois
     2. Puis mesures diététiques et titration d'ispaghul
-    3. Suivi diététique pour essai d'éviction des FODMAP 4-6 semaines voire probiotiques 12 semaines
+    3. Suivi diététique pour essai d'éviction des [FODMAPs]({{< relref "regime-fodmaps.md" >}}) 4-6 semaines voire probiotiques 12 semaines
     4. Selon les symptômes: lopéramide pour diarrhées (SSI-D), polyéthylène glycol pour constipation (SSI-C), paracétamol, pinavérium et menthe poivrée si douleurs (voire tricyclique)
     5. Suivi spécialisé en cas de résistance au traitement
 
@@ -70,7 +70,7 @@ CNP-HGE
 EPS
 : examen parasitologique des selles
 
-FODMAP
+[FODMAPs]({{< relref "regime-fodmaps.md" >}})
 : {{%lang%}}fermentable oligosaccharides, disaccharides and monosaccharides and polyols{{%/lang%}} (aliments fermentescibles)
 
 IRS
@@ -198,7 +198,7 @@ Les traitements peuvent être pris uniquement lors des périodes de poussées sy
 
 Réévaluation à 2-3 mois. Si insuffisant, proposer:
 
-- Diététicien pour régime pauvre en sucres dits fermentescibles (FODMAP)
+- Diététicien pour régime pauvre en sucres dits fermentescibles ([FODMAPs]({{< relref "regime-fodmaps.md" >}}))
   - Présents dans: édulcorants, plats préparés, lactose, blé-orge-seigle, légumes (asperges, choux, brocolis, poireaux, artichaut), fruits (pomme, poire)
   - Essai strict pendant 4-6 semaines et réintroduction progressive si efficace pour identifier l'agent
 - Essai probiotiques (ex: *Lactobacillus*, *Bifidobacterium infantis 35624*) 12 semaines
@@ -277,18 +277,17 @@ style SII stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
+- [Nybacka S et al. A low FODMAP diet plus traditional dietary advice versus a low-carbohydrate diet versus pharmacological treatment in irritable bowel syndrome (CARBIS): a single-centre, single-blind, randomised controlled trial. Lancet Gastroenterol Hepatol. 2024.](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(24)00045-1/abstract)
 - Prescrire Redaction. Troubles intestinaux bénins récurrents. Rev Prescrire. 2023.
 - {{< references/college-gastro >}}
 - [Vasant D et al. British Society of Gastroenterology guidelines on the management of irritable bowel syndrome. Gut. 2021.](https://gut.bmj.com/content/70/7/1214)
 - [Sabaté JM, Jouët P. Prise en charge du Syndrome de l'Intestin Irritable (SII). Conseil de pratique. SNFGE, GFNG. 2016. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp036-sii_2016.pdf)
+- [Ducrotté P; SNFGE, GFNG. Régime pauvre en sucres fermentiscibles Les << FODMAPs >>. Conseil de pratique. 2016. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/les_fodmaps.pdf)
 - [Conseil National Professionnel d'Hépato-Gastroentérologie (CNP-HGE). Syndrome de l'intestin irritable.](https://www.cnp-hge.fr/syndrome-de-lintestin-irritable/)
 - [SNFGE. Syndrome de l'intestin irritable (SII).](https://www.snfge.org/grand-public/maladies-digestives/syndrome-lintestin-irritable-sii)
 
 ### Bibliographie en attente
 
-- [Nybacka S et al. A low FODMAP diet plus traditional dietary advice versus a low-carbohydrate diet versus pharmacological treatment in irritable bowel syndrome (CARBIS): a single-centre, single-blind, randomised controlled trial. Lancet Gastroenterol Hepatol. 2024.](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(24)00045-1/abstract)
-- [SNFGE. Régime pauvre en sucres fermentescibles, les FODMAPs. 2016.](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/les_fodmaps.pdf)
-- [Mearin F et al. Bowel Disorders. Gastroenterology. 2016.](https://pubmed.ncbi.nlm.nih.gov/27144627/)
-- Cochrane
+[Mearin F et al. Bowel Disorders. Gastroenterology. 2016.](https://pubmed.ncbi.nlm.nih.gov/27144627/)
 
 {{%/sources%}}

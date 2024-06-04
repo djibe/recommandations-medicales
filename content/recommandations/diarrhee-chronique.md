@@ -17,7 +17,7 @@ sctid = "236071009"
 icd10 = "K52.9"
 image = true
 imageSrc = "Illustration des diarrhées chroniques par brgfx / Freepik"
-todo = "CDU-HGE p144, SEO, SeHCAT, FODMAPs"
+todo = "CDU-HGE p144, SEO, SeHCAT"
 flowchart = true
 +++
 
@@ -77,7 +77,7 @@ Rechercher à l'examen les arguments en faveur des causes suivantes de diarrhée
 - [Syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}})
 - Origine biliaire
 - Diététique
-  - FODMAP (voir intestin irritable ci-dessus), [intolérance au lactose]({{< relref "intolerance-lactose.md" >}}) ou fructose
+  - [FODMAPs]({{< relref "regime-fodmaps.md" >}}), [intolérance au lactose]({{< relref "intolerance-lactose.md" >}}) ou fructose
   - Édulcorants (sodas, bonbons, chewing gum)
   - Caféine
   - [Alcool]({{< relref "sevrage-alcool.md" >}})
