@@ -27,6 +27,12 @@ main > .recommandation {
 }
 figure {
   break-inside: avoid;
+  max-width: 80vw;
+  overflow: visible;
+  width: 80vw;
+}
+video {
+  display: none;
 }
 h1.my-xl-5 {
   margin-top: 0 !important;
