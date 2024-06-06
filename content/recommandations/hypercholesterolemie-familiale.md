@@ -84,7 +84,7 @@ Les symptômes peuvent débuter dans l'enfance chez les homozygotes.
 - Dosages lipidiques antérieurs
 - Symptômes cardiovasculaires
 
-Le risque cardiovasculaire en cas d'HF est d'emblée au moins {{< modal-btn modal-rcv >}}élevé{{< /modal-btn >}} (ne pas utiliser le SCORE2).
+Le risque cardiovasculaire en cas d'hypercholestérolémie familiale est d'emblée au moins {{< modal-btn modal-rcv >}}élevé{{< /modal-btn >}} (ne pas utiliser le SCORE2).
 
 ### Examen clinique
 
@@ -159,7 +159,7 @@ D'autres traitements exceptionnels sont possibles: bypass iléal voire transplan
 
 {{< mermaid title="Prise en charge de l'hypercholestérolémie familiale par le médecin généraliste. Dr JB Fron d'après ESC 2021 et 2019" >}}
 graph TB
-  suspicion["<b>Suspicion<br>d'hypercholestérolémie familiale (HF)</b><br>—<br>- Hérédité cardiovasculaire<br>- Coronaropathie précoce<br>- HF ou xanthomes familiaux<br>- LDL &gt; 1,9 g/L (enfant: 1,5)<br>- Arc cornéen avant 45 ans"] --> bilan("Confirmer l'hypercholestérolémie<br>—<br>- Bilan lipidique<br>- Créatininémie<br>- Albuminurie<br>- TSH") --> DLCN("Critères diagnostiques<br>Dutch Lipid Clinic Network Diagnostic") --> cardiologue(Bilan cardiologique) --> traitement("<b>Prise en charge</b><br>—<br>Risque cardiovasculaire (très) élevé:<br>- Suivi spécialisé<br>- Correction des FRCV:<br>tabac, tension, activité, sédentarité,<br>obésité.<br>- Statine pour LDL &lt; 0,7 g/L<br>et réduction≥ 50%<br>± Ézétimibe<br>± Anti-PCSK9<br>Voire LDL-aphérèse")
+  suspicion["<b>Suspicion<br>d'hypercholestérolémie familiale (HF)</b><br>—<br>- Hérédité cardiovasculaire<br>- Coronaropathie précoce<br>- Antécédents familiaux d'HF ou de xanthomes<br>- LDL &gt; 1,9 g/L (enfant: 1,5)<br>- Arc cornéen avant 45 ans"] --> bilan("Confirmer l'hypercholestérolémie<br>—<br>- Bilan lipidique<br>- Créatininémie<br>- Albuminurie<br>- TSH") --> DLCN("Critères diagnostiques<br>Dutch Lipid Clinic Network Diagnostic") --> cardiologue(Bilan cardiologique) --> traitement("<b>Prise en charge</b><br>—<br>Risque cardiovasculaire (très) élevé:<br>- Suivi spécialisé<br>- Correction des FRCV:<br>tabac, tension, activité, sédentarité,<br>obésité.<br>- Statine pour LDL &lt; 0,7 g/L<br>et réduction≥ 50%<br>± Ézétimibe<br>± Anti-PCSK9<br>Voire LDL-aphérèse")
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

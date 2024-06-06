@@ -215,7 +215,7 @@ La prise en charge est identique après un accident ischémique transitoire (AIT
   - [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}})
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Correction d'un surpoids
-  - Activité physique ≥ 10 min x 4/semaine
+  - Activité physique ≥ 10 min x 4/semaine ([guide patient HAS](https://www.has-sante.fr/jcms/p_3391312/fr/l-activite-physique-pour-votre-sante-accident-vasculaire-cerebral))
   - Sédentaire: bouger 3 minutes toutes les 30 minutes
 - Si diabète
   - AVC < 6 mois: {{< modal-btn modal-hba1c >}}HbA1c cible 8%{{< /modal-btn >}}

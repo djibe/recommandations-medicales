@@ -22,7 +22,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Les nodules thyroïdiens sont le plus souvent bénins et évoluent peu (11-29% croissent à 5 ans)
+- Les nodules thyroïdiens sont le plus souvent bénins et évoluent peu (11 à 29% ont grossi à 5 ans)
 - Rechercher des antécédents thyroïdiens familiaux et personnels (irradiation cervicale, génétiques NEM2, PAF ...) et des complications (douleurs, dysphonie, dysphagie, dyspnée)
 - Le bilan initial d'un nodule thyroïdien comporte une TSH seule
 - Indications à l'échographie de la thyroïde: nodule palpable, gênant ou compressif, incidentalome en imagerie. Elle donne le score EU-TIRADS
@@ -30,7 +30,7 @@ flowchart = true
 - Surveillance des nodules thyroïdiens EU-TIRADS 2-3-4 ou Bethesda II: échographie à 1-2 ans puis 2-4 ans plus tard puis tous les 4-5 ans
 - La prise en charge du nodule thyroïdien chez l'enfant et pendant la grossesse relève du spécialiste (TSH + échographie systématique)
 
-Chapitre lié: [cancer de la thyroïde]({{< relref "cancer-thyroide.md" >}}), [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
+Chapitres liés: [cancer de la thyroïde]({{< relref "cancer-thyroide.md" >}}), [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

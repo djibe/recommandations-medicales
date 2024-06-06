@@ -261,7 +261,7 @@ graph TB
   grossesse("Absence de grossesse<br>pendant 12 mois<br>(6 mois si F +35 ans)") --> diagnostic(Infertilité) --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements, toxiques<br>- Mode de vie<br>-Ancienneté<br>- Cycles, rapports<br>- Symptômes<br>- Examen clinique") -- Homme --> bilan("<b>Bilan de l'homme</b><br>—<br>- Sérologies IST<br>- Spermogramme avec<br>spermocytogramme<br>et spermoculture<br>- Selon comorbidités: hormones,<br>échographie testiculaire") --> AMP("Centre d'Assistance Médicale<br>à la Procréation (AMP)")
     bilan -- Spermogramme anormal --> andrologue("Échographie testiculaire<br>et andrologue") -.-> AMP
   style diagnostic stroke:#4150f5, stroke-width:1px
-    clinique -- Femme --> bilanFemme("<b>Bilan de la femme</b><br>—<br>- TSH<br>- Sérologies IST voire autres<br>- Prél-vement vaginal<br>- Échographie pelvienne<br>endo-vaginale 3D à J2-J3<br>- AMH si AMP<br>- Selon critères: hormones") --> AMP
+    clinique -- Femme --> bilanFemme("<b>Bilan de la femme</b><br>—<br>- TSH<br>- Sérologies IST voire autres<br>- Prélèvement vaginal<br>- Échographie pelvienne<br>endo-vaginale 3D à J2-J3<br>- AMH si AMP<br>- Selon critères: hormones") --> AMP
 {{< /mermaid >}}
 
 {{% /collapse %}}

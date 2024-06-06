@@ -400,15 +400,7 @@ Synthèse des 13 recommandations du *Haut Conseil de la Santé Publique* pour la
 Pour en savoir plus, regarder le webinaire SPLF dans la section suivante (*Pour en savoir plus*).
 
 {{% /collapse %}}
-{{%collapse "Pour en savoir plus" %}}
-
-### Vidéos de formation
-
-*Pour la planète, sur la vidéo faites: clic droit > Enregistrer la vidéo sous*
-
-{{< video poster="https://splf.fr/wp-content/uploads/2021/11/Webinaire-2021-11-16-v2-1300-500.png" mp4="https://docs.splf.fr/videos/Webinaires/2021/Webinaire-SPLF-2021-11-16.mp4" description="Webinaire SPLF: Tabac comment aider nos patients à arrêter de fumer" >}}
-
-{{< video mp4="https://docs.splf.fr/videos/Jeudis-de-la-SPLF/jeudis2022/j2022-06.mp4" description="Webinaire SPLF: Actualités sur le sevrage tabagique : place de la cigarette électronique" >}}
+{{%collapse "Pour en savoir plus: l'entretien motivationnel" %}}
 
 ### Entretien motivationnel
 
@@ -429,6 +421,21 @@ L'entretien motivationnel n'est pas une confrontation ou une persuasion.
 [Échelle de l'évaluation du sentiment d'efficacité (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_evaluation_sentiment_efficacite.pdf)
 
 {{% /collapse %}}
+{{%collapse "FMC gratuites" %}}
+
+{{< card-link-external title="MOOC Tabac : Arrêtez comme vous voulez !" subtitle="APHP, Paris-Descartes, Inserm ..." url="https://www.pns-mooc.com/fr/mooc/18/presentation">}}
+
+{{< card-link-external title="Se former aux addictions" subtitle="Intervenir Addictions" url="https://intervenir-addictions.fr">}}
+
+### Vidéos de formation
+
+*Pour la planète, sur la vidéo faites: clic droit > Enregistrer la vidéo sous*
+
+{{< video poster="https://splf.fr/wp-content/uploads/2021/11/Webinaire-2021-11-16-v2-1300-500.png" mp4="https://docs.splf.fr/videos/Webinaires/2021/Webinaire-SPLF-2021-11-16.mp4" description="Webinaire SPLF: Tabac comment aider nos patients à arrêter de fumer" >}}
+
+{{< video mp4="https://docs.splf.fr/videos/Jeudis-de-la-SPLF/jeudis2022/j2022-06.mp4" description="Webinaire SPLF: Actualités sur le sevrage tabagique : place de la cigarette électronique" >}}
+
+{{% /collapse %}}
 {{%collapse "Prise en charge de l'arrêt du tabac" "show" %}}
 
 {{< mermaid title="Recommandations pour le dépistage systématique du tabagisme et prise en charge de l'arrêt du tabac (hors bilan des complications). Dr JB Fron d'après HAS 2014" >}}
@@ -444,13 +451,6 @@ accTitle: Prise en charge de l'arrêt du tabac d'après HAS 2014
       ancien -- Arrêt ancien --> ancien2(Y penser lors<br>d'événements de vie) --> ouvert
     antecedent -- Non --> non(Non fumeur)
 {{< /mermaid >}}
-
-{{% /collapse %}}
-{{%collapse "FMC gratuites" %}}
-
-{{< card-link-external title="MOOC Tabac : Arrêtez comme vous voulez !" subtitle="APHP, Paris-Descartes, Inserm ..." url="https://www.pns-mooc.com/fr/mooc/18/presentation">}}
-
-{{< card-link-external title="Se former aux addictions" subtitle="Intervenir Addictions" url="https://intervenir-addictions.fr">}}
 
 {{% /collapse %}}
 {{%sources%}}

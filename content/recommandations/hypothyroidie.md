@@ -404,7 +404,7 @@ graph TB
       hT --> bilan("<strong>Examens</strong><br>—<br>- Aucun si +65 ans<br>- Anticorps anti-TPO<br>± dépistage M. cœliaque<br>- Rarement échographie cervicale<br>- ECG")
         bilan --> traitement(Traitement par lévothyroxine)
           traitement --> adulte("<b>Adulte</b><br>- Débuter à 1,6 µg/kg/j<br>- Paliers de 12 µg<br>toutes les 6-8 semaines")
-            adulte -- Fragilité --> fragile("<b>+65 ans avec TSH &gt; 20</b>: Débuter à 1,1-1,3 µg/kg/j<br>TSH cible valeurs hautes<br>avis endoc entre 10 et 20 mUI/L<br>—<br><b>Cardiopathe</b>: Débuter 12,5-25 µg/j")
+            adulte -. Fragilité .-> fragile("<b>+65 ans avec TSH &gt; 20</b>: Débuter à 1,1-1,3 µg/kg/j<br>TSH cible valeurs hautes<br>avis endoc entre 10 et 20 mUI/L<br>—<br><b>Cardiopathe</b>: Débuter 12,5-25 µg/j")
           traitement --> enfant("<b>Enfant</b><br>Débuter à 2 µg/kg/j")
   decouverte -- Grossesse ou désir --> chapitre(Section dédiée)
   decouverte -. "TSH &gt; 10 et T4L basse<br>TSH &gt; 20 si +65 ans" .-> hT
