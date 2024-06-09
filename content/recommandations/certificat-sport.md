@@ -1,14 +1,14 @@
 +++
-title = "Certificat de non contre-indication à la pratique du sport (CNCI)"
+title = "Certificat de non contre-indication à la pratique du sport (CACI)"
 prefix = "le "
 noindex = true
 titleSeo = "Certificat contre-indication sport"
-description = "Recommandations pour l'établissement du certificat de non contre-indication à la pratique du sport. Examens complémentaires, ECG, épreuve d'effort ..."
+description = "Recommandations pour l'établissement du certificat d'absence de contre-indication à la pratique du sport CACI. Examens complémentaires, ECG, épreuve d'effort"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-08T20:02:41+02:00"
 publishdate = "2020-10-08"
-lastmod = "2023-10-07"
+lastmod = "2024-06-09"
 specialites = ["certificats"]
 annees = "2023"
 sources = ["JO", "SFC"]
@@ -17,9 +17,9 @@ anglais = []
 sctid = ""
 icd10 = "Z027"
 image = true
-imageSrc = "Le certificat de non contre-indication à la pratique du sport (CNCI). pikisuperstar / Freepik"
+imageSrc = "Le certificat médical d'absence de contre-indication (CACI) à la pratique du sport. pikisuperstar / Freepik"
 chart = true
-todo = "rein unique, Bio > 35 ans, type 1A (sources 12-13), quel examen clinique, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/guide_aps_chapitre_6_la_consultation_medicale_ap.pdf, duree certif plongee, https://pubmed.ncbi.nlm.nih.gov/36256586/, https://www.fmfpro.org/est-ce-que-les-cnci-servent-vraiment-a-quelque-chose/, https://www.conseil-national.medecin.fr/sites/default/files/external-package/bulletin/1vyilzi/medecins_89.pdf"
+todo = "rein unique, Bio > 35 ans, type 1A (sources 12-13), quel examen clinique, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/guide_aps_chapitre_6_la_consultation_medicale_ap.pdf, duree certif plongee, https://pubmed.ncbi.nlm.nih.gov/36256586/, https://www.fmfpro.org/est-ce-que-les-CACI-servent-vraiment-a-quelque-chose/, https://www.conseil-national.medecin.fr/sites/default/files/external-package/bulletin/1vyilzi/medecins_89.pdf"
 flowchart = true
 +++
 
@@ -41,7 +41,7 @@ Chapitre lié: [test d'effort]({{< relref "epreuve-effort.md" >}})
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-Certificat de non contre-indication à la pratique du sport (CNCI)
+Certificat médical d'absence de contre-indication à la pratique sportive (CACI)
 : Réglementé par les dispositions du code du sport (L. 231-2 et L. 231-2-3) qui prévoient la présentation d'un license de moins d'un an pour l'inscription à une fédération sportive.
 : La présentation du certificat médical est exigée tous les 3 ans pour les adultes.  
 Les autres années, le licencié (ou son représentant légal) renseigne un questionnaire de santé [QS-SPORT](https://www.formulaires.service-public.fr/gf/cerfa_15699.do).
@@ -232,7 +232,7 @@ graph TB
 - [Société Française de Cardiologie (SFC). Recommandations concernant le contenu du bilan cardiovasculaire de la visite de non contre indication à la pratique du sport en compétition entre 12 et 35 ans. 2009.](https://www.sfcardio.fr/publication/recommandations-concernant-le-contenu-du-bilan-cardiovasculaire-de-la-visite-de-non)
 - [CNOM. Certificats de non contre indication à la pratique du sport](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificats-indication-pratique-sport)
 - [Club des Cardiologues du Sport](https://www.clubcardiosport.com/)
-- [Dr Augé D. Visite de CNCI. (PDF)](https://www.hjd.asso.fr/sites/default/files/Visite%20de%20non%20contre-indication%20%C3%A0%20la%20pratique%20sportive%20V2.pdf)
+- [Dr Augé D. Visite de non contre-indication à la pratique sportive. Quel examen pour quel sport ? (PDF)](https://www.hjd.asso.fr/sites/default/files/Visite%20de%20non%20contre-indication%20%C3%A0%20la%20pratique%20sportive%20V2.pdf)
 
 ### Bibliographie en attente
 

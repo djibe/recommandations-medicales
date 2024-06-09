@@ -14,6 +14,7 @@ sources = ["Assurance Maladie"]
 tags = []
 anglais = []
 sctid = ""
+draft = true
 todo = "reprise temps partiel, modalité papier/ameli, https://www.fmfpro.org/reprise-du-travail-apres-un-arret-prolonge.html | Arrêt dépression: suivi hebdo, psycho, antidep 6 mois, temps partiel"
 +++
 

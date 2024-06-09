@@ -293,10 +293,12 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 Le traitement dépend de la décision de la réunion de concertation pluridisciplinaire.
 
 - [HAS Guide patient: La prise en charge du cancer colorectal (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-05/ald_30_gp_cancer_colorectal_web.pdf)
-- Déclarer l'ALD
-- Mesures systématiques  
-  Arrêt tabac, alcool, augmenter l'activité physique, fibres pour diminuer les risques de complication des traitements, de second cancer et améliorer la survie.
-- {{< modal-btn modal-mna >}}Dépister la Dénutrition{{< /modal-btn >}} (39%) et accompagnement diététique spécialisé
+- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Mesures systématiques associées au cancer
+  - Arrêt tabac et alcool
+  - Activité physique quotidienne ([guide patient](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_cancer.pdf))
+  - Augmenter les apports en fibres
+- {{< modal-btn modal-mna >}}Dépister la dénutrition{{< /modal-btn >}} (39%) et accompagnement diététique spécialisé
 - Stomie: soins par infirmier stomathérapeute
 - Association de patients  
   [France Côlon](https://www.france-colon.fr), [Mon réseau cancer colorectal](https://www.monreseau-cancercolorectal.com), [Crohn-RCH France](https://www.afa.asso.fr), [Ligue nationale contre le cancer](https://www.ligue-cancer.net), [Polyposes Familiales](https://www.polyposes-familiales.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com), [Ligue Cancer info](https://www.ligue-cancer.net) (ou {{<phone>}}0 805 123 124{{</phone>}})

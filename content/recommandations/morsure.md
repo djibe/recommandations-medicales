@@ -157,7 +157,9 @@ Si vipère venimeuse: amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 
 - Le maire peut obliger le propriétaire à appliquer la loi sous 24 heures ([art. L. 223-10 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024395954/))
 - Le maire peut également ordonner le placement de l'animal voire son euthanasie ([art. L. 211-14-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022200148))
 
-> **NB.** Les chiens de 1<sup>re</sup> et 2<sup>e</sup> catégorie (ex: American Staffordshire terrier, Rottweiler, Tosa) doivent obligatoirement être assurés (*[Service Public](https://www.service-public.fr/particuliers/actualites/A17155)*)
+> **NB.** Les chiens de 1<sup>re</sup> et 2<sup>e</sup> catégorie (ex: American Staffordshire terrier, Rottweiler, Tosa) doivent obligatoirement être assurés. (*[Service Public](https://www.service-public.fr/particuliers/actualites/A17155)*)
+
+En cas d'animal mordeur mort ou abattu, le cadavre doit être adressé au [CNR de la Rage](https://www.pasteur.fr/fr/sante-publique/cnr/les-cnr/rage).
 
 {{% /collapse %}}
 {{%sources%}}
@@ -174,5 +176,9 @@ Si vipère venimeuse: amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 
 - [SPILF. Info-antibio N°80. Mars 2018. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2018-03-plaies.pdf)
 - [SFMU, SFFPC. Plaies aiguës en structure d'urgence. 2017.](https://www.sfmu.org/upload/consensus/rbp_plaies2017_v2.pdf)
 - [zoopsy, InVS. Facteurs de gravité des morsures de chien aux urgences. 2010. (PDF)](https://conseil53.ordre.medecin.fr/sites/default/files/domain-349/1/morsures_chiens_1.pdf)
+
+### Bibliographie en attente
+
+[Colmers-Gray I et al. Management of mammalian bites. BMJ. 2023.](https://www.bmj.com/content/380/bmj-2022-071921)
 
 {{%/sources%}}

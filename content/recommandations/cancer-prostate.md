@@ -241,13 +241,17 @@ Une détection précoce peut être proposée à partir de 40 ans voire 10 ans av
 
 La prise en charge du cancer de la prostate est spécialisée après RCP. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
 
-Déclarer l'**[ALD n°30]({{< relref "affection-longue-duree.md" >}})**.
-
 Plusieurs stratégies thérapeutiques sont disponibles pour la prise en charge du cancer de la prostate: **prostatectomie totale, radiothérapie, hormonothérapie, surveillance active** (détaillée plus bas) voire une ***Abstention-surveillance*** (patient asymptomatique avec cancer localisé et espérance de vie < 10 ans).
 
 Toutes les techniques nécessitent un suivi spécialisé prolongé avec dosages réguliers du PSA: tous les 6 mois pendant 3 ans puis annuel.
 
 > Après prostatectomie totale, la cible du PSA est < 0,2 ng/mL à 6 semaines.
+
+Mesures associées aux cancers:
+
+- Déclarer l'**[ALD n°30]({{< relref "affection-longue-duree.md" >}})**
+- Activité physique quotidienne ([guide patient](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_cancer.pdf))
+- Soutien psychologique
 
 ### La surveillance active
 

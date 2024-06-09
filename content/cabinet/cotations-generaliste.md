@@ -5,7 +5,7 @@ description = "Aide à la cotation des consultations en médecine générale: co
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2024-05-01"
+lastmod = "2024-06-07"
 annees = "2024"
 sources = ["Assurance Maladie"]
 tags = []
@@ -21,7 +21,8 @@ Liste des codes pour les actes et les consultations des adultes et des enfants e
 ## Les nouvelles cotations 2024
 
 - Majoration MOP de 5€ pour les +80 ans qui ne font pas partie de la patientèle (valable en (télé)consultation ou visite)
-- La cotation RDV est à 100% pour le rendez-vous de prévention à réaliser une fois à 18-25, 45-50, 60-65 et 70-75 ans
+- La cotation RDV est à 100 % pour le rendez-vous de prévention à réaliser une fois à 18-25, 45-50, 60-65 et 70-75 ans
+- Le G(S) passera à 30€ le 5 décembre 2024
 
 ## Les outils d'aide à la cotation du généraliste
 

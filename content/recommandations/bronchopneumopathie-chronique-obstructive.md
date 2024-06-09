@@ -590,7 +590,7 @@ graph TB
 - Conseils pour arrêter de fumer (tabac, cannabis) et son intérêt pour l'évolution de la maladie
 - Conseils pour éviter le tabagisme passif et les aéropolluants professionnels
 - Gestion de la dyspnée
-- Importance et modalités d'une activité physique régulière, intégrée dans sa vie quotidienne
+- Importance et modalités d'une activité physique régulière, intégrée dans sa vie quotidienne ([guide info HAS](https://www.has-sante.fr/jcms/p_3391313/fr/l-activite-physique-pour-votre-sante-bpco-broncho-pneumopathie-chronique-obstructive))
 - Intérêt de la réhabilitation respiratoire (le cas échéant)
 - Intérêt du traitement médicamenteux et de sa gestion optimale
   - Compréhension de l'action des médicaments

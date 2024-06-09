@@ -262,30 +262,6 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "Outils de formation gratuits" %}}
-
-### Applications
-
-- [CardioSmart Heart Explorer (ACC)](https://play.google.com/store/apps/details?id=org.acc.csexplorer)
-
-### Formation complète
-
-{{< card-link-external title="Cursus ECG" url="https://www.cardiocases.com/fr/ecg/cursus-ecg" subtitle="par Cardiocases" >}} {{< card-link-external title="Livre ECG" url="https://book.cardio-fr.com/fr/" >}}
-
-- [e-cardiogram](https://www.e-cardiogram.com) (Dr Pierre Taboulet)
-- [ECG Learning Center](https://ecg.utah.edu/)
-
-### Entraînements de lecture d'ECG
-
-- [Cardio Learn](https://cardiolearn.univ-catholille.fr/exercice-ecg/) (Lille)
-- [Cardiocases](https://www.cardiocases.com/fr/ecg/se-former)
-- [ECG Quiz](http://www.ecg-quiz.com/ecg-quiz/)
-- [EKG.Academy](https://ekg.academy/fr/exercices-entrainement-ecg)
-- [Dr Smith's ECG Blog](http://hqmeded-ecg.blogspot.com/2014/12/)
-
-Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ecg-pediatrique.html).
-
-{{% /collapse %}}
 {{%sources%}}
 
 - [Grave C et al. Évolutions nationale et régionales de l'admission en réadaptation cardiaque après un syndrome coronaire aigu en France entre 2009 et 2021 : des disparités persistantes. Bull Épidémiol Hebd. 2024.](http://beh.santepubliquefrance.fr/beh/2024/8/2024_8_3.html)

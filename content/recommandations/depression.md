@@ -469,7 +469,7 @@ La prise en charge de la dépression nécessite des consultations dédiées. Pou
 - Activité physique régulière
   - Marche, jogging, yoga, Qi Gong, renforcement musculaire
   - Encore plus efficaces de manière intense
-  - Prescription d'*activité physique adaptée* (APA)
+  - Prescription d'*activité physique adaptée* (APA, [guide info patient (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_depression.pdf))
 - Activité sociale régulière
 - Maintenir un rythme de vie sain (horaires, sommeil)
 - Luminothérapie (*VA 2022*)

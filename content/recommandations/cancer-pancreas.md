@@ -240,7 +240,7 @@ Adresser en semi-urgence à l'équipe hospitalière de gastro-entérologie pour 
 
 La majorité reçoit aussi une chimiothérapie. Le taux de **récidive** est très élevé.
 
-Soins associés: ALD, traitement de douleur, prise en charge de la dépression et de la dénutrition.
+Soins associés: déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}}), traitement de douleur, prise en charge de la dépression et de la dénutrition.
 
 Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr).
 

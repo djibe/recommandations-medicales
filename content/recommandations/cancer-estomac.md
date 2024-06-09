@@ -172,6 +172,12 @@ Le bilan complémentaire comporte toujours un **scanner** thoraco-abdomino-pelvi
 
 La prise en charge du cancer de l'estomac est spécialisée et pluridisciplinaire après **réunion de concertation pluri-disciplinaire**.
 
+Mesures générales associées au cancer:
+
+- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Activité physique quotidienne
+- Soutien psychologique
+
 ### Dépistage de l'entourage
 
 Dépistage d'*Helicobacter pylori* systématique chez l'entourage au premier degré du patient:

@@ -123,7 +123,7 @@ La prise en charge du cancer du rein est spécialisée après RCP. [Annuaire des
 Mesures associées à la prise en charge des cancers:
 
 - Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
-- Avis oncogénétique si ≤ 46 avec ≥ 1 parmi:
+- Avis oncogénétique avant 47 ans avec ≥ 1 parmi:
   - tumeur bilatérale ou multifocale
   - antécédent familial au 1er ou 2e degré
   - proche avec mutation connue

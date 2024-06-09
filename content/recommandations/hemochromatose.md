@@ -252,6 +252,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="oq49Rlnmyr0" title="Webinar Hémochromatose : Dépister et mieux traiter en 2024 (AFEF Medical Education)" >}}
+
 {{< youtube id="N4mWcUyGAf8" title="Nouvelle classification des surcharges en fer - E. BARDOU-JACQUET 2019 (AFEF Medical Education)" >}}
 
 {{< youtube id="SCXvdQo9x_w" title="DES Hématologie 2020-2021 : Pathologies du fer (1/2)  (Association des Internes en Hématologie AIH)" >}}

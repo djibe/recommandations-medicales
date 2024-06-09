@@ -230,6 +230,12 @@ Le traitement du cancer du col peut être (après RCP): chirurgie, radiothérapi
 
 En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md" >}}) peut être introduit.
 
+Mesures associées aux cancers:
+
+- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Activité physique quotidienne
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
 

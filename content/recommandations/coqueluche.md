@@ -6,7 +6,7 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2024-04-26"
+lastmod = "2024-06-07"
 specialites = ["infectiologie", "ORL"]
 annees = "2022"
 sources = ["HCSP", "SPILF", "HAS"]
@@ -15,7 +15,7 @@ anglais = ["Pertussis", "Whooping cough"]
 sctid = "27836007"
 icd10 = "A37"
 image = true
-imageSrc = "Illustration de la coqueluche par Freepik"
+imageSrc = "La coqueluche. Freepik"
 todo = "https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"
 flowchart = true
 +++
@@ -33,7 +33,7 @@ flowchart = true
   - [Vaccination coqueluche]({{< relref "vaccination.md" >}}) pendant chaque grossesse (entre 20 et 36 SA)  
   - **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse si: amené à s'occuper de l'enfant les 6 premiers mois et le dernier rappel a +5 ans avant 25 ans ou +10 ans au-delà
   - Professionnels de santé: valence coqueluche à chaque rappel
-- [Signalement à l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}) pour au moins 2 cas de coqueluche en collectivité
+- [Signalement à l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}) pour au moins 2 cas de coqueluche en collectivité ou intrafamiliaux
 
 Chapitre lié: [toux chronique]({{< relref "toux-chronique.md" >}})
 
@@ -198,8 +198,9 @@ Prise en charge de la coqueluche:
 - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}})  
   Il n'y a pas lieu d'administrer > 1 dose de vaccin coquelucheux chez l'adulte (sauf professionnel de santé).
 - Antibioprophylaxie des sujets contacts et examen des tousseurs (voir section suivante)
-- Signalement de cas groupés (≥ 2 cas) en collectivité  
-  Au médecin inspecteur de l'ARS (CLIN si EHPAD).
+- Signalement au médecin inspecteur de l'ARS (CLIN si EHPAD) si:
+  - Cas groupés (≥ 2 cas) familiaux ou en collectivité
+  - Infection nosocomiale
 
 ### Antibiothérapie de la coqueluche
 
@@ -257,6 +258,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [DGS-Urgent 2024_08. 07/06/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - {{< references/calendrier-vaccinal >}}
 - [HCSP. Conduite à tenir autour d'un ou plusieurs cas de coqueluche. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1265)
 - [SPILF. Info-antibio N°92. Mai 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)

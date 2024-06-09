@@ -2,61 +2,67 @@
 title = "Électrocardiogramme (ECG)"
 prefix = "l'"
 noindex = true
-description = "TODO:"
+description = "Électrocardiogramme (ECG): formations à la lecture d'ECG"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-06-04T20:33:37+02:00"
-publishdate = "2024-06-04"
-lastmod = "2024-06-04"
+publishdate = "2024-06-06"
+lastmod = "2024-06-07"
 specialites = ["cardiologie"]
 annees = "2024"
 sources = []
-tags = []
+tags = ["HTA"]
 anglais = ["Electrocardiogram (ECG or EKG)"]
 sctid = "29303009"
-icd10 = "https://prod-mapping.ihtsdotools.org/#/"
-draft = true
+icd10 = ""
 image = true
 imageSrc = "L'électrocardiogramme. pch.vector / Freepik"
-todo = "descr > summary > liens > photo > newsletter > flow"
+todo = "liens | indications ECG, ECG connectés"
 +++
 
 {{%article-summary%}}
 
+Cette page vise à rassembler un certain nombre de formations et entraînements gratuits à la lecture d'ECG.
 
+Les ressources manquantes peuvent être signalées par les boutons de **Contact**.
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Cotation des ECG" %}}
 
+L'ECG 12 dérivations (DEQP003: 14,26€) est cumulable avec la consultation du généraliste G(S).
 
-
-{{% /collapse %}}
-{{%collapse "Cotations" %}}
-
+Le modificateur (jour férié, nuit) est applicable en cas d'urgence ou de garde régulée.
 
 {{% /collapse %}}
-{{%collapse "FMC gratuites" %}}
+{{%collapse "Téléexpertise des ECG" %}}
 
+L'ECG annuel est requis en cas de diabète type 2, au diagnostic puis tous les 3 à 5 ans pour l'hypertension artérielle, avant un traitement allongeant le QT ... Ainsi, en dehors de situations d'urgence, cet ECG de routine peut être réalisé au cabinet puis envoyé en [téléexpertise]({{< relref "teleexpertise.md" >}}) (RQD: 10€) pour s'assurer de l'absence d'anomalies.
+
+Sur Omnidoc, le groupe *SOS ECG* offre à tous les confrères cette expertise.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Formations à la lecture d'ECG" %}}
 
+### Formations complètes à la lecture d'ECG
+
+{{< card-link-external title="Cursus ECG" url="https://www.cardiocases.com/fr/ecg/cursus-ecg" subtitle="par Cardiocases" >}} {{< card-link-external title="Livre ECG" url="https://book.cardio-fr.com/fr/" subtitle="par le Pr Goy et les Drs Christeler, Schläpfer et Stauffer" >}}
+
+- [e-cardiogram](https://www.e-cardiogram.com) (Dr Pierre Taboulet)
+- [ECG Learning Center](https://ecg.utah.edu/) (Pr Frank Yanowitz)
+
+> Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ecg-pediatrique.html).
+{.alert .alert-info}
+
+### Entraînements à la lecture d'ECG
+
+- [Cardio Learn](https://cardiolearn.univ-catholille.fr/exercice-ecg/) (La Catho - Lille)
+- [Cardiocases](https://www.cardiocases.com/fr/ecg/se-former)
+- [ECG Quiz](https://www.ecg-quiz.com/ecg-quiz/)
+- [EKG.Academy](https://ekg.academy/fr/exercices-entrainement-ecg)
+- [Dr Smith's ECG Blog](http://hqmeded-ecg.blogspot.com/)
+
+### Application sur l'ECG
+
+- [CardioSmart Heart Explorer (ACC)](https://play.google.com/store/apps/details?id=org.acc.csexplorer)
 
 {{% /collapse %}}
-{{%sources%}}
-
-- [Source 1](URL)
-
-### Bibliographie en attente
-
-- Collège
-- Prescrire
-- Cochrane
-- Minerva
-- Cismef
-- NICE Clinical guidance
-
-{{%/sources%}}
-
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–
-[External link](https://discourse.gohugo.io/ "{rel='nofollow'}")

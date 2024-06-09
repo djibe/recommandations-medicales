@@ -262,7 +262,7 @@ Les indications à l'IRM mammaire sont limitées:
 
 ### Lutte contre les facteurs de risques modifiables de cancer du sein
 
-Réduction de la consommation d'[alcool]({{< relref "sevrage-alcool.md" >}}) (15% attribuables, *CIRC et SPF*), tabac (4,4%), lutte contre surpoids/[obésité]({{< relref "obesite-adulte.md" >}}) (11%) et l'inactivité physique.
+Réduction de la consommation d'[alcool]({{< relref "sevrage-alcool.md" >}}) (15% attribuables, *CIRC et SPF*), tabac (4,4 %), lutte contre surpoids/[obésité]({{< relref "obesite-adulte.md" >}}) (11%) et l'inactivité physique.
 
 ### Palpation mammaire annuelle
 
@@ -325,6 +325,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: ch
 - Femme non ménopausée: contraception non hormonale (préservatif, DIU cuivre)  
   Désir d'enfant, sur avis oncologique.
 - Contre-indication à vie au THM
+- Activité physique quotidienne ([guide patiente HAS](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_cancer.pdf))
 - Consignes pour le lymphœdème  
   Voir *Surveillance après cancer*.
 - Prévention de la radiodermite
@@ -334,8 +335,9 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: ch
   - Limiter l'exposition solaire
   - Hygiène rigoureuse et pommades émollientes
 - Information de la patiente: [INCa](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-du-sein/Les-points-cles)
-- Associations de patients  
-  [étincelle](http://www.etincelle.asso.fr/), [Europa Donna](http://www.europadonna.fr/), [Rose up](https://www.rose-up.fr/#1), [Skin](https://associationskin.org/), [Vivre Comme Avant](https://www.vivrecommeavant.fr/).
+- Associations de patientes  
+  [étincelle](http://www.etincelle.asso.fr), [Europa Donna](http://www.europadonna.fr), [Rose up](https://www.rose-up.fr), [Skin](https://associationskin.org), [Vivre Comme Avant](https://www.vivrecommeavant.fr).
+- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
 
 ### Pour en savoir plus: Principes des traitements selon la tumeur du sein
 
