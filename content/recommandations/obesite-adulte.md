@@ -359,7 +359,7 @@ Un objectif doit être précis, atteignable, progressif, facile à mettre en œu
 La prise en charge de l'obésité associe:
 
 - Activité physique
-  - Lutte contre la sédentarité
+  - Lutte contre la sédentarité, [guide patient HAS](https://www.has-sante.fr/jcms/p_3391326/fr/l-activite-physique-pour-votre-sante-surpoids-et-obesite) (PDF)
   - Cible: 150-300 minutes d'{{< modal-btn modal-met >}}intensité modérée{{< /modal-btn >}} par semaine et renforcement x 2/semaine
   - Activité physique adaptée (APA) voire supervisée
 - Perte de poids adaptée à la physiologie  

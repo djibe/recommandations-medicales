@@ -388,6 +388,7 @@ Bilan HTA:
 - Activité physique quotidienne
   - Au moins 2h30 à 5h d'{{< modal-btn modal-met >}}intensité modérée{{< /modal-btn >}} hebdomadaire (ou la moitié d'intense)
   - Renforcement musculaire 2-3 fois par semaine
+  - [Guide patient HAS](https://www.has-sante.fr/jcms/p_3391319/fr/l-activite-physique-pour-votre-sante-hypertension-arterielle) (PDF)
 - {{%modal-btn "modal-rcv"%}}LDL cible selon le risque cardiovasculaire{{%/modal-btn%}}
 - Pas de bénéfice avec l'aspirine en prévention primaire
 - Contrôle du stress: méditation, yoga

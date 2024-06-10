@@ -43,10 +43,13 @@ Sur Omnidoc, le groupe *SOS ECG* offre à tous les confrères cette expertise.
 {{% /collapse %}}
 {{%collapse "Formations à la lecture d'ECG" %}}
 
+https://ecgclic.fr/
+
 ### Formations complètes à la lecture d'ECG
 
 {{< card-link-external title="Cursus ECG" url="https://www.cardiocases.com/fr/ecg/cursus-ecg" subtitle="par Cardiocases" >}} {{< card-link-external title="Livre ECG" url="https://book.cardio-fr.com/fr/" subtitle="par le Pr Goy et les Drs Christeler, Schläpfer et Stauffer" >}}
 
+- [ECGclic](https://ecgclic.fr)
 - [e-cardiogram](https://www.e-cardiogram.com) (Dr Pierre Taboulet)
 - [ECG Learning Center](https://ecg.utah.edu/) (Pr Frank Yanowitz)
 

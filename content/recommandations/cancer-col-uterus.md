@@ -241,6 +241,8 @@ Mesures associées aux cancers:
 
 {{< card-link-external title="MOOC HPV - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/21/presentation" subtitle="Université de Paris">}}
 
+{{< card-link-external title="Prévention contre le papillomavirus (HPV)" url="https://pns-mooc.com/fr/mooc/29/presentation" subtitle="CNGOF, Infovac-France, ANP">}}
+
 {{< youtube id="-AMgdgFq9EM" title="Vaccination contre les papillomavirus humains (HPV) (VacciNews)" >}}
 
 - [INCa. Dépistage organisé du cancer du col de l'utérus](https://depistagecoluterus.e-cancer.fr)

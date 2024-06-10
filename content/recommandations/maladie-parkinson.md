@@ -282,7 +282,8 @@ Le traitement est symptomatique et pluridisciplinaire avec un accès privilégi�
   Critère: Syndrome parkinsonien non réversible nécessitant au moins un traitement anti parkinsonien pendant au moins 6 mois.
 - Suivi minimal trimestriel  
   Avis gériatrique si besoin.
-- Activité physique régulière et diversifiée
+- Activité physique régulière et diversifiée  
+  [Guide patient HAS](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_parkinson.pdf) (PDF)
 - Suivi paramédical
   - **Kinésithérapeute**: aucune technique n'a de supériorité
   - **Orthophoniste** (micrographie, voix, déglutition)

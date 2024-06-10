@@ -114,7 +114,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 - Définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}} (avec le {{< scores/score2-diabetes >}} en prévention primaire chez le 40-69 ans) ...
 - Afin de déterminer le LDL cible (souvent < 0,7 g/L) par {{< modal-btn modal-statine-intensite >}}statine de haute intensité{{< /modal-btn >}}
 - Activité physique
-  - **Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée, 75 si intense). Renforcement musculaire 3 j/sem. Commencer par 10 min de marche/j autre objectif *SMART*.
+  - **Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée, 75 si intense). Renforcement musculaire 3 j/sem. Commencer par 10 min de marche/j autre objectif *SMART*. [Guide patient HAS](https://www.has-sante.fr/jcms/p_3391317/fr/l-activite-physique-pour-votre-sante-diabete-de-type-2)
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette 3 j/sem
   - Bouger 5 minutes chaque heure
   - Avec l'âge, favoriser la souplesse 2 à 3 jours par semaine (yoga, Thai-chi)

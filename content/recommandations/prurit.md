@@ -1,8 +1,8 @@
 +++
-title = "Conduite à tenir devant un prurit"
-prefix = "la "
+title = "Prurit"
+prefix = "le "
 titleSeo = "Prise en charge du prurit"
-description = "Recommandations pour la prise en charge d'un prurit. Bilan: biologie, radio de thorax, échographie abdominale et médicament anti-histaminique. Éliminer une gale"
+description = "Recommandations pour la prise en charge d'un prurit. Examen clinique, bilan: biologie, radio de thorax, échographie abdominale et médicament anti-histaminique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-02T17:43:41+02:00
@@ -22,16 +22,16 @@ flowchart = true
 
 {{%article-summary%}}
 
+- Le prurit est un diagnostic d'interrogatoire: sensation de démangeaison localisée ou généralisée, atteignant la peau ou certaines muqueuses
 - Éliminer une [gale]({{< relref "gale.md" >}}) devant tout prurit
 - Un prurit chronique nu chez un jeune adulte doit faire évoquer un lymphome
-- Prise en charge d'un prurit nu sans cause évidente: biologie, radiographie de thorax voire échographie abdominale
+- Prise en charge d'un prurit nu sans cause évidente: bilan avec biologie, radiographie de thorax voire échographie abdominale
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Prurit
-: Sensation de démangeaison localisée ou généralisée, atteignant la peau ou certaines muqueuses.  
-Il s'agit d'un diagnostic d'interrogatoire.
+: Sensation de démangeaison localisée ou généralisée, atteignant la peau ou certaines muqueuses. Il s'agit d'un diagnostic d'interrogatoire.
 : Un prurit sans lésion cutanée est dit *sine materia*.
 
 Prurit physiologique
@@ -50,9 +50,12 @@ Lichénification
 
 CEDEF
 : Collège des enseignants de dermatologie de France
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Étiologie" %}}
+
+### Étiologie d'un prurit
 
 - Dermatoses prurigineuses
   - Xérose cutanée
@@ -109,7 +112,7 @@ CEDEF
 Diagnostics fréquents selon la topographie du prurit:
 
 - Cuir chevelu
-  - Teigne
+  - [Teigne]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
   - [Pédiculose]({{< relref "pediculoses.md" >}})
   - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
   - [Psoriasis]({{< relref "psoriasis.md" >}})
@@ -129,7 +132,7 @@ Diagnostics fréquents selon la topographie du prurit:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Tout prurit nu et chronique chez un adulte jeune doit faire évoquer un lymphome.
+> Tout prurit nu et chronique chez un adulte jeune doit faire évoquer un lymphome.
 {.alert .alert-warning}
 
 Le prurit est un diagnostic d'interrogatoire.
@@ -140,7 +143,7 @@ Le prurit est un diagnostic d'interrogatoire.
 - Voyage
 - Animaux domestiques
 - Antécédents personnels et familiaux atopiques
-- Traitements en cours
+- **Traitements** en cours
 - Toxiques (cannabis)
 - Caractères du prurit
   - Date de début et vitesse d'installation
@@ -205,13 +208,13 @@ Prise en charge symptomatique d'un prurit:
 
 Avis dermatologique pour photothérapie UVB.
 
-**NB.** Les antihistaminiques ne sont actifs que sur les prurits histamino-médiés. Donc pour l'urticaire chronique.
+**NB.** Les antihistaminiques ne sont actifs que sur les prurits histamino-médiés. Donc pour l'[urticaire chronique]({{< relref "urticaire.md" >}}).
 
-### Traitement étiologique
+### Traitement étiologique du prurit
 
 Traitement de la cause et des facteurs aggravants le prurit.
 
-Substitution d'un traitement suspect.
+Substitution d'un **médicament** suspecté d'induire le prurit.
 
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}

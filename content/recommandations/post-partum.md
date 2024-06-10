@@ -27,7 +27,7 @@ todo = "flow"
 - Une contraception peut être débutée dans les 21 jours qui suivent l'accouchement (implant ++) ou DIU à la consultation post-natale
 - Dépistage systématique de la dépression post natale: {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou [échelle EPDS](https://www.hug.ch/sante-psychique-perinatalite/comment-depister-depression-perinatale-quizz-epds)
 - La consultation post-natale est essentielle et doit avoir lieu dans les 6-8 semaines après l'accouchement
-- Des situations postnatales (cicatrices, dépression) peuvent justifier une Hospitalisation À Domicile (HAD)
+- Des situations postnatales (cicatrices, dépression) peuvent justifier une *Hospitalisation À Domicile* (HAD)
 - Informations pour les parents: [Ameli](https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne/suivi-domicile), [1000 premiers jours](https://play.google.com/store/apps/details?id=com.fabrique.millejours), [M-pedia](https://www.mpedia.fr)
 
 Chapitres liés: [allaitement]({{< relref "allaitement.md" >}}), [grossesse]({{< relref "grossesse.md" >}})
@@ -152,6 +152,7 @@ La consultation post natale doit avoir lieu dans les 6-8 semaines après l'accou
 
 - Repérer des facteurs de risque psycho-sociaux
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}), de l'[alcool]({{< relref "sevrage-alcool.md" >}}) et des drogues
+- [Guide activité physique](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_postpartum.pdf) (PDF)
 - L'examen gynécologique n'est pas systématique
   - Frottis cervico-vaginal si +2 ans ou antécédent de frottis anormal
   - Si accouchement prématuré spontané: recherche de malformation utérine clinique, pas d'examen paraclinique de recherche de béance du col

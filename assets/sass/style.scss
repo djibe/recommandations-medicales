@@ -15,6 +15,10 @@
   --text-half: rgba(0,0,0, 0.54);
 }
 
+* {
+  text-wrap: pretty;
+}
+
 html,
 body,
 .list-page {
@@ -27,6 +31,10 @@ body,
 
 a {
   color: var(--primary);
+}
+
+h1,h2,h4,h5,h6 {
+  text-wrap: balance;
 }
 
 h1,
@@ -42,15 +50,6 @@ h2,
 .card-title {
   // font-family: Roboto,system-ui,-apple-system,"Segoe UI","Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif;
   letter-spacing: normal;
-}
-
-h1 {
-  text-wrap: balance;
-}
-
-h2,
-h3 {
-  text-wrap: pretty;
 }
 
 h1 {
@@ -576,7 +575,6 @@ article {
   color: var(--text);
   letter-spacing: normal;
   line-height: 1.5rem;
-  text-wrap: pretty;
 }
 
 .lead {

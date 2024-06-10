@@ -205,24 +205,20 @@ Prise en charge de la coqueluche:
 ### Antibiothérapie de la coqueluche
 
 {{%info%}}
-Antibiothérapie de la coqueluche: uniquement dans les 3 premières semaines d'évolution pour réduire la contagiosité.  
+Antibiothérapie de la coqueluche: uniquement durant les **3 premières semaines d'évolution** pour réduire la contagiosité.  
 Ne traiter un *B. parapertussis* pauci-symptomatique qu'en présence de personne à risque dans son entourage.
 
-Antibiotique de la classe macrolides possibles pendant la grossesse ([CRAT](https://www.lecrat.fr/6363/)):
+Antibiotique de la classe macrolide possible pendant la grossesse ([CRAT](https://www.lecrat.fr/6363/)):
 
 - Azithromycine 250 mg x 2/j pendant 3 jours  
   ou 1 dose-kg/jour
 - Clarithromycine 250 mg x 2/j pendant 7 jours  
   ou 1 dose-poids x 2/j
+- Allergie aux macrolides: cotrimoxazole 800/160 mg x 2/j pendant 14 jours  
+  Possible pendant la grossesse en association avec l'acide folique.
 {{%/info%}}
 
-**L'antibiothérapie n'améliore pas la toux.**
-
-#### Allergie aux macrolides
-
-Cotrimoxazole 800/160 mg x 2/j pendant 14 jours
-
-Possible pendant la grossesse en association avec l'acide folique.
+> **L'antibiothérapie n'améliore pas la toux.**
 
 {{% /collapse %}}
 {{%collapse "Antibioprophylaxie des sujets contacts" %}}

@@ -283,7 +283,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
   - Escalade thérapeutique: ajouter amlodipine/félodipine si non contrôlée
 - LDL cible selon les {{< modal-btn modal-rcv >}}comorbidités cardiovasculaires{{< /modal-btn >}}
 - Activité physique
-  - 30 minutes d'activité physique quotidienne (min 20 min x 3/sem)  
+  - 30 minutes d'activité physique quotidienne (min 20 min x 3/sem), [guide patient HAS](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_icc.pdf) (PDF)  
     {{%class%}}Atteindre une dyspnée légère à modérée.{{%/class%}}
   - **Réadaptation cardiaque** (réhabilitation) supervisée en SSR voire encadrée à domicile
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et de l'[alcool]({{< relref "sevrage-alcool.md" >}})

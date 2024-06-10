@@ -79,7 +79,7 @@ TDM
 {{% /collapse %}}
 {{%collapse "Clinique de l'appendicite aiguë" %}}
 
-L'examen clinique n'est pas suffisante pour le diagnostic d'appendicite aiguë.
+L'examen clinique n'est pas suffisant pour le diagnostic d'appendicite aiguë.
 
 ### Interrogatoire
 
