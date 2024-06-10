@@ -1,16 +1,16 @@
 // From https://github.com/wildhaber/offline-first-sw
 
-const CACHE_VERSION = 2;
+const CACHE_VERSION = 3;
 
-const BASE_CACHE_FILES = [
+const BASE_CACHE_FILES = [];
+
+const OFFLINE_CACHE_FILES = [
+  "/offline/",
   "/index.json",
-  "/sw.js",
   "/manifest.webmanifest",
   "/android-chrome-512x512.png",
   "/favicon.svg",
 ];
-
-const OFFLINE_CACHE_FILES = ["/offline/"];
 
 const NOT_FOUND_CACHE_FILES = ["/404.html"];
 
@@ -165,6 +165,7 @@ function precacheUrl(url) {
   }
 }
 
+// or install event ?
 self.addEventListener("appinstalled", (event) => {
   event.waitUntil(Promise.all([installServiceWorker(), self.skipWaiting()]));
 });
@@ -182,7 +183,7 @@ self.addEventListener("activate", (event) => {
   );
 });
 
-/* self.addEventListener("fetch", (event) => {
+self.addEventListener("fetch", (event) => {
   event.respondWith(
     caches.open(CACHE_VERSIONS.content).then((cache) => {
       return cache
@@ -272,7 +273,6 @@ self.addEventListener("activate", (event) => {
     })
   );
 });
-*/
 
 self.addEventListener("message", (event) => {
   if (typeof event.data === "object" && typeof event.data.action === "string") {
