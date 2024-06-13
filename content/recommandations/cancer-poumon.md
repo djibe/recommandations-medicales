@@ -16,7 +16,7 @@ anglais = ["Lung cancer"]
 sctid = "93880001"
 icd10 = "C34.9"
 image = true
-imageSrc = "Masse hilaire droite avec atélectasie du lobe supérieur droit est notée avec perte de volume de l'hémithorax droit. Assoc Prof Frank Gaillard / Radiopaedia.org"
+imageSrc = "Masse hilaire droite avec atélectasie du lobe supérieur droit (perte de volume de l'hémithorax droit). Assoc Prof Frank Gaillard / Radiopaedia.org"
 todo = "SPF, information du patient NICE et HAS"
 flowchart = true
 +++
@@ -25,9 +25,9 @@ flowchart = true
 
 - Le cancer du poumon est la première cause de mortalité par cancer alors qu'il est presque totalement évitable ([arrêt du tabac]({{< relref "arret-tabac.md" >}}))
 - Rechercher un cancer du poumon devant toute hémoptysie ou symptôme thoracique persistant chez un (ex)-fumeur
-- Radiographie de thorax F+P et scanner thoracique avec injection
-- Adresser en semi-urgence au Centre de Lutte contre le Cancer
-- Dépistage du cancer du poumon ciblé recommandé par la *SPLF* et la [Commission européenne](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
+- Bilan initial du cancer du poumon avec radiographie de thorax de face et profil et scanner thoracique injecté
+- Adresser en semi-urgence au pneumologue ou oncologue du Centre de Lutte contre le Cancer (CLCC)
+- Le dépistage ciblé du cancer du poumon n'est pas recommandé par la *HAS* mais est recommandé par les *SPLF* et *[Commission européenne](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)*
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

@@ -6,7 +6,7 @@ description = "Outils de traduction pour effectuer des consultations de médecin
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-23T14:40:00+02:00"
 publishdate = "2023-06-23"
-lastmod = "2023-06-23"
+lastmod = "2024-06-13"
 annees = "2023"
 sources = []
 tags = []
@@ -15,11 +15,10 @@ imageSrc = "de pch.vector / Freepik"
 datatable = true
 +++
 
-Lorsque l'anglais n'est pas partagé, la consultation médicale avec un patient étranger devient très complexe.
-{.lead}
-
-L'intelligence artificielle nous permet aujourd'hui de disposer d'outils de traduction gratuits et performants pour nos consultations de médecine générale.
+Lorsque l'anglais n'est pas partagé, la consultation médicale avec un patient étranger devient très complexe. L'intelligence artificielle nous permet aujourd'hui de disposer d'outils de traduction gratuits et performants pour nos consultations de médecine générale.
 {.lead .mb-5}
+
+{{< card-link-external title="Meta AI SeemlessM4T" url="https://seamless.metademolab.com/demo" subtitle="Traductions vocales dans le navigateur et transcriptions écrites en temps réel vers 36 langues. (15 secondes max)">}}
 
 ## Applications de traduction en temps réel
 

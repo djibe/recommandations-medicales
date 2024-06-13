@@ -447,6 +447,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Duffau C et al. Femmes à très haut risque de cancer du sein : contraception, traitement hormonal substitutif et dépistage personnalisé. Gynécologie Obstétrique Fertilité & Sénologie. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S2468718923000533)
 - [Sessa C et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
 - [ESMO. Metastatic Breast Cancer Living Guidelines​](https://www.esmo.org/living-guidelines/esmo-metastatic-breast-cancer-living-guidelines)
 

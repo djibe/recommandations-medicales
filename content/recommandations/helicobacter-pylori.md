@@ -25,16 +25,14 @@ todo = "rankok, reco enfant 2022, comment diag quand rosacée, dépistage en AIN
 {{%article-summary%}}
 
 - Dépister l'*Helicobacter pylori* par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication
-- Signes d'alarmes en cas de symptômes digestifs hauts: dysphagie, amaigrissement, anémie. Une fibroscopie gastrique est nécessaire
-- Endoscopie gastrique (EOGD) si symptômes ou facteurs de risque de [cancer de l'estomac]({{< relref "cancer-estomac.md" >}})
+- Signes d'alarmes évocateurs de [cancer de l'estomac]({{< relref "cancer-estomac.md" >}}) en cas de symptômes digestifs hauts: dysphagie, amaigrissement, anémie. Une fibroscopie gastrique est nécessaire
 - Privilégier le traitement adapté à l'antibiogramme d'*Helicobacter pylori* (après endoscopie)
-- Traitement probabiliste de première intention de l'Helicobacter pylori pendant 14 jours:
+- En l'absence d'antibiogramme, traitement probabiliste de première intention de l'Helicobacter pylori pendant 14 jours:
   - Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j)
   - Clarithromycine 500 x 2/j
   - Métronidazole 500 x 2/j
   - Ésoméprazole 40/rabéprazole 20 mg x 2/j
   - {{< modal-btn modal-test-respi >}}Contrôle de l'éradication{{< /modal-btn >}} systématique avec le test à l'urée marquée à 1 mois
-- 2 inhibiteurs de la pompe à protons (IPP) sont à privilégier: ésoméprazole 40 ou rabéprazole 20 mg (sauf oméprazole pour un traitement par Bismuth) matin et soir
 - Reporter le traitement d'éradication d'*Helicobacter pylori* en cas de grossesse ou d'allaitement
 
 {{%/article-summary%}}

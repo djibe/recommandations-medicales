@@ -22,12 +22,12 @@ todo = "image"
 
 {{%article-summary%}}
 
-- Devant une plainte de dyspepsie, rechercher un diabète et des troubles du comportement alimentaire
-- Indications à la fibroscopie gastrique: signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive), âge > 50 ans, échec du traitement médical, antécédent familial ou personnel de [cancer digestif](/tags/cancer/)
+- La dyspepsie est un syndrome défini par une douleur ou un inconfort chronique centré sur l’épigastre
+- Devant une plainte de dyspepsie, rechercher un [diabète](/tags/diabete/) et des troubles du comportement alimentaire
+- Indications au bilan par fibroscopie gastrique: signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive), âge supérieur à 50 ans, échec du traitement médical, antécédent familial ou personnel de [cancer digestif](/tags/cancer/)
 - Rechercher une [infection à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}}) (sérologie ou test respiratoire) si la fibroscopie n'est pas indiquée
-- Traitement de la dyspepsie par IPP simple dose pendant 4 à 8 semaines, intensification possible avec 2 prises par jour
-- Éviter les repas gras
-- Essai d'éviction séquentiel de certains aliments suspects
+- Prise en charge de la dyspepsie par IPP simple voire double dose pendant 4 à 8 semaines, éviter les repas gras
+- Essai d'éviction séquentiel de certains aliments suspects de causer les symptômes
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -42,7 +42,7 @@ La classification de Rome IV distingue 2 grands syndromes dyspeptiques:
 
 1. Syndrome de douleur épigastrique (EPS)  
 {{%class%}}Indépendant des repas ou soulagé par le repas.{{%/class%}}
-2. Syndrome de détresse post-prandial (PDS)  
+1. Syndrome de détresse post-prandial (PDS)  
 {{%class%}}Symptômes déclenchés par les repas.{{%/class%}}
 
 ### Étiologie de la dyspepsie

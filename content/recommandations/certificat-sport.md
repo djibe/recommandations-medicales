@@ -1,5 +1,5 @@
 +++
-title = "Certificat de non contre-indication à la pratique du sport (CACI)"
+title = "Certificat d'absence de contre-indication à la pratique du sport (CACI)"
 prefix = "le "
 noindex = true
 titleSeo = "Certificat contre-indication sport"
@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-08T20:02:41+02:00"
 publishdate = "2020-10-08"
-lastmod = "2024-06-09"
+lastmod = "2024-06-12"
 specialites = ["certificats"]
 annees = "2023"
 sources = ["JO", "SFC"]
@@ -25,18 +25,16 @@ flowchart = true
 
 {{%article-summary%}}
 
-*Version préliminaire*
-
-- Majeurs: certificat sportif valable 3 ans sauf exceptions (voir *[Disciplines nécessitant un certificat](#disciplines-nécessitant-un-certificat-de-sport-annuel)*)
-- Mineurs: [questionnaire de santé QS - Sport](https://www.formulaires.service-public.fr/gf/cerfa_15699.do) sauf exceptions (cf ci-dessus). Certificat médical requis uniquement si au moins 1 réponse positive.  
-  Pour les parents: [simulateur de Service-public.fr](https://www.service-public.fr/simulateur/calcul/certificatMedical) pour savoir si un certificat est requis
+- Personnes majeures: un certificat sportif est valable 3 ans sauf exceptions (voir *[Disciplines nécessitant un certificat](#disciplines-nécessitant-un-certificat-de-sport-annuel)*)
+- Pour le mineurs: [questionnaire de santé QS - Sport](https://www.formulaires.service-public.fr/gf/cerfa_15699.do) sauf exceptions (cf ci-dessus). Certificat médical requis uniquement si au moins 1 réponse positive.  
+  Pour les parents: [simulateur de Service-public.fr](https://www.service-public.fr/simulateur/calcul/certificatMedical) pour savoir si un certificat est requis.
 - Préciser l'accès aux compétitions le cas échéant
-- Indications à l'ECG, au test d'effort et à l'échocardiographie (voir *Examens*)
-- Informer systématiquement sur les *10 règles d'or* de la pratique sportive
+- Pour les indications à l'ECG, au test d'effort et à l'échocardiographie: voir [Bilans](#bilans-chez-les-sportifs)
+- Informer systématiquement sur les *[10 règles d'or](#information-des-sportifs)* de la pratique sportive
 - La consultation n'est pas prise en charge par l'*Assurance Maladie*
-- La mort subite atteint quasi exclusivement les hommes d'âge moyen et il est bien plus efficace d'apprendre à masser, de signaler les symptômes à l'effort et de corriger les facteurs de risque cardiovasculaire avant les accidents (*[Anys 2021](https://www.larevuedupraticien.fr/article/faut-il-un-screening-cardiaque-du-sportif-pour-ou-contre-2)*)
+- La mort subite atteint (quasi) exclusivement les hommes d'âge moyen et il est bien plus efficace d'apprendre à réaliser le massage cardiaque, de signaler les symptômes à l'effort et de corriger les facteurs de risque cardiovasculaire avant les accidents
 
-Chapitre lié: [test d'effort]({{< relref "epreuve-effort.md" >}})
+Chapitres liés: [certificats médicaux de l'adulte]({{< relref "certificats-medicaux-majeurs.md" >}}), [test d'effort]({{< relref "epreuve-effort.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -158,7 +156,7 @@ L'inscription à une *compétition* nécessite la présente d'une license sporti
   Seuls les sports de type 1A sont autorisés (bowling, golf, pétanque).
 
 {{% /collapse %}}
-{{%collapse "Examens chez les sportifs" %}}
+{{%collapse "Bilans chez les sportifs" %}}
 
 ### Indications à l'électrocardiogramme chez le sportif
 
@@ -224,6 +222,7 @@ graph TB
 
 - [CCS, GERS-P. Position commune du Club des Cardiologues du Sport (CCS) et du Groupe Sport (GERS-P) de la Société Française de Cardiologie sur le bilan cardio-vasculaire recommandé pour la pratique sportive. 2022.](https://www.sfcardio.fr/publication/recommandations-sur-le-bilan-cardiovasculaire-recommande-pour-la-pratique-sportive)
 - [Marijon E et al. Prévention de la mort subite du sportif : état des lieux. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/J.AMCP.2021.04.003)
+- [Anys S et al. Faut-il un screening cardiaque du sportif : pour ou contre ?. La Revue du Praticien. 2021.](https://www.larevuedupraticien.fr/article/faut-il-un-screening-cardiaque-du-sportif-pour-ou-contre-2)
 - [Journal Officiel. Décret 2021-564. 07/05/2021.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486809)
 - [CNOM. Certificats de non contre-indication à la pratique du sport. Médecins n°69. sept-oct 2020](https://www.conseil-national.medecin.fr/sites/default/files/external-package/bulletin/m05mhm/medecins_69.pdf)
 - [Marijon E et al. Characteristics and Outcomes of Sudden Cardiac Arrest During Sports in Women. Circ Arrhythm Electrophysiol. 2013.](https://doi.org/10.1161/circep.113.000651)

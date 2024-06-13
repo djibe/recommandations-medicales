@@ -10,7 +10,7 @@ publishdate = "2023-09-14"
 lastmod = "2024-03-14"
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2022"
-sources = ["SPF", "EFSA"]
+sources = ["SFP", "EFSA"]
 tags = ["adolescent", "enfant", "geriatrie", "grossesse", "nourrisson"]
 anglais = ["Calcium intake"]
 sctid = "230122008"
@@ -26,15 +26,15 @@ todo = "IRC"
 - Jusqu'à 3 ans les apports calciques quotidiens peuvent être couverts par du lait de croissance, un yaourt et 10 g de fromage à pâte pressée
 - Chez l'adulte, les besoins en calcium sont de 1 g/j et de 1,2 g/j après la ménopause ou chez l'homme après 70 ans
 - Le lait et les fromages à pâte cuite sont les aliments les plus riches en calcium
-- Le questionnaire préconisé par le GRIO (plus bas) permet de calculer ses apports quotidiens en calcium pour éventuellement compléter avec des comprimés de calcium
+- Le [questionnaire préconisé par le *GRIO*](#évaluer-les-quotidiens-apports-en-calcium) (*Groupe de Recherche et d'Information sur les Ostéoporoses*) permet de calculer ses apports quotidiens en calcium pour éventuellement compléter avec des comprimés de calcium
 
-Chapitres liés: [vitamine D]({{< relref "vitamine-d.md" >}}), [ostéoporose de la femme]({{< relref "osteoporose.md" >}}) et de l'[homme]({{< relref "osteoporose-masculine.md" >}})
+Chapitres liés: [vitamine D]({{< relref "vitamine-d.md" >}}), [ostéoporose de la femme]({{< relref "osteoporose.md" >}}) et [ostéoporose masculine]({{< relref "osteoporose-masculine.md" >}})
 
 {{%/article-summary%}}
 
 ## Apports en calcium recommandés chez l'enfant {.mt-5}
 
-Apports alimentaires recommandés pendant la croissance afin de satisfaire les besoins en calcium de l'enfant.
+Apports alimentaires en **calcium** recommandés pendant la croissance de l'enfant afin de satisfaire ses besoins en calcium.
 
 {{< traitements/calcium-enfants >}}
 

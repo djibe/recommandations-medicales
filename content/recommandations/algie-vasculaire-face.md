@@ -1,14 +1,14 @@
 +++
 title = "Algie vasculaire de la face (AVF)"
 prefix = "l'"
-titleSeo = "Algie vasculaire de la face"
+titleSeo = "Algie vasculaire de la face AVF"
 description = "Recommandations pour le diagnostic, le traitement et la prise en charge de l'Algie vasculaire de la face, traitement de la crise sumatriptan, oxygène, vérapamil"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr M. LANTERI-MINET (SFETD)"
 date = "2021-06-18T16:20:00+02:00"
 publishdate = "2021-06-19"
-lastmod = "2023-08-28"
+lastmod = "2024-06-13"
 specialites = ["neurologie"]
 annees = "2023"
 sources = ["EAN", "SFEMC"]
@@ -19,28 +19,25 @@ idc10 = "G44.0"
 image = true
 imageSrc = "Rougeur de la joue homolatérale durant une crise d'algie vasculaire de la face. T. Bjornstad, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "SEO, Examen clinique"
+todo = "Examen clinique"
 +++
 
 {{%article-summary%}}
 
-Adaptation des recommandations pour le diagnostic et le traitement de l'Algie Vasculaire de la Face de la EAN 2023 pour le médecin généraliste
-
-- Critères diagnostiques stricts de l'algie vasculaire nécessitant une consultation spécialisée
-- Signes migraineux possibles (prodromes, troubles digestifs, aura, photophobie, hyperacousie)
-- Examens complémentaires systématiques avec IRM cérébrale au diagnostic
-- Prise en charge de la crise douloureuse de l'algie vasculaire par sumatriptan 6 mg SC dès le début des douleurs ou oxygénothérapie (voire combinés)
-- Oxygène au masque 12 L/min pendant 15 minutes prescrit et renouvelé par le spécialiste
-- Traitement de fond de l'algie vasculaire par vérapamil dès le début de la période douloureuse, titration en démarrant à 240 mg/j avec surveillance ECG  
-  Décroissance en fin de période douloureuse, au moins 2 semaines après la dernière crise. Recours au lithium en deuxième intention.
-- Traitement transitionnel par corticothérapie avec prednisone 60-100 mg le matin pendant 5 jours (voire plus) le temps de la titration du vérapamil
+- L'algie vasculaire de la face atteint surtout l'homme jeune sous forme de céphalées paroxystiques unilatérales atroces pendant 15 minutes à 3 heures répétées avec des intervalles libres
+- Les critères diagnostiques de l'algie vasculaire sont stricts et nécessitent une consultation de neurologie
+- Bilan de la suspicion d'algie vasculaire: IRM cérébrale avec étude de la jonction craniocervicale
+- Prise en charge de la crise d'algie vasculaire: sumatriptan 6 mg SC dès le début des douleurs ou oxygénothérapie (± combinés: oxygène au masque 12 L/min pendant 15 minutes prescrit et renouvelé par le spécialiste)
+- Traitement de fond de l'algie vasculaire par vérapamil dès le début de la période douloureuse, titration et surveillance ECG  
+  Décroissance en fin de période douloureuse, au moins 2 semaines après la dernière crise.
+- *Traitement transitionnel* par corticothérapie prednisone 60-100 mg le matin pendant 5 jours (voire plus) le temps de la titration du vérapamil
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Algie vasculaire de la face (AVF)
 : Céphalée primaire unilatérale avec hyperactivité parasympathique homolatérale, déclenchée par une activation du système trigémino-vasculaire. Une anomalie hypothalamique est suspectée.
-: Rare, elle atteindrait 0,1 % de la population. Elle atteint principalement l'homme (4,3/1) jeune, caractérisée par des crises douloureuses stéréotypées quotidiennes avec variations circannuelles et intervalles libres.
+: Rare, elle atteindrait 0,1 % de la population, principalement l'homme (4,3/1) jeune. Elle est caractérisée par des crises douloureuses stéréotypées quotidiennes avec variations circannuelles et intervalles libres.
 : Le plus souvent de forme épisodique (80%, 1-8/j souvent 4 à 12 semaines), elle est dite *chronique* quand l'intervalle libre est inférieur à 1 mois sur 12. Aucun facteur prédictif de passage à la forme chronique n'est identifié.
 : Conséquences: qualité de vie, [dépression]({{< relref "depression.md" >}}) (x 5,6), idées suicidaires (55%) et perte de productivité professionnelle.
 
@@ -55,6 +52,9 @@ AVF
 
 CTA
 : céphalées trigémino-autonomiques
+
+EAN
+: {{%lang%}}European Academy of Neurology{{%/lang%}}
 
 ECG
 : électrocardiogramme
@@ -304,22 +304,22 @@ Ils peuvent être combinés au vérapamil.
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une algie vasculaire de la face (AVF)" "show" %}}
 
-{{< mermaid title="Prise en charge de l'algie vasculaire de la face (AVF). Dr JB Fron d'après SFEMC 2014" >}}
+{{< mermaid title="Prise en charge de l'algie vasculaire de la face (AVF). Dr JB Fron d'après EAN 2023 et SFEMC 2014" >}}
 graph TB
 accTitle: Prise en charge de l'algie vasculaire de la face d'après SFEMC 2014
   suspicion["Suspicion d'algie<br>vasculaire de la face (AVF)"] --> ICHD3(Critères diagnostiques ICHD-3)
   style suspicion stroke:#4150f5, stroke-width:1px
-    ICHD3 --> examens("IRM et ARM cérébrale<br>au diagnostic")
-      examens --> suivi("- Suivi spécialisé (neuro, ORL, douleur)<br>- Arrêt toxiques")
+    ICHD3 --> examens(IRM cérébrale)
+      examens --> suivi("- Suivi spécialisé:<br>neurologue, ORL, douleur<br>- Arrêt tabac, toxiques")
         suivi --> crise("<b>Traitement de la crise</b><br>—<br>- Sumatriptan SC 6 mg<br>- Oxygénothérapie 12-15 L/min")
-          crise --> fond("<b>Traitement de fond</b><br>—<br>- Débuter dès la 1<sup>re</sup> récidive<br>- Vérapamil en titration de<br>240 à 480 mg<br>- Sous surveillance ECG<br>± traitement transitionnel")
+          crise --> fond("<b>Traitement de fond</b><br>—<br>- Débuter dès la 1<sup>re</sup> récidive<br>- Vérapamil en titration de<br>240 à 480 mg<br>- Sous surveillance ECG<br>± prednisone les premiers jours")
     ICHD3 -- Diagnostic différentiel --> differentiel("- Migraine<br>- Névralgie du trijumeau<br>- Autres CTA")
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
-> [Demande de prise en charge à 100% par des députés, sans réponse](https://questions.assemblee-nationale.fr/q15/15-4922QE.htm)
+> [Demande de prise en charge à 100 % par des députés, sans réponse](https://questions.assemblee-nationale.fr/q15/15-4922QE.htm)
 
 - [May A et al. European Academy of Neurology guidelines on the treatment of cluster headache. Eur J Neurol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/ene.15956)
 - [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/migraine-nevralgie-du-trijumeau-algies-face)

@@ -75,7 +75,7 @@ Application smartphone pour le régime sans FODMAPS: [Low FODMAP Diet App](https
 | Oligosaccharides| Fructo-oligosaccharides (FOS) (fructanes) | Blé, seigle, oignon, ail, artichaut |
 | Oligosaccharides | Galacto-oligosaccharides (GOS) | Légumineuses |
 | Disaccharides | Lactose | Lait |
-| Monosaccharides | Fructose | Miel, pomme, poire, melons, mangue, soda, sirop de maïs |
+| Monosaccharides | Fructose | Miel, pomme, poire, melon, mangue, soda, sirop de maïs |
 | Polyols | Sorbitol | Pomme, poire, fruits à noyau, menthes et gommes sans sucre |
 | Polyols | Mannitol | Champignons, chou-fleur, menthes et gommes sans sucre |
 {{< /table >}}
@@ -85,7 +85,7 @@ Ces aliments étant très fréquents dans le régime alimentaire européen, le r
 ### Aliments pauvres en FODMAPs à favoriser
 
 - **Fruits**  
-  Anis étoilé, banane, bleuet, canneberge, cantaloup, citron, durian, fraise, framboise, fruit de la passion, papaye, kiwi, melon, mandarine, pamplemousse, orange, rhubarbe, tangelo, noix de coco.
+  Anis étoilé, banane, bleuet, canneberge, cantaloup, citron, durian, fraise, framboise, fruit de la passion, papaye, kiwi, mandarine, pamplemousse, orange, rhubarbe, tangelo, noix de coco.
 - **Légumes et herbes**  
   Épinard, carotte, endive, olives, gingembre, céleri, pomme de terre, patate douce, courgette, concombre, laitue, herbes aromatiques (coriandre, basilic, thym ...).
 - **Légumineuses**: aucune
