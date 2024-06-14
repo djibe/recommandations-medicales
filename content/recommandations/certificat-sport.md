@@ -1,7 +1,6 @@
 +++
 title = "Certificat d'absence de contre-indication à la pratique du sport (CACI)"
 prefix = "le "
-noindex = true
 titleSeo = "Certificat contre-indication sport"
 description = "Recommandations pour l'établissement du certificat d'absence de contre-indication à la pratique du sport CACI. Examens complémentaires, ECG, épreuve d'effort"
 synonyms = []

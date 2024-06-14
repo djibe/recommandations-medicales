@@ -150,7 +150,7 @@ Avis neurologique devant toute douleur neuropathique dont l'étiologie ou le tab
 - Environnement pro-socio-économique
 - Qualité de vie
 
-[Les dermatomes](http://medicalux.fr/www/nicbook/Dermatomes.html)
+[Les dermatomes](https://fr.wikipedia.org/wiki/Dermatome#/media/Fichier:Dermatoms.svg)
 
 ### Rappels de l'examen clinique de la neuropathie
 

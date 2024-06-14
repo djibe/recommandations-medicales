@@ -8,7 +8,7 @@ synonyms = ["Insuffisance cardiaque à FEVG altérée", "insuffisance cardiaque 
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = "2021-06-03"
-lastmod = "2024-01-26"
+lastmod = "2024-06-14"
 specialites = ["cardiologie"]
 annees = "2023"
 sources = ["ESC", "HAS"]
@@ -274,7 +274,6 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
 - Diurétiques de l'anse à visée symptomatique
   - [Furosémide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68009803&typedoc=R) 20 à 40 mg jusqu'à 1000 mg/j. Fractionner à partir de 40 mg
   - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R) 0,5 à 1 mg jusqu'à 5 mg/j. Fractionner à partir de 1 mg
-  - Éducation pour adaptation aux apports sodés
   - Augmenter dès **prise de 2 kg en 3 jours**
 - Hypertension artérielle
   - Seuil diagnostique identique à l'[hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
@@ -323,7 +322,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
 - Traitements de 2<sup>e</sup> ligne: symptômes persistants
   - Ivabradine (FEVG ≤ 35% et fréquence cardiaque ≥ 70/min sous BB dose maximale ou mal tolérés), vericiguat, hydralazine et isosorbide dinitrate chez les sujets noirs, digoxine
 - Mesures hygiéno-diététiques
-  - Régime sans sel (< 5 g/j)
+  - Régime sodé normal (sel < 10 g/j)
   - [Surveillance du poids x 1-2/semaine](https://www.heartfailurematters.org/wp-content/uploads/2021/02/Surveiller-vos-signes-vitaux.pdf), 3-4/semaine si {{< modal-btn score-nyha >}}NYHA 3-4{{< /modal-btn >}}
 
 Les anti-inflammatoires **AINS**, anti-COX2, le sotalol, le diltiazem, le vérapamil et la flécaïne sont contre-indiqués chez l'insuffisant cardiaque à fraction d'éjection diminuée.
@@ -517,7 +516,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - Recommandations diététiques
   - Restriction sodée < 5 g/j  
     {{%class%}}Limiter charcuterie, fromage, pain, conserves.{{%/class%}}
-  - Apport hydrique 1,5-2 L/j, augmenter en forte chaleur chaleur
+  - Apport hydrique 1,5-2,5 L/j, augmenter en forte chaleur chaleur
   - Arrêter voire réduire l'alcool
   - Évaluation diététique pour surveiller et prévenir la malnutrition
 - Activité physique
@@ -550,6 +549,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 
 {{< youtube id="60VQUo3xqAw" title="Insuffisance cardiaque, encore un effort! (Fréquence Médicale)" >}}
 
+- [Mullens W et al. Dietary sodium and fluid intake in heart failure. A clinical consensus statement of the Heart Failure Association of the ESC. Eur J Heart Fail. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/ejhf.3244)
 - [McDonagh TA et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad195/7246292)
 - {{< references/esh-2023 >}}
 - [Taylor C et al. Natriuretic peptide testing and heart failure diagnosis in primary care: diagnostic accuracy study. British Journal of General Practice. 2023.](https://bjgp.org/content/73/726/e1)

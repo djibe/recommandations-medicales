@@ -264,10 +264,10 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [CMIT. Méningites, méningo-encéphalites, abcès cérébral chez l'adulte et l'enfant. Item 151. Pilly Etudiant. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-151-version2024-copyright-1.pdf)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Infections invasives à méningocoques : des recommandations vaccinales actualisées. 27/03/2024.](https://has-sante.fr/jcms/p_3502914/fr/infections-invasives-a-meningocoques-des-recommandations-vaccinales-actualisees)
 - [Gillet Y et al. Antibiotic treatment of neuro-meningeal infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001501)
-- [CMIT. Méningites, méningo-encéphalites, abcès cérébral chez l'adulte et l'enfant. Item 151. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-151.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Méningites et méningo-encéphalites. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/meningites-meningo-encephalites)
 - [Hoen B et al; SPILF, CMIT, APNET, SFM, SFMU, SFN, SFORL, SFP, SNFMI, SRLF, SFR. Management of acute community-acquired bacterial meningitis (excluding newborns). Short text. Med Mal Infect. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X18300416)
 - [Collège des Enseignants de Neurologie (CEN). Méningites, méningoencéphalites, abcès cérébral chez l'adulte et l'enfant. 2019.](https://www.cen-neurologie.fr/fr/deuxi%C3%A8me-cycle/meningites-meningoencephalites-abces-cerebral-ladulte-lenfant)

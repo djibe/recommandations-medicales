@@ -386,7 +386,6 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 - Ostéodensitométrie  
   Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
 - [Maladie à déclaration obligatoire anonyme]({{< relref "maladies-declaration-obligatoire.md" >}})
-- Guide d'information patient VIH: [guide CHRU Nancy](http://sfls.aei.fr/ckfinder/userfiles/files/SFLS/Commissions/pharmaciens-medicaments/Livret%20patient%20VIH%20-%20Format%20livret_CHRU%20Nancy_15%2012%2023.pdf)
 - Déclarer l'[ALD n°7]({{< relref "affection-longue-duree.md" >}})
 
 ### VIH et suivi cardiovasculaire
@@ -430,7 +429,9 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 
 ### Bibliographie en attente
 
-- [CMIT. Infection à VIH. Item 169. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-169-web.pdf)
+- [ANRS, CNS. Prise en charge de l'enfant et de l'adolescent vivant avec le VIH. 2024.](https://www.has-sante.fr/jcms/p_3520800/fr/prise-en-charge-de-l-enfant-et-de-l-adolescent-vivant-avec-le-vih)
+- [ANRS, CNS. Grossesse et VIH : désir d'enfant, soins de la femme enceinte et prévention de la transmission mère-enfant. 2024.](https://www.has-sante.fr/jcms/p_3518878/en/grossesse-et-vih-desir-d-enfant-soins-de-la-femme-enceinte-et-prevention-de-la-transmission-mere-enfant)
+- CMIT. Infection à VIH. Item 169. ECN.Pilly. 2023. (PDF)
 - [HAS. Infection par le VIH](https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih)
 
 {{%/sources%}}

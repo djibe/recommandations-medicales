@@ -123,7 +123,7 @@ graph TB
 
 - [CMIT. Zoonoses. Item 173. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-173.pdf)
 - [CMIT, SFMTSI, SPILF, SMV. Bartonelloses. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
-- [Centers for Disease Control and Prevention (CDC). Bartonella henselae infection or cat scratch disease (CSD). 2022.](https://www.cdc.gov/bartonella/bartonella-henselae/index.html)
+- [Centers for Disease Control and Prevention (CDC). Bartonella henselae infection or cat scratch disease (CSD). 2022.](https://www.cdc.gov/bartonella/about/about-bartonella-henselae.html)
 - [Boillat N, Greub G. Maladie des griffes du chat et autres bartonelloses. Revue Médicale Suisse. 2008.](https://www.revmed.ch/revue-medicale-suisse/2008/revue-medicale-suisse-152/maladie-des-griffes-du-chat-et-autres-bartonelloses)
 - [Ministère de l'Agriculture. Maladie des griffes du chat. Janvier 2007. (PDF)](https://agriculture.gouv.fr/telecharger/118893)
 

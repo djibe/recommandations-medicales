@@ -258,7 +258,7 @@ diagnostic -- Diagnostic différentiel --> differentiel("- Atteintes radiculaire
 - [HAS, Centre de référence des maladies rares de l'hypophyse. Acromégalie. Protocole National de Diagnostic et de Soins. 2021.](https://www.has-sante.fr/jcms/p_3292767/fr/acromegalie)
 - [Santé Publique France. Syndrome du canal carpien. 18/08/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-liees-au-travail/troubles-musculo-squelettiques/donnees/syndrome-du-canal-carpien)
 - Prescrire Redaction. Syndrome du canal carpien: parfois d'origine médicamenteuse. Rev Prescrire. 2019.
-- [Collège des Enseignants de Neurologie (CEN). Radiculalgies et syndromes canalaires. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/radiculalgies-syndromes-canalaires-neuropathies-peripheriques-polyradiculonevrite)
+- [Collège des Enseignants de Neurologie (CEN). Radiculalgies et syndromes canalaires. 2019.](https://www.cen-neurologie.fr/second-cycle/radiculalgies-syndromes-canalaires-neuropathies-peripheriques-polyradiculonevrite)
 - [Petrover D, Richette P. Prise en charge du syndrome du canal carpien: de l'échographie diagnostique à la libération percutanée sous échographie. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/pii/S1169833017303071)
 - [HAS. Syndrome du canal carpien - Optimiser la pertinence du parcours patient. Février 2013.](https://www.has-sante.fr/jcms/c_1365548/fr/syndrome-du-canal-carpien-optimiser-la-pertinence-du-parcours-patient)
 

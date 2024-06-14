@@ -1,12 +1,12 @@
 +++
 title = "Corticoïdes inhalés"
 prefix = "la "
-description = "Recommandations sur les corticoïdes inhalés (CSI). Technique d'administration, indications et spécialités de corticostéroïdes inhalés pour l'asthme disponibles"
+description = "Recommandations sur les corticoïdes inhalés (CSI). Technique d'administration, indications et spécialités de corticostéroïdes inhalés pour l'asthme et la BPCO"
 synonyms = ["Corticostéroïdes inhalés"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-12T17:07:30+01:00"
 publishdate = "2024-01-13"
-lastmod = "2024-01-18"
+lastmod = "2024-06-14"
 specialites = ["pneumologie", "therapeutique"]
 annees = "2024"
 sources = ["BDPM"]
@@ -22,12 +22,10 @@ todo = "flow"
 
 {{%article-summary%}}
 
-- Les corticoïdes inhalés (ou corticostéroïdes CSI) sont le traitement de fond de référence de l'asthme en monothérapie
-- Les corticoïdes associés aux bêta<sub>2</sub>-agoniste de longue durée d'action (LABA) sont le traitement de fond de 2e intention de l'asthme
-- Les effets indésirables des corticoïdes inhalés sont surtout: [candidose oropharyngée]({{< relref "mycoses-dermatophytes-candidoses.md" >}}) et dysphonie. En cas de traitement prolongé, peuvent survenir: [ostéoporose]({{< relref "osteoporose.md" >}}), cataracte, glaucome
-- La technique d'inhalation nécessite une excellente éducation thérapeutique. Le traitement administré par une chambre d'inhalation est plus adapté sauf excellente maîtrise de la technique d'inhalation
-
-Chapitres liés: [asthme]({{< relref "asthme.md" >}}), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
+- Dans l'[asthme]({{< relref "asthme.md" >}}): les corticoïdes inhalés (ou corticostéroïdes CSI) sont le traitement de fond de référence de l'enfant en monothérapie, associés au formotérol à partir de 12 ans
+- Dans la [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}): les corticoïdes arrivent en 3e ligne en cas de symptômes résistants à la bithérapie LABA + LAMA
+- Les effets indésirables des corticoïdes inhalés sont surtout: [candidose oropharyngée]({{< relref "mycoses-dermatophytes-candidoses.md" >}}) et dysphonie. En cas de traitement prolongé, peuvent survenir: [pneumonies]({{< relref "pneumonie-aigue-communautaire.md" >}}), [ostéoporose]({{< relref "osteoporose.md" >}}), cataracte et glaucome
+- La technique d'inhalation nécessite une excellente éducation thérapeutique. Le traitement administré par une chambre d'inhalation est parfois plus simple sauf excellente maîtrise de la technique d'inhalation
 
 {{%/article-summary%}}
 {{%collapse "Corticoïdes inhalés" %}}
@@ -39,15 +37,15 @@ Liste des corticoïdes inhalés (CSI) disponibles en France pour le traitement d
 {{% /collapse %}}
 {{%collapse "Corticoïdes associés aux bronchodilatateurs" %}}
 
-### Bithérapies corticoïdes et agonistes (CSI + LABA)
+### Bithérapies corticoïdes et ß2-agonistes (CSI + LABA)
 
 Corticoïdes inhalés associés aux bêta<sub>2</sub>-agoniste de longue durée d'action (LABA).
 
 {{< traitements/laba-csi >}}
 
-### Trithérapie corticoïdes, agonistes et anticholinergiques(CSI + LABA + LAMA)
+### Trithérapie corticoïdes, ß2-agonistes et anticholinergiques (CSI + LABA + LAMA)
 
-Corticoïdes inhalés associés aux anticholinergique de longue durée d'action (LAMA = {{%lang%}}Long Acting Muscarinic Agent{{%/lang%}}).
+Corticoïdes inhalés associés aux bêta<sub>2</sub>-agoniste de longue durée d'action (LABA) et anticholinergique de longue durée d'action (LAMA = {{%lang%}}Long Acting Muscarinic Agent{{%/lang%}}).
 
 {{< traitements/laba-lama-csi >}}
 

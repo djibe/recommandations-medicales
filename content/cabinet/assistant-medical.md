@@ -41,7 +41,7 @@ Pour mettre fin au contrat, il faut prévenir la Caisse par **Recommandé** avec
 
 Exemple pour une patientèle de 1300 patients déjà déclarés: déclarer 260 patients supplémentaires dans les 3 ans pour bénéficier de la participation aux frais d'un assistant médical à temps plein.
 
-{{< card-link-external title="Estimer le nombre de patients supplémentaires à prendre en charge" url="https://www.ameli.fr/hauts-de-seine/medecin/aide-emploi-assistant-medical?etape=1&hash=eb198" subtitle="Ameli">}}
+{{< card-link-external title="Estimer le nombre de patients supplémentaires à prendre en charge" url="https://www.ameli.fr/medecin/aide-emploi-assistant-medical" subtitle="Ameli">}}
 
 En cas de contrat déjà signé, rien ne change sauf si le médecin demande à basculer dans le nouveau dispositif.
 

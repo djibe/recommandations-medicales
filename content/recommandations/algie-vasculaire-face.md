@@ -322,7 +322,7 @@ accTitle: Prise en charge de l'algie vasculaire de la face d'après SFEMC 2014
 > [Demande de prise en charge à 100 % par des députés, sans réponse](https://questions.assemblee-nationale.fr/q15/15-4922QE.htm)
 
 - [May A et al. European Academy of Neurology guidelines on the treatment of cluster headache. Eur J Neurol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/ene.15956)
-- [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/migraine-nevralgie-du-trijumeau-algies-face)
+- [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face. 2019.](https://www.cen-neurologie.fr/second-cycle/migraine-nevralgie-du-trijumeau-algies-face)
 - [Donnet A. et al, SFEMC. Recommandations pour le diagnostic et le traitement de l'algie vasculaire de la face. Revue Neurologique. 2014. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20pour%20le%20diagnostic%20et%20le%20traitement%20de%20l%2527algie%20vasculaire%20de%20la%20face%20(3).pdf)
 - [Wilbrink LA et al. Stepwise web-based questionnaires for diagnosing cluster headache: LUCA and QATCH. Cephalalgia. 2013.](https://journals.sagepub.com/doi/10.1177/0333102413479835)
 - Prescrire Redaction. Algie vasculaire de la face, en bref. Rev Prescrire. Janvier 2012.

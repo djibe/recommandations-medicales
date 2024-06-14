@@ -274,7 +274,7 @@ graph TB
 
 - {{< references/college-endocrino >}}
 - [Ducreux M et al. Cancer of the pancreas: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2015.](https://www.annalsofoncology.org/article/S0923-7534(19)47178-0/fulltext)
-- [Barthet M et al. Conduite à tenir devant une lésion kystique pancréatique de découverte fortuite. SFED. 2007. (PDF)](https://www.cregg.org/wordpress/wp-content/uploads/2012/07/documents-lesionkystiquepancreas.pdf)
+- Barthet M et al. Conduite à tenir devant une lésion kystique pancréatique de découverte fortuite. SFED. 2007.
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

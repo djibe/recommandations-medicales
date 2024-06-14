@@ -668,7 +668,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 - [ANAES, SFA. Modalités de l'accompagnement du sujet alcoolodépendant après un sevrage. 2001.](https://www.has-sante.fr/jcms/c_271905/fr/modalites-de-l-accompagnement-du-sujet-alcoolodependant-apres-un-sevrage)
 - [Santé Publique France. Alcool.](https://www.santepubliquefrance.fr/determinants-de-sante/alcool)
 - [Fédération Addiction](https://www.federationaddiction.fr/)
-- [Collège des Enseignants de Neurologie (CEN). Addiction à l'alcool - Complications neurologiques de l'alcoolisme.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/addiction-lalcool-complications-neurologiques-lalcoolisme)
+- [Collège des Enseignants de Neurologie (CEN). Addiction à l'alcool - Complications neurologiques de l'alcoolisme.](https://www.cen-neurologie.fr/second-cycle/addiction-lalcool-complications-neurologiques-lalcoolisme)
 
 ### Bibliographie en attente
 

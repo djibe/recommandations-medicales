@@ -499,7 +499,7 @@ graph TB
 - [Ernst M et al. Physical exercise for people with Parkinson's disease: a systematic review and network meta‐analysis. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013856.pub2/full/fr)
 - Prescrire Redaction. Patients parkinsoniens. Rev Prescrire. 2023.
 - [HAS. Maladie de Parkinson. Actes et prestations affections de longue durée. 2021.](https://www.has-sante.fr/jcms/c_546220/fr/ald-n-16-maladie-de-parkinson)
-- [Collège des Enseignants de Neurologie (CEN). Maladie de Parkinson. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/maladie-parkinson)
+- [Collège des Enseignants de Neurologie (CEN). Maladie de Parkinson. 2019.](https://www.cen-neurologie.fr/second-cycle/maladie-parkinson)
 - [HAS. Maladie de Parkinson. Guide du parcours de soins. 2016.](https://www.has-sante.fr/jcms/c_1242645/fr/guide-parcours-de-soins-maladie-de-parkinson)
 - [HAS. Maladie de Parkinson et syndromes apparentés : techniques et modalités de la prise en charge non médicamenteuse des troubles moteurs. 2016.](https://www.has-sante.fr/jcms/c_2038173/fr/maladie-de-parkinson-et-syndromes-apparentes-techniques-et-modalites-de-la-prise-en-charge-non-medicamenteuse-des-troubles-moteurs)
 - [Berardelli A et al. EFNS/MDS-ES recommendations for the diagnosis of Parkinson's disease. Eur J Neurol. 2013.](https://onlinelibrary.wiley.com/doi/10.1111/ene.12022)
