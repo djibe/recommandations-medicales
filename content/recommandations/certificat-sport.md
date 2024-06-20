@@ -25,11 +25,11 @@ flowchart = true
 {{%article-summary%}}
 
 - Personnes majeures: un certificat sportif est valable 3 ans sauf exceptions (voir *[Disciplines nécessitant un certificat](#disciplines-nécessitant-un-certificat-de-sport-annuel)*)
-- Pour le mineurs: [questionnaire de santé QS - Sport](https://www.formulaires.service-public.fr/gf/cerfa_15699.do) sauf exceptions (cf ci-dessus). Certificat médical requis uniquement si au moins 1 réponse positive.  
+- Pour les mineurs: [questionnaire de santé QS - Sport](https://www.formulaires.service-public.fr/gf/cerfa_15699.do) sauf exceptions (cf ci-dessus). Certificat médical requis uniquement si au moins 1 réponse positive.  
   Pour les parents: [simulateur de Service-public.fr](https://www.service-public.fr/simulateur/calcul/certificatMedical) pour savoir si un certificat est requis.
 - Préciser l'accès aux compétitions le cas échéant
 - Pour les indications à l'ECG, au test d'effort et à l'échocardiographie: voir [Bilans](#bilans-chez-les-sportifs)
-- Informer systématiquement sur les *[10 règles d'or](#information-des-sportifs)* de la pratique sportive
+- Informer systématiquement sur les *[10 règles d'or](#information-des-sportifs)* de la pratique sportive et l'intérêt de l'apprentissage du massage cardiaque
 - La consultation n'est pas prise en charge par l'*Assurance Maladie*
 - La mort subite atteint (quasi) exclusivement les hommes d'âge moyen et il est bien plus efficace d'apprendre à réaliser le massage cardiaque, de signaler les symptômes à l'effort et de corriger les facteurs de risque cardiovasculaire avant les accidents
 

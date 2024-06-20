@@ -22,6 +22,8 @@ todo = "lecture tubertest, quantiferon positif signe TM ?, KEY: maladie, lutte c
 
 {{%article-summary%}}
 
+*Ébauche*
+
 - Indications au BCG +++
 - [Maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
 
@@ -51,18 +53,20 @@ Pour les professionnels de santé: évaluation de l'exposition au cas par cas pa
 
 Le BCG peut être administré en même temps que n'importe quel autre vaccin mais doit être exclusif sur un bras.
 
-### Pays de forte endémie tuberculeuse
+### Pays de forte endémie tuberculeuse (2024)
 
 - France  
   Guyane, Mayotte.
-- Afrique
+- Afrique  
+  Sauf Cap Vert, Togo, Tunisie.
 - Amérique centrale et du Sud  
-  Sauf Antigua, Barbuda, Barbade, Bermudes, Bonaire, Cuba et du Costa Rica, Curaçao, Jamaïque, Îles Vierges et Caïmans, Porto Rico.
-- Asie sauf Japon
+  Bolivie, Brésil, Colombie, Équateur, Guyana, Haïti, Nicaragua, République Dominicaine, Panama, Paraguay, Pérou, Salvador, Venezuela.
+- Asie sauf Japon et Corée du Sud
+- Océanie : Papouasie-Nouvelle-Guinée, Iles Salomon
 - Proche Orient  
-  Sauf Arabie Saoudite, Chypre, Émirats Arabes Unis, Israël, Jordanie, Oman.
+  Sauf Arabie Saoudite, Chypre, Émirats Arabes Unis, Iran, Irak, Israël, Koweït, Jordanie, Oman, Syrie, Turquie.
 - Europe centrale  
-  Sauf Grèce, Hongrie, Croatie, Slovaquie, Slovénie et République Tchèque.
+  Roumanie, Ukraine, République de Moldavie.
 - Groenland
 
 > – *Recommandations sanitaires aux voyageurs*
@@ -113,8 +117,8 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 {{% /collapse %}}
 {{%sources%}}
 
-- {{< references/calendrier-vaccinal >}}
 - {{< references/voyageur >}}
+- {{< references/calendrier-vaccinal >}}
 - [HAS. Tuberculose maladie. Actes et prestations Affection de longue durée. 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/actualisationlap_tuberculose__web_.pdf)
 
 ### Bibliographie en attente

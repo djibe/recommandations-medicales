@@ -33,7 +33,7 @@ CF
 : calprotectine fécale
 
 EOGD
-: endoscopie oeso-gastro-duodénale
+: endoscopie œso-gastro-duodénale
 
 MC
 : maladie de Crohn

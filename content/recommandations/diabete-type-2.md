@@ -8,25 +8,25 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2024-05-17"
+lastmod = "2024-06-20"
 specialites = ["endocrinologie"]
-annees = "2023"
-sources = ["SFD", "ESC", "ESH", "ADA", "EASD", "KDIGO", "HAS"]
+annees = "2024"
+sources = ["HAS", "SFD", "ESC", "ESH", "ADA", "EASD", "KDIGO"]
 tags = ["B12", "diabete", "epreuve effort", "HTA", "insuline", "retinopathie", "nephropathie",  "risque cardiovasculaire", "neuropathie", "obesite", "SAS", "vaccin"]
 anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 icd10 = "E11"
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "socrisktest, WATCH-DM ESC2023 src480; EASD 2021 Table 2.3 et 2.4, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit, indications fructosamine, https://www.ameli.fr/sites/default/files/Documents/Memo-diabete-complication-podologue.PDF | https://diabetesjournals.org/care/issue/47/Supplement_1"
+todo = "maisons sport-santé, socrisktest, WATCH-DM ESC2023 src480; EASD 2021 Table 2.3 et 2.4, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit, indications fructosamine, https://www.ameli.fr/sites/default/files/Documents/Memo-diabete-complication-podologue.PDF | https://diabetesjournals.org/care/issue/47/Supplement_1"
 +++
 
 {{%article-summary%}}
 
-Ce chapitre intègre les dernières recommandations SFD, ADA, ESC et ESH 2023 et ADA/EASD 2022 pour la prise en charge du diabète de type 2.
+Ce chapitre intègre les dernières recommandations HAS 2024, SFD, ADA, ESC et ESH 2023 et ADA/EASD 2022 pour la prise en charge du diabète de type 2.
 
 - Dépister régulièrement un diabète si: +35 ans, prédiabète (annuel), diabète gestationnel (max tous les 3 ans), VIH, surpoids avec autre facteur de risque (antécédent familial, maladie cardiovasculaire, origines africaines/asiatiques/pacifiques, PA > 130/80 mmHg ou traitée, HDL < 0,35 g/L, TG > 2,5 g/L, inactivité physique, [stéatose hépatique]({{< relref "steatose-hepatique-et-nash.md" >}}), acanthosis nigricans), Socrisktest ≥ 5 (*ADA 2023*)
-- Pour chaque personne vivant avec un diabète: définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
+- Pour chaque personne vivant avec un diabète: changement du mode de vie, définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
 - {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7%) et {{< modal-btn modal-hba1c-faussee >}}situations où l'HbA1c n'est pas fiable{{< /modal-btn >}}
 - Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}} rarement
 - [Dépistage des complications du diabète](#dépistage-des-complications-du-diabète) et des comorbidités
@@ -40,9 +40,9 @@ Articles liés: [diabète type 1]({{< relref "diabete-type-1.md" >}}), [diabète
 Diabète
 : Hyperglycémie chronique dont le diagnostic est biologique (définitions *ADA 2023*):
     - 2 glycémies à jeun ≥ 1,26 g/L (jeûne de 8 heures)
-    - ou HbA1c ≥ 6,5 % (48 mmol/mol)
+    - ou HbA1c ≥ 6,5 % (48 mmol/mol, non reconnue en France)
     - ou HGPO-75g H2 ≥ 2 g/L
-    - Glycémie ≥ 2 g/L et symptômes (polyurie, polydipsie, amaigrissement)
+    - Glycémie ≥ 2 g/L (11,1 mmol/L) et symptômes (polyurie, polydipsie, amaigrissement)
 : Au cours du diabète, l'atteinte coronaire est plus étendue, sévère et diffuse. 6 à 35% ont une **[ischémie myocardique sans angor]({{< relref "syndrome-coronarien-chronique.md" >}})** et 50% des [infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) sont **silencieux** (*SFD 2021 CAD*). Le responsable majeur est le **LDL cholestérol**. Le risque d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) est multiplié par 2 à 4.  
 Les femmes avec DT2 sont à risque élevé d'[AVC]({{< relref "accident-vasculaire-cerebral.md" >}}).
 : Épidémiologie du diabète en France: 3,5 millions de sujets traités, 80% en surpoids ou obèses, 3/4 hypertendus, 13% sont fumeurs et seulement 64% reçoivent une statine (*Entred3*).
@@ -88,11 +88,17 @@ DT2
 ESC
 : {{%lang%}}European Society of Cardiology{{%/lang%}}
 
+ETP
+: éducation thérapeutique du patient
+
 HAS
 : Haute Autorité de Santé
 
 HGPO
 : Hyperglycémie provoquée par voie orale
+
+MTMV
+: modification thérapeutique du mode de vie
 
 SFD
 : Société Francophone du Diabète
@@ -113,14 +119,15 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
   {{%class%}}Considérer si albuminurie sans hypertension.{{%/class%}}
 - Définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}} (avec le {{< scores/score2-diabetes >}} en prévention primaire chez le 40-69 ans) ...
 - Afin de déterminer le LDL cible (souvent < 0,7 g/L) par {{< modal-btn modal-statine-intensite >}}statine de haute intensité{{< /modal-btn >}}
-- Activité physique
+- Activité physique adaptée
+  - Lutte contre la sédentarité: bouger 1-5 minutes par heure
+  - **Prescrire** une AP adaptée d'endurance et de renforcement musculaire pendant 3 mois, renouvelable, à raison de 2 à 3 séances par semaine
   - **Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée, 75 si intense). Renforcement musculaire 3 j/sem. Commencer par 10 min de marche/j autre objectif *SMART*. [Guide patient HAS](https://www.has-sante.fr/jcms/p_3391317/fr/l-activite-physique-pour-votre-sante-diabete-de-type-2)
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette 3 j/sem
-  - Bouger 5 minutes chaque heure
   - Avec l'âge, favoriser la souplesse 2 à 3 jours par semaine (yoga, Thai-chi)
 - Surpoids  
   Perte de poids (5-15 %), {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}} (sémaglutide) voire [chirurgie bariatrique]({{< relref "obesite-adulte.mdn" >}}).
-- {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
+- Alimentation équilibrée et {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}
 - Dépistages recommandés
   - {{< modal-btn modal-saos-diabete >}}Apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}}
   - [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) {{%class%}}(50%){{%/class%}}
@@ -176,7 +183,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 <p class="font-weight-bold my-2">La metformine doit être maintenue au long cours <span class="font-weight-normal choix-mrc">(suspendue sous 30 mL/min).</span></p>
 <!-- 2e intention -->
 <p class="text-primary typography-overline mt-4 choix-standard choix-obese">Deuxième ligne - Ajouter au choix</p>
-<p class="mt-4 text-black-secondary">Possibilité de proposer d'emblée une bithérapie si déséquilibre initial important (HbA<sub>1c</sub> &gt; 8,5 %)</p>
+<p class="mt-4 text-black-secondary">Possibilité de proposer d'emblée une bithérapie si déséquilibre initial important (HbA<sub>1c</sub> &gt; 10 % ou glycémies &gt; 3 g/L)</p>
 <div class="mb-2 choix-standard">
   <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
   <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1">GLP-1</button>
@@ -334,7 +341,7 @@ window.addEventListener('load', () => {
 | [Douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}) | Chapitre dédié                           | SFETD 2021               |
 | [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) | Interrogatoire systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018 |
 | ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
-| [Épreuve d'effort]({{< relref "epreuve-effort.md" >}}) | [Angor]({{< relref "syndrome-coronarien-chronique.md" >}}), dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans). Considérer si MCV et reprise effort | ESC 2023, ADA 2023, SFD 2021 CAD |
+| [Épreuve d'effort]({{< relref "epreuve-effort.md" >}}) | [Angor]({{< relref "syndrome-coronarien-chronique.md" >}}), dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans). Reprise effort intense | HAS 2024, ESC 2023, ADA 2023, SFD 2021 CAD |
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
 | [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) | Tout âge: dépistage opportuniste par pouls/ECG. +75 ans: ECG systématique à considérer | ESC 2023 diabetes |
 | [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) | Dépistage avec brassard adapté tous les 1 à 3 ans | ESH 2023     |
@@ -342,9 +349,9 @@ window.addEventListener('load', () => {
 | [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | Dépistage systématique des symptômes et signes et (NT-pro)BNP si suspicion<br>(NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ESC 2023 diabetes<br>ADA 2022 |
 | [Stéatopathie métabolique]({{< relref "steatose-hepatique-et-nash.md" >}}) | Dépistage par échographie abdominale | AFEF 2020              |
 | [Stéatohépatite]({{< relref "steatose-hepatique-et-nash.md" >}}) (NASH) | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} tous les 2 ans | AFEF 2020 |
-| [Néphropathie]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie et rapport albuminurie/créatininurie annuels | ADA et HAS 2023 |
-| Neuropathie  | Dépistage annuel: {{< modal-btn modal-monofilament >}}monofilament{{< /modal-btn >}} et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}), sécheresse cutanée | ADA 2023, HAS 2020 et ESC 2019 diabetes |
-| Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | ADA 2023, SFD 2016       |
+| [Néphropathie]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie et rapport albuminurie/créatininurie annuels | HAS 2024, ADA 2023 |
+| Neuropathie  | Dépistage annuel: {{< modal-btn modal-monofilament >}}monofilament{{< /modal-btn >}} et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}), sécheresse cutanée | HAS 2024, ADA 2023 et ESC 2019 diabetes |
+| Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | HAS 2024, ADA 2023, SFD 2016 |
 | Score calcique | Pas d'argument pour l'utiliser pour la classification du RCV<br>{{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± test d'effort | ESC 2023 diabetes<br>SFD 2021 CAD |
 | [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) | Envisager le dépistage chez la femme          | ESHRE 2023               |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
@@ -380,6 +387,7 @@ window.addEventListener('load', () => {
 
 {{< card-link-external title="Ameli Data Pathologies. Dépenses des soins liés au diabète" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Diab%C3%A8te">}}
 
+- [HAS. Stratégie thérapeutique du patient vivant avec un diabète de type 2. 2024.](https://www.has-sante.fr/jcms/p_3191108/fr/strategie-therapeutique-du-diabete-du-type-2-fiche-memo-et-parcours-de-soins-integres-note-de-cadrage)
 - {{< references/calendrier-vaccinal >}}
 - [HAS, ANRS. Traitement de la Covid-19. 22/12/2023.](https://www.has-sante.fr/jcms/p_3447571/fr/traitement-de-la-covid-19)
 - {{< references/sfd-dt2-2023 >}}
@@ -417,7 +425,6 @@ window.addEventListener('load', () => {
 
 ### Bibliographie en attente
 
-- [HAS. Stratégie thérapeutique du patient vivant avec un diabète de type 2. 2024.](https://www.has-sante.fr/jcms/p_3191108/fr/strategie-therapeutique-du-diabete-du-type-2-fiche-memo-et-parcours-de-soins-integres-note-de-cadrage#xtor=CS1-6)
 - [The Diabetes and Nutrition Study Group (DNSG) of the European Association for the Study of Diabetes (EASD). Evidence-based European recommendations for the dietary management of diabetes. Diabetologia 66. 2023.](https://link.springer.com/article/10.1007/s00125-023-05894-8)
 - [Thivolet C et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
 

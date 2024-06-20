@@ -8,10 +8,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T11:56:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2024-05-01"
+lastmod = "2024-06-20"
 specialites = ["certificats", "infectiologie"]
-annees = "2023"
-sources = ["MinSanté", "HCSP", "Pasteur"]
+annees = "2024"
+sources = ["HCSP", "MinSanté", "Pasteur"]
 tags = ["vaccin", "voyage"]
 anglais = ["Travel abroad", "recommandations for travellers"]
 sctid = "276030007"
@@ -87,10 +87,9 @@ Ordonnance rédigée en DCI et contenu selon les conditions de voyage. Transport
 {{% /collapse %}}
 {{%collapse "Vaccins recommandés selon le pays de destination" %}}
 
-Ces 3 sites internet permettent d'évaluer le statut vaccinal nécessaire pour un voyage en sécurité.  
-Certains vaccins peuvent être obligatoires pour entrer dans le pays, ils nécessitent alors un certificat international de vaccination.
+Les 3 sites internet disponibles ci-dessous permettent d'évaluer le statut vaccinal nécessaire pour un voyage en sécurité. Certains vaccins peuvent être obligatoires pour entrer dans le pays, ils nécessitent alors un **certificat international** de vaccination.
 
-Le schéma vaccinal doit être terminé 10-15 jours avant le départ (sauf rappel).
+Le schéma vaccinal doit être terminé 10-15 jours avant le départ (sauf rappel). Contrôler en même temps le statut vaccinal complet contre la **rougeole**.
 
 Se référer à la page dédiée à chaque maladie pour en savoir plus (voir *Résumé des recommandations*).
 
@@ -255,16 +254,16 @@ Posologies chez l'enfant, traitement de 3 jours:
 
 - Nouveau-né de moins de 48 heures
 - Femmes enceintes après 36 semaines de grossesse (32 si multiple)
-- Plongée sous-marine dans les 24 heures
-- Avis médical si:
-  - [Angor]({{< relref "syndrome-coronarien-chronique.md" >}})
+- Plongée sous-marine avec bouteilles dans les 24 heures
+- Comorbidité (liste non exhaustive):
+  - [Angor]({{< relref "syndrome-coronarien-chronique.md" >}}) au repos
   - Maladie transmissible évolutive
   - Accident de décompression après la plongée
-  - HTIC
-  - Infection ORL
+  - HTIC (par hémorragie, traumatisme ou infection)
+  - Infection ORL ([sinusite]({{< relref "sinusite.md" >}}), [otite moyenne]({{< relref "otite-moyenne-aigue.md" >}}), trompe d'Eustache bouchée ++)
   - [Infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) ou [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) récent
-  - Chirurgie ou traumatisme récent avec risque de flatulence
-  - Fracture avec plâtre fermé
+  - Chirurgie ou traumatisme récent avec risque de flatulence (abdominal ++)
+  - Fracture avec plâtre fermé (avis médical souhaitable)
   - Traumatisme ou chirurgie cranio-faciale ou oculaire
   - Dyspnée de repos, maladie respiratoire chronique sévère
   - Pneumothorax non résorbé datant de moins de 2-3 semaines
@@ -277,9 +276,9 @@ L'avion est autorisé pour un nouveau-né né à terme à partir de 48 heures de
 
 ### Prévention des thromboses veineuses profondes
 
-Risque de TVP x 2-3 dès 4 heures de vol.
+> Risque de thrombose (TVP) x 2-3 dès 4 heures de vol.
 
-Mesures de prévention des TVP:
+Mesures de prévention des thromboses veineuses profondes liées à un voyage aérien:
 
 - Vêtements amples
 - Bouger fréquemment les jambes, se déplacer dans l'avion

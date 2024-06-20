@@ -7,7 +7,7 @@ synonyms = ["Test d'effort"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-07T19:51:41+02:00"
 publishdate = "2020-09-07"
-lastmod = "2024-01-15"
+lastmod = "2024-06-20"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["SFC", "ESC", "SFD"]
@@ -16,7 +16,7 @@ anglais = ["Cardiopulmonary exercise test (CPET)"]
 sctid = "447346005"
 icd10 = ""
 image = true
-imageSrc = "Epreuve d'effort avec EEVO2 en cours de réalisation par Mizzou CAFNR sur Foter.com / CC BY-NC"
+imageSrc = "Epreuve d'effort avec EEVO2 en cours de réalisation. Mizzou CAFNR sur Foter.com / CC BY-NC"
 todo = "probabilite pre-test"
 flowchart = true
 +++
@@ -141,6 +141,9 @@ RCV
 : Après score calcique si {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}}
 
 > – *SFD 2021 CAD*
+
+Épreuve d'effort préconisée
+: Avant reprise d'activité physique intense chez le DT2 (*HAS 2024*).
 
 </div>
 <div class="collapse" id="collapse-hta">
@@ -297,6 +300,7 @@ window.addEventListener('load', () => {
   Pour préciser le pronostic ou prescrire un programme d'entraînement physique adapté
 - Avant chirurgie cardiaque si {{< modal-btn modal-met >}}faible capacité fonctionnelle{{< /modal-btn >}} (< 4 METs)  
   et/ou haut RCV
+- Diabète type 2 avant reprise d'effort intense (*HAS 2024*)
 - Enfant avec cardiopathie congénitale
 - Cardiopathie congénitale (enfant/adulte)(EEVO<sub>2</sub>).
 
@@ -360,6 +364,7 @@ Un test d'effort doit être envisagé chez un **professionnel** (pompier, milita
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Stratégie thérapeutique du patient vivant avec un diabète de type 2. 2024.](https://www.has-sante.fr/jcms/p_3191108/fr/strategie-therapeutique-du-diabete-du-type-2-fiche-memo-et-parcours-de-soins-integres-note-de-cadrage)
 - [CCS, GERS-P. Position commune du Club des Cardiologues du Sport (CCS) et du Groupe Sport (GERS-P) de la Société Française de Cardiologie sur le bilan cardio-vasculaire recommandé pour la pratique sportive. 2022.](https://www.sfcardio.fr/publication/recommandations-sur-le-bilan-cardiovasculaire-recommande-pour-la-pratique-sportive)
 - [Knuuti J et al; ESC Scientific Document Group. 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes: The Task Force for the diagnosis and management of chronic coronary syndromes of the European Society of Cardiology (ESC). European Heart Journal. 2019.](https://academic.oup.com/eurheartj/article/41/3/407/5556137)
 - Collège National des Enseignants de Cardiologie (CNEC). Syndromes coronariens aigus. Item 339. Cardiologie 2e édition. 2019.

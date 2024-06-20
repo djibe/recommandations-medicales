@@ -412,7 +412,10 @@ La prise en charge de l'hypertension est toujours associée aux mesures hygiéno
 - Tant que PAS > 160/100 mmHg: pas de séjour en altitude > 2500m
 - Surveillance biologique (*ESH 2023* et *HAS 2016*)
   - Annuelle: ionogramme, créatininémie, DFG, albuminurie sur échantillon
-  - Tous les 3 ans: glycémie à jeun, bilan lipidique, ECG (3 à 5 ans)
+  - Tous les 3 ans: glycémie à jeun, bilan lipidique
+- Surveillance ECG
+  - ECG tous les 3 à 5 ans
+  - Test d'effort: recommandé si angor et ECG normal, envisager pour activité physique adaptée APA (*SFC 2018*)
 - Réévaluation des complications au **minimum tous les 2 ans**
 
 ### Traitement de première intention de l'hypertension artérielle non compliquée
@@ -503,7 +506,7 @@ Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine pendant la grossesse
 
 {{< mermaid title="Prise en charge de l'hypertension artérielle de l'adulte. Drs Alaedine Benani et JB Fron d'après ESH 2023" >}}
 graph TB
-  HTA["<b>Dépistage de l'HTA chez le +16 ans</b><br>—<br>- Minimum tous les 3 ans<br>- Annuel si: MCV, +40 ans, proche 14/9"] --> seuil("PAS ≥ 140 mmHg<br>et/ou PAD ≥ 90 mmHg ?<br>Mesure et appareil standardisés") -- Oui --> confirmation(<b>Confirmation</b><br>—<br>- Automesure 7 jours<br>- MAPA<br>- 2-3 consultations<br>espacées 1-4 sem.)
+  HTA["<b>Dépistage de l'HTA chez le +16 ans</b><br>—<br>- Minimum tous les 3 ans<br>- Annuel si: +40 ans, proche de 14/9<br>maladie cardiovasculaire"] --> seuil("Mesure et appareil standardisés<br>PAS ≥ 140 mmHg<br>et/ou PAD ≥ 90 mmHg ?") -- Oui --> confirmation(<b>Confirmation</b><br>—<br>- Automesure 7 jours<br>- MAPA<br>- 2-3 consultations<br>espacées 1-4 sem.)
   style HTA stroke:#4150f5, stroke-width:1px
     confirmation --> diagnostic("<b>Diagnostic</b><br>—<br>- Clinique<br>- Risque cardiovasculaire<br>(SCORE2 ou MCV)<br>- Biologie<br>- ECG<br>- Ophtalmo<br><br>Répéter dépistages<br>min. tous les 3 ans")
       diagnostic -- Grade 1 sans MCV --> RHD(RHD) -. Échec 3-6 mois .-> traitement

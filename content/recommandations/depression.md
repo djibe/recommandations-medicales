@@ -479,12 +479,11 @@ La prise en charge de la dépression nécessite des consultations dédiées. Pou
 - Arrêt de travail si nécessaire  
   Court (1-2 semaines) avec réévaluations tous les 3-7 jours ou 1 mois avec évaluations hebdomadaires (*Ameli*).
 - Information du patient  
-  Symptômes et évolution de la maladie, discuter des stéréotypes, effets bénéfiques des traitements et leurs effets indésirables (délai d'action, risque de désinhibition), suivi rapproché, information de l'entourage avec accord.
+  Symptômes et évolution de la maladie, discuter des stéréotypes, effets bénéfiques des traitements et leurs effets indésirables (délai d'action, risque de désinhibition), suivi rapproché, information de l'entourage avec accord. [Psycom](https://www.psycom.org)
 - Établir un projet thérapeutique avec le patient, réévaluations
-- Avec l'accord: mobiliser l'entourage
+- Avec l'accord du patient: mobiliser l'entourage  
+  Lecture pour l'entourage: << Chevance A. En finir avec les idées fausses sur la psychiatrie et la santé mentale. >> (12,50 €).
 - Suivi rapproché: symptômes, toxiques, automédication, mode de vie
-- Information du patient: [Psycom](https://www.psycom.org)
-- Lecture pour l'entourage: << Chevance A. En finir avec les idées fausses sur la psychiatrie et la santé mentale. >> (12,50 €)
 
 ### Traitements médicamenteux de la dépression
 

@@ -100,8 +100,8 @@ En cas de diagnostic confirmé, le bilan étiologique (à distance) recherche un
 
 - Ferritinémie ([hémochromatose]({{< relref "hemochromatose.md" >}}))
 - Calcémie (hyperparathyroïdie primitive)
-- Magnésémie (hypophosphatasie congénitale)
-- Phosphatases alcalines (PAL, syndrome de Gitelman)
+- Magnésémie (syndrome de Gitelman)
+- Phosphatases alcalines (PAL, hypophosphatasie congénitale)
 - [TSH](/tags/tsh/) (dysthyroïdie)
 
 ### Radiographies articulaires

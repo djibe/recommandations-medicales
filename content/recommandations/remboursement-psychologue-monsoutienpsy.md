@@ -7,7 +7,7 @@ synonyms = ["Psychothérapie remboursée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-23T13:48:59+02:00"
 publishdate = "2022-05-23"
-lastmod = "2024-05-03"
+lastmod = "2024-06-20"
 specialites = ["pediatrie", "psychiatrie", "therapeutique"]
 annees = "2024"
 sources = ["Ameli"]
@@ -22,10 +22,8 @@ todo = "échelles"
 
 {{%article-summary%}}
 
-- Des séances de psychothérapie sont remboursables sur prescription à partir de 3 ans, jusqu'à 8 séances annuelles avec le système **[Mon soutien psy](https://www.ameli.fr/medecin/exercice-liberal/prise-charge-situation-type-soin/accompagnement-psychologue-conventionne-mon-soutien-psy)** (*ex MonPsy* puis *MonParcoursPsy*)
-- Rédiger un << courrier d'adressage au psychologue pour le remboursement >>:  
-  Adressage pour un accompagnement psychologique (entretien d'évaluation et jusqu'à 7 séances de suivi) par un psychologue conventionné avec l'Assurance Maladie (annuaire disponible sur [monsoutienpsy.ameli.fr](https://monsoutienpsy.ameli.fr/recherche-psychologue)) ...
-- accompagné courrier du contexte médico-psychologique
+- Des séances de psychothérapie sont remboursables à partir de 3 ans, jusqu'à 12 séances avec le système ***[Mon soutien psy](https://www.ameli.fr/medecin/exercice-liberal/prise-charge-situation-type-soin/accompagnement-psychologue-conventionne-mon-soutien-psy)*** (*ex MonPsy* puis *MonParcoursPsy*)
+- Le patient n'a pas besoin de prescription ou de courrier pour bénéficier du dispositif *Mon soutien psy*
 - [Annuaire des psychologues remboursés (Mon soutien psy)](https://monsoutienpsy.ameli.fr/recherche-psychologue), des [CMP](https://www.santeenfrance.fr/annuaire/13-centres-medico-psychologiques-cmp-cattp) et [CMPP](https://annuaire.action-sociale.org/etablissements/jeunes-handicapes/centre-medico-psycho-pedagogique--c-m-p-p---189.html)
 - [Appli pour le suivi des symptômes psychologiques: Mon suivi psy](https://jardinmental.fabrique.social.gouv.fr/pro)
 
@@ -56,18 +54,13 @@ Les autres patients relèvent de suivi spécialisé psychiatrique, voire *CMP* (
 {{%/info%}}
 
 {{% /collapse %}}
-{{%collapse "Prescrire les séances de psychothérapie remboursées" %}}
+{{%collapse "Les séances de psychothérapie remboursées" %}}
 
-Pour prescrire les 8 séances de psychothérapie remboursées annuellement dans le cadre du parcours *Mon soutien psy*, mentionner sur une ordonnance nominative:
+Jusqu'à 12 séances de psychothérapie sont remboursables dans le cadre du parcours *Mon soutien psy* sans nécessité d'une ordonnance du médecin.
 
-{{%info%}}
+Un courrier d'adressage pour le psychologue est encouragé pour un parcours coordonné mais n'est pas obligatoire.
 
-### Ordonnance pour le remboursement du psychologue
-
-Adressage pour un accompagnement psychologique (entretien d'évaluation et jusqu'à 7 séances de suivi) par un psychologue conventionné avec l'*Assurance Maladie* (annuaire disponible sur [monsoutienpsy.ameli.fr](https://monsoutienpsy.ameli.fr/recherche-psychologue)).
-{{%/info%}}
-
-Le patient choisit son psychologue dans l'annuaire (ci-dessus).
+Le patient choisit son psychologue dans l'[annuaire conventionné](https://monsoutienpsy.ameli.fr/recherche-psychologue).
 
 {{% /collapse %}}
 {{%collapse "Les CMP : Centres médico-psychologiques" %}}

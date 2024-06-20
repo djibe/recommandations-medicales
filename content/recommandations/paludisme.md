@@ -6,7 +6,7 @@ synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T12:42:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2024-05-02"
+lastmod = "2024-06-20"
 specialites = ["infectiologie"]
 annees = "2018"
 sources = ["SPILF", "HCSP"]
@@ -80,11 +80,11 @@ Un accès palustre doit être éliminé avant d'étayer les autres causes de fi�
 
 ### Épidémiologie du paludisme en France
 
-- Incidence: 4995 cas estimés en 2021 (9 présumés autochtones, *CNR*)  
-  89 % contractés en **Afrique subsaharienne** et 88 % par *Plasmodium falciparum*, sans diminution.
-- 87,6 % des patients sont des voyageurs retournant au pays
-- Formes graves: 17,6 %, à 98,6 % par *P falciparum*
-- Décès en France: 8 (2021)
+- Incidence: 6100 cas estimés en 2023 (7 présumés autochtones, *CNR*)  
+  85 % contractés en **Afrique subsaharienne** et 88 % par *Plasmodium falciparum*, sans diminution.
+- 85 % des patients sont des voyageurs retournant au pays
+- Formes graves: 17,7 %, par *P falciparum* +++
+- Décès en France: 19 (2023)
 
 L'Afrique subsaharienne comptabilise 90% des cas mondiaux de paludisme.
 
@@ -197,7 +197,7 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 
 ### Indication à la chimioprophylaxie antipaludique selon le type de voyage
 
-{{< table title="Indication de la chimioprophylaxie du paludisme (CPAP) et des autres moyens de prévention en zone d'endémie de paludisme selon le continent et les conditions de séjour. HCSP 2023" >}}
+{{< table title="Indication de la chimioprophylaxie du paludisme (CPAP) et des autres moyens de prévention en zone d'endémie de paludisme selon le continent et les conditions de séjour. HCSP 2024" >}}
 | Type de séjour | Amérique tropicale,<br>Haïti et Rép Dom. | Afrique sub-<br>saharienne<br>et Yémen | Asie du Sud<br>et Sud-Est | Papouasie<br>Nvle Guinée<br>et Îles Salomon |
 |----------------|------------------------------------------|----------------------------------------|---------------------------|---------------------------------------------|
 | Pour tous | PPAV + CS si F | idem | idem | idem |
@@ -214,7 +214,7 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 
 Choix de la chimioprophylaxie antipaludique (CPAP):
 
-- Afrique subsaharienne (sauf Afrique du Sud), Papouasie: CPAP systématique
+- Afrique subsaharienne (sauf Afrique du Sud, Lesotho, Botswana, sud de la Namibie), Papouasie: CPAP systématique
 - Voyageurs à risque de paludisme grave, quel que soit le risque: femme enceinte, nourrissons et enfants avant 6 ans, personnes âgées, personnes immunodéprimées ([PVVIH]({{< relref "vih-sida.md" >}})) et [aspléniques]({{< relref "asplenie.md" >}})
 - **Séjour << conventionnel >>** en Asie ou Amérique du Sud: mesures de PPAV seules  
   Séjour de courte durée (< 1 mois), majoritairement en zone urbaine ou sur des sites touristiques classiques avec quelques nuitées en zone rurale mais dans des conditions d'hébergement satisfaisantes (hôtels, maisons).

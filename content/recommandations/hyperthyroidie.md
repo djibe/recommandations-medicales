@@ -326,8 +326,7 @@ Pour l'adénome toxique ou le goitre multinodulaire toxique (GMNT), les ATS << p
 
 Les antithyroïdiens de synthèse de référence sont le **thiamazole** (Thyrozol®) ou le **carbimazole** (Néo-mercazole®) pendant une première ligne de traitement pendant **12 à 18 mois**.
 
-Le benzylthiouracile (Basdène®) est un ATS de deuxième ligne (contrainte des prises, toxicité hépatique).  
-Le **propylthiouracile** (PTU) est réservé pour: 1<sup>er</sup> trimestre de grossesse si traitement nécessaire, antécédent d'allergie mineure au thiamazole ou carbimazole.
+Le benzylthiouracile (Basdène®) est un ATS de deuxième ligne (contrainte des prises, toxicité hépatique). Le **propylthiouracile** (PTU) est réservé pour: 1<sup>er</sup> trimestre de grossesse si traitement nécessaire, antécédent d'allergie mineure au thiamazole ou carbimazole.
 
 Après la première ligne de traitement par ATS, en cas de récidive, le traitement est étiologique sur avis spécialisé, selon les préférences du patient (voir section suivante):
 
