@@ -258,8 +258,7 @@ mark {
 }
 
 #search-results {
-  padding-top: .5rem;
-  padding-bottom: 1.5rem;
+  padding-block: .5rem 1.5rem;
 
   &:empty {
     padding: 0;
@@ -1055,8 +1054,7 @@ blockquote {
 
 .data-table {
   display: inline-flex;
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
+  margin-block: 1.5rem;
 }
 
 #table-pilule > tbody > tr:nth-of-type(4),
@@ -1605,8 +1603,7 @@ input[type="search"]::-webkit-search-results-decoration {
     color: transparent;
   }
   ul {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-inline: 1rem;
   }
   li {
     margin: 1rem 0 !important;
@@ -1691,8 +1688,6 @@ details {
 
   &[open] summary ~ * {
     animation: open 0.3s ease-out;
-    // margin-top: 1rem;
-    // padding: 1.25rem;
   }
 
   &[open] summary:after {

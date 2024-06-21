@@ -54,7 +54,7 @@ Pour plus d'informations sur la composition des compléments alimentaires, l'avi
 
 [Anses. Compléments alimentaires à base de plantes : vers une meilleure information des consommateurs. 08/06/2023.](https://www.anses.fr/fr/content/complements-alimentaires-plantes-meilleure-information-des-consommateurs)
 
-<script>
+<script type="module">
   // Anses
 window.addEventListener('load', () => {
   $(function () {

@@ -45,7 +45,7 @@ Les résultats aux ECNi 2023 publiés par le CNG étant disponibles uniquement e
 - [Journal Officiel. Arrêté du 7 juillet 2023 fixant par rang de classement la liste des étudiants et des internes de médecine ayant satisfait aux épreuves classantes nationales anonymes donnant accès au troisième cycle des études de médecine organisées au titre de l'année universitaire 2023-2024. 21/07/2023.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047867676)
 - [CNG. Etudiants ECN : Publication des résultats 2023. 28/06/2023.](https://www.cng.sante.fr/actualites/etudiants-ecn-publication-resultats-2023)
 
-<script>
+<script type="module">
 window.addEventListener('load', () => {
   $(function () {
     $('#ecni-ranks').DataTable({
