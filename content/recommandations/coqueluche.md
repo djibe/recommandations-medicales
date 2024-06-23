@@ -6,7 +6,7 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2024-06-07"
+lastmod = "2024-06-23"
 specialites = ["infectiologie", "ORL"]
 annees = "2022"
 sources = ["HCSP", "SPILF", "HAS"]
@@ -16,7 +16,6 @@ sctid = "27836007"
 icd10 = "A37"
 image = true
 imageSrc = "La coqueluche. Freepik"
-todo = "https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"
 flowchart = true
 +++
 
@@ -25,7 +24,7 @@ flowchart = true
 - Ces recommandations visent à protéger les nourrissons non immuns de la coqueluche
 - Évoquer une coqueluche devant toute toux de plus de 7 jours
 - Le diagnostic de coqueluche est biologique par une *PCR coqueluche* dans les 3 premières semaines de symptômes
-- Prise en charge de la coqueluche: éviction de la collectivité et antibiothérapie azithromycine 250 mg x 2/j pendant 3 jours ...
+- Prise en charge de la coqueluche: éviction de la collectivité et antibiothérapie azithromycine 2 x 250 mg en 1 prise par jour pendant 3 jours ...
 - et antibioprophylaxie des sujets contacts (voir Section spécifique)
 - Vaccination coqueluche
   - L'immunité vaccinale persiste 5 à 10 ans
@@ -208,15 +207,17 @@ Prise en charge de la coqueluche:
 Antibiothérapie de la coqueluche: uniquement durant les **3 premières semaines d'évolution** pour réduire la contagiosité.  
 Ne traiter un *B. parapertussis* pauci-symptomatique qu'en présence de personne à risque dans son entourage.
 
-Antibiotique de la classe macrolide possible pendant la grossesse ([CRAT](https://www.lecrat.fr/6363/)):
+Antibiothérapie de la coqueluche par un macrolide (*HCSP 2014*):
 
-- Azithromycine 250 mg x 2/j pendant 3 jours  
-  ou 1 dose-kg/jour
+- Azithromycine 2 x 250 mg en 1 prise par jour pendant **3 jours**  
+  ou 1 dose-kg/jour (20 mg/kg/j en 1 prise, max 500 mg/j)
 - Clarithromycine 250 mg x 2/j pendant 7 jours  
-  ou 1 dose-poids x 2/j
+  ou 1 dose-poids x 2/j (15 mg/kg/j en 2 prises, max 500 mg/prise)
 - Allergie aux macrolides: cotrimoxazole 800/160 mg x 2/j pendant 14 jours  
   Possible pendant la grossesse en association avec l'acide folique.
 {{%/info%}}
+
+Macrolide possible pendant la grossesse (*[CRAT](https://www.lecrat.fr/6363/)*).
 
 > **L'antibiothérapie n'améliore pas la toux.**
 
@@ -254,6 +255,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+Des guides incomplets: DGS Urgent (aucune information), HCSP 2022 (suivre HCSP 2014), SPILF 2020 (durée 3 jours, pas de posologie, référence biblio 2018 qui mentionne 500 mg J1 et 250 mg J2 à J5), HCSP 2014 (azithromycine 500 mg pendant 3 jours).
+{.alert .alert-info}
+
 - [DGS-Urgent 2024_08. 07/06/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - {{< references/calendrier-vaccinal >}}
 - [HCSP. Conduite à tenir autour d'un ou plusieurs cas de coqueluche. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1265)
@@ -261,7 +265,7 @@ graph TB
 - [CMIT. Coqueluche. Item 163. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-163-web.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Coqueluche. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/coqueluche)
 - {{< references/spilf-2020 >}}
-- [HCSP. Conduite à tenir devant un ou plusieurs cas de coqueluche. 2008.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=36)
+- [HCSP. Conduite à tenir devant un ou plusieurs cas de coqueluche. 2014.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=461)
 - [ECDC. Pertussis](https://www.ecdc.europa.eu/en/pertussis)
 
 {{%/sources%}}

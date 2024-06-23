@@ -122,8 +122,8 @@ Prise en charge de la folliculite superficielle:
 - Soins quotidiens
 - Antiseptique pluriquotidien (*CMIT*)
 - Si [orgelet]({{< relref "orgelet.md" >}}): antibiothérapie locale
-- Si sycosis: mousse à raser antiseptique, rasoirs jetables, espacer le rasage
-- Si forme profuse: pristinamycine, clindamycine
+- Si sycosis (atteinte de la barbe): mousse à raser antiseptique, rasoirs jetables, espacer le rasage
+- **Si forme profuse (anthrax):** antibiothérapie identique au [furoncle compliqué](#prise-en-charge-du-furoncle-compliqué)
 
 ### Traitement du furoncle simple
 

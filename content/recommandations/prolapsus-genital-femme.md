@@ -195,10 +195,10 @@ Consulter rapidement en cas de: pertes vaginales anormales, métrorragies, troub
 
 La rééducation périnéale du prolapsus génital améliore les symptômes, la qualité de vie et le confort des femmes. Elle est recommandée pour la prise en charge en **première intention d'un prolapsus génital modéré**.
 
-Elle est réalisée par les **kinésithérapeute ou sage-femme** avec apprentissage d'auto-rééducation.  
-Elle peut être associée à l'utilisation d'un pessaire.
+La rééducation est réalisée par les **kinésithérapeute ou sage-femme** avec apprentissage d'auto-rééducation. Elle peut être associée à l'utilisation d'un pessaire.
 
-**NB.** Pas d'intérêt démontré de l'électrostimulation à domicile, du laser ou de la radiofréquence.
+> Pas d'intérêt démontré de l'électrostimulation à domicile, du laser ou de la radiofréquence.
+{.alert .alert-info}
 
 ### Chirurgie du prolapsus génito-urinaire
 
