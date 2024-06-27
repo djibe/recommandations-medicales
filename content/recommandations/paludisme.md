@@ -244,6 +244,8 @@ La prophylaxie anti-palustre (chimioprophylaxie médicamenteuse) n'élimine pas 
 
 La chimioprophylaxie antipaludique (CPAP) n'est disponible que sur ordonnance et aucune des molécules n'est remboursée (la doxycycline est la moins chère). De plus, l'achat hors pharmacie française n'est pas recommandé.
 
+[Guide info patient SPILF (PDF)](https://www.infectiologie.com/UserFiles/File/grand-public/mmif/fiche-patient-mmif-20.pdf).
+
 {{< outils/cpap >}}
 
 ### Les mesures de protection anti-vectorielles (PPAV)

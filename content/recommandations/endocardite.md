@@ -18,7 +18,7 @@ icd10 = "I38"
 image = true
 imageSrc = "Végétation sur la tricuspide. Daisuke Koya, Kazuyuki Shibuya, Ryuichi Kikkawa et Masakazu Haneda: Materialscientist, via Wikimedia Commons"
 flowchart = true
-todo = "SEO 'recommandations endocardite', Brossettes ?"
+todo = "SEO 'recommandations endocardite', Brossettes ?, https://pubmed.ncbi.nlm.nih.gov/38916201/"
 +++
 
 {{%article-summary%}}

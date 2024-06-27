@@ -341,7 +341,7 @@ D'autres tests peuvent être demandés selon les suspicions cliniques:
 La prise en charge du syndrome d'apnées du sommeil relève exclusivement du spécialiste.  
 Il consiste en une ventilation à pression positive continue (PPC) ou un orthèse d'avancée mandibulaire (OAM).
 
-[Liste des centres homologués SFRMS par région](https://www.sfrms-sommeil.org/carte-des-centres-agrees/)
+[Liste des centres homologués SFRMS par région](https://www.sfrms-sommeil.org/carte-des-centres-agrees/).
 
 ### Mesures générales
 
@@ -404,7 +404,7 @@ Une surveillance dentaire régulière est nécessaire avec l'orthèse d'avancée
   - Efficacité de la PPC constatée
 - Prescription initiale par un diplômé du DIU Sommeil ou pneumologue, valable 4 mois
 - Renouvellement au bout de 4 mois pour une durée de 1 an
-- Renouvellement possible au bout de 3 ans par le médecin traitant ([JO 2017](https://www.sp2a.fr/wp-content/uploads/2018/07/De%CC%81cret-PPC-2017.pdf))  
+- Renouvellement possible au bout de 3 ans par le médecin traitant (*[JO 2017](https://www.sp2a.fr/wp-content/uploads/2018/07/De%CC%81cret-PPC-2017.pdf)*), sur *Ameli Pro*, rubrique *Services patients*  
 si peut consulter observance des 12 derniers mois (≥ 112 heures sur 10 mois et ≥ 56h sur les 2 autres)
 - Remboursable à 65%
 - Nécessite une demande d'entente préalable par le spécialiste avec renouvellement annuel si respect des conditions ci-dessus
@@ -451,9 +451,9 @@ Effets facilement réversibles par intervention du prestataire (ajustement du ma
 Environ 10% des patients peuvent avoir une somnolence résiduelle malgré un traitement adapté. Le suivi est spécialisé.
 
 {{% /collapse %}}
-{{%collapse "En savoir plus" %}}
+{{%collapse "Apnées du sommeil: En savoir plus" %}}
 
-### Critères diagnostiques pour le SAOS de l'adulte ICSD-3
+### Critères diagnostiques pour le SAHOS de l'adulte ICSD-3
 
 (A et B) ou C satisfont aux critères (ICSD-3 2014 - International Classification of Sleep Disorders)
 
