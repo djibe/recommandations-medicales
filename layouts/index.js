@@ -26,8 +26,8 @@ const CACHE_VERSIONS = {
 
 // Define MAX_TTL's in SECONDS for specific file extensions
 const MAX_TTL = {
-  "/": 3600,
-  html: 3600,
+  "/": 0,
+  html: 0,
   json: 86400,
   js: 86400,
   css: 86400,
