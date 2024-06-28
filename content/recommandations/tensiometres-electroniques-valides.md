@@ -7,9 +7,9 @@ synonyms = ["Sphygmomanomètre électronique oscillométrique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-19T15:20:19+02:00"
 publishdate = "2023-10-20"
-lastmod = "2023-10-20"
+lastmod = "2024-06-28"
 specialites = ["cardiologie"]
-annees = "2023"
+annees = "2024"
 sources = ["ESH", "BIH"]
 tags = ["depistage", "HTA"]
 anglais = ["Blood pressure monitors"]
@@ -33,7 +33,7 @@ datatable = true
 
 Les brassards électroniques **validés par les sociétés savantes d'hypertension artérielle** pour la mesure de la pression artérielle au cabinet du médecin. Le modèle doit être **adapté au patient** (adulte, grossesse, enfant) et à sa corpulence.
 
-La gamme de prix est très variable (de 33 à 650 €) et parmi les tensiomètres (ou sphygmomanomètres) validés les moins chers disponibles en France on peut citer les marques: Andon (iHealth Track KN-550BT ou BP3L 40€, KD-5920 60€, KD-5923 33€), Omron (M7 80€)
+La gamme de prix est très variable (de 33 à 650 €) et parmi les tensiomètres (ou sphygmomanomètres) validés les moins chers disponibles en France on peut citer les marques: Andon (iHealth Track KN-550BT ou BP3L 40€, KD-5920 60€, KD-5923 33€), Fitage, Omron (M7 80€).
 {.alert .alert-info}
 
 <script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Tensiomètres électroniques validés pour la mesure de la pression artérielle en consultation. Dr JB Fron d'après Sociétés savantes citées."}</script>

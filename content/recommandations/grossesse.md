@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2024-05-01"
+lastmod = "2024-06-28"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "CRAT", "SFD"]
@@ -25,7 +25,7 @@ chart = true
 
 - 0 alcool et 0 tabac pendant la grossesse, interroger à chaque consultation
 - 1/3 des tests de grossesse sont non conformes (*[DGCCRF](https://www.economie.gouv.fr/dgccrf/les-autotests-de-fertilite-au-banc-dessai)*)
-- Vaccins Covid-19, grippe et coqueluche à chaque grossesse
+- Vaccins Covid-19, grippe et coqueluche à chaque grossesse, anti-VRS Abrysvo de septembre à janvier (une seule dose, non disponible pour le moment)
 - [Nata](https://play.google.com/store/search?q=NATA&c=apps): l'appli officielle du suivi de grossesse multilingue
 - Besoins en [calcium]({{< relref "apports-calcium.md" >}}): 1 g/j (*IOF*), [alimentation pendant la grossesse (MangerBouger)](https://www.mangerbouger.fr/manger-mieux/a-tout-age-et-a-chaque-etape-de-la-vie/les-recommandations-et-conseils-avant-pendant-et-apres-la-grossesse/manger-equilibre-avant-pendant-et-apres-la-grossesse) et guide [activité physique](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_grossesse.pdf) (PDF)
 
@@ -128,13 +128,13 @@ Vaccinations Covid-19 et grippe à n'importe quel terme et coqueluche entre 20 e
 | Préconceptionnelle<br>ou 1re consultation | ATCD (dont varicelle), profession, vaccinations, précarité, maltraitance, DDR | NFS, ferritine, {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}}<br>Sérologies {{%tooltip "Sauf vaccination double dose documentée"%}}rubéole{{%/tooltip%}}, toxoplasmose, syphilis, VIH, VHC, {{%tooltip "AgHBs sans vaccination"%}}anti-HBs{{%/tooltip%}}, TSH si sympt. aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et FDR{{< /modal-btn >}} | {{%tooltip "Jusqu'à 12 SA"%}}acide folique{{%/tooltip%}} 0,4 mg/j, {{%tooltip "De 11 à 16 SA + 6j"%}}écho T1{{%/tooltip%}}, dépistage T21 |
 | 4e mois<br>16-20 SA || {{%tooltip "Gratuite jusqu'à 6 mois après l'accouchement"%}}Cs dentaire{{%/tooltip%}} ||
 | 5e mois<br>20-24 SA || {{%tooltip "De 20 à 24 SA"%}}Écho T2{{%/tooltip%}} | Vaccin coqueluche |
-| 6e mois<br>24-28 SA || NFS, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} | ± Vaccin coqueluche |
-| 7e mois<br>28-32 SA || {{%tooltip "32 SA"%}}Écho T3{{%/tooltip%}} | ± Vaccin coqueluche |
-| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, prélèvement vaginal (strepto B) | VitD 100.000 UI, ± Vaccin coqueluche |
+| 6e mois<br>24-28 SA || NFS, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} | ± Rattrapage coqueluche |
+| 7e mois<br>28-32 SA || {{%tooltip "32 SA"%}}Écho T3{{%/tooltip%}} | ± Rattrapage coqueluche |
+| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, prélèvement vaginal (strepto B) | VitD 100.000 UI, {{%tooltip "De septembre à janvier"%}}Abrysvo{{%/tooltip%}} (NR), ± Rattrapage coqueluche |
 | 9e mois<br>37-42 SA ||||
 {{< /table >}}
 
-> – *HAS 2009*, *USPTF 2023*, *Calendrier vaccinal 2024*
+> – *HAS 2009*, *USPTF 2023*, *Calendrier vaccinal 2024* (Abrysvo d'après *HAS 2024*)
 
 {{% /collapse %}}
 {{%collapse "Médicaments et vaccins pendant la grossesse" %}}
@@ -261,6 +261,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
 - {{< references/calendrier-vaccinal >}}
 - [Ameli Médecin. Maternité : l'examen bucco-dentaire désormais pris en charge jusqu'au 6e mois après l'accouchement. 28/02/2024.](https://www.ameli.fr/medecin/actualites/maternite-l-examen-bucco-dentaire-desormais-pris-en-charge-jusqu-au-6e-mois-apres-l-accouchement)
 - [Insee. Bilan démographique 2023 - Fécondité. 2024.](https://www.insee.fr/fr/statistiques/7746164?sommaire=7746197)
@@ -278,7 +279,6 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 
 ### Bibliographie en attente
 
-- [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
 - [Cour des Comptes. La politique de périnatalité. 2024.](https://www.ccomptes.fr/fr/publications/la-politique-de-perinatalite)
 - [Vigoureux S et al; CNGOF. Prévention de l'allo-immunisation anti-RH1 au premier trimestre de la grossesse: recommandations pour la pratique clinique du Collège National des Gynécologues-Obstétriciens Français. Gynécologie Obstétrique Fertilité & Sénologie. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2468718924000813)
 - [HAS. Accompagnement médico-psycho-social des femmes, des parents et de leur enfant, en situation de vulnérabilité, pendant la grossesse et en postnatal. 2024.](https://www.has-sante.fr/jcms/p_3271226/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal)

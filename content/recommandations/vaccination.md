@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2024-04-26"
+lastmod = "2024-06-28"
 specialites = ["infectiologie", "pediatrie", "therapeutique"]
 annees = "2024"
 sources = ["MinSanté", "HCSP"]
@@ -22,7 +22,7 @@ todo = "HAS EMLA, Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vac
 
 {{%article-summary%}}
 
-- Rappel vaccinal de [la coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA), stratégie de cocooning sinon
+- Rappel vaccinal de [la coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA), stratégie de cocooning sinon, anti-VRS dose unique de 32 à 36 SA
 - Les pharmaciens formés peuvent prescrire et administrer à partir de 11 ans tous les vaccins du calendrier vaccinal, y compris le ROR (sauf immunodépression)
 - Vaccination des +16 ans par les infirmiers sans ordonnance pour: [grippe]({{< relref "grippe.md" >}}), dTcaPolio, [papillomavirus]({{< relref "cancer-col-uterus.md" >}}), pneumocoque, [hépatite A]({{< relref "hepatite-a.md" >}}) et [B]({{< relref "hepatite-b.md" >}}), méningocoques B et ACYW135 et la rage
 - Poser une question pour un cas vaccinal particulier: [Infovac App](https://app.infovac.fr) (nécessite de créer un compte)
@@ -59,7 +59,7 @@ VVA
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal 2024" "show" %}}
 
-{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie sauf NR. Dr JB Fron d'après Calendrier vaccinal 2024 et DGS Urgent 2023-14." >}}
+{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie sauf NR. Dr JB Fron d'après Calendrier vaccinal 2024, DGS Urgent 2023-14 et HAS 2024." >}}
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
 |   Né après<br>le 6/2/23 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Beyfortus au mieux avant<br>la sortie de maternité                |
@@ -76,7 +76,7 @@ VVA
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |   45 ans   | dTPolio                                              | Revaxis (arrêt 2024) > dTcaPolio                                          |
 |  +65 ans   | dTPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Zona | Revaxis<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>NR: Shingrix M0-M2 |
-| Grossesse  | Coqueluche, Covid, grippe                            | BoostrixTetra, Repevax ...                                                |
+| Grossesse  | Coqueluche, Covid, grippe, VRS (NR, dose unique)     | BoostrixTetra, Repevax, Abrysvo ...                                       |
 | Médecin généraliste | Coqueluche à chaque dTP,<br>Covid-19, grippe, ROR,<br>varicelle, VHB |                                                  |
 {{< /table >}}
 
@@ -316,6 +316,7 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
 - {{< references/calendrier-vaccinal >}}
 - [Service Public. Les pharmaciens peuvent désormais vous prescrire et vous administrer vos vaccins. 30/08/2023.](https://www.service-public.fr/particuliers/actualites/A16732) et [arrêté 2023-736](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047948973)
 - [HAS. Actualisation des recommandations et obligations vaccinales des professionnels. Volet 1/2 : diphtérie, tétanos, poliomyélite, hépatite B, Covid-19. 2023.](https://www.has-sante.fr/jcms/p_3424586/fr/actualisation-des-recommandations-et-obligations-pour-les-etudiants-et-professionnels-des-secteurs-sanitaire-medicosocial-et-en-contacts-etroits-avec-de-jeunes-enfants)

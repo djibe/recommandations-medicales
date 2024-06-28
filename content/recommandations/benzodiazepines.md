@@ -232,6 +232,8 @@ graph TB
 
 {{< card-link-external title="e-learning Sevrage des benzodiazépines" url="https://auditorium.flowsparks.com/?startactivity=AFBZD" subtitle="par le CBIP (compte gratuit)" >}}
 
+{{< youtube id="Pl628stUti4" title="Déprescrire les sédatifs-hypnotiques (Réseau canadien pour la déprescription)" >}}
+
 - Prescrire Redaction. Benzodiazépines ou apparentés. Rev Prescrire. 2024.
 - [AddictoVigilance. Mésusage et abus des benzodiazépines et apparentés : où en est-on ?. 2023. (PDF)](https://addictovigilance.fr/wp-content/uploads/2023/06/Bulletin-benzodiazepines-n%C2%B020-juin-2023-VF-1-1.pdf)
 - [Collège National Universitaire de Psychiatrie (CNUP). Prescription et surveillance des psychotropes. Item 74. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)

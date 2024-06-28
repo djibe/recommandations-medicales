@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-16T08:08:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2023-11-13"
+lastmod = "2024-06-28"
 specialites = ["pediatrie"]
 annees = "2023"
 sources = ["HAS", "SFP"]
@@ -17,7 +17,7 @@ anglais = ["Bronchiolitis"]
 sctid = "4120002"
 icd10 = "J21.9"
 image = true
-imageSrc = "Photo au microscope du Virus respiratoire syncytial de la bronchiolite par le CDC 1981 du United States Department of Health and Human Services, Public domain, via Wikimedia Commons"
+imageSrc = "Virus respiratoire syncytial (VRS) de la bronchiolite au microscope. CDC 1981 du United States Department of Health and Human Services, Public domain, via Wikimedia Commons"
 flowchart = true
 todo = "SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
 +++
@@ -177,7 +177,7 @@ Vigilance accrue en forme légère avec signe de fragilité:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-L'examen est réalisé APRÈS une désobstruction rhinopharyngée (DRP)
+L'examen est réalisé après une désobstruction rhinopharyngée (DRP).
 {.alert .alert-info}
 
 Signes et symptômes de la bronchiolite aiguë du nourrisson:
@@ -224,7 +224,7 @@ Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une i
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Pas d'examen complémentaire en cas de forme typique de bronchiolite aiguë
+Pas d'examen complémentaire en cas de forme typique de bronchiolite aiguë.
 {.alert .alert-info}
 
 ### Radiographie pulmonaire
@@ -240,6 +240,7 @@ Indications à la radiographie de thorax devant un épisode évocateur de bronch
 
 Recommandations pour la prévention de la bronchiolite:
 
+- Vaccination anti-VRS pendant la grossesse (voir plus bas)
 - [Allaitement maternel]({{< relref "allaitement.md" >}})
 - Retarder la mise en collectivité
 - Nourrisson à haut risque de forme grave: ne pas fréquenter la collectivité en période épidémique
@@ -252,6 +253,14 @@ Recommandations pour la prévention de la bronchiolite:
   - [Éviction du tabagisme passif]({{< relref "arret-tabac.md" >}})
   - Mesures barrière strictes autour des nourrissons < 1 an, renforcées autour des < 3 mois  
     En cas de rhume: éternuer dans le coude, éviter d'embrasser bébé sur visage et mains, porter un masque pour s'occuper de bébé.
+
+### Vaccination anti-VRS
+
+Le vaccin anti-VRS Abrysvo (non remboursé) est recommandé par la *HAS 2024* pendant la grossesse entre 32 et 36 SA de septembre à janvier. Pas de 2<sup>e</sup> dose lors des grossesses suivantes.
+
+Il peut être co-administré avec les vaccins grippe et Covid-19 mais doit être espacé de 2 semaines avec la rappel de coqueluche.
+
+En l'absence de vaccination anti-VRS pendant la grossesse, le nirsévimab est recommandé.
 
 ### Les anticorps monoclonaux anti-VRS
 
@@ -353,7 +362,6 @@ Selon la Revue Prescrire: peu de place pour la kinésithérapie respiratoire sau
 
 {{< mermaid title="Prise en charge de la bronchiolite et d'une dyspnée sifflante. Dr JB Fron d'après HAS/CNPP 2019" >}}
 graph TB
-accTitle: Prise en charge de la bronchiolite et d'une dyspnée sifflante d'après HAS et CNPP 2019
   dyspnee[Dyspnée sifflante] --> âge(Âge)
   style dyspnee stroke:#4150f5, stroke-width:1px
     âge --> moins12(&lt; 12 mois)
@@ -374,8 +382,7 @@ accTitle: Prise en charge de la bronchiolite et d'une dyspnée sifflante d'aprè
         atopie -- Oui --> asthme
       moins12 --> 3(3<sup>e</sup> épisode) --> asthme(Asthme du nourrisson)
     âge --> plus12("≥ 12 mois") --> asthme
-    âge -- Diagnostic différentiel --> differentiel("- Insuff. cardiaque<br>- Exacerbation d'asthme<br>- Pneumonie<br>- Laryngotrachéomalacie<br>- Corps étranger<br>- RGO<br>- Anneau vasculaire<br>- Allergie<br>- Fibrose kystique<br>
-- Masse médiastinale<br>- Fistule œso-trachéale")
+    âge -- Diagnostic différentiel --> differentiel("- Insuff. cardiaque<br>- Exacerbation d'asthme<br>- Pneumonie<br>- Laryngotrachéomalacie<br>- Corps étranger<br>- RGO<br>- Anneau vasculaire<br>- Allergie<br>- Fibrose kystique<br>- Masse médiastinale<br>- Fistule œso-trachéale")
 {{< /mermaid >}}
 
 > **AA =** air ambiant; **FC =** fréquence cardiaque; **FR =** fréquence respiratoire. L'alimentation est quantifiée sur 3 prises consécutives
@@ -437,6 +444,7 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
 - Prescrire Redaction. Bronchiolite et kinésithérapie respiratoire. Rev Prescrire. 2024.
 - [Vartiainen P, Jukarainen S, Rhedin SA, et al. Risk factors for severe respiratory syncytial virus infection during the first year of life: development and validation of a clinical prediction model. Lancet Digit Health. 2023.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00175-9/fulltext)
 - [HAS. Réponses Rapides : Nirsévimab (Beyfortus®) dans la prévention des bronchiolites à virus respiratoire syncytial (VRS) chez les nouveau-nés et les nourrissons. 15/09/2023. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2023-09/reponse_rapide__nirsevimab_beyfortus.pdf)

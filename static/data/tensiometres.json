@@ -162,6 +162,13 @@
       "Evaluateur": "StrideBP"
     },
     {
+      "Fabricant": "Fitage",
+      "Modèle": "06",
+      "Population": "adulte",
+      "Lieu": "cabinet, AMT",
+      "Evaluateur": "StrideBP"
+    },
+    {
       "Fabricant": "GE",
       "Modèle": "Carescape V100",
       "Population": "adulte",
@@ -206,6 +213,13 @@
     {
       "Fabricant": "InBody",
       "Modèle": "HBP570",
+      "Population": "adulte",
+      "Lieu": "cabinet",
+      "Evaluateur": "StrideBP"
+    },
+    {
+      "Fabricant": "Joytech",
+      "Modèle": "DBP-1333b",
       "Population": "adulte",
       "Lieu": "cabinet",
       "Evaluateur": "StrideBP"
@@ -282,7 +296,7 @@
     },
     {
       "Fabricant": "Mindray",
-      "Modèle": "Accutorr Plus",
+      "Modèle": "Datascope Accutorr Plus",
       "Population": "adulte, enfant",
       "Lieu": "cabinet",
       "Evaluateur": "StrideBP, BIH"
@@ -345,7 +359,7 @@
     },
     {
       "Fabricant": "QMon",
-      "Modèle": 20,
+      "Modèle": "20",
       "Population": "adulte",
       "Lieu": "cabinet",
       "Evaluateur": "StrideBP"
@@ -366,7 +380,7 @@
     },
     {
       "Fabricant": "Suntech",
-      "Modèle": 247,
+      "Modèle": "247",
       "Population": "adulte",
       "Lieu": "cabinet",
       "Evaluateur": "StrideBP"

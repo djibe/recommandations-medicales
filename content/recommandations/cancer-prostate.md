@@ -303,6 +303,8 @@ graph TB
 
 {{< youtube id="cm7rIZAXHYU" title="Indication du toucher rectal en médecine (Urologie Lyon Sud)" >}}
 
+{{< youtube id="szF2WjhtRE4" title="Cancer de la prostate et pesticides : procédure de reconnaissance (Assurance Maladie)" >}}
+
 - [Cornford P et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2024.](https://uroweb.org/guidelines/prostate-cancer)
 - {{< references/beh-cancers-incidence >}}
 - [Ploussard G et al. French AFU Cancer Committee Guidelines - Update 2022-2024: prostate cancer - Diagnosis and management of localised disease. Progrès en Urologie. 2022.](https://www.sciencedirect.com/science/article/pii/S116670872200344X)
