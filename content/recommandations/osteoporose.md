@@ -357,7 +357,7 @@ Tout au long de la vie: activité physique adaptée, {{< modal-btn modal-regime 
   - Femme ménopausée ≥ 50 ans: {{< modal-btn modal-calcium-cible >}}apports cibles 1 - 1,2 g/j{{< /modal-btn >}}
   - {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}}
   - Associations calcium/vitamine D, à distance des repas  
-    {{% class "text-black-secondary" %}}Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.{{%/class%}}
+    {{< traitements/calcium-vitd >}}.
   - {{< modal-btn modal-calcium >}}Aliments riches en calcium{{< /modal-btn >}}, 2-3 produits laitiers/j
   - Apports lactés quotidiens jusqu'à 3 ans
 - Apports protéiques minimum de 1 à 1,2 g/kg/j

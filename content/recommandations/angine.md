@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2024-02-23"
+lastmod = "2024-06-27"
 specialites = ["ORL", "pediatrie"]
 annees = "2023"
 sources = ["GPIP", "HAS", "SPILF"]
@@ -29,8 +29,8 @@ flowchart = true
   - Adulte: amoxicilline 1 g 2 fois par jour pendant 6 jours
   - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises/j pendant 6 jours
   - Antibiothérapie aussi indiquée pour l'angine de Vincent, la diphtérie, le gonocoque et le [chancre syphilitique]({{< relref "syphilis.md" >}})
-- La prise en charge de l'angine pédiatrique en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
-- Le Streptatest peut être réalisé par le pharmacien sans ordonnance à partir de 3 ans ou sur ordonnance conditionnelle: << si TROD angine positif, sous 7 jours calendaires >> – *[Arrêté du 13/12/21](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044483134)* et *[31/10/23](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048368290)*
+  - La prise en charge de l'angine pédiatrique en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
+- À partir de 10 ans, le Streptatest et la délivrance d'antibiotique peuvent être réalisés directement par le pharmacien formé (*[Service-Public](https://www.service-public.fr/particuliers/actualites/A17229?xtor=EPR-100)*)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

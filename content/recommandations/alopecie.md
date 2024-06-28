@@ -140,7 +140,7 @@ Proposer un **soutien psychologique** et expliquer la physiologie de la repousse
 
 ### Traitement de la pelade
 
-Des traitements locaux peuvent être essayés: dermocorticoïdes, minoxidil 5%.
+Des traitements locaux peuvent être essayés: [dermocorticoïdes]({{< relref "dermocorticoides.md" >}}), minoxidil 5%.
 
 Pour les formes étendues, avis dermatologique (photothérapie, PUVA ou UVB, immunosuppresseurs).
 

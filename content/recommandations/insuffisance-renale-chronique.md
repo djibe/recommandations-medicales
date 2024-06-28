@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2023-11-14"
+lastmod = "2024-06-27"
 specialites = ["néphrologie"]
 annees = "2023"
 sources = ["HAS", "ESH", "KDIGO", "ADA", "ESC"]
@@ -293,8 +293,8 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
 - Hypertension artérielle
   - Traitement si PA ≥ 140/90 (*HAS* et *ESH 2023*) ou n'est pas dans la cible (*KDIGO 2021*)
   - Pression artérielle cible < 130/80 mmHg (*ESH 2023*) ou 120/90 mmHg (*KDIGO 2021*, si possible pour *HAS 2023*), {{%class%}}< 150-160 si +80 ans (*HAS 2021*){{%/class%}}
-  - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} ou {{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale avec anticalcique ou thiazidique (de l'anse à partir de 30 mL/min)
-  - Puis bêtabloquant ou alpha1-bloquant si nécessaire
+  - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale avec anticalcique ou thiazidique (de l'anse à partir de 30 mL/min)
+  - Puis trithérapie ci-dessus si nécessaire
   - Si greffe rénale: MAPA, cible < 130/80 mmHg (*ESH 2023* et *KDIGO 2021*)  
    par anticalcique dihydropyridine ou thiazidique.
   - Automesure tensionnelle
@@ -499,6 +499,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
+- [Kreutz R et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)
 - [HAS. Maladie rénale chronique de l'adulte (MRC). Guide du parcours de soins. 2023.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
 - {{< references/esh-2023 >}}
 - {{< references/ada-soc >}}

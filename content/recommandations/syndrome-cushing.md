@@ -41,7 +41,7 @@ flowchart = true
 Syndrome de Cushing (SC)
 : Ensemble des manifestations induites par une exposition chronique à un excès de glucocorticoïdes.
 : Maladie rare (1,2-5 cas/million/an) avec une surmortalité et une morbidité importantes ([cardiovasculaire](/tags/risque-cardiovasculaire/), infectieuse, psychiatrique, petite taille, déformations osseuses).
-: Après la cause iatrogène par prise de corticoïdes, deux grands mécanismes peuvent déclencher l'hypercorticisme: **70-80% des Cushing sont ACTH-dépendants** (stimulation surrénale par une ACTH inappropriée) avec pour 90% la **maladie de Cushing** (tumeur hypophysaire sécrétant de l'ACTH). Les 20-30 % restants ont un syndrome de Cushing ACTH-indépendant par tumeur surrénale avec sécrétion inappropriée de cortisol (unilatérale bénigne dite **adénome corticosurrénalien** pour les 2/3).
+: Après la cause iatrogène par prise de [corticoïdes]({{< relref "corticotherapie.md" >}}), deux grands mécanismes peuvent déclencher l'hypercorticisme: **70-80% des Cushing sont ACTH-dépendants** (stimulation surrénale par une ACTH inappropriée) avec pour 90% la **maladie de Cushing** (tumeur hypophysaire sécrétant de l'ACTH). Les 20-30 % restants ont un syndrome de Cushing ACTH-indépendant par tumeur surrénale avec sécrétion inappropriée de cortisol (unilatérale bénigne dite **adénome corticosurrénalien** pour les 2/3).
 
 ### Abréviations
 

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-04-25T14:08:50+02:00"
 publishdate = "2024-04-25"
-lastmod = "2024-06-03"
+lastmod = "2024-06-27"
 specialites = ["therapeutique"]
 annees = "2024"
 sources = ["BDPM"]
@@ -34,6 +34,7 @@ Médicaments (hors antiviraux) dont le résumé des caractéristiques du produit
 | Acide alendronique | Avant | Matin: au moins 30 minutes avec un grand verre d'eau du robinet | BDPM |
 | Amoxicilline-clavulanique| Pendant | Début de repas | BDPM |
 | Atovaquone/proguanil | Pendant | ou boisson lactée | BDPM |
+| Bilastine | Avant | ou à distance | BDPM |
 | Bismuth (Pylera) | Après | En position assise, avec un grand verre d'eau (25 cL). Ne pas s'allonger immédiatement après | BDPM |
 | Cefpodoxime | Pendant | | BDPM |
 | Céfuroxime | Pendant | Après le repas | BDPM |
@@ -42,7 +43,7 @@ Médicaments (hors antiviraux) dont le résumé des caractéristiques du produit
 | Céfalexine | Avant ou après | | BDPM |
 | Érythromycine | Avant | | BDPM |
 | Fer (sulfate, Tardyferon, Timoferol) | Avant voire pendant | | BDPM, CBIP |
-| Fosfomycine | Avant ou après | 2-3 heures avant ou après | BDPM |
+| Fosfomycine | Avant ou après | 2-3 heures avant ou après. De préférence au coucher vessie vide | BDPM, Folia |
 | Gaviscon | Après | | BDPM |
 | Gliclazide | Avant | Juste avant ou pendant | CBIP |
 | Glinides | Avant | | BDPM |
@@ -51,17 +52,21 @@ Médicaments (hors antiviraux) dont le résumé des caractéristiques du produit
 | Isoniazide | Avant | Matin: au moins 30 minutes| BDPM |
 | Isotrétinoïne | Pendant | | BDPM |
 | Itraconazole | Pendant | Juste après | BDPM |
+| Ivermectine | Avant | 2h avant ou après | BDPM |
 | Lévodopa (Modopar) | Avant | Au moins 30 minutes | BDPM |
 | Lévothyroxine | Avant | Matin: au moins 30 minutes | BDPM |
+| Mélatonine | Après | 1-2 h avant le coucher et après le repas (2h) | BDPM |
 | Metformine | Pendant | ou à la fin | BDPM |
 | Métoprolol | Avant ou après | | BDPM |
 | Méthylphénidate: DCI, Médikinet | Pendant | ou juste après | BDPM |
-| Nitrofurantoïne | Pendant || BDPM |
+| Nitrofurantoïne | Pendant | | BDPM |
 | Pancréatine (Créon) | Pendant | ou juste après | BDPM |
 | Rifampicine | Avant | Au moins 30 minutes | BDPM |
 | Stromectol | Avant | Avec de l'eau | BDPM |
 | Triméthoprime/Sulfaméthoxazole (Bactrim) | Pendant | | BDPM |
 {{< /table >}}
+
+Interactions avec le lait uniquement: fluoroquinolones, azathioprine.
 
 > Merci de soumettre les médicaments manquants avec le formulaire de contact
 
@@ -84,6 +89,7 @@ La prise du médicament pendant le repas n'améliore pas la biodisponibilité ma
 
 {{< references/bdpm >}}
 
+- [Centre Belge d'Information Pharmacothérapeutique (CBIP). Chaque médicament au bon moment! Partie 3: à distance des repas. 2023.](https://www.cbip.be/fr/articles/4338?folia=4336)
 - [Centre Belge d'Information Pharmacothérapeutique (CBIP). Chaque médicament au bon moment! Partie 1: (le matin) à jeun. 2023.](https://www.cbip.be/fr/articles/4216?folia=4215)
 - [Centre Belge d'Information Pharmacothérapeutique (CBIP). Chaque médicament au bon moment! Partie 2: lors des repas. 2023.](https://www.cbip.be/fr/articles/4306?folia=4305)
 - [Pharmacie des Hôpitaux de l'Est Lémanique. Importance du moment de prise pour les médicaments. 2022. (PDF)](https://www.phel.ch/upload/docs/application/pdf/2018-04/importance_du_moment_de_prise_pour_les_medicaments.pdf)

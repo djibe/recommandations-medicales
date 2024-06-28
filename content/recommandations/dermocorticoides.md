@@ -26,6 +26,8 @@ imageSrc = "Tube de dermocorticoïde en crème. Dr JB Fron"
 - Appliquer le dermocorticoïde une fois par jour jusqu'à cicatrisation (avec arrêt brutal du traitement) et lutter contre la corticophobie
 - Les dermocorticoïdes sont associés aux autres mesures de prise en charge de la pathologie (émollients, analogues de la vitamine D3)
 
+Chapitre lié: [corticoïdes par voie générale]({{< relref "corticotherapie.md" >}})
+
 {{%/article-summary%}}
 
 ## Dermocorticoïdes disponibles en France

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-14T13:07:50+02:00"
 publishdate = "2023-09-14"
-lastmod = "2024-03-14"
+lastmod = "2024-06-28"
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2022"
 sources = ["SFP", "EFSA"]
@@ -46,8 +46,22 @@ Apports alimentaires en **calcium** recommandés pendant la croissance de l'enfa
 
 ## Évaluer les quotidiens apports en calcium {.mt-5}
 
+<div class="alert border">
 {{< scores/questionnaire-grio >}}
+</div>
 
 ## Teneur en calcium des aliments {.mt-5}
 
 {{< traitements/aliments-calcium >}}
+
+## Supplémentation en calcium {.mt-5}
+
+### Spécialités pour supplémenter en calcium
+
+**Spécialités disponibles:** {{< traitements/calcium-spe >}}.
+
+### Spécialités pour supplémenter en calcium et vitamine D
+
+Pour les personnes à risque (ostéoporose, traitement biphosphonate, corticothérapie au long cours, apports insuffisants, chutes répétées), une supplémentation en calcium et vitamine D3 est à prendre à distance des repas.
+
+**Spécialités disponibles:** {{< traitements/calcium-vitd >}}.

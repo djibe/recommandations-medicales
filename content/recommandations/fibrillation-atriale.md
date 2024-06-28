@@ -8,7 +8,7 @@ synonyms = ["Arythmie complète par fibrillation auriculaire (ACFA)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-05T17:43:41+02:00"
 publishdate = "2022-02-10"
-lastmod = "2024-02-02"
+lastmod = "2024-06-27"
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["ESC", "ESH", "HAS"]
@@ -266,7 +266,8 @@ Recommandations générales pour la prise en charge de la fibrillation atriale:
 - La cardioversion n'est pas abordée: cardiologue uniquement
 - Hypertension artérielle
   - Cible de la population générale (< 130/80): 120-129 / 70-79 mmHg
-  - Préférer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, anti-aldostérone
+  - FC ≥ 80 bpm: {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} + BB > + ICa-DHP/thiazidique > + ICa-DHP + thiazidique
+  - FC < 80 bpm: {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} + ICa-DHP/thiazidique > + ICa-DHP + thiazidique
 - Éducation thérapeutique du patient et son entourage (min tous les 6 mois)
 - Déclarer l'[ALD n°5]({{< relref "affection-longue-duree.md" >}})  
   La FA régularisée sans salves n'est pas concernée.
@@ -403,6 +404,7 @@ graph TB
 
 {{< youtube id="3HeRh1Q25kQ" title="Parcours de soin chez un patient avec Fibrillation Atriale (Fréquence Médicale)" >}}
 
+- [Kreutz R et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)
 - [Ray WA et al. Serious Bleeding in Patients With Atrial Fibrillation Using Diltiazem With Apixaban or Rivaroxaban. JAMA. 2024.](https://jamanetwork.com/journals/jama/article-abstract/2817546)
 - [ANSM. Esters éthyliques d'acides Oméga-3 : Risque accru et dose-dépendant de fibrillation auriculaire (ou atriale) chez des patients atteints de maladies cardiovasculaires ou présentant des facteurs de risque cardiovasculaires. 17/11/2023.](https://ansm.sante.fr/informations-de-securite/esters-ethyliques-dacides-omega-3-risque-accru-et-dose-dependant-de-fibrillation-auriculaire-ou-atriale-chez-des-patients-atteints-de-maladies-cardiovasculaires-ou-presentant-des-facteurs-de-risque-cardiovasculaires)
 - [HAS. Fibrillation auriculaire. Actes et prestations Affection de longue durée. 2023.](https://www.has-sante.fr/jcms/c_568395/fr/ald-n-5-fibrillation-auriculaire)

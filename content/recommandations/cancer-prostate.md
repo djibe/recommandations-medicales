@@ -320,6 +320,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Breyer BN et al. Updates to Incontinence After Prostate Treatment: AUA/GURS/SUFU Guideline (2024). J Urol. 2024.](https://www.auajournals.org/doi/10.1097/JU.0000000000004088)
 - [Hamdy FC et al. Fifteen-Year Outcomes after Monitoring, Surgery, or Radiotherapy for Prostate Cancer. N Engl J Med. 2023.](https://www.nejm.org/doi/10.1056/NEJMoa2214122)
 [Ploussard G et al. French AFU Cancer Committee Guidelines - Update 2022-2024: prostate cancer - Management of metastatic disease and castration resistance. Progrès en Urologie. 2022.](https://www.sciencedirect.com/science/article/pii/S1166708722003438)
 

@@ -204,6 +204,7 @@
 <meta name="apple-mobile-web-app-title" content="{{ $.Site.Title }}">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-touch-fullscreen" content="yes">
+{{ if hugo.IsProduction }}
 <script>
   // Register the service worker
   if ('serviceWorker' in navigator) {
@@ -214,3 +215,4 @@
     });
   }
 </script>
+{{ end }}

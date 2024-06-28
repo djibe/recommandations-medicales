@@ -101,7 +101,7 @@ TVP
   - Carcinome
   - Syndrome myéloprolifératif, dysglobulinémie
   - Iatrogénie  
-    Hydroxyurée, nicorandil, anti-VEGF, anti-EGFR, immunosuppresseurs (tacrolimus, [méthotrexate]({{< relref "methotrexate.md" >}})), corticoïdes, AINS, adalimumab, certolizumab.
+    Hydroxyurée, nicorandil, anti-VEGF, anti-EGFR, immunosuppresseurs (tacrolimus, [méthotrexate]({{< relref "methotrexate.md" >}})), [corticoïdes]({{< relref "corticotherapie.md" >}}), AINS, adalimumab, certolizumab.
   - Pathomimie (diagnostic d'élimination)
 
 ### Diagnostic différentiel de l'ulcère veineux

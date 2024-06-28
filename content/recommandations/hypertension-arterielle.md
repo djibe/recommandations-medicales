@@ -443,7 +443,9 @@ Pour être remboursé: associer <button class="chip chip-action" type="button" d
 
 ### Traitement de niveau 3
 
-Hypertension résistante: avis spécialisé + RHD rappelées + ajout de [spironolactone](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63145849&typedoc=R) 25-50 mg/j (ou autre diurétique, alpha ou bêtabloquant).
+Hypertension résistante: avis spécialisé + RHD rappelées + ajout de [spironolactone](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63145849&typedoc=R) 25-50 mg/j (ou bêtabloquant, alpha-bloquant, antihypertenseur central).
+
+Chez l'insuffisant rénal sévère: IEC/ARA2 + ICa + diurétique de l'anse + chlortalidone (ou BB ou alpha-bloquant ou antihypertenseur central)
 
 En cas d'hypertension artérielle résistant, éliminer:
 

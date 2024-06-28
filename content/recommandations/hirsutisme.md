@@ -106,7 +106,7 @@ Le diagnostic d'hirsutisme est clinique.
   - Gel de testostérone par le partenaire
   - Anabolisants, testostérone/DHEA, danazol, tibolone
   - Lévonorgestrel et progestatifs
-  - Corticoïdes (même inhalés)
+  - [Corticoïdes]({{< relref "corticotherapie.md" >}}) (même inhalés)
   - Minoxidil
   - Ciclosporine, tacrolimus
   - Phénytoïne, acide valproïque

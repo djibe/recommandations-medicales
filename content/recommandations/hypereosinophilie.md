@@ -230,7 +230,7 @@ Le généraliste peut s'assurer du suivi minimal d'une hyperéosinophilie qui co
 - Surveillance biologique avec hémogramme trimestriel
 - Autres examens ciblés
 
-Traitements spécifiques des syndromes hyperéosinophiliques
+Traitements spécifiques des syndromes hyperéosinophiliques:
 
 - SHE clonaux: inhibiteurs de tyrosine kinase (imatinib) et hydroxycarbamide
 - SHE réactionnels: corticothérapie topique ou systémique, interféron alpha-2a et hydroxycarbamide

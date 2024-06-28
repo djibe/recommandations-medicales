@@ -234,7 +234,8 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
     AOD à dose réduite si risque de saignement. Si AVK indiqué: INR cible 2 - 2,5.
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
   - Cible tensionnelle < 130/80 mmHg
-  - Bêtabloquant (si FEVG ≤ 40 %) et {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} non systématiques mais à considérer
+  - Privilégier {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} (ARA2 si mal toléré) + BB dose maximale
+  - Trithérapie: + ICa-DHP ou thiazidique
 - [Vaccin grippe]({{< relref "grippe.md" >}}) annuel
 - Colchicine 0,5 mg/j  
   Pourrait être considérée en cas de facteurs mal contrôlés ou de nouvel événement CV.
@@ -264,6 +265,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Kreutz R et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)
 - [Grave C et al. Évolutions nationale et régionales de l'admission en réadaptation cardiaque après un syndrome coronaire aigu en France entre 2009 et 2021 : des disparités persistantes. Bull Épidémiol Hebd. 2024.](http://beh.santepubliquefrance.fr/beh/2024/8/2024_8_3.html)
 - [Byrne RA et al; ESC Scientific Document Group. 2023 ESC Guidelines for the management of acute coronary syndromes. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)
 - [2023 ESC Guidelines for the management of acute coronary syndromes - Supplementary Data.](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)

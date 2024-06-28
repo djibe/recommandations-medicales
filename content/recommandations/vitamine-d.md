@@ -106,7 +106,7 @@ Vitamine D3 (cholécalciférol): 1 µg = 40 UI
 ### Personnes à risque de complications par carence en vitamine D
 
 - Iatrogène  
-  Corticoïdes au long cours, traitements anti-épileptiques, anti-aromatases, analogues de la GnRH.
+  [Corticoïdes au long cours]({{< relref "corticotherapie.md" >}}), traitements anti-épileptiques, anti-aromatases, analogues de la GnRH.
 - Maladies endocriniennes et dermatologiques  
   Hyperparathyroïdie ...
 - Malabsorption, maldigestion, cholestase, insuffisance hépatique  

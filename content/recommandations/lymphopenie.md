@@ -87,7 +87,7 @@ Les lymphopénies peuvent être classées selon leur mécanisme supposé:
 - Antécédents  
   Cancer, rénal, infections répétées, maladie de système, MICI ou entéropathie, VIH, familiaux.
 - Traitements en cours  
-  Immunosuppresseurs, corticoïdes, radio-chimiothérapie.
+  Immunosuppresseurs, [corticoïdes]({{< relref "corticotherapie.md" >}}), radio-chimiothérapie.
 - Participation aux dépistages des cancers
 - [Consommation d'alcool]({{< relref "sevrage-alcool.md" >}}) et toxiques
 - Régime alimentaire

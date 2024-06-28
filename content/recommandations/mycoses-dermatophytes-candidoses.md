@@ -419,7 +419,7 @@ Traitement des onychomycoses:
 
 - Prélèvement au laboratoire pour un traitement guidé
 - Contrôle des facteurs de risque  
-  Séchage, ongles courts, limiter les contacts avec le sucre, les acides, les corticoïdes, les soins de manucure, protection en piscine.
+  Séchage, ongles courts, limiter les contacts avec le sucre, les acides, les [corticoïdes]({{< relref "corticotherapie.md" >}}), les soins de manucure, protection en piscine.
 - Matrice épargnée
   1. Pédicure-podologue pour limage ou meulage initial
   2. Vernis unguéal [amorolfine 5%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68805138&typedoc=R) x 1-2/semaine ou [ciclopirox 8%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66640136&typedoc=R) x 1/j pendant 3 à 6 mois

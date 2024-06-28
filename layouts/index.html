@@ -5,6 +5,7 @@
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "{{ .Site.Title }}",
+    "description": "{{ .Site.Params.Description }}"
     "url": {{ .Site.BaseURL }},
     "logo": {{ .Site.Params.icon | absURL }},
     "foundingDate": "2019",

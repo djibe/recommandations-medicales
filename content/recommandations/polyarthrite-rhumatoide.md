@@ -255,7 +255,7 @@ En association avec le méthotrexate (≥ 10 mg/semaine), selon la tolérance, p
   Abatacept (Orencia®).
 
 Relayer par un autre en cas d'inefficacité.  
-Décroissance quand rémission persistante ≥ 6 mois et arrêt des corticoïdes (ou dose quotidienne ≤ 5 mg/j).
+Décroissance quand rémission persistante ≥ 6 mois et [arrêt des corticoïdes]({{< relref "corticotherapie.md" >}}) (ou dose quotidienne ≤ 5 mg/j).
 
 #### En l'absence de facteurs de mauvais pronostic
 
