@@ -27,7 +27,7 @@ todo = "flow"
 - Les effets indésirables des corticoïdes inhalés sont surtout: [candidose oropharyngée]({{< relref "mycoses-dermatophytes-candidoses.md" >}}) et dysphonie. En cas de traitement prolongé, peuvent survenir: [pneumonies]({{< relref "pneumonie-aigue-communautaire.md" >}}), [ostéoporose]({{< relref "osteoporose.md" >}}), cataracte et glaucome
 - La technique d'inhalation nécessite une excellente éducation thérapeutique. Le traitement administré par une chambre d'inhalation est parfois plus simple sauf excellente maîtrise de la technique d'inhalation
 
-Chapitres liés: [dermocorticoïdes]({{< relref "dermocorticoides.md" >}}), [corticoïdes par voie générale]({{< relref "corticotherapie.md" >}})
+Chapitres liés: [dermocorticoïdes]({{< relref "dermocorticoides.md" >}}), [corticoïdes par voie générale]({{< relref "corticoides.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Corticoïdes inhalés" %}}

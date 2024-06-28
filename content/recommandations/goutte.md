@@ -209,7 +209,7 @@ puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours
 
 ### Corticoïdes per os
 
-Indications à la [corticothérapie]({{< relref "corticotherapie.md" >}}): traitement symptomatique de première ligne. (*SFR 2020*). En troisième intention selon *Prescrire®*, en remplacement des AINS et de la colchicine.
+Indications à la [corticothérapie]({{< relref "corticoides.md" >}}): traitement symptomatique de première ligne. (*SFR 2020*). En troisième intention selon *Prescrire®*, en remplacement des AINS et de la colchicine.
 
 [Prednisone 20 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64793934&typedoc=R) 1,5 cp x 1/j pendant 3-5 jours
 {.alert .alert-info}

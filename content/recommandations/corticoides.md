@@ -33,6 +33,8 @@ Recommandations pour une corticothérapie chez l'adulte (≥ 18 ans):
   - Un dosage du cortisol matinal est nécessaire à 5 mg de prednisone avant d'arrêter le traitement
   - Éduquer sur les [situations de stress](#situations-de-stress) lorsque la dose est réduite sous 10 mg/j d'équivalent prednisone
 
+Les biphosphonates ne sont pas encore détaillés.
+
 Chapitres liés: [corticoïdes inhalés]({{< relref "corticoides-inhales.md" >}}), [dermocorticoïdes]({{< relref "dermocorticoides.md" >}}), [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}).
 
 {{%/article-summary%}}
