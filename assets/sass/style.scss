@@ -15,7 +15,7 @@
   --text-half: rgba(0,0,0, 0.54);
 }
 
-p, li, dl {
+h2,h4,h5,h6, p, li, dl {
   text-wrap: pretty;
 }
 
@@ -33,7 +33,7 @@ a {
   color: var(--primary);
 }
 
-h1,h2,h4,h5,h6 {
+h1 {
   text-wrap: balance;
 }
 
