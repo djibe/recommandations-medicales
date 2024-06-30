@@ -139,7 +139,6 @@ document.addEventListener( 'DOMContentLoaded', event => {
     google.charts.setOnLoadCallback(drawRegionsMap)
   })
 </script>
-
 {{- end -}}
 
 {{- with .Params.slider }}
@@ -147,11 +146,39 @@ document.addEventListener( 'DOMContentLoaded', event => {
 <script>
   window.addEventListener('load', () => $('.slider-default').ionRangeSlider())
 </script>
-
 {{- end -}}
 
 {{- with .Params.datatable }}
   {{ partial "datatable" . }}
+{{- end -}}
+
+{{- with .Params.tableFilter }}
+<script async>
+  function searchTable() {
+    // Declare variables
+    let input, filter, table, tr, td, i, txtValue;
+    input = document.getElementById("table-search");
+    filter = input.value.toUpperCase();
+    table = document.getElementById("table-filter");
+    tr = table.getElementsByTagName("tr");
+
+    // Loop through all table rows, and hide those who don't match the search query
+    for (i = 0; i < tr.length; i++) {
+      td = tr[i].getElementsByTagName("td");
+      for (var j = 0; j < td.length; j++) {
+        if (td[j]) {
+          txtValue = td[j].textContent || td[j].innerText;
+          if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            tr[i].style.display = "";
+            break;
+          } else {
+            tr[i].style.display = "none";
+          }
+        }
+      }
+    }
+  }
+</script>
 {{- end -}}
 
 <script crossorigin>

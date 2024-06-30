@@ -18,6 +18,7 @@ icd10 = ""
 image = true
 imageSrc = "Le certificat médical. unDraw"
 todo = "liens"
+tableFilter = true
 +++
 
 {{%article-summary%}}
@@ -28,9 +29,14 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{<
 
 {{%/article-summary%}}
 
-## Certificats médicaux exigibles chez les personnes majeures
+## Certificats médicaux exigibles chez les personnes majeures {.my-5}
 
-{{< table title="Certificats médicaux pouvant être demandés ou refusés pour les personnes majeures en France. Dr JB Fron d'après CNOM 2024" class="table-wrap" >}}
+<!-- TODO: inject and style -->
+<div class="textfield-box textfield-box-sm">
+  <input type="search" class="form-control" id="table-search" onkeyup="searchTable()" placeholder="Rechercher">
+</div>
+
+{{< table title="Certificats médicaux pouvant être demandés ou refusés pour les personnes majeures en France. Dr JB Fron d'après CNOM 2024" class="table-wrap" id="table-filter">}}
 | Cadre             | Motif                          | Certificat | Texte de référence |
 |-------------------|--------------------------------|------------|--------------------|
 | Université/Enseignement supérieur | Justificatif d'absence | Non | Aucun texte ne prévoit la production d'un tel certificat |
@@ -97,7 +103,7 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{<
 | Décès | Déclaration à l'état civil | Oui | Article R.1112-72 du Code de la santé publique<br>Articles L.2223-42 et R.2213-1-1 du Code général des collectivités territoriales |
 {{< /table >}}
 
-## Sources
+## Sources {.mt-5}
 
 - [Conseil National de l'Ordre des Médecins (CNOM). Les certificats médicaux pour majeurs. Février 2024. (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/external-package/fiche_pratique/1wefaca/cnom_tableau_certificats_medicaux_majeurs.pdf)
 - [Certificats Absurdes](https://www.certificats-absurdes.fr)
