@@ -238,7 +238,7 @@ Antibioprophylaxie des contacts proches du cas la plus précoce possible, jusqu'
 - Contacts symptomatiques: *PCR Bordetella* ± antibiothérapie
 - Antibioprophylaxie
   - Identique au traitement curatif
-  - Indiquée chez tous les enfants non ou mal vaccinés  
+  - Indiquée chez tous les enfants non ou mal vaccinés (même si mère vaccinée en fin de grossesse)  
     < 11 mois avec < 2 doses, +11 mois avec < 3 doses
   - et enfants/adolescents/adultes dont la dernière vaccination a plus de 5 ans
   - et **contacts occasionnels** à risque de forme grave  
@@ -267,6 +267,7 @@ Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune inf
 {.alert .alert-info}
 
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : coqueluche chez le nourrisson, l'enfant et l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3525542/fr/choix-et-durees-d-antibiotherapies-coqueluche-chez-le-nourrisson-l-enfant-et-l-adulte)
+- [Infovac France. Bulletin N°7 - FAQ Coqueluche. Juin 2024.](https://www.infovac.fr/actualites/bulletin-n-7-faq-coqueluche-juin-2024)
 - [DGS-Urgent 2024_08. 07/06/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - {{< references/calendrier-vaccinal >}}
 - [HCSP. Conduite à tenir autour d'un ou plusieurs cas de coqueluche. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1265)

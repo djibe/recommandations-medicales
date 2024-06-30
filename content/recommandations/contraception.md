@@ -670,7 +670,9 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Faculty of Sexual and Reproductive Healthcare (FSRH). FSRH Guidelines & Statements.](https://www.fsrh.org/standards-and-guidance/fsrh-guidelines-and-statements/)
+- [Faculty of Sexual and Reproductive Healthcare (FSRH). FSRH CEU Guidance: Recommended Actions after incorrect Use of Combined Hormonal Contraception (e.g. late or missed pills, ring and patch). 2020.](https://www.fsrh.org/Public/Documents/fsrh-ceu-guidance-recommended-actions-after-incorrect-use.aspx)
+- [Faculty of Sexual and Reproductive Healthcare (FSRH). FSRH Clinical Guideline: Quick Starting Contraception. 2017.](https://www.fsrh.org/Public/Documents/fsrh-clinical-guidance-quick-starting-contraception-april-2017.aspx)
+- [Faculty of Sexual and Reproductive Healthcare (FSRH). FSRH Guidelines & Statements.](https://www.fsrh.org/Public/Public/Standards-and-Guidance/fsrh-guidelines-and-statements.aspx)
 - [HAS. Stérilisation à visée contraceptive chez l'homme et chez la femme. 2019.](https://www.has-sante.fr/jcms/c_1752765/fr/sterilisation-a-visee-contraceptive-chez-l-homme-et-chez-la-femme)
 - [HAS. Contraception chez l'homme. 2019.](https://www.has-sante.fr/jcms/c_1757909/fr/contraception-chez-l-homme)
 - [HAS. Efficacité des méthodes contraceptives. 2014.](https://www.has-sante.fr/jcms/c_1757924/fr/efficacite-des-methodes-contraceptives)
