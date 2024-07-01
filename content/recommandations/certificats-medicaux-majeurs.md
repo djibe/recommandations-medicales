@@ -12,7 +12,7 @@ specialites = ["certificats"]
 annees = "2024"
 sources = ["CNOM"]
 tags = []
-anglais = ["Medical certificate"]
+english = ["Medical certificate"]
 sctid = "772786005"
 icd10 = ""
 image = true
@@ -33,7 +33,7 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{<
 
 <!-- TODO: inject and style -->
 <div class="textfield-box textfield-box-sm">
-  <input type="search" class="form-control" id="table-search" onkeyup="searchTable()" placeholder="Rechercher">
+  <input type="search" class="form-control" id="table-search" onsearch="searchTable()" placeholder="Rechercher">
 </div>
 
 {{< table title="Certificats médicaux pouvant être demandés ou refusés pour les personnes majeures en France. Dr JB Fron d'après CNOM 2024" class="table-wrap" id="table-filter">}}

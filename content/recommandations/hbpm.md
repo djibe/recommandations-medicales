@@ -12,7 +12,7 @@ specialites = ["hematologie"]
 annees = "2011"
 sources = ["Afssaps"]
 tags = []
-anglais = ["English word"]
+english = ["English word"]
 sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
 atc = "B01AB"
 draft = true
