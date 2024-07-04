@@ -39,7 +39,7 @@ Zona
 Zona et personne immunodéprimée
 : Intérêt d'éduquer les patients à la reconnaissance des symptômes.  
 Ce sont les principales personnes qui développent des formes compliquée.  
-: **Pathologies pourvoyeuses de zona:** [leucémie aiguë]({{< relref "leucemie-aigue-adulte.md" >}}), lymphome en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, [VIH]({{< relref "vih-sida.md" >}}) (CD4 < 350/mm³ surtout).
+: **Pathologies pourvoyeuses de zona:** [leucémie aiguë]({{< relref "leucemie-aigue-adulte.md" >}}), [lymphome]({{< relref "lymphomes-non-hodgkiniens.md" >}}) en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, [VIH]({{< relref "vih-sida.md" >}}) (CD4 < 350/mm³ surtout).
 
 ### Atteintes du zona selon l'âge
 

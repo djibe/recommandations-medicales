@@ -43,7 +43,7 @@ Sur Omnidoc, le groupe *SOS ECG* offre à tous les confrères cette expertise.
 {{% /collapse %}}
 {{%collapse "Formations à la lecture d'ECG" %}}
 
-https://ecgclic.fr/
+{{< card-link-external title="ECGClic" url="https://ecgclic.fr/" >}}
 
 ### Formations complètes à la lecture d'ECG
 
@@ -53,7 +53,7 @@ https://ecgclic.fr/
 - [e-cardiogram](https://www.e-cardiogram.com) (Dr Pierre Taboulet)
 - [ECG Learning Center](https://ecg.utah.edu/) (Pr Frank Yanowitz)
 
-> Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ecg-pediatrique.html).
+Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ecg-pediatrique.html).
 {.alert .alert-info}
 
 ### Entraînements à la lecture d'ECG

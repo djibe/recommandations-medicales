@@ -107,7 +107,7 @@ Principalement essentielle (20-30% chez blancs et 80% chez noirs).
 Tumeurs
   - [Cancer du rein]({{< relref "cancer-rein.md" >}})
   - Tumeur de Wilms
-  - Lymphome
+  - [Lymphome]({{< relref "lymphomes-non-hodgkiniens.md" >}})
 - Coarctation de l'aorte
 - [Éclampsie et pré-éclampsie]({{< relref "pre-eclampsie.md" >}})
 

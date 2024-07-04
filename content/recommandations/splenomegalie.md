@@ -80,7 +80,7 @@ La splénomégalie n'est qu'un symptôme:
   Leucémie myéloïde chronique, Maladie de Vaquez, splénomégalie myéloïde chronique, thrombocytémie essentielle.
 - Hémopathies lymphocytaires  
   [Leucémie lymphoïde chronique]({{< relref "leucemie-lymphoide-chronique.md" >}}), maladie de Waldenström, leucémie à tricholeucocytes
-- Lymphomes malins
+- [Lymphomes malins]({{< relref "lymphomes-non-hodgkiniens.md" >}})
 - Anémies hémolytiques chroniques  
   Minkowski-Chauffard, déficit en pyruvate-kinase érythrocytaire, thalassémie  majeure, drépanocytose, hémolyse par auto-anticorps anti-GR.
 

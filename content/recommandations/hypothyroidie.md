@@ -62,7 +62,7 @@ Pathologies responsables d'hypothyroïdie, le plus souvent par insuffisance thyr
   - Goitre constant, diffus, volume modéré, ferme, souvent indolore et non compressif, pseudo-nodulaire
   - Anticorps anti-TPO à taux élevés et aspect échographiques caractéristiques
   - Aggravation progressive avec diminution du volume de la glande et du taux des anticorps
-  - Favorise la [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) (dépister systématiquement) et le lymphome thyroïdien (< 1% des cas)
+  - Favorise la [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) (dépister systématiquement) et le [lymphome thyroïdien]({{< relref "lymphomes-non-hodgkiniens.md" >}}) (< 1% des cas)
 - Thyroïdite chronique
   - Souvent asymptomatique, euthyroïdie
   - Taux élevé d'anticorps circulants, parenchyme hétérogène

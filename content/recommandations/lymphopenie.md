@@ -73,11 +73,11 @@ Les lymphopénies peuvent être classées selon leur mécanisme supposé:
 - Autres causes de lymphopénie
   - Origines: Éthiopie
   - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
-  - Lymphomes
+  - [Lymphomes]({{< relref "lymphomes-non-hodgkiniens.md" >}})
   - Tumeur solide
   - Intoxication alcoolique aiguë
   - **Sport**
-  - Idiopathique, rare
+  - Idiopathique (rare)
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

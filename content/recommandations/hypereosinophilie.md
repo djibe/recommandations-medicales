@@ -105,7 +105,7 @@ Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie
 - Maladie de système  
   Polyangéite, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), polymyosites, périartérite noueuse, lupus.
 - **Cancers** et hémopathies  
-  Lymphomes (maladie de Hodgkin, lymphome T), carcinomes multisécrétants ou [leucémie aiguë lymphoblastique]({{< relref "leucemie-aigue-adulte.md" >}}).
+  Lymphomes (maladie de Hodgkin, [lymphome T]({{< relref "lymphomes-non-hodgkiniens.md" >}})), carcinomes multisécrétants ou [leucémie aiguë lymphoblastique]({{< relref "leucemie-aigue-adulte.md" >}}).
 - Maladies spécifiques d'organe
   - ORL: syndrome de Fernand Widal (polypose nasosinusienne, asthme et prise d'AINS), pneumonie chronique à éosinophiles
   - Digestive: gastro-entérite à éosinophiles ou MICI

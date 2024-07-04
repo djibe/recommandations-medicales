@@ -218,7 +218,8 @@ Ceux-ci relèvent exclusivement du rhumatologue.
 Le traitement de la polyarthrite rhumatoïde est systématique, **<< en urgence >>** dès le diagnostic, même s'il ne remplit pas encore les critères de rhumatisme défini. Il est modifié en cas d'**inefficacité à 3 mois** (ou objectif thérapeutique non atteint à 6 mois).
 
 {{%info%}}
-**Méthotrexate (MTX)** en première intention, dose optimale (25 mg/semaine) à atteindre en 4-8 semaines.  
+[Méthotrexate](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65787731&typedoc=R) (MTX) en première intention, dose optimale (25 mg/semaine) à atteindre en 4-8 semaines.
+
 Débuter à 10-15 mg en prise unique (ou scindée en 2 doses, étude SMART) par semaine par voie orale (Novatrex®, Imeth®, génériques).  
 Augmentation de 5 mg/1-4 semaines selon efficacité-tolérance.
 

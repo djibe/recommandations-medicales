@@ -197,6 +197,10 @@ La rééducation périnéale ne permet pas de traiter un [prolapsus]({{< relref 
 - [Dedecker F. Grossesses rapprochées : facteurs de risque et conséquences périnatales. Journal de gynécologie obstétrique et biologie de la reproduction. 2006.](https://www.em-consulte.com/article/115440)
 - [Anaes. Rééducation dans le cadre du post-partum. 2002.](https://www.has-sante.fr/jcms/c_272241/fr/reeducation-dans-le-cadre-du-post-partum)
 
+### Bibliographie en attente
+
+[Deffieux X, et al. Rééducation périnéale et abdominale dans le post-partum : recommandations. J Gynecol Obstet Biol Reprod. 2015.](https://www.sciencedirect.com/science/article/abs/pii/S036823151500263X)
+
 {{%/sources%}}
 {{% modal title="Questionnaire PHQ-2" id="modal-phq2"%}}
 

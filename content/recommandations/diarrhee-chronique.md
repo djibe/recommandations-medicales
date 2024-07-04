@@ -94,7 +94,7 @@ Rechercher à l'examen les arguments en faveur des causes suivantes de diarrhée
 
 - Pullulation microbienne grêlique
 - Ischémie mésentérique
-- Lymphome
+- [Lymphome]({{< relref "lymphomes-non-hodgkiniens.md" >}})
 - Complication post-opératoire
 - Pancréatite chronique
 - Entérocolite radique

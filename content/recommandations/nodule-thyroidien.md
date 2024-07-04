@@ -176,7 +176,7 @@ Chaque nodule de la thyroïde est décrit én échographie selon la **classifica
 
 Les autres imageries (scanner, IRM) relèvent du spécialiste (goitre plongeant, compression trachéale ou œsophagienne, rapports vasculaires).
 
-Examen en urgence dans un centre expert en cas de symptômes compressifs ou d'évolution rapide (suspicion de cancer anaplasique ou de lymphome).
+Examen en urgence dans un centre expert en cas de symptômes compressifs ou d'évolution rapide (suspicion de cancer anaplasique ou de [lymphome]({{< relref "lymphomes-non-hodgkiniens.md" >}})).
 {.alert .alert-warning}
 
 #### Cytoponction guidée par échographie d'un nodule thyroïdien
