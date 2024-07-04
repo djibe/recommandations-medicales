@@ -1,21 +1,21 @@
-# Filter BDPM for Recomedicales by djibe and GPT4o
+# Filter BDPM for RecoMedicales by djibe and GPT4o
 # TODO: W964
 
 import os
-# import requests
+import requests
 import pandas as pd
-# Enable Copy-on-Write
+# Enable Pandas Copy-on-Write
 pd.options.mode.copy_on_write = True
 
 # Download BDPM
-"""response = requests.get('https://base-donnees-publique.medicaments.gouv.fr/telechargement.php?fichier=CIS_bdpm.txt')
+response = requests.get('https://base-donnees-publique.medicaments.gouv.fr/telechargement.php?fichier=CIS_bdpm.txt')
 if response.status_code == 200:
     # Save the content to a file
     with open('CIS_bdpm.txt', 'wb') as file:
         file.write(response.content)
-    print('File downloaded successfully')
+    print('BDPM downloaded successfully')
 else:
-    print('Failed to download file:', response.status_code)"""
+    print('Failed to download file:', response.status_code)
 
 current_dir = os.getcwd()
 csv_path = os.path.join(current_dir, 'CIS_bdpm.txt')
@@ -25,8 +25,8 @@ df.columns = ['cis', 'libelle', 'forme', 'voie', 'statut', 'procedure', 'commerc
 df['cis'] = df['cis'].apply(lambda x: x.lstrip('\n') if isinstance(x, str) else x)
 
 # Display the DataFrame
-# print("First rows")
-# print(df.head())
+print("First rows")
+print(df.head())
 
 # Keep selected columns
 df = df.loc[:, ['cis', 'libelle', 'forme', 'voie', 'commercialisation']]
