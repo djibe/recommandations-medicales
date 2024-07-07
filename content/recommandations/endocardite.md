@@ -7,12 +7,12 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-08-18T11:07:22+02:00"
 publishdate = "2021-09-07"
-lastmod = "2023-08-29"
+lastmod = "2024-07-05"
 specialites = ["cardiologie"]
 annees = "2023"
 sources = ["ESC"]
 tags = ["fievre"]
-english = ["Endocarditis", "infective endocarditis (IE)"]
+english = ["Infective endocarditis (IE)"]
 sctid = "56819008"
 icd10 = "I38"
 image = true
@@ -23,46 +23,48 @@ todo = "SEO 'recommandations endocardite', Brossettes ?, https://pubmed.ncbi.nlm
 
 {{%article-summary%}}
 
-- Mesures de prévention de l'endocardite infectieuse pour toutes les personnes à risque
-- Antibioprophylaxie uniquement pour les patients à haut risque d'endocardite:  
-  Amoxicilline per os 2 g 30 à 60 minutes avant le geste à risque (50 mg/kg chez l'enfant)
-- Soutien psychologique
-- Adresser aux Urgences toute suspicion d'endocardite infectieuse
+- Les mesures de prévention de l'endocardite infectieuse concernent tous les patients à risque élevé ou intermédiaire:  
+  hygiène buccale et cutanée, carte de patient à risque, pas d'automédication, antibiothérapie des infections bactériennes.
+- La prévention de l'endocardite par antibioprophylaxie ne concerne que les soins dentaires chez les sujets à haut risque d'endocardite:  
+  Amoxicilline per os 2 g 30 à 60 minutes avant le geste à risque (50 mg/kg chez l'enfant). Azithromycine 500 mg en cas d'allergie.
+- Adresser aux *Urgences* toute suspicion d'endocardite infectieuse
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Endocardite infectieuse (EI)
-: Infection d'une ou plusieurs valves cardiaques par une bactérie, plus rarement par des germes intracellulaires ou des levures. L'atteinte de l'endocarde pariétale est plus rare. *L'endocardite infectieuse est rare mais grave*.
+: Infection d'une ou plusieurs valves cardiaques par une bactérie, plus rarement par des germes intracellulaires ou des levures. L'atteinte de l'endocarde pariétale est plus rare. L'endocardite infectieuse est rare mais grave.
 : La porte d'entrée infectieuse est cutanée (40%), nosocomiale, toxicomanie intraveineuse, bucco-dentaire (1/3), gastro-intestinale (23%), urogénitale (4%) et autres.
 : Les germes sont les staphylocoques (30-50%, mauvais pronostic, *Staphylococcus aureus* ++), *Streptocoques gallolyticus* et entérocoques.
 : La prophylaxie repose sur les mesures d'hygiène et pour les patients à haut risque d'endocardite: l'antibioprophylaxie en cas de geste invasif.
 
-1/3 des personnes à haut risque ne bénéficient pas d'antibioprophylaxie lors des soins invasifs
+1/3 des personnes à haut risque ne bénéficient pas d'antibioprophylaxie lors des soins invasifs.
 {.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Patients à risque d'endocardite infectieuse" %}}
 
-### Patients à haut risque d'endocardite infectieuse
-
 {{%info%}}
-Seules personnes éligibles à l'antibioprophylaxie en soins dentaires à haut risque:
+
+### Patients à haut risque d'endocardite infectieuse
 
 1. Antécédent d'endocardite infectieuse
 2. Valve prothétique (mécanique, homogreffe ou bioprothèse)
-3. À considérer si réparation valvulaire mitrale ou tricuspide par cathéterisme
-4. Cardiopathie congénitale cyanogène non traitée TODO:
-5. À considérer si greffe cardiaque
-6. Assistance ventriculaire
-
-
-1. Cardiopathie congénitale
-    - Cyanogène
-    - Matériel prothétique implanté dans les 6 mois ou avec persistance de shunt ou régurgitation valvulaire
+3. Cardiopathie congénitale (sauf anomalie valvulaire isolée)  
+    - Cyanogène non traitée
+    - Matériel prothétique
+4. Assistance ventriculaire
 
 > – *ESC 2023*
 {{%/info%}}
+
+### Patients à risque intermédiaire d'endocardite infectieuse
+
+1. Cardiopathie rhumatismale
+2. Autres valvulopathies dégénératives
+3. Valvulopathies congénitales (dont bicuspidie aortique)
+4. Implants électroniques cardiovasculaires
+5. Cardiomyopathie hypertrophique
 
 ### Chirurgies dentaires à risque chez le sujet à haut risque d'endocardite
 
@@ -78,8 +80,9 @@ Lors des autres gestes invasifs ([coloscopie]({{< relref "cancer-colorectal.md" 
 
 Les manifestations de l'endocardite infectieuse sont variées avec des présentations parfois trompeuses.
 
-**Tableau typique d'endocardite:** apparition ou majoration d'un souffle cardiaque en contexte fébrile.  
-Évoquer une endocardite devant: [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), purpura, lombalgies fébriles.
+**Tableau typique d'endocardite:** apparition ou majoration d'un **souffle cardiaque en contexte fébrile**.
+
+Évoquer une endocardite en cas de: [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), purpura, lombalgies fébriles.
 
 {{%warning%}}
 Évoquer une endocardite devant tout insuffisance cardiaque ou signe neurologique fébrile
@@ -121,16 +124,21 @@ Recommandations sur les mesures de prévention à respecter par les personnes à
   Consulter rapidement en cas de fièvre, hygiène corporelle et dentaire, pas d'automédication, déconseiller piercing et tatouage.
 - Soins dentaires
   - Brossage des dents au moins 2 fois par jour
-  - Dentiste annuel avec détartrage
-- Personnes à haut risque d'endocardite
-  - Dentiste x 2/an avec détartrage
-  - Antibioprophylaxie lors des gestes invasifs dentaires uniquement  
-  Manipulation de la région gingivale ou péri-apicale de la dent, perforation de la muqueuse orale.
-  - Contre-indication aux brossettes interdentaires ou pratiques agressives
-- Désinfection des plaies
-- Dépistage organisé des cancers ([colorectal]({{< relref "cancer-colorectal.md" >}}) dès 50 ans)
+  - Dentiste au moins annuel (semestriel si haut risque)
+  - Risque élevé: fil dentaire quotidien
+- Hygiène cutanée et désinfection des plaies
+- Consultation et antibiothérapie de toute infection bactérienne
+- Pas d'automédication (antibiotiques ++)
+- Personnes à risque élevé d'endocardite (+ assistance ventriculaire, plastie mitrale/tricuspide)
+  - Antibioprophylaxie systématique lors des **gestes invasifs dentaires**  
+    Extraction dentaire, chirurgie (périodontale, implant, soins gingivaux ou périapicaux dentaires, biopsies buccale), perforation de la muqueuse orale.
+  - Envisager une antibioprophylaxie en cas de greffe cardiaque
+  - Considérer si geste invasif: respiratoire, gastrointestinal, génito-urinaire, cutané ou musculo-squelettique
+- Dépistage organisé des cancers
 - Soutien psychologique
-- Limiter le recours au cathéter central, intraveineux et prolongé
+- Soins invasifs
+  - Antisepsie stricte
+  - Limiter le recours au cathéter central, intraveineux et prolongé
 
 {{%info%}}
 
@@ -141,7 +149,7 @@ Prise orale unique (voire IV) 30-60 minutes avant le geste invasif à risque:
 Amoxicilline 2 g (50 mg/kg chez l'enfant)
 {{%/info%}}
 
-**Si allergie:** clindamycine 600 mg (20 mg/kg chez l'enfant).
+**Si allergie:** azithromycine 500 mg (15 mg/kg chez l'enfant - *HAS 2024*)
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour les personnes à risque d'endocardite" "show" %}}
@@ -159,8 +167,9 @@ accTitle: Recommandations pour la prise en charge des personnes à haut risque d
 {{% /collapse %}}
 {{%sources%}}
 
-Pour le traitement des endocardites infectieuses, lire {{< references/spilf-2020 >}}.
+Pour le traitement des endocardites infectieuses, lire *ESC 2023*.
 
+- [Delgado V et al. 2023 ESC Guidelines for the management of endocarditis. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad193/7243107)
 - [Duval X, Iung B. Prophylaxie de l'endocardite infectieuse. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/j.amcp.2021.03.003)
 - [CMIT. Endocardite infectieuse. Item 152. ECN.Pilly 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-152-web.pdf)
 - [Collège National des Enseignants de Cardiologie. Endocardite infectieuse. Item 149 - UE6. Cardiologie 2e édition. 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch11_endocardite.pdf)
@@ -169,6 +178,5 @@ Pour le traitement des endocardites infectieuses, lire {{< references/spilf-2020
 ### Bibliographie en attente
 
 - [HAS. Prise en charge bucco-dentaire des patients à haut risque d'endocardite infectieuse. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3301328/fr/prise-en-charge-bucco-dentaire-des-patients-a-haut-risque-d-endocardite-infectieuse)
-[Delgado V et al. 2023 ESC Guidelines for the management of endocarditis. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad193/7243107)
 
 {{%/sources%}}

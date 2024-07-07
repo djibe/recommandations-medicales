@@ -151,13 +151,15 @@ Pas de vaccination anti-pneumococcique autour d'un cas de méningite bactérienn
 
 #### Méningocoque C
 
-Vaccination de la méningite C en prévention primaire de tous les nourrissons: 2 doses obligatoire à 5 et 12 mois. Rattrapage jusqu'à 24 ans.
+Vaccination de la méningite C en prévention primaire de tous les nourrissons: **2 doses obligatoire à 5 et 12 mois** (*Calendrier vaccinal*). Rattrapage jusqu'à 24 ans. Selon la *HAS*, **vaccin ACWY** Nimenrix à 5 mois et Nimenrix ou MenQuadfi à 12 mois.
 
 Pour la vaccination des **sujets contacts** en prévention secondaire, lire *Calendrier vaccinal*.
 
 #### Méningocoque A/W/Y
 
 Vaccination de la méningite A, W, Y en prévention primaire avec **dose unique**: adolescent de 11 à 14 ans (rattrapage jusqu'à 24 ans), immunodépression ([asplénie]({{< relref "asplenie.md" >}})), laboratoire travaillant sur le méningocoque, voyage (La Mecque).
+
+Pour la HAS, intérêt chez tous les nourrissons à 5 et 12 mois à la place du vaccin Méningo C (voir paragraphe précédent).
 
 Spécialités disponibles: [Menquadfi®](https://ec.europa.eu/health/documents/community-register/2022/20220929157200/anx_157200_fr.pdf), Menveo® (fourni sans seringue ni aiguille) ou [Nimenrix®](https://ec.europa.eu/health/documents/community-register/2023/20230223158551/anx_158551_fr.pdf)
 

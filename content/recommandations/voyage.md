@@ -285,9 +285,9 @@ Mesures de prévention des thromboses veineuses profondes liées à un voyage a�
 - Programmes d'exercices sans quitter sa place
 - Boissons sans alcool régulières
 - Si facteur de risque de phlébite: bas mi-cuisse classe 2  
-  Facteurs de risque: antécédents personnels ou familiaux de MVTE, thrombophilie, cancer actif, grossesse ou [post-partum]({{< relref "post-partum.md" >}}), contraception œstroprogestative ou THM, [obésité]({{< relref "obesite-adulte.md" >}}), âge avancé, tailles extrêmes, hospitalisation pour traumatisme ou anesthésie générale récente (< 4 semaines), tabac.
+  **Facteurs de risque de TVP:** antécédents personnels ou familiaux de MVTE, thrombophilie, [cancer actif](/tags/cancer/), grossesse ou [post-partum]({{< relref "post-partum.md" >}}), contraception œstroprogestative ou THM, [obésité]({{< relref "obesite-adulte.md" >}}), âge avancé, tailles extrêmes, hospitalisation pour traumatisme ou anesthésie générale récente (< 4 semaines), tabac.
 - Si risque élevé de MVTE: évaluer un anticoagulant  
-  Risque élevé si: antécédent personnel de MVTE non provoquée ou liée à un voyage, chirurgie à risque (abdomen, bassin, jambes) ou traumatisme récent, cancer actif, 2 facteurs de risque.
+  **Facteurs de risque élevé de TVP:** antécédent personnel de MVTE non provoquée ou liée à un voyage, chirurgie à risque (abdomen, bassin, jambes) ou traumatisme récent, cancer actif, 2 facteurs de risque.
 
 #### Les anticoagulants pour la prévention des thromboses veineuses liées au voyage
 

@@ -28,7 +28,7 @@ Ces recommandations visent à protéger les nourrissons non immuns et personnes 
 - Prise en charge de la coqueluche: éviction de la collectivité 5 jours et antibiothérapie par clarithromycine 500 mg, 2 fois par jour (ou 1 dose-poids x 2/j) pendant 7 jours ...
 - et antibioprophylaxie des sujets contacts proches ou à risque (voir [Antibioprophylaxie](#antibioprophylaxie-des-sujets-contacts))
 - Vaccination coqueluche
-  - L'immunité vaccinale persiste 5 à 10 ans
+  - Une coqueluche ne modifie pas le calendrier vaccinal. L'immunité vaccinale ne persiste que 5 à 10 ans
   - Rattrapage de la dose des 25 ans: joindre la valence coqueluche jusqu'à 39 ans
   - [Vaccination coqueluche]({{< relref "vaccination.md" >}}) à chaque grossesse entre 20 et 36 SA  
   - **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse si: amené à s'occuper de l'enfant les 6 premiers mois et le dernier rappel a +5 ans avant 25 ans ou +10 ans au-delà
@@ -198,8 +198,8 @@ Prise en charge de la coqueluche:
 - Mesures barrières  
   Lavage des mains, port de masque.
 - Proclive - fractionnement des repas - DRP
-- Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}})  
-  Il n'y a pas lieu d'administrer plus d'une dose de vaccin coquelucheux chez l'adulte (sauf professionnel de santé).
+- Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) non modifiée par l'épisode  
+  Il n'y a pas lieu d'administrer plus d'une dose de vaccin coquelucheux chez l'adulte (dernière dose à 25 ans, sauf professionnel de santé).
 - Antibioprophylaxie des sujets contacts et examen des tousseurs (voir section suivante)
 - Signalement au médecin inspecteur de l'ARS (CLIN si EHPAD) si:
   - Cas groupés (≥ 2 cas) familiaux ou en collectivité
@@ -263,7 +263,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune information), HCSP 2022 (suivre *HCSP 2014*), SPILF 2020 (durée 3 jours, pas de posologie, référence biblio 2018 qui mentionne azithromycine 500 mg J1 et 250 mg J2 à J5), HCSP 2014 (azithromycine 500 mg pendant 3 jours).
+Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune information), HCSP 2022 (suivre *HCSP 2014*), SPILF 2020 (durée 3 jours, pas de posologie, référence biblio 2018 qui mentionne azithromycine 500 mg J1 et 250 mg J2 à J5) et enfin HCSP 2014 (azithromycine 500 mg pendant 3 jours).
 {.alert .alert-info}
 
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : coqueluche chez le nourrisson, l'enfant et l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3525542/fr/choix-et-durees-d-antibiotherapies-coqueluche-chez-le-nourrisson-l-enfant-et-l-adulte)

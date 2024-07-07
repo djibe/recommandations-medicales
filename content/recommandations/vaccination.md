@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2024-06-28"
+lastmod = "2024-07-07"
 specialites = ["infectiologie", "pediatrie", "therapeutique"]
 annees = "2024"
 sources = ["MinSanté", "HCSP"]
@@ -82,7 +82,7 @@ VVA
 
 > Les consultations à 25, 45 et 65 ans sont gratuites avec la **cotation RDV** (30€).
 
-**NB.** Le Nimenrix peut être réalisé à M6-M12 en remplacement du Neisvac M5-M12 (non remboursé). Neisvac M5 et Nimenrix M12 (NR) est également possible.
+**NB.** Le Nimenrix peut être réalisé à M6-M12 en remplacement du Neisvac M5-M12 (non remboursé). Neisvac M5 et Nimenrix M12 (NR) est également possible. Le MenQuadfi peut être utilisé à 12 mois après un Nimenrix à 5 mois.
 
 ### Vaccin rotavirus
 
@@ -316,6 +316,7 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Stratégie de vaccination contre les infections invasives à méningocoques - Évaluation de l'interchangeabilité des vaccins méningococciques tétravalents pour l'administration de la dose de rappel à l'âge de 12 mois. 2024.](https://www.has-sante.fr/jcms/p_3528695/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques-evaluation-de-l-interchangeabilite-des-vaccins-meningococciques-tetravalents-pour-l-administration-de-la-dose-de-rappel-a-l-age-de-12-mois)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
 - {{< references/calendrier-vaccinal >}}
 - [Service Public. Les pharmaciens peuvent désormais vous prescrire et vous administrer vos vaccins. 30/08/2023.](https://www.service-public.fr/particuliers/actualites/A16732) et [arrêté 2023-736](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047948973)

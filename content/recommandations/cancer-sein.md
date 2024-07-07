@@ -24,11 +24,11 @@ flowchart = true
 {{%article-summary%}}
 
 - Prévention du cancer du sein: arrêt tabac et alcool, correction d'un surpoids et activité physique régulière
-- Palpation mammaire annuelle à partir de 25 ans par un médecin
-- Vérifier la participation au dépistage organisé du cancer du sein (de 50 à 74 ans, à consigner dans le dossier médical)  
-  Dépistage identique en cas de prothèses mammaires (*INCa 2019*).
-- Dépistage spécifique en cas de risque élevé ou très élevé de cancer du sein (voir *Niveaux de risque*)
-- En cas d'antécédents familiaux de cancers du sein, calcul du {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} pour savoir orienter en oncogénétique
+- Dépistage du cancer du sein
+  - Palpation mammaire annuelle à partir de 25 ans par un médecin
+  - Vérifier la participation au dépistage organisé du cancer du sein (de 50 à 74 ans, à consigner dans le dossier médical). Dépistage identique en cas de prothèses mammaires (*INCa 2019*). Pour la prise en charge des anomalies du dépistage (ACR 3 à 5), voir *[Prévention](#prévention-du-cancer-du-sein)*
+  - Dépistage spécifique du cancer du sein en cas de risque élevé ou très élevé de cancer (voir *[Niveaux de risque](#niveaux-de-risque-de-cancer-du-sein)*)
+  - En cas d'antécédents familiaux de cancers du sein, calcul du {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} pour savoir orienter en oncogénétique
 - Bilan initial devant un lésion du sein: mammographie et échographie mammaire bilatérales puis avis sénologique
 - Suivi après cancer du sein: examen clinique tous les 6 mois puis annuel avec mammographie à vie
 
@@ -129,21 +129,22 @@ RCP
 {{% /collapse %}}
 {{%collapse "Niveaux de risque de cancer du sein" %}}
 
-> Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans (*HAS*)
+> Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans. – *HAS*
 {.alert .alert-info}
 
 Dépistages recommandés du cancer du sein chez les femmes à haut risque selon *HAS 2019* (repris par *INCa 2022*). Le dépistage généralisé est aussi recommandé par la *Commission Européenne* 2022 (de 45 à 74 ans).
 
 ### Risque moyen
 
-Femme asymptomatique de 50 à 74 ans (sans facteur ci-dessous).
+**Femme asymptomatique de 50 à 74 ans** (sans facteur ci-dessous).
 
 Seules personnes concernées par le dépistage organisé du cancer du sein par mammographies bilatérales tous les 2 ans.
 
 ### Niveau de risque élevé
 
-1. Antécédent de cancer invasif du sein ou de carcinome canalaire *in situ*  
-  Voir *Surveillance*.
+Femmes à risque élevé de cancer du sein:
+
+1. Antécédent de cancer invasif du sein ou de carcinome canalaire *in situ* (voir *[Surveillance](#surveillance-après-cancer-du-sein)*)
 2. Antécédent de radiothérapie thoracique à haute dose (*HAS 2019*)
     - À partir de 8 ans après la fin de l'irradiation (dès que +20 ans):
     - Examen clinique annuel
@@ -170,7 +171,7 @@ Dépistage des personnes à risque très élevé de cancer du sein:
 
 #### Mutations BRCA1 et BRCA2 autosomiques dominantes
 
-Dépistage des cancers du sein en cas de prédisposition génétique aux cancers des seins-ovaires:
+Dépistage des cancers du sein en cas de prédisposition génétique aux cancers des seins-ovaires (BRCA 1 et 2):
 
 - Surveillance clinique tous les 6 mois à partir de 20 ans
 - Auto-palpation non recommandée
@@ -286,7 +287,7 @@ Les mammographies sont remboursées à 100% (les examens supplémentaires ne le 
 
 #### Conduite à tenir selon les résultats de la mammographie
 
-{{< table title="Prise en charge selon les résultats des mammographies de dépistage selon HAS 2015 et INCa 2018" >}}
+{{< table title="Prise en charge selon la classification ACR des résultats des mammographies de dépistage selon HAS 2015 et INCa 2018" >}}
 | Classification | Signification         | Conduite à tenir |
 |----------------|-----------------------|------------------|
 | ACR 0          | Classification provisoire | Investigations supplémentaires nécessaires pour reclasser |

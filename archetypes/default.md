@@ -23,12 +23,16 @@ todo = "descr > summary > liens > photo > newsletter > flow"
 
 {{%article-summary%}}
 
-
+TODO: (at the end)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
+### Abréviations
 
+ACG
+: {{%lang%}}American College of Gastroenterology{{%/lang%}}
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

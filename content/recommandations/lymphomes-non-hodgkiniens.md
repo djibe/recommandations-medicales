@@ -17,7 +17,7 @@ sctid = "118601006"
 icd10 = "C85.9"
 image = true
 imageSrc = "Scanner révélant une masse cervicale gauche de 48x45x35 mm homogène bien limitée comprimant la jugulaire interne chez un homme de 30 ans présentant une adénopathie cervicale. Cas de Mohammad Taghi Niknejad, Radiopaedia.org, rID: 157335"
-todo = "liens > flow | épidémiologie, classification oms 2016"
+todo = "flow | épidémiologie, classification oms 2016"
 +++
 
 {{%article-summary%}}
