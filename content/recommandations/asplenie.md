@@ -88,7 +88,7 @@ La pénicilline V existe en sirop (250.000 UI/5 mL, 500.000 UI/5 mL, 1 MUI/10 mL
 - Allergie aux bêtalactamines
   - Selon la *SFAR 2010*: érythromycine ([Ery®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61572941&typedoc=R)) 500 mg x 1/j
   - Selon *Lee GM*: céfalexine 250 mg 1 cm x 2/j (en dehors des repas et sans lait) ou azithromycine 250 mg x 1/j
-- En cas de pénurie d'Oracilline® (*Lee GM* et *[ANSM 2023](https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/oracilline-1-000-000-ui-comprime-secable-phenoxymethylpenicilline)*):
+- En cas de pénurie d'Oracilline® (*Lee GM*):
   - Adulte: amoxicilline 500 mg x 2/j
   - Enfant: amoxicilline 10 mg/kg x 2/j
 

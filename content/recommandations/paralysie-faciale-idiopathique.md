@@ -297,7 +297,7 @@ graph TB
 {{%sources%}}
 
 - [SFORL. Prise en charge de la Paralysie Faciale Idiopathique à la phase aiguë chez l'adulte. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-de-la-Paralysie-Faciale-Idiopathique-%C3%A0-la-phase-aigu%C3%AB-chez-l-adulte-2020.pdf)
-- [Collège des enseignants de neurologie. Paralysie faciale.](https://www.cen-neurologie.fr/deuxieme-cycle/paralysie-faciale)
+- [Collège des enseignants de neurologie. Paralysie faciale.](https://www.cen-neurologie.fr/second-cycle/paralysie-faciale)
 
 {{%/sources%}}
 {{% modal title="Classification de House-Brackmann" id="score-house" %}}

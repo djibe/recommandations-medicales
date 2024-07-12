@@ -272,7 +272,7 @@ graph TB
 - [Gillet Y et al. Antibiotic treatment of neuro-meningeal infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001501)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Méningites et méningo-encéphalites. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/meningites-meningo-encephalites)
 - [Hoen B et al; SPILF, CMIT, APNET, SFM, SFMU, SFN, SFORL, SFP, SNFMI, SRLF, SFR. Management of acute community-acquired bacterial meningitis (excluding newborns). Short text. Med Mal Infect. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X18300416)
-- [Collège des Enseignants de Neurologie (CEN). Méningites, méningoencéphalites, abcès cérébral chez l'adulte et l'enfant. 2019.](https://www.cen-neurologie.fr/fr/deuxi%C3%A8me-cycle/meningites-meningoencephalites-abces-cerebral-ladulte-lenfant)
+- [Collège des Enseignants de Neurologie (CEN). Méningites, méningoencéphalites, abcès cérébral chez l'adulte et l'enfant. 2019.](https://www.cen-neurologie.fr/second-cycle/meningites-meningoencephalites-abces-cerebral-ladulte-lenfant)
 - [Instruction No DGS/SP/2018/163 du 27 juillet 2018 relative à la prophylaxie des infections invasives à méningocoque. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/recos/1-iim-instruction-dgs-07-2018.pdf)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Meningitis.org](https://www.meningitis.org)

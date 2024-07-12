@@ -296,10 +296,11 @@ accTitle: Conduite à tenir devant une suspicion de dermatite atopique et prise 
 
 ### Bibliographie en attente
 
-[Xu AZ, Alexander JT. Topical Therapies for Atopic Dermatitis. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811421)
+- [Wheeler KE, et al. Updated Guidelines for Atopic Dermatitis-AAAAI/ACAAI Joint Task Force. JAMA Pediatr. 2024.](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2820957)
+- [Xu AZ, Alexander JT. Topical Therapies for Atopic Dermatitis. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811421)
 
 {{%/sources%}}
-{{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}
+{{% modal title="Dermocorticoïdes disponibles" id="modal-dc" size="lg" %}}
 
 {{< traitements/dermocorticoides >}}
 

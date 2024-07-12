@@ -341,7 +341,7 @@ Bilan étiologique par le neurologue en cause non évidente.
 - [Moisset X et al; SFETD. Traitements pharmacologiques et non pharmacologiques de la douleur neuropathique : une synthèse des recommandations françaises. Douleur Et Analgesie. 2020. (PDF)](https://www.sfetd-douleur.org/wp-content/uploads/2021/02/synth%C3%A8se-RECOS-DN-langue-fran%C3%A7aise1.pdf)
 - [Hartemann A. et al; SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)
 - [HAS. Prise en charge diagnostique des neuropathies périphériques. Recommandations professionnelles. Mai 2007.](https://www.has-sante.fr/jcms/c_598221/fr/prise-en-charge-diagnostique-des-neuropathies-peripheriques-polyneuropathies-et-mononeuropathies-multiples)
-- [Collège des enseignants de neurologie. Bases neurophysiologiques, mécanismes physiopathologiques d'une douleur aiguë et d'une douleur chronique – Thérapeutiques antalgiques, médicamenteuses et non médicamenteuses. Item 131.](https://www.cen-neurologie.fr/deuxieme-cycle/bases-neurophysiologiques-mecanismes-physiopathologiques-dune-douleur-aigue-dune)
+- [Collège des enseignants de neurologie. Bases neurophysiologiques, mécanismes physiopathologiques d'une douleur aiguë et d'une douleur chronique – Thérapeutiques antalgiques, médicamenteuses et non médicamenteuses. Item 131.](https://www.cen-neurologie.fr/second-cycle/douleur)
 
 ### Bibliographie en attente
 

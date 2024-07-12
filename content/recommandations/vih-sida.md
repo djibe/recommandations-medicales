@@ -429,6 +429,7 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 
 ### Bibliographie en attente
 
+- [HAS, ANRS, CNS. Prise en charge des complications infectieuses associées à l'infection par le VIH. 2024.](v)
 - [ANRS, CNS. Prise en charge de l'enfant et de l'adolescent vivant avec le VIH. 2024.](https://www.has-sante.fr/jcms/p_3520800/fr/prise-en-charge-de-l-enfant-et-de-l-adolescent-vivant-avec-le-vih)
 - [ANRS, CNS. Grossesse et VIH : désir d'enfant, soins de la femme enceinte et prévention de la transmission mère-enfant. 2024.](https://www.has-sante.fr/jcms/p_3518878/en/grossesse-et-vih-desir-d-enfant-soins-de-la-femme-enceinte-et-prevention-de-la-transmission-mere-enfant)
 - CMIT. Infection à VIH. Item 169. ECN.Pilly. 2023. (PDF)

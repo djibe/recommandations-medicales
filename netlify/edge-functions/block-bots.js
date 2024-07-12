@@ -2,7 +2,6 @@
 const botUas = [
   'Amazonbot',
   'anthropic-ai',
-  'Applebot',
   'AwarioRssBot',
   'AwarioSmartBot',
   'Bytespider',
@@ -15,7 +14,6 @@ const botUas = [
   'DataForSeoBot',
   'Diffbot',
   'FacebookBot',
-  'Google-Extended',
   'GPTBot',
   'ImagesiftBot',
   'magpie-crawler',

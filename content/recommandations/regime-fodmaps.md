@@ -82,6 +82,8 @@ Application smartphone pour le régime sans FODMAPS: [Low FODMAP Diet App](https
 
 Ces aliments étant très fréquents dans le régime alimentaire européen, le régime strict est très rarement respecté en permanence (12 %).
 
+[Fiche info patient sur le régime FODMAP (PDF du Dr J. Faucher)](/print/fodmap-patient-faucher.pdf)
+
 ### Aliments pauvres en FODMAPs à favoriser
 
 - **Fruits**  
@@ -114,5 +116,6 @@ Ces aliments étant très fréquents dans le régime alimentaire européen, le r
 - [Société Nationale Française de Colo-Proctologie. Régime pauvre en FODMAPs. 2021.](https://www.snfcp.org/informations-maladies/generalites/regimes-pauvre-en-fodmaps/)
 - {{< references/college-gastro >}}
 - [Ducrotté P; SNFGE, GFNG. Régime pauvre en sucres fermentiscibles Les << FODMAPs >>. Conseil de pratique. 2016. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/les_fodmaps.pdf)
+- [Fiche info médecin sur le régime FODMAP (PDF du Dr J. Faucher)](/print/fodmap-medecin-faucher.pdf)
 
 {{%/sources%}}

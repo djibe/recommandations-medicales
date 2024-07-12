@@ -190,7 +190,7 @@ graph TB
 {{< scores/phq4 >}}
 
 {{% /modal %}}
-{{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}
+{{% modal title="Dermocorticoïdes disponibles" id="modal-dc" size="lg" %}}
 
 {{< traitements/dermocorticoides >}}
 

@@ -175,7 +175,7 @@ graph TB
 - Dr Panait HFME Bron
 
 {{%/sources%}}
-{{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}
+{{% modal title="Dermocorticoïdes disponibles" id="modal-dc" size="lg" %}}
 
 {{< traitements/dermocorticoides >}}
 

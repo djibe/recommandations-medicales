@@ -462,7 +462,6 @@ accTitle: Prise en charge de l'arrêt du tabac d'après HAS 2014
 - [Santé Publique France. Tabac.](https://www.santepubliquefrance.fr/determinants-de-sante/tabac)
 - [INCa. Panorama des cancers en France - Édition 2022.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Panorama-des-cancers-en-France-Edition-2022)
 - [Haut Conseil de la santé publique (HCSP). Avis relatif aux bénéfices-risques de la cigarette électronique. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1138)
-- [Observatoire français des drogues et des tendances addictives (OFDT). Tabagisme et arrêt du tabac en 2021. 2022.](https://www.ofdt.fr/publications/collections/bilans/tabagisme-et-arret-du-tabac-en-2021/)
 - {{< references/esc-cvd >}}
 - [CNGOF, SFT. Prise en charge du tabagisme en cours de grossesse (texte court). 2020. (PDF)](https://www.sciencedirect.com/science/article/abs/pii/S2468718920301586)
 - [HAS. Sevrage tabagique : des outils pour repérer et accompagner les patients. Article. 2019.](https://www.has-sante.fr/jcms/pprd_2974738/fr/sevrage-tabagique-des-outils-pour-reperer-et-accompagner-les-patients#:~:text=La%20HAS%20propose%20des%20modalit%C3%A9s,accompagner%20dans%20le%20sevrage%20tabagique)
@@ -477,7 +476,8 @@ accTitle: Prise en charge de l'arrêt du tabac d'après HAS 2014
 
 ### Bibliographie en attente
 
-[Cho ER et al. Smoking Cessation and Short- and Longer-Term Mortality. NEJM Evid. 2024.](https://evidence.nejm.org/doi/abs/10.1056/EVIDoa2300272)
+- [Observatoire français des drogues et des tendances addictives (OFDT). Tabagisme et arrêt du tabac en 2023. 2024.](https://www.ofdt.fr/publication/2024/tabagisme-et-arret-du-tabac-en-2023-2093)
+- [Cho ER et al. Smoking Cessation and Short- and Longer-Term Mortality. NEJM Evid. 2024.](https://evidence.nejm.org/doi/abs/10.1056/EVIDoa2300272)
 
 {{%/sources%}}
 

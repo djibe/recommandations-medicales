@@ -27,7 +27,7 @@ todo = "flow"
 - Antibiothérapie par amoxicilline - clavulanique pendant 7 jours si: comorbidités (immunodépression, asplénie, diabète, alcool), érysipèle, plaie profonde ou délabrée, atteinte articulaire, près de tendon ou osseuse, main, face, suture
 - Adresser une plaie par morsure aux Urgences si: geste chirurgical ou suture envisagés, plaie grave (localisation, délabrement, animal suspect), immunothérapie antitétanique nécessaire, anti-venin
 - Tout animal mordeur doit être signalé en mairie ([annuaire](https://www.service-public.fr/particuliers/vosdroits/F24028)) par le propriétaire ou le médecin et placé sous surveillance vétérinaire pendant 15 jours
-- [Annuaire des Centres antirabiques (PDF)](https://www.pasteur.fr/fr/file/14548/download)
+- [Annuaire des Centres antirabiques (PDF)](https://www.pasteur.fr/fr/file/54964/download)
 
 Chapitre lié: [érysipèle]({{< relref "erysipele.md" >}}), [maladie des griffes du chat]({{< relref "maladie-griffes-chat.md" >}})
 
@@ -128,7 +128,7 @@ Antibiothérapie de l'enfant si indiquée (idem ci-dessus + chat ou localisation
 
 Prise en charge des morsures de chien commune aux morsures d'animaux et déterminer le statut rabique de l'animal (incubation humaine de 3 jours à 3 mois). Pour la prise en charge du chien mordeur, voir le chapitre suivant.
 
-Avis urgent du **Centre antirabique** ([annuaire](https://www.pasteur.fr/fr/file/14548/download)) si: morsure survenue dans une région endémique ou animal y ayant séjourné ([carte des pays à risque](https://apps.who.int/neglected_diseases/ntddata/rabies/rabies.html)).
+Avis urgent du **Centre antirabique** ([annuaire](https://www.pasteur.fr/fr/file/54964/download)) si: morsure survenue dans une région endémique ou animal y ayant séjourné ([carte des pays à risque](https://apps.who.int/neglected_diseases/ntddata/rabies/rabies.html)).
 
 > << L'analyse de la littérature scientifique ne permet pas d'identifier la race et/ou le type racial (et a fortiori des races en particulier) comme seul facteur (ou facteur majeur) de risque de morsure >> – *Anses 2020*
 

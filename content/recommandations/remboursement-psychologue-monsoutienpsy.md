@@ -7,7 +7,7 @@ synonyms = ["Psychothérapie remboursée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-23T13:48:59+02:00"
 publishdate = "2022-05-23"
-lastmod = "2024-06-20"
+lastmod = "2024-07-10"
 specialites = ["pediatrie", "psychiatrie", "therapeutique"]
 annees = "2024"
 sources = ["Ameli"]
@@ -22,10 +22,10 @@ todo = "échelles"
 
 {{%article-summary%}}
 
-- Des séances de psychothérapie sont remboursables à partir de 3 ans, jusqu'à 12 séances avec le système ***[Mon soutien psy](https://www.ameli.fr/medecin/exercice-liberal/prise-charge-situation-type-soin/accompagnement-psychologue-conventionne-mon-soutien-psy)*** (*ex MonPsy* puis *MonParcoursPsy*)
+- Des séances de psychothérapie sont remboursables à partir de 3 ans, jusqu'à 12 séances avec le dispositif ***[Mon soutien psy](https://www.ameli.fr/medecin/exercice-liberal/prise-charge-situation-type-soin/accompagnement-psychologue-conventionne-mon-soutien-psy)*** (*ex MonPsy* puis *MonParcoursPsy*)
 - Le patient n'a pas besoin de prescription ou de courrier pour bénéficier du dispositif *Mon soutien psy*
-- [Annuaire des psychologues remboursés (Mon soutien psy)](https://monsoutienpsy.ameli.fr/recherche-psychologue), des [CMP](https://www.santeenfrance.fr/annuaire/13-centres-medico-psychologiques-cmp-cattp) et [CMPP](https://annuaire.action-sociale.org/etablissements/jeunes-handicapes/centre-medico-psycho-pedagogique--c-m-p-p---189.html)
-- [Appli pour le suivi des symptômes psychologiques: Mon suivi psy](https://jardinmental.fabrique.social.gouv.fr/pro)
+- [Annuaire des psychologues remboursés par le dispositif Mon soutien psy](https://monsoutienpsy.ameli.fr/recherche-psychologue), des [CMP](https://www.santeenfrance.fr/annuaire/13-centres-medico-psychologiques-cmp-cattp) et [CMPP](https://annuaire.action-sociale.org/etablissements/jeunes-handicapes/centre-medico-psycho-pedagogique--c-m-p-p---189.html)
+- [Appli pour le suivi des symptômes psychologiques: Jardin Mental](https://jardinmental.fabrique.social.gouv.fr/pro)
 
 {{%/article-summary%}}
 {{%collapse "Personnes éligibles au dispositif Mon soutien psy" %}}
@@ -50,7 +50,7 @@ Les autres patients relèvent de suivi spécialisé psychiatrique, voire *CMP* (
 - Dépendance à des substances psychoactives
 - Troubles neuro-développementaux sévères (ou non chez le mineur)
 - ALD ou invalidité psychiatrique
-- Arrêt de travail de plus de 6 mois
+- Arrêt de travail de plus de 6 mois pour motif psychiatrique
 {{%/info%}}
 
 {{% /collapse %}}
@@ -60,7 +60,7 @@ Jusqu'à 12 séances de psychothérapie sont remboursables dans le cadre du parc
 
 Un courrier d'adressage pour le psychologue est encouragé pour un parcours coordonné mais n'est pas obligatoire.
 
-Le patient choisit son psychologue dans l'[annuaire conventionné](https://monsoutienpsy.ameli.fr/recherche-psychologue).
+Le patient choisit son psychologue dans l'[annuaire des psychologues conventionnés](https://monsoutienpsy.ameli.fr/recherche-psychologue).
 
 {{% /collapse %}}
 {{%collapse "Les CMP : Centres médico-psychologiques" %}}

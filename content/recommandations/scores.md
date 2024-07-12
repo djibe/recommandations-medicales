@@ -182,7 +182,7 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< traitements/vaccin-pneumocoque >}}
 
 {{% /modal %}}
-{{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}
+{{% modal title="Dermocorticoïdes disponibles" id="modal-dc" size="lg" %}}
 
 {{< traitements/dermocorticoides >}}
 

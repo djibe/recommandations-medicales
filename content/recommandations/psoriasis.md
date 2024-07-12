@@ -276,7 +276,7 @@ graph TB
 [Collège Français des Enseignants en Rhumatologie (COFER). Psoriasis. Item 117 UE 5. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-6-0.php)
 
 {{%/sources%}}
-{{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}
+{{% modal title="Dermocorticoïdes disponibles" id="modal-dc" size="lg" %}}
 
 {{< traitements/dermocorticoides >}}
 

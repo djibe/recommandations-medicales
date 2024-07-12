@@ -341,6 +341,10 @@ graph TB
 - [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Juin 2014.](https://www.sciencedirect.com/science/article/pii/S1169833014001148)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Polyarthrite rhumatoïde. Item 196 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-17-0.php)
 
+### Bibliographie en attente
+
+[Johnson SR, et al. 2023 American College of Rheumatology (ACR)/American College of Chest Physicians (CHEST) Guideline for the Screening and Monitoring of Interstitial Lung Disease in People with Systemic Autoimmune Rheumatic Diseases. Arthritis Care Res (Hoboken). 2024.](https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/acr.25347)
+
 {{%/sources%}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 
