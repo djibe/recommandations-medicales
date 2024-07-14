@@ -62,9 +62,9 @@ HUGO_ENABLEGITINFO = "false"
   [headers.values]
     Cache-Control = "public, max-age=2419200, must-revalidate, stale-while-revalidate=86400"
 
-[[edge_functions]]
-function = "block-bots"
-path = "/*"
+# [[edge_functions]]
+# function = "block-bots"
+# path = "/*"
 
 [[redirects]]
   from = "https://recommandations-medicales.netlify.app/*"
