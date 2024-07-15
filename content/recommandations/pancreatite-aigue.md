@@ -5,8 +5,8 @@ description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-07-05T11:55:10+02:00"
-publishdate = "2024-07-08"
-lastmod = "2024-07-08"
+publishdate = "2024-07-14"
+lastmod = "2024-07-14"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2024"
 sources = ["ACG"]
@@ -24,11 +24,13 @@ todo = "descr > summary > liens > photo > newsletter > flow"
 
 TODO:
 
+Chapitres liés: hypercalcémie, mésusage de l'alcool
+
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Pancréatite aiguë (PA)
-: Inflammation aiguë du pancréas causée par une agression du parenchyme hépatique et/ou par une obstruction du suc pancréatique. Elle est le plus souvent d'origine biliaire (40-70 %), alcoolique (25-35 %) voire tumorale (et par hypertriglycéridémie pendant la grossesse).
+: Inflammation aiguë du pancréas causée par une agression du parenchyme hépatique et/ou par une obstruction du suc pancréatique. Elle est le plus souvent d'origine biliaire (40-70 %), alcoolique (25-35 %, souvent sur pancréatite chronique) voire tumorale (et par hypertriglycéridémie pendant la grossesse).
 : Il s'agit d'une urgence digestive fréquente dont l'évolution est très variable, imprédictible et nécessite une observation initiale. Même avec une étiologie bien identifiée, 20 à 29 % présentent une récidive.
 : Les complications de la pancréatite aiguë sont fréquentes (20 %) et graves (nécrose pancréatique, défaillance d'organe).
 
@@ -45,10 +47,21 @@ PA
 {.dl-inline}
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+### Diagnostic différentiel de la pancréatite aiguë
+
+- Ulcère gastro-duodénal
+- [Infarctus du myocarde inférieur]({{< relref "syndrome-coronarien-aigu.md" >}})
+- Péritonite
+- Infarctus mésentérique
+- Rupture d'[anévrisme de l'aorte]({{< relref "anevrysme-aorte-abdominale.md" >}})
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 {{%info%}}
-Le diagnostic de pancréatite aiguë est posé sur la présence d'au moins 2 critères parmi (*ACG 2024*):
+Le diagnostic de pancréatite aiguë est posé sur la présence d'au moins 2 critères parmi (*Atlanta 2012*):
 
 1. Douleurs abdominales évocatrices
 2. Amylase et/ou **lipasémie > 3 LSN**
@@ -62,12 +75,15 @@ Les symptômes d'une pancréatite aiguë durent le plus souvent **quelques jours
 ### Interrogatoire
 
 - Antécédents
-- Traitements en cours
+- Traumatisme abdominal récent
+- Traitements en cours  
+  Sur smartphone, base des médicaments à risque [Pancreatox](https://www.drugsoft.com/applis.html).
 - Consommation d'alcool
 - Historique des symptômes
 - Symptômes de pancréatite aiguë
   - **Douleurs abdominales** (+90 %)  
-    Douleurs épigastriques ou de l'hypocondre droit permanentes, souvent sévères, avec irradiation dans le dos, le thorax ou les flancs.
+    Douleur **épigastrique** ou de l'hypocondre droit d'installation rapide, permanente, intense, avec irradiation transfixiante dorsale, le thorax ou les flancs et inhibition de l'inspiration. Position antalgique << en chien de fusil >>.
+  - Signes digestifs: vomissements
   - Signes généraux évocateurs de complications: fièvre
 
 > L'intensité des symptômes n'est pas corrélée au diagnostic. Une douleur sourde, coliqueuse ou des cadrans inférieurs doit faire rechercher un diagnostic différentiel.
@@ -83,13 +99,20 @@ Les symptômes d'une pancréatite aiguë durent le plus souvent **quelques jours
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+### Bilan de la pancréatite aiguë
+
+Bilan urgent:
+
 - NFS, CRP
 - Amylasémie, **lipasémie**
 - Urée, créatinine
+- Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine
 - Albuminémie, calcémie
 - Si absence de lithiase biliaire et d'alcool: bilan lipidique  
-  L'hypertriglycéridémie sera considérée responsable surtout si > 1 g/dL.
-- Échographie abdominale
+  L'hypertriglycéridémie sera considérée responsable surtout si > 10 g/L.
+- Échographie abdominale (recherche d'origine biliaire dans les 48 premières heures)
+
+Le pic de lipasémie est précoce (max à 24-48 heures) et peut redescendre sous 3N après 48 heures. Le pic n'a aucune valeur pronostique.
 
 > Ne pas redoser amylase et lipase après le diagnostic. En l'absence de douleurs abdominales, ces marqueurs ne prédisent pas la survenue d'une pancréatite.
 
@@ -99,11 +122,11 @@ Au diagnostic (patient hospitalisé), l'échographie abdominale recherche une li
 
 ### Scanner abdominal avec injection
 
-Le scanner abdominal injecté a des indications limitées au cours de la pancréatite aiguë: diagnostic incertain, évolution défavorable à 48-72 heures d'hospitalisation (20 % des cas), origine idiopathique après 40 ans (coupes fines ou IRM bilio-pancréatique).
+Le scanner abdominal injecté a des indications limitées au cours de la pancréatite aiguë (*ACG 2024*): diagnostic incertain, évolution défavorable à 48-72 heures d'hospitalisation (20 % des cas), origine idiopathique après 40 ans (coupes fines ou IRM bilio-pancréatique).
 
 Le scanner est particulièrement performant pour le diagnostic de pancréatite aiguë (Se et Spe > 90%). L'IRM est réservée aux contre-indications au scanner.
 
-TODO: Les autres examens (endoscopic retrograde cholangiopancreatography si angiocholite, MCRP/EUS  common bile duct stone is suspected,) sont spécialisés.
+TODO: Les autres examens (cholangiographie rétrograde endoscopique (CPRE) avec sphinctérotomie endoscopique, MCRP/EUS  common bile duct stone is suspected) sont spécialisés.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
@@ -117,6 +140,7 @@ TODO: Les autres examens (endoscopic retrograde cholangiopancreatography si angi
   - Pancréatite (modérément) sévère: nutrition entérale naso-gastrique
 - Si nécrose pancréatique surinfectée: antibiothérapie
 - Suivi après pancréatite
+  - Consommation d'alcool, vérification des médicaments (Pancreatox)
   - Si hypertriglycéridémie suspectée: contrôle lipidique à 1 mois
 
 Les patients présentant des récidives inexpliquées de pancréatite doivent être adressés au centre de référence des maladies pancréatiques.
@@ -135,15 +159,8 @@ La chirurgie est quasi systématique en cas de pancréatite biliaire pour rédui
 
 - {{< references/college-gastro >}}
 - [Tenner S, et al. American College of Gastroenterology Guidelines: Management of Acute Pancreatitis. Am J Gastroenterol. 2024.](https://journals.lww.com/ajg/fulltext/2024/03000/american_college_of_gastroenterology_guidelines_.14.aspx)
-
-### Bibliographie en attente
-
 - [Greenberg JA, et al. Clinical practice guideline: management of acute pancreatitis. Can J Surg. 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27007094/)
-- Prescrire
-- Cochrane
-- Minerva
-- Cismef
-- NICE Clinical guidance
+- [Banks PA, et al. Classification of acute pancreatitis--2012: revision of the Atlanta classification and definitions by international consensus. Gut. 2013.](https://gut.bmj.com/content/62/1/102.long)
 
 {{%/sources%}}
 

@@ -17,18 +17,18 @@ sctid = "87522002"
 icd10 = "D50.9"
 flowchart = true
 image = true
-imageSrc = "Illustration de l'anémie par macrovector / Freepik"
+imageSrc = "Illustration de l'anémie. macrovector / Freepik"
 todo = "La voie orale est inefficace dans les MICI (*SOURCE*), red flags NICE 23-24-184, Prescrire, risque K src 11-25-63, indication transfusion sanguine"
 +++
 
 {{%article-summary%}}
 
-- Définition de l'anémie: hémoglobine < 12 g/dL chez la femme et < 13 chez l'homme
+- Définition de l'anémie: hémoglobine inférieure à 12 g/dL chez la femme et 13 g/dL chez l'homme  
   Corriger les valeurs d'hémoglobine selon le statut tabagique et l'altitude.
-- Carence martiale = [Ferritinémie](/tags/ferritine/) < 45 ng/mL (*BSG*)
+- Carence martiale: [ferritinémie](/tags/ferritine/) inférieure à 45 ng/mL (*BSG*)
 - Bilan étiologique d'une anémie: examen gynécologique, BU/ECBU, sérologie cœliaque
-- [Fibroscopie](/tags/eogd/) et coloscopie si homme ou femme +50 ans, ménopausée/sans menstruations, [risque élevé de cancer colorectal]({{< relref "cancer-colorectal.md" >}}), sévérité inexpliquée
-- Supplémentation en fer: 50-100 mg de fer élément à jeun pendant 3 mois
+- [Fibroscopie](/tags/eogd/) et coloscopie si homme ou femme +50 ans, ménopausée/aménorrhée, [risque élevé de cancer colorectal]({{< relref "cancer-colorectal.md" >}}) ou anémie sévère inexpliquée
+- Prise en charge de l'anémie par supplémentation en fer: 50-100 mg par jour de fer élément à jeun pendant 3 mois
 - Surveillance trimestrielle de la NFS pendant 1 an
 
 {{%/article-summary%}}
