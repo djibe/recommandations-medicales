@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-10T13:36:06+02:00"
 publishdate = "2022-11-07"
-lastmod = "2023-10-25"
+lastmod = "2024-07-15"
 specialites = ["infectiologie", "urologie"]
 annees = "2021"
 sources = ["HAS", "SPILF"]
@@ -80,6 +80,9 @@ L'ECBU est réalisé avant l'antibiothérapie.
 Un ECBU de contrôle est réalisé uniquement en cas d'évolution défavorable.
 
 #### Seuils de positivité de l'ECBU
+
+> << les seuils sont donnés à titre indicatif; en cas de discordance entre un tableau clinique évident d'infection urinaire et une bactériurie ou leucocyturie inférieure au seuil, c'est le tableau clinique prime >>. – *HAS, SPILF 2024*
+{.alert .alert-info}
 
 {{< table title="Seuils de bactériurie à l'ECBU selon le germe et le sexe pour le diagnostic d'infection urinaire selon SPILF 2018" >}}
 | Bactérie                                                                                              | Seuil femme (≥ UFC/mL) | Seuil homme    |
@@ -369,6 +372,7 @@ accTitle: Prise en charge d'une pyélonéphrite en ambulatoire d'après HAS 2021
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, SPILF. Durées d'antibiothérapies préconisées dans les infections bactériennes courantes - Volet 1. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3529230/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-adulte)
 - [Williams G et al. Cranberries for preventing urinary tract infections. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001321.pub7/full/fr)
 - [HAS. Antibiogrammes ciblés pour les infections urinaires à Entérobactéries dans la population féminine adulte (à partir de 12 ans). 2023.](https://www.has-sante.fr/jcms/p_3262788/fr/antibiogrammes-cibles-pour-les-infections-urinaires-a-enterobacteries-dans-la-population-feminine-adulte-a-partir-de-12-ans)
 - [Arrêté du 31 mars 2022 portant approbation de la Convention nationale organisant les rapports entres les pharmaciens titulaires d'officine et l'assurance maladie. Journal Officiel. (PDF)](https://www.ameli.fr/sites/default/files/Documents/convention-pharmaciens-titulaires-officine_journal-officiel.pdf)

@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2024-06-27"
+lastmod = "2024-07-15"
 specialites = ["ORL", "pediatrie"]
-annees = "2023"
-sources = ["GPIP", "HAS", "SPILF"]
+annees = "2024"
+sources = ["HAS", "SPILF", "GPIP"]
 tags = ["enfant", "adolescent"]
 english = ["Tonsillitis"]
 sctid = "90176007"
@@ -27,7 +27,7 @@ flowchart = true
   - Éviction scolaire les 48 premières heures suivant l'instauration de l'antibiothérapie (*CMIT 2023*)
   - **NB.** Le CNGE ne préconise une antibiothérapie qu'en cas de scarlatine ou de symptômes intenses
   - Adulte: amoxicilline 1 g 2 fois par jour pendant 6 jours
-  - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises/j pendant 6 jours
+  - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises pendant 6 jours
   - Antibiothérapie aussi indiquée pour l'angine de Vincent, la diphtérie, le gonocoque et le [chancre syphilitique]({{< relref "syphilis.md" >}})
   - La prise en charge de l'angine pédiatrique en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
 - À partir de 10 ans, le Streptatest et la délivrance d'antibiotique peuvent être réalisés directement par le pharmacien formé (*[Service-Public](https://www.service-public.fr/particuliers/actualites/A17229?xtor=EPR-100)*)
@@ -184,10 +184,8 @@ Antibiothérapies alternatives à partir de 15 ans:
 - Allergie vraie à la pénicilline
   - C2G céfuroxime-axétil 250 mg x 2/j pendant 4 jours
   - ou C3G céfpodoxime 100 mg x 2/j pendant 5 jours
-  - ou C3G céfotiam-hexétil 200 mg x 2/j pendant 5 jours
-- Contre-indication aux bêtalactamines
-  - macrolide azithromycine 500 mg 1 prise quotidienne pendant 3 jours  
-  - ou clarithromycine 250 mg x 2/j pendant 5 jours
+- Contre-indication aux bêtalactamines  
+  - Macrolide clarithromycine 250 mg x 2/j pendant 5 jours
 
 #### Antibiothérapie de l'angine chez l'enfant
 
@@ -196,8 +194,9 @@ Amoxicilline 50 mg/kg/j en 2 prises pendant 6 jours (max 2 g/j)
 
 Antibiothérapies alternatives avant 15 ans:
 
-- Allergie vraie à la pénicilline: C3G céfpodoxime 8 mg/kg/j en 2 prises (max 400 mg/j) pendant 5 jours
-- Contre-indication aux bêtalactamines: macrolide clarithromycine 30 mg/kg/j (max 500 mg/j) en 2 prises pendant 5 jours
+- Allergie vraie à la pénicilline: C3G céfpodoxime 8 mg/kg/j en 2 prises (max 200 mg/j, 400 selon *GPIP*) pendant 5 jours
+- Contre-indication aux bêtalactamines: macrolide clarithromycine 15 mg/kg/j (max 1 g/j) en 2 prises pendant 5 jours  
+  30 mg/kg/j (max 500 mg/j) en 2 prises pendant 5 jours selon *GPIP*.
 
 {{%warning%}}
 
@@ -265,13 +264,12 @@ graph TB
 
 {{< youtube id="NtXLF4DnCYY" title="Infections à Streptocoque du groupe A (CRAtb Pays de la Loire)" >}}
 
+- [HAS, SPILF. Durées d'antibiothérapies préconisées dans les infections bactériennes courantes - Volet 1. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3529230/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-adulte)
 - [Cohen R et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471)
 - [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)
 - [GPIP, SFP, AFPA, SPILF. Conduite à tenir autour d'un cas d'infection invasive à Streptocoque du Groupe A. 2022. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/communiques/conduite-a-tenir-cas-contact-infections-invasives-a-sgadef.pdf)
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
 - [Cohen J, Cohen R; SFP. Angine. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
-- [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'enfant. 2021.](https://www.has-sante.fr/jcms/c_2722754/fr/choix-et-duree-de-l-antibiotherapie-rhinopharyngite-aigue-et-angine-aigue-de-l-enfant)
-- [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'adulte. 2021.](https://www.has-sante.fr/jcms/c_2722790/fr/choix-et-duree-de-l-antibiotherapie-rhinopharyngite-aigue-et-angine-aigue-de-l-adulte)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Angines. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/angines)
 - {{< references/spilf-2020 >}}
 - [Lescanne E et al. Amygdalectomie de l'enfant Actualisation 2020 de la recommandation SFORL & CFC. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2021/11/Recommandation-SFORL-Amygdalectomie_2021.pdf)

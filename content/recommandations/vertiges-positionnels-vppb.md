@@ -228,7 +228,9 @@ graph TB
 
 {{< youtube id="1obEgiJj-IA" title="Manœuvre de Dix et Hallpike (ORL INFORMATION)" >}}
 
-{{< youtube id="iIQrWzeVX2Y" title="Manœuvre de Epley (ORL INFORMATION)" >}}
+{{< youtube id="iIQrWzeVX2Y" title="Manœuvre d'Epley (ORL INFORMATION)" >}}
+
+[Vidéo pédagogique de la manœuvre d'Epley](https://x.com/Dr_Agibus/status/1812842408897400908)
 
 {{< youtube id="6hkOuBKGJkI" title="Manœuvre de Semont (JAMA Network)" >}}
 
