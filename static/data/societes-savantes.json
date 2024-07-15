@@ -20,7 +20,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.addictologie.org/documents/recommandations/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/FFAddictologie"
+      "Social": "https://x.com/FFAddictologie"
     },
     {
       "Organisation": "Alliance contre le tabac",
@@ -31,7 +31,7 @@
       "RSS": "https://alliancecontreletabac.org/feed/",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/FranceSANStabac"
+      "Social": "https://x.com/FranceSANStabac"
     },
     {
       "Organisation": "Société Française d'Alcoologie",
@@ -42,7 +42,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://sfalcoologie.fr/recommandations-sfa/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/SFAlcoologie"
+      "Social": "https://x.com/SFAlcoologie"
     },
     {
       "Organisation": "Alcoologie Addictologie",
@@ -51,7 +51,7 @@
       "Type": "revue",
       "Actualités": "No",
       "RSS": "No",
-      "Publications ouvertes": "http://alcoologie-et-addictologie.fr/index.php/aa/issue/archive",
+      "Publications ouvertes": "No",
       "Publications RSS": "No",
       "Social": "No"
     },
@@ -64,7 +64,7 @@
       "RSS": "https://cnct.fr/feed/?post_type=actualites",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/le_cnct"
+      "Social": "https://x.com/le_cnct"
     },
     {
       "Organisation": "Association Nationale de Prévention en Alcoologie et Addictologie",
@@ -75,7 +75,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.anpaa.asso.fr/sinformer/collection-reperes-pour-les-professionnels",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/anpaa_asso"
+      "Social": "https://x.com/anpaa_asso"
     },
     {
       "Organisation": "Société Française d'Allergologie",
@@ -97,18 +97,18 @@
       "RSS": "https://asthme-allergies.org/feed/",
       "Publications ouvertes": "https://asthme-allergies.org/professionnels-de-sante/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/asthmeallergies"
+      "Social": "https://x.com/asthmeallergies"
     },
     {
       "Organisation": "Société Française d'Étude et de Traitement de la Douleur",
       "Abréviation": "SFETD",
       "Spécialité": "algologie",
       "Type": "societe savante",
-      "Actualités": "https://www.sfetd-douleur.org/actualites/",
+      "Actualités": "https://www.sfetd-douleur.org/actualites-2/",
       "RSS": "https://www.sfetd-douleur.org/feed/",
       "Publications ouvertes": "https://www.sfetd-douleur.org/recos-et-referentiels/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/sfetd_douleur"
+      "Social": "https://x.com/sfetd_douleur"
     },
     {
       "Organisation": "Société française de Dermatologie",
@@ -119,7 +119,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.sfdermato.org/page-24-recommandations",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/SFDermatologie"
+      "Social": "https://x.com/SFDermatologie"
     },
     {
       "Organisation": "Société Française de Dermatologie Pédiatrique",
@@ -130,7 +130,7 @@
       "RSS": "No",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/SDermatopedia"
+      "Social": "https://x.com/SDermatopedia"
     },
     {
       "Organisation": "European academy of dermatology venerology",
@@ -141,7 +141,7 @@
       "RSS": "https://eadv.org/feed/",
       "Publications ouvertes": "https://eadv.org/publications/clinical-guidelines/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/eadv"
+      "Social": "https://x.com/eadv"
     },
     {
       "Organisation": "European Association of Dermato-Oncology",
@@ -163,7 +163,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://guidelines.edf.one//edf-guidelines-and-consensus-statements",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/EDFDermatology"
+      "Social": "https://x.com/EDFDermatology"
     },
     {
       "Organisation": "Société Francophone du Diabète",
@@ -174,7 +174,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.sfdiabete.org/recommandations/referentiels",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/sfdiabete"
+      "Social": "https://x.com/sfdiabete"
     },
     {
       "Organisation": "European Society of Endocrinology",
@@ -185,7 +185,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.ese-hormones.org/publications/guidelines/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/esendocrinology"
+      "Social": "https://x.com/esendocrinology"
     },
     {
       "Organisation": "European Association for the Study of Diabetes",
@@ -196,7 +196,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.easd.org/guidelines/statements-and-guidelines.html",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/EASDnews"
+      "Social": "https://x.com/EASDnews"
     },
     {
       "Organisation": "Diabetologia",
@@ -207,7 +207,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://link.springer.com/journal/125/volumes-and-issues",
       "Publications RSS": "https://diabetologia-journal.org/feed/",
-      "Social": "https://twitter.com/DiabetologiaJnl"
+      "Social": "https://x.com/DiabetologiaJnl"
     },
     {
       "Organisation": "Société Française d'Endocrinologie",
@@ -218,7 +218,7 @@
       "RSS": "https://www.sfendocrino.org//feed",
       "Publications ouvertes": "https://www.sfendocrino.org/recommandations-et-consensus/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/sfendocrino"
+      "Social": "https://x.com/sfendocrino"
     },
     {
       "Organisation": "Fédération Française des Diabétiques",
@@ -229,7 +229,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.federationdesdiabetiques.org/federation/positions",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/FederationAFD"
+      "Social": "https://x.com/FederationAFD"
     },
     {
       "Organisation": "Aide aux Jeunes Diabétiques",
@@ -240,7 +240,7 @@
       "RSS": "https://www.ajd-diabete.fr/feed/",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/AJDdiabete"
+      "Social": "https://x.com/AJDdiabete"
     },
     {
       "Organisation": "American Diabetes Association",
@@ -251,7 +251,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://care.diabetesjournals.org/content/current",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ADA_DiabetesPro"
+      "Social": "https://x.com/ADA_DiabetesPro"
     },
     {
       "Organisation": "Association française d'Étude et de Recherche sur l'Obésité",
@@ -262,7 +262,7 @@
       "RSS": "No",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/afero_obesite"
+      "Social": "https://x.com/afero_obesite"
     },
     {
       "Organisation": "European Thyroid Association",
@@ -273,7 +273,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.eurothyroid.com/guidelines/eta_guidelines.html",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ETA_Thyroid"
+      "Social": "https://x.com/ETA_Thyroid"
     },
     {
       "Organisation": "Association Francophone de Chirurgie Endocrinienne",
@@ -295,7 +295,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://easo.org/education/guidelines/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/easoobesity"
+      "Social": "https://x.com/easoobesity"
     },
     {
       "Organisation": "Société Française de Nutrition",
@@ -306,7 +306,7 @@
       "RSS": "https://sf-nutrition.fr/feed/",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/SFNutrition_Fr"
+      "Social": "https://x.com/SFNutrition_Fr"
     },
     {
       "Organisation": "Société Francophone Nutrition Clinique et Métabolisme",
@@ -317,7 +317,7 @@
       "RSS": "https://www.sfncm.org/?format=feed&type=rss",
       "Publications ouvertes": "https://www.sfncm.org/outils-education/recommandations/referentiels",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/nut_clinique"
+      "Social": "https://x.com/nut_clinique"
     },
     {
       "Organisation": "European Society for Clinical Nutrition and Metabolism",
@@ -336,10 +336,10 @@
       "Spécialité": "cardiologie",
       "Type": "societe savante",
       "Actualités": "https://sfcardio.fr/actualites",
-      "RSS": "http://fetchrss.com/rss/65129457ad204218e8715705651296643125ef1a406cf372.xml",
+      "RSS": "No",
       "Publications ouvertes": "https://sfcardio.fr/nos-publications",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/sfcardio"
+      "Social": "https://x.com/sfcardio"
     },
     {
       "Organisation": "Société Française d'Hypertension Artérielle",
@@ -348,9 +348,9 @@
       "Type": "societe savante",
       "Actualités": "https://www.sfhta.eu/les-incontournables/",
       "RSS": "https://www.sfhta.eu/feed/",
-      "Publications ouvertes": "https://www.sfhta.eu/hta-en-france/recommandations/recommandations-de-la-sfhta/",
+      "Publications ouvertes": "https://www.sfhta.eu/recommandations-de-la-sfhta/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/sfhta"
+      "Social": "https://x.com/sfhta"
     },
     {
       "Organisation": "Collège National des Cardiologues Français",
@@ -361,7 +361,7 @@
       "RSS": "No",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/CNCFCardio"
+      "Social": "https://x.com/CNCFCardio"
     },
     {
       "Organisation": "European Society of Cardiology",
@@ -372,7 +372,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/escardio"
+      "Social": "https://x.com/escardio"
     },
     {
       "Organisation": "American Heart Association",
@@ -381,9 +381,9 @@
       "Type": "societe savante",
       "Actualités": "https://www.heart.org/en/news",
       "RSS": "No",
-      "Publications ouvertes": "https://professional.heart.org/professional/GuidelinesStatements/UCM_492626_Guidelines-Statements-Search-Page.jsp",
+      "Publications ouvertes": "https://professional.heart.org/en/guidelines-statements",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/American_Heart"
+      "Social": "https://x.com/American_Heart"
     },
     {
       "Organisation": "American College of Cardiology",
@@ -394,7 +394,7 @@
       "RSS": "https://www.acc.org/Feed/LatestCardiology?topicID=8d7f3960-0beb-4a23-b87d-661262d0bb4f",
       "Publications ouvertes": "https://www.acc.org/education-and-meetings/products-and-resources/guideline-education",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/accintouch"
+      "Social": "https://x.com/accintouch"
     },
     {
       "Organisation": "International Society of Hypertension",
@@ -405,7 +405,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://ish-world.com/ish-global-hypertension-practice-guidelines/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ishbp"
+      "Social": "https://x.com/ishbp"
     },
     {
       "Organisation": "Société Française Neuro-Vasculaire",
@@ -416,7 +416,7 @@
       "RSS": "https://www.societe-francaise-neurovasculaire.fr/blog-feed.xml",
       "Publications ouvertes": "https://www.societe-francaise-neurovasculaire.fr/preconisations-sfnv",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/la_SFNV"
+      "Social": "https://x.com/la_SFNV"
     },
     {
       "Organisation": "European Heart Journal",
@@ -427,7 +427,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://academic.oup.com/eurheartj/issue",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ESC_journals"
+      "Social": "https://x.com/ESC_journals"
     },
     {
       "Organisation": "Nouvelle Société Francophone d'Athérosclérose",
@@ -449,7 +449,7 @@
       "RSS": "https://eso-stroke.org/feed/",
       "Publications ouvertes": "",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ESOstroke"
+      "Social": "https://x.com/ESOstroke"
     },
     {
       "Organisation": "Société Française de Médecine Vasculaire",
@@ -460,7 +460,7 @@
       "RSS": "https://www.portailvasculaire.fr/espace-sfmv/news-rss",
       "Publications ouvertes": "https://www.portailvasculaire.fr/documents/recommandations-et-standards-de-qualite",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/lasfmv"
+      "Social": "https://x.com/lasfmv"
     },
     {
       "Organisation": "Société Française d'hématologie",
@@ -471,7 +471,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://sfh.hematologie.net/professionnel/referentiels",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/sfhemato"
+      "Social": "https://x.com/sfhemato"
     },
     {
       "Organisation": "Groupe Français d'études sur l'Hémostase et la Thrombose",
@@ -479,10 +479,10 @@
       "Spécialité": "hematologie",
       "Type": "societe savante",
       "Actualités": "https://site.geht.org/actualites/",
-      "RSS": "https://site.geht.org/actualites/feed/",
+      "RSS": "No",
       "Publications ouvertes": "https://site.geht.org/docutheque/",
       "Publications RSS": "https://site.geht.org/docutheque/feed/",
-      "Social": "https://twitter.com/GFHT_Hemostase"
+      "Social": "https://x.com/GFHT_Hemostase"
     },
     {
       "Organisation": "Société Nationale Française de Gastro-Entérologie",
@@ -504,7 +504,7 @@
       "RSS": "https://afef.asso.fr/feed/",
       "Publications ouvertes": "https://afef.asso.fr/recommandations/recommandations-afef/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/AFEFoie"
+      "Social": "https://x.com/AFEFoie"
     },
     {
       "Organisation": "Société Française d'Endoscopie Digestive",
@@ -515,7 +515,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.sfed.org/recommandations-recherche",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/sfed_endoscopie"
+      "Social": "https://x.com/sfed_endoscopie"
     },
     {
       "Organisation": "European Society of Gastrointestinal Endoscopy",
@@ -526,7 +526,7 @@
       "RSS": "https://www.esge.com/feed/",
       "Publications ouvertes": "https://www.esge.com/publications/guidelines/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ESGE_news"
+      "Social": "https://x.com/ESGE_news"
     },
     {
       "Organisation": "Groupe d'Études Français des Helicobacter",
@@ -581,7 +581,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.pasteur.fr/fr/dossiers-jdr",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/institutpasteur"
+      "Social": "https://x.com/institutpasteur"
     },
     {
       "Organisation": "Société de Pathologie Infectieuse de Langue Française",
@@ -592,7 +592,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.infectiologie.com/fr/recommandations.html",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/spilf_"
+      "Social": "https://x.com/spilf_"
     },
     {
       "Organisation": "Société Française de Parasitologie",
@@ -603,7 +603,7 @@
       "RSS": "https://sfparasitologie.com//feed",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/SFParasitologie"
+      "Social": "https://x.com/SFParasitologie"
     },
     {
       "Organisation": "Société de Médecine des Voyages",
@@ -634,9 +634,9 @@
       "Type": "societe savante",
       "Actualités": "http://sfls.aei.fr/actualites/dernieres-actus/",
       "RSS": "No",
-      "Publications ouvertes": "http://sfls.aei.fr/actualites/dernieres-actus/?cat=Recommandations",
+      "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/sfls_vih"
+      "Social": "https://x.com/sfls_vih"
     },
     {
       "Organisation": "Société Française de Mycologie Médicale",
@@ -647,7 +647,7 @@
       "RSS": "https://sfmm-mycologie-medicale.com//feed",
       "Publications ouvertes": "https://sfmm-mycologie-medicale.com/ouvrages-collectifs-referentiels/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/sfmm_myco"
+      "Social": "https://x.com/sfmm_myco"
     },
     {
       "Organisation": "British Association for Sexual Health and HIV",
@@ -658,7 +658,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.bashh.org/guidelines",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/BASHH_UK"
+      "Social": "https://x.com/BASHH_UK"
     },
     {
       "Organisation": "Institut National du Cancer",
@@ -669,7 +669,7 @@
       "RSS": "https://www.e-cancer.fr/rss/feed/actualites",
       "Publications ouvertes": "https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications",
       "Publications RSS": "https://www.e-cancer.fr/rss/feed/cataloguedespublicationsINCa",
-      "Social": "https://twitter.com/Institut_cancer"
+      "Social": "https://x.com/Institut_cancer"
     },
     {
       "Organisation": "Fédération Francophone de Cancérologie Digestive",
@@ -680,7 +680,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.ffcd.fr/index.php/documentation/publications",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ffcd_cancerdig"
+      "Social": "https://x.com/ffcd_cancerdig"
     },
     {
       "Organisation": "Société Française du Cancer",
@@ -691,7 +691,7 @@
       "RSS": "https://sfc.asso.fr/feed/",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/SFCancer75/"
+      "Social": "https://x.com/SFCancer75/"
     },
     {
       "Organisation": "Le Bulletin du Cancer",
@@ -713,7 +713,7 @@
       "RSS": "https://www.sfcp-cancer.com/feed",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/SFCPoCANCER"
+      "Social": "https://x.com/SFCPoCANCER"
     },
     {
       "Organisation": "Société Française de Radiothérapie Oncologique",
@@ -724,7 +724,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.sfro.fr/ressources/livrets-sfro",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/sfro_fr"
+      "Social": "https://x.com/sfro_fr"
     },
     {
       "Organisation": "European Association for Cancer Research",
@@ -735,7 +735,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.eacr.org/login.php?referrer=%2Fmembers%2Findex.php",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/EACRnews"
+      "Social": "https://x.com/EACRnews"
     },
     {
       "Organisation": "European Society for Medical Oncology",
@@ -746,7 +746,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.esmo.org/guidelines",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/myESMO"
+      "Social": "https://x.com/myESMO"
     },
     {
       "Organisation": "American Society of Clinical Oncology",
@@ -755,9 +755,9 @@
       "Type": "societe savante",
       "Actualités": "No",
       "RSS": "No",
-      "Publications ouvertes": "https://www.asco.org/research-guidelines/quality-guidelines/guidelines",
+      "Publications ouvertes": "https://aacrjournals.org/pages/hot-topics",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ASCO"
+      "Social": "https://x.com/ASCO"
     },
     {
       "Organisation": "American Association for Cancer Research",
@@ -768,7 +768,7 @@
       "RSS": "https://www.aacr.org/feed/rss/",
       "Publications ouvertes": "https://aacrjournals.org",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/AACR"
+      "Social": "https://x.com/AACR"
     },
     {
       "Organisation": "European Cancer Organisation",
@@ -779,7 +779,7 @@
       "RSS": "No",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/EuropeanCancer"
+      "Social": "https://x.com/EuropeanCancer"
     },
     {
       "Organisation": "Agence de la Biomédecine",
@@ -790,7 +790,7 @@
       "RSS": "https://www.agence-biomedecine.fr/./?page=backend",
       "Publications ouvertes": "https://www.agence-biomedecine.fr/Rapports-publies-par-l-Agence",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ag_biomedecine"
+      "Social": "https://x.com/ag_biomedecine"
     },
     {
       "Organisation": "Conseil National de l'Ordre des Médecins",
@@ -801,7 +801,7 @@
       "RSS": "https://www.conseil-national.medecin.fr/rss.xml",
       "Publications ouvertes": "https://www.conseil-national.medecin.fr/medecin",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ordre_medecins"
+      "Social": "https://x.com/ordre_medecins"
     },
     {
       "Organisation": "Académie Nationale de Médecine",
@@ -812,7 +812,7 @@
       "RSS": "https://www.academie-medecine.fr/category/travaux-et-publications/actualites/feed/",
       "Publications ouvertes": "https://www.academie-medecine.fr/category/travaux-et-publications/position/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/acadmed"
+      "Social": "https://x.com/acadmed"
     },
     {
       "Organisation": "Inspection Générale des Affaires Sociales",
@@ -820,8 +820,8 @@
       "Spécialité": "medecine",
       "Type": "officiel",
       "Actualités": "https://www.igas.gouv.fr",
-      "RSS": "https://www.igas.gouv.fr/spip.php?page=backend",
-      "Publications ouvertes": "https://www.igas.gouv.fr/-Sante-.html",
+      "RSS": "No",
+      "Publications ouvertes": "https://igas.gouv.fr/nos-rapports/sante",
       "Publications RSS": "No",
       "Social": "No"
     },
@@ -830,7 +830,7 @@
       "Abréviation": "DGS",
       "Spécialité": "médecine",
       "Type": "officiel",
-      "Actualités": "https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/listeMessageBuilder.do?cmd=afficherListe",
+      "Actualités": "https://sante.gouv.fr/professionnels/article/dgs-urgent",
       "RSS": "No",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
@@ -845,7 +845,7 @@
       "RSS": "https://www.sante.gouv.fr/spip.php?page=backend",
       "Publications ouvertes": "https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/publications/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/MinSoliSante"
+      "Social": "https://x.com/MinSoliSante"
     },
     {
       "Organisation": "Haute Autorité de Santé",
@@ -856,7 +856,7 @@
       "RSS": "https://www.has-sante.fr/feed/Rss2.jsp?id=p_3081656",
       "Publications ouvertes": "https://www.has-sante.fr/jcms/fc_2875208/fr/rechercher-une-recommandation-un-avis",
       "Publications RSS": "https://www.has-sante.fr/feed/Rss2.jsp?id=p_3081452",
-      "Social": "https://twitter.com/HAS_sante"
+      "Social": "https://x.com/HAS_sante"
     },
     {
       "Organisation": "Haut Conseil de la Santé Publique",
@@ -867,7 +867,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.hcsp.fr/Explore.cgi/AvisRapports",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/hcsp_fr"
+      "Social": "https://x.com/hcsp_fr"
     },
     {
       "Organisation": "Institut national de la santé et de la recherche médicale",
@@ -878,7 +878,7 @@
       "RSS": "https://www.inserm.fr/rss/feed/actualites-recherche",
       "Publications ouvertes": "https://www.inserm.fr/information-en-sante/rapports-thematiques",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/Inserm"
+      "Social": "https://x.com/Inserm"
     },
     {
       "Organisation": "Assistance Publique des Hôpitaux de Paris",
@@ -889,7 +889,7 @@
       "RSS": "No",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/APHP"
+      "Social": "https://x.com/APHP"
     },
     {
       "Organisation": "Agence Nationale de Sécurité du Médicament et des produits de santé",
@@ -900,7 +900,7 @@
       "RSS": "http://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fansm.sante.fr%2F&in_id_or_class=list&url_contains=",
       "Publications ouvertes": "https://ansm.sante.fr/documents/reference/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ansm"
+      "Social": "https://x.com/ansm"
     },
     {
       "Organisation": "Office National d'Indemnisation des victimes d'Accidents Médicaux",
@@ -922,7 +922,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.ameli.fr/assure/sante/themes/a",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ameli_actu"
+      "Social": "https://x.com/ameli_actu"
     },
     {
       "Organisation": "Assurance Maladie pour les médecins",
@@ -966,7 +966,7 @@
       "RSS": "No",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/RevMedInterne"
+      "Social": "https://x.com/RevMedInterne"
     },
     {
       "Organisation": "Collège National des Gynécologues et Obstétriciens Français",
@@ -977,7 +977,7 @@
       "RSS": "https://cngof.fr//feed",
       "Publications ouvertes": "https://cngof.fr/rpc/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/leCNGOF"
+      "Social": "https://x.com/leCNGOF"
     },
     {
       "Organisation": "Société Française de Gynécologie",
@@ -999,7 +999,7 @@
       "RSS": "https://www.scgp-asso.fr/feed/",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/scgp_officiel"
+      "Social": "https://x.com/scgp_officiel"
     },
     {
       "Organisation": "Société Française d'Oncologie Gynécologique",
@@ -1043,7 +1043,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.acog.org/-/media/project/acog/acogorg/clinical/list-of-titles/combined-list-of-titles.pdf",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/acog"
+      "Social": "https://x.com/acog"
     },
     {
       "Organisation": "European Society of Gynecology",
@@ -1065,7 +1065,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.societe-colposcopie.com/professionnels-de-sante/recommandations",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/sfcpcv"
+      "Social": "https://x.com/sfcpcv"
     },
     {
       "Organisation": "World Federation of Neurology",
@@ -1076,18 +1076,18 @@
       "RSS": "https://wfneurology.org/wfn-news?method_call=showRSS",
       "Publications ouvertes": "https://wfneurology.org/publications",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/wfneurology"
+      "Social": "https://x.com/wfneurology"
     },
     {
       "Organisation": "American Academy of Neurology",
       "Abréviation": "AAN",
       "Spécialité": "neurologie",
       "Type": "societe savante",
-      "Actualités": "https://www.aan.com",
+      "Actualités": "https://www.aan.com/",
       "RSS": "No",
-      "Publications ouvertes": "https://www.aan.com/Guidelines/Home/ByStatusOrType?status=affirmed",
+      "Publications ouvertes": "https://www.aan.com/practice/guidelines",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/AANMember"
+      "Social": "https://x.com/AANMember"
     },
     {
       "Organisation": "European Academy of Neurology",
@@ -1098,7 +1098,7 @@
       "RSS": "https://www.eanpages.org/feed/",
       "Publications ouvertes": "https://www.eanpages.org/category/academic_scientific/scientific_panels_report/",
       "Publications RSS": "no",
-      "Social": "https://twitter.com/EANeurology"
+      "Social": "https://x.com/EANeurology"
     },
     {
       "Organisation": "Société Française de Neurologie",
@@ -1142,7 +1142,7 @@
       "RSS": "No",
       "Publications ouvertes": "http://www.ihs-headache.org/ichd-guidelines",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ihs_official"
+      "Social": "https://x.com/ihs_official"
     },
     {
       "Organisation": "Société Française d'Études des Migraines et Céphalées",
@@ -1164,7 +1164,7 @@
       "RSS": "No",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/infos_sfnc"
+      "Social": "https://x.com/infos_sfnc"
     },
     {
       "Organisation": "Société Française de Neuroradiologie",
@@ -1175,7 +1175,7 @@
       "RSS": "No",
       "Publications ouvertes": "http://mediatheque.sfnr.net/mediatheque/media.aspx?channel=14729",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/SFNRadio"
+      "Social": "https://x.com/SFNRadio"
     },
     {
       "Organisation": "Société Française de Médecine Nucléaire et imagerie moléculaire",
@@ -1186,7 +1186,7 @@
       "RSS": "https://www.cnp-mn.fr/feed/",
       "Publications ouvertes": "https://www.cnp-mn.fr/recommandations-de-bonnes-pratique-et-guides-has/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/undsgndotcom"
+      "Social": "https://x.com/undsgndotcom"
     },
     {
       "Organisation": "Société Française d'ORL et de chirurgie de la face et du cou",
@@ -1197,7 +1197,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.sforl.org/production-scientifique/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/twittorl"
+      "Social": "https://x.com/twittorl"
     },
     {
       "Organisation": "Collège Français des enseignants Oto-Rhino-Laryngologie et Chirurgie Cervico-Faciale",
@@ -1208,7 +1208,7 @@
       "RSS": "https://campusorl.fr/feed/",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/OrlCcf"
+      "Social": "https://x.com/OrlCcf"
     },
     {
       "Organisation": "American Urological Association",
@@ -1219,7 +1219,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.auanet.org/guidelines",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/AmerUrological"
+      "Social": "https://x.com/AmerUrological"
     },
     {
       "Organisation": "European Association of Urology",
@@ -1230,7 +1230,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://uroweb.org/guidelines/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/Uroweb"
+      "Social": "https://x.com/Uroweb"
     },
     {
       "Organisation": "Association Française d'Urologie",
@@ -1241,7 +1241,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.urofrance.org/outils-et-recommandations/recommandations/recommandations-afu/classees-par-annee.html",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/afurologie"
+      "Social": "https://x.com/afurologie"
     },
     {
       "Organisation": "Société d'Andrologie de Langue Française",
@@ -1263,7 +1263,7 @@
       "RSS": "No",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/afufuro"
+      "Social": "https://x.com/afufuro"
     },
     {
       "Organisation": "Société Francophone de Néphrologie Dialyse et Transplantation",
@@ -1274,7 +1274,7 @@
       "RSS": "https://www.sfndt.org/actualites/feed",
       "Publications ouvertes": "https://www.sfndt.org/professionnels/recommandations",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/com_SFNDT"
+      "Social": "https://x.com/com_SFNDT"
     },
     {
       "Organisation": "International Society for Peritoneal Dialysis",
@@ -1285,7 +1285,7 @@
       "RSS": "https://ispd.org/feed/",
       "Publications ouvertes": "https://ispd.org/guidelines/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/pdiconnect"
+      "Social": "https://x.com/pdiconnect"
     },
     {
       "Organisation": "European Renal Association - European Dialysis and Transplant Association",
@@ -1296,7 +1296,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.era-online.org/publications/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ERAkidney/"
+      "Social": "https://x.com/ERAkidney/"
     },
     {
       "Organisation": "Kidney Disease Improving Global Outcomes",
@@ -1307,7 +1307,7 @@
       "RSS": "https://kdigo.org/category/news//feed",
       "Publications ouvertes": "https://kdigo.org/guidelines/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/gokdigo"
+      "Social": "https://x.com/gokdigo"
     },
     {
       "Organisation": "Société Française d'Ophtalmologie",
@@ -1325,11 +1325,11 @@
       "Abréviation": "SOFCOT",
       "Spécialité": "orthopedie",
       "Type": "societe savante",
-      "Actualités": "http://www.sofcot.fr/CNP-COT/Actualites",
+      "Actualités": "https://www.sofcot.fr/actualites",
       "RSS": "No",
-      "Publications ouvertes": "https://sofcot.net/docuSofcot/",
+      "Publications ouvertes": "https://www.sofcot.fr/mediatheque/recherche-avancee",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/sofcot_ortho"
+      "Social": "https://x.com/sofcot_ortho"
     },
     {
       "Organisation": "Société Française et Francophone des Plaies et Cicatrisations",
@@ -1351,7 +1351,7 @@
       "RSS": "https://sfgg.org/actualites//feed",
       "Publications ouvertes": "https://sfgg.org/recommandations/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/lasfgg"
+      "Social": "https://x.com/lasfgg"
     },
     {
       "Organisation": "Société Française de Pédiatrie",
@@ -1373,7 +1373,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://afpa.org/nos-outils/recommandations/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/pediatresafpa"
+      "Social": "https://x.com/pediatresafpa"
     },
     {
       "Organisation": "Société Française de Neurologie Pédiatrique",
@@ -1391,11 +1391,11 @@
       "Abréviation": "SFNéonatalogie",
       "Spécialité": "pediatrie",
       "Type": "societe savante",
-      "Actualités": "https://www.societe-francaise-neonatalogie.fr/alertes-et-avis-tous",
+      "Actualités": "https://www.societe-francaise-neonatalogie.com/alertes-et-avis",
       "RSS": "No",
-      "Publications ouvertes": "https://www.societe-francaise-neonatalogie.fr/recommandations",
+      "Publications ouvertes": "https://www.societe-francaise-neonatalogie.com/recommandations",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/SFneonatalogie"
+      "Social": "https://x.com/SFneonatalogie"
     },
     {
       "Organisation": "Société de Pneumologie de Langue Française",
@@ -1428,7 +1428,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.ers-education.org/guidelines/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ERSpublications"
+      "Social": "https://x.com/ERSpublications"
     },
     {
       "Organisation": "American Thoracic Society",
@@ -1439,7 +1439,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.thoracic.org/statements/index.php",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/atscommunity"
+      "Social": "https://x.com/atscommunity"
     },
     {
       "Organisation": "Société Pédiatrique de Pneumologie et Allergologie",
@@ -1461,7 +1461,7 @@
       "RSS": "https://ginasthma.org/feed/",
       "Publications ouvertes": "https://ginasthma.org/gina-reports/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ginasthma"
+      "Social": "https://x.com/ginasthma"
     },
     {
       "Organisation": "Global Initiative For Chronic Obstructive Lung Disease",
@@ -1472,7 +1472,7 @@
       "RSS": "https://goldcopd.org/feed/",
       "Publications ouvertes": "https://goldcopd.org/2023-gold-report-2/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/GOLD_COPD"
+      "Social": "https://x.com/GOLD_COPD"
     },
     {
       "Organisation": "European Psychiatric Association",
@@ -1494,7 +1494,7 @@
       "RSS": "https://fedepsychiatrie.fr/feed/",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/FPsychiatrie"
+      "Social": "https://x.com/FPsychiatrie"
     },
     {
       "Organisation": "Société Française de Psychiatrie de l'Enfant et de l'Adolescent et Disciplines Associées",
@@ -1538,7 +1538,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.eular.org/recommendations-management",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/eular_org"
+      "Social": "https://x.com/eular_org"
     },
     {
       "Organisation": "American College of Rheumatology",
@@ -1549,7 +1549,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ACRheum"
+      "Social": "https://x.com/ACRheum"
     },
     {
       "Organisation": "Groupe de Recherche et d'Information sur les Ostéoporoses",
@@ -1560,7 +1560,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.grio.org/membres/avis-du-grio.php",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/GrioOsteoporose"
+      "Social": "https://x.com/GrioOsteoporose"
     },
     {
       "Organisation": "International Osteoporosis Foundation",
@@ -1571,7 +1571,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.osteoporosis.foundation/health-professionals/diagnosis",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/iofbonehealth"
+      "Social": "https://x.com/iofbonehealth"
     },
     {
       "Organisation": "Association Française de Lutte Antirhumatismale",
@@ -1582,7 +1582,7 @@
       "RSS": "https://www.aflar.org/feed/",
       "Publications ouvertes": "https://www.aflar.org/category/mediatheque/doc-pro-de-sante/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/asso_aflar"
+      "Social": "https://x.com/asso_aflar"
     },
     {
       "Organisation": "Association Française de Psychiatrie Biologique et de Neuropsychopharmacologie",
@@ -1593,7 +1593,7 @@
       "RSS": "https://www.afpbn.org/feed/",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/afpbn?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      "Social": "https://x.com/afpbn?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
     },
     {
       "Organisation": "American Academy of Sleep Medicine",
@@ -1604,7 +1604,7 @@
       "RSS": "https://aasm.org/feed/",
       "Publications ouvertes": "https://aasm.org/clinical-resources/practice-standards/practice-guidelines/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/aasmorg"
+      "Social": "https://x.com/aasmorg"
     },
     {
       "Organisation": "Société Française de Recherche et Médecine du Sommeil",
@@ -1615,7 +1615,7 @@
       "RSS": "https://www.sfrms-sommeil.org/feed/",
       "Publications ouvertes": "http://www.sfrms.org",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/sfrms"
+      "Social": "https://x.com/sfrms"
     },
     {
       "Organisation": "Sleep Research Society",
@@ -1626,7 +1626,7 @@
       "RSS": "https://www.sleepresearchsociety.org/feed/",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ResearchSleep"
+      "Social": "https://x.com/ResearchSleep"
     },
     {
       "Organisation": "Société Française de Pharmacologie et de Thérapeutique",
@@ -1637,7 +1637,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://sfpt-fr.org",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/sfpt_fr"
+      "Social": "https://x.com/sfpt_fr"
     },
     {
       "Organisation": "Collège National des Généralistes Enseignants",
@@ -1648,7 +1648,7 @@
       "RSS": "No",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/cnge_france"
+      "Social": "https://x.com/cnge_france"
     },
     {
       "Organisation": "Collège de la Médecine Générale",
@@ -1659,7 +1659,7 @@
       "RSS": "https://lecmg.fr/feed/",
       "Publications ouvertes": "https://lecmg.fr/productions-du-cmg/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/lecollegemg"
+      "Social": "https://x.com/lecollegemg"
     },
     {
       "Organisation": "Société Française de Médecine Générale",
@@ -1670,7 +1670,7 @@
       "RSS": "No",
       "Publications ouvertes": "http://www.sfmg.org/publications/les_publications/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/sfmg_org"
+      "Social": "https://x.com/sfmg_org"
     },
     {
       "Organisation": "Société Française de Santé Publique",
@@ -1681,7 +1681,7 @@
       "RSS": "https://www.sfsp.fr/suivre-l-actualite/les-actualites-generales-de-la-sante-publique/les-dernieres-actualites?format=feed&type=rss",
       "Publications ouvertes": "https://www.sfsp.fr/connaitre-la-sfsp/nos-prises-de-position/nos-contributions",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/SFSPasso"
+      "Social": "https://x.com/SFSPasso"
     },
     {
       "Organisation": "Fédération Nationale d'Éducation et de promotion de la Santé",
@@ -1692,7 +1692,7 @@
       "RSS": "https://www.fnes.fr/feed",
       "Publications ouvertes": "https://www.fnes.fr/ressources-documentaires",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/Fnes_Ireps"
+      "Social": "https://x.com/Fnes_Ireps"
     },
     {
       "Organisation": "Santé Publique France",
@@ -1703,7 +1703,7 @@
       "RSS": "https://www.santepubliquefrance.fr/rss/actualites.xml?1625847935",
       "Publications ouvertes": "https://www.santepubliquefrance.fr/publications",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/santeprevention"
+      "Social": "https://x.com/santeprevention"
     },
     {
       "Organisation": "European Society of Intensive Care Medicine",
@@ -1714,7 +1714,7 @@
       "RSS": "https://www.esicm.org//feed",
       "Publications ouvertes": "https://www.esicm.org/resources/guidelines-consensus-statements/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/esicm"
+      "Social": "https://x.com/esicm"
     },
     {
       "Organisation": "Société Française d'Anesthésie et de Réanimation",
@@ -1725,7 +1725,7 @@
       "RSS": "https://sfar.org/feed/",
       "Publications ouvertes": "https://sfar.org/espace-professionel-anesthesiste-reanimateur/referentiels/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/SFAR_ORG"
+      "Social": "https://x.com/SFAR_ORG"
     },
     {
       "Organisation": "Société de Réanimation de Langue Française",
@@ -1736,7 +1736,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.srlf.org/recommandations-referentiels-epp",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/La_SRLF"
+      "Social": "https://x.com/La_SRLF"
     },
     {
       "Organisation": "Collège Français des Anesthésistes-Réanimateurs",
@@ -1769,7 +1769,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.esaic.org/guidelines/?c=published-guidelines",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ESAIC_org"
+      "Social": "https://x.com/ESAIC_org"
     },
     {
       "Organisation": "European Resuscitation Council",
@@ -1780,7 +1780,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://cprguidelines.eu/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ERC_resus"
+      "Social": "https://x.com/ERC_resus"
     },
     {
       "Organisation": "Société Française de Médecine d'Urgence",
@@ -1791,7 +1791,7 @@
       "RSS": "https://www.sfmu.org/actualites/actualites-de-la-sfmu?rss",
       "Publications ouvertes": "https://www.sfmu.org/fr/publications/recommandations-de-la-sfmu/",
       "Publications RSS": "https://www.sfmu.org/vie-professionnelle/outils-professionnels/consensus?rss&tpl=rss-concensus",
-      "Social": "https://twitter.com/SFMU_MS"
+      "Social": "https://x.com/SFMU_MS"
     },
     {
       "Organisation": "Association Française pour l'Information Scientifique",
@@ -1802,7 +1802,7 @@
       "RSS": "https://afis.org/rss.xml",
       "Publications ouvertes": "https://www.afis.org/-La-revue-Science-et-pseudo-sciences-",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/afis_science/"
+      "Social": "https://x.com/afis_science/"
     },
     {
       "Organisation": "Agence du Numérique en Santé",
@@ -1813,7 +1813,7 @@
       "RSS": "https://esante.gouv.fr/rss.xml",
       "Publications ouvertes": "https://esante.gouv.fr/profession-liberale",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/esante_gouv_fr"
+      "Social": "https://x.com/esante_gouv_fr"
     },
     {
       "Organisation": "Agence Nationale d'Appuis à la Performance",
@@ -1824,7 +1824,7 @@
       "RSS": "No",
       "Publications ouvertes": "https://www.anap.fr/s/publications-et-outils",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/anap_sante"
+      "Social": "https://x.com/anap_sante"
     },
     {
       "Organisation": "European Federation for Medical Informatics",
@@ -1835,7 +1835,7 @@
       "RSS": "https://efmi.org/category/blog/feed/",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/EFMI"
+      "Social": "https://x.com/EFMI"
     },
     {
       "Organisation": "TICSanté",
@@ -1846,7 +1846,7 @@
       "RSS": "No",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/ticsante"
+      "Social": "https://x.com/ticsante"
     },
     {
       "Organisation": "TICPharma",
@@ -1857,7 +1857,7 @@
       "RSS": "No",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/TICpharma"
+      "Social": "https://x.com/TICpharma"
     },
     {
       "Organisation": "Le blog de Buzz Médecin",
@@ -1868,7 +1868,7 @@
       "RSS": "https://comparatif-logiciels-medicaux.fr/actualite/feed",
       "Publications ouvertes": "https://comparatif-logiciels-medicaux.fr",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/mfdepange"
+      "Social": "https://x.com/mfdepange"
     },
     {
       "Organisation": "Groupement d'intérêt économique SESAM-Vitale",
@@ -1879,18 +1879,18 @@
       "RSS": "https://www.sesam-vitale.fr/web/sesam-vitale/actualites/-/blogs/rss",
       "Publications ouvertes": "https://www.sesam-vitale.fr/web/sesam-vitale/etudes-de-marche",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/GIE_SESAMVitale"
+      "Social": "https://x.com/GIE_SESAMVitale"
     },
     {
       "Organisation": "PHAST",
       "Abréviation": "PHAST",
       "Spécialité": "esante",
       "Type": "industriel",
-      "Actualités": "http://www.phast.fr/actualite/",
+      "Actualités": "https://www.phast.fr/actualites/",
       "RSS": "https://www.phast.fr/feed/",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/reseauphast"
+      "Social": "https://x.com/reseauphast"
     },
     {
       "Organisation": "Rédaction Médicale et Scientifique",
@@ -1912,7 +1912,7 @@
       "RSS": "No",
       "Publications ouvertes": "No",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/leQdM"
+      "Social": "https://x.com/leQdM"
     },
     {
       "Organisation": "Fédération des Médecins de France",
@@ -1923,7 +1923,7 @@
       "RSS": "https://www.fmfpro.org/feed/",
       "Publications ouvertes": "https://www.fmfpro.org/boite-a-outils/aide-a-la-consultation/",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/fmfofficiel"
+      "Social": "https://x.com/fmfofficiel"
     },
     {
       "Organisation": "Confédération des Syndicats Médicaux Français",
@@ -1934,7 +1934,7 @@
       "RSS": "No",
       "Publications ouvertes": "",
       "Publications RSS": "",
-      "Social": "https://twitter.com/CSMF_officiel"
+      "Social": "https://x.com/CSMF_officiel"
     },
     {
       "Organisation": "MG France",
@@ -1945,7 +1945,7 @@
       "RSS": "https://www.mgfrance.org/?format=feed&type=rss",
       "Publications ouvertes": "https://www.mgfrance.org/cabinet",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/MG_France"
+      "Social": "https://x.com/MG_France"
     },
     {
       "Organisation": "Le Syndicat des Médecins Libéraux",
@@ -1956,7 +1956,7 @@
       "RSS": "No",
       "Publications ouvertes": "http://www.lesml.org/fr/59-modeles-contrats-scm-sci-scp-etc.php",
       "Publications RSS": "No",
-      "Social": "https://twitter.com/LE_SML"
+      "Social": "https://x.com/LE_SML"
     }
   ]
 }
