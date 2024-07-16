@@ -106,7 +106,7 @@ Vaccins à réaliser avant voire après une splénectomie.
 | Germe           | Primo-vaccination            | Rappel           |
 |-----------------|------------------------------|------------------|
 | Covid-19        | Recommandations en vigueur   |                  |
-| dTPolio         | Calendrier vaccinal          | Revaxis® tous les 10 ans |
+| dTcaPolio       | Calendrier vaccinal          | Boostrix®/Repevax® tous les 10 ans |
 | Grippe          | 1 dose                       | Annuel           |
 | *H. influenzae* | ACT-HIB® dose unique         |                  |
 | Méningocoque ACWY | Menveo® (sans seringue)/Nimenrix® à M0-M6<br>ou Menquadfi® | Tous les 5 ans<br>Non connu |

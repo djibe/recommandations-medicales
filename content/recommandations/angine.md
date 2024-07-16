@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2024-07-15"
+lastmod = "2024-07-16"
 specialites = ["ORL", "pediatrie"]
 annees = "2024"
 sources = ["HAS", "SPILF", "GPIP"]
@@ -194,16 +194,15 @@ Amoxicilline 50 mg/kg/j en 2 prises pendant 6 jours (max 2 g/j)
 
 Antibiothérapies alternatives avant 15 ans:
 
-- Allergie vraie à la pénicilline: C3G céfpodoxime 8 mg/kg/j en 2 prises (max 200 mg/j, 400 selon *GPIP*) pendant 5 jours
-- Contre-indication aux bêtalactamines: macrolide clarithromycine 15 mg/kg/j (max 1 g/j) en 2 prises pendant 5 jours  
-  30 mg/kg/j (max 500 mg/j) en 2 prises pendant 5 jours selon *GPIP*.
+- Allergie vraie à la pénicilline: C3G céfpodoxime 8 mg/kg/j en 2 prises (max 400 mg/j, 200 selon *HAS/RCP*) pendant 5 jours
+- Contre-indication aux bêtalactamines: macrolide clarithromycine 30 mg/kg/j (max 500 mg/j) en 2 prises pendant 5 jours (*GPIP 2023*)  
+  15 mg/kg/j (max 1 g/j) en 2 prises pendant 5 jours selon *HAS* (qui suit les RCP).
 
 {{%warning%}}
 
 ##### Antibiothérapie de l'angine de l'enfant en situation de pénurie
 
-Amoxicilline cp 1 g dispersible: 1/2 cp (à diluer dans 10 mL d'eau) matin et soir, de 3 à 10 ans (quel que soit le poids)  
-pendant 5 jours
+Amoxicilline cp 1 g dispersible: 1/2 cp (à diluer dans 10 mL d'eau) matin et soir, de 3 à 10 ans (quel que soit le poids) pendant 5 jours
 {{%/warning%}}
 
 {{% /collapse %}}

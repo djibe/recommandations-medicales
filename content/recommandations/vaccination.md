@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2024-07-07"
+lastmod = "2024-07-16"
 specialites = ["infectiologie", "pediatrie", "therapeutique"]
 annees = "2024"
 sources = ["MinSanté", "HCSP"]
@@ -64,7 +64,7 @@ VVA
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
 |   Né après<br>le 6/2/23 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Beyfortus au mieux avant<br>la sortie de maternité                |
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 1/3, Rotarix 1/2 |
-|   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + pneumocoque +<br>DTCaP-Hib-HB selon GPIP/Infovac) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance)         |
+|   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + pneumocoque +<br>DTCaP-Hib-HB selon GPIP/Infovac) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance) |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3 |
 |   5 mois   | Méningo C<br>Méningo B                               | Neisvac<br>Bexsero                                                        |
 |  11 mois   | DTCaP-Hib-HB<br>Pneumo 13                            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance                |
@@ -74,10 +74,10 @@ VVA
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
 | 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>NR: Nimenrix, MenQuadfi ou<br>Menveo (pas d'aiguille)  |
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
-|   45 ans   | dTPolio                                              | Revaxis (arrêt 2024) > dTcaPolio                                          |
-|  +65 ans   | dTPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Zona | Revaxis<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>NR: Shingrix M0-M2 |
+|   45 ans   | dTcaPolio (dTPolio retiré)                           | BoostrixTetra, Repevax                                                    |
+|  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>NR: Shingrix M0-M2 |
 | Grossesse  | Coqueluche, Covid, grippe, VRS (NR, dose unique)     | BoostrixTetra, Repevax, Abrysvo ...                                       |
-| Médecin généraliste | Coqueluche à chaque dTP,<br>Covid-19, grippe, ROR,<br>varicelle, VHB |                                                  |
+| Médecin généraliste | Covid-19, grippe, ROR,<br>varicelle, VHB    |                                                                           |
 {{< /table >}}
 
 > Les consultations à 25, 45 et 65 ans sont gratuites avec la **cotation RDV** (30€).
