@@ -94,6 +94,17 @@
     stateSave: true,
   })
 
+  // CSV table
+  $(function() {
+    $('.datatable-csv').DataTable({
+      dom: '<"top"f><"data-table"rt<"bottom"Blip>>',
+      paging: false
+    })
+    .on('page.dt', function () {
+      $('[data-toggle="tooltip"]').tooltip({placement: 'bottom'})
+    })
+  })
+
   // Any table
   $(function() {
     $('.datatable').DataTable({

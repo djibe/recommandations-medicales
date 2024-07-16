@@ -15,7 +15,7 @@ english = ["Pertussis", "Whooping cough"]
 sctid = "27836007"
 icd10 = "A37"
 image = true
-imageSrc = "La coqueluche. Freepik"
+imageSrc = "*Bordetella pertussis* en coloration de Gram, coccobacille Gram négatif de la coqueluche. CDC Public Health Image Library, Public domain, via Wikimedia Commons"
 flowchart = true
 +++
 
@@ -34,8 +34,6 @@ Ces recommandations visent à protéger les nourrissons non immuns et personnes 
   - **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse si: amené à s'occuper de l'enfant les 6 premiers mois et le dernier rappel a +5 ans avant 25 ans ou +10 ans au-delà
   - Professionnels de santé: valence coqueluche à chaque rappel
 - [Signalement à l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}) pour au moins 2 cas de coqueluche en collectivité ou intrafamiliaux
-
-Chapitre lié: [toux chronique]({{< relref "toux-chronique.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

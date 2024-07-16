@@ -5,8 +5,8 @@ description = "Title 2-22 words and description 160 characters max"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-03-21T15:18:28+01:00"
-publishdate = "2024-03-21"
-lastmod = "2024-03-21"
+publishdate = "2024-07-15"
+lastmod = "2024-07-15"
 specialites = ["endocrinologie"]
 annees = "2020"
 sources = ["Society1", "Society2"]
@@ -18,6 +18,7 @@ draft = true
 image = false
 imageSrc = ""
 todo = "descr > summary > liens > photo > newsletter > flow"
+datatable = false
 +++
 
 ## J'ai oublié ma pilule

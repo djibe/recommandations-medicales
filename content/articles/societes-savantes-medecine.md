@@ -28,7 +28,7 @@ La liste des sociétés savantes et associations médicales suivante n'est proba
 
 Pour chacune des sociétés savantes est référencé: la page d'actualités et le flux RSS le cas échéant, la page des recommandations et la page de réseau social.
 
-{{< csv-to-table file="/data/societes-savantes.csv" id="societes-table" >}}
+{{< csv-to-table file="/data/societes-savantes.csv" id="societes-table" title="Liste des sociétés savantes de médecine françaises, européennes et internationales de référence" >}}
 
 <div class="text-center"><button class="btn btn-link my-5 d-print-none" type="button" data-toggle="modal" data-target="#modal-contact">Signaler une Société manquante</button></div>
 

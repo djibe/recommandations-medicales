@@ -264,7 +264,8 @@ graph TB
 
 {{< youtube id="NtXLF4DnCYY" title="Infections à Streptocoque du groupe A (CRAtb Pays de la Loire)" >}}
 
-- [HAS, SPILF. Durées d'antibiothérapies préconisées dans les infections bactériennes courantes - Volet 1. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3529230/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-adulte)
+- [HAS, SPILF. Choix et durées d'antibiothérapies : angine aiguë de l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3529230/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-adulte)
+- [HAS, SPILF. Choix et durées d'antibiothérapies : angine aiguë de l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3529229/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-enfant)
 - [Cohen R et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471)
 - [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)
 - [GPIP, SFP, AFPA, SPILF. Conduite à tenir autour d'un cas d'infection invasive à Streptocoque du Groupe A. 2022. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/communiques/conduite-a-tenir-cas-contact-infections-invasives-a-sgadef.pdf)

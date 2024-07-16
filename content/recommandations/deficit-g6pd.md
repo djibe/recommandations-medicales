@@ -6,7 +6,7 @@ synonyms = ["Favisme", "déficit en Glucose-6-déshydrogénase"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-08T22:38:00+02:00"
 publishdate = "2021-07-09"
-lastmod = "2023-11-06"
+lastmod = "2024-07-16"
 specialites = ["hematologie"]
 annees = "2021"
 sources = ["ANSM", "PNDS"]
@@ -22,10 +22,13 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Déficit en G6PD: éviction à vie des substances à risque (fèves, quinine, henné ...) 
-- Port d'une carte de déficit en G6PD et de la liste des médicaments à risque: [liste ANSM (PDF)](https://ansm.sante.fr/uploads/2021/03/11/liste-substances-actives-deficit-g6pd-20052019-1-2.pdf)
-- Bilan en urgence en cas d'exposition aux fèves ou autres produits interdits
-- Conseil génétique familial
+- Le déficit en G6PD est une maladie génétique liée à l'X le plus souvent asymptomatique. La *G6PD* est une enzyme indispensable à la survie des globules rouges
+- Chez un homme, les symptômes d'un accident hémolytique (ictère, hématurie, fièvre, pâleur, malaise) surviennent quelques heures à 3 jours après la prise d'une substance à risque
+- Prise en charge du déficit en G6PD
+  - Éviction à vie des substances à risque (fèves, quinine, henné, voir *Médicaments et aliments à risque*)
+  - Port d'une carte de déficit en G6PD et de la liste des médicaments à risque: [liste ANSM (PDF)](https://ansm.sante.fr/uploads/2021/03/11/liste-substances-actives-deficit-g6pd-20052019-1-2.pdf)
+  - Éducation thérapeutique: bilan en urgence en cas d'exposition aux fèves ou autres produits interdits
+  - Conseil génétique familial
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -47,7 +50,7 @@ PNDS
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le patient atteint d'un déficit en G6PD doit reconnaître les signes d'un accident hémolytique.
+Le patient atteint d'un déficit en G6PD doit reconnaître les signes d'un **accident hémolytique**.
 
 La survenue d'une hémolyse aiguë peut mettre en jeu le pronostic vital. Nécessité d'un bilan biologique en urgence.
 {.alert .alert-warning}
@@ -118,57 +121,7 @@ Toute **automédication** est proscrite lors d'un déficit en G6PD. Remettre au 
 
 Toutes les chimioprophylaxies antipaludiques disponibles en France sont possibles au cours d'un déficit en G6PD.
 
-{{< table title="Liste des substances actives des médicaments pouvant provoquer un accident hémolytique chez les personnes atteintes de déficit en G6PD. Dr JB Fron d'après ANSM du 14/03/2021" class="datatable" >}}
-| Substance | Utilisation |
-|-----------|-------------|
-| Acide acétylsalicylique (aspirine) | Possible |
-| Acide ascorbique (Vitamine C) | Possible |
-| Acide nalidixique | Contre-indiquée |
-| Acide pipémidique | Déconseillée |
-| Antipyrine | Déconseillée |
-| Bleu de méthylène (injectable) | Contre-indiquée |
-| Carbutamide | Déconseillée |
-| Chloroquine | Déconseillée |
-| Ciprofloxacine | Déconseillée |
-| Dapsone | Contre-indiquée |
-| Dimercaprol  | Déconseillée |
-| Enoxacine | Déconseillée |
-| Fluméquine | Déconseillée |
-| Glibenclamide | Déconseillée |
-| Glibornuride | Déconseillée |
-| Gliclazide | Déconseillée |
-| Glimépiride | Déconseillée |
-| Glipizide | Déconseillée |
-| Hydroxychloroquine | Déconseillée |
-| Lévofloxacine | Déconseillée |
-| Loméfloxacine | Déconseillée |
-| Moxifloxacine | Déconseillée |
-| Nitrofurantoïne | Contre-indiquée |
-| Noramidopyrine (Métamizole sodique) | Contre-indiquée |
-| Norfloxacine (orale) | Déconseillée |
-| Ofloxacine (orale et injectable) | Déconseillée |
-| Paracétamol | Possible |
-| Péfloxacine | Déconseillée |
-| Phénazone  (cutanée et nasale) | Déconseillée |
-| Phytoménadione  | Déconseillée |
-| Prilocaïne | Déconseillée |
-| Primaquine | Contre-indiquée |
-| Quinine | Déconseillée |
-| Rasburicase | Contre-indiquée |
-| Spiramycine | Déconseillée |
-| Streptokinase | Déconseillée |
-| Sulfacétamide | Déconseillée |
-| Sulfadiazine (orale) | Contre-indiquée |
-| Sulfadiazine (cutanée) | Déconseillée |
-| Sulfadoxine | Déconseillée |
-| Sulfafurazole | Contre-indiquée |
-| Sulfaguanidine | Contre-indiquée |
-| Sulfaméthizol | Déconseillée |
-| Sulfaméthoxazole | Contre-indiquée |
-| Sulfasalazine | Contre-indiquée |
-| Triméthoprime | Possible |
-| Vitamine K1 (Phytoménadione) | Déconseillée |
-{{< /table >}}
+{{< csv-to-table file="/data/deficit-g6pd.csv" title="Liste des substances actives des médicaments pouvant provoquer un accident hémolytique chez les personnes atteintes de déficit en G6PD. Dr JB Fron d'après ANSM du 14/03/2021" >}}
 
 > **Possible:** en respectant les doses maximales. Détail dans le document de l'*ANSM*
 

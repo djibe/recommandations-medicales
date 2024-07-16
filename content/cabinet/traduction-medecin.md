@@ -43,7 +43,7 @@ L'application *DeepL* n'a pas été retenue, l'arabe et le vietnamien n'étant p
 
 Ensemble des guides de traduction publiés par Santé Publique France.
 
-{{< table title="Les 17 livrets de santé bilingues de Santé Publique France" class="datatable mt-0" >}}
+{{< table title="Les 17 livrets de santé bilingues de Santé Publique France" class="datatable my-0" >}}
 | Langue cible | Lien |
 |--------------|------|
 | Albanais  | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-albanais) |

@@ -10,7 +10,8 @@
 }
 
 .dataTables_wrapper > .data-table {
-  width: 100%;
+  width: fit-content; // 100%
+  max-width: 100%;
 }
 
 .dataTable thead td,
@@ -85,7 +86,7 @@ table.dataTable thead > tr > th.sorting_desc::after {
 
 .dataTables_filter > label {
   display: flex;
-  margin-left: auto;
+  // margin-left: auto;
   min-width: 280px;
   position: relative;
 }

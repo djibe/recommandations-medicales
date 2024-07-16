@@ -1,39 +1,50 @@
-<!-- Generate a random id for the table (a11y purpose) -->
+<!-- CSV to Table djibe Hugo shortcode
+  Support arguments: id, class, title.
+  If no id provided: datatable-csv class is added for automatic initialization
+  Tech: table headers (th with scope attribute), schema.org, JSON+LD
+-->
 {{ $id := "" }}
+{{ $title := .Get "title" }}
+{{ $initializeClass := "" }}
+{{ $extraClass := .Get "class" }}
   {{ with .Get "id" }}
     {{ $id = . }}
   {{ else }}
+  <!-- Generate a random id for the table (a11y purpose) -->
   {{ $id = delimit (shuffle (seq 1 9)) "" }}
-  {{ $id = printf "t-%s"  $id}}
+  {{ $id = printf "t-%s" $id}}
+  {{ $initializeClass = "datatable-csv" }}
   {{ end }}
 {{ with $file := .Get "file" }}
   {{ with resources.Get $file }}
     {{ with . | transform.Unmarshal }}
-      <table class="table" id="{{ if $id }}{{ printf "%s" $id }}{{ end }}">
-        <thead>
-          <tr>
-            {{ range index . 0 }}
-              <th scope="col">{{ . }}</th>
-            {{ end }}
-          </tr>
-        </thead>
-        <tbody>
-          {{ range after 1 . }}
-            <tr>
-              {{ range first 1 . }}
-                <th scope="row">{{ . }}</th>
-              {{ end }}
-              {{ range after 1 . }}
-                <td>{{ . }}</td>
-              {{ end }}
-            </tr>
-          {{ end }}
-        </tbody>
-      </table>
-    {{ end }}
-  {{ else }}
-    {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $file $.Position }}
-  {{ end }}
+<table class="table {{ if $initializeClass }}{{ printf "%s" $initializeClass }}{{ end }} {{ if $extraClass }}{{ printf "%s" $extraClass }}{{ end }}" id="{{ if $id }}{{ printf "%s" $id }}{{ end }}" itemscope itemtype="https://schema.org/Table">
+{{ if $title }}<caption id="{{ printf "table-caption-%s" $id }}" itemprop="about"><b>Tableau.</b> {{ printf "%s" $title }}</caption>{{ end }}
+<thead>
+<tr>
+{{ range index . 0 }}
+<th scope="col">{{ . }}</th>
+{{ end }}
+</tr>
+</thead>
+<tbody>
+{{ range after 1 . }}
+<tr>
+{{ range first 1 . }}
+<th scope="row">{{ . }}</th>
+{{ end }}
+{{ range after 1 . }}
+<td>{{ . }}</td>
+{{ end }}
+</tr>
+{{ end }}
+</tbody>
+</table>
+{{ if $title }}<script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "{{ printf "%s" $title }}"}</script>{{ end }}
+{{ end }}
 {{ else }}
-  {{ errorf "The %q shortcode requires one positional argument, the path to the CSV file relative to the assets directory. See %s" .Name .Position }}
+  {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $file $.Position }}
+{{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires a file argument, the path to the CSV file relative to the assets directory. See %s" .Name .Position }}
 {{ end }}
