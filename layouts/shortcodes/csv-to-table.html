@@ -1,7 +1,8 @@
 <!-- CSV to Table djibe Hugo shortcode
+  CSV must use ; separator to preserve sentences where , can occur
   Support arguments: id, class, title.
   If no id provided: datatable-csv class is added for automatic initialization
-  Tech: table headers (th with scope attribute), schema.org, JSON+LD
+  Tech: table caption, table headers (th with scope attribute), schema.org, JSON+LD
 -->
 {{ $id := "" }}
 {{ $title := .Get "title" }}
@@ -17,7 +18,7 @@
   {{ end }}
 {{ with $file := .Get "file" }}
   {{ with resources.Get $file }}
-    {{ with . | transform.Unmarshal }}
+    {{ with . | transform.Unmarshal (dict "delimiter" ";") }}
 <table class="table {{ if $initializeClass }}{{ printf "%s" $initializeClass }}{{ end }} {{ if $extraClass }}{{ printf "%s" $extraClass }}{{ end }}" id="{{ if $id }}{{ printf "%s" $id }}{{ end }}" itemscope itemtype="https://schema.org/Table">
 {{ if $title }}<caption id="{{ printf "table-caption-%s" $id }}" itemprop="about"><b>Tableau.</b> {{ printf "%s" $title }}</caption>{{ end }}
 <thead>

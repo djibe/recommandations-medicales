@@ -20,9 +20,9 @@ Le médecin travaille aujourd'hui en permanence avec un ordinateur, traitant tou
 
 ## Installer des logiciels
 
-Le téléchargement et l'installation de logiciels est l'une des sources d'introduction de virus. L'outil [WingetUI](https://www.marticliment.com/wingetui/) ([téléchargement](https://github.com/marticliment/WingetUI/releases/latest/download/WingetUI.Installer.exe)) permet d'installer des logiciels depuis des dépôts semblables à l'*AppStore* et le *Google Play Store*, évitant de rapatrier un fichier vérolé depuis un site inconnu.
+Le téléchargement et l'installation de logiciels est l'une des sources d'introduction de virus. L'outil [UnigetUI](https://www.marticliment.com/wingetui/) ([téléchargement](https://github.com/marticliment/UniGetUI/releases/latest/download/UniGetUI.Installer.exe)) permet d'installer des logiciels depuis des dépôts semblables à l'*AppStore* et le *Google Play Store*, évitant de rapatrier un fichier vérolé depuis un site inconnu.
 
-Les logiciels présentés plus bas peuvent être installés avec **WingetUI**.
+Les logiciels présentés plus bas peuvent être installés avec **UnigetUI**.
 
 <img src="/images/icons/microsoft-defender.png" style="width:112px" alt="L'antivirus Microsoft Defender">
 
@@ -32,7 +32,7 @@ Les logiciels présentés plus bas peuvent être installés avec **WingetUI**.
 
 L'antivirus par défaut de Windows, **Microsoft Defender** assure une protection efficace. Il faut néanmoins s'assurer qu'il est bien actif: dans le menu Démarrer, tapez << Sécurité Windows >> et cliquer sur l'application correspondante. Aller dans **Protection contre les virus et les menaces** et vérifier que tous les modules sont activés.
 
-Antivirus gratuits alternatifs: Avast Free, AVG Free, Bitdefender Free. Les mêmes antivirus gratuits sont recommandés sur le téléphone portable (disponibles depuis **WingetUI**). Malwarebytes Antimalware est également intéressant pour faire des scans occasionnels.
+Antivirus gratuits alternatifs: Avast Free, AVG Free, Bitdefender Free. Les mêmes antivirus gratuits sont recommandés sur le téléphone portable (disponibles depuis **UnigetUI**). Malwarebytes Antimalware est également intéressant pour faire des scans occasionnels.
 
 **Antivirus payants** de haute protection: Avira, Bitdefender, GDATA, McAfee.
 

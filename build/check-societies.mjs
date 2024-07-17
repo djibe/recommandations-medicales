@@ -1,50 +1,67 @@
-// Dans le fichier urlTester.js
-import axios from 'axios'
-import fs from 'fs/promises'
+import fs from 'fs';
+import csv from 'csv-parser';
+// import fetch from 'node-fetch';
 
-// Fonction pour vérifier si une chaîne est une URL
-function isUrl(str) {
-  const urlPattern = new RegExp('^(https?:\\/\\/)?' + // protocol
-    '((([a-z\\d]([a-z\\d-]*[a-z\\d])*)\\.)+[a-z]{2,}|' + // domain name
-    '((\\d{1,3}\\.){3}\\d{1,3}))' + // OR ip (v4) address
-    '(\\:\\d+)?(\\/[-a-z\\d%_.~+]*)*' + // port and path
-    '(\\?[;&a-z\\d%_.~+=-]*)?' + // query string
-    '(\\#[-a-z\\d_]*)?$', 'i'); // fragment locator
-  return !!urlPattern.test(str);
-}
+const csvFilePath = '../assets/data/societes-savantes.csv';
 
-// Fonction pour tester une URL
-async function testUrl(url) {
+// Fonction pour vérifier si un texte est un lien
+const isValidUrl = (text) => {
   try {
-    const response = await axios.get(url);
-    // console.log(`${url} est accessible. Statut : ${response.status}`);
-  } catch (error) {
-    console.error(`${url} n'est pas accessible. Erreur : ${error.message}`);
+    new URL(text);
+    return true;
+  } catch (_) {
+    return false;
   }
-}
+};
 
-// Fonction pour parcourir les données JSON et tester les URL
-function traverse(obj) {
-  for (let key in obj) {
-    if (obj[key] !== null && typeof obj[key] === 'object') {
-      // Si la valeur est un objet, parcourir récursivement
-      traverse(obj[key]);
-    } else if (typeof obj[key] === 'string' && isUrl(obj[key])) {
-      // Si la valeur est une chaîne et une URL, la tester
-      testUrl(obj[key]);
-    }
-  }
-}
-
-// Lire le fichier JSON et tester les URL
-async function main() {
+// Fonction pour vérifier un lien
+const checkLink = async (url) => {
   try {
-    const data = await fs.readFile('../static/data/societes-savantes.json', 'utf8');
-    const jsonData = JSON.parse(data);
-    traverse(jsonData);
+    const response = await fetch(url);
+    return response.ok;
   } catch (error) {
-    console.error(`Erreur lors de la lecture du fichier JSON : ${error.message}`);
+    return false;
   }
-}
+};
 
-main()
+// Fonction pour traiter le fichier CSV
+const processCSV = async (filePath) => {
+  const results = [];
+
+  return new Promise((resolve, reject) => {
+    fs.createReadStream(filePath)
+      .pipe(csv())
+      .on('data', async (row) => {
+        const rowResults = [];
+        for (const [key, value] of Object.entries(row)) {
+          if (isValidUrl(value)) {
+            const isValid = await checkLink(value);
+            rowResults.push({ link: value, isValid });
+          }
+        }
+        results.push(rowResults);
+      })
+      .on('end', () => {
+        resolve(results);
+      })
+      .on('error', (error) => {
+        reject(error);
+      });
+  });
+};
+
+// Traiter le CSV et afficher les résultats
+processCSV(csvFilePath)
+  .then((results) => {
+    results.forEach((rowResults, rowIndex) => {
+      if (rowResults.length > 0) {
+        console.log(`Row ${rowIndex + 1}:`);
+        rowResults.forEach(({ link, isValid }) => {
+          console.log(`  ${link} is ${isValid ? 'valid' : 'invalid'}`);
+        });
+      }
+    });
+  })
+  .catch((error) => {
+    console.error('Error processing CSV file:', error);
+  });

@@ -16,7 +16,7 @@ english = ["Hygiene and food preservation measures"]
 sctid = ""
 icd10 = ""
 image = true
-imageSrc = "Les aliments. macrovector / Freepik"
+imageSrc = "Conservation des aliments. macrovector / Freepik"
 +++
 
 {{%article-summary%}}
