@@ -31,9 +31,8 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{<
 
 ## Certificats médicaux exigibles chez les personnes majeures {.my-5}
 
-<!-- TODO: inject and style -->
 <div class="textfield-box textfield-box-sm">
-  <input type="search" class="form-control" id="table-search" onsearch="searchTable()" placeholder="Rechercher">
+  <input type="search" class="form-control" id="table-search" onkeyup="searchTable()" placeholder="Rechercher">
 </div>
 
 {{< table title="Certificats médicaux pouvant être demandés ou refusés pour les personnes majeures en France. Dr JB Fron d'après CNOM 2024" class="table-wrap" id="table-filter">}}
