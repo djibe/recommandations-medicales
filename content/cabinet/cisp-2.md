@@ -18,7 +18,7 @@ todo = "table line return"
 La CISP-2, ou Classification internationale des soins primaires, deuxième édition, est un système de classification développé par l'Organisation mondiale des médecins généralistes (WONCA) pour catégoriser les problèmes de santé et les interventions en soins primaires. Elle permet aux médecins généralistes et aux autres professionnels de santé de codifier et de suivre les informations cliniques et épidémiologiques des patients de manière systématique.
 {.lead}
 
-Pour les médecins voulant coder leurs consultations, RecoMédicales propose le navigateur suivant. La CISP-2 est publiée sous la [license LOv2](https://github.com/etalab/licence-ouverte/blob/master/LO.md).
+Pour les médecins voulant coder leurs consultations, RecoMédicales propose un navigateur (voir plus bas). La CISP-2 est publiée sous la [license LOv2](https://github.com/etalab/licence-ouverte/blob/master/LO.md).
 
 En anglais: *International Classification of Primary Care (ICPC)*.
 
@@ -29,6 +29,8 @@ La CISP-2 comprend deux composantes principales :
 2. Les diagnostics et interventions : Ce sont les résultats de la consultation, incluant les diagnostics médicaux, les traitements administrés, et les procédures effectuées.
 
 La CISP-2 est organisée en un système hiérarchique avec des codes alphanumériques qui permettent une grande précision dans la description des soins de santé primaires. Elle est largement utilisée dans le monde entier pour améliorer la communication entre les professionnels de santé, standardiser les pratiques de collecte de données et faciliter les recherches en épidémiologie et en santé publique.
+
+[Guide d'utilisation (PDF)](https://orbi.uliege.be/bitstream/2268/229852/1/Chap%201-9.pdf) pour apprendre à coder avec la CISP-2.
 
 ## Navigateur de la CISP-2 {.mt-5}
 

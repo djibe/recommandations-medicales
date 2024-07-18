@@ -138,11 +138,12 @@ Souris ergonomiques (par 01Net): [Logitech Lift (60 €)](https://ledenicheur.fr
 
 Webcams avec une qualité d'image suffisante pour une téléconsultation et avec un microphone intégré.
 
-- [Elgato Facecam - 160€ (la meilleure, FullHD)](https://ledenicheur.fr/product.php?p=5828769)
+- [Elgato Facecam - 130€ (la meilleure, FullHD)](https://ledenicheur.fr/product.php?p=5828769)
 - [Logitech StreamCam - 110€ (FullHD)](https://ledenicheur.fr/product.php?p=5278071)
 - [Logitech HD Pro Webcam C920S - 80€ (FullHD)](https://ledenicheur.fr/product.php?p=5064507)
 - [Logitech HD Pro Webcam C920 - 80€ (FullHD)](https://ledenicheur.fr/product.php?p=1027960)
 - [Razer Kiyo - 60€ (FullHD)](https://ledenicheur.fr/product.php?p=4535183)
+- [Logitech Brio 100 - 40€ (FullHD)](https://ledenicheur.fr/product.php?p=12224169)
 - [Microsoft LifeCam HD-3000 - 25€ (720p)](https://ledenicheur.fr/product.php?p=829887)
 {.list-group}
 

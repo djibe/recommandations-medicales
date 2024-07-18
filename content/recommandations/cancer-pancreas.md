@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-16T15:41:56+01:00"
 publishdate = "2022-01-07"
-lastmod = "2023-11-23"
+lastmod = "2024-07-18"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2021"
+annees = "2024"
 sources = ["SNFGE", "INCa"]
 tags = ["cancer", "diabete", "obesite", "prurit", "tabac"]
 english = ["Pancreatic cancer"]
@@ -22,19 +22,20 @@ flowchart = true
 
 {{%article-summary%}}
 
+- Suspecter un cancer du pancréas devant les symptômes suivants: ictère, douleurs abdominales, AEG
+- Bilan avec scanner abdomino-pelvien avec injection en semi-urgence
+- La prise en charge du cancer du pancréas est une semi-urgence
+- Traquer un cancer du pancréas en cas de [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}) idiopathique après 40 ans
 - Consultation d'oncogénétique et dépistage du cancer du pancréas si au moins 2 apparentés atteints d'adénocarcinome du pancréas dont au moins 1 au premier degré  
   ou certaines mutations génétiques (voir *Dépistage*)
-- Suspecter un cancer du pancréas devant les symptômes suivants: ictère, douleurs abdominales, AEG
-- Bilan avec scanner thoraco-abdomino-pelvien avec injection en semi-urgence dès la suspicion
-- La prise en charge du cancer du pancréas est une semi-urgence
 - Pour toute la population: prévention du cancer du pancréas par correction des facteurs de risque ([tabagisme]({{< relref "arret-tabac.md" >}}), [obésité]({{< relref "obesite-adulte.md" >}}) et [diabète]({{< relref "diabete-type-2.md" >}}))
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Adénocarcinome du pancréas (AP)
-: 90% des tumeurs du pancréas et tumeur digestive avec le plus mauvais pronostic (survie à 5 ans de 11 %).
-: Autres types de cancers pancréatiques: neuro-endocrine.
+: L'adénocarcinome du pancréas représente 90% des tumeurs du pancréas et demeure la tumeur digestive avec le plus mauvais pronostic (survie à 5 ans de 11 %).
+: Autres types de cancers pancréatiques: tumeurs neuro-endocrines.
 
 Cancers du pancréas familiaux (CaPaFa)
 : Survenue d'un adénocarcinome du pancréas chez ≥ 2 parents au 1<sup>er</sup> degré  
@@ -79,6 +80,9 @@ CaPaFa
 CLCC
 : Centre de Lutte contre le Cancer
 
+CPIRM
+: cholangiopancréatographie par IRM
+
 INCa
 : Institut national du cancer
 
@@ -111,7 +115,7 @@ Adresser en consultation d'oncogénétique devant une suspicion de cancers famil
 Le dépistage du cancer du pancréas est réalisé par échoendoscopie couplée à l'IRM abdominale:
 
 - Pancréatite chronique
-  - diagnostic précoce: survenue ou résurgence de douleurs pancréatiques chroniques, pancréatite aiguë, amaigrissement > 10%, majoration de l'insuffisance exocrine, cholestase d'apparition récente ou ictère
+  - diagnostic précoce: survenue ou résurgence de douleurs pancréatiques chroniques, [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}), amaigrissement > 10%, majoration de l'insuffisance exocrine, cholestase d'apparition récente ou ictère
   - génétique (mutation PRSS1)
   - idiopathique ou génétique (SPINK1, CTRC ou CFTR) avec imagerie pancréatique anormale
 - Contexte de cancers pancréatiques familiaux (CaPaFa)
@@ -146,7 +150,7 @@ Indication: diabète récent (< 12 mois) chez le +50 ans sans antécédent famil
 
 ### Quand rechercher un cancer du pancréas en cas de pancréatite chronique ?
 
-Indications:
+Indications au dépistage du cancer du pancréas au cours de la pancréatite chronique:
 
 - Pancréatite chronique génétique
   - Par mutation PRSS1
@@ -155,7 +159,7 @@ Indications:
   - Apparition d'un diabète
   - Décompensation d'un [diabète]({{< relref "diabete-type-2.md" >}})
   - Survenue ou résurgence de douleurs pancréatiques chroniques
-  - Survenue de pancréatite aiguë
+  - Survenue de [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}})
   - Amaigrissement > 10%
   - Majoration de l'insuffisance exocrine
   - Cholestase d'apparition récente
@@ -165,13 +169,12 @@ Recherche par scanner abdominal ET IRM pancréatique.
 
 ### Quand rechercher un cancer du pancréas en cas de pancréatite aiguë idiopathique ?
 
-Indication: pancréatite aiguë idiopathique chez un sujet de plus de 40 ans.  
-Recherche par scanner ET IRM avec CPIRM et échoendoscopie si négatifs.
+Après une [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}) idiopathique chez un sujet de plus de 40 ans, dépister un cancer du pancréas par scanner ET cholangiopancréatographie par IRM. Compléter avec une échoendoscopie si les bilans sont négatifs.
 
-Nouveaux examens scanners et IRM à 3, 6 et 12 mois:
+Nouveaux examens de suivi (scanner et CPIRM) à 3, 6 et 12 mois:
 
-- puis annuellement pendant 4 ans si +40 ans
-- arrêt si -40 ans
+- puis annuellement pendant 4 ans après 40 ans
+- arrêt avant 40 ans
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -192,7 +195,7 @@ Signes évocateurs de cancer du pancréas, surtout après 50 ans (signes en **gr
   - **Douleur épigastrique ou abdominale non expliquée par EOGD haute**, transfixiante, insomniante, intensité élevée
   - Douleur dorsale
 - Plus rares
-  - Pancréatite aiguë
+  - [Pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}})
   - Thrombo-embolie
   - Occlusion intestinale
   - Hémorragie digestive
@@ -224,11 +227,11 @@ Bilan biologique initial en cas de suspicion de cancer du pancréas:
 
 ### Scanner abdomino-pelvien avec injection
 
-Le scanner abdomino-pelvien est l'examen de référence en semi-urgence en cas de suspicion d'adénocarcinome du pancréas (protocole d'acquisition spécifique). Compléter par un scanner thoracique en cas de lésions anormales.
+Le scanner abdomino-pelvien est l'examen de référence en semi-urgence en cas de suspicion d'adénocarcinome du pancréas (protocole d'acquisition spécifique). Compléter par un **scanner thoracique** en cas de lésion anormale.
 
-Si le diagnostic est évoqué sur l'imagerie, la RCP doit avoir lieu **dans les 4 semaines**.
+Si le diagnostic de cancer du pancréas est évoqué sur l'imagerie, la RCP doit avoir lieu **dans les 4 semaines**.
 
-L'IRM a une performance diagnostique équivalente (et plus chère).
+L'IRM a une performance diagnostique équivalente au scanner (et plus chère).
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
@@ -260,11 +263,11 @@ graph TB
 
 {{< youtube id="BInhR4vlfH0" title="Cancer du pancréas : pourquoi ça augmente ? (TutoGastro SNFGE)" >}}
 
+- [Hammel P et al. Cancer du pancréas. Thésaurus National de Cancérologie Digestive (TNCD). 2024.](https://www.snfge.org/tncd/cancer-du-pancreas)
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}
 - {{< references/college-gastro >}}
 - Rebours V. Risque de cancer du pancréas : maigrir c'est bien, ne pas grossir c'est mieux. GastroScoop. 13/01/2022.
-- [Hammel P et al. Cancer du pancréas. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/tncd/cancer-du-pancreas)
 - [Rebours V. Les chiffres du cancer du pancréas dans le monde : l'effroyable raz-de-marée. GastroScoop. 17/11/2021.
 - [INCa. Les cancers du pancréas en 12 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-du-pancreas-en-12-points-cles)
 - [INCa. Cancer du pancréas - Du diagnostic au suivi. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-du-pancreas-Du-diagnostic-au-suivi)

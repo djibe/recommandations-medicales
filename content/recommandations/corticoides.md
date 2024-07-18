@@ -18,7 +18,7 @@ icd10 = ""
 atc = "H02AB"
 image = false
 imageSrc = ""
-todo = "photo | **biphospho <https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-losteoporose>**, inhibiteurs CYP3A4 https://pharmacomedicale.org/pharmacologie/les-sources-de-variabilite-de-la-reponse-au-medicament/45-variabilites-pharmacocinetiques/101-inhibitions-enzymatiques"
+todo = "photo | PNDS Horton 2020, **biphospho <https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-losteoporose>**, inhibiteurs CYP3A4 https://pharmacomedicale.org/pharmacologie/les-sources-de-variabilite-de-la-reponse-au-medicament/45-variabilites-pharmacocinetiques/101-inhibitions-enzymatiques"
 flowchart = true
 +++
 
@@ -244,6 +244,10 @@ graph TB
 - [Beuschlein F et al. European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and therapy of glucocorticoid-induced adrenal insufficiency. Eur J Endocrinol. 2024.](https://academic.oup.com/ejendo/article/190/5/G25/7663654)
 - {{< references/college-endocrino >}}
 - Collège National des Enseignants de Médecine Interne (CEMI). Prescription et surveillance des classes de médicaments les plus courantes chez l'adulte et chez l'enfant : anti-inflammatoires non stéroïdiens et corticoïdes. Référentiel Collège de Médecine interne R2C. 2021.
+
+### Bibliographie en attente
+
+[Garrahy A, et al. Glucocorticoid induced adrenal insufficiency. BMJ. 2022.](https://www.bmj.com/content/379/bmj-2021-065137)
 
 {{%/sources%}}
 {{% modal title="Évaluation des apports en calcium" id="modal-apports-calcium"%}}

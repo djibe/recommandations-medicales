@@ -169,7 +169,7 @@ Liste des contre-indications à la thrombolyse par risque hémorragique:
 - Massage cardiaque externe traumatique récent (moins de 10 jours), accouchement, ponction récente d'un vaisseau non accessible à la compression (par exemple ponction de la veine sous-clavière ou jugulaire).
 - HTA sévère non contrôlée.
 - Endocardite bactérienne, péricardite.
-- Pancréatite aiguë.
+- [Pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}).
 - Ulcères gastro-intestinaux documentés au cours des 3 derniers mois, varices œsophagiennes, anévrisme artériel, malformations artérielles ou veineuses.
 - Néoplasie majorant le risque hémorragique.
 - Hépatopathie sévère  

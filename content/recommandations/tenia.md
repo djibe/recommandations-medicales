@@ -63,7 +63,7 @@ Le tableau clinique est souvent fruste. Signes et symptômes des ténias ou tæn
   - Irritabilité, troubles du sommeil
   - Palpitations, réactions vasomotrices
 
-Les complications sont rares par obstruction mécanique: tableau de colique hépatique, pancréatite aiguë ou [appendicite]({{< relref "appendicite-aigue.md" >}}).
+Les complications sont rares par obstruction mécanique: tableau de colique hépatique, [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}) ou [appendicite]({{< relref "appendicite-aigue.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
