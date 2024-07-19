@@ -17,7 +17,7 @@ english = []
 sctid = ""
 icd10 = ""
 image = true
-imageSrc = "Les monographies des médicaments. jemastock on Freepik"
+imageSrc = "Les monographies des médicaments. jemastock / Freepik"
 todo = "DCI, unified search, update"
 +++
 
@@ -26,7 +26,7 @@ Consulter la monographie (indications, posologies, contre-indications ...) de to
 
 > La recherche par DCI ne fonctionne actuellement pas. Le moteur de recherche sera unifié avec celui des pathologies.
 
-<div class="textfield-box textfield-box-sm">
+<div class="textfield-box textfield-box-sm" style="position: sticky; top: 80px; backdrop-filter: blur(10px); z-index: 160">
   <input type="search" class="form-control form-group" id="search-input" placeholder="Rechercher un code médicament ...">
 </div>
 <div id="spinner">Chargement...</div>
@@ -51,7 +51,7 @@ const noResults = document.getElementById('no-results');
 // Afficher la liste des libellés
 data.forEach(item => {
   const a = document.createElement('a');
-  if (item.procedure) {
+  if ('procedure' in item) {
     a.href = `https://base-donnees-publique.medicaments.gouv.fr/extrait.php?specid=${item.cis}`;
   } else {
     a.href = `https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=${item.cis}&typedoc=R`;

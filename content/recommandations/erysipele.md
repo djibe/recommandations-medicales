@@ -18,7 +18,7 @@ icd10 = "A46"
 image = true
 imageSrc = "Érysipèle de jambe droite. Grook Da Oger, CC BY-SA 3.0 via Wikimedia Commons"
 flowchart = true
-todo = "dose chez l'insuffisant rénal"
+todo = "SEO, dose chez l'insuffisant rénal"
 +++
 
 {{%article-summary%}}
@@ -173,9 +173,11 @@ Et chez l'enfant, facteurs supplémentaires: **âge < 1 an**, syndrome toxinique
 
 La prise en charge ambulatoire d'un érysipèle n'est possible que si le **tableau est typique sans signe de gravité** chez un patient sans antécédents:
 
-Amoxicilline 50 mg/kg/j en 3 prises pendant 7 jours (max 6 g/j, *HAS 2021*)  
+{{%info%}}
+Amoxicilline 50 mg/kg/j en 3 prises pendant 7 jours (max 6 g/j, *HAS 2021*)
+
 Enfant: amoxicilline-acide clavulanique 1 dose-poids x 3/j pendant 7 jours
-{.alert .alert-info}
+{{%/info%}}
 
 Selon Prescrire®: pénicilline V (Oracilline®) 1-1,5 MUI x 4/j jusqu'à amélioration des signes locaux.
 

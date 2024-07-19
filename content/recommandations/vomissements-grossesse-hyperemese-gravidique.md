@@ -23,10 +23,10 @@ todo = "posologies, annexe 6"
 
 {{%article-summary%}}
 
-- Hyperémèse gravidique. Nausées et vomissements gravidiques sévères avec au moins un critère parmi: amaigrissement ≥ 5%, signe de déshydratation, {{< modal-btn modal-puqe >}}score PUQE ≥ 7{{< /modal-btn >}}
+- L'hyperémèse gravidique est la présence de nausées et vomissements sévères pendant la grossesse avec au moins un critère parmi: amaigrissement supérieur ou égal à 5%, signes de déshydratation, {{< modal-btn modal-puqe >}}score PUQE ≥ 7{{< /modal-btn >}}
 - Bilan d'une hyperémèse gravidique: ionogramme, créatininémie, bandelette urinaire, échographie obstétricale
 - Critères d'hospitalisation en cas de vomissements pendant la grossesse: amaigrissement ≥ 10%, déshydratation, {{< modal-btn modal-puqe >}}score PUQE ≥ 13{{< /modal-btn >}}, hypokaliémie < 3 mmol/L, hyponatrémie < 120 mmol/L, créatininémie > 100 µmol/L, résistance au traitement
-- Prise en charge avec traitement de première intention des nausées et vomissements de grossesse: gingembre, doxylamine (± pyridoxine), dimenhydrinate et réévaluation à 48 heures
+- Prise en charge des nausées et vomissements de grossesse: gingembre, doxylamine (± pyridoxine) ou dimenhydrinate et réévaluation à 48 heures
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

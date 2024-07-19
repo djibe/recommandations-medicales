@@ -1,5 +1,5 @@
 # Filter BDPM for Recomedicales by djibe and GPT4o
-# TODO: W964
+# TODO: Bind CIS, Poetry
 
 import os
 import requests
@@ -29,9 +29,11 @@ print(df.head())
 
 # Keep selected columns
 df = df.loc[:, ['cis', 'libelle', 'forme', 'voie', 'procedure', 'commercialisation']]
-df.loc[df['procedure'] != 'Procédure centralisée', 'procedure'] = ''
 
 # Apply filters
+df.loc[df['procedure'] != 'Procédure centralisée', 'procedure'] = None
+df.loc[df['procedure'] == 'Procédure centralisée', 'procedure'] = 'Yes'
+
 unwanted_libelle_values = ["BOIRON", "COMPOSE", "VOMICA", "2CH", "3CH", "4CH", "6CH", "8CH"]
 unwanted_voie_values = ["épilésionelle", "intraveineuse", "intrathécale", "intravesicale"]
 
@@ -46,9 +48,10 @@ df_filtered = df[
 
 # Filter duplicates
 unwanted_words = [' ACCORD', ' AHCL', ' ALMUS', ' ALTER', ' ARROW', ' ARROW GENERIQUES', ' BGR', ' BIOGARAN', ' BLUEFISH', \
-  ' CHAUVIN', ' CONSEIL', ' Conseil', ' CRISTERS', ' CRISTERS PHARMA', ' DIPHARMA', ' EG', ' EG LABO', ' EVOLUGEN', ' FRANCE', ' GEN.ORPH', ' GENERIQUES', ' GERDA', ' HCS', ' KRKA', \
-   ' LAB', ' LABO', ' LABORATOIRES ALTER', ' MYLAN', ' NEURAXPHARM', ' PHARMA', \
-  ' SANDOZ', ' SANTE', ' SFDB', ' SUBSTIPHARM', ' SUN', ' TEVA', ' VIATRIS', ' VJ-PHARM', ' ZENTIVA', ' ZF', ' ZYDUS']
+  ' CHAUVIN', ' CONSEIL', ' Conseil', ' CRISTERS', ' CRISTERS PHARMA', ' DIPHARMA', ' EG LABO', ' EG', ' EVOLUGEN', ' FRANCE', ' GEN.ORPH', ' GENERIQUES', ' GERDA', ' HCS', ' K.S', ' KRKA', \
+  ' LAB', ' LABO', ' LABORATOIRES ALTER', ' MYLAN', ' NEURAXPHARM', ' NOR', ' PANPHARMA', ' PHARMA', ' QUIVER', ' REF', \
+  ' SANDOZ', ' SANTE', ' SFDB', ' SUBSTIPHARM', ' SUN', ' TEVA', ' VIATRIS', ' VJ-PHARM', ' ZENTIVA', ' ZF', ' ZYDUS', \
+  ' (rapport amoxicilline/acide clavulanique : 8/1)', ' (rapport amoxicilline/acide clavulanique: 8/1)', ' (Rapport Amoxicilline/Acide clavulanique : 8/1)', ' en flacon']
 
 def normalize_libelle(libelle):
     for word in unwanted_words:
@@ -67,7 +70,11 @@ df_unique['libelle'] = df_unique['normalized_libelle']
 # Drop the auxiliary column used for normalization
 # df_unique = df_unique.drop(columns=['normalized_libelle'])
 
+# Function to remove blank keys (columns with NaN values) from each row during JSON export
+def row_filter(row):
+    return row.dropna().to_dict()
+
 # Select only the 'cis' and 'libelle' columns and save to a JSON file
 df_to_save = df_unique[['cis', 'libelle', 'procedure']]
-df_to_save.to_json('bdpm-search.json', orient='records')
-print('Finished')
+df_to_save.apply(row_filter, axis=1).to_json('bdpm-search.json', orient='records')
+print('\n Finished')

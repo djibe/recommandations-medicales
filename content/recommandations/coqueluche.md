@@ -252,9 +252,9 @@ Antibioprophylaxie des contacts proches du cas la plus précoce possible, jusqu'
 {{< mermaid title="Prise en charge d'un cas de coqueluche à partir de l'enfance. Dr JB Fron d'après HAS/SPILF/GPIP 2024" >}}
 graph TB
   suspicion["<b>Suspicion de coqueluche<br>et vaccination +5 ans</b><br>—<br>- Toux émétisante ou<br> à recrudescence nocturne<br>- Toux paroxystique ≥ 7j<br>- Contage"] --> durée(Durée de la toux ?)
-    durée -- "&lt; 21j" --> PCR -- Positive --> traitement("- Éviction 5j<br>- Mesures barrières<br>- Clarithromycine 7j<br>- Antibioprophylaxie<br> des contacts")
+    durée -- "&lt; 21j" --> PCR -- Positive --> traitement("- Éviction 5j<br>- Mesures barrières<br>- Clarithromycine 7j<br>- Antibioprophylaxie<br>des contacts")
       PCR -- Négative --> différentiel("<b>Diagnostic différentiel</b><br>—<br>- Mycoplasme, Chlamydia<br>- Grippe, Covid<br>- Tuberculose<br>- Sinusite<br>- Allergie<br>- RGO<br>- Tumeur<br>- Corps étranger<br>- Iatrogène<br>- Psychogène")
-    durée -- &ge; 21j --> clinique(Clinique) --> abstention("- Mesures générales<br>- Pas d'antibiothérapie")
+    durée -- &ge; 21j --> clinique(Clinique) --> abstention("- Mesures générales<br>- Pas d'antibiothérapie<br>- Antibioprophylaxie<br>des contacts")
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

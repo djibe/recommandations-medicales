@@ -391,6 +391,8 @@ window.addEventListener('load', () => {
 
 {{< card-link-external title="Ameli Data Pathologies. Dépenses des soins liés au diabète" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Diab%C3%A8te">}}
 
+{{< youtube id="jeOxsF9n__0" title="Webinaire Diabète de type 2 de l'adulte : quelles stratégies thérapeutiques ? (HAS)" >}}
+
 - [HAS. Stratégie thérapeutique du patient vivant avec un diabète de type 2. 2024.](https://www.has-sante.fr/jcms/p_3191108/fr/strategie-therapeutique-du-diabete-du-type-2-fiche-memo-et-parcours-de-soins-integres-note-de-cadrage)
 - {{< references/calendrier-vaccinal >}}
 - [HAS, ANRS. Traitement de la Covid-19. 22/12/2023.](https://www.has-sante.fr/jcms/p_3447571/fr/traitement-de-la-covid-19)

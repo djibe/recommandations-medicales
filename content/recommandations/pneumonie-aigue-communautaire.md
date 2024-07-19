@@ -358,7 +358,7 @@ Traitement antibiotique probabiliste **pendant 5 jours** avec réévaluation sys
 
 {{< card-link-external title="Antibiothérapies de la pneumonie" url="https://antibioclic.com/strategie/279/2274" subtitle="par Antibioclic" >}}
 
-En cas de **pneumonies récidivantes** d'un même territoire, évoquer un **corps étranger** ou une **tumeur**.
+En cas de **pneumonies récidivantes**, réaliser une électrophorèse des protéines et rechercher une [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (*GOLD 2024*). Au sein d'un même territoire, rechercher un **corps étranger** ou une **tumeur**.
 
 > En pédiatrie: << La normalisation complète n'est pas observée avant plusieurs semaines. >> – *CNPU*
 
