@@ -1,10 +1,9 @@
-# Filter BDPM for RecoMedicales by djibe and GPT4o
+# Filter BDPM for Recomedicales by djibe and GPT4o
 # TODO: W964
 
 import os
 import requests
 import pandas as pd
-# Enable Pandas Copy-on-Write
 pd.options.mode.copy_on_write = True
 
 # Download BDPM
@@ -19,7 +18,7 @@ else:
 
 current_dir = os.getcwd()
 csv_path = os.path.join(current_dir, 'CIS_bdpm.txt')
-df = pd.read_csv(csv_path, sep='\t', lineterminator='\r')
+df = pd.read_csv(csv_path, sep='\t', lineterminator='\r', encoding='windows-1252')
 
 df.columns = ['cis', 'libelle', 'forme', 'voie', 'statut', 'procedure', 'commercialisation', 'date_amm', 'statut_bdm', 'autorisation', 'titulaire', 'surveillance']
 df['cis'] = df['cis'].apply(lambda x: x.lstrip('\n') if isinstance(x, str) else x)
@@ -29,7 +28,8 @@ print("First rows")
 print(df.head())
 
 # Keep selected columns
-df = df.loc[:, ['cis', 'libelle', 'forme', 'voie', 'commercialisation']]
+df = df.loc[:, ['cis', 'libelle', 'forme', 'voie', 'procedure', 'commercialisation']]
+df.loc[df['procedure'] != 'Procédure centralisée', 'procedure'] = ''
 
 # Apply filters
 unwanted_libelle_values = ["BOIRON", "COMPOSE", "VOMICA", "2CH", "3CH", "4CH", "6CH", "8CH"]
@@ -68,6 +68,6 @@ df_unique['libelle'] = df_unique['normalized_libelle']
 # df_unique = df_unique.drop(columns=['normalized_libelle'])
 
 # Select only the 'cis' and 'libelle' columns and save to a JSON file
-df_to_save = df_unique[['cis', 'libelle']]
+df_to_save = df_unique[['cis', 'libelle', 'procedure']]
 df_to_save.to_json('bdpm-search.json', orient='records')
 print('Finished')

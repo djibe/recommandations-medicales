@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-04-25T14:08:50+02:00"
 publishdate = "2024-04-25"
-lastmod = "2024-06-27"
+lastmod = "2024-07-19"
 specialites = ["therapeutique"]
 annees = "2024"
 sources = ["BDPM"]
@@ -53,6 +53,7 @@ La prise du médicament pendant le repas n'améliore pas la biodisponibilité ma
 - [Centre Belge d'Information Pharmacothérapeutique (CBIP). Chaque médicament au bon moment! Partie 3: à distance des repas. 2023.](https://www.cbip.be/fr/articles/4338?folia=4336)
 - [Centre Belge d'Information Pharmacothérapeutique (CBIP). Chaque médicament au bon moment! Partie 1: (le matin) à jeun. 2023.](https://www.cbip.be/fr/articles/4216?folia=4215)
 - [Centre Belge d'Information Pharmacothérapeutique (CBIP). Chaque médicament au bon moment! Partie 2: lors des repas. 2023.](https://www.cbip.be/fr/articles/4306?folia=4305)
+- [OMéDIT Centre-Val de Loire. Alimentation et moment d'administration des anticancéreux oraux. 2023.](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/11646.pdf)
 - [Pharmacie des Hôpitaux de l'Est Lémanique. Importance du moment de prise pour les médicaments. 2022. (PDF)](https://www.phel.ch/upload/docs/application/pdf/2018-04/importance_du_moment_de_prise_pour_les_medicaments.pdf)
 - [Perucca P. Les interactions entre les aliments et les médicaments dans la pratique officinale. 2017. (PDF)](https://dumas.ccsd.cnrs.fr/dumas-01613518/document)
 - [CAPP-INFO. Médicaments et alimentation - Avant ? Pendant ? Après le repas ?. Bulletin d'information du CAPP. 2000. (PDF)](https://pharmacie.hug.ch/infomedic/cappinfo/cappinfo15.pdf)

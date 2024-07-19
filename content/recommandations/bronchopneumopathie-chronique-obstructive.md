@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. HOUSSET (SPLF) et Dr S. LAUNOIS (SFRMS/SPLF)"
 date = "2021-03-28T23:07:00+02:00"
 publishdate = "2021-04-14"
-lastmod = "2023-03-07"
+lastmod = "2024-07-17"
 specialites = ["pneumologie"]
 annees = "2023"
 sources = ["GOLD", "ERS", "HAS", "SPLF"]
@@ -233,6 +233,12 @@ Autres causes de toux et dyspnée chronique d'origine thoracique:
 - Pneumopathie interstitielle
 - Mucoviscidose
 - Idiopathique
+
+### Diagnostic différentiel de l'exacerbation de BPCO
+
+- [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
+- [Pneumonie aiguë communautaire]({{< relref "pneumonie-aigue-communautaire.md" >}})
+- [Œdème pulmonaire cardiogénique]({{< relref "insuffisance-cardiaque-aigue.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -497,10 +503,18 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
   - Envisager l'utilisation d'une chambre d'inhalation (3-5 inspirations par dose de BDCA)
   - Augmenter la dose du traitement de fond
 - Kinésithérapie respiratoire si encombrement
-- Antibiothérapie 5 jours ([Antibioclic](https://antibioclic.com/questionnaire/36)) si: aggravation de la dyspnée et augmentation du volume et de la purulence des crachats  
-  ECBC en cas d'exacerbations fréquentes.
+- <mark>Antibiothérapie ≤ 5 jours si: aggravation de la dyspnée et augmentation du volume et de la purulence des crachats pendant ≥ 48 heures OU BPCO très sévère</mark> (*HAS 2024*)
+  - Amoxicilline 1g x 3/j pendant maximum 5 jours
+  - Si allergie aux pénicillines: pristinamycine 1g x 3/j pendant 4 jours
+  - Si pénurie: clarithromycine 500 mg x 2/j, roxithromycine 150 mg x 2/j, spiramycine 6-9 MUI/j ou doxycycline 200 mg x 1/j
+  - ECBC en cas d'exacerbations fréquentes (*GOLD*)
+- Antibiothérapie adaptée si critères ci-dessus avec facteur de risque d'échec ou de complication TODO:
+  - Amoxicilline-clavulanique 1g x 3/j pendant max 5 jours
+  - Si allergie aux pénicillines: triméthoprime/sulfaméthoxazole 800/160 mg x 2/j ou ceftriaxone 1-2 g x 1/j IV ou SC
+  - Si pénurie: idem absence de facteur de risque
+  - En dernier recours: lévofloxacine 500 mg x 1/j (ne pas utiliser si *Pseudomonas aeruginosa* connu)
 - Corticothérapie orale si exacerbation marquée  
-  {{%class "text-primary"%}}Prednisone 40 mg x 1/j pendant 5 jours{{%/class%}}
+  <mark>Prednisone 40 mg x 1/j pendant 5 jours</mark> (*GOLD*)
 - Réévaluation clinique toutes les 24-72 heures
 - Avis pneumologique
   - Urgent si: suspicion de germe résistant, récidive d'exacerbation, nébulisations
@@ -530,12 +544,12 @@ bénéfices
 - Connaître les critères justifiant le recours aux urgences: dyspnée de repos, cyanose, œdèmes des membres inférieurs, troubles de la conscience. Connaître les numéros d'urgence.
 
 {{% /collapse %}}
-{{%collapse "Surveillance" %}}
+{{%collapse "Suivi de la BPCO" %}}
 
-Reprendre tous les points du *Traitement de fond* ainsi que les mesures suivantes.  
-Suivi tous les 1 à 3 mois après chaque modification de traitement et tous les 3 à 12 mois selon la sévérité de la BPCO.
+Suivi tous les 1 à 3 mois après chaque modification de traitement et 1 à 4 fois par an selon la sévérité de la BPCO.
+{.alert .alert-info}
 
-Bilan à reprendre régulièrement:
+Reprendre régulièrement tous les points du *Traitement de fond* ainsi que les mesures suivantes.:
 
 - Date du diagnostic de la BPCO
 - Statut tabagique et traitements de sevrage essayés
@@ -616,6 +630,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, SPILF, SPLF. Choix et durées d'antibiothérapie dans les exacerbations aiguës de bronchopneumopathie chronique obstructive (EABPCO). 2024.](https://www.has-sante.fr/jcms/p_3528903/fr/choix-et-durees-d-antibiotherapie-dans-les-exacerbations-aigues-de-bronchopneumopathie-chronique-obstructive-eabpco)
 - [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease 2023 Report. 2023.](https://goldcopd.org/2023-gold-report-2/)
 - [Collège des Enseignants de Pneumologie (CEP). Bronchopneumopathie chronique obstructive (BPCO). Item 209. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_209_BRONCHOPNEUMOPATHIE_CHRONIQUE_OBSTRUCTIVE_2023.pdf)
 - Prescrire Redaction. Bronchopneumopathie chronique obstructive. Premiers Choix Prescrire. Rev Prescrire. 2022.
