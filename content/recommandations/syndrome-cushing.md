@@ -18,7 +18,6 @@ icd10 = "E24.9"
 image = true
 imageSrc = "Syndrome de Cushing iatrogène avec visage bouffi et acné suite à 3 mois de traitement par fluticasone inhalée. Ozlem Celik, Mutlu Niyazoglu, Hikmet Soylu and Pinar Kadioglu, CC BY 2.5, via Wikimedia Commons"
 todo = "relecture Jérôme Bertherat"
-datatable = true
 flowchart = true
 +++
 

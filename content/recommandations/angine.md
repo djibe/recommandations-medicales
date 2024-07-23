@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2024-07-16"
+lastmod = "2024-07-23"
 specialites = ["ORL", "pediatrie"]
 annees = "2024"
 sources = ["HAS", "SPILF", "GPIP"]
@@ -17,6 +17,7 @@ icd10 = "J03.9"
 image = true
 imageSrc = "Angine érythémateuse gauche. Fireflyez76 sur Foter.com / CC BY-ND"
 flowchart = true
+modele = true
 +++
 
 {{%article-summary%}}
@@ -26,7 +27,7 @@ flowchart = true
 - Prise en charge de l'angine streptococcique par traitement antibiotique (TDR positif):
   - Éviction scolaire les 48 premières heures suivant l'instauration de l'antibiothérapie (*CMIT 2023*)
   - **NB.** Le CNGE ne préconise une antibiothérapie qu'en cas de scarlatine ou de symptômes intenses
-  - Adulte: amoxicilline 1 g 2 fois par jour pendant 6 jours
+  - Adulte: amoxicilline 1g 2 fois par jour pendant 6 jours
   - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises pendant 6 jours
   - Antibiothérapie aussi indiquée pour l'angine de Vincent, la diphtérie, le gonocoque et le [chancre syphilitique]({{< relref "syphilis.md" >}})
   - La prise en charge de l'angine pédiatrique en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
@@ -143,7 +144,7 @@ La sensibilité du TDR chez l'enfant est de 85%.
 {{% /collapse %}}
 {{%collapse "Indications à l'hospitalisation" %}}
 
-### Indications à hospitaliser une angine
+### Critères d'hospitaliser pour angine
 
 - Angine streptococcique compliquée
 - Diphtérie
@@ -248,7 +249,7 @@ Rechercher:
 
 {{< mermaid title="Prise en charge de l'angine selon le tableau clinique. Dr JB Fron d'après GPIP 2023, SPILF/HAS 2016 et HAS 2021" >}}
 graph TB
-  angine[Angine érythémateuse<br>ou érythémato-pultacée] --> moins3("&lt; 3 ans") --> viral(Viral)
+  angine[Angine érythémateuse<br>ou érythémato-pultacée] --> moins3("&lt; 3 ans") --> viral(Virale)
   style angine stroke:#4150f5, stroke-width:1px
     angine --> 314ans(3 à 14 ans) --> TDR(TDR) -- Positif --> ATB("<b>Antibiothérapie 6 jours</b><br>—<br>Adulte: amoxicilline 1g x 2/j<br>Enfant: amox 25 mg/kg x 2/j<br>+ éviction 48 heures")
       TDR -- Négatif --> viral
@@ -282,3 +283,16 @@ graph TB
 [Conseil scientifique du Collège National des Généralistes Enseignants (CNGE). Antibiotiques dans l'angine à streptocoque A : faut-il continuer ? Avis du conseil scientifique. 2024. (PDF)](https://www.cnge.fr/wp-content/uploads/2024/05/240430_CS_CNGE-angine_Vsite.pdf)
 
 {{%/sources%}}
+{{% modele %}}
+
+**Adulte**
+
+amoxicilline 1g 2 fois par jour pendant 6 jours
+
+---
+
+**Enfant**
+
+amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises pendant 6 jours
+
+{{% /modele %}}

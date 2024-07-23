@@ -1,4 +1,5 @@
 +++
+uuid = "https://www.uuidgenerator.net/version7"
 title = "{{ replace .Name '-' ' ' | title }}"
 titleSeo = "In case of long title or delete whole line (max 70 ch ... or more)"
 prefix = "la "

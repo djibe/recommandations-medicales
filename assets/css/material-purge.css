@@ -1256,6 +1256,28 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   transition: background-image 15ms linear 0.2s;
 }
 
+.btn-secondary {
+  background-color: #e87500;
+  color: white;
+}
+
+.btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
+  color: white;
+}
+
+.btn-secondary:hover {
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.08));
+}
+
+.btn-secondary:focus, .btn-secondary.focus {
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.24), rgba(255, 255, 255, 0.24));
+}
+
+.btn-secondary.active {
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.32), rgba(255, 255, 255, 0.32));
+  transition: background-image 15ms linear 0.2s;
+}
+
 .btn-lg {
   font-size: 0.9375rem;
   height: 2.5rem;
@@ -1343,6 +1365,29 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   color: rgba(0, 0, 0, 0.37);
 }
 
+
+.modal .btn-secondary,
+.modal .btn-secondary:hover,
+.modal .btn-secondary:focus {
+  color: #e87500;
+}
+
+
+.modal .btn-secondary:hover {
+  background-image: linear-gradient(to bottom, rgba(232, 117, 0, 0.04), rgba(232, 117, 0, 0.04));
+}
+
+
+.modal .btn-secondary:focus {
+  background-image: linear-gradient(to bottom, rgba(232, 117, 0, 0.12), rgba(232, 117, 0, 0.12));
+}
+
+
+.modal .btn-secondary:disabled,
+.modal .btn-secondary.disabled {
+  color: rgba(0, 0, 0, 0.37);
+}
+
 /*
 .btn-flat-light,
 .btn-outline-light {
@@ -1377,6 +1422,37 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 .btn-icon:hover, .btn-icon:focus, .btn-icon:active {
   box-shadow: none;
   color: initial;
+}
+
+.btn-float {
+  border-radius: 50%;
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.2);
+  height: 3.5rem;
+  min-width: 0;
+  padding: 0;
+  width: 3.5rem;
+}
+
+.btn-float:hover {
+  box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
+}
+
+.btn-float:active, .btn-float.active {
+  box-shadow: 0 12px 17px 2px rgba(0, 0, 0, 0.14), 0 5px 22px 4px rgba(0, 0, 0, 0.12), 0 7px 8px -4px rgba(0, 0, 0, 0.2);
+}
+
+.btn-float:disabled, .btn-float.disabled {
+  box-shadow: none;
+}
+
+.btn-float svg {
+  fill: currentColor;
+}
+
+.btn-float.btn-sm {
+  height: 2.5rem;
+  line-height: 2.5rem;
+  width: 2.5rem;
 }
 
 .card {
