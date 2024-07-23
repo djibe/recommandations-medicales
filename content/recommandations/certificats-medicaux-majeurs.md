@@ -31,7 +31,7 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{<
 
 ## Certificats médicaux exigibles chez les personnes majeures {.my-5}
 
-<div class="textfield-box textfield-box-sm">
+<div class="textfield-box form-ripple-nolabel">
   <input type="search" class="form-control" id="table-search" onkeyup="searchTable()" placeholder="Rechercher">
 </div>
 

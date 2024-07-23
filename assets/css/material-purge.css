@@ -3188,6 +3188,14 @@ textarea.form-control {
   top: calc(57px - 2px);
 }
 
+.form-ripple-nolabel::before {
+  top: calc(36px - 2px);
+}
+
+.form-ripple-bottom::before {
+  bottom: 0 !important;
+}
+
 .textfield-box .form-control, .textfield-box .custom-select {
   background-color: rgba(0, 0, 0, 0.04);
   border-radius: 12px 12px 0 0;
@@ -3236,7 +3244,7 @@ textarea.form-control {
   max-height: 3.5rem;
 }
 
-
+.textfield-box.form-ripple-nolabel::before,
 .floating-label.textfield-box.form-ripple::before {
   top: calc(3.5rem - 2px);
 }
@@ -4063,7 +4071,8 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   margin: 0 !important;
 }
 
-.mt-0 {
+.mt-0,
+.my-0 {
   margin-top: 0 !important;
 }
 
@@ -4071,7 +4080,8 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   margin-right: 0 !important;
 }
 
-.mb-0 {
+.mb-0,
+.my-0 {
   margin-bottom: 0 !important;
 }
 
@@ -4150,12 +4160,18 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   margin-top: 3rem !important;
 }
 
+
+.mx-5 {
+  margin-right: 3rem !important;
+}
+
 .mb-5,
 .my-5 {
   margin-bottom: 3rem !important;
 }
 
-.ml-5 {
+.ml-5,
+.mx-5 {
   margin-left: 3rem !important;
 }
 

@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T22:53:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2020-09-29"
+lastmod = "2024-07-20"
 specialites = ["certificats"]
 annees = "2020"
 sources = ["Assurance Maladie"]
@@ -21,8 +21,7 @@ imageSrc = "Les affections de longue durée par pch.vector / Freepik "
 todo= "Affections psychiatriques de longue durée, HCht fam"
 +++
 
-Ne pas oublier de valider le Protocole de soins (PSE) après accord de la CPAM.  
-Sur Ameli Pro, aller dans Protocoles de soins et ALD > Gérer > Filtrer: Avis du Service médical.
+Ne pas oublier de valider le Protocole de soins (PSE) après accord de la CPAM. Sur *Ameli Pro*, aller dans **Protocoles de soins et ALD** > **Gérer** > Filtrer: Avis du Service médical.
 
 {{%collapse "Définitions" %}}
 
@@ -45,8 +44,7 @@ Elle n'ouvre pas les droits à une prise en charge à 100% mais aux taux habitue
 {{% /collapse %}}
 {{%collapse "ALD exonérante - ALD 30" %}}
 
-Pathologies graves avec traitements coûteux.  
-Le patient peut accéder à des informations sur l'ALD au sein de son espace Ameli.
+Pathologies graves avec traitements coûteux. Le patient peut accéder à des informations sur l'ALD au sein de son espace Ameli. L'ALD est accordée pour 5 ans (voire 10 ans pour certaines pathologies).
 
 Liste établie par décret [révision 2011-77 (PDF)](https://www.ameli.fr/sites/default/files/Documents/3901/document/decret-2011-77_journal-officiel.pdf).
 
@@ -154,9 +152,10 @@ Le médecin doit ajouter la mention **<< suivi post-ALD >>** sur les ordonnances
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ameli Médecin. Simplification administrative : durée d'exonération du ticket modérateur allongée pour 4 ALD. 19/07/2024.](https://www.ameli.fr/medecin/actualites/simplification-administrative-duree-d-exoneration-du-ticket-moderateur-allongee-pour-4-ald-0)
+- [Ameli Médecins. Qu'est-ce qu'une affection de longue durée ?. 07/06/2024](https://www.ameli.fr/medecin/exercice-liberal/prise-charge-situation-type-soin/situation-patient-ald-affection-longue-duree/definition-ald)
 - [Ameli Médecin. Dispositif de suivi post-ALD : le médecin traitant doit faire la demande. 24/11/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/dispositif-de-suivi-post-ald-le-medecin-traitant-doit-faire-la-demande)
 - [Ameli. Qu'est-ce que le dispositif appelé Affection Longue Durée (ALD) ?. 23/11/2023.](https://www.ameli.fr/assure/droits-demarches/maladie-accident-hospitalisation/affection-longue-duree-ald/affection-longue-duree-maladie-chronique)
 - [Assurance Maladie. Critères médicaux - Admission et prolongation d'une affection de longue durée exonérante du ticket modérateur. (PDF)](https://www.ameli.fr/sites/default/files/Documents/ald-exonerante-criteres-medicaux_assurance-maladie.pdf)
-- [Ameli Médecins. Qu'est-ce qu'une affection de longue durée ?. 24/01/2023](https://www.ameli.fr/medecin/exercice-liberal/presciption-prise-charge/situation-patient-ald-affection-longue-duree/definition-ald)
 
 {{%/sources%}}

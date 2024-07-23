@@ -384,7 +384,7 @@ Bilan d'HTA:
 - Restriction sodée < 5 g/j (ou substituer par KCl)
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et réduction de la [consommation d'alcool]({{< relref "sevrage-alcool.md" >}})  
   < 2 verres/j/homme, < 1/j si femme.
-- {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} ou DASH (proches)
+- {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} ou DASH
 - Correction d'un surpoids et d'une [obésité]({{< relref "obesite-adulte.md" >}}) abdominale (102 cm homme, 88 cm femme)  
   Cible < 94 cm homme et 80 cm femme.
 - Activité physique quotidienne

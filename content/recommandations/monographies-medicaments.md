@@ -24,9 +24,9 @@ todo = "DCI, unified search, update"
 Consulter la monographie (indications, posologies, contre-indications ...) de tous les médicaments utiles en soins primaires (hors homéopathie) de la Base de données publique des médicaments (BDPM).
 {.lead .my-5}
 
-> La recherche par DCI ne fonctionne actuellement pas. Le moteur de recherche sera unifié avec celui des pathologies.
+> La recherche par DCI n'est pas encore disponible. De plus, le moteur de recherche doit être unifié avec celui des pathologies.
 
-<div class="textfield-box textfield-box-sm" style="position: sticky; top: 80px; backdrop-filter: blur(10px); z-index: 160">
+<div class="textfield-box form-ripple-nolabel form-ripple-bottom" style="position: sticky; top: 80px; backdrop-filter: blur(10px); z-index: 160">
   <input type="search" class="form-control form-group" id="search-input" placeholder="Rechercher un code médicament ...">
 </div>
 <div id="spinner">Chargement...</div>

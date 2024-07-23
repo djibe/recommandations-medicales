@@ -32,7 +32,7 @@ Les outils *OMNIPrat* et *CotaMG* permettent aux jeunes médecins d'apprendre à
 
 {{< card-link-external title="Outil d'aide à la cotation et au remplissage des feuilles de soins" url="https://www.cotamg.fr" subtitle="CotaMG">}}
 
-## Les cotations pour les médecins généralistes
+## Les cotations pour les médecins généralistes {.text-primary .mt-5}
 
 <div class="card card-hover my-3 mb-xl-5">
   <ul class="nav nav-tabs nav-justified" id="tabs-cotations" role="tablist" style="overflow-x: hidden">

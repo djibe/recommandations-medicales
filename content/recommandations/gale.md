@@ -321,4 +321,8 @@ graph TB
 - [HCSP. Survenue de un ou plusieurs cas de gale. Conduite à tenir. 2012.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=312)
 - [Omedit Centre. Prise en charge et traitement des sujets atteints de gale. Mars 2010. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/6308.pdf)
 
+### Bibliographie en attente
+
+[Morand A, et al. Management of scabies in children under 15 kg and pregnant or breastfeeding women: recommendations supported by the Centre of Evidence of the French Society of Dermatology. Br J Dermatol. 2024.](https://academic.oup.com/bjd/advance-article/doi/10.1093/bjd/ljae288/7717190)
+
 {{%/sources%}}
