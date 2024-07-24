@@ -279,7 +279,6 @@ Cible de TSH chez +65 ans: valeurs hautes de l'intervalle et toujours > 1 mUI/L.
 - Tcaps® (capsule molle, non remboursable)
 - **Lévothyroxine buvable**
 - L-Thyroxine Serb® en gouttes pédiatriques
-- Tsoludose® (non remboursable)
 {.list-group}
 
 > Les médicaments à base de lévothyroxine sont des médicaments à marge thérapeutique étroite permettant de mentionner << Non substituable >>.

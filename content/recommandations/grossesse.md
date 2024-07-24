@@ -130,7 +130,7 @@ Vaccinations Covid-19 et grippe à n'importe quel terme et coqueluche entre 20 e
 | 5e mois<br>20-24 SA || {{%tooltip "De 20 à 24 SA"%}}Écho T2{{%/tooltip%}} | Vaccin coqueluche |
 | 6e mois<br>24-28 SA || NFS, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} | ± Rattrapage coqueluche |
 | 7e mois<br>28-32 SA || {{%tooltip "32 SA"%}}Écho T3{{%/tooltip%}} | ± Rattrapage coqueluche |
-| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, prélèvement vaginal (strepto B) | VitD 100.000 UI, {{%tooltip "De septembre à janvier"%}}Abrysvo{{%/tooltip%}} (NR), ± Rattrapage coqueluche |
+| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, prélèvement vaginal (strepto B) | VitD 100.000 UI, {{%tooltip "De septembre à janvier"%}}Abrysvo{{%/tooltip%}} (NR, ND), ± Rattrapage coqueluche |
 | 9e mois<br>37-42 SA ||||
 {{< /table >}}
 
@@ -149,6 +149,7 @@ Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{< re
 - dTcaPolio à chaque grossesse entre 20 et 36 SA (BoostrixTetra, Repevax)  
   Délai minimal entre 2 doses de 4 semaines.
 - Avant ou en début de période épidémique: [grippe]({{< relref "grippe.md" >}})
+- Anti-VRS (Abrysvo) de septembre à janvier entre 32 et 36 SA (*HAS 2024*)
 
 > – {{< references/calendrier-vaccinal >}} et *Vaccination Info Service*
 
@@ -168,7 +169,7 @@ Pour toutes les femmes: double détermination du **groupe sanguin RhD** et reche
 - Si génotypage RhD fœtal:
   - Fœtus RhD positif: injection d'immunoglobuline humaine anti-D (IgRh, [Rhophylac® 300](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68484547&typedoc=R)) à 28 SA (avant si évènement à risque)
   - Fœtus RhD négatif: 2e génotypage après 15 SA à au moins 2 semaines du premier. Si RhD négatif confirmé, pas de prévention d'allo-immunisation nécessaire.
-  - Le RhD fœtal ne peut être déterminé sur 2 prélèvements: considérer comme RhD positif
+  - Si le Rhésus D fœtal ne peut être déterminé sur 2 prélèvements: le considérer comme RhD positif
 
 > – *CNGOF 2017*
 

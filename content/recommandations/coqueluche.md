@@ -6,7 +6,7 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2024-06-27"
+lastmod = "2024-07-24"
 specialites = ["infectiologie", "ORL"]
 annees = "2024"
 sources = ["HAS", "SPILF", "GPIP", "HCSP"]
@@ -15,8 +15,9 @@ english = ["Pertussis", "Whooping cough"]
 sctid = "27836007"
 icd10 = "A37"
 image = true
-imageSrc = "*Bordetella pertussis* en coloration de Gram, coccobacille Gram négatif de la coqueluche. CDC Public Health Image Library, Public domain, via Wikimedia Commons"
+imageSrc = "*Bordetella pertussis* à la coloration de Gram, coccobacille Gram négatif de la coqueluche. CDC Public Health Image Library, Public domain, via Wikimedia Commons"
 flowchart = true
+modele = true
 +++
 
 {{%article-summary%}}
@@ -29,10 +30,10 @@ Ces recommandations visent à protéger les nourrissons non immuns et personnes 
 - et antibioprophylaxie des sujets contacts proches ou à risque (voir [Antibioprophylaxie](#antibioprophylaxie-des-sujets-contacts))
 - Vaccination coqueluche
   - Une coqueluche ne modifie pas le calendrier vaccinal. L'immunité vaccinale ne persiste que 5 à 10 ans
-  - Rattrapage de la dose des 25 ans: joindre la valence coqueluche jusqu'à 39 ans
+  - Tous les rappels de dTPolio sont désormais couplés à la coqueluche (faute de dTPolio non associé)
   - [Vaccination coqueluche]({{< relref "vaccination.md" >}}) à chaque grossesse entre 20 et 36 SA  
-  - **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse si: amené à s'occuper de l'enfant les 6 premiers mois et le dernier rappel a +5 ans avant 25 ans ou +10 ans au-delà
-  - Professionnels de santé: valence coqueluche à chaque rappel
+  - **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse si: amené à s'occuper de l'enfant les 6 premiers mois et le dernier rappel a +5 ans
+  - Professionnels de santé en 2024: rappel coqueluche si +5 ans
 - [Signalement à l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}) pour au moins 2 cas de coqueluche en collectivité ou intrafamiliaux
 
 {{%/article-summary%}}
@@ -264,6 +265,7 @@ graph TB
 Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune information), HCSP 2022 (suivre *HCSP 2014*), SPILF 2020 (durée 3 jours, pas de posologie, référence biblio 2018 qui mentionne azithromycine 500 mg J1 et 250 mg J2 à J5) et enfin HCSP 2014 (azithromycine 500 mg pendant 3 jours).
 {.alert .alert-info}
 
+- [HAS. Stratégie de vaccination contre la coqueluche dans le contexte épidémique de 2024. Rappel vaccinal des professionnels au contact des personnes à risque de forme grave. 2024.](https://www.has-sante.fr/jcms/p_3531825/fr/recrudescence-de-la-coqueluche-la-has-renforce-les-recommandations-vaccinales-pour-proteger-les-nouveau-nes-et-les-nourrissons)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : coqueluche chez le nourrisson, l'enfant et l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3525542/fr/choix-et-durees-d-antibiotherapies-coqueluche-chez-le-nourrisson-l-enfant-et-l-adulte)
 - [Infovac France. Bulletin N°7 - FAQ Coqueluche. Juin 2024.](https://www.infovac.fr/actualites/bulletin-n-7-faq-coqueluche-juin-2024)
 - [DGS-Urgent 2024_08. 07/06/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
@@ -277,3 +279,19 @@ Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune inf
 - [ECDC. Pertussis](https://www.ecdc.europa.eu/en/pertussis)
 
 {{%/sources%}}
+{{% modele %}}
+
+- Éviction de la collectivité 5 jours
+- Antibioprophylaxie des sujets contacts proches ou à risque
+
+**Adulte**
+
+clarithromycine 500 mg x 2/j pendant 7 jours
+
+---
+
+**Enfant**
+
+clarithromycine 1 dose-poids x 2/j pendant 7 jours
+
+{{% /modele %}}

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2024-07-16"
+lastmod = "2024-07-24"
 specialites = ["infectiologie", "pediatrie", "therapeutique"]
 annees = "2024"
 sources = ["MinSanté", "HCSP"]
@@ -166,7 +166,9 @@ Lire le *Calendrier vaccinal* page 75.
 
 > *[Loi du 30 décembre 2017](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171)*
 
-Si l'infraction vient du médecin de l'enfant, il peut être poursuivi par le CDOM, l'ARS voire la [miviludes](https://www.miviludes.interieur.gouv.fr).
+Au 1er janvier 2025, vaccination obligatoire des nourrissons contre les méningocoques B et ACWY.
+
+Si l'infraction vient du médecin de l'enfant, il peut être poursuivi par le *CDOM*, l'*ARS* voire la [miviludes](https://www.miviludes.interieur.gouv.fr).
 
 {{% /collapse %}}
 {{%collapse "Populations à risque" %}}
@@ -316,6 +318,7 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
+- [Journal Officiel. Décret n° 2024-694 du 5 juillet 2024 relatif à l'obligation vaccinale contre les méningocoques de type B et ACWY. 21/07/2023.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047867676)
 - [HAS. Stratégie de vaccination contre les infections invasives à méningocoques - Évaluation de l'interchangeabilité des vaccins méningococciques tétravalents pour l'administration de la dose de rappel à l'âge de 12 mois. 2024.](https://www.has-sante.fr/jcms/p_3528695/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques-evaluation-de-l-interchangeabilite-des-vaccins-meningococciques-tetravalents-pour-l-administration-de-la-dose-de-rappel-a-l-age-de-12-mois)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
 - {{< references/calendrier-vaccinal >}}

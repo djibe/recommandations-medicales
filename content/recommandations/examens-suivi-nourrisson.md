@@ -102,7 +102,8 @@ Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{
 | 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>NR: Nimenrix, MenQuadfi ou<br>Menveo (pas d'aiguille)  |
 {{< /table >}}
 
-**NB.** Le Nimenrix peut être réalisé à M6-M12 en remplacement du Neisvac M5-M12 (non remboursé). Neisvac M5 et Nimenrix M12 (NR) est également possible.
+**NB.** Le Nimenrix peut être réalisé à M6-M12 en remplacement du Neisvac M5-M12 (non remboursé). Neisvac M5 et Nimenrix M12 (NR) est également possible.  
+Au 1er janvier 2025, vaccination obligatoire des nourrissons contre les méningocoques B et ACWY.
 
 **Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours avec pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles. Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
 

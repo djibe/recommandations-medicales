@@ -157,6 +157,8 @@ Pour la vaccination des **sujets contacts** en prévention secondaire, lire *Cal
 
 #### Méningocoque A/W/Y
 
+> Au 1er janvier 2025, vaccination obligatoire des nourrissons contre les méningocoques B et ACWY
+
 Vaccination de la méningite A, W, Y en prévention primaire avec **dose unique**: adolescent de 11 à 14 ans (rattrapage jusqu'à 24 ans), immunodépression ([asplénie]({{< relref "asplenie.md" >}})), laboratoire travaillant sur le méningocoque, voyage (La Mecque).
 
 Pour la HAS, intérêt chez tous les nourrissons à 5 et 12 mois à la place du vaccin Méningo C (voir paragraphe précédent).
@@ -173,6 +175,8 @@ Dans les 2 cas, vacciner contre la méningite C.
 Pour la vaccination des sujets contacts en prévention secondaire d'un sérogroupe A, W ou Y, lire *Calendrier vaccinal*.
 
 #### Méningocoque B
+
+> Au 1er janvier 2025, vaccination obligatoire des nourrissons contre les méningocoques B et ACWY.
 
 Vaccination de la méningite B en prévention primaire: recommandée à 3 mois, 5 mois et 12 mois par [Bexsero®](https://ec.europa.eu/health/documents/community-register/2021/20210701152279/anx_152279_fr.pdf). Rattrapage jusqu'à 23 mois.
 
@@ -266,6 +270,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Journal Officiel. Décret n° 2024-694 du 5 juillet 2024 relatif à l'obligation vaccinale contre les méningocoques de type B et ACWY. 21/07/2023.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047867676)
 - [CMIT. Méningites, méningo-encéphalites, abcès cérébral chez l'adulte et l'enfant. Item 151. Pilly Etudiant. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-151-version2024-copyright-1.pdf)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Infections invasives à méningocoques : des recommandations vaccinales actualisées. 27/03/2024.](https://has-sante.fr/jcms/p_3502914/fr/infections-invasives-a-meningocoques-des-recommandations-vaccinales-actualisees)
