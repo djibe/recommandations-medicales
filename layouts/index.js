@@ -1,21 +1,26 @@
 // Service Worker
-const CACHE_VERSION = 'v1';
+const CACHE_VERSION = 'v2';
 const CACHE_NAME = 'my-cache-' + CACHE_VERSION;
 const FILES_TO_CACHE = [
   '/',
-  '/sass/',
   '/offline/',
+  '/recommandations/',
+  '/scores/',
   '/index.json',
   '/manifest.webmanifest',
   '/android-chrome-512x512.png'
 ];
 
-self.addEventListener('appinstalled', function(event) {
+self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open(CACHE_NAME).then(function(cache) {
       return cache.addAll(FILES_TO_CACHE);
     })
   );
+});
+
+self.addEventListener('appinstalled', function(event) {
+  // Perform additional tasks after the app is installed
   console.log('App was installed.');
 });
 
@@ -36,8 +41,18 @@ self.addEventListener('fetch', function(event) {
           });
         }
 
+        // If the network request failed and the requested page is not the offline page, return the offline page.
+        if (!networkResponse.ok && event.request.mode === 'navigate') {
+          return caches.match('/offline/');
+        }
+
         // Return the network response.
         return networkResponse;
+      }).catch(function() {
+        // If the network request failed and the requested page is not the offline page, return the offline page.
+        if (event.request.mode === 'navigate') {
+          return caches.match('/offline/');
+        }
       });
     })
   );
