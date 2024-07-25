@@ -1,27 +1,32 @@
+ {{ $sass := resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint "sha384" }}
+
 // Service Worker
-const CACHE_VERSION = 'v2';
+const CACHE_VERSION = 'v3';
 const CACHE_NAME = 'my-cache-' + CACHE_VERSION;
 const FILES_TO_CACHE = [
   '/',
   '/offline/',
   '/recommandations/',
+  '/images/icons/recommandations.svg',
+  '/cabinet/',
+  '/images/icons/cabinet.svg',
+  '/articles/',
+  '/images/icons/articles.svg',
   '/scores/',
   '/index.json',
   '/manifest.webmanifest',
-  '/android-chrome-512x512.png'
+  '/android-chrome-512x512.png',
+  '/images/icons/banner-og.jpg',
+  '/images/icons/placeholder.svg',
+  '{{ $sass.Permalink }}'
 ];
 
-self.addEventListener('install', function(event) {
+self.addEventListener('appinstalled', function(event) {
   event.waitUntil(
     caches.open(CACHE_NAME).then(function(cache) {
       return cache.addAll(FILES_TO_CACHE);
     })
   );
-});
-
-self.addEventListener('appinstalled', function(event) {
-  // Perform additional tasks after the app is installed
-  console.log('App was installed.');
 });
 
 self.addEventListener('fetch', function(event) {
