@@ -8,10 +8,10 @@ synonyms = ["Rhinosinusites infectieuses aiguës"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-18T09:20:00+02:00"
 publishdate = "2021-01-18"
-lastmod = "2024-01-11"
+lastmod = "2024-07-25"
 specialites = ["ORL"]
-annees = "2023"
-sources = ["GPIP", "HAS", "SPILF"]
+annees = "2024"
+sources = ["HAS", "SPILF", "GPIP"]
 tags = ["toux"]
 english = ["Sinusitis"]
 sctid = "36971009"
@@ -134,8 +134,6 @@ Méthode: ponction ou prélèvement au méat moyen.
 {{% /collapse %}}
 {{%collapse "Traitement de la sinusite" %}}
 
-[Contrôler l'antibiothérapie sur Antibioclic](https://antibioclic.com/questionnaire/45).
-
 ### Mesures générales de prise en charge de la sinusite
 
 - Consulter le dentiste si SMA unilatérale (fétide ++)
@@ -169,7 +167,7 @@ Pas d'antibiothérapie si diagnostic incertain.
 Antibiotique de référence pour la prise en charge de la sinusite maxillaire:
 
 - **Adulte:** Amoxicilline 1 g x 3/j pendant 7 jours
-- **Enfant:** Amoxicilline 80-100 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours
+- **Enfant:** Amoxicilline 80 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours (80-100 selon *GPIP 2023*)
 {{%/info%}}
 
 En cas de pénurie, traitement différé si possible: amoxicilline cp 1 g dispersible toutes les 12 heures pendant 5 jours  
@@ -179,13 +177,15 @@ En cas de pénurie, traitement différé si possible: amoxicilline cp 1 g disper
 ##### Antibiotique en cas d'échec ou d'origine dentaire
 
 - **Adulte:** Amoxicilline-acide clavulanique 1 g x 3/j pendant 7 jours
-- **Enfant:** Amoxicilline-acide clavulanique 1 dose-kg x 3/j pendant 10 jours
+- **Enfant:** Amoxicilline-acide clavulanique 80 mg/kg/j pendant 10 jours
+  - Si allergie: céfpodoxime 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 10 jours
+  - Si allergie aux bêta-lactamines: sulfaméthoxazole-triméthoprime 30 mg/kg/j en 2 prises (max 800/160 mg/j) pendant 10 jours
 
 ##### Allergie à la pénicilline sans allergie aux céphalosporines
 
 - **Adulte:** Céfuroxime-axétil 250 mg x 2/j pendant 5 jours  
   ou céfpodoxime 200 mg x 2/j pendant 5 jours
-- **Enfant:** Céfpodoxime 8 mg/kg/j en 2 prises pendant 10 jours
+- **Enfant:** Céfpodoxime 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 10 jours
 
 ##### Contre-indication aux bêtalactamines
 
@@ -193,44 +193,47 @@ En cas de pénurie, traitement différé si possible: amoxicilline cp 1 g disper
   - voire lévofloxacine po: 500 mg x 1/j pendant 7 jours
   - Selon Prescrire®: spiramycine 3 MU x 2-3/j
   - ou azithromycine 2 x 250 mg x 1/j pendant 3 jours
-- **Enfant +6 ans:** pristinamycine 50 mg/kg/j en 2-3/j pendant 8 jours
-- **Enfant < 6 ans:** Triméthoprime-sulfaméthoxazole 15 mg/kg x 2/j pendant 8 jours
+- **Enfant +6 ans:** pristinamycine 50 mg/kg/j en 2 prises pendant 10 jours
+- **Enfant < 6 ans:** sulfaméthoxazole-triméthoprime 30 mg/kg/j (max 800/160 mg/j) en 2 prises pendant 10 jours
 
 #### Antibiothérapie de la sinusite frontale
+
+**NB.** Le sinus frontal apparaît vers 10 ans.
 
 {{%info%}}
 Antibiotique de référence pour la prise en charge de la sinusite frontale:
 
 - **Adulte:** Amoxicilline-a. clavulanique 1 g/125 mg x 3/j pendant 7 jours
-- **Enfant:** Amoxicilline 80 mg/kg/j en 2-3/j pendant 7 jours
+- **Enfant:** Amoxicilline 80 mg/kg/j en 2 prises pendant 10 jours
 {{%/info%}}
 
 ##### Allergie à la pénicilline sans allergie céphalosporines (sinusite frontale)
 
 - **Adulte:** Céfpodoxime 200 mg x 2/j pendant 5 jours  
   ou céfuroxime-axétil 250 mg x 2/j pendant 5 jours
-- **Enfant:** Avis spécialisé
+- **Enfant:** Céfpodoxime 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 10 jours
+
+Si enfant avec allergie aux bêta-lactamines: voir Sinusite maxillaire.
 
 ##### Forme sévère ou contre-indication aux bêtalactamines (sinusite frontale)
 
 - **Adulte:** Lévofloxacine 500 mg x 1/j pendant 7 jours  
   ou moxifloxacine (effets indésirables graves)
-- **Enfant:** Avis spécialisé
 
 #### Antibiothérapie de la sinusite sphénoïdale ou ethmoïdite de forme mineure
 
-Scanner des sinus nécessaire.
+**Scanner des sinus** nécessaire.
 
 Antibiotique de référence pour la prise en charge de la sinusite sphénoïdale ou ethmoïdite de forme mineure:
 
 - **Adulte:** Amoxicilline-acide clavulanique 1 g/125 mg x 3/j pendant 7 jours
-- **Enfant:** Amoxicilline-acide clavulanique 1 dose-kg x 3/j pendant 10 jours
+- **Enfant:** avis spécialisé ORL ou pédiatrique en urgence
 
 ##### Allergie à la pénicilline sans allergie céphalosporines (sphénoïdale ou ethmoïdite)
 
 - **Adulte:** céfpodoxime 200 mg x 2/j pendant 5 jours  
   ou céfuroxime-axétil 250 mg x 2/j pendant 5 jours
-- **Enfant:** Avis spécialisé
+- **Enfant:** avis spécialisé ORL ou pédiatrique en urgence
 
 ##### Forme sévère ou contre-indication aux bêtalactamines (sphénoïdale ou ethmoïdite)
 
@@ -240,8 +243,7 @@ Antibiotique de référence pour la prise en charge de la sinusite sphénoïdale
 
 ### Prise en charge de la sinusite en présence de complication
 
-**Hospitalisation en urgence**.  
-Prélèvements bactériologiques, scanner, antibiothérapie intraveineuse urgente.
+**Hospitalisation en urgence** (prélèvements bactériologiques, scanner, antibiothérapie intraveineuse urgente).
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une sinusite" "show" %}}
@@ -259,9 +261,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Sinusites de l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722824/fr/choix-et-durees-d-antibiotherapies-sinusites-de-l-enfant)
 - [Cohen R et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471)
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
-- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
 - [HAS. Fiche mémo - Sinusite de l'adulte. 2016. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2016-11/v1-fm_sinusite_adulte-171116.pdf)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)

@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-10T13:36:06+02:00"
 publishdate = "2022-11-07"
-lastmod = "2024-07-15"
+lastmod = "2024-07-25"
 specialites = ["infectiologie", "urologie"]
-annees = "2021"
+annees = "2024"
 sources = ["HAS", "SPILF"]
 tags = ["douleur pelvienne", "fievre", "grossesse"]
 english = ["Urinary tract infections"]
@@ -57,7 +57,7 @@ La bandelette urinaire détecte une leucocyturie (seuil 10<sup>4</sup> leucocyte
 Devant des signes évocateurs d'infection urinaire (IU) chez l'immunocompétent, une bandelette urinaire normale permet d'éliminer une IU chez la femme (VPN +95%) ou en faveur d'infection urinaire masculine lorsqu'elle est positive (VPP +90%)
 {.alert .alert-info}
 
-**NB.** Une BU peut être réalisée en pharmacie en cas de suspicion de cystite simple. La patiente est orientée vers le médecin en cas de positivité.
+**NB.** Une BU peut être réalisée en pharmacie en cas de suspicion de cystite simple. La patiente peut être traitée par un pharmacien formé en cas de positivité.
 
 ### Examen cytobactériologique des urines (ECBU)
 
@@ -127,9 +127,9 @@ Colonisation urinaire
 
 ### Cystite aiguë simple
 
-Symptômes de la cystite: brûlures mictionnelles, pollakiurie, impériosité/urgenturie ou dysurie dits signes fonctionnels urinaires (SFU), urines troubles ou hématuriques.
+Symptômes de la cystite de la femme: **brûlures mictionnelles**, pollakiurie, impériosité/**urgenturie** ou dysurie dits signes fonctionnels urinaires (SFU), urines troubles ou hématuriques.
 
-Prise en charge de la cystite par **BU** (leucocytes+ voire nitrites+) et antibiothérapie probabiliste:
+Prise en charge de la cystite de la femme par **BU** (leucocytes + voire nitrites +) et antibiothérapie probabiliste:
 
 1. <mark>[Fosfomycine trométamol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66430643&typedoc=R) 3g dose unique</mark>
 2. [Pivmécillinam](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60670489&typedoc=R) (Selexid®) 400 mg x 2/j pendant 3 jours
@@ -152,9 +152,9 @@ Antibiothérapie probabiliste uniquement en cas de symptômes marqués:
 
 1. [Nitrofurantoïne](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62013296&typedoc=R) (Furadantine®) 100 mg x 3/j pendant le repas pendant 7 jours  
   Sauf clairance < 45 mL/min.
-2. Fosfomycine trométamol 3g dose unique
+2. Fosfomycine trométamol 3g à J1, J3 et J5
 
-Antibiotique de préférence adapté à l'antibiogramme:
+Antibiotique de préférence **adapté à l'antibiogramme**:
 
 1. <mark>Amoxicilline 1g x 3/j pendant 7 jours</mark>
 2. Pivmécillinam (Selexid®) 400 mg x 2/j pendant 7 jours
@@ -164,13 +164,14 @@ ECBU de contrôle uniquement en l'absence d'amélioration à 72 heures ou récid
 
 Bladder-scan si suspicion de rétention aiguë d'urines.
 
-### Cystite récidivante
+### Cystite aiguë récidivante
 
 Cystite aiguë récidivante
 : Au moins 4 cystites sur 12 mois, associées ou non à un {{< modal-btn modal-fdr-complication >}}facteur de risque de complication{{< /modal-btn >}} (vessie neurologique ++).
 : L'objectif est le **contrôle des symptômes** et non la stérilisation des urines.
 
-ECBU pour les premiers épisodes de récidive et uniquement en cas d'échec après 72 heures de traitement.  
+ECBU pour les premiers épisodes de récidive et uniquement en cas d'échec après 72 heures de traitement.
+
 Chez la femme non ménopausée, examen clinique pelvien et urétral et [calendrier mictionnel (PDF)](https://www.urofrance.org/fileadmin/medias/scores/catalogue-mictionnel.pdf).
 
 Bilan avec échographie des voies urinaires et mesure du résidu post-mictionnel (RPM), voire débitmétrie urinaire, bilan urodynamique, uroscanner sur avis spécialisé.
@@ -179,7 +180,7 @@ Bilan avec échographie des voies urinaires et mesure du résidu post-mictionnel
 
 - Avec {{< modal-btn modal-fdr-complication >}}facteur de risque de complication{{< /modal-btn >}}: concertation pluridisciplinaire
 - Sans aucun facteur de risque de complication
-  - Traitement d'une cystite simple (sauf nitrofurantoïne) jusqu'à 1 fois par mois
+  - Traitement d'une cystite aiguë simple (sauf nitrofurantoïne)
   - Si éducation possible: auto-BU et auto-antibiothérapie si positive, suivi semestriel
 
 Éviter au maximum une **antibioprophylaxie** au long cours. En dernier recours avec > 1 épisode par mois et échec des autres mesures, sur avis spécialisé, par fosfomycine trométamol 3g 1 dose/semaine ou triméthoprime 150 mg/j au coucher (voire cotrimoxazole 400/80 mg/j au coucher).
@@ -206,11 +207,11 @@ Pyélonéphrite aiguë (PNA)
 : Infection urinaire le plus souvent bactérienne atteignant le rein.
 : Signes fonctionnels urinaires avec douleurs en fosse lombaire unilatérale (spontanée ou provoquée), signes digestifs, signes généraux (fièvre, frissons).
 
-BU et si positive **ECBU**.
+> BU et si positive **ECBU**.
 
 {{%warning%}}
 
-### Indications à une hospitalisation pour pyélonéphrite aiguë
+### Critères d'hospitalisation pour pyélonéphrite aiguë
 
 - Signe de gravité
 - Immunodépression grave
@@ -225,14 +226,14 @@ BU et si positive **ECBU**.
 
 ### Pyélonéphrite aiguë simple
 
-Antibiothérapie probabiliste de la pyélonéphrite aiguë simple juste **après l'ECBU**:
+Antibiothérapie probabiliste de la pyélonéphrite aiguë simple juste **après l'ECBU** dans l'attente de l'antibiogramme:
 
 1. <mark>Ciprofloxacine 500 mg x 2/j ou lévofloxacine 500 mg/j</mark>  
   Sauf fluoroquinolone dans les 6 mois.
 2. Ceftriaxone IM 1 g/j (2g si obèse)
 3. Hospitalisation
 
-> **Échographie rénale** sous 24 heures si évolution défavorable après 72 heures d'antibiothérapie.
+> **Échographie rénale** sous 24 heures si hyperalgique ou ensuite si évolution défavorable après 72 heures d'antibiothérapie.
 
 **Adaptation à l'antibiogramme** dès le rendu des résultats:
 
@@ -249,19 +250,18 @@ Antibiothérapie probabiliste de la pyélonéphrite aiguë simple juste **après
     3. Céfoxitine  
     4. Hospitalisation
 
-**Réévaluation systématique à 72 heures**. **ECBU de contrôle** uniquement en cas d'évolution défavorable après 72 heures.
+**Réévaluation systématique à 72 heures**. ECBU de contrôle uniquement en cas d'évolution défavorable après 72 heures.
 
 ### Pyélonéphrite aiguë à risque de complication
 
 En présence d'une pyélonéphrite avec {{< modal-btn modal-fdr-complication >}}facteur de risque de complication{{< /modal-btn >}} sans signe de gravité:
 
 - Bilan biologique: CRP, créatininémie
-- Uroscanner en urgence (max 24h) ou à défaut échographie rénale
+- Uroscanner en urgence (max 24h). Échographie rénale si contre-indiqué.
 
-Antibiotiques identiques à la pyélonéphrite aiguë simple (chapitre précédent) pendant 10 jours.
+Antibiothérapie **identique à la pyélonéphrite aiguë simple** (chapitre précédent) pendant 10 jours.
 
-**Réévaluation systématique à 72 heures**.  
-ECBU de contrôle uniquement en cas d'évolution défavorable après 72 heures.
+**Réévaluation systématique à 72 heures**. ECBU de contrôle uniquement en cas d'évolution défavorable après 72 heures.
 
 {{% /collapse %}}
 {{%collapse "Infections urinaires pendant la grossesse" %}}
@@ -270,7 +270,7 @@ ECBU de contrôle uniquement en cas d'évolution défavorable après 72 heures.
 
 Colonisation urinaire gravidique
 : Patiente asymptomatique avec un ECBU positif avec un seul germe à titre ≥ **10<sup>5</sup> UFC/mL**. Idéalement 2 ECBU positifs à une semaine d'intervalle sont requis pour le diagnostic (en pratique 1 seul est admis).
-: Dépistage par **BU mensuelle** (ECBU en cas d'IU pendant la grossesse, uropathie, diabète, antécédent de cystites récidivantes).
+: Dépistage par **BU mensuelle** à partir du 4e mois (ECBU en cas d'IU pendant la grossesse, uropathie, diabète, antécédent de cystites récidivantes).
 
 Prise en charge de la colonisation urinaire gravidique par **antibiothérapie systématique** d'emblée adaptée à l'antibiogramme:
 
@@ -278,17 +278,17 @@ Prise en charge de la colonisation urinaire gravidique par **antibiothérapie sy
 2. Pivmécillinam (Selexid®) 400 mg x 2/j pendant 7 jours
 3. Fosfomycine trométamol 3g dose unique
 4. Triméthoprime 300 mg/j pendant 7 jours  
-  Éviter les 10 premières semaines d'aménorrhée.
-5. Alternatives pendant 7 jours: nitrofurantoïne 100 mg x 3/j, cotrimoxazole 800/160 mg x 2/j (éviter < 10 SA), amoxicilline-acide clavulanique 1g x 3/j
+  Éviter avant 10 SA.
+5. Alternatives pendant 7 jours: nitrofurantoïne 100 mg x 3/j, cotrimoxazole 800/160 mg x 2/j (éviter avant 10 SA), amoxicilline-clavulanique 1g x 3/j
 
 **ECBU de contrôle** à J8-J10 puis mensuel jusqu'à l'accouchement.
 
 > **NB.** Une infection urinaire à Streptocoque B pendant la grossesse impose une antibioprophylaxie péri-natale.
 
-### Cystite pendant la grossesse
+### Cystite aiguë pendant la grossesse
 
 Cystite gravidique
-: **ECBU systématique** avec mêmes seuils que pour les IU non gravidiques (voir *[BU et ECBU](#bu-et-ecbu)*).
+: Symptômes fonctionnels urinaires avec infection et **ECBU systématique** avec mêmes seuils que pour les IU non gravidiques (voir *[BU et ECBU](#bu-et-ecbu)*).
 
 **Antibiothérapie systématique** probabiliste d'une cystite aiguë de la femme enceinte:
 
@@ -301,9 +301,9 @@ En cas d'échec ou de résistance:
 
 1. <mark>Amoxicilline 1g x 3/j pendant 7 jours</mark>
 2. Triméthoprime 300 mg/j pendant 7 jours  
-  Éviter les 10 premières semaines d'aménorrhée.
+  Éviter avant 10 SA.
 3. Nitrofurantoïne 100 mg x 3/j pendant le repas pendant 7 jours
-4. Alternatives pendant 7 jours: cotrimoxazole 800/160 mg x 2/j (éviter < 10 SA) ou amoxicilline-acide clavulanique 1g x 3/j
+4. Alternatives pendant 7 jours: cotrimoxazole 800/160 mg x 2/j (éviter avant 10 SA) ou amoxicilline-clavulanique 1g x 3/j
 
 ### Pyélonéphrite pendant la grossesse
 
@@ -357,23 +357,24 @@ Traitement prolongé 21 jours si uropathie non corrigée ou autre antibiotique.
 {{% /collapse %}}
 {{%collapse "Prise en charge des infections urinaires" "show" %}}
 
-{{< mermaid title="Prise en charge d'une pyélonéphrite en ambulatoire. Dr JB Fron d'après HAS 2021 et SPILF 2018" >}}
+{{< mermaid title="Prise en charge d'une pyélonéphrite en ambulatoire. Dr JB Fron d'après HAS/SPILF 2024" >}}
 graph TB
-accTitle: Prise en charge d'une pyélonéphrite en ambulatoire d'après HAS 2021 et SPILF 2018
   pna[Pyélonéphrite aiguë] --> gravite("Gravité, grossesse ou obstacle ?<br>- qSOFA ≥ 2<br>- Choc septique")
-  style pna stroke:#4150f5, stroke-width:1px
   gravite -- Non --> homme(Homme ?)
     homme -- Non --> complication("<b>Facteur de risque<br>de complication ?</b><br>—<br>- Uropathie<br>- Acte uro récent<br>- +75 ans<br>- +65 ans avec 3 fragilités<br>- IRC sévère<br>- Immunodépression grave")
       complication -- Non --> simple(PNA simple)
       complication -- Oui --> arisque("PNA à risque de complication<br>—<br>- Biologie<br>- Uroscanner urgent")
     homme -- Oui --> masculine(IU masculine)
   gravite -- Oui --> urgences(Urgences)
+  style pna stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS, SPILF. Durées d'antibiothérapies préconisées dans les infections bactériennes courantes - Volet 1. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3529230/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-adulte)
+- [HAS, SPILF. Choix et durées d'antibiothérapies : Cystite aiguë simple, à risque de complication ou récidivante, de la femme. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722827/fr/choix-et-durees-d-antibiotherapies-cystite-aigue-simple-a-risque-de-complication-ou-recidivante-de-la-femme)
+- [HAS, SPILF. Choix et durées d'antibiothérapies : Pyélonéphrite aiguë de la femme. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722914/fr/choix-et-durees-d-antibiotherapies-pyelonephrite-aigue-de-la-femme)
+- [HAS, SPILF. Choix et durées d'antibiothérapies : Femme enceinte : colonisation urinaire et cystite. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722927/fr/choix-et-durees-d-antibiotherapies-femme-enceinte-colonisation-urinaire-et-cystite)
 - [Williams G et al. Cranberries for preventing urinary tract infections. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001321.pub7/full/fr)
 - [HAS. Antibiogrammes ciblés pour les infections urinaires à Entérobactéries dans la population féminine adulte (à partir de 12 ans). 2023.](https://www.has-sante.fr/jcms/p_3262788/fr/antibiogrammes-cibles-pour-les-infections-urinaires-a-enterobacteries-dans-la-population-feminine-adulte-a-partir-de-12-ans)
 - [Arrêté du 31 mars 2022 portant approbation de la Convention nationale organisant les rapports entres les pharmaciens titulaires d'officine et l'assurance maladie. Journal Officiel. (PDF)](https://www.ameli.fr/sites/default/files/Documents/convention-pharmaciens-titulaires-officine_journal-officiel.pdf)

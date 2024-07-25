@@ -3,6 +3,7 @@ title = "Les outils de traduction pour les consultations médicales avec des pat
 titleSeo = "Outils de traduction pour médecins"
 noindex = true
 description = "Outils de traduction pour effectuer des consultations de médecine générale avec des patients ne parlant pas français. Traductions en temps réel, dictionnaires"
+longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-23T14:40:00+02:00"
 publishdate = "2023-06-23"

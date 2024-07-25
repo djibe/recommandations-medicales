@@ -1,6 +1,7 @@
 +++
 title = "La Classification internationale des soins primaires (CISP-2)"
 description = "Navigateur de la Classification internationale des soins primaires CISP2 pour le codage des épisodes de soins du médecin généraliste"
+longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-06-21T09:36:00+02:00"
 publishdate = "2024-06-21"
