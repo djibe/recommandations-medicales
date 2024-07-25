@@ -1,4 +1,5 @@
 +++
+id = "0190e8cc-0822-76c4-8103-8d9ae727d7a2"
 title = "Statines"
 prefix = "les "
 description = "Recommandations pour la prise en charge de la dyslipidémie par statines. Intensité de la statine, objectif de LDL selon le risque cardiovasculaire: simvastatine"

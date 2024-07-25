@@ -1,4 +1,5 @@
 +++
+id = "0190e8bd-f886-7644-81ba-ef487d14f723"
 title = "Soins palliatifs des cancers"
 titleSeo = "TODO:"
 prefix = "les "

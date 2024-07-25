@@ -1,4 +1,5 @@
 +++
+id = "0190e8c2-dd1c-7667-90d4-1dfbc300df40"
 title = "Fibrillation atriale (FA ou fibrillation auriculaire ACFA)"
 prefix = "la "
 titleSeo = "Fibrillation atriale ACFA"

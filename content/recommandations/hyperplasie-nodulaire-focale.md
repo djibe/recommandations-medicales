@@ -1,4 +1,5 @@
 +++
+id = "0190e8c4-f7fb-7acd-a04f-bf2c261082bc"
 title = "Hyperplasie nodulaire focale (HNF)"
 titleSeo = "Hyperplasie nodulaire focale HNF"
 prefix = "l'"

@@ -1,4 +1,5 @@
 +++
+id = "0190e8c9-65a3-7e9b-8df4-590e30974158"
 title = "Orgelet"
 prefix = "l'"
 description = "Recommandations pour la prise en charge d'une orgelet. Furoncle de la paupière à Staphylocoque doré avec traitement par collyre antibiotique pendant 8 jours"

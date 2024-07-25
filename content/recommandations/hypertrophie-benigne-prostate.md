@@ -1,4 +1,5 @@
 +++
+id = "0190e8c5-6519-715b-aa5c-a7bda6a654e5"
 title = "Hypertrophie bénigne de la prostate (HBP)"
 prefix = "l'"
 titleSeo = "Hypertrophie bénigne prostate HBP"

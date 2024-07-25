@@ -1,4 +1,5 @@
 +++
+id = "0190e8c6-4ec2-7d50-86f6-d37293ff8ba6"
 title = "Infections urinaires communautaires : cystite, pyélonéphrite et infection urinaire masculine"
 prefix = "les "
 titleSeo = "Infections urinaires pyélonéphrite"

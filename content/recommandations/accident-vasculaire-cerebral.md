@@ -1,4 +1,5 @@
 +++
+id = "0190e8b5-0430-7d20-9cde-4f3d14ec0e0e"
 title = "Accident vasculaire cérébral (AVC)"
 prefix = "l'"
 titleSeo = "Accident vasculaire cérébral"

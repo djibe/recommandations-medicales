@@ -1,4 +1,5 @@
 +++
+id = "0190e8bd-7ca0-7736-b588-af07c9f47670"
 title = "Cancer de l'endomètre"
 prefix = "le "
 description = "Recommandations pour la prise en charge du cancer de l'endomètre. Suspecter devant des métrorragies post-ménopausiques. Echographie pelvienne urgente et biopsie"

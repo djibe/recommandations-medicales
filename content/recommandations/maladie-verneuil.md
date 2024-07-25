@@ -1,4 +1,5 @@
 +++
+id = "0190e8c7-f0ec-779d-a7bc-f62967159089"
 title = "Maladie de Verneuil"
 prefix = "la "
 noindex = true

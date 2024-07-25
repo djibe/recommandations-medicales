@@ -1,4 +1,5 @@
 +++
+id = "0190e8c6-8daf-7c5f-a03d-133ebe1bf4e3"
 title = "Insuffisance cardiaque chronique"
 prefix = "l'"
 titleSeo = "Insuffisance cardiaque"

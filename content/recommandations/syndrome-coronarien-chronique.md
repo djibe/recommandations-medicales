@@ -1,4 +1,5 @@
 +++
+id = "0190e8cc-aeeb-7d74-98ac-e1b357de7880"
 title = "Cardiopathie ischémique: Syndrome coronarien chronique (SCC)"
 titleSeo = "Syndrome coronarien chronique"
 prefix = "le "

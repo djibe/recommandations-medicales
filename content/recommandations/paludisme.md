@@ -1,4 +1,5 @@
 +++
+id = "0190e8c9-c2ba-7d0a-9764-cf9bddfe06d1"
 title = "Paludisme"
 prefix = "le "
 description = "Recommandations pour la prévention du paludisme et la prise en charge d'une suspicion d'accès palustre. Prophylaxie anti moustiques et atovaquone Malarone ..."

@@ -1,4 +1,5 @@
 +++
+id = "0190e8c2-50f7-789f-8e68-2f53287f0e58"
 title = "Enthésopathie calcanéenne"
 prefix = "l'"
 titleSeo = "Épine calcanéenne"

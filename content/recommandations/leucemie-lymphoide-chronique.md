@@ -1,4 +1,5 @@
 +++
+id = "0190e8c7-3afb-7ef4-b18b-2ec722417feb"
 title = "Leucémie lymphoïde chronique (LLC)"
 titleSeo = "Leucémie lymphoïde chronique"
 prefix = "la "

@@ -1,4 +1,5 @@
 +++
+id = "0190e8c7-8e17-7e23-baa2-eb145e92b248"
 title = "Maladie cœliaque"
 prefix = "la "
 longHtml = true

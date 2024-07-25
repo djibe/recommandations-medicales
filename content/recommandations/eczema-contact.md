@@ -1,4 +1,5 @@
 +++
+id = "0190e8c1-d369-7736-8a83-da7f7913b36e"
 title = "Eczéma de contact"
 prefix = "l'"
 description = "TODO:"

@@ -1,4 +1,5 @@
 +++
+id = "0190e8d7-2cb6-748b-b1b2-c19ef13f52d2"
 title = "Vitiligo"
 prefix = "le "
 description = "Recommandations pour le traitement et la prise en charge du vitiligo. Suivi dermatologique et traitement par dermocorticoïdes et photothérapie UVB"

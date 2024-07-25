@@ -1,4 +1,5 @@
 +++
+id = "0190e8c7-6c5f-716c-bf5f-9352a90a5aa5"
 title = "Lymphopénie"
 prefix = "la "
 description = "Recommandations pour la prise en charge d'une lymphopénie. Bilan de lymphopénie: NFS, électrophorèse des protéines, anticorps, immunophénotypage lymphocytaire"

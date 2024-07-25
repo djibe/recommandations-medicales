@@ -1,4 +1,5 @@
 +++
+id = "0190e8c4-d2fb-7f76-a59e-be72c277e3ee"
 title = "Éosinophilie et hyperéosinophilies"
 prefix = "l'"
 titleSeo = "hyperéosinophilie"

@@ -1,4 +1,5 @@
 +++
+id = "0190e8cb-f10a-7138-8871-1c4d5e08833b"
 title = "Spondylarthrite ankylosante"
 prefix = "la "
 titleSeo = "Spondylarthrite ankylosante"

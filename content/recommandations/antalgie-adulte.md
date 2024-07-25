@@ -1,4 +1,5 @@
 +++
+id = "0190e8ba-b915-7bad-bef4-6b7720861c25"
 title = "Antalgie et douleur chez l'adulte"
 titleSeo = "Douleur chez l'adulte"
 prefix = "l'"

@@ -1,4 +1,5 @@
 +++
+id = "0190e8c8-7901-7ebf-9ffe-9785f6fe2163"
 title = "Ménopause et traitement hormonal de la ménopause"
 prefix = "la "
 titleSeo = "Ménopause et traitement hormonal"

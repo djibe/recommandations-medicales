@@ -1,4 +1,5 @@
 +++
+id = "0190e8c7-2c17-7b41-a19b-a1fb8beabf2c"
 title = "Leucémie aiguë de l'adulte (myéloblastique ou lymphoblastique)"
 titleSeo = "Leucémie aiguë adulte"
 prefix = "la "

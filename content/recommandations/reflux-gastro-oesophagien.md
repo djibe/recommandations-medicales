@@ -1,4 +1,5 @@
 +++
+id = "0190e8ca-f855-7f98-b1b9-1f4a3c89d7f5"
 title = "Reflux gastro-œsophagien (RGO)"
 prefix = "le "
 titleSeo = "Reflux gastro-œsophagien RGO"

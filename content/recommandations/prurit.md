@@ -1,4 +1,5 @@
 +++
+id = "0190e8ca-d097-7e3c-ad54-2cc5d95c9fb1"
 title = "Prurit"
 prefix = "le "
 titleSeo = "Prise en charge du prurit"

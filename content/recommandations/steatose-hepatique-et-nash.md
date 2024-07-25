@@ -1,4 +1,5 @@
 +++
+id = "0190e8cc-0822-76c4-8103-8d9ae727d7a2"
 title = "Stéatopathie métabolique (NAFLD) et sa forme agressive la stéatohépatite non alcoolique (NASH)"
 prefix = "les "
 titleSeo = "Stéatose hépatique et NASH"

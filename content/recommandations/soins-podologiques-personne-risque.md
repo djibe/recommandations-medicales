@@ -1,4 +1,5 @@
 +++
+id = "0190e8cb-c3bf-7fdc-9472-a461394f2b47"
 title = "Soins podologiques chez les personnes à risque"
 titleSeo = "Soins podologiques"
 prefix = "les "

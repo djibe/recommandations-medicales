@@ -1,4 +1,5 @@
 +++
+id = "0190e8d6-2387-75ee-9cdf-e0949df55060"
 title = "Thrombose veineuse profonde (TVP)"
 prefix = "la "
 titleSeo = "Thrombose veineuse profonde TVP"

@@ -1,4 +1,5 @@
 +++
+id = "0190e8c8-e80c-7b03-8725-fa296fdb667b"
 title = "Mononucléose infectieuse (MNI)"
 titleSeo = "Mononucléose infectieuse (MNI)"
 prefix = "la "

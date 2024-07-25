@@ -1,4 +1,5 @@
 +++
+id = "0190e8c8-bea2-7312-92ed-985705b821f0"
 title = "Molluscum contagiosum"
 prefix = "le "
 description = "Recommandations pour la prise en charge des molluscums contagiosums: mesures d'hygiène pour tous, abstention voire curetage ou cryothérapie avec anesthésie"

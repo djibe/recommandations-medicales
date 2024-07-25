@@ -1,4 +1,5 @@
 +++
+id = "0190e8d6-52b5-7628-a282-e284b77f1f95"
 title = "Traumatisme crânien de l'enfant (TC)"
 prefix = "le "
 titleSeo = "Traumatisme crânien enfant (TC)"

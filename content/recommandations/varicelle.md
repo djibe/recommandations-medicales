@@ -1,4 +1,5 @@
 +++
+id = "0190e8d6-ca8d-7ca5-aab6-7a5bc163a3ec"
 title = "Varicelle"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la varicelle. Personnes à risque, indication à la vaccination, antiviral aciclovir et immunoglobulines anti-VZV"
@@ -17,7 +18,7 @@ icd10 = "B01.9"
 image = true
 imageSrc = "Lésion vésiculeuse typique de varicelle peu après son apparition. Devient trouble en 1 à 2 jours. Par F malan, CC BY-SA 3.0, via Wikimedia Commons"
 flowchart = true
-todo = "vérif co-vaccination ROR, https://pap-pediatrie.fr/sites/pap-pediatrie.fr/files/01_contage_varicelleux_chez_lenfant_fig1.gif"
+todo = "rankok, vérif co-vaccination ROR, https://pap-pediatrie.fr/sites/pap-pediatrie.fr/files/01_contage_varicelleux_chez_lenfant_fig1.gif"
 +++
 
 {{%article-summary%}}

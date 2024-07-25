@@ -1,4 +1,5 @@
 +++
+id = "0190e8be-1839-7223-81ab-835ace265e9e"
 title = "Cancer de la thyroïde"
 titleSeo = "Cancer de la thyroïde"
 prefix = "le "

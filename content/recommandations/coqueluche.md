@@ -1,4 +1,5 @@
 +++
+id = "0190e8bf-29ee-7a3f-a894-f12d6e28ddd9"
 title = "Coqueluche"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la coqueluche. Toux prolongée: PCR coqueluche, éviction, antibiothérapie, antibioprophylaxie contacts et vaccination"
@@ -18,6 +19,7 @@ image = true
 imageSrc = "*Bordetella pertussis* à la coloration de Gram, coccobacille Gram négatif de la coqueluche. CDC Public Health Image Library, Public domain, via Wikimedia Commons"
 flowchart = true
 modele = true
+todo = "rankok"
 +++
 
 {{%article-summary%}}

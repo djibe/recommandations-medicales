@@ -1,4 +1,5 @@
 +++
+id = "0190e8c6-01bb-701f-b0a5-99a4ed1082ad"
 title = "Infections cutanées bactériennes: impétigo, folliculite, furoncle, furonculose et abcès cutané"
 titleSeo = "Infections cutanées bactériennes"
 prefix = "les "

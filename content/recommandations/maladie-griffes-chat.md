@@ -1,4 +1,5 @@
 +++
+id = "0190e8c7-9c04-7f05-a0de-6e5a629f0bee"
 title = "Maladie des griffes du chat"
 prefix = "la "
 titleSeo = "Maladie des griffes du chat"

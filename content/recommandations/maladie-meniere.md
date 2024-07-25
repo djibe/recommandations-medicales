@@ -1,4 +1,5 @@
 +++
+id = "0190e8c7-c7e3-716a-878e-6b0b2852d495"
 title = "Maladie de Menière"
 prefix = "la "
 titleSeo = "Maladie de Menière"

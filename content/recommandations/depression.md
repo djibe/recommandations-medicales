@@ -1,4 +1,5 @@
 +++
+id = "0190e8bf-c351-7784-b1c2-16c52c86b061"
 title = "Dépression"
 prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge de la dépression. Questionnaire PHQ-9 ou Hamilton, sévérité, psychothérapie et antidépresseur ISRS"
@@ -16,7 +17,7 @@ sctid = "35489007"
 icd10 = "F32.9"
 image = true
 imageSrc = "La dépression par storyset / Freepik"
-todo = "Enfant, adolescent, indications suivi CMP, ECG, Appli Way4Good, quest ASQ, HAS2017p10, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/101.pdf, grille RUD https://psychotropes.fr/storage/3/tool8.pdf, http://beh.santepubliquefrance.fr/beh/2024/3/2024_3_1.html, https://www.nejm.org/doi/full/10.1056/NEJMcp2305428"
+todo = "rankok, indications suivi CMP, ECG, Appli Way4Good, quest ASQ, HAS2017p10, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/101.pdf, grille RUD https://psychotropes.fr/storage/3/tool8.pdf, http://beh.santepubliquefrance.fr/beh/2024/3/2024_3_1.html, https://www.nejm.org/doi/full/10.1056/NEJMcp2305428"
 flowchart = true
 +++
 

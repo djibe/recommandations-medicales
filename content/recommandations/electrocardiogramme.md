@@ -1,4 +1,5 @@
 +++
+id = "0190e8c1-e14d-750f-a284-95a0edf7ae01"
 title = "Électrocardiogramme (ECG)"
 prefix = "l'"
 noindex = true

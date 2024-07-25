@@ -1,4 +1,5 @@
 +++
+id = "0190e8be-8abe-78f4-8d5a-2142f313d001"
 title = "Chalazion"
 prefix = "le "
 description = "Recommandations pour la prise en charge et le traitement du chalazion. Soins de paupières et collyre antibiotique et corticoïde pendant 7 jours"

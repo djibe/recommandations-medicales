@@ -1,4 +1,5 @@
 +++
+id = "0190e8bd-36d9-7054-8699-e6b1df372632"
 title = "Bronchopneumopathie chronique obstructive (BPCO)"
 prefix = "la "
 titleSeo = "Bronchopneumopathie chronique BPCO"

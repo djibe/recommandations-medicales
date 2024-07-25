@@ -1,4 +1,5 @@
 +++
+id = "0190e8c8-8806-786b-8444-e8741fff35ca"
 title = "Ménorragies"
 prefix = "les "
 description = "Recommandations pour la prise en charge des ménorragies de la femme et de l'adolescente. Bilan de l'hémostase, échographie pelvienne et traitement hormonal ..."

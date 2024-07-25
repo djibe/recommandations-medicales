@@ -1,4 +1,5 @@
 +++
+id = "0190e8c5-81c9-7f08-b7bb-b211def1a2df"
 title = "Hyponatrémie"
 prefix = "l'"
 description = "Recommandations pour la prise en charge de l'hyponatrémie. Osmolalité plasmatique avec la glycémie. Substituer un traitement voire restriction hydrique"

@@ -1,4 +1,5 @@
 +++
+id = "0190e8c3-1604-70e8-9b42-3ddc8c2646d6"
 title = "Fibromyalgie"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la fibromyalgie. Bilan, information, activité physique adaptée (APA), psychothérapie, antidépresseur à faible dose"

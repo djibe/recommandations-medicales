@@ -1,4 +1,5 @@
 +++
+id = "0190e8cc-d6fe-7666-8223-208b8a2e3ab7"
 title = "Syndrome de l'intestin irritable (SII)"
 titleSeo = "Syndrome intestin irritable (SII)"
 prefix = "le "

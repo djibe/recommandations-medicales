@@ -1,4 +1,5 @@
 +++
+id = "0190e8c5-068b-7290-8fa7-c04301cb0aad"
 title = "Hypertension artérielle maligne (HTA maligne)"
 prefix = "l'"
 titleSeo = "HTA maligne"

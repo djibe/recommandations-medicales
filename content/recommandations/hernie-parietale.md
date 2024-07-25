@@ -1,4 +1,5 @@
 +++
+id = "0190e8c4-6671-7d89-a078-ad97f2350201"
 title = "Hernies pariétales: inguinales, crurales, ombilicales et de la ligne blanche"
 prefix = "les "
 titleSeo = "Hernies inguinales et crurales"

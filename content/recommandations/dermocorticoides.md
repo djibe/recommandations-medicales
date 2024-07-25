@@ -1,4 +1,5 @@
 +++
+id = "0190e8bf-fa0d-7c3d-9ea8-94b1e1a2b934"
 title = "Dermocorticoïdes"
 prefix = "les "
 description = "Recommandations pour la prise en charge par un traitement de dermocorticoïdes: corticoïdes locaux crème et pommade. Application une fois par jour ..."

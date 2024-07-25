@@ -1,4 +1,5 @@
 +++
+id = "0190e8bc-7865-79da-aad0-999a30355cdd"
 title = "Augmentation des Gamma-GT (GGT)"
 titleSeo = "Augmentation Gamma-GT GGT"
 prefix = "l'"

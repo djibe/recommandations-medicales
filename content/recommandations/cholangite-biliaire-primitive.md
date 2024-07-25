@@ -1,4 +1,5 @@
 +++
+id = "0190e8be-ac94-7033-927e-e7aafd359505"
 title = "Cholangite biliaire primitive (CBP)"
 titleSeo = "Cholangite biliaire primitive"
 prefix = "la "

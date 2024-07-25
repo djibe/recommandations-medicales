@@ -1,4 +1,5 @@
 +++
+id = "0190e8ba-956d-77b9-a608-669fcca2c68e"
 title = "Anévrisme de l'aorte abdominale (AAA)"
 prefix = "l'"
 titleSeo = "Anévrisme aorte abdominale"
@@ -17,6 +18,7 @@ sctid = "233985008"
 icd10 = "I71.4"
 image = true
 imageSrc = "Schéma de l'anévrysme de l'aorte abdominale par loudista sur Foter.com"
+todo = "rankok"
 flowchart = true
 +++
 

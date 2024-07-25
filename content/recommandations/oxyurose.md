@@ -1,4 +1,5 @@
 +++
+id = "0190e8c9-b4df-7aa7-95a5-fada4b66a333"
 title = "Oxyurose"
 prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge de l'oxyurose. Scotch-test anal, traitement antiparasitaire par flubendazole Fluvermal et l'entourage"

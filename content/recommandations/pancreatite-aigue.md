@@ -1,4 +1,5 @@
 +++
+id = "0190e8c9-dddd-707a-b2e2-7258bcddfdff"
 title = "Pancréatite aiguë"
 prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge de la pancréatite aiguë. Bilan en urgence avec lipase élevée et échographie abdominale, hospitalisation"

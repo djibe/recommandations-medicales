@@ -1,4 +1,5 @@
 +++
+id = "0190e8b9-3bf0-7614-82da-9e72341c91fa"
 title = "Acné"
 prefix = "l'"
 description = "Recommandations pour la prise en charge de l'acné. Traitement des acné inflammatoires ou rétentionnelles par rétinoïdes, doxycycline, peroxyde de benzoyle"

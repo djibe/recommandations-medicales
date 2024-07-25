@@ -1,4 +1,5 @@
 +++
+id = "0190e8c8-1212-718a-aa93-79ab24491ea9"
 title = "Maladie de Wilson"
 prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge de la maladie de Wilson. Bilan hépatique anormal, stéatose, signes neurologiques, cuprémie, IRM cérébrale"

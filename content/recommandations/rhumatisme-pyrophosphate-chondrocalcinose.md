@@ -1,4 +1,5 @@
 +++
+id = "0190e8cb-54c5-7eeb-b556-2eb69e0602e8"
 title = "Rhumatisme à pyrophosphate de calcium (ex chondrocalcinose articulaire)"
 titleSeo = "Rhumatisme pyrophosphate calcium"
 prefix = "le "

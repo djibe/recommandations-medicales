@@ -1,4 +1,5 @@
 +++
+id = "0190e8cc-be4d-7e54-a0a0-a986264fdfc8"
 title = "Syndrome de Cushing"
 prefix = "le "
 titleSeo = "Syndrome de Cushing"

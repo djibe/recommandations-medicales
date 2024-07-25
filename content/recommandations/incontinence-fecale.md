@@ -1,4 +1,5 @@
 +++
+id = "0190e8c5-d2ce-7a6b-944b-92a77b053998"
 title = "Incontinence fécale (ou anale)"
 titleSeo = "Incontinence fécale ou anale"
 prefix = "l'"

@@ -1,4 +1,5 @@
 +++
+id = "0190e8c0-078c-7002-b9bf-e66afc817dfc"
 title = "Diabète gestationnel (DG)"
 prefix = "le "
 titleSeo = "Diabète gestationnel"

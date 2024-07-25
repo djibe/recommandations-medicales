@@ -1,4 +1,5 @@
 +++
+id = "0190e8c7-5609-7e61-b0b7-d7c16be000ee"
 title = "Lymphomes non hodgkiniens de l'adulte (LNH)"
 titleSeo = "Lymphomes non hodgkiniens LNH"
 prefix = "les "

@@ -1,4 +1,5 @@
 +++
+id = "0190e8c3-da6d-77cb-abb6-74093e0faf46"
 title = "Helicobacter pylori (HP)"
 prefix = "l'"
 titleSeo = "Helicobacter pylori"

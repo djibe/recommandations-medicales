@@ -1,4 +1,5 @@
 +++
+id = "0190e8be-9cf7-7234-820f-b4d664ac92bf"
 title = "Infections à Chlamydia trachomatis"
 prefix = "les "
 titleSeo = "Infections Chlamydia trachomatis"

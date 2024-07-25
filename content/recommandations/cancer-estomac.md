@@ -1,4 +1,5 @@
 +++
+id = "0190e8bd-8b79-75f6-ad72-39a510ac8960"
 title = "Cancer de l'estomac"
 prefix = "le "
 titleSeo = "Cancer de l'estomac"

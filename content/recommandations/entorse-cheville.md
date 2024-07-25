@@ -1,4 +1,5 @@
 +++
+id = "0190e8c2-5f73-7b89-9dbb-1ea1bbc7edae"
 title = "Entorse de la cheville"
 titleSeo = "Entorse de la cheville"
 prefix = "l'"

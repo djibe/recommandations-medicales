@@ -1,4 +1,5 @@
 +++
+id = "0190e8cb-ac01-71d9-be8d-52ed43b0e40d"
 title = "Sinusite aiguë purulente"
 prefix = "la "
 titleSeo = "Sinusite aigue"

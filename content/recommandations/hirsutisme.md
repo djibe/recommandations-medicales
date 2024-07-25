@@ -1,4 +1,5 @@
 +++
+id = "0190e8c4-78fc-7c75-8040-a826360b2a59"
 title = "Hirsutisme"
 prefix = "l'"
 description = "Recommandations pour la prise en charge de l'hirsutisme. Score Ferriman-Gallwey, testostéronémie et traitement épilation, contraception voire spironolactone"

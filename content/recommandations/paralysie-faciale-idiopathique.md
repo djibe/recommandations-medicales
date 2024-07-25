@@ -1,4 +1,5 @@
 +++
+id = "0190e8c9-ea6a-7df6-adae-08e33a633fca"
 title = "Paralysie faciale périphérique idiopathique"
 prefix = "la "
 titleSeo = "Paralysie faciale"

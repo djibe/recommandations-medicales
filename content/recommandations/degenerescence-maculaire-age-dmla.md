@@ -1,4 +1,5 @@
 +++
+id = "0190e8bf-7fdb-7744-90de-a6ba7239e02a"
 title = "Dégénérescence maculaire liée à l'âge (DMLA)"
 titleSeo = "Dégénérescence maculaire DMLA"
 noindex = true

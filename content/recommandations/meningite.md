@@ -1,4 +1,5 @@
 +++
+id = "0190e8c8-50b8-74b1-936c-9abbcb7bd9e4"
 title = "Méningite bactérienne et méningocoque"
 titleSeo = "Méningite bactérienne méningocoque"
 prefix = "la "
@@ -18,6 +19,7 @@ sctid = "95883001"
 icd10 = "G00.9"
 image = true
 imageSrc = "Purpura fulminans à méningocoque du nourrisson. Photos de << Baby Charlotte >> qui a survécu et servi de modèle à la vaccination anti-méningococcique. babycharlotte.co.nz"
+todo = "SEO"
 flowchart = true
 +++
 

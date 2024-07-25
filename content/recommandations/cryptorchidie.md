@@ -1,4 +1,5 @@
 +++
+id = "0190e8bf-6fee-715e-b2e2-5704077079d9"
 title = "Cryptorchidie"
 prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge de la cryptorchidie. Echographie abdominale et chirurgie avant deux ans pour préserver le testicule"

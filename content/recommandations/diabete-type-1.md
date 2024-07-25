@@ -1,4 +1,5 @@
 +++
+id = "0190e8c0-1773-7223-8d76-cc3591ff159a"
 title = "Diabète de type 1 (DT1)"
 prefix = "le "
 noindex = true

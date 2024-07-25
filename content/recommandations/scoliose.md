@@ -1,4 +1,5 @@
 +++
+id = "0190e8cb-7d96-77fb-8ad8-0aaafb11eb9c"
 title = "Scoliose structurale idiopathique"
 prefix = "la "
 titleSeo = "scoliose"

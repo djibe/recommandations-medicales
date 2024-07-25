@@ -1,4 +1,5 @@
 +++
+id = "0190e8c5-73e4-793e-bae1-2433deb5d9ec"
 title = "Hypocalcémie"
 prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge de l'hypocalcémie. "

@@ -1,4 +1,5 @@
 +++
+id = "0190e8c6-6eb5-72da-92c4-fa8d4ede94f8"
 title = "Insuffisance cardiaque aiguë (ICA)"
 titleSeo = "Insuffisance cardiaque aiguë"
 prefix = "l'"

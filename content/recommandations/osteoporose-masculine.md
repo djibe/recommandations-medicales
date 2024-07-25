@@ -1,4 +1,5 @@
 +++
+id = "0190e8c9-7282-7e7a-8b0b-f0ec95b2ddce"
 title = "Ostéoporose masculine"
 prefix = "l'"
 titleSeo = "ostéoporose masculine"

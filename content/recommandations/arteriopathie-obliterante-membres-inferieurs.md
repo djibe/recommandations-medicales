@@ -1,4 +1,5 @@
 +++
+id = "0190e8bb-4392-752d-9d39-a894dff56b58"
 title = "Artériopathie oblitérante des membres inférieurs (AOMI)"
 prefix = "l'"
 titleSeo = "Artériopathie membres inférieurs"

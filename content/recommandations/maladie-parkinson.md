@@ -1,4 +1,5 @@
 +++
+id = "0190e8c7-d4da-707b-a141-3f7a29b71b78"
 title = "Maladie de Parkinson"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la maladie de Parkinson. Diagnostic clinique sans bilan, neurologue, agonistes dopaminergiques en première intention"

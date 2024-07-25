@@ -1,4 +1,5 @@
 +++
+id = "0190e8bd-a954-7e14-b222-4efa1006bb7a"
 title = "Cancer du pancréas"
 prefix = "le "
 titleSeo = "Cancer du pancréas"

@@ -1,4 +1,5 @@
 +++
+id = "0190e8bd-0845-704e-99b5-9fed0167427f"
 title = "Boulimie et hyperphagie boulimique"
 prefix = "les "
 titleSeo = "Boulimie et hyperphagie"
@@ -17,7 +18,7 @@ sctid = "78004001"
 icd10 = "F50.2"
 image = true
 imageSrc = "Illustration de la boulimie par storyset / Freepik"
-todo = "borderline: https://jamanetwork.com/journals/jama/article-abstract/2801843, complications"
+todo = "rankok, borderline: https://jamanetwork.com/journals/jama/article-abstract/2801843, complications"
 flowchart = true
 +++
 

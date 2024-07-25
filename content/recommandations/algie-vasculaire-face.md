@@ -1,4 +1,5 @@
 +++
+id = "0190e8ba-0ab5-7c27-8bdf-157b808849b2"
 title = "Algie vasculaire de la face (AVF)"
 prefix = "l'"
 titleSeo = "Algie vasculaire de la face AVF"

@@ -1,4 +1,5 @@
 +++
+id = "0190e8c7-b9f2-74f8-9157-0223e3e0972b"
 title = "Maladie de Lyme"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la borréliose (maladie) de Lyme. Prévention, érythème migrant, examens diagnostiques et traitement par antibiotiques"

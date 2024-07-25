@@ -1,7 +1,9 @@
 +++
+id = "0190e8c8-32f2-7748-9111-a4d6056c0bb8"
 title = "Moment de prise des médicaments par rapport aux repas"
 titleSeo = "Moment prise médicament et repas"
 prefix = "le "
+longHtml = true
 description = "Recommandations pour le moment de prise des médicaments par rapport au repas: médicaments devant être pris à jeun (avant ou après) ou en mangeant (pendant le repas)"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

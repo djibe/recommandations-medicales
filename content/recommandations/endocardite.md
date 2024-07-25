@@ -1,4 +1,5 @@
 +++
+id = "0190e8c1-fdc3-7ab2-9bc0-3b94d1e910ae"
 title = "Endocardite infectieuse"
 prefix = "l'"
 titleSeo = "Endocardite infectieuse"

@@ -1,4 +1,5 @@
 +++
+id = "0190e8c4-8d9c-7675-b722-8298a885e4e6"
 title = "Hommes ayant des rapports sexuels avec des hommes"
 prefix = "les "
 titleSeo = "HSH et santé homosexuelle"

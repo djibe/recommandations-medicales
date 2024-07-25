@@ -1,4 +1,5 @@
 +++
+id = "0190e8c3-f87b-7fe4-8e44-63cc6f7bd6d5"
 title = "Hématurie"
 prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge d'une hématurie macro ou microscopique. Symptômes, bilan avec ECBU, échographie, uroscanner, cytologie"

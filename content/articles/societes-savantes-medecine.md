@@ -13,7 +13,7 @@ tags = []
 image = true
 imageSrc = "des sociétés savantes de médecine / unDraw"
 datatable = true
-todo = "ESH, SFC"
+todo = "rankok, ESH, SFC"
 +++
 
 De très nombreuses sociétés savantes médicales existent et publient régulièrement des recommandations et guides de bonnes pratiques.

@@ -1,4 +1,5 @@
 +++
+id = "0190e8bb-5314-751b-8052-be29123614e7"
 title = "Artérite à cellules géantes (maladie de Horton)"
 titleSeo = "Artérite cellules géantes maladie Horton"
 prefix = "l'"

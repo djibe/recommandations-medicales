@@ -1,4 +1,5 @@
 +++
+id = "0190e8d6-8f08-708a-b7d7-3c7f691c43d9"
 title = "Ulcère veineux de jambe"
 titleSeo = "Ulcère veineux"
 prefix = "la "

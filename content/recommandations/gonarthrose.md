@@ -1,4 +1,5 @@
 +++
+id = "0190e8c3-8839-7200-9af6-ef153a3ae144"
 title = "Gonarthrose"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la gonarthrose. Radiographies, infiltrations du genou, anti-inflammatoires, indications à la chirurgie ..."

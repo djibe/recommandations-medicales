@@ -1,4 +1,5 @@
 +++
+id = "0190e8bd-d944-715d-b2a5-628df1e85f13"
 title = "Cancer du rein"
 prefix = "le "
 description = "Recommandations pour le diagnostic et la prise en charge du cancer du rein. Bilan rénal et scanner abdominal. Urologue pour RCP et chirurgie de néphrectomie"

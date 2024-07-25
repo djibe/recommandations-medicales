@@ -1,4 +1,5 @@
 +++
+id = "0190e8ca-23fa-7076-9da2-9f84f0bf21a6"
 title = "Plagiocéphalie"
 prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge de la plagiocéphalie (tête plate). Prévention en alternant la position, temps d'éveil sur le ventre ..."

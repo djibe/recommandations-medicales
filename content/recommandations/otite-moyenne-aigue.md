@@ -1,4 +1,5 @@
 +++
+id = "0190e8c9-a56e-7e69-ab90-de84b872ad6c"
 title = "Otite moyenne aiguë purulente (OMAP)"
 titleSeo = "Otite moyenne aiguë"
 prefix = "l'"

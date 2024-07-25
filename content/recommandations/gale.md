@@ -1,4 +1,5 @@
 +++
+id = "0190e8c3-4668-76f2-835b-80964f99109d"
 title = "Gale"
 prefix = "la "
 description = "Recommandations pour le diagnostic et le traitement de la gale. Traitement topique Topiscab ou comprimés Stromectol, désinfection et traitement de l'entourage"

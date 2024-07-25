@@ -1,4 +1,5 @@
 +++
+id = "0190e8cb-e14b-73f6-b24e-ce5efe6ded62"
 title = "Splénomégalie"
 prefix = "la "
 description = "Recommandations pour la prise en charge d'une splénomégalie. Orientation diagnostique devant une splénomégalie: NFS, bilan hépatique, échographie abdominale"

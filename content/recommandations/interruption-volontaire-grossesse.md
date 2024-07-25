@@ -1,4 +1,5 @@
 +++
+id = "0190e8c6-e9b4-700f-a034-7bddc4ac244e"
 title = "Interruption volontaire de grossesse (IVG)"
 prefix = "l'"
 titleSeo = "Interruption de grossesse IVG"

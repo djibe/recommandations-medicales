@@ -1,4 +1,5 @@
 +++
+id = "0190e8bd-99a7-7690-af47-287de9eb0207"
 title = "Cancer de l'ovaire"
 prefix = "le "
 description = "Recommandations pour la prise en charge du cancer de l'ovaire. Identifier les facteurs de risque, échographie pelvienne et IRM, avis en centre expert du cancer"

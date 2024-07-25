@@ -1,4 +1,5 @@
 +++
+id = "0190e8be-0a51-7b8a-a908-ce301fcfeebb"
 title = "Cancer du testicule"
 titleSeo = "Cancer du testicule"
 prefix = "le "

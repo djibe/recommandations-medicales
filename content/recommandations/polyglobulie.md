@@ -1,4 +1,5 @@
 +++
+id = "0190e8ca-4ef2-7c2c-a280-e25cbe1494f8"
 title = "Polyglobulie"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la polyglobulie. Bilan diagnostique avec frottis sanguin et EPO, avis hématologique spécialisé"

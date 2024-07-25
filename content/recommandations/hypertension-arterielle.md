@@ -1,4 +1,5 @@
 +++
+id = "0190e8c5-4353-7e23-9466-894d00a8c7a3"
 title = "Hypertension artérielle (HTA)"
 prefix = "l'"
 titleSeo = "Hypertension artérielle HTA"

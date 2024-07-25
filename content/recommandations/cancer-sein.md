@@ -1,4 +1,5 @@
 +++
+id = "0190e8bd-e787-7e1d-a70b-0afab774a232"
 title = "Cancer du sein"
 prefix = "le "
 titleSeo = "Cancer du sein"

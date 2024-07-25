@@ -1,6 +1,8 @@
 +++
+id = "0190e8c7-e317-74f3-8917-b801c657b4d2"
 title = "Maladies professionnelles"
 prefix = "les "
+longHtml = true
 description = "Recommandations pour la déclaration des maladies professionnelles (MP). Bilan et diagnostic de la pathologie, rédaction du certificat médical initial (CMI) ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

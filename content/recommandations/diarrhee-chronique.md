@@ -1,4 +1,5 @@
 +++
+id = "0190e8c0-37bd-7aca-8513-5038e663750a"
 title = "Diarrhée chronique"
 prefix = "la "
 titleSeo = "Diarrhée chronique"

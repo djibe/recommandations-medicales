@@ -1,4 +1,5 @@
 +++
+id = "0190e8c1-71ba-7899-99b8-8165f600b29d"
 title = "Diverticulite sigmoïdienne aiguë"
 prefix = "la "
 titleSeo = "Diverticulite sigmoidienne"

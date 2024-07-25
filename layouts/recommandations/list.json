@@ -2,6 +2,7 @@
 {{- range $index, $value := where site.RegularPages "Section" "recommandations" -}}
   {{ if $index }}, {{ end }}
   {
+    "id": "{{ .Params.id }}",
     "url": "{{ .RelPermalink }}",
     "permalink" : "{{ .Permalink }}",
     "title": "{{ .Title }}",

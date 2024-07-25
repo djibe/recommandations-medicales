@@ -1,7 +1,9 @@
 +++
+id = "0190e8d6-0666-7658-adef-e24f63535ef0"
 title = "Tensiomètres électroniques validés pour le cabinet"
 titleSeo = "Tensiomètres validés"
 prefix = ""
+longHtml = true
 description = "Tensiomètres électroniques validés pour la mesure de la pression artérielle fiable au cabinet par le médecin. Brassards pour enfants, grossesse, adulte et obèse"
 synonyms = ["Sphygmomanomètre électronique oscillométrique"]
 auteurs = ["Jean-Baptiste FRON"]

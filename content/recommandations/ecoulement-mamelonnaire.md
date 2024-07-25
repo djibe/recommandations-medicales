@@ -1,4 +1,5 @@
 +++
+id = "0190e8c1-c18a-7563-ba76-04e90c6f2706"
 title = "Écoulement mamelonnaire du sein"
 prefix = "l'"
 titleSeo = "Écoulement mamelonnaire"

@@ -1,4 +1,5 @@
 +++
+id = "0190e8be-4630-712d-bf1a-6c3cb5804365"
 title = "Carcinome hépatocellulaire (CHC)"
 titleSeo = "Carcinome hépatocellulaire CHC"
 prefix = "le "

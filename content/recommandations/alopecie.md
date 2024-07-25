@@ -1,4 +1,5 @@
 +++
+id = "0190e8ba-6f0c-7eab-b866-1d59b0bf49c7"
 title = "Alopécie"
 prefix = "l'"
 description = "Recommandations pour la prise en charge de l'alopécie. Examen pour l'étiologie: pelade, effluvium télogène, alopécie androgénétique. Traitement: minoxidil, fer"

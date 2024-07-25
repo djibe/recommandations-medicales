@@ -1,4 +1,5 @@
 +++
+id = "0190e8be-25c3-7d46-b868-b9a86880adf1"
 title = "Cancer de la vessie"
 prefix = "le "
 description = "Recommandations pour le diagnostic et la prise en charge du cancer de la vessie. Suspicion devant une hématurie, cytologie urinaire et cystoscopie diagnostique"

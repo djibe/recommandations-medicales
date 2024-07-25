@@ -1,4 +1,5 @@
 +++
+id = "0190e8c3-998d-7782-8d9a-76a4b17f1130"
 title = "Goutte"
 prefix = "la "
 description = "Recommandations SFR pour la prise en charge de la goutte. Uricémie cible, traitement de crise par colchicine et indications au traitement de fond allopurinol"

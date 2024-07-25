@@ -1,4 +1,5 @@
 +++
+id = "0190e8bf-d256-7767-afbb-c9404ebb72d0"
 title = "Dermatite atopique"
 prefix = "la "
 titleSeo = "Dermatite atopique"

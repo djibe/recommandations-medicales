@@ -1,4 +1,5 @@
 +++
+id = "0190e8be-ee9a-7910-8dde-f777f8168ec7"
 title = "Constipation"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la constipation. Traitements aggravants, mesures hygiéno-diététiques et laxatifs osmotiques (PEG) et de lest"

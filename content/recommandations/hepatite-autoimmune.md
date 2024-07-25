@@ -1,4 +1,5 @@
 +++
+id = "0190e8c4-39a3-7a2b-ad57-a3733616a476"
 title = "Hépatite auto-immune (HAI)"
 prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge de l'hépatite auto-immune HAI. Cytolyse, anticorps anti-muscle lisse et ponction-biopsie hépatique"

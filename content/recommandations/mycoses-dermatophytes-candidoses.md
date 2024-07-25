@@ -1,4 +1,5 @@
 +++
+id = "0190e8c9-0e4b-7f98-860f-78b252756ed9"
 title = "Mycoses: candidoses et dermatophytoses (intertrigo, teigne, vaginite)"
 titleSeo = "Mycoses: Dermatophytes candidoses"
 prefix = "les "
@@ -247,7 +248,7 @@ L'aspect pseudo-membraneux blanc (**muguet**) est le plus fréquent, souvent ass
 - ou miconazole cp muco-adhésif chez l'immunodéprimé  
   [Miconazole cp 50 mg (Loramyc®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69980852&typedoc=R) x 1/j pendant 7 à 14 jours, face bombée placée le matin après le brossage contre la gencive supérieure au-dessus d'une incisive. Interactions +++
 - ou amphotéricine B buvable  
-  [Amphotéricine B 10% susp buvable (Fungizone®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64346723&typedoc=R) 5 mL x 3-4/j pendant 10-14 jours (21 si forme chronique)
+  [Amphotéricine B 10% susp buvable (Fungizone®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64346723&typedoc=R) 5 mL x 3-4/j pendant 10-14 jours (21 si forme chronique; possible [pendant la grossesse](http://www.lecrat.fr/10226/))
 - ou nystatine buvable  
   [Nystatine susp buvable (Mycostatine®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62250594&typedoc=R) 1 à 6 mL x 4-6/j pendant 10-14 jours (21 si forme chronique)
 - voire fluconazole oral

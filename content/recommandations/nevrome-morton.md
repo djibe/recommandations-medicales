@@ -1,4 +1,5 @@
 +++
+id = "0190e8c9-390b-7608-8336-0775e5c31d98"
 title = "Métatarsalgies et névrome de Morton"
 prefix = "les "
 titleSeo = "Névrome de Morton"

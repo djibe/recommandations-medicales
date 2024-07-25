@@ -1,4 +1,5 @@
 +++
+id = "0190e8cb-d14e-7ca9-87fd-d6de9a4d9f42"
 title = "Les soins sans consentement: demande d'un tiers (SDT)"
 noindex = true
 titleSeo = "Soins psychiatriques sans consentement"

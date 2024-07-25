@@ -1,4 +1,5 @@
 +++
+id = "0190e8cc-7d49-7fb0-8fe0-6add0d1d0bd0"
 title = "Syndrome d'apnées obstructives du sommeil (SAOS ou SAHOS)"
 prefix = "le "
 titleSeo = "Syndrome d'apnées du sommeil"

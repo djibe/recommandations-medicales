@@ -1,4 +1,5 @@
 +++
+id = "0190e8c5-55d4-78e5-a1d4-cecf34d9f4b8"
 title = "Hyperthyroïdie et maladie de Basedow"
 prefix = "l'"
 titleSeo = "Hyperthyroïdie maladie Basedow"

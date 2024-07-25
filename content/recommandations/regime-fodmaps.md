@@ -1,4 +1,5 @@
 +++
+id = "0190e8cb-0ae5-7b01-b770-b54547525e0a"
 title = "Régime pauvre en FODMAPs"
 prefix = "la "
 description = "Indications et recommandations pour la prise en charge par un régime pauvre en FODMAPS: syndrome de l'intestin irritable, ballonnements. Légumineuses, blé, lait"

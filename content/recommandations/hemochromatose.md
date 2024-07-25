@@ -1,4 +1,5 @@
 +++
+id = "0190e8c4-0660-7ab9-8f24-1c72f23c4f5a"
 title = "Hémochromatose génétique"
 prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge de l'hémochromatose génétique. Bilan hyperferritinémie, coefficient de saturation, ferritine, saignées"

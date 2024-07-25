@@ -1,4 +1,5 @@
 +++
+id = "0190e8d6-ab77-7e2e-a983-c3ecd79afa7d"
 title = "Urticaire aiguë et chronique"
 prefix = "l'"
 titleSeo = "Urticaire"

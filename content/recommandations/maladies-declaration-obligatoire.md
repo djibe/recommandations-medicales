@@ -1,4 +1,5 @@
 +++
+id = "0190e8c8-1fdf-70de-9825-13ebe9a5cf69"
 title = "Maladies à déclaration obligatoire en 2024"
 prefix = "les "
 titleSeo = "Maladies déclaration obligatoire"

@@ -1,4 +1,5 @@
 +++
+id = "0190e8c7-0563-7f14-adce-bd28e16f9896"
 title = "Kyste pilonidal"
 prefix = "la "
 description = "Recommandations pour la prise en charge du kyste pilonidal. Traitement chirurgical avec incision en urgence. Rasage et cicatrisation dirigée si forme chronique"

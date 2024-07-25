@@ -1,4 +1,5 @@
 +++
+id = "0190e8c3-e842-7de8-b062-fd480f089404"
 title = "Hémangiome hépatique"
 prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge d'un hémangiome hépatique. Bilan hépatique, échographie hépatique voire IRM. Abstention thérapeutique"

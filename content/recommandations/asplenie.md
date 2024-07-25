@@ -1,4 +1,5 @@
 +++
+id = "0190e8bc-4f08-7b86-b883-646097b9bf4a"
 title = "Asplénie ou hyposplénie"
 prefix = "l'"
 titleSeo = "Asplénie"
@@ -18,7 +19,7 @@ icd10 = "Q89.0"
 image = true
 imageWEBP = true
 imageSrc = "Illustration de la rate par scientificanimations.com, CC BY-SA 4.0"
-todo = "Fièvre du splénectomisé"
+todo = "rankok, Fièvre du splénectomisé"
 flowchart = true
 +++
 

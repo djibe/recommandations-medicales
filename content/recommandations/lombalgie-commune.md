@@ -1,4 +1,5 @@
 +++
+id = "0190e8c7-48cf-74b4-89bc-f6c1533764e7"
 title = "Lombalgie commune et lumbago"
 prefix = "la "
 titleSeo = "Lombalgie commune et lumbago"

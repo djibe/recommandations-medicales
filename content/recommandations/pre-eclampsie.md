@@ -1,4 +1,5 @@
 +++
+id = "0190e8ca-7ce5-7a92-a233-701776a71b83"
 title = "Pré-éclampsie"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la pré-éclampsie. Mesure de la pression artérielle, rechercher des signes de gravité. Hospitalisation nécessaire"

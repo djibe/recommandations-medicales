@@ -1,4 +1,5 @@
 +++
+id = "0190e8c5-1409-72f4-bb43-9676b850e03a"
 title = "Hypertension artérielle pulmonaire (HTAP)"
 prefix = "l'"
 titleSeo = "Hypertension artérielle pulmonaire"

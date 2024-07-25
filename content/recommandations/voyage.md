@@ -1,4 +1,5 @@
 +++
+id = "0190e8d7-4b7f-790f-816a-acfbb48d97b4"
 title = "Voyage à l'étranger et recommandations sanitaires pour les voyageurs"
 prefix = "le "
 titleSeo = "Recommandations sanitaires voyageurs"

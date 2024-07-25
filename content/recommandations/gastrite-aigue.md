@@ -1,4 +1,5 @@
 +++
+id = "0190e8c3-68eb-7a3b-b273-8382cb79f36b"
 title = "Gastrite aiguë"
 prefix = "la "
 description = "TODO:"

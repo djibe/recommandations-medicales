@@ -1,4 +1,5 @@
 +++
+id = "0190e8d7-59e9-7a83-a84e-7103ef1497cb"
 title = "Zona"
 prefix = "le "
 description = "Recommandations pour le traitement et la prise en charge du zona. Réactivation VZV virus, indication valaciclovir et à la vaccination douleurs post-zostériennes"

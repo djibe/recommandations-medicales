@@ -1,4 +1,5 @@
 +++
+id = "0190e8c9-1b40-7e56-9b78-6b02a491a6ec"
 title = "Neutropénie"
 prefix = "la "
 description = "Recommandations pour la prise en charge d'une neutropénie. Orientation diagnostique, bilan de première intention d'une neutropénie"

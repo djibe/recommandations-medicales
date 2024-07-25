@@ -1,4 +1,5 @@
 +++
+id = "0190e8c8-43e9-7232-b3c6-14a18b5c92d8"
 title = "Mélanome malin"
 prefix = "le "
 description = "Recommandations pour la prise en charge d'une suspicion de mélanome malin. Dépistage des personnes à risque, phototypes, critères ABCDE d'un nævus suspect ..."

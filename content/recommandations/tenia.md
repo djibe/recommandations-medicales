@@ -1,4 +1,5 @@
 +++
+id = "0190e8d5-f625-74b2-8e3a-5a98908b9bfc"
 title = "Ténia ou tænia"
 prefix = "le "
 description = "Recommandations pour le diagnostic et la prise en charge du ténia (ou taenia). Examen parasitologique des selles et traitement antiparasitaire par praziquantel"

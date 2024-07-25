@@ -1,4 +1,5 @@
 +++
+id = "0190e8c3-55cf-7239-9e0c-7186534a04c8"
 title = "Pic monoclonal et gammapathie monoclonale de signification indéterminée (MGUS ou GMSI)"
 titleSeo = "Gammapathie monoclonale MGUS"
 prefix = "la "

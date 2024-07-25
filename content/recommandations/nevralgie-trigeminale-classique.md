@@ -1,4 +1,5 @@
 +++
+id = "0190e8c9-2aab-7c13-ab49-b1038b2ca1db"
 title = "Névralgie trigéminale classique (ex Névralgie du trijumeau)"
 prefix = "la "
 titleSeo = "Névralgie du trijumeau"

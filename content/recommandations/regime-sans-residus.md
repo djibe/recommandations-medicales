@@ -1,4 +1,5 @@
 +++
+id = "0190e8cb-1a64-7d2a-bfc3-c670fbd09500"
 title = "Régime sans résidus"
 prefix = "le "
 description = "Recommandations pour l'application du régimes sans résidu pour une coloscopie ou une maladie de l'intestin. Liste des aliments interdits et autorisés"

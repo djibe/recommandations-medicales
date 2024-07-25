@@ -1,4 +1,5 @@
 +++
+id = "0190e8ca-eb71-7e94-919d-e142e4fb9eb5"
 title = "Puberté précoce"
 prefix = "la "
 description = "Recommandations pour le diagnostic de la puberté précoce. Âge, caractères sexuels secondaires (stade de Tanner), âge osseux, test LHRH, échographie pelvienne"

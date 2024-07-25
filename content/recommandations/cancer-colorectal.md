@@ -1,4 +1,5 @@
 +++
+id = "0190e8bd-687c-7e4c-a32b-8846361d1651"
 title = "Cancer colorectal"
 prefix = "le "
 description = "Recommandations pour la prise en charge du cancer colorectal. Niveaux de risque de cancer du côlon, rythme de dépistage du test fécal Hemoccult, prévention ..."

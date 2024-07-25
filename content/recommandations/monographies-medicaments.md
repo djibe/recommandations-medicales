@@ -1,4 +1,5 @@
 +++
+id = "0190e8c8-db59-743c-ba7a-f2d92b1918de"
 title = "Monographies des médicaments utiles en France en médecine générale"
 titleSeo = "Monographies des médicaments"
 noindex = true

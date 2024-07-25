@@ -1,4 +1,5 @@
 +++
+id = "0190e8ca-31c9-7723-813d-ab92f302e710"
 title = "Pneumonie aiguë communautaire (PAC)"
 titleSeo = "Pneumonie aiguë communautaire"
 longHtml = true
@@ -18,7 +19,7 @@ sctid = "385093006"
 icd10 = "J18.9"
 image = true
 imageSrc = "Pneumonie franche lobaire aiguë du lobe moyen droit chez un patient de 35 ans avec toux fébrile. Cas de Sajoscha A. Sorrentino, Radiopaedia.org, rID: 14979"
-todo = "bilan et atb légionelle en ambu, dose FQ, critère gravité Extension radiologique ?"
+todo = "rankok, bilan et atb légionelle en ambu, dose FQ"
 flowchart = true
 +++
 

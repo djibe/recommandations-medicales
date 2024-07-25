@@ -1,4 +1,5 @@
 +++
+id = "0190e8d7-1bd8-7253-ba20-cd3b56405932"
 title = "Vitamine K1"
 prefix = "la "
 description = "Recommandations pour l'administration de la vitamine K chez le nourrisson. Dose et rythme d'administration pour la prévention de la maladie hémorragique"

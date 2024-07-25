@@ -1,4 +1,5 @@
 +++
+id = "0190e8c4-b13e-73f9-ade0-8d32f1bcba29"
 title = "Hypercalcémie"
 prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge de l'hypercalcémie. Calcémie ionisée ou calcémie corrigée sur l'albumine. Bilan PTH, phosphates, ECG"

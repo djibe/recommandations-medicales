@@ -1,4 +1,5 @@
 +++
+id = "0190e8ca-0786-785d-9027-71990a8408f4"
 title = "Phénomène de Raynaud ou syndrome de Raynaud"
 prefix = "le "
 titleSeo = "Syndrome de Raynaud"

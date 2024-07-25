@@ -1,4 +1,5 @@
 +++
+id = "0190e8c6-da85-7d9b-8b85-eee7e159a123"
 title = "Maladie rénale chronique (MRC) et insuffisance rénale chronique (IRC)"
 prefix = "l'"
 titleSeo = "Maladie et insuffisance rénale chronique"

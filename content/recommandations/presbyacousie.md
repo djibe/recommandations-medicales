@@ -1,4 +1,5 @@
 +++
+id = "0190e8ca-8ab2-7504-ba33-d6aeed874af0"
 title = "Presbyacousie"
 prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge de la presbyacousie et de l'hypoacousie due à l'âge. Audiométrie et consultation ORL, audioprothèse"

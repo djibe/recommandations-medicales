@@ -1,4 +1,5 @@
 +++
+id = "0190e8c6-f7cf-77a2-9ac8-195daf2a3a68"
 title = "Intolérance au lactose"
 prefix = "l'"
 description = "Recommandations pour le diagnostic de l'intolérance au lactose, rechercher si diarrhées. Test d'éviction et prise en charge avec maintien de produits laitiers"

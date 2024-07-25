@@ -1,4 +1,5 @@
 +++
+id = "0190e8ca-40be-780c-82cb-b2c6f9db4728"
 title = "Polyarthrite rhumatoïde"
 prefix = "la "
 titleSeo = "Polyarthrite rhumatoïde"

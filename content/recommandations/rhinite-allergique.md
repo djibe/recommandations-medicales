@@ -1,4 +1,5 @@
 +++
+id = "0190e8cb-4698-799e-91ea-38a6f3e80734"
 title = "Rhinite allergique"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la rhinite allergique. Mesures d'éviction de l'allergène, antihistaminiques et corticoïdes en pulvérisations nasales"

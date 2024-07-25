@@ -1,4 +1,5 @@
 +++
+id = "0190e8ba-a632-7126-ad0a-020a9dc0cefc"
 title = "Angine"
 prefix = "l'"
 description = "Recommandations pour le traitement de l'angine. Score de Mac Isaac, test de diagnostic rapide (TDR), indications à l'antibiothérapie et à l'amygdalectomie"
@@ -18,6 +19,7 @@ image = true
 imageSrc = "Angine érythémateuse gauche. Fireflyez76 sur Foter.com / CC BY-ND"
 flowchart = true
 modele = true
+todo = "rankok"
 +++
 
 {{%article-summary%}}

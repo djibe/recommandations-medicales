@@ -1,4 +1,5 @@
 +++
+id = "0190e8d5-e5e2-7d9a-ac2f-95494069f710"
 title = "Syphilis"
 prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge de la syphilis. Sérologie syphilitique et suivi sérologique, antibiothérapie pénicilline G et dépistage"

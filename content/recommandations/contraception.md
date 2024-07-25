@@ -1,4 +1,5 @@
 +++
+id = "0190e8bf-1807-73cc-a0fa-033af0b58bc1"
 title = "Contraception"
 prefix = "la "
 description = "Recommandations contraception avec tous les contraceptifs disponibles et leurs contre-indications (phlébite), coter les consultations contraception gratuites..."

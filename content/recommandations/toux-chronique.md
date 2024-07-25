@@ -1,4 +1,5 @@
 +++
+id = "0190e8d6-4374-7a01-b54c-7043c0512b3d"
 title = "Toux chronique"
 prefix = "la "
 description = "Recommandations pour la prise en charge d'une toux chronique. Iatrogénie, PCR coqueluche, radiographie de thorax. Traitement d'épreuve rhinorrhée, EFR, avis ORL"

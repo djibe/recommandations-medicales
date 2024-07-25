@@ -1,4 +1,5 @@
 +++
+id = "0190e8c6-bd80-7ca8-b6b3-2a9f7ae675e1"
 title = "Insuffisance ovarienne prématurée (ex ménopause précoce)"
 prefix = "l'"
 titleSeo = "Insuffisance ovarienne Ménopause précoce"

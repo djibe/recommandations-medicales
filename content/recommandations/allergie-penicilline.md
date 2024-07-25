@@ -1,4 +1,5 @@
 +++
+id = "0190e8ba-3047-7670-bae6-61c88535c255"
 title = "Allergie à la pénicilline"
 prefix = "l'"
 description = "TODO: Recommandations pour le diagnostic et la prise en charge d'une allergie à la pénicilline"

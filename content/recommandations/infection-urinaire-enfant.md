@@ -1,4 +1,5 @@
 +++
+id = "0190e8c6-5d6b-78e5-b36f-7275bc15c4b1"
 title = "Infections urinaires de l'enfant: cystite et pyélonéphrite aiguës"
 titleSeo = "Infections urinaires enfant"
 prefix = "les "

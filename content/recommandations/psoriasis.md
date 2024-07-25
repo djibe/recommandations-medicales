@@ -1,4 +1,5 @@
 +++
+id = "0190e8ca-de4c-745c-bf5c-495969ebdc3b"
 title = "Psoriasis"
 prefix = "le "
 description = "Recommandations pour la prise en charge du psoriasis. Dermocorticoïdes et analogues vitamine D3 calcipotriol, bétaméthasone. Avis dermatologique et biothérapie"

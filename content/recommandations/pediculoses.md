@@ -1,4 +1,5 @@
 +++
+id = "0190e8c9-f9f2-7619-a38d-b5910ea0d257"
 title = "Pédiculoses (poux)"
 prefix = "les "
 description = "Recommandations pour le diagnostic et la prise en charge des poux. Peigne anti-poux, lotion de diméticone et examen de l'entourage pour décontamination"

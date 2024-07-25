@@ -1,4 +1,5 @@
 +++
+id = "0190e8c1-fdc3-7ab2-9bc0-3b94d1e910ae"
 title = "Embolie pulmonaire (EP)"
 prefix = "l'"
 description = "Recommandations pour la prise en charge d'une suspicion d'embolie pulmonaire au cabinet. Score de Wells ou Genève, règle PERC, durée des anticoagulants AOD ..."

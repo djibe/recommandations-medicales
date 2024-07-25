@@ -1,4 +1,5 @@
 +++
+id = "0190e8c1-b02b-76ca-873c-63f81c7550fc"
 title = "Dyspepsie"
 prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge de la dyspepsie. Douleur ou inconfort digestif. Indications à la fibroscopie et traitement par IPP"

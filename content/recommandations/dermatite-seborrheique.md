@@ -1,4 +1,5 @@
 +++
+id = "0190e8bf-e4c0-780f-8526-f4b07b986d6b"
 title = "Dermatite séborrhéique"
 prefix = "la "
 titleSeo = "Dermatite séborrhéique"

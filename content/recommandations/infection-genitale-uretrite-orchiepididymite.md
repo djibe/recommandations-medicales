@@ -1,4 +1,5 @@
 +++
+id = "0190e8c6-3edf-7ccc-aebc-dbe77efc7856"
 title = "Infections génitales de l'homme: urétrite et orchiépididymite"
 titleSeo = "Urétrite et orchiépididymite"
 prefix = "les "

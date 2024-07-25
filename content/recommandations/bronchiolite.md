@@ -1,4 +1,5 @@
 +++
+id = "0190e8bd-272a-7eee-9402-3c7fc09a7786"
 title = "Bronchiolite aiguë du nourrisson"
 prefix = "la "
 titleSeo = "Bronchiolite aiguë"
@@ -19,7 +20,7 @@ icd10 = "J21.9"
 image = true
 imageSrc = "Virus respiratoire syncytial (VRS) de la bronchiolite au microscope. CDC 1981 du United States Department of Health and Human Services, Public domain, via Wikimedia Commons"
 flowchart = true
-todo = "SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
+todo = "rankok, SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
 +++
 
 {{%article-summary%}}

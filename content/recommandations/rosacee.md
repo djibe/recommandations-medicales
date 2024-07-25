@@ -1,4 +1,5 @@
 +++
+id = "0190e8cb-6123-733b-892c-cd0cabaf98a1"
 title = "Rosacée"
 prefix = "la "
 description = "Recommandations pour la prise en charge et le diagnostic de la rosacée. Traitement par métronidazole, doxycycline, propranolol et avis dermatologique pour laser"

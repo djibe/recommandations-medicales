@@ -1,4 +1,5 @@
 +++
+id = "0190e8c1-f269-7b9b-9063-f2f172d42ce4"
 title = "Électrophorèse des protéines sériques et immunoglobuline monoclonale (EPS)"
 prefix = "l'"
 titleSeo = "Immunoglobuline monoclonale"

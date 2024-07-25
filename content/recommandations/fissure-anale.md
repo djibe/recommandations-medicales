@@ -1,4 +1,5 @@
 +++
+id = "0190e8c3-37f6-731e-ad53-cc8605e74f47"
 title = "Fissure anale"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la fissure anale. Examen anal et mesures d'hygiène: lutte contre la constipation, anesthésique topique avec lidocaine"

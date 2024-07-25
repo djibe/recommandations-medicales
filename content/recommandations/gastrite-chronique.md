@@ -1,4 +1,5 @@
 +++
+id = "0190e8c3-79ba-752f-8084-e678403072a5"
 title = "Gastrite chronique"
 prefix = "la "
 description = "TODO:"

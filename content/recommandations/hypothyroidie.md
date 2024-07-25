@@ -1,4 +1,5 @@
 +++
+id = "0190e8c5-b56f-71c2-a602-4673dca3da68"
 title = "Hypothyroïdie"
 prefix = "l'"
 description = "Recommandations pour la prise en charge de l'hypothyroïdie dont Hashimoto. Bilan TSH et T4L, parfois échographie thyroïdienne, titration de la lévothyroxine"

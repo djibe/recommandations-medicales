@@ -1,4 +1,5 @@
 +++
+id = "0190e8c8-b107-7514-bcf0-945c85582b28"
 title = "Migraine"
 prefix = "la "
 description = "Dernières recommandations pour la prise en charge de la migraine. Traitement de la crise, AINS, triptans et indications au traitement de fond betabloquant"

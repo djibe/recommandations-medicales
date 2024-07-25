@@ -1,4 +1,5 @@
 +++
+id = "0190e8c9-473c-7ac5-b64d-2651fb35b875"
 title = "Nodule thyroïdien"
 prefix = "le "
 description = "Recommandations pour la prise en charge des nodules thyroïdiens: bilan et indications de l'échographie thyroïdienne, la cytoponction, le traitement et le suivi"

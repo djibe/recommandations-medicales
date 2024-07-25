@@ -1,4 +1,5 @@
 +++
+id = "0190e8c4-e93a-7bc1-ac6b-900065e716c4"
 title = "Hyperferritinémie"
 prefix = "l'"
 description = "Recommandations pour la prise en charge d'une hyperferritinémie. Bilan de ferritine élevée: coefficient de saturation de la transferrine CST, bilan hépatique"

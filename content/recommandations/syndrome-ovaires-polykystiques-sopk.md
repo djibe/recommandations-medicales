@@ -1,4 +1,5 @@
 +++
+id = "0190e8cc-f261-70f5-9766-e7e3a7a13270"
 title = "Syndrome des ovaires polykystiques (SOPK)"
 titleSeo = "Syndrome ovaires polykystiques SOPK"
 prefix = "le "

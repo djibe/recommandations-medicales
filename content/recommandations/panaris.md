@@ -1,4 +1,5 @@
 +++
+id = "0190e8c9-d0d5-7685-8ee6-65dc40d2345c"
 title = "Panaris"
 prefix = "le "
 description = "Recommandations pour la prise en charge du panaris. Infection par Staphylocoque doré ou streptocoque. Bains antiseptiques voire antibiothérapie"

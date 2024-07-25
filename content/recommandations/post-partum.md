@@ -1,4 +1,5 @@
 +++
+id = "0190e8ca-6ed1-7e9d-9219-f7a3c5a2ca65"
 title = "Post-partum"
 prefix = "le "
 description = "Recommandations pour la prise en charge du post-partum: anticoagulation, rééducation périnéale, contraception, vaccination, anémie et consultation postnatale"

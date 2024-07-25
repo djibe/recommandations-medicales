@@ -1,4 +1,5 @@
 +++
+id = "0190e8c8-a39f-7f14-9cb3-69917b0ba0f9"
 title = "Maladies inflammatoire chroniques intestinales (MICI)"
 prefix = "les "
 description = "TODO:"

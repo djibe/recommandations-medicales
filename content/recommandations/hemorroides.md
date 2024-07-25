@@ -1,4 +1,5 @@
 +++
+id = "0190e8c4-18ac-7d34-b00e-794dd87452fd"
 title = "Hémorroïdes et maladie hémorroïdaire"
 prefix = "les "
 titleSeo = "hémorroïdes"

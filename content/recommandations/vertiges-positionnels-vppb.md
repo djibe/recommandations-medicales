@@ -1,4 +1,5 @@
 +++
+id = "0190e8d6-d88b-7f6c-b522-7365a790972d"
 title = "Vertige positionnel paroxystique bénin (VPPB)"
 titleSeo = "Vertige positionnel VPPB"
 prefix = "le "

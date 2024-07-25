@@ -1,4 +1,5 @@
 +++
+id = "0190e8bf-4e9e-7aff-b749-197e2f64ae92"
 title = "Corticothérapie et corticoïdes systémiques"
 titleSeo = "Corticothérapie et corticoïdes"
 prefix = "la "

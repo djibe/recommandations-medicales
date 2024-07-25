@@ -1,4 +1,5 @@
 +++
+id = "0190e8bd-c7de-7107-8250-08c19a058235"
 title = "Cancer de la prostate"
 prefix = "le "
 description = "Recommandations pour la prise en charge du cancer de la prostate. Indications au dépistage et conduite à tenir selon le PSA, toucher rectal et avis urologique"

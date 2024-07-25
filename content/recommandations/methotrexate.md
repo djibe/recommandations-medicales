@@ -1,4 +1,5 @@
 +++
+id = "0190e8c8-975b-76fd-9a37-6a608da2ef19"
 title = "Méthotrexate"
 prefix = "le "
 titleSeo = "médicament Méthotrexate"

@@ -1,4 +1,5 @@
 +++
+id = "0190e8ca-1415-78db-9c30-bea8601f6b5e"
 title = "Phimosis"
 prefix = "le "
 description = "Recommandations pour le diagnostic et la prise en charge du phimosis. Prépuce étroit après 8 ans: applications de dermocorticoïdes 8 semaines voire chirurgie"

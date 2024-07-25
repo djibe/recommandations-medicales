@@ -1,4 +1,5 @@
 +++
+id = "0190e8cb-91a8-7b3f-9fe0-17f3ea26e37b"
 title = "Scores et outils cliniques"
 noindex = true
 url = "/scores"

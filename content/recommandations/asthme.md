@@ -1,4 +1,5 @@
 +++
+id = "0190e8bc-6323-7c40-ae9f-45fdac740ee2"
 title = "Asthme de l'adulte et de l'enfant de plus de 6 ans"
 prefix = "l'"
 titleSeo = "Asthme adulte et enfant"

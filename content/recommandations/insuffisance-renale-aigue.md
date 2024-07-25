@@ -1,4 +1,5 @@
 +++
+id = "0190e8c6-cbbb-785d-9250-fb1c85987558"
 title = "Insuffisance rénale aiguë (IRA)"
 prefix = "l'"
 description = "Recommandations pour la prise en charge de l'insuffisance rénale aiguë. Vérifier la gravité clinique et un globe vésical, adresser aux Urgences pour échographie"

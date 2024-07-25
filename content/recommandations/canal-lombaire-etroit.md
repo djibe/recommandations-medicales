@@ -1,4 +1,5 @@
 +++
+id = "0190e8bd-48cd-7c3d-82a4-4917cd907ba9"
 title = "Canal lombaire étroit (CLE) ou rétréci"
 titleSeo = "Canal lombaire étroit"
 prefix = "le "

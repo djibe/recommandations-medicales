@@ -1,4 +1,5 @@
 +++
+id = "0190e8c8-ff37-7f05-b09a-de9edacd409f"
 title = "Morsure par un homme ou un animal"
 prefix = "la "
 description = "Recommandations pour le traitement et la prise en charge des morsures par un homme ou un animal (chien). Exploration de la plaie, antibiothérapie, tétanos, rage"

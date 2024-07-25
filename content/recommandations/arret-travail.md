@@ -1,4 +1,5 @@
 +++
+id = "0190e8bb-308d-7b70-8722-1ff833cfc41c"
 title = "Arrêt de travail"
 noindex = true
 prefix = "l'"

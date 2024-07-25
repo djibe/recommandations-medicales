@@ -1,4 +1,5 @@
 +++
+id = "0190e8cc-a1b4-7ce0-b38d-99af9a655511"
 title = "Syndrome coronarien aigu (SCA) et infarctus du myocarde (IDM)"
 titleSeo = "Syndrome coronarien infarctus du myocarde"
 prefix = "les "

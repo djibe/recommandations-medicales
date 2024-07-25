@@ -1,4 +1,5 @@
 +++
+id = "0190e8b9-5bf3-7c42-9348-81c338eddf72"
 title = "Acromégalie"
 prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge de l'acromégalie. IRM hypophysaire, IGF-1, syndrome dysmorphique, adresser en centre de compétence HYPO"

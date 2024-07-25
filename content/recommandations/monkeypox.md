@@ -1,4 +1,5 @@
 +++
+id = "0190e8c8-cdaf-7111-b4aa-0571cd3c0570"
 title = "Variole du singe (Monkeypox ou mpox)"
 prefix = "la "
 titleSeo = "Variole du singe (Monkeypox)"

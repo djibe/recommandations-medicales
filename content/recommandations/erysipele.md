@@ -1,4 +1,5 @@
 +++
+id = "0190e8c2-9003-791f-9118-10d5cb25e696"
 title = "Érysipèle et dermohypodermite bactérienne non nécrosante"
 prefix = "la "
 titleSeo = "Érysipèle"

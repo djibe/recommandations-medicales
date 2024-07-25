@@ -1,4 +1,5 @@
 +++
+id = "0190e8ba-3fd8-76c3-a5d1-18f1f31fa0c9"
 title = "Allergie aux protéines de lait de vache (APLV)"
 prefix = "l'"
 titleSeo = "Allergie protéines lait vache"

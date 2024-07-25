@@ -1,4 +1,5 @@
 +++
+id = "0190e8cc-8ed7-7d33-8bd5-d49f861eb937"
 title = "Syndrome du canal carpien"
 prefix = "le "
 titleSeo = "Syndrome du canal carpien"

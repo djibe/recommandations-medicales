@@ -1,4 +1,5 @@
 +++
+id = "0190e8d7-3bb5-7a0d-957e-a6c6eecc144e"
 title = "Nausées et vomissements pendant la grossesse et hyperémèse gravidique"
 titleSeo = "Vomissements grossesse hyperémèse gravidique"
 prefix = "les "

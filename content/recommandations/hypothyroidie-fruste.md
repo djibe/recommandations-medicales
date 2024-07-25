@@ -1,4 +1,5 @@
 +++
+id = "0190e8c5-a7b6-7dd1-8d4c-d27c1f666688"
 title = "Hypothyroïdie fruste"
 prefix = "l'"
 description = "Recommandations pour la prise en charge de l'hypothyroïdie fruste. Surveillance de la TSH et des anticorps anti-TPO et indications au traitement lévothyroxine"

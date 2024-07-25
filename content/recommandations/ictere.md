@@ -1,4 +1,5 @@
 +++
+id = "0190e8c5-c272-7ab5-b31a-2f31d6748aab"
 title = "Ictère"
 prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge d'un ictère. Bilan biologique, Gilbert, bilirubine conjuguée avec échographie des voies biliaires"

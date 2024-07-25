@@ -1,4 +1,5 @@
 +++
+id = "0190e8c0-2937-7e87-8afb-52fec79d424b"
 title = "Diabète de type 2 (DT2)"
 titleSeo = "Diabète type 2 DT2"
 prefix = "le "

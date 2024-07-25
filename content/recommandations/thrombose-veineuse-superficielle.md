@@ -1,4 +1,5 @@
 +++
+id = "0190e8d6-34c0-7c9d-a64f-42fb5fae7284"
 title = "Thrombose veineuse superficielle (TVS)"
 noindex = true
 prefix = "la "

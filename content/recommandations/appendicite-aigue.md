@@ -1,4 +1,5 @@
 +++
+id = "0190e8ba-e243-78f8-8e93-2778c7de74ba"
 title = "Appendicite aiguë"
 prefix = "l'"
 description = "Recommandations pour la prise en charge de l'appendice aiguë. Syndrome inflammatoire, échographie abdominale ou TDM. Urgence chirurgicale voire antibiothérapie"

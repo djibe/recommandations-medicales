@@ -1,4 +1,5 @@
 +++
+id = "0190e8c7-aad2-7e43-b871-1de5fb9377ff"
 title = "Maladie de Kawasaki"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la maladie de Kawasaki. Éruption fébrile de l'enfant, critères diagnostiques, urgences, aspirine et immunoglobulines"
