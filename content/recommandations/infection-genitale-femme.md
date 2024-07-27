@@ -148,6 +148,7 @@ La responsabilité de *Mycoplasma genitalium* est possible dans certains cas de 
 
 ### Bibliographie en attente
 
+- <https://www.has-sante.fr/jcms/c_2038472/fr/choix-et-durees-d-antibiotherapies-uretrites-et-cervicites-non-compliquees>
 - SPILF 2020
 - HAS Cervicite compliquée 2021
 - [Gonococcie](https://www.sfdermato.org/upload/recommandations/gonococcie-8e5167e17549b4912a1f1a4b3011eda7.pdf)

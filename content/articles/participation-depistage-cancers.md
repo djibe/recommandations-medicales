@@ -17,14 +17,16 @@ imageSrc = "du dépistage des cancers par starline / Freepik"
 todo = "https://www.e-cancer.fr/Patients-et-proches/Les-cancers - ### Le dépistage organisé des cancers | KEY x10: dépistage du cancer | x3: cancer du sein, mammographie de dépistage, dépistage organisé, participation au dépistage, assurance maladie, décès par cancer, dépistage individuel, données, facteurs de risque, programme de dépistage | x1: ATCD personnel de cancer, avance de frais, consultation d'oncogénétique, courrier d'invitation, prise en charge thérapeutique, tranches d'âge"
 +++
 
-3 cancers bénéficient en France d'un dépistage organisé par l'*Institut National du Cancer* (INCa) et sont remboursés à 100 % par l'*Assurance Maladie*. Il s'agit de cancers fréquents et graves, dont 2 concernent les femmes: le [cancer du sein]({{< relref "cancer-sein.md" >}}) et du [col de l'utérus]({{< relref "cancer-col-uterus.md" >}}), ainsi que le [cancer colorectal]({{< relref "cancer-colorectal.md" >}}) pour tous de 50 à 74 ans.
+Trois cancers bénéficient en France d'un **dépistage organisé** par l'*Assurance Maladie* et sont remboursés à 100 % par l'*Assurance Maladie*. Il s'agit de cancers fréquents et graves, dont deux concernent exclusivement les femmes: les [cancers du sein]({{< relref "cancer-sein.md" >}}) et du [col de l'utérus]({{< relref "cancer-col-uterus.md" >}}), ainsi que le [cancer colorectal]({{< relref "cancer-colorectal.md" >}}) pour tous de 50 à 74 ans.
 {.lead}
 
-Pourtant plus le cancer tue, moins les Français participent à sa prévention par le dépistage. Ainsi, le cancer colorectal, responsable de 17.100 décès annuels (2018, 2<sup>e</sup> en mortalité) n'est recherché que par **34 %** des Français.
+Pourtant, plus le cancer tue, moins les Français participent à sa prévention par le dépistage. Ainsi, le cancer colorectal, responsable de 17.100 décès annuels (2018, 2<sup>e</sup> en mortalité) n'est recherché que par **34 %** des Français.
 
 Le taux maximal de participation au dépistage, qui atteint 59 %, concerne le cancer du col de l'utérus, responsable pour sa part de 1100 décès annuels (métropole 2018).
 
 Pour tous les dépistages, les taux de participation restent très en-dessous des attentes de santé publique.
+
+**NB.** La liste des patients n'ayant pas participé au dépistage organisé d'un cancer est désormais disponible depuis *AmeliPro* (*[Ameli Medecin](https://www.ameli.fr/medecin/actualites/la-liste-des-patients-n-ayant-pas-realise-leurs-depistages-de-cancers-est-disponible-dans-amelipro)*).
 
 ## Graphique de la participation au dépistage organisé des cancers et décès par cancer
 

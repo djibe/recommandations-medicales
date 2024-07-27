@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-07-05T11:55:10+02:00"
 publishdate = "2024-07-18"
-lastmod = "2024-07-18"
+lastmod = "2024-07-27"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2024"
 sources = ["ACG", "INCa"]
@@ -34,8 +34,8 @@ Chapitres liés: [hypercalcémie]({{< relref "hypercalcemie.md" >}}), [mésusage
 {{%collapse "Définition" %}}
 
 Pancréatite aiguë (PA)
-: Inflammation aiguë du pancréas causée par une agression du parenchyme hépatique et/ou par une obstruction du suc pancréatique. Elle est le plus souvent d'origine biliaire (40-70 %), alcoolique (25-35 %, alors sur pancréatite chronique) voire tumorale (et par hypertriglycéridémie pendant la grossesse).
-: Il s'agit d'une urgence médicale fréquente dont l'évolution est très variable, imprédictible, nécessitant une observation initiale. Même avec une étiologie bien identifiée, 20 à 29 % présentent une récidive.
+: Inflammation aiguë du pancréas causée par une agression du parenchyme pancréatique et/ou par une obstruction du suc pancréatique. Elle est le plus souvent d'origine biliaire (40-70 %), alcoolique (25-35 %, alors sur pancréatite chronique) voire tumorale (et par hypertriglycéridémie pendant la grossesse).
+: Il s'agit d'une urgence médicale fréquente dont l'évolution est très variable, imprévisible, nécessitant une observation initiale. Même avec une étiologie bien identifiée, 20 à 29 % présentent une récidive.
 : Les complications de la pancréatite aiguë sont fréquentes (20 %) et graves: nécrose pancréatique, défaillance d'organe.
 
 ### Abréviations
@@ -77,7 +77,7 @@ Le diagnostic de pancréatite aiguë est posé sur la présence d'au moins 2 cri
 
 Les symptômes d'une pancréatite aiguë durent le plus souvent **quelques jours**, mais la survenue de complications (20 %) est **imprévisible** et nécessite une **hospitalisation** pour observation initiale.
 
-> Une origine alcoolique à la pancréatite ne peut être retenue qu'en cas de consommation modérée à forte (> 5 verres quotidiens) d'au moins 5 ans. Les pancréatites répétées sont également en faveur du [mésusage de l'alcool]({{< relref "sevrage-alcool.md" >}}).
+**NB.** Une origine alcoolique à la pancréatite ne peut être retenue qu'en cas de consommation modérée à forte (> 5 verres quotidiens) d'au moins 5 ans. Les pancréatites répétées sont également en faveur du [mésusage de l'alcool]({{< relref "sevrage-alcool.md" >}}).
 
 ### Interrogatoire
 
@@ -89,7 +89,7 @@ Les symptômes d'une pancréatite aiguë durent le plus souvent **quelques jours
 - Historique des symptômes
 - Symptômes de pancréatite aiguë
   - **Douleurs abdominales** (+90 %)  
-    Douleur **épigastrique** ou de l'hypocondre droit d'installation rapide, permanente, intense, avec **irradiation transfixiante** dorsale, le thorax ou les flancs et inhibition de l'inspiration. Position antalgique << en chien de fusil >>.
+    Douleur **épigastrique** ou de l'hypocondre droit d'installation rapide, permanente, intense, avec **irradiation transfixiante** dorsale (ou thoracique ou des flancs) avec inhibition de l'inspiration. Position antalgique << en chien de fusil >>.
   - Signes digestifs: vomissements
   - Signes généraux évocateurs de complications: fièvre
 
@@ -125,7 +125,7 @@ Le pic de lipasémie est précoce (max à 24-48 heures) et peut redescendre sous
 
 ### Échographie abdominale
 
-Au diagnostic (le patient est hospitalisé), l'échographie abdominale recherche une lithiase biliaire. Répéter l'échographie (± endoscopique, voire IRM des voies biliaires) la semaine suivante si l'hypothèse biliaire n'a pas été formellement infirmée.
+Au diagnostic (le patient est hospitalisé), l'échographie abdominale recherche une lithiase biliaire. Répéter l'échographie (± endoscopique, voire IRM des voies biliaires) la semaine suivante si les voies biliaires n'ont pas été parfaitement visualisées.
 
 ### Scanner abdominal avec injection
 

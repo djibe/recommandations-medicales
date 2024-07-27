@@ -8,10 +8,10 @@ synonyms = ["Sigmoïdite diverticulaire", "diverticulite colique", "sigmoïdite 
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-09T11:33:00+02:00"
 publishdate = "2021-02-09"
-lastmod = "2023-03-27"
+lastmod = "2024-07-26"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2022"
-sources = ["ACP", "HAS", "ESCP", "SNFGE"]
+annees = "2024"
+sources = ["HAS", "ACP", "ESCP", "SNFGE"]
 tags = ["obesite"]
 english = ["Acute diverticulitis", "Left-sided colonic diverticulitis"]
 sctid = "427910000"
@@ -24,9 +24,9 @@ todo = "https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.pdf"
 
 {{%article-summary%}}
 
-- La diverticulose colique est asymptomatique dans 80 % des cas
-- Première poussée de diverticulite sigmoïdienne aiguë (*ex* sigmoïdite diverticulaire): diagnostic systématique par scanner abdomino-pelvien
-- Pas d'antibiotiques en cas de crise de diverticulite non compliquée, sans gravité et sans grossesse durant les 48 premières heures
+- La diverticulose colique est asymptomatique dans 80% des cas
+- À la première poussée de diverticulite sigmoïdienne aiguë (*ex* sigmoïdite diverticulaire): diagnostic radiologique systématique par scanner abdomino-pelvien
+- Pas d'antibiothérapie en cas de crise de diverticulite non compliquée, sans gravité et sans grossesse durant les 48 premières heures de la crise douloureuse
 - Chirurgie prophylactique des diverticules en cas de comorbidités:  
   {{%class "text-black-secondary" %}}Immunodépression, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), altération de la qualité de vie, fistule, abcès, sténose symptomatique.{{%/class%}}
 
@@ -47,7 +47,7 @@ Elle est asymptomatique dans 80 % des cas.
 
 Les complications des poussées de diverticulite sigmoïdienne (*ex* sigmoïdite diverticulaire) surviennent principalement à la première poussée.
 
-Le traitement de la **diverticulite compliquée** (12 % des cas) est urgent et spécialisé:
+Le traitement de la **diverticulite compliquée** (12 % des cas) est urgent et spécialisé si:
 
 - Abcès
 - Fistule sigmoïdienne
@@ -81,7 +81,7 @@ Triade de symptômes d'une poussée de diverticulite sigmoïdienne aiguë:
 - Fièvre, sepsis
 - Troubles du transit
 
-> Le diagnostic clinique de poussée de diverticulite est erroné dans plus de 50 % des cas. – *[Werner 2003](https://doi.org/10.1007/s00330-003-1887-7)*
+> Le diagnostic clinique de poussée de diverticulite est erroné dans plus de 50% des cas. – *[Werner 2003](https://doi.org/10.1007/s00330-003-1887-7)*
 {.alert .alert-info}
 
 Facteurs prédictif de complication:
@@ -95,27 +95,42 @@ Facteurs prédictif de complication:
 
 > – *ACP 2022*
 
+### Interrogatoire
+
+- Antécédents: digestifs, immunodépression
+- Antécédents familiaux
+- Si femme non ménopausée: grossesse en cours
+- Traitements en cours
+- Date de début des symptômes
+- Symptômes
+  - Douleurs abdominales
+  - Signes généraux: fièvre, frissons
+  - Troubles du transit: nausées, vomissements, constipation
+
+### Examen clinique
+
+- Pression artérielle, fréquence cardiaque
+- Fréquences respiratoire
+- Palpation abdominale
+
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Les examens complémentaires sont systématiques pour affirmer le diagnostic de diverticulite sigmoïdienne aiguë.
+Un bilan est systématique pour affirmer le diagnostic de diverticulite sigmoïdienne aiguë.
 
 ### Bilan biologique devant une diverticulite sigmoïdienne
 
-- NFS
-- CRP
+- NFS, CRP
 - Créatininémie
 
 ### Scanner abdomino-pelvien avec injection
 
-Le scanner est obligatoire en cas de premier épisode de diverticulite (*HAS*)
+Le scanner est obligatoire en cas de premier épisode de diverticulite. (*HAS*)
 {.alert .alert-info}
 
-Le scanner est l'examen de référence pour le diagnostic et la recherche de complications d'une poussée de diverticulite.
+Le scanner est l'examen de référence pour le diagnostic et la recherche de complications d'une poussée de diverticulite. Il peut être ensuite réalisé uniquement en cas de **récidive d'intensité inhabituelle** ou de **syndrome inflammatoire biologique marqué** chez un patient sans comorbidités (*ESCP 2020*).
 
-Il peut être ensuite réalisé uniquement en cas de **récidive d'intensité inhabituelle** ou de **syndrome inflammatoire biologique marqué** chez un patient sans comorbidités (*ESCP 2020*).
-
-Il doit être réalisé dans les **72 heures** suivant le début des douleurs en ambulatoire (24h si hospitalisation).
+Le scanner est réalisé dans les **72 heures** suivant le début des douleurs en ambulatoire (24h si hospitalisation).
 
 Recours à l'échographie voire l'IRM en cas de contre-indication au scanner.
 
@@ -126,7 +141,7 @@ Indications à la coloscopie: au moins 2 crises (en l'absence de coloscopie dans
 La coloscopie doit être réalisée au moins 6 semaines après l'épisode diverticulaire.
 
 {{% /collapse %}}
-{{%collapse "Indications à l'hospitalisation" %}}
+{{%collapse "Critères d'hospitalisation" %}}
 
 {{%warning%}}
 
@@ -171,13 +186,14 @@ Aucun traitement ou régime ne permet de prévenir les crises de diverticulite
 Pas d'antibiothérapie en première intention devant une poussée diverticulaire en l'absence de complication au scanner
 {.alert .alert-info}
 
-Indication à l'antibiothérapie ambulatoire: échec thérapeutique à 48 heures sans critère d'hospitalisation.  
-Amoxicilline + acide clavulanique 1 g x 3/j pendant 7 jours.
+Indication à l'antibiothérapie ambulatoire: **échec thérapeutique à 48 heures** sans critère d'hospitalisation.
 
-Si allergie: ciprofloxacine 500 mg x 2/j OU lévofloxacine 500 mg x 1/j  
-\+ métronidazole 500 mg x 3/j pendant 7 jours.
+Amoxicilline-acide clavulanique 1 g x 3/j pendant 7 jours.
+{.alert .alert-info}
 
-### Chirurgie
+Si allergie documentée à la pénicilline: ciprofloxacine 500 mg x 2/j + métronidazole 500 mg x 3/j pendant 7 jours.
+
+### Chirurgie des diverticules
 
 À distance de l'épisode aigu (> 2 mois), la **sigmoïdectomie élective** est envisagée selon les indications suivantes:
 
@@ -193,9 +209,8 @@ Intérêt d'une **coloscopie** avant la chirurgie, surtout si +50 ans ou [risque
 {{% /collapse %}}
 {{% collapse "Prise en charge de la diverticulite sigmoïdienne" "show" %}}
 
-{{< mermaid title="Prise en charge d'une suspicion de diverticulite sigmoïdienne. Dr JB Fron d'après HAS 2017 et 2021" >}}
+{{< mermaid title="Prise en charge d'une suspicion de diverticulite sigmoïdienne. Dr JB Fron d'après HAS 2024 et antérieurs" >}}
 graph TB
-accTitle: Prise en charge d'une suspicion de diverticulite sigmoïdienne d'après HAS 2017 et 2021
   diverticulite[Suspicion de diverticulite]
   style diverticulite stroke:#4150f5, stroke-width: 1px
     diverticulite --> gravite("<b>Fragilité ?</b><br>- Grossesse<br>- Gravité clinique<br>- Contexte social<br>- Comorbidités")
@@ -206,13 +221,14 @@ accTitle: Prise en charge d'une suspicion de diverticulite sigmoïdienne d'aprè
             scanner -.-> autre
             scanner -- Oui --> Hospitalisation
             scanner -- Non --> med(Surveillance clinique)
-              med -.-> echec("Aggravation à 48h<br>sans critère d'hospitalisation") --> atb("<b>Antibiothérapie orale</b><br>Amox + a. clavulanique 1 g x 3/j 7j<br>") -. Allergie vraie .-> allergie("ATB 7 jours par<br>lévofloxacine 500 x 1/j<br>OU ciprofloxacine 500 x 2/j<br>+ métronidazole 500 x 3/j")
+              med -.-> echec("Aggravation à 48h<br>sans critère d'hospitalisation") --> atb("<b>Antibiothérapie orale</b><br>Amox-clavulanique 1 g x 3/j 7j<br>") -. Allergie vraie .-> allergie("ATB 7 jours par<br>ciprofloxacine 500 x 2/j<br>+ métronidazole 500 x 3/j")
         bio --> SIB-(Pas de SIB) --> autre(Autre diagnostic)
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, SPILF. Choix et durées d'antibiothérapies : Diverticulite aiguë sigmoïdienne non compliquée. 2024.](https://www.has-sante.fr/jcms/p_3282886/fr/choix-et-durees-d-antibiotherapies-diverticulite-aigue-sigmoidienne-non-compliquee)
 - {{< references/college-gastro >}}
 - [Qaseem A et al. Diagnosis and Management of Acute Left-Sided Colonic Diverticulitis: A Clinical Guideline From the American College of Physicians. Ann Intern Med. 2022.](https://www.acpjournals.org/doi/full/10.7326/M21-2710)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)

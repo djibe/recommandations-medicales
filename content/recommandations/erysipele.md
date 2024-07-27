@@ -8,10 +8,10 @@ synonyms = ["Érésipèle"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T19:35:02+02:00"
 publishdate = "2021-09-19"
-lastmod = "2023-10-20"
+lastmod = "2024-07-27"
 specialites = ["dermatologie", "infectiologie"]
-annees = "2023"
-sources = ["GPIP", "HAS", "SPILF"]
+annees = "2024"
+sources = ["HAS", "SPILF", "GPIP"]
 tags = []
 english = ["Erysipelas"]
 sctid = "44653001"
@@ -19,25 +19,24 @@ icd10 = "A46"
 image = true
 imageSrc = "Érysipèle de jambe droite. Grook Da Oger, CC BY-SA 3.0 via Wikimedia Commons"
 flowchart = true
-todo = "SEO, dose chez l'insuffisant rénal"
+todo = "dose chez l'insuffisant rénal"
 +++
 
 {{%article-summary%}}
 
-- Bilan biologique selon le terrain sur lequel survient l'érysipèle (diabète, fonction rénale ...)
-- Prise en charge de l'érysipèle et traitement: antibiothérapie par amoxicilline 50 mg/kg en 3 prises pendant 7 jours (max 6 g/j)
-- Réévaluation clinique de l'infection à 48 - 72 heures
-- Éradication de la porte d'entrée infectieuse ([intertrigo]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), [ulcère cutané]({{< relref "ulcere-veineux.md" >}}) ...)
-- Prévention des récidives d'érysipèle: contention veineuse en cas d'insuffisance veineuse
+- L'érysipèle ou *dermohypodermite bactérienne aiguë non nécrosante* (DHBNN) est une infection cutanée principalement streptococcique (SGA et staphylococcique chez l'enfant) atteignant la plupart du temps les membres inférieurs
+- Le bilan biologique n'est pas systématique et dépend des comorbidités (diabète, insuffisance rénale ...)
+- La prise en charge de l'érysipèle non compliqué est une antibiothérapie: amoxicilline 50 mg/kg/j en 3 prises pendant 7 jours (max 6 g/j)
+- Réévaluation clinique systématique de l'infection à 48-72 heures
+- Recherche et éradication de la porte d'entrée infectieuse: [intertrigo]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), [ulcère cutané]({{< relref "ulcere-veineux.md" >}}), plaie, dermatose ...
+- Prévention des récidives d'érysipèle: contention veineuse en cas d'insuffisance veineuse, de lymphœdème
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Érysipèle (ou érésipèle)
-: Infection cutanée désormais appelée *dermohypodermite bactérienne aiguë non nécrosante* (DHBNN), essentiellement streptococcique (SGA) survenant majoritairement aux membres inférieurs (85%).  
-Première cause de grosse jambe rouge aiguë.
-: Mécanisme toxi-infectieux, faible densité bactérienne dans les lésions.  
-Gravité initiale selon terrain, sévérité locale et sepsis.
+: Infection cutanée désormais appelée *dermohypodermite bactérienne aiguë non nécrosante* (DHBNN), essentiellement streptococcique (SGA) survenant majoritairement aux membres inférieurs (85%). C'est la première cause de grosse jambe rouge aiguë.
+: Mécanisme toxi-infectieux, faible densité bactérienne dans les lésions. Gravité initiale selon le terrain, la sévérité locale et la survenue d'un sepsis.
 : Chez l'enfant, les DHBNN sont dues au *Staphylococcus aureus* sensible à la méticilline (SASM) et au SGA.
 : Les complications sont exceptionnelles: abcès, sepsis sévère, glomérulonéphrite post-streptococcique, DHB nécrosante avec/sans fasciite nécrosante (DHBN-FN. Terrain +50 ans, diabète, hémopathie/cancer, insuffisance d'organe, toxicomanie).
 : Facteurs de risque d'érysipèle: facteurs locaux (lymphœdème, intertrigo, [ulcère de jambe]({{< relref "ulcere-veineux.md" >}}), plaie) et [obésité]({{< relref "obesite-adulte.md" >}}).
@@ -61,10 +60,7 @@ Autres causes de grosse jambe rouge:
 
 ### Abréviations
 
-CMIT
-: Collège des Universitaires des Maladies Infectieuses et Tropicales
-
-DHBNN
+DHB
 : dermohypodermite bactérienne
 
 DHBNN
@@ -75,6 +71,9 @@ FN
 
 GPIP
 : Groupe de Pathologie Infectieuse Pédiatrique (de la Société Française de Pédiatrie)
+
+SASM
+: *Staphylococcus aureus* sensible à la méticilline
 
 SGA
 : streptocoque β-hémolytique du groupe A (*Streptococcus pyogenes*)
@@ -115,7 +114,7 @@ Réévaluer cliniquement une suspicion d'érésipèle à 48-72 heures.
 
 Aucun examen complémentaire n'est indispensable pour le diagnostic d'érysipèle.
 
-### Bilan devant un érysipèle
+### Bilan d'un érysipèle
 
 Le bilan biologique est utile pour évaluer le retentissement en présence de comorbidités:
 
@@ -142,6 +141,9 @@ Mesures de prévention des érysipèles:
 
 ### Érysipèles récidivants au moins 2 fois an et facteurs favorisants non contrôlables
 
+Érysipèle récidivant
+: Survenue d'au moins 2 DHBNN par an. L'antibioprophylaxie est recommandée en cas de facteurs favorisants non contrôlables.
+
 Une antibioprophylaxie (après concertation) au long cours est possible avec un effet suspensif:
 
 - Benzathine-pénicilline G IM 2,4 MUI 1 injection toutes les 2 à 4 semaines
@@ -150,7 +152,7 @@ Une antibioprophylaxie (après concertation) au long cours est possible avec un 
 En cas d'allergie à la pénicilline: azithromycine 250 mg x 1/j
 
 {{% /collapse %}}
-{{%collapse "Traitement de l'érysipèle" %}}
+{{%collapse "Critères d'hospitalisation" %}}
 
 {{%warning%}}
 
@@ -170,37 +172,37 @@ En cas d'allergie à la pénicilline: azithromycine 250 mg x 1/j
 
 Et chez l'enfant, facteurs supplémentaires: **âge < 1 an**, syndrome toxinique, post-opératoire (abdomen, périnée), extensif ou rapidement progressif, échec d'antibiothérapie orale, suspicion d'emboles septiques (arthrite ...), difficultés d'administration.
 
-### Traitement ambulatoire de l'érysipèle
+{{% /collapse %}}
+{{%collapse "Traitement de l'érysipèle" %}}
 
-La prise en charge ambulatoire d'un érysipèle n'est possible que si le **tableau est typique sans signe de gravité** chez un patient sans antécédents:
+### Prise en charge ambulatoire de l'érysipèle
+
+La prise en charge ambulatoire d'un érysipèle n'est possible que si le **tableau est typique sans signe de gravité** chez un patient sans antécédents (*HAS/SPILF 2024*):
 
 {{%info%}}
-Amoxicilline 50 mg/kg/j en 3 prises pendant 7 jours (max 6 g/j, *HAS 2021*)
+Amoxicilline 50 mg/kg/j (max 6 g/j) en 3 prises pendant 7 jours
 
 Enfant: amoxicilline-acide clavulanique 1 dose-poids x 3/j pendant 7 jours
 {{%/info%}}
 
 Selon Prescrire®: pénicilline V (Oracilline®) 1-1,5 MUI x 4/j jusqu'à amélioration des signes locaux.
 
-Autres schémas de prise en charge par antibiothérapie:
+Antibiothérapies recommandées en cas d'allergie documentée à la pénicilline ou de morsure:
 
-- Allergie à la pénicilline
-  - Clindamycine (Dalacine®) 600 mg x 3/j (x 4/j si poids > 100 kg) pendant 7 jours
-  - ou pristinamycine (Pyostacine®) 1 g x 3/j pendant 7 jours
+- Clindamycine (Dalacine®) 600 mg x 3/j (x 4/j si poids > 100 kg) pendant 7 jours
+- ou pristinamycine (Pyostacine®) 1 g x 3/j pendant 7 jours
 - Enfant
-  - <mark>Amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 7 jours</mark>
-  - Alternative: céfalexine 50 mg/kg/j (max 2 g/j) en 2-3 prises pendant 7 jours
-  - Si allergie pénicilline +6 ans: clindamycine buvable 30 mg/kg/j (max 2,4 g/j) en 3 prises pendant 7 jours
-  - Si allergie pénicilline avant 6 ans: triméthoprime-sulfaméthoxazole 30 mg/kg/j (de SMX, max 1,6 g/j) en 2 prises pendant 7 jours
-- Morsure d'animal (adulte)  
+  - Après 6 ans: clindamycine 30 mg/kg/j (max 2,4 g/j) en 3 prises pendant 7 jours
+  - Avant 6 ans: triméthoprime-sulfaméthoxazole 30 mg/kg/j (de SMX, max 1,6 g/j) en 3 prises pendant 7 jours
+- Adulte: [morsure d'animal]({{< relref "morsure.md" >}})
   - Amoxicilline-acide clavulanique 50 mg/kg/j en 3 prises pendant 7 jours (amoxicilline max 6 g/j et a. clavulanique max 375 mg/j)
   - Avis infectiologique en cas d'allergie à la pénicilline
 
-> – *HAS 2021* et *GPIP 2023* (enfant)
+> – *HAS/SPILF/GPIP 2024*
 
 ### Mesures associées
 
-Recommandations de prise en charge associées:
+Recommandations de prise en charge associées pour le traitement d'un érysipèle:
 
 - Surveillance clinique quotidienne des signes locaux et généraux
 - Éradication de la porte d'entrée  
@@ -222,17 +224,16 @@ Aucune indication des corticoïdes (sauf traitement au long cours).
 {{% /collapse %}}
 {{%collapse "Prise en charge d'un érysipèle" "show" %}}
 
-{{< mermaid title="Conduite à tenir et prise en charge d'un érysipèle. Dr JB Fron d'après HAS/SPILF 2019 et 2021" >}}
+{{< mermaid title="Conduite à tenir et prise en charge d'un érysipèle. Dr JB Fron d'après HAS/SPILF 2024" >}}
 graph TB
-accTitle: Conduite à tenir et prise en charge d'un érysipèle d'après HAS/SPILF 2019 et 2021
   diagnostic[Diagnostic clinique d'érysipèle]
-  style diagnostic stroke:#4150f5, stroke-width:1px
     diagnostic --> indichospitalisation("<b>Indication à l'hospitalisation ?</b><br>—<br>- Fasciite nécrosante<br>- Doute diagnostique<br>- SG marqués<br>- Fragilité<br>- Contexte social<br>- Complication locale<br>- AINS, corticoïdes<br>- Échec à 24-48h")
       indichospitalisation -- Non --> antibiotique("- Amoxicilline 50 mg/kg en 3 prises<br>7 jours (max 6 g/j)<br>- Surveillance clinique<br>- Porte d'entrée<br>- Vaccinations<br>- Anticoagulation selon déambulation")
         antibiotique --> prevention("<b>Prévention</b><br>—<br>- Contention veineuse<br>- Porte d'entrée<br>- ≥ 2 récidives/an<br>Pénicilline V ou BPG")
         antibiotique -- Allergie pénicilline --> allergie("- Clindamycine 600 mg x 3/j<br>x 4/j si poids > 100 kg<br>- ou pristinamycine 1 g x 3/j")
       indichospitalisation -- Oui --> hospitalisation(Hospitalisation)
     diagnostic -- Diagnostic différentiel --> differentiel("- Pied diabétique<br>- DH bactérienne aiguë<br>- DH sur insuffisance veineuse<br>- Eczéma")
+  style diagnostic stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 > **BPG =** Benzathine-pénicilline G; **DH =** dermohypodermite; **SG =** signes généraux.
@@ -240,6 +241,8 @@ accTitle: Conduite à tenir et prise en charge d'un érysipèle d'après HAS/SPI
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, SPILF. Choix et durées d'antibiothérapies : Prise en charge des dermohypodermites bactériennes non nécrosantes (DHBNN) chez l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3282443/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-dermohypodermites-bacteriennes-non-necrosantes-dhbnn-chez-l-adulte)
+- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Prise en charge des dermohypodermites bactériennes non nécrosantes (DHBNN) chez l'enfant. 2024.](https://www.has-sante.fr/jcms/p_3282445/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-dermohypodermites-bacteriennes-non-necrosantes-dhbnn-chez-l-enfant)
 - [Gillet Y et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)
 - [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-155.pdf)
 - [Collège des enseignants de dermatologie de France (CEDEF). Grosse jambe rouge aiguë. Item 350. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-350-%E2%80%94-Grosse-jambe-rouge-aigue_CompressPdf.pdf)

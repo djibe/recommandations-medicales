@@ -19,7 +19,7 @@ sctid = ""
 icd10 = ""
 image = true
 imageSrc = "Les monographies des médicaments. jemastock / Freepik"
-todo = "DCI, unified search, update"
+todo = "<https://listjs.com/>, unified search, update"
 +++
 
 Consulter la monographie (indications, posologies, contre-indications ...) de tous les médicaments utiles en soins primaires (hors homéopathie) de la Base de données publique des médicaments (BDPM).
@@ -32,7 +32,7 @@ Consulter la monographie (indications, posologies, contre-indications ...) de to
 </div>
 <div id="spinner">Chargement...</div>
 <p><span id="result-count"></span> Médicaments</p>
-<div id="cis-list" class="list-group">
+<div id="medication-list" class="list-group">
   <p id="no-results" class="list-group-item mb-0" style="display:none">Aucun résultat</p>
 </div>
 
@@ -44,7 +44,7 @@ try {
 // Charger le fichier JSON au chargement de la page
 const response = await fetch('/data/bdpm-search.json');
 const data = await response.json();
-const cisList = document.getElementById('cis-list');
+const medicationList = document.getElementById('medication-list');
 const searchInput = document.getElementById('search-input');
 const resultCount = document.getElementById('result-count');
 const noResults = document.getElementById('no-results');
@@ -60,16 +60,19 @@ data.forEach(item => {
   a.textContent = item.libelle;
   a.target = "_blank";
   a.classList.add('list-group-item', 'list-group-item-action');
-  cisList.appendChild(a);
+  a.dataset.dci = item.dci;
+  medicationList.appendChild(a);
 });
 // Filtrer la liste des codes CIS en fonction de la recherche
 searchInput.addEventListener('keyup', () => {
     const filter = searchInput.value.toUpperCase();
-    const li = cisList.getElementsByTagName('a');
+    const li = medicationList.getElementsByTagName('a');
     let count = 0;
+
     for (let i = 0; i < li.length; i++) {
-        const txtValue = li[i].textContent || li[i].innerText;
-        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        const libelle = li[i].textContent || li[i].innerText;
+        const dci = li[i].dataset.dci;
+        if (libelle.toUpperCase().indexOf(filter) > -1 || dci.toUpperCase().indexOf(filter) > -1) {
           li[i].style.display = "";
           count++;
         } else {
