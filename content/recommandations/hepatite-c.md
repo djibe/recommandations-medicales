@@ -9,14 +9,14 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Comité de l'AFEF"
 date = "2020-09-06T20:18:41+02:00"
 publishdate = "2020-09-06"
-lastmod = "2023-10-12"
+lastmod = "2024-07-29"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2023"
 sources = ["HAS", "AFEF"]
 tags = ["depistage", "fatigue", "hepatite", "IST", "prurit", "VIH"]
 english = ["Hepatitis C"]
 sctid = "50711007"
-icd10 = "B18.2"
+icd10 = ["B18.2"]
 image = true
 imageWEBP = true
 imageSrc = "Illustration de l'hépatite C par scientificanimations.com, CC BY-SA 4.0"
@@ -26,21 +26,23 @@ todo = "SEO 'charge virale hepatite c', symptômes/fatigue, hépatoprotection"
 
 {{%article-summary%}}
 
-Adaptation des recommandations de l'AFEF et HAS pour la prise en charge simplifiée de l'hépatite C par le médecin généraliste
+Adaptation des recommandations de l'*AFEF* et la *HAS* pour la prise en charge simplifiée de l'hépatite C par le médecin généraliste
 
-- L'hépatite C est désormais une maladie guérissable (+90%)
+- L'hépatite C est la plus souvent chronique et silencieuse mais désormais guérissable
 - Dépister largement l'hépatite C car elle reste sous-diagnostiquée (voir *Qui dépister?*), couplée aux sérologies VHB et VIH
 - Tout médecin peut prescrire les antiviraux à action directe (AAD) pour la guérison de l'hépatite C
-- Évaluation des comorbidités, interactions médicamenteuses et de la fibrose hépatique avant le traitement
-- Traitement antiviral par Epclusa® ou Maviret® pendant respectivement 12 ou 8 semaines
-- Surveillance chronique de la cirrhose et de la charge virale (guérison, réinfection)
+- Bilan de l'hépatite C: rechercher les comorbidités, interactions médicamenteuses et mesurer la fibrose hépatique avant le traitement
+- La prise en charge de l'hépatite C associe: traitement antiviral par Epclusa® ou Maviret® pendant respectivement 12 ou 8 semaines, mesures d'hépatoprotection à vie
+- Suivi à vie de la cirrhose et de la charge virale (guérison, réinfection)
+
+Chapitres liés: [carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}}), [hépatite B]({{< relref "hepatite-b.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Hépatite C
-: Maladie du foie causée par l'infection chronique du virus de l'hépatite C (VHC, identifié en 1989), à l'origine d'une hépatite le plus souvent silencieuse qui devient chronique dans 80% des cas.  
-La transmission est sanguine (drogues intraveineuses ou sniffées, sexe). Elle atteinte surtout les hommes de 40 à 59 ans.
+: Maladie du foie causée par l'infection chronique du virus de l'hépatite C (VHC, identifié en 1989), à l'origine d'une hépatite la plus souvent silencieuse qui se chronicise dans 80% des cas.  
+La transmission de l'hépatite C est sanguine (drogues intraveineuses ou sniffées, sexe). Elle atteinte surtout les hommes de 40 à 59 ans.
 : Des médicaments antiviraux permettent une guérison totale dans la grande majorité des cas.
 : Enjeux liés à la diffusion du virus, la cirrhose et ses complications: hypertension portale et carcinome hépatocellulaire.
 
@@ -74,8 +76,7 @@ VHC
 
 - **Décès:** 2700 annuels
 - Sous-diagnostic: 1 personne sur 2 n'est pas diagnostiquée  
-  soit 75.000 personnes non diagnostiquées en 2014  
-  {{%class%}}Chez les 18-80 ans, contre 101.000 en 2004.{{%/class%}}
+  soit 75.000 personnes non diagnostiquées en 2014 (chez les 18-80 ans, contre 101.000 en 2004).
 
 #### L'hépatite C dans le monde
 
@@ -86,7 +87,7 @@ VHC
 {{% /collapse %}}
 {{%collapse "Hépatite C - Qui dépister?" %}}
 
-Personnes à risque d'hépatite C:
+Dépister les personnes à risque d'hépatite C:
 
 - Tout adulte au moins 1 fois dans sa vie (*AFEF*)
 - Toute personne qui a pu avoir un contact avec le VHC
@@ -138,7 +139,7 @@ Personnes à risque d'hépatite C:
 
 ### Sérologie hépatite C et co-infections hépatite B et VIH
 
-> Le dépistage VHB - VHC - VIH doit être combiné. – *AFEF*
+> Le dépistage VHB-VHC-VIH doit être combiné. – *AFEF*
 {.alert .alert-warning}
 
 Sérologie hépatite C ([Remb. 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=3784&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)):
@@ -161,7 +162,7 @@ Mesure de la charge virale hépatite C systématique lorsque 2 sérologies sont 
 
 > << la recherche du génotype du VHC n'est pas nécessaire >>. – *AFEF*
 
-### Bilan devant une découverte d'hépatite C
+### Bilan d'une hépatite C
 
 - Sérologie VIH  
 - Sérologie VHB: Ag Hbs, anticorps anti-HBs, anticorps anti-HBc
@@ -175,15 +176,13 @@ Mesure de la charge virale hépatite C systématique lorsque 2 sérologies sont 
 
 ### Fibrose hépatique
 
-Mesure de la fibrose hépatique systématique après la découverte d'une hépatite C.  
-Par le spécialiste ou sur prescription pour un traitement ambulatoire.
+Mesure de la fibrose hépatique systématique après la découverte d'une hépatite C.
 
 Test non invasif de fibrose hépatique en première intention:
 
-- Élastographie hépatique  
+- Radiologique: élastographie hépatique
   - Absence de maladie sévère si résultat < 10 kPa
   - [Remb. 100% en ALD x 1/an](https://www.aideaucodage.fr/ccam-hlqm002)
-  - Élastographie hépatique
 - Tests sanguins
   - FibroTest®  
     Absence de maladie sévère si résultat ≤ 0,58.  
@@ -192,17 +191,17 @@ Test non invasif de fibrose hépatique en première intention:
     Absence de maladie sévère si résultat ≤ 0,786.  
     [Remb. 100% en ALD x 1/an](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=1001&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
 
-Mentionner sur l'ordonnance << hépatite chronique C non traitée >> pour le remboursement.
+> Mentionner sur l'ordonnance << hépatite chronique C non traitée >> pour le remboursement.
 
 {{% /collapse %}}
 {{% collapse "Traitement simplifié de l'hépatite C" %}}
 
-Prise en charge de l'hépatite C par antiviraux à action directe possible par tout médecin pour maximiser les chances de traitement en contexte de parcours de soins difficile.
+La prise en charge de l'hépatite C par un antiviral est possible par tout médecin afin de maximiser les chances de traitement en contexte de parcours de soins difficile.
 
 **Objectifs:** réduire la mortalité toutes causes et obtenir une guérison virologique.  
 **Guérison:** réponse virologique avec ARN du VHC indétectable dans le plasma au moins 12 semaines après l'arrêt du traitement. Obtenue dans 90% des cas avec les AAD.
 
-### Conditions du traitement anti VHC par le médecin généraliste
+### Conditions du traitement de l'hépatite C par le médecin généraliste
 
 - Absence de traitement anti-VHC antérieur
 - Absence de co-infection VHB ou VIH
@@ -216,7 +215,7 @@ Prise en charge de l'hépatite C par antiviraux à action directe possible par t
 
 Prise en charge d'une hépatite C et mesures d'hépatoprotection:
 
-- [ALD n°6]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°6]({{< relref "affection-longue-duree.md" >}})
 - Observance maximale du traitement
 - Proscrire toute interaction avec les antiviraux ([Outil en ligne HEP Drug Interactions](https://www.hep-druginteractions.org/checker))  
   Enquête sur l'automédication +++.
@@ -232,12 +231,13 @@ Prise en charge d'une hépatite C et mesures d'hépatoprotection:
   - Charge virale VHC répétée en cas de comportements à risque
   - Pas de partage des rasoirs, brosse à dent.
   - Matériel à usage unique en cas d'acte invasif (drogue IV).
-- Information du patient: [guide AFEF](https://afef.asso.fr/hepatite-c/)
+- Information du patient: [guide AFEF hépatite C](https://afef.asso.fr/hepatite-c/)
 - Association de patients: [SOS hépatites](https://soshepatites.org)
+- {{< references/compare >}}
 - [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 45](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2045)  
   Exposition lors de soins ou au contact de personnes contaminées.
 
-### Antiviraux à Action Directe (AAD) de l'hépatite C
+### Antiviraux à action directe (AAD) de l'hépatite C
 
 Epclusa® 400/100 mg 1 cp par jour pendant 12 semaines  
 ou Maviret® 3 cp en 1 prise par jour, pendant le repas, pendant 8 semaines
@@ -246,7 +246,7 @@ ou Maviret® 3 cp en 1 prise par jour, pendant le repas, pendant 8 semaines
 **Tout médecin peut prescrire les antiviraux de l'hépatite C**.  
 Mesure de la charge virale obligatoire avant de débuter le traitement.
 
-2 schémas thérapeutiques au choix (guérison > 90%):
+2 schémas thérapeutiques au choix (guérison dépassant 90%):
 
 - [Epclusa® (PDF)](https://ec.europa.eu/health/documents/community-register/2020/20200825148798/anx_148798_fr.pdf) (sofosbuvir + velpastavir)  
   Epclusa® 400/100 mg 1 cp par jour pendant 12 semaines.
@@ -258,19 +258,19 @@ Mesure de la charge virale obligatoire avant de débuter le traitement.
 {{%info%}}
 Contrôle de la charge virale VHC 12 à 24 semaines après la fin du traitement:
 
-- Charge virale négative: Patient guéri
-- Charge virale positive: Adresser au spécialiste
+- Charge virale négative: guérison
+- Charge virale positive: adresser à l'hépatologue
 
-**NB.** Persistance des anticorps anti-VHC après la guérison
+**NB.** Les anticorps anti-VHC persistent après la guérison.
 {{%/info%}}
 
 {{% /collapse %}}
 {{% collapse "Traitement spécialisé de l'hépatite C" %}}
 
-Prise en charge de l'hépatite C par le gastro-entérologue lorsque les conditions d'accès aux soins le permettent, que les conditions de prise en charge en premier recours ne sont pas remplies (voir *Conditions du traitement...*) ou en cas de persistance d'une charge virale 12 semaines après la fin du traitement antiviral.
+La prise en charge de l'hépatite C est spécialisée lorsque les conditions d'accès aux soins le permettent, que les conditions de prise en charge en premier recours ne sont pas remplies (voir *Conditions du traitement...*) ou en cas de persistance d'une charge virale 12 semaines après la fin du traitement antiviral.
 
 {{% /collapse %}}
-{{% collapse "Surveillance" %}}
+{{% collapse "Suivi après hépatite C" %}}
 
 ### Surveillance pendant le traitement
 
@@ -279,7 +279,7 @@ Prise en charge de l'hépatite C par le gastro-entérologue lorsque les conditio
 
 ### Surveillance après le traitement
 
-La surveillance après la guérison d'une hépatite C dépend de l'atteinte hépatique pré-traitement et de la persistance de facteurs de risque:
+Le suivi après la guérison d'une hépatite C dépend de l'atteinte hépatique pré-traitement et de la persistance de facteurs de risque:
 
 - Si persistance de conduites à risque: PCR VHC x 1-2/an ou après injection à risque
 - Mesures d'hépatoprotection à vie  
@@ -294,7 +294,6 @@ En l'absence de ces facteurs de risque et de toute comorbidité hépatique (alco
 
 {{< mermaid title="Prise en charge de l'hépatite C. Dr JB Fron d'après HAS 2019" >}}
 graph TB
-accTitle: Prise en charge de l'hépatite C. Dr JB Fron d'après HAS 2019
   serologie["Sérologie VHC<br>(+ VHB + VIH)"] --> serologie+(Positive)
   style serologie stroke:#4150f5, stroke-width:1px
   serologie+ --> pcr(Charge virale VHC)
@@ -316,7 +315,6 @@ accTitle: Prise en charge de l'hépatite C. Dr JB Fron d'après HAS 2019
 
 {{< mermaid title="Conduite à tenir dans les suites de la réalisation d'un TROD VHC. Dr JB Fron d'après HAS 2019" >}}
 graph TB
-accTitle: Conduite à tenir dans les suites de la réalisation d'un TROD VHC d'après HAS 2019
   trod[TROD VHC] --> trod+(Positif)
   style trod stroke:#4150f5, stroke-width:1px
   trod+ --> serologie(Sérologie VHC)

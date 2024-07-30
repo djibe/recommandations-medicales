@@ -5,7 +5,7 @@ prefix = "la "
 noindex = true
 titleSeo = "CoViD-19"
 description = "Mémo pour la gestion du Covid-19 pour le généraliste. Indications au traitement antiviral, schéma de rappel du vaccin Covid-19"
-synonyms = ["CoViD-19"]
+synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
@@ -16,7 +16,7 @@ sources = ["MinSanté", "HAS", "HCSP"]
 tags = ["vaccin"]
 english = ["CoViD-19"]
 sctid = "840539006"
-icd10 = "U07.1"
+icd10 = ["U07.1"]
 image = true
 imageSrc = "La Covid-19 par stories / Freepik"
 todo = "tjs paxlo ? ; https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1246, https://ansm.sante.fr/actualites/troubles-menstruels-apres-la-vaccination-contre-le-covid-19-etat-des-connaissances-et-conseils-aux-femmes-concernees"

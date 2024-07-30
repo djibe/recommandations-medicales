@@ -15,6 +15,7 @@ sources = ["HAS"]
 tags = ["chute", "depistage", "diabete", "douleur", "geriatrie", "neuropathie", "prevention", "vertige"]
 english = ["Chiropody follow-up", "podiatry follow-up"]
 sctid = "400982009"
+icd10 = []
 draft = true
 image = false
 imageSrc = ""

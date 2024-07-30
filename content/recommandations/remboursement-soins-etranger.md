@@ -16,6 +16,7 @@ sources = ["Ameli"]
 tags = []
 english = []
 sctid = ""
+icd10 = []
 image = true
 imageSrc = "Illustration par Freepik"
 +++

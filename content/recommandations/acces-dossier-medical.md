@@ -15,6 +15,7 @@ sources = ["Service-Public"]
 tags = []
 english = ["Access to the medical file"]
 sctid = ""
+icd10 = []
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
 todo = "Personne de confiance ?"

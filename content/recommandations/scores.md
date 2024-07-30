@@ -18,6 +18,7 @@ sources = []
 tags = ["risque cardiovasculaire"]
 english = ["Medical scores"]
 sctid = ""
+icd10 = []
 image = true
 imageSrc = "Scores cliniques par slidesgo / Freepik"
 todo = "texte"

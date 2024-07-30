@@ -15,7 +15,7 @@ sources = ["Service-Public"]
 tags = ["cancer", "geriatrie"]
 english = ["Advance directives"]
 sctid = "9421000146109"
-icd10 = ""
+icd10 = []
 image = true
 imageSrc = "Les directives anticipées / UnDraw"
 +++

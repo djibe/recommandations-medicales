@@ -16,6 +16,7 @@ sources = ["MinSanté", "Service-Public"]
 tags = ["nourrisson", "enfant", "adolescent"]
 english = ["Children follow up"]
 sctid = "183616001"
+icd10 = []
 image = true
 imageSrc = "Illustration du suivi de l'enfant par pch.vector / Freepik"
 todo = "SEO 'consultation nourrisson remboursé 100', HAS tabac p.48"

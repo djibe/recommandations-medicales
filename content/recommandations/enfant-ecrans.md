@@ -16,6 +16,7 @@ sources = ["Acad Médecine"]
 tags = ["adolescent", "enfant"]
 english = []
 sctid = ""
+icd10 = []
 image = true
 imageSrc = "Illustration de l'exposition aux écrans des enfants par studio4rt / Freepik"
 todo = "https://www.santepubliquefrance.fr/docs/temps-d-ecran-de-2-a-5-ans-et-demi-chez-les-enfants-de-la-cohorte-nationale-elfe, https://jamanetwork.com/journals/jamapediatrics/fullarticle/2808593"

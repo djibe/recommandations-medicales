@@ -15,6 +15,7 @@ sources = ["Afssaps"]
 tags = []
 english = ["English word"]
 sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
+icd10 = []
 atc = "B01AB"
 draft = true
 image = false

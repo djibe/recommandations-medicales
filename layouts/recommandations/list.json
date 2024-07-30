@@ -1,6 +1,6 @@
 {{ if hugo.IsProduction }}[
 {{- range $index, $value := where site.RegularPages "Section" "recommandations" -}}
-  {{ if $index }}, {{ end }}
+  {{ if and ($index) (ne .Params.draft "True") }}, {{ end }}
   {
     "id": "{{ .Params.id }}",
     "url": "{{ .RelPermalink }}",
@@ -12,8 +12,8 @@
     "sources": "{{ delimit .Params.sources ", " }}",
     "reviewer": "{{ with .Params.relecteur }}{{ . }}{{ end }}",
     "tags": "{{ delimit .Params.tags ", " }}",
-    "synonyms": "{{ .Params.synonyms }}",
-    "icd10": "{{ .Params.icd10 }}",
+    "synonyms": {{ with .Params.synonyms }}{{ printf "%s" ( . | jsonify ) }}{{ else }}[]{{ end }},
+    "icd10": {{ with .Params.icd10 }}{{ printf "%s" ( . | jsonify ) }}{{ else }}[]{{ end }},
     "date": "{{ .Date }}",
     "lastmod": "{{ .Lastmod }}",
     "contentHTML": {{ .Content | safeHTML | jsonify }}

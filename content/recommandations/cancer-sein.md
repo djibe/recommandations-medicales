@@ -15,7 +15,7 @@ sources = ["INCa", "HAS", "ACOG"]
 tags = ["cancer", "contraception", "depistage"]
 english = ["Malignant neoplasm of breast "]
 sctid = "254837009"
-icd10 = "C50.9"
+icd10 = ["C50.9"]
 image = true
 imageSrc = "Le cancer du sein, illustration par Freepik"
 todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, INCa autres guides"
@@ -288,12 +288,12 @@ Les mammographies sont remboursées à 100% (les examens supplémentaires ne le 
 
 #### Conduite à tenir selon les résultats de la mammographie
 
-{{< table title="Prise en charge selon la classification ACR des résultats des mammographies de dépistage selon HAS 2015 et INCa 2018" >}}
+{{< table title="Prise en charge selon la classification ACR des résultats des mammographies de dépistage selon HAS 2015 et INCa 2018" class="table-wrap" >}}
 | Classification | Signification         | Conduite à tenir |
 |----------------|-----------------------|------------------|
 | ACR 0          | Classification provisoire | Investigations supplémentaires nécessaires pour reclasser |
 | ACR 1 ou 2     | Normales ou bénignes  | Poursuite du dépistage tous les 2 ans jusqu'à 74 ans, consultation sans délai si symptôme |
-| ACR 3          | Probablement bénignes | Surveillance clinique et radiologique tous les 6 mois pendant 2 ans |
+| ACR 3          | Probablement bénignes | Surveillance clinique et radiologique tous les 6 mois (4 mois si masse) pendant 1 an puis contrôle à 2 ans et reclassification ACR2 si stable (*[IGR](https://www.gustaveroussy.fr/sites/default/files/referentiel-senorif-2021-2022.pdf)*) |
 | ACR 4 ou 5     | Anormales             | Biopsie échoguidée (sénologue, radiologue) puis avis sénologique rapide |
 {{< /table >}}
 

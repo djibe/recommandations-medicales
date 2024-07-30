@@ -15,7 +15,7 @@ sources = ["Anses"]
 tags = ["enfant", "geriatrie", "grossesse", "nourrisson", "prevention"]
 english = ["Hygiene and food preservation measures"]
 sctid = ""
-icd10 = ""
+icd10 = []
 image = true
 imageSrc = "Conservation des aliments. macrovector / Freepik"
 +++

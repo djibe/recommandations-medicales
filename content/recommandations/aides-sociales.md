@@ -16,6 +16,7 @@ sources = ["MinSanté"]
 tags = ["geriatrie"]
 english = ["Social health insurance"]
 sctid = ""
+icd10 = []
 image = true
 imageSrc = "Illustration des aides sociales par rawpixel.com / Freepik"
 todo = "https://www.has-sante.fr/upload/docs/application/pdf/2018-03/annexes2.pdf"

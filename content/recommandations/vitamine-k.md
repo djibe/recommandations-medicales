@@ -14,6 +14,7 @@ sources = ["SFNeonat"]
 tags = ["nourrisson"]
 english = ["Vitamin K"]
 sctid = "65183007"
+icd10 = []
 atc = "B02BA"
 image = false
 imageSrc = ""

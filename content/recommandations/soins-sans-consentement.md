@@ -16,7 +16,7 @@ sources = ["Society1"]
 tags = []
 english = ["English word", "you can add one or delete this one"]
 sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = "https://prod-mapping.ihtsdotools.org/#/"
+icd10 = ["https://prod-mapping.ihtsdotools.org/#/"]
 draft = true
 image = false
 imageSrc = ""

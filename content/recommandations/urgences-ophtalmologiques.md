@@ -16,6 +16,7 @@ sources = []
 tags = []
 english = ["Ophthalmic emergencies"]
 sctid = ""
+icd10 = []
 image = true
 imageSrc = "Les urgences ophtalmologiques par Freepik"
 todo = "SEO toulon, 78, 91, 92, 93, 94, 95, Carto, Pitié ?, http://www.ch-larochelle.fr/ch-la-rochelle/infos-pratiques/urgences-et-numeros-utiles, https://www.polevision.fr/urgence.php, toulon, grenoble, dijon, angers, nimes, villeurbanne, avignon, pau, bayonne, poitiers, annecy, lorient, valence, angouleme, chartres, niort, béziers, Hôpital Louis Pasteur Colmar, https://www.hopitalprivesevigne.com/specialites/urgences/"

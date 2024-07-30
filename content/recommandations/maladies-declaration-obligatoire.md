@@ -16,7 +16,7 @@ sources = ["SPF"]
 tags = []
 english = ["Notifiable diseases"]
 sctid = ""
-icd10 = ""
+icd10 = []
 image = true
 imageSrc = "Illustration des Maladies à déclaration obligatoire par rawpixel.com / Freepik"
 +++

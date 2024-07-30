@@ -16,6 +16,7 @@ sources = ["Service-Public"]
 tags = ["geriatrie"]
 english = ["Contact eczema"]
 sctid = ""
+icd10 = []
 image = true
 imageSrc = "L'Allocation Personnalisée d'Autonomie (APA). storyset / Freepik"
 +++

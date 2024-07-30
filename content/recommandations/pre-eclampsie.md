@@ -14,7 +14,7 @@ sources = ["CNGOF", "SFAR", "USPTF"]
 tags = ["antiplaquettaire", "cephalees", "depistage", "diabete", "HTA", "grossesse", "nephropathie", "obesite", "risque cardiovasculaire"]
 english = ["Pre-eclampsia"]
 sctid = "398254007"
-icd10 = "O14.9"
+icd10 = ["O14.9"]
 image = true
 imageSrc = "Découverte d'une vascularite placentaire après délivrance dans les suites d'une pré-éclampsie. Nephron, CC BY-SA 3.0, via Wikimedia Commons"
 todo = "RELECTURE, weeks of gestation = SA ou SG ?"

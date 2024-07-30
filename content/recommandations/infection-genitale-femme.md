@@ -15,7 +15,7 @@ sources = ["HAS", "SPILF", "SFD"]
 tags = ["IST"]
 english = ["Women's genital infections"]
 sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = "https://prod-mapping.ihtsdotools.org/#/"
+icd10 = ["https://prod-mapping.ihtsdotools.org/#/"]
 draft = true
 image = false
 imageSrc = ""
