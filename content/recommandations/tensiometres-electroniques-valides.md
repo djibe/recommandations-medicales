@@ -9,7 +9,7 @@ synonyms = ["Sphygmomanomètre électronique oscillométrique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-19T15:20:19+02:00"
 publishdate = "2023-10-20"
-lastmod = "2024-06-28"
+lastmod = "2024-07-31"
 specialites = ["cardiologie"]
 annees = "2024"
 sources = ["ESH", "BIH"]
@@ -38,39 +38,10 @@ Les brassards électroniques **validés par les sociétés savantes d'hypertensi
 La gamme de prix est très variable (de 33 à 650 €) et parmi les tensiomètres (ou sphygmomanomètres) validés les moins chers disponibles en France on peut citer les marques: Andon (iHealth Track KN-550BT ou BP3L 40€, KD-5920 60€, KD-5923 33€), Fitage, Omron (M7 80€).
 {.alert .alert-info}
 
-<script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Tensiomètres électroniques validés pour la mesure de la pression artérielle en consultation. Dr JB Fron d'après Sociétés savantes citées."}</script>
-<table id="bp-monitors" class="table">
-<caption><span class="font-weight-bold">Tableau.</span> Tensiomètres électroniques validés pour la mesure de la pression artérielle en consultation. Dr JB Fron d'après Sociétés savantes citées.</caption>
-<thead>
-  <tr>
-    <th scope="col">Fabricant</th>
-    <th scope="col">Modèle</th>
-    <th scope="col">Population</th>
-    <th scope="col">Lieu</th>
-    <th scope="col">Évaluateur</th>
-  </tr>
-</thead>
-</table>
+{{< csv-to-table file="/data/tensiometres-valides.csv" title="Tensiomètres électroniques validés pour la mesure de la pression artérielle en consultation. Dr JB Fron d'après Sociétés savantes citées." >}}
 
 > **AMT =** automesure tensionnelle ; **BIH =** British and Irish Hypertension Society ; **ESH =** European Society of Hypertension (StrideBP)
 
 Le tensiomètre électronique n'a pas besoin de recalibration mais le contrôle des brassards doit être annuel. Le brassard est spécifique de chaque appareil.
 
 Autre bibliographie: [Ishigami J et al. Effects of Cuff Size on the Accuracy of Blood Pressure Readings: The Cuff(SZ) Randomized Crossover Trial. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/10.1001/jamainternmed.2023.3264)
-
-<script>
-window.addEventListener('load', () => {
-  $(function () {
-    $('#bp-monitors').DataTable({
-      ajax: '/data/tensiometres.json',
-      columns: [
-        { data: 'Fabricant' },
-        { data: 'Modèle' },
-        { data: 'Population' },
-        { data: 'Lieu' },
-        { data: 'Evaluateur' }
-      ]
-    })
-  })
-})
-</script>

@@ -226,7 +226,7 @@ En cas de grossesse: les macrolides sont possibles (*[CRAT](https://www.lecrat.f
 
 #### Antibiotique de 2e intention
 
-- Azithromycine 2 x 250 mg en 1 prise par jour pendant **3 jours**  
+- Azithromycine 500 mg en 1 prise par jour pendant **3 jours**  
   ou 1 dose-kg/jour (20 mg/kg/j en 1 prise, max 500 mg/j)
 - En cas de pénurie: érythromycine 1g x 2/j pendant 14 jours  
   chez l'enfant +25 kg: érythromycine 40 mg/kg/j (max 3g/j) en 2-3 prises

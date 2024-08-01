@@ -349,14 +349,14 @@ Dans l'attente de la MAPA: observance, automesures avec appareil validé, revér
   - Contact lombaire
   - Signes d'un [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}), d'une [acromégalie]({{< relref "acromegalie.md" >}}) ou de [dysthyroïdie](/tags/tsh/)
 
-### Bilan initial de l'hypertension artérielle
+{{% /collapse %}}
+{{%collapse "Bilan initial de l'hypertension artérielle" %}}
 
-{{%info%}}
-Bilan d'HTA:
+### Bilan de l'HTA
 
 - NFS
 - Glycémie à jeun
-- Bilan lipidique: LDL, HDL, CT, TG
+- Bilan lipidique: Cholestérol LDL, HDL, CT, TG
 - Acide urique (marqueur de RCV)
 - Calcémie, albuminémie
 - Dépistage des complications
@@ -364,23 +364,11 @@ Bilan d'HTA:
   - Rapport albuminurie/créatininurie (RAC) sur échantillon
   - **ECG 12 dérivations**
   - Fond d'œil
-{{%/info%}}
-
-### Prise en charge après le diagnostic d'hypertension artérielle
-
-1. Confirmer le diagnostic par automesure/MAPA
-2. Noter dans le dossier les valeurs pré-traitement et le grade de l'hypertension (voir *Définitions*)
-3. Rechercher une *maladie cardiovasculaire* (MCV) et des complications de l'hypertension  
-    - *ECG 12D*, *Fond d'œil* si HTA grade 2-3 ou diabète, {{< modal-btn modal-depistage-prevalent >}}recherche d'AOMI{{< /modal-btn >}}
-    - Échocardiographie si anomalie ECG ou suspicion d'HVG
-    - Échodoppler des artères rénales si atteinte rénale ou suspicion d'HTA secondaire
-    - IRM cérébrale si déclin cognitif, antécédent familial d'hémorragie cérébrale à l'âge moyen ou de démence précoce
-4. Définir le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}}.  
-  En l'absence de maladie cardiovasculaire, calculer le risque {{< scores/heartscore >}}.
-5. Adresser au service d'hypertension si: suspicion d'HTA secondaire (voir *Clinique*) ou résistante, bilan des complications
 
 {{% /collapse %}}
 {{%collapse "Mesures hygiéno-diétetiques" %}}
+
+Mesures hygiéno-diétetiques au long cours pour la prise en charge de l'hypertension artérielle:
 
 - Restriction sodée < 5 g/j (ou substituer par KCl)
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et réduction de la [consommation d'alcool]({{< relref "sevrage-alcool.md" >}})  
@@ -412,7 +400,7 @@ La prise en charge de l'hypertension est toujours associée aux mesures hygiéno
 - Suivi 1-2/mois jusqu'à la cible (*ESH 2023*) puis contrôle à 3-6 mois la première année
 - Suivi au long cours: 1-2/an si équilibrée (*ESH 2023*)
 - Intérêt de l'éducation thérapeutique pour maximiser l'observance
-- Tant que PAS > 160/100 mmHg: pas de séjour en altitude > 2500m
+- Tant que la pression reste supérieure à 160/100 mmHg: pas de séjour en altitude au-delà de 2500m
 - Surveillance biologique (*ESH 2023* et *HAS 2016*)
   - Annuelle: ionogramme, créatininémie, DFG, rapport albuminurie/créatininurie
   - Tous les 3 ans: glycémie à jeun, bilan lipidique
@@ -520,6 +508,19 @@ graph TB
 {{< /mermaid >}}
 
 > **MCV =** maladie cardiovasculaire ; **RHD =** régime hygiéno-diététique
+
+### Prise en charge après le diagnostic d'hypertension artérielle
+
+1. Confirmer le diagnostic par automesure/MAPA
+2. Noter dans le dossier les valeurs pré-traitement et le grade de l'hypertension (voir *Définitions*)
+3. Rechercher une *maladie cardiovasculaire* (MCV) et des complications de l'hypertension  
+    - *ECG 12D*, *Fond d'œil* si HTA grade 2-3 ou diabète, {{< modal-btn modal-depistage-prevalent >}}recherche d'AOMI{{< /modal-btn >}}
+    - Échocardiographie si anomalie ECG ou suspicion d'HVG
+    - Échodoppler des artères rénales si atteinte rénale ou suspicion d'HTA secondaire
+    - IRM cérébrale si déclin cognitif, antécédent familial d'hémorragie cérébrale à l'âge moyen ou de démence précoce
+4. Définir le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}}.  
+  En l'absence de maladie cardiovasculaire, calculer le risque {{< scores/heartscore >}}.
+5. Adresser au service d'hypertension si: suspicion d'HTA secondaire (voir *Clinique*) ou résistante, bilan des complications
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}

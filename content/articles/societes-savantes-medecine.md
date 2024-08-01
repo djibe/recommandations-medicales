@@ -5,7 +5,7 @@ longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-22T15:57:00+02:00"
 publishdate = "2023-09-28"
-lastmod = "2024-07-15"
+lastmod = "2024-07-31"
 specialites = []
 annees = "2024"
 sources = []
@@ -13,7 +13,7 @@ tags = []
 image = true
 imageSrc = "des sociétés savantes de médecine / unDraw"
 datatable = true
-todo = "rankok, ESH, SFC"
+todo = "rankok"
 +++
 
 De très nombreuses sociétés savantes médicales existent et publient régulièrement des recommandations et guides de bonnes pratiques.

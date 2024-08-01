@@ -207,7 +207,7 @@ Un traitement par minoxidil et/ou finastéride pourrait limiter la progression d
 {{< mermaid title="Prise en charge d'une alopécie par le médecin généraliste. Dr JB Fron d'après EDF 2017" >}}
 graph TB
   Alopécie --> cuir(Cuir chevelu sain ?) -- Oui --> clinique("Progressive,<br>zones androgénétiques ?") -- Non --> sain("Étayer:<br>- Effluvium télogène<br>- Pelade")
-    clinique -- Oui --> AAG(Alopécie androgénique) -- Homme --> Homme("- Minoxidil<br>- Finastéride (INFO)") --> réévaluation(Réévaluation M6) -- Efficace --> poursuite(Poursuite)
+    clinique -- Oui --> AAG(Alopécie androgénique) -- Homme --> Homme("- Minoxidil<br>- Finastéride<br>(Information risques)") --> réévaluation(Réévaluation à M6) -- Efficace --> poursuite(Poursuite)
       AAG -- Femme --> Femme(Minoxidil 2%) --> réévaluation
         réévaluation -- Échec --> dermatologue(Dermatologue)
     cuir -- Non --> différentiel("- Teigne<br>- Lupus<br>- Lichen plan<br>- Sarcoïdose<br>- Sclérodermie<br>- Métastase") --> dermatologue

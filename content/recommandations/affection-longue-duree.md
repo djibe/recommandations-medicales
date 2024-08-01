@@ -97,6 +97,7 @@ Exemples:
 
 - [Acromégalie]({{< relref "acromegalie.md" >}})
 - Malformation congénitale des membres
+- Forme persistante de symptômes post-[Covid-19]({{< relref "covid-19.md" >}})
 - [Embolie pulmonaire à répétition]({{< relref "embolie-pulmonaire.md" >}})
 - [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}})
 - [Asthme]({{< relref "asthme.md" >}})

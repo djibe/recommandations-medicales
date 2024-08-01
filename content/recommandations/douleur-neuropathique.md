@@ -272,7 +272,7 @@ Clomipramine 10 mg le soir. Paliers de 10 mg tous les 7 jours. Avis spécialisé
 > – *[OMéDIT Centre 2018](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/8120.pdf)* et [appli Douleur Hôpital Saint Joseph](https://play.google.com/store/apps/details?id=hopitalsaintjoseph.douleur)
 {{%/info%}}
 
-Traitements des douleurs neuropathiques de référence:
+Traitements de référence des douleurs neuropathiques:
 
 - IRSNA
   - **[Duloxétine 60-120 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64381382&typedoc=R)** (Cymbalta®, gén) en 1-2 prise/j

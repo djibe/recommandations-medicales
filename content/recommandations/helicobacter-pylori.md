@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-12-02T15:14:41+02:00"
 publishdate = "2020-12-02"
-lastmod = "2024-07-26"
+lastmod = "2024-08-01"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2024"
 sources = ["HAS", "SPILF", "GEFH", "SNFGE"]
@@ -21,20 +21,16 @@ image = true
 imageSrc = "Helicobacter pylori implantés sur la muqueuse gastrique, CDC/Dr Patricia Fields, Dr Collette Fitzgerald (PHIL 5715), 2004"
 flowchart = true
 todo = "rankok, reco enfant 2022, comment diag quand rosacée, dépistage en AINS long cours Maastricht III"
+modele = true
 +++
 
 {{%article-summary%}}
 
 - Dépister l'*Helicobacter pylori* par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication
 - Signes d'alarmes évocateurs de [cancer de l'estomac]({{< relref "cancer-estomac.md" >}}) en cas de symptômes digestifs hauts: dysphagie, amaigrissement, anémie. Une fibroscopie gastrique est nécessaire
-- Privilégier le traitement adapté à l'antibiogramme d'*Helicobacter pylori* (après endoscopie)
-- En l'absence d'antibiogramme, traitement probabiliste de première intention de l'*Helicobacter pylori* pendant 14 jours:  
-  (voir le bouton *Modèle d'ordonnance*)
-  - Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j)
-  - Clarithromycine 500 mg x 2/j
-  - Métronidazole 500 mg x 2/j
-  - IPP simple dose x 2/j
-  - {{< modal-btn modal-test-respi >}}Contrôle de l'éradication{{< /modal-btn >}} systématique avec le test à l'urée marquée à 1 mois
+- Privilégier une antibiothérapie adaptée à l'antibiogramme d'*Helicobacter pylori* (après endoscopie)
+- En l'absence d'antibiogramme, traitement probabiliste de première intention de l'*Helicobacter pylori* pendant 14 jours: quadrithérapie associant amoxicilline, clarithromycine, métronidazole et IPP pendant 14 jours (voir le bouton *Modèle d'ordonnance*)
+- {{< modal-btn modal-test-respi >}}Contrôle de l'éradication{{< /modal-btn >}} systématique avec le test à l'urée marquée à 1 mois
 - Reporter le traitement d'éradication d'*Helicobacter pylori* en cas de grossesse ou d'allaitement
 
 {{%/article-summary%}}
@@ -61,7 +57,7 @@ todo = "rankok, reco enfant 2022, comment diag quand rosacée, dépistage en AIN
     <div class="collapse show" id="hp-1-reference">
 
 - Clarithromycine-Sensible  
-  <span>Amoxicilline 50 mg/kg/j (3-4 prises) + clarithromycine 500 x 2/j + ésoméprazole/rabéprazole 20 mg (IPP) x 2/j pendant 14 jours</span>
+  <span>Amoxicilline 50 mg/kg/j (3-4 prises) + clarithromycine 500 x 2/j + ésoméprazole/rabéprazole 20 mg (IPP) x 2/j pendant 10 jours</span>
 - Clarithromycine-Résistant et Quinolone-Sensible  
   <span>Amoxicilline 50 mg/kg/j (3-4 prises) + lévofloxacine 500 x 1/j (x 2/j pour le *GEFH*) + IPP x 2/j pendant 10 jours (14 selon le *GEFH*)</span>
 - Clarithromycine-Résistant et Quinolone-Résistant (ou non testée)  
@@ -92,17 +88,17 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
       </ul>
     </div>
     <div class="collapse" id="hp-2">
-      <ul>
-        <li><strong>Traitement probabiliste</strong></li>
-        <li>Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j)</li>
-        <li>+ Clarithromycine 500 mg x 2/j</li>
-        <li>+ Métronidazole 500 mg x 2/j</li>
-        <li>+ ésoméprazole 20 mg (IPP) x 2/j pendant 14 jours</li>
-        <li>Si prise antérieure de macrolides ou allergie documentée à l'amoxicilline:<br>
-          Pylera® 3 gél x 4/j + oméprazole 20 mg x 2/j
-        </li>
-      </ul>
-      <p class="typography-overline text-black-secondary pt-2">2<sup>e</sup> ligne</p>
+
+- **Traitement probabiliste**
+- Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j)
+- Clarithromycine 500 mg x 2/j
+- Métronidazole 500 mg x 2/j
+- Ésoméprazole 20 mg (IPP) x 2/j pendant 14 jours
+
+Si prise antérieure de macrolides ou allergie documentée à l'amoxicilline:  
+Pylera® 3 gél x 4/j + oméprazole 20 mg x 2/j
+
+<p class="typography-overline text-black-secondary pt-2">2<sup>e</sup> ligne</p>
       <ul>
         <li>Utiliser le traitement alternatif: Quadrithérapie <> Pylera® (pour les <em>HAS/SPILF</em>)</li>
         <li>Privilégier une EOGD selon le <em>GEFH</em></li>
@@ -252,7 +248,7 @@ Indications à l'endoscopie en première intention:
 > – *HAS 2017*
 
 {{% /collapse %}}
-{{%collapse "Traitement de Helicobacter pylori avec antibiogramme" %}}
+{{%collapse "Traitement guidé de Helicobacter pylori avec antibiogramme" %}}
 
 En cas de grossesse ou d'allaitement, il faut différer le traitement.
 {.alert .alert-warning}
@@ -271,7 +267,7 @@ En cas de sensibilité à la clarithromycine, trithérapie pendant 10 jours (14 
 
 - Amoxicilline 50 mg/kg/j (en 3-4 prises/j) pendant le repas
 - Clarithromycine 500 mg matin et soir pendant le repas
-- Ésoméprazole 20 mg matin et soir 15 minutes avant le repas
+- Ésoméprazole/rabéprazole 20 mg matin et soir 15 minutes avant le repas
 
 {{%/info%}}
 
@@ -283,7 +279,7 @@ Trithérapie pendant 10 jours (14 pour le *GEFH*):
 
 - Amoxicilline 50 mg/kg/j (en 3-4 prises/j) pendant le repas
 - Lévofloxacine 500 mg x 1/j pendant le repas (2/j pour le *GEFH*)
-- Ésoméprazole 20 mg matin et soir 15 minutes avant le repas
+- Ésoméprazole/rabéprazole 20 mg matin et soir 15 minutes avant le repas
 
 #### Résistance clarithromycine et lévofloxacine
 
@@ -421,13 +417,13 @@ La recherche de l'**antigène fécal** d'*H. pylori* est une alternative au test
 
 ### Traitement probabiliste en l'absence de l'antibiogramme de *H. pylori*
 
-{{< mermaid title="Prise en charge de l'infection à Helicobacter pylori sans antibiogramme. Dr JB Fron d'après HAS, SPILF 2024 et GEFH" >}}
+{{< mermaid title="Prise en charge probabiliste de l'infection à Helicobacter pylori sans antibiogramme. Dr JB Fron d'après HAS, SPILF 2024 et GEFH" >}}
 graph TB
   probabiliste["<em>H. pylori</em> prouvé<br>ET antibiogramme manquant"] --> grossesse(Grossesse ou<br>allaitement ?)
     grossesse == Non ==> choix("Alternative 1 à privilégier<br>Au choix selon GEFH")
       choix == Alternative 1 ===> concomitant("<b>Concomitant 14j</b><br>IPP + amoxicilline<br>+ clarithromycine<br>+ métronidazole")
       concomitant --> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et ≥ 2 semaines sans IPP")
-      choix -- "Alternative 2 ou<br>allergie pénicilline<br>ou macrolide récent" --> bismuth("<b>Quadrithérapie<br>bismuthée 10j</b>")
+      choix -- "Alternative 2:<br>allergie pénicilline<br>ou macrolide récent" --> bismuth("<b>Quadrithérapie<br>bismuthée 10j</b>")
         bismuth --> controle
           controle -- Négatif --> ok(Bactérie éradiquée)
           controle -- Positif ---> switch(Traitement alternatif<br>GEFH: privilégier une EOGD)
@@ -451,7 +447,7 @@ graph TB
 
 ### Traitement d'Helicobacter guidé par l'antibiogramme
 
-{{< mermaid title="Prise en charge de l'infection à Helicobacter pylori avec résultat d'antibiogramme. Dr JB Fron d'après HAS/SPILF 2024" >}}
+{{< mermaid title="Prise en charge de l'infection à Helicobacter pylori guidée par antibiogramme. Dr JB Fron d'après HAS/SPILF 2024 et GEFH 2021" >}}
 graph TB
   asymptomatique["<b>Asymptomatique</b><br>—<br>- &lt; 45 ans et ATCD K gastrique 1<sup>er</sup> degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em> ")
   style asymptomatique stroke:#4150f5, stroke-width:1px
@@ -463,7 +459,7 @@ graph TB
   style suspect stroke:#4150f5, stroke-width:1px
     gastro -- H. pylori + ---> grossesse("Grossesse ou<br>allaitement ?")
       grossesse == Non ===> antibiogramme("<b>Antibiogramme</b><br>Sensible clarithromycine?")
-        antibiogramme == Sensible ==> triAmox("<b>Trithérapie 10-14j</b><br>IPP + amoxicilline<br>+ clarithromycine")
+        antibiogramme == Sensible ==> triAmox("<b>Trithérapie 10j</b><br>IPP + amoxicilline<br>+ clarithromycine")
           triAmox ===> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et ≥ 2 semaines sans IPP")
         antibiogramme -- Résistant --> levofloS("Sensible lévofloxacine ?")
           levofloS -- Sensible --> levoflo("<b>Trithérapie 10-14j</b><br>IPP + amoxicilline<br>+ lévofloxacine") --> controle
@@ -512,6 +508,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 {{%sources%}}
 
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Traitement probabiliste de l'infection par Helicobacter pylori chez l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3282793/fr/choix-et-durees-d-antibiotherapies-traitement-probabiliste-de-l-infection-par-helicobacter-pylori-chez-l-adulte)
+- [HAS, SPILF. Choix et durées d'antibiothérapies : Traitement guidé de l'infection par Helicobacter pylori chez l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3282789/fr/choix-et-durees-d-antibiotherapies-traitement-guide-de-l-infection-par-helicobacter-pylori-chez-l-adulte)
 - [SNFGE. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/cancer-lestomac)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [Bénéjat L et al. Épidémiologie de l'infection à Helicobacter pylori en France en 2020 : données de surveillance du CNR Campylobacters et Hélicobacters. Bull Epidémiol Hebd. 2021.](http://beh.santepubliquefrance.fr/beh/2021/15/2021_15_2.html)
@@ -526,11 +523,23 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 
 ### Bibliographie en attente
 
-- [Malfertheiner P. et al. Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report. Gut. 2022.](https://pubmed.ncbi.nlm.nih.gov/35944925/)
-- [Kalach N et al.; GFHGNP. Diagnostic et traitement de l'infection à Helicobacter pylori chez l'enfant. 2022.](http://www.helicobacter.fr/wp-content/uploads/2022/01/Diagnostic-et-traitement-de-linfection-%C3%A0-Helicobacter-pylori-chez-l%E2%80%99enfant.pdf)
-- [Kalach N et al; Société Française de Pédiatrie (SFP). Helicobacter pylori chez l'enfant. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/hepato-gastro/helicobacter-pylori-chez-lenfant)
+- [Malfertheiner P, et al. Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report. Gut. 2022.](https://pubmed.ncbi.nlm.nih.gov/35944925/)
+- [Kalach N, et al; GFHGNP. Diagnostic et traitement de l'infection à Helicobacter pylori chez l'enfant. 2022.](http://www.helicobacter.fr/wp-content/uploads/2022/01/Diagnostic-et-traitement-de-linfection-%C3%A0-Helicobacter-pylori-chez-l%E2%80%99enfant.pdf)
+- [Kalach N, et al; Société Française de Pédiatrie (SFP). Helicobacter pylori chez l'enfant. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/hepato-gastro/helicobacter-pylori-chez-lenfant)
 
 {{%/sources%}}
+{{% modele %}}
+
+### Traitement probabiliste
+
+Quadrithérapie pendant 14 jours:
+
+- Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j)
+- Clarithromycine 500 mg matin et soir
+- Métronidazole 500 mg matin et soir
+- Ésoméprazole 20 mg matin et soir avant le repas
+
+{{% /modele %}}
 {{% modal title="Test respiratoire à l'urée marquée" id="modal-test-respi"%}}
 
 {{< traitements/helicobacter-test-uree >}}
