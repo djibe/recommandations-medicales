@@ -1,5 +1,4 @@
-# Filter BDPM for Recomedicales by djibe and GPT4o
-# TODO: Bind CIS, Poetry
+# Filter BDPM for Recomedicales by djibe
 
 import os
 import requests
@@ -7,14 +6,23 @@ import pandas as pd
 pd.options.mode.copy_on_write = True
 
 # Download BDPM
-response = requests.get('https://base-donnees-publique.medicaments.gouv.fr/telechargement.php?fichier=CIS_bdpm.txt')
-if response.status_code == 200:
-    # Save the content to a file
-    with open('CIS_bdpm.txt', 'wb') as file:
-        file.write(response.content)
-    print('BDPM downloaded successfully')
-else:
-    print('Failed to download file:', response.status_code)
+urls = [
+    'https://base-donnees-publique.medicaments.gouv.fr/telechargement.php?fichier=CIS_bdpm.txt',
+    'https://base-donnees-publique.medicaments.gouv.fr/telechargement.php?fichier=CIS_COMPO_bdpm.txt'
+]
+
+for url in urls:
+    # Get filename from URL
+    filename = url.split('=')[-1]
+
+    response = requests.get(url)
+
+    if response.status_code == 200:
+        with open(filename, 'wb') as f:
+            f.write(response.content)
+        print(f"Le fichier {filename} a bien été téléchargé.")
+    else:
+        print(f"Échec du téléchargement du fichier {filename}.")
 
 current_dir = os.getcwd()
 csv_path = os.path.join(current_dir, 'CIS_bdpm.txt')
@@ -22,6 +30,12 @@ df = pd.read_csv(csv_path, sep='\t', lineterminator='\r', encoding='windows-1252
 
 df.columns = ['cis', 'libelle', 'forme', 'voie', 'statut', 'procedure', 'commercialisation', 'date_amm', 'statut_bdm', 'autorisation', 'titulaire', 'surveillance']
 df['cis'] = df['cis'].apply(lambda x: x.lstrip('\n') if isinstance(x, str) else x)
+
+csv2_path = os.path.join(current_dir, 'CIS_COMPO_bdpm.txt')
+df2 = pd.read_csv(csv2_path, sep='\t', lineterminator='\r', encoding='windows-1252')
+
+df2.columns = ['cis', 'designation', 'code', 'dci', 'dosage', 'ref', 'nature', 'liaison', 'other']
+df2['cis'] = df2['cis'].apply(lambda x: x.lstrip('\n') if isinstance(x, str) else x)
 
 # Display the DataFrame
 print("First rows")
@@ -68,13 +82,25 @@ df_unique = df_filtered.drop_duplicates(subset='normalized_libelle')
 df_unique['libelle'] = df_unique['normalized_libelle']
 
 # Drop the auxiliary column used for normalization
-# df_unique = df_unique.drop(columns=['normalized_libelle'])
+df_unique = df_unique.drop(columns=['normalized_libelle'])
+
+# Merge CSVs
+df_unique['dci'] = None
+print("Add blank column")
+print(df_unique.head())
+
+df2_prioritized = df2.sort_values(by=['cis', 'nature'], key=lambda col: col != 'FT').drop_duplicates(subset='cis')
+df_unique = df_unique.merge(df2_prioritized[['cis', 'dci']], on='cis', how='left')
+df_unique.rename(columns={'dci_y': 'dci'}, inplace=True)
+
+print("New DF")
+print(df_unique.head())
 
 # Function to remove blank keys (columns with NaN values) from each row during JSON export
 def row_filter(row):
     return row.dropna().to_dict()
 
-# Select only the 'cis' and 'libelle' columns and save to a JSON file
-df_to_save = df_unique[['cis', 'libelle', 'procedure']]
+# Select only the 'cis', 'libelle', 'procedure' and 'dci' columns and save to a JSON file
+df_to_save = df_unique[['cis', 'libelle', 'procedure', 'dci']]
 df_to_save.apply(row_filter, axis=1).to_json('bdpm-search.json', orient='records')
 print('\n Finished')

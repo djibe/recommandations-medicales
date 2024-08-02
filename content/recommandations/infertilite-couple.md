@@ -158,8 +158,8 @@ L'examen clinique concerne chaque membre du couple.
 - **Signes de baisse de la réserve ovarienne**
   {{< clinique/reserve-ovarienne >}}
 - Symptômes: dysménorrhée, douleurs pelviennes
-- Fréquence et distribution sur le cycle des rapports sexuels (fenêtre ovulatoire, dysfonction érectile, troubles relationnels)
-- Troubles sexuels: dyspareunie, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})
+- Fréquence et distribution sur le cycle des rapports sexuels (fenêtre ovulatoire, troubles relationnels)
+- Troubles sexuels: dyspareunie, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) ou sexuelle ([éjaculation prématurée]({{< relref "ejaculation-prematuree.md" >}}) ...)
 - Situation de précarité, vulnérabilité
 - Vaccinations
 

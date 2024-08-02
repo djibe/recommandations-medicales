@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-07-19T11:38:45+02:00"
 publishdate = "2024-07-19"
-lastmod = "2024-07-19"
+lastmod = "2024-08-01"
 specialites = ["therapeutique"]
 annees = "2024"
 sources = ["BDPM"]
@@ -25,7 +25,7 @@ todo = "<https://listjs.com/>, unified search, update"
 Consulter la monographie (indications, posologies, contre-indications ...) de tous les médicaments utiles en soins primaires (hors homéopathie) de la Base de données publique des médicaments (BDPM).
 {.lead .my-5}
 
-> La recherche par DCI n'est pas encore disponible. De plus, le moteur de recherche doit être unifié avec celui des pathologies.
+> Le moteur de recherche sera unifié avec celui des pathologies.
 
 <div class="textfield-box form-ripple-nolabel form-ripple-bottom" style="position: sticky; top: 80px; backdrop-filter: blur(10px); z-index: 160">
   <input type="search" class="form-control form-group" id="search-input" placeholder="Rechercher un code médicament ...">

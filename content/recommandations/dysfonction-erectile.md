@@ -388,7 +388,7 @@ Les traitements suivants ne relèvent pas de la prise en charge du médecin trai
 - Hormones  
   Androgénothérapie, prescription initiale réservée aux endocrino/uro/gynécologues.
 
-L'association à une éjaculation précoce est fréquente et l'utilisation de dapoxétine (Priligy®) est possible.
+L'association à une [éjaculation prématurée]({{< relref "ejaculation-prematuree.md" >}}) est fréquente et l'utilisation de dapoxétine (Priligy®) est possible.
 
 {{% /collapse %}}
 {{%collapse "Suivi" %}}

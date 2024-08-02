@@ -20,6 +20,7 @@ image = true
 imageSrc = "Illustration de la migraine par stories / Freepik"
 sctid = "37796009"
 todo = "assoc patients, titration Propranolol, questionnaire ID Migraine, recouper THM, EHF"
+modele = true
 +++
 
 {{%article-summary%}}
@@ -592,6 +593,16 @@ graph TB
 - [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf) (p.29)
 
 {{%/sources%}}
+{{% modele %}}
+
+Prendre dès le début des symptômes (avoir sur soi et prise dans l'heure):
+
+- Crise légère: ibuprofène 400 mg. Prendre le triptan si persistance des douleurs 1 heure après
+- Crise modérée à sévère: élétriptan 20 mg. Prendre l'ibuprofène 1 heure après si persistance des douleurs
+
+Consigner les prises dans l'*agenda migraineux*. Reconsulter après 3 crises.
+
+{{% /modele %}}
 {{% modal title="Score HADS" id="modal-hads"%}}
 
 {{< scores/hads >}}

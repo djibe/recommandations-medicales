@@ -539,6 +539,14 @@ Quadrithérapie pendant 14 jours:
 - Métronidazole 500 mg matin et soir
 - Ésoméprazole 20 mg matin et soir avant le repas
 
+Si prise récente de macrolide ou allergie documentée à l'amoxicilline, voir *Pylera*.
+
+---
+
+**Ordonnance pour le laboratoire**
+
+{{< traitements/helicobacter-test-uree >}}
+
 {{% /modele %}}
 {{% modal title="Test respiratoire à l'urée marquée" id="modal-test-respi"%}}
 
