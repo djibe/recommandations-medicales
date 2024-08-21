@@ -18,7 +18,7 @@ sctid = "237036002"
 icd10 = ["N96"]
 image = false
 imageSrc = ""
-todo = "photo > flow"
+todo = "photo, flow"
 +++
 
 {{%article-summary%}}
@@ -136,5 +136,3 @@ Manque de preuves pour: progestérone ou hCG en cas d'insuffisance lutéale, met
 [Goddijn M et al; ESHRE Guideline Group on RPL. Recurrent pregnancy loss. Guideline of European Society of Human Reproduction and Embryology Update 2022. 2023.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Recurrent-pregnancy-loss)
 
 {{%/sources%}}
-
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–

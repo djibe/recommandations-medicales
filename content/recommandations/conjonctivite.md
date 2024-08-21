@@ -219,5 +219,3 @@ Hygiène des paupières, cures courtes d'azithromycine et ciclosporine collyre a
 - tripdatabase
 
 {{%/sources%}}
-
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–

@@ -200,5 +200,3 @@ D'autres traitements médicamenteux sont possibles: stimulants (amphétamine) ou
 - [NICE. Attention deficit hyperactivity disorder: diagnosis and management. 2019.](https://www.nice.org.uk/guidance/ng87)
 
 {{%/sources%}}
-
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–

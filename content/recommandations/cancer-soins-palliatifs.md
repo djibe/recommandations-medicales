@@ -86,4 +86,3 @@ Ne pas utiliser:
 {{%/modal%}}
 
 ≤≥±®æœŒÈ³ÂSpO<sub>2</sub>
-[External link](https://discourse.gohugo.io/ "{rel='nofollow'}")

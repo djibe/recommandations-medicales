@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2024-06-28"
+lastmod = "2024-08-21"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "CRAT", "SFD"]
@@ -126,12 +126,12 @@ Vaccinations Covid-19 et grippe à n'importe quel terme et coqueluche entre 20 e
 | Moment   | Clinique | Examen  | Traitement |
 |----------|----------|---------|------------|
 | Chaque consultation | PA, poids, signes de grossesse | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}ECBU{{%/tooltip%}} si ATCD, toxoplasmose si -, {{%tooltip "Jusqu'à 18 SA"%}}rubéole si -{{%/tooltip%}}, TSH si sympt. aspécifiques | Arrêt alcool/tabac et {{%tooltip "lecrat.fr"%}}automédication{{%/tooltip%}}, vaccin grippe+covid, {{%tooltip "mangerbouger.fr"%}}alimentation{{%/tooltip%}} (listériose ++) |
-| Préconceptionnelle<br>ou 1re consultation | ATCD (dont varicelle), profession, vaccinations, précarité, maltraitance, DDR | NFS, ferritine, {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}}<br>Sérologies {{%tooltip "Sauf vaccination double dose documentée"%}}rubéole{{%/tooltip%}}, toxoplasmose, syphilis, VIH, VHC, {{%tooltip "AgHBs sans vaccination"%}}anti-HBs{{%/tooltip%}}, TSH si sympt. aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et FDR{{< /modal-btn >}} | {{%tooltip "Jusqu'à 12 SA"%}}acide folique{{%/tooltip%}} 0,4 mg/j, {{%tooltip "De 11 à 16 SA + 6j"%}}écho T1{{%/tooltip%}}, dépistage T21 |
+| Préconceptionnelle<br>ou 1re consultation | ATCD (dont varicelle), profession, vaccinations, précarité, maltraitance, DDR | NFS, ferritine, {{%tooltip "1re grossesse sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}}<br>Sérologies {{%tooltip "Sauf vaccination double dose documentée"%}}rubéole{{%/tooltip%}}, toxoplasmose, syphilis, VIH, VHC, {{%tooltip "AgHBs sans vaccination"%}}anti-HBs{{%/tooltip%}}, TSH si sympt. aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et FDR{{< /modal-btn >}} | {{%tooltip "Jusqu'à 12 SA"%}}acide folique{{%/tooltip%}} 0,4 mg/j, {{%tooltip "De 11 à 13 SA + 6j"%}}écho T1{{%/tooltip%}}, dépistage T21 |
 | 4e mois<br>16-20 SA | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}BU{{%/tooltip%}} (HAS 2024) | {{%tooltip "Gratuite jusqu'à 6 mois après l'accouchement"%}}Cs dentaire{{%/tooltip%}} ||
-| 5e mois<br>20-24 SA || {{%tooltip "De 20 à 24 SA"%}}Écho T2{{%/tooltip%}} | Vaccin coqueluche |
+| 5e mois<br>20-24 SA || {{%tooltip "22 SA (20-25)"%}}Écho T2{{%/tooltip%}} | Vaccin coqueluche |
 | 6e mois<br>24-28 SA || NFS, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} | ± Rattrapage coqueluche |
-| 7e mois<br>28-32 SA || {{%tooltip "32 SA"%}}Écho T3{{%/tooltip%}} | ± Rattrapage coqueluche |
-| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, prélèvement vaginal (strepto B) | VitD 100.000 UI, {{%tooltip "De septembre à janvier"%}}Abrysvo{{%/tooltip%}} (NR, ND), ± Rattrapage coqueluche |
+| 7e mois<br>28-32 SA || {{%tooltip "32 SA (30-35)"%}}Écho T3{{%/tooltip%}} | ± Rattrapage coqueluche |
+| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, prélèvement vaginal (strepto B) | VitD 100.000 UI, {{%tooltip "De septembre à janvier"%}}Abrysvo{{%/tooltip%}} (ND), ± Rattrapage coqueluche |
 | 9e mois<br>37-42 SA ||||
 {{< /table >}}
 
@@ -263,6 +263,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 {{% /collapse %}}
 {{%sources%}}
 
+- [Service Public. Grossesse : examens médicaux. 14/08/2024.](https://www.service-public.fr/particuliers/vosdroits/F963)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
 - {{< references/calendrier-vaccinal >}}
 - [Ameli Médecin. Maternité : l'examen bucco-dentaire désormais pris en charge jusqu'au 6e mois après l'accouchement. 28/02/2024.](https://www.ameli.fr/medecin/actualites/maternite-l-examen-bucco-dentaire-desormais-pris-en-charge-jusqu-au-6e-mois-apres-l-accouchement)

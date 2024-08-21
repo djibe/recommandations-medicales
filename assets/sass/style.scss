@@ -1004,10 +1004,9 @@ blockquote {
 }
 
 .btn-float {
-  border-radius: 1rem;
-
   @media (max-width: 991.8px) {
     & {
+      border-radius: 1rem;
       position: fixed;
       bottom: 1.5rem;
       right: 1.5rem;

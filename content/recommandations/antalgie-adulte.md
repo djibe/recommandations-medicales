@@ -240,5 +240,3 @@ Information du patient et de son entourage lors d'un traitement par morphiniques
 - Minerva
 
 {{%/sources%}}
-
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–
