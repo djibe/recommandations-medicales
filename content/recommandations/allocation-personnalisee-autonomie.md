@@ -4,7 +4,7 @@ title = "Allocation personnalisée d'autonomie (APA)"
 prefix = "l'"
 noindex = true
 titleSeo = "Allocation personnalisée autonomie"
-description = "Explications des principes d'attribution de l'Allocation personnalisée d'autonomie. Demande à partir de 60 ans pour bénéficier d'aides à l'autonomie ..."
+description = "Explications des principes d'attribution de l'Allocation personnalisée d'autonomie (APA). Financement de la dépendance dès 60 ans pour bénéficier d'aides"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-25T11:57:30+01:00"
@@ -14,7 +14,7 @@ specialites = ["social"]
 annees = "2024"
 sources = ["Service-Public"]
 tags = ["geriatrie"]
-english = ["Contact eczema"]
+english = []
 sctid = ""
 icd10 = []
 image = true
@@ -68,13 +68,14 @@ Il faut préciser sur la demande:
 - Le dernier avis d'impôts sur le revenu et de taxe foncière
 - Certificat médical conseillé
 
-Le dossier complet est adressé au CCAS ou au conseil départemental du lieu de résidence de la personne.
+Le dossier complet est adressé au *CCAS* ou au *conseil départemental* du lieu de résidence de la personne.
 
-En parallèle:
+En parallèle: prendre contact avec des services agréés d'aide à domicile, ou des salariés.
 
-- Prendre contact avec des services agréés d'aide à domicile, ou des salariés.  
+Grande méfiance, 75% des opérateurs ont été épinglés par la répression des fraudes (*DGCCRF*) en 2016.
+{.alert .alert-warning}
+
 Établir le plan d'aide, le coût et le volume horaire de la prestation.  
-Grande méfiance, 75% des opérateurs ont été épinglés par la répression des fraudes (*DGCCRF*) en 2016
 
 L'APA est versé à la personne ou directement au prestataire.
 

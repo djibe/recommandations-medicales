@@ -40,7 +40,7 @@ Hypocalcémie
 : Elle est urgente lorsqu'elle est aiguë, symptomatique, sévère (< 1,8 mmol/L ou 70 mg/L) ou ionisée < 1 mmol/L.
 : Une hypocalcémie chronique ne peut survenir qu'en cas d'anomalie de la production de PTH ou de son action tissulaire ou d'une carence profonde en [vitamine D]({{< relref "vitamine-d.md" >}}) active.
 
-### Diagnostic différentiel
+### Diagnostic différentiel de l'hypocalcémie
 
 - Fausse hypocalcémie: calcémie ionisée ou calcémie corrigée normales
 - De l'hypoparathyroïdie: hypocalcémie hypercalciurique familiale (calciurie élevée)

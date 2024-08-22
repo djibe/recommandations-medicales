@@ -22,7 +22,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le chalazion est un granulome de la paupière par obstruction du canal excréteur de la glande de Meibomius
+- Le chalazion est un granulome se développant sur une *glande de Meibomius* avec occlusion du canal excréteur de la glande
 - La prise en charge du chalazion repose sur des soins de paupières avec massage doux pour désobstruer le canal excréteur
 - Un traitement du chalazion par corticoïde collyre ou pommade est possible en cas d'atteinte sévère, pendant 7 jours
 - Avis ophtalmologique en cas de forme atypique, retentissement visuel ou chronicisation du chalazion

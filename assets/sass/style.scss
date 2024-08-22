@@ -1006,10 +1006,12 @@ blockquote {
 .btn-float {
   @media (max-width: 991.8px) {
     & {
+      background-color: var(--primary-light);
       border-radius: 1rem;
+      color: var(--primary) !important;
       position: fixed;
-      bottom: 1.5rem;
-      right: 1.5rem;
+      bottom: 1rem;
+      right: 1rem;
       z-index: 120;
     }
   }

@@ -12,9 +12,9 @@ specialites = ["hematologie"]
 annees = "2020"
 sources = ["PNDS"]
 tags = []
-english = []
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = ["https://prod-mapping.ihtsdotools.org/#/"]
+english = ["light chain (AL) amyloidosis"]
+sctid = "23132008"
+icd10 = ["E85.8"]
 draft = true
 image = false
 imageSrc = ""
@@ -58,11 +58,11 @@ Les signes de l'amylose AL sont aspécifiques
 {{% /collapse %}}
 {{%sources%}}
 
-- [Source 1](URL)
+HAS
 
 ### Bibliographie en attente
 
-- Collège
+- Collège med int
 - Prescrire
 - Cochrane
 - Minerva
@@ -72,4 +72,3 @@ Les signes de l'amylose AL sont aspécifiques
 {{%/sources%}}
 
 ≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–
-[External link](https://discourse.gohugo.io/ "{rel='nofollow'}")

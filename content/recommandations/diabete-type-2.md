@@ -137,7 +137,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 - Si maladie rénale chronique: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} systématique  
   {{%class%}}et finérénone (non disponible en France){{%/class%}}
 - Soutien psychologique
-- Association de patients: [programme d'accueil de la FFD](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kitb)
+- Association de patients: [programme d'accueil de la Fédération Française des Diabétiques](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kitb)
 - Déclarer l'[ALD n°8]({{< relref "affection-longue-duree.md" >}}) et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
 
 > Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75 %. – *ESC 2019 diabetes*

@@ -16,9 +16,9 @@ sources = ["HAS", "ESH", "KDIGO", "ADA", "ESC"]
 tags = ["depistage", "diabete", "dyspnee", "fatigue", "ferritine", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "vaccin", "vitamine d"]
 english = ["Chronic kidney disease (CKD)", "chronic renal insufficiency"]
 sctid = "709044004"
-icd10 = ["N18.9"]
+icd10 = ["N18.9", "N19", "R80"]
 image = true
-imageSrc = "Illustration de l'insuffisance rénale par pch.vector / Freepik"
+imageSrc = "Illustration de l'insuffisance rénale. pch.vector / Freepik"
 flowchart = true
 todo = "Albuminurie perturbée, aliments riches K/P (HAS2023p71), désindexation surface corporelle +++"
 +++

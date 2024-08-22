@@ -219,6 +219,18 @@ document.addEventListener( 'DOMContentLoaded', event => {
       html: true,
       placement: 'bottom'
     });
+
+    {{ if .Params.modele }}
+    if (matchMedia('(pointer:fine)').matches) { // Device has a mouse
+      $('.tooltip-modele').tooltip({
+        title: 'Afficher le modèle d\'ordonnance',
+        container: 'body',
+        html: true,
+        placement: 'bottom'
+      });
+    }
+    {{ end }}
+
     if (matchMedia('(pointer:fine)').matches) { // Device has a mouse
       $('.data-tooltip').tooltip({trigger: 'hover', placement: 'bottom'});
     }

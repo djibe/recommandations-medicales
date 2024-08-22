@@ -17,7 +17,7 @@ english = ["Bulimia nervosa"]
 sctid = "78004001"
 icd10 = ["F50.2"]
 image = true
-imageSrc = "Illustration de la boulimie par storyset / Freepik"
+imageSrc = "Illustration de la boulimie. storyset / Freepik"
 todo = "rankok, borderline: https://jamanetwork.com/journals/jama/article-abstract/2801843, complications"
 flowchart = true
 +++

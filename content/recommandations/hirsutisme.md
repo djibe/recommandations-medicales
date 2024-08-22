@@ -16,7 +16,7 @@ english = ["Hirsutism"]
 sctid = "399939002"
 icd10 = ["L68.0"]
 image = true
-imageSrc = "Charles Eisenmann, Wikimedia Commons"
+imageSrc = "Femme hirsute. Charles Eisenmann, Wikimedia Commons"
 todo = "flowchart Figure 2"
 +++
 

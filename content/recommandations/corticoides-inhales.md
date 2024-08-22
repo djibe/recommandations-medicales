@@ -1,7 +1,7 @@
 +++
 id = "0190e8bf-379e-745a-b211-5de5c5448c52"
 title = "Corticoïdes inhalés"
-prefix = "la "
+prefix = "les "
 description = "Recommandations sur les corticoïdes inhalés (CSI). Technique d'administration, indications et spécialités de corticostéroïdes inhalés pour l'asthme et la BPCO"
 synonyms = ["Corticostéroïdes inhalés"]
 auteurs = ["Jean-Baptiste FRON"]

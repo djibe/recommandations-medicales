@@ -18,7 +18,7 @@ sctid = "45939007"
 icd10 = ["M21.76"]
 image = false
 imageSrc = ""
-todo = "photo, flow"
+todo = "biblio imagerie, photo, flow"
 +++
 
 {{%article-summary%}}

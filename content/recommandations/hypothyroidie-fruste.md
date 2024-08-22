@@ -16,7 +16,7 @@ english = ["Subclinical hypothyroidism"]
 sctid = "54823002"
 icd10 = ["E03.8"]
 image = true
-imageSrc = "Illustration de la thyroïde par le National Institutes of Health (NIH) sur Foter.com / CC BY-NC"
+imageSrc = "Illustration de la thyroïde par le National Institutes of Health (NIH). Foter.com / CC BY-NC"
 flowchart = true
 +++
 

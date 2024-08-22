@@ -32,7 +32,7 @@ Recommandations pour une corticothérapie chez l'adulte (≥ 18 ans):
 - La prednisone est le glucocorticoïde de référence avec une prise unique matinale (voir [Équivalence des corticoïdes](#équivalence-des-corticoïdes))
 - La décroissance progressive des corticoïdes est nécessaire pour un traitement prolongé: paliers de 1 à 4 semaines selon l'étape (voir [Décroissance des corticoïdes](#décroissance-des-corticoïdes))
   - Un dosage du cortisol matinal est nécessaire à 5 mg de prednisone avant d'arrêter le traitement
-  - Éduquer sur les [situations de stress](#situations-de-stress) lorsque la dose est réduite sous 10 mg/j d'équivalent prednisone
+  - Éduquer sur les [situations de stress](#situations-de-stress) lorsque la dose est réduite à moins de 10 mg/j d'équivalent prednisone
 
 Les biphosphonates ne sont pas encore détaillés.
 

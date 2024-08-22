@@ -50,7 +50,7 @@ DLC
   Lavage à l'eau chaude avec savon (20 secondes), rinçage et séchage avec torchon propre ou papier à usage unique. Systématique après la manipulation de **produits crus** et œufs.
 - Nettoyage des souillures visibles sur les ustensiles et équipements  
   La désinfection est controversée.
-- Utiliser des planches à découper et **plats distincts pour les aliments crus**
+- Utiliser des planches à découper et **plats distincts pour les aliments crus et cuits**
 - Les plats ne doivent pas rester à température ambiante pendant plus de **2 heures**
 - Décontamination des éponges au micro-ondes  
   Imbibée d'eau: chauffer 2 minutes à 1000 W ou 1 minute à 1300 W. Ne pas les passer au lave-vaisselle.
@@ -66,7 +66,7 @@ Mesures sanitaires pour la cuisson des produits destinés aux jeunes enfants (< 
 - Jamais de cru (tartare, carpaccio, lait sauf pâte pressée)
 - Poissons, viandes et steak hachés bien cuits à cœur
 
-> La cuisson à cœur de tout type de viande est recommandée.
+> La cuisson à cœur de tout type de viande à tous les âges est recommandée.
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -89,7 +89,7 @@ Mesures d'hygiène associées à la conservation et au stockage des aliments et 
 - Biberons: conservation maximum 48h à 4°C, 1h à température ambiante et 30 minutes si chauffé
 
 {{% /collapse %}}
-{{%collapse "Précautions par catégorie d'aliments" %}}
+{{%collapse "Précautions par catégorie d'aliment" %}}
 
 - Mesures générales
   - Réfrigérateur: maximum **4°C** dans la zone la plus froide

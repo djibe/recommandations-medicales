@@ -210,7 +210,7 @@ Considérations associés:
 
 **NB.** En l'absence d'assurance maladie, le traitement est **gratuit** dans les {{< references/cegidd >}}.
 
-Applis pour l'aide à la prise du traitement: [My PrEP](https://myprep.app/) ou [GMT Ma PrEP](https://play.google.com/store/apps/details?id=com.guenmat.android.prep).
+Applis pour l'aide à la prise du traitement: [My PrEP](https://myprep.app).
 
 ### Schéma continu de la PrEP
 
@@ -268,7 +268,7 @@ Collection de différents supports d'informations sur la PrEP à remettre au pat
 - Lieux: [Réseau de Santé Sexuelle Publique](https://www.santesexuelle.org/), [Comité régional de lutte contre le VIH](https://vihclic.fr/contacts/annuaire-des-corevih/) (COREVIH), {{< references/cegidd >}}
 - Sites: [Sexosafe](https://www.sexosafe.fr/ma-sante/prevention-et-depistage/la-prep-est-elle-pour-vous), [Sida Info Service](https://www.sida-info-service.org/dossier-la-prep/)
 - Brochures: [ANSM. Information importante (PDF)](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-brochure-d-information-sujets-version3-2021-juin.pdf), [AIDES. La PrEP mode d'emploi](https://fr.calameo.com/aides/read/0062255000aa42fef48d6?page=1)
-- Applis: [My PrEP](https://myprep.app/), [GMT Ma PrEP](https://play.google.com/store/apps/details?id=com.guenmat.android.prep)
+- Applis: [My PrEP](https://myprep.app)
 
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}

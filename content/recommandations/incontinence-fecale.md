@@ -25,7 +25,7 @@ flowchart = true
 {{%article-summary%}}
 
 - L'incontinence fécale est le passage incontrôlé de selles ou de gaz pendant au moins 3 mois chez un sujet de plus de 4 ans ayant acquis la propreté
-- L'examen clinique réalise l'enquête étiologique: antécédents, examen diététique, neurologique et pelvien
+- L'examen clinique réalise l'enquête étiologique: antécédents, examens diététique, neurologique et pelvien
 - Prise en charge de première intention de l'incontinence fécale: mesures hygiéno-diététiques avec agenda du transit avec adaptations diététiques 1 par 1, régularisation du transit, rééducation pelvienne avec biofeedback, médicaments adaptés selon le transit
 - En cas de doute, d'anomalie ou de résistance, le suivi doit être spécialisé (NDLR)
 

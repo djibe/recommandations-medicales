@@ -2,7 +2,7 @@
 id = "0190e8c6-e9b4-700f-a034-7bddc4ac244e"
 title = "Interruption volontaire de grossesse (IVG)"
 prefix = "l'"
-titleSeo = "Interruption de grossesse IVG"
+titleSeo = "Interruption volontaire de grossesse IVG"
 description = "Recommandations pour la prise en charge ambulatoire de l'interruption volontaire de grossesse (IVG). Terme autorisé, examen gynécologique, échographie pelvienne"
 synonyms = ["Avortement"]
 auteurs = ["Jean-Baptiste FRON"]

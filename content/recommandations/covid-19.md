@@ -18,7 +18,7 @@ english = ["CoViD-19"]
 sctid = "840539006"
 icd10 = ["U07.1"]
 image = true
-imageSrc = "La Covid-19 par stories / Freepik"
+imageSrc = "La Covid-19. stories / Freepik"
 todo = "tjs paxlo ? ; https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1246, https://ansm.sante.fr/actualites/troubles-menstruels-apres-la-vaccination-contre-le-covid-19-etat-des-connaissances-et-conseils-aux-femmes-concernees"
 flowchart = true
 +++
