@@ -1,8 +1,8 @@
 +++
 id = "0190e8c8-cdaf-7111-b4aa-0571cd3c0570"
-title = "Variole du singe (Monkeypox ou mpox)"
+title = "Mpox (Monkeypox ou Variole du singe)"
 prefix = "la "
-titleSeo = "Variole du singe (Monkeypox)"
+titleSeo = "Mpox (Monkeypox ou Variole du singe)"
 noindex = true
 description = "Recommandations pour la prise en charge du Monkeypox. Personnes à vacciner contre la variole du singe, traitement avec isolement, déclaration obligatoire"
 synonyms = []
@@ -14,7 +14,7 @@ specialites = ["dermatologie", "infectiologie"]
 annees = "2024"
 sources = ["MinSanté", "HAS", "HCSP"]
 tags = ["HSH", "IST", "prevention", "vaccin"]
-english = ["Monkeypox"]
+english = ["Mpox", "Monkeypox"]
 sctid = "359814004"
 icd10 = ["B04"]
 image = true

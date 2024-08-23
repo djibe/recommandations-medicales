@@ -79,7 +79,7 @@ Causes d'hypocalcémie chronique, évaluées selon le niveau de PTH:
   - Iatrogène post-opératoire
   - Hypomagnésémie profonde (< 0,5 mmol/L)
   - Génétique (syndrome de DiGeorge)
-  - Rares infiltrations parathyroïdiennes: amylose, granulome, métastases
+  - Rares infiltrations parathyroïdiennes: [amylose]({{< relref "amylose-al.md" >}}), granulome, métastases
 - Hypocalcémies chroniques extra-parathyroïdiennes  
   PTH augmentée en réponse à l'hypocalcémie.
   - Pseudo-hypocalcémie  

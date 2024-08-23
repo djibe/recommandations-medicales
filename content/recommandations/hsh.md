@@ -29,14 +29,14 @@ flowchart = true
 - Renseigner sur la [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}})
 - Dépistage du [VIH]({{< relref "vih-sida.md" >}}) tous les 3 mois (*HAS 2017*)
 - Dépistage du *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* tous les 3-6 mois (*HAS 2018*)
-- Vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) (après sérologie), [hépatite B]({{< relref "hepatite-b.md" >}}), [monkeypox]({{< relref "monkeypox.md" >}}), [papillomavirus]({{< relref "cancer-col-uterus.md" >}}) (jusqu'à 26 ans)
+- Vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) (après sérologie), [hépatite B]({{< relref "hepatite-b.md" >}}), [monkeypox]({{< relref "mpox.md" >}}), [papillomavirus]({{< relref "cancer-col-uterus.md" >}}) (jusqu'à 26 ans)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 HSH
 : Homme ayant des rapports sexuel avec des hommes
-: Surexposition au [VIH]({{< relref "vih-sida.md" >}}) (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), papillomavirus, [hépatite A]({{< relref "hepatite-a.md" >}}), [Monkeypox]({{< relref "monkeypox.md" >}}) et autres [IST](/tags/ist/).
+: Surexposition au [VIH]({{< relref "vih-sida.md" >}}) (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), papillomavirus, [hépatite A]({{< relref "hepatite-a.md" >}}), [Monkeypox]({{< relref "mpox.md" >}}) et autres [IST](/tags/ist/).
 
 ### Épidémiologie chez les hommes ayant des rapports sexuels avec des hommes
 
@@ -92,7 +92,7 @@ Post systématique avec tout partenaire dont le statut sérologique n'est pas co
 
 #### Vaccin Monkeypox
 
-Voir *[Monkeypox]({{< relref "monkeypox.md" >}})*
+Voir *[Monkeypox]({{< relref "mpox.md" >}})*
 
 #### Vaccin hépatite A
 

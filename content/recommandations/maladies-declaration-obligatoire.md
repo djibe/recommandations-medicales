@@ -47,7 +47,7 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme:
 - Leptospirose
 - Listériose
 - Mésothéliome
-- Orthopoxvirose, dont la variole ou [Monkeypox (variole du singe)]({{< relref "monkeypox.md" >}})
+- Orthopoxvirose, dont la variole ou [Monkeypox (variole du singe)]({{< relref "mpox.md" >}})
 - [Paludisme]({{< relref "paludisme.md" >}}) autochtone ou d'importation dans les départements d'Outre-mer
 - Peste
 - Poliomyélite

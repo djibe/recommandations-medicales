@@ -82,6 +82,11 @@ HUGO_ENABLEGITINFO = "false"
   to = "https://recomedicales.fr/recommandations/remboursement-psychologue-monsoutienpsy/"
   status = 301
 
+[[redirects]]
+  from = "https://recomedicales.fr/recommandations/monkeypox/"
+  to = "https://recomedicales.fr/recommandations/mpox/"
+  status = 301
+
 # [[plugins]]
 #   package = "netlify-plugin-inline-critical-css"
 #     [plugins.inputs]
