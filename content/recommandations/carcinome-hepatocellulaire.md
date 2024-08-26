@@ -172,7 +172,7 @@ Dépistage du carcinome hépatocellulaire chez les patients avec cirrhose {{< mo
 
 Encourager la consommation de café en cas d'hépatopathie (*EASL 2018*).
 
-> Un dépistage non invasif de la fibrose hépatique (score FIB-4 voire élastométrie hépatique) est recommandé en cas de facteur de risque: alcool, NASH, diabète type 2, hépatite B ou C chronique.
+> Un dépistage non invasif de la fibrose hépatique ({{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}} voire élastométrie hépatique) est recommandé en cas de facteur de risque: alcool, NASH, diabète type 2, hépatite B ou C chronique.
 
 {{% /collapse %}}
 {{%collapse "Traitement du carcinome hépatocellulaire" %}}
@@ -238,5 +238,10 @@ graph TB
 {{% modal title="Questionnaire AUDIT-C" id="modal-auditc"%}}
 
 {{< scores/audit-c >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage de la fibrose hépatique" id="modal-fib4"%}}
+
+{{< scores/fib4 >}}
 
 {{% /modal %}}

@@ -263,4 +263,8 @@ diagnostic -- Diagnostic différentiel --> differentiel("- Atteintes radiculaire
 - [Petrover D, Richette P. Prise en charge du syndrome du canal carpien: de l'échographie diagnostique à la libération percutanée sous échographie. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/pii/S1169833017303071)
 - [HAS. Syndrome du canal carpien - Optimiser la pertinence du parcours patient. Février 2013.](https://www.has-sante.fr/jcms/c_1365548/fr/syndrome-du-canal-carpien-optimiser-la-pertinence-du-parcours-patient)
 
+### Bibliographie en attente
+
+[American Academy of Orthopaedic Surgeons. Management of Carpal Tunnel Syndrome Evidence-Based Clinical Practice Guideline. 2024. (PDF)](https://www.aaos.org/globalassets/quality-and-practice-resources/carpal-tunnel/carpal-tunnel-2024/cts-cpg.pdf)
+
 {{%/sources%}}

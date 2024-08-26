@@ -152,7 +152,7 @@ Bilan biologique:
 - Glycémie à jeun
 - TSH
 - Albuminémie, calcémie
-- Bilan hépatique
+- Bilan hépatique, {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}} (*Silvey et al 2024*)
 - Vitamine B12, folates
 - Sérologies syphilis, VIH, Lyme
 
@@ -231,6 +231,7 @@ graph TB
 
 {{< youtube id="UFkHk0wRr_I" title="La minute RECO HAS | Maladies neuroévolutives : accompagner à domicile" >}}
 
+- [Silvey S, et al. A Possible Reversible Cause of Cognitive Impairment: Undiagnosed Cirrhosis and Potential Hepatic Encephalopathy in Patients with Dementia. Am J Med. 2024.](https://www.amjmed.com/article/S0002-9343(24)00398-X/abstract)
 - Prescrire Redaction. Patients ayant une maladie d'Alzheimer. Interactions médicamenteuses. Rev Prescrire. 2024.
 - [HAS. ALD 15 - Maladie d'Alzheimer et autres démences. Actes et prestations affection de longue durée. 2023.](https://www.has-sante.fr/jcms/c_820000/fr/ald-n-15-maladie-d-alzheimer-et-autres-demences)
 - [Arrêté du 28 mars 2022 fixant la liste des affections médicales incompatibles ou compatibles avec ou sans aménagements ou restrictions pour l'obtention, le renouvellement ou le maintien du permis de conduire.](https://www.legifrance.gouv.fr/download/pdf?id=8dD3wEzkeHMp59Q_y7Jrp2jXbwEqgi4p1G3fTjlpsFU=)
@@ -249,6 +250,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Livingston G, et al. Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. Lancet. 2024.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01296-0/abstract)
 - [Fondation Médéric Alzheimer. Interventions non médicamenteuses et maladie d'Alzheimer. 2024.](https://www.fondation-mederic-alzheimer.org/news/les-inm-une-priorite-pour-laccompagnement-la-fondation-mederic-alzheimer-enrichit-son-guide-pratique-dedie/)
 - [Reuben DB et al. Dementia Prevention and Treatment: A Narrative Review. JAMA Intern Med. 2024.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2815813)
 - [HAS. Maladie d'Alzheimer et maladies apparentées : prise en charge des troubles du comportement perturbateurs. 2009.](https://www.has-sante.fr/jcms/c_819667/fr/maladie-d-alzheimer-et-maladies-apparentees-prise-en-charge-des-troubles-du-comportement-perturbateurs)
@@ -299,5 +301,10 @@ graph TB
 {{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
 
 {{< scores/ckd-epi >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage de la fibrose hépatique" id="modal-fib4"%}}
+
+{{< scores/fib4 >}}
 
 {{% /modal %}}

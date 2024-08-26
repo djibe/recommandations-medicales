@@ -122,7 +122,8 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{<
 
 - {{< modal-btn modal-phq2 >}}Questionnaire PHQ-2{{< /modal-btn >}}
 - {{< modal-btn modal-phq4 >}}Questionnaire PHQ-4{{< /modal-btn >}} (couplé au repérage d'une anxiété – *ACP 2019*)
-- [Post-partum]({{< relref "post-partum.md" >}}): {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou [questionnaire EPDS](https://www.hug.ch/sante-psychique-perinatalite/comment-depister-depression-perinatale-quizz-epds) (Edinburgh postnatal depression scale)
+- Adolescent (13-20 ans): {{< modal-btn modal-adrs >}}questionnaire ADRS{{< /modal-btn >}}
+- [Post-partum]({{< relref "post-partum.md" >}}): {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou [questionnaire d'Edinburgh EPDS](https://www.hug.ch/sante-psychique-perinatalite/comment-depister-depression-perinatale-quizz-epds)
 
 </div>
 <div class="tab-pane fade" id="nav-diagnostic" role="tabpanel" aria-labelledby="nav-tab-diagnostic">
@@ -298,7 +299,7 @@ Les symptômes doivent être présents depuis au moins 15 jours avec changement 
 
 Avec l'accord du patient, interroger l'entourage.
 
-Questionnaires d'aide au diagnostic de la dépression chez l'adulte (voir la section dédiée): {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HADS{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} couplé au {{< scores/mmse >}}.
+Questionnaires d'aide au diagnostic de la dépression chez l'adulte (voir la section dédiée): {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HADS{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, adolescent {{< modal-btn modal-adrs >}}ADRS{{< /modal-btn >}} (13-20 ans), sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} couplé au {{< scores/mmse >}}.
 
 > << Le diagnostic de l'épisode dépressif caractérisé est clinique >> – *HAS 2017*
 
@@ -623,6 +624,11 @@ graph TB
 {{% modal title="Échelle HADS" id="modal-hads"%}}
 
 {{< scores/hads >}}
+
+{{% /modal %}}
+{{% modal title="Échelle ADRS" id="modal-adrs"%}}
+
+{{< scores/adrs >}}
 
 {{% /modal %}}
 {{% modal title="Échelle de dépression gériatrique" id="modal-gds15"%}}

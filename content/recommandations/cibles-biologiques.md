@@ -34,7 +34,7 @@ todo = "LDL"
 | Ferritinémie | insuffisance cardiaque | ≥ 100 ng/mL       | ESC 2021 |
 | Ferritinémie | Jambes sans repos    | ≥ 75 ng/mL          | SFRMS 2019 |
 | HbA<sub>1C</sub> | {{< modal-btn modal-hba1c >}}Détail des cibles{{< /modal-btn >}} | ~ 7% | SFD 2019 |
-| Uricémie     | Goutte               | &lt; 50 mg/L           | SFR 2020 |
+| Uricémie     | Goutte               | < 50 mg/L           | SFR 2020 |
 | VDRL         | M6 post-PéniG<br>M12 post-PéniG | Taux /4<br>Négatif | SFD 2016 |
 | Vitamine D   | Adulte<br>Ménopause, ≥ 65 ans | ≥ 50 nmol/L<br>≥ 75 nmol/L | Annweiler C 2018 |
 

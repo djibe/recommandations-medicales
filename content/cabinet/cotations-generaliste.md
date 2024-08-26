@@ -12,7 +12,7 @@ tags = []
 image = true
 imageSrc = "unDraw"
 style = "thead > tr > th:first-of-type {width: 110px}"
-todo = "GL, RDV, VSP, CTE, FS exemple frottis, MD, jour férié, IK, routexl, MPH aussi quand change de MT ?, https://www.fmfpro.org/nomenclature/tarifs-medecins-generalistes-metropole/"
+todo = "GL, VSP, CTE, FS exemple frottis, MD, jour férié, IK, routexl, MPH aussi quand change de MT ?, https://www.fmfpro.org/nomenclature/tarifs-medecins-generalistes-metropole/"
 +++
 
 Liste des codes pour les actes et les consultations des adultes et des enfants en médecine générale.
@@ -21,7 +21,7 @@ Liste des codes pour les actes et les consultations des adultes et des enfants e
 ## Les nouvelles cotations 2024
 
 - Majoration MOP de 5€ pour les +80 ans qui ne font pas partie de la patientèle (valable en (télé)consultation ou visite)
-- La cotation RDV est à 100 % pour le rendez-vous de prévention à réaliser une fois à 18-25, 45-50, 60-65 et 70-75 ans
+- La cotation RDV (30€) est à 100 % pour le rendez-vous de prévention à réaliser à 18-25, 45-50, 60-65 et 70-75 ans (1 fois par tranche d'âge)
 - Le G(S) passera à 30€ le 22 décembre 2024
 
 ## Les outils d'aide à la cotation du généraliste

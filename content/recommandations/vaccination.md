@@ -73,7 +73,7 @@ VVA
 | 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
-| 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>NR: Nimenrix, MenQuadfi ou<br>Menveo (pas d'aiguille)  |
+| 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>Nimenrix, MenQuadfi ou<br>Menveo (pas d'aiguille)  |
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |   45 ans   | dTcaPolio (dTPolio retiré)                           | BoostrixTetra, Repevax                                                    |
 |  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>NR: Shingrix M0-M2 |
@@ -83,7 +83,7 @@ VVA
 
 > Les consultations à 25, 45 et 65 ans sont gratuites avec la **cotation RDV** (30€).
 
-**NB.** Le Nimenrix peut être réalisé à M6-M12 en remplacement du Neisvac M5-M12 (non remboursé). Neisvac M5 et Nimenrix M12 (NR) est également possible. Le MenQuadfi peut être utilisé à 12 mois après un Nimenrix à 5 mois.
+**NB.** Le Nimenrix peut être réalisé à M6-M12 en remplacement du Neisvac M5-M12. Neisvac M5 et Nimenrix M12 est également possible. Le MenQuadfi peut être utilisé à 12 mois après un Nimenrix à 5 mois.
 
 ### Vaccin rotavirus
 

@@ -26,7 +26,7 @@ Le taux maximal de participation au dépistage, qui atteint 59 %, concerne le ca
 
 Pour tous les dépistages, les taux de participation restent très en-dessous des attentes de santé publique.
 
-**NB.** La liste des patients n'ayant pas participé au dépistage organisé d'un cancer est désormais disponible depuis *AmeliPro* (*[Ameli Medecin](https://www.ameli.fr/medecin/actualites/la-liste-des-patients-n-ayant-pas-realise-leurs-depistages-de-cancers-est-disponible-dans-amelipro)*).
+**NB.** La liste des patients n'ayant pas participé au dépistage organisé d'un cancer est désormais disponible depuis *AmeliPro* (*[Ameli Médecin](https://www.ameli.fr/medecin/actualites/la-liste-des-patients-n-ayant-pas-realise-leurs-depistages-de-cancers-est-disponible-dans-amelipro)*).
 
 ## Graphique de la participation au dépistage organisé des cancers et décès par cancer
 

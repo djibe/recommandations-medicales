@@ -1,0 +1,110 @@
+<div id="score-adrs">
+  <p>Le test <dfn><abbr title="Adolescent Depression Rating Scale">ADRS</abbr></dfn> pour le repérage de troubles anxieux et dépressifs de 13 à 20 ans.</p>
+  <p>Voici des phrases recueillies auprès d’adolescents, lisez chacune d’entre elles et cochez <strong>Vrai</strong>
+    si elle correspond à ce que vous vivez, ou <strong>Faux</strong> si elle ne correspond pas.</p>
+  <fieldset>
+    <legend>Je n’ai pas d’énergie pour l’école, pour le travail</legend>
+    <input type="radio" id="radio-adrs-11" name="radio-adrs-1" class="d-input-none" value="1" required>
+    <label for="radio-adrs-11" class="chip chip-action chip-sm chip-choice">Vrai</label>
+    <input type="radio" id="radio-adrs-12" name="radio-adrs-1" class="d-input-none" value="0">
+    <label for="radio-adrs-12" class="chip chip-action chip-sm chip-choice">Faux</label>
+  </fieldset>
+  <fieldset>
+    <legend>J’ai du mal à réfléchir</legend>
+    <input type="radio" id="radio-adrs-21" name="radio-adrs-2" class="d-input-none" value="1" required>
+    <label for="radio-adrs-21" class="chip chip-action chip-sm chip-choice">Vrai</label>
+    <input type="radio" id="radio-adrs-22" name="radio-adrs-2" class="d-input-none" value="0">
+    <label for="radio-adrs-22" class="chip chip-action chip-sm chip-choice">Faux</label>
+  </fieldset>
+  <fieldset>
+    <legend>Je sens que la tristesse, le cafard me débordent en ce moment</legend>
+    <input type="radio" id="radio-adrs-31" name="radio-adrs-3" class="d-input-none" value="1" required>
+    <label for="radio-adrs-31" class="chip chip-action chip-sm chip-choice">Vrai</label>
+    <input type="radio" id="radio-adrs-32" name="radio-adrs-3" class="d-input-none" value="0">
+    <label for="radio-adrs-32" class="chip chip-action chip-sm chip-choice">Faux</label>
+  </fieldset>
+  <fieldset>
+    <legend>Il n’y a rien qui m’intéresse, plus rien qui m’amuse</legend>
+    <input type="radio" id="radio-adrs-41" name="radio-adrs-4" class="d-input-none" value="1" required>
+    <label for="radio-adrs-41" class="chip chip-action chip-sm chip-choice">Vrai</label>
+    <input type="radio" id="radio-adrs-42" name="radio-adrs-4" class="d-input-none" value="0">
+    <label for="radio-adrs-42" class="chip chip-action chip-sm chip-choice">Faux</label>
+  </fieldset>
+  <fieldset>
+    <legend>Ce que je fais ne sert à rien</legend>
+    <input type="radio" id="radio-adrs-51" name="radio-adrs-5" class="d-input-none" value="1" required>
+    <label for="radio-adrs-51" class="chip chip-action chip-sm chip-choice">Vrai</label>
+    <input type="radio" id="radio-adrs-52" name="radio-adrs-5" class="d-input-none" value="0">
+    <label for="radio-adrs-52" class="chip chip-action chip-sm chip-choice">Faux</label>
+  </fieldset>
+  <fieldset>
+    <legend>Au fond, quand c’est comme ça, j’ai envie de mourir</legend>
+    <input type="radio" id="radio-adrs-61" name="radio-adrs-6" class="d-input-none" value="1" required>
+    <label for="radio-adrs-61" class="chip chip-action chip-sm chip-choice">Vrai</label>
+    <input type="radio" id="radio-adrs-62" name="radio-adrs-6" class="d-input-none" value="0">
+    <label for="radio-adrs-62" class="chip chip-action chip-sm chip-choice">Faux</label>
+  </fieldset>
+  <fieldset>
+    <legend>Je ne supporte pas grand chose</legend>
+    <input type="radio" id="radio-adrs-71" name="radio-adrs-7" class="d-input-none" value="1" required>
+    <label for="radio-adrs-71" class="chip chip-action chip-sm chip-choice">Vrai</label>
+    <input type="radio" id="radio-adrs-72" name="radio-adrs-7" class="d-input-none" value="0">
+    <label for="radio-adrs-72" class="chip chip-action chip-sm chip-choice">Faux</label>
+  </fieldset>
+  <fieldset>
+    <legend>Je me sens découragé</legend>
+    <input type="radio" id="radio-adrs-81" name="radio-adrs-8" class="d-input-none" value="1" required>
+    <label for="radio-adrs-81" class="chip chip-action chip-sm chip-choice">Vrai</label>
+    <input type="radio" id="radio-adrs-82" name="radio-adrs-8" class="d-input-none" value="0">
+    <label for="radio-adrs-82" class="chip chip-action chip-sm chip-choice">Faux</label>
+  </fieldset>
+  <fieldset>
+    <legend>Je dors très mal</legend>
+    <input type="radio" id="radio-adrs-91" name="radio-adrs-9" class="d-input-none" value="1" required>
+    <label for="radio-adrs-91" class="chip chip-action chip-sm chip-choice">Vrai</label>
+    <input type="radio" id="radio-adrs-92" name="radio-adrs-9" class="d-input-none" value="0">
+    <label for="radio-adrs-92" class="chip chip-action chip-sm chip-choice">Faux</label>
+  </fieldset>
+  <fieldset>
+    <legend>À l’école, au boulot, je n’y arrive pas</legend>
+    <input type="radio" id="radio-adrs-101" name="radio-adrs-10" class="d-input-none" value="1" required>
+    <label for="radio-adrs-101" class="chip chip-action chip-sm chip-choice">Vrai</label>
+    <input type="radio" id="radio-adrs-102" name="radio-adrs-10" class="d-input-none" value="0">
+    <label for="radio-adrs-102" class="chip chip-action chip-sm chip-choice">Faux</label>
+  </fieldset>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline score-output-title">Score ADRS</p>
+      <output class="score-output" id="adrsScore">0</output>
+    </div>
+    <p id="adrsText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</div>
+<blockquote class="blockquote my-4">
+  <p class="mb-0"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1785378/" rel="external nofollow noopener">Revah-Levy A, Birmaher B, Gasquet I, Falissard B. The Adolescent Depression Rating Scale (ADRS): a validation study. BMC Psychiatry. 2007;7:2. Published 2007 Jan 12. doi:10.1186/1471-244X-7-2</a></p>
+</blockquote>
+{{ $script := `
+  // Score ADRS by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreAdrs = document.getElementById('adrsScore');
+    const textAdrs = document.getElementById('adrsText');
+    [...document.querySelectorAll('#score-adrs input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { calcAdrs() }) });
+    const calcAdrs = () => {
+      let score = 0
+      const elemsChecked = document.querySelectorAll('#score-adrs input[type=\"radio\"]:checked')
+      elemsChecked.forEach(elemChecked => {
+        score += parseInt(elemChecked.value, 10)
+        if (elemsChecked.length === 10) {
+          scoreAdrs.innerHTML = score
+          if (score <= 3) {
+            textAdrs.innerHTML = 'Absence de souffrance psychologique'
+          } else if (score >= 4 && score < 7) {
+            textAdrs.innerHTML = 'État de souffrance psychologique'
+          } else if (score >= 7) {
+            textAdrs.innerHTML = 'État de dépression'
+          }
+        }
+      })
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>

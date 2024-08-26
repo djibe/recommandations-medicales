@@ -271,7 +271,7 @@ Ne pas utiliser d'autres formes de supplémentations.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ameli Medecin. Dosage de la vitamine D : le point sur la prescription et la prise en charge. 08/02/2024.](https://www.ameli.fr/medecin/actualites/dosage-de-la-vitamine-d-le-point-sur-la-prescription-et-la-prise-en-charge)
+- [Ameli Médecin. Dosage de la vitamine D : le point sur la prescription et la prise en charge. 08/02/2024.](https://www.ameli.fr/medecin/actualites/dosage-de-la-vitamine-d-le-point-sur-la-prescription-et-la-prise-en-charge)
 - [Bacchetta J et al; SFP, SFneonatalogie, AFPA et al. Vitamin D and calcium intakes in general pediatric populations: A French expert consensus paper. Archives de pédiatrie. 2022. (PDF)](https://afpa.org/content/uploads/2022/03/Vitamin-D-and-calcium-intakes-in-general-pediatric-populations-A-French-expert-consensus-paper-20-02-2022.pdf)
 - [Anses. Vitamine D : pourquoi et comment assurer un apport suffisant ? 02/03/2022.](https://www.anses.fr/fr/content/vitamine-d-pourquoi-et-comment-assurer-un-apport-suffisant)
 - [Omedit Centre Val de Loire. Protocole de supplémentation en vitamine D en EHPAD. Décembre 2020. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/10827.pdf)

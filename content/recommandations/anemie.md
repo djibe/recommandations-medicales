@@ -55,7 +55,7 @@ Elle est augmentée en cas d'inflammation (carence martiale peu probable si ferr
 |-------------------|-------------------------------:|
 | Non               |                  0&nbsp;&nbsp; |
 | Fumeur            |                           -0,3 |
-| &lt; 10           |                           -0,3 |
+| < 10              |                           -0,3 |
 | 10-19             |                           -0,5 |
 | ≥ 20              |                           -0,6 |
 {{< /table >}}

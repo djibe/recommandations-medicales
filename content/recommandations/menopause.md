@@ -76,7 +76,7 @@ La valeur prédictive du test au progestatif pour le diagnostic de ménopause n'
 | &gt; 55 ans             | Ménopause tardive              |
 | 45-55 ans               | Ménopause naturelle            |
 | 40-45 ans               | Ménopause anticipée            |
-| &lt; 40 ans             | [Insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}}) |
+| < 40 ans                | [Insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}}) |
 | Radio/chimio-induite    | Ménopause iatrogène            |
 | Ovariectomie bilatérale | Ménopause chirurgicale         |
 {{< /table >}}

@@ -59,7 +59,7 @@ Spanioménorrhée
 | +55                           | Ménopause tardive              |
 | 45-55                         | Ménopause naturelle            |
 | 40-45                         | Ménopause anticipée            |
-| &lt; 40 ans                   | Insuffisance ovarienne prématurée |
+| < 40 ans                      | Insuffisance ovarienne prématurée |
 | Radio/chimio-induite          | Ménopause iatrogène            |
 | Ovariectomie bilatérale       | Ménopause chirurgicale         |
 {{< /table >}}

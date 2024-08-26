@@ -411,7 +411,7 @@ Approche relationnelle centrée sur le patient, dont le but est de susciter ou r
 Il se fonde sur l'idée qu'une personne n'arrivera à des changements que si la motivation vient de la personne elle-même.  
 L'attitude du professionnel consistera donc en une exploration empathique de l'ambivalence de la personne face au changement.
 
-L'entretien motivationnel n'est pas une confrontation ou une persuasion.
+**L'entretien motivationnel n'est pas destiné à convaincre, argumenter ou mettre en garde.**
 
 #### Exemple de méthode d'entretien motivationnel
 

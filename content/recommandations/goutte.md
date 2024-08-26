@@ -8,7 +8,7 @@ synonyms = ["Hyperuricémie", "arthropathie uricémique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-08T09:35:00+02:00"
 publishdate = "2021-01-08"
-lastmod = "2023-10-13"
+lastmod = "2024-08-23"
 specialites = ["rhumatologie"]
 annees = "2020"
 sources = ["SFRhumato", "ACR", "EULAR"]
@@ -247,6 +247,8 @@ Recommandations pour la prise en charge par traitement de fond selon la *SFRhuma
 Pour l'*ACR*: prise en charge par hypouricémiant fortement recommandé si: ≥ 1 tophus, lésions radiologiques  liées à la goutte, ≥ 2 crises/an (dites fréquentes)  
 ou recommandé pour certains patients ayant déjà eu ≥ 1 crise mais non fréquentes  
 ou recommandé si DFG < 60, uricémie ≥ 90 mg/L ou lithiase urique.
+
+Pour le *KDIGO*: 1er épisode de goutte et maladie rénale chronique
 {{%/info%}}
 
 **Objectif du traitement de fond:** prévenir les crises douloureuses et les complications par la dissolution des cristaux d'urate de sodium en maintenant l'uricémie < 60 mg/L (360 µmol/L) au long cours avec cible **< 50 mg/L** (300 µmol/L). Contrôler l'**uricémie 1 à 2 fois par an**.
@@ -373,7 +375,7 @@ Corticoïdes = 30 mg/j prednisone 3-5 jours.
 {{< mermaid title="Conduite à tenir pour le traitement hypouricémiant de fond du patient goutteux. Dr JB Fron d'après SFR et ACR 2020" >}}
 graph TB
 accTitle: Prise en charge de la goutte par traitement de fond d'après SFR et ACR 2020
-  diagnostic[Diagnostic de goutte] --> education("<b>Éducation</b><br>—<br>- Traitement sur soi<br>- RHD") --> criteres("<b>Critères de traitement</b><br>—<br>- SFRhumato: dès la 1<sup>re</sup> crise<br>- ACR:<br>≥ 1 tophus, lésions radiologiques,<br>≥ 2 crises/an,<br>critères annexes (Voir ttt fond)")
+  diagnostic[Diagnostic de goutte] --> education("<b>Éducation</b><br>—<br>- Traitement sur soi<br>- RHD") --> criteres("<b>Critères de traitement</b><br>—<br>- SFRhumato: dès la 1<sup>re</sup> crise<br>- ACR:<br>≥ 1 tophus, lésions radiologiques,<br>≥ 2 crises/an,<br>critères annexes (Voir ttt fond)<br>- KDIGO: MRC")
   style diagnostic stroke:#4150f5, stroke-width:1px
     criteres -- Oui --> clairance(Évaluation clairance et<br>cardiovasculaire)
       clairance -- Sans comorbidités --> allopurinol("Allopurinol 50<br>à 100 mg/j<br>(demi-dose si Asiat.)") --> prophylaxie("Associer la prophylaxie:<br>colchicine 0,5 à 1 mg/j ≥ 3-6 mois<br>(prednisone si insuff. rénale)")
@@ -425,6 +427,7 @@ Intérêt de colchicine prophylactique.
 {{% /collapse %}}
 {{%sources%}}
 
+- [Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024.](https://kdigo.org/guidelines/ckd-evaluation-and-management/)
 - [ANSM. Prise en charge par colchicine de la goutte : une nouvelle posologie plus faible et un message d'alerte sur les boites pour réduire le risque de surdosage. 10/10/2023.](https://ansm.sante.fr/informations-de-securite/prise-en-charge-par-colchicine-de-la-goutte-une-nouvelle-posologie-plus-faible-et-un-message-dalerte-sur-les-boites-pour-reduire-le-risque-de-surdosage)
 - {{< references/esh-2023 >}}
 - Prescrire Rédaction. Crise de goutte. Premiers Choix Prescrire. Rev Prescrire. 2021.
