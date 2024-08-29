@@ -9,7 +9,7 @@ synonyms = ["Insuffisance cardiaque à FEVG altérée", "insuffisance cardiaque 
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = "2021-06-03"
-lastmod = "2024-06-14"
+lastmod = "2024-08-29"
 specialites = ["cardiologie"]
 annees = "2023"
 sources = ["ESC", "HAS"]
@@ -283,7 +283,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
   - Escalade thérapeutique: ajouter amlodipine/félodipine si non contrôlée
 - LDL cible selon les {{< modal-btn modal-rcv >}}comorbidités cardiovasculaires{{< /modal-btn >}}
 - Activité physique
-  - 30 minutes d'activité physique quotidienne (min 20 min x 3/sem), [guide patient HAS](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_icc.pdf) (PDF)  
+  - 30 minutes d'activité physique quotidienne (min 20 min x 3/sem), [guide patient HAS ICC](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_icc.pdf) (PDF)  
     {{%class%}}Atteindre une dyspnée légère à modérée.{{%/class%}}
   - **Réadaptation cardiaque** (réhabilitation) supervisée en SSR voire encadrée à domicile
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et de l'[alcool]({{< relref "sevrage-alcool.md" >}})
@@ -291,7 +291,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
 - Mesures associées
   - Éducation thérapeutique
   - Évaluation diététique
-  - Vaccinations grippe, Covid-19, {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}}
+  - Vaccinations grippe, Covid-19, {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}}, VRS (+65 ans)
   - Si Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}})
   - Diagnostic rapide des infections intercurrentes
   - Surveillance des cardiotoxiques
@@ -529,7 +529,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - Activité sexuelle
   - Ne pas craindre les rapports sexuels et discuter des problèmes avec les professionnels de santé
   - Comprendre les problèmes sexuels spécifiques et développer des stratégies permettant de les surmonter
-- Vaccination grippe + pneumocoque
+- Vaccination grippe, Covid19, pneumocoque, VRS
 - Si Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}})
 - Troubles du sommeil et de la respiration
   - Correction des FRCV, obésité, alcool
@@ -550,6 +550,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 
 {{< youtube id="60VQUo3xqAw" title="Insuffisance cardiaque, encore un effort! (Fréquence Médicale)" >}}
 
+- [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [Mullens W et al. Dietary sodium and fluid intake in heart failure. A clinical consensus statement of the Heart Failure Association of the ESC. Eur J Heart Fail. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/ejhf.3244)
 - [McDonagh TA et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad195/7246292)
 - {{< references/esh-2023 >}}

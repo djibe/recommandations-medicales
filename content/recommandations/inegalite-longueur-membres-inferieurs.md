@@ -146,7 +146,6 @@ Une amputation peut être discutée en cas de différence supérieure à **20 cm
 
 ### Bibliographie en attente
 
-- Collège Suivi d’un nourrisson, d’un enfant, et d’un adolescent normal.
-Dépistage des anomalies orthopédiques .
+- Collège Français des Chirurgiens Orthopédistes et Traumatologues. Suivi d'un nourrisson, d'un enfant, et d'un adolescent normal. Dépistage des anomalies orthopédiques. Les référentiels. Orthopédie Traumatologie. 2020.
 
 {{%/sources%}}

@@ -97,8 +97,9 @@ Signes et symptômes chez le sujet de plus de 60 ans:
 ### Examen clinique
 
 - Pression artérielle, fréquence cardiaque
-- Examen neurologique
 - Otoscopie bilatérale
+- {{< modal-btn modal-voix >}}Test de la voix chuchotée{{< /modal-btn >}}
+- Examen neurologique
 - Acoumétrie au diapason: épreuves de Weber et de Rinne (surdité de transmission)
 
 {{% /collapse %}}
@@ -187,5 +188,10 @@ graph TB
 {{% modal title="Échelle IADL simplifiée" id="modal-iadl"%}}
 
 {{< scores/iadl-simplifiee >}}
+
+{{% /modal %}}
+{{% modal title="Test de la voix chuchotée" id="modal-voix"%}}
+
+{{< clinique/voix-chuchotee >}}
 
 {{% /modal %}}

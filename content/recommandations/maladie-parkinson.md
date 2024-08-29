@@ -284,7 +284,7 @@ Le traitement est symptomatique et pluridisciplinaire avec un accès privilégi�
 - Suivi minimal trimestriel  
   Avis gériatrique si besoin.
 - Activité physique régulière et diversifiée  
-  [Guide patient HAS](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_parkinson.pdf) (PDF)
+  [Guide patient HAS APA](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_parkinson.pdf) (PDF)
 - Suivi paramédical
   - **Kinésithérapeute**: aucune technique n'a de supériorité
   - **Orthophoniste** (micrographie, voix, déglutition)

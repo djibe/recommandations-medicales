@@ -124,7 +124,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
   - Lutte contre la sédentarité: bouger 1-5 minutes par heure
   - **Prescrire** une AP adaptée d'endurance et de renforcement musculaire pendant 3 mois, renouvelable, à raison de 2 à 3 séances par semaine
   - **Au moins 150 minutes** (2h30) d'activité physique modérée par semaine (75 si intense). Renforcement musculaire 3 j/sem.  
-    Commencer par 10 min de marche/j ou autre objectif *SMART*. [Guide patient HAS](https://www.has-sante.fr/jcms/p_3391317/fr/l-activite-physique-pour-votre-sante-diabete-de-type-2)
+    Commencer par 10 min de marche/j ou autre objectif *SMART*. [Guide patient HAS APA](https://www.has-sante.fr/jcms/p_3391317/fr/l-activite-physique-pour-votre-sante-diabete-de-type-2)
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette 3 j/sem
   - Avec l'âge, favoriser la souplesse 2 à 3 jours par semaine (yoga, Thai-chi)
 - Surpoids  

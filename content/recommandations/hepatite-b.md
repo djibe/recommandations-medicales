@@ -204,7 +204,7 @@ Vaccins hépatite B à partir de 16 ans:
 - [HBVaxPro 10® (PDF)](https://ec.europa.eu/health/documents/community-register/2021/20210111150361/anx_150361_fr.pdf)
 
 - 3 doses à M0-M1-M6
-- Schéma accéléré par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R) à J0-J7-J21 et rappel à 12 mois  
+- **Schéma accéléré** par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R) à J0-J7-J21 et rappel à 12 mois  
   Le contrôle des anti-HBs est préconisé 4-8 semaines après le rappel.
 
 ### Vaccins hépatite B pour les enfants

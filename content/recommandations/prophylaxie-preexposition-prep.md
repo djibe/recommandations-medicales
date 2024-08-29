@@ -132,8 +132,8 @@ Possible si: [infection hépatite B]({{< relref "hepatite-b.md" >}}) (avis gastr
 
 Bilan avant l'instauration de la PrEP, en l'absence de suspicion de primo-infection VIH:
 
-- Sérologie VIH < 7 jours
-- Créatininémie et clairance Cockroft (TODO:)
+- Sérologie VIH de moins de 7 jours
+- Créatininémie et clairance CKD-EPI
 - Autres (ne modifiant pas la prescription)
   - Sérologie VHA ± [rattrapage vaccinal]({{< relref "hepatite-a.md" >}})
   - Sérologie VHB: Ag HBs, anticorps anti-HBs, anticorps anti-HBc + [rattrapage vaccinal]({{< relref "hepatite-b.md" >}})
@@ -318,12 +318,16 @@ gitGraph
 
 - [Chou R et al. Preexposure Prophylaxis for the Prevention of HIV: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2023.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prevention-of-human-immunodeficiency-virus-hiv-infection-pre-exposure-prophylaxis)
 - Ameli Médecin. Forte augmentation de la prescription de la PrEP en ville par des médecins généralistes. 29/11/2022.
-- [Velter A. et al. Évolution du niveau de protection contre le VIH parmi les hommes ayant des rapports sexuels avec des hommes séronégatifs pour le VIH – Résultats de l'enquête Rapport au sexe 2017-2019-2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_1.html)
+- [Velter A et al. Évolution du niveau de protection contre le VIH parmi les hommes ayant des rapports sexuels avec des hommes séronégatifs pour le VIH – Résultats de l'enquête Rapport au sexe 2017-2019-2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_1.html)
 - [MedQual. VIH : La PrEP arrive en ville ! Janvier 2022.](http://www.medqual.fr/images/PRO_2018/LA/2022-JAN-LAPrEP-n195-vF.pdf)
 - [ANSM. Emtricitabine - Ténofovir disoproxil. 27/07/2021.](https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil)
 - [HAS. Réponses rapides dans le cadre de la COVID-19 - Prophylaxie (PrEP) du VIH par ténofovir disoproxil / emtricitabine dans le cadre de l'urgence sanitaire. 28/04/2021.](https://www.has-sante.fr/jcms/p_3262060/fr/reponses-rapides-dans-le-cadre-de-la-covid-19-prophylaxie-prep-du-vih-par-tenofovir-disoproxil-/-emtricitabine-dans-le-cadre-de-l-urgence-sanitaire)
 - [CNS. Avis sur la place de la PrEP dans la prévention du VIH en France : changer de paradigme, changer d'échelle. 15/04/2021. (PDF)](https://cns.sante.fr/wp-content/uploads/2021/05/2021-04-15_avis_fr_prevention.pdf)
 - [Janier M et al. 2020 European guideline on the management of syphilis. J Eur Acad Dermatol Venereol. 2021.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16946)
 - [AIDES. La PrEP](https://www.aides.org/prep)
+
+### Bibliographie en attente
+
+[HAS, ANRS, CNS. Traitement préventif pré-exposition de l'infection par le VIH. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3536524/fr/traitement-preventif-pre-exposition-de-l-infection-par-le-vih)
 
 {{%/sources%}}

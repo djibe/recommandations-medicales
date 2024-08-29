@@ -10,7 +10,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. HOUSSET (SPLF) et Dr S. LAUNOIS (SFRMS/SPLF)"
 date = "2021-03-28T23:07:00+02:00"
 publishdate = "2021-04-14"
-lastmod = "2024-07-19"
+lastmod = "2024-08-29"
 specialites = ["pneumologie"]
 annees = "2024"
 sources = ["GOLD", "ERS", "HAS", "SPLF"]
@@ -30,7 +30,7 @@ todo = "SEO prise en charge x2 | GOLD 2024: groupe Figure 3.7, Figure 3.18, Targ
 - {{< modal-btn modal-depistage-bpco >}}Dépistage systématique des facteurs de risque de BPCO{{< /modal-btn >}} (+20 PA, infections respiratoires récidivantes) et prévention par sevrage tabagique pour tout le monde
 - Le diagnostic de bronchopneumopathie chronique obstructive est spirométrique: trouble ventilatoire obstructif non réversible. Le VEMS est le facteur pronostique majeur de la {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
 - Le suivi de la BPCO nécessite un bilan par EFR/spirométrie de suivi annuelle
-- La prise en charge de la BPCO associe: arrêt du tabac (facteur principal du déclin du VEMS), vaccinations (covid-19, grippe, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}), activité physique et réhabilitation respiratoire, prévention cardiovasculaire
+- La prise en charge de la BPCO associe: arrêt du tabac (facteur principal du déclin du VEMS), vaccinations (covid-19, grippe, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, VRS si +65 ans), activité physique et réhabilitation respiratoire, prévention cardiovasculaire
 - Suivi des symptômes et exacerbations de BPCO: {{< modal-btn modal-score-cat >}}questionnaire CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}mMRC{{< /modal-btn >}} pour déterminer la sévérité
 - Bronchodilatateurs de longue durée d'action: {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} puis {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}} si nécessaire avec {{< modal-btn modal-ttt-bdca >}}bronchodilatateurs de courte durée{{< /modal-btn >}} en cas de gêne respiratoire. Augmenter les doses si besoin voire avis pneumologique pour {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + corticoïdes inhalés CSI{{< /modal-btn >}}
 - Hospitalisation pour exacerbation de BPCO: réévaluation clinique dans les 7 jours, dans les 2 mois par le pneumologue, réhabilitation respiratoire
@@ -336,6 +336,7 @@ Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mm
 - Vaccination
   - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) avec la coqueluche
   - Covid-19 et grippe annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} (*GOLD 2024*)
+  - VRS 1 fois (*HAS 2024*)
   - [Zona]({{< relref "zona.md" >}}) chez le +50 ans (*GOLD 2024*)
 - Réhabilitation respiratoire
   - Essentielle pour tous pour réduire la dyspnée, le stress et améliorer la qualité de vie
@@ -631,6 +632,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [HAS, SPILF, SPLF. Choix et durées d'antibiothérapie dans les exacerbations aiguës de bronchopneumopathie chronique obstructive (EABPCO). 2024.](https://www.has-sante.fr/jcms/p_3528903/fr/choix-et-durees-d-antibiotherapie-dans-les-exacerbations-aigues-de-bronchopneumopathie-chronique-obstructive-eabpco)
 - [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease: 2024 Report. 2024.](https://goldcopd.org/2024-gold-report/)
 - [Collège des Enseignants de Pneumologie (CEP). Bronchopneumopathie chronique obstructive (BPCO). Item 209. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_209_BRONCHOPNEUMOPATHIE_CHRONIQUE_OBSTRUCTIVE_2023.pdf)

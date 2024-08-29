@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-18T14:42:09+01:00"
 publishdate = "2024-01-26"
-lastmod = "2024-07-26"
+lastmod = "2024-08-28"
 specialites = ["dermatologie"]
 annees = "2024"
 sources = ["HAS", "SPILF", "GPIP"]
@@ -77,13 +77,10 @@ SPILF
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Traitement des infections cutanées bactériennes: impétigo, furoncle, abcès" %}}
+{{%collapse "Traitement de l'impétigo" %}}
 
 > Toutes les infections bactériennes cutanées nécessitent un lavage quotidien à l'eau et au savon (= << soins quotidiens >> dans l'article).
 {.alert .alert-info}
-
-[Impétigo](#traitement-de-limpétigo) - [Folliculite](#traitement-de-la-folliculite) - [Furoncle](#traitement-du-furoncle-simple) - [Furonculose](#traitement-de-la-furonculose) - [Abcès cutané](#traitement-de-labcès-cutané)
-{.my-4}
 
 ### Traitement de l'impétigo
 
@@ -115,7 +112,11 @@ Prise en charge de l'impétigo grave:
   - ou clindamycine 30 mg/kg/j (max 1,8 g/j) en 3 prises
   - ou cotrimoxazole 30 mg/kg/j de SMX (max 800 mg/j) en 2 prises
 
-### Traitement de la folliculite
+{{% /collapse %}}
+{{%collapse "Traitement de la folliculite et du furoncle" %}}
+
+> Toutes les infections bactériennes cutanées nécessitent un lavage quotidien à l'eau et au savon (= << soins quotidiens >> dans l'article).
+{.alert .alert-info}
 
 Prise en charge de la folliculite superficielle:
 
@@ -186,7 +187,8 @@ Après guérison de la poussée de furoncles, **décolonisation** des gîtes bac
 - Douche (savon et shampooing) antiseptique chlorhexidine moussante x 1/j pendant 7 jours
 - Hygiène des mains (lavage, ongles courts et propres), du linge et du foyer (vaisselle, locaux)
 
-### Traitement de l'abcès cutané
+{{% /collapse %}}
+{{%collapse "Traitement de l'abcès cutané" %}}
 
 Prise en charge d'un abcès cutané:
 

@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-16T08:08:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2024-06-28"
+lastmod = "2024-08-28"
 specialites = ["pediatrie"]
 annees = "2023"
 sources = ["HAS", "SFP"]
@@ -241,7 +241,8 @@ Indications à la radiographie de thorax devant un épisode évocateur de bronch
 
 Recommandations pour la prévention de la bronchiolite:
 
-- Vaccination anti-VRS pendant la grossesse (voir plus bas)
+- Vaccination anti-VRS pendant la grossesse (voir plus bas)  
+  ou immunoglobulines anti-VRS Beyfortus® à défaut (voir plus bas)
 - [Allaitement maternel]({{< relref "allaitement.md" >}})
 - Retarder la mise en collectivité
 - Nourrisson à haut risque de forme grave: ne pas fréquenter la collectivité en période épidémique
@@ -269,10 +270,7 @@ En l'absence de vaccination anti-VRS pendant la grossesse, le nirsévimab est re
 
 Indications à la prévention de la bronchiolite par une immunisation passive avec l'anticorps monoclonal nirsévimab:
 
-- Pour 2023-2024: **tous les nourrissons** nés après le 6 février 2023
-  - Prioritaires: prématurés, comorbidités, naissance pendant la période épidémique, < 6 mois au début de l'épidémie (octobre-novembre)
-  - Même si -1 an avec antécédent de bronchiolite mais non documentée à VRS (ex septembre-octobre)
-  - Également les +1 an éligibles au Synagis® (cf paragraphe suivant: dysplasie bronchopulmonaire ...)
+- Pour 2024-2025: **tous les nourrissons nés après le 1er janvier 2024**
   - Au mieux avant la sortie de maternité (rattrapage en ville sinon)
 - Une seule injection IM de nirsévimab (Beyfortus®)
 - <mark>De 0,5 mL (50 mg) pour les moins de 5 kg de poids puis 1 mL (100 mg) au-delà</mark>
@@ -281,14 +279,13 @@ Indications à la prévention de la bronchiolite par une immunisation passive av
 - Contre-indiquée en cas d'infection documentée à VRS ou d'hypersensibilité connue à un des composants du produit
 - Repousser si épisode infectieux modéré à sévère en cours
 - Avec mention dans le Carnet de santé à la section << Statut clinique ou immunitaire pour les maladies à prévention vaccinale >>
-- Par un généraliste, pédiatre, ~~sage-femme~~ ou infirmier sur prescription
+- Par un généraliste, pédiatre (~~sage-femme~~ ou infirmier sur prescription)
 - Effets indésirables possibles: rash, induration, fièvre
-- Disponible en pharmacie à partir du 15 septembre 2023 jusqu'à la fin de l'épidémie (fin janvier)
 - Remboursé à 30 % (401,80 €)
 
 Le nirsévimab est efficace au moins 5 mois.
 
-#### Immunoglobulines anti-VRS
+#### Autres immunoglobulines anti-VRS
 
 Anticorps [palivizumab](https://ec.europa.eu/health/documents/community-register/2021/20210701152506/anx_152506_fr.pdf) (Synagis®) mensuel pendant la période épidémique en cas de risque élevé d'infection grave au VRS:
 
@@ -445,6 +442,7 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 {{% /collapse %}}
 {{%sources%}}
 
+- [DGS-Urgent 2024_13. 27/08/2024.](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
 - Prescrire Redaction. Bronchiolite et kinésithérapie respiratoire. Rev Prescrire. 2024.
 - [Vartiainen P, Jukarainen S, Rhedin SA, et al. Risk factors for severe respiratory syncytial virus infection during the first year of life: development and validation of a clinical prediction model. Lancet Digit Health. 2023.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00175-9/fulltext)

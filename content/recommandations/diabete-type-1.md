@@ -198,7 +198,7 @@ Trame des éléments à relever pour un dossier médical complet.
 - Activité physique
   - **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire. Renforcement musculaire 3 j/sem.
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette x3/sem
-  - Guide patient HAS ([PDF](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_diabete_1.pdf))
+  - Guide patient HAS diabète type 1 ([PDF](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_diabete_1.pdf))
 - {{< modal-btn modal-hba1c-dt1 >}}Cible d'HbA<sub>1c</sub> personnalisée + pré et post-prandiales{{< /modal-btn >}} (globalement 7%)
 - Surpoids  
   Négocier une perte de poids (5-10%). Un accompagnement spécialisé permet une baisse d'HbA<sub>1c</sub> de 1-1,9 %.

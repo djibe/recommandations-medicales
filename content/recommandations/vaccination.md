@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2024-07-24"
+lastmod = "2024-08-29"
 specialites = ["infectiologie", "pediatrie", "therapeutique"]
 annees = "2024"
 sources = ["MinSanté", "HCSP"]
@@ -60,10 +60,10 @@ VVA
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal 2024" "show" %}}
 
-{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie sauf NR. Dr JB Fron d'après Calendrier vaccinal 2024, DGS Urgent 2023-14 et HAS 2024." >}}
+{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie sauf NR. Dr JB Fron d'après Calendrier vaccinal 2024, DGS Urgent et HAS 2024." >}}
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
-|   Né après<br>le 6/2/23 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Beyfortus au mieux avant<br>la sortie de maternité                |
+|   Né après<br>le 1/1/24 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Sauf Abrysvo en fin de grossesse, Beyfortus au mieux avant<br>la sortie de maternité |
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 1/3, Rotarix 1/2 |
 |   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + pneumocoque +<br>DTCaP-Hib-HB selon GPIP/Infovac) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance) |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3 |
@@ -73,11 +73,12 @@ VVA
 | 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
-| 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>Nimenrix, MenQuadfi ou<br>Menveo (pas d'aiguille)  |
+| 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>Nimenrix, MenQuadfi ou<br>Menveo (pas d'aiguille)      |
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |   45 ans   | dTcaPolio (dTPolio retiré)                           | BoostrixTetra, Repevax                                                    |
 |  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>NR: Shingrix M0-M2 |
-| Grossesse  | Coqueluche, Covid, grippe, VRS (NR, dose unique)     | BoostrixTetra, Repevax, Abrysvo ...                                       |
+|  +75 ans   | + VRS                                                | Arexvy, Abrysvo                                                           |
+| [Grossesse]({{< relref "grossesse.md" >}}) | Coqueluche, Covid, grippe, VRS | BoostrixTetra, Repevax, Abrysvo ...                             |
 | Médecin généraliste | Covid-19, grippe, ROR,<br>varicelle, VHB    |                                                                           |
 {{< /table >}}
 
@@ -319,10 +320,11 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
-- [Journal Officiel. Décret n° 2024-694 du 5 juillet 2024 relatif à l'obligation vaccinale contre les méningocoques de type B et ACWY. 21/07/2023.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047867676)
+- [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [HAS. Stratégie de vaccination contre les infections invasives à méningocoques - Évaluation de l'interchangeabilité des vaccins méningococciques tétravalents pour l'administration de la dose de rappel à l'âge de 12 mois. 2024.](https://www.has-sante.fr/jcms/p_3528695/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques-evaluation-de-l-interchangeabilite-des-vaccins-meningococciques-tetravalents-pour-l-administration-de-la-dose-de-rappel-a-l-age-de-12-mois)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
 - {{< references/calendrier-vaccinal >}}
+- [Journal Officiel. Décret n° 2024-694 du 5 juillet 2024 relatif à l'obligation vaccinale contre les méningocoques de type B et ACWY. 21/07/2023.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047867676)
 - [Service Public. Les pharmaciens peuvent désormais vous prescrire et vous administrer vos vaccins. 30/08/2023.](https://www.service-public.fr/particuliers/actualites/A16732) et [arrêté 2023-736](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047948973)
 - [HAS. Actualisation des recommandations et obligations vaccinales des professionnels. Volet 1/2 : diphtérie, tétanos, poliomyélite, hépatite B, Covid-19. 2023.](https://www.has-sante.fr/jcms/p_3424586/fr/actualisation-des-recommandations-et-obligations-pour-les-etudiants-et-professionnels-des-secteurs-sanitaire-medicosocial-et-en-contacts-etroits-avec-de-jeunes-enfants)
 - [HAS. Actualisation des recommandations et obligations vaccinales des professionnels. Volet 2/2 : coqueluche, grippe saisonnière, hépatite A, rougeole, oreillons, rubéole, varicelle. 2023.](https://www.has-sante.fr/jcms/p_3456351/fr/actualisation-des-recommandations-et-obligations-vaccinales-des-professionnels)

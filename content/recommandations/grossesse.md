@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2024-08-21"
+lastmod = "2024-08-28"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "CRAT", "SFD"]
@@ -26,8 +26,8 @@ chart = true
 
 - 0 alcool et 0 tabac pendant la grossesse, interroger à chaque consultation
 - 1/3 des tests de grossesse sont non conformes (*[DGCCRF](https://www.economie.gouv.fr/dgccrf/les-autotests-de-fertilite-au-banc-dessai)*)
-- Vaccins Covid-19, grippe et coqueluche à chaque grossesse, anti-VRS Abrysvo de septembre à janvier (une seule dose, non disponible pour le moment)
-- [Nata](https://play.google.com/store/search?q=NATA&c=apps): l'appli officielle du suivi de grossesse multilingue
+- Vaccins Covid-19, grippe et coqueluche à chaque grossesse, anti-VRS Abrysvo si 32-36 SA de septembre à janvier (une seule dose)
+- [Nata](https://play.google.com/store/search?q=NATA&c=apps): l'appli officielle du suivi de grossesse (multilingue)
 - Besoins en [calcium]({{< relref "apports-calcium.md" >}}): 1 g/j (*IOF*), [alimentation pendant la grossesse (MangerBouger)](https://www.mangerbouger.fr/manger-mieux/a-tout-age-et-a-chaque-etape-de-la-vie/les-recommandations-et-conseils-avant-pendant-et-apres-la-grossesse/manger-equilibre-avant-pendant-et-apres-la-grossesse) et guide [activité physique](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_grossesse.pdf) (PDF)
 
 Chapitres dédiés:
@@ -120,7 +120,7 @@ Malgré les fermetures, **43 %** des maternités ont réalisé en 2020 **moins d
 {{% /collapse %}}
 {{%collapse "Suivi de grossesse" "show"%}}
 
-Vaccinations Covid-19 et grippe à n'importe quel terme et coqueluche entre 20 et 36 SA à chaque grossesse.
+Vaccinations Covid-19 et grippe à n'importe quel terme et coqueluche entre 20 et 36 SA à chaque grossesse. Anti-VRS par Abysvo une seule fois si terme de 32 à 36 SA de septembre à janvier (ou Beyfortus à défaut).
 
 {{< table title="Suivi simplifié de la grossesse. Dr JB Fron d'après HAS 2009 et Collège" class="table-wrap">}}
 | Moment   | Clinique | Examen  | Traitement |
@@ -131,7 +131,7 @@ Vaccinations Covid-19 et grippe à n'importe quel terme et coqueluche entre 20 e
 | 5e mois<br>20-24 SA || {{%tooltip "22 SA (20-25)"%}}Écho T2{{%/tooltip%}} | Vaccin coqueluche |
 | 6e mois<br>24-28 SA || NFS, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} | ± Rattrapage coqueluche |
 | 7e mois<br>28-32 SA || {{%tooltip "32 SA (30-35)"%}}Écho T3{{%/tooltip%}} | ± Rattrapage coqueluche |
-| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, prélèvement vaginal (strepto B) | VitD 100.000 UI, {{%tooltip "De septembre à janvier"%}}Abrysvo{{%/tooltip%}} (ND), ± Rattrapage coqueluche |
+| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, prélèvement vaginal (strepto B) | VitD 100.000 UI, {{%tooltip "De septembre à janvier"%}}Abrysvo{{%/tooltip%}}, ± rattrapage coqueluche |
 | 9e mois<br>37-42 SA ||||
 {{< /table >}}
 

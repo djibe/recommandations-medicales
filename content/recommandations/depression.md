@@ -28,7 +28,7 @@ flowchart = true
 - Aide au diagnostic de la dépression chez l'adulte: {{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}}, Beck, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, {{< modal-btn modal-gds15 >}}GDS-15{{< /modal-btn >}} (sujet âgé)
 - En cas de diagnostic d'épisode dépressif caractérisé: évaluer la sévérité ({{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, Beck, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}), le risque suicidaire, les comorbidités (et dépister une {{< modal-btn modal-gad2 >}}anxiété{{< /modal-btn >}}), toxiques, le handicap.  
   Avec l'accord du patient, interroger l'entourage.
-- Bilan de la dépression: NFS, ionogramme, calcémie, bilan hépatique, glycémie, TSH, ± toxiques urinaires
+- Bilan de la dépression: NFS, ionogramme, calcémie, bilan hépatique, glycémie, TSH, ± toxiques urinaires, apnées du sommeil
 - La prise en charge de la dépression associe toujours: {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} ou thérapies cognitivo-comportementales (TCC) (voir [Mon soutien psy]({{< relref "remboursement-psychologue-monsoutienpsy.md" >}}) pour le remboursement), activités physiques et sociales, rythme de vie, information du patient (dont lignes d'écoute)
 - Traitement antidépresseur de la dépression: {{< modal-btn modal-isrs >}}inhibiteur sélectif de la recapture de la sérotonine{{< /modal-btn >}} (ISRS) ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}} en première intention, à envisager pour un EDC d'intensité modérée et systématique si sévère
 - Consultation psychiatrique en cas de diagnostic incertain, comorbidités psychiatriques, suspicion de maladie bipolaire ou psychose, dépression sévère ou résistante
@@ -292,6 +292,7 @@ Les symptômes doivent être présents depuis au moins 15 jours avec changement 
   - Toxiques, sevrage
   - Auto/hétéro-agressivité
   - Dépistage d'une anxiété (75%): {{< modal-btn modal-gad2 >}}échelle GAD-2{{< /modal-btn >}}
+  - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - Retentissement socio-professionnel
 - **Évaluation du risque suicidaire**
 - Sujet âgé: rechercher une maladie neuro-dégénérative ([Alzheimer]({{< relref "maladie-alzheimer.md" >}}), Parkinson), {{< scores/mmse >}}
@@ -440,6 +441,8 @@ Bilan à la recherche de diagnostic différentiel:
 - ± Toxiques urinaires
 
 > – *CNUP*
+
+**NB.** {{< modal-btn modal-saos >}}Rechercher un syndrome d'apnées du sommeil{{< /modal-btn >}} à l'examen.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la dépression de l'adulte" %}}
@@ -649,5 +652,10 @@ graph TB
 {{% modal title="Antidépresseurs IRSNA" id="modal-irsna" size="lg"%}}
 
 {{< traitements/irsna-edc >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
+
+{{< scores/stop-bang >}}
 
 {{% /modal %}}

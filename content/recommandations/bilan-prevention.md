@@ -3,12 +3,12 @@ id = "01917f18-c5a9-79ef-8530-0ae5ced7ac08"
 title = "Mon Bilan Prévention"
 titleSeo = "Mon Bilan Prévention"
 prefix = ""
-description = "TODO:"
+description = "Le Bilan de Prévention pour le médecin généraliste: questionnaires des pathologies, axes de prise en charge et rédaction du plan personnalisé de prévention"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-08-23T13:56:41+02:00"
-publishdate = "2024-08-23"
-lastmod = "2024-08-23"
+publishdate = "2024-08-29"
+lastmod = "2024-08-29"
 specialites = ["certificats"]
 annees = "2024"
 sources = ["MinSanté"]
@@ -16,71 +16,136 @@ tags = ["prevention"]
 english = []
 sctid = ""
 icd10 = []
-draft = true
-image = false
-imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow"
+image = true
+imageSrc = "La prévention en santé. macrovector / Freepik"
+todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 +++
 
 {{%article-summary%}}
 
-TODO: (at the end)
+- Le *Bilan de Prévention* est une consultation dédiée à la prévention prise en charge à 100% par l'Assurance maladie entre 18 et 25 ans, 45 et 50 ans, 60 et 65 ans et 70 et 75 ans (une fois pour chaque tranche d'âge)
+- Les éléments cliniques à analyser lors du bilan sont proposés ci-dessous
+- Le *Bilan de Prévention* se cote *RDV* (30€), cumulable de le G(S) si des ordonnances consécutives au bilan sont remises au patient
+- Une fois le bilan réalisé, prioriser les actions avec le patient puis rédiger le plan personnalisé de prévention (PPP)
 
 {{%/article-summary%}}
+{{%collapse "Guide pour mener le Bilan de prévention" "show" %}}
 
-TODO:
+<div class="card my-5">
+<ul class="nav nav-justified nav-tabs" role="tablist">
+  <li class="nav-item" role="presentation">
+    <button aria-controls="div-18" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#div-18" id="tab-18" type="button" role="tab">18-25</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button aria-controls="div-45" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#div-45" id="tab-45" type="button" role="tab">45-50</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button aria-controls="div-60" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#div-60" id="tab-60" type="button" role="tab">60-65</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button aria-controls="div-60" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#div-70" id="tab-60" type="button" role="tab">70-75</button>
+  </li>
+</ul>
+<div class="tab-content card-body">
 
-## Tous
+### Généralités {.typography-headline-6}
 
 - Antécédents personnels
 - Antécédents familiaux
-- Mode de vie  
-  Alimentation, activité physique, sédentarité, {{< modal-btn modal-fagerstrom >}}tabac{{< /modal-btn >}}/{{< modal-btn modal-cast >}}cannabis{{< /modal-btn >}}  , {{< modal-btn modal-face >}}alcool{{< /modal-btn >}} et addictions, expositions aux IST, risque de grossesse non désirée.
+- Mode de vie
+  - Alimentation, activité physique et sédentarité
+  - {{< modal-btn modal-fagerstrom >}}Tabac{{< /modal-btn >}}/{{< modal-btn modal-cast >}}cannabis{{< /modal-btn >}}, {{< modal-btn modal-face >}}alcool{{< /modal-btn >}} et addictions
+  - Expositions aux [IST](/tags/ist/), risque de grossesse non désirée ([contraception]({{< relref "contraception.md" >}})).
 - Bien être mental et social  
-  Bien-être, sommeil, enfants, vie affective et amicale, statut d'aidant, conditions de travail, repérage de maltraitance.
+  Bien-être mental, sommeil, enfants, vie affective et amicale, statut d'aidant, conditions de travail, repérage de violences et maltraitance.
 - Environnement  
   Exposition aux produits chimiques, perturbateurs endocriniens, aération, moisissures, bruit/audition, radon, monoxyde de carbone, pollution, pesticides, espèces nuisibles.
 
-### Parcours de santé
+### Parcours de santé {.typography-headline-6}
 
+- [Carnet vaccinal]({{< relref "vaccination.md" >}})
+- Dépistage [IST](/tags/ist/)/[VIH]({{< relref "vih-sida.md" >}}) à jour
+- [Suivi dentaire annuel]({{< relref "prevention-carie-fluor.md" >}}), brossage biquotidien, M'T Dents jusqu'à 24 ans
 - Traitements en cours, antalgiques, psychotropes, automédication
-- Carnet vaccinal
-- Dépistage IST/VIH
-- Suivi dentaire annuel, brossage biquotidien, M'T Dents jusqu'à 24 ans
-- AEG
-- 60-70: Surdité ({{< modal-btn modal-voix >}}test de la voix chuchotée{{< /modal-btn >}}), baisse de la vision ({{< modal-btn modal-monoyer >}}Monoyer{{< /modal-btn >}}) et [Amsler](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/grille_damsler.pdf)
-- 60-70: Problèmes de mémoire, orientation, autonomie (TODO: ICOPE p.17)
+- Anorexie, [amaigrissement]({{< relref "denutrition.md" >}})
 
-### Prévention et repérage des maladies chroniques
+### Prévention et repérage des maladies chroniques {.typography-headline-6}
 
 - Infections urinaires fréquentes
+- Incontinence urinaire d'effort ([de la femme]({{< relref "incontinence-urinaire-femme.md" >}}))
+- Poids, taille et IMC
 - [Mesure de la pression artérielle]({{< relref "hypertension-arterielle.md" >}}) (avec [tensiomètre validé]({{< relref "tensiometres-electroniques-valides.md" >}}))
+- Surdité: ({{< modal-btn modal-voix >}}test de la voix chuchotée{{< /modal-btn >}})
+- Baisse de la vision: {{< modal-btn modal-monoyer >}}Monoyer{{< /modal-btn >}}
 - Dernières valeurs du bilan lipidique
 - Facteurs de risque de maladie rénale chronique
-- Céphalées répétées
+- Céphalées répétées ([migraine]({{< relref "migraine.md" >}}))
 
----
+### Spécificités pour l'âge {.typography-headline-6}
 
-- Femme: dépistage du cancer du col de l'utérus
-- Femme: dépistage du cancer du sein
-- 18: Femmes: ménorragies, dysménorrhées
-- 18-20: troubles anxieux et dépressifs {{< modal-btn modal-adrs >}}questionnaire ADRS{{< /modal-btn >}}
-- Adulte: {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+<div aria-labelledby="tab-18" class="tab-pane fade show active" id="div-18" role="tabpanel">
 
-### 18 - 25 ans
+- Troubles anxieux et [dépressifs]({{< relref "depression.md" >}}): ({{< modal-btn modal-adrs >}}questionnaire ADRS{{< /modal-btn >}} jusqu'à 20 ans)
+- Troubles du comportement alimentaire
+- Femme: [ménorragies]({{< relref "menorragies.md" >}}), [dysménorrhées]({{< relref "endometriose.md" >}})
 
-- 
+</div>
+<div aria-labelledby="tab-45" class="tab-pane fade" id="div-45" role="tabpanel">
 
+- Dépistage du [cancer colorectal]({{< relref "cancer-colorectal.md" >}}) (à partir de 50 ans)
+- BPCO: {{< modal-btn modal-depistage-bpco >}}dépistage des symptômes{{< /modal-btn >}}, spirométrie
+- {{< modal-btn modal-saos >}}Signes d'apnées du sommeil{{< /modal-btn >}}
+- Troubles anxieux et [dépressifs]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Femme
+  - [Ménorragies]({{< relref "menorragies.md" >}}), [dysménorrhées]({{< relref "endometriose.md" >}})
+  - [Dépistages du cancer du sein]({{< relref "cancer-sein.md" >}}) (à partir de 50 ans) et du [cancer du col de l'utérus]({{< relref "cancer-col-uterus.md" >}})
+  - Symptômes de [ménopause]({{< relref "menopause.md" >}})
+
+</div>
+<div aria-labelledby="tab-60" class="tab-pane fade" id="div-60" role="tabpanel">
+
+- [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}}): [grille d'Amsler](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/grille_damsler.pdf)
+- Problèmes de mémoire, orientation
+- Autonomie
+- Chutes
+- Dépistage du [cancer colorectal]({{< relref "cancer-colorectal.md" >}})
+- BPCO: {{< modal-btn modal-depistage-bpco >}}dépistage des symptômes{{< /modal-btn >}}, spirométrie
+- {{< modal-btn modal-saos >}}Signes d'apnées du sommeil{{< /modal-btn >}}
+- Femme
+  - [Dépistage du cancer du sein]({{< relref "cancer-sein.md" >}}) et du [cancer du col de l'utérus]({{< relref "cancer-col-uterus.md" >}})
+  - Symptômes de [ménopause]({{< relref "menopause.md" >}})
+- [Ostéoporose]({{< relref "osteoporose.md" >}}): {{< modal-btn modal-apports-calcium >}}apports en calcium{{< /modal-btn >}}, ostéodensitométrie en cas de {{< modal-btn modal-dxa-remboursement >}}facteur de risque{{< /modal-btn >}} (ou à 60 ans chez les femmes pour le *GRIO*)
+- Troubles anxieux et dépressifs: {{< modal-btn modal-gds15 >}}questionnaire GDS-15{{< /modal-btn >}}
+
+</div>
+<div aria-labelledby="tab-70" class="tab-pane fade" id="div-70" role="tabpanel">
+
+- [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}}): [grille d'Amsler](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/grille_damsler.pdf)
+- Problèmes de mémoire, orientation
+- Autonomie
+- Chutes
+- Dépistage du [cancer colorectal]({{< relref "cancer-colorectal.md" >}})
+- BPCO: {{< modal-btn modal-depistage-bpco >}}dépistage des symptômes{{< /modal-btn >}}, spirométrie
+- {{< modal-btn modal-saos >}}Signes d'apnées du sommeil{{< /modal-btn >}}
+- Femme
+  - [Dépistage du cancer du sein]({{< relref "cancer-sein.md" >}})
+  - Symptômes de [ménopause]({{< relref "menopause.md" >}})
+- [Ostéoporose]({{< relref "osteoporose.md" >}}): {{< modal-btn modal-apports-calcium >}}apports en calcium{{< /modal-btn >}}, ostéodensitométrie en cas de {{< modal-btn modal-dxa-remboursement >}}facteur de risque{{< /modal-btn >}}
+- Troubles anxieux et dépressifs: {{< modal-btn modal-gds15 >}}questionnaire GDS-15{{< /modal-btn >}}
+
+</div>
+
+*Bilan de prévention proposé pour les âges concernés.*
+{.text-black-secondary}
+
+</div>
+</div>
+
+{{% /collapse %}}
 {{%collapse "Définition" %}}
 
 *Mon Bilan Prévention*
-: Consultation de prévention prise en charge à 100% par l'Assurance maladie entre 18 et 25 ans, entre 45 et 50 ans, entre 60 et 65 ans et entre 70 et 75 ans.
-
-### Abréviations
-
-TODO:
-
-{.dl-inline}
+: Consultation de prévention prise en charge à 100% par l'Assurance maladie entre 18 et 25 ans, 45 et 50 ans, 60 et 65 ans et 70 et 75 ans.
 
 {{% /collapse %}}
 {{%collapse "Bilan de prévention: qui est concerné ?" %}}
@@ -112,8 +177,7 @@ Modèles de PPP pour les [18-25](https://www.ameli.fr/content/plan-personnalise-
 
 Le bilan de prévention se cote **RDV** (30€) en tiers payant AMO une seule fois par tranche d'âge concernée. Il **peut être couplé au G(S)** en cas de délivrance d'ordonnances consécutives à ce bilan (médicaments, activité physique adaptée, rattrapage de dépistages) ou au frottis cervico-vaginal ou à l'électrocardiogramme.
 
-Un médecin peut apparaître dans l'annuaire de *Sante.fr* s'il souhaite réaliser des bilans de prévention chez des personnes hors patientèle: aller sur **[sante.fr](https://www.sante.fr/professionnel/connexion)** > **Connexion** > **Bilan prévention**.  
-Il transmet alors le Bilan de Prévention au médecin traitant par *MSSanté* ou le *DMP*.
+Un médecin peut apparaître dans l'annuaire de *Sante.fr* s'il souhaite réaliser des bilans de prévention chez des personnes hors patientèle: aller sur **[sante.fr](https://www.sante.fr/professionnel/connexion)** > **Connexion** > **Bilan prévention**. Il transmet alors le Bilan de Prévention au médecin traitant par *MSSanté* ou le *DMP*.
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -160,5 +224,30 @@ Il transmet alors le Bilan de Prévention au médecin traitant par *MSSanté* ou
 {{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
 
 {{< scores/phq4 >}}
+
+{{% /modal %}}
+{{% modal title="Échelle de dépression gériatrique" id="modal-gds15"%}}
+
+{{< scores/gds15 >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
+
+{{< scores/stop-bang >}}
+
+{{% /modal %}}
+{{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}
+
+{{< clinique/depistage-bpco-gold >}}
+
+{{% /modal %}}
+{{% modal title="Évaluation des apports en calcium" id="modal-apports-calcium"%}}
+
+{{< scores/questionnaire-grio >}}
+
+{{% /modal %}}
+{{% modal title="Critères de remboursement de l'ostéodensitométrie" id="modal-dxa-remboursement"%}}
+
+{{< clinique/osteoporose-dxa-remboursement >}}
 
 {{% /modal %}}

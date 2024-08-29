@@ -225,7 +225,7 @@ Réévaluation du traitement à chaque consultation:
 - Activité physique adaptée (APA) régulière  
   - Programme d'APA; min 150 min/sem endurance, renforcement musculaire 2-3/sem avec 10-15 répétitions
   - Sédentarité < 7h/j, bouger 1 minute/h
-  - [Guide patient HAS](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_maladie_coronaire.pdf) (PDF)
+  - [Guide patient HAS SCC](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_maladie_coronaire.pdf) (PDF)
 - Si diabète de type 2: {{< modal-btn modal-hba1c >}}HbA1c cible ~ 7%{{< /modal-btn >}}, suivi diabétologique, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} ou {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}} selon le profil
 
 ### Mesures de prise en charge du syndrome coronarien chronique

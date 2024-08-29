@@ -287,7 +287,7 @@ Prise en charge de l'artériopathie (AOMI): Suivi cardiologique spécialisé, tr
   - Apports sodés < 5 g/j
 - Mesures hygiéno-diététiques
   - **[Arrêt du tabac]({{< relref "arret-tabac.md" >}})**
-  - Activité physique quotidienne: auto-exercices et podomètre ([guide patient HAS](https://www.has-sante.fr/jcms/p_3476970/fr/l-activite-physique-pour-votre-sante-arteriopathie-chronique-obliterante-atheromateuse-des-membres-inferieurs-aomi))
+  - Activité physique quotidienne: auto-exercices et podomètre ([guide patient HAS APA](https://www.has-sante.fr/jcms/p_3476970/fr/l-activite-physique-pour-votre-sante-arteriopathie-chronique-obliterante-atheromateuse-des-membres-inferieurs-aomi))
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Correction d'un surpoids  
     Évaluations diététiques répétées, lutte contre la {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
