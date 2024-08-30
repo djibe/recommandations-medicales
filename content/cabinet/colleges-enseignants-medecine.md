@@ -5,7 +5,7 @@ description = "Liens vers les collèges des enseignants de médecine de deuxièm
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-14T16:20:00+02:00"
 publishdate = "2023-01-16"
-lastmod = "2024-03-1"
+lastmod = "2024-08-30"
 annees = "2024"
 sources = ["Colleges"]
 tags = []
@@ -33,7 +33,6 @@ Le tableau ci-dessous liste tous les référentiels des Collèges de médecine d
 | Endocrinologie | CEEDMM <br><span class="typography-caption">Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques</span> | 2021 | [lien](https://www.sfendocrino.org/polycopie-des-enseignants-5eme-edition-2021/) |
 | Gastro-entérologie | CDU-HGE <br><span class="typography-caption">Collège Des Universitaires d'Hépato-GastroEntérologie</span> | 2022 | [lien](https://www.snfge.org/sites/default/files/SNFGE/Formation/dsn_cdu-hge_2022-decembre.pdf) |
 | Gériatrie | CNEG <br><span class="typography-caption">Collège National des Enseignants en Gériatrie</span> | 2014 | [lien](https://www.seformeralageriatrie.org/livregeriatriecneg) |
-| Gynécologie | CNGOF <br><span class="typography-caption">Collège national des gynécologues et obstétriciens français</span> | 2015 | [lien](http://www.cngof.net/E-book/GO-2016/) |
 | Infectiologie | CMIT <br><span class="typography-caption">Collège des universitaires de Maladies Infectieuses et Tropicales</span> | 2023 | [Pilly](https://www.infectiologie.com/fr/pilly-etudiant-2023-disponible-a-la-vente-et-en-ligne.html) |
 | Médecine physique | COFEMER <br><span class="typography-caption">Collège Français des Enseignants universitaires de Médecine physique et de Réadaptation</span> | 2018 | [lien](https://www.cofemer.fr/cofemer/gestionPagesWebStandard.do?dispatchMethod=affiche&pageId=55) |
 | Néphrologie | CUEN <br><span class="typography-caption">Collège Universitaire des Enseignants de Néphrologie</span> | 2023 | [lien](https://cuen.fr/manuel3/) |
@@ -56,6 +55,7 @@ Malheureusement, les livres des autres spécialités des Collèges d'enseignants
 
 Pour ne pas les citer:
 
+- Collège national des gynécologues et obstétriciens français (CNGOF)
 - Collège des Enseignants en Allergologie (CEA)
 - Collégiale de Bactériologie-Virologie-Hygiène (Azay)
 - Collège des Enseignants de Médecine Vasculaire (CEMV)
