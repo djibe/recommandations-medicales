@@ -33,7 +33,7 @@ flowchart = true
 - Définitions de récidive biologique après traitement (voir *Traitement*)
 - Après traitement, le suivi spécialisé est long (10 ans)
 
-Chapitre lié: [hypertrophie bénigne de la prostate]({{< relref "hypertrophie-benigne-prostate.md" >}})
+Chapitres liés: [document d'information éclairée INCa](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Le-depistage-du-cancer-de-la-prostate-S-informer-avant-de-decider), [hypertrophie bénigne de la prostate]({{< relref "hypertrophie-benigne-prostate.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -142,7 +142,7 @@ La plupart des hommes atteints par le cancer de la prostate sont asymptomatiques
   - Prostate suspecte: nodule dur, irrégulier, indolore voire blindage pelvien
   - Sensibilité et spécificité en soins primaires < 60%
 - Nutritionnel
-+75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...), cognitif [mini-COG (PDF)](https://mini-cog.com/wp-content/uploads/2022/03/Standardized-English-Mini-Cog-1-19-16-EN_v1-low-1.pdf)
++75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...), cognitif [mini-COG (PDF)](http://mini-cog.com/wp-content/uploads/2022/09/FRENCH-Standardized-Mini-Cog-1-19-16-FR_v1-hi-3.pdf)
 
 **NB.** Toute anomalie au toucher rectal doit conduire à une consultation d'urologie.
 

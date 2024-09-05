@@ -9,9 +9,9 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr P. DELOBEL (CMIT)"
 date = "2022-05-30T10:49:36+02:00"
 publishdate = "2022-05-30"
-lastmod = "2022-11-30"
+lastmod = "2024-09-05"
 specialites = ["infectiologie", "therapeutique"]
-annees = "2022"
+annees = "2024"
 sources = ["HAS", "CNS", "ANSM"]
 tags = ["HSH", "IST", "prevention", "VIH"]
 english = ["Treatment as Prevention (TasP)"]
@@ -20,15 +20,15 @@ icd10 = []
 atc = "J05AR03"
 flowchart = true
 image = true
-imageSrc = "Illustration de la Prophylaxie pré-exposition (PrEP) par pikisuperstar / Freepik"
+imageSrc = "Illustration de la Prophylaxie pré-exposition (PrEP). pikisuperstar / Freepik"
 todo = "gitgraph: Continu femme, Schéma continu homme, Schéma discontinu homme; https://mermaid.js.org/syntax/timeline.html"
 +++
 
 {{%article-summary%}}
 
 - Toutes les personnes exposées au VIH sont éligibles à la prophylaxie pré-exposition (PrEP) du VIH et doivent en être informées
-- La PrEP est gratuite et prescriptible par tout médecin, elle protège du [VIH]({{< relref "vih-sida.md" >}}) mais pas des autres [infections sexuellement transmissibles](/tags/ist/), encourager le préservatif
-- Vérifier les contre-indications et réaliser le bilan pré-thérapeutique (voir chapitres dédiés)  
+- La PrEP est gratuite, bien tolérée et prescriptible par tout médecin. Elle protège du [VIH]({{< relref "vih-sida.md" >}}) mais pas des autres [infections sexuellement transmissibles](/tags/ist/): encourager le préservatif
+- Vérifier les rares contre-indications et réaliser le bilan pré-thérapeutique (voir chapitres dédiés)  
   [Check-list ANSM pour le prescripteur (PDF)](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-checklist-pds-version3-2021-juin.pdf)
 - Prescription initiale de l'emtricitabine/tenofovir disoproxil 200/245 mg (Truvada®, certains gén) limitée à 1 mois avec sérologie VIH récente (< 7 jours)  
   Puis prescription trimestrielle.
@@ -64,6 +64,9 @@ PrEP
 
 PVVIH
 : personne vivant avec le VIH
+
+TDF/FTC
+: ténofovir disoproxil fumarate/emtricitabine
 
 TDS
 : travailleur du sexe
@@ -152,8 +155,7 @@ Bilan avant l'instauration de la PrEP, en l'absence de suspicion de primo-infect
 Ne pas prescrire la PrEP en suspicion de primo-infection VIH.
 {.alert .alert-warning}
 
-Prescription initiale possible avec **sérologie VIH < 7 jours (et créatininémie)** pour une durée initiale d'un mois.  
-[Check-list ANSM (PDF) pour le médecin prescripteur](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-checklist-pds-version3-2021-juin.pdf).  
+La PrEP est très bien tolérée. La prescription initiale est possible avec une **sérologie VIH de moins de 7 jours (et créatinine)** pour une durée initiale d'un mois [check-list ANSM (PDF) pour le médecin prescripteur](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-checklist-pds-version3-2021-juin.pdf).  
 Puis **renouvellement tous les 3 mois**.
 
 ### Ordonnance initiale de PrEP
@@ -316,6 +318,7 @@ gitGraph
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, ANRS, CNS. Traitement préventif pré-exposition de l'infection par le VIH. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3536524/fr/traitement-preventif-pre-exposition-de-l-infection-par-le-vih)
 - [Chou R et al. Preexposure Prophylaxis for the Prevention of HIV: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2023.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prevention-of-human-immunodeficiency-virus-hiv-infection-pre-exposure-prophylaxis)
 - Ameli Médecin. Forte augmentation de la prescription de la PrEP en ville par des médecins généralistes. 29/11/2022.
 - [Velter A et al. Évolution du niveau de protection contre le VIH parmi les hommes ayant des rapports sexuels avec des hommes séronégatifs pour le VIH – Résultats de l'enquête Rapport au sexe 2017-2019-2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_1.html)
@@ -325,9 +328,5 @@ gitGraph
 - [CNS. Avis sur la place de la PrEP dans la prévention du VIH en France : changer de paradigme, changer d'échelle. 15/04/2021. (PDF)](https://cns.sante.fr/wp-content/uploads/2021/05/2021-04-15_avis_fr_prevention.pdf)
 - [Janier M et al. 2020 European guideline on the management of syphilis. J Eur Acad Dermatol Venereol. 2021.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16946)
 - [AIDES. La PrEP](https://www.aides.org/prep)
-
-### Bibliographie en attente
-
-[HAS, ANRS, CNS. Traitement préventif pré-exposition de l'infection par le VIH. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3536524/fr/traitement-preventif-pre-exposition-de-l-infection-par-le-vih)
 
 {{%/sources%}}

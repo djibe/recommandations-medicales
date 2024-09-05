@@ -505,7 +505,7 @@ Classes thérapeutiques d'antidépresseurs: {{< modal-btn modal-isrs >}}ISRS{{< 
 - Informer le patient et l'entourage sur la désinhibition et la nécessité de consulter rapidement en cas de modification de l'humeur
 - Pendant la grossesse, la plupart des traitements de référence sont possibles si un traitement est nécessaire  
   << l'utilisation d'antidépresseurs pendant la grossesse n'augmente pas le risque de troubles du développement neurologique chez l'enfant >> (*Suarez et al 2022*).
-- Délai d'action plus long chez le sujet âgé (maintenir min 1 an après rémission)
+- Délai d'action plus long chez le sujet âgé (maintenir minimum 1 an après rémission)
 - Thérapies autres: acupuncture (*ACP*)
 - Si anxiété, agitation, insomnies invalidantes: [benzodiazépine]({{< relref "benzodiazepines.md" >}}) pendant 2 semaines
 - Arrêt progressif de l'antidépresseur (> 1 mois – *BAP*, *NICE*) après décision partagée au-delà de 6-12 mois de rémission  

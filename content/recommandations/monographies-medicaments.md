@@ -28,7 +28,7 @@ Consulter la monographie (indications, posologies, contre-indications ...) de to
 > Le moteur de recherche sera unifié avec celui des pathologies.
 
 <div class="textfield-box form-ripple-nolabel form-ripple-bottom" style="position: sticky; top: 80px; backdrop-filter: blur(10px); z-index: 160">
-  <input type="search" class="form-control form-group" id="search-input" placeholder="Rechercher un code médicament ...">
+  <input type="search" class="form-control form-group" id="search-input-med" placeholder="Rechercher un code médicament ...">
 </div>
 <div id="spinner">Chargement...</div>
 <p><span id="result-count"></span> Médicaments</p>
@@ -45,7 +45,7 @@ try {
 const response = await fetch('/data/bdpm-search.json');
 const data = await response.json();
 const medicationList = document.getElementById('medication-list');
-const searchInput = document.getElementById('search-input');
+const searchInput = document.getElementById('search-input-med');
 const resultCount = document.getElementById('result-count');
 const noResults = document.getElementById('no-results');
 

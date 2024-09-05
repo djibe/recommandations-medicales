@@ -325,6 +325,8 @@ window.addEventListener('load', () => {
 - Si obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme ou bas socio-éco: (NT-pro)BNP
 {{%/info%}}
 
+Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contrôlé).
+
 ### Les complications du diabète à dépister
 
 {{< table title="Rythme de dépistage des complications du diabète. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
@@ -349,7 +351,7 @@ window.addEventListener('load', () => {
 | [Épreuve d'effort]({{< relref "epreuve-effort.md" >}}) | [Angor]({{< relref "syndrome-coronarien-chronique.md" >}}), dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans). Reprise effort intense | HAS 2024, ESC 2023, ADA 2023, SFD 2021 CAD |
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
 | [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) | Tout âge: dépistage opportuniste par pouls/ECG. +75 ans: ECG systématique à considérer | ESC 2023 diabetes |
-| [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) | Dépistage avec brassard adapté tous les 1 à 3 ans | ESH 2023     |
+| [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) | Dépistage avec brassard adapté tous les 1 à 3 ans | ESH 2023      |
 | [Incontinence urinaire]({{< relref "incontinence-urinaire-femme.md" >}}) | Dépistage à l'interrogatoire         | Anaes 2003               |
 | [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | Dépistage systématique des symptômes et signes et (NT-pro)BNP si suspicion<br>(NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ESC 2023 diabetes<br>ADA 2022 |
 | [Stéatopathie métabolique]({{< relref "steatose-hepatique-et-nash.md" >}}) | Dépistage par échographie abdominale | AFEF 2020              |
