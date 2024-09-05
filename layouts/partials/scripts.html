@@ -9,7 +9,7 @@
 
 {{- with .Params.chart }}
 <script type="module" crossorigin>
-import ApexCharts from 'https://cdn.jsdelivr.net/npm/apexcharts@3.52/+esm'
+import ApexCharts from 'https://cdn.jsdelivr.net/npm/apexcharts@3.53/+esm'
 document.addEventListener( 'DOMContentLoaded', event => {
   Apex = {
     colors: ['#4150f5', '#ffa600', '#af34dc', '#e800ba', '#ff0094', '#ff2b6e', '#ff5c4b', '#ff8329'],
@@ -180,13 +180,11 @@ document.addEventListener( 'DOMContentLoaded', event => {
   }
 </script>
 {{- end -}}
-
 <script crossorigin>
   document.addEventListener( 'DOMContentLoaded', event => {
     // Register Orama search
     {{ $searchModule := resources.Get "/js/orama.mjs" | minify | fingerprint "sha384" }}
     document.getElementById('btn-search-modal').addEventListener('click', () => import('{{ $searchModule.Permalink }}'))
-
     // Newsletter: Mailchimp
     const btnNewsletter = document.getElementById('btn-newsletter');
     btnNewsletter.addEventListener( 'click', () => {
