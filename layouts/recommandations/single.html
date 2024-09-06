@@ -12,6 +12,7 @@
 {{ else }}
   {{ $imageUrl = "/images/icons/placeholder.svg" }}
 {{ end }}
+{{ $imageRsc := resources.Get $imageUrl }}
 
 <script type="application/ld+json">
   {
@@ -34,15 +35,18 @@
   <div class="row min-vh-100">
     <aside class="col-lg-3 col-xl-2 order-3 order-lg-1 d-flex flex-column px-0 mb-4 d-print-none" id="recommandation-aside" style="align-self:start">
       <figure class="figure">
-        <a href="{{ $imageUrl }}" target="_blank"><!--Min 1200px en 16x9, 4x3 et 1x1; BMP, GIF, JPEG, PNG, WebP et SVG; https://developers.google.com/search/docs/data-types/article#structured-data-type-definitions; fb jpg/gif/png-->
+        {{ with $imageRsc }}
+        <a href="{{ .RelPermalink }}" target="_blank"><!--Min 1200px en 16x9, 4x3 et 1x1; BMP, GIF, JPEG, PNG, WebP et SVG; https://developers.google.com/search/docs/data-types/article#structured-data-type-definitions; fb jpg/gif/png-->
           <img class="figure-img img-fluid img-reco"
-            src="{{ $imageUrl }}"
+            src="{{ .RelPermalink }}"
+            {{ if not (eq .MediaType.SubType "svg") }}width="{{ .Width }}" height="{{ .Height }}"{{ end }}
             loading="eager"
             decoding="async"
             importance="high"
             fetchpriority="high"
-            alt="{{ if .Params.Image }}{{ .Params.ImageSrc }}{{ else }}Illustration de {{ .Title }}{{ end }}">
+            alt="{{ if .Params.Image }}{{ .Params.ImageSrc }}{{ else }}Illustration de {{ $.Title }}{{ end }}">
         </a>
+        {{ end }}
           {{ with .Params.ImageSrc }}
             <figcaption class="figure-caption px-2">{{ . | markdownify }}</figcaption>
           {{ end }}
