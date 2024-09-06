@@ -1,3 +1,17 @@
+{{- if hugo.IsDevelopment -}}
+<script type="module">
+  // https://github.com/GoogleChrome/web-vitals#inp-attribution
+  import {
+    onCLS,
+    onINP,
+    onLCP,
+  } from 'https://unpkg.com/web-vitals@4/dist/web-vitals.attribution.js?module';
+  onCLS(console.log, {reportAllChanges: true});
+  onINP(console.log);
+  onLCP(console.log);
+</script>
+{{ end }}
+
 {{- with .Params.datatable }}
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin></script>
 {{ else }}

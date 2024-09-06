@@ -6,6 +6,7 @@
   --bg-secondary-hex: #fef3de;
   --article: #af34dc;
   --bg-article-hex: #f7eafb;
+  --bg-cabinet-hex: #fff4df;
   --background: #fff;
   --surface: #fff;
   --surface-1: #fffbff;
@@ -224,6 +225,17 @@ mark {
   }
 }
 
+.figure-img-nav {
+  aspect-ratio: 16/9;
+  background-color: var(--bg-cabinet-hex);
+  border-radius: 12px;
+  margin: 0;
+
+  > .card-img-nav {
+    mix-blend-mode: multiply;
+  }
+}
+
 #modal-search {
   .modal-content {
     border-radius: 28px;
@@ -420,7 +432,7 @@ a[data-toggle="modal"]:not(.no-icon)::after {
 .list-page,
 .projet {
   .card-img-top {
-    background-color:#FFF4DF;
+    background-color:var(--bg-cabinet-hex);
     background-blend-mode: multiply;
     position: relative;
     background-repeat: no-repeat;
@@ -891,7 +903,7 @@ article {
 
 .cabinet-bg {
   background-size: cover !important;
-  background-color: #b8af9f;// #FFF4DF;
+  background-color: #b8af9f;
   background-blend-mode: lighten;
   border-radius: 64px;
   display: flex;
@@ -1028,7 +1040,7 @@ blockquote {
   position: relative;
 
   &:hover {
-    background-color: #FFF4DF;
+    background-color: var(--bg-cabinet-hex);
     box-shadow: 0px 5px 5px -3px rgba(0,0,0,.1),0px 8px 8px 1px rgba(0,0,0,.07),0px 3px 8px 2px rgba(0,0,0,.08),0px 0px 0px 2px #ffa600;
     transition: transform 200ms linear,box-shadow 200ms linear,background 400ms ease,border-color 400ms ease;
   }
