@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2024-04-26"
+lastmod = "2024-09-06"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2024"
 sources = ["MinSanté", "HAS", "HCSP"]
@@ -25,11 +25,12 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le virus de la variole du singe est un Poliovirus = [maladie à déclaration obligatoire avec Cerfa spécifique](https://www.formulaires.service-public.fr/gf/cerfa_12218.do) à déclarer au plus vite à l'ARS une fois confirmé
+- Le virus du Mpox ou variole du singe est un Poliovirus et donc une [maladie à déclaration obligatoire](https://www.formulaires.service-public.fr/gf/cerfa_12218.do) avec Cerfa spécifique à déclarer au plus vite à l'ARS une fois confirmé
 - Suspicion de Monkeypox:
-  - Suspicion: appel d'un {{< references/cegidd >}} ou du 15 pour avis infectiologique urgent
-  - Certitude: isolement strict avec prévention des surinfections des lésions, déclaration obligatoire et remise de [la conduite à tenir (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/flyer_cas_confirmes_mkp_120822_vdef.pdf)
-- Vaccination des personnes à risque de Monkeypox: [où se faire vacciner contre Monkeypox ?](https://www.sante.fr/monkeypox) ou [vaccination MKPX en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients) sur auto-déclaration du statut de personne cible (voir *Prévention*)
+  - Mesures barrières
+  - En l'absence de contact à risque ou si le clade (I ou II) du cas primaire n'est pas connu: RT-PCR MPXV en urgence sur 1 ou 2 lésions muqueuses
+- Diagnostic de Mpox: isolement strict avec prévention des surinfections des lésions, déclaration obligatoire et remise de [la conduite à tenir (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/flyer_cas_confirmes_mkp_120822_vdef.pdf)
+- Vaccination des personnes à risque de Monkeypox: [où se faire vacciner contre Monkeypox ?](https://www.sante.fr/mpox) ou [vaccination MKPX en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients) sur auto-déclaration du statut de personne cible (voir *Prévention*)
 - Site d'information [Sexosafe](https://www.sexosafe.fr/Variole-du-singe) pour les HSH et [Flyer d'info Variole du singe](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-transmissibles-de-l-animal-a-l-homme/monkeypox/documents/depliant-flyer/variole-du-singe-monkeypox-flyer-a5) (*SPF*)
 - Monkeypox Info Service Grand public: {{<phone>}}0 801 90 80 69{{</phone>}} (8-23h)
 
@@ -41,25 +42,30 @@ Chapitre lié: [hommes ayant des rapports avec des hommes]({{< relref "hsh.md" >
 L'infection par le virus de la variole du singe n'est pas connue comme une [IST](/tags/ist/), mais le contact direct avec une peau lésée durant un rapport sexuel facilite la transmission (*SPF*)
 {.alert .alert-info}
 
-Monkeypox ou variole du singe
-: Maladie infectieuse liée virus Monkeypox (MPXV, orthopoxvirus). Contamination directe par muqueuse ou peau lésée ou gouttelettes. Contamination également possible par literie, vêtements, vaisselle, linge de bain ...  
+Mpox (Monkeypox ou variole du singe)
+: Maladie infectieuse liée virus Mpox (MPXV, orthopoxvirus). Contamination directe par muqueuse ou peau lésée ou gouttelettes. Contamination également possible par literie, vêtements, vaisselle, linge de bain ...  
 Les zones d'endémie sont les zones forestières d'Afrique du Centre et de l'Ouest avec contamination par des rongeurs sauvages ou des primates (zoonose) puis dans le foyer familial.
 : Complications de la variole du singe: surinfection cutanées bactériennes, infections respiratoires basses, sepsis, encéphalite, kératites, ou gastro-intestinales avec pertes liquidiennes (*HCSP mai 2022*).
 : 5002 cas confirmés en France au 27 avril 2023, à 96% des [HSH]({{< relref "hsh.md" >}}) sans aucun décès en France.
 
-Cas suspect de Monkeypox
-: Éruption cutanée ou ulcération(s) de la muqueuse génitale, anale ou buccale, évocatrice de MKP - isolée, ou précédée ou accompagnée d'une fièvre ressentie ou mesurée (> 38°C), d'adénopathies ou d'une odynophagie. Test biologique.
+Cas suspect de Mpox
+: Signes cliniques uniquement: éruption cutanée ou ulcération(s) de la muqueuse génitale, anale ou buccale, évocatrice de Mpox, isolée ou précédée ou accompagnée d'une fièvre mesurée (> 38°C) ou sensation de fièvre, d'adénopathies ou d'une odynophagie. Bilan par test qPCR ou RT-PCR et déclaration obligatoire si positif.
 
-Cas probable de Monkeypox
-: Signes cliniques évocateurs de Monkeypox et contact à risque avec un cas confirmé. Pas de test biologique, déclaration obligatoire.
+Cas probable de Mpox
+: Signes cliniques évocateurs de Monkeypox et **contact à risque** avec un cas confirmé. Pas de test biologique si le cas primaire est connu, déclaration obligatoire.
 
-Cas confirmé de Monkeypox
+Cas confirmé de Mpox
 : Diagnostic biologique positif par qPCR ou RT-PCR d'Orthopoxvirus positif ± séquençage partiel du virus MKP. Déclaration obligatoire.
 
 Personne-contact à risque
-: Contact direct non protégé sans notion de durée avec la peau lésée ou les fluides biologiques d'un cas probable ou confirmé symptomatique ou le contact avec des textiles (vêtements, linge de bain, literie) ou de la vaisselle sale utilisés par le cas probable ou confirmé symptomatique.
+: Contact direct non protégé sans notion de durée avec la peau lésée ou les fluides biologiques d'un cas probable ou confirmé symptomatique, notamment rapport sexuel (avec ou sans préservatif), actes de soins médical, paramédical ou de toilette
+: ou le contact avec des textiles (vêtements, linge de bain, literie) ou de la vaisselle sale utilisés par le cas probable ou confirmé symptomatique.
 
-> Définitions de *Santé Publique France*
+Personne-contact négligeable
+: Toute personne ayant eu un contact à risque tel que décrit ci-dessus en présence de mesures de protection efficaces portées par la personne-contact, à l'exception des rapports sexuels qui restent toujours à risque. Les mesures de protection efficaces vis-à-vis du contact physique sont notamment le port de gants étanches (latex, nitrile, caoutchouc)
+: Toute autre situation
+
+> – Définitions de *Santé Publique France 2024*
 
 ### Abréviations
 
@@ -74,13 +80,13 @@ PVVIH
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Personnes à risque de forme grave et signes de gravité du Monkeypox" %}}
+{{%collapse "Personnes à risque de forme grave et signes de gravité" %}}
 
 {{%warning%}}
 
 ### Personnes à risque de forme grave de Monkeypox
 
-Personnes à risque de forme grave de Monkeypox:
+Personnes à risque de forme grave de Mpox:
 
 - Immunodéprimés (dont [PVVIH]({{< relref "vih-sida.md" >}}))
 - Grossesse  
@@ -91,7 +97,7 @@ Personnes à risque de forme grave de Monkeypox:
 
 {{%/warning%}}
 
-### Signes de gravité du Monkeypox
+### Signes de gravité de Mpox
 
 Signes de gravité de la variole du singe:
 
@@ -114,15 +120,16 @@ Un cas suspect doit être confirmé par l'infectiologue référent de l'établis
 
 Examen clinique de tout patient suspect de variole du singe avec tous les moyens de protection (masque FFP2, gants, surblouse ...).
 
-La contagiosité commence dès l'apparition des premiers symptômes.  
-Délai médian au diagnostic de Monkeypox de 6 jours. L'incubation dure de 5 à 21 jours.  
-Guérison spontanée en 2 à 3 semaines (voire 4).
+- L'incubation dure de 5 à 21 jours
+- La contagiosité commence dès l'apparition des premiers symptômes
+- Délai médian au diagnostic de Monkeypox de 6 jours
+- Guérison spontanée en 2 à 3 semaines (voire 4)
 
-La variole du singe est plus grave chez l'enfant et les immunodéprimés.
+La variole du singe est plus grave chez l'enfant, les immunodéprimés et les femmes enceintes.
 
-### Interrogatoire et examen clinique d'un patient suspect de Monkeypox
+### Interrogatoire et examen clinique d'un patient suspect de Mpox
 
-Antécédents dont statut VIH +++ (et CD4+. Avis spécialisé)
+Antécédents dont statut VIH +++, retour de voyage d'un pays à risque (RDC, Rwanda, Burundi, Kenya, Ouganda) et notion d'exposition à un malade.
 
 Signes et symptômes de la variole du singe:
 
@@ -136,12 +143,11 @@ Signes et symptômes de la variole du singe:
     Muqueuses buccale ou génitale
 - Odynophagie
 - Diagnostic différentiel du Monkeypox: varicelle, syndrome pieds-mains-bouche, zona, rougeole, infections bactériennes cutanées, gale, syphilis, allergies
+- Si personne vivant avec le VIH: taux de CD4+ et avis spécialisé urgent
 
-> Statistiques *SPF*
+### Mpox et risque pour les enfants
 
-### Monkeypox et risque pour les enfants
-
-Appel du 15 pour l'avis d'un infectiologue en éruption douteuse.
+Appel du 15 pour avis infectiologique en cas d'éruption douteuse.
 
 > << Risque très faible d'avoir la maladie et de la transmettre, forte probabilité de diagnostic différentiel bénin devant une éruption vésiculeuse. Les pédiatres restent en même temps vigilants car de nombreuses inconnues persistent. >>. – *Infovac 20/07/2022*
 
@@ -150,68 +156,83 @@ Appel du 15 pour l'avis d'un infectiologue en éruption douteuse.
 
 Bilan des [infections sexuellement transmissibles (IST)](/tags/ist/) en cas de transmission sexuelle.
 
-### Ordonnance devant des lésions évocatrices de Monkeypox
+### Ordonnance devant des lésions évocatrices de Mpox
 
-PCR Monkeypox sur des lésions muqueuses voire cutanées ou oropharyngée.
+Au laboratoire ou en {{< references/cegidd >}}.
 
-Indications limitées à la PCR Monkeypox:
+qPCR ou RT-PCR Mpox ou Orthopoxvirus sur des lésions muqueuses voire cutanées ou oropharyngée.
+{.alert .alert-info}
+
+Indications limitées à la RT-PCR Monkeypox:
 
 - Signes cliniques évocateurs de Monkeypox sans exposition à risque (= cas suspect)
-- Signes cliniques évocateurs de Monkeypox et ≥ 1 exposition à risque (retour d'un pays d'endémie, partenaires sexuels multiples) avec des lésions atypiques
+- Signes cliniques évocateurs de Monkeypox et exposition à risque sans que le clade du patient primaire ne soit connu
 
-Pas de PCR en cas de signes cliniques évocateurs de Monkeypox et lien épidémiologique avec un cas confirmé (= cas probable) ou de signes cliniques évocateurs de Monkeypox et ≥ 1 exposition à risque (retour d'un pays d'endémie, partenaires sexuels multiples) avec des lésions typiques.
+**Isolement immédiat** dans l'attente des résultats sans nécessité d'informer les contacts à risque avant les résultats.
 
-Isolement immédiat dans l'attente des résultats.
+En cas de confirmation du diagnostic, le laboratoire doit transmettre le prélèvement pour la détermination du clade du virus.
+
+> **NB.** Si les symptômes ont plus de 3 semaines, la PCR peut être négative: avis infectiologique pour déterminer si une documentation est nécessaire
 
 {{% /collapse %}}
-{{%collapse "Prévention du Monkeypox" %}}
+{{%collapse "Prévention du Mpox" %}}
 
 ### Qui vacciner contre Monkeypox ?
 
-Toutes les personnes avec risque élevé d'exposition au virus de la variole du singe sont éligibles à la vaccination préventive:
+Toutes les personnes avec risque élevé d'exposition au virus de la variole du singe sont éligibles à la vaccination Mpox préventive:
 
-- [Hommes ayant des relations sexuelles avec des hommes (HSH)]({{< relref "hsh.md" >}}) différents
+- [Hommes ayant des relations sexuelles avec des hommes (HSH)]({{< relref "hsh.md" >}})
 - Personnes trans multi-partenaires
-- Prostitution
-- Femmes avec contact proches des personnes ci-dessus
+- Personnes en situation de prostitution
+- Professionnels des lieux de rencontre sexuelle
+- Les partenaires ou cohabitants des personnes ci-dessus
+- Voyageurs avec rapports sexuels à risque (*HCSP 2024*)
+- Selon le *HCSP 2024* (bientôt en ligne), voyageurs se rendant en zone à risque de Clade I:
+  - Professionnels de santé ou humanitaires
+  - Visite familiale
+  - Immunodéprimé
 
-> – *Calendrier vaccinal*
+> – *HAS 2024*
+{.update}
 
-### Comment vacciner contre Monkeypox ?
+### Comment vacciner contre Mpox ?
 
 Accès libre à la vaccination sur auto-déclaration de statut de personne cible (*sante.fr*).
 
-**Une seule dose** de vaccin Monkeypox en prévention (*DGS Urgent 2022-70*) sauf immunodépression (2 à 3 doses chez PVVIH) ou travailleur du sexe.  
-La 2<sup>e</sup> dose sera réalisée quand une large population aura été primo-vaccinée.
+Utilisation le plus souvent de 2 doses de vaccin Mpox sauf immunodépression (2 à 3 doses chez PVVIH) ou travailleur du sexe (tableau ci-dessous).
 
-[Liste des Centres de vaccination contre Monkeypox](https://www.sante.fr/monkeypox) ou [spécifiques de l'Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients).
+{{< figure image="/images/photos/vaccin-mpox.avif" title="Schéma de vaccin Mpox à effectuer en prévention primaire. HAS 2024" loading="lazy">}}
+
+[Liste des Centres de vaccination contre Monkeypox](https://www.sante.fr/mpox) ou [spécifiques d'Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients).
 
 {{% /collapse %}}
-{{%collapse "Traitement du Monkeypox" %}}
+{{%collapse "Traitement du Mpox" %}}
 
-Poliovirus = [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}). Le monkeypox nécessite un [cerfa spécifique de déclaration](https://www.formulaires.service-public.fr/gf/cerfa_12218.do). Contacter l'ARS au plus vite en cas de femme ou d'enfant.  
-Pas d'AINS (*SFD*)
+Tout poliovirus est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}). Le Mpox nécessite un [cerfa spécifique de déclaration](https://www.formulaires.service-public.fr/gf/cerfa_12218.do). Contacter l'ARS au plus vite en cas de femme ou d'enfant. Pas d'AINS (*SFD*).
 {.alert .alert-warning}
 
-Le traitement du Monkeypox est symptomatique avec la prévention des surinfections cutanéo-muqueuses.
+Le traitement du Mpox confirmé est symptomatique avec la prévention des surinfections cutanéo-muqueuses.
 
-Prise en charge recommandée en cas de variole du singe:
+Prise en charge du patient atteint de Mpox (cas probable ou confirmé):
 
-- Isolement 21 jours immédiat, y compris au sein du logement  
-  {{%class%}}Jusqu'à disparition des dernières croûtes.{{%/class%}}
+- Hospitalisation si cas grave
+- Avis spécialisé urgent si personne à risque de forme grave (grossesse, < 18 ans, immunodépression)
+- **Isolement immédiat**
+  - Y compris au sein du logement, sans contact physique
+  - Jusqu'à disparition des dernières croûtes
+  - Préservatif pendant 8 semaines à partir de la guérison complète
 - Prévenir la ré-inoculation: éviter le grattage des lésions, couvrir les lésions
-- Remettre la [fiche d'information patient Monkeypox (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/flyer_cas_confirmes_mkp_120822_vdef.pdf)
+- Remettre la [fiche d'information Mpox (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/flyer_cas_confirmes_mkp_120822_vdef.pdf)
 - Autres mesures: éloigner les animaux de compagnie
 - [Traitement des surinfections et lésions douloureuses (*SFD*)](https://www.sfdermato.org/upload/news/groupemonkeypeauxfinal-1.pdf)
-- Contact tracing  
-  avec auto-surveillance jusqu'à 3 semaines post-contact
+- Contact tracing avec auto-surveillance jusqu'à 3 semaines post-contact
 - Vaccination post-exposition des contacts
-  - [Où se faire vacciner contre Monkeypox ?](https://www.sante.fr/monkeypox)
+  - [Où se faire vacciner contre Mpox ?](https://www.sante.fr/mpox)
   - Dans les 4 à 14 jours après l'exposition à risque. Au cas par cas chez l'enfant
   - Vaccins Imvanex et Jynneos dont la protection n'est pas immédiate
   - 2 doses à J0-J28 (voire J35), les vaccins sont interchangeables
   - 1 seule dose si déjà vacciné contre la variole, 3 doses si immunodépression
-  - Pas de vaccination si antécédent de Monkeypox
+  - Pas de vaccination en cas d'antécédent de Mpox
 - Dépistage des [IST](/tags/ist/) si rapports à risque
 
 ### Antiviral tecovirimat
@@ -221,9 +242,10 @@ Antiviral disponible en gélules indiqué chez les personnes à **risque de form
 {{% /collapse %}}
 {{%collapse "Prise en charge de la variole du singe / Monkeypox" "show" %}}
 
-{{< mermaid title="Prise en charge du Monkeypox (variole du singe) par le médecin généraliste. Dr JB Fron d'après MinSanté 2023, HAS et HCSP 2022" >}}
+{{< mermaid title="Prise en charge du Monkeypox (variole du singe) par le médecin généraliste. Dr JB Fron d'après HAS et MinSanté 2024" >}}
 graph TB
-  suspicion["<b>Suspicion de variole du singe</b><br>Monkeypox ou mpox<br>—<br>- Éruption évocatrice<br>- Douleurs associées<br>- Prurit peu marqué"] -- "Masques et gants" --> clinique("<b>Clinique</b><br>—<br>Étayer un diagnostic différentiel:<br>- Varicelle<br>- Rougeole<br>- Variole<br>- Infection bactérienne<br>- Syphilis secondaire<br>- Dermatite bulleuse<br>- Gale<br>- Allergie") -- "Doute persistant<br>ou contact à risque" --> samu("Appel infectiologue immédiat<br>ou appel du 15")
+  suspicion["<b>Suspicion de variole du singe</b><br>Monkeypox ou mpox<br>—<br>- ± Zone d'endémie (RDC ++)<br>± Contact à risque<br>- Éruption évocatrice<br>- Douleurs associées<br>- Prurit peu marqué"] -- "Masques et gants" --> clinique("<b>Clinique</b><br>—<br>Étayer un diagnostic différentiel:<br>- Varicelle<br>- Rougeole<br>- Variole<br>- Infection bactérienne<br>- Syphilis secondaire<br>- Dermatite bulleuse<br>- Gale<br>- Allergie") -- "Doute persistant<br>ou contact à risque" --> test("- RT-PCR Mpox ou Orthopoxvirus<br>en urgence sauf contact avec<br>clade connu<br>- Sujet à risque de forme grave:<br>appel du 15") -- Isolement --> résultat(Résultat) -- Positif --> mesures(<b>Traitement</b><br>—<br>- Déclaration obligatoire<br>- Isolement jusqu'à cicatrisation<br>- Document d'information<br>- Vaccination des contacts<br>- Préservatif pendant 8 sem<br>après la guérison)
+    résultat -- Négatif --> autre
     clinique --> autre(Autre diagnostic)
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
@@ -231,8 +253,12 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [DGS-Urgent 2024_14. Mpox : Rappel des conduites à tenir et nouveaux avis de la HAS et du HCSP sur la vaccination. 04/09/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
+- [Ministère de la Santé. Fiche de synthèse sur la stratégie diagnostique de l'infection à Mpox à destination des professionnels de santé. 02/09/2024. (PDF)](https://sante.gouv.fr/IMG/pdf/fiche_de_synthese_diagnostic_mkp_-_02-09-24.pdf)
+- [HAS. Avis n° 2024.0058/AC/SESPE du 29 août 2024 du collège de la Haute Autorité de santé relatif à la stratégie de vaccination contre le mpox. 2024.](https://www.has-sante.fr/jcms/p_3538025/fr/avis-n-2024-0058/ac/sespev-du-29-aout-2024-du-college-de-la-haute-autorite-de-sante-relatif-a-la-strategie-de-vaccination-contre-le-mpox)
+- [Santé Publique France. Cas de Mpox en Europe, définitions et conduite à tenir. 28/08/2024. (PDF)](https://www.santepubliquefrance.fr/content/download/437302/file/def_cas_CAT_mpox_20042023.pdf)
 - {{< references/calendrier-vaccinal >}}
-- [Santé Publique France. Variole du singe (mpox) : point de situation en France au 27 avril. 03/05/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/variole-du-singe-mpox-point-de-situation-en-france-au-27-avril-2023)
+- [Santé Publique France. Variole du singe (mpox) : point de situation en France au 27 avril 2023. 03/05/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/variole-du-singe-mpox-point-de-situation-en-france-au-27-avril-2023)
 - [Santé publique France, Ministère de la Santé et de la Prévention. Cas de Mpox en Europe, définitions et conduite à tenir. 20/04/2023. (PDF)](https://www.santepubliquefrance.fr/content/download/437302/file/def_cas_CAT_mpox_20042023.pdf)
 - [ANSM. Monkeypox. 16/03/2023.](https://ansm.sante.fr/dossiers-thematiques/monkeypox)
 - [HAS. Monkeypox : la HAS complète ses recommandations sur la vaccination. 11/10/2022.](https://www.has-sante.fr/jcms/p_3376314/fr/monkeypox-la-has-complete-ses-recommandations-sur-la-vaccination)
@@ -247,7 +273,7 @@ graph TB
 - [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
 - [HCSP. Avis relatif relatif à la conduite à tenir pour les cas confirmés d'infection à Monkeypox virus (MPXV) à risque de forme grave et pour les personnes contacts à risque d'infection par MPXV. 09/06/2022.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=1216)
 - [HCSP. Avis relatif à la conduite à tenir autour d'un cas suspect, probable ou confirmé d'infection à Monkeypox virus. 24/05/2022.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=1216)
-- [Sante.fr. Monkeypox : ressources et supports de communication](https://www.sante.fr/monkeypox-ressources-et-supports-de-communication)
+- [Sante.fr. Monkeypox : ressources et supports de communication](https://www.sante.fr/mpox-ressources-et-supports-de-communication)
 - [Société Française de Dermatologie. Monkeypox Virus Manifestations dermatologiques.](https://www.sfdermato.org/upload/news/groupemonkeypeauxfinal-1.pdf)
 - [Institut Pasteur. Variole du singe (Monkeypox).](https://www.pasteur.fr/fr/centre-medical/fiches-maladies/variole-du-singe-monkeypox?utm_source=sendinblue&utm_campaign=Newsletter%20de%20lInstitut%20Pasteur%20-%20N%2054&utm_medium=email)
 

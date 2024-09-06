@@ -9,9 +9,9 @@ synonyms = ["Homosexuel ou bisexuel masculin"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-22T17:43:41+02:00"
 publishdate = "2020-07-22"
-lastmod = "2024-04-26"
+lastmod = "2024-09-06"
 specialites = ["infectiologie"]
-annees = "2020"
+annees = "2024"
 sources = ["HAS", "MinSanté"]
 tags = ["depistage", "HSH", "IST", "prevention", "vaccin", "VIH"]
 english = ["Men who have sex with men (MSM)"]
@@ -19,7 +19,7 @@ sctid = "76102007"
 icd10 = []
 image = true
 imageSrc = "Illustration de l'HSH par pch.vector / Freepik"
-todo = "texte SEO, sites patients, gono, https://www.eacsociety.org/files/2019_guidelines-10.0_final.pdf p. 24"
+todo = "texte SEO, sites patients, gono, https://www.eacsociety.org/files/2019_guidelines-10.0_final.pdf p24"
 flowchart = true
 +++
 
@@ -27,9 +27,10 @@ flowchart = true
 
 - Port du préservatif systématique
 - Renseigner sur la [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}})
-- Dépistage du [VIH]({{< relref "vih-sida.md" >}}) tous les 3 mois (*HAS 2017*)
-- Dépistage du *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* tous les 3-6 mois (*HAS 2018*)
-- Vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) (après sérologie), [hépatite B]({{< relref "hepatite-b.md" >}}), [monkeypox]({{< relref "mpox.md" >}}), [papillomavirus]({{< relref "cancer-col-uterus.md" >}}) (jusqu'à 26 ans)
+- Dépistages des IST
+  - [VIH]({{< relref "vih-sida.md" >}}) tous les 3 mois (*HAS 2017*)
+  - *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* tous les 3-6 mois (*HAS 2018*)
+- Vaccinations [hépatite A]({{< relref "hepatite-a.md" >}}) (après sérologie), [hépatite B]({{< relref "hepatite-b.md" >}}), [Mpox]({{< relref "mpox.md" >}}), [papillomavirus]({{< relref "cancer-col-uterus.md" >}}) (jusqu'à 26 ans)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -123,6 +124,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Avis n° 2024.0058/AC/SESPE du 29 août 2024 du collège de la Haute Autorité de santé relatif à la stratégie de vaccination contre le mpox. 2024.](https://www.has-sante.fr/jcms/p_3538025/fr/avis-n-2024-0058/ac/sespev-du-29-aout-2024-du-college-de-la-haute-autorite-de-sante-relatif-a-la-strategie-de-vaccination-contre-le-mpox)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
