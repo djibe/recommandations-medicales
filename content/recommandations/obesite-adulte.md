@@ -370,6 +370,7 @@ La prise en charge de l'obésité associe:
   - Écoute des sensations alimentaires: faim, satiété
   - Composante émotionnelle: psychothérapie TCC, pleine conscience
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
+- Vaccination: valence coqueluche à chaque rappel du dTPolio (*HCSP 2024*)
 - Conséquences
   - Estime de soi, confiance en soi, culpabilité, isolement, perte de motivation
   - Hypertension artérielle: privilégier IEC/ARA2 et anticalciques avant les bêtabloquants et thiazidiques

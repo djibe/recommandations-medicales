@@ -7,10 +7,10 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2024-07-24"
+lastmod = "2024-09-05"
 specialites = ["infectiologie", "ORL"]
 annees = "2024"
-sources = ["HAS", "SPILF", "GPIP", "HCSP"]
+sources = ["HCSP", "HAS", "SPILF", "GPIP"]
 tags = ["nourrisson", "toux"]
 english = ["Pertussis", "Whooping cough"]
 sctid = "27836007"
@@ -140,7 +140,7 @@ Pas d'examen complémentaire après 21 jours de symptômes (le diagnostic est cl
 **Bilan chez un cas contact:** PCR possible dans les 3 semaines suivant le dernier contact avec le cas-index (sauf asymptomatique avec *B. parapertussis*).
 
 {{% /collapse %}}
-{{%collapse "Indications à l'hospitalisation" %}}
+{{%collapse "Risque de forme grave et hospitalisation" %}}
 
 {{%warning%}}
 
@@ -151,6 +151,19 @@ Pas d'examen complémentaire après 21 jours de symptômes (le diagnostic est cl
   Apnées, bradycardies, limitation de l'alimentation.
 {{%/warning%}}
 
+### Personnes à risque de forme grave
+
+- **Haut risque de forme grave**
+  - Nourrissons < 6 mois
+  - Nourrissons 6-11 mois incomplètement vaccinés
+- Risque de forme grave
+  - +80 ans
+  - Maladie respiratoire chronique
+  - Immunodépression
+  - Obésité
+
+> – *HCSP 2024*
+
 {{% /collapse %}}
 {{%collapse "Prévention de la coqueluche par la vaccination" %}}
 
@@ -160,6 +173,7 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
   Vaccins hexavalents du nourrisson puis à 6 ans (Tetravac-acellulaire®).
 - À partir de 11-13 ans: doses réduites (ca)  
   BoostrixTetra®/Repevax® sauf si Tetravac-acellulaire® non fait à 6 ans.
+- Personnes à risque (+80 ans, maladie respiratoire, immunodépression, obésité): ajout de la coqueluche à chaque rappel du dTPolio (*HCSP 2024*)
 - Rattrapage à tout âge si:
   - 2<sup>e</sup> trimestre de la grossesse (20-36 SA), même si vaccinée avant la grossesse
   - ou en l'absence de vaccin maternel pour le "cocooning": jeunes parents et les grands-parents, fratrie, personnels de la petite enfance
@@ -184,9 +198,7 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 > **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse (si amené à s'occuper de l'enfant durant les 6 premiers mois) avant 25 ans si dernière dose a +5 ans, si rappel a +10 ans ensuite  
 **Professionnels de santé et de la petite enfance:** ajouter la coqueluche à chaque rappel du dTPolio (45 et 65 ans) + 1 dose si dernière dose réalisée avant 18 ans et date de +5 ans.
 
-La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
-
-La vaccination contre la coqueluche fait partie des 11 vaccins obligatoires pour les enfants nés à partir du 1er janvier 2018 (voir [vaccination]({{< relref "vaccination.md" >}})).
+La vaccination contre la coqueluche peut être réalisée par un pharmacien ou un infirmier sans ordonnance. Elle fait partie des 11 vaccins obligatoires pour les enfants nés à partir du 1er janvier 2018 (voir [vaccination]({{< relref "vaccination.md" >}})).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la coqueluche" %}}
@@ -199,9 +211,12 @@ Prise en charge de la coqueluche:
 - Mesures barrières  
   Lavage des mains, port de masque.
 - Proclive - fractionnement des repas - DRP
-- Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) non modifiée par l'épisode  
-  Il n'y a pas lieu d'administrer plus d'une dose de vaccin coquelucheux chez l'adulte (dernière dose à 25 ans, sauf professionnel de santé).
+- Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) non modifiée par l'épisode
 - Antibioprophylaxie des sujets contacts et examen des tousseurs (voir section suivante)
+- Personne à risque et leur entourage (voir *Risque de forme grave*):
+  - Diagnostic et traitement précoce
+  - Mesures barrières et masque à chaque épisode infectieux
+  - Antibioprophylaxie des contacts si eux-même à risque ou au contact de personnes à risque
 - Signalement au médecin inspecteur de l'ARS (CLIN si EHPAD) si:
   - Cas groupés (≥ 2 cas) familiaux ou en collectivité
   - Infection nosocomiale
@@ -267,6 +282,7 @@ graph TB
 Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune information), HCSP 2022 (suivre *HCSP 2014*), SPILF 2020 (durée 3 jours, pas de posologie, référence biblio 2018 qui mentionne azithromycine 500 mg J1 et 250 mg J2 à J5) et enfin HCSP 2014 (azithromycine 500 mg pendant 3 jours).
 {.alert .alert-info}
 
+- [HCSP. Prévention de la transmission de la coqueluche aux personnes à risque de forme grave. 30/07/2024.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1386)
 - [HAS. Stratégie de vaccination contre la coqueluche dans le contexte épidémique de 2024. Rappel vaccinal des professionnels au contact des personnes à risque de forme grave. 2024.](https://www.has-sante.fr/jcms/p_3531825/fr/recrudescence-de-la-coqueluche-la-has-renforce-les-recommandations-vaccinales-pour-proteger-les-nouveau-nes-et-les-nourrissons)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : coqueluche chez le nourrisson, l'enfant et l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3525542/fr/choix-et-durees-d-antibiotherapies-coqueluche-chez-le-nourrisson-l-enfant-et-l-adulte)
 - [Infovac France. Bulletin N°7 - FAQ Coqueluche. Juin 2024.](https://www.infovac.fr/actualites/bulletin-n-7-faq-coqueluche-juin-2024)

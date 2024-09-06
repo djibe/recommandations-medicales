@@ -138,6 +138,7 @@ graph TB
 
 ### Bibliographie en attente
 
-[Wanhainen A et al. Editor's Choice -- European Society for Vascular Surgery (ESVS) 2024 Clinical Practice Guidelines on the Management of Abdominal Aorto-Iliac Artery Aneurysms. Eur J Vasc Endovasc Surg. 2024.](https://www.ejves.com/article/S1078-5884(23)00889-4/fulltext)
+- [Mazzolai L, et al. 2024 ESC Guidelines for the management of peripheral arterial and aortic diseases. Eur Heart J. 2024.](https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae179)
+- [Wanhainen A et al. Editor's Choice -- European Society for Vascular Surgery (ESVS) 2024 Clinical Practice Guidelines on the Management of Abdominal Aorto-Iliac Artery Aneurysms. Eur J Vasc Endovasc Surg. 2024.](https://www.ejves.com/article/S1078-5884(23)00889-4/fulltext)
 
 {{%/sources%}}

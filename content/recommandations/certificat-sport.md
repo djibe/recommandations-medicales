@@ -156,7 +156,7 @@ L'inscription à une *compétition* nécessite la présente d'une license sporti
   Seuls les sports de type 1A sont autorisés (bowling, golf, pétanque).
 
 {{% /collapse %}}
-{{%collapse "Bilans chez les sportifs" %}}
+{{%collapse "Bilans chez les sportifs: ECG, test d'effort" %}}
 
 ### Indications à l'électrocardiogramme chez le sportif
 

@@ -176,8 +176,9 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Romano L, et al. Comparison of Current International Guidelines on Premature Ejaculation: 2024 Update. Diagnostics (Basel). 2024.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11353472/)
 - [Huyghe E, et al; AIUS. Recommandations pour le traitement de l'éjaculation prématurée. Progrès en urologie. 2023.](https://www.urofrance.org/recommandation/recommandations-pour-le-traitement-de-lejaculation-prematuree/)
-- <https://www.urofrance.org/sites/default/files/fileadmin/documents/data/PF/2020/6420/74883/FR/1355168/main.pdf>
+- [Camicelli D, Faix A. Éjaculation prématurée : stratégie thérapeutique pour l'utologue. Progrès en Urologie. 2020. (PDF)](https://www.urofrance.org/sites/default/files/fileadmin/documents/data/PF/2020/6420/74883/FR/1355168/main.pdf)
 
 {{%/sources%}}
 {{% modal title="Score PEP pour l'éjaculation prématurée" id="modal-pep"%}}
