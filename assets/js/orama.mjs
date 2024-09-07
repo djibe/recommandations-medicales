@@ -1,7 +1,16 @@
 import { OramaClient } from 'https://unpkg.com/@oramacloud/client@1.3.15/dist/index.js'
+
+let oramaApiKey;
+
+fetch('/netlify/functions/api')
+.then(response => response.json())
+.then(json => {
+  oramaApiKey = json.api;
+})
+
 const client = new OramaClient ({
   endpoint: 'https://cloud.orama.run/v1/indexes/recomedicales-y8a67g',
-  api_key: process.env.ORAMA_API
+  api_key: oramaApiKey
 });
 
 const searchInput = document.getElementById('search-input');
