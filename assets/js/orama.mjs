@@ -1,45 +1,19 @@
-import {
-  create,
-  search,
-  insertMultiple,
-} from 'https://cdn.jsdelivr.net/npm/@orama/orama@2.0.22/dist/index.js';
-import { stemmer } from 'https://cdn.jsdelivr.net/npm/@orama/stemmers/dist/fr.js';
-const indexResponse = await fetch('https://recomedicales.fr/index.json');
-const index = await indexResponse.json();
-
-const searchEngine = await create({
-  schema: {
-    uri: 'string',
-    title: 'string',
-    synonyms: 'string',
-    content: 'string',
-    tags: 'string',
-    section: 'string',
-    annees: 'string',
-    sources: 'string'
-  },
-  defaultLanguage: 'french',
-  components: {
-    tokenizer: {
-      stemmingFn: stemmer,
-    },
-  },
+import { OramaClient } from 'https://unpkg.com/@oramacloud/client@1.3.15/dist/index.js'
+const client = new OramaClient ({
+  endpoint: 'https://cloud.orama.run/v1/indexes/recomedicales-y8a67g',
+  api_key: 'w2ToWnDa3oN8NzmQz4QUyuB6UJfVfvbe',
 });
-await insertMultiple(searchEngine, index);
 
 const searchInput = document.getElementById('search-input');
 ['change', 'cut', 'focus', 'input', 'paste', 'search'].forEach((type) =>
   searchInput.addEventListener(type, query)
 );
 
-if (navigator.userAgent.match(/firefox|fxios/i)) {
-  document.getElementById('search-results').innerHTML = '<p class="lead px-3">Des problèmes de recherche peuvent survenir avec Firefox</p>'
-}
-
 async function query(event) {
-  const searchResponse = await search(searchEngine, {
+  const searchResponse = await client.search({
     term: event.target.value,
     properties: '*',
+    mode: 'fulltext'
   });
   document.getElementById('search-results').innerHTML = searchResponse.hits
     .map(
