@@ -1,7 +1,7 @@
 import { OramaClient } from 'https://unpkg.com/@oramacloud/client@1.3.15/dist/index.js'
 const client = new OramaClient ({
   endpoint: 'https://cloud.orama.run/v1/indexes/recomedicales-y8a67g',
-  api_key: 'w2ToWnDa3oN8NzmQz4QUyuB6UJfVfvbe',
+  api_key: process.env.ORAMA_API,
 });
 
 const searchInput = document.getElementById('search-input');
