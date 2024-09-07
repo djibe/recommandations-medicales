@@ -50,9 +50,9 @@ Critères diagnostiques de la péricardite aiguë
 Au moins 2 critères parmi:
 
 1. Douleur thoracique péricardique
-2. Frottement péricardiaque
+2. Frottement péricardique
 3. Signes ECG: apparition d'une élévation du segment ST diffuse ou dépression du segment PR
-4. Epanchement péricardiaque
+4. Épanchement péricardique
 
 Autres arguments diagnostiques: syndrome inflammatoire biologique, signes inflammatoires radiologiques.
 

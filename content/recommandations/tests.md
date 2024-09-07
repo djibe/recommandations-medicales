@@ -1,6 +1,6 @@
 +++
 id = "0190e8d6-137d-7374-8349-5eb0302bdabf"
-title = "Espace de tests"
+title = "Tests"
 prefix = "la "
 description = "Title 2-22 words and description 160 characters max"
 synonyms = []
@@ -21,40 +21,6 @@ imageSrc = ""
 todo = "descr > summary > liens > photo > newsletter > flow"
 datatable = false
 +++
-
-## Orama
-
-<div>
-<input class="form-search" id="search-input-online" placeholder="Rechercher" aria-label="Rechercher" type="search" autocomplete="off">
-<div id="search-results-online" role="list"></div>
-</div>
-
-<script type="module">
-import { OramaClient } from 'https://unpkg.com/@oramacloud/client@1.3.14/dist/index.global.js'
-const client = new OramaClient ({
-  endpoint: 'https://cloud.orama.run/v1/indexes/recomedicales-y8a67g',
-  api_key: 'w2ToWnDa3oN8NzmQz4QUyuB6UJfVfvbe',
-});
-
-const searchInput = document.getElementById('search-input-online');
-['change', 'cut', 'focus', 'input', 'paste', 'search'].forEach((type) =>
-  searchInput.addEventListener(type, query)
-);
-
-async function query(event) {
-  const searchResponse = await client.search(searchEngine, {
-    term: event.target.value,
-    properties: '*',
-    mode: 'fulltext'
-  });
-  document.getElementById('search-results-online').innerHTML = searchResponse.hits
-    .map(
-      (i) =>
-        `<a href='${i.document.uri}' class='list-group-item list-group-item-action' role='listitem'>${i.document.title}</a>`
-    )
-    .join('');
-}
-</script>
 
 ## J'ai oublié ma pilule
 

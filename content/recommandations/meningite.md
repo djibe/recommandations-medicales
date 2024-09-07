@@ -165,7 +165,7 @@ Vaccination de la méningite A, W, Y en prévention primaire avec **dose unique*
 
 Pour la HAS, intérêt chez tous les nourrissons à 5 et 12 mois à la place du vaccin Méningo C (voir paragraphe précédent).
 
-Spécialités disponibles: [Menquadfi®](https://ec.europa.eu/health/documents/community-register/2022/20220929157200/anx_157200_fr.pdf), Menveo® (fourni sans seringue ni aiguille) ou [Nimenrix®](https://ec.europa.eu/health/documents/community-register/2023/20230223158551/anx_158551_fr.pdf)
+Spécialités disponibles: [Menquadfi®](https://ec.europa.eu/health/documents/community-register/2022/20220929157200/anx_157200_fr.pdf), Menveo® (fourni sans aiguille) ou [Nimenrix®](https://ec.europa.eu/health/documents/community-register/2023/20230223158551/anx_158551_fr.pdf)
 
 Une dose de méningocoque tétravalent ne compte pas en cas de contact avec un malade à **méningocoque C** si:
 
