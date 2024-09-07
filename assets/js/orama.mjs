@@ -3,7 +3,7 @@ import { OramaClient } from 'https://unpkg.com/@oramacloud/client@1.3.15/dist/in
 let client;
 
 async function initializeClient() {
-  const response = await fetch('.netlify/functions/api');
+  const response = await fetch('https://recomedicales.fr/.netlify/functions/api');
   const json = await response.json();
   const oramaApiKey = json.api;
 
