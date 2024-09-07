@@ -2,7 +2,7 @@ import { OramaClient } from 'https://unpkg.com/@oramacloud/client@1.3.15/dist/in
 
 let oramaApiKey;
 
-fetch('/netlify/functions/api')
+fetch('https://recomedicales.fr/.netlify/functions/api')
 .then(response => response.json())
 .then(json => {
   oramaApiKey = json.api;
