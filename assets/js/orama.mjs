@@ -1,17 +1,20 @@
 import { OramaClient } from 'https://unpkg.com/@oramacloud/client@1.3.15/dist/index.js'
 
-let oramaApiKey;
+let client;
 
-fetch('https://recomedicales.fr/.netlify/functions/api')
-.then(response => response.json())
-.then(json => {
-  oramaApiKey = json.api;
-})
+async function initializeClient() {
+  const response = await fetch('.netlify/functions/api');
+  const json = await response.json();
+  const oramaApiKey = json.api;
 
-const client = new OramaClient ({
-  endpoint: 'https://cloud.orama.run/v1/indexes/recomedicales-y8a67g',
-  api_key: oramaApiKey
-});
+  // Initialisation du client avec la clé API récupérée
+  client = new OramaClient({
+    endpoint: 'https://cloud.orama.run/v1/indexes/recomedicales-y8a67g',
+    api_key: oramaApiKey
+  });
+}
+
+initializeClient();
 
 const searchInput = document.getElementById('search-input');
 ['change', 'cut', 'focus', 'input', 'paste', 'search'].forEach((type) =>
@@ -19,11 +22,17 @@ const searchInput = document.getElementById('search-input');
 );
 
 async function query(event) {
+  if (!client) {
+    console.error("Le client n'est pas encore initialisé.");
+    return;
+  }
+
   const searchResponse = await client.search({
     term: event.target.value,
     properties: '*',
     mode: 'fulltext'
   });
+
   document.getElementById('search-results').innerHTML = searchResponse.hits
     .map(
       (i) =>
