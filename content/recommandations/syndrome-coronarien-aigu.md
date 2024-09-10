@@ -130,7 +130,7 @@ Autres diagnostics à rechercher devant un épisode de douleurs thoraciques:
   - Fracture de côte
   - Douleurs articulaires ou musculaires
   - Dorsalgie
-  - Pancréatite, cholécystite
+  - [Pancréatite]({{< relref "pancreatite-aigue.md" >}}), [cholécystite]({{< relref "cholecystite-aigue.md" >}})
   - Gastrite, œsophagite, [reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
 - Autres
   - Anxiété
