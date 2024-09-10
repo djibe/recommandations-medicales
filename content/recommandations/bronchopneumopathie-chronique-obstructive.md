@@ -22,7 +22,7 @@ image = true
 imageSrc = "Illustration de la BPCO par Freepik"
 slider = true
 flowchart = true
-todo = "SEO prise en charge x2 | GOLD 2024: groupe Figure 3.7, Figure 3.18, TargetCOPD, action plan <https://www.livingwellwithcopd.com/DATA/DOCUMENT/64_en~v~plan-of-action.pdf>, dispositifs et consignes <https://erj.ersjournals.com/content/37/6/1308.long>, pollution <https://pubmed.ncbi.nlm.nih.gov/34872967/> | Tableau 2 SPLF 2021, Plan d'action, p.61++++, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24, ETP p.55, PTA/Asalee/SSIAD/SPASAD, remboursement RR, flow p.46, travail p. 58, revoir Annexes p.86"
+todo = "rankok | GOLD 2024: groupe Figure 3.7, Figure 3.18, TargetCOPD, action plan <https://www.livingwellwithcopd.com/DATA/DOCUMENT/64_en~v~plan-of-action.pdf>, dispositifs et consignes <https://erj.ersjournals.com/content/37/6/1308.long>, pollution <https://pubmed.ncbi.nlm.nih.gov/34872967/> | Tableau 2 SPLF 2021, Plan d'action, p.61++++, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24, ETP p.55, PTA/Asalee/SSIAD/SPASAD, remboursement RR, flow p.46, travail p. 58, revoir Annexes p.86"
 +++
 
 {{%article-summary%}}

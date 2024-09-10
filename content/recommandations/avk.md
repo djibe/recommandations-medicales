@@ -20,7 +20,7 @@ icd10 = []
 atc = "B01AA"
 image = true
 imageSrc = "L'AVK de référence: la warfarine. Gonegonegone, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "rename, adapt doses: https://www.mgform.org/boite-a-outils/avkclic/fluindione"
+todo = "SEO, rename, adapt doses: https://www.mgform.org/boite-a-outils/avkclic/fluindione"
 +++
 
 {{%collapse "Warfarine: titration et adaptation" %}}

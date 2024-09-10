@@ -17,7 +17,7 @@ icd10 = ["L70.9"]
 image = true
 imageSrc = "Acné inflammatoire du visage. profeticsbeta sur Foter.com / CC BY-NC-SA"
 flowchart = true
-todo = "gluconate de zinc, outil"
+todo = "rankok, gluconate de zinc, outil"
 +++
 
 {{%article-summary%}}

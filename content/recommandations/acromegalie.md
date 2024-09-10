@@ -17,6 +17,7 @@ sctid = "74107003"
 icd10 = ["E22.0"]
 image = true
 imageSrc = "Acromégale avec nez élargi et épaissi, pommettes saillantes, front bombé, lèvres épaisses et accentuations des lignes du visage. Photo de Philippe Chanson et Sylvie Salenave, CC BY 2.0, via Wikimedia Commons"
+todo = "rankok"
 flowchart = true
 +++
 

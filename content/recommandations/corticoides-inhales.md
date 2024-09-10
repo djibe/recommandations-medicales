@@ -18,7 +18,7 @@ icd10 = []
 atc = "R03BA"
 image = true
 imageSrc = "Les corticoïdes inhalés. Freepik"
-todo = "flow"
+todo = "rankok, flow"
 +++
 
 {{%article-summary%}}

@@ -18,6 +18,7 @@ sctid = "18347007"
 icd10 = ["M48.06"]
 image = true
 imageSrc = "Canal lombaire étroit. Universitätsklinik für Neurochirurgie, Inselspital Bern © CC BY-NC 4.0"
+todo = "rankok"
 flowchart = true
 +++
 

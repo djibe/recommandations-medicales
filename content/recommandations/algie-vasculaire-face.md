@@ -20,7 +20,7 @@ icd10 = ["G44.0"]
 image = true
 imageSrc = "Rougeur de la joue homolatérale durant une crise d'algie vasculaire de la face. T. Bjornstad, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "Examen clinique"
+todo = "rankok, Examen clinique"
 +++
 
 {{%article-summary%}}

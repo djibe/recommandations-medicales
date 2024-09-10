@@ -57,6 +57,23 @@ Hypersomnolence
 Hypersomnie
 : Se rapporte à des maladies spécifiques.
 
+### Facteurs de risque d'apnées du sommeil
+
+- Surpoids, obésité
+- Homme
+- Âge
+- Cou large (≥ 43 cm homme, 41 cm femme)
+- [Ménopause]({{< relref "menopause.md" >}})
+- Maladies des tissus mous
+- Trisomie 21
+- Volumineuses végétations adénoïdes ou amygdales
+- Rétro ou micrognathie
+- Antécédent familial de SAOS
+- [Acromégalie]({{< relref "acromegalie.md" >}})
+- [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
+- Tabagisme
+- Congestion nasale ou rhinite chronique
+
 {{%info%}}
 
 ### Complications des apnées du sommeil
@@ -75,29 +92,12 @@ Hypersomnie
 Le traitement des apnées réduit significativement les risques.
 {{%/info%}}
 
-### Facteurs de risque d'apnées du sommeil
-
-- Surpoids ou obèse
-- Homme
-- Âge
-- Cou large (≥ 43 cm homme, 41 cm femme)
-- [Ménopause]({{< relref "menopause.md" >}})
-- Maladies des tissus mous
-- Trisomie 21
-- Volumineuses végétations adénoïdes ou amygdales
-- Rétro ou micrognathie
-- Antécédent familial de SAOS
-- [Acromégalie]({{< relref "acromegalie.md" >}})
-- [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
-- Tabagisme
-- Congestion nasale ou rhinite chronique
-
 ### Comorbidités des apnées du sommeil
 
 - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (20 %)
 - [Diabète de type 2]({{< relref "diabete-type-2.md">}}) (15-30 %)  
   40-70 % des DT2 ont un SAOS.
-- 60 % des [insuffisants cardiaques]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ont une forme d'apnées du sommeil
+- 60% des [insuffisants cardiaques]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ont une forme d'apnées du sommeil
 
 ### Abréviations en médecine du sommeil
 
@@ -337,12 +337,11 @@ D'autres tests peuvent être demandés selon les suspicions cliniques:
   Évaluation objective de la capacité de résistance à l'endormissement dans des conditions passives.
 
 {{% /collapse %}}
-{{%collapse "Traitement du SAOS" %}}
+{{%collapse "Traitement du SAhOS" %}}
 
-La prise en charge du syndrome d'apnées du sommeil relève exclusivement du spécialiste.  
-Il consiste en une ventilation à pression positive continue (PPC) ou un orthèse d'avancée mandibulaire (OAM).
+La prise en charge du syndrome d'apnées du sommeil relève exclusivement du spécialiste. Il consiste en une ventilation à pression positive continue (PPC) ou un orthèse d'avancée mandibulaire (OAM).
 
-[Liste des centres homologués SFRMS par région](https://www.sfrms-sommeil.org/carte-des-centres-agrees/).
+[Liste des centres DU SOMMEIL homologués SFRMS par région](https://www.sfrms-sommeil.org/carte-des-centres-agrees/).
 
 ### Mesures générales
 

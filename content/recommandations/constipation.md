@@ -17,7 +17,7 @@ sctid = "14760008"
 icd10 = ["K59.0"]
 image = true
 imageSrc = "Illustration de la constipation par storyset / Freepik"
-todo = "nourrisson, Rome IV"
+todo = "rankok, nourrisson, Rome IV"
 flowchart = true
 +++
 
@@ -182,6 +182,7 @@ graph TB
 
 ### Bibliographie en attente
 
-[La Revue Colo-Proctologie. Constipation d'évacuation.](https://larevue.snfcp.org/constipation-devacuation/)
+- [Alavi K, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Evaluation and Management of Chronic Constipation. Dis Colon Rectum. 2024.](https://journals.lww.com/dcrjournal/fulltext/2024/10000/the_american_society_of_colon_and_rectal_surgeons.9.aspx)
+- [La Revue Colo-Proctologie. Constipation d'évacuation.](https://larevue.snfcp.org/constipation-devacuation/)
 
 {{%/sources%}}

@@ -17,7 +17,7 @@ sctid = "781382000"
 icd10 = ["C18"]
 image = true
 imageSrc = "Illustration du cancer colorectal. Blausen Medical Communications, Inc., CC BY 3.0, via Wikimedia Commons"
-todo = "SEO 'dépistage cancer colorectal recommandations', dépistage G8 gériatrie"
+todo = "rankok, dépistage G8 gériatrie"
 flowchart = true
 +++
 

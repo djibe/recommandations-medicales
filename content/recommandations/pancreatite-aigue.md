@@ -175,6 +175,8 @@ Nouveaux examens de suivi (scanner et IRM) à 3, 6 et 12 mois:
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="eYVZSNIgZt8" title="Pancréatite aiguë ça fait mal (TutoGastro SNFGE)" >}}
+
 - [Tenner S, et al. American College of Gastroenterology Guidelines: Management of Acute Pancreatitis. Am J Gastroenterol. 2024.](https://journals.lww.com/ajg/fulltext/2024/03000/american_college_of_gastroenterology_guidelines_.14.aspx)
 - {{< references/college-gastro >}}
 - [INCa. Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Synthèse. 2019.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Synthese-Conduites-a-tenir-devant-des-patients-atteints-d-adenocarcinomes-du-pancreas)

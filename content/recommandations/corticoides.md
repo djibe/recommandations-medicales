@@ -19,7 +19,7 @@ icd10 = []
 atc = "H02AB"
 image = false
 imageSrc = ""
-todo = "photo | PNDS Horton 2020, **biphospho <https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-losteoporose>**, inhibiteurs CYP3A4 https://pharmacomedicale.org/pharmacologie/les-sources-de-variabilite-de-la-reponse-au-medicament/45-variabilites-pharmacocinetiques/101-inhibitions-enzymatiques"
+todo = "rankok, photo | PNDS Horton 2020, **biphospho <https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-losteoporose>**, inhibiteurs CYP3A4 https://pharmacomedicale.org/pharmacologie/les-sources-de-variabilite-de-la-reponse-au-medicament/45-variabilites-pharmacocinetiques/101-inhibitions-enzymatiques"
 flowchart = true
 +++
 

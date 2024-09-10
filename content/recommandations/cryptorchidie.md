@@ -17,6 +17,7 @@ sctid = "204878001"
 icd10 = ["Q53.9"]
 image = true
 imageSrc = "La cryptorchidie. Lamiot via Wikipedia Commons, CC BY-SA 3.0"
+todo = "rankok"
 flowchart = true
 +++
 

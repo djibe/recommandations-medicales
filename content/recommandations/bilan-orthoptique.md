@@ -18,7 +18,7 @@ sctid = "252847008"
 icd10 = []
 image = true
 imageSrc = "Illustration du bilan orthoptique par rawpixel.com / Freepik"
-todo = "https://www.has-sante.fr/jcms/c_272178/fr/depistage-precoce-des-troubles-de-la-fonction-visuelle-chez-l-enfant-pour-prevenir-l-amblyopie"
+todo = "rankok, https://www.has-sante.fr/jcms/c_272178/fr/depistage-precoce-des-troubles-de-la-fonction-visuelle-chez-l-enfant-pour-prevenir-l-amblyopie"
 +++
 
 {{%article-summary%}}

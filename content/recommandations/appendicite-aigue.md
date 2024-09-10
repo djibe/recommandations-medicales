@@ -7,12 +7,12 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-20T22:32:54+02:00"
 publishdate = "2022-06-21"
-lastmod = "2023-11-21"
+lastmod = "2024-09-10"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
-sources = ["SFCD", "Collèges"]
+sources = ["SFCD", "WSES"]
 tags = ["adolescent", "enfant"]
-english = ["Acute appendicitis"]
+english = ["Acute appendicitis (AA)"]
 sctid = "85189001"
 icd10 = ["K35.8"]
 image = true
@@ -23,7 +23,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le diagnostic d'appendicite aiguë est délicat (fréquents diagnostics différentiels) et nécessite des examens complémentaires urgents (bandelette urinaire, bilan biologique et échographie abdominale)
+- Le diagnostic d'appendicite aiguë est délicat (fréquents diagnostics différentiels) et nécessite un bilan en urgence (bandelette urinaire, bilan biologique et échographie abdominale)
 - L'appendicite aiguë est une urgence chirurgicale (pouvant être différée jusqu'à 24 heures du diagnostic)
 
 {{%/article-summary%}}
@@ -61,6 +61,9 @@ SFU
 
 TDM
 : tomodensitométrie (ou scanner)
+
+WSES
+: {{%lang%}}World Society of Emergency Surgery{{%/lang%}}
 {.dl-inline}
 
 {{% /collapse %}}
@@ -90,9 +93,8 @@ Signes et symptômes devant faire évoquer une appendicite aiguë:
   Créatininémie récente.
 - Traitements en cours
 - Toxiques
-- Signes généraux  
-  **Fébricule** (60%), frissons
-- Symptômes
+- Signes généraux: **fébricule** (60%), frissons
+- Symptômes de l'appendicite aiguë:
   - **Douleur abdominale** de début épigastrique ou péri-ombilicale **migrant en fosse iliaque droite** en quelques heures
   - Type torsion ou crampe et devient permanente sans irradiation
   - Soulagée immobile jambes pliées. Augmentée à la toux et mouvements de cuisse.
@@ -102,8 +104,8 @@ Signes et symptômes devant faire évoquer une appendicite aiguë:
 - Signes négatifs
   Signes fonctionnels urinaires, gynécologiques.
 
-Chez la femme enceinte, l'utérus repousse l'appendice avec **tableau de colique hépatique**
-{.alert .alert-info}
+Chez la femme enceinte, l'utérus repousse l'appendice donnant un **tableau de colique hépatique**.
+{.alert .alert-warning}
 
 ### Examen clinique
 
@@ -155,32 +157,31 @@ Aucun score basé sur le syndrome inflammatoire ne s'est révélé suffisant pou
 
 > – *Bilan non exhaustif du CDU-HGE*
 
-En l'absence de signes cliniques (douleur migrant en FID) ET biologiques (NFS et CRP normaux), le diagnostic d'AA est peu probable. Possible exploration par imagerie ou surveillance clinique adaptée au contexte
+En l'absence de signes cliniques (douleur migrant en FID) ET biologiques (NFS et CRP normaux), le diagnostic d'appendicite aiguë est peu probable. Possible exploration par imagerie ou surveillance clinique adaptée au contexte.
 {.alert .alert-info}
 
 ### Imagerie de l'appendicite
 
-**Échographie abdominale** par examinateur entraîné ou **scanner abdominal avec injection** (+75 ans et obèse ++).  
-Après une échographie normale, contrôler avec un opérateur entraîné ou un scanner.
+**Échographie abdominale** par examinateur entraîné ou **scanner abdominal avec injection** (après 75 ans ou obésité).  
+Après une échographie normale, **contrôler** avec un opérateur entraîné ou un scanner.
 
-Chez la femme enceinte: échographie abdominale ou IRM abdominale sans injection.  
-Après échographie normale ou non concluante et absence d'accès à l'IRM: scanner abdominal avec injection.
+Chez la femme enceinte: échographie abdominale ou IRM abdominale sans injection. Après échographie normale ou non concluante et absence d'accès à l'IRM: scanner abdominal avec injection.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'appendicite aiguë" %}}
 
-> << L'antibiothérapie seule n'est pas recommandée en première intention dans l'appendicite aiguë non compliquée et le traitement chirurgical reste la prise en charge de référence >> – *SFCD 2021*
+> << L'antibiothérapie seule n'est pas recommandée en première intention dans l'appendicite aiguë non compliquée et le traitement chirurgical reste la prise en charge de référence >>. – *SFCD 2021*
 {.alert .alert-info}
 
-[Information des parents mpedia](https://www.mpedia.fr/art-appendicite/?sr=895).
+[Information des parents sur l'appendicite (mpedia)](https://www.mpedia.fr/art-appendicite/?sr=895).
 
 ### Traitement chirurgical par appendicectomie
 
-La chirurgie est le traitement de référence de l'appendicite aiguë non compliquée (par cœlioscopie ou laparotomie, même chez la femme enceinte). Elle peut être différée jusqu'à 24 heures après le diagnostic. 30 à 50% pourraient être réalisées en ambulatoire.
+La chirurgie est le traitement de référence de l'appendicite aiguë non compliquée (par cœlioscopie principalement, même chez la femme enceinte). Elle peut être différée jusqu'à 24 heures après le diagnostic. 30 à 50% pourraient être réalisées en ambulatoire.
 
-Le traitement chirurgical par cœlioscopie est également la référence en cas d'appendicite aiguë compliquée mais une antibiothérapie peut être discutée en première ligne (sauf péritonite). Puis chirurgie à froid.
+Le traitement chirurgical par cœlioscopie est également la référence en cas d'appendicite aiguë compliquée mais une antibiothérapie peut être discutée en première ligne (sauf péritonite), suivie d'une chirurgie à froid.
 
-Anatomopathologie systématique de l'appendice retiré.
+L'examen anatomopathologique de l'appendice est systématique.
 
 Pas d'antibiothérapie post-opératoire pour une appendicite non compliquée. Si compliquée: C3G + imidazolé pendant 3 jours (parfois prolongée).
 
@@ -190,12 +191,14 @@ En cas de contre-indication ou d'impossibilité de la chirurgie, l'antibiothéra
 
 La voie orale est recommandée en l'absence de nausées ou vomissements.
 
-Antibiothérapie type amoxicilline-clavulanique (Augmentin) ou fluoroquinolone + imidazolé ≤ 8 jours (*SPILF 2020*: 7 jours).
+Antibiothérapie type amoxicilline-clavulanique (Augmentin) ou fluoroquinolone + imidazolé ≤ 8 jours (selon *SPILF 2020*: 7 jours).
+
+Lors du traitement de l'appendicite par antibiothérapie, le risque de récidive peut atteindre 39% à 5 ans (*WSES*).
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'appendice aiguë" "show" %}}
 
-{{< mermaid title="Prise en charge de la suspicion d'appendice aiguë par le médecin généraliste. Dr JB Fron d'après SFCD 2021 et Collèges" >}}
+{{< mermaid title="Prise en charge de la suspicion d'appendice aiguë par le médecin généraliste. Dr JB Fron d'après SFCD 2021 et WSES 2020" >}}
 graph TB
   suspicion["<b>Suspicion d'appendicite aiguë</b><br>—<br>À tout âge:<br>- Douleurs en FID persistantes<br>- Sensibilité ou défense<br>en FID<br>- ± Fièvre, tbles transit"] --> urgences("Bilan aux Urgences<br>ou échographie abdominale<br>+ bilan<br>en filière rapide")
   style suspicion stroke:#4150f5, stroke-width:1px
@@ -205,10 +208,12 @@ graph TB
 {{%sources%}}
 
 - [Doleman B et al. Appendectomy versus antibiotic treatment for acute appendicitis. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015038.pub2/full/fr)
-- [Ameli. L'appendicite aiguë : symptômes, diagnostic et évolution. 27/11/2023.](https://www.ameli.fr/assure/sante/themes/appendicite-aigue/symptomes-diagnostic-evolution)
+- [Ameli. L'appendicite aiguë : symptômes, diagnostic et évolution. 18/06/2024.](https://www.ameli.fr/assure/sante/themes/appendicite-aigue/symptomes-diagnostic-evolution)
+- Prescrire Redaction. Signes d'appendicite chez les adultes. Rev Prescrire. 2022.
 - [Collard MK et al. Appendicite de l'adulte : recommandations pour la pratique clinique de la Société française de chirurgie digestive (SFCD) et de la Société d'imagerie abdominale et digestive (SIAD). Journal de Chirurgie Viscérale. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S1878786X20304447)
 - Collège Français de Chirurgie Générale, Viscérale et Digestive. Appendicite de l'enfant et de l'adulte. Item 351 - UE11. Chirurgie générale, viscérale et digestive. 2e édition.
 - Prescrire Redaction. Signes d'appendicite chez les enfants. Rev Prescrire. 2021.
+- [Di Saverio S, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg. 2020.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7386163/)
 - {{< references/spilf-2020 >}}
 - [HAS. Appendicectomie. Évaluation des technologies de santé. 2012.](https://www.has-sante.fr/jcms/c_1218019/fr/appendicectomie-elements-decisionnels-pour-une-indication-pertinente-rapport-d-evaluation)
 - [SNFGE. Appendicite aiguë.](https://www.snfge.org/grand-public/maladies-digestives/appendicite-aigue)

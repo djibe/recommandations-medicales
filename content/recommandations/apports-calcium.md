@@ -18,7 +18,7 @@ sctid = "230122008"
 icd10 = []
 image = true
 imageSrc = "Illustration des apports en calcium par macrovector / Freepik"
-todo = "IRC"
+todo = "rankok, IRC"
 +++
 
 {{%article-summary%}}

@@ -8,10 +8,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2024-08-28"
+lastmod = "2024-09-10"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
-sources = ["CNGOF", "CRAT", "SFD"]
+sources = ["CNGOF", "HAS"]
 tags = ["depistage", "grossesse", "prevention"]
 english = ["Pregnancy"]
 sctid = "118185001"
@@ -120,22 +120,26 @@ Malgré les fermetures, **43 %** des maternités ont réalisé en 2020 **moins d
 {{% /collapse %}}
 {{%collapse "Suivi de grossesse" "show"%}}
 
-Vaccinations Covid-19 et grippe à n'importe quel terme et coqueluche entre 20 et 36 SA à chaque grossesse. Anti-VRS par Abysvo une seule fois si terme de 32 à 36 SA de septembre à janvier (ou Beyfortus à défaut).
+Éléments vitaux du suivi de grossesse:
 
-{{< table title="Suivi simplifié de la grossesse. Dr JB Fron d'après HAS 2009 et Collège" class="table-wrap">}}
+- Toxiques à chaque consultation
+- Vaccinations Covid-19 et grippe à n'importe quel terme; Coqueluche entre 20 et 36 SA à chaque grossesse; Anti-VRS par Abysvo une seule fois si terme de 32 à 36 SA de septembre à janvier (ou Beyfortus chez le nouveau-né à défaut)
+- Activité physique: 30 minutes à 1h d'intensité modérée à intense ≥ 5 j/semaine, sédentarité < 7h/j (*CNSFF*)
+
+{{< table title="Suivi simplifié de la grossesse. Dr JB Fron d'après HAS et Collège" class="table-wrap">}}
 | Moment   | Clinique | Examen  | Traitement |
 |----------|----------|---------|------------|
 | Chaque consultation | PA, poids, signes de grossesse | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}ECBU{{%/tooltip%}} si ATCD, toxoplasmose si -, {{%tooltip "Jusqu'à 18 SA"%}}rubéole si -{{%/tooltip%}}, TSH si sympt. aspécifiques | Arrêt alcool/tabac et {{%tooltip "lecrat.fr"%}}automédication{{%/tooltip%}}, vaccin grippe+covid, {{%tooltip "mangerbouger.fr"%}}alimentation{{%/tooltip%}} (listériose ++) |
-| Préconceptionnelle<br>ou 1re consultation | ATCD (dont varicelle), profession, vaccinations, précarité, maltraitance, DDR | NFS, ferritine, {{%tooltip "1re grossesse sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}}<br>Sérologies {{%tooltip "Sauf vaccination double dose documentée"%}}rubéole{{%/tooltip%}}, toxoplasmose, syphilis, VIH, VHC, {{%tooltip "AgHBs sans vaccination"%}}anti-HBs{{%/tooltip%}}, TSH si sympt. aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et FDR{{< /modal-btn >}} | {{%tooltip "Jusqu'à 8 SA (HAS) - 14 SA (USPTF)"%}}acide folique{{%/tooltip%}} 0,4 mg/j, {{%tooltip "De 11 à 13 SA + 6j"%}}écho T1{{%/tooltip%}}, dépistage T21 |
+| Préconceptionnelle<br>ou 1re consultation (< 10 SA) | ATCD (gynéco, varicelle), toxiques, profession, vaccinations, précarité, maltraitance, DDR, {{%tooltip "Bandelette urinaire: glycosurie et protéinurie"%}}BU{{%/tooltip%}} | NFS, ferritine, {{%tooltip "1re grossesse sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}}<br>Sérologies {{%tooltip "Sauf vaccination double dose documentée"%}}rubéole{{%/tooltip%}}, toxoplasmose, syphilis, VIH, VHC, {{%tooltip "AgHBs sans vaccination"%}}anti-HBs{{%/tooltip%}}, TSH si sympt. aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et FDR{{< /modal-btn >}}, ± frottis | {{%tooltip "Jusqu'à 8 SA (HAS), 14 SA (USPTF)"%}}acide folique{{%/tooltip%}} 0,4 mg/j, {{%tooltip "De 11 à 13 SA + 6j"%}}écho T1{{%/tooltip%}} + {{%tooltip "βhCG libre + PAPP-A"%}}dépistage T21{{%/tooltip%}} |
 | 4e mois<br>16-20 SA | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}BU{{%/tooltip%}} (HAS 2024) | {{%tooltip "Gratuite jusqu'à 6 mois après l'accouchement"%}}Cs dentaire{{%/tooltip%}} ||
 | 5e mois<br>20-24 SA || {{%tooltip "22 SA (20-25)"%}}Écho T2{{%/tooltip%}} | Vaccin coqueluche |
 | 6e mois<br>24-28 SA || {{%tooltip "L'USPTF trouve le dépistage inutile si asymptomatique"%}}NFS{{%/tooltip%}}, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} | ± Rattrapage coqueluche |
 | 7e mois<br>28-32 SA || {{%tooltip "32 SA (30-35)"%}}Écho T3{{%/tooltip%}} | ± Rattrapage coqueluche |
-| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, prélèvement vaginal (strepto B) | VitD 100.000 UI, {{%tooltip "De septembre à janvier"%}}Abrysvo{{%/tooltip%}}, ± rattrapage coqueluche |
+| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, {{%tooltip "Entre 35 et 38 SA"%}}prélèvement vaginal (strepto B){{%/tooltip%}} | VitD 100.000 UI, {{%tooltip "De septembre à janvier"%}}Abrysvo{{%/tooltip%}}, ± rattrapage coqueluche |
 | 9e mois<br>37-42 SA ||||
 {{< /table >}}
 
-> – *HAS 2009*, *USPTF 2023*, *Calendrier vaccinal 2024* (Abrysvo d'après *HAS 2024*)
+> – *HAS 2016*, *HAS 2009*, *USPTF 2023*, *Calendrier vaccinal 2024* (Abrysvo d'après *HAS 2024*)
 
 {{% /collapse %}}
 {{%collapse "Médicaments et vaccins pendant la grossesse" %}}
@@ -275,23 +279,22 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 - [Medqual. La vaccination des femmes enceintes. VacciNews 03. 2023. (PDF)](https://medqual.fr/images/VACCINEWS/LETTRES/VACCINEWS_3.pdf)
 - [US Preventive Services Task Force, Barry MJ et al. Folic Acid Supplementation to Prevent Neural Tube Defects: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2807739)
 - [CNGOF, SFMU, SFAR. Prise en charge des urgences obstétricales en médecine d'urgence. Recommandations de Pratiques Professionnelles. 2022.](https://sfar.org/prise-en-charge-des-urgences-obstetricales-en-medecine-durgence/)
+- [Boisseau N. Physical Activity During the Perinatal Period: Guidelines for Interventions During the Perinatal Period from the French National College of Midwives. J Midwifery Womens Health. 2022.](https://onlinelibrary.wiley.com/doi/10.1111/jmwh.13425)
 - [CNGOF. Vaccin anti SARS-CoV-2 et grossesse 3e injection ? Avis du 17 novembre 2021. (PDF)](https://cngof.fr/app/pdf/COVID19//%20Vaccination-anti-covid-19/CNGOF-GRIG-171021-3e%20dose%20vaccin%20anti%20SARS-COV2%20femmes%20enceintes.pdf?x94073)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Gynécologie obstétrique Réussir son DFASM. 2021.
 - [CNGOF. Prévention de l'allo-immunisation Rhésus D chez les patientes de groupe Rhésus D négatif. 2017. (PDF)](https://cngof.fr/rpc/)
-- [HAS. Projet de grossesse : informations, messages de prévention, examens à proposer. 2009. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-01/projet_de_grossesse_informations_messages_de_prevention_examens_a_proposer_-_fiche_de_synthese.pdf)
-- [DFS. Recommandations pour la prévention des anomalies de la fermeture du tube neural. 2001. (PDF)](https://sante.gouv.fr/IMG/pdf/Recommandations_pour_la_prevention_des_anomalies_de_la_fermeture_du_tube_neural.pdf)
+- [HAS. Suivi et orientation des femmes enceintes en fonction des situations à risque identifiées. 2016.](https://www.has-sante.fr/jcms/c_547976/fr/suivi-et-orientation-des-femmes-enceintes-en-fonction-des-situations-a-risque-identifiees)
+- [DGS. Recommandations pour la prévention des anomalies de la fermeture du tube neural. 2001. (PDF)](https://sante.gouv.fr/IMG/pdf/Recommandations_pour_la_prevention_des_anomalies_de_la_fermeture_du_tube_neural.pdf)
 
 ### Bibliographie en attente
 
-- [HAS. Suivi et orientation des femmes enceintes en fonction des situations à risque identifiées. 2016.](https://www.has-sante.fr/jcms/c_547976/fr/suivi-et-orientation-des-femmes-enceintes-en-fonction-des-situations-a-risque-identifiees)
 - [Cour des Comptes. La politique de périnatalité. 2024.](https://www.ccomptes.fr/fr/publications/la-politique-de-perinatalite)
 - [Vigoureux S et al; CNGOF. Prévention de l'allo-immunisation anti-RH1 au premier trimestre de la grossesse: recommandations pour la pratique clinique du Collège National des Gynécologues-Obstétriciens Français. Gynécologie Obstétrique Fertilité & Sénologie. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2468718924000813)
 - [HAS. Accompagnement médico-psycho-social des femmes, des parents et de leur enfant, en situation de vulnérabilité, pendant la grossesse et en postnatal. 2024.](https://www.has-sante.fr/jcms/p_3271226/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal)
 - [HAS. Situations pathologiques pouvant relever de l'hospitalisation à domicile au cours de l'ante et du post-partum. 2011.](https://www.has-sante.fr/jcms/c_1066375/fr/situations-pathologiques-pouvant-relever-de-l-hospitalisation-a-domicile-au-cours-de-l-ante-et-du-post-partum)
-- [Boisseau N. Physical Activity During the Perinatal Period: Guidelines for Interventions During the Perinatal Period from the French National College of Midwives. J Midwifery Womens Health. 2022.](https://onlinelibrary.wiley.com/doi/10.1111/jmwh.13425)
 - [HAS. Grossesse, accouchement et suivi postnatal. Panorama.](https://www.has-sante.fr/jcms/p_3286443/fr/grossesse-accouchement-et-suivi-postnatal)
-- HAS 2016 +++
 - [Service-Public. A-t-on droit à des absences liées à la grossesse dans la fonction publique ? 24/11/2023.](https://www.service-public.fr/particuliers/vosdroits/F34536)
+- [HAS. Projet de grossesse : informations, messages de prévention, examens à proposer. 2009.](https://www.has-sante.fr/jcms/c_1360649/fr/projet-de-grossesse-informations-messages-de-prevention-examens-a-proposer)
 
 {{%/sources%}}
 {{% modal title="Liste facteurs de risque d'hypothyroïdie" id="modal-fdr-hypothyroidie"%}}

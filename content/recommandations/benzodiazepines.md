@@ -19,7 +19,7 @@ icd10 = []
 atc = "N05BA"
 image = false
 imageSrc = ""
-todo = "grille arrêt"
+todo = "SEO, grille arrêt"
 flowchart = true
 +++
 

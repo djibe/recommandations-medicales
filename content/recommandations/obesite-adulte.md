@@ -452,7 +452,7 @@ graph TB
 - {{< references/college-endocrino >}}
 - [HAS. Obésité : prise en charge chirurgicale chez l'adulte. 2009.](https://www.has-sante.fr/jcms/c_765529/fr/obesite-prise-en-charge-chirurgicale-chez-l-adulte)
 - [Rapport d'une consultation de l'OMS. Obésité : prévention et prise en charge de l'épidémie mondiale. Série de rapports techniques 894. Genève. 2003. (1998)](https://apps.who.int/iris/handle/10665/42734)
-- [Organisation Mondiale de la Santé](https://www.who.int/fr/health-topics/obesity)
+- [Organisation Mondiale de la Santé. Obésité.](https://www.who.int/fr/health-topics/obesity)
 
 ### Bibliographie en attente
 
