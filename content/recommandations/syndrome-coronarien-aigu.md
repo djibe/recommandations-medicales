@@ -110,7 +110,7 @@ TNT
 Autres diagnostics à rechercher devant un épisode de douleurs thoraciques:
 
 - Accidents cardiovasculaires non coronariens
-  - Myocardite, péricardite, cardiomyopathie
+  - Myocardite, [péricardite]({{< relref "pericardite-aigue.md" >}}), cardiomyopathie
   - Tachyarythmie
   - [Insuffisance cardiaque aiguë]({{< relref "insuffisance-cardiaque-aigue.md" >}})
   - [Hypertension artérielle maligne]({{< relref "hypertension-arterielle-maligne.md" >}})

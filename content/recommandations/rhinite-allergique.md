@@ -205,7 +205,7 @@ Les antihistaminiques et corticoïdes nasaux sont le traitement symptomatique de
 2. RA modérée à sévère (à partir de 3 ans), obstruction nasale prédominante ou échec de la 1<sup>re</sup> ligne  
   Corticothérapie intranasale (ex: béclométasone [Beconase®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63295400&typedoc=R) 50 µg susp nasale, [Rhinomaxil®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66958014&typedoc=R) 100 µg x 2/j, Rinoclenil®)
 3. Contrôle insuffisant chez l'adulte: doubler la dose de corticoïdes
-4. RA non contrôlée: associer corticoïdes + antihistaminiques locaux (ou 2 en 1: [azélastine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68576006&typedoc=R) + fluticasone [Dymista®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60830011&typedoc=R)) en pulvérisations nasales
+4. RA non contrôlée: associer corticoïdes + antihistaminiques locaux (ou 2 en 1: [azélastine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68576006&typedoc=R) + fluticasone [Dymista®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60830011&typedoc=R) à partir de 12 ans) en pulvérisations nasales
 
 — *SFORL, SPLF*
 {{%/info%}}

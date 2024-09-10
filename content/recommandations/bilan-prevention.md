@@ -2,9 +2,9 @@
 id = "01917f18-c5a9-79ef-8530-0ae5ced7ac08"
 title = "Mon Bilan Prévention"
 titleSeo = "Mon Bilan Prévention"
-prefix = ""
+prefix = "sur"
 description = "Le Bilan de Prévention pour le médecin généraliste: questionnaires des pathologies, axes de prise en charge et rédaction du plan personnalisé de prévention"
-synonyms = []
+synonyms = ["Bilan de prévention"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-08-23T13:56:41+02:00"
 publishdate = "2024-08-29"
@@ -34,16 +34,16 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 <div class="card my-5">
 <ul class="nav nav-justified nav-tabs" role="tablist">
   <li class="nav-item" role="presentation">
-    <button aria-controls="div-18" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#div-18" id="tab-18" type="button" role="tab">18-25</button>
+    <button aria-controls="div-18" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#div-18" id="tab-18" type="button" role="tab">18-25 ans</button>
   </li>
   <li class="nav-item" role="presentation">
-    <button aria-controls="div-45" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#div-45" id="tab-45" type="button" role="tab">45-50</button>
+    <button aria-controls="div-45" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#div-45" id="tab-45" type="button" role="tab">45-50 ans</button>
   </li>
   <li class="nav-item" role="presentation">
-    <button aria-controls="div-60" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#div-60" id="tab-60" type="button" role="tab">60-65</button>
+    <button aria-controls="div-60" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#div-60" id="tab-60" type="button" role="tab">60-65 ans</button>
   </li>
   <li class="nav-item" role="presentation">
-    <button aria-controls="div-60" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#div-70" id="tab-60" type="button" role="tab">70-75</button>
+    <button aria-controls="div-60" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#div-70" id="tab-60" type="button" role="tab">70-75 ans</button>
   </li>
 </ul>
 <div class="tab-content card-body">

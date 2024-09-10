@@ -5,7 +5,7 @@ description = "Liens vers les collèges des enseignants de médecine de deuxièm
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-14T16:20:00+02:00"
 publishdate = "2023-01-16"
-lastmod = "2024-08-30"
+lastmod = "2024-09-10"
 annees = "2024"
 sources = ["Colleges"]
 tags = []
@@ -24,12 +24,12 @@ Le tableau ci-dessous liste tous les référentiels des Collèges de médecine d
 {{< table title="Livres gratuits des Collèges des enseignants de médecine pour le deuxième cycle" class="table-wrap" >}}
 | Spécialité | Collège        | Année    | Lien |
 |--------------|--------------|---------:|------|
-| Addictologie | CUNEA <br><span class="typography-caption">Collège Universitaire National des Enseignants d'Addictologie</span> | 2021 | [lien](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf) |
+| Addictologie | CUNEA <br><span class="typography-caption">Collège Universitaire National des Enseignants d'Addictologie</span> | 2024 | [lien](https://www.cunea.fr/sites/default/files/ref_psy_add_4ed.pdf) |
 | Anatomopathologie | Copath <br><span class="typography-caption">Collège des Pathologistes</span> | 2022 | [lien](https://www.sfpathol.org/564-manuel-introduction.html) |
-| Anesthésie-réanimation | CNEAR <br><span class="typography-caption">Collège National des Enseignants d'Anesthésie et de Réanimation</span> | 2020 | [lien](https://www.cnear.fr/_files/ugd/361ef2_bf3bcbe89fb24570a6fe31cdcf96ac35.pdf) |
+| Anesthésie-réanimation | CNEAR <br><span class="typography-caption">Collège National des Enseignants d'Anesthésie et de Réanimation</span> | 2020 | [lien](https://www.cnear.fr/_files/ugd/16c755_470c9901054f437a86d606b696fa7470.pdf) |
 | Cardiologie | CNEC <br><span class="typography-caption">Collège National des Enseignants de Cardiologie</span> | 2022 | [lien](https://www.sfcardio.fr/page/medecine-cardiovasculaire-reussir-son-dfasm) |
 | Chirurgie pédiatrique | CNHUCP <br><span class="typography-caption">Collège national Hospitalier et Universitaire de Chirurgie pédiatrique</span> | 2016 | [lien](https://collegechirurgiepediatrique.fr/les-cours/) |
-| Dermatologie | CEDEF <br><span class="typography-caption">Collège des Enseignants de Dermatologie de France</span> | 2023 | [lien](https://cedef.info/enseignement-2eme-cycle-dermatologie/) |
+| Dermatologie | CEDEF <br><span class="typography-caption">Collège des Enseignants de Dermatologie de France</span> | 2023 | [lien](https://cedef.info/enseignement-2eme-cycle-dermatologie/) (identifiants) |
 | Endocrinologie | CEEDMM <br><span class="typography-caption">Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques</span> | 2021 | [lien](https://www.sfendocrino.org/polycopie-des-enseignants-5eme-edition-2021/) |
 | Gastro-entérologie | CDU-HGE <br><span class="typography-caption">Collège Des Universitaires d'Hépato-GastroEntérologie</span> | 2022 | [lien](https://www.snfge.org/sites/default/files/SNFGE/Formation/dsn_cdu-hge_2022-decembre.pdf) |
 | Gériatrie | CNEG <br><span class="typography-caption">Collège National des Enseignants en Gériatrie</span> | 2014 | [lien](https://www.seformeralageriatrie.org/livregeriatriecneg) |
@@ -43,7 +43,7 @@ Le tableau ci-dessous liste tous les référentiels des Collèges de médecine d
 | Pédiatrie | CNPU <br><span class="typography-caption">Collège National des Pédiatres Universitaires</span> | 2021 | [lien](https://www.pedia-univ.fr/deuxieme-cycle/referentiel) |
 | Pharmacologie médicale | CNPM <br><span class="typography-caption">Collège National de Pharmacologie Médicale</span> | 2024 | [lien](https://pharmacomedicale.org/medicaments/par-specialites) |
 | Pneumologie | CEP <br><span class="typography-caption">Collège des Enseignants de Pneumologie</span> | 2023 | [lien](http://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/) |
-| Psychiatrie | CNUP <br><span class="typography-caption">Collège National Universitaire de Psychiatrie </span> | 2021 | [lien](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf) |
+| Psychiatrie | CNUP <br><span class="typography-caption">Collège National Universitaire de Psychiatrie </span> | 2024 | [lien](https://www.cunea.fr/sites/default/files/ref_psy_add_4ed.pdf) |
 | Rhumatologie | COFER <br><span class="typography-caption">Collège Français des Enseignants en Rhumatologie</span> | 2020 | [lien](http://www.lecofer.org/liste-des-items-ecn.php) |
 | Urologie | CFEU <br><span class="typography-caption">Collège Français des Enseignants en Urologie</span> | 2021 | [lien](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/) |
 {{< /table >}}

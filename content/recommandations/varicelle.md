@@ -56,7 +56,7 @@ Varicelle
 - Pneumopathie varicelleuse  
   Pneumopathie interstitielle: toux, dyspnée majeure. Surtout avant 6 mois et chez l'adulte.
 - Complications exceptionnelles  
-  Hépatite, thrombopénie secondaire, néphropathie, arthrite, thrombose, complication oculaire, péricardite, pancréatite, orchite.
+  Hépatite, thrombopénie secondaire, néphropathie, arthrite, thrombose, complication oculaire, [péricardite]({{< relref "pericardite-aigue.md" >}}), [pancréatite]({{< relref "pancreatite-aigue.md" >}}), orchite.
 - Varicelle congénitale  
   Survenue chez femme enceinte avant 20 SA (risque congénital de 1%).
 

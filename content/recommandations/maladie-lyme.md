@@ -27,7 +27,7 @@ flowchart = true
 - Mesure de prévention des piqûres de tique en forêt puis inspection au retour
 - Prise en charge d'une piqûre de tique: pince ou tire-tique, auto-surveillance 30 jours, [signaler la piqûre](https://tiquotheque.fr/signalement/public/)
 - Recommandations pour la prise en charge d'un érythème migrant: survient dans les 30 jours, diagnostic clinique, antibiothérapie 14 jours, contrôle de la  guérison à J14
-- [Paralysie faciale]({{< relref "paralysie-faciale-idiopathique.md" >}}) ou péricardite idiopathique: sérologie borréliose systématique
+- [Paralysie faciale]({{< relref "paralysie-faciale-idiopathique.md" >}}) ou [péricardite idiopathique]({{< relref "pericardite-aigue.md" >}}): sérologie borréliose systématique
 - Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose (complication neurologique de la maladie de Lyme)
 
 {{%/article-summary%}}

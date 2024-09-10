@@ -44,7 +44,7 @@ Maladie cardiovasculaire, risque d'infarctus du myocarde multiplié par 6-10 dan
 - [Otite moyenne aiguë]({{< relref "otite-moyenne-aigue.md" >}})
 - Bronchite aiguë
 - [Pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}}) (grippale, pneumocoque, staphylocoque doré ou *Haemophilus*)
-- Extra-pulmonaire: myocardite, péricardite, encéphalite
+- Extra-pulmonaire: myocardite, [péricardite]({{< relref "pericardite-aigue.md" >}}), encéphalite
 - Décompensation d'une comorbidité
 
 ### Épidémiologie de la grippe en France

@@ -328,7 +328,7 @@ atriale
 - Obstruction sévère ou symptomatique à l'éjection ventriculaire gauche
 - Insuffisance cardiaque décompensée
 - Thrombose veineuse aiguë ± embolie pulmonaire
-- Myocardite, péricardite ou endocardite aiguës
+- Myocardite, [péricardite]({{< relref "pericardite-aigue.md" >}}) ou endocardite aiguës
 - Dissection aortique aiguë
 - Thrombus intra-cardiaque à haut risque emboligène
 - Incapacité à effectuer un exercice physique
