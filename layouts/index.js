@@ -1,7 +1,7 @@
  {{ $sass := resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint "sha384" }}
 
 // Service Worker
-const CACHE_VERSION = 'v3';
+const CACHE_VERSION = 'v4';
 const CACHE_NAME = 'my-cache-' + CACHE_VERSION;
 const FILES_TO_CACHE = [
   '/',
@@ -13,7 +13,6 @@ const FILES_TO_CACHE = [
   '/articles/',
   '/images/icons/articles.svg',
   '/scores/',
-  '/index.json',
   '/manifest.webmanifest',
   '/android-chrome-512x512.png',
   '/images/icons/banner-og.jpg',
@@ -63,14 +62,14 @@ self.addEventListener('fetch', function(event) {
   );
 });
 
-self.addEventListener('activate', function(event) {
+self.addEventListener('activate', (event) => {
   event.waitUntil(
-    caches.keys().then(function(cacheNames) {
+    caches.keys().then((cacheNames) => {
       return Promise.all(
-        cacheNames.filter(function(cacheName) {
+        cacheNames.filter((cacheName) => {
           // Return true if the cache name starts with 'my-cache-' and is not the current cache.
           return cacheName.startsWith('my-cache-') && cacheName !== CACHE_NAME;
-        }).map(function(cacheName) {
+        }).map((cacheName) => {
           // Delete the old cache.
           return caches.delete(cacheName);
         })
