@@ -82,7 +82,7 @@ Le bilan doit éliminer un [syndrome coronarien aigu]({{< relref "syndrome-coron
 {.alert .alert-warning}
 
 {{% /collapse %}}
-{{%collapse "Traitement de la pancréatite aiguë" %}}
+{{%collapse "Traitement de la cholécystite aiguë" %}}
 
 La prise en charge de la suspicion de cholécystite aiguë est une **urgence médico-chirurgicale** pour éliminer un diagnostic différentiel grave (SCA, pancréatite aiguë) et réaliser la **chirurgie** en urgence.
 
