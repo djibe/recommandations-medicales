@@ -178,8 +178,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Romano L, et al. Comparison of Current International Guidelines on Premature Ejaculation: 2024 Update. Diagnostics (Basel). 2024.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11353472/)
-- 
+[Romano L, et al. Comparison of Current International Guidelines on Premature Ejaculation: 2024 Update. Diagnostics (Basel). 2024.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11353472/)
 
 {{%/sources%}}
 {{% modal title="Score PEP pour l'éjaculation prématurée" id="modal-pep"%}}

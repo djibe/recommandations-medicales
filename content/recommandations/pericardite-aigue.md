@@ -35,7 +35,7 @@ flowchart = true
 Péricardite aiguë
 : Inflammation aiguë du péricarde d'origine inconnue ou virale (90% dite idiopathique, voire bactérienne ou tuberculose chez l'immunodéprimé) avec ou sans épanchement, atteignant principalement les hommes de 16 à 65 ans. L'évolution de la péricardite aiguë idiopathique est le plus souvent bénigne.
 : Les enjeux sont liés à la gravité des diagnostics différentiels ([SCA]({{< relref "syndrome-coronarien-aigu.md" >}}), [EP]({{< relref "embolie-pulmonaire.md" >}}), dissection aortique), aux risque de tamponnade et de formes chroniques.
-: La récidives de péricardite aiguë sont fréquentes (30% à 18 mois). À distance d'une péricardite aiguë idiopathique, la colchicine réduirait les récidives de moitié.
+: Les récidives de péricardite aiguë sont fréquentes (30% à 18 mois). À distance d'une péricardite aiguë idiopathique, la colchicine réduirait les récidives de moitié.
 
 Péricardite chronique
 : Péricardite durant plus de 3 mois.
@@ -68,7 +68,7 @@ Diagnostic de péricardite aiguë si au moins 2 critères suivants sont remplis:
 3. Signes ECG: apparition d'un sus-décalage du segment ST diffus ou sous-décalage du segment PR
 4. Épanchement péricardique
 
-Autres arguments diagnostiques bio-radiologiques: syndrome inflammatoire biologique, signes inflammatoires radiologiques.
+Autres arguments diagnostiques bio-radiologiques: syndrome inflammatoire biologique, signes inflammatoires échographiques.
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}

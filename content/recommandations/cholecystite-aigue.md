@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-09-01T15:30:01+02:00"
 publishdate = "2024-09-10"
-lastmod = "2024-09-10"
+lastmod = "2024-09-14"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
 sources = ["WSES"]
@@ -16,7 +16,7 @@ english = ["Acute cholecystitis", "acute calculus cholecystitis (ACC)"]
 sctid = "65275009"
 icd10 = ["K81.0"]
 image = true
-imageSrc = "Vésicule biliaire distendue avec paroi œdématiée, calculs, sludge et  une collection péricholécystique. Cas de Maulik S Patel, Radiopaedia.org, rID: 20542"
+imageSrc = "Échographie signant une cholécystite aiguë: vésicule biliaire distendue avec paroi œdématiée, calculs, sludge et  une collection péricholécystique. Cas de Maulik S Patel, Radiopaedia.org, rID: 20542"
 todo = "flow"
 +++
 
@@ -42,7 +42,7 @@ WSES
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic de cholécystite aiguë est clinico-bio-radiologique. La présentation clinique peut être très variable.
+Le diagnostic de cholécystite aiguë est clinico-bio-radiologique. La présentation clinique peut être très variable mais le tableau fébrile avec douleurs biliaires sans ictère est typique.
 
 ### Interrogatoire
 
@@ -50,9 +50,9 @@ Le diagnostic de cholécystite aiguë est clinico-bio-radiologique. La présenta
 - Traitements en cours
 - Historique des symptômes
 - Symptômes évocateurs de la cholécystite aiguë
-  - Signes généraux: fièvre, frissons
+  - Signes généraux: **fièvre**, frissons
   - Douleurs de colique hépatique: **douleurs de l'hypochondre droit ou épigastriques**  
-    Douleurs brutales, intenses de type broiement ou crampes, continues, irradiant en hémi-ceinture vers la scapula ou l'épaule droite, inhibant la respiration, durant de quelques minutes à quelques heures (< 6 heures).
+    Douleurs brutales, intenses de type broiement ou crampes, continues, irradiant en hémi-ceinture vers la scapula ou l'épaule droite, inhibant la respiration, durant plus de 6 heures au cours de la cholécystite aiguë (à la différence de la colique hépatique < 6 heures).
   - Signes digestifs: vomissements, anorexie
 
 ### Examen clinique
@@ -60,8 +60,8 @@ Le diagnostic de cholécystite aiguë est clinico-bio-radiologique. La présenta
 - Pression artérielle, fréquence cardiaque, température
 - Auscultation cardio-respiratoire
 - Examen abdominal  
-  Signe de Murphy: la palpation de l'hypochondre droit provoque une douleur qui inhibe l'inspiration profonde.
-- Signe d'angiocholite: ictère
+  Recherche de défense, contracture, signe de Murphy: la palpation de l'hypochondre droit provoque une douleur qui inhibe l'inspiration profonde.
+- Signe d'angiocholite: [ictère]({{< relref "ictere.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

@@ -64,6 +64,9 @@ EASL
 PBH
 : ponction-biopsie hépatique
 
+PNDS
+: protocole national de diagnostic et de soins
+
 SNFGE
 : Société Nationale Française de Gastro-Entérologie
 
@@ -223,6 +226,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Centre de référence maladies inflammatoires des voies biliaires et hépatites auto-immunes (MIVB-H), Filfoie. Cholangite Biliaire Primitive. PNDS. 2021.](https://has-sante.fr/jcms/p_3300344/fr/cholangite-biliaire-primitive)
 - [Lindor KD et al. Primary Biliary Cholangitis: 2018 Practice Guidance from the American Association for the Study of Liver Diseases. Hepatology. 2019.](https://journals.lww.com/hep/Fulltext/2019/01000/Primary_Biliary_Cholangitis__2018_Practice.32.aspx)
 
 {{%/sources%}}

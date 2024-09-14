@@ -18,7 +18,7 @@ english = ["Age-related macular degeneration (AMD)"]
 sctid = "267718000"
 icd10 = ["H35.3"]
 image = true
-imageSrc = "DMLA intermédiaire avec nombreux drusens de tailles variables au fond d'œil.National Eye Institute of the NIH, Public domain, via Wikimedia Commons"
+imageSrc = "DMLA intermédiaire avec nombreux drusens de tailles variables au fond d'œil. National Eye Institute of the NIH, Public domain, via Wikimedia Commons"
 todo = "SEO, doses cplts"
 flowchart = true
 +++
