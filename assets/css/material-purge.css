@@ -1256,28 +1256,6 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   transition: background-image 15ms linear 0.2s;
 }
 
-.btn-secondary {
-  background-color: #e87500;
-  color: white;
-}
-
-.btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
-  color: white;
-}
-
-.btn-secondary:hover {
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.08));
-}
-
-.btn-secondary:focus, .btn-secondary.focus {
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.24), rgba(255, 255, 255, 0.24));
-}
-
-.btn-secondary.active {
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.32), rgba(255, 255, 255, 0.32));
-  transition: background-image 15ms linear 0.2s;
-}
-
 .btn-lg {
   font-size: 0.9375rem;
   height: 2.5rem;
@@ -1362,29 +1340,6 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 .btn-outline-primary.disabled,
 .modal .btn-primary:disabled,
 .modal .btn-primary.disabled {
-  color: rgba(0, 0, 0, 0.37);
-}
-
-
-.modal .btn-secondary,
-.modal .btn-secondary:hover,
-.modal .btn-secondary:focus {
-  color: #e87500;
-}
-
-
-.modal .btn-secondary:hover {
-  background-image: linear-gradient(to bottom, rgba(232, 117, 0, 0.04), rgba(232, 117, 0, 0.04));
-}
-
-
-.modal .btn-secondary:focus {
-  background-image: linear-gradient(to bottom, rgba(232, 117, 0, 0.12), rgba(232, 117, 0, 0.12));
-}
-
-
-.modal .btn-secondary:disabled,
-.modal .btn-secondary.disabled {
   color: rgba(0, 0, 0, 0.37);
 }
 
