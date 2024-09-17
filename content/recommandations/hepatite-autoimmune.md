@@ -69,7 +69,7 @@ TH
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> Le diagnostic doit être évoqué devant toute élévation chronique des transaminases ne relevant pas d'une cause habituelle, en particulier virale. >> – *Filfoie*
+> Le diagnostic doit être évoqué devant toute élévation chronique des transaminases ne relevant pas d'une cause habituelle, en particulier virale. >> -- *Filfoie*
 {.alert .alert-info}
 
 Signes et symptômes à rechercher en cas de suspicion d'hépatite auto-immune (cytolyse chronique).
@@ -122,7 +122,7 @@ Signes et symptômes à rechercher en cas de suspicion d'hépatite auto-immune (
 - Échographie abdominale
 - Si doute: [TSH](/tags/tsh/), anticorps anti-TPO
 
-> – *PNDS 2021*
+> -- *PNDS 2021*
 
 Adresser au gastro-entérologue du centre de compétence pour la suite de la prise en charge.
 

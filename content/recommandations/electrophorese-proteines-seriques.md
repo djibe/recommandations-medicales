@@ -67,7 +67,7 @@ Indications à la réalisation de l'électrophorèse des protéines sériques (E
   - [Hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) (*PNDS 2021*)
 - [Pneumonie aiguë communautaire]({{< relref "pneumonie-aigue-communautaire.md" >}}) à germe encapsulé (pneumocoque, *H. influenzae*) chez le jeune (*CEP*)
 
-> – *HAS 2017*
+> -- *HAS 2017*
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -81,7 +81,7 @@ Bilan minimal de première intention en présence d'un pic monoclonal d'immunogl
   - IgM: LDH
 - Imagerie seulement si points d'appel
 
-> – *HAS 2017*
+> -- *HAS 2017*
 
 Le dosage des chaînes légères libres relève du spécialiste et n'est pas remboursé en ville
 {.alert .alert-info}
@@ -105,7 +105,7 @@ Personnes avec suspicion d'hémopathie maligne devant être adressées rapidemen
   - Ig monoclonale avec IgG > 15 g/L, IgA ou IgM > 10 g/L.
 {{%/warning%}}
 
-> – *HAS 2017*
+> -- *HAS 2017*
 
 Voir *Surveillance* pour les patients non adressés à l'hématologue.
 

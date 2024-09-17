@@ -154,7 +154,7 @@ Recommandations pour le bilan de première intention en ambulatoire en cas de su
 - Déterminations du cortisol salivaire à minuit (47€, non remboursé)  
   À 2 reprises sur des jours non consécutifs.
 
-> – *PNDS 2022*
+> -- *PNDS 2022*
 {{%/info%}}
 
 #### Prise en charge selon les résultats du bilan de la suspicion de Cushing
@@ -179,7 +179,7 @@ Sur prescription spécialisée, le bilan d'imagerie du syndrome de Cushing compr
 - Ionogramme urinaire, calciurie, phosphaturie
 - ECG
 
-> – *HAS 2010*
+> -- *HAS 2010*
 
 {{% /collapse %}}
 {{%collapse "Traitement du syndrome de Cushing" %}}

@@ -157,7 +157,7 @@ Un interrogatoire complet permet un diagnostic fiable de rhinite allergique (*SF
 
 ### Les tests cutanés allergéniques ou Prick tests
 
-> << Les tests cutanés allergéniques (TCA) ou prick tests doivent être réalisés en 1<sup>ère</sup> intention dans tout bilan étiologique de rhinite présumée allergique. >> – *SFORL*
+> << Les tests cutanés allergéniques (TCA) ou prick tests doivent être réalisés en 1<sup>ère</sup> intention dans tout bilan étiologique de rhinite présumée allergique. >> -- *SFORL*
 > << Les tests cutanés (...) lors d'une rhinite allergique **saisonnière** sont le plus souvent inutiles >>. – *Prescrire*
 {.alert .alert-info}
 

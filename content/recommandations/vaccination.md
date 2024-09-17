@@ -86,6 +86,8 @@ VVA
 
 **NB.** Le Nimenrix peut être réalisé à M6-M12 en remplacement du Neisvac M5-M12. Neisvac M5 et Nimenrix M12 est également possible. Le MenQuadfi peut être utilisé à 12 mois après un Nimenrix à 5 mois.
 
+{{< card-link-external title="Disponibilité des vaccins" url="https://www.infovac.fr/vaccins/disponibilite-des-vaccins" subtitle="Par Infovac">}}
+
 ### Vaccin rotavirus
 
 Informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours (pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles).
@@ -150,7 +152,7 @@ Lire le *Calendrier vaccinal* page 75.
 2. Tétanos
 3. Poliomyélite
 
-> – *[Loi 2007-293](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687781/2007-03-06)*
+> -- *[Loi 2007-293](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687781/2007-03-06)*
 
 ### Enfant né après le 1<sup>er</sup> janvier 2018
 
@@ -256,7 +258,7 @@ Injection sous-cutanée:
 - Avant 1 an: face antéro-latérale du tiers moyen de la cuisse
 - Après 1 an: face postérieure du bras
 
-> – *CNPU*
+> -- *CNPU*
 
 #### Sites où ne pas injecter
 

@@ -148,7 +148,7 @@ Indications au dépistage de l'hépatite B:
 - Drogues intraveineuses ou intranasales
 - [VIH]({{< relref "vih-sida.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}) ou autre [infection sexuellement transmissible](/tags/ist/) récente
 
-> – *CMIT 2023*
+> -- *CMIT 2023*
 
 {{% /collapse %}}
 {{%collapse "Personnes à vacciner contre l'hépatite B" %}}

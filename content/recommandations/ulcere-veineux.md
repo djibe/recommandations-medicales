@@ -54,7 +54,7 @@ Angiodermite nécrotique
 | IV     | > 36                     |
 {{< /table >}}
 
-> << En pratique, la prescription doit toujours comprendre la pression en mmHg, et éventuellement la classe >> – *HAS 2010*
+> << En pratique, la prescription doit toujours comprendre la pression en mmHg, et éventuellement la classe >> -- *HAS 2010*
 {.alert .alert-info}
 
 #### Contre-indications absolues à la compression médicale
@@ -160,7 +160,7 @@ Interrogatoire devant un ulcère de jambe:
 - Handicap moteur
 - Sujet âgé: évaluation gériatrique
 
-> << Les données de l'examen clinique ont une sensibilité et une spécificité insuffisantes pour porter un diagnostic étiologique >> – *HAS 2006*
+> << Les données de l'examen clinique ont une sensibilité et une spécificité insuffisantes pour porter un diagnostic étiologique >> -- *HAS 2006*
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -203,7 +203,7 @@ Consultation spécialisée (cardiologue, médecin vasculaire) en cas d'ulcère m
 
 ### Prélèvement bactérien
 
-> << Il est recommandé de ne pas réaliser de prélèvement bactériologique systématique des ulcères >> – *HAS 2006*
+> << Il est recommandé de ne pas réaliser de prélèvement bactériologique systématique des ulcères >> -- *HAS 2006*
 {.alert .alert-info}
 
 Culture bactérienne (aspiration ou biopsie du bord de l'ulcère) ou hémoculture uniquement en cas de signes de surinfection (voir *Clinique*).

@@ -102,7 +102,7 @@ Les critères diagnostiques du syndrome des ovaires polykystique (SOPK) nécessi
 3. Ovaires polykystiques en échographie et exclusion des autres causes (hyperplasie congénitale des surrénales, tumeurs sécrétrice d'androgènes, syndrome de Cushing)  
   ou hormone antimüllérienne (AMH) élevée (*ESHRE 2023*)
 
-> – [Rotterdam ESHRE/ASRM-Sponsored PCOS Consensus Workshop Group. Revised 2003 consensus on diagnostic criteria and long-term health risks related to polycystic ovary syndrome. Fertil Steril. 2004.](https://www.fertstert.org/article/S0015-0282(03)02853-X/fulltext)
+> -- [Rotterdam ESHRE/ASRM-Sponsored PCOS Consensus Workshop Group. Revised 2003 consensus on diagnostic criteria and long-term health risks related to polycystic ovary syndrome. Fertil Steril. 2004.](https://www.fertstert.org/article/S0015-0282(03)02853-X/fulltext)
 
 ### Interrogatoire
 
@@ -229,7 +229,7 @@ Traitement et suivi du SOPK:
 - Information de la patiente: [guide Ameli SOPK](https://www.ameli.fr/hauts-de-seine/assure/sante/themes/syndrome-ovaires-polykystiques)
 - Associations de patientes: [Asso'SOPK](https://www.asso-sopk.com), [SOPK Europe](https://www.sopkeurope.org)
 
-> << Rassurer les femmes atteintes de SOPK sur le fait qu'une grossesse peut souvent être obtenue naturellement ou avec assistance médicale >> – *ESHRE 2023*
+> << Rassurer les femmes atteintes de SOPK sur le fait qu'une grossesse peut souvent être obtenue naturellement ou avec assistance médicale >> -- *ESHRE 2023*
 
 ### Traitement hormonal par contraceptions estroprogestative
 

@@ -39,7 +39,7 @@ Chapitres liés: [insuffisance rénale chronique]({{< relref "insuffisance-renal
 
 Polykystose rénale autosomique dominante
 : Maladie génétique à transmission autosomique dominante fréquente (prévalence de 0,1 %) entraînant la compression et la fibrose du parenchyme rénal par de multiples kystes. Elle est à l'origine de 8 à 10 % des insuffisances rénales terminales (survient entre 50 et 70 ans).
-: Les gènes PKD<sub>1</sub> (85%) et PKD<sub>2</sub> (15%, moins sévère) sont les porteurs des mutations qui sont spécifiques à chaque famille. L'évolution diverge donc d'une famille à l'autre. 5% des cas surviennent *de novo*.
+: Les gènes PKD<sub>1</sub> (85%) et PKD~2~ (15%, moins sévère) sont les porteurs des mutations qui sont spécifiques à chaque famille. L'évolution diverge donc d'une famille à l'autre. 5% des cas surviennent *de novo*.
 
 ### Critères diagnostiques de la polykystose rénale chez les apparentés
 
@@ -92,7 +92,7 @@ La polykystose rénale est le plus souvent découverte chez l'adulte jeune sur l
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> << Toute fièvre d'origine incertaine au cours de la PKRAD justifie un ECBU >> – *CUEN 2023*. L'ECBU affirme une pyélonéphrite mais ne permet pas d'éliminer un abcès rénal.
+> << Toute fièvre d'origine incertaine au cours de la PKRAD justifie un ECBU >> -- *CUEN 2023*. L'ECBU affirme une pyélonéphrite mais ne permet pas d'éliminer un abcès rénal.
 {.alert .alert-warning}
 
 {{%info%}}

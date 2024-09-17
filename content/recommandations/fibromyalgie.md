@@ -250,7 +250,7 @@ Avis d'une *structure douleur chronique* (SDC) en cas d'échec de la prise en ch
 - Traitements sans efficacité prouvée: biofeedback, capsaïcine, hypnothérapie, massage
 - Traitement contre-indiqué: chiropraxie
 
-> – *EULAR*
+> -- *EULAR*
 
 La stimulation magnétique transcrânienne répétitive (STMr) bénéficie d'une recommandation faible de l'Académie européenne de neurologie.
 

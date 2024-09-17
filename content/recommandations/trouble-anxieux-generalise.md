@@ -92,7 +92,7 @@ Prendre en compte la variabilité des symptômes liée à la culture pour appré
 Trouble d'anxiété généralisée (6B00)
 : Le trouble d'anxiété généralisée se caractérise par des symptômes d'anxiété marqués qui persistent pendant au moins plusieurs mois, la plupart du temps, se manifestant sous la forme soit d'une appréhension générale (c.-à-d. << anxiété flottante >>) soit d'une crainte excessive focalisée sur plusieurs événements du quotidien, concernant le plus souvent la famille, la santé, les finances et l'école ou le travail, accompagnés de symptômes supplémentaires tels qu'une tension musculaire ou une agitation motrice, une suractivité du système autonome sympathique, une expérience subjective de nervosité, des difficultés de concentration, une irritabilité ou des troubles du sommeil. Les symptômes entraînent une détresse importante ou une déficience significative dans les domaines personnel, familial, social, scolaire, professionnel ou d'autres domaines de fonctionnement importants. Les symptômes ne sont pas une manifestation d'une autre affection médicale et ne sont pas dus à l'effet d'une substance ou d'un médicament sur le système nerveux central.
 
-> – [Classification Internationale des Maladies 11e version (CIM-11)](https://icd.who.int/browse11/l-m/fr#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f1712535455)
+> -- [Classification Internationale des Maladies 11e version (CIM-11)](https://icd.who.int/browse11/l-m/fr#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f1712535455)
 
 ### Critères diagnostiques CIM-10 du TAG
 
@@ -101,12 +101,12 @@ Anxiété généralisée (F41.1)
 
 La CIM-10 de mentionne pas la chronicité des troubles pendant au moins 6 mois.
 
-> – [Classification Internationale des Maladies 10e version (CIM-10)](https://icd.who.int/browse10/2008/fr#/F41.1)
+> -- [Classification Internationale des Maladies 10e version (CIM-10)](https://icd.who.int/browse10/2008/fr#/F41.1)
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << Les signes et symptômes de base de l'anxiété peuvent être présents chez des sujets indemnes de tout trouble psychiatrique.  >> – *CNUP*
+> << Les signes et symptômes de base de l'anxiété peuvent être présents chez des sujets indemnes de tout trouble psychiatrique.  >> -- *CNUP*
 
 ### Repérer un trouble anxieux
 
@@ -189,7 +189,7 @@ Bilan biologique minimal en cas de trouble anxieux:
 - TSH
 - ± Toxiques urinaires
 
-> – *ACP 2019*
+> -- *ACP 2019*
 
 {{% /collapse %}}
 {{%collapse "Traitement du trouble anxieux généralisé" %}}

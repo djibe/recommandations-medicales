@@ -56,7 +56,7 @@ TETA
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << tout retard diagnostique expose le patient à des atteintes irréversibles >> – *PNDS 2022*
+> << tout retard diagnostique expose le patient à des atteintes irréversibles >> -- *PNDS 2022*
 
 ### Interrogatoire
 
@@ -170,7 +170,7 @@ Le cuivre échangeable sérique est aussi un marqueur de sévérité. > 2,08 µm
 {{% /collapse %}}
 {{%collapse "Traitement de la maladie de Wilson" %}}
 
-> << Toute personne nouvellement diagnostiquée doit être traitée, même si elle est asymptomatique >> – *PNDS 2022*.  
+> << Toute personne nouvellement diagnostiquée doit être traitée, même si elle est asymptomatique >> -- *PNDS 2022*.  
 Le traitement est poursuivi **à vie** et doit être débuté le plus précocement possible.
 {.alert .alert-warning}
 
@@ -193,7 +193,7 @@ La prise en charge de la maladie de Wilson est pluridisciplinaire (hépatologue,
 
 ### Pour en savoir plus: les traitements spécifiques de la maladie de Wilson
 
-> << Tous les patients doivent avoir un traitement spécifique de la MW qui doit impérativement être pris à vie >> – *PNDS 2022*
+> << Tous les patients doivent avoir un traitement spécifique de la MW qui doit impérativement être pris à vie >> -- *PNDS 2022*
 {.alert .alert-info}
 
 Les chélateurs du cuivre et le zinc sont les traitements les plus efficaces de la maladie de Wilson et doivent être poursuivis à vie.

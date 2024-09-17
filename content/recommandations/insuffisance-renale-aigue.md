@@ -132,7 +132,7 @@ Consultation de contrôle à 3 mois après la correction de l'épisode d'insuffi
 {{% /collapse %}}
 {{%collapse "Rein et injections de produits de contraste" %}}
 
-> << il n'est pas recommandé de doser la créatininémie pour estimer le DFG avant une IRM injectée >> car << une insuffisance rénale aiguë avec les produits gadolinés en IRM, n'existe pas aux doses utilisées >> – *SFNDT 2020*
+> << il n'est pas recommandé de doser la créatininémie pour estimer le DFG avant une IRM injectée >> car << une insuffisance rénale aiguë avec les produits gadolinés en IRM, n'existe pas aux doses utilisées >> -- *SFNDT 2020*
 {.alert .alert-info}
 
 Insuffisance rénale aiguë post-contraste (IRA-PC)

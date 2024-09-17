@@ -45,7 +45,7 @@ Tabagisme
 Le tabagisme est la deuxième cause de mortalité mondiale (5,1 millions de décès/an) et la première cause évitable de mortalité.
 : **Notes:** Ne pas utiliser les termes bien/mal mais plutôt bon/mauvais pour la santé. Rappeler que l'arrêt du tabac n'est pas une question de volonté mais qu'il s'agit d'une addiction nécessitant le suivi d'un professionnel.
 
-> << Il n'existe pas de seuil au-dessous duquel fumer ne représente pas de risque >> – *SPF*
+> << Il n'existe pas de seuil au-dessous duquel fumer ne représente pas de risque >> -- *SPF*
 
 Fumeur actif
 : Fumeur non sevré depuis 12 mois (*Collège*).
@@ -212,7 +212,7 @@ Rappeler que l'arrêt du tabac n'est pas qu'une question de volonté mais qu'il 
 - Continuer à fumer aggravera votre bronchite ou votre asthme (...), en revanche arrêter de fumer pourra améliorer votre santé de façon importante
 - La fréquence des infections respiratoires des enfants est supérieure dans un environnement fumeur
 
-> – *HAS 2014*
+> -- *HAS 2014*
 {{%/info%}}
 
 ### 4) Évaluation de la motivation à l'arrêt
@@ -366,10 +366,10 @@ Possible en cas d'antécédents neuro-psychiatriques.
 {{%info%}}
 Injonctions paradoxales pour le généraliste:
 
-- << L'efficacité du vapotage dans le cadre du sevrage tabagique reste controversée. >> – *GOLD 2024*
-- << Les connaissances fondées sur les preuves sont insuffisantes pour proposer les SEDEN comme aides au sevrage tabagique dans la prise en charge des fumeurs par les professionnels de santé >> – *HCSP 2022*
+- << L'efficacité du vapotage dans le cadre du sevrage tabagique reste controversée. >> -- *GOLD 2024*
+- << Les connaissances fondées sur les preuves sont insuffisantes pour proposer les SEDEN comme aides au sevrage tabagique dans la prise en charge des fumeurs par les professionnels de santé >> -- *HCSP 2022*
 - << La cigarette électronique peut être considérée comme une aide au sevrage tabagique (*Collège*) >>
-- << les CE [NDLR cigarettes électroniques] avec nicotine aident plus de personnes à arrêter de fumer que les TSN. Les CE avec nicotine aident probablement plus de personnes à arrêter de fumer que les CE sans nicotine, mais d'autres études sont encore nécessaires pour le confirmer. >> – *Cochrane 2022*
+- << les CE [NDLR cigarettes électroniques] avec nicotine aident plus de personnes à arrêter de fumer que les TSN. Les CE avec nicotine aident probablement plus de personnes à arrêter de fumer que les CE sans nicotine, mais d'autres études sont encore nécessaires pour le confirmer. >> -- *Cochrane 2022*
 {{%/info%}}
 
 Synthèse des 13 recommandations du *Haut Conseil de la Santé Publique* pour la prise en charge par cigarette électronique (SEDEN) du sevrage tabagique (les 5 premières nous concernent):
@@ -397,7 +397,7 @@ Synthèse des 13 recommandations du *Haut Conseil de la Santé Publique* pour la
 12. Des études de cohorte sont nécessaires pour analyser le rôle initiateur des SEDEN
 13. Les connaissances sur le rôle des saveurs sur l'attractivité des jeunes doivent être analysées
 
-> – *HCSP 2022*; **SEDEN** = systèmes électroniques de délivrance de la nicotine (cigarette électronique)
+> -- *HCSP 2022*; **SEDEN** = systèmes électroniques de délivrance de la nicotine (cigarette électronique)
 
 Pour en savoir plus, regarder le webinaire SPLF dans la section suivante (*Pour en savoir plus*).
 

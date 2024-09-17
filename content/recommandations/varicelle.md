@@ -150,7 +150,7 @@ Vaccination recommandée en l'absence d'antécédent de varicelle (ou histoire d
   La vaccination doit avoir lieu dans les 3 jours suivant le contact.
 6. Professionnels de santé ou de la petite enfance (crèches, collectivités)
 
-> – *Calendrier vaccinal*
+> -- *Calendrier vaccinal*
 
 InfoVac-France conseille la vaccination varicelle pour tous à partir de 12 mois ([article](https://www.infovac.fr/vaccins/maladies-evitables/varicelle)).
 
@@ -258,7 +258,7 @@ Sujets exposés à la varicelle ayant une indication aux immunoglobulines:
 - Prématurés et nouveau-nés < 1 mois dont la mère est séronégative ou de statut sérologique inconnu
 - Nouveau-nés dont la mère a présenté une varicelle dans les 5 jours qui ont précédé leur naissance ou dans les 2 jours après leur naissance
 
-> – *ANSM 2021*
+> -- *ANSM 2021*
 
 {{%/info%}}
 

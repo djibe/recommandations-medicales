@@ -141,7 +141,7 @@ Le diagnostic de canal lombaire étroit nécessite une **IRM lombaire** (voire u
 
 Adresser au neurologue une fois le diagnostic de canal lombaire étroit posé à l'imagerie.
 
-> << Comme dans les lomboradiculalgies d'origine discale, la concordance radioclinique n'est pas systématique. >> – *COFER*
+> << Comme dans les lomboradiculalgies d'origine discale, la concordance radioclinique n'est pas systématique. >> -- *COFER*
 
 ### Électrophysiologie : électromyogramme et potentiels évoqués
 

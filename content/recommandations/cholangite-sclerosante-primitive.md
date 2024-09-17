@@ -77,7 +77,7 @@ TH
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << le diagnostic de CSP doit être évoqué devant toute anomalie chronique des tests hépatiques d'étiologie indéterminée après le bilan habituel >> – *PNDS 2022*
+> << le diagnostic de CSP doit être évoqué devant toute anomalie chronique des tests hépatiques d'étiologie indéterminée après le bilan habituel >> -- *PNDS 2022*
 {.alert .alert-info}
 
 ### Interrogatoire
@@ -107,7 +107,7 @@ Les signes et symptômes de la cholangite sclérosante primitive sont très vari
 
 ### Examen clinique
 
-> << L'examen clinique est le plus souvent normal dans les formes débutantes. >> – *PNDS 2022*
+> << L'examen clinique est le plus souvent normal dans les formes débutantes. >> -- *PNDS 2022*
 
 - Poids, taille, IMC
 - Pression artérielle, fréquence cardiaque
@@ -132,7 +132,7 @@ Les signes et symptômes de la cholangite sclérosante primitive sont très vari
 - Sérologie VIH
 - Échographie abdominale
 
-> – *PNDS 2022*
+> -- *PNDS 2022*
 {{%/info%}}
 
 Adresser à l'hépato-gastroentérologue du **centre de compétence** avec le bilan initial pour affirmer le diagnostic de cholangite sclérosante primitive.
@@ -157,7 +157,7 @@ Le bilan complémentaire après le diagnostic de cholangite sclérosante primiti
 
 #### Cholangio-IRM 3D
 
-La **cholangio IRM 3D** avec étude du pancréas est l'<mark>examen diagnostique de référence</mark> de la cholangite sclérosante primitive (Se 86%, Spe 94%). Elle doit être interprétée par un radiologue expérimenté et un avis d'un centre expert est nécessaire pour le diagnostic.
+La **cholangio IRM 3D** avec étude du pancréas est l'==examen diagnostique de référence== de la cholangite sclérosante primitive (Se 86%, Spe 94%). Elle doit être interprétée par un radiologue expérimenté et un avis d'un centre expert est nécessaire pour le diagnostic.
 
 Dans 10% des cas, l'atteinte est sur les petites voies biliaires et la cholangio-IRM ne suffit pas au diagnostic.
 
@@ -209,7 +209,7 @@ La transplantation hépatique est le seul traitement efficace mais ses indicatio
 La survie est bonne (91% à 1 an et 85% à 5 ans) mais les récidives sont fréquentes (20-30 %).
 
 {{% /collapse %}}
-{{%collapse "Suivi de la cholangite sclérosante primitive" %}}
+{{%collapse "Suivi" %}}
 
 Le suivi de la cholangite sclérosante primitive est spécialisé au centre de compétence ([annuaire des centres de compétence](https://www.filfoie.com/ou-consulter/carte-interactive/?fwp_type_de_public=adulte&fwp_rseau_centre=mivb-h)), il est au moins annuel:
 

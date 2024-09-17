@@ -42,13 +42,13 @@ Liste des corticoïdes inhalés (CSI) disponibles en France pour le traitement d
 
 ### Bithérapies corticoïdes et ß2-agonistes (CSI + LABA)
 
-Corticoïdes inhalés associés aux bêta<sub>2</sub>-agoniste de longue durée d'action (LABA).
+Corticoïdes inhalés associés aux bêta~2~-agoniste de longue durée d'action (LABA).
 
 {{< traitements/laba-csi >}}
 
 ### Trithérapie corticoïdes, ß2-agonistes et anticholinergiques (CSI + LABA + LAMA)
 
-Corticoïdes inhalés associés aux bêta<sub>2</sub>-agoniste de longue durée d'action (LABA) et anticholinergique de longue durée d'action (LAMA = {{%lang%}}Long Acting Muscarinic Agent{{%/lang%}}).
+Corticoïdes inhalés associés aux bêta~2~-agoniste de longue durée d'action (LABA) et anticholinergique de longue durée d'action (LAMA = {{%lang%}}Long Acting Muscarinic Agent{{%/lang%}}).
 
 {{< traitements/laba-lama-csi >}}
 

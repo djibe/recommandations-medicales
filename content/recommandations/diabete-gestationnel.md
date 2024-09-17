@@ -30,7 +30,7 @@ imageSrc = "Illustration du diabète gestationnel par vectorjuice / Freepik"
 - Objectifs glycémiques du diabète gestationnel ou d'une grossesse chez la diabétique: HbA1c cible 6,5%, glycémie à jeun < 0,95 g/L et post-prandiale H2 < 1,20 g/L
 - Objectif de terme de grossesse: 39 SA
 - Glycémie à la consultation post-natale et tous les 1-3 ans à vie
-- En pandémie Covid-19, si HGPO non réalisable, remplacer par GAJ + HbA<sub>1c</sub> avec un seuil diagnostique à 5,7% (*[Vambergue 2020](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)*)
+- En pandémie Covid-19, si HGPO non réalisable, remplacer par GAJ + HbA~1c~ avec un seuil diagnostique à 5,7% (*[Vambergue 2020](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)*)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -99,7 +99,7 @@ Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque par
 6. [Syndrome des ovaires polykystiques]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) (SOPK, *ESHRE 2023*)  
   Dès le désir de grossesse ou rattrapage à 24-28 SA.
 
-> – *CNGOF, SFD 2010*
+> -- *CNGOF, SFD 2010*
 {{%/info%}}
 
 ### Comment dépister le diabète gestationnel ?

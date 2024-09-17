@@ -58,7 +58,7 @@ Principaux aliments riches en vitamine D: poissons et produits laitiers (*Anses*
 - **Déficit en vitamine D**: 75% des adultes et 70% des enfants
 - **Carence en vitamine D**: 7% des adultes, 13% des adolescents et 4% des enfants
 
-> – *Étude Esteban (Santé Publique France)*
+> -- *Étude Esteban (Santé Publique France)*
 
 ### Abréviations
 
@@ -163,7 +163,7 @@ Situations pouvant faire contrôler le taux de vitamine D:
   Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>.
 6. Traitement préconisant une mesure de la vitamine D (ex. [biphosphonate]({{< relref "osteoporose.md" >}}))
 
-> – *HAS 2013* et *Conditions de prise en charge par l'Assurance Maladie*
+> -- *HAS 2013* et *Conditions de prise en charge par l'Assurance Maladie*
 
 et aussi
 
@@ -194,7 +194,7 @@ Posologie selon le résultat du dosage de vitamine D:
 
 Puis enchaîner sur le [protocole d'entretien](#protocole-dentretien-après-carence-en-vitamine-d). Utiliser des ampoules de 100.000 UI en cas de nécessité d'une 2<sup>e</sup> correction.
 
-> – Protocole de correction d'une carence en vitamine D selon *Souberbielle JC 2019*
+> -- Protocole de correction d'une carence en vitamine D selon *Souberbielle JC 2019*
 
 ### Protocole d'entretien après carence en vitamine D
 

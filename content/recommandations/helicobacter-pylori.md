@@ -210,7 +210,7 @@ La France est un pays de faible incidence d'*Helicobacter pylori*:
   - Purpura thrombopénique immunologique de l'adulte
   - Souhait du patient
 
-> – *GEFH 2021*
+> -- *GEFH 2021*
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -223,7 +223,7 @@ Indications à la sérologie (test diagnostique) chez le sujet asymptomatique av
 - Antécédent d'ulcère gastro-duodénal sans preuve d'éradication d'*HP*
 - Purpura thrombopénique immunologique
 
-> – *HAS 2017*
+> -- *HAS 2017*
 
 **NB.** Aucun intérêt de la sérologie *HP* pour le contrôle de la guérison.
 
@@ -245,7 +245,7 @@ Indications à l'endoscopie en première intention:
 - Lymphome gastrique du MALT
 - [Chirurgie bariatrique]({{< relref "obesite-adulte.md" >}}) prévue
 
-> – *HAS 2017*
+> -- *HAS 2017*
 
 {{% /collapse %}}
 {{%collapse "Traitement guidé de Helicobacter pylori avec antibiogramme" %}}

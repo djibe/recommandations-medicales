@@ -151,7 +151,7 @@ La prise en charge de l'éjaculation prématurée associe:
 - Sexothérapie de type cognitivo-comportemental impliquant la/le partenaire
 - Si dysfonction érectile: la traiter préalablement
 
-> << Nous ne recommandons pas d'utiliser les α-1 bloquants, ni le tramadol chez les patients atteints d'EP. >> – *AIUS 2023*
+> << Nous ne recommandons pas d'utiliser les α-1 bloquants, ni le tramadol chez les patients atteints d'EP. >> -- *AIUS 2023*
 {.alert .alert-warning}
 
 {{% /collapse %}}

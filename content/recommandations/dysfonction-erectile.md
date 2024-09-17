@@ -206,7 +206,7 @@ Rechercher des signes de [syndrome de Cushing]({{< relref "syndrome-cushing.md" 
 - NFS
 - Ionogramme, créatininémie et DFG
 - Bilan hépatique (sauf < 5 ans)
-- Glycémie à jeun (sauf < 1 an) ou HbA<sub>1c</sub>
+- Glycémie à jeun (sauf < 1 an) ou HbA~1c~
 - Bilan lipidique (sauf < 1 an)
 - PSA après 50 ans (ou 45 si antécédents familiaux)
 - Ferritinémie (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
@@ -425,7 +425,7 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 - Les comportements de pénétration hâtive, de précipitation ou d'insistance doivent être évités car ils aggravent les problèmes d'érection
 - Plusieurs prises peuvent être nécessaires avant d'être satisfait d'un traitement de l'érection
 
-> – *AIUS*
+> -- *AIUS*
 
 {{% /collapse %}}
 {{%sources%}}

@@ -65,7 +65,7 @@ SAPL
 - Si enfant vulnérable: rattrapage [grippe]({{< relref "grippe.md" >}})
 - Si mère séronégative: [varicelle]({{< relref "varicelle.md" >}}), rubéole
 
-> – *Calendrier vaccinal*
+> -- *Calendrier vaccinal*
 
 {{% /collapse %}}
 {{%collapse "Prévention des thromboses après césarienne" %}}

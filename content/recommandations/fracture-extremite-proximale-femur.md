@@ -113,4 +113,4 @@ La mise en traction du membre inférieur pré-opératoire n'est pas systématiqu
 
 {{%/sources%}}
 
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–
+≤≥±®æœŒÈ²³ÂSpO~2~–

@@ -113,11 +113,11 @@ Recommandations pour la prise en charge de l'otite moyenne aiguë selon l'âge:
 - Si ≥ 8 OMA/an avant 4 ans: adresser au pédiatre pour la recherche d'un déficit immunitaire héréditaire (DIH, *CNUP*)
 - Si ≥ OMA/an après 4 ans: bilan de DIH
 
-> – *HAS, SPILF, GPIP 2024*
+> -- *HAS, SPILF, GPIP 2024*
 
 Dans tous les cas, DRP, traitement antalgique voire antipyrétique et nouvelle consultation à 48-72 heures en l'absence d'amélioration.
 
-> << des affections mineures, comme une rhinopharyngite, une otite, une laryngite, une bronchite ou une diarrhée modérée, ne sont pas des contre-indications à la vaccination. >> – *[Infovac-France](https://www.infovac.fr/pratique-vaccinale/contre-indications-vaccinales)*
+> << des affections mineures, comme une rhinopharyngite, une otite, une laryngite, une bronchite ou une diarrhée modérée, ne sont pas des contre-indications à la vaccination. >> -- *[Infovac-France](https://www.infovac.fr/pratique-vaccinale/contre-indications-vaccinales)*
 
 Aucune indication aux AINS, corticoïdes ou antibiotiques auriculaires.
 {.alert .alert-warning}
@@ -130,7 +130,7 @@ Recommandations pour la prise en charge par antibiotiques de l'otite moyenne aig
 
 Antibiothérapie systématique pendant **10 jours**:
 
-- <mark>[Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66773446&typedoc=R) 80 mg/kg/j (max 3 g/j) en **2 prises**</mark> (80-100 selon *GPIP 2023*)
+- ==[Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66773446&typedoc=R) 80 mg/kg/j (max 3 g/j) en **2 prises**== (80-100 selon *GPIP 2023*)
 - Syndrome otite-conjonctivite: amoxicilline-acide clavulanique 1,5 dose/kg x 2/j (80 mg/kg/j en 2 prises) ou amoxicilline (idem ci-dessus selon *GPIP 2023*)
 - Si allergie documentée aux pénicillines: [céfpodoxime](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67932983&typedoc=R) 8 mg/kg/j (max 400 mg/j) en 2 prises
 - Si allergie aux bêta-lactamines: triméthoprime-sulfaméthoxazole 6/30 mg/kg/j (max 160/800 mg/j) en 2 prises
@@ -139,7 +139,7 @@ Antibiothérapie systématique pendant **10 jours**:
 
 Antibiothérapie si: symptômes mal tolérés, otorrhée ou aggravation après 48 heures de surveillance **pendant 5 jours** (10 jours si **otorrhée** ou **otite récidivante** > 4 jours après l'arrêt des antibiotiques):
 
-- <mark>Amoxicilline 80 mg/kg/j (max 3 g/j) en 2 prises</mark> (80-100 selon *GPIP 2023*)
+- ==Amoxicilline 80 mg/kg/j (max 3 g/j) en 2 prises== (80-100 selon *GPIP 2023*)
 - Syndrome otite-conjonctivite: amoxicilline-acide clavulanique 1,5 dose-kg x 2/j (80 mg/kg/j en 2 prises, max 3 g/j) ou amoxicilline (idem ci-dessus selon *GPIP 2023*)
 - Si allergie: céfpodoxime 8 mg/kg/j (max 400 mg/j) en 2 prises
 - Si allergie aux bêta-lactamines: triméthoprime-sulfaméthoxazole 6/30 mg/kg/j (max 160/800 mg/j) en 2 prises
@@ -166,7 +166,7 @@ Avis spécialisé ORL en cas d'échec à 48-72 heures chez l'adulte. – *HAS/SP
 
 En cas d'échec de la première ligne **chez l'enfant**:
 
-- Par amoxicilline: <mark>amoxicilline-acide clavulanique 80 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours</mark>  
+- Par amoxicilline: ==amoxicilline-acide clavulanique 80 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours==  
   voire céfpodoxime 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 10 jours
 - Par céfpodoxime: amoxicilline 150 mg/kg en 3 prises (max 3 g/j)
 - Par amoxicilline-acide clavulanique: ceftriaxone 50 mg/kg/j IM/IV pendant 3 jours

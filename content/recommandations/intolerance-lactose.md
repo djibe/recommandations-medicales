@@ -98,7 +98,7 @@ Après 2 semaines d'éviction du lactose, une amélioration significative doit �
 Le lactose est alors réintroduit (250 mL de lait ≥ 2 fois dans la semaine chez l'enfant) comme test diagnostique avec résurgence des symptômes qui signe l'intolérance au lactose.  
 [Protocole d'éviction du lactose chez l'enfant](https://www.chusj.org/CORPO/files/c6/c652d9b5-7b5e-40b2-9f92-8f231078013f.pdf)
 
-> – *Roy 2016*
+> -- *Roy 2016*
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'intolérance au lactose" %}}

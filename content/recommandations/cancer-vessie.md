@@ -75,7 +75,7 @@ TVNIM
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << Une hématurie macroscopique doit systématiquement faire évoquer le diagnostic de cancer de la vessie >> – *HAS, INCa*
+> << Une hématurie macroscopique doit systématiquement faire évoquer le diagnostic de cancer de la vessie >> -- *HAS, INCa*
 {.alert .alert-info}
 
 ### Interrogatoire

@@ -204,7 +204,7 @@ Une mesure standardisée est nécessaire pour le contrôle des objectifs tension
 - Information du patient  
   Donner au patient ses mesures oralement et par écrit.
 
-> – *ESH 2024* ([poster (PDF)](https://www.stridebp.org/wp-content/uploads/Office_BP_measurements_Poster.pdf))
+> -- *ESH 2024* ([poster (PDF)](https://www.stridebp.org/wp-content/uploads/Office_BP_measurements_Poster.pdf))
 
 L'automesure tensionnelle doit être utilisée en complément (effet blouse blanche fréquent, hypertension masquée, hypertension résistante), d'autant plus si les valeurs sont limites 130-159 / 85-99 mmHg.
 
@@ -385,7 +385,7 @@ Mesures hygiéno-diétetiques au long cours pour la prise en charge de l'hyperte
 - Contrôle du stress: méditation, yoga
 - Associations de patients: [Comité Français de Lutte Contre l'Hypertension Artérielle (CFLCHTA)](http://www.comitehta.org), [Fédération Française de Cardiologie](https://www.fedecardio.org)
 
-> – *ESH 2023* et *ESC 2021*
+> -- *ESH 2023* et *ESC 2021*
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hypertension artérielle" %}}

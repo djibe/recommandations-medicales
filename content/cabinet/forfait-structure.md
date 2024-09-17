@@ -84,7 +84,7 @@ Il est **majoré** de 20 % si plus du tiers des documents sont déposés sous fo
 
 Il est également pondéré en fonction de la **taille de la patientèle** (référence de 800 patients selon la patientèle de référence (article 27.3) utilisée pour la calcul de la ROSP).
 
-> << Le nombre de points attribués au médecin est défini pour une patientèle moyenne de 800 patients pour un médecin traitant des patients de seize ans et plus, 600 patients pour un médecin traitant des patients âgés de moins de 16 ans >> – *Article 27.3 de la Convention médicale 2016*
+> << Le nombre de points attribués au médecin est défini pour une patientèle moyenne de 800 patients pour un médecin traitant des patients de seize ans et plus, 600 patients pour un médecin traitant des patients âgés de moins de 16 ans >> -- *Article 27.3 de la Convention médicale 2016*
 
 ## Abréviations
 

@@ -129,7 +129,7 @@ Prise en charge et traitement de l'hypotension orthostatique:
 - Rechercher et corriger les autres facteurs de {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}}
 - Si HTO sévère: réduire le traitement antihypertenseur
 
-> – *ESH 2023, ESC 2018 et SFHTA 2014*
+> -- *ESH 2023, ESC 2018 et SFHTA 2014*
 
 En cas d'hypotension orthostatique résistante, avis cardiologique pour envisager un traitement spécifique (midodrine, fludrocortisone).
 
@@ -147,7 +147,7 @@ Apprendre à identifier les symptômes, connaître les mesures hygiéno-diétét
   - S'accroupir
 - Activation du réflexe gastro-sympathique: boire un grand verre d'eau
 
-> – *SFHTA 2014*
+> -- *SFHTA 2014*
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'hypotension orthostatique" "show" %}}

@@ -137,7 +137,7 @@ Bilan de première intention pour la prise en charge d'une lymphopénie:
   - Sérologies VIH 1 et 2, HTLV 1 et 2
   - Phénotypage lymphocytaire T, B et NK
 
-> – *Régent 2012* et *Berezné 2006*
+> -- *Régent 2012* et *Berezné 2006*
 
 Réaliser le bilan initial et adresser à l'hématologue.
 

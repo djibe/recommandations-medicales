@@ -91,7 +91,7 @@ Situations où une hyponatrémie nécessite une prise en charge urgente:
   - Convulsions
   - Coma avec {{< modal-btn modal-glasgow >}}score de Glasgow{{< /modal-btn >}} ≤ 8
 
-> – *ERBP 2014*
+> -- *ERBP 2014*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -159,7 +159,7 @@ Bilan de première intention d'une hyponatrémie:
 - Hypovolémie ou euvolémie: [TSH](/tags/tsh/) et cortisol à 8 heures
 - Si osmolalité plasmatique élevée:
   - Natriurèse, kaliurièse, glycosurie et urée urinaire sur échantillon
-  - pour le calcul de l'osmolalité urinaire sur échantillon (chacun en mmol/L) = <code>(NaU + K U) x 2 + glycosurie + Urée U</code> mOsm/kg H<sub>2</sub>O
+  - pour le calcul de l'osmolalité urinaire sur échantillon (chacun en mmol/L) = <code>(NaU + K U) x 2 + glycosurie + Urée U</code> mOsm/kg H~2~O
 
 **NB.** Les analyses urinaires et sanguines doivent être concomitantes.
 
@@ -219,7 +219,7 @@ gravité -- Non --> clinique("<b>Clinique</b><br>—<br>- Traitement à risque (
   gravité -- Oui --> urgence("Urgences ± SAMU")
 {{< /mermaid >}}
 
-> Osmolalité plasmatique (mOsm/kg H<sub>2</sub>O) = <code>natrémie x 2 + glycémie (mmol/L)</code> (CUEN)
+> Osmolalité plasmatique (mOsm/kg H~2~O) = <code>natrémie x 2 + glycémie (mmol/L)</code> (CUEN)
 
 En l'absence d'orientation étiologique ou d'efficacité d'un traitement étiologique simple (ex. substitution d'un diurétique), adresser au spécialiste (endocrinologue, néphrologue) avec le bilan de deuxième intention ciblé.
 

@@ -134,7 +134,7 @@ Pré-éclampsie avec au moins un critère de sévérité parmi:
 - Signes neurologiques: céphalées sévères résistantes au traitement, troubles visuels ou auditifs persistants, réflexes ostéo-tendineux vifs, diffusés et polycinétiques
 - Aggravation des signes ci-dessus
 
-> – *CNGOF, SFAR 2022*
+> -- *CNGOF, SFAR 2022*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -173,7 +173,7 @@ Pré-éclampsie avec au moins un critère de sévérité parmi:
 
 > La découverte d'un retard de croissance intra-utérin d'allure vasculaire doit faire rechercher une pré-éclampsie.
 
-> << La prescription de tests de dépistage de la pré-éclampsie (PE) au premier trimestre de la grossesse en pratique courante n'est actuellement pas recommandée >> – *CNGOF 2020*
+> << La prescription de tests de dépistage de la pré-éclampsie (PE) au premier trimestre de la grossesse en pratique courante n'est actuellement pas recommandée >> -- *CNGOF 2020*
 
 {{% /collapse %}}
 {{%collapse "Prévention de la pré-éclampsie" %}}

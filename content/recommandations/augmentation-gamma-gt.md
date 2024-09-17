@@ -116,7 +116,7 @@ Bilan hépatique et métabolique:
 - Bilan lipidique
 - Échographie abdominale
 
-> – *BSG 2018*
+> -- *BSG 2018*
 
 En cas de cholestase (PAL et gammagt augmentées), compléter le bilan avec:
 

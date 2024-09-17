@@ -90,7 +90,7 @@ Prise en charge de l'impétigo simple:
 - Soins quotidiens 1 à 2 fois par jour
 - Protection par pansement **ou éviction** de la collectivité les 3 premiers jours du traitement
 - Impétigo peu étendu si < 6 lésions (5 chez l'enfant), < 2% de la surface cutanée et absence d'extension rapide:  
-  <mark>[mupirocine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61059102&typedoc=R) x 2-3/j pendant 5 jours</mark>
+  ==[mupirocine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61059102&typedoc=R) x 2-3/j pendant 5 jours==
 
 ### Traitement de l'impétigo grave
 
@@ -103,10 +103,10 @@ Prise en charge de l'impétigo grave:
 - Suivis d'application locale de vaseline x 2/j
 - Protection par pansement ou **éviction** de la collectivité pendant 3 jours
 - Antibiothérapie chez l'adulte:
-  - <mark>[pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j pendant 7 jours</mark>
+  - ==[pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j pendant 7 jours==
   - ou céfalexine 2-4 g/j pendant 7 jours
 - Antibiothérapie chez l'enfant pendant 7 jours:
-  - <mark>amoxicilline-acide clavulanique 80 mg/kg/j en 2-3 prises pendant 7 jours</mark>
+  - ==amoxicilline-acide clavulanique 80 mg/kg/j en 2-3 prises pendant 7 jours==
   - ou céfalexine 50 mg/kg/j (max 4 g/j) en 2-3 prises
   - Si allergie documentée à la pénicilline: clarithromycine 15 mg/kg/j (max 1 g/j) en 2 prises
   - ou clindamycine 30 mg/kg/j (max 1,8 g/j) en 3 prises
@@ -157,7 +157,7 @@ Le furoncle est dit compliqué si:
 - Changement quotidien du linge souillé
 - Prélèvement bactériologique
 - Adulte:
-  - <mark>[clindamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69886424&typedoc=R) 600 mg x 3/j (4/j si poids > 100 kg) pendant 5 jours</mark>
+  - ==[clindamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69886424&typedoc=R) 600 mg x 3/j (4/j si poids > 100 kg) pendant 5 jours==
   - ou pristinamycine 1g x 3/j pendant 5 jours
   - adaptation à l'antibiogramme et l'évolution
 - Enfant:
@@ -176,7 +176,7 @@ Prise en charge d'une furonculose:
 - Protection des lésions par pansement
 - Prélèvement bactériologique
 - Enfant: avis spécialisé
-- <mark>Antibiothérapie de l'adulte: [clindamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69886424&typedoc=R) 600 mg x 3/j (4/j si poids > 100 kg) pendant 7 jours</mark>  
+- ==Antibiothérapie de l'adulte: [clindamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69886424&typedoc=R) 600 mg x 3/j (4/j si poids > 100 kg) pendant 7 jours==  
   ou pristinamycine 1g x 3/j pendant 7 jours
 
 Après guérison de la poussée de furoncles, **décolonisation** des gîtes bactériens:
@@ -194,7 +194,7 @@ Prise en charge d'un abcès cutané:
 
 - Prélèvement bactériologique du pus de l'abcès
 - Renforcement des mesures d'hygiène
-- <mark>Traitement chirurgical: incision-drainage</mark>
+- ==Traitement chirurgical: incision-drainage==
 - Antibiothérapie **pendant 5 jours**:
   - [clindamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69886424&typedoc=R) 2 x 300 mg x 3/j (4/j si poids > 100 kg)
   - ou pristinamycine 1g x 3/j

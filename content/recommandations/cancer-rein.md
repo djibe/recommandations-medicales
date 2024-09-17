@@ -142,7 +142,7 @@ Mesures associées à la prise en charge des cancers:
 
 Le traitement du cancer du rein est décidé en réunion de concertation pluridisciplinaire (**RCP**) spécialisée et peut être, selon le type histologique et l'extension: chirurgical (ablation tumorale, néphrectomie partielle ou élargie), immunothérapie, thérapie ciblée, radiothérapie voire surveillance active.
 
-> << Le cancer du rein est généralement résistant à la radiothérapie et à la chimiothérapie cytostatique classique >> – *HAS/INCa 2010*
+> << Le cancer du rein est généralement résistant à la radiothérapie et à la chimiothérapie cytostatique classique >> -- *HAS/INCa 2010*
 
 Le suivi et son rythme après cancer du rein est décidé par l'équipe spécialisée:
 

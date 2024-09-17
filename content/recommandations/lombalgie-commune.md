@@ -173,7 +173,7 @@ Indications aux radiographies pour lombalgie:
 - Antécédent de fracture vertébrale (*SFR 2018 ostéoporose*)
 - Corticothérapie prolongée, anti-aromatase/androgène (*SFR 2018 ostéoporose*)
 
-> << Il n'y a aucun parallélisme entre radiographies standards et clinique >> – *COFER*
+> << Il n'y a aucun parallélisme entre radiographies standards et clinique >> -- *COFER*
 {.alert .alert-info}>
 
 ### IRM lombaire

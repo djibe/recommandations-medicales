@@ -98,7 +98,7 @@ Les symptômes d'une pancréatite aiguë durent le plus souvent **quelques jours
 ### Examen clinique
 
 - Pression artérielle, fréquence cardiaque
-- SpO<sub>2</sub>, fréquence respiratoire
+- SpO~2~, fréquence respiratoire
 - Poids, taille, IMC
 - Auscultation cardiopulmonaire
 - Palpation abdominale

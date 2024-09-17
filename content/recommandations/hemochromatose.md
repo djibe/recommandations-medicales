@@ -212,7 +212,7 @@ Les saignées (phlébotomie) sont possibles à domicile par un infirmier selon l
 
 - Le volume de la saignée peut aller jusqu'à 7 mL/kg (maximum 550 mL)
 - Les saignées n'améliorent pas le diabète, la cirrhose et les troubles sexuels
-- Le dosage de l'HbA<sub>1c</sub> n'est pas fiable
+- Le dosage de l'HbA~1c~ n'est pas fiable
 
 > — *AFEF 2020* et *HAS 2005*
 

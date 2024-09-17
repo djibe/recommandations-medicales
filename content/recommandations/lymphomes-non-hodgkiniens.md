@@ -152,7 +152,7 @@ Anomalies biologiques fréquentes: hyperlymphocytose, anémie, thrombopénie, sy
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-> << Devant une adénopathie d'origine inconnue, sauf urgence compressive, il est recommandé de ne pas prescrire des corticoïdes avant toute biopsie. >> – *HAS, INCa 2012*
+> << Devant une adénopathie d'origine inconnue, sauf urgence compressive, il est recommandé de ne pas prescrire des corticoïdes avant toute biopsie. >> -- *HAS, INCa 2012*
 {.alert .alert-warning}
 
 Adresser en semi-urgence à l'équipe hospitalière d'hématologie ou d'oncologie pour la suite de la prise en charge du lymphome non hodgkinien (LNH). Le diagnostic de LNH est anatomopathologique sur **biopsie ganglionnaire** et le traitement est décidé en RCP.

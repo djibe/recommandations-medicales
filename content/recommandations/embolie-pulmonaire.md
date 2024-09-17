@@ -118,7 +118,7 @@ La réponse aux 8 questions suivantes doit être négative pour infirmer une *su
 
 1. Âge ≥ 50 ans ?
 2. Fréquence cardiaque ≥ 100/min ?
-3. SpO<sub>2</sub> < 95% ?
+3. SpO~2~ < 95% ?
 4. Hémoptysie ?
 5. Œdème unilatéral d'un membre inférieur ?
 6. Traitement œstrogénique ?
@@ -173,7 +173,7 @@ La prise en charge ambulatoire de l'embolie pulmonaire est possible après l'exp
 2. Thrombolyse ou embolectomie nécessaire
 3. Hémorragie active ou risque élevé d'hémorragie  
   Hémorragie digestive dans les 14j précédents, AVC < 4 semaines, chirurgie < 2 semaines, pathologie hémorragique, thrombopénie < 75.000, HTA > 180 et/ou 110 mmHg.
-4. Besoin de > 24h d'oxygénothérapie pour SpO<sub>2</sub> > 90%
+4. Besoin de > 24h d'oxygénothérapie pour SpO~2~ > 90%
 5. Diagnostic posé sous anticoagulant curatif
 6. Douleur intense nécessitant antalgie IV > 24h
 7. Clairance selon {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 30 mL/min

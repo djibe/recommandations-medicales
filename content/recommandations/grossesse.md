@@ -139,7 +139,7 @@ Malgré les fermetures, **43 %** des maternités ont réalisé en 2020 **moins d
 | 9e mois<br>37-42 SA ||||
 {{< /table >}}
 
-> – *HAS 2016*, *HAS 2009*, *USPTF 2023*, *Calendrier vaccinal 2024* (Abrysvo d'après *HAS 2024*)
+> -- *HAS 2016*, *HAS 2009*, *USPTF 2023*, *Calendrier vaccinal 2024* (Abrysvo d'après *HAS 2024*)
 
 {{% /collapse %}}
 {{%collapse "Médicaments et vaccins pendant la grossesse" %}}
@@ -156,7 +156,7 @@ Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{< re
 - Avant ou en début de période épidémique: [grippe]({{< relref "grippe.md" >}})
 - Anti-VRS (Abrysvo) de septembre à janvier entre 32 et 36 SA (*HAS 2024*)
 
-> – {{< references/calendrier-vaccinal >}} et *Vaccination Info Service*
+> -- {{< references/calendrier-vaccinal >}} et *Vaccination Info Service*
 
 {{< card-link-external title="Tableau Vaccins et grossesse" url="https://ansm.sante.fr/uploads/2022/04/27/20220427-dossier-medicament-grossesse-vaccins-tableau.pdf" subtitle="par l'ANSM" >}}
 
@@ -176,7 +176,7 @@ Pour toutes les femmes: double détermination du **groupe sanguin RhD** et reche
   - Fœtus RhD négatif: 2e génotypage après 15 SA à au moins 2 semaines du premier. Si RhD négatif confirmé, pas de prévention d'allo-immunisation nécessaire.
   - Si le Rhésus D fœtal ne peut être déterminé sur 2 prélèvements: le considérer comme RhD positif
 
-> – *CNGOF 2017*
+> -- *CNGOF 2017*
 
 **NB.** Suivi de la RAI également en cas d'antécédent de **transfusion**.
 
@@ -185,7 +185,7 @@ Pour toutes les femmes: double détermination du **groupe sanguin RhD** et reche
 
 Un scanner thoraco-abdominopelvien avec ou sans injection de produit de contraste peut être réalisé s'il est indiqué pour la mère, << la balance bénéfice/risque de cet examen devant prévaloir à la décision de sa réalisation >>.
 
-> – *CNGOF/SFMU/SFAR 2022*
+> -- *CNGOF/SFMU/SFAR 2022*
 
 {{% /collapse %}}
 {{%collapse "Urgences pendant la grossesse" %}}
@@ -194,7 +194,7 @@ Un scanner thoraco-abdominopelvien avec ou sans injection de produit de contrast
 
 Chute ou traumatisme thoraco-abdominal non grave: examen obstétrical systématique après 20 SA
 
-> – *CNGOF/SFMU/SFAR 2022*
+> -- *CNGOF/SFMU/SFAR 2022*
 
 ### Menace d'accouchement imminent
 
@@ -211,13 +211,13 @@ En ville, position gynécologique suggérée pour pouvoir réaliser la manœuvre
 
 Pas d'épisiotomie systématique.
 
-> – *CNGOF/SFMU/SFAR 2022*
+> -- *CNGOF/SFMU/SFAR 2022*
 
 ### Menace d'accouchement prématuré (MAP)
 
 Pas de transport en SAMU systématique des MAP.
 
-> – *CNGOF/SFMU/SFAR 2022*
+> -- *CNGOF/SFMU/SFAR 2022*
 
 {{% /collapse %}}
 {{%collapse "Prise de poids pendant la grossesse" %}}

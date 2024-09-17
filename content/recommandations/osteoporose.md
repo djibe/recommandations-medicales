@@ -486,7 +486,7 @@ Traitements de l'ostéoporose cortisonique:
 - Tériparatide  
   {{%class "x"%}}20 µg/j (≥ 2 fractures vertébrales présentes).{{%/class%}}
 
-> – *HAS 2022*
+> -- *HAS 2022*
 
 </div>
 </div>

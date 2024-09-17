@@ -62,7 +62,7 @@ Les complications sont locales voire générales:
   - Chorée de Sydenham
   - Scarlatine par atteinte toxinique voire choc toxique streptococcique
 
-> << Les angines à SGA évoluent le plus souvent favorablement en 3-4 jours même en l'absence de traitement antibiotique. Cependant, elles peuvent donner lieu à des complications potentiellement graves (syndromes post-streptococciques: rhumatisme articulaire aigu (RAA), glomérulonéphrite aiguë (GNA), et complications septiques loco-régionales dont la prévention justifie la mise en œuvre d'une antibiothérapie. >> – *Collège*
+> << Les angines à SGA évoluent le plus souvent favorablement en 3-4 jours même en l'absence de traitement antibiotique. Cependant, elles peuvent donner lieu à des complications potentiellement graves (syndromes post-streptococciques: rhumatisme articulaire aigu (RAA), glomérulonéphrite aiguë (GNA), et complications septiques loco-régionales dont la prévention justifie la mise en œuvre d'une antibiothérapie. >> -- *Collège*
 
 ### Épidémiologie de l'angine en France
 
@@ -70,7 +70,7 @@ Les complications sont locales voire générales:
 - Seulement 1,2 millions de TROD angine commandés chaque année
 - 2 fois trop d'antibiotiques prescrits (3x selon l'Assurance Maladie)
 
-> – *[Mission régulation des produits de santé 2023 (PDF)](https://sante.gouv.fr/IMG/pdf/mission-regulation-des-produits-de-sante-rapport-aout-2023.pdf)*
+> -- *[Mission régulation des produits de santé 2023 (PDF)](https://sante.gouv.fr/IMG/pdf/mission-regulation-des-produits-de-sante-rapport-aout-2023.pdf)*
 
 ### Abréviations
 
@@ -154,7 +154,7 @@ La sensibilité du TDR chez l'enfant est de 85%.
 - Gingivo-stomatite herpétique sévère empêchant l'alimentation
 - Angine de Vincent
 
-> – *CMIT 2021*
+> -- *CMIT 2021*
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'angine" %}}
@@ -230,7 +230,7 @@ Indications à une amygdalectomie chez l'enfant:
   - Glomérulonéphrite à IgA
   - Angine aiguë dyspnéisante
 
-> – *SFORL 2020*
+> -- *SFORL 2020*
 
 Antalgie après amygdalectomie: paracétamol + ibuprofène, voire tramadol ou morphine.
 

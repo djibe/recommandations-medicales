@@ -146,7 +146,7 @@ Indications à une **consultation d'oncogénétique**:
 - Phénotype MSI ou dMMR
 - Suspicion de Polypose Adénomateuse Familiale (PAF)
 
-> – *TNCD 2023*
+> -- *TNCD 2023*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -219,7 +219,7 @@ Facteurs de risque de cancer colorectal liés au mode de vie:
 - Alimentation pauvre en fibres  
   Cible 400 g/j
 
-> – *HAS 2017 et 2013*
+> -- *HAS 2017 et 2013*
 
 {{% /collapse %}}
 {{%collapse "Les tests de dépistage du cancer colorectal" %}}
@@ -250,7 +250,7 @@ Le kit du dépistage du cancer du côlon peut être remis par le médecin, retir
 Le test immunologique fécal (TIF) remplace le test *Hemoccult®*. Il est performant (se 70%, spe 96-98%), fiable, gratuit et simple avec un seul prélèvement de selles tous les 2 ans. Le même rythme de suivi est préconisé par la [Commission Européenne](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562).
 
 **4% des tests sont positifs, nécessitant une coloscopie de confirmation dans les 31 jours** (*SFED 2019*).  
-En cas de TIF positif, la coloscopie découvre un cancer pour 8% et un adénome avancé chez 40% des sujets: << détecté tôt, un cancer colorectal peut se guérir dans 9 cas sur 10 >> – *INCa 2020*
+En cas de TIF positif, la coloscopie découvre un cancer pour 8% et un adénome avancé chez 40% des sujets: << détecté tôt, un cancer colorectal peut se guérir dans 9 cas sur 10 >> -- *INCa 2020*
 
 **Critères d'exclusion** au test de dépistage: risque de CCR élevé ou très élevé (voir *[Niveaux de risque](#niveaux-de-risque-de-cancer-colorectal)*), symptômes évocateurs de CCR (voir *Clinique*), coloscopie totale dans les 5 ans, coloscanner seul ou coloscopie incomplète suivie de coloscanner dans les 2 ans.
 
@@ -259,7 +259,7 @@ Personne réticente au dépistage par test immunologique:
 - Identifier les freins et donner les informations éclairées
 - Rappeler l'enjeu (fréquent et grave) et les qualités du dépistage (performance, simplicité, prélèvement unique)
 
-> << 90% des personnes réalisent le test lorsqu'il est remis par le médecin >> – *INCa 2020*
+> << 90% des personnes réalisent le test lorsqu'il est remis par le médecin >> -- *INCa 2020*
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -310,7 +310,7 @@ Pendant 5 ans: clinique (trimestrielle pendant 3 ans puis semestriel), scanner o
 
 Après 5 ans: suivi du risque élevé avec coloscopie tous les 5 ans.
 
-> – *TNCD 2023* et *INCa 2018*
+> -- *TNCD 2023* et *INCa 2018*
 
 ### Pour en savoir: traitement du cancer du côlon et du haut rectum
 
@@ -341,7 +341,7 @@ Chirurgie le plus souvent. Parfois chimiothérapie adjuvante et thérapie ciblé
 - Terminer la préparation de H-5 à H-2 puis rester à jeun  
   Préparation possible le jour J en cas de coloscopie programmée l'après-midi.
 
-> – *SFED 2019*, *ESGE 2019* et *HAS 2013*
+> -- *SFED 2019*, *ESGE 2019* et *HAS 2013*
 
 ### Complications de la coloscopie
 

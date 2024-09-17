@@ -43,7 +43,7 @@ Apports alimentaires en **calcium** recommandés pendant la croissance de l'enfa
 
 {{< clinique/calcium-cible >}}
 
-> – Également *[Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Alimentation et besoins nutritionnels. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/alimentation#e-apports-en-calcium-conseilles)*
+> -- Également *[Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Alimentation et besoins nutritionnels. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/alimentation#e-apports-en-calcium-conseilles)*
 
 ## Évaluer les quotidiens apports en calcium {.mt-5}
 

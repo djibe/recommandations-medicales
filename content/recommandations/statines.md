@@ -114,7 +114,7 @@ Pas de différences entre les statines concernant la survenue de myalgies. La su
 
 ### Statine mal tolérée
 
-> << 70-90% des patients qui rapportent une intolérance aux statines peuvent en tolérer une après un nouvel essai >> – *{{< references/esc-diabetes-2023 >}}*
+> << 70-90% des patients qui rapportent une intolérance aux statines peuvent en tolérer une après un nouvel essai >> -- *{{< references/esc-diabetes-2023 >}}*
 {.alert .alert-info}
 
 En cas de complications attribuables à une statine:
@@ -135,7 +135,7 @@ En cas de complications attribuables à une statine:
 Lorsqu'une statine doit être arrêtée pour mauvaise tolérance, envisager la substitution par l'[ézétimibe](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63964962&typedoc=R) voire l'ajout de [cholestyramine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65691327&typedoc=R) et/ou d'un anti-PCSK9 selon le risque cardiovasculaire (*ESC 2021*)
 {.alert .alert-info}
 
-> – *ESC* et *Bouhairie et al*
+> -- *ESC* et *Bouhairie et al*
 
 {{% /collapse %}}
 {{%collapse "Statines, grossesse et allaitement" %}}

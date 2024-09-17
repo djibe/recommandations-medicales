@@ -198,7 +198,7 @@ Antibiothérapies recommandées en cas d'allergie documentée à la pénicilline
   - Amoxicilline-acide clavulanique 50 mg/kg/j en 3 prises pendant 7 jours (amoxicilline max 6 g/j et a. clavulanique max 375 mg/j)
   - Avis infectiologique en cas d'allergie à la pénicilline
 
-> – *HAS/SPILF/GPIP 2024*
+> -- *HAS/SPILF/GPIP 2024*
 
 ### Mesures associées
 

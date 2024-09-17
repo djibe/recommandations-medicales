@@ -29,7 +29,7 @@ flowchart = true
 - Respecter les durées de traitement par benzodiazépines de l'AMM
 - Intervention brève sur les risques des benzodiazépines à chaque prescription (réduit fortement la demande de renouvellement)
 - La décroissance des benzodiazépines ([calendrier de suivi](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_calendrier_de_suivi.pdf)) est toujours progressive après prise prolongée pour prévenir le syndrome de sevrage ({{< modal-btn modal-score-ecab >}}évaluation ECAB{{< /modal-btn >}} de la dépendance)
-- << il n'y a pas lieu d'associer deux benzodiazépines, y compris pour des indications différentes >> – *CNUP*
+- << il n'y a pas lieu d'associer deux benzodiazépines, y compris pour des indications différentes >> -- *CNUP*
 
 Chapitre lié: [sevrage en alcool]({{< relref "sevrage-alcool.md" >}})
 
@@ -207,7 +207,7 @@ Bien entendu je me tiens à votre disposition pour répondre à toutes vos quest
 
 Dr ...
 
-> – *HAS 2015*
+> -- *HAS 2015*
 
 L'essai EMPOWER a démontré l'effet de l'intervention brève sur l'arrêt à 6 mois: 77 % de sevrage versus 5 % dans le groupe contrôle.
 {.alert .alert-info}

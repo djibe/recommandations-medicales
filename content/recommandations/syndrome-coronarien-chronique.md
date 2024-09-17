@@ -176,7 +176,7 @@ Chez le +40 ans asymptomatique sans sténose à l'imagerie: calcul du {{< scores
 Bilan d'un angor ou de douleurs thoraciques évocatrices de cardiopathie ischémique:
 
 - NFS
-- Glycémie à jeun (< 1 an), HbA<sub>1c</sub>
+- Glycémie à jeun (< 1 an), HbA~1c~
 - Bilan lipidique (< 1 an)
 - Ionogramme sanguin
 - Créatininémie, DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
@@ -306,7 +306,7 @@ Ensemble de connaissances à acquérir au cours des consultations d'éducation t
 - Connaître les effets délétères du tabagisme et élaborer une balance bénéfices/risques du sevrage
 - S'engager dans le sevrage avec l'accompagnement nécessaire
 
-> – *HAS*
+> -- *HAS*
 > + FC cible 55-60/min, pas d'arrêt brutal des BB ou anti-angineux
 
 Connaissance des indications:
@@ -340,7 +340,7 @@ Prise en charge pour l'auto-gestion de la douleur angineuse:
 - Une dose peut être prise avant un effort déclenchant les symptômes
 - La trinitrine ne peut être prise avec d'autres vasodilatateurs comme les traitements de la dysfonction érectile (sildénafil Viagra®, tadalafil Cialis®)
 
-> – *HAS* et *ESC*
+> -- *HAS* et *ESC*
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du syndrome coronarien chronique" "show" %}}

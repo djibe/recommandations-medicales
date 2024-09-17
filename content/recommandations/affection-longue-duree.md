@@ -117,7 +117,7 @@ Exemple: Polyarthrose avec troubles de la marche + incontinence urinaire + tremb
 {{% /collapse %}}
 {{%collapse "ALD non exonérante" %}}
 
-> << Une ALD non exonérante est une affection qui nécessite une interruption de travail ou des soins d'une durée prévisible supérieure à 6 mois, mais qui n'ouvre pas droit à la suppression du ticket modérateur. >> – *Ameli*
+> << Une ALD non exonérante est une affection qui nécessite une interruption de travail ou des soins d'une durée prévisible supérieure à 6 mois, mais qui n'ouvre pas droit à la suppression du ticket modérateur. >> -- *Ameli*
 
 Elle permet de percevoir des indemnités journalières au-delà de 6 mois d'arrêt et la prise en charge à 65% des frais de transport (et de cures thermales) liés à son ALD.
 
@@ -142,7 +142,7 @@ Demande d'ALD hors liste ou non exonérante, il faut coter l'acte C 1.5 (soit 34
 {{% /collapse %}}
 {{%collapse "Dispositif de suivi post-ALD" %}}
 
-> << Il concerne les patients en sortie d'ALD 30 dont l'état de santé ne requiert plus aucun traitement mais nécessite un suivi clinique et paraclinique régulier. Il leur permet d'être exonérés du ticket modérateur pour les actes médicaux et les examens biologiques nécessaires à leur surveillance. >> – *Ameli Médecin*
+> << Il concerne les patients en sortie d'ALD 30 dont l'état de santé ne requiert plus aucun traitement mais nécessite un suivi clinique et paraclinique régulier. Il leur permet d'être exonérés du ticket modérateur pour les actes médicaux et les examens biologiques nécessaires à leur surveillance. >> -- *Ameli Médecin*
 
 La demande dispositif de suivi post-ALD doit être réalisée par le médecin traitant dans les suites de [cancer](/tags/cancer/), [hépatite](/tags/hepatite/) ou autre lorsque l'ALD 30 est échue. Elle est accordée pour 5 ans et renouvelable.
 

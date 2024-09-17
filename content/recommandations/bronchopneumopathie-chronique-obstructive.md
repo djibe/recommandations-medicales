@@ -65,8 +65,8 @@ Le diagnostic est anatomique: élargissement permanent anormal des espaces aéri
 
 Insuffisance respiratoire chronique
 : Incapacité permanente de l'appareil respiratoire à assurer une *hématose* (échanges gazeux pulmonaires) normale au repos.
-: La définition est *gazométrique*: PaO<sub>2</sub> < 70 mmHg sur 2 gaz du sang artériels en état stable à ≥ 3 mois d'intervalle.  
-**Insuffisance respiratoire grave** si PaO<sub>2</sub> ≤ 55 mmHg ou < 60 si *polyglobulie* ou *[insuffisance cardiaque droite]({{< relref "insuffisance-cardiaque-chronique.md" >}})* associée.
+: La définition est *gazométrique*: PaO~2~ < 70 mmHg sur 2 gaz du sang artériels en état stable à ≥ 3 mois d'intervalle.  
+**Insuffisance respiratoire grave** si PaO~2~ ≤ 55 mmHg ou < 60 si *polyglobulie* ou *[insuffisance cardiaque droite]({{< relref "insuffisance-cardiaque-chronique.md" >}})* associée.
 
 ### Abréviations
 
@@ -163,7 +163,7 @@ Dépister par spirométrie toute personne par l'{{< modal-btn modal-depistage-bp
 - Expectoration fréquente
 - Dyspnée
 
-> – *HAS 2019*
+> -- *HAS 2019*
 
 **NB.** L'utilisation d'un **mini-spiromètre au cabinet** est fortement encouragée par les différentes sociétés savantes. La mesure nécessite une confirmation pneumologique spécialisée.
 
@@ -211,7 +211,7 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
 
 ### Examen clinique
 
-- Pression artérielle, pouls, **SpO<sub>2</sub>**
+- Pression artérielle, pouls, **SpO~2~**
 - Poids, taille, IMC
 - Auscultation pulmonaire  
   Sibilants, tirage, cyanose.
@@ -268,7 +268,7 @@ Les autres examens recherchent des complications.
 
 ### Gaz du sang
 
-Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3{{< /modal-btn >}}, {{< modal-btn modal-severite-bpco >}}stade obstructif ≥ 3{{< /modal-btn >}}, suspicion d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) ou d'hypercapnie.
+Indications aux gaz du sang: SpO~2~ < 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3{{< /modal-btn >}}, {{< modal-btn modal-severite-bpco >}}stade obstructif ≥ 3{{< /modal-btn >}}, suspicion d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) ou d'hypercapnie.
 
 ### Autres examens
 
@@ -292,7 +292,7 @@ Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mm
 - Oxygénorequérant
 - Exacerbations antérieures sévères
 - Mauvaise tolérance  
-  SpO<sub>2</sub> < 90%, pouls > 110/min, polypnée > 24/min, respiration paradoxale, tirage, cyanose.
+  SpO~2~ < 90%, pouls > 110/min, polypnée > 24/min, respiration paradoxale, tirage, cyanose.
 - Hypercapnie  
   {{< clinique/hypercapnie >}}
 - Encombrement important, difficultés à la toux
@@ -302,7 +302,7 @@ Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mm
 - Contexte social
 - Échec du traitement ambulatoire ou aggravation à 48-72h (*SPLF 2017*)
 
-> – *HAS 2019* et *GOLD 2023*
+> -- *HAS 2019* et *GOLD 2023*
 {{%/info%}}
 
 ### Sortie d'hospitalisation après une exacerbation de BPCO
@@ -427,7 +427,7 @@ Substitution envisagée par {{< modal-btn modal-ttt-laba-lama >}}bithérapie LAB
 Envisager l'arrêt des corticoïdes inhalés en l'absence d'exacerbation modérée à sévère dans l'année (avec suivi rapproché si éosinophiles > 300/mm³), éosinophiles < 300/mm³, pneumonie (ou effet indésirable des CSI)  
 sauf si éosinophiles > 300/mm³ et exacerbations fréquentes en l'absence de pneumonie.
 
-> – *SPLF 2021*
+> -- *SPLF 2021*
 {{%/info%}}
 
 Éosinophilie: mesurée en état stable. Elle n'a aucun intérêt en exacerbations fréquentes.
@@ -447,11 +447,11 @@ Envisager si (*HAS 2019*):
 - [Polyglobulie]({{< relref "polyglobulie.md" >}})
 - Signes d'insuffisance cardiaque droite  
   {{< clinique/insuffisance-cardiaque-droite >}}
-- SpO<sub>2</sub> ≤ 92% en air ambiant
-  - PaO<sub>2</sub> ≤ 55 mmHg ou SaO<sub>2</sub> ≤ 88% confirmée à 2 reprises sur 3 semaines pour *GOLD 2023*
-  - PaO<sub>2</sub> 55-60 mmHg ou SaO<sub>2</sub> ≤ 88% avec [HTAP]({{< relref "hypertension-arterielle-pulmonaire.md" >}}), insuffisance cardiaque droite ou polyglobulie (hématocrite > 55%) pour *GOLD 2023*
+- SpO~2~ ≤ 92% en air ambiant
+  - PaO~2~ ≤ 55 mmHg ou SaO~2~ ≤ 88% confirmée à 2 reprises sur 3 semaines pour *GOLD 2023*
+  - PaO~2~ 55-60 mmHg ou SaO~2~ ≤ 88% avec [HTAP]({{< relref "hypertension-arterielle-pulmonaire.md" >}}), insuffisance cardiaque droite ou polyglobulie (hématocrite > 55%) pour *GOLD 2023*
 
-Cible de repos: SpO<sub>2</sub> ≥ 90% (PaO<sub>2</sub> ≥ 60 mmHg).
+Cible de repos: SpO~2~ ≥ 90% (PaO~2~ ≥ 60 mmHg).
 
 #### Ventilation mécanique ± Pression Positive Continue
 
@@ -504,7 +504,7 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
   - Envisager l'utilisation d'une chambre d'inhalation (3-5 inspirations par dose de BDCA)
   - Augmenter la dose du traitement de fond
 - Kinésithérapie respiratoire si encombrement
-- <mark>Antibiothérapie ≤ 5 jours si: aggravation de la dyspnée et augmentation du volume et de la purulence des crachats pendant ≥ 48 heures OU BPCO très sévère</mark> (*HAS 2024*)
+- ==Antibiothérapie ≤ 5 jours si: aggravation de la dyspnée et augmentation du volume et de la purulence des crachats pendant ≥ 48 heures OU BPCO très sévère== (*HAS 2024*)
   - Amoxicilline 1g x 3/j pendant maximum 5 jours
   - Si allergie aux pénicillines: pristinamycine 1g x 3/j pendant 4 jours
   - Si pénurie: clarithromycine 500 mg x 2/j, roxithromycine 150 mg x 2/j, spiramycine 6-9 MUI/j ou doxycycline 200 mg x 1/j
@@ -516,12 +516,12 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
   - Si pénurie: idem absence de facteur de risque
   - En dernier recours: lévofloxacine 500 mg x 1/j (ne pas utiliser si *Pseudomonas aeruginosa* connu)
 - Corticothérapie orale si exacerbation marquée  
-  <mark>Prednisone 40 mg x 1/j pendant 5 jours</mark> (*GOLD*)
+  ==Prednisone 40 mg x 1/j pendant 5 jours== (*GOLD*)
 - Réévaluation clinique toutes les 24-72 heures
 - Avis pneumologique
   - Urgent si: suspicion de germe résistant, récidive d'exacerbation, nébulisations
   - Réévaluation systématique à distance de l'exacerbation
-- Si oxygénothérapie ambulatoire: cible SpO<sub>2</sub> 88-92% (surveillance des gaz du sang)
+- Si oxygénothérapie ambulatoire: cible SpO~2~ 88-92% (surveillance des gaz du sang)
 
 Si récupération incomplète: spirométrie à 3 mois.
 
@@ -568,7 +568,7 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
   - Nombre d'hospitalisations
   - Dates des stages de réhabilitation respiratoire
   - Traitements en cours et [technique d'inhalation](https://splf.fr/videos-zephir/)
-  - SpO<sub>2</sub>
+  - SpO~2~
   - Gaz du sang annuel si {{< modal-btn modal-severite-bpco >}}GOLD 4{{< /modal-btn >}}
   - Limitation des activités  
   Fatigue, activités quotidiennes et sociales, qualité de vie, {{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}}.
@@ -618,7 +618,7 @@ graph TB
 - Planification des rendez-vous futurs
 - Aides extérieures, réseaux et associations de patients pour un soutien du patient et de son entourage
 
-> – *HAS 2019*
+> -- *HAS 2019*
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}

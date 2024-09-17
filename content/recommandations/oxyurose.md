@@ -98,7 +98,7 @@ La prise en charge de l'oxyurose comprend le traitement de tous les sujets de l'
 - Lavage des mains régulier
 - Couper les ongles courts et les brosser
 - Changer et laver le linge de nuit à 60°C, les doudous
-- Antiparasitaire benzimidazolé: <mark>flubendazole ([Fluvermal®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68636624&typedoc=R) à partir de 12 mois) 100 mg (1 cp ou 1 cm) dose unique à renouveler à J15</mark> (ou J21)  
+- Antiparasitaire benzimidazolé: ==flubendazole ([Fluvermal®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68636624&typedoc=R) à partir de 12 mois) 100 mg (1 cp ou 1 cm) dose unique à renouveler à J15== (ou J21)  
   ou [albendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69731801&typedoc=R) (posologie selon l'âge) dose unique à renouveler à J15 (ou J21)
 
 {{% /collapse %}}

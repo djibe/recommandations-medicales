@@ -170,7 +170,7 @@ En cas d'appel d'un patient suspect de syndrome coronarien aigu, le rediriger ve
 ### Examen clinique
 
 - Pression artérielle aux 2 bras, fréquence cardiaque
-- SpO<sub>2</sub>
+- SpO~2~
 - Tracé ECG antérieur
 - Auscultation cardio-respiratoire
 - Signes d'insuffisance cardiaque droite  
@@ -182,9 +182,9 @@ Si disponible: électrocardiogramme 12 dérivations voire 18 dérivations (droit
 
 Refaire des tracés dans l'attente du SAMU.
 
-> << Si la suspicion clinique est forte (angor persistant), la présence d'un bloc de branche gauche (BBG), qu'il soit récent ou non, doit être considérée comme équivalent d'un sus-décalage du segment ST >>. << Le bloc de branche droit (BBD), marqueur de pronostic péjoratif lorsqu'il est associé à ischémie myocardique (parce que souvent en lien avec une atteinte du territoire antérieur), doit également être considéré comme équivalent d'un sus-décalage du segment ST. >> – *CNEC*
+> << Si la suspicion clinique est forte (angor persistant), la présence d'un bloc de branche gauche (BBG), qu'il soit récent ou non, doit être considérée comme équivalent d'un sus-décalage du segment ST >>. << Le bloc de branche droit (BBD), marqueur de pronostic péjoratif lorsqu'il est associé à ischémie myocardique (parce que souvent en lien avec une atteinte du territoire antérieur), doit également être considéré comme équivalent d'un sus-décalage du segment ST. >> -- *CNEC*
 
-> << La stimulation ventriculaire (pacemaker) ne permet pas d'identifier un sus-décalage du segment ST. >> – *CNEC*
+> << La stimulation ventriculaire (pacemaker) ne permet pas d'identifier un sus-décalage du segment ST. >> -- *CNEC*
 {.alert .alert-warning}
 
 {{% /collapse %}}

@@ -191,7 +191,7 @@ Et pour une [personne vivant avec le VIH]({{< relref "vih-sida.md" >}}) (PVVIH) 
 - Douleur chronique
 - Altération de l'état général
 
-> – *CNS 2017*
+> -- *CNS 2017*
 
 #### Information sur le dépistage destinée aux personnes éligibles (SPLF)
 
@@ -210,7 +210,7 @@ Alors qu'un cancer, découvert par des symptômes, est souvent à un stade avanc
 La mise en œuvre de ce dépistage, si elle est accompagnée d'un arrêt du tabac, contribue à une diminution encore plus conséquente de la mortalité. C'est un moment privilégié pour arrêter de fumer si vous fumez encore. Votre médecin peut vous accompagner dans cette démarche. Vous pouvez également consulter les centres anti-tabac dont vous trouverez le numéro d'appel au 39 89 ou sur le site : <https://www.tabac-info-service.fr>.  
 Votre médecin est à votre disposition pour discuter de tous ces éléments.
 
-> – *SPLF 2021*
+> -- *SPLF 2021*
 
 ### Pour en savoir plus: le dépistage du cancer du poumon aux États-Unis d'Amérique
 

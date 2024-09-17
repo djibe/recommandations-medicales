@@ -87,9 +87,9 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 - Résident de SSR, EHPAD ou médico-social
 - Entourage des nourrissons de moins de 6 mois présentant des facteurs de risque de grippe grave: prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d'une affection de longue durée ainsi que l'entourage des personnes immunodéprimées.
 
-> – *Calendrier vaccinal*
+> -- *Calendrier vaccinal*
 
-> << Les femmes enceintes constituent une population à risque d'infection grippale d'une gravité particulière avec des complications à court terme (mort fœtale et mort maternelle, hypoxémie réfractaire, complications des soins de réanimation) et à long terme sous forme d'insuffisance respiratoire. >> – *CNGOF 2013*
+> << Les femmes enceintes constituent une population à risque d'infection grippale d'une gravité particulière avec des complications à court terme (mort fœtale et mort maternelle, hypoxémie réfractaire, complications des soins de réanimation) et à long terme sous forme d'insuffisance respiratoire. >> -- *CNGOF 2013*
 {.alert .alert-warning}
 
 ### Recommandations pour les professionnels
@@ -98,11 +98,11 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 - Personnel navigant des bateaux de croisière et des avions et personnel de l'industrie des voyages accompagnant les groupes de voyageurs (guides)
 - Professionnel exposé aux virus porcins et aviaires
 
-> – *Calendrier vaccinal*
+> -- *Calendrier vaccinal*
 
 ### Vaccination anti-grippale des enfants
 
-> La vaccination contre la grippe << peut être proposée chaque année à tous les enfants âgés de 2 à 17 ans révolus. >> – *Calendrier vaccinal*
+> La vaccination contre la grippe << peut être proposée chaque année à tous les enfants âgés de 2 à 17 ans révolus. >> -- *Calendrier vaccinal*
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -160,7 +160,7 @@ Vaccins contre la grippe disponibles en France pour la campagne vaccinale:
 
 Le vaccin intranasal Fluenz Tetra® n'est pas disponible en France.
 
-La campagne de vaccination a débuté le <mark>17 octobre 2023</mark> ([MinSanté](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/la-campagne-de-vaccination-contre-le-covid-19-avancee-de-15-jours-commencera-le)) et se terminera le 29 février 2024.
+La campagne de vaccination a débuté le ==17 octobre 2023== ([MinSanté](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/la-campagne-de-vaccination-contre-le-covid-19-avancee-de-15-jours-commencera-le)) et se terminera le 29 février 2024.
 
 [Document CRATB d'information patient contre la grippe (PDF)](http://medqual.fr/images/PRO_2018/CAT-PATHO-IFECTIEUSE/GRIPPE/MEDCAL_GRIPPE_A3_OK_VF.pdf)
 
@@ -187,7 +187,7 @@ Contre-indications aux anti-inflammatoires AINS, aspirine et corticoïdes. Antit
 
 ### Traitement antiviral de la grippe
 
-> << Le service médical rendu par TAMIFLU est faible dans le cadre d'un traitement préventif en situation de **pandémie grippale** avérée ou potentielle. >> – *HAS 2020*
+> << Le service médical rendu par TAMIFLU est faible dans le cadre d'un traitement préventif en situation de **pandémie grippale** avérée ou potentielle. >> -- *HAS 2020*
 
 La méta-analyse 2023 publiée dans le JAMA n'identifie pas de réduction du risque d'hospitalisation par l'oseltamivir. La Revue Prescrire va dans ce sens.
 

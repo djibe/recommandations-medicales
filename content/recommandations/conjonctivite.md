@@ -48,7 +48,7 @@ Chémosis
 - Photophobie
 - Facteur de risque: monophtalme (œil unique), nouveau-né
 
-> – *Afssaps 2004*
+> -- *Afssaps 2004*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -160,11 +160,11 @@ Dépistages visuels rapprochés en cas d'atteinte sévère.
 
 Les conjonctivites de l'enfant sont le plus souvent bactériennes (*Haemophilus influenzae* 45-60 % et streptocoques 20-30 %): purulentes, bilatérales et symétriques. Diffusion dans la collectivité.
 
-> << Les antibiotiques doivent être réservés aux formes sévères. >> – *AFSOP 2017*
+> << Les antibiotiques doivent être réservés aux formes sévères. >> -- *AFSOP 2017*
 
 Le traitement antibiotique ets systématique et la consultation ophtalmologique.
 
-- <mark>[Rifamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63828371&typedoc=R) collyre 1 gte x 4/j pendant 7-10 jours</mark>
+- ==[Rifamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63828371&typedoc=R) collyre 1 gte x 4/j pendant 7-10 jours==
 - [Tobramycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69240211&typedoc=R) collyre 1 gte x 4/j pendant 7-10 jours
 - [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69326767&typedoc=R) collyre 1 goutte matin et soir pendant 3 jours
 

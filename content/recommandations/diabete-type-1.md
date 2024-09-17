@@ -44,7 +44,7 @@ Diabète de type 1
 - Au diagnostic: acidocétose, glycémie > 3,6 g/L
 - Insulinothérapie nécessaire dans les 3 ans (à tout âge)
 
-> – *ADA/EASD 2021*
+> -- *ADA/EASD 2021*
 
 ### Quels anticorps pour le diagnostic de diabète type 1 ?
 
@@ -52,7 +52,7 @@ En cas de suspicion de diabète de type 1: **anticorps anti-GAD** (Glutamic Acid
 
 S'ils sont négatifs, rechercher les *anticorps anti-IA2* (islet tyrosine phosphatase 2) et/ou anti-ZNT8 (Zinc transporter 8).
 
-> – *ADA/EASD 2021*
+> -- *ADA/EASD 2021*
 
 ### Comment affirmer un diabète type 1 ?
 
@@ -64,11 +64,11 @@ De même, une suspicion clinique de DT1 en l'absence d'anticorps doit faire pré
 Lorsque le type de diabète est toujours incertain à 3 ans, doser glycémie et peptide C dans les 5 heures suivant un repas (sans interrompre l'insulinothérapie).  
 Un **peptide C** > 600 pmol/L affirme un [diabète de type 2]({{< relref "diabete-type-2.md" >}}). À l'inverse, un peptide C bas ou absent confirme le type 1.
 
-> – *ADA/EASD 2021*
+> -- *ADA/EASD 2021*
 
 ### Quand penser à un diabète génétique dit diabète MODY ?
 
-Évoquer un diabète génétique au moins un parmi: diagnostic avant 35 ans, HbA<sub>1c</sub> < 7,5% au diagnostic, un parent diabétique, éléments génétiques (kystes rénaux, lipodystrophie, surdité génétique, inulinorésistance sévère sans obésité).
+Évoquer un diabète génétique au moins un parmi: diagnostic avant 35 ans, HbA~1c~ < 7,5% au diagnostic, un parent diabétique, éléments génétiques (kystes rénaux, lipodystrophie, surdité génétique, inulinorésistance sévère sans obésité).
 
 [Calcul du risque de diabète MODY](https://www.diabetesgenes.org/exeter-diabetes-app/).
 
@@ -159,7 +159,7 @@ Trame des éléments à relever pour un dossier médical complet.
 
 ### Biologie
 
-- HbA<sub>1c</sub> tous les 3-12 mois
+- HbA~1c~ tous les 3-12 mois
 - Créatininémie + ratio albuminurie/créatininurie annuels
 - Bilan lipidique selon les précédents et comorbidités
 - ASAT, ALAT initialement puis personnalisé
@@ -172,13 +172,13 @@ Trame des éléments à relever pour un dossier médical complet.
 - Individualisés, atteignables et réalistes
   - Nutrition, activité physique, [arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Glycémiques
-  - HbA<sub>1c</sub>, temps dans la cible, hypoglycémies
+  - HbA~1c~, temps dans la cible, hypoglycémies
 
 ### Plan de traitement avec décisions partagées
 
 ### Suivi pluridisciplinaire
 
-> – *ADA/EASD 2021*
+> -- *ADA/EASD 2021*
 
 {{% /collapse %}}
 {{% collapse "Les points vitaux du diabète type 1" "show" %}}
@@ -199,9 +199,9 @@ Trame des éléments à relever pour un dossier médical complet.
   - **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire. Renforcement musculaire 3 j/sem.
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette x3/sem
   - Guide patient HAS diabète type 1 ([PDF](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_diabete_1.pdf))
-- {{< modal-btn modal-hba1c-dt1 >}}Cible d'HbA<sub>1c</sub> personnalisée + pré et post-prandiales{{< /modal-btn >}} (globalement 7%)
+- {{< modal-btn modal-hba1c-dt1 >}}Cible d'HbA~1c~ personnalisée + pré et post-prandiales{{< /modal-btn >}} (globalement 7%)
 - Surpoids  
-  Négocier une perte de poids (5-10%). Un accompagnement spécialisé permet une baisse d'HbA<sub>1c</sub> de 1-1,9 %.
+  Négocier une perte de poids (5-10%). Un accompagnement spécialisé permet une baisse d'HbA~1c~ de 1-1,9 %.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Vaccinations: Covid-19, grippe, pneumocoque
 - Si Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}})

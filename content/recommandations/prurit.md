@@ -187,7 +187,7 @@ Aux jambes, différencier de paresthésies ou impatiences (évocatrices de [jamb
 - Sujet âgé: biopsie cutanée
 {{%/info%}}
 
-> – *CEDEF 2021*
+> -- *CEDEF 2021*
 
 Voire échographie abdominale.
 

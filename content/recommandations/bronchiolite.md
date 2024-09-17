@@ -129,7 +129,7 @@ VRS
 | FR (/min)                           | < 60                  | 60-69                          | ≥ 70 ou < 30<br>ou respiration superficielle |
 | FC (> 180 ou < 80/min)              | Non                   | Non                            | Oui                                          |
 | Utilisation des muscles accessoires | Légère                | Modérée                        | Intense                                      |
-| SpO<sub>2</sub> (%)                 | > 92                  | 90 < SpO<sub>2</sub> ≤ 92      | ≤ 90 ou cyanose                              |
+| SpO~2~ (%)                 | > 92                  | 90 < SpO~2~ ≤ 92      | ≤ 90 ou cyanose                              |
 | Alimentation (%)                    | > 50                  | < 50 sur 3 prises consécutives | Réduction importante<br>ou refus             |
 | Interprétation                      | Critères tous remplis | ≥ 1 critère<br>(et non grave)  | ≥ 1 critère                                  |
 {{< /table >}}
@@ -152,7 +152,7 @@ L'hospitalisation est la règle en présence de signe de gravité (*forme grave*
   Mise en jeu des muscles accessoires intercostaux inférieurs, SCM, balancement thoraco-abdominal, battement des ailes du nez.
   - Alimentation  
     < 50% de la quantité habituelle sur 3 prises consécutives ou refus alimentaire.
-  - SpO<sub>2</sub> < 92%
+  - SpO~2~ < 92%
   - Prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j ET < 6 mois en début d'épidémie de VRS (indication palivizumab)
 - Forme modérée avec
   - Âge corrigé < 2 mois
@@ -203,7 +203,7 @@ Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une i
 - Désinfection des mains et matériel et masque FFP2
 - Constantes
   - Fréquence cardiaque (> 180 ou < 80/min), température
-  - Rythme respiratoire, fréquence respiratoire (sur 1 minute), SpO<sub>2</sub> (éveil et air ambiant)
+  - Rythme respiratoire, fréquence respiratoire (sur 1 minute), SpO~2~ (éveil et air ambiant)
   - Rechercher une fièvre pour éliminer une surinfection pulmonaire
   - Noter les valeurs dans le dossier
 - AEG
@@ -273,7 +273,7 @@ Indications à la prévention de la bronchiolite par une immunisation passive av
 - Pour 2024-2025: **tous les nourrissons nés après le 1er janvier 2024**
   - Au mieux avant la sortie de maternité (rattrapage en ville sinon)
 - Une seule injection IM de nirsévimab (Beyfortus®)
-- <mark>De 0,5 mL (50 mg) pour les moins de 5 kg de poids puis 1 mL (100 mg) au-delà</mark>
+- ==De 0,5 mL (50 mg) pour les moins de 5 kg de poids puis 1 mL (100 mg) au-delà==
 - Dans la face antéro-latérale de cuisse
 - Le même jour que des vaccins ou anticorps si besoin (mais administrés sur d'autres sites)
 - Contre-indiquée en cas d'infection documentée à VRS ou d'hypersensibilité connue à un des composants du produit
@@ -310,7 +310,7 @@ Recommandations de prise en charge d'un épisode de bronchiolite:
   - << Les aspirations nasopharyngées ont plus d'effets secondaires et ne sont pas recommandées >>
 - Couchage habituel sur le dos à plat
 - Surveillance régulière de la gêne respiratoire et de l'alimentation  
-  - Si possible: Fréquence respiratoire, SpO<sub>2</sub>, température, alimentation, poids, comportement
+  - Si possible: Fréquence respiratoire, SpO~2~, température, alimentation, poids, comportement
   - Guérison complète sous 4-6 semaines  
   Bilan spécialisé si persistance au-delà.
 - Hydratation
@@ -338,8 +338,8 @@ Réservé à l'hospitalisation.
 Indications spécifiques au cours d'un épisode de bronchiolite:
 
 - Oxygénothérapie  
-  - Forme grave: SpO<sub>2</sub> > 94%
-  - Forme modérée avec SpO<sub>2</sub> ≤ 92%: cible > 92% éveil et 90% sommeil
+  - Forme grave: SpO~2~ > 94%
+  - Forme modérée avec SpO~2~ ≤ 92%: cible > 92% éveil et 90% sommeil
   - Cardiopathie: cible habituelle ou > 92% par défaut
 - Discuter une antibiothérapie si:
   fièvre ≥ 38,5°C pendant +48 heures, [otite associée]({{< relref "otite-moyenne-aigue.md" >}}), pathologie pulmonaire ou cardiaque sous-jacente, foyer pulmonaire radiologiquement documenté, élévation de la CRP ou hyperleucocytose.

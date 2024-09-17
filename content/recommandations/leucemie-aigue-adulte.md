@@ -107,7 +107,7 @@ Aucun signe clinique n'est spécifique de la leucémie aiguë.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> << Une pancytopénie ou une blastose sanguine suffit à évoquer le diagnostic de leucémie aiguë >> – *HAS/INCa 2011*
+> << Une pancytopénie ou une blastose sanguine suffit à évoquer le diagnostic de leucémie aiguë >> -- *HAS/INCa 2011*
 {.alert .alert-info}
 
 Hémogramme (NFS):

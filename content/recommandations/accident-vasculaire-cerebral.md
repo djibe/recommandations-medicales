@@ -137,7 +137,7 @@ Et déficit sensitif brutal (35%)
 
 - Appel du {{<phone>}}15{{</phone>}} pour transfert en UNV  
 Prise des constantes en même temps.  
-Si le patient appelle au cabinet, transférer l'appel au {{<phone>}}15{{</phone>}} et essayer de rester en ligne.
+Si le patient appelle au cabinet, transférer l'appel au SAMU et essayer de rester en ligne.
 - Allonger et surveiller le patient
 - Rédiger pour le SAMU
   - Heure de début des symptômes
@@ -146,7 +146,7 @@ Si le patient appelle au cabinet, transférer l'appel au {{<phone>}}15{{</phone>
   - Allergies
   - Traitements en cours
   - Constantes
-  - SpO<sub>2</sub>
+  - SpO~2~
   - Glycémie capillaire
   - ECG si disponible
   - [Score NIHSS](https://www.sfmu.org/calculateurs/NIHSS.html)
@@ -194,7 +194,7 @@ Liste des contre-indications à la thrombolyse par balancé bénéfice-risque d�
 - PAS > 185 mmHg ou PAD > 110 mmHg, ou traitement d'attaque IV nécessaire pour réduire la pression artérielle à ces valeurs seuils
 - Glycémie inférieure à 50 mg/dL ou supérieure à 400 mg/dL (< 2,8 mmol/l ou > 22,2 mmol/l)
 
-> – *[BDPM](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67177673&typedoc=R#RcpContreindications)*
+> --  *[BDPM](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67177673&typedoc=R#RcpContreindications)*
 
 {{% /collapse %}}
 {{%collapse "Traitement post AVC" %}}
@@ -219,7 +219,7 @@ La prise en charge est identique après un accident ischémique transitoire (AIT
   - Activité physique ≥ 10 min x 4/semaine ([guide patient HAS APA](https://www.has-sante.fr/jcms/p_3391312/fr/l-activite-physique-pour-votre-sante-accident-vasculaire-cerebral))
   - Sédentaire: bouger 3 minutes toutes les 30 minutes
 - Si diabète
-  - AVC < 6 mois: {{< modal-btn modal-hba1c >}}HbA1c cible 8%{{< /modal-btn >}}
+  - AVC < 6 mois: {{< modal-btn modal-hba1c >}}HbA~1c~ cible 8%{{< /modal-btn >}}
   - Après 6 mois: {{< modal-btn modal-hba1c >}}cible réadaptée selon le profil{{< /modal-btn >}}
 - Comorbidités
   - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}} {{%class%}}(40%){{%/class%}}
@@ -237,7 +237,7 @@ Prise en charge de l'AVC selon certaines comorbidités.
 
 Pour l'AIC sans étiologie retrouvée, dépistage de troubles du rythme par Holter-ECG implantable pendant +48 heures (*ESO 2022*).
 
-Anticoagulation au long cours par [AVK warfarine]({{< relref "avk.md" >}}) ou anticoagulant oral (AOD) selon le {{< modal-btn modal-chads >}}score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}}.
+Anticoagulation au long cours par [AVK warfarine]({{< relref "avk.md" >}}) ou anticoagulant oral (AOD) selon le {{< modal-btn modal-chads >}}score CHA~2~DS~2~-VASc{{< /modal-btn >}}.
 
 ### Prothèse valvulaire mécanique et AVC
 

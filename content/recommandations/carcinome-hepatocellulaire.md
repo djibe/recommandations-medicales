@@ -154,7 +154,7 @@ L'imagerie n'est pas suffisante pour déterminer l'étiologie. La **biopsie hép
 
 ### Alpha-fœtoprotéine
 
-> << Le dosage de l'alpha-fœtoprotéine (AFP) n'est pas un examen diagnostique mais a une valeur pronostique >> – *CDU-HGE 2022*
+> << Le dosage de l'alpha-fœtoprotéine (AFP) n'est pas un examen diagnostique mais a une valeur pronostique >> -- *CDU-HGE 2022*
 
 L'alpha-fœtoprotéine relève du bilan d'extension une fois le carcinome hépatocellulaire prouvé.
 
@@ -168,7 +168,7 @@ Par ailleurs l'alpha-fœtoprotéine n'est plus utilisée pour le dépistage seme
 Dépistage du carcinome hépatocellulaire chez les patients avec cirrhose {{< modal-btn modal-score-child >}}Child A ou B{{< /modal-btn >}} (ou C en attente de transplantation) par échographie abdominale semestrielle sans dosage de l'alpha-fœtoprotéine et suivi hépatologique au moins annuel.
 {.alert .alert-info}
 
-> – *SNFGE/AFEF 2023* et *INCa 2022*
+> -- *SNFGE/AFEF 2023* et *INCa 2022*
 
 Encourager la consommation de café en cas d'hépatopathie (*EASL 2018*).
 

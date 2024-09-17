@@ -162,7 +162,7 @@ Pas d'examen complémentaire après 21 jours de symptômes (le diagnostic est cl
   - Immunodépression
   - Obésité
 
-> – *HCSP 2024*
+> -- *HCSP 2024*
 
 {{% /collapse %}}
 {{%collapse "Prévention de la coqueluche par la vaccination" %}}

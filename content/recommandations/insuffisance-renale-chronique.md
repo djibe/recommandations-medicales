@@ -250,7 +250,7 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
 - NFS
 - Créatininémie avec estimation du DFGe {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - Bilan lipidique (de moins d'un an)
-- Glycémie à jeun ou HbA<sub>1C</sub>
+- Glycémie à jeun ou HbA~1c~
 - Urinaire  
   ECBU + rapport albuminurie/créatininurie (RAC).
 {{%/info%}}

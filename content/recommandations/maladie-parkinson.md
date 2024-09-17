@@ -463,7 +463,7 @@ Les informations sur la maladie sont expliquées et reprises sur plusieurs consu
 - Signaler les autres traitements pris
 - Plus tard: impact sur la famille, soutiens, aides sociales, risques de la conduite automobile
 
-> – *HAS 2016*
+> -- *HAS 2016*
 
 {{% /collapse %}}
 {{% collapse "Prise en charge de la maladie de Parkinson débutante" "show" %}}

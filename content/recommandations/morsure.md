@@ -110,20 +110,20 @@ Antibiothérapie de l'adulte si indiquée (voir ci-dessus):
 - Durée du traitement antibiotique
   - **5 jours** en cas de morsure de mammifère sans signe clinique d'infection
   - 5 jours si signes d'infection, prolongée si complication ou évolution défavorable pendant 10 jours (14 si non satisfaisant à J10)
-- <mark>[Amoxicilline - clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60998361&typedoc=R) 1g x 3/j</mark>
+- ==[Amoxicilline - clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60998361&typedoc=R) 1g x 3/j==
 - Étendue à 10-15 jours si infection patente ou morsure vue tardivement
 - Si allergie: doxycycline 100 mg x 2/j  
   ou pristinamycine 1g x 3/j ou clindamycine 600 mg x 3/j ou cotrimoxazole 800/160 mg x 2/j
 
-> – *SFMU/SPILF 2017*
+> -- *SFMU/SPILF 2017*
 
 Antibiothérapie de l'enfant si indiquée (idem ci-dessus + chat ou localisation génitale):
 
 - Traitement de **5 jours** en cas de morsure humaine
-- <mark>[Amoxicilline - clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64550843&typedoc=R) 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 3 à 7 jours</mark> selon l'évolution
+- ==[Amoxicilline - clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64550843&typedoc=R) 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 3 à 7 jours== selon l'évolution
 - Allergie: doxycycline 4 mg/kg/j (max 200 mg/j) en 2 prises pendant 3 à 7 jours selon l'évolution
 
-> – *GPIP 2023*
+> -- *GPIP 2023*
 
 ### Traitement de la morsure par chien et chat
 
@@ -131,7 +131,7 @@ Prise en charge des morsures de chien commune aux morsures d'animaux et détermi
 
 Avis urgent du **Centre antirabique** ([annuaire](https://www.pasteur.fr/fr/file/54964/download)) si: morsure survenue dans une région endémique ou animal y ayant séjourné ([carte des pays à risque](https://apps.who.int/neglected_diseases/ntddata/rabies/rabies.html)).
 
-> << L'analyse de la littérature scientifique ne permet pas d'identifier la race et/ou le type racial (et a fortiori des races en particulier) comme seul facteur (ou facteur majeur) de risque de morsure >> – *Anses 2020*
+> << L'analyse de la littérature scientifique ne permet pas d'identifier la race et/ou le type racial (et a fortiori des races en particulier) comme seul facteur (ou facteur majeur) de risque de morsure >> -- *Anses 2020*
 
 ### Traitement de la morsure humaine
 
@@ -146,7 +146,7 @@ Si vipère venimeuse: amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 
 {{% /collapse %}}
 {{%collapse "Surveillance du chien après morsure" %}}
 
-> << Un comportement normal et la bonne santé apparente d'un chien n'éliminent pas le risque de contamination rabique. >> – *Prescrire Redaction*
+> << Un comportement normal et la bonne santé apparente d'un chien n'éliminent pas le risque de contamination rabique. >> -- *Prescrire Redaction*
 {.alert .alert-info}
 
 - Toute morsure par un chien doit être déclarée par son propriétaire à sa mairie de résidence ([annuaire](https://www.service-public.fr/particuliers/vosdroits/F24028))  

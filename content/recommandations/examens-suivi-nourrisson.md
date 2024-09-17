@@ -34,7 +34,7 @@ Enfant
 : Enfant de 2 à 18 ans.
 {.dl-inline}
 
-> – {{< references/calendrier-vaccinal >}}
+> -- {{< references/calendrier-vaccinal >}}
 
 {{% /collapse %}}
 {{%collapse "Calendrier des 20 examens médicaux" "show" %}}
@@ -70,7 +70,7 @@ Examens médicaux de la naissance à 16 ans avec la cotation associée, facturé
 | 20 |           15-16 ans           |                                    COB (26,5€)                                    |
 {{< /table >}}
 
-> – *[Service-public. Visites médicales de l'enfant : examens obligatoires. 01/09/2023.](https://www.service-public.fr/particuliers/vosdroits/F967)* et *[Arrêté du 26/02/2019](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038175215/)*
+> -- *[Service-public. Visites médicales de l'enfant : examens obligatoires. 01/09/2023.](https://www.service-public.fr/particuliers/vosdroits/F967)* et *[Arrêté du 26/02/2019](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038175215/)*
 
 Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de suivi:
 

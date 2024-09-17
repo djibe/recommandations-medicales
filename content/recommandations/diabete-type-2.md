@@ -50,17 +50,17 @@ Les femmes avec DT2 sont à risque élevé d'[AVC]({{< relref "accident-vasculai
 
 Hyperglycémie modérée à jeun (HGMAJ)
 : Ou *prédiabète*, correspond au stade précurseur du diabète.
-: La définition *ADA 2021* du prédiabète est biologique: HbA<sub>1c</sub> 5,7 - 6,4 % (*OMS* est 6 - 6,4) ou glycémie à jeun 1 - 1,25 g/L (*OMS* est 1,1 - 1,25) ou HGPO-75g H2 1,4 - 1,99 g/L. En cas de valeur limite haute, répéter le dépistage à 3-6 mois.
+: La définition *ADA 2021* du prédiabète est biologique: HbA~1c~ 5,7 - 6,4 % (*OMS* est 6 - 6,4) ou glycémie à jeun 1 - 1,25 g/L (*OMS* est 1,1 - 1,25) ou HGPO-75g H2 1,4 - 1,99 g/L. En cas de valeur limite haute, répéter le dépistage à 3-6 mois.
 : Le prédiabète doit faire contrôler chaque année la glycémie (tous les 1-3 ans si < 1,1 g/L).
 : La perte d'un kg réduit de 43% le risque de DT2 (*ESC 2019 diabetes*).
 
 Rémission du diabète
 : Définitions *EASD 2021*:
-    - Diabète sous régime seul depuis ≥ 3 mois avec HbA<sub>1c</sub> < 6,5% (48 mmol/mol)
-    - HbA<sub>1c</sub> < 6,5% à au moins 3 mois de la chirurgie bariatrique et de l'arrêt de tout traitement
-    - HbA<sub>1c</sub> < 6,5% à au moins 6 mois du changement de mode de vie et au moins 3 mois de l'arrêt de tout traitement
+    - Diabète sous régime seul depuis ≥ 3 mois avec HbA~1c~ < 6,5% (48 mmol/mol)
+    - HbA~1c~ < 6,5% à au moins 3 mois de la chirurgie bariatrique et de l'arrêt de tout traitement
+    - HbA~1c~ < 6,5% à au moins 6 mois du changement de mode de vie et au moins 3 mois de l'arrêt de tout traitement
 : Lorsque la {{< modal-btn modal-hba1c-faussee >}}mesure de l'HbA1c n'est pas fiable{{< /modal-btn >}}, recours à la glycémie à jeun < 1,26 g/L ou estimation par automesure (la glycémie moyenne doit être < 6,5% d'équivalent HbA1c).
-: Le *dépistage des complications* du diabète doit être poursuivi, avec la surveillance de l'HbA<sub>1c</sub> tous les 3 à 12 mois.
+: Le *dépistage des complications* du diabète doit être poursuivi, avec la surveillance de l'HbA~1c~ tous les 3 à 12 mois.
 
 Jeûne
 : Restriction calorique pendant au moins 8 heures (*ESC Diabetes 2023*).
@@ -111,7 +111,7 @@ SFD
 Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} (rarement bas ou modéré) {{%class%}}(risque CV x2-4){{%/class%}}.
 {.alert .alert-warning}
 
-- HbA<sub>1c</sub> cible: {{< modal-btn modal-hba1c >}}globalement **7%**{{< /modal-btn >}} (SFD, ESC 2023)
+- HbA~1c~ cible: {{< modal-btn modal-hba1c >}}globalement **7%**{{< /modal-btn >}} (SFD, ESC 2023)
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (passif et électronique également) et alcool à moindre risque
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
   - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans - *ESH 2023* et 130/80 selon *ADA 2023*)
@@ -315,7 +315,7 @@ window.addEventListener('load', () => {
 
 {{%info%}}
 
-- HbA<sub>1c</sub> (tous les 3-6 mois)
+- HbA~1c~ (tous les 3-6 mois)
 - Bilan lipidique (LDL, HDL, CT, TG) à jeun
 - NFS, ferritinémie
 - ASAT, ALAT, GGT, {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}
@@ -368,7 +368,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 {{< /table >}}
 
 > **AAA** = anévrysme de l'aorte abdominale ; **MRC** = maladie rénale chronique ; **aspirine:** IPP si risque élevé de saignement digestif ;  
-Épreuve d'effort: évaluer les facteurs de risque: FRCV usuels, tour de taille, ancienneté du diabète, HbA<sub>1c</sub>, complications, dysfonction érectile, SAHOS, NASH
+Épreuve d'effort: évaluer les facteurs de risque: FRCV usuels, tour de taille, ancienneté du diabète, HbA~1c~, complications, dysfonction érectile, SAHOS, NASH
 
 {{% /collapse %}}
 {{%collapse "Appareillage" %}}
@@ -385,7 +385,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 - Stylo à insuline connecté (Novopen 6, Novopen Echo Plus)  
   1 stylo par an.
 
-> – *[Ameli 2021](https://www.ameli.fr/medecin/exercice-liberal/memos/suivi/auto-surveillance-glycemique-du-patient-diabetique-systeme-freestyle-libre)*
+> -- *[Ameli 2021](https://www.ameli.fr/medecin/exercice-liberal/memos/suivi/auto-surveillance-glycemique-du-patient-diabetique-systeme-freestyle-libre)*
 
 {{% /collapse %}}
 {{%sources%}}

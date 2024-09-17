@@ -107,7 +107,7 @@ L'examen clinique d'une suspicion de péricardite recherche une orientation deva
 
 ### Examen clinique
 
-- Pression artérielle, fréquence cardiaque, SpO<sub>2</sub>
+- Pression artérielle, fréquence cardiaque, SpO~2~
 - Auscultation cardio-respiratoire
   - Tachycardie
   - Frottement péricardique (< 1/3, pathognomonique)  

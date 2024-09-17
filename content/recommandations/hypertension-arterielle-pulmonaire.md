@@ -131,7 +131,7 @@ Les signes cliniques de l'HTAP sont peu spécifiques et doivent être évoqués 
 
 ### Examen clinique
 
-- Pression artérielle, fréquence cardiaque, SpO<sub>2</sub>
+- Pression artérielle, fréquence cardiaque, SpO~2~
 - Auscultation cardiaque  
   Insuffisance tricuspide (souffle holosystolique majoré en inspiration profonde), éclat du B2 pulmonaire, souffle diastolique d'insuffisance pulmonaire.
 - Auscultation pulmonaire  
@@ -187,7 +187,7 @@ La prise en charge de l'hypertension artérielle pulmonaire (HTAP) relève uniqu
 - Observance et tolérance des traitements  
   Selon le type d'HTAP: anticalciques à forte dose, anticoagulation, diurétiques, IPDE5 (sildénafil, tadalafil) ...
 - Réhabilitation cardio-respiratoire
-- Oxygénothérapie longue durée si PaO<sub>2</sub> < 60 mmHg
+- Oxygénothérapie longue durée si PaO~2~ < 60 mmHg
 - Suivi tous les 3-6 mois en état stable  
   WHO-FC, test de marche de 6 minutes, NT-proBNP, ECG, SpO2 ...
 - Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})

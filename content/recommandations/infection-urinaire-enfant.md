@@ -88,7 +88,7 @@ La cystite est une infection urinaire **sans fièvre** et sans anomalie biologiq
 Prise en charge ambulatoire de la cystite aiguë (infection urinaire basse):
 
 - Fille pubère: traitement minute par fosfomycine sauf uropathie (voir [IU de l'adulte]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}))
-- <mark>[Amoxicilline - clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64550843&typedoc=R) 1,5 dose-kg (80 mg/kg/j, max 3 g/j) en 2 prises pendant 5 jours</mark>
+- ==[Amoxicilline - clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64550843&typedoc=R) 1,5 dose-kg (80 mg/kg/j, max 3 g/j) en 2 prises pendant 5 jours==
 - Si allergie: [cotrimoxazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69464049&typedoc=R) 30 mg/kg/j (max 1,6 g/j) de SMX en 2 prises pendant 5 jours  
   ou [céfixime](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67547553&typedoc=R) 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 5 jours
 
@@ -102,7 +102,7 @@ Prise en charge ambulatoire de la cystite aiguë (infection urinaire basse):
 
 Prise en charge de la suspicion de pyélonéphrite aiguë (PNA):
 
-- <mark>Hospitalisation si: < 3 mois, uropathie, immunodépression, lithiase urinaire, AEG, suspicion de sepsis, mauvaise compréhension familiale, cocci Gram+</mark>
+- ==Hospitalisation si: < 3 mois, uropathie, immunodépression, lithiase urinaire, AEG, suspicion de sepsis, mauvaise compréhension familiale, cocci Gram+==
 - Si 1er épisode: échographie des voies urinaires
 - Information des parents: [mpedia](https://www.mpedia.fr/art-pyelonephrite/?sr=895)
 - [Paracétamol]({{< relref "antalgie-enfant.md" >}})

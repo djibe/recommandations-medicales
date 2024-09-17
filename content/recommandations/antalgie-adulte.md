@@ -77,7 +77,7 @@ TUO
 {{% /collapse %}}
 {{%collapse "Antalgie palier 2" %}}
 
-> << Les risques, notamment celui de développer un trouble de l'usage ou de surdose, sont communs à tous ces médicaments opioïdes. >> – *HAS 2022*
+> << Les risques, notamment celui de développer un trouble de l'usage ou de surdose, sont communs à tous ces médicaments opioïdes. >> -- *HAS 2022*
 {.alert .alert-warning}
 
 Opioïdes dits faibles pour les douleurs modérées à sévères:
@@ -118,7 +118,7 @@ Balance défavorable en première intention pour: douleurs dentaires, lombalgie 
   - Buprénorphine
   - Méthadone
 
-> << Dans la majorité des cas, l'association de médicaments antalgiques opioïdes n'est pas recommandée, sauf particularités chez les patients atteints de cancer >> – *HAS 2022*
+> << Dans la majorité des cas, l'association de médicaments antalgiques opioïdes n'est pas recommandée, sauf particularités chez les patients atteints de cancer >> -- *HAS 2022*
 
 ### Manipuler la morphine
 
@@ -153,7 +153,7 @@ Objectifs pour le traitement du cancer:
 - Noter les évaluations: QCD, EQ-5D, PGIC, Lequesne ...
 - Ne pas dépasser 120 mg/j EMO
 
-> << Un traitement opioïde est instauré par titration, qu'il soit à visée antalgique ou substitutive >> – *HAS 2022*
+> << Un traitement opioïde est instauré par titration, qu'il soit à visée antalgique ou substitutive >> -- *HAS 2022*
 
 #### Aggravation d'un patient déjà traité
 
@@ -164,7 +164,7 @@ Objectifs pour le traitement du cancer:
 
 ### Conversion des opioïdes
 
-> **Douleur aiguë:** << Lors du passage d'un opioïde à un autre, il faut généralement réduire la dose du nouvel opioïde d'au moins 25 à 50 % de la dose équianalgésique calculée >> – *HAS 2022*
+> **Douleur aiguë:** << Lors du passage d'un opioïde à un autre, il faut généralement réduire la dose du nouvel opioïde d'au moins 25 à 50 % de la dose équianalgésique calculée >> -- *HAS 2022*
 
 #### Conversion des opioïdes pour la douleur chronique
 

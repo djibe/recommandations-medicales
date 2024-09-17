@@ -41,7 +41,7 @@ Artérite à cellules géantes (ou maladie de Horton)
 : Elle est une urgence diagnostique et thérapeutique par ses complications majeures qui sont à court terme la **cécité** irréversible (NOIAA, OACR) avec perte d'autonomie et à long terme le **risque cardiovasculaire**. Il n'est pas observé de surmortalité en France.
 : Deux comorbidités sont fréquemment associées: la **pseudo-polyarthrite rhizomélique** (PPR, 50%) et l'aortite isolée (1/3, asymptomatique).
 
-> **NB.** << Les critères de classification d'ACG du Collège américain de rhumatologie (ACR) ne doivent pas être utilisés comme critères diagnostiques. >> – *PNDS 2020*
+> **NB.** << Les critères de classification d'ACG du Collège américain de rhumatologie (ACR) ne doivent pas être utilisés comme critères diagnostiques. >> -- *PNDS 2020*
 
 ### Diagnostic différentiel de l'artérite à cellules géantes
 
@@ -156,7 +156,7 @@ La **biopsie de l'artère temporale** est l'examen de référence pour affirmer 
 
 La biopsie de l'artère temporale (BAT) est réalisée sous anesthésie locale en ambulatoire par le spécialiste. Elle reste interprétable au moins 2 semaines après l'initiation de la corticothérapie.
 
-> << La négativité de la biopsie de l'artère temporale n'exclut pas le diagnostic d'ACG >> – *COFER*
+> << La négativité de la biopsie de l'artère temporale n'exclut pas le diagnostic d'ACG >> -- *COFER*
 
 ### Échodoppler des artères temporales
 

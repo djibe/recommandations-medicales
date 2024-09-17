@@ -70,7 +70,7 @@ Le BCG peut être administré en même temps que n'importe quel autre vaccin mai
   Roumanie, Ukraine, République de Moldavie.
 - Groenland
 
-> – *Recommandations sanitaires aux voyageurs*
+> -- *Recommandations sanitaires aux voyageurs*
 
 {{% /collapse %}}
 {{%collapse "Suivi thérapeutique de la tuberculose" %}}

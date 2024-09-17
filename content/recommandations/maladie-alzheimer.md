@@ -156,7 +156,7 @@ Bilan biologique:
 - Vitamine B12, folates
 - Sérologies syphilis, VIH, Lyme
 
-> – *HAS 2023*
+> -- *HAS 2023*
 
 ### IRM cérébrale
 
@@ -193,7 +193,7 @@ Imagerie systématique par IRM cérébrale pour le bilan de démence.
 Ne pas proposer: mélatonine, acupuncture (*NICE*), Ginkgo biloba (*Prescrire*), vitamine E, plantes.
 {.alert .alert-warning}
 
-> Concernant les anciens << traitements >> médicamenteux (donépézil, galantamine, rivastigmine, mémantine ...): << la HAS a considéré que ces médicaments n'avaient plus de place dans la stratégie thérapeutique du traitement symptomatique de la maladie d'Alzheimer. >> – *HAS 2019*
+> Concernant les anciens << traitements >> médicamenteux (donépézil, galantamine, rivastigmine, mémantine ...): << la HAS a considéré que ces médicaments n'avaient plus de place dans la stratégie thérapeutique du traitement symptomatique de la maladie d'Alzheimer. >> -- *HAS 2019*
 
 {{% /collapse %}}
 {{%collapse "Suivi" %}}

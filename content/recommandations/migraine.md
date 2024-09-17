@@ -398,7 +398,7 @@ Efficacité prouvée: Neuromodulation électrique. Sur prescription spécialisé
   - ou intensité imposant un arrêt total des activités pour ≥ 50% des crises
 - Crises migraineuses invalidantes malgré un traitement de crise optimal
 
-> – *Ducros 2021 Table 6*
+> -- *Ducros 2021 Table 6*
 {{%/info%}}
 
 **Objectif:** réduire le nombre de jours de céphalées au moins de moitié si *migraineux épisodique* (< 15 j/m) ou au moins 30% si *migraineux chronique* (≥ 15 j/m). Réévaluation au 3<sup>e</sup> mois.  
@@ -487,7 +487,7 @@ Trois éléments de suivi: Agenda migraineux, {{< modal-btn modal-hit6 >}}qualit
     2. Traitement utilisé de façon optimale (dose, moment, voie d'administration) pendant ≥ 3 mois consécutifs
     3. Traitement bien toléré
 
-> – *Donnet A. 2021*
+> -- *Donnet A. 2021*
 
 {{% /collapse %}}
 {{%collapse "Migraine cataméniale, grossesse, contraception ou THM" %}}

@@ -117,7 +117,7 @@ Le bilan est celui d'une tumeur hépatique:
 
 ### Échographie abdominale
 
-> << Chez les patients ayant un foie normal ou sain, une lésion hyperéchogène est probablement un hémangiome hépatique >> – *EASL 2016*
+> << Chez les patients ayant un foie normal ou sain, une lésion hyperéchogène est probablement un hémangiome hépatique >> -- *EASL 2016*
 
 L'échographie abdominale montre une masse hépatique hyperéchogène homogène (souvent moins de 3 cm) avec renforcement acoustique et contours nets.
 
@@ -142,7 +142,7 @@ La prise en charge de l'hémangiome hépatique est décidée par le gastro-enté
 
 ### Pour en savoir plus : prise en charge d'un hémangiome hépatique
 
-> << Qu'il s'agisse de patients ayant des lésions de grande taille ou des lésions entraînant des symptômes minimes, le bénéfice de la chirurgie est discutable >> – *EASL 2016*
+> << Qu'il s'agisse de patients ayant des lésions de grande taille ou des lésions entraînant des symptômes minimes, le bénéfice de la chirurgie est discutable >> -- *EASL 2016*
 
 La prise en charge de l'hémangiome hépatique typique est conservatrice du fait de son caractère bénin.
 

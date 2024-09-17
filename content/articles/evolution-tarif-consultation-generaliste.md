@@ -148,7 +148,7 @@ Pour le graphique avant 2002, les francs français ont été convertis avec l'ou
 | 2022  |              12,344 |           149 |
 {{< /table >}}
 
-> – *[Assurance Maladie. Effectif, prévalence et caractéristiques des bénéficiaires d'une ALD - 2008 à 2022. 20/11/2023](https://assurance-maladie.ameli.fr/etudes-et-donnees/prevalence-beneficiaires-ald)*
+> -- *[Assurance Maladie. Effectif, prévalence et caractéristiques des bénéficiaires d'une ALD - 2008 à 2022. 20/11/2023](https://assurance-maladie.ameli.fr/etudes-et-donnees/prevalence-beneficiaires-ald)*
 
 ### Population de plus de 60 ans
 
@@ -165,6 +165,6 @@ Pour le graphique avant 2002, les francs français ont été convertis avec l'ou
 | 2014  |             28 |           165 |
 {{< /table >}}
 
-> – *[Insee. Pyramide des âges ai 1er janvier. 2024.](https://www.insee.fr/fr/outil-interactif/5014911/pyramide.htm#!&t=1)*
+> -- *[Insee. Pyramide des âges ai 1er janvier. 2024.](https://www.insee.fr/fr/outil-interactif/5014911/pyramide.htm#!&t=1)*
 
 {{% /collapse %}}

@@ -56,7 +56,7 @@ Endocardite infectieuse (EI)
     - Matériel prothétique
 4. Assistance ventriculaire
 
-> – *ESC 2023*
+> -- *ESC 2023*
 {{%/info%}}
 
 ### Patients à risque intermédiaire d'endocardite infectieuse
@@ -72,7 +72,7 @@ Endocardite infectieuse (EI)
 - Manipulation de la région gingivale ou péri-apicale de la dent
 - Perforation de la muqueuse orale
 
-> – *ESC 2015*
+> -- *ESC 2015*
 
 Lors des autres gestes invasifs ([coloscopie]({{< relref "cancer-colorectal.md" >}}), endoscopie bronchique, urétéroscopie ...), l'antibioprophylaxie pourrait être considérée.
 

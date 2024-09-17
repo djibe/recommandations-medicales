@@ -63,7 +63,7 @@ SFD
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << Le diagnostic de psoriasis est un diagnostic clinique dans la très grande majorité des cas. >> – *CEDEF 2023*
+> << Le diagnostic de psoriasis est un diagnostic clinique dans la très grande majorité des cas. >> -- *CEDEF 2023*
 {.alert .alert-info}
 
 ### Interrogatoire
@@ -81,7 +81,7 @@ SFD
   - Atteinte chronique ou par poussées
   - Traitements essayés
   - Localisations  
-    <mark>Typiques exposées aux frottements: coudes, genoux, jambes, lombo-sacrée et fesses, cuir chevelu, ongles, paumes et plantes.</mark>
+    ==Typiques exposées aux frottements: coudes, genoux, jambes, lombo-sacrée et fesses, cuir chevelu, ongles, paumes et plantes.==
   - Atteinte symétrique
   - Absence de cicatrices
   - Muqueuses et phanères (ongles ++)
@@ -245,7 +245,7 @@ Les traitements systémiques relèvent uniquement du dermatologue:
 - Immunomodulateur: **[méthotrexate]({{< relref "methotrexate.md" >}})** > ciclosporine > aprémilast (Otezla®)
 - Biothérapie
   - Anti-TNFα: étanercept, infliximab, **adalimumab** ({{< traitements/adalimumab >}}), certolizumab
-  - IL-12 et IL-23: **ustékinumab** (Stelara®)
+  - IL-12 et IL-23: **ustékinumab** (Stelara®, Uzpruvo®)
   - IL-17: sécukinumab, ixékizumab, brodalumab, bimékizumab
   - IL-23: guselkumab, rizankizumab, tildrakizumab
 

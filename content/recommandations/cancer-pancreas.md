@@ -130,7 +130,7 @@ Le dépistage du cancer du pancréas est réalisé par échoendoscopie couplée 
 
 Le dépistage débute à 40 ans en cas de pancréatite héréditaire et 50 ans (ou 10 ans avant le cas index) dans les cancers pancréatiques familiaux.
 
-> – *INCa 2019*
+> -- *INCa 2019*
 
 <details class="my-4">
   <summary>Indications au dépistage de l'adénocarcinome du pancréas selon TNCD 2018</summary>

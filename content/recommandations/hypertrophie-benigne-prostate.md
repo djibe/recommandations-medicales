@@ -178,7 +178,7 @@ Le bilan urodynamique et les autres examens sont réservés à l'urologue.
 - Obstruction sévère ou complication  
   Symptômes sévères, rétention aiguë d'urines, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [prostatite aiguë]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), calcul ou diverticule de la vessie, résidu post-mictionnel > 100 mL.
 
-> – *AFU 2023* et *2015*
+> -- *AFU 2023* et *2015*
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hypertrophie bénigne de prostate HBP" %}}

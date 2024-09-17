@@ -93,21 +93,21 @@ Acariens présents dans les aliments: récipients hermétiques au congélateur.
 - Ne pas tondre soi-même
 - Laver les cheveux en fin de journée
 
-> – *STAllergènes*
+> -- *STAllergènes*
 
 ### Allergie à l'arachide
 
 - Consommation possible de produits étiquetés *avec traces* (Anses 2015)  
 Sauf sujet avec seuil réactogène bas.
 
-> – *Anses*
+> -- *Anses*
 
 ### Allergies aux moisissures des aliments
 
 - Nettoyer régulièrement les placards et réserves alimentaires
 - Conserver les farines dans des récipients hermétiques, au sec
 
-> – *Anses*
+> -- *Anses*
 
 ### Allergie aux Anisakidés
 
@@ -116,7 +116,7 @@ Sauf sujet avec seuil réactogène bas.
 - Cas très sévère: éviction totale du poisson et des céphalopodes  
 Consommation possible de poissons d'eau douce et d'aquaculture.
 
-> – *Anses*
+> -- *Anses*
 
 {{% /collapse %}}
 {{%collapse "Allergènes de l'anaphylaxie" %}}
@@ -138,7 +138,7 @@ Consommation possible de poissons d'eau douce et d'aquaculture.
 13. Moutarde
 14. Sulfites - métabisulfites
 
-> – *Anses*
+> -- *Anses*
 
 ### Fruits à coques
 

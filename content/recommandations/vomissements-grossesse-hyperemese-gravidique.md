@@ -105,7 +105,7 @@ Prise en charge et traitements recommandés pour les nausées et vomissements pe
 - Dépister un trouble des conduites alimentaires ({{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}) (*HAS/FFAB 2019*)
 - Arrêter les vitamines et la [supplémentation en fer]({{< relref "anemie.md" >}}), sauf la vitamine B9
 - Adapter le mode de vie selon les préférences personnelles
-- <mark>Traitements des nausées de première intention</mark>
+- ==Traitements des nausées de première intention==
   - Consultation de contrôle à 72 heures nécessaire
   - Symptômes légers ({{< modal-btn modal-puqe >}}Score PUQE < 6{{< /modal-btn >}})  
     Gingembre, ~~vitamine B6 (pyridoxine)~~ (non disponible seule), acupression, acupuncture, électrostimulation même si leur efficacité n'est pas prouvée.

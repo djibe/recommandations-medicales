@@ -69,7 +69,7 @@ Surveillance des plaquettes systématique pendant toute la durée du traitement 
   - Antécédent d'exposition à l'héparine ou aux HBPM dans les 6 mois
   - Comorbidité importante (risque élevé en cas de TIH)
 
-> – *Afssaps 2011*
+> -- *Afssaps 2011*
 
 ### Situations ne nécessitant pas de surveillance des plaquettes
 
@@ -110,4 +110,4 @@ Signes de TIH:
 
 {{%/sources%}}
 
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–
+≤≥±®æœŒÈ²³ÂSpO~2~–

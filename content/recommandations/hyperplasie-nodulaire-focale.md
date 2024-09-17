@@ -131,7 +131,7 @@ Le diagnostic d'hyperplasie nodulaire focale doit être formel afin de s'affranc
 
 En cas de diagnostic incertain pour une tumeur < 3 cm, compléter avec **échographie de contraste** (ECUS), au-delà de 3 cm, une **biopsie hépatique** est indiquée.
 
-> << Une augmentation lente de la taille n'est pas préoccupante si le diagnostic d'HNF est formel. >> – *EASL 2016*
+> << Une augmentation lente de la taille n'est pas préoccupante si le diagnostic d'HNF est formel. >> -- *EASL 2016*
 {.alert .alert-info}
 
 {{% /collapse %}}

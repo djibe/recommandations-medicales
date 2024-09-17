@@ -85,4 +85,4 @@ Ne pas utiliser:
 
 {{%/modal%}}
 
-≤≥±®æœŒÈ³ÂSpO<sub>2</sub>
+≤≥±®æœŒÈ³ÂSpO~2~

@@ -71,6 +71,16 @@ title = "RecoMédicales"
   #date = 2006-01-02
   #datetime = "2006-01-02T15:04:05Z0700"  # html ISO 8601 datetimeformat
 
+[markup.goldmark.extensions]
+  strikethrough = false
+[markup.goldmark.extensions.extras.delete]
+  enable = true
+[markup.goldmark.extensions.extras.mark]
+  enable = true
+[markup.goldmark.extensions.extras.subscript]
+  enable = true
+[markup.goldmark.extensions.extras.superscript]
+  enable = true
 [markup.goldmark.parser]
   autoHeadingIDType = 'github'
 [markup.goldmark.parser.attribute]

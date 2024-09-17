@@ -118,7 +118,7 @@ Bilan d'une tumeur testiculaire:
 - Marqueurs tumoraux si échographie évocatrice: alpha-fœtoprotéine (AFP), β-hCG, LDH
 - Bilan d'extension: scanner thoraco-abdomino-pelvien avec injection (TDM TAP)
 
-> – *EAU 2024*, *HAS* et *INCa 2011*
+> -- *EAU 2024*, *HAS* et *INCa 2011*
 
 Adresser à l'urologue d'un centre de lutte contre le cancer (CLCC) avec les résultats du bilan initial.
 

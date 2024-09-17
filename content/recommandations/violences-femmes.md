@@ -75,7 +75,7 @@ Exemples de formulations:
 
 ### Le questionnaire WAST
 
-> << Le questionnaire WAST en français est un outil valide et rapide d'utilisation à destination de tous les professionnels de santé. >> – *Santé Publique France*
+> << Le questionnaire WAST en français est un outil valide et rapide d'utilisation à destination de tous les professionnels de santé. >> -- *Santé Publique France*
 {.alert .alert-info}
 
 {{< scores/wast >}}

@@ -129,7 +129,7 @@ La rééducation est possible durant la grossesse.
 
 Rééducation comportementale en cas d'urgenturie prédominante.
 
-> << Le résultat de l'électrostimulation vaginale dans l'incontinence urinaire d'effort chez la femme semble d'effet limité >> – *CNGOF 2009*
+> << Le résultat de l'électrostimulation vaginale dans l'incontinence urinaire d'effort chez la femme semble d'effet limité >> -- *CNGOF 2009*
 
 ### Traitements médicamenteux de l'incontinence urinaire
 

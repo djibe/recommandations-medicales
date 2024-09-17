@@ -149,7 +149,7 @@ Comme tous les vaccins vivants, la vaccination anti-zostérienne doit être réa
 Vaccination post-exposition: âge ≥ 12 ans immunocompétent sans antécédent de varicelle, en contact avec un cas de [varicelle]({{< relref "varicelle.md" >}}) ou de zona.  
 Sérologie varicelle en urgence. La vaccination varicelle doit avoir lieu dans les 3 jours suivant le contact.
 
-> – *Calendrier vaccinal*
+> -- *Calendrier vaccinal*
 
 ### Information des personnes immunodéprimées
 
@@ -227,7 +227,7 @@ Indications à l'avis ophtalmologique en urgence:
 
 Hospitalisation pour aciclovir intra-veineux et (méthyl-)prednisolone.
 
-> – *SFORL 2020*
+> -- *SFORL 2020*
 
 {{% /collapse %}}
 {{%collapse "Traitement des douleurs post-zostériennes" %}}

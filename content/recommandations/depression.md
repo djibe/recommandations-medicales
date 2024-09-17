@@ -192,14 +192,14 @@ L'évaluation de la sévérité repose sur le nombre de critères, la sévérit�
 
 **NB.** La réaction à une perte significative (ex. décès, ruine financière, perte secondaire à une catastrophe naturelle, affection médicale ou handicap sévères) peut inclure une tristesse intense, des ruminations au sujet de cette perte, une insomnie, une perte d'appétit et une perte de poids notée au niveau du critère A, et peut ressembler à un épisode dépressif. Bien que ces symptômes puissent être compréhensibles ou considérés comme adaptés face à cette perte, la présence d'un EDC en plus de la réponse normale à cette perte doit aussi être envisagée. Cette décision demande que le jugement clinique tienne compte de l'histoire individuelle et des normes culturelles concernant l'expression de la souffrance dans un contexte de perte. Pour constituer un trouble dépressif unipolaire, les critères D et E doivent s'y ajouter.
 
-> – [HAS. Définition de l'EDC selon le DSM-5 (proposition de traduction) (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2014-12/annexe_4_definition_de_ledc_selon_le_dsm-5_proposition_de_traduction.pdf)
+> -- [HAS. Définition de l'EDC selon le DSM-5 (proposition de traduction) (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2014-12/annexe_4_definition_de_ledc_selon_le_dsm-5_proposition_de_traduction.pdf)
 
 ### Critères diagnostiques CIM-11 de l'épisode dépressif unique
 
 Épisode dépressif unique (6A70)
 : Le trouble dépressif à épisode unique est caractérisé par la présence ou l'antécédent d'un épisode dépressif alors qu'il n'y a pas d'antécédents d'épisodes dépressifs antérieurs. Un épisode dépressif se caractérise par une période d'humeur dépressive ou une diminution de l'intérêt pour les activités se produisant la majeure partie de la journée, presque tous les jours pendant une période d'au moins deux semaines accompagnée d'autres symptômes tels que des difficultés de concentration, des sentiments de dévalorisation ou de culpabilité excessive ou inappropriée, un désespoir, des pensées récurrentes de mort ou de suicide, des modifications de l'appétit ou du sommeil, une agitation ou un retard psychomoteur et une baisse d'énergie ou une fatigue. Il n'y a jamais eu d'épisodes maniaques, hypomaniaques ou mixtes antérieurs, qui indiquerait la présence d'un trouble bipolaire.
 
-> – [Classification Internationale des Maladies 11e version (CIM-11)](https://icd.who.int/browse11/l-m/fr#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f578635574)
+> -- [Classification Internationale des Maladies 11e version (CIM-11)](https://icd.who.int/browse11/l-m/fr#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f578635574)
 
 ### Critères diagnostiques CIM-10 de l'épisode dépressif
 
@@ -224,7 +224,7 @@ L'évaluation de la sévérité repose sur le nombre de critères, la sévérit�
 - Le deuil n'est pas un EDC mais peut le devenir
 - Diagnostic difficile chez le sujet âgé avec des troubles somatiques et cognitifs au premier plan
 
-> – [Classification Internationale des Maladies 10e version (CIM-10)](https://icd.who.int/browse10/2008/fr#/F32)
+> -- [Classification Internationale des Maladies 10e version (CIM-10)](https://icd.who.int/browse10/2008/fr#/F32)
 
 ### Diagnostic différentiel d'un épisode dépressif caractérisé
 
@@ -302,12 +302,12 @@ Avec l'accord du patient, interroger l'entourage.
 
 Questionnaires d'aide au diagnostic de la dépression chez l'adulte (voir la section dédiée): {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HADS{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, adolescent {{< modal-btn modal-adrs >}}ADRS{{< /modal-btn >}} (13-20 ans), sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} couplé au {{< scores/mmse >}}.
 
-> << Le diagnostic de l'épisode dépressif caractérisé est clinique >> – *HAS 2017*
+> << Le diagnostic de l'épisode dépressif caractérisé est clinique >> -- *HAS 2017*
 
 {{% /collapse %}}
 {{%collapse "Évaluation du risque suicidaire" %}}
 
-> << Tout épisode dépressif caractérisé chez le sujet âgé comporte un risque suicidaire élevé >> – *HAS 2017*
+> << Tout épisode dépressif caractérisé chez le sujet âgé comporte un risque suicidaire élevé >> -- *HAS 2017*
 
 Exemple de questions à poser pour évaluer l'intention suicidaire:
 
@@ -320,7 +320,7 @@ Exemple de questions à poser pour évaluer l'intention suicidaire:
 - Avez-vous à votre disposition les moyens pour faire cela ?
 - Qu'est-ce qui vous retient de mettre en œuvre ces pensées ?
 
-> – *HAS 2017*
+> -- *HAS 2017*
 
 Le questionnement sur le suicide ne renforce pas le risque suicidaire.
 {.alert .alert-warning}
@@ -358,7 +358,7 @@ L'accumulation de facteurs de risque aggrave la dangerosité:
   - Toxiques ou sevrage
   - Comorbidité somatique invalidante, symptômes physiques (douleur chronique, insomnie, incapacité)
 
-> – *HAS 2017*
+> -- *HAS 2017*
 
 ### Degrés d'urgence suicidaire
 
@@ -405,7 +405,7 @@ Le patient en crise:
 
 Réévaluations fréquentes du niveau d'urgence.
 
-> – *HAS 2017*
+> -- *HAS 2017*
 
 {{% /collapse %}}
 {{%collapse "Critères d'hospitalisation de la dépression" %}}
@@ -422,7 +422,7 @@ Envisager une hospitalisation immédiate ou au cours de l'évolution si:
 - Sevrage de substance psychoactive
 - À chaque fois qu'une situation particulière l'exige (ex. dépression sévère du post-partum)
 
-> – *HAS. Épisode dépressif caractérisé de l'adulte : prise en charge en soins de premier recours. 2017.*
+> -- *HAS. Épisode dépressif caractérisé de l'adulte : prise en charge en soins de premier recours. 2017.*
 
 Si l'hospitalisation est refusée par le patient, évaluer une hospitalisation sous contrainte.
 
@@ -440,7 +440,7 @@ Bilan à la recherche de diagnostic différentiel:
 - [TSH](/tags/tsh/)
 - ± Toxiques urinaires
 
-> – *CNUP*
+> -- *CNUP*
 
 **NB.** {{< modal-btn modal-saos >}}Rechercher un syndrome d'apnées du sommeil{{< /modal-btn >}} à l'examen.
 
@@ -494,9 +494,9 @@ La prise en charge de la dépression nécessite des consultations dédiées. Pou
 
 Le traitement d'attaque de la phase aiguë de dépression vise la **rémission complète des symptômes**. Ensuite la phase de consolidation vise à prévenir la rechute.
 
-> << Après évaluation, un traitement antidépresseur peut être prescrit dès la première consultation si l'intensité du tableau clinique le nécessite. >> – *HAS 2017* (sauf épisode dépressif caractérisé d'intensité légère)
+> << Après évaluation, un traitement antidépresseur peut être prescrit dès la première consultation si l'intensité du tableau clinique le nécessite. >> -- *HAS 2017* (sauf épisode dépressif caractérisé d'intensité légère)
 
-> << Il n'existe pas de différence d'efficacité clinique démontrée entre les différents types d'antidépresseurs pour les patients suivis en ambulatoire. >> – *HAS 2017*
+> << Il n'existe pas de différence d'efficacité clinique démontrée entre les différents types d'antidépresseurs pour les patients suivis en ambulatoire. >> -- *HAS 2017*
 
 Classes thérapeutiques d'antidépresseurs: {{< modal-btn modal-isrs >}}ISRS{{< /modal-btn >}}, {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}, autres antidépresseurs (miansérine, mirtazapine 15-45 mg/j, vortioxétine sauf tianeptine et agomélatine). Antidépresseurs imipraminiques (tricycliques) en 2e intention par toxicité cardiovasculaire (et pas après 75 ans) et IMAO en dernier recours.
 
@@ -519,7 +519,7 @@ Les autres traitements, médicamenteux (IMAO, buspirone, kétamine, eskétamine)
 
 La bithérapie est également une décision du spécialiste: grade A (quétiapine, aripiprazole, risperidone), grade B (olanzapine, mirtazapine voire bupropion, buspirone).
 
-> << Au total, dans l'indication de traitement de la dépression résistante chez l'adulte, malgré un profil de sécurité rassurant, les données retenues liées à la rTMS (stimulation électrique transcrânienne) ne montrent pas un impact clinique favorable >> – *HAS 2022*
+> << Au total, dans l'indication de traitement de la dépression résistante chez l'adulte, malgré un profil de sécurité rassurant, les données retenues liées à la rTMS (stimulation électrique transcrânienne) ne montrent pas un impact clinique favorable >> -- *HAS 2022*
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}

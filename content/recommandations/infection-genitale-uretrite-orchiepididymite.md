@@ -179,7 +179,7 @@ Mesures associées:
 - Si persistance des symptômes après 72 heures: consultation de contrôle avec les résultats
 - Gonococcie: déclaration anonyme à l'ARS (*CMIT*)
 
-> – *HAS 2021* et *EAU 2024*
+> -- *HAS 2021* et *EAU 2024*
 
 {{% /collapse %}}
 {{%collapse "Épididymite et orchi-épididymite" %}}
@@ -272,7 +272,7 @@ Mesures associées au traitement de l'orchiépididymite:
 
 Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques en cas de récidive.
 
-> – *EAU 2024* et *SFD 2016*
+> -- *EAU 2024* et *SFD 2016*
 
 {{% /collapse %}}
 {{%sources%}}

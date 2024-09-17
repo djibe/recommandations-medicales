@@ -17,13 +17,13 @@ english = ["Access to the medical file"]
 sctid = ""
 icd10 = []
 image = true
-imageSrc = "Illustration par vectorjuice / Freepik"
+imageSrc = "Illustration du dossier médical par vectorjuice / Freepik"
 todo = "Personne de confiance ?"
 +++
 
 {{%collapse "Accès au dossier médical, que dit la loi ?" %}}
 
-> << Toute personne a accès à l'ensemble des informations concernant sa santé détenues, à quelque titre que ce soit, par des professionnels et établissements de santé, qui sont formalisés ou ont fait l'objet d'échanges écrits entre professionnels de santé >> – *[Article L1111-7 - Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024316824/2024-03-21/)*
+> << Toute personne a accès à l'ensemble des informations concernant sa santé détenues, à quelque titre que ce soit, par des professionnels et établissements de santé, qui sont formalisés ou ont fait l'objet d'échanges écrits entre professionnels de santé >> -- *[Article L1111-7 - Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024316824/2024-03-21/)*
 {.alert .alert-info}
 
 L'accès au dossier médical est un droit pour la personne concernée et n'a donc pas à être motivé.
@@ -33,7 +33,7 @@ L'accès est demandé au professionnel libéral concerné ou au directeur de l'�
 Le dossier médical peut être consulté sur place ou envoyé par voie postale. Les frais sont alors à la charge du demandeur.
 
 << La présence d'une tierce personne (un autre médecin par exemple) lors de la consultation de certaines informations peut être recommandée par le médecin. Elle ne peut pas être imposée, sauf dans le cas d'une personne hospitalisée en service psychiatrique, d'office ou sur demande d'un tiers.  
-Si la présence d'un tiers est recommandée, les informations sont communiquées dès que l'intéressé a exprimé son refus ou son acceptation de suivre la recommandation. >> – *Service-public*
+Si la présence d'un tiers est recommandée, les informations sont communiquées dès que l'intéressé a exprimé son refus ou son acceptation de suivre la recommandation. >> -- *Service-public*
 
 ### Accès au dossier médical par des tiers
 
@@ -52,9 +52,9 @@ L'accès au dossier médical d'un tiers n'est pas possible sauf dans les situati
 - Sujet mineur décédé  
   Son représentant légal (sauf si le mineur exerce son droit d'opposition).
 
-> – *Service-Public* et *CNOM*
+> -- *Service-Public* et *CNOM*
 
-**NB.** << Une fois que le tuteur a accès aux informations sur la santé de la personne protégée, celui-ci doit respecter le secret médical. Il lui est donc interdit de divulguer à des tiers toute information sur l'état de santé de la personne sous tutelle. >> – *Service-Public*
+**NB.** << Une fois que le tuteur a accès aux informations sur la santé de la personne protégée, celui-ci doit respecter le secret médical. Il lui est donc interdit de divulguer à des tiers toute information sur l'état de santé de la personne sous tutelle. >> -- *Service-Public*
 
 ### En l'absence de remise du dossier médical
 

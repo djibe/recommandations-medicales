@@ -35,7 +35,7 @@ Page servant uniquement à stocker quelques mémos
 - Rappel annuel des +65 ans des immunodéprimé, EHPAD/USLD, très haut risque de forme grave (chimio, dialyse, voir *Personnes à risque*)
 - Passe vaccinal frauduleux désirant se faire vacciner, orienter vers un centre de vaccination (*[CNOM 23/02](https://www.conseil-national.medecin.fr/publications/actualites/rectification-vaccinal-frauduleux)*)
 
-<< Important de bien comprendre cela car pas du tout évident à priori. L'immunité naturelle, celle que l'on acquiert après une infection procure en générale une bonne protection. Ce n'est pas le cas avec le Sars-Cov2, non seulement l'immunité naturelle ne semble pas très efficace mais le virus éroderait notre système immunitaire. De plus, les réinfections augmenteraient le risque de séquelles à long terme. >> – *Pr Rémi Salomon 16/07/2022*
+<< Important de bien comprendre cela car pas du tout évident à priori. L'immunité naturelle, celle que l'on acquiert après une infection procure en générale une bonne protection. Ce n'est pas le cas avec le Sars-Cov2, non seulement l'immunité naturelle ne semble pas très efficace mais le virus éroderait notre système immunitaire. De plus, les réinfections augmenteraient le risque de séquelles à long terme. >> -- *Pr Rémi Salomon 16/07/2022*
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -126,7 +126,7 @@ Possibilité de préciser une **dispensation conditionnelle** en cas de test Cov
 {{% /collapse %}}
 {{%collapse "Vaccination contre le Covid-19" %}}
 
-> << Il n'y a aujourd'hui pas de seuil établi qui permette de corréler la réponse humorale à la protection contre les formes graves d'infection. Il est donc inutile de faire une sérologie avant un nouveau rappel. >> – *HAS 2023*
+> << Il n'y a aujourd'hui pas de seuil établi qui permette de corréler la réponse humorale à la protection contre les formes graves d'infection. Il est donc inutile de faire une sérologie avant un nouveau rappel. >> -- *HAS 2023*
 
 Vaccination annuelle ARNm à l'automne des +65 ans et des personnes à risque de forme grave de plus de 6 mois:
 
@@ -179,7 +179,7 @@ Pour les professionnels concernés par l'obligation vaccinale, le [Certificat m�
 2. Myocardites ou péricardites d'étiologie non liée à une infection par SARS-CoV-2 survenues antérieurement à la vaccination et toujours évolutives
 3. Syndrome inflammatoire multi-systémique pédiatrique (PIMS) post-infection par le SARS-CoV-2, pendant 3 mois suivant la survenue du PIMS. La vaccination peut avoir lieu passé ce délai, après récupération d'une fonction cardiaque normale, et en l'absence de tout syndrome inflammatoire.
 
-> – *DGS Urgent 2022-72*
+> -- *DGS Urgent 2022-72*
 
 {{% /collapse %}}
 {{%collapse "Séquelles du Covid" %}}

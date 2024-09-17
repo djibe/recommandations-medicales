@@ -233,8 +233,8 @@ Essayer l'abstention en cas de chirurgie proche.
 
 Les injections intra-articulaires d'acide hyaluronique (AH) dans le genou peuvent être proposées, sans avancer d'effet chondroprotecteur. L'efficacité est retardée par rapport aux corticoïdes.
 
-> << Le groupe de travail a considéré que leur niveau d'efficacité et leur profil de tolérance les placent comme un outil thérapeutique important de la gonarthrose symptomatique. >> – *SFR 2020*
-> << Le conseil scientifique du CNGE conclut à un rapport bénéfice/risque défavorable et conseille d'éviter la visco-supplémentation dans la gonarthrose >> – *CNGE 2022*
+> << Le groupe de travail a considéré que leur niveau d'efficacité et leur profil de tolérance les placent comme un outil thérapeutique important de la gonarthrose symptomatique. >> -- *SFR 2020*
+> << Le conseil scientifique du CNGE conclut à un rapport bénéfice/risque défavorable et conseille d'éviter la visco-supplémentation dans la gonarthrose >> -- *CNGE 2022*
 
 Pas de certitude entre le choix d'injection unique en séquentielle triple.  
 Le renouvellement des injections est discuté au cas par cas.
@@ -250,7 +250,7 @@ Méthodes chirurgicales: ostéotomie de réaxation ou prothèse de genou.
 
 Indication limitée des opioïdes aux patients ayant une contre-indication à la chirurgie du genou, en cas d'échec ou de contre-indication aux autres traitements.
 
-> << L'efficacité des opioïdes faibles et forts est considérée comme modeste sur la douleur arthrosique. >> – *SFR 2020*
+> << L'efficacité des opioïdes faibles et forts est considérée comme modeste sur la douleur arthrosique. >> -- *SFR 2020*
 
 #### Médicaments anti-arthrosiques symptomatiques d'action lente
 

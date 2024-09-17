@@ -52,7 +52,7 @@ IGH
 Vaginose bactérienne
 : Syndrome traduisant un déséquilibre de la flore vaginale avec remplacement des lactobacilles (flore de Döderlein) par des microorganismes commensaux: anaérobies (*Mobiluncus sp* ...), *Mycoplasma hominis* et *Gardnerella vaginalis* dont la prolifération est responsable des symptômes (leucorrhées malodorantes).
 : Facteurs de risque de vaginose: toilette intravaginale, partenaires multiples et homosexualité.
-: <mark>Pas de traitement du partenaire (sauf trichomonose) ou d'une patiente asymptomatique (sauf trichomonose)</mark>.
+: ==Pas de traitement du partenaire (sauf trichomonose) ou d'une patiente asymptomatique (sauf trichomonose)==.
 
 Aucun prélèvement n'est nécessaire en cas de vaginite ou de candidose typique. L'examen du col au spéculum est nécessaire.
 
@@ -67,7 +67,7 @@ Prélèvement bactériologique et culture:
 Métronidazole 500 mg x 2/j pendant 7 jours
 {.alert .alert-info}
 
-> – *SFD 2016*
+> -- *SFD 2016*
 
 ### *Trichomonas vaginalis*
 
@@ -124,7 +124,7 @@ Cervicite muco-purulente
 - Pas de rapports sexuels jusqu'à J7
 - ± Renouveler la sérologie VIH à 6 semaines
 
-> – *HAS 2021* et *SFD 2016*
+> -- *HAS 2021* et *SFD 2016*
 
 {{% /collapse %}}
 {{%collapse "Endométrite" %}}
@@ -164,4 +164,4 @@ La responsabilité de *Mycoplasma genitalium* est possible dans certains cas de 
 
 {{%/sources%}}
 
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–
+≤≥±®æœŒÈ²³ÂSpO~2~–

@@ -37,7 +37,7 @@ NFS-plaquettes, TP, TCA, créatininémie, transaminases.
 
 #### Débuter le traitement par Coumadine
 
-- <mark>Débuter à 5 mg/j</mark>
+- ==Débuter à 5 mg/j==
 - Préférer 2 mg/j si: [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), personne âgée, fragile, maigre/dénutrie, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ou hépatique
 - de préférence le soir
 - **INR 12 heures après la 3<sup>e</sup> prise**. Si INR > 2: diminuer la posologie.

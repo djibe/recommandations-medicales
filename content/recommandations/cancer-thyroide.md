@@ -173,7 +173,7 @@ Mesures associées à la prise en charge des cancers:
 
 ### Pour en savoir plus: les traitements du cancer de la thyroïde
 
-> << Les cancers anaplasiques de la thyroïde représentent une urgence thérapeutique. >> – *INCa 2023*
+> << Les cancers anaplasiques de la thyroïde représentent une urgence thérapeutique. >> -- *INCa 2023*
 {.alert .alert-warning}
 
 Le traitement du cancer de la thyroïde est décidé en réunion de concertation pluridisciplinaire (**RCP**) spécialisée et peut être, selon le type histologique et l'extension: chirurgie (lobo-isthmectomie ou thyroïdectomie totale avec ou sans curage ganglionnaire), surveillance active, thérapie ciblée.

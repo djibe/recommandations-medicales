@@ -202,11 +202,11 @@ La prise en charge d'un enfant de moins de 10 kg est hospitalière du fait de l'
 - Raser les cheveux autour
 - Surinfection: povidone iodée moussante (Bétadine Scrub® 4%) en shampooing au début
 - Traitement probabiliste  
-  - <mark>Terbinafine 250 mg x 1/j pendant 28 jours (voir la section *Traitements* pour les doses)</mark>
+  - ==Terbinafine 250 mg x 1/j pendant 28 jours (voir la section *Traitements* pour les doses)==
   - Pour les enfants et -40 kg, voir les posologies dans la section plus bas [Traitements des mycoses](#traitements-des-mycoses)
   - Prolonger 2 semaines si amélioration partielle à 4 semaines avec une culture à *Microsporum*
   - [Fiche SFD info patient terbinafine et itraconazole (SFD)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Bordereau-3_Prise-des-medicaments.pdf)
-- <mark>\+ éconazole ou ciclopirox olamine 1% crème x 2/j en même temps (28 jours)</mark>
+- ==\+ éconazole ou ciclopirox olamine 1% crème x 2/j en même temps (28 jours)==
 - Examiner l'entourage  
   Jusqu'à 50% de porteurs et traitement oral si atteints.
 - Contrôle clinique à 4 semaines avec résultats mycologiques  
@@ -312,7 +312,7 @@ Le prélèvement vaginal est dispensable pour un épisode aigu ambulatoire d'év
 {.alert .alert-info}
 
 - Inspection vulvaire
-- <mark>Fluconazole 150 mg cp dose unique</mark> ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67860651&typedoc=R), [interactions](https://www.drugs.com/interaction/list/?drug_list=1096-0))
+- ==Fluconazole 150 mg cp dose unique== ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67860651&typedoc=R), [interactions](https://www.drugs.com/interaction/list/?drug_list=1096-0))
 - ou clotrimazole 500 mg caps vaginale (Mycohydralin® NR) dose unique ([molécule de référence pendant la grossesse](https://www.lecrat.fr/10189/))  
   Pendant la **grossesse**, renouveler le traitement jusqu'à 6 fois si besoin.
 - Alternatives
@@ -322,7 +322,7 @@ Le prélèvement vaginal est dispensable pour un épisode aigu ambulatoire d'év
 - **Candidose sévère** (érythème étendu, œdème, excoriation ou fissure)
   - Fluconazole 150 mg 1 cp à J1 et J4
   - voire clotrimazole 500 mg caps vaginale (Mycohydralin® NR) à J1 et J4
-- <mark>± traitement local: éconazole 1% crème x 2/j pendant 14 à 28 jours</mark>
+- ==± traitement local: éconazole 1% crème x 2/j pendant 14 à 28 jours==
 - **Mesures d'hygiène**
   - Une seule toilette (externe) par jour avec savon à pH neutre (*Prescrire*, alcalin selon *Anofel*) sans autres soins
   - Éviter les lessives et assouplissants irritants

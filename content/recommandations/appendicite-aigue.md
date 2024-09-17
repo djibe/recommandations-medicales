@@ -155,7 +155,7 @@ Aucun score basé sur le syndrome inflammatoire ne s'est révélé suffisant pou
 - Créatininémie
 - ßHCG
 
-> – *Bilan non exhaustif du CDU-HGE*
+> -- *Bilan non exhaustif du CDU-HGE*
 
 En l'absence de signes cliniques (douleur migrant en FID) ET biologiques (NFS et CRP normaux), le diagnostic d'appendicite aiguë est peu probable. Possible exploration par imagerie ou surveillance clinique adaptée au contexte.
 {.alert .alert-info}
@@ -187,7 +187,7 @@ Pas d'antibiothérapie post-opératoire pour une appendicite non compliquée. Si
 
 ### Appendicite aiguë et antibiothérapie
 
-En cas de contre-indication ou d'impossibilité de la chirurgie, l'antibiothérapie IV seule est << une alternative acceptable >> – *SFCD 2021*. Minimum 24 heures de surveillance hospitalière.
+En cas de contre-indication ou d'impossibilité de la chirurgie, l'antibiothérapie IV seule est << une alternative acceptable >> -- *SFCD 2021*. Minimum 24 heures de surveillance hospitalière.
 
 La voie orale est recommandée en l'absence de nausées ou vomissements.
 

@@ -48,7 +48,7 @@ Appel du SAMU en cas de signes de suspicion d'insuffisance cardiaque aiguë mal 
 En attendant le SAMU, étayer les tableaux cliniques cardiaques possibles et renseigner pour le SAMU:
 
 - Pression artérielle monitorée, fréquence cardiaque
-- Fréquence respiratoire, SpO<sub>2</sub>
+- Fréquence respiratoire, SpO~2~
 - Glycémie capillaire si troubles neurologiques
 - Auscultation cardiorespiratoire
 - ECG si disponible

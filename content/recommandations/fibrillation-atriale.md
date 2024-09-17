@@ -29,7 +29,7 @@ flowchart = true
 - Dépister la fibrillation atriale (FA ou ACFA) si: +65 ans, diabète, hypertension artérielle
 - Le diagnostic de fibrillation est électrocardiographique (ECG)
 - Survient-elle de façon isolée ou sur une cardiopathie ?
-- Réévaluer régulièrement les {{< modal-btn modal-chads >}}risques embolique avec le score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}hémorragique HAS-BLED{{< /modal-btn >}}, symptômes, facteurs favorisants
+- Réévaluer régulièrement les {{< modal-btn modal-chads >}}risques embolique avec le score CHA~2~DS~2~-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}hémorragique HAS-BLED{{< /modal-btn >}}, symptômes, facteurs favorisants
 - Selon le {{< modal-btn modal-chads >}}risque embolique{{< /modal-btn >}}: {{< modal-btn modal-aod >}}anticoagulant oral direct (AOD){{< /modal-btn >}} ou absence d'anticoagulant...
 - voire [antivitamine K (AVK)]({{< relref "avk.md" >}}) si valve mécanique ou sténose mitrale modérée à sévère
 - Prise en charge de la fibrillation auriculaire: suivi cardiologique, {{< modal-btn modal-bradycardisant >}}ralentir la fréquence cardiaque < 80 bpm{{< /modal-btn >}} au repos, Holter-ECG
@@ -234,9 +234,9 @@ Envisager un ECG de dépistage systématique ≥ 75 ans (ou avec dispositif conn
 
 Réévaluer régulièrement les risques emboliques et de saignement.
 
-### Risque embolique: score CHA<sub>2</sub>DS<sub>2</sub>-VASc
+### Risque embolique: score CHA~2~DS~2~-VASc
 
-{{< modal-btn modal-chads >}}Calculer le score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} quelque soit le type de FA (sauf valve mécanique ou sténose mitrale modérée à sévère où un AVK est systématique).
+{{< modal-btn modal-chads >}}Calculer le score CHA~2~DS~2~-VASc{{< /modal-btn >}} quelque soit le type de FA (sauf valve mécanique ou sténose mitrale modérée à sévère où un AVK est systématique).
 
 ### Risque hémorragique: score HAS-BLED
 
@@ -349,7 +349,7 @@ ECG de contrôle de 1-2 semaines (1 mois pour l'amiodarone)
   Alcool, tabac, hypertension artérielle, apnées du sommeil, diabète, activité physique, surpoids.
 - Symptômes et {{< modal-btn modal-ehra >}}impact sur les activités{{< /modal-btn >}}  
   Type, durée quotidienne.
-- {{< modal-btn modal-chads >}}Réévaluation CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}
+- {{< modal-btn modal-chads >}}Réévaluation CHA~2~DS~2~-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}
 - FC au repos < 80 bpm
 - {{< modal-btn modal-observance >}}Observance{{< /modal-btn >}}
 - Complications: AVC/AIT, saignements

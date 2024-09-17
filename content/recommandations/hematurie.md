@@ -124,7 +124,7 @@ Chez l'enfant, les principales étiologies urinaires d'une hématurie sont: [inf
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << L'hématurie microscopique a la même valeur diagnostique que l'hématurie macroscopique. >> – *CUEN 2023*. Un [cancer de vessie]({{< relref "cancer-vessie.md" >}}) doit être éliminé chez le (ancien) fumeur.
+> << L'hématurie microscopique a la même valeur diagnostique que l'hématurie macroscopique. >> -- *CUEN 2023*. Un [cancer de vessie]({{< relref "cancer-vessie.md" >}}) doit être éliminé chez le (ancien) fumeur.
 {.alert .alert-info}
 
 Caractères sémiologiques de l'hématurie macroscopique:

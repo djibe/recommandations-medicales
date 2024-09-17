@@ -263,7 +263,7 @@ De 0 à 10, évaluer:
 - Le bon moment pour réduire/arrêter sa consommation
 - Confiance dans la réussite du projet de réduire/arrêter sa consommation
 
-> – *HAS 2021*
+> -- *HAS 2021*
 
 En cas d'alcoolodépendance, le suivi spécialisé est préférable.
 
@@ -458,7 +458,7 @@ Doses adaptées aux symptômes et réduites chez l'adolescent et le sujet âgé.
 Rester à la maison les 2 premiers jours, pas de conduite automobile pendant 5 jours.  
 Suivi rapproché durant le traitement.
 
-> – *AFEF 2021 et SFA 2015*
+> -- *AFEF 2021 et SFA 2015*
 {{%/info%}}
 
 Les **dépressions** sont fréquentes (80%) au cours du sevrage de l'alcool, mais seules 15% persistent à son issue. Recontrôler à 2-4 semaines après le début du sevrage avant d'introduire un antidépresseur.

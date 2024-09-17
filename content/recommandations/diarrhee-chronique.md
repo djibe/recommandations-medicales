@@ -231,7 +231,7 @@ Boire normalement (1,5 L/j) et éviter le jeûne (pullulation microbienne avec b
 - Matières grasses  
   Cuites, grosse quantité, aliments gras (charcuterie, viennoiserie), mayonnaise, crème fraîche.
 
-> – *CREGG 2010*
+> -- *CREGG 2010*
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la diarrhée chronique" "show" %}}

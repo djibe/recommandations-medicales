@@ -333,7 +333,7 @@ Contre-indications au traitement de la ménopause:
   - Thrombophilie
   - Risque cardiovasculaire marqué
 
-> – *CNGOF 2021*
+> -- *CNGOF 2021*
 
 {{%/warning%}}
 
@@ -571,7 +571,7 @@ Le THM utilisé en France ne modifie pas la survenue des pathologies suivantes:
 - Mortalité par cancer du sein
 - [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}})
 
-> – *CNGOF 2021*
+> -- *CNGOF 2021*
 
 > << La mortalité par cancer du sein n'est pas augmentée chez les femmes recevant un THM que cela soit dans les essais randomisés ou les études d'observation et quel que soit le type de THM >>. – *CNGOF 2021*
 {.alert .alert-info}

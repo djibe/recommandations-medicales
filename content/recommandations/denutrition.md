@@ -84,7 +84,7 @@ Un régime alimentaire est dit << équilibré >> avec les apports suivants:
 - Lipides: 35-40%
 - Protides: 10-20% (15-20% chez le +70 ans)
 
-> – *CDU-HGE 2022*
+> -- *CDU-HGE 2022*
 
 ### Abréviations
 
@@ -167,7 +167,7 @@ L'estimation des **besoins énergétiques totaux** applique au DEB un facteur de
 })
 </script>
 
-> – *[Harris JA, Benedict FG. A Biometric Study of Human Basal Metabolism. Proc Natl Acad Sci U S A. 1918;4(12):370-373. doi:10.1073/pnas.4.12.370](https://pubmed.ncbi.nlm.nih.gov/16576330/)*
+> -- *[Harris JA, Benedict FG. A Biometric Study of Human Basal Metabolism. Proc Natl Acad Sci U S A. 1918;4(12):370-373. doi:10.1073/pnas.4.12.370](https://pubmed.ncbi.nlm.nih.gov/16576330/)*
 
 ### Estimation des besoins énergétiques de l'enfant (règle 100/50/25)
 
@@ -451,7 +451,7 @@ Réévaluation de la dénutrition **à chaque consultation**, au moins mensuelle
 - Quel est votre poids ? Avez-vous perdu du poids depuis une semaine, un mois ?
 - Avez-vous diminué votre consommation alimentaire depuis une semaine, un mois ?
 
-> – *SFNCM CNO*
+> -- *SFNCM CNO*
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une dénutrition" "show" %}}

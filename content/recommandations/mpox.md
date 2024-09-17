@@ -65,7 +65,7 @@ Personne-contact négligeable
 : Toute personne ayant eu un contact à risque tel que décrit ci-dessus en présence de mesures de protection efficaces portées par la personne-contact, à l'exception des rapports sexuels qui restent toujours à risque. Les mesures de protection efficaces vis-à-vis du contact physique sont notamment le port de gants étanches (latex, nitrile, caoutchouc)
 : Toute autre situation
 
-> – Définitions de *Santé Publique France 2024*
+> -- Définitions de *Santé Publique France 2024*
 
 ### Abréviations
 
@@ -93,7 +93,7 @@ Personnes à risque de forme grave de Mpox:
   Risque mort fœtale in utero, fausse couche spontanée, transmission materno-fœtale ou périnatale
 - Enfants et adolescents de moins de 18 ans
 
-> – *HCSP mai 2022*
+> -- *HCSP mai 2022*
 
 {{%/warning%}}
 
@@ -110,7 +110,7 @@ Signes de gravité de la variole du singe:
 - Anomalies biologiques  
   Transaminases, hypoalbuminémie, hyperleucocytose et thrombopénie.
 
-> – *HCSP mai 2022*
+> -- *HCSP mai 2022*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -192,7 +192,7 @@ Toutes les personnes avec risque élevé d'exposition au virus de la variole du 
   - Visite familiale
   - Immunodéprimé
 
-> – *HAS 2024*
+> -- *HAS 2024*
 {.update}
 
 ### Comment vacciner contre Mpox ?

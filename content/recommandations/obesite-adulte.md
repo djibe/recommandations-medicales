@@ -253,7 +253,7 @@ Complications à dépister chez un adulte en obésité.
 | [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}}) | Dépistage régulier après 50 ans ou si symptômes            | HAS 2022 DMLA       |
 | Dyslipidémie                    | Cholestérol total, HDL, LDL, triglycérides                                               | ESC/ESH 2021        |
 | EFR                             | Indications: IMC ≥ 30 avec dyspnée NYHA 3-4, IMC ≥ 35 et SAHOS, IMC ≥ 40                 | HAS 2023            |
-| Gaz du sang                     | Indications: IMC ≥ 35, SpO<sub>2</sub> &lt; 94% ou CPT < 85%                             | HAS 2023            |
+| Gaz du sang                     | Indications: IMC ≥ 35, SpO~2~ &lt; 94% ou CPT < 85%                             | HAS 2023            |
 | [Grossesse]({{< relref "grossesse.md" >}}) | Prise de poids limitée à 5-9 kg                                               | SFD 2022            |
 | [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) | Mesure avec brassard adapté tous les 1 à 3 ans    | ESC/ESH 2021        |
 | [Maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, DFG et <abbr title="Rapport albuminurie/créatininurie">RAC</abbr> min. tous les 3 ans | HAS 2023 |
@@ -317,7 +317,7 @@ Liste des nutritionnistes sur [Annuaire Ameli](http://annuairesante.ameli.fr) (e
 
 ### Indications à la chirurgie bariatrique
 
-> << Il s'agit du seul traitement actuel de l'obésité ayant démontré son efficacité sur le long terme en termes de perte de poids et de réduction de certaines comorbidités >> – *CEEDMM*
+> << Il s'agit du seul traitement actuel de l'obésité ayant démontré son efficacité sur le long terme en termes de perte de poids et de réduction de certaines comorbidités >> -- *CEEDMM*
 {.alert .alert-info}
 
 La chirurgie bariatrique est décidée en réunion de concertation pluridisciplinaire (RCP).
@@ -333,7 +333,7 @@ Les indications à une chirurgie bariatrique avec conditions sont:
 6. Patients ayant compris et accepté la nécessité d'un suivi médical et chirurgical à long terme
 7. Risque opératoire acceptable
 
-> – Indications à la chirurgie bariatrique selon *HAS 2009*
+> -- Indications à la chirurgie bariatrique selon *HAS 2009*
 
 Les contraceptions orales doivent être réévaluées du fait du risque de malabsorption.
 
@@ -422,7 +422,7 @@ Exemples de conseils alimentaires à proposer en situation d'obésité:
 - Proposer la même alimentation pour toute la famille (seules les quantités vont varier)
 - Limiter l'utilisation de matière grasse pour la cuisson
 
-> – *CEEDMM 2021*
+> -- *CEEDMM 2021*
 
 {{% /collapse %}}
 {{% collapse "Prise en charge de l'obésité" "show" %}}

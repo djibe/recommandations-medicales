@@ -183,7 +183,7 @@ Une auscultation normale n'élimine pas le diagnostic de pneumonie.
 {.alert .alert-warning}
 
 - Pression artérielle, fréquence cardiaque, température, TRC
-- Fréquence respiratoire, SpO<sub>2</sub>
+- Fréquence respiratoire, SpO~2~
 - Examen pulmonaire  
   - Syndrome de condensation alvéolaire: crépitants localisés, diminution du murmure vésiculaire, souffle tubaire, augmentation de la transmission des vibrations vocales
   - Syndrome pleural: abolition du murmure vésiculaire, matité à la percussion
@@ -296,7 +296,7 @@ Autres bilans ambulatoires de la pneumopathie infectieuse:
 - Hospitalisation dans l'année
 - Vie en institution
 
-> – *Afssaps 2010*
+> -- *Afssaps 2010*
 
 Évaluer: tableau atypique ou incertain
 {{%/warning%}}
@@ -361,11 +361,11 @@ Traitement antibiotique probabiliste **pendant 5 jours** avec réévaluation sys
 
 En cas de **pneumonies récidivantes**, réaliser une électrophorèse des protéines et rechercher une [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (*GOLD 2024*). Au sein d'un même territoire, rechercher un **corps étranger** ou une **tumeur**.
 
-> En pédiatrie: << La normalisation complète n'est pas observée avant plusieurs semaines. >> – *CNPU*
+> En pédiatrie: << La normalisation complète n'est pas observée avant plusieurs semaines. >> -- *CNPU*
 
 ##### Suspicion de pneumonie à bactérie atypique
 
-<mark>Macrolide [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62913185&typedoc=R) 500 mg x 2/j pendant 5 jours</mark>  
+==Macrolide [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62913185&typedoc=R) 500 mg x 2/j pendant 5 jours==  
 ou [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68133135&typedoc=R) 500 mg à J1 puis 250 mg/j de J2 à J5.
 
 - Si pénurie:
@@ -381,7 +381,7 @@ ou [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDo
 
 Antibiothérapie chez l'enfant (pas d'intracellulaire avant 3 ans) selon *HAS 2023* et *GPIP 2023*:
 
-- <mark>Préférence: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose/kg x 2/j (max 1 g/j) pendant **5 jours**</mark>
+- ==Préférence: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose/kg x 2/j (max 1 g/j) pendant **5 jours**==
 - [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67287098&typedoc=R) 1 dose/kg en 1 prise par jour (soit 20 mg/kg avant 25 kg, max 500 mg/j), 500 mg/j au-delà, pendant **3 jours** (uniquement si pneumocoque exclu)
 - Si pénurie: [roxithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68658161&typedoc=R) pendant **10 jours**
   - 6-11 kg: 25 mg matin et soir
@@ -396,7 +396,7 @@ Antibiothérapie chez l'enfant (pas d'intracellulaire avant 3 ans) selon *HAS 20
 
 En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-pneumonie), chez le **sujet âgé** ou en cas de **comorbidités**:
 
-- <mark>Amoxicilline-acide clavulanique 1g</mark> x 3/j  
+- ==Amoxicilline-acide clavulanique 1g== x 3/j  
   ou ceftriaxone IM 1g x 1/j (ou FQAP lévofloxacine 0,5 - 1 g/j) pendant 7 jours
 - Si échec à 48-72 heures: ajout macrolide 14 jours (sauf lévofloxacine - *CMIT*) ou hospitalisation (*CEP*)
 

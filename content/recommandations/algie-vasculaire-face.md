@@ -74,9 +74,9 @@ SFEMC
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Critères diagnostiques AVF ICHD-3" %}}
+{{%collapse "Critères diagnostiques et diagnostic différentiel" %}}
 
-Critères diagnostiques de l'algie vasculaire de la face (ICHD-3):
+### Critères diagnostiques de l'algie vasculaire de la face (ICHD-3)
 
 1. Au moins 5 crises réunissant les critères B à D
 2. Douleur unilatérale sévère à très sévère, orbitaire, supra-orbitaire et/ou temporale durant 15 à 180 minutes sans traitement
@@ -107,6 +107,19 @@ AVF chronique
     1. Crises répondant aux critères 3.1 de l'AVF
     1. Survenant sans rémission ou avec des rémissions durant moins d'un mois pendant au moins 1 an
     {.liste-lettres}
+
+### Diagnostic différentiel de l'AVF
+
+Autres causes de céphalées paroxystiques à étayer:
+
+- [Migraine]({{< relref "migraine.md" >}})  
+  Moins sévère et plus longue, signes dysautonomiques bilatéraux, tendance au repli.
+- [Névralgie du trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})  
+  Après 50 ans, salves très brèves de quelques minutes. Territoires V2 et V3, dysautonomie minime, zone gâchette.
+- Autres céphalées trigémino-autonomiques (CTA)  
+  Crises plus courtes (2-30 min) et plus fréquentes (min 5/j) surtout chez la femme, sans périodicité, sensibilité à l'indométacine.
+- Céphalée hypnique  
+  Céphalée nocturne uniquement. Après 50 ans, intensité légère/modérée sans agitation.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -174,20 +187,6 @@ Un fond douloureux persistant est possible entre les crises en forme chronique.
 ### Examen clinique
 
 Examen neurologique complet.
-
-{{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-Autres causes de céphalées paroxystiques à étayer:
-
-- [Migraine]({{< relref "migraine.md" >}})  
-  Moins sévère et plus longue, signes dysautonomiques bilatéraux, tendance au repli.
-- [Névralgie du trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})  
-  Après 50 ans, salves très brèves de quelques minutes. Territoires V2 et V3, dysautonomie minime, zone gâchette.
-- Autres céphalées trigémino-autonomiques (CTA)  
-  Crises plus courtes (2-30 min) et plus fréquentes (min 5/j) surtout chez la femme, sans périodicité, sensibilité à l'indométacine.
-- Céphalée hypnique  
-  Céphalée nocturne uniquement. Après 50 ans, intensité légère/modérée sans agitation.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -270,7 +269,7 @@ Indication à la prise en charge par traitement de fond de l'algie vasculaire de
 ### Vérapamil
 
 - Prescription spécialisée
-- <mark>Débuter dès le début de la période douloureuse: vérapamil 80 mg x 3-4/j</mark>
+- ==Débuter dès le début de la période douloureuse: vérapamil 80 mg x 3-4/j==
 - Augmentation de 80 mg tous les 3-4 jours jusqu'à 480 mg (max 1000 mg)
 - Poursuivre la durée du cycle antérieur et jusqu'à au moins 2 semaines après la dernière crise
 - Puis réduction de 120 mg tous les 15 jours jusqu'à l'arrêt
@@ -284,7 +283,7 @@ Effets indésirables (35%): fatigue, [constipation]({{< relref "constipation.md"
 
 Traitement utilisé le temps de la titration le traitement de fond:
 
-- <mark>Prednisone (ou équivalent) 60-100 mg le matin pendant 5 jours</mark>  
+- ==Prednisone (ou équivalent) 60-100 mg le matin pendant 5 jours==  
   Puis réduction par paliers de 10 mg tous les 4-5 jours. Si résurgence à 10-20 mg/j, ré-augmenter progressivement.
 - Injection sous-occipitale de corticoïdes
 - Ergotamine 1 mg IM (non disponible en France) + anti-émétique

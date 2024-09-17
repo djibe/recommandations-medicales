@@ -77,7 +77,7 @@ Qualité de vie et suivi de la Maladie de Menière avec les 6 questions:
 5. Je suis incapable de travailler, de conduire, de m'occuper de ma famille, ou de m'impliquer dans la plupart des activités que j'avais l'habitude de faire. Même les activités essentielles me sont difficiles à réaliser. Je suis handicapé(e).
 6. J'ai arrêté de travailler depuis un an ou plus et/ou je touche une indemnisation à cause de mes problèmes de vertiges ou déséquilibre.
 
-> – *Ménière's Disease Outcome Questionnaire, AAO-HNS 1995*
+> -- *Ménière's Disease Outcome Questionnaire, AAO-HNS 1995*
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}

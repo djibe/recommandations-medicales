@@ -60,7 +60,7 @@ PTH
 {{% /collapse %}}
 {{%collapse "Calcul de la calcémie corrigée" %}}
 
-> << Une calcémie ionisée supérieure à 1,3 mmol/L est toujours pathologique (hypercalcémie vraie). >> – *CUEN 2023*
+> << Une calcémie ionisée supérieure à 1,3 mmol/L est toujours pathologique (hypercalcémie vraie). >> -- *CUEN 2023*
 {.alert .alert-warning}
 
 Le calcul de la **calcémie corrigée** (valeur de la calcémie totale si l'albuminémie était normale) est systématique pour corriger une fausse hypercalcémie liée à une hypoalbuminémie. Le calcul est inutile lorsque l'on dispose de la **calcémie ionisée**.

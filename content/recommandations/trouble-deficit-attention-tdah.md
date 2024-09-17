@@ -144,7 +144,7 @@ L'évaluation est poursuivie par un spécialiste du trouble (pédopsychiatre, ps
 
 ### Mesures générales de prise en charge du TDAH
 
-> << Les mesures thérapeutiques et rééducatives des troubles du neurodéveloppement doivent être précoces, intensives, multidisciplinaires et adaptées au profil clinique de chaque individu. >> – *CNUP*
+> << Les mesures thérapeutiques et rééducatives des troubles du neurodéveloppement doivent être précoces, intensives, multidisciplinaires et adaptées au profil clinique de chaque individu. >> -- *CNUP*
 
 - Suivi régulier: symptômes, traitements
 - Rester en contact avec l'enseignant, la famille et les spécialistes

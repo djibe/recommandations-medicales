@@ -25,7 +25,7 @@ todo = "pharynx, source: Les infections a HPV deviennent indétectables au bout 
 {{%article-summary%}}
 
 - Infection papillomavirus (HPV) nécessaire à l'apparition du cancer de l'utérus et des condylomes
-- << Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace >> – *INCa*
+- << Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace >> -- *INCa*
 - Vaccination papillomavirus pour tous de 11 à 19 ans (Gardasil 9®), généralisée en classe 5<sup>e</sup>  
   Étendue à 26 ans pour les [hommes ayant des relations avec des hommes (HSH)]({{< relref "hsh.md" >}}). Pas de vaccination en une seule dose avant changement de l'AMM (*Infovac*)
 - Dépistage organisé du cancer du col de l'utérus de 25 à 65 ans (test HPV haut risque tous les 5 ans après 30 ans)
@@ -59,7 +59,7 @@ Cancer du col de l'utérus
 - Utilisation prolongée de [contraceptifs oraux]({{< relref "contraception.md" >}})
 {.list-group}
 
-> – *HAS 2010*
+> -- *HAS 2010*
 
 ### Complications des papillomavirus
 
@@ -89,7 +89,7 @@ Complications des infections par les papillomavirus et incidence imputée entre 
 - Portage masculin: 20% des hommes sont porteurs d'HPV haut risque (*[Bruni 2023](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00305-4/fulltext#%20)*)
 - **Couverture vaccinale:** 41% des jeunes filles et 8% des garçons de 16 ans étaient vaccinés en 2022 en France métropolitaine contre 84% au Royaume-Uni (*Ameli*, *Inserm*)
 
-> – *BEH*
+> -- *BEH*
 
 {{< card-link title="Les Français et leur participation au dépistage des cancers" subtitle="Article RecoMédicales" url="/articles/participation-depistage-cancers/">}}
 

@@ -54,7 +54,7 @@ CNGOF
 {{% /collapse %}}
 {{%collapse "Allaitement maternel" %}}
 
-> << L'allaitement maternel exclusif permet un développement optimal du nourrisson jusqu'à 6 mois. >> – *Anaes*. L'allaitement n'est pas compromis si le bébé ne tète pas immédiatement à la naissance.
+> << L'allaitement maternel exclusif permet un développement optimal du nourrisson jusqu'à 6 mois. >> -- *Anaes*. L'allaitement n'est pas compromis si le bébé ne tète pas immédiatement à la naissance.
 {.alert .alert-info}
 
 Un allaitement maternel à la demande exclusif et prolongé 4 à 6 mois est recommandé. La proximité de la mère et de l'enfant 24 heures sur 24 favorise l'allaitement à la demande.
@@ -79,7 +79,7 @@ Informations sur l'allaitement maternel:
 - Antalgie: paracétamol, ibuprofène (périnée, tranchées) voire néfopam ou tramadol
 - Imageries: aucun examen d'imagerie ne justifie d'interrompre l'allaitement
 
-> << L'incapacité anatomique ou physiologique à produire suffisamment de lait est très rare. >> – *Anaes*
+> << L'incapacité anatomique ou physiologique à produire suffisamment de lait est très rare. >> -- *Anaes*
 
 {{% /collapse %}}
 {{%collapse "Contre-indications à l'allaitement maternel" %}}
@@ -133,7 +133,7 @@ Aucune mesure non médicamenteuse n'a prouvé son efficacité pour interrompre l
 - Ne pas utiliser la bromocriptine
 - Éviter les lisuride et cabergoline si possible (effets indésirables ++)
 
-> – *CNGOF 2015*
+> -- *CNGOF 2015*
 
 {{% /collapse %}}
 {{%collapse "Prise en charge des complications pendant l'allaitement" %}}
@@ -247,7 +247,7 @@ La location de tire-lait est remboursée sur prescription dédiée de médecin o
 
 Le renouvellement est possible tous les 3 mois après la prescription initiale de 10 semaines.
 
-> – *[Arrêté du 11/03/2019](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038219812)*
+> -- *[Arrêté du 11/03/2019](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038219812)*
 
 {{% /collapse %}}
 {{%collapse "Don de lait et lactarium" %}}

@@ -54,7 +54,7 @@ PVVIH
 {{% /collapse %}}
 {{%collapse "Vaccination contre la fièvre jaune" %}}
 
-> << La vaccination est la mesure de prévention la plus efficace contre la fièvre jaune. >> – *Ministère de la Santé*
+> << La vaccination est la mesure de prévention la plus efficace contre la fièvre jaune. >> -- *Ministère de la Santé*
 
 Personnes éligibles à la vaccination contre la fièvre jaune:
 
@@ -71,7 +71,7 @@ Personnes éligibles à la vaccination contre la fièvre jaune:
 - Voyage  
   Vaccination recommandée voire **obligatoire** pour de nombreux pays (voir plus bas).
 
-> – *Calendrier vaccinal*
+> -- *Calendrier vaccinal*
 
 Le vaccin fièvre jaune est un vaccin vivant et donc contre-indiqué chez l'immunodéprimé et la femme allaitante.
 {.alert .alert-warning}
@@ -94,7 +94,7 @@ La vaccination anti-amarile est contre-indiquée en cas de:
 - Chimiothérapie terminée depuis < 6 mois
 - Immunosuppression, biothérapie ou corticothérapie: lire HCSP
 
-> Pour la grossesse, si le voyage ne peut être reporté, << la vaccination contre la fièvre jaune doit être effectuée quel que soit le terme de la grossesse >> – *[CRAT](https://www.lecrat.fr/9431/)*
+> Pour la grossesse, si le voyage ne peut être reporté, << la vaccination contre la fièvre jaune doit être effectuée quel que soit le terme de la grossesse >> -- *[CRAT](https://www.lecrat.fr/9431/)*
 
 {{% /collapse %}}
 {{%collapse "Liste des centres de vaccinations fièvre jaune agréés" %}}

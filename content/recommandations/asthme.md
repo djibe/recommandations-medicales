@@ -102,7 +102,7 @@ AIE
 : asthme induit par l'exercice
 
 BACA
-: bêta<sub>2</sub>-agoniste de courte durée d'action
+: bêta~2~-agoniste de courte durée d'action
 
 CSI
 : corticostéroïde inhalé (ou corticoïde inhalé)
@@ -132,7 +132,7 @@ ITSL
 : immunothérapie par voie sublinguale
 
 LABA
-: bêta<sub>2</sub>-agoniste de longue durée d'action
+: bêta~2~-agoniste de longue durée d'action
 
 SC
 : sous-cutané
@@ -160,7 +160,7 @@ Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 - Fréquence respiratoire ≥ 25/min ou pauses respiratoires
 - Impossibilité de terminer les phrases en une inspiration
 - DEP ≤ 50% de la théorique ou de la meilleure valeur connue du patient
-- SpO<sub>2</sub> < 92%
+- SpO~2~ < 92%
 - Bradycardie
 - Hypotension
 - Silence auscultatoire
@@ -168,7 +168,7 @@ Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 - Confusion, coma
 - Épuisement
 
-> – *ANAES 2004*
+> -- *ANAES 2004*
 
 ### Signes de lutte
 
@@ -177,7 +177,7 @@ Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 - Non agité
 - Augmentation de la fréquence respiratoire
 - Pouls > 100/min
-- SpO<sub>2</sub> < 95%
+- SpO~2~ < 95%
 - DEP > 50% de la meilleure valeur connue
 
 {{%/warning%}}
@@ -195,7 +195,7 @@ Patients nécessitant un suivi médical et d'une éducation thérapeutique renfo
 - Allergie alimentaire associée
 - Antécédents de troubles psychiatriques ou psychosociaux
 
-> – *GINA 2019*
+> -- *GINA 2019*
 
 {{% /collapse %}}
 {{%collapse "Contrôle de l'asthme" %}}
@@ -248,7 +248,7 @@ Très haut sur et sous-diagnostic de la maladie asthmatique.
     - Le diagnostic est d'autant plus probable si la variabilité est importante et fréquente
     - Il peut être nécessaire de répéter les tests lorsque les symptômes sont présents, en début de matinée ou après une interruption des bronchodilatateurs
 
-> – *GINA 2019*
+> -- *GINA 2019*
 
 Pour le diagnostic de 5 à 16 ans, l'*ERS 2021* recommande d'obtenir 2 examens objectifs concluants pour affirmer le diagnostic.  
 **Ne pas utiliser de traitement d'épreuve pour affirmer le diagnostic.**
@@ -310,7 +310,7 @@ Mesure du DEP pour les personnes percevant mal leurs symptômes.
 
 - Fréquence cardiaque
 - Fréquence respiratoire
-- <mark>SpO<sub>2</sub> cible 93-95% (6-12 ans: 94-98%)</mark>
+- ==SpO~2~ cible 93-95% (6-12 ans: 94-98%)==
 - Écarter une anaphylaxie
 - Étayer un diagnostic différentiel: insuffisance cardiaque, corps étranger, [embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
 
@@ -362,7 +362,7 @@ Utiliser une chambre d'inhalation si adaptable sur le dispositif.
     Si utilisé aussi comme traitement de secours: conserver la dose de fond, augmenter la dose en secours (max 72 µg/g)  
   - {{< modal-btn modal-ttt-laba-csi >}}Autre LABA + CSI{{< /modal-btn >}}: passer à la dose supérieure ou ajouter un {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} seul pour quadrupler la dose
 - Corticostéroïdes oraux (CSO)  
-  - <mark>Adulte: prednisone 40-50 mg/j pendant 5-7 jours</mark>
+  - ==Adulte: prednisone 40-50 mg/j pendant 5-7 jours==
   - Enfant: prednisone 1-2 mg/kg/j (max 40 mg/j) pendant 3-5 jours
 
 Consultation de suivi dans la semaine qui suit l'exacerbation.

@@ -112,7 +112,7 @@ Tout sujet de plus de 12 ans:
   - Usagers de drogues intraveineuses (UDI)  
     Partenaire de statut inconnu ou VIH+, échange du matériel.
 
-> – *HAS 2021*
+> -- *HAS 2021*
 
 La PrEP n'est pas indiquée pour le conjoint d'un couple stable exclusif avec charge virale VIH indétectable régulièrement contrôlée.
 {.alert .alert-info}
