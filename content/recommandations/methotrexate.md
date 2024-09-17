@@ -103,7 +103,7 @@ Bilan pré thérapeutique du méthotrexate:
 ### Suivi biologique sous méthotrexate
 
 - Bilan: NFS, créatininémie, ASAT, ALAT, GGT
-- 1/semaine le 1<sup>er</sup> mois
+- 1/semaine le 1^er^ mois
 - Puis mensuel pendant 2 mois
 - Puis trimestriel (1-2 jours avant l'injection)
 

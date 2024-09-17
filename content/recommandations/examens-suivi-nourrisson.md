@@ -89,19 +89,19 @@ Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{
 ### Vaccinations de l'enfant
 
 {{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention NR. Dr JB Fron d'après Calendrier Vaccinal 2024" >}}
-|    Âge     | Valences                                             | Spécialités équivalentes                                                  |
-|:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
-|   Né après<br>le 1/1/24 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Sauf Abrysvo en fin de grossesse, Beyfortus au mieux avant<br>la sortie de maternité |
-|   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 1/3, Rotarix 1/2 |
-|   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + pneumocoque +<br>DTCaP-Hib-HB selon GPIP/Infovac) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance) |
-|   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3 |
-|   5 mois   | Méningo C<br>Méningo B                               | Neisvac<br>Bexsero                                                        |
-|  11 mois   | DTCaP-Hib-HB<br>Pneumo 13                            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance                |
-|  12 mois   | Méningo C<br>ROR<br>Méningo B                        | Neisvac<br>MMRvaxPro, Priorix<br>Bexsero                                  |
-| 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
-|   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
-| 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
-| 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>Nimenrix, MenQuadfi ou<br>Menveo (pas d'aiguille)      |
+|          Âge          | Valences                                                                                  | Spécialités équivalentes                                                               |
+|:---------------------:|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Né après<br>le 1/1/24 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}})                                           | Sauf Abrysvo en fin de grossesse, Beyfortus au mieux avant<br>la sortie de maternité   |
+|        2 mois         | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus                                                    | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 1/3, Rotarix 1/2 |
+|        3 mois         | Méningo B<br>Rotavirus<br>(Prématuré: + pneumocoque +<br>DTCaP-Hib-HB selon GPIP/Infovac) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance)                      |
+|        4 mois         | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus                                                    | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3              |
+|        5 mois         | Méningo C<br>Méningo B                                                                    | Neisvac<br>Bexsero                                                                     |
+|        11 mois        | DTCaP-Hib-HB<br>Pneumo 13                                                                 | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance                             |
+|        12 mois        | Méningo C<br>ROR<br>Méningo B                                                             | Neisvac<br>MMRvaxPro, Priorix<br>Bexsero                                               |
+|      16-18 mois       | ROR                                                                                       | MMRvaxPro, Priorix                                                                     |
+|         6 ans         | DTCaPolio                                                                                 | ~~InfanrixTetra~~, Tetravac-acellulaire                                                |
+|       11-13 ans       | dTcaPolio<br>(DTCaPolio si manqué)                                                        | BoostrixTetra, Repevax<br>(voir *6 ans*)                                               |
+|       11-14 ans       | HPV<br>Méningo ACWY                                                                       | Gardasil9 M0-M6<br>Nimenrix, MenQuadfi ou<br>Menveo (pas d'aiguille)                   |
 {{< /table >}}
 
 **NB.** Le Nimenrix peut être réalisé à M6-M12 en remplacement du Neisvac M5-M12. Neisvac M5 et Nimenrix M12 est également possible.  
@@ -112,20 +112,20 @@ Au 1er janvier 2025, vaccination obligatoire des nourrissons contre les méningo
 ### Rattrapage vaccinal
 
 {{< table title="Âges limites du rattrapage vaccinal systématique en population générale selon le Calendrier vaccinal" >}}
-| Pathologie                       |              Âge limite de rattrapage               | Rattrapages étendus                                    |
-|----------------------------------|:---------------------------------------------------:|--------------------------------------------------------|
+| Pathologie                       |              Âge limite de rattrapage               | Rattrapages étendus                                         |
+|----------------------------------|:---------------------------------------------------:|-------------------------------------------------------------|
 | Coqueluche                       |                       39 ans                        | [Grossesse voire cocooning]({{< relref "coqueluche.md" >}}) |
-| Haemophilus                      |                        5 ans                        | [Asplénie]({{< relref "asplenie.md" >}})               |
-| Hépatite B                       |                       15 ans                        | [Hépatite B]({{< relref "hepatite-b.md" >}})           |
-| Méningocoque ACWY                |                       24 ans                        | Dose unique si non fait entre 11 et 14 ans             |
-| Méningocoque B                   |                       23 mois                       |                                                        |
-| Méningocoque C                   |                       24 ans                        | Dose unique après 12 mois                              |
-| Papillomavirus (HPV)             |                       19 ans                        | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}})          |
-| Pneumocoque                      |                       23 mois                       | Asplénie, BPCO, cancer,  diabète, VIH ...              |
-| Rotavirus                        |                       4 mois                        | Doit être terminé avant 24 semaines                    |
-| Rougeole<br>Oreillons<br>Rubéole |                       44 ans                        |                                                        |
-| Tuberculose                      | Lire [tuberculose]({{< relref "tuberculose.md" >}}) |                                                        |
-| Varicelle                        |                       18 ans                        | [Autour d'un cas]({{< relref "varicelle.md" >}})       |
+| Haemophilus                      |                        5 ans                        | [Asplénie]({{< relref "asplenie.md" >}})                    |
+| Hépatite B                       |                       15 ans                        | [Hépatite B]({{< relref "hepatite-b.md" >}})                |
+| Méningocoque ACWY                |                       24 ans                        | Dose unique si non fait entre 11 et 14 ans                  |
+| Méningocoque B                   |                       23 mois                       |                                                             |
+| Méningocoque C                   |                       24 ans                        | Dose unique après 12 mois                                   |
+| Papillomavirus (HPV)             |                       19 ans                        | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}})               |
+| Pneumocoque                      |                       23 mois                       | Asplénie, BPCO, cancer,  diabète, VIH ...                   |
+| Rotavirus                        |                       4 mois                        | Doit être terminé avant 24 semaines                         |
+| Rougeole<br>Oreillons<br>Rubéole |                       44 ans                        |                                                             |
+| Tuberculose                      | Lire [tuberculose]({{< relref "tuberculose.md" >}}) |                                                             |
+| Varicelle                        |                       18 ans                        | [Autour d'un cas]({{< relref "varicelle.md" >}})            |
 {{< /table >}}
 
 {{% /collapse %}}
@@ -144,14 +144,14 @@ Au 1er janvier 2025, vaccination obligatoire des nourrissons contre les méningo
 {{%collapse "Développement dentaire" %}}
 
 {{< table title="Développement dentaire du nourrisson et de l'enfant" >}}
-| Âge (mois) | Spécificités                                                                                     |
-|-----------:|--------------------------------------------------------------------------------------------------|
-|          5 | Apparition des incisives centrales                                                               |
-|          9 | Apparition des incisives latérales                                                               |
-|         12 | Apparition des 1<sup>res</sup> molaires<br>1<sup>re</sup> consultation dentaire entre 12-18 mois |
-|         18 | Apparition des canines                                                                           |
-|         24 | Apparition des 2<sup>e</sup> molaires                                                            |
-|      6 ans | Apparition des premières incisives définitives                                                   |
+| Âge (mois) | Spécificités                                                                   |
+|-----------:|--------------------------------------------------------------------------------|
+|          5 | Apparition des incisives centrales                                             |
+|          9 | Apparition des incisives latérales                                             |
+|         12 | Apparition des 1^res^ molaires<br>1^re^ consultation dentaire entre 12-18 mois |
+|         18 | Apparition des canines                                                         |
+|         24 | Apparition des 2^e^ molaires                                                   |
+|      6 ans | Apparition des premières incisives définitives                                 |
 {{< /table >}}
 
 {{% /collapse %}}

@@ -132,7 +132,7 @@ TILE
 : test itératif de latence à l'endormissement. Test de mesure objective de la somnolence.
 
 VEMS
-: volume expiratoire maximal pendant la 1<sup>re</sup> seconde
+: volume expiratoire maximal pendant la 1^re^ seconde
 {.dl-inline}
 
 ### Épidémiologie du syndrome d'apnées du sommeil

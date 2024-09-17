@@ -58,7 +58,7 @@ En cas d'allaitement artificiel, la troisième ampoule n'est pas obligatoire.
 
 ### Autres situations pour la supplémentation en vitamine K
 
-La première ampoule doit être administrée durant la 1<sup>re</sup> heure de vie (cf. tableau ci-dessous).
+La première ampoule doit être administrée durant la 1^re^ heure de vie (cf. tableau ci-dessous).
 
 {{< table title="Rythme d'administration de la vitamine K1 en périnatal d'après SFNéonat 2015. MHN = maladie hémorragique du nouveau-né" >}}
 |               | Naissance     | J3-J4      | 1 mois     |

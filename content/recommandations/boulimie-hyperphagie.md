@@ -275,7 +275,7 @@ La prise en charge de la boulimie est pluridisciplinaire et chronique, ambulatoi
 - Suivi psychologique
   - Après le bilan initial pluridisciplinaire
   - Techniques: auto-support ([guides FFAB](https://www.ffab.fr/trouver-de-l-aide/livres)), thérapies cognitivo-comportementales (TCC), thérapies comportementales dialectiques, thérapies interpersonnelles, psychothérapies psychodynamiques ou d'inspiration analytique, thérapies familiales.
-- En 2<sup>e</sup> ligne: {{< modal-btn modal-isrs >}}Antidépresseur ISRS{{< /modal-btn >}} associé à la psychothérapie
+- En 2^e^ ligne: {{< modal-btn modal-isrs >}}Antidépresseur ISRS{{< /modal-btn >}} associé à la psychothérapie
 - Diététicien  
   Veiller à l'absence de recours à des régimes ou coupes-faim.
 - Insertion sociale, aides voire MDPH

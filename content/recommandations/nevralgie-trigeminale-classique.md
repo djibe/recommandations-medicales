@@ -242,7 +242,7 @@ Augmenter jusqu'à suppression de la douleur (max 1600 mg/j) puis obtention de l
 - Bilan pré-thérapeutique  
   NFS, bilan hépatique, ECG chez personne âgée.
 - Surveillance  
-  NFS, ASAT, ALAT, ionogramme hebdomadaires le 1<sup>er</sup> mois puis en signes d'appel (iono annuel).
+  NFS, ASAT, ALAT, ionogramme hebdomadaires le 1^er^ mois puis en signes d'appel (iono annuel).
 - **Contre-indications**  
   BAV, hypersensibilité à la molécule/excipients, antécédent d'hypoplasie médullaire ou de porphyrie hépatique, traitement par télaprévir ou variconazole.
 - **Effets indésirables principaux**  

@@ -258,7 +258,7 @@ Recommandations pour la prévention de la bronchiolite:
 
 ### Vaccination anti-VRS
 
-Le vaccin anti-VRS Abrysvo (non remboursé) est recommandé par la *HAS 2024* pendant la grossesse entre 32 et 36 SA de septembre à janvier. Pas de 2<sup>e</sup> dose lors des grossesses suivantes.
+Le vaccin anti-VRS Abrysvo (non remboursé) est recommandé par la *HAS 2024* pendant la grossesse entre 32 et 36 SA de septembre à janvier. Pas de 2^e^ dose lors des grossesses suivantes.
 
 Il peut être co-administré avec les vaccins grippe et Covid-19 mais doit être espacé de 2 semaines avec la rappel de coqueluche.
 

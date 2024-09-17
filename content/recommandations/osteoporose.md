@@ -32,7 +32,7 @@ Recommandations simplifiées pour une prise en charge réaliste de l'ostéoporos
 1. Ostéodensitométrie (DXA) pour toutes les femmes après 60 ans ou après une fracture ({{< modal-btn modal-dxa-remboursement >}}critères de remboursement{{< /modal-btn >}})  
   En l'absence de fracture, le calcul du FRAX est disponible plus bas (voir [Calcul du FRAX](#calcul-du-frax-et-du-risque-de-fracture-osseuse)).
 2. Bilan de l'ostéoporose: NFS, CRP, créatininémie, ASAT, ALAT, GGT, PAL, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques
-3. Biphosphonate en 1<sup>er</sup> traitement anti-ostéoporotique selon T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou tout T-score ≤ -3
+3. Biphosphonate en 1^er^ traitement anti-ostéoporotique selon T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou tout T-score ≤ -3
 4. Avis rhumatologique si T-score proche (1 point) de l'indication de traiter
 5. Biphosphonate: bilan bucco-dentaire, [acide alendronique 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois
     - Au moins 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)  
@@ -416,7 +416,7 @@ Traitement indiqué si T-score ≤ -1 et avis rhumatologique si T-score > -1:
 - Romosozumab  
   {{%class "x"%}}Femme ménopausée < 75 ans sans risque cardiovasculaire{{%/class%}}
 
-Le dénosumab est utilisé en 2<sup>e</sup> intention en relais des bisphosphonates.
+Le dénosumab est utilisé en 2^e^ intention en relais des bisphosphonates.
 
 </div>
 <div class="collapse" id="div-radio-ttt-vertebral">
@@ -428,7 +428,7 @@ Traitement indiqué si T-score ≤ -1:
 - Risédronate  
   {{%class "x"%}}35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois{{%/class%}}
 - Zolédronate  
-  {{%class "x"%}}5 mg IVL annuel avec ostéodensitométrie 1 an après la 3<sup>e</sup> perfusion{{%/class%}}
+  {{%class "x"%}}5 mg IVL annuel avec ostéodensitométrie 1 an après la 3^e^ perfusion{{%/class%}}
 - Raloxifène (faible risque de fracture périphérique)  
   {{%class "x"%}}60 mg/j (max 70 ans){{%/class%}}
 - Romosozumab  
@@ -438,7 +438,7 @@ Traitement indiqué si T-score ≤ -1:
 - Traitement hormonal de la ménopause (THM)  
   {{%class "x"%}}Entre 50 et 60 ans si syndrome climatérique invalidant{{%/class%}}
 
-Le dénosumab est utilisé en 2<sup>e</sup> intention en relais des bisphosphonates.
+Le dénosumab est utilisé en 2^e^ intention en relais des bisphosphonates.
 
 </div>
 <div class="collapse" id="div-radio-ttt-nonsevere">
@@ -463,7 +463,7 @@ Choix du traitement:
 - Traitement hormonal de la ménopause (THM)  
   {{%class "x"%}}Entre 50 et 60 ans si syndrome climatérique invalidant{{%/class%}}
 
-Le dénosumab est utilisé en 2<sup>e</sup> intention en relais des bisphosphonates.
+Le dénosumab est utilisé en 2^e^ intention en relais des bisphosphonates.
 
 </div>
 <div class="collapse" id="div-radio-cortico">

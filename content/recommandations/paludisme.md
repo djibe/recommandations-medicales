@@ -202,14 +202,14 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 | Type de séjour | Amérique tropicale,<br>Haïti et Rép Dom. | Afrique sub-<br>saharienne<br>et Yémen | Asie du Sud<br>et Sud-Est | Papouasie<br>Nvle Guinée<br>et Îles Salomon |
 |----------------|------------------------------------------|----------------------------------------|---------------------------|---------------------------------------------|
 | Pour tous | PPAV + CS si F | idem | idem | idem |
-| Séjour conventionnel | Non | CPAP<sup>1</sup> | Non | CPAP<sup>1</sup> |
-| Séjour non conventionnel<br>< 1m avec<br>nuitées en zone<br>rurale/forestière | Non³<br>TTR si isolé | CPAP<sup>1</sup> | Non³<br>TTR si isolé | CPAP<sup>1</sup> |
-| Séjour non conventionnel<br>+1m avec<br>nuitées en zone<br>rurale/forestière | Avis spé | CPAP<sup>1</sup> | Avis spé | CPAP<sup>1</sup> |
+| Séjour conventionnel | Non | CPAP^1^ | Non | CPAP^1^ |
+| Séjour non conventionnel<br>< 1m avec<br>nuitées en zone<br>rurale/forestière | Non³<br>TTR si isolé | CPAP^1^ | Non³<br>TTR si isolé | CPAP^1^ |
+| Séjour non conventionnel<br>+1m avec<br>nuitées en zone<br>rurale/forestière | Avis spé | CPAP^1^ | Avis spé | CPAP^1^ |
 | Expatriation prolongée | Avis spé | - Sahel: CPAP<br>en saison pluies²<br>- Forestière:<br>toute l'année | Avis spé | CPAP |
 {{< /table >}}
 
 > **Légende**: **CS si F** = Consultation sans délai si fièvre pendant le séjour ou dans les 3 mois qui suivent le retour et information sur la notion de voyage dans les 3 derniers mois ; **TTR** = traitement de réserve antipaludique  
-<sup>1</sup> sauf les zones non à risque d'Afrique australe (Afrique du Sud hors région Nord Est, Sud de la Namibie et du Botswana)  
+^1^ sauf les zones non à risque d'Afrique australe (Afrique du Sud hors région Nord Est, Sud de la Namibie et du Botswana)  
 ² début dès le début de la saison des pluies; arrêt 6 semaines après la fin des pluies  
 ³ pour les zones à risque élevé de transmission du paludisme, consulter le tableau 10 du HCSP (p. 130) pour éventuellement adapter cette recommandation au niveau de risque réel du voyageur
 
@@ -369,7 +369,7 @@ La prise en charge ambulatoire d'un paludisme à Plasmodium non falciparum est l
 
 Le traitement de première intention du paludisme est une combinaison à base de dérivés l'artémisinine (ACT): arténimol–pipéraquine (Eurartésim®) ou artéméther–luméfantrine (Riamet®).
 
-Les traitements d'intention moindre sont l'atovaquone-proguanil voire la quinine (3<sup>e</sup> intention).
+Les traitements d'intention moindre sont l'atovaquone-proguanil voire la quinine (3^e^ intention).
 
 {{% /collapse %}}
 {{%sources%}}

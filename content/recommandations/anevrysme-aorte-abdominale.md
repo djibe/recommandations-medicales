@@ -27,9 +27,9 @@ flowchart = true
 Indications au dépistage de l'anévrysme de l'aorte abdominale (AAA) par échodoppler:
 
 1. Homme de plus de 65 ans ayant fumé
-2. Sujet de plus de 65 ans avec antécédent familial d'AAA au 1<sup>er</sup> degré (parents/fratrie)
+2. Sujet de plus de 65 ans avec antécédent familial d'AAA au 1^er^ degré (parents/fratrie)
 3. Considérer chez la femme de plus de 65 ans ayant fumé
-4. Considérer avant 65 ans si antécédent familial d'AAA au 1<sup>er</sup> degré ou facteurs de risque multiples d'AAA (tabac, homme, âge, antécédent familial, facteurs de risque cardiovasculaires)
+4. Considérer avant 65 ans si antécédent familial d'AAA au 1^er^ degré ou facteurs de risque multiples d'AAA (tabac, homme, âge, antécédent familial, facteurs de risque cardiovasculaires)
 5. En cas d'[artériopathie des membres inférieurs AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (*ESC 2017*)
 
 {{%/article-summary%}}
@@ -74,9 +74,9 @@ AHA
 Le dépistage de l'anévrisme de l'aorte abdominale est à réaliser une seule fois par échodoppler artériel aortique chez:
 
 1. Homme de plus de 65 ans ayant fumé
-2. Sujet de plus de 65 ans avec antécédent familial d'AAA au 1<sup>er</sup> degré (parents/fratrie)
+2. Sujet de plus de 65 ans avec antécédent familial d'AAA au 1^er^ degré (parents/fratrie)
 3. Considérer chez la femme de plus de 65 ans ayant fumé
-4. Considérer avant 65 ans si antécédent familial d'AAA au 1<sup>er</sup> degré ou facteurs de risques multiples d'AAA (tabac, homme, âge, antécédent familial, facteurs de risque cardiovasculaires)
+4. Considérer avant 65 ans si antécédent familial d'AAA au 1^er^ degré ou facteurs de risques multiples d'AAA (tabac, homme, âge, antécédent familial, facteurs de risque cardiovasculaires)
 5. En cas d'[artériopathie des membres inférieurs]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (*ESC 2017*)
 
 Compléter l'imagerie par **angioscanner ou angio-IRM** si images anormales.

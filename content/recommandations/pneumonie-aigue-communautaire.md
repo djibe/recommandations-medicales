@@ -354,7 +354,7 @@ Traitement antibiotique probabiliste **pendant 5 jours** avec réévaluation sys
 - Si allergie: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j (Pyostacine® à partir de 6 ans, double sensibilité pneumocoque + intracellulaires)  
   Seule alternative de l'enfant: ceftriaxone 50 mg/kg/j IV ou IM pendant 5 jours
 - Si échec à 48-72 heures: substituer par l'autre classe (macrolide ou amoxicilline) et réévaluer 48-72h
-- Si 2<sup>e</sup> échec ou aggravation rapide: hospitalisation
+- Si 2^e^ échec ou aggravation rapide: hospitalisation
 {{%/info%}}
 
 {{< card-link-external title="Antibiothérapies de la pneumonie" url="https://antibioclic.com/strategie/279/2274" subtitle="par Antibioclic" >}}

@@ -152,7 +152,7 @@ En l'absence de poids d'appel, dosage du **coefficient de saturation de la trans
 
 Lorsque l'hémochromatose génétique est évoquée (HF + CST élevé), adresser au gastro-entérologue pour la confirmation diagnostique (**conseil génétique** avec recherche du variant *C282Y*).
 
-L'EASL préconise la recherche de la mutation *C282Y* chez tous les caucasiens avec hyperferritinémie et coefficient de saturation non expliqués dépassant le seuil pour le sexe. Également indiquée chez le sujet majeur avec antécédent au 1<sup>er</sup> degré d'hémochromatose.
+L'EASL préconise la recherche de la mutation *C282Y* chez tous les caucasiens avec hyperferritinémie et coefficient de saturation non expliqués dépassant le seuil pour le sexe. Également indiquée chez le sujet majeur avec antécédent au 1^er^ degré d'hémochromatose.
 {.alert .alert-info}
 
 ### IRM fer hépatique

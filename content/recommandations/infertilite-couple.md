@@ -211,7 +211,7 @@ Bilan à la recherche d'une cause d'infertilité masculine:
 
 - Sérologies VIH, VHB, VHC, syphilis
 - Spermogramme, spermocytogramme et spermoculture  
-  Après 2-7 jours d'abstinence (*AFU/SALF*), dans un laboratoire expérimenté. En cas de résultat < 5<sup>e</sup> percentile, nouvel examen à 3 mois.
+  Après 2-7 jours d'abstinence (*AFU/SALF*), dans un laboratoire expérimenté. En cas de résultat < 5^e^ percentile, nouvel examen à 3 mois.
 - Anomalie du spermogramme, pathologie testiculaire suspectée ou bilan du couple normal: échographie testiculaire
 - Hypogonadisme, anomalie du spermogramme, troubles sexuels: FSH et testostérone libre entre 8 et 11h
 

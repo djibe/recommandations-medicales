@@ -299,7 +299,7 @@ Les sacs de vêtements peuvent être ouverts avec des gants jetables et lavés e
 #### Jour 8
 
 - Si traitement local: se re-badigeonner avec le Topiscab, laisser agir 12h. Lavez les draps à 60°.
-- Si traitement oral: 2<sup>e</sup> prise orale du nombre de comprimés prescrits.
+- Si traitement oral: 2^e^ prise orale du nombre de comprimés prescrits.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la gale" "show" %}}

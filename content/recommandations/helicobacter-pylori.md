@@ -64,13 +64,13 @@ modele = true
   <span>Pylera® 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours  
   *GEFH*: OU amoxicilline 50 mg/kg/j (3-4 prises) + métronidazole 500 x 2/j + IPP x 2/j pendant 14 jours</span>
 
-2<sup>e</sup> ligne
+2^e^ ligne
 {.typography-overline .text-black-secondary .pt-2}
 
   Pylera® 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours  
-  <span>Si non utilisée en première ligne (sinon voir 3<sup>e</sup> ligne).</span>
+  <span>Si non utilisée en première ligne (sinon voir 3^e^ ligne).</span>
 
-3<sup>e</sup> ligne
+3^e^ ligne
 {.typography-overline .text-black-secondary .pt-2}
 
 EOGD souhaitable (sauf si Quinolone-S et non utilisées).
@@ -198,7 +198,7 @@ La France est un pays de faible incidence d'*Helicobacter pylori*:
   - [Dyspepsie chronique]({{< relref "dyspepsie.md" >}}) avec endoscopie normale
 - Prévention du cancer gastrique
   - Antécédent personnel de lésion cancéreuse ou pré-cancéreuse gastrique
-  - Antécédent familial au 1<sup>er</sup> degré de cancer de l'estomac
+  - Antécédent familial au 1^er^ degré de cancer de l'estomac
   - Syndrome de Lynch/HNPCC
   - Lymphome du MALT gastrique
   - Traitement par IPP ≥ 6 mois
@@ -219,7 +219,7 @@ La France est un pays de faible incidence d'*Helicobacter pylori*:
 
 Indications à la sérologie (test diagnostique) chez le sujet asymptomatique avec ≥ 1 parmi:
 
-- < 40-45 ans avec antécédent au 1<sup>er</sup> degré de [cancer gastrique]({{< relref "cancer-estomac.md" >}})
+- < 40-45 ans avec antécédent au 1^er^ degré de [cancer gastrique]({{< relref "cancer-estomac.md" >}})
 - Antécédent d'ulcère gastro-duodénal sans preuve d'éradication d'*HP*
 - Purpura thrombopénique immunologique
 
@@ -240,7 +240,7 @@ Indications à l'endoscopie en première intention:
     Dysphagie, amaigrissement, anémie.
   - Anémie ferriprive ou carence en vitamine B12 sans autre cause
 - Patient avec facteurs de risque de cancer gastrique
-  - &gt; 40-45 ans avec antécédent au 1<sup>er</sup> degré de cancer gastrique
+  - &gt; 40-45 ans avec antécédent au 1^er^ degré de cancer gastrique
   - Autres facteurs de risque (Voir plus haut *Facteurs de risque ...*)
 - Lymphome gastrique du MALT
 - [Chirurgie bariatrique]({{< relref "obesite-adulte.md" >}}) prévue
@@ -308,7 +308,7 @@ Quadrithérapie avec bismuth pendant 10 jours:
   {{%class%}}Seul IPP ayant l'AMM pour le bismuth.{{%/class%}}
 - Pylera® 3 gélules après les repas du matin, du midi, du soir et au coucher, avec un grand verre d'eau.
 
-Si quadrithérapie déjà utilisée en 1<sup>re</sup> ligne, voir 3<sup>e</sup> ligne.
+Si quadrithérapie déjà utilisée en 1^re^ ligne, voir 3^e^ ligne.
 
 ### Traitement de troisième ligne
 

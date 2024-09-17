@@ -155,7 +155,7 @@ Indications au dépistage de l'hépatite B:
 
 Indications à la vaccination hépatite B:
 
-- Enfant né après le 1<sup>er</sup> janvier 2008 (obligatoire)
+- Enfant né après le 1^er^ janvier 2008 (obligatoire)
 - Tout adolescent jusqu'à 15 ans révolus
 - Nouveau-nés de mère AgHBs+ ou nés en Guyane ou à Mayotte
 - Institution psychiatrique
@@ -358,7 +358,7 @@ Suivi minimum des patients AgHBs + non traités, en l'absence de, cirrhose et en
 
 ### Dépistage du carcinome hépatocellulaire
 
-Indications au [dépistage du carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}}) (CHC): hépatopathie avancée ou à risque (antécédent de CHC au 1<sup>er</sup> degré, {{< modal-btn modal-pageb >}}score Page-B ≥ 10{{< /modal-btn >}}).
+Indications au [dépistage du carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}}) (CHC): hépatopathie avancée ou à risque (antécédent de CHC au 1^er^ degré, {{< modal-btn modal-pageb >}}score Page-B ≥ 10{{< /modal-btn >}}).
 
 Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler.
 {{%/info%}}

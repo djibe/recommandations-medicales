@@ -75,8 +75,8 @@ RCP
 
 ### Épidémiologie du cancer de l'ovaire
 
-- Incidence: 5348 cas (métropole 2023) soit le 8<sup>e</sup> rang chez la femme
-- Mortalité: 3500 décès (métropole 2018) soit le 5<sup>e</sup> rang chez la femme
+- Incidence: 5348 cas (métropole 2023) soit le 8^e^ rang chez la femme
+- Mortalité: 3500 décès (métropole 2018) soit le 5^e^ rang chez la femme
 - Âge médian au diagnostic: 70 ans
 - Cancer de mauvais pronostic avec 3/4 des patientes diagnostiquées à un stade avancé
 - Survie à 5 ans: 43 %

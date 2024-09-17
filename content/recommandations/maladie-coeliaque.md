@@ -32,7 +32,7 @@ todo = "SEO, ostéodensitométrie avant 35 ans ???, dermatite herpétiforme Souv
   ou EOGD d'emblée selon la probabilité clinique sans régime
 - Éviction du gluten à vie après confirmation du diagnostic par les biopsies et le gastro-entérologue
 - Disparition des symptômes après 6 à 12 mois d'éviction du gluten
-- Dépistage de l'entourage au 1<sup>er</sup> degré
+- Dépistage de l'entourage au 1^er^ degré
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -192,7 +192,7 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 
 
 **NB. La biopsie du grêle est décommandée chez l'enfant (anesthésie générale nécessaire) par mauvais rapport bénéfice/risque.**
 
-Dépister la maladie cœliaque tous les proches au 1<sup>er</sup> degré.
+Dépister la maladie cœliaque tous les proches au 1^er^ degré.
 {.alert .alert-warning}
 
 [SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/information_patient_gastroscopie_diagnostique_sfed-snfge.pdf)

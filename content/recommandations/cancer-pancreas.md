@@ -39,7 +39,7 @@ Adénocarcinome du pancréas (AP)
 : Autres types de cancers pancréatiques: tumeurs neuro-endocrines.
 
 Cancers du pancréas familiaux (CaPaFa)
-: Survenue d'un adénocarcinome du pancréas chez ≥ 2 parents au 1<sup>er</sup> degré  
+: Survenue d'un adénocarcinome du pancréas chez ≥ 2 parents au 1^er^ degré  
 OU ≥ 3 cas de la même branche (quelque soit le degré de parenté et l'âge de survenue)
 
 ### Facteurs de risque de cancer du pancréas
@@ -120,10 +120,10 @@ Le dépistage du cancer du pancréas est réalisé par échoendoscopie couplée 
   - génétique (mutation PRSS1)
   - idiopathique ou génétique (SPINK1, CTRC ou CFTR) avec imagerie pancréatique anormale
 - Contexte de cancers pancréatiques familiaux (CaPaFa)
-  - Apparentés au premier degré (≥ 2 AP au 1<sup>er</sup> degré ou 3 AP au 2<sup>e</sup> degré)
+  - Apparentés au premier degré (≥ 2 AP au 1^er^ degré ou 3 AP au 2^e^ degré)
   - Patient avec syndrome de Peutz-Jeghers
-  - Porteur de mutation BRCA2 ou PALB2 avec antécédent d'AP au 1<sup>er</sup> degré ou ≥ 2 AP de tout degré
-  - Porteur de mutation DKN2A/p16INK4 ou syndrome de Lynch avec ≥ 1 AP au 1<sup>er</sup> degré
+  - Porteur de mutation BRCA2 ou PALB2 avec antécédent d'AP au 1^er^ degré ou ≥ 2 AP de tout degré
+  - Porteur de mutation DKN2A/p16INK4 ou syndrome de Lynch avec ≥ 1 AP au 1^er^ degré
 - Sujet diabétique (diagnostic précoce par scanner ou IRM)
   - Diabète récent (< 12 mois) après 50 ans sans antécédent familial de diabète ni surpoids OU amaigrissement > 10%
   - Pancréatite chronique et apparition ou décompensation de diabète
@@ -138,7 +138,7 @@ Le dépistage débute à 40 ans en cas de pancréatite héréditaire et 50 ans (
 Dépister les personnes avec risque cumulé d'adénocarcinome du pancréas supérieur à 5% ou risque relatif ≥ 5:
 
 - ≥ 2 apparentés atteints d'adénocarcinome du pancréas (AP) dont ≥ 1 au premier degré
-- Mutation germinale d'un gène de prédisposition ET ≥ 2 apparentés atteints d'AP OU ≥ 1 au 1<sup>er</sup> degré
+- Mutation germinale d'un gène de prédisposition ET ≥ 2 apparentés atteints d'AP OU ≥ 1 au 1^er^ degré
 - Syndrome de Peutz-Jeghers
 
 </details>

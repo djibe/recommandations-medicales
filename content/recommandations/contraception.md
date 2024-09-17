@@ -32,7 +32,7 @@ flowchart = true
 - Aide au choix de la contraception: [QuestionSexualité - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception) et [comparatif des contraceptions](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception), [Annuaire des centres de santé sexuelle](https://ivg.gouv.fr/les-centres-de-sante-sexuelle.html)
 - Contraceptions très efficaces de première intention: contraception œstroprogestative, stérilet, implant
 - Démarrer une contraception hormonale: débuter le *1er jour des règles*  
-  ou démarrage à tout moment du cycle: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1<sup>re</sup> plaquette.
+  ou démarrage à tout moment du cycle: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1^re^ plaquette.
 - Informer sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}}), savoir [gérer un oubli de pilule](https://www.oubli.formagyn.fr), et informer sur la surveillance des troubles de l'humeur (dépression)
 - Pas d'interaction DIU et anti-inflammatoires AINS
 
@@ -115,7 +115,7 @@ TVP
 {{% /collapse %}}
 {{%collapse "Contre-indications aux oestroprogestatifs et progestatifs" %}}
 
-Les œstroprogestatifs augmentent le risque de [thromboembolie veineuse](/tags/mvte/) d'un facteur 3 à 6 (plus important la 1<sup>re</sup> année). Seules les COP contenant ≥ 50 µg d'EE sont associées au risque d'accident artériel, sauf facteur de risque cardiovasculaire associé (dose-dépendant avec tabac ≥ 15 cigarettes quotidiennes).
+Les œstroprogestatifs augmentent le risque de [thromboembolie veineuse](/tags/mvte/) d'un facteur 3 à 6 (plus important la 1^re^ année). Seules les COP contenant ≥ 50 µg d'EE sont associées au risque d'accident artériel, sauf facteur de risque cardiovasculaire associé (dose-dépendant avec tabac ≥ 15 cigarettes quotidiennes).
 
 {{%info%}}
 
@@ -123,7 +123,7 @@ Les œstroprogestatifs augmentent le risque de [thromboembolie veineuse](/tags/m
 
 - Grossesse (*[CRAT](http://www.lecrat.fr/11368/)*)
 - Allaitement, 6 premières semaines (*[CRAT](http://www.lecrat.fr/11369/)*)
-- Antécédent familial au 1<sup>er</sup> degré
+- Antécédent familial au 1^er^ degré
   - [Infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) ou AVC chez homme -55 ans ou femme -65 ans
   - MVTE (thrombose veineuse profonde, embolie pulmonaire) avant 50 ans  
     Ou nombre élevé d'apparentés quelque soit le degré.
@@ -190,13 +190,13 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 | Cape cervicale | 0     | 0                | Ormelle, Terpan  |
 {{< /table >}}
 
-> **EE** = éthinyl-estradiol ; **gén** = générique ; **LNG** = lévonorgestrel ; **NR** = non remboursé. Les pilules de 1<sup>re</sup> génération ne sont plus disponibles en France.  
+> **EE** = éthinyl-estradiol ; **gén** = générique ; **LNG** = lévonorgestrel ; **NR** = non remboursé. Les pilules de 1^re^ génération ne sont plus disponibles en France.  
 Autres contraceptions: diaphragme, capes cervicales (NR), spermicides (NR), retrait, stérilisation, méthode *Ogino*.
 
-Les générations de pilules œstroprogestatives correspondent à la date de mise sur le marché du progestatif (P3: désogestrel, gestodène et norgestimate; P4: drospirénone). **Utiliser LNG et norgestimate en première intention**, les autres progestatifs de 3<sup>e</sup> et 4<sup>e</sup> générations doublent le risque de MVTE (*HAS 2013*).  
-Pas d'arrêt brutal d'une contraception de 3-4<sup>e</sup> génération bien tolérée.
+Les générations de pilules œstroprogestatives correspondent à la date de mise sur le marché du progestatif (P3: désogestrel, gestodène et norgestimate; P4: drospirénone). **Utiliser LNG et norgestimate en première intention**, les autres progestatifs de 3^e^ et 4^e^ générations doublent le risque de MVTE (*HAS 2013*).  
+Pas d'arrêt brutal d'une contraception de 3-4^e^ génération bien tolérée.
 
-Présenter les contraceptions par *[groupe d'efficacité](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)* (plutôt que par nombre de grossesses): hormonale (pilule 2<sup>e</sup> génération, progestative, implant), DIU, [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) et stérilisation.  
+Présenter les contraceptions par *[groupe d'efficacité](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)* (plutôt que par nombre de grossesses): hormonale (pilule 2^e^ génération, progestative, implant), DIU, [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) et stérilisation.  
 Patch et anneau vaginal réservés en intolérance aux moyens déjà listés (sur-risque thrombo-embolique).
 Ces moyens efficaces sont **gratuits jusqu'à 25 ans révolus** (sauf patch et anneau qui ont risque de MVTE augmenté, *[Service public](https://www.service-public.fr/particuliers/actualites/A15158)*).
 
@@ -212,7 +212,7 @@ Nécessité d'une consultation dédiée pour la primo-prescription d'une contrac
 - Âge
 - Antécédents personnels  
   [Dépression]({{< relref "depression.md" >}}), {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}, HTA, dyslipidémie, diabète type 1, migraine (préciser l'aura), thrombophilie, cancer (du sein), MVTE, IST, GEU, chirurgie.
-- Antécédents familiaux au 1<sup>er</sup> degré  
+- Antécédents familiaux au 1^er^ degré  
   IDM/AVC chez homme < 55 ans ou femme < 65 ans, MVTE (TVP, EP) < 50 ans ou épisodes répétés quelque soit le degré.
 - Traitements en cours
 - Tabac
@@ -238,7 +238,7 @@ Nécessité d'une consultation dédiée pour la primo-prescription d'une contrac
   {{%class%}}5% développent une [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) sous COP (*ESC 2018*){{%/class%}}
 - Examen des seins
 - Examen gynécologique  
-  N'est pas nécessaire pour la 1<sup>re</sup> consultation (sauf symptôme ou antécédent).
+  N'est pas nécessaire pour la 1^re^ consultation (sauf symptôme ou antécédent).
 - {{%modal-btn "modal-hyperandrogenie"%}}Signes d'hyperandrogénie{{%/modal-btn%}}
 - Frottis selon le rythme du dépistage à partir de 25 ans
 - Recherche [Chlamydia]({{< relref "chlamydia-trachomatis.md" >}}) chez 15-25 ans ou partenaires multiples
@@ -253,7 +253,7 @@ Bilan après 3-6 mois de contraception (avant et renouvelé en antécédent fami
 
 - Bilan lipidique
 - Glycémie à jeun
-- Antécédent au 1<sup>er</sup> degré avant 60 ans de MVTE: avis hématologique
+- Antécédent au 1^er^ degré avant 60 ans de MVTE: avis hématologique
 
 > -- *HAS 2019*
 
@@ -300,7 +300,7 @@ Pour les mineurs désirant le secret:
 {{%collapse "Précisions sur les classes disponibles" %}}
 
 Les contraceptifs hormonaux sont habituellement démarrés le *1er jour des règles*.  
-Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à toute femme avec les précautions suivantes: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1<sup>re</sup> plaquette.
+Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à toute femme avec les précautions suivantes: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1^re^ plaquette.
 {.alert .alert-info}
 
 **Effets secondaires habituels:** métrorragies (progestatifs ++), acné, prise de poids, troubles de libido ou de l'humeur.
@@ -432,7 +432,7 @@ Métrorragies idiopathiques mal tolérées depuis ≥ 3 mois, proposer:
 
 ### Acné
 
-Habituelle avec COP de 2<sup>e</sup> génération.
+Habituelle avec COP de 2^e^ génération.
 
 Proposer:
 
@@ -610,7 +610,7 @@ Bénéfices similaires pour les différentes voies d'administration (orale, vagi
 
 #### Bénéfices de la contraception progestative
 
-- [Endométriose]({{< relref "endometriose.md" >}}) (en 2<sup>e</sup> intention)
+- [Endométriose]({{< relref "endometriose.md" >}}) (en 2^e^ intention)
 - Dysménorrhée (implant, désogestrel)
 - Douleurs pelviennes chronique par congestion veineuse (implant)
 
@@ -619,7 +619,7 @@ Bénéfices similaires pour les différentes voies d'administration (orale, vagi
 - [Ménorragies]({{< relref "menorragies.md" >}}) (traitement de référence et de prévention de l'anémie)
 - Dysménorrhée (après exploration)
 - [Endométriose]({{< relref "endometriose.md" >}})  
-  En 1<sup>re</sup> intention en alternative à la COP et après chirurgie.
+  En 1^re^ intention en alternative à la COP et après chirurgie.
 
 #### Bénéfices du DIU cuivre
 

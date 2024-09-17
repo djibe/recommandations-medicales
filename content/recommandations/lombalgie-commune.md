@@ -53,7 +53,7 @@ Lombalgie récidivante
 - Évolution vers la chronicité: 6-8%
 - Impact économique: +900 millions d'euros annuels
 - La lombalgie représente 30% des **arrêts de travail de +6 mois** et 20% des accidents du travail
-- 3<sup>e</sup> motif d'admission en invalidité
+- 3^e^ motif d'admission en invalidité
 - 2014-2017: 481.300 entrées aux Urgences, 10 % hospitalisées
 
 {{% /collapse %}}

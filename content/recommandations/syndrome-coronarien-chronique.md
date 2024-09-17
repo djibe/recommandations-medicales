@@ -265,7 +265,7 @@ La décision d'une revascularisation myocardique (stent ou autre) relève unique
 |----------:|---------------------------------|----------------------|---------------|--------------------------------|------------------------------------|
 |         1 | BB ou {{< modal-btn modal-ica-angor >}}ICa{{< /modal-btn >}} | BB ou<br>{{< modal-btn modal-ica-angor >}}ICa-non-DHP{{< /modal-btn >}} | {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} | BB | BB ou {{< modal-btn modal-ica-angor >}}ICa-non-DHP{{< /modal-btn >}}<br>faible dose |
 |         2 | **BB + {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}}** | BB + {{< modal-btn modal-ica-angor >}}ICa{{< /modal-btn >}}* | Substituer par NAL | BB + NAL ou<br>BB + ivabradine | Substituer par ivabradine<br>ou autre |
-|         3 | Ajout 2<sup>e</sup> ligne       | BB + ivabradine      | {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} + NAL | Ajout 2<sup>e</sup> ligne | Bithérapie de 2<sup>e</sup> ligne |
+|         3 | Ajout 2^e^ ligne       | BB + ivabradine      | {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} + NAL | Ajout 2^e^ ligne | Bithérapie de 2^e^ ligne |
 |         4 | Ajout nicorandil,<br>~~ranolazine~~<br>ou trimétazidine | idem   | idem          | idem                           | idem                               |
 {{< /table >}}
 

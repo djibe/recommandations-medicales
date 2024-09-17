@@ -99,7 +99,7 @@ Signes et symptômes de la crise de goutte.
   - Début brutal avec maximum sous 24h, extrêmement douloureux
   - Gonflement et rougeur locale
   - Atteint surtout les membres inférieurs  
-    Gros orteil = 1<sup>re</sup> métatarsophalangienne ou pied/cheville voire genou avec impotence
+    Gros orteil = 1^re^ métatarsophalangienne ou pied/cheville voire genou avec impotence
   - Sensibilité rapide à la colchicine précoce
 
 ### Examen clinique
@@ -194,7 +194,7 @@ Mesures générales recommandées pour la prise en charge de la crise de goutte:
 Indication à la colchicine: traitement symptomatique de première ligne. (*SFR 2020*)  
 En deuxième intention selon *Prescrire®* (à la place des AINS).
 
-[Colchicine 1 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68066715&typedoc=R) per os avec 2<sup>e</sup> prise de 0,5 mg 1 heure après,  
+[Colchicine 1 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68066715&typedoc=R) per os avec 2^e^ prise de 0,5 mg 1 heure après,  
 puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours).
 {.alert .alert-info}
 

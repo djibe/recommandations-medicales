@@ -31,7 +31,7 @@ todo = "flowchart Figure 2"
 - Prise en charge et traitement de l'hirsutisme:
   - rasage, épilation ou photo-épilation
   - indication à traiter selon le score Ferriman-Gallwey (voir *Clinique*): utiliser une [contraception œstroprogestative]({{< relref "contraception.md" >}}) (COP) pendant 6 mois en première intention
-  - en 2<sup>e</sup> intention: spironolactone, acétate de cyprotérone ou finastéride
+  - en 2^e^ intention: spironolactone, acétate de cyprotérone ou finastéride
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

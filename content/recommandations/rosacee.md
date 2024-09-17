@@ -194,7 +194,7 @@ Ne pas s'allonger dans l'heure qui suit.
 
 **Contre-indications:** grossesse/allaitement.
 
-Traitement d'attaque de 2<sup>e</sup> intention:
+Traitement d'attaque de 2^e^ intention:
 
 - Azithromycine
 - Clarithromycine

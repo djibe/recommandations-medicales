@@ -232,7 +232,7 @@ L'association d'antibiothérapie locale et générale n'est pas recommandée.
 
 ### Acné et contraception hormonale
 
-Acné habituelle avec COP de 2<sup>e</sup> génération (voir la [fiche contraception]({{< relref "contraception.md" >}})).
+Acné habituelle avec COP de 2^e^ génération (voir la [fiche contraception]({{< relref "contraception.md" >}})).
 
 Proposer un changement de contraception:
 

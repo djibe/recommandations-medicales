@@ -35,7 +35,7 @@ flowchart = true
 {{%collapse "Définitions" %}}
 
 Polyarthrite rhumatoïde (PR)
-: Maladie chronique de la membrane synoviale évoluant par poussées inflammatoires. Il s'agit du 1<sup>er</sup> rhumatisme inflammatoire de l'adulte (prévalence de 0,3 à 1%).  
+: Maladie chronique de la membrane synoviale évoluant par poussées inflammatoires. Il s'agit du 1^er^ rhumatisme inflammatoire de l'adulte (prévalence de 0,3 à 1%).  
 La destruction articulaire entraîne une altération de la qualité de vie, un handicap et une réduction de l'[espérance de vie]({{< relref "esperance-vie-age-france.md" >}}) de 10 ans
 : Intérêt d'un diagnostic et d'un traitement précoce pour ralentir l'évolution de la maladie.
 : **Complications** de la polyarthrite: déformations articulaires et handicap, douleurs et altération de la qualité de vie, augmentation du risque cardiovasculaire, insuffisance respiratoire restrictive, infections, lymphomes, fractures ostéoporotiques.
@@ -96,7 +96,7 @@ TSA
 Arthrite atteignant > 1 articulation: avis rhumatologique sous 6 semaines (à compter de l'apparition des symptômes).
 {.alert .alert-warning}
 
-Évoquer une polyarthrite rhumatoïde devant toute arthrite clinique, raideur matinale > 30 minutes, douleurs à la pression transverse des mains (MCP) ou avant-pieds (MTP), évolution > 6 semaines, antécédent de PR chez un parent au 1<sup>er</sup> degré, difficultés à fermer le poing
+Évoquer une polyarthrite rhumatoïde devant toute arthrite clinique, raideur matinale > 30 minutes, douleurs à la pression transverse des mains (MCP) ou avant-pieds (MTP), évolution > 6 semaines, antécédent de PR chez un parent au 1^er^ degré, difficultés à fermer le poing
 {.alert .alert-info}
 
 L'examen clinique a une place primordiale dans la détection et le traitement de l'arthrite.
@@ -238,7 +238,7 @@ Si traitement inaugural ou contre-indication au méthotrexate: **léflunomide** 
 
 ### Biothérapies pour le traitement de la polyarthrite rhumatoïde
 
-Les biothérapies sont utilisées en 2<sup>e</sup> intention.
+Les biothérapies sont utilisées en 2^e^ intention.
 
 #### En présence de facteurs de mauvais pronostic
 

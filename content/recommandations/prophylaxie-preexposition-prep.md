@@ -32,7 +32,7 @@ todo = "flowchart; gitgraph: Continu femme, Schéma continu homme, Schéma disco
 - Prescription initiale de l'emtricitabine/tenofovir disoproxil 200/245 mg (Truvada®, certains gén) limitée à 1 mois avec sérologie VIH de moins de 15 jours, puis tous les 3 à 6 mois
 - Schéma continu
   - Initiation chez l'homme: 2 cp en 1 prise de 2 à 24h avant le rapport à risque
-  - Initiation chez la femme femme: délai de 7 jours avant le 1<sup>er</sup> rapport sexuel à protéger
+  - Initiation chez la femme femme: délai de 7 jours avant le 1^er^ rapport sexuel à protéger
   - ensuite Truvada® 1 cp/j à heure fixe pendant le repas
 - ou **schéma discontinu** uniquement en l'absence de VHB chez les HSH (ou transgenre avec sexe anal uniquement):
   Truvada® 2 cp en 1 prise 2 à 24 heures avant le rapport à protéger, puis 1 cp 24 et 48h après la double prise
@@ -204,7 +204,7 @@ Puis **renouvellement tous les 3 mois**.
 Délai de **7 jours avant le premier rapport sexuel à protéger**.
 </div>
 
-Pour arrêter la PrEP: après le dernier rapport à risque, prendre 1cp 24h après puis 2<sup>e</sup> cp 48h après puis arrêter.
+Pour arrêter la PrEP: après le dernier rapport à risque, prendre 1cp 24h après puis 2^e^ cp 48h après puis arrêter.
 
 Traitement initial pour 30 jours puis renouvellements tous les 3 mois.
 
@@ -251,7 +251,7 @@ puis 1 cp à H24 (± 2h) après la double prise, à renouveler à H48 (± 2h).
 
 ### La PrEP injectable d'action prolongée
 
-La PrEP par cabotégravir (CAB-LP, [Vocabria®](https://www.ema.europa.eu/fr/documents/product-information/vocabria-epar-product-information_fr.pdf)) est disponible en 2<sup>e</sup> intention en cas de nécessité d'une prise de longue durée ou de contre-indication au ténofovir (insuffisance rénale < 50 mL/min/1,73m²)
+La PrEP par cabotégravir (CAB-LP, [Vocabria®](https://www.ema.europa.eu/fr/documents/product-information/vocabria-epar-product-information_fr.pdf)) est disponible en 2^e^ intention en cas de nécessité d'une prise de longue durée ou de contre-indication au ténofovir (insuffisance rénale < 50 mL/min/1,73m²)
 
 ### Arrêt de la PrEP
 
@@ -329,7 +329,7 @@ gitGraph
   commit id: "T0 + 48h" tag: "1 cp"
 {{< /mermaid >}}
 
-> 2 cp de 2 à 24h avant le rapport puis 1 cp 24 heures après cette double prise, 4<sup>e</sup> cp 24h après la 2<sup>e</sup> prise. En cas de rapports répétés, poursuivre 1 cp/j avec arrêt 2 jours après le dernier rapport sexuel.
+> 2 cp de 2 à 24h avant le rapport puis 1 cp 24 heures après cette double prise, 4^e^ cp 24h après la 2^e^ prise. En cas de rapports répétés, poursuivre 1 cp/j avec arrêt 2 jours après le dernier rapport sexuel.
 
 {{% /collapse %}}
 {{%sources%}}

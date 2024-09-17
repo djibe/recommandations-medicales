@@ -75,7 +75,7 @@ LTFA
 Les diagnostics différentiels de l'entorse de la cheville sont toujours explorés par les *critères d'Ottawa*:
 
 - Fracture des malléoles
-- Arrachement de la base du 5<sup>e</sup> métatarsien
+- Arrachement de la base du 5^e^ métatarsien
 - Fracture arrachement du tubercule du naviculaire
 - Luxation des tendons fibulaires
 - Ruptures tendineuses

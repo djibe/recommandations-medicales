@@ -52,7 +52,7 @@ Ischémie permanente chronique
 : Aussi appelée *ischémie de repos* ou *ischémie critique*
 : Présence de douleurs ischémiques des membres inférieurs depuis > 15 jours *au repos* avec ou sans ulcères, gangrène ou infection.  
 Une neuropathie doit être éliminée lorsque les douleurs sont absentes.
-: Critère diagnostique: PAS cheville ≤ 50 mmHg pour un non spécialiste ou TcPO<sub>2</sub> < 30 mmHg (*SFMV 2020*).
+: Critère diagnostique: PAS cheville ≤ 50 mmHg pour un non spécialiste ou TcPO~2~ < 30 mmHg (*SFMV 2020*).
 
 Blue toe syndrome
 : Ischémie aiguë d'un ou plusieurs orteils par embolie athéroscléreuse à l'origine d'une coloration cyanosée de l'orteil. Urgence thérapeutique.

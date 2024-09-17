@@ -156,7 +156,7 @@ TA
 Bilan biologique d'un nodule thyroïdien: TSH seule en première intention
 {.alert .alert-info}
 
-Confirmation d'une anomalie par un 2<sup>e</sup> prélèvement puis exploration en parallèle de la [dysthyroïdie](/tags/tsh/).
+Confirmation d'une anomalie par un 2^e^ prélèvement puis exploration en parallèle de la [dysthyroïdie](/tags/tsh/).
 
 5 à 10% des nodules de la thyroïde sont secrétant (nodules dits **autonomes** ou toxiques, ils ont un **très faible risque de malignité**) avec une [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}) le plus souvent infraclinique.
 
@@ -188,7 +188,7 @@ Indications à la cytoponction échoguidée:
   Ponction du nodule et du ganglion et dosage de la thyroglobuline ou calcitonine sur le liquide de rinçage.
 2. EU-TIRADS 5 > 10 mm (risque 26-87%)
 3. EU-TIRADS 4 > 15 mm (risque 6-17%)
-4. EU-TIRADS 4-5 > 10 mm hypermétabolique en <sup>18</sup>F-FDG TEP
+4. EU-TIRADS 4-5 > 10 mm hypermétabolique en ^18^F-FDG TEP
 5. EU-TIRADS 3 > 20 mm (hypermétabolique ou non, risque 2-4%)
 6. Enfant avec nodule EU-TIRADS 3-4-5 > 10 mm
 
@@ -204,13 +204,13 @@ Un nodule Bethesda III est préférablement recontrôlé ou opéré si volumineu
 
 ### Scintigraphie thyroïdienne d'un nodule thyroïdien
 
-Indications à la scintigraphie thyroïdienne (<sup>123</sup>I ou <sup>99m</sup>Tc) en cas de nodule de la thyroïde:
+Indications à la scintigraphie thyroïdienne (^123^I ou ^99m^Tc) en cas de nodule de la thyroïde:
 
 1. TSH basse < 0,4 mUI/L  
   {{%class%}}Bilan classique de toute hyperthyroïdie.{{%/class%}}
 2. TSH de 0,4 à 1 mUI/L avec indication à une cytoponction (voir paragraphe précédent)
-3. Nodule Bethesda III avec TSH < 1 mUI/L: la scintigraphie (<sup>123</sup>I) peut être proposée à la recherche d'un nodule autonome (pas de valeur ajoutée prouvée)
-4. Nodule > 15 mm indéterminé (Bethesda III-IV) hypofixant en scintigraphie: la scintigraphie <sup>99m</sup>Tc-MIBI peut être proposée à la recherche d'un nodule autonome
+3. Nodule Bethesda III avec TSH < 1 mUI/L: la scintigraphie (^123^I) peut être proposée à la recherche d'un nodule autonome (pas de valeur ajoutée prouvée)
+4. Nodule > 15 mm indéterminé (Bethesda III-IV) hypofixant en scintigraphie: la scintigraphie ^99m^Tc-MIBI peut être proposée à la recherche d'un nodule autonome
 
 La cytoponction d'un nodule autonome avec TSH < 1 mUI/L n'est pas recommandée.
 
@@ -278,7 +278,7 @@ Les nodules bénins symptomatiques kystiques ou à prédominance kystique peuven
 
 ### Nodule autonome bénin
 
-Le traitement de première intention est l'IRA-thérapie (<sup>131</sup>I) à la plus faible dose en cas d'hyperthyroïdie clinique ou fruste nécessitant un traitement radical.
+Le traitement de première intention est l'IRA-thérapie (^131^I) à la plus faible dose en cas d'hyperthyroïdie clinique ou fruste nécessitant un traitement radical.
 
 Surveillance de la TSH à: 1, 3, 6 et 12 mois puis annuelle.
 

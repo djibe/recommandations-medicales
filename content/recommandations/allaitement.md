@@ -227,7 +227,7 @@ Prise en charge de la mastite:
 - Optimiser le drainage par tétées, expression manuelle ou tire-lait
 - Poursuivre l'allaitement (sauf prématuré)
 - Paracétamol et AINS
-- **Analyse bactériologique du lait** et antibiogramme (germe > 10<sup>6</sup>/mL)
+- **Analyse bactériologique du lait** et antibiogramme (germe > 10^6^/mL)
 - ± Échographie mammaire pour éliminer un abcès
 - Surveillance clinique quotidienne
 - Si infection prouvée, crevasse surinfectée, fièvre élevée et résistante, échec à 24-48 heures: **antibiothérapie** anti-staphylococcique [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R)

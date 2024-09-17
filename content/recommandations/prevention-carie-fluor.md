@@ -131,7 +131,7 @@ Le bon de prise en charge est envoyé par courrier (valable 1 an) ou disponible 
 
 #### Soins dentaires pendant la grossesse
 
-Aborder la santé bucco-dentaire de la mère et de l'enfant dès le 4<sup>e</sup> mois de grossesse.
+Aborder la santé bucco-dentaire de la mère et de l'enfant dès le 4^e^ mois de grossesse.
 
 Examen dentaire spécialisé systématique avec M'T Dents à 4 mois dans le cadre du suivi de grossesse.
 

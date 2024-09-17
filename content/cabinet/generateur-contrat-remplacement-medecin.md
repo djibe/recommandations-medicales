@@ -277,7 +277,7 @@ Dans le souci de la permanence des soins, <span class="contract-title-full">la d
 
 Les patients doivent être avertis, dès que possible, de la présence d'un(e) remplaçant(e), notamment lors de toute demande de visite à domicile ou de rendez-vous au cabinet médical.
 
-<span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> doit consacrer à cette activité tout le temps nécessaire selon des modalités qu'<span class="contract-title-substitute-pronoun">elle</span> fixe librement<sup>1</sup>. <span class="contract-title-substitute-pronoun text-capitalize">Elle</span> s'engage à donner, à tout malade faisant appel à <span class="contract-title-substitute-pronoun2">elle</span>, des soins consciencieux et attentifs dans le respect des dispositions du code de déontologie.
+<span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> doit consacrer à cette activité tout le temps nécessaire selon des modalités qu'<span class="contract-title-substitute-pronoun">elle</span> fixe librement^1^. <span class="contract-title-substitute-pronoun text-capitalize">Elle</span> s'engage à donner, à tout malade faisant appel à <span class="contract-title-substitute-pronoun2">elle</span>, des soins consciencieux et attentifs dans le respect des dispositions du code de déontologie.
 
 Hors le cas d'urgence, <span class="contract-title-substitute-pronoun">elle</span> peut, dans les conditions de l'article R.4127-47 du code de la santé publique (code de déontologie), refuser ses soins pour des raisons professionnelles ou personnelles.
 
@@ -318,7 +318,7 @@ Les deux co-contractants procèdent à des déclarations fiscales et sociales in
 
 <span class="contract-title-substitute-pronoun text-capitalize">Elle</span> doit remplir les obligations comptables normales et habituelles qui lui sont imposées réglementairement.
 
-En fin de remplacement, <span class="contract-title-full">la docteure</span> <span class="contract-name-text">X</span> reverse à <span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> <span id="contract-retrocession-text">...</span>% du total des honoraires perçus et à percevoir correspondant au remplacement<sup>4</sup>.
+En fin de remplacement, <span class="contract-title-full">la docteure</span> <span class="contract-name-text">X</span> reverse à <span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> <span id="contract-retrocession-text">...</span>% du total des honoraires perçus et à percevoir correspondant au remplacement^4^.
 
 En cas de participation, au cours du remplacement, à la permanence des soins ambulatoire, le montant de la rémunération d'astreinte est dû à <span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> qui a exécuté la/les garde(s).
 
@@ -353,7 +353,7 @@ Conformément à la possibilité offerte par les dispositions ci-dessus, <span c
 
 Tous les litiges ou différends relatifs notamment à la validité, l'interprétation, l'exécution ou la résolution du présent contrat, sont soumis avant tout recours à une conciliation confiée au conseil départemental de l'Ordre des médecins, en application de l'article R.4127-56 du code de la santé publique (code de déontologie médicale).
 
-**Article 10 : Arbitrage** <sup>5</sup>
+**Article 10 : Arbitrage** ^5^
 
 En cas d'échec de la conciliation, les litiges ou différends relatifs à la validité, l'interprétation, l'exécution ou la résolution du présent contrat, seront soumis à l'arbitrage conformément au règlement d'arbitrage de la Chambre nationale d'arbitrage des médecins.
 
@@ -364,13 +364,13 @@ En cas d'échec de la conciliation, les litiges ou différends relatifs à la va
 **1re option :**
 
 Dès à présent, les parties conviennent de soumettre leur litige à un arbitre unique.  
-Le tribunal arbitral statuera avec les pouvoirs d'amiable compositeur.<sup>6</sup>  
+Le tribunal arbitral statuera avec les pouvoirs d'amiable compositeur.^6^  
 Les parties peuvent faire appel de la sentence arbitrale.
 
 **2e option :**
 
 Dès à présent, les parties conviennent de soumettre leur litige à trois arbitres désignés selon les modalités définies à l'article 4 du règlement d'arbitrage de la Chambre nationale d'arbitrage des médecins.  
-Le tribunal arbitral statuera avec les pouvoirs d'amiable compositeur. <sup>7</sup>  
+Le tribunal arbitral statuera avec les pouvoirs d'amiable compositeur. ^7^  
 Les parties renoncent à la possibilité de faire appel.
 
 Le siège de la Chambre nationale d'arbitrage des médecins est fixé à PARIS 17, 4 rue Léon Jost.

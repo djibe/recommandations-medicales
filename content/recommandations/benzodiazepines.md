@@ -142,7 +142,7 @@ L'oxazépam est la benzodiazépine de référence selon *Prescrire* pour une ins
 {{% /collapse %}}
 {{%collapse "Décroissance des benzodiazépines" %}}
 
-Proposer une diminution de 25% la 1<sup>re</sup> semaine avec consultation de suivi.  
+Proposer une diminution de 25% la 1^re^ semaine avec consultation de suivi.  
 Puis paliers de 25% toutes les 2-4 semaines en l'absence de difficultés.
 {.alert .alert-info}
 
@@ -171,7 +171,7 @@ Nécessité d'une consultation spécifique ciblée sur l'arrêt des BZD en déci
 Arrêt progressif en 1 à 3 mois (voire 1 an).
 {.alert .alert-info}
 
-- Proposer une diminution de 25% la 1<sup>re</sup> semaine avec consultation de suivi
+- Proposer une diminution de 25% la 1^re^ semaine avec consultation de suivi
 - Puis paliers de 25 % toutes les 2-4 semaines en l'absence de difficultés
 - Consultation de suivi 7 jours après l'arrêt et rapporter les boîtes en pharmacie
 - Accompagnement par thérapie cognitive et comportementales (TCC) efficace

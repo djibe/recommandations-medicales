@@ -101,7 +101,7 @@ Personnes avec suspicion d'hémopathie maligne devant être adressées rapidemen
 - Anomalie à l'imagerie  
   Lésions osseuses.
 - Asymptomatique avec:
-  - ≥ 1 anomalie au bilan de 1<sup>re</sup> intention
+  - ≥ 1 anomalie au bilan de 1^re^ intention
   - Ig monoclonale avec IgG > 15 g/L, IgA ou IgM > 10 g/L.
 {{%/warning%}}
 

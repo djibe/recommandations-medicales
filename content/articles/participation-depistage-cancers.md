@@ -20,7 +20,7 @@ todo = "https://www.e-cancer.fr/Patients-et-proches/Les-cancers - ### Le dépist
 Trois cancers bénéficient en France d'un **dépistage organisé** par l'*Assurance Maladie* et sont remboursés à 100 % par l'*Assurance Maladie*. Il s'agit de cancers fréquents et graves, dont deux concernent exclusivement les femmes: les [cancers du sein]({{< relref "cancer-sein.md" >}}) et du [col de l'utérus]({{< relref "cancer-col-uterus.md" >}}), ainsi que le [cancer colorectal]({{< relref "cancer-colorectal.md" >}}) pour tous de 50 à 74 ans.
 {.lead}
 
-Pourtant, plus le cancer tue, moins les Français participent à sa prévention par le dépistage. Ainsi, le cancer colorectal, responsable de 17.100 décès annuels (2018, 2<sup>e</sup> en mortalité) n'est recherché que par **34 %** des Français.
+Pourtant, plus le cancer tue, moins les Français participent à sa prévention par le dépistage. Ainsi, le cancer colorectal, responsable de 17.100 décès annuels (2018, 2^e^ en mortalité) n'est recherché que par **34 %** des Français.
 
 Le taux maximal de participation au dépistage, qui atteint 59 %, concerne le cancer du col de l'utérus, responsable pour sa part de 1100 décès annuels (métropole 2018).
 

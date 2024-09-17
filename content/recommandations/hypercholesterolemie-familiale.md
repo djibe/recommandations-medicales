@@ -141,7 +141,7 @@ La prise en charge de l'hypercholestérolémie familiale est pluridisciplinaire 
 
 Le traitement doit être débuté rapidement:
 
-- Conseil génétique et dépistage des proches au 1<sup>er</sup> degré (à partir de 5 ans)
+- Conseil génétique et dépistage des proches au 1^er^ degré (à partir de 5 ans)
 - {{< modal-btn modal-statine-intensite >}}Statine systématique de haute intensité{{< /modal-btn >}} à partir de 8-10 ans
   - {{< modal-btn modal-rcv >}}LDL cible < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (voire 0,55 si homozygote, complications ou autre facteur de risque)
   - LDL cible < 1,35 g/L chez l'adolescent de +10 ans

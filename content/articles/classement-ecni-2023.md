@@ -24,7 +24,7 @@ Le concours de médecine 2023, sous la forme des ECNi, s'est déroulé pour la d
 
 Les résultats aux ECNi 2023 publiés par le CNG étant disponibles uniquement en PDF (voir [Source](#source)), **RecoMédicales** propose de consulter le classement au concours de l'internat sous forme de tableau dynamique.
 
-9727 étudiants en 6<sup>e</sup> année de médecine ont été classés cette année en vue de l'entrée en troisième cycle. Les femmes représentent cette année 62,6 % des futurs internes en médecine.
+9727 étudiants en 6^e^ année de médecine ont été classés cette année en vue de l'entrée en troisième cycle. Les femmes représentent cette année 62,6 % des futurs internes en médecine.
 
 <script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Classement aux épreuves classantes nationales informatisées (ECNi) de médecine 2023."}</script>
 <table id="ecni-ranks" class="table">

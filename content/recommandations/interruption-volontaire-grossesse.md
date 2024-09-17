@@ -161,7 +161,7 @@ Plus l'IVG intervient précocement pendant la grossesse, plus le risque de compl
 - Proposer un entretien spécialisé d'information, soutien et écoute (obligatoire pour les mineures)
 - Préciser l'âge gestationnel par **date des dernières règles (DDR) + examen clinique + échographie pelvienne**
 
-### 2<sup>e</sup> consultation
+### 2^e^ consultation
 
 - Consentement écrit de la pratique de l'IVG
 - Proposer le dépistage des [IST](/tags/ist/) (*[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})*, [VIH]({{< relref "vih-sida.md" >}})...), vérifier le statut du [frottis cervico-vaginal]({{< relref "cancer-col-uterus.md" >}})
@@ -170,7 +170,7 @@ Plus l'IVG intervient précocement pendant la grossesse, plus le risque de compl
 
 **NB.** Comprendre l'échec de la contraception actuelle + éducation à la [contraception d'urgence]({{< relref "contraception-urgence.md" >}}).
 
-### 3<sup>e</sup> consultation
+### 3^e^ consultation
 
 - Conditions de réalisation de l'IVG à domicile: compréhension, distance domicile – centre hospitalier référent (ouvert 24/7) de maximum 1 heure. Laisser le choix du lieu: domicile ou hôpital.
 - Expliquer la conduite à tenir en cas de survenue d'effets indésirables (hémorragie, douleur) + support écrit
@@ -186,12 +186,12 @@ Plus l'IVG intervient précocement pendant la grossesse, plus le risque de compl
   **NB.** Contraception hormonale (progestative ou COP) doit être débutée le jour de la prise de la prostaglandine.
 - Évaluer l'intérêt d'un arrêt de travail
 
-### 4<sup>e</sup> consultation: si choix de prise avec le médecin généraliste
+### 4^e^ consultation: si choix de prise avec le médecin généraliste
 
 - Prise du misoprostol + check-list ci-dessus
 - Prévention de l'incompatibilité rhésus si femme Rhésus négatif: immunoglobulines anti-D 200 µg IM au plus tard dans les 72 heures qui suivent les saignements.
 - Visite de contrôle obligatoire  
-  Prévue entre 14 et 21<sup>e</sup> jour post-IVG
+  Prévue entre 14 et 21^e^ jour post-IVG
 - Examen clinique, dosage bêta-hCG plasmatiques OU échographie pelvienne  
   Recours à l'IVG chirurgicale si échec.
 - Vérifier l'observance de la contraception

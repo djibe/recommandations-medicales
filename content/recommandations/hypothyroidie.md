@@ -359,7 +359,7 @@ Suivi thérapeutique par dosage de T3L + T4L qui doit être dans le tiers supér
 Particularités de la prise en charge de l'hypothyroïdie en rapport avec une [grossesse]({{< relref "grossesse.md" >}}) ou un désir de grossesse:
 
 - Dépister une hypothyroïdie par TSH si {{< modal-btn modal-fdr-hypothyroidie >}}facteurs de risque d'hypothyroïdie{{< /modal-btn >}}
-- **TSH > 4 mUI/L** quelque soit le terme: confirmation sur un 2<sup>e</sup> prélèvement sans attendre 6 semaines  
+- **TSH > 4 mUI/L** quelque soit le terme: confirmation sur un 2^e^ prélèvement sans attendre 6 semaines  
   Le diagnostic est posé sur 2 TSH > 4 mUI/L: traitement et suivi endocrinologique.
 - Compléter avec **anticorps anti-TPO** si TSH > 2,5 mUI/L
 - Pas de dosage de T4L et T3L

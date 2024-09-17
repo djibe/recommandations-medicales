@@ -208,7 +208,7 @@ Consultation spécialisée (cardiologue, médecin vasculaire) en cas d'ulcère m
 
 Culture bactérienne (aspiration ou biopsie du bord de l'ulcère) ou hémoculture uniquement en cas de signes de surinfection (voir *Clinique*).
 
-Critères diagnostique de surinfection: > 10<sup>5</sup> germes/mL (ou gramme de tissu) après lavage de la plaie avec un antiseptique et rinçage au sérum physiologique.
+Critères diagnostique de surinfection: > 10^5^ germes/mL (ou gramme de tissu) après lavage de la plaie avec un antiseptique et rinçage au sérum physiologique.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'ulcère veineux" %}}

@@ -92,7 +92,7 @@ AS
 : apport satisfaisant
 
 CIM-10
-: classification internationale des maladies 10<sup>e</sup> révision (OMS)
+: classification internationale des maladies 10^e^ révision (OMS)
 
 CNO
 : complémentation nutritionnelle orale
@@ -416,7 +416,7 @@ Place des compléments alimentaires:
   - ≥ 2h des repas. Ex: 16h et avant le coucher
   - Éviter jeûne > 12h
 - Prescription
-  - 1<sup>re</sup> prescription limitée à 1 mois
+  - 1^re^ prescription limitée à 1 mois
   - Renouvellements de 3 mois
   - Ex: Complémentation nutritionnelle orale pour adultes: mélange hyperprotidique et hyperénergétique pour un apport de 400 kcal/j et 30 g/j de protéines; 2 unités par jour à 16h et 21h pendant 4 semaines
 - Conservation  

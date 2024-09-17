@@ -146,7 +146,7 @@ Lire le *Calendrier vaccinal* page 75.
 {{% /collapse %}}
 {{%collapse "Vaccins obligatoires" %}}
 
-### Adulte et enfant né avant le 1<sup>er</sup> janvier 2018
+### Adulte et enfant né avant le 1^er^ janvier 2018
 
 1. Diphtérie
 2. Tétanos
@@ -154,7 +154,7 @@ Lire le *Calendrier vaccinal* page 75.
 
 > -- *[Loi 2007-293](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687781/2007-03-06)*
 
-### Enfant né après le 1<sup>er</sup> janvier 2018
+### Enfant né après le 1^er^ janvier 2018
 
 1. Diphtérie
 2. Tétanos

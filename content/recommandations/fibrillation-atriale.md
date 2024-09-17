@@ -275,7 +275,7 @@ Recommandations générales pour la prise en charge de la fibrillation atriale:
 
 ### Anticoagulation
 
-Recommandation des **AOD** ({{< modal-btn modal-aod >}}liste des anticoagulants oraux directs{{< /modal-btn >}}) en 1<sup>re</sup> intention si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).
+Recommandation des **AOD** ({{< modal-btn modal-aod >}}liste des anticoagulants oraux directs{{< /modal-btn >}}) en 1^re^ intention si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).
 
 Recours aux [AVK]({{< relref "avk.md" >}}) en cas de valve mécanique ou de sténose mitrale modérée à sévère.
 
@@ -314,8 +314,8 @@ Aspirine 75-300 mg/j si refus d'anticoagulation, mais inefficace pour la préven
   - Évaluation de la fréquence cardiaque par ECG 12D
   - Contrôle avec Holter-ECG
 - Molécules
-  - {{< modal-btn modal-bradycardisant >}}Bêtabloquants (BB) en 1<sup>re</sup> intention, inhibiteurs calciques non dihydropyridiniques (ICND, interactions AOD), digoxine ou association{{< /modal-btn >}}.  
-    Ci-dessous: 1<sup>re</sup> ligne > 2<sup>e</sup> ligne.
+  - {{< modal-btn modal-bradycardisant >}}Bêtabloquants (BB) en 1^re^ intention, inhibiteurs calciques non dihydropyridiniques (ICND, interactions AOD), digoxine ou association{{< /modal-btn >}}.  
+    Ci-dessous: 1^re^ ligne > 2^e^ ligne.
   - FEVG ≥ 40%: {{< modal-btn modal-bradycardisant >}}**BB** ou ICND{{< /modal-btn >}} > digoxine et/ou BB et/ou ICND
   - FEVG < 40%: {{< modal-btn modal-bradycardisant >}}BB{{< /modal-btn >}} > BB et/ou digoxine et/ou amiodarone
   - Asthme sévère (BB cardiosélectif mal toléré): {{< modal-btn modal-bradycardisant >}}ICND{{< /modal-btn >}} > ICND et/ou digoxine

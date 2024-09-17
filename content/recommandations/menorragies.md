@@ -87,7 +87,7 @@ Signes et symptômes à rechercher lors du bilan de ménorragies.
 
 - Bilan biologique: NFS ± hCG ± TSH
 - Adulte: échographie pelvienne par un référent
-- Adolescente: ajouter les bilans hématologiques de 2<sup>e</sup> intention
+- Adolescente: ajouter les bilans hématologiques de 2^e^ intention
 
 {{%/info%}}
 

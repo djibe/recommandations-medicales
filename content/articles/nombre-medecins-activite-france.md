@@ -20,7 +20,7 @@ datatable = true
 
 ## Évolution du nombre de médecins généralistes en activité régulière en France
 
-Au 1<sup>er</sup> janvier 2023, **82.858** médecins généralistes étaient en activité régulière en France, soit une baisse de 10,4 % depuis 2010. 27% des généralistes ont plus de 60 ans. Les généralistes représentent 42% des 197.417 médecins en activité régulière.
+Au 1^er^ janvier 2023, **82.858** médecins généralistes étaient en activité régulière en France, soit une baisse de 10,4 % depuis 2010. 27% des généralistes ont plus de 60 ans. Les généralistes représentent 42% des 197.417 médecins en activité régulière.
 
 La densité moyenne des généralistes en métropole est de 119,7 médecins pour 100.000 habitants.
 

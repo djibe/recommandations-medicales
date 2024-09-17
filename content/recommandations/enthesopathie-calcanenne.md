@@ -104,7 +104,7 @@ En cas de poussées récurrentes: uricémie, glycémie à jeun.
 Élimine une bursite sous-calcanéenne ou tendinopathie.  
 Épaississement de l'aponévrose plantaire.
 
-Examens de 2<sup>e</sup> intention:
+Examens de 2^e^ intention:
 
 - Scintigraphie osseuse
 - Scanner/IRM

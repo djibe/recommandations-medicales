@@ -89,7 +89,7 @@ Orientation diagnostique et étiologie d'une hyperferritinémie.
 
 ### Causes fréquentes d'hyperferritinémie
 
-- **{{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}. 1<sup>re</sup> cause**  
+- **{{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}. 1^re^ cause**  
   HF souvent < 1000, peut précéder le syndrome, CST normal, surcharge en fer absente/modérée.  
   On parle d'hépatosidérose métabolique même si le syndrome métabolique est incomplet.
 - **Syndrome inflammatoire** (aigu ou chronique)  
@@ -181,7 +181,7 @@ Bilan de l'hyperferritinémie (*CDU-HGE 2022*):
 
 {{%/info%}}
 
-Le coefficient de saturation de la transferrine (CST) élevé doit être confirmé par un 2<sup>e</sup> dosage le matin à distance (jeûne inutile selon *EASL 2022*).
+Le coefficient de saturation de la transferrine (CST) élevé doit être confirmé par un 2^e^ dosage le matin à distance (jeûne inutile selon *EASL 2022*).
 
 ### IRM hépatique
 

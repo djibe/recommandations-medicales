@@ -123,7 +123,7 @@ La dysfonction érectile est un diagnostic d'interrogatoire: << Donc, vous avez 
 - Persistance d'érections nocturnes/matinales spontanées (psychologique ++)
 - Possibilité d'érections provoquées (masturbation)
 - Sévérité de la DE
-- Délai entre l'apparition des troubles et la 1<sup>re</sup> consultation
+- Délai entre l'apparition des troubles et la 1^re^ consultation
 - Capacité érectile résiduelle (rigidité suffisante pour une pénétration)
 
 Une DE réactionnelle, situationnelle associée à la persistance d'érections spontanées/provoquées de bonne qualité évoque une pathologie psychogène prédominante.  
@@ -365,7 +365,7 @@ Les IPDE5 ont une efficacité de 65 à 85% (52-72 % en cas de diabète et toujou
 Les informations suivantes doivent être données au patient, car il s'agit d'une grande cause d'échec:
 
 - Facilitateur de l'érection, à la demande ou en continu selon la molécule, nécessitant une stimulation sexuelle
-- L'effet peut être visible dès la 1<sup>re</sup> prise mais les résultats peuvent s'améliorer au fil du traitement
+- L'effet peut être visible dès la 1^re^ prise mais les résultats peuvent s'améliorer au fil du traitement
 - La prise du traitement n'oblige pas à un rapport. Efficacité prolongée de 5 heures (12 pour le tadalafil)
 - Nécessite au moins 4-6 essais avant échec. Réévaluation systématique à 1-2 mois
 - Acheter le traitement uniquement en pharmacie (prix libre = comparer les pharmacies)

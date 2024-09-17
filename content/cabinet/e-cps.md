@@ -54,7 +54,7 @@ Vous pouvez maintenant vous connecter à certains services avec votre smartphone
 
 ### Créer sa e-CPS en mobilité ou sans sa carte CPS
 
-Cette étape va passer par l'adresse de courriel associée à votre compte ordinal et nécessite un 2<sup>e</sup> appareil pour afficher le QR code à venir.
+Cette étape va passer par l'adresse de courriel associée à votre compte ordinal et nécessite un 2^e^ appareil pour afficher le QR code à venir.
 
 1. Depuis le store, télécharger l'application e-CPS et la lancer
 2. Appuyer sur **Commencer l'activation**
@@ -62,7 +62,7 @@ Cette étape va passer par l'adresse de courriel associée à votre compte ordin
 4. Appuyer sur le bouton **Envoyer une demande d'activation**
 5. Entrez votre numéro RPPS **précédé d'un 8** puis confirmer en appuyant sur l'icône loupe
 6. Les coordonnées personnelles renseignées auprès du CNOM apparaissent, confirmer en appuyant sur **Envoyer ma demande d'activation**
-7. Consulter le mail sur le 2<sup>e</sup> appareil
+7. Consulter le mail sur le 2^e^ appareil
 8. Sur l'appli e-CPS, appuyer sur **Scanner un QR code** et scanner le QR code
 9. Demander la réception du SMS, l'activation est normalement automatique
 10. Choisir un code PIN et le confirmer

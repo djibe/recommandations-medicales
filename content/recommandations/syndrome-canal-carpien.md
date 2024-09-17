@@ -36,7 +36,7 @@ flowchart = true
 Syndrome du canal carpien (SCC)
 : Compression du *nerf médian*  lors de son passage sous le *ligament annulaire antérieur du carpe*.  
 L'atteinte est le plus souvent unilatérale, d'apparition progressive et féminine (65%).
-: Le syndrome du canal carpien est le trouble musculo-squelettique le plus fréquent à l'origine de troubles de la sensibilité des 3 premiers doigts et à la moitié externe du 4<sup>e</sup> doigt à la face palmaire et à la face dorsale aux 2 dernières phalanges des 3 premiers doigts et à la moitié externe du 4<sup>e</sup> doigt.
+: Le syndrome du canal carpien est le trouble musculo-squelettique le plus fréquent à l'origine de troubles de la sensibilité des 3 premiers doigts et à la moitié externe du 4^e^ doigt à la face palmaire et à la face dorsale aux 2 dernières phalanges des 3 premiers doigts et à la moitié externe du 4^e^ doigt.
 : Il est parfois décrit par le malade comme atteignant toute la main ou d'une forme atypique avec douleurs ascendantes de l'avant-bras (différencier des douleurs descendantes des NCB).
 
 ### Étiologie du syndrome du canal carpien
@@ -71,7 +71,7 @@ Autres pathologies à étayer devant un tableau de syndrome du canal carpien:
 - Prévalence
   - Chez le diabétique: 14% sans neuropathie, 30% avec
   - Grossesse: 7 à 62% avec régression spontanée après l'accouchement
-- 2<sup>e</sup> cause de *Maladie professionnelle* (MP)  
+- 2^e^ cause de *Maladie professionnelle* (MP)  
 - Ouvriers, 75% seraient provoqués par leur métier.  
   La sous-déclaration en Maladie Professionnelle atteindrait les 60%.
 

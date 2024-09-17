@@ -112,8 +112,8 @@ Prise en charge et traitements recommandés pour les nausées et vomissements pe
   - Doxylamine 15 mg ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64741955&typedoc=R), [CRAT](https://www.lecrat.fr/3405/))
   - Doxylamine + pyridoxine 10/10 mg ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61447165&typedoc=R), Cariban®, Xonvea®)
   - Dimenhydrinate 50 mg ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60173964&typedoc=R), [CRAT](https://www.lecrat.fr/3460/), Nausicaalm® voire Mercalm®)
-- Traitement de 2<sup>e</sup> intention: métoclopramide 10 mg ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63177843&typedoc=R), [CRAT](https://www.lecrat.fr/3419/))
-- Traitements de 3<sup>e</sup> intention
+- Traitement de 2^e^ intention: métoclopramide 10 mg ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63177843&typedoc=R), [CRAT](https://www.lecrat.fr/3419/))
+- Traitements de 3^e^ intention
   - Chlorpromazine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65676987&typedoc=R), [CRAT](https://www.lecrat.fr/3580/), Largactil®)
   - Prométhazine 25 mg ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69764032&typedoc=R), [CRAT](https://www.lecrat.fr/3528/), Phénargan®)
   - Métopimazine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69503737&typedoc=R), [CRAT](https://www.lecrat.fr/11549/), Vogalène®)

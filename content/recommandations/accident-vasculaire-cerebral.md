@@ -27,7 +27,7 @@ flowchart = true
 
 - Considérer tout déficit neurologique brutal, transitoire ou prolongé, comme une urgence absolue
 - Un accident vasculaire cérébral est une urgence vitale: protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU (4h30 pour thrombolyser)
-- L'AVC est la première cause de mortalité de la femme et la 3<sup>e</sup> de l'homme
+- L'AVC est la première cause de mortalité de la femme et la 3^e^ de l'homme
 - Un antécédent d'AIT ou d'AVC détermine un {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}
 - Prise en charge post-AVC: aspirine 75-150 mg/j si ischémique non cardioembolique, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,7 g/L, si hypertension: {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}, thiazidique pour cible < 130/80 mmHg
 - Bilan spécialisé cardiologique et neurovasculaire
@@ -96,12 +96,12 @@ UNV
 
 L'accident vasculaire cérébral (AVC) est un enjeu majeur de santé publique:
 
-- 1<sup>re</sup> cause de mortalité chez la femme, 3<sup>e</sup> chez l'homme
-- 1<sup>re</sup> cause de handicap de l'adulte
-- 2<sup>e</sup> cause de démence (30%)
+- 1^re^ cause de mortalité chez la femme, 3^e^ chez l'homme
+- 1^re^ cause de handicap de l'adulte
+- 2^e^ cause de démence (30%)
 - Incidence: 140.000 AVC/an
 - 1 personne sur 6 aura un AVC
-- 30% de mortalité le 1<sup>er</sup> mois
+- 30% de mortalité le 1^er^ mois
 - 75% des survivants ont des séquelles
 - Âge moyen de survenue: 74 ans
 - 1/4 des AVC surviennent avant 65 ans, 10% avant 45 ans

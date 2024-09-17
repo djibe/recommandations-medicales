@@ -60,7 +60,7 @@ Aura présente chez 15-30% des migraineux, elle augmente le risque vasculaire (A
 
 Migraine cataméniale
 : Survenue exclusive de migraine sans aura pendant les règles.  
-Critères diagnostiques: survenue sur au moins 2 cycles sur 3, débutant entre le 2<sup>e</sup> jour précédant et le 3<sup>e</sup> jour suivant les règles (naturellement ou sous pilule).
+Critères diagnostiques: survenue sur au moins 2 cycles sur 3, débutant entre le 2^e^ jour précédant et le 3^e^ jour suivant les règles (naturellement ou sous pilule).
 : 50% des migraineuses rapportent des crises cataméniales mais moins de 10% ont une réelle << migraine cataméniale >>.
 : Les migraines cataméniales ont la particularité d'être très intenses avec moindre réponse au traitement de crise.
 
@@ -90,7 +90,7 @@ SFEMC
 
 - **Prévalence:** 14% des adultes en Europe (18-50 ans ++), 75% de femmes  
   France: 21,3% des adultes remplissent les critères de la migraine ICHD-3.
-- 2<sup>e</sup> maladie la plus importante responsable d'*années vécues avec une incapacité* (AVI, *OMS 2016*)
+- 2^e^ maladie la plus importante responsable d'*années vécues avec une incapacité* (AVI, *OMS 2016*)
 - 50% ont au moins 2 crises par mois; 40% ont durée +24h; 50% ont intensité sévère à très sévère
 
 {{% /collapse %}}
@@ -112,7 +112,7 @@ Autres causes de céphalées:
   Crises pluriquotidiennes, 15-180 min, stricte unilatéralité fixe, arrachement, décharges, intensité très sévère.
 - [Névralgie du nerf trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})  
   Très brèves (qq secondes à 2 minutes), strictement unilatérale V2/V3, neuropathique, gâchette, pas de phonophotophobie ou troubles digestifs.
-- Tumeur du 3<sup>e</sup> ventricule
+- Tumeur du 3^e^ ventricule
 
 ### Diagnostic différentiel des migraines avec aura
 
@@ -345,7 +345,7 @@ Ne pas utiliser les opiacés: aggravent les nausées, risque de céphalées par 
 
 Max 2 prises/24h avec intervalle minimal de 2 heures entre les prises.
 
-- Comprimé: **élétriptan** 20/40 mg (meilleur sur 24h) > **rizatriptan** 5/10 mg (2<sup>e</sup>) > sumatriptan 50 mg (3<sup>e</sup> avec 100 mg), almotriptan 12,5 mg, frovatriptan 2,5 mg, naratriptan 2,5 mg, zolmitriptan 2,5 mg
+- Comprimé: **élétriptan** 20/40 mg (meilleur sur 24h) > **rizatriptan** 5/10 mg (2^e^) > sumatriptan 50 mg (3^e^ avec 100 mg), almotriptan 12,5 mg, frovatriptan 2,5 mg, naratriptan 2,5 mg, zolmitriptan 2,5 mg
 - Orodispersible: **rizatriptan**, zolmitriptan
 - Nasal: sumatriptan 10 mg/0,1 mL
 - Sous-cutané: sumatriptan 6 mg/inj
@@ -401,7 +401,7 @@ Efficacité prouvée: Neuromodulation électrique. Sur prescription spécialisé
 > -- *Ducros 2021 Table 6*
 {{%/info%}}
 
-**Objectif:** réduire le nombre de jours de céphalées au moins de moitié si *migraineux épisodique* (< 15 j/m) ou au moins 30% si *migraineux chronique* (≥ 15 j/m). Réévaluation au 3<sup>e</sup> mois.  
+**Objectif:** réduire le nombre de jours de céphalées au moins de moitié si *migraineux épisodique* (< 15 j/m) ou au moins 30% si *migraineux chronique* (≥ 15 j/m). Réévaluation au 3^e^ mois.  
 Bénéfices recherchés: réduire la consommation d'antalgiques, l'intensité et la durée des crises (et de l'aura) et améliorer la qualité de vie. Les objectifs doivent être expliqués au patient, ainsi que l'importance de l'**observance**.
 
 Prise en charge par une traitement de fond même si le traitement de crise est efficace (prévient la surconsommation).  
@@ -433,7 +433,7 @@ Prise en charge par traitement de fond au moins 3 mois avant de conclure à une 
 - Évaluation de l'efficacité: suffisante si réduit le **nombre de crises de ≥ 50%**
   - Efficace: poursuivre le traitement 6 mois à 1 an, puis décroissance progressive
   - Efficacité insuffisante: augmentation de posologie si bien toléré
-  - Mauvaise tolérance: essayer une autre molécule de 1<sup>re</sup> intention pendant ≥ 3 mois ou avis neurologique
+  - Mauvaise tolérance: essayer une autre molécule de 1^re^ intention pendant ≥ 3 mois ou avis neurologique
 
 Traitement identique en cas de *céphalées par abus médicamenteux* associées, en retirant les antalgiques en excès et en informant sur leur responsabilité dans l'entretien des douleurs.
 
@@ -479,7 +479,7 @@ Trois éléments de suivi: Agenda migraineux, {{< modal-btn modal-hit6 >}}qualit
     1. Soulagement significatif de la céphalée à H2
     2. Nécessité d'une seule administration d'antimigraineux pour ce soulagement
     3. Traitement efficace ≥ 2 fois/3
-- En cas de traitement de fond, ≥ 1 critère rempli durant le 3<sup>e</sup> mois de traitement:
+- En cas de traitement de fond, ≥ 1 critère rempli durant le 3^e^ mois de traitement:
   - Réduit les crises de migraine épisodique de 50%
   - Réduit les crises de migraine chronique de 30%
 - Tous les traitements remplissent tous les critères:
@@ -528,7 +528,7 @@ Informer:
 - Traitement de la crise: paracétamol si légère, sumatriptan si plus forte  
   Voire zolmitriptan ou rizatriptan.
 - Médicaments contre-indiqués  
-  CGRP, dérivés ergot de seigle, (di)-valproate de sodium, aspirine et AINS à partir du 5<sup>e</sup> mois (évités déjà avant)
+  CGRP, dérivés ergot de seigle, (di)-valproate de sodium, aspirine et AINS à partir du 5^e^ mois (évités déjà avant)
 - Rappeler le risque de l'auto-médication (ibuprofène, préparations de parapharmacie)
 
 #### Traitement de fond de la migraine pendant la grossesse
@@ -536,8 +536,8 @@ Informer:
 Si crises invalidantes persistantes:
 
 - Traitements non pharmacologiques: activité physique, acupuncture, TENs
-- [Propranolol](https://www.lecrat.fr/4317/) ou métoprolol en 1<sup>re</sup> intention
-- Amitriptyline en 2<sup>e</sup> intention
+- [Propranolol](https://www.lecrat.fr/4317/) ou métoprolol en 1^re^ intention
+- Amitriptyline en 2^e^ intention
 
 Utiliser les doses minimales efficaces et arrêter les traitements avant l'accouchement.  
 Toute utilisation de traitement de fond doit être rapportée à la pharmacovigilance.

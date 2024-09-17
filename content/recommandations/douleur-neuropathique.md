@@ -332,7 +332,7 @@ accTitle: Conduite à tenir pour la prise en charge des douleurs neuropathiques 
 {{< /mermaid >}}
 
 > Essai de chaque molécule ≥ 6 semaines à dose maximale tolérée (sauf intolérance) et vise réduction douleur ≥ 30% et/ou amélioration fonctionnelle ≥ 30%.  
-Psychothérapie associée dès la 2<sup>e</sup> ligne de traitement.  
+Psychothérapie associée dès la 2^e^ ligne de traitement.  
 Bilan étiologique par le neurologue en cause non évidente.
 
 {{% /collapse %}}

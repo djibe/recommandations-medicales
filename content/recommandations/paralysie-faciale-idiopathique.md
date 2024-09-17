@@ -216,7 +216,7 @@ Doit être réalisée dans les 30 jours ou en urgence en signes atypiques.
 ---
 
 Paralysie faciale sévère ({{< modal-btn score-house >}}House et Brackmann grades V et VI{{< /modal-btn >}}):  
-Électroneuromyogramme entre les 9<sup>e</sup> et 20<sup>e</sup> jour.
+Électroneuromyogramme entre les 9^e^ et 20^e^ jour.
 
 {{%/info%}}
 

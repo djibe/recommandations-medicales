@@ -76,7 +76,7 @@ Bénéfices importants sur la morbi-mortalité (cardiovasculaire et cancer du po
   Répartition: 47.000 cancers, 20.000 cardiovasculaires et 11.000 par maladies respiratoires.
 - 20% des cancers attribuables au tabac (90% des cancers bronchopulmonaires) et 80% des BPCO
 - Première cause de mortalité cardiovasculaire évitable
-- **Fumeurs quotidiens:** 25% (4<sup>e</sup> rang de l'OCDE)
+- **Fumeurs quotidiens:** 25% (4^e^ rang de l'OCDE)
 - Prévalence du tabagisme pendant la grossesse: 30% (la moitié arrête)  
   Dont 20% affirment n'avoir reçu aucune information.
 - 1 fumeur sur 2 meurt prématurément de son tabagisme
@@ -272,7 +272,7 @@ Examens à envisager chez le fumeur:
 - Dépistages: {{< modal-btn modal-depistage-bpco >}}BPCO{{< /modal-btn >}}, coronaropathie, {{< modal-btn modal-depistage-prevalent >}}pathologie vasculaire{{< /modal-btn >}}
 - [Dépistage du cancer du poumon]({{< relref "cancer-poumon.md" >}})
 - Dépistage de l'[anévrysme de l'aorte abdominale (AAA)]({{< relref "anevrysme-aorte-abdominale.md" >}}): Homme de 65 à 75 ans avec tabagisme actif ou sevré depuis < 20 ans  
-  et Homme de 50 à 75 ans avec antécédent familial d'AAA au 1<sup>er</sup> degré (parents/fratrie)
+  et Homme de 50 à 75 ans avec antécédent familial d'AAA au 1^er^ degré (parents/fratrie)
 
 {{% /collapse %}}
 {{%collapse "Traitements du sevrage tabagique" %}}
@@ -355,7 +355,7 @@ Possible en cas d'antécédents neuro-psychiatriques.
   0,5 mg/j pendant 3 jours puis 0,5 mg x 2/j pendant 4 jours
 - Débuté 1-2 semaines avant le jour de l'arrêt  
   ou réduction de la consommation pendant les 12 premières semaines de traitement.
-- Un 3<sup>e</sup> cycle de traitement de 12 semaines envisageable
+- Un 3^e^ cycle de traitement de 12 semaines envisageable
 - Réduire la dose à 0,5 mg x 2/j en cas d'effets indésirables
 - Possibilité de faire un arrêt progressif en cas de symptômes mal tolérés à l'arrêt
 - Arrêter immédiatement le traitement et consulter en cas de symptômes neuropsychiatriques

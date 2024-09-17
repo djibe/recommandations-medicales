@@ -332,7 +332,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 {{< table title="Rythme de dépistage des complications du diabète. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
 | Appareil     | Soins                                                                                            | Source                   |
 |--------------|--------------------------------------------------------------------------------------------------|--------------------------|
-| [AAA]({{< relref "anevrysme-aorte-abdominale.md" >}}) | Échographie si homme 65-75 ans et tabac ou ATCD familial AAA 1<sup>er</sup> degré, AOMI | ACC/AHA 2022 |
+| [AAA]({{< relref "anevrysme-aorte-abdominale.md" >}}) | Échographie si homme 65-75 ans et tabac ou ATCD familial AAA 1^er^ degré, AOMI | ACC/AHA 2022 |
 | AINS         | Éviter toute prise                                                                               | Communiqué ESC 2022      |
 | AOD (rivaroxaban) | Aspirine + AOD à considérer si coronaropathie stable ou AOMI/artériopathie et risque hémorragique faible | ADA 2023    |
 | [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) | Symptômes + pouls + cutané et/ou IPS réguliers. IPS si ulcération | ESC 2023 diabetes |

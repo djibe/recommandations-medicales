@@ -157,7 +157,7 @@ Un interrogatoire complet permet un diagnostic fiable de rhinite allergique (*SF
 
 ### Les tests cutanés allergéniques ou Prick tests
 
-> << Les tests cutanés allergéniques (TCA) ou prick tests doivent être réalisés en 1<sup>ère</sup> intention dans tout bilan étiologique de rhinite présumée allergique. >> -- *SFORL*
+> << Les tests cutanés allergéniques (TCA) ou prick tests doivent être réalisés en 1^re^ intention dans tout bilan étiologique de rhinite présumée allergique. >> -- *SFORL*
 > << Les tests cutanés (...) lors d'une rhinite allergique **saisonnière** sont le plus souvent inutiles >>. – *Prescrire*
 {.alert .alert-info}
 
@@ -202,7 +202,7 @@ Les antihistaminiques et corticoïdes nasaux sont le traitement symptomatique de
 
 1. RA légère à modérée (à partir d'1 an)  
   Anti-histaminiques H1 oraux de deuxième ou troisième génération (ex: [cétirizine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62005883&typedoc=R), loratadine).
-2. RA modérée à sévère (à partir de 3 ans), obstruction nasale prédominante ou échec de la 1<sup>re</sup> ligne  
+2. RA modérée à sévère (à partir de 3 ans), obstruction nasale prédominante ou échec de la 1^re^ ligne  
   Corticothérapie intranasale (ex: béclométasone [Beconase®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63295400&typedoc=R) 50 µg susp nasale, [Rhinomaxil®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66958014&typedoc=R) 100 µg x 2/j, Rinoclenil®)
 3. Contrôle insuffisant chez l'adulte: doubler la dose de corticoïdes
 4. RA non contrôlée: associer corticoïdes + antihistaminiques locaux (ou 2 en 1: [azélastine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68576006&typedoc=R) + fluticasone [Dymista®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60830011&typedoc=R) à partir de 12 ans) en pulvérisations nasales

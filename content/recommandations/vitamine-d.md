@@ -192,7 +192,7 @@ Posologie selon le résultat du dosage de vitamine D:
 - Taux sériques < 50 nmol/L (20 ng/mL)  
   50.000 UI/semaine pendant 8 semaines.
 
-Puis enchaîner sur le [protocole d'entretien](#protocole-dentretien-après-carence-en-vitamine-d). Utiliser des ampoules de 100.000 UI en cas de nécessité d'une 2<sup>e</sup> correction.
+Puis enchaîner sur le [protocole d'entretien](#protocole-dentretien-après-carence-en-vitamine-d). Utiliser des ampoules de 100.000 UI en cas de nécessité d'une 2^e^ correction.
 
 > -- Protocole de correction d'une carence en vitamine D selon *Souberbielle JC 2019*
 

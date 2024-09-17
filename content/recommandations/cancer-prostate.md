@@ -28,7 +28,7 @@ flowchart = true
   - Tous les 2 ans
   - voire tous les 8 ans (**4** pour l'*AFU*) si risque faible: PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans
 - Toute anomalie au toucher rectal ou un PSA > 2 ng/mL impose un avis urologique (seuil de 4 pour l'*AFU*)  
-  Redoser le PSA (intervalle min 2 semaines) si le 1<sup>er</sup> dosage est compris de 3 à 10 ng/mL.
+  Redoser le PSA (intervalle min 2 semaines) si le 1^er^ dosage est compris de 3 à 10 ng/mL.
 - Consultation d'oncogénétique en cas de: CaP métastatique, CaP avant 50 ans, plusieurs cas avant 60 ans, contexte de cancer sein-ovaire (voir *Dépistage du cancer*)
 - Définitions de récidive biologique après traitement (voir *Traitement*)
 - Après traitement, le suivi spécialisé est long (10 ans)
@@ -75,8 +75,8 @@ Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de G
 
 ### Épidémiologie du cancer de la prostate
 
-- **Incidence du cancer de la prostate:** 59.885 nouveaux cas (métropole 2018, 1<sup>er</sup> cancer de l'homme)
-- **Décès:** 8100 (métropole 2018, 3<sup>e</sup> cause de décès par cancer de l'homme)
+- **Incidence du cancer de la prostate:** 59.885 nouveaux cas (métropole 2018, 1^er^ cancer de l'homme)
+- **Décès:** 8100 (métropole 2018, 3^e^ cause de décès par cancer de l'homme)
 - Âge médian au diagnostic: 69 ans
 - Prévalence du cancer de la prostate à l'autopsie: 5% avant 30 ans et 59% chez les +79 ans  
   Enjeu de ne traiter que les cancers agressifs.
@@ -185,8 +185,8 @@ Patient à risque **asymptomatique** informé demandant une détection précoce,
 
 - Toucher rectal normal
   - PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans: répéter le dosage dans 8 ans
-  - PSA 1<sup>er</sup> dosage de 3-10 ng/mL: refaire le dosage (min 2 semaines)
-  - PSA 2<sup>e</sup> dosage de 2-10 ng/mL: avis urologique pour utilisation d'un score ou IRM prostatique (seuil de 4 ng/mL selon *AFU 2022*)
+  - PSA 1^er^ dosage de 3-10 ng/mL: refaire le dosage (min 2 semaines)
+  - PSA 2^e^ dosage de 2-10 ng/mL: avis urologique pour utilisation d'un score ou IRM prostatique (seuil de 4 ng/mL selon *AFU 2022*)
   - PSA > 10 ng/mL: avis urologique
   - PSA en augmentation > 30%: avis urologique (*AFU*)
 - Toucher rectal anormal: avis urologique
@@ -229,8 +229,8 @@ Indications à une consultation d'oncogénétique chez un homme ayant un **anté
 Indications à une consultation d'oncogénétique selon l'*AFU 2022*:
 
 - Suspicion de forme héréditaire de cancer de la prostate
-  - 3 cas de CaP de la même branche familiale au 1<sup>er</sup> ou 2<sup>e</sup> degré
-  - 2 cas de CaP avant 55 ans de la même branche familiale au 1<sup>er</sup> ou 2<sup>e</sup> degré
+  - 3 cas de CaP de la même branche familiale au 1^er^ ou 2^e^ degré
+  - 2 cas de CaP avant 55 ans de la même branche familiale au 1^er^ ou 2^e^ degré
 - Forme précoce de cancer de la prostate: CaP avant 50 ans
 - CaP associé au [cancer du sein]({{< relref "cancer-sein.md" >}}) ou de l'[ovaire]({{< relref "cancer-ovaire.md" >}})  
   Mutation prédisposant (ex. BRCA2), cancer du sein (avant 40 ans, bilatéral ou de l'homme), un cas de cancer de l'ovaire

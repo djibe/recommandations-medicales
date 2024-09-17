@@ -65,15 +65,15 @@ Adolescent et adulte
 {{% /collapse %}}
 {{%collapse "Facteurs de risque de saturnisme" %}}
 
-Repérer systématiquement aux examens obligatoires des 9<sup>e</sup> et 24<sup>e</sup> mois les enfants à risque, ainsi que lors de l'entretien prénatal pour chaque grossesse au 4<sup>e</sup> mois ou pour toute femme avec désir d'enfant.
+Repérer systématiquement aux examens obligatoires des 9^e^ et 24^e^ mois les enfants à risque, ainsi que lors de l'entretien prénatal pour chaque grossesse au 4^e^ mois ou pour toute femme avec désir d'enfant.
 
 {{%info%}}
 
 ### Facteurs de risque d'exposition au plomb
 
-- **Peintures au plomb dans l'habitat ancien**. De loin la 1<sup>re</sup> cause.  
+- **Peintures au plomb dans l'habitat ancien**. De loin la 1^re^ cause.  
   Habitations avant 1949 (même recouvertes de peintures récentes), voire 1975 et travaux de rénovations dans les 6 mois (répandent le plomb)
-- Environnement de site industriel rejetant (ou ayant rejeté) du plomb (2<sup>e</sup> cause)
+- Environnement de site industriel rejetant (ou ayant rejeté) du plomb (2^e^ cause)
 - Arrivée récente en France +++
 - Activité professionnelle exposant au plomb  
   Restauration de vitraux, fonderie, céramiques ou émail, munitions, plombs de pêche ou de petits soldats en plomb.

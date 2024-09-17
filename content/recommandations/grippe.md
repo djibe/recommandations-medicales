@@ -132,7 +132,7 @@ Signes et symptômes de la grippe:
 - Tableau de **syndrome grippal fébrile** pendant quelques jours  
   Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
 - Guérison avec asthénie et toux résiduelle plusieurs semaines
-- **Grossesse:** 3<sup>e</sup> trimestre ++, mortalité élevée chez obèse et asthmatique
+- **Grossesse:** 3^e^ trimestre ++, mortalité élevée chez obèse et asthmatique
 - Sujet âgé
   - Dyspnée, confusion mentale, déshydratation, troubles digestifs
   - Pneumopathie post-grippale (J5-J7)

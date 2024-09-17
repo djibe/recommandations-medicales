@@ -50,8 +50,8 @@ Adénome
 
 Le diagnostic de cancer du côlon ou du rectum est le plus souvent réalisé à un stade avancé et la France est un pays Européen avec les plus **hautes incidences** de cancer colorectal.
 
-- Incidence: 2<sup>e</sup> cancer de la femme (21.370 en 2023), 3<sup>e</sup> cancer de l'homme (26.212)
-- Décès: **2<sup>e</sup> par mortalité** (17.100 en 2018)
+- Incidence: 2^e^ cancer de la femme (21.370 en 2023), 3^e^ cancer de l'homme (26.212)
+- Décès: **2^e^ par mortalité** (17.100 en 2018)
 - Âge médian au diagnostic: 72 ans pour les femmes et 71 pour les hommes
 - Taux de participation au dépistage: **34,6 %** (2020 - 2021)
 - 95 % des cancers colorectaux surviennent après 50 ans
@@ -121,7 +121,7 @@ Risque moyen
 Risque élevé
 : 4 groupes à risque élevé de cancer colorectal:
     1. Antécédent personnel de cancer colorectal ou d'adénome
-    2. Antécédent familial de cancer colorectal ou d'adénome ≥ 10 mm chez 1 parent au 1<sup>er</sup> degré avant 65 ans ou chez ≥ 2 parents au 1<sup>er</sup> degré à tout âge  
+    2. Antécédent familial de cancer colorectal ou d'adénome ≥ 10 mm chez 1 parent au 1^er^ degré avant 65 ans ou chez ≥ 2 parents au 1^er^ degré à tout âge  
       Tous les 5 ans à partir de 45 ans ou 10 ans avant l'âge de diagnostic du cas index (*SFED 2021*)
     3. Maladie inflammatoire chronique de l'intestin  
       {{%class%}}Maladie de Crohn ou rectocolite hémorragique.{{%/class%}}
@@ -140,7 +140,7 @@ Risque très élevé = prédisposition génétique au cancer colorectal
 
 Indications à une **consultation d'oncogénétique**:
 
-- 2 antécédents familiaux au 1<sup>er</sup> degré de cancer du spectre de Lynch ({{< clinique/cancer-spectre-lynch >}}) dont 1 avant 50 ans
+- 2 antécédents familiaux au 1^er^ degré de cancer du spectre de Lynch ({{< clinique/cancer-spectre-lynch >}}) dont 1 avant 50 ans
 - Antécédent personnel de cancer du spectre de Lynch surajouté (hors le CCR, cf ligne précédente)
 - Cancer colorectal **avant 40 ans**
 - Phénotype MSI ou dMMR
@@ -276,7 +276,7 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 | | | <strong>Risque faible:</strong><br>1-2 adénome < 10 mm en DBG | Cs de prévention à 5 ans<br>+ coloscopie sous 7-10 ans<br>ou reprise FIT à 5 ans |
 | | | <strong>Risque faible:</strong><br>3-4 adénomes < 10 mm en DBG<br>PF < 10 mm sans dysplasie | Coloscopie à 5 ans |
 | Antécédent personnel de CCR<br>sporadique (SFED 2021) | Après résection |  | Coloscopie à 1 an<br>(sous 6 mois si incomplète)<br>puis intervalle de 3 ans<br>et encore 5 ans (selon polypes) |
-| Antécédent familial 1<sup>er</sup> degré de CCR<br>ou d'adénome avancé > 10 mm | À partir de 45 ans<br>ou 10 ans avant l'âge<br>de diagnostic du<br>cas index |  | Coloscopie tous les 5 ans |
+| Antécédent familial 1^er^ degré de CCR<br>ou d'adénome avancé > 10 mm | À partir de 45 ans<br>ou 10 ans avant l'âge<br>de diagnostic du<br>cas index |  | Coloscopie tous les 5 ans |
 | MICI | 6-8 ans après le début<br>des symptômes | <strong>Risque élevé:</strong><br>CSP, ATCD de dysplasie, forme étendue<br>sur +50% du côlon, persistance inflammatoire,<br>ATCD familiaux CCR, nb pseudo-polypes,<br>sténose colique | Chromoendoscopie tous les 1-2 ans |
 | | | <strong>Risque intermédiaire:</strong><br>RCH étendue en dessous de l'angle gauche,<br>MC colique étendue sur 30-50% | Tous les 3-4 ans |
 | | | <strong>Risque faible:</strong><br>Rectite de RCH et MC colique étendue sur < 30% | Pas de suivi spécifique défini |

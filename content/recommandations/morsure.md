@@ -158,7 +158,7 @@ Si vipère venimeuse: amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 
 - Le maire peut obliger le propriétaire à appliquer la loi sous 24 heures ([art. L. 223-10 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024395954/))
 - Le maire peut également ordonner le placement de l'animal voire son euthanasie ([art. L. 211-14-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022200148))
 
-> **NB.** Les chiens de 1<sup>re</sup> et 2<sup>e</sup> catégorie (ex: American Staffordshire terrier, Rottweiler, Tosa) doivent obligatoirement être assurés. (*[Service Public](https://www.service-public.fr/particuliers/vosdroits/F1839)*)
+> **NB.** Les chiens de 1^re^ et 2^e^ catégorie (ex: American Staffordshire terrier, Rottweiler, Tosa) doivent obligatoirement être assurés. (*[Service Public](https://www.service-public.fr/particuliers/vosdroits/F1839)*)
 
 En cas d'animal mordeur mort ou abattu, le cadavre doit être adressé au [CNR de la Rage](https://www.pasteur.fr/fr/sante-publique/cnr/les-cnr/rage).
 

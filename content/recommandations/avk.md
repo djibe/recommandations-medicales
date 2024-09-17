@@ -40,7 +40,7 @@ NFS-plaquettes, TP, TCA, créatininémie, transaminases.
 - ==Débuter à 5 mg/j==
 - Préférer 2 mg/j si: [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), personne âgée, fragile, maigre/dénutrie, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ou hépatique
 - de préférence le soir
-- **INR 12 heures après la 3<sup>e</sup> prise**. Si INR > 2: diminuer la posologie.
+- **INR 12 heures après la 3^e^ prise**. Si INR > 2: diminuer la posologie.
 - **Ajustements par paliers de 1 mg et contrôle INR à J3**  
   Puis 1-2 INR/semaine jusqu'à stabilisation.
 
@@ -85,7 +85,7 @@ Nouvel INR le lendemain du diagnostic de surdose avec reconduction identique des
 {{% /collapse %}}
 {{%collapse "Hémorragies et traumatismes" %}}
 
-Le risque hémorragique sous traitement est maximal les 6 premiers mois de traitement (1<sup>er</sup> mois surtout).
+Le risque hémorragique sous traitement est maximal les 6 premiers mois de traitement (1^er^ mois surtout).
 
 Intensifier la surveillance en cas d'ulcère gastro-duodénal, antécédents d'hémorragie digestive, AVC récent, personne âgée hypertendue (AVC hémorragique), [chutes](/tags/chute/), [alcoolisme chronique]({{< relref "sevrage-alcool.md" >}}), diabète, trouble de coagulation.
 

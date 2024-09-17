@@ -77,7 +77,7 @@ Autres diagnostics à étayer devant une lésion du sein:
 - Kyste  
   Masse bénigne liquidienne la plus fréquente de 35 à 50 ans.
 - Mastose ou fibrose kystique du sein  
-  Très fréquente (50-80% de 30 à 50 ans). Associée à une augmentation du risque de cancer du sein en antécédent de mastose au 1<sup>er</sup> degré.
+  Très fréquente (50-80% de 30 à 50 ans). Associée à une augmentation du risque de cancer du sein en antécédent de mastose au 1^er^ degré.
 - Hyperplasie mammaire simple
 - [Écoulement mamelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
 
@@ -85,8 +85,8 @@ Autres diagnostics à étayer devant une lésion du sein:
 
 Chiffres du cancer du sein en France:
 
-- Incidence: 61.214 (métropole 2023), 1<sup>er</sup> rang chez la femme
-- Mortalité: 12.146 (métropole 2018), 1<sup>er</sup> rang chez la femme
+- Incidence: 61.214 (métropole 2023), 1^er^ rang chez la femme
+- Mortalité: 12.146 (métropole 2018), 1^er^ rang chez la femme
 - Âge médian au diagnostic: 64 ans
 - Survie: 88 % à 5 ans (métropole, diagnostic en 2010-2015)
 - Participation au dépistage organisé: 46,5 % (2022-2023)
@@ -154,14 +154,14 @@ Femmes à risque élevé de cancer du sein:
 3. Antécédent d'hyperplasie canalaire ou lobulaire atypique ou de carcinome lobulaire *in situ*  
   Mammographie ± échographie annuelle pendant 10 ans, puis tous les 2 ans jusqu'au dépistage organisé.
 4. Antécédent familial de cancer du sein avec {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} ≥ 3 et risque élevé estimé par l'oncogénéticien (*INCa 2017*)  
-  Pour les apparenté au 1<sup>er</sup> degré ou nièce par un frère:
+  Pour les apparenté au 1^er^ degré ou nièce par un frère:
     - Examen clinique annuel à partir de 20 ans
     - Mammographies annuelles à partir de 5 ans avant le cas (pas avant 40 ans) ± échographie jusqu'à 50 ans
     - puis dépistage organisé
 
 ### Niveau de risque très élevé
 
-1. Mutation BRCA1 ou 2 ou apparenté au 1<sup>er</sup> degré ou nièce par un frère  
+1. Mutation BRCA1 ou 2 ou apparenté au 1^er^ degré ou nièce par un frère  
 2. Forme familiale avec {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} ≥ 3 et risque très élevé estimé par l'oncogénéticien
 
 Dépistage des personnes à risque très élevé de cancer du sein:
@@ -315,7 +315,7 @@ Les mammographies sont remboursées à 100% (les examens supplémentaires ne le 
 - Institut Gustave Roussy (IGR)
   - Pas encore de diagnostic (fournir les examens): [en ligne](https://rdv.gustaveroussy.fr)   ou {{<phone>}}01 42 11 64 33{{</phone>}} (lun-ven 8:45-12:45 et 13:45-16:00)
   - Diagnostic posé mais pas encore suivie: {{<phone>}}01 42 11 64 33{{</phone>}} (oncologie)
-  - 2<sup>e</sup> avis médical: [IGR](https://www.gustaveroussy.fr/fr/cancer-sein/contacts) à renvoyer à <avis.sein@gustaveroussy.fr>
+  - 2^e^ avis médical: [IGR](https://www.gustaveroussy.fr/fr/cancer-sein/contacts) à renvoyer à <avis.sein@gustaveroussy.fr>
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
@@ -369,7 +369,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: ch
   - Symptômes généraux
   - Palpation des seins et des aires ganglionnaires
 - Mammographie annuelle à vie (bilatérale si tumorectomie) ± échographie mammaire
-  - Tumorectomie: la 1<sup>re</sup> mammographie homolatérale est réalisée au moins 6 mois après la fin de la radiothérapie.
+  - Tumorectomie: la 1^re^ mammographie homolatérale est réalisée au moins 6 mois après la fin de la radiothérapie.
 - Tamoxifène (SERM)
   - Informer sur le risque de prolifération/hyperplasie endométriale, de [cancer de l'endomètre et de sarcome utérin]({{< relref "cancer-endometre.md" >}}) (sauf pré-ménopause)
   - Signaler tout symptôme vaginal (pertes, tâches, leucorrhée), tout symptôme doit être exploré

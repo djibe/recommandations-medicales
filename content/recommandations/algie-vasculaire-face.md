@@ -206,7 +206,7 @@ La SFEMC recommandait également une **angio-IRM** en 2014.
 
 {{%info%}}
 Sumatriptan 6 mg sous-cutané, 1 injection SC dès le début des douleurs.  
-2<sup>e</sup> injection possible 1 heure après si besoin.  
+2^e^ injection possible 1 heure après si besoin.  
 Max 2 inj/24h (sauf avis du neurologue).
 {{%/info%}}
 

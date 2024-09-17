@@ -115,7 +115,7 @@ La **maladie de Wilson** peut causer des fausses couches répétées.
 - Si [hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md" >}}): pas de lévothyroxine, contrôle de la TSH à 7-9 SA
 - Si hyperprolactinémie: considérer la bromocriptine
 - Si thrombophilie héréditaire: pas d'anticoagulant
-- Si FCS au 2<sup>e</sup> trimestre et suspicion d'hypotonie du col utérin: échographies répétées, considérer un cerclage
+- Si FCS au 2^e^ trimestre et suspicion d'hypotonie du col utérin: échographies répétées, considérer un cerclage
 - Multi-vitamines autorisées pendant la grossesse (mais sans preuve de bénéfice)
 
 Manque de preuves pour: progestérone ou hCG en cas d'insuffisance lutéale, metformine pour intolérance glucidique, G-CSF, suppléments multi-vitaminiques.

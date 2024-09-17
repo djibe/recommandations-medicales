@@ -40,7 +40,7 @@ Recommandations pour le traitement des infections urinaires communautaires de l'
   Bilan biologique, uroscanner et antibiothérapie probabiliste identique à la PNA simple.
 - **Infection urinaire masculine** (voir section dédiée plus bas)
 - **Infection urinaire pendant la grossesse**
-  - BU mensuelle à partir du 4<sup>e</sup> mois pour toutes (ou ECBU mensuel en cas d'antécédent d'IU pendant la grossesse, uropathie, diabète, antécédent de cystites récidivantes)
+  - BU mensuelle à partir du 4^e^ mois pour toutes (ou ECBU mensuel en cas d'antécédent d'IU pendant la grossesse, uropathie, diabète, antécédent de cystites récidivantes)
   - Colonisation urinaire: antibiothérapie d'emblée adaptée et ECBU de contrôle J8-J10
   - Cystite: ECBU, antibiothérapie probabiliste puis ECBU de contrôle et mensuel
   - Pyélonéphrite: *Urgences*
@@ -52,7 +52,7 @@ Chapitres liés: [infections urinaires chez l'enfant]({{< relref "infection-urin
 
 ### Bandelette urinaire (BU)
 
-La bandelette urinaire détecte une leucocyturie (seuil 10<sup>4</sup> leucocytes/mm³) ou des nitrites signant une entérobactérie.
+La bandelette urinaire détecte une leucocyturie (seuil 10^4^ leucocytes/mm³) ou des nitrites signant une entérobactérie.
 
 Devant des signes évocateurs d'infection urinaire (IU) chez l'immunocompétent, une bandelette urinaire normale permet d'éliminer une IU chez la femme (VPN +95%) ou en faveur d'infection urinaire masculine lorsqu'elle est positive (VPP +90%)
 {.alert .alert-info}
@@ -89,7 +89,7 @@ Un ECBU de contrôle est réalisé uniquement en cas d'évolution défavorable.
 | Bactérie                                                                                              | Seuil femme (≥ UFC/mL) | Seuil homme    |
 |-------------------------------------------------------------------------------------------------------|-----------------------:|---------------:|
 | *E. coli*, *S. saprophyticus*                                                                         | 10³                    | 10³            |
-| Entérobactérie autre que *E. coli*,<br>entérocoque, *C. urealyticum*,<br>*P. aeruginosa*, *S. aureus* | 10<sup>4</sup>         | 10³            |
+| Entérobactérie autre que *E. coli*,<br>entérocoque, *C. urealyticum*,<br>*P. aeruginosa*, *S. aureus* | 10^4^         | 10³            |
 {{< /table >}}
 
 {{% /collapse %}}
@@ -269,7 +269,7 @@ Antibiothérapie **identique à la pyélonéphrite aiguë simple** (chapitre pr�
 ### Colonisation urinaire pendant la grossesse
 
 Colonisation urinaire gravidique
-: Patiente asymptomatique avec un ECBU positif avec un seul germe à titre ≥ **10<sup>5</sup> UFC/mL**. Idéalement 2 ECBU positifs à une semaine d'intervalle sont requis pour le diagnostic (en pratique 1 seul est admis).
+: Patiente asymptomatique avec un ECBU positif avec un seul germe à titre ≥ **10^5^ UFC/mL**. Idéalement 2 ECBU positifs à une semaine d'intervalle sont requis pour le diagnostic (en pratique 1 seul est admis).
 : Dépistage par **BU mensuelle** à partir du 4e mois (ECBU en cas d'IU pendant la grossesse, uropathie, diabète, antécédent de cystites récidivantes).
 
 Prise en charge de la colonisation urinaire gravidique par **antibiothérapie systématique** d'emblée adaptée à l'antibiogramme:
@@ -321,7 +321,7 @@ Infection urinaires masculine (IU masculine)
 : Les critères d'hospitalisation sont ceux de la pyélonéphrite.
 : Hémocultures si fièvre. Le PSA peut être perturbé jusqu'à 6 mois après l'infection.
 : Échographie des voies urinaires sous 24h si sepsis grave, suspicion de rétention ou de lithiase.  
-Sinon avec mesure du résidu post-mictionnel, dès le 2<sup>e</sup> épisode ou en cas de suspicion d'anomalie des voies urinaires (+50 ans).
+Sinon avec mesure du résidu post-mictionnel, dès le 2^e^ épisode ou en cas de suspicion d'anomalie des voies urinaires (+50 ans).
 
 ### Infection urinaire de l'homme pauci-symptomatique
 

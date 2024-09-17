@@ -327,7 +327,7 @@ Pour l'adénome toxique ou le goitre multinodulaire toxique (GMNT), les ATS << p
 
 Les antithyroïdiens de synthèse de référence sont le **thiamazole** (Thyrozol®) ou le **carbimazole** (Néo-mercazole®) pendant une première ligne de traitement pendant **12 à 18 mois**.
 
-Le benzylthiouracile (Basdène®) est un ATS de deuxième ligne (contrainte des prises, toxicité hépatique). Le **propylthiouracile** (PTU) est réservé pour: 1<sup>er</sup> trimestre de grossesse si traitement nécessaire, antécédent d'allergie mineure au thiamazole ou carbimazole.
+Le benzylthiouracile (Basdène®) est un ATS de deuxième ligne (contrainte des prises, toxicité hépatique). Le **propylthiouracile** (PTU) est réservé pour: 1^er^ trimestre de grossesse si traitement nécessaire, antécédent d'allergie mineure au thiamazole ou carbimazole.
 
 Après la première ligne de traitement par ATS, en cas de récidive, le traitement est étiologique sur avis spécialisé, selon les préférences du patient (voir section suivante):
 
@@ -413,7 +413,7 @@ Les 3 modalités de traitement sont possibles en cas d'orbitopathie basedowienne
 - Habituels (5-15%): rash cutané et urticaire, arthralgie, neutropénie transitoire, [alopécie]({{< relref "alopecie.md" >}}), perturbations hépatiques mineures
 - Rares et sévères (< 1%): agranulocytose aiguë, hypoplasie médullaire, hépatite rétentionnelle ou cytolytique (PTU), vascularite allergique liées aux ANCA, pancréatite, hypoglycémie par anticorps anti-insuline.
 
-### Irathérapie (iode 131 ou <sup>131</sup>I)
+### Irathérapie (iode 131 ou ^131^I)
 
 Traitement non invasif très efficace (en 1 à 3 mois) aboutissant à une hypothyroïdie définitive (5-50% dans l'année).
 

@@ -168,7 +168,7 @@ Voir *SFORL 2016*.
 
 Bétahistine
 : Bétahistine 24 mg x 2/j au long cours.  
-Peut être prescrite en 1<sup>re</sup> intention.
+Peut être prescrite en 1^re^ intention.
 : Effets indésirables: gastralgies, céphalées, asthénie, somnolence, allergie. Thrombopénie et élévation des transaminases exceptionnelles.
 
 Diurétique à dose minimale efficace

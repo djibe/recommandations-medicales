@@ -282,11 +282,11 @@ L'antibiothérapie de référence de la maladie de Lyme au stade de l'érythème
 Antibiothérapie pendant **14 jours**:
 
 - Adulte: [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R) 100 mg x 2/j  
-  2<sup>e</sup> ligne ou grossesse: amoxicilline 1 g x 3/j.
+  2^e^ ligne ou grossesse: amoxicilline 1 g x 3/j.
 - Enfant ≥ 8 ans: doxycycline 4 mg/kg/j (max 100 mg/prise et 200 mg/j) en 2 prises pendant 14 à 21 jours  
-  2<sup>e</sup> ligne: amoxicilline 50 mg/kg/j (max 3 g/j) en 3 prises.
+  2^e^ ligne: amoxicilline 50 mg/kg/j (max 3 g/j) en 3 prises.
 - Enfant < 8 ans: amoxicilline 50 mg/kg/j (max 3 g/j) en 2-3 prises  
-  2<sup>e</sup> ligne: azithromycine 20 mg/kg/j (max 500 mg/j) pendant 10 jours.
+  2^e^ ligne: azithromycine 20 mg/kg/j (max 500 mg/j) pendant 10 jours.
 {{%/info%}}
 
 ### Traitement du lymphocytome borrélien

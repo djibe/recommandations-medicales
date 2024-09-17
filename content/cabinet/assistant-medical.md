@@ -52,15 +52,15 @@ L'appli *ameli Mémo* ([Android](https://play.google.com/store/apps/details?id=f
 
 L'Assurance Maladie soutient financièrement l'investissement dans la collaboration avec un assistant médical avec une aide pérenne mais dégressive pendant les trois premières années.
 
-La première année, l'intégralité de l'aide est versée dans le mois qui suit le contrat puis à la date anniversaire la 2e année. À partir de la 3e année elle est versée en 2 acomptes de 50%.
+La première année, l'intégralité de l'aide est versée dans le mois qui suit le contrat puis à la date anniversaire la 2^e^ année. À partir de la 3^e^ année elle est versée en 2 acomptes de 50%.
 
 De même, un délégué de l'Assurance Maladie peut accompagner le médecin embauchant un assistant médical durant la première année.
 
 {{< table title="Options de financement de l'Assistant médical par l'Assurance Maladie en 2023. ETP = équivalent temps-plein; P = percentile" >}}
-| Options (ETP) | 1<sup>re</sup> année (€) | 2<sup>e</sup> année | Ensuite | Avec forte patientèle | Très forte |
-|--------------:|-------------------------:|--------------------:|--------:|----------------------:|-----------:|
-| 1/2           | 18.000                   | 13.500              | 10.500  | 12.500                | 18.000     |
-| 1             | 36.000                   | 27.000              | 21.000  | 25.000                | 36.000     |
+| Options (ETP) | 1^re^ année (€) | 2^e^ année | Ensuite | Avec forte patientèle | Très forte |
+|--------------:|-------------------------:|-----------:|--------:|----------------------:|-----------:|
+|           1/2 |                   18.000 |     13.500 |  10.500 |                12.500 |     18.000 |
+|             1 |                   36.000 |     27.000 |  21.000 |                25.000 |     36.000 |
 {{< /table >}}
 
 > **Forte patientèle =** médecins parmi les 10% les plus actifs (P90-P95 soit 1503 patients) ; très forte = > P95 (soit 1721 patients)
@@ -68,7 +68,7 @@ De même, un délégué de l'Assurance Maladie peut accompagner le médecin emba
 {{% /collapse %}}
 {{%collapse "Estimer le coût d'un assistant médical" %}}
 
-Pour verser à votre Assistant médical **1600€ nets par mois** à temps-plein (1 ETP) en CDI, il vous en coûtera 2388€ mensuels. Avec les aides de l'Assurance Maladie, il vous sera donc versé un surplus de 7400€ la première année, il vous coûtera seulement 1600€ la 2<sup>e</sup> année puis **7600€/an les années suivantes**.
+Pour verser à votre Assistant médical **1600€ nets par mois** à temps-plein (1 ETP) en CDI, il vous en coûtera 2388€ mensuels. Avec les aides de l'Assurance Maladie, il vous sera donc versé un surplus de 7400€ la première année, il vous coûtera seulement 1600€ la 2^e^ année puis **7600€/an les années suivantes**.
 
 Cet exemple ne prend pas en compte sa montée en compétences et les augmentations de salaire négociées. [Le site de la convention collective](https://ccn-cabinets-medicaux.fr/connaitre-salaire-minimum/etape2#anchor_2) peut vous guider pour déterminer le salaire ad-hoc.
 

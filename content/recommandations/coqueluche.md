@@ -49,7 +49,7 @@ Coqueluche
 
 ### Épidémiologie de la coqueluche
 
-- Mortalité par coqueluche de 1979 à 2005: 113 cas, 1<sup>re</sup> cause de décès des nourrissons (88% ont moins d'un an)
+- Mortalité par coqueluche de 1979 à 2005: 113 cas, 1^re^ cause de décès des nourrissons (88% ont moins d'un an)
 - 3 morts/an, première cause de mortalité de J10 à 2 mois de vie, troisième cause tout âge confondu (méningocoque > pneumocoque).
 - Source de la contamination: parents 55 %, fratrie 25 %
 - Coqueluche en Île-de-France: **32 %** des adultes suivis pour toux de +7 jours (60 % vaccinés)
@@ -175,7 +175,7 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
   BoostrixTetra®/Repevax® sauf si Tetravac-acellulaire® non fait à 6 ans.
 - Personnes à risque (+80 ans, maladie respiratoire, immunodépression, obésité): ajout de la coqueluche à chaque rappel du dTPolio (*HCSP 2024*)
 - Rattrapage à tout âge si:
-  - 2<sup>e</sup> trimestre de la grossesse (20-36 SA), même si vaccinée avant la grossesse
+  - 2^e^ trimestre de la grossesse (20-36 SA), même si vaccinée avant la grossesse
   - ou en l'absence de vaccin maternel pour le "cocooning": jeunes parents et les grands-parents, fratrie, personnels de la petite enfance
 
 > Délai minimal d'un mois entre 2 doses de vaccin coquelucheux

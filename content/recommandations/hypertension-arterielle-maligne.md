@@ -82,7 +82,7 @@ Autres urgences hypertensives: AVC, dissection aortique, [infarctus du myocarde]
 ### Pour en savoir plus: étiologie de l'HTA maligne
 
 Principalement essentielle (20-30% chez blancs et 80% chez noirs).  
-1<sup>re</sup> cause organique est rénale (glomérulonéphrite, néphropathie sur reflux, sténose de l'artère rénale). Plus rarement toxique (amphétamines, ecstasy) ou endocrinienne (phéochromocytome).
+1^re^ cause organique est rénale (glomérulonéphrite, néphropathie sur reflux, sténose de l'artère rénale). Plus rarement toxique (amphétamines, ecstasy) ou endocrinienne (phéochromocytome).
 
 #### Autres causes
 

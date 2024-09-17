@@ -168,7 +168,7 @@ Pour toutes les femmes: double détermination du **groupe sanguin RhD** et reche
 
 ### Femme Rhésus D négatif
 
-- Information sur l'immunisation anti-rhésus D: dépistage, suivi (RAI au 1<sup>er</sup> trimestre, 6e, 8e et 9e mois), prévention
+- Information sur l'immunisation anti-rhésus D: dépistage, suivi (RAI au 1^er^ trimestre, 6e, 8e et 9e mois), prévention
 - Détermination du RhD chez le conjoint  
   Si le conjoint est RhD+ ou inconnu: génotypage RhD fœtal sur sang maternel à partir de 11 SA (que la grossesse soit unique ou multiple).
 - Si génotypage RhD fœtal:

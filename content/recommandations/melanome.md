@@ -72,7 +72,7 @@ Plusieurs facteurs sont utilisés: indice de Breslow, de Clark, ulcération, ind
 
 ### Épidémiologie du mélanome
 
-- 13<sup>e</sup> cancer de la femme, 7<sup>e</sup> de l'homme
+- 13^e^ cancer de la femme, 7^e^ de l'homme
 - **Incidence:** 17.922 nouveaux cas (métropole 2023)  
   {{%class%}}49% de femmes. Incidence en augmentation de 3,4 %/an (période 2010 - 2018). x50 sur période 1990 - 2018{{%/class%}}
 - Âge médian au diagnostic: 62 ans pour les femmes et 68 ans pour les hommes.
@@ -105,7 +105,7 @@ Pour toutes les personnes à risque: auto-examen cutané tous les 3 mois et cons
   Brûlures dans l'enfance (cloques) ++
 - **Antécédents familiaux de cancer cutané** (5-10% ont un caractère familial)
 - Antécédent personnel de mélanome  
-  Risque de 2<sup>e</sup> de 5 à 8%.
+  Risque de 2^e^ de 5 à 8%.
 - Immunodépression
 - Exposition professionnelle  
   Travail en extérieur, rayonnements ionisants, soudure de métaux, sidérurgie, pesticides.
@@ -267,12 +267,12 @@ Le traitement et la suite de la prise en charge sont décidés en **réunion de 
 {{% /collapse %}}
 {{%collapse "Surveillance du patient" %}}
 
-Le risque d'apparition d'un 2<sup>e</sup> cancer cutané est supérieur à la population générale.
+Le risque d'apparition d'un 2^e^ cancer cutané est supérieur à la population générale.
 
 - Déclaration [ALD n°30]({{< relref "affection-longue-duree.md" >}})
 - Mesures de prévention (voir *[Prévention]({{< relref "#prévention" >}})*)
 - Photoprotection systématique personnelle + familiale
-- Dépistage cutané des apparentés du 1<sup>er</sup> degré
+- Dépistage cutané des apparentés du 1^er^ degré
 - Auto-surveillance (dépistage + récidive)  
   Consulter au plus vite en cas d'anomalie.
 - Examen clinique complet (généraliste + dermatologue)

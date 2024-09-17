@@ -155,7 +155,7 @@ Un dosage de créatinine est valable 3 mois (7 jours en aigu).
 ### Facteurs de risque d'insuffisance rénale aiguë post-contraste
 
 - Facteurs de risque liés au patient: [IRC]({{< relref "insuffisance-renale-chronique.md" >}}), IRA, déshydratation marquée
-- Facteurs de risque liés à la procédure: fortes de doses intra-artérielles de 1<sup>er</sup> passage, PCI de haute osmolalité (désuets), multiples injections de PCI dans les 48-72 heures, actes interventionnels cardiovasculaires
+- Facteurs de risque liés à la procédure: fortes de doses intra-artérielles de 1^er^ passage, PCI de haute osmolalité (désuets), multiples injections de PCI dans les 48-72 heures, actes interventionnels cardiovasculaires
 
 Chez ces personnes: protocoles d'hydratation intraveineux spécifiques au décours de l'examen.
 
@@ -163,13 +163,13 @@ Chez ces personnes: protocoles d'hydratation intraveineux spécifiques au décou
 
 Risque d'insuffisance rénale aiguë post-contraste selon la voie d'injection:
 
-- Voie veineuse ou artérielle 2<sup>e</sup> passage: DFG < 30
-- Voie artérielle 1<sup>er</sup> passage: DFG < 45
+- Voie veineuse ou artérielle 2^e^ passage: DFG < 30
+- Voie artérielle 1^er^ passage: DFG < 45
 
 ### Gestion des traitements des sujets à risque en cas d'injection de produit de contraste
 
 - Metformine, arrêt le jour de l'examen pour 48 heures si:
-  - Voie artérielle 1<sup>er</sup> passage
+  - Voie artérielle 1^er^ passage
   - Insuffisance rénale aiguë
   - Dans tous les cas contre-indiquée sous 30 mL/min
 - Anti-inflammatoires AINS: contre-indiqués en MRC stade IV/V, suspendus selon le rapport bénéfice/risque

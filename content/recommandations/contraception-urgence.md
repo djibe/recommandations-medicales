@@ -28,7 +28,7 @@ flowchart = true
 - Information systématique de tous sur la contraception d'urgence, notamment lors de la prescription d'une [contraception]({{< relref "contraception.md" >}})
 - Information sur la grande efficacité de la << pilule du lendemain >> prise précocement et son innocuité
 - La pilule du lendemain est accessible gratuitement (sans avance de frais) sans ordonnance durant les 5 jours qui suivent le rapport non protégé pour toutes les femmes (anonyme si besoin)  
-  \+ préservatif jusqu'au 1<sup>er</sup> jour des règles suivantes
+  \+ préservatif jusqu'au 1^er^ jour des règles suivantes
 - La pose d'un stérilet/DIU cuivre est la méthode la plus efficace et possible jusqu'à J5
 - Envisager une prescription/dispensation en prévention surtout si: adolescente, préservatif, [VIH]({{< relref "vih-sida.md" >}}), voyage à l'étranger, milieu rural
 - Il existe un risque de grossesse à tout moment du cycle en cas de rapport non protégé
@@ -102,7 +102,7 @@ Le stérilet est remboursé sur prescription de sage-femme ou médecin (à 60%).
 AR 1 fois si besoin.  
 Ou ulipristal si 72 heures dépassées (voir plus bas)
 
-Prise en charge associée au préservatif jusqu'au 1<sup>er</sup> jour des règles suivantes et débuter la contraception efficace à ce moment.
+Prise en charge associée au préservatif jusqu'au 1^er^ jour des règles suivantes et débuter la contraception efficace à ce moment.
 
 Utiliser un test de grossesse si retard des règles supérieur à 5 jours.  
 En cas de vomissements survenant dans les 3 heures suivant la prise du comprimé ou en cas de fortes diarrhées, reprendre immédiatement un comprimé.
@@ -141,7 +141,7 @@ Même délivrance que le lévonorgestrel.
 - La contraception d'urgence n'est pas efficace à 100%
 - Elle est à pratiquer le plus tôt possible après un rapport à risque  
   Sans contraception ou oubli.
-- Utiliser le préservatif jusqu'au 1<sup>er</sup> jour des règles suivantes et débuter la contraception efficace à ce moment
+- Utiliser le préservatif jusqu'au 1^er^ jour des règles suivantes et débuter la contraception efficace à ce moment
 - Utiliser un test de grossesse si retard des règles > 5 jours
 - En cas de vomissements survenant dans les 3 heures suivant la prise du comprimé ou en cas de fortes diarrhées, reprendre immédiatement un comprimé
 

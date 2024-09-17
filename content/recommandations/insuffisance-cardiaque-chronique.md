@@ -39,7 +39,7 @@ Insuffisance cardiaque (IC)
 : Syndrome caractérisé par des symptômes peu spécifiques ({{< modal-btn score-nyha >}}dyspnée{{< /modal-btn >}}, œdème des chevilles, fatigue...), des signes variables (crépitants, turgescence jugulaire...) causé par un dysfonctionnement cardiaque souvent objectivé en *échocardiographie*.
 : Dite *stable* lorsque les symptômes et signes sont inchangés pendant 1 mois, *décompensée* lors de leur aggravation menant à une hospitalisation.
 : **Toutes les pathologies cardiaques peuvent aboutir à une insuffisance cardiaque**, souvent précédée de *dysfonction du ventricule gauche* systolique ou diastolique. L'enquête étiologique relève du spécialiste.  
-La 1<sup>re</sup> cause est **ischémique** secondée par l'**[hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})**.  
+La 1^re^ cause est **ischémique** secondée par l'**[hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})**.  
 : Elle atteint surtout les personnes de plus de 70 ans.
 : La *fraction d'éjection* (du ventricule gauche) est le paramètre le plus utilisé pour caractériser la fonction systolique.
 
@@ -320,7 +320,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
   En maintenant la FC ≥ 50/min ou sur avis cardiologique en-dessous.
 - Anti-aldostérone spironolactone ou éplérénone
 - {{< modal-btn modal-isglt2 >}}Dapagliflozine ou empagliflozine (iSGLT2){{< /modal-btn >}} 10 mg/j systématique
-- Traitements de 2<sup>e</sup> ligne: symptômes persistants
+- Traitements de 2^e^ ligne: symptômes persistants
   - Ivabradine (FEVG ≤ 35% et fréquence cardiaque ≥ 70/min sous BB dose maximale ou mal tolérés), vericiguat, hydralazine et isosorbide dinitrate chez les sujets noirs, digoxine
 - Mesures hygiéno-diététiques
   - Régime sodé normal (sel < 10 g/j)

@@ -24,7 +24,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'hyperplasie nodulaire focale (HNF) est la 2<sup>e</sup> tumeur bénigne du fois la plus fréquente, le plus souvent asymptomatique (incidentalome). Elle se développe surtout chez les femmes entre 35 et 50 ans et ne présente qu'un risque infime de complications
+- L'hyperplasie nodulaire focale (HNF) est la 2^e^ tumeur bénigne du fois la plus fréquente, le plus souvent asymptomatique (incidentalome). Elle se développe surtout chez les femmes entre 35 et 50 ans et ne présente qu'un risque infime de complications
 - La clinique recherche des symptômes et des arguments pour une cirrhose, une cause infectieuse ([hépatites](/tags/hepatite/)) ou métabolique et des comorbidités
 - Le bilan initial d'une tumeur hépatique comporte une biologie (bilan hépatique et lipidique, TP, albumine, ferritine, sérologies des hépatites, glycémie) et l'échographie abdominale
 - Une IRM hépatique injectée est nécessaire pour que l'hépatologue pose un diagnostic de certitude d'hyperplasie nodulaire focale

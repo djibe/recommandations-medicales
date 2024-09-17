@@ -177,7 +177,7 @@ La MVTE est *non provoquée* en l'absence de {{< modal-btn modal-mvte-fdr >}}fac
 - EP avec *nécrose cutanée* ou antécédent de pathologie vasculaire placentaire: rechercher un *SAPL*
 - EP avec *signes d'hémolyse* ou *cytopénie*: rechercher une *hémoglobinurie paroxystique nocturne* (HPN)
 
-#### 1<sup>er</sup> épisode de MVTE non provoquée (= pas de facteur majeur)
+#### 1^er^ épisode de MVTE non provoquée (= pas de facteur majeur)
 
 - Antécédents personnels et familiaux, symptômes, examen physique complet
 - Dépistages des cancers à jour, répéter si ancienneté > 1 an
@@ -224,9 +224,9 @@ Avec surveillance NFS, ionogramme, créatininémie, bilan hépatique.
 
 Le traitement doit durer 3 à 6 mois voire une durée non limitée et prend en compte le risque hémorragique.
 
-1<sup>re</sup> TVP proximale provoquée par {{< modal-btn modal-mvte-fdr >}}facteur majeur transitoire{{< /modal-btn >}}: 3 à 6 mois.
+1^re^ TVP proximale provoquée par {{< modal-btn modal-mvte-fdr >}}facteur majeur transitoire{{< /modal-btn >}}: 3 à 6 mois.
 
-1<sup>re</sup> TVP proximale non provoquée par {{< modal-btn modal-mvte-fdr >}}facteur majeur transitoire{{< /modal-btn >}} et sans {{< modal-btn modal-mvte-recidive >}}facteur persistant majeur{{< /modal-btn >}}:
+1^re^ TVP proximale non provoquée par {{< modal-btn modal-mvte-fdr >}}facteur majeur transitoire{{< /modal-btn >}} et sans {{< modal-btn modal-mvte-recidive >}}facteur persistant majeur{{< /modal-btn >}}:
 
 - Maximum 6 mois si:
   - Règle HERDOO2 ≤ 1
@@ -239,7 +239,7 @@ Le traitement doit durer 3 à 6 mois voire une durée non limitée et prend en c
 
 #### Anticoagulation par AOD
 
-En 1<sup>re</sup> intention en TVP proximale pour les 3 premiers mois de traitement.  
+En 1^re^ intention en TVP proximale pour les 3 premiers mois de traitement.  
 Contre-indiqué pendant la grossesse.
 
 Apixaban 5 mg 2 cp matin et soir pendant 7 jours  

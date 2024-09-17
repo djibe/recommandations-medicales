@@ -48,7 +48,7 @@ Forte prévalence d'une [co-infection VIH]({{< relref "vih-sida.md" >}}) (25%).
 La syphilis évolue en quatre stades.
 
 Syphilis précoce
-: Évolution datant de moins d'un an (J1 étant le 1<sup>er</sup> jour du chancre).  
+: Évolution datant de moins d'un an (J1 étant le 1^er^ jour du chancre).  
 **Risque de contagion le plus important** (charge en tréponèmes +++).  
 Elle comprend:
     - la syphilis primaire
@@ -124,7 +124,7 @@ Recommandations pour le dépistage répété des personnes à risque de syphilis
 ### Faciliter la discussion au cabinet
 
 - Afficher des documents d'information en salle d'attente
-- Évoquer la santé sexuelle dès la 1<sup>re</sup> consultation
+- Évoquer la santé sexuelle dès la 1^re^ consultation
 - Ajouter le dépistage à un bilan plus complet (avec l'accord du patient)
 - Rassurer sur la confidentialité des résultats
 

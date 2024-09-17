@@ -127,15 +127,15 @@ TUA
 > Réduire la consommation d'alcool de 10% préviendrait la survenue de 2178 cancers annuels (*Shield KD 2018*)
 {.alert .alert-info}
 
-- 1<sup>re</sup> substance addictive en coût social, cause de décès liée au foie et cause de transplantation hépatique
+- 1^re^ substance addictive en coût social, cause de décès liée au foie et cause de transplantation hépatique
 - 1/3 des décès prématurés
 - Décès: 41.000 annuels (30.000 hommes)
-  - Cancers: 30.000 annuels attribuables (2<sup>e</sup> cause évitable derrière le tabac)  
+  - Cancers: 30.000 annuels attribuables (2^e^ cause évitable derrière le tabac)  
     Bouche, pharynx, larynx, œsophage, foie, côlon-rectum, sein. Augmentation du risque/unité alcool de 9 à 168 % selon les localisations (bouche, pharynx, larynx +++).
   - Décès cardiovasculaires: 9900 décès annuels attribuables (HTA, AVC, FA)
 - Coût sociétal: 118 milliards annuels
 - Consommation excessive
-  - La France est 6<sup>e</sup> des pays de l'OCDE (sur 34)
+  - La France est 6^e^ des pays de l'OCDE (sur 34)
   - **22% des 18-75 ans dépassent les repères de consommation** (2021)  
     1 homme sur 3 et 1 femme sur 6  
     48% ont un diplôme inférieur ou égal au baccalauréat
@@ -149,7 +149,7 @@ TUA
 
 #### Croyances sur l'alcool en France
 
-- 77% ignorent que l'alcool est la 2<sup>e</sup> cause de mortalité (*[La ligue 2018](https://www.ligue-cancer.net/article/46014_une-forte-majorite-des-francais-en-faveur-des-mesures-efficaces-pour-reduire-la)*)
+- 77% ignorent que l'alcool est la 2^e^ cause de mortalité (*[La ligue 2018](https://www.ligue-cancer.net/article/46014_une-forte-majorite-des-francais-en-faveur-des-mesures-efficaces-pour-reduire-la)*)
 - 54% n'ont pas le sentiment de prendre de risques en consommant (même +10 verres/semaine, *La ligue 2018*)
 - 23,5 % pensent qu'un verre par jour diminue le risque de cancer (*INCa 2023*)
 - 40% pensent qu'il n'engendre que le cancer du foie (*La ligue 2018*)

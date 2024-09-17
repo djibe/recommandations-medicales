@@ -61,7 +61,7 @@ Prépuce
 ### Évolution naturelle du phimosis
 
 - In utero  
-  Développement du prépuce à partir de la 8<sup>e</sup> semaine de grossesse, recouvrant le gland à la 16<sup>e</sup> semaine.
+  Développement du prépuce à partir de la 8^e^ semaine de grossesse, recouvrant le gland à la 16^e^ semaine.
 - À la naissance  
   Il est généralement impossible de découvrir le gland. Le feuillet interne du prépuce et la surface du gland sont recouverts par un épithélium commun qui les unit temporairement.
 - Ce phimosis physiologique disparaît progressivement et spontanément vers 3-4 ans grâce à une kératinisation progressive.

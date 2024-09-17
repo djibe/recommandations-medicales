@@ -23,7 +23,7 @@ imageSrc = "Illustration du diabète gestationnel par vectorjuice / Freepik"
 
 {{%article-summary%}}
 
-- Indications au dépistage du diabète gestationnel (DG): âge ≥ 35 ans, surpoids, ATCD 1<sup>er</sup> degré familial de diabète type 2, antécédent de macrosomie ou de diabète gestationnel, SOPK (HGPO)
+- Indications au dépistage du diabète gestationnel (DG): âge ≥ 35 ans, surpoids, ATCD 1^er^ degré familial de diabète type 2, antécédent de macrosomie ou de diabète gestationnel, SOPK (HGPO)
 - Dépister par glycémie à jeun au T1 puis HGPO 75g entre 24 et 28 SA
 - Diagnostic de diabète gestationnel si glycémie à jeun ≥ 0,92 g/L ou HGPO H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L
 - Adresser à la maternité pour autosurveillance glycémique et diététique
@@ -92,7 +92,7 @@ Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque par
 
 1. Âge maternel ≥ 35 ans
 2. IMC ≥ 25 kg/m²
-3. Antécédent familial de [diabète type 2]({{< relref "diabete-type-2.md" >}}) au 1<sup>er</sup> degré
+3. Antécédent familial de [diabète type 2]({{< relref "diabete-type-2.md" >}}) au 1^er^ degré
 4. Antécédent personnel de diabète gestationnel  
 5. Antécédent de macrosomie  
   Poids de naissance ≥ 4 kg.

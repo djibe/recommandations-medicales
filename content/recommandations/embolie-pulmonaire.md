@@ -199,14 +199,14 @@ La durée de l'anticoagulation dépend de la présence de {{< modal-btn clinique
 
 L'anticoagulation dure au moins 3 voire 6 mois ou pour une durée non limitée:
 
-- 1<sup>re</sup> EP provoquée par un facteur transitoire majeur: 3 à 6 mois maximum
-- 1<sup>re</sup> EP non provoquée en l'absence de facteur majeur persistant avec ≥ 1 parmi
+- 1^re^ EP provoquée par un facteur transitoire majeur: 3 à 6 mois maximum
+- 1^re^ EP non provoquée en l'absence de facteur majeur persistant avec ≥ 1 parmi
   - Femme avec {{< modal-btn modal-score-herdoo2 >}}règle HERDOO2{{< /modal-btn >}} ≤ 1
   - Femme < 50 ans
   - Risque hémorragique élevé
   - Persistance d'un facteur de risque mineur transitoire
   - Alors durée de 3 à 6 mois maximum.
-- 1<sup>re</sup> EP non provoquée en l'absence de facteur majeur persistant avec ≥ 1 parmi
+- 1^re^ EP non provoquée en l'absence de facteur majeur persistant avec ≥ 1 parmi
   - Thrombophilie majeure identifiée (voir *facteurs de risque plus haut*)
   - EP à haut risque
   - Alors durée non limitée (selon risque hémorragique)
@@ -246,7 +246,7 @@ La MVTE est **non provoquée** en l'absence de {{< modal-btn modal-mvte-fdr >}}f
 - EP avec *nécrose cutanée* ou antécédent de pathologie vasculaire placentaire: rechercher un *SAPL*
 - EP avec *signes d'hémolyse* ou *cytopénie*: rechercher une *hémoglobinurie paroxystique nocturne* (HPN)
 
-#### 1<sup>er</sup> épisode de MVTE non provoquée (= pas de facteur majeur)
+#### 1^er^ épisode de MVTE non provoquée (= pas de facteur majeur)
 
 - Antécédents personnels et familiaux, symptômes, examen physique complet
 - Dépistages des cancers à jour, répéter si ancienneté > 1 an
@@ -264,7 +264,7 @@ La MVTE est **non provoquée** en l'absence de {{< modal-btn modal-mvte-fdr >}}f
 #### Récidive de MVTE sous anticoagulant bien conduit
 
 - Idem ci-dessus avec...
-- Recherche de cancer idem 1<sup>er</sup> épisode
+- Recherche de cancer idem 1^er^ épisode
 - Recherche mutation JAK-2
 - Scanner thoraco-abdomino-pelvien
 

@@ -31,7 +31,7 @@ Zone d'action complémentaire (ZAC)
 Équipe de soins primaires (ESP)
 : Pour former une ESP, il faut au minimum un médecin généraliste et un professionnel paramédical.  
 Vise à favoriser la coordination du parcours de soins (n'impose pas de travailler dans les mêmes locaux).
-: Pour qu'une ESP voit le jour, il faut que l'équipe qui se constitue derrière cette ESP se réunisse autour d'une thématique commune à leur patientèle. Pour se faire, il faut que les professionnels de 1<sup>er</sup> et 2<sup>e</sup> recours aient une partie de patientèle en commun.  
+: Pour qu'une ESP voit le jour, il faut que l'équipe qui se constitue derrière cette ESP se réunisse autour d'une thématique commune à leur patientèle. Pour se faire, il faut que les professionnels de 1^er^ et 2^e^ recours aient une partie de patientèle en commun.  
 La forme de coordination qu'est l'ESP est très souple car cette forme de coordination passe à minima par une transmission organisée de l'information.  
 L'ESP est généralement un bon tremplin pour la constitution d'une maison de santé pluridisciplinaire ou d'un centre de santé pluriprofessionnel.  
 L'ESP est un engagement volontaire de la part de chacun des acteurs.

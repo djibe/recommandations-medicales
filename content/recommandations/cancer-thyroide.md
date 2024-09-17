@@ -133,7 +133,7 @@ Indications à la cytoponction échoguidée:
   Ponction du nodule et du ganglion et dosage de la thyroglobuline ou calcitonine sur le liquide de rinçage.
 2. EU-TIRADS 5 > 10 mm (risque 26-87%)
 3. EU-TIRADS 4 > 15 mm (risque 6-17%)
-4. EU-TIRADS 4-5 > 10 mm hypermétabolique en <sup>18</sup>F-FDG TEP
+4. EU-TIRADS 4-5 > 10 mm hypermétabolique en ^18^F-FDG TEP
 5. EU-TIRADS 3 > 20 mm (hypermétabolique ou non, risque 2-4%)
 6. Enfant avec nodule EU-TIRADS 3-4-5 > 10 mm
 

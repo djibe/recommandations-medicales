@@ -36,7 +36,7 @@ todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité 
 Endométriose
 : Maladie pelvienne féminine fréquente (10% des femmes en âge de procréer) avec retentissement sur la qualité de vie des patientes.  
 La définition de la maladie est histologique avec la présence de glandes ou stroma endométrial en dehors de l'utérus.  
-Elle est pathologique lorsqu'elle entraîne une **dysménorrhée**, des **douleurs pelviennes chroniques** ou une **infertilité**. L'endométriose est la 1<sup>re</sup> cause de dysménorrhée secondaire de l'adolescente.  
+Elle est pathologique lorsqu'elle entraîne une **dysménorrhée**, des **douleurs pelviennes chroniques** ou une **infertilité**. L'endométriose est la 1^re^ cause de dysménorrhée secondaire de l'adolescente.  
 Les douleurs sont souvent améliorées pendant les grossesses et après la [ménopause]({{< relref "menopause.md" >}}).
 : L'origine de l'endométriose est multifactorielle avec l'action de facteurs génétiques (hérédité), environnementaux et liés aux menstruations (ménarche précoce, volume important, cycles courts).  
 Il n'existe pas d'arguments pour une aggravation de l'importance et l'étendue des lésions de la maladie endométriosiques avec le temps.
@@ -171,7 +171,7 @@ Pas de bilan biologique.
 Échographie pelvienne par voie sus-pubienne dans le bilan initial (bilan d'extension des lésions).  
 L'échographie a les mêmes performances que l'IRM pour le diagnostic d'endométriome.
 
-L'échographie endovaginale peut faire partie du bilan de 2<sup>e</sup> intention.
+L'échographie endovaginale peut faire partie du bilan de 2^e^ intention.
 
 Après la [ménopause]({{< relref "menopause.md" >}}), avis gynécologique systématique en cas d'endométriome.
 

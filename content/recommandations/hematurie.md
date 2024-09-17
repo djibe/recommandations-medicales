@@ -22,7 +22,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'hématurie est la présence anormale d'hématies dans les urines, soit visible (hématurie macroscopique), soit à l'ECBU avec hématies ≥ 10<sup>4</sup>/mL (hématurie microscopique). Le bilan est identique dans les 2 cas
+- L'hématurie est la présence anormale d'hématies dans les urines, soit visible (hématurie macroscopique), soit à l'ECBU avec hématies ≥ 10^4^/mL (hématurie microscopique). Le bilan est identique dans les 2 cas
 - Éliminer un diagnostic différentiel: coloration (rifampicine, hémoglobinurie, porphyrie, betterave), urétrorragie, méno-métrorragie, hémospermie
 - L'examen clinique recherche des arguments en faveur de l'étiologie de l'hématurie (âge, antécédents, tabac, symptômes)
   - Hématurie urologique: hématurie isolée ou avec douleurs, caillots, brûlures mictionnelles
@@ -38,7 +38,7 @@ Chapitre lié: [cancer de la vessie]({{< relref "cancer-vessie.md" >}})
 {{%collapse "Définition" %}}
 
 Hématurie
-: Présence anormale d'hématies dans les urines. À l'ECBU: ≥ **10 hématies/mm³** ou ≥ 10<sup>4</sup>/mL.
+: Présence anormale d'hématies dans les urines. À l'ECBU: ≥ **10 hématies/mm³** ou ≥ 10^4^/mL.
 : Elle peut être visible à l'œil nu (**hématurie macroscopique**) ou non (**hématurie microscopique**). Elle est d'origine urologique ou néphrologique. L'**hématurie d'effort** est un diagnostic d'élimination.
 : Il n'existe pas de corrélation entre le type d'hématurie et la gravité de la maladie causale.
 

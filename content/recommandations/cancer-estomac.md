@@ -50,8 +50,8 @@ Autres types rares: lymphomes (du MALT, *Helicobacter pylori* +++) > stromales (
 #### Le cancer de l'estomac dans le monde
 
 - 1 million de cas annuels
-- 5<sup>e</sup> cancer le plus fréquent chez la femme, 4<sup>e</sup> chez l'homme.
-- 5<sup>e</sup> cause de mortalité chez la femme, 3<sup>e</sup> chez l'homme.
+- 5^e^ cancer le plus fréquent chez la femme, 4^e^ chez l'homme.
+- 5^e^ cause de mortalité chez la femme, 3^e^ chez l'homme.
 
 ### Abréviations
 
@@ -215,7 +215,7 @@ Le traitement du cancer gastrique décidé en RCP peut être: traitement endosco
 - [Abstinence tabac]({{< relref "arret-tabac.md" >}}) et [alcool]({{< relref "sevrage-alcool.md" >}})
 - Biologique  
   NFS, folates x 1/an.
-- Dépistage de l'entourage au 1<sup>er</sup> degré (voir *Traitement*)
+- Dépistage de l'entourage au 1^er^ degré (voir *Traitement*)
 
 ### Signes évocateurs de récidive du cancer gastrique
 

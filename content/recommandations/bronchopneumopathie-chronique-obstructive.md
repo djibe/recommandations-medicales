@@ -44,14 +44,14 @@ Bronchopneumopathie chronique obstructive (BPCO)
 : Maladie respiratoire hétérogène définie par des symptômes respiratoires chroniques avec une obstruction permanente et progressive des voies aériennes et/ou alvéolaires.
 : Le diagnostic est *spirométrique* avec un *trouble ventilatoire obstructif* (VEMS/CVF < 0,7) non réversible.
 : Les symptômes respiratoires les plus fréquents sont: dyspnée, toux et/ou expectorations. Ils sont sous-rapportés par les patients et 3/4 des cas ne sont pas diagnostiqués.
-: Le tabagisme est la 1<sup>re</sup> cause (90%) suivie par l'expositions aux fumées.
+: Le tabagisme est la 1^re^ cause (90%) suivie par l'expositions aux fumées.
 : Causes de mortalité: insuffisance respiratoire (10% en Gold 1, 50% en Gold 4), maladies cardio-vasculaires (20-40%), [cancers](/tags/cancer/) (10-20%).
 
 Exacerbation de BPCO (EABPCO ou EABPCO)
 : Le diagnostic d'exacerbation est clinique: aggravation de dyspnée et/ou de la toux et des expectorations en moins de 14 jours par une inflammation d'origine infectieuse, polluante ou autre agression des voies aériennes. La durée est variable, parfois jusqu'à 4-6 semaines voire sans récupération de l'état antérieur.
 : Définitions après résolution de l'exacerbation (*GOLD 2023*)
     - **Exacerbations fréquentes: ≥ 2 exacerbations/an**  
-      1<sup>er</sup> facteur prédictif de survenue d'EABPCO.
+      1^er^ facteur prédictif de survenue d'EABPCO.
     - **Exacerbation légère**: résolutive en majorant les {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}
     - **Modérée**: nécessitant {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} + corticoïdes oraux ± antibiotiques
     - **Sévère**: passage aux urgences ou hospitalisation
@@ -127,7 +127,7 @@ VEMS
 
 ### Épidémiologie de la bronchopneumopathie chronique obstructive
 
-- 3<sup>e</sup> cause mondiale de décès (*OMS*): 3,23 millions de décès (2019)
+- 3^e^ cause mondiale de décès (*OMS*): 3,23 millions de décès (2019)
 - 6% des dépenses de santé européennes
 - USA: coût estimé de 52,4 milliards $ annuels (32 directs + 20,4 indirects)
 

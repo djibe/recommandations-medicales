@@ -65,7 +65,7 @@ SPLF
 ### Épidémiologie du cancer du poumon en France
 
 - Incidence: 52.777 nouveaux cas annuels (2e de l'homme, 3e de la femme)
-- Décès: 33.000/an (2018. 1<sup>re</sup> cause de mortalité par cancer)
+- Décès: 33.000/an (2018. 1^re^ cause de mortalité par cancer)
 - Âge médian au diagnostic: 66 ans pour les femmes, 68 pour les hommes
 - Survie à 5 ans (tous stades): 20 % (+11 points en 25 ans)
 - Le tabagisme passif causerait 1/4 des cancers broncho-pulmonaires des non fumeurs (*Collège*)

@@ -146,10 +146,10 @@ Le bilan de la péricardite aiguë est réalisé aux *Urgences*.
 
 L'ECG peut montrer des anomalies (< 2/3 des cas) diffuses non systématisées **sans image en miroir**, évoluant en 4 stades:
 
-1. Stade I: sus-décalage du segment ST concave vers le haut (sauf aVR et V1 avec sous-décalage), ondes T positives le 1<sup>er</sup> jour
-2. Stade II: ondes T plates entre la 24<sup>e</sup> et la 48<sup>e</sup> heure
-3. Stade III: ondes T négatives la 1<sup>re</sup> semaine
-4. Stade IV: normalisation au cours du 1<sup>er</sup> mois
+1. Stade I: sus-décalage du segment ST concave vers le haut (sauf aVR et V1 avec sous-décalage), ondes T positives le 1^er^ jour
+2. Stade II: ondes T plates entre la 24^e^ et la 48^e^ heure
+3. Stade III: ondes T négatives la 1^re^ semaine
+4. Stade IV: normalisation au cours du 1^er^ mois
 
 > En cas d'élévation du segment ST, le diagnostic différentiel principal est un syndrome coronarien aigu (SCA).
 
