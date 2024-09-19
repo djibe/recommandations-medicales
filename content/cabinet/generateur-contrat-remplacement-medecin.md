@@ -277,7 +277,7 @@ Dans le souci de la permanence des soins, <span class="contract-title-full">la d
 
 Les patients doivent être avertis, dès que possible, de la présence d'un(e) remplaçant(e), notamment lors de toute demande de visite à domicile ou de rendez-vous au cabinet médical.
 
-<span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> doit consacrer à cette activité tout le temps nécessaire selon des modalités qu'<span class="contract-title-substitute-pronoun">elle</span> fixe librement^1^. <span class="contract-title-substitute-pronoun text-capitalize">Elle</span> s'engage à donner, à tout malade faisant appel à <span class="contract-title-substitute-pronoun2">elle</span>, des soins consciencieux et attentifs dans le respect des dispositions du code de déontologie.
+<span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> doit consacrer à cette activité tout le temps nécessaire selon des modalités qu'<span class="contract-title-substitute-pronoun">elle</span> fixe librement¹. <span class="contract-title-substitute-pronoun text-capitalize">Elle</span> s'engage à donner, à tout malade faisant appel à <span class="contract-title-substitute-pronoun2">elle</span>, des soins consciencieux et attentifs dans le respect des dispositions du code de déontologie.
 
 Hors le cas d'urgence, <span class="contract-title-substitute-pronoun">elle</span> peut, dans les conditions de l'article R.4127-47 du code de la santé publique (code de déontologie), refuser ses soins pour des raisons professionnelles ou personnelles.
 

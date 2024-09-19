@@ -378,7 +378,6 @@ graph TB
 - [Cotte E et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/tncd/cancer-du-rectum)
 - [INCa. Les cancers colorectaux en 12 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-colorectaux-en-12-points-cles)
 - [INCa. Cancer colorectal - Dépistage par test immunologique et autres modalités. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-colorectal-Depistage-par-test-immunologique-et-autres-modalites)
-- [INCa. Dépistage du cancer colorectal - Accompagner vos patients de 50 à 74 ans. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Depistage-du-cancer-colorectal-Accompagner-vos-patients-de-50-a-74-ans)
 - [Hassan C et al. Bowel preparation for colonoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2019. Endoscopy. 2019.](https://www.thieme-connect.de/products/ejournals/html/10.1055/a-0959-0505)
 - [Bernardini D et al. Critères de qualité de la coloscopie - Recommandations du CNP-HGE et de la SFED. Hépato-Gastro et Oncologie Digestive. 2019.](https://www.jle.com/fr/revues/hpg/e-docs/criteres_de_qualite_du_compte_rendu_de_coloscopie_recommandations_du_cnp_hge_et_de_la_sfed_313695/article.phtml)
 - [INCa. Cancers colorectaux - Du diagnostic au suivi. 2018.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-colorectaux-Du-diagnostic-au-suivi)

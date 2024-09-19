@@ -133,14 +133,12 @@ Ulcérations pseudo-membraneuses et vésicules de l'hémilangue.
 
 ### Vaccination contre le zona
 
-> Shingrix (NR) 2 injections IM espacées de 2 mois
+> Shingrix n'est ni disponible en ville ni remboursé: Shingrix 2 injections IM espacées de 2 mois.
 {.alert .alert-info}
 
 Double dose chez les +65 immunocompétent (y compris en cas d'antécédents de zona, de Zostavax > 1 an) à M0-M2. Le *GOLD 2022* propose aussi de vacciner en cas de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}).
 
 **Contre-indications:** grossesse, immunodépression.
-
-En l'absence de remboursement pour Shingrix®, continuer le Zostavax® dose unique sous-cutanée de 65 à 74 ans.
 
 Comme tous les vaccins vivants, la vaccination anti-zostérienne doit être réalisée par un médecin (*[arrêté 2022-610](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045638858)*).
 

@@ -66,5 +66,5 @@ ACG
 
 {{%/sources%}}
 
-≤≥±®æœŒÈ²³ÂSpO<sub>2</sub>–
+≤≥±®æœŒÈ¹²³^4^ÂSpO~2~ --
 [External link](https://discourse.gohugo.io/ "{rel='nofollow'}")

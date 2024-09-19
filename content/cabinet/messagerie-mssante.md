@@ -1,12 +1,12 @@
 +++
 title = "Messagerie sécurisée de santé (MSSanté)"
-description = "Tout savoir sur la Messagerie sécurisée de santé MSSanté et l'appli mobile Mailiz. Créer une adresse MSSanté, envoyer un message à un confrère ou à un patient"
+description = "Tout savoir sur la Messagerie sécurisée de santé MSSanté. Créer une adresse MSSanté, envoyer un message à un confrère ou à un patient"
 noindex = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-04-29T19:00:00+02:00"
 publishdate = "2022-04-29"
-lastmod = "2022-09-15"
-annees = "2023"
+lastmod = "2024-09-18"
+annees = "2024"
 sources = []
 tags = []
 image = true
@@ -27,8 +27,7 @@ Plusieurs opérateurs ont été homologués pour échanger des messages sur ce r
 {{% /collapse %}}
 {{%collapse "Créer une adresse MSSanté" %}}
 
-Gratuit pour tous les médecins: [https://mailiz.mssante.fr/](https://mailiz.mssante.fr/).  
-Se connecter avec la carte CPS ou [e-CPS]({{< relref "e-cps.md" >}}) et suivre le processus de création.
+Gratuit pour tous les médecins: [https://mailiz.mssante.fr/](https://mailiz.mssante.fr/). Se connecter avec la carte CPS ou [e-CPS]({{< relref "e-cps.md" >}}) et suivre le processus de création.
 
 L'identité utilisée correspond à celle avec laquelle vous êtes enregistrés au Conseil de l'Ordre.
 
@@ -40,16 +39,13 @@ L'identité utilisée correspond à celle avec laquelle vous êtes enregistrés 
 Pour trouver l'adresse sécurisée d'un confrère:
 
 - Depuis l'espace web de votre messagerie M@iliz (Annuaire)
-- Depuis l'application mobile de M@iliz (voir le chapitre suivant)
 - Ou bien sur l'[Annuaire Santé](https://annuaire.sante.fr/)  
   Accessible sans identifiants.
 
 {{% /collapse %}}
 {{%collapse "Utiliser la messagerie MSSanté sur mobile" %}}
 
-L'application gratuite M@iliz ([Android](https://play.google.com/store/apps/details?id=fr.asip.mssante), [iOS](https://apps.apple.com/fr/app/mssant%C3%A9/id813551300)) permet d'accéder à sa boîte mail MSSanté depuis son smartphone.
-
-Le numéro de téléphone doit être associé à l'adresse de messagerie sécurisée **depuis l'espace personnel web** de Mailiz.
+L'application gratuite M@iliz n'est plus maintenue et ne doit plus être utilisée.
 
 {{% /collapse %}}
 {{%collapse "Envoyer un message sécurisé à un patient" %}}

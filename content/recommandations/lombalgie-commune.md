@@ -28,7 +28,6 @@ flowchart = true
 - Toujours rechercher des [signes d'alerte](#signes-dalerte) devant une lombalgie (drapeaux rouges ++): âges extrêmes, traumatisme, fièvre, AEG ...
 - Pas de bilan dans les 6 premières semaines sauf anomalie: drapeau rouge, ménopause, corticothérapie ...
 - << Le bon traitement, c'est le mouvement >> (*[Affiches pour la salle d'attente](https://www.ameli.fr/medecin/sante-prevention/pathologies/lombalgies/outils-prise-charge-lombalgie-commune)*): l'activité physique est le traitement principal des douleurs lombaires
-- Renforcement musculaire dorsal: [Appli Activ' Dos](https://play.google.com/store/apps/details?id=fr.cnamts.samd)
 - On prononce lom-bago
 
 {{%/article-summary%}}
@@ -205,7 +204,6 @@ Recommandations pour le traitement et la prise en charge de la << poussée aigu�
 - Exercice physique dès que possible
   - {{%class%}}Améliore l'évolution et limite le risque de récidive{{%/class%}}
   - Accompagnement initial par kinésithérapeute possible
-  - Renforcement à distance: [Activ'Dos](https://play.google.com/store/apps/details?id=fr.cnamts.samd)
   - Ostéopathie possible si couplée au renforcement
 - Radiculalgie persistante et sévère: infiltration épidurale
 - Ceintures lombaires rigides: peuvent être envisagées pour aider à la reprise d'activités.

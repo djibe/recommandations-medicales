@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2024-04-26"
+lastmod = "2024-09-17"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2024"
 sources = ["MinSanté", "HAS", "HCSP"]
@@ -25,15 +25,13 @@ flowchart = true
 
 {{%article-summary%}}
 
-Page servant uniquement à stocker quelques mémos
+Page servant uniquement à stocker quelques mémos.
 
 - Recours large à l'antiviral Paxlovid +++ (+65 ans, diabète, obésité, comorbidité ...), voir *Antiviraux*
 - Maladie à déclaration obligatoire par le biologiste
 - [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire)
-- Vaccination de toutes les femmes enceintes quel que soit le terme (*CNGOF*)
-- Rappel supplémentaire du 15/4 au 16/06/2024 ([Ameli](https://www.ameli.fr/medecin/actualites/covid-19-renouvellement-du-vaccin-recommande-pour-les-personnes-fragiles-partir-du-15-avril) si +80 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave (chimio, dialyse, voir *Personnes à risque*, *DGS 2024-02*)
-- Rappel annuel des +65 ans des immunodéprimé, EHPAD/USLD, très haut risque de forme grave (chimio, dialyse, voir *Personnes à risque*)
-- Passe vaccinal frauduleux désirant se faire vacciner, orienter vers un centre de vaccination (*[CNOM 23/02](https://www.conseil-national.medecin.fr/publications/actualites/rectification-vaccinal-frauduleux)*)
+- Vaccination de toutes les femmes enceintes quel que soit le terme (*DGS*, *CNGOF*)
+- Rappel annuel des +65 ans, des immunodéprimé, EHPAD/USLD, très haut risque de forme grave (chimio, dialyse, voir *Personnes à risque*) si intervalle de 6 mois d'un vaccin/Covid (3 mois si +80 ans, immunodépression ...)
 
 << Important de bien comprendre cela car pas du tout évident à priori. L'immunité naturelle, celle que l'on acquiert après une infection procure en générale une bonne protection. Ce n'est pas le cas avec le Sars-Cov2, non seulement l'immunité naturelle ne semble pas très efficace mais le virus éroderait notre système immunitaire. De plus, les réinfections augmenteraient le risque de séquelles à long terme. >> -- *Pr Rémi Salomon 16/07/2022*
 
@@ -128,9 +126,10 @@ Possibilité de préciser une **dispensation conditionnelle** en cas de test Cov
 
 > << Il n'y a aujourd'hui pas de seuil établi qui permette de corréler la réponse humorale à la protection contre les formes graves d'infection. Il est donc inutile de faire une sérologie avant un nouveau rappel. >> -- *HAS 2023*
 
-Vaccination annuelle ARNm à l'automne des +65 ans et des personnes à risque de forme grave de plus de 6 mois:
+Vaccination annuelle ARNm à l'automne des personnes à risque de forme grave âgées de plus de 6 mois:
 
-- +65 ans
+- **+65 ans**
+- **Grossesse**
 - Démence
 - Hypertension artérielle compliquée
 - Pathologie cardiaque, vasculaire, hépatique, rénale, pulmonaire, psychiatrique
@@ -138,7 +137,6 @@ Vaccination annuelle ARNm à l'automne des +65 ans et des personnes à risque de
 - Obésité
 - Trisomie 21
 - Immunodépression ou greffe
-- Grossesse
 - Résident en EHPAD et USLD
 - Entourage de personne immunodéprimée ou à haut risque
 - Médecins
@@ -147,19 +145,7 @@ Vaccination annuelle ARNm à l'automne des +65 ans et des personnes à risque de
 
 Délai de 6 mois avec le dernier Covid ou vaccin (3 mois si +80 ans, immunodépression ou très haut risque).
 
-### Lieux de vaccination
-
-- Pharmacie habituelle
-- [Centres de vaccination](https://www.sante.fr/cf/centres-vaccination-covid.html)
-- [Trouver une dose d'ARNm](https://vitemadose.covidtracker.fr)
-- [Imprimer son attestation de vaccination](https://attestation-vaccin.ameli.fr)
-- [Obtenir une attestation en cas de vaccination à l'étranger](https://www.sante.fr/obtenir-une-attestation-en-cas-de-vaccination-letranger)
-
-### Contre-indications à la vaccination contre le Covid-19
-
-Pour les professionnels concernés par l'obligation vaccinale, le [Certificat médical de contre-indication à la vaccination COVID-19, Cerfa 52361#3](https://www.ameli.fr/sites/default/files/formulaires/S3188-certificat-medical-contre-indication-covid19_0.pdf)
-
-#### Contre-indication médicale faisant obstacle à la vaccination contre la covid-19 mentionnés à l'article 2-4
+### Contre-indication médicale faisant obstacle à la vaccination contre la covid-19 mentionnés à l'article 2-4
 
 1. Les contre-indications inscrites dans les dernières versions des résumés des caractéristiques du produit (RCP) :
     1. Contre-indications pour tous les vaccins autorisés en France
@@ -173,7 +159,7 @@ Pour les professionnels concernés par l'obligation vaccinale, le [Certificat m�
 3. Une recommandation établie après concertation médicale pluridisciplinaire de ne pas effectuer une dose supplémentaire de vaccin (deuxième dose ou dose de rappel) suite à la survenue d'un effet indésirable d'intensité sévère ou grave attribué à une précédente injection de vaccin signalé au système de pharmacovigilance (par exemple : la survenue de myocardite, de syndrome de Guillain-Barré, de syndrome inflammatoire multisystémique pédiatrique (PIMS)…).
 4. Une recommandation établie par un centre de référence maladies rares (CRMR) ou un centre de compétence maladies rares (CCMR) après concertation médicale pluridisciplinaire (avis collégial documenté) de ne pas initier la vaccination contre la covid-19.
 
-#### Contre-indication médicale temporaire faisant obstacle à la vaccination contre la covid-19 mentionnés à l'article 2-4
+### Contre-indication médicale temporaire faisant obstacle à la vaccination contre la covid-19 mentionnés à l'article 2-4
 
 1. Traitement par anticorps monoclonaux anti-SARS-CoV-2
 2. Myocardites ou péricardites d'étiologie non liée à une infection par SARS-CoV-2 survenues antérieurement à la vaccination et toujours évolutives
@@ -231,10 +217,10 @@ graph TB
 
 ### Autres
 
+- [DGS-Urgent](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - {{< references/calendrier-vaccinal >}}
 - [HAS, ANRS. Traitement de la Covid-19. 22/12/2023.](https://www.has-sante.fr/jcms/p_3447571/fr/traitement-de-la-covid-19)
 - [HAS. Stratégie de vaccination contre la Covid-19 : anticipation des campagnes de vaccination en 2023. 24/02/2023.](https://www.has-sante.fr/jcms/p_3417245/fr/strategie-de-vaccination-contre-la-covid-19-anticipation-des-campagnes-de-vaccination-en-2023)
-- [DGS-Urgent](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Covid-19 : une dose de rappel vaccinal additionnelle ouverte à davantage de personnes et des délais précisés. 13/07/2022.](https://www.has-sante.fr/jcms/p_3352553/fr/covid-19-une-dose-de-rappel-vaccinal-additionnelle-ouverte-a-davantage-de-personnes-et-des-delais-precises)
 - [HAS. Réponse rapide dans le cadre du COVID-19 Traitement par antiviral des patients à risque de forme grave de la Covid-19. Mai 2022.](https://www.has-sante.fr/upload/docs/application/pdf/2022-01/reco458_fiche_rr_paxlovid_mel.pdf)
 - [CNGOF. Vaccin anti SARS-CoV-2 et grossesse 3e injection ? Avis du 17 novembre 2021. (PDF)](https://cngof.fr/app/pdf/COVID19//%20Vaccination-anti-covid-19/CNGOF-GRIG-171021-3e%20dose%20vaccin%20anti%20SARS-COV2%20femmes%20enceintes.pdf?x94073)

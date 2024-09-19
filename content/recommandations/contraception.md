@@ -184,7 +184,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 | Implant     | 0        | Etonogestrel     | Nexplanon (18-40 ans) |
 | Anneau      | 15       | Etonogestrel 0,12 | NR: Etoring, Nuvaring, gén (18-40 ans) |
 | Patch       | 20       | Norelgestromine 0,15 | NR: Evra (18-45 ans, < 90 kg) |
-| DIU cuivre  | 0        | 0                | 7Med, CCD, Mona Lisa. [Liste](http://bluegyn.com/gynorama/fiche-dequivalence-diu-ccd/) et [autre liste (PDF)](http://www.apima.org/img_bronner/Tableau_contraceptifs.pdf) |
+| DIU cuivre  | 0        | 0                | 7Med, CCD, Mona Lisa. et [autre liste (PDF)](http://www.apima.org/img_bronner/Tableau_contraceptifs.pdf) |
 | DIU         | 0        | LNG              | Donasert, Jaydess, Kyleena, Mirena |
 | Préservatif | 0        | 0                | Be Loved, Eden, Sortez couverts ! Terpan |
 | Cape cervicale | 0     | 0                | Ormelle, Terpan  |

@@ -176,7 +176,7 @@ En cas d'animal mordeur mort ou abattu, le cadavre doit être adressé au [CNR d
 - [HAS, SPILF. Prise en charge des infections cutanées bactériennes courantes. 2019.](https://www.has-sante.fr/jcms/c_2911550/fr/prise-en-charge-des-infections-cutanees-bacteriennes-courantes)
 - [SPILF. Info-antibio N°80. Mars 2018. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2018-03-plaies.pdf)
 - [SFMU, SFFPC. Plaies aiguës en structure d'urgence. 2017.](https://www.sfmu.org/upload/consensus/rbp_plaies2017_v2.pdf)
-- [zoopsy, InVS. Facteurs de gravité des morsures de chien aux urgences. 2010. (PDF)](https://conseil53.ordre.medecin.fr/sites/default/files/domain-349/1/morsures_chiens_1.pdf)
+- [zoopsy, InVS. Facteurs de gravité des morsures de chien aux urgences. 2010. (PDF)](/print/invs-morsure-chien.pdf)
 
 ### Bibliographie en attente
 

@@ -30,8 +30,7 @@ e-CPS
 : L'objectif est de pouvoir s'authentifier en prouvant que l'on est médecin (dite authentification forte) à un service qui ne nous connaît pas encore, ou de le faire sans carte CPS (en mobilité, lorsqu'il n'y a pas de lecteur CPS...).
 
 ProSantéConnect
-: Protocole qui permet de s'authentifier sur différents services de santé (ex: Mailiz) avec ses identifiants de l'Ordre.  
-L'équivalent de "Se connecter avec Google" (ou Facebook).
+: Protocole qui permet de s'authentifier sur différents services de santé (ex: Mailiz) avec ses identifiants de l'Ordre. L'équivalent de "Se connecter avec Google" sur les sites Grand public.
 
 {{% /collapse %}}
 {{%collapse "Créer sa e-CPS" %}}

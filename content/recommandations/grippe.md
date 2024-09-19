@@ -8,7 +8,7 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2024-05-01"
+lastmod = "2024-09-17"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2024"
 sources = ["MinSanté", "HAS"]
@@ -146,11 +146,8 @@ Signes et symptômes de la grippe:
 {{% /collapse %}}
 {{%collapse "Vaccins disponibles pour la campagne de vaccination 2023-2024" %}}
 
-{{%info%}}
-Vaccination annuelle en octobre pour les personnes à risque de grippe grave.
-
-Bon de prise en charge à 100% cerfa n°610e sur *Ameli pro*.
-{{%/info%}}
+Vaccination annuelle en octobre pour les personnes à risque de grippe grave (Bon de prise en charge à 100% Cerfa n°610e sur *Ameli pro*)
+{.alert .alert-info}
 
 Vaccins contre la grippe disponibles en France pour la campagne vaccinale:
 
@@ -160,12 +157,9 @@ Vaccins contre la grippe disponibles en France pour la campagne vaccinale:
 
 Le vaccin intranasal Fluenz Tetra® n'est pas disponible en France.
 
-La campagne de vaccination a débuté le ==17 octobre 2023== ([MinSanté](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/la-campagne-de-vaccination-contre-le-covid-19-avancee-de-15-jours-commencera-le)) et se terminera le 29 février 2024.
+La campagne de vaccination commence le ==15 octobre 2024== (DGS Urgent 2024_17).
 
-[Document CRATB d'information patient contre la grippe (PDF)](http://medqual.fr/images/PRO_2018/CAT-PATHO-IFECTIEUSE/GRIPPE/MEDCAL_GRIPPE_A3_OK_VF.pdf)
-
-Pas de délai à respecter entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).  
-**Rappel.** Le vaccin anti-grippal ne donne pas de syndrome grippal (du à une infection concomitante).
+Pas de délai à respecter entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
 
 La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance (décret paru mais en attente de la convention par l'Assurance Maladie).
 
@@ -173,7 +167,10 @@ La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordo
 
 Chez l'adulte sain, réduit de 29% (65% chez +60 ans) le nombre de cas de syndromes grippaux et de 65% le nombre de cas de grippes.
 
-Chez le sujet vivant en établissement, la vaccination réduit la survenue de pathologie respiratoire (56%), pneumonie (53%), hospitalisation (50%), décès (68%).
+Chez le sujet vivant en établissement, la vaccination réduit la survenue de pathologie respiratoire (56%), [pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}}) (53%), hospitalisation (50%), décès (68%).
+
+Le vaccin anti-grippal ne donne pas de syndrome grippal (ce n'est pas un vaccin vivant).
+{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Traitement de la grippe" %}}
@@ -189,7 +186,7 @@ Contre-indications aux anti-inflammatoires AINS, aspirine et corticoïdes. Antit
 
 > << Le service médical rendu par TAMIFLU est faible dans le cadre d'un traitement préventif en situation de **pandémie grippale** avérée ou potentielle. >> -- *HAS 2020*
 
-La méta-analyse 2023 publiée dans le JAMA n'identifie pas de réduction du risque d'hospitalisation par l'oseltamivir. La Revue Prescrire va dans ce sens.
+La méta-analyse 2023 publiée dans le *JAMA* n'identifie pas de réduction du risque d'hospitalisation par l'oseltamivir. La *Revue Prescrire* va dans ce sens.
 
 L'oseltamivir n'est pas remboursé en dehors d'une hypothétique << pandémie grippale >>.
 
