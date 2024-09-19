@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-29T14:54:41+02:00"
 publishdate = "2020-11-30"
-lastmod = "2024-04-06"
+lastmod = "2024-09-19"
 specialites = ["dermatologie"]
-annees = "2022"
-sources = ["EADO", "HAS", "SFD"]
+annees = "2024"
+sources = ["INCa", "EADO", "HAS", "SFD"]
 tags = ["cancer", "depistage"]
 english = ["Melanoma"]
 sctid = "372244006"
@@ -22,16 +22,16 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Message de prévention du mélanome: << L'ombre, c'est l'endroit le plus cool de l'été ! >> (*[INCa 2022](https://www.e-cancer.fr/Actualites-et-evenements/Actualites/L-ombre-c-est-l-endroit-le-plus-cool-de-l-ete-!-la-nouvelle-campagne-d-information-de-l-Institut-national-du-cancer-sur-la-prevention-des-risques-solaires)*)
+- Messages de prévention du mélanome: << L'ombre, c'est l'endroit le plus cool de l'été ! >> (*[INCa 2022](https://www.e-cancer.fr/Actualites-et-evenements/Actualites/L-ombre-c-est-l-endroit-le-plus-cool-de-l-ete-!-la-nouvelle-campagne-d-information-de-l-Institut-national-du-cancer-sur-la-prevention-des-risques-solaires)*)
   - Aucune exposition aux UV avant 3 ans
-  - Ne pas s'exposer de 12 à 16 heures (10-14h en Outre-mer)
+  - Ne pas s'exposer de 12 à 16 heures (10 à 14h en Outre-mer)
   - Se couvrir: habits longs et amples, un chapeau à bords larges et des lunettes de soleil avec filtre anti-UV
   - Protéger les parties découvertes du corps avec de la crème solaire indice SPF50, à renouveler toutes les 2 heures
 - Personnes à risque de mélanome: auto-examen cutané tous les 3 mois et consultation annuelle du dermatologue
-- Une lésion mélanocytaire est suspecte si elle remplit ≥ 2 critères ABCDE
+- Une lésion mélanocytaire est suspecte si elle remplit au moins 2 *critères ABCDE*
 - Un nævus est suspect s'il est différent des autres
-- Suspicion de mélanome = avis dermatologique en semi-urgence (éviter la téléexpertise pour une lésion suspecte)
-- Cabines de bronzage = cancérigènes certains
+- Toute suspicion de mélanome nécessite un avis dermatologique en semi-urgence (éviter la téléexpertise pour une lésion suspecte)
+- Les cabines de bronzage sont cancérigènes et ne "préparent" pas la peau
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -49,22 +49,21 @@ Il n'est donné que pour les mélanomes envahissant le derme.
 Éphélides
 : Communément appelées *tâches de rousseur*.
 
-> << Une peau bronzée est un signe de dommages causés par le soleil et il n'existe pas de << bronzage sain >> >>. – *HCSP 2023*
+> << Une peau bronzée est un signe de dommages causés par le soleil et il n'existe pas de "bronzage sain" >>. -- *HCSP 2023*
 {.alert .alert-warning}
 
 ### Types histologiques de mélanome
 
 4 types principaux de mélanomes:
 
-1. Mélanome superficiel extensif SSM (40%)
+1. **Mélanome à extension superficielle** (40%)
 2. Mélanome nodulaire (16%)
-3. Mélanome lentigo malin ou de Dubreuilh (2,7-14%)
-4. Mélanome acro-lentigineux (des paumes-plantes, 1-5%)
+3. Mélanome lentigo malin ou *de Dubreuilh* (2,7-14%)
+4. Mélanome acrolentigineux (des paumes-plantes, 1-5%)
 
 Autres types histologiques: mélanome muqueux ou inclassable.
 
-Le type histologique ne modifie pas le pronostic à indice de Breslow identique.  
-La lésion primitive n'est parfois jamais retrouvée au stade métastatique.
+Le type histologique ne modifie pas le pronostic à indice de Breslow identique. La lésion primitive n'est parfois jamais retrouvée au stade métastatique.
 
 ### Facteurs pronostics anatomopathologiques du mélanome
 
@@ -80,7 +79,8 @@ Plusieurs facteurs sont utilisés: indice de Breslow, de Clark, ulcération, ind
   {{%class%}}58% d'hommes - 1,2% des décès par cancer - 90 % de la mortalité par cancer cutané{{%/class%}}
 - **Survie à 5 ans:** 93 % (88 % en stade localisé versus 18 % si métastatique)
 - 80 % surviennent de novo sur peau saine et 20% sur nævus pré-existant.
-- 10 % des mélanomes sont familiaux (≥ 2 personnes atteintes dans une famille).
+- 10 % des mélanomes sont familiaux (≥ 2 personnes atteintes dans une famille)  
+  Indications à la consultation oncogénétique dans la section *Traitement*.
 - Très rares formes muqueuses ou rétiniennes.
 - 80 % sont détectés par le patient (*FMC EREVO*)  
   Attention à toute lésion présentée par le patient.
@@ -95,14 +95,14 @@ Pour toutes les personnes à risque: auto-examen cutané tous les 3 mois et cons
 
 - Physique
   - Sujet à peau claire  
-    Cheveux roux ou blonds, yeux clairs.
+    Cheveux roux ou blonds, yeux clairs (phototypes I et II).
   - Éphélides nombreuses
   - Nombreux nævi (≥ 40)
   - Nævus congénital géant
   - Nævus atypique (> 5 mm, irrégulier)
   - Sensibilité au soleil (coups de soleil fréquents, bronze peu)
-- Exposition solaire (UV, latitude)  
-  Brûlures dans l'enfance (cloques) ++
+- Exposition solaire (cabine de bronzage UV, tropiques)  
+  Brûlures solaires au 2^e^ degré (enfance ++).
 - **Antécédents familiaux de cancer cutané** (5-10% ont un caractère familial)
 - Antécédent personnel de mélanome  
   Risque de 2^e^ de 5 à 8%.
@@ -110,7 +110,7 @@ Pour toutes les personnes à risque: auto-examen cutané tous les 3 mois et cons
 - Exposition professionnelle  
   Travail en extérieur, rayonnements ionisants, soudure de métaux, sidérurgie, pesticides.
 
-Ces personnes doivent réaliser un **auto-examen trimestriel** et un **suivi dermatologique annuel**.
+Ces personnes doivent réaliser un **auto-examen cutané trimestriel** et un **suivi annuel** par le dermatologue ou le médecin généraliste formé.
 
 ### Phototypes
 
@@ -139,7 +139,7 @@ Le diagnostic est anatomopathologique avec l'ablation macroscopiquement totale d
 
 - Antécédents personnels et familiaux de cancers cutanés
 - Antécédents d'exposition à risque aux UV  
-  Cabine de bronzage, soudure à l'arc.
+  Cabine de bronzage, brûlures solaires, soudure à l'arc.
 - Facteurs de risque (voir ci-dessus)
 - Immunodépression
 - Comorbidités
@@ -164,26 +164,24 @@ Un mélanome est lésion pigmentée avec les critères ABCDE suivants:
   Critère majeur.
 {{%/warning%}}
 
-{{< card-link-external title="Photos de mélanome in situ" url="https://dermnetnz.org/topics/melanoma-in-situ-images/" subtitle="par DermNet">}}
+{{< card-link-external title="Photos de mélanome in situ" url="https://dermnetnz.org/topics/melanoma" subtitle="par DermNet">}}
 
 - Une lésion mélanocytaire est considérée comme **suspecte si ≥ 2 critères ABCDE sont validés**.
 - Un **nævus est considéré comme suspect s'il est différent des autres**.
+- L'utilisation et la formation à la dermoscopie sont essentiels
 - Inspection et palpation de l'ensemble de la peau et des muqueuses accessibles  
   Recherche mélanome, nævus atypique, nodules sous-cutanés.
 - Palpation des aires ganglionnaires
-- La téléexpertise est défaillante pour les lésions suspectes (*[Desmoulins 2022](https://dune.univ-angers.fr/documents/dune14712)*)
+- La téléexpertise est défaillante pour les lésions suspectes (*[Desmoulins 2022](https://dune.univ-angers.fr/documents/dune14712)*) mais des déserts médicaux peuvent n'avoir d'autre alternative
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Aucun examen complémentaire en première intention.  
-Ils relèvent du bilan d'extension après réunion de concertation pluridisciplinaire.
+Aucun bilan complémentaire n'est nécessaire en première intention. L'**exérèse avec marges** pour anatomopathologie est semi-urgente. Le bilan d'extension est décidé après réunion de concertation pluridisciplinaire (RCP).
 
 ### En savoir plus: Examens du mélanome
 
-Toute suspicion de mélanome doit bénéficier d'une exérèse macroscopique complète (sauf mélanome géant) avec analyse anatomopathologique.  
-L'exérèse doit être réalisée avec une marge de 1 à 3 mm de peau saine et doit inclure toutes les couches de peau et un peu de graisse sous-cutanée.  
-La recherche de la *mutation BRAF V600* est systématique.
+Toute suspicion de mélanome doit bénéficier d'une exérèse macroscopique complète (sauf mélanome géant) avec analyse anatomopathologique. L'exérèse doit être réalisée avec une marge de 1 à 3 mm de peau saine et doit inclure toutes les couches de peau et un peu de graisse sous-cutanée. La recherche de la *mutation BRAF V600* est systématique.
 
 Le dossier doit être présenté en RCP.
 
@@ -195,7 +193,7 @@ La reprise de la tumeur dépend du classement pT de la tumeur afin de détermine
 - Breslow ≤ 2 mm: 1 cm
 - Breslow > 2 mm: 2 cm
 
-#### Imagerie
+#### Bilan d'extension par imagerie
 
 - Échographie des aires ganglionnaires locorégionales.  
   Indication: mélanome stade IB et supérieurs.
@@ -216,11 +214,15 @@ Indications au ganglion sentinelle (en l'absence d'adénopathie suspecte):
 
 #### LDH
 
-Les LDH sont un facteur pronostic en cas de métastases.  
-Aucun dosage de marqueurs tumoraux n'est recommandé.
+Les LDH sont un facteur pronostic en cas de métastases. Aucun dosage de marqueurs tumoraux n'est recommandé.
 
 {{% /collapse %}}
 {{%collapse "Prévention du mélanome" %}}
+
+> << il n'existe pas de bronzage sain : le bronzage constitue déjà une agression de la peau >>. -- *INCa 2024*
+{.alert .alert-warning}
+
+Mesures de prévention du mélanome pour la population générale:
 
 - Gestes de protection contre les rayons UV
   - Ne pas exposer les enfants de moins de 3 ans aux rayons UV
@@ -229,8 +231,7 @@ Aucun dosage de marqueurs tumoraux n'est recommandé.
   - Protéger les parties découvertes du corps avec de la crème solaire indice SPF50 (appliquer 2 mg/cm²), à renouveler toutes les 2 heures
 - Information sur les risques liés à l'exposition solaire ou artificielle
 - Photoprotection cutanée  
-  Il n'est pas prouvé qu'elle réduise le risque de mélanome.
-- Limiter les expositions solaires
+  Il n'est pas prouvé que la crème solaire réduise le risque de mélanome.
 - Personnes à risque
   - Auto-dépistage tous les 3 mois  
     Voir *Éducation thérapeutique*.
@@ -241,14 +242,16 @@ Aucun dosage de marqueurs tumoraux n'est recommandé.
 {{% /collapse %}}
 {{%collapse "Traitement du mélanome" %}}
 
-Dès suspicion de mélanome, adresser en semi-urgence au dermatologue pour une exérèse complète.
+Dès suspicion de mélanome, adresser en semi-urgence au dermatologue pour une chirurgie d'exérèse complète.
 {.alert .alert-warning}
 
-**NB**. Jamais de biopsie de lésion pigmentée, l'exérèse complète doit être systématique.
+**NB**. Jamais de biopsie de lésion pigmentée, la chirurgie d'exérèse complète doit être systématique.
 
-Le traitement et la suite de la prise en charge sont décidés en **réunion de concertation pluridisciplinaire** (RCP).
+Le traitement et la suite de la prise en charge du mélanome sont décidés en **réunion de concertation pluridisciplinaire** (RCP). Le suivi est ensuite rapproché à vie.
 
-### En savoir plus: Traitements du mélanome
+### Traitements du mélanome
+
+Traitements complémentaires de la chirurgie d'exérèse du mélanome pouvant être décidés en RCP:
 
 - Immunothérapies
   - anti-CTLA-4: ipilimumab (Yervoy®)
@@ -263,6 +266,15 @@ Le traitement et la suite de la prise en charge sont décidés en **réunion de 
   - témozolomide
 - Radiothérapie
 - Curage ganglionnaire
+
+### Indications à la consultation oncogénétique
+
+Adresser en consultation d'oncogénétique les sujets avec antécédents de mélanomes si:
+
+- ≥ 2 mélanomes cutanés invasifs avant 75 ans chez 2 apparentés au 1^er^ ou 2^e^ degré ou chez une même personne
+- Association chez la même personne ou un apparenté au 1^er^ ou 2^e^ degré d'un mélanome cutané à: un mélanome oculaire, un [cancer du pancréas]({{< relref "cancer-pancreas.md" >}}), du [rein]({{< relref "cancer-rein.md" >}}), du système nerveux central ou un mésothéliome
+
+> -- *INCa 2024*
 
 {{% /collapse %}}
 {{%collapse "Surveillance du patient" %}}
@@ -339,12 +351,16 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 {{% /collapse %}}
 {{%sources%}}
 
+- [INCa. Mélanomes cutanés - Du diagnostic au suivi. 2024.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Melanomes-cutanes-Du-diagnostic-au-suivi)
+- [INCa. Les mélanomes cutanés en 10 points clés. 2024.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-melanomes-cutanes-en-10-points-cles)
 - {{< references/voyageur >}}
 - {{< references/inca-cancers-mortalite >}}
 - [Garbe C et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00152-6/fulltext)
 - [Garbe C et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00228-3/fulltext)
 - [INCa. << L'ombre, c'est l'endroit le plus cool de l'été ! >>: la nouvelle campagne d'information de l'Institut national du cancer sur la prévention des risques solaires. 04/07/2022.](https://www.e-cancer.fr/Actualites-et-evenements/Actualites/L-ombre-c-est-l-endroit-le-plus-cool-de-l-ete-!-la-nouvelle-campagne-d-information-de-l-Institut-national-du-cancer-sur-la-prevention-des-risques-solaires)
 - [Desmoulins E. Téléexpertise dermatologique à partir de photographies prises avec un smartphone par des médecins généralistes en cas de suspicion de mélanome : évaluation de la concordance de prise en charge. Thèse d'exercice en médecine. 2022.](https://dune.univ-angers.fr/documents/dune14712)
+- [Michielin O et al. ESMO consensus conference recommendations on the management of locoregional melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39940-3/fulltext)
+- [Keilholz U et al. ESMO consensus conference recommendations on the management of metastatic melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39939-7/fulltext)
 - [HAS. Mélanome cutané : la détection précoce est essentielle. 11/02/2020.](https://www.has-sante.fr/jcms/pprd_2974838/fr/melanome-cutane-la-detection-precoce-est-essentielle?fbclid=IwAR0lsNr1vfC7AvM-SeKrLZlYNiRb0q4bgx4_mgwkQRRjHLJNMPPIlmxWC_U)
 - [Oncologik. Mélanomes vulvaires et vaginaux. 24/01/2020.](http://oncologik.fr/referentiels/rrc/melanomes-vulvaires-et-vaginaux)
 - [Oncologik. Mélanome cutané. 22/03/2019.](http://oncologik.fr/referentiels/oncolor/melanome-cutane)
@@ -353,11 +369,6 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 - [INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
 - [HAS. Mélanome cutané. Janvier 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-03/ald_30_guide_melanome_web.pdf)
 - [Société Française de Dermatologie. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d'un mélanome cutané MO. 2005. (PDF)](https://www.oncoderm.fr/upload/recommandations/9738-Prise-en-charge-des-meAlanome.pdf)
-
-### Bibliographie en attente
-
-- [Michielin O et al. ESMO consensus conference recommendations on the management of locoregional melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39940-3/fulltext)
-- [Keilholz U et al. ESMO consensus conference recommendations on the management of metastatic melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39939-7/fulltext)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}
