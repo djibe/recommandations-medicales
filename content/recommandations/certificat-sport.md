@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-08T20:02:41+02:00"
 publishdate = "2020-10-08"
-lastmod = "2024-06-12"
+lastmod = "2024-09-19"
 specialites = ["certificats"]
-annees = "2023"
+annees = "2024"
 sources = ["JO", "SFC"]
 tags = ["epreuve effort", "prevention"]
 english = []
@@ -47,7 +47,7 @@ Les autres années, le licencié (ou son représentant légal) renseigne un ques
 : Les mineurs complètent un [questionnaire de santé](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486824) sauf sport à risque (voir *Disciplines nécessitant un certificat...*) ou réponse positive au *questionnaire de santé*.
 
 {{%info%}}
-Absence de preuve formelle de l'efficacité des bilans proposés pour prévenir la mort subite pendant le sport chez des sujets asymptomatiques (*Marijon 2021*)
+Absence de preuve formelle de l'efficacité des bilans proposés pour prévenir la mort subite pendant le sport chez des sujets asymptomatiques. (*Marijon 2021*)
 
 ---
 
@@ -55,12 +55,12 @@ Tous mes remerciements au Pr E. Marijon pour sa relecture attentive de cette sec
 {{%/info%}}
 
 Mort subite du sportif
-: Environ 1000 cas/an (sur 40.000 morts subites annuelles). Elle atteint quasi exclusivement des hommes (95%) d'âge moyen (50 ans en moyenne) avec une pratique de loisir (5% de jeunes athlètes, 15-20/an).
+: Environ 1000 cas/an (sur 40.000 morts subites annuelles). Elle atteint quasi exclusivement des hommes (95%) d'âge moyen (46,6 ans en moyenne) avec une pratique de loisir (5% de jeunes athlètes, 20/an).
 : Le risque de mort subite d'une femme (5% des cas) est infime (30x inférieure à 45-54 ans).
 : La cause n'est pas retrouvée dans 75% des cas (manque d'autopsies). Elle est principalement coronaire (75%) et inaugurale pour la moitié; et aussi cardiopathie non ischémique (15-20%), troubles du rythme (5-10%). Avant 35 ans, la 1^re^ cause est la cardiomyopathie hypertrophique.  
 \> 50% avaient eu des symptômes typiques dans le mois qui précède.
-: 93% des cas surviennent en présence d'un témoin mais il ne réanime que dans 31% des cas.  
-La survie sans séquelles dépend énormément de la formation de la population au massage cardiaque (> 90% dans le Nord, 10-20% en France). 300-400 décès pourraient être évités chaque année avec les gestes de 1^er^ secours.
+: 93% des cas surviennent en présence d'un témoin.  
+La survie sans séquelles dépend énormément de la formation de la population au massage cardiaque. La survie à la sortie d'hospitalisation atteint désormais 66,7% en France contre 24% il y a quelques années.
 
 > -- *Marijon 2021*
 
@@ -110,16 +110,16 @@ MS
 
 Dites << disciplines à contraintes particulières >> nécessitant un certificat médical annuel:
 
-- Plongée subaquatique
-- Compétitions avec risque de choc "rendant incapable de se défendre"  
+1. Plongée subaquatique y compris souterraine
+2. Compétitions avec risque de choc "rendant incapable de se défendre"  
   Arts martiaux, boxe.
-- Utilisation d'arme à feu ou à air comprimé  
+3. Utilisation d'arme à feu ou à air comprimé  
   Tir, ball-trap, biathlon.
-- *Compétitions* avec conduite de véhicule terrestre à moteur  
-  Sport auto, motocyclisme ... sauf karting ou modélisme radioguidé.
-- Disciplines motonautiques
+4. *Compétitions* avec conduite de véhicule terrestre à moteur  
+  Sport auto, motocyclisme ... sauf karting ou modélisme automobile radioguidé.
+5. Disciplines motonautiques
 
-> [Décret 2023-853 du 31 août 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048038373)
+> -- *Décret 2023-853 du 31 août 2023*
 
 L'inscription à une *compétition* nécessite la présente d'une license sportive datant de moins de 3 ans. En l'absence de license, d'un certificat médical de moins d'un an.
 
@@ -196,7 +196,7 @@ Informer sur les 10 règles d'or pour le sportif:
 8. Jamais de dope et éviter l'automédication
 9. Pas de sport intense si fièvre ou dans les 8 jours suivant un épisode grippal  
   Informer: les microbes ne sont pas éliminés par la sueur.
-1.  Bilan médical avant de reprendre une activité sportive à partir de 35 ans si homme, 45 ans si femme
+10. Bilan médical avant de reprendre une activité sportive à partir de 35 ans si homme, 45 ans si femme
 
 > -- *[ClubCardioSport. Les 10 règles d'or. Argumentaire. (PDF)](https://www.clubcardiosport.com/sites/www.clubcardiosport.com/files/inline-files/argu_scientifique.pdf)*
 
@@ -221,7 +221,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Journal Officiel. Décret n° 2023-853 du 31 août 2023 relatif à la liste des disciplines sportives à contraintes particulières. Legifrance.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050038179)
 - [CCS, GERS-P. Position commune du Club des Cardiologues du Sport (CCS) et du Groupe Sport (GERS-P) de la Société Française de Cardiologie sur le bilan cardio-vasculaire recommandé pour la pratique sportive. 2022.](https://www.sfcardio.fr/publication/recommandations-sur-le-bilan-cardiovasculaire-recommande-pour-la-pratique-sportive)
+- [Karam N, et al. Evolution of Incidence, Management, and Outcomes Over Time in Sports-Related Sudden Cardiac Arrest. J Am Coll Cardiol. 2022.](https://www.sciencedirect.com/science/article/abs/pii/S0735109721081572)
 - [Marijon E et al. Prévention de la mort subite du sportif : état des lieux. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/J.AMCP.2021.04.003)
 - [Anys S et al. Faut-il un screening cardiaque du sportif : pour ou contre ?. La Revue du Praticien. 2021.](https://www.larevuedupraticien.fr/article/faut-il-un-screening-cardiaque-du-sportif-pour-ou-contre-2)
 - [Journal Officiel. Décret 2021-564. 07/05/2021.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486809)
@@ -241,8 +243,7 @@ graph TB
 - [Recommendations for participation in leisure-time physical activity and competitive sports of patients with arrhythmias and potentially arrhythmogenic conditions Part II: Ventricular arrhythmias, channelopathies and implantable defibrillators.](https://academic.oup.com/eurjpc/article/13/5/676/5933252)
 - [Eligibility and Disqualification Recommendations for Competitive Athletes With Cardiovascular Abnormalities: Preamble, Principles, and General Considerations: A Scientific Statement From the American Heart Association and American College of Cardiology.](https://www.sciencedirect.com/science/article/pii/S0735109715065481)
 - [Recommendations for participation in leisure-time physical activity and competitive sports of patients with arrhythmias and potentially arrhythmogenic conditions. Part 2: ventricular arrhythmias, channelopathies, and implantable defibrillators: A position statement of the Section of Sports Cardiology and Exercise from the European Association of Preventive Cardiology (EAPC) and the European Heart Rhythm Association (EHRA), both associations of the European Society of Cardiology.](https://academic.oup.com/europace/article/23/1/147/5864077)
-- <https://medical.ffessm.fr/actualites/recommandations-de-bonnes-pratiques-suivi-medical-du-plongeur>
-- <https://www.sciencedirect.com/science/article/abs/pii/S0735109721081572>
+- [FFESSM. Recommandations de bonnes pratiques suivi médical du plongeur. 01/04/2021.](https://medical.ffessm.fr/actualites/recommandations-de-bonnes-pratiques-suivi-medical-du-plongeur)
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-risque-cv"%}}

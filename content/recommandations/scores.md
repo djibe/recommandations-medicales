@@ -99,9 +99,9 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< scores/tvp >}}
 
 {{% /modal %}}
-{{% modal title="Score CHA2DS2-VASc selon ESC 2020" id="modal-chads"%}}
+{{% modal title="Score CHA2DS2-VA selon ESC 2024" id="modal-chads"%}}
 
-{{< scores/cha2ds2vasc >}}
+{{< scores/cha2ds2va >}}
 
 {{% /modal %}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

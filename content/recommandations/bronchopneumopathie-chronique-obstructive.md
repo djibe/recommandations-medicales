@@ -438,9 +438,9 @@ Traitements réservés au pneumologue (prescription et renouvellement).
 
 #### Oxygénothérapie longue durée  
 
-≥ 15 h/j en cas d'hypoxémie avec suivi au moins annuel.
+Au moins 15 h/j en cas d'hypoxémie avec suivi au moins annuel (pas de bénéfice au-delà de 15 h/j selon *Taichman DB et al 2024*).
 
-Envisager si (*HAS 2019*):
+Envisager une oxygénothérapie de longue durée si:
 
 - {{< modal-btn modal-severite-bpco >}}Obstruction très sévère (voire sévère){{< /modal-btn >}}
 - Cyanose
@@ -451,9 +451,11 @@ Envisager si (*HAS 2019*):
   - PaO~2~ ≤ 55 mmHg ou SaO~2~ ≤ 88% confirmée à 2 reprises sur 3 semaines pour *GOLD 2023*
   - PaO~2~ 55-60 mmHg ou SaO~2~ ≤ 88% avec [HTAP]({{< relref "hypertension-arterielle-pulmonaire.md" >}}), insuffisance cardiaque droite ou polyglobulie (hématocrite > 55%) pour *GOLD 2023*
 
-Cible de repos: SpO~2~ ≥ 90% (PaO~2~ ≥ 60 mmHg).
+> -- *HAS 2019*
 
-#### Ventilation mécanique ± Pression Positive Continue
+**Saturation cible au repos:** SpO~2~ ≥ 90% (PaO~2~ ≥ 60 mmHg).
+
+#### Ventilation mécanique ± Pression Positive Continue (PPC)
 
 Relève exclusivement du spécialiste.
 
@@ -632,6 +634,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Taichman DB, Drazen JM. Making Long-Term Oxygen Therapy Less Burdensome. N Engl J Med. 2024.](https://www.nejm.org/doi/10.1056/NEJMe2410129)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [HAS, SPILF, SPLF. Choix et durées d'antibiothérapie dans les exacerbations aiguës de bronchopneumopathie chronique obstructive (EABPCO). 2024.](https://www.has-sante.fr/jcms/p_3528903/fr/choix-et-durees-d-antibiotherapie-dans-les-exacerbations-aigues-de-bronchopneumopathie-chronique-obstructive-eabpco)
 - [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease: 2024 Report. 2024.](https://goldcopd.org/2024-gold-report/)

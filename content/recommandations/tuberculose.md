@@ -102,6 +102,66 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 {{< iframe url="https://splf.fr/clat/" title="SPLF: Liste des centres de lutte AntiTuberculeuse">}}
 
 {{% /collapse %}}
+{{%collapse "Test tuberculinique: réalisation et lecture" %}}
+
+La réaction d'hypersensibilité à la tuberculine apparaît chez les sujets qui ont été vaccinés par le BCG ou qui ont contracté la tuberculose.
+
+### Réaliser l'intradermoréaction à la tuberculine
+
+**NB.** Le test est perturbé en cas de: vaccination rougeole récente, déficit immunitaire ou immunodépression. Il est réservé au patient exempt de signes tuberculeux.
+
+#### Matériel nécessaire pour une intradermoréaction à la tuberculine (IDR)
+
+1. Une seringue de 1 mL calibrée en dixièmes
+2. Une aiguille hypodermique de 27G (marron)
+3. Une aiguille IM ou IV pour le prélèvement
+4. Antiseptique à l'hypochlorite de sodium (Amukine®, Dakin®)
+5. Un flacon de TUBERTEST®  
+  Contient 10 tests. Conservation entre 2 et 8°C pendant 28 jours après ouverture.
+6. Une paire de gants
+7. 2 compresses ou cotton
+
+#### Réaliser l'intradermoréaction
+
+1. Désinfecter l'opercule du flacon et laisser sécher avant de ponctionner le septum du flacon
+2. Avec l'aiguille d'IM, prélever 0,1 mL de Tubertest (soit 5 UI)
+3. Remplacer l'aiguille par l'aiguille marron
+4. Désinfecter la peau: milieu de l'avant-bras face palmaire
+5. Piquer biseau vers le haut, parallèlement à la peau en la tendant légèrement
+6. En soulevant ainsi le derme, introduire l'aiguille sur 2 mm
+7. Injecter tout doucement le test tuberculinique pour former une petite bulle
+8. Entourer au stylo avec une large marge le site d'injection
+9. La bulle tuberculinique ne doit pas être couverte, frottée ou lavée par le patient
+
+{{< youtube id="BB1q3-Mk83U" title="Intradermoréaction à la tuberculine (IDR, Ottawa Public Health)" >}}
+
+#### Lecture et interprétation du Tubertest
+
+1. La lecture de l'intradermoréaction doit être réalisée à 72 heures de l'injection  
+   Refaire le test en l'absence de lecture à 72 heures.
+2. La mesure est effectuée en palpation: c'est l'**induration** et non la rougeur qui est mesurée
+3. La mesure est en millimètres du plus grand axe
+
+L'IDR est en faveur d'une primo-infection tuberculeuse si l'induration est ≥ à 5 mm (15 mm chez le sujet vacciné par le BCG).
+{.alert .alert-warning}
+
+L'IDR est en faveur de l'absence de primo-infection s'il est < 5 mm (10 mm en cas de vaccination BCG).
+
+{{< table title="Critères de test tuberculinique positif. Dr JB Fron d'après MSF" class="table-wrap" >}}
+| Caractéristiques individuelles | Diamètre de l'induration |
+|---------------------------------|-------------------------|
+| - VIH<br>- Enfants sévèrement malnutris<br>- Corticothérapie ≥ 15 mg/j ≥ 1 mois<br>- Immunosuppresseurs<br>- Contact récent avec un patient TB<br>- Patients avec une fibrose à la RP, compatible avec une TB antérieure | ≥ 5 mm |
+| - Originaire de pays à forte prévalence de TB<br>- Personnel de laboratoire de mycobactériologie<br>- Personnes travaillant et/ou vivant dans des lieux collectifs, y compris les structures de de santé, centres de détention, lieux d'accueil pour personnes sans domicile fixe ...<br>- Enfants < 5 ans<br>- Enfants > 5 ans et adolescents exposés à des adultes à risque de TB<br>- Autres catégories à risque (diabète, drogues injectables, insuffisance rénale terminale, leucémie, IMC faible) | ≥ 10 mm |
+| Tous les autres enfants et adultes | ≥ 15 mm |
+{{< /table >}}
+
+> -- *[CLAT 42. Comment pratiquer et lire le test tuberculinique intradermique TUBERTEST (PDF)](https://www.chu-st-etienne.fr/Offre_de_Soins/ULAT/PratiquerLireTUBERTEST.pdf)* et *[MSF. Annexe 9. Intradermoréaction à la tuberculine](https://medicalguidelines.msf.org/fr/viewport/TUB/francais/annexe-9-intradermo-reaction-a-la-tuberculine-99516764.html)*
+
+> << Une IDR fortement positive (diamètre > 20 mm) ou phlycténulaire (avec vésicule) doit être considérée comme un argument en faveur d'une TB active. Elle est toutefois insuffisante à elle seule pour décider d'un traitement. >> -- *MSF*
+
+**Mots-clés:** Tubertest, intradermoréaction à la tuberculine (IDR), test tuberculinique intradermique, test de Mantoux.
+
+{{% /collapse %}}
 {{%collapse "Informations du patient avec la tuberculose" %}}
 
 [HAS. ALD n°29 - Guide patient: Comprendre la tuberculose](https://www.has-sante.fr/jcms/c_609444/fr/ald-n-29-guide-patient-comprendre-la-tuberculose)
@@ -110,8 +170,6 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 {{%collapse "FMC gratuites" %}}
 
 {{< card-link-external title="Formation complète à distance sur la tuberculose" url="https://www.fun-mooc.fr/fr/cours/tuberculosis/" subtitle="Par l'Institut Pasteur">}}
-
-{{< youtube id="BB1q3-Mk83U" title="Intradermoréaction à la tuberculine (IDR, Ottawa Public Health)" >}}
 
 {{< youtube id="2TwjanDRE2Q" title="Technique de la vaccination par le BCG en pratique (Santé Publique France)" >}}
 

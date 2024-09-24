@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-20T18:16:14+01:00"
 publishdate = "2024-03-01"
-lastmod = "2024-03-03"
+lastmod = "2024-09-24"
 specialites = ["gynecologie-obstetrique"]
 annees = "2015"
 sources = ["CNGOF", "Anaes"]
@@ -25,12 +25,12 @@ todo = "flow, diversification alimentaire, lactaclic"
 - Un allaitement maternel exclusif à la demande pendant 4 à 6 mois est recommandé
 - Soutien à l'allaitement pendant toute la grossesse et l'allaitement
 - [Brochure d'information sur l'allaitement](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/brochure/le-guide-de-l-allaitement-maternel)
-- Alimentation de la mère: café 2-3 tasses par jour, alcool déconseillé, arrêt du tabac
+- Alimentation de la mère durant l'allaitement: café 2-3 tasses par jour, alcool déconseillé, arrêt du tabac
 - L'allaitement en pratique, pas de données sur: une position d'allaitement particulière, la nécessité d'utiliser 1 sein ou les 2, débuter précocement et la durée entre 2 tétées
 - Informer sur le contrôle de tous les médicaments sur [le CRAT](https://www.lecrat.fr)
 - Les rares contre-indications à l'allaitement sont: VIH, hépatite C, cocaïne et cannabis
 - Le recours à la méthode de contraception MAMA nécessite des critères stricts
-- Abcès du sein, crevasses, engorgement mammaire, mastite, mycose: voir la section *Prise en charge des complications*
+- Traitement des abcès du sein, crevasses, engorgement mammaire, mastite, mycose: voir la section *Prise en charge des complications*
 
 Chapitres liés: [grossesse]({{< relref "grossesse.md" >}}), [post-partum]({{< relref "post-partum.md" >}})
 
@@ -261,6 +261,7 @@ Les contre-indications au don de lait sont celles du don du sang.
 
 {{< card-link-external title="MOOC Allaitement : l'Affaire de Tous" url="https://www.pns-mooc.com/fr/mooc/3/presentation" subtitle="par CNGOF, Gen-IF, APHP, Paris Descartes" >}}
 
+- [Haut Conseil de la Santé Publique. Rapport relatif à l'allaitement maternel. 2024.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1392)
 - [Service-Public. Une salariée peut-elle allaiter pendant les heures de travail ?. 14/02/2024.](https://www.service-public.fr/particuliers/vosdroits/F1769)
 - [ANSM. Candidose mammaire et allaitement : éviter le violet de gentiane. 22/06/2022.](https://ansm.sante.fr/actualites/candidose-mammaire-et-allaitement-eviter-le-violet-de-gentiane)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Allaitement maternel. Gynécologie obstétrique Réussir son DFASM. 2021.

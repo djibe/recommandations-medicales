@@ -408,9 +408,9 @@ graph TB
 {{< traitements/statine-intensite >}}
 
 {{% /modal %}}
-{{% modal title="Score CHA2DS2-VASc selon ESC 2020" id="modal-chads"%}}
+{{% modal title="Score CHA2DS2-VA selon ESC 2024" id="modal-chads"%}}
 
-{{< scores/cha2ds2vasc >}}
+{{< scores/cha2ds2va >}}
 
 {{% /modal %}}
 {{% modal title="Objectifs glycémiques selon SFD 2023" id="modal-hba1c"%}}

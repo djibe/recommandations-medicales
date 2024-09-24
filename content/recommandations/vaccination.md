@@ -233,7 +233,7 @@ Contre-indications temporaires à la vaccination fièvre jaune:
 - Désinfection locale et laisser sécher (risque d'inactivation du vaccin)
 - Ne pas purger l'air
 - Demander un relâchement musculaire
-- Insérer avec angle de 90° (pour une IM) avec la peau en une seule fois
+- Insérer avec angle de 90° pour une IM avec la peau en une seule fois
 - Pas d'aspiration préalable nécessaire
 - Injection rapide avec retrait rapide
 

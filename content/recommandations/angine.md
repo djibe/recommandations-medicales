@@ -175,7 +175,7 @@ Prise en charge de l'angine:
 
 Une angine streptococcique est le plus souvent favorable en 3-4 jours.
 
-**Seule indication à une prise en charge de l'angine par antibiotique:** angine chez les +3 ans avec TDR positif.
+**Seule indication à une prise en charge de l'angine par antibiotique:** angine chez les +3 ans avec TDR positif. Le *CNGE* ne préconise une antibiothérapie qu'en cas de scarlatine ou de symptômes intenses.
 
 #### Antibiothérapie de l'angine chez l'adulte
 
@@ -268,6 +268,7 @@ graph TB
 
 - [HAS, SPILF. Choix et durées d'antibiothérapies : angine aiguë de l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3529230/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-adulte)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : angine aiguë de l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3529229/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-enfant)
+- [Conseil scientifique du Collège National des Généralistes Enseignants (CNGE). Antibiotiques dans l'angine à streptocoque A : faut-il continuer ? Avis du conseil scientifique. 2024. (PDF)](https://www.cnge.fr/wp-content/uploads/2024/05/240430_CS_CNGE-angine_Vsite.pdf)
 - [Cohen R et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471)
 - [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)
 - [GPIP, SFP, AFPA, SPILF. Conduite à tenir autour d'un cas d'infection invasive à Streptocoque du Groupe A. 2022. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/communiques/conduite-a-tenir-cas-contact-infections-invasives-a-sgadef.pdf)
@@ -279,10 +280,6 @@ graph TB
 - [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - Collège Français d'ORL et de Chirurgie Cervico-faciale. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 146 UE6.
-
-### Bibliographie en attente
-
-[Conseil scientifique du Collège National des Généralistes Enseignants (CNGE). Antibiotiques dans l'angine à streptocoque A : faut-il continuer ? Avis du conseil scientifique. 2024. (PDF)](https://www.cnge.fr/wp-content/uploads/2024/05/240430_CS_CNGE-angine_Vsite.pdf)
 
 {{%/sources%}}
 {{% modele %}}

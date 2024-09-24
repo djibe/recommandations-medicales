@@ -478,7 +478,7 @@ Migraines cataméniales sous COP, proposer au choix:
 {{% /collapse %}}
 {{%collapse "Interactions médicamenteuses" %}}
 
-> Pas de contre-indication aux AINS avec le DIU cuivre – *CNGOF 2018*
+> Pas de contre-indication aux AINS avec le DIU cuivre. -- *CNGOF 2018*
 {.alert .alert-info}
 
 Contrôler les interactions médicamenteuses en cas de cotraitement.
