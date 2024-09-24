@@ -1,0 +1,21 @@
+{{ $data := dict }}
+{{ $path := "data/infox.csv" }}
+{{ with resources.Get $path }}
+  {{ with . | transform.Unmarshal (dict "delimiter" ";") }}
+    {{ $data = . }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get page resource %q" $path }}
+{{ end }}
+
+<div class="grid-1-2-3">
+{{ range after 1 $data }}
+<div class="card card-grid">
+  <img loading="lazy" alt="The Grand Canal in Venice" class="card-img-top" src="/images/articles/infox-medecine-info.webp">
+  <div class="card-header">
+    <h3 class="card-title mb-2"><a href="{{ index . 2 }}" class="text-reset stretched-link">{{ index . 0 }}</a></h3>
+    <h4 class="card-subtitle">{{ index . 1 }}</h4>
+  </div>
+</div>
+{{ end }}
+</div>
