@@ -4,14 +4,13 @@ description = "Les fausses informations, fake-news ou Infox sont légions en mé
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-09-24T19:40:00+02:00"
 publishdate = "2024-09-24"
-lastmod = "2024-09-24"
+lastmod = "2024-09-25"
 specialites = []
 annees = "2024"
 sources = []
 tags = []
 image = true
 imageSrc = "des infox en médecine / redgreystock sur Freepik"
-draft = true
 +++
 
 Les fausses informations, fake-news ou infox sont légions en médecine, offrant à de nombreux charlatans des revenus considérables. Voici une collection de sources de qualité pour détricoter les croyances des patients.
@@ -23,4 +22,4 @@ Pour rétablir un discours scientifique face à de multiples fausses allégation
 
 {{< csv-to-cards >}}
 
-> Image par jcomp / Freepik
+> Illustration par jcomp / Freepik
