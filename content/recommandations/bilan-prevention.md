@@ -43,7 +43,7 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
     <button aria-controls="div-60" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#div-60" id="tab-60" type="button" role="tab">60-65 ans</button>
   </li>
   <li class="nav-item" role="presentation">
-    <button aria-controls="div-60" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#div-70" id="tab-60" type="button" role="tab">70-75 ans</button>
+    <button aria-controls="div-70" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#div-70" id="tab-70" type="button" role="tab">70-75 ans</button>
   </li>
 </ul>
 <div class="tab-content card-body">

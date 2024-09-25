@@ -179,7 +179,7 @@ Puis **renouvellement tous les 3 mois**.
     </li>
   </ul>
   <div class="tab-content card-body">
-    <div aria-labelledby="prep-h-tab" class="tab-pane fade show active" id="prep-h" role="tabpanel">
+  <div aria-labelledby="prep-h-tab" class="tab-pane fade show active" id="prep-h" role="tabpanel">
 
 #### Schéma continu
 
@@ -202,7 +202,8 @@ Puis **renouvellement tous les 3 mois**.
 [Truvada®](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) 1 cp/j à heure fixe pendant le repas en continu.
 
 Délai de **7 jours avant le premier rapport sexuel à protéger**.
-</div>
+
+  </div>
 
 Pour arrêter la PrEP: après le dernier rapport à risque, prendre 1cp 24h après puis 2^e^ cp 48h après puis arrêter.
 

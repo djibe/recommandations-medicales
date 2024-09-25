@@ -82,7 +82,7 @@ SPILF
 > Toutes les infections bactériennes cutanées nécessitent un lavage quotidien à l'eau et au savon (= << soins quotidiens >> dans l'article).
 {.alert .alert-info}
 
-### Traitement de l'impétigo
+### Prise en charge de l'impétigo
 
 Prise en charge de l'impétigo simple:
 

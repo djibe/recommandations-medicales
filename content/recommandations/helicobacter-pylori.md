@@ -100,7 +100,7 @@ Pylera® 3 gél x 4/j + oméprazole 20 mg x 2/j
 
 <p class="typography-overline text-black-secondary pt-2">2<sup>e</sup> ligne</p>
       <ul>
-        <li>Utiliser le traitement alternatif: Quadrithérapie <> Pylera® (pour les <em>HAS/SPILF</em>)</li>
+        <li>Utiliser le traitement alternatif: Quadrithérapie ou Pylera® (pour les <em>HAS/SPILF</em>)</li>
         <li>Privilégier une EOGD selon le <em>GEFH</em></li>
       </ul>
       <p class="typography-overline text-black-secondary pt-2">3<sup>e</sup> ligne</p>
