@@ -226,7 +226,6 @@ mark {
 }
 
 .figure-img-nav {
-  aspect-ratio: 16/9;
   background-color: var(--bg-cabinet-hex);
   border-radius: 12px;
   margin: 0;
@@ -430,6 +429,12 @@ a[data-toggle="modal"]:not(.no-icon)::after {
   }
 }
 
+.card-img-top {
+  aspect-ratio: 16/9;
+  height: auto;
+  object-fit: cover;
+}
+
 .list-page,
 .projet {
   .card-img-top {
@@ -439,7 +444,7 @@ a[data-toggle="modal"]:not(.no-icon)::after {
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: cover;
-    aspect-ratio: 16/9;
+    // aspect-ratio: 16/9;
 
     &.bg-article {
       background-color: var(--bg-article-hex);

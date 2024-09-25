@@ -11,7 +11,15 @@
 <div class="grid-1-2-3">
 {{ range after 1 $data }}
 <div class="card card-grid">
-  <img loading="lazy" alt="The Grand Canal in Venice" class="card-img-top" src="/images/articles/infox-medecine-info.webp">
+  <img
+      loading="lazy"
+      alt="Lutter contre les infox en médecine"
+      class="card-img-top"
+      style="opacity: 0.85;"
+      src="/images/articles/infox-medecine-info.webp"
+      height="400"
+      width="400"
+    />
   <div class="card-header">
     <h3 class="card-title mb-2"><a href="{{ index . 2 }}" class="text-reset stretched-link">{{ index . 0 }}</a></h3>
     <h4 class="card-subtitle">{{ index . 1 }}</h4>

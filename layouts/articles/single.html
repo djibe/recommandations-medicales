@@ -51,7 +51,9 @@
           <nav class="mt-xl d-flex flex-wrap justify-content-evenly d-print-none">
             {{with .NextInSection }}
             <div class="card card-list article mw-248">
-              <figure class="figure-img-nav px-2 pt-2" style="background-color: var(--bg-article-hex)" ><img src="/images/articles/{{.File.BaseFileName}}.webp" alt="" class="w-100 card-img-nav" loading="lazy"></picture></figure>
+              <figure class="figure-img-nav" style="background-color: var(--bg-article-hex)">
+                <img src="/images/articles/{{.File.BaseFileName}}.webp" alt="Illustration de {{ .Title }}" class="card-img-top card-img-nav" loading="lazy">
+              </figure>
               <div class="card-header d-flex flex-column">
                 <span class="card-subtitle mb-2">Article suivant</span>
                 <a class="card-title stretched-link text-reset" href="{{ .RelPermalink }}" rel="next">{{ .Title }}</a>
@@ -60,7 +62,9 @@
             {{end}}
             {{with .PrevInSection }}
             <div class="card card-list article mw-248">
-              <figure class="figure-img-nav px-2 pt-2" style="background-color: var(--bg-article-hex)" ><img src="/images/articles/{{.File.BaseFileName}}.webp" alt="" class="w-100 card-img-nav" loading="lazy"></picture></figure>
+              <figure class="figure-img-nav" style="background-color: var(--bg-article-hex)">
+                <img src="/images/articles/{{.File.BaseFileName}}.webp" alt="Illustration de {{ .Title }}" class="card-img-top card-img-nav" loading="lazy">
+              </figure>
               <div class="card-header d-flex flex-column">
                 <span class="card-subtitle mb-2">Article précédent</span>
                 <a class="card-title stretched-link text-reset" href="{{ .RelPermalink }}" rel="prev">{{ .Title }}</a>
