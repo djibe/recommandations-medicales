@@ -543,8 +543,6 @@ Si prise récente de macrolide ou allergie documentée à l'amoxicilline, voir *
 
 ---
 
-**Ordonnance pour le laboratoire**
-
 {{< traitements/helicobacter-test-uree >}}
 
 {{% /modele %}}

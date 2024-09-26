@@ -25,7 +25,7 @@ todo = "<https://listjs.com/>, unified search, update"
 Consulter la monographie (indications, posologies, contre-indications ...) de tous les médicaments utiles en soins primaires (hors homéopathie) de la Base de données publique des médicaments (BDPM).
 {.lead .my-5}
 
-> Le moteur de recherche sera unifié avec celui des pathologies.
+> La mise à jour de la liste des médicaments est mensuelle. Le moteur de recherche sera unifié avec celui des pathologies.
 
 <div class="textfield-box form-ripple-nolabel form-ripple-bottom" style="position: sticky; top: 80px; backdrop-filter: blur(10px); z-index: 160">
   <input type="search" class="form-control form-group" id="search-input-med" placeholder="Rechercher un code médicament ..." autofocus>

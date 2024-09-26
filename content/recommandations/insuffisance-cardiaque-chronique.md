@@ -179,7 +179,7 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
   - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (20%)  
     {{< modal-btn modal-depistage-bpco >}}Faut-il faire une spirométrie ?{{< /modal-btn >}}
   - Auto-immuns et hormonaux  
-    [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [hypothyroïdie de Basedow]({{< relref "hypothyroidie.md" >}}), connectivite, lupus, sarcoïdose, [amylose]({{< relref "amylose-al.md" >}}).
+    [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}) et Basedow, connectivite, lupus, sarcoïdose, [amylose]({{< relref "amylose-al.md" >}}).
   - Infectieux: [VIH]({{< relref "vih-sida.md" >}}), parasites
   - [Tumoraux](/tags/cancer/)
   - Carences ou déficits enzymatiques, [anémie]({{< relref "anemie.md" >}}), anorexie

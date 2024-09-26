@@ -342,6 +342,8 @@ Selon la *SFD*, informer le patient:
 - [Nast A et al; EDF. European evidence-based (S3) guideline for the treatment of acne - update 2016 (short version). 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13776)
 - [Société Française de Dermatologie. Prise en charge de l'acné. 2015. (PDF)](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
 
+Mots-clé: acné, acnée, comédons
+
 {{%/sources%}}
 {{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
 

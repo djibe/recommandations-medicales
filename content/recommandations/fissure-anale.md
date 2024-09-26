@@ -133,6 +133,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="DvWXJnDPMLQ" title="Fissure anale : ça déchire ! (TutoGastro SNFGE 2024)" >}}
+
 - [Davids JS et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Anal Fissures. Dis Colon Rectum. 2023.](https://journals.lww.com/dcrjournal/Fulltext/2023/02000/The_American_Society_of_Colon_and_Rectal_Surgeons.8.aspx)
 - Prescrire Redaction. Fissure anale. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [SNFCP. Fissure anale. Fiches diagnostiques. 2018.](https://www.snfcp.org/actualites/fiche-diag_fissure-anale/)

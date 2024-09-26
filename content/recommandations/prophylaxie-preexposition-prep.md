@@ -196,8 +196,8 @@ Puis **renouvellement tous les 3 mois**.
 - Reprendre 1 cp à H48
 - En cas de rapports répétés: poursuivre à 1 cp/j jusqu'à 2 jours après le dernier rapport
 
-  </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
-  <div aria-labelledby="prep-f-tab" class="tab-pane fade" id="prep-f" role="tabpanel">
+</div><!-- No more than 2-spaces indentation to prevent code block declaration -->
+<div aria-labelledby="prep-f-tab" class="tab-pane fade" id="prep-f" role="tabpanel">
 
 [Truvada®](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) 1 cp/j à heure fixe pendant le repas en continu.
 

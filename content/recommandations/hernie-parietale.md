@@ -168,6 +168,7 @@ accTitle: Conduite à tenir et prise en charge d'une hernie pariétale d'après 
 
 ### Bibliographie en attente
 
-[Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pathologies courantes de la région inguino-scrotale et du pénis. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/pathologies)
+- [Morgado M, Holland AJ. Inguinal hernias in children: Update on management guidelines. J Paediatr Child Health. 2024.](https://pubmed.ncbi.nlm.nih.gov/39319467/)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pathologies courantes de la région inguino-scrotale et du pénis. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/pathologies)
 
 {{%/sources%}}
