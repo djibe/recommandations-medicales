@@ -151,7 +151,7 @@ L'IDR est en faveur de l'absence de primo-infection s'il est < 5 mm (10 mm en ca
 | Caractéristiques individuelles | Diamètre de l'induration |
 |---------------------------------|-------------------------|
 | - VIH<br>- Enfants sévèrement malnutris<br>- Corticothérapie ≥ 15 mg/j ≥ 1 mois<br>- Immunosuppresseurs<br>- Contact récent avec un patient TB<br>- Patients avec une fibrose à la RP, compatible avec une TB antérieure | ≥ 5 mm |
-| - Originaire de pays à forte prévalence de TB<br>- Personnel de laboratoire de mycobactériologie<br>- Personnes travaillant et/ou vivant dans des lieux collectifs, y compris les structures de de santé, centres de détention, lieux d'accueil pour personnes sans domicile fixe ...<br>- Enfants < 5 ans<br>- Enfants > 5 ans et adolescents exposés à des adultes à risque de TB<br>- Autres catégories à risque (diabète, drogues injectables, insuffisance rénale terminale, leucémie, IMC faible) | ≥ 10 mm |
+| - Originaire de pays à forte prévalence de TB<br>- Personnel de laboratoire de mycobactériologie<br>- Personnes travaillant et/ou vivant dans des lieux collectifs, y compris les structures de santé, centres de détention, lieux d'accueil pour personnes sans domicile fixe ...<br>- Enfants < 5 ans<br>- Enfants > 5 ans et adolescents exposés à des adultes à risque de TB<br>- Autres catégories à risque (diabète, drogues injectables, insuffisance rénale terminale, leucémie, IMC faible) | ≥ 10 mm |
 | Tous les autres enfants et adultes | ≥ 15 mm |
 {{< /table >}}
 

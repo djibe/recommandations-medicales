@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2024-09-10"
+lastmod = "2024-09-27"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "HAS"]
@@ -130,7 +130,7 @@ Malgré les fermetures, **43 %** des maternités ont réalisé en 2020 **moins d
 | Moment   | Clinique | Examen  | Traitement |
 |----------|----------|---------|------------|
 | Chaque consultation | PA, poids, signes de grossesse | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}ECBU{{%/tooltip%}} si ATCD, toxoplasmose si -, {{%tooltip "Jusqu'à 18 SA"%}}rubéole si -{{%/tooltip%}}, TSH si sympt. aspécifiques | Arrêt alcool/tabac et {{%tooltip "lecrat.fr"%}}automédication{{%/tooltip%}}, vaccin grippe+covid, {{%tooltip "mangerbouger.fr"%}}alimentation{{%/tooltip%}} (listériose ++) |
-| Préconceptionnelle<br>ou 1re consultation (< 10 SA) | ATCD (gynéco, varicelle), toxiques, profession, vaccinations, précarité, maltraitance, DDR, {{%tooltip "Bandelette urinaire: glycosurie et protéinurie"%}}BU{{%/tooltip%}} | NFS, ferritine, {{%tooltip "1re grossesse sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}}<br>Sérologies {{%tooltip "Sauf vaccination double dose documentée"%}}rubéole{{%/tooltip%}}, toxoplasmose, syphilis, VIH, VHC, {{%tooltip "AgHBs sans vaccination"%}}anti-HBs{{%/tooltip%}}, TSH si sympt. aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et FDR{{< /modal-btn >}}, ± frottis | {{%tooltip "Jusqu'à 8 SA (HAS), 14 SA (USPTF)"%}}acide folique{{%/tooltip%}} 0,4 mg/j, {{%tooltip "De 11 à 13 SA + 6j"%}}écho T1{{%/tooltip%}} + {{%tooltip "βhCG libre + PAPP-A"%}}dépistage T21{{%/tooltip%}} |
+| Préconceptionnelle<br>ou 1re consultation (< 10 SA) | ATCD (gynéco, varicelle), toxiques, profession, vaccinations, précarité, maltraitance, DDR, {{%tooltip "Bandelette urinaire: glycosurie et protéinurie"%}}BU{{%/tooltip%}} | NFS, ferritine, {{%tooltip "1re grossesse sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}}<br>Sérologies {{%tooltip "Sauf vaccination double dose documentée"%}}rubéole{{%/tooltip%}}, toxoplasmose, syphilis, VIH, VHC, {{%tooltip "AgHBs sans vaccination"%}}anti-HBs{{%/tooltip%}}, ± {{%tooltip "≥ 35 ans, surpoids, ATCD DG/macrosomie ou fam DT2"%}}glycémie{{%/tooltip%}}, TSH si sympt. aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et FDR{{< /modal-btn >}}, ± frottis | {{%tooltip "Jusqu'à 8 SA (HAS), 14 SA (USPTF)"%}}acide folique{{%/tooltip%}} 0,4 mg/j, {{%tooltip "De 11 à 13 SA + 6j"%}}écho T1{{%/tooltip%}} + {{%tooltip "βhCG libre + PAPP-A"%}}dépistage T21{{%/tooltip%}} |
 | 4e mois<br>16-20 SA | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}BU{{%/tooltip%}} (HAS 2024) | {{%tooltip "Gratuite jusqu'à 6 mois après l'accouchement"%}}Cs dentaire{{%/tooltip%}} ||
 | 5e mois<br>20-24 SA || {{%tooltip "22 SA (20-25)"%}}Écho T2{{%/tooltip%}} | Vaccin coqueluche |
 | 6e mois<br>24-28 SA || {{%tooltip "L'USPTF trouve le dépistage inutile si asymptomatique"%}}NFS{{%/tooltip%}}, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} | ± Rattrapage coqueluche |

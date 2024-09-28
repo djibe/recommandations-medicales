@@ -1,7 +1,7 @@
 +++
 id = "0190e8c8-cdaf-7111-b4aa-0571cd3c0570"
 title = "Mpox (Monkeypox ou Variole du singe)"
-prefix = "la "
+prefix = "le "
 titleSeo = "Mpox (Monkeypox ou Variole du singe)"
 noindex = true
 description = "Recommandations pour la prise en charge du Monkeypox. Personnes à vacciner contre la variole du singe, traitement avec isolement, déclaration obligatoire"
@@ -25,8 +25,9 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le virus du Mpox ou variole du singe est un Poliovirus et donc une [maladie à déclaration obligatoire](https://www.formulaires.service-public.fr/gf/cerfa_12218.do) avec Cerfa spécifique à déclarer au plus vite à l'ARS une fois confirmé
-- Suspicion de Monkeypox:
+- Le virus du Mpox (ou variole du singe) est un Poliovirus et donc une [maladie à déclaration obligatoire](https://www.formulaires.service-public.fr/gf/cerfa_12218.do) avec Cerfa spécifique à déclarer au plus vite à l'ARS une fois confirmé
+- Le Mpox doit être évoqué devant un contact rapproché à risque (contage, zone d'épidémie) et des lésions évocatrices: éruption vésiculeuse avec contenu liquidien (visage, génito-anale, paumes et plantes) avec dessèchement puis cicatrisation spontanée en 2 à 4 semaines
+- Bilan en cas de suspicion de Monkeypox:
   - Mesures barrières
   - En l'absence de contact à risque ou si le clade (I ou II) du cas primaire n'est pas connu: RT-PCR MPXV en urgence sur 1 ou 2 lésions muqueuses
 - Diagnostic de Mpox: isolement strict avec prévention des surinfections des lésions, déclaration obligatoire et remise de [la conduite à tenir (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/flyer_cas_confirmes_mkp_120822_vdef.pdf)
@@ -125,7 +126,8 @@ Examen clinique de tout patient suspect de variole du singe avec tous les moyens
 - Délai médian au diagnostic de Monkeypox de 6 jours
 - Guérison spontanée en 2 à 3 semaines (voire 4)
 
-La variole du singe est plus grave chez l'enfant, les immunodéprimés et les femmes enceintes.
+> La variole du singe est plus grave chez l'enfant, les immunodéprimés et les femmes enceintes.
+{.alert .alert-warning}
 
 ### Interrogatoire et examen clinique d'un patient suspect de Mpox
 
@@ -139,7 +141,7 @@ Signes et symptômes de la variole du singe:
 - Éruption vésiculeuse avec contenu liquidien
   - [Photos de la *SFD*](https://www.sfdermato.org/upload/news/groupemonkeypeauxfinal-1.pdf)
   - Dessèchement puis croûtes puis cicatrisation
-  - Localisation: visage, génito-anale (78%), paumes et plantes, possibles aussi sur tronc et membres.  
+  - Localisation: visage, génito-anale (78 %), paumes et plantes, possibles aussi sur tronc et membres.  
     Muqueuses buccale ou génitale
 - Odynophagie
 - Diagnostic différentiel du Monkeypox: varicelle, syndrome pieds-mains-bouche, zona, rougeole, infections bactériennes cutanées, gale, syphilis, allergies
@@ -187,13 +189,12 @@ Toutes les personnes avec risque élevé d'exposition au virus de la variole du 
 - Professionnels des lieux de rencontre sexuelle
 - Les partenaires ou cohabitants des personnes ci-dessus
 - Voyageurs avec rapports sexuels à risque (*HCSP 2024*)
-- Selon le *HCSP 2024* (bientôt en ligne), voyageurs se rendant en zone à risque de Clade I:
+- Selon le *HCSP 2024*, voyageurs se rendant en zone à risque de Clade I:
   - Professionnels de santé ou humanitaires
   - Visite familiale
   - Immunodéprimé
 
 > -- *HAS 2024*
-{.update}
 
 ### Comment vacciner contre Mpox ?
 
@@ -260,6 +261,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Haut Conseil de la santé publique. Avis relatif aux mesures de prévention actualisées vis-à-vis de l'infection due au virus monkeypox pour les personnes se rendant dans la zone d'épidémie (voyageurs et professionnels de santé dans le cadre de missions humanitaires). 2024.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1387)
 - [DGS-Urgent 2024_14. Mpox : Rappel des conduites à tenir et nouveaux avis de la HAS et du HCSP sur la vaccination. 04/09/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [Ministère de la Santé. Fiche de synthèse sur la stratégie diagnostique de l'infection à Mpox à destination des professionnels de santé. 02/09/2024. (PDF)](https://sante.gouv.fr/IMG/pdf/fiche_de_synthese_diagnostic_mkp_-_02-09-24.pdf)
 - [HAS. Avis n° 2024.0058/AC/SESPE du 29 août 2024 du collège de la Haute Autorité de santé relatif à la stratégie de vaccination contre le mpox. 2024.](https://www.has-sante.fr/jcms/p_3538025/fr/avis-n-2024-0058/ac/sespev-du-29-aout-2024-du-college-de-la-haute-autorite-de-sante-relatif-a-la-strategie-de-vaccination-contre-le-mpox)
@@ -274,7 +276,8 @@ graph TB
 - Ameli. Virus Monkeypox : les recommandations sur la prise en charge et la vaccination. 16/08/2022.
 - [Ministère de la Santé. Fiche de synthèse << variole du singe >> à destination des professionnels de santé. 05/08/2022. (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/fiche_de_synthese_a_destination_des_professionnels_de_sante_040822.pdf)
 - [Vaccination Info Service. Variole du singe (Monkeypox). 22/07/2022.](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Variole-du-singe-Monkeypox)
-- [Infovac. Epidémie de variole dite « du singe » ou monkey pox : place des enfants et préconisations actuelles du GPIP et de la SFP. 20/07/2022.](https://www.infovac.fr/actualites/epidemie-de-variole-dite-du-singe-ou-monkey-pox-place-des-enfants-et-preconisations-actuelles-du-gpip-et-de-la-sfp)
+- [HCSP. Mesures de prévention vis-à-vis de l'infection à Monkeypox virus. 08/07/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1230)
+- [Infovac. Epidémie de variole dite << du singe >> ou monkey pox : place des enfants et préconisations actuelles du GPIP et de la SFP. 20/07/2022.](https://www.infovac.fr/actualites/epidemie-de-variole-dite-du-singe-ou-monkey-pox-place-des-enfants-et-preconisations-actuelles-du-gpip-et-de-la-sfp)
 - Ameli. Virus Monkeypox : les recommandations sur la prise en charge. 19/07/2022.
 - [ARS Ile-de-France. Variole du singe : conseils et prise en charge en Ile-de-France. 18/07/2022.](https://www.iledefrance.ars.sante.fr/variole-du-singe-conseils-et-prise-en-charge-en-ile-de-france)
 - [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
@@ -287,8 +290,6 @@ graph TB
 ### Bibliographie en attente
 
 - [SF2H. Nouvelles recommandations de la SF2H pour la prise en charge intra hospitalière des patients infectés par le Mpox. 2024. (PDF)](https://www.sf2h.net/k-stock/data/pdf/monkeypox_bulletin_148.pdf)
-- [HCSP. Mesures de prévention vis-à-vis de l'infection à Monkeypox virus. 08/07/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1230)
 - [COREB. Monkeypox - Prendre en charge les patients.](https://www.coreb.infectiologie.com/fr/prendre-en-charge-les-patients-fiches-pratiques.html)
-- [SPILF. Monkeypox: actualités mise à jour. 09/12/2022.](https://www.infectiologie.com/fr/actualites/mpox-actualites-mise-a-jour_-n.html)
 
 {{%/sources%}}

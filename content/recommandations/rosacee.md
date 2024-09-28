@@ -18,14 +18,14 @@ icd10 = ["L71.9"]
 image = true
 imageSrc = "Rosacée papulopustuleuse avec érythème. The Thinking Doll / Foter"
 flowchart = true
-todo = "interrogatoire, SEO"
+todo = "rankok, interrogatoire"
 +++
 
 {{%article-summary%}}
 
-- Le diagnostic de rosacée est clinique: partie médiane du visage rouge chez un adulte présentant des bouffées vasomotrices
-- Le traitement de la rosacée est suspensif avec rechute à l'arrêt
+- Le diagnostic de rosacée est clinique: partie médiane du visage rouge chez un adulte présentant des bouffées vasomotrices et souvent une érythrose, des télangiectasies voire des papulo-pustules
 - Une atteinte oculaire est possible
+- Le traitement de la rosacée est suspensif avec rechute à l'arrêt
 - La prise en charge de la rosacée associe l'éviction des facteurs déclenchants et le métronidazole gel 0,75 % en 2 applications par jour pendant 3 mois en première intention
 - La rosacée est une contre-indication à l'utilisation des dermocorticoïdes
 

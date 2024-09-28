@@ -284,13 +284,13 @@ graph TB
 {{%/sources%}}
 {{% modele %}}
 
-**Adulte**
+**Adulte** (*HAS/SPILF 2024*)
 
 amoxicilline 1g 2 fois par jour pendant 6 jours
 
 ---
 
-**Enfant**
+**Enfant** (*HAS/SPILF/GPIP 2024*)
 
 amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises pendant 6 jours
 

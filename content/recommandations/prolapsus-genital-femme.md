@@ -2,7 +2,7 @@
 id = "0190e8ca-aca4-7d36-8d31-ce83b58415cd"
 title = "Prolapsus génital de la femme"
 prefix = "le "
-titleSeo = "Prolapsus génital féminin"
+titleSeo = "Prolapsus génital de la femme"
 description = "Recommandations pour la prise en charge du prolapsus génital ou colpocèle. Traitement conservateur avec rééducation pelvienne et pessaire gynécologique"
 synonyms = ["Colpocèle"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -18,7 +18,7 @@ sctid = "73998008"
 icd10 = ["N81.9"]
 image = true
 imageSrc = "Hystéroptose (prolapsus utérin dans le vagin) Baden-Walker 3 chez une femme de 40 ans en position debout. Mikael Häggström, CC0, via Wikimedia Commons"
-todo = "SEO, HAS annexes Échelles PFDI-20, APFQ"
+todo = "rankok, HAS annexes Échelles PFDI-20, APFQ"
 flowchart = true
 +++
 

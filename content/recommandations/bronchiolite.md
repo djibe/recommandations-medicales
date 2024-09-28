@@ -360,10 +360,9 @@ Selon la Revue Prescrire: peu de place pour la kinésithérapie respiratoire sau
 
 {{< mermaid title="Prise en charge de la bronchiolite et d'une dyspnée sifflante. Dr JB Fron d'après HAS/CNPP 2019" >}}
 graph TB
-  dyspnee[Dyspnée sifflante] --> âge(Âge)
-  style dyspnee stroke:#4150f5, stroke-width:1px
-    âge --> moins12(&lt; 12 mois)
-      moins12 --> 1(1<sup>er</sup> épisode) --> bronchiolite[Bronchiolite]
+  dyspnee[Dyspnée sifflante] --> clinique(Clinique) --> âge(Âge)
+    âge --> moins12("&lt; 12 mois")
+      moins12 --> 1("1<sup>er</sup> épisode") --> bronchiolite[Bronchiolite]
       style bronchiolite stroke:#4150f5, stroke-width:1px
         bronchiolite --> gravite("<b>≥ 1 signe de gravité ?</b><br>—<br>- AEG<br>- FR &gt; 60 ou &lt; 30/min<br>- FC &gt; 180 ou &lt; 80/min<br>- Apnées, tirage intense<br>- SpO2 éveil AA &lt; 92%<br>- Alimentation &lt; 50%<br>- Prématuré ≤ 34 SA avec O2dep ET &lt; 6 mois (palivizumab)<br>—<br>Forme modérée +<br>- Âge corrigé &lt; 2 mois<br>- Comorbidités<br>- Contexte socio-économique<br>- Capacités de recours")
           gravite -- Non --> impression(Considérations cliniques<br>et signes de fragilité)
@@ -380,7 +379,8 @@ graph TB
         atopie -- Oui --> asthme
       moins12 --> 3(3<sup>e</sup> épisode) --> asthme(Asthme du nourrisson)
     âge --> plus12("≥ 12 mois") --> asthme
-    âge -- Diagnostic différentiel --> differentiel("- Insuff. cardiaque<br>- Exacerbation d'asthme<br>- Pneumonie<br>- Laryngotrachéomalacie<br>- Corps étranger<br>- RGO<br>- Anneau vasculaire<br>- Allergie<br>- Fibrose kystique<br>- Masse médiastinale<br>- Fistule œso-trachéale")
+    clinique -- Diagnostic différentiel --> differentiel("- Insuff. cardiaque<br>- Exacerbation d'asthme<br>- Pneumonie<br>- Laryngotrachéomalacie<br>- Corps étranger<br>- RGO<br>- Anneau vasculaire<br>- Allergie<br>- Fibrose kystique<br>- Masse médiastinale<br>- Fistule œso-trachéale")
+    style dyspnee stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 > **AA =** air ambiant; **FC =** fréquence cardiaque; **FR =** fréquence respiratoire. L'alimentation est quantifiée sur 3 prises consécutives

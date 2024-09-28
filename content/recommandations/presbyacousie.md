@@ -17,7 +17,7 @@ sctid = "49526009"
 icd10 = ["H91.1"]
 image = true
 imageSrc = "Audiogramme de la presbyacousie avec hypoacousie symétrique prédominant sur les aigus. Sarang, Public domain, via Wikimedia Commons"
-todo = "relecture"
+todo = "rankok, relecture"
 flowchart = true
 +++
 

@@ -302,13 +302,13 @@ Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune inf
 - Éviction de la collectivité 5 jours
 - Antibioprophylaxie des sujets contacts proches ou à risque
 
-**Adulte**
+**Adulte** (*HAS/SPILF 2024*)
 
 clarithromycine 500 mg x 2/j pendant 7 jours
 
 ---
 
-**Enfant**
+**Enfant** (*HAS/SPILF/GPIP 2024*)
 
 clarithromycine 1 dose-poids x 2/j pendant 7 jours
 

@@ -5,10 +5,10 @@ noindex = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-11-15T16:02:00+02:00"
 publishdate = "2022-11-17"
-lastmod = "2024-03-17"
+lastmod = "2024-09-27"
 specialites = []
-annees = "2023"
-sources = []
+annees = "2024"
+sources = ["Assurance Maladie"]
 tags = []
 image = true
 imageSrc = "Illustration de l'Assistant médical par pch.vector / Freepik"
@@ -50,7 +50,7 @@ L'appli *ameli Mémo* ([Android](https://play.google.com/store/apps/details?id=f
 {{% /collapse %}}
 {{%collapse "Les aides pour financer un assistant médical" %}}
 
-L'Assurance Maladie soutient financièrement l'investissement dans la collaboration avec un assistant médical avec une aide pérenne mais dégressive pendant les trois premières années.
+L'*Assurance Maladie* soutient financièrement l'investissement dans la collaboration avec un assistant médical avec une **aide pérenne** mais dégressive pendant les trois premières années.
 
 La première année, l'intégralité de l'aide est versée dans le mois qui suit le contrat puis à la date anniversaire la 2^e^ année. À partir de la 3^e^ année elle est versée en 2 acomptes de 50%.
 
@@ -117,9 +117,5 @@ Toutefois, toute personne peut commencer la collaboration sous réserve de passe
 - [Arrêté du 7 novembre 2019 relatif à l'exercice de l'activité d'assistant médical](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039364029)
 - [Site de la Convention collective nationale du personnel des cabinets médicaux](https://ccn-cabinets-medicaux.fr/assistants-medicaux)
 - [Légifrance. Convention collective nationale du personnel des cabinets médicaux du 14 octobre 1981.](https://www.legifrance.gouv.fr/conv_coll/id/KALICONT000005635409/)
-
-### Bibliographie en attente
-
-[Ameli Médecin. Assistant médical : simplifier ses démarches de recrutement avec le Titre emploi service entreprise. 25/01/2024.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/assistant-medical-simplifier-ses-demarches-de-recrutement-avec-le-titre-emploi-service-entreprise)
 
 {{%/sources%}}

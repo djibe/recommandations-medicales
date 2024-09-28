@@ -5,13 +5,13 @@ description = "Les aides de l'Assurance Maladie, des ARS et aides régionales po
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-17T20:00:00+02:00"
 publishdate = "2021-11-22"
-lastmod = "2022-04-07"
-annees = "2022"
+lastmod = "2024-09-27"
+annees = "2024"
 sources = ["PAPS", "Ameli Pro", "ARS"]
 tags = []
 image = true
 imageSrc = "pikisuperstar / Freepik"
-todo = "forfait structure et exonérations fiscales, https://www.ameli.fr/medecin/exercice-liberal/vie-cabinet/aides-financieres, http://www.snjmg.org/outils/demographie-et-installation"
+todo = "exonérations fiscales, https://www.ameli.fr/medecin/exercice-liberal/vie-cabinet/aides-financieres, http://www.snjmg.org/outils/demographie-et-installation"
 +++
 
 Plusieurs services publics offrent des contrats d'aide à l'installation du médecin généraliste. Cet article vise à lister et décrire les conditions à remplir pour accéder à ces aides à la primo-installation.
@@ -179,10 +179,6 @@ Financement de la création de nouvelles structures d'exercices collectif (créa
 
 Les références sont mentionnées sous chaque article.
 
-- [Rapport parlementaire 2019 (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rapport_augros_2019.pdf)
-
-### Bibliographie en attente
-
-[Exonérations fiscales](https://www.iledefrance.paps.sante.fr/les-exonerations-fiscales-105?rubrique=10010&parent=10018)
+[Rapport parlementaire 2019 (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rapport_augros_2019.pdf)
 
 {{%/sources%}}

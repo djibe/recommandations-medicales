@@ -19,6 +19,7 @@ image = true
 imageSrc = "Poux extrait du crâne. CC BY-SA 3.0 via Wikimedia Commons"
 todo = "rankok, modèle école"
 flowchart = true
+modele = true
 +++
 
 {{%article-summary%}}
@@ -93,13 +94,13 @@ Diagnostic différentiel d'un prurit de la tête:
 
 {{%info%}}
 
-- Diméticone lotion 2 applications (durée selon le produit) à J1 et J7
+- Diméticone lotion 2 applications (durée d'application selon le produit) à J1 et J7
 - Rinçage avec shampooing doux
-- Puis peignage anti-poux pendant30 minutes
+- Puis peignage anti-poux pendant 30 minutes
 
-Examen de tous les membres du foyer
+Examen de tous les membres du foyer.
 
-Décontamination des linge/literie/accessoires
+Décontamination des linge/literie/accessoires.
 {{%/info%}}
 
 La prise en charge des poux doit être systématique.
@@ -110,8 +111,8 @@ La prise en charge des poux doit être systématique.
 - Diméticone lotion (Pouxit® ou autre)
   - Produit inflammable
   - [Possible pendant la grossesse](https://www.lecrat.fr/12157/)
-  - Respecter strictement les délais et consignes d'application  
-  Puis rincer avec un shampooing doux.
+  - Respecter strictement les délais et consignes d'application
+  - Puis rincer avec un shampooing doux
 - Terminer par un élentage  
   Avec un peigne fin ou peigne anti-poux sur cheveux humides, pendant 30 minutes, 3x/j, répété plusieurs jours.
 - Répéter le traitement à J7 (ou J10)
@@ -158,8 +159,20 @@ graph TB
 - [Chosidow O; Société Française de Dermatologie. Prise en charge de la pédiculose du cuir chevelu en 2019 en France. Mise au point. 2019. (PDF)](https://www.sfdermato.org/media/pdf/actualite/note-pediculos-sfd-gridist-51283d08cd07c9ac26310a6d2669ff30.pdf)
 - [Conseil Supérieur d'Hygiène Publique de France. Avis relatif à la conduite à tenir devant un sujet atteint de pédiculose du cuir chevelu. 27/06/2003. (PDF)](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=a_mt_270603_pediculose.pdf)
 
-### Bibliographie en attente
+### Bibliographie pour en savoir plus
 
-- [Salavastru C et al. European guideline for the management of pediculosis pubis. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14420)
+- [Salavastru C, et al. European guideline for the management of pediculosis pubis. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14420)
 
 {{%/sources%}}
+{{% modele %}}
+
+- Diméticone lotion 2 applications (durée d'application selon le produit) à J1 et J7
+- Rinçage avec shampooing doux
+- Puis peignage anti-poux pendant 30 minutes
+- Prévenir l'école / crèche
+
+Examen de tous les membres du foyer.
+
+Décontamination des linge/literie/accessoires (lavage: 60°C ou éviction 10 jours + lavage long).
+
+{{% /modele %}}

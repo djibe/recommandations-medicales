@@ -143,7 +143,7 @@ Cotations NGAP disponibles en sus de la consultation ou de la visite médicale.
 {{< table title="Surcotations possibles pour des situations particulières" class="table-wrap" >}}
 | Code NGAP | Description                                                                                                                  | Tarif supp (€) |
 |-----------|------------------------------------------------------------------------------------------------------------------------------|---------------:|
-| RQD       | Demande de téléexpertise (à 100%)                                                                                            |             10 |
+| RQD       | Demande de téléexpertise (active unique sur une Sesam sans vitale en TP AMO)                                                 |             10 |
 | + MCG     | Consultation d'un patient +16 ans hors résidence habituelle avec rédaction d'un compte-rendu pour son MT                     |              5 |
 | + MOP     | Consultation d'un patient +80 ans qui ne fait pas partie de la patientèle déclarée                                           |              5 |
 | + MSH**   | Sortie d'hospitalisation (chirurgie, décompensation ou diagnostic d'affection grave) dans le mois d'un patient polypathologique. MIC non applicable pour la même hospitalisation. | 23 |

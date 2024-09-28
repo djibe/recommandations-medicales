@@ -336,7 +336,7 @@ J1 du traitement, à renouveler à 1 mois, 3 mois puis tous les 6 mois
 
 **NB.** La décroissance du VDRL dans la syphilis latente précoce (ou en cas de recontamination) n'est pas franche pour 1/4 des patients.
 
-La négativation du VDRL est considérée comme le meilleur critère de guérison
+> La négativation du VDRL est considérée comme le meilleur critère de guérison.
 {.alert .alert-info}
 
 Le TPHA ne se négative que rarement sauf chez le patient *VIH+*. Il n'est pas utilisé dans la surveillance.
@@ -401,7 +401,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [HCSP. Dépistage biologique de la syphilis guérie chez les donneurs de sang. 05/10/2023.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1348)
+- [Haut Conseil de la Santé Publique. Dépistage biologique de la syphilis guérie chez les donneurs de sang. 05/10/2023.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1348)
+- [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-162.pdf)
 - [US Preventive Services Task Force. Screening for Syphilis Infection in Nonpregnant Adolescents and Adults: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2796685)
 - [Santé Publique France. Bulletin de santé publique VIH-IST. Décembre 2021.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/vih-sida/documents/bulletin-national/bulletin-de-sante-publique-vih-ist.-decembre-2021)
 - [SPILF. Info-antibio N°92. Mai 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)
@@ -417,8 +418,8 @@ graph TB
 - [HAS. Modification de la Nomenclature des actes de biologie médicale pour les actes de recherche du Treponema pallidum. Mai 2015. (PDF)](https://www.has-sante.fr/portail/upload/docs/application/pdf/2015-05/argumentaire_syphilis_vd.pdf)
 - [Société de Pathologie Infectieuse de Langue Français (SPILF). Alternatives pour le traitement des syphilis non neurologiques dans un contexte de rupture de stock de benzathine pénicilline ± doxycycline. Février 2014. (PDF)](http://www.infectiologie.com/UserFiles/File/spilf/recos/2014-traitement-syphilis.pdf)
 
-### Bibliographie en attente
+### Bibliographie pour en savoir plus
 
-[CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-162-web.pdf)
+[Kingston M, et al. British Association of Sexual Health and HIV (BASHH) UK guidelines for the management of syphilis in pregnancy and children 2024. Int J STD AIDS. 2024.](https://pubmed.ncbi.nlm.nih.gov/39308221/)
 
 {{%/sources%}}

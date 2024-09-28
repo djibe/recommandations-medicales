@@ -17,7 +17,7 @@ sctid = "9014002"
 icd10 = ["L40.9"]
 image = true
 imageSrc = "Psoriasis en plaques du cuir chevelu et des mains. Freepik"
-todo = "PASI, EULA RPso, SAPHO, relecture demandée mviguier"
+todo = "rankok, PASI, EULA RPso, SAPHO, relecture demandée mviguier"
 flowchart = true
 +++
 

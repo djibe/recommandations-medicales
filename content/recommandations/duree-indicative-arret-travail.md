@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-08-29T19:32:58+02:00"
 publishdate = "2024-08-30"
-lastmod = "2024-08-30"
+lastmod = "2024-09-27"
 specialites = ["certificats"]
 annees = "2024"
 sources = ["Assurance Maladie"]
@@ -40,4 +40,4 @@ En l'absence de mention, la durée de l'arrêt de travail concerne un **patient 
 
 ## Source {.mt-5}
 
-Ameli Memo 8.0.1 (n'est plus disponible, [ma sauvegarde pour Android](https://e.pcloud.link/publink/show?code=XZHxmPZlqY8uwrybopONET7Ghtkv7oyG1W7))
+Appli *ameli Mémo*: [Android](https://play.google.com/store/apps/details?id=fr.cnamts.amelimemo&hl=fr), [iOS](https://apps.apple.com/fr/app/ameli-m%C3%A9mo/id1304468265)

@@ -18,7 +18,7 @@ sctid = "111541001"
 icd10 = ["H81.1"]
 image = true
 imageSrc = "Illustration de l'oreille interne par BruceBlaus. Blausen.com staff (2014). WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436., via Wikimedia Commons"
-todo = "SEO dont 'vertiges positionnels paroxystiques bénins', vertige signes périph collège neuro"
+todo = "rankok, vertige signes périph collège neuro"
 flowchart = true
 +++
 

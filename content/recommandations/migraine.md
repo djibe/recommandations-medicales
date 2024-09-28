@@ -583,13 +583,14 @@ graph TB
 - Prescrire Redaction. Migraine : prévention des crises chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face. 2019.](https://www.cen-neurologie.fr/second-cycle/migraine-nevralgie-du-trijumeau-algies-face)
 - [Lanteri-Minet M et al. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant. Revue Neurologique. 2013. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20sur%20la%20prise%20en%20charge%20diagnostique%20et%20th%C3%A9rapeutique%20de%20la%20migraine%20chez%20l%2527adulte%20et%20chez%20l%2527enfant%20(1).pdf)
-- [Anaes. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant : aspects cliniques et économiques. Recommandations de bonne pratique. Octobre 2002.](https://www.has-sante.fr/jcms/c_272212/fr/prise-en-charge-diagnostique-et-therapeutique-de-la-migraine-chez-l-adulte-et-chez-l-enfant-aspects-cliniques-et-economiques)
+- [Anaes. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant : aspects cliniques et économiques. Recommandations de bonne pratique. 2002.](https://www.has-sante.fr/jcms/c_272212/fr/prise-en-charge-diagnostique-et-therapeutique-de-la-migraine-chez-l-adulte-et-chez-l-enfant-aspects-cliniques-et-economiques)
 - [ICHD-3 version française 2019 (PDF)](https://ichd-3.org/wp-content/uploads/2019/06/ICHD3-traduction-fran%C3%A7aise-VF-%C3%A0-publier.pdf)
 
 ### Bibliographie en attente
 
 - [HAS. Céphalées de l'enfant et l'adolescent : pertinence de l'imagerie. 2024.](https://www.has-sante.fr/jcms/p_3383435/fr/cephalees-de-l-enfant-et-l-adolescent-pertinence-de-l-imagerie)
 - [Ducros A et al. Recommandations pour le diagnostic et la prise en charge de la migraine chez l'adulte : situations spécifiques chez les femmes migraineuses. La Presse Médicale Formation. 2022.](https://www.sciencedirect.com/science/article/pii/S2666479822002154)
+- [Oskoui M, et al. Practice guideline update summary: Acute treatment of migraine in children and adolescents: Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology and the American Headache Society. Neurology. 2019.](https://www.neurology.org/doi/10.1212/WNL.0000000000008095?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 - [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf) (p.29)
 
 {{%/sources%}}
@@ -597,8 +598,10 @@ graph TB
 
 Prendre dès le début des symptômes (avoir sur soi et prise dans l'heure):
 
-- Crise légère: ibuprofène 400 mg. Prendre le triptan si persistance des douleurs 1 heure après
-- Crise modérée à sévère: élétriptan 20 mg. Prendre l'ibuprofène 1 heure après si persistance des douleurs
+- Crise légère: ibuprofène 400 mg  
+  Prendre le triptan si persistance des douleurs 1 heure après.
+- Crise modérée à sévère: élétriptan 20 mg  
+  Prendre l'ibuprofène 1 heure après si persistance des douleurs.
 
 Consigner les prises dans l'*agenda migraineux*. Reconsulter après 3 crises.
 

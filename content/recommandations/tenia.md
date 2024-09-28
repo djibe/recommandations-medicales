@@ -17,6 +17,7 @@ sctid = "76172008"
 icd10 = ["B68.0"]
 image = true
 imageSrc = "Cycle de vie du Taenia (ténia). Centers for Disease Control & Prevention, National Center for Infectious Diseases, Division of Parasitic Diseases, Public domain, via Wikimedia Commons"
+todo = "rankok"
 flowchart = true
 +++
 

@@ -17,7 +17,7 @@ sctid = "1255142001"
 icd10 = []
 image = false
 imageSrc = ""
-todo = "photo, flow | pastèque, abricot, kaki, cerise, figue, mûre, nectarine pêche, prune, brocoli, asperge, betterave, chou de Bruxelles, aubergine, fenouil, poireau, échalote, poivron, maïs, petit pois, topinambour, Pois chiche, haricot rouge, lentille, fève de soja,flageolet, gourgane, pois vert sec"
+todo = "rankok, photo, flow | pastèque, abricot, kaki, cerise, figue, mûre, nectarine pêche, prune, brocoli, asperge, betterave, chou de Bruxelles, aubergine, fenouil, poireau, échalote, poivron, maïs, petit pois, topinambour, Pois chiche, haricot rouge, lentille, fève de soja,flageolet, gourgane, pois vert sec"
 +++
 
 {{%article-summary%}}

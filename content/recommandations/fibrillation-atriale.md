@@ -3,7 +3,7 @@ id = "0190e8c2-dd1c-7667-90d4-1dfbc300df40"
 title = "Fibrillation atriale (FA ou fibrillation auriculaire ACFA)"
 prefix = "la "
 titleSeo = "Fibrillation atriale ACFA"
-description = "Recommandations ESC 2020 sur la fibrillation auriculaire (ou atriale FA ou ACFA). ECG, risque embolique CHADSVASC et hémorragique, anticoagulants AOD ..."
+description = "Recommandations ESC 2020 sur la fibrillation auriculaire (ou atriale FA ou ACFA). ECG, risque embolique CHA2DS2-VA et hémorragique, anticoagulants AOD ..."
 longHtml = true
 synonyms = ["Arythmie complète par fibrillation auriculaire (ACFA)"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -19,7 +19,7 @@ sctid = "49436004"
 icd10 = ["I48.9"]
 image = true
 imageSrc = "Fibrillation atriale sur 2 dérivations, PeaBrainC, CC BY-SA 4.0 via Wikimedia Commons"
-todo = "SEO 'recommandation fibrillation auriculaire', ESC 2020: chap 11.5 saignement, Source 2013 bonne pour EGS, prev IRC Marijon"
+todo = "AF-CARE framework"
 flowchart = true
 +++
 
@@ -27,9 +27,9 @@ flowchart = true
 
 - FA mal tolérée = appel du {{< phone >}}15{{< /phone >}}
 - Dépister la fibrillation atriale (FA ou ACFA) si: +65 ans, diabète, hypertension artérielle
-- Le diagnostic de fibrillation est électrocardiographique (ECG)
+- Le diagnostic de fibrillation atriale est électrocardiographique (ECG)
 - Survient-elle de façon isolée ou sur une cardiopathie ?
-- Réévaluer régulièrement les {{< modal-btn modal-chads >}}risques embolique avec le score CHA~2~DS~2~-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}hémorragique HAS-BLED{{< /modal-btn >}}, symptômes, facteurs favorisants
+- Réévaluer régulièrement les {{< modal-btn modal-chads >}}risques embolique avec le score CHA~2~DS~2~-VA{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}hémorragique HAS-BLED{{< /modal-btn >}}, symptômes, facteurs favorisants
 - Selon le {{< modal-btn modal-chads >}}risque embolique{{< /modal-btn >}}: {{< modal-btn modal-aod >}}anticoagulant oral direct (AOD){{< /modal-btn >}} ou absence d'anticoagulant...
 - voire [antivitamine K (AVK)]({{< relref "avk.md" >}}) si valve mécanique ou sténose mitrale modérée à sévère
 - Prise en charge de la fibrillation auriculaire: suivi cardiologique, {{< modal-btn modal-bradycardisant >}}ralentir la fréquence cardiaque < 80 bpm{{< /modal-btn >}} au repos, Holter-ECG
@@ -173,7 +173,7 @@ Toute suspicion clinique de fibrillation atriale doit être confirmée au plus t
   - Durée des épisodes, mode de début et fin
   - Symptômes: {{< modal-btn modal-ehra >}}score EHRA{{< /modal-btn >}}  
   **Dyspnée, palpitations, fatigue**, [angor/douleur thoracique]({{< relref "syndrome-coronarien-chronique.md" >}}), intolérance à l'effort, malaises, vertiges, [chutes](/tags/chute/), syncope, troubles du sommeil, anxiété, bouffées de chaleur.
-- {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}} (50%)
+- {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}} (50%) TODO: pas de questionnaire
 
 ### Examen clinique
 
@@ -200,17 +200,18 @@ Toute suspicion clinique de fibrillation atriale doit être confirmée au plus t
 {{%collapse "Examens complémentaires" %}}
 
 {{%info%}}
-Adresser au cardiologue pour évaluation spécialisée avec **échocardiographie**.
+Adresser au cardiologue pour évaluation spécialisée avec **échocardiographie transthoracique** (ETT).
 
 ### Électrocardiogramme (ECG)
 
-Électrocardiogramme 12 dérivations systématique pour confirmer le diagnostic: intervalles R-R irréguliers, absence d'ondes P et trémulation de la ligne de base. Il recherche des troubles associés (conduction, ischémie).  
-Diagnostic possible sur simple dérivation pendant ≥ 30s.
+L'électrocardiogramme 12 dérivations est systématique pour confirmer le diagnostic: intervalles RR irréguliers, absence d'ondes P et trémulation de la ligne de base. Il recherche des troubles associés (conduction, ischémie).
 
-Envisager un ECG de dépistage systématique ≥ 75 ans (ou avec dispositif connecté ≥ 65 ans *Lowres 2014 et 2015*).
+Le diagnostic est possible sur ECG simple dérivation pendant au moins 30 secondes.
+
+Envisager un ECG de dépistage systématique à partir de 75 ans (ou avec dispositif connecté après 65 ans -- *Lowres 2014 et 2015*).
 {{%/info%}}
 
-### Bilan devant une fibrillation atriale
+### Bilan d'une fibrillation atriale
 
 - NFS
 - Ionogramme sanguin
@@ -220,7 +221,7 @@ Envisager un ECG de dépistage systématique ≥ 75 ans (ou avec dispositif conn
 - TSH
 - Bilan hépatique
 - Ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
-- Point d'appel: CRP, BH, troponine, albuminémie, BU
+- Point d'appel: CRP, troponine, albuminémie, BU
 - Si digoxine: digoxinémie
 
 ### Autres examens
@@ -230,13 +231,13 @@ Envisager un ECG de dépistage systématique ≥ 75 ans (ou avec dispositif conn
 - [Polygraphie ventilatoire]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) si FA symptomatique
 
 {{% /collapse %}}
-{{%collapse "Risque embolique CHA2DS2-VASc et de saignement" %}}
+{{%collapse "Risque embolique CHA2DS2-VA et de saignement" %}}
 
 Réévaluer régulièrement les risques emboliques et de saignement.
 
-### Risque embolique: score CHA~2~DS~2~-VASc
+### Risque embolique: score CHA~2~DS~2~-VA
 
-{{< modal-btn modal-chads >}}Calculer le score CHA~2~DS~2~-VASc{{< /modal-btn >}} quelque soit le type de FA (sauf valve mécanique ou sténose mitrale modérée à sévère où un AVK est systématique).
+{{< modal-btn modal-chads >}}Calculer le score CHA~2~DS~2~-VA{{< /modal-btn >}} quelque soit le type de FA (sauf valve mécanique ou sténose mitrale modérée à sévère où un AVK est systématique).
 
 ### Risque hémorragique: score HAS-BLED
 
@@ -245,9 +246,10 @@ Estimer le risque hémorragique avec le {{< modal-btn modal-hasbled >}}score HAS
 **Un risque hémorragique élevé ne contre-indique pas les anticoagulants** mais doit faire insister sur l'information du patient et intensifier le suivi.
 
 {{% /collapse %}}
-{{%collapse "Traitement et anticoagulants" %}}
+{{%collapse "Traitement et anticoagulation de la fibrillation atriale" %}}
 
-**Prévention:** contrôle des facteurs de risque cardiovasculaire (tabac, HTA, diabète) et limiter la consommation d'alcool.
+**Prévention de la fibrillation:** contrôle des facteurs de risque cardiovasculaire (tabac, HTA, diabète) et limiter la consommation d'alcool.
+{.alert .alert-info}
 
 Recommandations générales pour la prise en charge de la fibrillation atriale:
 
@@ -256,11 +258,11 @@ Recommandations générales pour la prise en charge de la fibrillation atriale:
   - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
   - Réduction de l'alcool
   - Hypertension artérielle
-  - Correction d'un surpoids
+  - Correction d'un surpoids, chirurgie bariatrique si IMC ≥ 40
   - Activité physique d'intensité modérée  
   Éviter endurance prolongée (marathon).
 - Anticoagulant ({{< modal-btn modal-chads >}}indication{{< /modal-btn >}}, {{< modal-btn modal-aod >}}molécules{{< /modal-btn >}})  
-  Contre-indication aux antithrombotiques (aspirine, clopidogrel sauf coronaropathie) et AINS.
+  Contre-indication aux antithrombotiques (aspirine, clopidogrel sauf coronaropathie pendant 12 mois) et AINS.
 - Contrôle de la fréquence cardiaque (*ESH 2023*)
   - Cible < 110 bpm par {{< modal-btn modal-bradycardisant >}}BB{{< /modal-btn >}}
   - Cible au repos < 80 bpm
@@ -275,9 +277,9 @@ Recommandations générales pour la prise en charge de la fibrillation atriale:
 
 ### Anticoagulation
 
-Recommandation des **AOD** ({{< modal-btn modal-aod >}}liste des anticoagulants oraux directs{{< /modal-btn >}}) en 1^re^ intention si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).
+Si {{< modal-btn modal-chads >}}indiqués{{< /modal-btn >}}, les anticoagulants oraux directs (**AOD**) sont recommandés en 1^re^ intention ({{< modal-btn modal-aod >}}liste des anticoagulants oraux directs{{< /modal-btn >}}).
 
-Recours aux [AVK]({{< relref "avk.md" >}}) en cas de valve mécanique ou de sténose mitrale modérée à sévère.
+Les [AVK]({{< relref "avk.md" >}}) sont réservés aux patients porteurs de valve mécanique ou de sténose mitrale modérée à sévère.
 
 Réévaluer fréquemment le risque de saignement avec le {{< modal-btn modal-hasbled >}}score HAS-BLED{{< /modal-btn >}}.
 
@@ -337,7 +339,7 @@ ECG de contrôle de 1-2 semaines (1 mois pour l'amiodarone)
 | Amiodarone     |           200 | Attention si allong. QT, AVK, digoxine, surv foie-poumon-TSH.<br>CI QT > 500 ms, hyperthyroïdie                                                         |
 | Flécaïne LP    |           200 | CI: DFG < 35 ou insuff. hépatique, coronaropathie, réduction FEVG, BAV complet, BBG, élarg. QRS > 25%. Interactions CYP2D6.                          |
 | Propafénone LP | 225-425 x 2/j | CI: insuffisance rénale/hépatique, coronaropathie, FEVG réduite, asthme, élarg. QRS > 25%, BBG, BB complet. Interactions warfarine, digoxine.        |
-| Sotalol        |  80-160 x 2/j | Avec grande précaution (torsades pointes). CI: ICFEd, dyfonction VG, allong. QT, asthme, hypokaliémie, clairance < 30, QT > 500 ms ou allong. > 60ms |
+| Sotalol        |  80-160 x 2/j | Avec grande précaution (torsades pointes). CI: ICFEd, dysfonction VG, allong. QT, asthme, hypokaliémie, clairance < 30, QT > 500 ms ou allong. > 60ms |
 {{< /table >}}
 
 > **BB** = bloc de branche ; **CI** = contre-indications. Administration en 1 fois par jour sauf mention contraire.
@@ -349,7 +351,7 @@ ECG de contrôle de 1-2 semaines (1 mois pour l'amiodarone)
   Alcool, tabac, hypertension artérielle, apnées du sommeil, diabète, activité physique, surpoids.
 - Symptômes et {{< modal-btn modal-ehra >}}impact sur les activités{{< /modal-btn >}}  
   Type, durée quotidienne.
-- {{< modal-btn modal-chads >}}Réévaluation CHA~2~DS~2~-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}
+- {{< modal-btn modal-chads >}}Réévaluation CHA~2~DS~2~-VA{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}
 - FC au repos < 80 bpm
 - {{< modal-btn modal-observance >}}Observance{{< /modal-btn >}}
 - Complications: AVC/AIT, saignements
@@ -393,7 +395,7 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 
 {{< mermaid title="Prise en charge de la fibrillation atriale par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après ESC, ESH et HAS" >}}
 graph TB
-  dépistage["<b>Dépister la FA</b><br>—<br>Asymptomatique ++:<br>- +65 ans<br>- Diabète<br>- Hypertension"] --> ECG(ECG) --> cardiologue("Consultation de cardiologie<br>semi-urgente avec bilan<br>voire urgences") --> traitement("<b>Traitement</b><br>—<br>- Anticoagulant selon<br>CHA2DS2-VASc et HAS-BLED<br>- Correction du risque<br>cardiovasculaire<br>- FC &lt; 80 au repos<br>- Cible PA &lt; 130/80 mmHg<br>- Contrôle du rythme: BB ++<br>- Selon le cas: anti-arythmique<br>- Éducation thérapeutique<br>- ALD 5")  --> suivi("<b>Suivi de la FA</b><br>—<br>- FRCV<br>- Symptômes<br>- Vie quotidienne<br>- CHA2DS2-VASc et HAS-BLED<br>- Fréquence cardiaque<br>- Observance<br>- Complications<br>- Bilan: NFS, créatine, hépatique<br>- Suivi cardiologique")
+  dépistage["<b>Dépister la FA</b><br>—<br>Asymptomatique ++:<br>- +65 ans<br>- Diabète<br>- Hypertension"] --> ECG(ECG) --> cardiologue("Consultation de cardiologie<br>semi-urgente avec bilan<br>voire urgences") --> traitement("<b>Traitement</b><br>—<br>- Anticoagulant selon<br>CHA2DS2-VA et HAS-BLED<br>- Correction du risque<br>cardiovasculaire<br>- FC &lt; 80 au repos<br>- Cible PA &lt; 130/80 mmHg<br>- Contrôle du rythme: BB ++<br>- Selon le cas: anti-arythmique<br>- Éducation thérapeutique<br>- ALD 5")  --> suivi("<b>Suivi de la FA</b><br>—<br>- FRCV<br>- Symptômes<br>- Vie quotidienne<br>- CHA2DS2-VA et HAS-BLED<br>- Fréquence cardiaque<br>- Observance<br>- Complications<br>- Bilan: NFS, créatine, hépatique<br>- Suivi cardiologique")
   suspicion["<b>Suspicion de<br>fibrillation atriale</b><br>—<br>- Palpitations<br>- Fatigue<br>- Dyspnée<br>- Angor, douleurs<br>- Intolérance à l'effort<br>- Malaises"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Risque cardiovasculaire<br>- Histoire récente<br>- Toxiques<br>- Traitements<br>- Symptômes<br>- Apnées du sommeil<br>- Constantes") --> disponible("ECG disponible ?") -- Oui --> ECG
     disponible -- "Non mais<br>pouls irrégulier<br>ou forte suspicion;<br>SAMU si mal toléré" --> cardiologue
   style dépistage stroke:#4150f5, stroke-width:1px
@@ -443,9 +445,9 @@ graph TB
 {{< clinique/risque-cardiovasculaire >}}
 
 {{% /modal %}}
-{{% modal title="Score CHA2DS2-VASc selon ESC 2020" id="modal-chads"%}}
+{{% modal title="Score CHA2DS2-VA selon ESC 2024" id="modal-chads"%}}
 
-{{< scores/cha2ds2vasc >}}
+{{< scores/cha2ds2va >}}
 
 {{% /modal %}}
 {{% modal title="Risque hémorragique HAS-BLED" id="modal-hasbled"%}}

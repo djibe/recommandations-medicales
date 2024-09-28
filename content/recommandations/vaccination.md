@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2024-08-29"
+lastmod = "2024-09-27"
 specialites = ["infectiologie", "pediatrie", "therapeutique"]
 annees = "2024"
 sources = ["MinSanté", "HCSP"]
@@ -67,9 +67,9 @@ VVA
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 1/3, Rotarix 1/2 |
 |   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + pneumocoque +<br>DTCaP-Hib-HB selon GPIP/Infovac) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance) |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3 |
-|   5 mois   | Méningo C<br>Méningo B                               | Neisvac<br>Bexsero                                                        |
+|   5 mois   | Méningo C/ACWY<br>Méningo B                          | Neisvac/Nimenrix NR<br>Bexsero                                            |
 |  11 mois   | DTCaP-Hib-HB<br>Pneumo 13                            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance                |
-|  12 mois   | Méningo C<br>ROR<br>Méningo B                        | Neisvac<br>MMRvaxPro, Priorix<br>Bexsero                                  |
+|  12 mois   | Méningo C/ACWY<br>ROR<br>Méningo B                   | Neisvac/Nimenrix NR<br>MMRvaxPro, Priorix<br>Bexsero                      |
 | 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |

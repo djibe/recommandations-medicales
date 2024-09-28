@@ -188,6 +188,7 @@ D'autres traitements médicamenteux sont possibles: stimulants (amphétamine) ou
 
 ### Bibliographie en attente
 
+- [HAS. Trouble du neurodéveloppement/ TDAH : Diagnostic et interventions thérapeutiques auprès des enfants et adolescents. 2024.](https://www.has-sante.fr/jcms/p_3302482/fr/trouble-du-neurodeveloppement/-tdah-diagnostic-et-interventions-therapeutiques-aupres-des-enfants-et-adolescents)
 - [Peterson BS, et al. ADHD Diagnosis and Treatment in Children and Adolescents. Agency for Healthcare Research and Quality. 2024.](https://effectivehealthcare.ahrq.gov/products/attention-deficit-hyperactivity-disorder/research)
 - [ADHD Federation. Guide pour le Trouble Déficit de l'Attention/Hyperactivité TDAH.]()
 - [Willig TN, et al; SFP. Trouble déficitaire d'attention. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pediatrie-generale/trouble-deficitaire-dattention)

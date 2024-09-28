@@ -18,6 +18,7 @@ sctid = "765330003"
 icd10 = ["Q61.2"]
 image = true
 imageSrc = "Kystes rénaux et hépatiques multiples affirmant une polykystose chez une femme de 45 ans. Cas d'Erik Ranschaert, Radiopaedia.org, rID: 11109"
+todo = "rankok"
 flowchart = true
 +++
 

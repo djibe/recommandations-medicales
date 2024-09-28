@@ -17,7 +17,7 @@ sctid = "128841001"
 icd10 = []
 image = true
 imageSrc = "Frottis sanguin d'une femme suivie pour polyglobulie essentielle. Trois précurseurs de globules rouges présents et une anisopoïkilocytose légère à modérée (coloration de Wright-Giemsa). The Armed Forces Institute of Pathology (AFIP), Public domain, via Wikimedia Commons"
-todo = "classification OMS 2016 Vaquez"
+todo = "rankok, classification OMS 2016 Vaquez"
 flowchart = true
 +++
 

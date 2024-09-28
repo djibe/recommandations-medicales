@@ -530,7 +530,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 {{%/sources%}}
 {{% modele %}}
 
-### Traitement probabiliste
+### Traitement probabiliste (*HAS/SPILF 2024*)
 
 Quadrithérapie pendant 14 jours:
 
