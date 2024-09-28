@@ -35,7 +35,7 @@
           </div>
           <div class="d-flex flex-wrap align-items-center">
             {{ if .Lastmod }}
-            <span class="header-params px-2">Mis à jour <time lang="en" class="ml-1" datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">{{ if (eq .Lastmod.Year now.Year) }}{{ .Lastmod.Format "2 January" }}{{ else }}{{ .Lastmod.Format "2 January 2006" }}{{ end }}</time></span>
+            <span class="header-params px-2">Mis à jour <time lang="en" class="ml-1" datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">{{ if (eq .Lastmod.Year now.Year) }}{{ .Lastmod | time.Format "2 January" }}{{ else }}{{ .Lastmod | time.Format ":date_long" }}{{ end }}</time></span>
             {{ end }}
             {{- with .Params.imageSrc }}<small class="text-black-secondary mx-5">Illustration {{ . }}</small>{{ end -}}
             <button class="btn btn-icon text-black-secondary d-print-none d-none d-lg-flex ml-auto" type="button" aria-label="Imprimer la page" onclick="javascript:window.print()" data-toggle="tooltip" title="Imprimer le chapitre">

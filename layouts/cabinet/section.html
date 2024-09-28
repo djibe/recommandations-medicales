@@ -24,7 +24,7 @@
           <div class="card-header">
             <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             {{ with .Params.Subtitle}}<h3 class="card-subtitle">{{ . }}</h3>{{end}}
-            <small class="text-black-secondary">Mis à jour le <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod.Format "02/01/2006" }}</time></small>
+            <small class="text-black-secondary">Mis à jour le <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod | time.Format ":date_medium" }}</time></small>
           </div>
         </div>
       {{ end }}

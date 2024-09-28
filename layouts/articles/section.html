@@ -24,7 +24,7 @@
           <div class="card-header">
             <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             {{ with .Params.Subtitle}}<h3 class="card-subtitle">{{ . }}</h3>{{end}}
-            <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "02 Jan 2006" }}</time></small>
+            <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate | time.Format "2 Jan 2006" }}</time></small>
           </div>
         </div>
       {{ end }}

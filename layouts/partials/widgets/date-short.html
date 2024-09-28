@@ -1,1 +1,1 @@
-<time datetime="{{.Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeHTML}}">{{ .Lastmod.Format "2 January" }}</time>
+<time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">{{ .Lastmod | time.Format "2 January" }}</time>

@@ -45,7 +45,7 @@
           <div class="card-body card-primary-action">
             <h4 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
             <p class="card-subtitle pb-0">
-              <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "2 Jan" }}</time>
+              <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate | time.Format "2 Jan" }}</time>
             </p>
           </div>
           <div class="card-actions">
@@ -63,7 +63,7 @@
             <div class="card-body card-primary-action">
               <p class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></p>
               <p class="card-subtitle pb-0">
-                <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "2 Jan" }}</time>
+                <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate | time.Format "2 Jan" }}</time>
               </p>
             </div>
             <div class="card-actions">
@@ -109,7 +109,7 @@
           <img loading="lazy" alt="Illustration de {{ .Title }}" class="card-img-top img-index" src="/images/cabinet/{{.File.BaseFileName}}.webp" style="max-height: 9rem;">
           <div class="card-header">
             <h4 class="card-title mb-2"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
-            <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "2 Jan" }}</time></small>
+            <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate | time.Format "2 Jan" }}</time></small>
           </div>
         </div>
         {{ end }}
@@ -126,12 +126,12 @@
           <img loading="lazy" alt="Illustration de {{ .Title }}" class="card-img-top img-index" src="/images/articles/{{.File.BaseFileName}}.webp" style="max-height: 9rem">
           <div class="card-header">
             <h4 class="card-title mb-2"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
-            <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate.Format "2 Jan" }}</time></small>
+            <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate | time.Format "2 Jan" }}</time></small>
           </div>
         </div>
         {{ end }}
       </div>
-      <a href="/articles/" class="typography-overline my-3" style="color: #af34dc">Tous les articles</a>
+      <a href="/articles/" class="typography-overline my-3" style="color: var(--article)">Tous les articles</a>
     </div>
   </section>
 </div>
