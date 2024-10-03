@@ -185,7 +185,7 @@ Mesures générales recommandées pour la prise en charge de la crise de goutte:
 - Régime hypocalorique (< 2000 kcal/j) et hypo-uricémiant
 - Colchicine, anti-inflammatoires AINS et corticoïdes en première ligne
   - À prendre dès le début des symptômes, uniquement le temps de la poussée
-  - {{%info-span%}}ex. Naproxène 750 mg puis 250 mg x 3/j (max 7 jours){{%/info-span%}} (sauf maladie cardiovasculaire)
+  - {{%info-span%}}ex. Naproxène 750 mg puis 250 mg x 3/j (max 7 jours){{%/info-span%}} (sauf maladie cardiovasculaire, AMM max 1100 mg/j)
   - Pour colchicine et corticoïdes, voir plus bas
 - Envisager un traitement de fond (voir chapitre suivant)
 

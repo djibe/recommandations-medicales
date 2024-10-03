@@ -143,10 +143,10 @@ La hernie ombilicale de l'enfant:
 
 - Très fréquente (15-20%, prématuré +++) par hernie au travers de l'orifice ombilical
 - Apparaît souvent les premières semaines de vie et augmente en volume durant 6 mois
-- Guérison spontanée sous 3 ans le plus souvent (7 ans chez l'enfant noir)
+- Guérison spontanée sous 3 ans le plus souvent (7 ans chez l'enfant à peau noire)
 - Le diagnostic est clinique avec tuméfaction aux caractères herniaires centrée sur l'ombilic
 - Pas d'examen complémentaire
-- Chirurgie après 4-5 ans (7 ans si enfant noir)
+- Chirurgie après 4-5 ans (7 ans si enfant à peau noire)
 
 {{% /collapse %}}
 {{%collapse "Hernie de la ligne blanche ou hernie épigastrique" %}}
@@ -166,7 +166,7 @@ graph TB
     hernie --> etranglement("<b>Engouement/étranglement ?</b><br>—<br>- Douleurs intenses<br>- Hernie dure, irréductible<br>- Syndrome occlusif")
       etranglement -- Non --> clinique(Examen clinique détaillé)
         clinique --> inguinale(Inguinale ou crurale) --> chirurgie(Chirurgie)
-        clinique --> ombilicale(Ombilicale<br>- Attendre les 3 ans<br>ou 7 si enfant noir) -.-> chirurgie
+        clinique --> ombilicale(Ombilicale<br>- Attendre les 3 ans<br>ou 7 si enfant à peau noire) -.-> chirurgie
         clinique --> ligneBlanche(Ligne blanche) -- Gêne quotidienne --> chirurgie
       etranglement -- Oui --> urgences(Urgence vitale)
 {{< /mermaid >}}

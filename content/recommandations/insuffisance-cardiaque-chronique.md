@@ -321,7 +321,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
 - Anti-aldostérone spironolactone ou éplérénone
 - {{< modal-btn modal-isglt2 >}}Dapagliflozine ou empagliflozine (iSGLT2){{< /modal-btn >}} 10 mg/j systématique
 - Traitements de 2^e^ ligne: symptômes persistants
-  - Ivabradine (FEVG ≤ 35% et fréquence cardiaque ≥ 70/min sous BB dose maximale ou mal tolérés), vericiguat, hydralazine et isosorbide dinitrate chez les sujets noirs, digoxine
+  - Ivabradine (FEVG ≤ 35% et fréquence cardiaque ≥ 70/min sous BB dose maximale ou mal tolérés), vericiguat, hydralazine et isosorbide dinitrate chez les sujets à peau noire, digoxine
 - Mesures hygiéno-diététiques
   - Régime sodé normal (sel < 10 g/j)
   - [Surveillance du poids x 1-2/semaine](https://www.heartfailurematters.org/wp-content/uploads/2021/02/Surveiller-vos-signes-vitaux.pdf), 3-4/semaine si {{< modal-btn score-nyha >}}NYHA 3-4{{< /modal-btn >}}

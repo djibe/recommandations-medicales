@@ -52,7 +52,7 @@ Hypertension artérielle résistante
 
 ### Grades de l'hypertension artérielle
 
-> << Un dépistage moins fréquent (*ex* tous les 3 à 5 ans) est approprié pour les adultes 18-39 ans sans surrisque d'hypertension ayant déjà eu une mesure de la pression artérielle >> (surrisque: sujet noir, surpoids, tension normale haute) - *USPTF 2021*
+> << Un dépistage moins fréquent (*ex* tous les 3 à 5 ans) est approprié pour les adultes 18-39 ans sans surrisque d'hypertension ayant déjà eu une mesure de la pression artérielle >> (surrisque: origines Africaines, surpoids, tension normale haute) - *USPTF 2021*
 {.alert .alert-info}
 
 {{< table title="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après ESH 2023 et USPTF 2021" class="table-wrap" >}}
@@ -81,11 +81,11 @@ Dépistage rapproché chez le +50 ans.
 
 1. Normotension  
   Pressions au cabinet et ambulatoires normales. Rythme de surveillance selon le tableau ci-dessus.
-2. Hypertension permanente  
+1. Hypertension permanente  
   Hypertension au cabinet et au domicile. Traitement selon tableau ci-dessus.
-3. Hypertension blouse blanche (15-25 %)  
+1. Hypertension blouse blanche (15-25 %)  
   Hypertension au cabinet et absente au domicile. RHD et dépistage annuel. Envisager un traitement en {{%modal-btn "modal-rcv"%}}risque cardiovasculaire élevé ou très élevé{{%/modal-btn%}}
-4. Hypertension masquée (10-20 %)  
+1. Hypertension masquée (10-20 %)  
   Hypertension absente au cabinet et observée au domicile. RHD et traitement selon le grade de l'hypertension.
 
 ### Stades d'hypertension artérielle
@@ -419,7 +419,7 @@ Prise en charge de l'hypertension artérielle par bithérapie au choix parmi:
 <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button>
 
 - Envisager une **monothérapie** si: +80 ans, sujet fragile, HTA < 150/95 mmHg à faible risque cardiovasculaire ou tension normale haute avec maladie cardiovasculaire
-- Chez le sujet noir: {{< modal-btn modal-tzd-ica >}}TZD + ICa{{< /modal-btn >}} aussi possible
+- Chez le sujet à peau noire: {{< modal-btn modal-tzd-ica >}}TZD + ICa{{< /modal-btn >}} aussi possible
 - L'ajout d'un IEC/ARA2 à l'anticalcique réduit la survenue d'œdèmes et l'association au thiazidique réduit la survenue d'hypokaliémie
 - Pas d'arrêt brutal: BB, ICa, diurétique, antihypertenseur central
 
@@ -550,7 +550,7 @@ graph TB
 - {{< references/college-endocrino >}}
 - {{< references/esc-diabetes >}}
 - {{< references/esc-hta >}}
-- [SFHTA. Hypertension artérielle du sujet noir. Décembre 2017. (PDF)](https://www.sfhta.eu/wp-content/uploads/2018/10/SFHTA_Fiche_technique_HTA-du-sujet-noir_Decembre-2017.pdf)
+- [SFHTA. Hypertension artérielle du sujet noir. 2017. (PDF)](https://www.sfhta.eu/wp-content/uploads/2018/10/SFHTA_Fiche_technique_HTA-du-sujet-noir_Decembre-2017.pdf)
 - [HAS, SFHTA. Prise en charge de l'hypertension artérielle de l'adulte. Fiche mémo. Septembre 2016.](https://www.has-sante.fr/jcms/c_2059286/fr/prise-en-charge-de-l-hypertension-arterielle-de-l-adulte)
 - [SFHTA. HTA et grossesse. Consensus d'experts. 2015. (PDF)](https://sfhta.eu/wp-content/uploads/2017/03/Consensus-dexperts-HTA-et-Grossesse-de-la-SFHTA-Dec.-2015.pdf)
 
