@@ -10,40 +10,36 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = "2021-02-02T08:52:00+02:00"
 publishdate = "2021-03-10"
-lastmod = "2022-11-08"
+lastmod = "2024-10-02"
 specialites = ["medecine du sommeil", "neurologie"]
-annees = "2019"
-sources = ["SFRMS"]
+annees = "2024"
+sources = ["AASM", "SFRMS"]
 tags = ["fatigue", "ferritine", "neuropathie", "prurit"]
-english = ["Restless legs syndrome"]
+english = ["Restless legs syndrome (RLS)"]
 sctid = "32914008"
 icd10 = ["G25.8"]
 image = true
 imagePNG = true
 imageSrc = "Comparaison entre le sommeil d'une personne atteinte du syndrome des jambes sans repos (en rouge) et celui d'une personne en bonne santé (en bleu). Markus Mueller derivative, CC BY-SA 3.0, via Wikimedia Commons"
 flowchart = true
-todo = "https://pubmed.ncbi.nlm.nih.gov/19195928/"
 +++
 
 {{%article-summary%}}
 
-- 5 critères diagnostiques du syndrome des jambes sans repos (SJSR, examen neurologique +++)
-- Dissociation temps de sommeil-somnolence
-- Rechercher tous les diagnostics différentiels
+- Le syndrome des jambes sans repos (SJSR) est une maladie neurologique entraînant un besoin impérieux de bouger les jambes, prédominant chez les femmes et perturbant fortement le sommeil
+- Les critères diagnostiques du syndrome des jambes sans repos sont précis: l'examen neurologique doit être rigoureux ainsi que l'élimination des diagnostics différentiels
 - Mesurer le retentissement du syndrome des jambes sans repos: {{< modal-btn modal-score-irls >}}score IRLS{{< /modal-btn >}}, qualité de vie (sommeil, vie sociale, humeur)
-- Prise en charge du syndrome des jambes sans repos: ferritinémie cible > 75 ng/mL et conseils d'hygiène de vie
-- Traitement des jambes sans repos par opioïde palier 2 à la demande en cas de syndrome léger
-- Avis du spécialiste pour les formes modérées à très sévères des jambes sans repos ou de doute diagnostique
+- La prise en charge du syndrome des jambes sans repos commence par l'obtention d'une ferritinémie supérieure à 75 ng/mL et des conseils d'hygiène de vie
+- Le traitement des jambes sans repos d'intensité légère est possible par opioïde palier 2 à la demande
+- Adresser au spécialiste (médecin du sommeil, neurologue) les formes modérées à très sévères ou en cas de doute diagnostique
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-Syndrome des jambes sans repos (SJSR)
-: ou Maladie de Willis-Ekbom
-: Maladie chronique neurologique sensorimotrice entraînant un besoin impérieux de bouger les jambes (voire bras, hanche) selon l'occupation et le moment de la journée.  
-Il atteint préférentiellement les femmes et altère la qualité de vie. Le sous-diagnostic est majeur.  
-Le traitement est symptomatique et vise à réduire la plainte sans éradiquer les symptômes (épargne thérapeutique).
-: L'origine de la maladie est mal comprise mais comporte une carence intra-cérébrale en *fer* (insuffisance de transport par les barrières hémato-encéphalique et neuronale) et des troubles du système *dopaminergique*.
+Syndrome des jambes sans repos (SJSR ou Maladie de Willis-Ekbom)
+: Maladie chronique neurologique sensorimotrice entraînant un besoin impérieux de bouger les jambes (voire bras, hanche) selon l'occupation et le moment de la journée. Il atteint préférentiellement les femmes et altère la qualité de vie. Le sous-diagnostic est majeur.
+: Le traitement est symptomatique et vise à réduire la plainte sans éradiquer les symptômes (épargne thérapeutique).
+: L'origine de la maladie est mal comprise mais comporte une carence intra-cérébrale en fer (insuffisance de transport par les barrières hémato-encéphalique et neuronale) et des troubles du système dopaminergique.
 
 Forme chronique-persistante
 : En l'absence de traitement, survenue moyenne des symptômes au moins 2 fois par semaine durant l'année précédente.
@@ -65,8 +61,7 @@ ET au moins 5 épisodes sur la vie entière.
 
 Mouvements périodiques des membres (MPM)
 : Mouvements involontaires de dorsiflexion des chevilles, orteils, flexion partielle de genou et parfois de hanche.  
-Ils surviennent en veille calme, avant le sommeil ou pendant le sommeil. Prédominants en début de nuit, ils s'estompent sur la nuit.  
-Ils sont parfois détectés par le conjoint.
+Ils surviennent en veille calme, avant le sommeil ou pendant le sommeil. Prédominants en début de nuit, ils s'estompent sur la nuit. Ils sont parfois détectés par le conjoint.
 : La survenue à l'éveil est spécifique, décrite comme des mouvements involontaires des jambes: << Mes jambes sautent/bougent toutes seules >>.
 : 30% de la population en a, le seuil diagnostique est spécifié à 15 MPM/h.
 
@@ -87,6 +82,9 @@ Tremblement orthostatique primaire
 - 10% des personnes avec des troubles du sommeil ont un syndrome des jambes sans repos
 
 ### Abréviations
+
+AASM
+: {{%lang%}}American Academy of Sleep Medicine{{%/lang%}}
 
 CST
 : coefficient de saturation de la transferrine
@@ -192,8 +190,9 @@ Intérêt de laisser le patient décrire ses symptômes, ou l'enfant avec ses mo
   - Âge de début
   - Évolution des symptômes dans le temps
   - Femme: survenue au cours d'une grossesse
+  - Heures de coucher, de lever, horaire des symptômes
 - Réponse au traitement dopaminergique  
-  {{%class%}}Réponse initiale chez 3/4 des patients.{{%/class%}}
+  Réponse initiale chez 3/4 des patients.
 
 #### Symptômes du syndrome des jambes sans repos
 
@@ -216,13 +215,15 @@ Signes et symptômes du syndrome des jambes sans repos à rechercher:
   - Mouvement, frictions, eau froide
   - Obligés de se lever, marcher, étirer les jambes pour amélioration partielle ou totale, temporaire
 - Facteurs aggravants  
-  Attention diminuée (télévision, passager en transport).
+  Apnées du sommeil, diminution de la concentration (télévision, passager en transport), alcool, café, antihistaminiques, sérotoninergiques, anti-dopaminergiques.
 - Fréquence
 - Horaires de survenue
   - Heures d'apparition et de disparition des symptômes
   - Principalement le soir (pic minuit - 1h), minimum 9-11h du matin
 - Fréquence de survenue  
   Nombre d'épisodes hebdomadaires, mensuels (forme chronique persistante ou intermittente si < 2 ép./semaine).
+
+> En cas d'interrogatoire difficile, proposer à l'entourage de filmer les épisodes.
 
 #### Retentissement de la maladie
 
@@ -236,7 +237,7 @@ Signes et symptômes du syndrome des jambes sans repos à rechercher:
   Absente (légère à modérée) malgré le temps de sommeil moindre = **caractéristique du SJSR**.
 - Qualité de vie
 - Activités quotidiennes
-- Troubles de l'attention, dépression, anxiété TODO:  
+- Troubles de l'attention, dépression, anxiété  
   Principaux marqueurs de l'insomnie.
 - Conséquences sociales, professionnelles/scolaires
 
@@ -249,19 +250,12 @@ Doivent faire reconsidérer le diagnostic:
 Une somnolence sévère doit faire rechercher une autre cause de troubles du sommeil.
 {{%/warning%}}
 
-Lister avec le patient:
-
-- Les conditions qui améliorent et aggravent les symptômes.  
-- Schématiser une journée type avec les horaires des symptômes, heure de coucher et lever, sommeil.
-
-Interrogatoire difficile: Proposer à l'entourage de filmer les épisodes.
-
 ### Examen clinique
 
-- Examen rhumatologique, phlébologique, dermatologique
+- Examen rhumatologique, phlébologique et dermatologique
 - Examen neurologique  
   Aucun déficit sensitivo-moteur des membres inférieurs (chaud/froid, douleur, filament).  
-  Possibles: sensibilité anormale/augmentée à la piqûre mousse et vibration, hyperalgésie à la piqûre pointue.
+  Signes possibles: sensibilité anormale/augmentée à la piqûre mousse et vibration, hyperalgésie à la piqûre pointue.
 
 {{% /collapse %}}
 {{%collapse "Évaluation de la sévérité" %}}
@@ -321,7 +315,7 @@ Diagnostics alternatifs à étayer devant une suspicion de syndrome des jambes s
   - {{%lang%}}Painful legs and moving toes{{%/lang%}}  
     Syndrome des jambes douloureuses avec mouvements des orteils. Mouvements involontaires des orteils sans impériosité de bouger les jambes.
 - Fibromyalgie  
-  {{%class%}}Douleurs diffuses musculaires/articulaires sans amélioration au mouvement ou aggravation au repos/soirée. ENMG.{{%/class%}}
+  Douleurs diffuses musculaires/articulaires sans amélioration au mouvement ou aggravation au repos/soirée. EMG.
 - Enfant
   - Douleurs de croissance
   - TDAH
@@ -329,19 +323,19 @@ Diagnostics alternatifs à étayer devant une suspicion de syndrome des jambes s
 {{% /collapse %}}
 {{%collapse "Syndrome des jambes sans repos en pédiatrie" %}}
 
-- Très fréquent en TDAH
+- Très fréquent en cas de TDAH
 - Antécédent parental dans 80% des cas
 - Symptômes diurnes à type de troubles attentionnels, hyperactivité ou instabilité motrice
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan devant un syndrome des jambes sans repos
+### Bilan de la suspicion de syndrome des jambes sans repos
 
 {{%info%}}
 
 - NFS
-- Ferritinémie (cible > 75 ng/mL), CRP
+- Ferritinémie matinale (cible > 75 ng/mL, 50 chez l'enfant), CRP
 - Créatininémie
 - Glycémie à jeun
 {{%/info%}}
@@ -414,10 +408,9 @@ Si échec: fer saccharose IV (Venofer®, préféré par Prescrire®) en hôpital
 
 ### Traitement médicamenteux à la demande: antalgiques de palier 2
 
-Prise en charge par antalgique palier 2 à la demande dans les SJSR avec ferritinémie à +75 ng/mL et persistances de symptômes légers ({{< modal-btn modal-score-irls >}}score IRLS{{< /modal-btn >}} ≤ 10).
+Prise en charge par antalgique palier 2 à la demande des syndromes des jambes sans repos avec ferritinémie supérieure à 75 ng/mL et persistance de symptômes légers ({{< modal-btn modal-score-irls >}}score IRLS{{< /modal-btn >}} ≤ 10).
 
-Prise à la demande ou en période de recrudescence des symptômes.  
-Prendre le médicament antalgique 1 à 2 heures avant l'apparition des symptômes.
+Prise à la demande ou en période de recrudescence des symptômes. Prendre le médicament antalgique 1 à 2 heures avant l'apparition des symptômes.
 
 Trouver la posologie minimale efficace à base de:
 
@@ -426,29 +419,28 @@ Trouver la posologie minimale efficace à base de:
 - Codéine
   - Débuter à 30 mg: paracétamol codéiné 500/30 mg
   - Augmentation si besoin jusqu'à 60 mg voire plus de codéine
+  - Seule la codéine peut être utilisée pendant la grossesse en accord avec l'obstétricien
 
-Adresser au spécialiste en cas de persistance de symptômes altérant la qualité de vie.
-
-Seule la codéine peut être utilisée pendant la grossesse en accord avec l'obstétricien.
+Adresser au spécialiste en cas de persistance de symptômes altérant la **qualité de vie**.
 
 ### Pour en savoir plus: Traitements médicamenteux spécifiques du SJSR
 
-La prescription de ces traitements symptomatiques nécessite une prise en charge spécialisée.  
-Monothérapie en première intention après correction d'une carence martiale pour les formes sévères à très sévères ({{< modal-btn modal-score-irls >}}IRLS{{< /modal-btn >}} ≥ 21).  
-Suivi au moins annuel.
+La prescription de ces traitements symptomatiques nécessite une prise en charge spécialisée. Il s'agit d'une monothérapie en première intention après correction d'une carence martiale pour les formes sévères à très sévères ({{< modal-btn modal-score-irls >}}IRLS{{< /modal-btn >}} ≥ 21). Le suivi est **au moins annuel**.
 
 1. Agonistes dopaminergiques
-    - Ropinirole, pramipexole, rotigotine (Neupro®).
-    - Non remboursés pour le SJSR.
-    - Vérifier systématiquement la survenue d'un syndrome de dysrégulation dopaminergique: **contrôle des impulsions**.
+    - L'AASM suggère de ne pas utiliser les agonistes dopaminergiques: pramipexole, rotigotine (Neupro®), ropinirole
+    - Non remboursés pour le SJSR
+    - Vérifier systématiquement la survenue d'un syndrome de dysrégulation dopaminergique: **contrôle des impulsions**
 2. Antiépileptiques, dits ligands α2ẟ-1  
   Gabapentine et prégabaline (ordonnance sécurisée).
 3. Opiacés: palier 2 ou 3
+4. Dipyridamole (*AASM 2024*)
+5. Stimulation du nerf fibulaire (*AASM 2024*)
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant un syndrome des jambes sans repos" "show" %}}
 
-{{< mermaid title="Prise en charge d'une suspicion de syndrome des jambes sans repos et traitement médicamenteux. Dr JB Fron d'après SFRMS 2019" >}}
+{{< mermaid title="Prise en charge d'une suspicion de syndrome des jambes sans repos et traitement médicamenteux. Dr JB Fron d'après AASM 2024 et SFRMS" >}}
 graph TB
   suspSJSR[Suspicion de SJSR]
   style suspSJSR stroke:#4150f5, stroke-width:1px
@@ -473,6 +465,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Winkelman JW, et al. Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2024.](https://jcsm.aasm.org/doi/10.5664/jcsm.11390)
 - Prescrire Redaction. Syndrome des jambes sans repos. Prescrire. Rev Prescrire. 2022.
 - [Chenini S et al. Depressive Symptoms and Suicidal Thoughts in Restless Legs Syndrome. Mov Disord. 2022.](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28903)
 - [Chenini S et al; SFRMS. Syndrome des jambes sans repos pharmaco-résistant. Médecine du Sommeil. 2019.](https://doi.org/10.1016/j.msom.2018.10.004)
@@ -481,11 +474,8 @@ graph TB
 - [Allen RP et al. Restless legs syndrome/Willis-Ekbom disease diagnostic criteria: updated International Restless Legs Syndrome Study Group (IRLSSG) consensus criteria--history, rationale, description, and significance. Sleep Med. 2014. (payant)](https://www.sciencedirect.com/science/article/abs/pii/S1389945714001907)
 - [Silber MH et al; Medical Advisory Board of the Willis-Ekbom Disease Foundation. Willis-Ekbom Disease Foundation revised consensus statement on the management of restless legs syndrome. Mayo Clin Proc. 2013.](https://doi.org/10.1016/j.mayocp.2013.06.016)
 - [Aurora RN et al. Update to the AASM clinical practice guideline: “the treatment of restless legs syndrome and periodic limb movement disorder in adults—an update for 2012: practice parameters with an evidence-based systematic review and meta-analyses.” Sleep. 2012.](https://aasm.org/clinical-resources/practice-standards/practice-guidelines/)
+- [Garcia-Borreguero D et al. European guidelines on management of restless legs syndrome: report of a joint task force by the European Federation of Neurological Societies, the European Neurological Society and the European Sleep Research Society. Eur J Neurol. 2012.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2012.03853.x)
 - [Allen RP et al. Physician-diagnosed restless legs syndrome in a large sample of primary medical care patients in western Europe: Prevalence and characteristics. Sleep Med. 2010.](https://pubmed.ncbi.nlm.nih.gov/19464949/)
-
-### Bibliographie en attente
-
-[Garcia-Borreguero D et al. European guidelines on management of restless legs syndrome: report of a joint task force by the European Federation of Neurological Societies, the European Neurological Society and the European Sleep Research Society. Eur J Neurol. 2012.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2012.03853.x)
 
 {{%/sources%}}
 {{% modal title="Échelle internationale de sévérité du syndrome des jambes sans repos (IRLS)" id="modal-score-irls" size="lg"%}}
