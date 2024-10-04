@@ -85,7 +85,7 @@ DXA
 : ostéodensitométrie par absorptiométrie biphotonique à rayons X
 
 ESF
-: extrémité supérieure du fémur (dont col du fémur ou trochanter)
+: extrémité supérieure du fémur (dont col du fémur ou trochanters)
 
 FESF
 : fracture de l'extrémité supérieure du fémur

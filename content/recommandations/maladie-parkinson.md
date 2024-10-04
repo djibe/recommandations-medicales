@@ -115,7 +115,7 @@ Autres diagnostics à étayer devant un syndrome parkinsonien:
 - Sex-ratio H/F: 1,5
 - Sur-représentation des agriculteurs (+13 %), notamment viticulteurs
 
-{{< card-link-external title="Dépenses directes liées à la maladie de Parkinson" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20neurologiques%20ou%20d%C3%A9g%C3%A9n%C3%A9ratives&refine.patho_niv2=Maladie%20de%20Parkinson">}}
+{{< card-link-external title="Dépenses directes liées à la maladie de Parkinson" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20neurologiques&refine.patho_niv2=Maladie%20de%20Parkinson">}}
 
 ### Abréviations
 
