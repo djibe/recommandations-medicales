@@ -20,6 +20,7 @@ image = true
 imageSrc = "Illustration de la grossesse par stories / Freepik"
 todo = "évaluer les apports calcium, FCV, dépistage DG, électrophorèse Hb, fiche ANSM vaccins, grossesse altitude, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
 chart = true
+modele = true
 +++
 
 {{%article-summary%}}
@@ -139,7 +140,7 @@ Malgré les fermetures, **43 %** des maternités ont réalisé en 2020 **moins d
 | 9e mois<br>37-42 SA ||||
 {{< /table >}}
 
-> -- *HAS 2016*, *HAS 2009*, *USPTF 2023*, *Calendrier vaccinal 2024* (Abrysvo d'après *HAS 2024*)
+> -- *HAS 2016*, *HAS 2009*, *USPTF 2023*, *Calendrier vaccinal 2024*
 
 {{% /collapse %}}
 {{%collapse "Médicaments et vaccins pendant la grossesse" %}}
@@ -154,7 +155,7 @@ Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{< re
 - dTcaPolio à chaque grossesse entre 20 et 36 SA (BoostrixTetra, Repevax)  
   Délai minimal entre 2 doses de 4 semaines.
 - Avant ou en début de période épidémique: [grippe]({{< relref "grippe.md" >}})
-- Anti-VRS (Abrysvo) de septembre à janvier entre 32 et 36 SA (*HAS 2024*)
+- Anti-VRS (Abrysvo) de septembre à janvier entre 32 et 36 SA
 
 > -- {{< references/calendrier-vaccinal >}} et *Vaccination Info Service*
 
@@ -295,6 +296,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 - [HAS. Grossesse, accouchement et suivi postnatal. Panorama.](https://www.has-sante.fr/jcms/p_3286443/fr/grossesse-accouchement-et-suivi-postnatal)
 - [Service-Public. A-t-on droit à des absences liées à la grossesse dans la fonction publique ? 24/11/2023.](https://www.service-public.fr/particuliers/vosdroits/F34536)
 - [HAS. Projet de grossesse : informations, messages de prévention, examens à proposer. 2009.](https://www.has-sante.fr/jcms/c_1360649/fr/projet-de-grossesse-informations-messages-de-prevention-examens-a-proposer)
+- [HAS. Grossesse, accouchement et suivi postnatal. Panorama.](https://www.has-sante.fr/jcms/p_3286443/fr/grossesse-accouchement-et-suivi-postnatal)
 
 {{%/sources%}}
 {{% modal title="Liste facteurs de risque d'hypothyroïdie" id="modal-fdr-hypothyroidie"%}}
@@ -302,3 +304,23 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 {{< clinique/facteur-risque-hypothyroidie >}}
 
 {{% /modal %}}
+{{% modele %}}
+
+**Bilan préconceptionnel ou de début de grossesse**
+
+- NFS
+- Ferritine
+- ± {{%tooltip "1re grossesse sauf carte de groupe"%}}Groupe ABO Rhésus{{%/tooltip%}}
+- ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}}
+- Sérologies {{%tooltip "Sauf vaccination double dose documentée"%}}rubéole{{%/tooltip%}}, toxoplasmose, syphilis, VIH, VHC, {{%tooltip "AgHBs sans vaccination"%}}anti-HBs{{%/tooltip%}}
+- ± {{%tooltip "≥ 35 ans, surpoids, ATCD DG/macrosomie ou fam DT2"%}}glycémie à jeun{{%/tooltip%}}
+- ± TSH si symptômes aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et facteurs de risque{{< /modal-btn >}}
+- Rattrapage du frottis cervico-vaginal
+
+**Ordonnance de la première consultation**
+
+- Acide folique 0,4 mg/j jusqu'à 8 SA
+- Échographie du premier trimestre (de 11 à 13 SA + 6 jours)
+- Dépistage de la trisomie T21 après l'échographie (βhCG libre + PAPP-A)
+
+{{% /modele %}}

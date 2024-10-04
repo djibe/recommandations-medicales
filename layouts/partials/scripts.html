@@ -106,10 +106,12 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- with .Params.flowchart }}
 <script type="module" async crossorigin>
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.9.2/+esm';
+  // import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.3/+esm';
   const MermaidConfig = {
     // logLevel: 1, // debug
     securityLevel: 'loose',
     theme: 'base',
+    // fontFamily: 'Roboto, sans-serif',
     themeVariables: {
       defaultLinkColor: '#4150f5',
       fontFamily: 'Roboto, sans-serif',
@@ -126,7 +128,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
       htmlLabels: true,
       nodeSpacing: 30,
       rankSpacing: 40,
-      // padding: 5,
+      // padding: 0,
     }
   }
   mermaid.initialize(MermaidConfig);

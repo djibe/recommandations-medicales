@@ -108,7 +108,7 @@ L'accident vasculaire cérébral (AVC) est un enjeu majeur de santé publique:
 
 On compte également 30.000 accidents ischémiques transitoires chaque année.
 
-{{< card-link-external title="Dépenses directes liées à l'accident vasculaire cérébral" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20cardio-neurovasculaires&refine.patho_niv2=Accident%20vasculaire%20c%C3%A9r%C3%A9bral">}}
+{{< card-link-external title="Dépenses directes liées à l'accident vasculaire cérébral" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20cardioneurovasculaires&refine.patho_niv2=Accident%20vasculaire%20c%C3%A9r%C3%A9bral">}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -118,13 +118,13 @@ On compte également 30.000 accidents ischémiques transitoires chaque année.
 
 1. Déficit moteur (> 50%)  
   Faiblesse ou engourdissement soudain, uni ou bilatéral de la face, du bras ou de la jambe.
-2. Trouble visuel (28%)  
+1. Trouble visuel (28%)  
   Diminution ou perte de vision uni ou bilatérale.
-3. Dysarthrie/aphasie (> 42%)  
+1. Dysarthrie/aphasie (> 42%)  
   Difficulté de langage ou de la compréhension.
-4. Céphalées  
+1. Céphalées  
   Mal de tête sévère, soudain ou inhabituel sans cause apparente (saignement intra-crânien).
-5. Troubles de l'équilibre (17%)  
+1. Troubles de l'équilibre (17%)  
   Instabilité à la marche ou chutes inexpliquées.
 
 Et déficit sensitif brutal (35%)

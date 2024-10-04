@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CAZANAVE (CMIT)"
 date = "2021-01-16T22:06:00+02:00"
 publishdate = "2021-01-16"
-lastmod = "2022-05-30"
+lastmod = "2024-10-03"
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["CNS", "HAS", "MinSanté"]
@@ -24,33 +24,30 @@ todo = "Le dépistage VHB - VHC - VIH doit être combiné (*AFEF*), relecture CN
 
 {{%article-summary%}}
 
-- Dépister largement (gratuit en labo sans ordonnance depuis 2022 ou en Cegidd)
-- Répéter le dépistage chez les populations à risque, conseils de prévention et transmission
-- PCR + sérologie VIH (répéter à 1 mois) devant: fièvre ou fatigue inexpliquées, exanthème fébrile de l'adulte, zona de l'adulte jeune ...
-- Dépistages de comorbidités et vaccinations spécifiques
-- Observance et suivi spécialisé
-- Maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
-- Aide à la consultation: [VIHclic](https://vihclic.fr/)
+- Dépister le VIH largement (gratuit au Laboratoire sans ordonnance depuis 2022 ou en Cegidd) et répéter le dépistage chez les populations à risque, conseils de prévention et transmission
+- Bilan avec RT-PCR VIH et sérologie VIH (répéter à 1 mois) en cas de: fièvre ou fatigue inexpliquées, exanthème fébrile de l'adulte, zona de l'adulte jeune ...
+- Le suivi par l'infectiologue est systématique et le traitement antirétroviral est indiqué pour toute personne infectée vivant avec le VIH.
+- Le médecin généraliste s'assure de l'observance, les dépistages des comorbidités et vaccinations spécifiques ainsi que la qualité de vie
+- Le VIH est une maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}) prise en charge à 100%
+- Aide à la consultation du généraliste: [VIHclic](https://vihclic.fr)
 
-[Chapitre sur la PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}}): Toute personne exposée au VIH est éligible à la PrEP (gratuite), prescriptible par tout médecin
+Toute personne exposée au VIH est éligible à la [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}}) (gratuite), prescriptible par tout médecin.
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Virus de l'Immunodéficience Humaine (VIH)
-: Rétrovirus humain sexuellement transmissible qui infecte et prend pour hôte chronique les cellules présentant un récepteur CD4 en surface, immunitaires (lymphocytes T CD4+, monocytes/macrophages) ou du système nerveux central (cellules dendritiques, de Langerhans, gliales).  
-Réponse immunitaire initiale avec contrôle de la réplication virale. Après plusieurs années, le système immunitaire est amoindri avec infections opportunistes, le *stade SIDA*.  
-Le VIH a la capacité de rentrer dans le noyau cellulaire et de s'intégrer dans le génome.
+: Rétrovirus humain sexuellement transmissible qui infecte et prend pour hôte chronique les cellules présentant un récepteur CD4 en surface, immunitaires (lymphocytes T CD4+, monocytes/macrophages) ou du système nerveux central (cellules dendritiques, de Langerhans, gliales).
+: Le système immunitaire déclenche une réponse immunitaire initiale avec contrôle de la réplication virale. Après plusieurs années, il est amoindri avec la survenue d'infections opportunistes, c'est le **stade SIDA**. Le VIH a la capacité de rentrer dans le noyau cellulaire et de s'intégrer dans le génome.
 : Il est transmis par les fluides biologiques: sang, sperme et sécrétions vaginales.
 
 Syndrome d'immunodéficience acquise (SIDA)
-: Dernier stade de l'infection par le VIH avec disparition des cellules immunitaires CD4+ donnant lieu à des infections opportunistes mortelles, souvent lorsque le taux CD4 est < 200/mm³.  
-Délai contamination - Sida d'environ **10 ans**.
+: Dernier stade de l'infection par le VIH avec disparition des cellules immunitaires CD4+ donnant lieu à des infections opportunistes mortelles, souvent lorsque le taux CD4 est < 200/mm³. Le délai contamination - Sida est d'environ **10 ans** sans traitement antirétroviral.
 
 ### Abréviations
 
 ARV
-: traitement antirétroviral
+: antirétroviral
 
 HSH
 : homme ayant des rapports sexuels avec des hommes
@@ -85,7 +82,7 @@ VIH
   45% des nouvelles infections détectées en 2013.  
   {{%class%}}L'incidence du VIH est est 200x celle observée dans la population comparable en métropole.{{%/class%}}
 - Usagers de drogues par injection (UDI)  
-  Incidence x20 par rapport à la population.
+  Incidence multipliée par 20.
 - Personne originaire d'Afrique subsaharienne et Caraïbes  
   Respectivement 23% et 16% des infections détectées concernaient des femmes (incidence x70) et hommes hétérosexuels (incidence x30) nés hors de France et principalement originaires d'Afrique subsaharienne (données 2013).
 
@@ -93,11 +90,11 @@ VIH
 
 #### Le VIH en France
 
-- 165.000 personnes infectées
+- 166.000 personnes infectées
 - **Non diagnostiquées:** 24 800 personnes (2013)  
   70% d'hommes (2x moins de dépistage chez les hommes).  
   +50% vivraient dans les 3 régions à risque (voir plus bas).
-- **Incidence:** 6200 nouveaux cas par an (25-49 ans surtout)
+- **Incidence:** 5000 nouveaux cas par an (25-49 ans surtout)
 - **Stade de la maladie au diagnostic:** 43% au stade tardif  
   {{%class%}}SIDA ou taux de CD4 ≤ 200/mm³.{{%/class%}}  
   Surtout chez UDI (55%) et hétérosexuels (né en France ou non).  
@@ -106,7 +103,7 @@ VIH
   - Métropole: Ile-de-France et PACA surtout, puis Rhône-Alpes
   - DROM: très haute incidence et malades non diagnostiqués en Guyane, Guadeloupe et Martinique
 
-{{< card-link-external title="Dépenses liées au VIH" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20inflammatoires%20ou%20rares%20ou%20VIH%20ou%20SIDA&refine.patho_niv2=VIH%20ou%20SIDA">}}
+{{< card-link-external title="Dépenses liées au VIH" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20inflammatoires%20ou%20rares%20ou%20infection%20VIH&refine.patho_niv2=Infection%20par%20le%20VIH">}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -114,7 +111,7 @@ VIH
 ### Clinique de la primo-infection VIH
 
 {{%warning%}}
-Proposer PCR + sérologie VIH systématiquement devant:
+Proposer PCR VIH et sérologie VIH systématiquement en cas de:
 
 - Tableau fébrile inexpliqué
 - AEG ou fatigue inexpliquées
@@ -123,13 +120,13 @@ Proposer PCR + sérologie VIH systématiquement devant:
 Répéter le dépistage à 1 mois.
 {{%/warning%}}
 
-Signes cliniques aspécifiques le plus souvent, présents dans 3/4 des cas avec guérison spontanée en 1-3 semaines:
+Les signes cliniques de la primo-infection VIH sont aspécifiques, présents dans 3/4 des cas avec guérison spontanée en 1 à 3 semaines. Ils surviennent 10 à 15 jours après la contamination (max 5-30 jours):
 
-- Fièvre, syndrome pseudo-grippal prolongé > 7 jours (90%)
+- **Fièvre, syndrome pseudo-grippal prolongé** (> 7 jours, 90%)
 - Asthénie
 - Polyadénopathies fermes et indolores (75%)
 - Exanthème maculopapuleux (70%)  
-  Prédomine au tronc, racine des membres, cou et parfois visage. Prurit rare.
+  Prédomine au tronc, racine des membres, cou et parfois visage. [Prurit]({{< relref "prurit.md" >}}) rare.
 - Pharyngite
 - Énanthème et ulcérations muqueuses
 - [Candidose buccale]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
@@ -172,34 +169,35 @@ Signes cliniques mineurs:
 {{% /collapse %}}
 {{%collapse "Stade Sida" %}}
 
-Un patient ayant eu une infection opportuniste du Sida restera au stade Sida (quelque soit le taux de CD4 ultérieur).  
-Les infections classiques se surajoutent à celles du Sida.
+Un patient ayant eu une infection opportuniste du Sida restera au stade Sida (quelque soit le taux de CD4 ultérieur). Les infections classiques se surajoutent à celles du Sida.
 
-Pathologies selon le taux de CD4 (/mm³):
+Pathologies opportunistes selon le taux de CD4 (/mm³):
 
 - de 500 à 200
-  - [Candidose buccale]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
-  - Lymphome non hodgkinien
-  - Maladie de Kaposi
+  - [Candidose orale]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
   - [Tuberculose]({{< relref "tuberculose.md" >}})
+  - Maladie de Kaposi (détermine Sida)
+  - [Lymphome non hodgkinien]({{< relref "lymphomes-non-hodgkiniens.md" >}}) (détermine Sida)
 - de 200 à 100
   - Idem ci-dessus
-  - Candidose œsophagienne
+  - [Candidose œsophagienne]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
   - Pneumocystose
   - Toxoplasmose cérébrale
 - < 100
   - Idem ci-dessus
   - CMV
   - Cryptococcose neuroméningée
-  - Leucoencéphalopathie multifocale progressive à virus JC
   - Mycobactéries atypiques
+  - Leucoencéphalopathie multifocale progressive à virus JC
+
+Infections habituelles: pneumonies bactériennes, Salmonella non typhiques.
 
 {{% /collapse %}}
-{{%collapse "VIH - dépistage" %}}
+{{%collapse "Dépistage du VIH" %}}
 
-### Chez qui dépister le VIH ?
+### Indications au dépistage du VIH
 
-Le dépistage doit être large et pour les personnes à risque, systématique et répété à long terme.
+Le dépistage doit être large et pour les personnes à risque, **systématique et répété** à long terme.
 
 - Tout adulte de 15 à 70 ans au moins 1 fois  
   D'autant plus chez les hommes et régions à risque (IDF, PACA, DROM).
@@ -208,7 +206,7 @@ Le dépistage doit être large et pour les personnes à risque, systématique et
   - [Hépatite B]({{< relref "hepatite-b.md" >}})
   - [Hépatite C]({{< relref "hepatite-c.md">}})
   - Diagnostic de [tuberculose]({{< relref "tuberculose.md" >}})
-  - Grossesse ou projet de grossesse
+  - [Grossesse]({{< relref "grossesse.md" >}}) ou projet de grossesse
   - Viol
   - Prescription de [contraception]({{< relref "contraception.md" >}})
   - [IVG]({{< relref "interruption-volontaire-grossesse.md" >}})
@@ -223,7 +221,7 @@ Le dépistage doit être large et pour les personnes à risque, systématique et
 - Accident d'exposition au sang
 - Exposition sexuelle à risque
 
-Proposer de coupler au dépistage les sérologies VHB et VHC
+Proposer de coupler au dépistage les sérologies hépatites B et C.
 {.alert .alert-info}
 
 ### Comment dépister le VIH ?
@@ -236,9 +234,9 @@ Le dépistage doit être accompagné d'une information claire:
 
 Plusieurs méthodes de dépistage sont accessibles afin de s'adapter aux populations:
 
-- Sérologie VIH
+- Sérologie VIH (VIH1, VIH2 et antigène p24)
 - TROD/autotest
-- En urgence: RT-PCR VIH
+- En urgence: PCR VIH
 
 Un test positif nécessite un 2^e^ prélèvement par sérologie pour confirmation.  
 Annonce faite par le médecin qui a prescrit le test au cours d'une consultation dédiée.
@@ -253,7 +251,7 @@ Annonce faite par le médecin qui a prescrit le test au cours d'une consultation
 - Laboratoire d'analyses médicales (gratuit sans ordonnance pour les assurés, sinon Cegidd)
 
 {{% /collapse %}}
-{{%collapse "Dépistage des cancers et IST au cours du VIH" %}}
+{{%collapse "Dépistage des IST et cancers au cours du VIH" %}}
 
 ### Dépistage des infections sexuellement transmissibles
 
@@ -265,13 +263,13 @@ Rythme de dépistage des [IST](/tags/ist/) au cours du VIH:
 
 ### Dépistage des cancers du côlon et du sein
 
-Dépistage identique au dépistage généralisé des [cancers du sein]({{< relref "cancer-sein.md" >}}) et du colon.
+Dépistage identique au dépistage généralisé des [cancers du sein]({{< relref "cancer-sein.md" >}}) et du [colon]({{< relref "cancer-colorectal.md" >}}).
 
 ### Dépistage du cancer du col de l'utérus
 
-Tous les 3 ans comme en population générale.  
-CD4+ < 200/mm³: frottis annuel.  
-La survenue de ce cancer définit l'entrée au stade Sida.
+Cytologie tous les 3 ans.
+
+À partir de CD4+ < 200/mm³: frottis annuel. La survenue de ce cancer définit l'entrée au stade Sida.
 
 ### Dépistage des cancers cutanéo-muqueux
 
@@ -302,14 +300,14 @@ En cas d'exposition pendant au moins 1 an à un agent cancérigène vésical (ex
 
 ### Dépistage du lymphome
 
-Palpation des aires ganglionnaires au moins 1/an.
+Palpation des aires ganglionnaires au moins annuelle.
 
 {{% /collapse %}}
 {{%collapse "Vaccinations spécifiques au cours du VIH" %}}
 
 - [Mise à jour du calendrier vaccinal]({{< relref "vaccination.md" >}})
-  - Rappel DTP tous les 10 ans
-  - Méningocoque C jusqu'à 24 ans
+  - Rappel dTPolio tous les 10 ans
+  - ± Vaccins HSH
 - Grippe annuelle
 - {{< modal-btn modal-vaccin-hepatite-a >}}Hépatite A{{< /modal-btn >}}
   - Indications: co-infection VHB ou VHC, hépatopathie chronique, alcool, voyage zone endémique
@@ -324,7 +322,12 @@ Palpation des aires ganglionnaires au moins 1/an.
   Enfants de 11 à 19 ans vivant avec le VIH par le schéma d'injection en 3 doses: Gardasil 9® à M0, M2 et M6.
 - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
 
-### Vaccinations lorsque CD4 > 200/mm³
+### Vaccins vivants et VIH
+
+Contre-indication au BCG quel que soit le taux de lymphocytes CD4.
+{.alert .alert-warning}
+
+Les vaccins vivants sont possibles lorsque les lymphocytes CD4 sont supérieurs à 200/mm³.
 
 - ROR  
   Contrôle sérologique préalable ± ßHCG. 2 injections à M0-M2.
@@ -333,22 +336,19 @@ Palpation des aires ganglionnaires au moins 1/an.
 - [Fièvre jaune]({{< relref "fievre-jaune.md" >}})  
   Séjour en Guyane.
 
-Contre-indication au BCG quel que soit le taux de lymphocytes CD4.
-{.alert .alert-warning}
-
-> Sources *Calendrier vaccinal* et *HAS 2018*
+> -- *Calendrier vaccinal* et *HAS 2018*
 
 {{% /collapse %}}
 {{%collapse "Suivi clinique du patient sous antirétroviral" %}}
 
-**Objectif majeur:** maintien de la charge virale indétectable par adhésion au traitement (et CD4 > 500).  
-Toute PVVIH a une indication de traitement antirétroviral à vie.  
-Aucune guérison n'est attendue.
+Toute PVVIH a une indication de traitement antirétroviral à vie. Aucune guérison n'est attendue.
+{.alert .alert-info}
+
+**Objectif majeur:** maintien de la charge virale indétectable par adhésion au traitement (< 50 copies/mL et CD4 > 500/mm³).
 
 [Fiche HAS des points clés du suivi (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2018-11/infographie_vih_consultation_de_suivi_medecine_generale_pour_impression_a4.pdf)
 
-Cette section ne concerne que les patients avec une charge virale indétectable.  
-Le suivi est spécialisé dans le cas contraire
+Cette section ne concerne que les patients avec une charge virale indétectable. Le suivi est spécialisé dans le cas contraire.
 {.alert .alert-info}
 
 Recommandations pour la prise en charge du patient traité par antirétroviral:
@@ -391,7 +391,7 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 
 ### VIH et suivi cardiovasculaire
 
-- VIH est un *facteur de risque cardiovasculaire*  
+- Le VIH est un *facteur de risque cardiovasculaire*  
 Évaluation {{< scores/heartscore >}} et pression artérielle contrôlés 1/an.
 - Si maladie cardiovasculaire: risque très élevé
 - Bilan lipidique
@@ -421,7 +421,8 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 {{< youtube id="XnQ4rNUkEyU" title="La minute RECO HAS | VIH : le suivi en médecine générale (Dr Jean-Philippe Joseph)" >}}
 
 - {{< references/calendrier-vaccinal >}}
-- CMIT. Infection à VIH. Item 165 UE6. ECN.Pilly 2020.
+- [CMIT. Infection à VIH. Item 169. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-169.pdf)
+- [Santé Publique France. Bulletin de santé publique VIH-IST. 2023.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/vih-sida/documents/bulletin-national/bulletin-de-sante-publique-vih-ist.-novembre-2023)
 - [Cazein F. et al. Activité de dépistage du VIH et circonstances de découverte de l'infection à VIH, France 2018. Bull Epidémiol Hebd. 2019.](http://beh.santepubliquefrance.fr/beh/2019/31-32/2019_31-32_1.html)
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
@@ -430,11 +431,15 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 
 ### Bibliographie en attente
 
-- [HAS, ANRS, CNS. Prise en charge des complications infectieuses associées à l'infection par le VIH. 2024.](v)
+- [HAS, ANRS, CNS. Prise en charge des complications infectieuses associées à l'infection par le VIH. 2024.](https://www.has-sante.fr/jcms/p_3529162/fr/prise-en-charge-des-complications-infectieuses-associees-a-l-infection-par-le-vih)
+- [HAS. Infection par le VIH](https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih)
+
+### Bibliographie pour en savoir plus
+
+- [HAS, ANRS, CNS. Adaptation du traitement antirétroviral en situation d'échec virologique chez l'adulte vivant avec le VIH. 2024.](https://www.has-sante.fr/jcms/p_3545707/fr/adaptation-du-traitement-antiretroviral-en-situation-d-echec-virologique-chez-l-adulte-vivant-avec-le-vih)
+- [HAS, ANRS, CNS. Initiation d'un premier traitement antirétroviral chez l'adulte vivant avec le VIH. 2024.](https://www.has-sante.fr/jcms/p_3545694/fr/initiation-d-un-premier-traitement-antiretroviral-chez-l-adulte-vivant-avec-le-vih)
 - [ANRS, CNS. Prise en charge de l'enfant et de l'adolescent vivant avec le VIH. 2024.](https://www.has-sante.fr/jcms/p_3520800/fr/prise-en-charge-de-l-enfant-et-de-l-adolescent-vivant-avec-le-vih)
 - [ANRS, CNS. Grossesse et VIH : désir d'enfant, soins de la femme enceinte et prévention de la transmission mère-enfant. 2024.](https://www.has-sante.fr/jcms/p_3518878/en/grossesse-et-vih-desir-d-enfant-soins-de-la-femme-enceinte-et-prevention-de-la-transmission-mere-enfant)
-- CMIT. Infection à VIH. Item 169. ECN.Pilly. 2023. (PDF)
-- [HAS. Infection par le VIH](https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih)
 
 {{%/sources%}}
 {{% modal title="Vaccination hépatite A" id="modal-vaccin-hepatite-a"%}}

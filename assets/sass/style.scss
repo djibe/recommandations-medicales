@@ -14,6 +14,7 @@
   --text: #424242;
   --text-black-primary: rgba(0,0,0,.87);
   --text-half: rgba(0,0,0, 0.54);
+  interpolate-size: allow-keywords;
 }
 
 h2,h4,h5,h6, p, li, dl, legend {
@@ -708,7 +709,12 @@ article {
 
   section > .collapse,
   footer > .collapse {
+    height: auto;
     margin-bottom: 3rem;
+
+    @starting-style {
+      height: 0px;
+    }
   }
 
   section > h2,
@@ -1714,10 +1720,6 @@ details {
   border: 1px solid rgba(0, 0, 0, 0.12);
   padding: 1rem 1.25rem;
 
-  &[open] {
-    padding: 1rem 1.25rem;
-  }
-
   &[open] summary {
     border-bottom: 1px solid rgba(0, 0, 0, 0.12);
     padding-bottom: calc(1rem - 1px);
@@ -1734,7 +1736,6 @@ details {
 
   summary {
     padding: 0;
-    // padding: 1rem 1.25rem;
     position: relative;
     cursor: pointer;
     list-style: none;
@@ -1750,7 +1751,7 @@ details {
       width: 24px;
       height: 24px;
       right: 0;
-      top: calc(50% - 8px);
+      top: 0;
       transform-origin: center;
       transition: 200ms linear;
     }
@@ -1763,6 +1764,18 @@ details {
   p {
     margin: 0 0 1rem;
     padding-top: 1rem;
+  }
+}
+
+@supports (interpolate-size: allow-keywords) {
+  details {
+    height: 55px;
+    transition: height .25s ease;
+
+    &[open] {
+      height: auto;
+      overflow: clip; /* Clip off contents while animating */
+    }
   }
 }
 

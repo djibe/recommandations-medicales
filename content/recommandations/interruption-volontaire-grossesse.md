@@ -8,7 +8,7 @@ synonyms = ["Avortement"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-16T10:54:41+02:00"
 publishdate = "2020-09-16"
-lastmod = "2023-03-06"
+lastmod = "2024-10-03"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF", "HAS"]
@@ -27,7 +27,7 @@ todo = "SEO 'recommandation ivg'"
 
 - L'interruption volontaire de grossesse (IVG) est autorisée jusqu'à 16 semaines d'aménorrhée (SA), en ville jusqu'à 9 SA (IVG médicamenteuse)
 - Bilan systématique avant l'IVG: calcul du terme, examen gynécologique, groupe sanguin et échographie pelvienne
-- Centres et praticiens réalisant des interruptions volontaires de grossesse (IVG): [ivg.gouv](https://ivg.gouv.fr) (téléphone {{<phone>}}0 800 08 11 11{{</phone>}}) et [ivglesadresses.org](https://ivglesadresses.org)
+- Liste des centres et praticiens réalisant des interruptions volontaires de grossesse (IVG): [ivg.gouv](https://ivg.gouv.fr) (téléphone {{<phone>}}0 800 08 11 11{{</phone>}}) et [ivglesadresses.org](https://ivglesadresses.org)
 
 Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
 
@@ -53,24 +53,30 @@ Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contrace
 - 76% des IVG sont médicamenteuses
 - Depuis l'autorisation de 2004: 1 IVG médicamenteuse sur 6 a lieu en libéral (soit 18.273 en 2007, 3/4 par gynécologue, 1/4 par médecin généraliste)
 
-{{< figure-chart title="Évolution du nombre d'interruptions de grossesse annuelles et du ratio d'avortement France entière de 1990 à 2021. (<em>Drees 2022</em>)<br>Le ratio d'avortement correspond au rapport entre le nombre d'IVG et le nombre de naissances vivantes. Ex: en 2021, 30 IVG pour 100 naissances vivantes (<em>Drees 2022</em>)" >}}
+{{< figure-chart title="Évolution du nombre d'interruptions de grossesse annuelles (comptant les reprises) et du ratio d'avortement France entière de 1990 à 2023. (<em>Drees 2024</em>)<br>Le ratio d'avortement correspond au rapport entre le nombre d'IVG et le nombre de naissances vivantes. Ex: en 2023, 35 IVG pour 100 naissances vivantes (<em>Drees 2024</em>)" >}}
 
 <script>
 const chartOptions1 = {
   series: [{
     name: 'Nombre d’IVG',
-    data: [208325, 211533, 204105, 203679, 202426, 193763, 202567, 204157, 211075, 210735, 205099, 215611, 220070, 216436, 221587, 219421, 228678, 226812, 222188, 222277, 225836, 221970, 219148, 228984, 227055, 220319, 216068, 217793, 225226, 233259, 222640, 223282]
+    data: [208325, 211533, 204105, 203679, 202426, 193763, 202567, 204157, 211075, 210735,
+    205099, 215611, 220070, 216436, 221587, 219421, 228678, 226812, 222188, 222277,
+    225836, 221970, 219148, 228984, 227055, 220319, 216189, 217416, 225162, 232999,
+    222469, 223763, 242040, 251169]
   },
   {
     name: 'Ratio d’avortement',
-    data: [0.26, 0.27, 0.26, 0.27, 0.27, 0.26, 0.27, 0.27, 0.27, 0.27, 0.25, 0.27, 0.28, 0.27, 0.28, 0.27, 0.28, 0.28, 0.27, 0.27, 0.27, 0.27, 0.27, 0.28, 0.28, 0.28, 0.28, 0.28, 0.30, 0.31, 0.30, 0.30]
+    data: [0.26, 0.27, 0.26, 0.27, 0.27, 0.26, 0.27, 0.27, 0.27, 0.27,
+    0.25, 0.27, 0.28, 0.27, 0.28, 0.27, 0.28, 0.28, 0.27, 0.27,
+    0.27, 0.27, 0.27, 0.28, 0.28, 0.28, 0.28, 0.28, 0.30, 0.31,
+    0.29, 0.29, 0.32, 0.35]
   }],
   chart: { type: 'line', height: 320 },
   markers: { size: 0 },
   stroke: { colors: ['#4150f5', '#ffa600'], curve: 'smooth', width: 4 },
-  title: { text: 'Évolution de l’activité d’IVG en France de 1990 à 2021' },
+  title: { text: 'Évolution de l’activité d’IVG en France de 1990 à 2023' },
   xaxis: {
-    categories: [1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021],
+    categories: [1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
     tickAmount: 7
   },
   yaxis: [
@@ -80,6 +86,7 @@ const chartOptions1 = {
         style: { color: '#4150f5' }
       },
       labels: { style: { colors: '#757575' }},
+      min: 0,
       decimalsInFloat: 0
     },
     {
@@ -89,7 +96,8 @@ const chartOptions1 = {
           text: 'Ratio',
           style: {color: '#ffa600'}
         },
-        labels: { style: { colors: '#757575' }}
+        labels: { style: { colors: '#757575' }},
+        min: 0
     }
   ]
 }
@@ -221,8 +229,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Service-Public. Interruption volontaire de grossesse (IVG). 03/05/2022.](https://www.service-public.fr/particuliers/vosdroits/F1551)
-- [Drees. Interruptions volontaires de grossesse : la baisse des taux de recours se poursuit chez les plus jeunes en 2021. Études et résultats. 2022.](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/interruptions-volontaires-de-grossesse-la)
+- [Drees. La hausse des IVG réalisées hors établissement de santé se poursuit en 2023. Études et résultats. 2024.](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/interruptions-volontaires-de-grossesse-la)
+- [Service-Public. Interruption volontaire de grossesse (IVG). 25/04/2024.](https://www.service-public.fr/particuliers/vosdroits/F1551)
 - [HAS. Interruption volontaire de grossesse par méthode médicamenteuse - Mise à jour. 12/04/2021.](https://www.has-sante.fr/jcms/p_3223429/fr/interruption-volontaire-de-grossesse-par-methode-medicamenteuse-mise-a-jour)
 - [HAS. La HAS valide l'extension de l'IVG médicamenteuse à domicile jusqu'à 9 semaines. 10/04/2020.](https://www.has-sante.fr/jcms/p_3179352/fr/la-has-valide-l-extension-de-l-ivg-medicamenteuse-a-domicile-jusqu-a-9-semaines)
 - [Drees. 224300 interruptions volontaires de grossesse en 2018. Septembre 2019.](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/publications/etudes-et-resultats/article/224-300-interruptions-volontaires-de-grossesse-en-2018)
