@@ -1,17 +1,17 @@
 +++
 id = "0190e8d6-72f9-7848-a164-b14b48a25242"
 title = "Trouble déficit de l'attention avec ou sans hyperactivité (TDAH)"
-titleSeo = "Trouble déficit attention TDAH"
+titleSeo = "Trouble déficit de l'attention avec hyperactivité TDAH"
 prefix = "le "
 description = "TODO:"
 synonyms = []
-auteurs = ["Jean-Baptiste FRON"]
+auteurs = ["Jean-Baptiste FRON", "Mustapha DAHLAB"]
 date = "2024-02-16T18:54:17+01:00"
-publishdate = "2024-02-16"
-lastmod = "2024-02-16"
+publishdate = "2024-10-04"
+lastmod = "2024-10-04"
 specialites = ["pediatrie", "psychiatrie"]
-annees = "2014"
-sources = ["WFADHD", "HAS"]
+annees = "2024"
+sources = ["HAS", "WFADHD"]
 tags = []
 english = ["Attention-deficit hyperactivity disorder (ADHD)", "attention deficit disorder with hyperactivity"]
 sctid = "406506008"
@@ -19,7 +19,7 @@ icd10 = ["F90.0"]
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow, critères DSM, prise repas, ne pas introduire pénurie ANSM ?, ALD ? https://www.bmj.com/content/384/bmj-2022-073448"
+todo = "descr > summary > liens > photo > newsletter > flow | prise repas, ALD ?, https://www.bmj.com/content/384/bmj-2022-073448"
 +++
 
 {{%article-summary%}}
@@ -29,9 +29,9 @@ TODO:
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Trouble déficit de l'attention avec hyperactivité (ou sans hyperactivité – TDAH)
+Trouble déficit de l'attention avec hyperactivité (ou sans hyperactivité - TDAH)
 : Trouble neurodéveloppemental avec inattention et/ou hyperactivité/impulsivité persistants plus importants que ce qui est attendu pour l'âge, interférant avec le fonctionnement de la personne. Les causes sont mal identifiées.
-: Les symptômes débutent dans l'enfance avec forte prévalence (5%), atteignant principalement les garçons (66-75 %) et sont chroniques (2,5 % des adultes atteints).
+: Les symptômes débutent dans l'enfance avec forte prévalence (5%), atteignant principalement les garçons (2/3) et sont chroniques (3 % des adultes atteints).
 : 3 présentations cliniques prédominent:
     - présentation hyperactive/impulsive prédominante (pré-scolaire ++)
     - présentation combinée
@@ -48,8 +48,23 @@ Trouble déficit de l'attention avec hyperactivité (ou sans hyperactivité – 
 
 ### Abréviations
 
+HAS
+: Haute Autorité de Santé
+
 TDAH
 : trouble déficit de l'attention/hyperactivité
+
+MPH
+: méthylphénidate
+
+PEHP
+: Programmes d'Entraînement aux Habiletés Parentales
+
+TCCE
+: thérapies comportementales, cognitives et émotionnelles
+
+TND
+: troubles du neurodéveloppement
 
 WFADHD
 : {{%lang%}}World Federation ADHD{{%/lang%}}
@@ -58,35 +73,82 @@ WFADHD
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques du TDAH" %}}
 
-> << La difficulté à poser le diagnostic réside dans le fait que l'inattention ou l'hyperactivité/impulsivité peuvent
-exister dans diverses pathologies médicales psychiatriques ou non psychiatriques. La plupart des comorbidités du TDAH sont aussi des diagnostics différentiels >>.
+> Le diagnostic posé par un spécialiste de la maladie est possible à tout âge, même en présence de comorbidités psychiatriques (*HAS*, *WFADHD*).
 {.alert .alert-info}
+
+Le TDAH est persistant (symptômes permanents pendant **plus de 6 mois**) et précoce (début **avant 12 ans**).
 
 Le diagnostic de TDAH nécessite plusieurs symptômes du syndrome d'inattention et/ou du syndrome d'hyperactivité et d'impulsivité dans au moins 2 contextes (familial, scolaire, extra-scolaire, amical) avec un retentissement social, scolaire ou professionnel.
 
-Le TDAH est persistant (symptômes permanents pendant plus de 6 mois) et précoce (début **avant 12 ans**).
+> << Il est recommandé de poser le diagnostic conformément aux critères diagnostiques cliniques définis dans la CIM-11 ou le DSM-5-TR (similaire à la CIM-11 sur ce point) >>. -- *HAS 2024*
 
-Le diagnostic posé par un spécialiste de la maladie est possible à tout âge, même en présence de comorbidités psychiatriques (*WFADHD*).
+### Critères diagnostiques CIM-11 du TDAH
+
+### Critères diagnostiques DSM-5-TR 2022 du TDAH
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel et comorbidités" %}}
+
+L'ordre d'apparition des troubles est important pour déterminer un diagnostic différentiel d'une comorbidité et d'une complication du TDAH.
+
+{{< table title="Diagnostic différentiel et comorbidités du TDAH. tb: trouble" class="table-wrap" >}}
+| Classe | Trouble | Exemples de signes d'alerte et conseils |
+|------------|---------------------------------------|----------------------------------------------------------|
+| Autres TND | Troubles de développement du language, des sons et de la parole | Enfant inintelligible après 3 ans, manque de vocabulaire, déformations des sons, erreurs syntaxiques, troubles de la compréhension verbale |
+|| Troubles des apprentissages (dyslexie ...) | Déficit dans l'apprentissage de la lecture, production écrite, calcul et raisonnement logico-mathématique |
+|| Tb développemental de la coordination | Maladresse anormale, difficultés de coordination, lenteur ou imprécision |
+|| Tics | Fréquemment associés |
+|| Syndrome de Gilles de la Tourette | Tics verbaux et moteurs répétés involontairement. TDAH souvent associé |
+|| Trouble du spectre de l'autisme | Peut ressembler à des troubles attentionnels, interactions sociales également perturbées. Association possible au TDAH. De 0 à 12 ans, [adresser vers une PCO](https://maisondelautisme.gouv.fr/fiches-pratiques/plateforme-coordination-et-d-orientation/) |
+|| Trouble du développement intellectuel | Peut être associé, voire aggravé par un TDA |
+| Troubles externalisés | Trouble d'opposition provocation (TOP) | Comportement hostile, provocateur, colérique. L'opposition n'est pas un symptôme de TDAH |
+|| Troubles des conduites | Comportements délictuels à l'encontre des règles sociales |
+| Comportements à risque | Consommation de substances psychoactives | Début précoce, évaluer les consommations |
+|| Comportement sexuel à risque | IVG, IST |
+|| Usage excessif des jeux et des écrans ||
+| Troubles anxieux | Trouble anxieux généralisé, anxiété de performance, refus scolaire anxieux, anxiété sociale, anxiété de séparation | Possibles irritabilité et agitation motrice et psychique ou inhibition comportementale ou anxiété de performance invalidante |
+| Troubles obsessionnels compulsifs | TOC | Obsessions, compulsions, rituels |
+| Troubles de l'humeur | Épisode dépressif caractérisé | Modification nette et récente de l'humeur, plus fréquent chez l'adolescent. Tristesse, idées suicidaires non exprimées spontanément, observées par des colères et irritabilité |
+|| Trouble disruptif avec dysrégulation émotionnelle | Comportement explosif (rage, accès de colère d'intensité et fréquence supérieures à l'âge développemental) |
+|| Troubles bipolaires | Antécédents familiaux, humeur labile, irritabilité épisodique, troubles du sommeil. Rares avant l'adolescence |
+| Psycho-traumatisme | Trouble de l'adaptation ||
+||||
+||||
+||||
+||||
+||||
+{{< /table >}}
+
+TODO: HASp20
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+Le diagnostic de trouble déficit de l'attention avec ou sans hyperactivité (TDAH) est clinique par un médecin spécialiste du trouble, sans limite inférieure d'âge.
+{.alert .alert-info}
+
 ### Interrogatoire
 
-Les signes et symptômes de l'évaluation d'un TDAH s'apprécient par rapport à ce qui est attendu pour l'**âge précis et le contexte**.
+Les signes et symptômes de l'évaluation d'un TDAH s'apprécient par rapport à ce qui est attendu pour l'**âge précis et le contexte** (avant 5 ans, uniquement si les symptômes sont disproportionnés).
 
-L'évaluation du trouble déficit de l'attention/hyperactivité est au mieux réalisée aec les parents et les enseignants.
+L'évaluation du trouble déficit de l'attention/hyperactivité est au mieux réalisée avec **les parents et les enseignants**. Chez l'enfant (adolescent ++), un moment d'**entretien seul** est aussi important. Plusieurs consultations sont souvent nécessaires.
 
-- Chez le mineur: considérer l'âge avec le mois de naissance
+- Chez l'enfant: considérer l'âge avec le mois de naissance
 - Antécédents médicaux  
-  Psychiatriques, prématurité.
-- Antécédents familiaux de TDA
+  Psychiatriques, obstétricaux, prématurité.
+- Antécédents familiaux  
+  TDAH, TND, psychiatriques, addictions, autres.
 - Traitements en cours
 - Alcool et toxiques
-- Enfant: développement psychomoteur
-- Environnement: famille, scolaire, amical
-- Ancienneté des troubles: +6 mois et début avant 12 ans
-- **Syndrome d'inattention**
+- Enfant: développement psychomoteur, cognitif, langagier, psychologique
+- Environnement: famille (situation, composition, langues, évènements), scolaire, amical
+- Performances scolaires et attitude vis-à-vis de l'école et lors d'activités extrascolaires et fluctuations
+- Ancienneté et installation des troubles, évolution  
+  Persistants depuis plus de 6 mois, début avant 12 ans.
+- Recueil des symptômes et plaintes
+- Interventions essayées et mises en place
+- **Syndrome d'inattention**  
+  Prédominant chez la fille.
   - Difficultés à se concentrer et à maintenir la concentration  
     Manque d'attention aux détails, étourderies.
   - Distractibilité  
@@ -104,13 +166,14 @@ L'évaluation du trouble déficit de l'attention/hyperactivité est au mieux ré
   - Impulsivité: agit ou parle sans réflexion sur les conséquences  
     Précipitation, incapacité à attendre son tour, prise de risque (traverser la route).
 - Retentissement: familial, scolaire, extra-scolaire, amical
+- Aménagements mis en place
 - Dépister des **comorbidités** psychiatriques (80%), qui sont également des **diagnostics différentiels**
+  - **Troubles du sommeil**, troubles du comportement alimentaire
   - Troubles du comportement: TOP ++, troubles des conduites
-  - Autres troubles du neurodéveloppement: troubles des apprentissages (50-80% : dyslexie, dysgraphie, dyscalculie, dyspraxie), handicap intellectuel, TSA, TIC
-  - Troubles anxieux (1/3) ou de l'humeur
-  - Troubles addictifs
-  - Troubles du sommeil, TCA
-- Évaluation du risque suicidaire
+  - Autres troubles du neurodéveloppement: troubles des apprentissages (50-80 % : **dyslexie**, dysgraphie, dyscalculie, dyspraxie), handicap intellectuel, TSA, TIC
+  - **Troubles anxieux** (1/3), **[dépression]({{< relref "depression.md" >}})**
+  - Addictions
+  - Évaluation du risque suicidaire
 
 #### Plaintes évocatrices de TDAH
 
@@ -124,20 +187,44 @@ L'évaluation du trouble déficit de l'attention/hyperactivité est au mieux ré
 
 - Poids, taille, IMC, périmètre crânien, courbes de croissance
 - Pression artérielle, fréquence cardiaque
+- Vue, audition
+- Stade pubertaire
 - Auscultation cardio-pulmonaire
 - Examen neurologique et test oculomoteurs
-- Tests neuropsychologiques
-  - Tests d'attention
-  - Tests de QI
-- Questionnaires: ADHD-RS, Conners, SNAP-IV
+- Évaluation du langage, de l'écriture, de la lecture, du calcul
+- Échelles d'aide à l'entretien pour les parents et les enseignants: [ADHD-RS](https://tdahbe.wordpress.com/wp-content/uploads/2013/02/adhd-rs-iv-cotation.pdf), [SNAP IV](https://afpa.org/outil/outil-de-depistage-tdah-premier-recours/) (échelles de Conners non validée en français)
+- Entretien diagnostique: [KIDDIE-SADS](https://sfpeada.fr/k-sads-pl-dsm-5-version-francaise-2018/) (DIVA enfant non validée en français)
 
 Les tests et questionnaires peuvent aider à objectiver des troubles mais n'ont pas de puissance diagnostique.
 
 L'évaluation est poursuivie par un spécialiste du trouble (pédopsychiatre, psychiatre, pédiatre, neuropédiatre, neurologue).
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+> << Il n'existe pas d'examen complémentaire ou de biomarqueur pouvant confirmer le diagnostic de TDAH >>. -- *HAS 2024*
+{.alert .alert-info}
+
+### Bilan biologique
+
+Le bilan biologique n'est pas systématique en cas de suspicion de TDAH.
+
+Selon le contexte, des éléments peuvent être recherchés: TSH.
+
+### Bilan neuropsychologique
+
+Le bilan neuropsychologique n'est pas nécessaire pour le diagnostic de TDAH. Il peut être utile pour le suivi ou l'évaluation de diagnostics différentiels.
+
+Exemples d'indications au bilan neuropsychologique: symptômes sévères, troubles multiples associés, suspicion de trouble du développement intellectuel (TDI).
+
+Tests des fonctions attentionnelles et exécutives: TEA-CH ou KiTAP (attention de l'enfant), NEPSY-2 (évaluation neuropsychologique), TAP (attention), d2-R (attention visuelle dès 9 ans), Brown (exécutives de 6 à 18 ans), BRIEF et BRIEF-P (exécutives)
+
+> Un test << normal >> n'élimine pas le diagnostic de TDAH.
+
+### Bilans paramédicaux
+
+Les bilans paramédicaux (orthophonique, ergothérapique ou psychomoteur) sont ciblés selon les déficits du patient.
 
 {{% /collapse %}}
 {{%collapse "Traitement du TDAH" %}}
@@ -146,12 +233,17 @@ L'évaluation est poursuivie par un spécialiste du trouble (pédopsychiatre, ps
 
 > << Les mesures thérapeutiques et rééducatives des troubles du neurodéveloppement doivent être précoces, intensives, multidisciplinaires et adaptées au profil clinique de chaque individu. >> -- *CNUP*
 
+Les prises en charge médicamenteuses sont systématiques et le suivi spécialisé (pédopsychiatre, psychiatre, médecin spécialiste du trouble) est au moins annuel:
+
 - Suivi régulier: symptômes, traitements
 - Rester en contact avec l'enseignant, la famille et les spécialistes
-- **Éducation thérapeutique et guidance parentale**
-- Psychothérapie (TCC ...)
-- Prise en charge des comorbidités: , orthophonie, psychomotricité, ergothérapie ...
+- Psychoéducation
+- Programmes d'Entraînement aux Habiletés Parentales (PEHP)
+- Psychothérapie TCCE (thérapies comportementales, cognitives et émotionnelles)
+- Prise en charge des comorbidités: orthophonie, psychomotricité, ergothérapie ...
+- Accompagnement scolaire et pédagogique
 - Aménagements scolaires (dossier MDPH), Projet d'Accueil Individualisé (PAI)
+- Information sur la pathologie
 - Associations de patients: [HyperSupers TDAH France](https://www.tdah-france.fr), [TDAH Pour une égalité des chances](https://www.tdahegalitedeschances.com), [TDAH Partout Pareil](https://tdah-partout-pareil.info)
 
 ### Traitement médicamenteux du TDAH de l'enfant: le méthylphénidate
@@ -160,26 +252,30 @@ L'évaluation est poursuivie par un spécialiste du trouble (pédopsychiatre, ps
 
 Le traitement médicamenteux du TDAH est nécessaire pour les formes sévères (ou résistantes aux mesures générales), est poursuivi aussi longtemps que nécessaire, en monothérapie en première intention. Des interruptions temporaires de traitement sont possibles (ex. vacances).
 
-Le **méthylphénidate** (Concerta, Medikinet, Quasym, Ritaline, gén, AMM dès 6 ans) est le traitement privilégié chez l'enfant et l'adolescent. La prescription initiale et le renouvellement annuel est réservé au **spécialiste**. Le renouvellement mensuel sur ordonnance sécurisée ou numérique est possible par le médecin généraliste.
+Le **méthylphénidate LP** (MPH-LP -- Concerta, Medikinet, Quasym, Ritaline, gén, AMM dès 6 ans) est le traitement privilégié chez l'enfant et l'adolescent. La prescription initiale et le renouvellement annuel est réservé au **spécialiste** avec un renouvellement mensuel sur ordonnance sécurisée ou numérique par le généraliste.
 
-La titration initiale du méthylphénidate est réalisée en 4 à 6 semaines.
+La titration initiale du méthylphénidate est réalisée sur 4 à 6 semaines (cible 0,5-1 mg/kg/j). L'arrêt brutal est possible. L'atomoxétine est le traitement de 2^e^ intention.
 
 ### Traitement du TDAH de l'adulte
 
 Chez l'adulte, le traitement est systématique par méthylphénidate (AMM seulement si traitement depuis l'enfance) ou **amphétamine** en première intention (atomoxétine en cas d'addiction).
 
-Renouvellement sur ordonnance sécurisée tous les 28 jours en précisant le nom de la pharmacie.
+Titration lente sur 6 semaines. Renouvellement sur ordonnance sécurisée tous les 28 jours en précisant le nom de la pharmacie.
+
+Le traitement est le plus souvent nécessaire tous les jours.
 
 Suivi sous méthylphénidate: observance, croissance staturo-pondérale, pression artérielle et fréquence cardiaque.
 
 Effets indésirables: anorexie, ralentissement de la croissance staturo-pondérale, retentissement cardiovasculaire, troubles
 du sommeil, symptômes psychiatriques, troubles du comportement.
 
-D'autres traitements médicamenteux sont possibles: stimulants (amphétamine) ou non (atomoxétine, bupropion, clonidine LP, guanfacine LP, modafinil).
+D'autres traitements médicamenteux sont possibles: stimulants (amphétamine) ou non (**atomoxétine**, bupropion, clonidine LP, guanfacine LP, modafinil).
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Trouble du neurodéveloppement/ TDAH : Diagnostic et interventions thérapeutiques auprès des enfants et adolescents. 2024.](https://www.has-sante.fr/jcms/p_3302482/fr/trouble-du-neurodeveloppement/-tdah-diagnostic-et-interventions-therapeutiques-aupres-des-enfants-et-adolescents)
+- [Peterson BS, et al. ADHD Diagnosis and Treatment in Children and Adolescents. Agency for Healthcare Research and Quality. 2024.](https://effectivehealthcare.ahrq.gov/products/attention-deficit-hyperactivity-disorder/research)
 - [ANSM. Recours au méthylphénidate et à l'orthophonie chez les enfants âgés de 5 à 10 ans : les natifs de la fin d'année y sont davantage exposés que ceux nés en début d'année à niveau égal de scolarité. 2024.](https://ansm.sante.fr/actualites/recours-au-methylphenidate-et-a-lorthophonie-chez-les-enfants-ages-de-5-a-10-ans-les-natifs-de-la-fin-dannee-y-sont-davantage-exposes-que-ceux-nes-en-debut-dannee-a-niveau-egal-de-scolarite)
 - [Faraone SV, et al. The World Federation of ADHD International Consensus Statement: 208 Evidence-based conclusions about the disorder. Neurosci Biobehav Rev. 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33549739/)
 - [HAS. Conduite à tenir en médecine de premier recours devant un enfant ou un adolescent susceptible d'avoir un trouble déficit de l'attention avec ou sans hyperactivité. 2014.](https://www.has-sante.fr/jcms/c_1362146/fr/conduite-a-tenir-en-medecine-de-premier-recours-devant-un-enfant-ou-un-adolescent-susceptible-d-avoir-un-trouble-deficit-de-l-attention-avec-ou-sans-hyperactivite)
@@ -188,8 +284,7 @@ D'autres traitements médicamenteux sont possibles: stimulants (amphétamine) ou
 
 ### Bibliographie en attente
 
-- [HAS. Trouble du neurodéveloppement/ TDAH : Diagnostic et interventions thérapeutiques auprès des enfants et adolescents. 2024.](https://www.has-sante.fr/jcms/p_3302482/fr/trouble-du-neurodeveloppement/-tdah-diagnostic-et-interventions-therapeutiques-aupres-des-enfants-et-adolescents)
-- [Peterson BS, et al. ADHD Diagnosis and Treatment in Children and Adolescents. Agency for Healthcare Research and Quality. 2024.](https://effectivehealthcare.ahrq.gov/products/attention-deficit-hyperactivity-disorder/research)
+- [Société Française du TDAH](https://sftdah.fr)
 - [ADHD Federation. Guide pour le Trouble Déficit de l'Attention/Hyperactivité TDAH.]()
 - [Willig TN, et al; SFP. Trouble déficitaire d'attention. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pediatrie-generale/trouble-deficitaire-dattention)
 - [Kazda L, et al. Attention deficit/hyperactivity disorder (ADHD) in children: more focus on care and support, less on diagnosis. BMJ. 2024.](https://www.bmj.com/content/384/bmj-2022-073448)
