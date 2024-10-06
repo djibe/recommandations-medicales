@@ -38,7 +38,7 @@ flowchart = true
 
 Les contraceptions définitives ne sont pas encore traitées.
 
-Chapitres lié: [acné]({{< relref "acne.md" >}}), [IVG]({{< relref "interruption-volontaire-grossesse.md" >}}), [ménopause]({{< relref "menopause.md" >}})
+Chapitres lié: [J'ai oublié ma pilule]({{< relref "jai-oublie-ma-pilule.md" >}}), [acné]({{< relref "acne.md" >}}), [IVG]({{< relref "interruption-volontaire-grossesse.md" >}}), [ménopause]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

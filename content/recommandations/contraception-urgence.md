@@ -34,7 +34,7 @@ flowchart = true
 - Il existe un risque de grossesse à tout moment du cycle en cas de rapport non protégé
 - [Brochure d'information (PDF)](https://www.ameli.fr/sites/default/files/Documents/Contraception-urgence-Metro.PDF) et Hotline Aide avortement: {{<phone>}}0 800 08 11 11{{</phone>}}
 
-Articles liés: [contraception]({{< relref "contraception.md" >}}) et [interruption volontaire de grossesse]({{< relref "interruption-volontaire-grossesse.md" >}})
+Articles liés: [J'ai oublié ma pilule]({{< relref "jai-oublie-ma-pilule.md" >}}), [contraception]({{< relref "contraception.md" >}}), [interruption volontaire de grossesse]({{< relref "interruption-volontaire-grossesse.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

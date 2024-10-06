@@ -22,25 +22,6 @@ todo = "descr > summary > liens > photo > newsletter > flow"
 datatable = false
 +++
 
-## J'ai oublié ma pilule
-
-<div class="card card-body shadow-none my-2 flex-row justify-content-between bg-primary-light">
-  <div>
-    <p class="typography-overline">Pilule</p>
-    <input type="radio" name="pill-choice" id="pill-e2" class="d-input-none" required data-toggle="collapse" href="#collapseExample">
-    <label for="pill-e2" class="chip chip-action chip-choice chip-sm">Œstro-progestative</label>
-    <input type="radio" name="pill-choice" id="pill-prog" class="d-input-none">
-    <label for="pill-prog" class="chip chip-action chip-choice chip-sm">Progestérone</label>
-    <input type="radio" name="pill-choice" id="pill-microval" class="d-input-none">
-    <label for="pill-microval" class="chip chip-action chip-choice chip-sm">Microval</label>
-  </div>
-</div>
-<div class="collapse" id="collapseExample">
-  <div class="card card-body">
-    Some placeholder content for the collapse component. This panel is hidden by default but revealed when the user activates the relevant trigger.
-  </div>
-</div>
-
 ## Plan action asthme
 
 <!--<div class="card card-body bg-primary-light shadow-none my-2 flex-row justify-content-between">
