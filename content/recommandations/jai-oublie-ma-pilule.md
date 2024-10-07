@@ -42,9 +42,11 @@ Sélectionner le type de pilule pour afficher la prise en charge détaillée.
 <div class="tab-content">
 <div class="tab-pane fade card card-body" id="nav-coc" role="tabpanel" aria-labelledby="nav-coc-tab">
 
+## Oubli de pilule œstro-progestative {.lead}
+
 Pilule œstro-progestative à dose fixe (dite monophasique): Asterluna, Leeloo, Lolistrel, Lovavulo, Milevoni 100, Ludeal, Milevoni 150, Minidril, Qiade, générique.
 
-## Un oubli de pilule de 48 à moins de 72 heures sur la plaquette en cours {.typography-headline-6 .mt-5}
+### Un oubli de pilule de 48 à moins de 72 heures sur la plaquette en cours {.typography-headline-6 .text-primary .mt-5}
 
 Oubli du comprimé n°2 à 21:
 
@@ -53,7 +55,7 @@ Oubli du comprimé n°2 à 21:
 
 Pour le 1^er^ comprimé: voir [Oubli de reprise](#oubli-de-reprise-de-pilule-monophasique-sans-placebo).
 
-## 2 oublis ou plus (dernière prise ≥ 72 heures) {.typography-headline-6 .mt-5}
+### 2 oublis ou plus (dernière prise ≥ 72 heures) {.typography-headline-6 .text-primary .mt-5}
 
 - Oubli de comprimés de 1 à 7: voir [Oubli de reprise](#oubli-de-reprise-de-pilule-monophasique-sans-placebo)
 - Oubli de comprimés 8 à 21:
@@ -62,7 +64,7 @@ Pour le 1^er^ comprimé: voir [Oubli de reprise](#oubli-de-reprise-de-pilule-mon
   - Préservatif pendant 7 jours
   - Si ≥ 2 comprimés de 15 à 21 oubliés: enchaîner avec la plaquette suivante sans intervalle libre
 
-### Oubli de plus de 7 comprimés {.typography-headline-6 .mt-5}
+#### Oubli de plus de 7 comprimés {.typography-headline-6 .mt-5}
 
 - [Contraception d'urgence]({{< relref "contraception-urgence.md" >}})
 - Test de grossesse
@@ -70,7 +72,7 @@ Pour le 1^er^ comprimé: voir [Oubli de reprise](#oubli-de-reprise-de-pilule-mon
 - Préservatif pendant 7 jours
 - Considérer la surveillance par test de grossesse
 
-## Oubli de reprise de pilule monophasique sans placebo {.typography-headline-6 .mt-5}
+### Oubli de reprise de pilule monophasique sans placebo {.typography-headline-6 .text-primary .mt-5}
 
 Oubli de reprise donnant un nombre de jours sans pilule ≥ 9 jours:
 
@@ -85,16 +87,18 @@ Oubli de reprise donnant un nombre de jours sans pilule ≥ 9 jours:
 </div>
 <div class="tab-pane fade card card-body" id="nav-prog" role="tabpanel" aria-labelledby="nav-prog-tab">
 
+## Oubli de pilule progestative au désogestrel {.lead}
+
 Pilules progestatives à base de *désogestrel 75 µg*: Antigone, Cérazette, désogestrel 75, Désopop, Elfasette, Optimizette.
 
-## Oubli inférieur à 12 heures {.typography-headline-6 .mt-5}
+### Oubli inférieur à 12 heures {.typography-headline-6 .text-primary .mt-5}
 
 Mesures en cas d'oubli de moins de 12 heures d'une pilule progestative ou de **vomissements** (dans les 3-4 heures) ou de diarrhée sévère (délai non connu) survenant peu après la prise du comprimé:
 
 - Prendre immédiatement le comprimé oublié
 - Poursuivre la plaquette normalement
 
-## Oubli de plus de 12 heures {.typography-headline-6 .mt-5}
+### Oubli de plus de 12 heures {.typography-headline-6 .text-primary .mt-5}
 
 - Prendre immédiatement le comprimé oublié
 - Poursuivre la plaquette normalement
@@ -107,16 +111,18 @@ Mesures en cas d'oubli de moins de 12 heures d'une pilule progestative ou de **v
 </div>
 <div class="tab-pane fade card card-body" id="nav-microval" role="tabpanel" aria-labelledby="nav-microval-tab">
 
+## Oubli de pilule progestative au lévonorgestrel {.lead}
+
 Pilule progestative à base de lévonorgestrel: Microval.
 
-## Oubli inférieur à 3 heures {.typography-headline-6 .mt-5}
+### Oubli inférieur à 3 heures {.typography-headline-6 .text-primary .mt-5}
 
 Mesures en cas d'oubli de moins de 3 heures de Microval ou de **vomissements** (dans les 2 heures) ou de diarrhée sévère (délai non connu) survenant peu après la prise du comprimé:
 
 - Prendre immédiatement le comprimé oublié
 - Poursuivre la plaquette normalement
 
-## Oubli de plus de 3 heures {.typography-headline-6 .mt-5}
+### Oubli de plus de 3 heures {.typography-headline-6 .text-primary .mt-5}
 
 - Prendre immédiatement le comprimé oublié
 - Poursuivre la plaquette normalement

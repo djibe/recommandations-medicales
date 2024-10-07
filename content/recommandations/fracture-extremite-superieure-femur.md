@@ -27,7 +27,7 @@ todo = "flow | échelle géria mini-GDS"
 - Les signes de fracture de l'extrémité proximale du fémur sont: traumatisme avec douleur de hanche, impotence et déformation en raccourcissement, rotation externe, adduction. L'examen évalue les traumatismes et l'intégrité vasculo-nerveuse de la jambe
 - Le bilan est urgent et comporte des radiographies multiples (hanche, bassin, genou)
 - Le traitement chirurgical d'une fracture de l'extrémité supérieure du fémur est semi-urgent, suivi d'une rééducation précoce
-- Le suivi de la fracture par le médecin généraliste comporte l'évaluation des: rééducation, douleurs, cicatrice, thromboprophylaxie pendant 4 semaines par fondaparinux, autonomie, ostéoporose
+- Le suivi de la fracture par le médecin généraliste comporte l'évaluation des: rééducation à la marche, douleurs, cicatrice, thromboprophylaxie pendant 4 semaines par fondaparinux, autonomie, ostéoporose (zolédronate IV uniquement)
 
 Chapitres liés: [ostéoporose post-ménopausique]({{< relref "osteoporose.md" >}}) et [ostéoporose masculine]({{< relref "osteoporose-masculine.md" >}})
 
@@ -186,7 +186,7 @@ Suivi médical après fracture de hanche:
 - +65 ans: évaluation gériatrique standardisée
 - Ostéoporose
   - Ostéodensitométrie systématique  
-    Traitement par biphosphonate si T-score ≤ -1 (voir ostéoporose), avis rhumatologique si T-score compris de 0 à -1 (*GRIO*).
+    Traitement par biphosphonate **zolédronate 5 mg IVL** annuel si T-score ≤ -1 (voir [ostéoporose]({{< relref "osteoporose.md" >}})), avis rhumatologique si T-score compris de 0 à -1 (*GRIO*).
   - Dosage de la vitamine D (cible > 75 nmol/L)
   - {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} (cible > 1 g/j) et souvent supplémenter à distance des repas
 

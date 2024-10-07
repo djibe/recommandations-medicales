@@ -204,14 +204,16 @@ Indications aux radiographies de rachis thoraco-lombaire face et profil :
 {{% /collapse %}}
 {{%collapse "Traitement de l'ostéoporose masculine" %}}
 
-L'objectif de la prise en charge de l'ostéoporose est réduire le nombre de fractures et le handicap résultant.
+L'objectif de la prise en charge de l'ostéoporose est de réduire le nombre de fractures et le handicap résultant.
 
-Décision de traiter selon le **T-score mesuré le plus bas**. Une ostéodensitométrie est recommandée avant tout traitement.
+Décision de traiter selon le **T-score mesuré le plus bas**. Une **ostéodensitométrie** est recommandée avant tout traitement.
 
 L'avis du spécialiste est privilégié en cas de doute ou de valeurs proches du seuil pour un traitement.
 
+Mesures générales de prise en charge de l'ostéoporose chez l'homme:
+
 - **Traitement non pharmacologique**
-  - [Arrêt tabac]({{< relref "arret-tabac.md" >}}) et [alcool]({{< relref "sevrage-alcool.md" >}})
+  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et [alcool]({{< relref "sevrage-alcool.md" >}})
   - Activité physique régulière en charge (30 min x 5/sem)
   - Cible en [vitamine D]({{< relref "vitamine-d.md" >}}): 75-150 nmol/L (30-60 ng/mL)  
     Sans dépasser 100.000 UI/dose.
@@ -228,7 +230,7 @@ Avis spécialisé après la première ligne de traitement, en cas de T-score > -
 
 ### Traitement anti-ostéoporotique
 
-Indications:
+Indications au traitement anti-ostéoporotique:
 
 - {{< modal-btn modal-fracture-severe >}}Fracture sévère{{< /modal-btn >}} avec T-score ≤ -1
 - Fracture non sévère (*ex* poignet, cheville) avec T-score ≤ -2  
@@ -237,9 +239,9 @@ Indications:
 
 Rechercher une autre cause d'ostéopathie fragilisante en cas de T-score > -1.
 
-Traitement:
+#### Choix du traitement anti-ostéoporotique
 
-- FESF  
+- Fracture de l'extrémité supérieure du fémur (FESF)  
   [Acide zolédronique 5 mg/100 mL IVL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) (15 minutes) annuel ([info Omedit](https://www.omedit-paysdelaloire.fr/bon-usage-des-produits-de-sante/perfusion/perfadom/#DCI24), aussi privilégié en cas de troubles mnésiques, troubles digestifs, polymédication).
 - {{< modal-btn modal-fracture-severe >}}Fracture sévère{{< /modal-btn >}} (hors FESF), vertébrale unique, non sévère ou T-score < -3 avec fragilité ou {{< modal-btn modal-risque-chute >}}risque de chutes{{< /modal-btn >}}
   - Acide zolédronique 5 mg IVL annuel

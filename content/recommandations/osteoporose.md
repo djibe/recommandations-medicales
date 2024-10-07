@@ -47,7 +47,7 @@ Pour l'**ostéoporose cortisonique**, voir la section [traitements anti-ostéopo
 
 {{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, [arrêt du tabac]({{< relref "arret-tabac.md" >}}), activité physique, [vitamine D]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1 - 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
 
-Chapitres liés: [Traitement hormonal de la ménopause]({{< relref "menopause.md" >}}), [calcium]({{< relref "apports-calcium.md" >}}) et [vitamine D]({{< relref "vitamine-d.md" >}})
+Chapitres liés: [ostéoporose de l'homme]({{< relref "osteoporose-masculine.md" >}}), [traitement hormonal de la ménopause]({{< relref "menopause.md" >}}), [calcium]({{< relref "apports-calcium.md" >}}) et [vitamine D]({{< relref "vitamine-d.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -411,7 +411,7 @@ Traitement indiqué si T-score ≤ -1 et avis rhumatologique si T-score > -1:
   {{%class "x"%}}70 mg/sem ou 10 mg/j{{%/class%}}
 - Risédronate  
   {{%class "x"%}}35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois{{%/class%}}
-- FESF ou T-score ≤ -3  
+- Fracture de l'extrémité supérieure du fémur (FESF) ou T-score ≤ -3  
   {{%class "x"%}}Zolédronate 5 mg IVL annuel. Seul avec efficacité démontrée sur la FESF. [Perfusion par IDE à domicile](https://www.omedit-paysdelaloire.fr/bon-usage-des-produits-de-sante/perfusion/perfadom/#DCI24) sur 15-30 min{{%/class%}}
 - Romosozumab  
   {{%class "x"%}}Femme ménopausée < 75 ans sans risque cardiovasculaire{{%/class%}}
