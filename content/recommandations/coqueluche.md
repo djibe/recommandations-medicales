@@ -7,7 +7,7 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2024-09-05"
+lastmod = "2024-10-10"
 specialites = ["infectiologie", "ORL"]
 annees = "2024"
 sources = ["HCSP", "HAS", "SPILF", "GPIP"]
@@ -26,15 +26,16 @@ todo = "rankok"
 
 Ces recommandations visent à protéger les nourrissons non immuns et personnes à risque (femme enceinte, immunodéprimée, âgée) d'une coqueluche grave:
 
+- La coqueluche est une toxi-infection aiguë des voies respiratoires par la bactérie *Bordetella pertussis* pouvant être grave chez les personnes à risque
 - Évoquer une coqueluche devant toute toux de plus de 7 jours
 - Le diagnostic de coqueluche est biologique par une *PCR coqueluche* naso-pharyngée dans les 3 premières semaines de toux
 - Prise en charge de la coqueluche: éviction de la collectivité 5 jours et antibiothérapie par clarithromycine 500 mg, 2 fois par jour (ou 1 dose-poids x 2/j) pendant 7 jours ...
 - et antibioprophylaxie des sujets contacts proches ou à risque (voir [Antibioprophylaxie](#antibioprophylaxie-des-sujets-contacts))
 - Vaccination coqueluche
   - Une coqueluche ne modifie pas le calendrier vaccinal. L'immunité vaccinale ne persiste que 5 à 10 ans
-  - Tous les rappels de dTPolio sont désormais couplés à la coqueluche (faute de dTPolio non associé)
+  - Tous les vaccins de dTPolio sont désormais couplés à la coqueluche (BoostrixTetra ou Repevax)
   - [Vaccination coqueluche]({{< relref "vaccination.md" >}}) à chaque grossesse entre 20 et 36 SA  
-  - **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse si: amené à s'occuper de l'enfant les 6 premiers mois et le dernier rappel a +5 ans
+  - **Cocooning:** actuellement pour tout l'entourage dont le dernier rappel a plus de 5 ans (habituellement uniquement en l'absence de vaccination en fin de grossesse)
   - Professionnels de santé en 2024: rappel coqueluche si +5 ans
 - [Signalement à l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}) pour au moins 2 cas de coqueluche en collectivité ou intrafamiliaux
 
@@ -155,7 +156,7 @@ Pas d'examen complémentaire après 21 jours de symptômes (le diagnostic est cl
 
 - **Haut risque de forme grave**
   - Nourrissons < 6 mois
-  - Nourrissons 6-11 mois incomplètement vaccinés
+  - Nourrissons 6-11 mois incomplètement vaccinés ou dont la dernière est < 2 semaines
 - Risque de forme grave
   - +80 ans
   - Maladie respiratoire chronique
@@ -282,9 +283,10 @@ graph TB
 Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune information), HCSP 2022 (suivre *HCSP 2014*), SPILF 2020 (durée 3 jours, pas de posologie, référence biblio 2018 qui mentionne azithromycine 500 mg J1 et 250 mg J2 à J5) et enfin HCSP 2014 (azithromycine 500 mg pendant 3 jours).
 {.alert .alert-info}
 
+- [DGS-Urgent 2024_11. 13/08/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
+- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : coqueluche chez le nourrisson, l'enfant et l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3525542/fr/choix-et-durees-d-antibiotherapies-coqueluche-chez-le-nourrisson-l-enfant-et-l-adulte)
 - [HCSP. Prévention de la transmission de la coqueluche aux personnes à risque de forme grave. 30/07/2024.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1386)
 - [HAS. Stratégie de vaccination contre la coqueluche dans le contexte épidémique de 2024. Rappel vaccinal des professionnels au contact des personnes à risque de forme grave. 2024.](https://www.has-sante.fr/jcms/p_3531825/fr/recrudescence-de-la-coqueluche-la-has-renforce-les-recommandations-vaccinales-pour-proteger-les-nouveau-nes-et-les-nourrissons)
-- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : coqueluche chez le nourrisson, l'enfant et l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3525542/fr/choix-et-durees-d-antibiotherapies-coqueluche-chez-le-nourrisson-l-enfant-et-l-adulte)
 - [Infovac France. Bulletin N°7 - FAQ Coqueluche. Juin 2024.](https://www.infovac.fr/actualites/bulletin-n-7-faq-coqueluche-juin-2024)
 - [DGS-Urgent 2024_08. 07/06/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - {{< references/calendrier-vaccinal >}}

@@ -67,6 +67,9 @@ Cartographies pour l'aide à l'installation des médecins généralistes avec le
 {{% /collapse %}}
 {{%collapse "Aides de l'Assurance Maladie" %}}
 
+Ces aides disparaîtront le 31/12/2025. Elles seront remplacées par un bonus de 10% sur le Forfait Patientèle Médecin Traitant (FPMT).
+{.alert .alert-warning}
+
 Aides possibles uniquement pour une installation en ZIP.
 
 ### CAIM: Contrat d'Aide à l'Installation des Médecins

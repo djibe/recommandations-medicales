@@ -20,6 +20,7 @@ image = true
 imageWEBP = true
 imageSrc = "Illustration de la polyarthrite rhumatoïde par scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
+modele = true
 +++
 
 {{%article-summary%}}
@@ -347,6 +348,27 @@ graph TB
 [Johnson SR, et al. 2023 American College of Rheumatology (ACR)/American College of Chest Physicians (CHEST) Guideline for the Screening and Monitoring of Interstitial Lung Disease in People with Systemic Autoimmune Rheumatic Diseases. Arthritis Care Res (Hoboken). 2024.](https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/acr.25347)
 
 {{%/sources%}}
+{{% modele %}}
+
+#### Bilan biologique de polyarthralgies
+
+- NFS, VS, CRP
+- Ferritinémie
+- ASAT, ALAT, PAL, GGT, bilirubinémie
+- Créatininémie, DFG
+- Facteur rhumatoïde (FR)
+- Anticorps anti-peptide citrulliné (*ACPA* ou *anti-CCP*)
+- Anticorps antinucléaires (AAN)
+- Sérologies VIH, hépatite B, hépatite C
+
+#### Radiographies de polyarthralgies
+
+- Mains et poignets de face
+- Avants-pieds face et 3/4 en grandeur normale
+- Thorax de face
+- Et toute autre articulation symptomatique
+
+{{% /modele %}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 
 {{< traitements/regime-mediterraneen >}}

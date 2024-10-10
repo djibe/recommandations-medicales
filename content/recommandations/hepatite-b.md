@@ -141,7 +141,7 @@ Ajouter VHC si conduites à risque (sexe, drogues), VHE en cas de séjour tropic
 
 Indications au dépistage de l'hépatite B:
 
-- Origine de pays d'endémie  
+- Originaire de pays d'endémie  
   Afrique subsaharienne et Asie du Sud-Est ++.
 - Porteur du VHB dans l'entourage
 - Partenaires sexuels multiples
@@ -149,6 +149,8 @@ Indications au dépistage de l'hépatite B:
 - [VIH]({{< relref "vih-sida.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}) ou autre [infection sexuellement transmissible](/tags/ist/) récente
 
 > -- *CMIT 2023*
+
+> Le dépistage de l'hépatite B est gratuit avant 26 ans.
 
 {{% /collapse %}}
 {{%collapse "Personnes à vacciner contre l'hépatite B" %}}
@@ -189,9 +191,6 @@ La vaccination est recommandée pour les voyageurs, dès la naissance si besoin,
 
 {{% /collapse %}}
 {{%collapse "Vaccins hépatite B et schéma vaccinal" %}}
-
-> << Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >>. – *[SFSEP 2019](https://doi.org/10.1016/j.neurol.2019.01.218)*
-{.alert .alert-info}
 
 La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
 
@@ -242,7 +241,7 @@ Si prématuré < 32 semaines ou poids < 2 kg: schéma 4 doses à J0-M1-M2-M6 ave
 
 Une seule contre-indication: hypersensibilité à la substance ou ses composants.
 
-> << Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >>. – *[SFSEP 2019](https://www.sciencedirect.com/science/article/abs/pii/S0035378719302759)*
+> << Les vaccins de manière générale ne sont pas associés à un risque accru de survenue d'une sclérose en plaques >>. – *[SFSEP 2024](https://sfsep.org/wp-content/uploads/2019/01/Presentation-Vaccinations-et-SEP-revision_Avril_2024.pdf)*
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -373,6 +372,7 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler.
 {{< youtube id="XfEdz-xm9qs" title="Sérologie de l'hépatite B autour de la vaccination (VacciNews)" >}}
 
 - {{< references/calendrier-vaccinal >}}
+- [Service-Public. Infections sexuellement transmissibles : gratuité du dépistage en laboratoire. 02/09/2024.](https://www.service-public.fr/particuliers/actualites/A17530)
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées chroniquement par le virus de l'hépatite B +/- de l'hépatite delta. 2023.](https://www.has-sante.fr/jcms/p_3324682/fr/prise-en-charge-des-personnes-infectees-par-les-virus-de-l-hepatite-b-c-ou-d)
 - [CMIT. Hépatites virales. Item 167. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-167.pdf)
 - {{< references/afef-foie-non-invasif >}}

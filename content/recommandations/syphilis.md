@@ -18,7 +18,7 @@ icd10 = ["A53.9"]
 image = true
 imageSrc = "Chancre syphilitique de la langue signant une syphilis primaire. cdc.gov / PHIL"
 flowchart = true
-todo = "revoir flow, demander M Janier"
+todo = "SEO, revoir flow, demander M Janier"
 +++
 
 {{%article-summary%}}
@@ -120,6 +120,8 @@ Recommandations pour le dépistage répété des personnes à risque de syphilis
 - Viol
 - Personne vivant avec le [VIH]({{< relref "vih-sida.md" >}}) tous les 3 à 6 mois (*HAS 2018*)
 - [Prophylaxie pré-exposition]({{< relref "prophylaxie-preexposition-prep.md" >}}) (PrEP) tous les 3 mois (*EADV*)
+
+> Le dépistage de la syphilis est gratuit avant 26 ans.
 
 ### Faciliter la discussion au cabinet
 
@@ -401,6 +403,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Service-Public. Infections sexuellement transmissibles : gratuité du dépistage en laboratoire. 02/09/2024.](https://www.service-public.fr/particuliers/actualites/A17530)
 - [Haut Conseil de la Santé Publique. Dépistage biologique de la syphilis guérie chez les donneurs de sang. 05/10/2023.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1348)
 - [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-162.pdf)
 - [US Preventive Services Task Force. Screening for Syphilis Infection in Nonpregnant Adolescents and Adults: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2796685)

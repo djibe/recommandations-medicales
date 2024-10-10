@@ -1,6 +1,6 @@
 +++
 id = "0191f0f9-c0b3-75ed-a09a-a0834c3d6374"
-title = "Fracture de l'extrémité supérieure du fémur (FESF) ou fracture du col du fémur"
+title = "Fracture de l'extrémité supérieure du fémur (FESF dont fracture du col du fémur)"
 titleSeo = "Fracture de l'extrémité supérieure du fémur FESF"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la fracture de l'extrémité supérieure du fémur (FESF) ou fracture du col du fémur. Chirurgie précoce, lutte contre l'ostéoporose"

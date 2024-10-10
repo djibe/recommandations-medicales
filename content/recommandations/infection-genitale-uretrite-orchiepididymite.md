@@ -18,7 +18,7 @@ sctid = "128478005"
 icd10 = ["N49.9", "N34", "N45"]
 image = true
 imageSrc = "Infiltration des polynucléaires neutrophiles par les gonocoques. Vue au microscope avec coloration de Gram signant une urétrite gonococcique. CDC / Joe Millar, Public domain, via Wikimedia Commons"
-todo = "Balanite et balano-posthite, dépistages Ct homme"
+todo = "SEO, Balanite et balano-posthite, dépistages Ct homme"
 +++
 
 {{%article-summary%}}

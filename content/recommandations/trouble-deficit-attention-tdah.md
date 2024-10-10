@@ -108,18 +108,27 @@ L'ordre d'apparition des troubles est important pour déterminer un diagnostic d
 || Usage excessif des jeux et des écrans ||
 | Troubles anxieux | Trouble anxieux généralisé, anxiété de performance, refus scolaire anxieux, anxiété sociale, anxiété de séparation | Possibles irritabilité et agitation motrice et psychique ou inhibition comportementale ou anxiété de performance invalidante |
 | Troubles obsessionnels compulsifs | TOC | Obsessions, compulsions, rituels |
-| Troubles de l'humeur | Épisode dépressif caractérisé | Modification nette et récente de l'humeur, plus fréquent chez l'adolescent. Tristesse, idées suicidaires non exprimées spontanément, observées par des colères et irritabilité |
+| Troubles de l'humeur | [Épisode dépressif caractérisé]({{< relref "depression.md" >}}) | Modification nette et récente de l'humeur, plus fréquent chez l'adolescent. Tristesse, idées suicidaires non exprimées spontanément, observées par des colères et irritabilité |
 || Trouble disruptif avec dysrégulation émotionnelle | Comportement explosif (rage, accès de colère d'intensité et fréquence supérieures à l'âge développemental) |
 || Troubles bipolaires | Antécédents familiaux, humeur labile, irritabilité épisodique, troubles du sommeil. Rares avant l'adolescence |
-| Psycho-traumatisme | Trouble de l'adaptation ||
-||||
-||||
-||||
-||||
-||||
+| Psycho-traumatisme | Trouble de l'adaptation | Lié au stress, surtout transitoire, rechercher une rigidité cognitive |
+|| État de stress post-traumatique (ESPT) | Modifications du comportement après 1/+ évènements traumatiques. Évitement, hypervigilance, reviviscence, troubles du sommeil. |
+|| Trouble réactionnel de l'attachement ||
+|| Maltraitance | Envisager systématiquement, sous toutes ses formes (dont harcèlement scolaire) |
+| Troubles du sommeil | Insomnie, parasomnies | Très fréquents ainsi que le retard de phase. Le sommeil non réparateur peut se traduire par une hyperactivité, irritabilité, troubles de concentration |
+|| [Syndrome d'apnées obstructives du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) | Ronflements, pauses, sueurs nocturnes, nycturie, respiration buccale. Diurne: fatigue au réveil, troubles de l'attention, hyperactivité, somnolence, sommeil non réparateur |
+|| Narcolepsie | Endormissements diurnes irrépressibles, cataplexie, hallucinations hypnagogiques |
+|| [Syndrome des jambes sans repos]({{< relref "syndrome-jambes-sans-repos.md" >}}) | Besoin irrépressible de bouger les jambes suite à des sensations désagréables, soulagées par le mouvement, maximales le soir. Comorbidité fréquente |
+| [Énurésie]({{< relref "enuresie-primaire.md" >}}) || Comorbidité fréquente|
+| Obésité || Comorbidité fréquente |
+| Troubles du comportement alimentaire || [Boulimie]({{< relref "boulimie-hyperphagie.md" >}}), anorexie mentale |
+| Épilepsie || Surtout épilepsie absence: perte brève et brutale du contact, automatismes |
+| Déficit visuel ou auditif || Contrôle clinique systématique |
+| Endocrinopathie || [Dysthyroïdie](/tags/tsh/), [diabète]({{< relref "diabete-type-1.md" >}}), hyperplasie congénitale des surrénales |
+| Intoxication || [Plomb]({{< relref "saturnisme.md" >}}), mercure, syndrome d'alcoolisation fœtale |
+| Médicaments || Corticoïdes, valproate pendant la grossesse |
+| Maladie génétique || Syndrome de l'X fragile, délétion 22q11 ou 7q11.23, Prader-Willi, Angelman, neurofibromatose de type 1 |
 {{< /table >}}
-
-TODO: HASp20
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -191,13 +200,14 @@ L'évaluation du trouble déficit de l'attention/hyperactivité est au mieux ré
 - Stade pubertaire
 - Auscultation cardio-pulmonaire
 - Examen neurologique et test oculomoteurs
+- Examens auditifs et visuels
 - Évaluation du langage, de l'écriture, de la lecture, du calcul
 - Échelles d'aide à l'entretien pour les parents et les enseignants: [ADHD-RS](https://tdahbe.wordpress.com/wp-content/uploads/2013/02/adhd-rs-iv-cotation.pdf), [SNAP IV](https://afpa.org/outil/outil-de-depistage-tdah-premier-recours/) (échelles de Conners non validée en français)
 - Entretien diagnostique: [KIDDIE-SADS](https://sfpeada.fr/k-sads-pl-dsm-5-version-francaise-2018/) (DIVA enfant non validée en français)
 
 Les tests et questionnaires peuvent aider à objectiver des troubles mais n'ont pas de puissance diagnostique.
 
-L'évaluation est poursuivie par un spécialiste du trouble (pédopsychiatre, psychiatre, pédiatre, neuropédiatre, neurologue).
+L'évaluation est poursuivie par un spécialiste du trouble (pédopsychiatre, psychiatre, pédiatre, neuropédiatre, neurologue) et une équipe de niveau 2 avant 5 ans.
 {.alert .alert-info}
 
 {{% /collapse %}}

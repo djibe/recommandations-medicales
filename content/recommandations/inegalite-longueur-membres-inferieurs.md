@@ -142,7 +142,7 @@ Une amputation peut être discutée en cas de différence supérieure à **20 cm
 - [Bronfen C. Inégalités de longueur des membres inférieurs (de moins de 10 cm et sans désaxation prononcée) chez l'enfant et l'adolescent. Orthopédie et Traumatologie de L'enfant. 2021. (payant)](https://www.sciencedirect.com/science/article/abs/pii/B9782294772696000173)
 - [Launay F; SFP. Les inégalités de longueur des membres inférieurs. Pas à Pas en Pédiatrie. 2018.](https://pap-pediatrie.fr/les-inegalites-de-longueur-des-membres-inferieurs)
 - [Krieg A. Enfants et adolescents avec une inégalité de longueur des membres inférieurs - diagnostic et options thérapeutiques. Paediatrica. 2017.](https://www.researchgate.net/publication/330999285_Enfants_et_adolescents_avec_une_inegalite_de_longueur_des_membres_inferieurs_-_diagnostic_et_options_therapeutiques)
-- [Caton J et al. Inégalité de longueur des membres inférieurs : cause, diagnostic, prévision et traitement. EMC Appareil locomoteur. 2008. (payant)](https://www.em-consulte.com/article/194138/inegalite-de-longueur-des-membres-inferieurs-cause)
+- [Caton J, et al. Inégalité de longueur des membres inférieurs : cause, diagnostic, prévision et traitement. EMC Appareil locomoteur. 2008. (payant)](https://www.em-consulte.com/article/194138/inegalite-de-longueur-des-membres-inferieurs-cause)
 
 ### Bibliographie en attente
 

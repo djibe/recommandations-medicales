@@ -15,7 +15,7 @@ annees = "2024"
 sources = ["HAS", "CNS", "ANSM"]
 tags = ["HSH", "IST", "prevention", "VIH"]
 english = ["Treatment as Prevention (TasP)"]
-sctid = ""
+sctid = "1287783000"
 icd10 = []
 atc = "J05AR03"
 flowchart = true
@@ -172,7 +172,7 @@ Puis **renouvellement tous les 3 mois**.
 <div class="card card-hover card-tab my-3 mb-xl-5 mw-640">
   <ul class="nav nav-tabs nav-justified" id="tabs-prep" role="tablist">
     <li class="nav-item" role="presentation">
-      <button aria-controls="prep-h" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#prep-h" id="prep-h-tab" type="button" role="tab">Homme/Femme transgenre</button>
+      <button aria-controls="prep-h" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#prep-h" id="prep-h-tab" type="button" role="tab">Homme</button>
     </li>
     <li class="nav-item" role="presentation">
       <button aria-controls="prep-f" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#prep-f" id="prep-f-tab" type="button" role="tab">Femme</button>
@@ -180,6 +180,8 @@ Puis **renouvellement tous les 3 mois**.
   </ul>
   <div class="tab-content card-body">
   <div aria-labelledby="prep-h-tab" class="tab-pane fade show active" id="prep-h" role="tabpanel">
+
+Homme ou femme transgenre.
 
 #### Schéma continu
 
@@ -263,7 +265,7 @@ Quelque soit le schéma: poursuivre 1 cp par jour pendant **2 jours** après le 
 {{% /collapse %}}
 {{%collapse "Suivi de la PrEP" %}}
 
-Suivi spécialisé en cas d'[hépatite B active]({{< relref "hepatite-b.md" >}}).
+Le suivi du patient avec PrEP est nécessaire tous les 2 à 6 mois. Le suivi est spécialisé en cas d'[hépatite B active]({{< relref "hepatite-b.md" >}}).
 {.alert .alert-info}
 
 {{< table title="Suivi de la PrEP orale tous les 2 à 6 mois. Schéma préconisé selon HAS et ANSM" >}}

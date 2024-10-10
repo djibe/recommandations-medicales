@@ -42,7 +42,7 @@ Rattrapage vaccinal
 Nourrisson prématuré
 : Naissance avant 37 semaines d'aménorrhée (SA).
 
-> << Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >>. – *[SFSEP 2019](https://www.sciencedirect.com/science/article/abs/pii/S0035378719302759)*
+> << Les vaccins de manière générale ne sont pas associés à un risque accru de survenue d'une sclérose en plaques >>. – *[SFSEP 2024](https://sfsep.org/wp-content/uploads/2019/01/Presentation-Vaccinations-et-SEP-revision_Avril_2024.pdf)*
 {.alert .alert-info}
 
 ### Abréviations

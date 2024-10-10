@@ -400,6 +400,10 @@ graph TB
 - [Wendling D et al. Recommandations de la Société française de rhumatologie pour la prise en charge en pratique courante des malades atteints de spondylarthrite. Revue du Rhumatisme. 2014. (PDF)](https://www.larhumato.fr/wp-content/uploads/2017/11/SA20recos20SFR20Rev20Rhum.pdf)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Spondyloarthrite inflammatoire. Item 197 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-objectifs-0-18-0.php)
 
+### Bibliographie en attente
+
+[Sayed D, et al. American Society of Pain and Neuroscience Best Practice (ASPN) Guideline for the Treatment of Sacroiliac Disorders. J Pain Res. 2024.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38716038/)
+
 {{%/sources%}}
 {{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
 

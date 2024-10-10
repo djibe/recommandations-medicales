@@ -19,16 +19,18 @@ icd10 = ["A74.9"]
 image = true
 imageSrc = "Frottis cervical avec Chlamydia trachomatis dans des vacuoles en grossissement 500. Dr Lance Liotta Laboratory via Wikimedia Commons"
 todo = "améliorer clinique, flowchart"
+modele = true
 +++
 
 {{%article-summary%}}
 
-- Dépister largement les *Chlamydia trachomatis* (voir *Qui dépister ?*), tous les 3 à 6 mois chez [les HSH]({{< relref "hsh.md" >}})
-- PCR *Chlamydia trachomatis* sur auto-prélèvement vaginal ou premier jet d'urine pour les hommes
-- Prélèvement des autres sites selon les pratiques (pharynx, anus)
-- Prise en charge par des *Chlamydia* par antibiothérapie doxycycline 100 mg x 2/j pendant 7 jours OU azithromycine 1g dose unique avec traitement du partenaire et préservatif pendant 7 jours
-- Dépistage des [autres infections sexuellement transmissibles (IST)](/tags/ist/) et des partenaires des 12 derniers mois
-- Contrôle de l'éradication des *Chlamydia* à 6 mois par de nouveaux prélèvements
+- *Chlamydia trachomatis* est une bactérie intracellulaire de transmission sexuelle pouvant se compliquer de stérilité, grossesse extra-utérine et algies pelviennes chroniques
+- Dépister largement *Chlamydia* (gratuit avant 26 ans, voir *Qui dépister ?*) et tous les 3 à 6 mois chez [les HSH]({{< relref "hsh.md" >}})
+- Bilan de la suspicion d'infection: PCR *Chlamydia trachomatis* sur auto-prélèvement vaginal ou premier jet d'urine pour les hommes. Le prélèvement est couplé au dépistage du gonocoque et doit concerner d'éventuels d'autres sites selon les pratiques (pharynx, anus)
+- Prise en charge par des *Chlamydia*:
+  - Antibiothérapie doxycycline 100 mg x 2/j pendant 7 jours OU azithromycine 1g dose unique avec traitement du partenaire et préservatif pendant 7 jours
+  - Dépistage des [autres infections sexuellement transmissibles (IST)](/tags/ist/) et des partenaires des 12 derniers mois
+  - Contrôle de l'éradication des *Chlamydia* à 6 mois par de nouveaux prélèvements
 
 Chapitres liés: [urétrite et orchi-épididymite]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}), [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}})
 
@@ -36,8 +38,8 @@ Chapitres liés: [urétrite et orchi-épididymite]({{< relref "infection-genital
 {{%collapse "Définition" %}}
 
 *Chlamydiae trachomatis* (Ct)
-: Bactérie intracellulaire pathogène (sérotype D et K) responsable d'infections urogénitales sexuellement transmises.  
-Problème de santé publique du fait des complications: stérilité, grossesse extra-utérine, algies pelviennes chroniques.  
+: Bactérie intracellulaire pathogène (sérotypes D et K) responsable d'infections urogénitales sexuellement transmises.
+: Elle est un problème de santé publique du fait des complications: stérilité, grossesse extra-utérine, algies pelviennes chroniques.  
 L'infection atteint 3% des 18-29 ans avec co-infection *gonocoque* de 2-24%. +30% entre 2017 et 2019.
 
 ### Abréviations
@@ -92,15 +94,17 @@ Dépister systématiquement *Chlamydiae trachomatis* chez:
 - Autres sites selon les pratiques sexuelles  
   Ano-rectal, pharyngé.
 
+Le dépistage est gratuit avant 26 ans.
+
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 Signes et symptômes des infections à *Chlamydia trachomatis* selon le sexe.
 
-### Femme
+### Signes de Chlamydia chez la femme
 
 - Incubation 5-14 jours
-- Asymptomatique (70%)
+- **Asymptomatique** (70%)
 - Cervicite  
   Leucorrhées jaunes/blanches, cystalgies (douleurs de vessie), syndrome urétral, dyspareunie, spotting.
 - Salpingite et douleurs pelviennes chroniques  
@@ -108,13 +112,13 @@ Signes et symptômes des infections à *Chlamydia trachomatis* selon le sexe.
 - Grossesse extra-utérine
 - Stérilité
 
-### Homme
+### Signes de Chlamydia chez l'homme
 
 - Incubation 5-10 jours
-- Asymptomatique (50%)
-- Urétrite  
+- **Asymptomatique** (50%)
+- [Urétrite]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}})  
   Écoulement clair, modéré, intermittent.
-- Épididymite aiguë
+- [Épididymite aiguë]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}})
 - [HSH]({{< relref "hsh.md" >}}) et Chlamydia  
   Lymphogranulomatose vénérienne (LGV, co-infection VIH 76%) et ano-rectites à Chlamydia, [co-infection VIH]({{< relref "vih-sida.md" >}}) 30%.
 - Syndrome de Fiessinger-Leroy-Reiter
@@ -132,8 +136,7 @@ Prise en charge des infections à *Chlamydia trachomatis* selon les résultats d
 
 ### Dépistage négatif
 
-**Dépistage annuel** de *Chlamydiae trachomatis* si rapports non protégés avec un nouveau partenaire.  
-Dépistage tous les 3-6 mois chez les HSH.
+**Dépistage annuel** de *Chlamydiae trachomatis* si rapports non protégés avec un nouveau partenaire (tous les 3-6 mois chez les [HSH]({{< relref "hsh.md" >}})).
 
 ### Dépistage *Chlamydia* positif
 
@@ -165,12 +168,13 @@ PCR de contrôle à 6 mois
 {{% /collapse %}}
 {{%sources%}}
 
+- [Service-Public. Infections sexuellement transmissibles : gratuité du dépistage en laboratoire. 02/09/2024.](https://www.service-public.fr/particuliers/actualites/A17530)
 - [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-162.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - Prescrire Redaction. Chlamydiose liée à un rapport sexuel. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Santé Publique France. Chlamydiae. 01/12/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/chlamydiae)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
-- [Dupin N et al; Société Française de Dermatologie (SFD). Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement Transmissibles Infection à Chlamydia trachomatis. 2016. (PDF)](https://www.cnr-ist.fr/ressources/editeur/Guidelines%20IST%20SFDermato%202016.pdf)
+- [Dupin N, et al; Société Française de Dermatologie (SFD). Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement Transmissibles Infection à Chlamydia trachomatis. 2016. (PDF)](https://www.cnr-ist.fr/ressources/editeur/Guidelines%20IST%20SFDermato%202016.pdf)
 - [Ministère de la Santé. Infections sexuellement transmissibles (IST). 05/01/2016.](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/infections-sexuellement-transmissibles-ist)
 - [Anaes. Évaluation du dépistage des infections uro-génitales basses à Chlamydia trachomatis en France. 2003.](https://www.has-sante.fr/jcms/c_464119/fr/evaluation-du-depistage-des-infections-uro-genitales-basses-a-chlamydia-trachomatis-en-france-2003)
 
@@ -179,3 +183,11 @@ PCR de contrôle à 6 mois
 [Caumes E et al; Société Française de Dermatologie. Lymphogranulome vénérien (Maladie de Nicolas Favre). 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/lymphogranulome-venerien-maladie-de-nicolas-favre-1d34056eed4de0eb0768b25f7b4e3517.pdf)
 
 {{%/sources%}}
+{{% modele %}}
+
+Doxycycline per os 100 mg x 2/j pendant 7 jours  
+Ou azithromycine per os 1g dose unique
+
+PCR de contrôle à 6 mois
+
+{{% /modele %}}
