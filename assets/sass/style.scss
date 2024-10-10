@@ -1143,9 +1143,9 @@ legend {
 }
 
 .img-reco {
-  // height: 300px;
-  // object-fit: cover;
-  width: 100%;
+  max-height: 360px;
+  object-fit: cover;
+  // width: 100%;
 }
 
 .img-index {
@@ -1159,12 +1159,34 @@ legend {
   width: 32px;
 }
 
-.modal-title {
-  margin: 0 !important;
-}
-
 .modal-body {
   color: inherit;
+}
+
+.btn:not(.btn-icon):not(.btn-float) {
+  border-radius: 1.25rem;
+  height: 2.5rem;
+  line-height: 1.25rem;
+  padding: 0 1.25rem;
+}
+
+.modal {
+  .btn {
+    letter-spacing: normal;
+    text-transform: capitalize;
+    padding: 0.75rem;
+  }
+
+  p:has(> .btn) {
+    display: flex;
+    justify-content: end;
+    margin-top: 1.5rem;
+  }
+}
+
+#modal-modele h4 {
+  font-size: 1.125rem;
+  font-weight: 500;
 }
 
 .navbar {
