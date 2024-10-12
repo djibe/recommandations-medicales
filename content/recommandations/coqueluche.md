@@ -181,7 +181,7 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 
 > Délai minimal d'un mois entre 2 doses de vaccin coquelucheux
 
-{{< table title="Recommandations vaccinales contre la coqueluche selon Calendrier vaccinal 2024" class="table-wrap" >}}
+{{< table title="Recommandations vaccinales contre la coqueluche selon *Calendrier vaccinal 2024*" class="table-wrap" >}}
 | Âge                         | Spécialités                                                    | Commentaire                             |
 |-----------------------------|----------------------------------------------------------------|-----------------------------------------|
 | 2 mois                      | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |

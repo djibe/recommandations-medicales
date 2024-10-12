@@ -97,7 +97,7 @@ Les données du prix des consultations chez le médecin sont téléchargeables d
 
 Pour le graphique avant 2002, les francs français ont été convertis avec l'outil [Convertisseur franc-euro de l'Insee](https://www.insee.fr/fr/information/2417794).
 
-{{< table title="Prix de la consultation médicale des médecins généralistes conventionnée Secteur 1 en Francs et en Euros 2021 de 1980 à 2001. Dr JB Fron d'après Mayneris 2004 et Insee" >}}
+{{< table title="Prix de la consultation médicale des médecins généralistes conventionnée Secteur 1 en Francs et en Euros 2021 de 1980 à 2001. Dr JB Fron d'après *Mayneris 2004* et *Insee*" >}}
 | Année | Consultation (Francs) | C (Euros 2021) |
 |-------|----------------------:|---------------:|
 | 1980  |                    43 |          19.05 |
@@ -128,7 +128,7 @@ Pour le graphique avant 2002, les francs français ont été convertis avec l'ou
 
 **NB.** Un patient peut avoir plusieurs ALD mais la charge en soins est identique.
 
-{{< table title="Patients du régime général (France entière) en ALD (30, 31 ou 32) de 2008 à 2022 et évolution (base 100 en 2008). Dr JB Fron d'après l'Assurance Maladie" >}}
+{{< table title="Patients du régime général (France entière) en ALD (30, 31 ou 32) de 2008 à 2022 et évolution (base 100 en 2008). Dr JB Fron d'après l'*Assurance Maladie*" >}}
 | Année | Effectif (millions) | Évolution (%) |
 |-------|--------------------:|--------------:|
 | 2008  |               8,286 |           100 |
@@ -152,7 +152,7 @@ Pour le graphique avant 2002, les francs français ont été convertis avec l'ou
 
 ### Population de plus de 60 ans
 
-{{< table title="Part de la population de plus de 60 ans en France métropolitaine de 1980 à 2024 et évolution (base 100 en 1980). Dr JB Fron d'après Insee" >}}
+{{< table title="Part de la population de plus de 60 ans en France métropolitaine de 1980 à 2024 et évolution (base 100 en 1980). Dr JB Fron d'après *Insee*" >}}
 | Année | Proportion (%) |     Évolution |
 |-------|---------------:|--------------:|
 | 1980  |             17 |           100 |

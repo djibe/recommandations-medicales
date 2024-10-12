@@ -130,7 +130,7 @@ Indications à l'ostéodensitométrie (DXA): corticothérapie systémique ≥ 7,
 
 Les corticoïdes non fluorés (*ex* prednisone) sont utilisés en prise unique matinale. La prednisone a la meilleure biodisponibilité mais la prednisolone présente l'avantage d'une forme soluble pour les enfants et les sujets âgés.
 
-{{< table title="Équivalence des corticoïdes et leurs demi-vie. Dr JB Fron d'après ESE, ES 2024" >}}
+{{< table title="Équivalence des corticoïdes et leurs demi-vie. Dr JB Fron d'après *ESE, ES 2024*" >}}
 | Glucocorticoïde    | Équivalence (mg) | Activité  | Demi-vie (h) |
 |--------------------|-----------------:|----------:|-------------:|
 | Hydrocortisone     |               20 |         1 |         8-12 |
@@ -183,7 +183,7 @@ Un suivi endocrinien n'est pas nécessaire en l'absence de traitement corticoïd
 
 Lors de la décroissance, en cas de **syndrome de sevrage** aux corticoïdes sévère: remonter à la dernière dose tolérée puis ralentir la nouvelle décroissance.
 
-{{< table title="Suggestion du rythme pour la décroissance des corticoïdes après un traitement prolongé (plus de 3-4 semaines). Dr JB Fron d'après ESE, ES 2024" class="table-wrap" >}}
+{{< table title="Suggestion du rythme pour la décroissance des corticoïdes après un traitement prolongé (plus de 3-4 semaines). Dr JB Fron d'après *ESE, ES 2024*" class="table-wrap" >}}
 | Équivalent prednisone (mg/j) | Décroissance (mg) | Palier         |
 |------------------------------|-------------------|----------------|
 | > 40                         |              5-10 | 1 semaine      |

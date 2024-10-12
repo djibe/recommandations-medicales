@@ -134,7 +134,7 @@ S'assurer également d'[apports calciques suffisants]({{< relref "apports-calciu
 |---------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------|
 | 0 - 2 ans                                                     | 400-800 UI/j                                                                         | *Bacchetta 2022* |
 | 2 - 18 ans                                                    | 400-800 UI/j<br>voire 50.000 UI/trimestre<br>ou 80-100.000 UI en novembre et février | *Bacchetta 2022* |
-| 2 - 18 ans à risque<br>Sujet à peau noire, obèse, 0 exposition, vegan | 800-1600 UI/j voire 50.000 UI/6sem<br>ou 80-100.000 UI/trimestre                     | *Bacchetta 2022* |
+| 2 - 18 ans à risque<br>Sujet à peau noire, obèse, 0 exposition, vegan | 800-1600 UI/j voire 50.000 UI/6sem<br>ou 80-100.000 UI/trimestre             | *Bacchetta 2022* |
 | Grossesse                                                     | 80-100.000 UI à 7 mois de grossesse                                                  | *CNGOF 8e mois*  |
 | Mineur                                                        | &gt; 75 nmol/L                                                                       | *Bacchetta 2022* |
 | Adulte                                                        | ≥ 50 nmol/L                                                                          | *Annweiler 2018* |

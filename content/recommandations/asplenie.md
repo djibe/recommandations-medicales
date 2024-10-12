@@ -3,7 +3,7 @@ id = "0190e8bc-4f08-7b86-b883-646097b9bf4a"
 title = "Asplénie ou hyposplénie"
 prefix = "l'"
 titleSeo = "Asplénie"
-description = "Recommandations pour la vaccination du patient asplénique, immunodéprimé après splénectomie: antibioprophylaxie, vaccin pneumocoque, méningocoque B et ACYW135"
+description = "Recommandations pour la vaccination du patient asplénique, immunodéprimé après splénectomie: antibioprophylaxie, vaccin pneumocoque, méningocoque B et ACWY"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T23:51:41+02:00"
@@ -27,7 +27,7 @@ flowchart = true
 
 - L'asplénie (et l'hyposplénie) expose à des infections sévères et parfois foudroyantes (risque à vie mais maximal les 2 premières années)
 - Prise en charge de l'asplénique: antibioprophylaxie par pénicilline V Oracilline® 1 MUI 1 cp x 2/j pendant 2 ans (5 ans chez l'enfant)
-- 6 vaccinations recommandées contre l'immunodépression: {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}} et *Haemophilus*, méningocoques B et ACYW135, grippe et Covid 19
+- 6 vaccinations recommandées contre l'immunodépression: {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}} et *Haemophilus*, méningocoques B et ACWY, grippe et Covid 19
 - Les vaccins doivent être injectés dans les 2 à 6 semaines d'une splénectomie en urgence (ou au moins 2 semaines avant une splénectomie programmée)
 - L'asplénie expose à une sensibilité majeure au [paludisme]({{< relref "paludisme.md" >}})
 
@@ -103,7 +103,7 @@ La pénicilline V existe en sirop (250.000 UI/5 mL, 500.000 UI/5 mL, 1 MUI/10 mL
 
 Vaccins à réaliser avant voire après une splénectomie.
 
-{{< table title="Synthèse des vaccins à administrer en cas d'asplénie selon Calendrier vaccinal 2024 et HCSP 2014. Contrôler l'âge sur les RCP" class="table-wrap" >}}
+{{< table title="Synthèse des vaccins à administrer en cas d'asplénie selon *Calendrier vaccinal 2024* et *HCSP 2014*. Contrôler l'âge sur les RCP" class="table-wrap" >}}
 | Germe           | Primo-vaccination            | Rappel           |
 |-----------------|------------------------------|------------------|
 | Covid-19        | Recommandations en vigueur   |                  |
@@ -136,7 +136,7 @@ Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}).
 
 #### Vaccination anti-méningococcique (*Neisseria meningitidis*)
 
-##### Méningocoque ACYW135
+##### Méningocoque ACWY
 
 - [Menquadfi®](https://ec.europa.eu/health/documents/community-register/2022/20220929157200/anx_157200_fr.pdf) 1 dose unique (rythme de rappel non défini)  
   ou Menveo® (fourni sans seringue ni aiguille) ou [Nimenrix®](https://ec.europa.eu/health/documents/community-register/2023/20230223158551/anx_158551_fr.pdf) avec 2^e^ injection à 6 mois puis **rappel** tous les 5 ans
@@ -186,7 +186,7 @@ L'asplénie (par splénectomie ou autre) induit un risque infectieux majeur néc
 {{< mermaid title="Prise en charge de l'asplénie par le médecin généraliste. Drs JB Fron et Alaedine Benani d'après HCSP, SFAR, Lee GM" >}}
 graph TB
   asplénie("<b>Asplénie identifiée</b><br>—<br>- Splénectomie, traumatisme<br>ou infarctus splénique<br>- Congénital: drépanocytose,<br>thalassémie, syndromique,<br>maladie de surcharge") --> ETP("<b>Éducation thérapeutique</b><br>—<br>Risque infectieux, CAT fièvre,<br>prophylaxie urgente:") --> antibioprophylaxie("<b>Antibioprophylaxie</b><br>—<br>Péni V min. 2 ans<br>5 ans chez l'enfant") -. Allergie/pénurie .-> alternatives("- Érythromycine<br>- Céfalexine<br>- Amoxicilline")
-    ETP --> vaccin("<b>Vaccinations</b><br>—<br>- Pneumocoque<br>- Haemophilus<br>- Méningites B et ACYW<br>- Grippe et Covid") -- Rappels --> rappels("- dTP<br>- Pneumocoque<br>- Méningocoques<br>- Grippe, Covid")
+    ETP --> vaccin("<b>Vaccinations</b><br>—<br>- Pneumocoque<br>- Haemophilus<br>- Méningites B et ACWY<br>- Grippe et Covid") -- Rappels --> rappels("- dTP<br>- Pneumocoque<br>- Méningocoques<br>- Grippe, Covid")
     ETP --> spécialiste(Consultation spécialisée<br>Hémato, infectio, interniste)
   style asplénie stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}

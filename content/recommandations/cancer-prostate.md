@@ -61,7 +61,7 @@ Cancer de la prostate héréditaire
 
 Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de Gleason et ISUP** (évolution du Gleason) au diagnostic.
 
-{{< table title="Risque de cancer de prostate (CaP) selon le taux de PSA. Agressif = CaP ISUP ≥ 2. EAU 2024" class="table-sm" >}}
+{{< table title="Risque de cancer de prostate (CaP) selon le taux de PSA d'après la *EAU 2024*. Agressif = CaP ISUP ≥ 2." class="table-sm" >}}
 | PSA (ng/mL) | Risque de CaP (%) | Risque de CaP agressif (%) |
 |------------:|------------------:|---------------------------:|
 | 0 - 0,5     | 6,6               | 0,8                        |

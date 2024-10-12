@@ -50,7 +50,7 @@ Elle est augmentée en cas d'inflammation (carence martiale peu probable si ferr
 
 {{< clinique/anemie-definition >}}
 
-{{< table title="Ajustement du taux d'hémoglobine pour les fumeurs. Dr JB Fron d'après OMS 2024" class="table-sm" >}}
+{{< table title="Ajustement du taux d'hémoglobine pour les fumeurs. Dr JB Fron d'après *OMS 2024*" class="table-sm" >}}
 | Tabagisme (cig/j) | Ajustement du taux d'Hb (g/dL) |
 |-------------------|-------------------------------:|
 | Non               |                  0&nbsp;&nbsp; |
@@ -187,7 +187,7 @@ Une anémie par carence martiale pendant la **grossesse** dispense du bilan éti
 
 Prise en charge de l'anémie par supplémentation et fer puis surveillance de la remontée de l'hémoglobine à 1 mois, mensuelle jusqu'à correction de l'anémie, trimestrielle pendant 1 an puis semestrielle pendant 2-3 ans.
 
-{{< table title="Supplémentations en fers fumarate, gluconate et sulfate disponibles en France en 2024. Dr JB Fron d'après BDPM" >}}
+{{< table title="Supplémentations en fers fumarate, gluconate et sulfate disponibles en France en 2024. Dr JB Fron d'après *BDPM*" >}}
 | Spécialité             | Famille  | Fer élément (mg) |
 |------------------------|----------|-----------------:|
 | Fer AP-HP 0,5 gél      | Sulfate  |              0,5 |

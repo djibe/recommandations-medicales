@@ -49,7 +49,7 @@ Cliniquement, on observe une tuméfaction inflammatoire centrée par un point bl
 
 Prise en charge de l'orgelet par un collyre ou une pommade antibiotique **pendant 8 jours**.
 
-{{< table title="Antibiotiques en collyre pour le traitement d'un orgelet. Dr JB Fron d'après BDPM" >}}
+{{< table title="Antibiotiques en collyre pour le traitement d'un orgelet. Dr JB Fron d'après *BDPM*" >}}
 | Famille      | Spécialité  | Posologie |
 |--------------|-------------|-----------|
 | Acide fusidique | [fucithalmic 1% gel opht](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69088419&typedoc=R) | 1 gte x 2/j |

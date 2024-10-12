@@ -271,11 +271,11 @@ Une somnolence sévère doit faire rechercher une autre cause de troubles du som
 Une prise en charge spécifique est indiquée d'emblée pour les formes modérée à très sévères (score IRLS ≥ 11).
 
 {{< table title="Sévérité du syndrome des jambes sans repos selon l'échelle IRLS" >}}
-| Score | Sévérité |
-|:-----:|----------|
-| ≤ 10  | Léger    |
-| 11-20 | Modéré   |
-| 21-30 | Sévère   |
+| Score | Sévérité    |
+|:-----:|-------------|
+| ≤ 10  | Léger       |
+| 11-20 | Modéré      |
+| 21-30 | Sévère      |
 | ≥ 31  | Très sévère |
 {{< /table >}}
 
@@ -318,12 +318,12 @@ Diagnostics alternatifs à étayer devant une suspicion de syndrome des jambes s
   Douleurs diffuses musculaires/articulaires sans amélioration au mouvement ou aggravation au repos/soirée. EMG.
 - Enfant
   - Douleurs de croissance
-  - TDAH
+  - [TDAH]({{< relref "trouble-deficit-attention-tdah.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Syndrome des jambes sans repos en pédiatrie" %}}
 
-- Très fréquent en cas de TDAH
+- Très fréquent en cas de [TDAH]({{< relref "trouble-deficit-attention-tdah.md" >}})
 - Antécédent parental dans 80% des cas
 - Symptômes diurnes à type de troubles attentionnels, hyperactivité ou instabilité motrice
 

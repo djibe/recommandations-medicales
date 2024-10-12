@@ -75,7 +75,7 @@ Rythme, volume mictionnel et nuits mouillées.
   {{%class%}}Sécrétion inversée de vasopressine{{%/class%}}
 - Ronflements et apnées du sommeil observées
 - Troubles associés  
-  Seuil d'éveil anormal, troubles avec déficit d'attention et hyperactivité (TDAH), baisse de l'estime de soi (pas de sur-représentation des autres troubles psychiatriques).
+  Seuil d'éveil anormal, [trouble avec déficit d'attention et hyperactivité (TDAH)]({{< relref "trouble-deficit-attention-tdah.md" >}}), baisse de l'estime de soi (pas de sur-représentation des autres troubles psychiatriques).
 - Enquête des apports hydriques par heure (Polyurie nocturne par hydratation excessive)
 - Épisodes d'énurésie  
   Fréquence, horaire, circonstances des épisodes.

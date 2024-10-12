@@ -268,7 +268,7 @@ Quelque soit le schéma: poursuivre 1 cp par jour pendant **2 jours** après le 
 Le suivi du patient avec PrEP est nécessaire tous les 2 à 6 mois. Le suivi est spécialisé en cas d'[hépatite B active]({{< relref "hepatite-b.md" >}}).
 {.alert .alert-info}
 
-{{< table title="Suivi de la PrEP orale tous les 2 à 6 mois. Schéma préconisé selon HAS et ANSM" >}}
+{{< table title="Suivi de la PrEP orale tous les 2 à 6 mois. Schéma préconisé selon *HAS* et *ANSM*" >}}
 | Période | Bilan       | Remarque   |
 |:-------:|-------------|------------|
 | 1 mois  | - Sérologie VIH<br>- Créatininémie, CKD-EPI | ßHCG non systématique |
@@ -293,7 +293,7 @@ Collection de différents supports d'informations sur la PrEP à remettre au pat
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
 
-{{< card-link-external title="La PrEP et ses enjeux" url="https://www.formaprep.org" subtitle="e-learning gratuit par FormaPrEP">}}
+{{< card-link-external title="VIH, la PrEP en détails" url="https://www.formasantesexuelle.fr/courses/vih-prep-details/about" subtitle="e-learning gratuit par FormaSanteSexuelle">}}
 
 [ANSM. Informations importantes concernant le bon usage de l'emtricitabine/Ténofovir disoproxil dans l'indication Prophylaxie pré-exposition (PrEP) au VIH (PDF)](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-brochure-d-information-pds-version4-2021-juin.pdf)
 

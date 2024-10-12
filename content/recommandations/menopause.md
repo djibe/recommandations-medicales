@@ -70,7 +70,7 @@ En revanche, un test *négatif* (absence de saignements) n'affirme pas une méno
 La valeur prédictive du test au progestatif pour le diagnostic de ménopause n'a été évalué par aucune étude
 {.alert .alert-info}
 
-{{< table title="Terminologie de la ménopause. Dr JB Fron d'après CNGOF 2021" >}}
+{{< table title="Terminologie de la ménopause. Dr JB Fron d'après *CNGOF 2021*" >}}
 | Situation de survenue   | Terme                          |
 |-------------------------|--------------------------------|
 | &gt; 55 ans             | Ménopause tardive              |
@@ -538,7 +538,7 @@ Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch par semaine (sur fess
 \+ Progesterone orale 100 mg x 1/j en continu
 {{%/info%}}
 
-{{< table title="Traitements hormonaux de la ménopause (THM) recommandés par le CNGOF disponibles seuls ou en association en France en 2024. Dr JB Fron d'après BDPM" class="table-wrap">}}
+{{< table title="Traitements hormonaux de la ménopause (THM) recommandés par le CNGOF disponibles seuls ou en association en France en 2024. Dr JB Fron d'après *BDPM*" class="table-wrap">}}
 | Classe              | Molécule                   | Spécialités                                                                   | Dosages (cp en mg, patch en µg/24h) |
 |---------------------|----------------------------|-------------------------------------------------------------------------------|------------------------------------:|
 | Estradiol patch     | Estradiol                  | Dermestril (-Septem), Estrapatch, Femsept, Oesclim, Thais (-sept), Vivelledot |       25, 37,5, 40, 50, 60, 75, 100 |

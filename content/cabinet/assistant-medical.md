@@ -56,7 +56,7 @@ La première année, l'intégralité de l'aide est versée dans le mois qui suit
 
 De même, un délégué de l'Assurance Maladie peut accompagner le médecin embauchant un assistant médical durant la première année.
 
-{{< table title="Options de financement de l'Assistant médical par l'Assurance Maladie en 2023. ETP = équivalent temps-plein; P = percentile" >}}
+{{< table title="Options de financement de l'Assistant médical par l'Assurance Maladie en 2024. **ETP =** équivalent temps-plein; **P =** percentile" >}}
 | Options (ETP) | 1^re^ année (€) | 2^e^ année | Ensuite | Avec forte patientèle | Très forte |
 |--------------:|-------------------------:|-----------:|--------:|----------------------:|-----------:|
 |           1/2 |                   18.000 |     13.500 |  10.500 |                12.500 |     18.000 |

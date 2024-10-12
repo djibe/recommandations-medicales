@@ -45,7 +45,7 @@ Examens médicaux de la naissance à 16 ans avec la cotation associée, facturé
 - Les consultations *COE* correspondent aux certificats obligatoires (8 jours, 9 mois et 24 mois)  
 - Les tarifs ci-dessous concernent la Métropole
 
-{{< table title="Examens de suivi du nourrisson remboursés à 100% selon l'Arrêté du 26/02/2019 et cotation des consultations de l'enfant" >}}
+{{< table title="Examens de suivi du nourrisson remboursés à 100% selon l'*Arrêté du 26/02/2019* et cotation des consultations de l'enfant" >}}
 | N° |              Âge              |                                    Cotation MG                                    |
 |---:|:-----------------------------:|:---------------------------------------------------------------------------------:|
 |  1 | **Dans les 8 premiers jours** | COE (47,5€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |
@@ -88,7 +88,7 @@ Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{
 
 ### Vaccinations de l'enfant
 
-{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention NR. Dr JB Fron d'après Calendrier Vaccinal 2024" >}}
+{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Calendrier Vaccinal 2024*" >}}
 |          Âge          | Valences                                                                                  | Spécialités équivalentes                                                               |
 |:---------------------:|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Né après<br>le 1/1/24 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}})                                           | Sauf Abrysvo en fin de grossesse, Beyfortus au mieux avant<br>la sortie de maternité   |
@@ -97,7 +97,7 @@ Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{
 |        4 mois         | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus                                                    | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3              |
 |        5 mois         | Méningo C<br>Méningo B                                                                    | Neisvac<br>Bexsero                                                                     |
 |        11 mois        | DTCaP-Hib-HB<br>Pneumo 13                                                                 | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance                             |
-|        12 mois        | Méningo C<br>ROR<br>Méningo B                                                             | Neisvac<br>MMRvaxPro, Priorix<br>Bexsero                                               |
+|  12 mois              | Méningo C/ACWY<br>ROR<br>Méningo B                                                        | Neisvac/Mendquadfi NR/Nimenrix NR<br>MMRvaxPro, Priorix<br>Bexsero                     |
 |      16-18 mois       | ROR                                                                                       | MMRvaxPro, Priorix                                                                     |
 |         6 ans         | DTCaPolio                                                                                 | ~~InfanrixTetra~~, Tetravac-acellulaire                                                |
 |       11-13 ans       | dTcaPolio<br>(DTCaPolio si manqué)                                                        | BoostrixTetra, Repevax<br>(voir *6 ans*)                                               |

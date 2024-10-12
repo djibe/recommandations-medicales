@@ -524,7 +524,7 @@ La terbinafine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichag
 
 [Fiche SFD info patient terbinafine et itraconazole (SFD)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Bordereau-3_Prise-des-medicaments.pdf)
 
-{{< table title="Posologies de la terbinafine selon le poids. Dr JB Fron d'après SFD et al 2021" >}}
+{{< table title="Posologies de la terbinafine selon le poids. Dr JB Fron d'après *SFD 2021*" >}}
 | Poids (kg) | Posologie (mg) |
 |-----------:|---------------:|
 | +40        | 250            |
@@ -545,7 +545,7 @@ La prescription initiale d'itraconazole est hospitalière.
 
 [Fiche SFD info patient terbinafine et itraconazole (SFD)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Bordereau-3_Prise-des-medicaments.pdf)
 
-{{< table title="Posologies de l'itraconazole selon le poids. Dr JB Fron d'après SFD et al 2021" >}}
+{{< table title="Posologies de l'itraconazole selon le poids. Dr JB Fron d'après *SFD 2021*" >}}
 | Poids (kg) | Posologie (mg) |
 |-----------:|---------------:|
 | +20        | 100            |

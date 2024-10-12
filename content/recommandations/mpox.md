@@ -202,7 +202,7 @@ Accès libre à la vaccination sur auto-déclaration de statut de personne cible
 
 Utilisation le plus souvent de 2 doses de vaccin Mpox (vaccin **MVA-BN** de 3e génération) sauf immunodépression (2 à 3 doses chez PVVIH) ou travailleur du sexe (tableau ci-dessous).
 
-{{< table title="Schéma de vaccin Mpox à effectuer en prévention primaire. HAS 2024. Légende: Idep = immunodéprimé; MVA-BN = vaccin de 3e génération" >}}
+{{< table title="Schéma de vaccin Mpox à effectuer en prévention primaire selon la *HAS 2024*. **Légende:** **Idep =** immunodéprimé; **MVA-BN =** vaccin de 3e génération" >}}
 | Sujet éligible                       | Vacciné < 1980 | Non vacciné | Idep vacciné < 1980 | Idep non vacciné |
 |--------------------------------------|:--------------:|:-----------:|:-------------------:|:----------------:|
 | Aucune dose de MVA-BN                |     1 dose     |   2 doses   | 3 doses             | 3 doses          |

@@ -52,7 +52,7 @@ Corticothérapie locale par pommade ou collyre pendant **7 jours** (parfois prol
 
 Vérifier la monographie car il existe des contre-indications spécifiques pour chaque spécialité.
 
-{{< table title="Collyres antibiotiques disponibles pour le traitement d'un chalazion. Dr JB Fron d'après BDPM" >}}
+{{< table title="Collyres antibiotiques disponibles pour le traitement d'un chalazion. Dr JB Fron d'après *BDPM*" >}}
 | Famille      | Spécialité  | Posologie |
 |--------------|-------------|-----------|
 | DXM + framycétine \*,** | [Frakidex collyre](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60814943&typedoc=R)<br>ou [pom opht](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65164218&typedoc=R) | 1 gte x 3-6/j<br>1 appli x 1-3/j |

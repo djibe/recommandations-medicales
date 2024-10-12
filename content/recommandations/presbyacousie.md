@@ -39,7 +39,7 @@ Presbyacousie (ou surdité liée à l'âge)
 
 ### Degré de surdité
 
-{{< table title="Degré de surdité selon la perte auditive moyenne en dB par le Bureau international d'audiophonologie (biap)" >}}
+{{< table title="Degré de surdité selon la perte auditive moyenne en dB par le *Bureau international d'audiophonologie (biap)*" >}}
 | Déficience auditive | Perte (dB) |
 |---------------------|-----------:|
 | Légère              |      21-40 |

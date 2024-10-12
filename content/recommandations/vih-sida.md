@@ -436,6 +436,7 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 
 ### Bibliographie pour en savoir plus
 
+- [AS, ANRS, CNS. Adaptation du traitement antirétroviral en situation de succès virologique chez l'adulte vivant avec le VIH. 2024.](https://www.has-sante.fr/jcms/p_3545724/fr/adaptation-du-traitement-antiretroviral-en-situation-de-succes-virologique-chez-l-adulte-vivant-avec-le-vih)
 - [HAS, ANRS, CNS. Adaptation du traitement antirétroviral en situation d'échec virologique chez l'adulte vivant avec le VIH. 2024.](https://www.has-sante.fr/jcms/p_3545707/fr/adaptation-du-traitement-antiretroviral-en-situation-d-echec-virologique-chez-l-adulte-vivant-avec-le-vih)
 - [HAS, ANRS, CNS. Initiation d'un premier traitement antirétroviral chez l'adulte vivant avec le VIH. 2024.](https://www.has-sante.fr/jcms/p_3545694/fr/initiation-d-un-premier-traitement-antiretroviral-chez-l-adulte-vivant-avec-le-vih)
 - [ANRS, CNS. Prise en charge de l'enfant et de l'adolescent vivant avec le VIH. 2024.](https://www.has-sante.fr/jcms/p_3520800/fr/prise-en-charge-de-l-enfant-et-de-l-adolescent-vivant-avec-le-vih)

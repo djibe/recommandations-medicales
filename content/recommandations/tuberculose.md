@@ -147,7 +147,7 @@ L'IDR est en faveur d'une primo-infection tuberculeuse si l'induration est ≥ �
 
 L'IDR est en faveur de l'absence de primo-infection s'il est < 5 mm (10 mm en cas de vaccination BCG).
 
-{{< table title="Critères de test tuberculinique positif. Dr JB Fron d'après MSF" class="table-wrap" >}}
+{{< table title="Critères de test tuberculinique positif. Dr JB Fron d'après *MSF*" class="table-wrap" >}}
 | Caractéristiques individuelles | Diamètre de l'induration |
 |---------------------------------|-------------------------|
 | - VIH<br>- Enfants sévèrement malnutris<br>- Corticothérapie ≥ 15 mg/j ≥ 1 mois<br>- Immunosuppresseurs<br>- Contact récent avec un patient TB<br>- Patients avec une fibrose à la RP, compatible avec une TB antérieure | ≥ 5 mm |

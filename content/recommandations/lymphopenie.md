@@ -37,7 +37,7 @@ Lymphopénie
 : Lymphocytes circulants inférieurs à 1,5 G/L (ou 1500/mm³) chez l'adulte et 4500/mm³ chez l'enfant avant 8 mois.
 : L'enquête étiologique doit être systématique en dessous de **1 G/L**.
 
-{{< table title="Définition de la lymphopénie selon l'âge de l'enfant. Dr JB Fron d'après Swaanenburg et al 1987" class="table-sm" >}}
+{{< table title="Définition de la lymphopénie selon l'âge de l'enfant. Dr JB Fron d'après *Swaanenburg et al 1987*" class="table-sm" >}}
 | Âge de l'enfant | Seuil (/mm³) |
 |-----------------|-------------:|
 | Naissance       |          2,0 |

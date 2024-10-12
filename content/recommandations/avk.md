@@ -63,7 +63,7 @@ Nouvel INR le lendemain du diagnostic de surdose avec reconduction identique des
 
 ### INR cible entre 2 et 3
 
-{{< table title="Conduite à tenir devant un surdosage en AVK pour un INR cible entre 2 et 3 selon HAS 2008" class="table-wrap" >}}
+{{< table title="Conduite à tenir devant un surdosage en AVK pour un INR cible entre 2 et 3 selon *HAS 2008*" class="table-wrap" >}}
 | INR             | Action                                    |
 |:---------------:|-------------------------------------------|
 | INR < 4         | Surveiller, nouvel INR à 1-2 semaines     |
@@ -75,7 +75,7 @@ Nouvel INR le lendemain du diagnostic de surdose avec reconduction identique des
 
 ### INR cible entre 3 et 4,5
 
-{{< table title="Conduite à tenir devant un surdosage en AVK pour un INR cible entre 3 et 4,5 selon HAS 2008" class="table-wrap" >}}
+{{< table title="Conduite à tenir devant un surdosage en AVK pour un INR cible entre 3 et 4,5 selon *HAS 2008*" class="table-wrap" >}}
 | INR             | Action                                |
 |:---------------:|---------------------------------------|
 | 6 ≤ INR < 10    | Sauter prise et vitamine K 1-2 mg après avis du spécialiste référent |

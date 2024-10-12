@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2024-09-27"
+lastmod = "2024-10-11"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "HAS"]
@@ -18,7 +18,7 @@ sctid = "118185001"
 icd10 = []
 image = true
 imageSrc = "Illustration de la grossesse par stories / Freepik"
-todo = "évaluer les apports calcium, FCV, dépistage DG, électrophorèse Hb, fiche ANSM vaccins, grossesse altitude, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
+todo = "interrog 1re cs, évaluer les apports calcium, électrophorèse Hb, fiche ANSM vaccins, grossesse altitude, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
 chart = true
 modele = true
 +++
@@ -123,19 +123,25 @@ Malgré les fermetures, **43 %** des maternités ont réalisé en 2020 **moins d
 
 Éléments vitaux du suivi de grossesse:
 
-- Toxiques à chaque consultation
-- Vaccinations Covid-19 et grippe à n'importe quel terme; Coqueluche entre 20 et 36 SA à chaque grossesse; Anti-VRS par Abysvo une seule fois si terme de 32 à 36 SA de septembre à janvier (ou Beyfortus chez le nouveau-né à défaut)
-- Activité physique: 30 minutes à 1h d'intensité modérée à intense ≥ 5 j/semaine, sédentarité < 7h/j (*CNSFF*)
+- **Toxiques** à chaque consultation
+- **Vaccinations**
+  - Covid-19 et grippe à n'importe quel terme
+  - Coqueluche entre 20 et 36 SA à chaque grossesse
+  - Anti-VRS par Abrysvo une seule fois si terme de 32 à 36 SA de septembre à janvier  
+    ou Beyfortus chez le nouveau-né à défaut.
+  - Avant la grossesse: rattrapage rubéole et varicelle
+- **Activité physique**  
+  30 minutes à 1h d'intensité modérée à intense ≥ 5 j/semaine, sédentarité < 7h/j (*CNSFF*).
 
-{{< table title="Suivi simplifié de la grossesse. Dr JB Fron d'après HAS et Collège" class="table-wrap">}}
+{{< table title="Suivi simplifié de la grossesse. Dr JB Fron d'après *HAS* et *Collège*" class="table-wrap">}}
 | Moment   | Clinique | Examen  | Traitement |
 |----------|----------|---------|------------|
 | Chaque consultation | PA, poids, signes de grossesse | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}ECBU{{%/tooltip%}} si ATCD, toxoplasmose si -, {{%tooltip "Jusqu'à 18 SA"%}}rubéole si -{{%/tooltip%}}, TSH si sympt. aspécifiques | Arrêt alcool/tabac et {{%tooltip "lecrat.fr"%}}automédication{{%/tooltip%}}, vaccin grippe+covid, {{%tooltip "mangerbouger.fr"%}}alimentation{{%/tooltip%}} (listériose ++) |
-| Préconceptionnelle<br>ou 1re consultation (< 10 SA) | ATCD (gynéco, varicelle), toxiques, profession, vaccinations, précarité, maltraitance, DDR, {{%tooltip "Bandelette urinaire: glycosurie et protéinurie"%}}BU{{%/tooltip%}} | NFS, ferritine, {{%tooltip "1re grossesse sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}}<br>Sérologies {{%tooltip "Sauf vaccination double dose documentée"%}}rubéole{{%/tooltip%}}, toxoplasmose, syphilis, VIH, VHC, {{%tooltip "AgHBs sans vaccination"%}}anti-HBs{{%/tooltip%}}, ± {{%tooltip "≥ 35 ans, surpoids, ATCD DG/macrosomie ou fam DT2"%}}glycémie{{%/tooltip%}}, TSH si sympt. aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et FDR{{< /modal-btn >}}, ± frottis | {{%tooltip "Jusqu'à 8 SA (HAS), 14 SA (USPTF)"%}}acide folique{{%/tooltip%}} 0,4 mg/j, {{%tooltip "De 11 à 13 SA + 6j"%}}écho T1{{%/tooltip%}} + {{%tooltip "βhCG libre + PAPP-A"%}}dépistage T21{{%/tooltip%}} |
+| Préconceptionnelle<br>ou 1re consultation (< 10 SA) | ATCD (gynéco, varicelle), toxiques, profession, vaccinations, précarité, maltraitance, DDR, {{%tooltip "Bandelette urinaire: glycosurie et protéinurie"%}}BU{{%/tooltip%}} | NFS, ferritine, {{%tooltip "1re grossesse sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}}, ± {{%tooltip "Si mère RH-1- et terme ≥ 11 SA"%}}Gpe ABO Rh de l'homme{{%/tooltip%}}<br>Sérologies {{%tooltip "Sauf vaccination double dose documentée"%}}rubéole{{%/tooltip%}}, toxoplasmose, syphilis, VIH, VHC, {{%tooltip "AgHBs sans vaccination"%}}Ac anti-HBs{{%/tooltip%}}, ± {{%tooltip "≥ 35 ans, surpoids, ATCD DG/macrosomie ou fam DT2"%}}glycémie{{%/tooltip%}}, TSH si sympt. aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et FDR{{< /modal-btn >}}, ± frottis | {{%tooltip "Jusqu'à 8 SA (HAS 2016), 14 SA (USPTF)"%}}acide folique{{%/tooltip%}} 0,4 mg/j, {{%tooltip "De 11 à 13 SA + 6j"%}}écho T1{{%/tooltip%}} + {{%tooltip "βhCG libre + PAPP-A"%}}dépistage T21{{%/tooltip%}} |
 | 4e mois<br>16-20 SA | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}BU{{%/tooltip%}} (HAS 2024) | {{%tooltip "Gratuite jusqu'à 6 mois après l'accouchement"%}}Cs dentaire{{%/tooltip%}} ||
 | 5e mois<br>20-24 SA || {{%tooltip "22 SA (20-25)"%}}Écho T2{{%/tooltip%}} | Vaccin coqueluche |
 | 6e mois<br>24-28 SA || {{%tooltip "L'USPTF trouve le dépistage inutile si asymptomatique"%}}NFS{{%/tooltip%}}, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} | ± Rattrapage coqueluche |
-| 7e mois<br>28-32 SA || {{%tooltip "32 SA (30-35)"%}}Écho T3{{%/tooltip%}} | ± Rattrapage coqueluche |
+| 7e mois<br>28-32 SA || {{%tooltip "32 SA (30-35)"%}}Écho T3{{%/tooltip%}} | {{%tooltip "28 SA: si mère RH-1- et fœtus RH-1+"%}}± Rhophylac® 300{{%/tooltip%}} ± Rattrapage coqueluche |
 | 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, {{%tooltip "Entre 35 et 38 SA"%}}prélèvement vaginal (strepto B){{%/tooltip%}} | VitD 100.000 UI, {{%tooltip "De septembre à janvier"%}}Abrysvo{{%/tooltip%}}, ± rattrapage coqueluche |
 | 9e mois<br>37-42 SA ||||
 {{< /table >}}
@@ -162,19 +168,23 @@ Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{< re
 {{< card-link-external title="Tableau Vaccins et grossesse" url="https://ansm.sante.fr/uploads/2022/04/27/20220427-dossier-medicament-grossesse-vaccins-tableau.pdf" subtitle="par l'ANSM" >}}
 
 {{% /collapse %}}
-{{%collapse "Prévention de l'allo-immunisation Rhésus D" %}}
+{{%collapse "Prévention de l'allo-immunisation Rhésus D anti-RH1" %}}
 
-Pour toutes les femmes: double détermination du **groupe sanguin RhD** et rechercher d'agglutinines irrégulières (**RAI**) dès le premier trimestre de grossesse.
+Pour toutes les femmes à la 1^re^ grossesse (sauf carte de groupe): double détermination du **groupe sanguin rhésus D** (RhD, dit rhésus 1 -- RH-1) et recherche d'agglutinines irrégulières (**RAI**) si rhésus négatif ou antécédent de transfusion dès le premier trimestre de grossesse.
 {.alert .alert-info}
 
 ### Femme Rhésus D négatif
 
 - Information sur l'immunisation anti-rhésus D: dépistage, suivi (RAI au 1^er^ trimestre, 6e, 8e et 9e mois), prévention
+- Avant 12 SA avec géniteur rhésus 1 positif ou inconnu: pas d'immunoglobulines anti-D en cas d'IVG, de grossesse arrêtée, de fausse couche ou de métrorragies sur grossesse évolutive
+
+> -- *CNGOF 2024*
+
 - Détermination du RhD chez le conjoint  
-  Si le conjoint est RhD+ ou inconnu: génotypage RhD fœtal sur sang maternel à partir de 11 SA (que la grossesse soit unique ou multiple).
+  Si le conjoint est rhésus 1 positif ou inconnu: génotypage RhD fœtal sur sang maternel à partir de 11 SA (que la grossesse soit unique ou multiple).
 - Si génotypage RhD fœtal:
   - Fœtus RhD positif: injection d'immunoglobuline humaine anti-D (IgRh, [Rhophylac® 300](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68484547&typedoc=R)) à 28 SA (avant si évènement à risque)
-  - Fœtus RhD négatif: 2e génotypage après 15 SA à au moins 2 semaines du premier. Si RhD négatif confirmé, pas de prévention d'allo-immunisation nécessaire.
+  - Fœtus RhD négatif: 2^e^ génotypage après 15 SA à au moins 2 semaines du premier. Si RhD négatif confirmé, pas de prévention d'allo-immunisation nécessaire.
   - Si le Rhésus D fœtal ne peut être déterminé sur 2 prélèvements: le considérer comme RhD positif
 
 > -- *CNGOF 2017*
@@ -184,7 +194,7 @@ Pour toutes les femmes: double détermination du **groupe sanguin RhD** et reche
 {{% /collapse %}}
 {{%collapse "Imageries et grossesse" %}}
 
-Un scanner thoraco-abdominopelvien avec ou sans injection de produit de contraste peut être réalisé s'il est indiqué pour la mère, << la balance bénéfice/risque de cet examen devant prévaloir à la décision de sa réalisation >>.
+Un scanner thoraco-abdomino-pelvien avec ou sans injection de produit de contraste peut être réalisé s'il est indiqué pour la mère, << la balance bénéfice/risque de cet examen devant prévaloir à la décision de sa réalisation >>.
 
 > -- *CNGOF/SFMU/SFAR 2022*
 
@@ -202,7 +212,7 @@ Chute ou traumatisme thoraco-abdominal non grave: examen obstétrical systémati
 Signes prédictifs d'accouchement imminent à l'interrogatoire:
 
 - Multiparité
-- Antécédent d'accouchement extrahospitalier ou rapide
+- Antécédent d'accouchement extra-hospitalier ou rapide
 - Contractions utérines douloureuses et rapprochées
 - Envie de pousser
 
@@ -232,7 +242,7 @@ AET
 
 ### Augmentation des besoins énergétiques au cours de la grossesse
 
-{{< table title="Augmentation des besoins énergétiques pendant la grossesse selon Anses 2019" class="table-sm" >}}
+{{< table title="Augmentation des besoins énergétiques pendant la grossesse selon l'*Anses 2019*" class="table-sm" >}}
 | Terme de la grossesse | Augmentation des apports (kcal/j) |
 |-----------------------|----------------------------------:|
 | T1                    |                                70 |
@@ -247,7 +257,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 
 ### Objectif de prise de poids pendant la grossesse
 
-{{< table title="Prise de poids recommandée selon l'indice de masse corporelle avant la grossesse. Dr JB Fron d'après IOM Pregnancy Weight Guidelines 2009" >}}
+{{< table title="Prise de poids recommandée selon l'indice de masse corporelle avant la grossesse. Dr JB Fron d'après *IOM Pregnancy Weight Guidelines 2009*" >}}
 | Morphotype   | IMC avant grossesse (kg/m²) | Prise de poids recommandée <br>pendant la grossesse (kg) |
 |--------------|----------------------------:|---------------------------------------------------------:|
 | Maigreur     |                      < 18,5 |                                                12,5 - 18 |
@@ -268,6 +278,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 {{% /collapse %}}
 {{%sources%}}
 
+- [Vigoureux S et al; CNGOF. Prévention de l'allo-immunisation anti-RH1 au premier trimestre de la grossesse: recommandations pour la pratique clinique du Collège National des Gynécologues-Obstétriciens Français. Gynécologie Obstétrique Fertilité & Sénologie. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2468718924000813)
 - [US Preventive Services Task Force. Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive Services Task Force Recommendation Statement. JAMA. 2024.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/iron-deficiency-anemia-in-pregnant-women-screening-and-supplementation)
 - [Service Public. Grossesse : examens médicaux. 14/08/2024.](https://www.service-public.fr/particuliers/vosdroits/F963)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
@@ -285,17 +296,15 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 - Collège national des gynécologues et obstétriciens français (CNGOF). Gynécologie obstétrique Réussir son DFASM. 2021.
 - [CNGOF. Prévention de l'allo-immunisation Rhésus D chez les patientes de groupe Rhésus D négatif. 2017. (PDF)](https://cngof.fr/rpc/)
 - [HAS. Suivi et orientation des femmes enceintes en fonction des situations à risque identifiées. 2016.](https://www.has-sante.fr/jcms/c_547976/fr/suivi-et-orientation-des-femmes-enceintes-en-fonction-des-situations-a-risque-identifiees)
+- [HAS. Projet de grossesse : informations, messages de prévention, examens à proposer. 2009.](https://www.has-sante.fr/jcms/c_1360649/fr/projet-de-grossesse-informations-messages-de-prevention-examens-a-proposer)
 - [DGS. Recommandations pour la prévention des anomalies de la fermeture du tube neural. 2001. (PDF)](https://sante.gouv.fr/IMG/pdf/Recommandations_pour_la_prevention_des_anomalies_de_la_fermeture_du_tube_neural.pdf)
 
 ### Bibliographie en attente
 
 - [Cour des Comptes. La politique de périnatalité. 2024.](https://www.ccomptes.fr/fr/publications/la-politique-de-perinatalite)
-- [Vigoureux S et al; CNGOF. Prévention de l'allo-immunisation anti-RH1 au premier trimestre de la grossesse: recommandations pour la pratique clinique du Collège National des Gynécologues-Obstétriciens Français. Gynécologie Obstétrique Fertilité & Sénologie. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2468718924000813)
 - [HAS. Accompagnement médico-psycho-social des femmes, des parents et de leur enfant, en situation de vulnérabilité, pendant la grossesse et en postnatal. 2024.](https://www.has-sante.fr/jcms/p_3271226/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal)
 - [HAS. Situations pathologiques pouvant relever de l'hospitalisation à domicile au cours de l'ante et du post-partum. 2011.](https://www.has-sante.fr/jcms/c_1066375/fr/situations-pathologiques-pouvant-relever-de-l-hospitalisation-a-domicile-au-cours-de-l-ante-et-du-post-partum)
-- [HAS. Grossesse, accouchement et suivi postnatal. Panorama.](https://www.has-sante.fr/jcms/p_3286443/fr/grossesse-accouchement-et-suivi-postnatal)
 - [Service-Public. A-t-on droit à des absences liées à la grossesse dans la fonction publique ? 24/11/2023.](https://www.service-public.fr/particuliers/vosdroits/F34536)
-- [HAS. Projet de grossesse : informations, messages de prévention, examens à proposer. 2009.](https://www.has-sante.fr/jcms/c_1360649/fr/projet-de-grossesse-informations-messages-de-prevention-examens-a-proposer)
 - [HAS. Grossesse, accouchement et suivi postnatal. Panorama.](https://www.has-sante.fr/jcms/p_3286443/fr/grossesse-accouchement-et-suivi-postnatal)
 
 {{%/sources%}}
@@ -306,7 +315,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 {{% /modal %}}
 {{% modele %}}
 
-**Bilan préconceptionnel ou de début de grossesse**
+#### Bilan préconceptionnel ou de début de grossesse
 
 - NFS
 - Ferritine
@@ -317,10 +326,10 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 - ± TSH si symptômes aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et facteurs de risque{{< /modal-btn >}}
 - Rattrapage du frottis cervico-vaginal
 
-**Ordonnance de la première consultation**
+#### Ordonnance de la première consultation
 
 - Acide folique 0,4 mg/j jusqu'à 8 SA
 - Échographie du premier trimestre (de 11 à 13 SA + 6 jours)
-- Dépistage de la trisomie T21 après l'échographie (βhCG libre + PAPP-A)
+- Dépistage de la trisomie 21 après l'échographie (βhCG libre + PAPP-A)
 
 {{% /modele %}}

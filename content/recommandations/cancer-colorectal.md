@@ -269,7 +269,7 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 
 ### Rythme de dépistage chez les personnes à haut risque de cancer colorectal
 
-{{< table title="Indications au dépistage du cancer colorectal pour les personnes à haut risque selon SFED 2021 et HAS 2017" class="table-sm" >}}
+{{< table title="Indications au dépistage du cancer colorectal pour les personnes à haut risque selon *SFED 2021* et *HAS 2017*" class="table-sm" >}}
 | Patient | Début surveillance | Population | Suivi et rythme |
 |---|---|---|---|
 | Antécédent personnel d'adénome<br>(SFED 2021) | Après résection | <strong>Risque élevé:</strong><br>- ≥ 5 adénomes<br>- 1 adénome ≥ 10 mm ou en DHG<br>- ≥ 1 PF | Coloscopie à 3 ans |

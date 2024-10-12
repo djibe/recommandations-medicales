@@ -455,7 +455,7 @@ Le même traitement peut être repris si les migraines récidivent.
 Les nouveaux anti-CGRP ne peuvent être prescrits que par les neurologues et ne sont pas remboursés.  
 Autres traitements de fond (dose min-max en mg) et niveau de recommandation *SFEMC*:
 
-{{< table title="Niveaux de recommandations par la SFEMC 2021 des différents traitements de fond de la migraine" class="table-wrap" >}}
+{{< table title="Niveaux de recommandations des différents traitements de fond de la migraine selon la *SFEMC 2021*" class="table-wrap" >}}
 | Migraine              | Recommandation élevée | Modérée | Faible |
 |-----------------------|-----------------------|---------|--------|
 | Épisodique (< 15 j/m) | Amitriptyline 10-100 dîner, candésartan 8-32 en 1 ou 2/j, valproate 250-2000 soir ou 2/j | Aténolol 50-200 matin, nébivolol 5-10 matin, timolol 10-60 en 2 prises, flunarizine 5-10 matin, lisinopril 5-40, oxétorone, pizotifène | Lévétiracétam, venlafaxine |

@@ -391,7 +391,7 @@ Après 1 an, en cas de rémission, le suivi avec TSH annuelle relève du génér
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus: Antithyroïdiens de synthèse, irathérapie et chirurgie" %}}
 
-{{< table title="Bénéfices, risques et contre-indications aux différents traitements de l'hyperthyroïdie selon HAS 2022" >}}
+{{< table title="Bénéfices, risques et contre-indications aux différents traitements de l'hyperthyroïdie selon *HAS 2022*" >}}
 | Traitement                            | Bénéfices                                      | Risques                                                                       | Contre-indications                            |
 |---------------------------------------|------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------|
 | Antithyroïdiens<br> de synthèse (ATS) | Non invasif                                    | Récidives (53%)<br> Durée du traitement                                       | Grossesse                                     |

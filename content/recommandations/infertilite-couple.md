@@ -43,15 +43,15 @@ Infertilité (ou infécondité)
 Stérilité
 : Incapacité totale pour un couple d'avoir un enfant. Elle concerne 4% des couples en France. **Terme à éviter**.
 
-{{< table title="Définitions des anomalies au spermogramme et spermocytogramme. Dr JB Fron d'après OMS 2021" class="table-wrap" >}}
-| Terme    | Définition |
-|----------|-----------------|
-| Hypospermie |  Volume d'éjaculat < 1,4 mL à 2 reprises |
-| Oligospermie | Numération < 15 M/mL ou < 39 millions de spermatozoïdes dans l'éjaculat |
-| Azoospermie | Absence totale de spermatozoïdes: obstructive (obstacle sur les voies excrétrices) ou non (défaut de spermatogenèse) |
-| Asthénospermie | < 30% de spermatozoïdes mobiles |
-| Tératospermie | < 4% de spermatozoïdes normaux (Kruger) ou < 23% de spermatozoïdes (David modifiée) |
-| Nécrospermie | > 46% de spermatozoïdes << morts >> |
+{{< table title="Définitions des anomalies au spermogramme et spermocytogramme. Dr JB Fron d'après *OMS 2021*" class="table-wrap" >}}
+| Terme          | Définition                                                                                                           |
+|----------------|----------------------------------------------------------------------------------------------------------------------|
+| Hypospermie    | Volume d'éjaculat < 1,4 mL à 2 reprises                                                                              |
+| Oligospermie   | Numération < 15 M/mL ou < 39 millions de spermatozoïdes dans l'éjaculat                                              |
+| Azoospermie    | Absence totale de spermatozoïdes: obstructive (obstacle sur les voies excrétrices) ou non (défaut de spermatogenèse) |
+| Asthénospermie | < 30% de spermatozoïdes mobiles                                                                                      |
+| Tératospermie  | < 4% de spermatozoïdes normaux (Kruger) ou < 23% de spermatozoïdes (David modifiée)                                  |
+| Nécrospermie   | > 46% de spermatozoïdes << morts >>                                                                                  |
 {{< /table >}}
 
 ### Abréviations

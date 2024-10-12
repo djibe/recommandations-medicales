@@ -25,7 +25,7 @@ todo = "HAS EMLA, Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vac
 
 - Rappel vaccinal de [la coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA), stratégie de cocooning sinon, anti-VRS dose unique de 32 à 36 SA
 - Les pharmaciens formés peuvent prescrire et administrer à partir de 11 ans tous les vaccins du calendrier vaccinal, y compris le ROR (sauf immunodépression)
-- Vaccination des +16 ans par les infirmiers sans ordonnance pour: [grippe]({{< relref "grippe.md" >}}), dTcaPolio, [papillomavirus]({{< relref "cancer-col-uterus.md" >}}), pneumocoque, [hépatite A]({{< relref "hepatite-a.md" >}}) et [B]({{< relref "hepatite-b.md" >}}), méningocoques B et ACYW135 et la rage
+- Vaccination des +16 ans par les infirmiers sans ordonnance pour: [grippe]({{< relref "grippe.md" >}}), dTcaPolio, [papillomavirus]({{< relref "cancer-col-uterus.md" >}}), pneumocoque, [hépatite A]({{< relref "hepatite-a.md" >}}) et [B]({{< relref "hepatite-b.md" >}}), méningocoques B et ACWY et la rage
 - Poser une question pour un cas vaccinal particulier: [Infovac App](https://app.infovac.fr) (nécessite de créer un compte)
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
 
@@ -60,7 +60,7 @@ VVA
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal 2024" "show" %}}
 
-{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie sauf NR. Dr JB Fron d'après Calendrier vaccinal 2024, DGS Urgent et HAS 2024." >}}
+{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie sauf NR. Dr JB Fron d'après *Calendrier vaccinal 2024*, *DGS Urgent* et *HAS 2024*." >}}
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
 |   Né après<br>le 1/1/24 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
@@ -69,7 +69,7 @@ VVA
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3 |
 |   5 mois   | Méningo C/ACWY<br>Méningo B                          | Neisvac/Nimenrix NR<br>Bexsero                                            |
 |  11 mois   | DTCaP-Hib-HB<br>Pneumo 13                            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance                |
-|  12 mois   | Méningo C/ACWY<br>ROR<br>Méningo B                   | Neisvac/Nimenrix NR<br>MMRvaxPro, Priorix<br>Bexsero                      |
+|  12 mois   | Méningo C/ACWY<br>ROR<br>Méningo B                   | Neisvac/Mendquadfi NR/Nimenrix NR<br>MMRvaxPro, Priorix<br>Bexsero        |
 | 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
@@ -239,7 +239,7 @@ Contre-indications temporaires à la vaccination fièvre jaune:
 
 Disposer du matériel nécessaire à un choc anaphylactique.
 
-Depuis le 7 novembre 2022, les infirmiers et pharmaciens peuvent administrer sans ordonnance à partir de 16 ans: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage
+Depuis le 7 novembre 2022, les infirmiers et pharmaciens peuvent administrer sans ordonnance à partir de 16 ans: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACWY et la rage
 {.alert .alert-info}
 
 ### Sites d'injection

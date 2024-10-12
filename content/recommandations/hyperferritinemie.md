@@ -78,7 +78,7 @@ SNFGE
 
 Orientation diagnostique et étiologie d'une hyperferritinémie.
 
-{{< table title="Principaux mécanismes d'hyperferritinémie d'après CDU-HGE" >}}
+{{< table title="Principaux mécanismes d'hyperferritinémie d'après *CDU-HGE*" >}}
 | Mécanisme                                  | CST    | Surcharge en fer  |
 |--------------------------------------------|--------|-------------------|
 | Syndrome inflammatoire                     | Normal | Non               |

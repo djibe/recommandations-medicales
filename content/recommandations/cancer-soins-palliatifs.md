@@ -34,7 +34,7 @@ Articles liés: [directives anticipées]({{< relref "directives-anticipees.md" >
 
 {{%collapse "Prise en charge des complications de la chimiothérapie" "show" %}}
 
-{{< table title="Prise en charge des principales complications de la chimiothérapie" >}}
+{{< table title="Prise en charge des principales complications de la chimiothérapie selon sources mentionnées" >}}
 | Atteinte      | Prise en charge                                            | Source |
 |---------------|------------------------------------------------------------|--------|
 | [Alopécie]({{< relref "alopecie.md" >}})      | Max J15-17. Casque réfrigérant pendant. Prothèse capillaire. Repousse systématique 3-5 semaines après la dernière injection  | INCa TODO: |

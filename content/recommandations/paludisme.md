@@ -198,7 +198,7 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 
 ### Indication à la chimioprophylaxie antipaludique selon le type de voyage
 
-{{< table title="Indication de la chimioprophylaxie du paludisme (CPAP) et des autres moyens de prévention en zone d'endémie de paludisme selon le continent et les conditions de séjour. HCSP 2024" >}}
+{{< table title="Indication de la chimioprophylaxie du paludisme (CPAP) et des autres moyens de prévention en zone d'endémie de paludisme selon le continent et les conditions de séjour selon le *HCSP 2024*" >}}
 | Type de séjour | Amérique tropicale,<br>Haïti et Rép Dom. | Afrique sub-<br>saharienne<br>et Yémen | Asie du Sud<br>et Sud-Est | Papouasie<br>Nvle Guinée<br>et Îles Salomon |
 |----------------|------------------------------------------|----------------------------------------|---------------------------|---------------------------------------------|
 | Pour tous | PPAV + CS si F | idem | idem | idem |

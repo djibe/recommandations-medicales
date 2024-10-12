@@ -36,7 +36,7 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{<
   <input type="search" class="form-control" id="table-search" onkeyup="searchTable()" placeholder="Rechercher">
 </div>
 
-{{< table title="Certificats médicaux pouvant être demandés ou refusés pour les personnes majeures en France. Dr JB Fron d'après CNOM 2024" class="table-wrap" id="table-filter">}}
+{{< table title="Certificats médicaux pouvant être demandés ou refusés pour les personnes majeures en France. Dr JB Fron d'après *CNOM 2024*" class="table-wrap" id="table-filter">}}
 | Cadre             | Motif                          | Certificat | Texte de référence |
 |-------------------|--------------------------------|------------|--------------------|
 | Université/Enseignement supérieur | Justificatif d'absence | Non | Aucun texte ne prévoit la production d'un tel certificat |

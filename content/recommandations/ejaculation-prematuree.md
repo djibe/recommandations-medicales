@@ -40,7 +40,7 @@ flowchart = true
 : La même définition est utilisée pour les autres types de rapports sexuels (masturbation, sexe oral ou anal) et les rapports homosexuels.
 : La prévalence est estimée à 5% des hommes avec une forte association avec la dysfonction érectile (jusqu'à 50%).
 
-{{< table title="Description des 4 syndromes d'éjaculateur prématurée utilisés pour la classification des hommes se plaignant d'éjaculation prématurée. Dr JB Fron d'après AIUS 2024" class="table-wrap" >}}
+{{< table title="Description des 4 syndromes d'éjaculateur prématurée utilisés pour la classification des hommes se plaignant d'éjaculation prématurée. Dr JB Fron d'après *AIUS 2024*" class="table-wrap" >}}
 | EP primaire | EP acquise | EP variable | EP subjective |
 |-------------|------------|-------------|---------------|
 | DEI sous 30-60 s (80%), max 2 min | < 2 min | DEI court ou normal | DEI normal ou allongé |

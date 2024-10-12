@@ -180,7 +180,7 @@ Confirmer un dosage anormal par un contrôle le matin à jeun.
 
 Stades de l'insuffisance rénale chronique selon le débit de filtration glomérulaire et de l'albuminurie.
 
-{{< table title="Stades de la maladie rénale chronique et de l'insuffisance rénale chronique selon KDIGO 2024 (depuis 2012; à partir de 2 ans)" >}}
+{{< table title="Stades de la maladie rénale chronique et de l'insuffisance rénale chronique selon *KDIGO 2024* (depuis 2012; à partir de 2 ans)" >}}
 | Stade | DFGe  | Définition                      |
 |:-----:|:-----:|---------------------------------|
 |   1   | ≥ 90  | MRC avec DFG normal ou augmenté |
@@ -193,7 +193,7 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 
 > **DFGe =** DFG estimé selon CKD-EPI en mL/min/1,73 m². Ajouter un T au stade quand patient greffé (ex: 4T)
 
-{{< table title="Classification de l'albuminurie selon KDIGO 2024 (depuis 2012)" >}}
+{{< table title="Classification de l'albuminurie selon *KDIGO 2024* (depuis 2012)" >}}
 | Stade | mg/mmol |   mg/g | mg/24h | Définition                      |
 |-------|--------:|-------:|-------:|---------------------------------|
 | A1    |     < 3 |   < 30 |   < 30 | Normale ou légèrement augmentée |

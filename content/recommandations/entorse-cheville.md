@@ -18,17 +18,17 @@ sctid = "44465007"
 icd10 = ["S93.4"]
 image = true
 imageSrc = "Ligaments de la cheville et du pied. Henry Vandyke Carter, Public domain, via Wikimedia Commons"
-todo = "flow"
+todo = "rankok, flow"
 +++
 
 {{%article-summary%}}
 
 - L'entorse de la cheville atteint principalement le sujet jeune lors du sport
 - L'évaluation clinique initiale recherche toujours les signes de gravité de l'entorse de cheville avec les critères d'Ottawa: âge < 18 ans ou +55 ans, douleurs à la palpation d'une malléole sur ses 6 derniers centimètres ou de la base du 5e métatarsien ou de l'os naviculaire, impossibilité de faire 4 pas en plein appui
-- Si la douleur limite l'examen clinique, une consultation de contrôle est nécessaire entre J3 et J5
+- Si la douleur limite l'examen clinique, une consultation de contrôle est nécessaire entre les 3e et 5e jours
 - Des radiographies de la cheville (face en rotation interne 20° et profil) sont systématiques en présence d'un critère d'Ottawa
-- Le traitement de l'entorse de la cheville bénigne associe: protocole RICE (repos, glaçage, compression et surélévation) du pied, antalgie, auto-rééducation
-- En cas d'entorse de moyenne gravité (ecchymoses): attelle de la cheville
+- La prise en charge de l'entorse de la cheville bénigne applique le protocole RICE: repos, glaçage, compression et surélévation du pied, antalgie et auto-rééducation
+- En cas d'entorse de moyenne gravité (ecchymoses): traitement par attelle de la cheville
 - Les entorses graves (craquement, hématome, luxation, fracture) nécessitent un plâtre pendant 6 semaines (absence d'appui en cas de fracture, mesures associées aux plâtres)
 - Après entorse non bénigne: rééducation proprioceptive intensive par pendant 6 à 12 semaines
 

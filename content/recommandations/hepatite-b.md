@@ -122,7 +122,7 @@ Ajouter VHC si conduites à risque (sexe, drogues), VHE en cas de séjour tropic
 
 ### Interpréter la sérologie hépatite B
 
-{{< table title="Interprétation des marqueurs sérologiques de l'infection par le VHB. CMIT 2023" class="table-wrap" >}}
+{{< table title="Interprétation des marqueurs sérologiques de l'infection par le VHB selon le *CMIT 2023*" class="table-wrap" >}}
 | Ag HBs | Ac anti-HBc | Ac anti-HBs | Interprétation                                                           |
 |:------:|:-----------:|:-----------:|--------------------------------------------------------------------------|
 |   -    |      -      |      +      | Sujet vacciné                                                            |

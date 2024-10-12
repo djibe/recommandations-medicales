@@ -55,7 +55,7 @@ Hypertension artérielle résistante
 > << Un dépistage moins fréquent (*ex* tous les 3 à 5 ans) est approprié pour les adultes 18-39 ans sans surrisque d'hypertension ayant déjà eu une mesure de la pression artérielle >> (surrisque: origines Africaines, surpoids, tension normale haute) - *USPTF 2021*
 {.alert .alert-info}
 
-{{< table title="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après ESH 2023 et USPTF 2021" class="table-wrap" >}}
+{{< table title="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après *ESH 2023* et *USPTF 2021*" class="table-wrap" >}}
 | Catégorie                 | Systolique (mmHg) |       | Diastolique (mmHg) | Action                                                                        |
 |---------------------------|:-----------------:|:-----:|:------------------:|-------------------------------------------------------------------------------|
 | Optimale                  | < 120             | et    | < 80               | Surveillance min. /5 ans sans surrisque (*USPTF 2021*)                        |

@@ -51,7 +51,7 @@ Un temps de sommeil souvent inférieur aux durées recommandées provoque une au
 {{% /collapse %}}
 {{%collapse "Durée recommandée de sommeil chez l'enfant" %}}
 
-{{< table title="Temps recommandés de sommeil quotidien selon l'âge de l'enfant (AASM 2016)" >}}
+{{< table title="Temps recommandés de sommeil quotidien selon l'âge de l'enfant selon *AASM 2016*" >}}
 | Âge         | Temps de sommeil (/24h) |
 |:-----------:|------------------------:|
 | 4 à 12 mois | 12-16 |

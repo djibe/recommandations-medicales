@@ -38,7 +38,7 @@ Hypercholestérolémie familiale (HF)
 : Maladie métabolique génétique autosomique dominante provoquant une exposition à des taux élevés de LDL cholestérol (par dysfonction des récepteurs aux LDL) sur toute la vie et d'un {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}} (coronaropathie +++). Les sujets homozygotes (HFHo) ont des taux de LDL très élevés (+5 g/L contre 1,55 à 5 g/L pour les hétérozygotes).
 : La prévalence de l'hypercholestérolémie familiale est estimée à 0,5% (avec de fortes variations selon les origines) et est sous-diagnostiquée. 5% des syndromes coronariens avant 60 ans et 20% avant 45% sont attribués à l'hypercholestérolémie familiale.
 
-{{< table title="Sujets de population générale ayant 80% de probabilité d'hypercholestérolémie familiale selon l'âge et le taux de LDL cholestérol d'après Bouhairie and Goldberg 2015" >}}
+{{< table title="Sujets de population générale ayant 80% de probabilité d'hypercholestérolémie familiale selon l'âge et le taux de LDL cholestérol selon *Bouhairie and Goldberg 2015*" >}}
 |   Âge | LDL cholestérol (≥ à, g/L) |
 |------:|---------------------------:|
 |   +30 |                        2,5 |

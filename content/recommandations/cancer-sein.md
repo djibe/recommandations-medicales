@@ -288,7 +288,7 @@ Les mammographies sont remboursées à 100% (les examens supplémentaires ne le 
 
 #### Conduite à tenir selon les résultats de la mammographie
 
-{{< table title="Prise en charge selon la classification ACR des résultats des mammographies de dépistage selon HAS 2015 et INCa 2018" class="table-wrap" >}}
+{{< table title="Prise en charge selon la classification ACR des résultats des mammographies de dépistage selon *HAS 2015* et *INCa 2018*" class="table-wrap" >}}
 | Classification | Signification         | Conduite à tenir |
 |----------------|-----------------------|------------------|
 | ACR 0          | Classification provisoire | Investigations supplémentaires nécessaires pour reclasser |

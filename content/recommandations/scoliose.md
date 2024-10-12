@@ -3,12 +3,12 @@ id = "0190e8cb-7d96-77fb-8ad8-0aaafb11eb9c"
 title = "Scoliose structurale idiopathique"
 prefix = "la "
 titleSeo = "scoliose"
-description = "Recommandations pour la prise en charge d'un scoliose. Dépistage d'une gibbosité avant l'adolescence, radiographies par EOS, kinésithérapie, avis spécialisé"
+description = "Recommandations pour la prise en charge d'un scoliose. Dépistage d'une gibbosité chez l'enfant, radiographies du rachis EOS, kinésithérapie, avis orthopédique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-03-20T16:29:04+01:00"
 publishdate = "2023-03-27"
-lastmod = "2023-07-04"
+lastmod = "2024-10-11"
 specialites = ["rhumatologie"]
 annees = "2022"
 sources = ["PNDS", "AAFP", "HAS"]
@@ -26,9 +26,9 @@ todo = "flowchart"
 - La scoliose est une courbure rachidienne dans le plan frontal supérieure à 10° (dit angle de Cobb)
 - Le dépistage de la scoliose par recherche d'une gibbosité doit être systématique durant les [examens de l'enfant et de l'adolescent]({{< relref "examens-suivi-nourrisson.md" >}}) où le risque évolutif est majeur
 - L'examen clinique recherche des complications et des arguments pour une pathologie (neuro-musculaire, génétique ...)
-- Radiographies du rachis complet par technique faible dose EOS (mesure de l'angle de Cobb) en cas de gibbosité  
+- Bilan par radiographies du rachis complet à faible dose EOS (mesure de l'angle de Cobb) en cas de gibbosité  
   Répéter tous les 6-12 mois à la puberté, puis tous les 5 ans.
-- Avis orthopédique pour une scoliose ≥ 15°
+- Avis orthopédique pour une scoliose ≥ 15° (10° avant 10 ans)
 - IRM médullaire pour un angle > 20° avant 10 ans
 - Surveillance rapprochée de la scoliose pendant la croissance, puis espacée à vie
 - Maintien de la kinésithérapie pour prévenir les complications
@@ -44,7 +44,7 @@ Scoliose idiopathique structurale
 : Les complications sont d'ordre esthétique (sociale, psychologique), douloureuse voire avec à l'origine d'un syndrome restrictif respiratoire.
 
 Scoliose évolutive
-: Aggravation d'au moins 5 degrés sur 2 radiographies à 4-6 mois d'intervalle. Une courbure > 30° est considérée comme d'emblée évolutive.
+: Aggravation d'au moins 5° sur 2 radiographies à 4-6 mois d'intervalle. Une courbure supérieure à 30° est considérée comme d'emblée évolutive.
 : Marqueurs d'aggravation nécessitant d'accroître la surveillance: perte de taille, aggravation angulaire et évolution cyphosante.
 
 **NB.** La **cyphose** est une déformation dans le plan sagittal.
@@ -116,7 +116,7 @@ Répéter les radiographies tous les 6-12 mois à la puberté et devant de nouve
 
 Indications à une IRM médullaire:
 
-- Angle de Cobb > 20° avant 10 ans (17,6-26% d'anomalies médullaires)
+- Angle de Cobb > 20° avant 10 ans (17,6-26 % d'anomalies médullaires)
 - Autres indications: courbures atypiques (cyphose associée, thoracique gauche), progression rapide, dorsalgies associées, anomalie neurologique
 
 En cas scoliose grave: épreuves fonctionnelles respiratoires (EFR)
@@ -124,14 +124,14 @@ En cas scoliose grave: épreuves fonctionnelles respiratoires (EFR)
 {{% /collapse %}}
 {{%collapse "Dépistage de la scoliose" %}}
 
-Inspecter le dos des enfants et des adolescents pour dépister une scoliose (*HAS 2005*) et << Le dépistage doit être réalisé de façon systématique à l'adolescence >> (*CNPU*). La USPTF, elle, ne l'affirme pas.
+Inspecter le dos des enfants et des adolescents pour dépister une scoliose (*HAS 2005*) et << Le dépistage doit être réalisé de façon systématique à l'adolescence >> (*CNPU*). La *USPTF*, elle, ne l'affirme pas.
 
 Profiter des [examens de suivi]({{< relref "examens-suivi-nourrisson.md" >}}) (3, 4, 5, 6 , 8-9, 11-13 et 15-16 ans) et des certificats pour revoir le dos.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la scoliose" %}}
 
-Avis orthopédique adapté à l'âge pour une scoliose ≥ 15°. – *Collège*
+Avis orthopédique adapté à l'âge pour une scoliose ≥ 10° avant 10 ans, 15° après 10 ans. -- *PNDS*
 {.alert .alert-warning}
 
 Objectifs de la prise en charge de la scoliose: obtenir la déformation la plus limitée possible, prévenir le retentissement fonctionnel, assurer l'éducation thérapeutique pour le patient et l'entourage.
@@ -147,15 +147,15 @@ La prise en charge de la scoliose est pluridisciplinaire:
 - Prévention de l'ostéoporose
 - Associations de patients: [Scoliose & partage](https://www.scoliose.org/silverstripe/), [Fondation Cotrel](https://www.fondationcotrel.org)
 - Surveillance à vie
-  - Consultations tous les 3-12 mois
-  - Radiographies les 6-12 mois à l'adolescence (voire 4 si évolutivité)
-  - puis les 5 ans ensuite (sauf évolutivité)
+  - Consultations tous les 3 à 12 mois
+  - Radiographies les 6 à 12 mois à l'adolescence (voire 4 si évolutivité)
+  - puis tous les 5 ans (sauf évolutivité)
   - Après un accouchement
 - Éducation thérapeutique du patient (ETP)
-- [ALD n°26]({{< relref "affection-longue-duree.md" >}})  
-  Critères: angle de Cobb > 30°, enfant ≥ 15° avec aggravation ≥ 5° entre 2 radiographies successives (~6 mois), adulte avec perte de taille ou cyphose justifiant un traitement orthopédique ou chirurgical.
+- Conditions de déclarations de l'[ALD n°26]({{< relref "affection-longue-duree.md" >}}):  
+  Angle de Cobb > 30°, enfant ≥ 15° avec aggravation ≥ 5° entre 2 radiographies successives (~6 mois), adulte avec perte de taille ou cyphose justifiant un traitement orthopédique ou chirurgical.
 
-Le traitement d'une pathologie neuromusculaire ou malformative est spécialisé.
+**NB.** Le traitement d'une pathologie neuromusculaire ou malformative est spécialisé.
 
 ### Traitement orthopédique de la scoliose
 

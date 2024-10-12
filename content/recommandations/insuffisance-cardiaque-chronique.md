@@ -55,7 +55,7 @@ Désynchronisation cardiaque
 
 ### Classification de l'insuffisance cardiaque
 
-{{< table title="Critères de classification de l'insuffisance cardiaque selon ESC 2023" >}}
+{{< table title="Critères de classification de l'insuffisance cardiaque selon *ESC 2023*" >}}
 | Critère | ICFEd         | ICFEmd                  | ICFEp              |
 |--------:|---------------|-------------------------|--------------------|
 | 1       | Symptômes ± signes | Symptômes ± signes | Symptômes ± signes |
@@ -411,7 +411,7 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 {{% /collapse %}}
 {{%collapse "Suivi de l'insuffisant cardiaque" %}}
 
-{{< table title="Nombre minimal de consultations par an de l'<strong>ICFEd</strong> en état stable. HAS 2014" >}}
+{{< table title="Nombre minimal de consultations par an de l'<strong>ICFEd</strong> en état stable selon *HAS 2014*" >}}
 | NYHA  | Généraliste | Cardiologue |
 |-------|------------:|------------:|
 | I     | 2           | 1           |
@@ -419,7 +419,7 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 | III-IV | 4-12       | 4-12        |
 {{< /table >}}
 
-{{< table title="Nombre minimal de consultations par an de l'<strong>ICFEp</strong> en état stable. HAS 2014" >}}
+{{< table title="Nombre minimal de consultations par an de l'<strong>ICFEp</strong> en état stable selon *HAS 2014*" >}}
 | NYHA  | Généraliste | Cardiologue |
 |-------|------------:|------------:|
 | I     | 2           | 1           |

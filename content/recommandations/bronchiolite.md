@@ -49,7 +49,7 @@ Asthme du nourrisson
 OU 2 épisodes de bronchiolite chez un nourrisson de moins de 12 mois avec atopie familiale ou personnelle  
 OU dyspnée sifflante après 12 mois (sans autre cause).
 
-{{< table title="Normes de la fréquence respiratoire selon l'âge de l'enfant. Dr JB Fron d'après AFPA Normes cardiorespiratoires utiles" >}}
+{{< table title="Normes de la fréquence respiratoire selon l'âge de l'enfant. Dr JB Fron d'après *AFPA Normes cardiorespiratoires utiles*" >}}
 |    Âge    | Fréquence respiratoire (/min) |
 |:---------:|------------------------------:|
 | < 2 mois  |                            60 |
@@ -122,7 +122,7 @@ VRS
 
 ### 3 formes cliniques de bronchiolite: légère, modérée et grave
 
-{{< table title="Formes cliniques de la bronchiolite avec les signes cliniques de gravité selon HAS/CNPP 2019" class="table-wrap">}}
+{{< table title="Formes cliniques de la bronchiolite avec les signes cliniques de gravité selon *HAS/CNPP 2019*" class="table-wrap">}}
 | Forme clinique                      | Légère                | Modérée                        | Grave                                        |
 |-------------------------------------|-----------------------|--------------------------------|----------------------------------------------|
 | AEG                                 | Non                   | Non                            | Oui                                          |

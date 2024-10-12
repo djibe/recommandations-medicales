@@ -48,7 +48,7 @@ Obésité
 : Chez l'adulte jeune en bonne santé, la masse grasse représente 10-15% du poids chez l'homme et 20-25% chez la femme.
 : Les déterminants du poids sont eux aussi multiples: environnementaux, psychologiques, sociaux, génétiques.
 
-{{< table title="Classification de la corpulence des adultes selon l'OMS 1998" >}}
+{{< table title="Classification de la corpulence des adultes selon l'*OMS 1998*" >}}
 | Définition                 | IMC (kg/m²) |
 |----------------------------|:-----------:|
 | Surpoids                   |   25-29,99  |
@@ -173,7 +173,7 @@ TCA
 
 ### Interrogatoire
 
-- Antécédents (dont TDAH, psychiatriques)
+- Antécédents (dont [TDAH]({{< relref "trouble-deficit-attention-tdah.md" >}}), psychiatriques)
 - Facteurs de risque cardiovasculaire
 - Traitements en cours (neuroleptiques, antiépileptiques, corticoïdes, contraception)
 - Histoire pondérale

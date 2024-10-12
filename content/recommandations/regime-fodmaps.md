@@ -70,7 +70,7 @@ Les aliments riches en FODMAPs du tableau ci-dessous font partie du test d'évic
 
 Application smartphone pour le régime sans FODMAPS: [Low FODMAP Diet App](https://www.monashfodmap.com/ibs-central/i-have-ibs/get-the-app/) (Monash University).
 
-{{< table title="Principales sources alimentaires selon le type de FODMAP concerné. Dr JB Fron d'après Ducrotté P 2016." class="table-wrap" >}}
+{{< table title="Principales sources alimentaires selon le type de FODMAP concerné. Dr JB Fron d'après *Ducrotté P 2016*" class="table-wrap" >}}
 | Type de FODMAP | Hydrate de carbone | Sources alimentaires |
 |----------------|--------------------|----------------|
 | Oligosaccharides| Fructo-oligosaccharides (FOS) (fructanes) | Blé, seigle, oignon, ail, artichaut |

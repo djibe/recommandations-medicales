@@ -174,7 +174,7 @@ L'interrogatoire explore également:
 - **Retentissement des troubles**  
   Somatique, sexuel (conduites à risque), social, professionnel, financier.
 - Psychiatrique  
-  - Sommeil, humeur, anxiété, automutilations, idées suicidaires, comportements impulsifs, TOC, troubles de la personnalité, addictions et substances, TDAH
+  - Sommeil, humeur, anxiété, automutilations, idées suicidaires, comportements impulsifs, TOC, troubles de la personnalité, addictions et substances, [TDAH]({{< relref "trouble-deficit-attention-tdah.md" >}})
   - Automutilations ou boulimie sévère: rechercher des antécédents d'abus ou de troubles de la personnalité
   - Obésité et crises boulimiques: rechercher un trouble bipolaire
   - Homme: envisager la recherche de signes de schizophrénie

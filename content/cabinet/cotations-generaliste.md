@@ -59,6 +59,7 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 |------------|-----------------------------------------------------------------------------------------------|----------:|
 | G(S)       | Consultation                                                                                  |      26,5 |
 | TCG        | Téléconsultation                                                                              |        25 |
+| RDV        | Consultation du [bilan de prévention]({{< relref "bilan-prevention.md" >}}) (TP AMO)          |        30 |
 | COB        | Consultation de l'enfant à 6, 8-9, 11-13 et 15-16 ans (à 100%)                                |      26,5 |
 | MPH        | Premier remplissage du dossier MDPH                                                           |        60 |
 | IMT        | Déclaration MT d'un patient en ALD 30 (à 100%), cocher Nouveau médecin traitant sur la FS     |        60 |

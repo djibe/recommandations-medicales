@@ -41,7 +41,7 @@ Insuffisance rénale aiguë (IRA)
 : L'estimation du débit de filtration glomérulaire n'est pas réalisable lors d'une insuffisance rénale aiguë.  
 Valeurs normales de créatininémie: 60-107 µmol/L chez la femme et 80-115 chez l'homme.
 
-{{< table title="Stades de l'insuffisance rénale aiguë selon KDIGO 2012" >}}
+{{< table title="Stades de l'insuffisance rénale aiguë selon *KDIGO 2012*" >}}
 | Stade | Créatininémie | Diurèse |
 |------:|:--------------|---------|
 | 1     | Augmentation ≥ 26,5 µmol/L en 48h<br>ou ≥ 50% en 7 jours | < 0,5 mL/kg/h pendant 6-12h |

@@ -44,7 +44,7 @@ Il est nettement plus élevé chez l'enfant (20% vs 5%) avec principalement des 
 
 ### Risque de malignité selon la classification échographique EU-TIRADS chez l'adulte
 
-{{< table title="Risque de malignité d'un nodule thyroïdien de l'adulte en considérant l'échographie thyroïdienne seule. Dr JB Fron d'après SFE/AFCE/SFMN 2022" class="table-wrap" >}}
+{{< table title="Risque de malignité d'un nodule thyroïdien de l'adulte en considérant l'échographie thyroïdienne seule. Dr JB Fron d'après *SFE/AFCE/SFMN 2022*" class="table-wrap" >}}
 | EU-TIRADS | Description                                                       | Proportion (%) | Malignité (%) |
 |----------:|-------------------------------------------------------------------|---------------:|--------------:|
 |         1 | Examen normal                                                     |                |               |
@@ -56,7 +56,7 @@ Il est nettement plus élevé chez l'enfant (20% vs 5%) avec principalement des 
 
 ### Risque de malignité selon la classification cytologique Bethesda chez l'adulte
 
-{{< table title="Risque de malignité d'un nodule thyroïdien de l'adulte en considérant la cytologie thyroïdienne seule. Dr JB Fron d'après SFE/AFCE/SFMN 2022" class="table-sm" >}}
+{{< table title="Risque de malignité d'un nodule thyroïdien de l'adulte en considérant la cytologie thyroïdienne seule. Dr JB Fron d'après *SFE/AFCE/SFMN 2022*" class="table-sm" >}}
 | Bethesda | Malignité (%) |
 |:--------:|--------------:|
 |    I     |          5-10 |
@@ -314,11 +314,11 @@ Absence de surveillance du nodule thyroïdien si:
   - Nodule indéterminé en cytologie
   - Rythme: surveillance par échographie tous les 1-2 ans pendant 5 ans, puis espacée si stable
 
-{{< table title="Rythme de surveillance échographique des nodules thyroïdiens n'ayant pas d'indication opératoire selon SFE/AFCE/SFMN 2022" class="table-wrap" >}}
-| Situation                            | EU-TIRADS 2-3-4                                      | EU-TIRADS 5                                 |
-|--------------------------------------|------------------------------------------------------|---------------------------------------------|
-| Bethesda II ou ponction non indiquée | 1-2 ans puis 2-4 ans plus tard puis tous les 4-5 ans | Tous les 1-2 ans pendant 5 ans puis espacée |
-| Bethesda III à 2 reprises et Bethesda IV | Chirurgie habituelle. Nodule ≤ 20 mm à discuter à 6, 12 mois puis annuelle pendant 5 ans puis espacée |
+{{< table title="Rythme de surveillance échographique des nodules thyroïdiens n'ayant pas d'indication opératoire selon *SFE/AFCE/SFMN 2022*" class="table-wrap" >}}
+| Situation                                | EU-TIRADS 2-3-4                                                                                       | EU-TIRADS 5                                 |
+|------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| Bethesda II ou ponction non indiquée     | 1-2 ans puis 2-4 ans plus tard puis tous les 4-5 ans                                                  | Tous les 1-2 ans pendant 5 ans puis espacée |
+| Bethesda III à 2 reprises et Bethesda IV | Chirurgie habituelle. Nodule ≤ 20 mm à discuter à 6, 12 mois puis annuelle pendant 5 ans puis espacée |                                             |
 {{< /table >}}
 
 Arrêt de la surveillance possible pour un nodule bénin ancien et non évolutif.

@@ -170,7 +170,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 > La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares – *CNGOF 2018*
 {.alert .alert-info}
 
-{{< table title="Spécialités de contraception disponibles en France en 2024 (sauf dernières générations et DMPA qui augmentent le risque vasculaire) et préservatifs remboursés. Dr JB Fron d'après BDPM et Assurance Maladie" class="table-wrap" id="table-pilule" >}}
+{{< table title="Spécialités de contraception disponibles en France en 2024 (sauf dernières générations et DMPA qui augmentent le risque vasculaire) et préservatifs remboursés. Dr JB Fron d'après *BDPM* et *Assurance Maladie*" class="table-wrap" id="table-pilule" >}}
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
 |-------------|---------:|------------------|-----------------|
 | 2G          | 30/40    | LNG 0,15-0,2     | Adepal, Pacilia |

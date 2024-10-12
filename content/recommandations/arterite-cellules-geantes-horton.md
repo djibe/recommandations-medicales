@@ -200,7 +200,7 @@ Mesures associées aux corticoïdes: suivi du poids, alimentaire, supplémentati
 
 Contre-indication aux vaccins vivants atténués (BCG, fièvre jaune, zona) tant que la corticothérapie est > 10 mg/j.
 
-{{< table title="Cibles de décroissance de la prednisone à obtenir au cours du traitement de l'artérite à cellules géantes (maladie de Horton) selon PNDS 2020" class="table-sm" >}}
+{{< table title="Cibles de décroissance de la prednisone à obtenir au cours du traitement de l'artérite à cellules géantes (maladie de Horton) selon *PNDS 2020*" class="table-sm" >}}
 | Corticothérapie   | Instauration | M3 | M6 | M9 | M12 | M18-24 |
 |-------------------|--------------|------:|---:|----:|-----:|--------|
 | Prednisone (mg/j) | 0,7 mg/kg/j  | 15-20 | 10 | 7,5 | 5    | Arrêt  |
