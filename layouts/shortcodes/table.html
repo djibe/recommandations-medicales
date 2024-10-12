@@ -1,7 +1,7 @@
 {{ $htmlTable := .Inner | markdownify }}
 {{ $old := "<table>" }}
 {{ $new := "" }}
-{{ $title := .Get "title" }}
+{{ $title := .Get "title" | markdownify }}
 {{ $extraClass := .Get "class" }}
 <!-- Generate a random id for the table (a11y purpose) -->
 {{ $id := "" }}
