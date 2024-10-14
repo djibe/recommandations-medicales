@@ -107,6 +107,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   margin: 0;
+  overflow-x: hidden;
 }
 
 [tabindex='-1']:focus:not(:focus-visible) {
@@ -4038,6 +4039,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 
 .flex-grow-1 {
   flex-grow: 1 !important;
+}
+
+.justify-content-end {
+  justify-content: flex-end !important;
 }
 
 .justify-content-center {
