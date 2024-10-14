@@ -7,12 +7,12 @@ synonyms = ["Sinus pilonidal"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-16T22:24:08+02:00"
 publishdate = "2022-10-20"
-lastmod = "2023-11-24"
+lastmod = "2024-10-14"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2019"
-sources = ["ASCRS", "SNFGE", "SNFCP"]
+annees = "2024"
+sources = ["ESCP", "ASCRS", "SNFGE", "SNFCP"]
 tags = []
-english = ["Pilonidal cyst", "pilonidal disease"]
+english = ["Pilonidal disease (PD)", "pilonidal cyst"]
 sctid = "47639008"
 icd10 = ["L05.9"]
 image = true
@@ -23,22 +23,26 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Abstention thérapeutique devant un kyste pilonidal asymptomatique
-- En cas d'abcès du kyste (sinus pilonidal infecté): prise en charge du kyste pilonidal avec chirurgie en urgence et incision
+- Le kyste pilonidal est le plus souvent un diagnostic clinique: accumulation de débris pilaires dans le pore du sillon inter-fessier atteignant le plus souvent l'homme jeune avec des présentations cliniques variables
+- L'abstention thérapeutique est le traitement de première intention d'un kyste pilonidal asymptomatique
+- En cas d'abcès du kyste (sinus pilonidal infecté): prise en charge par chirurgie en urgence avec incision et drainage
 - Traitement d'un kyste pilonidal chronique invalidant: chirurgie programmée de cicatrisation dirigée
-- Mesures générales de prise en charge: correction d'un surpoids et rasage local ou épilation pour limiter les récidives
+- Mesures générales de prise en charge: correction d'un surpoids, réduction de la sédentarité et arrêt du tabac pour limiter les récidives (manque de preuves pour le rasage ou l'épilation)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Kyste pilonidal (ou sinus pilonidal ou kyste sacro-coccygien)
-: Accumulation de débris pilaires dans le pore du sillon inter-fessier atteignant le plus souvent l'homme blanc alors jeune adulte.
+Kyste pilonidal (synonymes: sinus pilonidal, kyste sacro-coccygien)
+: Accumulation de débris pilaires dans le pore du sillon inter-fessier atteignant le plus souvent l'homme à peau blanche entre 20 et 40 ans.
 : Les complications infectieuses sont locales, avec la formation d'abcès répétés douloureux. L'évolution en tumeur épidermoïde est exceptionnelle avec un terrain [VIH+]({{< relref "vih-sida.md" >}}) et [HPV+]({{< relref "cancer-col-uterus.md" >}}).
 
 ### Abréviations
 
 ASCRS
 : {{%lang%}}American Society of Colon and Rectal Surgeons{{%/lang%}}
+
+ESCP
+: {{%lang%}}European Society of ColoProctology{{%/lang%}}
 
 SNFCP
 : Société Nationale Française de Colo-Proctologie
@@ -49,6 +53,17 @@ SNFGE
 SPI
 : sinus pilonidal infecté
 {.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Diagnostics à évoquer devant une lésion évocatrice de sinus pilonidal:
+
+- Suppurations indépendantes de l'anus  
+  [Maladie de Verneuil]({{< relref "maladie-verneuil.md" >}}), kyste épidermique. L'association reste possible.
+- Maladie de Crohn
+- Fistule anale
+- Anomalies congénitales
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -73,56 +88,68 @@ Le kyste pilonidal peut prendre plusieurs formes:
 - Forme atypique  
   Abcès à distance, antérieur ou bas situé (sans fistule anale).
 
-Des examens systématiques ne sont pas nécessaires devant un tableau typique.
+### Clinique
 
-### Diagnostic différentiel d'un kyste pilonidal
+- Antécédents dont poussées de kyste pilonidal
+- Traitements en cours et essayés
+- Facteurs de risque (voir ci-dessus): tabac, sédentarité, pilosité, traumatismes répétés, antécédents familiaux
+- Histoire de la maladie
+  - Date d'apparition des symptômes, évolution
+  - Symptômes: douleurs, suintement, fièvre
+- Signes négatifs
+  - Suintements des plis axillaires ou inguinaux (hidradénite suppurée)
+  - Atteinte anale, troubles digestifs chroniques (fissure, Crohn)
 
-Diagnostics à évoquer devant une lésion évocatrice de sinus pilonidal:
-
-- Suppurations indépendantes de l'anus  
-  [Maladie de Verneuil]({{< relref "maladie-verneuil.md" >}}), kyste épidermique. L'association reste possible.
-- Maladie de Crohn
-- Fistule anale
-- Anomalies congénitales
+> Les examens complémentaires ne sont pas nécessaires devant un tableau typique de sinus pilonidal.
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Traitement du kyste pilonidal" %}}
 
-Abstention thérapeutique pour un kyste pilonidal asymptomatique
+Abstention thérapeutique pour un kyste pilonidal asymptomatique.
 {.alert .alert-info}
 
 Mesures générales de prise en charge du kyste pilonidal:
 
 - Traitement symptomatique des douleurs et suintements
+- [Sevrage tabagique]({{< relref "arret-tabac.md" >}})  
+  Bénéfice global et de cicatrisation.
 - Correction d'un surpoids
-- Sevrage tabagique (bénéfice global et de cicatrisation)
+
+### Abstention thérapeutique
+
+L'abstention thérapeutique est le traitement de référence du kyste pilonidal asymptomatique.
 
 ### Traitement chirurgical du kyste pilonidal
 
+La chirurgie est le traitement du kyste pilonidal symptomatique. Un abord endoscopique et/ou une technique laser sont parfois possibles.
+
 #### Kyste pilonidal abcédé
 
-Prise en charge chirurgicale du kyste pilonidal abcédé en urgence par incision sous anesthésie locale en cas d'abcès aigu. Les récidives du sinus pilonidal infecté (SPI) sont fréquentes (40%).  
+Prise en charge **chirurgicale** du kyste pilonidal abcédé en urgence par incision sous anesthésie locale en cas d'abcès aigu. Poursuivre un rasage local pendant 1 à 2 semaines jusqu'à cicatrisation (*ASCRS*).
+
 Alternative: exérèse sous anesthésie générale ou locorégionale, sans plastie.
 
-Poursuivre un rasage local pendant 1 à 2 semaines jusqu'à cicatrisation (*ASCRS*).
+Une antibiothérapie peut être considérée selon l'état local et les signes généraux.
+
+Les récidives du sinus pilonidal infecté (SPI) sont fréquentes (40%).
 
 [Fiche SNFCP d'information patient sur le traitement chirurgical du kyste pilonidal (PDF)](https://www.snfcp.org/wp-content/uploads/2019/02/SNFCP-FI-Exerese-sinuspilonidal-2017.pdf)
 
 #### Kyste pilonidal au stade chronique
 
-Prise en charge chirurgicale du kyste pilonidal chronique par exérèse d'emblée ou après incision si abcès collecté.
+Prise en charge chirurgicale du kyste pilonidal chronique par **exérèse** d'emblée ou après incision si abcès collecté.
 
-La technique chirurgicale privilégiée est la cicatrisation dirigée. La cicatrisation est longue (6-12 semaines).  
-Une nouvelle technique est possible au laser (SiLaT).
+La technique chirurgicale privilégiée est la cicatrisation dirigée. La cicatrisation est longue (6 à 12 semaines). Une nouvelle technique est possible au **laser** (SiLaT).
 
-Débuter un rasage local hebdomadaire après cicatrisation permet de réduire les récidives. Voire réaliser une épilation laser locale ou un application de phénol ou de colle à base de fibrine (*ASCRS 2019*).
+**Controverse.** Débuter un rasage local hebdomadaire après cicatrisation permet de réduire les récidives. Voire réaliser une épilation laser locale ou un application de phénol ou de colle à base de fibrine (*ASCRS 2019*). L'*ESCP 2024* pointe l'absence de données solides.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du kyste pilonidal" "show" %}}
 
-{{< mermaid title="Prise en charge du kyste pilonidal par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après ASCRS 2019, SNFGE et SNFCP" >}}
+{{< mermaid title="Prise en charge du kyste pilonidal par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après ESCP 2024, ASCRS, SNFGE et SNFCP" >}}
 graph TB
-  kyste["<b>Kyste pilonidal</b>"] --> asymptomatique("Abstention thérapeutique<br>et surveillance") --> RHD("<b>Mesures générales</b><br>—<br>- Antalgies, pansements<br>- Contrôle du poids<br>- Arrêt du tabac<br>- Rasage, épilation")
+  kyste["<b>Kyste pilonidal</b>"] --> asymptomatique("Abstention thérapeutique<br>et surveillance") --> RHD("<b>Mesures générales</b><br>—<br>- Antalgies, pansements<br>- Contrôle du poids<br>- Arrêt du tabac")
     kyste --> infecté("Abcès: sinus pilonidal infecté") --> urgence("Chirurgie en urgence<br>et excision") --> RHD
     kyste --> chronique("Kyste pilonidal<br>chronique invalidant") --> programmée("Chirurgie programmée<br>de cicatrisation dirigée") --> RHD
   style kyste stroke:#4150f5, stroke-width:1px
@@ -131,6 +158,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ojo D, et al. European Society of Coloproctology guidelines for the management of pilonidal disease. Br J Surg. 2024.](https://academic.oup.com/bjs/article/111/10/znae237/7820471)
 - [Johnson E et al. The American Society of Colon and Rectal Surgeons' Clinical Practice Guidelines for the Management of Pilonidal Disease. Diseases of the Colon & Rectum. 2019.](https://journals.lww.com/dcrjournal/Fulltext/2019/02000/The_American_Society_of_Colon_and_Rectal_Surgeons_.5.aspx)
 - Spindler L et al. Le traitement laser du sinus pilonidal infecté : résultats à 1 an de la première cohorte française. SFHOD. 2019.
 - [Pillant-Le Moult H, Soudan D. Le sinus pilonidal. Conseil de pratique. SNFGE, SNFCP. 2017. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp014-2017_le_sinus_pilonidal_0.pdf)

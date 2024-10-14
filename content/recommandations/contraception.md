@@ -122,7 +122,7 @@ Les œstroprogestatifs augmentent le risque de [thromboembolie veineuse](/tags/m
 ### Contre-indications formelles aux œstrogènes
 
 - Grossesse (*[CRAT](http://www.lecrat.fr/11368/)*)
-- Allaitement, 6 premières semaines (*[CRAT](http://www.lecrat.fr/11369/)*)
+- Allaitement: les 6 premières semaines (*[CRAT](http://www.lecrat.fr/11369/)*)
 - Antécédent familial au 1^er^ degré
   - [Infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) ou AVC chez homme -55 ans ou femme -65 ans
   - MVTE (thrombose veineuse profonde, embolie pulmonaire) avant 50 ans  

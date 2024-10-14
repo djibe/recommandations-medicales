@@ -54,7 +54,7 @@ Les outils *OMNIPrat* et *CotaMG* permettent aux jeunes médecins d'apprendre à
 
 Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 
-{{< table title="Cotations pour la consultation de l'adulte et de l'enfant à partir de 6 ans" class="table-wrap" >}}
+{{< table title="Cotations du médecin généraliste pour la consultation de l'adulte et de l'enfant de plus de 6 ans" class="table-wrap" >}}
 | Code NGAP  | Description                                                                                   | Tarif&nbsp;(€) |
 |------------|-----------------------------------------------------------------------------------------------|----------:|
 | G(S)       | Consultation                                                                                  |      26,5 |
@@ -144,7 +144,7 @@ Cotations NGAP disponibles en sus de la consultation ou de la visite médicale.
 {{< table title="Surcotations possibles pour des situations particulières" class="table-wrap" >}}
 | Code NGAP | Description                                                                                                                  | Tarif supp (€) |
 |-----------|------------------------------------------------------------------------------------------------------------------------------|---------------:|
-| RQD       | Demande de téléexpertise (active unique sur une Sesam sans vitale en TP AMO)                                                 |             10 |
+| RQD       | Demande de téléexpertise (FSE Sesam sans vitale dédiée en TP AMO)                                                            |             10 |
 | + MCG     | Consultation d'un patient +16 ans hors résidence habituelle avec rédaction d'un compte-rendu pour son MT                     |              5 |
 | + MOP     | Consultation d'un patient +80 ans qui ne fait pas partie de la patientèle déclarée                                           |              5 |
 | + MSH**   | Sortie d'hospitalisation (chirurgie, décompensation ou diagnostic d'affection grave) dans le mois d'un patient polypathologique. MIC non applicable pour la même hospitalisation. | 23 |

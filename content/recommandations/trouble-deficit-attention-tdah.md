@@ -18,13 +18,13 @@ sctid = "406506008"
 icd10 = ["F90.0"]
 image = true
 imageSrc = "Trouble déficit de l'attention avec ou sans hyperactivité (TDAH). studiogstock / Freepik"
-todo = "liens > flow | ALD ?, https://www.bmj.com/content/384/bmj-2022-073448"
+todo = "liens > flow | PCO, ALD ?, https://www.bmj.com/content/384/bmj-2022-073448"
 +++
 
 {{%article-summary%}}
 
 - Le trouble chronique du déficit de l'attention avec ou sans hyperactivité (TDAH) atteint 5% des enfants (2/3 de garçons) et 3% des adultes avec des complications médicales, des conduites à risque avec conséquences sociales importantes
-- Le trouble débute avant 12 ans et persiste plus de 6 mois avec une hyperactivité ou une inattention retentissant sur l'environnement du sujet (au moins 2 parmi: familial, scolaire, extra-scolaire, amical)
+- Le trouble débute avant 12 ans et persiste plus de 6 mois, avec une hyperactivité ou une inattention retentissant sur l'environnement du sujet (au moins 2 parmi: familial, scolaire, extra-scolaire, amical)
 - L'examen clinique en présence des parents et des observations des enseignants est primordial pour étayer les antécédents, les symptômes, le cadre de vie, les plaintes et identifier les symptômes qui relèvent de comorbidités ou de diagnostics différentiels
 - Des échelles permettent de guide pour les entretiens avec l'entourage ([ADHD-RS](https://tdahbe.wordpress.com/wp-content/uploads/2013/02/adhd-rs-iv-cotation.pdf), [SNAP IV](https://afpa.org/outil/outil-de-depistage-tdah-premier-recours/)) mais la suspicion doit faire adresser l'enfant/adulte au spécialiste (pédiatre, psychiatre, neurologue)
 - La prise en charge non médicamenteuse du TDAH est systématique et associe psychoéducation, psychothérapie TCCE, programmes de guidance parentale, adaptations scolaires ... (voir *Traitements non médicamenteux*)
@@ -257,6 +257,7 @@ Les **prises en charge non médicamenteuses** sont systématiques et le **suivi 
 - Si intensité nécessitant des aménagements scolaires: dossier **MDPH**  
   Peut apporter: matériel et aménagements pédagogiques (Plan Personnalisé de Scolarisation), Allocation Education Enfant Handicapé (AEEH), aide par un accompagnant d'élève en situation de handicap (AESH).
 - Associations de patients: [HyperSupers TDAH France](https://www.tdah-france.fr), [TDAH Pour une égalité des chances](https://www.tdahegalitedeschances.com) et [TDAH Partout Pareil](https://tdah-partout-pareil.info)
+- Demande d'ALD 31
 
 > Niveau de preuve insuffisant pour: régimes spécifiques, psychanalyse, neurofeedback, entraînement cognitif, pleine conscience, autres psychothérapies, kinésiologie, ostéopathie, acupuncture.
 {.alert .alert-warning}
