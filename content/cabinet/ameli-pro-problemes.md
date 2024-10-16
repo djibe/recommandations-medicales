@@ -26,7 +26,7 @@ Ameli Pro et tous les services en ligne proposant une connexion avec la carte CP
 - Des lecteurs de carte à puces ou un lecteur Sesam-vitale
 - Les services de carte à puce activés sous Windows ou MacOS  
   Sous Windows: taper `services.msc` dans le menu démarrer, vérifier que le service "Carte à puce" a bien pour "Type de démarrage": `Automatique`
-- Installer ATSAM 4.64.01 ([Windows](https://www.diabeclic.com/daemonite/atsam-4.64.01.exe) ou [Mac](https://www.diabeclic.com/daemonite/atsam-4.64.01.dmg))
+- Installer ATSAM 4.65.00 ([Windows](https://e.pcloud.link/publink/show?code=XZSG9CZdtj4sK11baJLxtkdq0xEJfug4csy) ou [Mac](https://e.pcloud.link/publink/show?code=XZjG9CZYa8ykmijt78orzNt2lNVv76Tp4h7))
 - Pour lire la carte vitale depuis le navigateur internet, l'extension officielle "Lecture Carte Vitale" est nécessaire ([navigateur Chrome/Edge](https://chrome.google.com/webstore/detail/lecture-carte-vitale/kpjpglcbcgnblkigbedgaoegjbifejka?hl=fr) ou [Firefox](https://addons.mozilla.org/fr/firefox/addon/lecture-carte-vitale/))
 
 ### ATSAM

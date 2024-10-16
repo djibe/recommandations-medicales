@@ -8,7 +8,7 @@ synonyms = ["Colpocèle"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-07T13:29:43+02:00"
 publishdate = "2022-06-14"
-lastmod = "2023-12-07"
+lastmod = "2024-10-16"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["HAS"]
@@ -26,7 +26,7 @@ flowchart = true
 
 - Le prolapsus génital de la femme correspond à une hernie de la cavité vaginale (ou colpocèle) dans laquelle s'engage un ou plusieurs éléments du contenu pelvien.
 - Lutte contre les faveurs favorisant le prolapsus: correction d'un surpoids et d'une constipation, toux chronique, porte de charges lourdes, sédentarité
-- Prise en charge du prolapsus génital de la femme en cas de symptômes ou de complications. Traitement par une sage-femme ou un kinésithérapeute pour la rééducation abdomino-périnéale et le choix du pessaire (non remboursé)
+- Prise en charge du prolapsus génital de la femme en cas de symptômes ou de complications. Traitement par une sage-femme ou un kinésithérapeute pour la rééducation abdomino-périnéale et le choix du pessaire
 - Chirurgie des prolapsus génitaux uniquement en cas d'échec de la rééducation et du pessaire
 
 Chapitre lié: [ménopause et traitement hormonal]({{< relref "menopause.md" >}})
@@ -168,7 +168,7 @@ Traitement de première intention d'un prolapsus génital de la femme (stade < 3
 
 #### Pessaire
 
-Efficacité immédiate et équivalente au traitement chirurgical du prolapsus. Non pris en charge par l'Assurance Maladie.
+Efficacité immédiate et équivalente au traitement chirurgical du prolapsus.
 
 Adresser à tout spécialiste en gynécologie (généraliste, gynécologue, sage-femme) pour l'évaluation du modèle adéquat et le suivi du pessaire gynécologique
 {.alert .alert-info}

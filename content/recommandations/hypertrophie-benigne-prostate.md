@@ -281,6 +281,8 @@ Une seule molécule non remboursée: mirabégron (Betmiga®).
 
 Indications à la chirurgie de la prostate pour hypertrophie bénigne de la prostate: HBP compliquée, SBAU modérés ou sévères résistants au traitement médical, préférence du patient.
 
+Une rééducation pelvienne est bénéfique en cas d'incontinence urinaire post-chirurgicale (*Minerva*).
+
 #### Pour en savoir plus: Méthodes chirurgicales
 
 Absence de supériorité d'une technique pour la chirurgie de l'hypertrophie bénigne de la prostate.
@@ -337,6 +339,7 @@ graph TB
 - Prescrire Redaction. Hypertrophie bénigne de la prostate. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Franco JVA et al. Serenoa repens for the treatment of lower urinary tract symptoms due to benign prostatic enlargement. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001423.pub4/full/fr)
 - Prescrire Redaction. Traitement de l'hypertrophie bénigne de la prostate. Rev Prescrire. 2023.
+- [Jayaswal A. Quelle est la place des exercices de renforcement des muscles du plancher pelvien dans le traitement de l'incontinence urinaire suite à une prostatectomie ?. Minerva. 2023.](https://minerva-ebp.be/FR/Analysis/824)
 - [ANSM. Finastéride (Propecia, Chibro-Proscar, génériques) : rappel sur les risques de troubles de la fonction sexuelle et de troubles psychiatriques. 15/04/2021.](https://ansm.sante.fr/informations-de-securite/finasteride-propecia-chibro-proscar-generiques-rappel-sur-les-risques-de-troubles-de-la-fonction-sexuelle-et-de-troubles-psychiatriques)
 - [Collège Français des Enseignants en Urologie (CFEU). Hypertrophie bénigne de la prostate. Item 127. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-127-Hypertrophie-benigne-de-prostate.pdf)
 - [Descazeaud A et al. Guide de prise en charge en médecine générale des symptômes du bas appareil urinaire de l'homme liés à une hyperplasie bénigne de la prostate. Prog Urol. 2015.](https://www.sciencedirect.com/science/article/pii/S1166708715000810)

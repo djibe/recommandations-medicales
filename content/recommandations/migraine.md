@@ -279,8 +279,7 @@ Selon *ESsCD 2019*: IgA anti-transglutaminase et IgA totales devant migraine ou 
 Avis neurologique si aura atypique ou sévère, migraine sévère, migraine résistante/réfractaire (en centre spécialisé).
 {.alert .alert-warning}
 
-**Objectifs:** Absence de douleurs à H2 du traitement de crise (ou réduction satisfaisante) avec maintien pendant 24 heures sans effets indésirables (ou minimes).  
-Les symptômes associés (digestifs, phonophotophobie) et la capacité à reprendre les activités doit aussi être évaluée. En cas d'aura, celle-ci devrait être atténuée.  
+**Objectifs:** Absence de douleurs à 2 heures du traitement de crise (ou réduction satisfaisante) prolongée pendant 24 heures sans effets indésirables (ou minimes). Les symptômes associés (digestifs, phonophotophobie) et la capacité à reprendre les activités doit aussi être évaluée. En cas d'aura, celle-ci devrait être atténuée.  
 Ces objectifs doivent être expliqués au patient.
 
 **Moyens:** Rassurer, {{< modal-btn modal-mtoq >}}traitement de crise optimisé{{< /modal-btn >}}, hygiène de vie, gestion des risques de chronicisation (consommation d'antalgiques, dépression), traitement de fond si indiqué.  
@@ -374,9 +373,9 @@ Efficacité prouvée: Neuromodulation électrique. Sur prescription spécialisé
 ### Pour en savoir plus: autres traitements non spécifiques de la migraine
 
 - Paracétamol 1g
-- Paracétamol + caféine 500/50 (efficacité comparable sumatriptan)  
+- Paracétamol + caféine 500/50 (efficacité comparable au sumatriptan)  
   Ex: Algodol, Céfaline hauth, Claradol caféine, Prontad, Actron (+ aspirine).
-- Paracétamol + métoclopramide (efficacité comparable sumatriptan)
+- Paracétamol + métoclopramide (efficacité comparable au sumatriptan)
 - AINS  
   - Ibuprofène, kétoprofène, naproxène ou diclofénac, flurbiprofène
   - Essai suppositoire si mal toléré (kétoprofène, naproxène, diclofénac)

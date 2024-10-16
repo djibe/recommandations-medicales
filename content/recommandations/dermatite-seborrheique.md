@@ -129,7 +129,7 @@ Un [dermocorticoïde modéré]({{< relref "dermocorticoides.md" >}}) peut être 
 
 Shampooing antipelliculaire en alternance avec un shampooing doux.
 
-[Ciclopirox olamine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60655327&typedoc=R) (Sebiprox®, gén) shampooing 1,5% 2-3/sem  
+[Ciclopirox olamine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64330943&typedoc=R) shampooing 1,5% 2-3/sem  
 OU [kétoconazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66227874&typedoc=R) (Ketoderm®, gén) gel moussant 2% 2/sem
 {.alert .alert-info}
 

@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CAZANAVE (CMIT)"
 date = "2021-01-16T22:06:00+02:00"
 publishdate = "2021-01-16"
-lastmod = "2024-10-03"
+lastmod = "2024-10-16"
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["CNS", "HAS", "MinSanté"]
@@ -307,7 +307,7 @@ Palpation des aires ganglionnaires au moins annuelle.
 
 - [Mise à jour du calendrier vaccinal]({{< relref "vaccination.md" >}})
   - Rappel dTPolio tous les 10 ans
-  - ± Vaccins HSH
+  - ± [Vaccins HSH]({{< relref "hsh.md" >}})
 - Grippe annuelle
 - {{< modal-btn modal-vaccin-hepatite-a >}}Hépatite A{{< /modal-btn >}}
   - Indications: co-infection VHB ou VHC, hépatopathie chronique, alcool, voyage zone endémique
@@ -318,8 +318,9 @@ Palpation des aires ganglionnaires au moins annuelle.
   - Schéma: Engerix B20® double dose 4 fois à M0, M1, M2, M6
   - Contrôle taux d'anticorps post-vaccinal puis annuel
   - Rappel si anticorps anti-HBs < 10 UI/mL
-- Papillomavirus  
-  Enfants de 11 à 19 ans vivant avec le VIH par le schéma d'injection en 3 doses: Gardasil 9® à M0, M2 et M6.
+- Papillomavirus
+  - Enfants de 11 à 19 ans vivant avec le VIH par le schéma d'injection en 3 doses: Gardasil 9® à M0, M2 et M6.
+  - 
 - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
 
 ### Vaccins vivants et VIH
@@ -421,6 +422,7 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 {{< youtube id="XnQ4rNUkEyU" title="La minute RECO HAS | VIH : le suivi en médecine générale (Dr Jean-Philippe Joseph)" >}}
 
 - {{< references/calendrier-vaccinal >}}
+- [ANRS, CNS. Dépistage et prise en charge des cancers chez les personnes vivant avec le VIH. 2024. (PDF)](https://cns.sante.fr/wp-content/uploads/2024/06/VIH-Cancer_Recommandation_Rapport-dexperts_-20240521.pdf)
 - [CMIT. Infection à VIH. Item 169. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-169.pdf)
 - [Santé Publique France. Bulletin de santé publique VIH-IST. 2023.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/vih-sida/documents/bulletin-national/bulletin-de-sante-publique-vih-ist.-novembre-2023)
 - [Cazein F. et al. Activité de dépistage du VIH et circonstances de découverte de l'infection à VIH, France 2018. Bull Epidémiol Hebd. 2019.](http://beh.santepubliquefrance.fr/beh/2019/31-32/2019_31-32_1.html)

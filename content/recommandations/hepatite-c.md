@@ -9,9 +9,9 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Comité de l'AFEF"
 date = "2020-09-06T20:18:41+02:00"
 publishdate = "2020-09-06"
-lastmod = "2024-07-29"
+lastmod = "2024-10-16"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2023"
+annees = "2024"
 sources = ["HAS", "AFEF"]
 tags = ["depistage", "fatigue", "hepatite", "IST", "prurit", "VIH"]
 english = ["Hepatitis C"]
@@ -243,8 +243,9 @@ Epclusa® 400/100 mg 1 cp par jour pendant 12 semaines
 ou Maviret® 3 cp en 1 prise par jour, pendant le repas, pendant 8 semaines
 {.alert .alert-info}
 
-**Tout médecin peut prescrire les antiviraux de l'hépatite C**.  
-Mesure de la charge virale obligatoire avant de débuter le traitement.
+> **Tout médecin peut prescrire les antiviraux de l'hépatite C**.
+
+Mesure de la **charge virale** obligatoire avant de débuter le traitement. **ECG** proposé dans le bilan pré-thérapeutique.
 
 2 schémas thérapeutiques au choix (guérison dépassant 90%):
 
@@ -355,7 +356,7 @@ graph TB
 
 {{< card-link-external title="Vidéos de l'AFEF sur l'hépatite C" url="https://www.youtube.com/channel/UCgWEPppp0YbWbvpcWoXd9fg/search?query=h%C3%A9patite%20C" subtitle="e-learning gratuit par INSHU, ashm, UNSW, Kirby">}}
 
-- [HAS. Prise en charge des personnes infectées par les virus de l'hépatite B, C ou D. 2023.](https://www.has-sante.fr/jcms/p_3324682/fr/prise-en-charge-des-personnes-infectees-par-les-virus-de-l-hepatite-b-c-ou-d)
+- [HAS, ANRS, CNS. Prise en charge des personnes infectées par les virus de l'hépatite B, C ou D. 2024.](https://www.has-sante.fr/jcms/p_3324682/fr/prise-en-charge-des-personnes-infectees-par-les-virus-de-l-hepatite-b-c-ou-d)
 - [Roudot-Thoraval F. Éditorial. De nouvelles recommandations relancent l'objectif d'élimination des hépatites B, C et Delta d'ici 2030. Bull Épidémiol Hebd. 2023.](http://beh.santepubliquefrance.fr/beh/2023/15-16/2023_15-16_0.html)
 - {{< references/afef-foie-non-invasif >}}
 - [HAS. Hépatite C - Panorama](https://www.has-sante.fr/jcms/p_3261788/fr/hepatite-c)

@@ -18,7 +18,7 @@ icd10 = []
 draft = true
 image = false
 imageSrc = ""
-todo = "summary, WEMIGO, https://www.cregg.org/espace-patients/my-mici-book/, privilégier aliments primaires https://presse.inserm.fr/les-emulsifiants-alimentaires-augmentent-le-pouvoir-pathogene-de-certaines-bacteries-et-le-risque-dinflammation-intestinale/41250/, https://www.snfge.org/download/file/fid/3640, https://www.snfge.org/gastroscoop/epidemie-de-mici-pediatriques-preparons-nous-affronter-la-vague, https://www.snfge.org/gastroscoop/les-aliments-ultra-transformes-role-dans-laugmentation-de-lincidence-des-mici, https://www.bmj.com/content/380/bmj-2021-068947"
+todo = "summary, WEMIGO, https://www.cregg.org/espace-patients/my-mici-book/, privilégier aliments primaires https://presse.inserm.fr/les-emulsifiants-alimentaires-augmentent-le-pouvoir-pathogene-de-certaines-bacteries-et-le-risque-dinflammation-intestinale/41250/, https://www.snfge.org/download/file/fid/3640, https://www.snfge.org/gastroscoop/epidemie-de-mici-pediatriques-preparons-nous-affronter-la-vague, https://www.snfge.org/gastroscoop/les-aliments-ultra-transformes-role-dans-laugmentation-de-lincidence-des-mici, https://www.bmj.com/content/380/bmj-2021-068947, https://www.clinicalnutritionjournal.com/article/S0261-5614(22)00428-9/fulltext"
 +++
 
 {{%article-summary%}}
