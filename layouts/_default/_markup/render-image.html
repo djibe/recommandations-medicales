@@ -3,6 +3,7 @@
 <img
   src="{{ .Destination | safeURL }}"
   alt="{{ .Text }}"
+  loading="lazy"
   {{ with $image }}
   width="{{ $image.Width }}" height="{{ $image.Height }}"
   {{ end }}
