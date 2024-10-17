@@ -164,7 +164,7 @@ Ne pas réaliser de frottis cervical parmi les femmes suivantes de 25 à 65 ans:
 
 À l'inverse, femmes nécessitant un rythme intensifié: immunodéprimées (VIH, greffe ...) ou exposée au diéthylstilbestrol.
 
-### Dépistage du cancer de l'anus
+### Dépistage du cancer du canal anal
 
 {{< clinique/depistage-cancer-anus >}}
 

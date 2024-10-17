@@ -237,7 +237,7 @@ Réévaluer régulièrement les risques emboliques et de saignement.
 
 ### Risque embolique: score CHA~2~DS~2~-VA
 
-{{< modal-btn modal-chads >}}Calculer le score CHA~2~DS~2~-VA{{< /modal-btn >}} quelque soit le type de FA (sauf valve mécanique ou sténose mitrale modérée à sévère où un AVK est systématique).
+{{< modal-btn modal-chads >}}Calculer le score CHA~2~DS~2~-VA{{< /modal-btn >}} quel que soit le type de FA (sauf valve mécanique ou sténose mitrale modérée à sévère où un AVK est systématique).
 
 ### Risque hémorragique: score HAS-BLED
 
@@ -297,7 +297,7 @@ Adaptation à la fonction rénale selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{
 
 #### Antivitamines K (AVK)
 
-Indications aux AVK: systématique si FA (quelque soit le type) avec valve mécanique ou sténose mitrale modérée à sévère([voir le chapitre AVK]({{< relref "avk.md" >}})).
+Indications aux AVK: systématique si FA (quel que soit le type) avec **valve mécanique** ou **sténose mitrale** modérée à sévère([voir le chapitre AVK]({{< relref "avk.md" >}})).
 
 - INR cible selon la prothèse ou entre 2 et 3
 - AVK avec temps dans la cible ≥ 70%

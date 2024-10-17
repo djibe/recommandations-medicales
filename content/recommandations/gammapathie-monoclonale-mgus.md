@@ -151,7 +151,7 @@ Conduite à tenir du *Myeloma Diagnostic Tool* devant un pic monoclonal:
     avec symptômes graves (compression médullaire, insuffisance rénale aiguë)
 2. Avis hématologique urgent sous 2 semaines si:
     - Pic monoclonal modéré (IgG > 15 g/L, IgA/IgM > 10 g/L)
-    - ou identification d'une IgD ou IgE quelque soit le taux
+    - ou identification d'une IgD ou IgE quel que soit le taux
     - ou rapport des chaînes légères sériques κ/λ < 0,1 ou > 7
     - ou protéinurie de Bence-Jones
 3. Contrôle sérique et urinaire à 2-3 mois; Avis sous 2 semaines si pic augmente > 5 g/L (ou 25%) si:

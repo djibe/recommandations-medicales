@@ -182,7 +182,7 @@ Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anes
 
 **NB**. Pas de bénéfice prouvé des anti-histaminiques sur le prurit au cours d'un zona.
 
-### Antiviral
+### Antiviral: aciclovir et dérivés
 
 #### Indications au traitement antiviral
 
@@ -195,15 +195,17 @@ Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anes
 
 #### Prise en charge du zona par antiviral
 
-Le traitement antiviral doit être débuté en urgence dans les 48 à 72 premières heures.
+Le traitement antiviral doit être débuté en **urgence** dans les 48 à 72 premières heures.
 
-Valaciclovir 2 x 500 mg 3 fois par jour pendant 7 jours, début immédiat
+[Valaciclovir](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68070731&typedoc=R) 2 x 500 mg 3 fois par jour pendant 7 jours, début immédiat
 {.alert .alert-info}
 
-**Alternatives:** aciclovir 800 mg x 5/j pendant 7 jours (seule forme buvable)  
-ou famciclovir 500 mg x 3/j pendant 7 jours.
+**Alternatives:** [aciclovir 800 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60111197&typedoc=R) (cp, buvable) x 5/j pendant 7 jours  
+ou famciclovir (Oravir) 500 mg x 3/j pendant 7 jours.
 
-Chez l'enfant: utiliser l'aciclovir buvable (Zovirax) à partir de 2 ans. Avis spécialisé avant.
+Chez l'**enfant de plus de 2 ans:** utiliser l'aciclovir buvable ([Zovirax 200 mg/5 mL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68750987&typedoc=R)) 200 mg (5 mL) x 5/j pendant 5-10 jours à partir de 2 ans.
+
+**Avis spécialisé avant 2 ans**.
 
 ### Traitement du zona ophtalmique
 

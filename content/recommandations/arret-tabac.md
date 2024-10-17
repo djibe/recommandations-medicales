@@ -41,7 +41,7 @@ todo = "rankok, bénéfices de l'arrêt, aider à gérer la rechute: HAS p.33+35
 
 Tabagisme
 : Usage de tabac quelle que soit la forme: fumé (cigarette, cigare, tabac à rouler, pipe, narguilé), prisé, mâché (snus), associé ou non à d'autres substances (joint), etc. Le tabagisme débute à l'**adolescence**.
-: Risque de complications quelque soit la forme, la durée et la quantité: [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/) (x20), cancer. Les risques sont identiques pour le **tabagisme passif**.
+: Risque de complications quelques soient la forme, la durée et la quantité: [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/) (x20), cancer. Les risques sont identiques pour le **tabagisme passif**.
 Le tabagisme est la deuxième cause de mortalité mondiale (5,1 millions de décès/an) et la première cause évitable de mortalité.
 : **Notes:** Ne pas utiliser les termes bien/mal mais plutôt bon/mauvais pour la santé. Rappeler que l'arrêt du tabac n'est pas une question de volonté mais qu'il s'agit d'une addiction nécessitant le suivi d'un professionnel.
 

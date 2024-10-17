@@ -28,7 +28,7 @@ flowchart = true
 - Absence de prise en charge du phimosis avant 7-8 ans
 - Le traitement d'un phimosis après 8 ans peut être débuté par application de [dermocorticoïde fort]({{< relref "dermocorticoides.md" >}}) 1 à 2 fois par jour accompagnée de manœuvres douces pendant 6 à 8 semaines
 - La chirurgie du prépuce est réservée aux phimosis résistants aux dermocorticoïdes
-- Jamais de manœuvres de rétractions forcées du prépuce quelque soit l'étiologie du phimosis
+- Jamais de manœuvres de rétractions forcées du prépuce quelle que soit l'étiologie du phimosis
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -114,7 +114,7 @@ Définir si le phimosis est physiologique persistant ou secondaire.
 Recommandations pour la prise en charge du phimosis:
 
 - Ne pas manipuler le phimosis physiologique du nouveau-né
-- **Jamais de manœuvres de rétractions forcées quelque soit l'étiologie du phimosis**
+- **Jamais de manœuvres de rétractions forcées quelle que soit l'étiologie du phimosis**
 - Pas de traitement médical/chirurgical du phimosis avant 7-8 ans
 
 Le traitement chirurgical s'adresse aux échecs du traitement médical et du phimosis acquis très scléreux

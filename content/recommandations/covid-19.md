@@ -94,7 +94,7 @@ Risque démultiplié de forme grave de Covid-19 si polypathologique. Doit tenir 
 Toutes les conditions doivent être remplies pour la prescription de Paxlovid:
 
 1. Personne à (très) haut risque de {{< modal-btn modal-grave >}}forme grave{{< /modal-btn >}} ou **+65 ans**  
-  Quelque soit leur âge et leur statut vaccinal.
+  Quels que soient leur âge et leur statut vaccinal.
 2. Test antigénique ou RT-PCR positif
 3. Pas d'oxygénothérapie nécessaire
 4. Début des symptômes depuis ≤ 5 jours (idéalement)

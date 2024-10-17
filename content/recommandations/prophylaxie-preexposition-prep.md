@@ -260,7 +260,7 @@ La PrEP par cabotégravir (CAB-LP, [Vocabria®](https://www.ema.europa.eu/fr/doc
 
 Rappeler l'importance du préservatif et des dépistages répétés des IST.
 
-Quelque soit le schéma: poursuivre 1 cp par jour pendant **2 jours** après le dernier rapport non protégé puis arrêt.
+Quel que soit le schéma: poursuivre 1 cp par jour pendant **2 jours** après le dernier rapport non protégé puis arrêt.
 
 {{% /collapse %}}
 {{%collapse "Suivi de la PrEP" %}}

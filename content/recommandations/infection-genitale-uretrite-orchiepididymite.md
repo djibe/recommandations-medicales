@@ -243,13 +243,12 @@ Ceftriaxone 1g IM dose unique
 \+ doxycycline 200 mg dose unique à J1 puis 100 mg x 2/j pendant 10 à 14 jours
 {.alert .alert-info .mb-5}
 
-- Si faible suspicion de gonococcie et suspicion d'origine urinaire:
-  - Ciprofloxacine 500 mg x 2/j pendant 10 à 14 jours  
-    ou lévofloxacine 750 mg (indisponible en France) x 1/j
-  - OU doxycycline 200 mg dose unique à J1 puis 100 mg x 2/j pendant 10 à 14 jours  
-    \+ TODO: Entérobactérie pendant 10 à 14 jours
-- Si homme âgé sans rapports à risque: traitement d'une infection urinaire masculine  
-  Ciprofloxacine 500 mg x 2/j ou lévofloxacine 750 mg (indisponible en France) x 1/j pendant 10 à 14 jours
+Si faible suspicion de gonococcie et suspicion d'origine urinaire:
+
+- Ciprofloxacine 500 mg x 2/j pendant 10 à 14 jours  
+  ou lévofloxacine 750 mg (indisponible en France) x 1/j
+- OU doxycycline 200 mg dose unique à J1 puis 100 mg x 2/j pendant 10 à 14 jours  
+  \+ TODO: Entérobactérie pendant 10 à 14 jours
 
 </div>
 <div aria-labelledby="sfd-tab" class="tab-pane fade " id="sfd-panel" role="tabpanel">

@@ -170,7 +170,7 @@ Mesures associées à un traitement corticoïde prolongé:
 {{% /collapse %}}
 {{%collapse "Décroissance des corticoïdes" %}}
 
-> Pour un **traitement corticoïde court** (< 3-4 semaines, quelque soit la dose), **aucune décroissance** n'est nécessaire.
+> Pour un **traitement corticoïde court** (inférieur à 3-4 semaines, quelle que soit la dose), **aucune décroissance** n'est nécessaire.
 {.alert .alert-info}
 
 **Facteurs de risque d'insuffisance corticotrope:** dose, durée, voie d'administration et puissance du corticoïde et susceptibilité individuelle.

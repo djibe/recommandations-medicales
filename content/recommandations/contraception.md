@@ -126,7 +126,7 @@ Les œstroprogestatifs augmentent le risque de [thromboembolie veineuse](/tags/m
 - Antécédent familial au 1^er^ degré
   - [Infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) ou AVC chez homme -55 ans ou femme -65 ans
   - MVTE (thrombose veineuse profonde, embolie pulmonaire) avant 50 ans  
-    Ou nombre élevé d'apparentés quelque soit le degré.
+    Ou nombre élevé d'apparentés quel que soit le degré.
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
 - Dyslipidémie non contrôlée
 - [Diabète type 1]({{< relref "diabete-type-1.md" >}}) depuis +20 ans ou compliqué
@@ -213,7 +213,7 @@ Nécessité d'une consultation dédiée pour la primo-prescription d'une contrac
 - Antécédents personnels  
   [Dépression]({{< relref "depression.md" >}}), {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}, HTA, dyslipidémie, diabète type 1, migraine (préciser l'aura), thrombophilie, cancer (du sein), MVTE, IST, GEU, chirurgie.
 - Antécédents familiaux au 1^er^ degré  
-  IDM/AVC chez homme < 55 ans ou femme < 65 ans, MVTE (TVP, EP) < 50 ans ou épisodes répétés quelque soit le degré.
+  IDM/AVC chez homme < 55 ans ou femme < 65 ans, MVTE (TVP, EP) < 50 ans ou épisodes répétés quel que soit le degré.
 - Traitements en cours
 - Tabac
 - Profession
@@ -308,7 +308,7 @@ Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à
 ### Les œstroprogestatifs
 
 - Contre-indiqués dans plusieurs situations (voir *Contre-indications aux œstroprogestatifs*)
-- Efficacité identique quelque soit la voie d'administration
+- Efficacité identique quelle que soit la voie d'administration
 - Les œstroprogestatifs n'augmentent globalement pas le risque de cancer (voir *Contraception et cancer*)
 - EE + lévonorgestrel/norgestimate en première intention
 - Schéma continu possible si: symptômes cataméniaux, [ménorragies]({{< relref "menorragies.md" >}}) fonctionnelles, [endométriose]({{< relref "endometriose.md" >}}) ou choix personnel.

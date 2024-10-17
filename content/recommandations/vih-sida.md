@@ -49,6 +49,9 @@ Syndrome d'immunodéficience acquise (SIDA)
 ARV
 : antirétroviral
 
+FVVIH
+: femme vivant avec le VIH
+
 HSH
 : homme ayant des rapports sexuels avec des hommes
 
@@ -169,21 +172,21 @@ Signes cliniques mineurs:
 {{% /collapse %}}
 {{%collapse "Stade Sida" %}}
 
-Un patient ayant eu une infection opportuniste du Sida restera au stade Sida (quelque soit le taux de CD4 ultérieur). Les infections classiques se surajoutent à celles du Sida.
+Un patient ayant eu une infection opportuniste du Sida restera au stade Sida (quel que soit le taux de CD4 ultérieur). Les infections classiques se surajoutent à celles du Sida.
 
 Pathologies opportunistes selon le taux de CD4 (/mm³):
 
-- de 500 à 200
+- de 500 à 200/mm³
   - [Candidose orale]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
   - [Tuberculose]({{< relref "tuberculose.md" >}})
   - Maladie de Kaposi (détermine Sida)
   - [Lymphome non hodgkinien]({{< relref "lymphomes-non-hodgkiniens.md" >}}) (détermine Sida)
-- de 200 à 100
+- de 200 à 100/mm³
   - Idem ci-dessus
   - [Candidose œsophagienne]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
   - Pneumocystose
   - Toxoplasmose cérébrale
-- < 100
+- < 100/mm³
   - Idem ci-dessus
   - CMV
   - Cryptococcose neuroméningée
@@ -267,28 +270,32 @@ Dépistage identique au dépistage généralisé des [cancers du sein]({{< relre
 
 ### Dépistage du cancer du col de l'utérus
 
-Cytologie tous les 3 ans.
+Suivi identique à la population générale.
 
-À partir de CD4+ < 200/mm³: frottis annuel. La survenue de ce cancer définit l'entrée au stade Sida.
+Uniquement avant 30 ans, en cas de charge virale non contrôlée, CD4+ < 350/mm³ ou nadir < 200 cellules/µL: cytologie annuelle.
+
+La survenue de ce cancer définit l'entrée au stade Sida. En cas d'antécédent de cancer du col ou de persistance des HPV-HR, poursuivre le dépistage au-delà de 65 ans.
 
 ### Dépistage des cancers cutanéo-muqueux
 
 Examen cutanéo-muqueux annuel par un dermatologue.
 
-### Dépistage du cancer de l'anus
+### Dépistage du cancer du canal anal
 
 {{< clinique/depistage-cancer-anus >}}
 
 ### Dépistage du cancer du poumon
 
-Indications au scanner thoracique pour le dépistage du [cancer du poumon]({{< relref "cancer-poumon.md" >}}) chez le VIH+ si:
+Indications au scanner thoracique pour le dépistage du [cancer du poumon]({{< relref "cancer-poumon.md" >}}) chez le VIH+ si les critères sont remplis:
 
-- Toux persistante
-- Hémoptysie
-- Douleur chronique
-- Altération de l'état général
+- Entre 50 et 74 ans
+- tabagisme > 10 cigarettes/j pendant > 30 ans  
+  ou > 15 cigarettes/j pendant 25 ans,  
+  possiblement sevré ≤ 10 ans
+- Une information éclairée
+- Volontaire pour une démarche au sevrage tabagique
 
-> -- *CNS 2017*
+> -- *ANRS, CNS 2024*
 
 ### Dépistage du cancer de la vessie
 
@@ -320,7 +327,7 @@ Palpation des aires ganglionnaires au moins annuelle.
   - Rappel si anticorps anti-HBs < 10 UI/mL
 - Papillomavirus
   - Enfants de 11 à 19 ans vivant avec le VIH par le schéma d'injection en 3 doses: Gardasil 9® à M0, M2 et M6.
-  - 
+  - Selon le CNS: rattrapage jusqu'à 26 ans pour tous
 - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
 
 ### Vaccins vivants et VIH

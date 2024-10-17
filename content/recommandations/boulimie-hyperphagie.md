@@ -255,7 +255,7 @@ Indications à une hospitalisation du sujet boulimique:
 
 - Nommer le trouble des conduites alimentaires avec tact et sans stigmatisation et de souligner qu'il est un mode d'adaptation comportementale à un mal-être
 - Informer sur les risques liés au trouble (chronicité, conséquences potentiellement graves à court et long terme) qui nécessitent des soins somatiques et psychiques
-- Informer sur les possibilités de guérison avec une prise en charge adaptée (quelque soit le nombre d'année écoulées et les déceptions précédentes)
+- Informer sur les possibilités de guérison avec une prise en charge adaptée (quelles que soient le nombre d'années écoulées et les déceptions précédentes)
 - Expliquer l'objectif des soins: traiter les dysrégulations émotionnelles et les dimensions psychiques associées, restaurer un comportement alimentaire adapté, diminuer les crises, avec des objectifs thérapeutiques plus larges : complications somatiques, psychiques, sociales et relationnelles
 
 S'appuyer sur des éléments motivant le patient pour avancer dans les soins (projets, loisirs, études/travail).  

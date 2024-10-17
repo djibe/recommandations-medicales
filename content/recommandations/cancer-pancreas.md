@@ -40,7 +40,7 @@ Adénocarcinome du pancréas (AP)
 
 Cancers du pancréas familiaux (CaPaFa)
 : Survenue d'un adénocarcinome du pancréas chez ≥ 2 parents au 1^er^ degré  
-OU ≥ 3 cas de la même branche (quelque soit le degré de parenté et l'âge de survenue)
+OU ≥ 3 cas de la même branche (quel que soit le degré de parenté et l'âge de survenue)
 
 ### Facteurs de risque de cancer du pancréas
 

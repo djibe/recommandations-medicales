@@ -319,7 +319,7 @@ Objectifs: amélioration de la santé, des signes climatériques, du risque card
 Contre-indications au traitement de la ménopause:
 
 - [Antécédent de cancer du sein]({{< relref "cancer-sein.md" >}})  
-  Quelque soit le statut hormonal ou invasif/in situ.
+  Quel que soit le statut hormonal ou invasif/in situ.
 - Antécédent d'[infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) ou d'[AVC ischémique]({{< relref "accident-vasculaire-cerebral.md" >}})
 - [Maladie d'Alzheimer]({{< relref "maladie-alzheimer.md" >}})
 - Contre-indication relative
@@ -350,7 +350,7 @@ Le THM peut être proposé en cas de ménopause récente (< 10 ans) selon la bal
   - Bénéfique si durée ≥ 5 ans
   - Cible: absence de perte osseuse à 2 ans
 - Bouffées vasomotrices altérant la qualité de vie
-  - Tous les estrogènes diminuent les BVM quelque soit la voie d'administration et le schéma d'utilisation
+  - Tous les estrogènes diminuent les BVM quels que soient la voie d'administration et le schéma d'utilisation
   - L'efficacité est dose-dépendante
 - SGUM altérant la qualité de vie
   - Effet inconstant, partiel et suspensif
@@ -566,7 +566,7 @@ Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch par semaine (sur fess
 Le THM utilisé en France ne modifie pas la survenue des pathologies suivantes:
 
 - Thrombo-embolies veineuses  
-  Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de chlormadinone, médrogestone, acétate de cyprotérone, acétate de médroxyprogestérone) quelque soit l'IMC.
+  Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de chlormadinone, médrogestone, acétate de cyprotérone, acétate de médroxyprogestérone) quel que soit l'IMC.
 - Incidence du cancer du sein si durée du THM de moins de 5 ans
 - Mortalité par cancer du sein
 - [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}})

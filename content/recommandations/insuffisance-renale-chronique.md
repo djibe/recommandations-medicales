@@ -232,7 +232,7 @@ La maladie rénale est considérée comme évolutive en cas de présence de fact
 - Présence d'une albuminurie (surtout si sévère > 500 mg/g)
 - Hypertension artérielle non contrôlée
 
-Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologique.
+Quel que soit le stade de la MRC, ces situations nécessitent un avis néphrologique.
 
 Le déclin annuel est **physiologique** quand < 2 mL/min/1,73m²/an.
 

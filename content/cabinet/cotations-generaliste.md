@@ -77,7 +77,7 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 
 > A = année ; M = mois
 
-Sur la feuille de soin papier écrire: CCX pour CSO ou CSE, CCE pour MPH. Entrer le code initial dans le dossier patient.
+Sur la feuille de soin papier écrire: CCX pour CSO ou CSE; CCE pour MPH. Entrer le code initial dans le dossier patient.
 {.alert .alert-info}
 
   </div><!-- No more than 2-spaces indentation to prevent code block declaration -->

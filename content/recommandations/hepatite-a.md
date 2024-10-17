@@ -117,8 +117,8 @@ Vaccins combinés: VHA-typhoïde Tyavax® et VHA-VHB Twinrix adulte®
 
 {{< mermaid title="Prise en charge de la prévention de l'hépatite A par le médecin généraliste. Dr JB Fron d'après Ministère de la Santé" >}}
 graph TB
-  prévention["<b>Prévention de l'hépatite A</b>"] --> vaccination("<b>Vaccination</b><br>—<br>- Enfant handicapé en résidence<br>- Mucoviscidose<br>- Hépatite, alcool<br>- Voyage: vérifier sur Pasteur")
-    prévention --> hygiène("<b></b><br>—<br>")
+  prévention["<b>Prévention de l'hépatite A</b>"] --> vaccination("<b>Vaccination</b><br>—<br>- HSH<br>- Enfant handicapé en résidence<br>- Mucoviscidose<br>- Hépatopathie, alcool<br>- Certains professionnels<br>- Voyage: vérifier sur Pasteur")
+    prévention --> hygiène("<b>Mesures d'hygiène</b><br>—<br>Prévention du péril fécal:<br>lavage des mains, aliments cuits")
   style prévention stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
