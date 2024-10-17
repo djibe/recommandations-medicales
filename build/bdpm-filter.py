@@ -11,6 +11,7 @@ urls = [
     'https://base-donnees-publique.medicaments.gouv.fr/telechargement.php?fichier=CIS_COMPO_bdpm.txt'
 ]
 
+print("Downloading BDPM ...")
 for url in urls:
     # Get filename from URL
     filename = url.split('=')[-1]
@@ -47,6 +48,9 @@ df = df.loc[:, ['cis', 'libelle', 'forme', 'voie', 'procedure', 'commercialisati
 # Apply filters
 df.loc[df['procedure'] != 'Procédure centralisée', 'procedure'] = None
 df.loc[df['procedure'] == 'Procédure centralisée', 'procedure'] = 'Yes'
+
+df['libelle'] = df['libelle'].str.replace(r'(?i)\bPOUR CENT\b', '%', regex=True)
+df2['dci'] = df2['dci'].str.replace(r'(?i)\bPOUR CENT\b', '%', regex=True)
 
 unwanted_libelle_values = ["BOIRON", "COMPOSE", "VOMICA", "2CH", "3CH", "4CH", "6CH", "8CH"]
 unwanted_voie_values = ["épilésionelle", "intraveineuse", "intrathécale", "intravesicale"]
