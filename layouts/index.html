@@ -31,8 +31,8 @@
     <div class="col-md-8 col-lg-7 site-title">
       <h2 class="site-title h1 my-3 my-md-5 pt-xl-5">Les <span class="text-primary">recommandations</span> de référence pour les médecins <span class="text-secondary-highlight">généralistes</span></h2>
       <h3 class="mb-4">Les dernières recommandations médicales adaptées pour répondre à nos interrogations en consultation</h3>
-      <a href="/recommandations/" class="btn btn-primary shadow-none btn-lg btn-shaped mt-3 mr-3 mb-4">Toutes les recos</a>
-      <a href="/projet/" class="btn btn-outline-primary btn-lg btn-shaped mt-3 mr-2 mb-4">Le projet</a>
+      <a href="/recommandations/" class="btn btn-primary shadow-none mt-3 mr-3 mb-4">Toutes les recos</a>
+      <a href="/projet/" class="btn btn-outline-primary mt-3 mr-2 mb-4">Le projet</a>
     </div>
   </div>
   <section class="row mt-md-5 mb-5">
@@ -55,7 +55,7 @@
         </div>
       {{ end }}
       </div>
-      <button class="btn btn-link btn-shaped my-3" type="button" data-toggle="collapse" data-target="#collapse-recos" aria-expanded="false" aria-controls="collapse-recos" aria-label="Afficher plus de recommandations récentes">Afficher + de recos</button>
+      <button class="btn btn-link my-3" type="button" data-toggle="collapse" data-target="#collapse-recos" aria-expanded="false" aria-controls="collapse-recos" aria-label="Afficher plus de recommandations récentes">Afficher + de recos</button>
       <div class="collapse" id="collapse-recos">
         <div class="grid-1-2-3">
           {{ range first 9 ( after 6 (where site.RegularPages.ByPublishDate.Reverse "Section" "recommandations" )) }}
@@ -73,7 +73,7 @@
           </div>
           {{ end }}
         </div>
-        <a href="/recommandations/" class="btn btn-primary shadow-none btn-shaped my-4">Toutes les recommandations</a>
+        <a href="/recommandations/" class="btn btn-primary shadow-none my-4">Toutes les recommandations</a>
       </div>
       <div class="my-5 bg-light rounded-xxl" style="padding: 1.5rem">
         <h3 class="typography-headline-5 font-weight-bold mb-4">Outils du quotidien</h3>

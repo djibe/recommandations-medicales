@@ -9,7 +9,7 @@
 
 {{- with .Params.chart }}
 <script type="module" crossorigin>
-import ApexCharts from 'https://cdn.jsdelivr.net/npm/apexcharts@3.54/+esm'
+import ApexCharts from 'https://esm.run/apexcharts@3.54/dist/apexcharts.esm.js'
 document.addEventListener( 'DOMContentLoaded', event => {
   Apex = {
     colors: ['#4150f5', '#ffa600', '#af34dc', '#e800ba', '#ff0094', '#ff2b6e', '#ff5c4b', '#ff8329'],
@@ -105,8 +105,8 @@ document.addEventListener( 'DOMContentLoaded', event => {
 
 {{- with .Params.flowchart }}
 <script type="module" async crossorigin>
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.9.2/+esm';
-  // import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.3/+esm';
+  import mermaid from 'https://esm.run/mermaid@10.9.3';
+  // import mermaid from 'https://esm.run/mermaid@11.3';
   const MermaidConfig = {
     // logLevel: 1, // debug
     securityLevel: 'loose',
