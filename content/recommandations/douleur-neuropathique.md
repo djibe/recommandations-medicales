@@ -280,7 +280,7 @@ Traitements de référence des douleurs neuropathiques:
   - Contre-indications: IHC, IRC sévère, glaucome, ciprofloxacine
   - Effets indésirables: somnolence, nausées, vertiges, constipation, xérostomie, impuissance, anorexie. Levée d'inhibition avec risque suicidaire.
 - [Gabapentine 1200-3600 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62611895&typedoc=R) (Neurontin®, gén) en 3 prises/j
-  - **Ordonnance sécurisée** (rechercher un mésusage) | arrêt progressif | peu d'interactions
+  - Arrêt progressif | peu d'interactions
   - Effets indésirables: somnolence, vertiges, prise de poids et œdèmes périphériques
 - Antidépresseurs tricycliques
   - Amitriptyline (moins bien tolérée), [clomipramine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68990612&typedoc=R) (Anafranil®, gén), imipramine (Tofranil®)

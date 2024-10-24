@@ -13,7 +13,7 @@ sources = ["CNOM"]
 tags = []
 image = true
 imageSrc = "Undraw"
-todo = "https://data.ameli.fr/pages/data-professionnels-sante-liberaux-profession/?refine.profession_sante=M%C3%A9decins%20g%C3%A9n%C3%A9ralistes%20(hors%20m%C3%A9decins%20%C3%A0%20expertise%20particuli%C3%A8re%20-%20MEP) | 11680200 ALD 2021 par https://assurance-maladie.ameli.fr/etudes-et-donnees/prevalence-beneficiaires-ald"
+todo = "rankok, https://data.ameli.fr/pages/data-professionnels-sante-liberaux-profession/?refine.profession_sante=M%C3%A9decins%20g%C3%A9n%C3%A9ralistes%20(hors%20m%C3%A9decins%20%C3%A0%20expertise%20particuli%C3%A8re%20-%20MEP) | 11680200 ALD 2021 par https://assurance-maladie.ameli.fr/etudes-et-donnees/prevalence-beneficiaires-ald"
 chart = true
 datatable = true
 +++

@@ -62,7 +62,7 @@ Dépendance (ou addiction)
 Faux pas
 : Prise isolée de tabac chez un sujet abstinent dans une démarche d'arrêt. On distingue le faux pas (lapse en anglais) de la rechute (relapse en anglais) par le fait que le faux pas est ponctuel.
 
-### Bénéfices de l'arrêt
+### Bénéfices de l'arrêt du tabac
 
 > << Il n'est jamais trop tard pour arrêter (*HAS 2014*) >>  
 Arrêter à 40 ans augmente l'[espérance de vie]({{< relref "esperance-vie-age-france.md" >}}) de 7 ans, à 50 ans de 4 ans, à 60 ans de 3 ans

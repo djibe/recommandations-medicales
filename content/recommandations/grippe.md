@@ -2,7 +2,6 @@
 id = "0190e8c3-a9c6-73e6-b231-522bbe45827c"
 title = "Grippe saisonnière"
 prefix = "la "
-noindex = true
 description = "Recommandations pour la prise en charge de la grippe. Indications à la vaccination et aux antiviraux, personne à risque de forme grave, grippe pendant grossesse"
 synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -18,7 +17,7 @@ sctid = "6142004"
 icd10 = ["J11.1"]
 image = true
 imageSrc = "Particules de virus grippal H1N1 en microscopie électronique: les protéines de surface sont en noir. NIAID, CC BY 2.0 via Wikimedia Commons"
-todo = "flowchart, grippe grossesse, antiviral"
+todo = "SEO, flowchart, grippe grossesse, antiviral"
 flowchart = true
 +++
 
@@ -149,7 +148,7 @@ Signes et symptômes de la grippe:
 Vaccination annuelle en octobre pour les personnes à risque de grippe grave (Bon de prise en charge à 100% Cerfa n°610e sur *Ameli pro*)
 {.alert .alert-info}
 
-Vaccins contre la grippe disponibles en France pour la campagne vaccinale:
+Vaccins contre la grippe disponibles en France pour la campagne vaccinale pour les adultes et les enfants:
 
 - FlurarixTetra®
 - InfluvacTetra®
@@ -157,7 +156,7 @@ Vaccins contre la grippe disponibles en France pour la campagne vaccinale:
 
 Le vaccin intranasal Fluenz Tetra® n'est pas disponible en France.
 
-La campagne de vaccination commence le ==15 octobre 2024== (DGS Urgent 2024_17).
+La campagne de vaccination a commencé le ==15 octobre 2024== (*DGS Urgent 2024_17*).
 
 Pas de délai à respecter entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
 

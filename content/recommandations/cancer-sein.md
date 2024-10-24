@@ -18,7 +18,7 @@ sctid = "254837009"
 icd10 = ["C50.9"]
 image = true
 imageSrc = "Le cancer du sein, illustration par Freepik"
-todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, INCa autres guides"
+todo = "revoir ttt > gg sentinelle, algorithme 2 et 3, EI hormonothérapie, perruque INCa, INCa autres guides"
 flowchart = true
 +++
 
@@ -216,6 +216,9 @@ Toute suspicion diagnostique de cancer du sein justifie un avis spécialisé san
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+> Le **CA 15.3** ne doit pas être dosé: << Aucun dosage de marqueur tumoral sérique n'est indiqué pour le diagnostic du cancer du sein. >> -- *INCa 2016*
+{.alert .alert-info}
+
 ### Mammographies
 
 Indications à réaliser des mammographies diagnostiques:  tuméfaction du sein ou nodule, rétraction cutanée ou mamelonnaire, inflammation du sein, écoulement mamelonnaire (voir plus bas), Eczéma du mamelon (voir plus bas), adénopathie axillaire.
@@ -362,6 +365,8 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: ch
 
 {{% /collapse %}}
 {{%collapse "Surveillance après cancer du sein" %}}
+
+> À propos du CA 15.3: << Aucun dosage de marqueur tumoral sérique n'est indiqué dans le suivi. >> -- *INCa 2016*
 
 ### Suivi post traitement du cancer du sein
 
