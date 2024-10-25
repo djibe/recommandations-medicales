@@ -212,7 +212,7 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
   Usage des dermocorticoïdes, la dermatite atopique n'est pas allergique-psychologique-infectieuse-contagieuse.
 - [Centres d'éducation thérapeutique pour la dermatite atopique](https://www.sfdermato.org/page-29-centres-d-education-therapeutique) (ETP)
 - Suivi médical régulier (courbe de croissance ++)
-- Vigilance en cas de contact avec l'herpès
+- Vigilance en cas de contact avec l'[herpès]({{< relref "infections-herpes-virus.md" >}})
 - Soutien psychologique
 - Vaccins
   - Allergie à l'œuf associée: avis spécialisé avant grippe ou fièvre jaune

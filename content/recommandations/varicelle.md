@@ -310,7 +310,7 @@ style grossesse stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
-- [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-168-web.pdf)
+- [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-168.pdf)
 - [HCSP. Guide pour l'immunisation en post-exposition : vaccination et immunoglobulines. 2016.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=548)
 
 {{%/sources%}}

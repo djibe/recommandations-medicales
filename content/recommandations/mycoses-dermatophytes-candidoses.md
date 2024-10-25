@@ -267,7 +267,7 @@ L'aspect pseudo-membraneux blanc (**muguet**) est le plus fréquent, souvent ass
 Tableau pauci-symptomatique. Début au niveau du sillon balanopréputial avec un érythème puis souvent des plaques blanchâtres du gland.  
 Extension possible au pénis, scrotum et l'aine chez l'obèse.
 
-Diagnostic différentiel: infectieux ([syphilis secondaire]({{< relref "syphilis.md" >}}), herpès génital), macération, [psoriasis]({{< relref "psoriasis.md" >}}), carcinome.
+Diagnostic différentiel: infectieux ([syphilis secondaire]({{< relref "syphilis.md" >}}), [herpès génital]({{< relref "infections-herpes-virus.md" >}})), macération, [psoriasis]({{< relref "psoriasis.md" >}}), carcinome.
 
 {{%info%}}
 
@@ -297,7 +297,7 @@ Signes et symptômes d'une candidose vulvovaginale:
 - Voire dysurie
 - Diagnostic différentiel
   - Écoulements physiologiques pendant la grossesse ou en milieu de cycle parfois malodorants
-  - Vaginose bactérienne malodorante à *Garderella vaginalis*, [IST](/tags/ist/) à trichomonase, gonococcie ou [chlamydiose]({{< relref "chlamydia-trachomatis.md" >}}), virale à herpès
+  - Vaginose bactérienne malodorante à *Garderella vaginalis*, [IST](/tags/ist/) à trichomonase, gonococcie ou [chlamydiose]({{< relref "chlamydia-trachomatis.md" >}}), [virale à herpès]({{< relref "infections-herpes-virus.md" >}})
   - Dermatites: lichen (ménopausée ++), eczéma, [psoriasis]({{< relref "psoriasis.md" >}})
   - Tumoral
   - Réactions aux produits d'hygiène, tampons, spermicides, préservatifs, anneaux contraceptifs

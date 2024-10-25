@@ -204,7 +204,7 @@ Présentation de pneumonie aiguë communautaire bactérienne **la plus fréquent
 - Fièvre élevée (39°C) d'installation **brutale**
 - Malaise général
 - Douleurs thoraciques (<< en coup de poignard >>) avec expectorations saumonées ou rouille
-- Herpès labial évocateur du pneumocoque
+- [Herpès labial]({{< relref "infections-herpes-virus.md" >}}) évocateur du pneumocoque
 - Radiographie thoracique avec condensation systématisée
 - Si réalisé: syndrome inflammatoire biologique intense
 

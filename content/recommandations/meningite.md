@@ -111,7 +111,7 @@ Toute convulsion fébrile avant 6 mois nécessite une ponction lombaire en urgen
   - [sinusite, ethmoïdite]({{< relref "sinusite.md" >}})
   - [pneumopathie]({{< relref "pneumonie-aigue-communautaire.md" >}})
   - [endocardite infectieuse]({{< relref "endocardite.md" >}})
-  - différentielle: herpès
+  - différentielle: [herpès]({{< relref "infections-herpes-virus.md" >}})
 
 Appel du SAMU immédiat dès la suspicion de méningite.
 {.alert .alert-warning}

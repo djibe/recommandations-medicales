@@ -75,7 +75,7 @@ Le diagnostic d'oxyurose est clinique lorsque des **vers blancs centimétriques*
 - [Candidose]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
 - [Ténia]({{< relref "tenia.md" >}})
 - Condylomes
-- Herpès
+- [Herpès]({{< relref "infections-herpes-virus.md" >}})
 - Atteinte périnéale d'une MICI
 
 {{% /collapse %}}

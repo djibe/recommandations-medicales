@@ -47,6 +47,7 @@ Chapitres dédiés:
   - [Vomissements et nausées pendant la grossesse]({{< relref "vomissements-grossesse-hyperemese-gravidique.md" >}})
 - Infections pendant la grossesse
   - [Covid-19 à haut risque de forme grave]({{< relref "covid-19.md" >}})
+  - [Herpès génital]({{< relref "infections-herpes-virus.md" >}})
   - [Infection urinaire pendant la grossesse]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
   - [Mycoses]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
   - [Varicelle]({{< relref "varicelle.md" >}})
