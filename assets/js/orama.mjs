@@ -1,4 +1,4 @@
-import { OramaClient } from 'https://unpkg.com/@oramacloud/client@1.3.18/dist/index.js'
+import { OramaClient } from 'https://unpkg.com/@oramacloud/client@1.3.19/dist/index.js'
 
 let client;
 
