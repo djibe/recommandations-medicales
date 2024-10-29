@@ -9,7 +9,7 @@ synonyms = ["Accident ischémique transitoire (AIT)", "infarctus cérébral", "h
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-25T14:04:00+02:00"
 publishdate = "2021-01-25"
-lastmod = "2023-11-01"
+lastmod = "2024-10-28"
 specialites = ["neurologie"]
 annees = "2022"
 sources = ["ESO", "ESH", "ESC", "HAS", "AHA"]
@@ -19,7 +19,7 @@ sctid = "230690007"
 icd10 = ["I64", "I63", "I69.1", "I69.3", "I69.4"]
 image = true
 imageSrc = "AVC ischémique sylvien gauche sur une IRM de diffusion. Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
-todo = "bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104"
+todo = "bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104 | AHA 2024: aspirine préventif si SAPL (AVK si ETEV non provoqué) ou lupus"
 flowchart = true
 +++
 
@@ -199,7 +199,7 @@ Liste des contre-indications à la thrombolyse par balancé bénéfice-risque d�
 {{% /collapse %}}
 {{%collapse "Traitement post AVC" %}}
 
-La prise en charge est identique après un accident ischémique transitoire (AIT).
+La prise en charge est identique après un accident ischémique transitoire (AIT) et un accident vasculaire cérébral (AVC).
 
 - **Aspirine 75-150 mg/j** (*ESC 2021*)  
   Seulement pour l'AIC non cardioembolique. Clopidogrel 75 mg/j si allergie. Bithérapie les 90 premiers jours.
@@ -216,7 +216,7 @@ La prise en charge est identique après un accident ischémique transitoire (AIT
   - [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}})
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Correction d'un surpoids
-  - Activité physique ≥ 10 min x 4/semaine ([guide patient HAS APA](https://www.has-sante.fr/jcms/p_3391312/fr/l-activite-physique-pour-votre-sante-accident-vasculaire-cerebral))
+  - Activité physique au moins 10 min 4 fois par semaine ([guide patient HAS APA](https://www.has-sante.fr/jcms/p_3391312/fr/l-activite-physique-pour-votre-sante-accident-vasculaire-cerebral))
   - Sédentaire: bouger 3 minutes toutes les 30 minutes
 - Si diabète
   - AVC < 6 mois: {{< modal-btn modal-hba1c >}}HbA~1c~ cible 8%{{< /modal-btn >}}
@@ -366,6 +366,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Bushnell C, et al. 2024 Guideline for the Primary Prevention of Stroke: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2024.](https://www.ahajournals.org/doi/abs/10.1161/STR.0000000000000475)
 - {{< references/esh-2023 >}}
 - [Dawson J et al. European Stroke Organisation (ESO) guideline on pharmacological interventions for long-term secondary prevention after ischaemic stroke or transient ischaemic attack. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/10.1177/23969873221100032)
 - [Rubiera M et al. European Stroke Organisation (ESO) guideline on screening for subclinical atrial fibrillation after stroke or transient ischaemic attack of undetermined origin. Eur Stroke J. 2022.](https://journals.sagepub.com/doi/10.1177/23969873221099478)

@@ -154,6 +154,8 @@ Prévention du mal des montagnes:
 - Acétazolamide, 2 jours avant l'arrivée en haute montagne et poursuivi 2 jours après le point culminant si la descente n'est pas effectuée rapidement  
   12 mg matin et début d'après-midi si +80 kg, 2,5-5 mg/kg/j en 2 prises avant sauf contre-indication aux sulfamides.
 
+Pour plus d'information, voir *Derstine et al* dans les *Sources*.
+
 ### Protection contre les animaux
 
 Toute [morsure]({{< relref "morsure.md" >}}) ou piqûre avec symptômes locaux marqués ou généraux nécessite une consultation.
@@ -360,6 +362,7 @@ N'ont pas démontré d'efficacité: gingembre, homéopathie, acupressure du poin
 
 ### Bibliographie en attente
 
+- [Derstine M, et al. Prevention, Diagnosis, and Treatment of Acute Altitude Illness. JAMA. 2024.](https://jamanetwork.com/journals/jama/article-abstract/2825331)
 [Société de Médecine des Voyages. Articles et fiches guides.](https://www.medecine-voyages.fr/les-articles-et-fiches-guides/)
 
 {{%/sources%}}

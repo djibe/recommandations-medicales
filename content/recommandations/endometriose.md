@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-03T13:12:00+02:00"
 publishdate = "2021-04-05"
-lastmod = "2023-10-23"
+lastmod = "2024-10-28"
 specialites = ["gynecologie-obstetrique"]
 annees = "2018"
 sources = ["ACOG", "HAS", "CNGOF"]
@@ -41,7 +41,7 @@ Les douleurs sont souvent améliorées pendant les grossesses et après la [mén
 : L'origine de l'endométriose est multifactorielle avec l'action de facteurs génétiques (hérédité), environnementaux et liés aux menstruations (ménarche précoce, volume important, cycles courts).  
 Il n'existe pas d'arguments pour une aggravation de l'importance et l'étendue des lésions de la maladie endométriosiques avec le temps.
 : Aucune association endométriose - [cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}}) n'est prouvée.  
-Des complications obstructives (occlusion digestive ou urétérale) sont exceptionnelles.
+Des complications obstructives (occlusion digestive ou urétérale) sont exceptionnelles. L'endométriose est un facteur de risque d'[AVC]({{< relref "accident-vasculaire-cerebral.md" >}}).
 
 Endométriose superficielle
 : Endométriose limitée au péritoine.
@@ -135,6 +135,7 @@ Prise en charge de l'endométriose lors d'une consultation dédiée.
 
 ### Examen clinique
 
+- Pression artérielle
 - Examen gynécologique orienté
   - Adapté à l'âge
   - Lésions vaginales bleutées pathognomoniques
@@ -179,7 +180,7 @@ Après la [ménopause]({{< relref "menopause.md" >}}), avis gynécologique syst�
 
 ### IRM pelvienne
 
-Indications à l'IRM pelvienne:
+Indications à l'IRM pelvienne pour endométriose:
 
 - Symptômes d'endométriose profonde
   - Dyspareunies profondes
@@ -196,7 +197,7 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
 [Déclarer à la pharmacovigilance](https://signalement.social-sante.gouv.fr) une résurgence des douleurs imputables à la vaccination Covid-19 ([guide PDF](https://ansm.sante.fr/uploads/2022/08/01/20220801-covid-19-troubles-menstruels-tutoriel-pds-26-07-2022.pdf), *ANSM 2022*).
 {.alert .alert-warning}
 
-Tout traitement autre que la contraception et l'antalgie relève du spécialiste
+Tout traitement de l'endométriose autre que la contraception et l'antalgie relève du spécialiste.
 {.alert .alert-info}
 
 ### Mesures générales de prise en charge de l'endométriose
@@ -206,14 +207,15 @@ Prise en charge de l'endométriose en première intention:
 - Antalgie
   - Paliers 1 pendant +3 mois
   - **Paracétamol** et **AINS** en péri-menstruel uniquement  
-    Ibuprofène ou naproxène ± opioïdes si insuffisants.
+    Ibuprofène ou naproxène voire opioïdes si insuffisants.
   - Éviter les AINS au long cours
   - Évaluation spécialisée en cas de douleurs chroniques ([neuropathiques]({{< relref "douleur-neuropathique.md" >}}) ++)  
-    Gynécologue, médecine de la douleur, sexologue, psychologue, assistant social.
-- Autres mesures
+    Spécialistes: gynécologue, médecine de la douleur, sexologue, psychologue, assistant social.
+- Autres traitements
   - Acupuncture, ostéopathie, yoga
   - Activité physique quotidienne avec exercices du bassin
   - Aucun régime ou supplémentation n'a de bénéfice prouvé
+- Dépistage de l'hypertension artérielle
 - Association de patientes: [EndoFrance](https://www.endofrance.org)
 - {{< references/compare >}}
 
@@ -322,6 +324,7 @@ accTitle: Conduite à tenir et prise en charge d'une suspicion d'endométriose d
 
 {{< card-link-external title="Endométriose : l'affaire de tous" url="https://endometriose-affairedetous.com" subtitle="CNGOF, ARS IDF, PNS-MOOC">}}
 
+- [Bushnell C, et al. 2024 Guideline for the Primary Prevention of Stroke: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2024.](https://www.ahajournals.org/doi/abs/10.1161/STR.0000000000000475)
 - Prescrire Redaction. Douleurs liées à une endométriose pelvienne. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [ANSM. Troubles menstruels après la vaccination contre le Covid-19 : état des connaissances et conseils aux femmes concernées. 21/07/2022.](https://ansm.sante.fr/actualites/troubles-menstruels-apres-la-vaccination-contre-le-covid-19-etat-des-connaissances-et-conseils-aux-femmes-concernees)
 - [ACOG. Dysmenorrhea and Endometriosis in the Adolescent. 2018.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/12/dysmenorrhea-and-endometriosis-in-the-adolescent)

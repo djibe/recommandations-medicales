@@ -9,12 +9,12 @@ date = "2024-10-18T11:07:55+02:00"
 publishdate = "2024-10-18"
 lastmod = "2024-10-18"
 specialites = ["gynecologie-obstetrique"]
-annees = "2017"
+annees = "2007"
 sources = ["CNGOF"]
-tags = ["tag 1", "tag 2"]
+tags = []
 english = ["Bartholinitis"]
 sctid = "6815003"
-icd10 = ["https://prod-mapping.ihtsdotools.org/#/"]
+icd10 = ["N75.8"]
 draft = true
 image = false
 imageSrc = ""
@@ -27,6 +27,9 @@ TODO: (at the end)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
+
+Bartholinite aiguë
+: Inflammations localisée de la glande de Bartholin ou de son canal excréteur.
 
 ### Abréviations
 

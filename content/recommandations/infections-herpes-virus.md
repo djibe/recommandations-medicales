@@ -116,7 +116,7 @@ Tableau de la **gingivostomatite herpétique** lors de la primo-infection sympto
 - **Éruption ulcéreuse** et douloureuse buccogingivale diffuse  
   Risque de déshydratation.
 - Autres signes: adénopathies sous-maxillaires, hypersialorrhée, haleine fétide
-- Diagnostic différentiel: érythème polymorphe, syndrome de Stevens-Johnson, aphtose, herpangine
+- Diagnostic différentiel: syndrome pied-main-bouche, [syphilis secondaire]({{< relref "syphilis.md" >}}), érythème polymorphe, syndrome de Stevens-Johnson, aphtose, herpangine
 
 Diagnostic différentiel des récidives d'herpès oro-facial: [impétigo]({{< relref "infection-cutanee-bacterienne.md" >}}), [acné]({{< relref "acne.md" >}}), [furoncle]({{< relref "infection-cutanee-bacterienne.md" >}}), eczéma, [perlèche]({{< relref "mycoses-dermatophytes-candidoses.md" >}}).
 

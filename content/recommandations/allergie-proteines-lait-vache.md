@@ -28,22 +28,24 @@ todo = "SEO dont 'aplv recommandations', poulet ?, https://www.sciencedirect.com
 - Attention aux allergies croisées (autres laits, viande de bœuf, dérivés de soja) et aux autres allergies alimentaires potentiellement associées
 - Suivi régulier des courbes de croissance des enfants allergiques aux protéines de lait de vache
 
+*Article en construction*
+
 {{%/article-summary%}}
 {{%collapse "Allergies croisées avec l'APLV" %}}
 
-Allergie quasi constante:
+Allergies quasi constantes:
 
-- lait de chèvre et brebis (92% selon *Sicherer 2001*)
-- viande de bœuf (88% selon *Mamikoglu B 2005*)
-- dérivés de soja
+- Lait de chèvre et brebis (92% selon *Sicherer 2001*)
+- Viande de bœuf (88% selon *Mamikoglu B 2005*)
+- Dérivés du soja
 
 Allergies croisées à étayer une par une:
 
-- lait de bufflonne
-- lait de jument très rare (4% selon *Businco et al*)
-- lait d'ânesse
-- œuf de poule
-- viande d'ovins, porc
+- Lait de bufflonne
+- Lait de jument très rare (4% selon *Businco et al*)
+- Lait d'ânesse
+- Œuf de poule
+- Viandes d'ovins et porcs
 
 {{% /collapse %}}
 {{%collapse "Laits sans protéines de lait de vaches disponibles en France" %}}
@@ -51,7 +53,7 @@ Allergies croisées à étayer une par une:
 Conformément à la législation, ce contenu est réservé aux professionnels de santé.
 {.alert .alert-warning}
 
-Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de vache, en complément ou après arrêt de l'[allaitement maternel]({{< relref "allaitement.md" >}}).
+Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de vache (APLV), en complément ou après arrêt de l'[allaitement maternel]({{< relref "allaitement.md" >}}).
 
 ### Lait à base de protéines de riz
 
@@ -69,8 +71,6 @@ Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de 
 - Nutramigen LGG 1, 2 et 3
 - Nutriben APLV 1 et 2
 - Pregestimil 1 à 3
-
-> << Ne sont pas adaptées à la prise en charge de l'allergie aux protéines de lait de vache >> *[Anses 2015 (PDF)](https://www.anses.fr/en/system/files/NUT2015SA0257.pdf)*
 
 ### Hydrolysat de lactosérum
 

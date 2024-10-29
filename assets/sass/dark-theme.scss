@@ -9,6 +9,24 @@
   --text-black-primary: rgba(255,255,255,.87);
   --text-half: rgba(255,255,255, 0.54);
 }
+
+/* In main CSS
+html {
+  color-scheme: light dark;
+}
+
+html:has([value="light"]:checked {
+  color-scheme: light;
+}
+
+html:has([value="dark"]:checked {
+  color-scheme: dark;
+}
+
+html:has(#mode-switcher [value="light"]:checked) { color-scheme: light }
+
+html:has(#mode-switcher [value="light"]:checked) { color-scheme: light }
+
 body {
   background-color: var(--surface);
   color: var(--text);

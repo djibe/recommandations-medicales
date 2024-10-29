@@ -8,7 +8,7 @@ synonyms = ["Insuffisance ovarienne précoce", "ménopause prématurée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-07T12:11:02+01:00"
 publishdate = "2022-01-10"
-lastmod = "2022-11-14"
+lastmod = "2024-10-28"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["HAS", "CNGOF"]
@@ -19,13 +19,13 @@ icd10 = ["E28.3"]
 image = true
 imageSrc = "Illustration de la ménopause précoce (insuffisance ovarienne prématurée) par vectorjuice / Freepik"
 flowchart = true
-todo = "tabac, Anticorps anti-surrénaliens"
+todo = "rankok, tabac, Anticorps anti-surrénaliens"
 +++
 
 {{%article-summary%}}
 
 - Évoquer une ménopause précoce chez la femme de moins de 40 ans avec aménorrhée (ou spanioménorrhée) accompagnée d'un syndrome climatérique
-- Le diagnostic d'insuffisance ovarienne prématurée est clinico-biologique: aménorrhée ou spanioménorrhée ≥ 4 mois avant 40 ans avec FSH ≥ 25 UI/L et estradiol bas (à 2 reprises à 4 semaines d'intervalle)
+- Le diagnostic d'insuffisance ovarienne prématurée est clinico-biologique: aménorrhée ou spanioménorrhée d'au moins 4 mois avant 40 ans avec FSH ≥ 25 UI/L et estradiol bas (à 2 reprises à 4 semaines d'intervalle)
 - Des maladies auto-immunes sont fréquemment associées
 - Exploration de la ménopause précoce dans un [centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/)
 - Le traitement hormonal substitutif (THS) doit être démarré rapidement pour réduire le risque cardiovasculaire et [fracturaire]({{< relref "osteoporose.md" >}})
@@ -74,6 +74,9 @@ CNGOF
 
 ESHRE
 : {{%lang%}}European Society of Human Reproduction and Embryology{{%/lang%}}
+
+HAS
+: Haute Autorité de Santé
 
 IOP
 : insuffisance ovarienne prématurée (ex ménopause précoce)
@@ -137,12 +140,13 @@ L'*infertilité* est le plus souvent définitive mais pas toujours (4-10% de gro
 
 ### Examen clinique
 
-Rechercher des signes de maladies auto-immunes.
+- Pression artérielle, fréquence cardiaque
+- Rechercher des signes de maladies auto-immunes
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-En première intention, dosage de la bêta-HCG seule avec un bilan complémentaire si négative
+En première intention, dosage de la bêta-HCG seule avec un bilan complémentaire si négative.
 {.alert .alert-info}
 
 ### Bilan d'une ménopause précoce
@@ -151,6 +155,7 @@ En première intention, dosage de la bêta-HCG seule avec un bilan complémentai
 
 FSH, estradiol, hCG, prolactine, TSH  
 \+ ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
+{.alert .alert-info}
 
 - Répéter après +4 semaines si FSH élevée/estradiol bas
 - Doser sans contraception hormonale et à distance de la pré-ovulation
@@ -180,7 +185,7 @@ Voir les [indications au traitement selon T-score et FRAX]({{< relref "osteoporo
 {{% /collapse %}}
 {{%collapse "Traitement de la ménopause précoce" %}}
 
-> Le traitement hormonal substitutif (THS) utilisé pour la ménopause précoce (spontanée, non iatrogène) n'augmente pas le risque de [cancer du sein]({{< relref "cancer-sein.md" >}}) (56-79% des patientes le croient, *HAS 2021*)
+> Le traitement hormonal substitutif (THS) utilisé pour la ménopause précoce (spontanée, non iatrogène) n'augmente pas le risque de [cancer du sein]({{< relref "cancer-sein.md" >}}). (56-79% des patientes le croient -- *HAS 2021*)
 {.alert .alert-info}
 
 Prise en charge de l'insuffisance ovarienne prématurée (IOP ou ménopause précoce) dans un [Centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/):
@@ -242,6 +247,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Bushnell C, et al. 2024 Guideline for the Primary Prevention of Stroke: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2024.](https://www.ahajournals.org/doi/abs/10.1161/STR.0000000000000475)
 - [HAS. Insuffisance ovarienne prématurée / primitive (en dehors du syndrome de Turner). Mars 2021.](https://www.has-sante.fr/jcms/p_3264990/fr/insuffisance-ovarienne-prematuree-iop)
 - [Trémollieres F et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000593)
 - [Christin-Maitre S et al. L'insuffisance ovarienne prématurée. Orphanet. 2006. (PDF)](https://www.orpha.net/data/patho/Pro/fr/InsuffisanceOvariennePrematuree-FRfrPro2307v01.pdf)
