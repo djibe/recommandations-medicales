@@ -1,4 +1,4 @@
-import { OramaClient } from 'https://unpkg.com/@oramacloud/client@1.3.19/dist/index.js'
+import { OramaClient } from 'https://esm.run/@oramacloud/client@1.3.19'
 
 let client;
 
@@ -10,7 +10,7 @@ async function initializeClient() {
   // Initialisation du client avec la clé API récupérée
   client = new OramaClient({
     endpoint: 'https://cloud.orama.run/v1/indexes/recomedicales-y8a67g',
-    api_key: oramaApiKey
+    api_key: 'w2ToWnDa3oN8NzmQz4QUyuB6UJfVfvbe'
   });
 }
 
