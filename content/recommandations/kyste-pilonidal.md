@@ -88,7 +88,7 @@ Le kyste pilonidal peut prendre plusieurs formes:
 - Forme atypique  
   Abcès à distance, antérieur ou bas situé (sans fistule anale).
 
-### Clinique
+### Examen clinique
 
 - Antécédents dont poussées de kyste pilonidal
 - Traitements en cours et essayés
