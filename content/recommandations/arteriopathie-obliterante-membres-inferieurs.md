@@ -2,7 +2,7 @@
 id = "0190e8bb-4392-752d-9d39-a894dff56b58"
 title = "Artériopathie oblitérante des membres inférieurs (AOMI)"
 prefix = "l'"
-titleSeo = "Artériopathie membres inférieurs"
+titleSeo = "Artériopathie membres inférieurs AOMI"
 description = "Recommandations pour le dépistage et le traitement de l'artériopathie oblitérante des membres inférieurs AOMI. Index de pression systolique, aspirine, statine"
 longHtml = true
 synonyms = ["AOMI", "artériopathie aorto-iliaque et des membres inférieurs", "artérite des membres inférieurs"]
