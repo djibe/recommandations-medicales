@@ -154,7 +154,7 @@ Les traitements de l'alopécie androgénétique ne sont possibles qu'à partir d
 
 Prise en charge de l'alopécie androgénétique de l'homme (par efficacité décroissante):
 
-- Finastéride 1 mg/j + [fiche info patient ANSM (PDF)](https://ansm.sante.fr/uploads/2022/07/06/20191210-finasteride-fichepatient-1-2.pdf)  
+- Finastéride 1 mg/j + [info patient ANSM (PDF)](https://ansm.sante.fr/uploads/2022/11/14/20221114-finasteride-fichepatient-v13102022.pdf)  
   Possible de 18 à 41 ans avec **risques psychiatriques**, sexuels, gynécomastie à surveiller et baisse du PSA.
 - Si échec finastéride à 12 mois: dutastéride 0,5 mg x 1/j, sinon au long cours
 - [Minoxidil 5%](https://base-donnees-publique.medicaments.gouv.fr/extrait.php?specid=62182563) 1 mL ou 1/2 bouchon x 2/j
@@ -164,7 +164,7 @@ Prise en charge de l'alopécie androgénétique de l'homme (par efficacité déc
 
 Minoxidil et finastéride peuvent être combinés pour une meilleure efficacité (risque psychiatrique du finastéride). Les autres associations ne sont pas étudiées.
 
-Le finastéride (inhibiteur de la 5α-réductase) est sous [surveillance de l'ANSM](https://ansm.sante.fr/dossiers-thematiques/information-pour-les-professionnels-de-sante-a-propos-du-finasteride-1-mg) et est contre-indiqué en cas de [dépression]({{< relref "depression.md" >}}) ou de trouble sexuel. Le don du sang n'est pas possible.
+Le finastéride (inhibiteur de la 5α-réductase) est sous [surveillance de l'ANSM](https://ansm.sante.fr/actualites/reevaluation-europeenne-de-la-balance-benefice-risque-des-medicaments-contenant-du-finasteride-ou-du-dutasteride) et est contre-indiqué en cas de [dépression]({{< relref "depression.md" >}}) ou de trouble sexuel. Le don du sang n'est pas possible.
 {.alert .alert-warning}
 
 #### Traitements de l'alopécie androgénique de la femme

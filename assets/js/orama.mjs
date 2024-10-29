@@ -10,7 +10,7 @@ async function initializeClient() {
   // Initialisation du client avec la clé API récupérée
   client = new OramaClient({
     endpoint: 'https://cloud.orama.run/v1/indexes/recomedicales-y8a67g',
-    api_key: 'w2ToWnDa3oN8NzmQz4QUyuB6UJfVfvbe'
+    api_key: oramaApiKey
   });
 }
 
