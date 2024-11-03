@@ -10,10 +10,10 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CELLIER (SNFGE)"
 date = "2020-04-16T12:31:11+02:00"
 publishdate = "2020-04-16"
-lastmod = "2022-03-29"
+lastmod = "2024-11-03"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2019"
-sources = ["ESsCD", "HAS", "SNFGE"]
+annees = "2022"
+sources = ["ESPGHAN", "ESsCD", "HAS", "SNFGE"]
 tags = ["allergie", "cephalees", "coeliaque", "depistage", "depression", "EOGD", "fatigue", "ferritine", "infertilite", "neuropathie", "TSH"]
 english = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac gluten sensitivity (NCGS) and extra-intestinal manifestations related to gluten)", "celiac"]
 sctid = "396331005"
@@ -62,6 +62,9 @@ Elle peut survenir à tout âge, prédomine chez la femme et la majorité des pa
 
 EOGD
 : endoscopie œso-gastro-duodénale (ou gastroscopie)
+
+ESPGHAN
+: {{%lang%}}European Society of Paediatric Gastroenterology Hepatology and Nutrition{{%/lang%}}
 
 IgA anti-transglutaminase
 : anticorps anti-transglutaminase tissulaire (ou t-TG-IgA)
@@ -158,7 +161,7 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 
 #### Symptômes de la maladie cœliaque chez l'enfant
 
-- Toujours: **Retard de croissance**, **diarrhée**, fonte musculaire, **anorexie**, distension abdominale.
+- Symptômes systématiques: **retard de croissance**, **diarrhée**, fonte musculaire, **anorexie**, distension abdominale
 - Souvent: détresse émotionnelle, humeur labile, [fatigue](/tags/fatigue/), [constipation]({{< relref "constipation.md" >}}), douleurs abdominales
 
 Le diagnostic est affirmé par un faisceau d'arguments cliniques, biologiques, par la biopsie du grêle **ET** par la régression de ces signes en **éviction totale du gluten**.
@@ -166,21 +169,18 @@ Le diagnostic est affirmé par un faisceau d'arguments cliniques, biologiques, p
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Prise en charge ciblée devant une suspicion de maladie cœliaque.
-
 ### Sérologie cœliaque
 
-En cas de faible risque clinique (voir plus haut).  
-{{%class%}}De 32 à 156.000 devraient être réalisées chaque année.{{%/class%}}
+La sérologie cœliaque est indiquée en cas de faible risque clinique (voir *Qui dépister par sérologie*).
 
 {{%info%}}
 Prise de sang à jeun pendant l'exposition au gluten:
 
-- IgA anti-transglutaminase (anticorps IgA anti-TGt, meilleure sensibilité)
-- et dosage des IgA totales
+- IgA anti-transglutaminase (anticorps IgA anti-TGt)
+- Dosage des IgA totales
 {{%/info%}}
 
-Adresser au gastro-entérologue pour confirmation en cas de résultat positif.
+En cas de résultat positif: adresser au gastro-entérologue pour confirmation du diagnostic.
 
 En cas de déficit en IgA: sérologie IgG anti-TG2 et IgG anti-endomysium avec EOGD.
 
@@ -199,13 +199,14 @@ Dépister la maladie cœliaque tous les proches au 1^er^ degré.
 
 ### Autres examens
 
-- NFS, ferritinémie, folates
-- Vitamine B12
+- NFS, ferritinémie
+- Folates et vitamine B12
 - TSH
 - ASAT, ALAT, GGT
 - Calcémie, phosphates
 - Vitamine D
-- **Ostéodensitométrie** au diagnostic puis tous les 2-5 ans selon la densité osseuse (*ESsCD 2019*)
+- Sérologie VHB
+- Adulte: **ostéodensitométrie** au diagnostic puis tous les 2-5 ans selon la densité osseuse (*ESsCD 2019*)
 
 {{% /collapse %}}
 {{%collapse "Traitement de la maladie cœliaque" %}}
@@ -232,34 +233,40 @@ Recommandations pour la prise en charge de la maladie cœliaque:
 - Association de patients  
   [Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
 
+En cas d'amélioration partielle chez l'enfant, essayer une [éviction du lactose]({{< relref "intolerance-lactose.md" >}}) (*ESPGHAN 2022*).
+
 {{% /collapse%}}
 {{%collapse "Suivi médical" %}}
 
-Suivi de la maladie cœliaque par le gastro-entérologue et le diététicien spécialisé.
+Suivi de la maladie cœliaque par les **gastro-entérologue** et **diététicien** spécialisés.
 
 {{< table title="Suivi de la maladie cœliaque" >}}
 | Période          | Bilan associé |
 |------------------|---------------|
-| **Au diagnostic**<br>Médecin et diététicien | - Examen physique, y compris l'IMC<br>- Éducation sur la MC<br>- Conseils diététiques par un diététicien qualifié<br>- Recommander un dépistage familial (DQ2/D8 et sérologie cœliaque)<br>- Recommander l'adhésion à une association de patients<br>- Sérologie cœliaque (si elle n'a pas déjà été réalisée)<br>- Analyses de routine (NFS, ferritinémie, vitamines D B9 B12, TSH,<br>enzymes hépatiques, calcium, phosphate)<br>- Ostéodensitométrie au moment du diagnostic avant 35 ans |
+| **Au diagnostic**<br>Médecin et diététicien | - Examen physique, y compris l'IMC<br>- Éducation sur la MC<br>- Conseils diététiques par un diététicien qualifié<br>- Recommander un dépistage familial (DQ2/D8 et sérologie cœliaque)<br>- Recommander l'adhésion à une association de patients<br>- Sérologie cœliaque (si elle n'a pas déjà été réalisée) et VHB<br>- Analyses de routine (NFS, ferritine, vitamines D, B9, B12, [TSH](/tags/tsh/),<br>enzymes hépatiques, calcium, phosphate)<br>- Ostéodensitométrie au moment du diagnostic avant 35 ans |
 | **3-4 mois**<br>Médecin et diététicien | - Évaluer les symptômes et les modifications du mode de vie<br>Évaluation diététique<br>Sérologie cœliaque (transglutaminase IgA-TG2)|
 | **6 mois**<br>Médecin (à distance) | - Évaluer les symptômes<br>- Évaluation diététique<br>- Sérologie cœliaque<br>- Recontrôler les autres anomalies du bilan initial |
-| **12 mois**<br>Médecin et diététicien | - Évaluer les symptômes<br>- Examen physique<br>- Évaluation diététique<br>- Sérologie cœliaque<br>- Recontrôler le bilan initial<br> ± biopsies du grêle si persistance des symptômes |
+| **12 mois**<br>Médecin et diététicien | - Évaluer les symptômes<br>- Examen physique<br>- Enfant: croissance<br>- Évaluation diététique<br>- Sérologie cœliaque<br>- Recontrôler le bilan initial<br> ± biopsies du grêle si persistance des symptômes |
 | **24 mois**<br>Médecin | - Évaluer les symptômes<br>- Évaluer le recours au diététicien<br>- Sérologie cœliaque<br>- TSH<br>- Tests selon l'examen |
 | **36 mois**<br>Médecin | - Ostéodensitométrie de contrôle si anormale<br>- Évaluer les symptômes |
 | Puis tous les 1-2 ans | - Évaluer le recours au diététicien<br>- Sérologie cœliaque<br>- TSH<br>- Tests selon l'examen |
 {{< /table >}}
 
-**Ostéodensitométrie** au diagnostic puis tous les 2-5 ans selon la densité osseuse (*ESsCD 2019*)
+**Ostéodensitométrie** au diagnostic puis tous les 2-5 ans selon la densité osseuse (*ESsCD 2019*).
+
+Avis endocrinologique chez l'enfant en l'absence de rattrapage de la taille à 12 mois. (*ESPGHAN 2022*)
+{.alert .alert-warning}
 
 {{% /collapse%}}
 {{%collapse "Information du patient" %}}
+
+Informations pour la personne atteinte de maladie cœliaque:
 
 - Éviction définitive et maximale du gluten
 - Aliments à éviter
 - Gestes culinaires et de conservation des aliments
 - Mesures pour régime sans gluten équilibré à vie
-- Association de patients  
-  [Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
+- Association de patients: [Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
 - {{< references/compare >}}
 
 ### Aliments à éviter en cas d'allergie au gluten
@@ -327,6 +334,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- ESPGHAN
 - [Arnold MJ. Diagnosis and Management of Celiac Disease: Guidelines From the American College of Gastroenterology. Am Fam Physician. 2024.](https://pubmed.ncbi.nlm.nih.gov/38227887/)
 [Lengliné H, Fabre A. Diagnostic de la maladie coeliaque chez l'enfant. 07/06/2022.](https://pap-pediatrie.fr/hepato-gastro/diagnostic-de-la-maladie-coeliaque-chez-lenfant)
 

@@ -31,6 +31,8 @@ todo = "rankok, rythme suivi RGO par EOGD, Reflux Disease Questionnaire (RDQ)"
 - Prise en charge du reflux gastro-œsophagien: RHD > antiacides > oméprazole demi-dose
 - Rappel: on prononce "ésophage"
 
+Les recommandations HAS 2024 pour le RGO du nourrisson ne sont pas encore intégrées.
+
 {{%/article-summary%}}
 {{%collapse "Signes d'alarme" %}}
 

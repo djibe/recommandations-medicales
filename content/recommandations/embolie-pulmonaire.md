@@ -166,7 +166,7 @@ Toute suspicion d'embolie pulmonaire doit être explorée aux urgences (sauf pro
 
 ### Prise en charge ambulatoire de l'embolie pulmonaire
 
-La prise en charge ambulatoire de l'embolie pulmonaire est possible après l'exploration aux Urgences. Le patient doit être stable hémodynamiquement et avec une réponse négative aux 11 *critères Hestia* (dite EP à faible risque de mortalité précoce):
+La prise en charge ambulatoire de l'embolie pulmonaire est possible après l'exploration aux *Urgences*. Le patient doit être stable et avec une réponse négative aux 11 *critères Hestia* (dite *EP à faible risque de mortalité précoce*):
 
 1. Instabilité hémodynamique  
   Avis du clinicien, PAS < 100 mmHg et FC > 100/min.

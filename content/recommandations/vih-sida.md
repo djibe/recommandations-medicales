@@ -462,8 +462,3 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 {{< traitements/vaccin-pneumocoque >}}
 
 {{% /modal %}}
-{{% modal title="Clairance de la créatinine selon Cockroft" id="modal-score-cockroft"%}}
-
-{{< scores/cockroft >}}
-
-{{% /modal %}}

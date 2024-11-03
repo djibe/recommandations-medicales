@@ -119,7 +119,7 @@ Le bilan étaie les facteurs de risque cardiovasculaire associés à la goutte:
 
 - Créatininémie et DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - Uricémie
-- Glycémie à jeun si facteur de risque ou ≥ 45 ans
+- Si facteur de risque de diabète ou +45 ans: glycémie à jeun
 - Dyslipidémie selon le terrain
 - Ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
 

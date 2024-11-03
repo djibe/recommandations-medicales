@@ -20,7 +20,7 @@ icd10 = ["I80"]
 image = true
 imageSrc = "Thrombose veineuse profonde bilatérale chez une femme de 35 ans avec cancer du col. Cas du Dr Muhammad Yousaf, Radiopaedia.org, rID: 159314"
 flowchart = true
-todo = "SEO traitement anticoagulant x3; plaq en HBPM préventif, proba forte et doppler neg?, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/, IRC avec CKD-EPI ou cockroft ?"
+todo = "SEO traitement anticoagulant x3; plaq en HBPM préventif, proba forte et doppler neg?, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/"
 +++
 
 Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'état.
@@ -146,7 +146,7 @@ L'hospitalisation est recommandée en cas de phlébite avec:
 - Survenue sous anticoagulants ou suspicion de TIH
 - Hémorragie active ou risque hémorragique élevé  
 {{%class "text-black-secondary"%}}RIETE > 4, voir *Score hémorragique RIETE* plus bas.{{%/class%}}
-- Insuffisance rénale sévère ({{< modal-btn modal-score-cockroft >}}< 30 mL/min{{< /modal-btn >}})
+- Insuffisance rénale sévère (Cockroft {{< modal-btn modal-score-cockroft >}}< 30 mL/min{{< /modal-btn >}})
 - [Cancer](/tags/cancer/) ou comorbidités à risque de décompensation
 - Contexte médico-social ou géographique défavorable
 - Absence d'entourage

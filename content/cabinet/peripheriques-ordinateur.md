@@ -27,9 +27,9 @@ Imprimantes choisies par 01Net et UFC Que Choisir.
 
 ### Imprimantes laser noir & blanc avec toners compatibles
 
-Imprimantes laser monochromes Wi-Fi (non multifonction) permettant d'utiliser des **toners compatibles moins chers** (ex: 18€ contre les 80€ officiels grâce aux boutiques *CartoucheMania*, *Tinkco*, *Toner.fr* ...), triées par note *UFC Que Choisir* et mon coup de cœur en premier:
+Imprimantes laser monochromes Wi-Fi (non multifonction) permettant d'utiliser des **toners compatibles moins chers** (ex: 20€ contre les 80€ officiels grâce aux boutiques *CartoucheMania*, *Tinkco*, *Toner.fr* ...), triées par note *UFC Que Choisir* et mon coup de cœur en premier:
 
-- [Choix: Brother HL-L2350DW (vitesse, petite taille, R/V, coût d'utilisation) - 140€](https://ledenicheur.fr/product.php?p=4549237)
+- [Choix: Brother HL-L2400DW (vitesse, petite taille, R/V, coût d'utilisation) - 100€](https://ledenicheur.fr/product.php?p=12328918)
 - [Brother HL-L2375DW (idem + réseau) - 160€](https://ledenicheur.fr/product.php?p=4533630)
 - [HP Laser 107W - 200€](https://ledenicheur.fr/product.php?p=5184291)
 - Canon i-Sensys LBP113w (pas de toners compatibles ++, réseau)

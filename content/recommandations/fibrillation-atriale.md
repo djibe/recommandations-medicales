@@ -35,6 +35,8 @@ flowchart = true
 - Prise en charge de la fibrillation auriculaire: suivi cardiologique, {{< modal-btn modal-bradycardisant >}}ralentir la fréquence cardiaque < 80 bpm{{< /modal-btn >}} au repos, Holter-ECG
 - Parfois anti-arythmiques pour prévenir la récidive. Contrôler leurs contre-indications
 
+Les recommandations ESC 2024 ne sont pas encore intégrées.
+
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
@@ -293,7 +295,7 @@ Réévaluer fréquemment le risque de saignement avec le {{< modal-btn modal-has
 Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel sauf [post-SCA]({{< relref "syndrome-coronarien-aigu.md" >}})) et AINS.
 {.alert .alert-warning}
 
-Adaptation à la fonction rénale selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}.
+Adaptation à la fonction rénale selon {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} (*GIHP/SFAR/SFTH/SFMV 2024*).
 
 #### Antivitamines K (AVK)
 
@@ -483,5 +485,10 @@ graph TB
 {{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
 
 {{< scores/ckd-epi >}}
+
+{{% /modal %}}
+{{% modal title="Clairance de la créatinine selon Cockroft" id="modal-score-cockroft"%}}
+
+{{< scores/cockroft >}}
 
 {{% /modal %}}
