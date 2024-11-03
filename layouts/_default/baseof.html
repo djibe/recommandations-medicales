@@ -13,12 +13,12 @@
         <div class="modal-dialog modal-dialog-centered" role="document">
           <div class="modal-content">
             <div class="modal-header flex-column">
-              <img class="d-none d-md-block" src="/images/icons/undraw_Typing.svg" alt="Écrire un commentaire" aria-hidden="true" width="250" height="214" loading="lazy">
+              <img src="/images/icons/undraw_Typing.svg" alt="Écrire un commentaire" aria-hidden="true" width="250" height="214" loading="lazy">
               <p class="modal-title" id="modal-contact-title">Contact réservé aux médecins</p>
             </div>
-            <form id="contact-form" name="contact" method="POST" data-netlify="true">
-              <div class="modal-body">
-                Une suggestion, une remarque ou une critique ? Dites-le.
+            <div class="modal-body">
+              Une suggestion, une remarque ou une critique ? Dites-le.
+              <form id="contact-form" name="contact" method="POST" data-netlify="true">
                 <div class="form-group mt-4">
                   <div class="input-group">
                     <input class="form-control" id="form-email" placeholder="Adresse e-mail" type="email" name="email" aria-label="Votre e-mail" autocomplete="email" required oninvalid="setCustomValidity('Merci de renseigner votre e-mail')" onchange="this.setCustomValidity('')">
@@ -35,12 +35,12 @@
                     </span>
                   </div>
                 </div>
-                <div class="d-flex justify-content-end mt-4">
-                  <button type="button" class="btn btn-primary" data-dismiss="modal">Annuler</button>
-                  <button type="submit" class="btn btn-primary">Envoyer</button>
-                </div>
-              </div>
-            </form>
+              </form>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-primary" data-dismiss="modal">Annuler</button>
+              <button type="submit" form="contact-form" class="btn btn-primary">Envoyer</button>
+            </div>
           </div>
         </div>
       </div>
@@ -49,7 +49,7 @@
         <div class="modal-dialog modal-dialog-centered" role="document">
           <div class="modal-content">
             <div class="modal-header flex-column mb-4">
-              <img class="d-none d-md-block" src="/images/icons/undraw_newsletter_re_wrob.svg" alt="Abonnement à la newsletter" aria-hidden="true" width="250" height="214" loading="lazy">
+              <img src="/images/icons/undraw_newsletter_re_wrob.svg" alt="Abonnement à la newsletter" aria-hidden="true" width="250" height="214" loading="lazy">
               <p class="modal-title" id="modal-newsletter-title">Liste de diffusion</p>
             </div>
             <div class="modal-body">

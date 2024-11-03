@@ -8,8 +8,11 @@
 <div role="dialog" aria-modal="true" aria-label="{{ $label }}" class="modal fade" tabindex="-1" {{ with .Get "id" }}id="{{ . }}"{{ else }}id="modal-modele"{{ end }}>
   <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable {{ with .Get "size" }}modal-{{ . }}{{ end }}">
     <div class="modal-content bg-primary-light">
+      <div class="modal-header flex-column border-0">
+        <img src="/images/icons/modele.svg" alt="" aria-hidden="true" width="96" height="96">
+        <h3 class="modal-title mt-2 mb-4">{{ with .Get "title" }}{{ . }}{{ else }}{{ $label }}{{ end }}</h3>
+      </div>
       <div class="modal-body">
-        <h3 class="modal-title mb-4">{{ with .Get "title" }}{{ . }}{{ else }}{{ $label }}{{ end }}</h3>
         {{- .Inner -}}
       </div>
       <div class="modal-footer">

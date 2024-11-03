@@ -4390,40 +4390,6 @@ input:disabled + .chip {
   overflow: scroll;
 }
 
-@media (max-width: 767.98px) {
-  .modal-content {
-    border-radius: 16px;
-  }
-  .modal-footer {
-    align-items: stretch;
-    flex-direction: column-reverse;
-    padding: 0;
-  }
-  .modal-footer .btn, .modal-footer .card-link {
-    border-top: 1px solid rgba(0, 0, 0, 0.12);
-    display: block;
-    height: 3rem;
-    letter-spacing: 0.04em;
-    text-transform: lowercase;
-  }
-  .modal-footer .btn:first-of-type, .modal-footer .card-link:first-of-type {
-    border-radius: 0;
-  }
-  .modal-footer .btn::first-letter, .modal-footer .card-link::first-letter {
-    text-transform: uppercase;
-  }
-  .modal-footer > * {
-    margin-left: 0;
-  }
-  .modal-footer-stacked {
-    flex-direction: column;
-  }
-  .modal-footer-stacked .btn, .modal-footer-stacked .card-link,
-  .modal-footer-stacked .card-link {
-    margin: 0 !important;
-  }
-}
-
 .list-group {
   background-color: #ffffff;
   border: 1px solid rgba(0, 0, 0, 0.12);

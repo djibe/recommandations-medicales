@@ -1278,7 +1278,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   border-radius: 0.875rem;
 }
 
-[class*='btn-flat'],
+
 .btn-link,
 .modal .btn {
   padding: 0 0.5rem;
@@ -1293,7 +1293,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   border-color: rgba(0, 0, 0, 0.37);
 }
 
-[class*='btn-flat'],
+
 [class*='btn-outline'],
 .btn-link,
 .modal .btn {
@@ -1301,7 +1301,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   box-shadow: none;
 }
 
-[class*='btn-flat']:hover, [class*='btn-flat']:focus, [class*='btn-flat']:active,
+
 [class*='btn-outline']:hover,
 [class*='btn-outline']:focus,
 [class*='btn-outline']:active,
@@ -1314,7 +1314,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   box-shadow: inherit;
 }
 
-.btn-flat-primary, .btn-link, .btn-flat-primary:hover, .btn-link:hover, .btn-flat-primary:focus, .btn-link:focus,
+ .btn-link, .btn-link:hover, .btn-link:focus,
 .btn-outline-primary,
 .btn-outline-primary:hover,
 .btn-outline-primary:focus,
@@ -1324,19 +1324,19 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   color: #4150f5;
 }
 
-.btn-flat-primary:hover, .btn-link:hover,
+ .btn-link:hover,
 .btn-outline-primary:hover,
 .modal .btn-primary:hover {
   background-image: linear-gradient(to bottom, rgba(65, 80, 245, 0.04), rgba(65, 80, 245, 0.04));
 }
 
-.btn-flat-primary:focus, .btn-link:focus,
+ .btn-link:focus,
 .btn-outline-primary:focus,
 .modal .btn-primary:focus {
   background-image: linear-gradient(to bottom, rgba(65, 80, 245, 0.12), rgba(65, 80, 245, 0.12));
 }
 
-.btn-flat-primary:disabled, .btn-link:disabled, .btn-flat-primary.disabled, .disabled.btn-link,
+ .btn-link:disabled, .disabled.btn-link,
 .btn-outline-primary:disabled,
 .btn-outline-primary.disabled,
 .modal .btn-primary:disabled,
@@ -2193,33 +2193,6 @@ input:disabled + .chip {
 @media (min-width: 992px) {
   .modal-lg {
     max-width: 52.5rem;
-  }
-}
-
-@media (max-width: 767.98px) {
-  .modal-content {
-    border-radius: 16px;
-  }
-  .modal-footer {
-    align-items: stretch;
-    flex-direction: column-reverse;
-    padding: 0;
-  }
-  .modal-footer .btn {
-    border-top: 1px solid rgba(0, 0, 0, 0.12);
-    display: block;
-    height: 3rem;
-    letter-spacing: 0.04em;
-    text-transform: lowercase;
-  }
-  .modal-footer .btn:first-of-type {
-    border-radius: 0;
-  }
-  .modal-footer .btn::first-letter {
-    text-transform: uppercase;
-  }
-  .modal-footer > * {
-    margin-left: 0;
   }
 }
 
