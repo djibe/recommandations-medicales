@@ -15,7 +15,7 @@ sources = ["EDF", "EADV", "SFD"]
 tags = ["atopie", "prurit"]
 english = ["Atopic dermatitis (AD)"]
 sctid = "24079001"
-icd10 = ["L20"]
+icd10 = ["L20", "L20.9"]
 flowchart = true
 image = true
 imageSrc = "Eczéma lichénifié du dos de la main. Care_SMC sur Foter.com / CC BY-ND"
@@ -272,7 +272,6 @@ Les corticoïdes par voie orale ou injectable n'ont aucune indication dans la de
 
 {{< mermaid title="Conduite à tenir devant une suspicion de dermatite atopique et prise en charge de l'eczéma. Dr JB Fron d'après EADV 2020, CEDEF 2021 et SFD 2005" >}}
 graph TB
-accTitle: Conduite à tenir devant une suspicion de dermatite atopique et prise en charge de l'eczéma d'après EADV 2020, CEDEF 2021 et SFD 2005
   suspicion[Suspicion de dermatite atopique]
   style suspicion stroke:#4150f5, stroke-width:1px
     suspicion --> criteres("<b>Critères diagnostiques</b><br>—<br>Prurit et ≥ 3 parmi:<br>- Début &lt; 2 ans<br>- Lésions des convexités<br>- ATCD personnel d'asthme/rhinite allergique<br>- Xérose généralisée<br>- Lésions d'eczéma des plis (enfant)") --> diagnostic[Dermatite atopique]

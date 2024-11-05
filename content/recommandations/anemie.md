@@ -15,7 +15,7 @@ sources = ["BSG", "SNFGE"]
 tags = ["AINS", "depistage", "EOGD", "grossesse", "fatigue", "ferritine", "prurit", "vertige"]
 english = ["Iron deficiency anemia"]
 sctid = "87522002"
-icd10 = ["D50"]
+icd10 = ["D50", "D50.9"]
 flowchart = true
 image = true
 imageSrc = "Illustration de l'anémie. macrovector / Freepik"
@@ -219,7 +219,6 @@ Prise en charge de l'anémie par supplémentation et fer puis surveillance de la
 
 {{< mermaid title="Prise en charge d'une anémie avec suspicion de carence en fer. Dr JB Fron d'après BSG 2021" >}}
 graph TB
-accTitle: Prise en charge d'une anémie avec suspicion de carence en fer d'après BSG 2021
   anemie[Anémie avec suspicion <br>de carence en fer]
   style anemie stroke:#4150f5, stroke-width:1px
     anemie --> ferritine(Ferritinémie)

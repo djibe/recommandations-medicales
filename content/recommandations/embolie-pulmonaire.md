@@ -13,7 +13,7 @@ sources = ["SFC", "SPLF"]
 tags = ["anticoagulant", "dyspnee", "MVTE"]
 english = ["Pulmonary embolism"]
 sctid = "59282003"
-icd10 = ["I26"]
+icd10 = ["I26", "I26.9"]
 image = true
 imageWEBP = true
 imageSrc = "Embolie segmentaire par scientificanimations.com, CC BY-SA 4.0"
@@ -302,7 +302,6 @@ chaussettes de contention classe 3 au moins 6 mois.
 
 {{< mermaid title="Prise en charge ambulatoire d'une suspicion d'embolie pulmonaire. Dr JB Fron d'après SFMV 2019" >}}
 graph TB
-accTitle: Prise en charge ambulatoire d'une suspicion d'embolie pulmonaire d'après SFMV 2019
   ep[Suspicion d'embolie<br>pulmonaire] --> gravite(Signes de gravité ?)
   style ep stroke:#4150f5, stroke-width:1px
     gravite -- Non --> probaClin("<b>Score de probabilité clinique</b><br>Score de Wells ou Genève")
