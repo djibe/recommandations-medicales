@@ -1,5 +1,5 @@
 +++
-id = "0190e8c6-01bb-701f-b0a5-99a4ed1082ad"
+id = "0192fd7b-d356-759d-af2d-9e86c90061b0"
 title = "Infections génitales de la femme: urétrite, vaginose, vaginite, cervicite, endométrite, salpingite"
 titleSeo = "TODO:"
 prefix = "la "
