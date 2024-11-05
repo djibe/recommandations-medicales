@@ -223,7 +223,6 @@ La prise en charge relève uniquement du gastro-entérologue:
 
 {{< mermaid title="Prise en charge diagnostique d'une hyperferritinémie. Dr JB Fron d'après EASL 2022 et SNFGE 2019" >}}
 graph TB
-accTitle: Prise en charge diagnostique d'une hyperferritinémie d'après SNFGE 2019
   HF["<b>Hyperferritinémie (HF)</b><br>—<br>Femme &gt; 200 µg/L<br>Homme &gt; 300 µg/L"] --> CST(CST matinal)
   style HF stroke:#4150f5, stroke-width:1px
   CST -- "&lt; 45%" --> CRP(CRP ?)

@@ -465,7 +465,7 @@ graph TB
           levofloS -- Sensible --> levoflo("<b>Trithérapie 10-14j</b><br>IPP + amoxicilline<br>+ lévofloxacine") --> controle
           levofloS -- Résistant --> levofloR("<b>Quadrithérapie 10j</b><br>Oméprazole + Bismuth<br>—<br>OU IPP + amoxicilline<br>+ métronidazole 14j<br>(GEFH uniquement)") --> controle
           controle -- Négatif --> ok(Bactérie éradiquée)
-          controle -- Positif --> bismuth("Oméprazole + Bismuth 10j<br>&#40;si non utilisé&#41;")
+          controle -- Positif --> bismuth("Oméprazole + Bismuth 10j<br>si non utilisé")
             bismuth --> controle2(Test respiratoire) -- Négatif --> ok
               controle2 -- Positif --> final("- ClariS: amox + clari + IPP 14j<br>- Clari-R-Quinolone-S: amox + lévoflo + IPP 14j<br>- Double résistance: avis du GEFH")
         antibiogramme -- Allergie péni --> bismuth

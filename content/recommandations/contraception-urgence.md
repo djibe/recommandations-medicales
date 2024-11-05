@@ -150,13 +150,12 @@ Même délivrance que le lévonorgestrel.
 
 {{< mermaid title="Conduite à tenir et prise en charge par une contraception d'urgence. Dr JB Fron d'après HAS 2019" >}}
 graph TB
-accTitle: Conduite à tenir et prise en charge par une contraception d'urgence d'après HAS 2019
   rapport[Rapport sans<br>contraception efficace] -- + tôt possible --> 3jours(&lt; 3 jours)
   style rapport stroke:#4150f5, stroke-width:1px
   rapport -- + tôt possible --> 5jours("&lt; 5 jours")
     3jours --> LN(<b>Lévonorgestrel 1,5 mg</b>)
       LN --> preservatif("Préservatif jusqu'au<br>1<sup>er</sup> jours des règles")
-        preservatif --> contraception("- Contraception efficace<br>le 1<sup>er</sup> jours des règles<br>&#177; PCU d'avance")
+        preservatif --> contraception("- Contraception efficace<br>le 1<sup>er</sup> jours des règles<br>± PCU d'avance")
           contraception -. Retard &gt; 5j .-> retard(Test de grossesse)
     3jours --> UPA(Ulipristal acétate 30 mg)
       UPA --> preservatif

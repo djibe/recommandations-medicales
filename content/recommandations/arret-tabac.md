@@ -442,7 +442,6 @@ L'attitude du professionnel consistera donc en une exploration empathique de l'a
 
 {{< mermaid title="Recommandations pour le dépistage systématique du tabagisme et prise en charge de l'arrêt du tabac (hors bilan des complications). Dr JB Fron d'après HAS 2014" >}}
 graph TB
-accTitle: Prise en charge de l'arrêt du tabac d'après HAS 2014
   tabagisme["<b>« Fumez-vous ? »</b>"]
   style tabagisme stroke:#4150f5, stroke-width:1px
   tabagisme -- Oui --> essai("« Avez-vous déjà envisagé<br>d'arrêter de fumer ?<br>Voulez-vous qu'on<br>prenne le temps d'en parler ? »<br>Proposer une brochure") -- Oui --> debut("<b>Intention</b><br>—<br>- Croyances, dépendance<br>- Conseiller d'arrêter<br>- Évaluer la motivation") --> arrêt("<b>Action</b><br>—<br>- Substituts nicotiniques<br>- Suivi hebdomadaire<br>- Appli Tabac Info<br>- Soutien psychologique")

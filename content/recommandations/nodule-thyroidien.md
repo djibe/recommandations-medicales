@@ -356,7 +356,6 @@ Le suivi après cancer repose sur l'échographie cervicale. Rythme de surveillan
 
 {{< mermaid title="Prise en charge d'un nodule de la thyroïde. Dr JB Fron d'après SFE / AFCE / SFMN 2022" >}}
 graph TB
-accTitle: Prise en charge d'un nodule thyroïdien d'après SFE/AFCE/SFMN 2022
   clinique["<b>Nodule thyroïdien</b><br>—<br>Quelle que soit la découverte:<br>- Palpation<br>- Goitre<br>- Grossesse (écho systématique)<br>- Incidentalome<br>- Facteur de risque<br>- Enfant: suivi spécialisé"] --> TSH("TSH<br>(contrôle si anormale)")
   style clinique stroke:#4150f5, stroke-width:1px
   TSH -- Normale --> échographie("Échographie si ≥ 1 parmi:<br>- Nodule palpable<br>- Gênant<br>- Compressif<br>- Incidentalome<br>- Suivi spécialisé")

@@ -157,7 +157,6 @@ Amoxicilline 2 g (50 mg/kg chez l'enfant)
 
 {{< mermaid title="Recommandations pour la prise en charge des personnes à haut risque d'endocardite infectieuse. Dr JB Fron d'après ESC 2015" >}}
 graph TB
-accTitle: Recommandations pour la prise en charge des personnes à haut risque d'endocardite infectieuse d'après ESC 2015
   fdr[Sujet à haut risque<br>d'endocardite infectieuse ?]
   style fdr stroke:#4150f5, stroke-width:1px
   fdr --> liste("≥ 1 parmi:<br>- Valve prothétique<br>- Antécédent d'endocardite<br>- Cardiopathie congénitale cyanogène,<br>shunt ou régurgitation")

@@ -458,7 +458,6 @@ Réévaluation de la dénutrition **à chaque consultation**, au moins mensuelle
 
 {{< mermaid title="Prise en charge d'une personne à risque de dénutrition. Dr JB Fron d'après HAS/FFN 2021" >}}
 graph TB
-accTitle:Prise en charge d'une personne à risque de dénutrition d'après HAS et FFN 2021
   fdr["<b>Personne à risque de dénutrition</b><br>—<br>- +70 ans (dépistage annuel)<br>- Cancer<br>- Maladie inflammatoire<br>- Escarre<br>- Démence, dégénératif<br>- Troubles de déglutition et bucco-dentaires<br>- Toxicomanie<br>- Régime amaigrissant"]
   style fdr stroke:#4150f5, stroke-width:1px
     fdr -- Repérage --> MNA("Score MNA ≤ 11 ?")

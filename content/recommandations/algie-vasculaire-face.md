@@ -306,7 +306,6 @@ Ils peuvent être combinés au vérapamil.
 
 {{< mermaid title="Prise en charge de l'algie vasculaire de la face (AVF). Dr JB Fron d'après EAN 2023 et SFEMC 2014" >}}
 graph TB
-accTitle: Prise en charge de l'algie vasculaire de la face d'après SFEMC 2014
   suspicion["Suspicion d'algie<br>vasculaire de la face (AVF)"] --> ICHD3(Critères diagnostiques ICHD-3)
   style suspicion stroke:#4150f5, stroke-width:1px
     ICHD3 --> examens(IRM cérébrale)

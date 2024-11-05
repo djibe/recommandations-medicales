@@ -142,10 +142,8 @@ Indication: imagerie normale et EM suspect (séro/sanglant, reproductible, unipo
 
 {{< mermaid title="Prise en charge d'un écoulement mamelonnaire. Dr JB Fron d'après CNGOF 2015" >}}
 graph TB
-accTitle: Prise en charge d'un écoulement mamelonnaire d'après CNGOF 2015
-  Écoulement[Écoulement mamelonnaire]
+  Écoulement[Écoulement mamelonnaire] --> clinique("- Antécédents<br>- Caractères<br>- Uni/bilatéral")
   style Écoulement stroke:#4150f5, stroke-width:1px
-    Écoulement --> clinique("- Antécédents<br>- Caractères<br>- Uni/bilatéral")
       clinique -- Unilatéral --> examens("- Mammo + écho<br>- PRL si lactescent multipore<br>± IRM mammaire si normaux") --> seno(Avis sénologique)
       clinique -- Bilatéral --> maj(Mise à jour des dépistages) --> seno
 {{< /mermaid >}}

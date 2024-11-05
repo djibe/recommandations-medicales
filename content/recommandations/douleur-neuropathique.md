@@ -321,7 +321,6 @@ Les opioïdes forts ne doivent être proposés par un spécialiste de la douleur
 
 {{< mermaid title="Conduite à tenir pour la prise en charge des douleurs neuropathiques. Dr JB Fron d'après SFETD 2020" >}}
 graph TB
-accTitle: Conduite à tenir pour la prise en charge des douleurs neuropathiques d'après SFETD 2020
   DN["<b>Douleur neuropathique</b><br>—<br>- Caractères<br>- Questionnaire DN4<br>- Bilan étiologique"]
   style DN stroke:#4150f5, stroke-width:1px
     DN --> localisee(DN périphérique localisée) --> locLigne1(Emplâtres de lidocaïne)

@@ -350,7 +350,6 @@ La goutte étant une maladie chronique, les points suivants doivent être repris
 
 {{< mermaid title="Prise en charge d'une crise de goutte. Dr JB Fron d'après SFR et ACR 2020" >}}
 graph TB
-accTitle: Prise en charge d'une crise de goutte d'après SFR et ACR 2020
   crise[Crise de goutte] --> rhd("- Éducation<br>- Traitement à avoir sur soi<br>- Envisager hypouricémiant")
   style crise stroke:#4150f5, stroke-width:1px
     rhd --> comorbidites("Comorbidités et<br>coprescriptions")
@@ -374,7 +373,6 @@ Corticoïdes = 30 mg/j prednisone 3-5 jours.
 
 {{< mermaid title="Conduite à tenir pour le traitement hypouricémiant de fond du patient goutteux. Dr JB Fron d'après SFR et ACR 2020" >}}
 graph TB
-accTitle: Prise en charge de la goutte par traitement de fond d'après SFR et ACR 2020
   diagnostic[Diagnostic de goutte] --> education("<b>Éducation</b><br>—<br>- Traitement sur soi<br>- RHD") --> criteres("<b>Critères de traitement</b><br>—<br>- SFRhumato: dès la 1<sup>re</sup> crise<br>- ACR:<br>≥ 1 tophus, lésions radiologiques,<br>≥ 2 crises/an,<br>critères annexes (Voir ttt fond)<br>- KDIGO: MRC")
   style diagnostic stroke:#4150f5, stroke-width:1px
     criteres -- Oui --> clairance(Évaluation clairance et<br>cardiovasculaire)
