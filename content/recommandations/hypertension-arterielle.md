@@ -28,7 +28,7 @@ flowchart = true
 - Dépister l'hypertension artérielle dès 3 ans, au moins tous les 3 ans après 40 ans (annuellement selon la *USPTF*, 1/3 des adultes sont hypertendus et les 3/4 ne sont pas contrôlés)
 - Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet* et [tensiomètres validés]({{< relref "tensiometres-electroniques-valides.md" >}}))
 - Confirmer le diagnostic par mesures et automesures / MAPA répétées, conserver le grade et le stade d'hypertension au diagnostic
-- Rechercher des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} ({{< scores/heartscore >}} en prévention primaire) pour déterminer le LDL cible
+- Rechercher des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} {{< scores/heartscore >}} en prévention primaire pour déterminer le LDL cible
 - Traitement selon le grade d'hypertension (voir *Définitions*) et mesures hygiéno-diététiques systématiques
 - Les cibles tensionnelles dépendent du profil (120-129 / 70-79 mmHg avant 80 ans) et ne sont valables que pour les mesures de tension au cabinet
 - Objectif d'un seul comprimé antihypertenseur combiné et informer sur les conséquences d'une hypertension non traitée ([accidents cardiovasculaires](/tags/risque-cardiovasculaire/), démence)
@@ -219,7 +219,7 @@ Le brassard est spécifique de chaque appareil.
 {{% /collapse %}}
 {{%collapse "Automesure tensionnelle" %}}
 
-[Le carnet d'automesure tensionnelle en PDF (international 2021)](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf) et les [appareils validés pour l'automesure tensionnelle](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=home).
+[Le carnet d'automesure tensionnelle en PDF (international 2021)](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf) et les [appareils validés pour l'automesure tensionnelle]({{< relref "tensiometres-electroniques-valides.md" >}}).
 
 L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hypertension en vie quotidienne et démasquer une hypertension masquée:
 
