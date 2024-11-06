@@ -1,4 +1,4 @@
-import { OramaClient } from 'https://esm.run/@oramacloud/client@1.3.19'
+import { OramaClient } from 'https://esm.run/@oramacloud/client@1.3.20'
 
 let client;
 
