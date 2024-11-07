@@ -1,5 +1,5 @@
 +++
-id = "0190e8c1-fdc3-7ab2-9bc0-3b94d1e910ae"
+id = "019305c2-3f9c-7f07-bda6-6a24e11dfe82"
 title = "Endométriose"
 prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge de l'endométriose. Échographie pelvienne et contraception hormonale par pilule ou stérilet progestatif"

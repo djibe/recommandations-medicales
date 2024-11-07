@@ -24,13 +24,13 @@ todo = "rankok, flow"
 {{%article-summary%}}
 
 - L'artérite à cellules géantes ou maladie de Horton est rare et atteint surtout les femmes après 70 ans originaires d'Europe du Nord
-- Les symptômes sont dominés par des céphalées inhabituelles (récentes, nocturnes ou matinales), une claudication de la mâchoire, une hyperesthésie du scalp ou des symptômes visuels (signe de gravité: BAV, amaurose, diplopie)
+- Les symptômes sont dominés par des [céphalées](/tags/cephalees/) inhabituelles (récentes, nocturnes ou matinales), une claudication de la mâchoire, une hyperesthésie du scalp ou des symptômes visuels (signe de gravité: baisse d'acuité, amaurose, diplopie)
 - Une pseudo-polyarthrite rhizomélique (PPR) est fréquemment associée avec des arthralgies et des myalgies des épaules et du bassin
 - Le bilan affirme un syndrome inflammatoire quasi constant: NFS, CRP > 25 mg/L, VS ou fibrinogène élevés
 - Adresser en semi-urgence toute suspicion de maladie de Horton au spécialiste (rhumatologue, interniste) du centre de compétence ([annuaire](https://www.fai2r.org/les-centres-fai2r/centres-competence/)) pour affirmer le diagnostic par biopsie de l'artère temporale (BAT)
 - La [corticothérapie à forte dose]({{< relref "corticoides.md" >}}) est immédiate en cas de symptômes visuels (intra-veineuse) ou lorsque le délai des examens est supérieur à 7 jours (prednisone 0,7 mg/kg/j)
-- Mesures associées aux corticoïdes: activité physique, traitement anti-ostéoporotique systématique, supplémentation en vitamine D, évaluer les apports en calcium, vaccinations (grippe, covid, pneumocoque; vaccins vivants contre-indiqués)
-- Prise en charge du risque cardiovasculaire à long terme (tabac, activité physique, dyslipidémie)
+- Mesures associées aux corticoïdes: activité physique, [traitement anti-ostéoporotique]({{< relref "osteoporose.md" >}}) systématique, supplémentation en [vitamine D]({{< relref "vitamine-d.md" >}}), évaluer les [apports en calcium]({{< relref "apports-calcium.md" >}}), [vaccinations]({{< relref "vaccination.md" >}}) (grippe, covid, pneumocoque -- vaccins vivants contre-indiqués)
+- Prise en charge du [risque cardiovasculaire](/tags/risque-cardiovasculaire/) à long terme (tabac, activité physique, dyslipidémie)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

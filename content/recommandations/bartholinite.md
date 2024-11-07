@@ -6,25 +6,27 @@ description = "Recommandations pour le diagnostic et la prise en charge de la ba
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-10-18T11:07:55+02:00"
-publishdate = "2024-11-04"
-lastmod = "2024-11-04"
+publishdate = "2024-11-07"
+lastmod = "2024-11-07"
 specialites = ["gynecologie-obstetrique"]
 annees = "2007"
 sources = ["CNGOF"]
 tags = ["IST"]
 english = ["Bartholinitis"]
 sctid = "6815003"
-icd10 = ["N75.8"]
-draft = true
-image = false
-imageSrc = ""
-todo = "summary > liens > photo"
+icd10 = ["N75.8", "N75"]
+image = true
+imageSrc = "Illustration d'un abcès de la glande de Bartholin droite causant une bartholinite. Hariadhi, CC BY-SA 4.0, via Wikimedia Commons"
+todo = ""
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-TODO: (at the end)
+- La bartholinite est un abcès (voire un kyste) d'une glande Bartholin survenant le plus souvent entre 20 et 30 ans
+- Le diagnostic de bartholinite est clinique: douleurs vulvaires lancinantes avec signes inflammatoires locaux, localisation typique du tiers postérieur du vestibule. Rechercher un risque d'infections sexuellement transmissibles
+- La prise en charge de la bartholinite est une urgence chirurgicale avec drainage et l'antibiothérapie n'est pas adaptée dans la plupart des cas
+- Le risque de récidive est élevé pouvant justifier une exérèse de la glande de Bartholin dès le premier épisode, sans conséquences sur la lubrification vaginale
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

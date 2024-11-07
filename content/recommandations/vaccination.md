@@ -313,6 +313,8 @@ Documents pour informer sur la vaccination:
 
 {{< card-link-external title="e-learning vaccination" url="https://www.formationvaccinationpaca.fr" subtitle="Par la Région PACA">}} {{< card-link-external title="Quiz rattrapage vaccinal" url="https://medqual.fr/index.php?option=com_vquiz&view=quizmanager&layout=description&id=7" subtitle="Par Medqual">}}
 
+{{< youtube id="TYvSEo_rjMU" title="Le rattrapage vaccinal en pratique (VacciNews)" >}}
+
 {{< youtube id="u31xRtiITzk" title="Administration du vaccin Rotarix (CDC)" >}}
 
 {{< youtube id="FPI_1SQtZ5U" title="Webinaire Les Mardis de la Vaccination sur Vaccins et sexualités (HPV, Hépatite A)" >}}

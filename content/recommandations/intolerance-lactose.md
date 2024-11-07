@@ -17,14 +17,14 @@ sctid = "785696007"
 icd10 = ["E73", "E73.9"]
 image = true
 imagePNG = true
-imageSrc = "Le lactose C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>. Benjah-bmm27, Public domain, via Wikimedia Commons"
+imageSrc = "Le lactose C~12~H~22~O~11~. Benjah-bmm27, Public domain, via Wikimedia Commons"
 todo = "SEO 'test intolérance lactose remboursement', diarrhée chro, https://doi.org/10.1016/j.mmm.2020.10.008"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Prévalence européenne de l'intolérance au lactose: 28 %
+- Prévalence européenne de l'intolérance au lactose: 28%
 - Symptômes typiques de l'intolérance au lactose, dans l'heure suivant l'ingestion: douleurs abdominales, diarrhées, flatulences (délai très variable possible)
 - Toujours évoquer devant une [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
 - Diagnostic de l'intolérance au lactose: amélioration franche après un test d'éviction du lactose pendant 2 semaines car test respiratoire à l'hydrogène non remboursé
