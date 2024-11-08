@@ -152,7 +152,7 @@ Bilan d'hypertrophie bénigne de prostate (HBP) de première intention:
 - ± [PSA]({{< relref "cancer-prostate.md" >}}) (si traitement envisageable)
 - ± Créatininémie et DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}} (si facteurs de risque)
 - Échographie réno-vésico-prostatique avec mesure du résidu post-mictionnel  
-  Significatif si RPM > 1/3 du volume pré-mictionnel.
+  Significatif si RPM > ⅓ du volume pré-mictionnel.
 - Si RPM > 150 mL: débitmétrie urinaire (*EAU 2024*)
 
 > Bilan de l'HBP selon *EAU 2024*, *AFU 2023 et 2015*

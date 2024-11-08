@@ -137,7 +137,7 @@ Inhibiteurs calciques non dihydropyridiniques: diltiazem ou vérapamil.
 - Prévalence: 600.000 à 1 million de patients, 2/3 ont +75 ans  
   Elle augmente avec l'âge et atteint 10-20% après 80 ans.
 - Incidence 2018: 226.000/an (*[*SPF 2020*](http://beh.santepubliquefrance.fr/beh/2021/5/2021_5_1.html)*)
-- Risque vie entière d'ACFA à 55 ans: 1/3
+- Risque vie entière d'ACFA à 55 ans: ⅓
 - Responsable d'1/6 des AVC emboliques
 - Coût: 3000€/patient/an
 - Coût global: 2,5 milliards € (50% liés aux hospitalisations)

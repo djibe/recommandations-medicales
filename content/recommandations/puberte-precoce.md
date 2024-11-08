@@ -220,7 +220,7 @@ Des tests de provocation cutanée (Prick tests) sont réalisés au préalable.
 
 - Bonne tolérance
 - Douleurs au point point d'injection
-- Céphalées 1/3 des cas
+- Céphalées ⅓ des cas
 - Bouffées de chaleur < 10 %
 - Troubles digestifs < 5%
 

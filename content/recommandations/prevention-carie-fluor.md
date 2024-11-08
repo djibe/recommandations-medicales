@@ -30,7 +30,7 @@ Mesures d'hygiène bucco-dentaire pour la prévention des caries:
 - Brossage des dents au moins pendant 2 fois par jour pendant 2 minutes (au mieux peu après chaque repas)
 - Enfants
   - Réaliser/superviser le brossage des dents jusqu'à 8 ans
-  - Dentifrice: teneur en fluor adaptée à l'âge (-6 ans: ≥ 1000 ppmF, 1450 ensuite), dose sur la brosse adaptée à l'âge (-3 ans: trace, petit pois jusqu'à 6 ans puis 1/3 longueur de brosse)
+  - Dentifrice: teneur en fluor adaptée à l'âge (-6 ans: ≥ 1000 ppmF, 1450 ensuite), dose sur la brosse adaptée à l'âge (-3 ans: trace, petit pois jusqu'à 6 ans puis ⅓ longueur de brosse)
   - Recracher le dentifrice sans rincer la bouche
 - Consultation dentaire annuelle de 6 à 18 ans  
   \+ Suivi M'T Dents: consultation dentaire gratuite à 3, 6, 9, 12, 15, 18, 21 et 24 ans
@@ -81,7 +81,7 @@ Soins dentaires minimum recommandés:
   - Matin et soir pendant 2 minutes (plutôt après chaque repas)  
     Par un adulte jusqu'à 8 ans (ou supervisé).
   - Avec dentifrice fluoré ≥ 1000 ppm (ppmF)  
-    < 3 ans: trace | 3-5 ans: petit pois de dentifrice | ≥ 6 ans ou risque carieux élevé ≥ 3 ans: 1450 ppmF sur 1/3 de la longueur | ≥ 10/16 ans risque carieux élevé: respectivement 2400/5000 ppmF
+    < 3 ans: trace | 3-5 ans: petit pois de dentifrice | ≥ 6 ans ou risque carieux élevé ≥ 3 ans: 1450 ppmF sur ⅓ de la longueur | ≥ 10/16 ans risque carieux élevé: respectivement 2400/5000 ppmF
   - Recracher le dentifrice sans rincer la bouche
   - Ne jamais partager la brosse à dents
 - Soins dentaires

@@ -203,7 +203,7 @@ Signes et symptômes du syndrome des jambes sans repos à rechercher:
   - Besoin de bouger les jambes ± sensations désagréables, dysesthésies
   - Qualificatifs: décharges électriques > picotements > brûlures > fourmillements > démangeaisons> énervant, agaçant, insupportable > Très rarement absentes. Douleurs pour la moitié.
 - Localisation précise
-  - Partie supérieure des mollets (2/3) > cuisses > mollets partie basse > pieds, membres supérieurs (1/3)
+  - Partie supérieure des mollets (2/3) > cuisses > mollets partie basse > pieds, membres supérieurs (⅓)
   - Symptômes profonds, bilatéraux (2/3) et symétriques (75%)
   - {{%class%}}Schéma topographique pour le suivi{{%/class%}}
 - Contexte de survenue

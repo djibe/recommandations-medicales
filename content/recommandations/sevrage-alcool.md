@@ -128,7 +128,7 @@ TUA
 {.alert .alert-info}
 
 - 1^re^ substance addictive en coût social, cause de décès liée au foie et cause de transplantation hépatique
-- 1/3 des décès prématurés
+- ⅓ des décès prématurés
 - Décès: 41.000 annuels (30.000 hommes)
   - Cancers: 30.000 annuels attribuables (2^e^ cause évitable derrière le tabac)  
     Bouche, pharynx, larynx, œsophage, foie, côlon-rectum, sein. Augmentation du risque/unité alcool de 9 à 168 % selon les localisations (bouche, pharynx, larynx +++).
@@ -143,7 +143,7 @@ TUA
   - 11,7 L/an/+15 ans
 - Risque suicidaire: x90 quand > 100 g/j
 - Accidents
-  - Décès sur la route: 1/3 par alcool
+  - Décès sur la route: ⅓ par alcool
   - Risque mortel: x 8 (x 6 de 0,5 à 0,8 g/L)
 - Handicap: l'alcoolisation fœtale est la première cause de handicap non génétique
 

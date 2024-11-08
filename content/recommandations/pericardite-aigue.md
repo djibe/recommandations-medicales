@@ -110,7 +110,7 @@ L'examen clinique d'une suspicion de péricardite recherche une orientation deva
 - Pression artérielle, fréquence cardiaque, SpO~2~
 - Auscultation cardio-respiratoire
   - Tachycardie
-  - Frottement péricardique (< 1/3, pathognomonique)  
+  - Frottement péricardique (< ⅓, pathognomonique)  
     Systolodiastolique, variable, mieux perçu au bord supérieur du sternum gauche.
   - Épanchement pleural
 - Recherche des signes de tamponnade

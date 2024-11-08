@@ -109,7 +109,7 @@ Le scanner est réservé à la suspicion de transformation maligne de la LLC en 
 
 La prise en charge de la leucémie lymphoïde chronique (LLC) relève de l'hématologue. Lorsqu'un traitement est décidé, il s'agit d'une chimiothérapie ou d'une immunothérapie (thérapie ciblée).
 
-Les critères de traitement sont ceux de l'*iwCLL* ({{%lang%}}International Workshop on Chronic Lymphocytic Leukemia{{%/lang%}}). Au diagnostic la majorité des patients n'a pas d'indication au traitement et 1/3 des patients n'en auront pas.
+Les critères de traitement sont ceux de l'*iwCLL* ({{%lang%}}International Workshop on Chronic Lymphocytic Leukemia{{%/lang%}}). Au diagnostic la majorité des patients n'a pas d'indication au traitement et ⅓ des patients n'en auront pas.
 
 Soins complémentaires:
 

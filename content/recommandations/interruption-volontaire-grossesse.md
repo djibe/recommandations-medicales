@@ -49,7 +49,7 @@ Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contrace
 - En 2021: 208.200 IVG en métropole
 - Taux de recours de 14,9 IVG pour 1000 femmes de 15 à 49 ans en métropole (29,5 dans les DROM)  
   Pic chez les **20-29 ans** avec 24,8 IVG/1000 femmes.
-- 1/3 des IVG est réalisé en ville
+- ⅓ des IVG est réalisé en ville
 - 76% des IVG sont médicamenteuses
 - Depuis l'autorisation de 2004: 1 IVG médicamenteuse sur 6 a lieu en libéral (soit 18.273 en 2007, 3/4 par gynécologue, 1/4 par médecin généraliste)
 

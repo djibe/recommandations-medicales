@@ -35,11 +35,11 @@ todo = "SEO 'recommandations endocardite', Brossettes ?, https://pubmed.ncbi.nlm
 
 Endocardite infectieuse (EI)
 : Infection d'une ou plusieurs valves cardiaques par une bactérie, plus rarement par des germes intracellulaires ou des levures. L'atteinte de l'endocarde pariétale est plus rare. L'endocardite infectieuse est rare mais grave.
-: La porte d'entrée infectieuse est cutanée (40%), nosocomiale, toxicomanie intraveineuse, bucco-dentaire (1/3), gastro-intestinale (23%), urogénitale (4%) et autres.
+: La porte d'entrée infectieuse est cutanée (40%), nosocomiale, toxicomanie intraveineuse, bucco-dentaire (⅓), gastro-intestinale (23%), urogénitale (4%) et autres.
 : Les germes sont les staphylocoques (30-50%, mauvais pronostic, *Staphylococcus aureus* ++), *Streptocoques gallolyticus* et entérocoques.
 : La prophylaxie repose sur les mesures d'hygiène et pour les patients à haut risque d'endocardite: l'antibioprophylaxie en cas de geste invasif.
 
-1/3 des personnes à haut risque ne bénéficient pas d'antibioprophylaxie lors des soins invasifs.
+⅓ des personnes à haut risque ne bénéficient pas d'antibioprophylaxie lors des soins invasifs.
 {.alert .alert-info}
 
 {{% /collapse %}}

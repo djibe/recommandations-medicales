@@ -47,7 +47,7 @@ Ostéoporose masculine
 : Il n'existe pas de définition consensuelle. Il est donc admis d'utiliser la définition féminine de l'ostéoporose (*ISCD 2015*): une ou plusieurs fractures de fragilité osseuse et/ou DMO basse avec T-score ≤ -2,5 en contexte de fragilité osseuse (corticothérapie prolongée, [alcool]({{< relref "sevrage-alcool.md" >}}), hypogonadisme, [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})).
 : Tous les os peuvent être atteints par une fracture ostéoporotique sauf:  
 crâne, face, vertèbres au-dessus de T4 (tumeur, infection), mains et doigts, avant-pied et orteils (fractures traumatiques ou tumorales).
-: 20-25% des fractures ostéoporotiques surviennent chez l'homme. 20% ont une deuxième fracture dans l'année et 1/3 dans les 2 ans.
+: 20-25% des fractures ostéoporotiques surviennent chez l'homme. 20% ont une deuxième fracture dans l'année et ⅓ dans les 2 ans.
 
 Fracture de fragilité sévère
 : Fracture associée à une surmortalité (x 2-3): {{< clinique/osteoporose-fracture-severe >}}.
@@ -66,7 +66,7 @@ FRAX®
 ### Épidémiologie de l'ostéoporose chez l'homme
 
 - Une homme de +50 ans a 1 chance sur 5 d'avoir une fracture ostéoporotique
-- +55 ans avec fracture de l'extrémité supérieure du fémur (FESF): 1/3 morts dans l'année (dont 20% dans les 3 mois en 2008) (*[Drees 2016](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/quel-risque-de-deces-un-apres-une-fracture-du-col-du-femur)*)
+- +55 ans avec fracture de l'extrémité supérieure du fémur (FESF): ⅓ morts dans l'année (dont 20% dans les 3 mois en 2008) (*[Drees 2016](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/quel-risque-de-deces-un-apres-une-fracture-du-col-du-femur)*)
 - 90% des FESF surviennent après une chute
 - Après hospitalisation pour fracture, seuls 5% des hommes de +50  ont eu une ostéodensitométrie dans l'année et 5% un traitement anti-ostéoporotique (2012). Toutefois 50% reçoivent du calcium et/ou de la [vitamine D]({{< relref "vitamine-d.md" >}}).
 

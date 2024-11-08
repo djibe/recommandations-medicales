@@ -236,7 +236,7 @@ Atteintes neurologiques évocatrices:
   - Paralysie faciale fréquemment associée avec céphalées
   - Antibiothérapie très efficace en quelques jours sur les douleurs
 - *[Paralysie faciale]({{< relref "paralysie-faciale-idiopathique.md" >}})* (36% des neuroborrélioses)
-  - 1/3 bilatérale asynchrone
+  - ⅓ bilatérale asynchrone
   - Surtout l'enfant
   - Sérologie *Borrelia* systématique
 - Beaucoup plus rares  

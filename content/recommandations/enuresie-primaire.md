@@ -102,7 +102,7 @@ Rythme, volume mictionnel et nuits mouillées.
 Seul traitement première intention (20% de guérison).
 
 - Apports liquidiens suffisants en début de journée  
-  1/3 des besoins quotidiens.
+  ⅓ des besoins quotidiens.
 - Rappel des besoins des enfants  
   45-60 mL/kg/j à boire entre 7 et **18h**.
 - Diminution/suppression des apports salés et hyperosmolaires le soir  

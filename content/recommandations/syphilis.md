@@ -151,7 +151,7 @@ Phase d'invasion du liquide cérébro-spinal sans atteinte parenchymateuse.
 
 ### Syphilis secondaire
 
-Inconstante (1/3 des patients), survient en cas de syphilis primaire non traitée, dans les 6 semaines après le chancre (**roséole**) à 1 an (**syphilides papuleuses**).
+Inconstante (⅓ des patients), survient en cas de syphilis primaire non traitée, dans les 6 semaines après le chancre (**roséole**) à 1 an (**syphilides papuleuses**).
 
 Atteinte cutanée préférentielle (tronc et visage):
 

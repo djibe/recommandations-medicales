@@ -74,7 +74,7 @@ Pré-éclampsie (ou prééclampsie)
   avec un ratio 0,5/100.000 naissances vivantes (2010-2012).
 - La pré-éclampsie sévère est une des principales causes de décès maternel,  
   dont 70% seraient évitables avec une prise en charge adaptée.
-- Responsable d'1/3 des naissances prématurées
+- Responsable d'⅓ des naissances prématurées
 
 ### Abréviations
 

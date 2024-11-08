@@ -162,7 +162,7 @@ Prise en charge de l'entorse de la cheville par le protocole << RICE >> ({{%lang
 - Glaçage  
   15-20 minutes toutes les 2-3 heures initialement.
 - Antalgie, AINS, AINS topique  
-  Douleur habituellement résolutive sous 2 semaines (1/3 persistent à 1 an).
+  Douleur habituellement résolutive sous 2 semaines (⅓ persistent à 1 an).
 - Bandage, strapping de la cheville
 - Surélévation de la jambe
 - Si douleurs marquées ou entorse de moyenne gravité: orthèse de la cheville (dite attelle) 3 semaines
@@ -176,7 +176,7 @@ Lors de la réévaluation à J3-J5, en cas de douleurs marquées:
 - Traquer une entorse grave (palpation, radiographies)
 - Discuter un plâtre 3 semaines avec appui partiel et béquilles
 
-Le développement d'une **algodystrophie** est possible (1/3 ont des douleurs à 1 an).
+Le développement d'une **algodystrophie** est possible (⅓ ont des douleurs à 1 an).
 
 {{% /collapse %}}
 {{%sources%}}

@@ -144,7 +144,7 @@ Un seul marqueur de prise en charge optimale de la BPCO sur 7 atteint le seuil d
   Coût annuel moyen respectif d'un patient avec BPCO légère et oxygénorequérant.
 - Sous-diagnostic: 70% ne seraient pas diagnostiqués
 - 80% des cas dus au tabac
-- Méconnaissance: 22% des Français ont déjà entendu parler de BPCO (*[SPF 2017](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)*) parmi lesquels seulement 1/3 cite le tabac comme cause.
+- Méconnaissance: 22% des Français ont déjà entendu parler de BPCO (*[SPF 2017](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)*) parmi lesquels seulement ⅓ cite le tabac comme cause.
 - **Excès de corticothérapie inhalée**: 70% des patients dont 35% chez GOLD A et B (*SPLF 2021*)
 
 {{% /collapse %}}

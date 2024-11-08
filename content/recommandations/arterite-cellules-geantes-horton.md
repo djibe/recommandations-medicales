@@ -39,7 +39,7 @@ Artérite à cellules géantes (ou maladie de Horton)
 : Vascularite rare des gros troncs artériels survenant après 50 ans (70 ans surtout) et atteignant principalement les femmes (75%) originaires d'Europe du Nord. Le syndrome inflammatoire est pratiquement constant et les récidives sont fréquentes (> 40%).
 : Les vaisseaux atteints sont surtout les artères: carotides externes, ophtalmiques et vertébrales.
 : Elle est une urgence diagnostique et thérapeutique par ses complications majeures qui sont à court terme la **cécité** irréversible (NOIAA, OACR) avec perte d'autonomie et à long terme le **risque cardiovasculaire**. Il n'est pas observé de surmortalité en France.
-: Deux comorbidités sont fréquemment associées: la **pseudo-polyarthrite rhizomélique** (PPR, 50%) et l'aortite isolée (1/3, asymptomatique).
+: Deux comorbidités sont fréquemment associées: la **pseudo-polyarthrite rhizomélique** (PPR, 50%) et l'aortite isolée (⅓, asymptomatique).
 
 > **NB.** << Les critères de classification d'ACG du Collège américain de rhumatologie (ACR) ne doivent pas être utilisés comme critères diagnostiques. >> -- *PNDS 2020*
 

@@ -25,7 +25,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Dépister l'hypertension artérielle dès 3 ans, au moins tous les 3 ans après 40 ans (annuellement selon la *USPTF*, 1/3 des adultes sont hypertendus et les 3/4 ne sont pas contrôlés)
+- Dépister l'hypertension artérielle dès 3 ans, au moins tous les 3 ans après 40 ans (annuellement selon la *USPTF*, ⅓ des adultes sont hypertendus et les 3/4 ne sont pas contrôlés)
 - Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet* et [tensiomètres validés]({{< relref "tensiometres-electroniques-valides.md" >}}))
 - Confirmer le diagnostic par mesures et automesures / MAPA répétées, conserver le grade et le stade d'hypertension au diagnostic
 - Rechercher des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} {{< scores/heartscore >}} en prévention primaire pour déterminer le LDL cible
@@ -154,7 +154,7 @@ TZD
     Parmi lesquels 6 millions ne le savent pas et 4 millions ne sont pas contrôlés.
 - Dans le monde
   - 1,28 milliard d'hypertendus (150 millions en Europe)
-  - Prévalence: 1/3 des adultes
+  - Prévalence: ⅓ des adultes
   - Décès: 10 millions chaque année
   - Malgré les progrès thérapeutiques, l'espérance de vie corrigée de l'incapacité a augmenté seulement de 40% depuis 1990
 - Morbidité

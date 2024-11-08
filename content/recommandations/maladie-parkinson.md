@@ -24,7 +24,7 @@ todo = "sd pyramidal, sd cérébelleux, American Academy of Neurology, HAS 2016 
 
 {{%article-summary%}}
 
-- Triade du syndrome parkinsonien: akinésie/bradykinésie, rigidité et tremblement de repos unilatéral ou asymétrique (pathognomonique mais absent pour 1/3)
+- Triade du syndrome parkinsonien: akinésie/bradykinésie, rigidité et tremblement de repos unilatéral ou asymétrique (pathognomonique mais absent pour ⅓)
 - Autres signes précoces de la maladie de Parkinson: instabilité, hypotension orthostatique avec malaises, hyposmie
 - Toujours rechercher une cause iatrogène au syndrome parkinsonien
 - Le diagnostic de maladie de Parkinson est clinique, il relève du neurologue
@@ -109,7 +109,7 @@ Autres diagnostics à étayer devant un syndrome parkinsonien:
 ### Épidémiologie de la Maladie de Parkinson en France
 
 - Incidence: 25.820/an (2020)
-- Prévalence: 1/380 avec 177.624 personnes traitées (2020)  
+- Prévalence: ⅓80 avec 177.624 personnes traitées (2020)  
   +65% sur la période 2010-2030 avec une augmentation de l'espérance de vie de 3 ans sur cette période.
 - Âge moyen au diagnostic pour une femme: 71,8 ans (cohorte E3N)
 - Sex-ratio H/F: 1,5
@@ -211,7 +211,7 @@ La triade classique est akinésie/bradykinésie, rigidité et tremblement de rep
   - [Constipation]({{< relref "constipation.md" >}})
   - Amaigrissement et asthénie
   - Hallucinations (visuelles ++)
-  - Déclin cognitif (1/3 au diagnostic)  
+  - Déclin cognitif (⅓ au diagnostic)  
     Échelles PDD short screen (PDD-SS), Addenbrooke's Cognitive Examination-Revised (ACE-R) ou Montreal Cognitive Assessment (MoCA, [web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf)).
 - Excellente réponse à la L-dopa
 - Autres: sommeil, anxiété et [dépression]({{< relref "depression.md" >}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}})
