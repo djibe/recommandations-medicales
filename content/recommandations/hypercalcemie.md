@@ -196,7 +196,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hypercalcémie - hypocalcémie. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?article28)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hypercalcémie - hypocalcémie. Manuel de néphrologie 10ème édition. 2023.](http://manuel3.cuen.fr/spip.php?article28)
 - [Fuleihan G et al. Treatment of Hypercalcemia of Malignancy in Adults: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2022.](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgac621/6916871)
 - [Bilezikian JP et al; International Workshop on Primary Hyperparathyroidism. Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop. J Bone Miner Res. 2022.](https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4677)
 - Collège National des Enseignants de Médecine Interne (CEMI). Hypercalcémie. Référentiel Collège de Médecine interne R2C. 2021.

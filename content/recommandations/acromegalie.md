@@ -23,9 +23,9 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Rechercher une acromégalie devant: un changement de bague, de pointure de chaussures, de syndrome dysmorphique ...
-- ou des complications: canal carpien, apnées du sommeil, hypertension artérielle
-- Adresser au centre de compétence ou de référence HYPO ([annuaire](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/carte/document/)) en cas de suspicion d'acromégalie
+- L'acromégalie correspond aux manifestations induites par une sécrétion endogène excessive d'hormone de croissance (GH)
+- Suspecter une acromégalie en cas de: changement de taille de bague, de pointure de chaussures, de syndrome dysmorphique ... ou de complications: [syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+- Adresser les cas suspects d'acromégalie au centre de compétence ou de référence HYPO ([annuaire des centres](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/carte/document/))
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

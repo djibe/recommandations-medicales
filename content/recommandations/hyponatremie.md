@@ -226,7 +226,7 @@ En l'absence d'orientation étiologique ou d'efficacité d'un traitement étiolo
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hyponatrémie - Hypernatrémie. Item 267. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?article11)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hyponatrémie - Hypernatrémie. Item 267. Manuel de néphrologie 10ème édition. 2023.](http://manuel3.cuen.fr/spip.php?article11)
 - Prescrire Redaction. Hyponatrémies médicamenteuses. Interactions médicamenteuses. Rev Prescrire. 2023.
 - [Jacob P et al. Hyponatraemia in primary care. BMJ. 2019.](https://www.bmj.com/content/365/bmj.l1774)
 - [Spasovski G et al; ERBP. Clinical practice guideline on diagnosis and treatment of hyponatraemia. Nephrol Dial Transplant. 2014.](https://academic.oup.com/ndt/article/29/suppl_2/i1/1904943)

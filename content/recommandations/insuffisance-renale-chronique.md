@@ -113,6 +113,7 @@ Fin 2018: 89.692 malades en suppléance (55% dialyse et 45% greffés).
 
 Population à risque de maladie rénale chronique, définie par la présence d'au moins un facteur de risque parmi:
 
+- +65 ans (Académie de pharmacie)
 - [Diabète type 2]({{< relref "diabete-type-2.md" >}}) ou [type 1]({{< relref "diabete-type-1.md" >}})
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
 - Maladie cardiovasculaire (dont [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}))
@@ -484,7 +485,7 @@ Connaître les signes et symptômes de la maladie rénale chronique et savoir qu
 
 {{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge de la maladie rénale chronique. Dr JB Fron d'après KDIGO 2024 et HAS 2023" >}}
 graph TB
-fdr["<b>Personne à risque</b><br>—<br>- HTA, diabète<br>- Obésité<br>- Maladie cardiovasculaire<br>- Insuffisance cardiaque<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familial d'IRC évolutive<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
+fdr["<b>Personne à risque</b><br>—<br>- +65 ans (Acad Phie)<br>- HTA, diabète<br>- Obésité<br>- Maladie cardiovasculaire<br>- Insuffisance cardiaque<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familial d'IRC évolutive<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
 style fdr stroke:#4150f5, stroke-width:1px
   2 --> 3N(Normal)
     3N --> 2
@@ -501,8 +502,9 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
+- [Académie nationale de pharmacie. Le dépistage précoce, la solution pour freiner la progression des insuffisances rénales chroniques terminales. 2024. (PDF)](https://www.acadpharm.org/dos_public/COMMUNIQUE_MALADIES_RENALES_CHRONIQUES_VF.PDF)
 - [Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024.](https://kdigo.org/guidelines/ckd-evaluation-and-management/)
-- [Kreutz R et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)
+- [Kreutz R, et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)
 - [HAS. Maladie rénale chronique de l'adulte (MRC). Guide du parcours de soins. 2023.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
 - {{< references/esh-2023 >}}
 - {{< references/ada-soc >}}
@@ -511,7 +513,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 - {{< references/esc-cvd >}}
 - {{< references/sfd-dt2 >}}
 - [HAS. Maladie rénale chronique de l'adulte. Guide du parcours de soins. Juillet 2021.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
-- [Cheung A et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://www.kidney-international.org/article/S0085-2538(20)31269-2/fulltext)
+- [Cheung A, et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://www.kidney-international.org/article/S0085-2538(20)31269-2/fulltext)
 - [Vaccination Info Service. Patient présentant une maladie rénale chronique. 23/04/2020.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Patient-porteur-d-une-maladie-chronique/Patient-presentant-une-maladie-renale-chronique)
 - {{< references/esc-dyslipidaemias >}}
 - {{< references/esc-hta >}}

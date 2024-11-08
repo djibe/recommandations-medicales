@@ -188,14 +188,14 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale aiguë - Anurie. Item 348. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?article62)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale aiguë - Anurie. Item 348. Manuel de néphrologie 10ème édition. 2023.](http://manuel3.cuen.fr/spip.php?article62)
 - [Collège Français des Enseignants en Urologie (CFEU). Insuffisance rénale aiguë - Anurie. Item 348. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/item-348-Insuffisance-renale-aigue.pdf)
 - [SFR, CIRTACI, SFNDT. Rein et produits de contraste. 2020. (PDF)](https://www.sfndt.org/sites/www.sfndt.org/files/medias/documents/Fiche%20de%20recommandation%20pour%20la%20pratique%20clinique_rein%20et%20produit%20de%20contraste.pdf)
 - [KDIGO. Clinical practice guideline for acute kidney injury. Kidney Inter. 2012. (PDF)](https://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf)
 
 ### Bibliographie en attente
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Élévation de la créatininémie. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?rubrique3)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Élévation de la créatininémie. Manuel de néphrologie 10ème édition. 2023.](http://manuel3.cuen.fr/spip.php?rubrique3)
 - [ESUR](http://www.esur.org/fileadmin/content/2019/ESUR_Guidelines_10.0_Final_Version.pdf)
 - [EMA](https://www.ema.europa.eu/en/documents/referral/gadolinium-article-31-referral-prac-confirms-restrictions-use-linear-gadolinium-agents_en.pdf)
 

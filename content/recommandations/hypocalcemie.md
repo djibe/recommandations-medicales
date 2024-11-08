@@ -196,7 +196,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hypercalcémie - hypocalcémie. Manuel de néphrologie 10ème édition. 2023.](https://cuen.fr/manuel3/spip.php?article28)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hypercalcémie - hypocalcémie. Manuel de néphrologie 10ème édition. 2023.](http://manuel3.cuen.fr/spip.php?article28)
 - {{< references/college-endocrino >}}
 - [Kamenický P. Hypocalcémie de l'adulte. MCED. 2016. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/JNDES/2016/16_jndes_hypocalcemie_adulte_p_kamenicky.pdf)
 - [Fong J, Khan A. Hypocalcémie: Mises à jour dans le diagnostic et la prise en charge en soins primaires. Can Fam Physician. 2012.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3279287/)

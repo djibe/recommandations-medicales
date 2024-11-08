@@ -33,7 +33,7 @@ Névrome de Morton (NM)
 : Fibrose périneurale du nerf digital plantaire commun au niveau de sa bifurcation, en regard des têtes métatarsiennes (3^e^ +++).
 : Le névrome de Morton est probablement d'origine microtraumatique.
 
-Le diagnostic différentiel principal est une **bursite** inter-capito-métatarsienne.
+Le diagnostic différentiel principal est une [bursite inter-capito-métatarsienne]({{< relref "bursite.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

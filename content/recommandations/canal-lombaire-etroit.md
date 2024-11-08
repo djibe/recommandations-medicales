@@ -81,7 +81,7 @@ Principaux diagnostics différentiels du canal lombaire étroit:
 
 - Neuropathie périphérique
 - Coxarthrose
-- Bursite trochantérienne
+- [Bursite trochantérienne]({{< relref "bursite.md" >}})
 - Claudication vasculaire (voir [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}))
 - Claudication médullaire (déficit moteur proximal avec syndrome pyramidal)
 - Autres plus rares: malformation artério-veineuses spinales, tumeurs

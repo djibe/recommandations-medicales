@@ -141,7 +141,7 @@ Autres diagnostics à étayer devant des douleurs des genoux.
     Rare. Douleur sus-rotulienne. Rupture à bas bruit du sujet âgé. Échographie.
   - Tendinite de la patte d'oie  
     Douleur réveillée en palpation de face interne du tibia sous l'interligne fémoro-tibial interne. Déclenchée par flexion contrariée.
-- Hygroma du genou
+- [Hygroma du genou]({{< relref "bursite.md" >}})
   - Bursite pré-rotulienne, profession à risque. Tuméfaction molle, peu douloureuse, antérieure.
   - Traitement par anti-inflammatoires AINS topiques, ponctions évacuatrices avec infiltration de corticoïdes.
 - Radiculalgie
