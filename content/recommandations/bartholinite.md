@@ -17,13 +17,13 @@ sctid = "6815003"
 icd10 = ["N75.8", "N75"]
 image = true
 imageSrc = "Illustration d'un abcès de la glande de Bartholin droite causant une bartholinite. Hariadhi, CC BY-SA 4.0, via Wikimedia Commons"
-todo = ""
+todo = "relecture"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- La bartholinite est un abcès (voire un kyste) d'une glande Bartholin survenant le plus souvent entre 20 et 30 ans
+- La bartholinite est un abcès (voire un kyste) d'une glande de Bartholin survenant le plus souvent entre 20 et 30 ans
 - Le diagnostic de bartholinite est clinique: douleurs vulvaires lancinantes avec signes inflammatoires locaux, localisation typique du tiers postérieur du vestibule. Rechercher un risque d'infections sexuellement transmissibles
 - La prise en charge de la bartholinite est une urgence chirurgicale avec drainage et l'antibiothérapie n'est pas adaptée dans la plupart des cas
 - Le risque de récidive est élevé pouvant justifier une exérèse de la glande de Bartholin dès le premier épisode, sans conséquences sur la lubrification vaginale

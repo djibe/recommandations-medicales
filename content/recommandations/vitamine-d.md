@@ -8,7 +8,7 @@ synonyms = ["Cholécalciferol vitamine D3", "ergocalciférol vitamine D2"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-15T00:28:29+02:00"
 publishdate = "2020-04-15"
-lastmod = "2024-02-08"
+lastmod = "2024-11-10"
 specialites = ["endocrinologie", "pediatrie", "therapeutique"]
 annees = "2022"
 sources = ["SFP", "HAS", "SFR"]
@@ -18,7 +18,7 @@ sctid = "30178006"
 icd10 = []
 atc = "A11CC"
 image = true
-imageSrc = "Illustration de la vitamine D par pch.vector / Freepik"
+imageSrc = "La vitamine D. pch.vector / Freepik"
 flowchart = true
 todo = "rankok"
 +++
@@ -38,7 +38,8 @@ Articles liés: [apports en calcium]({{< relref "apports-calcium.md" >}}), [ost�
 Vitamine D
 : La vitamine D participe à la régulation du métabolisme phosphocalcique et prévient: **rachitisme, ostéomalacie, douleurs musculaires diffuses**.  
 L'unité internationale est le **nmol/L**.
-: **Bénéfices de la supplémentation en vitamine D**: elle réduit les fractures non vertébrales après 65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 75 nmol/L (30 ng/mL). Aliments riches en vitamine D: poissons et produits laitiers.
+: **Bénéfices de la supplémentation en vitamine D**: elle réduit les fractures non vertébrales après 65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 75 nmol/L (30 ng/mL).
+: Aliments riches en vitamine D: poissons gras, produits laitiers enrichis en vitamine D.
 : Selon l'*Inserm*, une carence en vitamine D serait fortement liée au développement de la [maladie d'Alzheimer]({{< relref "maladie-alzheimer.md" >}}). D'autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés (*[Féart 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)*).
 
 Carence en vitamine D de l'adulte et de l'enfant
@@ -229,6 +230,23 @@ Intensification de la supplémentation si:
 - [Obésité]({{< relref "obesite-adulte.md" >}}), régime carencé (vegan)
 
 {{% /collapse %}}
+{{%collapse "Aliments riches en vitamine D" %}}
+
+Aliments naturellement riches en vitamine D:
+
+- Poissons gras: hareng, sardine, saumon et maquereau
+- Certains champignons: girolles, cèpes et morilles
+- Produits laitiers enrichis en vitamine D
+- Jaune d'œuf
+- Chocolat noir
+- Céréales de petit déjeuner enrichis en vitamine D
+- Beurre et margarines
+- Abats (notamment le foie)
+- Dans une moindre mesure: viande
+
+> -- *Anses*
+
+{{% /collapse %}}
 {{%collapse "Spécialités de vitamine D disponibles" %}}
 
 ### Spécialités de vitamine D3 (colécalciférol) par galénique
@@ -276,7 +294,7 @@ Ne pas utiliser d'autres formes de supplémentations.
 - [Anses. Vitamine D : pourquoi et comment assurer un apport suffisant ? 02/03/2022.](https://www.anses.fr/fr/content/vitamine-d-pourquoi-et-comment-assurer-un-apport-suffisant)
 - [Omedit Centre Val de Loire. Protocole de supplémentation en vitamine D en EHPAD. Décembre 2020. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/10827.pdf)
 - [Ameli. Dosage de la vitamine D. 29/12/2020.](https://www.ameli.fr/paris/laboratoire-danalyses-medicales/exercice-liberal/memos/dosage-vitamine)
-- [Souberbielle JC et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d'ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 2019. (PDF)](https://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
+- [Souberbielle JC, et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d'ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 2019. (PDF)](https://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
 - [Esteban 2014-2016 – Chapitre dosages biologiques des vitamines et minéraux : pas de déficit important ou de carence à grande échelle](https://www.santepubliquefrance.fr/les-actualites/2019/esteban-2014-2016-chapitre-dosages-biologiques-des-vitamines-et-mineraux-pas-de-deficit-important-ou-de-carence-a-grande-echelle)
 - [Annweiler C. et al. Vitamine D chez l'adulte : mise au point sur le dosage et la supplémentation. Gériatrie et psychologie Neuropsychiatrie du Vieillissement. 2018.](https://www.jle.com/fr/revues/gpn/e-docs/vitamine_d_chez_ladulte_mise_au_point_sur_le_dosage_et_la_supplementation_311580/article.phtml)
 - [Briot K. et al. Actualisation 2018 des recommandations françaises du traitement de l'ostéoporose post-ménopausique. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S1169833018300504)

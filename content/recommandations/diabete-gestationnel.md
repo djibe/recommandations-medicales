@@ -23,14 +23,15 @@ imageSrc = "Illustration du diabète gestationnel par vectorjuice / Freepik"
 
 {{%article-summary%}}
 
-- Indications au dépistage du diabète gestationnel (DG): âge ≥ 35 ans, surpoids, ATCD 1^er^ degré familial de diabète type 2, antécédent de macrosomie ou de diabète gestationnel, SOPK (HGPO)
-- Dépister par glycémie à jeun au T1 puis HGPO 75g entre 24 et 28 SA
-- Diagnostic de diabète gestationnel si glycémie à jeun ≥ 0,92 g/L ou HGPO H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L
+- Le diabète gestationnel (DG) est une hyperglycémie à jeun survenue pendant la grossesse (absence d'hyperglycémie pré-existante)
+- Dépistage du diabète gestationnel
+  - Indications au dépistage du DG: âge ≥ 35 ans, surpoids, ATCD familial au 1^er^ degré de diabète type 2, antécédent de macrosomie ou de diabète gestationnel, [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) (nécessite une HGPO)
+  - Dépister par glycémie à jeun au premier trimestre puis par hyperglycémie provoquée par voie orale 75g (HGPO) entre 24 et 28 SA
+- Le diagnostic de diabète gestationnel est biologique: glycémie à jeun ≥ 0,92 g/L ou HGPO H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L
 - Adresser à la maternité pour autosurveillance glycémique et diététique
 - Objectifs glycémiques du diabète gestationnel ou d'une grossesse chez la diabétique: HbA1c cible 6,5%, glycémie à jeun < 0,95 g/L et post-prandiale H2 < 1,20 g/L
 - Objectif de terme de grossesse: 39 SA
-- Glycémie à la consultation post-natale et tous les 1-3 ans à vie
-- En pandémie Covid-19, si HGPO non réalisable, remplacer par GAJ + HbA~1c~ avec un seuil diagnostique à 5,7% (*[Vambergue 2020](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)*)
+- Surveillance de la glycémie à la consultation post-natale puis tous les 1 à 3 ans à vie
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

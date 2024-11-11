@@ -1,20 +1,20 @@
 +++
-title = "Ameli Pro : résoudre les problèmes courants (connexion, Cryptolib)"
+title = "Ameli Pro : résoudre les problèmes courants (connexion, Cryptolib, carte vitale)"
 noindex = true
-titleSeo = "Ameli Pro résoudre les problèmes"
-description = "Outils pour identifier et résoudre les problèmes de connexion au portail Ameli Pro de l'Assurance Maladie"
+titleSeo = "Ameli Pro: résoudre les problèmes"
+description = "Outils pour identifier et résoudre les problèmes de connexion au portail AmeliPro de l'Assurance Maladie"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-11T13:08:00+02:00"
 publishdate = "2023-04-11"
-lastmod = "2023-08-22"
-annees = "2023"
+lastmod = "2024-11-11"
+annees = "2024"
 sources = []
 tags = []
 image = true
 imageSrc = "Assurance Maladie"
 +++
 
-Les problèmes de connexion à Ameli Pro sont courants et peuvent provenir de différents dysfonctionnements. Cet article vise à identifier et corriger des problèmes courants occasionnés par l'ordinateur du médecin.
+Les problèmes de connexion à *Ameli Pro* sont courants et peuvent provenir de différents dysfonctionnements. Cet article vise à identifier et corriger des problèmes courants occasionnés par l'ordinateur du médecin.
 {.lead .mb-5}
 
 {{< card-link title="Article lié: Lecteurs de carte CPS" url="/cabinet/lecteurs-carte-vitale/" class="my-5">}}
@@ -26,14 +26,20 @@ Ameli Pro et tous les services en ligne proposant une connexion avec la carte CP
 - Des lecteurs de carte à puces ou un lecteur Sesam-vitale
 - Les services de carte à puce activés sous Windows ou MacOS  
   Sous Windows: taper `services.msc` dans le menu démarrer, vérifier que le service "Carte à puce" a bien pour "Type de démarrage": `Automatique`
-- Installer ATSAM 4.65.00 ([Windows](https://e.pcloud.link/publink/show?code=XZSG9CZdtj4sK11baJLxtkdq0xEJfug4csy) ou [Mac](https://e.pcloud.link/publink/show?code=XZjG9CZYa8ykmijt78orzNt2lNVv76Tp4h7))
-- Pour lire la carte vitale depuis le navigateur internet, l'extension officielle "Lecture Carte Vitale" est nécessaire ([navigateur Chrome/Edge](https://chrome.google.com/webstore/detail/lecture-carte-vitale/kpjpglcbcgnblkigbedgaoegjbifejka?hl=fr) ou [Firefox](https://addons.mozilla.org/fr/firefox/addon/lecture-carte-vitale/))
+- Installer **ATSAM** 4.65.00 ([Windows](https://e.pcloud.link/publink/show?code=XZSG9CZdtj4sK11baJLxtkdq0xEJfug4csy) ou [Mac](https://e.pcloud.link/publink/show?code=XZjG9CZYa8ykmijt78orzNt2lNVv76Tp4h7))
+- Pour lire la **carte vitale** depuis le navigateur internet, l'extension officielle "Lecture Carte Vitale" est nécessaire ([navigateur Chrome/Edge](https://chrome.google.com/webstore/detail/lecture-carte-vitale/kpjpglcbcgnblkigbedgaoegjbifejka?hl=fr) ou [Firefox](https://addons.mozilla.org/fr/firefox/addon/lecture-carte-vitale/))
+
+| Logiciel                | Version | Téléchargement                                                                      |
+|-------------------------|--------:|-------------------------------------------------------------------------------------|
+| ATSAM (Windows)         | 4.65.00 | [Lien](https://e.pcloud.link/publink/show?code=XZSG9CZdtj4sK11baJLxtkdq0xEJfug4csy) |
+| ATSAM (MacOS)           | 4.65.00 | [Lien](https://e.pcloud.link/publink/show?code=XZjG9CZYa8ykmijt78orzNt2lNVv76Tp4h7) |
+| Cryptolib CPS (Windows) |   5.2.2 | [Lien](https://e.pcloud.link/publink/show?code=XZMRbxZvYgl3uQffJ89WXhW8VC1qyEnPqGk) |
 
 ### ATSAM
 
 <img src="/images/logos/atsam.webp" alt="Logo du logiciel ATSAM" loading="lazy" class="img-responsive" style="max-width: 100px">
 
-Le paquet ATSAM de l'Assurance Maladie installe: Cryptolib CPS 5.1.9 ([Windows](https://www.diabeclic.com/daemonite/CryptolibCPS-5.1.9.exe) ou [Mac](https://www.diabeclic.com/daemonite/CryptolibCPS-5.1.19.dmg), certificats pour la carte à puce), SrvSVCNAM (connexion aux services Ameli Pro), AmeliPro Connect (voir plus bas) et DiagAM (diagnostic des erreurs de connexion aux services Ameli Pro).
+Le paquet ATSAM de l'Assurance Maladie installe: Cryptolib CPS (mais pas la dernière version), certificats pour la carte à puce), SrvSVCNAM (connexion aux services Ameli Pro), AmeliPro Connect (voir plus bas) et DiagAM (diagnostic des erreurs de connexion aux services Ameli Pro).
 
 Les fichiers mentionnés peuvent également être téléchargés depuis [la page dédiée d'Ameli Pro](https://espacepro.ameli.fr/inscription/#/aide): aller au pied de page > Configuration.
 {.alert .alert-info}

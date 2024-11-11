@@ -17,6 +17,7 @@ sctid = "84017003"
 icd10 = ["M71.9", "M71", "M70"]
 image = true
 imageSrc = "Bursite typique du coude gauche de l'homme. Photo de NJC123, Public domain, via Wikimedia Commons"
+todo = "relecture"
 flowchart = true
 +++
 

@@ -52,7 +52,7 @@ Elle est augmentée en cas d'inflammation (carence martiale peu probable si ferr
 
 {{< table title="Ajustement du taux d'hémoglobine pour les fumeurs. Dr JB Fron d'après *OMS 2024*" class="table-sm" >}}
 | Tabagisme (cig/j) | Ajustement du taux d'Hb (g/dL) |
-|-------------------|-------------------------------:|
+|:-----------------:|-------------------------------:|
 | Non               |                  0&nbsp;&nbsp; |
 | Fumeur            |                           -0,3 |
 | < 10              |                           -0,3 |
