@@ -45,7 +45,7 @@ title = "RecoMédicales"
 # search https://learn.netlify.app/en/basics/configuration/
 [outputs]
   page = ["HTML"]
-  home = ["HTML", "RSS", "WebAppManifest", "WORKER"]
+  home = ["HTML", "JSON", "RSS", "WebAppManifest", "WORKER"]
   section = ["HTML", "JSON"]
   taxonomy = ["HTML"]
   term = ["HTML"]
