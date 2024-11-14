@@ -15,7 +15,7 @@ sources = ["GFHGNP"]
 tags = ["enfant", "nourrisson"]
 english = []
 sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = ["https://prod-mapping.ihtsdotools.org/#/"]
+icd10 = ["A09"]
 draft = true
 image = false
 imageSrc = ""
