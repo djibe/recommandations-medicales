@@ -199,13 +199,27 @@ document.addEventListener( 'DOMContentLoaded', event => {
     });
 
   document.getElementById('btn-print')?.addEventListener('click', () => {
+    const iframe = document.createElement('iframe');
     const divElements = document.getElementById('divPrint').innerHTML;
-    // const oldPage = document.body.innerHTML;
-    document.body.innerHTML = "<html><head><title></title></head><body>" + divElements + "</body>";
-    window.print();
-    // document.body.innerHTML = oldPage;
-    location.reload();
-  })
+    iframe.width = document.width;
+    iframe.height = document.height;
+    iframe.style.display = "none";
+    document.body.appendChild(iframe);
+    const doc = iframe.contentWindow.document;
+    const styles = [...document.querySelectorAll('link[rel="stylesheet"], style')]
+    .map(node => node.outerHTML)
+    .join('');
+    doc.open();
+    doc.write(`<html><head><title>Print</title>${styles}</head><body>${divElements}</body></html>`);
+    doc.close();
+
+    // Print the iframe content
+    iframe.contentWindow.focus();
+    iframe.contentWindow.print();
+
+    iframe.onload = () => { document.body.removeChild(iframe) };
+  });
+
 
   {{ with .Site.RegularPages }}
     // Open external sources in new window

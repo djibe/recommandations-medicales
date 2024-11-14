@@ -1549,8 +1549,8 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 
 .card-actions {
   align-items: center;
-  border-bottom-right-radius: 12px;
-  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: inherit;
+  border-bottom-left-radius: inherit;
   display: flex;
   flex-wrap: wrap;
   min-height: 3.25rem;
@@ -4014,10 +4014,6 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   flex-grow: 1 !important;
 }
 
-.justify-content-end {
-  justify-content: flex-end !important;
-}
-
 .justify-content-center {
   justify-content: center !important;
 }
@@ -4144,6 +4140,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 
 .ml-3 {
   margin-left: 1rem !important;
+}
+
+.m-4 {
+  margin: 1.5rem !important;
 }
 
 .mt-4,
