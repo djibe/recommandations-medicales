@@ -50,7 +50,7 @@ PNDS
 {{% /collapse %}}
 {{%collapse "Clinique de l'acromégalie" %}}
 
-Le diagnostic est souvent retardé (~5 ans) devant l'installation progressive des signes et symptômes de l'acromégalie.
+Le diagnostic d'acromégalie est souvent retardé (environ 5 ans) du fait de l'apparition progressive des signes et symptômes.
 
 Adresser au [centre de compétence ou de référence HYPO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/carte/document/) en cas de suspicion d'acromégalie:
 

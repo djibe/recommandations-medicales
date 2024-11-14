@@ -93,6 +93,8 @@ Métronidazole 2g dose unique
 
 *M. hominis* a un rôle pathogène controversé et il n'est pas recommandé de le rechercher systématiquement.
 
+## Klebsiella pneumoniae
+
 {{% /collapse %}}
 {{%collapse "Urétrite" %}}
 

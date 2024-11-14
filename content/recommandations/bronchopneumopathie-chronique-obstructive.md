@@ -10,7 +10,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. HOUSSET (SPLF) et Dr S. LAUNOIS (SFRMS/SPLF)"
 date = "2021-03-28T23:07:00+02:00"
 publishdate = "2021-04-14"
-lastmod = "2024-08-29"
+lastmod = "2024-11-13"
 specialites = ["pneumologie"]
 annees = "2024"
 sources = ["GOLD", "ERS", "HAS", "SPLF"]
@@ -27,7 +27,7 @@ todo = "rankok | GOLD 2024: groupe Figure 3.7, Figure 3.18, TargetCOPD, action p
 
 {{%article-summary%}}
 
-- {{< modal-btn modal-depistage-bpco >}}Dépistage systématique des facteurs de risque de BPCO{{< /modal-btn >}} (+20 PA, infections respiratoires récidivantes) et prévention par sevrage tabagique pour tout le monde
+- {{< modal-btn modal-depistage-bpco >}}Dépistage systématique des facteurs de risque de BPCO{{< /modal-btn >}} (tabagisme +20 PA, infections respiratoires récidivantes) et prévention par sevrage tabagique pour tout le monde
 - Le diagnostic de bronchopneumopathie chronique obstructive est spirométrique: trouble ventilatoire obstructif non réversible. Le VEMS est le facteur pronostique majeur de la {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
 - Le suivi de la BPCO nécessite un bilan par EFR/spirométrie de suivi annuelle
 - La prise en charge de la BPCO associe: arrêt du tabac (facteur principal du déclin du VEMS), vaccinations (covid-19, grippe, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, VRS si +65 ans), activité physique et réhabilitation respiratoire, prévention cardiovasculaire
@@ -199,6 +199,8 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
   Tabagisme, BPCO et maladies respiratoires.
 - Terrain  
   Tabagisme actif ou passif, cannabis, exposition professionnelle, exposition aux vapeurs et combustions (bois, charbon).
+- Traitements en cours  
+  À risque: gabapentine, prégabaline.
 - Symptômes  
   Toux, expectoration, dyspnée, sifflements, [fatigue](/tags/fatigue/), perte de poids, anorexie.  
   Évolution pondérale, appétit.
@@ -634,6 +636,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [CBIP. Gabapentine et prégabaline : risque d'exacerbations sévères de BPCO. Folia. 2024.](https://www.cbip.be/fr/articles/4425?folia=4409)
 - [Taichman DB, Drazen JM. Making Long-Term Oxygen Therapy Less Burdensome. N Engl J Med. 2024.](https://www.nejm.org/doi/10.1056/NEJMe2410129)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [HAS, SPILF, SPLF. Choix et durées d'antibiothérapie dans les exacerbations aiguës de bronchopneumopathie chronique obstructive (EABPCO). 2024.](https://www.has-sante.fr/jcms/p_3528903/fr/choix-et-durees-d-antibiotherapie-dans-les-exacerbations-aigues-de-bronchopneumopathie-chronique-obstructive-eabpco)

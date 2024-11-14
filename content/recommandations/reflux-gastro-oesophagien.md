@@ -340,6 +340,7 @@ Favorisée par l'obésité et une hernie hiatale.
 ### Bibliographie en attente
 
 - [HAS. Reflux gastro-œsophagien chez l'enfant de moins d'un an : définitions, prise en charge et pertinence des traitements pharmacologiques. 2024.](https://www.has-sante.fr/jcms/p_3423859/fr/reflux-gastro-oesophagien-chez-l-enfant-de-moins-d-un-an-definitions-prise-en-charge-et-pertinence-des-traitements-pharmacologiques)
+- [Chevalier I, et al; Société Canadienne de Pédiatrie. La prise en charge médicale du reflux gastro-œsophagien chez les nourrissons en santé. 2022.](https://cps.ca/fr/documents/position/reflux-gastro-sophagien-chez-les-nourrissons-en-sante)
 - [Zerbib F. Prise en charge du reflux gastro-oesophagien. Conseil de pratique. SNFGE, GFNG. 2018. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp021-2018zerbib_cp_rgo_revu_2018_plus_qcm_3_0.pdf)
 - [Fass R. Gastroesophageal Reflux Disease. N Engl J Med. 2022.](https://pubmed.ncbi.nlm.nih.gov/36170502/)
 - {{< references/college-gastro >}}

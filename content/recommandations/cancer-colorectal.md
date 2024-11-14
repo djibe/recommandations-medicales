@@ -245,9 +245,9 @@ Le kit du dépistage du cancer du côlon peut être remis par le médecin, retir
   - Sans invitation sur son compte *Ameli* (via courrier en son absence), le patient contacte sa CPAM
 - En Ile-de-France, avec ou sans invitation par son pharmacien (*NeonetIDF*)
 
-#### Pour en savoir plus : le test immunologique fécal (FIT)
+#### Pour en savoir plus: le test immunologique fécal (FIT)
 
-Le test immunologique fécal (TIF) remplace le test *Hemoccult®*. Il est performant (se 70%, spe 96-98%), fiable, gratuit et simple avec un seul prélèvement de selles tous les 2 ans. Le même rythme de suivi est préconisé par la [Commission Européenne](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562).
+Le test immunologique fécal (TIF) remplace le test *Hemoccult®*. Il est performant (se 70%, spe 96-98%, [meilleur coût/efficacité](https://www.acpjournals.org/doi/10.7326/ANNALS-24-00910)), fiable, gratuit et simple avec un seul prélèvement de selles tous les 2 ans. Le même rythme de suivi est préconisé par la [Commission Européenne](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562).
 
 **4% des tests sont positifs, nécessitant une coloscopie de confirmation dans les 31 jours** (*SFED 2019*).  
 En cas de TIF positif, la coloscopie découvre un cancer pour 8% et un adénome avancé chez 40% des sujets: << détecté tôt, un cancer colorectal peut se guérir dans 9 cas sur 10 >> -- *INCa 2020*
@@ -273,7 +273,7 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 | Patient | Début surveillance | Population | Suivi et rythme |
 |---|---|---|---|
 | Antécédent personnel d'adénome<br>(SFED 2021) | Après résection | <strong>Risque élevé:</strong><br>- ≥ 5 adénomes<br>- 1 adénome ≥ 10 mm ou en DHG<br>- ≥ 1 PF | Coloscopie à 3 ans |
-| | | <strong>Risque faible:</strong><br>1-2 adénome < 10 mm en DBG | Cs de prévention à 5 ans<br>+ coloscopie sous 7-10 ans<br>ou reprise FIT à 5 ans |
+| | | <strong>Risque faible:</strong><br>1-2 adénome < 10 mm en DBG | Cs de prévention à 5 ans<br>+ coloscopie sous 7-10 ans<br>ou reprise TIF à 5 ans |
 | | | <strong>Risque faible:</strong><br>3-4 adénomes < 10 mm en DBG<br>PF < 10 mm sans dysplasie | Coloscopie à 5 ans |
 | Antécédent personnel de CCR<br>sporadique (SFED 2021) | Après résection |  | Coloscopie à 1 an<br>(sous 6 mois si incomplète)<br>puis intervalle de 3 ans<br>et encore 5 ans (selon polypes) |
 | Antécédent familial 1^er^ degré de CCR<br>ou d'adénome avancé > 10 mm | À partir de 45 ans<br>ou 10 ans avant l'âge<br>de diagnostic du<br>cas index |  | Coloscopie tous les 5 ans |

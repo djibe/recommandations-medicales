@@ -107,16 +107,14 @@ Classement composite d'après *LesNumerique*, *01Net* et autres, par ordre de qu
 
 ### Claviers sans fil
 
-- [Logitech MX Keys - 100€](https://ledenicheur.fr/product.php?p=5184669)
+- [Logitech MX Keys S - 110€](https://www.idealo.fr/prix/202836425/logitech-mx-keys-s-fr-graphite.html)
 - [Logitech Wireless Illuminated Keyboard K800 - 100€](https://ledenicheur.fr/product.php?p=3334273)
 {.list-group}
 
 ### Souris
 
-- [Logitech MX Master 3S - 100€ (grandes mains)](https://ledenicheur.fr/product.php?p=6496148)
-- [Logitech MX Master 3 - 150€ (grandes mains)](https://ledenicheur.fr/product.php?p=5184666)
-- [Razer Pro Click - 100€](https://ledenicheur.fr/product.php?p=5542256)
-- [Logitech MX Anywhere 3 - 60€ (petites mains)](https://ledenicheur.fr/product.php?p=5542303)
+- [Logitech MX Master 3S - 90€ (grandes mains)](https://www.idealo.fr/prix/201968115/logitech-mx-master-3s-graphite.html)
+- [Logitech MX Anywhere 3S - 66€ (petites mains)](https://www.idealo.fr/prix/202837261/logitech-mx-anywhere-3s-graphite.html)
 - [Logitech MX Anywhere 2S - 55€ (petites mains)](https://ledenicheur.fr/product.php?p=4354037)
 - [Steelseries Rival 3 Wireless - 40€](https://ledenicheur.fr/product.php?p=5576780)
 - [Razer Pro Click Mini - 80€ (petites mains)](https://ledenicheur.fr/product.php?p=5935454)
@@ -128,6 +126,7 @@ Souris ergonomiques (par 01Net): [Logitech Lift (60 €)](https://ledenicheur.fr
 
 ### Ensembles clavier-souris
 
+- [Logitech Mx Keys S Combo - 190€](https://www.idealo.fr/prix/202842126/logitech-mx-keys-s-combo-fr.html)
 - [Cherry DW 9100 Slim - 90€ (aussi en gris)](https://ledenicheur.fr/product.php?p=5937326)
 - [Logitech MK850 - 90€](https://ledenicheur.fr/product.php?p=4137179)
 - [Logitech MK470 - 50€](https://ledenicheur.fr/product.php?p=5205505)

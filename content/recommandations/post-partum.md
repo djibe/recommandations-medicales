@@ -179,12 +179,14 @@ La consultation post natale doit avoir lieu dans les 6-8 semaines après l'accou
 La rééducation périnéale n'est pas efficace sur le long terme. Les exercices devront être répétés si besoin.
 {.alert .alert-info}
 
-La rééducation périnéale est réalisée par une sage-femme ou un kinésithérapeute et est possible à partir de 2 mois après l'accouchement si:
+La rééducation périnéale est réalisée par une sage-femme ou un kinésithérapeute à partir de 2 mois après l'accouchement si:
 
 - L'[incontinence urinaire]({{< relref "incontinence-urinaire-femme.md" >}}) **persiste à 3 mois** (pas avant 2 mois)
 - [Incontinence anale]({{< relref "incontinence-fecale.md" >}})
 
 La rééducation périnéale ne permet pas de traiter un [prolapsus]({{< relref "prolapsus-genital-femme.md" >}}) ou des dyspareunies.
+
+10 séances de rééducation sont remboursées à 100% dans les 3 ans, à 70% au-delà. (*[ONSSF](https://www.onssf.org/?view=article&id=383:jusqua-quand-la-reeducation-est-elle-prise-en-charge-par-lassurance-maternite&catid=47)*)
 
 {{% /collapse %}}
 {{%sources%}}

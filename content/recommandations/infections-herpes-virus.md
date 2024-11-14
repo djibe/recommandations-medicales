@@ -295,6 +295,7 @@ Pour en savoir plus, les critères d'hospitalisation de la kératite herpétique
 
 - [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-168.pdf)
 - Prescrire Redaction. Herpès labial chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2023.
+- [US Preventive Services Task Force. Serologic Screening for Genital Herpes Infection: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2801311)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
 - [CNGOF. Prévention et prise en charge de l'infection herpétique au cours de la grossesse et de l'accouchement. 2017. (PDF)](https://cngof.fr/app/uploads/2023/06/RPC-CNGOF-herpes-grossesse-2017.pdf)
 - [Milpied B, et al; SFD. Herpès génital. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/herpes-genital-3ff33588a8c22f5d64a5a5a9855b3f2b.pdf)
@@ -304,6 +305,7 @@ Pour en savoir plus, les critères d'hospitalisation de la kératite herpétique
 
 ### Bibliographie en attente
 
-[Syndicat National des Ophtalmologistes de France (SNOF). Herpès oculaire.](https://www.snof.org/encyclopedie/herp%C3%A8s-oculaire)
+- [Johnston C, Wald A. Genital Herpes. JAMA. 2024. (payant)](https://jamanetwork.com/journals/jama/article-abstract/2822474)
+- [Syndicat National des Ophtalmologistes de France (SNOF). Herpès oculaire.](https://www.snof.org/encyclopedie/herp%C3%A8s-oculaire)
 
 {{%/sources%}}

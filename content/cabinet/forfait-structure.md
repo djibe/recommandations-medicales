@@ -82,7 +82,7 @@ La rémunération dépend du taux de VSM complétés (au 30 juin 2024) pour les 
 
 Il est **majoré** de 20 % si plus du tiers des documents sont déposés sous forme structurée (dépendant du logiciel utilisé).
 
-Il est également pondéré en fonction de la **taille de la patientèle** (référence de 800 patients selon la patientèle de référence (article 27.3) utilisée pour la calcul de la ROSP).
+Il est également pondéré en fonction de la **taille de la patientèle** (référence de 800 patients selon la [patientèle de référence (article 27.3)](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037439142) utilisée pour la calcul de la ROSP).
 
 > << Le nombre de points attribués au médecin est défini pour une patientèle moyenne de 800 patients pour un médecin traitant des patients de seize ans et plus, 600 patients pour un médecin traitant des patients âgés de moins de 16 ans >> -- *Article 27.3 de la Convention médicale 2016*
 

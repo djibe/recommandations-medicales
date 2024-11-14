@@ -250,6 +250,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Dubois B, et al. Alzheimer Disease as a Clinical-Biological Construct-An International Working Group Recommendation. JAMA Neurol. 2024.](https://jamanetwork.com/journals/jamaneurology/article-abstract/2825806)
 - [Livingston G, et al. Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. Lancet. 2024.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01296-0/abstract)
 - [Fondation Médéric Alzheimer. Interventions non médicamenteuses et maladie d'Alzheimer. 2024.](https://www.fondation-mederic-alzheimer.org/news/les-inm-une-priorite-pour-laccompagnement-la-fondation-mederic-alzheimer-enrichit-son-guide-pratique-dedie/)
 - [Reuben DB et al. Dementia Prevention and Treatment: A Narrative Review. JAMA Intern Med. 2024.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2815813)

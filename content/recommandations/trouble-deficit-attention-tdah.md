@@ -1,7 +1,7 @@
 +++
 id = "0190e8d6-72f9-7848-a164-b14b48a25242"
 title = "Trouble déficit de l'attention avec ou sans hyperactivité (TDAH)"
-titleSeo = "Trouble déficit de l'attention avec hyperactivité TDAH"
+titleSeo = "TDAH (Trouble déficit de l'attention avec hyperactivité)"
 prefix = "le "
 description = "Recommandations pour le diagnostic et la prise en charge Trouble déficit de l'attention avec ou sans hyperactivité (TDAH). Avis spécialisé, psychoéducation, traitement par méthylphénidate LP"
 synonyms = []
@@ -23,7 +23,7 @@ todo = "liens > flow | PCO, ALD ?, https://www.bmj.com/content/384/bmj-2022-0734
 
 {{%article-summary%}}
 
-- Le trouble chronique du déficit de l'attention avec ou sans hyperactivité (TDAH) atteint 5% des enfants (2/3 de garçons) et 3% des adultes avec des complications médicales, des conduites à risque avec conséquences sociales importantes
+- Le trouble chronique du déficit de l'attention avec ou sans hyperactivité (TDAH) atteint 5% des enfants (2/3 de garçons) et 3% des adultes avec des complications médicales, des conduites à risque ayant des conséquences sociales importantes
 - Le trouble débute avant 12 ans et persiste plus de 6 mois, avec une hyperactivité ou une inattention retentissant sur l'environnement du sujet (au moins 2 parmi: familial, scolaire, extra-scolaire, amical)
 - L'examen clinique en présence des parents et des observations des enseignants est primordial pour étayer les antécédents, les symptômes, le cadre de vie, les plaintes et identifier les symptômes qui relèvent de comorbidités ou de diagnostics différentiels
 - Des échelles permettent de guide pour les entretiens avec l'entourage ([ADHD-RS](https://tdahbe.wordpress.com/wp-content/uploads/2013/02/adhd-rs-iv-cotation.pdf), [SNAP IV](https://afpa.org/outil/outil-de-depistage-tdah-premier-recours/)) mais la suspicion doit faire adresser l'enfant/adulte au spécialiste (pédiatre, psychiatre, neurologue)
