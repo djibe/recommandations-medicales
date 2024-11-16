@@ -18,7 +18,7 @@ sctid = "406506008"
 icd10 = ["F90.0"]
 image = true
 imageSrc = "Trouble déficit de l'attention avec ou sans hyperactivité (TDAH). studiogstock / Freepik"
-todo = "liens > flow | PCO, ALD ?, https://www.bmj.com/content/384/bmj-2022-073448"
+todo = "SEO, flow | PCO, ALD ?, https://www.bmj.com/content/384/bmj-2022-073448"
 +++
 
 {{%article-summary%}}

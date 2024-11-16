@@ -71,7 +71,7 @@ WSES
 
 ### Diagnostics différentiels de l'appendicite aiguë
 
-- Gastro-entérite aiguë
+- [Gastro-entérite aiguë]({{< relref "diarrhee-aigue-nourrisson.md" >}})
 - Maladie inflammatoire chronique de l'intestin (MICI)
 - [Cholécystite aiguë]({{< relref "cholecystite-aigue.md" >}})
 - Garçon: torsion du testicule

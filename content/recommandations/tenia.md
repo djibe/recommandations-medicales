@@ -47,7 +47,7 @@ CMIT
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le tableau clinique est souvent fruste. Signes et symptômes des ténias ou tæniasis:
+Le tableau clinique est souvent fruste. Signes et symptômes des ténias (ou tæniasis):
 
 - Infection cosmopolite
 - Consommation de viande contaminée (bovin, porcin), viande crue à risque
@@ -56,7 +56,7 @@ Le tableau clinique est souvent fruste. Signes et symptômes des ténias ou tæn
 - Signes digestifs
   - Anorexie ou [boulimie]({{< relref "boulimie-hyperphagie.md" >}})
   - Nausées ou vomissements
-  - Troubles du transit avec alternance de diarrhées et [constipation]({{< relref "constipation.md" >}})
+  - Troubles du transit avec alternance de [diarrhées]({{< relref "diarrhee-aigue-nourrisson.md" >}}) et [constipation]({{< relref "constipation.md" >}})
   - Ballonnements
   - Douleurs épigastriques ou pseudo-appendiculaires
   - Prurit anal

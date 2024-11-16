@@ -461,7 +461,7 @@ Choix du traitement:
 - Romosozumab  
   {{%class "x"%}}Femme ménopausée < 75 ans avec antécédent de fracture sévère sans risque cardiovasculaire{{%/class%}}
 - Traitement hormonal de la ménopause (THM)  
-  {{%class "x"%}}Entre 50 et 60 ans si syndrome climatérique invalidant{{%/class%}}
+  {{%class "x"%}}Entre 50 et 60 ans si syndrome climatérique invalidant (SFR/GRIO 2018).{{%/class%}}
 
 Le dénosumab est utilisé en 2^e^ intention en relais des bisphosphonates.
 

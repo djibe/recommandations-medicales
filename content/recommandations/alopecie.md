@@ -156,7 +156,7 @@ Prise en charge de l'alopécie androgénétique de l'homme (par efficacité déc
 
 - Finastéride 1 mg/j + [info patient ANSM (PDF)](https://ansm.sante.fr/uploads/2022/11/14/20221114-finasteride-fichepatient-v13102022.pdf)  
   Possible de 18 à 41 ans avec **risques psychiatriques**, sexuels, gynécomastie à surveiller et baisse du PSA.
-- Si échec finastéride à 12 mois: dutastéride 0,5 mg x 1/j, sinon au long cours
+- Si échec finastéride à 12 mois: dutastéride 0,5 mg x 1/j (mêmes précautions que finastéride), sinon au long cours
 - [Minoxidil 5%](https://base-donnees-publique.medicaments.gouv.fr/extrait.php?specid=62182563) 1 mL ou 1/2 bouchon x 2/j
 - [Minoxidil 2%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68477734&typedoc=R) 1 mL ou 1/2 bouchon x 2/j
 - Greffe capillaire

@@ -327,7 +327,7 @@ Le questionnement sur le suicide ne renforce pas le risque suicidaire.
 
 Numéro national de prévention du suicide (24/7 et section médecin): {{<phone>}}3114{{</phone>}}.
 
-Sites et hotlines: [SOS Amitié France](https://www.sos-amitie.com), [SOS suicide Phénix](https://sos-suicide-phenix.org), [Suicide Écoute](https://www.suicide-ecoute.fr), [Phare-Enfants-Parents](https://www.phare.org)
+Sites et hotlines: [SOS Amitié France](https://www.sos-amitie.com) ({{<phone>}}0972394050{{</phone>}} 24h/24), [SOS suicide Phénix](https://sos-suicide-phenix.org) ({{<phone>}}0140444645{{</phone>}} 13-23h), [Suicide Écoute](https://www.suicide-ecoute.fr) ({{<phone>}}0145394000{{</phone>}} 24h/24), [Phare-Enfants-Parents](https://www.phare.org) ({{<phone>}}0143460062{{</phone>}} lun-ven 10-17h)
 
 ### Facteurs de risque suicidaire
 

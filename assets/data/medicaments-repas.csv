@@ -2,6 +2,7 @@ Substance;Repas;Délai;Source
 Abiratérone (Zytiga);Avant ou après;À heure fixe, au moins 1h avant ou 2h après le repas;BDPM
 Acide alendronique;Avant;Matin: au moins 30 minutes avec un grand verre d’eau du robinet;BDPM
 Afatinib (Giotrif);Avant ou après;À heure fixe, à jeun au moins 3h avant et 1h après;BDPM
+Alfusozine LP;Après;Immédiatement après;BDPM
 Altrétamine (Hexastat);Après;À heure fixe;BDPM
 Amoxicilline-clavulanique;Pendant;Début de repas;BDPM
 Asciminib (Scemblix);Avant ou après;À intervalle de 12 heures, au moins 1h avant ou 2h après le repas;BDPM
@@ -19,6 +20,7 @@ Chlortalidone;Pendant;Le matin;BDPM
 Céfalexine;Avant ou après;;BDPM
 Céfuroxime;Pendant;Après le repas;BDPM
 Céritinib (Zykadia);Pendant;À heure fixe;BDPM
+Cholécalciférol (vitamine D);Pendant;Car lipophile;Annweiler 2018
 Cyclophosphamide (Endoxan);Avant;À heure fixe le matin à jeun avec un grand verre d'eau, puis reprendre un 2e verre juste après;BDPM
 Dabrafénib (Tafinlar);Avant ou après;À heure fixe, au moins 1h avant ou 2h après le repas;BDPM
 Dexaméthasone (Neofordex);Pendant;Le matin;BDPM
@@ -62,6 +64,7 @@ Pancréatine (Créon);Pendant;ou juste après;BDPM
 Pazopanib (Votrient);Avant ou après;À heure fixe, au moins 1h avant ou 2h après le repas;BDPM
 Régorafénib (Stivarga);Après;À heure fixe après repas peu gras;BDPM
 Rifampicine;Avant;Au moins 30 minutes;BDPM
+Silodosine;Pendant;;BDPM
 Sonidégib (Odomzo);Avant ou après;À heure fixe, à jeun, au moins 1h avant ou 2h après;BDPM
 Sorafénib (Nexavar);Avant ou après;À heure fixe, à jeun, au moins 1h avant ou 2h après ou avec un repas peu gras;BDPM
 Stromectol;Avant;Avec de l’eau;BDPM

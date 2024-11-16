@@ -146,5 +146,6 @@ Test de réintroduction.
 - <http://www.medqual.fr/images/PRO_2018/FORMATIONS/Elearning/Correction-Test-5.pdf>
 - <http://medqual.fr/images/slideshow/2021-Fiche-patient-Allergie-penicilline_1.pdf>
 - <http://medqual.fr/images/PRO_2018/LA/LA-193-JUIN-2021.pdf>
+- <https://minerva-ebp.be/FR/Article/2405>
 
 {{%/sources%}}

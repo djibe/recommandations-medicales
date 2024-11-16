@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-18T18:48:00+02:00"
 publishdate = "2021-04-21"
-lastmod = "2024-05-21"
+lastmod = "2024-11-15"
 specialites = ["dermatologie"]
 annees = "2023"
 sources = ["Collèges", "CSHP", "SFD"]
@@ -29,6 +29,7 @@ modele = true
 - Examen et prise en charge de l'entourage d'un cas de pédiculose
 - Prise en charge des poux avec traitement par diméticone lotion appliquée à J1 et J7, peigne anti-poux et décontamination des linge, literie et accessoires
 - Prévenir l'école d'un cas de pédiculose mais sans éviction obligatoire
+- Les poux de cils sont ceux de la phtyriase pubienne et donc considérés comme infection sexuellement transmissible 
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -43,8 +44,8 @@ Autres pédiculoses:
 
 - Poux de corps: *Pediculus humanus corporis*  
   Peuvent transmettre des infections.
-- Poux du pubis: *phtiriase* par *Phtirus pubis* (ou *Pediculus inguinalis* ou *Phtirius inguinalis* ou communément << morpions >>)  
-  [Infection sexuellement transmissible (IST)](/tags/ist/).
+- Poux du pubis et des cils: *phtiriase* par *Phtirus pubis* (ou *Pediculus inguinalis* ou *Phtirius inguinalis* ou communément << morpions >>)  
+  [Infection sexuellement transmissible (IST)](/tags/ist/) voire contamination par des vêtements ou une literie infectée.
 
 ### Abréviations
 
@@ -61,7 +62,7 @@ CSHP
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic de pédiculose est clinique par visualisation de lentes vivantes à la racine des cheveux
+Le diagnostic de pédiculose est clinique par visualisation de lentes vivantes à la racine des cheveux.
 {.alert .alert-info}
 
 - Symptômes de pédiculose
@@ -75,6 +76,8 @@ Le diagnostic de pédiculose est clinique par visualisation de lentes vivantes �
 - Poux de corps  
   Dos, ceinture et racine des membres. Vivent dans les vêtements (coutures +++).
 - Contage familial ou scolaire
+
+La phtiriase pubienne (ou morpions) et des cils est une infection sexuellement transmissible ([IST](/tags/ist/)).
 
 {{< card-link-external title="Photos de poux" url="https://dermnetnz.org/topics/head-lice" subtitle="par DermNet">}}
 
@@ -132,11 +135,15 @@ Nota bene:
 - Ne jamais utiliser les shampooings
 - L'ivermectine orale est réservée au dermatologue
 
-### Prise en charge d'une phtirose pubienne
+### Prise en charge d'une phtiriase pubienne
+
+Prise en charge de la phtiriase pubienne et des cils:
 
 - Perméthrine (Topiscab® 5% crème) pendant 1 minute puis savonnage. Renouveler à J8
 - Examiner et traiter simultanément l'entourage atteint
-- Dépistage des [infections sexuellement transmissibles (IST)](/tags/ist/)
+- Dépistage des [infections sexuellement transmissibles (IST)](/tags/ist/) ou violences sexuelles chez l'enfant
+
+En cas de suspicion d'atteinte des cils: avis ophtalmologique.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge des poux" "show" %}}
@@ -158,6 +165,7 @@ graph TB
 - [Jegou-Penouil MH. Les poux. Dermato-Info. 02/12/2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/les-poux)
 - [Chosidow O; Société Française de Dermatologie. Prise en charge de la pédiculose du cuir chevelu en 2019 en France. Mise au point. 2019. (PDF)](https://www.sfdermato.org/media/pdf/actualite/note-pediculos-sfd-gridist-51283d08cd07c9ac26310a6d2669ff30.pdf)
 - [Conseil Supérieur d'Hygiène Publique de France. Avis relatif à la conduite à tenir devant un sujet atteint de pédiculose du cuir chevelu. 27/06/2003. (PDF)](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=a_mt_270603_pediculose.pdf)
+- [Syndicat National des Ophtalmologistes de France (SNOF). Des poux dans les cils - Phtiriase.](https://www.snof.org/encyclopedie/des-poux-dans-les-cils)
 
 ### Bibliographie pour en savoir plus
 

@@ -66,7 +66,7 @@ Traitement sûr (*[Lesko 1995](https://pubmed.ncbi.nlm.nih.gov/7884951/)*). Clas
 - [Varicelle]({{< relref "varicelle.md" >}}) (même si aucun lien prouvé)
 - Infection pulmonaire ou ORL **sévère**, cutanées ou des tissus mous
 - Risque hémorragique ou trouble de la coagulation
-- Risque de déshydratation (diarrhées ...)
+- Risque de déshydratation ([diarrhées]({{< relref "diarrhee-aigue-nourrisson.md" >}}), canicule ...)
 
 {{% /collapse %}}
 {{%collapse "Antalgie palier 2" %}}

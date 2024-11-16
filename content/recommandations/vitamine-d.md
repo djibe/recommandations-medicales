@@ -8,7 +8,7 @@ synonyms = ["Cholécalciferol vitamine D3", "ergocalciférol vitamine D2"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-15T00:28:29+02:00"
 publishdate = "2020-04-15"
-lastmod = "2024-11-10"
+lastmod = "2024-11-14"
 specialites = ["endocrinologie", "pediatrie", "therapeutique"]
 annees = "2022"
 sources = ["SFP", "HAS", "SFR"]
@@ -20,26 +20,25 @@ atc = "A11CC"
 image = true
 imageSrc = "La vitamine D. pch.vector / Freepik"
 flowchart = true
-todo = "rankok"
+todo = "rankok | questionnaire VDSP vitamineD 2018 src23 et src25, autre quest src26, formule calcul Zitterman src72"
 +++
 
 {{%article-summary%}}
 
-- Supplémentation en vitamine D de 400 à 800 UI/j toute la croissance
-- Taux sérique cible en vitamine D pour un adulte: +50 nmol/L
-- Cible de vitamine D supérieure à 75 nmol/L à partir de 65 ans ou en cas de pathologie à risque, de chutes
-- Calcium: {{< modal-btn modal-calcium-enfant >}}assurer les besoins des enfants{{< /modal-btn >}}, {{< modal-btn modal-calcium-cible >}}apports quotidiens recommandés{{< /modal-btn >}} et {{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}
+- La vitamine D est une hormone essentielle du métabolisme phosphocalcique étant également effectrice sur d'autres organes comme le système nerveux et le côlon et mieux absorbée pendant les repas (lipophile)
+- Les enfants nécessitent une supplémentation quotidienne en vitamine D de 400 à 800 UI durant toute leur croissance
+- Taux sérique cible en vitamine D pour un adulte: 50 nmol/L et plus
+- Cible de vitamine D supérieure à 75 nmol/L à partir de 65 ans ou en cas de pathologie à risque ou de chutes. Protocole de correction systématique et apports au long cours. Dosage initial de la vitamine D uniquement pour certaines pathologies
+- Une [supplémentation en calcium]({{< relref "apports-calcium.md" >}}) est nécessaire en cas de comorbidités
 
-Articles liés: [apports en calcium]({{< relref "apports-calcium.md" >}}), [ostéoporose post-ménopausique]({{< relref "osteoporose.md" >}}) ou [masculine]({{< relref "osteoporose-masculine.md" >}})
+Articles liés: [ostéoporose post-ménopausique]({{< relref "osteoporose.md" >}}) ou [masculine]({{< relref "osteoporose-masculine.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Vitamine D
-: La vitamine D participe à la régulation du métabolisme phosphocalcique et prévient: **rachitisme, ostéomalacie, douleurs musculaires diffuses**.  
-L'unité internationale est le **nmol/L**.
-: **Bénéfices de la supplémentation en vitamine D**: elle réduit les fractures non vertébrales après 65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 75 nmol/L (30 ng/mL).
-: Aliments riches en vitamine D: poissons gras, produits laitiers enrichis en vitamine D.
+: La vitamine D participe à la régulation du métabolisme phosphocalcique et prévient: **rachitisme, ostéomalacie, douleurs musculaires diffuses**. Elle a également d'autres effets tissulaires. L'unité internationale est le **nmol/L**.
+: **Bénéfices de la supplémentation en vitamine D**: réduction des fractures non vertébrales après 65 ans, réduction des chutes des +70 ans quand les taux sériques sont supérieurs à 75 nmol/L (30 ng/mL).
 : Selon l'*Inserm*, une carence en vitamine D serait fortement liée au développement de la [maladie d'Alzheimer]({{< relref "maladie-alzheimer.md" >}}). D'autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés (*[Féart 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)*).
 
 Carence en vitamine D de l'adulte et de l'enfant
@@ -54,12 +53,10 @@ Ne pas supplémenter au-delà 150 nmol/L.
 
 ### Épidémiologie sur la vitamine D en France
 
-Principaux aliments riches en vitamine D: poissons et produits laitiers (*Anses*).
-
 - **Déficit en vitamine D**: 75% des adultes et 70% des enfants
 - **Carence en vitamine D**: 7% des adultes, 13% des adolescents et 4% des enfants
 
-> -- *Étude Esteban (Santé Publique France)*
+> -- *Étude ESTEBAN (Santé Publique France)*
 
 ### Abréviations
 
@@ -70,7 +67,7 @@ calcitriol
 : vitamine D active (1, 25 OH vitamine D)
 
 HAS
-: Haute autorité de santé
+: Haute Autorité de Santé
 
 IRC
 : insuffisance rénale chronique
@@ -89,7 +86,7 @@ vitamine D3
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Conversion d'unités de la vitamine D" %}}
+{{%collapse "Conversion des unités de la vitamine D" %}}
 
 Convertir dans les 2 sens les unités de mesure de la vitamine D: nmol/L (unités internationales) et ng/mL.
 
@@ -100,24 +97,25 @@ Convertir dans les 2 sens les unités de mesure de la vitamine D: nmol/L (unité
   <input type="number" style="width:68px" class="form-alternative" id="ngInput" value="20" oninput="nmolInput.value = Math.round(this.value * 2.496)">
 </div>
 
-Vitamine D3 (cholécalciférol): 1 µg = 40 UI
+> Vitamine D3 (cholécalciférol): 1 µg = 40 UI
 
 {{% /collapse %}}
 {{%collapse "Facteurs de risque de carence" %}}
 
-### Personnes à risque de complications par carence en vitamine D
+### Sujets à risque de complications par carence en vitamine D
 
 - Iatrogène  
-  [Corticoïdes au long cours]({{< relref "corticoides.md" >}}), traitements anti-épileptiques, anti-aromatases, analogues de la GnRH.
-- Maladies endocriniennes et dermatologiques  
-  Hyperparathyroïdie ...
+  [Corticoïdes au long cours]({{< relref "corticoides.md" >}}), traitements anti-épileptiques, [anti-aromatases]({{< relref "cancer-sein.md" >}}), analogues de la GnRH.
+- Maladies endocriniennes et dermatologiques: hyperparathyroïdie ...
 - Malabsorption, maldigestion, cholestase, insuffisance hépatique  
   [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), mucoviscidose, cholangites, [chirurgie bariatrique]({{< relref "obesite-adulte.md" >}}).
-- [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}), syndrome néphrotique
+- [Maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}), syndrome néphrotique
 - Anorexie mentale
 - Sujets âgés à {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}}
 
-### Trois objectifs pour les personnes à risque
+**NB.** À partir de 65 ans (sauf exposition solaire et bonne santé), le risque d'hypovitaminose est marqué. Correction de 300.000 UI sur 3 mois et protocole d'entretien sans dosage.
+
+### Trois objectifs pour les personnes à risque de carence
 
 1. Taux ≥ 75 nmol/L avec dosage initial
 2. Protocole de correction rapide
@@ -125,6 +123,9 @@ Vitamine D3 (cholécalciférol): 1 µg = 40 UI
 
 {{% /collapse %}}
 {{%collapse "Apports cibles en vitamine D selon l'âge" %}}
+
+> Favoriser les apports naturels en vitamine D: activités de plein air, exposition solaire quotidienne de 30 minutes des bras et jambes (chez l'adulte, sans crème), alimentation variée (dont poissons gras). -- *Annweiler et al 2018*
+{.alert .alert-info}
 
 La supplémentation en vitamine D est prescrite au long cours sans dosage de la vitamine D sauf chez les sujets à risque mentionnés plus haut (voir *Patients à risque*).
 
@@ -178,8 +179,8 @@ et aussi
 
 En dehors des 6 indications (+ suppléments), préciser sur l'ordonnance la raison.
 
-Pour un dosage de complaisance, préciser **<< Non remboursable >>** sur la prescription (9,45 €, code B35).  
-{{%class%}}36 millions d'euros de dosages de vitamine D en 2020{{%/class %}}
+Pour un dosage de complaisance, préciser **<< NR >>** à côté du dosage (9,45 €, code B35).  
+{{%class%}}36 millions d'euros de dosages de vitamine D en 2020.{{%/class %}}
 
 {{% /collapse %}}
 {{%collapse "Protocoles de correction d'une carence en vitamine D" %}}
@@ -189,15 +190,17 @@ Pour un dosage de complaisance, préciser **<< Non remboursable >>** sur la pres
 Posologie selon le résultat du dosage de vitamine D:
 
 - Taux sériques de 50 à 75 nmol/L (30 ng/mL)  
-  Forte dose 50.000 UI/semaine pendant 4 semaines.
+  50.000 UI/semaine pendant 4 semaines.
 - Taux sériques < 50 nmol/L (20 ng/mL)  
   50.000 UI/semaine pendant 8 semaines.
 
 Puis enchaîner sur le [protocole d'entretien](#protocole-dentretien-après-carence-en-vitamine-d). Utiliser des ampoules de 100.000 UI en cas de nécessité d'une 2^e^ correction.
 
-> -- Protocole de correction d'une carence en vitamine D selon *Souberbielle JC 2019*
+> -- Protocole de correction d'une hypovitaminose D selon *Souberbielle et al 2019*
 
 ### Protocole d'entretien après carence en vitamine D
+
+En l'absence d'entretien, la carence en vitamine D récidive sous 6 mois.
 
 #### Entretien mensuel pendant 3 à 6 mois
 
@@ -209,18 +212,16 @@ Nouveau dosage 1 semaine après la fin du traitement.
 
 #### Dosage et adaptation du protocole d'entretien
 
-Dose réajustée selon le nouveau résultat du dosage de vitamine D après 3 à 6 mois d'entretien:
+Dose réajustée selon le nouveau résultat du dosage de vitamine D après 3 à 6 mois d'entretien et **poursuivi à vie**:
 
 - Dosage < 75 nmol/L (30 ng/mL)  
   - 80 à 100.000 UI par mois
   - ou 50.000 UI/14j
   - pendant 3 à 6 mois
-- Dosage > 150 nmol/L (60 ng/mL)  
-  Espacer l'entretien à 50.000 UI tous les 2 mois.
-- Entre 75 et 150  
-  Conserver le rythme d'entretien.
+- Dosage > 150 nmol/L (60 ng/mL): espacer à 50.000 UI tous les 2 mois
+- Entre 75 et 150 nmol/L: conserver le rythme d'entretien
 
-> Protocole d'entretien après carence en vitamine D selon *Souberbielle JC 2019*
+> -- Protocole d'entretien après carence en vitamine D selon *Souberbielle et al 2019*
 
 Intensification de la supplémentation si:
 
@@ -234,9 +235,9 @@ Intensification de la supplémentation si:
 
 Aliments naturellement riches en vitamine D:
 
-- Poissons gras: hareng, sardine, saumon et maquereau
+- **Poissons gras:** hareng, sardine, saumon et maquereau
 - Certains champignons: girolles, cèpes et morilles
-- Produits laitiers enrichis en vitamine D
+- **Produits laitiers enrichis en vitamine D**
 - Jaune d'œuf
 - Chocolat noir
 - Céréales de petit déjeuner enrichis en vitamine D
@@ -244,30 +245,27 @@ Aliments naturellement riches en vitamine D:
 - Abats (notamment le foie)
 - Dans une moindre mesure: viande
 
-> -- *Anses*
+> -- *Anses* et [table Ciqual](https://ciqual.anses.fr/#/constituants/52100/vitamine-d-(%C2%B5g-100-g))
 
 {{% /collapse %}}
 {{%collapse "Spécialités de vitamine D disponibles" %}}
 
-### Spécialités de vitamine D3 (colécalciférol) par galénique
+La vitamine D est [prise pendant le repas]({{< relref "medicaments-prise-repas.md" >}}).
 
-Ampoule
-: Cholécalciférol 200, 100, 80 ou 50.000 UI
+### Spécialités de vitamine D3 (cholécalciférol) par galénique
 
-Capsule molle
-: Kipos® 100.000 UI, Uvecaps® 1000 UI ou 20.000 UI, Uvedose® 50.000 UI
+- Ampoule  
+  Cholécalciférol [50](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66236866&typedoc=R), 80, [100.000 UI](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61172819&typedoc=R) (200.000 UI à éviter).
+- Capsule molle  
+  Kipos® 100.000 UI, Uvecaps® 1000 UI/j ou 20.000 UI, Uvedose® 50.000 UI.
+- Goutte  
+  [Adrigyl®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66269026&typedoc=R) 333 UI/goutte, [ZymaD®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63902334&typedoc=R) 300 UI/goutte.
 
-Goutte
-: Adrigyl® 333 UI/goutte, ZymaD® 300 UI/goutte
-{.dl-inline}
-
-Spécialités avec calcium + vitamine D3 associées (prendre à distance des repas): Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.
+Spécialités avec calcium + vitamine D3 associés (prendre [à distance des repas]({{< relref "medicaments-prise-repas.md" >}})): Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.
 
 ### Spécialité de vitamine D2
 
-Stérogyl® 400 UI/gte
-
-Non recommandée.
+Stérogyl® 400 UI/gte (non recommandée).
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour la supplémentation en vitamine D" "show" %}}
@@ -277,13 +275,13 @@ graph TB
   apports[Objectifs d'apports<br>en vitamine D]
   style apports stroke:#4150f5, stroke-width:1px
     apports --> nourrisson("<b>0 - 2 ans</b><br>—<br>400-800 UI/j<br>soit ZymaD 2 gtes/j")
-    apports --> mineur("<b>2 - 18 ans</b><br>—<br>400-800 UI/j<br>—<br><b>À risque</b> (peau noire, obèse<br>aucune exposition, vegan):<br>800-1600 UI/j") -- Observance insuffisante --> alternative("50.000 UI/trimestre<br>ou 80-100.000 UI x2 l'hiver<br>—<br><b>À risque:</b> 50.000 UI/6 semaines<br>ou 80-100.000 UI/trimestre")
+    apports --> mineur("<b>2 - 18 ans</b><br>—<br>400-800 UI/j<br>—<br><b>À risque</b> (peau noire, obèse,<br>aucune exposition, vegan):<br>800-1600 UI/j") -- Observance insuffisante --> alternative("50.000 UI/trimestre<br>ou 80-100.000 UI x2 l'hiver<br>—<br><b>À risque:</b> 50.000 UI/6 semaines<br>ou 80-100.000 UI/trimestre")
     apports --> adulte("<b>Adulte</b><br>—<br>25OHD &gt; 50 nmol/L")
-      adulte --> 65("<b>+65 ans</b><br>—<br>25OHD &gt; 75 nmol/L")
-    apports --> risque("<b>Patient à risque</b><br>—<br>- Risque de chutes<br>- Ostéoporose<br>- Corticoïdes, aromatases...<br>- Hyperparathyroïdie<br>- Malabsorption<br>- Insuffisance rénale") --> intensif("- Dosage initial<br>- 25OHD &gt; 75 nmol/L<br>- Correction rapide<br>- Apports calciques &gt; 1 g/j")
+      adulte --> 65("<b>+65 ans</b><br>—<br>25OHD &gt; 75 nmol/L<br>Correction probabiliste<br>100.000 UI/mois 3 mois<br>puis entretien")
+    apports --> risque("<b>Patient à risque</b><br>—<br>- Risque de chutes<br>- Ostéoporose<br>- Corticoïdes, aromatases...<br>- Hyperparathyroïdie<br>- Malabsorption<br>- Insuffisance rénale") --> intensif("- Dosage initial<br>- 25OHD &gt; 75 nmol/L<br>- Correction rapide<br>puis entretien<br>- Apports calciques &gt; 1 g/j")
 {{< /mermaid >}}
 
-> Apports quotidiens préférés chez -18 ans: vitamine D2 (Stérogyl® 400 UI/gte) ou D3 (ZymaD® 300 UI/gte ou Adrigyl® 333 UI/gte). Sinon vitamine D3 en ampoule (*Bacchetta 2022*)  
+> Apports quotidiens préférés chez -18 ans: vitamine D2 (Stérogyl® 400 UI/gte) ou D3 (ZymaD® 300 UI/gte ou Adrigyl® 333 UI/gte). Sinon vitamine D3 en ampoule (*Bacchetta 2022*).  
 Ne pas utiliser d'autres formes de supplémentations.
 
 {{% /collapse %}}
@@ -296,12 +294,12 @@ Ne pas utiliser d'autres formes de supplémentations.
 - [Ameli. Dosage de la vitamine D. 29/12/2020.](https://www.ameli.fr/paris/laboratoire-danalyses-medicales/exercice-liberal/memos/dosage-vitamine)
 - [Souberbielle JC, et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d'ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 2019. (PDF)](https://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
 - [Esteban 2014-2016 – Chapitre dosages biologiques des vitamines et minéraux : pas de déficit important ou de carence à grande échelle](https://www.santepubliquefrance.fr/les-actualites/2019/esteban-2014-2016-chapitre-dosages-biologiques-des-vitamines-et-mineraux-pas-de-deficit-important-ou-de-carence-a-grande-echelle)
-- [Annweiler C. et al. Vitamine D chez l'adulte : mise au point sur le dosage et la supplémentation. Gériatrie et psychologie Neuropsychiatrie du Vieillissement. 2018.](https://www.jle.com/fr/revues/gpn/e-docs/vitamine_d_chez_ladulte_mise_au_point_sur_le_dosage_et_la_supplementation_311580/article.phtml)
-- [Briot K. et al. Actualisation 2018 des recommandations françaises du traitement de l'ostéoporose post-ménopausique. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S1169833018300504)
-- [Inserm. La vitamine D, une nouvelle piste contre la maladie d'Alzheimer ?. Mai 2017. (PDF)](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)
+- [Annweiler C, et al. Vitamine D chez l'adulte : mise au point sur le dosage et la supplémentation. Gériatrie et psychologie Neuropsychiatrie du Vieillissement. 2018.](https://www.jle.com/fr/revues/gpn/e-docs/vitamine_d_chez_ladulte_mise_au_point_sur_le_dosage_et_la_supplementation_311580/article.phtml)
+- [Briot K, et al. Actualisation 2018 des recommandations françaises du traitement de l'ostéoporose post-ménopausique. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S1169833018300504)
+- [Inserm. La vitamine D, une nouvelle piste contre la maladie d'Alzheimer ?. 2017.](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)
 - [HAS. Utilité clinique du dosage de la vitamine D. Octobre 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-02/utilite_clinique_du_dosage_de_la_vitamine_d_-_note_de_cadrage.pdf)
 - [Société Française de Pédiatrie. La Vitamine D : une vitamine toujours d'actualité chez l'enfant et l'adolescent. Mise au point par le Comité de nutrition de la Société française de pédiatrie. 2012. (PDF)](https://afpa.org/content/uploads/2017/07/Reco_VIT_D_VersionFR_VF.pdf)
-- [HAS. Guide du parcours de soins - Maladie rénale chronique de l'adulte. Février 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
+- [HAS. Maladie rénale chronique de l'adulte. 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
 
 ### Bibliographie en attente
 

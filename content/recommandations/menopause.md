@@ -637,6 +637,7 @@ Le traitement hormonal de la ménopause (THM):
 
 ### Bibliographie en attente
 
+- [NICE. Menopause: identification and management. 2024.](https://www.nice.org.uk/guidance/ng23/chapter/Recommendations)
 - [Crandall CJ et al. Management of Menopausal Symptoms: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2801054)
 - [Hocke C et al. Syndrome génito-urinaire de la ménopause (SGUM). RPC les femmes ménopausées du CNGOF et du GEMVi. Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000775)
 - [ACOG. Treatment of Urogenital Symptoms in Individuals With a History of Estrogen-dependent Breast Cancer. 2021.](https://www.acog.org/clinical/clinical-guidance/clinical-Consensus/articles/2021/12/Treatment-of-Urogenital-Symptoms-in-Individuals-With-a-History-of-Estrogen-dependent-Breast-Cancer)

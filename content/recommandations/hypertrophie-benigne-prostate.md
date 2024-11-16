@@ -236,7 +236,8 @@ Un alpha-1 bloquant peut être associé aux inhibiteurs de la 5α-réductase che
 
 ### Inhibiteurs de la 5-alpha-réductase (I5AR)
 
-Dutastéride 0,5 mg x 1/j au long cours
+Dutastéride 0,5 mg x 1/j au long cours  
+avec surveillance de signes psychiatriques.
 {.alert .alert-info}
 
 **Indication aux I5AR:** symptômes gênants et prostate +40mL.
