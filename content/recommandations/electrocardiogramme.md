@@ -66,8 +66,4 @@ Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ec
 - [EKG.Academy](https://ekg.academy/fr/exercices-entrainement-ecg)
 - [Dr Smith's ECG Blog](http://hqmeded-ecg.blogspot.com/)
 
-### Application sur l'ECG
-
-- [CardioSmart Heart Explorer (ACC)](https://play.google.com/store/apps/details?id=org.acc.csexplorer)
-
 {{% /collapse %}}

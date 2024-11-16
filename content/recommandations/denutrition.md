@@ -488,7 +488,7 @@ graph TB
 ### Bibliographie en attente
 
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Dénutrition. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/denutrition)
-- [Société Francophone de Nutrition Clinique et Métabolisme - Référentiels](https://www.sfncm.org/outils-education/recommandations/referentiels)
+- [Société Francophone de Nutrition Clinique et Métabolisme - Référentiels](https://www.sfncm.org/page/3007949-referentiels)
 
 {{%/sources%}}
 {{% modal title="Définition de la sarcopénie" id="modal-sarcopenie"%}}

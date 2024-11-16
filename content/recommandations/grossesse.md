@@ -267,7 +267,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 | Obésité      |                        ≥ 30 |                                                    5 - 9 |
 {{< /table >}}
 
-> *[Louvet et al; Société Francophone du Diabète (SFD). Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022.pdf)*
+> *[Louvet et al; Société Francophone du Diabète (SFD). Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022_v2.pdf)*
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}

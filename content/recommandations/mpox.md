@@ -32,7 +32,7 @@ flowchart = true
   - En l'absence de contact à risque ou si le clade (I ou II) du cas primaire n'est pas connu: RT-PCR MPXV en urgence sur 1 ou 2 lésions muqueuses
 - Diagnostic de Mpox: isolement strict avec prévention des surinfections des lésions, déclaration obligatoire et remise de [la conduite à tenir (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/flyer_cas_confirmes_mkp_120822_vdef.pdf)
 - Vaccination des personnes à risque de Monkeypox: [où se faire vacciner contre Monkeypox ?](https://www.sante.fr/mpox) ou [vaccination MKPX en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients) sur auto-déclaration du statut de personne cible (voir *Prévention*)
-- Site d'information [Sexosafe](https://www.sexosafe.fr/Variole-du-singe) pour les HSH et [Flyer d'info Variole du singe](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-transmissibles-de-l-animal-a-l-homme/monkeypox/documents/depliant-flyer/variole-du-singe-monkeypox-flyer-a5) (*SPF*)
+- Site d'information [Sexosafe](https://www.sexosafe.fr/Variole-du-singe) pour les HSH et [Flyer d'info Variole du singe](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-transmissibles-de-l-animal-a-l-homme/mpox/documents/depliant-flyer/info-mpox-flyer-a5) (*SPF*)
 - Monkeypox Info Service Grand public: {{<phone>}}0 801 90 80 69{{</phone>}} (8-23h)
 
 Chapitre lié: [hommes ayant des rapports avec des hommes]({{< relref "hsh.md" >}})

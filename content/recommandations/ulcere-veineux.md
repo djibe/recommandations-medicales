@@ -310,7 +310,7 @@ graph TB
 - [de Moraes Silva MA et al. Compression for preventing recurrence of venous ulcers. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002303.pub4/full/fr)
 - Prescrire Redaction. Ulcère veineux de jambe. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Collège des enseignants de dermatologie de France (CEDEF). Ulcère de jambe. Item 228. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-228-%E2%80%94-Ulcere-de-jambe_CompressPdf.pdf)
-- [omedit Centre Val de Loire. Plaies chroniques et retard de cicatrisation liés aux traitements. 2023. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/11681.pdf)
+- Omedit Centre Val de Loire. Plaies chroniques et retard de cicatrisation liés aux traitements. 2023.
 - [HAS. Bandes sèches à allongement long. Prise en charge du lymphœdème et des ulcères veineux actifs. 2020. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2020-02/rapport_bandes_a_allongement_long_dm-eval_244.pdf)
 - [HAS. Les pansements. Indications et utilisations recommandées. 2011. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2009-01/pansements_synthese_rapport.pdf)
 - [HAS. La compression médicale dans les affections veineuses chroniques. Bon usage des technologies de santé. 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-12/fiche_de_bon_usage_-_compression_medicale_dans_les_affections_veineuses_chroniques.pdf)

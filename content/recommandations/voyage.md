@@ -113,7 +113,7 @@ du séjour, la destination précise ou les activités qui y seront pratiquées
 - Encéphalite à tiques: séjour en zone rurale ou boisée dans les régions d'endémie jusqu'à 1500 mètres ou consommation de lait cru, du printemps à l'automne  
   Risque négligeable en cas de séjour urbain strict sans lait cru.
 - [Méningite ACWY]({{< relref "meningite.md" >}}): le certificat doit mentionner *Meningococcal conjugate tetravalent ACWY vaccine*
-- Poliomyélite et voyage +4 semaines en pays circulant ([liste](https://polioeradication.org/polio-today/polio-now/public-health-emergency-status/)): rappel recommandé 4 semaines à 12 mois avant avec Certificat international si souche PVS1, PVDVc1 ou PVDVc3  
+- Poliomyélite et voyage de +4 semaines en pays circulant ([liste](https://polioeradication.org/about-polio/polio-this-week/)): rappel recommandé 4 semaines à 12 mois avant avec Certificat international si souche PVS1, PVDVc1 ou PVDVc3  
   Le rappel vise à empêcher le portage asymptomatique.
 - Rougeole: un jeune voyageur peut être vacciné dès 6 mois (avec 2 rappels), 1 mois minimum entre 2 doses
 

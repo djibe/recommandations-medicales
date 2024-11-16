@@ -238,7 +238,7 @@ graph TB
 - [Fondation Médéric Alzheimer. Interventions non médicamenteuses et maladie d'Alzheimer. 2021. (PDF)](https://www.fondation-mederic-alzheimer.org/wp-content/uploads/2023/03/2021-guide-interventions-non-medicamenteuses-fr.pdf)
 - [HAS. Services d'aide et de soins à domicile : accompagnement des personnes atteintes de maladie neurodégénérative. 2020.](https://www.has-sante.fr/jcms/p_3193048/fr/services-d-aide-et-de-soins-a-domicile-accompagnement-des-personnes-atteintes-de-maladie-neurodegenerative)
 - [HAS. Évaluation 2016 des médicaments Alzheimer – Intérêt médical insuffisant. 2019.](https://www.has-sante.fr/jcms/pprd_2974197/fr/evaluation-2016-des-medicaments-alzheimer-interet-medical-insuffisant)
-- [Collège des Enseignants de Neurologie (CEN). Confusion, troubles cognitifs et démence. 2019.](https://www.cen-neurologie.fr/second-cycle/confusion-troubles-cognitifs-d%C3%A9mence)
+- [Collège des Enseignants de Neurologie (CEN). Confusion, troubles cognitifs et démence. 2019.](https://www.cen-neurologie.fr/second-cycle/confusion-troubles-cognitifs-et-demence)
 - [HAS. Patients présentant un trouble neurocognitif associé à la maladie d'Alzheimer ou à une maladie apparentée. 2018.](https://www.has-sante.fr/jcms/c_2906096/fr/patients-presentant-un-trouble-neurocognitif-associe-a-la-maladie-d-alzheimer-ou-a-une-maladie-apparentee)
 - [NICE. Dementia: assessment, management and support for people living with dementia and their carers. 2018.](https://www.nice.org.uk/guidance/ng97)
 - [HAS. Maladie d'Alzheimer et maladies apparentées : diagnostic et prise en charge de l'apathie. 2014.](https://www.has-sante.fr/jcms/c_1660673/fr/maladie-d-alzheimer-et-maladies-apparentees-diagnostic-et-prise-en-charge-de-l-apathie)

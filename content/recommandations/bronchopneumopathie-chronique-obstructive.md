@@ -364,7 +364,7 @@ Indications aux gaz du sang: SpO~2~ < 92%, {{< modal-btn modal-score-mmrc >}}mMR
 - Soutien psychologique
 - Personne de confiance
 - Associations de patients  
-  [Santé Respiratoire France](https://sante-respiratoire.com/), [FFAAIR](https://www.ffaair.org/), [arairlor](https://arairlor.asso.fr/), [lesouffle](https://www.lesouffle.org/).
+  [Santé Respiratoire France](https://sante-respiratoire.com/), [FFAAIR](https://ffaair.org), [arairlor](https://arairlor.asso.fr), [lesouffle](https://www.lesouffle.org).
 - Déclin respiratoire  
   [Directives anticipées]({{< relref "directives-anticipees.md" >}}), [soins palliatifs](http://www.sfap.org/annuaire).
 
@@ -656,7 +656,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Haroon S et al. Predicting risk of undiagnosed COPD: development and validation of the TargetCOPD score. Eur Respir J. 2017.](https://erj.ersjournals.com/content/49/6/1602191.long)
+- [Haroon S et al. Predicting risk of undiagnosed COPD: development and validation of the TargetCOPD score. Eur Respir J. 2017.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4271517/)
 
 {{%/sources%}}
 {{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}

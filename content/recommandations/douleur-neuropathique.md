@@ -269,7 +269,7 @@ Gabapentine 100 mg x 3/j pendant 3 jours. Paliers de 100 - 300 mg tous les 7 jou
 
 Clomipramine 10 mg le soir. Paliers de 10 mg tous les 7 jours. Avis spécialisé au-delà de 50 mg/j.
 
-> -- *[OMéDIT Centre 2018](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/8120.pdf)* et [appli Douleur Hôpital Saint Joseph](https://play.google.com/store/apps/details?id=hopitalsaintjoseph.douleur)
+> -- *[OMéDIT Centre 2020](https://www.omedit-centre.fr/medias/Traitement-douleurs-neuropathiques_Adulte.pdf)* et [appli Douleur Hôpital Saint Joseph](https://play.google.com/store/apps/details?id=hopitalsaintjoseph.douleur)
 {{%/info%}}
 
 Traitements de référence des douleurs neuropathiques:

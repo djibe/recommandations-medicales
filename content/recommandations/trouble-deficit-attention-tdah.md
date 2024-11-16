@@ -247,7 +247,7 @@ Les **prises en charge non médicamenteuses** sont systématiques et le **suivi 
 - Activité physique régulière
 - Rester en contact avec l'enseignant, la famille et les spécialistes
 - **Psychoéducation**  
-  Expliquer le diagnostic, le trouble, détailler les interventions, répondre aux questions. Sites: [TDAH Informations](https://attentiondeficit-info.com), [Société canadienne de pédiatrie](https://cps.ca/fr/tools-outils/tdah), [CADDRA (PDF)](https://caddra.ca/pdfs/Psychosocial2016French.pdf), [CléPsy](https://www.clepsy.fr/category/trouble-du-deficit-de-lattention-hyperactivite/)
+  Expliquer le diagnostic, le trouble, détailler les interventions, répondre aux questions. Sites: [TDAH Informations](https://attentiondeficit-info.com), [Société canadienne de pédiatrie](https://cps.ca/fr/tools-outils/tdah), [CADDRA (PDF)](https://caddra.ca/pdfs/Psychosocial2016French.pdf), [CléPsy](https://www.clepsy.fr)
 - **Programmes d'Entraînement aux Habiletés Parentales (PEHP)**  
   Pour les parents, programmes en groupe pour adapter les stratégies éducatives ([livres de référence](/print/tdah-pehp.avif)).
 - **Psychothérapie**: thérapies comportementales, cognitives et émotionnelles (TCCE)

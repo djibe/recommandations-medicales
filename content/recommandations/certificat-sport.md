@@ -234,7 +234,6 @@ graph TB
 - [Société Française de Cardiologie (SFC). Recommandations concernant le contenu du bilan cardiovasculaire de la visite de non contre indication à la pratique du sport en compétition entre 12 et 35 ans. 2009.](https://www.sfcardio.fr/publication/recommandations-concernant-le-contenu-du-bilan-cardiovasculaire-de-la-visite-de-non)
 - [CNOM. Certificats de non contre indication à la pratique du sport](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificats-indication-pratique-sport)
 - [Club des Cardiologues du Sport](https://www.clubcardiosport.com/)
-- [Dr Augé D. Visite de non contre-indication à la pratique sportive. Quel examen pour quel sport ? (PDF)](https://www.hjd.asso.fr/sites/default/files/Visite%20de%20non%20contre-indication%20%C3%A0%20la%20pratique%20sportive%20V2.pdf)
 
 ### Bibliographie en attente
 

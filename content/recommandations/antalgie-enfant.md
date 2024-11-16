@@ -251,7 +251,7 @@ graph TB
 ### Bibliographie en attente
 
 - [Hadland SE, et al. Opioid Prescribing for Acute Pain Management in Children and Adolescents in Outpatient Settings: Clinical Practice Guideline. Pediatrics. 2024.](https://pubmed.ncbi.nlm.nih.gov/39344439/)
-- [Appli Livret Douleur APHP](https://play.google.com/store/apps/details?id=com.groupe_synapse.livretDouleur)
+- Appli Livret Douleur APHP
 - [Anaes. Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l'enfant de 1 mois à 15 ans. 2000. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/doulenf4.pdf)
 - CNRD Centre National de Ressources de lutte contre la Douleur
 - Modèles HAS

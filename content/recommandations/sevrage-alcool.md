@@ -551,7 +551,7 @@ Autre traitement: titration de baclofène (Baclocur® ou Baclofène Zentiva, max
 
 ### Applications
 
-Agenda de consommation d'alcool: Try Dry ([Android](https://play.google.com/store/apps/details?id=uk.org.alcoholconcern.dryjanuary), [iPhone](https://itunes.apple.com/gb/app/try-dry-the-dry-january-app/id1441293755?mt=8&app=itunes&ign-mpt=uo%3D4)), Stop Alcool ([Android](https://play.google.com/store/apps/details?id=ch.apptitude.stopalcool&hl=fr&gl=US)) ou Arrêt l'alcool - EasyQuit ([iPhone](https://apps.apple.com/fr/app/arr%C3%AAter-lalcool-easyquit/id1536343358))
+Agenda de consommation d'alcool: Try Dry ([Android](https://play.google.com/store/apps/details?id=uk.org.alcoholconcern.dryjanuary), [iPhone](https://itunes.apple.com/gb/app/try-dry-the-dry-january-app/id1441293755?mt=8&app=itunes&ign-mpt=uo%3D4)), Arrêt l'alcool - EasyQuit ([iPhone](https://apps.apple.com/fr/app/arr%C3%AAter-lalcool-easyquit/id1536343358))
 
 ### Bénéfices de l'arrêt de l'alcool
 

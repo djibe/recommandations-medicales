@@ -168,7 +168,7 @@ Rechercher une fibromyalgie en cas de douleur chronique.
   - Difficultés de concentration, d'attention et mémorisation (75%)  
     "Trous de mémoire", "esprit cotonneux" (<< fibrofog >>). {{< scores/mmse >}}, MoCa ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf))
   - Capacités physiques réduites (parfois jusqu'à la peur du mouvement)
-- Retentissement: SF-12, [FIQR](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2745803/bin/ar2783-S1.pdf)
+- Retentissement: SF-12, [FIQR](https://fibromyalgiesos.fr/rdv2/wp-content/uploads/2016/06/FIQ.pdf)
 - Diagnostic différentiel
   - Endocrinopathie  
     [Hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}), hyperparathyroïdie, ostéomalacie, diabète phosphoré.

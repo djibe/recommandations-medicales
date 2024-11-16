@@ -508,7 +508,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 - [HAS. Maladie rénale chronique de l'adulte (MRC). Guide du parcours de soins. 2023.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
 - {{< references/esh-2023 >}}
 - {{< references/ada-soc >}}
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale chronique chez l'adulte et chez l'enfant. Item 264. Manuel de néphrologie 10ème édition. 2023.](http://cuen.fr/manuel3/spip.php?article66)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale chronique chez l'adulte et chez l'enfant. Item 264. Manuel de néphrologie 10ème édition. 2023.](http://manuel3.cuen.fr/spip.php?article66)
 - [Kidney Disease: Improving Global Outcomes (KDIGO) Diabetes Work Group. KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int. 2022.](https://kdigo.org/guidelines/diabetes-ckd/)
 - {{< references/esc-cvd >}}
 - {{< references/sfd-dt2 >}}

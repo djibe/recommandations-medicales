@@ -320,7 +320,7 @@ graph TB
 - Prescrire Redaction. Gale. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Salavastru C et al; European Academy of Dermatology and Venereology. European guideline for the management of scabies. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14351)
 - [HCSP. Survenue de un ou plusieurs cas de gale. Conduite à tenir. 2012.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=312)
-- [Omedit Centre. Prise en charge et traitement des sujets atteints de gale. Mars 2010. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/6308.pdf)
+- [Omedit Centre. Prise en charge et traitement des sujets atteints de gale. Mars 2010. (PDF)](https://www.omedit-centre.fr/medias/PEC-traitement-gale.pdf)
 
 ### Bibliographie en attente
 
