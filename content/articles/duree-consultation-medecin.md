@@ -24,7 +24,7 @@ Chaque pays effectue des choix pour la Santé publique qui impactent jusqu'à la
 
 La durée moyenne de la consultation en soins primaires est extrêmement variable, allant de **1,8 minutes** au Pakistan, 2 minutes en Chine et 2,3 minutes en Inde à 22,5 minutes en Suède, 21,1 minutes aux États-Unis et 20 minutes en Bulgarie.
 
-{{< figure-chart title="Comparaison de la durée moyenne des consultations en médecine générale (ou soins primaires) dans le monde, en minutes. Dr JB Fron d’après Irving et al 2017" >}}
+{{< figure-chart title="Comparaison de la durée moyenne des consultations en médecine générale (ou soins primaires) dans le monde, en minutes. Dr JB Fron d'après Irving et al 2017" >}}
 
 La France fait partie des pays ayant la durée de consultation médicale parmi les plus longues (16 minutes, 8e rang sur 67). Une durée identique avait déjà identifiée par la *Drees* en 2006.
 

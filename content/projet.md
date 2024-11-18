@@ -46,7 +46,7 @@ Plus simplement, 30 % des diabétiques traités par monothérapie n'avaient pas 
 
 > Si un schéma ne donne pas les résultats escomptés, il faut en chercher d'autres.
 
-{{< figure-chart title="Consommation d'antibiotiques en secteur de ville en France sur la période 2009-2019 (<a href='https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-associees-aux-soins-et-resistance-aux-antibiotiques/resistance-aux-antibiotiques/documents/rapport-synthese/la-consommation-d-antibiotiques-en-secteur-de-ville-en-france-2009-2019.-synthese-preliminaire-des-indicateurs-disponibles-sous-geodes' rel='external nofollow noopener'>Santé Publique France</a>).<br><b>DQD:</b> doses quotidiennes définies/1000 hab/j (DDD en anglais)" >}}
+{{< figure-chart title="Consommation d'antibiotiques en secteur de ville en France sur la période 2009-2019 ([Santé Publique France](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-associees-aux-soins-et-resistance-aux-antibiotiques/resistance-aux-antibiotiques/documents/rapport-synthese/la-consommation-d-antibiotiques-en-secteur-de-ville-en-france-2009-2019.-synthese-preliminaire-des-indicateurs-disponibles-sous-geodes)).<br><b>DQD:</b> doses quotidiennes définies/1000 hab/j (DDD en anglais)" >}}
 
 <script>
 const chartOptions1 = {
@@ -63,7 +63,7 @@ const chartOptions1 = {
   yaxis: { decimalsInFloat: 1, min: 0 }
 }
 </script>
-{{< figure-chart title="Proportion de personnes diabétiques traitées pharmacologiquement ayant bénéficié des examens de suivi recommandés, France entière en 2001, 2007 et 2013. Dr JB Fron d’après <em><a href='https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/documents/article/suivi-des-examens-recommandes-dans-la-surveillance-du-diabete-en-france-en-2013' rel='external nofollow noopener'>Fosse-Edorh 2015</a></em> et <a href='https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/articles/etude-entred-2001-2003' rel='external nofollow noopener'>Entred 2001-2003</a>.<br><b>Légende:</b> Au moins 1 examen réalisé dans l’année pour chaque item (3 pour l’HbA<sub>1c</sub>)" id="chart-2" >}}
+{{< figure-chart title="Proportion de personnes diabétiques traitées pharmacologiquement ayant bénéficié des examens de suivi recommandés, France entière en 2001, 2007 et 2013. Dr JB Fron d'après [Fosse-Edorh 2015](https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/documents/article/suivi-des-examens-recommandes-dans-la-surveillance-du-diabete-en-france-en-2013) et [Entred 2001-2003](https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/articles/etude-entred-2001-2003).<br><b>Légende:</b> Au moins 1 examen réalisé dans l’année pour chaque item (3 pour l’HbA<sub>1c</sub>)" id="chart-2" >}}
 <script>
 const chartOptions2 = {
   series: [{
@@ -91,7 +91,7 @@ const chartOptions2 = {
   }
 }
 </script>
-{{< figure-chart title="Indicateurs de qualité du parcours des patients à risque ou atteints de bronchopneumopathie chronique obstructive (BPCO). Dr JB Fron d’après <a href='https://www.has-sante.fr/upload/docs/application/pdf/2022-04/iqss_2022_-_indicateurs_bpco_developpement-_synthese_mars_2022.pdf' rel='external nofollow noopener'>HAS 2022 (PDF)</a>.<br><b>Légende:</b> Indicateurs en partant de midi: Taux de dépistage des personnes à risque de BPCO, couverture vaccinale antigrippale annuelle, spirométrie ou EFR annuelle. Après hospitalisation pour exacerbation de BPCO: consultation de suivi dans les 7 jours (Cs J7), réévaluation pneumologique dans les 2 mois (Cs J60), bronchodilatateur de longue durée (BDLA), recours à la réhabilitation respiratoire" id="chart-3" >}}
+{{< figure-chart title="Indicateurs de qualité du parcours des patients à risque ou atteints de bronchopneumopathie chronique obstructive (BPCO). Dr JB Fron d'après [HAS 2022 (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2022-04/iqss_2022_-_indicateurs_bpco_developpement-_synthese_mars_2022.pdf).<br><b>Légende:</b> Indicateurs en partant de midi: Taux de dépistage des personnes à risque de BPCO, couverture vaccinale antigrippale annuelle, spirométrie ou EFR annuelle. Après hospitalisation pour exacerbation de BPCO: consultation de suivi dans les 7 jours (Cs J7), réévaluation pneumologique dans les 2 mois (Cs J60), bronchodilatateur de longue durée (BDLA), recours à la réhabilitation respiratoire" id="chart-3" >}}
 <script>
 const chartOptions3 = {
   series: [{

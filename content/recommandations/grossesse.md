@@ -60,7 +60,7 @@ Chapitres dédiés:
 - [Violences faites aux femmes]({{< relref "violences-femmes.md" >}})
 
 {{%/article-summary%}}
-{{%collapse "La maternité en France"%}}
+{{%collapse "La maternité en France" %}}
 
 Rechercher une grossesse avant **32 ans** pour avoir 90 % de chance d'obtenir 2 enfants (27 ans sans AMP) ou avant 35 pour 1 (32 ans sans AMP). – *[Habbema et al 2015](https://pubmed.ncbi.nlm.nih.gov/26185187/)*
 {.alert .alert-info}
@@ -109,8 +109,40 @@ const chartOptions1 = {
 
 > **ICF =** Indicateur conjoncturel de fécondité (naissances pour 100 femmes). Précisément: nombre d'enfants qu'aurait une femme tout au long de sa vie, si les taux de fécondité observés l'année considérée à chaque âge demeuraient inchangés. Plus simplement: 1,64 enfants par femme en 2023.
 
-Malgré les fermetures, **43 %** des maternités ont réalisé en 2020 **moins de 3 accouchements par jour**. – *[Drees Les établissements de santé - édition 2022 (fiche 21)](https://drees.solidarites-sante.gouv.fr/publications-documents-de-reference-communique-de-presse/panoramas-de-la-drees/les-etablissements)*
+Malgré les fermetures, **43 %** des maternités ont réalisé en 2020 **moins de 3 accouchements par jour**. --  *[Drees Les établissements de santé - édition 2022 (fiche 21)](https://drees.solidarites-sante.gouv.fr/publications-documents-de-reference-communique-de-presse/panoramas-de-la-drees/les-etablissements)*
 {.alert .alert-info}
+
+{{< figure-chart title="Taux de fécondité selon l'âge de la mère en France métropolitaine. Dr JB Fron d'après [Insee. Tableaux de l'économie française - Natalité – Fécondité. 2020.](https://www.insee.fr/fr/statistiques/4277635?sommaire=4318291#graphique-figure2)" id="chart-2">}}
+<script>
+const chartOptions2 = {
+  series: [{
+    name: 'Fécondité',
+    data: [0.1, 0.2, 0.4, 0.7, 1.4, 2.3, 3.1, 4.1, 5.3, 6.5, 8.0, 9.6, 11.0, 12.3, 13.2, 13.7, 13.7, 13.1, 12.0, 10.9, 9.7, 8.4, 7.0, 5.5, 4.6, 3.6, 2.5, 1.8, 1.1, 0.6, 0.4, 0.2, 0.1, 0.0, 0.0, 0.0]
+  }],
+  chart: { type: 'line', height: 280 },
+  markers: { size: 0 },
+  stroke: { colors: ['#4150f5', '#ffa600'], width: 4 },
+  title: { text: 'Fécondité selon l’âge de la mère en 2019' },
+  xaxis: { categories: [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50],
+    tickAmount: 13,
+    title: { text: 'Âge'},
+  },
+  yaxis: [
+    {
+      title: { text: 'Fécondité'},
+      labels: { style: { colors: '#757575' }},
+      decimalsInFloat: 0,
+      forceNiceScale: true,
+      tickAmount: 4,
+      min: 0
+    }
+  ],
+  tooltip: {
+    y: [{ formatter: function(value) { return value} },
+      { formatter: function(value) { return value }}]
+  },
+}
+</script>
 
 {{% /collapse %}}
 {{%collapse "Calendrier de grossesse" %}}

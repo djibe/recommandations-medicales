@@ -97,7 +97,7 @@ Chaque femme a une réserve ovarienne différente, maximale à la naissance.
 
 Les marqueurs de **réserve ovarienne** sont: âge de la patiente, FSH et E2, AMH et compte des follicules antraux.
 
-{{< figure-chart title="Taux d'accouchement par ponction en FIV hors ICSI en intraconjugal selon l'âge de la femme à la ponction en 2021 (Tableau AMP15). Dr JB Fron d'après <a href='https://rams-archives2022.agence-biomedecine.fr/activite-intraconjugale' rel='external nofollow noopener'>Agence de la Biomédecine</a>" >}}
+{{< figure-chart title="Taux d'accouchement par ponction en FIV hors ICSI en intraconjugal selon l'âge de la femme à la ponction en 2021 (Tableau AMP15). Dr JB Fron d'après [Agence de la Biomédecine](https://rams-archives2022.agence-biomedecine.fr/activite-intraconjugale)" >}}
 
 <script>
 const chartOptions1 = {

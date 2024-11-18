@@ -26,9 +26,9 @@ La densité moyenne des généralistes en métropole est de 119,7 médecins pour
 
 À l'**horizon 2025**, le Conseil National de l'Ordre des Médecins (CNOM) estime à 81.192 le nombre de généralistes en activité.
 
-{{< figure-chart title="Évolution du nombre de généralistes en activité de 2012 à 2023 avec prévision 2025. Dr JB Fron d'après CNOM 2022 et 2023" >}}
+{{< figure-chart title="Évolution du nombre de médecins généralistes en activité de 2012 à 2023 avec prévision 2025. Dr JB Fron d'après CNOM 2022 et 2023" >}}
 
-Parmi les généralistes en activité, 56,4% ont une activité libérale exclusive, 37,3% sont salariés, les derniers 6,3% cumulant les 2 statuts.
+Parmi les généralistes en activité, 56,4 % ont une activité libérale exclusive, 37,3 % sont salariés, les derniers 6,3% cumulant les 2 statuts.
 
 53,4% des médecins généralistes en activité sont des femmes. Elles sont devenues majoritaires en 2022.
 

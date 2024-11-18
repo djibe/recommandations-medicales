@@ -1,4 +1,4 @@
 <figure class="figure-chart">
   <div id="{{ with .Get "id" }}{{ . }}{{ else }}chart-1{{ end }}"></div>
-  {{ with .Get "title" }}<figcaption><b>Figure.</b> {{ . | safeHTML }}.</figcaption>{{end}}
+  {{ with .Get "title" }}<figcaption><b>Figure.</b> {{ . | markdownify }}.</figcaption>{{end}}
 </figure>

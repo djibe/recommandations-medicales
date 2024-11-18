@@ -93,7 +93,7 @@ Le prix du paquet est la mesure la plus efficace pour réduire le tabagisme dans
 
 Dans le monde, la culture du tabac occupe 4,3 Mha de terres, responsable de 2 à 4% de la déforestation (*OMS*).
 
-{{< figure-chart title="Prévalence du tabagisme quotidien parmi les 18-75 ans en France de 2000 à 2020 (<em>SPF 2021</em>). NB: Échelle non linéaire années en abscisse" >}}
+{{< figure-chart title="Prévalence du tabagisme quotidien parmi les 18-75 ans en France de 2000 à 2020 (*SPF 2021*). NB: Échelle non linéaire années en abscisse" >}}
 
 <script>
 const chartOptions1 = {

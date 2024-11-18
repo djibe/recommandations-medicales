@@ -24,7 +24,7 @@ Alors que la France engage un débat sur l'euthanasie, son adoption en Europe et
 
 Plus précisément, statut des pays d'Europe vis-à-vis des aides actives à mourir.
 
-{{< figure-chart id="geochart" title="Carte des pays européens ayant légalisé l'aide active à mourir (euthanasie ou assistance au suicide). Dr JB Fron d'après CNOM 2022. 0 = Interdiction; 1 = Assistance au suicide; 2 = Euthanasie; 3 = les 2" >}}
+{{< figure-chart id="geochart" title="Carte des pays européens ayant légalisé l'aide active à mourir (euthanasie ou assistance au suicide). Dr JB Fron d'après CNOM 2022. 0 = Interdiction; 1 = Assistance au suicide; 2 = Euthanasie; 3 = Assistance et euthanasie" >}}
 
 <script>
 function drawRegionsMap() {

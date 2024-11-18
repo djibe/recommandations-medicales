@@ -99,10 +99,7 @@ const chartOptions1 = {
   tooltip: { y: [{ formatter: function(value) { return `${value} %`; }}] }
 }
 </script>
-<figure class="figure-chart">
-  <div id="chart-2"></div>
-  <figcaption><b>Figure 2.</b> Évolution de la prévalence de l'obésité en France selon l'âge de 1997 à 2020. Dr JB Fron d'après ObÉpi 2020. NB: les abscisses ne sont pas linéaires.</figcaption>
-</figure>
+{{< figure-chart title="Évolution de la prévalence de l'obésité en France selon l'âge de 1997 à 2020. Dr JB Fron d'après ObÉpi 2020. NB: les abscisses ne sont pas linéaires" id="chart-2" >}}
 <script>
 const chartOptions2 = {
   series: [{

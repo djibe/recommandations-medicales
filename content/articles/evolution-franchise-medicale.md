@@ -21,11 +21,11 @@ chart = true
 
 ##
 
-{{< figure-chart title="Comparaison de la durée moyenne des consultations en médecine générale (ou soins primaires) dans le monde, en minutes. Dr JB Fron d’après Irving et al 2017" >}}
+{{< figure-chart title=". Dr JB Fron d'après Irving et al 2017" >}}
 
 ## Source
 
-- [Ameli.  La franchise médicale. 02/04/2024.](https://www.ameli.fr/assure/remboursements/reste-charge/franchise-medicale)
+- [Ameli. La franchise médicale. 02/04/2024.](https://www.ameli.fr/assure/remboursements/reste-charge/franchise-medicale)
 - <https://fr.wikipedia.org/wiki/Franchise_m%C3%A9dicale>
 
 <script>

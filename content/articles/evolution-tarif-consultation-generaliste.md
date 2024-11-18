@@ -31,7 +31,7 @@ Avec la forte inflation démarrée en 2022, la consultation du généraliste, to
 
 ## Graphique de l'historique des honoraires médicaux des médecins généralistes conventionnés secteur 1
 
-{{< figure-chart title="Évolution du prix d'une consultation chez le médecin généraliste en secteur 1 de 1980 à 2023 en France métropolitaine. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après <a href='http://www.carmf.fr/doc/publications/chronologie/2022/chronologie-2022.pdf' rel='external nofollow noopener'>CARMF 2022 (PDF)</a>, <a href='http://piketty.pse.ens.fr/fichiers/enseig/memothes/DeaMayneris2004.pdf' rel='external nofollow noopener'>Mayneris 2004 (PDF)</a> et <a href='https://www.insee.fr/fr/information/2417794' rel='external nofollow noopener'>Insee</a>" >}}
+{{< figure-chart title="Évolution du prix d'une consultation chez le médecin généraliste en secteur 1 de 1980 à 2023 en France métropolitaine. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après [CARMF 2022 (PDF)](http://www.carmf.fr/doc/publications/chronologie/2022/chronologie-2022.pdf), [Mayneris 2004 (PDF)](http://piketty.pse.ens.fr/fichiers/enseig/memothes/DeaMayneris2004.pdf) et [Insee](https://www.insee.fr/fr/information/2417794)" >}}
 
 <script>
 const chartOptions1 = {

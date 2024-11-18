@@ -51,7 +51,7 @@ Le défaut d'observance est l'une des causes principales des grossesses non plan
 
 ### Évolution de la fécondité des françaises
 
-{{< figure-chart title="Évolution de la fécondité en France métropolitaine de 1950 à nos jours. Dr JB Fron d’après <em><a href='https://www.insee.fr/fr/statistiques/7746164?sommaire=7746197' rel='external nofollow noopener'>Insee 2024</a></em>. Échelle de temps non linéaire.<br><b>Légende:</b> Indicateur conjoncturel de fécondité (ICF), plus communément appelé nombre d’enfants par femme" >}}
+{{< figure-chart title="Évolution de la fécondité en France métropolitaine de 1950 à nos jours. Dr JB Fron d’après [Insee 2024](https://www.insee.fr/fr/statistiques/7746164?sommaire=7746197). Échelle de temps non linéaire.<br><b>Légende:</b> Indicateur conjoncturel de fécondité (ICF), plus communément appelé nombre d’enfants par femme" >}}
 <script>
 const chartOptions1 = {
   series: [{
@@ -628,7 +628,7 @@ Bénéfices similaires pour les différentes voies d'administration (orale, vagi
 
 ### Méthodes de contraception utilisées en France
 
-{{< figure-chart title="Méthodes de contraception des françaises de 15 à 49 ans en 2016. Dr JB Fron d'après <a href='https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/enquetes-etudes/barometre-sante-2016-contraception-quatre-ans-apres-la-crise-de-la-pilule-les-evolutions-se-poursuivent' rel='external nofollow noopener'>Rahib D 2017</a>" id="chart-2" >}}
+{{< figure-chart title="Méthodes de contraception des françaises de 15 à 49 ans en 2016. Dr JB Fron d'après [Rahib D 2017](https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/enquetes-etudes/barometre-sante-2016-contraception-quatre-ans-apres-la-crise-de-la-pilule-les-evolutions-se-poursuivent)" id="chart-2" >}}
 
 <script>
 const chartOptions2 = {

@@ -43,13 +43,39 @@ AFU
 
 ### Interrogatoire
 
-- Symptômes de l'andropause
+- Symptômes de l'andropause:
+  - [Dysfonction érectile organique]({{< relref "dysfonction-erectile.md" >}}) TODO: score ADAM
+  - Baisse de la libido
+  - Bouffées de chaleur
+  - Troubles mnésiques
+  - Troubles de l'attention
+  - Dépression
 
 ### Examen clinique
+
+- Poids et variations, taille, IMC, périmètre abdominal
+- Pression artérielle, fréquence cardiaque
+- Sarcopénie TODO:
+- Gynécomastie
+- Diminution de la pilosité
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+### Bilan de l'andropause
+
+Bilan à réaliser devant une suspicion d'andropause:
+
+- Testostéronémie totale avec confirmation à 1 mois  
+  Totale < 3 ng/mL ou biodisponible < 0,8 ng/mL.
+
+Bilan à 1 mois après 2 testostéronémies basses: LH, FSH et prolactine
+
+#### Interprétation du bilan hormonal
+
+- Testostéronémie basse + LH élevée: déficit gonadotrope
+- Testostéronémie basse + LH basse: hypogonadisme central ou mixte
+- Si hyperprolactinémie: IRM de selle turcique pour éliminer un adénome hypophysaire
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}

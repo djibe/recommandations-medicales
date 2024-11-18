@@ -53,7 +53,7 @@ Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contrace
 - 76% des IVG sont médicamenteuses
 - Depuis l'autorisation de 2004: 1 IVG médicamenteuse sur 6 a lieu en libéral (soit 18.273 en 2007, 3/4 par gynécologue, 1/4 par médecin généraliste)
 
-{{< figure-chart title="Évolution du nombre d'interruptions de grossesse annuelles (comptant les reprises) et du ratio d'avortement France entière de 1990 à 2023. (<em>Drees 2024</em>)<br>Le ratio d'avortement correspond au rapport entre le nombre d'IVG et le nombre de naissances vivantes. Ex: en 2023, 35 IVG pour 100 naissances vivantes (<em>Drees 2024</em>)" >}}
+{{< figure-chart title="Évolution du nombre d'interruptions de grossesse annuelles (comptant les reprises) et du ratio d'avortement France entière de 1990 à 2023. (*Drees 2024*)<br>Le ratio d'avortement correspond au rapport entre le nombre d'IVG et le nombre de naissances vivantes. Ex: en 2023, 35 IVG pour 100 naissances vivantes (*Drees 2024*)" >}}
 
 <script>
 const chartOptions1 = {
