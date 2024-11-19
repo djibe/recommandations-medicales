@@ -27,9 +27,9 @@ Disallow: /
 
 User-agent: *
 Allow: /
-Disallow: /index.json
 Disallow: /recommandations/index.json
 Disallow: /404/
+Disallow: /js/
 Disallow: /offline/
 
 Sitemap: {{ "sitemap.xml" | absURL }}
