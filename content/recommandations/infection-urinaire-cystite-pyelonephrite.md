@@ -65,7 +65,7 @@ Devant des signes évocateurs d'infection urinaire (IU) chez l'immunocompétent,
 
 L'ECBU est réalisé avant l'antibiothérapie.
 
-**NB.** Conservation possible des urines 12 heures à 4°C. – *Collège*
+**NB.** Conservation possible des urines 12 heures à 4°C. -- *Collège*
 
 #### Prise en charge d'un ECBU positif
 
@@ -82,7 +82,7 @@ Un ECBU de contrôle est réalisé uniquement en cas d'évolution défavorable.
 
 #### Seuils de positivité de l'ECBU
 
-> << les seuils sont donnés à titre indicatif; en cas de discordance entre un tableau clinique évident d'infection urinaire et une bactériurie ou leucocyturie inférieure au seuil, c'est le tableau clinique prime >>. – *HAS, SPILF 2024*
+> << les seuils sont donnés à titre indicatif; en cas de discordance entre un tableau clinique évident d'infection urinaire et une bactériurie ou leucocyturie inférieure au seuil, c'est le tableau clinique prime >>. -- *HAS, SPILF 2024*
 {.alert .alert-info}
 
 {{< table title="Seuils de bactériurie à l'ECBU selon le germe et le sexe pour le diagnostic d'infection urinaire selon *SPILF 2018*" >}}
@@ -108,7 +108,7 @@ Rechercher des signes de gravité devant toute infection urinaire avec des signe
 
 ### Facteurs de risque de complication d'une infection urinaire
 
-> << Le diabète, type 1 ou 2, n'est pas un facteur de risque de complication >>. – *HAS 2021*
+> << Le diabète, type 1 ou 2, n'est pas un facteur de risque de complication >>. -- *HAS 2021*
 {.alert .alert-info}
 
 {{< clinique/iu-fdr-complication >}}
@@ -136,12 +136,12 @@ Prise en charge de la cystite de la femme par **BU** (leucocytes + voire nitrite
 
 ECBU uniquement en l'absence d'amélioration à 72 heures, récidive dans les 2 semaines ou double contre-indication. Le traitement adapté à l'antibiogramme sera celui des cystites à risque de complication.
 
-> Traitement << minute >> possible dès que la jeune fille est pubère. – *GPIP 2023*
+> Traitement << minute >> possible dès que la jeune fille est pubère. -- *GPIP 2023*
 
 **En cas de BU négative**, rechercher un diagnostic différentiel: mycose, urétrite, sécheresse cutanéo-muqueuse.  
 Une BU peut être réalisée en pharmacie avec orientation vers le médecin en cas de positivité.
 
-> En cas de cystite aiguë sur **sonde urinaire**: 3 jours d'antibiothérapie. – *SPILF 2020*
+> En cas de cystite aiguë sur **sonde urinaire**: 3 jours d'antibiothérapie. -- *SPILF 2020*
 {.alert .alert-info}
 
 ### Cystite aiguë à risque de complication

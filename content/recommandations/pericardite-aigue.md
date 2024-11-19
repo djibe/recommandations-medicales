@@ -164,7 +164,7 @@ Après sortie des *Urgences* ou d'hospitalisation, le traitement de la péricard
 
 - **Repos**  
   Selon les symptômes, souvent 1 mois.
-- Activité physique: **arrêt** jusqu'à disparition des symptômes et normalisation des bilans (CRP, ECG et ETT – correspondant à la consultation de cardiologie à 1 mois).  
+- Activité physique: **arrêt** jusqu'à disparition des symptômes et normalisation des bilans (CRP, ECG et ETT -- correspondant à la consultation de cardiologie à 1 mois).  
   Pour les athlètes: au moins 3 mois et jusqu'à normalisation des bilans.
 - **Anti-inflammatoires**
   - **Aspirine** 750-1000 mg toutes les 8 heures pendant 1-2 semaines  

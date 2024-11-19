@@ -225,7 +225,7 @@ Recherche de signes étiologiques et du retentissement de la maladie rénale:
 
 ### 4) Critères pour apprécier l'évolutivité de la MRC
 
-La maladie rénale est considérée comme évolutive en cas de présence de facteur ci-dessous (déclin annuel rapide du DFG, différence entre 2 annnées calculé par: DFGe année n – DFGe année n+1)
+La maladie rénale est considérée comme évolutive en cas de présence de facteur ci-dessous (déclin annuel rapide du DFG, différence entre 2 annnées calculé par: DFGe année n - DFGe année n+1)
 
 - {{%class%}}Déclin annuel modéré si ≥ 2 et < 5{{%/class%}}
 - [Score KFRE > 3% à 5 ans](https://kidneyfailurerisk.com)
@@ -429,7 +429,7 @@ Tant que le DFGe est ≥ 45 mL/min/1,73 m² (20 chez le sujet âgé), stable, sa
 {{%/collapse %}}
 {{%collapse "Éducation thérapeutique" %}}
 
-> << L'éducation thérapeutique du patient (ETP) fait partie intégrante de la stratégie thérapeutique >>. – *HAS 2023*
+> << L'éducation thérapeutique du patient (ETP) fait partie intégrante de la stratégie thérapeutique >>. -- *HAS 2023*
 {.alert .alert-info}
 
 ### Reprendre en consultation dédiée

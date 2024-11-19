@@ -44,7 +44,7 @@ todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaq
 - Incidence: 225.000 femmes majeures/an
 - Décès: 121 en 2018
 
-> << Les données dans la littérature sont contradictoires concernant l'association entre le statut socio-économique et les violences conjugales >>. – *Santé Publique France*
+> << Les données dans la littérature sont contradictoires concernant l'association entre le statut socio-économique et les violences conjugales >>. -- *Santé Publique France*
 
 ### Pour en savoir plus sur les violences faites aux femmes
 
@@ -59,7 +59,7 @@ todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaq
 {{% /collapse %}}
 {{%collapse "Dépistage des violences faites aux femmes" %}}
 
-> << Questionnez toutes vos patientes lors de l'anamnèse comme vous le faites pour les antécédents médicaux ou la consommation de tabac >> (*HAS 2020*), << 9 femmes sur 10 estiment même qu'aborder ce sujet en consultation est important, légitime et rassurant >>. – *HAS 2023*
+> << Questionnez toutes vos patientes lors de l'anamnèse comme vous le faites pour les antécédents médicaux ou la consommation de tabac >> (*HAS 2020*), << 9 femmes sur 10 estiment même qu'aborder ce sujet en consultation est important, légitime et rassurant >>. -- *HAS 2023*
 {.alert .alert-warning}
 
 ### Dépister des violences faites aux femmes à l'interrogatoire
@@ -80,7 +80,7 @@ Exemples de formulations:
 
 {{< scores/wast >}}
 
-> << les femmes plébiscitent des approches garantissant la confidentialité et l'intimité tel que remplir un questionnaire seule et en privé >>. – *Santé publique France*
+> << les femmes plébiscitent des approches garantissant la confidentialité et l'intimité tel que remplir un questionnaire seule et en privé >>. -- *Santé publique France*
 
 {{% /collapse %}}
 {{%collapse "Situation jugée grave" %}}

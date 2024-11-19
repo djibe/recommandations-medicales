@@ -445,7 +445,7 @@ L'abstinence est la cible en complication somatique (cirrhose ++).
 Recours aux **[benzodiazépines à demi-vie longue]({{< relref "benzodiazepines.md" >}})** type **diazépam** pendant max 5-10 jours (*SFA 2023*).  
 Patient âgé (≥ 75 ans) ou cirrhotique: oxazépam ou lorazépam en diminuant la dose 30-50%.
 
-<< Dans la majorité des cas, le sevrage ne requiert pas de traitement pharmacologique >>. – *SFA 2015*
+<< Dans la majorité des cas, le sevrage ne requiert pas de traitement pharmacologique >>. -- *SFA 2015*
 {.alert .alert-info}
 
 {{%info%}}
@@ -600,7 +600,7 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 
 ### Femmes enceintes
 
-> << zéro alcool pendant la grossesse >>, << vous buvez un peu, il boit beaucoup >>. – *SPF*
+> << zéro alcool pendant la grossesse >>, << vous buvez un peu, il boit beaucoup >>. -- *SPF*
 
 ### Adolescents et enfants
 

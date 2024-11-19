@@ -3,7 +3,6 @@ id = "0190e8d7-4b7f-790f-816a-acfbb48d97b4"
 title = "Voyage à l'étranger et recommandations sanitaires pour les voyageurs"
 prefix = "le "
 titleSeo = "Recommandations sanitaires voyageurs"
-noindex = true
 description = "Adaptation des recommandations de Santé Publique France pour la prévention des maladies lors des voyages à l'étranger. Vaccinations, médicaments, grossesse ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -130,7 +129,7 @@ Le vaccin fièvre jaune est possible quel que soit le terme ([CRAT](https://www.
 
 ### Protection contre les accidents de la route
 
-- Ceinture de sécurité ou casque, siège auto (même pendant la grossesse – *CNGOF*)
+- Ceinture de sécurité ou casque, siège auto (même pendant la grossesse -- *CNGOF*)
 - Éviter de conduire soi-même
 
 ### Risque transfusionnel

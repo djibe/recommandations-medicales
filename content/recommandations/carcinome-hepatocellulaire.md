@@ -119,7 +119,7 @@ Le CHC reste longtemps asymptomatique causant souvent un diagnostic tardif.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> Toute lésion focale hépatique chez un patient atteint de cirrhose est un CHC jusqu'à preuve du contraire, quel que soit son aspect en échographie – *SNFGE 2016*
+> Toute lésion focale hépatique chez un patient atteint de cirrhose est un CHC jusqu'à preuve du contraire, quel que soit son aspect en échographie -- *SNFGE 2016*
 {.alert .alert-info}
 
 ### Bilan d'un nodule hépatique

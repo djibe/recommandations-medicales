@@ -39,7 +39,7 @@ Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contrace
 {{% /collapse %}}
 {{%collapse "Introduction" %}}
 
-> << Les échecs contraceptifs dus au défaut d'observance sont l'une des principales causes de recours à l'interruption volontaire de grossesse (IVG) en France >>. –  *CNGOF 2018*
+> << Les échecs contraceptifs dus au défaut d'observance sont l'une des principales causes de recours à l'interruption volontaire de grossesse (IVG) en France >>. --  *CNGOF 2018*
 {.alert .alert-info}
 
 > << Dans tous les cas où cela est possible, les femmes doivent pouvoir choisir la méthode, médicamenteuse ou chirurgicale, et recevoir une information détaillée. Cette information renforce la satisfaction des femmes après IVG. >>
@@ -180,7 +180,7 @@ Plus l'IVG intervient précocement pendant la grossesse, plus le risque de compl
 
 ### 3^e^ consultation
 
-- Conditions de réalisation de l'IVG à domicile: compréhension, distance domicile – centre hospitalier référent (ouvert 24/7) de maximum 1 heure. Laisser le choix du lieu: domicile ou hôpital.
+- Conditions de réalisation de l'IVG à domicile: compréhension, distance domicile - centre hospitalier référent (ouvert 24/7) de maximum 1 heure. Laisser le choix du lieu: domicile ou hôpital.
 - Expliquer la conduite à tenir en cas de survenue d'effets indésirables (hémorragie, douleur) + support écrit
 - Remise de fiche de liaison avec les éléments essentiels  
 - Prise de **mifépristone**  
@@ -241,6 +241,6 @@ graph TB
 
 ### Bibliographie en attente
 
-[Tessema GA. et al. Interpregnancy interval and adverse pregnancy outcomes among pregnancies following miscarriages or induced abortions in Norway (2008–2016): A cohort study. PLOS Medicine. 2022.](https://doi.org/10.1371/journal.pmed.1004129)
+[Tessema GA. et al. Interpregnancy interval and adverse pregnancy outcomes among pregnancies following miscarriages or induced abortions in Norway (2008-2016): A cohort study. PLOS Medicine. 2022.](https://doi.org/10.1371/journal.pmed.1004129)
 
 {{%/sources%}}

@@ -184,7 +184,7 @@ Scanner lombaire en cas de contre-indication à l'IRM.
 {{% /collapse %}}
 {{%collapse "Traitement de la lombalgie aiguë" %}}
 
-> L'exercice physique est le traitement principal permettant une évolution favorable de la lombalgie – *HAS 2019*
+> L'exercice physique est le traitement principal permettant une évolution favorable de la lombalgie -- *HAS 2019*
 {.alert .alert-info}
 
 La prise en charge de la lombalgie est centrée sur le patient (bio-psycho-sociale) avec décisions partagées.

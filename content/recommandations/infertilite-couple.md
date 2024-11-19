@@ -179,7 +179,7 @@ L'examen clinique concerne chaque membre du couple.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> << Aucune exploration invasive ne doit avoir lieu tant que les investigations de base, moins invasives, n'ont pas été réalisées >>. – *CNGOF 2010*
+> << Aucune exploration invasive ne doit avoir lieu tant que les investigations de base, moins invasives, n'ont pas été réalisées >>. -- *CNGOF 2010*
 
 L'*OMS* préconise le bilan **à partir du stade d'infertilité** (12 mois de rapports réguliers sans contraception). Le *CNGOF* 6 mois après 35 ans et 12 mois avant.
 
@@ -220,8 +220,8 @@ Consultation d'andrologie en cas d'anomalie du spermogramme.
 {{% /collapse %}}
 {{%collapse "Traitement de l'infertilité" %}}
 
-> << Il est donc recommandé de ne pas proposer de prise en charge médicale d'infécondité à une patiente au-delà de 43 ans >>. – *CNGOF 2010*
-> << Il est recommandé de discuter au cas par cas la prise en charge de l'homme infécond à partir de l'âge de 60 ans >>. – *CNGOF 2010*
+> << Il est donc recommandé de ne pas proposer de prise en charge médicale d'infécondité à une patiente au-delà de 43 ans >>. -- *CNGOF 2010*
+> << Il est recommandé de discuter au cas par cas la prise en charge de l'homme infécond à partir de l'âge de 60 ans >>. -- *CNGOF 2010*
 {.alert .alert-warning}
 
 Informer sur la chute de la fertilité liée à l'âge.
@@ -250,7 +250,7 @@ Les mesures hygiéno-diététiques sont proposées pour le couple infertile:
 
 Veiller à offrir **soutien psychologique** et psychothérapie.
 
-> << L'acupuncture chez les femmes n'est probablement pas recommandée >>. – *ESHRE 2023*
+> << L'acupuncture chez les femmes n'est probablement pas recommandée >>. -- *ESHRE 2023*
 
 En centre spécialisé, différents traitements sont possibles: citrate de clomifène, pompe à LHRH, chirurgie, fécondation in-vitro (FIV), insémination intra-utérine (IIU), stimulation ovarienne (SO) ...
 

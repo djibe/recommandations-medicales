@@ -67,7 +67,7 @@ Obésité abdominale
 : En cas d'échec à 6-12 mois, le patient doit être orienté vers un **nutritionniste** (niveau 2) qui pourra l'adresser à un **centre spécialisé de l'obésité** (CSO, niveau 3, [annuaire PDF](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/article/les-centres-specialises-d-obesite)).
 
 Restriction cognitive
-: << Limitation volontaire des apports alimentaires avec possibles privations, dans le but de contrôler son poids >>. – *CEEDMM*
+: << Limitation volontaire des apports alimentaires avec possibles privations, dans le but de contrôler son poids >>. -- *CEEDMM*
 
 ### Épidémiologie de l'obésité en France
 
@@ -165,7 +165,7 @@ TCA
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << Demander l'accord de la personne pour aborder le poids >>. – *HAS 2023*
+> << Demander l'accord de la personne pour aborder le poids >>. -- *HAS 2023*
 {.alert .alert-info}
 
 ### Interrogatoire
@@ -379,7 +379,7 @@ La prise en charge de l'obésité associe:
 - Adaptation des doses d'antibiotiques: [AbxBMI](https://abxbmi.com)
 - Si Covid-19: [antiviral]({{< relref "covid-19.md" >}}) en urgence
 
-> << Les régimes déséquilibrés ou très restrictifs sont déconseillés >>. – *HAS 2022* | < 1200 kcal/j ne sont pas conseillés. – *CEEDMM*
+> << Les régimes déséquilibrés ou très restrictifs sont déconseillés >>. -- *HAS 2022* | < 1200 kcal/j ne sont pas conseillés. -- *CEEDMM*
 {.alert .alert-warning}
 
 ### Suivi
@@ -399,7 +399,7 @@ La prise en charge de l'obésité associe:
 {{% /collapse %}}
 {{%collapse "Conseils alimentaires" %}}
 
-> Pour toute personne, << Il n'y a pas d'interdits alimentaires >>. – *CEEDMM*
+> Pour toute personne, << Il n'y a pas d'interdits alimentaires >>. -- *CEEDMM*
 {.alert .alert-info}
 
 Exemples de conseils alimentaires à proposer en situation d'obésité:

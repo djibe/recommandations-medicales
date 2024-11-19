@@ -31,7 +31,7 @@ flowchart = true
 - La radiographie thoracique de face est systématique
 - Bilan complémentaire en cas de germe encapsulé chez le jeune ou suspicion de bactérie atypique
 - L'antibiothérapie est urgente et dépend du tableau de pneumopathie infectieuse: amoxicilline 1g x 3/j (+ clavulanique si âgé, comorbidités ou post-grippal), macrolide si bactérie atypique intracellulaire
-- La durée du traitement de la pneumonie est de 5 jours (7 jours si adulte non rétabli à J3, 14 jours si légionelle avec DO – *SPILF 2020*)
+- La durée du traitement de la pneumonie est de 5 jours (7 jours si adulte non rétabli à J3, 14 jours si légionelle avec DO -- *SPILF 2020*)
 - Réévaluation clinique systématique à 48-72 heures
 - Prévention de la pneumonie par arrêt du tabac et vaccinations grippe/Covid (+65 ans, immunodépression ...) et pneumocoque (voir *Prévention*)
 
@@ -350,7 +350,7 @@ Antibiothérapie selon l'orientation du tableau clinique.
 Traitement antibiotique probabiliste **pendant 5 jours** avec réévaluation systématique à 48-72 heures (adulte: 7 jours en cas de persistance de syndrome infectieux, 14 jours pour la légionelle selon *SPILF 2020*):
 
 - [Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) 1g x 3/j  
-  Enfant: 80-100 mg/kg/j en 2 prises (max 3 g/j – *GPIP 2023*).
+  Enfant: 80-100 mg/kg/j en 2 prises (max 3 g/j -- *GPIP 2023*).
 - Si allergie: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j (Pyostacine® à partir de 6 ans, double sensibilité pneumocoque + intracellulaires)  
   Seule alternative de l'enfant: ceftriaxone 50 mg/kg/j IV ou IM pendant 5 jours
 - Si échec à 48-72 heures: substituer par l'autre classe (macrolide ou amoxicilline) et réévaluer 48-72h

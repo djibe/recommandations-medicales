@@ -19,16 +19,17 @@ icd10 = ["K57", "K57.9"]
 image = true
 imageSrc = "Diverticules coliques en coloscopie. Anpol42, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.pdf"
+todo = "rankok"
 +++
 
 {{%article-summary%}}
 
 - La diverticulose colique est asymptomatique dans 80% des cas
-- À la première poussée de diverticulite sigmoïdienne aiguë (*ex* sigmoïdite diverticulaire): diagnostic radiologique systématique par scanner abdomino-pelvien
-- Pas d'antibiothérapie en cas de crise de diverticulite non compliquée, sans gravité et sans grossesse durant les 48 premières heures de la crise douloureuse
-- Chirurgie prophylactique des diverticules en cas de comorbidités:  
-  {{%class "text-black-secondary" %}}Immunodépression, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), altération de la qualité de vie, fistule, abcès, sténose symptomatique.{{%/class%}}
+- La diverticulite sigmoïdienne aiguë ((*ex* sigmoïdite diverticulaire)) est une inflammation infectieuse colique d'origine diverticulaire, survenant surtout entre 50 et 70 ans
+- Bilan systématique lors de la première poussée de diverticulite sigmoïdienne: diagnostic radiologique systématique par scanner abdomino-pelvien
+- Prise en charge de la crise de diverticulite non compliquée sans gravité hors grossesse: pas d'antibiothérapie durant les 48 premières heures de la crise douloureuse
+- Chirurgie colique prophylactique des diverticules en cas de comorbidités:  
+  Immunodépression, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), altération de la qualité de vie, fistule, abcès ou sténose symptomatique.
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -47,7 +48,7 @@ Elle est asymptomatique dans 80 % des cas.
 
 Les complications des poussées de diverticulite sigmoïdienne (*ex* sigmoïdite diverticulaire) surviennent principalement à la première poussée.
 
-Le traitement de la **diverticulite compliquée** (12 % des cas) est urgent et spécialisé si:
+Le traitement de la **diverticulite compliquée** (12% des cas) est urgent et spécialisé:
 
 - Abcès
 - Fistule sigmoïdienne
@@ -55,7 +56,7 @@ Le traitement de la **diverticulite compliquée** (12 % des cas) est urgent et s
 - Sténose colique
 - Hémorragie diverticulaire
 
-**Facteurs de risque** de complication: aspirine, anti-inflammatoires AINS, [alcool]({{< relref "sevrage-alcool.md" >}}).
+**Facteurs de risque** de complication: aspirine, anti-inflammatoires (AINS), [alcool]({{< relref "sevrage-alcool.md" >}}).
 
 ### Abréviations
 
@@ -81,7 +82,7 @@ Triade de symptômes d'une poussée de diverticulite sigmoïdienne aiguë:
 - Fièvre, sepsis
 - Troubles du transit
 
-> Le diagnostic clinique de poussée de diverticulite est erroné dans plus de 50% des cas. – *[Werner 2003](https://doi.org/10.1007/s00330-003-1887-7)*
+> Le diagnostic clinique de poussée de diverticulite est erroné dans plus de 50% des cas. -- *[Werner 2003](https://doi.org/10.1007/s00330-003-1887-7)*
 {.alert .alert-info}
 
 Facteurs prédictif de complication:
@@ -230,9 +231,9 @@ graph TB
 
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Diverticulite aiguë sigmoïdienne non compliquée. 2024.](https://www.has-sante.fr/jcms/p_3282886/fr/choix-et-durees-d-antibiotherapies-diverticulite-aigue-sigmoidienne-non-compliquee)
 - {{< references/college-gastro >}}
-- [Qaseem A et al. Diagnosis and Management of Acute Left-Sided Colonic Diverticulitis: A Clinical Guideline From the American College of Physicians. Ann Intern Med. 2022.](https://www.acpjournals.org/doi/full/10.7326/M21-2710)
+- [Qaseem A, et al. Diagnosis and Management of Acute Left-Sided Colonic Diverticulitis: A Clinical Guideline From the American College of Physicians. Ann Intern Med. 2022.](https://www.acpjournals.org/doi/full/10.7326/M21-2710)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
-- [Schultz J.K. et al. European Society of Coloproctology: guidelines for the management of diverticular disease of the colon. Colorectal Dis. 2020.](https://doi.org/10.1111/codi.15140)
+- [Schultz JK, et al. European Society of Coloproctology: guidelines for the management of diverticular disease of the colon. Colorectal Dis. 2020.](https://doi.org/10.1111/codi.15140)
 - {{< references/spilf-2020 >}}
 - [Rouillon JM. Prise en charge de la diverticulite sigmoïdienne. SNFGE. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/prise_en_charge_de_la_diverticulite.pdf)
 - Prescrire Rédaction. Diverticulite aiguë du côlon. Novembre 2018.
@@ -242,7 +243,8 @@ Mot-clé: sigmoidite
 
 ### Bibliographie en attente
 
-[Schultz J et al. European Society of Coloproctology: guidelines for the management of diverticular disease of the colon. Colorectal Dis. 2022.](https://onlinelibrary.wiley.com/doi/full/10.1111/codi.15140)
+- [Schultz JK, et al. European Society of Coloproctology: guidelines for the management of diverticular disease of the colon. Colorectal Dis. 2022.](https://onlinelibrary.wiley.com/doi/full/10.1111/codi.15140)
+- [Hall J, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Treatment of Left-Sided Colonic Diverticulitis. Dis Colon Rectum. 2020.](https://journals.lww.com/dcrjournal/fulltext/2020/06000/the_american_society_of_colon_and_rectal_surgeons.6.aspx)
 
 {{%/sources%}}
 {{% modal title="Score ASA" id="modal-score-asa"%}}

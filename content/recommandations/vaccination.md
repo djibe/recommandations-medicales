@@ -37,12 +37,12 @@ dTcaPolio
 Ces dosages réduits ne peuvent être utilisés qu'à partir de 11 ans (BoostrixTetra, Repevax). Délai minimal entre 2 rappels de 1 mois.
 
 Rattrapage vaccinal
-: << Si un retard est intervenu dans le programme de vaccination, il n'est pas nécessaire de recommencer. Il suffit de reprendre ce programme au stade où il a été interrompu et de compléter la vaccination en fonction de l'âge et du nombre de doses de vaccin manquantes >>. – *INPES*
+: << Si un retard est intervenu dans le programme de vaccination, il n'est pas nécessaire de recommencer. Il suffit de reprendre ce programme au stade où il a été interrompu et de compléter la vaccination en fonction de l'âge et du nombre de doses de vaccin manquantes >>. -- *INPES*
 
 Nourrisson prématuré
 : Naissance avant 37 semaines d'aménorrhée (SA).
 
-> << Les vaccins de manière générale ne sont pas associés à un risque accru de survenue d'une sclérose en plaques >>. – *[SFSEP 2024](https://sfsep.org/wp-content/uploads/2019/01/Presentation-Vaccinations-et-SEP-revision_Avril_2024.pdf)*
+> << Les vaccins de manière générale ne sont pas associés à un risque accru de survenue d'une sclérose en plaques >>. -- *[SFSEP 2024](https://sfsep.org/wp-content/uploads/2019/01/Presentation-Vaccinations-et-SEP-revision_Avril_2024.pdf)*
 {.alert .alert-info}
 
 ### Abréviations
@@ -98,7 +98,7 @@ Possibilité de manger immédiatement avant ou après.
 {{% /collapse %}}
 {{%collapse "Rattrapage vaccinal" %}}
 
-> << Un rattrapage vaccinal est indiqué en cas de statut inconnu >>. – *Calendrier vaccinal*
+> << Un rattrapage vaccinal est indiqué en cas de statut inconnu >>. -- *Calendrier vaccinal*
 {.alert .alert-info}
 
 {{< table title="Âges limites du rattrapage vaccinal systématique en population générale selon le Calendrier vaccinal" >}}
@@ -222,7 +222,7 @@ Contre-indications temporaires à la vaccination fièvre jaune:
 {{% /collapse %}}
 {{%collapse "Administration des vaccins" %}}
 
-> << La présence d'une infection mineure ou d'une fièvre de faible intensité ne doit pas retarder le rattrapage vaccinal. L'existence d'une maladie fébrile (> 38°C) ou d'une infection aiguë modérée ou sévère ne contre-indique pas la vaccination mais peut conduire à la différer de quelques jours >>. – *Calendrier vaccinal*
+> << La présence d'une infection mineure ou d'une fièvre de faible intensité ne doit pas retarder le rattrapage vaccinal. L'existence d'une maladie fébrile (> 38°C) ou d'une infection aiguë modérée ou sévère ne contre-indique pas la vaccination mais peut conduire à la différer de quelques jours >>. -- *Calendrier vaccinal*
 {.alert .alert-warning}
 
 - Contrôler la date de péremption du vaccin, la chaîne du froid (à l'abri de la lumière, température de 2°C à 8°C)
@@ -274,7 +274,7 @@ Ne pas injecter dans un site si celui-ci présente:
 ### Technique d'injection
 
 - Sous-cutanée
-  - Pincer la peau et injection à 45° dans le deltoïde (face postérieure du bras – *CNPU*)
+  - Pincer la peau et injection à 45° dans le deltoïde (face postérieure du bras -- *CNPU*)
   - Vaccins viraux vivants/tués comme ROR, fièvre jaune
 - Intramusculaire
   - Angle de 90°

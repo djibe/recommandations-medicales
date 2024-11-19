@@ -87,7 +87,7 @@ Avis ORL si les tympans sont mal ou non vus avant 2 ans.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> << Aucun examen n'est nécessaire en cas d'OMA purulente non compliquée >>. – *CNPU*
+> << Aucun examen n'est nécessaire en cas d'OMA purulente non compliquée >>. -- *CNPU*
 
 ### Scanner avec injection de produit de contraste
 
@@ -156,7 +156,7 @@ Si indication, antibiothérapie pendant **5 jours**:
 
 ### En cas d'échec de l'antibiothérapie à 48 heures
 
-Avis spécialisé ORL en cas d'échec à 48-72 heures chez l'adulte. – *HAS/SPILF 2024*
+Avis spécialisé ORL en cas d'échec à 48-72 heures chez l'adulte. -- *HAS/SPILF 2024*
 {.alert .alert-warning}
 
 Échec de l'antibiothérapie de l'otite moyenne aiguë (*GPIP 2023*)

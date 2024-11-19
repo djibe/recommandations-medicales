@@ -70,7 +70,7 @@ SIAMS
 : Société italienne d'andrologie et de médecine sexuelle
 
 TLIV
-: temps de latence intra vaginal (intravaginal ejaculatory delay – IED)
+: temps de latence intra vaginal ({{%lang%}}intravaginal ejaculatory delay -- IED{{%/lang%}})
 {.dl-inline}
 
 {{% /collapse %}}

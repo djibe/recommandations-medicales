@@ -265,7 +265,7 @@ Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{< rel
 
 ### Bibliographie en attente
 
-- [Werner R et al. European consensus-based (S2k) Guideline on the Management of Herpes Zoster – guided by the European Dermatology Forum (EDF) in cooperation with the European Academy of Dermatology and Venereology (EADV), Part 1: Diagnostic means. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13995)
-- [Werner R et al. European consensus-based (S2k) Guideline on the Management of Herpes Zoster – guided by the European Dermatology Forum (EDF) in cooperation with the European Academy of Dermatology and Venereology (EADV), Part 2: Treatment. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13957)
+- [Werner R et al. European consensus-based (S2k) Guideline on the Management of Herpes Zoster -- guided by the European Dermatology Forum (EDF) in cooperation with the European Academy of Dermatology and Venereology (EADV), Part 1: Diagnostic means. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13995)
+- [Werner R et al. European consensus-based (S2k) Guideline on the Management of Herpes Zoster -- guided by the European Dermatology Forum (EDF) in cooperation with the European Academy of Dermatology and Venereology (EADV), Part 2: Treatment. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13957)
 
 {{%/sources%}}

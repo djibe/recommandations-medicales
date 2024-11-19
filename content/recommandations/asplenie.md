@@ -93,7 +93,7 @@ La pénicilline V existe en sirop (250.000 UI/5 mL, 500.000 UI/5 mL, 1 MUI/10 mL
   - Adulte: amoxicilline 500 mg x 2/j
   - Enfant: amoxicilline 10 mg/kg x 2/j
 
-> << en cas de signes cliniques d'infection, même débutante, il est recommandé d'instaurer une antibiothérapie curative par céphalosporine de 3ème génération, type céfotaxime ou ceftriaxone, afin de limiter la survenue de sepsis graves >>. – *SFAR*
+> << en cas de signes cliniques d'infection, même débutante, il est recommandé d'instaurer une antibiothérapie curative par céphalosporine de 3ème génération, type céfotaxime ou ceftriaxone, afin de limiter la survenue de sepsis graves >>. -- *SFAR*
 {.alert .alert-warning}
 
 {{% /collapse %}}
@@ -159,7 +159,7 @@ Vaccin [ACT-HIB®](https://base-donnees-publique.medicaments.gouv.fr/affichageDo
 
 1 dose annuelle de rappel au moment de la campagne annuelle de vaccination (voir [Grippe]({{< relref "grippe.md" >}})).
 
-> << Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques >> (sauf les vaccins vivants en cas d'immunosuppression). – *HCSP 2014*
+> << Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques >> (sauf les vaccins vivants en cas d'immunosuppression). -- *HCSP 2014*
 {.alert .alert-info}
 
 ### Vaccination de l'entourage du patient splénectomisé

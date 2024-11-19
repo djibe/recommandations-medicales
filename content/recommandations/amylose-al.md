@@ -97,7 +97,7 @@ Le diagnostic d'amylose AL est histologique: dépôts amyloïdes colorés par le
 - Échographie abdominale
 - Électromyogramme
 
-Adresser au spécialiste (interniste, hématologue) pour affirmer le diagnostic (biopsie des glandes salivaires accessoires – BGSA) et myélogramme.
+Adresser au spécialiste (interniste, hématologue) pour affirmer le diagnostic (biopsie des glandes salivaires accessoires -- BGSA) et myélogramme.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}

@@ -109,5 +109,3 @@ Signes de TIH:
 - Cismef
 
 {{%/sources%}}
-
-≤≥±®æœŒÈ²³ÂSpO~2~–

@@ -121,7 +121,7 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{<
 #### Échelles d'aide au dépistage de la dépression de l'adulte {.typography-headline-6}
 
 - {{< modal-btn modal-phq2 >}}Questionnaire PHQ-2{{< /modal-btn >}}
-- {{< modal-btn modal-phq4 >}}Questionnaire PHQ-4{{< /modal-btn >}} (couplé au repérage d'une anxiété – *ACP 2019*)
+- {{< modal-btn modal-phq4 >}}Questionnaire PHQ-4{{< /modal-btn >}} (couplé au repérage d'une anxiété -- *ACP 2019*)
 - Adolescent (13-20 ans): {{< modal-btn modal-adrs >}}questionnaire ADRS{{< /modal-btn >}}
 - [Post-partum]({{< relref "post-partum.md" >}}): {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou [questionnaire d'Edinburgh EPDS](https://www.hug.ch/sante-psychique-perinatalite/comment-depister-depression-perinatale-quizz-epds)
 
@@ -243,7 +243,7 @@ L'évaluation de la sévérité repose sur le nombre de critères, la sévérit�
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Dépister la dépression chez l'adulte (notamment si grossesse ou post-partum – *USPTF 2023*), l'adolescent de 12 à 18 ans (*USPTF*) et devant tout trouble cognitif (*HAS 2017*): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}} (couplé à l'anxiété) ou {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}}
+Dépister la dépression chez l'adulte (notamment si grossesse ou post-partum -- *USPTF 2023*), l'adolescent de 12 à 18 ans (*USPTF*) et devant tout trouble cognitif (*HAS 2017*): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}} (couplé à l'anxiété) ou {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}}
 {.alert .alert-info}
 
 Le premier épisode dépressif peut survenir à tout âge mais il survient plus souvent chez l'adulte jeune (25 ans).
@@ -508,7 +508,7 @@ Classes thérapeutiques d'antidépresseurs: {{< modal-btn modal-isrs >}}ISRS{{< 
 - Délai d'action plus long chez le sujet âgé (maintenir minimum 1 an après rémission)
 - Thérapies autres: acupuncture (*ACP*)
 - Si anxiété, agitation, insomnies invalidantes: [benzodiazépine]({{< relref "benzodiazepines.md" >}}) pendant 2 semaines
-- Arrêt progressif de l'antidépresseur (> 1 mois – *BAP*, *NICE*) après décision partagée au-delà de 6-12 mois de rémission  
+- Arrêt progressif de l'antidépresseur (> 1 mois -- *BAP*, *NICE*) après décision partagée au-delà de 6-12 mois de rémission  
   Prolonger le traitement (2 ans) en cas de trouble dépressif récurrent.
 
 > Selon *BAP 2015*, choix pour une efficacité maximale recherchée: clomipramine, venlafaxine ≥ 150 mg, escitalopram 20 mg, sertraline voire amitriptyline ou mirtazapine.
@@ -569,7 +569,7 @@ graph TB
 - [Collège National Universitaire de Psychiatrie (CNUP). Troubles de l'humeur Épisode dépressif caractérisé et trouble dépressif récurrent de l'adolescent et de l'adulte. Référentiel de Psychiatrie et Addictologie. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
 - [Collège National Universitaire de Psychiatrie (CNUP). Prescription et surveillance des psychotropes. Item 74. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
 - [Royal College of Psychiatrists. Position statement on antidepressants and depression. 2019. (PDF)](https://www.bap.org.uk/pdfs/PS04-19-antidepressants-and-depression.pdf)
-- [HAS. Coordination entre le médecin généraliste et les différents acteurs de soins dans la prise en charge des patients adultes souffrant de troubles mentaux – états des lieux, repères et outils pour une amélioration. 2018.](https://www.has-sante.fr/jcms/c_2874187/fr/coordination-entre-le-medecin-generaliste-et-les-differents-acteurs-de-soins-dans-la-prise-en-charge-des-patients-adultes-souffrant-de-troubles-mentaux-etats-des-lieux-reperes-et-outils-pour-une-amelioration)
+- [HAS. Coordination entre le médecin généraliste et les différents acteurs de soins dans la prise en charge des patients adultes souffrant de troubles mentaux - états des lieux, repères et outils pour une amélioration. 2018.](https://www.has-sante.fr/jcms/c_2874187/fr/coordination-entre-le-medecin-generaliste-et-les-differents-acteurs-de-soins-dans-la-prise-en-charge-des-patients-adultes-souffrant-de-troubles-mentaux-etats-des-lieux-reperes-et-outils-pour-une-amelioration)
 - [HAS. Épisode dépressif caractérisé de l'adulte : prise en charge en soins de premier recours. 2017.](https://www.has-sante.fr/jcms/p_3261767/fr/depression)
 - [Cleare A et al. Evidence-based guidelines for treating depressive disorders with antidepressants: A revision of the 2008 British Association for Psychopharmacology guidelines. J Psychopharmacol. 2015. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Antidepressants.pdf)
 - [Davidson JR et al; British Association for Psychopharmacology. A psychopharmacological treatment algorithm for generalised anxiety disorder (GAD). J Psychopharmacol. 2010.](https://pubmed.ncbi.nlm.nih.gov/18832431/)

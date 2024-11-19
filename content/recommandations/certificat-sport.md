@@ -182,7 +182,7 @@ Critères de réalisation d'un électrocardiogramme (ECG) 12 dérivations chez l
 {{% /collapse %}}
 {{%collapse "Information des sportifs" %}}
   
-> << Appeler - masser - défibriller >> (93% des morts subites au sport arrivent devant témoin) – *[FédéCardio: Savez-vous sauver ?](https://www.fedecardio.org/je-me-teste/savez-vous-sauver/)*
+> << Appeler - masser - défibriller >> (93% des morts subites au sport arrivent devant témoin) -- *[FédéCardio: Savez-vous sauver ?](https://www.fedecardio.org/je-me-teste/savez-vous-sauver/)*
 
 Informer sur les 10 règles d'or pour le sportif:
 
@@ -229,7 +229,7 @@ graph TB
 - [Journal Officiel. Décret 2021-564. 07/05/2021.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486809)
 - [CNOM. Certificats de non contre-indication à la pratique du sport. Médecins n°69. sept-oct 2020](https://www.conseil-national.medecin.fr/sites/default/files/external-package/bulletin/m05mhm/medecins_69.pdf)
 - [Marijon E et al. Characteristics and Outcomes of Sudden Cardiac Arrest During Sports in Women. Circ Arrhythm Electrophysiol. 2013.](https://doi.org/10.1161/circep.113.000651)
-- [Marijon E et al. Incidence of Sports-Related Sudden Death in France by Specific Sports and Sex. JAMA. 2013;310(6):642–643.](https://jamanetwork.com/journals/jama/fullarticle/1728703)
+- [Marijon E et al. Incidence of Sports-Related Sudden Death in France by Specific Sports and Sex. JAMA. 2013;310(6):642-643.](https://jamanetwork.com/journals/jama/fullarticle/1728703)
 - [Marijon E et al. Sports-Related Sudden Death in the General Population. Circulation. 2011.](https://doi.org/10.1161/CIRCULATIONAHA.110.008979)
 - [Société Française de Cardiologie (SFC). Recommandations concernant le contenu du bilan cardiovasculaire de la visite de non contre indication à la pratique du sport en compétition entre 12 et 35 ans. 2009.](https://www.sfcardio.fr/publication/recommandations-concernant-le-contenu-du-bilan-cardiovasculaire-de-la-visite-de-non)
 - [CNOM. Certificats de non contre indication à la pratique du sport](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificats-indication-pratique-sport)

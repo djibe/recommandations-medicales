@@ -140,7 +140,7 @@ Autres diagnostics à rechercher devant un épisode de douleurs thoraciques:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-En cas d'appel d'un patient suspect de syndrome coronarien aigu, le rediriger vers le SAMU. << L'objectif est de "prescrire le 15" >>. – *HAS*
+En cas d'appel d'un patient suspect de syndrome coronarien aigu, le rediriger vers le SAMU. << L'objectif est de "prescrire le 15" >>. -- *HAS*
 {.alert .alert-warning}
 
 ### Interrogatoire

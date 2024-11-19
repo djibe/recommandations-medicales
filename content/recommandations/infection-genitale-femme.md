@@ -165,5 +165,3 @@ La responsabilité de *Mycoplasma genitalium* est possible dans certains cas de 
 - Minerva
 
 {{%/sources%}}
-
-≤≥±®æœŒÈ²³ÂSpO~2~–

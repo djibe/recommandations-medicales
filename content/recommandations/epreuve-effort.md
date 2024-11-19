@@ -2,7 +2,6 @@
 id = "0190e8c2-8101-7490-9369-7f0535082289"
 title = "Épreuve d'effort"
 prefix = "l'"
-noindex = true
 description = "Recommandations pour les indications au test d'effort. Épreuve d'effort selon les maladies cardiovasculaires, selon les symptômes (angor), chez le sportif"
 synonyms = ["Test d'effort"]
 auteurs = ["Jean-Baptiste FRON"]

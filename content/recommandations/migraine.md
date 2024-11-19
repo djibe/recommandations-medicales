@@ -505,7 +505,7 @@ En cas de traitement de crise inefficace:
 
 ### Migraine et contraception orale
 
-Contre-indications formelles à la contraception œstroprogestative: migraine avec aura, de novo ou aggravation sous œstroprogestatifs. – *CNGOF 2018*
+Contre-indications formelles à la contraception œstroprogestative: migraine avec aura, de novo ou aggravation sous œstroprogestatifs. -- *CNGOF 2018*
 {.alert .alert-warning}
 
 2 questions: Cette contraception risque-t-elle d'aggraver la migraine et expose-t-elle à un risque vasculaire particulier ?

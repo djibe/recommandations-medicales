@@ -271,7 +271,7 @@ Peut être débuté pendant la crise de goutte.
 Prévention de crise par colchicine 0,5 à 1 mg/j pendant les 3 à 6 premiers mois (alternatives: AINS, prednisone).
 {{%/info%}}
 
-L'*ACR* recommande la recherche d'*HLA–B*5801* pour les **personnes originaires d'Asie du Sud-Est** (**Vietnam**, Chine, Thaïlande, Corée) et **afro-américains** par sur-risque de toxidermie (x3).
+L'*ACR* recommande la recherche d'*HLA-B*5801* pour les **personnes originaires d'Asie du Sud-Est** (**Vietnam**, Chine, Thaïlande, Corée) et **afro-américains** par sur-risque de toxidermie (x3).
 
 La recherche d'HLA n'étant pas remboursée en France (100€), il est prudent de démarrer à 50 mg avec paliers de 50 mg pour ces personnes.
 

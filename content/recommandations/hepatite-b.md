@@ -241,7 +241,7 @@ Si prématuré < 32 semaines ou poids < 2 kg: schéma 4 doses à J0-M1-M2-M6 ave
 
 Une seule contre-indication: hypersensibilité à la substance ou ses composants.
 
-> << Les vaccins de manière générale ne sont pas associés à un risque accru de survenue d'une sclérose en plaques >>. – *[SFSEP 2024](https://sfsep.org/wp-content/uploads/2019/01/Presentation-Vaccinations-et-SEP-revision_Avril_2024.pdf)*
+> << Les vaccins de manière générale ne sont pas associés à un risque accru de survenue d'une sclérose en plaques >>. -- *[SFSEP 2024](https://sfsep.org/wp-content/uploads/2019/01/Presentation-Vaccinations-et-SEP-revision_Avril_2024.pdf)*
 {.alert .alert-info}
 
 {{% /collapse %}}

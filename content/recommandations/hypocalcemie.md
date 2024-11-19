@@ -160,7 +160,7 @@ Les symptômes d'une hypocalcémie sont très corrélés à la profondeur de l'h
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-> << Le traitement de l'hypocalcémie symptomatique est une urgence >>, idem si aiguë . – *CEEDMM*
+> << Le traitement de l'hypocalcémie symptomatique est une urgence >>, idem si aiguë . -- *CEEDMM*
 {.alert .alert-warning}
 
 La prise en charge de l'hypocalcémie est principalement étiologique.

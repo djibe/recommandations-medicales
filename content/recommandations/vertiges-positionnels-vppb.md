@@ -111,7 +111,7 @@ Drapeaux rouges à rechercher devant chaque épisode de [vertiges](/tags/vertige
 
 Le caractère << bénin >> nécessite des critères précis et un examen rigoureux en période vertigineuse. Adresser à l'ORL en l'absence de formation spécifique ou pour un premier épisode.
 
-> << Un vertige positionnel doit être toujours très suspect d'une atteinte centrale durant l'enfance >>. – *SFORL 2012*
+> << Un vertige positionnel doit être toujours très suspect d'une atteinte centrale durant l'enfance >>. -- *SFORL 2012*
 {.alert .alert-warning}
 
 ### Interrogatoire
@@ -243,6 +243,6 @@ graph TB
 
 ### Bibliographie en attente
 
-[Bhattacharyya N et al. Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update). Otolaryngology–Head and Neck Surgery. 2017.](https://journals.sagepub.com/doi/full/10.1177/0194599816689667)
+[Bhattacharyya N et al. Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update). Otolaryngology-Head and Neck Surgery. 2017.](https://journals.sagepub.com/doi/full/10.1177/0194599816689667)
 
 {{%/sources%}}

@@ -139,7 +139,7 @@ Dépister les personnes à risque d'hépatite C:
 
 ### Sérologie hépatite C et co-infections hépatite B et VIH
 
-> Le dépistage VHB-VHC-VIH doit être combiné. – *AFEF*
+> Le dépistage VHB-VHC-VIH doit être combiné. -- *AFEF*
 {.alert .alert-warning}
 
 Sérologie hépatite C ([Remb. 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=3784&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)):
@@ -160,7 +160,7 @@ Ou TROD VHC au plus près du patient (remboursé à 100%).
 Mesure de la charge virale hépatite C systématique lorsque 2 sérologies sont positives (ou 1 TROD + 1 sérologie).  
 [Remboursée à 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=4124&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI).
 
-> << la recherche du génotype du VHC n'est pas nécessaire >>. – *AFEF*
+> << la recherche du génotype du VHC n'est pas nécessaire >>. -- *AFEF*
 
 ### Bilan d'une hépatite C
 

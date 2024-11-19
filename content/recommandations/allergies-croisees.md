@@ -148,7 +148,7 @@ Par ordre de fréquence: Noix de cajou > Noisette > Noix > Pistache > Amande, no
 {{%sources%}}
 
 - [Anses. Allergies alimentaires : état des lieux et propositions d'orientations. Saisine n°2015-SA-0257. (PDF)](https://www.anses.fr/en/system/files/NUT2015SA0257.pdf)
-- [Pauli G,  Metz-Favre C. Allergies croisées pollens–aliments. Revue des Maladies Respiratoires. Volume 30. Issue 4. 2013. Pages 328-337.](https://doi.org/10.1016/j.rmr.2012.10.633)
+- [Pauli G,  Metz-Favre C. Allergies croisées pollens-aliments. Revue des Maladies Respiratoires. Volume 30. Issue 4. 2013. Pages 328-337.](https://doi.org/10.1016/j.rmr.2012.10.633)
 - [Dutau G, Rancé F. Historique et description des principales allergies croisées. Revue Française d'Allergologie. Volume 49. Issue 3. 2009. Pages 180-188.](https://doi.org/10.1016/j.reval.2009.01.005)
 - [Deviller P. Panorama des allergies croisées. Rev. fr. Allergol., 1998, 38 (1), 20-27.](https://doi.org/10.1016/S0335-7457(98)80014-2)
 - [STAllergènes](https://stallergenesgreer.fr/allergies-croisees)

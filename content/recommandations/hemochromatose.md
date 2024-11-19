@@ -108,7 +108,7 @@ Rechercher des facteurs aggravants:
 - Antécédents familiaux: hémochromatose, hépatopathie
 - [Consommation d'alcool]({{< relref "sevrage-alcool.md" >}})
 
-> << Dans 85 % des cas le diagnostic est trop tardif >>. – *Inserm*
+> << Dans 85% des cas le diagnostic est trop tardif >>. -- *Inserm*
 {.alert .alert-warning}
 
 ### Examen clinique

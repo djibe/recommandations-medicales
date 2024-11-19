@@ -3,6 +3,7 @@ id = "0190e8c3-b7a2-7476-b6a7-02ff6592241f"
 title = "Grossesse"
 prefix = "la "
 noindex = true
+longHtml = true
 description = "Recommandations de prise en charge au cours de la grossesse: événements physiologiques ou pathologiques"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -18,7 +19,7 @@ sctid = "118185001"
 icd10 = []
 image = true
 imageSrc = "Illustration de la grossesse par stories / Freepik"
-todo = "interrog 1re cs, évaluer les apports calcium, électrophorèse Hb, fiche ANSM vaccins, grossesse altitude, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
+todo = "Hebbema ou [Datascope](https://www.scansante.fr/applications/indicateurs-de-sante-perinatale), interrog 1re cs, évaluer les apports calcium, électrophorèse Hb, fiche ANSM vaccins, grossesse altitude, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
 chart = true
 modele = true
 +++
@@ -60,9 +61,9 @@ Chapitres dédiés:
 - [Violences faites aux femmes]({{< relref "violences-femmes.md" >}})
 
 {{%/article-summary%}}
-{{%collapse "La maternité en France" %}}
+{{%collapse "La maternité en France" "show"%}}
 
-Rechercher une grossesse avant **32 ans** pour avoir 90 % de chance d'obtenir 2 enfants (27 ans sans AMP) ou avant 35 pour 1 (32 ans sans AMP). – *[Habbema et al 2015](https://pubmed.ncbi.nlm.nih.gov/26185187/)*
+Rechercher une grossesse avant **32 ans** pour avoir 90% de chance d'obtenir 2 enfants (27 ans sans AMP) ou avant 35 ans pour un enfant (32 ans sans AMP). -- *[Habbema et al 2015](https://pubmed.ncbi.nlm.nih.gov/26185187/)*
 {.alert .alert-info}
 
 > 678.000 naissances en France 2023 (-6,6 % sur 1 an), soit **1,64** enfant par femme.
@@ -100,10 +101,6 @@ const chartOptions1 = {
       decimalsInFloat: 1,
     }
   ],
-  tooltip: {
-    y: [{ formatter: function(value) { return value} },
-      { formatter: function(value) { return value }}]
-  },
 }
 </script>
 
@@ -112,7 +109,7 @@ const chartOptions1 = {
 Malgré les fermetures, **43 %** des maternités ont réalisé en 2020 **moins de 3 accouchements par jour**. --  *[Drees Les établissements de santé - édition 2022 (fiche 21)](https://drees.solidarites-sante.gouv.fr/publications-documents-de-reference-communique-de-presse/panoramas-de-la-drees/les-etablissements)*
 {.alert .alert-info}
 
-{{< figure-chart title="Taux de fécondité selon l'âge de la mère en France métropolitaine. Dr JB Fron d'après [Insee. Tableaux de l'économie française - Natalité – Fécondité. 2020.](https://www.insee.fr/fr/statistiques/4277635?sommaire=4318291#graphique-figure2)" id="chart-2">}}
+{{< figure-chart title="Taux de fécondité selon l'âge de la mère en France métropolitaine. Dr JB Fron d'après [Insee. Tableaux de l'économie française - Natalité - Fécondité. 2020.](https://www.insee.fr/fr/statistiques/4277635?sommaire=4318291#graphique-figure2). Lecture: en 2019, 100 femmes de 25 ans ont mis au monde 8,0 enfants" id="chart-2">}}
 <script>
 const chartOptions2 = {
   series: [{
@@ -138,8 +135,47 @@ const chartOptions2 = {
     }
   ],
   tooltip: {
-    y: [{ formatter: function(value) { return value} },
-      { formatter: function(value) { return value }}]
+    y: [{ formatter: function(value) { return value} }]
+  },
+}
+</script>
+
+{{< figure-chart title="Taux de mortinatalité totale (spontanée et IMG en France entière) selon la tranche d'âge de la mère. Dr JB Fron d'après [Drees Indicateurs de santé périnatale](https://data.drees.solidarites-sante.gouv.fr/explore/dataset/1520_indicateurs-de-sante-perinatale/information/?refine.dossier=Mortinatalit%C3%A9)" id="chart-3">}}
+<script>
+const chartOptions3 = {
+  series: [{
+    name: 'Mortalité',
+    data: [12.9, 9.4, 7.6, 7.7, 9.5, 13.5]
+  },
+  {
+    name: 'Naissances',
+    data: [13123, 81250, 200843, 251686, 141385, 38856]
+  }],
+  chart: { type: 'line', height: 280 },
+  markers: { size: 0 },
+  stroke: { colors: ['#4150f5', '#ffa600'], width: 4 },
+  title: { text: 'Mortinatalité selon l’âge de la mère en 2022' },
+  xaxis: { categories: ['< 20', '20-24', '25-29', '30-34', '35-39', '≥ 40'],
+    tickAmount: 13,
+    title: { text: 'Âge'},
+  },
+  yaxis: [
+    {
+      title: { text: 'Mortalité (‰)'},
+      labels: { style: { colors: '#757575' }},
+      decimalsInFloat: 0,
+      forceNiceScale: true,
+      tickAmount: 4,
+      min: 0
+    },
+    {
+      opposite: true,
+      title: { text: 'Naissances' },
+      decimalsInFloat: 0,
+    }
+  ],
+  tooltip: {
+    y: [{ formatter: function(value) { return `${value} ‰` } }]
   },
 }
 </script>

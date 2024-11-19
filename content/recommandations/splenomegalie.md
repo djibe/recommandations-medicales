@@ -170,7 +170,7 @@ Selon le tableau: hémocultures ou recherche de [paludisme en urgence]({{< relre
   - Anémie régénérative: hémolyse constitutionnelle (frottis) ou acquise (Coombs direct)
   - [Polyglobulie]({{< relref "polyglobulie.md" >}}): syndrome myéloprolifératif
 - Plaquettes
-  - Thrombopénie: hypersplénisme (thrombopénie 50–90 G/L, leucopénie), infection, lupus voire hémopathie
+  - Thrombopénie: hypersplénisme (thrombopénie 50-90 G/L, leucopénie), infection, lupus voire hémopathie
 
 ### Échographie abdominale
 

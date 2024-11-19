@@ -47,7 +47,7 @@ CMIT
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le tableau clinique est souvent fruste. Signes et symptômes des ténias (ou tæniasis):
+Le tableau clinique de l'infection par ténia (ou tæniasis) est souvent fruste:
 
 - Infection cosmopolite
 - Consommation de viande contaminée (bovin, porcin), viande crue à risque
@@ -70,34 +70,33 @@ Les complications sont rares par obstruction mécanique: tableau de colique hép
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Prélèvements parasitologiques multiples pour le diagnostic des ténias:
+Bilan par prélèvements parasitologiques multiples pour le diagnostic des ténias:
 
 - Scotch-test anal
-- Examen parasitologique des selles répétés pendant 3 jours
+- Examen parasitologique des selles répété pendant 3 jours
 - Si anneaux blancs rectangulaires plats dans les sous-vêtements ou la literie (*T. saginata*): examen parasitologique direct
 
-Le diagnostic peut être réalisé avec le **<< Scotch®-test >> anal** (test de Graham ou test à la cellophane adhésive).
-
-Application matinale de ruban adhésif transparent sur la marge anale le matin (en déplissant les plis radiés de l'anus) puis recollé sur une surface porte-objet et analyse au laboratoire pour la mise en évidence des œufs.
+Le diagnostic peut être réalisé avec le **<< Scotch®-test >> anal** (test de Graham ou test à la cellophane adhésive): application matinale de ruban adhésif transparent sur la marge anale le matin (en déplissant les plis radiés de l'anus) puis recollé sur une surface porte-objet et analyse au laboratoire pour la mise en évidence des œufs.
 
 Une [éosinophilie]({{< relref "hypereosinophilie.md" >}}) modérée est parfois observée.
 
 {{% /collapse %}}
 {{%collapse "Traitement du ténia" %}}
 
-Le taeniasis doit toujours être traité
+> Le taeniasis doit toujours être traité.
 {.alert .alert-info}
 
 La prise en charge des ténias associe:
 
-- Éviter de manger de la viande bovine ou de porc crue ou peu cuite (ou la congeler)
-- Lavage des mains régulier
-- Couper les ongles courts et les brosser
-- Changer et laver le linge de nuit à 60°C
-- Antiparasitaire: [praziquantel](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60996403&typedoc=R) 10 mg/kg (Biltricide® hors AMM) en 1 prise (y compris pendant la grossesse, [CRAT](https://www.lecrat.fr/10527/))
+- Mesures d'hygiène
+  - Éviter de manger de la viande bovine ou de porc crue ou peu cuite (ou la congeler)
+  - Lavage des mains régulier
+  - Couper les ongles courts et les brosser
+  - Changer et laver le linge de nuit à 60°C
+- Antiparasitaire: [praziquantel](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60996403&typedoc=R) 10 mg/kg (Biltricide® hors AMM) en 1 prise (possible pendant la grossesse -- [CRAT](https://www.lecrat.fr/10527/))
 - Contrôle parasitaire 3 mois après le traitement
 
-En cas d'autres parasitoses digestives associées: albendazole à 400 mg/j pendant 3 jours avec nouveau cycle de traitement à 2 ou 3 semaines.
+En cas d'autres parasitoses digestives associées: albendazole (Eskazole, Zentel) à 400 mg/j pendant 3 jours avec nouveau cycle de traitement à 2 ou 3 semaines.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du ténia" "show" %}}

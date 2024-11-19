@@ -188,7 +188,7 @@ Rechercher un **syndrome des anticorps anti-phospholipides** (SAPL) en cas de pr
 {{% /collapse %}}
 {{%collapse "Traitement de la pré-éclampsie" %}}
 
-> << L'hospitalisation est systématique lors de la découverte d'une prééclampsie >>. – *Collège*
+> << L'hospitalisation est systématique lors de la découverte d'une prééclampsie >>. -- *Collège*
 {.alert .alert-warning}
 
 Toute suspicion de pré-éclampsie doit être prise en charge dans des **urgences obstétricales**.

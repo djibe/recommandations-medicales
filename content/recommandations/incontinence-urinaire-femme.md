@@ -56,7 +56,7 @@ IUE
 
 ### Interrogatoire
 
-> L'incontinence urinaire est un diagnostic d'interrogatoire: << Vous arrive-t-il d'avoir des pertes ou des fuites d'urine ? >>. – *Anaes 2003*
+> L'incontinence urinaire est un diagnostic d'interrogatoire: << Vous arrive-t-il d'avoir des pertes ou des fuites d'urine ? >>. -- *Anaes 2003*
 {.alert .alert-info}
 
 - Antécédents  

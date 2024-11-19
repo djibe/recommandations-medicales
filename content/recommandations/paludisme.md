@@ -41,7 +41,7 @@ Paludisme
 : Personnes à risque de forme grave: femme enceinte, nourrissons et enfants avant 6 ans, personnes âgées, [PVVIH]({{< relref "vih-sida.md" >}}) et [aspléniques]({{< relref "asplenie.md" >}}).
 : Absence de transmission du parasite sous 18°C.
 
-> << Un des principaux facteurs de risque des formes graves et de décès du paludisme demeure le retard au diagnostic, souvent lié à une prise en soin inadaptée des patients lors d'une première consultation >>. – *Ministère de la Santé 2024*
+> << Un des principaux facteurs de risque des formes graves et de décès du paludisme demeure le retard au diagnostic, souvent lié à une prise en soin inadaptée des patients lors d'une première consultation >>. -- *Ministère de la Santé 2024*
 {.alert .alert-warning}
 
 ### Abréviations
@@ -109,7 +109,7 @@ Appel du 15 en cas de suspicion d'accès palustre grave:
 - Hypoglycémie
 {{%/warning%}}
 
-> << Tout accès palustre à *P. falciparum* peut évoluer vers une forme grave et entraîner le décès du patient >>. – *CMIT 2021*
+> << Tout accès palustre à *P. falciparum* peut évoluer vers une forme grave et entraîner le décès du patient >>. -- *CMIT 2021*
 
 ### Critères d'hospitalisation pour paludisme
 
@@ -132,7 +132,7 @@ Appel du 15 en cas de suspicion d'accès palustre grave:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << Toute fièvre dans les 3 mois suivant le retour d'une zone d'endémie est un paludisme jusqu'à preuve du contraire >> (*Anofel 2022*, rappelé par *HCSP 2023*) << quels que soient les symptômes associés et même si un foyer infectieux ou une co-infection (dengue) est identifié >> (*SPILF 2020*) et << toute fièvre doit faire rechercher un antécédent de séjour en zone d'endémie >>. – *CMIT 2021*
+> << Toute fièvre dans les 3 mois suivant le retour d'une zone d'endémie est un paludisme jusqu'à preuve du contraire >> (*Anofel 2022*, rappelé par *HCSP 2023*) << quels que soient les symptômes associés et même si un foyer infectieux ou une co-infection (dengue) est identifié >> (*SPILF 2020*) et << toute fièvre doit faire rechercher un antécédent de séjour en zone d'endémie >>. -- *CMIT 2021*
 {.alert .alert-warning}
 
 L'incubation du paludisme est asymptomatique et dure:
@@ -163,7 +163,7 @@ Après quelques jours, tableau d'**anémie hémolytique fébrile**:
 - Hépatomégalie (enfant surtout)
 - [Splénomégalie]({{< relref "splenomegalie.md" >}})
 
-> << Toute convulsion fébrile chez un enfant au retour d'une zone d'endémie palustre doit faire évoquer un accès palustre grave >>. – *Anofel 2022*
+> << Toute convulsion fébrile chez un enfant au retour d'une zone d'endémie palustre doit faire évoquer un accès palustre grave >>. -- *Anofel 2022*
 
 Chez l'enfant, se méfier d'un tableau clinique à prédominance digestive.
 
@@ -367,7 +367,7 @@ La prise en charge ambulatoire d'un paludisme à Plasmodium non falciparum est l
 
 ### Traitement ambulatoire du paludisme non compliqué
 
-Le traitement de première intention du paludisme est une combinaison à base de dérivés l'artémisinine (ACT): arténimol–pipéraquine (Eurartésim®) ou artéméther–luméfantrine (Riamet®).
+Le traitement de première intention du paludisme est une combinaison à base de dérivés l'artémisinine (ACT): arténimol-pipéraquine (Eurartésim®) ou artéméther-luméfantrine (Riamet®).
 
 Les traitements d'intention moindre sont l'atovaquone-proguanil voire la quinine (3^e^ intention).
 

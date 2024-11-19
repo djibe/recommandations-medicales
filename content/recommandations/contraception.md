@@ -167,7 +167,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 {{% /collapse %}}
 {{%collapse "Spécialités de contraceptifs" "show" %}}
 
-> La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares – *CNGOF 2018*
+> La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares -- *CNGOF 2018*
 {.alert .alert-info}
 
 {{< table title="Spécialités de contraception disponibles en France en 2024 (sauf dernières générations et DMPA qui augmentent le risque vasculaire) et préservatifs remboursés. Dr JB Fron d'après *BDPM* et *Assurance Maladie*" class="table-wrap" id="table-pilule" >}}
@@ -450,7 +450,7 @@ Changement de contraception à discuter.
 
 ### Prise de poids
 
-> Les contraceptions hormonales ne sont pas associées à une prise de poids – *CNGOF 2018*
+> Les contraceptions hormonales ne sont pas associées à une prise de poids -- *CNGOF 2018*
 {.alert .alert-info}
 
 L'implant sous-cutané à l'étonogestrel ou le DMPA injectable peuvent parfois augmenter modérément le poids.  
@@ -509,7 +509,7 @@ En traitement prolongé, utiliser une contraception non hormonale.
 {{% /collapse %}}
 {{%collapse "Contraception et cancers" %}}
 
-> Il n'est pas retrouvé d'augmentation de l'incidence ou de la mortalité par cancer (tous confondus) chez les utilisatrices de contraception – *CNGOF 2018*
+> Il n'est pas retrouvé d'augmentation de l'incidence ou de la mortalité par cancer (tous confondus) chez les utilisatrices de contraception -- *CNGOF 2018*
 
 ### Contraception œstroprogestative et cancers
 

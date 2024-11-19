@@ -127,7 +127,7 @@ Pour chaque symptôme, coter la gravité de 0 à 3 et additionner les points (to
 
 La somme de l'*Index de douleurs diffuses* et de l'*échelle de sévérité des symptômes* définit l'**échelle de sévérité de la fibromyalgie** (FS, total de 0 à 31 points).
 
-> << il n'y a pas de classification consensuelle de la sévérité de la fibromyalgie à ce jour >>. – *Inserm 2020*
+> << il n'y a pas de classification consensuelle de la sévérité de la fibromyalgie à ce jour >>. -- *Inserm 2020*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -207,7 +207,7 @@ Bilan général (non précisé dans les recommandations):
 {{% /collapse %}}
 {{%collapse "Traitement de la fibromyalgie" %}}
 
-> << Une activité physique adaptée (APA) doit être considérée comme le socle du traitement de la fibromyalgie >>. – *Inserm 2020*
+> << Une activité physique adaptée (APA) doit être considérée comme le socle du traitement de la fibromyalgie >>. -- *Inserm 2020*
 
 Prise en charge de la fibromyalgie:
 
@@ -254,7 +254,7 @@ Avis d'une *structure douleur chronique* (SDC) en cas d'échec de la prise en ch
 
 La stimulation magnétique transcrânienne répétitive (STMr) bénéficie d'une recommandation faible de l'Académie européenne de neurologie.
 
-Ne pas utiliser d'opioïdes (paliers 2 ou 3) pour la fibromyalgie et autres douleurs chroniques non cancéreuses. – *HAS*
+Ne pas utiliser d'opioïdes (paliers 2 ou 3) pour la fibromyalgie et autres douleurs chroniques non cancéreuses. -- *HAS*
 {.alert .alert-warning}
 
 {{% /collapse %}}

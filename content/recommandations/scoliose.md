@@ -67,7 +67,7 @@ PNDS
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << Toute scoliose est susceptible de s'aggraver >> (*HAS 2008*) et << Le dépistage doit être réalisé de façon systématique à l'adolescence >>. – *CNPU*
+> << Toute scoliose est susceptible de s'aggraver >> (*HAS 2008*) et << Le dépistage doit être réalisé de façon systématique à l'adolescence >>. -- *CNPU*
 {.alert .alert-warning}
 
 La scoliose apparaît et évolue au cours de l'enfance (filles +++).

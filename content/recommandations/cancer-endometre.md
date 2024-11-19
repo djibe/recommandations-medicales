@@ -80,7 +80,7 @@ VPN
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << Le cancer de l'endomètre est la première cause à évoquer devant des métrorragies post-ménopausiques >>. – *HAS 2010*
+> << Le cancer de l'endomètre est la première cause à évoquer devant des métrorragies post-ménopausiques >>. -- *HAS 2010*
 {.alert .alert-warning}
 
 ### Interrogatoire
@@ -119,7 +119,7 @@ Signes et symptômes évocateurs à rechercher en cas de suspicion d'un cancer d
 
 **Échographie utérine** systématique en semi-urgence devant des métrorragies suspectes pour évaluer l'épaisseur de l'endomètre et rechercher d'autres anomalies pelviennes.
 
-> Une épaisseur endométriale ≤ 4 mm a une valeur prédictive négative supérieure à 99% – *ACOG 2020*
+> Une épaisseur endométriale ≤ 4 mm a une valeur prédictive négative supérieure à 99% -- *ACOG 2020*
 
 En cas d'hyperplasie endométriale, hystéroscopie avec **biopsie endométriale** systématique pour examen anatomopathologique.
 

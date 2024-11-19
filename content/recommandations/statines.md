@@ -39,7 +39,7 @@ todo = "photo"
 {{% /collapse %}}
 {{%collapse "Objectif de LDL cholestérol" %}}
 
-> << Le traitement par statine est associé à une réduction des complications cardiovasculaires proportionnelle à la baisse du LDL-cholestérol >>. – *ESH 2023*
+> << Le traitement par statine est associé à une réduction des complications cardiovasculaires proportionnelle à la baisse du LDL-cholestérol >>. -- *ESH 2023*
 {.alert .alert-info}
 
 La réduction du LDL cholestérol a les mêmes bénéfices cardiovasculaires chez les 2 sexes (*ESC 2021*).

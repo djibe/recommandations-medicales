@@ -53,7 +53,7 @@ Furoncle
 : Diagnostic différentiel du furoncle: kyste épidermique inflammatoire ou surinfecté (pré-existant), [hidradénite suppurée]({{< relref "maladie-verneuil.md" >}}).
 
 Impétigo
-: L'impétigo surtout chez l'enfant avant 10 ans (péri-buccal ++) durant l'été par *Staphylococcus aureus* (90% voire *Streptococcus pyogenes* – SGA, pays émergents ++), avec une extrême contagiosité. Absence de fièvre.
+: L'impétigo surtout chez l'enfant avant 10 ans (péri-buccal ++) durant l'été par *Staphylococcus aureus* (90% voire *Streptococcus pyogenes* -- SGA, pays émergents ++), avec une extrême contagiosité. Absence de fièvre.
 : Un aspect bulleux est possible par staphylocoque doré sécréteur de toxine.
 
 Impétiginisation

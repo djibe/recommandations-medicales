@@ -58,7 +58,7 @@ Rhinite allergique (RA)
   Éternuement déclenché par l'exposition lumineuse intense, transmission autosomique dominante.
 - Brèche méningée
 
-> << une rhinorrhée intermittente, déclenchée ou majorée par l'antéflexion, ou une rhinorrhée permanente, mais unilatérale doit impérativement faire évoquer une rhinorrhée cérébrospinale >>. – *SFORL 2020*
+> << une rhinorrhée intermittente, déclenchée ou majorée par l'antéflexion, ou une rhinorrhée permanente, mais unilatérale doit impérativement faire évoquer une rhinorrhée cérébrospinale >>. -- *SFORL 2020*
 
 ### Épidémiologie de la rhinite allergique en France
 
@@ -140,7 +140,7 @@ Un interrogatoire complet permet un diagnostic fiable de rhinite allergique (*SF
   - Symptôme isolé (ex. obstruction nasale isolée ...)
   - Symptômes unilatéraux
 
-> << La sévérité des symptômes est généralement sous-estimée par les médecins >>. – *SFORL*
+> << La sévérité des symptômes est généralement sous-estimée par les médecins >>. -- *SFORL*
 {.alert .alert-info}
 
 {{< card-link-external title="Carte du Risque d'Allergie aux Pollens" url="https://www.pollens.fr" subtitle="pollens.fr">}}
@@ -158,7 +158,7 @@ Un interrogatoire complet permet un diagnostic fiable de rhinite allergique (*SF
 ### Les tests cutanés allergéniques ou Prick tests
 
 > << Les tests cutanés allergéniques (TCA) ou prick tests doivent être réalisés en 1^re^ intention dans tout bilan étiologique de rhinite présumée allergique. >> -- *SFORL*
-> << Les tests cutanés (...) lors d'une rhinite allergique **saisonnière** sont le plus souvent inutiles >>. – *Prescrire*
+> << Les tests cutanés (...) lors d'une rhinite allergique **saisonnière** sont le plus souvent inutiles >>. -- *Prescrire*
 {.alert .alert-info}
 
 Adresser à l'ORL ou l'allergologue pour la réalisation des tests cutanés allergéniques (Se 85%, Spe 77%).
@@ -276,6 +276,6 @@ style suspicion stroke:#4150f5, stroke-width:1px
 ### Bibliographie en attente
 
 - [EUFOREA & ARIA](https://www.euforea.eu/)
-- [Annesi-Maesano I et al. Le Score For Allergic Rhinitis (SFAR) – version française. Revue Française d'Allergologie et d'Immunologie Clinique. 2004.](https://www.sciencedirect.com/science/article/abs/pii/S0335745703003526)
+- [Annesi-Maesano I et al. Le Score For Allergic Rhinitis (SFAR) -- version française. Revue Française d'Allergologie et d'Immunologie Clinique. 2004.](https://www.sciencedirect.com/science/article/abs/pii/S0335745703003526)
 
 {{%/sources%}}

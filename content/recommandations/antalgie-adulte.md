@@ -173,7 +173,7 @@ Objectifs pour le traitement du cancer:
 {{% /collapse %}}
 {{%collapse "Surveillance des opioïdes" %}}
 
-Renouvellement: échelle Prescription Opioid Misuse Index – POMI. Avis spécialisé (addictologue, douleur, psychiatre).
+Renouvellement: échelle Prescription Opioid Misuse Index (POMI). Avis spécialisé (addictologue, douleur, psychiatre).
 
 Dépendance physique: COWS, SOWS
 

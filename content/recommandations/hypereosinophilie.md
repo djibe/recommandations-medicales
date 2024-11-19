@@ -126,7 +126,7 @@ Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << une HE n'est jamais à négliger puisqu'elle peut constituer le point d'appel d'une maladie grave (tumeur solide, hémopathie) >>. – *SFH*
+> << une HE n'est jamais à négliger puisqu'elle peut constituer le point d'appel d'une maladie grave (tumeur solide, hémopathie) >>. -- *SFH*
 {.alert .alert-info}
 
 Évoquer un syndrome hyperéosinophilique devant toute hyperéosinophilie et rechercher une infiltration organique.

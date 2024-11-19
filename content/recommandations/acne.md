@@ -147,7 +147,7 @@ Tous les rétinoïdes sont tératogènes, même en gel ou crème.
 {{% /collapse %}}
 {{%collapse "Traitement de l'acné minime à modérée" %}}
 
-Seuls traitements autorisés pendant la grossesse: gluconate de zinc, peroxyde de benzoyle, antibiotiques topiques (clindamycine, érythromycine, acide azélaïque). – *[CRAT](https://www.lecrat.fr/6311/)*
+Seuls traitements autorisés pendant la grossesse: gluconate de zinc, peroxyde de benzoyle, antibiotiques topiques (clindamycine, érythromycine, acide azélaïque). -- *[CRAT](https://www.lecrat.fr/6311/)*
 {.alert .alert-warning}
 
 ### Acné à prédominance rétentionnelle
@@ -267,7 +267,7 @@ Du fait du caractère tératogène de l'isotrétinoïne, la prescription est enc
 
 - [Brochure d'information (PDF)](https://ansm.sante.fr/uploads/2020/12/30/isotretinoine-brochurepatient-e-s-v1-2018-12.pdf)
 - [Contrat de soins (PDF)](https://ansm.sante.fr/uploads/2020/12/30/isotretinoine-accorddesoin-v1-2018-12.PDF)
-- [Courrier de liaison dermatologue – médecin généraliste (PDF)](https://ansm.sante.fr/uploads/2020/12/30/isotretinoine-courrierliaisonmedecintraitant-v1-2018-12.PDF)
+- [Courrier de liaison dermatologue - médecin généraliste (PDF)](https://ansm.sante.fr/uploads/2020/12/30/isotretinoine-courrierliaisonmedecintraitant-v1-2018-12.PDF)
 - [Contraception efficace]({{< relref "contraception.md" >}})
   - DIU ou implant progestatif ou pilule + préservatif
   - Par pilule: prescrire systématiquement la [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) et des préservatifs remboursés (Eden, Sortez couverts)

@@ -147,7 +147,7 @@ Le scanner n'élimine pas formellement le diagnostic en cas de forte suspicion d
 
 Aucun dépistage du cancer du poumon n'est actuellement recommandé en France.
 
-Aucun intérêt du dépistage par: radiographie thoracique, ECBC, fibroscopie ou TEP-TDM – *SPLF 2021*
+> Aucun intérêt du dépistage par: radiographie thoracique, ECBC, fibroscopie ou TEP-TDM. -- *SPLF 2021*
 {.alert .alert-info}
 
 ### Préconisations SPLF 2021 pour le dépistage du cancer du poumon

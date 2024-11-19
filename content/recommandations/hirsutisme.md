@@ -138,7 +138,7 @@ Adresser à l'endocrinologue en cas de signes d'hyperandrogénie ou de virilisat
 
 Hirsutisme + aménorrhée: bHCG
 
-Uniquement en cas de score Ferriman–Gallwey anormal (voir *Clinique*): testostéronémie entre 8 et 11 heures.
+Uniquement en cas de score Ferriman-Gallwey anormal (voir *Clinique*): testostéronémie entre 8 et 11 heures.
 
 {{%info%}}
 Si testostéronémie normale  
@@ -172,7 +172,7 @@ En cas d'hyperandrogénie: maintenir un traitement médicamenteux pour éviter l
 
 ### Indications au traitement
 
-Le seuil de traitement pour l'hirsutisme dépend des origines et du [score Ferriman–Gallwey](http://www.e-dpc.fr/bibliotheque/docs/trouble_du_cycle_amenorrhee_hyperandrogenie/fiches_pratiques/score_ferriman_gallwey.pdf):
+Le seuil de traitement pour l'hirsutisme dépend des origines et du [score Ferriman-Gallwey](http://www.e-dpc.fr/bibliotheque/docs/trouble_du_cycle_amenorrhee_hyperandrogenie/fiches_pratiques/score_ferriman_gallwey.pdf):
 
 - Américaine ou anglaise noire/blanche: ≥ 8
 - Méditerranéenne, Espagnole, Moyen-Orientale: ≥ 9-10
@@ -197,7 +197,7 @@ Maintenir l'association avec une contraception œstroprogestative.
 
 Molécules anti-androgéniques:
 
-- [Acétate de cyprotérone (Androcur®) 50–100 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61255738&typedoc=R) des jours 5 à 15 avec EE 20–35 mg de J5 à J25,
+- [Acétate de cyprotérone (Androcur®) 50-100 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61255738&typedoc=R) des jours 5 à 15 avec EE 20-35 mg de J5 à J25,
 - [Spironolactone 100 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61938189&typedoc=R) x 1-2/j (sauf insuffisance rénale ou risque de grossesse)
 - Finastéride 2,5-5 mg/j avec risques psychiatriques ([Alerte ANSM](https://ansm.sante.fr/actualites/reevaluation-europeenne-de-la-balance-benefice-risque-des-medicaments-contenant-du-finasteride-ou-du-dutasteride))
 

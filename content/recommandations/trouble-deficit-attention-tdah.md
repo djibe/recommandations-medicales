@@ -46,7 +46,7 @@ Trouble déficit de l'attention avec hyperactivité (ou sans hyperactivité -- T
     - professionnelles et sociétales: chômage, arrêts maladie
 
 > << Comparés aux enfants nés en janvier, les natifs de février ont 7% de risque supplémentaire de se voir prescrire du méthylphénidate, ceux d'avril 9%, ceux de juillet 29%, ceux d'octobre 46% et ceux de décembre 55%. >> et << Les mêmes tendances ont été observées concernant les séances d'orthophonie >>.  
-– *ANSM 2024*
+-- *ANSM 2024*
 {.alert .alert-warning}
 
 ### Abréviations

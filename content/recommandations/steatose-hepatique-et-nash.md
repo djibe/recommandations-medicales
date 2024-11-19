@@ -189,7 +189,7 @@ Marqueurs non invasifs de l'évaluation du foie pour éviter la ponction-biopsie
 {{% /collapse %}}
 {{%collapse "Traitement de la NASH" %}}
 
-> << ... perdre 10% du poids du corps fait disparaître la stéatohépatite dans 90% des cas >>. – *SNFGE*
+> << ... perdre 10% du poids du corps fait disparaître la stéatohépatite dans 90% des cas >>. -- *SNFGE*
 {.alert .alert-info}
 
 La prise en charge de la stéatohépatite non alcoolique (NASH) repose sur la perte de poids (10%) et la correction de chacun des facteurs de risque cardiovasculaire / métabolique (tabac, hypertension, LDL, régime méditerranéen).
@@ -241,7 +241,7 @@ graph TB
 
 {{< youtube id="YdGoM7KWe6s" title="Le Fib4 : un intérêt pronostique chez les diabétiques et/ou obèses ? (CREGG)" >}}
 
-- [Académie de Médecine. Stéatose hépatique non alcoolique : maladie fréquente, diagnostic devenu facile, prévention indispensable – Académie nationale de médecine. 16/12/2022.](https://www.academie-medecine.fr/steatose-hepatique-non-alcoolique-maladie-frequente-diagnostic-devenu-facile-prevention-indispensable/)
+- [Académie Nationale de Médecine. Stéatose hépatique non alcoolique : maladie fréquente, diagnostic devenu facile, prévention indispensable. 16/12/2022.](https://www.academie-medecine.fr/steatose-hepatique-non-alcoolique-maladie-frequente-diagnostic-devenu-facile-prevention-indispensable/)
 - [Berzigotti A et al. EASL Clinical Practice Guidelines on non-invasive tests for evaluation of liver disease severity and prognosis - 2021 update. Journal of Hepatology. 2021.](https://www.journal-of-hepatology.eu/article/S0168-8278(21)00398-6/fulltext)
 - {{< references/esc-cvd >}}
 - {{< references/afef-foie-non-invasif >}}

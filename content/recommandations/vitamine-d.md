@@ -152,7 +152,7 @@ Ne pas utiliser d'autres formes de supplémentations.
 {{% /collapse %}}
 {{%collapse "Quand doser la vitamine D ?" %}}
 
-Supplémentation quotidienne ou mensuelle **sans dosage de la vitamine D** chez les sujets en bonne santé (pas de pathologie ostéoporotique ou polypathologies, absence de chutes). – *Souberbielle et al 2019*
+Supplémentation quotidienne ou mensuelle **sans dosage de la vitamine D** chez les sujets en bonne santé (pas de pathologie ostéoporotique ou polypathologies, absence de chutes). -- *Souberbielle et al 2019*
 {.alert .alert-warning}
 
 Situations pouvant faire contrôler le taux de vitamine D:
@@ -293,7 +293,7 @@ Ne pas utiliser d'autres formes de supplémentations.
 - [Omedit Centre Val de Loire. Protocole de supplémentation en vitamine D en EHPAD. Décembre 2020. (PDF)](https://www.omedit-centre.fr/medias/Protocole-supplementation-vitamine-D-EHPAD.pdf)
 - [Ameli. Dosage de la vitamine D. 29/12/2020.](https://www.ameli.fr/paris/laboratoire-danalyses-medicales/exercice-liberal/memos/dosage-vitamine)
 - [Souberbielle JC, et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d'ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 2019. (PDF)](https://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
-- [Esteban 2014-2016 – Chapitre dosages biologiques des vitamines et minéraux : pas de déficit important ou de carence à grande échelle](https://www.santepubliquefrance.fr/les-actualites/2019/esteban-2014-2016-chapitre-dosages-biologiques-des-vitamines-et-mineraux-pas-de-deficit-important-ou-de-carence-a-grande-echelle)
+- [Esteban 2014-2016 -- Chapitre dosages biologiques des vitamines et minéraux : pas de déficit important ou de carence à grande échelle](https://www.santepubliquefrance.fr/les-actualites/2019/esteban-2014-2016-chapitre-dosages-biologiques-des-vitamines-et-mineraux-pas-de-deficit-important-ou-de-carence-a-grande-echelle)
 - [Annweiler C, et al. Vitamine D chez l'adulte : mise au point sur le dosage et la supplémentation. Gériatrie et psychologie Neuropsychiatrie du Vieillissement. 2018.](https://www.jle.com/fr/revues/gpn/e-docs/vitamine_d_chez_ladulte_mise_au_point_sur_le_dosage_et_la_supplementation_311580/article.phtml)
 - [Briot K, et al. Actualisation 2018 des recommandations françaises du traitement de l'ostéoporose post-ménopausique. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S1169833018300504)
 - [Inserm. La vitamine D, une nouvelle piste contre la maladie d'Alzheimer ?. 2017.](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)

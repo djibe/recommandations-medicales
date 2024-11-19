@@ -92,7 +92,7 @@ Les contre-indications à un allaitement maternel sont:
 - Usage de cocaïne
 - Galactosémie du nourrisson (*Anaes*)
 
-– *CNGOF 2015*
+> -- *CNGOF 2015*
 {{%/warning%}}
 
 L'allaitement est **déconseillé en cas d'usage de cannabis**.

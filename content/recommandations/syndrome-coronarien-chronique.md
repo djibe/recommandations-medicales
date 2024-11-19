@@ -1,6 +1,6 @@
 +++
 id = "0190e8cc-aeeb-7d74-98ac-e1b357de7880"
-title = "Cardiopathie ischémique: Syndrome coronarien chronique (SCC)"
+title = "Syndrome coronarien chronique (SCC)"
 titleSeo = "Syndrome coronarien chronique"
 prefix = "le "
 description = "Recommandations pour la prise en charge du syndrome coronarien chronique (cardiopathie ischémique): angor, hypertension, dyslipidémie LDL statine, bêtabloquant"
@@ -63,7 +63,7 @@ Le syndrome coronarien chronique est la maladie cardiovasculaire chronique la pl
 
 {{< card-link-external title="Dépenses directes liées à la maladie coronaire chronique" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20cardioneurovasculaires&refine.patho_niv2=Maladie%20coronaire">}}
 
-> Le contrôle médical est insuffisant: seulement 20 % ont un LDL < 0,7 g/L et < ⅓ ont une tension < 130/80 mmHg. – étude *CLARIFY*
+> Le contrôle médical est insuffisant: seulement 20 % ont un LDL < 0,7 g/L et < ⅓ ont une tension < 130/80 mmHg. -- étude *CLARIFY*
 {.alert .alert-warning}
 
 ### Abréviations
@@ -258,7 +258,7 @@ Mesures spécifiques pour la prise en charge de la cardiopathie ischémique stab
 
 La décision d'une revascularisation myocardique (stent ou autre) relève uniquement du cardiologue et n'est donc pas abordée ici.
 
-> Un suivi coordonné par un infirmier de pratique avancée (IPA) est équivalent au suivi par un généraliste – *[Wood 2008](https://pubmed.ncbi.nlm.nih.gov/18555911/)*
+> Un suivi coordonné par un infirmier de pratique avancée (IPA) est équivalent au suivi par un généraliste. -- *[Wood 2008](https://pubmed.ncbi.nlm.nih.gov/18555911/)*
 
 {{< table title="Suggestion de titration du traitement anti-ischémique du patient atteint de coronaropathie à type de syndrome coronarien chronique selon le tableau clinique initial. Dr JB Fron d'après *ESC 2019*" >}}
 | Intention | Standard                        | FC > 80/min          | FC < 50/min   | Dysfonction VG/IC              | Hypotension artérielle             |
@@ -286,7 +286,7 @@ Ensuite, le suivi proposé pour un sujet asymptomatique est:
 {{%/info%}}
 
 {{% /collapse %}}
-{{%collapse "Éducation thérapeutique" %}}
+{{%collapse "Information du patient et Éducation thérapeutique" %}}
 
 Ensemble de connaissances à acquérir au cours des consultations d'éducation thérapeutique en cas de syndrome coronarien chronique:
 

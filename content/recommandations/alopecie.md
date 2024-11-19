@@ -77,7 +77,7 @@ Principales étiologies d'une alopécie:
   - Souvent dans les 2 mois suivants: **[post-partum]({{< relref "post-partum.md" >}})**, chirurgie, fièvre élevée ou infections, maladie inflammatoire, médicaments
   - Physiologique en automne/printemps. **Rassurer**.
 - **Alopécie androgénétique**
-  - Progressive, localisée aux zones androgéniques fronto-temporales et vertex avec calvitie (échelles [Hamilton-Norwood I–VII](https://fr.wikipedia.org/wiki/%C3%89chelle_de_Hamilton-Norwood#/media/Fichier:Partial_Norwood_scale_for_male_pattern_baldness.png), Ludwig I–III, Christmas tree pattern I–III)
+  - Progressive, localisée aux zones androgéniques fronto-temporales et vertex avec calvitie (échelles [Hamilton-Norwood I-VII](https://fr.wikipedia.org/wiki/%C3%89chelle_de_Hamilton-Norwood#/media/Fichier:Partial_Norwood_scale_for_male_pattern_baldness.png), Ludwig I-III, Christmas tree pattern I-III)
   - Possible à tout âge après la puberté
 - **Pelade** (ou alopecia areata)
   - Alopécie en plaques ovalaires sur cuir chevelu sain et sujet en bon état général
@@ -182,7 +182,7 @@ pour les deux sexes, le traitement par plasma riche en plaquettes (PRP) est insu
 
 #### Minoxidil
 
-Le minoxidil est possible à partir de 18 ans en cas d'alopécie androgénétique légère à modérée (Hamilton-Norwood IIv–V).
+Le minoxidil est possible à partir de 18 ans en cas d'alopécie androgénétique légère à modérée (Hamilton-Norwood IIv-V).
 
 Le minoxidil doit être appliqué à la dose de 1 mL avec une pipette ou un demi-bouchon de mousse sur cheveux secs et le cuir chevelu, 2 fois par jour.
 

@@ -220,8 +220,8 @@ style symptômes stroke:#4150f5, stroke-width:1px
 - [INCa. Les cancers de l'ovaire en 10 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-de-l-ovaire-en-10-points-cles)
 - [INCa. Cancers de l'ovaire - Du diagnostic au suivi. 2019.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-de-l-ovaire-Du-diagnostic-au-suivi)
 - [ACOG. Opportunistic Salpingectomy as a Strategy for Epithelial Ovarian Cancer Prevention. 2019.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/04/opportunistic-salpingectomy-as-a-strategy-for-epithelial-ovarian-cancer-prevention)
-- [Colombo N et al. ESMO–ESGO consensus conference recommendations on ovarian cancer: pathology and molecular biology, early and advanced stages, borderline tumours and recurrent disease. Annals of Oncology. 2019.](https://www.annalsofoncology.org/article/S0923-7534(19)31162-7/fulltext)
-- [ACOG. The Role of the Obstetrician–Gynecologist in the Early Detection of Epithelial Ovarian Cancer in Women at Average Risk. 2017.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/09/the-role-of-the-obstetriciangynecologist-in-the-early-detection-of-epithelial-ovarian-cancer-in-women-at-average-risk)
+- [Colombo N et al. ESMO-ESGO consensus conference recommendations on ovarian cancer: pathology and molecular biology, early and advanced stages, borderline tumours and recurrent disease. Annals of Oncology. 2019.](https://www.annalsofoncology.org/article/S0923-7534(19)31162-7/fulltext)
+- [ACOG. The Role of the Obstetrician-Gynecologist in the Early Detection of Epithelial Ovarian Cancer in Women at Average Risk. 2017.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/09/the-role-of-the-obstetriciangynecologist-in-the-early-detection-of-epithelial-ovarian-cancer-in-women-at-average-risk)
 
 ### Bibliographie en attente
 
