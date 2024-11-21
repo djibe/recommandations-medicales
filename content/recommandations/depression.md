@@ -3,6 +3,7 @@ id = "0190e8bf-c351-7784-b1c2-16c52c86b061"
 title = "Dépression"
 prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge de la dépression. Questionnaire PHQ-9 ou Hamilton, sévérité, psychothérapie et antidépresseur ISRS"
+longHtml = true
 synonyms = ["Syndrome dépressif", "épisode dépressif caractérisé (EDC)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-14T20:15:23+02:00"

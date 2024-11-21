@@ -3,6 +3,7 @@ id = "0190e8c1-a0a7-7314-907e-287bd175494b"
 title = "Dysfonction érectile"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la dysfonction érectile. Bilan et traitement de première intention de l'impuissance: IPDE5 sildénafil ou tadalafil"
+longHtml = true
 synonyms = ["Impuissance"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-05-05T12:48:09+02:00"

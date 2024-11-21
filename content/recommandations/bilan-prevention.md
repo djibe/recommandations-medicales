@@ -4,6 +4,7 @@ title = "Mon Bilan Prévention"
 titleSeo = "Mon Bilan Prévention"
 prefix = "sur"
 description = "Le Bilan de Prévention pour le médecin généraliste: questionnaires des pathologies, axes de prise en charge et rédaction du plan personnalisé de prévention"
+longHtml = true
 synonyms = ["Bilan de prévention"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-08-23T13:56:41+02:00"

@@ -3,6 +3,7 @@ id = "0190e8c9-5700-7dd8-ab87-fb285f341901"
 title = "Obésité de l'adulte"
 prefix = "la "
 description = "Recommandations pour la prise en charge de l'obésité de l'adulte. Dépistage des complications, éducation thérapeutique, sensations alimentaires, perte de poids"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-19T13:21:51+02:00"

@@ -305,6 +305,7 @@ Pour en savoir plus, les critères d'hospitalisation de la kératite herpétique
 
 ### Bibliographie en attente
 
+- [Patel R, et al. British Association of Sexual Health and HIV UK national guideline for the management of anogenital herpes. Int J STD AIDS. 2024.](https://journals.sagepub.com/doi/full/10.1177/09564624241282396)
 - [Johnston C, Wald A. Genital Herpes. JAMA. 2024. (payant)](https://jamanetwork.com/journals/jama/article-abstract/2822474)
 - [Syndicat National des Ophtalmologistes de France (SNOF). Herpès oculaire.](https://www.snof.org/encyclopedie/herp%C3%A8s-oculaire)
 

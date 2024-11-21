@@ -4,6 +4,7 @@ title = "Syndrome des ovaires polykystiques (SOPK)"
 titleSeo = "Syndrome ovaires polykystiques SOPK"
 prefix = "le "
 description = "Recommandations pour le diagnostic et la prise en charge du syndrome des ovaires polykystiques (SOPK). Echographie pelvienne, bilan hormonal, metformine"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-11T21:36:45+01:00"

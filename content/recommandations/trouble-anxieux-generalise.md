@@ -4,6 +4,7 @@ title = "Trouble anxieux généralisé (TAG)"
 titleSeo = "Trouble anxieux généralisé TAG"
 prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge du trouble anxieux généralisé (TAG). GAD-2, thérapie cognitive comportementale TCC, antidépresseur"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON", "Mustapha DAHLAB"]
 date = "2023-10-13T08:53:34+02:00"
