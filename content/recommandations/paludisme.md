@@ -127,7 +127,7 @@ Appel du 15 en cas de suspicion d'accès palustre grave:
   Contexte psycho-social, isolement.
 - Échec d'un premier traitement
 
-> — *CMIT 2021*
+> -- *CMIT 2021*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

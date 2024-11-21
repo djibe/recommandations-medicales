@@ -25,17 +25,18 @@ todo = "relecture"
 
 {{%article-summary%}}
 
+- La goutte est le rhumatisme inflammatoire articulaire le plus fréquent, liée à une hyperuricémie chronique et associée au risque cardiovasculaire
+- Le bilan initial d'une goutte comprend: uricémie, ferritine, fonction rénale, bilan métabolique et radiographies des articulations atteintes
 - Prise en charge de la crise de goutte:
-  - glaçage, paracétamol, naproxène/corticoïdes ou colchicine, forcer la diurèse
-  - privilégier l'infiltration en monoarthrite de grosse articulation
+  - Glaçage, paracétamol, naproxène/corticoïdes ou colchicine, forcer la diurèse
+  - Privilégier l'infiltration en cas de monoarthrite d'une grosse articulation
 - Traitement de fond de la goutte:
-  - allopurinol: titration en débutant ≤ 100 mg/j avec uricémie cible < 50 mg/L et couverture colchicine 0,5 à 1 mg/j pendant les 3 à 6 premiers mois
+  - Allopurinol: titration en débutant ≤ 100 mg/j avec uricémie cible inférieure à 50 mg/L sous couverture de colchicine de 0,5 à 1 mg/j pendant les 3 à 6 premiers mois
   - Précautions avec demi-dose chez les vietnamiens, Han ... à haut risque de toxidermie
   - Le traitement de fond peut être débuté pendant la crise
 - Régime pauvre en purines  
   Perte de poids, arrêt de la bière, réduire alcool/sodas/jus, viandes/abats, crustacés, laits maigres, substituer un diurétique.
 - Contrôle des [facteurs de risque cardiovasculaire](/tags/risque-cardiovasculaire/)
-- Éducation thérapeutique et observance
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -43,7 +44,7 @@ todo = "relecture"
 Goutte
 : Rhumatisme inflammatoire le plus fréquent dans le monde, surtout chez l'homme âgé. Elle est la conséquence d'une *hyperuricémie chronique* avec dépôts articulaires de cristaux d'acide urique.
 : La goutte appartient à la famille des *arthropathies microcristallines* par dépôts de cristaux d'**urate de sodium** (monosodique dit **UMS**) dans les articulations. Ces derniers provoquent des arthrites aiguës (souvent monoarthrite fixes), récidivantes et de résolution spontanée.  
-Sa prévalence est de 0,9 à 2,5% selon les pays, en augmentation.
+Sa prévalence est de 0,9 à 2,5 % selon les pays, en augmentation.
 : **Complications de la goutte:** tophus, arthropathies uratiques, colique néphrétique, lithiases uriques radiotransparentes, néphropathie goutteuse.
 
 Tophus
@@ -113,7 +114,7 @@ Signes et symptômes de la crise de goutte.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan devant une crise de goutte
+### Bilan initial de la goutte
 
 Le bilan étaie les facteurs de risque cardiovasculaire associés à la goutte:
 
@@ -138,8 +139,7 @@ L'échographie peut être utile pour affirmer le diagnostic et étayer le diagno
 
 ### Mesures hygiéno-diétetiques en cas de goutte
 
-Ces mesures ont plus d'effets sur le profil cardiovasculaire que sur l'uricémie.  
-Le discours doit être individualisé et adapté aux comorbidités.
+Ces mesures ont plus d'effets sur le profil cardiovasculaire que sur l'uricémie. Le discours doit être individualisé et adapté aux comorbidités.
 
 - Correction d'un surpoids
 - Réduction de la [consommation d'alcool]({{< relref "sevrage-alcool.md" >}})  
@@ -165,12 +165,12 @@ Le discours doit être individualisé et adapté aux comorbidités.
 - Ciclosporine, tacrolimus
 - Pyrazinamide, éthambutol
 
-Remplacer si possible par **hypouricémiants**: losartan, amlodipine, fénofibrate, atorvastatine.
+Remplacer si possible par des alternatives **hypouricémiantes**: losartan, amlodipine, fénofibrate, atorvastatine.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la crise de goutte" %}}
 
-La prise en charge par traitement de crise doit être la plus précoce possible (< 12 heures), dès les prodromes (auto-médication adaptée aux comorbidités).
+La prise en charge par traitement de crise doit être la plus précoce possible (inférieure à 12 heures), dès les prodromes (auto-médication adaptée aux comorbidités).
 
 Le traitement est adapté à la tolérance et à l'efficacité passée.
 

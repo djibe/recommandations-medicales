@@ -135,7 +135,7 @@ Le vaccin fièvre jaune est possible quel que soit le terme ([CRAT](https://www.
 ### Risque transfusionnel
 
 << Refuser tout geste dont on n'est pas certain qu'il sera effectué avec du matériel neuf à usage unique >>  
-<< La pratique de tatouages et de piercing (dont le perçage des oreilles) présente un risque majeur de transmission d'agents pathogènes par le sang, notamment les virus des hépatites B et C et le VIH >>. — *HCSP*
+<< La pratique de tatouages et de piercing (dont le perçage des oreilles) présente un risque majeur de transmission d'agents pathogènes par le sang, notamment les virus des hépatites B et C et le VIH >>. -- *HCSP*
 {.alert .alert-warning}
 
 Les tatouages éphémères noirs exposent au risque de dermite de contact.

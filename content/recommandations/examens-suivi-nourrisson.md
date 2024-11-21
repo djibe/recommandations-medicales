@@ -19,7 +19,7 @@ sctid = "183616001"
 icd10 = []
 image = true
 imageSrc = "Illustration du suivi de l'enfant par pch.vector / Freepik"
-todo = "SEO 'consultation nourrisson remboursé 100', HAS tabac p.48"
+todo = "update | SEO 'consultation nourrisson remboursé 100', HAS tabac p.48"
 +++
 
 {{%collapse "Définitions" %}}
@@ -161,7 +161,9 @@ Sources citées en regard des sections.
 
 ### Bibliographie en attente
 
-- [Feltner C et al. Screening for Speech and Language Delay and Disorders in Children Age 5 Years or Younger: An Evidence Review for the U.S. Preventive Services Task Force. Rockville (MD): Agency for Healthcare Research and Quality (US); January 2024.](https://www.ncbi.nlm.nih.gov/books/NBK599720/)
+- [Arrêté du 14 novembre 2024 modifiant l'arrêté du 26 février 2019 relatif au calendrier des examens médicaux obligatoires de l'enfant. Légifrance. 2024.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050500751)
+- [Décret n° 2024-1031 du 14 novembre 2024 relatif aux examens médicaux obligatoires de l'enfant. Légifrance. 2024.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050500736)
+- [Feltner C, et al. Screening for Speech and Language Delay and Disorders in Children Age 5 Years or Younger: An Evidence Review for the U.S. Preventive Services Task Force. Rockville (MD): Agency for Healthcare Research and Quality (US). 2024.](https://www.ncbi.nlm.nih.gov/books/NBK599720/)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Développement psychomoteur. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/developpement-psychomoteur)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Dépistages chez l'enfant. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/depistages-lenfant)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Suivi médical pédiatrique. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/suivi-medical-pediatrique)

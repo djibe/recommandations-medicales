@@ -6,7 +6,7 @@ longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-23T14:00:00+02:00"
 publishdate = "2022-01-27"
-lastmod = "2024-05-01"
+lastmod = "2024-11-21"
 specialites = []
 annees = "2024"
 sources = ["CNAM", "CARMF", "Insee"]
@@ -17,14 +17,14 @@ imageSrc = "storyset / Freepik"
 todo = "écriture SEO, Éléments cliquables trop rapprochés | KEY x3: consultations, médecin, médecins généralistes, consultation médicale, médecin traitant, tiers payant, augmentation des tarifs réglementés, assurance maladie, assurés, euro par consultation, patients | x1: prix d'une consultation, consultations chez le médecin, prix d'une visite, montant, médecine générale, sécurité sociale, revalorisation, évolution des prix, consultation classique; https://www.ofce.sciences-po.fr/pdf/ebook/ebook121.pdf; https://www.insee.fr/fr/outil-interactif/5369554/series-longues-dans-le-secteur-prive, https://www.pourquoidocteur.fr/Articles/Question-d-actu/21060-Consultation-revenus-generalistes-les-faibles-d-Europe, https://francais.medscape.com/voirarticle/3609481?src=WNL_mdplsfeat_221221_mscpedit_fr&uac=413635SY&impID=5012922&faf=1"
 +++
 
-Cet article est réalisé dans le but de disposer d'une série longue sur l'évolution des tarifs des consultations des médecins généralistes de 1980 à 2023 en France métropolitaine, n'ayant pas trouvé d'article complet sur le sujet.
+Cet article est réalisé dans le but de disposer d'une série longue sur l'évolution des tarifs des consultations des médecins généralistes de 1980 à 2023 en France métropolitaine.
 {.lead}
 
-Le prix de la consultation de médecine générale était de 21 euros en 1980 (en euros constants). Le montant augmente progressivement jusqu'en 2017 où il atteignait 29 euros avant de redescendre rapidement jusqu'à 25 euros en 2023, montant auparavant atteint en 1992 (et proche de 1987).
+Le prix de la consultation de médecine générale était de 21 euros en 1980 (en euros constants). Le montant augmente progressivement jusqu'en 2017 où il atteignait 29 euros avant de redescendre rapidement jusqu'à 25 euros en 2023, montant auparavant atteint en 1992 (et proche de 1987 -- à 16 centimes prêts).
 
 ## Évolution du prix des consultations en médecine générale
 
-Les *conventions médicales* fixent les prix des consultations pour les 5 années à venir. Ainsi, la dernière revalorisation du barème de la consultation du généraliste par signature de la convention a eu lieu en 2017, avec un tarif affiché à 25€. Une augmentation de 1,5€ de la consultation a été décrétée en 2023 par arbitrage, la Convention n'obtenant pas la signature des syndicats de médecins.
+Les *conventions médicales* fixent les prix des consultations pour les 5 années à venir. Ainsi, la dernière revalorisation du barème de la consultation du généraliste par signature de la Convention a eu lieu en 2017, avec un tarif affiché à 25 €. Une augmentation de 1,5 € de la consultation a été décrétée en 2023 par arbitrage et appliqué à partir de novembre 2023, la Convention n'obtenant pas la signature des syndicats de médecins.
 
 Avec la forte inflation démarrée en 2022, la consultation du généraliste, toujours affichée 25€ en 2023 (jusqu'en novembre), atteignait la valeur de la consultation en **1992** (en euros constants).
 {.alert .alert-info}

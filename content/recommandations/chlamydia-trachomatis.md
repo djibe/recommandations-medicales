@@ -185,8 +185,13 @@ PCR de contrôle à 6 mois
 {{%/sources%}}
 {{% modele %}}
 
-Doxycycline per os 100 mg x 2/j pendant 7 jours  
-Ou azithromycine per os 1g dose unique
+Doxycycline per os 100 mg x 2/j pendant 7 jours
+
+Ou
+
+azithromycine per os 1g dose unique
+
+---
 
 PCR de contrôle à 6 mois
 

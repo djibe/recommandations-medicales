@@ -20,6 +20,7 @@ flowchart = true
 image = true
 imageSrc = "Syndrome de Raynaud des doigts. Par Tcal via wikipedia, CC BY-SA 3.0"
 todo = "rankok"
+modele = true
 +++
 
 {{%article-summary%}}
@@ -258,3 +259,14 @@ style susp stroke:#4150f5, stroke-width:1px
 - Collège Français des Enseignants en Rhumatologie (COFER). Phénomène de Raynaud. Item 327. 2011.
 
 {{%/sources%}}
+{{% modele %}}
+
+Bilan systématique du syndrome de Raynaud:
+
+- Anticorps anti-nucléaires
+- Capillaroscopie
+- ± NFS, VS, CRP
+- ± [TSH](/tags/tsh/)
+- ± [Facteur rhumatoïde (FR)]({{< relref "polyarthrite-rhumatoide.md" >}})
+
+{{% /modele %}}

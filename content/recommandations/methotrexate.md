@@ -107,7 +107,7 @@ Bilan pré thérapeutique du méthotrexate:
 - Puis mensuel pendant 2 mois
 - Puis trimestriel (1-2 jours avant l'injection)
 
-> — Schéma de surveillance du *GETAID*
+> -- Schéma de surveillance du *GETAID*
 
 {{% /collapse %}}
 {{%collapse "Spécialités - Fiches RCP - Grossesse" %}}

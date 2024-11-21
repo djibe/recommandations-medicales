@@ -543,7 +543,7 @@
       "Partie de plante (EMA)": "Feuille",
       "Usage": "Traditionnel",
       "Parties utilisées": "Feuille, graine grillée",
-      "Contre-indications": "*  En cas d’épilepsie, ne pas consommer de CA contenant une préparation à base de cette partie de plante. \r\n*  En cas d’acte interventionnel invasif programmé, ne pas consommer de CA contenant une préparation à base de cette partie de plante.",
+      "Contre-indications": "* En cas d’épilepsie, ne pas consommer de CA contenant une préparation à base de cette partie de plante. \r\n*  En cas d’acte interventionnel invasif programmé, ne pas consommer de CA contenant une préparation à base de cette partie de plante.",
       "Interactions médicamenteuses": "Augmente les effets des médicaments anticoagulants et antiagrégants notamment les dérivés coumariniques de synthèse. En cas de prise concomitante d’anticoagulants ou antiagrégants plaquettaires, consulter un médecin. ",
       "grossesse": "En l’absence de données, chez la femme enceinte ou allaitante, éviter de consommer un CA contenant une préparation à base de cette partie de plante",
       "pediatrie": "En l’absence de données, avant l’âge de 18 ans, éviter de consommer un CA contenant une préparation à base de cette partie de plante. Réservé à l’adulte."
@@ -554,7 +554,7 @@
       "Partie de plante (EMA)": "Racine",
       "Usage": "Traditionnel",
       "Parties utilisées": "Racine, rhizome, stolon",
-      "Contre-indications": "*  En cas d’hypertension artérielle, de pathologies cardiaques ou rénales, d’insuffisance hépatique, et de tout trouble de l’équilibre hydro-électrolytique, ne pas consommer de CA contenant une préparation à base de cette partie de plante. \r\n*  En cas de prise de médicaments diurétiques, antihypertenseurs, hétérosides cardiotoniques, corticoïdes, laxatifs stimulants ou d'autres traitements pouvant perturber l'équilibre hydro-électrolytique, ne pas consommer de CA contenant une préparation à base de cette partie de plante.",
+      "Contre-indications": "* En cas d’hypertension artérielle, de pathologies cardiaques ou rénales, d’insuffisance hépatique, et de tout trouble de l’équilibre hydro-électrolytique, ne pas consommer de CA contenant une préparation à base de cette partie de plante. \r\n*  En cas de prise de médicaments diurétiques, antihypertenseurs, hétérosides cardiotoniques, corticoïdes, laxatifs stimulants ou d'autres traitements pouvant perturber l'équilibre hydro-électrolytique, ne pas consommer de CA contenant une préparation à base de cette partie de plante.",
       "Interactions médicamenteuses": "Interactions de la glycyrrhizine et de son métabolite intestinal l’acide 18β-glycyrrhétinique avec les médicaments qui interfèrent avec l’équilibre hydro-électrolytique.",
       "grossesse": "En raison de la présence de glycyrrhizine, et des risques chez la femme enceinte ou allaitante, la consommation de CA contenant une préparation à base de cette partie de plante est formellement contre-indiquée",
       "pediatrie": "En raison de la présence de glycyrrhizine, avant l’âge de 18 ans, la consommation un CA contenant une préparation à base de cette partie de plante est formellement contre-indiquée. Réservé à l’adulte "
@@ -638,12 +638,12 @@
     },
     {
       "Nom scientifique": "Hypericum perforatum L.",
-      "Nom vernaculaire": "Millepertuis ",
+      "Nom vernaculaire": "Millepertuis",
       "Partie de plante (EMA)": "Parties aériennes",
       "Usage": "Bien établi",
-      "Parties utilisées": "Non précisée (DGCCRF, 2019) ",
+      "Parties utilisées": "Non précisée (DGCCRF, 2019)",
       "Contre-indications": "Eviter de s’exposer au soleil après la consommation un CA contenant une préparation à base de cette partie de plante.  Utiliser un protection solaire cutanée.",
-      "Interactions médicamenteuses": "*Induction enzymatique par le millepertuis de certains cytochromes (CYP3A4, CYP2C9, CYP2C19) et de la P–glycoprotéine, une modification du métabolisme de certains médicaments est observée (dont celui de la ciclosporine, du tacrolimus (par voie systémique), de l'amprenavir, de l'indinavir et des autres inhibiteurs de protéases dans le traitement du VIH, de certains anesthésiques, de l’irinotecan, de l’imatinib et d’autres agents cytostatiques, de la warfarine et des contraceptifs oraux) conduisant généralement à une diminution de l’efficacité du traitement. \r\n*Cette éventualité devrait en particulier être précisée pour l’interaction avec les contraceptifs oraux. Pour tout patient sous traitement, demander le conseil d’un professionnel de santé avant la prise de millepertuis.",
+      "Interactions médicamenteuses": "*Induction enzymatique par le millepertuis de certains cytochromes (CYP3A4, CYP2C9, CYP2C19) et de la P-glycoprotéine, une modification du métabolisme de certains médicaments est observée (dont celui de la ciclosporine, du tacrolimus (par voie systémique), de l'amprenavir, de l'indinavir et des autres inhibiteurs de protéases dans le traitement du VIH, de certains anesthésiques, de l’irinotecan, de l’imatinib et d’autres agents cytostatiques, de la warfarine et des contraceptifs oraux) conduisant généralement à une diminution de l’efficacité du traitement. \r\n*Cette éventualité devrait en particulier être précisée pour l’interaction avec les contraceptifs oraux. Pour tout patient sous traitement, demander le conseil d’un professionnel de santé avant la prise de millepertuis.",
       "grossesse": "En l’absence de données, chez la femme enceinte ou allaitante, éviter de consommer un CA contenant une préparation à base de cette partie de plante",
       "pediatrie": "En l’absence de données, avant l’âge de 18 ans, éviter de consommer un CA contenant une préparation à base de cette partie de plante. Réservé à l’adulte."
     },
@@ -654,7 +654,7 @@
       "Usage": "Traditionnel",
       "Parties utilisées": "Feuille",
       "Contre-indications": "En cas d’insuffisance cardiaque ou rénale œdèmateuses, d’ulcère gastro-duodénal, d’hypertension artérielle, ou d’hyperthyroïdie, ne pas consommer un CA contenant une préparation à base de cette partie de plante.",
-      "Interactions médicamenteuses": "*  Eviter de consommer des médicaments sédatifs ou sympathomimétiques. \r\n·      Diminution de l’effet des médicaments sédatifs.\r\n·      Augmentation des effets indésirables des médicaments sympathomimétiques (comme l’adrénaline, la dobutamine, la dopamine, la dopexamine, l’isoprénaline, la noradrénaline, la phényléphrine).\r\n\r\n* En cas de traitement concomitant par un médicament Inhibiteur de la Mono-Amine Oxydase (IMAO), éviter de consommer un complément alimentaire contenant une préparation à base de cette partie de plante.",
+      "Interactions médicamenteuses": "* Eviter de consommer des médicaments sédatifs ou sympathomimétiques. \r\n Diminution de l’effet des médicaments sédatifs.\r\n·      Augmentation des effets indésirables des médicaments sympathomimétiques (comme l’adrénaline, la dobutamine, la dopamine, la dopexamine, l’isoprénaline, la noradrénaline, la phényléphrine).\r\n\r\n* En cas de traitement concomitant par un médicament Inhibiteur de la Mono-Amine Oxydase (IMAO), éviter de consommer un complément alimentaire contenant une préparation à base de cette partie de plante.",
       "grossesse": "En l’absence de données, chez la femme enceinte ou allaitante, éviter de consommer un CA contenant une préparation à base de cette partie de plante",
       "pediatrie": "En l’absence de données, avant l’âge de 18 ans, éviter de consommer un CA contenant une préparation à base de cette partie de plante. Réservé à l’adulte."
     },
@@ -810,7 +810,7 @@
       "Contre-indications": "* En cas de reflux gastro-oesophagien, d’ulcère gastro-duodénal, de gastrite ou de troubles biliaires (calculs biliaires) et /ou hépatiques, ne pas consommer un CA à base de cette huile essentielle\r\n* En cas de consommation concomitante de cette plante sous un autre type de préparation, ne pas consommer un CA à base de cette huile essentielle.",
       "Interactions médicamenteuses": "-",
       "grossesse": "En raison de la présence de pulégone et de menthofurane (cancérogènes), chez la femme enceinte ou allaitante, éviter de consommer un CA contenant une préparation à base de cette partie de plante",
-      "pediatrie": "En raison de la présence de pulégone et de menthofurane (cancérogènes), avant l’âge de 4 ans, éviter de consommer un CA contenant une préparation à base de cette partie de plante \r\n> 8 ans :\r\n• 8 à 11 ans : 0,2–0,4 ml sous forme gastro-résistante 2 à 3 fois/j soit 0,2 à 0,6 ml/j.  \r\n• > 12 ans, adultes : 0,2–0,4 ml sous forme gastrorésistante 2 à 3 fois/j soit 0,6–1,2 ml.\r\n"
+      "pediatrie": "En raison de la présence de pulégone et de menthofurane (cancérogènes), avant l’âge de 4 ans, éviter de consommer un CA contenant une préparation à base de cette partie de plante \r\n> 8 ans :\r\n• 8 à 11 ans : 0,2-0,4 ml sous forme gastro-résistante 2 à 3 fois/j soit 0,2 à 0,6 ml/j.  \r\n• > 12 ans, adultes : 0,2-0,4 ml sous forme gastrorésistante 2 à 3 fois/j soit 0,6-1,2 ml.\r\n"
     },
     {
       "Nom scientifique": "Oenothera biennis L.",
@@ -1052,7 +1052,7 @@
       "Contre-indications": "En cas de gastrite ou d’ulcère gastro-duodénal, ne pas consommer un CA contenant une préparation à base de cette plante.\r\nEn cas d'allergie croisée connue (en particulier aux plantes du genre Primula), ne pas consommer un CA contenant une préparation à base de cette partie de plante.",
       "Interactions médicamenteuses": "-",
       "grossesse": "En l’absence de données chez la femme enceinte ou allaitante, éviter de consommer un complément alimentaire contenant une préparation à base de cette partie de plante",
-      "pediatrie": "En l’absence de données, avant l’âge de 4 ans, éviter de consommer un CA contenant une préparation à base de cette partie de plante. \r\nA partir de 4 ans, respecter le type de préparation et un niveau d’exposition inférieur ou équivalent, rapportés ci-dessous. \r\nA partir de 4 ans :\r\n• Extrait liquide 70 % HA : 0,33 g/prise, 3 fois /j.\r\n• Teinture 70 % : 0,3 – 0,5 ml/prise 3 fois /j. \r\n• Extrait mou HA 55 % : \r\no 4-6 ans : 0,12 g/prise, 3 fois/j.\r\no 6-12 ans : 0,12 g/prise, 3-4 fois/j.\r\n"
+      "pediatrie": "En l’absence de données, avant l’âge de 4 ans, éviter de consommer un CA contenant une préparation à base de cette partie de plante. \r\nA partir de 4 ans, respecter le type de préparation et un niveau d’exposition inférieur ou équivalent, rapportés ci-dessous. \r\nA partir de 4 ans :\r\n• Extrait liquide 70 % HA : 0,33 g/prise, 3 fois /j.\r\n• Teinture 70 % : 0,3-0,5 ml/prise 3 fois /j. \r\n• Extrait mou HA 55 % : \r\no 4-6 ans : 0,12 g/prise, 3 fois/j.\r\no 6-12 ans : 0,12 g/prise, 3-4 fois/j.\r\n"
     },
     {
       "Nom scientifique": "Prunus africana (Hook. f.) Kalkman",

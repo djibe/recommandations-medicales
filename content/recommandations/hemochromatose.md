@@ -142,12 +142,12 @@ Bilan à jeun:
 - Bilan lipidique
 - Radiographies des articulations douloureuses
 
-> — *CDU-HGE*, *CEEDMM* et *COFER*
+> -- *CDU-HGE*, *CEEDMM* et *COFER*
 
 En l'absence de poids d'appel, dosage du **coefficient de saturation de la transferrine (CST) le matin**, recontrôlé si anormal (le jeûne n'est pas nécessaire selon l'*EASL 2022*).
 {{%/info%}}
 
-> << L'hémochromatose est évoquée en cas d'[hyperferritinémie]({{< relref "hyperferritinemie.md" >}}) et de coefficient de saturation de la transferrine à plus de **45%** >> (NDLR: *50%* chez l'homme, caucasiens) — *CDU-HGE*
+> << L'hémochromatose est évoquée en cas d'[hyperferritinémie]({{< relref "hyperferritinemie.md" >}}) et de coefficient de saturation de la transferrine à plus de **45%** >> (NDLR: *50%* chez l'homme, caucasiens) -- *CDU-HGE*
 {.alert .alert-info}
 
 Lorsque l'hémochromatose génétique est évoquée (HF + CST élevé), adresser au gastro-entérologue pour la confirmation diagnostique (**conseil génétique** avec recherche du variant *C282Y*).
@@ -180,7 +180,7 @@ La prise en charge de l'hémochromatose est symptomatique par des **saignées th
 Les saignées sont débutées dès le stade 2 (hyperferritinémie) et sont suspendues en cas d'anémie < 11 g/dL (ou baisse +2 points d'Hb).  
 Lorsque les saignées ne sont pas possibles, recours au traitement chélateur du fer: déféroxamine (Desféral®) voire défériprone ou déférasirox.
 
-> << Un régime pauvre en fer n'est pas indiqué >> — *CEEDMM*
+> << Un régime pauvre en fer n'est pas indiqué >> -- *CEEDMM*
 
 - Hémochromatose génétique: conseil génétique des apparentés majeurs au premier degré et bilan martial  
   Bilan martial seul à partir de 65 ans.
@@ -214,7 +214,7 @@ Les saignées (phlébotomie) sont possibles à domicile par un infirmier selon l
 - Les saignées n'améliorent pas le diabète, la cirrhose et les troubles sexuels
 - Le dosage de l'HbA~1c~ n'est pas fiable
 
-> — *AFEF 2020* et *HAS 2005*
+> -- *AFEF 2020* et *HAS 2005*
 
 #### Contre-indications aux saignées
 
