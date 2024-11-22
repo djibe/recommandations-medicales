@@ -383,10 +383,10 @@ graph TB
 
 {{< youtube id="TAmrGm0seIA" title="Description du signe de Pemberton (MED infos)" >}}
 
-- [Menegaux F et al. SFE-AFCE-SFMN 2022 consensus on the management of thyroid nodules: Surgical treatment. Ann Endocrinol. 2022.](https://www.sciencedirect.com/science/article/abs/pii/S0003426622008563)
+- [Menegaux F, et al. SFE-AFCE-SFMN 2022 consensus on the management of thyroid nodules: Surgical treatment. Ann Endocrinol. 2022.](https://www.sciencedirect.com/science/article/abs/pii/S0003426622008563)
 - {{< references/college-endocrino >}}
-- [Wemeau JL et al. Recommandations de la Société française d'endocrinologie pour la prise en charge des nodules thyroïdiens. La Presse Médicale. 2011. (PDF)](https://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/2011%20presse%20med%20recommandations%20sfe%20pour%20la%20prise%20en%20charge%20des%20nodules%20thyroidiens.pdf)
+- [Wemeau JL, et al. Recommandations de la Société française d'endocrinologie pour la prise en charge des nodules thyroïdiens. La Presse Médicale. 2011. (PDF)](https://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/2011%20presse%20med%20recommandations%20sfe%20pour%20la%20prise%20en%20charge%20des%20nodules%20thyroidiens.pdf)
 
-Mots-clé: nodule thyroidien, nodule thyroide, eu-tirads, eu tirads
+Mots-clés: nodule thyroidien, nodule thyroide, eu-tirads, eu tirads
 
 {{%/sources%}}

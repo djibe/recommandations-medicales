@@ -284,7 +284,7 @@ Les symptômes doivent être présents depuis au moins 15 jours avec changement 
     - [Fatigue](/tags/fatigue/)
     - Conduites alimentaires  
       Anorexie voire hyperphagie, grignotage, appétence sucrée.
-    - **Troubles de la sexualité** ([dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}), féminine)
+    - **Troubles de la sexualité** (baisse de libido, érections matinales, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}), féminine)
   - Symptômes psychotiques: hallucinations, délire
   - Maintien des activités quotidiennes: hygiène, alimentation
   - Sévérité de l'épisode dépressif: léger, modérée, sévère ({{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}})
@@ -440,6 +440,7 @@ Bilan à la recherche de diagnostic différentiel:
 - Bilan hépatique
 - [TSH](/tags/tsh/)
 - ± Toxiques urinaires
+- Homme avec au moins 3 symptômes sexuels (libido, érections, impuissance ...): [testostérone libre ou biodisponible]({{< relref "andropause-deficit-testosterone.md" >}}) (*AFU/SFMS 2021*)
 
 > -- *CNUP*
 

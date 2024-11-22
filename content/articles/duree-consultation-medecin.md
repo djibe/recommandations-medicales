@@ -1,6 +1,6 @@
 +++
 title = "Comparaison de la durée des consultations en médecine générale dans le monde"
-description = "Graphique et comparaison de la durée moyenne des consultations en médecine générale (soins primaires) dans le monde et en France. Les consultations en France sont parmi les plus longues"
+description = "Graphique et comparaison de la durée moyenne des consultations en médecine générale (soins primaires) en France et dans le monde."
 longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-04-21T18:38:00+02:00"

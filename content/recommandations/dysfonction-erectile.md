@@ -24,7 +24,7 @@ todo = "SEO, https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depista
 
 {{%article-summary%}}
 
-*Les recommandations concernent l'homme de plus de 18 ans. Avant, la prise en charge relève de psychologue/psychiatre formé en sexologie et aux pathologies de l'adolescent.*
+*Avant 18 ans, la prise en charge de la dysfonction érectile relève de psychologue/psychiatre formé en sexologie et aux pathologies de l'adolescent.*
 
 - Dépister systématiquement chez le diabétique, marqueur de maladie endothéliale et des autres complications du diabète
 - Vérifier les contre-indications aux IPDE5
@@ -44,10 +44,8 @@ Grandes lignes:
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Dysfonction érectile (DE)
-: *ex* impuissance
-: Incapacité persistante ou répétée à obtenir/maintenir une érection suffisante pour permettre une activité sexuelle satisfaisante **durant plus de 3 mois**.  
-S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
+Dysfonction érectile (DE, *ex* impuissance)
+: Incapacité persistante ou répétée à obtenir/maintenir une érection suffisante pour permettre une activité sexuelle satisfaisante **durant plus de 3 mois**. S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
 
 {{< table title="Prévalence de la dysfonction érectile selon l'âge" >}}
 | Âge (ans) | Prévalence (%) |
@@ -161,7 +159,7 @@ La persistance d'une capacité érectile résiduelle est un facteur de bon prono
 - Signes d'[hypertrophie prostatique]({{< relref "hypertrophie-benigne-prostate.md" >}})
 - Troubles du sommeil, [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
 
-#### 6) Traitements en cours, psychotropes
+#### 6) Traitements en cours et psychotropes
 
 #### 7) Signes de déficit androgénique
 
@@ -211,11 +209,9 @@ Rechercher des signes de [syndrome de Cushing]({{< relref "syndrome-cushing.md" 
 - Bilan lipidique (sauf < 1 an)
 - PSA après 50 ans (ou 45 si antécédents familiaux)
 - Ferritinémie (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
-- Diabète type 2: testostéronémie totale  
-  Le matin entre 8h et 11h.
+- Diabète type 2 ou suspicion de [déficit en testostérone]({{< relref "andropause-deficit-testosterone.md" >}}): testostéronémie libre ou biodisponible (*AFU/SFMS 2021*)  
+  Le matin à jeun entre 8h et 11 heures.
 {{%/info%}}
-
-> Si testostérone < 5,2 nmol/L: recontrôler 1 mois après avec dosage de LH + prolactine
 
 **NB. Aucune autre exploration n'est recommandée en première intention**.
 
@@ -356,8 +352,11 @@ Débuter à [2,5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichage
 Proposer le tadalafil en continu si traitement efficace et ≥ 2 utilisations par semaine ou pour le **diabétique**.  
 Il améliore également les troubles du bas appareil urinaire de l'homme (SBAU).
 
-Autres IPDE5 à la demande: vardénafil, avanafil (Spedra®).  
-Les IPDE5 ont une efficacité de 65 à 85% (52-72 % en cas de diabète et toujours élevée après prostatectomie) et le même profil de sécurité / tolérance.
+Autres IPDE5 à la demande: vardénafil, avanafil (Spedra®).
+
+Les IPDE5 ont une efficacité de 65 à 85% (52-72 % en cas de diabète et toujours élevée après prostatectomie) et le même profil de sécurité/tolérance.
+
+> En cas d'inefficacité des IPDE5, rechercher une [déficit en testostérone]({{< relref "andropause-deficit-testosterone.md" >}}).
 
 {{%info%}}
 

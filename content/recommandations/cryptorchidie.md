@@ -23,6 +23,7 @@ flowchart = true
 
 {{%article-summary%}}
 
+- La cryptorchidie est la localisation inaboutie du testicule soit par obstacle à sa descente intra-abdominale, soit par descente incomplète
 - Dépistage systématique de la cryptorchidie: palper les bourses de tous les petits garçons (2 à 4% atteints)
 - La chirurgie d'un testicule cryptorchide est réalisée idéalement à partir d'un an
 - Surveillance post-opératoire du testicule pendant un an (risque d'atrophie testiculaire)
@@ -51,21 +52,21 @@ Testicule oscillant ou << testicule ascenseur >>
 
 Le diagnostic de cryptorchidie est clinique par palpation des bourses.
 
-3 situations:
+3 situations à la palpation:
 
 - Testicule palpé en inguinal au-dessus de la bourse, mais fixé et impossible à descendre
 - Testicule palpé mais très mobile et ne restant dans la bourse que par intermittence
 - Testicule jamais palpé  
-  Soit intra-abdominal, soit atrophique.
+  Position intra-abdominale ou testicule atrophique.
 
-Rechercher d'autres anomalies associées:
+Rechercher d'autres anomalies génitales associées:
 
 - Antécédents familiaux de cryptorchidie
 - Micropénis (verge < 2 cm chez le nouveau-né à terme)
 - Hypospadias
 - Autres anomalies: ligne médiane, cardiaque, rénale
 
-La palpation de la bourse est plus facile avec le garçon assis en tailleur.
+La palpation de la bourse est plus facile chez le garçon assis en tailleur.
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -74,39 +75,42 @@ La palpation de la bourse est plus facile avec le garçon assis en tailleur.
 Échographie abdomino-scrotale
 {.alert .alert-info}
 
-Autres bilans d'une cryptorchidie: avis endocrinien, cœlioscopie exploratrice.
+Autres bilans d'une cryptorchidie: avis endocrinologique, cœlioscopie exploratrice.
 
-En cas de cryptorchidie bilatérale: caryotype si hypospade.
+En cas de cryptorchidie bilatérale: **caryotype** si hypospade.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la cryptorchidie" %}}
 
-La prise en charge de la cryptorchidie est chirurgicale par *orchidopexie* **avant 2 ans** (première consultation avant 6 mois, idéalement avant 1 an).
+La prise en charge de la cryptorchidie est chirurgicale par **orchidopexie avant 2 ans** (première consultation avant 6 mois, idéalement avant 1 an).
 
 Indications au traitement chirurgical d'un enfant cryptorchide:
 
 - Testicule palpable mais au-dessus de la bourse
 - Testicule cryptorchide: exploration par cœlioscopie
 
-Déroulement:
+Surveillance annuelle des **testicules oscillants** (30% nécessiteront une intervention chirurgicale).
 
-- Hospitalisation courte 1-2 jours
+À la puberté: apprentissage de l'auto-palpation pour le dépistage du [cancer du testicule]({{< relref "cancer-testicule.md" >}}). Ne pas attendre en cas d'[infertilité]({{< relref "infertilite-couple.md" >}}) à l'âge adulte et surveiller des signes de [déficit en testostérone]({{< relref "andropause-deficit-testosterone.md" >}}).
+
+{{% /collapse %}}
+{{%collapse "Information des parents" %}}
+
+### Déroulement de l'orchidopexie
+
+- Hospitalisation courte (1-2 jours)
 - Éviter piscine et vélo pendant 15 jours
 - Nécessite toujours une surveillance spécialisée à distance  
   Atrophie testiculaire secondaire dans 1-2% des cas à 6-12 mois post-chirurgie.
 - Pose de prothèse à la puberté
 
-Surveillance annuelle des testicules oscillants (30% nécessiteront une intervention chirurgicale).
-
-Ensuite, suivi de la puberté et apprentissage de l'auto-palpation pour le dépistage du [cancer du testicule]({{< relref "cancer-testicule.md" >}}). Ne pas attendre en cas d'[infertilité]({{< relref "infertilite-couple.md" >}}) à l'âge adulte.
-
 ### Information des parents d'un garçon cryptorchide
 
 [Document d'information des parents de l'AFU](https://www.urofrance.org/base-bibliographique/cryptorchidie-intervention-chirurgicale-pour-cryptorchidie) et le [document d'Ameli sur la cryptorchidie](https://www.ameli.fr/assure/sante/themes/cryptorchidie-testicule-non-descendu-ectopie-testiculaire/comprendre-cryptorchidie).
 
-Risque de découvrir un testicule atrophié.  
-Risque d'atrophie testiculaire secondaire et ses retentissements sur la stérilité.  
-En l'absence de testicule ou simple présence d'un reliquat, exérèse de ce dernier et mise en place de prothèse à l'adolescence.
+- Risque de découvrir un testicule atrophié
+- Risque d'atrophie testiculaire secondaire et ses retentissements sur la stérilité
+- En l'absence de testicule ou simple présence d'un reliquat, exérèse de ce dernier et mise en place de prothèse à l'adolescence.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la cryptorchidie" "show" %}}

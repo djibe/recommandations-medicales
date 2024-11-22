@@ -4,6 +4,7 @@ title = "Reflux gastro-œsophagien (RGO)"
 prefix = "le "
 titleSeo = "Reflux gastro-œsophagien RGO"
 description = "Recommandations pour la prise en charge du Reflux gastro-œsophagien RGO. Signes d'alerte, examen complémentaire par endoscopie, traitement par anti-acide et IPP"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr F. ZERBIB (SNFGE)"
