@@ -1,7 +1,8 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  {{ range .Data.Pages }}{{ if not .Params.noindex }}
+  {{- range .Data.Pages }}
+  {{- if not .Params.noindex }}
   {{- if or (eq .Kind "home") (eq .Kind "page") -}}
   <url>
     <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
@@ -19,6 +20,7 @@
                 href="{{ .Permalink }}"
                 />{{ end }}
   </url>
-  {{- end -}}
-  {{ end }}{{ end }}
+  {{- end }}
+  {{- end }}
+  {{- end }}
 </urlset>

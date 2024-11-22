@@ -4068,6 +4068,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   width: auto !important;
 }
 
+.mw-100 {
+  max-width: 100% !important;
+}
+
 .min-vh-100 {
   min-height: 100vh !important;
 }
