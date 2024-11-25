@@ -3,7 +3,7 @@ id = "01935532-dc8e-7c63-8129-af5d631f91d9"
 title = "Maladie de Dupuytren"
 prefix = "la "
 description = "TODO:"
-synonyms = []
+synonyms = ["Fibromatose de l'aponévrose palmaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-11-22T19:46:35+01:00"
 publishdate = "2024-11-22"
@@ -14,7 +14,7 @@ sources = ["Society1", "Society2"]
 tags = ["tag 1", "tag 2"]
 english = ["English word", "you can add one or delete this one"]
 sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = ["https://prod-mapping.ihtsdotools.org/#/"]
+icd10 = ["M72.0"]
 draft = true
 image = false
 imageSrc = ""
