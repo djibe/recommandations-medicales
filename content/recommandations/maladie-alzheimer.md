@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-12-17T21:22:00+01:00"
 publishdate = "2023-12-22"
-lastmod = "2024-01-08"
+lastmod = "2024-11-22"
 specialites = ["neurologie"]
 annees = "2018"
 sources = ["NICE", "HAS"]
@@ -39,7 +39,7 @@ flowchart = true
 Maladie d'Alzheimer
 : Maladie neuro-dégénérative d'origine inconnue, la plus fréquente (2/3 des démences) avec 1,2 million de malades (2016 - 2/3 de femmes), causant l'apparition progressive d'un syndrome démentiel survenant le plus souvent après 60 ans.
 : Amnésie hippocampique et troubles cognitifs instrumentaux (langage, praxies, gnosies) sont associées.
-: Le diagnostic de la maladie d'Alzheimer est spécialisé (critères DSM-IV, NIA, NINCDS-ADRDA).
+: Le diagnostic de la maladie d'Alzheimer est spécialisé (critères DSM-IV, AA, NIA, NINCDS-ADRDA).
 
 Apathie
 : Déficit persistant de la motivation rapporté par le sujet ou son entourage. Cet état contraste avec le niveau antérieur de fonctionnement ou les
@@ -169,35 +169,40 @@ Imagerie systématique par IRM cérébrale pour le bilan de démence.
 ### Mesures de prise en charge de la maladie d'Alzheimer
 
 - Déclarer l'[ALD n°15]({{< relref "affection-longue-duree.md" >}})
-- Contrôle des facteurs de risque cardio-vasculaires
-- Activité physique adaptée (APA)  
-  30 min à 1 heure 1 à 2 fois par semaine.
-- Surveillance nutritionnelle
-- Suivi dentaire, ophtalmologique
-- Psychologue, psychiatre
-- Troubles du langage, déglutition: orthophonie
+- Mesures de prévention des démences
+  - Contrôle des facteurs de risque cardio-vasculaires: arrêt du tabac, hypertension artérielle
+  - Activité physique adaptée (APA)  
+    30 min à 1 heure 1 à 2 fois par semaine.
+  - Réduction de la consommation d'alcool
+  - Correction d'un surpoids
+  - Appareillage auditif
+  - Activités sociales
+- Suivi pluridisciplinaire
+  - Surveillance nutritionnelle
+  - Suivi auditif, ophtalmologique
+  - Psychologue, psychiatre
+  - Dentiste, podologue
+  - Si troubles du langage ou de déglutition: orthophonie
 - Interventions non médicamenteuses  
   Art-thérapie, hortithérapie, interventions d'animaux, danse, musicothérapie, réhabilitation cognitive, stimulation multisensorielle, thérapie par réminiscence.
-- Podologue
-- Protection
+- Mesures de protection
   - [Protection juridique](https://www.service-public.fr/particuliers/vosdroits/N155) ([annuaire des tribunaux compétents](https://www.justice.fr/recherche/annuaires))
   - Permis de conduire: incompatibilité sauf avis du spécialiste (arrêté du 28 mars 2022)
   - Adaptation du logement (gaz, cuisson, armes, escalier)
-  - État financier
+  - État financier, assistant social ([APA]({{< relref "allocation-personnalisee-autonomie.md" >}}), MDPH)
 - Vaccin grippe
 - Antipsychotiques: auto-agressivité ou agitation ou hallucinations causant une détresse sévère
 - Personne de confiance
-- Assistant social: [APA]({{< relref "allocation-personnalisee-autonomie.md" >}}), MDPH
 - Information: maisons pour l'autonomie et l'intégration des malades Alzheimer (MAIA), structures de répit
-- Associations de patients: [France Alzheimer](https://guide.francealzheimer.org)
+- Association de patients: [France Alzheimer](https://guide.francealzheimer.org)
 
 Ne pas proposer: mélatonine, acupuncture (*NICE*), Ginkgo biloba (*Prescrire*), vitamine E, plantes.
 {.alert .alert-warning}
 
-> Concernant les anciens << traitements >> médicamenteux (donépézil, galantamine, rivastigmine, mémantine ...): << la HAS a considéré que ces médicaments n'avaient plus de place dans la stratégie thérapeutique du traitement symptomatique de la maladie d'Alzheimer. >> -- *HAS 2019*
+> Concernant les anciens traitements médicamenteux (donépézil, galantamine, rivastigmine, mémantine ...): << la HAS a considéré que ces médicaments n'avaient plus de place dans la stratégie thérapeutique du traitement symptomatique de la maladie d'Alzheimer. >> -- *HAS 2019* (le *Lancet 2024* est en désaccord.)
 
 {{% /collapse %}}
-{{%collapse "Suivi" %}}
+{{%collapse "Suivi de la maladie d'Alzheimer" %}}
 
 Le suivi de la maladie d'Alzheimer par le généraliste est au moins annuel, comme pour le spécialiste.
 
@@ -232,6 +237,8 @@ graph TB
 
 {{< youtube id="UFkHk0wRr_I" title="La minute RECO HAS | Maladies neuroévolutives : accompagner à domicile" >}}
 
+- [Centre Belge d'Information Pharmacothérapeutique (CBIP). Folia. 2024.](https://www.cbip.be/fr/articles/4440?folia=4434)
+- [Livingston G, et al. Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. Lancet. 2024.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01296-0/abstract)
 - [Silvey S, et al. A Possible Reversible Cause of Cognitive Impairment: Undiagnosed Cirrhosis and Potential Hepatic Encephalopathy in Patients with Dementia. Am J Med. 2024.](https://www.amjmed.com/article/S0002-9343(24)00398-X/abstract)
 - Prescrire Redaction. Patients ayant une maladie d'Alzheimer. Interactions médicamenteuses. Rev Prescrire. 2024.
 - [HAS. ALD 15 - Maladie d'Alzheimer et autres démences. Actes et prestations affection de longue durée. 2023.](https://www.has-sante.fr/jcms/c_820000/fr/ald-n-15-maladie-d-alzheimer-et-autres-demences)
@@ -251,10 +258,9 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Dubois B, et al. Alzheimer Disease as a Clinical-Biological Construct-An International Working Group Recommendation. JAMA Neurol. 2024.](https://jamanetwork.com/journals/jamaneurology/article-abstract/2825806)
-- [Livingston G, et al. Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. Lancet. 2024.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01296-0/abstract)
+- [Dubois B, et al. Alzheimer Disease as a Clinical-Biological Construct -- An International Working Group Recommendation. JAMA Neurol. 2024. (payant)](https://jamanetwork.com/journals/jamaneurology/article-abstract/2825806)
 - [Fondation Médéric Alzheimer. Interventions non médicamenteuses et maladie d'Alzheimer. 2024.](https://www.fondation-mederic-alzheimer.org/news/les-inm-une-priorite-pour-laccompagnement-la-fondation-mederic-alzheimer-enrichit-son-guide-pratique-dedie/)
-- [Reuben DB et al. Dementia Prevention and Treatment: A Narrative Review. JAMA Intern Med. 2024.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2815813)
+- [Reuben DB, et al. Dementia Prevention and Treatment: A Narrative Review. JAMA Intern Med. 2024.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2815813)
 - [HAS. Maladie d'Alzheimer et maladies apparentées : prise en charge des troubles du comportement perturbateurs. 2009.](https://www.has-sante.fr/jcms/c_819667/fr/maladie-d-alzheimer-et-maladies-apparentees-prise-en-charge-des-troubles-du-comportement-perturbateurs)
 - [HAS. Maladie d'Alzheimer et maladies apparentées : suivi médical des aidants naturels. 2010.](https://www.has-sante.fr/jcms/c_938713/fr/maladie-d-alzheimer-et-maladies-apparentees-suivi-medical-des-aidants-naturels)
 - [MHRA. Antipsychotics: initiative to reduce prescribing to older people with dementia. 2014.](https://www.gov.uk/drug-safety-update/antipsychotics-initiative-to-reduce-prescribing-to-older-people-with-dementia)

@@ -7,7 +7,7 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2024-10-10"
+lastmod = "2024-11-24"
 specialites = ["infectiologie", "ORL"]
 annees = "2024"
 sources = ["HCSP", "HAS", "SPILF", "GPIP"]
@@ -30,11 +30,11 @@ Ces recommandations visent à protéger les nourrissons non immuns et personnes 
 - Évoquer une coqueluche devant toute toux de plus de 7 jours
 - Le diagnostic de coqueluche est biologique par une *PCR coqueluche* naso-pharyngée dans les 3 premières semaines de toux
 - Prise en charge de la coqueluche: éviction de la collectivité 5 jours et antibiothérapie par clarithromycine 500 mg, 2 fois par jour (ou 1 dose-poids x 2/j) pendant 7 jours ...
-- et antibioprophylaxie des sujets contacts proches ou à risque (voir [Antibioprophylaxie](#antibioprophylaxie-des-sujets-contacts))
+- et antibioprophylaxie des sujets contacts proches à risque (voir [Antibioprophylaxie](#antibioprophylaxie-des-cas-contacts))
 - Vaccination coqueluche
   - Une coqueluche ne modifie pas le calendrier vaccinal. L'immunité vaccinale ne persiste que 5 à 10 ans
   - Tous les vaccins de dTPolio sont désormais couplés à la coqueluche (BoostrixTetra ou Repevax)
-  - [Vaccination coqueluche]({{< relref "vaccination.md" >}}) à chaque grossesse entre 20 et 36 SA  
+  - [Vaccination coqueluche]({{< relref "vaccination.md" >}}) à chaque grossesse entre 20 et 36 SA
   - **Cocooning:** actuellement pour tout l'entourage dont le dernier rappel a plus de 5 ans (habituellement uniquement en l'absence de vaccination en fin de grossesse)
   - Professionnels de santé en 2024: rappel coqueluche si +5 ans
 - [Signalement à l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}) pour au moins 2 cas de coqueluche en collectivité ou intrafamiliaux
@@ -56,6 +56,9 @@ Coqueluche
 - Coqueluche en Île-de-France: **32 %** des adultes suivis pour toux de +7 jours (60 % vaccinés)
 
 ### Abréviations
+
+DRP
+: désobstruction rhinopharyngée
 
 HAS
 : Haute Autorité de Santé
@@ -209,9 +212,8 @@ Prise en charge de la coqueluche:
 - Éviter le contact avec les nourrissons de moins de 6 mois
 - **Éviction de la collectivité** immédiate  
   Tant que le diagnostic n'est pas infirmé chez un cas suspect, retour possible en collectivité après 5 jours d'antibiothérapie (3 jours si azithromycine) ou 21 jours de toux (*HAS 2024*).
-- Mesures barrières  
-  Lavage des mains, port de masque.
-- Proclive - fractionnement des repas - DRP
+- Mesures barrières: lavage des mains, port de masque
+- Nourrisson: position proclive - fractionnement des repas - DRP
 - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) non modifiée par l'épisode
 - Antibioprophylaxie des sujets contacts et examen des tousseurs (voir section suivante)
 - Personne à risque et leur entourage (voir *Risque de forme grave*):
@@ -248,19 +250,16 @@ En cas de grossesse: les macrolides sont possibles (*[CRAT](https://www.lecrat.f
   chez l'enfant +25 kg: érythromycine 40 mg/kg/j (max 3g/j) en 2-3 prises
 
 {{% /collapse %}}
-{{%collapse "Antibioprophylaxie des sujets contacts" %}}
+{{%collapse "Antibioprophylaxie des cas contacts" %}}
 
-Antibioprophylaxie des contacts proches du cas la plus précoce possible, jusqu'à 21 jours après le dernier contact avec le cas-index coquelucheux:
+Antibioprophylaxie des contacts proches la plus précoce possible, jusqu'à 14 jours (21 jours avant 11 mois de vie) après le dernier contact avec le cas-index coquelucheux:
 
-- Contacts symptomatiques: *PCR Bordetella* ± antibiothérapie
-- Antibioprophylaxie
-  - Identique au traitement curatif
-  - Indiquée chez tous les enfants non ou mal vaccinés (même si mère vaccinée en fin de grossesse)  
-    < 11 mois avec < 2 doses, +11 mois avec < 3 doses
-  - et enfants/adolescents/adultes dont la dernière vaccination a plus de 5 ans
-  - et **contacts occasionnels** à risque de forme grave  
-    Nourrisson < 1 an, insuffisant respiratoire, BPCO, immunodépression, grossesse ou en contact avec nourrissons.
-  - Cas-index à *B. parapertussis*: ne pas traiter un contact asymptomatique sauf si personnes à risque dans son entourage
+- Contacts symptomatiques: *PCR Bordetella* sauf positive chez le cas index
+- Antibioprophylaxie identique au traitement curatif
+  1. Indiquée chez tous les nourrissons de moins de 6 mois
+  2. et nourrissons de 7 à 11 mois avec 1 seule dose de vaccin coqueluche
+  3. et personnes fragiles: obésité, +80 ans, femme enceinte au 3^e^ trimestre avec rappel > 5 ans (sauf coqueluche dans les 10 ans), immunodéprimées, respiratoire (insuffisant respiratoire, asthme, BPCO)
+  4. et enfants/adultes dont la dernière vaccination a plus de 5 ans (sauf coqueluche dans les 10 ans) étant en contact avec les personnes ci-dessus (de 1. à 3.)
 - Éviction de collectivité  
   Retour possible en collectivité après 5 jours d'antibiothérapie (3 jours si azithromycine) ou 21 jours de toux.
 - Mise à jour du calendrier vaccinal
@@ -271,7 +270,7 @@ Antibioprophylaxie des contacts proches du cas la plus précoce possible, jusqu'
 {{< mermaid title="Prise en charge d'un cas de coqueluche à partir de l'enfance. Dr JB Fron d'après HAS/SPILF/GPIP 2024" >}}
 graph TB
   suspicion["<b>Suspicion de coqueluche<br>et vaccination +5 ans</b><br>—<br>- Toux émétisante ou<br> à recrudescence nocturne<br>- Toux paroxystique ≥ 7j<br>- Contage"] --> durée(Durée de la toux ?)
-    durée -- "&lt; 21j" --> PCR -- Positive --> traitement("- Éviction 5j<br>- Mesures barrières<br>- Clarithromycine 7j<br>- Antibioprophylaxie<br>des contacts")
+    durée -- "&lt; 21j" --> PCR -- Positive --> traitement("- Éviction 5 jours<br>- Mesures barrières<br>- Clarithromycine 7j<br>- Antibioprophylaxie<br>des contacts")
       PCR -- Négative --> différentiel("<b>Diagnostic différentiel</b><br>—<br>- Mycoplasme, Chlamydia<br>- Grippe, Covid<br>- Tuberculose<br>- Sinusite<br>- Allergie<br>- RGO<br>- Tumeur<br>- Corps étranger<br>- Iatrogène<br>- Psychogène")
     durée -- &ge; 21j --> clinique(Clinique) --> abstention("- Mesures générales<br>- Pas d'antibiothérapie<br>- Antibioprophylaxie<br>des contacts")
   style suspicion stroke:#4150f5, stroke-width:1px
@@ -285,7 +284,7 @@ Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune inf
 
 - [DGS-Urgent 2024_11. 13/08/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : coqueluche chez le nourrisson, l'enfant et l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3525542/fr/choix-et-durees-d-antibiotherapies-coqueluche-chez-le-nourrisson-l-enfant-et-l-adulte)
-- [HCSP. Prévention de la transmission de la coqueluche aux personnes à risque de forme grave. 30/07/2024.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1386)
+- [Haut Conseil de la Santé Publique. Prévention de la transmission de la coqueluche aux personnes à risque de forme grave. 30/07/2024.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1386)
 - [HAS. Stratégie de vaccination contre la coqueluche dans le contexte épidémique de 2024. Rappel vaccinal des professionnels au contact des personnes à risque de forme grave. 2024.](https://www.has-sante.fr/jcms/p_3531825/fr/recrudescence-de-la-coqueluche-la-has-renforce-les-recommandations-vaccinales-pour-proteger-les-nouveau-nes-et-les-nourrissons)
 - [Infovac France. Bulletin N°7 - FAQ Coqueluche. Juin 2024.](https://www.infovac.fr/actualites/bulletin-n-7-faq-coqueluche-juin-2024)
 - [DGS-Urgent 2024_08. 07/06/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
@@ -295,7 +294,7 @@ Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune inf
 - [CMIT. Coqueluche. Item 163. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-163-web.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Coqueluche. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/coqueluche)
 - {{< references/spilf-2020 >}}
-- [HCSP. Conduite à tenir devant un ou plusieurs cas de coqueluche. 2014.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=461)
+- [Haut Conseil de la Santé Publique. Conduite à tenir devant un ou plusieurs cas de coqueluche. 2014.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=461)
 - [ECDC. Pertussis](https://www.ecdc.europa.eu/en/pertussis)
 
 {{%/sources%}}

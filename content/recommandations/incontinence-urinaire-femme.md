@@ -135,8 +135,7 @@ Rééducation comportementale en cas d'urgenturie prédominante.
 
 Si urgenturie ou pollakiurie et ménopause: estrogènes par voie vaginale
 
-Femme +65 ans avec urgenturie ou incontinence urinaire mixte: anticholinergique **[oxybutynine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61198689&typedoc=R)**, chlorure de trospium.
-Risque de détérioration cognitive.
+Femme +65 ans avec urgenturie ou incontinence urinaire mixte: anticholinergique **[oxybutynine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61198689&typedoc=R)**, chlorure de trospium avec un risque de **détérioration cognitive**.
 
 Efficacité maximale à 5-8 semaines. En l'absence d'amélioration à 2 mois: substituer par un autre traitement pour 2 mois si BUD réalisé, sinon avis urologique.
 
@@ -161,6 +160,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Centre Belge d'Information Pharmacothérapeutique (CBIP). Folia. 2024.](https://www.cbip.be/fr/articles/4440?folia=4434)
 - Prescrire Redaction. Patients ayant une incontinence d'urine. Rev Prescrire. 2023.
 - [Collège Français des Enseignants en Urologie (CFEU). Incontinence urinaire de l'adulte et du sujet âgé. Référentiel du collège d'urologie 5ème édition. 2021.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/chapitre-07-incontinence-urinaire-de-ladulte-et-du-sujet-age/)
 - [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2015/2015-RPC-POSTPARTUM.pdf?x13417)
@@ -169,7 +169,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Harding CK et al. EAU guidelines on management of non-neurogenic female lower urinary tract symptoms. 2023.](https://uroweb.org/guidelines/non-neurogenic-female-luts)
-- [Okeahialam N A et al. Pelvic floor muscle training: a practical guide. BMJ. 2022.](https://www.bmj.com/content/378/bmj-2022-070186)
+- [Okeahialam NA, et al. Pelvic floor muscle training: a practical guide. BMJ. 2022. (payant)](https://www.bmj.com/content/378/bmj-2022-070186)
+- [Harding CK, et al. EAU guidelines on management of non-neurogenic female lower urinary tract symptoms. 2023.](https://uroweb.org/guidelines/non-neurogenic-female-luts)
 
 {{%/sources%}}

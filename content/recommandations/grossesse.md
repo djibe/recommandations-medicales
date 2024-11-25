@@ -242,6 +242,8 @@ Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{< re
 Pour toutes les femmes à la 1^re^ grossesse (sauf carte de groupe): double détermination du **groupe sanguin rhésus D** (RhD, dit rhésus 1 -- RH-1) et recherche d'agglutinines irrégulières (**RAI**) si rhésus négatif ou antécédent de transfusion dès le premier trimestre de grossesse.
 {.alert .alert-info}
 
+[Fiche info CNGOF allo-immunisation T1 (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2024/fiche%20info%20patientes%20pr%C3%A9vention%20allo-immunisation%20T1%202024.pdf?x29325)
+
 ### Femme Rhésus D négatif
 
 - Information sur l'immunisation anti-rhésus D: dépistage, suivi (RAI au 1^er^ trimestre, 6e, 8e et 9e mois), prévention

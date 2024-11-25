@@ -207,10 +207,10 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Doleman B et al. Appendectomy versus antibiotic treatment for acute appendicitis. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015038.pub2/full/fr)
+- [Doleman B, et al. Appendectomy versus antibiotic treatment for acute appendicitis. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015038.pub2/full/fr)
 - [Ameli. L'appendicite aiguë : symptômes, diagnostic et évolution. 18/06/2024.](https://www.ameli.fr/assure/sante/themes/appendicite-aigue/symptomes-diagnostic-evolution)
 - Prescrire Redaction. Signes d'appendicite chez les adultes. Rev Prescrire. 2022.
-- [Collard MK et al. Appendicite de l'adulte : recommandations pour la pratique clinique de la Société française de chirurgie digestive (SFCD) et de la Société d'imagerie abdominale et digestive (SIAD). Journal de Chirurgie Viscérale. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S1878786X20304447)
+- [Collard MK, et al. Appendicite de l'adulte : recommandations pour la pratique clinique de la Société française de chirurgie digestive (SFCD) et de la Société d'imagerie abdominale et digestive (SIAD). Journal de Chirurgie Viscérale. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S1878786X20304447)
 - Collège Français de Chirurgie Générale, Viscérale et Digestive. Appendicite de l'enfant et de l'adulte. Item 351 - UE11. Chirurgie générale, viscérale et digestive. 2e édition.
 - Prescrire Redaction. Signes d'appendicite chez les enfants. Rev Prescrire. 2021.
 - [Di Saverio S, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg. 2020.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7386163/)

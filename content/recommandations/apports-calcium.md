@@ -47,6 +47,8 @@ Apports alimentaires en **calcium** recommandés pendant la croissance de l'enfa
 
 ## Évaluer les quotidiens apports en calcium {.mt-5}
 
+Questionnaire du *GRIO* pour l'évaluation de la couverture des apports quotidiens en calcium.
+
 <div class="alert border">
 {{< scores/questionnaire-grio >}}
 </div>
