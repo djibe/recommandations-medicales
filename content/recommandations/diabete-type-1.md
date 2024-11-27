@@ -302,21 +302,22 @@ graph TB
 
 - {{< references/calendrier-vaccinal >}}
 - {{< references/esc-diabetes-2023 >}}
-- [Holt R et al. The management of type 1 diabetes in adults. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481000/)
-- [Monnier L et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
-- [Valensi P et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_paper_sfc_sfd_march_2021.pdf)
+- [Holt R, et al. The management of type 1 diabetes in adults. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481000/)
+- [Monnier L, et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
+- [Valensi P, et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_paper_sfc_sfd_march_2021.pdf)
 - {{< references/esc-dyslipidaemias >}}
 - {{< references/esc-diabetes >}}
 - {{< references/esc-hta >}}
-- [Massin P et al. Référentiel pour le dépistage et la surveillance des complications oculaires du patient diabétique. Validé par la Société Francophone du Diabète (SFD) et par la Société Française d'Ophtalmologie (SFO). Med Mal Metab. 2016. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_complications_oculaires_sfd_sfo_mmm.pdf)
+- [Massin P, et al. Référentiel pour le dépistage et la surveillance des complications oculaires du patient diabétique. Validé par la Société Francophone du Diabète (SFD) et par la Société Française d'Ophtalmologie (SFO). Med Mal Metab. 2016. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_complications_oculaires_sfd_sfo_mmm.pdf)
 - IDF. Oral health for people with diabetes. 2009.
 
 ### Bibliographie en attente
 
-- [D'Souza D et al. Incidence of Diabetes in Children and Adolescents During the COVID-19 Pandemic: A Systematic Review and Meta-Analysis. JAMA Netw Open. 2023.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2806712)
-- [Dreves B et al. GluciQuizz : un nouvel outil validé pour évaluer les connaissances diététiques des patients vivant avec un diabète de type 1. 2024.](https://www.em-consulte.com/article/1651313/)
+- [Mallone R, et al. Dépistage et prise en charge du diabète de type 1 préclinique, stade 1-2. Prise de position d'experts français. Med Mal Metab. 2024. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/depistage_prise_en_charge_dt1.pdf)
+- [D'Souza D, et al. Incidence of Diabetes in Children and Adolescents During the COVID-19 Pandemic: A Systematic Review and Meta-Analysis. JAMA Netw Open. 2023.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2806712)
+- [Dreves B, et al. GluciQuizz : un nouvel outil validé pour évaluer les connaissances diététiques des patients vivant avec un diabète de type 1. 2024.](https://www.em-consulte.com/article/1651313/)
 - {{< references/ada-soc >}}
-- [Jane L et al. Type 1 Diabetes in Children and Adolescents: A Position Statement by the American Diabetes Association. Diabetes Care. 2018.](https://diabetesjournals.org/care/article/41/9/2026/40739/Type-1-Diabetes-in-Children-and-Adolescents-A)
+- [Jane L, et al. Type 1 Diabetes in Children and Adolescents: A Position Statement by the American Diabetes Association. Diabetes Care. 2018.](https://diabetesjournals.org/care/article/41/9/2026/40739/Type-1-Diabetes-in-Children-and-Adolescents-A)
 
 {{%/sources%}}
 {{% modal title="Objectifs glycémiques du DT1 (ADA/EASD 2021)" id="modal-hba1c-dt1"%}}

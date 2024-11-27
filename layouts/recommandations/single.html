@@ -78,7 +78,7 @@
 
         <p class="typography-overline mt-3">Terminologies</p>
         {{ with .Params.Sctid }}<p data-toggle="tooltip" title="SNOMED-CT: terminologie de référence" class="mb-1">SCT-ID:<a href="https://browser.ihtsdotools.org/?perspective=full&conceptId1={{.}}&edition=MAIN/SNOMEDCT-FR/2024-06-21&release=&languages=fr,en" rel="external nofollow noopener"> {{ . }}</a></p>{{ end }}
-        {{ with .Params.Icd10 }}<p data-toggle="tooltip" title="Classification Internationale des Maladies">CIM-10: {{ range .}}<span class="user-select-all mr-2">{{ . }}</span>{{ end }}</p>{{ end }}
+        {{ with .Params.Icd10 }}<p data-toggle="tooltip" title="Classification Internationale des Maladies" class="text-break">CIM-10: {{ range .}}<span class="user-select-all mr-2">{{ . }}</span>{{ end }}</p>{{ end }}
         {{ with .Params.atc }}<p data-toggle="tooltip" title="Classification ATC des médicaments">ATC: <span class="user-select-all">{{ . }}</span></p>{{ end }}
 
         <p class="typography-overline mt-4">Nouveaux chapitres</p>

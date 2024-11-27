@@ -2,7 +2,7 @@
   CSV must use ; separator to preserve sentences where , can occur
   Support arguments: id, class, title.
   If no id provided: datatable-csv class is added for automatic initialization
-  Tech: table caption, table headers (th with scope attribute), schema.org, JSON+LD
+  Tech: table caption, table headers (th with scope attribute), schema.org
 -->
 {{ $id := "" }}
 {{ $title := .Get "title" }}
@@ -41,7 +41,6 @@
 {{ end }}
 </tbody>
 </table>
-{{ if $title }}<script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "{{ printf "%s" $title }}"}</script>{{ end }}
 {{ end }}
 {{ else }}
   {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $file $.Position }}

@@ -163,10 +163,14 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ljungberg B et al. EAU guidelines on renal cancer carcinoma. 2024.](https://uroweb.org/guidelines/renal-cell-carcinoma)
+- [Ljungberg B, et al. EAU guidelines on renal cancer carcinoma. 2024.](https://uroweb.org/guidelines/renal-cell-carcinoma)
 - {{< references/beh-cancers-incidence >}}
 - [HAS, INCa. Cancer du rein de l'adulte. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_985455/fr/ald-n-30-cancer-du-rein-de-l-adulte)
 - [HAS, INCa. Cancer du rein de l'adulte. Guide affection de longue durée. 2010.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-uronephrologiques)
+
+### Bibliographie en attente
+
+[Bigot P, et al. French AFU Cancer Committee Guidelines - Update 2024-2026: Management of kidney cancer. Fr J Urol. 2024.](https://www.sciencedirect.com/science/article/pii/S295039302400192X)
 
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}

@@ -61,7 +61,7 @@ Chapitres dédiés:
 - [Violences faites aux femmes]({{< relref "violences-femmes.md" >}})
 
 {{%/article-summary%}}
-{{%collapse "La maternité en France" "show"%}}
+{{%collapse "La maternité en France"%}}
 
 Rechercher une grossesse avant **32 ans** pour avoir 90% de chance d'obtenir 2 enfants (27 ans sans AMP) ou avant 35 ans pour un enfant (32 ans sans AMP). -- *[Habbema et al 2015](https://pubmed.ncbi.nlm.nih.gov/26185187/)*
 {.alert .alert-info}

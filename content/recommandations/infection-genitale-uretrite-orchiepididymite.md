@@ -18,7 +18,7 @@ sctid = "128478005"
 icd10 = ["N49", "N49.9", "N34", "N45", "N45.9", "R36", "A54.0", "N51.1"]
 image = true
 imageSrc = "Infiltration des polynucléaires neutrophiles par les gonocoques. Vue au microscope avec coloration de Gram signant une urétrite gonococcique. CDC / Joe Millar, Public domain, via Wikimedia Commons"
-todo = "SEO, Balanite et balano-posthite, dépistages Ct homme"
+todo = "SEO, Balanite et balano-posthite, dépistages Ct homme | neisseria meningitidis + entérococcus faecalis "
 +++
 
 {{%article-summary%}}
@@ -127,6 +127,8 @@ Ceftriaxone 1g IM dose unique
 
 > Voir l'onglet *Par Germe* en cas d'autre germe.
 
+---
+
 Infection non-gonococcique persistante:
 
 Après doxycycline: azithromycine 500 mg J1 puis 250 mg/j pendant 4 jours  
@@ -155,7 +157,7 @@ Traitement par germe selon *EAU 2024*:
     OU azithromycine 1 - 1,5 g dose unique
   - Voire lévofloxacine 500 mg x 1/j ou ofloxacine 200 mg x 2/j pendant 7 jours
 - Gonocoque
-  - Ceftriaxone 1g IM + azithromycine 1 g dose unique
+  - Ceftriaxone 1g IM + azithromycine 1g dose unique
 - *Mycoplasma genitalium*
   - À rechercher en cas de persistance après traitement d'une urétrite non gonococcique (UNG)
   - Azithromycine 500 mg J1 puis 250 mg pendant 4 jours

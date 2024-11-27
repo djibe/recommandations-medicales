@@ -9,16 +9,16 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-24T16:33:00+02:00"
 publishdate = "2021-04-27"
 lastmod = "2023-12-05"
-specialites = ["urologie"]
+specialites = ["pediatrie", "urologie"]
 annees = "2010"
 sources = ["AFU", "SFP"]
 tags = []
-english = ["Primary nocturnal enuresis"]
+english = ["(Isolated) Primary nocturnal enuresis (PNE)"]
 sctid = "450842007"
 icd10 = ["F98.0"]
-image = false
-imageSrc = ""
-todo = "NICE, info parents, https://afpa.org/content/uploads/2018/11/Enur%C3%A9sie-Dr-Desvignes.pdf"
+image = true
+imageSrc = "Le calendrier mictionnel"
+todo = "SEO, NICE, info parents, https://afpa.org/content/uploads/2018/11/Enur%C3%A9sie-Dr-Desvignes.pdf"
 flowchart = true
 +++
 
@@ -32,7 +32,7 @@ flowchart = true
 - Adresser à l'urologue en cas d'échec
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Énurésie primaire isolée (EnPI)
 : Incontinence urinaire intermittente, pendant le sommeil, après l'âge de **5 ans**, sans période de continence supérieure à six mois, sans aucun autre symptôme associé (notamment diurne, sauf nycturie)  
@@ -153,6 +153,11 @@ graph TB
 - Prescrire Redaction. Patients ayant une énurésie nocturne. Rev Prescrire. 2021.
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles mictionnels. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/nephrologie-chirurgie-urologique/troubles-mictionnels)
 - Prescrire Redaction. Énurésie isolée des enfants. Rev Prescrire. 2019.
-- [Aubert D et al; AFU, SFP, SFNP, SIFUDPP. Énurésie nocturne primaire isolée : diagnostic et prise en charge. Recommandations par consensus formalisé d'experts. Progrès en Urologie. 2010. (PDF)](https://afpa.org/content/uploads/2017/09/main.pdf)
+- [Aubert D, et al; AFU, SFP, SFNP, SIFUDPP. Énurésie nocturne primaire isolée : diagnostic et prise en charge. Recommandations par consensus formalisé d'experts. Progrès en Urologie. 2010. (PDF)](https://afpa.org/content/uploads/2017/09/main.pdf)
+
+### Bibliographie en attente
+
+- [NICE. Bedwetting in under 19s. 2010.](https://www.nice.org.uk/guidance/cg111)
+- [La prise en charge de l'énurésie nocturne primaire. Paediatr Child Health. 2005.](https://pmc.ncbi.nlm.nih.gov/articles/PMC2722621/)
 
 {{%/sources%}}

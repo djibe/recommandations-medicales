@@ -4405,6 +4405,11 @@ a.text-warning:hover, a.text-warning:focus, a.text-warning:active {
   color: #e3cb53 !important;
 }
 
+.text-break {
+  word-break: break-word !important;
+  word-wrap: break-word !important;
+}
+
 .text-reset {
   color: inherit !important;
 }
