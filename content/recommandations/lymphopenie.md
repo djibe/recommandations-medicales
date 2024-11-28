@@ -164,7 +164,7 @@ graph TB
 - Société française d'hématologie (sfh). Item 212 - Hémogramme chez l'adulte et l'enfant : indications et interprétation. Hématologie Réussir son DFASM. 2021.
 - [Régent A et al. Démarche diagnostique devant une lymphopénie : quand penser à la lymphopénie CD4(+) idiopathique ?. Rev Med Interne. 2012.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7115373/)
 - [Berezné A et al. Orientation diagnostique devant une lymphopénie. Presse Med. 2006.](https://www.sciencedirect.com/science/article/pii/S0755498206747091)
-- [Swaanenburg JC et al. The determination of reference values for hematologic parameters using results obtained from patient populations. Am J Clin Pathol. 1987. [payant]](https://academic.oup.com/ajcp/article-abstract/88/2/182/1799788?redirectedFrom=fulltext)
+- [Swaanenburg JC et al. The determination of reference values for hematologic parameters using results obtained from patient populations. Am J Clin Pathol. 1987. (payant)](https://academic.oup.com/ajcp/article-abstract/88/2/182/1799788?redirectedFrom=fulltext)
 
 {{%/sources%}}
 {{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}

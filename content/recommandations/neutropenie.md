@@ -17,7 +17,7 @@ sctid = "165517008"
 icd10 = ["D70"]
 image = true
 imageSrc = "Polynucléaire neutrophile avec son noyau polylobé. Dr. Roshan Nasimudeen, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "relecture demandée, Fébrile, https://www.sciencedirect.com/science/article/abs/pii/S2588932X2030053X, https://www.oncoclic.fr/manuel/c/0/i/18829646/fievre-chez-le-patient-neutropenique"
+todo = "relecture demandée, Fébrile"
 flowchart = true
 +++
 
@@ -184,7 +184,9 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Paret R, et al. Actualisation sur les stratégies de prise en charge antibiotique de la neutropénie fébrile en hématologie. Médecine et Maladies Infectieuses Formation. 2024. (payant)](https://www.sciencedirect.com/science/article/abs/pii/S2772743224005506)
 - {{< references/spilf-2020 >}}
+- [Bou Mitri F, et al. Neutropénie en dehors d'un contexte de chimiothérapie : bilan et prise en charge-recommandations du centre de référence. Perfectionnement en pédiatrie. 2020. (payant)](https://www.sciencedirect.com/science/article/abs/pii/S2588932X2030053X)
 - [Donadieu J; SFP. Neutropénie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/hematologie/neutropenie)
 - [HCSP. Vaccination des personnes immunodéprimées ou aspléniques. Recommandations actualisées. 2014.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
 

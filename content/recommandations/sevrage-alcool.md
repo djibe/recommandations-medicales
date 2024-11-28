@@ -24,7 +24,7 @@ todo = "SEO 'sevrage alcoolique has', simplifier, remarques mail, KEY x3 sevrage
 
 {{%article-summary%}}
 
-1. Repérer systématiquement un mésusage de l'alcool à tout âge: consommation moyenne par jour, fréquence mensuelle de consommation ≥ 6 verres, autres toxiques (voir *Repérage*)
+1. Repérer systématiquement un mésusage de l'alcool à tout âge: consommation moyenne par jour, fréquence mensuelle de consommation ≥ 6 verres, autres toxiques (1 français sur 2, voir *Repérage*)
 2. Évaluer la consommation d'alcool: score *AUDIT-C* et recherche de comorbidités (voir *Évaluation*)
 3. Intervention brève pour favoriser l'engagement dans une réduction de la consommation d'alcool, encourager à noter la consommation quotidienne
 4. Évaluer les situations sociale, familiale et professionnelle ...
@@ -136,8 +136,8 @@ TUA
 - Coût sociétal: 118 milliards annuels
 - Consommation excessive
   - La France est 6^e^ des pays de l'OCDE (sur 34)
-  - **22% des 18-75 ans dépassent les repères de consommation** (2021)  
-    1 homme sur 3 et 1 femme sur 6  
+  - **La moitié des 18-74 ans dépasse les repères de consommation** (2024)  
+    60% des hommes et 37% des femmes.
     48% ont un diplôme inférieur ou égal au baccalauréat
   - 10% des 18-75 ans absorbent 58% de l'alcool consommé
   - 11,7 L/an/+15 ans
@@ -652,7 +652,8 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 {{< youtube id="OPs09amiMC0" title="Prise en charge de la maladie du foie liée à l'alcool (AFEF Medical Education)" >}}
 
-- [McPheeters M et al. Pharmacotherapy for Adults With Alcohol Use Disorder in Outpatient Settings: Systematic Review. Comparative Effectiveness Review No. 262. AHRQ Publication No. 23(24)-EHC011. Rockville, MD: Agency for Healthcare Research and Quality; November 2023.](https://effectivehealthcare.ahrq.gov/products/alcohol-use-disorders/research#field_report_title_1)
+- [Cohorte CONSTANCES. La moitié de la population française dépasse les repères de consommation d'alcool à moindre risque. 2024.](https://www.constances.fr/actualites/nos-actualites/la-moitie-de-la-population-francaise-depasse-les-reperes-de-consommation-dalcool-a-moindre-risque/)
+- [McPheeters M, et al. Pharmacotherapy for Adults With Alcohol Use Disorder in Outpatient Settings: Systematic Review. Comparative Effectiveness Review No. 262. AHRQ Publication No. 23(24)-EHC011. Rockville, MD: Agency for Healthcare Research and Quality; November 2023.](https://effectivehealthcare.ahrq.gov/products/alcohol-use-disorders/research#field_report_title_1)
 - [HAS. Agir en premier recours pour diminuer le risque alcool. 2023.](https://www.has-sante.fr/jcms/p_3326877/fr/agir-en-premier-recours-pour-diminuer-le-risque-alcool-reperer-tous-les-usages-et-accompagner-chaque-personne)
 - [Quatremère G et al. Grossesse et alcool : évolution des connaissances et perceptions des Français entre 2004 et 2020. Bull Épidémiol Hebd. 2023.](http://beh.santepubliquefrance.fr/beh/2023/17/2023_17_1.html)
 - [SFA, ANPAA, EUFAS. Mésusage de l'alcool : dépistage, diagnostic et traitement. 2023. (PDF)](https://sfalcoologie.fr/wp-content/uploads/RECOS-SFA-Version-2023-2.pdf)

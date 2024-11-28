@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr J. OLIVIER (AFU)"
 date = "2020-09-27T19:51:30+02:00"
 publishdate = "2020-09-27"
-lastmod = "2024-04-17"
+lastmod = "2024-11-27"
 specialites = ["urologie"]
 annees = "2024"
 sources = ["EAU", "AFU", "HAS", "USPTF"]
@@ -141,8 +141,8 @@ La plupart des hommes atteints par le cancer de la prostate sont asymptomatiques
   - Prostate physiologique: prostate souple, régulière, élastique, bords bien délimités, sillon médian palpable
   - Prostate suspecte: nodule dur, irrégulier, indolore voire blindage pelvien
   - Sensibilité et spécificité en soins primaires < 60%
-- Nutritionnel
-+75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...), cognitif [mini-COG (PDF)](http://mini-cog.com/wp-content/uploads/2022/09/FRENCH-Standardized-Mini-Cog-1-19-16-FR_v1-hi-3.pdf)
+- Nutritionnel  
+- +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...), cognitif [mini-COG (PDF)](http://mini-cog.com/wp-content/uploads/2022/09/FRENCH-Standardized-Mini-Cog-1-19-16-FR_v1-hi-3.pdf)
 
 **NB.** Toute anomalie au toucher rectal doit conduire à une consultation d'urologie.
 
@@ -244,9 +244,10 @@ La prise en charge du cancer de la prostate est spécialisée après RCP. [Annua
 
 Plusieurs stratégies thérapeutiques sont disponibles pour la prise en charge du cancer de la prostate: **prostatectomie totale, radiothérapie, hormonothérapie, surveillance active** (détaillée plus bas) voire une ***Abstention-surveillance*** (patient asymptomatique avec cancer localisé et espérance de vie < 10 ans).
 
-Toutes les techniques nécessitent un suivi spécialisé prolongé avec dosages réguliers du PSA: tous les 6 mois pendant 3 ans puis annuel.
+Toutes les techniques nécessitent un suivi spécialisé prolongé avec toucher rectal et dosages réguliers du PSA: tous les 6 mois pendant 3 à 5 ans puis annuel.
 
 > Après prostatectomie totale, la cible du PSA est < 0,2 ng/mL à 6 semaines.
+{.alert .alert-info}
 
 Mesures associées aux cancers:
 
@@ -306,6 +307,7 @@ graph TB
 
 {{< youtube id="szF2WjhtRE4" title="Cancer de la prostate et pesticides : procédure de reconnaissance (Assurance Maladie)" >}}
 
+- [Ploussard G, et al. French AFU Cancer Committee Guidelines - Update 2024-2026: Prostate cancer - Management of metastatic disease and castration resistance. Fr J Urol. 2024.](https://www.sciencedirect.com/science/article/pii/S2950393024001670)
 - [Cornford P, et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2024.](https://uroweb.org/guidelines/prostate-cancer)
 - {{< references/beh-cancers-incidence >}}
 - [Ploussard G, et al. French AFU Cancer Committee Guidelines - Update 2022-2024: prostate cancer - Diagnosis and management of localised disease. Progrès en Urologie. 2022.](https://www.sciencedirect.com/science/article/pii/S116670872200344X)
@@ -324,7 +326,6 @@ graph TB
 ### Bibliographie en attente
 
 - [Ploussard G, et al. French AFU Cancer Committee Guidelines - Update 2024-2026: Prostate cancer - Diagnosis and management of localised disease. Fr J Urol. 2024.](https://www.sciencedirect.com/science/article/pii/S2950393024001748)
-- [Ploussard G, et al. French AFU Cancer Committee Guidelines - Update 2024-2026: Prostate cancer - Management of metastatic disease and castration resistance. Fr J Urol. 2024.](https://www.sciencedirect.com/science/article/pii/S2950393024001670)
 - [Breyer BN, et al. Updates to Incontinence After Prostate Treatment: AUA/GURS/SUFU Guideline (2024). J Urol. 2024.](https://www.auajournals.org/doi/10.1097/JU.0000000000004088)
 - [Hamdy FC, et al. Fifteen-Year Outcomes after Monitoring, Surgery, or Radiotherapy for Prostate Cancer. N Engl J Med. 2023.](https://www.nejm.org/doi/10.1056/NEJMoa2214122)
 [Ploussard G, et al. French AFU Cancer Committee Guidelines - Update 2022-2024: prostate cancer - Management of metastatic disease and castration resistance. Progrès en Urologie. 2022.](https://www.sciencedirect.com/science/article/pii/S1166708722003438)

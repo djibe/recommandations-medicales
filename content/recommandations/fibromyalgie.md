@@ -284,7 +284,7 @@ graph TB
 - [Inserm. Fibromyalgie. Collection Expertise collective. Montrouge : EDP Sciences. 2020.](https://www.inserm.fr/expertise-collective/fibromyalgie/)
 - [Macfarlane GJ et al. EULAR revised recommendations for the management of fibromyalgia. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/2/318)
 - [Moore RA et al. Amitriptyline for fibromyalgia in adults. Cochrane Database of Systematic Reviews. 2015.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011824/full/fr)
-- [Clauw DJ. Fibromyalgia: a clinical review. JAMA. 2014. [payant]](https://jamanetwork.com/journals/jama/article-abstract/1860480)
+- [Clauw DJ. Fibromyalgia: a clinical review. JAMA. 2014. (payant)](https://jamanetwork.com/journals/jama/article-abstract/1860480)
 - Cochrane Library
 - [Ameli. Fibromyalgie.](https://www.ameli.fr/assure/sante/themes/fibromyalgie)
 

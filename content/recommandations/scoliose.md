@@ -188,11 +188,11 @@ Informations sur la scoliose:
 
 - [Centre de référence des malformations vertébrales et médullaires. Déformations précoces du rachis. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3374137/fr/deformations-precoces-du-rachis)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Dépistages chez l'enfant. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/depistages-lenfant)
-- [Kuznia AL et al. Adolescent Idiopathic Scoliosis: Common Questions and Answers. Am Fam Physician. 2020.](https://www.aafp.org/pubs/afp/issues/2020/0101/p19.html)
+- [Kuznia AL, et al. Adolescent Idiopathic Scoliosis: Common Questions and Answers. Am Fam Physician. 2020.](https://www.aafp.org/pubs/afp/issues/2020/0101/p19.html)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Rachialgies. Item 94 UE 5. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-3-0.php)
 - [HAS. Scoliose idiopathique structurale évolutive. Actes et prestations Affection de longue durée. 2018.](https://www.has-sante.fr/jcms/c_646714/fr/ald-n-26-scoliose-idiopathique-structurale-evolutive)
 - [US Preventive Services Task Force. Screening for Adolescent Idiopathic Scoliosis: US Preventive Services Task Force Recommendation Statement. JAMA. 2018.](https://jamanetwork.com/journals/jama/fullarticle/2668355)
-- [Negrini S et al. Braces for idiopathic scoliosis in adolescents. Cochrane Database of Systematic Reviews. 2015.](https://www.cochrane.org/CD006850/BACK_braces-for-idiopathic-scoliosis-in-adolescents)
+- [Negrini S, et al. Braces for idiopathic scoliosis in adolescents. Cochrane Database of Systematic Reviews. 2015.](https://www.cochrane.org/CD006850/BACK_braces-for-idiopathic-scoliosis-in-adolescents)
 - Courtois I, Ebermeyer E. Scoliose de l'enfant et de l'adolescent. La Lettre du Rhumatologue. 2010.
 - HAS. Scoliose structurale évolutive (dont l'angle est égal ou supérieur à 25°) jusqu'à maturation rachidienne. Guide Affection de longue durée. 2008.
 - Prescrire Redaction. Histoire naturelle de la scoliose idiopathique. Rev Prescrire. 2006.
@@ -201,7 +201,6 @@ Informations sur la scoliose:
 ### Bibliographie en attente
 
 - [International Society on Scoliosis Orthopaedic and Rehabilitation Treatment (SOSORT)](https://www.sosort.org)
-- [Blevins K et al. Management of Scoliosis. Adv Pediatr. 2018. [payant]](https://www.advancesinpediatrics.com/article/S0065-3101(18)30014-8/fulltext)
-- [Thèse Bonnet J](https://dumas.ccsd.cnrs.fr/dumas-01969212/document)
+- [Blevins K, et al. Management of Scoliosis. Adv Pediatr. 2018. (payant)](https://www.advancesinpediatrics.com/article/S0065-3101(18)30014-8/fulltext)
 
 {{%/sources%}}

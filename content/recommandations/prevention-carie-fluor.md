@@ -157,6 +157,10 @@ Après 6 mois, la supplémentation relève uniquement d'un risque carieux élev�
 
 {{< youtube id="u_caLAieMsE" title="Technique du brossage des dents" >}}
 
+{{< vimeo 425541952 >}}
+
+{{< vimeo 425541310 >}}
+
 {{< youtube id="spdFjMfWakk" title="Un bon brossage c'est BROS (UFSBD)" >}}
 
 {{< youtube id="pKP4f02JIbA" title="Bien passer le fil dentaire c'est élémentaire (UFSBD)" >}}

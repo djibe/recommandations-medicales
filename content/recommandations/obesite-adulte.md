@@ -18,7 +18,7 @@ sctid = "414916001"
 icd10 = ["E66", "E66.9"]
 image = true
 imageSrc = "L'obésité par pch.vector / Freepik"
-todo = "FLI, GPAQ https://www.who.int/fr/publications/m/item/global-physical-activity-questionnaire et https://www.sciencedirect.com/science/article/pii/S2095254616300631, stats Constances, obésité Monde, HAS 23 screenshots, obésité et Grossesse HAS 23 p23, relation IMC-mortalité Bray 1985"
+todo = "FLI, GPAQ https://www.who.int/fr/publications/m/item/global-physical-activity-questionnaire et https://www.sciencedirect.com/science/article/pii/S2095254616300631, HAS 23 screenshots, obésité et Grossesse HAS 23 p23, relation IMC-mortalité Bray 1985"
 chart = true
 flowchart = true
 +++
@@ -454,6 +454,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Matta J, et al. Prévalence du surpoids, de l'obésité et des facteurs de risque cardio-métaboliques dans la cohorte Constances. Bull Epidémiol Hebd. 2016.](http://beh.santepubliquefrance.fr/beh/2016/35-36/2016_35-36_5.html)
 - [HAS. Guide du parcours de soins : surpoids et obésité de l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3408871/fr/guide-du-parcours-de-soins-surpoids-et-obesite-de-l-adulte)
 - [HAS. Obésité de l'adulte : prise en charge de 2e et 3e niveaux. 2024.](https://www.has-sante.fr/jcms/p_3346001/fr/obesite-de-l-adulte-prise-en-charge-de-2e-et-3e-niveaux)
 - [Direction générale du Trésor. Trésor-Éco n° 179 - Obésité : quelles conséquences pour l'économie et comment les limiter ? 06/09/2016.](https://www.tresor.economie.gouv.fr/Articles/2016/09/06/tresor-eco-n-179-obesite-quelles-consequences-pour-l-economie-et-comment-les-limiter)

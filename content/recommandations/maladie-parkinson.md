@@ -508,8 +508,8 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Horstink M et al. Early (Uncomplicated) Parkinson's Disease. European Handbook of Neurological Management. 2006. [payant]](https://onlinelibrary.wiley.com/doi/10.1002/9780470753279.ch17)
-- [Oertel WH et al. Late (Complicated) Parkinson's Disease. European Handbook of Neurological Management. 2010. [payant]](https://onlinelibrary.wiley.com/doi/10.1002/9781444328394.ch15)
+- [Horstink M et al. Early (Uncomplicated) Parkinson's Disease. European Handbook of Neurological Management. 2006. (payant)](https://onlinelibrary.wiley.com/doi/10.1002/9780470753279.ch17)
+- [Oertel WH et al. Late (Complicated) Parkinson's Disease. European Handbook of Neurological Management. 2010. (payant)](https://onlinelibrary.wiley.com/doi/10.1002/9781444328394.ch15)
 
 {{%/sources%}}
 {{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
