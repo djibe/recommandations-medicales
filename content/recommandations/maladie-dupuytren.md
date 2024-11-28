@@ -15,7 +15,6 @@ tags = ["diabete"]
 english = ["Dupuytren disease (DD)", "Dupuytren's contracture"]
 sctid = "203045001"
 icd10 = ["M72.0"]
-draft = true
 image = true
 imageSrc = "Maladie de Dupuytren atteignant l'annulaire droit. Frank C. Müller, CC BY-SA 4.0, via Wikimedia Commons"
 todo = "flow"
