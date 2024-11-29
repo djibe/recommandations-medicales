@@ -255,7 +255,7 @@ Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{< rel
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
-- [de Oliveira Gomes J et al. Vaccines for preventing herpes zoster in older adults. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008858.pub5/full/fr)
+- [de Oliveira Gomes J, et al. Vaccines for preventing herpes zoster in older adults. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008858.pub5/full/fr)
 - [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-168.pdf)
 - [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 169. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-169-%E2%80%94-Infection-a-VIH-manifestations-cutaneo-muqueuses-de-la-primo-infection-a-VIH_CompressPdf.pdf)
 - Prescrire Redaction. Douleurs postzostériennes. Premiers Choix Prescrire. Rev Prescrire. 2023.
@@ -265,7 +265,7 @@ Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{< rel
 
 ### Bibliographie en attente
 
-- [Werner R et al. European consensus-based (S2k) Guideline on the Management of Herpes Zoster -- guided by the European Dermatology Forum (EDF) in cooperation with the European Academy of Dermatology and Venereology (EADV), Part 1: Diagnostic means. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13995)
-- [Werner R et al. European consensus-based (S2k) Guideline on the Management of Herpes Zoster -- guided by the European Dermatology Forum (EDF) in cooperation with the European Academy of Dermatology and Venereology (EADV), Part 2: Treatment. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13957)
+- [Werner R, et al. European consensus-based (S2k) Guideline on the Management of Herpes Zoster -- guided by the European Dermatology Forum (EDF) in cooperation with the European Academy of Dermatology and Venereology (EADV), Part 1: Diagnostic means. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13995)
+- [Werner R, et al. European consensus-based (S2k) Guideline on the Management of Herpes Zoster -- guided by the European Dermatology Forum (EDF) in cooperation with the European Academy of Dermatology and Venereology (EADV), Part 2: Treatment. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13957)
 
 {{%/sources%}}

@@ -163,7 +163,7 @@ Complications du tabagisme:
   - Nourrisson: mort subite x2
   - Enfant: [otites]({{< relref "otite-moyenne-aigue.md" >}}), [asthme]({{< relref "asthme.md" >}}), [pneumopathie]({{< relref "pneumonie-aigue-communautaire.md" >}})
 
-Autres maladies avec sur-représentation de fumeurs: [Algies vasculaires de la face]({{< relref "algie-vasculaire-face.md" >}}), [maladie de Verneuil]({{< relref "maladie-verneuil.md" >}}), gastrite, ulcère gastro-duodénal, cataracte.
+Autres maladies avec sur-représentation de fumeurs: [Algies vasculaires de la face]({{< relref "algie-vasculaire-face.md" >}}), [maladie de Verneuil]({{< relref "maladie-verneuil.md" >}}), gastrite, ulcère gastro-duodénal, [cataracte]({{< relref "cataracte.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Dépistage et évaluation de la dépendance au tabac" %}}

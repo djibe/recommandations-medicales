@@ -244,14 +244,14 @@ Complications à dépister chez un adulte en obésité.
 | [Cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}}) | Échographie sus-pubienne et endovaginale si symptômes (post-ménopausiques ++) | INCa 2020 |
 | [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) | Scanner AP injecté si symptômes                                | INCa 2020           |
 | [Cancer du sein]({{< relref "cancer-sein.md" >}}) | Dépistage organisé                                                     | INCa 2022           |
-| [Contraception œstroprogestative]({{< relref "contraception.md" >}}) | En l'absence d'autre d'autre FRCV                   | CNGOF 2018          |
+| [Contraception œstroprogestative]({{< relref "contraception.md" >}}) | En l'absence d'autre FRCV                           | CNGOF 2018          |
 | [Covid-19]({{< relref "covid-19.md" >}}) | Antiviral en urgence si infection Covid-19                                      | HAS 2023            |
 | Dentaire                        | Suivi annuel                                                                             | HAS 2023            |
 | [Diabète type 2]({{< relref "diabete-type-2.md" >}}) | Dépistage par glycémie à jeun tous les 1-3 ans                      | HAS 2023            |
 | [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}}) | Dépistage régulier après 50 ans ou si symptômes            | HAS 2022 DMLA       |
 | Dyslipidémie                    | Cholestérol total, HDL, LDL, triglycérides                                               | ESC/ESH 2021        |
 | EFR                             | Indications: IMC ≥ 30 avec dyspnée NYHA 3-4, IMC ≥ 35 et SAHOS, IMC ≥ 40                 | HAS 2023            |
-| Gaz du sang                     | Indications: IMC ≥ 35, SpO~2~ &lt; 94% ou CPT < 85%                             | HAS 2023            |
+| Gaz du sang                     | Indications: IMC ≥ 35, SpO~2~ &lt; 94% ou CPT < 85%                                      | HAS 2023            |
 | [Grossesse]({{< relref "grossesse.md" >}}) | Prise de poids limitée à 5-9 kg                                               | SFD 2022            |
 | [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) | Mesure avec brassard adapté tous les 1 à 3 ans    | ESC/ESH 2021        |
 | [Maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, DFG et <abbr title="Rapport albuminurie/créatininurie">RAC</abbr> min. tous les 3 ans | HAS 2023 |

@@ -25,7 +25,7 @@ todo = "rankok, flow"
 
 - Dans l'[asthme]({{< relref "asthme.md" >}}): les corticoïdes inhalés (ou corticostéroïdes CSI) sont le traitement de fond de référence de l'enfant en monothérapie, associés au formotérol à partir de 12 ans
 - Dans la [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}): les corticoïdes arrivent en 3e ligne en cas de symptômes résistants à la bithérapie LABA + LAMA
-- Les effets indésirables des corticoïdes inhalés sont surtout: [candidose oropharyngée]({{< relref "mycoses-dermatophytes-candidoses.md" >}}) et dysphonie. En cas de traitement prolongé, peuvent survenir: [pneumonies]({{< relref "pneumonie-aigue-communautaire.md" >}}), [ostéoporose]({{< relref "osteoporose.md" >}}), cataracte et glaucome
+- Les effets indésirables des corticoïdes inhalés sont surtout: [candidose oropharyngée]({{< relref "mycoses-dermatophytes-candidoses.md" >}}) et dysphonie. En cas de traitement prolongé, peuvent survenir: [pneumonies]({{< relref "pneumonie-aigue-communautaire.md" >}}), [ostéoporose]({{< relref "osteoporose.md" >}}), [cataracte]({{< relref "cataracte.md" >}}) et glaucome
 - La technique d'inhalation nécessite une excellente éducation thérapeutique. Le traitement administré par une chambre d'inhalation est parfois plus simple sauf excellente maîtrise de la technique d'inhalation
 
 Chapitres liés: [dermocorticoïdes]({{< relref "dermocorticoides.md" >}}), [corticoïdes par voie générale]({{< relref "corticoides.md" >}})

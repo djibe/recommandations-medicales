@@ -137,7 +137,7 @@ Enquête devant la découverte d'une hyperferritinémie:
 - Antécédents personnels  
   (Pré)-[diabète](/tags/diabete/) et facteurs de risque cardiovasculaires, hépatite, [cancer](/tags/cancer/), vascularite, hémoglobinopathie.
 - Antécédents familiaux  
-  Hépatopathie, surcharge en fer, hémoglobinopathie, diabète, cataracte précoce.
+  Hépatopathie, surcharge en fer, hémoglobinopathie, diabète, [cataracte précoce]({{< relref "cataracte.md" >}}).
 - Traitements en cours, automédication, apports en fer, transfusions
 - Consommation d'alcool (({{< modal-btn modal-auditc >}}questionnaire AUDIT-C{{< /modal-btn >}}, {{< modal-btn modal-deta >}}questionnaire CAGE/DETA{{< /modal-btn >}}))
 - Symptômes

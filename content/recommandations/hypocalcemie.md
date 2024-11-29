@@ -123,7 +123,7 @@ Les symptômes d'une hypocalcémie sont très corrélés à la profondeur de l'h
   Troubles de l'attention, anxiété, irritabilité, dépression, démence, troubles de la personnalité, syndrome extrapyramidal.
 - Symptômes cardiaques  
   Élargissement de l'intervalle QT: malaises, tachycardie ventriculaire, fibrillation ventriculaire, insuffisance cardiaque.
-- Cataracte sous-capsulaire
+- [Cataracte sous-capsulaire]({{< relref "cataracte.md" >}})
 - Troubles trophiques (signes chroniques)
   - Ongles striés et cassants
   - Cheveux secs et fragiles

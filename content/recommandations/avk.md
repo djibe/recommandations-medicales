@@ -133,7 +133,7 @@ Reprendre l'AVK selon risque de récidive et indication initiale de l' AVK.
 
 - Injections sous-cutanées
 - Chirurgie cutanée
-- Chirurgie de la cataracte
+- [Chirurgie de la cataracte]({{< relref "cataracte.md" >}})
 - Actes de rhumatologie à faible risque hémorragique
 - Certains actes d'endoscopie digestive
 
