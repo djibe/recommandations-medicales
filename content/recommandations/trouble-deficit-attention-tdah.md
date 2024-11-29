@@ -25,10 +25,10 @@ todo = "SEO, flow | PCO, ALD ?, https://www.bmj.com/content/384/bmj-2022-073448"
 
 - Le trouble chronique du déficit de l'attention avec ou sans hyperactivité (TDAH) atteint 5% des enfants (2/3 de garçons) et 3% des adultes avec des complications médicales, des conduites à risque ayant des conséquences sociales importantes
 - Le trouble débute avant 12 ans et persiste plus de 6 mois, avec une hyperactivité ou une inattention retentissant sur l'environnement du sujet (au moins 2 parmi: familial, scolaire, extra-scolaire, amical)
-- L'examen clinique en présence des parents et des observations des enseignants est primordial pour étayer les antécédents, les symptômes, le cadre de vie, les plaintes et identifier les symptômes qui relèvent de comorbidités ou de diagnostics différentiels
-- Des échelles permettent de guide pour les entretiens avec l'entourage ([ADHD-RS](https://tdahbe.wordpress.com/wp-content/uploads/2013/02/adhd-rs-iv-cotation.pdf), [SNAP IV](https://afpa.org/outil/outil-de-depistage-tdah-premier-recours/)) mais la suspicion doit faire adresser l'enfant/adulte au spécialiste (pédiatre, psychiatre, neurologue)
+- L'examen clinique en présence des parents et les observations des enseignants sont essentiels pour étayer les plaintes, les antécédents, les symptômes, le cadre de vie et identifier les symptômes qui relèvent de comorbidités ou de diagnostics différentiels
+- Des échelles permettent de guider les entretiens avec l'entourage ([ADHD-RS](https://tdahbe.wordpress.com/wp-content/uploads/2013/02/adhd-rs-iv-cotation.pdf), [SNAP IV](https://afpa.org/outil/outil-de-depistage-tdah-premier-recours/)) mais toute suspicion de TDAH doit faire adresser l'enfant ou l'adulte au spécialiste (pédiatre, psychiatre, neurologue)
 - La prise en charge non médicamenteuse du TDAH est systématique et associe psychoéducation, psychothérapie TCCE, programmes de guidance parentale, adaptations scolaires ... (voir *Traitements non médicamenteux*)
-- Le traitement médicamenteux de référence du TDAH de l'enfant est le méthylphénidate dont la prescription initiale est spécialisée, renouvelé par le généraliste tous les 28 jours ((voir *Traitements médicamenteux*))
+- Le traitement médicamenteux de référence du TDAH de l'enfant est le méthylphénidate (prescription initiale spécialisée), renouvelé par le généraliste tous les 28 jours. Il doit le plus souvent être poursuivi à vie (voir *Traitements médicamenteux*)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
