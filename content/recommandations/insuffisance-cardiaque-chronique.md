@@ -404,7 +404,7 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 - Consultation avec le cardiologue  
   Sous **2 semaines** à 2 mois.
 
-> *[Mebazaa 2015](https://doi.org/10.1002/ejhf.289)*
+> -- *[Mebazaa 2015](https://doi.org/10.1002/ejhf.289)*
 
 [Information service de suivi Prado (PDF)](https://www.ameli.fr/sites/default/files/Documents/4084/document/je_suis_accompagnee_apres_mon_hospitalisation_pour_decompensation_cardiaque_service_prado_assurance_maladie.pdf) et [Carnet de suivi Ameli du service Prado de retour à domicile (PDF)](https://www.ameli.fr/sites/default/files/Documents/400225/document/prado_ic_carnet_de_suivi_ic.pdf).
 
@@ -529,7 +529,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - Activité sexuelle
   - Ne pas craindre les rapports sexuels et discuter des problèmes avec les professionnels de santé
   - Comprendre les problèmes sexuels spécifiques et développer des stratégies permettant de les surmonter
-- Vaccination grippe, Covid19, pneumocoque, VRS
+- Vaccinations grippe, Covid 19, pneumocoque, VRS
 - Si Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}})
 - Troubles du sommeil et de la respiration
   - Correction des FRCV, obésité, alcool
@@ -543,7 +543,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
   - Comprendre l'importance des facteurs pronostiques et prendre des décisions réalistes
   - Chercher un soutien psychosocial si approprié
 
-> *HAS 2014, ESC 2021, [HFA 2010](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)*
+> -- *HAS 2014, ESC 2021, [HFA 2010](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)*
 
 {{% /collapse %}}
 {{%sources%}}

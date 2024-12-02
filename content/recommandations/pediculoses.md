@@ -169,6 +169,7 @@ graph TB
 
 ### Bibliographie pour en savoir plus
 
+- [HAS, ANRS, CNS. Prise en charge du patient atteint de phtirose. 2024.](https://www.has-sante.fr/jcms/p_3562447/fr/prise-en-charge-du-patient-atteint-de-pthirose)
 - [Salavastru C, et al. European guideline for the management of pediculosis pubis. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14420)
 
 {{%/sources%}}

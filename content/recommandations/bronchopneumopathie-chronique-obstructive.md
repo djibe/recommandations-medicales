@@ -323,7 +323,6 @@ Indications aux gaz du sang: SpO~2~ < 92%, {{< modal-btn modal-score-mmrc >}}mMR
 - Suivi infirmier à domicile
 - Contrôler le Plan d'Action
 - Poursuivre les traitements de fond
-- Correction d'une [carence en vitamine D]({{< relref "vitamine-d.md" >}}) (*GOLD*)
 
 {{% /collapse %}}
 {{%collapse "Traitement de fond de la BPCO" %}}
@@ -338,8 +337,8 @@ Indications aux gaz du sang: SpO~2~ < 92%, {{< modal-btn modal-score-mmrc >}}mMR
 - Vaccination
   - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) avec la coqueluche
   - Covid-19 et grippe annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} (*GOLD 2024*)
-  - VRS 1 fois (*HAS 2024*)
-  - [Zona]({{< relref "zona.md" >}}) chez le +50 ans (*GOLD 2024*)
+  - +65 ans: VRS 1 fois (*HAS 2024*)
+  - +50 ans: [Zona]({{< relref "zona.md" >}}) (*GOLD 2024*, 65 ans dans le Calendrier vaccinal)
 - Réhabilitation respiratoire
   - Essentielle pour tous pour réduire la dyspnée, le stress et améliorer la qualité de vie
   - Dès 1 mois post-hospitalisation, répétée si besoin
@@ -587,7 +586,7 @@ graph TB
   depister["<b>Dépister</b><br>—<br>- Mini spiromètre<br>- Questionnaire GOLD<br>- ≥ 40 ans avec ≥ 1 parmi:<br>tabagisme, env. pollué,<br>chauffage charbon/bois,<br>exposition professionnelle,<br>toux chronique, expectorations,<br>dyspnée"]
   style depister stroke:#4150f5, stroke-width:1px
     depister --> spirometrie("- Spirométrie avec test de réversibilité<br>—<br>- Évaluation dyspnée: CAT™, échelle mMRC<br>- NFS, glycémie, lipides, Radio thorax<br>- Consultations pneumo et cardio")
-      spirometrie -- TVO non réversible --> rhd("<b>Mesures générales</b><br>—<br>- Sevrage tabagique<br>- Vaccin covid-19, grippe, pneumo<br>- Activité physique<br>- Réadaptation respiratoire<br>- Équilibre diététique<br>- Traitement des comorbidités")
+      spirometrie -- TVO non réversible --> rhd("<b>Mesures générales</b><br>—<br>- Sevrage tabagique<br>- Vaccin covid-19, grippe, pneumo, VRS<br>- Activité physique<br>- Réadaptation respiratoire<br>- Équilibre diététique<br>- Traitement des comorbidités")
         rhd --> bdca("Bronchodilatateur de courte durée<br>en cas de gêne")
           bdca -- Dyspnée ou exacerbation --> bdla("Bronchodilatateur de longue durée:<br>LABA ou LAMA")
             bdla -- Dyspnée ou exacerbation --> bitherapie(Bithérapie LABA + LAMA) -. Insuffisant .-> pneumologue(Avis pneumologique)
@@ -636,6 +635,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Williamson A, et al. Vitamin D for the management of chronic obstructive pulmonary disease. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013284.pub2/full/fr)
 - [CBIP. Gabapentine et prégabaline : risque d'exacerbations sévères de BPCO. Folia. 2024.](https://www.cbip.be/fr/articles/4425?folia=4409)
 - [Taichman DB, Drazen JM. Making Long-Term Oxygen Therapy Less Burdensome. N Engl J Med. 2024.](https://www.nejm.org/doi/10.1056/NEJMe2410129)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)

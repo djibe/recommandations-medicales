@@ -563,7 +563,7 @@ BRCA 1 ou BRCA 2 et Syndrome de Lynch: Toute contraception peut être proposée.
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-{{< card-link-external title="QuestionSexualité" url="https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception" subtitle=" Choisir sa contraception">}}
+{{< card-link-external title="QuestionSexualité" url="https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception" subtitle="Choisir sa contraception">}}
 
 - [Santé BD: La contraception, c'est quoi ?](https://santebd.org/les-fiches-santebd/sexualite-contraception/vie-affective-et-sexuelle-la-contraception-la-contraception-cest-quoi)
 - [Santé BD: Les moyens de contraception](https://santebd.org/les-fiches-santebd/sexualite-contraception/vie-affective-et-sexuelle-la-contraception-les-moyens-de-contraception)

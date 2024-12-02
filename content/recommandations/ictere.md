@@ -143,7 +143,7 @@ Bilan de première intention en cas d'ictère:
 - Bilirubinémie totale et conjuguée
 - ASAT, ALAT, GGT, PAL
 
-> *CDU-HGE 2022*
+> -- *CDU-HGE 2022*
 
 Autres examens selon le contexte.
 

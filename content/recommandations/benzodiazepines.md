@@ -137,7 +137,7 @@ Données insuffisantes pour comparer les efficacités hypnotiques ou anxiolytiqu
 Le diazépam est la référence de la *SFA* pour le sevrage alcoolique.  
 L'oxazépam est la benzodiazépine de référence selon *Prescrire* pour une insomnie transitoire. Il ne présente pas les interactions avec le cytochrome C3A4 (à l'inverse de l'alprazolam qui pose problème avec le paxlovid).
 
-{{< card-link-external title=" Calculatrice d'équivalence entre benzodiazépines " url="https://www.psychopharma.fr/equivalence" subtitle="par PsychoPharma.fr" >}}
+{{< card-link-external title="Calculatrice d'équivalence entre benzodiazépines" url="https://www.psychopharma.fr/equivalence" subtitle="par PsychoPharma.fr" >}}
 
 {{% /collapse %}}
 {{%collapse "Décroissance des benzodiazépines" %}}

@@ -156,7 +156,7 @@ TDAH
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques" %}}
 
-> << Il est souhaitable que ce diagnostic soit posé par un neurologue ou un médecin spécialiste du sommeil. >> *SFRMS 2019*
+> << Il est souhaitable que ce diagnostic soit posé par un neurologue ou un médecin spécialiste du sommeil. >> -- *SFRMS 2019*
 
 ### Critères diagnostiques IRLSSG du syndrome des jambes sans repos
 

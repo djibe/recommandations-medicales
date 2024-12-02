@@ -134,7 +134,7 @@ Risque très élevé = prédisposition génétique au cancer colorectal
     - Cancer colorectal héréditaire non polyposique (HNPCC ou syndrome de Lynch)
     - **Dépistage:** surveillance par chromocoloscopie et oncogénétique
 
-> *INCa 2020 test immunologique*  
+> -- *INCa 2020 test immunologique*  
   Risque moyen (80% des cas et risque de CCR vie entière de 3 à 4%) ; Risque élevé (15% des cas et risque vie entière 4-10%) ; Risque très élevé (5% des cas et risque vie entière 40-100%)
 
 ### Critères devant faire suspecter un cancer colorectal héréditaire

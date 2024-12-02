@@ -150,6 +150,7 @@ La responsabilité de *Mycoplasma genitalium* est possible dans certains cas de 
 
 ### Bibliographie en attente
 
+- [HAS, ANRS, CNS. Prise en charge du patient atteint d'infection à trichomonas vaginalis. 2024.](https://www.has-sante.fr/jcms/p_3562494/fr/prise-en-charge-du-patient-atteint-d-infection-a-trichomonas-vaginalis)
 - <https://www.has-sante.fr/jcms/c_2038472/fr/choix-et-durees-d-antibiotherapies-uretrites-et-cervicites-non-compliquees>
 - SPILF 2020
 - HAS Cervicite compliquée 2021

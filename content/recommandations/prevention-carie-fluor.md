@@ -113,7 +113,7 @@ Gommes à mâcher contenant du xylitol après un repas quand le brossage n'est p
 
 **NB.** Des gouttes ou comprimés de fluor peuvent être proposés après un bilan fluoré par le dentiste lorsque le dentifrice ou le vernis n'est pas possible.
 
-> *CEOP 2021* et *HAS 2010*
+> -- *CEOP 2021* et *HAS 2010*
 
 {{%info%}}
 
@@ -123,7 +123,7 @@ Examen dentaire gratuit à 3, 6, 9, 12, 15, 18, 21 et 24 ans et pendant la gross
 
 Le bon de prise en charge est envoyé par courrier (valable 1 an) ou disponible depuis le compte Ameli (Mon espace prévention > La santé de votre enfant).
 
-> *[Ameli M'T dents](https://www.ameli.fr/paris/assure/sante/themes/carie-dentaire/mt-dents)*
+> -- *[Ameli M'T dents](https://www.ameli.fr/paris/assure/sante/themes/carie-dentaire/mt-dents)*
 
 {{%/info%}}
 

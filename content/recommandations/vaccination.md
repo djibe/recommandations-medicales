@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2024-10-03"
+lastmod = "2024-12-02"
 specialites = ["infectiologie", "pediatrie", "therapeutique"]
 annees = "2024"
 sources = ["MinSanté", "HCSP"]
@@ -67,17 +67,17 @@ VVA
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 1/3, Rotarix 1/2 |
 |   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + pneumocoque +<br>DTCaP-Hib-HB selon GPIP/Infovac) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance) |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3 |
-|   5 mois   | Méningo C/ACWY<br>Méningo B                          | Neisvac/Nimenrix NR<br>Bexsero                                            |
+|   5 mois   | Méningo C/ACWY<br>Méningo B                          | Neisvac/Nimenrix<br>Bexsero                                               |
 |  11 mois   | DTCaP-Hib-HB<br>Pneumo 13                            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance                |
-|  12 mois   | Méningo C/ACWY<br>ROR<br>Méningo B                   | Neisvac/Mendquadfi NR/Nimenrix NR<br>MMRvaxPro, Priorix<br>Bexsero        |
+|  12 mois   | Méningo C/ACWY<br>ROR<br>Méningo B                   | Neisvac/Mendquadfi, Nimenrix<br>MMRvaxPro, Priorix<br>Bexsero             |
 | 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
-| 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>Nimenrix, MenQuadfi ou<br>Menveo (pas d'aiguille)      |
+| 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>Nimenrix, MenQuadfi, Menveo (pas d'aiguille)           |
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |   45 ans   | dTcaPolio (dTPolio retiré)                           | BoostrixTetra, Repevax                                                    |
 |  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>NR: Shingrix M0-M2 |
-|  +75 ans   | + VRS                                                | Arexvy, Abrysvo                                                           |
+|  +75 ans   | + VRS annuel                                         | Arexvy, Abrysvo, mRESVIA                                                  |
 | [Grossesse]({{< relref "grossesse.md" >}}) | Coqueluche, Covid, grippe, VRS | BoostrixTetra, Repevax, Abrysvo ...                             |
 | Médecin généraliste | Covid-19, grippe, ROR,<br>varicelle, VHB    |                                                                           |
 {{< /table >}}
@@ -168,9 +168,9 @@ Lire le *Calendrier vaccinal* page 75.
 10. Méningocoque C
 11. Pneumocoque
 
-> *[Loi du 30 décembre 2017](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171)*
+> -- *[Loi du 30 décembre 2017](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171)*
 
-Au 1er janvier 2025, vaccination obligatoire des nourrissons contre les méningocoques B et ACWY.
+Au 1^er^ janvier **2025**, vaccination obligatoire des nourrissons contre les méningocoques B et ACWY.
 
 Si l'infraction vient du médecin de l'enfant, il peut être poursuivi par le *CDOM*, l'*ARS* voire la [miviludes](https://www.miviludes.interieur.gouv.fr).
 
@@ -217,7 +217,7 @@ Contre-indications temporaires à la vaccination fièvre jaune:
 - Au moins 3 mois (6 mois pour rituximab ou après chimiothérapie) après arrêt de l'immunosuppresseur, d'une biothérapie ou corticothérapie immunosuppressive et un vaccin vivant
 - Allaitement maternel pour la fièvre jaune
 
-> *[Medqual VacciNews 1](https://medqual.fr/accueil-vaccinews)*
+> -- *[Medqual VacciNews 1](https://medqual.fr/accueil-vaccinews)*
 
 {{% /collapse %}}
 {{%collapse "Administration des vaccins" %}}
@@ -317,9 +317,11 @@ Documents pour informer sur la vaccination:
 
 {{< youtube id="u31xRtiITzk" title="Administration du vaccin Rotarix (CDC)" >}}
 
+{{< youtube id="8o4LbIdF_RY" title="Nouveau vaccin contre le pneumocoque (VaccinNews)" >}}
+
 {{< youtube id="FPI_1SQtZ5U" title="Webinaire Les Mardis de la Vaccination sur Vaccins et sexualités (HPV, Hépatite A)" >}}
 
-{{< youtube id="yxPdBkQO7ms" title=" Vaccination contre le rotavirus (VacciNews)" >}}
+{{< youtube id="yxPdBkQO7ms" title="Vaccination contre le rotavirus (VacciNews)" >}}
 
 {{% /collapse %}}
 {{%sources%}}

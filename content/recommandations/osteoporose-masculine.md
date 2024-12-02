@@ -199,7 +199,7 @@ Indications aux radiographies de rachis thoraco-lombaire face et profil :
 - Fracture vertébrale non documentée
 - Corticothérapie ≥ 5 mg/j d'équivalent prednisone depuis au moins 3 mois
 
-> *International Society for Clinical Densitometry 2019*
+> -- *International Society for Clinical Densitometry 2019*
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'ostéoporose masculine" %}}

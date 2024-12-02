@@ -606,15 +606,14 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 
 << Pour limiter les risques pour votre santé, l'option la plus sûre est de ne pas consommer d'alcool. >>
 
-> *Addictions France 2018*
+> -- *Addictions France 2018*
 
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus" %}}
 
 ### Sevrage en alcool chez le prisonnier
 
-Suivi en CSAPA pénitentiaire.  
-En cas d'hospitalisation nécessaire, unité hospitalière sécurisée interrégionale (UHSI).
+Suivi en CSAPA pénitentiaire. En cas d'hospitalisation nécessaire, unité hospitalière sécurisée interrégionale (UHSI).
 
 ### Approche psychosociale du sevrage alcoolique
 

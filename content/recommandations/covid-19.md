@@ -141,7 +141,7 @@ Vaccination annuelle ARNm à l'automne des personnes à risque de forme grave â
 - Entourage de personne immunodéprimée ou à haut risque
 - Médecins
 
-> *Calendrier vaccinal 2024*
+> -- *Calendrier vaccinal 2024*
 
 Délai de 6 mois avec le dernier Covid ou vaccin (3 mois si +80 ans, immunodépression ou très haut risque).
 

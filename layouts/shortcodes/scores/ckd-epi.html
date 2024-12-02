@@ -38,6 +38,7 @@
 </blockquote>
 {{ $script := `
   // Outil de calcul du DFG CKD-EPI 2021 by djibe
+  // Formula from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8822996/bin/NIHMS1763303-supplement-Supplement__2_.pdf>
   window.addEventListener( 'load', event => {
     const age = document.getElementById('gfr-age');
     const creatinineEl = document.getElementById('gfr-creatinine');

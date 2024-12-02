@@ -273,6 +273,7 @@ Recommandations générales pour la prise en charge de la fibrillation atriale:
   - Cible de la population générale (< 130/80): 120-129 / 70-79 mmHg
   - FC ≥ 80 bpm: {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} + BB > + ICa-DHP/thiazidique > + ICa-DHP + thiazidique
   - FC < 80 bpm: {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} + ICa-DHP/thiazidique > + ICa-DHP + thiazidique
+- Vaccinations: grippe-Covid saisonniers, VRS
 - Éducation thérapeutique du patient et son entourage (min tous les 6 mois)
 - Déclarer l'[ALD n°5]({{< relref "affection-longue-duree.md" >}})  
   La FA régularisée sans salves n'est pas concernée.

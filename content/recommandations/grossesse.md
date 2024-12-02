@@ -104,7 +104,7 @@ const chartOptions1 = {
 }
 </script>
 
-> **ICF =** Indicateur conjoncturel de fécondité (naissances pour 100 femmes). Précisément: nombre d'enfants qu'aurait une femme tout au long de sa vie, si les taux de fécondité observés l'année considérée à chaque âge demeuraient inchangés. Plus simplement: 1,64 enfants par femme en 2023.
+> -- **ICF =** Indicateur conjoncturel de fécondité (naissances pour 100 femmes). Précisément: nombre d'enfants qu'aurait une femme tout au long de sa vie, si les taux de fécondité observés l'année considérée à chaque âge demeuraient inchangés. Plus simplement: 1,64 enfants par femme en 2023.
 
 Malgré les fermetures, **43 %** des maternités ont réalisé en 2020 **moins de 3 accouchements par jour**. --  *[Drees Les établissements de santé - édition 2022 (fiche 21)](https://drees.solidarites-sante.gouv.fr/publications-documents-de-reference-communique-de-presse/panoramas-de-la-drees/les-etablissements)*
 {.alert .alert-info}
@@ -322,7 +322,7 @@ AET
 | Allaitement           |                               500 |
 {{< /table >}}
 
-> *[Anses. Avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relatif à l'actualisation des repères alimentaires du PNNS pour les femmes enceintes ou allaitantes. 2019. (PDF)](https://www.anses.fr/fr/system/files/NUT2017SA0141.pdf)*
+> -- *[Anses. Avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relatif à l'actualisation des repères alimentaires du PNNS pour les femmes enceintes ou allaitantes. 2019. (PDF)](https://www.anses.fr/fr/system/files/NUT2017SA0141.pdf)*
 
 Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< relref "obesite-adulte.md" >}}), *[Eades et al 2017](https://pubmed.ncbi.nlm.nih.gov/28531829/)*)
 
@@ -337,7 +337,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 | Obésité      |                        ≥ 30 |                                                    5 - 9 |
 {{< /table >}}
 
-> *[Louvet et al; Société Francophone du Diabète (SFD). Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022_v2.pdf)*
+> -- *[Louvet et al; Société Francophone du Diabète (SFD). Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022_v2.pdf)*
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}

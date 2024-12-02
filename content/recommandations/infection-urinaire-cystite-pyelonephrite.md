@@ -350,7 +350,7 @@ Adaptation à l'antibiogramme dès le rendu des résultats:
     2. Cotrimoxazole
     3. Hospitalisation
 
-> *SPILF 2018*
+> -- *SPILF 2018*
 
 Traitement prolongé 21 jours si uropathie non corrigée ou autre antibiotique.
 

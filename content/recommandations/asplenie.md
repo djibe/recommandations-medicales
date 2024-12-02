@@ -202,6 +202,10 @@ graph TB
 - [HCSP. Vaccination des personnes immunodéprimées ou aspléniques. Recommandations actualisées. 2014.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
 - [Dahyot-Fizelier C et Mimoz O. Gestion du patient splénectomisé. SFAR. 2010.](https://sfar.org/gestion-du-patient-splenectomise/)
 
+### Bibliographie en attente
+
+[ Ladhani SN, et al. Prevention and treatment of infection in patients with absent or hypofunctional spleen: A British Society for Haematology guideline. Br J Haematol. 2024.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.19361)
+
 {{%/sources%}}
 {{% modal title="Vaccin pneumocoque" id="modal-pneumocoque"%}}
 

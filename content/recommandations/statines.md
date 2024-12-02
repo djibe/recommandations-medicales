@@ -68,7 +68,7 @@ Selon l'avis indépendant de la *USPTF 2022*, une statine est recommandée pour 
 
 La USPTF ajoute qu'il n'y a pas de bénéfice à initier une statine en prévention primaire à partir de 76 ans.
 
-> *[US Preventive Services Task Force. Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2022.13044)*
+> -- *[US Preventive Services Task Force. Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2022.13044)*
 
 {{% /collapse %}}
 {{%collapse "Surveillance d'une statine" %}}
@@ -92,7 +92,7 @@ Débuter un traitement par statine:
 
 Les statines entraînent un sur-risque de diabète de 9%, négligeable par rapport à la réduction des complications cardiovasculaires qu'elles engendrent chez la personne vivant avec un diabète.
 
-> *{{< references/esc-diabetes-2023 >}}*
+> -- *{{< references/esc-diabetes-2023 >}}*
 
 ### Statines et myalgies
 
@@ -102,15 +102,15 @@ Surveillance biologique chez l'enfant: ASAT, ALAT et CPK pré-thérapeutiques à
 
 Dans les essais contrôlés, moins de 0,1 % des sujets ont présenté de réelles myopathies (avec élévation des CPK) sous statine. Dans les deux bras (*statine* et *placebo*), les myalgies étaient rapportées par 11,5 % des sujets.
 
-> *[Newman CB et al. Statin Safety and Associated Adverse Events: A Scientific Statement From the American Heart Association. 2019.](https://www.ahajournals.org/doi/full/10.1161/ATV.0000000000000073)*
+> -- *[Newman CB, et al. Statin Safety and Associated Adverse Events: A Scientific Statement From the American Heart Association. 2019.](https://www.ahajournals.org/doi/full/10.1161/ATV.0000000000000073)*
 
 Chez des patients ayant arrêté leur traitement pour myalgies (douleurs musculaires), traités en aveugle et assignés dans 3 bras atorvastatine, placebo (aspects similaires) ou ... rien, les effets secondaires étaient plus forts dans les bras ayant une prise de comprimé, mais similaires dans les groupes atorvastatine et placebo. **La part attribuable des douleurs musculaires à un effet nocebo a été estimée à 90%.**
 
-> *[Wood FA et al. N-of-1 Trial of a Statin, Placebo, or No Treatment to Assess Side Effects. N Engl J Med. 2020.](https://www.nejm.org/doi/10.1056/NEJMc2031173)*, corroborée par *[Cholesterol Treatment Trialists' Collaboration 2022](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01545-8/fulltext)*
+> -- *[Wood FA, et al. N-of-1 Trial of a Statin, Placebo, or No Treatment to Assess Side Effects. N Engl J Med. 2020.](https://www.nejm.org/doi/10.1056/NEJMc2031173)*, corroborée par *[Cholesterol Treatment Trialists' Collaboration 2022](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01545-8/fulltext)*
 
 Pas de différences entre les statines concernant la survenue de myalgies. La survenue de myalgies survenue intervient durant la première année de traitement (sauf statine de haute intensité comme l'atorvastatine et la rosuvastatine).
 
-> *[Cholesterol Treatment Trialists' Collaboration 2022](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01545-8/fulltext)*
+> -- *[Cholesterol Treatment Trialists' Collaboration 2022](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01545-8/fulltext)*
 
 ### Statine mal tolérée
 
@@ -159,7 +159,7 @@ Lorsqu'une statine doit être arrêtée pour mauvaise tolérance, envisager la s
 
 Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**[infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}})** en plus et une **surmortalité cardiovasculaire** de 18%.
 
-> *[Sune Fallgaard Nielsen 2016](https://academic.oup.com/eurheartj/article/37/11/908/2398344)*
+> -- *[Sune Fallgaard Nielsen 2016](https://academic.oup.com/eurheartj/article/37/11/908/2398344)*
 
 {{% /collapse %}}
 {{%sources%}}
