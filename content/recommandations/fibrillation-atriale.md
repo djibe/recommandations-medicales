@@ -19,7 +19,7 @@ sctid = "49436004"
 icd10 = ["I48", "I48.9"]
 image = true
 imageSrc = "Fibrillation atriale sur 2 dérivations, PeaBrainC, CC BY-SA 4.0 via Wikimedia Commons"
-todo = "AF-CARE framework"
+todo = "AF-CARE framework, https://pubmed.ncbi.nlm.nih.gov/39604644/"
 flowchart = true
 +++
 
