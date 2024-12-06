@@ -256,8 +256,8 @@ Antibioprophylaxie et vaccination urgente des << sujets contacts >>:
 - Si méningocoque disposant d'une vaccination (C, A, Y, W sauf B): vaccination urgente (voir *Prévention*)
 - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}})
 
-> << La vaccination avec le vaccin Bexsero® n'est recommandée autour d'un cas d'IIM B qu'en zone de campagne de vaccination >> -- *DGS*
-{.alert .alert-info}
+> [!INFO]
+> << La vaccination avec le vaccin Bexsero® n'est recommandée autour d'un cas d'IIM B qu'en zone de campagne de vaccination >>. -- *DGS*
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la méningite bactérienne" "show" %}}

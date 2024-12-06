@@ -118,14 +118,14 @@ Causes urologiques à éliminer en priorité: tumeur des voies urinaires, infect
   - Malformation vasculaire
 - Cause d'élimination: exercice physique important
 
-Chez l'enfant, les principales étiologies urinaires d'une hématurie sont: [infection urinaire]({{< relref "infection-urinaire-enfant.md" >}}), lithiase, traumatisme et tumeurs.
-{.alert .alert-info}
+> [!INFO]
+> Chez l'enfant, les principales étiologies urinaires d'une hématurie sont: [infection urinaire]({{< relref "infection-urinaire-enfant.md" >}}), lithiase, traumatisme et tumeurs.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!INFO]
 > << L'hématurie microscopique a la même valeur diagnostique que l'hématurie macroscopique. >> -- *CUEN 2023*. Un [cancer de vessie]({{< relref "cancer-vessie.md" >}}) doit être éliminé chez le (ancien) fumeur.
-{.alert .alert-info}
 
 Caractères sémiologiques de l'hématurie macroscopique:
 

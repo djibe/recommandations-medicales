@@ -104,8 +104,8 @@ Une conjonctive est banale chez 5% des nouveaux-nés (*Staphylococcus aureus*, *
 {{% /collapse %}}
 {{%collapse "Prévention de la conjonctivite néonatale" %}}
 
-La prophylaxie systématique de la conjonctive néonatale n'est plus recommandée.
-{.alert .alert-info}
+> [!INFO]
+> La prophylaxie systématique de la conjonctive néonatale n'est plus recommandée.
 
 Indications à la prophylaxie de la conjonctivite du nouveau-né:
 
@@ -162,7 +162,7 @@ Les conjonctivites de l'enfant sont le plus souvent bactériennes (*Haemophilus 
 
 > << Les antibiotiques doivent être réservés aux formes sévères. >> -- *AFSOP 2017*
 
-Le traitement antibiotique ets systématique et la consultation ophtalmologique.
+Le traitement antibiotique ets systématique et la consultation ophtalmologique TODO:.
 
 - ==[Rifamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63828371&typedoc=R) collyre 1 gte x 4/j pendant 7-10 jours==
 - [Tobramycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69240211&typedoc=R) collyre 1 gte x 4/j pendant 7-10 jours

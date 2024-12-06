@@ -34,8 +34,8 @@ Durées de sommeil recommandées par jour selon l'âge:
 {{%/article-summary%}}
 {{%collapse "Durée recommandée de sommeil chez l'adulte" %}}
 
-> Temps de sommeil de 7 à 9 heures recommandé pour tous les adultes (*AASM 2015*)
-{.alert .alert-info}
+> [!INFO]
+> Temps de sommeil de 7 à 9 heures recommandé pour tous les adultes. (*AASM 2015*)
 
 ### Conséquences d'un temps de sommeil insuffisant ou augmenté chez l'adulte
 

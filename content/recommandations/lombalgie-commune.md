@@ -155,7 +155,7 @@ Signes et symptômes à rechercher devant un épisode de lombalgie:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Aucun bilan n'est recommandé dans les 6 premières semaines d'évolution de la lombalgie (sauf *Drapeau rouge*). Expliquer au patient pourquoi l'imagerie n'est pas nécessaire.
+Aucun bilan n'est recommandé durant les 6 premières semaines d'évolution de la lombalgie (sauf *Drapeau rouge*). Expliquer au patient pourquoi l'imagerie n'est pas nécessaire.
 {.alert .alert-info}
 
 **Ne pas renouveler l'imagerie** sauf modification des symptômes. **Expliquer** les termes du compte-rendu au patient.
@@ -172,8 +172,8 @@ Indications aux radiographies pour lombalgie:
 - Antécédent de fracture vertébrale (*SFR 2018 ostéoporose*)
 - Corticothérapie prolongée, anti-aromatase/androgène (*SFR 2018 ostéoporose*)
 
-> << Il n'y a aucun parallélisme entre radiographies standards et clinique >> -- *COFER*
-{.alert .alert-info}>
+> [!INFO]
+> << Il n'y a aucun parallélisme entre radiographies standards et clinique >>. -- *COFER*
 
 ### IRM lombaire
 
@@ -184,8 +184,8 @@ Scanner lombaire en cas de contre-indication à l'IRM.
 {{% /collapse %}}
 {{%collapse "Traitement de la lombalgie aiguë" %}}
 
-> L'exercice physique est le traitement principal permettant une évolution favorable de la lombalgie -- *HAS 2019*
-{.alert .alert-info}
+> [!INFO]
+> L'exercice physique est le traitement principal permettant une évolution favorable de la lombalgie. (*HAS 2019*)
 
 La prise en charge de la lombalgie est centrée sur le patient (bio-psycho-sociale) avec décisions partagées.
 

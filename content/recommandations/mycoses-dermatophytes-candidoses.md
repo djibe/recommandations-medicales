@@ -165,8 +165,8 @@ Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athl�
 {{% /collapse %}}
 {{%collapse "Teignes ou dermatophytoses du cuir chevelu" %}}
 
+> [!INFO]
 > << Tout état squameux, croûteux ou pustuleux du cuir chevelu est une teigne jusqu'à preuve du contraire >>. -- *Pilly 2020*
-{.alert .alert-info}
 
 - Les teignes (dites aussi tinea capitis) sont le plus souvent **tondantes** ou inflammatoires (rarement faviques)
 - Notion de contact avec des animaux ou une personne atteinte
@@ -282,7 +282,7 @@ Rechercher un [diabète]({{< relref "diabete-type-2.md" >}}) en cas de balanite 
 {{% /collapse %}}
 {{%collapse "Candidoses vaginales" %}}
 
-Pas de traitement du partenaire et contrôle clinique uniquement en cas d'évolution défavorable
+Pas de traitement du partenaire, contrôle clinique uniquement en cas d'évolution défavorable.
 {.alert .alert-info}
 
 Prise en charge de la candidose vaginale (mycose vaginale, candidose vulvovaginale ou vaginite candidosique) d'après les **recommandations *BASSH 2019***.
@@ -308,8 +308,8 @@ Signes et symptômes d'une candidose vulvovaginale:
 
 ### Prise en charge de la candidose vulvovaginale aiguë
 
-Le prélèvement vaginal est dispensable pour un épisode aigu ambulatoire d'évolution favorable
-{.alert .alert-info}
+> [!INFO]
+> Le prélèvement vaginal est dispensable pour un épisode aigu ambulatoire d'évolution favorable.
 
 - Inspection vulvaire
 - ==Fluconazole 150 mg cp dose unique== ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67860651&typedoc=R), [interactions](https://www.drugs.com/interaction/list/?drug_list=1096-0))

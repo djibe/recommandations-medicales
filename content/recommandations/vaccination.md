@@ -42,8 +42,8 @@ Rattrapage vaccinal
 Nourrisson prématuré
 : Naissance avant 37 semaines d'aménorrhée (SA).
 
+> [!INFO]
 > << Les vaccins de manière générale ne sont pas associés à un risque accru de survenue d'une sclérose en plaques >>. -- *[SFSEP 2024](https://sfsep.org/wp-content/uploads/2019/01/Presentation-Vaccinations-et-SEP-revision_Avril_2024.pdf)*
-{.alert .alert-info}
 
 ### Abréviations
 
@@ -239,7 +239,7 @@ Contre-indications temporaires à la vaccination fièvre jaune:
 
 Disposer du matériel nécessaire à un choc anaphylactique.
 
-Depuis le 7 novembre 2022, les infirmiers et pharmaciens peuvent administrer sans ordonnance à partir de 16 ans: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACWY et la rage
+Depuis le 7 novembre 2022, les infirmiers et pharmaciens peuvent administrer sans ordonnance à partir de 16 ans: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACWY et la rage.
 {.alert .alert-info}
 
 ### Sites d'injection

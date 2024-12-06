@@ -69,8 +69,8 @@ Dysfonction érectile (DE, *ex* impuissance)
 
 **NB.** L'association déficit androgénique - dysfonction érectile n'est pas clairement établie.
 
-> La dysfonction érectile est un marqueur de **risque cardiovasculaire** et d'altération de la qualité de vie *[Dong 2011](https://pubmed.ncbi.nlm.nih.gov/21920268/)*
-{.alert .alert-info}
+> [!INFO]
+> La dysfonction érectile est un marqueur de **risque cardiovasculaire** et d'altération de la qualité de vie. (*[Dong 2011](https://pubmed.ncbi.nlm.nih.gov/21920268/)*)
 
 ### Abréviations
 
@@ -87,7 +87,7 @@ MCV
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-La dysfonction érectile est un diagnostic d'interrogatoire: << Donc, vous avez un problème d'érection pendant les rapports ? >>
+La dysfonction érectile est un diagnostic d'interrogatoire: << Donc, vous avez un problème d'érection pendant les rapports ? >>.
 {.alert .alert-info}
 
 ### Points essentiels pour guider l'examen en cas de dysfonction érectile
@@ -127,7 +127,7 @@ La dysfonction érectile est un diagnostic d'interrogatoire: << Donc, vous avez 
 
 Une DE réactionnelle, situationnelle associée à la persistance d'érections spontanées/provoquées de bonne qualité évoque une pathologie psychogène prédominante.  
 
-La persistance d'une capacité érectile résiduelle est un facteur de bon pronostic et permet de rassurer le patient
+La persistance d'une capacité érectile résiduelle est un facteur de bon pronostic et permet de rassurer le patient.
 {.alert .alert-info}
 
 #### 3) Histoire sexuelle
@@ -176,7 +176,7 @@ Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-
 - Partenaire  
   Attitude et motivation sexuelle, troubles sexuels, santé psychique et physique, ménopause, ATCD gynéco, contraception. La consultation de la partenaire est vivement recommandée.
 
-Faire la part entre une personnalité anxieuse (psychotrope, psychothérapie, IPDE5) et une anxiété de performance sexuelle (expliquer, rassurer, IPDE5)
+Faire la part entre une personnalité anxieuse (psychotrope, psychothérapie, IPDE5) et une anxiété de performance sexuelle (expliquer, rassurer, IPDE5).
 {.alert .alert-info}
 
 ### Examen clinique
@@ -285,7 +285,7 @@ Diagnostic de [dépression]({{< relref "depression.md" >}}) au cours du bilan de
 
 #### Avis psychiatrique (ou sexologique)
 
-Avis psychiatrique systématique: dysfonction érectile primaire, pathologie psychotique, paraphilie, personnalité pathologique
+Avis psychiatrique systématique si: dysfonction érectile primaire, pathologie psychotique, paraphilie, personnalité pathologique.
 {.alert .alert-info}
 
 - Psychothérapie: anxiété de fond, trouble du désir, éjaculation rapide

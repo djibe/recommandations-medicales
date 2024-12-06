@@ -367,8 +367,8 @@ Utiliser une chambre d'inhalation si adaptable sur le dispositif.
 
 Consultation de suivi dans la semaine qui suit l'exacerbation.
 
-> L'utilisation des {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} en spray avec une chambre d'inhalation a la même efficacité qu'en nébulisation (*SPLF 2015*)
-{.alert .alert-info}
+> [!INFO]
+> L'utilisation des {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} en spray avec une chambre d'inhalation a la même efficacité qu'en nébulisation. -- *SPLF 2015*
 
 {{% /collapse %}}
 {{%collapse "Traitement de fond de l'asthme" %}}
@@ -480,7 +480,7 @@ Paliers de 2-3 mois avec réévaluation par l'{{< modal-btn modal-score-act >}}A
 
 La décroissance du {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} peut se faire par paliers de 25-50% jusqu'à une {{< modal-btn modal-ttt-csi >}}faible dose{{< /modal-btn >}} maintenue au long cours.
 
-Éviter de conserver une dose élevée de CSI inhalé chez un patient durablement contrôlé en raison des effets indésirables
+Éviter de conserver une dose élevée de CSI inhalé chez un patient durablement contrôlé en raison des effets indésirables.
 {.alert .alert-info}
 
 #### Pour en savoir plus: Autres traitements de l'asthme

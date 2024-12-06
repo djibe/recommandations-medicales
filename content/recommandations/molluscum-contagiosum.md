@@ -63,8 +63,8 @@ L'ensemble des lésions disparaît en 8 mois et dure rarement plus d'un an.
 3. Forme profuse de l'immunodéprimé  
   Lésions prédominantes aux visage et cou avec parfois des lésions isolées évocatrices d'autres pathologies (kératoacanthome, carcinome basocellulaire)
 
-Les paumes et plantes sont toujours épargnées
-{.alert .alert-info}
+> [!INFO]
+> Les paumes et plantes sont toujours épargnées.
 
 {{% /collapse %}}
 {{%collapse "Traitement des molluscums contagiosums" %}}

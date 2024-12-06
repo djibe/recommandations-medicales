@@ -339,7 +339,7 @@ La scopolamine (anticholinergique non sélectif) peut être utilisé en patch de
 
 Autres mesures: choisir l'endroit le plus stable du véhicule (avant train-voiture, milieu d'avion et bateau), regarder l'horizon, activités mentales.
 
-N'ont pas démontré d'efficacité: gingembre, homéopathie, acupressure du point P6 (proche du poignet)
+N'ont pas démontré d'efficacité: gingembre, homéopathie, acupressure du point P6 (proche du poignet).
 {.alert .alert-info}
 
 {{% /collapse %}}

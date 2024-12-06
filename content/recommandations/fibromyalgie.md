@@ -73,17 +73,17 @@ L'{{< modal-btn modal-first >}}auto-questionnaire FiRST{{< /modal-btn >}} est un
 
 ### Critères diagnostiques de la fibromyalgie selon l'ACR 2016
 
-Les critères diagnostiques ACR 2016 permettent de poser le diagnostic de fibromyalgie lorsqu'ils sont remplis par le médecin.
-{.alert .alert-info}
+> [!INFO]
+> Les critères diagnostiques *ACR 2016* permettent de poser le diagnostic de fibromyalgie lorsqu'ils sont remplis par le médecin.
 
 Les critères diagnostiques *ACR 2016* du syndrome fibromyalgique sont remplis si au moins 3 éléments sont présents:
 
 1. Index de douleurs diffuses (IDD) ≥ 7 et échelle de sévérité des symptômes (SS) ≥ 5  
   ou IDD de 4 à 6 et échelle SS ≥ 9
-2. Douleurs généralisées définies par la présence de douleurs dans au moins 4 régions (voir ci-dessous)  
+1. Douleurs généralisées définies par la présence de douleurs dans au moins 4 régions (voir ci-dessous)  
   Les douleurs des mâchoire, poitrine et abdomen ne sont pas considérées.
-3. Les symptômes sont présents à ce niveau pendant au moins 3 mois
-4. Le diagnostic de fibromyalgie est validé indépendamment d'autres diagnostics.  
+1. Les symptômes sont présents à ce niveau pendant au moins 3 mois
+2. Le diagnostic de fibromyalgie est validé indépendamment d'autres diagnostics.  
   Un diagnostic de fibromyalgie n'exclut pas d'autres maladies cliniquement importantes.
 
 ### Index de douleurs diffuses (IDD)

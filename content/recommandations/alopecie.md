@@ -133,7 +133,7 @@ Les examens dépendent de l'étiologie suspectée:
 {{% /collapse %}}
 {{%collapse "Traitement de l'alopécie" %}}
 
-Avis dermatologique systématique en l'absence de cause évidente
+Avis dermatologique systématique en l'absence de cause évidente.
 {.alert .alert-info}
 
 La prise en charge d'une alopécie est avant tout étiologique ([teigne]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), cosmétique, trichotillomanie, carentielle, [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), SOPK ...).

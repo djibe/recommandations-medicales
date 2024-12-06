@@ -90,8 +90,8 @@ Une [éosinophilie]({{< relref "hypereosinophilie.md" >}}) peut également être
 {{% /collapse %}}
 {{%collapse "Traitement de l'oxyurose" %}}
 
-L'oxyurose doit toujours être traitée
-{.alert .alert-info}
+> [!INFO]
+> L'oxyurose doit toujours être traitée.
 
 La prise en charge de l'oxyurose comprend le traitement de tous les sujets de l'entourage (foyer, collectivité) à 2 reprises (*CMIT*):
 

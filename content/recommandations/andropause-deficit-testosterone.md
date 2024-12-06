@@ -174,8 +174,8 @@ Indication à doser la testostérone en présence d'un ou plusieurs signes parmi
 
 ### Bilan de l'andropause
 
-Critères biologiques en faveur d'andropause: testostérone libre ou biodisponible basse (sans seuil strict). -- *AFU/SFMS 2021*
-{.alert .alert-info}
+> [!INFO]
+> Critères biologiques en faveur d'andropause: testostérone libre ou biodisponible basse (sans seuil strict). -- *AFU/SFMS 2021*
 
 Bilan à réaliser devant une suspicion d'andropause:
 
@@ -199,8 +199,8 @@ Bilans complémentaires après 2 testostéronémies basses:
 
 ### Interprétation de la testostéronémie
 
-En cas de testostéronémie normale avec des symptômes évocateurs, un test thérapeutique à la testostérone de 6 mois peut être essayé (*AFU/SFMS 2022*).
-{.alert .alert-info}
+> [!INFO]
+> En cas de testostéronémie normale avec des symptômes évocateurs, un test thérapeutique à la testostérone de 6 mois peut être essayé (*AFU/SFMS 2022*).
 
 - Testostéronémie basse et LH élevée: hypogonadisme testiculaire (ou insuffisance testiculaire primitive)
 - Testostéronémie basse et LH basse ou normale: hypogonadisme hypogonadotrope  
@@ -239,8 +239,8 @@ Suivi à 3 mois, 6 mois, 1 an puis au moins annuel.
   Le risque thromboembolique veineux n'est pas prouvé.
 - Surveillance biologique: testostéronémie (2-4 heures après une application transdermique ou à mi-distance entre 2 injections), PSA, NFS (hématocrite strictement < 54%), bilan lipidique
 
+> [!INFO]
 > << Une testostérone basse est un facteur de risque de maladie cardiovasculaire (MCV). Le traitement par la testostérone ne semble pas associé à un risque accru de MCV, il pourrait même apporter des bénéfices cardiovasculaires. >> -- *AFU/SFMS 2021*
-{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'andropause ou déficit en testostérone" "show" %}}

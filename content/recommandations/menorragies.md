@@ -151,8 +151,8 @@ La chirurgie conservatrice comprend les résections et destructions de l'endomè
 
 Les myomes (fibromyomes ou fibromes) sont opérés par hystéroscopie, cœlioscopie ou laparotomie (FIGO type 3+).
 
+> [!INFO]
 > << L'hystérectomie est le traitement le plus efficace pour traiter les ménorragies car il permet l'arrêt des saignements dans 100 % des cas >>. -- *CNGOF 2022*
-{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge des ménorragies" %}}

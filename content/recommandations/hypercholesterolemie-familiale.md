@@ -96,14 +96,14 @@ Les signes cliniques sont inconstants mais spécifiques:
 - Xanthélasma avant 25 ans  
   Dépôt lipidique palpébral.
 
-En l'absence de signes cliniques (xanthomes) et d'hérédité cardiovasculaire ou de maladie cardiovasculaire, un LDL > 1,9 g/L définit à lui seul un {{< modal-btn modal-rcv >}}haut risque cardiovasculaire{{< /modal-btn >}}
+En l'absence de signes cliniques (xanthomes) et d'hérédité cardiovasculaire ou de maladie cardiovasculaire, un LDL > 1,9 g/L définit à lui seul un {{< modal-btn modal-rcv >}}haut risque cardiovasculaire{{< /modal-btn >}}.
 {.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Évoquer le diagnostic d'hypercholestérolémie familiale en cas de LDL > 1,9 g/L sans traitement
-{.alert .alert-info}
+> [!INFO]
+> Évoquer le diagnostic d'hypercholestérolémie familiale en cas de LDL > 1,9 g/L sans traitement.
 
 ### Bilan lipidique
 

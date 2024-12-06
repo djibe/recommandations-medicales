@@ -224,8 +224,8 @@ Autres signes cliniques et symptômes de la maladie de Lyme:
 
 La neuroborréliose est présente dans 6,5 à 15% des borrélioses de Lyme. Elle survient dans la phase disséminée précoce (< 6 mois, +90% des cas).
 
-Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose
-{.alert .alert-info}
+> [!INFO]
+> Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose.
 
 Atteintes neurologiques évocatrices:
 

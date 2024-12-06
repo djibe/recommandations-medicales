@@ -92,8 +92,8 @@ HSV-2
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!INFO]
 > << Il persiste un haut risque de contagiosité jusqu'à cicatrisation des lésions. >>  -- *SFD 2016*
-{.alert .alert-info}
 
 ### Interrogatoire
 
@@ -144,8 +144,8 @@ Les **récurrences** d'herpès génital atteignent 20 à 50% des sujets:
 
 Le tableau peut être fruste: érosions discrètes, fissures, œdème localisé d'une lèvre.
 
-Penser à un herpès génital devant toute cytolyse inexpliquée pendant la grossesse. -- *CNGOF 2017*
-{.alert .alert-info}
+> [!INFO]
+> Penser à un herpès génital devant toute cytolyse inexpliquée pendant la grossesse. (*CNGOF 2017*)
 
 ### Autres atteintes herpétiques possibles
 
@@ -189,7 +189,7 @@ Les indications au bilan pour diagnostic de certitude de l'herpès sont limitée
 
 > << La présence d'anticorps anti HSV-2 indique un herpès génital mais la présence d'anticorps anti-HSV-1 ne permet pas de distinguer un herpès génital d'un herpès oral. >> -- *SFD*
 
-> Une culture ou une PCR négative n'infirme pas le diagnostic.
+Une culture ou une PCR négative n'infirme pas le diagnostic.
 {.alert .alert-info}
 
 {{% /collapse %}}

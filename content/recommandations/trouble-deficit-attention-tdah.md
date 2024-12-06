@@ -120,9 +120,9 @@ L'ordre d'apparition des troubles est important pour déterminer un diagnostic d
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> Le diagnostic est posé par un spécialiste de la maladie (pédiatre, psychiatre, neurologue ou formation dédiée) est possible à tout âge, même en présence de comorbidités psychiatriques (*HAS*, *WFADHD*).
+> [!INFO]
+> Le diagnostic de TDAH est posé par un spécialiste de la maladie (pédiatre, psychiatre, neurologue ou formation dédiée) à tout âge, même en présence de comorbidités psychiatriques (*HAS*, *WFADHD*).
 > << Il est recommandé de poser le diagnostic conformément aux critères diagnostiques cliniques définis dans la CIM-11 ou le DSM-5-TR (similaire à la CIM-11 sur ce point) >>. -- *HAS 2024*
-{.alert .alert-info}
 
 ### Interrogatoire
 
@@ -211,8 +211,8 @@ L'évaluation est poursuivie par un spécialiste du trouble (pédopsychiatre, ps
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+> [!INFO]
 > << Il n'existe pas d'examen complémentaire ou de biomarqueur pouvant confirmer le diagnostic de TDAH >>. -- *HAS 2024*
-{.alert .alert-info}
 
 ### Bilan biologique
 

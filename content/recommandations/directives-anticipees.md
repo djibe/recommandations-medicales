@@ -38,7 +38,7 @@ La personne de confiance, les proches et le médecin traitant devraient être mi
 
 En cas d'hospitalisation, un double peut être déposé dans le dossier médical.
 
-> Intérêt de déposer les directives anticipées complétées sur [MonEspaceSanté](https://www.monespacesante.fr) pour garantir l'accès éventuel à tous les médecins concernés.
+Intérêt de déposer les directives anticipées complétées sur [MonEspaceSanté](https://www.monespacesante.fr) pour garantir l'accès éventuel à tous les médecins concernés.
 {.alert .alert-info}
 
 {{%sources%}}

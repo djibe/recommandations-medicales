@@ -117,7 +117,7 @@ Recommandations pour la prise en charge du phimosis:
 - **Jamais de manœuvres de rétractions forcées quelle que soit l'étiologie du phimosis**
 - Pas de traitement médical/chirurgical du phimosis avant 7-8 ans
 
-Le traitement chirurgical s'adresse aux échecs du traitement médical et du phimosis acquis très scléreux
+Le traitement chirurgical s'adresse aux échecs du traitement médical et du phimosis acquis très scléreux.
 {.alert .alert-info}
 
 ### Traitement médical du phimosis

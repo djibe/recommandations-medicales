@@ -54,8 +54,8 @@ CNGOF
 {{% /collapse %}}
 {{%collapse "Allaitement maternel" %}}
 
+> [!INFO]
 > << L'allaitement maternel exclusif permet un développement optimal du nourrisson jusqu'à 6 mois. >> -- *Anaes*. L'allaitement n'est pas compromis si le bébé ne tète pas immédiatement à la naissance.
-{.alert .alert-info}
 
 Un allaitement maternel à la demande exclusif et prolongé 4 à 6 mois est recommandé. La proximité de la mère et de l'enfant 24 heures sur 24 favorise l'allaitement à la demande.
 
@@ -124,8 +124,8 @@ Elle peut s'absenter pour allaiter (30 minutes le matin puis 30 minutes l'après
 {{% /collapse %}}
 {{%collapse "Inhibition de la lactation" %}}
 
-Aucune mesure non médicamenteuse n'a prouvé son efficacité pour interrompre l'allaitement.
-{.alert .alert-info}
+> [!INFO]
+> Aucune mesure non médicamenteuse n'a prouvé son efficacité pour interrompre l'allaitement.
 
 Éléments à savoir sur l'inhibition de la lactation:
 

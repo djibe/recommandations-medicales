@@ -28,7 +28,7 @@ todo = "flow"
 - La prise en charge de la pancréatite aiguë comprend initialement une hospitalisation pour surveillance, l'évolution étant imprévisible et les complications fréquentes
 - En cas de pancréatite aiguë idiopathique après 40 ans, dépister un [cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) par scanner abdominal et cholangiopancréatographie par IRM (*INCa*)
 
-Chapitres liés: [hypercalcémie]({{< relref "hypercalcemie.md" >}}), [mésusage de l'alcool]({{< relref "sevrage-alcool.md" >}})
+Chapitres liés: [pancréatite chronique]({{< relref "pancreatite-chronique.md" >}}), [hypercalcémie]({{< relref "hypercalcemie.md" >}}), [mésusage de l'alcool]({{< relref "sevrage-alcool.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

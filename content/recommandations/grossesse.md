@@ -63,8 +63,8 @@ Chapitres dédiés:
 {{%/article-summary%}}
 {{%collapse "La maternité en France"%}}
 
-Rechercher une grossesse avant **32 ans** pour avoir 90% de chance d'obtenir 2 enfants (27 ans sans AMP) ou avant 35 ans pour un enfant (32 ans sans AMP). -- *[Habbema et al 2015](https://pubmed.ncbi.nlm.nih.gov/26185187/)*
-{.alert .alert-info}
+> [!INFO]
+> Rechercher une grossesse avant **32 ans** pour avoir 90% de chance d'obtenir 2 enfants (27 ans sans AMP) ou avant 35 ans pour un enfant (32 ans sans AMP). -- *[Habbema et al 2015](https://pubmed.ncbi.nlm.nih.gov/26185187/)*
 
 > 678.000 naissances en France 2023 (-6,6 % sur 1 an), soit **1,64** enfant par femme.
 {.lead .my-3}

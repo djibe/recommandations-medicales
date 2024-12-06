@@ -66,8 +66,8 @@ Mesures sanitaires pour la cuisson des produits destinés aux jeunes enfants (< 
 - Jamais de cru (tartare, carpaccio, lait sauf pâte pressée)
 - Poissons, viandes et steak hachés bien cuits à cœur
 
+> [!INFO]
 > La cuisson à cœur de tout type de viande à tous les âges est recommandée.
-{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Conservation des aliments" %}}

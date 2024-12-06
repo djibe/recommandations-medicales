@@ -49,8 +49,8 @@ OU ≥ 3 cas de la même branche (quel que soit le degré de parenté et l'âge 
 - [Diabète de type 2]({{< relref "diabete-type-2.md" >}}) ancien (x 1,5-3)
 - [Tabac]({{< relref "arret-tabac.md" >}})
 - [Obésité]({{< relref "obesite-adulte.md" >}}) (+45 % d'incidence quand IMC > 35)
-- Pancréatite chronique
-- Mutation BRCA1 et BRCA1
+- [Pancréatite chronique]({{< relref "pancreatite-chronique.md" >}})
+- Mutation BRCA1 et BRCA2
 - Néoplasie endocrinienne multiple type 1 (NEM1) et autres mutations
 - Syndrome de Lynch
 
@@ -103,19 +103,19 @@ TVP
 {{% /collapse %}}
 {{%collapse "Dépistage du cancer du pancréas" %}}
 
-Le marqueur tumoral CA 19-9 n'a aucun intérêt pour le dépistage de l'adénocarcinome du pancréas
-{.alert .alert-info}
+> [!INFO]
+> Le marqueur tumoral CA 19-9 n'a aucun intérêt pour le dépistage de l'adénocarcinome du pancréas.
 
 Pour toute la population: correction de [tabagisme]({{< relref "arret-tabac.md" >}}), [obésité]({{< relref "obesite-adulte.md" >}}) et [diabète]({{< relref "diabete-type-2.md" >}}).
 
 ### Chez qui dépister le cancer du pancréas ?
 
-Adresser en consultation d'oncogénétique devant une suspicion de cancers familiaux
+Adresser en consultation d'oncogénétique devant une suspicion de cancers familiaux.
 {.alert .alert-info}
 
 Le dépistage du cancer du pancréas est réalisé par échoendoscopie couplée à l'IRM abdominale:
 
-- Pancréatite chronique
+- [Pancréatite chronique]({{< relref "pancreatite-chronique.md" >}})
   - diagnostic précoce: survenue ou résurgence de douleurs pancréatiques chroniques, [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}), amaigrissement > 10%, majoration de l'insuffisance exocrine, cholestase d'apparition récente ou ictère
   - génétique (mutation PRSS1)
   - idiopathique ou génétique (SPINK1, CTRC ou CFTR) avec imagerie pancréatique anormale

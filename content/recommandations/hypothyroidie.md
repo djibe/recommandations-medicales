@@ -37,8 +37,8 @@ Chapitre lié: [hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md" >}})
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Ne pas dépister systématiquement l'hypothyroïdie en population générale.
-{.alert .alert-info}
+> [!INFO]
+> Ne pas dépister systématiquement l'hypothyroïdie en population générale.
 
 Hypothyroïdie
 : Dysfonctionnement thyroïdien le plus fréquent consistant en une sécrétion insuffisante d'hormones thyroïdiennes; le plus souvent par altération de la glande mais parfois par atteinte centrale hypothalamo-hypophysaire.
@@ -192,8 +192,8 @@ En première intention: **TSH diagnostique** (à tout moment de la journée) et 
 
 **NB.** Préciser sur l'ordonnance la situation: diagnostic, contrôle ou suivi sous traitement.
 
+> [!INFO]
 > << Le dosage de la T3L n'a pas d'utilité >>. -- *HAS 2022*; également vrai pour les autres anticorps antithyroïdiens (sauf anti-thyroglobuline en cas de forte suspicion auto-immune avec anti-TPO négatifs).
-{.alert .alert-info}
 
 #### Interpréter les résultats de TSH et T4L
 

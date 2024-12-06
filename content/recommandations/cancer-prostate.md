@@ -47,8 +47,8 @@ Cancer de la prostate héréditaire
 
 ### Facteurs de risque de cancer de la prostate
 
-> Aucun moyen préventif alimentaire ou pharmacologique du cancer de la prostate n'a été identifié (*EAU 2024*)
-{.alert .alert-info}
+> [!INFO]
+> Aucun moyen préventif alimentaire ou pharmacologique du cancer de la prostate n'a été identifié. -- *EAU 2024*
 
 - Principal facteur de risque: âge +50 ans
 - Forme héréditaire (voir plus haut)
@@ -246,7 +246,7 @@ Plusieurs stratégies thérapeutiques sont disponibles pour la prise en charge d
 
 Toutes les techniques nécessitent un suivi spécialisé prolongé avec toucher rectal et dosages réguliers du PSA: tous les 6 mois pendant 3 à 5 ans puis annuel.
 
-> Après prostatectomie totale, la cible du PSA est < 0,2 ng/mL à 6 semaines.
+Après prostatectomie totale, la cible du PSA est < 0,2 ng/mL à 6 semaines.
 {.alert .alert-info}
 
 Mesures associées aux cancers:
@@ -279,7 +279,7 @@ Complications fréquentes survenant dans les suites d'une prostatectomie (PT) ra
 - Incontinence urinaire chronique (20%)
 - [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) (2/3)
 
-[Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 102](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%20102): exposition aux pesticides ≥ 10 ans
+[Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 102](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%20102): exposition aux pesticides ≥ 10 ans.
 {.alert .alert-info}
 
 {{% /collapse %}}

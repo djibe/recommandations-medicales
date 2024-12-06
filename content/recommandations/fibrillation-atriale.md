@@ -306,7 +306,7 @@ Indications aux AVK: systématique si FA (quel que soit le type) avec **valve m�
 - AVK avec temps dans la cible ≥ 70%
 - Si temps dans la cible non atteint: AOD et observance ++ ou éducation et renforcement des INR
 
-Aspirine 75-300 mg/j si refus d'anticoagulation, mais inefficace pour la prévention des AVC
+Aspirine 75-300 mg/j si refus d'anticoagulation, mais inefficace pour la prévention des AVC.
 {.alert .alert-info}
 
 {{% /collapse %}}

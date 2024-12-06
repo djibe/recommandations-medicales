@@ -146,8 +146,8 @@ Le chancre est souvent accompagné d'une adénopathie régionale (inguinale) qui
 
 Phase d'invasion du liquide cérébro-spinal sans atteinte parenchymateuse.
 
-Évoquer un chancre devant toute ulcération génitale
-{.alert .alert-info}
+> [!INFO]
+> Évoquer un chancre devant toute ulcération génitale.
 
 ### Syphilis secondaire
 
@@ -167,8 +167,8 @@ Le prurit est rare et les atteintes muqueuses fréquentes (ex rectite). Une [hyp
 **Toutes les lésions élémentaires dermatologiques sont possibles au cours de la syphilis, sauf vésicules et bulles.**  
 Ex: dépilation des sourcils, lésions d'aspect séborrhéiques des sillons naso-géniens, papules acnéiformes du menton, [alopécie]({{< relref "alopecie.md" >}}) en petite plaques.
 
-Les lésions de syphilis secondaire sont contagieuses si excoriées
-{.alert .alert-info}
+> [!INFO]
+> Les lésions de syphilis secondaire sont contagieuses si excoriées.
 
 #### Autres signes de syphilis
 
@@ -260,7 +260,7 @@ Prise en charge d'une syphilis précoce (syphilis primaire ou secondaire):
   - Secondaire: dépistage des partenaires des **2 dernières années**
 
 Affirmer la guérison est impossible, nécessité de surveiller les patients pendant plusieurs années.  
-Répéter le suivi sérologique dans les populations à risque (contaminées ou non)
+Répéter le suivi sérologique dans les populations à risque (contaminées ou non).
 {.alert .alert-info}
 
 #### Situations particulières pour le traitement de la syphilis
@@ -338,8 +338,8 @@ J1 du traitement, à renouveler à 1 mois, 3 mois puis tous les 6 mois
 
 **NB.** La décroissance du VDRL dans la syphilis latente précoce (ou en cas de recontamination) n'est pas franche pour 1/4 des patients.
 
+> [!INFO]
 > La négativation du VDRL est considérée comme le meilleur critère de guérison.
-{.alert .alert-info}
 
 Le TPHA ne se négative que rarement sauf chez le patient *VIH+*. Il n'est pas utilisé dans la surveillance.
 

@@ -122,8 +122,8 @@ Autres étiologies de toux aiguë:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-L'apparition brutale d'une toux fébrile de novembre à février (durant la phase épidémique ou après exposition) est une grippe jusqu'à preuve du contraire
-{.alert .alert-info}
+> [!INFO]
+> L'apparition brutale d'une toux fébrile de novembre à février (durant la phase épidémique ou après exposition) est une grippe jusqu'à preuve du contraire.
 
 Signes et symptômes de la grippe:
 
@@ -146,7 +146,7 @@ Signes et symptômes de la grippe:
 {{% /collapse %}}
 {{%collapse "Vaccins disponibles pour la campagne de vaccination 2023-2024" %}}
 
-Vaccination annuelle en octobre pour les personnes à risque de grippe grave (Bon de prise en charge à 100% Cerfa n°610e sur *Ameli pro*)
+Vaccination annuelle en octobre pour les personnes à risque de grippe grave (Bon de prise en charge à 100% Cerfa n°610e sur *Ameli pro*).
 {.alert .alert-info}
 
 Vaccins contre la grippe disponibles en France pour la campagne vaccinale pour les adultes et les enfants:

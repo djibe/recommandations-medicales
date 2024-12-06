@@ -96,8 +96,8 @@ TROD
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-L'aspect de l'oropharynx n'est pas prédictif de l'angine à SGA (*Collège*)
-{.alert .alert-info}
+> [!INFO]
+> L'aspect de l'oropharynx n'est pas prédictif de l'angine à SGA. -- *Collège*
 
 Signes et symptômes de l'angine érythémateuse ou érythématopultacée:
 
@@ -126,7 +126,7 @@ Autres formes cliniques d'angine:
   - Caractère traînant, rebelle: éliminer agranulocytose, hémopathie/cancer par une NFS
   - [Chancre syphilitique]({{< relref "syphilis.md" >}})
 
-Pour mieux visualiser les amygdales, demander à l'enfant de rugir comme un lion ou de bailler la bouche ouverte (*Pr Douglas Paauw*)
+Pour mieux visualiser les amygdales, demander à l'enfant de rugir comme un lion ou de bailler la bouche ouverte. (*Pr Douglas Paauw*)
 {.alert .alert-info}
 
 {{% /collapse %}}

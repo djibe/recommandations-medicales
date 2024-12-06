@@ -97,7 +97,7 @@ Rechercher à l'examen les arguments en faveur des causes suivantes de diarrhée
 - Ischémie mésentérique
 - [Lymphome]({{< relref "lymphomes-non-hodgkiniens.md" >}})
 - Complication post-opératoire
-- Pancréatite chronique
+- [Pancréatite chronique]({{< relref "pancreatite-chronique.md" >}})
 - Entérocolite radique
 - [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}})
 - [Hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})

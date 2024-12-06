@@ -163,8 +163,8 @@ Prévention de la diarrhée et de la gastroentérite du nourrisson:
 - [Vaccination rotavirus du nourrisson]({{< relref "examens-suivi-nourrisson.md" >}})  
   Rotarix à M2M3 ou RotaTeq à M2M3M4 et information sur les signes d'invagination intestinale aiguë (IIA).
 
+> [!INFO]
 > Près de 90% des hospitalisations pour Rotavirus peuvent être prévenues par la vaccination. -- *GFHGNP 2024*
-{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Critères d'hospitalisation" %}}
@@ -186,8 +186,8 @@ Critères d'hospitalisation pour diarrhée aiguë et gastro-entérite. Hospitali
 {{% /collapse %}}
 {{%collapse "Traitement de la diarrhée aiguë" %}}
 
+> [!INFO]
 > << (...) l'intérêt du Racécadotril a été considéré comme « limité » dans une Cochrane publiée en 2019 et n'est donc plus recommandé en routine. >> et << En ambulatoire, aucun anti-émétique ne peut être utilisé. >> -- *GFHGNP 2024*
-{.alert .alert-info}
 
 La prise en charge de la diarrhée aiguë du nourrisson et de l'enfant repose quasi exclusivement sur la réhydratation:
 
@@ -213,8 +213,8 @@ Médicaments proscrits chez l'enfant: cola et sodas très sucrés, eau pure, ant
 
 ### Alternatives en cas de pénuries de soluté de réhydratation orale
 
+> [!INFO]
 > << La SRO bien utilisée est capable de traiter une déshydratation même sévère et de corriger les troubles électrolytiques. >> -- *PAP Pédiatrie*
-{.alert .alert-info}
 
 En cas de pénurie de soluté de réhydratation orale (SRO):
 

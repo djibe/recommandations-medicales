@@ -78,7 +78,7 @@ Les causes d'ictère sont nombreuses et classées selon qu'elles sont à bilirub
 
 - Ictère par cholestase: augmentation des PAL, [GGT]({{< relref "augmentation-gamma-gt.md" >}}) et de la bilirubine conjuguée
   - Pathologie des canaux biliaires: [cholangite sclérosante primitive]({{< relref "cholangite-sclerosante-primitive.md" >}})
-  - **Obstruction des canaux biliaires** surtout: [cancer du pancréas]({{< relref "cancer-pancreas.md" >}}), cholangiocarcinome et lithiase de la voie biliaire principale. Autres causes: sténose post-opératoire, pancréatite chronique calcifiante, adénopathie ou [cholangite sclérosante primitive]({{< relref "cholangite-sclerosante-primitive.md" >}})
+  - **Obstruction des canaux biliaires** surtout: [cancer du pancréas]({{< relref "cancer-pancreas.md" >}}), cholangiocarcinome et lithiase de la voie biliaire principale. Autres causes: sténose post-opératoire, [pancréatite chronique]({{< relref "pancreatite-chronique.md" >}}) calcifiante, adénopathie ou [cholangite sclérosante primitive]({{< relref "cholangite-sclerosante-primitive.md" >}})
   - Pathologie des canalicules biliaires: médicamenteuse, auto-immune ([cholangite biliaire primitive]({{< relref "cholangite-biliaire-primitive.md" >}})), virale, génétique
 - Ictère à bilirubine mixte  
   Augmentation des PAL < 2N: [hépatite aiguë](/tags/hepatite/), insuffisance hépatocellulaire grave, cirrhose.

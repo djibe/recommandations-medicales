@@ -66,8 +66,8 @@ Rechercher d'autres anomalies génitales associées:
 - Hypospadias
 - Autres anomalies: ligne médiane, cardiaque, rénale
 
-La palpation de la bourse est plus facile chez le garçon assis en tailleur.
-{.alert .alert-info}
+> [!INFO]
+> La palpation de la bourse est plus facile chez le garçon assis en tailleur.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

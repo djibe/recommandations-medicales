@@ -98,8 +98,8 @@ TCA
 
 ### Interrogatoire
 
-Un interrogatoire complet permet un diagnostic fiable de rhinite allergique (*SFORL 2020*)
-{.alert .alert-info}
+> [!INFO]
+> Un interrogatoire complet permet un diagnostic fiable de rhinite allergique. (*SFORL 2020*)
 
 - Terrain [atopique](/tags/atopie/)  
   Conjonctivite allergique, [asthme]({{< relref "asthme.md" >}}) ( associé pour 19-38 %), [dermatite atopique]({{< relref "dermatite-atopique.md" >}}).
@@ -140,8 +140,8 @@ Un interrogatoire complet permet un diagnostic fiable de rhinite allergique (*SF
   - Symptôme isolé (ex. obstruction nasale isolée ...)
   - Symptômes unilatéraux
 
+> [!INFO]
 > << La sévérité des symptômes est généralement sous-estimée par les médecins >>. -- *SFORL*
-{.alert .alert-info}
 
 {{< card-link-external title="Carte du Risque d'Allergie aux Pollens" url="https://www.pollens.fr" subtitle="pollens.fr">}}
 
@@ -157,9 +157,9 @@ Un interrogatoire complet permet un diagnostic fiable de rhinite allergique (*SF
 
 ### Les tests cutanés allergéniques ou Prick tests
 
+> [!INFO]
 > << Les tests cutanés allergéniques (TCA) ou prick tests doivent être réalisés en 1^re^ intention dans tout bilan étiologique de rhinite présumée allergique. >> -- *SFORL*
 > << Les tests cutanés (...) lors d'une rhinite allergique **saisonnière** sont le plus souvent inutiles >>. -- *Prescrire*
-{.alert .alert-info}
 
 Adresser à l'ORL ou l'allergologue pour la réalisation des tests cutanés allergéniques (Se 85%, Spe 77%).
 

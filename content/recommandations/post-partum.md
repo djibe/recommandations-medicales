@@ -70,7 +70,7 @@ SAPL
 {{% /collapse %}}
 {{%collapse "Prévention des thromboses après césarienne" %}}
 
-Bas de contention systématiques pendant 7 à 14 jours et mobilisation post-opératoire précoce
+Bas de contention systématiques pendant 7 à 14 jours et mobilisation post-opératoire précoce.
 {.alert .alert-info}
 
 Le risque élevé de complication thromboembolique après césarienne nécessite des mesures de prévention systématiques: port de bas de contention voire thromboprophylaxie.

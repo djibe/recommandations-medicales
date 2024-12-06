@@ -268,7 +268,7 @@ L'ECG dépiste une coronaropathie ou un trouble du rythme associé.
 
 **Objectif de la prise en charge de l'artériopathie:** obtenir une amélioration du périmètre de marche et restaurer une qualité de vie.
 
-Prise en charge de l'artériopathie (AOMI): Suivi cardiologique spécialisé, traitement systématique par statine et IEC, sevrage tabagique et mesures d'hygiène
+Prise en charge de l'artériopathie (AOMI): Suivi cardiologique spécialisé, traitement systématique par statine et IEC, sevrage tabagique et mesures d'hygiène.
 {.alert .alert-info}
 
 - Réadaptation vasculaire en centre voire par kinésithérapeute

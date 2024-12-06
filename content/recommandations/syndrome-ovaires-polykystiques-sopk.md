@@ -53,8 +53,8 @@ Cycles menstruels irréguliers
     - Aménorrhée primaire à 15 ans ou > 3 ans post-thélarche (apparition des seins)
 : **Devant des cycles irréguliers, le diagnostic de SOPK doit être évoqué**.
 
-Des cycles réguliers n'éliminent pas une dysfonction ovulatoire.
-{.alert .alert-info}
+> [!INFO]
+> Des cycles réguliers n'éliminent pas une dysfonction ovulatoire.
 
 Aménorrhée primaire
 : Absence de menstruations à 15 ans ou plus de 3 ans après la thélarche (apparition des seins).
@@ -190,8 +190,8 @@ L'échographie abdomino-pelvienne est **systématique chez la femme ménopausée
 
 L'échographie permet également d'éliminer une tumeur surrénale.
 
+> [!INFO]
 > L'échographie pelvienne est inutile chez l'adolescente (ovaires multi-folliculaires fréquents durant les **8 ans post-ménarche**).
-{.alert .alert-info}
 
 ### Perméabilité tubaire
 

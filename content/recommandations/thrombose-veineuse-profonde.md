@@ -106,7 +106,7 @@ Recours d'emblée à l'écho-doppler veineux si les D-dimères ne sont pas réal
 
 #### Interpréter les résultats de D-dimères
 
-Après 50 ans, la borne des D-dimères est à 10x l'âge {{%class%}}(ex. 700 à 70 ans, < 500 ng/mL avant 50 ans){{%/class%}}
+Après 50 ans, la borne des D-dimères est à 10x l'âge (ex. 700 à 70 ans, < 500 ng/mL avant 50 ans).
 {.alert .alert-info}
 
 - D-dimères normaux

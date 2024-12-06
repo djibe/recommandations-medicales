@@ -22,8 +22,9 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Ces recommandations pour la prise en charge de l'hyponatrémie concernent l'adulte
-- Une hyponatrémie est une natrémie inférieure à 135 mmol/L. C'est un trouble du bilan de l'eau
+Ces recommandations concernent la prise en charge d'une hyponatrémie de l'adulte.
+
+- L'hyponatrémie est une natrémie inférieure à 135 mmol/L. C'est un trouble du bilan de l'eau
 - Rechercher des signes de gravité: Na < 125 mmol/L, installation en -48h, vomissements, défaillance hémodynamique, somnolence, convulsions
 - Les causes les plus fréquentes d'hyponatrémie sont: iatrogène surtout (diurétique **thiazidique**, antidépresseurs dont IRS, antipsychotiques, anti-épileptiques), insuffisance surrénale ou cancer
 - Rechercher une hyponatrémie en cas de: nausées, céphalées, chutes, troubles cognitifs, somnolence, potomanie
@@ -96,7 +97,7 @@ Situations où une hyponatrémie nécessite une prise en charge urgente:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Peu de relation entre la symptomatologie et la profondeur de l'hyponatrémie
+Peu de relation entre la symptomatologie et la profondeur de l'hyponatrémie.
 {.alert .alert-info}
 
 ### Interrogatoire
@@ -175,8 +176,8 @@ Le calcul de la natrémie corrigée est nécessaire en cas d'hyperglycémie:
 La découverte d'une hyponatrémie inférieure à 125 mmol/L est une urgence. Avis spécialisé urgent de 125-129 mmol/L ou en cas de symptômes.
 {.alert .alert-warning}
 
-L'apport de sel n'améliore pas l'hyponatrémie qui est un trouble du bilan de l'eau.
-{.alert .alert-info}
+> [!INFO]
+> L'apport de sel n'améliore pas l'hyponatrémie qui est un trouble du bilan de l'eau.
 
 La prise en charge de l'hyponatrémie est étiologique (pathologie ou médicament en cause) et le traitement symptomatique consiste en une **restriction hydrique** (500-750 mL/j).
 

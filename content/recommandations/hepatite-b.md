@@ -136,8 +136,8 @@ Ajouter VHC si conduites à risque (sexe, drogues), VHE en cas de séjour tropic
 {{% /collapse %}}
 {{%collapse "Dépister l'hépatite B" %}}
 
-> Le dépistage VHB - VHC - VIH doit être combiné (*HAS, AFEF*)
-{.alert .alert-info}
+> [!INFO]
+> Le dépistage VHB - VHC - VIH doit être combiné. (*HAS, AFEF*)
 
 Indications au dépistage de l'hépatite B:
 
@@ -241,8 +241,8 @@ Si prématuré < 32 semaines ou poids < 2 kg: schéma 4 doses à J0-M1-M2-M6 ave
 
 Une seule contre-indication: hypersensibilité à la substance ou ses composants.
 
+> [!INFO]
 > << Les vaccins de manière générale ne sont pas associés à un risque accru de survenue d'une sclérose en plaques >>. -- *[SFSEP 2024](https://sfsep.org/wp-content/uploads/2019/01/Presentation-Vaccinations-et-SEP-revision_Avril_2024.pdf)*
-{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Découverte d'une hépatite B active" %}}

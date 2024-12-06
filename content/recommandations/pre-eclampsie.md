@@ -159,7 +159,7 @@ Pré-éclampsie avec au moins un critère de sévérité parmi:
 
 ### Examen clinique
 
-> Pendant la grossesse, mesure manuelle de la pression artérielle [selon les recommandations]({{< relref "hypertension-arterielle.md" >}}) ou par [tensiomètre électronique validé pour la grossesse]({{< relref "tensiometres-electroniques-valides.md" >}}) (*ESH 2023*) **à chaque consultation** avec la bandelette urinaire
+Pendant la grossesse, mesure manuelle de la pression artérielle [selon les recommandations]({{< relref "hypertension-arterielle.md" >}}) ou par [tensiomètre électronique validé pour la grossesse]({{< relref "tensiometres-electroniques-valides.md" >}}) (*ESH 2023*) **à chaque consultation** avec la bandelette urinaire.
 {.alert .alert-info}
 
 - Mesure de la pression artérielle à chaque consultation pendant la grossesse, fréquence cardiaque
@@ -178,8 +178,8 @@ Pré-éclampsie avec au moins un critère de sévérité parmi:
 {{% /collapse %}}
 {{%collapse "Prévention de la pré-éclampsie" %}}
 
-> Contrôle de la pression artérielle à chaque consultation de grossesse, couplée à la bandelette urinaire
-{.alert .alert-info}
+> [!INFO]
+> Contrôle de la pression artérielle à chaque consultation de grossesse, couplée à la bandelette urinaire.
 
 La prévention de la pré-éclampsie par **aspirine faible dose** de 12 à 35 semaines d'aménorrhée (SA) est indiquée en cas d'antécédent de prééclampsie (81 mg/j selon *USPTF*).
 

@@ -109,8 +109,8 @@ Mesures de prévention de la plagiocéphalie positionnelle:
 {{% /collapse %}}
 {{%collapse "Traitement de la plagiocéphalie" %}}
 
-> << Le couchage à plat sur le dos strict pour le sommeil est recommandé pour prévenir la mort inattendue du nourrisson >> -- *HAS 2020*
-{.alert .alert-info}
+> [!INFO]
+> << Le couchage à plat sur le dos strict pour le sommeil est recommandé pour prévenir la mort inattendue du nourrisson >>. -- *HAS 2020*
 
 Autres facteurs de **mort inattendue du nourrisson** (MIN): cale-bébé, cale-tête, coussin de positionnement, réducteur de lit, tour de lit. Ni doudous, peluches, couettes ou couvertures.
 

@@ -79,8 +79,8 @@ SPILF
 {{% /collapse %}}
 {{%collapse "Traitement de l'impétigo" %}}
 
+> [!INFO]
 > Toutes les infections bactériennes cutanées nécessitent un lavage quotidien à l'eau et au savon (= << soins quotidiens >> dans l'article).
-{.alert .alert-info}
 
 ### Prise en charge de l'impétigo
 
@@ -115,8 +115,8 @@ Prise en charge de l'impétigo grave:
 {{% /collapse %}}
 {{%collapse "Traitement de la folliculite et du furoncle" %}}
 
+> [!INFO]
 > Toutes les infections bactériennes cutanées nécessitent un lavage quotidien à l'eau et au savon (= << soins quotidiens >> dans l'article).
-{.alert .alert-info}
 
 Prise en charge de la folliculite superficielle:
 

@@ -72,7 +72,7 @@ BAD
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Adresser toute suspicion de vitiligo au dermatologue pour le diagnostic clinique de certitude à la lampe de Wood et la prise en charge
+Adresser toute suspicion de vitiligo au dermatologue pour le diagnostic clinique de certitude à la lampe de Wood et la prise en charge.
 {.alert .alert-info}
 
 Le diagnostic de vitiligo est clinique avec à la lampe de Wood une dépigmentation totale des zones achromiques:

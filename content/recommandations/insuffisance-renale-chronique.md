@@ -38,7 +38,7 @@ todo = "Albuminurie perturbée, aliments riches K/P (HAS2023p71), désindexation
 {{%/article-summary%}}
 {{%collapse "Définitions"%}}
 
-Les stades de l'insuffisance rénale et de l'albuminurie sont dans la section suivante *Clinique*
+Les stades de l'insuffisance rénale et de l'albuminurie sont dans la section suivante *Clinique*.
 {.alert .alert-info}
 
 Maladie rénale chronique (MRC)
@@ -56,7 +56,7 @@ Diminution du *débit de filtration glomérulaire estimé* (DFGe) < 60 mL/min/1,
 Insuffisance rénale chronique terminale (IRCT)
 : Insuffisance rénale chronique avec un débit de filtration glomérulaire < 15 mL/min/1,73 m² (*stade 5* ou *terminale*).
 
-Pour le stade de la maladie rénale chronique et l'albuminurie, voir *Clinique*
+Pour le stade de la maladie rénale chronique et l'albuminurie, voir *Clinique*.
 {.alert .alert-info}
 
 ### Abréviations
@@ -129,8 +129,8 @@ Population à risque de maladie rénale chronique, définie par la présence d'a
 - Exposition professionnelle  
   [Plomb]({{< relref "saturnisme.md" >}}), cadmium, mercure.
 
-Le dépistage des populations à risque doit être **annuel** (ou selon l'avis du néphrologue en cas d'antécédents familiaux).
-{.alert .alert-info}
+> [!INFO]
+> Le dépistage des populations à risque doit être **annuel** (ou selon l'avis du néphrologue en cas d'antécédents familiaux).
 
 ### Comment dépister la maladie rénale chronique ?
 

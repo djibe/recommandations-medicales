@@ -104,7 +104,7 @@ Critères d'adressage rapide au gastro-entérologue:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic de syndrome de l'intestin irritable est clinico-biologique: syndrome évocateur (douleurs abdominales chroniques, ballonnements et troubles du transit) avec examens de première intention normaux en l'absence de signes d'alarme
+Le diagnostic de syndrome de l'intestin irritable est clinico-biologique: syndrome évocateur (douleurs abdominales chroniques, ballonnements et troubles du transit) avec examens de première intention normaux en l'absence de signes d'alarme.
 {.alert .alert-info}
 
 ### Interrogatoire

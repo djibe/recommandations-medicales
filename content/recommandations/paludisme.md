@@ -186,8 +186,8 @@ Le tableau d'anémie hémolytique (splénomégalie) s'aggrave progressivement.
 {{% /collapse %}}
 {{%collapse "Indication à la prophylaxie palustre selon le pays de destination" %}}
 
-> Les séjours en zones d'endémie palustre sont déconseillés durant la grossesse (*CRAT*) - et chez les enfants ne pouvant prendre de prophylaxie (*HCSP*)
-{.alert .alert-info}
+> [!INFO]
+> Les séjours en zones d'endémie palustre sont déconseillés durant la grossesse (*CRAT*) et chez les enfants ne pouvant prendre de prophylaxie (*HCSP*).
 
 Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité d'un traitement préventif contre le paludisme.
 
@@ -258,7 +258,7 @@ Les mesures de protection contre les piqûres d'insectes sont toujours associée
 
 ### Les vaccins contre le paludisme
 
-Deux vaccins contre le paludisme existent (RTS,S et R21/Matrix-M), recommandés par l'OMS pour les enfants résidant en zone de moyenne et haute endémicité
+Deux vaccins contre le paludisme existent (RTS,S et R21/Matrix-M), recommandés par l'OMS pour les enfants résidant en zone de moyenne et haute endémicité.
 {.alert .alert-info}
 
 ### Atovaquone-proguanil

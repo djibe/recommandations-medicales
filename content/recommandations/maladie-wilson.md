@@ -140,8 +140,8 @@ Bilan complémentaire au diagnostic:
 
 #### Céruloplasmine
 
-Une céruloplasmine normale (0,2 - 0,4 g/L) n'élimine pas le diagnostic.
-{.alert .alert-info}
+> [!INFO]
+> Une céruloplasmine normale (0,2 - 0,4 g/L) n'élimine pas le diagnostic.
 
 Céruloplasmine < 0,14 g/L. Suspicion de maladie de Wilson quand elle est abaissée de 0,14 à 0,19 g/L.
 
@@ -193,8 +193,8 @@ La prise en charge de la maladie de Wilson est pluridisciplinaire (hépatologue,
 
 ### Pour en savoir plus: les traitements spécifiques de la maladie de Wilson
 
-> << Tous les patients doivent avoir un traitement spécifique de la MW qui doit impérativement être pris à vie >> -- *PNDS 2022*
-{.alert .alert-info}
+> [!INFO]
+> << Tous les patients doivent avoir un traitement spécifique de la MW qui doit impérativement être pris à vie >>. -- *PNDS 2022*
 
 Les chélateurs du cuivre et le zinc sont les traitements les plus efficaces de la maladie de Wilson et doivent être poursuivis à vie.
 

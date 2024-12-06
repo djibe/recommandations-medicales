@@ -138,8 +138,8 @@ TA
 
 ### Examen clinique
 
+> [!INFO]
 > << Un examen clinique normal ne permet pas d'éliminer l'existence d'un cancer thyroïdien >>. -- *SFE 2022*
-{.alert .alert-info}
 
 - Poids et variations, taille, IMC
 - Inspection et palpation de la thyroïde  
@@ -216,8 +216,8 @@ La cytoponction d'un nodule autonome avec TSH < 1 mUI/L n'est pas recommandée.
 
 ### La calcitonine
 
-Le dosage de la calcitonine n'est pas systématique devant un nodule thyroïdien
-{.alert .alert-info}
+> [!INFO]
+> Le dosage de la calcitonine n'est pas systématique devant un nodule thyroïdien.
 
 Indications au dosage de la calcitonine:
 
@@ -240,8 +240,8 @@ Une calcitonine comprise entre 10 et 100 pg/mL doit être recontrôlée dans les
 
 Une calcémie est recommandée avant toute chirurgie thyroïdienne.
 
-Le dosage systématique de la thyroglobuline, de la calcémie, calcémie corrigée ou de la PTH n'est pas recommandé
-{.alert .alert-info}
+> [!INFO]
+> Le dosage systématique de la thyroglobuline, de la calcémie, calcémie corrigée ou de la PTH n'est pas recommandé.
 
 {{% /collapse %}}
 {{%collapse "Traitement des nodules thyroïdiens" %}}

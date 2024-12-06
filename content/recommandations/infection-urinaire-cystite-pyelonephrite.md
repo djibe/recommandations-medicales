@@ -54,7 +54,7 @@ Chapitres liés: [infections urinaires chez l'enfant]({{< relref "infection-urin
 
 La bandelette urinaire détecte une leucocyturie (seuil 10^4^ leucocytes/mm³) ou des nitrites signant une entérobactérie.
 
-Devant des signes évocateurs d'infection urinaire (IU) chez l'immunocompétent, une bandelette urinaire normale permet d'éliminer une IU chez la femme (VPN +95%) ou en faveur d'infection urinaire masculine lorsqu'elle est positive (VPP +90%)
+Devant des signes évocateurs d'infection urinaire (IU) chez l'immunocompétent, une bandelette urinaire normale permet d'éliminer une IU chez la femme (VPN +95%) ou en faveur d'infection urinaire masculine lorsqu'elle est positive (VPP +90%).
 {.alert .alert-info}
 
 **NB.** Une BU peut être réalisée en pharmacie en cas de suspicion de cystite simple. La patiente peut être traitée par un pharmacien formé en cas de positivité.
@@ -82,8 +82,8 @@ Un ECBU de contrôle est réalisé uniquement en cas d'évolution défavorable.
 
 #### Seuils de positivité de l'ECBU
 
+> [!INFO]
 > << les seuils sont donnés à titre indicatif; en cas de discordance entre un tableau clinique évident d'infection urinaire et une bactériurie ou leucocyturie inférieure au seuil, c'est le tableau clinique prime >>. -- *HAS, SPILF 2024*
-{.alert .alert-info}
 
 {{< table title="Seuils de bactériurie à l'ECBU selon le germe et le sexe pour le diagnostic d'infection urinaire selon *SPILF 2018*" >}}
 | Bactérie                                                                                              | Seuil femme (≥ UFC/mL) | Seuil homme |
@@ -108,8 +108,8 @@ Rechercher des signes de gravité devant toute infection urinaire avec des signe
 
 ### Facteurs de risque de complication d'une infection urinaire
 
+> [!INFO]
 > << Le diabète, type 1 ou 2, n'est pas un facteur de risque de complication >>. -- *HAS 2021*
-{.alert .alert-info}
 
 {{< clinique/iu-fdr-complication >}}
 
@@ -141,8 +141,8 @@ ECBU uniquement en l'absence d'amélioration à 72 heures, récidive dans les 2 
 **En cas de BU négative**, rechercher un diagnostic différentiel: mycose, urétrite, sécheresse cutanéo-muqueuse.  
 Une BU peut être réalisée en pharmacie avec orientation vers le médecin en cas de positivité.
 
+> [!INFO]
 > En cas de cystite aiguë sur **sonde urinaire**: 3 jours d'antibiothérapie. -- *SPILF 2020*
-{.alert .alert-info}
 
 ### Cystite aiguë à risque de complication
 

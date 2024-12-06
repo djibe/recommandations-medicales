@@ -151,8 +151,8 @@ L'urgence vitale est la **crise aiguë thyrotoxique** survenant après thyroïde
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Le diagnostic d'hyperthyroïdie nécessite l'avis de l'endocrinologue (avec un biologique de moins de 3 mois)
-{.alert .alert-info}
+> [!INFO]
+> Le diagnostic d'hyperthyroïdie nécessite l'avis de l'endocrinologue (avec un biologique de moins de 3 mois).
 
 ### Bilan biologique de l'hyperthyroïdie
 
@@ -175,8 +175,8 @@ Indications au dosage de la TSH:
 
 #### Conduite à tenir devant une TSH basse
 
-Des anticorps anti-récepteur de la TSH (TRAK) positifs lors d'une hyperthyroïdie avérée signent une maladie de Basedow
-{.alert .alert-info}
+> [!INFO]
+> Des anticorps anti-récepteur de la TSH (TRAK) positifs lors d'une hyperthyroïdie avérée signent une maladie de Basedow.
 
 TSH < 0,1 mUI/L, doser la T4L et prise en charge recommandée:
 
@@ -194,7 +194,7 @@ TSH de 0,1 à 0,4 mUI/L: TSH puis T4L ± T3L << en cascade >> à 6 semaines puis
   - T4L normale et T3L augmentée: hyperthyroïdie à T3L
   - T4L et T3L normales: hyperthyroïdie fruste ou autre cause de TSH basse (voir *[chapitre dédié](#prise-en-charge-de-lhyperthyroïdie-fruste-b)*)
 
-Doser la T3L et la T4L en cas de traitement par amiodarone (Cordarone® ou autre)
+Doser la T3L et la T4L en cas de traitement par amiodarone (Cordarone® ou autre).
 {.alert .alert-info}
 
 ##### Autres causes de TSH basse isolée
@@ -294,7 +294,7 @@ Après 65 ans:
 
 Le fort risque de progression des GMNT et AT nécessite aussi un avis spécialisé.
 
-En l'absence de traitement, la prise en charge de l'hyperthyroïdie fruste repose sur la surveillance clinique et biologique:
+En l'absence de traitement, la prise en charge de l'hyperthyroïdie fruste repose sur la surveillance clinique et biologique:  
 **TSH tous les 6-12 mois** ou en cas de modification des symptômes.
 {.alert .alert-info}
 
@@ -304,7 +304,7 @@ En l'absence de traitement, la prise en charge de l'hyperthyroïdie fruste repos
 {{% /collapse %}}
 {{%collapse "Traitement de l'hyperthyroïdie" %}}
 
-La prise en charge de l'hyperthyroïdie relève de l'endocrinologue. Néanmoins, le traitement par antithyroïdiens des synthèse (ATS) est développé ici du fait de l'accès compliqué au spécialiste dans certaines régions
+La prise en charge de l'hyperthyroïdie relève de l'endocrinologue. Néanmoins, le traitement par antithyroïdiens des synthèse (ATS) est développé ici du fait de l'accès compliqué au spécialiste dans certaines régions.
 {.alert .alert-info}
 
 ### Mesures générales
@@ -376,8 +376,8 @@ L'arrêt du traitement est envisageable si:
 - TRAK idéalement négatifs
 - Echo-doppler pour un expert
 
-Facteurs de risque de récidive d'une hyperthyroïdie: goitre volumineux, TRAK élevés, hyperthyroïdie sévère et difficilement contrôlée, tabac
-{.alert .alert-info}
+> [!INFO]
+> Facteurs de risque de récidive d'une hyperthyroïdie: goitre volumineux, TRAK élevés, hyperthyroïdie sévère et difficilement contrôlée, tabac.
 
 **Surveillance rapprochée après l'arrêt des ATS:**
 
@@ -447,8 +447,8 @@ Petit adénome toxique: la thermoablation (radiologie interventionnelle) est pos
 
 Avant chirurgie thyroïdienne, [dosage de la vitamine D et correction d'une carence]({{< relref "vitamine-d.md" >}}).
 
+> [!INFO]
 > << Un projet de grossesse ne doit pas, de façon isolée, conduire à envisager plus rapidement un traitement chirurgical >>. -- *HAS 2022*
-{.alert .alert-info}
 
 #### Indications à la chirurgie de la thyroïde
 

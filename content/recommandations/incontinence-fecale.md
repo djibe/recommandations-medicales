@@ -99,7 +99,7 @@ Les autres bilans relèvent d'une prescription spécialisée (ex: échographie e
 {{% /collapse %}}
 {{%collapse "Traitement de l'incontinence fécale" %}}
 
-La résistance au traitement de première ligne nécessite un avis spécialisé de gastro-entérologie (NDLR)
+La résistance au traitement de première ligne nécessite un avis spécialisé de gastro-entérologie (NDLR).
 {.alert .alert-info}
 
 Prise en charge de première intention d'une incontinence fécale: mesures hygiéno-diététiques, rééducation avec biofeedback et traitements médicamenteux.

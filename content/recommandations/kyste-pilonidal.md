@@ -100,14 +100,14 @@ Le kyste pilonidal peut prendre plusieurs formes:
   - Suintements des plis axillaires ou inguinaux (hidradénite suppurée)
   - Atteinte anale, troubles digestifs chroniques (fissure, Crohn)
 
+> [!INFO]
 > Les examens complémentaires ne sont pas nécessaires devant un tableau typique de sinus pilonidal.
-{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Traitement du kyste pilonidal" %}}
 
-Abstention thérapeutique pour un kyste pilonidal asymptomatique.
-{.alert .alert-info}
+> [!INFO]
+> Abstention thérapeutique pour un kyste pilonidal asymptomatique.
 
 Mesures générales de prise en charge du kyste pilonidal:
 

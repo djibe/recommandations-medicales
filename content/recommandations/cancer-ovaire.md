@@ -137,8 +137,8 @@ Le bilan d'extension repose sur le scanner thoraco-abdomino-pelvien avec injecti
 {{% /collapse %}}
 {{%collapse "Prévention du cancer de l'ovaire" %}}
 
-> Il n'existe pas de dépistage du cancer de l'ovaire
-{.alert .alert-info}
+> [!INFO]
+> Il n'existe pas de dépistage du cancer de l'ovaire.
 
 Néanmoins une ablation opportuniste des trompes de Fallope de façon préventive peut être proposée au cours d'une chirurgie pelvienne planifiée:
 
@@ -168,7 +168,7 @@ Comme pour tout cancer:
 - Associations de patients  
   [imagyn](https://www.imagyn.org), [Ligue contre le cancer](https://www.ligue-cancer.net), [roseup](https://www.rose-up.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com).
 
-[Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 30 ter](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048206681): exposition à l'amiante ≥ 5 ans
+[Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 30 ter](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048206681): exposition à l'amiante ≥ 5 ans.
 {.alert .alert-info}
 
 ### Pour en savoir plus sur le cancer de l'ovaire

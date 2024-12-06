@@ -165,7 +165,7 @@ Angor peu probable
   - Valvulopathie
   - Autres organes: maladie rénale, pulmonaire
 
-Chez le +40 ans asymptomatique sans sténose à l'imagerie: calcul du {{< scores/heartscore >}} en l'absence de maladie cardiovasculaire, diabète, insuffisance rénale ou hypercholestérolémie familiale (sinon définir la classe de {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}})
+Chez le +40 ans asymptomatique sans sténose à l'imagerie: calcul du {{< scores/heartscore >}} en l'absence de maladie cardiovasculaire, diabète, insuffisance rénale ou hypercholestérolémie familiale (sinon définir la classe de {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}).
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -190,13 +190,13 @@ Bilan d'un angor ou de douleurs thoraciques évocatrices de cardiopathie ischém
 
 Selon l'évaluation cardiovasculaire: [épreuve d'effort]({{< relref "epreuve-effort.md" >}}) voire coroscanner.
 
-Coronaropathie confirmée: échodoppler des troncs supra-aortiques (TSA) et de l'aorte abdominale, mesure de l'index de pression systolique (IPS) ± échodoppler MI
+Coronaropathie confirmée: échodoppler des troncs supra-aortiques (TSA) et de l'aorte abdominale, mesure de l'index de pression systolique (IPS) ± échodoppler MI.
 {.alert .alert-info}
 
 ### Électrocardiogramme de repos 12 dérivations
 
-La normalité du tracé ECG ne permet pas d'exclure un syndrome coronarien chronique
-{.alert .alert-info}
+> [!INFO]
+> La normalité du tracé ECG ne permet pas d'exclure un syndrome coronarien chronique.
 
 L'électrocardiogramme 12 dérivations est systématique.
 

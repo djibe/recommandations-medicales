@@ -167,8 +167,8 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 {{% /collapse %}}
 {{%collapse "Spécialités de contraceptifs" "show" %}}
 
-> La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares -- *CNGOF 2018*
-{.alert .alert-info}
+> [!INFO]
+> La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares. (*CNGOF 2018*)
 
 {{< table title="Spécialités de contraception disponibles en France en 2024 (sauf dernières générations et DMPA qui augmentent le risque vasculaire) et préservatifs remboursés. Dr JB Fron d'après *BDPM* et *Assurance Maladie*" class="table-wrap" id="table-pilule" >}}
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
@@ -450,8 +450,8 @@ Changement de contraception à discuter.
 
 ### Prise de poids
 
-> Les contraceptions hormonales ne sont pas associées à une prise de poids -- *CNGOF 2018*
-{.alert .alert-info}
+> [!INFO]
+> Les contraceptions hormonales ne sont pas associées à une prise de poids. (*CNGOF 2018*)
 
 L'implant sous-cutané à l'étonogestrel ou le DMPA injectable peuvent parfois augmenter modérément le poids.  
 Réaliser un bilan complet si prise de poids importante.
@@ -478,8 +478,8 @@ Migraines cataméniales sous COP, proposer au choix:
 {{% /collapse %}}
 {{%collapse "Interactions médicamenteuses" %}}
 
-> Pas de contre-indication aux AINS avec le DIU cuivre. -- *CNGOF 2018*
-{.alert .alert-info}
+> [!INFO]
+> Pas de contre-indication aux AINS avec le DIU cuivre. (*CNGOF 2018*)
 
 Contrôler les interactions médicamenteuses en cas de cotraitement.
 

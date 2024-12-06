@@ -82,8 +82,8 @@ Triade de symptômes d'une poussée de diverticulite sigmoïdienne aiguë:
 - Fièvre, sepsis
 - Troubles du transit
 
+> [!INFO]
 > Le diagnostic clinique de poussée de diverticulite est erroné dans plus de 50% des cas. -- *[Werner 2003](https://doi.org/10.1007/s00330-003-1887-7)*
-{.alert .alert-info}
 
 Facteurs prédictif de complication:
 
@@ -126,8 +126,8 @@ Un bilan est systématique pour affirmer le diagnostic de diverticulite sigmoïd
 
 ### Scanner abdomino-pelvien avec injection
 
-Le scanner est obligatoire en cas de premier épisode de diverticulite. (*HAS*)
-{.alert .alert-info}
+> [!INFO]
+> Le scanner est obligatoire en cas de premier épisode de diverticulite. (*HAS*)
 
 Le scanner est l'examen de référence pour le diagnostic et la recherche de complications d'une poussée de diverticulite. Il peut être ensuite réalisé uniquement en cas de **récidive d'intensité inhabituelle** ou de **syndrome inflammatoire biologique marqué** chez un patient sans comorbidités (*ESCP 2020*).
 
@@ -171,8 +171,8 @@ La coloscopie doit être réalisée au moins 6 semaines après l'épisode divert
 
 Une prise en charge ambulatoire de diverticulite aiguë est possible uniquement en l'absence d'*indications à l'hospitalisation* (voir ci-dessus).
 
-Aucun traitement ou régime ne permet de prévenir les crises de diverticulite
-{.alert .alert-info}
+> [!INFO]
+> Aucun traitement ou régime ne permet de prévenir les crises de diverticulite.
 
 - Antalgie simple
 - Pas d'AINS, corticoïdes ou aspirine
@@ -184,8 +184,8 @@ Aucun traitement ou régime ne permet de prévenir les crises de diverticulite
 
 ### Antibiothérapie pour diverticulite sigmoïdienne
 
-Pas d'antibiothérapie en première intention devant une poussée diverticulaire en l'absence de complication au scanner
-{.alert .alert-info}
+> [!INFO]
+> Pas d'antibiothérapie en première intention devant une poussée diverticulaire en l'absence de complication au scanner.
 
 Indication à l'antibiothérapie ambulatoire: **échec thérapeutique à 48 heures** sans critère d'hospitalisation.
 

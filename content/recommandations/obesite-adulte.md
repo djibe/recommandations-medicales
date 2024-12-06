@@ -166,8 +166,8 @@ TCA
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!INFO]
 > << Demander l'accord de la personne pour aborder le poids >>. -- *HAS 2023*
-{.alert .alert-info}
 
 ### Interrogatoire
 
@@ -315,8 +315,8 @@ Liste des nutritionnistes sur [Annuaire Ameli](http://annuairesante.ameli.fr) (e
 
 ### Indications à la chirurgie bariatrique
 
-> << Il s'agit du seul traitement actuel de l'obésité ayant démontré son efficacité sur le long terme en termes de perte de poids et de réduction de certaines comorbidités >> -- *CEEDMM*
-{.alert .alert-info}
+> [!INFO]
+> << Il s'agit du seul traitement actuel de l'obésité ayant démontré son efficacité sur le long terme en termes de perte de poids et de réduction de certaines comorbidités >>. -- *CEEDMM*
 
 La chirurgie bariatrique est décidée en réunion de concertation pluridisciplinaire (RCP).
 
@@ -324,12 +324,12 @@ Les indications à une chirurgie bariatrique avec conditions sont:
 
 1. IMC ≥ 40 kg/m²  
   ou IMC ≥ 35 avec au moins une comorbidité pouvant s'améliorer après la chirurgie (ex: HTA, SAHOS et autres troubles respiratoires sévères, diabète de type 2, maladies ostéoarticulaires invalidantes, stéato-hépatite non alcoolique)
-2. IMC 30-35 avec [diabète type 2]({{< relref "diabete-type-2.md" >}}) non contrôlé malgré suivi pluridisciplinaire pendant 12 mois (*HAS 2022*). Au cas par cas selon *SFD 2023*.
-3. Échec d'un traitement médical, nutritionnel, diététique et psychothérapeutique bien conduit pendant 6 à 12 mois, en l'absence de perte de poids suffisante ou en l'absence de maintien de la perte de poids
-4. Patient bien informé
-5. Évaluation et prise en charge préopératoires pluridisciplinaires pendant plusieurs mois
-6. Patients ayant compris et accepté la nécessité d'un suivi médical et chirurgical à long terme
-7. Risque opératoire acceptable
+1. IMC 30-35 avec [diabète type 2]({{< relref "diabete-type-2.md" >}}) non contrôlé malgré suivi pluridisciplinaire pendant 12 mois (*HAS 2022*). Au cas par cas selon *SFD 2023*.
+2. Échec d'un traitement médical, nutritionnel, diététique et psychothérapeutique bien conduit pendant 6 à 12 mois, en l'absence de perte de poids suffisante ou en l'absence de maintien de la perte de poids
+3. Patient bien informé
+4. Évaluation et prise en charge préopératoires pluridisciplinaires pendant plusieurs mois
+5. Patients ayant compris et accepté la nécessité d'un suivi médical et chirurgical à long terme
+6. Risque opératoire acceptable
 
 > -- Indications à la chirurgie bariatrique selon *HAS 2009*
 
@@ -350,7 +350,7 @@ L'anneau gastrique est désormais très peu utilisé (complications, ré-interve
 {{% /collapse %}}
 {{%collapse "Traitement de l'obésité de l'adulte" %}}
 
-Les prescriptions médicamenteuses (GLP-1) relèvent exclusivement des spécialistes de l'obésité
+Les prescriptions médicamenteuses (GLP-1) relèvent exclusivement des spécialistes de l'obésité.
 {.alert .alert-info}
 
 Un objectif doit être précis, atteignable, progressif, facile à mettre en œuvre, accepté et révisable.
@@ -400,8 +400,8 @@ La prise en charge de l'obésité associe:
 {{% /collapse %}}
 {{%collapse "Conseils alimentaires" %}}
 
+> [!INFO]
 > Pour toute personne, << Il n'y a pas d'interdits alimentaires >>. -- *CEEDMM*
-{.alert .alert-info}
 
 Exemples de conseils alimentaires à proposer en situation d'obésité:
 

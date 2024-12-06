@@ -116,8 +116,8 @@ SNFGE
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-L'enquête diagnostique de l'anémie doit être effectuée sans délai chez un adulte sans diagnostic évident
-{.alert .alert-info}
+> [!INFO]
+> L'enquête diagnostique de l'anémie doit être effectuée sans délai chez un adulte sans diagnostic évident.
 
 Signes et symptômes cliniques d'une anémie:
 

@@ -108,8 +108,8 @@ La polykystose rénale est le plus souvent découverte chez l'adulte jeune sur l
 
 L'échographie révèle deux gros reins déformés par de multiples kystes. Polykystose hépatique associée chez 30 à 70 % des patients. Le scanner abdominal est plus sensible pour la détection des kystes rénaux et hépatiques.
 
+> [!INFO]
 > Une échographie rénale normale avant 40 ans n'exclut pas le diagnostic de polykystose rénale.
-{.alert .alert-info}
 
 ### ECBU
 

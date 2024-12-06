@@ -82,8 +82,8 @@ Le diagnostic de maladie de Dupuytren est clinique mais une **glycémie** peut �
 {{% /collapse %}}
 {{%collapse "Traitement de la maladie de Dupuytren" %}}
 
-Quelque soit la technique, le taux de récidive de la maladie de Dupuytren est très élevé.
-{.alert .alert-info}
+> [!INFO]
+> Quelque soit la technique, le taux de récidive de la maladie de Dupuytren est très élevé.
 
 La prise en charge de la maladie de Dupuytren doit être la plus **précoce** possible. Selon l'avancement de la maladie de Dupuytren et l'expérience du spécialiste, les traitements suivants peuvent être proposés:
 

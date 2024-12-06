@@ -40,7 +40,7 @@ Chapitre lié: [hommes ayant des rapports avec des hommes]({{< relref "hsh.md" >
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-L'infection par le virus de la variole du singe n'est pas connue comme une [IST](/tags/ist/), mais le contact direct avec une peau lésée durant un rapport sexuel facilite la transmission (*SPF*)
+L'infection par le virus de la variole du singe n'est pas connue comme une [IST](/tags/ist/), mais le contact direct avec une peau lésée durant un rapport sexuel facilite la transmission (*SPF*).
 {.alert .alert-info}
 
 Mpox (Monkeypox ou variole du singe)

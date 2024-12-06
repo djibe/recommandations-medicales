@@ -139,8 +139,8 @@ Adresser à l'hématologue en cas de:
 {{% /collapse %}}
 {{%collapse "Interprétation et prise en charge d'un pic monoclonal" %}}
 
+> [!INFO]
 > Un pic monoclonal supérieur à 10 g/L et un ratio de chaînes légères κ/λ (< 0,1 ou > 7) a une sensibilité de 98 % pour le myélome multiple et élimine 95 % des gammapathies monoclonales de signification indéterminées (MGUS).
-{.alert .alert-info}
 
 Faible risque de myélome pour un pic < 10 g/L et un ratio compris de 0,1 à 7.
 

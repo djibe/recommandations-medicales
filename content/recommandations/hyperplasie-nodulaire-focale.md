@@ -131,13 +131,13 @@ Le diagnostic d'hyperplasie nodulaire focale doit être formel afin de s'affranc
 
 En cas de diagnostic incertain pour une tumeur < 3 cm, compléter avec **échographie de contraste** (ECUS), au-delà de 3 cm, une **biopsie hépatique** est indiquée.
 
+> [!INFO]
 > << Une augmentation lente de la taille n'est pas préoccupante si le diagnostic d'HNF est formel. >> -- *EASL 2016*
-{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hyperplasie nodulaire focale" %}}
 
-HNF asymptomatique avec diagnostic formel = aucun suivi
+HNF asymptomatique avec diagnostic formel = aucun suivi.
 {.alert .alert-info}
 
 L'hyperplasie nodulaire focale (HNF) ne nécessite **aucune prise en charge** lorsque le diagnostic est formel en l'absence de symptômes et de maladie vasculaire hépatique sous-jacente. **Aucune surveillance** n'est alors nécessaire.
@@ -146,8 +146,8 @@ Lorsque ces critères ne sont pas remplis (diagnostic d'hyperplasie nodulaire fo
 
 **La chirurgie est exceptionnelle** et réservée aux HNF étendues, pédiculées ou exophytiques.
 
-La grossesse et la contraception orale ne modifient pas l'évolution de l'HNF.
-{.alert .alert-info}
+> [!INFO]
+> La grossesse et la contraception orale ne modifient pas l'évolution de l'HNF.
 
 {{% /collapse %}}
 {{% collapse "Prise en charge de l'hyperplasie nodulaire focale" "show" %}}

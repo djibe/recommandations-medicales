@@ -254,8 +254,8 @@ Peut être associé à un alpha-bloquant (tamsulosine + dutastéride [Combodart�
 - Finastéride 5 mg (Chibro-Proscar®, gén)  
   Surveillance renforcée de l'[ANSM](https://ansm.sante.fr/actualites/reevaluation-europeenne-de-la-balance-benefice-risque-des-medicaments-contenant-du-finasteride-ou-du-dutasteride) pour troubles sexuels et psychiatriques.
 
+> [!INFO]
 > Les I5AR entraînent une diminution du PSA de moitié. (*McConnell 2003*)
-{.alert .alert-info}
 
 ### Inhibiteurs de la phosphodiestérase de type 5 (IPDE5)
 

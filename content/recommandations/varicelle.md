@@ -95,7 +95,7 @@ VZV
 << les personnes immunodéprimées doivent être considérées comme non protégées, même en cas de sérologie précédemment positive et surveillées pendant les 28 jours qui suivent le contage >>. -- *PAP Pédiatrie*
 {.alert .alert-warning}
 
-Toujours rechercher des complications de la varicelle: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans
+Toujours rechercher des complications de la varicelle: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans.
 {.alert .alert-info}
 
 Tableau d'[éruption fébrile](/tags/eruption-febrile/):
@@ -217,7 +217,7 @@ Recommandations pour la prise en charge de la varicelle:
 
 **NB.** Aucun autre produit (talc, pommade, gel) ne doit être appliqué
 
-Reporter les vaccinations du nourrisson d'au moins 15 jours (question à *Infovac*)
+Reporter les vaccinations du nourrisson d'au moins 15 jours (question à *Infovac*).
 {.alert .alert-info}
 
 > En cas de varicelle surinfectée, voir [impétigo]({{< relref "infection-cutanee-bacterienne.md" >}}).

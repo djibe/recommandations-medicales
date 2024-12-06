@@ -73,8 +73,8 @@ SPILF
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Évoquer une coqueluche à tout âge devant une toux persistante au moins 7 jours, à recrudescence nocturne ou émétisante si vaccination +10 ans
-{.alert .alert-info}
+> [!INFO]
+> Évoquer une coqueluche à tout âge devant une toux persistante au moins 7 jours, à recrudescence nocturne ou émétisante si vaccination +10 ans.
 
 - Transmission aérienne directe, intra-familiale +++  
   Contamination maximale pendant la phase catarrhale.

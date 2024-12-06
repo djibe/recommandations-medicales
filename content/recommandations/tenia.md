@@ -83,8 +83,8 @@ Une [éosinophilie]({{< relref "hypereosinophilie.md" >}}) modérée est parfois
 {{% /collapse %}}
 {{%collapse "Traitement du ténia" %}}
 
-> Le taeniasis doit toujours être traité.
-{.alert .alert-info}
+> [!INFO]
+> Le ténia doit toujours être traité.
 
 La prise en charge des ténias associe:
 

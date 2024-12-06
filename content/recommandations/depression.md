@@ -244,7 +244,7 @@ L'évaluation de la sévérité repose sur le nombre de critères, la sévérit�
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Dépister la dépression chez l'adulte (notamment si grossesse ou post-partum -- *USPTF 2023*), l'adolescent de 12 à 18 ans (*USPTF*) et devant tout trouble cognitif (*HAS 2017*): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}} (couplé à l'anxiété) ou {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}}
+Dépister la dépression chez l'adulte (notamment si grossesse ou post-partum -- *USPTF 2023*), l'adolescent de 12 à 18 ans (*USPTF*) et devant tout trouble cognitif (*HAS 2017*): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}} (couplé à l'anxiété) ou {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}}.
 {.alert .alert-info}
 
 Le premier épisode dépressif peut survenir à tout âge mais il survient plus souvent chez l'adulte jeune (25 ans).

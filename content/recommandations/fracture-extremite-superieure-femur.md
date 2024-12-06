@@ -124,8 +124,8 @@ La prévention des fractures de l'extrémité supérieure du fémur (FESF) conce
 {{% /collapse %}}
 {{%collapse "Traitement de la fracture de l'extrémité supérieure du fémur" %}}
 
-La prise en charge d'une fracture du col du fémur nécessite toujours un avis chirurgical orthopédique en semi-urgence.
-{.alert .alert-info}
+> [!INFO]
+> La prise en charge d'une fracture du col du fémur nécessite toujours un avis chirurgical orthopédique en semi-urgence.
 
 Mesures générales de prise en charge associées:
 

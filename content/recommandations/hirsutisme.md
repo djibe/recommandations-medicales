@@ -182,7 +182,7 @@ Le seuil de traitement pour l'hirsutisme dépend des origines et du [score Ferri
 
 ### Traitement de première intention de l'hirsutisme
 
-[Contraception orale œstroprogestative (COP)]({{< relref "contraception.md" >}}) pendant 6 mois
+[Contraception orale œstroprogestative (COP)]({{< relref "contraception.md" >}}) pendant 6 mois.
 {.alert .alert-info}
 
 - Pas de supériorité d'une pilule sur l'autre

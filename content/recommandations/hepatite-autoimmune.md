@@ -69,8 +69,8 @@ TH
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!INFO]
 > Le diagnostic doit être évoqué devant toute élévation chronique des transaminases ne relevant pas d'une cause habituelle, en particulier virale. >> -- *Filfoie*
-{.alert .alert-info}
 
 Signes et symptômes à rechercher en cas de suspicion d'hépatite auto-immune (cytolyse chronique).
 

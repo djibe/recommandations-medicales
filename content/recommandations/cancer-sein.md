@@ -130,8 +130,8 @@ RCP
 {{% /collapse %}}
 {{%collapse "Niveaux de risque de cancer du sein" %}}
 
+> [!INFO]
 > Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans. -- *HAS*
-{.alert .alert-info}
 
 Dépistages recommandés du cancer du sein chez les femmes à haut risque selon *HAS 2019* (repris par *INCa 2022*). Le dépistage généralisé est aussi recommandé par la *Commission Européenne* 2022 (de 45 à 74 ans).
 
@@ -216,8 +216,8 @@ Toute suspicion diagnostique de cancer du sein justifie un avis spécialisé san
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+> [!INFO]
 > Le **CA 15.3** ne doit pas être dosé: << Aucun dosage de marqueur tumoral sérique n'est indiqué pour le diagnostic du cancer du sein. >> -- *INCa 2016*
-{.alert .alert-info}
 
 ### Mammographies
 
@@ -271,8 +271,8 @@ Réduction de la consommation d'[alcool]({{< relref "sevrage-alcool.md" >}}) (15
 
 ### Palpation mammaire annuelle
 
-Palpation mammaire annuelle par un médecin recommandée pour toutes les femmes à partir de 25 ans (*HAS*)
-{.alert .alert-info}
+> [!INFO]
+> Palpation mammaire annuelle par un médecin recommandée pour toutes les femmes à partir de 25 ans. -- *HAS*
 
 L'auto-examen des seins (AES) n'est pas recommandé pour les femmes de 25 à 74 ans à risque modéré bénéficiant d'une palpation annuelle et du dépistage recommandé (*CNGOF 2023*). Dans les autres cas, les données manquent.
 

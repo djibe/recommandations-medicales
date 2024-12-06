@@ -83,8 +83,8 @@ SHE
 {{% /collapse %}}
 {{%collapse "Orientation étiologique devant une hyperéosinophilie" %}}
 
-Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie, syndrome d'hypersensibilité médicamenteuse (iatrogénie) et cancer
-{.alert .alert-info}
+> [!INFO]
+> Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie, syndrome d'hypersensibilité médicamenteuse (iatrogénie) et cancer.
 
 ### Étiologie des éosinophilies et hyperéosinophilies
 
@@ -126,8 +126,8 @@ Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!INFO]
 > << une HE n'est jamais à négliger puisqu'elle peut constituer le point d'appel d'une maladie grave (tumeur solide, hémopathie) >>. -- *SFH*
-{.alert .alert-info}
 
 Évoquer un syndrome hyperéosinophilique devant toute hyperéosinophilie et rechercher une infiltration organique.
 
@@ -168,7 +168,7 @@ Avis spécialisés en cas d'atteinte d'organe spécifique (pneumologue, dermatol
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Avis spécialisé (hématologue, interniste) en cas d'hyperéosinophilie persistante sans orientation médicamenteuse ou parasitaire
+Avis spécialisé (hématologue, interniste) en cas d'hyperéosinophilie persistante sans orientation médicamenteuse ou parasitaire.
 {.alert .alert-info}
 
 ### Bilan d'une hyperéosinophilie et d'une éosinophilie

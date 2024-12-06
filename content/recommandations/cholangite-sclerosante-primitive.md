@@ -77,8 +77,8 @@ TH
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> << le diagnostic de CSP doit être évoqué devant toute anomalie chronique des tests hépatiques d'étiologie indéterminée après le bilan habituel >> -- *PNDS 2022*
-{.alert .alert-info}
+> [!INFO]
+> << le diagnostic de CSP doit être évoqué devant toute anomalie chronique des tests hépatiques d'étiologie indéterminée après le bilan habituel >>. -- *PNDS 2022*
 
 ### Interrogatoire
 

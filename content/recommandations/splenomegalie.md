@@ -90,7 +90,7 @@ La splénomégalie n'est qu'un symptôme:
 - Cirrhose
 - Blocs sus-hépatiques (syndrome de Budd-Chiari)
 - Blocs sous-hépatiques  
-  Adénopathies retro-péritonéales, [tuberculose]({{< relref "tuberculose.md" >}}), lymphome, métastases, [cancers de la tête du pancréas]({{< relref "cancer-pancreas.md" >}}), pancréatite chronique.
+  Adénopathies retro-péritonéales, [tuberculose]({{< relref "tuberculose.md" >}}), lymphome, métastases, [cancers de la tête du pancréas]({{< relref "cancer-pancreas.md" >}}), [pancréatite chronique]({{< relref "pancreatite-chronique.md" >}}).
 
 ### Grosses rates isolées
 
@@ -179,7 +179,7 @@ L'échographie abdominale est l'examen d'imagerie de référence devant une spl�
 Elle permet de ne pas confondre avec un gros rein gauche ou les autres organes de la région.  
 La rate normale ne dépasse pas 14 x 12 x 8 cm (l x L x h).
 
-Avis hématologique devant une splénomégalie isolée sans signe d'orientation
+Avis hématologique devant une splénomégalie isolée sans signe d'orientation.
 {.alert .alert-info}
 
 {{% /collapse %}}

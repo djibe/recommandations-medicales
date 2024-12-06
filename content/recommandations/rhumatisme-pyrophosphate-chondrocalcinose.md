@@ -78,7 +78,7 @@ Une chronicisation des symptômes est possible, devant faire évoquer une [polya
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Le diagnostic de certitude de la chondrocalcinose repose sur l'identification de cristaux de pyrophosphate de calcium articulaires
+Le diagnostic de certitude de la chondrocalcinose repose sur l'identification de cristaux de pyrophosphate de calcium articulaires.
 {.alert .alert-info}
 
 {{%info%}}

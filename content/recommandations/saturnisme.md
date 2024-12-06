@@ -100,7 +100,7 @@ En cas de présence de facteurs de risques d'exposition au plomb, soumettre ce q
   Gens du voyage: terrain pollué, maniement de matériels pollués.
 - Immigration récente
 
-En présence de facteurs de risque, une **plombémie** doit être réalisée
+En présence de facteurs de risque, une **plombémie** doit être réalisée.
 {.alert .alert-info}
 
 {{% /collapse %}}

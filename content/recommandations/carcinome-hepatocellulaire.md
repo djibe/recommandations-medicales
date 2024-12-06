@@ -119,8 +119,8 @@ Le CHC reste longtemps asymptomatique causant souvent un diagnostic tardif.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> Toute lésion focale hépatique chez un patient atteint de cirrhose est un CHC jusqu'à preuve du contraire, quel que soit son aspect en échographie -- *SNFGE 2016*
-{.alert .alert-info}
+> [!INFO]
+> Toute lésion focale hépatique chez un patient atteint de cirrhose est un CHC jusqu'à preuve du contraire, quel que soit son aspect en échographie. -- *SNFGE 2016*
 
 ### Bilan d'un nodule hépatique
 
@@ -165,10 +165,8 @@ Par ailleurs l'alpha-fœtoprotéine n'est plus utilisée pour le dépistage seme
 
 ### Dépistage du carcinome hépatocellulaire (CHC)
 
-Dépistage du carcinome hépatocellulaire chez les patients avec cirrhose {{< modal-btn modal-score-child >}}Child A ou B{{< /modal-btn >}} (ou C en attente de transplantation) par échographie abdominale semestrielle sans dosage de l'alpha-fœtoprotéine et suivi hépatologique au moins annuel.
-{.alert .alert-info}
-
-> -- *SNFGE/AFEF 2023* et *INCa 2022*
+> [!INFO]
+> Dépistage du carcinome hépatocellulaire chez les patients avec cirrhose {{< modal-btn modal-score-child >}}Child A ou B{{< /modal-btn >}} (ou C en attente de transplantation) par échographie abdominale semestrielle sans dosage de l'alpha-fœtoprotéine et suivi hépatologique au moins annuel. -- *SNFGE/AFEF 2023* et *INCa 2022*
 
 Encourager la consommation de café en cas d'hépatopathie (*EASL 2018*).
 

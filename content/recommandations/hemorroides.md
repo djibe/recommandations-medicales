@@ -112,7 +112,7 @@ Indications à la coloscopie:
 {{% /collapse %}}
 {{%collapse "Traitement des hémorroïdes" %}}
 
-Traitements anti-hémorroïdaires pendant la [grossesse](https://www.lecrat.fr/12336/) et l'[allaitement](https://www.lecrat.fr/8523/) (*CRAT*)
+Traitements anti-hémorroïdaires pendant la [grossesse](https://www.lecrat.fr/12336/) et l'[allaitement](https://www.lecrat.fr/8523/) (*CRAT*).
 {.alert .alert-info}
 
 L'objectif de la prise en charge médicale des hémorroïdes est de soulager les symptômes:
@@ -143,8 +143,8 @@ L'objectif de la prise en charge médicale des hémorroïdes est de soulager les
 
 **NB.** La contre-indication aux épices est mal étayée.
 
-En cas d'échec des traitements médicamenteux, avis du proctologue pour envisager un traitement instrumental
-{.alert .alert-info}
+> [!INFO]
+> En cas d'échec des traitements médicamenteux, avis du proctologue pour envisager un traitement instrumental.
 
 ### La thrombose hémorroïdaire externe
 

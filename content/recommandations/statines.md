@@ -39,8 +39,8 @@ todo = "photo"
 {{% /collapse %}}
 {{%collapse "Objectif de LDL cholestérol" %}}
 
+> [!INFO]
 > << Le traitement par statine est associé à une réduction des complications cardiovasculaires proportionnelle à la baisse du LDL-cholestérol >>. -- *ESH 2023*
-{.alert .alert-info}
 
 La réduction du LDL cholestérol a les mêmes bénéfices cardiovasculaires chez les 2 sexes (*ESC 2021*).
 
@@ -114,8 +114,8 @@ Pas de différences entre les statines concernant la survenue de myalgies. La su
 
 ### Statine mal tolérée
 
+> [!INFO]
 > << 70-90% des patients qui rapportent une intolérance aux statines peuvent en tolérer une après un nouvel essai >> -- *{{< references/esc-diabetes-2023 >}}*
-{.alert .alert-info}
 
 En cas de complications attribuables à une statine:
 

@@ -107,8 +107,8 @@ Principaux facteurs de risque de cancer du cardia gastrique: surpoids et [reflux
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!INFO]
 > << Le plus souvent, les tumeurs gastriques sont asymptomatiques >>. -- *CDU-HGE*
-{.alert .alert-info}
 
 ### Symptômes évocateurs du cancer de l'estomac
 
@@ -167,8 +167,8 @@ En cas de symptômes évocateurs d'un cancer de l'estomac, adresser directement 
 
 Le bilan complémentaire comporte toujours un **scanner** thoraco-abdomino-pelvien avec injection.
 
-> Les marqueurs tumoraux ACE et CA 19-9 ne sont pas utiles au diagnostic initial
-{.alert .alert-info}
+> [!INFO]
+> Les marqueurs tumoraux ACE et CA 19-9 ne sont pas utiles au diagnostic initial.
 
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de l'estomac" %}}

@@ -52,8 +52,8 @@ Hypertension artérielle résistante
 
 ### Grades de l'hypertension artérielle
 
-> << Un dépistage moins fréquent (*ex* tous les 3 à 5 ans) est approprié pour les adultes 18-39 ans sans surrisque d'hypertension ayant déjà eu une mesure de la pression artérielle >> (surrisque: origines Africaines, surpoids, tension normale haute) - *USPTF 2021*
-{.alert .alert-info}
+> [!INFO]
+> << Un dépistage moins fréquent (*ex* tous les 3 à 5 ans) est approprié pour les adultes 18-39 ans sans surrisque d'hypertension ayant déjà eu une mesure de la pression artérielle >> (surrisque: origines Africaines, surpoids, tension normale haute). -- *USPTF 2021*
 
 {{< table title="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après *ESH 2023* et *USPTF 2021*" class="table-wrap" >}}
 | Catégorie                 | Systolique (mmHg) |       | Diastolique (mmHg) | Action                                                                        |
@@ -252,14 +252,14 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hyp
 
 Ajouter sur l'ordonnance le tensiomètre électronique, certaines mutuelles pouvant le prendre en charge.
 
-Chez l'enfant ou pendant la grossesse, un appareil validé spécifique est nécessaire (cf section précédente)
+Chez l'enfant ou pendant la grossesse, un appareil validé spécifique est nécessaire (cf section précédente).
 {.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Objectifs tensionnels" "show" %}}
 
-Une diastolique entre 70 et 79 mmHg est la cible pour tout hypertendu. La pression cible doit être atteinte sous 3 mois.
-{.alert .alert-info}
+> [!INFO]
+> Une diastolique entre 70 et 79 mmHg est la cible pour tout hypertendu. La pression cible doit être atteinte sous 3 mois.
 
 {{< table title="Synthèse des cibles de pression artérielle au cabinet selon le profil de l'adulte de plus de 18 ans. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
 | Population          | Objectif (mmHg) | Source     |
@@ -332,8 +332,8 @@ Dans l'attente de la MAPA: observance, automesures avec appareil validé, revér
 
 ### Examen clinique
 
+> [!INFO]
 > << La mesure de la tension artérielle devrait faire partie de toute visite médicale, même chez les mineurs. >> (*ESH 2023*), à partir de 3 ans (ou avant si cardiopathie, néphropathie, prématurité)
-{.alert .alert-info}
 
 - Poids, taille, IMC, tour de taille
 - Pression artérielle, fréquence cardiaque

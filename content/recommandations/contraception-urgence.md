@@ -71,7 +71,7 @@ UPA
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-Intérêt d'une [contraception efficace]({{< relref "contraception.md" >}}) pendant toute la période de vie sexuelle active
+Intérêt d'une [contraception efficace]({{< relref "contraception.md" >}}) pendant toute la période de vie sexuelle active.
 {.alert .alert-info}
 
 Informer que la contraception d'urgence (orale) est accessible gratuitement directement en pharmacie pour toutes les femmes, notamment si: adolescente, préservatif, VIH, voyage à l'étranger, milieu rural.

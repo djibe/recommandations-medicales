@@ -67,8 +67,8 @@ Test au progestatif
 : Le test est dit *positif* si une hémorragie de privation survient à l'arrêt (elle signe une imprégnation estrogénique). En périménopause, un test positif exclut le diagnostic de ménopause.  
 En revanche, un test *négatif* (absence de saignements) n'affirme pas une ménopause.
 
-La valeur prédictive du test au progestatif pour le diagnostic de ménopause n'a été évalué par aucune étude
-{.alert .alert-info}
+> [!INFO]
+> La valeur prédictive du test au progestatif pour le diagnostic de ménopause n'a été évalué par aucune étude.
 
 {{< table title="Terminologie de la ménopause. Dr JB Fron d'après *CNGOF 2021*" >}}
 | Situation de survenue   | Terme                          |
@@ -573,8 +573,8 @@ Le THM utilisé en France ne modifie pas la survenue des pathologies suivantes:
 
 > -- *CNGOF 2021*
 
+> [!INFO]
 > << La mortalité par cancer du sein n'est pas augmentée chez les femmes recevant un THM que cela soit dans les essais randomisés ou les études d'observation et quel que soit le type de THM >>. -- *CNGOF 2021*
-{.alert .alert-info}
 
 #### Bénéfices du traitement hormonal de la ménopause
 

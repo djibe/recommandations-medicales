@@ -62,8 +62,8 @@ CSHP
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic de pédiculose est clinique par visualisation de lentes vivantes à la racine des cheveux.
-{.alert .alert-info}
+> [!INFO]
+> Le diagnostic de pédiculose est clinique par visualisation de lentes vivantes à la racine des cheveux.
 
 - Symptômes de pédiculose
   - [Prurit](/tags/prurit/) (50-60%)

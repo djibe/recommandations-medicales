@@ -246,7 +246,7 @@ La **pneumonie post-grippale** est une ré-aggravation à J5-J7 après le début
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Radiographie thoracique de face systématique en inspiration (contrôle à 1 mois chez l'enfant)
+Radiographie thoracique de face systématique en inspiration (contrôle à 1 mois chez l'enfant).
 {.alert .alert-info}
 
 Autres bilans ambulatoires de la pneumopathie infectieuse:

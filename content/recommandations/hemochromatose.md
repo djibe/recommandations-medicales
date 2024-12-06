@@ -147,8 +147,8 @@ Bilan à jeun:
 En l'absence de poids d'appel, dosage du **coefficient de saturation de la transferrine (CST) le matin**, recontrôlé si anormal (le jeûne n'est pas nécessaire selon l'*EASL 2022*).
 {{%/info%}}
 
+> [!INFO]
 > << L'hémochromatose est évoquée en cas d'[hyperferritinémie]({{< relref "hyperferritinemie.md" >}}) et de coefficient de saturation de la transferrine à plus de **45%** >> (NDLR: *50%* chez l'homme, caucasiens) -- *CDU-HGE*
-{.alert .alert-info}
 
 Lorsque l'hémochromatose génétique est évoquée (HF + CST élevé), adresser au gastro-entérologue pour la confirmation diagnostique (**conseil génétique** avec recherche du variant *C282Y*).
 
@@ -193,7 +193,7 @@ Lorsque les saignées ne sont pas possibles, recours au traitement chélateur du
   - [Vaccination hépatite B]({{< relref "hepatite-b.md" >}})
 - Déclarer l'[ALD n°17]({{< relref "affection-longue-duree.md" >}})
 - Informations du patient sur l'hémochromatose: [sites de la SNFGE](https://www.snfge.org/grand-public/maladies-digestives/hemochromatose), [AFEF](https://afef.asso.fr/lhemochromatose/) et [Inserm](https://www.inserm.fr/dossier/hemochromatose-genetique/).
-- Associations de patients: [France fer hémochromatose](https://www.hemochromatose.org) et [association hémochromatose France](https://www.hemochromatose.fr)
+- Associations de patients: [France fer hémochromatose FFAMH](https://www.hemochromatose.org) et [association hémochromatose France AHF](https://www.hemochromatose.fr)
 
 Le [Centre de référence des hémochromatoses](https://centre-reference-fer-rennes.org) est à Rennes.
 

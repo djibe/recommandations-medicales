@@ -70,7 +70,7 @@ Examens médicaux de la naissance à 16 ans avec la cotation associée, facturé
 | 20 |           15-16 ans           |                                    COB (26,5€)                                    |
 {{< /table >}}
 
-> -- *[Service-public. Visites médicales de l'enfant : examens obligatoires. 01/09/2023.](https://www.service-public.fr/particuliers/vosdroits/F967)* et *[Arrêté du 26/02/2019](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038175215/)*
+> -- *[Service-public. Visites médicales de l'enfant : examens obligatoires. 01/09/2023.](https://www.service-public.fr/particuliers/vosdroits/F967)* et *[Arrêté du 26/02/2019](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038175215/)*. Prochainement [modifié](https://www.service-public.fr/particuliers/actualites/A17876).
 
 Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de suivi:
 
@@ -83,7 +83,7 @@ Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de s
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal de l'enfant" "show" %}}
 
-Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{< relref "vaccination.md" >}})
+Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{< relref "vaccination.md" >}}).
 {.alert .alert-info}
 
 ### Vaccinations de l'enfant

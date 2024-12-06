@@ -281,8 +281,8 @@ Interpréter en fonction des résultats le profil de dénutrition:
 {{% /collapse %}}
 {{%collapse "Dénutrition du sujet âgé +70 ans" %}}
 
-Chez le plus de 70 ans, le dépistage de la dénutrition doit être au moins annuel (*HAS*)
-{.alert .alert-info}
+> [!INFO]
+> Chez le plus de 70 ans, le dépistage de la dénutrition doit être au moins annuel. (*HAS*)
 
 ### 1. Diagnostic de dénutrition chez le sujet âgé
 
@@ -301,7 +301,7 @@ Critères de dénutrition de la *HAS 2021* du sujet âgé. Diagnostic de dénutr
   - Situation d'agression (hypercatabolisme protéique)  
     Pathologie aiguë, chronique évolutive ou maligne évolutive.
 
-Si le critère étiologique disparaît (reprise de l'alimentation, guérison d'une maladie), le diagnostic de dénutrition persiste tant que persiste le critère phénotypique
+Si le critère étiologique disparaît (reprise de l'alimentation, guérison d'une maladie), le diagnostic de dénutrition persiste tant que persiste le critère phénotypique.
 {.alert .alert-info}
 
 ### 2. Dénutrition sévère ?

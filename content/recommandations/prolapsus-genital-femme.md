@@ -75,8 +75,8 @@ SGUM
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic de prolapsus génital est clinique
-{.alert .alert-info}
+> [!INFO]
+> Le diagnostic de prolapsus génital est clinique.
 
 ### Interrogatoire
 
@@ -135,7 +135,7 @@ Indication: prolapsus extériorisé en permanence pour risque d'[insuffisance r�
 {{% /collapse %}}
 {{%collapse "Mesures générales" %}}
 
-La prise en charge des prolapsus génitaux est indiquée en cas de symptômes ou de complications
+La prise en charge des prolapsus génitaux est indiquée en cas de symptômes ou de complications.
 {.alert .alert-info}
 
 ### Mesures générales de prise en charge du prolapsus génital
@@ -170,11 +170,11 @@ Traitement de première intention d'un prolapsus génital de la femme (stade < 3
 
 Efficacité immédiate et équivalente au traitement chirurgical du prolapsus.
 
-Adresser à tout spécialiste en gynécologie (généraliste, gynécologue, sage-femme) pour l'évaluation du modèle adéquat et le suivi du pessaire gynécologique
+Adresser à tout spécialiste en gynécologie (généraliste, gynécologue, sage-femme) pour l'évaluation du modèle adéquat et le suivi du pessaire gynécologique.
 {.alert .alert-info}
 
+> [!INFO]
 > << Il est recommandé de proposer la pose d'un pessaire en première intention à toutes les patientes présentant un prolapsus génital symptomatique, quels que soient leur âge et le stade du prolapsus >>. -- *HAS 2021*
-{.alert .alert-info}
 
 Éléments à connaître sur les pessaires:
 
@@ -198,7 +198,7 @@ La rééducation périnéale du prolapsus génital améliore les symptômes, la 
 
 La rééducation est réalisée par les **kinésithérapeute ou sage-femme** avec apprentissage d'auto-rééducation. Elle peut être associée à l'utilisation d'un pessaire.
 
-> Pas d'intérêt démontré de l'électrostimulation à domicile, du laser ou de la radiofréquence.
+Pas d'intérêt démontré de l'électrostimulation à domicile, du laser ou de la radiofréquence.
 {.alert .alert-info}
 
 ### Chirurgie du prolapsus génito-urinaire
@@ -208,7 +208,7 @@ Indications à la chirurgie du prolapsus génital: handicap persistant avec le t
 La grossesse et l'accouchement voie basse sont envisageables après chirurgie du prolapsus.  
 Reprise progressive des activités à partir de la troisième semaine postopératoire, en l'absence de gêne, d'inconfort ou de douleurs.
 
-L'hystérectomie n'améliore pas les symptômes (sauf extériorisation en permanence ou allongement du col)
+L'hystérectomie n'améliore pas les symptômes (sauf extériorisation en permanence ou allongement du col).
 {.alert .alert-info}
 
 #### Pour en savoir plus: techniques chirurgicales du prolapsus et voies d'abord
@@ -256,7 +256,7 @@ Le pessaire Donut sera plutôt utilisé en seconde intention car il peut être d
 
 **Préférer les pessaires en silicone à ceux en latex.**
 
-En règle générale, le pessaire peut être utilisé plusieurs années (2-3 ans). Il doit être changé en cas de modification d'aspect (fissuration, cassure)
+En règle générale, le pessaire peut être utilisé plusieurs années (2-3 ans). Il doit être changé en cas de modification d'aspect (fissuration, cassure).
 {.alert .alert-info}
 
 {{% /collapse %}}

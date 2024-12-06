@@ -23,8 +23,8 @@ todo = "Personne de confiance ?"
 
 {{%collapse "Accès au dossier médical, que dit la loi ?" %}}
 
+> [!INFO]
 > << Toute personne a accès à l'ensemble des informations concernant sa santé détenues, à quelque titre que ce soit, par des professionnels et établissements de santé, qui sont formalisés ou ont fait l'objet d'échanges écrits entre professionnels de santé >> -- *[Article L1111-7 - Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024316824/2024-03-21/)*
-{.alert .alert-info}
 
 L'accès au dossier médical est un droit pour la personne concernée et n'a donc pas à être motivé.
 
@@ -64,8 +64,8 @@ Pour un professionnel libéral, contacter le [Conseil Départemental de l'Ordre 
 {{% /collapse %}}
 {{%collapse "Courrier de demande d'accès au dossier médical" %}}
 
-La demande doit être adressée par lettre recommandée avec accusé de réception ainsi que la copie de carte d'identité du demandeur
-{.alert .alert-info}
+> [!INFO]
+> La demande d'accès au dossier médical doit être adressée par lettre recommandée avec accusé de réception ainsi que la copie de carte d'identité du demandeur.
 
 <div class="card card-body my-4">
 

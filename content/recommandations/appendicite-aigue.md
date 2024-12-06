@@ -170,8 +170,8 @@ Chez la femme enceinte: échographie abdominale ou IRM abdominale sans injection
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'appendicite aiguë" %}}
 
+> [!INFO]
 > << L'antibiothérapie seule n'est pas recommandée en première intention dans l'appendicite aiguë non compliquée et le traitement chirurgical reste la prise en charge de référence >>. -- *SFCD 2021*
-{.alert .alert-info}
 
 [Information des parents sur l'appendicite (mpedia)](https://www.mpedia.fr/art-appendicite/?sr=895).
 

@@ -125,8 +125,8 @@ Indications à l'ostéodensitométrie (DXA): corticothérapie systémique ≥ 7,
 {{% /collapse %}}
 {{%collapse "Équivalence des corticoïdes" %}}
 
+> [!INFO]
 > La **dose physiologique** de corticoïde équivaut à 5 mg de prednisone (20 mg d'hydrocortisone).
-{.alert .alert-info}
 
 Les corticoïdes non fluorés (*ex* prednisone) sont utilisés en prise unique matinale. La prednisone a la meilleure biodisponibilité mais la prednisolone présente l'avantage d'une forme soluble pour les enfants et les sujets âgés.
 
@@ -170,8 +170,8 @@ Mesures associées à un traitement corticoïde prolongé:
 {{% /collapse %}}
 {{%collapse "Décroissance des corticoïdes" %}}
 
+> [!INFO]
 > Pour un **traitement corticoïde court** (inférieur à 3-4 semaines, quelle que soit la dose), **aucune décroissance** n'est nécessaire.
-{.alert .alert-info}
 
 **Facteurs de risque d'insuffisance corticotrope:** dose, durée, voie d'administration et puissance du corticoïde et susceptibilité individuelle.
 
@@ -203,8 +203,8 @@ Prise en charge selon le résultat de la **cortisolémie à 8 heures**:
 - Insuffisante (150-300 nmol/L | 5-10 µg/dL): poursuivre la dose physiologique, répéter le dosage après quelques semaines ou mois
 - Basse (< 150 nmol/L | 5 µg/dL): idem et réessayer après quelques mois
 
-Avis endocrinologique en l'absence de restauration de l'axe corticotrope à 1 an.
-{.alert .alert-info}
+> [!INFO]
+> Avis endocrinologique en l'absence de restauration de l'axe corticotrope à 1 an.
 
 > **Ne pas utiliser:** de test de la fonction surrénale tant que les doses sont supraphysiologiques (> 20 mg/j d'hydrocortisone), de test dynamique (test au Synacthène®) systématique, de fludrocortisone pour l'insuffisance surrénale cortico-induite.
 

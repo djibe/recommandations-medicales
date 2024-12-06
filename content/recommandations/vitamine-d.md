@@ -108,7 +108,7 @@ Convertir dans les 2 sens les unités de mesure de la vitamine D: nmol/L (unité
   [Corticoïdes au long cours]({{< relref "corticoides.md" >}}), traitements anti-épileptiques, [anti-aromatases]({{< relref "cancer-sein.md" >}}), analogues de la GnRH.
 - Maladies endocriniennes et dermatologiques: hyperparathyroïdie ...
 - Malabsorption, maldigestion, cholestase, insuffisance hépatique  
-  [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), mucoviscidose, cholangites, [chirurgie bariatrique]({{< relref "obesite-adulte.md" >}}).
+  [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), mucoviscidose, [pancréatite chronique]({{< relref "pancreatite-chronique.md" >}}), cholangites, [chirurgie bariatrique]({{< relref "obesite-adulte.md" >}}).
 - [Maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}), syndrome néphrotique
 - Anorexie mentale
 - Sujets âgés à {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}}
@@ -124,8 +124,8 @@ Convertir dans les 2 sens les unités de mesure de la vitamine D: nmol/L (unité
 {{% /collapse %}}
 {{%collapse "Apports cibles en vitamine D selon l'âge" %}}
 
+> [!INFO]
 > Favoriser les apports naturels en vitamine D: activités de plein air, exposition solaire quotidienne de 30 minutes des bras et jambes (chez l'adulte, sans crème), alimentation variée (dont poissons gras). -- *Annweiler et al 2018*
-{.alert .alert-info}
 
 La supplémentation en vitamine D est prescrite au long cours sans dosage de la vitamine D sauf chez les sujets à risque mentionnés plus haut (voir *Patients à risque*).
 
@@ -163,7 +163,7 @@ Situations pouvant faire contrôler le taux de vitamine D:
 4. Avant et après une [chirurgie bariatrique]({{< relref "obesite-adulte.md" >}})
 5. Personne âgée avec [chutes](/tags/chute/) répétées  
   Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>.
-6. Traitement préconisant une mesure de la vitamine D (ex. [biphosphonate]({{< relref "osteoporose.md" >}}))
+1. Traitement préconisant une mesure de la vitamine D (ex. [biphosphonate]({{< relref "osteoporose.md" >}}))
 
 > -- *HAS 2013* et *Conditions de prise en charge par l'Assurance Maladie*
 
@@ -176,6 +176,7 @@ et aussi
 - Prématuré < 32 SA ou < 1,5 kg (*Bacchetta 2022*)  
   Cible de vitamine D: 50-120 nmol/L.
 - Bilan initial de [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) (*HAS 2023*)
+- Diagnostic et suivi de la [pancréatite chronique]({{< relref "pancreatite-chronique.md" >}}) (*ACG*, *BSG*)
 
 En dehors des 6 indications (+ suppléments), préciser sur l'ordonnance la raison.
 

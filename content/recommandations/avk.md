@@ -50,15 +50,15 @@ NFS-plaquettes, TP, TCA, créatininémie, transaminases.
 - Le plus souvent cible d'INR de 2,5 (2-3)
 - Traitement équilibré: **INR mensuel**
 
-Le traitement peut être arrêté brutalement
-{.alert .alert-info}
+> [!INFO]
+> Le traitement par AVK peut être arrêté brutalement.
 
 {{% /collapse %}}
 {{%collapse "Surdosage en AVK: prise en charge" %}}
 
 Méthodes pour réduire l'INR dans la prise en charge d'un surdosage en AVK: diminuer la dose, sauter une prise et administration orale de 1 mg de vitamine K1.
 
-Nouvel INR le lendemain du diagnostic de surdose avec reconduction identique des mesures ci-dessous tant que l'INR n'est pas dans la cible ET rechercher systématiquement la cause du déséquilibre
+Nouvel INR le lendemain du diagnostic de surdose avec reconduction identique des mesures ci-dessous tant que l'INR n'est pas dans la cible ET rechercher systématiquement la cause du déséquilibre.
 {.alert .alert-info}
 
 ### INR cible entre 2 et 3

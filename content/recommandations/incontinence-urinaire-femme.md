@@ -56,8 +56,8 @@ IUE
 
 ### Interrogatoire
 
+> [!INFO]
 > L'incontinence urinaire est un diagnostic d'interrogatoire: << Vous arrive-t-il d'avoir des pertes ou des fuites d'urine ? >>. -- *Anaes 2003*
-{.alert .alert-info}
 
 - Antécédents  
   Gynéco-obstétricaux (gestité, parité, manœuvres, macrosomie, rééducation), traumatiques, neurologiques, diabète, insuffisance cardiaque, BPCO et toux chronique.
@@ -102,7 +102,7 @@ Les examens complémentaires ne sont pas systématiques pour le bilan de l'incon
 - si suspicion de résidu post-mictionnel (RPM), femme âgée ou anticholinergique envisagé: **échographie vésicale** sus-pubienne avec mesure du RPM
 - **Pad-test** optionnel: peser les protections pour quantifier l'abondance des fuites urinaires
 
-> Pas d'examens spécialisés pendant la grossesse ou dans le postpartum immédiat. Le bilan urodynamique est restreint à l'appréciation de l'urologue.
+Pas d'examens spécialisés pendant la grossesse ou dans le postpartum immédiat. Le bilan urodynamique est restreint à l'appréciation de l'urologue.
 {.alert .alert-info}
 
 {{% /collapse %}}

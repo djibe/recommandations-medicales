@@ -62,8 +62,8 @@ L'âge moyen de début des caractères sexuels secondaires est de **11 ± 2 ans*
 - Filles: **Seins** > Poils pubiens > Menstruations
 - Garçons: **Testicules** (> 4 mL) > Pénis > Poils pubiens
 
-> 30 à 65 % des garçons développent au milieu de la puberté une gynécomastie bilatérale pendant quelques mois
-{.alert .alert-info}
+> [!INFO]
+> 30 à 65 % des garçons développent au milieu de la puberté une gynécomastie bilatérale pendant quelques mois.
 
 ### Abréviations
 

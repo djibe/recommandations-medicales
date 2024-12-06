@@ -126,7 +126,7 @@ Pathologies à étayer devant un tableau de reflux gastro-œsophagien:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Aucun examen complémentaire devant des signes typiques de reflux gastrique et l'absence de signe d'alarme
+Aucun examen complémentaire devant des signes typiques de reflux gastrique et l'absence de signe d'alarme.
 {.alert .alert-info}
 
 ### Indications au bilan exploratoire du reflux gastrique

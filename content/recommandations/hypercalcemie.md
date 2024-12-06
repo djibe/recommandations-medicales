@@ -24,7 +24,7 @@ flowchart = true
 {{%article-summary%}}
 
 - L'hypercalcémie est une calcémie vraie supérieure à 2,6 mmol/L (ou 10,4 mg/dL) ou une calcémie ionisée supérieure à 1,30 mmol/L (5,2 mg/dL)
-- Le dosage de la calcémie doit toujours être accompagné du dosage de l'albuminémie pour le calcul de la calcémie corrigée (voir section dédiée), et/ou doser la calcémie ionisée
+- Le dosage de la calcémie doit toujours être accompagné du dosage de l'albuminémie pour le calcul de la calcémie corrigée (voir section dédiée), et/ou doser la calcémie ionisée (non remboursée en ville)
 - Devant une hypercalcémie, la présence de symptômes, une suspicion de malignité ou l'absence d'électrocardiogramme au cabinet impose la réalisation du bilan initial en urgence (ECG ++) voire appel du SAMU
 - La prise en charge de l'hypercalcémie est urgente si elle est sévère (> 3 mmol/L ou symptomatique) et le traitement est à la fois symptomatique (hyperhydratation, biphosphonates IV) et étiologique
 - Le bilan initial de l'hypercalcémie vraie comporte: PTH, phosphorémie et fonction rénale
@@ -38,7 +38,7 @@ Hypercalcémie
 : Elle est **sévère** au-delà de 3 mmol/L et est une urgence thérapeutique.
 : Une calcémie ionisée > 1,3 mmol/L est toujours pathologique mais la calcémie totale est influencée par l'albuminémie. Le principal réservoir de calcium est osseux.
 
-En contexte de malignité, l'hypercalcémie est légère (< 3 mmol/L), modérée ou sévère (> 3,5 mmol/L).
+En contexte de malignité, l'hypercalcémie est **légère** (< 3 mmol/L), **modérée** ou **sévère** (> 3,5 mmol/L).
 
 ### Abréviations
 
@@ -52,15 +52,15 @@ PTH
 > << Une calcémie ionisée supérieure à 1,3 mmol/L est toujours pathologique (hypercalcémie vraie). >> -- *CUEN 2023*
 {.alert .alert-warning}
 
-Le calcul de la **calcémie corrigée** (valeur de la calcémie totale si l'albuminémie était normale) est systématique pour corriger une fausse hypercalcémie liée à une hypoalbuminémie. Le calcul est inutile lorsque l'on dispose de la **calcémie ionisée**.
+Le calcul de la **calcémie corrigée** (valeur de la calcémie totale si l'albuminémie était normale) est systématique pour corriger une fausse hypercalcémie liée à une hypoalbuminémie. Le calcul est inutile lorsque l'on dispose de la **calcémie ionisée** (non remboursée en ville).
 
 {{< outils/calcemie-corrigee >}}
 
 {{% /collapse %}}
 {{%collapse "Étiologies de l'hypercalcémie" %}}
 
-90% des hypercalcémies sont malignes ou liées à une hyperparathyroïdie primaire.
-{.alert .alert-info}
+> [!INFO]
+> 90% des hypercalcémies sont malignes ou liées à une hyperparathyroïdie primaire.
 
 Les principales étiologies de l'hypercalcémie comprennent:
 
@@ -84,7 +84,7 @@ Les principales étiologies de l'hypercalcémie comprennent:
     Diminution de la mobilité entraînant une libération accrue de calcium des os.
 5. Iatrogénie  
   Vitamine A, vitamine D, diurétiques thiazidiques, lithium, digitaliques.
-1. Post-rhabdomyolyse
+6. Post-rhabdomyolyse
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -133,8 +133,8 @@ Autres éléments à rechercher à l'interrogatoire:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+> [!INFO]
 > << Le bilan d'une hypercalcémie doit donc toujours comporter soit un dosage du calcium ionisé soit un dosage de l'albuminémie permettant de calculer la calcémie corrigée >> -- *CUEN 2023* (voir *Calcul de la calcémie corrigée*)
-{.alert .alert-info}
 
 {{%warning%}}
 

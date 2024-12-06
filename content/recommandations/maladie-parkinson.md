@@ -73,8 +73,8 @@ Hypokinésie
 
 #### Diagnostic différentiel d'un tremblement
 
-La Maladie de Parkinson est la seule cause de tremblement de repos unilatéral (sauf de rares lésions mésencéphaliques)
-{.alert .alert-info}
+> [!INFO]
+> La Maladie de Parkinson est la seule cause de tremblement de repos unilatéral (sauf de rares lésions mésencéphaliques).
 
 - Tremblement postural et d'action
   - **Tremblement essentiel**
@@ -167,8 +167,7 @@ Signes et symptômes devant faire évoquer une autre maladie neurologique:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic de Maladie de Parkinson relève du neurologue.  
-Il est confirmé après plusieurs années devant: l'absence de signes atypiques, une évolution lente et progressive, une réponse à la dopathérapie.
+Le diagnostic de Maladie de Parkinson relève du **neurologue**. Il est confirmé après plusieurs années devant: l'absence de signes atypiques, une évolution lente et progressive, une réponse à la dopathérapie.
 {.alert .alert-info}
 
 L'examen vise à étayer les arguments cliniques en faveur d'une Maladie de Parkinson ou d'un syndrome parkinsonien autre.  
@@ -250,8 +249,8 @@ Le syndrome malin des neuroleptiques provoque: troubles de la conscience, rigidi
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+> [!INFO]
 > << Il n'y a aucun examen paraclinique diagnostique de référence >> (*HAS 2016*) et << Le diagnostic est clinique et ne justifie aucun examen complémentaire >>. (*Collège*)
-{.alert .alert-info}
 
 ### IRM cérébrale
 

@@ -103,8 +103,8 @@ Tableau clinique survenant chez un homme de 30 à 40 ans le plus souvent:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> Prescrire une échographie scrotale bilatérale devant toute anomalie testiculaire
-{.alert .alert-info}
+> [!INFO]
+> Prescrire une échographie scrotale bilatérale devant toute anomalie testiculaire.
 
 ### Bilan d'une tumeur du testicule
 
@@ -122,8 +122,8 @@ Bilan d'une tumeur testiculaire:
 
 Adresser à l'urologue d'un centre de lutte contre le cancer (CLCC) avec les résultats du bilan initial.
 
-L'échographie des testicules est également recommandée devant toute masse rétropéritonéale ou viscérale sans masse testiculaire palpable. (*EAU 2024*)
-{.alert .alert-info}
+> [!INFO]
+> L'échographie des testicules est également recommandée devant toute masse rétropéritonéale ou viscérale sans masse testiculaire palpable. -- *EAU 2024*
 
 {{% /collapse %}}
 {{%collapse "Dépistage du cancer du testicule" %}}

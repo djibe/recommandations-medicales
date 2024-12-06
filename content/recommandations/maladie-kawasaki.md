@@ -99,8 +99,8 @@ La maladie de Kawasaki donne un syndrome inflammatoire non spécifique: polynucl
 Risque d'anévrisme coronaire: 5% si traitement avant 10 jours de fièvre, 15 à 25 % en l'absence de traitement précoce. -- *PNDS*
 {.alert .alert-warning}
 
-La prise en charge de toute suspicion de maladie de Kawasaki est hospitalière en urgence.
-{.alert .alert-info}
+> [!INFO]
+> La prise en charge de toute suspicion de maladie de Kawasaki est hospitalière en urgence.
 
 ### Pour en savoir plus: le traitement de la maladie de Kawasaki
 

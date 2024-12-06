@@ -146,8 +146,8 @@ Si vipère venimeuse: amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 
 {{% /collapse %}}
 {{%collapse "Surveillance du chien après morsure" %}}
 
+> [!INFO]
 > << Un comportement normal et la bonne santé apparente d'un chien n'éliminent pas le risque de contamination rabique. >> -- *Prescrire Redaction*
-{.alert .alert-info}
 
 - Toute morsure par un chien doit être déclarée par son propriétaire à sa mairie de résidence ([annuaire](https://www.service-public.fr/particuliers/vosdroits/F24028))  
   À défaut, par tout médecin ([art. L. 211-14-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022200148))

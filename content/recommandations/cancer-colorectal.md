@@ -260,8 +260,8 @@ Personne réticente au dépistage par test immunologique:
 - Identifier les freins et donner les informations éclairées
 - Rappeler l'enjeu (fréquent et grave) et les qualités du dépistage (performance, simplicité, prélèvement unique)
 
+> [!INFO]
 > << 90% des personnes réalisent le test lorsqu'il est remis par le médecin >> -- *INCa 2020*
-{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Dépistage et suivi des sujets à risque élevé de cancer colorectal" %}}

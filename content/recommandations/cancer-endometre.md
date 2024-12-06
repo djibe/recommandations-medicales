@@ -99,8 +99,8 @@ Signes et symptômes évocateurs à rechercher en cas de suspicion d'un cancer d
   - [Cystites répétées]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
 - +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
-> << Le diagnostic doit également être envisagé devant des métrorragies chez les femmes non ménopausées >> -- *HAS 2010*
-{.alert .alert-info}
+> [!INFO]
+> << Le diagnostic doit également être envisagé devant des métrorragies chez les femmes non ménopausées >>. -- *HAS 2010*
 
 ### Examen clinique
 
@@ -112,8 +112,8 @@ Signes et symptômes évocateurs à rechercher en cas de suspicion d'un cancer d
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> << Contrairement au cancer du col de l'utérus, il n'existe pas de dépistage du cancer de l'endomètre >> -- *HAS 2010*
-{.alert .alert-info}
+> [!INFO]
+> << Contrairement au cancer du col de l'utérus, il n'existe pas de dépistage du cancer de l'endomètre. >> -- *HAS 2010*
 
 ### Échographie pelvienne sus-pubienne et endovaginale
 

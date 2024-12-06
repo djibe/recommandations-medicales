@@ -121,8 +121,8 @@ Le bilan est celui d'une tumeur hépatique:
 
 L'échographie abdominale montre une masse hépatique hyperéchogène homogène (souvent moins de 3 cm) avec renforcement acoustique et contours nets.
 
-Le **diagnostic d'hémangiome hépatique** est échographique si tous les critères sont remplis pour une taille inférieure à 3 cm.
-{.alert .alert-info}
+> [!INFO]
+> Le **diagnostic d'hémangiome hépatique** est échographique si tous les critères sont remplis pour une taille inférieure à 3 cm.
 
 Pas de suivi d'imagerie nécessaire pour un hémangiome typique.
 

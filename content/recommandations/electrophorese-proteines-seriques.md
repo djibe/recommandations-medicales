@@ -83,8 +83,8 @@ Bilan minimal de première intention en présence d'un pic monoclonal d'immunogl
 
 > -- *HAS 2017*
 
-Le dosage des chaînes légères libres relève du spécialiste et n'est pas remboursé en ville
-{.alert .alert-info}
+> [!INFO]
+> Le dosage des chaînes légères libres relève du spécialiste et n'est pas remboursé en ville.
 
 {{% /collapse %}}
 {{%collapse "Qui adresser à l'hématologue ?" %}}

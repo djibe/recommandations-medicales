@@ -146,7 +146,7 @@ L'*infertilité* est le plus souvent définitive mais pas toujours (4-10% de gro
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-En première intention, dosage de la bêta-HCG seule avec un bilan complémentaire si négative.
+En première intention, bêta-HCG seule avec bilan complémentaire si négative.
 {.alert .alert-info}
 
 ### Bilan d'une ménopause précoce
@@ -185,8 +185,8 @@ Voir les [indications au traitement selon T-score et FRAX]({{< relref "osteoporo
 {{% /collapse %}}
 {{%collapse "Traitement de la ménopause précoce" %}}
 
-> Le traitement hormonal substitutif (THS) utilisé pour la ménopause précoce (spontanée, non iatrogène) n'augmente pas le risque de [cancer du sein]({{< relref "cancer-sein.md" >}}). (56-79% des patientes le croient -- *HAS 2021*)
-{.alert .alert-info}
+> [!INFO]
+> Le traitement hormonal substitutif (THS) utilisé pour la ménopause précoce (spontanée, non iatrogène) n'augmente pas le risque de [cancer du sein]({{< relref "cancer-sein.md" >}}). (56 à 79% des patientes le croient -- *HAS 2021*)
 
 Prise en charge de l'insuffisance ovarienne prématurée (IOP ou ménopause précoce) dans un [Centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/):
 

@@ -133,8 +133,8 @@ La prise en charge de la bursite (hors bursite septique) est symptomatique:
 
 En cas de suspicion de **bursite septique** (genou, coude ou sepsis): avis spécialisé en **urgence** pour prélèvements cyto-bactériologiques et antibiothérapie anti-staphylococcique (préférable en IV initialement, C1G ou pénicilline résistante aux pénicillinases). L'**hospitalisation** dépend du terrain et du tableau clinique.
 
+> [!INFO]
 > Les infiltrations de corticoïdes intra-bursiennes n'ont pas prouvé leur efficacité pour les bursites liées à des chocs répétés.
-{.alert .alert-info}
 
 ### Chirurgie de la bursite
 

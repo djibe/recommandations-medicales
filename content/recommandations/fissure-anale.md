@@ -66,8 +66,8 @@ SNFCP
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Des fissures latérales ou multiples sont atypiques et nécessitent un avis spécialisé (évocatrices de VIH, Crohn, syphilis, tuberculose ou hémopathie)
-{.alert .alert-info}
+> [!INFO]
+> Des fissures anales latérales ou multiples sont atypiques et nécessitent un avis spécialisé (évocatrices de VIH, Crohn, syphilis, tuberculose ou hémopathie).
 
 ### Interrogatoire
 
@@ -112,8 +112,8 @@ Le traitement et la prise en charge des fissures anales est hygiéno-diététiqu
 
 ### Pour en savoir plus: traitement des fissures anales chroniques
 
-Le traitement des fissures anales chroniques est spécialisé avec une prise en charge adaptée par le proctologue
-{.alert .alert-info}
+> [!INFO]
+> Le traitement des fissures anales chroniques relève d'une prise en charge proctologique.
 
 La prise en charge chronique peut être: trinitrine topique (voir ci-dessus, peut réduire de moitié le recours à la chirurgie), inhibiteur calcique topique (diltiazem ou nifédipine Nifexine®), toxine botulique type A.
 

@@ -78,7 +78,7 @@ HAS
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Tout consommateur chronique de BZD est exposé en cas d'arrêt brutal accidentel ou non (oubli, hospitalisation...) à un risque de syndrome de sevrage
+Tout consommateur chronique de BZD est exposé en cas d'arrêt brutal accidentel ou non (oubli, hospitalisation...) à un risque de syndrome de sevrage.
 {.alert .alert-info}
 
 - Traitements en cours
@@ -209,7 +209,7 @@ Dr ...
 
 > -- *HAS 2015*
 
-L'essai EMPOWER a démontré l'effet de l'intervention brève sur l'arrêt à 6 mois: 77 % de sevrage versus 5 % dans le groupe contrôle.
+L'essai EMPOWER a démontré l'effet de l'intervention brève sur l'arrêt à 6 mois: 77% de sevrage versus 5% dans le groupe contrôle.
 {.alert .alert-info}
 
 ### Calendrier de suivi de l'arrêt des benzodiazépines

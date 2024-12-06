@@ -152,8 +152,8 @@ Les laxatifs par voie rectale (lavements et suppositoires) sont recommandés en 
 - Traitement spécialisé: **toxique botulique** du sphincter anal
 - La chirurgie (colectomie) est exceptionnelle et relève d'un centre expert
 
+> [!INFO]
 > **Probiotiques** et **thérapies non médicamenteuses**: << Il n'existe pas de preuve convaincante de l'efficacité de ces thérapies dans le traitement de la constipation chronique (*SNFGE 2018*). Ils peuvent être recommandés chez des sujets en échec ayant une forte << sensibilité >> et << confiance >> dans de telles approches (*SNFCP*)
-{.alert .alert-info}
 
 #### Les laxatifs de deuxième intention
 

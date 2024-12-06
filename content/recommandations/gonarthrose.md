@@ -186,8 +186,8 @@ Absence de syndrome inflammatoire au cours de la gonarthrose. En imagerie, la do
 {{% /collapse %}}
 {{%collapse "Traitement de la gonarthrose" %}}
 
-> Aucun traitement ne ralentit la perte du cartilage (chondroprotecteur). -- *SFRhumato 2020*
-{.alert .alert-info}
+> [!INFO]
+> Aucun traitement ne ralentit la perte du cartilage (chondroprotecteur). (*SFRhumato 2020*)
 
 ### Traitements de la gonarthrose fémoro-tibiale
 
