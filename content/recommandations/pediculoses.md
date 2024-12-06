@@ -3,20 +3,20 @@ id = "0190e8c9-f9f2-7619-a38d-b5910ea0d257"
 title = "Pédiculoses (poux)"
 prefix = "les "
 description = "Recommandations pour le diagnostic et la prise en charge des poux. Peigne anti-poux, lotion de diméticone et examen de l'entourage pour décontamination"
-synonyms = []
+synonyms = ["Poux de tête, de corps", "poux de cils et pubis (phtyriase ou pthirose)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-18T18:48:00+02:00"
 publishdate = "2021-04-21"
-lastmod = "2024-11-15"
-specialites = ["dermatologie"]
-annees = "2023"
-sources = ["Collèges", "CSHP", "SFD"]
+lastmod = "2024-12-06"
+specialites = ["dermatologie", "infectiologie"]
+annees = "2024"
+sources = ["HAS", "CSHP", "SFD"]
 tags = ["prurit"]
 english = ["Pediculosis", "head lice"]
 sctid = "20848007"
 icd10 = ["B85", "B85.2"]
 image = true
-imageSrc = "Poux extrait du crâne. CC BY-SA 3.0 via Wikimedia Commons"
+imageSrc = "Poux de tête extraits du crâne. CC BY-SA 3.0 via Wikimedia Commons"
 todo = "rankok, modèle école"
 flowchart = true
 modele = true
@@ -24,12 +24,12 @@ modele = true
 
 {{%article-summary%}}
 
-- Le diagnostic de pédiculose est clinique avec la visualisation des lentes à la racine des cheveux ou des poils
+- Le diagnostic de pédiculose est clinique avec la visualisation des lentes à la racine des cheveux, des poils ou des cils
 - Les poux sont très rarement visibles
 - Examen et prise en charge de l'entourage d'un cas de pédiculose
-- Prise en charge des poux avec traitement par diméticone lotion appliquée à J1 et J7, peigne anti-poux et décontamination des linge, literie et accessoires
+- Prise en charge des poux de tête avec traitement par diméticone lotion appliquée à J1 et J7, peigne anti-poux et décontamination des linge, literie et accessoires
 - Prévenir l'école d'un cas de pédiculose mais sans éviction obligatoire
-- Les poux de cils sont ceux de la phtyriase pubienne et donc considérés comme infection sexuellement transmissible 
+- Les poux de cils sont ceux de la phtyriase pubienne et donc considérés comme infection sexuellement transmissible (signalement chez l'enfant)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -44,7 +44,7 @@ Autres pédiculoses:
 
 - Poux de corps: *Pediculus humanus corporis*  
   Peuvent transmettre des infections.
-- Poux du pubis et des cils: *phtiriase* par *Phtirus pubis* (ou *Pediculus inguinalis* ou *Phtirius inguinalis* ou communément << morpions >>)  
+- Poux de pubis et des cils: *phtiriase* par *Phtirus pubis* (ou *Pediculus inguinalis* ou *Phtirius inguinalis* ou pthirose ou communément << morpions >>)  
   [Infection sexuellement transmissible (IST)](/tags/ist/) voire contamination par des vêtements ou une literie infectée.
 
 ### Abréviations
@@ -57,6 +57,9 @@ CMIT
 
 CSHP
 : Conseil Supérieur d'Hygiène Publique de France
+
+HAS
+: Haute Autorité de Santé
 {.dl-inline}
 
 {{% /collapse %}}
@@ -66,7 +69,7 @@ CSHP
 > Le diagnostic de pédiculose est clinique par visualisation de lentes vivantes à la racine des cheveux.
 
 - Symptômes de pédiculose
-  - [Prurit](/tags/prurit/) (50-60%)
+  - **[Prurit](/tags/prurit/)** (+50 %)
   - Excoriations
   - [Impétigo cervical]({{< relref "infection-cutanee-bacterienne.md" >}})
   - Adénopathies
@@ -77,7 +80,7 @@ CSHP
   Dos, ceinture et racine des membres. Vivent dans les vêtements (coutures +++).
 - Contage familial ou scolaire
 
-La phtiriase pubienne (ou morpions) et des cils est une infection sexuellement transmissible ([IST](/tags/ist/)).
+La **phtiriase pubienne** (ou morpions) et **des cils** est une infection sexuellement transmissible ([IST](/tags/ist/)).
 
 {{< card-link-external title="Photos de poux" url="https://dermnetnz.org/topics/head-lice" subtitle="par DermNet">}}
 
@@ -135,13 +138,23 @@ Nota bene:
 - Ne jamais utiliser les shampooings
 - L'ivermectine orale est réservée au dermatologue
 
-### Prise en charge d'une phtiriase pubienne
+### Prise en charge d'une phtiriase pubienne ou des cils
 
-Prise en charge de la phtiriase pubienne et des cils:
+Prise en charge de la phtiriase pubienne et des cils (*HAS 2024*):
 
-- Perméthrine (Topiscab® 5% crème) pendant 1 minute puis savonnage. Renouveler à J8
+- Perméthrine crème 5% ([Topiscab®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61712553&typedoc=R)) sur les zones atteintes. Rincer après 10 minutes. Renouveler à J7-10 (possible pendant la grossesse)
+- ou diméticone lotion 1 application. Rincer après 10-15 minutes. Renouveler à J7-10 (possible pendant la grossesse)
+- En cas d'échec:
+  - Essayer l'autre traitement (perméthrine - diméticone), vérifier l'auto-réinfestation ou par le partenaire
+  - 3^e^ ligne ou forme profuse: [ivermectine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67988035&typedoc=R) 200 µg/kg (min 15 kg) dose unique 2h après le repas, renouveler à J7-10
+- Atteinte ciliaire:
+  - Retrait manuel puis vaseline 1 application x 2/j pendant 10 jours
+  - Si échec: ivermectine comme ci-dessus
 - Examiner et traiter simultanément l'entourage atteint
-- Dépistage des [infections sexuellement transmissibles (IST)](/tags/ist/) ou violences sexuelles chez l'enfant
+- Rasage/épilation des zones atteintes
+- Mesures associées aux poux de tête (extraction, linge, contrôle de guérison ...)
+- Dépistage des [infections sexuellement transmissibles (IST)](/tags/ist/) ou signalement chez l'enfant
+- Santé sexuelle, violences
 
 En cas de suspicion d'atteinte des cils: avis ophtalmologique.
 
@@ -158,6 +171,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, ANRS, CNS. Prise en charge du patient atteint de pthirose. 2024.](https://www.has-sante.fr/jcms/p_3562447/fr/prise-en-charge-du-patient-atteint-de-pthirose)
 - [Ameli. Poux : comment s'en débarrasser ? 06/12/2023.](https://www.ameli.fr/assure/sante/themes/poux/bons-reflexes)
 - [Collège des enseignants de dermatologie de France (CEDEF). Ectoparasitoses cutanées : gale et pédiculose. Item 171. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-171-%E2%80%94-Ectoparasitoses-cutanees-gale-et-pediculose_CompressPdf.pdf)
 - [CMIT. Gale et pédiculose. Item 171. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-171.pdf)
@@ -169,8 +183,7 @@ graph TB
 
 ### Bibliographie pour en savoir plus
 
-- [HAS, ANRS, CNS. Prise en charge du patient atteint de phtirose. 2024.](https://www.has-sante.fr/jcms/p_3562447/fr/prise-en-charge-du-patient-atteint-de-pthirose)
-- [Salavastru C, et al. European guideline for the management of pediculosis pubis. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14420)
+[Salavastru C, et al. European guideline for the management of pediculosis pubis. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14420)
 
 {{%/sources%}}
 {{% modele %}}
