@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-14T19:48:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2024-04-26"
+lastmod = "2024-12-11"
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
 annees = "2023"
 sources = ["CMIT", "SPILF", "MinSanté"]
@@ -133,7 +133,7 @@ Ulcérations pseudo-membraneuses et vésicules de l'hémilangue.
 
 ### Vaccination contre le zona
 
-> Shingrix n'est ni disponible en ville ni remboursé: Shingrix 2 injections IM espacées de 2 mois.
+> Shingrix 2 injections IM espacées de 2 mois.
 {.alert .alert-info}
 
 Double dose chez les +65 immunocompétent (y compris en cas d'antécédents de zona, de Zostavax > 1 an) à M0-M2. Le *GOLD 2022* propose aussi de vacciner en cas de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}).

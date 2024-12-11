@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-17T11:25:20+01:00"
 publishdate = "2023-01-19"
-lastmod = "2024-05-06"
+lastmod = "2024-12-06"
 specialites = ["urologie"]
 annees = "2024"
 sources = ["EAU", "HAS", "SFD"]
@@ -23,6 +23,8 @@ todo = "SEO, Balanite et balano-posthite, dépistages Ct homme | neisseria menin
 
 {{%article-summary%}}
 
+- L'urétrite est une inflammation de l'urètre le plus souvent infectieuse, donnant des douleurs mictionnelles et/ou un écoulement purulent
+- L'orchi-épididymite est une infection sur le trajet des testicules, par infection sexuelle ou parfois par une bactérie digestive à partir de 35 ans
 - Prélèvements devant une suspicion d'infection génitale masculine: PCR urine premier jet *Chlamydia*, gonocoque et *M. genitalium*, prélèvement d'un écoulement urétral, ECBU sur urine de milieu de jet, frottis endo-urétral si absence de PCR ou PCR gonocoque+
 - Prise en charge de l'urétrite: Ceftriaxone 1g IM dose unique  
   \+ doxycycline 100 mg x 2/j pendant 7 jours OU azithromycine 1g dose unique
@@ -62,7 +64,7 @@ UNG
 {{%collapse "Urétrite" %}}
 
 Urétrite
-: Inflammation de l'urètre le plus souvent par une [infection sexuellement transmissible (IST)](/tags/ist/): *Neisseria gonorrhoeae* (gonorrhée, gonococcie, blennorragie ou << chaude-pisse >> avec incubation 2-5 jours), *Chlamydia trachomatis* et *Mycoplasma genitalium* (20%), poly-infection dans 10-50% des cas avec un risque d'épididymite. *Trichomonas vaginalis* et *Ureaplasma urealyticum* sont rares et aucun germe n'est retrouvé dans 35% des cas.
+: Inflammation de l'urètre le plus souvent par une [infection sexuellement transmissible (IST)](/tags/ist/): *Neisseria gonorrhoeae* (gonorrhée, gonococcie, blennorragie ou << chaude-pisse >> avec incubation 2-5 jours), *Chlamydia trachomatis* et *Mycoplasma genitalium* (20%), poly-infection dans 10 à 50% des cas avec un risque d'épididymite. *Trichomonas vaginalis* (IST) et *Ureaplasma urealyticum* sont plus rares et aucun germe n'est retrouvé dans 35% des cas.
 : Sur-représentation des [HSH]({{< relref "hsh.md" >}}) et [séropositifs VIH]({{< relref "vih-sida.md" >}}).
 : Critères diagnostiques cytologiques chez un homme sans miction depuis au moins 2 heures: ≥ 5 PNN au frottis (grossissement 100), ≥ 10 PNN sur premier jet centrifugé (grossissement 400).
 : Urétrite non-gonococcique **persistante**: absence d'amélioration à 4 semaines du traitement.
@@ -88,6 +90,8 @@ Prélèvements au laboratoire:
 - ECBU sur urine de milieu de jet
 - Bilan des autres [infections sexuellement transmissibles (IST)](/tags/ist/)
 - Information du patient (non gonococcique): [Guide patient l'IUSTI (PDF)](https://iusti.org/wp-content/uploads/2019/11/NGU_French-translation.pdf).
+
+Si bilan initial anormal: recherche de *Trichomonas vaginalis* (prélèvement d'écoulement ou 1^er^ jet d'urines -- Sensibilité 38-65 %).
 
 ### Prise en charge de l'urétrite
 
@@ -165,9 +169,13 @@ Traitement par germe selon *EAU 2024*:
 - *Ureaplasma urealyticum*
   - Doxycycline 100 mg x 2/j pendant 7 jours
   - Voire azithromycine 1 - 1,5 g dose unique
-- *Trichomonas vaginalis*
-  - Métronidazole 2g dose unique + tinidazole (Fasigyne®) 2g dose unique
-  - Voire métronidazole 500 mg x 2/j pendant 7 jours
+- *Trichomonas vaginalis* (*HAS 2024*)
+  - Métronidazole 500 mg x 2/j pendant 7 jours
+  - Si observance médiocre: métronidazole 2g dose unique  
+    ou secnidazole 2g dose unique
+  - Si pénurie: tinidazole 2g dose unique
+  - 2^e^ ligne: répéter le métronidazole 500 mg x 2/j pendant 7 jours
+  - Si résistance aux 5-nitroimidazolés: métronidazole 1 g x 2/j pendant 7 jours
 - Non identifié: doxycycline 100 mg x 2/j pendant 7 jours
 
 </div>
@@ -278,15 +286,16 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 {{% /collapse %}}
 {{%sources%}}
 
-- [Bonkat G et al. EAU guidelines on urological infections. 2024.](https://uroweb.org/guidelines/urological-infections)
+- [HAS, ANRS, CNS. Prise en charge du patient atteint d'infection à trichomonas vaginalis. 2024.](https://www.has-sante.fr/jcms/p_3562494/fr/prise-en-charge-du-patient-atteint-d-infection-a-trichomonas-vaginalis)
+- [Bonkat G, et al. EAU guidelines on urological infections. 2024.](https://uroweb.org/guidelines/urological-infections)
 - [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-162.pdf)
 - [CMIT, SFMTSI, SPILF, SMV. Écoulement urétral chez l'homme. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - {{< references/spilf-2020 >}}
-- [Gerhardt P et al; Société Française de Dermatologie (SFD). Urétrite masculine. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/uretrite-masculine-61ed71f0cf1553f5b94bbb4214d5905e.pdf)
-- [Janier M et al; Société Française de Dermatologie (SFD). Orchiépididymite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/orchiepididymite-e11608a96bbf138a1ce4045e283aa71a.pdf)
-- [Alcaraz I et al; Société Française de Dermatologie (SFD). Trichomonose. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/trichomonose-c45b526c66838139b708515093a8be44.pdf)
-- [Alcaraz I et al; Société Française de Dermatologie (SFD). Mycoplasmes génitaux. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/mycoplasmes-genitaux-6e4ae5d4b4748a07c993deaa05dbbb86.pdf)
+- [Gerhardt P, et al; Société Française de Dermatologie (SFD). Urétrite masculine. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/uretrite-masculine-61ed71f0cf1553f5b94bbb4214d5905e.pdf)
+- [Janier M, et al; Société Française de Dermatologie (SFD). Orchiépididymite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/orchiepididymite-e11608a96bbf138a1ce4045e283aa71a.pdf)
+- [Alcaraz I, et al; Société Française de Dermatologie (SFD). Trichomonose. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/trichomonose-c45b526c66838139b708515093a8be44.pdf)
+- [Alcaraz I, et al; Société Française de Dermatologie (SFD). Mycoplasmes génitaux. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/mycoplasmes-genitaux-6e4ae5d4b4748a07c993deaa05dbbb86.pdf)
 
 ### Bibliographie en attente
 

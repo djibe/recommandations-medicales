@@ -671,6 +671,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Ciangura C, et al. Clinical Practice Guidelines for Childbearing Female Candidates for Bariatric Surgery, Pregnancy, and Post-partum Management After Bariatric Surgery. OBES SURG. 2019.](https://link.springer.com/article/10.1007/s11695-019-04093-y)
 - [Faculty of Sexual and Reproductive Healthcare (FSRH). FSRH CEU Guidance: Recommended Actions after incorrect Use of Combined Hormonal Contraception (e.g. late or missed pills, ring and patch). 2020.](https://www.fsrh.org/Public/Documents/fsrh-ceu-guidance-recommended-actions-after-incorrect-use.aspx)
 - [Faculty of Sexual and Reproductive Healthcare (FSRH). FSRH Clinical Guideline: Quick Starting Contraception. 2017.](https://www.fsrh.org/Public/Documents/fsrh-clinical-guidance-quick-starting-contraception-april-2017.aspx)
 - [Faculty of Sexual and Reproductive Healthcare (FSRH). FSRH Guidelines & Statements.](https://www.fsrh.org/Public/Public/Standards-and-Guidance/fsrh-guidelines-and-statements.aspx)

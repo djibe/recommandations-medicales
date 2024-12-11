@@ -199,7 +199,8 @@ L'extraction de cérumen (CAGD001) à 19,25€ n'a pas d'intérêt.
 
 ### Bibliographie en attente
 
-[Suhard V. Historique des conventions médicales. IRDES. 2022. (PDF)](https://www.irdes.fr/documentation/syntheses/historique-des-conventions-medicales.pdf)
+- G, APC, MHP, [Article 50 (PDF)](https://www.fmfpro.org/wp-content/uploads/2024/12/Article_50.pdf)
+- [Suhard V. Historique des conventions médicales. IRDES. 2022. (PDF)](https://www.irdes.fr/documentation/syntheses/historique-des-conventions-medicales.pdf)
 
 {{% modal title="Echelle de depression de Hamilton" id="modal-hamilton"%}}
 

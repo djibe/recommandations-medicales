@@ -121,6 +121,7 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 </div>
 <div aria-labelledby="tab-70" class="tab-pane fade" id="div-70" role="tabpanel">
 
+- {{< modal-btn modal-mna >}}Dépister la dénutrition{{< /modal-btn >}}
 - [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}}): [grille d'Amsler](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/grille_damsler.pdf)
 - Problèmes de mémoire, orientation
 - Autonomie
@@ -194,6 +195,11 @@ Un médecin peut apparaître dans l'annuaire de *Sante.fr* s'il souhaite réalis
 - [Mon Bilan Prévention](https://monbilanprevention.sante.gouv.fr)
 
 {{%/sources%}}
+{{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
+
+{{< scores/mna >}}
+
+{{% /modal %}}
 {{% modal title="Test de l'acuité visuelle de Monoyer" id="modal-monoyer"%}}
 
 {{< clinique/monoyer >}}

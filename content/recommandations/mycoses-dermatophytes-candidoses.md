@@ -591,4 +591,6 @@ graph TB
 - [CBIP. Candidose oropharyngée.](https://www.cbip.be/fr/chapters/12?frag=8001208)
 - CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2023. (PDF)
 
+Mots-clé: pitiriasis
+
 {{%/sources%}}

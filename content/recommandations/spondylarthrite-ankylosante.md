@@ -402,7 +402,8 @@ graph TB
 
 ### Bibliographie en attente
 
-[Sayed D, et al. American Society of Pain and Neuroscience Best Practice (ASPN) Guideline for the Treatment of Sacroiliac Disorders. J Pain Res. 2024.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38716038/)
+- [Bittar M, Deodhar A. Axial Spondyloarthritis: A Review. JAMA. 2024.](https://jamanetwork.com/journals/jama/article-abstract/2827540)
+- [Sayed D, et al. American Society of Pain and Neuroscience Best Practice (ASPN) Guideline for the Treatment of Sacroiliac Disorders. J Pain Res. 2024.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38716038/)
 
 {{%/sources%}}
 {{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}

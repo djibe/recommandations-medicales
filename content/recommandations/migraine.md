@@ -221,7 +221,7 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
     Fatigue, humeur exaltée ou dépressive.
   - Aura
   - Facteurs déclenchants identifiés  
-    Menstruations, alcool. Souvent confondus avec les prodromes (osmophobie, phonophotophobie).
+    Chaleur, menstruations, alcool. Souvent confondus avec les prodromes (osmophobie, phonophotophobie).
 - Critères diagnostiques ICHD-3 de la migraine (voir chapitre dédié)
 - Antimigraineux
   - Traitements déjà essayés, crise/fond, efficacité, observance, tolérance, doses, durées, raison de l'arrêt
@@ -582,6 +582,7 @@ graph TB
 - Prescrire Redaction. Migraine : prévention des crises chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face. 2019.](https://www.cen-neurologie.fr/second-cycle/migraine-nevralgie-du-trijumeau-algies-face)
 - [Lanteri-Minet M et al. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant. Revue Neurologique. 2013. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20sur%20la%20prise%20en%20charge%20diagnostique%20et%20th%C3%A9rapeutique%20de%20la%20migraine%20chez%20l%2527adulte%20et%20chez%20l%2527enfant%20(1).pdf)
+- [Mukamal KJ, et al. Weather and air pollution as triggers of severe headaches. Neurology. 2009.](https://pubmed.ncbi.nlm.nih.gov/19273827/)
 - [Anaes. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant : aspects cliniques et économiques. Recommandations de bonne pratique. 2002.](https://www.has-sante.fr/jcms/c_272212/fr/prise-en-charge-diagnostique-et-therapeutique-de-la-migraine-chez-l-adulte-et-chez-l-enfant-aspects-cliniques-et-economiques)
 - [ICHD-3 version française 2019 (PDF)](https://ichd-3.org/wp-content/uploads/2019/06/ICHD3-traduction-fran%C3%A7aise-VF-%C3%A0-publier.pdf)
 
