@@ -8,29 +8,32 @@ synonyms = ["Herpès labial", "gingivo-stomatite herpétique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-10-11T15:59:14+02:00"
 publishdate = "2024-10-25"
-lastmod = "2024-10-25"
+lastmod = "2024-12-13"
 specialites = ["dermatologie", "gynecologie-obstetrique", "infectiologie", "urologie"]
-annees = "2023"
-sources = ["CMIT", "SFD", "Anaes"]
-tags = ["douleur pelvienne", "eruption febrile", "grossesse", "HSH", "IST"]
+annees = "2024"
+sources = ["HAS", "CMIT", "SFD", "Anaes"]
+tags = ["douleur pelvienne", "eruption febrile", "grossesse", "HSH", "IST", "VIH"]
 english = ["Herpesvirus infection", "Herpes labialis", "genital herpes"]
 sctid = "23513009"
 icd10 = ["B00", "B00.9", "O26.4", "A60", "A60.9", "H19.1"]
 image = true
 imageSrc = "Récidive d'herpès labial typique de la lèvre inférieure. This image is a work of the Centers for Disease Control and Prevention, part of the United States Department of Health and Human Services, taken or made as part of an employee's official duties. As a work of the U.S. federal government, the image is in the public domain."
 todo = "rankok, flowchart grossesse x 2 | kératite herpétique clinique, Ramsay Hunt, immunodéprimé"
+modele = true
 +++
 
 {{%article-summary%}}
 
 Ces recommandations concernent le sujet immunocompétent.
 
-- L'herpès est une infection virale dont la primo-infection est le plus souvent asymptomatique et reste latente toute la vie avec des récurrences variables. Plus de 80% de la population est infectée par HSV-1 et 15% par HSV-2
+- L'herpès est une infection virale dont la primo-infection est le plus souvent asymptomatique et reste latente toute la vie avec des récurrences variables. L'herpès est grave chez l'immunodéprimé. Plus de 80% de la population est infectée par HSV-1 et 15% par HSV-2
 - L'herpès oro-facial est l'atteinte la plus fréquente avec des récurrences sous forme de << bouton de fièvre >>, traitées par aciclovir crème. Une primo-infection symptomatique donne une gingivostomatite herpétique
-- L'herpès génital altère la qualité de vie. Le traitement antiviral est urgent par valaciclovir 500 mg x 2/j pendant 5 jours (10 jours durant la primo-infection). Le risque est une récidive pendant la grossesse à risque d'herpès néonatal
+- L'herpès génital altère la qualité de vie et associé à un surrisque de contamination par le VIH
+  - Le traitement antiviral est urgent: valaciclovir sur une seule journée (5 jours pour la primo-infection; voir le *modèle* ou la section *Traitement*)
+  - Pendant la grossesse: posologie standard pour la primo-infection, valaciclovir 500 mg x 2/j pendant 3 jours pour la récurrence et traitement suppressif de 36 SA (32 si gémellaire) jusqu'à l'accouchement par valaciclovir 500 mg x 2/j
+  - Proposer la sérologie VIH et rechercher des violences et autres infections sexuelles
 - L'herpès néonatal survient le plus souvent en l'absence de connaissance maternelle d'un herpès génital, c'est une urgence vitale
 - Le diagnostic biologique de l'herpès est nécessaire en cas de: herpès génital, atteinte génitale pendant la grossesse, présentation atypique ou complications
-- L'herpès est grave chez l'immunodéprimé
 - Mesures d'hygiène: ne pas toucher les lésions, lavage des mains, éviter le contact avec les atopiques. Les corticoïdes par voie générale sont toujours contre-indiqués
 
 {{%/article-summary%}}
@@ -76,6 +79,9 @@ CNPU
 EVA
 : excrétion virale asymptomatique
 
+HAS
+: Haute Autorité de Santé
+
 HG
 : herpès génital
 
@@ -87,17 +93,23 @@ HSV-1
 
 HSV-2
 : Herpes simplex virus 2 (ou HSV2)
+
+IST
+: infections sexuellement transmissibles
+
+PVVIH
+: personne vivant avec le VIH
 {.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 > [!INFO]
-> << Il persiste un haut risque de contagiosité jusqu'à cicatrisation des lésions. >>  -- *SFD 2016*
+> << Il persiste un haut risque de contagiosité jusqu'à la cicatrisation des lésions. >>  -- *HAS 2024*
 
 ### Interrogatoire
 
-- Antécédents: herpès et [infections sexuellement transmissibles](/tags/ist/) (IST), lésions génitales, dermatose, immunodépression
+- Antécédents: herpès et [infections sexuellement transmissibles](/tags/ist/) (IST), lésions génitales, dermatose, **immunodépression**
 - Traitements en cours
 - Derniers bilans IST
 - Partenaires multiples et symptômes chez les partenaires
@@ -105,10 +117,11 @@ HSV-2
 - Date de début des symptômes et prodromes
 - Éruption vésiculeuse en bouquets
 - Examen des autres muqueuses et neurologique
+- Atteinte génitale: [repérage de violences]({{< relref "violences-femmes.md" >}})
 
-> Durant la primo-infection herpétique symptomatique, l'évolution se fait sur 7 à 14 jours. La cicatrisation complète est spontanée sous 4 à 6 semaines.
+> Durant la primo-infection herpétique symptomatique, l'évolution se fait sur 7 à 14 jours. La cicatrisation complète (sans cicatrices) est spontanée sous 4 à 6 semaines.
 
-### Herpès oro-facial
+### A) Clinique de l'herpès oro-facial
 
 Tableau de la **gingivostomatite herpétique** lors de la primo-infection symptomatique:
 
@@ -120,7 +133,7 @@ Tableau de la **gingivostomatite herpétique** lors de la primo-infection sympto
 
 Diagnostic différentiel des récidives d'herpès oro-facial: [impétigo]({{< relref "infection-cutanee-bacterienne.md" >}}), [acné]({{< relref "acne.md" >}}), [furoncle]({{< relref "infection-cutanee-bacterienne.md" >}}), eczéma, [perlèche]({{< relref "mycoses-dermatophytes-candidoses.md" >}}).
 
-### Herpès génital
+### B) Clinique de l'herpès génital
 
 Les femmes sont atteintes plus fréquemment et plus sévèrement au niveau génital. Les lésions augmentent le risque de transmission des [IST](/tags/ist/).
 
@@ -239,19 +252,42 @@ Prévention de l'herpès néonatal: préservatif (surtout au 3^e^ trimestre si H
 
 Prise en charge de l'herpès génital:
 
-- En cas de **grossesse**: voir plus bas *[Herpès néonatal](#herpès-néonatal)*
-- **Primo-infection**  
-  [Aciclovir 200 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61683272&typedoc=R) x 5/j pendant 10 jours  
-  ou ==[valaciclovir 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68070731&typedoc=R) x 2/j pendant 10 jours==
-- **Récurrence**, dès l'apparition des prodromes (efficacité pour épisodes importants ou prolongés):  
-  Aciclovir 200 mg x 5/j pendant 5 jours  
-  ou ==valaciclovir 500 mg x 2/j pendant 5 jours==
-- Prophylaxie antivirale si ≥ 6 récidives annuelles:  
-  valaciclovir 500 mg/j pendant au moins 1 an (puis réévaluation annuelle).
+- **Primo-infection**: ==[valaciclovir 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68070731&typedoc=R) x 2/j pendant 5 jours==
+  - Traitement identique et immédiat pendant la **grossesse** ou PVVIH
+  - Immunodéprimé ou PVVIH CD4 < 200/mm³: valaciclovir 2 x 500 mg x 2/j pendant 10 jours
+  - 2^e^ intention: [aciclovir 200 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61683272&typedoc=R) x 5/j pendant 5 jours  
+  400 mg x 5/j 10j si immunodéprimé ou PVVIH CD4 < 200/mm³.
+- **Récurrence** (dès l'apparition des prodromes): ==valaciclovir 4 x 500 mg espacés de 12 heures sur une seule journée==
+  - Pendant la **grossesse**: valaciclovir 500 mg x 2/j pendant 3 jours ou aciclovir 200 mg x 5/j pendant 5 jours
+  - Immunodéprimé ou PVVIH CD4 < 200/mm³: valaciclovir 2 x 500 mg x 2/j pendant au-moins 5 jours ou jusqu'à cicatrisation des lésions  
+    2^e^ intention: aciclovir 400 mg x 5/j ou famciclovir 500 mg x 2/j pendant au-moins 5 jours
+  - 2^e^ intention: aciclovir 800 mg x 3/j pendant 2 jours ou valaciclovir 500 mg x 2/j pendant 3 jours ou famciclovir 1g x 2/j pendant 1 jour
+- Si **grossesse**: traitement suppressif de 36 SA (32 si gémellaire) jusqu'à l'accouchement: aciclovir 2 x 200 mg x 3/j ou valaciclovir 500 mg x 2/j
+- Sérologie VIH
 
 Sérologie du partenaire et avis spécialisé si séronégatif.
 
-> -- *SFD 2016*
+> -- *HAS 2024* et *SFD 2016*
+
+### Prophylaxie antiherpétique
+
+Indications à la prophylaxie antivirale pour l'herpès génital:
+
+- Au moins 4 à 6 récidives annuelles
+- Altération importante de la qualité de vie
+- Risque de transmission au partenaire
+- Épisodes sévères
+
+Schéma de prophylaxie antivirale de l'herpès génital: ==valaciclovir 500 mg x 1/j pendant au moins 6 à 12 mois== (puis réévaluation au moins annuelle).
+
+#### Précisions sur la prophylaxie antivirale
+
+- En cas de persistance à mois: passer à 2 prises quotidiennes
+- En 2^e^ intention: aciclovir 400 mg x 2/j (x 3/j si persistance à 6 mois) voire famciclovir 250 mg x 2/j
+- PVVIH: aciclovir 400 mg x 2/j (3/j si persistance à 6 mois) ou valaciclovir 500 mg x 2/j  
+  En 3^e^ intention: famciclovir 500 mg x 2/j.
+- Immunodéprimé: aciclovir 400 mg x 2/j ou valaciclovir 500 mg x 2/j  
+  En 3^e^ intention: famciclovir 500 mg x 2/j.
 
 ### Herpès néonatal
 
@@ -265,8 +301,7 @@ Le traitement d'un herpès génital pendant la [grossesse]({{< relref "grossesse
 
 - Femme sans antécédent d'herpès génital avec conjoint porteur d'herpès génital/buccal: éviter tout contact sexuel/oro-génital
 - **Primo-infection** ou **récurrence** d'herpès génital pendant la grossesse:
-  - aciclovir 200 mg x 5/j pendant 5-10 jours
-  - ou ==valaciclovir 500 mg (1g si primo-infection) x 2/j pendant 5-10 jours==
+  - Traitement classique de l'herpès génital
   - et prophylaxie antivirale de 36 SA (32 si gémellaire) jusqu'à l'accouchement: aciclovir 2 x 200 mg x 3/j ou valaciclovir 500 mg x 2/j
 - Lésions herpétiques pendant le travail (ou suspicion) ou primo-infection génitale récente ( < 6 semaines): **césarienne**
 - Nouveau-né
@@ -275,7 +310,9 @@ Le traitement d'un herpès génital pendant la [grossesse]({{< relref "grossesse
   - Proscrire le contact avec des porteurs d'herpès buccal
 - Dépistage des [IST](/tags/ist/)
 
-> -- *CNGOF 2017* et *SFD 2016*
+> -- *HAS 2024*, *CNGOF 2017* et *SFD 2016*
+
+Pas de traitement suppressif en fin de grossesse en l'absence d'épisode d'herpès génital durant la grossesse.
 
 L'[allaitement]({{< relref "allaitement.md" >}}) est contre-indiqué en cas de lésion herpétique mammaire ou mamelonnaire chez la mère.
 
@@ -293,6 +330,7 @@ Pour en savoir plus, les critères d'hospitalisation de la kératite herpétique
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, ANRS, CNS. Prise en charge thérapeutique du patient atteint d'herpès génital. 2024.](https://www.has-sante.fr/jcms/p_3562501/fr/prise-en-charge-therapeutique-du-patient-atteint-d-herpes-genital)
 - [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-168.pdf)
 - Prescrire Redaction. Herpès labial chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [US Preventive Services Task Force. Serologic Screening for Genital Herpes Infection: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2801311)
@@ -305,9 +343,28 @@ Pour en savoir plus, les critères d'hospitalisation de la kératite herpétique
 
 ### Bibliographie en attente
 
-- [HAS, ANRS, CNS. Prise en charge thérapeutique du patient atteint d'herpès génital. 2024.](https://www.has-sante.fr/jcms/p_3562501/fr/prise-en-charge-therapeutique-du-patient-atteint-d-herpes-genital)
 - [Patel R, et al. British Association of Sexual Health and HIV UK national guideline for the management of anogenital herpes. Int J STD AIDS. 2024.](https://journals.sagepub.com/doi/full/10.1177/09564624241282396)
-- [Johnston C, Wald A. Genital Herpes. JAMA. 2024. (payant)](https://jamanetwork.com/journals/jama/article-abstract/2822474)
 - [Syndicat National des Ophtalmologistes de France (SNOF). Herpès oculaire.](https://www.snof.org/encyclopedie/herp%C3%A8s-oculaire)
 
 {{%/sources%}}
+{{% modele %}}
+
+> En cas de grossesse, d'immunodépression ou avant 12 ans, lire la section *Traitement*.
+
+**Primo-infection**
+
+- Gingivostomatite herpétique  
+  valaciclovir 500 mg x 2/j pendant 7 jours
+- Herpès génital  
+  valaciclovir 500 mg x 2/j pendant 5 jours et bilan IST
+- Kératite herpétique  
+  Urgence ophtalmologique
+
+**Récurrence d'herpès**
+
+- Herpès labial  
+  aciclovir 5% crème 1 application x 5/j pendant 5 à 10 jours
+- Herpès génital  
+  valaciclovir 4 x 500 mg espacés de 12 heures sur une seule journée
+
+{{% /modele %}}
