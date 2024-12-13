@@ -134,17 +134,10 @@ Signes et symptômes cliniques d'une anémie:
   - Digestives: [dyspepsie]({{< relref "dyspepsie.md" >}}), syndrome ulcéreux, douleurs abdominales, [hémorroïdes]({{< relref "hemorroides.md" >}}) ou saignements digestifs
   - Épistaxis
   - [Hématurie]({{< relref "hematurie.md" >}})
-- Anémie
-  - Tolérance
-  - Dyspnée, [fatigue](/tags/fatigue/), vertiges
-  - Pâleur
-  - Tachycardie
-- Carence martiale
-  - Perlèche
-  - Glossite
-  - Troubles des phanères dont perte de cheveux et koïlonychie (ongles concaves)
-  - [Syndrome des jambes sans repos]({{< relref "syndrome-jambes-sans-repos.md" >}})
-  - Modification du goût et pagophagie (envie irrésistible de glace)
+- Anémie  
+  {{< clinique/anemie >}}.
+- Carence martiale  
+  {{< clinique/carence-martiale >}}.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
