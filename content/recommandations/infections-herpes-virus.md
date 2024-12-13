@@ -18,7 +18,7 @@ sctid = "23513009"
 icd10 = ["B00", "B00.9", "O26.4", "A60", "A60.9", "H19.1"]
 image = true
 imageSrc = "Récidive d'herpès labial typique de la lèvre inférieure. This image is a work of the Centers for Disease Control and Prevention, part of the United States Department of Health and Human Services, taken or made as part of an employee's official duties. As a work of the U.S. federal government, the image is in the public domain."
-todo = "flowchart grossesse x 2 | kératite herpétique clinique, Ramsay Hunt, immunodéprimé"
+todo = "rankok, flowchart grossesse x 2 | kératite herpétique clinique, Ramsay Hunt, immunodéprimé"
 +++
 
 {{%article-summary%}}

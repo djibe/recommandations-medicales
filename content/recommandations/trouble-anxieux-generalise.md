@@ -113,7 +113,7 @@ La CIM-10 de mentionne pas la chronicité des troubles pendant au moins 6 mois.
 
 Des questions simples permettent d'identifier un trouble anxieux, au choix:
 
-- Êtes-vous nerveux ? (Se 100%, Spe 59%)
+- << Êtes-vous nerveux ? >> (Se 100%, Spe 59%)
 - {{< modal-btn modal-gad2 >}}Questionnaire GAD-2{{< /modal-btn >}}
 - {{< modal-btn modal-phq4 >}}Questionnaire PHQ-4{{< /modal-btn >}} (couplé à la dépression, ACP 2019)
 
@@ -263,37 +263,37 @@ Autres traitements prescriptibles par le psychiatre: quétiapine, rispéridone, 
 
 {{< mermaid title="Prise en charge du trouble anxieux généralisé (TAG). Dr JB Fron d'après ACP 2019 et BAP 2010" >}}
 graph TB
-  symptômes["<b>Suspicion de trouble<br>anxieux généralisé</b><br>—<br>- Symptômes psychologiques:<br>irritabilité, hypervigilance,<br>agitation, tbles concentration,<br>tremblements ...<br>- Symptômes physiques<br>palpitations, oppression thoracique<br>- Autres: sommeil, appétit, sexualité"] --> dépistage("Êtes-vous nerveux ?<br>ou GAD-2 ou PHQ-4")
-  risque["<b>Personne à risque</b><br>—<br>- Bas niveau<br>socio-économique<br>- Isolement affectif<br>- Âge moyen<br>- Tble psychiatrique<br>- Toxiques<br>- Traumatisme<br>- Antécédent familial de TAG"] -- Dépister --> dépistage
+  symptômes["<b>Suspicion de trouble<br>anxieux généralisé (TAG)</b><br>—<br>- Symptômes psychologiques:<br>irritabilité, hypervigilance,<br>agitation, tbles concentration,<br>tremblements ...<br>- Symptômes physiques<br>palpitations, oppression thoracique<br>- Autres: sommeil, appétit, sexualité"] --> dépistage("“Êtes-vous nerveux ?”<br>ou<br>échelle GAD-2 ou PHQ-4")
+  risque["<b>Dépister les<br>personnes à risque</b><br>—<br>- Bas niveau<br>socio-économique<br>- Isolement affectif<br>- Âge moyen<br>- Tble psychiatrique<br>- Toxiques<br>- Traumatisme<br>- Antécédent familial de TAG"] -- Dépister --> dépistage
   style symptômes stroke:#4150f5, stroke-width:1px
   style risque stroke:#4150f5, stroke-width:1px
-    dépistage -- Positif --> étayer("- Critères diagnostiques<br>- Clinique exhaustive<br>- Bilan biologique ou +") -- Confirmation --> TAG["<b>Diagnostic de TAG</b>"] --> indicationPsychiatre("<b>Indication au psychiatre ?</b><br>—<br>- Ado, adulte jeune<br>- Diagnostic incertain<br>- Comorbidité psy<br>- Fragilité (grossesse)<br>- Trouble sévère ou résistant<br>- Risque suicidaire<br>- BZD chronique") -- Non --> RHD("- Mesures d'hygiène<br>- TCC<br>- Mon soutien psy") -. Insuffisant .-> antidépresseur("Antidépresseur ISRS ou IRSNA<br>- Titration et min 8 semaines<br>- Puis min 6-12 mois") --> suivi("Suivi régulier:<br>- GAD-7, risque suicidaire<br>- Comorbidités<br>- Toxiques<br>- Observance<br>± grossesse")
-      RHD --> suivi
+    dépistage -- Positif --> étayer("<b>Clinique</b><br>—<br>- Critères diagnostiques du TAG<br>- Examen clinique exhaustif<br>- Bilan biologique") -- Confirmation --> TAG["<b>Diagnostic de TAG</b>"] --> indicationPsychiatre("<b>Indication au psychiatre ?</b><br>—<br>- Ado, adulte jeune<br>- Diagnostic incertain<br>- Comorbidité psy<br>- Fragilité (grossesse)<br>- Trouble sévère ou résistant<br>- Risque suicidaire<br>- Benzodiazépine chronique")
       indicationPsychiatre -- Oui --> psychiatre(Suivi psychiatrique)
-    dépistage -- Diagnostic différentiel --> différentiel("- Pathologie somatique:<br>cardiovasculaire, respiratoire,<br>neuro, endocrinienne<br>- Toxiques<br>- Psychiatrique: tble anxieux,<br>dépression, phobie sociale ...")
-      étayer --> différentiel
+      indicationPsychiatre -- Non --> RHD("- Mesures d'hygiène<br>- Psychothérapie TCC<br>(dispositif Mon soutien psy)") -. Insuffisant .-> antidépresseur("Antidépresseur ISRS ou IRSNA<br>- Titration et min 8 semaines<br>- Puis min 6-12 mois") --> suivi("<b>Suivi régulier</b><br>—<br>- GAD-7, risque suicidaire<br>- Comorbidités<br>- Toxiques<br>- Observance<br>- ± Désir de grossesse")
+      RHD --> suivi
+    dépistage -- Négatif --> différentiel("<b>Diagnostic différentiel</b><br>—<br>- Pathologie somatique:<br>cardiovasculaire, respiratoire,<br>neuro, endocrinienne<br>- Toxiques<br>- Psychiatrique: tble anxieux,<br>dépression, phobie sociale ...")
+      étayer -- Autre suspicion --> différentiel
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Hoge EA et al. Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial. JAMA Psychiatry. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9647561/)
+- [Hoge EA, et al. Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial. JAMA Psychiatry. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9647561/)
 - Prescrire Redaction. Patients anxieux. Rev Prescrire. 2023.
 - [Collège National Universitaire de Psychiatrie (CNUP). Troubles anxieux Trouble anxieux généralisé Item 66b. Référentiel de Psychiatrie et Addictologie. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
 - [Psychiaclic. Trouble anxieux généralisé. 04/10/2021.](https://www.psychiaclic.fr/troubles-psychiatriques/trouble-anxieux-generalise)
-- [DeMartini J et al; ACP. Generalized Anxiety Disorder. Ann Intern Med. 2019.](https://pubmed.ncbi.nlm.nih.gov/30934083/)
+- [DeMartini J, et al; ACP. Generalized Anxiety Disorder. Ann Intern Med. 2019.](https://pubmed.ncbi.nlm.nih.gov/30934083/)
 - [HAS. Troubles anxieux graves. Actes et prestations affection de longue durée. 2017.](https://www.has-sante.fr/jcms/c_556489/fr/ald-n-23-troubles-anxieux-graves)
-- [Davidson JR et al; British Association for Psychopharmacology. A psychopharmacological treatment algorithm for generalised anxiety disorder (GAD). J Psychopharmacol. 2010.](https://pubmed.ncbi.nlm.nih.gov/18832431/)
-- [Guaiana G et al. Hydroxyzine for generalised anxiety disorder. Cochrane Database of Systematic Reviews. 2010.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006815.pub2/full/fr)
-- [Hunot V et al. Psychological therapies for generalised anxiety disorder. Cochrane Database of Systematic Reviews. 2007.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001848.pub4/full/fr)
+- [Davidson JR, et al; British Association for Psychopharmacology. A psychopharmacological treatment algorithm for generalised anxiety disorder (GAD). J Psychopharmacol. 2010.](https://pubmed.ncbi.nlm.nih.gov/18832431/)
+- [Guaiana G, et al. Hydroxyzine for generalised anxiety disorder. Cochrane Database of Systematic Reviews. 2010.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006815.pub2/full/fr)
+- [Hunot V, et al. Psychological therapies for generalised anxiety disorder. Cochrane Database of Systematic Reviews. 2007.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001848.pub4/full/fr)
 
 ### Bibliographie en attente
 
-- [Bandelow B et al. World Federation of Societies of Biological Psychiatry (WFSBP) guidelines for treatment of anxiety, obsessive-compulsive and posttraumatic stress disorders - Version 3. Part I: Anxiety disorders. World J Biol Psychiatry. 2023.](https://www.tandfonline.com/doi/abs/10.1080/15622975.2022.2086295)
+- [Bandelow B, et al. World Federation of Societies of Biological Psychiatry (WFSBP) guidelines for treatment of anxiety, obsessive-compulsive and posttraumatic stress disorders - Version 3. Part I: Anxiety disorders. World J Biol Psychiatry. 2023.](https://www.tandfonline.com/doi/abs/10.1080/15622975.2022.2086295)
 - [NICE. Generalised anxiety disorder and panic disorder in adults: management. 2020.](https://www.nice.org.uk/guidance/cg113)
-- [Baldwin DS et al. Evidence-based pharmacological treatment of anxiety disorders, post-traumatic stress disorder and obsessive-compulsive disorder: a revision of the 2005 guidelines from the British Association for Psychopharmacology. J Psychopharmacol. 2014.](https://pubmed.ncbi.nlm.nih.gov/24713617/)
+- [Baldwin DS, et al. Evidence-based pharmacological treatment of anxiety disorders, post-traumatic stress disorder and obsessive-compulsive disorder: a revision of the 2005 guidelines from the British Association for Psychopharmacology. J Psychopharmacol. 2014.](https://pubmed.ncbi.nlm.nih.gov/24713617/)
 - Mustapha
-- [ADAA. Clinical Practice Review for GAD.](https://adaa.org/resources-professionals/practice-guidelines-gad)
 
 {{%/sources%}}
 {{% modal title="Questionnaire GAD-2" id="modal-gad2"%}}

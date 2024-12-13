@@ -248,15 +248,15 @@ graph TB
 {{%sources%}}
 
 - [Bushnell C, et al. 2024 Guideline for the Primary Prevention of Stroke: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2024.](https://www.ahajournals.org/doi/abs/10.1161/STR.0000000000000475)
-- [HAS. Insuffisance ovarienne prématurée / primitive (en dehors du syndrome de Turner). Mars 2021.](https://www.has-sante.fr/jcms/p_3264990/fr/insuffisance-ovarienne-prematuree-iop)
-- [Trémollieres F et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000593)
-- [Christin-Maitre S et al. L'insuffisance ovarienne prématurée. Orphanet. 2006. (PDF)](https://www.orpha.net/data/patho/Pro/fr/InsuffisanceOvariennePrematuree-FRfrPro2307v01.pdf)
+- [HAS. Insuffisance ovarienne prématurée / primitive (en dehors du syndrome de Turner). 2021.](https://www.has-sante.fr/jcms/p_3264990/fr/insuffisance-ovarienne-prematuree-iop)
+- [Trémollieres F, et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000593)
+- {{< references/college-endocrino >}}
+- [Christin-Maitre S, et al. L'insuffisance ovarienne prématurée. Orphanet. 2006. (PDF)](https://www.orpha.net/data/patho/Pro/fr/InsuffisanceOvariennePrematuree-FRfrPro2307v01.pdf)
 
 ### Bibliographie en attente
 
+- [Panay N, et al. Evidence-based guideline: premature ovarian insufficiency. Hum Reprod Open. 2024.](https://academic.oup.com/hropen/article/2024/4/hoae065/7918369)
 - [ACOG. Primary Ovarian Insufficiency in Adolescents and Young Women. 2021.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/07/primary-ovarian-insufficiency-in-adolescents-and-young-women)
-- {{< references/college-endocrino >}}
-- [ESHRE. Management of women with premature ovarian insufficiency. 2015.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Management-of-premature-ovarian-insufficiency)
 
 {{%/sources%}}
 {{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}

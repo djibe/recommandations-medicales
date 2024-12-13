@@ -52,17 +52,8 @@ Tophus
 Les tophi sont localisés autour des articulations atteintes par la goutte et préférentiellement oreille (pavillon et hélix), bursite olécrânienne, tendon d'Achille et patellaire, inter-phalangienne distale ou pulpe digitale.
 
 Allopurinol
-: Médicament hypo-uricémiant utilisé trop largement.  
-Il est la première cause survenue de **toxidermies bulleuses** graves en Europe.  
-La **mortalité** est de 20-30% et 60% de ces accidents sous allopurinol surviennent chez des patients qui n'ont aucune indication au traitement.
-
-### Diagnostic différentiel d'une arthrite goutteuse
-
-- [Chondrocalcinose articulaire]({{< relref "rhumatisme-pyrophosphate-chondrocalcinose.md" >}})
-- Arthrite septique
-- Rhumatisme psoriasique
-- Poussée d'arthrose
-- [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}})
+: Médicament hypo-uricémiant utilisé trop largement. Il est la première cause survenue de **toxidermies bulleuses** graves en Europe.  
+La **mortalité** est de 20 à 30% et 60% de ces accidents surviennent en l'absence d'indication au traitement.
 
 ### Abréviations
 
@@ -78,6 +69,17 @@ EULAR
 SFR
 : Société française de rhumatologie
 {.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Diagnostic différentiel d'une arthrite goutteuse:
+
+- [Chondrocalcinose articulaire]({{< relref "rhumatisme-pyrophosphate-chondrocalcinose.md" >}})
+- Arthrite septique
+- Rhumatisme psoriasique
+- Poussée d'arthrose
+- [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

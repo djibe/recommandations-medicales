@@ -17,7 +17,7 @@ sctid = "6815003"
 icd10 = ["N75", "N75.9"]
 image = true
 imageSrc = "Illustration d'un abcès de la glande de Bartholin droite causant une bartholinite. Hariadhi, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "relecture"
+todo = "rankok, relecture"
 flowchart = true
 +++
 

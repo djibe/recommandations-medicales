@@ -241,6 +241,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="j9nECcjOXNQ" title="Dermite de stase ou érysipèle ? (CRAtb Pays de la Loire / MedQual)" >}}
+
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Prise en charge des dermohypodermites bactériennes non nécrosantes (DHBNN) chez l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3282443/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-dermohypodermites-bacteriennes-non-necrosantes-dhbnn-chez-l-adulte)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Prise en charge des dermohypodermites bactériennes non nécrosantes (DHBNN) chez l'enfant. 2024.](https://www.has-sante.fr/jcms/p_3282445/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-dermohypodermites-bacteriennes-non-necrosantes-dhbnn-chez-l-enfant)
 - [Gillet Y et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)

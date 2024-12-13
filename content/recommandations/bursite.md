@@ -17,7 +17,7 @@ sctid = "84017003"
 icd10 = ["M71.9", "M71", "M70"]
 image = true
 imageSrc = "Bursite typique du coude gauche de l'homme. Photo de NJC123, Public domain, via Wikimedia Commons"
-todo = "relecture"
+todo = "rankok, relecture"
 flowchart = true
 +++
 
@@ -169,5 +169,9 @@ graph TB
 - [Lormeau C, et al. Management of septic bursitis. Joint Bone Spine. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X18304238)
 - [Khodaee M. Common Superficial Bursitis. Am Fam Physician. 2017.](https://www.aafp.org/pubs/afp/issues/2017/0215/p224.html)
 - [Baumbach SF, et al. Prepatellar and olecranon bursitis: literature review and development of a treatment algorithm. Arch Orthop Trauma Surg. 2014.](https://link.springer.com/article/10.1007/s00402-013-1882-7)
+
+### Bibliographie en attente
+
+[Darrieutort-Laffite C, et al. Recommandations françaises pour le diagnostic et la prise en charge des bursites septiques pré-patellaires et olécraniennes. Revue du Rhumatisme. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S1169833023004337)
 
 {{%/sources%}}

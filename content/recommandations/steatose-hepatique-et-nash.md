@@ -19,7 +19,7 @@ icd10 = ["K75.8", "K74.6", "K76.0"]
 image = true
 imageSrc = "Illustration de la NASH par brgfx / Freepik"
 flowchart = true
-todo = "remboursement fibromètre ?"
+todo = "SEO, remboursement fibromètre ?"
 +++
 
 {{%article-summary%}}
@@ -99,7 +99,7 @@ SNFGE
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Diagnostic différentiel de la NASH" %}}
+{{%collapse "Diagnostic différentiel" %}}
 
 ### Diagnostic différentiel de la Stéatohépatite non alcoolique (NASH)
 

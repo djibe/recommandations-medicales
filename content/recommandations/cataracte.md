@@ -17,7 +17,7 @@ sctid = "193570009"
 icd10 = ["H26", "H26.9", "H25", "H28"]
 image = true
 imageSrc = "Cataracte sénile corticonucléaire. NIH Image Gallery from Bethesda, Maryland, USA, Public domain, via Wikimedia Commons"
-todo = "flow"
+todo = "SEO, flow"
 +++
 
 {{%article-summary%}}
