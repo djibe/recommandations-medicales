@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-12-06T15:29:44+01:00"
 publishdate = "2024-12-13"
-lastmod = "2024-12-13"
+lastmod = "2024-12-14"
 specialites = ["biologie", "hematologie"]
 annees = "2024"
 sources = ["SNFMI"]
@@ -20,6 +20,7 @@ image = false
 imageSrc = ""
 todo = "photo"
 flowchart = true
+modele = true
 +++
 
 {{%article-summary%}}
@@ -196,10 +197,10 @@ graph TB
   TCA("TCA allongé (et TP normal)<br>sans anticoagulant") --> bilan("<b>Bilan</b><br>—<br>- Facteur VIII<br>- Facteur IX<br>- Facteur XI<br>± Facteur XII")
     bilan -- Normaux --> sc1("<b>Facteurs normaux</b><br>—<br>- Rechercher un ACC lupique<br>si contexte évocateur<br>- Déficit des facteurs<br>du système contact<br>—<br>Absence<br>de risque hémorragique") ----> hémato(Avis hématologique)
     bilan -- Anomalie --> anormaux(Déficit en cofacteur)
-    anormaux --> sc2("<b>Déficit FVIII</b><br>—<br>- <b>Maladie de Willebrand</b><br>± acquise<br>- Hémophilie A<br>± acquise") --> hémato
+    anormaux --> sc2("<b>Déficit FVIII</b><br>—<br>- <b>Willebrand</b><br>± acquise<br>- Hémophilie A<br>± acquise") --> hémato
     anormaux --> sc3("<b>Déficit FIX</b><br>—<br>- Hémophilie B<br>- Inhibiteur<br>anti-facteur IX") --> hémato
     anormaux --> sc4("<b>Déficit FXI</b><br>—<br>- Contexte infectieux<br>- Grossesse<br>- Déficit constit. FXI<br>- Inhibiteur<br>anti-facteur XI") --> hémato
-    anormaux --> sc5("<b>Déficit FXII</b><br>—<br>- Contexte infectieux<br>- Déficit constit. facteur XII<br>—<br>Absence de risque<br>hémorragique") --> hémato
+    anormaux --> sc5("<b>Déficit FXII</b><br>—<br>- Contexte infectieux<br>- Déficit constit.<br>facteur XII<br>—<br>Absence de risque<br>hémorragique") --> hémato
   style TCA stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
@@ -211,3 +212,15 @@ graph TB
 - Société française d'hématologie (sfh). Item 216 - Syndrome hémorragique d'origine hématologique. Hématologie Réussir son DFASM. 2021.
 
 {{%/sources%}}
+{{% modele %}}
+
+### Bilan d'un TP inférieur à 70%
+
+- Facteurs II, V, VII et X
+- Fibrinogène
+
+### Bilan d'un TCA supérieur à 1,2 (avec un TP normal)
+
+Facteurs VIII, IX et XI
+
+{{% /modele %}}

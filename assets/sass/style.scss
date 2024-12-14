@@ -17,6 +17,10 @@
   interpolate-size: allow-keywords;
 }
 
+@view-transition {
+  navigation: auto;
+}
+
 h2,h4,h5,h6, p, li, dl, legend {
   text-wrap: pretty;
 }
@@ -1041,6 +1045,7 @@ blockquote {
 }
 
 .btn-float {
+  letter-spacing: 0.3pt;
   @media (max-width: 991.8px) {
     & {
       background-color: var(--primary-light);
@@ -1822,6 +1827,17 @@ details {
   }
 }
 
-@view-transition {
-  navigation: auto;
+@media screen and (min-width: 992px){
+  .btn-modele {
+    border-radius: 1.5rem;
+    height: 3rem;
+    line-height: 2.25rem;
+    padding: 0 1.25rem;
+    width: auto;
+
+    & > svg {
+      margin-left: -.5rem;
+      margin-right: .75rem;
+    }
+  }
 }
