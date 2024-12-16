@@ -52,13 +52,14 @@
           {{ end }}
       </figure>
       <div class="recommandation__info">
-        {{ with .Params.specialites }}
+        {{- with .Params.specialites }}
         <p class="typography-overline">Système</p>
-        <p class="font-weight-bold text-capitalize">{{ delimit . ", " }}</p>{{ end }}
+        <div class="d-flex flex-wrap">{{ range .}}<a href="/specialites/{{ . | urlize }}/" class="chip chip-action chip-xs text-capitalize">{{ . }}</a>{{ end }}</div>
+        {{ end -}}
 
-        {{ with .Params.Auteurs }}
+        {{- with .Params.Auteurs }}
         <p class="typography-overline">Rédacteur</p>
-        <p>{{ delimit . ", " }}</p>{{ end }}
+        <p>{{ delimit . ", " }}</p>{{ end -}}
 
         {{ with .Params.Relecteur }}
         <p class="typography-overline">Relecteur</p>
@@ -77,9 +78,9 @@
         <div class="d-flex flex-wrap">{{ partial "widgets/tags-render.html" . }}</div>{{ end }}
 
         <p class="typography-overline mt-3">Terminologies</p>
-        {{ with .Params.Sctid }}<p data-toggle="tooltip" title="SNOMED-CT: terminologie de référence" class="mb-1">SCT-ID:<a href="https://browser.ihtsdotools.org/?perspective=full&conceptId1={{.}}&edition=MAIN/SNOMEDCT-FR/2024-06-21&release=&languages=fr,en" rel="external nofollow noopener"> {{ . }}</a></p>{{ end }}
-        {{ with .Params.Icd10 }}<p data-toggle="tooltip" title="Classification Internationale des Maladies" class="text-break">CIM-10: {{ range .}}<span class="user-select-all mr-2">{{ . }}</span>{{ end }}</p>{{ end }}
-        {{ with .Params.atc }}<p data-toggle="tooltip" title="Classification ATC des médicaments">ATC: <span class="user-select-all">{{ . }}</span></p>{{ end }}
+        {{ with .Params.Sctid }}<p data-toggle="tooltip" title="SNOMED-CT: terminologie de référence" class="d-flex flex-wrap align-items-center mb-1">SCT-ID<a class="chip chip-action chip-xs" href="https://browser.ihtsdotools.org/?perspective=full&conceptId1={{.}}&edition=MAIN/SNOMEDCT-FR/2024-06-21&release=&languages=fr,en" rel="external nofollow noopener"> {{ . }}</a></p>{{ end }}
+        {{ with .Params.Icd10 }}<p data-toggle="tooltip" title="Classification Internationale des Maladies" class="text-break d-flex flex-wrap align-items-center">CIM-10 {{ range .}}<a class="chip chip-action chip-xs" href="https://icd.who.int/browse10/2016/en#/{{.}}" rel="external nofollow noopener">{{ . }}</a>{{ end }}</p>{{ end }}
+        {{ with .Params.atc }}<p data-toggle="tooltip" title="Classification ATC des médicaments" class="d-flex flex-wrap align-items-center">ATC <span class="chip chip-xs">{{ . }}</span></p>{{ end }}
 
         <p class="typography-overline mt-4">Nouveaux chapitres</p>
         {{ range first 6 ( where .Site.RegularPages.ByPublishDate.Reverse "Section" "recommandations") }}

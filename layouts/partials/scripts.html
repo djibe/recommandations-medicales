@@ -246,14 +246,14 @@ document.addEventListener( 'DOMContentLoaded', event => {
     });
 
     {{ if .Params.modele }}
-    if (matchMedia('(pointer:fine)').matches) { // Device has a mouse
+    /*if (matchMedia('(pointer:fine)').matches) { // Device has a mouse
       $('.tooltip-modele').tooltip({
         title: 'Afficher le modèle d\'ordonnance',
         container: 'body',
         html: true,
         placement: 'bottom'
       });
-    }
+    }*/
     {{ end }}
 
     if (matchMedia('(pointer:fine)').matches) { // Device has a mouse
