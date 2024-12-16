@@ -184,6 +184,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Centre de Référence Maladies rares Neutropénies Chroniques. Neutropénies chroniques. Protocole National de Diagnostic et de Soins. 2024.](https://www.has-sante.fr/jcms/p_3522408/fr/neutropenies-chroniques)
 - [Paret R, et al. Actualisation sur les stratégies de prise en charge antibiotique de la neutropénie fébrile en hématologie. Médecine et Maladies Infectieuses Formation. 2024. (payant)](https://www.sciencedirect.com/science/article/abs/pii/S2772743224005506)
 - {{< references/spilf-2020 >}}
 - [Bou Mitri F, et al. Neutropénie en dehors d'un contexte de chimiothérapie : bilan et prise en charge-recommandations du centre de référence. Perfectionnement en pédiatrie. 2020. (payant)](https://www.sciencedirect.com/science/article/abs/pii/S2588932X2030053X)

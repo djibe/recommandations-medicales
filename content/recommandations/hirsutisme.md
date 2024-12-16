@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-15T00:43:56+02:00"
 publishdate = "2022-06-20"
-lastmod = "2023-11-16"
+lastmod = "2024-12-14"
 specialites = ["endocrinologie"]
-annees = "2018"
-sources = ["ENDO"]
+annees = "2020"
+sources = ["SFE", "ENDO"]
 tags = []
 english = ["Hirsutism"]
 sctid = "399939002"
@@ -22,16 +22,16 @@ todo = "flowchart Figure 2"
 
 {{%article-summary%}}
 
-- L'hirsutisme est un excès de poils longs, drus et pigmentés, présents chez les femmes sur des zones androgénodépendantes
-- Il est lié à un [syndrome des ovaires polykystiques]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) (SOPK) pour les 3/4
+- L'hirsutisme est la présence chez une femme d'un excès de poils longs, drus et pigmentés sur des zones pileuses dépendantes des androgènes
+- Il est lié à un [syndrome des ovaires polykystiques]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) (SOPK) dans 75% des cas
 - Rechercher des signes d'hyperandrogénie
-- Grader la sévérité de l'hirsutisme avec le [Score Ferriman-Gallwey](http://www.e-dpc.fr/bibliotheque/docs/trouble_du_cycle_amenorrhee_hyperandrogenie/fiches_pratiques/score_ferriman_gallwey.pdf) pour coter le degré d'hirsutisme et le seuil de traitement (voir *Clinique*)
+- Grader la sévérité de l'hirsutisme avec le [Score Ferriman-Gallwey](http://www.e-dpc.fr/bibliotheque/docs/trouble_du_cycle_amenorrhee_hyperandrogenie/fiches_pratiques/score_ferriman_gallwey.pdf) pour connaître l'indication au traitement (voir *Clinique*)
 - Bilan de l'hirsutisme avec testostéronémie entre 8 et 11 heures si score anormal. hCG si aménorrhée
 - Correction d'un surpoids et activité physique
 - Prise en charge et traitement de l'hirsutisme:
-  - rasage, épilation ou photo-épilation
-  - indication à traiter selon le score Ferriman-Gallwey (voir *Clinique*): utiliser une [contraception œstroprogestative]({{< relref "contraception.md" >}}) (COP) pendant 6 mois en première intention
-  - en 2^e^ intention: spironolactone, acétate de cyprotérone ou finastéride
+  - Rasage, épilation ou photo-épilation
+  - Indication à traiter selon le score Ferriman-Gallwey (voir *Clinique*): utiliser une [contraception œstroprogestative]({{< relref "contraception.md" >}}) (COP) pendant 6 mois en première intention
+  - En 2^e^ intention: spironolactone, acétate de cyprotérone ou finastéride
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -44,12 +44,16 @@ Zones androgénodépendantes
 : Lèvre supérieure, menton, joue, poitrine, ligne ombilico-pubienne, fesse, dos, région lombaire, bras, face antérieure des cuisses.
 
 Hypertrichose
-: Excès de poils sous forme de duvet sur des zones non androgéniques. Elle est localisée (autour d'un grain de beauté) ou diffuse. Autant chez les femmes que les hommes.
+: Excès de poils sous forme de duvet sur des zones non androgéniques. Elle est localisée (autour d'un grain de beauté) ou diffuse.
+: Elle atteint autant les femmes que les hommes.
 
 ### Abréviations
 
 17OHP
 : 17-hydroxyprogestérone (17α-hydroxyprogestérone)
+
+ACP
+: acétate de cyprotérone
 
 COP
 : contraception œstroprogestative (abréviation utilisée par le CNGOF)
@@ -57,14 +61,17 @@ COP
 EE
 : éthinyl-estradiol
 
+SFE
+: Société française d'endocrinologie
+
 SOPK
 : syndrome des ovaires polykystiques
 {.dl-inline}
 
 {{%/collapse %}}
-{{%collapse "Étiologie" %}}
+{{%collapse "Étiologie et diagnostic différentiel" %}}
 
-Les causes de l'hirsutisme sont endocriniennes (+80%), gynécologiques et idiopathique:
+Les causes d'hirsutisme sont **endocriniennes** (80 %), gynécologiques et idiopathique:
 
 - Hirsutisme avec hyperandrogénie
   - **[Syndrome des ovaires polykystiques]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}})** (**SOPK**). Première cause (70-80%).  
@@ -87,13 +94,16 @@ Les causes de l'hirsutisme sont endocriniennes (+80%), gynécologiques et idiopa
 {{%/collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic d'hirsutisme est clinique.
+> [!INFO]
+> Le diagnostic d'hirsutisme est clinique.
 
 ### Interrogatoire
 
+Signes et symptômes à rechercher devant une plainte d'hirsutisme:
+
 - Âge de survenue, évolution de la pilosité
 - Signes d'**hyperandrogénie** d'un SOPK  
-  Règles irrégulières, [infertilité]({{< relref "infertilite-couple.md" >}}), surpoids, [acné]({{< relref "acne.md" >}}).
+  Règles irrégulières, [infertilité]({{< relref "infertilite-couple.md" >}}), surpoids, {{< clinique/hyperandrogenie >}}.
 - Hypercorticisme  
   Obésité centrale, acanthosis nigricans.
 - Signes de **virilisme** (cause tumorale ovarienne ou surrénalienne)  
@@ -123,10 +133,6 @@ Le seuil thérapeutique dépend des origines (voir traitement):
 - Chinoise Han ≥ 2
 - Asie du Sud-Est ≥ 7
 
-### Rechercher des signes d'hyperandrogénie
-
-Autres signes d'hyperandrogénie: {{< clinique/hyperandrogenie >}}.
-
 Voire un virilisme: {{< clinique/virilisme >}}.
 
 Adresser à l'endocrinologue en cas de signes d'hyperandrogénie ou de virilisation.
@@ -134,11 +140,10 @@ Adresser à l'endocrinologue en cas de signes d'hyperandrogénie ou de virilisat
 {{%/collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan biologique de l'hirsutisme
+### Bilan d'un hirsutisme
 
-Hirsutisme + aménorrhée: bHCG
-
-Uniquement en cas de score Ferriman-Gallwey anormal (voir *Clinique*): testostéronémie entre 8 et 11 heures.
+- Hirsutisme avec aménorrhée: bHCG
+- Si score Ferriman-Gallwey anormal (voir *Clinique*): testostéronémie entre 8 et 11 heures.
 
 {{%info%}}
 Si testostéronémie normale  
@@ -148,7 +153,7 @@ OU pilosité du sexe légère avec suspicion d'endocrinopathie (règles irrégul
 Testostéronémie totale et libre au petit matin à jeun
 {{%/info%}}
 
-En cas d'hyperandrogénie: compléter le bilan avec DHEA (déhydroépiandrostérone) + 17-hydroxyprogestérone (en phase folliculaire ou au hasard si aménorrhée ou spanioménorrhée).
+En cas de testostérone augmentée (hyperandrogénie), compléter le bilan avec: DHEA (déhydroépiandrostérone), 17-hydroxyprogestérone (en phase folliculaire ou à tout moment si aménorrhée ou spanioménorrhée).
 
 ### Échographie pelvienne transvaginale
 
@@ -157,20 +162,18 @@ L'échographie pelvienne recherche une tumeur ovarienne en cas d'hyperandrogéni
 {{%/collapse %}}
 {{%collapse "Traitement de l'hirsutisme" %}}
 
-La prise en charge de l'hirsutisme comporte des mesures cosmétiques, parfois hormonales voire avec des thérapeutiques spécifiques.
+La prise en charge de l'hirsutisme comporte des mesures cosmétiques, parfois un traitement hormonal voire des thérapeutiques spécifiques.
 
 ### Mesures hygiéno-diétetiques et cosmétiques
 
-Obésité ou ovaires polykystiques (SOPK): correction d'un **surpoids** et activité physique contre l'insulinorésistance.
-
-**Cosmétiques:** rasage, épilation à la pince ou à la cire.
-
-**Photo-épilation** si poils foncés, **électrolyse** si clairs.  
-Pendant le traitement, possible ajout d'éflornithine crème ([Vaniqa 11,5%](https://ec.europa.eu/health/documents/community-register/2018/20180316140355/anx_140355_fr.pdf)) x 2/j pour accélérer la chute des poils.
+- **Mesures cosmétiques:** rasage, épilation (pince, cire)
+- **Photo-épilation** si poils foncés, **électrolyse** si clairs  
+  Pendant le traitement, ajout possible d'éflornithine crème ([Vaniqa 11,5%](https://ec.europa.eu/health/documents/community-register/2018/20180316140355/anx_140355_fr.pdf)) x 2/j pour accélérer la chute des poils.
+- Si obésité ou ovaires polykystiques (SOPK): correction d'un **surpoids** et activité physique contre l'insulinorésistance
 
 En cas d'hyperandrogénie: maintenir un traitement médicamenteux pour éviter la repousse des poils.
 
-### Indications au traitement
+### Indications au traitement médicamenteux
 
 Le seuil de traitement pour l'hirsutisme dépend des origines et du [score Ferriman-Gallwey](http://www.e-dpc.fr/bibliotheque/docs/trouble_du_cycle_amenorrhee_hyperandrogenie/fiches_pratiques/score_ferriman_gallwey.pdf):
 
@@ -180,33 +183,45 @@ Le seuil de traitement pour l'hirsutisme dépend des origines et du [score Ferri
 - Chinoise Han ≥ 2
 - Asie du Sud-Est ≥ 7
 
-### Traitement de première intention de l'hirsutisme
+### Traitement médicamenteux de l'hirsutisme
 
-[Contraception orale œstroprogestative (COP)]({{< relref "contraception.md" >}}) pendant 6 mois.
+Traitement d'hirsutisme modéré et/ou d'acné de la femme non ménopausée (*SFE 2020*):
+
+[Contraception orale œstroprogestative (COP)]({{< relref "contraception.md" >}}) pendant au moins 6 mois.
 {.alert .alert-info}
 
 - Pas de supériorité d'une pilule sur l'autre
-- Éviter le lévonorgestrel en cas de SOPK
-- Risque vasculaire: limiter le risque avec estradiol réduit à 20 µg et progestatif à bas risque de [MVTE](/tags/mvte/) (norethindrone, lévonorgestrel)
+- Si SOPK: éviter le lévonorgestrel
+- Si risque vasculaire (sans contre-indication): estradiol réduit à 20 µg et progestatif à bas risque [thrombo-embolique](/tags/mvte/) (lévonorgestrel, norgestimate)
 - Si DIU (stérilet) ou implant: utiliser les anti-androgènes
 
-### Traitements de deuxième intention
+En cas d'échec, ajouter un anti-androgène: [spironolactone 100 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61938189&typedoc=R) x **1**-2/j (sauf insuffisance rénale ou risque de grossesse)
 
-En cas d'échec de la contraception seule pendant 6 mois ou de contraception déjà essayée.  
-Maintenir l'association avec une contraception œstroprogestative.
+> [!INFO]
+> Chaque essai de traitement devrait durer au moins 6 mois.
 
-Molécules anti-androgéniques:
+#### Hirsutisme sévère avant la ménopause
 
-- [Acétate de cyprotérone (Androcur®) 50-100 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61255738&typedoc=R) des jours 5 à 15 avec EE 20-35 mg de J5 à J25,
-- [Spironolactone 100 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61938189&typedoc=R) x 1-2/j (sauf insuffisance rénale ou risque de grossesse)
+En cas d'hirsutisme sévère, adresser à l'endocrinologue pour associer:
+
+- [Acétate de cyprotérone (Androcur®) 50-100 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61255738&typedoc=R) (hors AMM, prescription restreinte) TODO: des jours 5 à 15
+- Avec de l'éthinyl-estradiol 20-35 mg de J5 à J25
+
+
+
+En cas d'échec, substituer par la **spironolactone** (avec une contraception efficace).
+
 - Finastéride 2,5-5 mg/j avec risques psychiatriques ([Alerte ANSM](https://ansm.sante.fr/actualites/reevaluation-europeenne-de-la-balance-benefice-risque-des-medicaments-contenant-du-finasteride-ou-du-dutasteride))
-
-**NB.** Ne pas utiliser le flutamide (hépatotoxique)
 
 {{%/collapse %}}
 {{%sources%}}
 
+- [Bachelot A, et al; Société française d'endocrinologie (SFE). Nouvelles recommandations pour le traitement des hyperandrogénies. 2020. (PDF)](http://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/Hyperandrogenie%202020/reco%20sfe%20traitement%20hyperandrogenie%20mai%202020.pdf)
 - Prescrire Redaction. Hirsutisme L'essentiel sur les soins de premier choix. Rev Prescrire. 2019.
 - [Martin K et al. Evaluation and Treatment of Hirsutism in Premenopausal Women: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2018.](https://academic.oup.com/jcem/article/103/4/1233/4924418)
+
+### Bibliographie en attente
+
+[Pugeat M, et al; Société française d'endocrinologie (SFE). Recommandations pour l'exploration des hyperandrogénies. 2010. (PDF)](https://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/2008%20consensus%20sfe%20hyperandrogenie%20feminine.pdf)
 
 {{%/sources%}}

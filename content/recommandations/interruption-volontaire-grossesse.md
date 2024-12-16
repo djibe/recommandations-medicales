@@ -206,6 +206,15 @@ Plus l'IVG intervient précocement pendant la grossesse, plus le risque de compl
 - Proposer un accompagnement psychologique
 
 {{% /collapse %}}
+{{%collapse "L'IVG chez les mineures" %}}
+
+L'interruption volontaire de grossesse est **accessible à quiconque quelque soit son âge**. Les mineures doivent être accompagnées par la **personne majeure** de leur choix et l'accord parental n'est pas nécessaire.
+
+L'IVG est totalement gratuit pour les mineures.
+
+> -- *[ivg.fr. Conditions d'accès à l'IVG. 2024.](https://ivg.gouv.fr/acceder-a-ivg)*
+
+{{% /collapse %}}
 {{%collapse "Prévention des IVG" %}}
 
 [Contraception efficace]({{< relref "contraception.md" >}}) adaptée pour tous les couples en âge de procréer en l'absence de désir de grossesse.

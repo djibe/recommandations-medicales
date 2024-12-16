@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2024-08-23"
+lastmod = "2024-12-14"
 specialites = ["néphrologie"]
 annees = "2024"
 sources = ["KDIGO", "HAS", "ESH", "ADA", "ESC"]
@@ -244,26 +244,29 @@ Le déclin annuel est **physiologique** quand < 2 mL/min/1,73m²/an.
 
 ### Bilan au diagnostic de la maladie rénale chronique
 
-Bilan à réaliser devant la découverte d'une insuffisance rénale ou une maladie rénale chronique:
+Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chronique:
 
-- Échographie rénale ± mesure du résidu post-mictionnel
-- ± Écho-doppler des artères rénales
-- NFS
+- Échographie des voies urinaires ± mesure du résidu post-mictionnel
 - Créatininémie avec estimation du DFGe {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - Bilan lipidique (de moins d'un an)
 - Glycémie à jeun ou HbA~1c~
-- Urinaire  
-  ECBU + rapport albuminurie/créatininurie (RAC).
+- Cytologie urinaire quantitative
+- Rapport albuminurie/créatininurie (RAC)
 {{%/info%}}
 
 #### Examens supplémentaires selon le terrain
 
-- DFGe < 60 (voire < 45)
-  - Ionogramme sanguin, bicarbonates
-  - Ferritinémie
-  - [25-OH-Vitamine D]({{< relref "vitamine-d.md" >}}), calcémie, phosphorémie, PTH
-  - Albuminémie, urémie
-  - Statut hépatite B: AgHBs, anticorps anti-HBs et anti-HBc
+- DFG < 60:
+  - Albumine, calcémie, phosphorémie, PTH
+  - Sérologies VHA, VHB, VHC
+- DFG < 45:
+  - NFS
+  - Ionogramme sanguin
+  - Bicarbonates
+- DFG < 30:
+  - Ferritine
+  - PAL
+  - Urée
 - Si anémie: réticulocytes  
   {{%class%}}Anémie normochrome normocytaire arégénérative au cours de l'IRC.{{%/class%}}
 - **Confirmer une albuminurie** +30 mg/g (3 mg/mmol) sur un échantillon du matin
@@ -502,6 +505,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. ALD n° 19 - Néphropathie chronique grave. Guide des actes et prestations. 2024.](https://www.has-sante.fr/jcms/c_565906/fr/ald-n-19-nephropathie-chronique-grave)
 - [Académie nationale de pharmacie. Le dépistage précoce, la solution pour freiner la progression des insuffisances rénales chroniques terminales. 2024. (PDF)](https://www.acadpharm.org/dos_public/COMMUNIQUE_MALADIES_RENALES_CHRONIQUES_VF.PDF)
 - [Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024.](https://kdigo.org/guidelines/ckd-evaluation-and-management/)
 - [Kreutz R, et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)

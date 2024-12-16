@@ -14,7 +14,7 @@ sources = ["ACG", "BSG"]
 tags = ["diabete", "douleur", "insuline", "risque cardiovasculaire", "tabac", "vitamine D"]
 english = ["Chronic pancreatitis (CP)"]
 sctid = "235494005"
-icd10 = ["K68.1", "K68.0"]
+icd10 = ["K86.1", "K86.0"]
 image = true
 imageSrc = "Calcifications pancréatiques et dilatation des canaux signant une pancréatite chronique chez une homme de 40 ans atteint de douleurs abdominales. Cas de Mohammad Taghi Niknejad, Radiopaedia.org, rID: 93929"
 todo = ""
@@ -24,7 +24,7 @@ flowchart = true
 {{%article-summary%}}
 
 - La pancréatite chronique est une altération du pancréas irréversible, le plus souvent liée à l'alcool chez l'homme d'âge moyen
-- Elle entraîne et insuffisance pancréatique exocrine (stéatorrhée, amaigrissement, malabsorption) et endocrine (diabète)
+- Elle entraîne une insuffisance pancréatique exocrine (stéatorrhée, amaigrissement, malabsorption) et endocrine (diabète)
 - Rechercher une pancréatite chronique en cas de: douleurs épigastriques transfixiantes, stéatorrhée,  malabsorption ou amaigrissement avec usage nocif d'alcool ou d'antécédents de pancréatites aiguës
 - Le bilan de la pancréatite chronique comprend: bilan hépatique et de malabsorption, scanner abdominal et avis gastro-entérologique
 - La prise en charge de la pancréatite chronique nécessite le sevrage de l'alcool et du tabac, un suivi spécialisé par les gastro-entérologue, diététicien (et endocrinologue en cas de diabète), un traitement par enzymes pancréatiques

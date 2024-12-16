@@ -163,7 +163,7 @@ Situations pouvant faire contrôler le taux de vitamine D:
 4. Avant et après une [chirurgie bariatrique]({{< relref "obesite-adulte.md" >}})
 5. Personne âgée avec [chutes](/tags/chute/) répétées  
   Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>.
-1. Traitement préconisant une mesure de la vitamine D (ex. [biphosphonate]({{< relref "osteoporose.md" >}}))
+6. Traitement préconisant une mesure de la vitamine D (ex. [biphosphonate]({{< relref "osteoporose.md" >}}))
 
 > -- *HAS 2013* et *Conditions de prise en charge par l'Assurance Maladie*
 
@@ -175,7 +175,6 @@ et aussi
 - Enfant avec supplémentation prolongée à des doses excessives (*Bacchetta 2022*)
 - Prématuré < 32 SA ou < 1,5 kg (*Bacchetta 2022*)  
   Cible de vitamine D: 50-120 nmol/L.
-- Bilan initial de [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) (*HAS 2023*)
 - Diagnostic et suivi de la [pancréatite chronique]({{< relref "pancreatite-chronique.md" >}}) (*ACG*, *BSG*)
 
 En dehors des 6 indications (+ suppléments), préciser sur l'ordonnance la raison.

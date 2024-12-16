@@ -141,7 +141,8 @@ Un frottis cervico-utérin non satisfaisant doit être renouvelé dans les 3 moi
 Le dépistage organisé du cancer du col de l'utérus est recommandé pour toutes les femmes de **25 à 65 ans** par frottis cervico-vaginal remboursé à 100 % (vaccinées HPV ou non, généralisé depuis 2018). Le dépistage généralisé est aussi recommandé par la Commission européenne 2022 (30-65 ans).
 
 - Frottis cervico-vaginal à 25 ans, 26 ans et 29 ans avec analyse cytologique
-- À partir de 30 ans: frottis cervico-vaginal tous les 5 ans avec test HPV-HR
+- À partir de 30 ans: frottis cervico-vaginal tous les 5 ans avec test HPV-HR  
+  3 ans après le dernier test cytologique, donc en théorie 32 ans.
 
 **Cotation du frottis:** GS + JKHD001 (12,46 €)
 
@@ -173,7 +174,7 @@ Ne pas réaliser de frottis cervical parmi les femmes suivantes de 25 à 65 ans:
 
 ### Préservatif
 
-> Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace (*INCa*)
+> Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace. (*INCa*)
 
 ### Vaccination contre les papillomavirus
 
@@ -202,8 +203,8 @@ La vaccination conte les papillomavirus prévient des lésions précancéreuses 
 [INCa. 10 arguments clés sur la vaccination contre les infections liées aux papillomavirus humains](https://www.e-cancer.fr/Expertises-et-publications/Le-point-sur/10-arguments-sur-la-vaccination-contre-les-HPV)  
 [INCa. Dépliant sur la vaccination contre les cancers HPV (PDF)](https://www.e-cancer.fr/content/download/301756/4303586/file/IN793%20Depliant%20Papillomavirus%20148x210%20HPV_BD.pdf)
 
-> En Australie, où la recommandation de vacciner les filles date de 2007 et celle des garçons de 2013, la couverture vaccinale d'au moins 80% a permis :  
-Une réduction de plus de 77% des génotypes responsables de 75% des cancers du col de l'utérus ;  
+> En Australie, où la recommandation de vacciner les filles date de 2007 et celle des garçons de 2013, la couverture vaccinale d'au moins 80% a permis:  
+Une réduction de plus de 77% des génotypes responsables de 75% des cancers du col de l'utérus;  
 Une diminution de plus de 50% de l'incidence des lésions précancéreuses cervicale de haut grade chez les jeunes filles de moins de 20 ans.  
 Dans ce pays, le succès de la campagne de vaccination, associée au dépistage, ouvre la perspective d'une éradication du cancer du col de l'utérus d'ici une quinzaine d'année.  
 *INCa*

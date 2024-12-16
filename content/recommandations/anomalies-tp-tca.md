@@ -18,7 +18,7 @@ sctid = ""
 icd10 = ["D68"]
 image = false
 imageSrc = ""
-todo = "photo"
+todo = "photo, relecture demandée"
 flowchart = true
 modele = true
 +++
@@ -177,7 +177,7 @@ Le dosage du Facteur XII n'est pas systématique devant l'absence de risque hém
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Le traitement d'une anomalie du TP ou du TCA est étiologique et **spécialisé** par l'hématologue ne l'absence de cause évidente (carence en vitamine K).
+Le traitement d'une anomalie du TP ou du TCA est étiologique et **spécialisé** par l'hématologue en l'absence de cause évidente (carence en vitamine K).
 
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une anomalie du TP et du TCA" "show" %}}
