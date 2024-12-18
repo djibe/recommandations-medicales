@@ -282,6 +282,8 @@ graph TB
 Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune information), HCSP 2022 (suivre *HCSP 2014*), SPILF 2020 (durée 3 jours, pas de posologie, référence biblio 2018 qui mentionne azithromycine 500 mg J1 et 250 mg J2 à J5) et enfin HCSP 2014 (azithromycine 500 mg pendant 3 jours).
 {.alert .alert-info}
 
+{{< youtube id="yhxuKysI33o" title="Vidéo#5 : La coqueluche (CRAtb Pays de la Loire / MedQual)" >}}
+
 - [DGS-Urgent 2024_11. 13/08/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : coqueluche chez le nourrisson, l'enfant et l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3525542/fr/choix-et-durees-d-antibiotherapies-coqueluche-chez-le-nourrisson-l-enfant-et-l-adulte)
 - [Haut Conseil de la Santé Publique. Prévention de la transmission de la coqueluche aux personnes à risque de forme grave. 30/07/2024.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1386)

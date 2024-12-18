@@ -26,7 +26,7 @@ todo = "rankok, flowchart, zona en pédiatrie"
   zona ophtalmique, +50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs intenses en phase aiguë, lésions cutanées graves)
 - Critères d'hospitalisation du zona en urgence: immunodépression, atteinte organique ou [paralysie faciale zostérienne]({{< relref "paralysie-faciale-idiopathique.md" >}})
 - Vaccination post-exposition (varicelle) après 12 ans chez l'immunocompétent sans antécédent de varicelle en contact avec un cas de zona, après sérologie
-- Vaccination zona des +65 ans par 2 doses de Shingrix par le médecin (vaccin vivant)
+- Vaccination zona des +65 ans par 2 doses espacées de 2 mois de Shingrix par le médecin (vaccin vivant)
 - Bilan avec [PCR VIH]({{< relref "vih-sida.md" >}}) en cas de zona avant 50 ans
 - Traitement des douleurs post-zostériennes: prise en charge des [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}) locales (glaçage, protection locale voire emplâtres de lidocaïne) ou étendues (clomipramine ou carbamazépine si paroxystique)
 

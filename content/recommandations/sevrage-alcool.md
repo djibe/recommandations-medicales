@@ -507,7 +507,7 @@ Le **suivi doit être au moins mensuel** et les traitements doivent être arrêt
 - Après ≥ 24h de la dernière consommation: 1 cp/j
 - Suivi 2/mois 1 mois, puis 1/mois 4 mois puis 2/an
 
-Enfin le **topiramate** peut être introduit par un alcoologue (*AHRQ 2023*).
+Enfin le **topiramate** peut être introduit par un alcoologue (*AHRQ 2023*; sauf femme en âge de procréer).
 
 {{% /collapse %}}
 {{%collapse "Objectif: Réduction d'une consommation" %}}

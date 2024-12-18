@@ -424,7 +424,7 @@ Prise en charge par traitement de fond au moins 3 mois avant de conclure à une 
   - Alternatives aux bêtabloquants: amitriptyline, candésartan ou topiramate
 - Migraine chronique {{%class%}}(≥ 15 j/mois){{%/class%}}
   - Topiramate 50-200 mg en 1-2 prises  
-    Prescription réservée au neurologue/pédiatre chez la fille et femme en âge de procréer (*ANSM 2022*)
+    Prescription annuelle réservée au neurologue/pédiatre/algologue chez la fille et femme en âge de procréer (*ANSM 2024*)
 
 {{%/info%}}
 
@@ -572,16 +572,16 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [ANSM. Médicaments contenant du topiramate (Epitomax et génériques) : modification des conditions de prescription et de délivrance. 06/10/2022.](https://ansm.sante.fr/informations-de-securite/medicaments-contenant-du-topiramate-epitomax-et-generiques-modification-des-conditions-de-prescription-et-de-delivrance)
-- [Demarquay G et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 1: Diagnosis and assessment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.001) ([VF](https://www.sciencedirect.com/science/article/pii/S2666479822002208))
-- [Ducros A et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 2: Pharmacological treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.006) ([VF](https://www.sciencedirect.com/science/article/pii/S2666479822002191))
-- [Demarquay G et al. Revised guidelines of the French headache society for the diagnosis and management of migraine in adults. Part 3: Non-pharmacological treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.009)
+- [ANSM. Topiramate (Epitomax et génériques) : évolution des conditions de prescription et de délivrance pour améliorer l’accès aux soins des femmes souffrant de migraine. 13/12/2024.](https://ansm.sante.fr/actualites/topiramate-epitomax-et-generiques-evolution-des-conditions-de-prescription-et-de-delivrance-pour-ameliorer-lacces-aux-soins-des-femmes-souffrant-de-migraine)
+- [Demarquay G, et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 1: Diagnosis and assessment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.001) ([VF](https://www.sciencedirect.com/science/article/pii/S2666479822002208))
+- [Ducros A, et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 2: Pharmacological treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.006) ([VF](https://www.sciencedirect.com/science/article/pii/S2666479822002191))
+- [Demarquay G, et al. Revised guidelines of the French headache society for the diagnosis and management of migraine in adults. Part 3: Non-pharmacological treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.009)
 - [Lucas C. Migraine with aura. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.010)
-- [Donnet A et al. Severe migraine and its control: A proposal for definitions and consequences for care. Revue neurologique. 2021.](https://doi.org/10.1016/j.neurol.2020.11.012)
+- [Donnet A, et al. Severe migraine and its control: A proposal for definitions and consequences for care. Revue neurologique. 2021.](https://doi.org/10.1016/j.neurol.2020.11.012)
 - {{< references/esc-cvd >}}
 - Prescrire Redaction. Migraine : prévention des crises chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face. 2019.](https://www.cen-neurologie.fr/second-cycle/migraine-nevralgie-du-trijumeau-algies-face)
-- [Lanteri-Minet M et al. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant. Revue Neurologique. 2013. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20sur%20la%20prise%20en%20charge%20diagnostique%20et%20th%C3%A9rapeutique%20de%20la%20migraine%20chez%20l%2527adulte%20et%20chez%20l%2527enfant%20(1).pdf)
+- [Lanteri-Minet M, et al. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant. Revue Neurologique. 2013. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20sur%20la%20prise%20en%20charge%20diagnostique%20et%20th%C3%A9rapeutique%20de%20la%20migraine%20chez%20l%2527adulte%20et%20chez%20l%2527enfant%20(1).pdf)
 - [Mukamal KJ, et al. Weather and air pollution as triggers of severe headaches. Neurology. 2009.](https://pubmed.ncbi.nlm.nih.gov/19273827/)
 - [Anaes. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant : aspects cliniques et économiques. Recommandations de bonne pratique. 2002.](https://www.has-sante.fr/jcms/c_272212/fr/prise-en-charge-diagnostique-et-therapeutique-de-la-migraine-chez-l-adulte-et-chez-l-enfant-aspects-cliniques-et-economiques)
 - [ICHD-3 version française 2019 (PDF)](https://ichd-3.org/wp-content/uploads/2019/06/ICHD3-traduction-fran%C3%A7aise-VF-%C3%A0-publier.pdf)

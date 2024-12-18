@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-14T13:07:50+02:00"
 publishdate = "2023-09-14"
-lastmod = "2024-06-28"
+lastmod = "2024-12-18"
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2022"
 sources = ["SFP", "EFSA"]
@@ -38,6 +38,8 @@ Chapitres liés: [vitamine D]({{< relref "vitamine-d.md" >}}), [ostéoporose de 
 Apports alimentaires en calcium recommandés pendant la croissance de l'enfant afin de satisfaire ses besoins.
 
 {{< traitements/calcium-enfants >}}
+
+Informations pour le refus du lait chez le nourrisson: [à 14 mois](https://www.mpedia.fr/qr/refus-lait-croissance-14mois-carences-produits-laitiers/), [18 mois](https://www.mpedia.fr/qr/refus-lait-de-croissance-18-mois/), [2 ans](https://www.mpedia.fr/qr/mon-enfant-de-2-ans-refuse-le-biberon-de-lait-de-croissance/)
 
 ## Apports quotidiens en calcium recommandés selon l'âge {.mt-5}
 
