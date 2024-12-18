@@ -50,7 +50,7 @@
     "cross-env": "^7.0.3",
     "hint": "^7.1.13",
     "html-validate": "^8.26.0",
-    "hugo-extended": "^0.139.4",
+    "hugo-extended": "^0.140.0",
     "linkinator": "^6.1.2",
     "node-sass": "6.0.1",
     "vnu-jar": "^23.4.11"
