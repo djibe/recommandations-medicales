@@ -6,6 +6,7 @@ prefix = "les "
 description = "Recommandations pour le diagnostic et la prise en charge des anomalies du TP et du TCA. Dosage des cofacteurs et du fibrinogène"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Dr X (préférant garder l'anonymat)"
 date = "2024-12-06T15:29:44+01:00"
 publishdate = "2024-12-13"
 lastmod = "2024-12-14"

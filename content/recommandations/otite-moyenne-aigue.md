@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-06T15:58:31+02:00"
 publishdate = "2023-06-08"
-lastmod = "2024-07-25"
+lastmod = "2024-12-19"
 specialites = ["ORL", "pediatrie"]
 annees = "2024"
 sources = ["HAS", "SPILF", "GPIP"]
@@ -164,23 +164,25 @@ Avis spécialisé ORL en cas d'échec à 48-72 heures chez l'adulte. -- *HAS/SPI
 - ou réapparition des symptômes et des signes otoscopiques dans les 72 heures suivant son arrêt
 : Elle est le plus souvent due à *Haemophilus influenzae*.
 
-En cas d'échec de la première ligne **chez l'enfant**:
+{{%warning%}}
+En cas d'échec de la première ligne **chez l'enfant** (*GPIP 2023*):
 
 - Par amoxicilline: ==amoxicilline-acide clavulanique 80 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours==  
   voire céfpodoxime 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 10 jours
-- Par céfpodoxime: amoxicilline 150 mg/kg en 3 prises (max 3 g/j)
+- Par céfpodoxime: amoxicilline 150 mg/kg (max 3 g/j) en 3 prises pendant 10 jours
 - Par amoxicilline-acide clavulanique: ceftriaxone 50 mg/kg/j IM/IV pendant 3 jours
+{{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'otite moyenne aiguë" "show" %}}
 
-{{< mermaid title="Recommandations pour la prise en charge de l'otite moyenne aiguë. Dr JB Fron d'après GPIP 2023 et HAS/SPILF/GPIP 2021" >}}
+{{< mermaid title="Recommandations pour la prise en charge de l'otite moyenne aiguë. Dr JB Fron d'après HAS/SPILF/GPIP 2024 et GPIP 2023" >}}
 graph TB
 OMAP["Otite moyenne aiguë<br>purulente (OMAP)"] --> 3mois("<b>&lt; 3 mois</b><br>ou suspicion de<br>complication") --> hôpital("Avis hospitalier<br>urgent")
 style OMAP stroke:#4150f5, stroke-width:1px
-  OMAP --> 2ans("<b>3-23 mois</b>") --> antibiothérapie("Antibiothérapie 10 jours:<br>- Amoxicilline 80-100 mg/kg/j<br>en 2 prises<br>- Allergie: céfpodoxime 8 mg/kg/j<br>en 2 prises") -. Échec .-> augmentin(Augmentin 10j)
+  OMAP --> 2ans("<b>3-23 mois</b>") --> antibiothérapie("<b>Antibiothérapie 10 jours:</b><br>- Amoxicilline 80 mg/kg/j<br>en 2 prises<br>- Sd otite-conjonctivite:<br>amox-clavulanique 1,5 dose-kg x 2/j<br>- Allergie: céfpodoxime 8 mg/kg/j<br>en 2 prises") -. Échec .-> échec("<b>Après échec de 1re ligne:</b><br>- Si amoxicilline: amox-clavulanique<br>80/mg/kg/j 10j<br>voire céfpodoxime 8 mg/kg/j<br>- Si céfpodoxime: amox 150 mg/kg 10j<br>- Si amox-clavulanique: ceftriaxone 50 mg/kg/j 3j")
   OMAP --> adulte("<b>≥ 2 ans, adulte</b><br>avec symptômes<br>peu intenses") --> abstention(Abstention) -. "Persistance<br> après 48h" .-> réévaluation("Réévaluation") -.-> atb
-  adulte -- "Otorrhée,<br>mauvaise tolérance" --> atb(Antibiothérapie 5j:<br>amoxicilline<br>Enfant: 10j si otorrhée) -. "Échec 72h<br>enfant" .-> augmentin
+  adulte -- "Otorrhée,<br>mauvaise tolérance" --> atb(Antibiothérapie 5j:<br>amoxicilline<br>Enfant: 10j si otorrhée) -. "Échec 72h<br>enfant" .-> échec
     atb -. "Échec 72h<br>adulte" .-> spécialiste(Avis spécialisé)
 {{< /mermaid >}}
 

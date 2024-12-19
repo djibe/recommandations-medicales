@@ -22,7 +22,7 @@ Liste des codes pour les actes et les consultations des adultes et des enfants e
 
 - Majoration MOP de 5€ pour les +80 ans qui ne font pas partie de la patientèle (valable en (télé)consultation ou visite)
 - La cotation RDV (30€) est à 100 % pour le rendez-vous de prévention à réaliser à 18-25, 45-50, 60-65 et 70-75 ans (1 fois par tranche d'âge)
-- Le G(S) passera à 30€ le 22 décembre 2024
+- Le G passe à 30€ le 22 décembre, le COE à 54 € (60€ le 1er juillet 2025)
 
 ## Les outils d'aide à la cotation du généraliste
 

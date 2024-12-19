@@ -99,6 +99,7 @@ const chartOptions1 = {
       opposite: true,
       title: { text: 'Fécondité (pour 100 femmes)' },
       decimalsInFloat: 1,
+      min: 0
     }
   ],
 }
