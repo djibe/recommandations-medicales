@@ -5,7 +5,7 @@ description = "Aide à la cotation des consultations en médecine générale: co
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2024-06-21"
+lastmod = "2024-12-20"
 annees = "2024"
 sources = ["Assurance Maladie"]
 tags = []
@@ -17,6 +17,10 @@ todo = "GL, VSP, CTE, FS exemple frottis, MD, jour férié, IK, routexl, MPH aus
 
 Liste des codes pour les actes et les consultations des adultes et des enfants en médecine générale.
 {.lead}
+
+## Les nouvelles cotations 2025
+
+Le COE passera à 60€ le 1er juillet.
 
 ## Les nouvelles cotations 2024
 
@@ -57,15 +61,15 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 {{< table title="Cotations du médecin généraliste pour la consultation de l'adulte et de l'enfant de plus de 6 ans" class="table-wrap" >}}
 | Code NGAP  | Description                                                                                   | Tarif&nbsp;(€) |
 |------------|-----------------------------------------------------------------------------------------------|---------------:|
-| G(S)       | Consultation                                                                                  |           26,5 |
+| G          | Consultation                                                                                  |             30 |
 | TCG        | Téléconsultation                                                                              |             25 |
 | RDV        | Consultation du [bilan de prévention]({{< relref "bilan-prevention.md" >}}) (TP AMO)          |             30 |
-| COB        | Consultation de l'enfant à 6, 8-9, 11-13 et 15-16 ans (à 100%)                                |           26,5 |
+| COB        | Consultation de l'enfant à 6, 8-9, 11-13 et 15-16 ans (à 100%)                                |             30 |
 | RQD        | Demande de téléexpertise (FSE Sesam sans vitale dédiée en TP AMO)                             |             10 |
 | MPH        | Premier remplissage du dossier MDPH                                                           |             60 |
 | IMT        | Déclaration MT d'un patient en ALD 30 (à 100%), cocher Nouveau médecin traitant sur la FS     |             60 |
 | CCP        | 1re consultation contraception avant 26 ans (à 100%, anonymisable)                            |           47,5 |
-| G(S)       | Consultation contraception annuelle avant 26 ans (à 100% en EXO3)                             |           26,5 |
+| G          | Consultation contraception annuelle avant 26 ans (à 100% en EXO3)                             |             30 |
 | APC        | Adressé par son MT pour une compétence explicite avec compte-rendu (ne pas revoir à ± 4 mois) |           56,5 |
 | G(S) + MN  | Consultation "urgente" non régulée 20-24h (appel après 19h) et 6-8h                           |           61,5 |
 | G(S) + MM  | Consultation "urgente" non régulée 0-6h                                                       |           66,5 |
@@ -95,7 +99,7 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 | G + MEG                                             | Consultation avant 6 ans                                                                                                               |           31,5 |
 | VG + MEG + MD                                       | Visite avant 6 ans                                                                                                                     |           41,5 |
 | [COD]({{< relref "examens-suivi-nourrisson.md" >}}) | Examens à 13-14j, M1, M2, M3, M4, M5,<br> M6, M12, M13, M16-18, A3, A4, A5  (à 100%)                                                   |           31,5 |
-| COE                                                 | Examen obligatoire 8 jours, 9-10 mois<br> ou 24-25 mois (à 100%, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |           47,5 |
+| COE                                                 | Examen obligatoire 8 jours, 9-10 mois<br> ou 24-25 mois (à 100%, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |             54 |
 | CSO*                                                | Suivi 3-12 ans en obésité (max 2/an, à 100%)                                                                                           |           47,5 |
 | CSE*                                                | Suivi enfant autiste (1/an)                                                                                                            |           47,5 |
 | MPH*                                                | Remplissage du dossier MDPH                                                                                                            |             60 |
@@ -120,16 +124,16 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 {{< table class="table-wrap" >}}
 | Code NGAP   | Description                                                                               | Tarif&nbsp;(€) |
 |-------------|-------------------------------------------------------------------------------------------|---------------:|
-| VG(S) + MD  | Visite à domicile pour un adulte                                                          |      26,5 + 10 |
-| VG(S) + MU  | Visite nécessitant d'interrompre ses consultations et de quitter immédiatement le cabinet |   26,5 + 22,60 |
+| VG + MD     | Visite à domicile pour un adulte                                                          |        30 + 10 |
+| VG + MU     | Visite nécessitant d'interrompre ses consultations et de quitter immédiatement le cabinet |     30 + 22,60 |
 | VL + MD     | Neurodégénératif, soins palliatifs (4/an) ou +80 ans en ALD (1/trimestre)                 |        60 + 10 |
-| VG(S) + MDD | Visite justifiée dimanche et jour férié                                                   |   26,5 + 22,60 |
-| VG(S) + MDN | Visite 20-24h et 6-8h                                                                     |   26,5 + 38,50 |
-| VG(S) + MDI | Visite 0-6h                                                                               |   26,5 + 43,50 |
-| VG(S) + VRS | Visite régulée samedi après-midi                                                          |      26,5 + 30 |
-| VG(S) + VRN | Visite régulée 20-24h et 6-8h                                                             |      26,5 + 46 |
-| VG(S) + VRM | Visite régulée 0-6h                                                                       |   26,5 + 59,50 |
-| VG(S) + VRD | Visite régulée dimanche et jour férié                                                     |   26,5 + 30,00 |
+| VG(S) + MDD | Visite justifiée dimanche et jour férié                                                   |     30 + 22,60 |
+| VG(S) + MDN | Visite 20-24h et 6-8h                                                                     |     30 + 38,50 |
+| VG(S) + MDI | Visite 0-6h                                                                               |     30 + 43,50 |
+| VG(S) + VRS | Visite régulée samedi après-midi                                                          |        30 + 30 |
+| VG(S) + VRN | Visite régulée 20-24h et 6-8h                                                             |        30 + 46 |
+| VG(S) + VRM | Visite régulée 0-6h                                                                       |     30 + 59,50 |
+| VG(S) + VRD | Visite régulée dimanche et jour férié                                                     |        30 + 30 |
 | APV + MD    | Vu à la demande de son MT pour une compétence explicite (ne pas revoir à ± 4 mois)        |      56,5 + 10 |
 {{< /table >}}
 
@@ -191,6 +195,7 @@ L'extraction de cérumen (CAGD001) à 19,25€ n'a pas d'intérêt.
 
 ## Sources
 
+- [Ameli. La revalorisation des consultations et des actes.](https://www.ameli.fr/medecin/textes-reference/convention-medicale-2024-2029/grands-axes-convention-detail/mesures-attractivite-exercice-liberal/revalorisation-consultations-actes)
 - [Ameli. Tarifs conventionnels des médecins généralistes en France métropolitaine . 10/01/2024.](https://www.ameli.fr/lille-douai/medecin/exercice-liberal/facturation-remuneration/consultations-actes/tarifs/tarifs-generalistes/tarifs-metropole)
 - [Ameli. Tarifs des consultations : ce qui change au 1er novembre. 30/10/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/tarifs-des-consultations-ce-qui-change-au-1er-novembre)
 - [Ameli. Convention médicale 2016 et règlement arbitral 2023.](https://www.ameli.fr/hauts-de-seine/medecin/textes-reference/convention-medicale-2016)

@@ -536,16 +536,16 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Kreutz R et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)
+- [Kreutz R, et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)
 - [SFHTA. Disponibilité des trithérapies fixes d'antihypertenseurs pour contribuer à un meilleur contrôle tensionnel des hypertendus : prise de position de la Société Française d'Hypertension Artérielle (SFHTA). 2024. (PDF)](https://www.sfhta.eu/wp-content/uploads/2024/02/Disponibilite-des-tritherapies-fixes-dantihypertenseurs-prise-de-position-de-la-SFHTA.pdf)
 - [US Preventive Services Task Force. Screening for Hypertensive Disorders of Pregnancy: US Preventive Services Task Force Final Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2809680)
 - {{< references/esh-2023 >}}
-- [Whealton S et al. Why Is Cuff Size So Important and Other Factors That Affect Accurate Blood Pressure Measurement. ACC. 2023.](https://www.acc.org/Latest-in-Cardiology/Articles/2023/06/05/19/18/Why-Is-Cuff-Size-So-Important-and-Other-Factors-That-Affect-Accurate-BP-Measurement)
-- [Olié V et al. Épidémiologie de l'hypertension artérielle en France : prévalence élevée et manque de sensibilisation de la population. BEH. 2023.](http://beh.santepubliquefrance.fr/beh/2023/8/2023_8_1.html)
+- [Whealton S, et al. Why Is Cuff Size So Important and Other Factors That Affect Accurate Blood Pressure Measurement. ACC. 2023.](https://www.acc.org/Latest-in-Cardiology/Articles/2023/06/05/19/18/Why-Is-Cuff-Size-So-Important-and-Other-Factors-That-Affect-Accurate-BP-Measurement)
+- [Olié V, et al. Épidémiologie de l'hypertension artérielle en France : prévalence élevée et manque de sensibilisation de la population. BEH. 2023.](http://beh.santepubliquefrance.fr/beh/2023/8/2023_8_1.html)
 - {{< references/ada-soc >}}
 - {{< references/esc-cvd >}}
-- [Stergiou GS et al. 2021 European Society of Hypertension practice guidelines for office and out-of-office blood pressure measurement. J Hypertens. 2021.](https://doi.org/10.1097/hjh.0000000000002843)
-- [Cheung A et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://doi.org/10.1016/j.kint.2020.10.026)
+- [Stergiou GS, et al. 2021 European Society of Hypertension practice guidelines for office and out-of-office blood pressure measurement. J Hypertens. 2021.](https://doi.org/10.1097/hjh.0000000000002843)
+- [Cheung A, et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://doi.org/10.1016/j.kint.2020.10.026)
 - [US Preventive Services Task Force, Krist AH, Davidson KW, et al. Screening for Hypertension in Adults: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2021.](https://jamanetwork.com/journals/jama/fullarticle/2779190)
 - {{< references/college-endocrino >}}
 - {{< references/esc-diabetes >}}

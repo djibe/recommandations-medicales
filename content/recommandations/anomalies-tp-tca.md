@@ -13,13 +13,13 @@ lastmod = "2024-12-14"
 specialites = ["biologie", "hematologie"]
 annees = "2024"
 sources = ["SNFMI"]
-tags = ["cancer"]
+tags = []
 english = ["Prolonged quick time or APTT"]
 sctid = ""
 icd10 = ["D68"]
 image = false
 imageSrc = ""
-todo = "photo, relecture demandée"
+todo = "photo"
 flowchart = true
 modele = true
 +++

@@ -7,7 +7,7 @@ synonyms = ["Arthrose du genou"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-15T19:21:00+02:00"
 publishdate = "2021-01-17"
-lastmod = "2024-11-28"
+lastmod = "2024-12-20"
 specialites = ["rhumatologie"]
 annees = "2021"
 sources = ["SFRhumato", "AASM"]
@@ -206,12 +206,13 @@ Mesures générales de prise en charge de l'arthrose du genou:
     << L'efficacité paraît comparable à celle des AINS per os >>, << Rapport bénéfice-risque intéressant dans la population de patients avec une gonarthrose >>.
 - **Traitement fonctionnel**
   - Repos, canne
-  - **Activité physique régulière** des membres inférieurs (aquatique ou non). Renforcement musculaire, étirements et travail aérobie
+  - **Activité physique régulière** des membres inférieurs (aquatique ou non). Renforcement musculaire, étirements et travail aérobie  
+    Tai Chi, yoga, cyclisme, renforcement musculaire.
   - Kinésithérapie: rRenforcement du quadriceps, équilibre, agilité, coordination, auto-exercices
   - Chaussures souples avec semelles amortissantes
   - Arthrose fémoro-tibiale: orthèse (genouillère) articulée de décharge unicompartimentale à visée antalgique
   - Adaptation du poste avec le Médecin du travail ou à défaut un Centre Régional de Pathologies Professionnelles et Environnementales
-- Correction d'un surpoids
+- Correction d'un **surpoids**
 - Pourraient être proposés: acupuncture, TENS, cure thermale
 
 **Ne pas utiliser:** bandes adhésives de contention ou orthèses souples, électrothérapie, thermothérapie, ondes de choc, laser, thérapies électromagnétiques.
@@ -298,6 +299,7 @@ graph TB
 
 {{< card-link-external title="Sémiologie du genou en vidéo" url="http://www.lecofer.org/semiologie.php" subtitle="COFER" >}}
 
+- [Moseng T, et al. EULAR recommendations for the non-pharmacological core management of hip and knee osteoarthritis: 2023 update. Ann Rheum Dis. 2024.](https://ard.bmj.com/content/early/2024/01/11/ard-2023-225041.long)
 - [CNGE. Eviter la visco-supplémentation dans la gonarthrose. 05/09/2022. (PDF)](https://www.cnge.fr/wp-content/uploads/2023/09/220905_Avis_CS_CNGE_Supplementation_gonarthrose_vsite.pdf)
 - [American Academy of Orthopaedic Surgeons Management of Osteoarthritis of the Knee (Non-Arthroplasty) Evidence-Based Clinical Practice Guideline. 2021. (PDF)](https://www.aaos.org/oak3cpg)
 - [Congrès SFR 2021 (12-14 décembre 2021, Paris) - Recommandations 2021 pour la prise en charge non pharmacologique des malades atteints de gonarthrose (PDF)](https://seralpar.aphp.fr/sites/default/files/recommandations_non-pharmacologiques_gonarthrose_nguyen_rannou.pdf)
@@ -306,7 +308,6 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Moseng T, et al. EULAR recommendations for the non-pharmacological core management of hip and knee osteoarthritis: 2023 update. Ann Rheum Dis. 2024.](https://ard.bmj.com/content/early/2024/01/11/ard-2023-225041.long)
 - [Duong V, et al. Evaluation and Treatment of Knee Pain: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811009)
 - [Hannon CP, et al. 2023 American College of Rheumatology and American Association of Hip and Knee Surgeons Clinical Practice Guideline for the Optimal Timing of Elective Hip or Knee Arthroplasty for Patients With Symptomatic Moderate-to-Severe Osteoarthritis or Advanced Symptomatic Osteonecrosis With Secondary Arthritis for Whom Nonoperative Therapy Is Ineffective. Arthritis Care Res (Hoboken). 2023.](https://rheumatology.org/indications-for-total-hip-and-knee-arthroplasty-guideline)
 

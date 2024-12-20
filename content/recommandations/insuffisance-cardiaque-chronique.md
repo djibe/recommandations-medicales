@@ -398,7 +398,7 @@ Autres traitements ayant un faible niveau de preuve d'efficacité: {{< modal-btn
 Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 
 - Consultation 1-2 jours après la sortie  
-  Coter *GS* + *MIC* (23€, total 48€).
+  Coter *G* + *MIC* (23€, total 48€).
 - Puis consultation minimum toutes les 2 semaines pour la titration maximale des {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} et {{< modal-btn modal-bb >}}BB{{< /modal-btn >}}
 - Surveillance: symptômes, signes, pression artérielle, fréquence cardiaque, NT-proBNP, kaliémie, DFG
 - Consultation avec le cardiologue  

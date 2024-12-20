@@ -369,17 +369,17 @@ graph TB
 
 {{< youtube id="DV0PVuj4Ljw" title="Quelle surveillance endoscopique pour un cancer du côlon ? (TutoGastro SNFGE)" >}}
 
-- [Phelip JM et al. Cancer colorectal métastatique. Thésaurus National de Cancérologie Digestive. 2024.](https://www.snfge.org/tncd/cancer-colorectal-metastatique)
-- [Lecomte T et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/cancer-du-colon-non-metastatique)
+- [Phelip JM, et al. Cancer colorectal métastatique. Thésaurus National de Cancérologie Digestive. 2024.](https://www.snfge.org/tncd/cancer-colorectal-metastatique)
+- [Cotte E, et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/cancer-du-rectum)
+- [Lecomte T, et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/cancer-du-colon-non-metastatique)
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}
 - {{< references/college-gastro >}}
-- [Cervantes A et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)
-- [Robaszkiewicz M et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
-- [Cotte E et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/tncd/cancer-du-rectum)
+- [Cervantes A, et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)
+- [Robaszkiewicz M, et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
 - [INCa. Les cancers colorectaux en 12 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-colorectaux-en-12-points-cles)
-- [Hassan C et al. Bowel preparation for colonoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2019. Endoscopy. 2019.](https://www.thieme-connect.de/products/ejournals/html/10.1055/a-0959-0505)
-- [Bernardini D et al. Critères de qualité de la coloscopie - Recommandations du CNP-HGE et de la SFED. Hépato-Gastro et Oncologie Digestive. 2019.](https://www.jle.com/fr/revues/hpg/e-docs/criteres_de_qualite_du_compte_rendu_de_coloscopie_recommandations_du_cnp_hge_et_de_la_sfed_313695/article.phtml)
+- [Hassan C, et al. Bowel preparation for colonoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2019. Endoscopy. 2019.](https://www.thieme-connect.de/products/ejournals/html/10.1055/a-0959-0505)
+- [Bernardini D, et al. Critères de qualité de la coloscopie - Recommandations du CNP-HGE et de la SFED. Hépato-Gastro et Oncologie Digestive. 2019.](https://www.jle.com/fr/revues/hpg/e-docs/criteres_de_qualite_du_compte_rendu_de_coloscopie_recommandations_du_cnp_hge_et_de_la_sfed_313695/article.phtml)
 - [INCa. Cancers colorectaux - Du diagnostic au suivi. 2018.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-colorectaux-Du-diagnostic-au-suivi)
 - [HAS. Cancer colorectal : modalités de dépistage et de prévention chez les sujets à risque élevé et très élevé. Mai 2017.](https://www.has-sante.fr/jcms/c_2772744/fr/cancer-colorectal-modalites-de-depistage-et-de-prevention-chez-les-sujets-a-risque-eleve-et-tres-eleve)
 - [HAS. Quand faut-il faire une coloscopie de contrôle après une polypectomie ?. Septembre 2013.](https://www.has-sante.fr/jcms/c_1695396/fr/quand-faut-il-faire-une-coloscopie-de-controle-apres-une-polypectomie)

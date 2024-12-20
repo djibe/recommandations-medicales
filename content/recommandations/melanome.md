@@ -370,6 +370,10 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 - [HAS. Mélanome cutané. Janvier 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-03/ald_30_guide_melanome_web.pdf)
 - [Société Française de Dermatologie. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d'un mélanome cutané MO. 2005. (PDF)](https://www.oncoderm.fr/upload/recommandations/9738-Prise-en-charge-des-meAlanome.pdf)
 
+### Bibliographie en attente
+
+[Garbe C, et al. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2024. Eur J Cancer. 2024.](https://www.ejcancer.com/article/S0959-8049(24)01759-3/abstract)
+
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}
 

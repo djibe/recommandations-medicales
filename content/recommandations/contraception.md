@@ -26,7 +26,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Consultation annuelle gratuite pour la contraception avant 26 ans (cotation GS Exo 3)  
+- Consultation annuelle gratuite pour la contraception avant 26 ans (cotation G Exo 3)  
   Coter la première consultation contraception avant 26 ans: CCP (46€ avec tiers payant AMO)
 - Seul le préservatif est efficace contre les [IST](/tags/ist/) (partiellement contre les [HPV]({{< relref "cancer-col-uterus.md" >}}), gratuit sans ordonnance en pharmacie pour les -26 ans)
 - Aide au choix de la contraception: [QuestionSexualité - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception) et [comparatif des contraceptions](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception), [Annuaire des centres de santé sexuelle](https://ivg.gouv.fr/les-centres-de-sante-sexuelle.html)
@@ -168,7 +168,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 {{%collapse "Spécialités de contraceptifs" "show" %}}
 
 > [!INFO]
-> La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares. (*CNGOF 2018*)
+> La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares (*CNGOF 2018*). Le risque d'infection haute est < 1%, même en cas de portage de gonocoque ou Chlamydia (*CNGOF 2018 IGH*).
 
 {{< table title="Spécialités de contraception disponibles en France en 2024 (sauf dernières générations et DMPA qui augmentent le risque vasculaire) et préservatifs remboursés. Dr JB Fron d'après *BDPM* et *Assurance Maladie*" class="table-wrap" id="table-pilule" >}}
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
@@ -259,10 +259,8 @@ Bilan après 3-6 mois de contraception (avant et renouvelé en antécédent fami
 
 #### DIU
 
-Pas de dépistage systématique des IST avant la pose du dispositif intra-utérin (DIU, stérilet) sauf personne à risque.  
-Notamment *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* chez les 15-25 ans ou partenaires multiples non protégés.
-
-> -- *CNGOF 2018*
+> [!INFO]
+> Pas de dépistage systématique des IST avant la pose du dispositif intra-utérin (DIU, stérilet) sauf personne à risque ou antécédent d'infection génitale haute. (*CNGOF 2018*)
 
 {{% /collapse %}}
 {{%collapse "Cotation des actes" %}}
@@ -275,7 +273,7 @@ La première consultation reprend les types de contraceptifs groupés par effica
 
 ### Consultation contraception gratuite avant 26 ans
 
-- La consultation: coter GS (26,5 €) avec Exo 3 (dit *Soins particuliers exonérés*, comme pour Covid)  
+- La consultation: coter G (30 €) avec Exo 3 (dit *Soins particuliers exonérés*, comme pour Covid)  
   Cocher TP AMO + AMC sur la feuille de soins.
 - Les actes (stérilet, implant): coter l'acte avec Exo 3
 
@@ -285,7 +283,7 @@ Pour les mineurs désirant le secret:
 
 - Rédiger une ordonnance dédiée avec mention << contraception mineurs >> et son âge
 - Facturer
-  - Sur la FSE Sesam sans vitale, GS + Exo 3 avec **NIR anonyme** 2 55 55 55 *CCC* 042/XX pour la mineure et 1 55 55 55 *CCC* 042/XX pour le mineur (la date de naissance doit être exacte) et TP AMO + AMC
+  - Sur la FSE Sesam sans vitale, G + Exo 3 avec **NIR anonyme** 2 55 55 55 *CCC* 042/XX pour la mineure et 1 55 55 55 *CCC* 042/XX pour le mineur (la date de naissance doit être exacte) et TP AMO + AMC
   - *CCC* doit être remplacé par le numéro de la CPAM du patient en ajoutant un 1 derrière le numéro du département (331 pour la Gironde), sauf 64 et DOM
   - Ensuite *XX*, la clé du NIR anonyme, [doit être calculée ici](https://commentcalculer.fr/calcul/cle-nir/)
 
