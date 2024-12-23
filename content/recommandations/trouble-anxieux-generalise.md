@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON", "Mustapha DAHLAB"]
 date = "2023-10-13T08:53:34+02:00"
 publishdate = "2023-10-17"
-lastmod = "2023-12-03"
+lastmod = "2024-12-21"
 specialites = ["psychiatrie"]
 annees = "2019"
 sources = ["ACP", "BAP"]
@@ -19,19 +19,20 @@ sctid = "21897009"
 icd10 = ["F41.1"]
 image = true
 imageSrc = "Le trouble anxieux généralisé (TAG). storyset / Freepik"
-todo = "rankok, liens > risque CV, ECG pré-thérap, livres/vidéo/sites TCC"
+todo = "rankok, risque CV, ECG pré-thérap, livres/vidéo/sites TCC"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
 - Le trouble anxieux généralisé (TAG) est fréquent, avec des inquiétudes permanentes sur au moins 2 thèmes différents, persistantes depuis plus de 6 mois et difficilement contrôlables. Il est sous-diagnostiqué et sous-traité malgré le sur-risque suicidaire et cardiovasculaire
-- Intérêt d'un dépistage des personnes à risque (bas socio-éco, veuvage/séparation/divorce, âge moyen, comorbidités psychiatriques, toxiques, traumatisme et antécédents familiaux de TAG), au choix: << Êtes-vous nerveux ? >>, {{< modal-btn modal-gad2 >}}questionnaire GAD-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}} (couplé à la [dépression]({{< relref "depression.md" >}}))
-- En cas de repérage positif, étayer le diagnostic et les critères diagnostiques DSM-5 du trouble anxieux généralisé
-- Prise en charge initiale du trouble anxieux généralisé par mesures hygiéno-diététiques et thérapie cognitive et comportementale (TCC)
-- Puis traitement antidépresseur avec titration d'un {{< modal-btn modal-isrs-tag >}}ISRS{{< /modal-btn >}} ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}. Traitement pleine dose au moins 8 semaines, poursuivi 6-12 mois après amélioration.
+- Dépister le TAG chez les personnes à risque: niveau socio-économique bas, veuvage/séparation/divorce, âge moyen, comorbidités psychiatriques, toxiques, traumatisme et antécédents familiaux de TAG
+- Questionnaires de dépistage du trouble anxieux généralisé: << Êtes-vous nerveux ? >> ou {{< modal-btn modal-gad2 >}}questionnaire GAD-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}} (couplé au dépistage de la [dépression]({{< relref "depression.md" >}}))
+- En cas de dépistage positif, valider le diagnostic et les critères diagnostiques DSM-5 du trouble anxieux généralisé
+- Prise en charge initiale du trouble anxieux généralisé par mesures hygiéno-diététiques et psychothérapie de thérapie cognitive et comportementale (TCC)
+- Puis traitement antidépresseur avec titration d'un {{< modal-btn modal-isrs-tag >}}ISRS{{< /modal-btn >}} ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}. Traitement pleine dose au moins 8 semaines, poursuivi 6 à 12 mois après amélioration
 - La réévaluation du TAG comprend: {{< modal-btn modal-gad7 >}}questionnaire GAD-7{{< /modal-btn >}} et risque suicidaire, comorbidités, toxiques, observance, grossesse
-- Avis spécialisé psychiatrique si adolescent ou jeune adulte, diagnostic incertain, comorbidité psychiatrique, fragilité (grossesse), trouble sévère ou résistance au traitement, risque suicidaire, benzodiazépines au long cours
+- Avis spécialisé psychiatrique si: adolescent ou jeune adulte, diagnostic incertain, comorbidité psychiatrique, fragilité (grossesse), trouble sévère ou résistance au traitement, risque suicidaire, benzodiazépines au long cours
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -224,14 +225,16 @@ Suivi initial toutes les 2-4 semaines jusqu'à stabilité puis tous les 3-4 mois
 
 ### Les antidépresseurs
 
-Ex: Sertraline 25 mg/j pendant 1 semaine, puis paliers de 25-50 mg tous les 7-14 jours (max 200 mg/j)
+Ex: [sertraline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65090846&typedoc=R) 25 mg/j pendant 1 semaine, puis paliers de 25-50 mg tous les 7-14 jours (max 200 mg/j)
 {.alert .alert-info}
 
-Pour une forme sévère ou lorsque la thérapie cognitive et comportementale (TCC) ne peut être essayée, proposer un {{< modal-btn modal-isrs-tag >}}antidépresseur ISRS{{< /modal-btn >}} ou {{< modal-btn modal-irsna >}}antidépresseur IRSNA{{< /modal-btn >}} (duloxétine, venlafaxine LP).
+Pour une **forme sévère** ou lorsque la thérapie cognitive et comportementale (**TCC**) n'est pas envisageable, proposer un {{< modal-btn modal-isrs-tag >}}antidépresseur ISRS{{< /modal-btn >}} ou {{< modal-btn modal-irsna >}}antidépresseur IRSNA{{< /modal-btn >}} (duloxétine, venlafaxine LP).
 
 Titration du traitement par paliers de 1-2 semaines. En cas d'inefficacité après **8 semaines** de dose thérapeutique, essayer un autre antidépresseur de la même classe avant de changer de classe.
 
-Le traitement devrait être poursuivi 6-12 mois après l'amélioration des symptômes. 20-40% rechutent dans l'année.
+Le traitement devrait être poursuivi 6 à 12 mois après l'amélioration des symptômes. 20-40% rechutent dans l'année.
+
+> **NB.** Prévenir les jeunes du risque suicidaire par désinhibition en début de traitement.
 
 ### Traitements de deuxième intention pour le trouble anxieux généralisé
 
@@ -282,6 +285,7 @@ graph TB
 - Prescrire Redaction. Patients anxieux. Rev Prescrire. 2023.
 - [Collège National Universitaire de Psychiatrie (CNUP). Troubles anxieux Trouble anxieux généralisé Item 66b. Référentiel de Psychiatrie et Addictologie. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
 - [Psychiaclic. Trouble anxieux généralisé. 04/10/2021.](https://www.psychiaclic.fr/troubles-psychiatriques/trouble-anxieux-generalise)
+- [NICE. Generalised anxiety disorder and panic disorder in adults: management. 2020.](https://www.nice.org.uk/guidance/cg113)
 - [DeMartini J, et al; ACP. Generalized Anxiety Disorder. Ann Intern Med. 2019.](https://pubmed.ncbi.nlm.nih.gov/30934083/)
 - [HAS. Troubles anxieux graves. Actes et prestations affection de longue durée. 2017.](https://www.has-sante.fr/jcms/c_556489/fr/ald-n-23-troubles-anxieux-graves)
 - [Davidson JR, et al; British Association for Psychopharmacology. A psychopharmacological treatment algorithm for generalised anxiety disorder (GAD). J Psychopharmacol. 2010.](https://pubmed.ncbi.nlm.nih.gov/18832431/)
@@ -291,7 +295,6 @@ graph TB
 ### Bibliographie en attente
 
 - [Bandelow B, et al. World Federation of Societies of Biological Psychiatry (WFSBP) guidelines for treatment of anxiety, obsessive-compulsive and posttraumatic stress disorders - Version 3. Part I: Anxiety disorders. World J Biol Psychiatry. 2023.](https://www.tandfonline.com/doi/abs/10.1080/15622975.2022.2086295)
-- [NICE. Generalised anxiety disorder and panic disorder in adults: management. 2020.](https://www.nice.org.uk/guidance/cg113)
 - [Baldwin DS, et al. Evidence-based pharmacological treatment of anxiety disorders, post-traumatic stress disorder and obsessive-compulsive disorder: a revision of the 2005 guidelines from the British Association for Psychopharmacology. J Psychopharmacol. 2014.](https://pubmed.ncbi.nlm.nih.gov/24713617/)
 - Mustapha
 

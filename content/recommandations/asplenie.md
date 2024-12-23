@@ -8,10 +8,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T23:51:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2024-05-01"
+lastmod = "2024-12-21"
 specialites = ["hematologie", "infectiologie"]
 annees = "2024"
-sources = ["MinSanté", "HCSP"]
+sources = ["MinSanté", "BSH", "HCSP"]
 tags = ["vaccin", "voyage"]
 english = ["Asplenia"]
 sctid = "707147002"
@@ -25,10 +25,10 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'asplénie (et l'hyposplénie) expose à des infections sévères et parfois foudroyantes (risque à vie mais maximal les 2 premières années)
-- Prise en charge de l'asplénique: antibioprophylaxie par pénicilline V Oracilline® 1 MUI 1 cp x 2/j pendant 2 ans (5 ans chez l'enfant)
+- L'asplénie (et l'hyposplénie) expose à des infections sévères et parfois foudroyantes (risque à vie mais maximal les 2 premières années), surtout par le pneumocoque
+- Prise en charge de l'asplénique: antibioprophylaxie par pénicilline V Oracilline® 1 MUI 1 cp x 2/j pendant 2 ans (5 ans chez l'enfant) ou à vie en cas de risque élevé (+65 ans, antécédent d'infection sévère ...)
 - 6 vaccinations recommandées contre l'immunodépression: {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}} et *Haemophilus*, méningocoques B et ACWY, grippe et Covid 19
-- Les vaccins doivent être injectés dans les 2 à 6 semaines d'une splénectomie en urgence (ou au moins 2 semaines avant une splénectomie programmée)
+- Les vaccins doivent être injectés dans les 2 semaines avant (chirurgie programmée) ou après la splénectomie
 - L'asplénie expose à une sensibilité majeure au [paludisme]({{< relref "paludisme.md" >}})
 
 {{%/article-summary%}}
@@ -40,47 +40,63 @@ Asplénie
 
 ### Complications de l'asplénie
 
-Le risque majeur de l'asplénique est **infectieux**: incidence annuelle d'infections 50 à 100 fois plus élevée. Risque plus important les 3 années suivant la splénectomie mais persiste toute la vie.
+Le risque majeur de l'asplénique est **infectieux**: incidence annuelle d'infections **50 à 100 fois plus élevée**. Risque plus important les 2-3 années suivant la splénectomie mais persistant toute la vie.
 
-Germes responsables du sur-risque infectieux: **pneumocoque** (50-90%) et *Haemophilus influenzae* (10-15%).
+Germes responsables du sur-risque infectieux: **pneumocoque** (50-90%), *Haemophilus influenzae* (10-15%) et chez les enfants, le méningocoque.
 
 ### Épidémiologie de l'asplénie
 
 500.000 personnes hypospléniques ou aspléniques en France.
 
-Splénectomie chirurgicale: première cause avec 6 à 9000 cas par an (50% d'adultes). Autres causes: infarctus splénique, asplénisme thérapeutique (radiothérapie).  
-**Drépanocytose**: 10.000 porteurs (50% adultes).
+Splénectomie chirurgicale: première cause avec 6 à 9000 cas par an (50% d'adultes). Autres causes: infarctus splénique, asplénisme thérapeutique (radiothérapie), **drépanocytose** (10.000 porteurs, la moitié adulte).
+
+### Abréviations
+
+BSH
+: {{%lang%}}British Society for Haematology{{%/lang%}}
+
+HCSP
+: Haut Conseil de la santé publique
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Étiologie de l'asplénie" %}}
 
-Causes d'une asplénie ou d'une hyposplénie:
+Causes d'asplénie et d'hyposplénie:
 
 - Traumatisme splénique
 - Rupture chirurgicale
 - Infarctus splénique
 - Asplénisme thérapeutique (radiothérapie)
 - Causes congénitales
-  - **Drépanocytose**
+  - **Drépanocytose homozygote**
   - Syndromiques: syndrome d'Ivemark, polysplénie polyendocrinopathie auto immune de type I (syndrome APECED), syndrome de
 Stormorken
-  - Maladies de surcharge: maladie de Gaucher, maladie de Niemann Pick, amyloïdose
   - Asplénie isolée congénitale sporadique ou familiale
-  - Autres hémoglobinopathies : thalassémie majeure, sphérocytose
-- MICI, [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), maladie de Whipple
+  - Autres hémoglobinopathies: thalassémie majeure, sphérocytose
 - Transplantation médullaire
-- Maladie auto-immune
-- Cirrhose alcoolique
+- Causes fonctionnelles:
+  - MICI, [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), maladie de Whipple
+  - Cirrhose alcoolique
+  - Maladie auto-immune: lupus, polyarthrite rhumatoïde, maladie de Wegener
+  - Maladies de surcharge: maladie de Gaucher, maladie de Niemann Pick, amylose
+
+{{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+- Échographie de la rate
+- Frottis sanguin  
+  Présence de corps de Jolly.
 
 {{% /collapse %}}
 {{%collapse "Antibioprophylaxie de l'asplénie" %}}
 
-Oracilline® 1 MUI, 1 cp x 2/j pendant au moins 2 ans (5 ans ou jusqu'à l'adolescence chez l'enfant) (*SFAR*, *Collège*)
+Oracilline® 1 MUI, 1 cp x 2/j pendant au moins 2 ans (5 ans ou jusqu'à l'adolescence chez l'enfant) (*SFAR*, *Collège*).
 {.alert .alert-info}
 
 Antibiothérapie par [Oracilline®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67151899&typedoc=R) (pénicilline V, phénoxyméthylpénicilline) à débuter dès le lendemain de la splénectomie.
 
-La pénicilline V existe en sirop (250.000 UI/5 mL, 500.000 UI/5 mL, 1 MUI/10 mL) ou comprimés à 1 MUI.
+La pénicilline V existe en sirops ou comprimé à 1 MUI.
 
 - Enfant de 10 à 40 kg  
   25.000 UI/kg x 2/j (max 2 MUI/j) pendant 5 ans.  
@@ -93,11 +109,20 @@ La pénicilline V existe en sirop (250.000 UI/5 mL, 500.000 UI/5 mL, 1 MUI/10 mL
   - Adulte: amoxicilline 500 mg x 2/j
   - Enfant: amoxicilline 10 mg/kg x 2/j
 
-> << en cas de signes cliniques d'infection, même débutante, il est recommandé d'instaurer une antibiothérapie curative par céphalosporine de 3ème génération, type céfotaxime ou ceftriaxone, afin de limiter la survenue de sepsis graves >>. -- *SFAR*
+> << (...) en cas de signes cliniques d'infection, même débutante, il est recommandé d'instaurer une antibiothérapie curative par céphalosporine de 3ème génération, type céfotaxime ou ceftriaxone, afin de limiter la survenue de sepsis graves >>. -- *SFAR*
 {.alert .alert-warning}
 
+### Sujets à risque élevé de sepsis grave
+
+- 3 premières années d'asplénie (2 en France)
+- Enfants et +65 ans
+- Antécédent d'infection invasive à pneumocoque
+- Traitement d'hémopathie, immunosuppression
+
+> -- *BSH 2024*
+
 {{% /collapse %}}
-{{%collapse "Vaccination et asplénie ou splénectomie" %}}
+{{%collapse "Vaccinations au cours d'asplénie ou splénectomie" %}}
 
 ### Vaccins recommandés en cas d'asplénie
 
@@ -109,8 +134,8 @@ Vaccins à réaliser avant voire après une splénectomie.
 | Covid-19        | Recommandations en vigueur   |                  |
 | dTcaPolio       | Calendrier vaccinal          | Boostrix®/Repevax® tous les 10 ans |
 | Grippe          | 1 dose                       | Annuel           |
-| *H. influenzae* | ACT-HIB® dose unique         |                  |
-| Méningocoque ACWY | Menveo® (sans aiguille)/Nimenrix® à M0-M6<br>ou Menquadfi® | Tous les 5 ans<br>Non connu |
+| *H. influenzae* | ACT-HIB® dose unique (hors AMM) |               |
+| Méningocoque ACWY | Menveo® (sans aiguille)/Nimenrix® à M0-M6<br>ou Menquadfi® | Tous les 5 ans |
 | Méningocoque B  | Bexsero® (ou Trumenba®) à M0 et M2 | Tous les 2-3 ans selon *Lee GM* |
 | {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} | +18 ans: Prevenar 20<br>< 18 ans: lire calendrier vaccinal | |
 {{< /table >}}
@@ -128,9 +153,7 @@ Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}).
 
 #### Pneumocoque
 
-- Prevenar 20® 1 dose  
-  ou Prevenar 13® puis Pneumovax® 2 mois après  
-  {{%class%}}Intervalle avec dernier Prevenar 13® doit être > 3 ans.{{%/class%}}
+- Prevenar 20® 1 dose
 - Enfant 2 à 5 ans non vaccinés: Prevenar 13® M0-M2 et Pneumovax® M4
 - Enfant < 2 ans: schéma nourrisson et rappel Pneumovax® après ses 2 ans
 
@@ -174,10 +197,11 @@ Mise à jour du calendrier vaccinal de l'entourage du sujet asplénique (voir [V
 L'asplénie (par splénectomie ou autre) induit un risque infectieux majeur nécessitant une éducation thérapeutique:
 
 - Risque accru d'infections nécessitant un avis médical rapide en cas de fièvre, frissons, raideurs, vomissements, diarrhées
-- Carte de signalement d'asplénie
+- En cas de fièvre TODO: ceftriaxone 1g immédiatement avant les hémocultures
+- [Carte patient](https://www.ceredih.fr/uploads/Carte_maladies_rares_CEREDIH.pdf) asplénique
 - Notification de la date et du motif sur le carnet de santé
 - Intérêt du suivi vaccinal rigoureux
-- Consulter avant de voyager à l'étranger
+- Consulter avant de voyager à l'étranger (éviter les zones impaludées)
 - Prophylaxie en cas de [morsure animale]({{< relref "morsure.md" >}}) ou de tiques, léchage de plaie par un animal
 
 {{% /collapse %}}
@@ -194,17 +218,17 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Vaccination Info Service. Patient asplénique ou hyposplénique. 11/12/2024.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Patient-immunodeprime/Patient-asplenique-ou-hyposplenique)
+- [Ladhani SN, et al. Prevention and treatment of infection in patients with absent or hypofunctional spleen: A British Society for Haematology guideline. Br J Haematol. 2024.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.19361)
 - {{< references/calendrier-vaccinal >}}
 - Collège des enseignants d'hématologie. Splénomégalie. Item 275. 2021.
 - [Lee GM. Preventing infections in children and adults with asplenia. Hematology Am Soc Hematol Educ Program. 2020.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33275684/)
 - [Medqual. Vaccination du patient immunodéprimé. 2019. (PDF)](https://medqual.fr/images/PRO/FORMATION/ATBR_Vaccin_04.pdf)
 - [Vaccination Info Service. Patient asplénique ou hyposplénique. 12/04/2018.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Patient-immunodeprime/Patient-asplenique-ou-hyposplenique)
 - [HCSP. Vaccination des personnes immunodéprimées ou aspléniques. Recommandations actualisées. 2014.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
+- [Aguilar C, et al. Recommandation sur les prophylaxies anti-infectieuses au cours des déficits immunitaires héréditaires. CEREDIH. 2012.](https://www.ceredih.fr/uploads/Reco_ProphylDIP_CEREDIH_2_Long.pdf)
 - [Dahyot-Fizelier C et Mimoz O. Gestion du patient splénectomisé. SFAR. 2010.](https://sfar.org/gestion-du-patient-splenectomise/)
-
-### Bibliographie en attente
-
-[ Ladhani SN, et al. Prevention and treatment of infection in patients with absent or hypofunctional spleen: A British Society for Haematology guideline. Br J Haematol. 2024.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.19361)
+- [Asplénie. ePopi.](https://epopi.fr/?page=fiche&id=856&cat_id=1363)
 
 {{%/sources%}}
 {{% modal title="Vaccin pneumocoque" id="modal-pneumocoque"%}}

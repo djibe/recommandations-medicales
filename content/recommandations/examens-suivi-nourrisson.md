@@ -49,22 +49,22 @@ Examens médicaux de la naissance à 16 ans avec la cotation associée, facturé
 | N° |              Âge              |                                    Cotation MG                                    |
 |---:|:-----------------------------:|:---------------------------------------------------------------------------------:|
 |  1 | **Dans les 8 premiers jours** |   COE (54€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |
-|  2 |        13 ou 14 jours         |                                    COD (31,5€)                                    |
-|  3 |            1 mois             |                                    COD (31,5€)                                    |
-|  4 |            2 mois             |                                    COD (31,5€)                                    |
-|  5 |            3 mois             |                                    COD (31,5€)                                    |
-|  6 |            4 mois             |                                    COD (31,5€)                                    |
-|  7 |            5 mois             |                                    COD (31,5€)                                    |
-|  8 |            6 mois             |                                    COD (31,5€)                                    |
-|  9 |          **9 mois**           |   COE (54€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12597.do)) |
-| 10 |            12 mois            |                                    COD (31,5€)                                    |
-| 11 |            13 mois            |                                    COD (31,5€)                                    |
+|  2 |        2e semaine             |                                    COD (31,5€)                                    |
+|  3 |   Avant la fin du 1^er^ mois  |                                    COD (31,5€)                                    |
+|  4 |            1 mois             |                                    COD (31,5€)                                    |
+|  5 |            2 mois             |                                    COD (31,5€)                                    |
+|  6 |            3 mois             |                                    COD (31,5€)                                    |
+|  7 |            4 mois             |                                    COD (31,5€)                                    |
+|  8 |            5 mois             |                                    COD (31,5€)                                    |
+|  9 |          **8 mois**           |   COE (54€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12597.do)) |
+| 10 |            11 mois            |                                    COD (31,5€)                                    |
+| 11 |            12 mois            |                                    COD (31,5€)                                    |
 | 12 |         16 à 18 mois          |                                    COD (31,5€)                                    |
-| 13 |       **24 ou 25 mois**       |   COE (54€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12598.do)) |
-| 14 |             3 ans             |                                    COD (31,5€)                                    |
-| 15 |             4 ans             |                                    COD (31,5€)                                    |
-| 16 |             5 ans             |                                    COD (31,5€)                                    |
-| 17 |             6 ans             |                                    COB (30€)                                      |
+| 13 |       **23 ou 24 mois**       |   COE (54€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12598.do)) |
+| 14 |             2 ans             |                                    COD (31,5€)                                    |
+| 15 |             3 ans             |                                    COD (31,5€)                                    |
+| 16 |             4 ans             |                                    COD (31,5€)                                    |
+| 17 |             5 ans             |                                    COD (31,5€)                                    |
 | 18 |            8-9 ans            |                                    COB (30€)                                      |
 | 19 |           11-13 ans           |                                    COB (30€)                                      |
 | 20 |           15-16 ans           |                                    COB (30€)                                      |

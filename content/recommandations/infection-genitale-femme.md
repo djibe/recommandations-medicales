@@ -39,7 +39,7 @@ Chapitres liés: candidose vaginale, [herpès génital]({{< relref "infections-h
 Leucorrhées
 : Pertes vaginales.
 : Elles sont pathologiques si elles se modifient en couleur, abondance, aspect et/ou odeur. Elles traduisent alors une infection (vaginite, vulvo-vaginite).
-: Principales causes: trichomonose (IST, leucorrhées abondantes, spumeuses, voir *Vaginose*), **vaginose bactérienne** (VB, abondantes, nauséabondes) et candidose vaginale (caillebottées).
+: Principales causes: trichomonose (IST, leucorrhées abondantes, spumeuses, voir *Vaginose*), **vaginose bactérienne** (leucorrhées abondantes, nauséabondes) et candidose vaginale (caillebottées).
 
 Vaginose bactérienne
 : Syndrome traduisant un déséquilibre de la flore vaginale avec remplacement des lactobacilles (flore de Döderlein) par des microorganismes commensaux: anaérobies (*Mobiluncus sp* ...), *Mycoplasma hominis* et *Gardnerella vaginalis* dont la prolifération est responsable des symptômes (leucorrhées malodorantes).

@@ -5,7 +5,7 @@ noindex = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-11-15T16:02:00+02:00"
 publishdate = "2022-11-17"
-lastmod = "2024-09-27"
+lastmod = "2024-12-20"
 specialites = []
 annees = "2024"
 sources = ["Assurance Maladie"]
@@ -58,12 +58,12 @@ De même, un délégué de l'Assurance Maladie peut accompagner le médecin emba
 
 {{< table title="Options de financement de l'Assistant médical par l'Assurance Maladie en 2024. **ETP =** équivalent temps-plein; **P =** percentile" >}}
 | Options (ETP) | 1^re^ année (€) | 2^e^ année | Ensuite | Avec forte patientèle | Très forte |
-|--------------:|-------------------------:|-----------:|--------:|----------------------:|-----------:|
-|           1/2 |                   18.000 |     13.500 |  10.500 |                12.500 |     18.000 |
-|             1 |                   36.000 |     27.000 |  21.000 |                25.000 |     36.000 |
+|--------------:|----------------:|-----------:|--------:|----------------------:|-----------:|
+|           1/2 |          19.000 |     14.000 |  11.000 |                13.000 |     19.000 |
+|             1 |          38.000 |     28.000 |  22.000 |                26.000 |     38.000 |
 {{< /table >}}
 
-> **Forte patientèle =** médecins parmi les 10% les plus actifs (P90-P95 soit 1503 patients) ; très forte = > P95 (soit 1721 patients)
+> **Forte patientèle =** médecins parmi les 10% les plus actifs (P90-P95 soit ? patients) ; très forte = > P95 (soit ? patients)
 
 {{% /collapse %}}
 {{%collapse "Estimer le coût d'un assistant médical" %}}

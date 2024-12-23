@@ -70,7 +70,7 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 | IMT        | Déclaration MT d'un patient en ALD 30 (à 100%), cocher Nouveau médecin traitant sur la FS     |             60 |
 | CCP        | 1re consultation contraception avant 26 ans (à 100%, anonymisable)                            |           47,5 |
 | G          | Consultation contraception annuelle avant 26 ans (à 100% en EXO3)                             |             30 |
-| APC        | Adressé par son MT pour une compétence explicite avec compte-rendu (ne pas revoir à ± 4 mois) |           56,5 |
+| APC        | Adressé par son MT pour une compétence explicite avec compte-rendu (ne pas revoir à ± 4 mois) |             60 |
 | G(S) + MN  | Consultation "urgente" non régulée 20-24h (appel après 19h) et 6-8h                           |           61,5 |
 | G(S) + MM  | Consultation "urgente" non régulée 0-6h                                                       |           66,5 |
 | G(S) + F   | Consultation "urgente" non régulée dimanche et jours fériés                                   |          45,56 |
