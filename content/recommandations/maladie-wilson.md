@@ -221,10 +221,10 @@ Le rythme de suivi des consultations spécialisées est adapté à la phase de t
 {{% /collapse %}}
 {{%sources%}}
 
-- [PNDS. Maladie de Wilson. 2022.](https://www.has-sante.fr/jcms/c_640052/fr/maladie-de-wilson)
+- [Centre de référence de la maladie de Wilson et autres maladies rares liées au cuivre. Maladie de Wilson. Protocole national de diagnostic et de soins. 2022.](https://www.has-sante.fr/jcms/c_640052/fr/maladie-de-wilson)
 - {{< references/college-gastro >}}
 - [Collège des Enseignants de Neurologie (CEN). Mouvements anormaux. 2019.](https://www.cen-neurologie.fr/second-cycle/mouvements-anormaux)
-- [CRMR Maladie de Wilson](https://www.crmrwilson.com)
+- [Centre de référence de la maladie de Wilson et autres maladies rares liées au cuivre. Maladie de Wilson.](https://www.crmrwilson.com)
 - [Orphanet. Maladie de Wilson.](https://www.orpha.net/consor/cgi-bin/Disease_Search.php?lng=FR&data_id=134&Disease_Disease_Search_diseaseGroup=Wilson&Disease_Disease_Search_diseaseType=Pat&Maladie(s)/groupes%20de%20maladies=Maladie-de-Wilson&title=Maladie%20de%20Wilson&search=Disease_Search_Simple)
 
 ### Bibliographie en attente

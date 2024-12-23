@@ -242,11 +242,11 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Beuschlein F et al. European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and therapy of glucocorticoid-induced adrenal insufficiency. Eur J Endocrinol. 2024.](https://academic.oup.com/ejendo/article/190/5/G25/7663654)
+- [Beuschlein F, et al. European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and therapy of glucocorticoid-induced adrenal insufficiency. Eur J Endocrinol. 2024.](https://academic.oup.com/ejendo/article/190/5/G25/7663654)
 - {{< references/college-endocrino >}}
 - Collège National des Enseignants de Médecine Interne (CEMI). Prescription et surveillance des classes de médicaments les plus courantes chez l'adulte et chez l'enfant : anti-inflammatoires non stéroïdiens et corticoïdes. Référentiel Collège de Médecine interne R2C. 2021.
 
-### Bibliographie en attente
+### Bibliographie pour en savoir plus
 
 [Garrahy A, et al. Glucocorticoid induced adrenal insufficiency. BMJ. 2022.](https://www.bmj.com/content/379/bmj-2021-065137)
 
