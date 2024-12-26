@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T23:51:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2024-12-21"
+lastmod = "2024-12-26"
 specialites = ["hematologie", "infectiologie"]
 annees = "2024"
 sources = ["MinSanté", "BSH", "HCSP"]
@@ -26,7 +26,8 @@ flowchart = true
 {{%article-summary%}}
 
 - L'asplénie (et l'hyposplénie) expose à des infections sévères et parfois foudroyantes (risque à vie mais maximal les 2 premières années), surtout par le pneumocoque
-- Prise en charge de l'asplénique: antibioprophylaxie par pénicilline V Oracilline® 1 MUI 1 cp x 2/j pendant 2 ans (5 ans chez l'enfant) ou à vie en cas de risque élevé (+65 ans, antécédent d'infection sévère ...)
+- Prise en charge de l'asplénique: antibioprophylaxie par pénicilline V Oracilline® 1 MUI 1 cp x 2/j pendant au moins 2 ans (5 ans chez l'enfant) ou à vie en cas de risque élevé (+65 ans, antécédent d'infection sévère ...)
+- Ceftriaxone g IM immédiat et consultation urgente en cas de fièvre ou syndrome infectieux
 - 6 vaccinations recommandées contre l'immunodépression: {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}} et *Haemophilus*, méningocoques B et ACWY, grippe et Covid 19
 - Les vaccins doivent être injectés dans les 2 semaines avant (chirurgie programmée) ou après la splénectomie
 - L'asplénie expose à une sensibilité majeure au [paludisme]({{< relref "paludisme.md" >}})
@@ -55,6 +56,9 @@ Splénectomie chirurgicale: première cause avec 6 à 9000 cas par an (50% d'adu
 BSH
 : {{%lang%}}British Society for Haematology{{%/lang%}}
 
+CEREDIH
+: Centre de Référence Déficits Immunitaires Héréditaires
+
 HCSP
 : Haut Conseil de la santé publique
 {.dl-inline}
@@ -70,7 +74,7 @@ Causes d'asplénie et d'hyposplénie:
 - Asplénisme thérapeutique (radiothérapie)
 - Causes congénitales
   - **Drépanocytose homozygote**
-  - Syndromiques: syndrome d'Ivemark, polysplénie polyendocrinopathie auto immune de type I (syndrome APECED), syndrome de
+  - Syndromiques: syndrome d'Ivemark, polysplénie polyendocrinopathie auto-immune de type I (syndrome APECED), syndrome de
 Stormorken
   - Asplénie isolée congénitale sporadique ou familiale
   - Autres hémoglobinopathies: thalassémie majeure, sphérocytose
@@ -103,6 +107,7 @@ La pénicilline V existe en sirops ou comprimé à 1 MUI.
 - Enfant < 10 kg  
   100.000 UI/kg/j pendant 5 ans.
 - Allergie aux bêtalactamines
+  - Selon le *CEREDIH 2013*: cotrimoxazole 25 mg/kg/j (de sulfaméthoxazole)
   - Selon la *SFAR 2010*: érythromycine ([Ery®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61572941&typedoc=R)) 500 mg x 1/j
   - Selon *Lee GM*: céfalexine 250 mg 1 cm x 2/j (en dehors des repas et sans lait) ou azithromycine 250 mg x 1/j
 - En cas de pénurie d'Oracilline® (*Lee GM*):
@@ -114,10 +119,12 @@ La pénicilline V existe en sirops ou comprimé à 1 MUI.
 
 ### Sujets à risque élevé de sepsis grave
 
+Personnes à risque d'infection grave devant bénéficier d'un antibioprophylaxie:
+
 - 3 premières années d'asplénie (2 en France)
 - Enfants et +65 ans
 - Antécédent d'infection invasive à pneumocoque
-- Traitement d'hémopathie, immunosuppression
+- Splénectomie pour hémopathie, immunosuppression
 
 > -- *BSH 2024*
 
@@ -128,17 +135,19 @@ La pénicilline V existe en sirops ou comprimé à 1 MUI.
 
 Vaccins à réaliser avant voire après une splénectomie.
 
-{{< table title="Synthèse des vaccins à administrer en cas d'asplénie selon *Calendrier vaccinal 2024* et *HCSP 2014*. Contrôler l'âge sur les RCP" class="table-wrap" >}}
+{{< table title="Synthèse des vaccins à administrer en cas d'asplénie selon *Vaccination Info Service 2024*. Contrôler l'âge sur les RCP" class="table-wrap" >}}
 | Germe           | Primo-vaccination            | Rappel           |
 |-----------------|------------------------------|------------------|
 | Covid-19        | Recommandations en vigueur   |                  |
 | dTcaPolio       | Calendrier vaccinal          | Boostrix®/Repevax® tous les 10 ans |
 | Grippe          | 1 dose                       | Annuel           |
 | *H. influenzae* | ACT-HIB® dose unique (hors AMM) |               |
-| Méningocoque ACWY | Menveo® (sans aiguille)/Nimenrix® à M0-M6<br>ou Menquadfi® | Tous les 5 ans |
-| Méningocoque B  | Bexsero® (ou Trumenba®) à M0 et M2 | Tous les 2-3 ans selon *Lee GM* |
-| {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} | +18 ans: Prevenar 20<br>< 18 ans: lire calendrier vaccinal | |
+| Méningocoque ACWY | Menquadfi®, Menveo® (sans aiguille) ou Nimenrix® à M0-M6 | Tous les 5 ans |
+| Méningocoque B  | Bexsero® (ou Trumenba®) à M0 et M2 | Tous les 5 ans |
+| {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} | Ancien schéma Prevenar13® et Pneumovax® | Prevenar20® à 5 ans |
 {{< /table >}}
+
+> << L'asplénie en elle même ne contre indique pas l'utilisation des vaccins vivants. >> -- *CEREDIH*
 
 ### Quand vacciner ?
 
@@ -196,13 +205,13 @@ Mise à jour du calendrier vaccinal de l'entourage du sujet asplénique (voir [V
 
 L'asplénie (par splénectomie ou autre) induit un risque infectieux majeur nécessitant une éducation thérapeutique:
 
-- Risque accru d'infections nécessitant un avis médical rapide en cas de fièvre, frissons, raideurs, vomissements, diarrhées
-- En cas de fièvre TODO: ceftriaxone 1g immédiatement avant les hémocultures
+- Risque accru d'infections nécessitant un avis médical urgent en cas de: **fièvre**, frissons, raideurs, vomissements, diarrhées
+- En cas de **fièvre**: ceftriaxone 1g IM immédiatement avant les hémocultures
 - [Carte patient](https://www.ceredih.fr/uploads/Carte_maladies_rares_CEREDIH.pdf) asplénique
 - Notification de la date et du motif sur le carnet de santé
 - Intérêt du suivi vaccinal rigoureux
-- Consulter avant de voyager à l'étranger (éviter les zones impaludées)
-- Prophylaxie en cas de [morsure animale]({{< relref "morsure.md" >}}) ou de tiques, léchage de plaie par un animal
+- Consulter avant de voyager à l'étranger: éviter les zones impaludées, zones de méningocoque A
+- Prophylaxie en cas de **griffure** ou **[morsure animale]({{< relref "morsure.md" >}})** ou de **tiques**, léchage de plaie par un animal
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'asplénie" "show" %}}
@@ -226,7 +235,7 @@ graph TB
 - [Medqual. Vaccination du patient immunodéprimé. 2019. (PDF)](https://medqual.fr/images/PRO/FORMATION/ATBR_Vaccin_04.pdf)
 - [Vaccination Info Service. Patient asplénique ou hyposplénique. 12/04/2018.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Patient-immunodeprime/Patient-asplenique-ou-hyposplenique)
 - [HCSP. Vaccination des personnes immunodéprimées ou aspléniques. Recommandations actualisées. 2014.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
-- [Aguilar C, et al. Recommandation sur les prophylaxies anti-infectieuses au cours des déficits immunitaires héréditaires. CEREDIH. 2012.](https://www.ceredih.fr/uploads/Reco_ProphylDIP_CEREDIH_2_Long.pdf)
+- [Aguilar C, et al. Recommandation sur les prophylaxies anti-infectieuses au cours des déficits immunitaires héréditaires. CEREDIH. 2013.](https://www.ceredih.fr/uploads/Reco_ProphylDIP_CEREDIH_2_Long.pdf)
 - [Dahyot-Fizelier C et Mimoz O. Gestion du patient splénectomisé. SFAR. 2010.](https://sfar.org/gestion-du-patient-splenectomise/)
 - [Asplénie. ePopi.](https://epopi.fr/?page=fiche&id=856&cat_id=1363)
 

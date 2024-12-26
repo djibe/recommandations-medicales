@@ -167,7 +167,7 @@ La coloscopie doit être réalisée au moins 6 semaines après l'épisode divert
 {{%/warning%}}
 
 {{% /collapse %}}
-{{%collapse "Traitement ambulatoire de la diverticulite sigmoïdienne" %}}
+{{%collapse "Traitement de la diverticulite sigmoïdienne" %}}
 
 Une prise en charge ambulatoire de diverticulite aiguë est possible uniquement en l'absence d'*indications à l'hospitalisation* (voir ci-dessus).
 

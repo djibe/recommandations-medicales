@@ -18,16 +18,16 @@ sctid = "237036002"
 icd10 = ["N96"]
 image = false
 imageSrc = ""
-todo = "photo, flow"
+todo = "flow"
 +++
 
 {{%article-summary%}}
 
-- On peut parler de fausses couches répétées à partir de 2 fausses couches spontanées avant 24 SA
+- Les fausses couches sont dites répétées à partir de 2 fausses couches spontanées avant 24 semaines d'aménorrhée
 - L'examen clinique évalue les antécédents, le mode de vie et les toxiques chez le couple
 - Le bilan de fausses couches répétées comporte: TSH, anticorps anti-TPO, sérologie cœliaque, anticoagulant type lupique, IgG et IgM anti-cardiolipine et échographie pelvienne transvaginale 3D
 - D'autres examens peuvent être associés
-- La prise en charge associe mesures hygiéno-diététiques (tabac, alcool, poids normal), soutien psychologique et traitements spécifiques (aspirine si SAPL, progestérone vaginale)
+- La prise en charge de fausses couches répétées associe mesures hygiéno-diététiques (tabac, alcool, correction d'un surpoids), soutien psychologique et traitements spécifiques (aspirine en cas de SAPL, progestérone vaginale)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -103,6 +103,8 @@ La **maladie de Wilson** peut causer des fausses couches répétées.
 {{% /collapse %}}
 {{%collapse "Traitement des fausses couches répétées" %}}
 
+Mesures de prise en charge des fausses couches répétées:
+
 - Mesures hygiéno-diététiques
   - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
   - Limiter la [consommation d'alcool]({{< relref "sevrage-alcool.md" >}})
@@ -117,22 +119,24 @@ La **maladie de Wilson** peut causer des fausses couches répétées.
 - Si thrombophilie héréditaire: pas d'anticoagulant
 - Si FCS au 2^e^ trimestre et suspicion d'hypotonie du col utérin: échographies répétées, considérer un cerclage
 - Multi-vitamines autorisées pendant la grossesse (mais sans preuve de bénéfice)
+- Information des patientes (voir section suivante)
 
 Manque de preuves pour: progestérone ou hCG en cas d'insuffisance lutéale, metformine pour intolérance glucidique, G-CSF, suppléments multi-vitaminiques.
 {.alert .alert-info}
 
-### Information des patientes
+{{% /collapse %}}
+{{%collapse "Information des patientes" %}}
 
 - [Guide ESHRE d'information (PDF anglais)](https://www.eshre.eu/-/media/sitecore-files/Guidelines/Recurrent-pregnancy-loss/2022/ESHRE-RPL-patient-Guideline_Update-2022_Final-Version-January-2023.pdf) sur les fausses couches répétées
 - Le risque de fausse couche est au plus bas entre 20 et 35 ans. Il augmente rapidement après 40 ans
 - Aucune preuve que le stress soit la cause directe de la fausse couche
 - Le tabac réduirait les chances de naissance vivante
 - L'excès d'alcool est une possible cause et est fœtotoxique
-- Les IMC extrêmes ([obésité]({{< relref "obesite-adulte.md" >}}), maigreur) augmentent le risque de complications obstétricales
+- Les IMC extrêmes ([obésité]({{< relref "obesite-adulte.md" >}}) et maigreur) augmentent le risque de complications obstétricales
 
 {{% /collapse %}}
 {{%sources%}}
 
-[Goddijn M et al; ESHRE Guideline Group on RPL. Recurrent pregnancy loss. Guideline of European Society of Human Reproduction and Embryology Update 2022. 2023.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Recurrent-pregnancy-loss)
+[Goddijn M, et al; ESHRE Guideline Group on RPL. Recurrent pregnancy loss. Guideline of European Society of Human Reproduction and Embryology Update 2022. 2023.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Recurrent-pregnancy-loss)
 
 {{%/sources%}}

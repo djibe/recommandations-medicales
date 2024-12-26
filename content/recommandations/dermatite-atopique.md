@@ -35,7 +35,7 @@ todo = "phalangette"
 Dermatite atopique (DA)
 : Dermatose inflammatoire chronique et prurigineuse survenant chez des sujets génétiquement prédisposés et favorisée par des facteurs environnementaux.  
 Maladie chronique évoluant par *poussées* avec intervalles libres.
-: Elle touche 10-15% des nourrissons, incidence en nette progression.  
+: Elle touche 10 à 15% des nourrissons avec une incidence en nette progression.  
 Elle évolue le plus souvent vers une rémission complète après plusieurs mois ou années (5% persistent chez l'adulte).
 : La moitié présente également d'autres manifestations atopiques: [rhinite allergique]({{< relref "rhinite-allergique.md" >}}) > [asthme]({{< relref "asthme.md" >}}) > conjonctivite > allergie alimentaire.  
 Comorbidités chez l'adulte: cardiovasculaires (HTA, AVC, IDM), rénales, [diabète](/tags/diabete/), [dépression]({{< relref "depression.md" >}}) et suicide.
@@ -268,9 +268,9 @@ Les corticoïdes par voie orale ou injectable n'ont aucune indication dans la de
 {{< youtube id="aqFisNwwTPQ" title="SCORAD (Dr JF Stalder)" >}}
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{%collapse "Prise en charge de la dermatite atopique" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de dermatite atopique et prise en charge de l'eczéma. Dr JB Fron d'après EADV 2020, CEDEF 2021 et SFD 2005" >}}
+{{< mermaid title="Prise en charge de la dermatite atopique (eczéma). Dr JB Fron d'après EADV 2020, CEDEF 2021 et SFD 2005" >}}
 graph TB
   suspicion[Suspicion de dermatite atopique]
   style suspicion stroke:#4150f5, stroke-width:1px
@@ -287,11 +287,11 @@ graph TB
 {{%sources%}}
 
 - Prescrire Redaction. Eczéma atopique des nourrissons. Rev Prescrire. 2024.
-- [Wollenberg A et al. First update of the living European guideline (EuroGuiDerm) on atopic eczema. J Eur Acad Dermatol Venereol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.19269)
+- [Wollenberg A, et al. First update of the living European guideline (EuroGuiDerm) on atopic eczema. J Eur Acad Dermatol Venereol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.19269)
 - [Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéomuqueuses chez l'enfant et l'adulte. urticaire, dermatites atopique et de contact. Item 187. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-187-%E2%80%94-Hypersensibilites-et-allergies-cutaneo-muqueuses-chez-lenfant-et-ladulte.-Urticaire-dermatites-atopique-et-de-contact_CompressPdf.pdf)
-- [Ridd MJ et al. Effectiveness and safety of lotion, cream, gel, and ointment emollients for childhood eczema: a pragmatic, randomised, phase 4, superiority trial. Lancet Child Adolesc Health. 2022.](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(22)00146-8/fulltext)
+- [Ridd MJ, et al. Effectiveness and safety of lotion, cream, gel, and ointment emollients for childhood eczema: a pragmatic, randomised, phase 4, superiority trial. Lancet Child Adolesc Health. 2022.](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(22)00146-8/fulltext)
 - [Staumont D. La dermatite atopique. Dermato-Info. 29/05/2021.](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-dermatite-atopique)
-- [Wollenberg A et al; European Task Force on Atopic Dermatitis/EADV Eczema Task Force. ETFAD/EADV Eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children. J Eur Acad Dermatol Venereol. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16892)
+- [Wollenberg A, et al; European Task Force on Atopic Dermatitis/EADV Eczema Task Force. ETFAD/EADV Eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children. J Eur Acad Dermatol Venereol. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16892)
 - [Société Française de Dermatologie. Prise en charge de la dermatite atopique de l'enfant (texte court). Ann Dermatol Venereol. 2005. (PDF)](https://www.sfdermato.org/upload/recommandations/da-court-21929906693b437d6f4315bef48d1518.pdf)
 
 ### Bibliographie en attente

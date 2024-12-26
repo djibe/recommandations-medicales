@@ -334,7 +334,7 @@ Des effets indésirables sont observés dans 2-16% des cas: Céphalées (+10%), 
 Les effets indésirables graves sont rares: allongement QT, IDM, NOIAA (3/100.000), surdité brutale irréversible.
 
 {{% /collapse %}}
-{{%collapse "Traitements spécifiques de la dysfonction érectile" %}}
+{{%collapse "Traitement de la dysfonction érectile" %}}
 
 ### Inhibiteurs de la phospho-diestérase de type 5 (iPDE-5)
 
@@ -434,18 +434,18 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 
 - {{< references/esc-cvd >}}
 - [Allen MS. Physical activity as an adjunct treatment for erectile dysfunction. Nat Rev Urol. 2019.](https://www.ncbi.nlm.nih.gov/pubmed/31239541)
-- [Colson MH et al. Les traitements oraux de la dysfonction érectile aujourd'hui, pour quel patient ? Sexologies. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S1158136018300094)
-- [Colson MH et al. Démarche diagnostique et prise en charge du patient souffrant de dysfonction érectile, actualisation et consignes pratiques. Sexologies. 2018.](https://www.em-consulte.com/en/article/1198573)
-- [Colson MH et al; AIUS. La dysfonction érectile du diabétique. Sexologies. 2018.](https://www.sciencedirect.com/science/article/pii/S1158136018300112)
+- [Colson MH, et al. Les traitements oraux de la dysfonction érectile aujourd'hui, pour quel patient ? Sexologies. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S1158136018300094)
+- [Colson MH, et al. Démarche diagnostique et prise en charge du patient souffrant de dysfonction érectile, actualisation et consignes pratiques. Sexologies. 2018.](https://www.em-consulte.com/en/article/1198573)
+- [Colson MH, et al; AIUS. La dysfonction érectile du diabétique. Sexologies. 2018.](https://www.sciencedirect.com/science/article/pii/S1158136018300112)
 - [Nehra A et al. The Princeton III Consensus Recommendations for the Management of Erectile Dysfunction and Cardiovascular Disease. Mayo Clinic Proceedings. 2012.](https://www.mayoclinicproceedings.org/article/S0025-6196%2812%2900635-0/fulltext)
-- [Cuzin B. et al; AIUS. Recommandations aux médecins généralistes pour la prise en charge de première intention de la dysfonction érectile. 2010. (PDF)](https://aius.fr/wp-content/uploads/Reco-AIUS-2010-DE.pdf)
+- [Cuzin B, et al; AIUS. Recommandations aux médecins généralistes pour la prise en charge de première intention de la dysfonction érectile. 2010. (PDF)](https://aius.fr/wp-content/uploads/Reco-AIUS-2010-DE.pdf)
 
 ### Bibliographie en attente
 
 - [Collège Français des Enseignants en Urologie (CFEU). Sexualité normale et ses troubles. Item 50. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-58-Sexualite-normale-et-ses-troubles.pdf)
 - [Collège Français des Enseignants en Urologie (CFEU). Trouble de l'érection. Item 126. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-126-Troubles-de-lerection.pdf)
 - {{< references/college-endocrino >}}
-- [Colson MH et al; SFHTA. Chemin clinique piur le dépistage et la prise en charge de la dysfonction érectile des hypertendus. 2019.](https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depistage-et-la-prise-en-charge-de-la-dysfonction-erectile-des)
+- [Colson MH, et al; SFHTA. Chemin clinique pour le dépistage et la prise en charge de la dysfonction érectile des hypertendus. 2019.](https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depistage-et-la-prise-en-charge-de-la-dysfonction-erectile-des)
 
 {{%/sources%}}
 {{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}

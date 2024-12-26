@@ -178,9 +178,9 @@ La chirurgie du cancer de l'ovaire exige une exérèse chirurgicale sans rupture
 Les stades précoces accessibles en chirurgie avant 50 ans déclenchent une [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}) pouvant être traitée par un traitement hormonal substitutif par l'équipe oncologique.
 
 {{% /collapse %}}
-{{%collapse "Suivi d'un cancer de l'ovaire" %}}
+{{%collapse "Suivi" %}}
 
-Le cancer de l'ovaire est marqué par une extension observée dans les 2 ans (70% des cas) avec une carcinose péritonéale.
+Le cancer de l'ovaire est marqué par une extension observée dans les 2 ans (70% des cas) avec une **carcinose péritonéale**.
 
 Les personnes atteintes de mutations BRCA1 ou 2 ou du syndrome de Lynch ont un suivi spécifique.
 
@@ -212,15 +212,15 @@ style symptômes stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ledermann JA et al. ESGO-ESMO-ESP consensus conference recommendations on ovarian cancer: pathology and molecular biology and early, advanced and recurrent disease. Ann Oncol. 2024.](https://www.annalsofoncology.org/article/S0923-7534(23)05103-7/fulltext)
+- [Ledermann JA, et al. ESGO-ESMO-ESP consensus conference recommendations on ovarian cancer: pathology and molecular biology and early, advanced and recurrent disease. Ann Oncol. 2024.](https://www.annalsofoncology.org/article/S0923-7534(23)05103-7/fulltext)
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}
-- [Sessa C et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
+- [Sessa C, et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Item 306 Diagnostiquer une tumeur de l'ovaire. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [INCa. Les cancers de l'ovaire en 10 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-de-l-ovaire-en-10-points-cles)
 - [INCa. Cancers de l'ovaire - Du diagnostic au suivi. 2019.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-de-l-ovaire-Du-diagnostic-au-suivi)
 - [ACOG. Opportunistic Salpingectomy as a Strategy for Epithelial Ovarian Cancer Prevention. 2019.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/04/opportunistic-salpingectomy-as-a-strategy-for-epithelial-ovarian-cancer-prevention)
-- [Colombo N et al. ESMO-ESGO consensus conference recommendations on ovarian cancer: pathology and molecular biology, early and advanced stages, borderline tumours and recurrent disease. Annals of Oncology. 2019.](https://www.annalsofoncology.org/article/S0923-7534(19)31162-7/fulltext)
+- [Colombo N, et al. ESMO-ESGO consensus conference recommendations on ovarian cancer: pathology and molecular biology, early and advanced stages, borderline tumours and recurrent disease. Annals of Oncology. 2019.](https://www.annalsofoncology.org/article/S0923-7534(19)31162-7/fulltext)
 - [ACOG. The Role of the Obstetrician-Gynecologist in the Early Detection of Epithelial Ovarian Cancer in Women at Average Risk. 2017.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/09/the-role-of-the-obstetriciangynecologist-in-the-early-detection-of-epithelial-ovarian-cancer-in-women-at-average-risk)
 
 ### Bibliographie en attente

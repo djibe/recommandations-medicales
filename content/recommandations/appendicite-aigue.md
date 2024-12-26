@@ -81,9 +81,9 @@ WSES
 - Pédiatrie: adénolymphite mésentérique, invagination intestinale aiguë
 
 {{% /collapse %}}
-{{%collapse "Clinique de l'appendicite aiguë" %}}
+{{%collapse "Clinique" %}}
 
-L'examen clinique n'est pas suffisant pour le diagnostic d'appendicite aiguë.
+> L'examen clinique n'est pas suffisant pour le diagnostic d'appendicite aiguë.
 
 ### Interrogatoire
 
@@ -143,7 +143,7 @@ Appendicite en position sous-hépatique
 : Tableau de cholécystite aiguë.
 
 {{% /collapse %}}
-{{%collapse "Examens complémentaires de l'appendicite aiguë" %}}
+{{%collapse "Examens complémentaires" %}}
 
 Les marqueurs biologiques ne sont pas suffisants pour le diagnostic d'appendicite aiguë.
 
@@ -155,7 +155,7 @@ Aucun score basé sur le syndrome inflammatoire ne s'est révélé suffisant pou
 - Créatininémie
 - ßHCG
 
-> -- *Bilan non exhaustif du CDU-HGE*
+> -- Bilan non exhaustif du *CDU-HGE*
 
 En l'absence de signes cliniques (douleur migrant en FID) ET biologiques (NFS et CRP normaux), le diagnostic d'appendicite aiguë est peu probable. Possible exploration par imagerie ou surveillance clinique adaptée au contexte.
 {.alert .alert-info}
@@ -168,7 +168,7 @@ Après une échographie normale, **contrôler** avec un opérateur entraîné ou
 Chez la femme enceinte: échographie abdominale ou IRM abdominale sans injection. Après échographie normale ou non concluante et absence d'accès à l'IRM: scanner abdominal avec injection.
 
 {{% /collapse %}}
-{{%collapse "Prise en charge de l'appendicite aiguë" %}}
+{{%collapse "Traitement de l'appendicite aiguë" %}}
 
 > [!INFO]
 > << L'antibiothérapie seule n'est pas recommandée en première intention dans l'appendicite aiguë non compliquée et le traitement chirurgical reste la prise en charge de référence >>. -- *SFCD 2021*

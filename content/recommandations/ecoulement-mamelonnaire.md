@@ -24,10 +24,9 @@ todo = "galactorrhée"
 
 {{%article-summary%}}
 
-- Un écoulement mamelonnaire est le plus souvent bénin
+- Un écoulement mamelonnaire correspond à l'extériorisation de liquide par un ou deux mamelons et est le plus souvent bénin
 - Examen clinique exhaustif de tout écoulement mamelonnaire
-- Écoulement du sein unilatéral: bilan mammographie + échographie  
-  et adresser au spécialiste avec les résultats
+- Bilan d'un écoulement du sein unilatéral: mammographie et échographie, adresser au spécialiste gynécologue avec les résultats
 
 Chapitre lié: [cancer du sein]({{< relref "cancer-sein.md" >}})
 
@@ -127,25 +126,25 @@ Biopsie de toute lésion radiologique.
 
 ### IRM mammaire
 
-Recours à l'IRM lorsque le bilan de première intention n'est pas contributif.
+Recours à l'IRM lorsque le bilan de première intention de l'écoulement n'est pas contributif.
 
 ### Prolactinémie
 
-Indications: EM lactescent multipore provoqué sans traitement à risque. Aménorrhée normalement associée.
+Indications: écoulement mamelonnaire lactescent multipore provoqué sans traitement à risque. Aménorrhée normalement associée.
 
 ### Pyramidectomie
 
 Indication: imagerie normale et EM suspect (séro/sanglant, reproductible, unipore, persistant).
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant un écoulement mamelonnaire" "show" %}}
+{{%collapse "Prise en charge d'un écoulement mamelonnaire" "show" %}}
 
 {{< mermaid title="Prise en charge d'un écoulement mamelonnaire. Dr JB Fron d'après CNGOF 2015" >}}
 graph TB
   Écoulement[Écoulement mamelonnaire] --> clinique("- Antécédents<br>- Caractères<br>- Uni/bilatéral")
   style Écoulement stroke:#4150f5, stroke-width:1px
-      clinique -- Unilatéral --> examens("- Mammo + écho<br>- PRL si lactescent multipore<br>± IRM mammaire si normaux") --> seno(Avis sénologique)
-      clinique -- Bilatéral --> maj(Mise à jour des dépistages) --> seno
+      clinique -- Unilatéral --> examens("- Mammo + écho<br>- PRL si lactescent multipore<br>± IRM mammaire si normaux") --> séno(Avis sénologique)
+      clinique -- Bilatéral --> maj(Mise à jour des dépistages) --> séno
 {{< /mermaid >}}
 
 > **PRL =** prolactine
@@ -154,7 +153,7 @@ graph TB
 {{%sources%}}
 
 - Boisserie-Lacroix M, Lippa N. Prise en charge d'un écoulement mamelonnaire. La lettre du sénologue. 2016.
-- [Ouldamer L et al; CNGOF. Exploration d'un écoulement mamelonnaire du sein uni- ou bilatéral : recommandations. Journal de Gynécologie Obstétrique et Biologie de la Reproduction. 2015.](https://doi.org/10.1016/J.JGYN.2015.09.035)
+- [Ouldamer L, et al; CNGOF. Exploration d'un écoulement mamelonnaire du sein uni- ou bilatéral : recommandations. Journal de Gynécologie Obstétrique et Biologie de la Reproduction. 2015.](https://doi.org/10.1016/J.JGYN.2015.09.035)
 - [HAS. Dépistage et prévention du cancer du sein. 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
 
 {{%/sources%}}

@@ -298,7 +298,7 @@ Si indiqué, le bilan de thrombophilie est réalisé à 3-6 mois comporte:
 chaussettes de contention classe 3 au moins 6 mois.
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant une EP" "show" %}}
+{{%collapse "Prise en charge de l'embolie pulmonaire" "show" %}}
 
 {{< mermaid title="Prise en charge ambulatoire d'une suspicion d'embolie pulmonaire. Dr JB Fron d'après SFMV 2019" >}}
 graph TB
@@ -320,13 +320,13 @@ graph TB
 
 - [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Thrombose veineuse profonde et embolie pulmonaire. Item 226. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/page/medecine-cardiovasculaire-reussir-son-dfasm) (TODO:)
 - [SFMV, GFHT. La place du dosage des d-dimères en médecine. Communiqué. 2021.](https://site.geht.org/app/uploads/2021/12/Place-DDimeres-en-medecine-SFMV-GFHT-INNOVTE.pdf)
-- [Sanchez O et al; SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S0761842519300051)
+- [Sanchez O, et al; SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S0761842519300051)
 
 ### Bibliographie en attente
 
-- [Wang X et al. Oral direct thrombin inhibitors or oral factor Xa inhibitors versus conventional anticoagulants for the treatment of deep vein thrombosis. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010956.pub3/full)
+- [Wang X, et al. Oral direct thrombin inhibitors or oral factor Xa inhibitors versus conventional anticoagulants for the treatment of deep vein thrombosis. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010956.pub3/full)
 - [Collège des Enseignants de Pneumologie (CEP). Embolie pulmonaire et thrombose veineuse profonde. Item 226. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_226_MALADIE_THROMBO-EMBOLIQUE_VEINEUSE_2023.pdf)
-- [Stavros V et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS). 2019.](https://erj.ersjournals.com/content/54/3/1901647)
+- [Stavros V, et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS). 2019.](https://erj.ersjournals.com/content/54/3/1901647)
 
 {{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

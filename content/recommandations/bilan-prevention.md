@@ -26,7 +26,7 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 
 - Le *Bilan de Prévention* est une consultation dédiée à la prévention prise en charge à 100% par l'Assurance maladie entre 18 et 25 ans, 45 et 50 ans, 60 et 65 ans et 70 et 75 ans (une fois pour chaque tranche d'âge)
 - Les éléments cliniques à analyser lors du bilan sont proposés ci-dessous
-- Le *Bilan de Prévention* se cote *RDV* (30€) sur une FSE dédiée, le G(S) est possible si des ordonnances consécutives au bilan sont remises au patient (sur une feuille de soins séparée)
+- Le *Bilan de Prévention* se cote *RDV* (30€) sur une FSE dédiée, la cotation *G* est possible si des ordonnances consécutives au bilan sont remises au patient (facturer le *G* sur une feuille de soins séparée)
 - Une fois le bilan réalisé, prioriser les actions avec le patient puis rédiger le plan personnalisé de prévention (PPP)
 
 {{%/article-summary%}}
@@ -179,7 +179,7 @@ Modèles de PPP pour les [18-25](https://www.ameli.fr/content/plan-personnalise-
 
 Le bilan de prévention se cote **RDV** (30€) en tiers payant AMO sur une feuille de soins dédiée une seule fois par tranche d'âge concernée.
 
-Il **peut être couplé au G(S)** (sur une feuille de soins séparée) en cas de délivrance d'ordonnances consécutives à ce bilan (médicaments, activité physique adaptée, rattrapage de dépistages) ou au frottis cervico-vaginal ou à l'électrocardiogramme.
+Il **peut être couplé au G** (sur une feuille de soins séparée) en cas de délivrance d'ordonnances consécutives à ce bilan (médicaments, activité physique adaptée, rattrapage de dépistages) ou au frottis cervico-vaginal ou à l'électrocardiogramme.
 
 Un médecin peut apparaître dans l'annuaire de *Sante.fr* s'il souhaite réaliser des bilans de prévention chez des personnes hors patientèle: aller sur **[sante.fr](https://www.sante.fr/professionnel/connexion)** > **Connexion** > **Bilan prévention**. Il transmet alors le Bilan de Prévention au médecin traitant par *MSSanté* ou le *DMP*.
 {.alert .alert-info}

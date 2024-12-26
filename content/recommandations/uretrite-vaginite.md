@@ -1,6 +1,6 @@
 +++
 id = "0192fd7b-d356-759d-af2d-9e86c90061b0"
-title = "Infections génitales de la femme: urétrite, vaginose, vaginite, cervicite, endométrite et salpingite"
+title = "Les infections génitales basses: urétrite, vaginose, vaginite et cervicite"
 titleSeo = "TODO:"
 prefix = "la "
 description = "TODO:"

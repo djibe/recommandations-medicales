@@ -362,7 +362,7 @@ Selon la Revue Prescrire: peu de place pour la kinésithérapie respiratoire sau
 {.alert .alert-info}
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant une dyspnée sifflante" "show" %}}
+{{%collapse "Prise en charge d'une dyspnée sifflante" "show" %}}
 
 {{< mermaid title="Prise en charge de la bronchiolite et d'une dyspnée sifflante. Dr JB Fron d'après HAS/CNPP 2019" >}}
 graph TB

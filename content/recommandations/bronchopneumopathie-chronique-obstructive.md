@@ -465,7 +465,7 @@ Relève exclusivement du spécialiste.
 Opioïdes faible dose par le pneumologue (*SPLF 2021*).
 
 {{% /collapse %}}
-{{%collapse "Traitement - exacerbation de BPCO et Plan d'Action" %}}
+{{%collapse "Traitement de l'exacerbation de BPCO et Plan d'Action" %}}
 
 ### 1. Éliminer un diagnostic différentiel
 

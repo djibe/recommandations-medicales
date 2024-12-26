@@ -208,7 +208,7 @@ Prise en charge de l'anémie par supplémentation et fer puis surveillance de la
 - La voie orale est inefficace dans les MICI
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant une anémie avec suspicion de carence en fer" "show" %}}
+{{%collapse "Prise en charge de l'anémie avec suspicion de carence en fer" "show" %}}
 
 {{< mermaid title="Prise en charge d'une anémie avec suspicion de carence en fer. Dr JB Fron d'après BSG 2021" >}}
 graph TB
