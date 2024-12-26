@@ -31,7 +31,7 @@ todo = "flow"
 - Des situations postnatales (cicatrices, dépression) peuvent justifier une *Hospitalisation À Domicile* (HAD)
 - Informations pour les parents: [Ameli](https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne/suivi-domicile), [1000 premiers jours](https://play.google.com/store/apps/details?id=com.fabrique.millejours), [M-pedia](https://www.mpedia.fr)
 
-Chapitres liés: [allaitement]({{< relref "allaitement.md" >}}), [grossesse]({{< relref "grossesse.md" >}})
+Chapitres liés: [allaitement]({{< relref "allaitement.md" >}}), [grossesse]({{< relref "grossesse.md" >}}), [endométrite du post-partum]({{< relref "infections-genitales-hautes.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

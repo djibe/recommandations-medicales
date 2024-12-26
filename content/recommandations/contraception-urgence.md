@@ -108,7 +108,8 @@ Utiliser un test de grossesse si retard des règles supérieur à 5 jours.
 En cas de vomissements survenant dans les 3 heures suivant la prise du comprimé ou en cas de fortes diarrhées, reprendre immédiatement un comprimé.
 {{%/info%}}
 
-Aucun risque décrit, aucune contre-indication hormis la grossesse.  
+Aucun risque décrit, aucune contre-indication hormis la grossesse.
+
 **Déconseillé si:** risque de GEU (antécédent de salpingite ou de grossesse extra-utérine), maladie hépatique grave (avis du spécialiste).  
 **Effets indésirables:** modérés et de courte  durée. Troubles des règles(spotting, retard de règles ou règles en avance), fatigue, nausées, vomissements, douleurs abdominales, diarrhées, céphalées, vertiges, tension mammaire.
 

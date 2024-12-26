@@ -75,7 +75,7 @@ WSES
 - Maladie inflammatoire chronique de l'intestin (MICI)
 - [Cholécystite aiguë]({{< relref "cholecystite-aigue.md" >}})
 - Garçon: torsion du testicule
-- Femme: grossesse extra-utérine, salpingite, torsion ovarienne ou kyste de l'ovaire, [endométriose]({{< relref "endometriose.md" >}})
+- Femme: grossesse extra-utérine, [salpingite]({{< relref "infections-genitales-hautes.md" >}}), torsion ovarienne ou kyste de l'ovaire, [endométriose]({{< relref "endometriose.md" >}})
 - [Pyélonéphrite aiguë]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
 - Colique néphrétique
 - Pédiatrie: adénolymphite mésentérique, invagination intestinale aiguë

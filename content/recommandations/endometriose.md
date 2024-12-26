@@ -151,7 +151,7 @@ Prise en charge de l'endométriose lors d'une consultation dédiée.
 Autres diagnostics à étayer devant des douleurs pelviennes de la femme:
 
 - Adénomyose
-- Salpingite et inflammation pelvienne chronique
+- [Salpingite]({{< relref "infections-genitales-hautes.md" >}}) et inflammation pelvienne chronique
 - Fibromyomes utérins
 - Kyste ovarien
 - [Cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}})

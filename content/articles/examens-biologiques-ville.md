@@ -31,6 +31,8 @@ La PCR Covid est également extrêmement chère, avec 66,5 millions d'euros pour
 
 ## Tableau des examens de biologie prescrits par les médecins généralistes en 2023
 
+Ensemble des examens biologiques remboursés en ville sur prescription d'un médecin généraliste en 2023.
+
 <script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Bilans biologiques prescrits par les médecins généralistes et remboursés en ville en 2023. Dr JB Fron d'après Open Bio."}</script>
 <table id="open-bio" class="table">
 <caption><span class="font-weight-bold">Tableau.</span> Bilans biologiques prescrits par les médecins généralistes et remboursés en ville en 2023. Dr JB Fron d'après Open Bio.</caption>
