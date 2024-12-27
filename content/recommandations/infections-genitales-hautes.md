@@ -12,7 +12,7 @@ lastmod = "2024-12-26"
 specialites = ["gynecologie-obstetrique"]
 annees = "2018"
 sources = ["CNGOF", "SPILF", "SFD"]
-tags = ["IST"]
+tags = ["douleur pelvienne", "infertilite", "IST"]
 english = ["Upper genital tract infections"]
 sctid = "442506007"
 icd10 = ["N71", "O85", "H68", "N70"]
@@ -62,9 +62,6 @@ DIU
 
 IGH
 : infection génitale haute (endométrite, salpingite, pelvipéritonite d'origine génitale)
-
-TV
-: *Trichomonas vaginalis*
 {.dl-inline}
 
 {{% /collapse %}}

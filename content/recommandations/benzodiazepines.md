@@ -89,7 +89,7 @@ Tout consommateur chronique de BZD est exposé en cas d'arrêt brutal accidentel
   - Molécules en cours
   - {{< modal-btn modal-score-ecab >}}Évaluation ECAB{{< /modal-btn >}} de la dépendance
 - État psychologique  
-  Troubles anxieux, [dépression]({{< relref "depression.md" >}}), insomnie ...
+  Troubles anxieux et [dépression]({{< relref "depression.md" >}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4 de dépistage{{< /modal-btn >}}), insomnie ...
 - Troubles du sommeil  
   Rechercher des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) ou [syndrome des jambes sans repos]({{< relref "syndrome-jambes-sans-repos.md" >}}).
 
@@ -250,5 +250,10 @@ graph TB
 {{% modal title="Échelle ECAB" id="modal-score-ecab"%}}
 
 {{< scores/ecab >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
 
 {{% /modal %}}

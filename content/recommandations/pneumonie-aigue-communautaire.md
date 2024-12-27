@@ -9,7 +9,7 @@ synonyms = ["Pneumopathies infectieuses communautaires"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-15T17:05:04+02:00"
 publishdate = "2023-05-17"
-lastmod = "2024-04-26"
+lastmod = "2024-12-27"
 specialites = ["pneumologie"]
 annees = "2023"
 sources = ["HAS", "SPILF", "GPIP", "Afssaps"]
@@ -125,7 +125,7 @@ Aide au choix de l'antibiothérapie pour pneumonie aiguë communautaire non grav
 
 Pneumonie communautaire
 : Infection du parenchyme pulmonaire contractée en milieu extrahospitalier ou déclenchée moins de 48 heures après l'admission.
-: Germes des PAC graves: ***Streptococcus pneumoniae*** (pneumocoque, à tout âge) et ***Legionnella pneumoniae*** (légionelle). 1/4 sont également atteints de virus respiratoires (influenza et paramyxovirus).
+: Germes des PAC graves: ***Streptococcus pneumoniae*** (pneumocoque, à tout âge) et ***Legionnella pneumoniae*** (légionelle). 1/4 sont également atteints de virus respiratoires (grippe et paramyxovirus).
 : Germes des PAC de l'immunocompétent: pneumocoque, grippe ainsi que ***Mycoplasma pneumoniae*** et *Chlamydophila pneumoniae* (ou *Chlamydia pneumoniae*) avec transmission inter-humaine souvent avant 40 ans.
 : 500.000 cas de pneumonies annuelles avec une gravité potentielle même sans comorbidités (première cause de décès par infection).
 
@@ -162,8 +162,8 @@ SPILF
 ### Interrogatoire
 
 - Antécédents  
-  Grossesse, comorbidités (BPCO, [splénectomie]({{< relref "asplenie.md" >}}) ++, maladie inflammatoire).
-- Traitements (immunodépression)
+  Grossesse, **immunodépression** (chimiothérapie, greffe, hémopathie, VIH avec CD4 < 200), comorbidités (BPCO, [splénectomie]({{< relref "asplenie.md" >}}) ++, maladie inflammatoire).
+- Traitements: corticoïdes, chimiothérapie
 - Tabagisme, alcool
 - Entourage au domicile
 - Notion de contage
@@ -430,11 +430,13 @@ graph TB
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
+- [Martin-Loeches I, et al. ERS/ESICM/ESCMID/ALAT guidelines for the management of severe community-acquired pneumonia. Eur Respir J. 2023.](https://erj.ersjournals.com/content/61/4/2200735)
 - [HAS. Réponse rapide sur la prise en charge diagnostique et thérapeutique des pneumonies atypiques à Mycoplasma pneumoniae en ambulatoire chez l'enfant et l'adulte. 22/12/2023.](https://www.has-sante.fr/jcms/p_3482996/fr/reponse-rapide-sur-la-prise-en-charge-diagnostique-et-therapeutique-des-pneumonies-atypiques-a-mycoplasma-pneumoniae-en-ambulatoire-chez-l-enfant-et-l-adulte)
-- [Madhi F et al. Antimicrobial treatment of lower respiratory tract infections in children. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001446)
-- [Cohen R et al. Mycoplasma pneumoniae. Infovac-France Bulletin Supplémentaire N°11. Novembre 2023.](https://www.infovac.fr/actualites/bulletin-supplementaire-n-11-novembre-2023-mycoplasma-pneumoniae)
+- [Madhi F, et al. Antimicrobial treatment of lower respiratory tract infections in children. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001446)
+- [Cohen R, et al. Mycoplasma pneumoniae. Infovac-France Bulletin Supplémentaire N°11. Novembre 2023.](https://www.infovac.fr/actualites/bulletin-supplementaire-n-11-novembre-2023-mycoplasma-pneumoniae)
 - [CMIT. Infections broncho-pulmonaires communautaires de l'adulte et de l'enfant. Item 154. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-154.pdf)
 - [Collège des Enseignants de Pneumologie (CEP). Infections broncho-pulmonaires communautaires de l'adulte. Item 154. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_154_INFECTIONS_RESPIRATOIRES_2023.pdf)
+- [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
 - [GPIP, SFP, AFPA, SPILF. Conduite à tenir autour d'un cas d'infection invasive à Streptocoque du Groupe A. 2022. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/communiques/conduite-a-tenir-cas-contact-infections-invasives-a-sgadef.pdf)
 - Prescrire Redaction. Pneumonie communautaire chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pneumonies aiguës communautaires. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/pneumonies-aigues-communautaires)
@@ -446,8 +448,6 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Martin-Loeches I et al. ERS/ESICM/ESCMID/ALAT guidelines for the management of severe community-acquired pneumonia. Eur Respir J. 2023.](https://erj.ersjournals.com/content/61/4/2200735)
-- [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
 - SP2A
 
 {{%/sources%}}

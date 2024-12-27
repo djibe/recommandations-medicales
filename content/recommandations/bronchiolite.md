@@ -49,14 +49,7 @@ Asthme du nourrisson
 OU 2 épisodes de bronchiolite chez un nourrisson de moins de 12 mois avec atopie familiale ou personnelle  
 OU dyspnée sifflante après 12 mois (sans autre cause).
 
-{{< table title="Normes de la fréquence respiratoire selon l'âge de l'enfant. Dr JB Fron d'après *AFPA Normes cardiorespiratoires utiles*" >}}
-|    Âge    | Fréquence respiratoire (/min) |
-|:---------:|------------------------------:|
-| < 2 mois  |                            60 |
-| 2-12 mois |                            50 |
-|  1-5 ans  |                            40 |
-|  +5 ans   |                            30 |
-{{< /table >}}
+{{< clinique/frequence-respiratoire-enfant >}}
 
 ### Diagnostic différentiel de la bronchiolite
 
