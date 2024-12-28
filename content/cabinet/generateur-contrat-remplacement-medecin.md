@@ -6,13 +6,13 @@ longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-05T12:18:00+02:00"
 publishdate = "2022-12-08"
-lastmod = "2023-12-22"
+lastmod = "2024-12-28"
 annees = "2023"
 sources = ["CNOM"]
 tags = []
 image = true
 imageSrc = "storyset / Freepik"
-todo = "validate form > Store data > Copier > Télécharger .doc"
+todo = "Store data > Copier > Télécharger .doc"
 +++
 
 **RecoMédicales** vous facilite la création d'un contrat de remplacement de médecin généraliste d'après le modèle officiel du Conseil de l'Ordre (CNOM).
@@ -23,6 +23,9 @@ todo = "validate form > Store data > Copier > Télécharger .doc"
 Créer un contrat de remplacement pour le médecin libéral depuis le navigateur web. Il vous faut ensuite l'envoyer à votre Conseil départemental ([annuaire](https://www.conseil-national.medecin.fr/lordre-medecins/conseils-regionaux-departementaux/conseils-departementaux-lordre), bandeau de droite: "Contacter mon conseil").
 
 > Aucune donnée n'est transmise (comme partout ailleurs sur **RecoMédicales**)
+
+> [!WARNING]
+> Chaque ligne du contrat peut être directement modifiée dans le texte.
 
 <form class="card card-body shadow-none border flex-wrap mb-3" id="contract-generator" onsubmit="if (this.checkValidity()) { printPageArea('contract-generated') }">
 <fieldset>
@@ -211,6 +214,9 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
         subShort: 'Mme'
       }
     };
+    // Edit any line of contract
+    [...document.querySelectorAll('.sheet p')].forEach(el => el.setAttribute("contenteditable", "true"));
+    // Finally edit it
     editContract();
   })
   function printPageArea(areaID) {
@@ -221,7 +227,7 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
       document.body.innerHTML = originalContent;
   };
 </script>
-<div class="card card-body user-select-all mb-4" id="contract-generated">
+<div class="card card-body mb-4" id="contract-generated">
 <div class="sheet">
 
 Contrat de remplacement  
