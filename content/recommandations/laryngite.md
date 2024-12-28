@@ -12,13 +12,13 @@ specialites = ["ORL", "pediatrie"]
 annees = "2000"
 sources = []
 tags = ["dyspnee", "enfant", "toux"]
-english = []
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = ["https://prod-mapping.ihtsdotools.org/#/"]
+english = ["Acute laryngitis"]
+sctid = "6655004"
+icd10 = ["J04.0"]
 draft = true
 image = false
 imageSrc = ""
-todo = "summary > liens > photo > newsletter > flow > Kanban"
+todo = "summary > liens > photo > newsletter > flow"
 +++
 
 {{%article-summary%}}
@@ -60,7 +60,7 @@ Dyspnée laryngée: bradypnée inspiratoire, tirage et stridor (bruit inspiratoi
 - Laryngite sous-glottique: 1re cause de dyspnée laryngée, surtout le garçon de 1 à 3 ans
   - Contexte de rhinopharyngite progressive
   - Dyspnée laryngée avec quintes de toux rauque ou << aboyante >>, cornage (bruit laryngé du siège sous-glottique), voix normale (dyspnée parfois intense)
-- Laryngite striduleuse (plan glottique): plus bénigne, enfant de 3 à 6 ans
+- Laryngite striduleuse (dite glottique ou catarrhale): plus bénigne, enfant de 3 à 6 ans
   - Contexte de rhinopharyngite, fièvre absente ou modérée
   - Quintes de toux rauques nocturnes avec ou sans dyspnée laryngée
   - Peut durer plusieurs heures avec rechutes nocturnes
@@ -69,9 +69,10 @@ Dyspnée laryngée: bradypnée inspiratoire, tirage et stridor (bruit inspiratoi
 
 ### Tableau chez l'adulte
 
-- Laryngite aiguë catarrhale ou glottique: banale, hivernale
-  - Dysphonie, aphonie transitoire, voix rauque ou enrouée
-  - Syndrome pseudo-grippal
+- **Laryngite aiguë catarrhale** ou glottique: banale, hivernale
+  - Toux sèche
+  - Dysphonie, aphonie transitoire, voix rauque, enrouée
+  - Syndrome pseudo-grippal modéré
   - État général conservé
 - Laryngite sous-glottique: rare
 - Épiglottite: déglutition douloureuse voire impossible, dysphonie, fièvre voire signes de détresse respiratoire
@@ -132,23 +133,13 @@ Adulte: aérosols de cortico possibles
 - [Laryngites aiguës. ePopi. 2022.](https://epopi.fr/?page=fiche&id=340&cat_id=578)
 - [Epiglottite de l'enfant. ePopi. 2022.](https://epopi.fr/?page=fiche&id=341&cat_id=579)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Détresse respiratoire aiguë. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/detresse-respiratoire-aigue)
+- [CBIP. Traitement de la laryngite sous-glottique (faux croup). Folia. 1999.](https://www.cbip.be/fr/articles/909?folia=829&matches=dur%C3%A9e)
 
 ### Bibliographie en attente
 
 - [SFORL virales](https://www.sforl.org/wp-content/uploads/2021/09/Reco-SFORL-Diagnostic-et-ttt-des-infections-virales-en-ORL-15092021_compressed.pdf?tk=66730d82444338dfb7cc51de52338866)
-- <https://www.researchgate.net/publication/323795346_Laryngite_aigue_de_l%27enfant_evaluation_retrospective_et_etude_prospective_prise_en_charge_au_Service_d%27Accueil_des_Urgences_pediatriques_de_Nancy>
-- <https://www.cochrane.org/fr/CD001955/ARI_glucocorticoides-pour-la-laryngite-chez-lenfant>
 - <https://dumas.ccsd.cnrs.fr/dumas-01561623v1/document>
 - <https://www.em-consulte.com/article/1313/laryngites-aigues-de-l-adulte?OWASP-CSRFTOKEN=69RV-UA5N-38I9-U3DQ-US6D-AXQN-FWXL-9HGQ>
-- <https://www.cbip.be/fr/articles/909?folia=829&matches=dur%C3%A9e>
-- PAP ped
-- Collège
-- Prescrire
-- Cochrane
-- Minerva
-- Cismef
 - NICE Clinical guidance
 
 {{%/sources%}}
-
-’≤≥±®æœŒÈ⅓¼½¾¹²³^4^ÂSpO~2~ -- ‰

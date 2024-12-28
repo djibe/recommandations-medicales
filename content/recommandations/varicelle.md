@@ -159,7 +159,7 @@ Vaccination varicelle contre-indiquée pendant la grossesse. Une grossesse doit 
 
 #### Spécialités de vaccins varicelle
 
-2 vaccins vivants atténués monovalents en 2 doses Varilrix® (GSK) ou Varivax® (Sanofi) dont l'efficacité dépasse 95% (100% pour les formes graves) et en partie contre le zona.
+2 vaccins vivants atténués monovalents en 2 doses Varilrix® (GSK) ou Varivax® (Sanofi) dont l'efficacité dépasse 95% (100 % pour les formes graves) et en partie contre le zona.
 
 - [Varilrix®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62521070&typedoc=R)  
   - 9-11 mois: 2 doses espacées ≥ 3 mois

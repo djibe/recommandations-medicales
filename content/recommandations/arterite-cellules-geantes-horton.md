@@ -198,7 +198,7 @@ Le traitement dure souvent de 12 à 24 mois (20% de corticodépendance) et est d
 
 Mesures associées aux corticoïdes: suivi du poids, alimentaire, supplémentation en vitamine D, calcul des apports en calcium, ostéodensitométrie, décroissance progressive (1 mg/mois à partir de 5 mg/j).
 
-Contre-indication aux vaccins vivants atténués (BCG, fièvre jaune, zona) tant que la corticothérapie est > 10 mg/j.
+Contre-indication aux vaccins vivants atténués (BCG, fièvre jaune) tant que la corticothérapie est > 10 mg/j.
 
 {{< table title="Cibles de décroissance de la prednisone à obtenir au cours du traitement de l'artérite à cellules géantes (maladie de Horton) selon *PNDS 2020*" class="table-sm" >}}
 | Corticothérapie   | Instauration | M3 | M6 | M9 | M12 | M18-24 |

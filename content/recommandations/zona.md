@@ -138,14 +138,13 @@ Ulcérations pseudo-membraneuses et vésicules de l'hémilangue.
 
 Double dose chez les +65 immunocompétent (y compris en cas d'antécédents de zona, de Zostavax > 1 an) à M0-M2. Le *GOLD 2022* propose aussi de vacciner en cas de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}).
 
-**Contre-indications:** grossesse, immunodépression.
-
-Comme tous les vaccins vivants, la vaccination anti-zostérienne doit être réalisée par un médecin (*[arrêté 2022-610](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045638858)*).
+**Contre-indication:** hypersensibilité.
 
 ### Vaccination post-exposition du zona
 
-Vaccination post-exposition: âge ≥ 12 ans immunocompétent sans antécédent de varicelle, en contact avec un cas de [varicelle]({{< relref "varicelle.md" >}}) ou de zona.  
-Sérologie varicelle en urgence. La vaccination varicelle doit avoir lieu dans les 3 jours suivant le contact.
+Vaccination post-exposition: âge ≥ 12 ans immunocompétent sans antécédent de varicelle, en contact avec un cas de [varicelle]({{< relref "varicelle.md" >}}) ou de zona.
+
+**Sérologie varicelle en urgence.** La vaccination varicelle doit avoir lieu dans les 3 jours suivant le contact.
 
 > -- *Calendrier vaccinal*
 
