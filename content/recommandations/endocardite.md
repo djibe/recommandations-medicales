@@ -177,6 +177,7 @@ Pour le traitement des endocardites infectieuses, lire *ESC 2023*.
 
 ### Bibliographie en attente
 
+- [Le Moing V, et al. Antibiotic therapy and prophylaxis of infective endocarditis - A SPILF-AEPEI position statement on the ESC 2023 guidelines. Infectious Diseases Now. 2025.](https://www.sciencedirect.com/science/article/pii/S2666991924001787)
 - [HAS. Prise en charge bucco-dentaire des patients à haut risque d'endocardite infectieuse. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3301328/fr/prise-en-charge-bucco-dentaire-des-patients-a-haut-risque-d-endocardite-infectieuse)
 
 {{%/sources%}}

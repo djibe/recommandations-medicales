@@ -318,7 +318,7 @@ Trétinoïne = trétinoïne 0,025 ou 0,05%
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-[Haute Autorité de Santé. Acné: quand et comment la traiter?](https://www.has-sante.fr/jcms/c_2564525/fr/acne-quand-et-comment-la-traiter)
+[HAS. Acné: quand et comment la traiter?](https://www.has-sante.fr/jcms/c_2564525/fr/acne-quand-et-comment-la-traiter)
 
 Selon la *SFD*, informer le patient:
 

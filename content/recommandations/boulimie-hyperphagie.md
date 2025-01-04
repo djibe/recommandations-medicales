@@ -346,14 +346,14 @@ graph TB
 {{%sources%}}
 
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles des conduites alimentaires de l'adolescent. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/medecine-ladolescent/troubles-conduites-alimentaires-ladolescent)
-- [HAS, FFAB. Boulimie et hyperphagie boulimique. Recommandation de bonne pratique. Juin 2019.](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique-reperage-et-elements-generaux-de-prise-en-charge)
+- [HAS, FFAB. Boulimie et hyperphagie boulimique. Recommandation de bonne pratique. 2019.](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique-reperage-et-elements-generaux-de-prise-en-charge)
 - [Fédération Française Anorexie Boulimie (FFAB)](https://www.ffab.fr)
 - [Fédération nationale des associations liées aux troubles des conduites alimentaires (FNA-TCA)](https://www.fna-tca.org)
 - [Collectif national des associations d'obèses (CNAO Obésité)](https://cnao.fr)
 
 ### Bibliographie en attente
 
-- [Himmerich H et al. World Federation of Societies of Biological Psychiatry (WFSBP) guidelines update 2023 on the pharmacological treatment of eating disorders. World J Biol Psychiatry. 2023.](https://www.tandfonline.com/doi/full/10.1080/15622975.2023.2179663)
+- [Himmerich H, et al. World Federation of Societies of Biological Psychiatry (WFSBP) guidelines update 2023 on the pharmacological treatment of eating disorders. World J Biol Psychiatry. 2023.](https://www.tandfonline.com/doi/full/10.1080/15622975.2023.2179663)
 - Arnold MJ. Treating Patients With Eating Disorders: Guidelines From the American Psychiatric Association. Am Fam Physician. 2024 Feb;109(2):185-187. PMID: 38393813.
 
 {{%/sources%}}

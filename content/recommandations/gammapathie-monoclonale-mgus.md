@@ -219,7 +219,7 @@ graph TB
 - [Stern S et al. Investigation and management of the monoclonal gammopathy of undetermined significance: A British Society for Haematology Good Practice Paper. Br J Haematol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.18866)
 - Société française d'hématologie (sfh). Item 320 - Myélome multiple. Hématologie Réussir son DFASM. 2021.
 - [Collège Français des Enseignants en Rhumatologie (COFER). Myélome multiple des os. Item 320 UE X. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-28-0.php)
-- [Haute Autorité de Santé (HAS). Quand prescrire une électrophorèse des protéines sériques (EPS) et conduite à tenir en cas d'une immunoglobuline monoclonale. 2017.](https://www.has-sante.fr/jcms/c_2742018/fr/quand-prescrire-une-electrophorese-des-proteines-seriques-eps-et-conduite-a-tenir-en-cas-d-une-immunoglobuline-monoclonale)
+- [HAS. Quand prescrire une électrophorèse des protéines sériques (EPS) et conduite à tenir en cas d'une immunoglobuline monoclonale. 2017.](https://www.has-sante.fr/jcms/c_2742018/fr/quand-prescrire-une-electrophorese-des-proteines-seriques-eps-et-conduite-a-tenir-en-cas-d-une-immunoglobuline-monoclonale)
 - [Rajkumar SV et al; Mayo Clinic. Serum free light chain ratio is an independent risk factor for progression in monoclonal gammopathy of undetermined significance. Blood. 2005.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1895159/)
 
 {{%/sources%}}

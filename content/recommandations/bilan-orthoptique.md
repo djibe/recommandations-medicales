@@ -73,7 +73,7 @@ Et chez l'enfant avec les signes suivant (+ ci-dessus):
 
 - [Service Public. Les orthoptistes peuvent désormais prescrire des premiers verres correcteurs. 01/02/2023.](https://www.service-public.fr/particuliers/actualites/A16344)
 - [Syndicat National Autonome des Orthoptistes](https://www.orthoptiste.pro/l-orthoptie/ou-et-quand-consulter/)
-- [Godts D. et al. Binocular Vision in Chronic Fatigue Syndrome. Am Orthopt J. 2016.](https://pubmed.ncbi.nlm.nih.gov/27799582/)
+- [Godts D, et al. Binocular Vision in Chronic Fatigue Syndrome. Am Orthopt J. 2016.](https://pubmed.ncbi.nlm.nih.gov/27799582/)
 - [NHS Devon (PDF)](https://www.northdevonhealth.nhs.uk/wp-content/uploads/2014/06/Appendix-1.pdf)
 
 {{%/sources%}}

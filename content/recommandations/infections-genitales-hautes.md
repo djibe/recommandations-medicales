@@ -15,7 +15,7 @@ sources = ["CNGOF", "SPILF", "SFD"]
 tags = ["douleur pelvienne", "infertilite", "IST"]
 english = ["Upper genital tract infections"]
 sctid = "442506007"
-icd10 = ["N71", "O85", "H68", "N70"]
+icd10 = ["N71", "O85", "H68", "N70", "A54.2"]
 image = true
 imageSrc = "Scanner avec collection hétérogène et bulles gazeuses intra-utérines après l'accouchement d'une femme de 40 ans signant une endométrite du post-partum. Cas de Mohamed Saber, Radiopaedia.org, rID: 87235"
 todo = "flow, Mesures associées aux IST"
@@ -60,8 +60,17 @@ ATO
 DIU
 : dispositif intra-utérin (ou stérilet)
 
+HAS
+: Haute Autorité de Santé
+
 IGH
 : infection génitale haute (endométrite, salpingite, pelvipéritonite d'origine génitale)
+
+SFD
+: Société Française de Dermatologie
+
+SPILF
+: Société de pathologie infectieuse de langue française
 {.dl-inline}
 
 {{% /collapse %}}
