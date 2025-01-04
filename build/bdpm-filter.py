@@ -1,5 +1,4 @@
 # Filter BDPM for Recomedicales by djibe
-# TODO: standardize L.P. to LP
 
 import os
 import requests
