@@ -372,7 +372,8 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 
 ### Bibliographie en attente
 
-[Garbe C, et al. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2024. Eur J Cancer. 2024.](https://www.ejcancer.com/article/S0959-8049(24)01759-3/abstract)
+- [Garbe C, et al. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2024. Eur J Cancer. 2024.](https://www.ejcancer.com/article/S0959-8049(24)01759-3/abstract)
+- [Garbe C, et al. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2024. Eur J Cancer. 2025.](https://www.ejcancer.com/article/S0959-8049(24)01760-X/abstract)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

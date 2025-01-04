@@ -9,7 +9,7 @@ synonyms = ["Bilan de prévention"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-08-23T13:56:41+02:00"
 publishdate = "2024-08-29"
-lastmod = "2024-09-06"
+lastmod = "2025-01-04"
 specialites = ["certificats"]
 annees = "2024"
 sources = ["MinSanté"]
@@ -86,15 +86,15 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 
 <div aria-labelledby="tab-18" class="tab-pane fade show active" id="div-18" role="tabpanel">
 
-- Troubles anxieux et [dépressifs]({{< relref "depression.md" >}}): ({{< modal-btn modal-adrs >}}questionnaire ADRS{{< /modal-btn >}} jusqu'à 20 ans)
-- Troubles du comportement alimentaire
+- Troubles anxieux et [dépressifs]({{< relref "depression.md" >}}): ({{< modal-btn modal-adrs >}}questionnaire ADRS{{< /modal-btn >}} jusqu'à 20 ans puis {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}})
+- Troubles du comportement alimentaire ({{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}})
 - Femme: [ménorragies]({{< relref "menorragies.md" >}}), [dysménorrhées]({{< relref "endometriose.md" >}})
 
 </div>
 <div aria-labelledby="tab-45" class="tab-pane fade" id="div-45" role="tabpanel">
 
 - Dépistage du [cancer colorectal]({{< relref "cancer-colorectal.md" >}}) (à partir de 50 ans)
-- BPCO: {{< modal-btn modal-depistage-bpco >}}dépistage des symptômes{{< /modal-btn >}}, spirométrie
+- BPCO: {{< modal-btn modal-depistage-bpco >}}dépistage des symptômes{{< /modal-btn >}} ou +20 PA, spirométrie
 - {{< modal-btn modal-saos >}}Signes d'apnées du sommeil{{< /modal-btn >}}
 - Troubles anxieux et [dépressifs]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 - Femme
@@ -110,28 +110,35 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 - Autonomie
 - Chutes
 - Dépistage du [cancer colorectal]({{< relref "cancer-colorectal.md" >}})
-- BPCO: {{< modal-btn modal-depistage-bpco >}}dépistage des symptômes{{< /modal-btn >}}, spirométrie
+- BPCO: {{< modal-btn modal-depistage-bpco >}}dépistage des symptômes{{< /modal-btn >}} ou +20 PA, spirométrie
 - {{< modal-btn modal-saos >}}Signes d'apnées du sommeil{{< /modal-btn >}}
 - Femme
   - [Dépistage du cancer du sein]({{< relref "cancer-sein.md" >}}) et du [cancer du col de l'utérus]({{< relref "cancer-col-uterus.md" >}})
   - Symptômes de [ménopause]({{< relref "menopause.md" >}})
+- 65 ans:
+  - Vaccins: dTcaPolio, grippe et Covid annuels, zona
+  - [Dépistage de l'ACFA]({{< relref "fibrillation-atriale.md" >}}) et de la [MRC]({{< relref "insuffisance-renale-chronique.md" >}}) (*Académie de pharmacie*)
+  - et fumeur: dépistage de l'[AAA]({{< relref "anevrysme-aorte-abdominale.md" >}}) de l'homme, à considérer chez la femme (*AHA 2022*)
 - [Ostéoporose]({{< relref "osteoporose.md" >}}): {{< modal-btn modal-apports-calcium >}}apports en calcium{{< /modal-btn >}}, ostéodensitométrie en cas de {{< modal-btn modal-dxa-remboursement >}}facteur de risque{{< /modal-btn >}} (ou à 60 ans chez les femmes pour le *GRIO*)
 - Troubles anxieux et dépressifs: {{< modal-btn modal-gds15 >}}questionnaire GDS-15{{< /modal-btn >}}
 
 </div>
 <div aria-labelledby="tab-70" class="tab-pane fade" id="div-70" role="tabpanel">
 
+- Vaccins: grippe, Covid et VRS annuels, ± rattrapage dTcaPolio et zona
 - {{< modal-btn modal-mna >}}Dépister la dénutrition{{< /modal-btn >}}
 - [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}}): [grille d'Amsler](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/grille_damsler.pdf)
 - Problèmes de mémoire, orientation
 - Autonomie
 - Chutes
 - Dépistage du [cancer colorectal]({{< relref "cancer-colorectal.md" >}})
-- BPCO: {{< modal-btn modal-depistage-bpco >}}dépistage des symptômes{{< /modal-btn >}}, spirométrie
+- [Dépistage de l'ACFA]({{< relref "fibrillation-atriale.md" >}}) et de la [MRC]({{< relref "insuffisance-renale-chronique.md" >}}) (*Académie de pharmacie*)
+- BPCO: {{< modal-btn modal-depistage-bpco >}}dépistage des symptômes{{< /modal-btn >}} ou +20 PA, spirométrie
 - {{< modal-btn modal-saos >}}Signes d'apnées du sommeil{{< /modal-btn >}}
 - Femme
   - [Dépistage du cancer du sein]({{< relref "cancer-sein.md" >}})
   - Symptômes de [ménopause]({{< relref "menopause.md" >}})
+- Fumeur: dépistage de l'[AAA]({{< relref "anevrysme-aorte-abdominale.md" >}}) de l'homme, à considérer chez la femme
 - [Ostéoporose]({{< relref "osteoporose.md" >}}): {{< modal-btn modal-apports-calcium >}}apports en calcium{{< /modal-btn >}}, ostéodensitométrie en cas de {{< modal-btn modal-dxa-remboursement >}}facteur de risque{{< /modal-btn >}}
 - Troubles anxieux et dépressifs: {{< modal-btn modal-gds15 >}}questionnaire GDS-15{{< /modal-btn >}}
 
@@ -258,5 +265,10 @@ Un médecin peut apparaître dans l'annuaire de *Sante.fr* s'il souhaite réalis
 {{% modal title="Critères de remboursement de l'ostéodensitométrie" id="modal-dxa-remboursement"%}}
 
 {{< clinique/osteoporose-dxa-remboursement >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
+
+{{< scores/scoff >}}
 
 {{% /modal %}}

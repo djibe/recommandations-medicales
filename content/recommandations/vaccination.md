@@ -1,16 +1,16 @@
 +++
 id = "0190e8d6-bc85-7149-bea6-0218f0e462f3"
-title = "Vaccination et calendrier vaccinal 2024"
+title = "Vaccination et calendrier vaccinal 2025"
 prefix = "la "
 titleSeo = "vaccination"
-description = "Recommandations sur les vaccins selon le Calendrier vaccinal 2024. Âge de rattrapage, vaccins selon l'âge, taille d'aiguille et sites d'injection des vaccins"
+description = "Recommandations sur les vaccins selon le Calendrier vaccinal 2025. Âge de rattrapage, vaccins selon l'âge, taille d'aiguille et sites d'injection des vaccins"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2024-12-11"
+lastmod = "2025-01-04"
 specialites = ["infectiologie", "pediatrie", "therapeutique"]
-annees = "2024"
+annees = "2025"
 sources = ["MinSanté", "HCSP"]
 tags = ["BPCO", "diabete", "grossesse", "prevention", "vaccin", "zona"]
 english = ["Immunization", "vaccination"]
@@ -58,18 +58,19 @@ VVA
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Calendrier vaccinal 2024" "show" %}}
+{{%collapse "Calendrier vaccinal 2025" "show" %}}
 
-{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie sauf NR. Dr JB Fron d'après *Calendrier vaccinal 2024*, *DGS Urgent* et *HAS 2024*." >}}
+{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf NR. Dr JB Fron d'après *Décret n° 2024-694*, *Calendrier vaccinal 2024*, *DGS Urgent* et *HAS 2024*." >}}
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
 |   Né après<br>le 1/1/24 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 1/3, Rotarix 1/2 |
 |   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + pneumocoque +<br>DTCaP-Hib-HB selon GPIP/Infovac) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance) |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3 |
-|   5 mois   | Méningo C/ACWY<br>Méningo B                          | Neisvac/Nimenrix<br>Bexsero                                               |
+|   5 mois   | Méningo B                                            | Bexsero                                                                   |
+|   6 mois   | Méningo ACWY                                         | Nimenrix                                                                  |
 |  11 mois   | DTCaP-Hib-HB<br>Pneumo 13                            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance                |
-|  12 mois   | Méningo C/ACWY<br>ROR<br>Méningo B                   | Neisvac/Mendquadfi, Nimenrix<br>MMRvaxPro, Priorix<br>Bexsero             |
+|  12 mois   | Méningo ACWY<br>ROR<br>Méningo B                     | MenQuadfi, Nimenrix<br>MMRvaxPro, Priorix<br>Bexsero                      |
 | 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
@@ -82,7 +83,7 @@ VVA
 | Médecin généraliste | Covid-19, grippe, ROR,<br>varicelle, VHB    |                                                                           |
 {{< /table >}}
 
-> Les consultations à 25, 45 et 65 ans sont gratuites avec la **cotation RDV** (30€).
+> Les consultations à 25, 45, 65 et 75 ans sont gratuites avec la **cotation RDV** (30€).
 
 **NB.** Le Nimenrix peut être réalisé à M6-M12 en remplacement du Neisvac M5-M12. Neisvac M5 et Nimenrix M12 est également possible. Le MenQuadfi peut être utilisé à 12 mois après un Nimenrix à 5 mois.
 
@@ -92,8 +93,7 @@ VVA
 
 Informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours (pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles).
 
-Possibilité de manger immédiatement avant ou après.  
-[Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf).
+Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf).
 
 {{% /collapse %}}
 {{%collapse "Rattrapage vaccinal" %}}
@@ -109,7 +109,6 @@ Possibilité de manger immédiatement avant ou après.
 | Hépatite B                       |                       15 ans                        | [Hépatite B]({{< relref "hepatite-b.md" >}})           |
 | Méningocoque ACWY                |                       24 ans                        | Dose unique si non fait à 11-14 ans                    |
 | Méningocoque B                   |                       23 mois                       |                                                        |
-| Méningocoque C                   |                       24 ans                        | Dose unique après 12 mois                              |
 | Papillomavirus (HPV)             |                       19 ans                        | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}})          |
 | Pneumocoque                      |                       23 mois                       | Asplénie, BPCO, cancer,  diabète ...                   |
 | Rotavirus                        |                       4 mois                        | Doit être terminé avant 24 semaines                    |
@@ -122,20 +121,20 @@ Possibilité de manger immédiatement avant ou après.
 ### Rattrapage du vaccin méningocoque B
 
 - Vaccination initiée entre 2 et 5 mois  
-  2 doses espacées d'au moins 2 mois + rappel à M12-15 (min 6 mois avant la 3e dose)
+  2 doses espacées d'au moins 2 mois + rappel à M12-15 (min 6 mois avant la 3e dose).
 - Nourrisson 6-11 mois  
-  2 doses espacées d'au moins 2 mois + rappel durant sa 2e année (min 2 mois entre chaque dose)
+  2 doses espacées d'au moins 2 mois + rappel durant sa 2e année (min 2 mois entre chaque dose).
 - Nourrisson 12-23 mois  
-  2 doses espacées d'au moins 2 mois + rappel à M12-23
+  2 doses espacées d'au moins 2 mois + rappel à M12-23.
 
 ### Sérologies pour le rattrapage vaccinal en population générale
 
 - Pré-vaccinal: Ag HBs, Ac anti-HBs, Ac anti-HBc  
-  puis Ac anti-HBs 4-8 semaines après
+  puis Ac anti-HBs 4-8 semaines après.
 - Ac antitétaniques 4-8 semaines après
 - Personnalisées
-  - Sérologie hépatite A
-  - Sérologie varicelle
+  - Sérologie [hépatite A]({{< relref "hepatite-a.md" >}})
+  - Sérologie [varicelle]({{< relref "varicelle.md" >}})
 
 Rattrapage *ROR* avec 2 doses espacées au minimum d'un mois sans sérologie.
 
@@ -165,14 +164,15 @@ Lire le *Calendrier vaccinal* page 75.
 7. Rougeole
 8. Oreillons
 9. Rubéole
-10. Méningocoque C
+10. Méningocoque ACWY (depuis 2025, anciennement C)
 11. Pneumocoque
 
-> -- *[Loi du 30 décembre 2017](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171)*
+> -- *[Décret n° 2024-694 du 5 juillet 2024](https://www.legifrance.gouv.fr/download/file/hhS68ECmVhDgElkqhy2ETAVq-2Yhrqjdh8OV3--WPN0=/JOE_TEXTE)* et *[Loi du 30 décembre 2017](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171)*
 
-Au 1^er^ janvier **2025**, vaccination obligatoire des nourrissons contre les méningocoques B et ACWY.
+Depuis le 1^er^ janvier **2025**, vaccination obligatoire des nourrissons contre les méningocoques B et ACWY.
 
-Si l'infraction vient du médecin de l'enfant, il peut être poursuivi par le *CDOM*, l'*ARS* voire la [miviludes](https://www.miviludes.interieur.gouv.fr).
+> [!INFO]
+> Si l'infraction vaccinale vient du médecin de l'enfant, il peut être poursuivi par le *CDOM*, l'*ARS* voire la [miviludes](https://www.miviludes.interieur.gouv.fr).
 
 {{% /collapse %}}
 {{%collapse "Populations à risque" %}}

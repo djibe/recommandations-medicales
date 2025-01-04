@@ -83,15 +83,6 @@ Liste des causes possibles d'une carence en fer:
 
 Une cause digestive haute et basse est retrouvée dans 1 à 10% des cas (sujet âgé ++).
 
-### Diagnostic différentiel de l'anémie par carence martiale
-
-- Anémie inflammatoire
-- Thalassémie
-- Autres
-  - Déficit en vitamine B6
-  - [Saturnisme]({{< relref "saturnisme.md" >}})
-  - Syndrome myélodysplasique
-
 ### Abréviations
 
 ACM
@@ -114,6 +105,18 @@ SNFGE
 {.dl-inline}
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Diagnostic différentiel de l'anémie par carence martiale:
+
+- Anémie inflammatoire
+- Thalassémie
+- Autres
+  - Déficit en vitamine B6
+  - [Saturnisme]({{< relref "saturnisme.md" >}})
+  - Syndrome myélodysplasique
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 > [!INFO]
@@ -121,11 +124,11 @@ SNFGE
 
 Signes et symptômes cliniques d'une anémie:
 
-- Antécédents familiaux
+- Antécédents familiaux  
   Hémoglobinopathie, hémorragies, métabolisme du fer, pathologie digestive.
-- Antécédents personnels
+- Antécédents personnels  
   Transfusions, dons de sang, [chirurgie de l'obésité]({{< relref "obesite-adulte.md" >}}) ou gastrique, traumatismes, insuffisance cardiaque ou rénale.
-- Traitements
+- Traitements  
   AINS, anticoagulants ou IPP au long cours.
 - Régime alimentaire, {{< modal-btn modal-scoff >}}troubles du comportement alimentaire{{< /modal-btn >}}
 - Consommation de thé

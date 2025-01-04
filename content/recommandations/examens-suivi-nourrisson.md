@@ -9,9 +9,9 @@ synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2020-06-02T11:57:29+02:00"
 publishdate = "2020-06-02"
-lastmod = "2024-12-20"
+lastmod = "2025-01-04"
 specialites = ["pediatrie"]
-annees = "2024"
+annees = "2025"
 sources = ["MinSanté", "Service-Public"]
 tags = ["nourrisson", "enfant", "adolescent"]
 english = ["Children follow up"]
@@ -39,38 +39,38 @@ Enfant
 {{% /collapse %}}
 {{%collapse "Calendrier des 20 examens médicaux" "show" %}}
 
-Examens médicaux de la naissance à 16 ans avec la cotation associée, facturée **tiers payant total sur l'Assurance Maladie Obligatoire** de l'enfant.
+Examens médicaux de la naissance à 16 ans avec la cotation associée, facturée **tiers payant total sur l'Assurance Maladie Obligatoire de l'enfant**.
 
 - Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de vie sont sur l'assurance *Maternité*, tous les autres sont en *Maladie*
 - Les consultations *COE* correspondent aux certificats obligatoires (8 jours, 9 mois et 24 mois)  
 - Les tarifs ci-dessous concernent la Métropole
 
-{{< table title="Examens de suivi du nourrisson remboursés à 100% selon l'*Arrêté du 26/02/2019* et cotation des consultations de l'enfant" >}}
-| N° |              Âge              |                                   Cotation MG                                   |
+{{< table title="Examens de suivi du nourrisson remboursés à 100% selon le *Décret 2024-1031* et cotation des consultations de l'enfant" >}}
+| N° |              Âge              |                             Cotation du généraliste                             |
 |---:|:-----------------------------:|:-------------------------------------------------------------------------------:|
 |  1 | **Dans les 8 premiers jours** | COE (54€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |
 |  2 |          2e semaine           |                                    COD (35€)                                    |
-|  3 |  Avant la fin du 1^er^ mois   |                                    COD (35€)                                    |
-|  4 |            1 mois             |                                    COD (35€)                                    |
-|  5 |            2 mois             |                                    COD (35€)                                    |
-|  6 |            3 mois             |                                    COD (35€)                                    |
-|  7 |            4 mois             |                                    COD (35€)                                    |
-|  8 |            5 mois             |                                    COD (35€)                                    |
-|  9 |          **8 mois**           | COE (54€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12597.do)) |
-| 10 |            11 mois            |                                    COD (35€)                                    |
-| 11 |            12 mois            |                                    COD (35€)                                    |
-| 12 |         16 à 18 mois          |                                    COD (35€)                                    |
-| 13 |       **23 ou 24 mois**       | COE (54€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12598.do)) |
-| 14 |             2 ans             |                                    COD (35€)                                    |
-| 15 |             3 ans             |                                    COD (35€)                                    |
-| 16 |             4 ans             |                                    COD (35€)                                    |
-| 17 |             5 ans             |                                    COD (35€)                                    |
+|  3 |            1 mois             |                                    COD (35€)                                    |
+|  4 |            2 mois             |                                    COD (35€)                                    |
+|  5 |            3 mois             |                                    COD (35€)                                    |
+|  6 |            4 mois             |                                    COD (35€)                                    |
+|  7 |            5 mois             |                                    COD (35€)                                    |
+|  8 |          **8 mois**           | COE (54€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12597.do)) |
+|  9 |            11 mois            |                                    COD (35€)                                    |
+| 10 |            12 mois            |                                    COD (35€)                                    |
+| 11 |         16 à 18 mois          |                                    COD (35€)                                    |
+| 12 |       **23 ou 24 mois**       | COE (54€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12598.do)) |
+| 13 |             2 ans             |                                    COD (35€)                                    |
+| 14 |             3 ans             |                                    COD (35€)                                    |
+| 15 |             4 ans             |                                    COD (35€)                                    |
+| 16 |             5 ans             |                                    COD (35€)                                    |
+| 17 |             6 ans             |                                    COB (30€)                                    |
 | 18 |            8-9 ans            |                                    COB (30€)                                    |
 | 19 |           11-13 ans           |                                    COB (30€)                                    |
 | 20 |           15-16 ans           |                                    COB (30€)                                    |
 {{< /table >}}
 
-> -- *[Service-public. Visites médicales de l'enfant : examens obligatoires. 01/09/2023.](https://www.service-public.fr/particuliers/vosdroits/F967)* et *[Arrêté du 26/02/2019](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038175215/)*. Prochainement [modifié](https://www.service-public.fr/particuliers/actualites/A17876).
+> -- *[Service-public. Le calendrier des examens médicaux obligatoires des enfants évolue à compter de janvier 2025. 22/11/2024.](https://www.service-public.fr/particuliers/vosdroits/F967)* et *[Décret n° 2024-1031 du 14 novembre 2024](https://www.legifrance.gouv.fr/eli/decret/2024/11/14/MSAP2420381D/jo/texte)*
 
 Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de suivi:
 
@@ -88,16 +88,17 @@ Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{
 
 ### Vaccinations de l'enfant
 
-{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2024. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Calendrier Vaccinal 2024*" >}}
+{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Décret n° 2024-694* et *Calendrier Vaccinal 2024*" >}}
 |          Âge          | Valences                                                                                  | Spécialités équivalentes                                                                                        |
 |:---------------------:|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Né après<br>le 1/1/24 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}})                                           | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
 |        2 mois         | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus                                                    | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 1/3, Rotarix 1/2                          |
 |        3 mois         | Méningo B<br>Rotavirus<br>(Prématuré: + pneumocoque +<br>DTCaP-Hib-HB selon GPIP/Infovac) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance)                                               |
 |        4 mois         | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus                                                    | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3                                       |
-|        5 mois         | Méningo C/ACWY<br>Méningo B                                                               | Neisvac/Nimenrix<br>Bexsero                                                                                     |
+|        5 mois         | Méningo B                                                                                 | Bexsero                                                                                                         |
+|        6 mois         | Méningo ACWY                                                                              | Nimenrix                                                                                                        |
 |        11 mois        | DTCaP-Hib-HB<br>Pneumo 13                                                                 | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance                                                      |
-|        12 mois        | Méningo C/ACWY<br>ROR<br>Méningo B                                                        | Neisvac/Mendquadfi, Nimenrix<br>MMRvaxPro, Priorix<br>Bexsero                                                   |
+|        12 mois        | Méningo ACWY<br>ROR<br>Méningo B                                                          | MenQuadfi, Nimenrix<br>MMRvaxPro, Priorix<br>Bexsero                                                            |
 |      16-18 mois       | ROR                                                                                       | MMRvaxPro, Priorix                                                                                              |
 |         6 ans         | DTCaPolio                                                                                 | ~~InfanrixTetra~~, Tetravac-acellulaire                                                                         |
 |       11-13 ans       | dTcaPolio<br>(DTCaPolio si manqué)                                                        | BoostrixTetra, Repevax<br>(voir *6 ans*)                                                                        |
