@@ -9,9 +9,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2024-09-17"
+lastmod = "2025-01-05"
 specialites = ["infectiologie", "pneumologie"]
-annees = "2024"
+annees = "2025"
 sources = ["MinSanté", "HAS", "HCSP"]
 tags = ["vaccin"]
 english = ["CoViD-19"]
@@ -30,10 +30,11 @@ Page servant uniquement à stocker quelques mémos.
 - Recours large à l'antiviral Paxlovid +++ (+65 ans, diabète, obésité, comorbidité ...), voir *Antiviraux*
 - Maladie à déclaration obligatoire par le biologiste
 - [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire)
-- Vaccination de toutes les femmes enceintes quel que soit le terme (*DGS*, *CNGOF*)
-- Rappel annuel des +65 ans, des immunodéprimé, EHPAD/USLD, très haut risque de forme grave (chimio, dialyse, voir *Personnes à risque*) si intervalle de 6 mois d'un vaccin/Covid (3 mois si +80 ans, immunodépression ...)
+- Vaccination de toutes les femmes enceintes quel que soit le terme (*DGS*, *CNGOF*), et de toute personne souhaitant se faire vacciner
+- Rappel annuel à l'automne des +65 ans et personnes à risque
+  2e rappel au printemps des +80 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave (chimio, dialyse, voir *Personnes à risque*) si intervalle de 3 mois d'un vaccin/Covid
 
-<< Important de bien comprendre cela car pas du tout évident à priori. L'immunité naturelle, celle que l'on acquiert après une infection procure en générale une bonne protection. Ce n'est pas le cas avec le Sars-Cov2, non seulement l'immunité naturelle ne semble pas très efficace mais le virus éroderait notre système immunitaire. De plus, les réinfections augmenteraient le risque de séquelles à long terme. >> -- *Pr Rémi Salomon 16/07/2022*
+<< L'immunité naturelle, celle que l'on acquiert après une infection procure en générale une bonne protection. Ce n'est pas le cas avec le Sars-Cov2, non seulement l'immunité naturelle ne semble pas très efficace mais le virus éroderait notre système immunitaire. De plus, les réinfections augmenteraient le risque de séquelles à long terme. >> -- *Pr Rémi Salomon 16/07/2022*
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -126,7 +127,7 @@ Possibilité de préciser une **dispensation conditionnelle** en cas de test Cov
 
 > << Il n'y a aujourd'hui pas de seuil établi qui permette de corréler la réponse humorale à la protection contre les formes graves d'infection. Il est donc inutile de faire une sérologie avant un nouveau rappel. >> -- *HAS 2023*
 
-Vaccination annuelle ARNm à l'automne des personnes à risque de forme grave âgées de plus de 6 mois:
+Vaccination annuelle ARNm à l'automne des personnes souhaitant se faire vacciner ou à risque de forme grave âgées de plus de 6 mois:
 
 - **+65 ans**
 - **Grossesse**
@@ -135,8 +136,10 @@ Vaccination annuelle ARNm à l'automne des personnes à risque de forme grave â
 - Pathologie cardiaque, vasculaire, hépatique, rénale, pulmonaire, psychiatrique
 - Diabète
 - Obésité
+- Cancer
+- Greffe
 - Trisomie 21
-- Immunodépression ou greffe
+- Immunodépression
 - Résident en EHPAD et USLD
 - Entourage de personne immunodéprimée ou à haut risque
 - Médecins
@@ -144,6 +147,9 @@ Vaccination annuelle ARNm à l'automne des personnes à risque de forme grave â
 > -- *Calendrier vaccinal 2024*
 
 Délai de 6 mois avec le dernier Covid ou vaccin (3 mois si +80 ans, immunodépression ou très haut risque).
+
+2e rappel annuel au printemps des +80 ans, EHPAD/USLD, immunodéprimés.
+{.alert .alert-warning}
 
 ### Contre-indication médicale faisant obstacle à la vaccination contre la covid-19 mentionnés à l'article 2-4
 

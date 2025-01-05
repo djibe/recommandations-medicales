@@ -85,8 +85,6 @@ VVA
 
 > Les consultations à 25, 45, 65 et 75 ans sont gratuites avec la **cotation RDV** (30€).
 
-**NB.** Le Nimenrix peut être réalisé à M6-M12 en remplacement du Neisvac M5-M12. Neisvac M5 et Nimenrix M12 est également possible. Le MenQuadfi peut être utilisé à 12 mois après un Nimenrix à 5 mois.
-
 {{< card-link-external title="Disponibilité des vaccins" url="https://www.infovac.fr/vaccins/disponibilite-des-vaccins" subtitle="Par Infovac">}}
 
 ### Vaccin rotavirus
@@ -107,7 +105,7 @@ Possibilité de manger immédiatement avant ou après. [Guide info parent rotavi
 | Coqueluche                       |                       39 ans                        | [Grossesse voire cocooning]({{< relref "coqueluche.md" >}}) |
 | Haemophilus                      |                        5 ans                        | [Asplénie]({{< relref "asplenie.md" >}})               |
 | Hépatite B                       |                       15 ans                        | [Hépatite B]({{< relref "hepatite-b.md" >}})           |
-| Méningocoque ACWY                |                       24 ans                        | Dose unique si non fait à 11-14 ans                    |
+| Méningocoque ACWY                |                       24 ans                        | Pas de rattrapage après 12 mois chez le nourrisson,<br>dose unique si non fait à 11-14 ans |
 | Méningocoque B                   |                       23 mois                       |                                                        |
 | Papillomavirus (HPV)             |                       19 ans                        | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}})          |
 | Pneumocoque                      |                       23 mois                       | Asplénie, BPCO, cancer,  diabète ...                   |
@@ -164,7 +162,8 @@ Lire le *Calendrier vaccinal* page 75.
 7. Rougeole
 8. Oreillons
 9. Rubéole
-10. Méningocoque ACWY (depuis 2025, anciennement C)
+10. Né depuis juillet 2023: méningocoque ACWY (depuis 2025, anciennement C)  
+  Pas de rattrapage au-delà de 12 mois.
 11. Pneumocoque
 
 > -- *[Décret n° 2024-694 du 5 juillet 2024](https://www.legifrance.gouv.fr/download/file/hhS68ECmVhDgElkqhy2ETAVq-2Yhrqjdh8OV3--WPN0=/JOE_TEXTE)* et *[Loi du 30 décembre 2017](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171)*

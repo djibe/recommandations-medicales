@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T23:51:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2024-12-26"
+lastmod = "2025-01-05"
 specialites = ["hematologie", "infectiologie"]
 annees = "2024"
 sources = ["MinSanté", "BSH", "HCSP"]
@@ -138,7 +138,7 @@ Vaccins à réaliser avant voire après une splénectomie.
 {{< table title="Synthèse des vaccins à administrer en cas d'asplénie selon *Vaccination Info Service 2024*. Contrôler l'âge sur les RCP" class="table-wrap" >}}
 | Germe           | Primo-vaccination            | Rappel           |
 |-----------------|------------------------------|------------------|
-| Covid-19        | Recommandations en vigueur   |                  |
+| Covid-19        | Comirnaty Omicron XBB.1.5<br>30 µg 1 dose | Automne ± printemps |
 | dTcaPolio       | Calendrier vaccinal          | Boostrix®/Repevax® tous les 10 ans |
 | Grippe          | 1 dose                       | Annuel           |
 | *H. influenzae* | ACT-HIB® dose unique (hors AMM) |               |

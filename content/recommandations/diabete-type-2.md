@@ -363,7 +363,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) | Envisager le dépistage chez la femme          | ESHRE 2023               |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
 | [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) | Étayer si: syndrome plurimétabolique, diabète déséquilibré sans cause évidente, symptômes | PNDS Cushing 2022 |
-| [Vaccins]({{< relref "vaccination.md" >}}) | [Covid-19]({{< relref "covid-19.md" >}}), [grippe]({{< relref "grippe.md" >}}), {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
+| [Vaccins]({{< relref "vaccination.md" >}}) | [Covid-19]({{< relref "covid-19.md" >}}) et [grippe]({{< relref "grippe.md" >}}) annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
 | Vitamine B12 | Si metformine: dosage après 4 ans de traitement<br>Surveillance régulière et correction          | KDIGO 2022 diabetes<br>ADA/EASD 2022 |
 {{< /table >}}
 

@@ -29,7 +29,7 @@ modele = true
 - 0 alcool et 0 tabac pendant la grossesse, interroger à chaque consultation
 - ⅓ des tests de grossesse sont non conformes (*[DGCCRF](https://www.economie.gouv.fr/dgccrf/les-autotests-de-fertilite-au-banc-dessai)*)
 - Vaccins Covid-19, grippe et coqueluche à chaque grossesse, anti-VRS Abrysvo si 32-36 SA de septembre à janvier (une seule dose)
-- [Nata](https://play.google.com/store/search?q=NATA&c=apps): l'appli officielle du suivi de grossesse (multilingue)
+- Appli officielle du suivi de grossesse: [Nata](https://play.google.com/store/search?q=NATA&c=apps) (multilingue)
 - Besoins en [calcium]({{< relref "apports-calcium.md" >}}): 1 g/j (*IOF*), [alimentation pendant la grossesse (MangerBouger)](https://www.mangerbouger.fr/manger-mieux/a-tout-age-et-a-chaque-etape-de-la-vie/les-recommandations-et-conseils-avant-pendant-et-apres-la-grossesse/manger-equilibre-avant-pendant-et-apres-la-grossesse) et guide [activité physique](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_grossesse.pdf) (PDF)
 
 Chapitres dédiés:
@@ -195,7 +195,7 @@ const chartOptions3 = {
 
 - **Toxiques** à chaque consultation
 - **Vaccinations**
-  - Covid-19 et grippe à n'importe quel terme
+  - Covid-19 et grippe d'octobre à janvier (possibles quelque soit le terme)
   - Coqueluche entre 20 et 36 SA à chaque grossesse
   - Anti-VRS par Abrysvo une seule fois si terme de 32 à 36 SA de septembre à janvier  
     ou Beyfortus chez le nouveau-né à défaut.
@@ -206,7 +206,7 @@ const chartOptions3 = {
 {{< table title="Suivi simplifié de la grossesse. Dr JB Fron d'après *HAS* et *Collège*" class="table-wrap">}}
 | Moment   | Clinique | Examen  | Traitement |
 |----------|----------|---------|------------|
-| Chaque consultation | PA, poids, signes de grossesse | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}ECBU{{%/tooltip%}} si ATCD, toxoplasmose si -, {{%tooltip "Jusqu'à 18 SA"%}}rubéole si -{{%/tooltip%}}, TSH si sympt. aspécifiques | Arrêt alcool/tabac et {{%tooltip "lecrat.fr"%}}automédication{{%/tooltip%}}, vaccin grippe+covid, {{%tooltip "mangerbouger.fr"%}}alimentation{{%/tooltip%}} (listériose ++) |
+| Chaque consultation | PA, poids, signes de grossesse | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}ECBU{{%/tooltip%}} si ATCD, toxoplasmose si -, {{%tooltip "Jusqu'à 18 SA"%}}rubéole si -{{%/tooltip%}}, TSH si sympt. aspécifiques | Arrêt alcool/tabac et {{%tooltip "lecrat.fr"%}}automédication{{%/tooltip%}}, vaccin grippe et Covid, {{%tooltip "mangerbouger.fr"%}}alimentation{{%/tooltip%}} (listériose ++) |
 | Préconceptionnelle<br>ou 1re consultation (< 10 SA) | ATCD (gynéco, varicelle), toxiques, profession, vaccinations, précarité, maltraitance, DDR, {{%tooltip "Bandelette urinaire: glycosurie et protéinurie"%}}BU{{%/tooltip%}} | NFS, ferritine, {{%tooltip "1re grossesse sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}}, ± {{%tooltip "Si mère RH-1- et terme ≥ 11 SA"%}}Gpe ABO Rh de l'homme{{%/tooltip%}}<br>Sérologies {{%tooltip "Sauf vaccination double dose documentée"%}}rubéole{{%/tooltip%}}, toxoplasmose, syphilis, VIH, VHC, {{%tooltip "AgHBs sans vaccination"%}}Ac anti-HBs{{%/tooltip%}}, ± {{%tooltip "≥ 35 ans, surpoids, ATCD DG/macrosomie ou fam DT2"%}}glycémie{{%/tooltip%}}, TSH si sympt. aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et FDR{{< /modal-btn >}}, ± frottis | {{%tooltip "Jusqu'à 8 SA (HAS 2016), 14 SA (USPTF)"%}}acide folique{{%/tooltip%}} 0,4 mg/j, {{%tooltip "De 11 à 13 SA + 6j"%}}écho T1{{%/tooltip%}} + {{%tooltip "βhCG libre + PAPP-A"%}}dépistage T21{{%/tooltip%}} |
 | 4e mois<br>16-20 SA | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}BU{{%/tooltip%}} (HAS 2024) | {{%tooltip "Gratuite jusqu'à 6 mois après l'accouchement"%}}Cs dentaire{{%/tooltip%}} ||
 | 5e mois<br>20-24 SA || {{%tooltip "22 SA (20-25)"%}}Écho T2{{%/tooltip%}} | Vaccin coqueluche |
@@ -227,10 +227,9 @@ const chartOptions3 = {
 
 Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{< relref "vaccination.md" >}})):
 
-- Covid-19 ARNm au 1er trimestre (RR de réanimation sans vaccination: 18)
+- Covid-19 ARNm et grippe quel que soit le terme (RR de réanimation sans vaccination: 18)
 - dTcaPolio à chaque grossesse entre 20 et 36 SA (BoostrixTetra, Repevax)  
   Délai minimal entre 2 doses de 4 semaines.
-- Avant ou en début de période épidémique: [grippe]({{< relref "grippe.md" >}})
 - Anti-VRS (Abrysvo) de septembre à janvier entre 32 et 36 SA
 
 > -- {{< references/calendrier-vaccinal >}} et *Vaccination Info Service*
