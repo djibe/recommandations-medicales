@@ -105,12 +105,12 @@ Signes et symptômes des infections à *Chlamydia trachomatis* selon le sexe.
 
 - Incubation 5-14 jours
 - **Asymptomatique** (70%)
-- Cervicite  
+- [Cervicite]({{< relref "uretrite-vaginite.md" >}})  
   Leucorrhées jaunes/blanches, cystalgies (douleurs de vessie), syndrome urétral, dyspareunie, spotting.
 - [Salpingite]({{< relref "infections-genitales-hautes.md" >}}) et douleurs pelviennes chroniques  
   Majoritairement subaiguë ou chronique, douleurs abdominales augmentées pendant les règles.
 - Grossesse extra-utérine
-- Stérilité
+- [Stérilité]({{< relref "infertilite-couple.md" >}})
 
 ### Signes de Chlamydia chez l'homme
 

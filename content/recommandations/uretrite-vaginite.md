@@ -7,8 +7,8 @@ description = "Recommandations pour le diagnostic et la prise en charge des infe
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-06T09:05:23+01:00"
-publishdate = "2025-01-04"
-lastmod = "2025-01-04"
+publishdate = "2025-01-05"
+lastmod = "2025-01-05"
 specialites = ["gynecologie-obstetrique"]
 annees = "2024"
 sources = ["HAS", "SPILF", "SFD"]
@@ -16,26 +16,29 @@ tags = ["IST"]
 english = ["Urethritis", "cervicitis"]
 sctid = "37610005"
 icd10 = ["N34", "N37.0", "A54", "A56.0", "N72"]
-draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow, gardnerella https://www.em-consulte.com/revue/annder/133/8-9-C2"
+todo = "photo > flow"
 +++
 
 {{%article-summary%}}
 
-TODO:
-- PCR gonocoque/Chlamydia et prélèvement vaginal avant toute antibiothérapie
-- Dépistage des autres IST et du partenaire
-- Mesures associées aux IST TODO:
+- Les infections génitales basses comprennent les urétrite, cervicite, vaginose et vaginite, souvent par germe sexuellement transmissible (IST)
+- Les symptômes sont dominés par les leucorrhées, un prurit vaginal ou une urétrite
+- Bilan par PCR gonocoque/Chlamydia et prélèvement vaginal avant toute antibiothérapie  
+  Préciser la recherche de *Trichomonas vaginalis* en cas de leucorrhées jaunes-vertes, spumeuses avec odeur de plâtre frais.
+- Prise en charge et traitement des infections génitales basses:
+  - Vaginose et vaginite (*Gardnerella vaginalis*, *Trichomonas vaginalis*): métronidazole 500 mg x 2/j pendant 7 jours
+  - Urétrite et cervicite: ceftriaxone 1g IM unique + doxycycline 100 mg x 2/j pendant 7 jours (ou azithromycine 1g dose unique) et consultation à J7 (J3 si échec)
+- Dépistage des autres IST (si *Chlamydia*, gonocoque, *Trichomonas*) et du partenaire et évaluation de la santé sexuelle
 
-Chapitres liés: [mycose vaginale]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), [infections urinaires]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), [herpès génital]({{< relref "infections-herpes-virus.md" >}}), [infections à Chlamydia trachomatis]({{< relref "chlamydia-trachomatis.md" >}}) et [papillomavirus]({{< relref "cancer-col-uterus.md" >}}) (HPV), [syphilis]({{< relref "syphilis.md" >}})
+Chapitres liés: [infections génitales hautes]({{< relref "infections-genitales-hautes.md" >}}), [mycose vaginale]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), [infections urinaires]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), [herpès génital]({{< relref "infections-herpes-virus.md" >}}), [infections à Chlamydia trachomatis]({{< relref "chlamydia-trachomatis.md" >}}) et [papillomavirus]({{< relref "cancer-col-uterus.md" >}}) (HPV), [syphilis]({{< relref "syphilis.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Urétrite
-: TODO:
+: Inflammation de l'urètre le plus souvent infectieuse, voire inflammatoire ou irritative. Première manifestation des infections sexuellement transmissibles.
 
 Cervicite muco-purulente
 : Inflammation de l'endocol utérin avec des symptômes variables (écoulement purulent ou muco-purulent par le col, col inflammatoire saignant au contact ou polynucléaires neutrophiles (PNN) sur le frottis endocervical coloré au Gram ou au bleu de méthylène).
@@ -77,7 +80,7 @@ TV
 
 ### *Gardnerella vaginalis* et vaginite bactérienne
 
-Métronidazole 500 mg x 2/j pendant 7 jours
+[Métronidazole 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60416081&typedoc=R) x 2/j pendant 7 jours
 {.alert .alert-info}
 
 > -- *SFD 2016*
@@ -110,10 +113,6 @@ Métronidazole 500 mg x 2/j pendant 7 jours
 
 *M. hominis* a un rôle pathogène controversé et il n'est pas recommandé de le rechercher systématiquement.
 
-## Klebsiella pneumoniae
-
-TODO:
-
 {{% /collapse %}}
 {{%collapse "Traitement des urétrite et cervicite non compliquées" %}}
 
@@ -121,6 +120,8 @@ Ceftriaxone 1g IM dose unique
 \+ doxycycline 100 mg x 2/j pendant 7 jours  
 ou azithromycine 1g dose unique
 {.alert .alert-info}
+
+Symptômes classiques des urétrites et cervicites: leucorrhées, dyspareunies, spotting,  urétrite, cystalgies.
 
 La prise en charge d'une urétrite ou d'une cervicite non compliquée associe:
 
@@ -146,6 +147,7 @@ La prise en charge d'une urétrite ou d'une cervicite non compliquée associe:
 - [HAS, SPILF. Choix et durée de l'antibiothérapie : Urétrites et cervicites non compliquées. 2024.](https://www.has-sante.fr/jcms/c_2038472/fr/choix-et-durees-d-antibiotherapies-uretrites-et-cervicites-non-compliquees)
 - [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-162.pdf)
 - {{< references/spilf-2020 >}}
+- Prescrire. Infections vulvovaginales non sexuellement transmises. Rev Prescrire. 2019.
 - [Alcaraz I, et al; SFD. Mycoplasmes génitaux. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/mycoplasmes-genitaux-6e4ae5d4b4748a07c993deaa05dbbb86.pdf)
 - [Janier M, et al; SFD. Cervicite muco-purulente. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/cervicite-muco-purulente-aa8c23d0b90fa191483668eafcb8660f.pdf)
 - [Alcaraz I, et al; SFD. Trichomonose. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/trichomonose-c45b526c66838139b708515093a8be44.pdf)
@@ -154,12 +156,9 @@ La prise en charge d'une urétrite ou d'une cervicite non compliquée associe:
 
 ### Bibliographie en attente
 
-- [MST et grossesse](https://www.sfdermato.org/upload/recommandations/mst-et-grossesse-8d334c94352709631c8240d4ff4466b7.pdf)
+- [Janier M, et al. MST et grossesse. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016.](https://www.sfdermato.org/upload/recommandations/mst-et-grossesse-8d334c94352709631c8240d4ff4466b7.pdf)
 - EAU
 - Collège gynéco p234
-- Prescrire. Infections vulvovaginales non sexuellement transmises. Rev Prescrire. 2019.
-- Cochrane
-- Minerva
 
 {{%/sources%}}
 {{% modal title="Facteurs de risque d'infection sexuellement transmissible" id="modal-risque-ist"%}}
