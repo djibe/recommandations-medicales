@@ -9,9 +9,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-07T09:31:39+01:00"
 publishdate = "2022-01-07"
-lastmod = "2022-01-07"
+lastmod = "2025-01-06"
 specialites = ["social"]
-annees = "2022"
+annees = "2025"
 sources = ["Ameli"]
 tags = []
 english = []
@@ -23,8 +23,9 @@ imageSrc = "Illustration par Freepik"
 
 {{%collapse "Démarches" "show" %}}
 
-Le remboursement de soins effectués à l'étranger s'effectue depuis le compte Ameli de l'assuré ou en envoyant un double des factures à sa Caisse Primaire d'Assurance Maladie (CPAM).  
-Taux moyen de remboursement en 2018: 73,4% (*France Assos Santé*)
+Le remboursement de soins effectués à l'étranger s'effectue depuis le compte Ameli de l'assuré ou en envoyant un double des factures à sa Caisse Primaire d'Assurance Maladie (CPAM).
+
+Taux moyen de remboursement en 2018: 73,4 % (*France Assos Santé*)
 
 ### Remboursement de soins à l'étranger via Ameli.fr
 
@@ -36,7 +37,7 @@ Demander un remboursement des soins via le portail Ameli:
 - Joindre les documents nécessaires: détail des prestations, factures, preuves de paiement, prescriptions, avis de mission professionnelle  
   Si le nombre de documents est supérieur à 10: [compléter le formulaire S3125 (PDF)](https://www.ameli.fr/sites/default/files/formualires/221/s3125.pdf)
 
-Pour les militaires, voir la [CNMSS](https://www.cnmss.fr/).
+Pour les militaires, voir la [CNMSS](https://www.cnmss.fr).
 
 ### Carte européenne d'assurance maladie (CEAM)
 

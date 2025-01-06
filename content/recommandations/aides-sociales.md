@@ -9,9 +9,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-26T13:38:41+02:00
 publishdate = "2020-07-26"
-lastmod = "2024-02-10"
+lastmod = "2025-01-06"
 specialites = ["social"]
-annees = "2024"
+annees = "2025"
 sources = ["MinSanté"]
 tags = ["geriatrie"]
 english = ["Social health insurance"]
@@ -37,7 +37,7 @@ Ces aides à la prise en charge médicale et aux soins doivent être communiqué
 
 ### Ile-de-France
 
-[Mutuelle régionale de la Région Ile-de-France](https://www.iledefrance.fr/mutuelle-regionale)
+[Mutuelle régionale de la Région Ile-de-France](https://www.iledefrance.fr/toutes-les-actualites/ile-de-france-mutuelle-sante-la-premiere-mutuelle-regionale-pour-tous-les-franciliens)
 
 ## Les droits et les aides
 

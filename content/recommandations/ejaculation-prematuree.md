@@ -28,7 +28,7 @@ flowchart = true
   - retentissement personnel et sur le couple
   - délai éjaculatoire inférieur à 2 minutes
 - L'examen clinique recherche les critères diagnostiques, le type d'éjaculation prématurée, sa sévérité et les troubles génito-sexuels associés, les traitements essayés ...
-- Le bilan de l'EP n'est pas systématique et est ciblé sur les anomalies constatées
+- Le bilan de l'éjaculation précoce n'est pas systématique et est ciblé sur les anomalies constatées
 - La prise en charge de l'éjaculation prématurée primaire associe conseils psychosexologiques, sexothérapie cognitivo-comportementale, antidépresseur ISRS dapoxétine 30 mg (Priligy) et anesthésique local lidocaïne et prilocaïne spray (Fortacin)
 - Adresser au sexologue/andrologue/urologue en cas de réponse insuffisante au traitement
 

@@ -9,9 +9,9 @@ synonyms = ["Sphygmomanomètre électronique oscillométrique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-19T15:20:19+02:00"
 publishdate = "2023-10-20"
-lastmod = "2024-07-31"
+lastmod = "2025-01-06"
 specialites = ["cardiologie"]
-annees = "2024"
+annees = "2025"
 sources = ["ESH", "BIH"]
 tags = ["depistage", "HTA"]
 english = ["Blood pressure monitors"]
@@ -44,4 +44,4 @@ La gamme de prix est très variable (de 33 à 650 €) et parmi les tensiomètre
 
 Le tensiomètre électronique n'a pas besoin de recalibration mais le contrôle des brassards doit être annuel. Le brassard est spécifique de chaque appareil.
 
-Autre bibliographie: [Ishigami J et al. Effects of Cuff Size on the Accuracy of Blood Pressure Readings: The Cuff(SZ) Randomized Crossover Trial. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/10.1001/jamainternmed.2023.3264)
+Autre bibliographie: [Ishigami J, et al. Effects of Cuff Size on the Accuracy of Blood Pressure Readings: The Cuff(SZ) Randomized Crossover Trial. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/10.1001/jamainternmed.2023.3264)

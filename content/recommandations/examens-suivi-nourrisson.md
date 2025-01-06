@@ -19,7 +19,7 @@ sctid = "183616001"
 icd10 = []
 image = true
 imageSrc = "Illustration du suivi de l'enfant par pch.vector / Freepik"
-todo = "update | SEO 'consultation nourrisson remboursé 100', HAS tabac p.48"
+todo = "SEO 'consultation nourrisson remboursé 100', HAS tabac p.48"
 +++
 
 {{%collapse "Définitions" %}}
