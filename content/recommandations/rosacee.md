@@ -258,7 +258,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 111. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-111-%E2%80%94-Dermatoses-faciales-acne-rosacee-dermatite-seborrheique_CompressPdf.pdf)
+- [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 111. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-111-%E2%80%94-Dermatoses-faciales-acne-rosacee-dermatite-seborrheique_CompressPdf.pdf)
 - [Hampton P et al. British Association of Dermatologists guidelines for the management of people with rosacea 2021. Br J Dermatol. 2021.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20485)
 - [Trouche F. La couperose et la rosacée. Dermato-Info. 2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-couperose-et-la-rosac%C3%A9e)
 - [Anzengruber F et al. Swiss S1 guideline for the treatment of rosacea. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.14349)

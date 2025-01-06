@@ -42,8 +42,11 @@ La destruction articulaire entraîne une altération de la qualité de vie, un h
 : **Complications** de la polyarthrite: déformations articulaires et handicap, douleurs et altération de la qualité de vie, augmentation du risque cardiovasculaire, insuffisance respiratoire restrictive, infections, lymphomes, fractures ostéoporotiques.
 : *Rémission* de la polyarthrite rhumatoïde: lorsque le score [DAS28](https://sfr.larhumatologie.fr/sites/sfr.larhumatologie.fr/files/medias/formations-ressources/boite_outils/das28.pdf) est < 2,6.
 
+Pré-polyarthrite rhumatoïde
+: Personnes à risque de polyarthrite rhumatoïde (PR) du fait d'une familiale de PR ou de la présence d'auto-anticorps liés à la PR.
+
 Traitements conventionnels de la polyarthrite rhumatoïde
-: Méthotrexate, léflunomide ou sulfasalazine.
+: Méthotrexate, léflunomide et sulfasalazine.
 
 ### Diagnostic différentiel de la polyarthrite rhumatoïde
 
@@ -87,6 +90,9 @@ MCP
 MTP
 : articulation métatarsophalangienne
 
+PR-PID
+: Pneumopathie interstitielle diffuse associée à la polyarthrite rhumatoïde
+
 TSA
 : troncs supra-aortiques
 {.dl-inline}
@@ -105,8 +111,14 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
 ### Interrogatoire
 
 - Antécédents familiaux de rhumatisme inflammatoire chronique
+- Traitements en cours
+- Tabagisme
+- Suivi dentaire
 - Voyage récent
-- Signes généraux (fièvre, frissons)
+- Expositions professionnelles  
+  Silice (BTP, pierre, céramique, dentiste), agriculture (insecticides, fongicides, toluènes).
+- Signes généraux: fièvre, frissons
+- Ancienneté des symptômes
 - L'**arthrite** associe:
   - Gonflement articulaire (synovite des doigts et des poignets +++)
   - ET douleurs inflammatoires OU raideur matinale > 30 minutes.
@@ -114,10 +126,12 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
 
 ### Examen clinique
 
+- Poids, taille et IMC
 - Diagnostic positif
-  - Arthrite clinique: Synovites, ténosynovites
+  - Arthrite clinique chronique: synovites, ténosynovites
+  - Douleurs à la fermeture du poing
   - Douleur à la pression transverse des mains ou avant-pieds (MCP/MTP = *squeeze-test*)
-  - Éléments plus haut, atteinte symétrique
+  - Atteinte symétrique
 - Signes extra-articulaires
   - Nodules rhumatoïdes
   - Dyspnée
@@ -133,14 +147,14 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
 
 {{%info%}}
 
-### Bilan devant une polyarthrite
+### Bilan d'une polyarthrite
 
 - NFS, VS, CRP
-- ASAT, ALAT, PAL, bilirubine
+- ASAT, ALAT
 - Créatininémie, DFG selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - Bandelette urinaire (protéinurie, [hématurie]({{< relref "hematurie.md" >}}))
 - Facteur rhumatoïde (FR)
-- Anticorps anti-peptide citrulliné (*ACPA* ou *anti-CCP*)
+- Anticorps anti-peptide citrulliné (*ACPA*)
 - Anticorps antinucléaires (AAN)
 - Sérologies [hépatite B]({{< relref "hepatite-c.md" >}}), [hépatite C]({{< relref "hepatite-c.md">}}) et [VIH]({{< relref "vih-sida.md" >}})
 - Ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
@@ -149,12 +163,13 @@ avec les radiographies suivantes:
 
 - Mains et poignets de face
 - Avants-pieds face et 3/4 en grandeur normale
-- Thorax de face
+- Thorax de face ou scanner thoracique faible dose
 - Toute articulation symptomatique
 {{%/info%}}
 
 Selon le contexte:
 
+- Échographie doppler et mode B des poignets, mains et avant-pieds
 - Sérologie de borréliose ([Maladie de Lyme]({{< relref "maladie-lyme.md" >}}))
 - [Uricémie]({{< relref "goutte.md" >}})
 - Ponction et culture de liquide synovial
@@ -297,7 +312,7 @@ Infiltrations ciblées des articulations douloureuses.
 
 - Par le rhumatologue tous les 1 à 3 mois tant que la maladie est active
 - [Indice articulaire DAS28 (PDF)](https://sfr.larhumatologie.fr/sites/sfr.larhumatologie.fr/files/medias/formations-ressources/boite_outils/das28.pdf)
-- Évaluation annuelle du retentissement: [échelle HAQ](http://www.arthrites.be/fr/pr.asp?Rub=127)
+- Évaluation annuelle du retentissement: [échelle HAQ](http://www.rhumato.info/fiches-pratiques2/161-polyarthrite-rhumatoide/1684-haq)
 
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une suspicion de polyarthrite" "show" %}}

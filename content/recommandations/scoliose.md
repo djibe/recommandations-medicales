@@ -167,7 +167,7 @@ Réservé au cas par cas aux échecs du traitement orthopédique ou aux scoliose
 
 ### Échecs de prise en charge
 
-Adresser dans un Centre de référence pour les anomalies du développement et les syndromes malformatifs: [filière C-MAVEM](https://www.c-mavem.fr)
+Adresser dans un Centre de référence pour les anomalies du développement et les syndromes malformatifs: [ex de Centre de Référence](https://robertdebre.aphp.fr/centre-de-reference-des-anomalies-du-developpement-syndromes-malformatif-dile-de-france/)
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

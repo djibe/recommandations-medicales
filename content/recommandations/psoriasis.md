@@ -266,7 +266,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège des enseignants de dermatologie de France (CEDEF). Psoriasis. Item 117. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-117-%E2%80%94-Psoriasis_CompressPdf.pdf)
+- [Collège des enseignants de dermatologie de France (CEDEF). Psoriasis. Item 117. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-117-%E2%80%94-Psoriasis_CompressPdf.pdf)
 - Prescrire Redaction. Psoriasis médicamenteux. Rev Prescrire. 2023.
 - Prescrire Redaction. Patients atteints de psoriasis. Rev Prescrire. 2023.
 - [Amatore F et al; Psoriasis Research Group of the French Society of Dermatology (Groupe de Recherche sur le Psoriasis de la Société Française de Dermatologie). French guidelines on the use of systemic treatments for moderate-to-severe psoriasis in adults. J Eur Acad Dermatol Venereol. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6593704/)

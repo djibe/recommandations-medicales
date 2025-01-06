@@ -207,7 +207,7 @@ Prise en charge d'un abcès cutané:
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Prise en charge des furonculoses. 2024.](https://www.has-sante.fr/jcms/p_3282447/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-furonculoses)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Prise en charge des abcès cutanés. 2024.](https://www.has-sante.fr/jcms/p_3282441/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-abces-cutanes)
 - [Gillet Y et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)
-- [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 155. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-155-%E2%80%94-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques_CompressPdf.pdf)
+- [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 155. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-155-%E2%80%94-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques_CompressPdf.pdf)
 - [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-155.pdf)
 - Prescrire Redaction. Furoncle. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [CMIT, SFMTSI, SPILF, SMV. Infections de la peau, des tissus mous et des muscles. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)

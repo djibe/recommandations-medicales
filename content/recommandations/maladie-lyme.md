@@ -23,11 +23,12 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Zones à risque de tiques: métropole entière (surtout Alsace, Lorraine, Limousin)
-- Mesure de prévention des piqûres de tique en forêt puis inspection au retour
-- Prise en charge d'une piqûre de tique: pince ou tire-tique, auto-surveillance 30 jours, [signaler la piqûre](https://tiquotheque.fr/signalement/public/)
-- Recommandations pour la prise en charge d'un érythème migrant: survient dans les 30 jours, diagnostic clinique, antibiothérapie 14 jours, contrôle de la  guérison à J14
-- [Paralysie faciale]({{< relref "paralysie-faciale-idiopathique.md" >}}) ou [péricardite idiopathique]({{< relref "pericardite-aigue.md" >}}): sérologie borréliose systématique
+- La maladie de Lyme est une infection par piqûre de tique infectée par la bactérie *Borrelia burgdorferi*, qui évolue en plusieurs stades en l'absence de traitement
+- Zones à risque de tiques infectées: métropole entière (surtout Alsace, Lorraine, Limousin)
+- Mesures de prévention des piqûres de tique en forêt puis inspection au retour (voir *Prévention*)
+- Prise en charge d'une piqûre de tique: pince ou tire-tique, auto-surveillance pendant 30 jours, [signaler la piqûre](https://tiquotheque.fr/signalement/public/)
+- Recommandations pour la prise en charge d'un érythème migrant: survenue dans les 30 jours de la piqûre, diagnostic clinique, antibiothérapie 14 jours, contrôle de la guérison à J14
+- En cas de [paralysie faciale]({{< relref "paralysie-faciale-idiopathique.md" >}}) ou de [péricardite]({{< relref "pericardite-aigue.md" >}}) idiopathique: sérologie borréliose systématique
 - Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose (complication neurologique de la maladie de Lyme)
 
 {{%/article-summary%}}
@@ -303,19 +304,20 @@ Traitement par l'**infectiologue** des autres formes de borréliose.
 {{< mermaid title="Prise en charge de l'érythème migrant par le médecin généraliste. Dr JB Fron d'après HAS et SFR" >}}
 graph TB
   suspicion["<b>Piqûre de tique</b><br>—<br>- Extraction au tire-tique<br>- Inspection du reste du corps<br>- Auto-surveillance 30 jours"] -- "Sous 3-30 jours" --> érythème("<b>Érythème migrant</b><br>—<br>Large macule rosée:<br>- Antibiothérapie<br>doxycycline 100 mg x 2/j<br>- Photos<br>- Signalement de tique<br>- Mesure de prévention<br>- Forestier: déclaration MP") -- J14 --> contrôle(Contrôle clinique) -. Persistance .-> dermatologue(Dermatologue)
+    suspicion -- Surveillance normale --> rien("Absence d'évolution sous<br>30 jours")
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Gillet Y et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)
+- [Gillet Y, et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)
 - {{< references/voyageur >}}
 - [CMIT. Zoonoses. Item 173. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-173.pdf)
 - Prescrire Redaction. Érythème migrant après piqûre de tique. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [HAS. Guide du parcours de soins de patients présentant une suspicion de borréliose de Lyme. 2022.](https://www.has-sante.fr/jcms/p_3323862/fr/guide-du-parcours-de-soins-de-patients-presentant-une-suspicion-de-borreliose-de-lyme)
 - Prescrire Redaction. Borréliose de Lyme. Reconnaître des signes de dissémination. Rev Prescrire. 2022.
-- [Gocko X et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X19306201)
+- [Gocko X, et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X19306201)
 - [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques. Recommandations de bonne pratique. 2018.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques)
 - [Quinet B; SFP. Conduite à tenir devant une piqûre de tique chez l'enfant. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/conduite-tenir-devant-une-piqure-de-tique-chez-lenfant)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
@@ -323,7 +325,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Lantos PM et al. Clinical Practice Guidelines by the Infectious Diseases Society of America, American Academy of Neurology, and American College of Rheumatology: 2020 Guidelines for the Prevention, Diagnosis, and Treatment of Lyme Disease. Neurology. 2021.](https://pubmed.ncbi.nlm.nih.gov/33257476/)
-- [Mygland Å et al. EFNS guidelines on the diagnosis and management of European Lyme neuroborreliosis. European Journal of Neurology. 2010.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2009.02862.x)
+- [Lantos PM, et al. Clinical Practice Guidelines by the Infectious Diseases Society of America, American Academy of Neurology, and American College of Rheumatology: 2020 Guidelines for the Prevention, Diagnosis, and Treatment of Lyme Disease. Neurology. 2021.](https://pubmed.ncbi.nlm.nih.gov/33257476/)
+- [Mygland Å, et al. EFNS guidelines on the diagnosis and management of European Lyme neuroborreliosis. European Journal of Neurology. 2010.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2009.02862.x)
 
 {{%/sources%}}

@@ -570,7 +570,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 155. 2023. (PDF)](https://cedef.info/wp-content/uploads/2023/09/Item-155-%E2%80%94-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques_CompressPdf.pdf)
+- [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 155. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-155-%E2%80%94-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques_CompressPdf.pdf)
 - Prescrire Redaction. Patients atteints de mycose superficielle. Rev Prescrire. 2023.
 - Prescrire Redaction. Patientes ayant une infection vulvovaginale ou du col utérin. Rev Prescrire. 2023.
 - Anofel. Parasitoses et mycoses des régions tempérées et tropicales. 2022.

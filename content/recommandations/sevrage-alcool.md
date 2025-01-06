@@ -684,7 +684,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 - Risque vie-entière d'un décès attribuable à l'alcool en France chez les femmes/hommes
 - [OFDT. La consommation d'alcool et ses conséquences en France en 2021. 2022](https://www.ofdt.fr/publications/collections/bilans/la-consommation-dalcool-et-ses-consequences-en-france-en-2021/)
 - [Barrault C. Sevrage en alcool et maladies chroniques du foie. POST'U. 2020.](https://www.fmcgastro.org/texte-postu/postu-2020-paris/sevrage-en-alcool-et-maladies-chroniques-du-foie/)
-- [Le CMG. Addictions en médecine générale.](https://lecmg.fr/addictionsmg/)
+- [Le CMG. Addictions en médecine générale.](https://www.cmg.fr/addictionsmg/)
 - [Bråthen G et al. EFNS guideline on the diagnosis and management of alcohol-related seizures: report of an EFNS task force. European Journal of Neurology. 2005.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2005.01247.x)
 - [Andler R et al. La consommation d'alcool des adultes en France en 2021, évolutions récentes et tendances de long terme. Bull Épidémiol Hebd. 2024.](http://beh.santepubliquefrance.fr/beh/2024/2/2024_2_1.html)
 - CUNEA

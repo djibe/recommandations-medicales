@@ -1,13 +1,13 @@
 +++
 title = "Évolution de la cotisation ordinale des médecins"
-description = "Évolution du montant de la cotisation annuelle au Conseil de l'Ordre des Médecins de 2001 à 2024, corrigée de l'inflation"
+description = "Évolution du montant de la cotisation annuelle au Conseil de l'Ordre des Médecins de 2001 à 2025, corrigée de l'inflation"
 longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-09T08:59:00+02:00"
 publishdate = "2022-01-18"
-lastmod = "2024-01-04"
+lastmod = "2025-01-06"
 specialites = []
-annees = "2024"
+annees = "2025"
 sources = ["CNOM"]
 tags = []
 chart = true
@@ -28,23 +28,23 @@ Avec la forte inflation apparue en 2022, en utilisant toujours les euros de 2021
 
 ## Graphique de l'évolution du tarif de la cotisation au Conseil de l'Ordre des médecins
 
-{{< figure-chart title="Évolution du tarif de la cotisation ordinale des médecins de 2001 à 2024. Valeurs faciales et valeurs corrigées de l'inflation (bleu clair). Dr JB Fron d'après cotisations CNOM et dernières valeurs Insee" >}}
+{{< figure-chart title="Évolution du tarif de la cotisation ordinale des médecins de 2001 à 2025. Valeurs faciales et valeurs corrigées de l'inflation (bleu clair). Dr JB Fron d'après cotisations CNOM et dernières valeurs Insee" >}}
 
 <script>
 const chartOptions1 = {
   // https://www.insee.fr/fr/information/2417794
   series: [{
     name: 'Euros courants',
-    data: [214, 219, 227, 235, 245, 252, 260, 275, 290, 295, 300, 300, 300, 305, 320, 330, 333, 335, 335, 335, 335, 335, 340, 353]
+    data: [214, 219, 227, 235, 245, 252, 260, 275, 290, 295, 300, 300, 300, 305, 320, 330, 333, 335, 335, 335, 335, 335, 340, 353, 364]
   }, {
     name: 'Euros 2021',
-    data: [66.55, 62.55, 58.97, 54.87, 51.7, 48.3, 45.88, 39.06, 40.91, 36.57, 30.21, 23.88, 21.08, 19.8, 20.64, 20.65, 17.21, 10.92, 7.14, 5.5, 0, -16.63, null, null]
+    data: [66.55, 62.55, 58.97, 54.87, 51.7, 48.3, 45.88, 39.06, 40.91, 36.57, 30.21, 23.88, 21.08, 19.8, 20.64, 20.65, 17.21, 10.92, 7.14, 5.5, 0, -16.63, null, null, null]
   }],
   chart: { stacked: true, type: 'line' },
   stroke: { colors: ['#4150f5', '#717cf8'], curve: 'smooth', width: 3 },
   title: { text: 'Évolution de la cotisation ordinale des médecins de 2001 à 2023' },
   xaxis: {
-    categories: [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
+    categories: [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025],
     tickAmount: 10
   },
   yaxis: [
