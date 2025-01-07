@@ -125,7 +125,7 @@ Prise en charge recommandée de l'épine calcanéenne:
   - Massages transverses profonds, séquences de contraction isométrique, relâchement puis étirement passif
   - Ondes de choc
 - Antalgiques
-- Anti-inflammatoires AINS
+- Anti-inflammatoires: AINS
 - Semelles orthopédiques si trouble de la statique plantaire
 
 En cas de persistance des douleurs plantaires: avis d'un pédicure-podologue pour la confection d'orthèses plantaires voire infiltrations de corticoïdes (rhumatologue).

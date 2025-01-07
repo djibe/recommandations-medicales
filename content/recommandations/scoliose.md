@@ -138,7 +138,7 @@ Objectifs de la prise en charge de la scoliose: obtenir la déformation la plus 
 
 La prise en charge de la scoliose est pluridisciplinaire:
 
-- Antalgie, AINS
+- Antalgie, anti-inflammatoires AINS
 - Kinésithérapie systématique  
   Ne contrôle pas l'évolutivité mais prévient les complications.
 - Activité physique adaptée régulière  

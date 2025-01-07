@@ -166,7 +166,7 @@ En cas d'allergie à la pénicilline: azithromycine 250 mg x 1/j
 - Contexte social
 - Complication locale  
   Ulcère de jambe, décollement bulleux, nécrose, cyanose.
-- Traitement au long cours par AINS/corticoïdes
+- Traitement au long cours par anti-inflammatoires (AINS, corticoïdes)
 - Absence d'amélioration à 24-48 heures
 {{%/warning%}}
 
@@ -210,8 +210,6 @@ Recommandations de prise en charge associées pour le traitement d'un érysipèl
 - Anticoagulation préventive selon le risque  
   Déambulation, âge, autres.
 - Antipyrexie par paracétamol simple
-- Contre-indication aux anti-inflammatoires AINS per os ou locaux  
-  Ils pourraient favoriser les fasciites nécrosantes sauf traitement au long cours.
 - Vérification des vaccinations
 - Surélévation de la jambe pour diminuer œdème et douleurs
 - Pas de contre-indication au lever précoce et contention veineuse
@@ -220,6 +218,9 @@ Recommandations de prise en charge associées pour le traitement d'un érysipèl
 
 **NB.** Aucun intérêt de traitement local antiseptique ou antibiotique sur lésions/porte d'entrée.  
 Aucune indication des corticoïdes (sauf traitement au long cours).
+
+Contre-indication aux anti-inflammatoires AINS per os ou locaux. Ils pourraient favoriser les fasciites nécrosantes sauf traitement au long cours.
+{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge d'un érysipèle" "show" %}}

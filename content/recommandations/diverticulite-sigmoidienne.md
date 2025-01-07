@@ -56,8 +56,6 @@ Le traitement de la **diverticulite compliquée** (12% des cas) est urgent et sp
 - Sténose colique
 - Hémorragie diverticulaire
 
-**Facteurs de risque** de complication: aspirine, anti-inflammatoires (AINS), [alcool]({{< relref "sevrage-alcool.md" >}}).
-
 ### Abréviations
 
 ACP
@@ -76,16 +74,29 @@ SNFGE
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Triade de symptômes d'une poussée de diverticulite sigmoïdienne aiguë:
-
-- Douleur abdominale en fosse iliaque gauche ± défense
-- Fièvre, sepsis
-- Troubles du transit
-
 > [!INFO]
 > Le diagnostic clinique de poussée de diverticulite est erroné dans plus de 50% des cas. -- *[Werner 2003](https://doi.org/10.1007/s00330-003-1887-7)*
 
-Facteurs prédictif de complication:
+### Interrogatoire
+
+- Antécédents: digestifs, comorbidité, immunodépression
+- Antécédents familiaux
+- Si femme non ménopausée: grossesse en cours
+- **Facteurs de risque** de complication: aspirine, anti-inflammatoires (AINS), [alcool]({{< relref "sevrage-alcool.md" >}})
+- Traitements en cours
+- Date et heure de début des symptômes
+- Triade des symptômes de diverticulite:
+  - Douleur abdominale en fosse iliaque gauche ± défense (EVA)
+  - Signes généraux: fièvre, frissons
+  - Troubles du transit: nausées, vomissements, constipation
+
+### Examen clinique
+
+- Pression artérielle, fréquence cardiaque
+- Fréquence respiratoire
+- Palpation abdominale
+
+### Facteurs prédictif de complication
 
 - Symptômes persistants +5 jours
 - EVA initiale > 7
@@ -96,33 +107,16 @@ Facteurs prédictif de complication:
 
 > -- *ACP 2022*
 
-### Interrogatoire
-
-- Antécédents: digestifs, immunodépression
-- Antécédents familiaux
-- Si femme non ménopausée: grossesse en cours
-- Traitements en cours
-- Date de début des symptômes
-- Symptômes
-  - Douleurs abdominales
-  - Signes généraux: fièvre, frissons
-  - Troubles du transit: nausées, vomissements, constipation
-
-### Examen clinique
-
-- Pression artérielle, fréquence cardiaque
-- Fréquences respiratoire
-- Palpation abdominale
-
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 Un bilan est systématique pour affirmer le diagnostic de diverticulite sigmoïdienne aiguë.
 
-### Bilan biologique devant une diverticulite sigmoïdienne
+### Bilan d'une diverticulite sigmoïdienne
 
 - NFS, CRP
 - Créatininémie
+- Scanner abdomino-pelvien avec injection
 
 ### Scanner abdomino-pelvien avec injection
 
@@ -137,14 +131,12 @@ Recours à l'échographie voire l'IRM en cas de contre-indication au scanner.
 
 ### Coloscopie
 
-Indications à la coloscopie: au moins 2 crises (en l'absence de coloscopie dans les 3 ans)(*ESCP 2020*)
+Indications à la coloscopie: au moins 2 crises de diverticulite (en l'absence de coloscopie dans les 3 ans -- *ESCP 2020*).
 
 La coloscopie doit être réalisée au moins 6 semaines après l'épisode diverticulaire.
 
 {{% /collapse %}}
 {{%collapse "Critères d'hospitalisation" %}}
-
-{{%warning%}}
 
 ### Critères d'hospitalisation pour poussée de diverticulite sigmoïdienne aiguë
 
@@ -164,8 +156,6 @@ La coloscopie doit être réalisée au moins 6 semaines après l'épisode divert
   Perforation ou abcès.
 - Contexte social défavorable
 
-{{%/warning%}}
-
 {{% /collapse %}}
 {{%collapse "Traitement de la diverticulite sigmoïdienne" %}}
 
@@ -175,12 +165,14 @@ Une prise en charge ambulatoire de diverticulite aiguë est possible uniquement 
 > Aucun traitement ou régime ne permet de prévenir les crises de diverticulite.
 
 - Antalgie simple
-- Pas d'AINS, corticoïdes ou aspirine
 - Pas de modification du régime alimentaire
 - Surveillance clinique des symptômes  
   {{%class%}}Après bilan biologique ± scanner.{{%/class%}}
 - Pas de suivi biologique systématique ni de scanner de contrôle en cas d'évolution favorable
 - Coloscopie si ≥ 2 crises (en l'absence de coloscopie dans les 3 ans)(*ESCP 2020*)
+
+Pas d'AINS, corticoïdes ou aspirine.
+{.alert .alert-warning}
 
 ### Antibiothérapie pour diverticulite sigmoïdienne
 

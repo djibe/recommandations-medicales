@@ -17,7 +17,7 @@ sctid = "1297276008"
 icd10 = []
 image = true
 imageSrc = "L'allaitement. Freepik"
-todo = "flow, diversification alimentaire, lactaclic"
+todo = "flow, diversification alimentaire"
 +++
 
 {{%article-summary%}}
@@ -226,7 +226,7 @@ Mastite (lymphangite ou galactophorite si infectieuse)
 - Avis spécialisé sur la technique d'allaitement (PMI, consultant en lactation, association)
 - Optimiser le drainage par tétées, expression manuelle ou tire-lait
 - Poursuivre l'allaitement (sauf prématuré)
-- Paracétamol et AINS
+- Paracétamol et AINS (*CNGOF 2015*)
 - **Analyse bactériologique du lait** et antibiogramme (germe > 10^6^/mL)
 - ± Échographie mammaire pour éliminer un abcès
 - Surveillance clinique quotidienne
@@ -265,11 +265,11 @@ Les contre-indications au don de lait sont celles du don du sang.
 - [Service-Public. Une salariée peut-elle allaiter pendant les heures de travail ?. 14/02/2024.](https://www.service-public.fr/particuliers/vosdroits/F1769)
 - [ANSM. Candidose mammaire et allaitement : éviter le violet de gentiane. 22/06/2022.](https://ansm.sante.fr/actualites/candidose-mammaire-et-allaitement-eviter-le-violet-de-gentiane)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Allaitement maternel. Gynécologie obstétrique Réussir son DFASM. 2021.
-- [Crepinsek MA et al. Interventions for preventing mastitis after childbirth. Cochrane Database of Systematic Reviews. 2020.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007239.pub4/full/fr)
-- [Rigourd V et al. Allaitement maternel : difficultés et complications. Perfectionnement en Pédiatrie. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S2588932X19300038) (payant)
+- [Crepinsek MA, et al. Interventions for preventing mastitis after childbirth. Cochrane Database of Systematic Reviews. 2020.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007239.pub4/full/fr)
+- [Rigourd V, et al. Allaitement maternel : difficultés et complications. Perfectionnement en Pédiatrie. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S2588932X19300038) (payant)
 - [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2015/2015-RPC-POSTPARTUM.pdf?x13417)
-- [Chantry AA et al; CNGOF. Allaitement maternel (partie 1) : fréquence, bénéfices et inconvénients, durée optimale et facteurs influençant son initiation et sa prolongation. Recommandations pour la pratique clinique. 2015.](https://www.sciencedirect.com/science/article/abs/pii/S0368231515002665)
-- [Marcellin L et al; CNGOF. Allaitement maternel (partie 2) : méthodes d'inhibition de la lactation. Recommandations pour la pratique clinique. 2015.](https://www.sciencedirect.com/science/article/abs/pii/S0368231515002689)
+- [Chantry AA, et al; CNGOF. Allaitement maternel (partie 1) : fréquence, bénéfices et inconvénients, durée optimale et facteurs influençant son initiation et sa prolongation. Recommandations pour la pratique clinique. 2015.](https://www.sciencedirect.com/science/article/abs/pii/S0368231515002665)
+- [Marcellin L, et al; CNGOF. Allaitement maternel (partie 2) : méthodes d'inhibition de la lactation. Recommandations pour la pratique clinique. 2015.](https://www.sciencedirect.com/science/article/abs/pii/S0368231515002689)
 - [Anaes. Allaitement maternel - Mise en œuvre et poursuite dans les 6 premiers mois de vie de l'enfant. 2002.](https://www.has-sante.fr/jcms/c_272220/fr/allaitement-maternel-mise-en-oeuvre-et-poursuite-dans-les-6-premiers-mois-de-vie-de-l-enfant)
 - [Lactaclic](https://lactaclic.fr)
 

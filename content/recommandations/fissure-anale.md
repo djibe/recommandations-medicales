@@ -22,9 +22,10 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le diagnostic de fissure anale est clinique: douleur anale intense rythmée par la défécation
+- La fissure anale est une déchirure linéaire superficielle de la partie basse du canal anal
+- Le diagnostic de fissure anale est clinique: douleur anale intense rythmée par la défécation et fissure à l'inspection
 - Avis spécialisé en cas de fissures latérales ou multiples pour éliminer une cause grave (Crohn, infection sexuelle ano-rectale ...)
-- La prise en charge de la fissure anale débute est hygiéno-diététique en première intention (50% de guérison à 6 semaines): bains de siège, laxatif ispaghul, antalgie ± AINS, anesthésique local avec lidocaïne
+- La prise en charge de la fissure anale est hygiéno-diététique et prolongée en première intention: bains de siège, laxatif ispaghul, antalgie ± anti-inflammatoires (AINS), anesthésique local avec lidocaïne (50% de guérison à 6 semaines)
 - Le traitement d'une fissure anale chronique est spécialisé par le proctologue (toxine botulique voire chirurgie)
 
 {{%/article-summary%}}

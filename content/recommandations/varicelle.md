@@ -184,6 +184,9 @@ Effets indésirables: fébricule et œdème au point d'injection, 5% ont exanth�
 {{% /collapse %}}
 {{%collapse "Traitement de la varicelle du sujet immunocompétent" %}}
 
+Contre-indication aux anti-inflammatoires (AINS, aspirine ou corticoïdes).
+{.alert .alert-warning}
+
 Guérison de la varicelle en **10 à 12 jours**.
 
 Période de contagiosité: J-2 à J+4 de l'apparition des vésicules ou par voie respiratoire dans la phase pré-éruptive.
@@ -192,8 +195,7 @@ Recommandations pour la prise en charge de la varicelle:
 
 - **Statut sérologique de l'entourage**  
   Vaccination dans les 3 jours si +12 ans non immun (sauf grossesse).
-- Contre-indication aux AINS/aspirine/corticoïdes
-- L'éviction scolaire n'est plus recommandée (*Assur Maladie*, *CMIT 2020*)
+- L'éviction scolaire n'est pas recommandée (*Assur Maladie*, *CMIT 2020*)
   - Sinon éviction scolaire jusqu'au stade croûteux
   - Signaler le cas à la collectivité pour prévenir des personnes à risque
   - Éviter les personnes fragiles et les lieux publics (transports en communs, centres commerciaux, hôpitaux...)

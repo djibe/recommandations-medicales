@@ -160,8 +160,8 @@ Prise en charge de l'entorse de la cheville par le protocole << RICE >> ({{%lang
   - Reprise d'activité la plus rapide
   - Thromboprophylaxie en l'absence d'appui
 - Glaçage  
-  15-20 minutes toutes les 2-3 heures initialement.
-- Antalgie, AINS, AINS topique  
+  15-20 minutes toutes les 2 à 3 heures initialement.
+- Antalgie, AINS oral, AINS topique  
   Douleur habituellement résolutive sous 2 semaines (⅓ persistent à 1 an).
 - Bandage, strapping de la cheville
 - Surélévation de la jambe

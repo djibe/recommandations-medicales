@@ -179,8 +179,8 @@ Prise en charge symptomatique de la grippe saisonnière non compliquée.
 
 **Isolement** pour limiter la transmission.
 
-Contre-indications aux anti-inflammatoires AINS, aspirine et corticoïdes. Antitussifs et fluidifiants bronchiques inefficaces.
-{.alert .alert-info}
+Contre-indications aux anti-inflammatoires (AINS, aspirine et corticoïdes). Les antitussifs et fluidifiants bronchiques sont inefficaces.
+{.alert .alert-warning}
 
 ### Traitement antiviral de la grippe
 

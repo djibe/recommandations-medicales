@@ -184,7 +184,7 @@ La décision du traitement dépend du rhumatologue, partagée avec le patient.
 
 ### Mesures générales de prise en charge de la polyarthrite
 
-- Anti-inflammatoires (AINS)  
+- Anti-inflammatoires AINS  
   {{%class%}}Si symptomatique, état rénal et cardio-vasculaire correct. En complément du traitement de fond.{{%/class%}}
 - **Éducation thérapeutique**  
   {{%class%}}Gérer la douleur, handicap, observance, maintien de l'activité professionnelle.{{%/class%}}

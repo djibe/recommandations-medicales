@@ -95,12 +95,14 @@ Recommandations générales de prise en charge du panaris:
 
 - Recherche et traitement de la porte d'entrée
 - Antalgie par paracétamol
-- Ne pas utiliser: AINS, antibiotiques cutanés
 - Vérification du statut vaccinal antitétanique
 - Réévaluation clinique à 48 heures
 - Éducation sur l'hygiène des mains
 - Arrêt de travail systématique si profession à risque  
   Industrie agro-alimentaire ou restauration.
+
+Ne pas utiliser: AINS ou antibiotiques cutanés.
+{.alert .alert-warning}
 
 ### Stade inflammatoire: traitement du panaris
 
