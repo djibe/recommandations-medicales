@@ -2,12 +2,12 @@
 id = "0190e8d7-59e9-7a83-a84e-7103ef1497cb"
 title = "Zona"
 prefix = "le "
-description = "Recommandations pour le traitement et la prise en charge du zona. Réactivation VZV virus, indication valaciclovir et à la vaccination douleurs post-zostériennes"
+description = "Recommandations pour le traitement et la prise en charge du zona. Brûlures, indication au valaciclovir et à la vaccination, douleurs post-zostériennes"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-14T19:48:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2024-12-11"
+lastmod = "2025-01-07"
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
 annees = "2023"
 sources = ["CMIT", "SPILF", "MinSanté"]
@@ -22,12 +22,14 @@ todo = "rankok, flowchart, zona en pédiatrie"
 
 {{%article-summary%}}
 
-- Prise en charge du zona par traitement antiviral valaciclovir 1 g x 3/j pendant 7 jours si:  
+- Le zona est une réactivation du virus varicelle-zona (VZV) au sein d'un ganglion sensitif, donnant une éruption vésiculeuse sur le métamère correspondant
+- Les symptômes sont principalement des douleurs localisées avec paresthésies, brûlures et troubles sensitifs du dermatome
+- La prise en charge du zona est simplement symptomatique, sauf indication au traitement antiviral valaciclovir 1 g 3 fois par jour pendant 7 jours si:  
   zona ophtalmique, +50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs intenses en phase aiguë, lésions cutanées graves)
 - Critères d'hospitalisation du zona en urgence: immunodépression, atteinte organique ou [paralysie faciale zostérienne]({{< relref "paralysie-faciale-idiopathique.md" >}})
 - Vaccination post-exposition (varicelle) après 12 ans chez l'immunocompétent sans antécédent de varicelle en contact avec un cas de zona, après sérologie
-- Vaccination zona des +65 ans par 2 doses espacées de 2 mois de Shingrix par le médecin (vaccin vivant)
-- Bilan avec [PCR VIH]({{< relref "vih-sida.md" >}}) en cas de zona avant 50 ans
+- Vaccination zona préventive des +65 ans par 2 doses de Shingrix espacées de 2 mois
+- En cas de zona avant 50 ans: proposer un bilan avec [PCR VIH]({{< relref "vih-sida.md" >}})
 - Traitement des douleurs post-zostériennes: prise en charge des [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}) locales (glaçage, protection locale voire emplâtres de lidocaïne) ou étendues (clomipramine ou carbamazépine si paroxystique)
 
 {{%/article-summary%}}
@@ -48,7 +50,7 @@ Formes cliniques du zona selon l'âge:
 
 - Jeune enfant  
   Zona possible dans les premières années de vie. Rare avant 4 ans et ne présente pas de caractère de gravité.
-- Sujet < 50 ans
+- Sujet de moins de 50 ans
   - Localisé et guérison sans séquelles.  
   - Proposer une **[PCR VIH]({{< relref "vih-sida.md" >}})**
 - Sujet de plus de 50 ans  

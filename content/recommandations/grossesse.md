@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2024-12-13"
+lastmod = "2025-01-07"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "HAS"]
@@ -349,6 +349,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 {{% /collapse %}}
 {{%sources%}}
 
+- [Anses. Enrichir la farine en acide folique : une solution contre les malformations du tube neural chez les nouveau-nés. 2024.](https://www.anses.fr/fr/content/enrichir-la-farine-en-acide-folique-une-solution-contre-les-malformations-du-tube-neural)
 - [HAS, ANRS, CNS. Prise en charge thérapeutique du patient atteint d'herpès génital. 2024.](https://www.has-sante.fr/jcms/p_3562501/fr/prise-en-charge-therapeutique-du-patient-atteint-d-herpes-genital)
 - [Vigoureux S, et al; CNGOF. Prévention de l'allo-immunisation anti-RH1 au premier trimestre de la grossesse: recommandations pour la pratique clinique du Collège National des Gynécologues-Obstétriciens Français. Gynécologie Obstétrique Fertilité & Sénologie. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2468718924000813)
 - [US Preventive Services Task Force. Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive Services Task Force Recommendation Statement. JAMA. 2024.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/iron-deficiency-anemia-in-pregnant-women-screening-and-supplementation)

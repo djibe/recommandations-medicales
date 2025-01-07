@@ -76,7 +76,8 @@ Ne pas utiliser:
 
 ### Bibliographie en attente
 
-[Onco Paca-Corse. Soins palliatifs précoces et prise en charge de la douleur pour un cancer de mauvais pronostic. 2023. (PDF)](https://www.oncopacacorse.org/sites/default/files/guide-bonnes-pratiques-soins_palliatifs_precoces-juin2023.pdf)
+- [INCa](https://www.e-cancer.fr/Professionnels-de-sante/Medicaments/Prevention-suivi-et-gestion-des-effets-indesirables)
+- [Onco Paca-Corse. Soins palliatifs précoces et prise en charge de la douleur pour un cancer de mauvais pronostic. 2023. (PDF)](https://www.oncopacacorse.org/sites/default/files/guide-bonnes-pratiques-soins_palliatifs_precoces-juin2023.pdf)
 
 {{%/sources%}}
 {{% modal title="Questionnaire DN4" id="modal-score-dn4"%}}

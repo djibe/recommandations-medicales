@@ -238,8 +238,6 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
   - Privilégier {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} (ARA2 si mal toléré) + BB dose maximale
   - Trithérapie: + ICa-DHP ou thiazidique
 - [Vaccin grippe]({{< relref "grippe.md" >}}) annuel
-- Colchicine 0,5 mg/j  
-  Pourrait être considérée en cas de facteurs mal contrôlés ou de nouvel événement CV.
 - Développement d'un syndrome coronarien chronique: voir [chapitre dédié]({{< relref "syndrome-coronarien-chronique.md" >}})
 - Bilan complémentaire
   - Échodopplers des TSA, AAA et membres inférieurs
@@ -252,6 +250,9 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
 - Vérifier l'observance (seulement 66%)
 - Déclarer l'[ALD n°5]({{< relref "affection-longue-duree.md" >}})  
   Indications: toute ischémie myocardique objectivement documentée (ECG, épreuve d'effort, scintigraphie myocardique de perfusion, échographie de stress, échographie d'effort, holter ECG, coronarographie).
+
+Ne pas utiliser en post-infarctus à visée de prévention secondaire: colchicine ([SFPT](Colchicine)).
+{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du syndrome coronarien aigu" "show" %}}

@@ -219,7 +219,7 @@ Mastite (lymphangite ou galactophorite si infectieuse)
 : Les signes sont unilatéraux: inflammation (rougeur, chaleur, douleur) localisée (quadrant supéro-externe ++) ou étendue avec fréquemment des signes généraux (fièvre, syndrome pseudo-grippal).
 : Facteurs de risque de mastite: engorgement mammaire, crevasses et lésions du mamelon.
 
-Prise en charge de la mastite:
+#### Prise en charge de la mastite
 
 - Recherche d'une porte d'entrée infectieuse
 - Éviter les soutiens-gorges trop serrés
