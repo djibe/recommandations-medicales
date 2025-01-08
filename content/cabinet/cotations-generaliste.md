@@ -5,8 +5,8 @@ description = "Aide à la cotation des consultations en médecine générale: co
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2024-12-20"
-annees = "2024"
+lastmod = "2025-01-08"
+annees = "2025"
 sources = ["Assurance Maladie"]
 tags = []
 image = true
@@ -18,15 +18,16 @@ todo = "GL, VSP, CTE, FS exemple frottis, MD, jour férié, IK, routexl, MPH aus
 Liste des codes pour les actes et les consultations des adultes et des enfants en médecine générale.
 {.lead}
 
-## Les nouvelles cotations 2025
+## Les nouvelles cotations en 2025
 
-Le COE passera à 60€ le 1er juillet.
+- La fin des majorations non régulées aux heures tardives: F, MN et MM
+- Le COE passera à 60€ le 1er juillet
 
-## Les nouvelles cotations 2024
+## Les cotations de 2024 à ne pas oublier
 
-- Majoration MOP de 5€ pour les +80 ans qui ne font pas partie de la patientèle (valable en (télé)consultation ou visite)
-- La cotation RDV (30€) est à 100 % pour le rendez-vous de prévention à réaliser à 18-25, 45-50, 60-65 et 70-75 ans (1 fois par tranche d'âge)
-- Le G passe à 30€ le 22 décembre, le COE à 54 € (60€ le 1er juillet 2025)
+- Majoration MOP de 5 € pour les +80 ans qui ne font pas partie de la patientèle (valable en (télé)consultation ou visite)
+- La cotation RDV (30 €) est à 100 % pour le [rendez-vous de prévention]({{< relref "bilan-prevention.md" >}}) à réaliser à 18-25, 45-50, 60-65 et 70-75 ans (1 fois par tranche d'âge)
+- Le G passé à 30 € le 22 décembre (GS disparu; 23 € en Secteur 2), le COE à 54 € (60€ le 1er juillet 2025)
 
 ## Les outils d'aide à la cotation du généraliste
 
@@ -98,7 +99,7 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 |-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------:|
 | G + MEG                                             | Consultation avant 6 ans                                                                                                               |             35 |
 | VG + MEG + MD                                       | Visite avant 6 ans                                                                                                                     |             45 |
-| [COD]({{< relref "examens-suivi-nourrisson.md" >}}) | Examens à 13-14j, M1, M2, M3, M4, M5,<br> M6, M12, M13, M16-18, A3, A4, A5  (à 100%)                                                   |             35 |
+| [COD]({{< relref "examens-suivi-nourrisson.md" >}}) | Examens à 13-14j, M1, M2, M3, M4, M5,<br>M11, M12, M16-18 puis à 2, 3, 4 et 5 ans (à 100%)                                             |             35 |
 | COE                                                 | Examen obligatoire 8 jours, 9-10 mois<br> ou 24-25 mois (à 100%, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |             54 |
 | CSO*                                                | Suivi 3-12 ans en obésité (max 2/an, à 100%)                                                                                           |           47,5 |
 | CSE*                                                | Suivi enfant autiste (1/an)                                                                                                            |           47,5 |
@@ -149,7 +150,7 @@ Cotations NGAP disponibles en sus de la consultation ou de la visite médicale.
 {{< table title="Surcotations possibles pour des situations particulières" class="table-wrap" >}}
 | Code NGAP | Description                                                                                                                                                                       | Tarif supp (€) |
 |-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------:|
-| + MCG     | Consultation d'un patient +16 ans hors résidence habituelle avec rédaction d'un compte-rendu pour son MT                                                                          |              5 |
+| + MCG     | Consultation d'un patient +16 ans hors résidence habituelle ou soins itératifs avec rédaction d'un compte-rendu pour son MT                                                       |              5 |
 | + MOP     | Consultation d'un patient +80 ans qui ne fait pas partie de la patientèle déclarée                                                                                                |              5 |
 | + MSH**   | Sortie d'hospitalisation (chirurgie, décompensation ou diagnostic d'affection grave) dans le mois d'un patient polypathologique. MIC non applicable pour la même hospitalisation. |             23 |
 | + MIC**   | Sortie d'hospitalisation dans les 2 mois pour [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})                                                      |             23 |
@@ -157,11 +158,12 @@ Cotations NGAP disponibles en sus de la consultation ou de la visite médicale.
 | + PIV     | Consultation initiale d'information VIH                                                                                                                                           |             30 |
 | + MUT*    | RDV urgent obtenu avec un spécialiste sous 48h                                                                                                                                    |              5 |
 | + MRT*    | Examen de son patient en urgence à la demande de la régulation                                                                                                                    |             15 |
-| + SNP     | Examen dans les 48h à la demande du SAS                                                                                                                                           |             15 |
+| + SNP     | Examen d'un patient non déclaré dans les 48h à la demande du SAS                                                                                                                  |             15 |
+| + SHE     | Surcotation à MRT/SNP de 19 à 21h                                                                                                                                                 |              5 |
 | + DE      | Acte non justifié, à déterminer avec "tact et mesure" (non remboursé)                                                                                                             |          Libre |
 {{< /table >}}
 
-> \* Médecin traitant uniquement ; MIS et PIV sont anonymisés en MTX sur une feuille de soins
+> \* Médecin traitant uniquement ; MIS et PIV sont anonymisés en MTX sur une feuille de soins papier.
 
 ### Les actes importants pour le médecin généraliste {.mt-5}
 
@@ -195,8 +197,8 @@ L'extraction de cérumen (CAGD001) à 19,25€ n'a pas d'intérêt.
 
 ## Sources
 
+- [Ameli. Tarifs conventionnels des médecins généralistes et spécialistes. 08/01/2025.](https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/consultations-actes/tarifs/tarifs-conventionnels-medecins-generalistes-specialistes)
 - [Ameli. La revalorisation des consultations et des actes.](https://www.ameli.fr/medecin/textes-reference/convention-medicale-2024-2029/grands-axes-convention-detail/mesures-attractivite-exercice-liberal/revalorisation-consultations-actes)
-- [Ameli. Tarifs conventionnels des médecins généralistes en France métropolitaine . 10/01/2024.](https://www.ameli.fr/lille-douai/medecin/exercice-liberal/facturation-remuneration/consultations-actes/tarifs/tarifs-generalistes/tarifs-metropole)
 - [Ameli. Tarifs des consultations : ce qui change au 1er novembre. 30/10/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/tarifs-des-consultations-ce-qui-change-au-1er-novembre)
 - [Ameli. Convention médicale 2016 et règlement arbitral 2023.](https://www.ameli.fr/hauts-de-seine/medecin/textes-reference/convention-medicale-2016)
 - [MG France. Plaquettes tarifaires. 2023.](https://www.mgfrance.org/telechargements/guides-et-plaquettes-publics/2363-plaquettes-tarifaires)
