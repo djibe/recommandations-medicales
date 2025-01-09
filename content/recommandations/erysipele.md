@@ -244,9 +244,9 @@ graph TB
 
 {{< youtube id="j9nECcjOXNQ" title="Dermite de stase ou érysipèle ? (CRAtb Pays de la Loire / MedQual)" >}}
 
-- [HAS, SPILF. Choix et durées d'antibiothérapies : Prise en charge des dermohypodermites bactériennes non nécrosantes (DHBNN) chez l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3282443/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-dermohypodermites-bacteriennes-non-necrosantes-dhbnn-chez-l-adulte)
-- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Prise en charge des dermohypodermites bactériennes non nécrosantes (DHBNN) chez l'enfant. 2024.](https://www.has-sante.fr/jcms/p_3282445/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-dermohypodermites-bacteriennes-non-necrosantes-dhbnn-chez-l-enfant)
-- [Gillet Y et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)
+- [HAS, SPILF. Choix et durées d'antibiothérapies : Prise en charge des dermohypodermites bactériennes non nécrosantes (DHBNN) chez l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282443/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-dermohypodermites-bacteriennes-non-necrosantes-dhbnn-chez-l-adulte)
+- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Prise en charge des dermohypodermites bactériennes non nécrosantes (DHBNN) chez l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282445/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-dermohypodermites-bacteriennes-non-necrosantes-dhbnn-chez-l-enfant)
+- [Gillet Y, et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)
 - [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-155.pdf)
 - [Collège des enseignants de dermatologie de France (CEDEF). Grosse jambe rouge aiguë. Item 350. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-350-%E2%80%94-Grosse-jambe-rouge-aigue_CompressPdf.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)

@@ -9,9 +9,9 @@ synonyms = ["Pneumopathies infectieuses communautaires"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-15T17:05:04+02:00"
 publishdate = "2023-05-17"
-lastmod = "2024-12-27"
+lastmod = "2025-01-09"
 specialites = ["pneumologie"]
-annees = "2023"
+annees = "2025"
 sources = ["HAS", "SPILF", "GPIP", "Afssaps"]
 tags = ["dyspnee", "fatigue", "fievre", "geriatrie", "toux", "vaccin", "VIH"]
 english = ["Community acquired pneumonia (CAP)"]
@@ -19,7 +19,7 @@ sctid = "385093006"
 icd10 = ["J18", "J18.9", "J13"]
 image = true
 imageSrc = "Pneumonie franche lobaire aiguë du lobe moyen droit chez un patient de 35 ans avec toux fébrile. Cas de Sajoscha A. Sorrentino, Radiopaedia.org, rID: 14979"
-todo = "rankok, bilan et atb légionelle en ambu, dose FQ"
+todo = "rankok, bilan et atb légionelle en ambu | bilan jeune/encapsulé"
 flowchart = true
 +++
 
@@ -28,12 +28,14 @@ flowchart = true
 - Diagnostic de pneumonie aiguë communautaire (PAC): examen clinique pour relever les terrains à risques de mortalité et les signes de gravité
 - [Critères d'hospitalisation stricts](#critères-dhospitalisation) pour la pneumonie qui reste une infection grave: CRB65 (confusion FR ≥ 30/min, PAS < 90 ou PAD ≤ 60 mmHg, âge +65 ans), signes de gravité et facteurs de risque selon l'âge
 - La prise en charge de la pneumonie aiguë communautaire est possible en ambulatoire en l'absence de ces critères
-- La radiographie thoracique de face est systématique
+- La radiographie thoracique de face est systématique sous 24 heures
 - Bilan complémentaire en cas de germe encapsulé chez le jeune ou suspicion de bactérie atypique
-- L'antibiothérapie est urgente et dépend du tableau de pneumopathie infectieuse: amoxicilline 1g x 3/j (+ clavulanique si âgé, comorbidités ou post-grippal), macrolide si bactérie atypique intracellulaire
-- La durée du traitement de la pneumonie est de 5 jours (7 jours si adulte non rétabli à J3, 14 jours si légionelle avec DO -- *SPILF 2020*)
-- Réévaluation clinique systématique à 48-72 heures
-- Prévention de la pneumonie par arrêt du tabac et vaccinations grippe/Covid (+65 ans, immunodépression ...) et pneumocoque (voir *Prévention*)
+- L'antibiothérapie est urgente et dépend du tableau de pneumopathie infectieuse: amoxicilline 1g x 3/j (+ clavulanique si âgé, comorbidité, post-grippal, antibiothérapie récente), macrolide si bactérie atypique intracellulaire
+- La durée du traitement de la pneumonie:
+  - est de 5 jours chez l'enfant
+  - est définie lors de la consultation de contrôle chez l'adulte, globalement 5 jours (3, 5 ou 7 jours selon l'évolution clinique, 14 jours si légionelle avec DO -- *SPILF 2020*)
+- Réévaluation clinique systématique à 72 heures (48-72 h chez l'enfant)
+- Prévention de la pneumonie par: arrêt du tabac et vaccinations grippe/Covid (+65 ans, immunodépression ...), VRS et pneumocoque (voir *Prévention*)
 
 {{%/article-summary%}}
 
@@ -47,20 +49,27 @@ flowchart = true
   <div class="card-body tab-content">
   <div class="tab-pane fade show active" id="nav-pna-adulte" role="tabpanel" aria-labelledby="nav-tab-adulte">
 
-[Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) 1g x 3/j pendant 5 jours
+2 points essentiels chez l'adulte:
+
+- L'antibiothérapie a une durée variable: notée ~5 jours (3, 5 voire 7 jours selon l'évolution)
+- Traitement idem post-grippal si antibiothérapie dans le mois (sauf fosfomycine, pivmécillinam, furane) ou hospitalisation dans les 6 mois
+
+[Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) 1g x 3/j pendant ~5 jours
 
 ---
 
-Si allergie ou doute sur atypique: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j pendant 5 jours
+Si allergie ou doute sur atypique: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j pendant ~5 jours
 
 ---
 
-Bactérie atypique ou Légionelle: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62913185&typedoc=R) 500 mg x 2/j pendant 5 jours
+Bactérie atypique ou Légionelle: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62913185&typedoc=R) 500 mg x 2/j pendant ~5 jours
+
+ou [spiramycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66951450&typedoc=R) 3 MUI x 3/j pendant ~5 jours
 
 ---
 
-- Échec à 48-72h: substituer par l'autre classe (macrolide ou amoxicilline), prolonger pour total de 7 jours et réévaluer à 48-72h
-- Si 2e échec ou aggravation rapide: hospitalisation
+- Échec à 72 heures: substituer par l'autre classe (macrolide ou amoxicilline) avec nouvelle réévaluation à 72h
+- Si 2^e^ échec ou aggravation rapide: avis infectiologique ou discuter l'hospitalisation
 - [Déclaration obligatoire](https://www.formulaires.service-public.fr/gf/cerfa_12202_02.do) de la Légionelle
 
 </div>
@@ -68,42 +77,35 @@ Bactérie atypique ou Légionelle: [clarithromycine](https://base-donnees-publiq
 
 Amoxicilline 80-100 mg/kg/j en 2 prises (max 3 g/j) pendant **5 jours**
 
-Contrôle de la radiographie thoracique à 1 mois.
-
 ---
 
-Si allergie ou doute sur atypique et +6 ans et avale comprimés: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69494932&typedoc=R) 50 mg/kg/j en 2-3 prises pendant 7 jours
+Bactérie atypique ou échec à 48-72 h:
 
----
+[clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose/kg x 2/j (max 1 g/j) pendant **5 jours**
 
-Bactérie atypique:
-
-- [Clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose/kg x 2/j (max 1 g/j) pendant **5 jours**
-- [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67287098&typedoc=R) 1 dose/kg en 1 prise par jour (soit 20 mg/kg avant 25 kg, max 500 mg/j), 500 mg/j au-delà, pendant **3 jours** (uniquement si pneumocoque exclu)
-
-Si pénurie: voir *Traitement*
+Si pénurie: voir *Traitement*.
 
   </div>
   <div class="tab-pane fade" id="nav-pna-comorbide" role="tabpanel" aria-labelledby="nav-tab-comorbide">
 
 En l'absence de critères d'hospitalisation:
 
-- Amoxicilline-acide clavulanique 1g x 3/j pendant 7 jours
-- ou ceftriaxone IM 1g
-- voire lévofloxacine 0,5-1 g x 1/j
+- Amoxicilline/acide clavulanique 1g x 3/j pendant ~5 jours
+- ou ceftriaxone SC/IM 1g
+- ou céfotaxime IM 1g x 3/j
 
 ---
 
-Échec à 48-72 heures: ajout macrolide 14 jours (sauf si lévofloxacine) ou hospitalisation (CEP).
+Échec à 72 heures: avis spécialisé ou discuter l'hospitalisation.
 
 ---
 
-Pneumopathie d'inhalation de l'enfant: Amoxicilline-acide clavulanique 1 dose/kg x 3/j pendant 7 jours
+Pneumopathie d'inhalation de l'enfant: amoxicilline/acide clavulanique 1 dose/kg x 3/j pendant 7 jours
 
   </div>
   <div class="tab-pane fade" id="nav-pna-grippale" role="tabpanel" aria-labelledby="nav-tab-grippale">
 
-Amoxicilline-acide clavulanique 1g x 3/j pendant 7 jours
+Amoxicilline/acide clavulanique 1g x 3/j pendant 7 jours
 
 ---
 
@@ -115,7 +117,7 @@ Si échec à 48-72 heures: hospitalisation
 
   </div>
 
-Aide au choix de l'antibiothérapie pour pneumonie aiguë communautaire non grave. Réévaluation systématique à 48-72 heures.
+Aide au choix de l'antibiothérapie pour pneumonie aiguë communautaire non grave en 2025. Réévaluation systématique à 72 heures (48-72 h chez l'enfant).
 {.typography-body-2 .text-black-secondary .mt-3}
 
 </div>
@@ -123,10 +125,11 @@ Aide au choix de l'antibiothérapie pour pneumonie aiguë communautaire non grav
 
 {{%collapse "Définition" %}}
 
-Pneumonie communautaire
-: Infection du parenchyme pulmonaire contractée en milieu extrahospitalier ou déclenchée moins de 48 heures après l'admission.
+Pneumonie aiguë communautaire (PAC)
+: Infection du parenchyme pulmonaire contractée en milieu extra-hospitalier ou déclenchée moins de 48 heures après l'admission.
 : Germes des PAC graves: ***Streptococcus pneumoniae*** (pneumocoque, à tout âge) et ***Legionnella pneumoniae*** (légionelle). 1/4 sont également atteints de virus respiratoires (grippe et paramyxovirus).
 : Germes des PAC de l'immunocompétent: pneumocoque, grippe ainsi que ***Mycoplasma pneumoniae*** et *Chlamydophila pneumoniae* (ou *Chlamydia pneumoniae*) avec transmission inter-humaine souvent avant 40 ans.
+: Germes des PAC de l'enfant: pneumocoque avant 4 ans et au-delà, secondé par *Mycoplasma pneumoniae*.
 : 500.000 cas de pneumonies annuelles avec une gravité potentielle même sans comorbidités (première cause de décès par infection).
 
 ### Abréviations
@@ -158,6 +161,8 @@ SPILF
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
+
+Signes et symptômes de pneumonie à rechercher à l'examen.
 
 ### Interrogatoire
 
@@ -246,13 +251,14 @@ La **pneumonie post-grippale** est une ré-aggravation à J5-J7 après le début
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Radiographie thoracique de face systématique en inspiration (contrôle à 1 mois chez l'enfant).
+Radiographie thoracique de face systématique en inspiration sous 24 heures.
 {.alert .alert-info}
 
 Autres bilans ambulatoires de la pneumopathie infectieuse:
 
-- Pas d'examens biologiques en ambulatoire (*CEP*) mais proposer une **sérologie VIH**
+- Pas d'examens biologiques systématiques en ambulatoire
 - Inutiles en ville - suspicion de pneumopathie à bactérie atypique bien tolérée: PCR naso-pharyngée *Mycoplasma pneumoniae* (108€ non remboursés), *Chlamydophila pneumoniae* (147€ non remboursés) + sérologie *M. pneumoniae* (après J7)
+- L'échographie thoracique au cabinet: << est le moyen le plus simple au cabinet de ville pour faire le diagnostic >> (*HAS/SPILF 2025*)
 - Le scanner thoracique est un examen de seconde intention devant un cas ou une évolution atypique
 - Électrophorèse des protéines sériques chez le sujet jeune avec germe encapsulé (pneumocoque, *H. influenzae* - *CEP*)  
   Recherche une hypogammaglobulinémie.
@@ -260,13 +266,11 @@ Autres bilans ambulatoires de la pneumopathie infectieuse:
 {{% /collapse %}}
 {{%collapse "Critères d'hospitalisation" %}}
 
-{{%warning%}}
-
 ### Critères d'hospitalisation pour pneumonie aiguë communautaire
 
 Évaluation hospitalière urgente si ≥ 1 critère parmi:
 
-- Nourrisson < 6 mois (*SFP*)
+- Nourrisson < 6 mois (*SFP* et *HAS/SPILF*)
 - **Score CRB65**
   - Confusion
   - Polypnée ≥ 30/min
@@ -274,8 +278,9 @@ Autres bilans ambulatoires de la pneumopathie infectieuse:
   - Âge physiologique ≥ 65 ans
 - Signes de gravité
   - Troubles de vigilance
-  - PAS < 90 mmHg, FC > 120/min, température < 35°C ou ≥ 40°C
-  - {{< clinique/detresse-respiratoire >}}
+  - PAS < 90 mmHg, FC > 120/min, température < 36°C ou > 40°C
+  - FR ≥ 30/min, {{< clinique/detresse-respiratoire >}}
+  - Enfant: tachycardie, TRC > 3 secondes, marbrures, extrémités froides, hypotension artérielle, signes de sepsis, difficultés alimentaires
   - {{< clinique/hypoxemie >}}
   - {{< clinique/hypercapnie >}}
   - Cancer en cours de traitement
@@ -284,7 +289,7 @@ Autres bilans ambulatoires de la pneumopathie infectieuse:
   - Suspicion d'épanchement pleural ou d'abcédation
   - Conditions socio-économiques, défaut d'observance
   - Isolement social (personne âgée ++)
-  - Dégradation à 48-72 heures (NDLR)
+  - Dégradation à 72 heures (NDLR)
 
 Évaluation hospitalière urgente si ≥ 2 (ou ≥ 1 chez le +65 ans) **facteurs de risque de mortalité**:
 
@@ -296,15 +301,14 @@ Autres bilans ambulatoires de la pneumopathie infectieuse:
 - Hospitalisation dans l'année
 - Vie en institution
 
-> -- *Afssaps 2010*
+> -- *HAS/SPILF 2025* et *Afssaps 2010*
 
 Évaluer: tableau atypique ou incertain
-{{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Prévention de la pneumonie" %}}
 
-[Sevrage tabagique]({{< relref "arret-tabac.md" >}}) et [indications à la vaccination antigrippale]({{< relref "grippe.md" >}}) (+65 ans, grossesse, diabète ...) et anti-Covid (+65 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave: chimio, dialyse, voir *Personnes à risque*, *DGS 2023-07*).
+[Sevrage tabagique]({{< relref "arret-tabac.md" >}}) et vaccinations [antigrippale]({{< relref "grippe.md" >}}) (+65 ans, grossesse, diabète ...), Covid (+65 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave: chimio, dialyse, voir *Personnes à risque*, *DGS 2023-07*), pneumocoque (voir ci-dessous), [VRS]({{< relref "vaccination.md" >}}) (+75 ans ou 65 ans avec comorbidité).
 
 Indications à la vaccination anti-pneumococcique:
 
@@ -332,56 +336,67 @@ Indications à la vaccination anti-pneumococcique:
 {{% /collapse %}}
 {{%collapse "Traitement ambulatoire de la pneumonie aiguë communautaire" %}}
 
-En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-pneumonie): antibiothérapie urgente probabiliste **pendant 5 jours** avec réévaluation systématique à 48-72 heures (7 jours en cas de persistance de syndrome infectieux, 14 jours pour la légionelle selon *SPILF 2020*)
-{.alert .alert-warning}
+{{%warning%}}
 
-Consultation urgente en cas de dégradation avant la réévaluation clinique.
+En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-pneumonie): antibiothérapie urgente probabiliste avec réévaluation systématique à 72 heures. Durée de référence de 5 jours guidée par la clinique (arrêt à 3, 5 voire 7 jours, 14 jours pour la légionelle selon *SPILF 2020*).
 
-**NB.** La fièvre peut être prolongée (5 jours) en cas de pneumopathie infectieuse à germe atypique.
+---
+
+Critères de stabilité clinique pour l'arrêt de l'antibiotique: apyrexie, PAS ≥ 90 mmHg, FC ≤ 100 bpm, FR ≤ 24/min, SPO~2~ ≥ 90% AA
+{{%/warning%}}
+
+> Information du patient: **consultation urgente** en cas de dégradation avant la réévaluation clinique. La guérison (toux, expectoration, asthénie) peut prendre **plusieurs semaines** (adulte et enfant).
 
 ### Prise en charge ambulatoire de la pneumonie aiguë communautaire non grave
 
-Antibiothérapie selon l'orientation du tableau clinique.
+Le choix de l'antibiothérapie dépend du tableau clinique.
 
 #### Traitement de la pneumonie aiguë communautaire sans comorbidités
 
 {{%info%}}
 
-Traitement antibiotique probabiliste **pendant 5 jours** avec réévaluation systématique à 48-72 heures (adulte: 7 jours en cas de persistance de syndrome infectieux, 14 jours pour la légionelle selon *SPILF 2020*):
+Traitement antibiotique probabiliste **pendant 5 jours** avec réévaluation systématique à 72 heures (adulte: min 3 et max 7 jours selon l'évolution clinique, 14 jours pour la légionelle selon *SPILF 2020*):
 
-- [Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) 1g x 3/j  
-  Enfant: 80-100 mg/kg/j en 2 prises (max 3 g/j -- *GPIP 2023*).
-- Si allergie: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j (Pyostacine® à partir de 6 ans, double sensibilité pneumocoque + intracellulaires)  
-  Seule alternative de l'enfant: ceftriaxone 50 mg/kg/j IV ou IM pendant 5 jours
-- Si échec à 48-72 heures: substituer par l'autre classe (macrolide ou amoxicilline) et réévaluer 48-72h
+- [Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) 1g x 3/j
+- Enfant: 80-100 mg/kg/j en 2 prises (max 3 g/j) pendant 5 jours
+- Si allergie: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j (Pyostacine® à partir de 6 ans, double sensibilité pneumocoque + intracellulaires)
+  - Seule alternative de l'enfant: ceftriaxone 50 mg/kg/j (max 2 g/j) IM pendant 5 jours
+- Si échec à (enfant 48)-72 heures: substituer par l'autre classe (macrolide ou amoxicilline) et réévaluer 48-72h; discuter l'hospitalisation en cas d'aggravation dans les 72 premières heures
 - Si 2^e^ échec ou aggravation rapide: hospitalisation
+- Si antibiothérapie dans le mois ou hospitalisation dans les 6 mois: voir *PAC avec comorbidité*
 {{%/info%}}
 
 {{< card-link-external title="Antibiothérapies de la pneumonie" url="https://antibioclic.com/strategie/279/2274" subtitle="par Antibioclic" >}}
 
 En cas de **pneumonies récidivantes**, réaliser une électrophorèse des protéines et rechercher une [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (*GOLD 2024*). Au sein d'un même territoire, rechercher un **corps étranger** ou une **tumeur**.
 
-> En pédiatrie: << La normalisation complète n'est pas observée avant plusieurs semaines. >> -- *CNPU*
-
 ##### Suspicion de pneumonie à bactérie atypique
 
-==Macrolide [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62913185&typedoc=R) 500 mg x 2/j pendant 5 jours==  
-ou [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68133135&typedoc=R) 500 mg à J1 puis 250 mg/j de J2 à J5.
+> [!INFO]
+> La fièvre peut être prolongée (5 jours) en cas de pneumopathie infectieuse à germe atypique.
 
-- Si pénurie:
-  - [spiramycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66951450&typedoc=R) 3 MUI x 3/j pendant 7 jours (peu d'interactions)
-  - [roxithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65250560&typedoc=R) 150 mg matin et soir pendant 10 jours
+- ==Macrolide [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62913185&typedoc=R) 500 mg x 2/j pendant ~5 jours==
+- ou [spiramycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66951450&typedoc=R) 3 MUI x 3/j pendant ~5 jours
+- ou [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68133135&typedoc=R) 500 mg à J1 puis 250 mg/j pendant ~5 jours (éviter car impact sur les résistances)
+
+Autres antibiotiques des pneumonies atypiques:
+
+- Si pénurie: [roxithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65250560&typedoc=R) 150 mg matin et soir pendant 10 jours
 - Si allergie ou contre-indication aux macrolides:
-  - [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j pendant 7 jours
-  - [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R): 2 x 100 mg en 1 prise par jour pendant 7 jours  
+  - [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j pendant ~5 jours
+  - [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R): 2 x 100 mg en 1 prise par jour pendant ~5 jours  
     < 60 kg: 2 x 100 mg à J1 puis 100 mg/j pendant 6 jours.
-  - Dernier recours: lévofloxacine 500 mg en 1 prise par jour pendant 7 jours
+  - Dernier recours: lévofloxacine 500 mg en 1 prise par jour pendant ~5 jours
 
-###### Traitement de la pneumonie atypique de l'enfant
+###### Traitement de la pneumonie atypique de l'enfant {.mt-5}
 
-Antibiothérapie chez l'enfant (pas d'intracellulaire avant 3 ans) selon *HAS 2023* et *GPIP 2023*:
+Antibiothérapie chez l'enfant (pas d'intracellulaire avant 3 ans) selon *HAS/SPILF 2025*, *HAS 2023* et *GPIP 2023*:
 
-- ==Préférence: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose/kg x 2/j (max 1 g/j) pendant **5 jours**==
+[Clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose/kg x 2/j (max 1 g/j) pendant **5 jours**
+{.alert .alert-info}
+
+En cas de pénurie ou d'allergie:
+
 - [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67287098&typedoc=R) 1 dose/kg en 1 prise par jour (soit 20 mg/kg avant 25 kg, max 500 mg/j), 500 mg/j au-delà, pendant **3 jours** (uniquement si pneumocoque exclu)
 - Si pénurie: [roxithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68658161&typedoc=R) pendant **10 jours**
   - 6-11 kg: 25 mg matin et soir
@@ -394,41 +409,45 @@ Antibiothérapie chez l'enfant (pas d'intracellulaire avant 3 ans) selon *HAS 20
 
 #### PAC avec comorbidité, alcool ou sujet âgé ambulatoire
 
-En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-pneumonie), chez le **sujet âgé** ou en cas de **comorbidités**:
+En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-pneumonie), chez le **sujet âgé**, en cas de **comorbidité**, d'antibiothérapie dans le mois (sauf fosfomycine, pivmécillinam, furanes) ou d'hospitalisation dans les 6 mois:
 
-- ==Amoxicilline-acide clavulanique 1g== x 3/j  
-  ou ceftriaxone IM 1g x 1/j (ou FQAP lévofloxacine 0,5 - 1 g/j) pendant 7 jours
-- Si échec à 48-72 heures: ajout macrolide 14 jours (sauf lévofloxacine - *CMIT*) ou hospitalisation (*CEP*)
+- ==Amoxicilline/acide clavulanique 1g== x 3/j
+- Si allergie documentée à la pénicilline:
+  - ceftriaxone SC/IM 1g x 1/j
+  - céfotaxime IM 1g x 3/j
+- En dernier recours: FQAP lévofloxacine 500 mg x 1/j pendant 7 jours
+- Si échec à 72 heures: avis spécialisé ou discuter l'hospitalisation
 
-**Pneumonie d'inhalation de l'enfant:** amoxicilline-acide clavulanique 1 dose/kg x 3/j pendant 7 jours (*GPIP 2023*). Alternative: IV uniquement.
+**Pneumonie d'inhalation de l'enfant:** amoxicilline/acide clavulanique 1 dose/kg x 3/j pendant 7 jours (*GPIP 2023*). Alternative: IV uniquement.
 
 #### Pneumonie post-grippale
 
-- Amoxicilline-acide clavulanique 1g x 3/j pendant 7 jours
+- Amoxicilline/acide clavulanique 1g x 3/j pendant 7 jours
 - Alternative: pristinamycine 1g x 3/j pendant 7 jours (ou FQAP)
 - Si échec à 48-72 heures: hospitalisation
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la pneumonie aiguë communautaire" "show" %}}
 
-{{< mermaid title="Prise en charge de la pneumonie aiguë communautaire (PAC). Dr JB Fron d'après HAS 2023, SPILF 2020 et Afssaps" >}}
+{{< mermaid title="Prise en charge de la pneumonie aiguë communautaire (PAC). Dr JB Fron d'après HAS/SPILF 2025 et Afssaps" >}}
 graph TB
   suspicion["Suspicion de pneumonie<br> aiguë communautaire (PAC)"] --> gravité("<b>Gravité ?</b><br>—<br>- CRB65<br>- Constantes, tirage<br>- Cancer actif<br>- Pneumonie d'inhalation<br>- Épanchement pleural<br>- Socio-éco, isolement") -- Non --> risque("<b>Risque de mortalité</b><br>—<br>≥ 2 ou ≥ 1 chez le +65 ans:<br>- Comorbidités<br>- Immunodépression<br>- ATCD pneumonie<br>- Hospitalisation dans l'année<br>- Institution") -- Non --> tableau("Tableau clinique<br>Antibiothérapie puis RxT")
   style suspicion stroke:#4150f5, stroke-width:1px
     gravité -- Oui --> hospitalisation(Hospitalisation)
       risque -- Oui --> hospitalisation
-      tableau --> âgé("<b>Âgé, comorbidité</b><br>—<br>Augmentin, C3G<br>ou FQAP") -- 48-72 h --> âgé3(Réévaluation) -. Échec .-> hospitalisationAgé(Hospitalisation)
-      tableau --> pneumocoque("<b>Pneumocoque</b><br>—<br>Amoxicilline") -- 48-72 h --> pneumo2(Réévaluation) -. Échec .-> pneumo3("Substituer<br>par macrolide")
-      tableau --> douteux("<b>Doute pneumo/intracellulaire</b><br>—<br>Amoxicilline<br>ou pristinamycine") -- 48-72 h --> douteux2(Réévaluation) -. Échec .-> douteux3("Substituer<br>par lévofloxacine<br>ou pristinamycine<br>(Hospitalisation si<br>utilisés en 1re ligne)")
-      tableau --> intracellulaire("<b>Atypique</b><br>—<br>Macrolide") -- 48-72 h --> intra2(Réévaluation) -. Échec .-> intra3("Substituer<br>par amoxicilline")
+      tableau --> âgé("<b>Âgé, comorbidité</b><br>—<br>Augmentin ou C3G") -- 72h --> âgé3(Réévaluation) -. Échec .-> hospitalisationAgé(Hospitalisation)
+      tableau --> pneumocoque("<b>Pneumocoque</b><br>—<br>Amoxicilline") -- 72h --> pneumo2(Réévaluation) -. Échec .-> pneumo3("Substituer<br>par macrolide")
+      tableau --> douteux("<b>Doute pneumo/intracellulaire</b><br>—<br>Amoxicilline<br>ou pristinamycine") -- 72h --> douteux2(Réévaluation) -. Échec .-> douteux3("Substituer<br>par lévofloxacine<br>ou pristinamycine<br>(Hospitalisation si<br>utilisés en 1re ligne)")
+      tableau --> intracellulaire("<b>Atypique</b><br>—<br>Macrolide") -- 72 h --> intra2(Réévaluation) -. Échec .-> intra3("Substituer<br>par amoxicilline")
 {{< /mermaid >}}
 
-> Hospitalisation si échec de la 2e ligne de traitement.  
-**L'antibiothérapie dure 5 jours** sauf adulte symptomatique à 72 heures (7 jours) ou légionelle (14 jours).
+> Hospitalisation si échec de la 2e ligne de traitement. **L'antibiothérapie de référence est de 5 jours** (selon l'évolution: 3, 5 voire 7 jours chez l'adulte sauf légionelle (14 jours).
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, SPILF. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire de l'adulte en ambulatoire. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/p_3575597/fr/choix-et-durees-d-antibiotherapies-pneumonie-aigue-communautaire-de-l-adulte-en-ambulatoire)
+- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire chez l'enfant. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/p_3575612/fr/choix-et-durees-d-antibiotherapie-pneumonie-aigue-communautaire-chez-l-enfant)
 - {{< references/calendrier-vaccinal >}}
 - [Martin-Loeches I, et al. ERS/ESICM/ESCMID/ALAT guidelines for the management of severe community-acquired pneumonia. Eur Respir J. 2023.](https://erj.ersjournals.com/content/61/4/2200735)
 - [HAS. Réponse rapide sur la prise en charge diagnostique et thérapeutique des pneumonies atypiques à Mycoplasma pneumoniae en ambulatoire chez l'enfant et l'adulte. 22/12/2023.](https://www.has-sante.fr/jcms/p_3482996/fr/reponse-rapide-sur-la-prise-en-charge-diagnostique-et-therapeutique-des-pneumonies-atypiques-a-mycoplasma-pneumoniae-en-ambulatoire-chez-l-enfant-et-l-adulte)
@@ -445,9 +464,5 @@ graph TB
 - [Houdouin V; SFP. Pneumonies : du diagnostic au traitement. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/allergo-pneumo/pneumonies-du-diagnostic-au-traitement)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Afssaps. Antibiothérapie par voie générale dans les infections respiratoires basses de l'adulte. Mise au point. 2010. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/recos/2010-infvrb-spilf-afssaps.pdf)
-
-### Bibliographie en attente
-
-- SP2A
 
 {{%/sources%}}

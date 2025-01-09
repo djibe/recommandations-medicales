@@ -11,7 +11,7 @@ publishdate = "2021-02-09"
 lastmod = "2024-07-26"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2024"
-sources = ["HAS", "ACP", "ESCP", "SNFGE"]
+sources = ["HAS", "SPILF", "ACP", "ESCP"]
 tags = ["obesite"]
 english = ["Acute diverticulitis", "Left-sided colonic diverticulitis"]
 sctid = "427910000"
@@ -66,9 +66,6 @@ ESCP
 
 HAS
 : Haute Autorité de Santé
-
-SNFGE
-: Société Nationale Française de Gastro-Entérologie
 {.dl-inline}
 
 {{% /collapse %}}
@@ -221,7 +218,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS, SPILF. Choix et durées d'antibiothérapies : Diverticulite aiguë sigmoïdienne non compliquée. 2024.](https://www.has-sante.fr/jcms/p_3282886/fr/choix-et-durees-d-antibiotherapies-diverticulite-aigue-sigmoidienne-non-compliquee)
+- [HAS, SPILF. Choix et durées d'antibiothérapies : Diverticulite aiguë sigmoïdienne non compliquée. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282886/fr/choix-et-durees-d-antibiotherapies-diverticulite-aigue-sigmoidienne-non-compliquee)
 - {{< references/college-gastro >}}
 - [Qaseem A, et al. Diagnosis and Management of Acute Left-Sided Colonic Diverticulitis: A Clinical Guideline From the American College of Physicians. Ann Intern Med. 2022.](https://www.acpjournals.org/doi/full/10.7326/M21-2710)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)

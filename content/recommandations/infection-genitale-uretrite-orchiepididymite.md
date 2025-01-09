@@ -161,7 +161,7 @@ Traitement par germe selon *EAU 2024*:
     OU azithromycine 1 - 1,5 g dose unique
   - Voire lévofloxacine 500 mg x 1/j ou ofloxacine 200 mg x 2/j pendant 7 jours
 - Gonocoque
-  - Ceftriaxone 1g IM + azithromycine 1g dose unique
+  - Ceftriaxone 1g IM + azithromycine 1g doses uniques
 - *Mycoplasma genitalium*
   - À rechercher en cas de persistance après traitement d'une urétrite non gonococcique (UNG)
   - Azithromycine 500 mg J1 puis 250 mg pendant 4 jours

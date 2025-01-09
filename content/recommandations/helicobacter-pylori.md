@@ -507,8 +507,8 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS, SPILF. Choix et durées d'antibiothérapies : Traitement probabiliste de l'infection par Helicobacter pylori chez l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3282793/fr/choix-et-durees-d-antibiotherapies-traitement-probabiliste-de-l-infection-par-helicobacter-pylori-chez-l-adulte)
-- [HAS, SPILF. Choix et durées d'antibiothérapies : Traitement guidé de l'infection par Helicobacter pylori chez l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3282789/fr/choix-et-durees-d-antibiotherapies-traitement-guide-de-l-infection-par-helicobacter-pylori-chez-l-adulte)
+- [HAS, SPILF. Choix et durées d'antibiothérapies : Traitement probabiliste de l'infection par Helicobacter pylori chez l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282793/fr/choix-et-durees-d-antibiotherapies-traitement-probabiliste-de-l-infection-par-helicobacter-pylori-chez-l-adulte)
+- [HAS, SPILF. Choix et durées d'antibiothérapies : Traitement guidé de l'infection par Helicobacter pylori chez l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282789/fr/choix-et-durees-d-antibiotherapies-traitement-guide-de-l-infection-par-helicobacter-pylori-chez-l-adulte)
 - [SNFGE. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/cancer-lestomac)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [Bénéjat L et al. Épidémiologie de l'infection à Helicobacter pylori en France en 2020 : données de surveillance du CNR Campylobacters et Hélicobacters. Bull Epidémiol Hebd. 2021.](http://beh.santepubliquefrance.fr/beh/2021/15/2021_15_2.html)

@@ -285,7 +285,7 @@ Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune inf
 {{< youtube id="yhxuKysI33o" title="Vidéo#5 : La coqueluche (CRAtb Pays de la Loire / MedQual)" >}}
 
 - [DGS-Urgent 2024_11. 13/08/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
-- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : coqueluche chez le nourrisson, l'enfant et l'adulte. 2024.](https://www.has-sante.fr/jcms/p_3525542/fr/choix-et-durees-d-antibiotherapies-coqueluche-chez-le-nourrisson-l-enfant-et-l-adulte)
+- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : coqueluche chez le nourrisson, l'enfant et l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3525542/fr/choix-et-durees-d-antibiotherapies-coqueluche-chez-le-nourrisson-l-enfant-et-l-adulte)
 - [Haut Conseil de la Santé Publique. Prévention de la transmission de la coqueluche aux personnes à risque de forme grave. 30/07/2024.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1386)
 - [HAS. Stratégie de vaccination contre la coqueluche dans le contexte épidémique de 2024. Rappel vaccinal des professionnels au contact des personnes à risque de forme grave. 2024.](https://www.has-sante.fr/jcms/p_3531825/fr/recrudescence-de-la-coqueluche-la-has-renforce-les-recommandations-vaccinales-pour-proteger-les-nouveau-nes-et-les-nourrissons)
 - [Infovac France. Bulletin N°7 - FAQ Coqueluche. Juin 2024.](https://www.infovac.fr/actualites/bulletin-n-7-faq-coqueluche-juin-2024)

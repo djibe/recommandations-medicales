@@ -27,7 +27,7 @@ flowchart = true
 
 - L'asplénie (et l'hyposplénie) expose à des infections sévères et parfois foudroyantes (risque à vie mais maximal les 2 premières années), surtout par le pneumocoque
 - Prise en charge de l'asplénique: antibioprophylaxie par pénicilline V Oracilline® 1 MUI 1 cp x 2/j pendant au moins 2 ans (5 ans chez l'enfant) ou à vie en cas de risque élevé (+65 ans, antécédent d'infection sévère ...)
-- Ceftriaxone g IM immédiat et consultation urgente en cas de fièvre ou syndrome infectieux
+- Ceftriaxone 1g IM immédiat et consultation urgente en cas de fièvre ou syndrome infectieux
 - 6 vaccinations recommandées contre l'immunodépression: {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}} et *Haemophilus*, méningocoques B et ACWY, grippe et Covid 19
 - Les vaccins doivent être injectés dans les 2 semaines avant (chirurgie programmée) ou après la splénectomie
 - L'asplénie expose à une sensibilité majeure au [paludisme]({{< relref "paludisme.md" >}})

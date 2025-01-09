@@ -180,7 +180,7 @@ En cas d'échec de la première ligne **chez l'enfant** (*GPIP 2023*):
 graph TB
 OMAP["Otite moyenne aiguë<br>purulente (OMAP)"] --> 3mois("<b>&lt; 3 mois</b><br>ou suspicion de<br>complication") --> hôpital("Avis hospitalier<br>urgent")
 style OMAP stroke:#4150f5, stroke-width:1px
-  OMAP --> 2ans("<b>3-23 mois</b>") --> antibiothérapie("<b>Antibiothérapie 10 jours:</b><br>- Amoxicilline 80 mg/kg/j<br>en 2 prises<br>- Sd otite-conjonctivite:<br>amox-clavulanique 1,5 dose-kg x 2/j<br>- Allergie: céfpodoxime 8 mg/kg/j<br>en 2 prises") -. Échec .-> échec("<b>Après échec de 1re ligne:</b><br>- Si amoxicilline: amox-clavulanique<br>80/mg/kg/j 10j<br>voire céfpodoxime 8 mg/kg/j<br>- Si céfpodoxime: amox 150 mg/kg 10j<br>- Si amox-clavulanique: ceftriaxone 50 mg/kg/j 3j")
+  OMAP --> 2ans("<b>3-23 mois</b>") --> antibiothérapie("<b>Antibiothérapie 10 jours:</b><br>- Amoxicilline 80 mg/kg/j<br>en 2 prises<br>- Sd otite-conjonctivite:<br>amox-clavulanique 1,5 dose-kg x 2/j<br>- Allergie: céfpodoxime 8 mg/kg/j<br>en 2 prises") -. Échec .-> échec("<b>Après échec de 1re ligne:</b><br>- Si amoxicilline: amox-clavulanique<br>80/mg/kg/j 10j<br>voire céfpodoxime 8 mg/kg/j<br>- Si céfpodoxime: amox 150 mg/kg 10j<br>- Si amox/clavulanique: ceftriaxone 50 mg/kg/j 3j")
   OMAP --> adulte("<b>≥ 2 ans, adulte</b><br>avec symptômes<br>peu intenses") --> abstention(Abstention) -. "Persistance<br> après 48h" .-> réévaluation("Réévaluation") -.-> atb
   adulte -- "Otorrhée,<br>mauvaise tolérance" --> atb(Antibiothérapie 5j:<br>amoxicilline<br>Enfant: 10j si otorrhée) -. "Échec 72h<br>enfant" .-> échec
     atb -. "Échec 72h<br>adulte" .-> spécialiste(Avis spécialisé)
