@@ -8,10 +8,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-06T09:05:23+01:00"
 publishdate = "2024-12-26"
-lastmod = "2024-12-26"
+lastmod = "2025-01-10"
 specialites = ["gynecologie-obstetrique"]
-annees = "2018"
-sources = ["CNGOF", "SPILF", "SFD"]
+annees = "2024"
+sources = ["HAS", "SPILF", "CNGOF"]
 tags = ["douleur pelvienne", "infertilite", "IST"]
 english = ["Upper genital tract infections"]
 sctid = "442506007"
@@ -19,6 +19,7 @@ icd10 = ["N71", "O85", "H68", "N70", "A54.2"]
 image = true
 imageSrc = "Scanner avec collection hétérogène et bulles gazeuses intra-utérines après l'accouchement d'une femme de 40 ans signant une endométrite du post-partum. Cas de Mohamed Saber, Radiopaedia.org, rID: 87235"
 todo = "flow, Mesures associées aux IST"
+modele = true
 +++
 
 {{%article-summary%}}
@@ -39,7 +40,7 @@ Chapitres liés: [IST](/tags/ist/), [infections à Chlamydia trachomatis]({{< re
 {{%collapse "Définitions" %}}
 
 Infection génitale haute (IGH) non compliquée
-: Le terme comprend l'endométrite et la salpingite symptomatiques (la majorité sont asymptomatiques). Elle est dite **compliquée** en cas d'abcès tubo-ovarien (ATO) et de pelvipéritonite d'origine génitale. Elle atteint les femmes en âge de procréer.
+: Le terme comprend l'endométrite et la salpingite symptomatiques (la majorité sont asymptomatiques). Elle est dite **compliquée** en cas d'abcès tubo-ovarien (ATO), de pelvipéritonite ou plus rarement de péri-hépatite ou sepsis. Elle atteint les femmes en âge de procréer.
 : Elle est secondaire à à l'ascension de germes du vagin à travers le col de l'utérus.
 : Les récidives sont fréquentes (15 à 21%, 1/3 par réinfection) augmentant le risque d'[infertilité]({{< relref "infertilite-couple.md" >}}) et de douleurs pelviennes chroniques.
 
@@ -113,7 +114,7 @@ Les signes associés (fièvre, leucorrhées, métrorragie) renforcent le diagnos
 
 Examen clinique pelvien recommandé pour le diagnostic clinique: douleur annexielle provoquée ou **douleur à la mobilisation utérine**.
 
-**Trois prélèvements** de l'endocol ou vaginaux à défaut (pose de spéculum impossible) avec culture et PCR gonocoque/Chlamydia et mycoplasme.
+**Trois prélèvements** de l'endocol (ou vaginaux à défaut si pose de spéculum impossible) pour examen direct, culture-antibiogramme et PCR gonocoque/Chlamydia et mycoplasme.
 
 Bandelette urinaire pour éliminer une pyélonéphrite.
 
@@ -130,7 +131,7 @@ Bandelette urinaire pour éliminer une pyélonéphrite.
 - Bandelette urinaire
 - Si {{< modal-btn modal-risque-ist >}}facteur de risque d'IST{{< /modal-btn >}}: sérologies VIH, VHB, VHC, syphilis
 - Prélèvements microbiologiques (voir *Clinique*)
-- Échographie pelvienne endovaginale  
+- **Échographie pelvienne** endovaginale  
   Elle ne doit pas retarder l'antibiothérapie.
 
 Un syndrome inflammatoire élevé doit faire rechercher une **forme compliquée** ou une **appendicite aiguë** aux *Urgences*. **Scanner** abdomino-pelvien injecté en cas de doute diagnostique.
@@ -146,34 +147,31 @@ En cas d'[IST](/tags/ist/) découverte au décours, contrôle PCR sur auto-prél
 Prise en charge semi-urgente des infections génitales hautes par **antibiothérapie** dès que le diagnostic est probable, après l'examen gynécologique et les prélèvements microbiologiques.
 
 {{%info%}}
-Traitement ambulatoire de l'IGH simple **pendant 10 jours** (*SPILF 2020* et *CNGOF/SPILF 2018*):
+Traitement ambulatoire de l'IGH simple **pendant 10 jours** (*HAS/SPILF 2024*):
 
 - Ceftriaxone 1g IM dose unique
 - \+ doxycycline 100 mg x 2/j
 - \+ métronidazole 500 mg x 2/j
 - Réévaluation systématique à 3-5 jours  
-  Évolution (~15% d'échecs), tolérance, observance et résultats microbiologiques et des IST (± bilan IST).
+  Évolution (~15 % d'échecs), tolérance, observance et résultats microbiologiques et des IST (± bilan IST).
 - Si {{< modal-btn modal-risque-ist >}}facteur de risque d'IST{{< /modal-btn >}}: préservatif
 {{%/info%}}
 
 Cas particuliers:
 
+- Si allergie documentée aux céphalosporines sans {{< modal-btn modal-risque-ist >}}facteur de risque d'IST{{< /modal-btn >}}, 10 jours de:
+  - ofloxacine 200 mg x 2/j + métronidazole identique
+  - ou lévofloxacine 500 mg x 1/j métronidazole identique
+  - si risque d'IST ou *Mycoplasma genitalium*: avis infectiologique
 - Si **stérilet**/DIU: retrait non systématique (discuté et mise en culture si forme compliquée ou échec à J3-J5)
 - Si VIH: traitement identique
 - Si **IST**: préservatif durant le traitement
 
 ### Après la guérison
 
-- Information sur le **risque de grossesse extra-utérine **(GEU) et les signes évocateurs
+- Information sur le **risque de grossesse extra-utérine** (GEU), de douleurs pelviennes chroniques et les signes évocateurs
 - Un DIU (stérilet) peut être posé
-- Si [IST](/tags/ist/): contrôle PCR gonocoque/Chlamydia ± mycoplasme à 3-6 mois et du partenaire, santé sexuelle, suivi régulier
-
-#### Schémas d'antibiothérapies ambulatoires alternatives
-
-Schémas en cas d'allergies ou d'intolérances sévères à l'antibiothérapie de 1^re^ intention. Le traitement dure **toujours 10 jours**:
-
-- Ofloxacine 200 mg x 2/j (ou lévofloxacine 500 mg/j hors AMM) + métronidazole 500 mg x 2/j ± ceftriaxone 1g IM dose unique
-- Moxifloxacine 400 mg/j (**ECG**, risque toxidermie) ± ceftriaxone 1g IM dose unique
+- Si [IST](/tags/ist/): contrôle PCR gonocoque/Chlamydia ± mycoplasme à 3-6 mois et du partenaire, santé sexuelle, vaccination VHB, suivi régulier
 
 {{% /collapse %}}
 {{%collapse "Endométrite du post-partum" %}}
@@ -201,6 +199,7 @@ Prise en charge de l'endométrite du post-partum en l'absence de signes de gravi
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, SPILF. Choix et durées d'antibiothérapie dans les infections génitales hautes non compliquées. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3575605/fr/choix-et-durees-d-antibiotherapie-dans-les-infections-genitales-hautes-non-compliquees)
 - [HAS, ANRS, CNS. Prise en charge du patient atteint d'infection à trichomonas vaginalis. 2024.](https://www.has-sante.fr/jcms/p_3562494/fr/prise-en-charge-du-patient-atteint-d-infection-a-trichomonas-vaginalis)
 - [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-162.pdf)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Infections sexuellement transmissibles (IST). Gynécologie obstétrique Réussir son DFASM. 2021.
@@ -211,13 +210,33 @@ Prise en charge de l'endométrite du post-partum en l'absence de signes de gravi
 - [Vexiau-Robert D, et al; SFD. Leucorrhées. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/leucorrhees-c145eb55e49c2c5c6b7aa0e28b8a77ca.pdf)
 - [Janier M, et al. Gonococcie. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/gonococcie-8e5167e17549b4912a1f1a4b3011eda7.pdf)
 
-### Bibliographie en attente
-
-- EAU
-
 {{%/sources%}}
 {{% modal title="Facteurs de risque d'infection sexuellement transmissible" id="modal-risque-ist"%}}
 
 {{< clinique/fdr-ist >}}
 
 {{% /modal %}}
+{{% modele %}}
+
+Prise en charge d'une IGH simple.
+
+### Bilan d'une endométrite / salpingite
+
+- NFS, CRP
+- ß-hCG
+- Bandelette urinaire
+- Si facteur de risque d'IST: sérologies VIH, VHB, VHC, syphilis
+- Prélèvements de l'endocol (ou prélèvement vaginal à défaut): examen direct, antibiogramme et PCR gonocoque/Chlamydia/Mycoplasme
+- **Échographie pelvienne** endovaginale
+
+---
+
+### Antibiothérapie urgente
+
+- Ceftriaxone 1g IM dose unique
+- \+ doxycycline 100 mg x 2/j pendant 10 jours
+- \+ métronidazole 500 mg x 2/j pendant 10 jours
+
+Réévaluation systématique à J3 ou J5.
+
+{{% /modele %}}

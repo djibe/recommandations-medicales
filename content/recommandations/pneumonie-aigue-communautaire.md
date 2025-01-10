@@ -9,9 +9,9 @@ synonyms = ["Pneumopathies infectieuses communautaires"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-15T17:05:04+02:00"
 publishdate = "2023-05-17"
-lastmod = "2025-01-09"
+lastmod = "2025-01-10"
 specialites = ["pneumologie"]
-annees = "2025"
+annees = "2024"
 sources = ["HAS", "SPILF", "GPIP", "Afssaps"]
 tags = ["dyspnee", "fatigue", "fievre", "geriatrie", "toux", "vaccin", "VIH"]
 english = ["Community acquired pneumonia (CAP)"]
@@ -117,7 +117,7 @@ Si échec à 48-72 heures: hospitalisation
 
   </div>
 
-Aide au choix de l'antibiothérapie pour pneumonie aiguë communautaire non grave en 2025. Réévaluation systématique à 72 heures (48-72 h chez l'enfant).
+Aide au choix de l'antibiothérapie pour pneumonie aiguë communautaire non grave en 2024. Réévaluation systématique à 72 heures (48-72 h chez l'enfant).
 {.typography-body-2 .text-black-secondary .mt-3}
 
 </div>
@@ -258,7 +258,7 @@ Autres bilans ambulatoires de la pneumopathie infectieuse:
 
 - Pas d'examens biologiques systématiques en ambulatoire
 - Inutiles en ville - suspicion de pneumopathie à bactérie atypique bien tolérée: PCR naso-pharyngée *Mycoplasma pneumoniae* (108€ non remboursés), *Chlamydophila pneumoniae* (147€ non remboursés) + sérologie *M. pneumoniae* (après J7)
-- L'échographie thoracique au cabinet: << est le moyen le plus simple au cabinet de ville pour faire le diagnostic >> (*HAS/SPILF 2025*)
+- L'échographie thoracique au cabinet: << est le moyen le plus simple au cabinet de ville pour faire le diagnostic >> (*HAS/SPILF 2024*)
 - Le scanner thoracique est un examen de seconde intention devant un cas ou une évolution atypique
 - Électrophorèse des protéines sériques chez le sujet jeune avec germe encapsulé (pneumocoque, *H. influenzae* - *CEP*)  
   Recherche une hypogammaglobulinémie.
@@ -301,7 +301,7 @@ Autres bilans ambulatoires de la pneumopathie infectieuse:
 - Hospitalisation dans l'année
 - Vie en institution
 
-> -- *HAS/SPILF 2025* et *Afssaps 2010*
+> -- *HAS/SPILF 2024* et *Afssaps 2010*
 
 Évaluer: tableau atypique ou incertain
 
@@ -390,7 +390,7 @@ Autres antibiotiques des pneumonies atypiques:
 
 ###### Traitement de la pneumonie atypique de l'enfant {.mt-5}
 
-Antibiothérapie chez l'enfant (pas d'intracellulaire avant 3 ans) selon *HAS/SPILF 2025*, *HAS 2023* et *GPIP 2023*:
+Antibiothérapie chez l'enfant (pas d'intracellulaire avant 3 ans) selon *HAS/SPILF 2024*, *HAS 2023* et *GPIP 2023*:
 
 [Clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose/kg x 2/j (max 1 g/j) pendant **5 jours**
 {.alert .alert-info}
@@ -429,7 +429,7 @@ En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-p
 {{% /collapse %}}
 {{%collapse "Prise en charge de la pneumonie aiguë communautaire" "show" %}}
 
-{{< mermaid title="Prise en charge de la pneumonie aiguë communautaire (PAC). Dr JB Fron d'après HAS/SPILF 2025 et Afssaps" >}}
+{{< mermaid title="Prise en charge de la pneumonie aiguë communautaire (PAC). Dr JB Fron d'après HAS/SPILF 2024 et Afssaps" >}}
 graph TB
   suspicion["Suspicion de pneumonie<br> aiguë communautaire (PAC)"] --> gravité("<b>Gravité ?</b><br>—<br>- CRB65<br>- Constantes, tirage<br>- Cancer actif<br>- Pneumonie d'inhalation<br>- Épanchement pleural<br>- Socio-éco, isolement") -- Non --> risque("<b>Risque de mortalité</b><br>—<br>≥ 2 ou ≥ 1 chez le +65 ans:<br>- Comorbidités<br>- Immunodépression<br>- ATCD pneumonie<br>- Hospitalisation dans l'année<br>- Institution") -- Non --> tableau("Tableau clinique<br>Antibiothérapie puis RxT")
   style suspicion stroke:#4150f5, stroke-width:1px
@@ -446,8 +446,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS, SPILF. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire de l'adulte en ambulatoire. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/p_3575597/fr/choix-et-durees-d-antibiotherapies-pneumonie-aigue-communautaire-de-l-adulte-en-ambulatoire)
-- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire chez l'enfant. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/p_3575612/fr/choix-et-durees-d-antibiotherapie-pneumonie-aigue-communautaire-chez-l-enfant)
+- [HAS, SPILF. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire de l'adulte en ambulatoire. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3575597/fr/choix-et-durees-d-antibiotherapies-pneumonie-aigue-communautaire-de-l-adulte-en-ambulatoire)
+- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire chez l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3575612/fr/choix-et-durees-d-antibiotherapie-pneumonie-aigue-communautaire-chez-l-enfant)
 - {{< references/calendrier-vaccinal >}}
 - [Martin-Loeches I, et al. ERS/ESICM/ESCMID/ALAT guidelines for the management of severe community-acquired pneumonia. Eur Respir J. 2023.](https://erj.ersjournals.com/content/61/4/2200735)
 - [HAS. Réponse rapide sur la prise en charge diagnostique et thérapeutique des pneumonies atypiques à Mycoplasma pneumoniae en ambulatoire chez l'enfant et l'adulte. 22/12/2023.](https://www.has-sante.fr/jcms/p_3482996/fr/reponse-rapide-sur-la-prise-en-charge-diagnostique-et-therapeutique-des-pneumonies-atypiques-a-mycoplasma-pneumoniae-en-ambulatoire-chez-l-enfant-et-l-adulte)

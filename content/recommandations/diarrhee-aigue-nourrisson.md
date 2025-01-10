@@ -101,7 +101,7 @@ Signes et symptômes à rechercher chez l'enfant et le nourrisson présentant de
   - Diarrhées: fréquence, consistance, odeur, couleur
   - Soif, diurèse
   - **Rectorragies**, **glaires**
-  - Symptômes associés: **fièvre**, troubles digestifs (fréquence des **vomissements**), douleurs
+  - Symptômes associés: **fièvre**, troubles digestifs (fréquence des **vomissements**), douleurs abdominales
 - Autres symptômes: otalgie, signes urinaires, prurit anal régulier
 
 Signes en faveur d'une infection bactérienne: fièvre élevée (> 40°C), rectorragie, douleurs abdominales.

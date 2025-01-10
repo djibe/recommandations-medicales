@@ -235,7 +235,7 @@ Indications à l'endoscopie en première intention:
 
 - **Patient symptomatique**
   - Syndrome ulcéreux
-  - [Dyspepsie]({{< relref "dyspepsie.md" >}}) chez un patient > 40-45 ans
+  - [Dyspepsie]({{< relref "dyspepsie.md" >}}) chez un patient de plus de 40-45 ans
   - Signe d'alarme  
     Dysphagie, amaigrissement, anémie.
   - Anémie ferriprive ou carence en vitamine B12 sans autre cause
