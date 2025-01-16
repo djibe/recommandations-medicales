@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-12-04T15:39:22+01:00"
 publishdate = "2023-12-07"
-lastmod = "2023-12-07"
+lastmod = "2025-01-15"
 specialites = ["hepato-gastro-enterologie", "therapeutique"]
 annees = "2017"
 sources = ["SNFGE", "CREGG"]
@@ -16,7 +16,7 @@ english = ["Low residue diet"]
 sctid = "160675002"
 icd10 = []
 image = true
-imageSrc = "Le régime sans résidus. brgfx / Freepik"
+imageSrc = "Le régime sans résidu. brgfx / Freepik"
 flowchart = true
 +++
 
@@ -25,6 +25,7 @@ flowchart = true
 - Le régime sans résidu évince les fibres végétales et les résidus de viande
 - Ce régime est utilisé avant une coloscopie, au cours d'une maladie inflammatoire intestinale ou en post-opératoire
 - Pour une coloscopie, le régime sans résidus est à démarrer 3 jours avant l'examen (la veille selon *ESGE 2019*)
+- Aliments proscrits lors du régime sans résidu: viandes fumées grasses, charcuterie, poissons fumés ou séchés, fruits et légumes, pain complet, fromages fermentés ... (voir *Aliments interdits*)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -52,7 +53,7 @@ SNFGE
 
 <div id="divPrint">
 
-### Aliments adaptés au régime sans résidus
+### Aliments adaptés au régime sans résidu
 
 - Matières grasses  
   Beurre, margarine et huiles crus.
@@ -93,7 +94,7 @@ SNFGE
 - Quinoa
 - Confitures
 - Lait et laitages: interdits quand il existe une atteinte de la muqueuse colique  
-  Le lait peut avoir un effet bénéfique de chasse colique dans le cadre d'une préparation à la coloscopie
+  Le lait peut avoir un effet bénéfique de chasse colique dans le cadre d'une préparation à la coloscopie.
 - Pain complet ou frais, céréales, muesli ...
 - Fromages fermentés  
   Camembert, brie, persillés (roquefort, bleu ...).

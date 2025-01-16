@@ -158,8 +158,6 @@ Toujours disposer de naloxone intra-veineuse ([Narcan®](https://base-donnees-pu
 {{% /collapse %}}
 {{%collapse "Autres méthodes antalgiques" %}}
 
-### Autres méthodes analgésiques
-
 Autres méthodes antalgiques pouvant être associées au traitement médicamenteux:
 
 - Nourrisson: tenir dans les bras, succion (sein, tétine)
@@ -236,9 +234,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Pessano S et al. Ibuprofen for acute postoperative pain in children. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015432.pub2/full/fr)
+- [Pessano S, et al. Ibuprofen for acute postoperative pain in children. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015432.pub2/full/fr)
 - [ANSM. Anti-inflammatoires non stéroïdiens (AINS) et complications infectieuses graves. 28/04/2023.](https://ansm.sante.fr/actualites/anti-inflammatoires-non-steroidiens-ains-et-complications-infectieuses-graves)
-- [Pillai Riddell RR et al. Non-pharmacological management of infant and young child procedural pain. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006275.pub4/full)
+- [Pillai Riddell RR, et al. Non-pharmacological management of infant and young child procedural pain. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006275.pub4/full)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Prise en charge de la douleur. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/enfant-vulnerable-genetique/prise-charge-douleur)
 - **[Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)**
 - [Comité de lutte contre la douleur Hôpitaux de Toulouse. Médicaments antalgiques en pédiatrie. 01/09/2017. (PDF)](https://www.chu-toulouse.fr/IMG/pdf/09_antalgiques_tableau_pediatrie_v6f.pdf)

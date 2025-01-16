@@ -291,7 +291,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
 - Mesures associées
   - Éducation thérapeutique
   - Évaluation diététique
-  - Vaccinations grippe, Covid-19, {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}}, VRS (+65 ans)
+  - Vaccinations grippe, Covid-19, {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}}, VRS (+65 ans, NR)
   - Si Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}})
   - Diagnostic rapide des infections intercurrentes
   - Surveillance des cardiotoxiques
@@ -529,7 +529,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - Activité sexuelle
   - Ne pas craindre les rapports sexuels et discuter des problèmes avec les professionnels de santé
   - Comprendre les problèmes sexuels spécifiques et développer des stratégies permettant de les surmonter
-- Vaccinations grippe, Covid 19, pneumocoque, VRS
+- Vaccinations grippe, Covid 19, pneumocoque, VRS (NR)
 - Si Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}})
 - Troubles du sommeil et de la respiration
   - Correction des FRCV, obésité, alcool

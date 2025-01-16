@@ -199,7 +199,7 @@ Imagerie systématique par IRM cérébrale pour le bilan de démence.
 Ne pas proposer: mélatonine, acupuncture (*NICE*), Ginkgo biloba (*Prescrire*), vitamine E, plantes.
 {.alert .alert-warning}
 
-> Concernant les anciens traitements médicamenteux (donépézil, galantamine, rivastigmine, mémantine ...): << la HAS a considéré que ces médicaments n'avaient plus de place dans la stratégie thérapeutique du traitement symptomatique de la maladie d'Alzheimer. >> -- *HAS 2019* (le *Lancet 2024* est en désaccord.)
+> Concernant les anciens traitements médicamenteux (donépézil, galantamine, rivastigmine, mémantine ...): << la HAS a considéré que ces médicaments n'avaient plus de place dans la stratégie thérapeutique du traitement symptomatique de la maladie d'Alzheimer. >> -- *HAS 2019* (le *Lancet 2024* est en désaccord, comme *Cochrane 2024* pour la galantamine.)
 
 {{% /collapse %}}
 {{%collapse "Suivi de la maladie d'Alzheimer" %}}
@@ -237,6 +237,7 @@ graph TB
 
 {{< youtube id="UFkHk0wRr_I" title="La minute RECO HAS | Maladies neuroévolutives : accompagner à domicile" >}}
 
+- [Lim AW, et al. Galantamine for dementia due to Alzheimer's disease and mild cognitive impairment. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001747.pub4/full/fr)
 - [Centre Belge d'Information Pharmacothérapeutique (CBIP). Folia. 2024.](https://www.cbip.be/fr/articles/4440?folia=4434)
 - [Livingston G, et al. Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. Lancet. 2024.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01296-0/abstract)
 - [Silvey S, et al. A Possible Reversible Cause of Cognitive Impairment: Undiagnosed Cirrhosis and Potential Hepatic Encephalopathy in Patients with Dementia. Am J Med. 2024.](https://www.amjmed.com/article/S0002-9343(24)00398-X/abstract)

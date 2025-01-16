@@ -125,7 +125,7 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 </div>
 <div aria-labelledby="tab-70" class="tab-pane fade" id="div-70" role="tabpanel">
 
-- Vaccins: grippe, Covid et VRS annuels, ± rattrapage dTcaPolio et zona
+- Vaccins: grippe, Covid et VRS (NR) annuels, ± rattrapage dTcaPolio et zona
 - {{< modal-btn modal-mna >}}Dépister la dénutrition{{< /modal-btn >}}
 - [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}}): [grille d'Amsler](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/grille_damsler.pdf)
 - Problèmes de mémoire, orientation

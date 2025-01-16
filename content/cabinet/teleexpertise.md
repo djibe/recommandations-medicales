@@ -6,9 +6,9 @@ description = "Demander une téléexpertise médicale pour un patient. Comment f
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T09:25:00+02:00"
 publishdate = "2022-08-31"
-lastmod = "2023-11-20"
+lastmod = "2025-01-15"
 specialites = []
-annees = "2023"
+annees = "2025"
 sources = []
 tags = []
 image = true
@@ -19,10 +19,10 @@ todo = "https://medicam.mipih.fr"
 La téléexpertise (TLE) permet de demander un avis médical spécialisé de façon différée: ni le patient ni l'expert ne doivent être présents, elle est dite asynchrone.
 {.lead}
 
-Elle vous permet ainsi de demander une conduite à tenir pour une **question simple** (ou une photo) sans urgence.
+La téléexpertise vous permet ainsi de demander une conduite à tenir pour une **question simple** (ou des photos) sans urgence.
 {.lead}
 
-Les exemples de demandes de téléexpertise peuvent être variés: avis sur l'urgence d'une lésion dermatologique, ECG de dépistage, interrogation sur une anomalie biologique, adaptation d'un traitement ou tout autre motif ou question pertinente.  
+Les exemples de demandes de téléexpertise peuvent être variés: avis sur le diagnostic ou l'urgence d'une lésion dermatologique, ECG de dépistage, interrogation sur une anomalie biologique, adaptation d'un traitement ou tout autre motif ou question pertinente.  
 La téléexpertise permet ainsi d'offrir à chaque patient la conduite à tenir adaptée sans forcément recourir à une consultation spécialisée.
 
 La téléexpertise est remboursée à 100% pour tous les patients depuis le 1^er^ avril 2022, dans la limite de 4 demandes par an par patient. Vous êtes rémunérés **10€** pour la demande (20€ pour l'expert), pris en charge à 100% par l'Assurance Maladie pour tous les patients.
@@ -33,8 +33,9 @@ Liste des sites permettant de demander gratuitement une téléexpertise médical
 
 Vous devez d'abord créer un compte sur une plateforme de téléexpertise afin que l'expert connaisse vos coordonnées (qu'il précisera sur sa feuille de soins électronique).
 
-- [Omnidoc](https://omnidoc.fr/medecins-generalistes)
+- [Omnidoc](https://omnidoc.fr/medecins-generalistes/)
 - [Direct AP-HP](https://direct.aphp.fr/) (TLE, avis téléphonique, staff) mais ne gère pas les remboursements
+- [Medicam](https://cerbere.mipih.fr/auth/realms/medicam/login-actions/registration?client_id=medicam)
 - Payants: Avis Doc (dermato), [CrossDoc](https://crossdoc.fr) (gastro-entérologie et nutrition pédiatrique), Medaviz
 {.list-group}
 
@@ -65,8 +66,10 @@ Le médecin demandeur est dit *requérant* et le médecin expert est dit *requis
 4. Validation de la demande
 5. Attente de l'expertise
 6. Récupération du compte-rendu de téléexpertise et mise du rapport dans le dossier du patient et son DMP
-7. Feuille de soins *Sesam sans vitale* pour le patient  
-  Cotation RQD (requérant, 10€ sans autre acte ou majoration) en **AMO 100%**.
+7. Feuille de soins *Sesam sans vitale* pour le patient
+    - Cotation RQD (requérant, 10€ sans autre acte ou majoration) en **AMO 100%**
+    - *Exclusion du parcours de soins*
+    - Passer en mode avancé d'édition pour saisir le prescripteur: renseigner le numéro Ameli de l'expert ayant effectué la téléexpertise
 8. Confirmer la création de la FSE pour que l'expert (le requis) puisse faire la sienne avec les infos patient et vos coordonnées
 
 {{% /collapse %}}
@@ -76,7 +79,7 @@ La facturation d'une téléexpertise s'effectue toujours en mode *Sesam sans vit
 
 ### Facturer une téléexpertise en tant que médecin requérant
 
-- La facturation se fait pour le patient concerné en mode *Sesam sans vitale*
+- La facturation se fait pour le patient concerné en mode *Sesam sans vitale* en contexte d'*Exclusion du parcours de soins*
 - La cotation est **RQD** (10€), non cumulable avec d'autres actes ou majorations
 - **Il faut appliquer le tiers payant AMO** (sinon c'est le patient qui sera payé !)
 

@@ -30,7 +30,7 @@ todo = "rankok | GOLD 2024: groupe Figure 3.7, Figure 3.18, TargetCOPD, action p
 - {{< modal-btn modal-depistage-bpco >}}Dépistage systématique des facteurs de risque de BPCO{{< /modal-btn >}} (tabagisme +20 PA, infections respiratoires récidivantes) et prévention par sevrage tabagique pour tout le monde
 - Le diagnostic de bronchopneumopathie chronique obstructive est spirométrique: trouble ventilatoire obstructif non réversible. Le VEMS est le facteur pronostique majeur de la {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
 - Le suivi de la BPCO nécessite un bilan par EFR/spirométrie de suivi annuelle
-- La prise en charge de la BPCO associe: arrêt du tabac (facteur principal du déclin du VEMS), vaccinations (covid-19, grippe, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, VRS si +65 ans), activité physique et réhabilitation respiratoire, prévention cardiovasculaire
+- La prise en charge de la BPCO associe: arrêt du tabac (facteur principal du déclin du VEMS), vaccinations (covid-19, grippe, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, VRS si +65 ans (NR)), activité physique et réhabilitation respiratoire, prévention cardiovasculaire
 - Suivi des symptômes et exacerbations de BPCO: {{< modal-btn modal-score-cat >}}questionnaire CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}mMRC{{< /modal-btn >}} pour déterminer la sévérité
 - Bronchodilatateurs de longue durée d'action: {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} puis {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}} si nécessaire avec {{< modal-btn modal-ttt-bdca >}}bronchodilatateurs de courte durée{{< /modal-btn >}} en cas de gêne respiratoire. Augmenter les doses si besoin voire avis pneumologique pour {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + corticoïdes inhalés CSI{{< /modal-btn >}}
 - Hospitalisation pour exacerbation de BPCO: réévaluation clinique dans les 7 jours, dans les 2 mois par le pneumologue, réhabilitation respiratoire
@@ -337,7 +337,7 @@ Indications aux gaz du sang: SpO~2~ < 92%, {{< modal-btn modal-score-mmrc >}}mMR
 - Vaccination
   - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) avec la coqueluche
   - Covid-19 et grippe annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} (*GOLD 2024*)
-  - +65 ans: VRS 1 fois (*HAS 2024*)
+  - +65 ans: VRS 1 fois (NR -- *HAS 2024*)
   - +50 ans: [Zona]({{< relref "zona.md" >}}) (*GOLD 2024*, 65 ans dans le Calendrier vaccinal)
 - Réhabilitation respiratoire
   - Essentielle pour tous pour réduire la dyspnée, le stress et améliorer la qualité de vie
@@ -656,6 +656,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [GOLD 2025 (PDF)](https://goldcopd.org/wp-content/uploads/2024/11/KEY-CHANGES-GOLD-2025-11Nov2024.pdf)
 - [Haroon S et al. Predicting risk of undiagnosed COPD: development and validation of the TargetCOPD score. Eur Respir J. 2017.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4271517/)
 
 {{%/sources%}}
