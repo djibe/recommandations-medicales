@@ -436,7 +436,7 @@ Intérêt de colchicine prophylactique.
 - [FitzGerald JD et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res. 2020.](https://onlinelibrary.wiley.com/doi/full/10.1002/acr.24180)
 - [Richette P et al. 2016 updated EULAR evidence-based recommendations for the management of gout. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/1/29)
 - [ANSM. Allopurinol et risque de survenue de toxidermies graves. Lettre aux professionnels de santé. 25 Février 2013. (PDF)](https://archive.ansm.sante.fr/var/ansm_site/storage/original/application/0d726dfed60daadafe7766e02654ddef.pdf)
-- [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-19-0.php#ch_2_1)
+- [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-19-0.php#ch_2_1)
 
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}

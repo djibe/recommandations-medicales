@@ -264,7 +264,7 @@ graph TB
 - {{< references/college-gastro >}}
 - {{< references/college-endocrino >}}
 - {{< references/afef-foie-non-invasif >}}
-- [Collège Français des Enseignants en Rhumatologie (COFER). Pathologie du fer chez l'adulte et l'enfant. Item 219 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-24-0.php)
+- [Collège Français des Enseignants en Rhumatologie (COFER). Pathologie du fer chez l'adulte et l'enfant. Item 219 UE 8. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-24-0.php)
 - [Brissot P. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. SNFGE et AFEF. 2019. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/brissot_2019_0_0.pdf)
 - [Pilling LC et al. Common conditions associated with hereditary haemochromatosis genetic variants: cohort study in UK Biobank. BMJ. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334179/)
 - [Brissot P et al. Haemochromatosis. Nat Rev Dis Primers. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7775623/)

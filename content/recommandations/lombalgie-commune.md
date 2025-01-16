@@ -150,7 +150,7 @@ Signes et symptômes à rechercher devant un épisode de lombalgie:
 - Signes négatifs
   - Douleurs: épines lombaires, sacro-iliaques, hanches, fessiers
 
-{{< card-link-external title="Examen vidéo du rachis lombaire" url="http://www.lecofer.org/semiologie.php" subtitle="par le COFER" >}}
+{{< card-link-external title="Examen vidéo du rachis lombaire" url="https://www.lecofer.org/semiologie.php" subtitle="par le COFER" >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -250,7 +250,7 @@ graph TB
 - [Cashin AG et al. Pharmacological treatments for low back pain in adults: an overview of Cochrane Reviews. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013815.pub2/full/fr#pico)
 - Prescrire Redaction. Lombalgie aiguë chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - Prescrire Redaction. Signes de fracture vertébrale en cas de lombalgie récente. Rev Prescrire. Juin 2020.
-- [Collège Français des Enseignants en Rhumatologie (COFER). Rachialgies. Item 94 UE 5. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-3-0.php)
+- [Collège Français des Enseignants en Rhumatologie (COFER). Rachialgies. Item 94 UE 5. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-3-0.php)
 - [HAS. Prise en charge du patient présentant une lombalgie commune. 2019.](https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient-presentant-une-lombalgie-commune)
 
 {{%/sources%}}

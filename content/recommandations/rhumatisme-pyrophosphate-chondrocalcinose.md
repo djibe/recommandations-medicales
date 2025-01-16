@@ -164,8 +164,8 @@ graph TB
 {{%sources%}}
 
 - [Cowley S, McCarthy G. Diagnosis and Treatment of Calcium Pyrophosphate Deposition (CPPD) Disease: A Review. Open Access Rheumatol. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10040153/)
-- [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-19-0.php)
-- [Collège Français des Enseignants en Rhumatologie (COFER). Pathologie du fer chez l'adulte et l'enfant. Item 219 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-24-0.php)
+- [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-19-0.php)
+- [Collège Français des Enseignants en Rhumatologie (COFER). Pathologie du fer chez l'adulte et l'enfant. Item 219 UE 8. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-24-0.php)
 - Prescrire Redaction. Diphosphonates : pseudo-gouttes. Rev Prescrire. 2014.
 - [Zhang W et al. EULAR recommendations for calcium pyrophosphate deposition. Part I: terminology and diagnosis. Ann Rheum Dis. 2011.](https://ard.bmj.com/content/70/4/563)
 - [Zhang W et al. EULAR recommendations for calcium pyrophosphate deposition. Part II: Management. Ann Rheum Dis. 2011.](https://ard.bmj.com/content/70/4/571)

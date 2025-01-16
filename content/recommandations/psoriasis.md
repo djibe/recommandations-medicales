@@ -274,7 +274,7 @@ graph TB
 
 ### Bibliographie en attente
 
-[Collège Français des Enseignants en Rhumatologie (COFER). Psoriasis. Item 117 UE 5. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-6-0.php)
+[Collège Français des Enseignants en Rhumatologie (COFER). Psoriasis. Item 117 UE 5. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-6-0.php)
 
 {{%/sources%}}
 {{% modal title="Dermocorticoïdes disponibles" id="modal-dc" size="lg" %}}
