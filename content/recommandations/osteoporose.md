@@ -10,7 +10,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. CORTET et Dr T. FUNCK-BRENTANO (SFR, GRIO)"
 date = "2020-09-04T17:43:41+02:00"
 publishdate = "2021-12-06"
-lastmod = "2024-03-14"
+lastmod = "2025-01-16"
 specialites = ["rhumatologie"]
 annees = "2023"
 sources = ["HAS", "SFRhumato", "GRIO", "IOF"]
@@ -29,7 +29,7 @@ todo = "rankok, https://www.osteoporosis.foundation/sites/iofbonehealth/files/20
 
 Recommandations simplifiées pour une prise en charge réaliste de l'ostéoporose:
 
-1. Ostéodensitométrie (DXA) pour toutes les femmes après 60 ans ou après une fracture ({{< modal-btn modal-dxa-remboursement >}}critères de remboursement{{< /modal-btn >}})  
+1. Ostéodensitométrie (DXA) pour toutes les femmes ménopausées après 60 ans (65 selon *USPTF* et avant si {{< modal-btn modal-dxa-remboursement >}}facteur de risque{{< /modal-btn >}} ) ou après une fracture ({{< modal-btn modal-dxa-remboursement >}}critères de remboursement{{< /modal-btn >}})  
   En l'absence de fracture, le calcul du FRAX est disponible plus bas (voir [Calcul du FRAX](#calcul-du-frax-et-du-risque-de-fracture-osseuse)).
 2. Bilan de l'ostéoporose: NFS, CRP, créatininémie, ASAT, ALAT, GGT, PAL, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques
 3. Biphosphonate en 1^er^ traitement anti-ostéoporotique selon T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou tout T-score ≤ -3
@@ -38,8 +38,8 @@ Recommandations simplifiées pour une prise en charge réaliste de l'ostéoporos
     - Au moins 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)  
     - [Fracture du col du fémur]({{< relref "fracture-extremite-superieure-femur.md" >}}) (FESF): [zolédronate 5 mg/100 mL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture).
 6. {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} et souvent supplémenter à distance des repas, supplémenter en vitamine D
-7. Contrôle de l'ostéodensitométrie à 2-3 ans ± avis rhumatologique
-8. Nouveau contrôle de la DXA 2 ans après l'arrêt du traitement
+7. Contrôle de l'ostéodensitométrie à 2-3 ans et avis rhumatologique
+8. Contrôle de la DXA 2 ans après l'arrêt du traitement
 
 Pour l'**ostéoporose cortisonique**, voir la section [traitements anti-ostéoporotiques](#traitements-anti-ostéoporotiques-biphosphonates-raloxifène-dénosumab).
 
@@ -232,15 +232,15 @@ Les mesures sur os arthrosique ou sur fracture vertébrale surestiment la DMO.
 
 ### Calcul du FRAX
 
-Le calcul du score FRAX est inutile si le traitement est indiqué d'emblée ({{< modal-btn modal-fracture-severe >}}antécédent de fracture sévère{{< /modal-btn >}} ou T-score ≤ -3). Il permet d'identifier les femmes à risque de fracture lorsque le T-score et supérieur à -3.
+Le calcul du score FRAX est inutile si le traitement est indiqué d'emblée: {{< modal-btn modal-fracture-severe >}}antécédent de fracture sévère{{< /modal-btn >}} ou T-score ≤ -3. Il permet d'identifier les femmes à risque de fracture lorsque le T-score est supérieur à -3.
 
-Dans tous les cas, demander un avis rhumatologique si l'on identifie un risque mais que la manipulation du FRAX n'est pas aisée.
+Dans tous les cas, demander un avis rhumatologique en cas d'identification de risque fracturaire mais que la manipulation du FRAX n'est pas aisée.
 
 Le calcul du FRAX est validé en France uniquement en cas de [ménopause]({{< relref "menopause.md" >}}).
 
-{{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" title="Calcul du FRAX® en France sur le site officiel">}}
+{{< iframe url="https://frax.shef.ac.uk/FRAX/tool.aspx?lang=fr" title="Calcul du FRAX® en France sur le site officiel">}}
 
-> Calcul du FRAX® sur le [site officiel du FRAX](https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12) pour les Françaises.
+> Calcul du FRAX® sur le [site officiel du FRAX](https://frax.shef.ac.uk/FRAX/tool.aspx?lang=fr) pour les Françaises.
 
 ### Décision de traitement anti-ostéoporotique selon le calcul du FRAX
 
@@ -256,7 +256,7 @@ Le seuil d'intervention sur l'ostéoporose dépend de l'âge de la patiente et l
     <p class="mb-0">Traiter si FRAX supérieur à</p>
     <output id="decision-frax" class="ml-2 typography-headline-6 badge-secondary p-2">5</output>
   </div>
-  <small>Dr JB Fron d'après Briot K. 2012</small>
+  <small>Dr JB Fron d'après Briot K et al 2012</small>
 </div>
 <script>
 window.addEventListener('load', function() {
@@ -348,7 +348,7 @@ Tout au long de la vie: activité physique adaptée, {{< modal-btn modal-regime 
   - Arrêt des somnifères et opiacés, alcool
   - Rechercher une [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}})
   - Contrôler les lunettes
-- Activité physique avec impact
+- **Activité physique** avec impact
   Exercice type marche au moins 2 jours par semaine, supervisée ++.
 - Vitamine D
   - Prévenir une carence en vitamine D par cible ≥ 75 nmol/L

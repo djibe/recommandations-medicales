@@ -275,7 +275,8 @@ style suspicion stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
-- [EUFOREA & ARIA](https://www.euforea.eu/)
+- [Prulière-Escabasse V, et al; SFORL. Recommandation sur l'éducation thérapeutique pour optimiser l'usage du spray nasal multidoses. 2023. (PDF)](https://www.sforl.org/wp-content/uploads/2023/10/RECOMMANDATION-SUR-LEDUCATION-THERAPEUTIQUE-POUR-OPTIMISER-USAGE-DU-SPRAY-NASAL-MULTIDOSES-1.pdf)
+- [EUFOREA & ARIA](https://www.euforea.eu)
 - [Annesi-Maesano I et al. Le Score For Allergic Rhinitis (SFAR) -- version française. Revue Française d'Allergologie et d'Immunologie Clinique. 2004.](https://www.sciencedirect.com/science/article/abs/pii/S0335745703003526)
 
 {{%/sources%}}

@@ -5,7 +5,7 @@ description = "Aide à la cotation des consultations en médecine générale: co
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2025-01-08"
+lastmod = "2025-01-17"
 annees = "2025"
 sources = ["Assurance Maladie"]
 tags = []
@@ -20,7 +20,7 @@ Liste des codes pour les actes et les consultations des adultes et des enfants e
 
 ## Les nouvelles cotations en 2025
 
-- La fin des majorations non régulées aux heures tardives: F, MN et MM
+- La fin des majorations non régulées aux heures tardives: F, MN et MM. Seul supplément pour tarvailler dimanche et après 20h sans régulation: MHP 5€
 - Le COE passera à 60€ le 1er juillet
 
 ## Les cotations de 2024 à ne pas oublier
@@ -72,9 +72,7 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 | CCP       | 1re consultation contraception avant 26 ans (à 100%, anonymisable)                            |           47,5 |
 | G         | Consultation contraception annuelle avant 26 ans (à 100% en EXO3)                             |             30 |
 | APC       | Adressé par son MT pour une compétence explicite avec compte-rendu (ne pas revoir à ± 4 mois) |             60 |
-| G + MN    | Consultation "urgente" non régulée 20-24h (appel après 19h) et 6-8h                           |        30 + 35 |
-| G + MM    | Consultation "urgente" non régulée 0-6h                                                       |        30 + 40 |
-| G + F     | Consultation "urgente" non régulée dimanche et jours fériés                                   |     30 + 19,06 |
+| G + MHP   | Consultation "urgente" non régulée 20-8h, dimanche ou jour férié                              |         30 + 5 |
 | G + CRN   | Consultation régulée 20-24h et 6-8h                                                           |      30 + 42,5 |
 | G + CRM   | Consultation régulée 0-6h                                                                     |      30 + 59,5 |
 | G + CRD   | Consultation régulée dimanche et jours fériés                                                 |      30 + 26,5 |

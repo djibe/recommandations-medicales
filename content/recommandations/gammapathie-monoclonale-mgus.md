@@ -18,7 +18,7 @@ sctid = "277577000"
 icd10 = ["D47.2"]
 image = false
 imageSrc = ""
-todo = "photo"
+todo = "photo, https://b-s-h.org.uk/guidelines/guidelines/diagnosis-and-management-of-monoclonal-gammopathy-of-renal-significance"
 flowchart = true
 +++
 
