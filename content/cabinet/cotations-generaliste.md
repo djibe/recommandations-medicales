@@ -113,8 +113,8 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 {{< table >}}
 | Code CCAM           | Description                                                                                   | Tarif&nbsp;(€) |
 |---------------------|-----------------------------------------------------------------------------------------------|---------------:|
-| CDRP002             | Dépistage de la surdité avant 3 ans<br>avec test validé (SensoryBabyTest)                     |          48,51 |
-| CDRP002 + ½ BLQP010 | Dépistage de la surdité avant 3 ans<br>couplé au test de la vision binoculaire (test de Lang) |          61,17 |
+| CDRP002             | Dépistage de la surdité avant 3 ans<br>avec test validé (SensoryBabyTest)                     |          49,46 |
+| CDRP002 + ½ BLQP010 | Dépistage de la surdité avant 3 ans<br>couplé au test de la vision binoculaire (test de Lang) |          62,30 |
 {{< /table >}}
 
   </div>
@@ -126,9 +126,7 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 | VG + MD   | Visite à domicile pour un adulte                                                          |        30 + 10 |
 | VG + MU   | Visite nécessitant d'interrompre ses consultations et de quitter immédiatement le cabinet |     30 + 22,60 |
 | VL + MD   | Neurodégénératif, soins palliatifs (4/an) ou +80 ans en ALD (1/trimestre)                 |        60 + 10 |
-| VG + MDD  | Visite justifiée dimanche et jour férié                                                   |     30 + 22,60 |
-| VG + MDN  | Visite 20-24h et 6-8h                                                                     |     30 + 38,50 |
-| VG + MDI  | Visite 0-6h                                                                               |     30 + 43,50 |
+| VG + MHP  | Visite justifiée 20-8h, dimanche et jour férié                                            |         30 + 5 |
 | VG + VRS  | Visite régulée samedi après-midi                                                          |        30 + 30 |
 | VG + VRN  | Visite régulée 20-24h et 6-8h                                                             |        30 + 46 |
 | VG + VRM  | Visite régulée 0-6h                                                                       |     30 + 59,50 |
@@ -170,24 +168,24 @@ Actes CCAM importants non cumulables ou cumulables avec une consultation (3 poss
 Les sutures ne sont pas présentées ici mais penser à associer le code CCAM *M* (26,88 €) de soins d'urgences.
 
 {{< table title="Actes importants pour le médecin généraliste. Majoration M possible si urgence pour les actes mentionnés" class="table-wrap" >}}
-| Code CCAM   | Description                                                                                                                                                                                                  | Tarif&nbsp;(€) |
-|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------:|
-| + DEQP003   | ECG 12 dérivations                                                                                                                                                                                           |          14,26 |
-| + JKHD001   | Frottis cervico-vaginal                                                                                                                                                                                      |          12,46 |
-| ALQP003     | Test standardisé d'évaluation d'une dépression: {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, Beck, MADRS, MMPI et STAI (max 1/an)                                                             |          69,12 |
-| ALQP006     | Test standardisé d'évaluation d'un déficit cognitif: [MMSE](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/mmse.pdf), [MoCA](/print/moca.pdf), GP-COG, MIS, Codex, 5 mots de Dubois (max 1/an) |          69,12 |
-| JKLD001     | Pose d'un stérilet                                                                                                                                                                                           |          38,40 |
+| Code CCAM   | Description | Tarif&nbsp;(€) |
+|-------------|-------------|---------------:|
+| + DEQP003   | ECG 12 dérivations | 14,52 |
+| + JKHD001   | Frottis cervico-vaginal |  12,73 |
+| ALQP003     | Test standardisé d'évaluation d'une dépression: {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, Beck, MADRS, MMPI et STAI (max 1/an) | 69,12 |
+| ALQP006     | Test standardisé d'évaluation d'un déficit cognitif: [MMSE](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/mmse.pdf), [MoCA](/print/moca.pdf), GP-COG, MIS, Codex, 5 mots de Dubois (max 1/an) | 69,12 |
+| JKLD001     | Pose d'un stérilet | 38,40 |
 | JKKD001     | Changement d'un stérilet                                                                                                                                                                                     |          38,40 |
 | QZGA002     | Ablation ou changement d'un implant                                                                                                                                                                          |          41,80 |
-| MJPA010     | Incision ou excision d'un panaris superficiel                                                                                                                                                                |          38,29 |
-| EGFA007     | Excision d'une [thrombose hémorroïdaire]({{< relref "hemorroides.md" >}})                                                                                                                                    |          62,70 |
-| GLQP012     | Spirométrie avec enregistrement                                                                                                                                                                              |          40,28 |
-| GABD002 + M | Tamponnement nasal antérieur                                                                                                                                                                                 |          54,60 |
+| MJPA010     | Incision ou excision d'un panaris superficiel | 38,29 |
+| EGFA007     | Excision d'une [thrombose hémorroïdaire]({{< relref "hemorroides.md" >}}) | 62,70 |
+| GLQP012     | Spirométrie avec enregistrement | 41,08 |
+| GABD002 + M | Tamponnement nasal antérieur | 54,60 |
 {{< /table >}}
 
 **NB.** Le premier acte est facturé à 100%, le 2e à 50% et les suivants sont offerts.
 
-L'extraction de cérumen (CAGD001) à 19,25€ n'a pas d'intérêt.
+L'extraction de cérumen (CAGD001) à 19,63 € n'a pas d'intérêt.
 
   </div>
   </div>

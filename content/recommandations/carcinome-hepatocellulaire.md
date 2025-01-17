@@ -154,7 +154,7 @@ L'imagerie n'est pas suffisante pour déterminer l'étiologie. La **biopsie hép
 
 ### Alpha-fœtoprotéine
 
-> << Le dosage de l'alpha-fœtoprotéine (AFP) n'est pas un examen diagnostique mais a une valeur pronostique >> -- *CDU-HGE 2022*
+> << Le dosage de l'alpha-fœtoprotéine (AFP) n'est pas un examen diagnostique mais a une valeur pronostique >>. -- *CDU-HGE 2022*
 
 L'alpha-fœtoprotéine relève du bilan d'extension une fois le carcinome hépatocellulaire prouvé.
 

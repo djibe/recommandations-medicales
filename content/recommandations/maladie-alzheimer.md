@@ -121,6 +121,7 @@ Demander l'accord pour interroger un accompagnant.
 
 - Poids et variations (à chaque consultation), taille, IMC
 - Pression artérielle assis et debout ([hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}})), fréquence cardiaque
+- Otoscopie
 - Examen neurologique  
   Déficit, confusion, réflexes, oculo-motricité, troubles sphinctériens, troubles de la marche, dysautonomie.
 

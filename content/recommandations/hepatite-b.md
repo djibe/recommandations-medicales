@@ -18,7 +18,7 @@ sctid = "66071002"
 icd10 = ["B18", "B16", "B19", "K73.9"]
 image = true
 imageSrc = "Hépatite B, illustration par pch.vector / Freepik"
-todo = "dépistage VHB, insuff hépatocellulaire, AFEF 2020: TROD AgHBs isolés, papier buvard pour quantifier ADN, calendrier page 80, clinique, flow, découverte hépatite B guérie"
+todo = "dépistage VHB, insuff hépatocellulaire, AFEF 2020: TROD AgHBs isolés, papier buvard pour quantifier ADN, calendrier page 80, clinique, flow, découverte hépatite B guérie | AFP ?"
 +++
 
 {{%article-summary%}}
@@ -275,7 +275,6 @@ Adresser au spécialiste avec le bilan initial de l'hépatite B
 - Créatininémie, albuminémie
 - Ferritinémie
 - [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}}) (TODO: vérifier)
-- [Alpha-fœtoprotéine]({{< relref "carcinome-hepatocellulaire.md" >}}) (AFP)
 - [TSH](/tags/tsh/)
 - Anticorps anti-TPO, anti-nucléaires, anti-muscle lisse, anti-LKM1
 - Glycémie à jeun

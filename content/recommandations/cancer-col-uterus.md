@@ -144,7 +144,7 @@ Le dépistage organisé du cancer du col de l'utérus est recommandé pour toute
 - À partir de 30 ans: frottis cervico-vaginal tous les 5 ans avec test HPV-HR  
   3 ans après le dernier test cytologique, donc en théorie 32 ans.
 
-**Cotation du frottis:** G + JKHD001 (12,46 €)
+**Cotation du frottis:** G + JKHD001 (12,73 €)
 
 Rappel des conditions pour le frottis: ≥ 48h d'un rapport sexuel, hors menstruations, sans gel ou traitement local.
 
