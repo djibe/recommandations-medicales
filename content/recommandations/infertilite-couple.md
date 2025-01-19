@@ -259,7 +259,7 @@ En centre spécialisé, différents traitements sont possibles: citrate de clomi
 
 {{< mermaid title="Prise en charge de l'infertilité du couple. Drs Alaedine Benani et JB Fron d'après CNGOF et ESHRE 2023, AFU">}}
 graph TB
-  grossesse("Absence de grossesse<br>pendant 12 mois<br>(6 mois si F +35 ans)") --> diagnostic(Infertilité) --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements, toxiques<br>- Mode de vie<br>-Ancienneté<br>- Cycles, rapports<br>- Symptômes<br>- Examen clinique") -- Homme --> bilan("<b>Bilan de l'homme</b><br>—<br>- Sérologies IST<br>- Spermogramme avec<br>spermocytogramme<br>et spermoculture<br>- Selon comorbidités: hormones,<br>échographie testiculaire") --> AMP("Centre d'Assistance Médicale<br>à la Procréation (AMP)")
+  diagnostic("<b>Infertilité</b><br>—<br>Absence de grossesse<br>pendant 12 mois<br>(6 mois si F +35 ans)") --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements, toxiques<br>- Mode de vie<br>-Ancienneté<br>- Cycles, rapports<br>- Symptômes<br>- Examen clinique") -- Homme --> bilan("<b>Bilan de l'homme</b><br>—<br>- Sérologies IST<br>- Spermogramme avec<br>spermocytogramme<br>et spermoculture<br>- Selon comorbidités: hormones,<br>échographie testiculaire") --> AMP("Centre d'Assistance Médicale<br>à la Procréation (AMP)")
     bilan -- Spermogramme anormal --> andrologue("Échographie testiculaire<br>et andrologue") -.-> AMP
   style diagnostic stroke:#4150f5, stroke-width:1px
     clinique -- Femme --> bilanFemme("<b>Bilan de la femme</b><br>—<br>- TSH<br>- Sérologies IST voire autres<br>- Prélèvement vaginal<br>- Échographie pelvienne<br>endo-vaginale 3D à J2-J3<br>- AMH si AMP<br>- Selon critères: hormones") --> AMP

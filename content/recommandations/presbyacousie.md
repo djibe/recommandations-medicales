@@ -7,7 +7,7 @@ synonyms = ["Hypoacousie et surdité dues à l'âge"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-05T16:01:25+01:00"
 publishdate = "2024-01-08"
-lastmod = "2024-01-08"
+lastmod = "2025-01-17"
 specialites = ["ORL"]
 annees = "2023"
 sources = ["NICE", "SFORL"]
@@ -28,7 +28,7 @@ flowchart = true
 - L'examen au cours d'une hypoacousie recherche des traitements à risque ototoxiques, des antécédents otologiques, des symptômes associés (vertiges, otorrhée, céphalées) et une otoscopie bilatérale
 - Sauf formation spécifique, le bilan de la surdité est spécialisé par l'ORL avec audiométrie et examen
 - IRM du crâne et des angles ponto-cérébelleux si: vertiges, acouphènes unilatéraux
-- La prise en charge de la presbyacousie associe: information du patient, audioprothèses bilatérales voire implants cochléaires, rééducation orthophonique et suivi annuel
+- La prise en charge de la presbyacousie associe: information du patient, audioprothèses bilatérales voire implants cochléaires, rééducation orthophonique et suivi au moins annuel avec otoscopies régulières
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -137,12 +137,15 @@ Indications à l'IRM crânienne avec étude des angles ponto-cérébelleux:
 Proposer le conseil génétique en cas d'antécédents familiaux et de presbyacousie de survenue précoce.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la presbyacousie" %}}
+
+Mesures de prise en charge de la presbyacousie:
 
 - Information du patient: retentissement sur l'humeur et les activités ([guide Ameli](https://www.ameli.fr/assure/sante/themes/perte-acuite-auditive/presbyacousie))
 - Audioprothèse bilatérale (stéréophonique)
   - Indications: perte auditive moyenne ou seuil d'intelligibilité dans le silence > 30 dB, dégradation significative de l'intelligibilité dans le bruit
   - Prescription possible par un généraliste formé à l'otologie médicale
+  - Suivi otoscopique tous les 3-6 mois (voir [bouchons de cérumen]({{< relref "bouchon-cerumen.md" >}}))
   - Suivi régulier par l'audioprothésiste
   - Suivi annuel par le prescripteur
 - Voire implants cochléaires  
@@ -171,7 +174,7 @@ graph TB
 - [NICE. Hearing loss in adults: assessment and management. 2023.](https://www.nice.org.uk/guidance/ng98)
 - [Inserm. Troubles de l'audition - Surdités. 07/11/2023.](https://www.inserm.fr/dossier/troubles-audition-surdites/)
 - Collège Français d'ORL et de Chirurgie Cervico-faciale. Surdité et handicap. 2022.
-- [Thai-Van H et al; SFORL. Parcours de soins du patient presbyacousique. Recommandation pour la pratique clinique. 2021. (PDF)](https://www.sforl.org/wp-content/uploads/2022/03/Reco-Parcours-de-soins-du-patient-presbyacousique_2022.pdf)
+- [Thai-Van H, et al; SFORL. Parcours de soins du patient presbyacousique. Recommandation pour la pratique clinique. 2021. (PDF)](https://www.sforl.org/wp-content/uploads/2022/03/Reco-Parcours-de-soins-du-patient-presbyacousique_2022.pdf)
 - [Arrêté du 14 novembre 2018 portant modification des modalités de prise en charge des aides auditives et prestations associées au chapitre 3 du titre II de la liste des produits et prestations prévue à l'article L. 165-1 du code de la sécurité sociale.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037615111)
 - [Bureau international d'audiophonologie (biap). Recommandation biap 02/1 bis - Classification audiométrique des déficiences auditives. 1997. (PDF)](https://www.biap.org/fr/recommandations/recommandations/ct-02-classification-des-deficiences-auditives/149-rec-02-01-fr-classification-audiometrique-des-deficiences-auditives/file)
 

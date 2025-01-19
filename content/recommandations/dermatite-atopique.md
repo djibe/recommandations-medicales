@@ -256,6 +256,8 @@ Traiter dès le début la poussée d'eczéma atopique:
   - Arrêt brutal
   - Avis dermatologique si résistance au traitement
 - Consultation de suivi
+- Eczéma du conduit auditif (aucun corticoïde seul disponible): Antibio synalar, Ciloxadex, Framyxone, Polydexa  
+  {{%info%}}Spécialités avec le moins d'antibiotiques.{{%/info%}}
 
 Les corticoïdes par voie orale ou injectable n'ont aucune indication dans la dermatite atopique.
 {.alert .alert-warning}
