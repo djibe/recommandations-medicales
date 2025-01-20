@@ -5,7 +5,7 @@ description = "Aide à la cotation des consultations en médecine générale: co
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2025-01-17"
+lastmod = "2025-01-19"
 annees = "2025"
 sources = ["Assurance Maladie"]
 tags = []
@@ -64,6 +64,7 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 |-----------|-----------------------------------------------------------------------------------------------|---------------:|
 | G         | Consultation                                                                                  |             30 |
 | TCG       | Téléconsultation                                                                              |             25 |
+| C1,5      | Consultation avec test antigénique Covid                                                      |           34,5 |
 | RDV       | Consultation du [bilan de prévention]({{< relref "bilan-prevention.md" >}}) (TP AMO)          |             30 |
 | COB       | Consultation de l'enfant à 6, 8-9, 11-13 et 15-16 ans (à 100%)                                |             30 |
 | RQD       | Demande de téléexpertise (FSE Sesam sans vitale dédiée en TP AMO)                             |             10 |
@@ -124,6 +125,7 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 | Code NGAP | Description                                                                               | Tarif&nbsp;(€) |
 |-----------|-------------------------------------------------------------------------------------------|---------------:|
 | VG + MD   | Visite à domicile pour un adulte                                                          |        30 + 10 |
+| V1,5 + MD | Visite à domicile pour un adulte avec test antigénique Covid                              |     34,50 + 10 |
 | VG + MU   | Visite nécessitant d'interrompre ses consultations et de quitter immédiatement le cabinet |     30 + 22,60 |
 | VL + MD   | Neurodégénératif, soins palliatifs (4/an) ou +80 ans en ALD (1/trimestre)                 |        60 + 10 |
 | VG + MHP  | Visite justifiée 20-8h, dimanche et jour férié                                            |         30 + 5 |

@@ -194,10 +194,10 @@ style OMAP stroke:#4150f5, stroke-width:1px
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Otite moyenne aiguë purulente de l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722670/fr/choix-et-durees-d-antibiotherapies-otite-moyenne-aigue-purulente-de-l-adulte)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Otite moyenne aiguë purulente de l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722749/fr/choix-et-durees-d-antibiotherapies-otite-moyenne-aigue-purulente-de-l-enfant)
 - [Cohen R, et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471)
+- [CMIT. Otites infectieuses de l'adulte et de l'enfant. Item 150. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-150.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Otites infectieuses de l'adulte et de l'enfant. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/otites)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Déficits immunitaires héréditaires. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/pathologies)
 - {{< references/spilf-2020 >}}
-- [CMIT. Otites infectieuses de l'adulte et de l'enfant. Item 150. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-150-web.pdf)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 
 {{%/sources%}}

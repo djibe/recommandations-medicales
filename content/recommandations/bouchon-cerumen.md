@@ -1,6 +1,6 @@
 +++
 id = "01947498-898a-7e90-a7a3-52c5a8936eed"
-title = "Bouchon de cérum"
+title = "Bouchon de cérumen"
 prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge du bouchon de cérumen. Otoscopie et nettoyage avec agent céruménolytique, irrigation ou extraction manuelle"
 synonyms = []
@@ -84,7 +84,7 @@ Otoscopie: anomalie du conduit auditif, bouchon occlusif ou non, tympan visible 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Aucun bilan n'est nécessaire pour les bouchons de cérum. Un avis spécialisé peut être demandé en cas d'échec ou d'anomalie ORL suspectée.
+Aucun bilan n'est nécessaire pour les bouchons de cérumen. Un avis spécialisé peut être demandé en cas d'échec ou d'anomalie ORL suspectée.
 
 {{% /collapse %}}
 {{%collapse "Traitement du bouchon de cérumen" %}}
@@ -99,7 +99,7 @@ La prise en charge des bouchons de cérumen est possible selon 4 traitements pou
   Contre-indiqué avant 3 ans et en cas de perforation tympanique.
 - Irrigation du conduit auditif  
   À l'eau chaude. Éviter en cas d'otite externe, chirurgie de l'oreille ou ATT, immunodépression et chez le diabétique.
-- Extraction manuelle  
+- Extraction instrumentale  
   Avec curette, sonde, crochet, pince ou aspiration sous contrôle visuel.
 
 L'**éducation aux mesures d'hygiène** (voir [Mesures d'hygiène](#mesures-dhygiène-des-oreilles)) est essentielle pour prévenir les récidives.
@@ -145,7 +145,8 @@ Mesures d'hygiène pour les porteurs d'appareils auditifs:
 {{% /collapse %}}
 {{%sources%}}
 
-[Schwartz SR, et al. Clinical Practice Guideline (Update): Earwax (Cerumen Impaction). Otolaryngol Head Neck Surg. 2017.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599816671491)
+- Prescrire Redaction. Extraction d'un bouchon de cérumen par un soignant. 2018.
+- [Schwartz SR, et al. Clinical Practice Guideline (Update): Earwax (Cerumen Impaction). Otolaryngol Head Neck Surg. 2017.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599816671491)
 
 Mot-clé: cerumen
 
