@@ -588,8 +588,9 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Puledda F, et al. International Headache Society global practice recommendations for the acute pharmacological treatment of migraine. Cephalalgia. 2024.](https://journals.sagepub.com/doi/10.1177/03331024241252666)
 - [HAS. Céphalées de l'enfant et l'adolescent : pertinence de l'imagerie. 2024.](https://www.has-sante.fr/jcms/p_3383435/fr/cephalees-de-l-enfant-et-l-adolescent-pertinence-de-l-imagerie)
-- [Ducros A et al. Recommandations pour le diagnostic et la prise en charge de la migraine chez l'adulte : situations spécifiques chez les femmes migraineuses. La Presse Médicale Formation. 2022.](https://www.sciencedirect.com/science/article/pii/S2666479822002154)
+- [Ducros A, et al. Recommandations pour le diagnostic et la prise en charge de la migraine chez l'adulte : situations spécifiques chez les femmes migraineuses. La Presse Médicale Formation. 2022.](https://www.sciencedirect.com/science/article/pii/S2666479822002154)
 - [Oskoui M, et al. Practice guideline update summary: Acute treatment of migraine in children and adolescents: Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology and the American Headache Society. Neurology. 2019.](https://www.neurology.org/doi/10.1212/WNL.0000000000008095?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 - [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf) (p.29)
 

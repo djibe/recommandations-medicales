@@ -86,7 +86,7 @@ Dépistage rapproché chez le +50 ans.
 1. Hypertension blouse blanche (15-25 %)  
   Hypertension au cabinet et absente au domicile. RHD et dépistage annuel. Envisager un traitement en {{%modal-btn "modal-rcv"%}}risque cardiovasculaire élevé ou très élevé{{%/modal-btn%}}
 1. Hypertension masquée (10-20 %)  
-  Hypertension absente au cabinet et observée au domicile. RHD et traitement selon le grade de l'hypertension.
+  Hypertension absente au cabinet et observée au domicile. Automesures au moindre doute ([Hundemer et al 2025](https://www.sciencedirect.com/science/article/pii/S2589790X25000356)). RHD et traitement selon le grade de l'hypertension.
 
 ### Stades d'hypertension artérielle
 

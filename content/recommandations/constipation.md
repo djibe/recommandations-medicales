@@ -182,8 +182,8 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Chang, et al. American Gastroenterological Association-American College of Gastroenterology Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation. The American Journal of Gastroenterology. 2023.](https://journals.lww.com/ajg/fulltext/2023/06000/american_gastroenterological_association_american.13.aspx)
 - [Alavi K, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Evaluation and Management of Chronic Constipation. Dis Colon Rectum. 2024.](https://journals.lww.com/dcrjournal/fulltext/2024/10000/the_american_society_of_colon_and_rectal_surgeons.9.aspx)
+- [Chang, et al. American Gastroenterological Association-American College of Gastroenterology Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation. The American Journal of Gastroenterology. 2023.](https://journals.lww.com/ajg/fulltext/2023/06000/american_gastroenterological_association_american.13.aspx)
 - [La Revue Colo-Proctologie. Constipation d'évacuation.](https://larevue.snfcp.org/constipation-devacuation/)
 
 {{%/sources%}}

@@ -107,10 +107,10 @@ La prise en charge de l'otite externe associe:
   - Si **perforation tympanique:** [ofloxacine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66256370&typedoc=R) 10 gouttes matin et soir pendant 7 à 10 jours  
     Traitement de référence selon Prescrire dans tous les cas.
 - **Antalgie:** palier 1 voire 2
-- Information du patient
-  - Otite externe ([Ameli](https://www.ameli.fr/assure/sante/themes/otite-externe))
+- Information du patient:
+  - [Guide otite externe Ameli](https://www.ameli.fr/assure/sante/themes/otite-externe)
   - Facteurs de risque pour prévenir les récidives
-  - Sur la technique d'instillation des gouttes antibiotiques
+  - Technique d'instillation des gouttes antibiotiques (voir plus bas)
 - Consultation de contrôle en cas de persistance à 2-3 semaines  
   Otomycose résistante, tumeur du CAE, perforation tympanique, atteinte de l'oreille moyenne.
 

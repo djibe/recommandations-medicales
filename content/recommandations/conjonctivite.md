@@ -214,6 +214,7 @@ Hygiène des paupières, cures courtes d'azithromycine et ciclosporine collyre a
 
 ### Bibliographie en attente
 
+- [Cheung Albert, et al. Conjunctivitis Preferred Practice Pattern. Ophthalmology. 2024.](https://www.aaojournal.org/article/S0161-6420(24)00009-5/fulltext)
 - [Société Française d'Ophtalmologie (SFO). Pathologies conjonctivales. Chapitre 8. Ophtalmologie pédiatrique.](https://www.em-consulte.com/em/SFO/2017/file_10008.html)
 - Prescrire Redaction. Conjonctivite aiguë infectieuse. Premiers Choix Prescrire. Rev Prescrire. 2024.
 - tripdatabase

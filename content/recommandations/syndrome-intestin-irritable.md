@@ -278,10 +278,10 @@ style SII stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
-- [Nybacka S et al. A low FODMAP diet plus traditional dietary advice versus a low-carbohydrate diet versus pharmacological treatment in irritable bowel syndrome (CARBIS): a single-centre, single-blind, randomised controlled trial. Lancet Gastroenterol Hepatol. 2024.](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(24)00045-1/abstract)
+- [Nybacka S, et al. A low FODMAP diet plus traditional dietary advice versus a low-carbohydrate diet versus pharmacological treatment in irritable bowel syndrome (CARBIS): a single-centre, single-blind, randomised controlled trial. Lancet Gastroenterol Hepatol. 2024.](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(24)00045-1/abstract)
 - Prescrire Redaction. Troubles intestinaux bénins récurrents. Rev Prescrire. 2023.
 - {{< references/college-gastro >}}
-- [Vasant D et al. British Society of Gastroenterology guidelines on the management of irritable bowel syndrome. Gut. 2021.](https://gut.bmj.com/content/70/7/1214)
+- [Vasant D, et al. British Society of Gastroenterology guidelines on the management of irritable bowel syndrome. Gut. 2021.](https://gut.bmj.com/content/70/7/1214)
 - [Sabaté JM, Jouët P. Prise en charge du Syndrome de l'Intestin Irritable (SII). Conseil de pratique. SNFGE, GFNG. 2016. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp036-sii_2016.pdf)
 - [Ducrotté P; SNFGE, GFNG. Régime pauvre en sucres fermentiscibles Les << FODMAPs >>. Conseil de pratique. 2016. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/les_fodmaps.pdf)
 - [Conseil National Professionnel d'Hépato-Gastroentérologie (CNP-HGE). Syndrome de l'intestin irritable.](https://www.cnp-hge.fr/syndrome-de-lintestin-irritable/)
@@ -289,6 +289,7 @@ style SII stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
-[Mearin F et al. Bowel Disorders. Gastroenterology. 2016.](https://pubmed.ncbi.nlm.nih.gov/27144627/)
+- [Levine A, et al. Dietary Guidance From the International Organization for the Study of Inflammatory Bowel Diseases. Clin Gastroenterol Hepatol. 2020.](https://www.cghjournal.org/article/S1542-3565(20)30185-3/fulltext)
+- [Mearin F, et al. Bowel Disorders. Gastroenterology. 2016.](https://pubmed.ncbi.nlm.nih.gov/27144627/)
 
 {{%/sources%}}

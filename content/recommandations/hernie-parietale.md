@@ -183,4 +183,8 @@ graph TB
 - [Faucheron JL. Hernie inguinale de l'adulte. Item 245. Mars 2005.](https://doczz.fr/doc/2579938/hernie-inguinale-de-l-adulte--245a-)
 - [Sauvat F. Urgences en chirurgie viscérale pédiatrique. (PDF)](https://urgences-serveur.fr/IMG/pdf/Urg_chir_pediatriques.pdf)
 
+### Bibliographie en attente
+
+[Daly S, et al. SAGES guidelines for the surgical treatment of hiatal hernias. Surg Endosc. 2024. (payant)](https://link.springer.com/article/10.1007/s00464-024-11092-3)
+
 {{%/sources%}}

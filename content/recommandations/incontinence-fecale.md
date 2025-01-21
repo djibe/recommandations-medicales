@@ -8,26 +8,26 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-11T16:50:35+02:00"
 publishdate = "2023-04-12"
-lastmod = "2023-08-31"
+lastmod = "2025-01-21"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2020"
-sources = ["ESCP", "ASCRS", "SNFCP"]
+annees = "2023"
+sources = ["ASCRS", "ESCP", "SNFCP"]
 tags = ["demence", "geriatrie", "grossesse"]
 english = ["Fecal incontinence (FI)", "faecal incontinence"]
 sctid = "72042002"
 icd10 = ["R15"]
 image = true
 imageSrc = "Illustration de l'incontinence fécale (ou anale) par upklyak / Freepik"
-todo = "scores dont https://www.em-consulte.com/article/99993/validation-of-the-french-version-of-the-fecal-inco"
+todo = "scores"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
 - L'incontinence fécale est le passage incontrôlé de selles ou de gaz pendant au moins 3 mois chez un sujet de plus de 4 ans ayant acquis la propreté
-- L'examen clinique réalise l'enquête étiologique: antécédents, examens diététique, neurologique et pelvien
-- Prise en charge de première intention de l'incontinence fécale: mesures hygiéno-diététiques avec agenda du transit avec adaptations diététiques 1 par 1, régularisation du transit, rééducation pelvienne avec biofeedback, médicaments adaptés selon le transit
-- En cas de doute, d'anomalie ou de résistance, le suivi doit être spécialisé (NDLR)
+- L'examen clinique recherche la cause et le retentissement: antécédents, examens diététique, neurologique et pelvien
+- La prise en charge de première intention de l'incontinence fécale associe: mesures hygiéno-diététiques avec agenda du transit et adaptations diététiques une par une, régularisation du transit, rééducation pelvienne avec biofeedback, médicaments adaptés selon le transit
+- En cas de doute sur le diagnosic, d'anomalie à l'examen ou de résistance au traitement, le suivi doit être spécialisé par le proctologue
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -62,18 +62,18 @@ SNFCP
 - Participation aux dépistages généralisés des cancers
 - Tabagisme
 - Activité physique
-- Traitements en cours et automédication
-- Régime alimentaire
+- Traitements en cours, essayés et automédication
+- Régime alimentaire  
+  Dont facteurs favorisants: café, édulcorants, lactose, gluten.
 - Transit intestinal  
   Rythme et consistance des selles (étayer un [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) et [cancer colorectal]({{< relref "cancer-colorectal.md" >}})).
-- Symptômes anaux
+- Symptômes anaux:
   - Date d'apparition de l'incontinence anale
   - Rythme de survenue
   - Sévérité: [Fecal Incontinence Severity Index (FISI)](https://www.mdapp.co/fecal-incontinence-severity-index-fisi-calculator-234/), [St. Marks Incontinence Score](https://www.snfcp.org/questionnaires-outils/constipation-incontinence-troubles-fonctionnels/incontinence-score-de-vaizey-score-st-marks/) ou CCF
 - Autres symptômes: incontinence urinaire ([de la femme]({{< relref "incontinence-urinaire-femme.md" >}})), pesanteur de [prolapsus génital]({{< relref "prolapsus-genital-femme.md" >}})
-  - Qualité de vie: score FIQL
-- Troubles urinaires, incontinence urinaire
-- Signes négatifs: rectorragies, méléna
+- Signes négatifs: rectorragies, méléna, impériosité fécale, ténesme, glaires
+- Qualité de vie: score FIQL
 
 ### Examen clinique
 
@@ -94,7 +94,7 @@ Compléter le bilan d'une incontinence fécale avec NFS et glycémie à jeun ± 
 
 Le recours à la coloscopie est limité aux indications liées à une suspicion de malignité ou de maladie inflammatoire: apparition ou modification récente des symptômes après 50 ans, AEG, rectorragies ou [anémie]({{< relref "anemie.md" >}}).
 
-Les autres bilans relèvent d'une prescription spécialisée (ex: échographie endoanale).
+Les autres bilans relèvent d'une **prescription spécialisée** (échographie endoanale, explorations physiologiques anorectales).
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'incontinence fécale" %}}
@@ -110,7 +110,7 @@ Les premières mesures visent à obtenir une régularisation du transit et de la
 
 - Utiliser un agenda du transit et réaliser les changements un par un
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
-- Étudier: café, sucres et édulcorants, [lactose]({{< relref "intolerance-lactose.md" >}}) et [autres mesures si diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
+- Étudier: café, sucres et édulcorants, [lactose]({{< relref "intolerance-lactose.md" >}}), gluten et [autres mesures si diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
 - Boissons 1,5-2 L/j
 - Consultation diététique
 - Savon doux local et crème hydratante comme barrière cutanée
@@ -118,7 +118,7 @@ Les premières mesures visent à obtenir une régularisation du transit et de la
   Par kinésithérapeute ou sage-femme (sauf défaut sphinctérien). Exercices et **biofeedback**. 10-20 séances initiales.
 - Régularisation du transit intestinal
   - Si **[constipation]({{< relref "constipation.md" >}})**: augmenter les fibres, laxatifs ([macrogol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63229902&typedoc=R)) voire suppositoires ([glycérine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66177695&typedoc=R)) ou lavements (Microlax®, Norgalax® ou Normacol®)
-  - Si **diarrhées**: augmenter les fibres ± laxatifs mucilage ([ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68520477&typedoc=R) ou autre), sauf anomalie sphinctérienne
+  - Si **diarrhées**: augmenter les fibres ± laxatifs mucilage ([ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68520477&typedoc=R) ou autre)
 - Information du patient: [site SNFCP](https://www.snfcp.org/informations-maladies/constipation-et-incontinence/incontinence-fecale/)
 - L'acupuncture peut être considérée (*ESCP*)
 - Prise en charge des comorbidités: fistule, [prolapsus hémorroïdaire]({{< relref "hemorroides.md" >}})
@@ -126,7 +126,7 @@ Les premières mesures visent à obtenir une régularisation du transit et de la
 ### Traitements médicamenteux de l'incontinence fécale
 
 - Diarrhées, selles molles, liquides ou impérieuses: [lopéramide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61257269&typedoc=R)
-- Cholécystectomie ou de résection iléo-colique avec diarrhées: [cholestyramine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65691327&typedoc=R) (Questran®)
+- Cholécystectomie ou résection iléo-colique avec diarrhées: [cholestyramine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65691327&typedoc=R) (Questran®)
 
 Autres traitements possibles sur prescription spécialisée: antidépresseur tricyclique, clonidine voire recours aux opioïdes.
 
@@ -137,11 +137,11 @@ Traitements spécialisés possibles selon les anomalies retrouvées au bilan com
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'incontinence fécale" "show" %}}
 
-{{< mermaid title="Prise en charge de l'incontinence fécale. Dr JB Fron d'après ESCP et al 2022 et ASCRS 2015" >}}
+{{< mermaid title="Prise en charge de l'incontinence fécale. Dr JB Fron d'après ASCRS 2023 et autres" >}}
 graph TB
-  incontinence["<b>Incontinence fécale</b><br>—<br>Passage incontrôlé de<br>selles/gaz pendant ≥ 3 mois"] --> interrogatoire("<b>Interrogatoire</b><br>—<br>- Antécédents<br>- Traitements<br>- Régime, activité physique<br>- Transit<br>- Symptômes anaux<br>- Troubles urinaires<br>- Qualité de vie<br>- Drapeau rouge: rectorragie") --> examen("<b>Examen physique</b><br>—<br>- Mesures<br>- Examen neurologique<br>- Examen pelvien") --> rhd("<b>Mesures hygiéno-diététiques</b><br>—<br>Changements 1 par 1:<br>- Agenda du transit<br>- Étudier café, sucres,<br>édulcorants, lactose<br>- Boissons 1,5-2 L/j<br>- Cs diététique<br>- Savon doux local<br>- Rééducation périnéale<br>et abdominale<br>- Régularisation du<br>transit") -. Échec .-> spécialiste
+  incontinence["<b>Incontinence fécale</b><br>—<br>Passage incontrôlé de<br>selles/gaz pendant ≥ 3 mois"] --> interrogatoire("<b>Interrogatoire</b><br>—<br>- Antécédents<br>- Traitements<br>- Régime, activité physique<br>- Transit<br>- Symptômes anaux<br>- Troubles urinaires<br>- Qualité de vie<br>- Drapeau rouge: rectorragie") --> examen("<b>Examen physique</b><br>—<br>- Mesures<br>- Examen neurologique<br>- Examen pelvien") --> rhd("<b>Mesures hygiéno-diététiques</b><br>—<br>Changements 1 par 1:<br>- Agenda du transit<br>- Étudier café, sucres,<br>édulcorants, lactose, gluten<br>- Boissons 1,5-2 L/j<br>- Cs diététique<br>- Savon doux local<br>- Rééducation périnéale<br>et abdominale<br>- Régularisation du<br>transit") -. Échec .-> spécialiste
   style incontinence stroke:#4150f5, stroke-width:1px
-    examen -. Anomalie .-> bilan("Anomalie, AEG, rectorragie,<br>modification du transit<br>après 50 ans") --> spécialiste("Gastro-entérologue")
+    examen -. Anomalie .-> bilan("Anomalie, AEG, rectorragie,<br>ténesme, glaires,<br>modification du transit<br>après 50 ans") --> spécialiste("Gastro-entérologue")
 {{< /mermaid >}}
 
 {{% /collapse %}}
@@ -149,13 +149,11 @@ graph TB
 
 {{< youtube id="gniC0GCA4rY" title="Incontinence anale : que retenir ? (TutoGastro SNFGE 2023)" >}}
 
-- [Assmann S et al. Guideline for the diagnosis and treatment of Faecal Incontinence - A UEG/ESCP/ESNM/ESPCG collaboration. United European Gastroenterol J. 2022.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.12213)
-- [Paquette I et al. The American Society of Colon and Rectal Surgeons' Clinical Practice Guideline for the Treatment of Fecal Incontinence. Diseases of the Colon & Rectum. 2015.](https://journals.lww.com/dcrjournal/Fulltext/2015/07000/The_American_Society_of_Colon_and_Rectal_Surgeons_.2.aspx)
+- [Bordeianou L, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Fecal Incontinence. Diseases of the Colon & Rectum. 2023.](https://journals.lww.com/dcrjournal/Fulltext/2023/05000/The_American_Society_of_Colon_and_Rectal_Surgeons.6.aspx)
+- [Assmann S, et al. Guideline for the diagnosis and treatment of Faecal Incontinence - A UEG/ESCP/ESNM/ESPCG collaboration. United European Gastroenterol J. 2022.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.12213)
+- [Paquette I, et al. The American Society of Colon and Rectal Surgeons' Clinical Practice Guideline for the Treatment of Fecal Incontinence. Diseases of the Colon & Rectum. 2015.](https://journals.lww.com/dcrjournal/Fulltext/2015/07000/The_American_Society_of_Colon_and_Rectal_Surgeons_.2.aspx)
 - [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2015/2015-RPC-POSTPARTUM.pdf?x13417)
 - [SNFCP. Traitements de l'incontinence fécale. Recommandations. 2012. (PDF)](https://www.snfcp.org/wp-content/uploads/2017/Recommandations/Recommandation-IA-2013.pdf)
-
-### Bibliographie en attente
-
-- [Rullier E et al. Validation of the French version of the Fecal Incontinence Quality-of-Life (FIQL) scale. Gastroenterol Clin Biol. 2004.](https://pubmed.ncbi.nlm.nih.gov/15243389/)
+- [Rullier E, et al. Validation of the French version of the Fecal Incontinence Quality-of-Life (FIQL) scale. Gastroenterol Clin Biol. 2004.](https://pubmed.ncbi.nlm.nih.gov/15243389/)
 
 {{%/sources%}}

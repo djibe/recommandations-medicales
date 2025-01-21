@@ -219,4 +219,8 @@ graph TB
 - [HAS. Appendicectomie. Évaluation des technologies de santé. 2012.](https://www.has-sante.fr/jcms/c_1218019/fr/appendicectomie-elements-decisionnels-pour-une-indication-pertinente-rapport-d-evaluation)
 - [SNFGE. Appendicite aiguë.](https://www.snfge.org/grand-public/maladies-digestives/appendicite-aigue)
 
+### Bibliographie en attente
+
+[Kumar SS, et al. SAGES guideline for the diagnosis and treatment of appendicitis. Surg Endosc. 2024.](https://link.springer.com/article/10.1007/s00464-024-10813-y) (payant)
+
 {{%/sources%}}

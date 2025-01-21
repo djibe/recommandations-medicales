@@ -26,7 +26,7 @@ modele = true
 
 {{%article-summary%}}
 
-- Un TP bas (≤ 70% -- taux de prothrombine) ou un TCA allongé (≥ 1,2) doit être exploré. TP et TCA doivent toujours être interprétés ensemble, en commençant par le TP
+- Un TP bas (taux de prothrombine ≤ 70%) ou un TCA allongé (≥ 1,2) doit être exploré. TP et TCA doivent toujours être interprétés ensemble, en commençant par le TP
 - L'examen clinique précise le syndrome hémorragique: antécédents, traitements anticoagulant, ancienneté, localisation des saignements et caractère spontané ou non. Examen physique cutanéo-muqueux, articulaire et des masses musculaires
 - Le bilan initial du syndrome hémorragique comprend: NFS-plaquettes, TP, TCA. En cas de syndrome hémorragique franc: facteurs VIII, IX, XI ± facteur Willebrand antigène et activité
   - En cas de TP bas, compléter le bilan: Facteurs II, V, VII et X, fibrinogène
@@ -219,6 +219,8 @@ graph TB
 
 - Facteurs II, V, VII et X
 - Fibrinogène
+
+---
 
 ### Bilan d'un TCA supérieur à 1,2 (avec un TP normal)
 
