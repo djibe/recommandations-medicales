@@ -550,6 +550,8 @@ Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch par semaine (sur fess
 | Association         | Estradiol + lévonorgestrel | Femseptcombi, Femseptevo                                                      |                         50/7, 50/10 |
 {{< /table >}}
 
+Pour l'insuffisance ovarienne prématurée, viser au moins 100 µg d'estradiol transdermique (*ESHRE 2024*).
+
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus sur le THM" %}}
 

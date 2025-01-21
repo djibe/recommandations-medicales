@@ -96,7 +96,7 @@ La prise en charge des bouchons de cérumen est possible selon 4 traitements pou
 
 - Mesures d'hygiènes seules et contrôle
 - Agents céruménolytiques: [Cérulyse 5%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69170503&typedoc=R) 1 bain d'oreille x 3/j pendant 3-5 jours (seule spécialité en France)  
-  Contre-indiqué avant 3 ans et en cas de perforation tympanique.
+  Contre-indiqué avant 3 ans et en cas de perforation tympanique. Alternative: sérum physiologique.
 - Irrigation du conduit auditif  
   À l'eau chaude. Éviter en cas d'otite externe, chirurgie de l'oreille ou ATT, immunodépression et chez le diabétique.
 - Extraction instrumentale  
@@ -112,7 +112,7 @@ L'**éducation aux mesures d'hygiène** (voir [Mesures d'hygiène](#mesures-dhyg
 
 - Agents céruménolytiques: absence de complications
 - Irrigation: perforation du tympan, douleurs, vertiges, plaie du conduit, infections chez les immunodéprimés
-- Extraction manuelle: plaie du conduit, perforation du tympan, otite externe, douleurs, traumatisme phonique
+- Extraction manuelle: plaie du conduit, perforation du tympan, [otite externe]({{< relref "otite-externe.md" >}}), douleurs, traumatisme phonique
 
 {{% /collapse %}}
 {{%collapse "Mesures d'hygiène des oreilles" %}}
