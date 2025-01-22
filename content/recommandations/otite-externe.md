@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-01-19T10:59:17+01:00"
 publishdate = "2025-01-21"
-lastmod = "2025-01-21"
+lastmod = "2025-01-22"
 specialites = ["ORL"]
 annees = "2009"
 sources = ["SFORL"]
@@ -26,7 +26,7 @@ modele = true
 - L'otite externe est une inflammation diffuse du conduit auditif externe le plus souvent bactérienne
 - Le diagnostic d'otite externe est clinique par otoscopie avec examen du tympan et recherche des signes de gravité (AEG, otalgie sévère, résistance au traitement, paralysie des nerfs crâniens)
 - La prise en charge de l'otite externe bactérienne consiste en des instillations d'antibiotique: ofloxacine matin et soir pendant 7 jours
-- En cas d'otomycose, le traitement est l'Auricularum 2 fois par jour pendant 15 jours (voire 3 semaines)
+- En cas d'otomycose, le traitement est l'Auricularum 5 à 10 gouttes 2 fois par jour pendant 15 jours (voire 3 semaines)
 - Avis spécialisé ORL en cas d'échec du traitement, en urgence en cas de signes de gravité
 
 {{%/article-summary%}}
@@ -121,7 +121,7 @@ Recommandations pour la prise en charge de l'otite externe:
   - Pendant 5 à 10 jours
   - Si **perforation tympanique** ou grossesse ([CRAT](https://www.lecrat.fr/6625/)): [ofloxacine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66256370&typedoc=R) 10 gouttes matin et soir pendant 7 à 10 jours  
     Traitement de référence selon Prescrire dans tous les cas.
-  - Si **otomycose**: aspiration des sécrétions, nystatine associée [Auricularum](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66592652&typedoc=R) x 2/j pendant 15 jours (21 jours si nécessaire -- *SFORL 2001*)
+  - Si **otomycose**: aspiration des sécrétions, nystatine associée [Auricularum](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66592652&typedoc=R) 5-10 gouttes x 2/j pendant 15 jours (21 jours si nécessaire -- *SFORL 2001*)
 - **Antalgie:** palier 1 voire 2
 - Information du patient:
   - [Guide otite externe Ameli](https://www.ameli.fr/assure/sante/themes/otite-externe)
@@ -169,6 +169,6 @@ Antalgique de palier 2 si nécessaire.
 ### Traitement de l'otomycose
 
 - Aspiration des sécrétions
-- [Auricularum](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66592652&typedoc=R) x 2/j pendant 15 jours
+- [Auricularum](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66592652&typedoc=R) 5 à 10 gouttes x 2/j pendant 15 jours
 
 {{% /modele %}}
