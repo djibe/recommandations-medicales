@@ -167,7 +167,11 @@ graph TB
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-19-0.php)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Pathologie du fer chez l'adulte et l'enfant. Item 219 UE 8. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-24-0.php)
 - Prescrire Redaction. Diphosphonates : pseudo-gouttes. Rev Prescrire. 2014.
-- [Zhang W et al. EULAR recommendations for calcium pyrophosphate deposition. Part I: terminology and diagnosis. Ann Rheum Dis. 2011.](https://ard.bmj.com/content/70/4/563)
-- [Zhang W et al. EULAR recommendations for calcium pyrophosphate deposition. Part II: Management. Ann Rheum Dis. 2011.](https://ard.bmj.com/content/70/4/571)
+- [Zhang W, et al. EULAR recommendations for calcium pyrophosphate deposition. Part I: terminology and diagnosis. Ann Rheum Dis. 2011.](https://ard.bmj.com/content/70/4/563)
+- [Zhang W, et al. EULAR recommendations for calcium pyrophosphate deposition. Part II: Management. Ann Rheum Dis. 2011.](https://ard.bmj.com/content/70/4/571)
+
+### Bibliographie en attente
+
+[Abhishek A, et al. The 2023 ACR/EULAR classification criteria for calcium pyrophosphate deposition disease. Annals of the Rheumatic Diseases. 2023.](https://ard.bmj.com/content/82/10/1248)
 
 {{%/sources%}}

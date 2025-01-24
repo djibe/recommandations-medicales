@@ -217,6 +217,10 @@ graph TB
 - [HAS, INCa. Cancer primitif du foie. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_1005121/fr/ald-n-30-cancer-primitif-du-foie)
 - [HAS, INCa. Cancer primitif du foie. Guide Affection de longue durée. 2010. (PDF)](https://www.e-cancer.fr/content/download/95938/1021348/file/GUIALDFOIE10.pdf)
 
+### Bibliographie en attente
+
+[Sangro B, et al; European Association for the Study of the Liver (EASL). EASL Clinical Practice Guidelines on the management of hepatocellular carcinoma. J Hepatol. 2025.](https://www.journal-of-hepatology.eu/article/S0168-8278(24)02508-X/fulltext)
+
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
 

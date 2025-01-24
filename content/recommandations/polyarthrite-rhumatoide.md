@@ -362,6 +362,7 @@ graph TB
 
 - [Fautrel B, et al. 2024 update of the recommendations of the French Society of Rheumatology for the diagnosis and management of patients with rheumatoid arthritis. Joint Bone Spine. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X24001015)
 - [Johnson SR, et al. 2023 American College of Rheumatology (ACR)/American College of Chest Physicians (CHEST) Guideline for the Screening and Monitoring of Interstitial Lung Disease in People with Systemic Autoimmune Rheumatic Diseases. Arthritis Care Res (Hoboken). 2024.](https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/acr.25347)
+- [Fragoulis GE, et al. 2022 EULAR recommendations for screening and prophylaxis of chronic and opportunistic infections in adults with autoimmune inflammatory rheumatic diseases. Annals of the Rheumatic Diseases. 2023](https://ard.bmj.com/content/82/6/742)
 
 {{%/sources%}}
 {{% modele %}}

@@ -344,6 +344,8 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< rel
 
 {{< card-link-external title="MOOC Santé mentale périnatale au cours des 1000 premiers jours" subtitle="EPSM et PATH ..." url="https://pns-mooc.com/fr/mooc/25/presentation">}}
 
+{{< card-link-external title="MOOC La prévention des risques environnementaux chez la femme enceinte et l'enfant" url="https://www.pns-mooc.com/fr/mooc/22/presentation" subtitle="par APHP, ARS IDF, PRSE3, PRSE4" >}}
+
 {{< youtube id="NA3R3ZdaBew" title="Déni de grossesse : percevoir les grossesses non perçues (Pédagogie Numérique en Santé)" >}}
 
 {{% /collapse %}}

@@ -230,7 +230,7 @@ Présentation de pneumonie aiguë communautaire bactérienne **la plus fréquent
 
 ### Tableau de légionellose (pneumonie à Legionella spp)
 
-- Population à risque: voyage, termes, comorbidités, âge avancé, immunodépression, tabagisme
+- Population à risque: voyage, thermes, comorbidités, âge avancé, immunodépression, tabagisme
 - Contamination par voie respiratoire non inter-humaine (aérosol d'eau contaminée, climatisation)
 - Tableau bruyant rapidement progressif
 - Antigénurie légionelle et culture sur prélèvements respiratoires, [hyponatrémie]({{< relref "hyponatremie.md" >}}), rhabdomyolyse

@@ -2,13 +2,12 @@
 id = "0190e8c3-a9c6-73e6-b231-522bbe45827c"
 title = "Grippe saisonnière"
 prefix = "la "
-noindex = true
 description = "Recommandations pour la prise en charge de la grippe. Indications à la vaccination et aux antiviraux, personne à risque de forme grave, grippe pendant grossesse"
 synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2024-09-17"
+lastmod = "2025-01-24"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2024"
 sources = ["MinSanté", "HAS"]
@@ -18,16 +17,17 @@ sctid = "6142004"
 icd10 = ["J09", "J10", "J11"]
 image = true
 imageSrc = "Particules de virus grippal H1N1 en microscopie électronique: les protéines de surface sont en noir. NIAID, CC BY 2.0 via Wikimedia Commons"
-todo = "SEO, flowchart, grippe grossesse, antiviral"
+todo = "SEO, flowchart, grippe grossesse"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Vaccination annuelle contre la grippe des personnes à risque de forme grave (+65 ans, grossesse, ...) à partir de mi-octobre (en métropole)
+- La grippe est une maladie infectieuse respiratoire fréquente, très contagieuse, interhumaine stricte, due au virus à ARN *Myxovirus influenzae*
+- Prévention des formes graves de la grippe par la vaccination annuelle des personnes à risque (+65 ans, grossesse, ...) à partir de mi-octobre (en métropole)
 - Le vaccin ne donne évidemment pas de syndrome grippal puisqu'il ne contient que quelques protéines de surface virales
 - Le rappel antigrippal est couplé à la vaccination Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*)
-- L'oseltamivir n'est pas remboursé
+- L'antiviral oseltamivir n'est pas remboursé, faute d'efficacité suffisante
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -107,9 +107,7 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-### Diagnostic différentiel de la grippe
-
-Autres étiologies de toux aiguë:
+Autres causes de toux aiguë à rechercher devant un syndrome grippal:
 
 - Infectieuse
   - [Covid-19]({{< relref "covid-19.md" >}})
@@ -157,27 +155,25 @@ Vaccins contre la grippe disponibles en France pour la campagne vaccinale pour l
 
 Le vaccin intranasal Fluenz Tetra® n'est pas disponible en France.
 
-La campagne de vaccination a commencé le ==15 octobre 2024== (*DGS Urgent 2024_17*).
+La campagne de vaccination a commencé le ==15 octobre 2024== (*DGS Urgent 2024_17*), prolongée jusqu'au 28 février 2025.
 
-Pas de délai à respecter entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
+Pas de délai à respecter entre les vaccins anti-grippaux et anti Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
 
 La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance (décret paru mais en attente de la convention par l'Assurance Maladie).
 
 ### Pour en savoir plus: Bénéfices de la vaccination antigrippale
 
-Chez l'adulte sain, réduit de 29% (65% chez +60 ans) le nombre de cas de syndromes grippaux et de 65% le nombre de cas de grippes.
-
-Chez le sujet vivant en établissement, la vaccination réduit la survenue de pathologie respiratoire (56%), [pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}}) (53%), hospitalisation (50%), décès (68%).
-
-Le vaccin anti-grippal ne donne pas de syndrome grippal (ce n'est pas un vaccin vivant).
+> Le vaccin anti-grippal ne donne pas de syndrome grippal (ce n'est pas un vaccin vivant).
 {.alert .alert-warning}
+
+Chez l'adulte sain, la vaccination antigrippale réduit de 29% (65% chez +60 ans) le nombre de cas de syndromes grippaux et de 65% le nombre de cas de grippes.
+
+Chez le sujet vivant en établissement, la vaccination réduit la survenue de pathologie respiratoire (56%), [pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}}) (53%), hospitalisation (50%) et décès (68%).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la grippe" %}}
 
-Prise en charge symptomatique de la grippe saisonnière non compliquée.
-
-**Isolement** pour limiter la transmission.
+La prise en charge de la grippe non compliquée est **symptomatique**, avec un **isolement** pour limiter la transmission.
 
 Contre-indications aux anti-inflammatoires (AINS, aspirine et corticoïdes). Les antitussifs et fluidifiants bronchiques sont inefficaces.
 {.alert .alert-warning}
@@ -218,7 +214,7 @@ graph TB
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
-- [Hanula R et al. Evaluation of Oseltamivir Used to Prevent Hospitalization in Outpatients With Influenza: A Systematic Review and Meta-analysis. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2805976)
+- [Hanula R, et al. Evaluation of Oseltamivir Used to Prevent Hospitalization in Outpatients With Influenza: A Systematic Review and Meta-analysis. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2805976)
 - [CMIT. Grippe. Item 166. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-166.pdf)
 - [HAS. Tamiflu (oseltamivir). Commission de la transparence. 24/06/2020.](https://www.has-sante.fr/jcms/p_3191478)
 - Prescrire Redaction. Grippe saisonnière. Rev Prescrire. 2022.

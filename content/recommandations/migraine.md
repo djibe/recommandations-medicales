@@ -92,6 +92,7 @@ SFEMC
   France: 21,3% des adultes remplissent les critères de la migraine ICHD-3.
 - 2^e^ maladie la plus importante responsable d'*années vécues avec une incapacité* (AVI, *OMS 2016*)
 - 50% ont au moins 2 crises par mois; 40% ont durée +24h; 50% ont intensité sévère à très sévère
+- La prise en charge par les généralistes est déficiente (28% sans triptans, 1/3 sans AINS et le traitement de fond rare -- [Lucas C et al 2024](https://www.sciencedirect.com/science/article/abs/pii/S0035378724000845))
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}

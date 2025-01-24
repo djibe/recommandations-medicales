@@ -242,7 +242,7 @@ graph TB
 {{< youtube id="YdGoM7KWe6s" title="Le Fib4 : un intérêt pronostique chez les diabétiques et/ou obèses ? (CREGG)" >}}
 
 - [Académie Nationale de Médecine. Stéatose hépatique non alcoolique : maladie fréquente, diagnostic devenu facile, prévention indispensable. 16/12/2022.](https://www.academie-medecine.fr/steatose-hepatique-non-alcoolique-maladie-frequente-diagnostic-devenu-facile-prevention-indispensable/)
-- [Berzigotti A et al. EASL Clinical Practice Guidelines on non-invasive tests for evaluation of liver disease severity and prognosis - 2021 update. Journal of Hepatology. 2021.](https://www.journal-of-hepatology.eu/article/S0168-8278(21)00398-6/fulltext)
+- [Berzigotti A, et al. EASL Clinical Practice Guidelines on non-invasive tests for evaluation of liver disease severity and prognosis - 2021 update. Journal of Hepatology. 2021.](https://www.journal-of-hepatology.eu/article/S0168-8278(21)00398-6/fulltext)
 - {{< references/esc-cvd >}}
 - {{< references/afef-foie-non-invasif >}}
 - [Serfaty L. Diagnostic de la NASH. Conseil de pratique. SNFGE, AFEF. 2019. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp017_serfaty_2019_avec_figuresv2_0.pdf)
@@ -252,8 +252,9 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Newsome PN et al; BSG. Guidelines on the management of abnormal liver blood tests. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5754852/)
-- [Leung PB et al. Diagnosis and Management of Nonalcoholic Fatty Liver Disease. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2810964)
+- [European Association for the Study of the Liver (EASL); European Association for the Study of Diabetes (EASD); European Association for the Study of Obesity (EASO). EASL-EASD-EASO Clinical Practice Guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD). J Hepatol. 2024.](https://www.journal-of-hepatology.eu/article/S0168-8278(24)00329-5/fulltext)
+- [Newsome PN, et al; BSG. Guidelines on the management of abnormal liver blood tests. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5754852/)
+- [Leung PB, et al. Diagnosis and Management of Nonalcoholic Fatty Liver Disease. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2810964)
 - [Brissot P, Buffet C. Rapport 23-02. Le foie stéatosique non alcoolique : un défi de santé publique. Académie de médecine. 2023.](https://www.academie-medecine.fr/le-foie-steatosique-non-alcoolique-un-defi-de-sante-publique/)
 - EASD
 

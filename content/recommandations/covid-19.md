@@ -215,6 +215,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="lqPQbjeOyog" title="Symptômes prolongés de la Covid-19 chez l'adulte - 15 avril 2021 (HAS)" >}}
+
 ### Haut Conseil de la Santé Publique
 
 - [HCSP. Covid-19 : actualisation de la liste des facteurs de risque de forme grave. 14/11/2020.](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=942)
@@ -236,6 +238,12 @@ graph TB
 - [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe !. 13/05/2020](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
 - Santé Publique France. Définition de cas d'infection au SARS-CoV-2 (COVID-19). MAJ 07/05/2020.
 - [HCSP. Covid-19 : personnes à risque et mesures barrières spécifiques à ces personnes. 20/04/2020](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=807)
+
+### Bibliographie en attente
+
+- [HAS. Symptômes prolongés suite à une Covid-19 de l'adulte - Diagnostic et prise en charge. 2024.](https://www.has-sante.fr/jcms/p_3237041/fr/symptomes-prolonges-suite-a-une-covid-19-de-l-adulte-diagnostic-et-prise-en-charge)
+- [HAS. Fiches](https://www.has-sante.fr/jcms/p_3237041/fr/symptomes-prolonges-suite-a-une-covid-19-de-l-adulte-diagnostic-et-prise-en-charge)
+- [Vaccination Covid 19 HAS](https://www.has-sante.fr/jcms/p_3178533/fr/vaccination-dans-le-cadre-de-la-covid-19)
 
 {{%/sources%}}
 {{% modal title="Personnes à risque de forme grave de Covid-19" id="modal-grave"%}}
