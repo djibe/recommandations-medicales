@@ -35,8 +35,6 @@ Parmi les examens de biologie dont la mesure ambulatoire semble étonnante, on r
 - 780.000 dosages de toponine pour 9,2 millions €
 - 450.000 dosages d'anticorps anti-hyroglobuline pour 4,3 millions €  
   {{%class%}}Indications: suivi à 6-12 mois d'un cancer de la thyroïde (7684 cas annuels), hypothyroïdie du sujet jeune de suspicion auto-immune avec anti-TPO négatifs.{{%/class%}}
-- 216.000 mesures d'alpha-fœtoprotéine (AFP) pour 2,2 millions €  
-  {{%class%}}Indications: cancer du testicule et pronostic du CHC.{{%/class%}}
 - Beaucoup de T3L (1,5 millions) alors que la seule indication est la très rare hyperthyroïdie à T4L normale
 
 Et pour rire, 12.500 femmes ont un eu **dosage du PSA** (cancer de la prostate) par leur généraliste en 2023.
