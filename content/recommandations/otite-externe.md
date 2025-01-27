@@ -29,6 +29,8 @@ modele = true
 - En cas d'otomycose, le traitement est l'Auricularum 5 à 10 gouttes 2 fois par jour pendant 15 jours (voire 3 semaines)
 - Avis spécialisé ORL en cas d'échec du traitement, en urgence en cas de signes de gravité
 
+Chapitre lié: [otite moyenne aiguë]({{< relref "otite-moyenne-aigue.md" >}})
+
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 

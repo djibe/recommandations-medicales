@@ -183,13 +183,12 @@ Une anémie par carence martiale pendant la **grossesse** dispense du bilan éti
 
 Prise en charge de l'anémie par supplémentation et fer puis surveillance de la remontée de l'hémoglobine à 1 mois, mensuelle jusqu'à correction de l'anémie, trimestrielle pendant 1 an puis semestrielle pendant 2-3 ans.
 
-{{< table title="Supplémentations en fers fumarate, gluconate et sulfate disponibles en France en 2024. Dr JB Fron d'après *BDPM*" >}}
+{{< table title="Supplémentations en fers fumarate, gluconate et sulfate disponibles en France en 2025. Dr JB Fron d'après *BDPM*" >}}
 | Spécialité             | Famille  | Fer élément (mg) |
 |------------------------|----------|-----------------:|
 | Fer AP-HP 0,5 gél      | Sulfate  |              0,5 |
 | Fumafer 66 mg cp       | Fumarate |               66 |
 | Tardyferon 50 ou 80 mg | Sulfate  |         50 ou 80 |
-| Tardyferon 20 mg/mL    | Sulfate  |            20/mL |
 | Timoferol cp ou gél    | Sulfate  |               50 |
 {{< /table >}}
 

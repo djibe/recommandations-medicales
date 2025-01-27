@@ -117,7 +117,7 @@ Si échec à 48-72 heures: hospitalisation
 
   </div>
 
-Aide au choix de l'antibiothérapie pour pneumonie aiguë communautaire non grave en 2024. Réévaluation systématique à 72 heures (48-72 h chez l'enfant).
+Aide au choix de l'antibiothérapie pour pneumonie aiguë communautaire non grave en 2025. Réévaluation systématique à 72 heures (48-72 h chez l'enfant).
 {.typography-body-2 .text-black-secondary .mt-3}
 
 </div>

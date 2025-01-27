@@ -33,6 +33,8 @@ flowchart = true
 - La prévention de l'otite moyenne aiguë passe par les désobstructions rhinopharyngées (DRP) et la vaccination anti-pneumococcique et anti-*Haemophilus*
 - Participer à l'[étude ADOMA](https://docs.google.com/forms/d/e/1FAIpQLScbwnGzkxnx_kIhvCsOoPgvq887krPBXgIqul_0a2drnt0gAQ/viewform) en soins primaires pour l'antibiothérapie différée de l'otite
 
+Chapitre lié: [otite externe]({{< relref "otite-externe.md" >}})
+
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 

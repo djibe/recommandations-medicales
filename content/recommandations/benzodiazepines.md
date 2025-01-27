@@ -113,7 +113,7 @@ Respecter l'AMM de la spécialité:
 
 Diviser les doses d'initiation par 2 après 65 ans.
 
-{{< table title="Benzodiazépines et apparentés disponibles en France par voie orale en 2024. Dr JB Fron d'après *BDPM*" class="table-wrap" >}}
+{{< table title="Benzodiazépines et apparentés disponibles en France par voie orale en 2025. Dr JB Fron d'après *BDPM*" class="table-wrap" >}}
 | Molécule                 | Spécialité        | Demi-vie (h) | AMM                                |
 |--------------------------|-------------------|-------------:|------------------------------------|
 | Alprazolam               | Xanax, gén        |        10-20 | Anxiété, sevrage alcool            |
@@ -126,7 +126,7 @@ Diviser les doses d'initiation par 2 après 65 ans.
 | Loflazépate d'éthyle     | Victan            |           77 | Anxiété, sevrage alcool            |
 | Lorazépam                | Temesta, gén      |        10-20 | Anxiété, sevrage alcool            |
 | Lormétazépam             | Ex-noctamide, gén |         13,5 | Insomnie occasionnelle/transitoire |
-| Oxazépam                 | Seresta           |            8 | Anxiété, sevrage alcool            |
+| **Oxazépam**             | Seresta           |            8 | Anxiété, sevrage alcool            |
 | Prazépam                 | Lysanxia, gén     |           65 | Anxiété, sevrage alcool            |
 | Zolpidem ²               | Stilnox, gén      |          2,5 | Insomnie occasionnelle/transitoire |
 | Zopiclone                | Imovane, gén      |            5 | Insomnie occasionnelle/transitoire |

@@ -36,7 +36,7 @@ Ces recommandations visent à protéger les nourrissons non immuns et personnes 
   - Tous les vaccins de dTPolio sont désormais couplés à la coqueluche (BoostrixTetra ou Repevax)
   - [Vaccination coqueluche]({{< relref "vaccination.md" >}}) à chaque grossesse entre 20 et 36 SA
   - **Cocooning:** actuellement pour tout l'entourage dont le dernier rappel a plus de 5 ans (habituellement uniquement en l'absence de vaccination en fin de grossesse)
-  - Professionnels de santé en 2024: rappel coqueluche si +5 ans
+  - Professionnels de santé en 2025: rappel coqueluche si +5 ans
 - [Signalement à l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}) pour au moins 2 cas de coqueluche en collectivité ou intrafamiliaux
 
 {{%/article-summary%}}

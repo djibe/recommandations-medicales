@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2024-04-17"
+lastmod = "2025-01-26"
 specialites = ["gynecologie-obstetrique", "therapeutique", "urologie"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -170,7 +170,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 > [!INFO]
 > La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares (*CNGOF 2018*). Le risque d'infection haute est < 1%, même en cas de portage de gonocoque ou Chlamydia (*CNGOF 2018 IGH*).
 
-{{< table title="Spécialités de contraception disponibles en France en 2024 (sauf dernières générations et DMPA qui augmentent le risque vasculaire) et préservatifs remboursés. Dr JB Fron d'après *BDPM* et *Assurance Maladie*" class="table-wrap" id="table-pilule" >}}
+{{< table title="Spécialités de contraception disponibles en France en 2025 (sauf dernières générations et DMPA qui augmentent le risque vasculaire) et préservatifs remboursés. Dr JB Fron d'après *BDPM* et *Assurance Maladie*" class="table-wrap" id="table-pilule" >}}
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
 |-------------|---------:|------------------|-----------------|
 | 2G          | 30/40    | LNG 0,15-0,2     | Adepal, Pacilia |
@@ -186,8 +186,8 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 | Patch       | 20       | Norelgestromine 0,15 | NR: Evra (18-45 ans, < 90 kg) |
 | DIU cuivre  | 0        | 0                | 7Med, CCD, Mona Lisa. et [autre liste (PDF)](http://www.apima.org/img_bronner/Tableau_contraceptifs.pdf) |
 | DIU         | 0        | LNG              | Donasert, Kyleena, Mirena |
-| Préservatif | 0        | 0                | Be Loved, Eden, Sortez couverts ! Terpan |
-| Cape cervicale | 0     | 0                | Ormelle, Terpan  |
+| Préservatif | 0        | 0                | Be Loved, Eden, Eden perlés, Manix Classic, Sortez couverts !, Sure & Smile |
+| Cape cervicale | 0     | 0                | Be Loved free, Ormelle, So sexy & Smile  |
 {{< /table >}}
 
 > **EE** = éthinyl-estradiol ; **gén** = générique ; **LNG** = lévonorgestrel ; **NR** = non remboursé. Les pilules de 1^re^ génération ne sont plus disponibles en France.  
@@ -353,7 +353,7 @@ Le stérilet n'est pas un facteur d'infection pelvienne (sauf dans les 21 jours 
 - Contraception la plus efficace
 - Possible jusqu'à l'obésité morbide de 56 kg/m² pour une durée de 3 ans
 - Cotation CCAM
-  - Pose QZLA004 (17,99 €)
+  - Pose QZLA004 (18,38 €)
   - Ablation QZGA002 (41,80 €)
 
 {{% /collapse %}}

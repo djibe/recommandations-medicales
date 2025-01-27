@@ -264,7 +264,7 @@ Autres causes de toux et dyspnée chronique d'origine thoracique:
 
 La spirométrie est l'examen diagnostique et de suivi de référence: trouble ventilatoire obstructif (VEMS/CV post-bronchodilatateur < 0,7) et {{< modal-btn modal-severite-bpco >}}sévérité de l'obstruction bronchique (VEMS){{< /modal-btn >}}.
 
-Cotation CCAM: GLQP012 soit 40,28€.
+Cotation CCAM: GLQP012 soit 41,08 €.
 
 Les autres examens recherchent des complications.
 

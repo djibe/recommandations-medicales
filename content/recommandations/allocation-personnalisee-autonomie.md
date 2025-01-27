@@ -83,7 +83,7 @@ L'APA est versé à la personne ou directement au prestataire.
 
 ### Montants de l'APA
 
-{{< table title="Montants de l'Allocation Personnalisée d'Autonomie (APA) en 2024. Dr JB Fron d'après *Service-Public*" class="table-wrap">}}
+{{< table title="Montants de l'Allocation Personnalisée d'Autonomie (APA) en 2025. Dr JB Fron d'après *Service-Public*" class="table-wrap">}}
 | Situation         | Perte d'autonomie | Prestation (€/mois) |
 |-------------------|-------------------|--------------------:|
 | Personne confinée lit/fauteuil avec perte autonomie totale nécessitant des intervenants en continu | GIR 1 | 2045,56 |

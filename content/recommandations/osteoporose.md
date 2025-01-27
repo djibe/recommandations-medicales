@@ -186,7 +186,8 @@ Indications aux radiographies du rachis dorso-lombaire:
 - Antécédent de fracture vertébrale
 - Corticothérapie prolongée, anti-aromatase/androgène
 
-**Rappel.** Une fracture vertébrale du mur antérieur donne un **aspect cunéiforme**. Lorsque le tassement atteint toute la vertèbre, on parle de **vertèbre en galette**.
+> [!INFO]
+> Une fracture vertébrale du mur antérieur donne un **aspect cunéiforme**. Lorsque le tassement atteint toute la vertèbre, on parle de **vertèbre en galette**.
 
 ### Ostéodensitométrie (DXA)
 

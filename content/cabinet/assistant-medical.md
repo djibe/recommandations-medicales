@@ -5,9 +5,9 @@ noindex = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-11-15T16:02:00+02:00"
 publishdate = "2022-11-17"
-lastmod = "2024-12-20"
+lastmod = "2025-01-26"
 specialites = []
-annees = "2024"
+annees = "2025"
 sources = ["Assurance Maladie"]
 tags = []
 image = true
@@ -18,7 +18,7 @@ todo = "https://www.fiche-paie.net/page/fiche-de-paie-assistant-ou-assistante-me
 Le recours à un assistant médical est soutenu par l'Assurance Maladie depuis 2019 afin de recentrer la pratique du médecin généraliste sur les soins. Le *règlement arbitral* de 2023 a rendu pérenne la participation au financement de l'assistant médical.
 {.lead}
 
-Les assistants médicaux permettent de gérer les appels et les demandes bénignes, installer le patient et préparer la consultation, faire le point sur les dépistages, aider pour certains actes ou toute autre tâche améliorant la pratique quotidienne.
+Les assistants médicaux permettent de déléguer les appels et les demandes administratives, installer le patient et préparer la consultation, faire le point sur les dépistages, aider pour certains actes ou toute autre tâche améliorant la pratique quotidienne.
 
 {{< card-link title="Aides à l'installation du généraliste" url="/cabinet/aides-installation-generaliste/">}}
 
@@ -34,6 +34,8 @@ Le médecin généraliste doit remplir 2 critères:
 
 1. **Secteur 1 ou Secteur 2 Optam ou Optam-Co**
 2. Patientèle médecin traitant de 775+ patients annuels (de +16 ans)
+
+> **NB.** Un 2^e^ assistant médical peut être financé en ZIP en cas d'objectifs remplis.
 
 En contrepartie, le médecin s'engage à augmenter sa patientèle selon un objectif individuel calculé selon son activité actuelle (simple maintien en cas de forte patientèle). L'objectif entre en vigueur à partir de la troisième année du contrat.
 
@@ -65,7 +67,7 @@ Les aides versées par l'Assurance maladie entrent dans le bilan de l'entreprise
 |             1 |          38.000 |     28.000 |  22.000 |                26.000 |     38.000 |
 {{< /table >}}
 
-> **Forte patientèle =** médecins parmi les 10% les plus actifs (P90-P95 soit ? patients) ; très forte = > P95 (soit ? patients)
+> **Forte patientèle =** médecins parmi les 10% les plus actifs (P90-P94 soit ? patients) ; très forte = > P95 (soit ? patients)
 
 {{% /collapse %}}
 {{%collapse "Estimer le coût d'un assistant médical" %}}
@@ -111,11 +113,13 @@ Toutefois, toute personne peut commencer la collaboration sous réserve de passe
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ameli Médecin. Aide à l'emploi d'un assistant médical : ce qui change dès juin 2024. 27/06/2024.](https://www.ameli.fr/medecin/actualites/aide-l-emploi-d-un-assistant-medical-ce-qui-change-des-juin-2024)
 - [Ameli Médecin. Assistant médical : simplifier ses démarches de recrutement avec le Titre emploi service entreprise. 25/01/2024.](https://www.ameli.fr/medecin/actualites/assistant-medical-simplifier-ses-demarches-de-recrutement-avec-le-titre-emploi-service-entreprise)
 - [Ameli Médecin. L'aide à l'emploi d'assistants médicaux dans les cabinets libéraux. 14/11/2023.](https://www.ameli.fr/hauts-de-seine/medecin/exercice-liberal/vie-cabinet/aides-financieres/aide-emploi-assistants-medicaux)
 - [Ameli Médecin. Emploi d'un assistant médical : nouvel outil en ligne pour simuler facilement son aide financière. 20/10/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/emploi-d-un-assistant-medical-nouvel-outil-en-ligne-pour-simuler-facilement-son-aide-financiere)
+- [Arrêté du 28 avril 2023 portant approbation du règlement arbitral organisant les rapports entre les médecins libéraux et l'assurance maladie](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047507132)
 - [Ameli. Assistant médical - Un professionnel pour vous faire gagner du temps au service de vos patients. 2023. (PDF)](https://www.ameli.fr/sites/default/files/Documents/Assistant%20medical-Brochure-Medecin%20liberal.pdf)
-- [Ameli Médecin. Assistants médicaux : un levier pour renforcer l'accès aux soins dans les territoires. 28/10/2022.](https://www.ameli.fr/medecin/actualites/assistants-medicaux-un-levier-pour-renforcer-l-acces-aux-soins-dans-les-territoires)
+- Ameli Médecin. Assistants médicaux : un levier pour renforcer l'accès aux soins dans les territoires. 28/10/2022.
 - [Arrêté du 7 novembre 2019 relatif à l'exercice de l'activité d'assistant médical](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039364029)
 - [Site de la Convention collective nationale du personnel des cabinets médicaux](https://ccn-cabinets-medicaux.fr/assistants-medicaux)
 - [Légifrance. Convention collective nationale du personnel des cabinets médicaux du 14 octobre 1981.](https://www.legifrance.gouv.fr/conv_coll/id/KALICONT000005635409/)

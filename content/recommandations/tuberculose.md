@@ -35,7 +35,7 @@ Le vaccin BCG (BCG AJVaccines®) est disponible uniquement en centre de vaccinat
 
 Le BCG est réalisé à partir d'un mois, idéalement à **2 mois** et rattrapé **jusqu'à 15 ans**.
 
-### Indications au BCG en 2024
+### Indications au BCG en 2025
 
 Le BCG est indiqué en cas de risque élevé de tuberculose parmi:
 
