@@ -51,6 +51,8 @@ df.loc[df['procedure'] == 'Procédure centralisée', 'procedure'] = 'Yes'
 
 df['libelle'] = df['libelle'].str.replace(r'(?i)\bPOUR CENT\b', '%', regex=True)
 df['libelle'] = df['libelle'].str.replace(r'(?i)\bL.P.\b', 'LP', regex=True)
+df['libelle'] = df['libelle'].replace(['L.P.', 'L. P.'], 'LP')
+df['libelle'] = df['libelle'].str.replace(r' à libération prolongée', '', regex=False)
 df2['dci'] = df2['dci'].str.replace(r'(?i)\bPOUR CENT\b', '%', regex=True)
 
 unwanted_libelle_values = ["BOIRON", "COMPLEXE N", "COMPOSE", "VOMICA", "2CH", "3CH", "4CH", "5CH", "6CH", "8CH"]
@@ -68,7 +70,7 @@ df_filtered = df[
 # Filter duplicates
 unwanted_words = [' ACCORD', ' AGEPHA', ' AHCL', ' ALMUS', ' ALPEX', ' ALTER', ' AP-HP', ' ARROW', ' ARROW GENERIQUES', ' BETAPHARM', ' BGR', ' BIOGARAN', ' BLUEFISH', \
   ' CCD', ' CHAUVIN', ' CHEMINEAU', ' CHIESI', ' CONSEIL', ' Conseil', ' CRINEX', ' CRISTERS', ' CRISTERS PHARMA', ' DIPHARMA', ' EG LABO', ' EG', ' EVOLUGEN', ' FRANCE', ' GEN.ORPH', ' GENERIQUES', ' GERDA', ' GIFRER', ' HCS', ' HEALTHCARE', ' HIKMA', ' IBSA', ' K.S', ' KRKA', \
-  ' LABORATOIRES ALTER', ' MYLAN', ' NEURAXPHARM', ' NOR', ' PANPHARMA', ' PFIZER', ' PHARMA', ' PIERRE FABRE', ' QUIVER', ' REF', ' RICHARD' \
+  ' LABORATOIRES ALTER', ' MYLAN', ' NEURAXPHARM', ' NOR', ' PANPHARMA', ' PFIZER', ' PHARMA', ' PIERRE FABRE', ' QUIVER', ' REF', ' RICHARD', \
   ' SANDOZ', ' SANTE', ' SFDB', ' SUBSTIPHARM', ' SUN', ' TEVA', ' TILLOMED', ' UPSA', ' VIATRIS', ' VJ-PHARM', ' WAYMADE', ' ZENTIVA', ' ZF', ' ZYDUS', \
   ' (rapport amoxicilline/acide clavulanique : 8/1)', ' (rapport amoxicilline/acide clavulanique: 8/1)', ' (Rapport Amoxicilline/Acide clavulanique : 8/1)', ' en flacon', \
   ' LAB', ' LABO']
