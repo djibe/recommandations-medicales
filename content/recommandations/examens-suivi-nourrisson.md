@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2020-06-02T11:57:29+02:00"
 publishdate = "2020-06-02"
-lastmod = "2025-01-05"
+lastmod = "2025-02-02"
 specialites = ["pediatrie"]
 annees = "2025"
 sources = ["MinSanté", "Service-Public"]
@@ -91,7 +91,7 @@ Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{
 {{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Décret n° 2024-694* et *Calendrier Vaccinal 2024*" >}}
 |          Âge          | Valences                                                                                  | Spécialités équivalentes                                                                                        |
 |:---------------------:|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| Né après<br>le 1/1/24 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}})                                           | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
+| ~~Né après~~<br>le (suspendu) | [Ig anti-VRS]({{< relref "bronchiolite.md" >}})                                   | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
 |        2 mois         | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus                                                    | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 1/3, Rotarix 1/2                          |
 |        3 mois         | Méningo B<br>Rotavirus<br>(Prématuré: + pneumocoque +<br>DTCaP-Hib-HB selon GPIP/Infovac) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance)                                               |
 |        4 mois         | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus                                                    | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3                                       |

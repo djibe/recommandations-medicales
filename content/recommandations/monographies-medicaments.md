@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-07-19T11:38:45+02:00"
 publishdate = "2024-07-19"
-lastmod = "2025-01-04"
+lastmod = "2025-02-02"
 specialites = ["therapeutique"]
 annees = "2025"
 sources = ["BDPM"]
@@ -62,9 +62,9 @@ data.forEach(item => {
   a.classList.add('list-group-item', 'list-group-item-action');
   a.dataset.dci = item.dci;
   medicationList.appendChild(a);
-});
-// Filtrer la liste des codes CIS en fonction de la recherche
-searchInput.addEventListener('keyup', () => {
+  });
+  // Filtrer la liste des codes CIS en fonction de la recherche
+  searchInput.addEventListener('input', () => {
     const filter = searchInput.value.toUpperCase();
     const li = medicationList.getElementsByTagName('a');
     let count = 0;
@@ -86,12 +86,12 @@ searchInput.addEventListener('keyup', () => {
   } else {
     noResults.style.display = "none"; // Masquer le message "Aucun résultat"
   }
-});
-} catch (error) {
-  console.error('Erreur lors du chargement des données :', error);
-} finally {
-   spinner.style.display = 'none'; // Masquer le spinner
-}
+  });
+  } catch (error) {
+    console.error('Erreur lors du chargement des données :', error);
+  } finally {
+    spinner.style.display = 'none'; // Masquer le spinner
+  }
 }
 loadData();
 </script>

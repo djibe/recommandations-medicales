@@ -6,8 +6,8 @@ description = "Outils et consignes de sécurité pour la protection des données
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-08T21:30:00+02:00"
 publishdate = "2023-10-09"
-lastmod = "2023-10-09"
-annees = "2023"
+lastmod = "2025-02-02"
+annees = "2025"
 sources = []
 tags = []
 image = true
@@ -36,7 +36,7 @@ Antivirus gratuits alternatifs: Avast Free, AVG Free, Bitdefender Free. Les mêm
 
 **Antivirus payants** de haute protection: Avira, Bitdefender, GDATA, McAfee.
 
-> L'antivirus russe Kaspersky n'est pas cité selon les [préconisations de l'ANSSI](https://www.cert.ssi.gouv.fr/cti/CERTFR-2022-CTI-001/) (Agence nationale de la sécurité des systèmes d'information).
+> L'antivirus russe *Kaspersky* n'est pas cité selon les [préconisations de l'ANSSI](https://www.cert.ssi.gouv.fr/cti/CERTFR-2022-CTI-001/) (Agence nationale de la sécurité des systèmes d'information).
 
 Sur Mac, un antivirus peut être ajouté, et les grands noms sont tous efficaces: Avast Free, AVG Free, Avira, Bitdefender, Trend Micro.
 
@@ -65,6 +65,10 @@ Les gestionnaires de mots de passe dédiés recommandés sont: 1Password, Bitwar
 {{< card-link-external title="SensCyber" url="https://www.cybermalveillance.gouv.fr/sens-cyber/apprendre" subtitle="Le site officiel CyberMalveillance du gouvernement" >}}
 
 {{< card-link-external title="Cours sur la sécurité" url="https://esante-formation.coorpacademy.com/catalog?goal=cert_hZZ6wT4v69" subtitle="par l'Agence du Numérique en Santé" >}}
+
+## Accompagnement en cas d'attaque informatique
+
+En cas de problème de sécurité informatique, vous pouvez commencer par appeler votre prestataire et consulter [17Cyber.gouv.fr](https://17cyber.gouv.fr)
 
 ## Sources
 

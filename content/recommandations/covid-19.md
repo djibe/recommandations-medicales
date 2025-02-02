@@ -225,7 +225,7 @@ graph TB
 
 ### Autres
 
-- [DGS-Urgent](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
+- [DGS-Urgent](https://sante.gouv.fr/professionnels/article/2025-dgs-urgent-03-fin-de-la-campagne-d-immunisation-des-nouveau-nes-et)
 - {{< references/calendrier-vaccinal >}}
 - [HAS, ANRS. Traitement de la Covid-19. 22/12/2023.](https://www.has-sante.fr/jcms/p_3447571/fr/traitement-de-la-covid-19)
 - [HAS. Stratégie de vaccination contre la Covid-19 : anticipation des campagnes de vaccination en 2023. 24/02/2023.](https://www.has-sante.fr/jcms/p_3417245/fr/strategie-de-vaccination-contre-la-covid-19-anticipation-des-campagnes-de-vaccination-en-2023)

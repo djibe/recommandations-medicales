@@ -17,6 +17,10 @@ main > .recommandation {
     color: #212121;
   }
 }
+.recommandation__content section > h2 + div,
+.recommandation__content footer > h2 + div {
+  max-width: 100%;
+}
 .recommandation__content section > h2:not([class]) {
   border-top: 0;
   color: #000 !important;

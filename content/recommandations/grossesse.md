@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2025-01-07"
+lastmod = "2025-02-02"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "HAS"]
@@ -197,7 +197,7 @@ const chartOptions3 = {
 - **Vaccinations**
   - Covid-19 et grippe d'octobre à janvier (possibles quelque soit le terme)
   - Coqueluche entre 20 et 36 SA à chaque grossesse
-  - Anti-VRS par Abrysvo une seule fois si terme de 32 à 36 SA de septembre à janvier  
+  - (**Suspendue**) Anti-VRS par Abrysvo une seule fois si terme de 32 à 36 SA de septembre à janvier  
     ou Beyfortus chez le nouveau-né à défaut.
   - Avant la grossesse: rattrapage rubéole et varicelle
 - **Activité physique**  
@@ -212,7 +212,7 @@ const chartOptions3 = {
 | 5e mois<br>20-24 SA || {{%tooltip "22 SA (20-25)"%}}Écho T2{{%/tooltip%}} | Vaccin coqueluche |
 | 6e mois<br>24-28 SA || {{%tooltip "L'USPTF trouve le dépistage inutile si asymptomatique"%}}NFS{{%/tooltip%}}, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} | ± Rattrapage coqueluche |
 | 7e mois<br>28-32 SA || {{%tooltip "32 SA (30-35)"%}}Écho T3{{%/tooltip%}} | {{%tooltip "28 SA: si mère RH-1- et fœtus RH-1+"%}}± Rhophylac® 300{{%/tooltip%}} ± Rattrapage coqueluche |
-| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, {{%tooltip "Entre 35 et 38 SA"%}}prélèvement vaginal (strepto B){{%/tooltip%}} | VitD 100.000 UI, {{%tooltip "De septembre à janvier"%}}Abrysvo{{%/tooltip%}}, ± rattrapage coqueluche, ± {{%tooltip "Herpès génital pdt la gs"%}}valaciclovir{{%/tooltip%}} |
+| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, {{%tooltip "Entre 35 et 38 SA"%}}prélèvement vaginal (strepto B){{%/tooltip%}} | VitD 100.000 UI, {{%tooltip "Suspendu - De septembre à janvier"%}}Abrysvo{{%/tooltip%}}, ± rattrapage coqueluche, ± {{%tooltip "Herpès génital pdt la gs"%}}valaciclovir{{%/tooltip%}} |
 | 9e mois<br>37-42 SA ||||
 {{< /table >}}
 

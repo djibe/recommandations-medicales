@@ -155,7 +155,7 @@ Prise en charge du diabète gestationnel par insuline lorsque les glycémies dé
 Prise en charge spécialisée par le médecin endocrinologue-diabétologue:
 
 - Autosurveillance glycémique systématique 4 à 6 fois par jour (à jeun, pré-prandiale et H2 post-prandiale)
-- Télésurveillance ([MyDiabby](https://www.mydiabby.com), ...)
+- Télésurveillance ([MyDiabby](https://www.mydiabby.com), [Glooko XT](https://glookoxt.com/) ...)
 
 #### Insulines autorisées pendant la grossesse
 

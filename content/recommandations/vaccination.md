@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2025-01-04"
+lastmod = "2025-02-02"
 specialites = ["infectiologie", "pediatrie", "therapeutique"]
 annees = "2025"
 sources = ["MinSanté", "HCSP"]
@@ -23,7 +23,7 @@ todo = "HAS EMLA, Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vac
 
 {{%article-summary%}}
 
-- Rappel vaccinal de [la coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA), stratégie de cocooning sinon, anti-VRS dose unique de 32 à 36 SA
+- Rappel vaccinal de [la coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA), stratégie de cocooning sinon, anti-VRS dose unique de 32 à 36 SA (suspendu depuis fin janvier)
 - Les pharmaciens formés peuvent prescrire et administrer à partir de 11 ans tous les vaccins du calendrier vaccinal, y compris le ROR (sauf immunodépression)
 - Vaccination des +16 ans par les infirmiers sans ordonnance pour: [grippe]({{< relref "grippe.md" >}}), dTcaPolio, [papillomavirus]({{< relref "cancer-col-uterus.md" >}}), pneumocoque, [hépatite A]({{< relref "hepatite-a.md" >}}) et [B]({{< relref "hepatite-b.md" >}}), méningocoques B et ACWY et la rage
 - Poser une question pour un cas vaccinal particulier: [Infovac App](https://app.infovac.fr) (nécessite de créer un compte)
@@ -60,10 +60,10 @@ VVA
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal 2025" "show" %}}
 
-{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf NR. Dr JB Fron d'après *Décret n° 2024-694*, *Calendrier vaccinal 2024*, *DGS Urgent* et *HAS 2024*." >}}
+{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Décret n° 2024-694*, *Calendrier vaccinal 2024*, *DGS Urgent* et *HAS 2024* et *2025*." >}}
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
-|   Né après<br>le 1/1/24 | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
+|   ~~Né après~~<br>le (suspendu) | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 1/3, Rotarix 1/2 |
 |   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + pneumocoque +<br>DTCaP-Hib-HB selon GPIP/Infovac) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance) |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3 |
@@ -77,7 +77,7 @@ VVA
 | 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>Nimenrix, MenQuadfi, Menveo (pas d'aiguille)           |
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |   45 ans   | dTcaPolio (dTPolio retiré)                           | BoostrixTetra, Repevax                                                    |
-|  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>Shingrix M0-M2 |
+|  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Pneumo 20 + Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>Prevenar20 (NR) + Shingrix M0-M2 |
 |  +75 ans   | + VRS annuel (NR)                                    | Arexvy, Abrysvo, mRESVIA                                                  |
 | [Grossesse]({{< relref "grossesse.md" >}}) | Coqueluche, Covid, grippe, VRS | BoostrixTetra, Repevax, Abrysvo ...                             |
 | Médecin généraliste | Covid-19, grippe, ROR,<br>varicelle, VHB    |                                                                           |
@@ -325,6 +325,8 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Élargissement des critères d'éligibilité à la vaccination antipneumococcique chez les adultes - Recommandation vaccinale. 2025.](https://www.has-sante.fr/jcms/p_3586414/fr/elargissement-des-criteres-d-eligibilite-a-la-vaccination-antipneumococcique-chez-les-adultes-recommandation-vaccinale)
+- [DGS-Urgent 2025_03. Fin de la campagne d'immunisation des nouveaux-nés et nourrissons contre le VRS. 28/01/2025.](https://sante.gouv.fr/professionnels/article/2025-dgs-urgent-03-fin-de-la-campagne-d-immunisation-des-nouveau-nes-et)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [HAS. Stratégie de vaccination contre les infections invasives à méningocoques - Évaluation de l'interchangeabilité des vaccins méningococciques tétravalents pour l'administration de la dose de rappel à l'âge de 12 mois. 2024.](https://www.has-sante.fr/jcms/p_3528695/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques-evaluation-de-l-interchangeabilite-des-vaccins-meningococciques-tetravalents-pour-l-administration-de-la-dose-de-rappel-a-l-age-de-12-mois)

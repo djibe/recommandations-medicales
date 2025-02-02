@@ -1,4 +1,5 @@
 # Filter BDPM for Recomedicales by djibe
+# TODO: Axa, anti Xa > anti-Xa; U.I. > UI; S.C. > SC; remove spaces in numbers, Trivastal©
 
 import os
 import requests
@@ -70,7 +71,7 @@ df_filtered = df[
 # Filter duplicates
 unwanted_words = [' ACCORD', ' AGEPHA', ' AHCL', ' ALMUS', ' ALPEX', ' ALTER', ' AP-HP', ' ARROW', ' ARROW GENERIQUES', ' BETAPHARM', ' BGR', ' BIOGARAN', ' BLUEFISH', \
   ' CCD', ' CHAUVIN', ' CHEMINEAU', ' CHIESI', ' CONSEIL', ' Conseil', ' CRINEX', ' CRISTERS', ' CRISTERS PHARMA', ' DIPHARMA', ' EG LABO', ' EG', ' EVOLUGEN', ' FRANCE', ' GEN.ORPH', ' GENERIQUES', ' GERDA', ' GIFRER', ' HCS', ' HEALTHCARE', ' HIKMA', ' IBSA', ' K.S', ' KRKA', \
-  ' LABORATOIRES ALTER', ' MYLAN', ' NEURAXPHARM', ' NOR', ' PANPHARMA', ' PFIZER', ' PHARMA', ' PIERRE FABRE', ' QUIVER', ' REF', ' RICHARD', \
+  ' LA COLINA', ' LABORATOIRES ALTER', ' MYLAN', ' NEURAXPHARM', ' NOR', ' PANPHARMA', ' PFIZER', ' PHARMA', ' PIERRE FABRE', ' PROVEPHARM', ' QUIVER', ' REF', ' RICHARD', \
   ' SANDOZ', ' SANTE', ' SFDB', ' SUBSTIPHARM', ' SUN', ' TEVA', ' TILLOMED', ' UPSA', ' VIATRIS', ' VJ-PHARM', ' WAYMADE', ' ZENTIVA', ' ZF', ' ZYDUS', \
   ' (rapport amoxicilline/acide clavulanique : 8/1)', ' (rapport amoxicilline/acide clavulanique: 8/1)', ' (Rapport Amoxicilline/Acide clavulanique : 8/1)', ' en flacon', \
   ' LAB', ' LABO']

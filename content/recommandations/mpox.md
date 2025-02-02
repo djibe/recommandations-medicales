@@ -271,7 +271,7 @@ graph TB
 - [Santé publique France, Ministère de la Santé et de la Prévention. Cas de Mpox en Europe, définitions et conduite à tenir. 20/04/2023. (PDF)](https://www.santepubliquefrance.fr/content/download/437302/file/def_cas_CAT_mpox_20042023.pdf)
 - [ANSM. Monkeypox. 16/03/2023.](https://ansm.sante.fr/dossiers-thematiques/monkeypox)
 - [HAS. Monkeypox : la HAS complète ses recommandations sur la vaccination. 11/10/2022.](https://www.has-sante.fr/jcms/p_3376314/fr/monkeypox-la-has-complete-ses-recommandations-sur-la-vaccination)
-- [DGS-Urgent 2022-76, 70, 65, 61, 58. 05/08/2022.](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
+- [DGS-Urgent 2022-76, 70, 65, 61, 58. 05/08/2022.](https://sante.gouv.fr/professionnels/article/2025-dgs-urgent-03-fin-de-la-campagne-d-immunisation-des-nouveau-nes-et)
 - [HAS. Réponses Rapides : Infection par le virus Monkeypox -- Prise en charge en médecine de 1er recours. 05/09/2022.](https://www.has-sante.fr/jcms/p_3361191/fr/reponses-rapides-infection-par-le-virus-monkeypox-prise-en-charge-en-medecine-de-1er-recours)
 - Ameli. Virus Monkeypox : les recommandations sur la prise en charge et la vaccination. 16/08/2022.
 - [Ministère de la Santé. Fiche de synthèse << variole du singe >> à destination des professionnels de santé. 05/08/2022. (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/fiche_de_synthese_a_destination_des_professionnels_de_sante_040822.pdf)
