@@ -8,7 +8,7 @@ synonyms = ["Anémie ferriprive", "carence en fer"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-08T13:02:19+02:00"
 publishdate = "2021-10-12"
-lastmod = "2024-03-28"
+lastmod = "2025-02-03"
 specialites = ["hematologie"]
 annees = "2021"
 sources = ["BSG", "SNFGE"]
@@ -19,13 +19,14 @@ icd10 = ["D50", "D50.8", "D50.9", "E61.1"]
 flowchart = true
 image = true
 imageSrc = "Illustration de l'anémie. macrovector / Freepik"
-todo = "La voie orale est inefficace dans les MICI (*SOURCE*), red flags NICE 23-24-184, Prescrire, risque K src 11-25-63, indication transfusion sanguine"
+todo = "signes différentiels, La voie orale est inefficace dans les MICI (*SOURCE*), red flags NICE 23-24-184, Prescrire, risque K src 11-25-63, indication transfusion sanguine"
 +++
 
 {{%article-summary%}}
 
-- Définition de l'anémie: hémoglobine inférieure à 12 g/dL chez la femme et 13 g/dL chez l'homme  
-  Corriger les valeurs d'hémoglobine selon le statut tabagique et l'altitude.
+- Définition de l'anémie: hémoglobine inférieure à 12 g/dL chez la femme et 13 g/dL chez l'homme
+  - Corriger les valeurs d'hémoglobine selon le statut tabagique et l'altitude
+  - L'anémie par carence martiale est microcytaire (VGM < 80 fl) et le plus souvent hypochrome (CCMH < 32 g/dL)
 - Carence martiale: [ferritinémie](/tags/ferritine/) inférieure à 45 ng/mL (*BSG*)
 - Bilan étiologique d'une anémie: examen gynécologique, BU/ECBU, sérologie cœliaque
 - [Fibroscopie](/tags/eogd/) et coloscopie si homme ou femme +50 ans, ménopausée/aménorrhée, [risque élevé de cancer colorectal]({{< relref "cancer-colorectal.md" >}}) ou anémie sévère inexpliquée
@@ -91,6 +92,9 @@ ACM
 BSG
 : {{%lang%}}British Society of Gastroenterology{{%/lang%}}
 
+CCMH
+: concentration corpusculaire moyenne en hémoglobine
+
 CCR
 : cancer colorectal
 
@@ -102,6 +106,9 @@ Hb
 
 SNFGE
 : Société Nationale Française de Gastro-Entérologie
+
+VGM
+: volume globulaire moyen
 {.dl-inline}
 
 {{% /collapse %}}
@@ -109,8 +116,10 @@ SNFGE
 
 Diagnostic différentiel de l'anémie par carence martiale:
 
-- Anémie inflammatoire
-- Thalassémie
+- Anémie inflammatoire  
+  CRP et ferritine augmentées (anémie mixte si la ferritinémie est < 100 mg/L).
+- Thalassémie  
+  CRP et ferritine normales.
 - Autres
   - Déficit en vitamine B6
   - [Saturnisme]({{< relref "saturnisme.md" >}})
@@ -128,7 +137,7 @@ Signes et symptômes cliniques d'une anémie:
   Hémoglobinopathie, hémorragies, métabolisme du fer, pathologie digestive.
 - Antécédents personnels  
   Transfusions, dons de sang, [chirurgie de l'obésité]({{< relref "obesite-adulte.md" >}}) ou gastrique, traumatismes, insuffisance cardiaque ou rénale.
-- Traitements  
+- Traitements en cours  
   AINS, anticoagulants ou IPP au long cours.
 - Régime alimentaire, {{< modal-btn modal-scoff >}}troubles du comportement alimentaire{{< /modal-btn >}}
 - Consommation de thé
@@ -137,9 +146,9 @@ Signes et symptômes cliniques d'une anémie:
   - Digestives: [dyspepsie]({{< relref "dyspepsie.md" >}}), syndrome ulcéreux, douleurs abdominales, [hémorroïdes]({{< relref "hemorroides.md" >}}) ou saignements digestifs
   - Épistaxis
   - [Hématurie]({{< relref "hematurie.md" >}})
-- Anémie  
+- Signes d'anémie  
   {{< clinique/anemie >}}.
-- Carence martiale  
+- Signes de carence martiale  
   {{< clinique/carence-martiale >}}.
 
 {{% /collapse %}}
@@ -238,7 +247,7 @@ graph TB
 
 - [Guideline on haemoglobin cutoffs to define anaemia in individuals and populations. Geneva: World Health Organization; 2024. (PDF)](https://iris.who.int/bitstream/handle/10665/376196/9789240088542-eng.pdf?sequence=1)
 - [HCSP. Avis relatif à la couverture des besoins de la population générale en vitamine D et en fer. 21/06/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1251)
-- [Snook J et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021.](https://gut.bmj.com/content/70/11/2030)
+- [Snook J, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021.](https://gut.bmj.com/content/70/11/2030)
 - [Santé Publique France. Étude de santé sur l'environnement, la biosurveillance, l'activité physique et la nutrition (Esteban) 2014-2016. Volet Nutrition. Chapitre Dosages biologiques : vitamines et minéraux. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/rapport-synthese/etude-de-sante-sur-l-environnement-la-biosurveillance-l-activite-physique-et-la-nutrition-esteban-2014-2016-.-volet-nutrition.-chapitre-dosages)
 - Rouillon JM. Prise en charge de l'anémie ferriprive. SNFGE. 2018.
 - [OMS. Concentrations en hémoglobine permettant de diagnostiquer l'anémie et d'en évaluer la sévérité. Système d'informations nutritionnelles sur les vitamines et les minéraux. 2011.](https://www.who.int/fr/publications-detail/WHO-NMH-NHD-MNM-11.1)
@@ -246,7 +255,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Fletcher A et al; A British Society for Haematology Good Practice Paper. Guideline for the laboratory diagnosis of iron deficiency in adults (excluding pregnancy) and children. Br J Haematol. 2022.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.17900)
+- [Fletcher A, et al; A British Society for Haematology Good Practice Paper. Guideline for the laboratory diagnosis of iron deficiency in adults (excluding pregnancy) and children. Br J Haematol. 2022.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.17900)
 - Société française d'hématologie (sfh). Anémie chez l'adulte et l'enfant. Hématologie Réussir son DFASM. 2021.
 
 {{%/sources%}}

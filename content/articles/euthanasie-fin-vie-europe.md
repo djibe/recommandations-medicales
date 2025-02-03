@@ -6,9 +6,9 @@ longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-16T12:20:00+02:00"
 publishdate = "2023-01-26"
-lastmod = "2024-11-29"
+lastmod = "2025-02-03"
 specialites = []
-annees = "2024"
+annees = "2025"
 sources = ["CNOM"]
 tags = []
 geochart = true
@@ -99,6 +99,14 @@ Le Luxembourg, les Pays-Bas et l'Espagne autorisent par ailleurs le recours au s
 
 Enfin, dans le monde, seulement 11 pays (sur 195 reconnus par l'ONU) disposent d'un cadre législatif pour l'aide active à mourir (euthanasie ou assistance au suicide).
 
-## Signer le manifeste
+## Lectures et engagements
 
-Écrire à commissionsoignants@admd.net pour signer le manifeste pour l'aide active à mourir.
+### Lectures sur la fin de vie
+
+- [Fondapol. Les non-dits économiques et sociaux du débat sur la fin de vie](https://www.fondapol.org/etude/les-non-dits-economiques-et-sociaux-du-debat-sur-la-fin-de-vie/)
+- [Fondapol. Les mots de la fin de vie : ne pas occulter les termes du débat](https://www.fondapol.org/etude/les-mots-de-la-fin-de-vie-ne-pas-occulter-les-termes-du-debat/)
+- [Fondapol. Suicide assisté, euthanasie : le choix de la rupture et l'illusion d'un progrès](https://www.fondapol.org/etude/suicide-assiste-euthanasie-le-choix-de-la-rupture-et-lillusion-dun-progres/)
+
+### Signer le manifeste pour l'aide active à mourir
+
+Écrire à commissionsoignants@admd.net pour signer le manifeste pour l'aide active à mourir en cas de maladies graves incurables.

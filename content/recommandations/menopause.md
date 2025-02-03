@@ -552,6 +552,8 @@ Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch par semaine (sur fess
 
 Pour l'insuffisance ovarienne prématurée, viser au moins 100 µg d'estradiol transdermique (*ESHRE 2024*).
 
+**NB.** Risque de décollement des patchs en cas de sueurs profuses.
+
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus sur le THM" %}}
 
