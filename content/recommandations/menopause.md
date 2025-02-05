@@ -559,7 +559,7 @@ Pour l'insuffisance ovarienne prématurée, viser au moins 100 µg d'estradiol t
 
 ### FMC gratuites
 
-{{< card-link-external title="Ménopause: L'Affaire de tous" url="https://www.pns-mooc.com/fr/mooc/1/presentation" subtitle="par les CNGOF et GEMVI">}}
+{{< card-link-external title="MOOC Ménopause: L'Affaire de tous" url="https://www.pns-mooc.com/fr/mooc/1/presentation" subtitle="par les CNGOF et GEMVI">}}
 
 {{< card-link-external title="IMPART" url="https://www.imsociety.org/education/impart-registration/" subtitle="International Menopause Society">}}
 

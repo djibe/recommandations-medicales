@@ -239,14 +239,14 @@ Antibiothérapie probabiliste de la pyélonéphrite aiguë simple juste **après
 
 1. ==Amoxicilline 1g x 3/j pendant 10 jours==
 2. Cotrimoxazole 800/160 mg x 2/j pendant 10 jours
-3. Amoxicilline-acide clavulanique 1g x 3/j pendant 10 jours
+3. Amoxicilline/acide clavulanique 1g x 3/j pendant 10 jours
 4. Ciprofloxacine 500 mg x 2/j ou lévofloxacine 500 mg/j ou ofloxacine 200 mg x 2/j pendant 7 jours
 5. Céfixime 200 mg x 2/j pendant 10 jours
 6. Ceftriaxone IM 1 g/j pendant 7 jours (2g si obèse)
 7. Entérobactérie productrice d'E-BLSE
     1. Ciprofloxacine ou lévofloxacine  
       ou cotrimoxazole
-    2. Amoxicilline-acide clavulanique
+    2. Amoxicilline/acide clavulanique
     3. Céfoxitine  
     4. Hospitalisation
 
@@ -279,7 +279,7 @@ Prise en charge de la colonisation urinaire gravidique par **antibiothérapie sy
 3. Fosfomycine trométamol 3g dose unique
 4. Triméthoprime 300 mg/j pendant 7 jours  
   Éviter avant 10 SA.
-5. Alternatives pendant 7 jours: nitrofurantoïne 100 mg x 3/j, cotrimoxazole 800/160 mg x 2/j (éviter avant 10 SA), amoxicilline-clavulanique 1g x 3/j
+5. Alternatives pendant 7 jours: nitrofurantoïne 100 mg x 3/j, cotrimoxazole 800/160 mg x 2/j (éviter avant 10 SA) ou amoxicilline/clavulanique 1g x 3/j
 
 **ECBU de contrôle** à J8-J10 puis mensuel jusqu'à l'accouchement.
 

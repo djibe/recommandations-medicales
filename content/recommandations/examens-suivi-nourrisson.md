@@ -168,4 +168,6 @@ Sources citées en regard des sections.
 
 {{%/sources%}}
 
+{{< card-link-external title="MOOC Dépistage néonatal 2025" url="https://pns-mooc.com/fr/mooc/34/presentation" subtitle="par la FPDPHE" >}}
+
 {{< card-link-external title="MOOC Repérer et prendre en charge les mineurs en danger" url="https://www.maformationmedicale.fr/landing/enfants-et-adolescents-en-danger-reperage-et-prise-en-charge-par-les-professionnels-en-sante" >}}

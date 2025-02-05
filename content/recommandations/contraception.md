@@ -578,10 +578,6 @@ Y compris phytothérapie, compléments alimentaires.
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus"%}}
 
-### FMC gratuite
-
-{{< card-link-external title="Contraception - L'affaire de tous" url="https://www.pns-mooc.com/fr/mooc/7/presentation" subtitle="e-learning du CNGOF">}}
-
 ### Bénéfices de la contraception
 
 #### Bénéfices de la contraception œstroprogestative
@@ -688,3 +684,5 @@ graph TB
 {{< clinique/hyperandrogenie >}}
 
 {{% /modal %}}
+
+{{< card-link-external title="MOOC Contraception - L'affaire de tous" url="https://www.pns-mooc.com/fr/mooc/7/presentation" subtitle="e-learning du CNGOF">}}

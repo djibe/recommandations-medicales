@@ -29,7 +29,7 @@ Recommandations pour la prise en charge des infections urinaires (IU) de la fill
 - ECBU systématique si BU positive (ou < 1 mois, uropathie, neutropénie, SFU, fièvre inexpliquée > 48 heures, [échelle de Pittsburgh](https://uticalc.pitt.edu) prédictive d'IU) avant antibiothérapie
 - Pas d'ECBU de contrôle
 - Examen clinique rigoureux pour relever l'état clinique et les antécédents (uropathie, infections urinaires, immunodépression ++)
-- Prise en charge de la cystite aiguë de l'enfant (infection urinaire non fébrile): ECBU puis amoxicilline - clavulanique 1,5 dose-kg (80 mg/kg/j, max 3 g/j) en 2 prises pendant 5 jours
+- Prise en charge de la cystite aiguë de l'enfant (infection urinaire non fébrile): ECBU puis amoxicilline/acide clavulanique 1,5 dose-kg (80 mg/kg/j, max 3 g/j) en 2 prises pendant 5 jours
 - Prise en charge de la pyélonéphrite aiguë (PNA) de l'enfant:
   - Hospitalisation si: < 3 mois, uropathie, immunodépression, lithiase urinaire, AEG, suspicion de sepsis, mauvaise compréhension familiale, cocci Gram+
   - Échographie des voies urinaires lors du premier épisode
@@ -88,7 +88,7 @@ La cystite est une infection urinaire **sans fièvre** et sans anomalie biologiq
 Prise en charge ambulatoire de la cystite aiguë (infection urinaire basse):
 
 - Fille pubère: traitement minute par fosfomycine sauf uropathie (voir [IU de l'adulte]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}))
-- ==[Amoxicilline - clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64550843&typedoc=R) 1,5 dose-kg (80 mg/kg/j, max 3 g/j) en 2 prises pendant 5 jours==
+- ==[Amoxicilline/acide clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64550843&typedoc=R) 1,5 dose-kg (80 mg/kg/j, max 3 g/j) en 2 prises pendant 5 jours==
 - Si allergie: [cotrimoxazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69464049&typedoc=R) 30 mg/kg/j (max 1,6 g/j) de SMX en 2 prises pendant 5 jours  
   ou [céfixime](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67547553&typedoc=R) 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 5 jours
 
@@ -116,17 +116,17 @@ Adaptation à l'antibiogramme dès le rendu des résultats pour une totale (prob
 1. [Cotrimoxazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69464049&typedoc=R) (si âge > 1 mois) 30 mg/kg/j de SMX (max 1,6 g/j) en 2 prises
 2. [Céfixime](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67547553&typedoc=R) 8 mg/kg/j (max 400 mg/j) en 2 prises
 3. Si Enterococcus ou *Proteus sp.* sensibles: amoxicilline
-4. Céfixime + amoxicilline - clavulanique
+4. Céfixime + amoxicilline/acide clavulanique
 
 L'antibiothérapie pour pyélonéphrite aiguë de l'enfant a une durée totale (antibiothérapie probabiliste + adaptée) de **10 jours**, sans contrôle de l'ECBU.
 
-Pas d'amoxicilline (± clavulanique) pour la pyélonéphrite de l'enfant.
-{.alert .alert-warning}
+> [!WARNING]
+> Pas d'amoxicilline (± clavulanique) pour la pyélonéphrite de l'enfant.
 
 {{% /collapse %}}
 {{%collapse "Recours à l'urologue" %}}
 
-Avis du spécialiste en urologie pédiatrique si:
+Indications à la consultation spécialisée en urologie pédiatrique si:
 
 - Pollakiurie avec fuites urinaires
 - Troubles de la miction

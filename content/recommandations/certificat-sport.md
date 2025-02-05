@@ -205,7 +205,7 @@ Informer sur les 10 règles d'or pour le sportif:
 
 {{< card-link-external title="Documentation des Cardiologues du Sport" url="https://www.clubcardiosport.com/documentation" subtitle="Club Cardio Sport">}}
 
-{{< card-link-external title="Prescrire le sport santé sur ordonnance" url="https://www.mooc-sportsante.com/course/prescrire-le-sport-sante-sur-ordonnance/" subtitle="Par l'IRBMS">}}
+{{< card-link-external title="MOOC Prescrire le sport santé sur ordonnance" url="https://www.mooc-sportsante.com/course/prescrire-le-sport-sante-sur-ordonnance/" subtitle="Par l'IRBMS">}}
 
 {{< card-link-external title="Guide méthodologique Sport et Santé" url="https://www.mooc-sportsante.com/course/guide-methodologique/" subtitle="Par l'IRBMS">}}
 

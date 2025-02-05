@@ -8,7 +8,7 @@ synonyms = ["Cholécalciferol vitamine D3", "ergocalciférol vitamine D2"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-15T00:28:29+02:00"
 publishdate = "2020-04-15"
-lastmod = "2024-11-14"
+lastmod = "2025-02-04"
 specialites = ["endocrinologie", "pediatrie", "therapeutique"]
 annees = "2022"
 sources = ["SFP", "HAS", "SFR"]
@@ -134,9 +134,9 @@ S'assurer également d'[apports calciques suffisants]({{< relref "apports-calciu
 {{< table title="Apports en vitamine D recommandés en 2025 selon le profil du patient" >}}
 | Population                                                    | Apports (UI/j) ou cibles (25OHD) recommandés                                         | Source           |
 |---------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------|
-| 0 - 2 ans                                                     | 400-800 UI/j                                                                         | *Bacchetta 2022* |
-| 2 - 18 ans                                                    | 400-800 UI/j<br>voire 50.000 UI/trimestre<br>ou 80-100.000 UI en novembre et février | *Bacchetta 2022* |
-| 2 - 18 ans à risque<br>Sujet à peau noire, obèse, 0 exposition, vegan | 800-1600 UI/j voire 50.000 UI/6sem<br>ou 80-100.000 UI/trimestre             | *Bacchetta 2022* |
+| 0 - 2 ans                                                     | 400-800 UI/j                                                                         | *Bacchetta 2025* |
+| 2 - 18 ans                                                    | 400-800 UI/j<br>voire 50.000 UI/trimestre<br>ou 80-100.000 UI en novembre et février | *Bacchetta 2025* |
+| 2 - 18 ans à risque<br>Peau noire, obésité, 0 exposition solaire, vegan | 800-1600 UI/j voire 50.000 UI/6sem<br>ou 80-100.000 UI/trimestre           | *Bacchetta 2025* |
 | Grossesse                                                     | 80-100.000 UI à 7 mois de grossesse                                                  | *CNGOF 8e mois*  |
 | Mineur                                                        | &gt; 75 nmol/L                                                                       | *Bacchetta 2022* |
 | Adulte                                                        | ≥ 50 nmol/L                                                                          | *Annweiler 2018* |
@@ -146,8 +146,10 @@ S'assurer également d'[apports calciques suffisants]({{< relref "apports-calciu
 | Ostéoporose, biphosphonates                                   | ≥ 75 nmol/L                                                                          | *Annweiler 2018* |
 {{< /table >}}
 
-> Apports quotidiens préférés chez l'enfant et l'adolescent: vitamine D2 (Stérogyl® 400 UI/gte) ou D3 (ZymaD® 300 UI/gte ou Adrigyl® 333 UI/gte). Sinon vitamine D3 en ampoule (*Bacchetta 2022*).  
+> Apports quotidiens préférés chez l'enfant et l'adolescent: vitamine D2 (Stérogyl® 400 UI/gte) ou D3 (ZymaD® 300 UI/gte ou Adrigyl® 333 UI/gte) quotidienne. En cas de mauvaise observance, vitamine D3 en ampoule (*Bacchetta et al 2025*).
+
 Ne pas utiliser d'autres formes de supplémentations.
+{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Quand doser la vitamine D ?" %}}
@@ -287,6 +289,7 @@ Ne pas utiliser d'autres formes de supplémentations.
 {{% /collapse %}}
 {{%sources%}}
 
+- [Bacchetta J, et al; CRMR Maladies Rares du Calcium et du Phosphate, Société Française de pédiatrie, Société Française de Pharmacie Clinique, Conseil National de l'Ordre des Sages-Femmes, Collège National des Sages-femmes de France. Lettre du 23 janvier 2025. 2025. (PDF)](https://sfpc.eu/wp-content/uploads/2025/01/Vitamine-D-Courrier-Conjoint.pdf)
 - [Ameli Médecin. Dosage de la vitamine D : le point sur la prescription et la prise en charge. 08/02/2024.](https://www.ameli.fr/medecin/actualites/dosage-de-la-vitamine-d-le-point-sur-la-prescription-et-la-prise-en-charge)
 - [Bacchetta J et al; SFP, SFneonatalogie, AFPA et al. Vitamin D and calcium intakes in general pediatric populations: A French expert consensus paper. Archives de pédiatrie. 2022. (PDF)](https://afpa.org/content/uploads/2022/03/Vitamin-D-and-calcium-intakes-in-general-pediatric-populations-A-French-expert-consensus-paper-20-02-2022.pdf)
 - [Anses. Vitamine D : pourquoi et comment assurer un apport suffisant ? 02/03/2022.](https://www.anses.fr/fr/content/vitamine-d-pourquoi-et-comment-assurer-un-apport-suffisant)

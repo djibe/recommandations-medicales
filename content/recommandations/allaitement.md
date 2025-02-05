@@ -259,8 +259,6 @@ Les contre-indications au don de lait sont celles du don du sang.
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="MOOC Allaitement : l'Affaire de Tous" url="https://www.pns-mooc.com/fr/mooc/3/presentation" subtitle="par CNGOF, Gen-IF, APHP, Paris Descartes" >}}
-
 - [Haut Conseil de la Santé Publique (HCSP). Rapport relatif à l'allaitement maternel. 2024.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1392)
 - [Service-Public. Une salariée peut-elle allaiter pendant les heures de travail ?. 14/02/2024.](https://www.service-public.fr/particuliers/vosdroits/F1769)
 - [ANSM. Candidose mammaire et allaitement : éviter le violet de gentiane. 22/06/2022.](https://ansm.sante.fr/actualites/candidose-mammaire-et-allaitement-eviter-le-violet-de-gentiane)
@@ -280,3 +278,5 @@ Les contre-indications au don de lait sont celles du don du sang.
 - Interagency Group for Action on Breastfeeding
 
 {{%/sources%}}
+
+{{< card-link-external title="MOOC Allaitement : l'Affaire de Tous" url="https://www.pns-mooc.com/fr/mooc/3/presentation" subtitle="par CNGOF, Gen-IF, APHP, Paris Descartes" >}}

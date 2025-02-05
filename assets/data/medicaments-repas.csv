@@ -4,7 +4,7 @@ Acide alendronique;Avant;Matin: au moins 30 minutes avec un grand verre d’eau 
 Afatinib (Giotrif);Avant ou après;À heure fixe, à jeun au moins 3h avant et 1h après;BDPM
 Alfusozine LP;Après;Immédiatement après;BDPM
 Altrétamine (Hexastat);Après;À heure fixe;BDPM
-Amoxicilline-clavulanique;Pendant;Début de repas;BDPM
+Amoxicilline/acide clavulanique;Pendant;Début de repas;BDPM
 Asciminib (Scemblix);Avant ou après;À intervalle de 12 heures, au moins 1h avant ou 2h après le repas;BDPM
 Atovaquone/proguanil;Pendant;ou boisson lactée;BDPM
 Avapritinib (Ayvakit);Avant ou après;À heure fixe, matin de préférence, Au moins 1h avant ou 2h après;BDPM
@@ -17,8 +17,8 @@ Capécitabine (Xeloda);Après;À intervalle fixe de 12 heures, dans les 30 minut
 Cefpodoxime;Pendant;;BDPM
 Chlorambucil (Chloraminophene);Avant;À heure fixe le matin à jeun;BDPM
 Chlortalidone;Pendant;Le matin;BDPM
-Céfalexine;Avant ou après;;BDPM
-Céfuroxime;Pendant;Après le repas;BDPM
+Céfalexine (Keforal);Avant ou après;;BDPM
+Céfuroxime (Zinnat ...);Pendant;Après le repas;BDPM
 Céritinib (Zykadia);Pendant;À heure fixe;BDPM
 Cholécalciférol (vitamine D);Pendant;Car lipophile;Annweiler 2018
 Cyclophosphamide (Endoxan);Avant;À heure fixe le matin à jeun avec un grand verre d'eau, puis reprendre un 2e verre juste après;BDPM
@@ -26,7 +26,7 @@ Dabrafénib (Tafinlar);Avant ou après;À heure fixe, au moins 1h avant ou 2h ap
 Dexaméthasone (Neofordex);Pendant;Le matin;BDPM
 Doxycycline;Pendant;Au moins 1 heure avant le coucher;BDPM
 Erlotinib (Tarceva);Avant ou après;À heure fixe, au moins 1h avant ou 2h après le repas;BDPM
-Érythromycine;Avant;;BDPM
+Erythromycine;Avant;;BDPM
 Etoposide (Celltop);Avant ou après;À heure fixe, au moins 1h avant ou 2h après;BDPM
 Exémestane (Aromasine);Après;;BDPM
 Imatinib;Pendant;À heure fixe;BDPM
@@ -34,7 +34,7 @@ Fer (sulfate, Tardyferon, Timoferol);Avant voire pendant;;BDPM, CBIP
 Fosfomycine;Avant ou après;2-3 heures avant ou après. De préférence au coucher vessie vide;BDPM, Folia
 Gaviscon;Après;;BDPM
 Gliclazide;Avant;Juste avant ou pendant;CBIP
-Glinides;Avant;;BDPM
+Glinides (répaglinide);Avant;15 minutes avant (de 30 à 0 minutes);BDPM
 Hydroxychloroquine;Après;Après la fin du repas;BDPM
 Ibrutinib (Imbruvica);Pendant;À heure fixe;BDPM
 Idarubicine (Zavedos);Pendant;À heure fixe;BDPM
@@ -51,7 +51,7 @@ Lévothyroxine;Avant;Matin: au moins 30 minutes;BDPM
 Lomustine (Belustine);Après;Avec un grand verre d'eau au coucher ou 3h après le repas;BDPM
 Metformine;Pendant;ou à la fin;BDPM
 Mélatonine;Après;1-2 h avant le coucher et après le repas (2h);BDPM
-Mephalan (Alkeran);Avant;À heure fixe, 15-30 minutes avant;BDPM
+Melphalan (Alkeran);Avant;À heure fixe, 15-30 minutes avant;BDPM
 Mercaptopurine (Xaluprine);Avant ou après;Au moins 1h avant ou 2h après le repas le dîner et la prise de produit laitier;BDPM
 Méthylphénidate: Médikinet;Pendant;ou juste après;BDPM
 Métoprolol;Avant ou après;;BDPM

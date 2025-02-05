@@ -25,7 +25,7 @@ todo = "flow"
 - Toute morsure par un animal est à risque et doit être évaluée par un médecin
 - La prise en charge initiale de la morsure (chien, chat, autre) associe lavage abondant à l'eau et au savon, antisepsie
 - L'examen clinique recherche une immunodépression et l'état de la plaie (délabrement, profondeur) et le risque infectieux (bactérien, tétanos, rage)
-- Antibiothérapie par amoxicilline - clavulanique pendant 7 jours si: comorbidités (immunodépression, asplénie, diabète, alcool), érysipèle, plaie profonde ou délabrée, atteinte articulaire, près de tendon ou osseuse, main, face, suture
+- Antibiothérapie par amoxicilline/acide clavulanique pendant 7 jours si: comorbidités (immunodépression, asplénie, diabète, alcool), érysipèle, plaie profonde ou délabrée, atteinte articulaire, près de tendon ou osseuse, main, face, suture
 - Adresser une plaie par morsure aux Urgences si: geste chirurgical ou suture envisagés, plaie grave (localisation, délabrement, animal suspect), immunothérapie antitétanique nécessaire, anti-venin
 - Tout animal mordeur doit être signalé en mairie ([annuaire](https://www.service-public.fr/particuliers/vosdroits/F24028)) par le propriétaire ou le médecin et placé sous surveillance vétérinaire pendant 15 jours
 - [Annuaire des Centres antirabiques (PDF)](https://www.pasteur.fr/fr/file/54964/download)
@@ -110,7 +110,7 @@ Antibiothérapie de l'adulte si indiquée (voir ci-dessus):
 - Durée du traitement antibiotique
   - **5 jours** en cas de morsure de mammifère sans signe clinique d'infection
   - 5 jours si signes d'infection, prolongée si complication ou évolution défavorable pendant 10 jours (14 si non satisfaisant à J10)
-- ==[Amoxicilline - clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60998361&typedoc=R) 1g x 3/j==
+- ==[Amoxicilline/acide clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60998361&typedoc=R) 1g x 3/j==
 - Étendue à 10-15 jours si infection patente ou morsure vue tardivement
 - Si allergie: doxycycline 100 mg x 2/j  
   ou pristinamycine 1g x 3/j ou clindamycine 600 mg x 3/j ou cotrimoxazole 800/160 mg x 2/j
@@ -120,7 +120,7 @@ Antibiothérapie de l'adulte si indiquée (voir ci-dessus):
 Antibiothérapie de l'enfant si indiquée (idem ci-dessus + chat ou localisation génitale):
 
 - Traitement de **5 jours** en cas de morsure humaine
-- ==[Amoxicilline - clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64550843&typedoc=R) 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 3 à 7 jours== selon l'évolution
+- ==[Amoxicilline/acide clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64550843&typedoc=R) 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 3 à 7 jours== selon l'évolution
 - Allergie: doxycycline 4 mg/kg/j (max 200 mg/j) en 2 prises pendant 3 à 7 jours selon l'évolution
 
 > -- *GPIP 2023*
@@ -141,7 +141,7 @@ Selon le contexte: statut vaccinal voire prophylaxie [hépatite B]({{< relref "h
 
 Adresser aux Urgences pour immunothérapie (Viperfav®) si vipère venimeuse.
 
-Si vipère venimeuse: amoxicilline - clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 7 jours
+Si vipère venimeuse: amoxicilline/ acide clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 7 jours
 
 {{% /collapse %}}
 {{%collapse "Surveillance du chien après morsure" %}}

@@ -223,13 +223,9 @@ Prise en charge de l'anémie par supplémentation et fer puis surveillance de la
 
 {{< mermaid title="Prise en charge d'une anémie avec suspicion de carence en fer. Dr JB Fron d'après BSG 2021" >}}
 graph TB
-  anemie[Anémie avec suspicion <br>de carence en fer]
-  style anemie stroke:#4150f5, stroke-width:1px
-    anemie --> ferritine(Ferritinémie)
-      ferritine -- &lt; 45 ng/mL --> basse[Ferritine basse<br>= Carence martiale]
-        style basse stroke:#4150f5, stroke-width:1px
-        basse --> enquete("- Enquête étiologique<br>selon âge et sexe<br>(voir <em>Examens complémentaires</em>)<br>- Supplémentation en fer")
-      ferritine -- Normale 45-150 ng/mL --> inflammation(Maladie chronique ?<br>VS ou CRP augmentée ?)
+  anemie["<b>Anémie</b><br>—<br>- Femme: Hb &lt; 12 g/dL <br>- Homme: Hb &lt; 13 g/dL"] --> VGM(VGM ?) -- "&lt; 80 fl" --> microcytaire("Anémie microcytaire<br>± hypochrome (CCMH &lt; 32)") --> ferritine("Ferritinémie<br>± CRP")
+      ferritine -- "Diminuée<br>&lt; 45 ng/mL" --> basse[Carence martiale] --> enquete("- Enquête étiologique<br>selon âge et sexe<br>(voir <em>Examens complémentaires</em>)<br>- Supplémentation en fer")
+      ferritine -- "Normale:<br>45-150 ng/mL" --> inflammation(Maladie chronique ?<br>CRP augmentée ?)
           inflammation -- Oui --> hypochromie(Hypochromie, microcytose<br>CST bas ou réticulocytes bas ?)
             hypochromie -- Oui --> probable(Carence martiale<br>probable) --> enquete
             hypochromie -- Non --> peuProbable(Carence martiale<br>peu probable)
@@ -237,9 +233,11 @@ graph TB
                 supplementation -- Oui --> enquete
                 supplementation -- Non --> autreCause
           inflammation -- Non --> absente
-      ferritine -- &gt; 150 ng/mL --> haute(Haute)
-        haute --> absente(Pas de carence martiale)
-          absente --> autreCause(Anémie par maladie chronique<br>ou autre cause d'anémie)
+      ferritine -- "Hautes:<br>ferritine et CRP ↗" --> absente(Pas de carence martiale) --> autreCause(Anémie inflammatoire:<br>traitement étiologique)
+    VGM -- "Normal<br>80-100 fl" --> normocytaire(Anémie<br>normocytaire) --> réticulocytes(Réticulocytes)
+    VGM -- "&gt; 100 fl" --> macrocytaire(Anémie<br>macrocytaire)
+  style anemie stroke:#4150f5, stroke-width:1px
+  style basse stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{% /collapse %}}

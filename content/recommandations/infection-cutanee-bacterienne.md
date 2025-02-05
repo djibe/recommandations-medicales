@@ -106,7 +106,7 @@ Prise en charge de l'impétigo grave:
   - ==[pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j pendant 7 jours==
   - ou céfalexine 2-4 g/j pendant 7 jours
 - Antibiothérapie chez l'enfant pendant 7 jours:
-  - ==amoxicilline-acide clavulanique 80 mg/kg/j en 2-3 prises pendant 7 jours==
+  - ==amoxicilline/acide clavulanique 80 mg/kg/j en 2-3 prises pendant 7 jours==
   - ou céfalexine 50 mg/kg/j (max 4 g/j) en 2-3 prises
   - Si allergie documentée à la pénicilline: clarithromycine 15 mg/kg/j (max 1 g/j) en 2 prises
   - ou clindamycine 30 mg/kg/j (max 1,8 g/j) en 3 prises
@@ -161,7 +161,7 @@ Le furoncle est dit compliqué si:
   - ou pristinamycine 1g x 3/j pendant 5 jours
   - adaptation à l'antibiogramme et l'évolution
 - Enfant:
-  - amoxicilline-acide clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 5 jours
+  - amoxicilline/acide clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 5 jours
   - ou céfalexine 50 mg/kg/j (max 4 g/j) en 2-3 prises pendant 5 jours
   - si allergie à la pénicilline et +6 ans: clindamycine 30 mg/kg/j (max 1,8 g/j) en 3 prises pendant 5 jours  
     sinon SMX avant 6 ans: sulfaméthoxazole-triméthoprime 30 mg/kg/j de SMX (max 800/160 mg/j) pendant 5 jours

@@ -191,7 +191,7 @@ Signes d'endométrite du post-partum:
 Prise en charge de l'endométrite du post-partum en l'absence de signes de gravité:
 
 - Prélèvements bactériologiques habituels (voir *Clinique*)
-- Antibiothérapie probabiliste: amoxicilline - acide clavulanique 3-6 g/j (selon le poids) jusqu'à 48 heures d'apyrexie ou la disparition des symptômes
+- Antibiothérapie probabiliste: amoxicilline/acide clavulanique 3-6 g/j (selon le poids) jusqu'à 48 heures d'apyrexie ou la disparition des symptômes
   - Si allergie aux pénicillines: hospitalisation
 - Réévaluation systématique à 72 heures de l'adaptation de l'antibiotique
   Si échec: scanner abdomino-pelvien (ou IRM) injecté en urgence.

@@ -182,7 +182,7 @@ La prise en charge ambulatoire d'un érysipèle n'est possible que si le **table
 {{%info%}}
 Amoxicilline 50 mg/kg/j (max 6 g/j) en 3 prises pendant 7 jours
 
-Enfant: amoxicilline-acide clavulanique 1 dose-poids x 3/j pendant 7 jours
+Enfant: amoxicilline/acide clavulanique 1 dose-poids x 3/j pendant 7 jours
 {{%/info%}}
 
 Selon Prescrire®: pénicilline V (Oracilline®) 1-1,5 MUI x 4/j jusqu'à amélioration des signes locaux.
@@ -195,7 +195,7 @@ Antibiothérapies recommandées en cas d'allergie documentée à la pénicilline
   - Après 6 ans: clindamycine 30 mg/kg/j (max 2,4 g/j) en 3 prises pendant 7 jours
   - Avant 6 ans: triméthoprime-sulfaméthoxazole 30 mg/kg/j (de SMX, max 1,6 g/j) en 3 prises pendant 7 jours
 - Adulte: [morsure d'animal]({{< relref "morsure.md" >}})
-  - Amoxicilline-acide clavulanique 50 mg/kg/j en 3 prises pendant 7 jours (amoxicilline max 6 g/j et a. clavulanique max 375 mg/j)
+  - Amoxicilline/acide clavulanique 50 mg/kg/j en 3 prises pendant 7 jours (amoxicilline max 6 g/j et a. clavulanique max 375 mg/j)
   - Avis infectiologique en cas d'allergie à la pénicilline
 
 > -- *HAS/SPILF/GPIP 2024*

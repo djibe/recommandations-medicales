@@ -51,7 +51,7 @@ df.loc[df['procedure'] != 'Procédure centralisée', 'procedure'] = None
 df.loc[df['procedure'] == 'Procédure centralisée', 'procedure'] = 'Yes'
 
 df['libelle'] = df['libelle'].str.replace(r'(?i)\bPOUR CENT\b', '%', regex=True)
-df['libelle'] = df['libelle'].str.replace(r'(?i)\bL.P.\b', 'LP', regex=True)
+# df['libelle'] = df['libelle'].str.replace(r'(?i)\bL.P.\b', 'LP', regex=True)
 df['libelle'] = df['libelle'].replace(['L.P.', 'L. P.'], 'LP')
 df['libelle'] = df['libelle'].str.replace(r' à libération prolongée', '', regex=False)
 df2['dci'] = df2['dci'].str.replace(r'(?i)\bPOUR CENT\b', '%', regex=True)
@@ -69,10 +69,10 @@ df_filtered = df[
 # print(df_filtered.head())
 
 # Filter duplicates
-unwanted_words = [' ACCORD', ' AGEPHA', ' AHCL', ' ALMUS', ' ALPEX', ' ALTER', ' AP-HP', ' ARROW', ' ARROW GENERIQUES', ' BETAPHARM', ' BGR', ' BIOGARAN', ' BLUEFISH', \
-  ' CCD', ' CHAUVIN', ' CHEMINEAU', ' CHIESI', ' CONSEIL', ' Conseil', ' CRINEX', ' CRISTERS', ' CRISTERS PHARMA', ' DIPHARMA', ' EG LABO', ' EG', ' EVOLUGEN', ' FRANCE', ' GEN.ORPH', ' GENERIQUES', ' GERDA', ' GIFRER', ' HCS', ' HEALTHCARE', ' HIKMA', ' IBSA', ' K.S', ' KRKA', \
-  ' LA COLINA', ' LABORATOIRES ALTER', ' MYLAN', ' NEURAXPHARM', ' NOR', ' PANPHARMA', ' PFIZER', ' PHARMA', ' PIERRE FABRE', ' PROVEPHARM', ' QUIVER', ' REF', ' RICHARD', \
-  ' SANDOZ', ' SANTE', ' SFDB', ' SUBSTIPHARM', ' SUN', ' TEVA', ' TILLOMED', ' UPSA', ' VIATRIS', ' VJ-PHARM', ' WAYMADE', ' ZENTIVA', ' ZF', ' ZYDUS', \
+unwanted_words = [' ACCORD', ' AGEPHA', ' AHCL', ' ALCON', ' ALMUS', ' ALPEX', ' AP-HP', ' ARROW', ' ARROW GENERIQUES', ' BAYER', ' BETAPHARM', ' BGR', ' BIOGARAN', ' BLUEFISH', \
+  ' CCD', ' CHAUVIN', ' CHEMINEAU', ' CHIESI', ' CONSEIL', ' Conseil', ' CRINEX', ' CRISTERS', ' CRISTERS PHARMA', ' DIPHARMA', ' EG LABO', ' EG', ' EVOLUGEN', ' FRANCE', ' GEN.ORPH', ' GENERIQUES', ' GERDA', ' GIFRER', ' GILBERT', ' HCS', ' HEALTHCARE', ' HIKMA', ' IBSA', ' K.S', ' KRKA D.D.', ' KRKA', \
+  ' LA COLINA', ' LABORATOIRES ALTER', ' ALTER', ' MYLAN', ' NEURAXPHARM', ' NOR', ' PANPHARMA', ' PFIZER', ' PHARMA', ' PIERRE FABRE', ' PROVEPHARM', ' QUIVER', ' REF', ' RENAUDIN', ' RICHARD', \
+  ' SANDOZ', ' SANTE', ' SFDB', ' SUBSTIPHARM', ' SUN', ' TEVA', ' TILLOMED', ' UPSA', ' URGO', ' VIATRIS', ' VJ-PHARM', ' WAYMADE', ' WELEDA', ' ZENTIVA', ' ZF', ' ZYDUS', \
   ' (rapport amoxicilline/acide clavulanique : 8/1)', ' (rapport amoxicilline/acide clavulanique: 8/1)', ' (Rapport Amoxicilline/Acide clavulanique : 8/1)', ' en flacon', \
   ' LAB', ' LABO']
 

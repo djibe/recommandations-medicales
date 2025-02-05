@@ -146,7 +146,7 @@ La sensibilité du TDR chez l'enfant est de 85%.
 {{% /collapse %}}
 {{%collapse "Indications à l'hospitalisation" %}}
 
-### Critères d'hospitaliser pour angine
+### Critères d'hospitalisation de l'angine
 
 - Angine streptococcique compliquée
 - Diphtérie

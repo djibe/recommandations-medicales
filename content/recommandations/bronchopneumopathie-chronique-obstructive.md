@@ -514,7 +514,7 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
   - ECBC en cas d'exacerbations fréquentes (*GOLD*)
 - **Antibiothérapie adaptée** si critères ci-dessus avec facteur de risque d'échec ou de complication  
   +65 ans, échec de la 1re ligne, ≥ 2 exacerbations par an ou 1 hospitalisation, VEMS < 50%, insuffisance cardiaque ou SCA, désaturation/oxygénothérapie.
-  - Amoxicilline-clavulanique 1g x 3/j pendant max 5 jours
+  - Amoxicilline/acide clavulanique 1g x 3/j pendant max 5 jours
   - Si allergie aux pénicillines: triméthoprime/sulfaméthoxazole 800/160 mg x 2/j ou ceftriaxone 1-2 g x 1/j IV ou SC
   - Si pénurie: idem absence de facteur de risque
   - En dernier recours: lévofloxacine 500 mg x 1/j (ne pas utiliser si *Pseudomonas aeruginosa* connu)

@@ -159,7 +159,7 @@ La consultation et l'examen clinique de la patiente sont un préalable indispens
 - Déterminer une ITT (Incapacité totale de travail) lors du certificat initial n'est pas obligatoire : à éviter en l'absence de compétences spécifiques (l'ITT sera fixée ultérieurement à la demande des autorités par les services compétents).
 
 {{% /collapse %}}
-{{%collapse "FMC" %}}
+{{%collapse "FMC gratuites" %}}
 
 {{< card-link-external title="MOOC Violences faites aux femmes" url="https://www.pns-mooc.com/fr/mooc/module/64/introduction" subtitle="Pédagogie Numérique en Santé">}}
 

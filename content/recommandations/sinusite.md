@@ -176,10 +176,10 @@ En cas de pénurie, traitement différé si possible: amoxicilline cp 1 g disper
 
 ##### Antibiotique en cas d'échec ou d'origine dentaire
 
-- **Adulte:** Amoxicilline-acide clavulanique 1 g x 3/j pendant 7 jours
+- **Adulte:** Amoxicilline/acide clavulanique 1 g x 3/j pendant 7 jours
   - Si allergie: Céfpodoxime 200 mg x 2/j pendant 5 jours  
     ou céfuroxime-axétil 250 mg x 2/j pendant 5 jours
-- **Enfant:** Amoxicilline-acide clavulanique 80 mg/kg/j pendant 10 jours
+- **Enfant:** Amoxicilline/acide clavulanique 80 mg/kg/j pendant 10 jours
   - Si allergie: céfpodoxime 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 10 jours
   - Si allergie aux bêta-lactamines: sulfaméthoxazole-triméthoprime 30 mg/kg/j en 2 prises (max 800/160 mg/j) pendant 10 jours
 
@@ -198,7 +198,7 @@ En cas de pénurie, traitement différé si possible: amoxicilline cp 1 g disper
 {{%info%}}
 Antibiotique de référence pour la prise en charge de la sinusite frontale:
 
-- **Adulte:** Amoxicilline-a. clavulanique 1 g/125 mg x 3/j pendant 7 jours et avis ORL
+- **Adulte:** Amoxicilline/acide clavulanique 1 g/125 mg x 3/j pendant 7 jours et avis ORL
 - **Enfant:** Amoxicilline 80 mg/kg/j en 2 prises pendant 10 jours
 {{%/info%}}
 
@@ -221,7 +221,7 @@ Si enfant avec allergie aux bêta-lactamines: voir Sinusite maxillaire.
 
 Antibiotique de référence pour la prise en charge de la sinusite sphénoïdale ou ethmoïdite de forme mineure:
 
-- **Adulte:** Amoxicilline-acide clavulanique 1 g/125 mg x 3/j pendant 7 jours
+- **Adulte:** Amoxicilline/acide clavulanique 1 g/125 mg x 3/j pendant 7 jours
 - **Enfant:** avis spécialisé ORL ou pédiatrique en urgence
 
 ##### Allergie à la pénicilline sans allergie céphalosporines (sphénoïdale ou ethmoïdite)

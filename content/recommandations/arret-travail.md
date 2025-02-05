@@ -131,10 +131,10 @@ Préciser l'adresse exacte de résidence durant le séjour.
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="Arrêts de travail : prévenir, prescrire, accompagner ..." url="https://www.fun-mooc.fr/fr/cours/arrets-de-travail-prevenir-prescrire-accompagner-la-reprise/" subtitle="FMC par l'Assurance Maladie">}}
-
 ### Bibliographie en attente
 
 <https://www.ameli.fr/medecin/actualites/en-video-les-cas-pratiques-pour-aborder-les-differents-aspects-de-l-arret-de-travail>
 
 {{%/sources%}}
+
+{{< card-link-external title="Arrêts de travail : prévenir, prescrire, accompagner ..." url="https://www.fun-mooc.fr/fr/cours/arrets-de-travail-prevenir-prescrire-accompagner-la-reprise/" subtitle="FMC par l'Assurance Maladie">}}

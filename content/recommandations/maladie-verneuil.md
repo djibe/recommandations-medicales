@@ -137,7 +137,7 @@ Antibiothérapie d'urgence dès les premiers prodromes (à avoir sur soi):
 
 ##### Traitement d'urgence
 
-Amoxicilline - a. clavulanique 2-3 g en 1 prise pour 60 kg (4g pour 120 kg)  
+Amoxicilline/acide clavulanique 2-3 g en 1 prise pour 60 kg (4g pour 120 kg)  
 puis 3 fois par jour pendant 5 jours
 {{%/info%}}
 

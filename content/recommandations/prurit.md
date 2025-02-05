@@ -219,14 +219,9 @@ Traitement de la cause et des facteurs aggravants le prurit.
 Substitution d'un **médicament** suspecté d'induire le prurit.
 
 {{% /collapse %}}
-{{%collapse "FMC gratuite" %}}
+{{%collapse "Prise en charge d'un prurit" "show" %}}
 
-{{< card-link-external title="Tout savoir sur les démangeaisons" url="https://www.fun-mooc.fr/fr/cours/tout-savoir-sur-les-demangeaisons/" subtitle="par l'Université de Bretagne Occidentale">}}
-
-{{% /collapse %}}
-{{%collapse "Conduite à tenir" "show" %}}
-
-{{< mermaid title="Prise en charge d'un prurit. Dr JB Fron d'après CEDEF 2021" >}}
+{{< mermaid title="Conduite à tenir devant un prurit. Dr JB Fron d'après CEDEF 2021" >}}
 graph TB
   prurit[Prurit] --> examen("- Interrogatoire<br>- Clinique")
   style prurit stroke:#4150f5, stroke-width:1px
@@ -246,7 +241,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Butler DC et al. Chronic Pruritus: A Review. JAMA. 2024.](https://jamanetwork.com/journals/jama/article-abstract/2819296)
-- [Pereira M. et al. European academy of dermatology and venereology European prurigo project: expert consensus on the definition, classification and terminology of chronic prurigo. J Eur Acad Dermatol Venereol. 2018.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.14570)
+- [Butler DC, et al. Chronic Pruritus: A Review. JAMA. 2024.](https://jamanetwork.com/journals/jama/article-abstract/2819296)
+- [Pereira M, et al. European academy of dermatology and venereology European prurigo project: expert consensus on the definition, classification and terminology of chronic prurigo. J Eur Acad Dermatol Venereol. 2018.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.14570)
 
 {{%/sources%}}

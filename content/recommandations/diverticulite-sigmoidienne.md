@@ -178,7 +178,7 @@ Pas d'AINS, corticoïdes ou aspirine.
 
 Indication à l'antibiothérapie ambulatoire: **échec thérapeutique à 48 heures** sans critère d'hospitalisation.
 
-Amoxicilline-acide clavulanique 1 g x 3/j pendant 7 jours.
+Amoxicilline/acide clavulanique 1 g x 3/j pendant 7 jours.
 {.alert .alert-info}
 
 Si allergie documentée à la pénicilline: ciprofloxacine 500 mg x 2/j + métronidazole 500 mg x 3/j pendant 7 jours.

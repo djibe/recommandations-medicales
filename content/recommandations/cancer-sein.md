@@ -269,6 +269,8 @@ Les indications à l'IRM mammaire sont limitées:
 
 Réduction de la consommation d'[alcool]({{< relref "sevrage-alcool.md" >}}) (15% attribuables, *CIRC et SPF*), tabac (4,4 %), lutte contre surpoids/[obésité]({{< relref "obesite-adulte.md" >}}) (11%) et l'inactivité physique.
 
+**NB.** L'aluminium des déodorants n'est [évidemment pas cancérigène](https://leseclairages.e-cancer.fr/les-sels-daluminium-dans-les-deodorants-favorisent-ils-les-cancers-du-sein/).
+
 ### Palpation mammaire annuelle
 
 > [!INFO]
