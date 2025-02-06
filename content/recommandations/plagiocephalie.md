@@ -7,7 +7,7 @@ synonyms = ["Déformations crâniennes positionnelles"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-11T17:40:29+02:00
 publishdate = "2020-07-11"
-lastmod = "2022-10-29"
+lastmod = "2025-02-06"
 specialites = ["pediatrie"]
 annees = "2020"
 sources = ["HAS"]
@@ -50,6 +50,8 @@ Plagiocéphalie
 - Périodes d'éveil sur le ventre < 3 fois par jour
 - Taux d'activité limité
 - Autres: position préférentielle pendant le sommeil, position fixe dans le lit
+
+> L'ostéopathie chez les nouveaux-nés à risque ne modifie pas la prévalence des déformations à 4 mois (*[Genelot et al 2025](https://www.em-consulte.com/article/1716473/figures/early-osteopathic-manipulative-treatment-to-preven)*).
 
 ### Abréviations
 
@@ -106,6 +108,8 @@ Mesures de prévention de la plagiocéphalie positionnelle:
   Au moins 10 à 15 minutes au moins 3 fois par jour.
 - [Fiche info parents HAS: prévenir la tête plate (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-01/recto_a4-vdef_20210107.pdf)
 
+Absence de bénéfice de l'ostéopathie chez les nouveaux-nés à risque (*[Genelot et al 2025](https://www.em-consulte.com/article/1716473/figures/early-osteopathic-manipulative-treatment-to-preven)*).
+
 {{% /collapse %}}
 {{%collapse "Traitement de la plagiocéphalie" %}}
 
@@ -149,11 +153,8 @@ graph TB
 
 {{< card-link-external title="Plagiocéphalies, craniosténoses et syndrome du bébé secoué en MG" url="https://open.spotify.com/episode/7kGUwLjNWULG3qKRg5Yh27" subtitle="Guideline.care">}}
 
-- [HAS, CNPP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. Février 2020.](https://www.has-sante.fr/jcms/p_3151574/fr/prevention-des-deformations-craniennes-positionnelles-dcp-et-mort-inattendue-du-nourrisson)
+- [HAS, CNPP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. 2020.](https://www.has-sante.fr/jcms/p_3151574/fr/prevention-des-deformations-craniennes-positionnelles-dcp-et-mort-inattendue-du-nourrisson)
+- [Cavalier A, Mazurier E. Plagiocéphalie fonctionnelle (non synostotique): prévention dès la maternité. Réalités pédiatriques. 2013. (PDF)](https://afpa.org/content/uploads/2017/08/Cavalier_plagiocephalie_-RealitesPediatriques.pdf)
 - [Société Canadienne de Pédiatrie. La plagiocéphalie positionnelle. Octobre 2011.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3202395/)
-
-### Bibliographie en attente
-
-[Cavalier A, Mazurier E. Plagiocéphalie fonctionnelle (non synostotique): prévention dès la maternité. réalités pédiatriques. 2013. (PDF)](https://afpa.org/content/uploads/2017/08/Cavalier_plagiocephalie_-RealitesPediatriques.pdf)
 
 {{%/sources%}}

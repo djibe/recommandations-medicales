@@ -45,7 +45,7 @@ Pour l'**ostéoporose cortisonique**, voir la section [traitements anti-ostéopo
 
 ### Prévention pour toutes {.typography-overline .mb-2}
 
-{{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, [arrêt du tabac]({{< relref "arret-tabac.md" >}}), activité physique, [vitamine D]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1 - 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
+{{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, [arrêt du tabac]({{< relref "arret-tabac.md" >}}), activité physique, [vitamine D]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L et ≥ 800 UI/j, {{< modal-btn modal-calcium-cible >}}calcium cible 1 - 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
 
 Chapitres liés: [ostéoporose de l'homme]({{< relref "osteoporose-masculine.md" >}}), [traitement hormonal de la ménopause]({{< relref "menopause.md" >}}), [calcium]({{< relref "apports-calcium.md" >}}) et [vitamine D]({{< relref "vitamine-d.md" >}})
 
@@ -354,12 +354,12 @@ Tout au long de la vie: activité physique adaptée, {{< modal-btn modal-regime 
 - Vitamine D
   - Prévenir une carence en vitamine D par cible ≥ 75 nmol/L
   - Dose d'entretien: 800-1200 UI/j (ou 80-100.000 UI/2-3 mois)
-  - Voir *[Vitamine D]({{< relref "vitamine-d.md" >}})* pour les protocoles de correction
+  - Voir *[Vitamine D]({{< relref "vitamine-d.md" >}})* pour les protocoles de correction et supplémentations
 - Calcium
   - Femme ménopausée ≥ 50 ans: {{< modal-btn modal-calcium-cible >}}apports cibles 1 - 1,2 g/j{{< /modal-btn >}}
   - {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}}
-  - Associations calcium/vitamine D, à distance des repas  
-    {{< traitements/calcium-vitd >}}.
+  - Associations calcium/vitamine D, à distance des repas
+    {{< traitements/calcium-vitd >}}
   - {{< modal-btn modal-calcium >}}Aliments riches en calcium{{< /modal-btn >}}, 2-3 produits laitiers/j
   - Apports lactés quotidiens jusqu'à 3 ans
 - Apports protéiques minimum de 1 à 1,2 g/kg/j

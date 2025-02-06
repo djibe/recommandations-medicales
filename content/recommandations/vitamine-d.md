@@ -263,7 +263,9 @@ La vitamine D est [prise pendant le repas]({{< relref "medicaments-prise-repas.m
 - Goutte  
   [Adrigyl®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66269026&typedoc=R) 333 UI/goutte, [ZymaD®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63902334&typedoc=R) 300 UI/goutte.
 
-Spécialités avec calcium + vitamine D3 associés (prendre [à distance des repas]({{< relref "medicaments-prise-repas.md" >}})): effervescent (Cacit, Calcidose, Eptavit), cp (Cacit, Calciforte, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Fixical, Ideos, Natecal, Orocal)
+Spécialités avec calcium + vitamine D3 associés (prendre [à distance des repas]({{< relref "medicaments-prise-repas.md" >}})):
+
+{{< traitements/calcium-vitd >}}
 
 ### Spécialité de vitamine D2
 

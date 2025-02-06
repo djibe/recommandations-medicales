@@ -9,7 +9,7 @@ synonyms = ["Antidouleurs en pédiatrie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-12-26T00:12:41+02:00"
 publishdate = "2020-12-26"
-lastmod = "2023-10-12"
+lastmod = "2025-02-06"
 specialites = ["pediatrie"]
 annees = "2021"
 sources = ["Collège", "HAS", "Pediadol"]
@@ -57,7 +57,7 @@ Formes: sirop, capsule, cp.
 
 Associer paracétamol et anti-inflammatoires non stéroïdiens si besoin (et non pas alterner), 1 heure après le paracétamol si insuffisamment soulagé.
 
-> L'OMS 2012 insiste sur le fait qu'il s'agit du seul AINS suffisamment étudié chez l'enfant.
+> L'*OMS 2012* insiste sur le fait qu'il s'agit du seul AINS suffisamment étudié chez l'enfant.
 
 Traitement sûr (*[Lesko 1995](https://pubmed.ncbi.nlm.nih.gov/7884951/)*). Classé en palier 1 mais peut être plus efficace que des paliers 2 voire 3 après certains traumatismes ou phases post-opératoires.
 

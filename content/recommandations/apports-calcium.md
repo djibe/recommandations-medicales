@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-14T13:07:50+02:00"
 publishdate = "2023-09-14"
-lastmod = "2024-12-18"
+lastmod = "2025-02-06"
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2022"
 sources = ["SFP", "EFSA"]
@@ -32,8 +32,7 @@ todo = "rankok, IRC"
 Chapitres liés: [vitamine D]({{< relref "vitamine-d.md" >}}), [ostéoporose de la femme]({{< relref "osteoporose.md" >}}) et [ostéoporose masculine]({{< relref "osteoporose-masculine.md" >}})
 
 {{%/article-summary%}}
-
-## Apports en calcium recommandés chez l'enfant {.mt-5}
+{{%collapse "Apports en calcium recommandés chez l'enfant" %}}
 
 Apports alimentaires en calcium recommandés pendant la croissance de l'enfant afin de satisfaire ses besoins.
 
@@ -41,25 +40,26 @@ Apports alimentaires en calcium recommandés pendant la croissance de l'enfant a
 
 Informations pour le refus du lait chez le nourrisson: [à 14 mois](https://www.mpedia.fr/qr/refus-lait-croissance-14mois-carences-produits-laitiers/), [18 mois](https://www.mpedia.fr/qr/refus-lait-de-croissance-18-mois/), [2 ans](https://www.mpedia.fr/qr/mon-enfant-de-2-ans-refuse-le-biberon-de-lait-de-croissance/)
 
-## Apports quotidiens en calcium recommandés selon l'âge {.mt-5}
+{{% /collapse %}}
+{{%collapse "Apports quotidiens en calcium recommandés selon l'âge" %}}
 
 {{< clinique/calcium-cible >}}
 
 > -- Également *[Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Alimentation et besoins nutritionnels. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/alimentation#e-apports-en-calcium-conseilles)*
 
-## Évaluer les quotidiens apports en calcium {.mt-5}
+{{% /collapse %}}
+{{%collapse "Évaluer les quotidiens apports en calcium" %}}
 
 Questionnaire du {{%tooltip "Groupe de Recherche et d’Information sur les Ostéoporoses"%}}GRIO{{%/tooltip%}} pour l'évaluation de la couverture des apports quotidiens en calcium.
+
+En cas d'apports insuffisants, voir la section suivante pour la supplémentation en calcium ± vitamine D3.
 
 <div class="alert border">
 {{< scores/questionnaire-grio >}}
 </div>
 
-## Teneur en calcium des aliments {.mt-5}
-
-{{< traitements/aliments-calcium >}}
-
-## Supplémentation en calcium {.mt-5}
+{{% /collapse %}}
+{{%collapse "Supplémentation en calcium" %}}
 
 ### Spécialités de calcium {.mt-4}
 
@@ -67,6 +67,13 @@ Questionnaire du {{%tooltip "Groupe de Recherche et d’Information sur les Ost�
 
 ### Spécialités de calcium et vitamine D en association
 
-Pour les personnes à risque (ostéoporose, traitement biphosphonate, corticothérapie au long cours, apports insuffisants, chutes répétées), une supplémentation en calcium et vitamine D3 est à prendre à distance des repas.
+Pour les personnes à risque ([ostéoporose]({{< relref "osteoporose.md" >}}), traitement biphosphonate, [corticothérapie au long cours]({{< relref "corticoides.md" >}}), apports insuffisants, chutes répétées), une supplémentation en calcium et vitamine D3 est à prendre à distance des repas.
 
 {{< traitements/calcium-vitd >}}.
+
+{{% /collapse %}}
+{{%collapse "Teneur en calcium des aliments" %}}
+
+{{< traitements/aliments-calcium >}}
+
+{{% /collapse %}}

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-14T19:48:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2025-01-07"
+lastmod = "2025-02-06"
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
 annees = "2023"
 sources = ["CMIT", "SPILF", "MinSanté"]
@@ -24,7 +24,7 @@ todo = "rankok, flowchart, zona en pédiatrie"
 
 - Le zona est une réactivation du virus varicelle-zona (VZV) au sein d'un ganglion sensitif, donnant une éruption vésiculeuse sur le métamère correspondant
 - Les symptômes sont principalement des douleurs localisées avec paresthésies, brûlures et troubles sensitifs du dermatome
-- La prise en charge du zona est simplement symptomatique, sauf indication au traitement antiviral valaciclovir 1 g 3 fois par jour pendant 7 jours si:  
+- La prise en charge du zona est simplement symptomatique, sauf indication au traitement antiviral valaciclovir 1 g 3 fois par jour pendant 7 jours avec hydratation si:  
   zona ophtalmique, +50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs intenses en phase aiguë, lésions cutanées graves)
 - Critères d'hospitalisation du zona en urgence: immunodépression, atteinte organique ou [paralysie faciale zostérienne]({{< relref "paralysie-faciale-idiopathique.md" >}})
 - Vaccination post-exposition (varicelle) après 12 ans chez l'immunocompétent sans antécédent de varicelle en contact avec un cas de zona, après sérologie
@@ -196,7 +196,7 @@ Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anes
 
 #### Prise en charge du zona par antiviral
 
-Le traitement antiviral doit être débuté en **urgence** dans les 48 à 72 premières heures.
+Le traitement antiviral doit être débuté en **urgence** dans les 48 à 72 premières heures, avec une bonne hydratation.
 
 [Valaciclovir](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68070731&typedoc=R) 2 x 500 mg 3 fois par jour pendant 7 jours, début immédiat
 {.alert .alert-info}

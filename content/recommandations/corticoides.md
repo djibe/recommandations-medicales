@@ -158,8 +158,8 @@ Mesures associées à un traitement corticoïde prolongé:
   - Informer sur l'effet orexigène des corticoïdes
 - Prévention de l'ostéoporose cortisonique
   - {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}}
-  - [Supplémentation en calcium]({{< relref "apports-calcium.md" >}}) et [vitamine D]({{< relref "vitamine-d.md" >}}) à distance des repas.  
-  Spécialités disponibles: {{< traitements/calcium-vitd >}}.
+  - [Supplémentation en calcium]({{< relref "apports-calcium.md" >}}) et [vitamine D]({{< relref "vitamine-d.md" >}}) à distance des repas.
+    {{< traitements/calcium-vitd >}}
 - Suivi des effets indésirables: hypertension, amyotrophie, état cutané et psychologique
 - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}})
   - Vaccins de l'immunodéprimé
