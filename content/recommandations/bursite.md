@@ -172,6 +172,6 @@ graph TB
 
 ### Bibliographie en attente
 
-[Darrieutort-Laffite C, et al. Recommandations françaises pour le diagnostic et la prise en charge des bursites septiques pré-patellaires et olécraniennes. Revue du Rhumatisme. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S1169833023004337)
+[Darrieutort-Laffite C, et al. Recommandations françaises pour le diagnostic et la prise en charge des bursites septiques pré-patellaires et olécraniennes. Revue du Rhumatisme. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S1169833023004337) (payant)
 
 {{%/sources%}}

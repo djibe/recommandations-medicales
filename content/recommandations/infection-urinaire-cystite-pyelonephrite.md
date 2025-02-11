@@ -30,7 +30,7 @@ Recommandations pour le traitement des infections urinaires communautaires de l'
 - **Colonisation urinaire**  
   Traitement uniquement pendant la grossesse et avant un geste urologique.
 - **Cystite aiguë simple**
-  - Fosfomycine trométamol 3g dose unique.
+  - Fosfomycine trométamol 3g dose unique
   - De 16 à 65 ans, la BU et la délivrance d'antibiotique peuvent être réalisés directement par le pharmacien formé (*[Service-Public](https://www.service-public.fr/particuliers/actualites/A17229?xtor=EPR-100)*)
 - **Cystite aiguë à {{< modal-btn modal-fdr-complication >}}risque de complication{{< /modal-btn >}} ou infection urinaire masculine pauci-symptomatique**  
   Privilégier si possible un traitement différé adapté à l'antibiogramme.
@@ -131,7 +131,7 @@ Symptômes de la cystite de la femme: **brûlures mictionnelles**, pollakiurie, 
 
 Prise en charge de la cystite de la femme par **BU** (leucocytes + voire nitrites +) et antibiothérapie probabiliste:
 
-1. ==[Fosfomycine trométamol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66430643&typedoc=R) 3g dose unique==
+1. ==[Fosfomycine trométamol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66430643&typedoc=R) 3g dose unique== à distance des repas
 2. [Pivmécillinam](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60670489&typedoc=R) (Selexid®) 400 mg x 2/j pendant 3 jours
 
 ECBU uniquement en l'absence d'amélioration à 72 heures, récidive dans les 2 semaines ou double contre-indication. Le traitement adapté à l'antibiogramme sera celui des cystites à risque de complication.

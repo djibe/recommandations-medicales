@@ -145,7 +145,7 @@ Interrogatoire devant un ulcère de jambe:
   - Douleur
   - Localisation veineuse: périmalléolaire jusqu'au tiers inférieur du mollet
   - Signes d'insuffisance veineuse  
-    Œdème de la cheville, télangiectasies, veines réticulaires, couronne phlébectasique de la cheville ou du pied, varices, eczéma, dermite ocre, lipodermatosclérose (aspect de guêtres), atrophie blanche, cicatrices d'ulcères veineux.
+    {{< clinique/insuffisance-veineuse >}}.
   - Signes de surinfection de la plaie  
     Fièvre, signes inflammatoires locaux (érythème, sensibilité ou gonflement des bords de la plaie ) ou cellulite, odeur nauséabonde, douleur, retard de cicatrisation ou dégradation de la plaie et signes biologiques d'infection.
   - Photos

@@ -57,7 +57,7 @@ df['libelle'] = df['libelle'].str.replace(r' à libération prolongée', '', reg
 df2['dci'] = df2['dci'].str.replace(r'(?i)\bPOUR CENT\b', '%', regex=True)
 
 unwanted_libelle_values = ["BOIRON", "COMPLEXE N", "COMPOSE", "VOMICA", "2CH", "3CH", "4CH", "5CH", "6CH", "8CH"]
-unwanted_voie_values = ["épilésionelle", "intraveineuse", "intrathécale", "intravesicale"]
+unwanted_voie_values = ["épilésionelle", "hemodialyse", "intraveineuse", "intrathécale", "intravesicale"]
 
 df_filtered = df[
     (df['commercialisation'] == 'Commercialisée') &

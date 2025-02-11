@@ -105,13 +105,13 @@ Possibilité de manger immédiatement avant ou après. [Guide info parent rotavi
 | Coqueluche                       |                       39 ans                        | [Grossesse voire cocooning]({{< relref "coqueluche.md" >}}) |
 | Haemophilus                      |                        5 ans                        | [Asplénie]({{< relref "asplenie.md" >}})               |
 | Hépatite B                       |                       15 ans                        | [Hépatite B]({{< relref "hepatite-b.md" >}})           |
-| Méningocoque ACWY                |                       24 ans                        | Pas de rattrapage après 12 mois chez le nourrisson,<br>dose unique si non fait à 11-14 ans |
+| Méningocoque ACWY                |                       24 ans                        | Pas de rattrapage après 12 mois chez<br>le nourrisson,<br>dose unique si non fait à 11-14 ans |
 | Méningocoque B                   |                       23 mois                       |                                                        |
 | Papillomavirus (HPV)             |                       19 ans                        | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}})          |
 | Pneumocoque                      |                       23 mois                       | Asplénie, BPCO, cancer,  diabète ...                   |
 | Rotavirus                        |                       4 mois                        | Doit être terminé avant 24 semaines                    |
 | Rougeole<br>Oreillons<br>Rubéole |                       44 ans                        |                                                        |
-| Tuberculose                      | Lire [tuberculose]({{< relref "tuberculose.md" >}}) |                                                        |
+| Tuberculose                      |                                                     | Lire [tuberculose]({{< relref "tuberculose.md" >}})    |
 | Varicelle                        |                       18 ans                        | [Autour d'un cas]({{< relref "varicelle.md" >}})       |
 | Zona                             |                        Aucune                       | [À partir de 65 ans]({{< relref "zona.md" >}})         |
 {{< /table >}}

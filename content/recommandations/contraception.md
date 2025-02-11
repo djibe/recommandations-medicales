@@ -123,6 +123,7 @@ Les œstroprogestatifs augmentent le risque de [thromboembolie veineuse](/tags/m
 
 - Grossesse (*[CRAT](http://www.lecrat.fr/11368/)*)
 - Allaitement: les 6 premières semaines (*[CRAT](http://www.lecrat.fr/11369/)*)
+- Antécédent personnel de thrombose veineuse superficielle selon *SFMV 2019*
 - Antécédent familial au 1^er^ degré
   - [Infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) ou AVC chez homme -55 ans ou femme -65 ans
   - MVTE (thrombose veineuse profonde, embolie pulmonaire) avant 50 ans  
@@ -137,7 +138,7 @@ Les œstroprogestatifs augmentent le risque de [thromboembolie veineuse](/tags/m
 - Antécédent personnel de [cancer du sein]({{< relref "cancer-sein.md" >}})  
   Contre-indication à toute contraception hormonale.
 - Antécédent personnel de tumeur ovarienne de la granusola adulte avec traitement conservateur
-- Toute contraception hormonale est déconseillée après adénocarcinome séreux de bas grade ou endométrioïde de bas grade [de l'ovaire]({{< relref "cancer-ovaire.md" >}})
+- Toute contraception hormonale est déconseillée après adénocarcinome séreux ou endométrioïde de bas grade [de l'ovaire]({{< relref "cancer-ovaire.md" >}})
 
 Privilégier une contraception non hormonale après traitement d'un [carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}}) (pour la fonction hépatique).
 

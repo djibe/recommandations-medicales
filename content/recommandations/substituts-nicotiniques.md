@@ -18,7 +18,7 @@ sctid = "776904000"
 icd10 = []
 image = true
 imageSrc = "La journée mondiale sans tabac par Freepik"
-todo = "SEO 'liste des substituts nicotiniques remboursables par l'assurance maladie'"
+todo = "update, SEO 'liste des substituts nicotiniques remboursables par l'assurance maladie'"
 flowchart = true
 +++
 

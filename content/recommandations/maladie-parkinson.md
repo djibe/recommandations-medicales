@@ -250,7 +250,7 @@ Le syndrome malin des neuroleptiques provoque: troubles de la conscience, rigidi
 {{%collapse "Examens complémentaires" %}}
 
 > [!INFO]
-> << Il n'y a aucun examen paraclinique diagnostique de référence >> (*HAS 2016*) et << Le diagnostic est clinique et ne justifie aucun examen complémentaire >>. (*Collège*)
+> << Il n'y a aucun examen paraclinique diagnostique de référence >> -- *HAS 2016* et << Le diagnostic est clinique et ne justifie aucun examen complémentaire >>. -- *Collège*
 
 ### IRM cérébrale
 
@@ -274,11 +274,11 @@ Le DAT-scan (ou DaTscan, SPECT au bêta-CIT) peut être prescrit par le neurolog
 Le conseil génétique est recommandé (*EFNS 2013*) si: plusieurs proches atteints sur plus d'une génération.
 
 {{% /collapse %}}
-{{%collapse "Traitement de la Maladie de Parkinson" %}}
+{{%collapse "Mesures générales du traitement" %}}
 
 Le traitement est symptomatique et pluridisciplinaire avec un accès privilégié au neurologue (minimum semestriel):
 
-- [ALD n°16]({{< relref "affection-longue-duree.md" >}})  
+- Déclarer l'[ALD n°16]({{< relref "affection-longue-duree.md" >}})  
   Critère: Syndrome parkinsonien non réversible nécessitant au moins un traitement anti parkinsonien pendant au moins 6 mois.
 - Suivi minimal trimestriel  
   Avis gériatrique si besoin.
@@ -300,18 +300,15 @@ Le traitement est symptomatique et pluridisciplinaire avec un accès privilégi�
 - [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 58](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RA%2058): exposition aux pesticides ≥ 10 ans  
   ou du [manganèse Tableau 39](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2039)
 
-### Les traitements spécifiques du Parkinson
+{{% /collapse %}}
+{{%collapse "Traitements médicamenteux de la Maladie de Parkinson" %}}
 
-Ne jamais interrompre brutalement un traitement antiparkinsonien (risque d'akinésie aiguë ou de syndrome malin des neuroleptiques).
-{.alert .alert-warning}
+> [!WARNING]
+> Ne jamais interrompre brutalement un traitement antiparkinsonien (risque d'akinésie aiguë ou de syndrome malin des neuroleptiques).
 
-Le traitement de la Maladie de Parkinson n'est pas une urgence. Intérêt d'un diagnostic fiable avant l'introduction des traitements.
+Le traitement médicamenteux de la Maladie de Parkinson **n'est pas une urgence et n'est pas indispensable en l'absence de retentissement moteur**. Intérêt d'un diagnostic fiable avant l'introduction des traitements. La **réponse aux traitements** est un argument fort pour la confirmation diagnostique.
 
-La réponse aux traitements est un argument fort pour la confirmation diagnostique.
-
-#### Les traitements médicamenteux de la Maladie de Parkinson
-
-Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l'absence de retentissement moteur. En première intention, les **IMAO B et agonistes dopaminergiques** sont préférés afin d'épargner la L-Dopa.
+les **IMAO B et agonistes dopaminergiques** sont les traitements de première intention pour épargner la L-Dopa:
 
 - IMAO-B (inhibition du catabolisme de la dopamine)  
   Sélégiline (Deprenyl®), rasagiline, safinamide (non remboursé, Xadago®).
@@ -320,7 +317,7 @@ Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l
   - Non dérivés de l'ergot en première intention: **ropinirole**, piribédil (Trivastal®), pramipexole, rotigotine (Neupro®, transdermique)
   - Dérivés de l'ergot de seigle: bromocriptine (Parlodel®), lisuride (Arolac®)
 - Amantadine (Mantadix® pour les dyskinésies)
-- **L-Dopa**  
+- **L-Dopa** (lévodopa)  
   Retarder l'instauration pour épargner son efficacité (apparition de fluctuations et dyskinésies à terme sous traitement).
 - Anticholinergiques bipéridène (tremblement uniquement)
 - Inhibiteurs de la catéchol-O-méthyl transférase (inhibition du métabolisme périphérique)  
@@ -328,7 +325,7 @@ Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l
 
 Phase avancée: des pompes implantables d'apomorphine SC et de L-Dopa (grêlique) sont possibles.
 
-##### Fluctuations d'efficacité du traitement et dyskinésies
+### Fluctuations d'efficacité du traitement et dyskinésies
 
 Anomalies fréquemment observées avec le traitement dopaminergique:
 
@@ -347,7 +344,7 @@ Anomalies fréquemment observées avec le traitement dopaminergique:
     Mouvements involontaires des jambes (souvent douloureux) lors des changements de phase.
   - Prise en charge des dyskinésies: fractionner la L-dopa, ajouter amantadine
 
-#### La stimulation cérébrale profonde (SCP)
+### La stimulation cérébrale profonde (SCP)
 
 La stimulation cérébrale profonde consiste à implanter 1 ou 2 électrodes dans le cerveau, connectées à un générateur sous-cutané pour une stimulation modulable et réversible.
 
