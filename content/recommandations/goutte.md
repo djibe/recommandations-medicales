@@ -322,7 +322,7 @@ Fébuxostat contre-indiqué en maladie cardiovasculaire sévère:
 - Diabète compliqué
 {{%/warning%}}
 
-Arrêt de l'allopurinol et remplacement par **[fébuxostat](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63862669&typedoc=R)** (Adénuric®) 40 mg/j puis 40 mg x 2/j au long cours.
+Arrêt de l'allopurinol et remplacement par **[fébuxostat](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63862669&typedoc=R)** (Adénuric®) 40 mg/j puis 80 mg en 1 prise par jour au long cours.
 
 **NB.** Absence d'allergie croisée entre allopurinol et fébuxostat.
 

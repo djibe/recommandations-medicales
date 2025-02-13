@@ -323,15 +323,15 @@ Les mammographies sont remboursées à 100% (les examens supplémentaires ne le 
   - 2^e^ avis médical: [IGR](https://www.gustaveroussy.fr/fr/cancer-sein/contacts) à renvoyer à <avis.sein@gustaveroussy.fr>
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du cancer du sein" %}}
 
 Après RCP peuvent être proposés pour la prise en charge du cancer du sein: chirurgie, radiothérapie, chimiothérapie, hormonothérapie (récepteur estrogène ou progestérone), thérapies ciblées (bévacizumab, HER2).
 
-### Mesures associées
+### Mesures générales de prise en charge
 
 - Femme non ménopausée: contraception non hormonale (préservatif, DIU cuivre)  
   Désir d'enfant, sur avis oncologique.
-- Contre-indication à vie au THM
+- Contre-indication à vie au traitement hormonal de la ménopause
 - Activité physique quotidienne ([guide patiente HAS](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_cancer.pdf))
 - Consignes pour le lymphœdème  
   Voir *Surveillance après cancer*.
@@ -364,6 +364,8 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: ch
 - Chirurgie reconstructrice
   - Tumorectomie: possible après quelques semaines-mois
   - Mastectomie: prothèse mammaire externe, reconstruction à distance de la guérison
+
+Anti-aromatases disponibles: anastrozole (Arimidex, gén), exémestane (Aromasine, gén) et létrozole (Femara, gén).
 
 {{% /collapse %}}
 {{%collapse "Surveillance après cancer du sein" %}}

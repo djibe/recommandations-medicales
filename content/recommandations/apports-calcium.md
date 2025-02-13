@@ -69,7 +69,7 @@ En cas d'apports insuffisants, voir la section suivante pour la supplémentation
 
 Pour les personnes à risque ([ostéoporose]({{< relref "osteoporose.md" >}}), traitement biphosphonate, [corticothérapie au long cours]({{< relref "corticoides.md" >}}), apports insuffisants, chutes répétées), une supplémentation en calcium et vitamine D3 est à prendre à distance des repas.
 
-{{< traitements/calcium-vitd >}}.
+{{< traitements/calcium-vitd >}}
 
 {{% /collapse %}}
 {{%collapse "Teneur en calcium des aliments" %}}

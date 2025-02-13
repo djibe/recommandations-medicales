@@ -225,7 +225,7 @@ Indications limitées à l'échographie thyroïdienne:
 - [Nodule thyroïdien]({{< relref "nodule-thyroidien.md" >}})
 - Adénopathie cervicale palpable
 - Signes de compression  
-  Dysphonie, dysphagie, dyspnée.
+  [Dysphonie]({{< relref "dysphonie.md" >}}), dysphagie, dyspnée.
 - Palpation thyroïdienne difficile
 - Facteur de risque de [cancer de la thyroïde]({{< relref "cancer-thyroide.md" >}}) (*HAS 2021*)
 {{%/info%}}

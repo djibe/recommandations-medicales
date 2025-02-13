@@ -24,7 +24,7 @@ todo = "SEO, KEY urticaire aiguë, enfant, choc anaphyla, Quincke"
 
 {{%article-summary%}}
 
-- Signes de gravité d'une urticaire: Dysphonie, hyper-salivation et troubles de la déglutition
+- Signes de gravité d'une urticaire: dysphonie, hyper-salivation et troubles de la déglutition
 - Ne pas utiliser les corticoïdes pour l'urticaire par effet rebond
 - Traitement de l'urticaire par antihistaminique anti-H1 seul
 - Bilan uniquement en cas d'urticaire chronique résistante
@@ -129,7 +129,7 @@ UCS
 ### Signes de gravité de l'urticaire
 
 - Dyspnée
-- Dysphonie
+- [Dysphonie]({{< relref "dysphonie.md" >}})
 - Hypersalivation et troubles de la déglutition
 - Malaise
 - Hypotension artérielle

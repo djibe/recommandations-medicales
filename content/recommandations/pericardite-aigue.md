@@ -97,7 +97,7 @@ L'examen clinique d'une suspicion de péricardite recherche une orientation deva
   - Douleurs thoraciques aiguës (> 85%)  
     Rétrosternales ou précordiales gauches de repos, prolongées, résistantes à la trinitrine, augmentées au décubitus, à l'inspiration profonde et à la toux, améliorées penché en avant (antéflexion)
   - Dyspnée soulagée par l'antéflexion
-  - Autres signes de péricardite: toux sèche, dysphonie, hoquet
+  - Autres signes de péricardite: toux sèche, [dysphonie]({{< relref "dysphonie.md" >}}), hoquet
   - Signes généraux du syndrome pseudo-grippal: fièvre, fatigue, myalgies
 - Facteurs de mauvais pronostic
   - Fièvre > 38°C

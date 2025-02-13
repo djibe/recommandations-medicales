@@ -162,7 +162,7 @@ Le bilan d'un TCA allongé n'est réalisé qu'**en cas de TP normal** ou de TCA 
 
 ### Bilan d'un TP bas
 
-Bilan d'un TP bas, quelque soit le TCA:
+Bilan d'un TP bas, quel que soit le TCA:
 
 - Facteurs II, V, VII et X
 - Fibrinogène

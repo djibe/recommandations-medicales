@@ -195,7 +195,7 @@ const chartOptions3 = {
 
 - **Toxiques** à chaque consultation
 - **Vaccinations**
-  - Covid-19 et grippe d'octobre à janvier (possibles quelque soit le terme)
+  - Covid-19 et grippe d'octobre à janvier (possibles quel que soit le terme)
   - Coqueluche entre 20 et 36 SA à chaque grossesse
   - (**Suspendue**) Anti-VRS par Abrysvo une seule fois si terme de 32 à 36 SA de septembre à janvier  
     ou Beyfortus chez le nouveau-né à défaut.

@@ -114,7 +114,7 @@ ICFEd
 : insuffisance cardiaque à fraction d'éjection diminuée (*IC à FE basse*, *IC à fonction systolique diminuée* ou *IC systolique ICS*)({{%lang%}}HFrEF - reduced{{%/lang%}})
 
 ICFEmd
-: insuffisance cardiaque à fonction systolique modérément diminuée ({{%lang%}}HFmrEF - mildly reduced{{%/lang%}})
+: insuffisance cardiaque à fraction d'éjection modérément diminuée ({{%lang%}}HFmrEF - mildly reduced{{%/lang%}})
 
 ICFEp
 : insuffisance cardiaque à fraction d'éjection préservée (*IC à fonction systolique conservée* ou *IC diastolique*)({{%lang%}}HFpEF - preserved{{%/lang%}})

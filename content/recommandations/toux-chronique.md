@@ -69,7 +69,7 @@ VADS
 - Dyspnée d'effort
 - Hémoptysie
 - Apparition/modification de la toux chez un fumeur
-- Dysphonie
+- [Dysphonie]({{< relref "dysphonie.md" >}})
 - Dysphagie
 - Fausses routes
 - Adénopathie(s) cervicale(s) suspecte(s)

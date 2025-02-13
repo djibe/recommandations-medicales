@@ -93,7 +93,7 @@ Le diagnostic de cancer broncho-pulmonaire est évoqué devant les symptômes su
 - Envahissement locorégional
   - Syndrome cave supérieur  
     Œdème de la base du cou, circulation veineuse collatérale, turgescence jugulaire, œdème palpébral le matin.
-  - Dysphonie
+  - [Dysphonie]({{< relref "dysphonie.md" >}})
   - Douleur thoracique
   - Syndrome de Pancoast Tobias  
     Névralgie cervico-brachiale C8-D1 avec myosis - ptosis - énophtalmie (syndrome de Claude Bernard Horner homolatéral)

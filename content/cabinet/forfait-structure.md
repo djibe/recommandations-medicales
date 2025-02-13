@@ -4,9 +4,9 @@ description = "Explication et détail des indicateurs du Forfait structure pour 
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-16T09:20:00+02:00"
 publishdate = "2022-05-16"
-lastmod = "2024-04-23"
+lastmod = "2025-02-13"
 specialites = []
-annees = "2024"
+annees = "2025"
 sources = ["CNAM"]
 tags = []
 image = true
@@ -48,12 +48,12 @@ Les primes du volet 2 ne sont accessibles que lorsque l'ensemble des points du V
 - Taux de dématérialisation PSE ≥ 90% | 22,5 pts - 157,5 €
 - Taux de dématérialisation DMT ≥ 90% | 22,5 pts - 157,5 €
 - Taux de dématérialisation SPE ≥ 30% | 10 pts - 70 €
-- Implication dans des soins coordonnés (MSP, ESP, CPTS, RCP ...) | 120 pts - 840 €
+- Implication dans des soins coordonnés (MSP, ESP, ESS, CPTS, RCP, ASALEE ...) | 120 pts - 840 €
 - Capacité à coder et requêter (ex antécédents CIM-10) | 50 pts - 350 €
-- TODO: Amélioration du service offert aux patients | 70 pts - 490 €
+- Amélioration du service offert aux patients (prise de RDV avec spécialistes, MAIA, CLIC, ASALEE) | 70 pts - 490 €
 - Étudiant en médecine | 50 pts - 350 €
-- Équipement pour téléconsultation (payante) sécurisée | 50 pts - 350 €
-- Équipements médicaux connectés | 25 pts - 175 €
+- Équipement pour téléconsultation sécurisée (service payant) | 50 pts - 350 €
+- Équipements médicaux connectés (ECG, oxymètre, tensiomètre, dermatoscope) | 25 pts - 175 €
 - Participation au SAS: ≥ 2h/sem ouverts (public/régul) et inscrit à la régul | 200 pts - 1400 €
 - Taux de déclaration simplifiée de grossesse sur Ameli Pro ≥ 50% | 10 pts - 70 €
 - ≥ 1 FSE réalisée avec l'Appli *Carte vitale* (apCV) | 40 pts - 280 €
@@ -109,6 +109,7 @@ SAS
 
 ## Sources
 
+- [Assurance Maladie. Guide méthodologique Forfait structure 2024. (PDF)](https://www.ameli.fr/sites/default/files/Documents/guide-methodologique-forfait-Structure%202024_assurance-maladie.pdf)
 - [Ameli Médecin. Modernisation du cabinet médical avec le forfait structure. 04/03/2024.](https://www.ameli.fr/paris/medecin/exercice-liberal/vie-cabinet/aides-financieres/modernisation-cabinet)
 - [Assurance Maladie. Note méthodologique de la rémunération valorisant l'élaboration et l'alimentation du Volet de Synthèse Médicale (VSM) par les médecins traitants pour les patients en ALD. 2023. (PDF)](https://www.ameli.fr/sites/default/files/Documents/20231213_%20Note%20methodologique%20r%C3%A9mun%C3%A9ration%20VSM%20ALD_MT.pdf)
 - [Buzz Médecin. Forfait structure 2023 : c'est parti pour la déclaration. 11/12/2023.](https://comparatif-logiciels-medicaux.fr/actualite/forfait-structure-2023-cest-parti-pour-la-declaration)

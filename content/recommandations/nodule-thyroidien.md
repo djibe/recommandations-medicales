@@ -104,7 +104,7 @@ TA
   - Nodule dur, irrégulier ou adhérent
   - Adénopathie(s) locale(s)
   - Signes de compression ou d'extension locale sans autre cause  
-    Dysphonie, dysphagie, dyspnée laryngée, adénopathies sus-claviculaires ou jugulo-carotidiennes.
+    [Dysphonie]({{< relref "dysphonie.md" >}}), dysphagie, dyspnée laryngée, adénopathies sus-claviculaires ou jugulo-carotidiennes.
   - Nodule hypermétabolique (TEP)
   - Nodule découvert suite à calcitonine à +100 pg/mL
   - Antécédent personnel de NEM2

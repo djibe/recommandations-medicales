@@ -208,7 +208,7 @@ Plus l'IVG intervient précocement pendant la grossesse, plus le risque de compl
 {{% /collapse %}}
 {{%collapse "L'IVG chez les mineures" %}}
 
-L'interruption volontaire de grossesse est **accessible à quiconque quelque soit son âge**. Les mineures doivent être accompagnées par la **personne majeure** de leur choix et l'accord parental n'est pas nécessaire.
+L'interruption volontaire de grossesse est **accessible à quiconque quel que soit son âge**. Les mineures doivent être accompagnées par la **personne majeure** de leur choix et l'accord parental n'est pas nécessaire.
 
 L'IVG est totalement gratuit pour les mineures.
 

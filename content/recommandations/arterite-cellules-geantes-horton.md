@@ -26,7 +26,7 @@ todo = "rankok, flow PNDSp13/50, relecture"
 - L'artérite à cellules géantes ou maladie de Horton est rare et atteint surtout les femmes après 70 ans originaires d'Europe du Nord
 - Les symptômes sont dominés par des [céphalées](/tags/cephalees/) inhabituelles (récentes, nocturnes ou matinales), une claudication de la mâchoire, une hyperesthésie du scalp ou des symptômes visuels (signe de gravité: baisse d'acuité visuelle, amaurose, diplopie)
 - Une pseudo-polyarthrite rhizomélique (PPR) est fréquemment associée avec des arthralgies et des myalgies des épaules et du bassin
-- Le bilan affirme un syndrome inflammatoire quasi constant: NFS, CRP > 10 mg/L, fibrinogène élevés
+- Le bilan affirme un syndrome inflammatoire quasi constant: NFS, CRP supérieure à 10 mg/L, fibrinogène élevés
 - Adresser en semi-urgence toute suspicion de maladie de Horton au spécialiste (rhumatologue, interniste) du centre de compétence ([annuaire](https://www.fai2r.org/les-centres-fai2r/centres-competence/)) pour affirmer le diagnostic par biopsie de l'artère temporale (BAT)
 - La [corticothérapie à forte dose]({{< relref "corticoides.md" >}}) est immédiate en cas de symptômes visuels (intra-veineuse) ou en cas de signes céphaliques avec CRP > 10 mg/L (prednisone 0,7-1 mg/kg/j, max 80 mg/j)
 - Mesures associées aux corticoïdes: activité physique, [traitement anti-ostéoporotique]({{< relref "osteoporose.md" >}}) systématique, supplémentation en [vitamine D]({{< relref "vitamine-d.md" >}}), évaluer les [apports en calcium]({{< relref "apports-calcium.md" >}}), [vaccinations]({{< relref "vaccination.md" >}}) (grippe, covid, pneumocoque -- vaccins vivants contre-indiqués)

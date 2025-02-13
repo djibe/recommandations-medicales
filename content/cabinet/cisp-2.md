@@ -23,19 +23,19 @@ Pour les médecins voulant coder leurs consultations, RecoMédicales propose un 
 
 En anglais: *International Classification of Primary Care (ICPC)*.
 
-La CISP-2 comprend deux composantes principales :
+La CISP-2 comprend deux composantes principales:
 
-1. Les raisons de consultation : Ce sont les motifs pour lesquels les patients consultent leur médecin. Cela peut inclure des symptômes, des demandes spécifiques ou des préoccupations de santé.
+1. Les raisons de consultation: Ce sont les motifs pour lesquels les patients consultent leur médecin. Cela peut inclure des symptômes, des demandes spécifiques ou des préoccupations de santé.
 
-2. Les diagnostics et interventions : Ce sont les résultats de la consultation, incluant les diagnostics médicaux, les traitements administrés, et les procédures effectuées.
+2. Les diagnostics et interventions: Ce sont les résultats de la consultation, incluant les diagnostics médicaux, les traitements administrés, et les procédures effectuées.
 
 La CISP-2 est organisée en un système hiérarchique avec des codes alphanumériques qui permettent une grande précision dans la description des soins de santé primaires. Elle est largement utilisée dans le monde entier pour améliorer la communication entre les professionnels de santé, standardiser les pratiques de collecte de données et faciliter les recherches en épidémiologie et en santé publique.
 
 [Guide d'utilisation (PDF)](https://orbi.uliege.be/bitstream/2268/229852/1/Chap%201-9.pdf) pour apprendre à coder avec la CISP-2.
 
-## Navigateur de la CISP-2 {.mt-5}
+## Navigateur des codes de la CISP-2 {.mt-5}
 
-Naviguer parmi les 2591 termes en français de la CISP2.
+Naviguer parmi les 2591 termes et codes français de la CISP2.
 
 <script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Navigateur de la terminologie CISP-2 en version française."}</script>
 <table id="cisp2-table" class="table">

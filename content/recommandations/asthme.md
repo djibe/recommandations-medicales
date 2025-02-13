@@ -381,38 +381,54 @@ Les corticoïdes inhalés (CSI) réduisent de façon marquée la fréquence et l
 
 Confirmer le diagnostic avant de démarrer un traitement, puis instaurer rapidement un traitement par CSI.
 
-### Stratégie de traitement de l'asthme à partir de 12 ans selon GINA 2023
+### Stratégie de traitement de l'asthme à partir de 6 ans selon GINA 2024
 
 <div class="card card-hover card-tab my-3 my-xl-5">
   <ul class="nav nav-tabs nav-justified mb-4" role="tablist">
-  <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-stade1" data-toggle="tab" data-target="#nav-asthme-stade1" role="tab" aria-controls="nav-asthme-stade1" aria-selected="true">Niveau 1 et 2</button></li>
-  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade3" data-toggle="tab" data-target="#nav-asthme-stade3" role="tab" aria-controls="nav-asthme-stade3" aria-selected="false">Niveau 3</button></li>
-  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade4" data-toggle="tab" data-target="#nav-asthme-stade4" role="tab" aria-controls="nav-asthme-stade4" aria-selected="false">Niveau 4</button></li>
-  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade5" data-toggle="tab" data-target="#nav-asthme-stade5" role="tab" aria-controls="nav-asthme-stade5" aria-selected="false">Niveau 5</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-stade1" data-toggle="tab" data-target="#nav-asthme-stade1" role="tab" aria-controls="nav-asthme-stade1" aria-selected="true">Stade 1</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade2" data-toggle="tab" data-target="#nav-asthme-stade2" role="tab" aria-controls="nav-asthme-stade2" aria-selected="false">Stade 2</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade3" data-toggle="tab" data-target="#nav-asthme-stade3" role="tab" aria-controls="nav-asthme-stade3" aria-selected="false">Stade 3</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade4" data-toggle="tab" data-target="#nav-asthme-stade4" role="tab" aria-controls="nav-asthme-stade4" aria-selected="false">Stade 4</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade5" data-toggle="tab" data-target="#nav-asthme-stade5" role="tab" aria-controls="nav-asthme-stade5" aria-selected="false">Stade 5</button></li>
   </ul>
   <div class="card-body tab-content">
   <div class="tab-pane fade show active" id="nav-asthme-stade1" role="tabpanel" aria-labelledby="nav-tab-stade1">
 
-  {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) faible dose **en cas de besoin**
+- 6-11 ans: {{< modal-btn modal-ttt-baca >}}bronchodilatateur de courte durée{{< /modal-btn >}} en cas de besoin avec {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} dose concommitant
+- 12-17 ans: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + budésonide{{< /modal-btn >}} moyenne dose 1 inhalation si besoin (max 12/j)
+- Adulte: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) moyenne dose 1 inhalation si besoin
+
+  </div>
+  <div class="tab-pane fade" id="nav-asthme-stade2" role="tabpanel" aria-labelledby="nav-tab-stade2">
+
+- 6-11 ans: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} matin et soir, {{< modal-btn modal-ttt-baca >}}BACA si besoin{{< /modal-btn >}}
+- 12-17 ans: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + budésonide{{< /modal-btn >}} moyenne dose 1 inhalation si besoin (max 12/j)
+- Adulte: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) moyenne dose 1 inhalation si besoin
 
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade3" role="tabpanel" aria-labelledby="nav-tab-stade3">
 
-  {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) **faible dose** en traitement de fond et de secours
+- 6-11 ans: {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}} faible dose OU {{< modal-btn modal-ttt-csi >}}CSI dose moyenne{{< /modal-btn >}}, {{< modal-btn modal-ttt-baca >}}BACA si besoin{{< /modal-btn >}}
+- 12-17 ans: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + budésonide{{< /modal-btn >}} faible dose matin et soir et 1 inhalation si besoin (max 12/j)
+- Adulte: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) faible dose x 1-2/j et 1 inhalation si besoin
 
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade4" role="tabpanel" aria-labelledby="nav-tab-stade4">
 
-  {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) **dose moyenne** en traitement de fond et de secours
+Suivi pneumologique et:
+
+- 6-11 ans: {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}} moyenne dose, {{< modal-btn modal-ttt-baca >}}BACA si besoin{{< /modal-btn >}}
+- 12-17 ans: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + budésonide{{< /modal-btn >}} moyenne dose 2 inhalations matin et soir et 1 inhalation si besoin (max 12/j)
+- Adulte: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) moyenne dose 2 inhalations matin et soir et 1 inhalation si besoin
 
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade5" role="tabpanel" aria-labelledby="nav-tab-stade5">
 
   Stade 5 = suivi en centre de référence de l'asthme uniquement
 
-  Ajouter un {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}
-
-  Considérer un traitement de fond par {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) **forte dose** en traitement de fond et de secours
+- 6-11 ans: avis spécialisé
+- 12-17 ans: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + budésonide{{< /modal-btn >}} moyenne dose 2 inhalations matin et soir (voire plus) et 1 inhalation si besoin (max 12/j), {{< modal-btn modal-ttt-lama >}}tiotropium{{< /modal-btn >}}
+- Adulte: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) moyenne dose (envisager forte) 2 inhalations matin et soir et 1 inhalation si besoin, ajouter {{< modal-btn modal-ttt-lama >}}tiotropium{{< /modal-btn >}}
 
   </div>
 </div>

@@ -23,7 +23,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- La constipation est définie par les critères de Rome IV avec au moins 2 des symptômes suivants depuis au moins 6 mois: selles peu fréquentes (< 3 par semaine), selles dures, efforts de poussée, sensation d'évacuation incomplète, sensation de blocage ano-rectal, manœuvres digitales ou autres pour faciliter l'exonération
+- La constipation est définie par les critères de Rome IV avec au moins 2 des symptômes suivants depuis au moins 6 mois: selles peu fréquentes (moins de 3 par semaine), selles dures, efforts de poussée, sensation d'évacuation incomplète, sensation de blocage ano-rectal, manœuvres digitales ou autres pour faciliter l'exonération
 - L'examen clinique chez le constipé recherche des signes de constipation organique et des signes d'alarme (AEG, rectorragies après 50 ans)
 - Le bilan élimine une cause métabolique et une anémie: NFS, CRP, glycémie à jeun voire d'autres examens
 - Coloscopie si apparition ou modification récente des symptômes après 50 ans, AEG, rectorragies ou anémie, risque élevé de cancer colorectal
