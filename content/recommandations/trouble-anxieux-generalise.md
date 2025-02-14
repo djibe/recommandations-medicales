@@ -27,7 +27,7 @@ flowchart = true
 
 - Le trouble anxieux généralisé (TAG) est fréquent, avec des inquiétudes permanentes sur au moins 2 thèmes différents, persistantes depuis plus de 6 mois et difficilement contrôlables. Il est sous-diagnostiqué et sous-traité malgré le sur-risque suicidaire et cardiovasculaire
 - Dépister le TAG chez les personnes à risque: niveau socio-économique bas, veuvage/séparation/divorce, âge moyen, comorbidités psychiatriques, toxiques, traumatisme et antécédents familiaux de TAG
-- Questionnaires de dépistage du trouble anxieux généralisé: << Êtes-vous nerveux ? >> ou {{< modal-btn modal-gad2 >}}questionnaire GAD-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}} (couplé au dépistage de la [dépression]({{< relref "depression.md" >}}))
+- Questionnaires de dépistage du trouble anxieux généralisé: << Êtes-vous nerveux ? >> ou {{< modal-btn modal-gad2 >}}questionnaire GAD-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}} (couplé au dépistage de la [dépression]({{% relref "depression.md" %}}))
 - En cas de dépistage positif, valider le diagnostic et les critères diagnostiques DSM-5 du trouble anxieux généralisé
 - Prise en charge initiale du trouble anxieux généralisé par mesures hygiéno-diététiques et psychothérapie de thérapie cognitive et comportementale (TCC)
 - Puis traitement antidépresseur avec titration d'un {{< modal-btn modal-isrs-tag >}}ISRS{{< /modal-btn >}} ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}. Traitement pleine dose au moins 8 semaines, poursuivi 6 à 12 mois après amélioration
@@ -83,7 +83,7 @@ Trouble anxieux généralisé selon le DSM-5 si tous les critères sont remplis:
     - tension musculaire
     - perturbation du sommeil (difficultés d'endormissement ou sommeil interrompu agité et non satisfaisant)
 4. L'anxiété, les soucis ou les symptômes physiques entraînent une détresse ou une altération cliniquement significatives du fonctionnement social, professionnel ou dans d'autres domaines importants.
-5. La perturbation n'est pas imputable aux effets physiologiques d'une substance (ex. substance donnant lieu à abus, médicament) ou d'une autre affection médicale (ex. [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})).
+5. La perturbation n'est pas imputable aux effets physiologiques d'une substance (ex. substance donnant lieu à abus, médicament) ou d'une autre affection médicale (ex. [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})).
 6. La perturbation n'est pas mieux expliquée par un autre trouble mental (stress post-traumatique, TOC, délire).
 {.liste-lettres}
 
@@ -129,7 +129,7 @@ Signes et symptômes à rechercher en cas de suspicion de trouble anxieux géné
 
 - Facteurs de risque de trouble anxieux généralisé  
   Niveau socio-économique bas, veuvage, séparation/divorce, âge moyen. Autres: comorbidités psychiatriques, toxiques, traumatisme et antécédents familiaux de TAG.
-- **Antécédents**: psychiatriques ([dépression]({{< relref "depression.md" >}}), trouble panique, phobie sociale), somatiques, psychologiques
+- **Antécédents**: psychiatriques ([dépression]({{% relref "depression.md" %}}), trouble panique, phobie sociale), somatiques, psychologiques
 - Facteurs de risque cardiovasculaire
 - Antécédents familiaux
 - Traitements en cours
@@ -149,7 +149,7 @@ Signes et symptômes à rechercher en cas de suspicion de trouble anxieux géné
 - Périodicité des symptômes  
   Évolution chronique mais fluctuations possibles.
 - Complications
-  - [Dépression]({{< relref "depression.md" >}}), socio-professionnelles, toxiques, cardiovasculaire, ulcère
+  - [Dépression]({{% relref "depression.md" %}}), socio-professionnelles, toxiques, cardiovasculaire, ulcère
   - **Risque suicidaire** à chaque consultation: << Au cours des 2 dernières semaines, combien de fois avez-vous pensé qu'il vaudrait mieux mourir ou envisagé de vous faire du mal d'une manière ou d'une autre ? >>
 - Sévérité du trouble anxieux: {{< modal-btn modal-gad7 >}}questionnaire GAD-7{{< /modal-btn >}}
 
@@ -169,10 +169,10 @@ Adresser au psychiatre si: adolescent ou jeune adulte, diagnostic incertain, com
 ### Diagnostics différentiels du trouble anxieux généralisé
 
 - Pathologie somatique
-  - Cardiovasculaire: syndrome coronarien aigu, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), trouble du rythme, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
-  - Respiratoire: [asthme]({{< relref "asthme.md" >}}), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [pneumopathie]({{< relref "pneumonie-aigue-communautaire.md" >}})
-  - Neurologie: épilepsie, sclérose en plaques, [migraine]({{< relref "migraine.md" >}}), [AIT]({{< relref "accident-vasculaire-cerebral.md" >}})
-  - Endocrinienne: hypoglycémie, [diabète](/tags/diabete/), [dysthyroïdie](/tags/tsh/), phéochromocytome, [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}), hypoparathyroïdie
+  - Cardiovasculaire: syndrome coronarien aigu, [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), trouble du rythme, [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})
+  - Respiratoire: [asthme]({{% relref "asthme.md" %}}), [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), [pneumopathie]({{% relref "pneumonie-aigue-communautaire.md" %}})
+  - Neurologie: épilepsie, sclérose en plaques, [migraine]({{% relref "migraine.md" %}}), [AIT]({{% relref "accident-vasculaire-cerebral.md" %}})
+  - Endocrinienne: hypoglycémie, [diabète](/tags/diabete/), [dysthyroïdie](/tags/tsh/), phéochromocytome, [syndrome de Cushing]({{% relref "syndrome-cushing.md" %}}), hypoparathyroïdie
 - Toxiques (alcool, benzodiazépines, caféine, nicotine, amphétamines, cocaïne ...), auto-médication (ginseng) et sevrage
 - Troubles psychiatriques
   - Troubles anxieux: stress post-traumatique, trouble de l'adaptation, trouble panique, trouble obsessionnel compulsif
@@ -201,23 +201,23 @@ La prise en charge du trouble anxieux généralisé (TAG) nécessite un traiteme
 - Éducation thérapeutique sur le TAG  
   Explication sur les symptômes, réassurance, information, risques des anxiolytiques.
 - Mesures hygiéno-diététiques
-  - Arrêt des psychostimulants: café, [tabac]({{< relref "arret-tabac.md" >}}), [alcool]({{< relref "sevrage-alcool.md" >}}), toxiques
+  - Arrêt des psychostimulants: café, [tabac]({{% relref "arret-tabac.md" %}}), [alcool]({{% relref "sevrage-alcool.md" %}}), toxiques
   - Alimentation équilibrée
   - Activité physique régulière
   - Règles hygiéno-diététiques de sommeil
   - Techniques de relaxation
 - Psychothérapie par thérapie cognitivo-comportementale (TCC)
   - Gestion des émotions et inquiétudes, relaxation. Environ 12 séances.
-  - Si trouble léger à modéré: proposer [Mon soutien psy]({{< relref "remboursement-psychologue-monsoutienpsy.md" >}}) (praticiens rares)
+  - Si trouble léger à modéré: proposer [Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}) (praticiens rares)
   - Si financièrement difficile: proposer des livres (audio), vidéos ou webapps sur la TCC
 - Thérapie cognitive de pleine conscience (TCPC, *Hoge 2023*)
 - Traitement ponctuel si symptômes intenses et invalidants:
-  - [benzodiazépines]({{< relref "benzodiazepines.md" >}}) (alprazolam 0,5-2 mg/j, diazépam 2-10 mg/j) 2-4 semaines (max 12. Doses plus fortes selon *BAP 2010*)
+  - [benzodiazépines]({{% relref "benzodiazepines.md" %}}) (alprazolam 0,5-2 mg/j, diazépam 2-10 mg/j) 2-4 semaines (max 12. Doses plus fortes selon *BAP 2010*)
   - voire hydroxyzine (50-100 mg x 4/j)
 - Hospitalisation en urgence: risque suicidaire ou comorbidité dépressive sévère
 - Symptômes cardiaques (tachycardie): propranolol
 - Rassurer/éduquer: inquiétude/anxiété occasionnelle liée à une menace pour la vie ou le bien-être est courante et normale
-- [ALD n°23]({{< relref "affection-longue-duree.md" >}})  
+- [ALD n°23]({{% relref "affection-longue-duree.md" %}})  
   Indication pour trouble anxieux grave depuis +1 an: souffrance du sujet, impossibilité de faire des projets, restriction marquée des intérêts et anticipation systématiquement péjorative de l'avenir.
 
 Suivi initial toutes les 2-4 semaines jusqu'à stabilité puis tous les 3-4 mois. Efficacité suivie avec le {{< modal-btn modal-gad7 >}}questionnaire GAD-7{{< /modal-btn >}} (baisse de 5 points est satisfaisante). Réévaluation du **risque suicidaire** à chaque consultation.
@@ -241,7 +241,7 @@ Le traitement devrait être poursuivi 6 à 12 mois après l'amélioration des sy
 Molécules de deuxième intention pour la prise en charge du trouble anxieux généralisé:
 
 - Buspirone 15-30 mg/j
-- [Benzodiazépines]({{< relref "benzodiazepines.md" >}})
+- [Benzodiazépines]({{% relref "benzodiazepines.md" %}})
 - Prégabaline 300-600 mg/j
 - Hydroxyzine 50-100 mg x 4/j
 - Antidépresseur tricyclique imipramine (Tofranil®) 100-300 mg/j
@@ -252,7 +252,7 @@ Indications à la consultation psychiatrique (non exhaustif):
 
 - Adolescent ou jeune adulte
 - Diagnostic incertain
-- Situation de fragilité ([grossesse]({{< relref "grossesse.md" >}}), [post-partum]({{< relref "post-partum.md" >}}))
+- Situation de fragilité ([grossesse]({{% relref "grossesse.md" %}}), [post-partum]({{% relref "post-partum.md" %}}))
 - Anxiété sévère
 - Comorbidités psychiatrique
 - Résistance au traitement

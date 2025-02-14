@@ -32,14 +32,14 @@ todo = "Collège, FIGO"
 
 *Nous avons conscience que ce chapitre n'est pas encore bien adapté à notre pratique*
 
-Chapitres liés: [anémie par carence martiale]({{< relref "anemie.md" >}}), [contraception]({{< relref "contraception.md" >}})
+Chapitres liés: [anémie par carence martiale]({{% relref "anemie.md" %}}), [contraception]({{% relref "contraception.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Ménorragies
 : Hémorragies génitales hautes survenant pendant les règles (femmes en âge de procréer et non enceintes) d'un volume supérieur à 80 mL ou d'une durée supérieure à 6 jours.
-: Les ménorragies peuvent entraîner une **altération de la qualité de vie** et une [anémie ferriprive]({{< relref "anemie.md" >}}) pouvant être profonde.
+: Les ménorragies peuvent entraîner une **altération de la qualité de vie** et une [anémie ferriprive]({{% relref "anemie.md" %}}) pouvant être profonde.
 : Première cause de consultation des femmes de 30 à 50 ans en gynécologie (⅓ des consultations) et 50% des causes d'hystérectomie.
 
 ### Abréviations
@@ -70,11 +70,11 @@ Signes et symptômes à rechercher lors du bilan de ménorragies.
   - Rythme
   - Abondance  
     Si adolescente ou incertain: objectiver l'abondance avec le [score PBAC/Higham (PDF)](https://www.chu-lyon.fr/sites/default/files/score-higham.pdf)
-- Signes d'[hypothyroïdie]({{< relref "hypothyroidie.md" >}})
+- Signes d'[hypothyroïdie]({{% relref "hypothyroidie.md" %}})
 
 ### Examen clinique
 
-- Signes d'[anémie]({{< relref "anemie.md" >}})
+- Signes d'[anémie]({{% relref "anemie.md" %}})
 - Examen gynécologique  
   Pour différencier d'hémorragies génitales basses (vulvaire, vaginale, exocervicale).
 
@@ -118,8 +118,8 @@ Indications à l'hystéroscopie:
 
 - Doute échographique sur une pathologie endocavitaire
 - Endomètre ≥ 15 mm
-- Facteurs de risque de [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}})  
-  Obésité, diabète, tamoxifène pour [cancer du sein]({{< relref "cancer-sein.md" >}}), syndrome de Lynch/HNPCC.
+- Facteurs de risque de [cancer de l'endomètre]({{% relref "cancer-endometre.md" %}})  
+  Obésité, diabète, tamoxifène pour [cancer du sein]({{% relref "cancer-sein.md" %}}), syndrome de Lynch/HNPCC.
 
 {{% /collapse %}}
 {{%collapse "Traitements des ménorragies" %}}
@@ -130,7 +130,7 @@ Le traitement médical est un anti-fibrinolytique:
 
 [Acide tranexamique 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61224073&typedoc=R) (Exacyl®, Spotof® ou gén®) 4 à 8 cp par jour en 2-3 prises
 
-*Prescrire* rappelle le risque de [thromboses veineuses]({{< relref "thrombose-veineuse-profonde.md" >}}) parfois graves de l'acide tranexamique.
+*Prescrire* rappelle le risque de [thromboses veineuses]({{% relref "thrombose-veineuse-profonde.md" %}}) parfois graves de l'acide tranexamique.
 
 ### Traitement hormonal des ménorragies
 
@@ -160,7 +160,7 @@ Les myomes (fibromyomes ou fibromes) sont opérés par hystéroscopie, cœliosco
 [Déclarer à la pharmacovigilance](https://signalement.social-sante.gouv.fr) des ménorragies imputables à la vaccination Covid-19 ([guide PDF](https://ansm.sante.fr/uploads/2022/08/01/20220801-covid-19-troubles-menstruels-tutoriel-pds-26-07-2022.pdf), *ANSM 2022*).
 {.alert .alert-warning}
 
-Lire le chapitre dédié sur la [prise en charge de l'anémie par carence martiale]({{< relref "anemie.md" >}}).
+Lire le chapitre dédié sur la [prise en charge de l'anémie par carence martiale]({{% relref "anemie.md" %}}).
 
 ### Prise en charge des ménorragies de la femme
 
@@ -181,7 +181,7 @@ Traitement de première intention pour des ménorragies idiopathiques:
 
 #### Ménorragies et hyperplasie endométriale atypique
 
-L'hystérectomie évite le risque d'évolution vers un [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}).
+L'hystérectomie évite le risque d'évolution vers un [cancer de l'endomètre]({{% relref "cancer-endometre.md" %}}).
 
 En cas de désir de grossesse, intérêt d'une concertation pluridisciplinaire dans le [réseau PREFERE](https://hopitauxnord-u-pariscite.aphp.fr//centre-prefere/prefere-centre-de-reference/) (PREservation de la FERtilité et cancer de l'Endomètre). Les traitements peuvent être un progestatif ou un analogue de la GnRH.
 

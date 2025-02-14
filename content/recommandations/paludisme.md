@@ -30,7 +30,7 @@ todo = "Prescrire, ttt ambulatoire accès palustre"
 - Toute suspicion de paludisme est une **urgence** diagnostique et thérapeutique (service de maladies infectieuses et tropicales, médecine interne ou *Urgences*)
 - Paludisme réfuté mais doute persistant: deuxième test 12-24 heures plus tard (frottis sanguin, goutte épaisse, test de diagnostic rapide)
 - Voyage tropical: protection contre les moustiques et évaluer la nécessité d'une chimioprophylaxie médicamenteuse (voir *Indication à la prophylaxie palustre*)
-- Le paludisme autochtone est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
+- Le paludisme autochtone est une [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})
 - Les séjours en zones d'endémie palustre sont déconseillés durant la grossesse (*CRAT*)
 
 {{%/article-summary%}}
@@ -39,7 +39,7 @@ todo = "Prescrire, ttt ambulatoire accès palustre"
 Paludisme
 : de l'ancien français *palus* (marécage) ou aussi malaria, littéralement << mauvais air >>.
 : Maladie infectieuse due au parasite du genre *Plasmodium* (5 types: *Plasmodium falciparum* surtout voire *P. vivax*, *P. malariae*, *P. ovale* ou *P knowlesi*) transmise par les moustiques femelles du genre *Anopheles* (piqûres de 23 à 6 heures). La moitié de la population mondiale vit en zone d'endémie avec 600.000 morts chaque année.
-: Personnes à risque de forme grave: femme enceinte, nourrissons et enfants avant 6 ans, personnes âgées, [PVVIH]({{< relref "vih-sida.md" >}}) et [aspléniques]({{< relref "asplenie.md" >}}).
+: Personnes à risque de forme grave: femme enceinte, nourrissons et enfants avant 6 ans, personnes âgées, [PVVIH]({{% relref "vih-sida.md" %}}) et [aspléniques]({{% relref "asplenie.md" %}}).
 : Absence de transmission du parasite sous 18°C.
 
 > [!WARNING]
@@ -160,9 +160,9 @@ Interrogatoire, signes et symptômes de l'accès palustre simple de l'adulte, **
 
 Après quelques jours, tableau d'**anémie hémolytique fébrile**:
 
-- [Ictère]({{< relref "ictere.md" >}}), urines foncées
+- [Ictère]({{% relref "ictere.md" %}}), urines foncées
 - Hépatomégalie (enfant surtout)
-- [Splénomégalie]({{< relref "splenomegalie.md" >}})
+- [Splénomégalie]({{% relref "splenomegalie.md" %}})
 
 > << Toute convulsion fébrile chez un enfant au retour d'une zone d'endémie palustre doit faire évoquer un accès palustre grave >>. -- *Anofel 2022*
 
@@ -217,7 +217,7 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 Choix de la chimioprophylaxie antipaludique (CPAP):
 
 - Afrique subsaharienne (sauf Afrique du Sud, Lesotho, Botswana, sud de la Namibie), Papouasie: CPAP systématique
-- Voyageurs à risque de paludisme grave, quel que soit le risque: femme enceinte, nourrissons et enfants avant 6 ans, personnes âgées, personnes immunodéprimées ([PVVIH]({{< relref "vih-sida.md" >}})) et [aspléniques]({{< relref "asplenie.md" >}})
+- Voyageurs à risque de paludisme grave, quel que soit le risque: femme enceinte, nourrissons et enfants avant 6 ans, personnes âgées, personnes immunodéprimées ([PVVIH]({{% relref "vih-sida.md" %}})) et [aspléniques]({{% relref "asplenie.md" %}})
 - **Séjour << conventionnel >>** en Asie ou Amérique du Sud: mesures de PPAV seules  
   Séjour de courte durée (< 1 mois), majoritairement en zone urbaine ou sur des sites touristiques classiques avec quelques nuitées en zone rurale mais dans des conditions d'hébergement satisfaisantes (hôtels, maisons).
 - **Séjour << non conventionnel >>**: avis spécialisé
@@ -252,7 +252,7 @@ La chimioprophylaxie antipaludique (CPAP) n'est disponible que sur ordonnance et
 
 ### Les mesures de protection anti-vectorielles (PPAV)
 
-Les mesures de protection contre les piqûres d'insectes sont toujours associées (voir [voyage]({{< relref "voyage.md" >}})).
+Les mesures de protection contre les piqûres d'insectes sont toujours associées (voir [voyage]({{% relref "voyage.md" %}})).
 
 {{< traitements/ppav >}}
 

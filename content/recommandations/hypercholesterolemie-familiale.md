@@ -29,7 +29,7 @@ flowchart = true
 - Le risque cardiovasculaire est au moins {{< modal-btn modal-rcv >}}élevé{{< /modal-btn >}}
 - Prise en charge de l'hypercholestérolémie familiale: statine de forte intensité pour LDL < 0,7 g/L et réduction ≥ 50%, ± ézétimibe ± anti-PCSK9, correction des facteurs de risque cardiovasculaire, suivi pluridisciplinaire et dépistage familial
 
-Chapitres liés: [statines]({{< relref "statines.md" >}}) et [syndrome coronarien chronique]({{< relref "syndrome-coronarien-chronique.md" >}})
+Chapitres liés: [statines]({{% relref "statines.md" %}}) et [syndrome coronarien chronique]({{% relref "syndrome-coronarien-chronique.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -126,14 +126,14 @@ La prise en charge de l'hypercholestérolémie familiale est pluridisciplinaire 
 
 ### Correction des autres facteurs de risque cardiovasculaire
 
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) obligatoire
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) obligatoire
 - Correction d'un surpoids et d'une obésité abdominale
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} et suivi diététique
 - Limiter les apports en sel à 5-6 g/j
 - Activité physique  
   - Endurance: 150-300 minutes (ou 75-150 minutes intenses)
   - Renforcement ≥ 2 jours par semaine (1-3 séries de 8-12 mouvements)
-- Prise en charge d'une [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) et d'un [diabète](/tags/diabete/)
+- Prise en charge d'une [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) et d'un [diabète](/tags/diabete/)
 - Association de patients: [Association Nationale des Hypercholestérolémies familiales et Lipoprotéines (a)](https://www.anhet.fr)
 - ALD 31 en cas de traitement intensif
 
@@ -145,7 +145,7 @@ Le traitement doit être débuté rapidement:
 - {{< modal-btn modal-statine-intensite >}}Statine systématique de haute intensité{{< /modal-btn >}} à partir de 8-10 ans
   - {{< modal-btn modal-rcv >}}LDL cible < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (voire 0,55 si homozygote, complications ou autre facteur de risque)
   - LDL cible < 1,35 g/L chez l'adolescent de +10 ans
-  - [Voir le suivi sous statine]({{< relref "statines.md" >}})
+  - [Voir le suivi sous statine]({{% relref "statines.md" %}})
   - Avec contraception efficace. Arrêt de la statine ≥ 4 semaines avant l'arrêt de la contraception.
   - ± Ézétimibe
   - ± Anti-PCSK9 sous-cutané (alirocumab Praluent® ou évolocumab Repatha®)

@@ -29,9 +29,9 @@ todo = "rankok | questionnaire VDSP vitamineD 2018 src23 et src25, autre quest s
 - Les enfants nécessitent une supplémentation quotidienne en vitamine D de 400 à 800 UI durant toute leur croissance
 - Taux sérique cible en vitamine D pour un adulte: 50 nmol/L et plus
 - Cible de vitamine D supérieure à 75 nmol/L à partir de 65 ans ou en cas de pathologie à risque ou de chutes. Protocole de correction systématique et apports au long cours. Dosage initial de la vitamine D uniquement pour certaines pathologies
-- Une [supplémentation en calcium]({{< relref "apports-calcium.md" >}}) est nécessaire en cas de comorbidités
+- Une [supplémentation en calcium]({{% relref "apports-calcium.md" %}}) est nécessaire en cas de comorbidités
 
-Articles liés: [ostéoporose post-ménopausique]({{< relref "osteoporose.md" >}}) ou [masculine]({{< relref "osteoporose-masculine.md" >}})
+Articles liés: [ostéoporose post-ménopausique]({{% relref "osteoporose.md" %}}) ou [masculine]({{% relref "osteoporose-masculine.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -39,7 +39,7 @@ Articles liés: [ostéoporose post-ménopausique]({{< relref "osteoporose.md" >}
 Vitamine D
 : La vitamine D participe à la régulation du métabolisme phosphocalcique et prévient: **rachitisme, ostéomalacie, douleurs musculaires diffuses**. Elle a également d'autres effets tissulaires. L'unité internationale est le **nmol/L**.
 : **Bénéfices de la supplémentation en vitamine D**: réduction des fractures non vertébrales après 65 ans, réduction des chutes des +70 ans quand les taux sériques sont supérieurs à 75 nmol/L (30 ng/mL).
-: Selon l'*Inserm*, une carence en vitamine D serait fortement liée au développement de la [maladie d'Alzheimer]({{< relref "maladie-alzheimer.md" >}}). D'autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés (*[Féart 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)*).
+: Selon l'*Inserm*, une carence en vitamine D serait fortement liée au développement de la [maladie d'Alzheimer]({{% relref "maladie-alzheimer.md" %}}). D'autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés (*[Féart 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)*).
 
 Carence en vitamine D de l'adulte et de l'enfant
 : Taux sérique de vitamine D < 30 nmol/L. Risque élevé de *rachitisme*.
@@ -105,11 +105,11 @@ Convertir dans les 2 sens les unités de mesure de la vitamine D: nmol/L (unité
 ### Sujets à risque de complications par carence en vitamine D
 
 - Iatrogène  
-  [Corticoïdes au long cours]({{< relref "corticoides.md" >}}), traitements anti-épileptiques, [anti-aromatases]({{< relref "cancer-sein.md" >}}), analogues de la GnRH.
+  [Corticoïdes au long cours]({{% relref "corticoides.md" %}}), traitements anti-épileptiques, [anti-aromatases]({{% relref "cancer-sein.md" %}}), analogues de la GnRH.
 - Maladies endocriniennes et dermatologiques: hyperparathyroïdie ...
 - Malabsorption, maldigestion, cholestase, insuffisance hépatique  
-  [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), mucoviscidose, [pancréatite chronique]({{< relref "pancreatite-chronique.md" >}}), cholangites, [chirurgie bariatrique]({{< relref "obesite-adulte.md" >}}).
-- [Maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}), syndrome néphrotique
+  [Maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}), mucoviscidose, [pancréatite chronique]({{% relref "pancreatite-chronique.md" %}}), cholangites, [chirurgie bariatrique]({{% relref "obesite-adulte.md" %}}).
+- [Maladie rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}}), syndrome néphrotique
 - Anorexie mentale
 - Sujets âgés à {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}}
 
@@ -119,7 +119,7 @@ Convertir dans les 2 sens les unités de mesure de la vitamine D: nmol/L (unité
 
 1. Taux ≥ 75 nmol/L avec dosage initial
 2. Protocole de correction rapide
-3. [Apports calciques]({{< relref "apports-calcium.md" >}}) ≥ 1 g/j
+3. [Apports calciques]({{% relref "apports-calcium.md" %}}) ≥ 1 g/j
 
 {{% /collapse %}}
 {{%collapse "Apports cibles en vitamine D selon l'âge" %}}
@@ -129,7 +129,7 @@ Convertir dans les 2 sens les unités de mesure de la vitamine D: nmol/L (unité
 
 La supplémentation en vitamine D est prescrite au long cours sans dosage de la vitamine D sauf chez les sujets à risque mentionnés plus haut (voir *Patients à risque*).
 
-S'assurer également d'[apports calciques suffisants]({{< relref "apports-calcium.md" >}}).
+S'assurer également d'[apports calciques suffisants]({{% relref "apports-calcium.md" %}}).
 
 {{< table title="Apports en vitamine D recommandés en 2025 selon le profil du patient" >}}
 | Population                                                    | Apports (UI/j) ou cibles (25OHD) recommandés                                         | Source           |
@@ -162,22 +162,22 @@ Situations pouvant faire contrôler le taux de vitamine D:
 1. Suspicion de rachitisme
 2. Suspicion d'ostéomalacie (fatigue musculaire, douleurs osseuses)
 3. À 3 mois d'une transplantation rénale
-4. Avant et après une [chirurgie bariatrique]({{< relref "obesite-adulte.md" >}})
+4. Avant et après une [chirurgie bariatrique]({{% relref "obesite-adulte.md" %}})
 5. Personne âgée avec [chutes](/tags/chute/) répétées  
   Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>.
-6. Traitement préconisant une mesure de la vitamine D (ex. [biphosphonate]({{< relref "osteoporose.md" >}}))
+6. Traitement préconisant une mesure de la vitamine D (ex. [biphosphonate]({{% relref "osteoporose.md" %}}))
 
 > -- *HAS 2013* et *Conditions de prise en charge par l'Assurance Maladie*
 
 et aussi
 
-- Hospitalisation pour exacerbation de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (*GOLD*)
-- Enfant en [allaitement maternel]({{< relref "allaitement.md" >}}) sans supplémentation pendant des mois (*SFD*)
+- Hospitalisation pour exacerbation de [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}) (*GOLD*)
+- Enfant en [allaitement maternel]({{% relref "allaitement.md" %}}) sans supplémentation pendant des mois (*SFD*)
 - Enfants à peau pigmentée sans supplémentation avec arcature des membres inférieurs (*SFD*)
 - Enfant avec supplémentation prolongée à des doses excessives (*Bacchetta 2022*)
 - Prématuré < 32 SA ou < 1,5 kg (*Bacchetta 2022*)  
   Cible de vitamine D: 50-120 nmol/L.
-- Diagnostic et suivi de la [pancréatite chronique]({{< relref "pancreatite-chronique.md" >}}) (*ACG*, *BSG*)
+- Diagnostic et suivi de la [pancréatite chronique]({{% relref "pancreatite-chronique.md" %}}) (*ACG*, *BSG*)
 
 En dehors des 6 indications (+ suppléments), préciser sur l'ordonnance la raison.
 
@@ -230,7 +230,7 @@ Intensification de la supplémentation si:
 - Sujet à peau très foncée
 - Absence d'exposition estivale
 - Traitement à risque: rifampicine, phénobarbital, phénytoïne
-- [Obésité]({{< relref "obesite-adulte.md" >}}), régime carencé (vegan)
+- [Obésité]({{% relref "obesite-adulte.md" %}}), régime carencé (vegan)
 
 {{% /collapse %}}
 {{%collapse "Aliments riches en vitamine D" %}}
@@ -252,7 +252,7 @@ Aliments naturellement riches en vitamine D:
 {{% /collapse %}}
 {{%collapse "Spécialités de vitamine D disponibles" %}}
 
-La vitamine D est [prise pendant le repas]({{< relref "medicaments-prise-repas.md" >}}).
+La vitamine D est [prise pendant le repas]({{% relref "medicaments-prise-repas.md" %}}).
 
 ### Spécialités de vitamine D3 (cholécalciférol) par galénique
 
@@ -263,7 +263,7 @@ La vitamine D est [prise pendant le repas]({{< relref "medicaments-prise-repas.m
 - Goutte  
   [Adrigyl®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66269026&typedoc=R) 333 UI/goutte, [ZymaD®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63902334&typedoc=R) 300 UI/goutte.
 
-Spécialités avec calcium + vitamine D3 associés (prendre [à distance des repas]({{< relref "medicaments-prise-repas.md" >}})):
+Spécialités avec calcium + vitamine D3 associés (prendre [à distance des repas]({{% relref "medicaments-prise-repas.md" %}})):
 
 {{< traitements/calcium-vitd >}}
 

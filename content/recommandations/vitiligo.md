@@ -38,7 +38,7 @@ Une atteinte exclusive des muqueuses est possible et rare.
 Il atteint 0,5 à 1% de la population de façon homogène avec un sur-risque en cas d'**antécédents familiaux et de stress**.
 : Le vitiligo est dit **stable** en l'absence de nouvelle lésions sur 12 mois avec une stabilité des lésions pré-existantes.
 : Le pronostic du vitiligo est **psychologique** sans augmentation des **cancers de la peau**.  
-Les comorbidités auto-immunes sont fréquentes: [Hashimoto]({{< relref "hypothyroidie.md" >}}), [Basedow]({{< relref "hyperthyroidie.md" >}}), [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [diabète de type 1]({{< relref "diabete-type-1.md" >}}), MICI.
+Les comorbidités auto-immunes sont fréquentes: [Hashimoto]({{% relref "hypothyroidie.md" %}}), [Basedow]({{% relref "hyperthyroidie.md" %}}), [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), [diabète de type 1]({{% relref "diabete-type-1.md" %}}), MICI.
 
 Vitiligo segmentaire
 : Forme de vitiligo la plus rare avec une dépigmentation unilatérale circonscrite à une zone bien délimitée du corps.
@@ -61,8 +61,8 @@ Phénomène de Koebner (ou Köbner)
 Étayer les autres causes possibles d'hypopigmentation cutanée:
 
 - Dartres
-- [Psoriasis]({{< relref "psoriasis.md" >}})
-- [Eczéma]({{< relref "dermatite-atopique.md" >}})
+- [Psoriasis]({{% relref "psoriasis.md" %}})
+- [Eczéma]({{% relref "dermatite-atopique.md" %}})
 
 ### Abréviations
 
@@ -87,15 +87,15 @@ Le diagnostic de vitiligo est clinique avec à la lampe de Wood une dépigmentat
   - Localisation et surface corporelle
   - Traitements essayés
   - Plaques le plus souvent asymptomatiques
-- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 - Qualité de vie: {{< modal-btn modal-score-dlqi >}}score DLQI{{< /modal-btn >}}, VIPs ou VitiQoL
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Dépister une [hypothyroïdie]({{< relref "hypothyroidie.md" >}}) ou une prédisposition: [TSH](/tags/tsh/) et anticorps anti-TPO.
+Dépister une [hypothyroïdie]({{% relref "hypothyroidie.md" %}}) ou une prédisposition: [TSH](/tags/tsh/) et anticorps anti-TPO.
 
-[Contrôle de la vitamine D]({{< relref "vitamine-d.md" >}}) en cas d'éviction solaire totale.
+[Contrôle de la vitamine D]({{% relref "vitamine-d.md" %}}) en cas d'éviction solaire totale.
 
 {{% /collapse %}}
 {{%collapse "Traitement de vitiligo" %}}
@@ -107,7 +107,7 @@ Mesures générales de prise en charge du vitiligo:
 
 - Limiter les frottements
 - Crème solaire IP50 sur les zones atteintes
-- Soutien psychologique: [parcours Mon soutien psy]({{< relref "remboursement-psychologue-monsoutienpsy.md" >}}) ou autre
+- Soutien psychologique: [parcours Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}) ou autre
 - Information du patient sur le vitiligo: [Dermato-Info](https://dermato-info.fr/fr/les-maladies-de-la-peau/vitiligo-quand-la-peau-perd-son-pigment)
 - Association de patients: [Association Française du Vitiligo](https://www.afvitiligo.com/comprendre-le-vitiligo/les-traitements-du-vitiligo/)
 - {{< references/compare >}}

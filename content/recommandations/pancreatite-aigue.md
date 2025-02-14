@@ -26,9 +26,9 @@ todo = "flow"
 - Le diagnostic de pancréatite aiguë est évoqué devant des symptômes typique: douleurs abdominales transfixiantes intenses et permanentes d'installation rapide
 - Le diagnostic est confirmé en présence de douleurs typiques avec une lipasémie supérieure à 3 fois la normale au bilan. L'échographie abdominale sous 48 heures est systématique pour rechercher des lithiases biliaires
 - La prise en charge de la pancréatite aiguë comprend initialement une hospitalisation pour surveillance, l'évolution étant imprévisible et les complications fréquentes
-- En cas de pancréatite aiguë idiopathique après 40 ans, dépister un [cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) par scanner abdominal et cholangiopancréatographie par IRM (*INCa*)
+- En cas de pancréatite aiguë idiopathique après 40 ans, dépister un [cancer du pancréas]({{% relref "cancer-pancreas.md" %}}) par scanner abdominal et cholangiopancréatographie par IRM (*INCa*)
 
-Chapitres liés: [pancréatite chronique]({{< relref "pancreatite-chronique.md" >}}), [hypercalcémie]({{< relref "hypercalcemie.md" >}}), [mésusage de l'alcool]({{< relref "sevrage-alcool.md" >}})
+Chapitres liés: [pancréatite chronique]({{% relref "pancreatite-chronique.md" %}}), [hypercalcémie]({{% relref "hypercalcemie.md" %}}), [mésusage de l'alcool]({{% relref "sevrage-alcool.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -59,10 +59,10 @@ PA
 ### Diagnostic différentiel de la pancréatite aiguë
 
 - Ulcère gastro-duodénal
-- [Infarctus du myocarde inférieur]({{< relref "syndrome-coronarien-aigu.md" >}})
+- [Infarctus du myocarde inférieur]({{% relref "syndrome-coronarien-aigu.md" %}})
 - Péritonite
 - Infarctus mésentérique
-- Rupture d'[anévrisme de l'aorte]({{< relref "anevrysme-aorte-abdominale.md" >}})
+- Rupture d'[anévrisme de l'aorte]({{% relref "anevrysme-aorte-abdominale.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -77,7 +77,7 @@ Le diagnostic de pancréatite aiguë est posé sur la présence d'au moins 2 cri
 
 Les symptômes d'une pancréatite aiguë durent le plus souvent **quelques jours**, mais la survenue de complications (20 %) est **imprévisible** et nécessite une **hospitalisation** pour observation initiale.
 
-**NB.** Une origine alcoolique à la pancréatite ne peut être retenue qu'en cas de consommation modérée à forte (> 5 verres quotidiens) d'au moins 5 ans. Les pancréatites répétées sont également en faveur du [mésusage de l'alcool]({{< relref "sevrage-alcool.md" >}}).
+**NB.** Une origine alcoolique à la pancréatite ne peut être retenue qu'en cas de consommation modérée à forte (> 5 verres quotidiens) d'au moins 5 ans. Les pancréatites répétées sont également en faveur du [mésusage de l'alcool]({{% relref "sevrage-alcool.md" %}}).
 
 ### Interrogatoire
 
@@ -165,7 +165,7 @@ La chirurgie est quasi systématique en cas de pancréatite biliaire pour rédui
 
 ### Suivi après pancréatite aiguë idiopathique
 
-Après 40 ans, dépistage d'un [cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) par scanner et cholangiopancréatographie par IRM (CPIRM). Compléter avec une échoendoscopie si les imageries sont négatives.
+Après 40 ans, dépistage d'un [cancer du pancréas]({{% relref "cancer-pancreas.md" %}}) par scanner et cholangiopancréatographie par IRM (CPIRM). Compléter avec une échoendoscopie si les imageries sont négatives.
 
 Nouveaux examens de suivi (scanner et IRM) à 3, 6 et 12 mois:
 

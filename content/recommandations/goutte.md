@@ -75,11 +75,11 @@ SFR
 
 Diagnostic différentiel d'une arthrite goutteuse:
 
-- [Chondrocalcinose articulaire]({{< relref "rhumatisme-pyrophosphate-chondrocalcinose.md" >}})
+- [Chondrocalcinose articulaire]({{% relref "rhumatisme-pyrophosphate-chondrocalcinose.md" %}})
 - Arthrite septique
 - Rhumatisme psoriasique
 - Poussée d'arthrose
-- [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}})
+- [Polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -89,7 +89,7 @@ Signes et symptômes de la crise de goutte.
 ### Interrogatoire
 
 - Facteurs de risques cardiovasculaire  
-  Tabagisme, [HTA]({{< relref "hypertension-arterielle.md" >}}), [diabète de type 2]({{< relref "diabete-type-2.md" >}}), dyslipidémie, [obésité]({{< relref "obesite-adulte.md" >}}), {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}.
+  Tabagisme, [HTA]({{% relref "hypertension-arterielle.md" %}}), [diabète de type 2]({{% relref "diabete-type-2.md" %}}), dyslipidémie, [obésité]({{% relref "obesite-adulte.md" %}}), {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}.
 - Traitements en cours  
 - Médicaments hyperuricémiants  
   Diurétiques, aspirine, interactions médicamenteuses (biphosphonates), cytotoxiques, ivabradine, ciclosporine, tacrolimus.
@@ -124,7 +124,7 @@ Le bilan étaie les facteurs de risque cardiovasculaire associés à la goutte:
 - Uricémie
 - Si facteur de risque de diabète ou +45 ans: glycémie à jeun
 - Dyslipidémie selon le terrain
-- Ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
+- Ferritine (voir [hémochromatose]({{% relref "hemochromatose.md" %}}))
 
 ### Radiographies articulaires
 
@@ -144,7 +144,7 @@ L'échographie peut être utile pour affirmer le diagnostic et étayer le diagno
 Ces mesures ont plus d'effets sur le profil cardiovasculaire que sur l'uricémie. Le discours doit être individualisé et adapté aux comorbidités.
 
 - Correction d'un surpoids
-- Réduction de la [consommation d'alcool]({{< relref "sevrage-alcool.md" >}})  
+- Réduction de la [consommation d'alcool]({{% relref "sevrage-alcool.md" %}})  
   {{%class%}}Bière et spiritueux.{{%/class%}}
 - Arrêt des sodas, limiter jus d'orange et de pomme
 - Éviter les gros repas
@@ -212,12 +212,12 @@ puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours
 
 ### Corticoïdes per os
 
-Indications à la [corticothérapie]({{< relref "corticoides.md" >}}): traitement symptomatique de première ligne. (*SFR 2020*). En troisième intention selon *Prescrire®*, en remplacement des AINS et de la colchicine.
+Indications à la [corticothérapie]({{% relref "corticoides.md" %}}): traitement symptomatique de première ligne. (*SFR 2020*). En troisième intention selon *Prescrire®*, en remplacement des AINS et de la colchicine.
 
 [Prednisone 20 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64793934&typedoc=R) 1,5 cp x 1/j pendant 3-5 jours
 {.alert .alert-info}
   
-Ne pas associer AINS et corticoïdes. Ne pas utiliser en cas de diabète ou d'[HTA]({{< relref "hypertension-arterielle.md" >}}) déséquilibrés.
+Ne pas associer AINS et corticoïdes. Ne pas utiliser en cas de diabète ou d'[HTA]({{% relref "hypertension-arterielle.md" %}}) déséquilibrés.
 
 Possibilité d'infiltrations de corticoïdes pour une arthrite facilement accessible (ex. genou).  
 Elles doivent être privilégiées afin d'épargner un traitement général.  
@@ -315,8 +315,8 @@ Indications au fébuxostat:
 {{%warning%}}
 Fébuxostat contre-indiqué en maladie cardiovasculaire sévère:
 
-- [Infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}})
-- [Angor instable]({{< relref "syndrome-coronarien-chronique.md" >}})
+- [Infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}})
+- [Angor instable]({{% relref "syndrome-coronarien-chronique.md" %}})
 - AIT/AVC, AOMI symptomatique
 - Revascularisation carotidienne/coronarienne
 - Diabète compliqué

@@ -23,7 +23,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'alopécie est la raréfaction ou la disparition des cheveux. Les principales causes sont l'alopécie androgénétique, la pelade et l'effluvium télogène ([post-partum]({{< relref "post-partum.md" >}}), chirurgie, stress aigu)
+- L'alopécie est la raréfaction ou la disparition des cheveux. Les principales causes sont l'alopécie androgénétique, la pelade et l'effluvium télogène ([post-partum]({{% relref "post-partum.md" %}}), chirurgie, stress aigu)
 - Connaître la physiologie de la pousse des cheveux pour l'expliquer au patient
 - L'examen clinique bien conduit est essentiel pour déterminer la cause de l'alopécie
 - Les examens complémentaires sont ciblés lors de situations spécifiques
@@ -74,7 +74,7 @@ Principales étiologies d'une alopécie:
 
 - **Effluvium télogène**
   - Alopécie diffuse sur cuir chevelu sain
-  - Souvent dans les 2 mois suivants: **[post-partum]({{< relref "post-partum.md" >}})**, chirurgie, fièvre élevée ou infections, maladie inflammatoire, médicaments
+  - Souvent dans les 2 mois suivants: **[post-partum]({{% relref "post-partum.md" %}})**, chirurgie, fièvre élevée ou infections, maladie inflammatoire, médicaments
   - Physiologique en automne/printemps. **Rassurer**.
 - **Alopécie androgénétique**
   - Progressive, localisée aux zones androgéniques fronto-temporales et vertex avec calvitie (échelles [Hamilton-Norwood I-VII](https://fr.wikipedia.org/wiki/%C3%89chelle_de_Hamilton-Norwood#/media/Fichier:Partial_Norwood_scale_for_male_pattern_baldness.png), Ludwig I-III, Christmas tree pattern I-III)
@@ -83,7 +83,7 @@ Principales étiologies d'une alopécie:
   - Alopécie en plaques ovalaires sur cuir chevelu sain et sujet en bon état général
   - Évolution imprévisible et récidives fréquentes
 - Alopécies avec atteintes du cuir chevelu
-  - [Teigne]({{< relref "mycoses-dermatophytes-candidoses.md" >}}): enfant surtout, contact à risque, plaques tondantes
+  - [Teigne]({{% relref "mycoses-dermatophytes-candidoses.md" %}}): enfant surtout, contact à risque, plaques tondantes
   - Autres lésions du cuir chevelu (érythémato-squameuses, inflammatoires, papulo-pustuleuses): avis dermatologique ± biopsie cutanée.  
     Lupus, lichen plan pilaire, sarcoïdose, sclérodermie en plaques, métastases.
 
@@ -95,7 +95,7 @@ Signes et symptômes pouvant orienter vers la cause de l'alopécie.
 ### Interrogatoire
 
 - Antécédents personnels  
-  Cytotoxique, dermatose (lichen, [psoriasis]({{< relref "psoriasis.md" >}})), auto-immuns (lupus), brûlures, radiothérapie, carences, [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), cycles menstruels.
+  Cytotoxique, dermatose (lichen, [psoriasis]({{% relref "psoriasis.md" %}})), auto-immuns (lupus), brûlures, radiothérapie, carences, [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), cycles menstruels.
 - Antécédents familiaux (capillaires, auto-immuns)
 - Contexte récent  
   Grossesse, stress (médical, chirurgical, psychologique).
@@ -103,9 +103,9 @@ Signes et symptômes pouvant orienter vers la cause de l'alopécie.
 - Habitudes cosmétiques (défrisage, chignon/brushing tendu)
 - Contage humain ou animal
 - Traitements en cours  
-  [Contraception]({{< relref "contraception.md" >}}), antithyroïdiens, [méthotrexate]({{< relref "methotrexate.md" >}}) ...
+  [Contraception]({{% relref "contraception.md" %}}), antithyroïdiens, [méthotrexate]({{% relref "methotrexate.md" %}}) ...
 - Traitements essayés (efficacité, tolérance, durée)
-- Expositions sexuelles ([syphilis]({{< relref "syphilis.md" >}}))
+- Expositions sexuelles ([syphilis]({{% relref "syphilis.md" %}}))
 
 ### Examen clinique
 
@@ -119,16 +119,16 @@ Signes et symptômes pouvant orienter vers la cause de l'alopécie.
 - Autres atteintes des phanères: cils, barbe, ongles
 - État cutanéo-muqueux
 - Hirsutisme
-- Dermatose: [acné]({{< relref "acne.md" >}}), [psoriasis]({{< relref "psoriasis.md" >}})
+- Dermatose: [acné]({{% relref "acne.md" %}}), [psoriasis]({{% relref "psoriasis.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 Les examens dépendent de l'étiologie suspectée:
 
-- Si ménorragies, [dénutrition]({{< relref "denutrition.md" >}}), régime: [ferritine](/tags/ferritine/), bilan carentiel
+- Si ménorragies, [dénutrition]({{% relref "denutrition.md" %}}), régime: [ferritine](/tags/ferritine/), bilan carentiel
 - Effluvium télogène persistant à 3-6 mois: [TSH](/tags/tsh/), ferritine
-- Chapitre dédié selon la suspicion ([SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}), surrénalienne)
+- Chapitre dédié selon la suspicion ([SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}), surrénalienne)
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'alopécie" %}}
@@ -136,13 +136,13 @@ Les examens dépendent de l'étiologie suspectée:
 Avis dermatologique systématique en l'absence de cause évidente.
 {.alert .alert-info}
 
-La prise en charge d'une alopécie est avant tout étiologique ([teigne]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), cosmétique, trichotillomanie, carentielle, [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), SOPK ...).
+La prise en charge d'une alopécie est avant tout étiologique ([teigne]({{% relref "mycoses-dermatophytes-candidoses.md" %}}), cosmétique, trichotillomanie, carentielle, [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), SOPK ...).
 
 Proposer un **soutien psychologique** et expliquer la physiologie de la repousse des cheveux.
 
 ### Traitement de la pelade
 
-Des traitements locaux peuvent être essayés: [dermocorticoïdes]({{< relref "dermocorticoides.md" >}}), minoxidil 5%.
+Des traitements locaux peuvent être essayés: [dermocorticoïdes]({{% relref "dermocorticoides.md" %}}), minoxidil 5%.
 
 Pour les formes étendues, avis dermatologique (photothérapie, PUVA ou UVB, immunosuppresseurs).
 
@@ -164,7 +164,7 @@ Prise en charge de l'alopécie androgénétique de l'homme (par efficacité déc
 
 Minoxidil et finastéride peuvent être combinés pour une meilleure efficacité (risque psychiatrique du finastéride). Les autres associations ne sont pas étudiées.
 
-Le finastéride (inhibiteur de la 5α-réductase) est sous [surveillance de l'ANSM](https://ansm.sante.fr/actualites/reevaluation-europeenne-de-la-balance-benefice-risque-des-medicaments-contenant-du-finasteride-ou-du-dutasteride) et est contre-indiqué en cas de [dépression]({{< relref "depression.md" >}}) ou de trouble sexuel. Le don du sang n'est pas possible.
+Le finastéride (inhibiteur de la 5α-réductase) est sous [surveillance de l'ANSM](https://ansm.sante.fr/actualites/reevaluation-europeenne-de-la-balance-benefice-risque-des-medicaments-contenant-du-finasteride-ou-du-dutasteride) et est contre-indiqué en cas de [dépression]({{% relref "depression.md" %}}) ou de trouble sexuel. Le don du sang n'est pas possible.
 {.alert .alert-warning}
 
 #### Traitements de l'alopécie androgénique de la femme

@@ -28,10 +28,10 @@ todo = "rankok, tabac, Anticorps anti-surrénaliens | ESHRE2024Fig2p5"
 - Le diagnostic d'insuffisance ovarienne prématurée est clinico-biologique: troubles des cycles (aménorrhée ou irréguliers) persistants au moins 4 mois avant 40 ans avec FSH > 25 UI/L
 - Des maladies auto-immunes sont fréquemment associées
 - Exploration de la ménopause précoce dans un [centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/)
-- Le traitement hormonal substitutif (THS) doit être démarré rapidement pour réduire le risque cardiovasculaire et [fracturaire]({{< relref "osteoporose.md" >}})
-- Le THS utilisé pour les insuffisances ovariennes prématurées spontanées (non iatrogènes) n'augmente pas le risque de [cancer du sein]({{< relref "cancer-sein.md" >}}) (*PNDS 2021*)
+- Le traitement hormonal substitutif (THS) doit être démarré rapidement pour réduire le risque cardiovasculaire et [fracturaire]({{% relref "osteoporose.md" %}})
+- Le THS utilisé pour les insuffisances ovariennes prématurées spontanées (non iatrogènes) n'augmente pas le risque de [cancer du sein]({{% relref "cancer-sein.md" %}}) (*PNDS 2021*)
 
-Chapitre lié: [ménopause et traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
+Chapitre lié: [ménopause et traitement hormonal de la ménopause]({{% relref "menopause.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -42,7 +42,7 @@ Insuffisance ovarienne prématurée (IOP, terme de l'*ESHRE*)
 : Critères diagnostiques *ESHRE* 2024 de l'insuffisance ovarienne prématurée: cycles anormaux (irréguliers ou aménorrhée) persistants au moins 4 mois avant 40 ans en présence d'une FSH élevée (> 25 UI/L; répétée à 4-6 semaines si douteuse).
 : L'IOP peut être due à 3 mécanismes: diminution du stock des follicules primordiaux lors de la vie fœtale, atrésie folliculaire accélérée ou blocage de la maturation folliculaire.
 : Augmentation des risques cardiovasculaire (ischémique +80%) et fracturaire des femmes.  
-Lien épidémiologique suggéré: risque d'[Alzheimer]({{< relref "maladie-alzheimer.md" >}}) x3 (annulée si THM jusqu'à 50 ans, *CNGOF*).
+Lien épidémiologique suggéré: risque d'[Alzheimer]({{% relref "maladie-alzheimer.md" %}}) x3 (annulée si THM jusqu'à 50 ans, *CNGOF*).
 
 Spanioménorrhée
 : Diminution de la fréquence des cycles menstruels (= allongement de leur durée).
@@ -126,7 +126,7 @@ Signes et symptômes de ménopause précoce à rechercher avant 40 ans:
 - Risque de grossesse
 - Antécédents  
   - À risque: oncologiques (chimiothérapie, radiothérapie pelvienne), chirurgicaux (pelviens, ovariectomie)
-  - Auto-immuns: [dysthyroïdie](/tags/tsh/), [diabète]({{< relref "diabete-type-1.md" >}}), insuffisance surrénale, [vitiligo]({{< relref "vitiligo.md" >}}), lupus, [polyarthrite]({{< relref "polyarthrite-rhumatoide.md" >}}), [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), myasthénie, Sjögren, PEA1 ([candidose buccale, unguéale et génitale]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), insuffisance surrénale et hypoparathyroïdie), PEA2 (insuffisance surrénale, dysthyroïdie, diabète type 1).
+  - Auto-immuns: [dysthyroïdie](/tags/tsh/), [diabète]({{% relref "diabete-type-1.md" %}}), insuffisance surrénale, [vitiligo]({{% relref "vitiligo.md" %}}), lupus, [polyarthrite]({{% relref "polyarthrite-rhumatoide.md" %}}), [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}), myasthénie, Sjögren, PEA1 ([candidose buccale, unguéale et génitale]({{% relref "mycoses-dermatophytes-candidoses.md" %}}), insuffisance surrénale et hypoparathyroïdie), PEA2 (insuffisance surrénale, dysthyroïdie, diabète type 1).
   - Complications: cardiovasculaires, fracturaires
 - Antécédents familiaux d'insuffisance ovarienne prématurée
 - Tabagisme
@@ -138,12 +138,12 @@ Signes et symptômes de ménopause précoce à rechercher avant 40 ans:
   - Troubles de l'humeur
   - Douleurs articulaires
 - Syndrome génito-urinaire de la ménopause  
-  Diagnostic clinique si ≥ 1 parmi: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (signes fonctionnels, [cystites récidivantes]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})).
-- [Infertilité]({{< relref "infertilite-couple.md" >}})
+  Diagnostic clinique si ≥ 1 parmi: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (signes fonctionnels, [cystites récidivantes]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})).
+- [Infertilité]({{% relref "infertilite-couple.md" %}})
 - Chez l'enfant: impubérisme
-- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
-L'aménorrhée peut être révélée après l'arrêt d'une [contraception œstroprogestative]({{< relref "contraception.md" >}}).  
+L'aménorrhée peut être révélée après l'arrêt d'une [contraception œstroprogestative]({{% relref "contraception.md" %}}).  
 L'*infertilité* est le plus souvent définitive mais pas toujours (4 à 10% de grossesses spontanées).
 
 ### Examen clinique
@@ -164,7 +164,7 @@ En première intention, bêta-HCG seule avec bilan complémentaire si négative.
 En cas de β-hCG négatifs:
 
 FSH, TSH  
-\+ ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
+\+ ferritine (voir [hémochromatose]({{% relref "hemochromatose.md" %}}))
 {.alert .alert-info}
 
 Précisions sur le bilan hormonal:
@@ -178,8 +178,8 @@ Précisions sur le bilan hormonal:
 Prise en charge dans un ***Centre de Référence de maladies rares*** prenant en charge les insuffisances ovariennes prématurées avec:
 
 - AMH (évaluation de la réserve ovarienne)
-- [Anticorps anti-TPO]({{< relref "hypothyroidie.md" >}})
-- [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}): IgA totales + IgA anti-transglutaminase
+- [Anticorps anti-TPO]({{% relref "hypothyroidie.md" %}})
+- [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}): IgA totales + IgA anti-transglutaminase
 - Absence de cause iatrogène: anticorps anti-surrénaliens, anticorps anti 21-hydroxylase
 - Bilan cardiovasculaire: bilian lipidique, glycémie à jeun (*ESHRE 2024*)
 
@@ -195,25 +195,25 @@ L'échographie pelvienne n'est pas réalisée à visée diagnostique (l'observat
 
 #### Ostéodensitométrie
 
-Ostéodensitométrie au diagnostic puis tous les 5 ans pour évaluer la perte osseuse. Voir les [indications au traitement selon T-score et/ou le FRAX]({{< relref "osteoporose.md" >}}).
+Ostéodensitométrie au diagnostic puis tous les 5 ans pour évaluer la perte osseuse. Voir les [indications au traitement selon T-score et/ou le FRAX]({{% relref "osteoporose.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la ménopause précoce" %}}
 
 > [!INFO]
-> Le traitement hormonal substitutif (THS) utilisé pour la ménopause précoce (spontanée, non iatrogène) n'augmente pas le risque de [cancer du sein]({{< relref "cancer-sein.md" >}}). (56 à 79% des patientes le croient -- *PNDS 2021*)
+> Le traitement hormonal substitutif (THS) utilisé pour la ménopause précoce (spontanée, non iatrogène) n'augmente pas le risque de [cancer du sein]({{% relref "cancer-sein.md" %}}). (56 à 79% des patientes le croient -- *PNDS 2021*)
 
 Prise en charge de l'insuffisance ovarienne prématurée (IOP ou ménopause précoce) dans un [Centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/):
 
 - Traitement hormonal substitutif (THS) jusqu'à au moins 51 ans
-  - Par [contraceptif estroprogestatif]({{< relref "contraception.md" >}}) en continu
-  - ou **traitement hormonal substitutif** (voir [spécialités disponibles pour le THM]({{< relref "menopause.md#spécialités-disponibles-pour-le-thm" >}}))
+  - Par [contraceptif estroprogestatif]({{% relref "contraception.md" %}}) en continu
+  - ou **traitement hormonal substitutif** (voir [spécialités disponibles pour le THM]({{% relref "menopause.md#spécialités-disponibles-pour-le-thm" %}}))
   - Préférer le schéma de THS combiné discontinu (afin de détecter une aménorrhée/grossesse), mais au choix de la patiente
   - Viser au moins 100 µg d'estradiol transdermique
   - Test de grossesse en l'absence d'hémorragie de privation
-- Traitement des troubles sexuels (voir *[Ménopause]({{< relref "menopause.md" >}})*)  
+- Traitement des troubles sexuels (voir *[Ménopause]({{% relref "menopause.md" %}})*)  
   Notamment ovule/gel estrogénique vaginal.
-- Aborder la [contraception]({{< relref "contraception.md" >}}) (risque 4-6%)
+- Aborder la [contraception]({{% relref "contraception.md" %}}) (risque 4-6%)
 - Projet parental: suivi en AMP sans délai
 - **Mesures hygiéno-diététiques**
   - Arrêt du tabac
@@ -237,13 +237,13 @@ Recommandations de prise en charge spécifiques pour les femmes suivantes:
 
 - Cancer du sein ou de l'ovaire épithélial  
   Avis spécialisé.
-- [Migraine]({{< relref "migraine.md" >}})  
+- [Migraine]({{% relref "migraine.md" %}})  
   N'est pas une contre-indication au THS au cours de l'IOP. Modifier dose, voie d'administration ou le schéma thérapeutique en cas d'aggravation.
-- [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})  
+- [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})  
   N'est pas une contre-indication au THS au cours de l'IOP. Œstradiol transdermique de préférence.
 - [Maladie veineuse thromboembolique](/tags/mvte/)  
   Avis hématologique avant THS en cas d'antécédent. Si autorisé, œstradiol transdermique.
-- [Obésité]({{< relref "obesite-adulte.md" >}})  
+- [Obésité]({{% relref "obesite-adulte.md" %}})  
   Œstradiol transdermique recommandé.
 - Fibromes  
   Ne sont pas une contre-indication au THS.

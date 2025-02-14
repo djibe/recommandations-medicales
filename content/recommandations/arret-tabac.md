@@ -31,8 +31,8 @@ todo = "rankok, bénéfices de l'arrêt, aider à gérer la rechute: HAS p.33+35
 - Dépister systématiquement le tabagisme et répéter le conseil d'arrêt à chaque consultation:  
   << Fumez-vous ? >>, si oui: << Arrêter de fumer est la décision la plus importante que vous pouvez prendre pour protéger votre santé. Je peux vous aider si vous le souhaitez >>
 - Note personnelle: informer sur le caractère gratuit et illimité sur ordonnance de la prise en charge des traitements d'aide à l'arrêt
-- Pour tous les fumeurs: proposer une prise en charge par des [substituts nicotiniques]({{< relref "substituts-nicotiniques.md" >}}) pour viser l'abstinence voire une réduction de la consommation de tabac
-- Outils: {{< modal-btn modal-fagerstrom >}}Score de Fagerström simplifié{{< /modal-btn >}} et [liste des substituts nicotiniques remboursés]({{< relref "substituts-nicotiniques.md" >}})
+- Pour tous les fumeurs: proposer une prise en charge par des [substituts nicotiniques]({{% relref "substituts-nicotiniques.md" %}}) pour viser l'abstinence voire une réduction de la consommation de tabac
+- Outils: {{< modal-btn modal-fagerstrom >}}Score de Fagerström simplifié{{< /modal-btn >}} et [liste des substituts nicotiniques remboursés]({{% relref "substituts-nicotiniques.md" %}})
 - Ressources patient: [brochure patient](https://www.santepubliquefrance.fr/determinants-de-sante/tabac/documents/depliant-flyer/9-questions-et-5-minutes-pour-commencer-une-vie-sans-tabac) et [brochure arrêter sans grossir (PDF)](https://pro.tabac-info-service.fr/var/tis/storage/original/application/60c2ab51a385c38d979de9bea6bbbd19.pdf), [Tabac Info Service.fr](https://www.tabac-info-service.fr) ([l'appli avec e-coaching](https://play.google.com/store/apps/details?id=fr.cnamts.tis) ou au {{<phone>}}3989{{</phone>}})
 - [Annuaire des tabacologues](https://www.tabac-info-service.fr/je-trouve-un-tabacologue) et des [CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html)
 
@@ -41,7 +41,7 @@ todo = "rankok, bénéfices de l'arrêt, aider à gérer la rechute: HAS p.33+35
 
 Tabagisme
 : Usage de tabac quelle que soit la forme: fumé (cigarette, cigare, tabac à rouler, pipe, narguilé), prisé, mâché (snus), associé ou non à d'autres substances (joint), etc. Le tabagisme débute à l'**adolescence**.
-: Risque de complications quelques soient la forme, la durée et la quantité: [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/) (x20), cancer. Les risques sont identiques pour le **tabagisme passif**.
+: Risque de complications quelques soient la forme, la durée et la quantité: [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/) (x20), cancer. Les risques sont identiques pour le **tabagisme passif**.
 Le tabagisme est la deuxième cause de mortalité mondiale (5,1 millions de décès/an) et la première cause évitable de mortalité.
 : **Notes:** Ne pas utiliser les termes bien/mal mais plutôt bon/mauvais pour la santé. Rappeler que l'arrêt du tabac n'est pas une question de volonté mais qu'il s'agit d'une addiction nécessitant le suivi d'un professionnel.
 
@@ -66,7 +66,7 @@ Faux pas
 
 > [!INFO]
 > << Il n'est jamais trop tard pour arrêter >>. (*HAS 2014*)  
-Arrêter à 40 ans augmente l'[espérance de vie]({{< relref "esperance-vie-age-france.md" >}}) de 7 ans, à 50 ans de 4 ans, à 60 ans de 3 ans
+Arrêter à 40 ans augmente l'[espérance de vie]({{% relref "esperance-vie-age-france.md" %}}) de 7 ans, à 50 ans de 4 ans, à 60 ans de 3 ans
 
 Bénéfices importants sur la morbi-mortalité (cardiovasculaire et cancer du poumon ++).
 
@@ -151,19 +151,19 @@ Complications du tabagisme:
 - Insulinorésistance
 - Maladies respiratoires
 - Parodontopathies (x 2,5-6 ; NHANES III)
-- [DMLA]{{< relref "degenerescence-maculaire-age-dmla.md" >}}
+- [DMLA]{{% relref "degenerescence-maculaire-age-dmla.md" %}}
 - Troubles de cicatrisation et vieillissement cutané
 - Complications périopératoires
 - Réduit la fertilité chez les deux sexes, les chances en AMP
-- Femmes: [ostéoporose]({{< relref "osteoporose.md" >}}), [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}), AVC par contraception combinée
+- Femmes: [ostéoporose]({{% relref "osteoporose.md" %}}), [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}), AVC par contraception combinée
 - Grossesse: GEU x2 (35% des GEU), fausse-couche précoce x3, MFIU (+47%), accouchement prématuré, RCIU et petit poids de naissance (-300g), augmente morbi-mortalité péri-natales, réduction des capacités scolaires et cognitives de l'enfant, malformations congénitales, allonge le délai de conception, aggrave l'effet d'âge sur la fécondité
-- Hommes: [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})
+- Hommes: [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}})
 - Tabagisme passif
-  - IDM, AVC (x2), [cancer du poumon]({{< relref "cancer-poumon.md" >}}) (+25% si conjoint fume) ou maladie respiratoire, cancer des sinus
+  - IDM, AVC (x2), [cancer du poumon]({{% relref "cancer-poumon.md" %}}) (+25% si conjoint fume) ou maladie respiratoire, cancer des sinus
   - Nourrisson: mort subite x2
-  - Enfant: [otites]({{< relref "otite-moyenne-aigue.md" >}}), [asthme]({{< relref "asthme.md" >}}), [pneumopathie]({{< relref "pneumonie-aigue-communautaire.md" >}})
+  - Enfant: [otites]({{% relref "otite-moyenne-aigue.md" %}}), [asthme]({{% relref "asthme.md" %}}), [pneumopathie]({{% relref "pneumonie-aigue-communautaire.md" %}})
 
-Autres maladies avec sur-représentation de fumeurs: [Algies vasculaires de la face]({{< relref "algie-vasculaire-face.md" >}}), [maladie de Verneuil]({{< relref "maladie-verneuil.md" >}}), gastrite, ulcère gastro-duodénal, [cataracte]({{< relref "cataracte.md" >}}).
+Autres maladies avec sur-représentation de fumeurs: [Algies vasculaires de la face]({{% relref "algie-vasculaire-face.md" %}}), [maladie de Verneuil]({{% relref "maladie-verneuil.md" %}}), gastrite, ulcère gastro-duodénal, [cataracte]({{% relref "cataracte.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Dépistage et évaluation de la dépendance au tabac" %}}
@@ -190,7 +190,7 @@ Rechercher également un syndrome de sevrage, une perte de contrôle, un désir 
 La dépendance est certaine en présence d'au moins 1 critère parmi:
 
 - Rechute après une tentative d'arrêt
-- Complications ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [artérite]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}), [cancer](/tags/cancer/) ...) ou risques encourus dans certaines situations spécifiques (intervention chirurgicale, grossesse ...)
+- Complications ([BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), [artérite]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}), [cancer](/tags/cancer/) ...) ou risques encourus dans certaines situations spécifiques (intervention chirurgicale, grossesse ...)
 - Souci constant d'approvisionnement de tabac
 
 ### 3) Conseil d'arrêt
@@ -254,12 +254,12 @@ Parcours synthétisé par les anglo-saxons en 5A pour chaque consultation:
   - Dépendance: {{< modal-btn modal-fagerstrom >}}Fagerström-2{{< /modal-btn >}}
 - Autres toxiques ({{< modal-btn modal-deta >}}alcool CAGE-DETA{{< /modal-btn >}}, {{< modal-btn modal-cast >}}cannabis CAST{{< /modal-btn >}}), addictions comportementales
 - Facteurs de risque cardiovasculaires  
-  Dont [contraception]({{< relref "contraception.md" >}}), hypertension artérielle, diabète, hérédité cardiovasculaire ...
+  Dont [contraception]({{% relref "contraception.md" %}}), hypertension artérielle, diabète, hérédité cardiovasculaire ...
 - Antécédents  
-  Cancer, [migraine]({{< relref "migraine.md" >}}), cardiovasculaires, respiratoires et signes évocateurs.
+  Cancer, [migraine]({{% relref "migraine.md" %}}), cardiovasculaires, respiratoires et signes évocateurs.
 - Risque cardiovasculaire  
   {{< modal-btn modal-rcv >}}Prévention secondaire{{< /modal-btn >}} ou primaire ({{< scores/heartscore >}})
-- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 Informer sur les **signes de sevrage** en nicotine: troubles de l'humeur, insomnie, irritabilité, frustration, colère, anxiété, difficultés de concentration, augmentation de l'appétit, fébrilité.
 
@@ -270,8 +270,8 @@ Examens à envisager chez le fumeur:
 
 - Dépistages des cancers recommandés (colorectal, sein, col de l'utérus)
 - Dépistages: {{< modal-btn modal-depistage-bpco >}}BPCO{{< /modal-btn >}}, coronaropathie, {{< modal-btn modal-depistage-prevalent >}}pathologie vasculaire{{< /modal-btn >}}
-- [Dépistage du cancer du poumon]({{< relref "cancer-poumon.md" >}})
-- Dépistage de l'[anévrysme de l'aorte abdominale (AAA)]({{< relref "anevrysme-aorte-abdominale.md" >}}): Homme de 65 à 75 ans avec tabagisme actif ou sevré depuis < 20 ans  
+- [Dépistage du cancer du poumon]({{% relref "cancer-poumon.md" %}})
+- Dépistage de l'[anévrysme de l'aorte abdominale (AAA)]({{% relref "anevrysme-aorte-abdominale.md" %}}): Homme de 65 à 75 ans avec tabagisme actif ou sevré depuis < 20 ans  
   et Homme de 50 à 75 ans avec antécédent familial d'AAA au 1^er^ degré (parents/fratrie)
 
 {{% /collapse %}}
@@ -285,7 +285,7 @@ Prise en charge du patient souhaitant arrêter de fumer:
 - Tabacologue ([annuaire](https://www.tabac-info-service.fr/je-trouve-un-tabacologue))  
   Indications: demande du patient, rechutes répétées, accompagnement psychologique spécifique, poly-addictions, comorbidités psychiatriques.
 - Soutien psychologique ± **thérapie cognitive et comportementale** (TCC)  
-  Voir [remboursement Mon soutien psy]({{< relref "remboursement-psychologue-monsoutienpsy.md" >}}).
+  Voir [remboursement Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}).
 - Suivi bucco-dentaire rigoureux
 - Voire traitement médicamenteux
 - Auto-support: [Tabac Info Service](https://www.tabac-info-service.fr/), appli [Kwit](https://play.google.com/store/apps/details?id=fr.kwit.android)
@@ -307,11 +307,11 @@ Traitements non recommandés (efficacité non démontrée) mais inoffensifs si l
 
 Les traitements médicamenteux permettant de soulager les symptômes de sevrage en nicotine, de réduire l'envie de fumer et de prévenir les rechutes.
 
-En première intention: **[substituts nicotiniques]({{< relref "substituts-nicotiniques.md" >}})** pour l'arrêt ou la réduction de consommation (pour tous).
+En première intention: **[substituts nicotiniques]({{% relref "substituts-nicotiniques.md" %}})** pour l'arrêt ou la réduction de consommation (pour tous).
 
 #### Substituts nicotiniques (TNS)
 
-Promouvoir les substituts nicotiniques pour tous afin de réduire la consommation: Débuter avec 1 cigarette = 1 mg de nicotine. [Liste des substituts nicotiniques remboursés]({{< relref "substituts-nicotiniques.md" >}})
+Promouvoir les substituts nicotiniques pour tous afin de réduire la consommation: Débuter avec 1 cigarette = 1 mg de nicotine. [Liste des substituts nicotiniques remboursés]({{% relref "substituts-nicotiniques.md" %}})
 {.alert .alert-info}
 
 À savoir sur les traitements nicotiniques de substitution (TNS):
@@ -324,7 +324,7 @@ Promouvoir les substituts nicotiniques pour tous afin de réduire la consommatio
 - Si besoin appliquer plusieurs patchs  
   En cas d'intolérance cutanée, changer de site tous les jours ou changer de marque.
 - Possibles dès 15 ans, aucune limitation pendant la grossesse
-- Promouvoir en [post-partum]({{< relref "post-partum.md" >}}) afin de réduire le nombre élevé de rechutes (80% dans l'année)
+- Promouvoir en [post-partum]({{% relref "post-partum.md" %}}) afin de réduire le nombre élevé de rechutes (80% dans l'année)
 - Arrêt du tabac immédiat préconisé mais une réduction progressive sous TNS est possible
 - Peuvent être prescrits par les infirmiers
 

@@ -91,7 +91,7 @@ Urticaire aquagénique
 : Rare. Test de provocation par application d'une compresse humide à 37°C sur le dos de la main pendant 20 à 30 minutes.
 
 Urticaire alimentaire
-: Allergie vraie IgE dépendante comme l'[APLV]({{< relref "allergie-proteines-lait-vache.md" >}}), œufs, poissons, crustacés, moutarde, arachide, céleri, pêche, amande, tournesol, orange, noisettes, kiwi, fruits exotiques, blé, lentilles.  
+: Allergie vraie IgE dépendante comme l'[APLV]({{% relref "allergie-proteines-lait-vache.md" %}}), œufs, poissons, crustacés, moutarde, arachide, céleri, pêche, amande, tournesol, orange, noisettes, kiwi, fruits exotiques, blé, lentilles.  
 Survient rapidement après l'ingestion.
 
 Dermographisme
@@ -129,7 +129,7 @@ UCS
 ### Signes de gravité de l'urticaire
 
 - Dyspnée
-- [Dysphonie]({{< relref "dysphonie.md" >}})
+- [Dysphonie]({{% relref "dysphonie.md" %}})
 - Hypersalivation et troubles de la déglutition
 - Malaise
 - Hypotension artérielle
@@ -236,7 +236,7 @@ En cas de syndrome inflammatoire biologique, d'anomalie de la NFS ou de signes c
 - Dysthyroïdie clinique  
   TSH, anticorps anti-TG et anti-TPO ou antirécepteurs de la TSH.
 - Signes gastriques/duodénaux  
-  Recherche d'[H. pylori]({{< relref "helicobacter-pylori.md" >}}).
+  Recherche d'[H. pylori]({{% relref "helicobacter-pylori.md" %}}).
 - Urticaire au froid  
   Cryoglobulinémie, cryofibrinogénémie, immunoglobuline monoclonale, agglutinines froides.
 - Urticaire solaire  
@@ -403,7 +403,7 @@ Et aussi:
 - Stress et émotions, efforts physiques
 - Coups, traumatismes
 - Interventions chirurgicales
-- Piqûres de guêpes, abeilles, [morsures de serpents]({{< relref "morsure.md" >}})
+- Piqûres de guêpes, abeilles, [morsures de serpents]({{% relref "morsure.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une urticaire" "show" %}}

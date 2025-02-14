@@ -32,7 +32,7 @@ todo = "flow, diversification alimentaire"
 - Le recours à la méthode de contraception MAMA nécessite des critères stricts
 - Traitement des abcès du sein, crevasses, engorgement mammaire, mastite, mycose: voir la section *Prise en charge des complications*
 
-Chapitres liés: [grossesse]({{< relref "grossesse.md" >}}), [post-partum]({{< relref "post-partum.md" >}})
+Chapitres liés: [grossesse]({{% relref "grossesse.md" %}}), [post-partum]({{% relref "post-partum.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -43,7 +43,7 @@ Allaitement maternel
 : En France, l'allaitement maternel concerne 70% des enfants à la naissance et dure en médiane 15 semaines (3,5 semaines pour l'allaitement exclusif). Ces résultats sont parmi les plus faibles d'Europe, malgré des taux multipliés par 2 en 20 ans.
 
 Écoulement mamelonnaire (EM)
-: Extériorisation de liquide par un ou deux mamelons. Il peut être unipore ou de plusieurs pores et avoir une couleur ou aspect variable. Il est spontané ou provoqué mais survient toujours en dehors de l'allaitement (jusqu'à 1 an) et du [post-partum]({{< relref "post-partum.md" >}}).
+: Extériorisation de liquide par un ou deux mamelons. Il peut être unipore ou de plusieurs pores et avoir une couleur ou aspect variable. Il est spontané ou provoqué mais survient toujours en dehors de l'allaitement (jusqu'à 1 an) et du [post-partum]({{% relref "post-partum.md" %}}).
 
 ### Abréviations
 
@@ -71,7 +71,7 @@ Informations sur l'allaitement maternel:
   - Café limité à 2-3 tasses/jour
   - Alcool déconseillé  
     Max 1 à 2 verres lors d'occasions, 2 heures de délai avant la mise au sein.
-  - Dépister le [tabagisme]({{< relref "arret-tabac.md" >}}) et accompagner l'arrêt
+  - Dépister le [tabagisme]({{% relref "arret-tabac.md" %}}) et accompagner l'arrêt
   - Prise de médicaments: vérifier sur [le CRAT](https://www.lecrat.fr)
 - Position au sein
   - Pas de données sur: position particulière, 1 sein ou 2 ou débuter précocement et la durée entre 2 tétées
@@ -87,8 +87,8 @@ Informations sur l'allaitement maternel:
 {{%warning%}}
 Les contre-indications à un allaitement maternel sont:
 
-- Infection par le [VIH/SIDA]({{< relref "vih-sida.md" >}})
-- [Hépatite C]({{< relref "hepatite-c.md" >}}) (si la charge virale est détectable)
+- Infection par le [VIH/SIDA]({{% relref "vih-sida.md" %}})
+- [Hépatite C]({{% relref "hepatite-c.md" %}}) (si la charge virale est détectable)
 - Usage de cocaïne
 - Galactosémie du nourrisson (*Anaes*)
 
@@ -97,7 +97,7 @@ Les contre-indications à un allaitement maternel sont:
 
 L'allaitement est **déconseillé en cas d'usage de cannabis**.
 
-Un antécédent de [cancer du sein]({{< relref "cancer-sein.md" >}}) n'est pas une contre-indication à l'allaitement maternel.
+Un antécédent de [cancer du sein]({{% relref "cancer-sein.md" %}}) n'est pas une contre-indication à l'allaitement maternel.
 
 {{% /collapse %}}
 {{%collapse "L'allaitement maternel comme contraception" %}}
@@ -110,7 +110,7 @@ La méthode de l'allaitement maternel et de l'aménorrhée (<em>MAMA</em>) est p
 
 La contraception œstro-progestative n'est pas recommandée dans les 6 mois qui suivent l’accouchement en cas d'allaitement.
 
-Voir le chapitre [contraception du post-partum]({{< relref "post-partum.md" >}}).
+Voir le chapitre [contraception du post-partum]({{% relref "post-partum.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Allaitement et reprise du travail" %}}
@@ -129,7 +129,7 @@ Elle peut s'absenter pour allaiter (30 minutes le matin puis 30 minutes l'après
 
 Éléments à savoir sur l'inhibition de la lactation:
 
-- En l'absence de stimulation mamelonnaire: arrêt spontané de la lactation dans les 15 jours [post-partum]({{< relref "post-partum.md" >}})
+- En l'absence de stimulation mamelonnaire: arrêt spontané de la lactation dans les 15 jours [post-partum]({{% relref "post-partum.md" %}})
 - Ne pas utiliser la bromocriptine
 - Éviter les lisuride et cabergoline si possible (effets indésirables ++)
 

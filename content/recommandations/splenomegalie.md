@@ -28,7 +28,7 @@ flowchart = true
 - Échographie abdominale et bilan biologique: NFS, CRP, fibrinogène, frottis sanguin, réticulocytes, bilan hépatique, bilirubine totale et libre, haptoglobine, LDH, test de Coombs direct, TP, électrophorèse des protéines sériques
 - La prise en charge de la splénomégalie est celle de la maladie causale
 - Avis hématologique devant une splénomégalie isolée sans signe d'orientation
-- La splénectomie entraîne un sur-risque infectieux majeur par [asplénie]({{< relref "asplenie.md" >}})
+- La splénectomie entraîne un sur-risque infectieux majeur par [asplénie]({{% relref "asplenie.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -41,9 +41,9 @@ Rôles de la rate: immunologique, réservoir de plaquettes et globules blancs, s
 ### Diagnostic différentiel d'une splénomégalie
 
 - Lobe gauche hépatique volumineux
-- [Tumeur gastrique]({{< relref "cancer-estomac.md" >}}) (grande courbure)
-- [Tumeur du pancréas]({{< relref "cancer-pancreas.md" >}}) (queue)
-- [Tumeur colique]({{< relref "cancer-colorectal.md" >}}) (angle gauche)
+- [Tumeur gastrique]({{% relref "cancer-estomac.md" %}}) (grande courbure)
+- [Tumeur du pancréas]({{% relref "cancer-pancreas.md" %}}) (queue)
+- [Tumeur colique]({{% relref "cancer-colorectal.md" %}}) (angle gauche)
 - Adénopathie mésentériques ou rétro-péritonéales
 - Surrénale hypertrophiée
 
@@ -65,13 +65,13 @@ Orientation devant une splénomégalie selon le tableau clinique.
 La splénomégalie n'est qu'un symptôme:
 
 - Bactérien
-  Septicémies (cirrhose décompensée), typhoïde, [tuberculose]({{< relref "tuberculose.md" >}}), [maladie d'Osler]({{< relref "endocardite.md" >}}).
+  Septicémies (cirrhose décompensée), typhoïde, [tuberculose]({{% relref "tuberculose.md" %}}), [maladie d'Osler]({{% relref "endocardite.md" %}}).
 - Viral  
-  [Mononucléose infectieuse]({{< relref "mononucleose-infectieuse.md" >}}), [VIH]({{< relref "vih-sida.md" >}}), [hépatite virale](/tags/hepatite/).
+  [Mononucléose infectieuse]({{% relref "mononucleose-infectieuse.md" %}}), [VIH]({{% relref "vih-sida.md" %}}), [hépatite virale](/tags/hepatite/).
 - Parasitaire  
-  [Paludisme aigu]({{< relref "paludisme.md" >}}), leishmaniose viscérale.
+  [Paludisme aigu]({{% relref "paludisme.md" %}}), leishmaniose viscérale.
 - Tumorale  
-  [Leucémie aiguë lymphoblastique]({{< relref "leucemie-aigue-adulte.md" >}}) ou [leucémie lymphoïde chronique]({{< relref "leucemie-lymphoide-chronique.md" >}}) (LLC).
+  [Leucémie aiguë lymphoblastique]({{% relref "leucemie-aigue-adulte.md" %}}) ou [leucémie lymphoïde chronique]({{% relref "leucemie-lymphoide-chronique.md" %}}) (LLC).
 - Auto-immun  
   Lupus érythémateux aigu disséminé, sarcoïdose.
 
@@ -80,8 +80,8 @@ La splénomégalie n'est qu'un symptôme:
 - Syndromes myéloprolifératifs  
   Leucémie myéloïde chronique, Maladie de Vaquez, splénomégalie myéloïde chronique, thrombocytémie essentielle.
 - Hémopathies lymphocytaires  
-  [Leucémie lymphoïde chronique]({{< relref "leucemie-lymphoide-chronique.md" >}}), maladie de Waldenström, leucémie à tricholeucocytes
-- [Lymphomes malins]({{< relref "lymphomes-non-hodgkiniens.md" >}})
+  [Leucémie lymphoïde chronique]({{% relref "leucemie-lymphoide-chronique.md" %}}), maladie de Waldenström, leucémie à tricholeucocytes
+- [Lymphomes malins]({{% relref "lymphomes-non-hodgkiniens.md" %}})
 - Anémies hémolytiques chroniques  
   Minkowski-Chauffard, déficit en pyruvate-kinase érythrocytaire, thalassémie  majeure, drépanocytose, hémolyse par auto-anticorps anti-GR.
 
@@ -90,7 +90,7 @@ La splénomégalie n'est qu'un symptôme:
 - Cirrhose
 - Blocs sus-hépatiques (syndrome de Budd-Chiari)
 - Blocs sous-hépatiques  
-  Adénopathies retro-péritonéales, [tuberculose]({{< relref "tuberculose.md" >}}), lymphome, métastases, [cancers de la tête du pancréas]({{< relref "cancer-pancreas.md" >}}), [pancréatite chronique]({{< relref "pancreatite-chronique.md" >}}).
+  Adénopathies retro-péritonéales, [tuberculose]({{% relref "tuberculose.md" %}}), lymphome, métastases, [cancers de la tête du pancréas]({{% relref "cancer-pancreas.md" %}}), [pancréatite chronique]({{% relref "pancreatite-chronique.md" %}}).
 
 ### Grosses rates isolées
 
@@ -116,7 +116,7 @@ Le diagnostic de splénomégalie est clinique.
 - Symptômes  
   Pesanteur ou douleur de l'hypochondre gauche, augmentée en inspiration profonde, irradiation vers l'épaule gauche.
 - Troubles digestifs ou vésicaux  
-  Gêne postprandiale, douleur, [constipation]({{< relref "constipation.md" >}}).
+  Gêne postprandiale, douleur, [constipation]({{% relref "constipation.md" %}}).
 
 ### Examen clinique
 
@@ -125,8 +125,8 @@ Le diagnostic de splénomégalie est clinique.
 - Rechercher une hépatomégalie
 - Signes d'hypertension portale  
   {{< clinique/hypertension-portale >}}
-- [Ictère cutanéomuqueux]({{< relref "ictere.md" >}}) et ascite
-- Purpura, [angine pseudo-membraneuse]({{< relref "angine.md" >}})
+- [Ictère cutanéomuqueux]({{% relref "ictere.md" %}}) et ascite
+- Purpura, [angine pseudo-membraneuse]({{% relref "angine.md" %}})
 - Adénopathies périphériques
 
 ### Symptômes des complications spléniques
@@ -150,25 +150,25 @@ Rupture de rate
 - ASAT, ALAT, GGT, PAL
 - Bilirubine totale et libre, haptoglobine, LDH, test de Coombs direct (test à l'antiglobuline)
 - TP
-- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
+- [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
 - **Échographie abdominale**
 {{%/info%}}
 
-Selon le tableau: hémocultures ou recherche de [paludisme en urgence]({{< relref "paludisme.md" >}}).
+Selon le tableau: hémocultures ou recherche de [paludisme en urgence]({{% relref "paludisme.md" %}}).
 
 ### Anomalies biologiques
 
 - Leucocytes
   - Polynucléose neutrophile: infection bactérienne
   - Leucopénie: infection virale, typhoïde ou brucellose
-  - Hyperlymphocytose du jeune: [syndrome mononucléosique]({{< relref "mononucleose-infectieuse.md" >}})
+  - Hyperlymphocytose du jeune: [syndrome mononucléosique]({{% relref "mononucleose-infectieuse.md" %}})
   - Hyperlymphocytose chronique après 40 ans: syndrome myéloprolifératif
   - Hyperleucocytose franche et polynucléose neutrophile et myélémie: syndrome myéloprolifératif
   - Leucopénie (2-4 G/L, thrombopénie) par hypersplénisme
 - Érythrocytes
   - Macrocytose isolée ou anémie macrocytaire arégénérative: hépatopathie (voire hémopathie)
   - Anémie régénérative: hémolyse constitutionnelle (frottis) ou acquise (Coombs direct)
-  - [Polyglobulie]({{< relref "polyglobulie.md" >}}): syndrome myéloprolifératif
+  - [Polyglobulie]({{% relref "polyglobulie.md" %}}): syndrome myéloprolifératif
 - Plaquettes
   - Thrombopénie: hypersplénisme (thrombopénie 50-90 G/L, leucopénie), infection, lupus voire hémopathie
 
@@ -200,7 +200,7 @@ Indications à une splénectomie:
 
 Risque chirurgical au cours des cirrhoses ou de la splénomégalie myéloïde.
 
-La splénectomie entraîne un sur-risque infectieux majeur par [asplénie]({{< relref "asplenie.md" >}}).
+La splénectomie entraîne un sur-risque infectieux majeur par [asplénie]({{% relref "asplenie.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une splénomégalie" "show" %}}

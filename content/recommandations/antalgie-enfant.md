@@ -34,7 +34,7 @@ Recommandations pour la prise en charge de la douleur nociceptive de l'enfant:
 - Les antalgiques de palier 2 étant limités chez l'enfant, le recours à la morphine est plus précoce (mais concerne exceptionnellement le généraliste)
 - [Halte aux suppositoires ! (Pediadol)](https://pediadol.org/halte-aux-suppositoires/)
 
-Chapitre lié: [douleur neuropathique]({{< relref "douleur-neuropathique.md" >}})
+Chapitre lié: [douleur neuropathique]({{% relref "douleur-neuropathique.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Antalgie palier 1" "show" %}}
@@ -63,10 +63,10 @@ Traitement sûr (*[Lesko 1995](https://pubmed.ncbi.nlm.nih.gov/7884951/)*). Clas
 
 #### Situations où éviter les AINS
 
-- [Varicelle]({{< relref "varicelle.md" >}}) (même si aucun lien prouvé)
+- [Varicelle]({{% relref "varicelle.md" %}}) (même si aucun lien prouvé)
 - Infection pulmonaire ou ORL **sévère**, cutanées ou des tissus mous
 - Risque hémorragique ou trouble de la coagulation
-- Risque de déshydratation ([diarrhées]({{< relref "diarrhee-aigue-nourrisson.md" >}}), canicule ...)
+- Risque de déshydratation ([diarrhées]({{% relref "diarrhee-aigue-nourrisson.md" %}}), canicule ...)
 
 {{% /collapse %}}
 {{%collapse "Antalgie palier 2" %}}
@@ -147,7 +147,7 @@ Hydromorphone, oxycodone.
 ### Surveillance de l'enfant sous opioïdes
 
 - EVA/EN
-- [Constipation]({{< relref "constipation.md" >}})
+- [Constipation]({{% relref "constipation.md" %}})
 - Somnolence: surveillance rapprochée voire réduction des doses si une stimulation physique est nécessaire pour le réveiller
 - Fréquence respiratoire (seuil d'alerte): < 20/min avant 1 an | < 15/min de 1-4 ans | < 10/min à partir de 5 ans
 - Contrôle de la saturation
@@ -162,7 +162,7 @@ Autres méthodes antalgiques pouvant être associées au traitement médicamente
 
 - Nourrisson: tenir dans les bras, succion (sein, tétine)
 - Solutions sucrées chez le nourrisson jusqu'à 6 mois  
-  [Allaitement]({{< relref "allaitement.md" >}}), saccharose 24% (Algopédol®), glucosé 30%. Quelques gouttes sur le bout de la langue, 2 minutes avant le soin. Efficace 5-7 minutes.
+  [Allaitement]({{% relref "allaitement.md" %}}), saccharose 24% (Algopédol®), glucosé 30%. Quelques gouttes sur le bout de la langue, 2 minutes avant le soin. Efficace 5-7 minutes.
 - MEOPA  
   Chez +1 mois. Minimum 3 minutes avant le soin et poursuivi pendant. Efficace < 60 minutes. Ne pas administer de force.
 - Crème/patch lidocaïne - prilocaïne  
@@ -215,7 +215,7 @@ Une douleur aiguë entraîne des symptômes bruyants. Lorsqu'elle se prolonge el
 
 ### Éléments de prise en charge
 
-Rassurer, selon l'âge mobiliser: présence des parents, portage, paroles, [allaitement]({{< relref "allaitement.md" >}}), tétine, distraire, musique, cocon, informer, distraire, rappeler que ce n'est pas de sa faute, courage, négociation.
+Rassurer, selon l'âge mobiliser: présence des parents, portage, paroles, [allaitement]({{% relref "allaitement.md" %}}), tétine, distraire, musique, cocon, informer, distraire, rappeler que ce n'est pas de sa faute, courage, négociation.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la douleur nociceptive de l'enfant" "show" %}}

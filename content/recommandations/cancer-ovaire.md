@@ -48,12 +48,12 @@ Cancer de l'ovaire
     Dépistage échographique annuel à partir de 35 ans et hystérectomie totale avec annexectomie discutée à partir de 40 ans (*ESMO 2016*)
 - Autres facteurs de risque de cancer ovarien
   - Nulliparité
-  - Surpoids et [obésité]({{< relref "obesite-adulte.md" >}})
+  - Surpoids et [obésité]({{% relref "obesite-adulte.md" %}})
   - Ménarche précoce
-  - [Ménopause tardive]({{< relref "menopause.md" >}})
+  - [Ménopause tardive]({{% relref "menopause.md" %}})
   - Âge
 
-> Facteurs protecteurs du cancer de l'ovaire: [contraception orale]({{< relref "contraception.md" >}}), [grossesse]({{< relref "grossesse.md" >}}), [allaitement]({{< relref "allaitement.md" >}}), ligature des trompes, salpingectomie bilatérale.
+> Facteurs protecteurs du cancer de l'ovaire: [contraception orale]({{% relref "contraception.md" %}}), [grossesse]({{% relref "grossesse.md" %}}), [allaitement]({{% relref "allaitement.md" %}}), ligature des trompes, salpingectomie bilatérale.
 
 ### Abréviations
 
@@ -92,7 +92,7 @@ Les signes et symptômes devant faire évoquer un cancer de l'ovaire en cas de p
 ### Interrogatoire
 
 - Antécédents personnels ou familiaux  
-  [Cancers du sein]({{< relref "cancer-sein.md" >}}) ou de l'ovaire (âge au diagnostic, BRCA), [cancer colorectal]({{< relref "cancer-colorectal.md" >}}) ou de l'[endomètre]({{< relref "cancer-endometre.md" >}}) (syndrome de Lynch).
+  [Cancers du sein]({{% relref "cancer-sein.md" %}}) ou de l'ovaire (âge au diagnostic, BRCA), [cancer colorectal]({{% relref "cancer-colorectal.md" %}}) ou de l'[endomètre]({{% relref "cancer-endometre.md" %}}) (syndrome de Lynch).
 - Gynécologues  
   Âge des premières règles, gestité, parité, statut ménopausique, contraception, traitement hormonal de la ménopause.
 - Symptômes non spécifiques
@@ -158,13 +158,13 @@ La prise en charge du cancer de l'ovaire repose essentiellement sur la chirurgie
 
 Comme pour tout cancer:
 
-- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
-- [Sevrage tabagique]({{< relref "arret-tabac.md" >}})
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
+- [Sevrage tabagique]({{% relref "arret-tabac.md" %}})
 - Proposer un soutien psychologique
 - Soins de confort
 - Évaluation nutritionnelle
 - [Guide d'information INCa sur le cancer de l'ovaire](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-l-ovaire/Les-points-cles)
-- [Directives anticipées]({{< relref "directives-anticipees.md" >}}), [personne de confiance](https://www.service-public.fr/particuliers/vosdroits/R40462)
+- [Directives anticipées]({{% relref "directives-anticipees.md" %}}), [personne de confiance](https://www.service-public.fr/particuliers/vosdroits/R40462)
 - Associations de patients  
   [imagyn](https://www.imagyn.org), [Ligue contre le cancer](https://www.ligue-cancer.net), [roseup](https://www.rose-up.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com).
 
@@ -175,7 +175,7 @@ Comme pour tout cancer:
 
 La chirurgie du cancer de l'ovaire exige une exérèse chirurgicale sans rupture de la masse ovarienne, annexectomie bilatérale avec hystérectomie totale, omentectomie, appendicectomie, curage ganglionnaire pelvien et lombo-aortique, cytologie et biopsies péritonéale.
 
-Les stades précoces accessibles en chirurgie avant 50 ans déclenchent une [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}) pouvant être traitée par un traitement hormonal substitutif par l'équipe oncologique.
+Les stades précoces accessibles en chirurgie avant 50 ans déclenchent une [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}) pouvant être traitée par un traitement hormonal substitutif par l'équipe oncologique.
 
 {{% /collapse %}}
 {{%collapse "Suivi" %}}
@@ -193,9 +193,9 @@ Les personnes atteintes de mutations BRCA1 ou 2 ou du syndrome de Lynch ont un s
 
 ### Principales localisations à risque de second cancer
 
-- [Leucémie aiguë myéloblastique]({{< relref "leucemie-aigue-adulte.md" >}}) (agents alkylants surtout)
-- [Cancer colorectal]({{< relref "cancer-colorectal.md" >}}) (si cancer de l'ovaire avant 50 ans ou syndrome de Lynch)
-- [Cancer du sein]({{< relref "cancer-sein.md" >}}) (si cancer de l'ovaire avant 50 ans ou mutation BRCA)
+- [Leucémie aiguë myéloblastique]({{% relref "leucemie-aigue-adulte.md" %}}) (agents alkylants surtout)
+- [Cancer colorectal]({{% relref "cancer-colorectal.md" %}}) (si cancer de l'ovaire avant 50 ans ou syndrome de Lynch)
+- [Cancer du sein]({{% relref "cancer-sein.md" %}}) (si cancer de l'ovaire avant 50 ans ou mutation BRCA)
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du cancer de l'ovaire" "show" %}}

@@ -44,7 +44,7 @@ Maladie d'Alzheimer
 Apathie
 : Déficit persistant de la motivation rapporté par le sujet ou son entourage. Cet état contraste avec le niveau antérieur de fonctionnement ou les
 standards d'âge et de culture.
-: L'apathie comporte des dimensions comportementales (diminution des comportements volontaires dirigés vers un but), cognitives et émotionnelles. Elle doit être différenciée d'une [dépression]({{< relref "depression.md" >}}).
+: L'apathie comporte des dimensions comportementales (diminution des comportements volontaires dirigés vers un but), cognitives et émotionnelles. Elle doit être différenciée d'une [dépression]({{% relref "depression.md" %}}).
 
 ### Abréviations
 
@@ -71,7 +71,7 @@ Autres diagnostics à étayer devant une démence:
 - Démence vasculaire: infarctus cérébraux multiples  
   Plutôt symétrique, peu sensible aux dopaminergiques, syndrome peudo-bulbaire.
 - Syndromes parkinsoniens dégénératifs
-  - [Maladie de Parkinson]({{< relref "maladie-parkinson.md" >}})
+  - [Maladie de Parkinson]({{% relref "maladie-parkinson.md" %}})
   - Démence à corps de Lewy  
     Démence précoce avec hallucinations spontanées et fluctuations de la vigilance, forte sensibilité aux neuroleptiques.
   - Paralysie supranucléaire progressive (syndrome de Steele-Richardson-Olszewski)  
@@ -92,7 +92,7 @@ Autres diagnostics à étayer devant une démence:
 Demander l'accord pour interroger un accompagnant.
 
 - Antécédents  
-  [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), psychiatrique ([dépression]({{< relref "depression.md" >}})), traumatique, confusion, infections sexuelles ([syphilis]({{< relref "syphilis.md" >}}), [VIH]({{< relref "vih-sida.md" >}})), [Lyme]({{< relref "maladie-lyme.md" >}}).
+  [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), psychiatrique ([dépression]({{% relref "depression.md" %}})), traumatique, confusion, infections sexuelles ([syphilis]({{% relref "syphilis.md" %}}), [VIH]({{% relref "vih-sida.md" %}})), [Lyme]({{% relref "maladie-lyme.md" %}}).
 - Antécédents familiaux: démence
 - Événements récents (deuil)
 - Traitements en cours  
@@ -106,11 +106,11 @@ Demander l'accord pour interroger un accompagnant.
 - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - Comportement pendant l'examen et dans la vie quotidienne  
   Troubles du sommeil, apathie, syndrome dépressif, hyperémotivité, irritabilité, agressivité, hallucinations, idées délirantes.
-- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}, {{< modal-btn modal-gds15 >}}échelle Geriatric Depression Scale GDS-15{{< /modal-btn >}}
+- Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}, {{< modal-btn modal-gds15 >}}échelle Geriatric Depression Scale GDS-15{{< /modal-btn >}}
 - Activités quotidiennes: {{< modal-btn modal-iadl >}}échelle IADL simplifiée{{< /modal-btn >}} ou ADL
 - Évaluation cognitive  
   Une évaluation normale n'infirme pas une démence.
-  - Test de repérage ([cotation ALQP006]({{< relref "cotations-generaliste.md" >}}) 69,12 €): Mini-Mental State Examination ({{< scores/mmse >}} - seuil 24, 27 si CSP+), MoCA ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf)), [GP-COG](https://gpcog.com.au/index/patient-assessment)
+  - Test de repérage ([cotation ALQP006]({{% relref "cotations-generaliste.md" %}}) 69,12 €): Mini-Mental State Examination ({{< scores/mmse >}} - seuil 24, 27 si CSP+), MoCA ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf)), [GP-COG](https://gpcog.com.au/index/patient-assessment)
     Prendre en compte le niveau éducatif, anxiété et dépression.
   - Tests de mémoire: [épreuve des 5 mots de Dubois](http://www.amiform.com/documentation%20alzheimer/le_test_de_5_mots.pdf) ou Memory Impairment Screen (MIS)
   - Autres tests de repérage: [test de l'horloge](http://www.geronto-sud-lorraine.com/docs/Test_horloge.pdf), test de fluence verbale
@@ -120,7 +120,7 @@ Demander l'accord pour interroger un accompagnant.
 ### Examen clinique
 
 - Poids et variations (à chaque consultation), taille, IMC
-- Pression artérielle assis et debout ([hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}})), fréquence cardiaque
+- Pression artérielle assis et debout ([hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}})), fréquence cardiaque
 - Otoscopie
 - Examen neurologique  
   Déficit, confusion, réflexes, oculo-motricité, troubles sphinctériens, troubles de la marche, dysautonomie.
@@ -156,7 +156,7 @@ Bilan biologique:
 - Bilan hépatique, {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}} (*Silvey et al 2024*)
 - Vitamine B12, folates
 - Sérologies syphilis, VIH, Lyme
-- Homme avec [signes d'andropause]({{< relref "andropause-deficit-testosterone.md" >}}) (troubles sexuels, sarcopénie, gynécomastie, dépilation ...) (*AFU/SFMS 2021*)
+- Homme avec [signes d'andropause]({{% relref "andropause-deficit-testosterone.md" %}}) (troubles sexuels, sarcopénie, gynécomastie, dépilation ...) (*AFU/SFMS 2021*)
 
 > -- *HAS 2023*
 
@@ -169,7 +169,7 @@ Imagerie systématique par IRM cérébrale pour le bilan de démence.
 
 ### Mesures de prise en charge de la maladie d'Alzheimer
 
-- Déclarer l'[ALD n°15]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°15]({{% relref "affection-longue-duree.md" %}})
 - Mesures de prévention des démences
   - Contrôle des facteurs de risque cardio-vasculaires: arrêt du tabac, hypertension artérielle
   - Activité physique adaptée (APA)  
@@ -190,7 +190,7 @@ Imagerie systématique par IRM cérébrale pour le bilan de démence.
   - [Protection juridique](https://www.service-public.fr/particuliers/vosdroits/N155) ([annuaire des tribunaux compétents](https://www.justice.fr/recherche/annuaires))
   - Permis de conduire: incompatibilité sauf avis du spécialiste (arrêté du 28 mars 2022)
   - Adaptation du logement (gaz, cuisson, armes, escalier)
-  - État financier, assistant social ([APA]({{< relref "allocation-personnalisee-autonomie.md" >}}), MDPH)
+  - État financier, assistant social ([APA]({{% relref "allocation-personnalisee-autonomie.md" %}}), MDPH)
 - Vaccin grippe
 - Antipsychotiques: auto-agressivité ou agitation ou hallucinations causant une détresse sévère
 - Personne de confiance
@@ -214,12 +214,12 @@ Le suivi de la maladie d'Alzheimer par le généraliste est au moins annuel, com
 - Observance
 - MMSE
 - Comportement: [échelle NPI](https://www.has-sante.fr/upload/docs/application/pdf/2011-12/maladies_alzheimer_et_maladies_apparentees_diagnostic_et_prise_en_charge_annexe_3.pdf) (PDF) ou questionnaire de dyscontrôle comportemental (QDC)
-- Activités et autonomie: {{< modal-btn modal-iadl >}}échelle IADL simplifiée{{< /modal-btn >}}, [APA]({{< relref "allocation-personnalisee-autonomie.md" >}})
+- Activités et autonomie: {{< modal-btn modal-iadl >}}échelle IADL simplifiée{{< /modal-btn >}}, [APA]({{% relref "allocation-personnalisee-autonomie.md" %}})
 - Sécurité: gaz, détecteur de fumée, tapis non fixés, sanitaires, baignoires, protection juridique, armes, finances
 - Activités: accueil de jour
 - Soins: orthophonie, infirmier, psychomotricité
 - Aidant: fatigue, santé
-- [Directives anticipées]({{< relref "directives-anticipees.md" >}})
+- [Directives anticipées]({{% relref "directives-anticipees.md" %}})
 - Suspicion de maltraitance: Allô Maltraitance (ALMA, {{<phone>}}3977{{</phone>}})
 
 {{% /collapse %}}

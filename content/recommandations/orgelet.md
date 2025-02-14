@@ -27,7 +27,7 @@ flowchart = true
 - La prise en charge de l'orgelet consiste en un traitement antibiotique local pendant 8 jours
 - Ne pas porter de lentilles de contact pendant toute la durée du traitement
 
-Chapitres liés: [chalazion]({{< relref "chalazion.md" >}}), [furoncle]({{< relref "infection-cutanee-bacterienne.md" >}})
+Chapitres liés: [chalazion]({{% relref "chalazion.md" %}}), [furoncle]({{% relref "infection-cutanee-bacterienne.md" %}})
 
 {{%/article-summary%}}
 

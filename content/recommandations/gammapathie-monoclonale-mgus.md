@@ -30,7 +30,7 @@ flowchart = true
 - Le recours à l'hématologue doit être rapide en cas d'anomalie
 - Lorsqu'une gammapathie monoclonale de signification indéterminée (MGUS) est affirmée, la prise en charge comporte une surveillance clinico-biologique à 6 mois puis annuelle
 
-Chapitre lié: [électrophorèse des protéines sériques (EPS)]({{< relref "electrophorese-proteines-seriques.md" >}})
+Chapitre lié: [électrophorèse des protéines sériques (EPS)]({{% relref "electrophorese-proteines-seriques.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -77,8 +77,8 @@ Signes et symptômes à relever lors de la découverte d'un pic monoclonal:
   - AEG: fatigue/asthénie, amaigrissement, anorexie
   - Signes d'anémie  
     {{< clinique/anemie >}}
-  - [Insuffisance rénale]({{< relref "insuffisance-renale-aigue.md" >}})
-  - Rechercher une [ostéoporose]({{< relref "osteoporose.md" >}}), des douleurs ou fractures osseuses (vertébrales ++)
+  - [Insuffisance rénale]({{% relref "insuffisance-renale-aigue.md" %}})
+  - Rechercher une [ostéoporose]({{% relref "osteoporose.md" %}}), des douleurs ou fractures osseuses (vertébrales ++)
   - [Neurologique](/tags/neuropathie/): radiculalgies, compression médullaire, syndrome de la queue de cheval
   - Infections bactériennes répétées
   - [Dyspnée non expliquée](/tags/dyspnee/)
@@ -117,7 +117,7 @@ Bilan d'un pic monoclonal IgG ou IgM:
 - Calcémie corrigée
 - Bandelette urinaire (BU) et ratio albuminurie/créatininurie si positive
 - Dosage sérique des immunoglobulines IgG, IgA et IgM
-- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}}) avec immunofixation
+- [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}}) avec immunofixation
 - Électrophorèse des protéines urinaires
 - Dosage des chaînes légères sériques kappa et lambda et rapport κ/λ (non remboursé en ville)
 - En cas de risque haut-intermédiaire de progression (≥ 2 points aux critères *Mayo Clinic 2005*, voir *Clinique*)
@@ -132,7 +132,7 @@ Adresser à l'hématologue en cas de:
 - Drapeau rouge (anomalie clinique, symptôme suspect)
 - AEG
 - Anémie
-- [Hypercalcémie]({{< relref "hypercalcemie.md" >}})
+- [Hypercalcémie]({{% relref "hypercalcemie.md" %}})
 - Anomalie de la fonction rénale
 - Anomalie liée au taux du pic monoclonal, au type d'immunoglobuline, au rapport des chaînes légères ou à la protéinurie (voir chapitre suivant)
 

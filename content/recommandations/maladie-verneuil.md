@@ -32,7 +32,7 @@ Maladie de Verneuil (ou Hidradénite suppurée *HS*)
 : Maladie chronique caractérisée par la répétition d'abcès, de fistules drainantes et de suppurations.  
 Elles résultent de proliférations polybactériennes nécessitant une coopération médico-chirurgicale.  
 Les tableaux cliniques sont hyper-variables selon les patients en ce qui concerne la gravité et l'évolutivité.
-: Arrêt fréquent à la [ménopause]({{< relref "menopause.md" >}}) chez la femme (voire avant). Chez l'homme, arrêt vers 50 ans mais possible à 70 ans.
+: Arrêt fréquent à la [ménopause]({{% relref "menopause.md" %}}) chez la femme (voire avant). Chez l'homme, arrêt vers 50 ans mais possible à 70 ans.
 : Antécédents familiaux pour 30-40 % et 70-90 % sont fumeurs (*Fun Mooc Tabac*)
 
 ### Diagnostic différentiel
@@ -40,7 +40,7 @@ Les tableaux cliniques sont hyper-variables selon les patients en ce qui concern
 - Actinomycose
 - Furonculose
 - Infection de kystes épidermoïdes
-- [Fissure anale]({{< relref "fissure-anale.md" >}})
+- [Fissure anale]({{% relref "fissure-anale.md" %}})
 - Scrofuloderme (abcès tuberculeux)
 - Lymphogranulome vénérien
 - Acné nodulaire avec kystes pylonidaux
@@ -93,7 +93,7 @@ Les prélèvements bactériologiques sont d'interprétation délicate et réserv
 
 - Suivi dermatologique systématique  
   Le médecin traitant dépiste, oriente et prescrit le traitement abortif d'urgence.
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - Mesures d'hygiène (Orphanet)
   - Séchage des plis
   - Vêtements larges en coton
@@ -104,7 +104,7 @@ Les prélèvements bactériologiques sont d'interprétation délicate et réserv
 - Association de patients: [Association Française pour la Recherche sur l'Hidrosadénite (AFRH)](http://www.afrh.fr/)
 - Soutien psychologique
 - Adaptation du poste avec le médecin du travail
-- Déclarer comme [ALD 31]({{< relref "affection-longue-duree.md" >}})  
+- Déclarer comme [ALD 31]({{% relref "affection-longue-duree.md" %}})  
   Demande avec le compte rendu du dermatologue.
 - {{< references/compare >}}
 

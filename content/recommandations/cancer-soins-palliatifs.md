@@ -26,7 +26,7 @@ todo = "SFAP, Cancer info, Ligue cancer, personne confiance, ESMO, https://pubme
 
 TODO:
 
-Articles liés: [directives anticipées]({{< relref "directives-anticipees.md" >}})
+Articles liés: [directives anticipées]({{% relref "directives-anticipees.md" %}})
 
 {{%/article-summary%}}
 
@@ -37,12 +37,12 @@ Articles liés: [directives anticipées]({{< relref "directives-anticipees.md" >
 {{< table title="Prise en charge des principales complications de la chimiothérapie selon sources mentionnées" >}}
 | Atteinte      | Prise en charge                                            | Source |
 |---------------|------------------------------------------------------------|--------|
-| [Alopécie]({{< relref "alopecie.md" >}})      | Max J15-17. Casque réfrigérant pendant. Prothèse capillaire. Repousse systématique 3-5 semaines après la dernière injection  | INCa TODO: |
+| [Alopécie]({{% relref "alopecie.md" %}})      | Max J15-17. Casque réfrigérant pendant. Prothèse capillaire. Repousse systématique 3-5 semaines après la dernière injection  | INCa TODO: |
 | Aménorrhée        | Aucune | INCa TODO: |
 | Anémie        | Surveillance régulière de la NFS | INCa TODO: |
 | Anorexie, dénutrition |  | INCa TODO: |
 | Arthralgie, myalgie |  | INCa TODO: |
-| [Constipation]({{< relref "constipation.md" >}}) | Alimentation, hydratation, activité physique, laxatifs | INCa TODO: |
+| [Constipation]({{% relref "constipation.md" %}}) | Alimentation, hydratation, activité physique, laxatifs | INCa TODO: |
 | Diarrhées        | Antidiarrhéiques. Irinotécan dans les 7 jours. Consultation urgente si abondante, rectorragies, fièvre | INCa TODO: |
 | Éruption cutanée | Éviter l'exposition solaire, cs médicale | INCa TODO: |
 | Fièvre        | Injection préventive de G-CSF. Si fébrile ≥ 38,5°C: NFS  | INCa TODO: |
@@ -50,7 +50,7 @@ Articles liés: [directives anticipées]({{< relref "directives-anticipees.md" >
 | Mucite        | - Hygiène bucco-dentaire<br>- Bicarbonate bain de bouche 1,4% x 5-6/j<br>- Antalgiques locaux ± systémiques<br>- Mycose: antifongiques | INCa TODO: |
 | Myalgies        | Antalgie | INCa TODO: |
 | Nausées, vomissements | Antiémétiques systématiques avant et après | INCa TODO: |
-| Neuropathie périphérique | - [Douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}), {{< modal-btn modal-score-dn4 >}}échelle DN4{{< /modal-btn >}}<br>- Adaptation du protocole: réduction des doses voire arrêt<br>- Traitement spécifique (cf chapitre DN) | INCa TODO: |
+| Neuropathie périphérique | - [Douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}}), {{< modal-btn modal-score-dn4 >}}échelle DN4{{< /modal-btn >}}<br>- Adaptation du protocole: réduction des doses voire arrêt<br>- Traitement spécifique (cf chapitre DN) | INCa TODO: |
 | Neutropénie        | Surveillance régulière de la NFS. G-CSF. Hémoculture et antibiotique si fébrile ≥ 38,5°C | INCa TODO: |
 | Onychopathie       | Port de gants réfrigérés pendant. Amélioration quelques mois après la fin | INCa TODO: |
 | Syndrome main-pied        | Émollients locaux, adaptation des doses | INCa TODO: |

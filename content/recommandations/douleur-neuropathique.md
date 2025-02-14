@@ -97,15 +97,15 @@ TENS
 
 Diagnostic différentiel de douleurs neuropathiques selon la localisation de la douleur:
 
-- [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})  
+- [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}})  
   Douleurs quand sténose > 70%.
 - Mononévrite  
   Unilatérale, systématisée (ex cruralgie).
 - Syndrome canalaire  
-  [Névrome de Morton]({{< relref "nevrome-morton.md" >}}) ++
-- [Canal lombaire étroit ]({{< relref "canal-lombaire-etroit.md" >}}) 
+  [Névrome de Morton]({{% relref "nevrome-morton.md" %}}) ++
+- [Canal lombaire étroit ]({{% relref "canal-lombaire-etroit.md" %}}) 
   Généralement lombo-sacrée, uniquement à la marche et aggravée par celle-ci avec un périmètre réduit.
-- [Syndrome des jambes sans repos]({{< relref "syndrome-jambes-sans-repos.md" >}})
+- [Syndrome des jambes sans repos]({{% relref "syndrome-jambes-sans-repos.md" %}})
 - Insuffisance veineuse
 - Arthropathie
 - Myalgie
@@ -119,7 +119,7 @@ Avis neurologique devant toute douleur neuropathique dont l'étiologie ou le tab
 ### Interrogatoire et examen
 
 - Antécédents  
-  Chirurgicaux, traumatiques, sciatique, [diabète]({{< relref "diabete-type-2.md" >}}) (ancienneté), [zona]({{< relref "zona.md" >}}), [SIDA]({{< relref "vih-sida.md" >}}), [piqûre de tique]({{< relref "maladie-lyme.md" >}}), maladie de système, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), SEP, séjours tropicaux prolongés, exposition aux métaux lourds ...
+  Chirurgicaux, traumatiques, sciatique, [diabète]({{% relref "diabete-type-2.md" %}}) (ancienneté), [zona]({{% relref "zona.md" %}}), [SIDA]({{% relref "vih-sida.md" %}}), [piqûre de tique]({{% relref "maladie-lyme.md" %}}), maladie de système, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), SEP, séjours tropicaux prolongés, exposition aux métaux lourds ...
 - Antécédents familiaux de neuropathie
 - Traitements neurotoxiques  
   Radio-chimiothérapie, isoniazide, métronidazole, éthambutol, nitrofurantoïne, colistine, dapsone, traitement antipaludéen, antirétroviraux...
@@ -287,7 +287,7 @@ Traitements de référence des douleurs neuropathiques:
   - Préférer 10-50 mg/j. Avis spécialisé à +50 mg/j. Surveillance cardiaque quand +75 mg/j
   - Contre-indications: glaucome, HPB, infarctus récent ou troubles du rythme
   - Effets indésirables: somnolence et prise de poids, anticholinergiques. Levée d'inhibition avec risque suicidaire
-  - Surveillance: cardiaque, anticholinergique, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}), impuissance
+  - Surveillance: cardiaque, anticholinergique, [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}), impuissance
 
 #### Traitements des douleurs neuropathiques de 2e intention
 

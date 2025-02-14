@@ -31,7 +31,7 @@ todo = "Figure 11, def des signes, p.21, flowchart duree, def cancer actif"
 - Une suspicion faible d'embolie pulmonaire peut être infirmée par la règle PERC (sauf âge ≥ 50 ans, grossesse ou post-partum)
 - Adresser aux urgences toute suspicion d'embolie pulmonaire non infirmée par la règle PERC
 
-Chapitre lié: [thrombose veineuse profonde (TVP)]({{< relref "thrombose-veineuse-profonde.md" >}})
+Chapitre lié: [thrombose veineuse profonde (TVP)]({{% relref "thrombose-veineuse-profonde.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -67,7 +67,7 @@ SPLF
 : Société de Pneumologie de Langue Française
 
 THM
-: traitement hormonal de la [ménopause]({{< relref "menopause.md" >}})
+: traitement hormonal de la [ménopause]({{% relref "menopause.md" %}})
 
 TIH
 : thrombopénie induite à l'héparine
@@ -219,7 +219,7 @@ L'anticoagulation dure au moins 3 voire 6 mois ou pour une durée non limitée:
 
 #### AVK
 
-Mesure de prise en charge sous [AVK]({{< relref "avk.md" >}}):
+Mesure de prise en charge sous [AVK]({{% relref "avk.md" %}}):
 
 - INR cible 2,5 (2 - 3) toutes les 3-4 semaines.
 - Éducation du patient

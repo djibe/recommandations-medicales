@@ -24,7 +24,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le carcinome hépatocellulaire (CHC) survient le plus souvent sur foie cirrhotique ([alcool]({{< relref "sevrage-alcool.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}) ou [B]({{< relref "hepatite-b.md" >}}), [NASH]({{< relref "steatose-hepatique-et-nash.md" >}}))
+- Le carcinome hépatocellulaire (CHC) survient le plus souvent sur foie cirrhotique ([alcool]({{% relref "sevrage-alcool.md" %}}), [hépatite C]({{% relref "hepatite-c.md" %}}) ou [B]({{% relref "hepatite-b.md" %}}), [NASH]({{% relref "steatose-hepatique-et-nash.md" %}}))
 - Bilan en cas de découverte de nodule hépatique: bilan biologique hépatique, sérologies des hépatites, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, échographie et scanner/IRM abdominal avec injection
 - Avis spécialisé du gastro-entérologue rapide systématique avec le bilan
 - Le diagnostic peut être radiologique en cas de cirrhose et de lésion typique, sinon le diagnostic de carcinome hépatocellulaire reste anatomopathologique sur la biopsie hépatique
@@ -34,8 +34,8 @@ flowchart = true
 {{%collapse "Définition" %}}
 
 Carcinome hépatocellulaire (CHC)
-: Tumeur primitive du foie la plus fréquente (90% des 11.658 cas en 2023, en augmentation) à prédominance masculine (80%) par dégénérescence hépatocytaire et dont le pronostic est sombre. Le CHC survient le plus souvent sur une **cirrhose** (80%) et plus rarement sur une hépatopathie chronique non cirrhotique ([stéatopathie métabolique NASH]({{< relref "steatose-hepatique-et-nash.md" >}}) ...), exceptionnellement sur foie sain.
-: Les facteurs de risque majeurs de carcinome hépatocellulaire en France sont l'**[alcool]({{< relref "sevrage-alcool.md" >}})** pour moitié, puis les [hépatites C]({{< relref "hepatite-c.md" >}}) et [B]({{< relref "hepatite-c.md" >}}) et enfin la [NASH]({{< relref "steatose-hepatique-et-nash.md" >}}).
+: Tumeur primitive du foie la plus fréquente (90% des 11.658 cas en 2023, en augmentation) à prédominance masculine (80%) par dégénérescence hépatocytaire et dont le pronostic est sombre. Le CHC survient le plus souvent sur une **cirrhose** (80%) et plus rarement sur une hépatopathie chronique non cirrhotique ([stéatopathie métabolique NASH]({{% relref "steatose-hepatique-et-nash.md" %}}) ...), exceptionnellement sur foie sain.
+: Les facteurs de risque majeurs de carcinome hépatocellulaire en France sont l'**[alcool]({{% relref "sevrage-alcool.md" %}})** pour moitié, puis les [hépatites C]({{% relref "hepatite-c.md" %}}) et [B]({{% relref "hepatite-c.md" %}}) et enfin la [NASH]({{% relref "steatose-hepatique-et-nash.md" %}}).
 
 ### Abréviations
 
@@ -75,8 +75,8 @@ SNFGE
 Autres tumeurs et lésions hépatiques:
 
 - Tumeurs hépatiques
-  - [Hémangiome hépatique]({{< relref "hemangiome-hepatique.md" >}})
-  - [Hyperplasie nodulaire focale]({{< relref "hyperplasie-nodulaire-focale.md" >}}) (HNF)
+  - [Hémangiome hépatique]({{% relref "hemangiome-hepatique.md" %}})
+  - [Hyperplasie nodulaire focale]({{% relref "hyperplasie-nodulaire-focale.md" %}}) (HNF)
   - Adénome hépatocellulaire (AF)
   - Cholangiocarcinome
   - Métastase hépatique
@@ -89,15 +89,15 @@ Autres tumeurs et lésions hépatiques:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le carcinome hépatocellulaire est classiquement découvert: lors de la surveillance ou de symptômes chez un patient cirrhotique, un bilan d'hépatopathie (cirrhose, [hépatite C chronique]({{< relref "hepatite-c.md" >}})) ou de découverte fortuite sur une imagerie abdominale.
+Le carcinome hépatocellulaire est classiquement découvert: lors de la surveillance ou de symptômes chez un patient cirrhotique, un bilan d'hépatopathie (cirrhose, [hépatite C chronique]({{% relref "hepatite-c.md" %}})) ou de découverte fortuite sur une imagerie abdominale.
 
 Le CHC reste longtemps asymptomatique causant souvent un diagnostic tardif.
 
 ### Interrogatoire
 
 - Antécédents  
-  Maladie chronique du foie connue, [cancer](/tags/cancer/), insuffisance d'organe, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}} ([hypertension]({{< relref "hypertension-arterielle.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}), dyslipidémie).
-- **Facteurs de risque d'hépatopathie**: [hépatite virale](/tags/hepatite/), transfusion, tatouage, drogues IV, [alcool]({{< relref "sevrage-alcool.md" >}}), {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, [diabète](/tags/diabete/)
+  Maladie chronique du foie connue, [cancer](/tags/cancer/), insuffisance d'organe, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}} ([hypertension]({{% relref "hypertension-arterielle.md" %}}), [diabète]({{% relref "diabete-type-2.md" %}}), dyslipidémie).
+- **Facteurs de risque d'hépatopathie**: [hépatite virale](/tags/hepatite/), transfusion, tatouage, drogues IV, [alcool]({{% relref "sevrage-alcool.md" %}}), {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, [diabète](/tags/diabete/)
 - Traitements en cours
 - Tabac
 - **Rechercher un mésusage de l'alcool**: {{< modal-btn modal-auditc >}}questionnaire AUDIT-C{{< /modal-btn >}}
@@ -113,7 +113,7 @@ Le CHC reste longtemps asymptomatique causant souvent un diagnostic tardif.
   {{< clinique/hypertension-portale >}}
 - Signes d'insuffisance hépatocellulaire  
   {{< clinique/insuffisance-hepato-cellulaire >}}
-- [Splénomégalie]({{< relref "splenomegalie.md" >}})
+- [Splénomégalie]({{% relref "splenomegalie.md" %}})
 - {{< modal-btn modal-score-child >}}Score de Child-Pugh{{< /modal-btn >}}
 
 {{% /collapse %}}
@@ -181,10 +181,10 @@ La prise en charge du carcinome hépatocellulaire (CHC) est spécialisée après
 
 Mesures associées à la prise en charge des cancers:
 
-- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 - Mesures d'hépatoprotection
-  - [Sevrage de l'alcool]({{< relref "sevrage-alcool.md" >}})
-  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+  - [Sevrage de l'alcool]({{% relref "sevrage-alcool.md" %}})
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - Suivi pluridisciplinaire
   - Suivi nutritionnel
   - Soutien psychologique voire psychothérapie

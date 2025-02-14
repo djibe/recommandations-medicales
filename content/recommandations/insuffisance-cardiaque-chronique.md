@@ -27,7 +27,7 @@ todo = "sup. Table 4 MRA+5Sacu+7Diur, depression Beck"
 
 - Évoquer systématiquement une insuffisance cardiaque en cas de fatigue, dyspnée, œdèmes des chevilles ou même des signes non spécifiques chez la personne âgée
 - Bilan initial devant une suspicion d'insuffisance cardiaque chronique: ECG, NT-proBNP avec biologie complète et consultation de cardiologie
-- Bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), anémie) d'une fatigue ou d'une dyspnée
+- Bilan des autres hypothèses diagnostiques ([BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), anémie) d'une fatigue ou d'une dyspnée
 - Contrôle des facteurs de risque cardiovasculaire: hypertension artérielle, tabac, dyslipidémie, obésité, diabète
 - Prise en charge: maximiser les posologies des traitements {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} voire valsartan/sacubitril (Entresto®), {{< modal-btn modal-bb >}}bêta-bloquant{{< /modal-btn >}} (maintenir FC ≥ 50/min), anti-aldostérone, {{< modal-btn modal-isglt2 >}}SGLT2{{< /modal-btn >}} (empa/dapagliflozine), ferritine > 100 ng/mL
 - Éducation thérapeutique pour la surveillance des poids et tension et l'adaptation des diurétiques
@@ -39,12 +39,12 @@ Insuffisance cardiaque (IC)
 : Syndrome caractérisé par des symptômes peu spécifiques ({{< modal-btn score-nyha >}}dyspnée{{< /modal-btn >}}, œdème des chevilles, fatigue...), des signes variables (crépitants, turgescence jugulaire...) causé par un dysfonctionnement cardiaque souvent objectivé en *échocardiographie*.
 : Dite *stable* lorsque les symptômes et signes sont inchangés pendant 1 mois, *décompensée* lors de leur aggravation menant à une hospitalisation.
 : **Toutes les pathologies cardiaques peuvent aboutir à une insuffisance cardiaque**, souvent précédée de *dysfonction du ventricule gauche* systolique ou diastolique. L'enquête étiologique relève du spécialiste.  
-La 1^re^ cause est **ischémique** secondée par l'**[hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})**.  
+La 1^re^ cause est **ischémique** secondée par l'**[hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})**.  
 : Elle atteint surtout les personnes de plus de 70 ans.
 : La *fraction d'éjection* (du ventricule gauche) est le paramètre le plus utilisé pour caractériser la fonction systolique.
 
 Insuffisance cardiaque à fraction d'éjection conservée
-: Cette forme est mal comprise, atteint des patients plus âgés, plus souvent les femmes. Comorbidités plus fréquemment retrouvées: [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) et comorbidités non cardiovasculaires.
+: Cette forme est mal comprise, atteint des patients plus âgés, plus souvent les femmes. Comorbidités plus fréquemment retrouvées: [fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}), [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}) et comorbidités non cardiovasculaires.
 
 Dysfonction systolique ventriculaire gauche asymptomatique
 : {{%lang%}}Asymptomatic LV systolic dysfunction{{%/lang%}}
@@ -139,12 +139,12 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
 - Dysfonction cardiaque  
   FEVG basse, dilatation VG, dysfonction VG sévère ...
 - Biomarqueurs  
-  [Hyponatrémie]({{< relref "hyponatremie.md" >}}), peptides natriurétiques élevés ...
+  [Hyponatrémie]({{% relref "hyponatremie.md" %}}), peptides natriurétiques élevés ...
 - Gènes de cardiomyopathies
 - Cardiovasculaire  
-  [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), troubles du rythme, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}).
+  [Fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}), troubles du rythme, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}).
 - Comorbidités  
-  [Diabète]({{< relref "diabete-type-2.md" >}}) (10-47 %), [anémie]({{< relref "anemie.md" >}}), carence martiale, [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), hépatopathie, [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), dépression, démence.
+  [Diabète]({{% relref "diabete-type-2.md" %}}) (10-47 %), [anémie]({{% relref "anemie.md" %}}), carence martiale, [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}), hépatopathie, [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), dépression, démence.
 - {{< modal-btn modal-observance >}}Non observance{{< /modal-btn >}}
 
 ### Épidémiologie de l'insuffisance cardiaque en France
@@ -174,20 +174,20 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
 - Facteurs de risque cardiovasculaire
 - Antécédents  
   - Cardiovasculaires  
-    [Hypertension]({{< relref "hypertension-arterielle.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}), [angor]({{< relref "syndrome-coronarien-chronique.md" >}}), [syndrome coronarien aigu/infarctus]({{< relref "syndrome-coronarien-aigu.md" >}}), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}), myocardite/[péricardite]({{< relref "pericardite-aigue.md" >}}), valvulopathie, trouble du rythme.
-  - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
-  - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (20%)  
+    [Hypertension]({{% relref "hypertension-arterielle.md" %}}), [diabète]({{% relref "diabete-type-2.md" %}}), [angor]({{% relref "syndrome-coronarien-chronique.md" %}}), [syndrome coronarien aigu/infarctus]({{% relref "syndrome-coronarien-aigu.md" %}}), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}), myocardite/[péricardite]({{% relref "pericardite-aigue.md" %}}), valvulopathie, trouble du rythme.
+  - [Insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}})
+  - [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}) (20%)  
     {{< modal-btn modal-depistage-bpco >}}Faut-il faire une spirométrie ?{{< /modal-btn >}}
   - Auto-immuns et hormonaux  
-    [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}) et Basedow, connectivite, lupus, sarcoïdose, [amylose]({{< relref "amylose-al.md" >}}).
-  - Infectieux: [VIH]({{< relref "vih-sida.md" >}}), parasites
+    [Polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), [hypothyroïdie]({{% relref "hypothyroidie.md" %}}) et Basedow, connectivite, lupus, sarcoïdose, [amylose]({{% relref "amylose-al.md" %}}).
+  - Infectieux: [VIH]({{% relref "vih-sida.md" %}}), parasites
   - [Tumoraux](/tags/cancer/)
-  - Carences ou déficits enzymatiques, [anémie]({{< relref "anemie.md" >}}), anorexie
+  - Carences ou déficits enzymatiques, [anémie]({{% relref "anemie.md" %}}), anorexie
 - Médicaments en cours, amélioration sous diurétiques
 - Traitements exposés  
   Mediator, radiothérapie thoracique, chimiothérapie, immunomodulateurs, antiarythmiques, anti-inflammatoires, anesthésiques.
 - Toxiques  
-  [Alcool]({{< relref "sevrage-alcool.md" >}}), cocaïne, amphétamines, anabolisants.
+  [Alcool]({{% relref "sevrage-alcool.md" %}}), cocaïne, amphétamines, anabolisants.
 - Exposition aux métaux lourds
 - Symptômes typiques
   - [Dyspnée](/tags/dyspnee/) d'effort ou de repos ({{< modal-btn score-nyha >}}score NYHA{{< /modal-btn >}}), orthopnée, dyspnée paroxystique nocturne
@@ -203,13 +203,13 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
   - Essoufflement penché en avant
   - Sibilants (asthme cardiaque)
   - Gonflement, ballonnements, anorexie
-  - Confusion, [dépression]({{< relref "depression.md" >}})
+  - Confusion, [dépression]({{% relref "depression.md" %}})
   - Vertiges
   - Palpitations, tachycardie
   - Syncope
   - Prise de poids rapide (> 2 kg en 3 jours)
   - Apnées du sommeil (+30%)  
-  {{%class%}}Surtout centrales avec *respiration de Cheynes-Stokes* ou [obstructives]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}).{{%/class%}}
+  {{%class%}}Surtout centrales avec *respiration de Cheynes-Stokes* ou [obstructives]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}).{{%/class%}}
 
 ### Examen clinique
 
@@ -261,7 +261,7 @@ Utiliser toujours le même marqueur au cours du suivi.
 
 La sensibilité de l'ECG est de 89%: << L'IC est peu probable en cas d'ECG totalement normal >>. -- *ESC 2021*
 
-L'**[épreuve d'effort]({{< relref "epreuve-effort.md" >}})** (EEVO~2~) est systématique au diagnostic d'insuffisance cardiaque (*SFC 2018*).
+L'**[épreuve d'effort]({{% relref "epreuve-effort.md" %}})** (EEVO~2~) est systématique au diagnostic d'insuffisance cardiaque (*SFC 2018*).
 
 ### Examen génétique
 
@@ -277,7 +277,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
   - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R) 0,5 à 1 mg jusqu'à 5 mg/j. Fractionner à partir de 1 mg
   - Augmenter dès **prise de 2 kg en 3 jours**
 - Hypertension artérielle
-  - Seuil diagnostique identique à l'[hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+  - Seuil diagnostique identique à l'[hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
   - Cible identique à la population: globalement 120-129 / 70-79 mmHg
   - Auto-surveillance 1-2/semaine
   - Escalade thérapeutique: ajouter amlodipine/félodipine si non contrôlée
@@ -286,27 +286,27 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
   - 30 minutes d'activité physique quotidienne (min 20 min x 3/sem), [guide patient HAS ICC](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_icc.pdf) (PDF)  
     {{%class%}}Atteindre une dyspnée légère à modérée.{{%/class%}}
   - **Réadaptation cardiaque** (réhabilitation) supervisée en SSR voire encadrée à domicile
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et de l'[alcool]({{< relref "sevrage-alcool.md" >}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) et de l'[alcool]({{% relref "sevrage-alcool.md" %}})
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Mesures associées
   - Éducation thérapeutique
   - Évaluation diététique
   - Vaccinations grippe, Covid-19, {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}}, VRS (+65 ans, NR)
-  - Si Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}})
+  - Si Covid-19: [antiviral en urgence]({{% relref "covid-19.md" %}})
   - Diagnostic rapide des infections intercurrentes
   - Surveillance des cardiotoxiques
-  - Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
+  - Dépister des [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}})
   - Mesure systématique de l'**IPS** (*ESC 2017 LEAD*)
   - **Ferritinémie** cible ≥ 100 ng/mL: bilan étiologique et fer maltose IV si ICFEd ou ICFEmd symptomatique
   - Permis de conduire: interdit si NYHA IV, NYHA III sur avis spécialisé
 - Comorbidités
-  - [Obésité]({{< relref "obesite-adulte.md" >}}): prise en charge spécifique
+  - [Obésité]({{% relref "obesite-adulte.md" %}}): prise en charge spécifique
   - Diabète: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
   - {{< modal-btn modal-depistage-bpco >}}Dépister une BPCO{{< /modal-btn >}}
-  - Dépister annuellement anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}  
+  - Dépister annuellement anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}  
   Traitements sûrs: sertraline, escitalopram. Éviter les tricycliques.
 - Associations de patients: [Alliance du cœur](https://www.alliancecoeur.fr), [ASPIC](https://asso-aspic.fr), [AVEC Insuffisance cardiaque](https://www.avec-france.com/), [SIC Soutien à l'Insuffisance Cardiaque](https://www.sic-asso.org), [Vaincre l'insuffisance cardiaque](https://vaincrelinsuffisancecardiaque.org)
-- Déclarer l'[ALD n°5]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°5]({{% relref "affection-longue-duree.md" %}})
 - Voir avec le cardiologue pour une télésurveillance de l'insuffisance cardiaque
 
 {{% /collapse %}}
@@ -331,8 +331,8 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
 
 ### Autres traitements de l'insuffisance cardiaque à fraction d'éjection diminuée (ICFEd)
 
-- Stade avancé: préparer les soins palliatifs et les [directives anticipées]({{< relref "directives-anticipees.md" >}})
-- [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})  
+- Stade avancé: préparer les soins palliatifs et les [directives anticipées]({{% relref "directives-anticipees.md" %}})
+- [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}})  
   - Urologue/sexologue, IPDE5 (sauf dérivés nitrés)
   - La dysfonction érectile est aggravée par les TZD, BB et spironolactone.
 - Pacemaker triple chambre (resynchronisation ventriculaire)
@@ -376,17 +376,17 @@ Autres traitements ayant un faible niveau de preuve d'efficacité: {{< modal-btn
 
 ### Indications à l'hospitalisation pour insuffisance cardiaque
 
-- Sévérité clinique: tableau d'[insuffisance cardiaque aiguë]({{< relref "insuffisance-cardiaque-aigue.md" >}})
+- Sévérité clinique: tableau d'[insuffisance cardiaque aiguë]({{% relref "insuffisance-cardiaque-aigue.md" %}})
   - Dyspnée, cyanose
   - Œdèmes majeurs
-  - [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}})
+  - [Fibrillation atriale]({{% relref "fibrillation-atriale.md" %}})
   - Bradycardie < 50/min mal tolérée ou BAV haut degré
   - Hypotension mal tolérée
   - Angor aggravé ou d'apparition récente
 - Sévérité biologique
-  - [Hyponatrémie]({{< relref "hyponatremie.md" >}}) ou hyperkaliémie menaçante
+  - [Hyponatrémie]({{% relref "hyponatremie.md" %}}) ou hyperkaliémie menaçante
   - Anémie
-  - [Insuffisance rénale]({{< relref "insuffisance-renale-aigue.md" >}}) d'aggravation progressive
+  - [Insuffisance rénale]({{% relref "insuffisance-renale-aigue.md" %}}) d'aggravation progressive
 - Comorbidités
   - Valvulopathie sévère ou autre
   - Maintien à domicile impossible
@@ -442,7 +442,7 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 - Vaccinations
 - ECG annuel
 - ETT si symptômes (NYHA II 1-2 ans, + si aggravation)
-- Dépister annuellement anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Dépister annuellement anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'insuffisance cardiaque" "show" %}}
@@ -530,7 +530,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
   - Ne pas craindre les rapports sexuels et discuter des problèmes avec les professionnels de santé
   - Comprendre les problèmes sexuels spécifiques et développer des stratégies permettant de les surmonter
 - Vaccinations grippe, Covid 19, pneumocoque, VRS (NR)
-- Si Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}})
+- Si Covid-19: [antiviral en urgence]({{% relref "covid-19.md" %}})
 - Troubles du sommeil et de la respiration
   - Correction des FRCV, obésité, alcool
   - S'informer des options thérapeutiques si approprié

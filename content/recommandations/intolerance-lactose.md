@@ -26,12 +26,12 @@ flowchart = true
 
 - Prévalence européenne de l'intolérance au lactose: 28%
 - Symptômes typiques de l'intolérance au lactose, dans l'heure suivant l'ingestion: douleurs abdominales, diarrhées, flatulences (délai très variable possible)
-- Toujours évoquer devant une [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
+- Toujours évoquer devant une [diarrhée chronique]({{% relref "diarrhee-chronique.md" %}})
 - Diagnostic de l'intolérance au lactose: amélioration franche après un test d'éviction du lactose pendant 2 semaines car test respiratoire à l'hydrogène non remboursé
 - Prise en charge: des apports de 12 à 18 g quotidiens de lactose semblent tolérés
-- Maintenir des apports en produits laitiers pour apporter les micronutriments ([calcium]({{< relref "apports-calcium.md" >}}) ++)
+- Maintenir des apports en produits laitiers pour apporter les micronutriments ([calcium]({{% relref "apports-calcium.md" %}}) ++)
 
-Articles liés: [allergie au gluten]({{< relref "maladie-coeliaque.md" >}}), [vitamine D]({{< relref "vitamine-d.md" >}}) et [ostéoporose]({{< relref "osteoporose.md" >}})
+Articles liés: [allergie au gluten]({{% relref "maladie-coeliaque.md" %}}), [vitamine D]({{% relref "vitamine-d.md" %}}) et [ostéoporose]({{% relref "osteoporose.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -57,14 +57,14 @@ Symptômes classiques de l'intolérance au lactose. Ils apparaissent souvent dan
 - Douleurs abdominales
 - Ballonnements
 - Flatulences
-- [Diarrhées]({{< relref "diarrhee-chronique.md" >}}), [constipation]({{< relref "constipation.md" >}})
+- [Diarrhées]({{% relref "diarrhee-chronique.md" %}}), [constipation]({{% relref "constipation.md" %}})
 - Borborygmes (bruits digestifs)
 - Nausées et vomissements
 
 Autres signes:
 
 - Retentissement sur la qualité de vie
-  - Anxiété, [dépression]({{< relref "depression.md" >}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}})
+  - Anxiété, [dépression]({{% relref "depression.md" %}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}})
   - [Fatigue](/tags/fatigue/)
 - Troubles alimentaires (par fractionnement)
 - Symptômes extra-digestifs
@@ -75,8 +75,8 @@ Autres signes:
   - Ulcères buccaux
   - Dyspareunie et troubles menstruels
   - Pollakiurie
-  - Eczéma et atopie (sinusite, [rhinite allergique]({{< relref "rhinite-allergique.md" >}}), [asthme]({{< relref "asthme.md" >}}))
-  - [Acné]({{< relref "acne.md" >}})
+  - Eczéma et atopie (sinusite, [rhinite allergique]({{% relref "rhinite-allergique.md" %}}), [asthme]({{% relref "asthme.md" %}}))
+  - [Acné]({{% relref "acne.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

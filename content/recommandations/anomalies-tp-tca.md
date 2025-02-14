@@ -87,16 +87,16 @@ vWF
   Atteinte avancée et souvent connue.
 - Coagulation intravasculaire disséminée (CIVD)  
   Contexte: sepsis, traumatisme, complications obstétricales, cancer, anomalies vasculaires. TP et fibrinogène bas, thrombopénie et produits de dégradation de la fibrine (PDF) augmentés. Critères de l'*ISTH*.
-- Baisse des facteurs II, VII et X: [carence en vitamine K]({{< relref "vitamine-k.md" >}}) (Facteur V et fibrinogène normaux)  
-  Nourrisson ou adulte carencé (apports, malabsorption sévère, nutrition parentérale exclusive, [traitement AVK]({{< relref "avk.md" >}})).
+- Baisse des facteurs II, VII et X: [carence en vitamine K]({{% relref "vitamine-k.md" %}}) (Facteur V et fibrinogène normaux)  
+  Nourrisson ou adulte carencé (apports, malabsorption sévère, nutrition parentérale exclusive, [traitement AVK]({{% relref "avk.md" %}})).
 - Déficits acquis isolés en facteur de coagulation
   - Facteur II (rare)  
     Une diminution isolée est possible après l'arrêt des AVK.
   - Facteur V (rare)
   - Facteur VII: hypertriglycéridémie, obésité, diabète, hormonothérapie  
     Traitement d'épreuve à la vitamine K.
-  - Facteur X: [amylose AL]({{< relref "amylose-al.md" >}}) surtout
-  - Fibrinogène: cirrhose, [carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}})
+  - Facteur X: [amylose AL]({{% relref "amylose-al.md" %}}) surtout
+  - Fibrinogène: cirrhose, [carcinome hépatocellulaire]({{% relref "carcinome-hepatocellulaire.md" %}})
 
 #### Déficits constitutionnels de la coagulation
 
@@ -133,10 +133,10 @@ Le bilan d'un TCA allongé n'est réalisé qu'**en cas de TP normal** ou de TCA 
 
 - Antécédents: hémorragiques, anémie, carence martiale, traumatisme, stress, cancer
 - Antécédents familiaux hémorragiques
-- Traitements récents et en cours: anticoagulants ([AVK]({{< relref "avk.md" >}}), AOD, héparines), antiplaquettaires
+- Traitements récents et en cours: anticoagulants ([AVK]({{% relref "avk.md" %}}), AOD, héparines), antiplaquettaires
 - Ancienneté des hémorragies
 - Caractères: hématomes spontanés ou provoqués
-- Hémorragies cutanéomuqueuses (hémostase primaire), [ménorragies]({{< relref "menorragies.md" >}})
+- Hémorragies cutanéomuqueuses (hémostase primaire), [ménorragies]({{% relref "menorragies.md" %}})
 - Hémorragies profondes (hématomes profonds, hémarthrose -- problème de coagulation)
 
 ### Examen clinique

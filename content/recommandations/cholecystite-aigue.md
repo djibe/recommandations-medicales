@@ -61,7 +61,7 @@ Le diagnostic de cholécystite aiguë est clinico-bio-radiologique. La présenta
 - Auscultation cardio-respiratoire
 - Examen abdominal  
   Recherche de défense, contracture, signe de Murphy: la palpation de l'hypochondre droit provoque une douleur qui inhibe l'inspiration profonde.
-- Signe d'angiocholite: [ictère]({{< relref "ictere.md" >}})
+- Signe d'angiocholite: [ictère]({{% relref "ictere.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -79,7 +79,7 @@ Bilan complet aux Urgences:
 **NB.** Le scanner abdominal est peu sensible et l'IRM n'est pas supérieure à l'échographie abdominale.
 
 > [!WARNING]
-> Le bilan doit éliminer un [syndrome coronarien aigu]({{< relref "syndrome-coronarien-aigu.md" >}}) et une [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}).
+> Le bilan doit éliminer un [syndrome coronarien aigu]({{% relref "syndrome-coronarien-aigu.md" %}}) et une [pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la cholécystite aiguë" %}}

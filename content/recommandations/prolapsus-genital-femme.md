@@ -29,7 +29,7 @@ flowchart = true
 - Prise en charge du prolapsus génital de la femme en cas de symptômes ou de complications. Traitement par une sage-femme ou un kinésithérapeute pour la rééducation abdomino-périnéale et le choix du pessaire
 - Chirurgie des prolapsus génitaux uniquement en cas d'échec de la rééducation et du pessaire
 
-Chapitre lié: [ménopause et traitement hormonal]({{< relref "menopause.md" >}})
+Chapitre lié: [ménopause et traitement hormonal]({{% relref "menopause.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -88,24 +88,24 @@ Enquête sur les symptômes et le retentissement du prolapsus génital:
   - Sensation de boule vaginale
   - Pesanteur pelvienne
 - Facteurs de risque
-  - [Toux chronique]({{< relref "toux-chronique.md" >}})
+  - [Toux chronique]({{% relref "toux-chronique.md" %}})
   - Syndrome d'obstruction défécatoire
   - Poussée abdominale à la miction
   - Port de charges lourdes
-  - [Obésité]({{< relref "obesite-adulte.md" >}})
+  - [Obésité]({{% relref "obesite-adulte.md" %}})
   - Sédentarité
 - Symptômes associés  
   Échelles des symptômes et qualité de vie: PFDI-20, APFQ.
   - Syndrome d'hyperactivité vésicale  
-    [Urgenturie ± fuites]({{< relref "incontinence-urinaire-femme.md" >}}), pollakiurie, nycturie.
-  - [Incontinence urinaire d'effort]({{< relref "incontinence-urinaire-femme.md" >}}) (IUE)
+    [Urgenturie ± fuites]({{% relref "incontinence-urinaire-femme.md" %}}), pollakiurie, nycturie.
+  - [Incontinence urinaire d'effort]({{% relref "incontinence-urinaire-femme.md" %}}) (IUE)
   - Troubles ano-rectaux  
-    Dyschésie, manœuvres digitales d'exonération, [incontinence anale]({{< relref "incontinence-fecale.md" >}}).
+    Dyschésie, manœuvres digitales d'exonération, [incontinence anale]({{% relref "incontinence-fecale.md" %}}).
 - Gêne ressentie et symptôme dominant
 - Retentissement
   - Activités physiques
   - Sexuel
-  - Anxiété, [dépression]({{< relref "depression.md" >}})
+  - Anxiété, [dépression]({{% relref "depression.md" %}})
 - Attentes et préférences
 
 Une aggravation brutale des symptômes lors d'un effort intense ou d'un accident ne préjuge pas de la sévérité du prolapsus génital et ne requiert pas systématiquement de chirurgie.
@@ -124,13 +124,13 @@ Décrire le prolapsus observé:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Mise à jour des dépistages: [frottis cervico-vaginal]({{< relref "cancer-col-uterus.md" >}}) et dépistage du cancer colo-rectal.
+Mise à jour des dépistages: [frottis cervico-vaginal]({{% relref "cancer-col-uterus.md" %}}) et dépistage du cancer colo-rectal.
 
 Examens selon des symptômes non expliqués par le prolapsus génital.
 
 ### Échographie rénale
 
-Indication: prolapsus extériorisé en permanence pour risque d'[insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) obstructive.
+Indication: prolapsus extériorisé en permanence pour risque d'[insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}) obstructive.
 
 {{% /collapse %}}
 {{%collapse "Mesures générales" %}}
@@ -146,7 +146,7 @@ Prise en charge générale du prolapsus génital de la femme:
 - Correction d'un surpoids
 - Augmentation de l'activité physique
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Prise en charge d'une [constipation chronique]({{< relref "constipation.md" >}})
+- Prise en charge d'une [constipation chronique]({{% relref "constipation.md" %}})
 - Éducation au port de charges
 - Éducation à la toux
 
@@ -183,7 +183,7 @@ Adresser à tout spécialiste en gynécologie (généraliste, gynécologue, sage
   Nécessite un suivi gynécologique régulier.
 - Préférer les modèles en silicone
 - Hydratants, lubrifiants ou estrogènes vaginaux possibles en cas de syndrome génito-urinaire de la ménopause  
-  ≥ 1 symptôme parmi: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (signes fonctionnels, [cystites récidivantes]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})). Voir *[Ménopause]({{< relref "menopause.md" >}})*
+  ≥ 1 symptôme parmi: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (signes fonctionnels, [cystites récidivantes]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})). Voir *[Ménopause]({{% relref "menopause.md" %}})*
 - Rapports sexuels possibles avec pessaire anneau
 - Efficacité moindre en rectocèle prédominante ou isolée
 

@@ -26,7 +26,7 @@ tableFilter = true
 
 Les demandes de certificats médicaux pour les personnes majeures en France sont un grand motif de consultations or seuls quelques uns listés ci-dessous peuvent être exigés sur une base légale (travail, protection juridique, handicap ...).
 
-Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{< relref "certificat-sport.md" >}}) (CNCI)
+Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{% relref "certificat-sport.md" %}}) (CNCI)
 
 {{%/article-summary%}}
 
@@ -62,7 +62,7 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{<
 | Sport avec fédération | Renouvellement de license | Par fédération | Voir *Première demande de licence* |
 | Sport avec fédération | Participation à une compétition | Par fédération | Voir *Première demande de licence* |
 | Sport avec fédération | Disciplines à contraintes particulières | Par fédération | Voir *Première demande de licence* |
-| Sport hors fédération | Inscription | Oui selon la discipline | Voir [certification du sportif (CACI)]({{< relref "certificat-sport.md" >}}) |
+| Sport hors fédération | Inscription | Oui selon la discipline | Voir [certification du sportif (CACI)]({{% relref "certificat-sport.md" %}}) |
 | Acquisition et détention d'arme à feu | Police municipale | Oui | L'article R.511-18 du Code de la sécurité intérieure prévoit le certificat sans indiquer s'il doit être établi par le médecin traitant ou le médecin du travail |
 | Acquisition et détention d'arme à feu | Convoyeur de fonds | Oui | L'article R.4624-10 du Code du travail prévoit le certificat sans indiquer s'il doit être établi par le médecin traitant ou le médecin du travail |
 | Acquisition et détention d'arme à feu | Tir sportif | Oui | Article L.231-1 et L.231-2-3 du Code du sport |
@@ -81,7 +81,7 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{<
 | Actes notariés | Achat/vente | Non ||
 | Actes notariés | Établissement d'un testament | Non ||
 | Actes notariés | Contrats de mariage | Non ||
-| Violences sur personne majeure | Constatation des violences subies | Oui | Voir [violences]({{< relref "violences-femmes.md" >}}) |
+| Violences sur personne majeure | Constatation des violences subies | Oui | Voir [violences]({{% relref "violences-femmes.md" %}}) |
 | Garde à vue | Compatibilité de l'état de santé avec le placement ou le au maintien en garde à vue | Oui | Article 63-3 du Code de procédure pénale |
 | Hospitalisation psychiatrique | A la demande d'un tiers | Oui | Articles L.3212-1 à L.3212-12 du Code de la santé publique |
 | Hospitalisation psychiatrique | A la demande d'un tiers/urgence | Oui | Articles L.3212-1 à L.3212-12 du Code de la santé publique |

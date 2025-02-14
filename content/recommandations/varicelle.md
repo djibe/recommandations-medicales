@@ -27,7 +27,7 @@ todo = "rankok, vérif co-vaccination ROR, https://pap-pediatrie.fr/sites/pap-pe
 - L'immunité procurée par l'infection au virus VZV est quasi définitive (5% de récidives)
 - Rechercher des complications de la varicelle: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans
 - Personnes à risque de forme grave de varicelle:
-  - Immunodépression (hémopathie, [VIH]({{< relref "vih-sida.md" >}}), chimiothérapie)
+  - Immunodépression (hémopathie, [VIH]({{% relref "vih-sida.md" %}}), chimiothérapie)
   - Varicelle du nouveau-né ou si sa mère a débuté éruption une éruption varicelleuse 5 jours avant et 2 jours après l'accouchement
   - Varicelle compliquée
   - Varicelle chez la femme enceinte dont l'éruption débute 10 jours avant l'accouchement
@@ -35,7 +35,7 @@ todo = "rankok, vérif co-vaccination ROR, https://pap-pediatrie.fr/sites/pap-pe
 - Prise en charge symptomatique sans AINS, aspirine ni corticoïdes
 - Pas d'éviction scolaire en cas de varicelle (*Assur Maladie*, *CMIT*)
 
-Chapitre lié: [zona]({{< relref "zona.md" >}})
+Chapitre lié: [zona]({{% relref "zona.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -43,12 +43,12 @@ Chapitre lié: [zona]({{< relref "zona.md" >}})
 Varicelle
 : Maladie infectieuse correspondant à la primo-infection par le virus Varicelle-Zona (VZV). L'infection n'est bénigne que chez les enfants immunocompétents et s'avère extrêmement contagieuse.
 : Des formes graves de varicelle surviennent chez les immunodéprimés, les nouveaux-nés avec risque d'embryo-fœtopathie avant 24 SA. Elle se complique fréquemment chez l'adulte.
-: Transmission respiratoire par gouttelettes ou par contact direct. L'immunité naturelle est quasi définitive (5% de récidives). Possible réactivation sous forme de [zona]({{< relref "zona.md" >}}) après des années.
+: Transmission respiratoire par gouttelettes ou par contact direct. L'immunité naturelle est quasi définitive (5% de récidives). Possible réactivation sous forme de [zona]({{% relref "zona.md" %}}) après des années.
 
 ### Complications de la varicelle
 
 - Surinfections bactériennes cutanées
-  - [Impétigo]({{< relref "infection-cutanee-bacterienne.md" >}}) voire [dermohypodermites]({{< relref "erysipele.md" >}}) et fasciite nécrosante
+  - [Impétigo]({{% relref "infection-cutanee-bacterienne.md" %}}) voire [dermohypodermites]({{% relref "erysipele.md" %}}) et fasciite nécrosante
   - Abcès, lésions nécrotiques, toxine exfoliante
   - Jusqu'à 50% chez l'enfant. Surtout *S. aureus* et *S. pyogenes*.
 - Neurologique  
@@ -56,7 +56,7 @@ Varicelle
 - Pneumopathie varicelleuse  
   Pneumopathie interstitielle: toux, dyspnée majeure. Surtout avant 6 mois et chez l'adulte.
 - Complications exceptionnelles  
-  Hépatite, thrombopénie secondaire, néphropathie, arthrite, thrombose, complication oculaire, [péricardite]({{< relref "pericardite-aigue.md" >}}), [pancréatite]({{< relref "pancreatite-aigue.md" >}}), orchite.
+  Hépatite, thrombopénie secondaire, néphropathie, arthrite, thrombose, complication oculaire, [péricardite]({{% relref "pericardite-aigue.md" %}}), [pancréatite]({{% relref "pancreatite-aigue.md" %}}), orchite.
 - Varicelle congénitale  
   Survenue chez femme enceinte avant 20 SA (risque congénital de 1%).
 
@@ -146,7 +146,7 @@ Vaccination recommandée en l'absence d'antécédent de varicelle (ou histoire d
 3. Toute personne avec sérologie négative ET contact étroit avec des personnes immunodéprimées
 4. Attente de greffe d'organe solide (dans les 6 mois) avec sérologie négative  
   2 doses à ≥ 1 mois d'intervalle.
-5. Vaccination post-exposition: ≥ 12 ans immunocompétent en contact avec un cas de varicelle ou de [zona]({{< relref "zona.md" >}})  
+5. Vaccination post-exposition: ≥ 12 ans immunocompétent en contact avec un cas de varicelle ou de [zona]({{% relref "zona.md" %}})  
   La vaccination doit avoir lieu dans les 3 jours suivant le contact.
 6. Professionnels de santé ou de la petite enfance (crèches, collectivités)
 
@@ -222,7 +222,7 @@ Recommandations pour la prise en charge de la varicelle:
 Reporter les vaccinations du nourrisson d'au moins 15 jours (question à *Infovac*).
 {.alert .alert-info}
 
-> En cas de varicelle surinfectée, voir [impétigo]({{< relref "infection-cutanee-bacterienne.md" >}}).
+> En cas de varicelle surinfectée, voir [impétigo]({{% relref "infection-cutanee-bacterienne.md" %}}).
 
 Détersion des croûtes par vaseline x 2/j et couvrir par pansement.
 

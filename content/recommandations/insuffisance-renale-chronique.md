@@ -99,7 +99,7 @@ RCV
 
 3 millions de Français atteints de maladie rénale chronique (7 à 10 % de la population) avec un dépistage insuffisant.
 
-9500 nouveaux dialysés par an, augmentation de 4%/an, liés aux facteurs de risque cardiovasculaires: [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) et **diabète** pour la moitié des cas.
+9500 nouveaux dialysés par an, augmentation de 4%/an, liés aux facteurs de risque cardiovasculaires: [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) et **diabète** pour la moitié des cas.
 
 Fin 2018: 89.692 malades en suppléance (55% dialyse et 45% greffés).  
 4 milliards d'euros annuels (82% pour la dialyse).
@@ -114,20 +114,20 @@ Fin 2018: 89.692 malades en suppléance (55% dialyse et 45% greffés).
 Population à risque de maladie rénale chronique, définie par la présence d'au moins un facteur de risque parmi:
 
 - +65 ans (Académie de pharmacie)
-- [Diabète type 2]({{< relref "diabete-type-2.md" >}}) ou [type 1]({{< relref "diabete-type-1.md" >}})
-- [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
-- Maladie cardiovasculaire (dont [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}))
-- [Obésité]({{< relref "obesite-adulte.md" >}})
+- [Diabète type 2]({{% relref "diabete-type-2.md" %}}) ou [type 1]({{% relref "diabete-type-1.md" %}})
+- [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
+- Maladie cardiovasculaire (dont [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}))
+- [Obésité]({{% relref "obesite-adulte.md" %}})
 - Maladie de système ou auto-immune  
-  Lupus, vascularite, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}).
+  Lupus, vascularite, [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}).
 - Pathologie urologique  
-  Uropathie obstructive, [infections urinaires récidivantes]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}).
+  Uropathie obstructive, [infections urinaires récidivantes]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}).
 - Antécédents familiaux d'insuffisance rénale évolutive
 - Antécédents de néphropathie aiguë
 - Traitement par {{< modal-btn modal-nephrotoxiques >}}néphrotoxiques{{< /modal-btn >}}  
   AINS, chimiothérapie, exposition aux produits de contraste iodés ou radiothérapie péri-rénale.
 - Exposition professionnelle  
-  [Plomb]({{< relref "saturnisme.md" >}}), cadmium, mercure.
+  [Plomb]({{% relref "saturnisme.md" %}}), cadmium, mercure.
 
 > [!INFO]
 > Le dépistage des populations à risque doit être **annuel** (ou selon l'avis du néphrologue en cas d'antécédents familiaux).
@@ -149,11 +149,11 @@ Indications au suivi de la maladie rénale chronique par un néphrologue:
 
 - Immédiat  
   - Glomérulonéphrite rapidement progressive
-  - [Insuffisance rénale aiguë]({{< relref "insuffisance-renale-aigue.md" >}})
+  - [Insuffisance rénale aiguë]({{% relref "insuffisance-renale-aigue.md" %}})
 - Rapide
   - Lithiase, hydronéphrose, tumeur
-  - [Hypertension artérielle réfractaire]({{< relref "hypertension-arterielle.md" >}})
-  - Syndrome néphrotique, œdèmes, [hématurie]({{< relref "hematurie.md" >}}), signes extra-rénaux
+  - [Hypertension artérielle réfractaire]({{% relref "hypertension-arterielle.md" %}})
+  - Syndrome néphrotique, œdèmes, [hématurie]({{% relref "hematurie.md" %}}), signes extra-rénaux
 
 Le suivi par le néphrologue est recommandé en cas de doute sur la nature de la maladie rénale, des antécédents familiaux, une albuminurie, un traitement à marge thérapeutique étroite.
 
@@ -205,7 +205,7 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 > [!WARNING]
 > Le terme de *microalbuminurie* n'est plus utilisé.
 
-**NB.** Faux positifs pour une albuminurie (ou protéinurie): [infection urinaire]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), fièvre, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), protéinurie orthostatique, sport intense dans les 24h, menstruations, AINS, alimentation riche en protéines.
+**NB.** Faux positifs pour une albuminurie (ou protéinurie): [infection urinaire]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}), fièvre, [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), protéinurie orthostatique, sport intense dans les 24h, menstruations, AINS, alimentation riche en protéines.
 
 ### 3) Examen clinique
 
@@ -218,7 +218,7 @@ Recherche de signes étiologiques et du retentissement de la maladie rénale:
 - Signes urologiques  
   Signes fonctionnels urinaires, globe vésical, touchers pelvien.
 - Rechercher une dénutrition: {{< modal-btn modal-mna >}}MNA{{< /modal-btn >}}
-- Rechercher une [insuffisance cardiaque chronique]({{< relref "insuffisance-cardiaque-chronique.md" >}})
+- Rechercher une [insuffisance cardiaque chronique]({{% relref "insuffisance-cardiaque-chronique.md" %}})
 - Stade avancé: syndrome urémique  
   Fatigue, dyspnée, anorexie, nausées, vomissements, prurit, syndrome des jambes sans repos, crampes nocturnes, nycturie, troubles cognitifs, somnolence, hémorragies, troubles endocriniens, hypertension sévère.
 - Sujet âgé: évaluation gériatrique
@@ -270,9 +270,9 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
 - Si anémie: réticulocytes  
   {{%class%}}Anémie normochrome normocytaire arégénérative au cours de l'IRC.{{%/class%}}
 - **Confirmer une albuminurie** +30 mg/g (3 mg/mmol) sur un échantillon du matin
-- Si signes fonctionnels urinaires ou [hématurie]({{< relref "hematurie.md" >}}): échographie vésicale
-- Si [goutte symptomatique]({{< relref "goutte.md" >}}): uricémie
-- Si [suspicion de gammapathie monoclonale]({{< relref "gammapathie-monoclonale-mgus.md" >}}): électrophorèse des protéines sériques, protéinurie/créatininurie
+- Si signes fonctionnels urinaires ou [hématurie]({{% relref "hematurie.md" %}}): échographie vésicale
+- Si [goutte symptomatique]({{% relref "goutte.md" %}}): uricémie
+- Si [suspicion de gammapathie monoclonale]({{% relref "gammapathie-monoclonale-mgus.md" %}}): électrophorèse des protéines sériques, protéinurie/créatininurie
 - ± NT-proBNP
 
 {{%/collapse %}}
@@ -282,7 +282,7 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
 
 Éléments vitaux de la prise en charge de l'insuffisance rénale chronique:
 
-- Déclarer l'[ALD n°19]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°19]({{% relref "affection-longue-duree.md" %}})
 - Suivi par le généraliste possible si:
   - Stade 1, 2, 3A stable sans complication, sans albuminurie, HTA contrôlée, pas de traitement à marge thérapeutique étroite
   - Et sujet âgé avec DFG 20-45
@@ -291,7 +291,7 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
   - {{< modal-btn modal-nephrotoxiques >}}Éviction des néphrotoxiques{{< /modal-btn >}}
   - Pas d'automédication ou herbes chinoises
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire (RCV) élevé ou très élevé{{< /modal-btn >}}
-  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
   - Réduction de l'alcool
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} ou DASH
   - Activité physique d'intensité modérée ≥ 150 minutes par semaine
@@ -320,17 +320,17 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
 - Vaccinations
   - Annuels: grippe, Covid-19 et de l'entourage
   - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
-  - Sérologie [hépatite B]({{< relref "hepatite-b.md" >}}) et vacciner si Ac anti-HBs < 10 UI/L  
-    [4 doubles doses]({{< relref "hepatite-b.md" >}}) si hémodialysé non vacciné.
+  - Sérologie [hépatite B]({{% relref "hepatite-b.md" %}}) et vacciner si Ac anti-HBs < 10 UI/L  
+    [4 doubles doses]({{% relref "hepatite-b.md" %}}) si hémodialysé non vacciné.
 - Ferritinémie cible > 100 ng/mL
 - DFGe < 45
   - Suivi par néphrologue impératif
   - Protection du *capital veineux*
-  - [Vitamine D cible]({{< relref "vitamine-d.md" >}}) > 75 nmol/L (*HAS 2023*)
+  - [Vitamine D cible]({{% relref "vitamine-d.md" %}}) > 75 nmol/L (*HAS 2023*)
 - Acidose métabolique < 23 mmol/L: cible 23-27 mmol/L, alimentation alcalisante voire 3-6 g/j de bicarbonate de sodium
 - < 60: lutte contre l'hyperphosphorémie (produits transformés ++)
 - Associations de patients: [Fondation du Rein](https://www.fondation-du-rein.org), [France Rein](https://www.francerein.org), [renaloo](https://renaloo.com), [AIRG](https://www.airg-france.fr), [Objectif Rein Santé](https://objectifreinsante.org)
-- Si MRC sévère et Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}})
+- Si MRC sévère et Covid-19: [antiviral en urgence]({{% relref "covid-19.md" %}})
 - [Reconnaissance possible en Maladie professionnelle](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&field_activites_nuisances=&field_maladies=insuffisance+r%C3%A9nale&field_numeroCAS=&mot_cles_tableau=&motsCles=&valid_RECHERCHE_MOTSCLES=Rechercher&introspection=)  
   Expositions au plomb, mercure, solvants.
 
@@ -474,7 +474,7 @@ Tant que le DFGe est ≥ 45 mL/min/1,73 m² (20 chez le sujet âgé), stable, sa
 - Protéines
   - Connaître les conséquences de l'excès de protéines
   - Limiter les protéines < 1 g/kg/j dès que la clairance est < 60
-- [Apports en calcium]({{< relref "apports-calcium.md" >}}), phosphore, potassium
+- [Apports en calcium]({{% relref "apports-calcium.md" %}}), phosphore, potassium
 
 Protection du capital veineux quand DFGe < 45 mL/min (pas de prélèvement des avant-bras).
 {.alert .alert-warning}

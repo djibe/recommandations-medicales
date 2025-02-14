@@ -31,7 +31,7 @@ flowchart = true
 - Surveillance des nodules thyroïdiens EU-TIRADS 2-3-4 ou Bethesda II: échographie à 1-2 ans puis 2-4 ans plus tard puis tous les 4-5 ans
 - La prise en charge du nodule thyroïdien chez l'enfant et pendant la grossesse relève du spécialiste (TSH + échographie systématique)
 
-Chapitres liés: [cancer de la thyroïde]({{< relref "cancer-thyroide.md" >}}), [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
+Chapitres liés: [cancer de la thyroïde]({{% relref "cancer-thyroide.md" %}}), [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -104,7 +104,7 @@ TA
   - Nodule dur, irrégulier ou adhérent
   - Adénopathie(s) locale(s)
   - Signes de compression ou d'extension locale sans autre cause  
-    [Dysphonie]({{< relref "dysphonie.md" >}}), dysphagie, dyspnée laryngée, adénopathies sus-claviculaires ou jugulo-carotidiennes.
+    [Dysphonie]({{% relref "dysphonie.md" %}}), dysphagie, dyspnée laryngée, adénopathies sus-claviculaires ou jugulo-carotidiennes.
   - Nodule hypermétabolique (TEP)
   - Nodule découvert suite à calcitonine à +100 pg/mL
   - Antécédent personnel de NEM2
@@ -127,13 +127,13 @@ TA
 
 - Antécédents personnels
 - Antécédents familiaux thyroïdiens et génétiques
-- Facteurs de risque de [cancer de la thyroïde]({{< relref "cancer-thyroide.md" >}})  
+- Facteurs de risque de [cancer de la thyroïde]({{% relref "cancer-thyroide.md" %}})  
   Irradiation cervicale antérieure ou sus-claviculaire, néoplasie endocrinienne multiple de type 2 (NEM2), syndrome de Cowden, complexe de Carney, polypose adénomateuse familiale (PAF), syndrome de Gardner, syndrome de Werner, syndrome DICER1.
 - Symptômes: ancienneté et évolution
   - Modifications de la voix
   - Gêne ou douleurs
   - Signes de compression: **dyspnée laryngée, dysphagie, dysphonie**, troubles de la déglutition
-  - [Diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
+  - [Diarrhée chronique]({{% relref "diarrhee-chronique.md" %}})
   - Flushs
 
 ### Examen clinique
@@ -158,7 +158,7 @@ Bilan biologique d'un nodule thyroïdien: TSH seule en première intention
 
 Confirmation d'une anomalie par un 2^e^ prélèvement puis exploration en parallèle de la [dysthyroïdie](/tags/tsh/).
 
-5 à 10% des nodules de la thyroïde sont secrétant (nodules dits **autonomes** ou toxiques, ils ont un **très faible risque de malignité**) avec une [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}) le plus souvent infraclinique.
+5 à 10% des nodules de la thyroïde sont secrétant (nodules dits **autonomes** ou toxiques, ils ont un **très faible risque de malignité**) avec une [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}) le plus souvent infraclinique.
 
 ### Échographie thyroïdienne
 
@@ -177,7 +177,7 @@ Chaque nodule de la thyroïde est décrit én échographie selon la **classifica
 
 Les autres imageries (scanner, IRM) relèvent du spécialiste (goitre plongeant, compression trachéale ou œsophagienne, rapports vasculaires).
 
-Examen en urgence dans un centre expert en cas de symptômes compressifs ou d'évolution rapide (suspicion de cancer anaplasique ou de [lymphome]({{< relref "lymphomes-non-hodgkiniens.md" >}})).
+Examen en urgence dans un centre expert en cas de symptômes compressifs ou d'évolution rapide (suspicion de cancer anaplasique ou de [lymphome]({{% relref "lymphomes-non-hodgkiniens.md" %}})).
 {.alert .alert-warning}
 
 #### Cytoponction guidée par échographie d'un nodule thyroïdien
@@ -223,7 +223,7 @@ Indications au dosage de la calcitonine:
 
 1. Antécédents personnels ou familiaux de CMT ou NEM2
 2. Nodule thyroïdien avec diarrhée motrice, flushs ou adénopathies
-3. Nodule suspect de [cancer de la thyroïde]({{< relref "cancer-thyroide.md" >}})
+3. Nodule suspect de [cancer de la thyroïde]({{% relref "cancer-thyroide.md" %}})
 4. Avant toute chirurgie ou thermoablation de la thyroïde
 
 Une calcitonine normale ne doit pas être recontrôlée sauf prédisposition génétique au cancer médullaire de la thyroïde (CMT).
@@ -267,9 +267,9 @@ La technique sera une lobo-isthmectomie (LI), une isthmectomie ou une thyroïdec
 
 Complications possibles de la chirurgie:
 
-- [Hypothyroïdie]({{< relref "hypothyroidie.md" >}}): TSH de contrôle à 6-8 semaines  
+- [Hypothyroïdie]({{% relref "hypothyroidie.md" %}}): TSH de contrôle à 6-8 semaines  
   Elle est systématique lors de la thyroïdectomie totale, peu fréquente après lobo-isthmectomie (facteurs majeurs: TSH pré-opératoire, thyroïdite lymphocytaire chronique)
-- **[Hypocalcémie]({{< relref "hypocalcemie.md" >}})** iatrogène après thyroïdectomie totale: hypocalcémie persistante à 6 mois avec PTH inadaptée
+- **[Hypocalcémie]({{% relref "hypocalcemie.md" %}})** iatrogène après thyroïdectomie totale: hypocalcémie persistante à 6 mois avec PTH inadaptée
 - Paralysie récurrentielle définitive avec dysphonie (1% par côté)
 
 La **thermoablation** (TA) est une alternative en cas de nodule bénin (à 2 reprises en cytologie) solide: gênant, autonome ou volumineux. Surveillance bio-échographique à 3, 6, 12 mois puis annuellement pendant 5 ans. Elle peut parfois être combinée à l'alcoolisation percutanée.
@@ -339,7 +339,7 @@ Chirurgie si souhaitée ou croissance du nodule à 2 reprises consécutives.
 
 - Contrôle de la TSH 6-8 semaines après lobectomie
   - Traitement dans les suites d'un nodule bénin si TSH > 10 mUI/L, discuté si > 4 selon l'âge (borne habituelle = âge/10 chez le +60 ans), symptômes, anticorps anti-TPO.
-  - Traitement dans les suites d'un [cancer de la thyroïde]({{< relref "cancer-thyroide.md" >}}): si risque faible à intermédiaire de récidive et TSH > 2 mU/L.  
+  - Traitement dans les suites d'un [cancer de la thyroïde]({{% relref "cancer-thyroide.md" %}}): si risque faible à intermédiaire de récidive et TSH > 2 mU/L.  
 - Contrôle de la calcémie + PTH à H24 après une thyroïdectomie totale
 
 Le suivi après cancer repose sur l'échographie cervicale. Rythme de surveillance par échographie cervicale:

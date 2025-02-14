@@ -29,7 +29,7 @@ flowchart = true
 - La prévention de la pré-éclampsie passe par la surveillance de la pression artérielle et de la bandelette urinaire à chaque consultation de grossesse  
   Si antécédent de prééclampsie: aspirine faible dose de 12 à 35 semaines d'aménorrhée et recherche d'un syndrome des anticorps anti-phospholipides (SAPL) en cas de PE précoce ou sévère
 
-Chapitre liés: [grossesse]({{< relref "grossesse.md" >}}), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+Chapitre liés: [grossesse]({{% relref "grossesse.md" %}}), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -53,10 +53,10 @@ Pré-éclampsie (ou prééclampsie)
   - Insémination avec donneur
 - Facteurs physiologiques: avant 20 ans et après 35 ans
 - Pathologies maternelles
-  - [Obésité]({{< relref "obesite-adulte.md" >}})
+  - [Obésité]({{% relref "obesite-adulte.md" %}})
   - Insulinorésistance, [diabète](/tags/diabete/)
-  - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
-  - [Maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
+  - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
+  - [Maladie rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})
   - Thrombophilie acquise: SAPL
 - Facteurs environnementaux
   - Hypoxie de haute altitude
@@ -110,13 +110,13 @@ Une pré-éclampsie grave ou sévère nécessite l'appel du SAMU.
 
 Pré-éclampsie avec au moins un critère de gravité parmi:
 
-- [Hypertension artérielle]({{< relref "hypertension-arterielle-maligne.md" >}}) avec PAS ≥ 180 mmHg et/ou PAD ≥ 120 mmHg
+- [Hypertension artérielle]({{% relref "hypertension-arterielle-maligne.md" %}}) avec PAS ≥ 180 mmHg et/ou PAD ≥ 120 mmHg
 - Épigastralgies et/ou douleurs de l'hypochondre droit << en barre >> persistantes ou intenses
 - Signes neurologiques: céphalées sévères résistantes au traitement, troubles visuels ou auditifs persistants, déficit neurologique, réflexes ostéo-tendineux vifs, diffusés et polycinétiques
 - Détresse respiratoire, œdème aigu du poumon (OAP)
 - HELLP syndrome  
   Hémolyse (LDH > 600 UI/L) avec ASAT/ALAT > 2N et thrombopénie < 100.000/mm³.
-- [Insuffisance rénale aiguë]({{< relref "insuffisance-renale-aigue.md" >}})  
+- [Insuffisance rénale aiguë]({{% relref "insuffisance-renale-aigue.md" %}})  
   {{< clinique/insuffisance-renale-aigue >}}
 
 ### Critères de la pré-éclampsie sévère
@@ -159,7 +159,7 @@ Pré-éclampsie avec au moins un critère de sévérité parmi:
 
 ### Examen clinique
 
-Pendant la grossesse, mesure manuelle de la pression artérielle [selon les recommandations]({{< relref "hypertension-arterielle.md" >}}) ou par [tensiomètre électronique validé pour la grossesse]({{< relref "tensiometres-electroniques-valides.md" >}}) (*ESH 2023*) **à chaque consultation** avec la bandelette urinaire.
+Pendant la grossesse, mesure manuelle de la pression artérielle [selon les recommandations]({{% relref "hypertension-arterielle.md" %}}) ou par [tensiomètre électronique validé pour la grossesse]({{% relref "tensiometres-electroniques-valides.md" %}}) (*ESH 2023*) **à chaque consultation** avec la bandelette urinaire.
 {.alert .alert-info}
 
 - Mesure de la pression artérielle à chaque consultation pendant la grossesse, fréquence cardiaque

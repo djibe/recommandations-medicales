@@ -28,10 +28,10 @@ todo = "Le dépistage VHB - VHC - VIH doit être combiné (*AFEF*), relecture CN
 - Bilan avec RT-PCR VIH et sérologie VIH (répéter à 1 mois) en cas de: fièvre ou fatigue inexpliquées, exanthème fébrile de l'adulte, zona de l'adulte jeune ...
 - Le suivi par l'infectiologue est systématique et le traitement antirétroviral est indiqué pour toute personne infectée vivant avec le VIH.
 - Le médecin généraliste s'assure de l'observance, les dépistages des comorbidités et vaccinations spécifiques ainsi que la qualité de vie
-- Le VIH est une maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}) prise en charge à 100%
+- Le VIH est une maladie à [déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}) prise en charge à 100%
 - Aide à la consultation du généraliste: [VIHclic](https://vihclic.fr)
 
-Toute personne exposée au VIH est éligible à la [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}}) (gratuite), prescriptible par tout médecin.
+Toute personne exposée au VIH est éligible à la [PrEP]({{% relref "prophylaxie-preexposition-prep.md" %}}) (gratuite), prescriptible par tout médecin.
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -59,7 +59,7 @@ IST
 : infection sexuellement transmissible
 
 PrEP
-: [prophylaxie pré-exposition]({{< relref "prophylaxie-preexposition-prep.md" >}})
+: [prophylaxie pré-exposition]({{% relref "prophylaxie-preexposition-prep.md" %}})
 
 PVVIH
 : personne vivant avec le VIH
@@ -81,7 +81,7 @@ VIH
 
 - Hommes  
   70% des nouveaux diagnostics (dont 2/3 d'HSH).
-- [HSH]({{< relref "hsh.md" >}})  
+- [HSH]({{% relref "hsh.md" %}})  
   45% des nouvelles infections détectées en 2013.  
   {{%class%}}L'incidence du VIH est est 200x celle observée dans la population comparable en métropole.{{%/class%}}
 - Usagers de drogues par injection (UDI)  
@@ -129,11 +129,11 @@ Les signes cliniques de la primo-infection VIH sont aspécifiques, présents dan
 - Asthénie
 - Polyadénopathies fermes et indolores (75%)
 - Exanthème maculopapuleux (70%)  
-  Prédomine au tronc, racine des membres, cou et parfois visage. [Prurit]({{< relref "prurit.md" >}}) rare.
+  Prédomine au tronc, racine des membres, cou et parfois visage. [Prurit]({{% relref "prurit.md" %}}) rare.
 - Pharyngite
 - Énanthème et ulcérations muqueuses
-- [Candidose buccale]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
-- [Toux]({{< relref "toux-chronique.md" >}}) (10%)
+- [Candidose buccale]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
+- [Toux]({{% relref "toux-chronique.md" %}}) (10%)
 - Troubles digestifs
 - Signes sévères plus rares:
   - Syndrome méningé lymphocytaire (20%)
@@ -143,7 +143,7 @@ Les signes cliniques de la primo-infection VIH sont aspécifiques, présents dan
 #### Signes biologiques d'une infection VIH
 
 - Thrombopénie (75%)
-- Leucopénie (50%), [lymphopénie]({{< relref "lymphopenie.md" >}}), [syndrome mononucléosique]({{< relref "mononucleose-infectieuse.md" >}})
+- Leucopénie (50%), [lymphopénie]({{% relref "lymphopenie.md" %}}), [syndrome mononucléosique]({{% relref "mononucleose-infectieuse.md" %}})
 - Cytolyse hépatique
 
 ### Clinique de la phase chronique
@@ -151,14 +151,14 @@ Les signes cliniques de la primo-infection VIH sont aspécifiques, présents dan
 Signes cliniques mineurs:
 
 - Dermatologiques  
-  - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
-  - [Prurigo]({{< relref "prurit.md" >}})
-  - [Zona]({{< relref "zona.md" >}})
-  - [Psoriasis]({{< relref "psoriasis.md" >}})
-  - [Candidose buccale ou génitale récidivante]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
+  - [Dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}})
+  - [Prurigo]({{% relref "prurit.md" %}})
+  - [Zona]({{% relref "zona.md" %}})
+  - [Psoriasis]({{% relref "psoriasis.md" %}})
+  - [Candidose buccale ou génitale récidivante]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
   - Maladie de Kaposi
   - Autres  
-  Porphyrie cutanée tardive, folliculite, condylomes, [molluscum contagiosum]({{< relref "molluscum-contagiosum.md" >}}), leucoplasie chevelue de la langue.
+  Porphyrie cutanée tardive, folliculite, condylomes, [molluscum contagiosum]({{% relref "molluscum-contagiosum.md" %}}), leucoplasie chevelue de la langue.
 - AEG, fébricule
 - [Sueurs nocturnes](/tags/sueurs-nocturnes/)
 
@@ -166,7 +166,7 @@ Signes cliniques mineurs:
 
 - Neutropénie
 - Thrombopénie
-- [Anémie]({{< relref "anemie.md" >}})
+- [Anémie]({{% relref "anemie.md" %}})
 - Hypergammaglobulinémie polyclonale
 
 {{% /collapse %}}
@@ -177,13 +177,13 @@ Un patient ayant eu une infection opportuniste du Sida restera au stade Sida (qu
 Pathologies opportunistes selon le taux de CD4 (/mm³):
 
 - de 500 à 200/mm³
-  - [Candidose orale]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
-  - [Tuberculose]({{< relref "tuberculose.md" >}})
+  - [Candidose orale]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
+  - [Tuberculose]({{% relref "tuberculose.md" %}})
   - Maladie de Kaposi (détermine Sida)
-  - [Lymphome non hodgkinien]({{< relref "lymphomes-non-hodgkiniens.md" >}}) (détermine Sida)
+  - [Lymphome non hodgkinien]({{% relref "lymphomes-non-hodgkiniens.md" %}}) (détermine Sida)
 - de 200 à 100/mm³
   - Idem ci-dessus
-  - [Candidose œsophagienne]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
+  - [Candidose œsophagienne]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
   - Pneumocystose
   - Toxoplasmose cérébrale
 - < 100/mm³
@@ -206,15 +206,15 @@ Le dépistage doit être large et pour les personnes à risque, **systématique 
   D'autant plus chez les hommes et régions à risque (IDF, PACA, DROM).
 - Proposer systématiquement devant:
   - Diagnostic d'[IST](/tags/ist/)
-  - [Hépatite B]({{< relref "hepatite-b.md" >}})
-  - [Hépatite C]({{< relref "hepatite-c.md">}})
-  - Diagnostic de [tuberculose]({{< relref "tuberculose.md" >}})
-  - [Grossesse]({{< relref "grossesse.md" >}}) ou projet de grossesse
+  - [Hépatite B]({{% relref "hepatite-b.md" %}})
+  - [Hépatite C]({{% relref "hepatite-c.md" %}})
+  - Diagnostic de [tuberculose]({{% relref "tuberculose.md" %}})
+  - [Grossesse]({{% relref "grossesse.md" %}}) ou projet de grossesse
   - Viol
-  - Prescription de [contraception]({{< relref "contraception.md" >}})
-  - [IVG]({{< relref "interruption-volontaire-grossesse.md" >}})
+  - Prescription de [contraception]({{% relref "contraception.md" %}})
+  - [IVG]({{% relref "interruption-volontaire-grossesse.md" %}})
   - Démarche volontaire
-- [Hommes ayant des rapports sexuels avec des hommes (HSH)]({{< relref "hsh.md" >}})  
+- [Hommes ayant des rapports sexuels avec des hommes (HSH)]({{% relref "hsh.md" %}})  
   Dépistage **trimestriel**.
 - Originaire d'Afrique subsaharienne et Caraïbes  
   Dépistage annuel.
@@ -260,13 +260,13 @@ Annonce faite par le médecin qui a prescrit le test au cours d'une consultation
 
 Rythme de dépistage des [IST](/tags/ist/) au cours du VIH:
 
-- *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* et gonocoque selon le contexte
-- [Hépatite C]({{< relref "hepatite-c.md" >}}) tous les 3 à 6 mois
-- [Syphilis]({{< relref "syphilis.md" >}}) tous les 3 à 6 mois
+- *[Chlamydia]({{% relref "chlamydia-trachomatis.md" %}})* et gonocoque selon le contexte
+- [Hépatite C]({{% relref "hepatite-c.md" %}}) tous les 3 à 6 mois
+- [Syphilis]({{% relref "syphilis.md" %}}) tous les 3 à 6 mois
 
 ### Dépistage des cancers du côlon et du sein
 
-Dépistage identique au dépistage généralisé des [cancers du sein]({{< relref "cancer-sein.md" >}}) et du [colon]({{< relref "cancer-colorectal.md" >}}).
+Dépistage identique au dépistage généralisé des [cancers du sein]({{% relref "cancer-sein.md" %}}) et du [colon]({{% relref "cancer-colorectal.md" %}}).
 
 ### Dépistage du cancer du col de l'utérus
 
@@ -286,7 +286,7 @@ Examen cutanéo-muqueux annuel par un dermatologue.
 
 ### Dépistage du cancer du poumon
 
-Indications au scanner thoracique pour le dépistage du [cancer du poumon]({{< relref "cancer-poumon.md" >}}) chez le VIH+ si les critères sont remplis:
+Indications au scanner thoracique pour le dépistage du [cancer du poumon]({{% relref "cancer-poumon.md" %}}) chez le VIH+ si les critères sont remplis:
 
 - Entre 50 et 74 ans
 - tabagisme > 10 cigarettes/j pendant > 30 ans  
@@ -312,9 +312,9 @@ Palpation des aires ganglionnaires au moins annuelle.
 {{% /collapse %}}
 {{%collapse "Vaccinations spécifiques au cours du VIH" %}}
 
-- [Mise à jour du calendrier vaccinal]({{< relref "vaccination.md" >}})
+- [Mise à jour du calendrier vaccinal]({{% relref "vaccination.md" %}})
   - Rappel dTPolio tous les 10 ans
-  - ± [Vaccins HSH]({{< relref "hsh.md" >}})
+  - ± [Vaccins HSH]({{% relref "hsh.md" %}})
 - Grippe annuelle
 - {{< modal-btn modal-vaccin-hepatite-a >}}Hépatite A{{< /modal-btn >}}
   - Indications: co-infection VHB ou VHC, hépatopathie chronique, alcool, voyage zone endémique
@@ -339,9 +339,9 @@ Les vaccins vivants sont possibles lorsque les lymphocytes CD4 sont supérieurs 
 
 - ROR  
   Contrôle sérologique préalable ± ßHCG. 2 injections à M0-M2.
-- [Varicelle]{{< relref "varicelle.md" >}}  
+- [Varicelle]{{% relref "varicelle.md" %}}  
   Contrôle sérologique préalable. 2 injections à M0-M2.
-- [Fièvre jaune]({{< relref "fievre-jaune.md" >}})  
+- [Fièvre jaune]({{% relref "fievre-jaune.md" %}})  
   Séjour en Guyane.
 
 > -- *Calendrier vaccinal* et *HAS 2018*
@@ -375,9 +375,9 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 - Interactions alimentaires  
   Compléments alimentaires hyperprotéinés, millepertuis, jus de pamplemousse, kaolin ...
 - Addictions  
-  [Lutte tabac]({{< relref "arret-tabac.md" >}}) et cannabis, [alcool]({{< relref "sevrage-alcool.md" >}}), psychotropes.
+  [Lutte tabac]({{% relref "arret-tabac.md" %}}) et cannabis, [alcool]({{% relref "sevrage-alcool.md" %}}), psychotropes.
 - Vaccinations multiples (voir *Vaccinations spécifiques au cours du VIH*)
-- Rechercher une [dépression]({{< relref "depression.md" >}}), démence
+- Rechercher une [dépression]({{% relref "depression.md" %}}), démence
 - Santé sexuelle
   - Comportements à risque  
     Sexologue, psychologue.
@@ -394,8 +394,8 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 - Si (pré-)cirrhose: échographie hépatique x 2/an
 - Ostéodensitométrie  
   Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
-- [Maladie à déclaration obligatoire anonyme]({{< relref "maladies-declaration-obligatoire.md" >}})
-- Déclarer l'[ALD n°7]({{< relref "affection-longue-duree.md" >}})
+- [Maladie à déclaration obligatoire anonyme]({{% relref "maladies-declaration-obligatoire.md" %}})
+- Déclarer l'[ALD n°7]({{% relref "affection-longue-duree.md" %}})
 
 ### VIH et suivi cardiovasculaire
 
@@ -414,9 +414,9 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 {{%collapse "Suivi biologique du patient sous antirétroviral" %}}
 
 - Dépistage des IST
-  - *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* et gonocoques selon le contexte
-  - [Hépatite C]({{< relref "hepatite-c.md" >}}) tous les 3 à 6 mois
-  - [Syphilis]({{< relref "syphilis.md" >}}) tous les 3 à 6 mois
+  - *[Chlamydia]({{% relref "chlamydia-trachomatis.md" %}})* et gonocoques selon le contexte
+  - [Hépatite C]({{% relref "hepatite-c.md" %}}) tous les 3 à 6 mois
+  - [Syphilis]({{% relref "syphilis.md" %}}) tous les 3 à 6 mois
 - Créatininémie et clairance 1/an
 - Glycémie à jeun annuelle
 - Bilan lipidique tous les 5 ans

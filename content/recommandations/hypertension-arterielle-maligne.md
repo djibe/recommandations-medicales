@@ -39,7 +39,7 @@ Hypertension artérielle maligne
     2. sévère (= grade 3): PAS ≥ 180 mmHg ou PAD ≥ 110 mmHg
     3. Atteinte d'organe: rétinopathie hypertensive, microangiopathie, CIVD, encéphalopathie
 
-Autres urgences hypertensives: AVC, dissection aortique, [infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}), [insuffisance cardiaque aiguë]({{< relref "insuffisance-cardiaque-aigue.md" >}}), phéochromocytome, [pré-éclampsie]({{< relref "pre-eclampsie.md" >}}).
+Autres urgences hypertensives: AVC, dissection aortique, [infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}), [insuffisance cardiaque aiguë]({{% relref "insuffisance-cardiaque-aigue.md" %}}), phéochromocytome, [pré-éclampsie]({{% relref "pre-eclampsie.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -62,7 +62,7 @@ Autres urgences hypertensives: AVC, dissection aortique, [infarctus du myocarde]
   - Céphalées
   - Nausées/vomissements
   - Flou visuel, baisse d'acuité visuelle ou cécité (corticale)
-  - [Angor et douleur thoracique]({{< relref "syndrome-coronarien-chronique.md" >}})
+  - [Angor et douleur thoracique]({{% relref "syndrome-coronarien-chronique.md" %}})
   - Dyspnée
   - Douleurs abdominales
   - Polyuro-polydipsie
@@ -90,7 +90,7 @@ La 1^re^ cause organique est **rénale** (glomérulonéphrite, néphropathie sur
 - Néphropathie parenchymateuse
   - Néphropathie interstitielle
   - Maladie de système avec atteinte rénale  
-  Sclérodermie, [diabète]({{< relref "diabete-type-2.md" >}}), micro-angiopathie, lupus, vascularite.
+  Sclérodermie, [diabète]({{% relref "diabete-type-2.md" %}}), micro-angiopathie, lupus, vascularite.
   - Aplasie rénale
 - Rénovasculaire
   - Athérome
@@ -99,7 +99,7 @@ La 1^re^ cause organique est **rénale** (glomérulonéphrite, néphropathie sur
   - Péri-artérite noueuse
 - Endocrinienne
   - Syndrome de Conn
-  - [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}})
+  - [Syndrome de Cushing]({{% relref "syndrome-cushing.md" %}})
 - Médicamenteuse et toxique
   - Cocaïne
   - Arrêt de la prise de clonidine
@@ -107,11 +107,11 @@ La 1^re^ cause organique est **rénale** (glomérulonéphrite, néphropathie sur
   - EPO
   - ciclosporine
 Tumeurs
-  - [Cancer du rein]({{< relref "cancer-rein.md" >}})
+  - [Cancer du rein]({{% relref "cancer-rein.md" %}})
   - Tumeur de Wilms
-  - [Lymphome]({{< relref "lymphomes-non-hodgkiniens.md" >}})
+  - [Lymphome]({{% relref "lymphomes-non-hodgkiniens.md" %}})
 - Coarctation de l'aorte
-- [Éclampsie et pré-éclampsie]({{< relref "pre-eclampsie.md" >}})
+- [Éclampsie et pré-éclampsie]({{% relref "pre-eclampsie.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}

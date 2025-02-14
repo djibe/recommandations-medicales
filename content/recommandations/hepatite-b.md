@@ -24,18 +24,18 @@ todo = "dépistage VHB, insuff hépatocellulaire, AFEF 2020: TROD AgHBs isolés,
 {{%article-summary%}}
 
 - Le dépistage hépatite B, hépatite C et VIH doit être combiné (*HAS, AFEF*)
-- Le taux de transaminases ALAT est un marqueur de l'activité de l'hépatite B ({{< modal-btn modal-pageb >}}score Page-B{{< /modal-btn >}}) prédictif de [carcinome hépatocellulaire (CHC)]({{< relref "carcinome-hepatocellulaire.md" >}})
+- Le taux de transaminases ALAT est un marqueur de l'activité de l'hépatite B ({{< modal-btn modal-pageb >}}score Page-B{{< /modal-btn >}}) prédictif de [carcinome hépatocellulaire (CHC)]({{% relref "carcinome-hepatocellulaire.md" %}})
 - La prise en charge de l'hépatite B chronique est spécialisée
 - Vacciner contre l'hépatite B: rattrapage jusque 15 ans révolus et autres indications (voir *Personnes à vacciner*)
 - Vacciner tout l'entourage d'une personne avec hépatite B active
-- L'hépatite B aiguë est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
+- L'hépatite B aiguë est une [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Hépatite B
 : Maladie infectieuse du foie causée par le virus de l'hépatite B (VHB) à ADN. La transmission est sexuelle, par des fluides biologiques ou materno-fœtale. Les contaminations par échanges de seringues sont encore fréquents.
-: L'infection (ALAT normales) est le plus souvent asymptomatique, on parle d'hépatite lorsque les ALAT sont élevées. 0,1 à 1% des formes aiguës peuvent évoluer vers l'**hépatite fulminante**. De 2 à 10% des cas deviennent chroniques (90% pour les nouveaux-nés), avec risque de **cirrhose** (10-20 %) ou de **[carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}})** (CHC, 3-5%/an) même en l'absence de cirrhose (virus oncogène).  
+: L'infection (ALAT normales) est le plus souvent asymptomatique, on parle d'hépatite lorsque les ALAT sont élevées. 0,1 à 1% des formes aiguës peuvent évoluer vers l'**hépatite fulminante**. De 2 à 10% des cas deviennent chroniques (90% pour les nouveaux-nés), avec risque de **cirrhose** (10-20 %) ou de **[carcinome hépatocellulaire]({{% relref "carcinome-hepatocellulaire.md" %}})** (CHC, 3-5%/an) même en l'absence de cirrhose (virus oncogène).  
 Même en cas de disparition de l'AgHBs, un réactivation reste possible en cas d'immunosuppression par persistance d'ADN viral dans les hépatocytes.
 : Une co-infection par le virus de l'hépatite D est possible (< 2%).
 
@@ -62,7 +62,7 @@ Portage dit inactif: risque de réactivation (22% à 5 ans, immunodépression ++
 La prévalence de l'hépatite B chronique en France est estimée à 280.000 personnes (dont la moitié l'ignore) et tenue responsable de 1300 morts par an. 11% ont un diagnostic au stade de cirrhose.  
 Les DROM ont une forte prévalence.
 
-Seulement 36.180 personnes sont en [ALD]({{< relref "affection-longue-duree.md" >}}) pour une hépatite B chronique (2019).
+Seulement 36.180 personnes sont en [ALD]({{% relref "affection-longue-duree.md" %}}) pour une hépatite B chronique (2019).
 
 ### L'hépatite B dans le monde
 
@@ -105,9 +105,9 @@ Circonstances de découverte d'une hépatite B:
 
 - Incubation de 60 à 150 jours
 - Tableau d'hépatite aiguë
-  - Fatigue, anorexie, hépatalgie, syndrome pseudogrippal, [ictère]({{< relref "ictere.md" >}}) inconstant. Dure environ 2 semaines
+  - Fatigue, anorexie, hépatalgie, syndrome pseudogrippal, [ictère]({{% relref "ictere.md" %}}) inconstant. Dure environ 2 semaines
   - La sérologie révèle des Ag HBs et Ac anti-HBc positifs, transaminases 5-20 N
-  - L'hépatite B aiguë est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
+  - L'hépatite B aiguë est une [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})
 - Infection pauci-symptomatique: [fatigue](/tags/fatigue/)
 - Signes d'insuffisance hépato-cellulaire  
   {{< clinique/insuffisance-hepato-cellulaire >}}
@@ -146,7 +146,7 @@ Indications au dépistage de l'hépatite B:
 - Porteur du VHB dans l'entourage
 - Partenaires sexuels multiples
 - Drogues intraveineuses ou intranasales
-- [VIH]({{< relref "vih-sida.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}) ou autre [infection sexuellement transmissible](/tags/ist/) récente
+- [VIH]({{% relref "vih-sida.md" %}}), [hépatite C]({{% relref "hepatite-c.md" %}}) ou autre [infection sexuellement transmissible](/tags/ist/) récente
 
 > -- *CMIT 2023*
 
@@ -170,7 +170,7 @@ Indications à la vaccination hépatite B:
 - Entourage et partenaires de personne avec VHB actif
 - Prisonnier
 - Hépatopathie chronique
-- [Infection VIH]({{< relref "vih-sida.md" >}}) ou [VHC]({{< relref "hepatite-c.md" >}})
+- [Infection VIH]({{% relref "vih-sida.md" %}}) ou [VHC]({{% relref "hepatite-c.md" %}})
 - Professionnels/étudiants de certaines professions de santé (obligatoire, arrêtés du 15/03/1991 et 06/03/2017)
   - Médical: médecin, chirurgien-dentiste, pharmacien, sage-femme
   - Paramédical: infirmier, masseur-kinésithérapeute, pédicure-podologue, manipulateur d'électroradiologie médicale, aide-soignant, ambulancier, auxiliaire de puériculture, technicien en analyses biomédicales, assistant dentaire, thanatopracteur.
@@ -267,14 +267,14 @@ Adresser au spécialiste avec le bilan initial de l'hépatite B
   - PCR VHB  
     \+100.000 copies/mL pour hépatite chronique AgHBe+, +10.000 si AgHBe-.
 - Co-infections  
-  Sérologies **VHD**, [VHC]({{< relref "hepatite-c.md" >}}), [VHA]({{< relref "hepatite-a.md" >}}), [VIH]({{< relref "vih-sida.md" >}}).
+  Sérologies **VHD**, [VHC]({{% relref "hepatite-c.md" %}}), [VHA]({{% relref "hepatite-a.md" %}}), [VIH]({{% relref "vih-sida.md" %}}).
 - NFS
 - ASAT, ALAT, GGT, PAL, bilirubine  
   Seuils ALAT (UI/L) de l'*AASLD*: H 35 | F 25. ALAT > 2N est une indication à traiter.
 - TP
 - Créatininémie, albuminémie
 - Ferritinémie
-- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}}) (TODO: vérifier)
+- [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}}) (TODO: vérifier)
 - [TSH](/tags/tsh/)
 - Anticorps anti-TPO, anti-nucléaires, anti-muscle lisse, anti-LKM1
 - Glycémie à jeun
@@ -295,17 +295,17 @@ Les tests sanguins ({{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}, F
 
 **Objectifs de la prise en charge de l'hépatite B**: disparition de l'ADN du virus de l'hépatite B, normalisation voire régression des anomalies biologiques et histologiques, obtention d'une séroconversion HBe et séroconversion HBs (plus rare).
 
-- Déclarer l'[ALD n°6]({{< relref "affection-longue-duree.md" >}})  
+- Déclarer l'[ALD n°6]({{% relref "affection-longue-duree.md" %}})  
   Indications: AgHBs+ avec > 2000 copies/mL ou cytolyse et nécessité d'un traitement antiviral ou de suivi prolongé, séquelles graves.
 - Adresser au spécialiste pour initier un traitement  
   {{%class%}}Interféron alpha-2a/b, pégylé alpha-2a, lamivudine, adéfovir, entecavir, telbivudine, tenofovir.{{%/class%}}
 - Préservatif obligatoire
 - Vaccination
   - Dépistage et **vaccination VHB de l'entourage**
-  - [VHA]({{< relref "hepatite-a.md" >}}) avec sérologie préalable
+  - [VHA]({{% relref "hepatite-a.md" %}}) avec sérologie préalable
   - Pneumocoque
-  - [Grippe annuelle]({{< relref "grippe.md" >}})
-- [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}}) et du [tabac]({{< relref "arret-tabac.md" >}})
+  - [Grippe annuelle]({{% relref "grippe.md" %}})
+- [Arrêt de l'alcool]({{% relref "sevrage-alcool.md" %}}) et du [tabac]({{% relref "arret-tabac.md" %}})
 - Correction d'un surpoids
 - Information du patient: [guide AFEF](https://afef.asso.fr/hepatite-b/)
 - Association de patients: [SOS hépatites](https://soshepatites.org)
@@ -356,7 +356,7 @@ Suivi minimum des patients AgHBs + non traités, en l'absence de, cirrhose et en
 
 ### Dépistage du carcinome hépatocellulaire
 
-Indications au [dépistage du carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}}) (CHC): hépatopathie avancée ou à risque (antécédent de CHC au 1^er^ degré, {{< modal-btn modal-pageb >}}score Page-B ≥ 10{{< /modal-btn >}}).
+Indications au [dépistage du carcinome hépatocellulaire]({{% relref "carcinome-hepatocellulaire.md" %}}) (CHC): hépatopathie avancée ou à risque (antécédent de CHC au 1^er^ degré, {{< modal-btn modal-pageb >}}score Page-B ≥ 10{{< /modal-btn >}}).
 
 Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler.
 {{%/info%}}

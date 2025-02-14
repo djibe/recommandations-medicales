@@ -44,7 +44,7 @@ Autres diagnostics à étayer devant un gonflement localisé d'un membre:
 
 - Épanchement articulaire
 - Arthrite septique ou microcristalline
-- [Érysipèle]({{< relref "erysipele.md" >}}), cellulite
+- [Érysipèle]({{% relref "erysipele.md" %}}), cellulite
 - Syndrome de Morel-Lavallée
 {.list-group}
 
@@ -61,8 +61,8 @@ Le diagnostic de bursite superficielle est le plus souvent **clinique** mais la 
 La bursite microtraumatique est classiquement indolore et sans signes inflammatoires.
 
 - Homme (80%)
-- Antécédents: maladie inflammatoire ([PR]({{< relref "polyarthrite-rhumatoide.md" >}}), [spondylarthrite]({{< relref "spondylarthrite-ankylosante.md" >}}), rhumatisme psoriasique, [goutte]({{< relref "goutte.md" >}}), [rhumatisme à PPC]({{< relref "rhumatisme-pyrophosphate-chondrocalcinose.md" >}})), trouble de l'hémostase, immunodépression (diabète, maladie rénale, alcool)
-- Traitements en cours: anticoagulants, [corticoïdes]({{< relref "corticoides.md" >}}), immunodépresseur
+- Antécédents: maladie inflammatoire ([PR]({{% relref "polyarthrite-rhumatoide.md" %}}), [spondylarthrite]({{% relref "spondylarthrite-ankylosante.md" %}}), rhumatisme psoriasique, [goutte]({{% relref "goutte.md" %}}), [rhumatisme à PPC]({{% relref "rhumatisme-pyrophosphate-chondrocalcinose.md" %}})), trouble de l'hémostase, immunodépression (diabète, maladie rénale, alcool)
+- Traitements en cours: anticoagulants, [corticoïdes]({{% relref "corticoides.md" %}}), immunodépresseur
 - Dernier rappel tétanique
 - Alcool
 - Profession

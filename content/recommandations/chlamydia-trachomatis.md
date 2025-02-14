@@ -25,14 +25,14 @@ modele = true
 {{%article-summary%}}
 
 - *Chlamydia trachomatis* est une bactérie intracellulaire de transmission sexuelle pouvant se compliquer de stérilité, grossesse extra-utérine et algies pelviennes chroniques
-- Dépister largement *Chlamydia* (gratuit avant 26 ans, voir *Qui dépister ?*) et tous les 3 à 6 mois chez [les HSH]({{< relref "hsh.md" >}})
+- Dépister largement *Chlamydia* (gratuit avant 26 ans, voir *Qui dépister ?*) et tous les 3 à 6 mois chez [les HSH]({{% relref "hsh.md" %}})
 - Bilan de la suspicion d'infection: PCR *Chlamydia trachomatis* sur auto-prélèvement vaginal ou premier jet d'urine pour les hommes. Le prélèvement est couplé au dépistage du gonocoque et doit concerner d'éventuels d'autres sites selon les pratiques (pharynx, anus)
 - Prise en charge par des *Chlamydia*:
   - Antibiothérapie doxycycline 100 mg x 2/j pendant 7 jours OU azithromycine 1g dose unique avec traitement du partenaire et préservatif pendant 7 jours
   - Dépistage des [autres infections sexuellement transmissibles (IST)](/tags/ist/) et des partenaires des 12 derniers mois
   - Contrôle de l'éradication des *Chlamydia* à 6 mois par de nouveaux prélèvements
 
-Chapitres liés: [urétrite et orchi-épididymite]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}), [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}})
+Chapitres liés: [urétrite et orchi-épididymite]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}}), [PrEP]({{% relref "prophylaxie-preexposition-prep.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -81,10 +81,10 @@ Dépister systématiquement *Chlamydiae trachomatis* chez:
     - Antécédent d'[infection sexuelle](/tags/ist/)
     - Prostitution
     - Viol
-3. Femme consultant pour [IVG]({{< relref "interruption-volontaire-grossesse.md" >}})
-4. Homme ayant des rapports sexuels avec des hommes ([HSH]({{< relref "hsh.md" >}}))
-5. Avant pose de DIU en [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) (*HAS 2019*)
-6. Considérer une sérologie *Chlamydia* en cas d'[infertilité]({{< relref "infertilite-couple.md" >}}) (*ESHRE 2023*)
+3. Femme consultant pour [IVG]({{% relref "interruption-volontaire-grossesse.md" %}})
+4. Homme ayant des rapports sexuels avec des hommes ([HSH]({{% relref "hsh.md" %}}))
+5. Avant pose de DIU en [contraception d'urgence]({{% relref "contraception-urgence.md" %}}) (*HAS 2019*)
+6. Considérer une sérologie *Chlamydia* en cas d'[infertilité]({{% relref "infertilite-couple.md" %}}) (*ESHRE 2023*)
 
 ### Comment dépister *Chlamydiae trachomatis* ?
 
@@ -105,22 +105,22 @@ Signes et symptômes des infections à *Chlamydia trachomatis* selon le sexe.
 
 - Incubation 5-14 jours
 - **Asymptomatique** (70%)
-- [Cervicite]({{< relref "uretrite-vaginite.md" >}})  
+- [Cervicite]({{% relref "uretrite-vaginite.md" %}})  
   Leucorrhées jaunes/blanches, cystalgies (douleurs de vessie), syndrome urétral, dyspareunie, spotting.
-- [Salpingite]({{< relref "infections-genitales-hautes.md" >}}) et douleurs pelviennes chroniques  
+- [Salpingite]({{% relref "infections-genitales-hautes.md" %}}) et douleurs pelviennes chroniques  
   Majoritairement subaiguë ou chronique, douleurs abdominales augmentées pendant les règles.
 - Grossesse extra-utérine
-- [Stérilité]({{< relref "infertilite-couple.md" >}})
+- [Stérilité]({{% relref "infertilite-couple.md" %}})
 
 ### Signes de Chlamydia chez l'homme
 
 - Incubation 5-10 jours
 - **Asymptomatique** (50%)
-- [Urétrite]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}})  
+- [Urétrite]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}})  
   Écoulement clair, modéré, intermittent.
-- [Épididymite aiguë]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}})
-- [HSH]({{< relref "hsh.md" >}}) et Chlamydia  
-  Lymphogranulomatose vénérienne (LGV, co-infection VIH 76%) et ano-rectites à Chlamydia, [co-infection VIH]({{< relref "vih-sida.md" >}}) 30%.
+- [Épididymite aiguë]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}})
+- [HSH]({{% relref "hsh.md" %}}) et Chlamydia  
+  Lymphogranulomatose vénérienne (LGV, co-infection VIH 76%) et ano-rectites à Chlamydia, [co-infection VIH]({{% relref "vih-sida.md" %}}) 30%.
 - Syndrome de Fiessinger-Leroy-Reiter
   - Dans les suites d'une urétrite
   - Conjonctivite bilatérale
@@ -136,7 +136,7 @@ Prise en charge des infections à *Chlamydia trachomatis* selon les résultats d
 
 ### Dépistage négatif
 
-**Dépistage annuel** de *Chlamydiae trachomatis* si rapports non protégés avec un nouveau partenaire (tous les 3-6 mois chez les [HSH]({{< relref "hsh.md" >}})).
+**Dépistage annuel** de *Chlamydiae trachomatis* si rapports non protégés avec un nouveau partenaire (tous les 3-6 mois chez les [HSH]({{% relref "hsh.md" %}})).
 
 ### Dépistage *Chlamydia* positif
 
@@ -153,10 +153,10 @@ PCR de contrôle à 6 mois
 - Traiter simultanément le partenaire
 - Préservatif pendant 7 jours
 - Consultation de contrôle à J7 pour guérison clinique, résultats du bilan IST et conseils de prévention
-- [HSH]({{< relref "hsh.md" >}}): PCR répétées tous les **3-6 mois**
+- [HSH]({{% relref "hsh.md" %}}): PCR répétées tous les **3-6 mois**
 - Contacter les partenaires des 12 derniers mois
 - Dépistage des autres [IST](/tags/ist/)  
-  Gonocoque, trichomonase, [syphilis]({{< relref "syphilis.md" >}}), [VIH]({{< relref "vih-sida.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}).
+  Gonocoque, trichomonase, [syphilis]({{% relref "syphilis.md" %}}), [VIH]({{% relref "vih-sida.md" %}}), [hépatite C]({{% relref "hepatite-c.md" %}}).
 - Statut vaccinal hépatite B ± vaccination VHB  
   Indication: << Personnes ayant des relations sexuelles avec des partenaires multiples, exposées aux IST ou ayant une IST en cours ou récente >> (*Calendrier vaccinal*).
 

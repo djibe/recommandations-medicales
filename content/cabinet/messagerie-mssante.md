@@ -27,7 +27,7 @@ Plusieurs opérateurs ont été homologués pour échanger des messages sur ce r
 {{% /collapse %}}
 {{%collapse "Créer une adresse MSSanté" %}}
 
-Gratuit pour tous les médecins: [https://mailiz.mssante.fr/](https://mailiz.mssante.fr/). Se connecter avec la carte CPS ou [e-CPS]({{< relref "e-cps.md" >}}) et suivre le processus de création.
+Gratuit pour tous les médecins: [https://mailiz.mssante.fr/](https://mailiz.mssante.fr/). Se connecter avec la carte CPS ou [e-CPS]({{% relref "e-cps.md" %}}) et suivre le processus de création.
 
 L'identité utilisée correspond à celle avec laquelle vous êtes enregistrés au Conseil de l'Ordre.
 

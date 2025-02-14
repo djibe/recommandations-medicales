@@ -31,7 +31,7 @@ flowchart = true
 - Survient-elle de façon isolée ou sur une cardiopathie ?
 - Réévaluer régulièrement les {{< modal-btn modal-chads >}}risques embolique avec le score CHA~2~DS~2~-VA{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}hémorragique HAS-BLED{{< /modal-btn >}}, symptômes, facteurs favorisants
 - Selon le {{< modal-btn modal-chads >}}risque embolique{{< /modal-btn >}}: {{< modal-btn modal-aod >}}anticoagulant oral direct (AOD){{< /modal-btn >}} ou absence d'anticoagulant...
-- voire [antivitamine K (AVK)]({{< relref "avk.md" >}}) si valve mécanique ou sténose mitrale modérée à sévère
+- voire [antivitamine K (AVK)]({{% relref "avk.md" %}}) si valve mécanique ou sténose mitrale modérée à sévère
 - Prise en charge de la fibrillation auriculaire: suivi cardiologique, {{< modal-btn modal-bradycardisant >}}ralentir la fréquence cardiaque < 80 bpm{{< /modal-btn >}} au repos, Holter-ECG
 - Parfois anti-arythmiques pour prévenir la récidive. Contrôler leurs contre-indications
 
@@ -45,7 +45,7 @@ Fibrillation atriale (FA ou ACFA)
 : Tachyarythmie supraventriculaire irrégulière caractérisée par une activation atriale anarchique (400-600/min) désorganisant la fonction mécanique des atriums. Le flux sanguin est limité avec constitution de thrombus pouvant être libérés sous forme d'emboles artériels. Toutes les cardiopathies peuvent se compliquer de fibrillation atriale.  
 Le nœud atrio-ventriculaire filtre la conduction à 130-180/min sans accélération à l'effort.
 : Le diagnostic est électrocardiographique: intervalles R-R irréguliers, absence d'ondes P et trémulation de la ligne de base sur ECG 12 dérivations ou simple dérivation pendant ≥ 30s.
-: Gravité de la fibrillation atriale par son **risque thrombo-embolique** (TE, AVC x 5) qui est identique pour toutes les formes cliniques de FA (paroxystique, persistante, permanente) et le risque d'**[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})**.
+: Gravité de la fibrillation atriale par son **risque thrombo-embolique** (TE, AVC x 5) qui est identique pour toutes les formes cliniques de FA (paroxystique, persistante, permanente) et le risque d'**[insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})**.
 
 FA clinique
 : Fibrillation atriale symptomatique ou non, documentée par ECG. Enquête: isolée ou sur cardiopathie ?
@@ -94,11 +94,11 @@ Inhibiteurs calciques non dihydropyridiniques: diltiazem ou vérapamil.
 ### Complications de la fibrillation atriale
 
 - Mortalité x 1,5-3,5
-- [Accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}}) (x5)
-- [Insuffisance cardiaque]({{< relref "embolie-pulmonaire.md" >}})
+- [Accident vasculaire cérébral]({{% relref "accident-vasculaire-cerebral.md" %}}) (x5)
+- [Insuffisance cardiaque]({{% relref "embolie-pulmonaire.md" %}})
 - Embolie
 - Démence (+40%)
-- [Dépression]({{< relref "depression.md" >}})
+- [Dépression]({{% relref "depression.md" %}})
 - Altération de la qualité de vie
 - Hospitalisations (10-40%/an)
 
@@ -109,23 +109,23 @@ Inhibiteurs calciques non dihydropyridiniques: diltiazem ou vérapamil.
 - Mode de vie
   - Inactivité ou activité physique intense
   - Hypercholestérolémie
-  - [Alcool]({{< relref "sevrage-alcool.md" >}})
-  - [Tabac]({{< relref "arret-tabac.md" >}})
-  - [Obésité]({{< relref "obesite-adulte.md" >}})
+  - [Alcool]({{% relref "sevrage-alcool.md" %}})
+  - [Tabac]({{% relref "arret-tabac.md" %}})
+  - [Obésité]({{% relref "obesite-adulte.md" %}})
 - Maladies cardiovasculaires
-  - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
-  - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) (x1,7)
-  - [Diabète]({{< relref "diabete-type-2.md" >}}) (x2)
+  - [Insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}})
+  - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) (x1,7)
+  - [Diabète]({{% relref "diabete-type-2.md" %}}) (x2)
   - Valvulopathie
-  - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
+  - [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})
   - Coronaropathie
-  - [Artériopathie]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
-  - [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
+  - [Artériopathie]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}})
+  - [Embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})
 - Causes extra-cardiaques
-  - [Apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
-  - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
+  - [Apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}})
+  - [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}})
   - Insuffisance respiratoire
-  - Maladie inflammatoire, [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
+  - Maladie inflammatoire, [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})
 - Pathologie aiguë
   - Infection, chirurgie
   - Hypokaliémie
@@ -165,7 +165,7 @@ Toute suspicion clinique de fibrillation atriale doit être confirmée au plus t
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} ± {{< scores/heartscore >}}
 - Épisode aigu récent  
   Fièvre, infection, manque de sommeil, réaction vagale, chirurgie, infarctus, péricardite.
-- Tabac, [alcool]({{< relref "sevrage-alcool.md" >}}), toxiques
+- Tabac, [alcool]({{% relref "sevrage-alcool.md" %}}), toxiques
 - Activité physique
 - Traitements en cours et {{< modal-btn modal-observance >}}observance{{< /modal-btn >}}  
   Pro-arythmiques: diurétiques, théophylline, salbutamol, triptan, AINS, bupropione, biphosphonate, oméga-3.
@@ -174,7 +174,7 @@ Toute suspicion clinique de fibrillation atriale doit être confirmée au plus t
   - Facteurs déclenchants
   - Durée des épisodes, mode de début et fin
   - Symptômes: {{< modal-btn modal-ehra >}}score EHRA{{< /modal-btn >}}  
-  **Dyspnée, palpitations, fatigue**, [angor/douleur thoracique]({{< relref "syndrome-coronarien-chronique.md" >}}), intolérance à l'effort, malaises, vertiges, [chutes](/tags/chute/), syncope, troubles du sommeil, anxiété, bouffées de chaleur.
+  **Dyspnée, palpitations, fatigue**, [angor/douleur thoracique]({{% relref "syndrome-coronarien-chronique.md" %}}), intolérance à l'effort, malaises, vertiges, [chutes](/tags/chute/), syncope, troubles du sommeil, anxiété, bouffées de chaleur.
 - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}} (50%) TODO: pas de questionnaire
 
 ### Examen clinique
@@ -222,7 +222,7 @@ Envisager un ECG de dépistage systématique à partir de 75 ans (ou avec dispos
 - TP, TCA
 - TSH
 - Bilan hépatique
-- Ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
+- Ferritine (voir [hémochromatose]({{% relref "hemochromatose.md" %}}))
 - Point d'appel: CRP, troponine, albuminémie, BU
 - Si digoxine: digoxinémie
 
@@ -230,7 +230,7 @@ Envisager un ECG de dépistage systématique à partir de 75 ans (ou avec dispos
 
 - Automesure tensionnelle ou MAPA
 - Radiographie thoracique (non systématique selon l'ESC)
-- [Polygraphie ventilatoire]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) si FA symptomatique
+- [Polygraphie ventilatoire]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) si FA symptomatique
 
 {{% /collapse %}}
 {{%collapse "Risque embolique CHA2DS2-VA et de saignement" %}}
@@ -257,7 +257,7 @@ Recommandations générales pour la prise en charge de la fibrillation atriale:
 
 - Traitement à vie et {{< modal-btn modal-observance >}}observance{{< /modal-btn >}} +++
 - Facteurs favorisants
-  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
   - Réduction de l'alcool
   - Hypertension artérielle
   - Correction d'un surpoids, chirurgie bariatrique si IMC ≥ 40
@@ -275,14 +275,14 @@ Recommandations générales pour la prise en charge de la fibrillation atriale:
   - FC < 80 bpm: {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} + ICa-DHP/thiazidique > + ICa-DHP + thiazidique
 - Vaccinations: grippe-Covid saisonniers, VRS (NR)
 - Éducation thérapeutique du patient et son entourage (min tous les 6 mois)
-- Déclarer l'[ALD n°5]({{< relref "affection-longue-duree.md" >}})  
+- Déclarer l'[ALD n°5]({{% relref "affection-longue-duree.md" %}})  
   La FA régularisée sans salves n'est pas concernée.
 
 ### Anticoagulation
 
 Si {{< modal-btn modal-chads >}}indiqués{{< /modal-btn >}}, les anticoagulants oraux directs (**AOD**) sont recommandés en 1^re^ intention ({{< modal-btn modal-aod >}}liste des anticoagulants oraux directs{{< /modal-btn >}}).
 
-Les [AVK]({{< relref "avk.md" >}}) sont réservés aux patients porteurs de valve mécanique ou de sténose mitrale modérée à sévère.
+Les [AVK]({{% relref "avk.md" %}}) sont réservés aux patients porteurs de valve mécanique ou de sténose mitrale modérée à sévère.
 
 Réévaluer fréquemment le risque de saignement avec le {{< modal-btn modal-hasbled >}}score HAS-BLED{{< /modal-btn >}}.
 
@@ -291,16 +291,16 @@ Réévaluer fréquemment le risque de saignement avec le {{< modal-btn modal-has
 - Hémorragie active importante
 - Hémorragie récente majeure (intra-crânienne...)
 - Thrombopénie < 50.000/mm³
-- [Anémie]({{< relref "anemie.md" >}}) non expliquée
+- [Anémie]({{% relref "anemie.md" %}}) non expliquée
 
 > [!WARNING]
-> Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel sauf [post-SCA]({{< relref "syndrome-coronarien-aigu.md" >}})) et AINS.
+> Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel sauf [post-SCA]({{% relref "syndrome-coronarien-aigu.md" %}})) et AINS.
 
 Adaptation à la fonction rénale selon {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} (*GIHP/SFAR/SFTH/SFMV 2024*).
 
 #### Antivitamines K (AVK)
 
-Indications aux AVK: systématique si FA (quel que soit le type) avec **valve mécanique** ou **sténose mitrale** modérée à sévère([voir le chapitre AVK]({{< relref "avk.md" >}})).
+Indications aux AVK: systématique si FA (quel que soit le type) avec **valve mécanique** ou **sténose mitrale** modérée à sévère([voir le chapitre AVK]({{% relref "avk.md" %}})).
 
 - INR cible selon la prothèse ou entre 2 et 3
 - AVK avec temps dans la cible ≥ 70%
@@ -365,7 +365,7 @@ ECG de contrôle de 1-2 semaines (1 mois pour l'amiodarone)
 
 Sous amiodarone: TSH à 3 mois puis tous les 6-12 mois jusqu'à 1 an après l'arrêt du traitement (avec bilan hépatique -- *HAS 2022*).
 
-Une TSH augmentée n'est pas une indication à arrêter le traitement (prise en charge de l'[hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md" >}}) ou [avérée]({{< relref "hypothyroidie.md" >}})).
+Une TSH augmentée n'est pas une indication à arrêter le traitement (prise en charge de l'[hypothyroïdie fruste]({{% relref "hypothyroidie-fruste.md" %}}) ou [avérée]({{% relref "hypothyroidie.md" %}})).
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

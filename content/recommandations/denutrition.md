@@ -57,8 +57,8 @@ Situations et facteurs de risque de dénutrition:
 - Escarre
 - Toxicomanie
 - Démence et maladie neuropsychiatrique  
-  Anorexie mentale, [Alzheimer]({{< relref "maladie-alzheimer.md" >}}), [Parkinson]({{< relref "maladie-parkinson.md" >}}).
-- Troubles de déglutition et bucco-dentaires (dont [candidose]({{< relref "mycoses-dermatophytes-candidoses.md" >}}))
+  Anorexie mentale, [Alzheimer]({{% relref "maladie-alzheimer.md" %}}), [Parkinson]({{% relref "maladie-parkinson.md" %}}).
+- Troubles de déglutition et bucco-dentaires (dont [candidose]({{% relref "mycoses-dermatophytes-candidoses.md" %}}))
 - Précarité
 - Régime restrictif
 
@@ -253,7 +253,7 @@ Voir les outils dans la section précédente.
 - Capacité à se relever en étant accroupi, fatigabilité
 - Œdèmes déclives, ascite (hypoalbuminémie)
 - État bucco-dentaire
-- État cutané et phanères: xérose cutanée, pli cutané, ongles et cheveux secs et cassants, lèvres (chéilite, [perlèche]({{< relref "mycoses-dermatophytes-candidoses.md" >}})) et langue (glossite)
+- État cutané et phanères: xérose cutanée, pli cutané, ongles et cheveux secs et cassants, lèvres (chéilite, [perlèche]({{% relref "mycoses-dermatophytes-candidoses.md" %}})) et langue (glossite)
 - Faciès et palpation des masses musculaires
 
 Les mesures anthropométriques nécessitent un équipement dédié.
@@ -262,7 +262,7 @@ Les mesures anthropométriques nécessitent un équipement dédié.
 
 ### Examens biologiques
 
-- NFS ([lymphopénie]({{< relref "lymphopenie.md" >}})), CRP (syndrome inflammatoire)
+- NFS ([lymphopénie]({{% relref "lymphopenie.md" %}})), CRP (syndrome inflammatoire)
 - Bandelette urinaire
 - Créatininurie des 24 heures  
   Reflet de la masse musculaire. 1 g/24h = 17-20 kg de masse musculaire

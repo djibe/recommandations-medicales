@@ -30,7 +30,7 @@ flowchart = true
 - En cas de diagnostic d'épisode dépressif caractérisé: évaluer la sévérité ({{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, Beck, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}), le risque suicidaire, les comorbidités (et dépister une {{< modal-btn modal-gad2 >}}anxiété{{< /modal-btn >}}), toxiques, le handicap.  
   Avec l'accord du patient, interroger l'entourage.
 - Bilan de la dépression: NFS, ionogramme, calcémie, bilan hépatique, glycémie, TSH, ± toxiques urinaires, apnées du sommeil
-- La prise en charge de la dépression associe toujours: {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} ou thérapies cognitivo-comportementales (TCC) (voir [Mon soutien psy]({{< relref "remboursement-psychologue-monsoutienpsy.md" >}}) pour le remboursement), activités physiques et sociales, rythme de vie, information du patient (dont lignes d'écoute)
+- La prise en charge de la dépression associe toujours: {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} ou thérapies cognitivo-comportementales (TCC) (voir [Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}) pour le remboursement), activités physiques et sociales, rythme de vie, information du patient (dont lignes d'écoute)
 - Traitement antidépresseur de la dépression: {{< modal-btn modal-isrs >}}inhibiteur sélectif de la recapture de la sérotonine{{< /modal-btn >}} (ISRS) ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}} en première intention, à envisager pour un EDC d'intensité modérée et systématique si sévère
 - Consultation psychiatrique en cas de diagnostic incertain, comorbidités psychiatriques, suspicion de maladie bipolaire ou psychose, dépression sévère ou résistante
 
@@ -108,7 +108,7 @@ VA
 
 Échelles d'évaluation de la dépression citées par la *HAS 2017* sauf mention contraire.
 
-En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{< relref "cotations-generaliste.md" >}}) (69,12 €).
+En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{% relref "cotations-generaliste.md" %}}) (69,12 €).
 
 <div class="card card-hover card-tab my-3 my-xl-5">
   <ul class="nav nav-tabs nav-justified mb-4" role="tablist">
@@ -124,7 +124,7 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{<
 - {{< modal-btn modal-phq2 >}}Questionnaire PHQ-2{{< /modal-btn >}}
 - {{< modal-btn modal-phq4 >}}Questionnaire PHQ-4{{< /modal-btn >}} (couplé au repérage d'une anxiété -- *ACP 2019*)
 - Adolescent (13-20 ans): {{< modal-btn modal-adrs >}}questionnaire ADRS{{< /modal-btn >}}
-- [Post-partum]({{< relref "post-partum.md" >}}): {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou [questionnaire d'Edinburgh EPDS](https://www.hug.ch/sante-psychique-perinatalite/comment-depister-depression-perinatale-quizz-epds)
+- [Post-partum]({{% relref "post-partum.md" %}}): {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou [questionnaire d'Edinburgh EPDS](https://www.hug.ch/sante-psychique-perinatalite/comment-depister-depression-perinatale-quizz-epds)
 
 </div>
 <div class="tab-pane fade" id="nav-diagnostic" role="tabpanel" aria-labelledby="nav-tab-diagnostic">
@@ -239,7 +239,7 @@ L'évaluation de la sévérité repose sur le nombre de critères, la sévérit�
   - Trouble de la personnalité
 - Usage, abus, dépendance et sevrage de médicaments
 - Usage, abus, dépendance et sevrage de substances psychoactives
-- Maladies somatiques: endocrinienne ([hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [Cushing]({{< relref "syndrome-cushing.md" >}})), maladie neurodégénérative, neurologique (tumeur, SEP, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}))
+- Maladies somatiques: endocrinienne ([hypothyroïdie]({{% relref "hypothyroidie.md" %}}), [Cushing]({{% relref "syndrome-cushing.md" %}})), maladie neurodégénérative, neurologique (tumeur, SEP, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}))
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -284,7 +284,7 @@ Les symptômes doivent être présents depuis au moins 15 jours avec changement 
     - [Fatigue](/tags/fatigue/)
     - Conduites alimentaires  
       Anorexie voire hyperphagie, grignotage, appétence sucrée.
-    - **Troubles de la sexualité** (baisse de libido, érections matinales, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}), féminine)
+    - **Troubles de la sexualité** (baisse de libido, érections matinales, [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}), féminine)
   - Symptômes psychotiques: hallucinations, délire
   - Maintien des activités quotidiennes: hygiène, alimentation
   - Sévérité de l'épisode dépressif: léger, modérée, sévère ({{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}})
@@ -296,7 +296,7 @@ Les symptômes doivent être présents depuis au moins 15 jours avec changement 
   - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - Retentissement socio-professionnel
 - **Évaluation du risque suicidaire**
-- Sujet âgé: rechercher une maladie neuro-dégénérative ([Alzheimer]({{< relref "maladie-alzheimer.md" >}}), Parkinson), {{< scores/mmse >}}
+- Sujet âgé: rechercher une maladie neuro-dégénérative ([Alzheimer]({{% relref "maladie-alzheimer.md" %}}), Parkinson), {{< scores/mmse >}}
 - Enfant: irritabilité, baisse des performances scolaires, variations de poids
 
 Avec l'accord du patient, interroger l'entourage.
@@ -440,7 +440,7 @@ Bilan à la recherche de diagnostic différentiel:
 - Bilan hépatique
 - [TSH](/tags/tsh/)
 - ± Toxiques urinaires
-- Homme avec au moins 3 symptômes sexuels (libido, érections, impuissance ...): [testostérone libre ou biodisponible]({{< relref "andropause-deficit-testosterone.md" >}}) (*AFU/SFMS 2021*)
+- Homme avec au moins 3 symptômes sexuels (libido, érections, impuissance ...): [testostérone libre ou biodisponible]({{% relref "andropause-deficit-testosterone.md" %}}) (*AFU/SFMS 2021*)
 
 > -- *CNUP*
 
@@ -449,7 +449,7 @@ Bilan à la recherche de diagnostic différentiel:
 {{% /collapse %}}
 {{%collapse "Traitement de la dépression de l'adulte" %}}
 
-La prise en charge de la dépression nécessite des consultations dédiées. Pour le remboursement (rare) de la prise en charge de la psychothérapie, voir [Mon soutien psy]({{< relref "remboursement-psychologue-monsoutienpsy.md" >}}).
+La prise en charge de la dépression nécessite des consultations dédiées. Pour le remboursement (rare) de la prise en charge de la psychothérapie, voir [Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}).
 {.alert .alert-info}
 
 #### Recommandations pour la prise en charge de la dépression selon sa sévérité
@@ -509,7 +509,7 @@ Classes thérapeutiques d'antidépresseurs: {{< modal-btn modal-isrs >}}ISRS{{< 
   << l'utilisation d'antidépresseurs pendant la grossesse n'augmente pas le risque de troubles du développement neurologique chez l'enfant >> (*Suarez et al 2022*).
 - Délai d'action plus long chez le sujet âgé (maintenir minimum 1 an après rémission)
 - Thérapies autres: acupuncture (*ACP*)
-- Si anxiété, agitation, insomnies invalidantes: [benzodiazépine]({{< relref "benzodiazepines.md" >}}) pendant 2 semaines
+- Si anxiété, agitation, insomnies invalidantes: [benzodiazépine]({{% relref "benzodiazepines.md" %}}) pendant 2 semaines
 - Arrêt progressif de l'antidépresseur (> 1 mois -- *BAP*, *NICE*) après décision partagée au-delà de 6-12 mois de rémission  
   Prolonger le traitement (2 ans) en cas de trouble dépressif récurrent.
 

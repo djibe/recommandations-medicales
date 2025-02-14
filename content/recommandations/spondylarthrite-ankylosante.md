@@ -53,7 +53,7 @@ Spondyloarthrite (SpA)
 - Amylose AA
 - Syndrome ventilatoire restrictif
 - Insuffisance aortique et troubles de la conduction (BAV)
-- [Ostéoporose]({{< relref "osteoporose.md" >}})
+- [Ostéoporose]({{% relref "osteoporose.md" %}})
 - Colonne bambou avec complications neurologiques
 
 ### Formes de spondyloarthrite
@@ -63,18 +63,18 @@ On distingue les:
 - Spondylarthrites axiales (radiographiques ou non)
 - Périphériques articulaires (érosives ou non)
 - Périphériques enthésitiques
-- Atteintes extra-rhumatologiques: [psoriasis cutané]({{< relref "psoriasis.md" >}}), uvéite, MICI
+- Atteintes extra-rhumatologiques: [psoriasis cutané]({{% relref "psoriasis.md" %}}), uvéite, MICI
 
 Spondylarthrite ankylosante (SpA)
 : Rhumatisme inflammatoire chronique potentiellement grave et handicapante survenant chez l'adulte jeune (< 35 ans).
 : Spondylarthrite la plus typique et la plus sévère. Atteinte rachidienne et sacro-iliaque conduisant à l'ankylose. Atteinte périphérique associée dans 50% des cas (uvéite surtout).
 
 Arthrites réactionnelles
-: Arthrites aseptiques associées à une conjonctivite, [urétrite homme]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}})/[cervicite femme]({{< relref "uretrite-vaginite.md" >}}).  
+: Arthrites aseptiques associées à une conjonctivite, [urétrite homme]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}})/[cervicite femme]({{% relref "uretrite-vaginite.md" %}}).  
 Survenue dans les semaines qui suivent une infection génitale ou digestive.  
 Au maximum *syndrome de Fiessinger-Leroy-Reiter* (triade arthrite-urétrite-conjonctivite).
 : Association au *HLA-B27*. Chronicisation dans 10-20% des cas voire évolution en SpA.
-: Germes impliqués: *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})*, *Shigella*, *Yersinia*, *Salmonella*, *Campylobacter*.
+: Germes impliqués: *[Chlamydia]({{% relref "chlamydia-trachomatis.md" %}})*, *Shigella*, *Yersinia*, *Salmonella*, *Campylobacter*.
 
 Spondylarthropaties indifférenciées
 : Remplissent les critères ESSG/Amor.
@@ -135,7 +135,7 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 Autres atteintes des spondylarthrites:
 
 - Uvéite antérieure
-- [Psoriasis]({{< relref "psoriasis.md" >}})
+- [Psoriasis]({{% relref "psoriasis.md" %}})
 - Balanite
 - Urétrite
 - Entéro-colopathie inflammatoire (diarrhée, amaigrissement)
@@ -153,7 +153,7 @@ Recherche systématique de MICI si diarrhée ou amaigrissement inexpliqué.
 - Dépistages recommandés et mise à jour du calendrier vaccinal
 - Mesure de la pression artérielle et symptômes cardio-vasculaires
 - Palpation des aires ganglionnaires
-- Facteurs de risque d'[ostéoporose et calcul du FRAX]({{< relref "osteoporose.md" >}})
+- Facteurs de risque d'[ostéoporose et calcul du FRAX]({{% relref "osteoporose.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques d'Amor de spondylarthropathie" %}}
@@ -250,13 +250,13 @@ L'IRM des sacro-iliaques et des rachis dorso-lombaires est importante pour un di
 Résumé des recommandations pour la prise en charge de la spondylarthrite:
 
 - Suivi spécialisé systématique par le rhumatologue
-- [Arrêt du tabac systématique ]({{< relref "arret-tabac.md" >}})  
+- [Arrêt du tabac systématique ]({{% relref "arret-tabac.md" %}})  
   {{%class%}}Augmente la sévérité de la maladie et facteur de moindre réponse aux anti-TNF.{{%/class%}}
 - Activité physique quotidienne
 - Contrôle du poids
   {{%class%}}L'obésité est facteur de résistance aux anti-TNF.{{%/class%}}
 - Comorbidités  
-  Cardio-vasculaires, [ostéoporose]({{< relref "osteoporose.md" >}}), [dépression]({{< relref "depression.md" >}}), anxiété (TODO:).
+  Cardio-vasculaires, [ostéoporose]({{% relref "osteoporose.md" %}}), [dépression]({{% relref "depression.md" %}}), anxiété (TODO:).
 - Anti-inflammatoires AINS  
   - AINS à libération prolongée en 1^re^ intention pour couvrir le dérouillage
   - Souvent rechute douloureuse en < 48h après leur arrêt
@@ -270,7 +270,7 @@ Résumé des recommandations pour la prise en charge de la spondylarthrite:
   - Travail d'amplitude respiratoire
   - Auto-exercices
 - Information et éducation du patient
-- [ALD n°27]({{< relref "affection-longue-duree.md" >}}) ± MDPH  
+- [ALD n°27]({{% relref "affection-longue-duree.md" %}}) ± MDPH  
   Critères: spondylarthrites ou apparentées justifiant un traitement de fond ou avec handicap lourd.
 - Soutien psychologique
 - Associations de patients  
@@ -362,12 +362,12 @@ Une amélioration doit être obtenue à 3 mois pour poursuivre une stratégie, a
 - Retentissement fonctionnel  
   Échelles BASFI, HAQ.
 - Atteintes extra-articulaires
-  - Cutané: [psoriasis]({{< relref "psoriasis.md" >}})
+  - Cutané: [psoriasis]({{% relref "psoriasis.md" %}})
   - Digestif: MICI
   - Ophtalmo: uvéite
 - Tolérance des traitements
 - Surveillance du risque cardio-vasculaire
-- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 ### Autres
 

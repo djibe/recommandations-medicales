@@ -32,34 +32,34 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme:
 - Maladie du charbon
 - Chikungunya
 - Choléra
-- [Covid-19]({{< relref "covid-19.md" >}}) (par le biologiste)
+- [Covid-19]({{% relref "covid-19.md" %}}) (par le biologiste)
 - Dengue
 - Diphtérie
 - Encéphalite à tiques
 - Fièvres hémorragiques africaines
-- [Fièvre jaune]({{< relref "fievre-jaune.md" >}})
+- [Fièvre jaune]({{% relref "fievre-jaune.md" %}})
 - Fièvres typhoïdes et paratyphoïdes
-- [Hépatite A aiguë]({{< relref "hepatite-a.md" >}})
-- [Infection invasive à méningocoque]({{< relref "meningite.md" >}})
-- [Infection aiguë symptomatique par le virus de l'hépatite B]({{< relref "hepatite-b.md" >}})
-- [Infection VIH]({{< relref "vih-sida.md" >}})
+- [Hépatite A aiguë]({{% relref "hepatite-a.md" %}})
+- [Infection invasive à méningocoque]({{% relref "meningite.md" %}})
+- [Infection aiguë symptomatique par le virus de l'hépatite B]({{% relref "hepatite-b.md" %}})
+- [Infection VIH]({{% relref "vih-sida.md" %}})
 - Légionellose
 - Leptospirose
 - Listériose
 - Mésothéliome
-- Orthopoxvirose, dont la variole ou [Monkeypox (variole du singe)]({{< relref "mpox.md" >}})
-- [Paludisme]({{< relref "paludisme.md" >}}) autochtone ou d'importation dans les départements d'Outre-mer
+- Orthopoxvirose, dont la variole ou [Monkeypox (variole du singe)]({{% relref "mpox.md" %}})
+- [Paludisme]({{% relref "paludisme.md" %}}) autochtone ou d'importation dans les départements d'Outre-mer
 - Peste
 - Poliomyélite
 - Rage
 - Rougeole
 - Rubéole
-- [Saturnisme]({{< relref "saturnisme.md" >}}) chez l'enfant mineur
+- [Saturnisme]({{% relref "saturnisme.md" %}}) chez l'enfant mineur
 - Schistosomiase (bilharziose) urogénitale autochtone
 - Suspicion de maladie de Creutzfeldt-Jakob et autres encéphalopathies subaiguës spongiformes transmissibles  humaines
 - Tétanos
 - TIAC
-- [Tuberculose]({{< relref "tuberculose.md" >}})
+- [Tuberculose]({{% relref "tuberculose.md" %}})
 - Tularémie
 - Typhus exanthématique
 - West Nile virus

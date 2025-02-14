@@ -144,12 +144,12 @@ L'examen clinique concerne chaque membre du couple.
 
 - Comorbidités: diabète, épilepsie, maladie auto-immune
 - Antécédents gynécologiques  
-  Gestité, parité, [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}), hyperprolactinémie, aménorrhée, infections génitales dont IST, [salpingite]({{< relref "infections-genitales-hautes.md" >}}), [endométriose]({{< relref "endometriose.md" >}}), [IVG]({{< relref "interruption-volontaire-grossesse.md" >}}), GEU, chirurgies pelviennes ([appendicectomie]({{< relref "appendicite-aigue.md" >}}), myomectomie).
+  Gestité, parité, [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}), hyperprolactinémie, aménorrhée, infections génitales dont IST, [salpingite]({{% relref "infections-genitales-hautes.md" %}}), [endométriose]({{% relref "endometriose.md" %}}), [IVG]({{% relref "interruption-volontaire-grossesse.md" %}}), GEU, chirurgies pelviennes ([appendicectomie]({{% relref "appendicite-aigue.md" %}}), myomectomie).
 - Antécédents masculins  
-  Fertilité antérieure, [cryptorchidie]({{< relref "cryptorchidie.md" >}}), [épididymite]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}), torsion du testicule, traumatisme ou [cancer du testicule]({{< relref "cancer-testicule.md" >}}), [hernie inguinale]({{< relref "hernie-parietale.md" >}}) dans l'enfance, oreillons, infections génito-urinaires, [IST](/tags/ist/), chimiothérapie, expositions professionnelles (boulanger, cuisinier, pesticides, solvants, radiations, sauna, hammam).
-- Antécédents familiaux (consanguinité, hypofertilité, médicaments pendant la grossesse, thrombophilie, [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}), mucoviscidose)
+  Fertilité antérieure, [cryptorchidie]({{% relref "cryptorchidie.md" %}}), [épididymite]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}}), torsion du testicule, traumatisme ou [cancer du testicule]({{% relref "cancer-testicule.md" %}}), [hernie inguinale]({{% relref "hernie-parietale.md" %}}) dans l'enfance, oreillons, infections génito-urinaires, [IST](/tags/ist/), chimiothérapie, expositions professionnelles (boulanger, cuisinier, pesticides, solvants, radiations, sauna, hammam).
+- Antécédents familiaux (consanguinité, hypofertilité, médicaments pendant la grossesse, thrombophilie, [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}), mucoviscidose)
 - Traitements en cours
-- Toxiques: [alcool]({{< relref "sevrage-alcool.md" >}}), [tabac]({{< relref "arret-tabac.md" >}}) (consommation, paquets-années), cannabis, autres
+- Toxiques: [alcool]({{% relref "sevrage-alcool.md" %}}), [tabac]({{% relref "arret-tabac.md" %}}) (consommation, paquets-années), cannabis, autres
 - Activité physique
 - Régime alimentaire, dépister un TCA ({{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}) (*HAS/FFAB 2019*)
 - Suivi gynécologique, dernier frottis cervico-vaginal
@@ -159,7 +159,7 @@ L'examen clinique concerne chaque membre du couple.
   {{< clinique/reserve-ovarienne >}}
 - Symptômes: dysménorrhée, douleurs pelviennes
 - Fréquence et distribution sur le cycle des rapports sexuels (fenêtre ovulatoire, troubles relationnels)
-- Troubles sexuels: dyspareunie, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) ou sexuelle ([éjaculation prématurée]({{< relref "ejaculation-prematuree.md" >}}) ...)
+- Troubles sexuels: dyspareunie, [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}) ou sexuelle ([éjaculation prématurée]({{% relref "ejaculation-prematuree.md" %}}) ...)
 - Situation de précarité, vulnérabilité
 - Vaccinations
 
@@ -188,12 +188,12 @@ L'*OMS* préconise le bilan **à partir du stade d'infertilité** (12 mois de ra
 ### Bilan de l'infertilité chez la femme
 
 - [TSH](/tags/tsh/)
-- Sérologies [VIH]({{< relref "vih-sida.md" >}}), [VHB]({{< relref "hepatite-b.md" >}}), [VHC]({{< relref "hepatite-c.md" >}}), [syphilis]({{< relref "syphilis.md" >}}), rubéole, toxoplasmose ± [varicelle]({{< relref "varicelle.md" >}})
+- Sérologies [VIH]({{% relref "vih-sida.md" %}}), [VHB]({{% relref "hepatite-b.md" %}}), [VHC]({{% relref "hepatite-c.md" %}}), [syphilis]({{% relref "syphilis.md" %}}), rubéole, toxoplasmose ± [varicelle]({{% relref "varicelle.md" %}})
 - Prélèvement vaginal
 - Échographie pelvienne endo-vaginale 3D à J2-J3
 - Si {{< modal-btn modal-reserve-ovarienne >}}signe de baisse de la réserve ovarienne{{< /modal-btn >}}: bilan hormonal (de J2 à J4): **FSH**, LH, œstradiol, AMH
 - Si AMP: bilan hormonal AMH de J2 à J4
-- Considérer: [sérologie *Chlamydia*]({{< relref "chlamydia-trachomatis.md" >}}), [sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}) (systématique selon *ESsCD* par IgA totales, IgA anti-transglutaminase)
+- Considérer: [sérologie *Chlamydia*]({{% relref "chlamydia-trachomatis.md" %}}), [sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (systématique selon *ESsCD* par IgA totales, IgA anti-transglutaminase)
 - Suspicion de pathologie tubo-pelvienne (GEU, appendicite compliquée, chirurgie pelvienne, maladie inflammatoire pelvienne, endométriose, *Chlamydia* ou hydrosalpynx):
   - Hystérosalpingographie (HSG) ou hystérosonographie en première partie de cycle  
     En première intention selon *CNGOF 2010*.
@@ -234,19 +234,19 @@ Adresser après 6 mois de rapports non protégés chez la femme après 35 ans ou
 
 Les mesures hygiéno-diététiques sont proposées pour le couple infertile:
 
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}), cannabis et de l'[alcool]({{< relref "sevrage-alcool.md" >}}) (< 5 U/semaine)
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}}), cannabis et de l'[alcool]({{% relref "sevrage-alcool.md" %}}) (< 5 U/semaine)
 - Réduire la consommation de café à moins de 5 tasses quotidiennes
 - Correction d'un surpoids
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Activité physique régulière
 - Femme:
   - Éviter les exercices physiques intenses, répétés et réguliers
-  - [Obésité]({{< relref "obesite-adulte.md" >}}) avec IMC 35-50: suivi par nutritionniste (*HAS 2023*)
+  - [Obésité]({{% relref "obesite-adulte.md" %}}) avec IMC 35-50: suivi par nutritionniste (*HAS 2023*)
   - Supplémentation en acide folique 0,4 mg/j
 - Homme: éviter les pantalons serrés, éviter la chaleur et les polluants organo-chlorés et pesticides
 - Rapports sexuels 1 jour sur 2 dans les 5 jours qui précèdent l'ovulation  
   Pas d'amélioration au-delà.
-- Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}})
+- Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}})
 
 Veiller à offrir **soutien psychologique** et psychothérapie.
 

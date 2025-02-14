@@ -29,7 +29,7 @@ flowchart = true
 - Dans l'attente du SAMU: installer en position adaptée, monitorer les constantes, rechercher un facteur déclenchant CHAMPIT (coronarien, hypertension, arythmie, souffle cardiaque, infection), anémie, phlébite
 - Électrocardiogramme (ECG) si disponible
 
-Chapitres liés: [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), [insuffisance cardiaque chronique]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [hypertension artérielle maligne]({{< relref "hypertension-arterielle-maligne.md" >}}), [embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
+Chapitres liés: [fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}), [insuffisance cardiaque chronique]({{% relref "insuffisance-cardiaque-chronique.md" %}}), [hypertension artérielle maligne]({{% relref "hypertension-arterielle-maligne.md" %}}), [embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -68,8 +68,8 @@ En attendant le SAMU, étayer les tableaux cliniques cardiaques possibles et ren
   - Décompensation aiguë d'insuffisance cardiaque chronique
   - Choc cardiogénique  
     PAS < 90 mmHg ou chute > 30 mmHg pendant ≥ 30 min, choc << froid >>, cyanose, marbrures, oligurie, sueurs, confusion.
-- Recherche de facteur de décompensation *CHAMPIT*: coronarien - hypertension - arythmie - mécanique (CIV, insuffisance mitrale aiguë) - [embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) - infection - tamponnade et anémie, phlébite
-- Joindre les [directives anticipées]({{< relref "directives-anticipees.md" >}})
+- Recherche de facteur de décompensation *CHAMPIT*: coronarien - hypertension - arythmie - mécanique (CIV, insuffisance mitrale aiguë) - [embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}) - infection - tamponnade et anémie, phlébite
+- Joindre les [directives anticipées]({{% relref "directives-anticipees.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

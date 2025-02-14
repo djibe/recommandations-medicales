@@ -27,7 +27,7 @@ flowchart = true
 - Un traitement du chalazion par corticoïde collyre ou pommade est possible en cas d'atteinte sévère, pendant 7 jours
 - Avis ophtalmologique en cas de forme atypique, retentissement visuel ou chronicisation du chalazion
 
-Chapitre lié: [orgelet]({{< relref "orgelet.md" >}})
+Chapitre lié: [orgelet]({{% relref "orgelet.md" %}})
 
 {{%/article-summary%}}
 

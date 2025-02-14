@@ -36,15 +36,15 @@ todo = "apps jet lag, long courrier"
 
 Voir les chapitres dédiés:
 
-- [Fièvre jaune]({{< relref "fievre-jaune.md" >}})
-- [Gale]({{< relref "gale.md" >}})
-- [Hépatite A]({{< relref "hepatite-a.md" >}})
-- [Hépatite B]({{< relref "hepatite-b.md" >}})
-- [Infections sexuellement transmissibles](/tags/ist/) et [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}})
-- [Paludisme]({{< relref "paludisme.md" >}})
-- [Photoprotection et mélanome]({{< relref "melanome.md" >}})
-- [Tiques et maladie de Lyme]({{< relref "maladie-lyme.md" >}})
-- [Tuberculose]({{< relref "tuberculose.md" >}})
+- [Fièvre jaune]({{% relref "fievre-jaune.md" %}})
+- [Gale]({{% relref "gale.md" %}})
+- [Hépatite A]({{% relref "hepatite-a.md" %}})
+- [Hépatite B]({{% relref "hepatite-b.md" %}})
+- [Infections sexuellement transmissibles](/tags/ist/) et [PrEP]({{% relref "prophylaxie-preexposition-prep.md" %}})
+- [Paludisme]({{% relref "paludisme.md" %}})
+- [Photoprotection et mélanome]({{% relref "melanome.md" %}})
+- [Tiques et maladie de Lyme]({{% relref "maladie-lyme.md" %}})
+- [Tuberculose]({{% relref "tuberculose.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Épidémiologie" %}}
@@ -67,7 +67,7 @@ Ordonnance rédigée en DCI et contenu selon les conditions de voyage. Transport
 - Moustiques
   - Répulsif anti-moustiques
   - Antimoustique pour imprégner les moustiquaires
-  - ± [Chimioprophylaxie anti-palustre]({{< relref "paludisme.md" >}})
+  - ± [Chimioprophylaxie anti-palustre]({{% relref "paludisme.md" %}})
 - Autres produits
   - Dosettes de sérum physiologique
   - Collyre antiseptique unidose
@@ -111,14 +111,14 @@ circulation accrue du virus chez l'animal), ou de saison des pluies
 du séjour, la destination précise ou les activités qui y seront pratiquées
 - Encéphalite à tiques: séjour en zone rurale ou boisée dans les régions d'endémie jusqu'à 1500 mètres ou consommation de lait cru, du printemps à l'automne  
   Risque négligeable en cas de séjour urbain strict sans lait cru.
-- [Méningite ACWY]({{< relref "meningite.md" >}}): le certificat doit mentionner *Meningococcal conjugate tetravalent ACWY vaccine*
+- [Méningite ACWY]({{% relref "meningite.md" %}}): le certificat doit mentionner *Meningococcal conjugate tetravalent ACWY vaccine*
 - Poliomyélite et voyage de +4 semaines en pays circulant ([liste](https://polioeradication.org/about-polio/polio-this-week/)): rappel recommandé 4 semaines à 12 mois avant avec Certificat international si souche PVS1, PVDVc1 ou PVDVc3  
   Le rappel vise à empêcher le portage asymptomatique.
 - Rougeole: un jeune voyageur peut être vacciné dès 6 mois (avec 2 rappels), 1 mois minimum entre 2 doses
 
 ### Vaccins contre-indiqués pendant la grossesse
 
-Les vaccins vivants sont contre-indiqués: rougeole/ROR, [varicelle]({{< relref "varicelle.md" >}}), [BCG]({{< relref "tuberculose.md" >}}).
+Les vaccins vivants sont contre-indiqués: rougeole/ROR, [varicelle]({{% relref "varicelle.md" %}}), [BCG]({{% relref "tuberculose.md" %}}).
 
 Le vaccin fièvre jaune est possible quel que soit le terme ([CRAT](https://www.lecrat.fr/9431/)).
 
@@ -158,7 +158,7 @@ Pour plus d'information, voir *Derstine et al* dans les *Sources*.
 ### Protection contre les animaux
 
 > [!WARNING]
-> Toute [morsure]({{< relref "morsure.md" >}}) ou piqûre avec symptômes locaux marqués ou généraux nécessite une consultation.
+> Toute [morsure]({{% relref "morsure.md" %}}) ou piqûre avec symptômes locaux marqués ou généraux nécessite une consultation.
 
 Les -15 ans représentent 40% des morsures à risque de rage.
 
@@ -206,7 +206,7 @@ Lorsque le risque disparaît: rincer à l'eau et au savon
 {{%collapse "Diarrhées du voyageur" %}}
 
 > [!WARNING]
-> En cas de diarrhée fébrile: évoquer un [accès palustre]({{< relref "paludisme.md" >}}) (enfant ++) et une fièvre typhoïde.
+> En cas de diarrhée fébrile: évoquer un [accès palustre]({{% relref "paludisme.md" %}}) (enfant ++) et une fièvre typhoïde.
 
 Diarrhée du voyageur
 : Émission d'au moins 3 selles non formées en 24 heures ou émission de selles plus fréquentes que d'habitude (nourrissons) durant ou au retour d'un voyage.
@@ -220,7 +220,7 @@ Le plus souvent la diarrhée est liée au péril fécal avec une origine bactér
 - Réhydratation précoce sans attendre la soif  
   - Alterner liquides sucrés et salés, SRO
   - Petites doses régulières si vomissements (cuillère à soupe)
-  - Poursuivre l'[allaitement maternel]({{< relref "allaitement.md" >}})
+  - Poursuivre l'[allaitement maternel]({{% relref "allaitement.md" %}})
 - Anti-diarrhéique sécrétoire racécadotril
 - Consultation si forme modérée, sévère ou fébrile
 
@@ -242,7 +242,7 @@ Posologies chez l'enfant, traitement de 3 jours:
 - Ne consommer que de l'eau en bouteille capsulée (et ouverte devant soi) ou, à défaut, rendue potable par ébullition (1 minute à gros bouillons) ou par une désinfection (produits à base de DCCNa - dichloroisocyanurate de sodium - ou hypochlorite de sodium), éventuellement précédée d'une filtration (filtre portatif) si l'eau est trouble
 - Éviter les glaçons
 - Éviter les jus de fruits frais préparés de façon artisanale
-- Ne consommer du lait que pasteurisé ou bouilli, privilégier l'[allaitement maternel]({{< relref "allaitement.md" >}}) chez les nourrissons
+- Ne consommer du lait que pasteurisé ou bouilli, privilégier l'[allaitement maternel]({{% relref "allaitement.md" %}}) chez les nourrissons
 - Laver ou peler les fruits soi-même avec des mains propres
 - Éviter: crudités, coquillages, plats réchauffés
 - Éviter les glaces artisanales (glaces industrielles, de moindre risque si l'emballage est intact)
@@ -258,12 +258,12 @@ Posologies chez l'enfant, traitement de 3 jours:
 - Femmes enceintes après 36 semaines de grossesse (32 si multiple)
 - Plongée sous-marine avec bouteilles dans les 24 heures
 - Comorbidité (liste non exhaustive):
-  - [Angor]({{< relref "syndrome-coronarien-chronique.md" >}}) au repos
+  - [Angor]({{% relref "syndrome-coronarien-chronique.md" %}}) au repos
   - Maladie transmissible évolutive
   - Accident de décompression après la plongée
   - HTIC (par hémorragie, traumatisme ou infection)
-  - Infection ORL ([sinusite]({{< relref "sinusite.md" >}}), [otite moyenne]({{< relref "otite-moyenne-aigue.md" >}}), trompe d'Eustache bouchée ++)
-  - [Infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) ou [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) récent
+  - Infection ORL ([sinusite]({{% relref "sinusite.md" %}}), [otite moyenne]({{% relref "otite-moyenne-aigue.md" %}}), trompe d'Eustache bouchée ++)
+  - [Infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}) ou [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}) récent
   - Chirurgie ou traumatisme récent avec risque de flatulence (abdominal ++)
   - Fracture avec plâtre fermé (avis médical souhaitable)
   - Traumatisme ou chirurgie cranio-faciale ou oculaire
@@ -274,7 +274,7 @@ Posologies chez l'enfant, traitement de 3 jours:
 
 > -- *HCSP*
 
-L'avion est autorisé pour un nouveau-né né à terme à partir de 48 heures de vie (41 SA d'âge corrigé si prématuré) mais il est conseillé d'attendre au moins 7 jours. Reporter le voyage en cas d'infection des voies aériennes ou d'[asthme]({{< relref "asthme.md" >}}) non contrôlé.
+L'avion est autorisé pour un nouveau-né né à terme à partir de 48 heures de vie (41 SA d'âge corrigé si prématuré) mais il est conseillé d'attendre au moins 7 jours. Reporter le voyage en cas d'infection des voies aériennes ou d'[asthme]({{% relref "asthme.md" %}}) non contrôlé.
 
 ### Prévention des thromboses veineuses profondes
 
@@ -287,7 +287,7 @@ Mesures de prévention des thromboses veineuses profondes liées à un voyage a�
 - Programmes d'exercices sans quitter sa place
 - Boissons sans alcool régulières
 - Si facteur de risque de phlébite: bas mi-cuisse classe 2  
-  **Facteurs de risque de TVP:** antécédents personnels ou familiaux de MVTE, thrombophilie, [cancer actif](/tags/cancer/), grossesse ou [post-partum]({{< relref "post-partum.md" >}}), contraception œstroprogestative ou THM, [obésité]({{< relref "obesite-adulte.md" >}}), âge avancé, tailles extrêmes, hospitalisation pour traumatisme ou anesthésie générale récente (< 4 semaines), tabac.
+  **Facteurs de risque de TVP:** antécédents personnels ou familiaux de MVTE, thrombophilie, [cancer actif](/tags/cancer/), grossesse ou [post-partum]({{% relref "post-partum.md" %}}), contraception œstroprogestative ou THM, [obésité]({{% relref "obesite-adulte.md" %}}), âge avancé, tailles extrêmes, hospitalisation pour traumatisme ou anesthésie générale récente (< 4 semaines), tabac.
 - Si risque élevé de MVTE: évaluer un anticoagulant  
   **Facteurs de risque élevé de TVP:** antécédent personnel de MVTE non provoquée ou liée à un voyage, chirurgie à risque (abdomen, bassin, jambes) ou traumatisme récent, cancer actif, 2 facteurs de risque.
 

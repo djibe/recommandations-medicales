@@ -26,7 +26,7 @@ Liste des codes pour les actes et les consultations des adultes et des enfants e
 ## Les cotations de 2024 à ne pas oublier
 
 - Majoration MOP de 5 € pour les +80 ans qui ne font pas partie de la patientèle (valable en (télé)consultation ou visite)
-- La cotation RDV (30 €) est à 100 % pour le [rendez-vous de prévention]({{< relref "bilan-prevention.md" >}}) à réaliser à 18-25, 45-50, 60-65 et 70-75 ans (1 fois par tranche d'âge)
+- La cotation RDV (30 €) est à 100 % pour le [rendez-vous de prévention]({{% relref "bilan-prevention.md" %}}) à réaliser à 18-25, 45-50, 60-65 et 70-75 ans (1 fois par tranche d'âge)
 - Le G passé à 30 € le 22 décembre (GS disparu; 23 € en Secteur 2), le COE à 54 € (60€ le 1er juillet 2025)
 
 ## Les outils d'aide à la cotation du généraliste
@@ -65,7 +65,7 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 | G         | Consultation                                                                                  |             30 |
 | TCG       | Téléconsultation                                                                              |             25 |
 | C1,5      | Consultation avec test antigénique Covid                                                      |           34,5 |
-| RDV       | Consultation du [bilan de prévention]({{< relref "bilan-prevention.md" >}}) (TP AMO)          |             30 |
+| RDV       | Consultation du [bilan de prévention]({{% relref "bilan-prevention.md" %}}) (TP AMO)          |             30 |
 | COB       | Consultation de l'enfant à 6, 8-9, 11-13 et 15-16 ans (à 100%)                                |             30 |
 | RQD       | Demande de téléexpertise (FSE Sesam sans vitale dédiée en TP AMO)                             |             10 |
 | MPH       | Premier remplissage du dossier MDPH                                                           |             60 |
@@ -98,7 +98,7 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 |-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------:|
 | G + MEG                                             | Consultation avant 6 ans                                                                                                               |             35 |
 | VG + MEG + MD                                       | Visite avant 6 ans                                                                                                                     |             45 |
-| [COD]({{< relref "examens-suivi-nourrisson.md" >}}) | Examens à 13-14j, M1, M2, M3, M4, M5,<br>M11, M12, M16-18 puis à 2, 3, 4 et 5 ans (à 100%)                                             |             35 |
+| [COD]({{% relref "examens-suivi-nourrisson.md" %}}) | Examens à 13-14j, M1, M2, M3, M4, M5,<br>M11, M12, M16-18 puis à 2, 3, 4 et 5 ans (à 100%)                                             |             35 |
 | COE                                                 | Examen obligatoire 8 jours, 9-10 mois<br> ou 24-25 mois (à 100%, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |             54 |
 | CSO*                                                | Suivi 3-12 ans en obésité (max 2/an, à 100%)                                                                                           |           47,5 |
 | CSE*                                                | Suivi enfant autiste (1/an)                                                                                                            |           47,5 |
@@ -151,7 +151,7 @@ Cotations NGAP disponibles en sus de la consultation ou de la visite médicale.
 | + MCG     | Consultation d'un patient +16 ans hors résidence habituelle ou soins itératifs avec rédaction d'un compte-rendu pour son MT                                                       |              5 |
 | + MOP     | Consultation d'un patient +80 ans qui ne fait pas partie de la patientèle déclarée                                                                                                |              5 |
 | + MSH**   | Sortie d'hospitalisation (chirurgie, décompensation ou diagnostic d'affection grave) dans le mois d'un patient polypathologique. MIC non applicable pour la même hospitalisation. |             23 |
-| + MIC**   | Sortie d'hospitalisation dans les 2 mois pour [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})                                                      |             23 |
+| + MIC**   | Sortie d'hospitalisation dans les 2 mois pour [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})                                                      |             23 |
 | + MIS     | Consultation initiale d'information cancer ou neurodégénératif                                                                                                                    |             30 |
 | + PIV     | Consultation initiale d'information VIH                                                                                                                                           |             30 |
 | + MUT*    | RDV urgent obtenu avec un spécialiste sous 48h                                                                                                                                    |              5 |
@@ -180,7 +180,7 @@ Les sutures ne sont pas présentées ici mais penser à associer le code CCAM *M
 | JKKD001     | Changement d'un stérilet                                                                                                                                                                                     |          38,40 |
 | QZGA002     | Ablation ou changement d'un implant                                                                                                                                                                          |          41,80 |
 | MJPA010     | Incision ou excision d'un panaris superficiel | 38,29 |
-| EGFA007     | Excision d'une [thrombose hémorroïdaire]({{< relref "hemorroides.md" >}}) | 62,70 |
+| EGFA007     | Excision d'une [thrombose hémorroïdaire]({{% relref "hemorroides.md" %}}) | 62,70 |
 | GLQP012     | Spirométrie avec enregistrement | 41,08 |
 | GABD002 + M | Tamponnement nasal antérieur | 54,60 |
 {{< /table >}}

@@ -31,7 +31,7 @@ todo = "rankok"
   - **NB.** Le CNGE ne préconise une antibiothérapie qu'en cas de scarlatine ou de symptômes intenses
   - Adulte: amoxicilline 1g 2 fois par jour pendant 6 jours
   - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises pendant 6 jours
-  - Antibiothérapie aussi indiquée pour l'angine de Vincent, la diphtérie, le gonocoque et le [chancre syphilitique]({{< relref "syphilis.md" >}})
+  - Antibiothérapie aussi indiquée pour l'angine de Vincent, la diphtérie, le gonocoque et le [chancre syphilitique]({{% relref "syphilis.md" %}})
   - La prise en charge de l'angine pédiatrique en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
 - À partir de 10 ans, le Streptatest et la délivrance d'antibiotique peuvent être réalisés directement par le pharmacien formé (*[Service-Public](https://www.service-public.fr/particuliers/actualites/A17229?xtor=EPR-100)*)
 
@@ -55,7 +55,7 @@ Les complications sont locales voire générales:
 - Adénophlegmon cervical (ou Adénite cervicale suppurative)
 - Cellulite cervicale
 - Complications générales
-  - [Psoriasis en goutte]({{< relref "psoriasis.md" >}})
+  - [Psoriasis en goutte]({{% relref "psoriasis.md" %}})
   - Rhumatisme articulaire aigu (RAA)
   - Glomérulonéphrite aiguë post-streptococcique (GNA)
   - Érythème noueux
@@ -118,13 +118,13 @@ Autres formes cliniques d'angine:
   Dite **herpangine** par coxsackie virus ou virus varicelle-zona (VZV).
 - Angine pseudomembraneuse
   - Enduit confluent nacré/grisâtre
-  - [Mononucléose infectieuse (EBV)]({{< relref "mononucleose-infectieuse.md" >}}): adulte jeune, fatigue, fièvre 10-15 jours, respect de la luette, purpura du voile du palais, [splénomégalie]({{< relref "splenomegalie.md" >}}) (50%), exanthème, polyadénopathie
+  - [Mononucléose infectieuse (EBV)]({{% relref "mononucleose-infectieuse.md" %}}): adulte jeune, fatigue, fièvre 10-15 jours, respect de la luette, purpura du voile du palais, [splénomégalie]({{% relref "splenomegalie.md" %}}) (50%), exanthème, polyadénopathie
   - Diphtérie: urgence thérapeutique. Voyage en Europe de l'Est ou en développement, absence de vaccination, fausses membranes extensives
 - Angine gonococcique
 - Angine ulcéreuse ou ulcéro-nécrotique: angine de Vincent, syphilis, hémopathie
   - Angine de Vincent: haleine fétide, ulcération unilatérale profonde avec membranes grisâtres non adhérentes
   - Caractère traînant, rebelle: éliminer agranulocytose, hémopathie/cancer par une NFS
-  - [Chancre syphilitique]({{< relref "syphilis.md" >}})
+  - [Chancre syphilitique]({{% relref "syphilis.md" %}})
 
 Pour mieux visualiser les amygdales, demander à l'enfant de rugir comme un lion ou de bailler la bouche ouverte. (*Pr Douglas Paauw*)
 {.alert .alert-info}
@@ -150,7 +150,7 @@ La sensibilité du TDR chez l'enfant est de 85%.
 
 - Angine streptococcique compliquée
 - Diphtérie
-- [Mononucléose infectieuse compliquée]({{< relref "mononucleose-infectieuse.md" >}})
+- [Mononucléose infectieuse compliquée]({{% relref "mononucleose-infectieuse.md" %}})
 - Gingivo-stomatite herpétique sévère empêchant l'alimentation
 - Angine de Vincent
 
@@ -163,11 +163,11 @@ Prise en charge de l'angine:
 
 - Angine streptococcique: éviction scolaire les 48 premières heures suivant l'instauration de l'antibiothérapie
 - Antalgique, antipyrétique  
-  Paracétamol voire [tramadol]({{< relref "antalgie-enfant.md" >}}).
+  Paracétamol voire [tramadol]({{% relref "antalgie-enfant.md" %}}).
 - Pas de corticoïdes
 - La persistance de fièvre, dysphagie après 3 jours doit faire évoquer une infection intercurrente.
 - Scarlatine: traitement et éviction identiques
-- Diphtérie: [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
+- Diphtérie: [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})
 - Réévaluation après 3 jours si persistance des symptômes (fièvre, dysphagie)
 - Information des parents: [mpedia](https://www.mpedia.fr/art-angine/?sr=895)
 

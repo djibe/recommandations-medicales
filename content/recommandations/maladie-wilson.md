@@ -72,23 +72,23 @@ Les symptômes surviennent le plus souvent chez le sujet jeune:
   - [Fatigue](/tags/fatigue/)
   - Douleurs de l'hypochondre droit
   - Tableau d'[hépatite](/tags/hepatite/): cytolyse hépatique (ASAT et ALAT)
-  - [Ictère]({{< relref "ictere.md" >}})
+  - [Ictère]({{% relref "ictere.md" %}})
   - Ascite, œdème des membres inférieurs
 - Symptômes neurologiques (35%, retard diagnostique de 2 ans) apparaissant en quelques semaines à quelques mois
   - Anomalies de mimique
   - Hypersalivation, troubles de déglutition
   - **Dysarthrie**, dysgraphie
-  - Troubles de la marche, tremblements, maladresse, dystonie, mouvements anormaux, ataxie cérébelleuse, [syndrome parkinsonien]({{< relref "maladie-parkinson.md" >}}) bilatéral et symétrique
+  - Troubles de la marche, tremblements, maladresse, dystonie, mouvements anormaux, ataxie cérébelleuse, [syndrome parkinsonien]({{% relref "maladie-parkinson.md" %}}) bilatéral et symétrique
   - Baisse des performances scolaires
   - Modifications du comportement (banalisées à l'adolescence)
   - Syndrome frontal, troubles de l'attention
 - Troubles psychiatriques (10%)
-  - [Syndrome dépressif]({{< relref "depression.md" >}})
+  - [Syndrome dépressif]({{% relref "depression.md" %}})
   - Addictions
   - Psychose, hallucinations
   - Épilepsie
 - Symptômes gynécologiques  
-  Aménorrhée, [fausses couches répétées]({{< relref "fausses-couches-repetees.md" >}}).
+  Aménorrhée, [fausses couches répétées]({{% relref "fausses-couches-repetees.md" %}}).
 - Autres symptômes:
   - hématologiques: anémie hémolytique Coombs négatif, thrombopénie isolée
   - rénaux: lithiase, tubulopathie
@@ -104,7 +104,7 @@ Les symptômes surviennent le plus souvent chez le sujet jeune:
   {{< clinique/hypertension-portale >}}
 - Signes d'insuffisance hépatocellulaire  
   {{< clinique/insuffisance-hepato-cellulaire >}}
-- [Splénomégalie]({{< relref "splenomegalie.md" >}})
+- [Splénomégalie]({{% relref "splenomegalie.md" %}})
 - Anneau péri-cornéen de Kayser-Fleischer  
   Présent dans 52% des formes hépatiques et 95% des formes neurologiques.
 
@@ -179,7 +179,7 @@ La prise en charge de l'hépatite auto-immune relève de l'hépatologue du centr
 
 La prise en charge de la maladie de Wilson est pluridisciplinaire (hépatologue, neurologue):
 
-- Déclarer l'[ALD n°17]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°17]({{% relref "affection-longue-duree.md" %}})
 - Régime pauvre en cuivre les premières années  
   Limiter: fruits de mer, noix, chocolat, champignons et abats.
 - En cas de ré-aggravation: évaluer l'observance

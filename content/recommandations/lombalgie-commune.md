@@ -72,7 +72,7 @@ Signes de gravité à rechercher devant une lombalgie aiguë ou chronique.
 - Pensées  
   Catastrophisme, croyances sur l'état, la douleur, la nocivité, attentes négatives du futur.
 - Sentiments  
-  Inquiétude, détresse, anxiété/[dépression]({{< relref "depression.md" >}}), peur du mouvement, incertitudes sur le futur.
+  Inquiétude, détresse, anxiété/[dépression]({{% relref "depression.md" %}}), peur du mouvement, incertitudes sur le futur.
 - Comportement  
   Description de symptômes extrêmes, stratégies passives (ceinture, immobilité), inefficacité des traitements.
 
@@ -111,7 +111,7 @@ Signes et symptômes à rechercher devant un épisode de lombalgie:
   **Traumatisme récent**, [cancer](/tags/cancer/), neurologique, infectieux ou inflammatoire-rhumatismal.
 - Antécédents familiaux
 - Traitements  
-  **Corticothérapie** prolongée (+3 mois, dont inhalée), iatrogénie ([statine]({{< relref "statines.md" >}}), gabapentine, ciclosporine, colchicine ...).
+  **Corticothérapie** prolongée (+3 mois, dont inhalée), iatrogénie ([statine]({{% relref "statines.md" %}}), gabapentine, ciclosporine, colchicine ...).
 - Toxiques
 - Niveau d'activité physique
 - Douleur lombaire
@@ -223,7 +223,7 @@ L'acupuncture n'a pas d'efficacité sur l'évolution de la lombalgie.
 - Éducation à la [neurophysiologie de la douleur](http://sectionrachis.fr/index.php/recommandation-lombalgie/neurophysiologie-douleur/)
 - Programme de rééducation MPR  
 Indications: facteurs psychosociaux faisant obstacle à leur rétablissement, échec de prise en charge active.
-- Prise en charge spécifique des [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}})
+- Prise en charge spécifique des [douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}})
 
 Ne pas utiliser: ultrasons, tractions lombaires.
 

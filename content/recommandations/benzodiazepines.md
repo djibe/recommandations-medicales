@@ -31,7 +31,7 @@ flowchart = true
 - La décroissance des benzodiazépines ([calendrier de suivi](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_calendrier_de_suivi.pdf)) est toujours progressive après prise prolongée pour prévenir le syndrome de sevrage ({{< modal-btn modal-score-ecab >}}évaluation ECAB{{< /modal-btn >}} de la dépendance)
 - << il n'y a pas lieu d'associer deux benzodiazépines, y compris pour des indications différentes >> -- *CNUP*
 
-Chapitre lié: [sevrage en alcool]({{< relref "sevrage-alcool.md" >}})
+Chapitre lié: [sevrage en alcool]({{% relref "sevrage-alcool.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -82,16 +82,16 @@ Tout consommateur chronique de BZD est exposé en cas d'arrêt brutal accidentel
 {.alert .alert-info}
 
 - Traitements en cours
-- [Consommation d'alcool]({{< relref "sevrage-alcool.md" >}})
+- [Consommation d'alcool]({{% relref "sevrage-alcool.md" %}})
 - Benzodiazépine
   - Motif
   - Ancienneté, posologie
   - Molécules en cours
   - {{< modal-btn modal-score-ecab >}}Évaluation ECAB{{< /modal-btn >}} de la dépendance
 - État psychologique  
-  Troubles anxieux et [dépression]({{< relref "depression.md" >}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4 de dépistage{{< /modal-btn >}}), insomnie ...
+  Troubles anxieux et [dépression]({{% relref "depression.md" %}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4 de dépistage{{< /modal-btn >}}), insomnie ...
 - Troubles du sommeil  
-  Rechercher des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) ou [syndrome des jambes sans repos]({{< relref "syndrome-jambes-sans-repos.md" >}}).
+  Rechercher des [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) ou [syndrome des jambes sans repos]({{% relref "syndrome-jambes-sans-repos.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Traitement par benzodiazépine et molécules disponibles" "show" %}}
@@ -109,7 +109,7 @@ Respecter l'AMM de la spécialité:
   - Insomnie transitoire: 2-3 semaines
 - Anxiété
   - Anxiété sévère: 8-12 semaines en tenant compte de la période de décroissance
-  - [Sevrage en alcool]({{< relref "sevrage-alcool.md" >}}): 8 à 10 jours
+  - [Sevrage en alcool]({{% relref "sevrage-alcool.md" %}}): 8 à 10 jours
 
 Diviser les doses d'initiation par 2 après 65 ans.
 
@@ -181,7 +181,7 @@ Arrêt progressif en 1 à 3 mois (voire 1 an).
 - Signes sans gravité après l'arrêt:  
   ne surtout pas reprendre les BZD, information et soutien.
 - Signes plus sévères et persistants:  
-  réévaluation diagnostique et traitement spécifique ([dépression]({{< relref "depression.md" >}}), troubles anxieux, insomnie).
+  réévaluation diagnostique et traitement spécifique ([dépression]({{% relref "depression.md" %}}), troubles anxieux, insomnie).
 - Syndrome de sevrage grave (confusion, hallucinations, troubles de vigilance, convulsions, coma):  
   Hospitalisation.
 

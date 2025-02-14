@@ -35,7 +35,7 @@ flowchart = true
 - La mort subite atteint (quasi) exclusivement les hommes d'âge moyen et il est bien plus efficace d'apprendre à réaliser le massage cardiaque, de signaler les symptômes à l'effort et de corriger les facteurs de risque cardiovasculaire avant les accidents
 - Certificats des fédérations: [basketball](/print/ffbasket.pdf), [football](/print/fffoot.pdf), [tir](/print/fftir.pdf), [volleyball](/print/ffvolley.pdf)
 
-Chapitres liés: [certificats médicaux de l'adulte]({{< relref "certificats-medicaux-majeurs.md" >}}), [test d'effort]({{< relref "epreuve-effort.md" >}})
+Chapitres liés: [certificats médicaux de l'adulte]({{% relref "certificats-medicaux-majeurs.md" %}}), [test d'effort]({{% relref "epreuve-effort.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -172,7 +172,7 @@ Critères de réalisation d'un électrocardiogramme (ECG) 12 dérivations chez l
 ### Indications au test d'effort maximal
 
 - Homme +40 ans ou femme ménopausée sédentaire reprenant une {{< modal-btn modal-met >}}activité intense{{< /modal-btn >}}
-- Sportif symptomatique ([angor]({{< relref "syndrome-coronarien-chronique.md" >}}), perte de performances)
+- Sportif symptomatique ([angor]({{% relref "syndrome-coronarien-chronique.md" %}}), perte de performances)
 - Sportif à {{< modal-btn modal-risque-cv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 
 > -- *SFC 2022*

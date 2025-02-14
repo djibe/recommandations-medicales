@@ -35,7 +35,7 @@ Adaptation des recommandations de l'*AFEF* et la *HAS* pour la prise en charge s
 - La prise en charge de l'hépatite C associe: traitement antiviral par Epclusa® ou Maviret® pendant respectivement 12 ou 8 semaines, mesures d'hépatoprotection à vie
 - Suivi à vie de la cirrhose et de la charge virale (guérison, réinfection)
 
-Chapitres liés: [carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}}), [hépatite B]({{< relref "hepatite-b.md" >}})
+Chapitres liés: [carcinome hépatocellulaire]({{% relref "carcinome-hepatocellulaire.md" %}}), [hépatite B]({{% relref "hepatite-b.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -103,13 +103,13 @@ Dépister les personnes à risque d'hépatite C:
 - Drogue IV ou pernasale
 - Né de mère VHC+
 - Partenaires sexuels de VHC+
-- [HSH]({{< relref "hsh.md" >}})
+- [HSH]({{% relref "hsh.md" %}})
 - Entourage de VHC+
 - Prisonnier
 - Tatouage, piercing, mésothérapie, acupuncture
 - Immigré, soigné ou séjour prolongé en zone d'endémie (Égypte, Pakistan, Europe de l'Est et méditerranéenne, Afrique et Asie)
 - ALAT élevées sans cause connue
-- [VIH+]({{< relref "vih-sida.md" >}}) ou [VHB+]({{< relref "hepatite-b.md" >}})
+- [VIH+]({{% relref "vih-sida.md" %}}) ou [VHB+]({{% relref "hepatite-b.md" %}})
 - Professionnel de santé lors d'un AES
 
 {{% /collapse %}}
@@ -215,17 +215,17 @@ La prise en charge de l'hépatite C par un antiviral est possible par tout méde
 
 Prise en charge d'une hépatite C et mesures d'hépatoprotection:
 
-- Déclarer l'[ALD n°6]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°6]({{% relref "affection-longue-duree.md" %}})
 - Observance maximale du traitement
 - Proscrire toute interaction avec les antiviraux ([Outil en ligne HEP Drug Interactions](https://www.hep-druginteractions.org/checker))  
   Enquête sur l'automédication +++.
 - Aucune consommation de pamplemousse ou d'orange sanguine pendant le traitement
 - Mesures d'hépatoprotection
   - Éviter toute consommation d'alcool
-  - Lutte contre surpoids/[obésité]({{< relref "obesite-adulte.md" >}})
+  - Lutte contre surpoids/[obésité]({{% relref "obesite-adulte.md" %}})
   - Équilibre strict d'un diabète
-  - Vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) et [hépatite B]({{< relref "hepatite-b.md" >}}) (après sérologie négative)
-- Vaccination [grippe]({{< relref "grippe.md" >}}) annuelle et {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}
+  - Vaccination [hépatite A]({{% relref "hepatite-a.md" %}}) et [hépatite B]({{% relref "hepatite-b.md" %}}) (après sérologie négative)
+- Vaccination [grippe]({{% relref "grippe.md" %}}) annuelle et {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}
 - Dépistage de l'entourage et des partenaires
 - Prévention des contaminations
   - Charge virale VHC répétée en cas de comportements à risque
@@ -284,8 +284,8 @@ Le suivi après la guérison d'une hépatite C dépend de l'atteinte hépatique 
 
 - Si persistance de conduites à risque: PCR VHC x 1-2/an ou après injection à risque
 - Mesures d'hépatoprotection à vie  
-  [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}}), {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, automédication.
-- Si cirrhose ou valeurs anormales avant traitement: [dépistage du CHC]({{< relref "carcinome-hepatocellulaire.md" >}})
+  [Arrêt de l'alcool]({{% relref "sevrage-alcool.md" %}}), {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, automédication.
+- Si cirrhose ou valeurs anormales avant traitement: [dépistage du CHC]({{% relref "carcinome-hepatocellulaire.md" %}})
   Valeurs anormales signes d'hépatopathie avancée: élastographie hépatique ≥ 10 kPa, Fibrotest® > 0,58 ou Fibromètre® > 0,78.
 
 En l'absence de ces facteurs de risque et de toute comorbidité hépatique (alcool, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, co-infection VHB, hypertension portale), le patient ne nécessite pas de surveillance particulière. (*AFEF 2020*)

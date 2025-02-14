@@ -26,7 +26,7 @@ todo = "hémochromatose (obj ferritine < 50 µg/L en conservant Hb +11)"
 - L'hyperferritinémie est une ferritinémie supérieure à 200 µg/L chez la femme et 300 µg/L chez l'homme
 - Découverte d'une hyperferritinémie: interrogatoire et examen clinique pour établir le profil du patient
 - Bilan d'une hyperferritinémie: dosage matinal à 2 reprises du coefficient de saturation de la transferrine (CST)
-- 5 causes principales d'hyperferritinémie: {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, [alcool]({{< relref "sevrage-alcool.md" >}}), syndrome inflammatoire, transfusions multiples et [hémochromatose génétique liée à HFE]({{< relref "hemochromatose.md" >}})
+- 5 causes principales d'hyperferritinémie: {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, [alcool]({{% relref "sevrage-alcool.md" %}}), syndrome inflammatoire, transfusions multiples et [hémochromatose génétique liée à HFE]({{% relref "hemochromatose.md" %}})
 - La prise en charge de l'hyperferritinémie dépend de l'orientation diagnostique
 
 {{%/article-summary%}}
@@ -34,7 +34,7 @@ todo = "hémochromatose (obj ferritine < 50 µg/L en conservant Hb +11)"
 
 Ferritine
 : Protéine intracellulaire du stockage du fer. La ferritinémie est donc un reflet indirect de ce stock.  
-De nombreuses maladies influent sur la ferritinémie, en dehors de l'[hémochromatose HFE C282Y]({{< relref "hemochromatose.md" >}}) dont la prise en charge est codifiée.
+De nombreuses maladies influent sur la ferritinémie, en dehors de l'[hémochromatose HFE C282Y]({{% relref "hemochromatose.md" %}}) dont la prise en charge est codifiée.
 
 Hyperferritinémie (HF)
 : Ferritinémie supérieure à **200 µg/L chez la femme** et **300 µg/L chez l'homme**.
@@ -42,9 +42,9 @@ Hyperferritinémie (HF)
 
 ### Épidémiologie de l'hyperferritinémie
 
-- Une hyperferritinémie est associée à la survenue d'un {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}} et d'un [diabète de type 2]({{< relref "diabete-type-2.md" >}})  
+- Une hyperferritinémie est associée à la survenue d'un {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}} et d'un [diabète de type 2]({{% relref "diabete-type-2.md" %}})  
   ⅓ des diabétiques et 1/4 des pré-diabétiques ont une hyperferritinémie.
-- 20% des [NASH]({{< relref "steatose-hepatique-et-nash.md" >}}) ont une hyperferritinémie et ⅓ a une **hépatosidérose métabolique** (association d'un syndrome métabolique et d'une surcharge en fer).
+- 20% des [NASH]({{% relref "steatose-hepatique-et-nash.md" %}}) ont une hyperferritinémie et ⅓ a une **hépatosidérose métabolique** (association d'un syndrome métabolique et d'une surcharge en fer).
 
 ### Abréviations
 
@@ -100,7 +100,7 @@ Orientation diagnostique et étiologie d'une hyperferritinémie.
   HF fluctuante, CST normal/peu élevé, surcharge en fer absente/modérée. Baisse de 50% en 15 jours à l'arrêt.
 - **Transfusions multiples**
   - Myélodysplasie, thalassémie
-  - CST élevé, surcharge en fer globale, [anémie chronique]({{< relref "anemie.md" >}})
+  - CST élevé, surcharge en fer globale, [anémie chronique]({{% relref "anemie.md" %}})
 - **Génétique - hémochromatose liée à HFE** (type 1)  
   CST très élevé (60-100%), surcharge en fer globale, mutation C282Y homozygote du gène *HFE*.
 
@@ -125,7 +125,7 @@ Orientation diagnostique et étiologie d'une hyperferritinémie.
   - Syndrome ferritine-cataracte  
     HF familiale, CST normal, pas de surcharge, mutations du gène de la L-ferritine.
   - Maladie de Gaucher  
-    CST normal, pas de surcharge, [splénomégalie]({{< relref "splenomegalie.md" >}}).
+    CST normal, pas de surcharge, [splénomégalie]({{% relref "splenomegalie.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -137,7 +137,7 @@ Enquête devant la découverte d'une hyperferritinémie:
 - Antécédents personnels  
   (Pré)-[diabète](/tags/diabete/) et facteurs de risque cardiovasculaires, hépatite, [cancer](/tags/cancer/), vascularite, hémoglobinopathie.
 - Antécédents familiaux  
-  Hépatopathie, surcharge en fer, hémoglobinopathie, diabète, [cataracte précoce]({{< relref "cataracte.md" >}}).
+  Hépatopathie, surcharge en fer, hémoglobinopathie, diabète, [cataracte précoce]({{% relref "cataracte.md" %}}).
 - Traitements en cours, automédication, apports en fer, transfusions
 - Consommation d'alcool (({{< modal-btn modal-auditc >}}questionnaire AUDIT-C{{< /modal-btn >}}, {{< modal-btn modal-deta >}}questionnaire CAGE/DETA{{< /modal-btn >}}))
 - Symptômes
@@ -159,8 +159,8 @@ L'examen rechercher des signes de {{< modal-btn modal-metabolique >}}syndrome m�
   {{< clinique/hypertension-portale >}}
 - Signes d'insuffisance hépatocellulaire  
   {{< clinique/insuffisance-hepato-cellulaire >}}
-- [Splénomégalie]({{< relref "splenomegalie.md" >}})
-- Pâleur, [ictère]({{< relref "ictere.md" >}})
+- [Splénomégalie]({{% relref "splenomegalie.md" %}})
+- Pâleur, [ictère]({{% relref "ictere.md" %}})
 - Palpation des aires ganglionnaires
 
 {{% /collapse %}}
@@ -203,7 +203,7 @@ Prise en charge d'une hyperferritinémie:
 
 - Hémopathie, transfusion itératives: surveillance annuelle de la ferritine
 - Correction d'un surpoids
-- [Sevrage alcoolique]({{< relref "sevrage-alcool.md" >}})
+- [Sevrage alcoolique]({{% relref "sevrage-alcool.md" %}})
 - Arrêt de toute automédication
 - Traitement spécialisé de la maladie causale
 - Cirrhose: dépistage du carcinome hépatocellulaire

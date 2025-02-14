@@ -29,7 +29,7 @@ todo = "signes différentiels, La voie orale est inefficace dans les MICI (*SOUR
   - L'anémie par carence martiale est microcytaire (VGM < 80 fl) et le plus souvent hypochrome (CCMH < 32 g/dL)
 - Carence martiale: [ferritinémie](/tags/ferritine/) inférieure à 45 ng/mL (*BSG*)
 - Bilan étiologique d'une anémie: examen gynécologique, BU/ECBU, sérologie cœliaque
-- [Fibroscopie](/tags/eogd/) et coloscopie si homme ou femme +50 ans, ménopausée/aménorrhée, [risque élevé de cancer colorectal]({{< relref "cancer-colorectal.md" >}}) ou anémie sévère inexpliquée
+- [Fibroscopie](/tags/eogd/) et coloscopie si homme ou femme +50 ans, ménopausée/aménorrhée, [risque élevé de cancer colorectal]({{% relref "cancer-colorectal.md" %}}) ou anémie sévère inexpliquée
 - Prise en charge de l'anémie par supplémentation en fer: 50-100 mg par jour de fer élément à jeun pendant 3 mois
 - Surveillance trimestrielle de la NFS pendant 1 an
 
@@ -39,7 +39,7 @@ todo = "signes différentiels, La voie orale est inefficace dans les MICI (*SOUR
 Anémie
 : Hémoglobinémie (au niveau de la mer) chez la femme < 12 g/dL (11 si grossesse) ou < 13 g/dL chez l'homme (*OMS 2024*). Elle entraîne une augmentation de la morbi-mortalité et une réduction de la qualité de vie.
 : La carence martiale (CM) est la 1^re^ cause d'anémie (2-5% chez les adultes d'âge moyen, 20% des femmes en âge de procréer) et atteint 50% des femmes enceintes après 25 SA. La *thalassémie* (anémie microcytaire hypochrome mais régénérative) se présente sous le même tableau.
-La carence martiale *non anémique* est fréquente (50% des femmes avec [ménorragies]({{< relref "menorragies.md" >}})).
+La carence martiale *non anémique* est fréquente (50% des femmes avec [ménorragies]({{% relref "menorragies.md" %}})).
 : L'*hypochromie* et la *microcytose* typiques de la carence en fer sont absentes en cas de maladie chronique ou carence concomitante en vitamines B9 ou 12. L'anémie ferriprive est toujours **arégénérative** (réticulocytes sans intérêt).
 : Chez le sujet âgé, l'anémie est toujours multifactorielle (régime, carence B9/B12, aspirine, insuffisance d'organe, saignement occulte).
 
@@ -77,7 +77,7 @@ Liste des causes possibles d'une carence en fer:
   Principalement d'origine digestive et une **cause tumorale** doit être recherchée.
   Autres causes fréquentes: *ulcère gastro-duodénal*, *érosions gastriques* et *œsophagite*.
 - Malabsorption
-  [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), gastrectomie/sleeve, gastrite atrophique.
+  [Maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}), gastrectomie/sleeve, gastrite atrophique.
 - Alimentation carencée
 - Dons du sang répétés
 - AINS, anticoagulants au long cours
@@ -122,7 +122,7 @@ Diagnostic différentiel de l'anémie par carence martiale:
   CRP et ferritine normales.
 - Autres
   - Déficit en vitamine B6
-  - [Saturnisme]({{< relref "saturnisme.md" >}})
+  - [Saturnisme]({{% relref "saturnisme.md" %}})
   - Syndrome myélodysplasique
 
 {{% /collapse %}}
@@ -136,16 +136,16 @@ Signes et symptômes cliniques d'une anémie:
 - Antécédents familiaux  
   Hémoglobinopathie, hémorragies, métabolisme du fer, pathologie digestive.
 - Antécédents personnels  
-  Transfusions, dons de sang, [chirurgie de l'obésité]({{< relref "obesite-adulte.md" >}}) ou gastrique, traumatismes, insuffisance cardiaque ou rénale.
+  Transfusions, dons de sang, [chirurgie de l'obésité]({{% relref "obesite-adulte.md" %}}) ou gastrique, traumatismes, insuffisance cardiaque ou rénale.
 - Traitements en cours  
   AINS, anticoagulants ou IPP au long cours.
 - Régime alimentaire, {{< modal-btn modal-scoff >}}troubles du comportement alimentaire{{< /modal-btn >}}
 - Consommation de thé
 - Pertes sanguines
-  - Gynécologiques: grossesse, [contraception]({{< relref "contraception.md" >}}), méno-métrorragies
-  - Digestives: [dyspepsie]({{< relref "dyspepsie.md" >}}), syndrome ulcéreux, douleurs abdominales, [hémorroïdes]({{< relref "hemorroides.md" >}}) ou saignements digestifs
+  - Gynécologiques: grossesse, [contraception]({{% relref "contraception.md" %}}), méno-métrorragies
+  - Digestives: [dyspepsie]({{% relref "dyspepsie.md" %}}), syndrome ulcéreux, douleurs abdominales, [hémorroïdes]({{% relref "hemorroides.md" %}}) ou saignements digestifs
   - Épistaxis
-  - [Hématurie]({{< relref "hematurie.md" >}})
+  - [Hématurie]({{% relref "hematurie.md" %}})
 - Signes d'anémie  
   {{< clinique/anemie >}}.
 - Signes de carence martiale  
@@ -163,7 +163,7 @@ Bilan d'une *carence martiale isolée* chez des sujets sans pertes physiologique
 Examens recommandés pour la prise en charge d'une anémie (réaliser dans l'ordre):
 
 - BU, ECBU
-- Recherche de [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) (à tout âge, 3-5%)
+- Recherche de [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (à tout âge, 3-5%)
   IgA totales + IgA anti-transglutaminase
 - **Électrophorèse de l'hémoglobine**  
   Indication: ferritinémie normale chez sujet originaire d'Asie-Afrique-Méditerranée, avant bilan endoscopique.
@@ -172,7 +172,7 @@ Examens recommandés pour la prise en charge d'une anémie (réaliser dans l'ord
 - Facteur de risque d'insuffisance rénale: créatininémie
 - Sujet âgé: vitamines B9 et B12
 - Homme (tout âge)
-  ou femme +50 ans, ménopausée/sans menstruations, [risque élevé de cancer colorectal]({{< relref "cancer-colorectal.md" >}}), sévérité inexpliquée:
+  ou femme +50 ans, ménopausée/sans menstruations, [risque élevé de cancer colorectal]({{% relref "cancer-colorectal.md" %}}), sévérité inexpliquée:
   - Fibroscopie gastrique et coloscopie rapidement
     Uniquement si anémie. Si carence martiale seule, surveillance de la NFS.
   - Coloscanner si impossible voire coloIRM
@@ -215,7 +215,7 @@ Prise en charge de l'anémie par supplémentation et fer puis surveillance de la
 - Elle peut être poursuivie au long cours sur conseil de l'hématologue
 - Elle est quasi-impossible à obtenir par des seuls apports alimentaires
   Boudin noir, Moules, seiche, lentilles, soja, épinards, raison sec ([Anses. Tables Ciqual](https://ciqual.anses.fr/#/constituants/10260/fer-(mg-100-g)))
-- La supplémentation en cas d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ou d'[insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) est spécifique
+- La supplémentation en cas d'[insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) ou d'[insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}) est spécifique
 - La voie orale est inefficace dans les MICI
 
 {{% /collapse %}}

@@ -25,7 +25,7 @@ imageSrc = "Illustration du diabète gestationnel par vectorjuice / Freepik"
 
 - Le diabète gestationnel (DG) est une hyperglycémie à jeun survenue pendant la grossesse (absence d'hyperglycémie pré-existante)
 - Dépistage du diabète gestationnel
-  - Indications au dépistage du DG: âge ≥ 35 ans, surpoids, ATCD familial au 1^er^ degré de diabète type 2, antécédent de macrosomie ou de diabète gestationnel, [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) (nécessite une HGPO)
+  - Indications au dépistage du DG: âge ≥ 35 ans, surpoids, ATCD familial au 1^er^ degré de diabète type 2, antécédent de macrosomie ou de diabète gestationnel, [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (nécessite une HGPO)
   - Dépister par glycémie à jeun au premier trimestre puis par hyperglycémie provoquée par voie orale 75g (HGPO) entre 24 et 28 SA
 - Le diagnostic de diabète gestationnel est biologique: glycémie à jeun ≥ 0,92 g/L ou HGPO H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L
 - Adresser à la maternité pour autosurveillance glycémique et diététique
@@ -39,9 +39,9 @@ imageSrc = "Illustration du diabète gestationnel par vectorjuice / Freepik"
 Diabète gestationnel (DG)
 : Hyperglycémie à jeun gravidique sans hyperglycémie avant la grossesse.  
 Facteur de risque de complications obstétricales:  
-    - Maternelles: [pré-éclampsie]({{< relref "pre-eclampsie.md" >}}), césarienne, traumatisme périnéal
+    - Maternelles: [pré-éclampsie]({{% relref "pre-eclampsie.md" %}}), césarienne, traumatisme périnéal
     - Fœtales: macrosomie, hydramnios (rare), hyperbilirubinémie, dystocie des épaules, mortalité, hypoglycémie, prématurité
-: La prévalence du diabète gestationnel est de 8% (2012) et en augmentation. Le risque à long terme de [diabète de type 2]({{< relref "diabete-type-2.md" >}}) est alors multiplié par 7.
+: La prévalence du diabète gestationnel est de 8% (2012) et en augmentation. Le risque à long terme de [diabète de type 2]({{% relref "diabete-type-2.md" %}}) est alors multiplié par 7.
 : Sur-dépistage du diabète gestationnel: 76% versus 42% attendus (*Regnault 2012*)
 
 Le diabète gestationnel ne modifie pas l'incidence des asphyxies néonatales, décès périnataux et hypocalcémies néonatales.
@@ -93,11 +93,11 @@ Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque par
 
 1. Âge maternel ≥ 35 ans
 2. IMC ≥ 25 kg/m²
-3. Antécédent familial de [diabète type 2]({{< relref "diabete-type-2.md" >}}) au 1^er^ degré
+3. Antécédent familial de [diabète type 2]({{% relref "diabete-type-2.md" %}}) au 1^er^ degré
 4. Antécédent personnel de diabète gestationnel  
 5. Antécédent de macrosomie  
   Poids de naissance ≥ 4 kg.
-6. [Syndrome des ovaires polykystiques]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) (SOPK, *ESHRE 2023*)  
+6. [Syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (SOPK, *ESHRE 2023*)  
   Dès le désir de grossesse ou rattrapage à 24-28 SA.
 
 > -- *CNGOF, SFD 2010*
@@ -146,7 +146,7 @@ Prise en charge recommandée pour toutes les femmes avec un diagnostic de diabè
 
 - Surveillance glycémique à jeun et post-prandiale (H2)
 - Si glycémie à jeun (GAJ) ≥ 0,95 g/L à jeun ou ≥ 1,20 g/L 2 heures après le repas pendant 7 à 10 jours malgré les mesures hygiéno-diététiques, recours à l'insulinothérapie
-- Auto-surveillance glycémique poursuivie en [post-partum]({{< relref "post-partum.md" >}}) immédiat
+- Auto-surveillance glycémique poursuivie en [post-partum]({{% relref "post-partum.md" %}}) immédiat
 
 ### Indications à l'insuline au cours du diabète gestationnel
 
@@ -184,8 +184,8 @@ Risque de récidive de diabète gestationnel de 30 à 84%, de {{< modal-btn moda
 
 Suivi après un diabète gestationnel:
 
-- Surveillance de la normalisation des glycémies [post-partum]({{< relref "post-partum.md" >}}) sans traitement
-- Si autres facteurs de risque cardiovasculaire: [contraception]({{< relref "contraception.md" >}}) par DIU préférable
+- Surveillance de la normalisation des glycémies [post-partum]({{% relref "post-partum.md" %}}) sans traitement
+- Si autres facteurs de risque cardiovasculaire: [contraception]({{% relref "contraception.md" %}}) par DIU préférable
 - Information de la patiente
   - En cas de nouvelle grossesse: dépistage du diabète gestationnel
   - Glycémie à jeun à la consultation post-natale
@@ -194,7 +194,7 @@ Suivi après un diabète gestationnel:
 - Mesures hygiéno-diététiques
   - Activité physique régulière 30-60 min/j 5 jours par semaine
   - Alimentation équilibrée
-  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - Pour l'enfant: surveillance pondérale et activité physique régulière
 
 {{% /collapse %}}

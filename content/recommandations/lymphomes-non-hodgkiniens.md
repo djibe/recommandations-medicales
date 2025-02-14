@@ -117,14 +117,14 @@ Les lymphomes non hodgkiniens sont le plus souvent révélés par des poly-adén
   - Signes généraux (dits "symptômes B"): amaigrissement (AEG), fièvre > 38 °C (+8 jours), [sueurs nocturnes](/tags/sueurs-nocturnes/) profuses
   - Prurit
   - Autres symptômes par envahissement organique  
-    Digestif (syndrome occlusif), ophtalmique (conjonctive, exophtalmie, trouble oculomoteur), cutané (nodules, plaques, érythrodermie), ORL ([dysphonie]({{< relref "dysphonie.md" >}}), dysphagie, otalgie), masse testiculaire, neurologique.
+    Digestif (syndrome occlusif), ophtalmique (conjonctive, exophtalmie, trouble oculomoteur), cutané (nodules, plaques, érythrodermie), ORL ([dysphonie]({{% relref "dysphonie.md" %}}), dysphagie, otalgie), masse testiculaire, neurologique.
   - Signes de compression  
     Syndrome cave supérieur, œdèmes des membres inférieurs, phlébite, compression médullaire.
 
 ### Examen clinique
 
 - Poids et variations, taille
-- Hépatomégalie, [splénomégalie]({{< relref "splenomegalie.md" >}})
+- Hépatomégalie, [splénomégalie]({{% relref "splenomegalie.md" %}})
 - Examen neurologique
 - Palpation des aires ganglionnaires et schéma avec taille des lésions  
 - +75 ans: dépistage gériatrique {{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}
@@ -162,7 +162,7 @@ Une **croissance tumorale** extrêmement rapide (lymphome de Burkitt, lymphome l
 La prise en charge d'atteintes organiques (lymphomes gastro-intestinaux, lymphomes cutanés) relève d'équipes spécialisées.
 
 - Information du patient: [Guide INCa LNH (PDF)](https://www.e-cancer.fr/content/download/58357/532032/file/ALD30_GP_Lymphomes_web.pdf)
-- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 
 Le traitement des lymphomes non hodgkiniens repose principalement sur la **chimiothérapie** couplée à l'**immunothérapie** (anti-CD20 ou autre). Une **surveillance active** est possible pour un LNH indolent.
 

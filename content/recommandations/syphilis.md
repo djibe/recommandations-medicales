@@ -30,7 +30,7 @@ todo = "SEO, revoir flow, demander M Janier"
 - La prise en charge de la syphilis dépend du stade de la maladie: syphilis précoce ou tardive (+1 an ou ancienneté inconnue)
 - Dépistage des autres [infections sexuellement transmissibles (IST)](/tags/ist/) et dépistage des partenaires (des 3 mois si chancre, sinon des 2 dernières années)
 
-Renseigner sur la [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}}) toute personne exposée au VIH
+Renseigner sur la [PrEP]({{% relref "prophylaxie-preexposition-prep.md" %}}) toute personne exposée au VIH
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -39,9 +39,9 @@ Syphilis
 : Maladie infectieuse à transmission directe principalement sexuelle par contact avec une lésion génitale (fellation comprise) de la bactérie *Treponema pallidum* (*T. pallidum* ou tréponème pâle, bactérie spirochète, trépanomatose), ou materno-fœtale.  
 La contamination lors de la grossesse entraîne des complications graves chez le fœtus.
 
-La majorité des cas de syphilis survient chez les [hommes ayant des rapports sexuels avec des hommes (HSH)]({{< relref "hsh.md" >}}) (85% des cas en 2020) entre 20 et 29 ans.
+La majorité des cas de syphilis survient chez les [hommes ayant des rapports sexuels avec des hommes (HSH)]({{% relref "hsh.md" %}}) (85% des cas en 2020) entre 20 et 29 ans.
 
-Forte prévalence d'une [co-infection VIH]({{< relref "vih-sida.md" >}}) (25%).
+Forte prévalence d'une [co-infection VIH]({{% relref "vih-sida.md" %}}) (25%).
 
 ### Stades de la syphilis
 
@@ -110,7 +110,7 @@ Recommandations pour le dépistage répété des personnes à risque de syphilis
 - Première consultation avec personne jeune, population à risque, antécédent d'IST
 - Vulnérabilité  
   Parcours sentimental ou addictions.
-- **[HSH]({{< relref "hsh.md" >}}) avec rapports non protégés**
+- **[HSH]({{% relref "hsh.md" %}}) avec rapports non protégés**
 - Prisonnier
 - Prostitué&bull;e
 - Rapports non protégés avec prostitué&bull;es
@@ -118,8 +118,8 @@ Recommandations pour le dépistage répété des personnes à risque de syphilis
 - Partenaires multiples
 - **[Contexte d'IST récente](/tags/ist/)**
 - Viol
-- Personne vivant avec le [VIH]({{< relref "vih-sida.md" >}}) tous les 3 à 6 mois (*HAS 2018*)
-- [Prophylaxie pré-exposition]({{< relref "prophylaxie-preexposition-prep.md" >}}) (PrEP) tous les 3 mois (*EADV*)
+- Personne vivant avec le [VIH]({{% relref "vih-sida.md" %}}) tous les 3 à 6 mois (*HAS 2018*)
+- [Prophylaxie pré-exposition]({{% relref "prophylaxie-preexposition-prep.md" %}}) (PrEP) tous les 3 mois (*EADV*)
 
 > Le dépistage de la syphilis est gratuit avant 26 ans.
 
@@ -162,10 +162,10 @@ Atteinte cutanée préférentielle (tronc et visage):
   - Papules non prurigineuses, rouge brun, collerette squameuse (de Biett) des visages, OGE, palmo-plantaire symétrique
   - Évolution par poussées
 
-Le prurit est rare et les atteintes muqueuses fréquentes (ex rectite). Une [hyperéosinophilie]({{< relref "hypereosinophilie.md" >}}) est possible.
+Le prurit est rare et les atteintes muqueuses fréquentes (ex rectite). Une [hyperéosinophilie]({{% relref "hypereosinophilie.md" %}}) est possible.
 
 **Toutes les lésions élémentaires dermatologiques sont possibles au cours de la syphilis, sauf vésicules et bulles.**  
-Ex: dépilation des sourcils, lésions d'aspect séborrhéiques des sillons naso-géniens, papules acnéiformes du menton, [alopécie]({{< relref "alopecie.md" >}}) en petite plaques.
+Ex: dépilation des sourcils, lésions d'aspect séborrhéiques des sillons naso-géniens, papules acnéiformes du menton, [alopécie]({{% relref "alopecie.md" %}}) en petite plaques.
 
 > [!INFO]
 > Les lésions de syphilis secondaire sont contagieuses si excoriées.
@@ -192,13 +192,13 @@ Ex: dépilation des sourcils, lésions d'aspect séborrhéiques des sillons naso
 
 Nombreux diagnostics différentiels, c'est pourquoi on appelle la syphilis la << grande simulatrice >>.
 
-- [Acné]({{< relref "acne.md" >}})
-- [Alopécie]({{< relref "alopecie.md" >}})
-- [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
-- [Leucémie aiguë]({{< relref "leucemie-aigue-adulte.md" >}})
+- [Acné]({{% relref "acne.md" %}})
+- [Alopécie]({{% relref "alopecie.md" %}})
+- [Dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}})
+- [Leucémie aiguë]({{% relref "leucemie-aigue-adulte.md" %}})
 - Lichen
-- [Psoriasis et parapsoriasis en goutte]({{< relref "psoriasis.md" >}})
-- [Varicelle]({{< relref "varicelle.md" >}})
+- [Psoriasis et parapsoriasis en goutte]({{% relref "psoriasis.md" %}})
+- [Varicelle]({{% relref "varicelle.md" %}})
 {.list-group}
 
 {{% /collapse %}}

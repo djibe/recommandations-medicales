@@ -56,7 +56,7 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 - Mode de vie
   - Alimentation, activité physique et sédentarité
   - {{< modal-btn modal-fagerstrom >}}Tabac{{< /modal-btn >}}/{{< modal-btn modal-cast >}}cannabis{{< /modal-btn >}}, {{< modal-btn modal-face >}}alcool{{< /modal-btn >}} et addictions
-  - Expositions aux [IST](/tags/ist/), risque de grossesse non désirée ([contraception]({{< relref "contraception.md" >}})).
+  - Expositions aux [IST](/tags/ist/), risque de grossesse non désirée ([contraception]({{% relref "contraception.md" %}})).
 - Bien être mental et social  
   Bien-être mental, sommeil, enfants, vie affective et amicale, statut d'aidant, conditions de travail, repérage de violences et maltraitance.
 - Environnement  
@@ -64,62 +64,62 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 
 ### Parcours de santé {.typography-headline-6}
 
-- [Carnet vaccinal]({{< relref "vaccination.md" >}})
-- Dépistage [IST](/tags/ist/)/[VIH]({{< relref "vih-sida.md" >}}) à jour
-- [Suivi dentaire annuel]({{< relref "prevention-carie-fluor.md" >}}), brossage biquotidien, M'T Dents jusqu'à 24 ans
+- [Carnet vaccinal]({{% relref "vaccination.md" %}})
+- Dépistage [IST](/tags/ist/)/[VIH]({{% relref "vih-sida.md" %}}) à jour
+- [Suivi dentaire annuel]({{% relref "prevention-carie-fluor.md" %}}), brossage biquotidien, M'T Dents jusqu'à 24 ans
 - Traitements en cours, antalgiques, psychotropes, automédication
-- Anorexie, [amaigrissement]({{< relref "denutrition.md" >}})
+- Anorexie, [amaigrissement]({{% relref "denutrition.md" %}})
 
 ### Prévention et repérage des maladies chroniques {.typography-headline-6}
 
 - Infections urinaires fréquentes
-- Incontinence urinaire d'effort ([de la femme]({{< relref "incontinence-urinaire-femme.md" >}}))
+- Incontinence urinaire d'effort ([de la femme]({{% relref "incontinence-urinaire-femme.md" %}}))
 - Poids, taille et IMC
-- [Mesure de la pression artérielle]({{< relref "hypertension-arterielle.md" >}}) (avec [tensiomètre validé]({{< relref "tensiometres-electroniques-valides.md" >}}))
+- [Mesure de la pression artérielle]({{% relref "hypertension-arterielle.md" %}}) (avec [tensiomètre validé]({{% relref "tensiometres-electroniques-valides.md" %}}))
 - Surdité: ({{< modal-btn modal-voix >}}test de la voix chuchotée{{< /modal-btn >}})
 - Baisse de la vision: {{< modal-btn modal-monoyer >}}Monoyer{{< /modal-btn >}}
 - Dernières valeurs du bilan lipidique
 - Facteurs de risque de maladie rénale chronique
-- Céphalées répétées ([migraine]({{< relref "migraine.md" >}}))
+- Céphalées répétées ([migraine]({{% relref "migraine.md" %}}))
 
 ### Spécificités pour l'âge {.typography-headline-6}
 
 <div aria-labelledby="tab-18" class="tab-pane fade show active" id="div-18" role="tabpanel">
 
-- Troubles anxieux et [dépressifs]({{< relref "depression.md" >}}): ({{< modal-btn modal-adrs >}}questionnaire ADRS{{< /modal-btn >}} jusqu'à 20 ans puis {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}})
+- Troubles anxieux et [dépressifs]({{% relref "depression.md" %}}): ({{< modal-btn modal-adrs >}}questionnaire ADRS{{< /modal-btn >}} jusqu'à 20 ans puis {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}})
 - Troubles du comportement alimentaire ({{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}})
-- Femme: [ménorragies]({{< relref "menorragies.md" >}}), [dysménorrhées]({{< relref "endometriose.md" >}})
+- Femme: [ménorragies]({{% relref "menorragies.md" %}}), [dysménorrhées]({{% relref "endometriose.md" %}})
 
 </div>
 <div aria-labelledby="tab-45" class="tab-pane fade" id="div-45" role="tabpanel">
 
-- Dépistage du [cancer colorectal]({{< relref "cancer-colorectal.md" >}}) (à partir de 50 ans)
+- Dépistage du [cancer colorectal]({{% relref "cancer-colorectal.md" %}}) (à partir de 50 ans)
 - BPCO: {{< modal-btn modal-depistage-bpco >}}dépistage des symptômes{{< /modal-btn >}} ou +20 PA, spirométrie
 - {{< modal-btn modal-saos >}}Signes d'apnées du sommeil{{< /modal-btn >}}
-- Troubles anxieux et [dépressifs]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Troubles anxieux et [dépressifs]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 - Femme
-  - [Ménorragies]({{< relref "menorragies.md" >}}), [dysménorrhées]({{< relref "endometriose.md" >}})
-  - [Dépistages du cancer du sein]({{< relref "cancer-sein.md" >}}) (à partir de 50 ans) et du [cancer du col de l'utérus]({{< relref "cancer-col-uterus.md" >}})
-  - Symptômes de [ménopause]({{< relref "menopause.md" >}})
+  - [Ménorragies]({{% relref "menorragies.md" %}}), [dysménorrhées]({{% relref "endometriose.md" %}})
+  - [Dépistages du cancer du sein]({{% relref "cancer-sein.md" %}}) (à partir de 50 ans) et du [cancer du col de l'utérus]({{% relref "cancer-col-uterus.md" %}})
+  - Symptômes de [ménopause]({{% relref "menopause.md" %}})
 
 </div>
 <div aria-labelledby="tab-60" class="tab-pane fade" id="div-60" role="tabpanel">
 
-- [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}}): [grille d'Amsler](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/grille_damsler.pdf)
+- [DMLA]({{% relref "degenerescence-maculaire-age-dmla.md" %}}): [grille d'Amsler](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/grille_damsler.pdf)
 - Problèmes de mémoire, orientation
 - Autonomie
 - Chutes
-- Dépistage du [cancer colorectal]({{< relref "cancer-colorectal.md" >}})
+- Dépistage du [cancer colorectal]({{% relref "cancer-colorectal.md" %}})
 - BPCO: {{< modal-btn modal-depistage-bpco >}}dépistage des symptômes{{< /modal-btn >}} ou +20 PA, spirométrie
 - {{< modal-btn modal-saos >}}Signes d'apnées du sommeil{{< /modal-btn >}}
 - Femme
-  - [Dépistage du cancer du sein]({{< relref "cancer-sein.md" >}}) et du [cancer du col de l'utérus]({{< relref "cancer-col-uterus.md" >}})
-  - Symptômes de [ménopause]({{< relref "menopause.md" >}})
+  - [Dépistage du cancer du sein]({{% relref "cancer-sein.md" %}}) et du [cancer du col de l'utérus]({{% relref "cancer-col-uterus.md" %}})
+  - Symptômes de [ménopause]({{% relref "menopause.md" %}})
 - 65 ans:
   - Vaccins: dTcaPolio, grippe et Covid annuels, zona
-  - [Dépistage de l'ACFA]({{< relref "fibrillation-atriale.md" >}}) et de la [MRC]({{< relref "insuffisance-renale-chronique.md" >}}) (*Académie de pharmacie*)
-  - et fumeur: dépistage de l'[AAA]({{< relref "anevrysme-aorte-abdominale.md" >}}) de l'homme, à considérer chez la femme (*AHA 2022*)
-- [Ostéoporose]({{< relref "osteoporose.md" >}}): {{< modal-btn modal-apports-calcium >}}apports en calcium{{< /modal-btn >}}, ostéodensitométrie en cas de {{< modal-btn modal-dxa-remboursement >}}facteur de risque{{< /modal-btn >}} (ou à 60 ans chez les femmes pour le *GRIO*)
+  - [Dépistage de l'ACFA]({{% relref "fibrillation-atriale.md" %}}) et de la [MRC]({{% relref "insuffisance-renale-chronique.md" %}}) (*Académie de pharmacie*)
+  - et fumeur: dépistage de l'[AAA]({{% relref "anevrysme-aorte-abdominale.md" %}}) de l'homme, à considérer chez la femme (*AHA 2022*)
+- [Ostéoporose]({{% relref "osteoporose.md" %}}): {{< modal-btn modal-apports-calcium >}}apports en calcium{{< /modal-btn >}}, ostéodensitométrie en cas de {{< modal-btn modal-dxa-remboursement >}}facteur de risque{{< /modal-btn >}} (ou à 60 ans chez les femmes pour le *GRIO*)
 - Troubles anxieux et dépressifs: {{< modal-btn modal-gds15 >}}questionnaire GDS-15{{< /modal-btn >}}
 
 </div>
@@ -127,19 +127,19 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 
 - Vaccins: grippe, Covid et VRS (NR) annuels, ± rattrapage dTcaPolio et zona
 - {{< modal-btn modal-mna >}}Dépister la dénutrition{{< /modal-btn >}}
-- [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}}): [grille d'Amsler](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/grille_damsler.pdf)
+- [DMLA]({{% relref "degenerescence-maculaire-age-dmla.md" %}}): [grille d'Amsler](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/grille_damsler.pdf)
 - Problèmes de mémoire, orientation
 - Autonomie
 - Chutes
-- Dépistage du [cancer colorectal]({{< relref "cancer-colorectal.md" >}})
-- [Dépistage de l'ACFA]({{< relref "fibrillation-atriale.md" >}}) et de la [MRC]({{< relref "insuffisance-renale-chronique.md" >}}) (*Académie de pharmacie*)
+- Dépistage du [cancer colorectal]({{% relref "cancer-colorectal.md" %}})
+- [Dépistage de l'ACFA]({{% relref "fibrillation-atriale.md" %}}) et de la [MRC]({{% relref "insuffisance-renale-chronique.md" %}}) (*Académie de pharmacie*)
 - BPCO: {{< modal-btn modal-depistage-bpco >}}dépistage des symptômes{{< /modal-btn >}} ou +20 PA, spirométrie
 - {{< modal-btn modal-saos >}}Signes d'apnées du sommeil{{< /modal-btn >}}
 - Femme
-  - [Dépistage du cancer du sein]({{< relref "cancer-sein.md" >}})
-  - Symptômes de [ménopause]({{< relref "menopause.md" >}})
-- Fumeur: dépistage de l'[AAA]({{< relref "anevrysme-aorte-abdominale.md" >}}) de l'homme, à considérer chez la femme
-- [Ostéoporose]({{< relref "osteoporose.md" >}}): {{< modal-btn modal-apports-calcium >}}apports en calcium{{< /modal-btn >}}, ostéodensitométrie en cas de {{< modal-btn modal-dxa-remboursement >}}facteur de risque{{< /modal-btn >}}
+  - [Dépistage du cancer du sein]({{% relref "cancer-sein.md" %}})
+  - Symptômes de [ménopause]({{% relref "menopause.md" %}})
+- Fumeur: dépistage de l'[AAA]({{% relref "anevrysme-aorte-abdominale.md" %}}) de l'homme, à considérer chez la femme
+- [Ostéoporose]({{% relref "osteoporose.md" %}}): {{< modal-btn modal-apports-calcium >}}apports en calcium{{< /modal-btn >}}, ostéodensitométrie en cas de {{< modal-btn modal-dxa-remboursement >}}facteur de risque{{< /modal-btn >}}
 - Troubles anxieux et dépressifs: {{< modal-btn modal-gds15 >}}questionnaire GDS-15{{< /modal-btn >}}
 
 </div>

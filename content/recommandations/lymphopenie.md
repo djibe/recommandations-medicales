@@ -58,24 +58,24 @@ Les lymphopénies peuvent être classées selon leur mécanisme supposé:
 - Insuffisances de production
   - Déficits immunitaires primitifs
   - Déficits immunitaires secondaires
-  - **[Dénutrition]({{< relref "denutrition.md" >}})**, anorexie mentale
+  - **[Dénutrition]({{% relref "denutrition.md" %}})**, anorexie mentale
   - **Carence en zinc** (malnutrition, alcool, maladie rénale, entéropathie) ou folate
 - Excès de catabolisme
   - [Cancers](/tags/cancer/), radiothérapie, chimiothérapies
   - Immunosuppresseurs, corticothérapie
-  - [Infection VIH]({{< relref "vih-sida.md" >}})
+  - [Infection VIH]({{% relref "vih-sida.md" %}})
   - Lupus systémique (prévalence 75%)
 - Modification de répartition des lymphocytes
   - Hypersplénisme
-  - Certaines infections virales (rougeole, CMV, VRS, [grippe]({{< relref "grippe.md" >}}))
+  - Certaines infections virales (rougeole, CMV, VRS, [grippe]({{% relref "grippe.md" %}}))
   - Choc septique
   - Brûlures étendues
   - Granulomatose (sarcoïdose, Wegener, Crohn)
   - Corticothérapie (max 4 heures après la prise)
 - Autres causes de lymphopénie
   - Origines: Éthiopie
-  - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
-  - [Lymphomes]({{< relref "lymphomes-non-hodgkiniens.md" >}})
+  - [Insuffisance rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})
+  - [Lymphomes]({{% relref "lymphomes-non-hodgkiniens.md" %}})
   - Tumeur solide
   - Intoxication alcoolique aiguë
   - **Sport**
@@ -89,9 +89,9 @@ Les lymphopénies peuvent être classées selon leur mécanisme supposé:
 - Antécédents  
   Cancer, rénal, infections répétées, maladie de système, MICI ou entéropathie, VIH, familiaux.
 - Traitements en cours  
-  Immunosuppresseurs, [corticoïdes]({{< relref "corticoides.md" >}}), radio-chimiothérapie.
+  Immunosuppresseurs, [corticoïdes]({{% relref "corticoides.md" %}}), radio-chimiothérapie.
 - Participation aux dépistages des cancers
-- [Consommation d'alcool]({{< relref "sevrage-alcool.md" >}}) et toxiques
+- [Consommation d'alcool]({{% relref "sevrage-alcool.md" %}}) et toxiques
 - Régime alimentaire
 - Expositions sexuelles
 - Lymphopénie
@@ -101,7 +101,7 @@ Les lymphopénies peuvent être classées selon leur mécanisme supposé:
   - Cytopénies associées
 - Symptômes associés
   - AEG
-  - Syndrome infectieux aigu (viral ou bactérien) ou prolongé ([VIH]({{< relref "vih-sida.md" >}}), [tuberculose]({{< relref "tuberculose.md" >}}), hémopathie)
+  - Syndrome infectieux aigu (viral ou bactérien) ou prolongé ([VIH]({{% relref "vih-sida.md" %}}), [tuberculose]({{% relref "tuberculose.md" %}}), hémopathie)
   - Douleurs
   - Sueurs profuses
   - Symptômes chroniques
@@ -128,7 +128,7 @@ Bilan de première intention pour la prise en charge d'une lymphopénie:
 
 - NFS, CRP
 - Créatininémie et DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
-- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
+- [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
 - Calcémie, calciurie
 - Zinc
 - LDH, ECA

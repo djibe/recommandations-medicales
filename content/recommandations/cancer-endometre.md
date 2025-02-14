@@ -27,7 +27,7 @@ flowchart = true
 - Toute hyperplasie endométriale doit être biopsiée sous hystéroscopie
 - Une endomètre ≤ 4 mm élimine une suspicion de cancer de l'endomètre (VPN +99%)
 - La prise en charge et le traitement du cancer de l'endomètre dépend de la RCP mais privilégie la chirurgie avec hystérectomie totale et salpingo-ovariectomie bilatérale, à l'origine d'une stérilisation
-- [Traitement par tamoxifène]({{< relref "cancer-sein.md" >}}): échographie pelvienne initiale puis suivi gynécologique annuel
+- [Traitement par tamoxifène]({{% relref "cancer-sein.md" %}}): échographie pelvienne initiale puis suivi gynécologique annuel
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -41,8 +41,8 @@ Cancer de l'endomètre
 Surtout par présence d'œstrogènes en excès:
 
 - Principaux facteurs de risque
-  - Syndrome métabolique: surpoids et [obésité]({{< relref "obesite-adulte.md" >}}), [diabète](/tags/diabete/) et [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
-  - Traitement d'un [cancer du sein]({{< relref "cancer-sein.md" >}}) par tamoxifène
+  - Syndrome métabolique: surpoids et [obésité]({{% relref "obesite-adulte.md" %}}), [diabète](/tags/diabete/) et [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
+  - Traitement d'un [cancer du sein]({{% relref "cancer-sein.md" %}}) par tamoxifène
 - Nulliparité
 - Ménarche précoce et ménopause tardive
 - Syndrome de Lynch/HNPCC
@@ -91,12 +91,12 @@ Signes et symptômes évocateurs à rechercher en cas de suspicion d'un cancer d
   {{< clinique/cancer-spectre-lynch >}}.
 - Facteurs de risque du cancer de l'endomètre
   - Syndrome métabolique
-  - Traitement par [tamoxifène]({{< relref "cancer-sein.md" >}})
+  - Traitement par [tamoxifène]({{% relref "cancer-sein.md" %}})
 - Symptômes
   - **Métrorragies** spontanées d'abondance moyenne
   - Leucorrhées
   - [Douleurs pelviennes](/tags/douleur-pelvienne/)
-  - [Cystites répétées]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
+  - [Cystites répétées]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})
 - +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
 > [!INFO]
@@ -136,12 +136,12 @@ Adresser en semi-urgence à l'équipe hospitalière de gynécologie pour la suit
 
 La prise en charge du cancer de l'endomètre repose essentiellement sur la chirurgie avec **hystérectomie totale** et salpingo-ovariectomie bilatérale si la patiente est opérable.
 
-La chirurgie avant 50 ans entraîne une [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}) pouvant être substituée par traitement hormonal substitutif avec œstrogènes seuls (*HAS 2010*, voir [ménopause]({{< relref "menopause.md" >}}) pour le THS).
+La chirurgie avant 50 ans entraîne une [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}) pouvant être substituée par traitement hormonal substitutif avec œstrogènes seuls (*HAS 2010*, voir [ménopause]({{% relref "menopause.md" %}}) pour le THS).
 
 Comme pour tout cancer:
 
-- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
-- [Sevrage tabagique]({{< relref "arret-tabac.md" >}})
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
+- [Sevrage tabagique]({{% relref "arret-tabac.md" %}})
 - Proposer un soutien psychologique
 - Soins de confort
 - Évaluation nutritionnelle
@@ -170,7 +170,7 @@ Suivi après traitement du cancer de l'endomètre:
 - Suspicion de récidive: scanner abdomino-pelvien
 - Localisation des récidives d'un cancer endométrial les plus fréquentes: vessie, côlon, sein
 
-**[Hématurie]({{< relref "hematurie.md" >}})** après radiothérapie pelvienne: éliminer sans délai un [cancer de la vessie]({{< relref "cancer-vessie.md" >}}).
+**[Hématurie]({{% relref "hematurie.md" %}})** après radiothérapie pelvienne: éliminer sans délai un [cancer de la vessie]({{% relref "cancer-vessie.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du cancer de l'endomètre" "show" %}}

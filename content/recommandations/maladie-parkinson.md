@@ -37,7 +37,7 @@ todo = "sd pyramidal, sd cérébelleux, American Academy of Neurology, HAS 2016 
 
 Maladie de Parkinson idiopathique (MPI)
 : Maladie dégénérative de cause inconnue touchant les systèmes dopaminergiques, cholinergiques, noradrénergiques et sérotoninergiques. Le diagnostic de certitude est histologique (et donc autopsique).
-: Première cause de syndrome parkinsonien et 2^e^ maladie neurodégénérative (derrière [Alzheimer]({{< relref "maladie-alzheimer.md" >}})).
+: Première cause de syndrome parkinsonien et 2^e^ maladie neurodégénérative (derrière [Alzheimer]({{% relref "maladie-alzheimer.md" %}})).
 
 Tremblement essentiel
 : Début à l'adolescence (~15 ans) ou plus tard vers 50 ans, fréquent, souvent bilatéral et symétrique, rapide (4-10 Hz), tremblement d'action postural ou cinétique sans tremblement de repos. Déclenchement immédiat du tremblement postural.
@@ -79,7 +79,7 @@ Hypokinésie
 - Tremblement postural et d'action
   - **Tremblement essentiel**
   - Tremblement physiologique exagéré
-  - [Hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
+  - [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})
   - Iatrogénie  
     Bêta-agoniste, lithium, théophilline, antidépresseurs, neuroleptiques, valproate de sodium, lévothyroxine, corticoïdes.
   - Caféine
@@ -91,7 +91,7 @@ Hypokinésie
 
 Autres diagnostics à étayer devant un syndrome parkinsonien:
 
-- [Infarctus cérébraux multiples]({{< relref "accident-vasculaire-cerebral.md" >}})  
+- [Infarctus cérébraux multiples]({{% relref "accident-vasculaire-cerebral.md" %}})  
   Plutôt symétrique, peu sensible aux dopaminergiques, syndrome peudo-bulbaire.
 - Syndromes parkinsoniens dégénératifs
   - Maladie de Parkinson
@@ -103,7 +103,7 @@ Autres diagnostics à étayer devant un syndrome parkinsonien:
     Dysautonomie précoce, syndrome cérébelleux et pyramidal.
   - Dégénérescence corticobasale  
     Myoclonies, dystonie distale des extrémités, rigidité unilatérale, apraxie, main capricieuse ou "étrangère".
-- [Maladie de Wilson]({{< relref "maladie-wilson.md" >}})  
+- [Maladie de Wilson]({{% relref "maladie-wilson.md" %}})  
   Sujet jeune, autosomique récessif, atteinte hépatique et oculaire. Bilan du cuivre.
 
 ### Épidémiologie de la Maladie de Parkinson en France
@@ -160,7 +160,7 @@ Signes et symptômes devant faire évoquer une autre maladie neurologique:
 - Syndrome cérébelleux
 - Syndrome pyramidal
 - Troubles oculomoteurs
-- Dysautonomie précoce: [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}) ou incontinence urinaire
+- Dysautonomie précoce: [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}) ou incontinence urinaire
 - Hallucinations ou détériorations intellectuelles précoces
 - Dysarthrie et/ou troubles de la déglutition précoces et rapidement sévères
 
@@ -207,13 +207,13 @@ La triade classique est akinésie/bradykinésie, rigidité et tremblement de rep
   - Douleurs pseudo-rhumatismales (épaule, rachis) ou diverses (paresthésies, radiculalgies)
   - Hyposmie précoce (73-90%)
   - Troubles du sommeil paradoxal (rêves agités)
-  - [Constipation]({{< relref "constipation.md" >}})
+  - [Constipation]({{% relref "constipation.md" %}})
   - Amaigrissement et asthénie
   - Hallucinations (visuelles ++)
   - Déclin cognitif (⅓ au diagnostic)  
     Échelles PDD short screen (PDD-SS), Addenbrooke's Cognitive Examination-Revised (ACE-R) ou Montreal Cognitive Assessment (MoCA, [web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf)).
 - Excellente réponse à la L-dopa
-- Autres: sommeil, anxiété et [dépression]({{< relref "depression.md" >}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}})
+- Autres: sommeil, anxiété et [dépression]({{% relref "depression.md" %}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}})
 - **Signes négatifs / atypiques** à rechercher tous les 6-12 mois
   - Drapeaux rouges (voir section précédente)
   - AVC multiples
@@ -224,14 +224,14 @@ La triade classique est akinésie/bradykinésie, rigidité et tremblement de rep
   - Iatrogénie  
     Antipsychotiques (halopéridol, chlorpromazine, amisulpride, aripiprazole, olanzapine, rispéridone ...), antiémétiques (métoclopramide, métopimazine), tiapride, plus rarement (IRS, amiodarone, lithium, inhibiteurs de la cholinestérase, méthyldopa, inhibiteurs calciques, valproate de sodium)
   - Expositions  
-    [Plomb]({{< relref "saturnisme.md" >}}), manganèse et métaux lourds, solvants organiques, pesticides, eaux de puits.
+    [Plomb]({{% relref "saturnisme.md" %}}), manganèse et métaux lourds, solvants organiques, pesticides, eaux de puits.
 
 Ces éléments reprennent les critères diagnostiques *Queen Square Brain Bank* (QSBB).
 
 ### Examen clinique
 
 - Poids, taille, IMC, variations
-- Pression artérielle, pouls, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}})
+- Pression artérielle, pouls, [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}})
 - Examen neurologique complet
   - Ne pas oublier: pyramidal et cérébelleux, roue dentée, regard vers le haut
   - Signes négatifs: signe de Babinski
@@ -278,7 +278,7 @@ Le conseil génétique est recommandé (*EFNS 2013*) si: plusieurs proches attei
 
 Le traitement est symptomatique et pluridisciplinaire avec un accès privilégié au neurologue (minimum semestriel):
 
-- Déclarer l'[ALD n°16]({{< relref "affection-longue-duree.md" >}})  
+- Déclarer l'[ALD n°16]({{% relref "affection-longue-duree.md" %}})  
   Critère: Syndrome parkinsonien non réversible nécessitant au moins un traitement anti parkinsonien pendant au moins 6 mois.
 - Suivi minimal trimestriel  
   Avis gériatrique si besoin.
@@ -290,7 +290,7 @@ Le traitement est symptomatique et pluridisciplinaire avec un accès privilégi�
   - Infirmier (bilan et interventions)
   - Ergothérapeute
   - Psychologue
-  - Pédicure-podologue, psychomotricien, diététicien, [orthoptiste]({{< relref "bilan-orthoptique.md" >}}) ...
+  - Pédicure-podologue, psychomotricien, diététicien, [orthoptiste]({{% relref "bilan-orthoptique.md" %}}) ...
 - Autres traitements: antalgiques, anxiolytiques, antidépresseurs
 - Adaptation du domicile, prévention des chutes
 - Contexte social et entourage
@@ -371,7 +371,7 @@ L'indication principale à la stimulation cérébrale est une qualité de vie al
   - Dyskinésies ou dystonies douloureuses (orteils et pieds surtout)
 - Troubles neuro-psychiatriques
   - Dépression (45%): préférer les IRS mais contre-indiqués si lévodopa, entacapone/tolcapone
-  - Anxiété: psychothérapie, relaxation, optimisation du traitement, anxiolytiques ([BZD]({{< relref "benzodiazepines.md" >}}) max 12 semaines), voire certains ISRS ou IRSNA si grave
+  - Anxiété: psychothérapie, relaxation, optimisation du traitement, anxiolytiques ([BZD]({{% relref "benzodiazepines.md" %}}) max 12 semaines), voire certains ISRS ou IRSNA si grave
   - Démence (40%) progressive et tardive. Bilan de confusion, réduction des traitements (tricycliques, oxybutynine, ranitidine, BZD, amantadine, agonistes dopaminergiques), avis neurologique.
 - Troubles dysautonomiques et autres (voir section suivante)
 
@@ -382,7 +382,7 @@ L'indication principale à la stimulation cérébrale est une qualité de vie al
 
 #### Hypotension orthostatique
 
-Voir [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}).
+Voir [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}).
 
 #### Nausées  
 
@@ -396,11 +396,11 @@ Arrêt des anticholinergiques si possible. Augmenter les fibres/fruits et l'hydr
 
 #### Troubles mictionnels
 
-Les troubles mictionnels sont très fréquents et débutent souvent avec une nycturie. Exclure une [infection urinaire]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}) en aigu, dépister un diabète selon les symptômes. Hydratation, hygiène locale, traitement de la constipation, dispositifs pour éviter de se lever la nuit. Envisager un anticholinergique avec le neurologue (bilan urodynamique recommandé). Avis urologique en cas de symptômes résistants.
+Les troubles mictionnels sont très fréquents et débutent souvent avec une nycturie. Exclure une [infection urinaire]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}) en aigu, dépister un diabète selon les symptômes. Hydratation, hygiène locale, traitement de la constipation, dispositifs pour éviter de se lever la nuit. Envisager un anticholinergique avec le neurologue (bilan urodynamique recommandé). Avis urologique en cas de symptômes résistants.
 
 #### Dysfonction érectile et de la libido
 
-La [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) et les troubles du désir et de l'excitation sont très fréquents. Bilan TSH et prolactine, envisager une dépression. Arrêt des alphabloquants ou des ISRS en cas d'anorgasmie. IPDE5 ou autres (risque hypotension). Avis urologique ou sexologique.
+La [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}) et les troubles du désir et de l'excitation sont très fréquents. Bilan TSH et prolactine, envisager une dépression. Arrêt des alphabloquants ou des ISRS en cas d'anorgasmie. IPDE5 ou autres (risque hypotension). Avis urologique ou sexologique.
 
 #### Hyperhidrose
 
@@ -430,7 +430,7 @@ Sinon recours à la clozapine avec surveillance biologique ([Tralongo 2023](http
 
 Les addictions sont fréquentes (1-14%) par iatrogénie dopaminergique (agonistes surtout) et à rechercher systématiquement car souvent dissimulées. Avis neurologique systématique.
 
-Conduites addictives: [boulimie]({{< relref "boulimie-hyperphagie.md" >}}), hyperactivité, hypersexualité, jeux, achats, punding (besoin d'examiner, manipuler, collectionner, (dé-)monter des objets).
+Conduites addictives: [boulimie]({{% relref "boulimie-hyperphagie.md" %}}), hyperactivité, hypersexualité, jeux, achats, punding (besoin d'examiner, manipuler, collectionner, (dé-)monter des objets).
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

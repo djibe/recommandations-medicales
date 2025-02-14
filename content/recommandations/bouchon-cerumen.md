@@ -112,7 +112,7 @@ L'**éducation aux mesures d'hygiène** (voir [Mesures d'hygiène](#mesures-dhyg
 
 - Agents céruménolytiques: absence de complications
 - Irrigation: perforation du tympan, douleurs, vertiges, plaie du conduit, infections chez les immunodéprimés
-- Extraction manuelle: plaie du conduit, perforation du tympan, [otite externe]({{< relref "otite-externe.md" >}}), douleurs, traumatisme phonique
+- Extraction manuelle: plaie du conduit, perforation du tympan, [otite externe]({{% relref "otite-externe.md" %}}), douleurs, traumatisme phonique
 
 {{% /collapse %}}
 {{%collapse "Mesures d'hygiène des oreilles" %}}

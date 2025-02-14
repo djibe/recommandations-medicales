@@ -37,7 +37,7 @@ modele = true
 
 Polyarthrite rhumatoïde (PR)
 : Maladie chronique de la membrane synoviale évoluant par poussées inflammatoires. Il s'agit du 1^er^ rhumatisme inflammatoire de l'adulte (prévalence de 0,3 à 1%).  
-La destruction articulaire entraîne une altération de la qualité de vie, un handicap et une réduction de l'[espérance de vie]({{< relref "esperance-vie-age-france.md" >}}) de 10 ans
+La destruction articulaire entraîne une altération de la qualité de vie, un handicap et une réduction de l'[espérance de vie]({{% relref "esperance-vie-age-france.md" %}}) de 10 ans
 : Intérêt d'un diagnostic et d'un traitement précoce pour ralentir l'évolution de la maladie.
 : **Complications** de la polyarthrite: déformations articulaires et handicap, douleurs et altération de la qualité de vie, augmentation du risque cardiovasculaire, insuffisance respiratoire restrictive, infections, lymphomes, fractures ostéoporotiques.
 : *Rémission* de la polyarthrite rhumatoïde: lorsque le score [DAS28](https://sfr.larhumatologie.fr/sites/sfr.larhumatologie.fr/files/medias/formations-ressources/boite_outils/das28.pdf) est < 2,6.
@@ -54,7 +54,7 @@ Autres diagnostics à évoquer devant des polyarthralgies:
 
 - Connectivite  
   Lupus, Gougerot-Sjögren.
-- [Spondylarthrite]({{< relref "spondylarthrite-ankylosante.md" >}})
+- [Spondylarthrite]({{% relref "spondylarthrite-ankylosante.md" %}})
 - Arthrose digitale
 
 ### Facteurs de mauvais pronostic de la polyarthrite rhumatoïde
@@ -138,9 +138,9 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
   - Syndrome sec
 - Diagnostic différentiel
   - Connectivites  
-    [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), myalgie, perte de force, lésions cutanées, photosensibilité.
+    [Phénomène de Raynaud]({{% relref "phenomene-raynaud.md" %}}), myalgie, perte de force, lésions cutanées, photosensibilité.
   - Spondyloarthrites et rhumatisme psoriasique  
-    Atteinte des IPD, [psoriasis]({{< relref "psoriasis.md" >}}), diarrhée glairo-sanglante, uvéite, rachialgie, pyalgie.
+    Atteinte des IPD, [psoriasis]({{% relref "psoriasis.md" %}}), diarrhée glairo-sanglante, uvéite, rachialgie, pyalgie.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -152,12 +152,12 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
 - NFS, VS, CRP
 - ASAT, ALAT
 - Créatininémie, DFG selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
-- Bandelette urinaire (protéinurie, [hématurie]({{< relref "hematurie.md" >}}))
+- Bandelette urinaire (protéinurie, [hématurie]({{% relref "hematurie.md" %}}))
 - Facteur rhumatoïde (FR)
 - Anticorps anti-peptide citrulliné (*ACPA*)
 - Anticorps antinucléaires (AAN)
-- Sérologies [hépatite B]({{< relref "hepatite-c.md" >}}), [hépatite C]({{< relref "hepatite-c.md">}}) et [VIH]({{< relref "vih-sida.md" >}})
-- Ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
+- Sérologies [hépatite B]({{% relref "hepatite-c.md" %}}), [hépatite C]({{% relref "hepatite-c.md" %}}) et [VIH]({{% relref "vih-sida.md" %}})
+- Ferritine (voir [hémochromatose]({{% relref "hemochromatose.md" %}}))
 
 avec les radiographies suivantes:
 
@@ -170,8 +170,8 @@ avec les radiographies suivantes:
 Selon le contexte:
 
 - Échographie doppler et mode B des poignets, mains et avant-pieds
-- Sérologie de borréliose ([Maladie de Lyme]({{< relref "maladie-lyme.md" >}}))
-- [Uricémie]({{< relref "goutte.md" >}})
+- Sérologie de borréliose ([Maladie de Lyme]({{% relref "maladie-lyme.md" %}}))
+- [Uricémie]({{% relref "goutte.md" %}})
 - Ponction et culture de liquide synovial
 
 Les autres examens relèvent du rhumatologue.
@@ -193,13 +193,13 @@ La décision du traitement dépend du rhumatologue, partagée avec le patient.
   - Risque cardiovasculaire: {{< scores/heartscore >}}  
     Multiplier le risque par 1,5 (*ESC 2021*).
   - Hypertension artérielle: privilégier IEC/ARA2 ou anticalcique
-  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
   - Activité physique régulière
   - Correction d'un surpoids
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Échodoppler des troncs supra-aortiques (TSA)
   - Dépistage annuel de la maladie rénale chronique: créatininémie et rapport albuminurie/créatininurie (*HAS 2023*)
-- Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md">}})  
+- Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}})  
   dTP tous les 10 ans, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}.
 - Mise à jour des **[dépistages des cancers](/tags/depistage/)**
 - Association de patients: [AFPric](https://www.polyarthrite.org/), [ANDAR](http://www.polyarthrite-andar.com/)
@@ -210,7 +210,7 @@ La décision du traitement dépend du rhumatologue, partagée avec le patient.
   - Ergothérapie, balnéothérapie
   - Pédicurie-podologie
   - Diététique
-- Déclarer l'[ALD n°22]({{< relref "affection-longue-duree.md" >}})  
+- Déclarer l'[ALD n°22]({{% relref "affection-longue-duree.md" %}})  
   Critères: Polyarthrite inflammatoire (ou affections apparentées) d'évolution chronique justifiant un traitement de fond ou avec handicap lourd.
 
 Un avis **orthopédique** est possible en cas de déformations majeures ou invalidantes.
@@ -227,7 +227,7 @@ Ceux-ci relèvent exclusivement du rhumatologue.
 **Objectif de la prise en charge:** rémission clinique (absence de signes ou symptômes inflammatoires significatifs) ou plus faible activité possible.  
 **Rémission:** absence de signes et symptômes d'activité inflammatoire significative.
 
-- Prévention des complications: cardiovasculaires, respiratoires, infectieuses, lymphomes et fractures [ostéoporotiques]({{< relref "osteoporose.md" >}}).
+- Prévention des complications: cardiovasculaires, respiratoires, infectieuses, lymphomes et fractures [ostéoporotiques]({{% relref "osteoporose.md" %}}).
 - Éducation thérapeutique
 
 ### Traitement de fond conventionnel de la polyarthrite rhumatoïde
@@ -273,7 +273,7 @@ En association avec le méthotrexate (≥ 10 mg/semaine), selon la tolérance, p
   Abatacept (Orencia®).
 
 Relayer par un autre en cas d'inefficacité.  
-Décroissance quand rémission persistante ≥ 6 mois et [arrêt des corticoïdes]({{< relref "corticoides.md" >}}) (ou dose quotidienne ≤ 5 mg/j).
+Décroissance quand rémission persistante ≥ 6 mois et [arrêt des corticoïdes]({{% relref "corticoides.md" %}}) (ou dose quotidienne ≤ 5 mg/j).
 
 #### En l'absence de facteurs de mauvais pronostic
 
@@ -286,7 +286,7 @@ En attente de l'efficacité du traitement de fond ou lors de son remplacement.
 Posologie initiale ex. 0,15 mg/kg. On parle de faible dose quand ≤ 7,5 mg/j d'équivalent prednisone.
 
 **Arrêt sous 3 mois avec décroissance progressive (maximum 6 mois)**, dose minimale suffisante.  
-Complications fréquentes: [ostéoporose]({{< relref "osteoporose.md" >}}), surinfections.  
+Complications fréquentes: [ostéoporose]({{% relref "osteoporose.md" %}}), surinfections.  
 Alternative: méthylprednisolone IV 80-120 mg.
 
 ### Infiltrations de corticoïdes

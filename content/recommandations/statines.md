@@ -50,12 +50,12 @@ La cible de LDL cholestérol dépend des antécédents cardiovasculaires figuran
 
 {{< clinique/risque-cardiovasculaire >}}
 
-L'[évaluation chez la personne avec un diabète]({{< relref "diabete-type-2.md" >}}) est différente.
+L'[évaluation chez la personne avec un diabète]({{% relref "diabete-type-2.md" %}}) est différente.
 
 ### Statine en prévention primaire
 
 Selon la *ESC 2021*, la cible de LDL est définie selon le {{< scores/heartscore >}} à partir de 40 ans ...  
-en l'absence de maladie cardiovasculaire, de comorbidité ([diabète](/tags/diabete/), hypercholestérolémie familiale, [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})) ou de [grossesse]({{< relref "grossesse.md" >}}).
+en l'absence de maladie cardiovasculaire, de comorbidité ([diabète](/tags/diabete/), hypercholestérolémie familiale, [maladie rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})) ou de [grossesse]({{% relref "grossesse.md" %}}).
 
 Toutefois la ESC appelle à un **LDL inférieur à 1 g/L** pour tous à tous les âges.
 
@@ -64,7 +64,7 @@ Selon l'avis indépendant de la *USPTF 2022*, une statine est recommandée pour 
 - Adulte de 40 à 75 ans
 - Risque cardiovasculaire à 10 ans ≥ 10% (calcul du {{< scores/heartscore >}})  
   Pour certains patients si risque compris de 7,5 à 9,9%.
-- Avec ≥ 1 autre facteur de risque cardiovasculaire: dyslipidémie, [diabète](/tags/diabete/), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), [tabagisme]({{< relref "arret-tabac.md" >}})
+- Avec ≥ 1 autre facteur de risque cardiovasculaire: dyslipidémie, [diabète](/tags/diabete/), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [tabagisme]({{% relref "arret-tabac.md" %}})
 
 La USPTF ajoute qu'il n'y a pas de bénéfice à initier une statine en prévention primaire à partir de 76 ans.
 
@@ -143,7 +143,7 @@ Lorsqu'une statine doit être arrêtée pour mauvaise tolérance, envisager la s
 ### Statines et grossesse
 
 - Selon le *CRAT* pour [atorvastatine](https://www.lecrat.fr/8611/), [pravastatine](https://www.lecrat.fr/8622/), [rosuvastatine](https://www.lecrat.fr/8643/), [simvastatine](https://www.lecrat.fr/8653/):
-  - Prévoir l'arrêt de la statine pendant la grossesse, sinon contacter le CRAT (cas d'[hypercholestérolémie familiale]({{< relref "hypercholesterolemie-familiale.md" >}}) ou hypertriglycéridémies sévères)
+  - Prévoir l'arrêt de la statine pendant la grossesse, sinon contacter le CRAT (cas d'[hypercholestérolémie familiale]({{% relref "hypercholesterolemie-familiale.md" %}}) ou hypertriglycéridémies sévères)
 - Selon *ESC CVD 2021* (grade C):  
   << Le traitement par statines n'est pas recommandé chez les femmes non ménopausées qui envisagent une grossesse ou qui n'utilisent pas une contraception efficace. >>
 - Selon les [RCP de la pravastatine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61650728&typedoc=R#RcpFertGrossAllait):  
@@ -157,7 +157,7 @@ Lorsqu'une statine doit être arrêtée pour mauvaise tolérance, envisager la s
 {{% /collapse %}}
 {{%collapse "Effets de l'arrêt d'une statine" %}}
 
-Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**[infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}})** en plus et une **surmortalité cardiovasculaire** de 18%.
+Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**[infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}})** en plus et une **surmortalité cardiovasculaire** de 18%.
 
 > -- *[Sune Fallgaard Nielsen 2016](https://academic.oup.com/eurheartj/article/37/11/908/2398344)*
 

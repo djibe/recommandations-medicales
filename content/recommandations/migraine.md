@@ -26,7 +26,7 @@ modele = true
 {{%article-summary%}}
 
 - Triade migraineuse: évolution chronique par crises récurrentes avec intervalle libre + crises migraineuses stéréotypées + examen clinique normal
-- Contre-indication à l'association: migraine + pilule + tabac. Impacte le choix de la [contraception]({{< relref "contraception.md" >}})
+- Contre-indication à l'association: migraine + pilule + tabac. Impacte le choix de la [contraception]({{% relref "contraception.md" %}})
 - Suivi à chaque consultation de l'[Agenda migraineux](https://www.sfetd-douleur.org/wp-content/uploads/2019/08/agenda_cephalees_chu2015.pdf)
 - Traitement de la crise migraineuse
   - Réévalué après 3 crises ({{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}})
@@ -107,17 +107,17 @@ Autres causes de céphalées:
   Durée en heures ou jours, diffuse, non pulsatile, non aggravée à l'effort, moins intense, sans signes digestifs associés, parfois phono OU photophobie. Souvent associée chez le migraineux.
 - Névralgie d'Arnold
 - Sinusite aiguë
-- Troubles de la vision binoculaire ([orthoptie]({{< relref "bilan-orthoptique.md" >}}))  
+- Troubles de la vision binoculaire ([orthoptie]({{% relref "bilan-orthoptique.md" %}}))  
   Fatigue visuelle, céphalées, difficultés de concentration ou de lecture...
-- [Algie vasculaire de la face]({{< relref "algie-vasculaire-face.md" >}})  
+- [Algie vasculaire de la face]({{% relref "algie-vasculaire-face.md" %}})  
   Crises pluriquotidiennes, 15-180 min, stricte unilatéralité fixe, arrachement, décharges, intensité très sévère.
-- [Névralgie du nerf trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})  
+- [Névralgie du nerf trijumeau]({{% relref "nevralgie-trigeminale-classique.md" %}})  
   Très brèves (qq secondes à 2 minutes), strictement unilatérale V2/V3, neuropathique, gâchette, pas de phonophotophobie ou troubles digestifs.
 - Tumeur du 3^e^ ventricule
 
 ### Diagnostic différentiel des migraines avec aura
 
-- [AIT]({{< relref "accident-vasculaire-cerebral.md" >}})  
+- [AIT]({{% relref "accident-vasculaire-cerebral.md" %}})  
   Déficit de début brutal et symptômes d'emblée maximaux, souvent associés (moteur et sensitif), ± amaurose fugace ou hémianopsie, souvent > 40 ans.
 - Épilepsie partielle occipitale  
   Installation en quelques secondes, début en vision périphérique, formes circulaires colorées de qq secondes à minutes, début enfance/adolescence.
@@ -152,7 +152,7 @@ La douleur typique est frontale, orbitale, temporale et occipitale. Fréquemment
 
 **Autres symptômes non douloureux:** allodynie, fatigue, bâillements, difficultés de concentration, changements d'humeur, raideur nucale, pâleur et [vertiges](/tags/vertige/).
 
-**Signes autonomes possibles:** rougeur conjonctivale, larmoiement, congestion nasale, rhinorrhée, œdème de paupière, myosis ou ptosis (différencier d'une [algie vasculaire de la face]({{< relref "algie-vasculaire-face.md" >}})).  
+**Signes autonomes possibles:** rougeur conjonctivale, larmoiement, congestion nasale, rhinorrhée, œdème de paupière, myosis ou ptosis (différencier d'une [algie vasculaire de la face]({{% relref "algie-vasculaire-face.md" %}})).  
 Ces symptômes peuvent précéder la crise de 2 jours et persister 2 jours après sa résolution.
 
 Si l'un des critères A, B, C ou D n'est pas rempli en totalité = **migraine sans aura probable**.
@@ -203,7 +203,7 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
 ### Interrogatoire
 
 - Antécédents  
-  Familiaux, [coronaropathie]({{< relref "syndrome-coronarien-chronique.md" >}}), [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), [phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), autres douleurs ...
+  Familiaux, [coronaropathie]({{% relref "syndrome-coronarien-chronique.md" %}}), [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), [phénomène de Raynaud]({{% relref "phenomene-raynaud.md" %}}), autres douleurs ...
 - Alcool, tabac
 - Risques de chronicisation
   - Rechercher un syndrome anxieux/dépressif ({{< modal-btn modal-hads >}}échelle HAD{{< /modal-btn >}})
@@ -211,7 +211,7 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
   - Terrain cardiovasculaire et respiratoire (asthme, hypertension artérielle)
   - Troubles du sommeil (ronflement, insomnie)
   - Autres douleurs
-  - [Obésité]({{< relref "obesite-adulte.md" >}})
+  - [Obésité]({{% relref "obesite-adulte.md" %}})
 - Histoire des céphalées
   - Âge de début
   - Localisation, type, durée, intensité, périodicité, jours mensuels
@@ -233,7 +233,7 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
     Reconsulter lorsque traitement pris ≥ 2 jours/semaine depuis ≥ 3 mois.
   - Qualité de vie: {{< modal-btn modal-hit6 >}}échelle HIT-6{{< /modal-btn >}}  
     Reprendre à chaque consultation l'impact sur la vie quotidienne.
-- Femme: désir de grossesse, [contraception]({{< relref "contraception.md" >}}), [ménopause]({{< relref "menopause.md" >}})
+- Femme: désir de grossesse, [contraception]({{% relref "contraception.md" %}}), [ménopause]({{% relref "menopause.md" %}})
 
 ### Examen clinique
 
@@ -267,12 +267,12 @@ Indications à l'IRM cérébrale en cas de migraines:
 
 ### Bilan orthoptique
 
-Proposer si [signes évocateurs]({{< relref "bilan-orthoptique.md" >}}): diplopie, vision floue, fatigue, troubles de concentration, difficultés d'adaptation aux lunettes...  
+Proposer si [signes évocateurs]({{% relref "bilan-orthoptique.md" %}}): diplopie, vision floue, fatigue, troubles de concentration, difficultés d'adaptation aux lunettes...  
 Recherche une part non migraineuse associée.
 
 ### Sérologie cœliaque
 
-Selon *ESsCD 2019*: IgA anti-transglutaminase et IgA totales devant migraine ou céphalées (voir *[maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})*)
+Selon *ESsCD 2019*: IgA anti-transglutaminase et IgA totales devant migraine ou céphalées (voir *[maladie cœliaque]({{% relref "maladie-coeliaque.md" %}})*)
 
 {{% /collapse %}}
 {{%collapse "Traitement de la crise migraineuse et mesures générales" %}}
@@ -288,7 +288,7 @@ Ne pas culpabiliser l'abus médicamenteux en migraine chronique (effet délétè
 
 ### Hygiène de vie
 
-- [Arrêt du tabac obligatoire]({{< relref "arret-tabac.md" >}})  
+- [Arrêt du tabac obligatoire]({{% relref "arret-tabac.md" %}})  
   {{%class%}}L'association migraine - tabac décuple le risque d'AVC.{{%/class%}}
 - Éviter les facteurs déclenchants identifiés  
   Habituels: facteur alimentaire, alcool, manque de sommeil/grasse matinée, stress, jeûne, chaleur, changements de climat.
@@ -353,7 +353,7 @@ Max 2 prises/24h avec intervalle minimal de 2 heures entre les prises.
 Les triptans:
 
 - En pédiatrie: seul le [sumatriptan nasal](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67153334&typedoc=R) est possible à partir de 12 ans
-- Contre-indications: [phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), [cardiopathie ischémique]({{< relref "syndrome-coronarien-chronique.md" >}}) et {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}, hypersensibilité au produit
+- Contre-indications: [phénomène de Raynaud]({{% relref "phenomene-raynaud.md" %}}), [cardiopathie ischémique]({{% relref "syndrome-coronarien-chronique.md" %}}) et {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}, hypersensibilité au produit
 - Absence de réponse (ou effets secondaires): augmenter la dose (réduire), changer de voie d'administration, changer de triptan
 - En cas de récidive des céphalées après 48h: coupler triptan + AINS
 - Reconsulter si triptan pris > 8 jours/mois
@@ -500,8 +500,8 @@ Le traitement des crises est identique.
 
 En cas de traitement de crise inefficace:
 
-- [Contraception œstroprogestative]({{< relref "contraception.md" >}}) en continu ou période libre raccourcie (contre-indiquée si aura)
-- [Contraception progestative]({{< relref "contraception.md" >}}) pure
+- [Contraception œstroprogestative]({{% relref "contraception.md" %}}) en continu ou période libre raccourcie (contre-indiquée si aura)
+- [Contraception progestative]({{% relref "contraception.md" %}}) pure
 - Naproxène quelques jours (surtout si dysménorrhées)
 
 ### Migraine et contraception orale
@@ -547,7 +547,7 @@ Toute utilisation de traitement de fond doit être rapportée à la pharmacovigi
 - Association significative entre utilisation de THM et la persistance des crises migraineuses
 - L'estradiol transdermique induit moins de crises que la prise orale
 - La prise continue induit moins de crises que la prise discontinue
-- Vérifier les [contre-indications au THM]({{< relref "menopause.md" >}})
+- Vérifier les [contre-indications au THM]({{% relref "menopause.md" %}})
 
 Privilégier un traitement transdermique en continu à la plus faible dose possible avec réévaluation régulière.
 {.alert .alert-info}

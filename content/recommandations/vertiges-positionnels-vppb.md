@@ -24,7 +24,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Devant un tableau de vertige positionnel paroxystique bénin (VPPB), vérifier l'absence de [signe d'alerte](#signes-dalerte), ne pas manquer l'[AVC]({{< relref "accident-vasculaire-cerebral.md" >}})
+- Devant un tableau de vertige positionnel paroxystique bénin (VPPB), vérifier l'absence de [signe d'alerte](#signes-dalerte), ne pas manquer l'[AVC]({{% relref "accident-vasculaire-cerebral.md" %}})
 - Examen ORL pour un premier épisode de vertige positionnel, en cas de signes atypiques ou de fragilité (antécédent de traumatisme crânien ++)
 - Pas de traitement efficace des vertiges sauf par manœuvres par un kinésithérapeute ou ORL (surtout si vertiges invalidants, risque de chute ou de fracture)
 - Résolution spontanée de l'épisode de vertige positionnel paroxystique bénin dans la semaine voire le mois
@@ -37,17 +37,17 @@ Vertige positionnel paroxystique bénin
 : Pathologie fréquente (17-42% des consultations pour [vertiges](/tags/vertige/)) définie par l'apparition d'un vertige induit par un changement de position de la tête, avec des caractéristiques cliniques rigoureuses (notamment absence de lésion vestibulaire ou neurologique).  
 L'atteinte peut être bilatérale et atteindre plusieurs canaux semi-circulaires en même temps. Le VPPB survient surtout à un âge moyen.
 : Le pronostic est favorable mais les vertiges peuvent altérer la **qualité de vie** d'autant plus que la durée de cet épisode est imprévisible.
-: Le consensus s'accorde sur la responsabilité d'une canalolithiase d'un canal semi-circulaire (postérieur dans 85-95% des cas) pour la survenue de ces vertiges. Il est le plus souvent **idiopathique** (70%) mais parfois secondaire à un traumatisme crânien (20%) ou à certaines pathologies de l'oreille interne (10% avec **névrite vestibulaire** ou [Maladie de Menière]({{< relref "maladie-meniere.md" >}})).
+: Le consensus s'accorde sur la responsabilité d'une canalolithiase d'un canal semi-circulaire (postérieur dans 85-95% des cas) pour la survenue de ces vertiges. Il est le plus souvent **idiopathique** (70%) mais parfois secondaire à un traumatisme crânien (20%) ou à certaines pathologies de l'oreille interne (10% avec **névrite vestibulaire** ou [Maladie de Menière]({{% relref "maladie-meniere.md" %}})).
 
 ### Diagnostic différentiel des vertige positionnels paroxystiques bénins
 
 Plusieurs maladies doivent être différenciées d'un vertige positionnel (VPPB) qui a un examen sans atteinte neurologique.
 
-Devant une instabilité, rechercher une [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}).
+Devant une instabilité, rechercher une [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}).
 
 #### Vertiges avec des signes otologiques d'origine périphérique
 
-- [Maladie de Menière]({{< relref "maladie-meniere.md" >}})  
+- [Maladie de Menière]({{% relref "maladie-meniere.md" %}})  
   Vertige de 20 minutes plus invalidant. Le VPPB peut être secondaire à une Maladie de Menière.
 - Labyrinthite ou névrite vestibulaire  
   Vertige de début progressif ± augmenté en changement de position, qq jours à semaines, souvent précédé par syndrome viral. Le VPPB peut lui être secondaire.
@@ -62,8 +62,8 @@ Devant une instabilité, rechercher une [hypotension orthostatique]({{< relref "
 
 #### Vertiges avec des signes neurologiques
 
-- [AVC]({{< relref "accident-vasculaire-cerebral.md" >}})
-- Vertiges positionnels d'[origine migraineuse]({{< relref "migraine.md" >}})
+- [AVC]({{% relref "accident-vasculaire-cerebral.md" %}})
+- Vertiges positionnels d'[origine migraineuse]({{% relref "migraine.md" %}})
 - Insuffisance vertébro-basilaire
 - Maladie démyélinisante
 - Tumeurs intracrâniennes et lésions de la fosse cérébrale postérieure (3%)
@@ -119,7 +119,7 @@ Le caractère << bénin >> nécessite des critères précis et un examen rigoure
 Rechercher les signes et symptômes du VPPB et étayer le diagnostic différentiel:
 
 - Antécédents  
-  ORL, neurologiques ([migraine]({{< relref "migraine.md" >}}) 34%), infection récente, manipulations cervicales, cardiovasculaires ([HTA]({{< relref "hypertension-arterielle.md" >}}) 52%), [diabète]({{< relref "diabete-type-2.md" >}}).
+  ORL, neurologiques ([migraine]({{% relref "migraine.md" %}}) 34%), infection récente, manipulations cervicales, cardiovasculaires ([HTA]({{% relref "hypertension-arterielle.md" %}}) 52%), [diabète]({{% relref "diabete-type-2.md" %}}).
 - Traitements ototoxiques ou hypotenseurs  
   Sels de platine, aminoside, isoniazide, nitrofurantoïne, certains antiviraux, IPDE-5, certains AINS et opioïdes.
 - [Vertiges](/tags/vertige/)
@@ -137,7 +137,7 @@ Rechercher les signes et symptômes du VPPB et étayer le diagnostic différenti
 - Terrain spécifique
   - [Chutes](/tags/chute/) à répétition  
     Risque majoré en baisse d'acuité visuelle, neuropathie.
-  - Personne âgée ou [ostéoporotique]({{< relref "osteoporose.md" >}})  
+  - Personne âgée ou [ostéoporotique]({{% relref "osteoporose.md" %}})  
     Suivi spécialisé pour la prévention des chutes.
   - Diabète  
     Hypoglycémie, neuropathie.

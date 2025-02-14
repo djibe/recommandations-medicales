@@ -26,18 +26,18 @@ flowchart = true
 {{%article-summary%}}
 
 - Port du préservatif systématique
-- Renseigner sur la [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}})
+- Renseigner sur la [PrEP]({{% relref "prophylaxie-preexposition-prep.md" %}})
 - Dépistages des IST
-  - [VIH]({{< relref "vih-sida.md" >}}) tous les 3 mois (*HAS 2017*)
-  - *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* tous les 3-6 mois (*HAS 2018*)
-- Vaccinations [hépatite A]({{< relref "hepatite-a.md" >}}) (après sérologie), [hépatite B]({{< relref "hepatite-b.md" >}}), [Mpox]({{< relref "mpox.md" >}}), [papillomavirus]({{< relref "cancer-col-uterus.md" >}}) (jusqu'à 26 ans)
+  - [VIH]({{% relref "vih-sida.md" %}}) tous les 3 mois (*HAS 2017*)
+  - *[Chlamydia]({{% relref "chlamydia-trachomatis.md" %}})* tous les 3-6 mois (*HAS 2018*)
+- Vaccinations [hépatite A]({{% relref "hepatite-a.md" %}}) (après sérologie), [hépatite B]({{% relref "hepatite-b.md" %}}), [Mpox]({{% relref "mpox.md" %}}), [papillomavirus]({{% relref "cancer-col-uterus.md" %}}) (jusqu'à 26 ans)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 HSH
 : Homme ayant des rapports sexuel avec des hommes
-: Surexposition au [VIH]({{< relref "vih-sida.md" >}}) (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), papillomavirus, [hépatite A]({{< relref "hepatite-a.md" >}}), [Monkeypox]({{< relref "mpox.md" >}}) et autres [IST](/tags/ist/).
+: Surexposition au [VIH]({{% relref "vih-sida.md" %}}) (prévalence 13%, 45% des cas), [syphilis]({{% relref "syphilis.md" %}}) (80% des cas), papillomavirus, [hépatite A]({{% relref "hepatite-a.md" %}}), [Monkeypox]({{% relref "mpox.md" %}}) et autres [IST](/tags/ist/).
 
 ### Épidémiologie chez les hommes ayant des rapports sexuels avec des hommes
 
@@ -50,7 +50,7 @@ Principalement dans les lieux publics > professionnel et scolaire > familial.
 
 > [Duchesne L et al. Violences homophobes subies par les hommes ayant des relations sexuelles avec des hommes en 2019. Enquête rapport au sexe. Bull Epidémiol Hebd. 2021;(6-7):105-11.](http://beh.santepubliquefrance.fr/beh/2021/6-7/2021_6-7_2.html)
 
-Au moins 2 fois plus de [dépressions]({{< relref "depression.md" >}}) (1/4 expliquées par les agressions), tentatives de suicides et suicides que les personnes hétérosexuelles.
+Au moins 2 fois plus de [dépressions]({{% relref "depression.md" %}}) (1/4 expliquées par les agressions), tentatives de suicides et suicides que les personnes hétérosexuelles.
 
 > [El Khoury Lesueur F et al. Le groupe Baromètre de Santé publique France 2017. Santé mentale des adultes selon l'orientation sexuelle et violences subies. Résultats du Baromètre de Santé publique France 2017. Bull Epidémiol Hebd. 2021.](http://beh.santepubliquefrance.fr/beh/2021/6-7/2021_6-7_1.html)
 
@@ -66,24 +66,24 @@ Parmi les HSH fréquentant les milieux sociaux HSH (bars, backrooms):
 
 Bilans à proposer en cas de conduites sexuelles à risque, sérologies:
 
-- [VIH]({{< relref "vih-sida.md" >}})
-- [Hépatite A]({{< relref "hepatite-a.md" >}})
-- [Hépatite B]({{< relref "hepatite-b.md" >}})
-- [Hépatite C]({{< relref "hepatite-c.md" >}})
-- [Syphilis]({{< relref "syphilis.md" >}})
-- PCR *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* + gonocoque des sites à risques selon les pratiques
+- [VIH]({{% relref "vih-sida.md" %}})
+- [Hépatite A]({{% relref "hepatite-a.md" %}})
+- [Hépatite B]({{% relref "hepatite-b.md" %}})
+- [Hépatite C]({{% relref "hepatite-c.md" %}})
+- [Syphilis]({{% relref "syphilis.md" %}})
+- PCR *[Chlamydia]({{% relref "chlamydia-trachomatis.md" %}})* + gonocoque des sites à risques selon les pratiques
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
 ### Dépistage des IST
 
-- Dépistage tous les 3 mois du [VIH]({{< relref "vih-sida.md" >}})
-- Dépistage tous les 3 à 6 mois de *[Chlamydia trachomatis]({{< relref "chlamydia-trachomatis.md" >}})*
+- Dépistage tous les 3 mois du [VIH]({{% relref "vih-sida.md" %}})
+- Dépistage tous les 3 à 6 mois de *[Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}})*
 
 ### La PrEP
 
-Aborder la prophylaxie de pré-exposition VIH avec toutes les personnes ayant des rapports non protégés avec des personnes de statut virologique inconnu (voir [la PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}})).
+Aborder la prophylaxie de pré-exposition VIH avec toutes les personnes ayant des rapports non protégés avec des personnes de statut virologique inconnu (voir [la PrEP]({{% relref "prophylaxie-preexposition-prep.md" %}})).
 
 ### Préservatif
 
@@ -93,7 +93,7 @@ Post systématique avec tout partenaire dont le statut sérologique n'est pas co
 
 #### Vaccin Monkeypox
 
-Voir *[Monkeypox]({{< relref "mpox.md" >}})*
+Voir *[Monkeypox]({{% relref "mpox.md" %}})*
 
 #### Vaccin hépatite A
 

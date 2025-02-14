@@ -29,7 +29,7 @@ todo = "SEO 'recommandation ivg'"
 - Bilan systématique avant l'IVG: calcul du terme, examen gynécologique, groupe sanguin et échographie pelvienne
 - Liste des centres et praticiens réalisant des interruptions volontaires de grossesse (IVG): [ivg.gouv](https://ivg.gouv.fr) (téléphone {{<phone>}}0 800 08 11 11{{</phone>}}) et [ivglesadresses.org](https://ivglesadresses.org)
 
-Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
+Chapitres liés: [contraception]({{% relref "contraception.md" %}}) et [contraception d'urgence]({{% relref "contraception-urgence.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Calcul du terme de grossesse" %}}
@@ -172,11 +172,11 @@ Plus l'IVG intervient précocement pendant la grossesse, plus le risque de compl
 ### 2^e^ consultation
 
 - Consentement écrit de la pratique de l'IVG
-- Proposer le dépistage des [IST](/tags/ist/) (*[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})*, [VIH]({{< relref "vih-sida.md" >}})...), vérifier le statut du [frottis cervico-vaginal]({{< relref "cancer-col-uterus.md" >}})
-- Aborder la [contraception]({{< relref "contraception.md" >}}) future, possibilité de la prescrire en avance
+- Proposer le dépistage des [IST](/tags/ist/) (*[Chlamydia]({{% relref "chlamydia-trachomatis.md" %}})*, [VIH]({{% relref "vih-sida.md" %}})...), vérifier le statut du [frottis cervico-vaginal]({{% relref "cancer-col-uterus.md" %}})
+- Aborder la [contraception]({{% relref "contraception.md" %}}) future, possibilité de la prescrire en avance
 - **Groupe sanguin ABO-Rhésus systématique**
 
-**NB.** Comprendre l'échec de la contraception actuelle + éducation à la [contraception d'urgence]({{< relref "contraception-urgence.md" >}}).
+**NB.** Comprendre l'échec de la contraception actuelle + éducation à la [contraception d'urgence]({{% relref "contraception-urgence.md" %}}).
 
 ### 3^e^ consultation
 
@@ -217,9 +217,9 @@ L'IVG est totalement gratuit pour les mineures.
 {{% /collapse %}}
 {{%collapse "Prévention des IVG" %}}
 
-[Contraception efficace]({{< relref "contraception.md" >}}) adaptée pour tous les couples en âge de procréer en l'absence de désir de grossesse.
+[Contraception efficace]({{% relref "contraception.md" %}}) adaptée pour tous les couples en âge de procréer en l'absence de désir de grossesse.
 
-Informer sur le recours à la [contraception d'urgence]({{< relref "contraception-urgence.md" >}}).
+Informer sur le recours à la [contraception d'urgence]({{% relref "contraception-urgence.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour une interruption volontaire de grossesse" "show" %}}

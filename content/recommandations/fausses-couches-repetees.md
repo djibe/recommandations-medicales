@@ -70,7 +70,7 @@ Les facteurs majeurs de fausses couches répétées sont l'**âge de la femme** 
 - Poids, taille, IMC
 - Pression artérielle, fréquence cardiaque
 - Examen général  
-  Signes de maladie de système, hypothyroïdie, [maladie de Wilson]({{< relref "maladie-wilson.md" >}}).
+  Signes de maladie de système, hypothyroïdie, [maladie de Wilson]({{% relref "maladie-wilson.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -81,7 +81,7 @@ Les facteurs majeurs de fausses couches répétées sont l'**âge de la femme** 
 
 - [TSH](/tags/tsh/), anticorps anti-TPO
 - Anticoagulant circulant de type lupique (ACC) et IgG et IgM anti-cardiolipine
-- [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}): IgA totales et IgA anti-transglutaminase (*ESsCD 2019*)
+- [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}): IgA totales et IgA anti-transglutaminase (*ESsCD 2019*)
 - Si (oligo) aménorrhée: prolactinémie
 - Échographie pelvienne (transvaginale 3D)
 {{%/info%}}
@@ -93,7 +93,7 @@ Bilan complémentaire à considérer:
 - Fragmentation de l'ADN spermatique
 - Rechercher une Maladie de Wilson (*PNDS 2022*)
 
-Bilans **non recommandés**: typage HLA, dépistage de [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}), glycémie à jeun, androgènes, évaluation de la réserve ovarienne, d'une insuffisance lutéale, thrombophilie (non suggéré sauf facteurs de risque).
+Bilans **non recommandés**: typage HLA, dépistage de [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}), glycémie à jeun, androgènes, évaluation de la réserve ovarienne, d'une insuffisance lutéale, thrombophilie (non suggéré sauf facteurs de risque).
 {.alert .alert-warning}
 
 Une analyse génétique du fœtus pourrait être réalisée à visée étiologique avec conseil génétique du couple en cas d'anomalie.
@@ -106,15 +106,15 @@ La **maladie de Wilson** peut causer des fausses couches répétées.
 Mesures de prise en charge des fausses couches répétées:
 
 - Mesures hygiéno-diététiques
-  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
-  - Limiter la [consommation d'alcool]({{< relref "sevrage-alcool.md" >}})
-  - Correction d'une [obésité]({{< relref "obesite-adulte.md" >}}) ou maigreur
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
+  - Limiter la [consommation d'alcool]({{% relref "sevrage-alcool.md" %}})
+  - Correction d'une [obésité]({{% relref "obesite-adulte.md" %}}) ou maigreur
   - Éviter un excès de sport
 - Désir de grossesse: acide folique, considérer une supplémentation en vitamine D
 - ≥ 3 FCS et SAPL: aspirine 75-100 mg/j avant conception + HBPM/HNF quand test de grossesse positif
 - ≥ 3 FCS: progestérone vaginale pourrait augmenter les chances
 - Soutien psychologique
-- Si [hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md" >}}): pas de lévothyroxine, contrôle de la TSH à 7-9 SA
+- Si [hypothyroïdie fruste]({{% relref "hypothyroidie-fruste.md" %}}): pas de lévothyroxine, contrôle de la TSH à 7-9 SA
 - Si hyperprolactinémie: considérer la bromocriptine
 - Si thrombophilie héréditaire: pas d'anticoagulant
 - Si FCS au 2^e^ trimestre et suspicion d'hypotonie du col utérin: échographies répétées, considérer un cerclage
@@ -132,7 +132,7 @@ Manque de preuves pour: progestérone ou hCG en cas d'insuffisance lutéale, met
 - Aucune preuve que le stress soit la cause directe de la fausse couche
 - Le tabac réduirait les chances de naissance vivante
 - L'excès d'alcool est une possible cause et est fœtotoxique
-- Les IMC extrêmes ([obésité]({{< relref "obesite-adulte.md" >}}) et maigreur) augmentent le risque de complications obstétricales
+- Les IMC extrêmes ([obésité]({{% relref "obesite-adulte.md" %}}) et maigreur) augmentent le risque de complications obstétricales
 
 {{% /collapse %}}
 {{%sources%}}

@@ -24,7 +24,7 @@ flowchart = true
 {{%article-summary%}}
 
 - Le cancer de l'estomac atteint surtout l'homme de plus de 65 ans
-- Principaux facteurs de risque de cancer de l'estomac: [gastrite à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}}) (80 %), tabac, alimentation salée/fumée, antécédent familial de cancer gastrique, syndrome de Lynch/HNPCC
+- Principaux facteurs de risque de cancer de l'estomac: [gastrite à *Helicobacter pylori*]({{% relref "helicobacter-pylori.md" %}}) (80 %), tabac, alimentation salée/fumée, antécédent familial de cancer gastrique, syndrome de Lynch/HNPCC
 - Signes d'alarmes devant des symptômes digestifs hauts: dysphagie, amaigrissement, anémie
 - Bilan initial: endoscopie œso-gastro-duodénale (EOGD), NFS, albuminémie, ASAT, ALAT, GGT, PAL, bilirubine totale, ionogramme, créatinine et scanner thoraco-abdomino-pelvien avec injection
 - Adresser en semi-urgence toute suspicion de cancer gastrique au gastro-entérologue d'un centre de lutte contre le cancer (CLCC)
@@ -37,7 +37,7 @@ Cancer de l'estomac
 : Tumeurs malignes de l'estomac de pronostic intermédiaire composées à 90% d'*adénocarcinomes* atteignant préférentiellement les hommes âgés (2/3).  
 Autres types rares: lymphomes (du MALT, *Helicobacter pylori* +++) > stromales (GIST) > endocrine.
 : Les tumeurs sont classées en 2 entités par facteurs de risque différents: cancer du cardia (*jonction œso-gastrique* *JOG*) et non-cardia (distal).
-: 80% des cancers de l'estomac sont causés par une **[gastrite chronique à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}})** avec une survie à 5 ans de 30%.
+: 80% des cancers de l'estomac sont causés par une **[gastrite chronique à *Helicobacter pylori*]({{% relref "helicobacter-pylori.md" %}})** avec une survie à 5 ans de 30%.
 
 ### Épidémiologie du cancer de l'estomac
 
@@ -87,7 +87,7 @@ SNFGE
 
 - Antécédent personnel de lésion cancéreuse ou pré-cancéreuse gastrique
 - Lésions précancéreuses
-  - **Gastrite chronique à [*Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}})**
+  - **Gastrite chronique à [*Helicobacter pylori*]({{% relref "helicobacter-pylori.md" %}})**
   - Gastrite atrophique auto-immune (maladie de **Biermer**)
   - Ulcère gastrique chronique
   - Polype gastrique adénomateux
@@ -96,13 +96,13 @@ SNFGE
 - **Antécédent familial au premier degré de cancer de l'estomac**
 - **Traitement par IPP depuis plus d'un an** (consensus Maastricht IV/Florence 2012)
 - Antécédent de gastrectomie partielle datant de +10 ans
-- [Consommation d'alcool]({{< relref "sevrage-alcool.md" >}})
+- [Consommation d'alcool]({{% relref "sevrage-alcool.md" %}})
 - Tabagisme
 - Alimentation salée/fumée et faible apports en fruits/légumes
-- [Infection à EBV]({{< relref "mononucleose-infectieuse.md" >}})
+- [Infection à EBV]({{% relref "mononucleose-infectieuse.md" %}})
 - Origine géographique: Asie, Amérique latine
 
-Principaux facteurs de risque de cancer du cardia gastrique: surpoids et [reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}}).
+Principaux facteurs de risque de cancer du cardia gastrique: surpoids et [reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -114,9 +114,9 @@ Principaux facteurs de risque de cancer du cardia gastrique: surpoids et [reflux
 
 Un cancer de l'estomac doit être évoqué et exploré devant:
 
-- [Dyspepsie]({{< relref "dyspepsie.md" >}}) après 40 ans
-- [Anémie réfractaire]({{< relref "anemie.md" >}})
-- [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}}) après 50 ans ou reflux atypique
+- [Dyspepsie]({{% relref "dyspepsie.md" %}}) après 40 ans
+- [Anémie réfractaire]({{% relref "anemie.md" %}})
+- [Reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}}) après 50 ans ou reflux atypique
 - Signes digestifs chroniques  
   - Épigastralgies, nausées/vomissements
   - Dysphagie progressive
@@ -132,7 +132,7 @@ Un cancer de l'estomac doit être évoqué et exploré devant:
 - Antécédents personnels et familiaux  
   Spectre de Lynch: {{< clinique/cancer-spectre-lynch >}}
 - Explorations réalisées
-- [Alcool]({{< relref "sevrage-alcool.md" >}}), tabagisme, alimentation fumée/salée
+- [Alcool]({{% relref "sevrage-alcool.md" %}}), tabagisme, alimentation fumée/salée
 - Évolution et ancienneté des symptômes
 - Score OMS
 - À partir de 70 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
@@ -143,7 +143,7 @@ L'examen recherche:
 
 - Variations de poids, anorexie
 - Ascite
-- [Symptômes d'anémie]({{< relref "anemie.md" >}})
+- [Symptômes d'anémie]({{% relref "anemie.md" %}})
 - Hépatomégalie
 - Adénopathies sus-claviculaires
 - Carcinose péritonéale (toucher rectal)
@@ -177,7 +177,7 @@ La prise en charge du cancer de l'estomac est spécialisée et pluridisciplinair
 
 Mesures générales associées au cancer:
 
-- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 - Activité physique quotidienne
 - Soutien psychologique
 
@@ -186,7 +186,7 @@ Mesures générales associées au cancer:
 Dépistage d'*Helicobacter pylori* systématique chez l'entourage au premier degré du patient:
 
 - Symptomatique: EOGD
-- Asymptomatique < 45 ans: [sérologie *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}})  
+- Asymptomatique < 45 ans: [sérologie *Helicobacter pylori*]({{% relref "helicobacter-pylori.md" %}})  
   Alternative: test respiratoire à l'urée marquée.
 - Asymptomatique ≥ 45 ans: EOGD
 
@@ -209,10 +209,10 @@ Le traitement du cancer gastrique décidé en RCP peut être: traitement endosco
 - Gastrectomie partielle  
   EOGD tous les 2 ans après 10 ans de suivi.
 - Splénectomie  
-  [Et la prévention associée]({{< relref "asplenie.md" >}}).
+  [Et la prévention associée]({{% relref "asplenie.md" %}}).
 - Examen clinique tous les 6 mois pendant ≥ 5 ans  
   Signes de récidive, signes de {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
-- [Abstinence tabac]({{< relref "arret-tabac.md" >}}) et [alcool]({{< relref "sevrage-alcool.md" >}})
+- [Abstinence tabac]({{% relref "arret-tabac.md" %}}) et [alcool]({{% relref "sevrage-alcool.md" %}})
 - Biologique  
   NFS, folates x 1/an.
 - Dépistage de l'entourage au 1^er^ degré (voir *Traitement*)

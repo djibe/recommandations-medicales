@@ -28,7 +28,7 @@ todo = "dose chez l'insuffisant rénal"
 - Le bilan biologique n'est pas systématique et dépend des comorbidités (diabète, insuffisance rénale ...)
 - La prise en charge de l'érysipèle non compliqué est une antibiothérapie: amoxicilline 50 mg/kg/j en 3 prises pendant 7 jours (max 6 g/j)
 - Réévaluation clinique systématique de l'infection à 48-72 heures
-- Recherche et éradication de la porte d'entrée infectieuse: [intertrigo]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), [ulcère cutané]({{< relref "ulcere-veineux.md" >}}), plaie, dermatose ...
+- Recherche et éradication de la porte d'entrée infectieuse: [intertrigo]({{% relref "mycoses-dermatophytes-candidoses.md" %}}), [ulcère cutané]({{% relref "ulcere-veineux.md" %}}), plaie, dermatose ...
 - Prévention des récidives d'érysipèle: contention veineuse en cas d'insuffisance veineuse, de lymphœdème
 
 {{%/article-summary%}}
@@ -39,7 +39,7 @@ todo = "dose chez l'insuffisant rénal"
 : Mécanisme toxi-infectieux, faible densité bactérienne dans les lésions. Gravité initiale selon le terrain, la sévérité locale et la survenue d'un sepsis.
 : Chez l'enfant, les DHBNN sont dues au *Staphylococcus aureus* sensible à la méticilline (SASM) et au SGA.
 : Les complications sont exceptionnelles: abcès, sepsis sévère, glomérulonéphrite post-streptococcique, DHB nécrosante avec/sans fasciite nécrosante (DHBN-FN. Terrain +50 ans, diabète, hémopathie/cancer, insuffisance d'organe, toxicomanie).
-: Facteurs de risque d'érysipèle: facteurs locaux (lymphœdème, intertrigo, [ulcère de jambe]({{< relref "ulcere-veineux.md" >}}), plaie) et [obésité]({{< relref "obesite-adulte.md" >}}).
+: Facteurs de risque d'érysipèle: facteurs locaux (lymphœdème, intertrigo, [ulcère de jambe]({{% relref "ulcere-veineux.md" %}}), plaie) et [obésité]({{% relref "obesite-adulte.md" %}}).
 
 **NB.** *Alcoolisme* et *diabète* << ne semblent pas être des facteurs de risque >> d'érysipèle.
 
@@ -51,7 +51,7 @@ Autres causes de grosse jambe rouge:
   - Évolution souvent subaiguë du pied et tiers inférieur de jambe. L'inflammation cutanée apparaît moins limitée avec douleur modérée et fièvre parfois absente
   - Germes: staphylocoque doré, *Pseudomonas aeruginosa*
 - Autres dermohypodermites bactériennes aiguës  
-  Pasteurellose d'inoculation si notion de [morsure de chien ou chat]({{< relref "morsure.md" >}}).
+  Pasteurellose d'inoculation si notion de [morsure de chien ou chat]({{% relref "morsure.md" %}}).
 - Dermohypodermite sur insuffisance veineuse
 - Eczéma
   - Prurit, placard érythémateux à bords émiettés
@@ -94,7 +94,7 @@ Le diagnostic d'érysipèle est clinique:
   - Placard inflammatoire (rougeur, chaleur, douleur) érythémateux bien circonscrit unilatéral
   - Parfois lésions bulleuses ou purpuriques
   - Entourer au feutre le placard érythémateux pour surveiller l'évolution
-  - Rechercher la porte d'entrée ([intertrigo]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), piqûre, plaie)
+  - Rechercher la porte d'entrée ([intertrigo]({{% relref "mycoses-dermatophytes-candidoses.md" %}}), piqûre, plaie)
 - Signes inflammatoires régionaux  
   Adénopathie satellite sensible (50%), lymphangite (25%).
 - Signes négatifs
@@ -128,7 +128,7 @@ Dans les formes typiques et en l'absence de signe de comorbidité << aucun exame
 
 ### Échodoppler veineux
 
-Pas de recherche systématique de [thrombose veineuse]({{< relref "thrombose-veineuse-profonde.md" >}}) par échodoppler.
+Pas de recherche systématique de [thrombose veineuse]({{% relref "thrombose-veineuse-profonde.md" %}}) par échodoppler.
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
@@ -137,7 +137,7 @@ Mesures de prévention des érysipèles:
 
 - Contention veineuse
 - Traitement précoce de toute porte d'entrée cutanée  
-  [Intertrigo]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), ulcère, plaie.
+  [Intertrigo]({{% relref "mycoses-dermatophytes-candidoses.md" %}}), ulcère, plaie.
 
 ### Érysipèles récidivants au moins 2 fois an et facteurs favorisants non contrôlables
 
@@ -194,7 +194,7 @@ Antibiothérapies recommandées en cas d'allergie documentée à la pénicilline
 - Enfant
   - Après 6 ans: clindamycine 30 mg/kg/j (max 2,4 g/j) en 3 prises pendant 7 jours
   - Avant 6 ans: triméthoprime-sulfaméthoxazole 30 mg/kg/j (de SMX, max 1,6 g/j) en 3 prises pendant 7 jours
-- Adulte: [morsure d'animal]({{< relref "morsure.md" >}})
+- Adulte: [morsure d'animal]({{% relref "morsure.md" %}})
   - Amoxicilline/acide clavulanique 50 mg/kg/j en 3 prises pendant 7 jours (amoxicilline max 6 g/j et a. clavulanique max 375 mg/j)
   - Avis infectiologique en cas d'allergie à la pénicilline
 
@@ -206,7 +206,7 @@ Recommandations de prise en charge associées pour le traitement d'un érysipèl
 
 - Surveillance clinique quotidienne des signes locaux et généraux
 - Éradication de la porte d'entrée  
-  Intertrigo, [ulcère]({{< relref "ulcere-veineux.md" >}}). Soins de peau à l'eau et au savon sauf plaie franchement surinfectée.
+  Intertrigo, [ulcère]({{% relref "ulcere-veineux.md" %}}). Soins de peau à l'eau et au savon sauf plaie franchement surinfectée.
 - Anticoagulation préventive selon le risque  
   Déambulation, âge, autres.
 - Antipyrexie par paracétamol simple

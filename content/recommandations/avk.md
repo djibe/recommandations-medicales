@@ -38,7 +38,7 @@ NFS-plaquettes, TP, TCA, créatininémie, transaminases.
 #### Débuter le traitement par Coumadine
 
 - ==Débuter à 5 mg/j==
-- Préférer 2 mg/j si: [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), personne âgée, fragile, maigre/dénutrie, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ou hépatique
+- Préférer 2 mg/j si: [fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}), personne âgée, fragile, maigre/dénutrie, [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}), [cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) ou hépatique
 - de préférence le soir
 - **INR 12 heures après la 3^e^ prise**. Si INR > 2: diminuer la posologie.
 - **Ajustements par paliers de 1 mg et contrôle INR à J3**  
@@ -87,7 +87,7 @@ Nouvel INR le lendemain du diagnostic de surdose avec reconduction identique des
 
 Le risque hémorragique sous traitement est maximal les 6 premiers mois de traitement (1^er^ mois surtout).
 
-Intensifier la surveillance en cas d'ulcère gastro-duodénal, antécédents d'hémorragie digestive, AVC récent, personne âgée hypertendue (AVC hémorragique), [chutes](/tags/chute/), [alcoolisme chronique]({{< relref "sevrage-alcool.md" >}}), diabète, trouble de coagulation.
+Intensifier la surveillance en cas d'ulcère gastro-duodénal, antécédents d'hémorragie digestive, AVC récent, personne âgée hypertendue (AVC hémorragique), [chutes](/tags/chute/), [alcoolisme chronique]({{% relref "sevrage-alcool.md" %}}), diabète, trouble de coagulation.
 
 {{%warning%}}
 
@@ -133,7 +133,7 @@ Reprendre l'AVK selon risque de récidive et indication initiale de l' AVK.
 
 - Injections sous-cutanées
 - Chirurgie cutanée
-- [Chirurgie de la cataracte]({{< relref "cataracte.md" >}})
+- [Chirurgie de la cataracte]({{% relref "cataracte.md" %}})
 - Actes de rhumatologie à faible risque hémorragique
 - Certains actes d'endoscopie digestive
 
@@ -254,7 +254,7 @@ Aucun aliment n'est interdit mais le régime alimentaire contenant de la vitamin
 - Signes d'alerte et savoir réagir
 - Tout saignement, même mineur, est à considérer comme surdosage: contact médical en urgence  
   - Banal: gingivorragies, épistaxis, hémorragies conjonctivales, règles exceptionnellement abondantes, hématomes
-  - Plus inquiétant: [hématurie]({{< relref "hematurie.md" >}}), rectorragies ou méléna, hématémèse, hémoptysie, saignement persistant
+  - Plus inquiétant: [hématurie]({{% relref "hematurie.md" %}}), rectorragies ou méléna, hématémèse, hémoptysie, saignement persistant
   - Trompeurs: fatigue, dyspnée, pâleur, céphalées ne cédant pas au traitement antalgique habituel, malaise
 inexpliqué
   - Idem si traumatisme susceptible de provoquer une hémorragie interne

@@ -65,17 +65,17 @@ Les **gastroentérites virales** sont la principale cause de diarrhées aiguës 
 
 Autres causes de diarrhées aiguës du nourrisson et de l'enfant:
 
-- Infection extra-digestive: [otite moyenne aiguë]({{< relref "otite-moyenne-aigue.md" >}}), [pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}}), [méningite]({{< relref "meningite.md" >}}), [infection urinaire]({{< relref "infection-urinaire-enfant.md" >}})
+- Infection extra-digestive: [otite moyenne aiguë]({{% relref "otite-moyenne-aigue.md" %}}), [pneumonie]({{% relref "pneumonie-aigue-communautaire.md" %}}), [méningite]({{% relref "meningite.md" %}}), [infection urinaire]({{% relref "infection-urinaire-enfant.md" %}})
 - Gastroentérite bactérienne: *Campylobacter*, Salmonelles
 - Gastroentérite parasitaire: giardiase
 - Invagination intestinale aiguë
 - Colite pseudomembraneuse
 - Syndrome hémolytique et urémique (SHU)
 - Rectocolite hémorragique aiguë
-- [Maladie de Kawasaki]({{< relref "maladie-kawasaki.md" >}})
-- [Appendicite aiguë]({{< relref "appendicite-aigue.md" >}})
-- [Hépatite A]({{< relref "hepatite-a.md" >}})
-- [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})
+- [Maladie de Kawasaki]({{% relref "maladie-kawasaki.md" %}})
+- [Appendicite aiguë]({{% relref "appendicite-aigue.md" %}})
+- [Hépatite A]({{% relref "hepatite-a.md" %}})
+- [Maladie cœliaque]({{% relref "maladie-coeliaque.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -112,7 +112,7 @@ Examen complet déshabillé et consigné dans le dossier médical:
 
 - ==Fréquence cardiaque, **fréquence respiratoire**, poids et variation, température==
 - Tonus, conscience
-- État cutané: purpura, exanthème ([Kawasaki]({{< relref "maladie-kawasaki.md" >}})) et signes de déshydratation (voir ci-dessous)
+- État cutané: purpura, exanthème ([Kawasaki]({{% relref "maladie-kawasaki.md" %}})) et signes de déshydratation (voir ci-dessous)
 - Auscultation cardiopulmonaire
 - Palpation abdominale
 - Signes cliniques de déshydratation: sécheresse muqueuse (langue, pleurs), **pli cutané**, **temps de recoloration cutanée** (TRC < 3 secondes), creusement des yeux, marbrures, chaleur des extrémités, pouls périphériques, fontanelle (avant 6 mois)
@@ -159,8 +159,8 @@ Prévention de la diarrhée et de la gastroentérite du nourrisson:
 
 - Mesures d'hygiène: lavage des mains, nettoyage des surfaces et objets
 - Allaitement maternel
-- [Mesures d'hygiène alimentaire]({{< relref "hygiene-conservation-aliments.md" >}})
-- [Vaccination rotavirus du nourrisson]({{< relref "examens-suivi-nourrisson.md" >}})  
+- [Mesures d'hygiène alimentaire]({{% relref "hygiene-conservation-aliments.md" %}})
+- [Vaccination rotavirus du nourrisson]({{% relref "examens-suivi-nourrisson.md" %}})  
   Rotarix à M2M3 ou RotaTeq à M2M3M4 et information sur les signes d'invagination intestinale aiguë (IIA).
 
 > [!INFO]

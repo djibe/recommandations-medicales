@@ -27,7 +27,7 @@ todo = "SEO, remboursement fibromètre ?"
 - Stéatose hépatique et NASH sont les complications hépatiques du **{{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}** et sont des marqueurs de haut risque cardiovasculaire
 - Rechercher les diagnostics différentiels ou surajoutés (voir *Diagnostic différentiel*)
 - Dépister la NASH / stéatohépatite métabolique
-  - Dépister annuellement si facteurs de risque: obésité, [diabète de type 2]({{< relref "diabete-type-2.md" >}}), [VIH avec lipodystrophie]({{< relref "vih-sida.md" >}}), cytolyse inexpliquée, stéatose échographique
+  - Dépister annuellement si facteurs de risque: obésité, [diabète de type 2]({{% relref "diabete-type-2.md" %}}), [VIH avec lipodystrophie]({{% relref "vih-sida.md" %}}), cytolyse inexpliquée, stéatose échographique
   - par un score simple non invasif {{< modal-btn modal-fib4 >}}FIB-4{{< /modal-btn >}} (calculé sur l'âge, les transaminases et les plaquettes ou le score NFS)
 - Prise en charge de la NASH: suivi hépatologique, perte de poids, correction des facteurs métaboliques et du risque cardiovasculaire voire analogues du GLP-1, surveillance non invasive
 
@@ -43,24 +43,24 @@ Stéatose hépatique (NAFL)
 : La définition de la stéatose hépatique (ou stéatose métabolique) est histologique: accumulation d'acides gras (vacuoles de triglycérides) dans le cytoplasme des hépatocytes.
 : Elle survient surtout en contexte d'**insulinorésistance** et de **{{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}** (stéatose métabolique). L'évolution est classiquement bénigne avec toutefois un risque de développer des lésions de **NASH** de 20 à 30%. Cette évolution est lente, avec un changement de stade (de F1 à F4) tous les 7,1 ans.
 : Elle est associée à une surmortalité par [maladies cardiovasculaires](/specialites/cardiologie/) (x 1,5-6 d'événements) et hépatiques ainsi que les [cancers](/tags/cancer/).
-: La stéatose se complique également de: [diabète type 2]({{< relref "diabete-type-2.md" >}}) et de [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}).
+: La stéatose se complique également de: [diabète type 2]({{% relref "diabete-type-2.md" %}}) et de [maladie rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}}).
 
 Stéatohépatite non-alcoolique (NASH)
 : ou stéatose hépatique non alcoolique ou stéatohépatite métabolique, aussi << maladie du foie gras >>.
 : en anglais {{%lang%}}Non-alcoholic steatohepatitis{{%/lang%}} (NASH)
-: Stéatose hépatique avec **inflammation lobulaire** avec une consommation d'[alcool]({{< relref "sevrage-alcool.md" >}}) inférieure 20 g/j femme et 30 g/j chez l'homme.
+: Stéatose hépatique avec **inflammation lobulaire** avec une consommation d'[alcool]({{% relref "sevrage-alcool.md" %}}) inférieure 20 g/j femme et 30 g/j chez l'homme.
 : Les complications viennent du risque d'évolution vers la **cirrhose** (degré de fibrose coté de 0 à 4) et le **carcinome hépatocellulaire** (survient sur foie non cirrhotique dans ⅓ des cas). Les [troubles du sommeil](/tags/sas/) aggravent la NASH.
 
 ### Facteurs de risque de NASH
 
 Les responsables de l'inflammation hépatique sont principalement les éléments du **{{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}**:
 
-- [Obésité morbide]({{< relref "obesite-adulte.md" >}}) (7,7% ont une NASH)  
+- [Obésité morbide]({{% relref "obesite-adulte.md" %}}) (7,7% ont une NASH)  
   {{%class%}}PBH systématique car 29% ont une fibrose sévère.{{%/class%}}
-- [Diabète de type 2]({{< relref "diabete-type-2.md" >}}) (39% ont une NASH)  
+- [Diabète de type 2]({{% relref "diabete-type-2.md" %}}) (39% ont une NASH)  
   {{%class%}}PBH si stéatose échographique car 1/4 a une fibrose significative.{{%/class%}}
 - Cytolyse chronique inexpliquée (33% ont une NASH): PBH systématique
-- [Infection VIH]({{< relref "vih-sida.md" >}}) (20-56 % de NASH)  
+- [Infection VIH]({{% relref "vih-sida.md" %}}) (20-56 % de NASH)  
   {{%class%}}PBH si ALAT > N, fibrose significative dans 1/6 à ⅓ des cas.{{%/class%}}
 
 ### Épidémiologie de la stéatopathie métabolique en France
@@ -110,13 +110,13 @@ Diagnostics différentiels à écarter pour le diagnostic d'une stéatose hépat
   - Malnutrition protéique
   - Bypass jéjuno-iléal
   - Nutrition parentérale totale
-- [Alcool]({{< relref "sevrage-alcool.md" >}})
+- [Alcool]({{% relref "sevrage-alcool.md" %}})
 - Iatrogénie  
   Corticoïdes, tamoxifène, inhibiteurs calciques, amiodarone, estrogènes, tétracyclines, antirétroviraux VIH.
 - Toxines industrielles
-- [Hépatite C]({{< relref "hepatite-b.md" >}})
+- [Hépatite C]({{% relref "hepatite-b.md" %}})
 - Maladies génétiques ou métaboliques
-  - [Maladie de Wilson]({{< relref "maladie-wilson.md" >}})
+  - [Maladie de Wilson]({{% relref "maladie-wilson.md" %}})
   - Hypo-bétalipoprotéinémie, maladie de Weber-Christian, maladie de Wolman, maladie de dépôt des esters de cholestérol
   - Syndromes lipodystrophiques
 
@@ -127,13 +127,13 @@ Le plus souvent, la stéatopathie métabolique est découverte par des **anomali
 
 - Cytolyse (ASAT ou ALAT augmentées < 10 N)  
   ASAT/ALAT > 1 fait suspecter une cirrhose.
-- Cholestase ([GGT]({{< relref "augmentation-gamma-gt.md" >}}) < 10 N)
-- [Hyperferritinémie]({{< relref "hyperferritinemie.md" >}}) (< 1000 µg/L avec CST < 45%)  
+- Cholestase ([GGT]({{% relref "augmentation-gamma-gt.md" %}}) < 10 N)
+- [Hyperferritinémie]({{% relref "hyperferritinemie.md" %}}) (< 1000 µg/L avec CST < 45%)  
   10% ont une hépatosidérose dysmétabolique.
 - Cirrhose cryptogénique  
   Les lésions histologiques de la NASH ne sont plus identifiables.
 - Terrain  
-  Surpoids/obésité (abdominale), [diabète type 2]({{< relref "diabete-type-2.md" >}}), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), dyslipidémie, [syndrome d'apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}).
+  Surpoids/obésité (abdominale), [diabète type 2]({{% relref "diabete-type-2.md" %}}), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), dyslipidémie, [syndrome d'apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}).
 - Échographie hépatique avec foie hyperéchogène
 
 > [!INFO]
@@ -149,14 +149,14 @@ Les critères cliniques prédictifs majeurs de fibrose hépatique sont l'âge à
 
 Indications au dépistage de la NASH chez les sujets à risque élevé d'évolution vers la fibrose hépatique:
 
-- [Obésité]({{< relref "obesite-adulte.md" >}})
-- [Diabète de type 2]({{< relref "diabete-type-2.md" >}})
-- [VIH avec lipodystrophie]({{< relref "vih-sida.md" >}})
+- [Obésité]({{% relref "obesite-adulte.md" %}})
+- [Diabète de type 2]({{% relref "diabete-type-2.md" %}})
+- [VIH avec lipodystrophie]({{% relref "vih-sida.md" %}})
 - Cytolyse hépatique inexpliquée (augmentation des transaminases)
 - Stéatose échographique
 {.list-group}
 
-**Dépistage possible en l'absence de [consommation excessive d'alcool]({{< relref "sevrage-alcool.md" >}}), d'[hépatite B]({{< relref "hepatite-b.md" >}}) ou [C]({{< relref "hepatite-c.md" >}}) ou de iatrogénie.**
+**Dépistage possible en l'absence de [consommation excessive d'alcool]({{% relref "sevrage-alcool.md" %}}), d'[hépatite B]({{% relref "hepatite-b.md" %}}) ou [C]({{% relref "hepatite-c.md" %}}) ou de iatrogénie.**
 
 ### Comment dépister la fibrose hépatique causée par une NASH ?
 
@@ -199,7 +199,7 @@ Les glitazones (non disponibles en France) et les {{< modal-btn modal-glp1 >}}an
 - Suivi par le gastro-entérologue
 - Aucune consommation d'alcool
 - Perte de poids de 10%
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - Activité physique quotidienne
 - Évaluer le {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} (calcul du {{< scores/heartscore >}})
 - Dépister des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} ({{< modal-btn modal-saos-diabete >}}dépistage si diabète{{< /modal-btn >}})

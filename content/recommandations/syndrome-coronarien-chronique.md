@@ -35,7 +35,7 @@ flowchart = true
   - Aspirine 75-100 mg/j voire bithérapie après événement cardiovasculaire ou revascularisation, à considérer sinon
   - Statine systématique: {{< modal-btn modal-rcv >}}LDL < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (< 0,55 si sténose à l'imagerie ou maladie cardiovasculaire)
 
-Chapitres liés: [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [épreuve d'effort]({{< relref "epreuve-effort.md" >}})
+Chapitres liés: [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), [épreuve d'effort]({{% relref "epreuve-effort.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -43,8 +43,8 @@ Chapitres liés: [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chr
 Syndrome coronarien chronique (SCC)
 : *ex* maladie coronarienne stable
 : Manifestation clinique au long cours d'une cardiopathie ischémique.
-: Les 2 complications principales sont la mort subite et l'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}). Lorsque la coronaropathie est traitée selon les recommandations internationales, le taux de mortalité est identique à celui de la population générale (étude CORONOR).
-: Comorbidités souvent associées chez le coronarien: maladie cardioneurovasculaire (38%), [diabète]({{< relref "diabete-type-2.md" >}}) (29%), prise de psychotropes (23%).
+: Les 2 complications principales sont la mort subite et l'[insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}). Lorsque la coronaropathie est traitée selon les recommandations internationales, le taux de mortalité est identique à celui de la population générale (étude CORONOR).
+: Comorbidités souvent associées chez le coronarien: maladie cardioneurovasculaire (38%), [diabète]({{% relref "diabete-type-2.md" %}}) (29%), prise de psychotropes (23%).
 
 Angor vasospastique
 : Angor (angine de poitrine) souvent d'allure typique (voir *Clinique*) survenant au repos mais pas (ou rarement) à l'effort. Prédominance nocturne. Sensibilité aux dérivés nitrés. Le diagnostic d'angor vasospastique nécessite un bilan cardiologique exhaustif.
@@ -59,7 +59,7 @@ Le syndrome coronarien chronique est la maladie cardiovasculaire chronique la pl
 
 - Prévalence: 1,5 millions de patients (2017)  
   43% de plus de 75 ans.
-- Pour un suivi sur 3 ans: **⅓** des patients ont présenté un décès d'origine cardiovasculaire, un SCA, un [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), une hospitalisation ou un autre évènement cardiovasculaire.
+- Pour un suivi sur 3 ans: **⅓** des patients ont présenté un décès d'origine cardiovasculaire, un SCA, un [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), une hospitalisation ou un autre évènement cardiovasculaire.
 
 {{< card-link-external title="Dépenses directes liées à la maladie coronaire chronique" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20cardioneurovasculaires&refine.patho_niv2=Maladie%20coronaire">}}
 
@@ -134,9 +134,9 @@ Angor peu probable
 {.dl-inline .mb-5}
 
 - Facteurs de risque cardiovasculaires  
-  Tabac, dyslipidémie, diabète (x2), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), [obésité]({{< relref "obesite-adulte.md" >}}), hérédité cardiovasculaire (événement cardiovasculaire ou maladie cardiovasculaire au premier degré avant 55/65 ans chez un H/F).
+  Tabac, dyslipidémie, diabète (x2), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [obésité]({{% relref "obesite-adulte.md" %}}), hérédité cardiovasculaire (événement cardiovasculaire ou maladie cardiovasculaire au premier degré avant 55/65 ans chez un H/F).
 - Antécédents  
-  Cardiovasculaires (IDM, [FA]({{< relref "fibrillation-atriale.md" >}}), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})), rénaux, pulmonaire, [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}).
+  Cardiovasculaires (IDM, [FA]({{% relref "fibrillation-atriale.md" %}}), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}})), rénaux, pulmonaire, [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}).
 - Autres toxiques
 - Traitements en cours
 - Profession
@@ -146,7 +146,7 @@ Angor peu probable
   - Caractéristiques de la douleur
   - Angor, dyspnée, limitations à l'effort
 - Retentissement sur la vie quotidienne
-- [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})  
+- [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}})  
   Aggravée par thiazidique et BB (sauf nébivolol). IPDE5 possibles sauf si traitement par dérivés nitrés.
 - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 
@@ -154,7 +154,7 @@ Angor peu probable
 
 - Poids, taille, IMC, périmètre abdominal
 - Pression artérielle, fréquence cardiaque
-- Pouls périphériques et [mesure de l'IPS]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
+- Pouls périphériques et [mesure de l'IPS]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}})
 - Souffle vasculaire (carotidien, aortique, fémoral)
 - Rechercher des signes:
   - Insuffisance cardiaque  
@@ -188,7 +188,7 @@ Bilan d'un angor ou de douleurs thoraciques évocatrices de cardiopathie ischém
 - Tableau atypique, signes d'insuffisance cardiaque ou suspicion de maladie respiratoire: radiographie thoracique
 - Si hypertension résistante ou insuffisance rénale: doppler des artères rénales
 
-Selon l'évaluation cardiovasculaire: [épreuve d'effort]({{< relref "epreuve-effort.md" >}}) voire coroscanner.
+Selon l'évaluation cardiovasculaire: [épreuve d'effort]({{% relref "epreuve-effort.md" %}}) voire coroscanner.
 
 Coronaropathie confirmée: échodoppler des troncs supra-aortiques (TSA) et de l'aorte abdominale, mesure de l'index de pression systolique (IPS) ± échodoppler MI.
 {.alert .alert-info}
@@ -211,12 +211,12 @@ Réévaluation du traitement à chaque consultation:
 
 ### Correction des facteurs de risque cardiovasculaire
 
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (réduit la mortalité de 36%)
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) (réduit la mortalité de 36%)
 - Réduction de l'alcool à moins de 10 verres par semaine
 - Statine systématique
   - {{< modal-btn modal-rcv >}}LDL < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (< **0,55** si stent, sténose à l'imagerie ou événement CV)
   - [Ézétimibe](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63964962&typedoc=R) ou [évolocumab SC](https://ec.europa.eu/health/documents/community-register/2023/20230130158320/anx_158320_fr.pdf) (Repatha®), [alirocumab SC](https://ec.europa.eu/health/documents/community-register/2022/20221216158063/anx_158063_fr.pdf) (Praluent®) si cible non atteinte
-- [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) (*ESH 2023*)
+- [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) (*ESH 2023*)
   - Seuil d'initiation de 130/80 mmHg (dite normale haute)
   - Cible de la population générale: 120-129 / 70-79 mmHg
 - Correction d'un surpoids et d'une obésité abdominale
@@ -242,19 +242,19 @@ Mesures spécifiques pour la prise en charge de la cardiopathie ischémique stab
   - Si angine persistante, anti-angineux de deuxième intention: nitré d'action longue [patch](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63785468&typedoc=R) ou [oral](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66327091&typedoc=R) (pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14 h/j)  
   ou [nicorandil](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66925249&typedoc=R), [ivabradine](https://ec.europa.eu/health/documents/community-register/2023/20230223158431/anx_158431_fr.pdf), [trimétazidine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61020245&typedoc=R) (ranolazine non disponible en France), voir tableau plus bas
 - Aspirine 75-100 mg/j à considérer en l'absence d'IDM ou de revascularisation
-  - Clopidogrel 75 mg/j si intolérance (sans IPP), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) ou [AIC/AIT]({{< relref "accident-vasculaire-cerebral.md" >}})
+  - Clopidogrel 75 mg/j si intolérance (sans IPP), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) ou [AIC/AIT]({{% relref "accident-vasculaire-cerebral.md" %}})
   - Voire bi-antithrombotique si haut risque ischémique (score Precise-DAPT)
   - IPP si haut risque de saignement (à venir: *ESC DAPT*)
-- [Vaccination grippe]({{< relref "grippe.md" >}})
+- [Vaccination grippe]({{% relref "grippe.md" %}})
 - Prise en charge psychologique  
   Dont thérapie cognitive et comportementale (TCC) pour accompagner le changement de mode de vie.
 - Socio-professionnel: adaptation du poste de travail
 - Éducation thérapeutique
-- Déclarer l'[ALD n°5]({{< relref "affection-longue-duree.md" >}})  
+- Déclarer l'[ALD n°5]({{% relref "affection-longue-duree.md" %}})  
   Indications: toute ischémie myocardique objectivement documentée (ECG, épreuve d'effort, scintigraphie myocardique de perfusion, échographie de stress, échographie d'effort, holter ECG, coronarographie).
 - Prise en charge des comorbidités:
-  - Post-infarctus, [insuffisance cardiaque, dysfonction VG]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ou diabète: IEC voire ARA2
-  - [ACFA]({{< relref "fibrillation-atriale.md" >}}): utiliser les mêmes seuils d'anticoagulation, préférer un AOD, considérer d'associer aspirine/clopidogrel si IDM, haut risque ischémique sans risque élevé de saignement
+  - Post-infarctus, [insuffisance cardiaque, dysfonction VG]({{% relref "insuffisance-cardiaque-chronique.md" %}}) ou diabète: IEC voire ARA2
+  - [ACFA]({{% relref "fibrillation-atriale.md" %}}): utiliser les mêmes seuils d'anticoagulation, préférer un AOD, considérer d'associer aspirine/clopidogrel si IDM, haut risque ischémique sans risque élevé de saignement
 
 La décision d'une revascularisation myocardique (stent ou autre) relève uniquement du cardiologue et n'est donc pas abordée ici.
 

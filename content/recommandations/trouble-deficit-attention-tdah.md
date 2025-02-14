@@ -95,7 +95,7 @@ L'ordre d'apparition des troubles est important pour déterminer un diagnostic d
 || Usage excessif des jeux et des écrans ||
 | Troubles anxieux | Trouble anxieux généralisé, anxiété de performance, refus scolaire anxieux, anxiété sociale, anxiété de séparation | Possibles irritabilité et agitation motrice et psychique ou inhibition comportementale ou anxiété de performance invalidante |
 | Troubles obsessionnels compulsifs | TOC | Obsessions, compulsions, rituels |
-| Troubles de l'humeur | [Épisode dépressif caractérisé]({{< relref "depression.md" >}}) | Modification nette et récente de l'humeur, plus fréquent chez l'adolescent. Tristesse, idées suicidaires non exprimées spontanément, observées par des colères et irritabilité |
+| Troubles de l'humeur | [Épisode dépressif caractérisé]({{% relref "depression.md" %}}) | Modification nette et récente de l'humeur, plus fréquent chez l'adolescent. Tristesse, idées suicidaires non exprimées spontanément, observées par des colères et irritabilité |
 || Trouble disruptif avec dysrégulation émotionnelle | Comportement explosif (rage, accès de colère d'intensité et fréquence supérieures à l'âge développemental) |
 || Troubles bipolaires | Antécédents familiaux, humeur labile, irritabilité épisodique, troubles du sommeil. Rares avant l'adolescence |
 | Psycho-traumatisme | Trouble de l'adaptation | Lié au stress, surtout transitoire, rechercher une rigidité cognitive |
@@ -103,17 +103,17 @@ L'ordre d'apparition des troubles est important pour déterminer un diagnostic d
 || Trouble réactionnel de l'attachement ||
 || Maltraitance | Envisager systématiquement, sous toutes ses formes (dont harcèlement scolaire) |
 | Troubles du sommeil | Insomnie, parasomnies | Très fréquents ainsi que le retard de phase. Le sommeil non réparateur peut se traduire par une hyperactivité, irritabilité, troubles de concentration |
-|| [Syndrome d'apnées obstructives du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) | Ronflements, pauses, sueurs nocturnes, nycturie, respiration buccale. Diurne: fatigue au réveil, troubles de l'attention, hyperactivité, somnolence, sommeil non réparateur |
+|| [Syndrome d'apnées obstructives du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) | Ronflements, pauses, sueurs nocturnes, nycturie, respiration buccale. Diurne: fatigue au réveil, troubles de l'attention, hyperactivité, somnolence, sommeil non réparateur |
 || Narcolepsie | Endormissements diurnes irrépressibles, cataplexie, hallucinations hypnagogiques |
-|| [Syndrome des jambes sans repos]({{< relref "syndrome-jambes-sans-repos.md" >}}) | Besoin irrépressible de bouger les jambes suite à des sensations désagréables, soulagées par le mouvement, maximales le soir. Comorbidité fréquente |
-| [Énurésie]({{< relref "enuresie-primaire.md" >}}) || Comorbidité fréquente|
+|| [Syndrome des jambes sans repos]({{% relref "syndrome-jambes-sans-repos.md" %}}) | Besoin irrépressible de bouger les jambes suite à des sensations désagréables, soulagées par le mouvement, maximales le soir. Comorbidité fréquente |
+| [Énurésie]({{% relref "enuresie-primaire.md" %}}) || Comorbidité fréquente|
 | Obésité || Comorbidité fréquente |
-| Troubles du comportement alimentaire || [Boulimie]({{< relref "boulimie-hyperphagie.md" >}}), anorexie mentale |
+| Troubles du comportement alimentaire || [Boulimie]({{% relref "boulimie-hyperphagie.md" %}}), anorexie mentale |
 | Épilepsie || Surtout épilepsie absence: perte brève et brutale du contact, automatismes |
 | Déficit visuel ou auditif || Contrôle clinique systématique |
-| Endocrinopathie || [Dysthyroïdie](/tags/tsh/), [diabète]({{< relref "diabete-type-1.md" >}}), hyperplasie congénitale des surrénales |
-| Intoxication || [Plomb]({{< relref "saturnisme.md" >}}), mercure, syndrome d'alcoolisation fœtale |
-| Médicaments || [Corticoïdes]({{< relref "corticoides.md" >}}), valproate pendant la grossesse |
+| Endocrinopathie || [Dysthyroïdie](/tags/tsh/), [diabète]({{% relref "diabete-type-1.md" %}}), hyperplasie congénitale des surrénales |
+| Intoxication || [Plomb]({{% relref "saturnisme.md" %}}), mercure, syndrome d'alcoolisation fœtale |
+| Médicaments || [Corticoïdes]({{% relref "corticoides.md" %}}), valproate pendant la grossesse |
 | Maladie génétique || Syndrome de l'X fragile, délétion 22q11 ou 7q11.23, Prader-Willi, Angelman, neurofibromatose de type 1 |
 {{< /table >}}
 
@@ -174,7 +174,7 @@ L'évaluation du trouble déficit de l'attention/hyperactivité est au mieux ré
     <!--  TODO: échelle de dépistage des troubles du sommeil de l’enfant (de 6 mois à 4 ans et de 4 à 16 ans)30-->
   - Troubles du comportement: TOP ++, troubles des conduites
   - Autres troubles du neurodéveloppement: troubles des apprentissages (50 à 80%; **dyslexie**, dysgraphie, dyscalculie, dyspraxie), handicap intellectuel, TSA, TIC
-  - **Troubles anxieux** (33%), **[dépression]({{< relref "depression.md" >}})**
+  - **Troubles anxieux** (33%), **[dépression]({{% relref "depression.md" %}})**
   - Addictions
   - Évaluation du risque suicidaire
 

@@ -75,7 +75,7 @@ SFD
 - Toxiques
 - Psoriasis
   - Ancienneté
-  - Facteurs aggravants: infection (ORL ++ [angine]({{< relref "angine.md" >}}), VIH), stress et choc émotionnel, traumatisme cutané (griffure, vaccination = **phénomène de Koebner**), traitement (bêtabloquant)
+  - Facteurs aggravants: infection (ORL ++ [angine]({{% relref "angine.md" %}}), VIH), stress et choc émotionnel, traumatisme cutané (griffure, vaccination = **phénomène de Koebner**), traitement (bêtabloquant)
   - Facteurs de gravité et résistance: alcool, tabac, surpoids/obésité
   - Facteurs d'amélioration: photoexposition
   - Atteinte chronique ou par poussées
@@ -87,11 +87,11 @@ SFD
   - Muqueuses et phanères (ongles ++)
   - Surface corporelle atteinte ([rappel](https://commons.wikimedia.org/wiki/File:Wallace_rule_of_nines-en.svg), simplement 1 paume = 1%)
   - Symptômes: prurit (60% lors des poussées), douleurs des paumes et plantes
-  - Complications: eczématisation (suintement, prurit), [fissure anale]({{< relref "fissure-anale.md" >}}), [alopécie]({{< relref "alopecie.md" >}})
+  - Complications: eczématisation (suintement, prurit), [fissure anale]({{% relref "fissure-anale.md" %}}), [alopécie]({{% relref "alopecie.md" %}})
   - Signes associés: SAPHO (synovite, acné, pustulose, hyperostose, ostéite)
   - Sévérité: [score PASI (PDF)](https://www.sfdermato.org/upload/scores/formulaire-de-calcul-de-score-pasi-239e58233872fe425ce7a8a3232d0265.pdf)
 - Signes généraux: habituellement pas d'AEG
-- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 - Qualité de vie: {{< modal-btn modal-score-dlqi >}}score DLQI{{< /modal-btn >}}
 
 ### Formes cliniques de psoriasis
@@ -102,7 +102,7 @@ Le psoriasis peut prendre différentes formes cliniques:
 - Psoriasis aigu en gouttes  
   Enfant ou adolescent dans les suites d'une infection ORL (viral, SGA).
 - Psoriasis du cuir chevelu  
-  Plaques bien limitées de taille variable (lisière antérieure, occipitales) avec squames épaisses voire carapace squameuse en casque. [Alopécie]({{< relref "alopecie.md" >}}) temporaire possible.
+  Plaques bien limitées de taille variable (lisière antérieure, occipitales) avec squames épaisses voire carapace squameuse en casque. [Alopécie]({{% relref "alopecie.md" %}}) temporaire possible.
 - Psoriasis unguéal  
   Ongles en << dé à coudre >>, onycholyse avec décollement distal, zone proximal << saumonée >>, hyperkératose sous-unguéale, paronychie, perte de transparence de l'ongle.
 - Localisations plus rares
@@ -113,7 +113,7 @@ Le psoriasis peut prendre différentes formes cliniques:
   - Psoriasis des muqueuses  
     Linguale (glossite), génitales avec lésions érythémateuses sans squames.
   - Psoriasis du visage (rare)  
-    Aspect de [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}}) avec parfois atteinte de la conque et du conduit auditif externe.
+    Aspect de [dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}}) avec parfois atteinte de la conque et du conduit auditif externe.
 
 Chez l'**enfant**, il est localisé au **siège chez le nourrisson**, **aigu en goutte** après une infection chez l'enfant et l'adolescent. Le **visage** est plus souvent atteint.
 
@@ -125,7 +125,7 @@ Deux formes de psoriasis sont des **urgences médicales**:
   Psoriasis généralisé (> 90% de la peau), desquamation abondante et épaississement cutané. Parfois par rebond à l'arrêt d'un traitement. Rechercher une toxidermie (différentielle).
 - **Psoriasis pustuleux**  
   De novo ou sur psoriasis connu, facteur déclenchant (grossesse, médicaments), début brutal avec AEG, fièvre élevée. Placards rouges vifs thoraciques se couvrant de pustules laiteuses.
-- Psoriasis au cours de l'[infection VIH]({{< relref "vih-sida.md" >}})  
+- Psoriasis au cours de l'[infection VIH]({{% relref "vih-sida.md" %}})  
   Psoriasis réfractaire ou de forme grave.
 
 ##### Le rhumatisme psoriasique
@@ -140,17 +140,17 @@ Il est périphérique ou axial avec atteinte fréquente de: enthèses, interphal
 ### Diagnostics différentiels du psoriasis
 
 - Pityriasis rosé de Gibert  
-  Atteinte thoracique et à la racine des membres << en arbre de Noël >>, possiblement liée à un virus. Macules roses finement squameuses avec un centre en cours de guérison. Toujours guérison spontanée en 6-8 semaines, [sérologies VIH]({{< relref "vih-sida.md" >}}) et [syphilis]({{< relref "syphilis.md" >}}) de principe.
-- [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})  
+  Atteinte thoracique et à la racine des membres << en arbre de Noël >>, possiblement liée à un virus. Macules roses finement squameuses avec un centre en cours de guérison. Toujours guérison spontanée en 6-8 semaines, [sérologies VIH]({{% relref "vih-sida.md" %}}) et [syphilis]({{% relref "syphilis.md" %}}) de principe.
+- [Dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}})  
   Pas de lésions à distance du visage.
-- [Eczéma chronique]({{< relref "dermatite-atopique.md" >}})  
+- [Eczéma chronique]({{% relref "dermatite-atopique.md" %}})  
   Visage et plis, peu de squames, limites floues
 - Lymphomes cutanés
 - Autres formes de psoriasis
   - Psoriasis des plis  
-    [Intertrigo mycosique]({{< relref "mycoses-dermatophytes-candidoses.md" >}}) ou bactérien
+    [Intertrigo mycosique]({{% relref "mycoses-dermatophytes-candidoses.md" %}}) ou bactérien
   - Psoriasis palmo-plantaire  
-    Autres causes de kératodermie: [eczéma]({{< relref "dermatite-atopique.md" >}}), lichen, [dermatophytie]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
+    Autres causes de kératodermie: [eczéma]({{% relref "dermatite-atopique.md" %}}), lichen, [dermatophytie]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
   - Érythrodermie psoriasique  
     Autres causes d'érythrodermie: toxidermie, lymphome, eczémas
   - Psoriasis pustuleux généralisé  
@@ -164,8 +164,8 @@ Le diagnostic de psoriasis est **clinique**. En cas de doute diagnostique, adres
 ### Bilan devant un psoriasis
 
 - Bilan lipidique et glycémie à jeun
-- [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}) (*ESsCD*)
-- Si doute diagnostique ou de résistance au traitement: [sérologies VIH]({{< relref "vih-sida.md" >}}) et [syphilis]({{< relref "syphilis.md" >}})
+- [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (*ESsCD*)
+- Si doute diagnostique ou de résistance au traitement: [sérologies VIH]({{% relref "vih-sida.md" %}}) et [syphilis]({{% relref "syphilis.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Traitement du psoriasis" %}}
@@ -242,7 +242,7 @@ Les traitements systémiques relèvent uniquement du dermatologue:
 
 - **Photothérapie**: PUVAthérapie, **photothérapie UVB à spectre étroit**, rePUVA, acitrétine et UVB, photothérapie localisée
 - Rétinoïde (acitrétine)
-- Immunomodulateur: **[méthotrexate]({{< relref "methotrexate.md" >}})** > ciclosporine > aprémilast (Otezla®)
+- Immunomodulateur: **[méthotrexate]({{% relref "methotrexate.md" %}})** > ciclosporine > aprémilast (Otezla®)
 - Biothérapie
   - Anti-TNFα: étanercept, infliximab, **adalimumab** ({{< traitements/adalimumab >}}), certolizumab
   - IL-12 et IL-23: **ustékinumab** (Stelara®, Uzpruvo®)

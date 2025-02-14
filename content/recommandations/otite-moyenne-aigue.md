@@ -33,7 +33,7 @@ flowchart = true
 - La prévention de l'otite moyenne aiguë passe par les désobstructions rhinopharyngées (DRP) et la vaccination anti-pneumococcique et anti-*Haemophilus*
 - Participer à l'[étude ADOMA](https://docs.google.com/forms/d/e/1FAIpQLScbwnGzkxnx_kIhvCsOoPgvq887krPBXgIqul_0a2drnt0gAQ/viewform) en soins primaires pour l'antibiothérapie différée de l'otite
 
-Chapitre lié: [otite externe]({{< relref "otite-externe.md" >}})
+Chapitre lié: [otite externe]({{% relref "otite-externe.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -41,7 +41,7 @@ Chapitre lié: [otite externe]({{< relref "otite-externe.md" >}})
 Otite moyenne aiguë purulente (OMAP)
 : Surinfection de l'oreille moyenne le plus souvent à *Streptococcus pneumoniae* ou *Haemophilus influenzae* (20% de résistance à l'amoxicilline) compliquant le plus souvent une **rhinopharyngite** par obstruction de la trompe d'Eustache.
 : L'otite moyenne aiguë (OMA) est l'infection bactérienne la plus fréquente chez le nourrisson.
-: Les complications de l'otite moyenne aiguë sont rares: échec du traitement (5%), [méningite bactérienne]({{< relref "meningite.md" >}}) (streptocoque), mastoïdite, thrombophlébite cérébrale, paralysie faciale, otite séro-muqueuse (10-20 %).
+: Les complications de l'otite moyenne aiguë sont rares: échec du traitement (5%), [méningite bactérienne]({{% relref "meningite.md" %}}) (streptocoque), mastoïdite, thrombophlébite cérébrale, paralysie faciale, otite séro-muqueuse (10-20 %).
 
 ### Abréviations
 
@@ -98,7 +98,7 @@ Indication au scanner cérébral et du rocher: suspicion de mastoïdite (guéris
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-La prévention des otites moyennes aiguës purulentes passe par les **désobstructions rhinopharyngées** (DRP) répétées en cas de rhinopharyngite aiguë et les [vaccinations anti-pneumococcique]({{< relref "vaccination.md" >}}) et anti-*Haemophilus*.
+La prévention des otites moyennes aiguës purulentes passe par les **désobstructions rhinopharyngées** (DRP) répétées en cas de rhinopharyngite aiguë et les [vaccinations anti-pneumococcique]({{% relref "vaccination.md" %}}) et anti-*Haemophilus*.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'otite moyenne aiguë" %}}

@@ -30,14 +30,14 @@ flowchart = true
 - La prise en charge de la constipation associe des mesures hygiéno-diététiques (apports en fibres 25 g/j, adaptation des traitements) et des traitements laxatifs osmotiques (macrogol) et/ou de lest (ispaghul) en première intention
 - Suppositoires et lavements en cas de constipation terminale (dyschésie)
 
-Chapitre lié: [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}})
+Chapitre lié: [syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Constipation
 : Critères diagnostiques de *Rome IV*, au moins 2 des symptômes suivants depuis au moins 6 mois: selles peu fréquentes (< 3 par semaine), selles dures, efforts de poussée, sensation d'évacuation incomplète, sensation de blocage ano-rectal, manœuvres digitales ou autres pour faciliter l'exonération (pour au moins 25% des défécations).
-: Lorsque les douleurs abdominales sont fréquentes, le diagnostic de [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) avec constipation peut être retenu.
+: Lorsque les douleurs abdominales sont fréquentes, le diagnostic de [syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}) avec constipation peut être retenu.
 : La << fausse diarrhée >> qui suit l'évacuation ne doit pas faire interrompre l'évacuation.
 
 Dyschésie
@@ -64,8 +64,8 @@ SNFGE
 ### Interrogatoire
 
 - Antécédents
-  - [Syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), neurologique ([Parkinson]({{< relref "maladie-parkinson.md" >}}), SEP, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) ...), [prolapsus génital]({{< relref "prolapsus-genital-femme.md" >}}) ...
-  - Enfant: retard d'émission du méconium (> 48 heures), [énurésie primaire]({{< relref "enuresie-primaire.md" >}})
+  - [Syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}), [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), neurologique ([Parkinson]({{% relref "maladie-parkinson.md" %}}), SEP, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}) ...), [prolapsus génital]({{% relref "prolapsus-genital-femme.md" %}}) ...
+  - Enfant: retard d'émission du méconium (> 48 heures), [énurésie primaire]({{% relref "enuresie-primaire.md" %}})
 - Antécédents familiaux (intestinaux, [cancer](/tags/cancer/))
 - Traitements en cours et essayés  
   Fer, antalgiques, antidiarrhéiques, anticholinergiques, antidépresseur, furosémide ...
@@ -82,8 +82,8 @@ SNFGE
   - Alternance diarrhées-constipation
 - Autres symptômes
   - Douleurs abdominales
-  - [Fissure anale]({{< relref "fissure-anale.md" >}}), [incontinence fécale]({{< relref "incontinence-fecale.md" >}}) ou [hémorroïdaires]({{< relref "hemorroides.md" >}})
-  - Incontinence urinaire ([chapitre de l'IU de la femme]({{< relref "incontinence-urinaire-femme.md" >}}))
+  - [Fissure anale]({{% relref "fissure-anale.md" %}}), [incontinence fécale]({{% relref "incontinence-fecale.md" %}}) ou [hémorroïdaires]({{% relref "hemorroides.md" %}})
+  - Incontinence urinaire ([chapitre de l'IU de la femme]({{% relref "incontinence-urinaire-femme.md" %}}))
 - **Signes d'alarmes** (drapeaux rouges)  
   AEG, rectorragies, méléna, constipation sévère persistante et résistante sans cause évidente, syndrome rectal (épreinte, ténesme, faux besoins), masse abdominale ou rectale.
 
@@ -93,7 +93,7 @@ SNFGE
 - Examen abdominal  
   Douleurs en fosse iliaque gauche, météorisme abdominal.
 - Examen périnéal  
-  Inspection ([hémorroïdes]({{< relref "hemorroides.md" >}}), [fissure anale]({{< relref "fissure-anale.md" >}})), toucher rectal (fécalome, rectocèle, tonus sphinctérien).
+  Inspection ([hémorroïdes]({{% relref "hemorroides.md" %}}), [fissure anale]({{% relref "fissure-anale.md" %}})), toucher rectal (fécalome, rectocèle, tonus sphinctérien).
 - Enfant: courbes de croissance
 
 {{% /collapse %}}
@@ -101,7 +101,7 @@ SNFGE
 
 ### Bilan d'une constipation
 
-Le bilan vise à éliminer une cause métabolique et une [anémie]({{< relref "anemie.md" >}}) chez l'adulte:
+Le bilan vise à éliminer une cause métabolique et une [anémie]({{% relref "anemie.md" %}}) chez l'adulte:
 
 - NFS, CRP
 - Glycémie à jeun
@@ -110,11 +110,11 @@ Le bilan vise à éliminer une cause métabolique et une [anémie]({{< relref "a
 - ± Calcémie
 - ± Ferritine (NDLR)
 
-Recherche de [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) selon le tableau clinique.
+Recherche de [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) selon le tableau clinique.
 
 ### Coloscopie
 
-Indications à la coloscopie pour constipation: apparition ou modification récente des symptômes après 50 ans, AEG, rectorragies ou anémie, [haut risque de cancer colorectal]({{< relref "cancer-colorectal.md" >}}).
+Indications à la coloscopie pour constipation: apparition ou modification récente des symptômes après 50 ans, AEG, rectorragies ou anémie, [haut risque de cancer colorectal]({{% relref "cancer-colorectal.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la constipation" %}}
@@ -131,11 +131,11 @@ Mesures à mettre en place chez le sujet constipé:
 - Apports hydriques adaptés, eaux minérales riches en magnésium
 - Activité physique régulière (n'améliore pas la constipation)
 - Respecter le réflexe gastro-intestinal
-- Prévention des [hémorroïdes]({{< relref "hemorroides.md" >}})  
+- Prévention des [hémorroïdes]({{% relref "hemorroides.md" %}})  
   Ne pas se retenir, éviter les efforts de poussée, position adaptée (marchepied), limiter le temps aux toilettes, siège de WC adapté à l'âge.
 - Psychothérapie en cas de comorbidité
 
-Prise en charge d'un [prolapsus pelvien]({{< relref "prolapsus-genital-femme.md" >}}).
+Prise en charge d'un [prolapsus pelvien]({{% relref "prolapsus-genital-femme.md" %}}).
 
 ### Les laxatifs pour la prise en charge de la constipation
 

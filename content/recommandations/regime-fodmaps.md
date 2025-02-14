@@ -24,7 +24,7 @@ todo = "rankok, photo, flow | pastèque, abricot, kaki, cerise, figue, mûre, ne
 
 - FODMAPs est un acronyme désignant certains hydrates de carbone fermentescibles (dont le fructose, le lactose, le sorbitol) qui sont de plus en plus présents dans l'alimentation
 - Les symptômes digestifs les plus fréquents associés aux FODMAPs sont un inconfort abdominal, des ballonnements voire une diarrhée chronique
-- La prise en charge par régime pauvre en FODMAPs (voir [Régime pauvre en FODMAPs](#régime-pauvre-en-fodmaps)) pendant 1 mois peut être proposée pour divers troubles intestinaux: [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}), ballonnement abdominal ou [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
+- La prise en charge par régime pauvre en FODMAPs (voir [Régime pauvre en FODMAPs](#régime-pauvre-en-fodmaps)) pendant 1 mois peut être proposée pour divers troubles intestinaux: [syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}), ballonnement abdominal ou [diarrhée chronique]({{% relref "diarrhee-chronique.md" %}})
 - Si le test thérapeutique d'éviction des FODMAPs pendant 4 semaines entraîne une amélioration clinique, la réintroduction des FODMAPs doit ensuite être progressive afin d'identifier les FODMAPs les moins bien tolérés
 - Le régime strict sans FODMAPs prolongé est difficile et un accompagnement par un diététicien est bénéfique
 
@@ -53,12 +53,12 @@ SNFGE
 Les FODMAPs sont absorbés lentement par l'intestin grêle. Du fait de leur fort pouvoir osmotique, ils attirent dans la lumière digestive (colique surtout) un exsudat qui engendre: une distension colique et une fermentation produisant des gaz (hydrogène et méthane ++).
 {.alert .alert-info}
 
-Les symptômes les plus fréquents de la fermentation intestinale sont un **inconfort abdominal**, des **ballonnements** voire une [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}}) (de type osmotique).
+Les symptômes les plus fréquents de la fermentation intestinale sont un **inconfort abdominal**, des **ballonnements** voire une [diarrhée chronique]({{% relref "diarrhee-chronique.md" %}}) (de type osmotique).
 
 {{% /collapse %}}
 {{%collapse "Régime pauvre en FODMAPs" %}}
 
-Un régime pauvre en FODMAPS est suggéré pour divers troubles intestinaux: [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}), ballonnement abdominal fonctionnel (ballonnement sans troubles du transit) ou [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}}) (origine osmotique suspectée). Il est préférable de l'éviter en cas de maigreur ou de troubles du comportement alimentaire (ou avec accompagnement diététique).
+Un régime pauvre en FODMAPS est suggéré pour divers troubles intestinaux: [syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}), ballonnement abdominal fonctionnel (ballonnement sans troubles du transit) ou [diarrhée chronique]({{% relref "diarrhee-chronique.md" %}}) (origine osmotique suspectée). Il est préférable de l'éviter en cas de maigreur ou de troubles du comportement alimentaire (ou avec accompagnement diététique).
 
 Le régime pauvre en FODMAPs comprend une éviction des FODMAPs pendant **4 à 6 semaines** comme test thérapeutique. Les FODMAPs sont ensuite **réintroduits progressivement** afin de déterminer la quantité tolérable.
 

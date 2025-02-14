@@ -51,7 +51,7 @@ Diagnostic différentiel de symptômes évocateurs de l'épine calcanéenne:
 - Tendinopathie plantaire
 - Talonnade
 - Fracture de fatigue du calcanéum
-- [Bursite sous-calcanéenne]({{< relref "bursite.md" >}})
+- [Bursite sous-calcanéenne]({{% relref "bursite.md" %}})
 - Calcanéite inflammatoire ou métabolique
 - Neuropathie du nerf calcanéen
 - Sciatique S1 tronquée

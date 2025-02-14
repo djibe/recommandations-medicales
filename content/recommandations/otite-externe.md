@@ -29,7 +29,7 @@ modele = true
 - En cas d'otomycose, le traitement est l'Auricularum 5 à 10 gouttes 2 fois par jour pendant 15 jours (voire 3 semaines)
 - Avis spécialisé ORL en cas d'échec du traitement, en urgence en cas de signes de gravité
 
-Chapitre lié: [otite moyenne aiguë]({{< relref "otite-moyenne-aigue.md" >}})
+Chapitre lié: [otite moyenne aiguë]({{% relref "otite-moyenne-aigue.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -64,11 +64,11 @@ Autres causes d'otalgie:
 
 - Furoncle du conduit auditif externe (CAE)
 - Corps étranger (enfant ++)
-- Dermatose (eczéma, [psoriasis]({{< relref "psoriasis.md" >}}))
+- Dermatose (eczéma, [psoriasis]({{% relref "psoriasis.md" %}}))
 - Allergie aux traitements locaux
 - Infection virale du CAE
 - Radiodermite
-- Extension d'[otite moyenne]({{< relref "otite-moyenne-aigue.md" >}})
+- Extension d'[otite moyenne]({{% relref "otite-moyenne-aigue.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

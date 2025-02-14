@@ -60,30 +60,30 @@ Causes de dysphonie:
   - Neurochirurgie et chirurgie de la base du crâne
 - Iatrogénie médicamenteuse
   - Anticholinergiques, sympathomimétiques, testostérone, tamoxifène
-  - [Corticoïdes inhalés]({{< relref "corticoides-inhales.md" >}}), anti-VEGF
+  - [Corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}), anti-VEGF
 - Inflammatoire
-  - [Tabagisme]({{< relref "arret-tabac.md" >}})
+  - [Tabagisme]({{% relref "arret-tabac.md" %}})
   - Cordiite polypoïde
   - Allergie
 - Auto-immune
   - Granulomatose avec polyangéite
   - Sarcoïdose
   - Amylose
-  - [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}})
+  - [Polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}})
 - Infectieux
   - Infection virale des voies aériennes supérieures
   - Infection bactérienne
-  - [Candidose laryngée]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
+  - [Candidose laryngée]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
 - Neurologique
   - Dystonie laryngée (ex. dysphonie spasmodique)
   - Paralysie des cordes vocales
   - Tremblement essentiel
-  - [Maladie de Parkinson]({{< relref "maladie-parkinson.md" >}})
-- Cardiologique: [péricardite]({{< relref "pericardite-aigue.md" >}})
+  - [Maladie de Parkinson]({{% relref "maladie-parkinson.md" %}})
+- Cardiologique: [péricardite]({{% relref "pericardite-aigue.md" %}})
 - Endocrinienne
-  - [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
+  - [Hypothyroïdie]({{% relref "hypothyroidie.md" %}})
   - [Diabète](/tags/diabete/)
-  - [Ménopause]({{< relref "menopause.md" >}})
+  - [Ménopause]({{% relref "menopause.md" %}})
   - Supplémentation en androgènes
 - **Tumorale**
   - Carcinome épidermoïde laryngé
@@ -104,7 +104,7 @@ Causes de dysphonie:
 - Musculo-squelettique
   - Dysphonie par tension musculaire
   - Cervicalgie
-- Gastro-intestinal: [reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
+- Gastro-intestinal: [reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

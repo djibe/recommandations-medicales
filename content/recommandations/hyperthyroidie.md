@@ -33,7 +33,7 @@ flowchart = true
 - Surveillance spécifique de chaque traitement curatif
 - Avis endocrinologique avec bilan de moins de 3 mois: hyperthyroïdie avérée, chez l'enfant ou projet de grossesse ou enceinte, à la Cordarone ou discussion de traitement radical
 
-Chapitres liés: [nodule thyroïdien]({{< relref "nodule-thyroidien.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}})
+Chapitres liés: [nodule thyroïdien]({{% relref "nodule-thyroidien.md" %}}), [hypothyroïdie]({{% relref "hypothyroidie.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -99,7 +99,7 @@ L'examen clinique recherche les éléments du syndrome de thyrotoxicose.
 ### Interrogatoire
 
 - Antécédents personnels  
-  Grossesse, pathologie thyroïdienne, maladie auto-immune, cardiopathie, [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), anxiété ou [dépression]({{< relref "depression.md" >}}) inexpliquée.
+  Grossesse, pathologie thyroïdienne, maladie auto-immune, cardiopathie, [fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}), anxiété ou [dépression]({{% relref "depression.md" %}}) inexpliquée.
 - Cause transitoire  
   Iode 131, thyroïdectomie partielle, douleurs cervicales récentes.
 - Antécédents familiaux (thyroïdiens et auto-immuns ++)
@@ -113,23 +113,23 @@ L'examen clinique recherche les éléments du syndrome de thyrotoxicose.
   - **Nervosité**, anxiété, irritabilité, agitation, anxiété ou [dépression inexpliquée](/tags/depression/)
   - [Asthénie](/tags/fatigue/), troubles du sommeil
   - Palpitations
-  - Amaigrissement avec hyperphagie (voire [dénutrition]({{< relref "denutrition.md" >}}))
+  - Amaigrissement avec hyperphagie (voire [dénutrition]({{% relref "denutrition.md" %}}))
   - Thermophobie
   - Hypersudation
   - Tremblement des extrémités (fin et régulier)
   - Dyspnée d'effort
   - Fatigabilité musculaire, amyotrophie (70%)
-  - [Diarrhée chronique]({{< relref "diarrhee-chronique.md" >}}) (35%)
-  - [Prurit]({{< relref "prurit.md" >}}) (18%)
+  - [Diarrhée chronique]({{% relref "diarrhee-chronique.md" %}}) (35%)
+  - [Prurit]({{% relref "prurit.md" %}}) (18%)
   - Œdèmes des membres inférieurs (13%)
-  - Autres: [ostéoporose rachidienne]({{< relref "osteoporose.md" >}}), gynécomastie de l'homme, troubles des cycles, rétraction de la paupière supérieure
+  - Autres: [ostéoporose rachidienne]({{% relref "osteoporose.md" %}}), gynécomastie de l'homme, troubles des cycles, rétraction de la paupière supérieure
 - Signes d'hyperthyroïdie chez l'enfant:
   - Avance staturale et de la maturation osseuse
   - Hyperactivité avec retentissement scolaire
 - Complications de l'hyperthyroïdie
   - Signes de compression cervicale  
-    Dyspnée laryngée, dysphagie, [dysphonie]({{< relref "dysphonie.md" >}}), troubles de la déglutition.
-  - [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) (10%)
+    Dyspnée laryngée, dysphagie, [dysphonie]({{% relref "dysphonie.md" %}}), troubles de la déglutition.
+  - [Fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}) (10%)
   - Orbitopathie basedowienne  
     Rétraction palpébrale avec œdème, asynergie oculo-palpébrale, hyperhémie conjonctivale avec larmoiement, chémosis (œdème de la conjonctive), photophobie, exophtalmie, diplopie.
 
@@ -163,13 +163,13 @@ Indications au dosage de la TSH:
 
 - Symptômes évocateurs d'hyperthyroïdie
 - Symptômes non spécifiques avec:
-  - Antécédent personnel de maladie de Basedow ou auto-immuns (ex: [diabète type 1]({{< relref "diabete-type-1.md" >}}))
+  - Antécédent personnel de maladie de Basedow ou auto-immuns (ex: [diabète type 1]({{% relref "diabete-type-1.md" %}}))
   - Antécédents familiaux thyroïdiens
   - Anxiété ou [dépression inexpliquée](/tags/depression/)
-- Diagnostic de [fibrillation atriale (ACFA)]({{< relref "fibrillation-atriale.md" >}})
+- Diagnostic de [fibrillation atriale (ACFA)]({{% relref "fibrillation-atriale.md" %}})
 - Traitement par amiodarone (voir ACFA ci-dessus) ou lithium
 - Syndrome de Turner, trisomie 21: TSH annuelle
-- [Grossesse]({{< relref "grossesse.md" >}}) ou désir de grossesse avec {{< modal-btn modal-fdr-hypothyroidie >}}facteur de risque d'hypothyroïdie{{< /modal-btn >}}
+- [Grossesse]({{% relref "grossesse.md" %}}) ou désir de grossesse avec {{< modal-btn modal-fdr-hypothyroidie >}}facteur de risque d'hypothyroïdie{{< /modal-btn >}}
 
 > En cas de suspicion clinique très forte d'hyperthyroïdie malgré une TSH normale, la T4L peut être dosée pour rechercher une exceptionnelle hyperthyroïdie centrale.
 
@@ -212,7 +212,7 @@ Causes extra-thyroïdiennes de TSH basse isolée:
 
 Seule la thyroglobuline sérique peut être utile en cas de suspicion d'hyperthyroïdie factice (prise d'hormones thyroïdiennes).
 
-Réaliser une [sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}) en cas de maladie de Basedow (*ESsCD*).
+Réaliser une [sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}) en cas de maladie de Basedow (*ESsCD*).
 
 {{%warning%}}
 
@@ -230,7 +230,7 @@ Réaliser une [sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}) en c
 Indications à l'échographie de la thyroïde:
 
 - Hyperthyroïdie avec TRAK négatifs (sauf thyroïdite de De Quervain typique)
-- [Nodule de la thyroïde]({{< relref "nodule-thyroidien.md" >}})
+- [Nodule de la thyroïde]({{% relref "nodule-thyroidien.md" %}})
 - Adénopathie cervicale
 - Avant traitement radical (chirurgie ou irathérapie)
 
@@ -271,7 +271,7 @@ Avis ophtalmologique urgent si:
 - Cardiothyréose chez le sujet âgé avec cardiopathie
 - Orbitopathie sévère (ou maligne)  
   Baisse de l'acuité visuelle, dyschromatopsie, subluxation oculaire ou inocclusion palpébrale.
-- [Dénutrition sévère]({{< relref "denutrition.md" >}}) du sujet âgé  
+- [Dénutrition sévère]({{% relref "denutrition.md" %}}) du sujet âgé  
   IMC < 20, amaigrissement ≥ 10% en 1 mois (15% en 6 mois ou par rapport au début de la maladie) ou albuminémie < 30 g/L.
 {{%/warning%}}
 
@@ -284,8 +284,8 @@ Envisager un traitement de l'hyperthyroïdie fruste avant 65 ans si:
 
 - Cardiopathie ou facteurs de risque cardiovasculaires
 - Thyrotoxicose
-- [Ostéoporose]({{< relref "osteoporose.md" >}})
-- Femme en périménopause ou [ménopausée]({{< relref "menopause.md" >}}) sans THM ni biphosphonates
+- [Ostéoporose]({{% relref "osteoporose.md" %}})
+- Femme en périménopause ou [ménopausée]({{% relref "menopause.md" %}}) sans THM ni biphosphonates
 
 Après 65 ans:
 
@@ -315,7 +315,7 @@ La prise en charge de l'hyperthyroïdie relève de l'endocrinologue. Néanmoins,
 - Sédatifs temporaires
 - Femme jeune: contraception efficace pendant la prise en charge pour éviter des complications fœtales (voir *Définitions*)
 - Orbitopathie basedowienne: prise en charge pluridisciplinaire
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 
 Ces mesures sont suffisantes pour le traitement d'une thyroïdite transitoire (avec paracétamol voire ajout d'AINS ou corticoïdes).
 
@@ -410,7 +410,7 @@ Les 3 modalités de traitement sont possibles en cas d'orbitopathie basedowienne
 
 #### Effets indésirables des ATS
 
-- Habituels (5-15%): rash cutané et urticaire, arthralgie, neutropénie transitoire, [alopécie]({{< relref "alopecie.md" >}}), perturbations hépatiques mineures
+- Habituels (5-15%): rash cutané et urticaire, arthralgie, neutropénie transitoire, [alopécie]({{% relref "alopecie.md" %}}), perturbations hépatiques mineures
 - Rares et sévères (< 1%): agranulocytose aiguë, hypoplasie médullaire, hépatite rétentionnelle ou cytolytique (PTU), vascularite allergique liées aux ANCA, pancréatite, hypoglycémie par anticorps anti-insuline.
 
 ### Irathérapie (iode 131 ou ^131^I)
@@ -433,7 +433,7 @@ Traitement formellement contre-indiqué en cas de grossesse et tout projet de gr
   - 1-2 mois après la fin du traitement, 2 semaines si orbitopathie
   - Puis toutes les 6 semaines à 3 mois pendant 6 mois
   - Puis tous les 3 mois pendant 1 an ou jusqu'à l'apparition d'une hypothyroïdie
-- [Contraception efficace]({{< relref "contraception.md" >}}) pendant au moins 6 mois pour tous
+- [Contraception efficace]({{% relref "contraception.md" %}}) pendant au moins 6 mois pour tous
 
 ### Chirurgie de la thyroïde: lobectomie ou thyroïdectomie
 
@@ -445,14 +445,14 @@ Pour la maladie de Basedow: l'euthyroïdie doit être obtenue avant l'opération
 
 Petit adénome toxique: la thermoablation (radiologie interventionnelle) est possible.
 
-Avant chirurgie thyroïdienne, [dosage de la vitamine D et correction d'une carence]({{< relref "vitamine-d.md" >}}).
+Avant chirurgie thyroïdienne, [dosage de la vitamine D et correction d'une carence]({{% relref "vitamine-d.md" %}}).
 
 > [!INFO]
 > << Un projet de grossesse ne doit pas, de façon isolée, conduire à envisager plus rapidement un traitement chirurgical >>. -- *HAS 2022*
 
 #### Indications à la chirurgie de la thyroïde
 
-- Maladie de Basedow, AT, GMNT si: goitre volumineux, compressif ou [nodule thyroïdien suspect de malignité]({{< relref "nodule-thyroidien.md" >}}), orbitopathie ou désir de grossesse à court terme
+- Maladie de Basedow, AT, GMNT si: goitre volumineux, compressif ou [nodule thyroïdien suspect de malignité]({{% relref "nodule-thyroidien.md" %}}), orbitopathie ou désir de grossesse à court terme
 - Adénome toxique, goitre multinodulaire toxique si: irathérapie impossible
 
 #### Suivi après chirurgie de la thyroïdienne
@@ -460,7 +460,7 @@ Avant chirurgie thyroïdienne, [dosage de la vitamine D et correction d'une care
 Suivi par le médecin généraliste:
 
 - Thyroïdectomie totale  
-  Prise en charge habituelle d'une [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), arrêt des ATS et bêta-bloquants.
+  Prise en charge habituelle d'une [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), arrêt des ATS et bêta-bloquants.
 - Lobectomie d'un adénome toxique  
   TSH à 6-8 semaines puis à 6-12 mois.
 
@@ -479,7 +479,7 @@ Les corticoïdes peuvent être utilisés pour le traitement de l'hyperthyroïdie
 - Effets indésirables (agranulocytose, hépatite ...)
 - Arrêter le traitement et dosage de NFS en urgence en cas de fièvre et de signes infectieux (angine).
 - Symptômes devant faire consulter rapidement  
-  Fièvre avérée, angine, [ictère]({{< relref "ictere.md" >}}), selles décolorées, urines foncées, rash prurigineux, arthralgies, douleurs abdominales, nausée, asthénie.
+  Fièvre avérée, angine, [ictère]({{% relref "ictere.md" %}}), selles décolorées, urines foncées, rash prurigineux, arthralgies, douleurs abdominales, nausée, asthénie.
 - Contraception efficace, grossesse à éviter
 
 ### Informations sur le traitement par iode radioactif (irathérapie)
@@ -494,7 +494,7 @@ Les corticoïdes peuvent être utilisés pour le traitement de l'hyperthyroïdie
 ### Informations sur la chirurgie de thyroïdectomie
 
 - Efficacité immédiate
-- Risque de complications chirurgicales locales (difficultés à parler, [hypocalcémie]({{< relref "hypocalcemie.md" >}}), hémorragie)
+- Risque de complications chirurgicales locales (difficultés à parler, [hypocalcémie]({{% relref "hypocalcemie.md" %}}), hémorragie)
 - Hypothyroïdie définitive
 
 {{% /collapse %}}

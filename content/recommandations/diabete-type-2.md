@@ -26,14 +26,14 @@ todo = "maisons sport-santé, socrisktest, WATCH-DM ESC2023 src480; EASD 2021 Ta
 
 Ce chapitre intègre les dernières recommandations HAS 2024, SFD, ADA, ESC et ESH 2023 et ADA/EASD 2022 pour la prise en charge du diabète de type 2.
 
-- Dépister régulièrement un diabète si: +35 ans, prédiabète (annuel), diabète gestationnel (min tous les 3 ans), [score FINDRISC](https://www.diabeclic.com/findrisc) élevé, VIH, surpoids avec autre facteur de risque (antécédent familial, maladie cardiovasculaire, origines africaines/asiatiques/pacifiques, PA > 130/80 mmHg ou traitée, HDL < 0,35 g/L, TG > 2,5 g/L, inactivité physique, [stéatose hépatique]({{< relref "steatose-hepatique-et-nash.md" >}}), acanthosis nigricans), Socrisktest ≥ 5 (*ADA 2023*)
+- Dépister régulièrement un diabète si: +35 ans, prédiabète (annuel), diabète gestationnel (min tous les 3 ans), [score FINDRISC](https://www.diabeclic.com/findrisc) élevé, VIH, surpoids avec autre facteur de risque (antécédent familial, maladie cardiovasculaire, origines africaines/asiatiques/pacifiques, PA > 130/80 mmHg ou traitée, HDL < 0,35 g/L, TG > 2,5 g/L, inactivité physique, [stéatose hépatique]({{% relref "steatose-hepatique-et-nash.md" %}}), acanthosis nigricans), Socrisktest ≥ 5 (*ADA 2023*)
 - Pour chaque personne vivant avec un diabète: changement du mode de vie, définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
 - {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7%) et {{< modal-btn modal-hba1c-faussee >}}situations où l'HbA1c n'est pas fiable{{< /modal-btn >}}
 - Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}} rarement
 - [Dépistage des complications du diabète](#dépistage-des-complications-du-diabète) et des comorbidités
 - Éducation thérapeutique du patient diabétique
 
-Articles liés: [diabète type 1]({{< relref "diabete-type-1.md" >}}), [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
+Articles liés: [diabète type 1]({{% relref "diabete-type-1.md" %}}), [diabète gestationnel]({{% relref "diabete-gestationnel.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions"%}}
@@ -44,8 +44,8 @@ Diabète
     - ou HbA1c ≥ 6,5 % (48 mmol/mol, non reconnue en France)
     - ou HGPO-75g H2 ≥ 2 g/L
     - Glycémie ≥ 2 g/L (11,1 mmol/L) et symptômes (polyurie, polydipsie, amaigrissement)
-: Au cours du diabète, l'atteinte coronaire est plus étendue, sévère et diffuse. 6 à 35% ont une **[ischémie myocardique sans angor]({{< relref "syndrome-coronarien-chronique.md" >}})** et 50% des [infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) sont **silencieux** (*SFD 2021 CAD*). Le responsable majeur est le **LDL cholestérol**. Le risque d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) est multiplié par 2 à 4.  
-Les femmes avec DT2 sont à risque élevé d'[AVC]({{< relref "accident-vasculaire-cerebral.md" >}}).
+: Au cours du diabète, l'atteinte coronaire est plus étendue, sévère et diffuse. 6 à 35% ont une **[ischémie myocardique sans angor]({{% relref "syndrome-coronarien-chronique.md" %}})** et 50% des [infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}) sont **silencieux** (*SFD 2021 CAD*). Le responsable majeur est le **LDL cholestérol**. Le risque d'[insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) est multiplié par 2 à 4.  
+Les femmes avec DT2 sont à risque élevé d'[AVC]({{% relref "accident-vasculaire-cerebral.md" %}}).
 : Épidémiologie du diabète en France: 3,5 millions de sujets traités, 80% en surpoids ou obèses, 3/4 hypertendus, 13% sont fumeurs et seulement 64% reçoivent une statine (*Entred3*).
 
 Hyperglycémie modérée à jeun (HGMAJ)
@@ -112,8 +112,8 @@ SFD
 > Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} (rarement bas ou modéré) {{%class%}}(risque CV x2-4){{%/class%}}.
 
 - HbA~1c~ cible: {{< modal-btn modal-hba1c >}}globalement **7%**{{< /modal-btn >}} (SFD, ESC 2023)
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (passif et électronique également) et alcool à moindre risque
-- [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) (passif et électronique également) et alcool à moindre risque
+- [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
   - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans - *ESH 2023* et 130/80 selon *ADA 2023*)
   - Cible générale: 120-129 / 70-79 mmHg (*ESH 2023*)
   - Bithérapie d'emblée {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}  
@@ -128,17 +128,17 @@ SFD
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette 3 j/sem
   - Avec l'âge, favoriser la souplesse 2 à 3 jours par semaine (yoga, Thai-chi)
 - Surpoids  
-  Perte de poids (5-15 %), {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}} (sémaglutide) voire [chirurgie bariatrique]({{< relref "obesite-adulte.mdn" >}}).
+  Perte de poids (5-15 %), {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}} (sémaglutide) voire [chirurgie bariatrique]({{% relref "obesite-adulte.mdn" %}}).
 - Alimentation équilibrée et {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}
 - Dépistages recommandés
   - {{< modal-btn modal-saos-diabete >}}Apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}}
-  - [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) {{%class%}}(50%){{%/class%}}
+  - [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}) {{%class%}}(50%){{%/class%}}
   - Participation au dépistage organisé des [cancers](/tags/cancer/)
 - Si maladie rénale chronique: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} systématique  
   {{%class%}}et finérénone (non disponible en France){{%/class%}}
 - Soutien psychologique
 - Association de patients: [programme d'accueil de la Fédération Française des Diabétiques](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kitb)
-- Déclarer l'[ALD n°8]({{< relref "affection-longue-duree.md" >}}) et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
+- Déclarer l'[ALD n°8]({{% relref "affection-longue-duree.md" %}}) et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
 
 > [!INFO]
 > Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75%. -- *ESC 2019 diabetes*
@@ -155,7 +155,7 @@ Les recommandations *HAS 2024* reprennent les mêmes éléments de décision th�
   Les classes préférentielles ont un indicateur bleu.
 - **Objectif 0 hypoglycémie !**
 - Réévaluation de l'efficacité et de la tolérance **3-6 mois** après chaque modification
-- En cas de grossesse: les objectifs glycémiques sont identiques au [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
+- En cas de grossesse: les objectifs glycémiques sont identiques au [diabète gestationnel]({{% relref "diabete-gestationnel.md" %}})
 
 <div class="card-util">
 <div class="bg-primary-light rounded-lg p-4 my-4">
@@ -332,38 +332,38 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 {{< table title="Rythme de dépistage des complications du diabète. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
 | Appareil     | Soins                                                                                            | Source                   |
 |--------------|--------------------------------------------------------------------------------------------------|--------------------------|
-| [AAA]({{< relref "anevrysme-aorte-abdominale.md" >}}) | Échographie si homme 65-75 ans et tabac ou ATCD familial AAA 1^er^ degré, AOMI | ACC/AHA 2022 |
+| [AAA]({{% relref "anevrysme-aorte-abdominale.md" %}}) | Échographie si homme 65-75 ans et tabac ou ATCD familial AAA 1^er^ degré, AOMI | ACC/AHA 2022 |
 | AINS         | Éviter toute prise                                                                               | Communiqué ESC 2022      |
 | AOD (rivaroxaban) | Aspirine + AOD à considérer si coronaropathie stable ou AOMI/artériopathie et risque hémorragique faible | ADA 2023    |
-| [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) | Symptômes + pouls + cutané et/ou IPS réguliers. IPS si ulcération | ESC 2023 diabetes |
+| [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) | Symptômes + pouls + cutané et/ou IPS réguliers. IPS si ulcération | ESC 2023 diabetes |
 | Aspirine prev primaire | 75-100 mg/j pourrait être considéré (sauf CI)<br>75-160 mg/j envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} ou {{< modal-btn modal-coronaire-diabete >}}coronaire{{< /modal-btn >}} sans risque de saignement | ESC 2023<br>ADA 2023, ESC 2021 |
 | Aspirine prev secondaire | 75-100 mg/j si coronarien ou revascularisation<br>75-160 mg/j ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ESC 2023 diabetes<br>ADA 2023, ESC 2019 diabetes |
-| [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) | Femmes à haut risque: éducation, correction des FRCV  | ESC 2023 diabetes        |
+| [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}) | Femmes à haut risque: éducation, correction des FRCV  | ESC 2023 diabetes        |
 | Boulimie et TCA | {{< modal-btn modal-scoff >}}Questionnaire SCOFF{{< /modal-btn >}} pour le dépistage          | HAS 2019                 |
-| [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) | Scanner AP injecté si:<br>- Diabète < 12 mois: ≥ 50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>- Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
+| [Cancer du pancréas]({{% relref "cancer-pancreas.md" %}}) | Scanner AP injecté si:<br>- Diabète < 12 mois: ≥ 50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>- Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
 | Cardiologue  | Suivi annuel                                                                                     | HAS 2014                 |
 | Chirurgie bariatrique | < 65 ans avec IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH OU IMC ≥ 30 en dernier recours | HAS 2022 et 2009 obésité |
-| [Covid-19]({{< relref "covid-19.md" >}}) | Antiviral en urgence si infection Covid-19                           | HAS 2023                 |
+| [Covid-19]({{% relref "covid-19.md" %}}) | Antiviral en urgence si infection Covid-19                           | HAS 2023                 |
 | Dentaire     | Suivi annuel                                                                                     | HAS 2014, IDF 2009       |
-| [Douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}) | Chapitre dédié                           | SFETD 2021               |
-| [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) | Interrogatoire systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018 |
+| [Douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}}) | Chapitre dédié                           | SFETD 2021               |
+| [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}) | Interrogatoire systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018 |
 | ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
-| [Épreuve d'effort]({{< relref "epreuve-effort.md" >}}) | [Angor]({{< relref "syndrome-coronarien-chronique.md" >}}), dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans). Reprise effort intense | HAS 2024, ESC 2023, ADA 2023, SFD 2021 CAD |
+| [Épreuve d'effort]({{% relref "epreuve-effort.md" %}}) | [Angor]({{% relref "syndrome-coronarien-chronique.md" %}}), dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans). Reprise effort intense | HAS 2024, ESC 2023, ADA 2023, SFD 2021 CAD |
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
-| [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) | Tout âge: dépistage opportuniste par pouls/ECG. +75 ans: ECG systématique à considérer | ESC 2023 diabetes |
-| [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) | Dépistage avec brassard adapté tous les 1 à 3 ans | ESH 2023      |
-| [Incontinence urinaire]({{< relref "incontinence-urinaire-femme.md" >}}) | Dépistage à l'interrogatoire         | Anaes 2003               |
-| [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | Dépistage systématique des symptômes et signes et (NT-pro)BNP si suspicion<br>(NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ESC 2023 diabetes<br>ADA 2022 |
-| [Stéatopathie métabolique]({{< relref "steatose-hepatique-et-nash.md" >}}) | Dépistage par échographie abdominale | AFEF 2020              |
-| [Stéatohépatite]({{< relref "steatose-hepatique-et-nash.md" >}}) (NASH) | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} tous les 2 ans | AFEF 2020 |
-| [Néphropathie]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie et rapport albuminurie/créatininurie annuels | HAS 2024, ADA 2023 |
-| Neuropathie  | Dépistage annuel: {{< modal-btn modal-monofilament >}}monofilament{{< /modal-btn >}} et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}), sécheresse cutanée | HAS 2024, ADA 2023 et ESC 2019 diabetes |
+| [Fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}) | Tout âge: dépistage opportuniste par pouls/ECG. +75 ans: ECG systématique à considérer | ESC 2023 diabetes |
+| [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) | Dépistage avec brassard adapté tous les 1 à 3 ans | ESH 2023      |
+| [Incontinence urinaire]({{% relref "incontinence-urinaire-femme.md" %}}) | Dépistage à l'interrogatoire         | Anaes 2003               |
+| [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) | Dépistage systématique des symptômes et signes et (NT-pro)BNP si suspicion<br>(NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ESC 2023 diabetes<br>ADA 2022 |
+| [Stéatopathie métabolique]({{% relref "steatose-hepatique-et-nash.md" %}}) | Dépistage par échographie abdominale | AFEF 2020              |
+| [Stéatohépatite]({{% relref "steatose-hepatique-et-nash.md" %}}) (NASH) | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} tous les 2 ans | AFEF 2020 |
+| [Néphropathie]({{% relref "insuffisance-renale-chronique.md" %}}) | Créatininémie et rapport albuminurie/créatininurie annuels | HAS 2024, ADA 2023 |
+| Neuropathie  | Dépistage annuel: {{< modal-btn modal-monofilament >}}monofilament{{< /modal-btn >}} et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}), sécheresse cutanée | HAS 2024, ADA 2023 et ESC 2019 diabetes |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | HAS 2024, ADA 2023, SFD 2016 |
 | Score calcique | Pas d'argument pour l'utiliser pour la classification du RCV<br>{{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± test d'effort | ESC 2023 diabetes<br>SFD 2021 CAD |
-| [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) | Envisager le dépistage chez la femme          | ESHRE 2023               |
+| [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) | Envisager le dépistage chez la femme          | ESHRE 2023               |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
-| [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) | Étayer si: syndrome plurimétabolique, diabète déséquilibré sans cause évidente, symptômes | PNDS Cushing 2022 |
-| [Vaccins]({{< relref "vaccination.md" >}}) | [Covid-19]({{< relref "covid-19.md" >}}) et [grippe]({{< relref "grippe.md" >}}) annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
+| [Syndrome de Cushing]({{% relref "syndrome-cushing.md" %}}) | Étayer si: syndrome plurimétabolique, diabète déséquilibré sans cause évidente, symptômes | PNDS Cushing 2022 |
+| [Vaccins]({{% relref "vaccination.md" %}}) | [Covid-19]({{% relref "covid-19.md" %}}) et [grippe]({{% relref "grippe.md" %}}) annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
 | Vitamine B12 | Si metformine: dosage après 4 ans de traitement<br>Surveillance régulière et correction          | KDIGO 2022 diabetes<br>ADA/EASD 2022 |
 {{< /table >}}
 

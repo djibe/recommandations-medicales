@@ -30,7 +30,7 @@ todo = "flow"
 - Tout animal mordeur doit être signalé en mairie ([annuaire](https://www.service-public.fr/particuliers/vosdroits/F24028)) par le propriétaire ou le médecin et placé sous surveillance vétérinaire pendant 15 jours
 - [Annuaire des Centres antirabiques (PDF)](https://www.pasteur.fr/fr/file/54964/download)
 
-Chapitre lié: [érysipèle]({{< relref "erysipele.md" >}}), [maladie des griffes du chat]({{< relref "maladie-griffes-chat.md" >}})
+Chapitre lié: [érysipèle]({{% relref "erysipele.md" %}}), [maladie des griffes du chat]({{% relref "maladie-griffes-chat.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -57,7 +57,7 @@ GPIP
 
 Éléments à rechercher à l'interrogatoire en cas de morsure par un homme ou un animal:
 
-- Antécédents: **immunodépression**, [asplénie]({{< relref "asplenie.md" >}}), [diabète](/tags/diabete/) ...
+- Antécédents: **immunodépression**, [asplénie]({{% relref "asplenie.md" %}}), [diabète](/tags/diabete/) ...
 - Traitements en cours
 - Date du dernier rappel antitétanique
 - Alcool, tabac
@@ -101,7 +101,7 @@ Avis chirurgical et/ou infectiologique urgent en cas de plaie grave (localisatio
 
 ### Antibiothérapie pour morsure
 
-Indications à l'antibiothérapie pour morsure: suture, comorbidités (immunodépression, asplénie, diabète, alcool), [érysipèle]({{< relref "erysipele.md" >}}), plaie profonde ou délabrée, atteinte articulaire, près de tendon ou osseuse, main, face. -- *CMIT 2022*
+Indications à l'antibiothérapie pour morsure: suture, comorbidités (immunodépression, asplénie, diabète, alcool), [érysipèle]({{% relref "erysipele.md" %}}), plaie profonde ou délabrée, atteinte articulaire, près de tendon ou osseuse, main, face. -- *CMIT 2022*
 {.alert .alert-warning}
 
 Antibiothérapie de l'adulte si indiquée (voir ci-dessus):
@@ -135,7 +135,7 @@ Avis urgent du **Centre antirabique** ([annuaire](https://www.pasteur.fr/fr/file
 
 ### Traitement de la morsure humaine
 
-Selon le contexte: statut vaccinal voire prophylaxie [hépatite B]({{< relref "hepatite-b.md" >}}).
+Selon le contexte: statut vaccinal voire prophylaxie [hépatite B]({{% relref "hepatite-b.md" %}}).
 
 ### Traitement de la morsure de vipère
 

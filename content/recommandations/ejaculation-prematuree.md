@@ -84,7 +84,7 @@ TLIV
 - Traitements en cours
 - Toxiques
 - Questionnaires d'aide au diagnostic: {{< modal-btn modal-pedt >}}score PEDT{{< /modal-btn >}}, IPE
-- [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})
+- [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}})
 - Signes d'infection génito-urinaire
 - Troubles sexuels chez le partenaire
 - Efficacité thérapeutique: {{< modal-btn modal-pep >}}score PEP{{< /modal-btn >}}

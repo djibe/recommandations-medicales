@@ -107,7 +107,7 @@ Signes typiques de reflux gastro-œsophagien:
 
 - Brûlures épigastriques
 - Douleurs thoraciques rétro-sternales ou pharyngées
-- [Toux chronique inexpliquée]({{< relref "toux-chronique.md" >}}) (prédominance nocturne), asthme difficile à contrôler
+- [Toux chronique inexpliquée]({{% relref "toux-chronique.md" %}}) (prédominance nocturne), asthme difficile à contrôler
 - Enrouement, laryngite chronique
 - Érosions dentaires
 
@@ -116,12 +116,12 @@ Signes typiques de reflux gastro-œsophagien:
 
 Pathologies à étayer devant un tableau de reflux gastro-œsophagien:
 
-- [Dyspepsie]({{< relref "dyspepsie.md" >}})
-- [Cancer de l'estomac]({{< relref "cancer-estomac.md" >}})
+- [Dyspepsie]({{% relref "dyspepsie.md" %}})
+- [Cancer de l'estomac]({{% relref "cancer-estomac.md" %}})
 - Ulcère gastrique ou duodénal
 - Sténose peptique de l'œsophage
 - Lithiases biliaires
-- [Angor]({{< relref "syndrome-coronarien-chronique.md" >}})
+- [Angor]({{% relref "syndrome-coronarien-chronique.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -193,18 +193,18 @@ Mesures générales de prise en charge du reflux gastro-œsophagien:
   - Surélévation de la tête du lit de 45° (10-15 cm)
   - Éviter les vêtements serrés et de s'allonger ou jardiner après les repas
   - Éviter les postures à risque
-- Lutte contre la [constipation]({{< relref "constipation.md" >}})
+- Lutte contre la [constipation]({{% relref "constipation.md" %}})
 - Correction d'un surpoids ou obésité abdominale
 - Augmenter l'activité physique
 - Mastiquer suffisamment et manger lentement  
   Repas > 20-30 min en position assise et détendue.
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - Adaptation de l'alimentation
   - RGO nocturne: dîner léger et intervalle dîner-coucher de 3 heures
   - Cuissons sans matières grasses et limiter les graisses et l'alcool
   - Limiter les soupes/bouillons à 400 mL
 - Aucune liste d'aliments à éviter ne peut être recommandée
-- Évoquer des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) devant un reflux nocturne
+- Évoquer des [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) devant un reflux nocturne
 
 ### Anti-acides et alginates
 
@@ -275,7 +275,7 @@ Utiliser dans l'ordre:
 - Réduire le débit du biberon
 - Maintenir vertical en postprandial
 - Surélever la tête du lit
-- Rester attentif à une [APLV]({{< relref "allergie-proteines-lait-vache.md" >}}) devant une irritabilité et troubles digestifs associés
+- Rester attentif à une [APLV]({{% relref "allergie-proteines-lait-vache.md" %}}) devant une irritabilité et troubles digestifs associés
 - Oméprazole uniquement si œsophagite (voire ~~la ranitidine~~)
 
 #### Signes d'œsophagite du nourrisson

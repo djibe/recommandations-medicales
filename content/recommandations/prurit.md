@@ -25,7 +25,7 @@ flowchart = true
 {{%article-summary%}}
 
 - Le prurit est un diagnostic d'interrogatoire: sensation de démangeaison localisée ou généralisée, atteignant la peau ou certaines muqueuses
-- Éliminer une [gale]({{< relref "gale.md" >}}) devant tout prurit
+- Éliminer une [gale]({{% relref "gale.md" %}}) devant tout prurit
 - Un prurit chronique nu chez un jeune adulte doit faire évoquer un lymphome
 - Prise en charge d'un prurit nu sans cause évidente: bilan avec biologie, radiographie de thorax voire échographie abdominale
 
@@ -62,45 +62,45 @@ CEDEF
 - Dermatoses prurigineuses
   - Xérose cutanée
   - Ectoparasitoses  
-    [Gale]({{< relref "gale.md" >}}) et [pédiculose]({{< relref "pediculoses.md" >}}) (prurit du scalp ++).
+    [Gale]({{% relref "gale.md" %}}) et [pédiculose]({{% relref "pediculoses.md" %}}) (prurit du scalp ++).
   - Piqûres d'insectes
-  - [Dermatite atopique]({{< relref "dermatite-atopique.md" >}})
+  - [Dermatite atopique]({{% relref "dermatite-atopique.md" %}})
   - Eczéma de contact  
     Caustique, irritative, allergique.
-  - [Urticaire]({{< relref "urticaire.md" >}}), dermographisme
+  - [Urticaire]({{% relref "urticaire.md" %}}), dermographisme
   - Mastocytose cutanée
-  - [Psoriasis]({{< relref "psoriasis.md" >}})
+  - [Psoriasis]({{% relref "psoriasis.md" %}})
   - Lichen plan
   - Pemphigoïde bulleuse
   - Lymphomes cutanés  
     Mycosis fongoïde et syndrome de Sézary.
-  - [Dermatophytoses]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
+  - [Dermatophytoses]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
 - Prurit urémique  
-  [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) et hémodialyse.
+  [Insuffisance rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}}) et hémodialyse.
 - Prurit cholestatique
   - Lithiase biliaire
   - Pancréatite
-  - [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}), métastases hépatiques
-  - [Hépatite B]({{< relref "hepatite-b.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}})
-  - [Cirrhose biliaire primitive]({{< relref "cholangite-biliaire-primitive.md" >}})
-  - [Cholangite sclérosante primitive]({{< relref "cholangite-sclerosante-primitive.md" >}})
+  - [Cancer du pancréas]({{% relref "cancer-pancreas.md" %}}), métastases hépatiques
+  - [Hépatite B]({{% relref "hepatite-b.md" %}}), [hépatite C]({{% relref "hepatite-c.md" %}})
+  - [Cirrhose biliaire primitive]({{% relref "cholangite-biliaire-primitive.md" %}})
+  - [Cholangite sclérosante primitive]({{% relref "cholangite-sclerosante-primitive.md" %}})
   - Cholestase gravidique  
     Prurit généralisé, sévère et nu par cholestase biologique.
 - Prurit hématologique
   - Lymphomes (maladie de Hodgkin)
   - Gammapathies monoclonales
   - Syndromes myéloprolifératifs  
-    [Maladie de Vaquez]({{< relref "polyglobulie.md" >}}) (prurit aquagénique), thrombocytémie essentielle, myélofibrose primitive.
+    [Maladie de Vaquez]({{% relref "polyglobulie.md" %}}) (prurit aquagénique), thrombocytémie essentielle, myélofibrose primitive.
   - Mastocytose
 - Prurit paranéoplasique
 - Troubles endocriniens et métaboliques
-  - [Carence martiale]({{< relref "anemie.md" >}}), vitamines
+  - [Carence martiale]({{% relref "anemie.md" %}}), vitamines
   - [Dysthyroïdies](/tags/tsh/)
   - Hyperparathyroïdie
   - [Diabète](/tags/diabete/)
-  - [Grossesse]({{< relref "grossesse.md" >}})
+  - [Grossesse]({{% relref "grossesse.md" %}})
 - Prurit associé à une infection  
-  [VIH]({{< relref "vih-sida.md" >}}) ++, parasitoses (ascaridiose, toxocarose, tropicales).
+  [VIH]({{% relref "vih-sida.md" %}}) ++, parasitoses (ascaridiose, toxocarose, tropicales).
 - Prurit iatrogène  
   Liste non exhaustive: bêtalactamines, chloroquine, opiacés, cardiaque (statine, IEC/sartan, bêtabloquant), produit de remplissage, IL-2.
 - Prurit sénile  
@@ -114,21 +114,21 @@ CEDEF
 Diagnostics fréquents selon la topographie du prurit:
 
 - Cuir chevelu
-  - [Teigne]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
-  - [Pédiculose]({{< relref "pediculoses.md" >}})
-  - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
-  - [Psoriasis]({{< relref "psoriasis.md" >}})
+  - [Teigne]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
+  - [Pédiculose]({{% relref "pediculoses.md" %}})
+  - [Dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}})
+  - [Psoriasis]({{% relref "psoriasis.md" %}})
   - Irritation par hygiène excessive
 - Visage
-  - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
-  - [Eczéma]({{< relref "dermatite-atopique.md" >}})
+  - [Dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}})
+  - [Eczéma]({{% relref "dermatite-atopique.md" %}})
   - Photodermatose
-  - [Acné]({{< relref "acne.md" >}})
+  - [Acné]({{% relref "acne.md" %}})
 - Génital
   - Lichen scléreux
   - Dermite/vulvite de contact
   - Balanite/vulvite infectieuse
-  - [Psoriasis génital]({{< relref "psoriasis.md" >}})
+  - [Psoriasis génital]({{% relref "psoriasis.md" %}})
   - Tumeur maligne
 
 {{% /collapse %}}
@@ -160,14 +160,14 @@ Le prurit est un diagnostic d'interrogatoire:
 - Profession
 - Conduites sexuelles à risque
 
-Aux jambes, différencier de paresthésies ou impatiences (évocatrices de [jambes sans repos]({{< relref "syndrome-jambes-sans-repos.md" >}})).
+Aux jambes, différencier de paresthésies ou impatiences (évocatrices de [jambes sans repos]({{% relref "syndrome-jambes-sans-repos.md" %}})).
 
 ### Examen physique
 
 - Recherche de lésions élémentaires
 - Zones de grattage
 - Dermographisme
-- Hépatomégalie, [splénomégalie]({{< relref "splenomegalie.md" >}})
+- Hépatomégalie, [splénomégalie]({{% relref "splenomegalie.md" %}})
 - Adénopathies palpables
 
 {{% /collapse %}}
@@ -182,8 +182,8 @@ Aux jambes, différencier de paresthésies ou impatiences (évocatrices de [jamb
   ASAT, ALAT, GGT, PAL, bilirubine totale.
 - Créatininémie
 - TSH
-- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
-- Sérologies [VIH]({{< relref "vih-sida.md" >}}), [VHB]({{< relref "hepatite-b.md" >}}), [VHC]({{< relref "hepatite-c.md" >}})
+- [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
+- Sérologies [VIH]({{% relref "vih-sida.md" %}}), [VHB]({{% relref "hepatite-b.md" %}}), [VHC]({{% relref "hepatite-c.md" %}})
 - Radiographie thoracique
 - Sujet âgé: biopsie cutanée
 {{%/info%}}
@@ -210,7 +210,7 @@ Prise en charge symptomatique d'un prurit:
 
 Avis dermatologique pour photothérapie UVB.
 
-**NB.** Les antihistaminiques ne sont actifs que sur les prurits histamino-médiés. Donc pour l'[urticaire chronique]({{< relref "urticaire.md" >}}).
+**NB.** Les antihistaminiques ne sont actifs que sur les prurits histamino-médiés. Donc pour l'[urticaire chronique]({{% relref "urticaire.md" %}}).
 
 ### Traitement étiologique du prurit
 

@@ -68,14 +68,14 @@ EADV
 
 ### Diagnostic différentiel d'un prurit tenace ou d'une gale
 
-- [Eczéma atopique]({{< relref "dermatite-atopique.md" >}}) ou de contact
-- [Teigne]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
-- [Psoriasis]({{< relref "psoriasis.md" >}})
+- [Eczéma atopique]({{% relref "dermatite-atopique.md" %}}) ou de contact
+- [Teigne]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
+- [Psoriasis]({{% relref "psoriasis.md" %}})
 - Lymphome cutané
 - Prurit médicamenteux ou psychologiques
 - Pemphigoïde bulleuse
-- [Prurit sénile]({{< relref "prurit.md" >}})
-- [Pédiculose]({{< relref "pediculoses.md" >}})
+- [Prurit sénile]({{% relref "prurit.md" %}})
+- [Pédiculose]({{% relref "pediculoses.md" %}})
 - Prurit métabolique  
   Cholestases et insuffisances hépatiques ou rénales.
 
@@ -123,7 +123,7 @@ Incubation silencieuse pendant 1 mois (5 jours à 6 semaines). En cas de réinfe
 - Autres signes  
   Lésions sans cicatrisation, prurit matinal des doigts, xérose cutanée résistante.
 
-À l'hémogramme, une [éosinophilie]({{< relref "hypereosinophilie.md" >}}) est possible.
+À l'hémogramme, une [éosinophilie]({{% relref "hypereosinophilie.md" %}}) est possible.
 
 ### Formes atypiques de gale
 
@@ -214,7 +214,7 @@ Traitement de première intention de la gale selon le *CMIT*, à prendre au moin
 
 ### Prise en charge des formes particulières
 
-- Impétiginisation: [antibiothérapie]({{< relref "infection-cutanee-bacterienne.md" >}})
+- Impétiginisation: [antibiothérapie]({{% relref "infection-cutanee-bacterienne.md" %}})
 - Persistance de nodules scabieux: dermocorticoïdes
 - Gale norvégienne: hospitalisation en dermatologie pour application de kératolytiques avant le traitement
 

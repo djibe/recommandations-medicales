@@ -76,10 +76,10 @@ Les causes d'ictère sont nombreuses et classées selon qu'elles sont à bilirub
 
 ### Ictère à bilirubine conjuguée ou mixte
 
-- Ictère par cholestase: augmentation des PAL, [GGT]({{< relref "augmentation-gamma-gt.md" >}}) et de la bilirubine conjuguée
-  - Pathologie des canaux biliaires: [cholangite sclérosante primitive]({{< relref "cholangite-sclerosante-primitive.md" >}})
-  - **Obstruction des canaux biliaires** surtout: [cancer du pancréas]({{< relref "cancer-pancreas.md" >}}), cholangiocarcinome et lithiase de la voie biliaire principale. Autres causes: sténose post-opératoire, [pancréatite chronique]({{< relref "pancreatite-chronique.md" >}}) calcifiante, adénopathie ou [cholangite sclérosante primitive]({{< relref "cholangite-sclerosante-primitive.md" >}})
-  - Pathologie des canalicules biliaires: médicamenteuse, auto-immune ([cholangite biliaire primitive]({{< relref "cholangite-biliaire-primitive.md" >}})), virale, génétique
+- Ictère par cholestase: augmentation des PAL, [GGT]({{% relref "augmentation-gamma-gt.md" %}}) et de la bilirubine conjuguée
+  - Pathologie des canaux biliaires: [cholangite sclérosante primitive]({{% relref "cholangite-sclerosante-primitive.md" %}})
+  - **Obstruction des canaux biliaires** surtout: [cancer du pancréas]({{% relref "cancer-pancreas.md" %}}), cholangiocarcinome et lithiase de la voie biliaire principale. Autres causes: sténose post-opératoire, [pancréatite chronique]({{% relref "pancreatite-chronique.md" %}}) calcifiante, adénopathie ou [cholangite sclérosante primitive]({{% relref "cholangite-sclerosante-primitive.md" %}})
+  - Pathologie des canalicules biliaires: médicamenteuse, auto-immune ([cholangite biliaire primitive]({{% relref "cholangite-biliaire-primitive.md" %}})), virale, génétique
 - Ictère à bilirubine mixte  
   Augmentation des PAL < 2N: [hépatite aiguë](/tags/hepatite/), insuffisance hépatocellulaire grave, cirrhose.
 
@@ -107,12 +107,12 @@ Urgence à rechercher devant un ictère: angiocholite et insuffisance hépatique
 ### Interrogatoire
 
 - Antécédents personnels  
-  [Hépatite](/tags/hepatite/), cirrhose, [déficit en G6PD]({{< relref "deficit-g6pd.md" >}})
+  [Hépatite](/tags/hepatite/), cirrhose, [déficit en G6PD]({{% relref "deficit-g6pd.md" %}})
 - Antécédents familiaux  
-  Syndrome de Gilbert, [cancer du pancréas]({{< relref "cancer-pancreas.md" >}}).
+  Syndrome de Gilbert, [cancer du pancréas]({{% relref "cancer-pancreas.md" %}}).
 - Alcool, tabac
 - Traitements en cours
-- Voyage tropical dans les 3 mois ([paludisme]({{< relref "paludisme.md" >}}))
+- Voyage tropical dans les 3 mois ([paludisme]({{% relref "paludisme.md" %}}))
 - Rapports sexuels à risque
 - Symptômes
   - Généraux: fièvre, frissons
@@ -159,7 +159,7 @@ Autres examens selon le contexte.
   **Fonction hépatique** (TP, facteur V, albuminémie) et recherche d'une cirrhose ou d'une [hépatite aiguë](/tags/hepatite/).
 3. Ictère à bilirubine conjuguée  
   **Échographie des voies biliaires** à la recherche d'une dilatation:
-    - Voies biliaires non dilatées: anticorps anti-mitochondries ([cholangite biliaire primitive CBP]({{< relref "cholangite-biliaire-primitive.md" >}})) et cholangio-IRM ([cholangite sclérosante primitive CSP]({{< relref "cholangite-sclerosante-primitive.md" >}})) et avis gastro-entérologique.
+    - Voies biliaires non dilatées: anticorps anti-mitochondries ([cholangite biliaire primitive CBP]({{% relref "cholangite-biliaire-primitive.md" %}})) et cholangio-IRM ([cholangite sclérosante primitive CSP]({{% relref "cholangite-sclerosante-primitive.md" %}})) et avis gastro-entérologique.
     - Voies biliaires dilatées: scanner injecté ou bili-IRM/IRM hépatique et avis spécialisé
   
 {{% /collapse %}}

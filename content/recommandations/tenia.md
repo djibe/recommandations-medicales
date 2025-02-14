@@ -54,18 +54,18 @@ Le tableau clinique de l'infection par ténia (ou tæniasis) est souvent fruste:
 - **Asymptomatique** le plus souvent
 - Anneaux en formes de **tagliatelles** dans les sous-vêtements ou la literie (*T. saginata*)
 - Signes digestifs
-  - Anorexie ou [boulimie]({{< relref "boulimie-hyperphagie.md" >}})
+  - Anorexie ou [boulimie]({{% relref "boulimie-hyperphagie.md" %}})
   - Nausées ou vomissements
-  - Troubles du transit avec alternance de [diarrhées]({{< relref "diarrhee-aigue-nourrisson.md" >}}) et [constipation]({{< relref "constipation.md" >}})
+  - Troubles du transit avec alternance de [diarrhées]({{% relref "diarrhee-aigue-nourrisson.md" %}}) et [constipation]({{% relref "constipation.md" %}})
   - Ballonnements
   - Douleurs épigastriques ou pseudo-appendiculaires
   - Prurit anal
 - Signes extra-digestifs
-  - [Urticaire]({{< relref "urticaire.md" >}})
+  - [Urticaire]({{% relref "urticaire.md" %}})
   - Irritabilité, troubles du sommeil
   - Palpitations, réactions vasomotrices
 
-Les complications sont rares par obstruction mécanique: tableau de colique hépatique, [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}) ou [appendicite]({{< relref "appendicite-aigue.md" >}}).
+Les complications sont rares par obstruction mécanique: tableau de colique hépatique, [pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}}) ou [appendicite]({{% relref "appendicite-aigue.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -78,7 +78,7 @@ Bilan par prélèvements parasitologiques multiples pour le diagnostic des téni
 
 Le diagnostic peut être réalisé avec le **<< Scotch®-test >> anal** (test de Graham ou test à la cellophane adhésive): application matinale de ruban adhésif transparent sur la marge anale le matin (en déplissant les plis radiés de l'anus) puis recollé sur une surface porte-objet et analyse au laboratoire pour la mise en évidence des œufs.
 
-Une [éosinophilie]({{< relref "hypereosinophilie.md" >}}) modérée est parfois observée.
+Une [éosinophilie]({{% relref "hypereosinophilie.md" %}}) modérée est parfois observée.
 
 {{% /collapse %}}
 {{%collapse "Traitement du ténia" %}}

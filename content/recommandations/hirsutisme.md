@@ -23,14 +23,14 @@ todo = "flowchart Figure 2"
 {{%article-summary%}}
 
 - L'hirsutisme est la présence chez une femme d'un excès de poils longs, drus et pigmentés sur des zones pileuses dépendantes des androgènes
-- Il est lié à un [syndrome des ovaires polykystiques]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) (SOPK) dans 75% des cas
+- Il est lié à un [syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (SOPK) dans 75% des cas
 - Rechercher les autres signes d'hyperandrogénie: {{< clinique/hyperandrogenie >}}
 - Grader la sévérité de l'hirsutisme avec le [Score Ferriman-Gallwey](http://www.e-dpc.fr/bibliotheque/docs/trouble_du_cycle_amenorrhee_hyperandrogenie/fiches_pratiques/score_ferriman_gallwey.pdf) pour vérifier l'indication au traitement selon les origines (voir *Clinique*)
 - Bilan d'hirsutisme: testostéronémie entre 8 et 11 heures si score Ferriman-Gallwey élevé. hCG associée en cas d'aménorrhée
 - Correction d'un surpoids et activité physique
 - Prise en charge et traitement de l'hirsutisme:
   - Rasage, épilation ou photo-épilation
-  - Indication à traiter selon le score Ferriman-Gallwey (voir *Clinique*): utiliser une [contraception œstroprogestative]({{< relref "contraception.md" >}}) (COP) pendant 6 mois en première intention
+  - Indication à traiter selon le score Ferriman-Gallwey (voir *Clinique*): utiliser une [contraception œstroprogestative]({{% relref "contraception.md" %}}) (COP) pendant 6 mois en première intention
   - En 2^e^ intention: ajouter la spironolactone à la COP. En cas d'échec, l'avis spécialisé est systématique pour le traitement par acétate de cyprotérone
 
 {{%/article-summary%}}
@@ -74,14 +74,14 @@ SOPK
 Les causes d'hirsutisme sont **endocriniennes** (80 %), gynécologiques et idiopathique:
 
 - Hirsutisme avec hyperandrogénie
-  - **[Syndrome des ovaires polykystiques]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}})** (**SOPK**). Première cause (70-80%).  
+  - **[Syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}})** (**SOPK**). Première cause (70-80%).  
     Défini par la présence ≥ 2 critères: hyperandrogénie chronique non expliquée autrement, oligoovulation, aspect échographique d'ovaires polykystiques.
 - Hirsutisme sans hyperandrogénie
-  - [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}})
-  - [Acromégalie]({{< relref "acromegalie.md" >}})
+  - [Syndrome de Cushing]({{% relref "syndrome-cushing.md" %}})
+  - [Acromégalie]({{% relref "acromegalie.md" %}})
   - Hyperprolactinémie
   - Syndrome sévère de résistance à l'insuline
-  - [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
+  - [Hypothyroïdie]({{% relref "hypothyroidie.md" %}})
   - Hyperplasie congénitale des surrénale
   - Idiopathique (5-20%)  
     50% en cas d'hirsutisme léger.
@@ -103,21 +103,21 @@ Signes et symptômes à rechercher devant une plainte d'hirsutisme:
 
 - Âge de survenue, évolution de la pilosité
 - Signes d'**hyperandrogénie**: {{< clinique/hyperandrogenie >}}  
-  En faveur d'un SOPK: règles irrégulières, [infertilité]({{< relref "infertilite-couple.md" >}}), surpoids.
+  En faveur d'un SOPK: règles irrégulières, [infertilité]({{% relref "infertilite-couple.md" %}}), surpoids.
 - Hypercorticisme  
   Obésité centrale, acanthosis nigricans.
 - Signes de **virilisme** (cause tumorale ovarienne ou surrénalienne)  
   {{< clinique/virilisme >}}.
 - Hyperplasie congénitale des surrénales  
   Accroissement progressif de la pilosité, premières règles tardives chez une petite femme, virilisme, troubles menstruels.
-- Signes d'[acromégalie]({{< relref "acromegalie.md" >}})
+- Signes d'[acromégalie]({{% relref "acromegalie.md" %}})
 - Idiopathique: **antécédents familiaux**, isolé sans hyperandrogénie ni virilisme
 - **Médicaments pris**  
   Si iatrogène, apparition le plus souvent après plusieurs mois et régression en quelques mois après l'arrêt du traitement.
   - Gel de testostérone par le partenaire
   - Anabolisants, testostérone/DHEA, danazol, tibolone
   - Lévonorgestrel et progestatifs
-  - [Corticoïdes]({{< relref "corticoides.md" >}}) (même inhalés)
+  - [Corticoïdes]({{% relref "corticoides.md" %}}) (même inhalés)
   - Minoxidil
   - Ciclosporine, tacrolimus
   - Phénytoïne, acide valproïque
@@ -187,7 +187,7 @@ Le seuil de traitement pour l'hirsutisme dépend des origines et du [score Ferri
 
 Traitement d'hirsutisme modéré et/ou d'acné de la femme non ménopausée (*SFE 2020*):
 
-[Contraception orale œstroprogestative (COP)]({{< relref "contraception.md" >}}) pendant au moins 6 mois.
+[Contraception orale œstroprogestative (COP)]({{% relref "contraception.md" %}}) pendant au moins 6 mois.
 {.alert .alert-info}
 
 - Pas de supériorité d'une contraception œstroprogestative sur l'autre

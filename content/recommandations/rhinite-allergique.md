@@ -24,7 +24,7 @@ flowchart = true
 {{%article-summary%}}
 
 - Un interrogatoire bien conduit permet un diagnostic fiable de rhinite allergique
-- Rechercher une [comorbidité atopique](/tags/atopie/) ([asthme]({{< relref "asthme.md" >}}), [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), conjonctivite)
+- Rechercher une [comorbidité atopique](/tags/atopie/) ([asthme]({{% relref "asthme.md" %}}), [dermatite atopique]({{% relref "dermatite-atopique.md" %}}), conjonctivite)
 - Évaluer la rhinite allergique: fréquence (intermittente ou persistante) et sévérité  
   Modérée à sévère si au moins 1 parmi: symptômes gênants, sommeil perturbé, activités scolaires, professionnelles, sociales ou loisirs perturbés (*ARIA*)
 - Bilan de la rhinite allergique: tests cutanés allergiques (prick-tests) sauf cas de rhinite saisonnière
@@ -102,7 +102,7 @@ TCA
 > Un interrogatoire complet permet un diagnostic fiable de rhinite allergique. (*SFORL 2020*)
 
 - Terrain [atopique](/tags/atopie/)  
-  Conjonctivite allergique, [asthme]({{< relref "asthme.md" >}}) ( associé pour 19-38 %), [dermatite atopique]({{< relref "dermatite-atopique.md" >}}).
+  Conjonctivite allergique, [asthme]({{% relref "asthme.md" %}}) ( associé pour 19-38 %), [dermatite atopique]({{% relref "dermatite-atopique.md" %}}).
 - Antécédents familiaux atopiques
 - Tabagisme
 - Expositions professionnelles (aérosols, poussières, métaux) et domestiques
@@ -128,7 +128,7 @@ TCA
   {{%class%}}Non contrôlé si EVA > 50 mm.{{%/class%}}
   - Score ARIA (à venir)
 - Qualité de vie (questionnaire RQLQ src10 *à venir*)
-- Comorbidités: rechercher des arguments d'[asthme]({{< relref "asthme.md" >}}) (toux chronique, dyspnée variable ...)
+- Comorbidités: rechercher des arguments d'[asthme]({{% relref "asthme.md" %}}) (toux chronique, dyspnée variable ...)
 - Enfant avec ronflements ou apnées: rechercher systématiquement ainsi qu'en cas de symptômes nocturnes persistants après adénotonsillectomie
 - **Signes négatifs**
   - Absence d'éternuements
@@ -177,7 +177,7 @@ Avis spécialisé ORL systématique (*SPLF 2010*) et essentiel en cas de signes 
 
 ### Avis pneumologique
 
-Avis pneumologique recommandé en cas de suspicion d'[asthme]({{< relref "asthme.md" >}}) associé à la rhinite allergique.
+Avis pneumologique recommandé en cas de suspicion d'[asthme]({{% relref "asthme.md" %}}) associé à la rhinite allergique.
 
 {{% /collapse %}}
 {{%collapse "Prévention de la rhinite allergique" %}}
@@ -185,7 +185,7 @@ Avis pneumologique recommandé en cas de suspicion d'[asthme]({{< relref "asthme
 Mesures de prévention de la rhinite allergique:
 
 - Proscrire le tabagisme passif pendant la grossesse et la petite enfance
-- Favoriser l'[allaitement exclusif]({{< relref "allaitement.md" >}})
+- Favoriser l'[allaitement exclusif]({{% relref "allaitement.md" %}})
 - Réduire l'exposition aux acariens en cas d'atopie
 - Réduire l'exposition professionnelle au latex
 

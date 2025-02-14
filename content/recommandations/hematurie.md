@@ -32,7 +32,7 @@ flowchart = true
   - Orientation néphrologique: cytologie quantitative des urines, protéinurie des 24 heures
 - La prise en charge de l'hématurie est étiologique par le spécialiste (urologue ou néphrologue)
 
-Chapitre lié: [cancer de la vessie]({{< relref "cancer-vessie.md" >}})
+Chapitre lié: [cancer de la vessie]({{% relref "cancer-vessie.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -74,7 +74,7 @@ SFU
 
 ### Hématuries d'origine néphrologique
 
-Une origine rénale est suspectée en cas d'antécédents personnels ou familiaux de néphropathie ou en cas de signes d'orientation ([hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), œdèmes des membres inférieurs, protéinurie, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})).
+Une origine rénale est suspectée en cas d'antécédents personnels ou familiaux de néphropathie ou en cas de signes d'orientation ([hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), œdèmes des membres inférieurs, protéinurie, [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}})).
 
 - Hématuries néphrologiques microscopiques
   - Glomérulonéphrite à dépôts d'IgA primitive (maladie de Berger)
@@ -91,7 +91,7 @@ Une origine rénale est suspectée en cas d'antécédents personnels ou familiau
   - Néphropathie à IgA
   - Glomérulonéphrite rapidement progressive  
     Vascularite systémique et protéinurie.
-  - [Polykystose rénale]({{< relref "polykystose-renale.md" >}})
+  - [Polykystose rénale]({{% relref "polykystose-renale.md" %}})
   - Nécrose papillaire  
     Tableau de colique néphrétique, diabète, AINS, drépanocytose.
   - Infarctus rénal
@@ -103,29 +103,29 @@ Une origine rénale est suspectée en cas d'antécédents personnels ou familiau
 Causes urologiques à éliminer en priorité: tumeur des voies urinaires, infection et lithiase.
 
 - Causes fréquentes d'hématurie urologique
-  - [Infections urinaires]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
-  - [Carcinome urothélial]({{< relref "cancer-vessie.md" >}})
-  - [Cancer du rein]({{< relref "cancer-rein.md" >}})
+  - [Infections urinaires]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})
+  - [Carcinome urothélial]({{% relref "cancer-vessie.md" %}})
+  - [Cancer du rein]({{% relref "cancer-rein.md" %}})
   - Lithiase urinaire
-  - [Cancer ou adénome prostatique]({{< relref "cancer-prostate.md" >}})
-  - [Prostatite aiguë]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
+  - [Cancer ou adénome prostatique]({{% relref "cancer-prostate.md" %}})
+  - [Prostatite aiguë]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})
 - Contexte: traumatisme rénal ou des voies urinaires
 - Causes rares d'hématurie urologique
   - Tumeurs bénignes du rein
   - Tumeurs de la voie excrétrice supérieure
-  - [Tuberculose]({{< relref "tuberculose.md" >}})
+  - [Tuberculose]({{% relref "tuberculose.md" %}})
   - Bilharziose
   - Malformation vasculaire
 - Cause d'élimination: exercice physique important
 
 > [!INFO]
-> Chez l'enfant, les principales étiologies urinaires d'une hématurie sont: [infection urinaire]({{< relref "infection-urinaire-enfant.md" >}}), lithiase, traumatisme et tumeurs.
+> Chez l'enfant, les principales étiologies urinaires d'une hématurie sont: [infection urinaire]({{% relref "infection-urinaire-enfant.md" %}}), lithiase, traumatisme et tumeurs.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 > [!INFO]
-> << L'hématurie microscopique a la même valeur diagnostique que l'hématurie macroscopique. >> -- *CUEN 2023*. Un [cancer de vessie]({{< relref "cancer-vessie.md" >}}) doit être éliminé chez le (ancien) fumeur.
+> << L'hématurie microscopique a la même valeur diagnostique que l'hématurie macroscopique. >> -- *CUEN 2023*. Un [cancer de vessie]({{% relref "cancer-vessie.md" %}}) doit être éliminé chez le (ancien) fumeur.
 
 Caractères sémiologiques de l'hématurie macroscopique:
 
@@ -135,7 +135,7 @@ Caractères sémiologiques de l'hématurie macroscopique:
 
 ### Interrogatoire
 
-- Antécédents: urologiques, néphropathie, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), traumatisme abdominal, radiothérapie pelvienne, bilharziose urinaire
+- Antécédents: urologiques, néphropathie, [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), traumatisme abdominal, radiothérapie pelvienne, bilharziose urinaire
 - Antécédents familiaux: néphropathie, cancer
 - Tabagisme
 - Expositions professionnelles aux amines aromatiques  
@@ -162,7 +162,7 @@ Caractères sémiologiques de l'hématurie macroscopique:
 ### Situations où réaliser une bandelette urinaire
 
 - Dépistage systématique
-- Bilan d'une pathologie: hypertension artérielle, protéinurie, œdèmes des membres inférieurs, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
+- Bilan d'une pathologie: hypertension artérielle, protéinurie, œdèmes des membres inférieurs, [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}})
 - Antécédents familiaux de néphropathie, maladie de système, tabagisme ancien
 
 {{% /collapse %}}

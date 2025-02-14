@@ -50,7 +50,7 @@ TIF
 ### Diagnostic différentiel d'une diarrhée chronique
 
 - **Fausse diarrhée du constipé**, fécalome
-- [Incontinence fécale]({{< relref "incontinence-fecale.md" >}})
+- [Incontinence fécale]({{% relref "incontinence-fecale.md" %}})
 - Syndrome rectal ou poly-exonération secondaire à un trouble du plancher pelvien  
   Défécation difficile (dyschésie) et/ou prolapsus. La consistance des selles est normale.
 
@@ -75,17 +75,17 @@ TIF
 
 Rechercher à l'examen les arguments en faveur des causes suivantes de diarrhée chronique:
 
-- [Syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}})
+- [Syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}})
 - Origine biliaire
 - Diététique
-  - [FODMAPs]({{< relref "regime-fodmaps.md" >}}), [intolérance au lactose]({{< relref "intolerance-lactose.md" >}}) ou fructose
+  - [FODMAPs]({{% relref "regime-fodmaps.md" %}}), [intolérance au lactose]({{% relref "intolerance-lactose.md" %}}) ou fructose
   - Édulcorants (sodas, bonbons, chewing gum)
   - Caféine
-  - [Alcool]({{< relref "sevrage-alcool.md" >}})
+  - [Alcool]({{% relref "sevrage-alcool.md" %}})
   - Réglisse
-- [Tumeur colique]({{< relref "cancer-colorectal.md" >}})
+- [Tumeur colique]({{% relref "cancer-colorectal.md" %}})
 - Inflammation intestinale (colite ulcéreuse ou microscopique, MICI)
-- [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})
+- [Maladie cœliaque]({{% relref "maladie-coeliaque.md" %}})
 - Iatrogénie  
   Antibiotique, anti-inflammatoires AINS, magnésium, IEC, olmésartan, metformine - iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.
 - Cause sécrétoire
@@ -95,12 +95,12 @@ Rechercher à l'examen les arguments en faveur des causes suivantes de diarrhée
 
 - Pullulation microbienne grêlique
 - Ischémie mésentérique
-- [Lymphome]({{< relref "lymphomes-non-hodgkiniens.md" >}})
+- [Lymphome]({{% relref "lymphomes-non-hodgkiniens.md" %}})
 - Complication post-opératoire
-- [Pancréatite chronique]({{< relref "pancreatite-chronique.md" >}})
+- [Pancréatite chronique]({{% relref "pancreatite-chronique.md" %}})
 - Entérocolite radique
-- [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}})
-- [Hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
+- [Cancer du pancréas]({{% relref "cancer-pancreas.md" %}})
+- [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})
 - [Diabète](/tags/diabete/)
 - Giardiase ou autre
 - Mucoviscidose
@@ -119,8 +119,8 @@ L'interrogatoire est primordial pour orienter vers l'origine de la diarrhée chr
 - Antécédents  
   Chirurgie digestive (bariatrique, cholécystectomie, résection), auto-immuns, thyroïde, diabète, radiothérapie, SEP, rapports sexuels non protégés.
 - Antécédents familiaux  
-  [Cancer](/tags/cancer/), MICI, [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}).
-- [Alcool]({{< relref "sevrage-alcool.md" >}})
+  [Cancer](/tags/cancer/), MICI, [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}).
+- [Alcool]({{% relref "sevrage-alcool.md" %}})
 - Degré de consommation de café, boissons énergisantes, lait, sorbitol, fructose
 - Traitements en cours et essayés  
   Antibiotique, AINS, magnésium, IEC, olmésartan, metformine, iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.
@@ -134,9 +134,9 @@ L'interrogatoire est primordial pour orienter vers l'origine de la diarrhée chr
   - Volume, fréquence, consistance, résidus, glaires, sang, graisseuses, coloration, odeur
   - AEG
   - Autres troubles digestifs  
-    Douleurs, ballonnements, flatulences, alternance diarrhée-[constipation]({{< relref "constipation.md" >}}), syndrome rectal (épreinte, ténesmes, faux besoins), impériosité, rectorragies.
+    Douleurs, ballonnements, flatulences, alternance diarrhée-[constipation]({{% relref "constipation.md" %}}), syndrome rectal (épreinte, ténesmes, faux besoins), impériosité, rectorragies.
 - Signes négatifs
-  - [Incontinence fécale]({{< relref "incontinence-fecale.md" >}})
+  - [Incontinence fécale]({{% relref "incontinence-fecale.md" %}})
   - Consistance conservée
   - Terrain constipé
   - Antécédents pelviens
@@ -167,20 +167,20 @@ En cas de rectorragies ou de modifications du transit: adresser au gastro-entér
 - Ferritinémie
 - TSH
 - Glycémie à jeun
-- Proposer une [sérologie VIH]({{< relref "vih-sida.md" >}})
+- Proposer une [sérologie VIH]({{% relref "vih-sida.md" %}})
 - Malabsorption  
   Créatinine, ionogramme, calcémie, albuminémie, ASAT, ALAT, GGT, PAL, TP, vitamine B12, folates.
-- [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}})  
+- [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}})  
   IgA anti-transglutaminase et IgA totales.
 - Examen parasitologique des selles 3 jours de suite (se 60-90%)
-- [Test immunologique fécal]({{< relref "cancer-colorectal.md" >}}) (TIF *ex* Hemoccult®)
+- [Test immunologique fécal]({{% relref "cancer-colorectal.md" %}}) (TIF *ex* Hemoccult®)
 {{%/info%}}
 
 ### Bilan de deuxième intention de la diarrhée chronique
 
-- Suspicion de [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) avant 40-45 ans: calprotectine fécale (pour éliminer une MICI, 60€ non remboursé)  
+- Suspicion de [syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}) avant 40-45 ans: calprotectine fécale (pour éliminer une MICI, 60€ non remboursé)  
   Bilan normal et symptômes typiques: diagnostic de *syndrome de l'intestin irritable* (SII).
-- Suspicion d'[intolérance au lactose]({{< relref "intolerance-lactose.md" >}}): test d'éviction préférable
+- Suspicion d'[intolérance au lactose]({{% relref "intolerance-lactose.md" %}}): test d'éviction préférable
 
 Adresser au spécialiste si un diagnostic pouvant être suivi en ville n'est pas expliqué par ce bilan.
 

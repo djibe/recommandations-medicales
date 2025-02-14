@@ -167,7 +167,7 @@ Signes et symptômes de pneumonie à rechercher à l'examen.
 ### Interrogatoire
 
 - Antécédents  
-  Grossesse, **immunodépression** (chimiothérapie, greffe, hémopathie, VIH avec CD4 < 200), comorbidités (BPCO, [splénectomie]({{< relref "asplenie.md" >}}) ++, maladie inflammatoire).
+  Grossesse, **immunodépression** (chimiothérapie, greffe, hémopathie, VIH avec CD4 < 200), comorbidités (BPCO, [splénectomie]({{% relref "asplenie.md" %}}) ++, maladie inflammatoire).
 - Traitements: corticoïdes, chimiothérapie
 - Tabagisme, alcool
 - Entourage au domicile
@@ -199,7 +199,7 @@ Signes et symptômes de pneumonie à rechercher à l'examen.
 - Complications: signes de pleurésie, empyème
 - Étayer le diagnostic différentiel
   - Virose sur insuffisance cardiaque, pneumopathie d'inhalation, embolie pulmonaire, exacerbation d'asthme ou de BPCO, grippe, bronchite aiguë
-  - Chez l'enfant: [bronchiolite]({{< relref "bronchiolite.md" >}}), bronchite
+  - Chez l'enfant: [bronchiolite]({{% relref "bronchiolite.md" %}}), bronchite
 
 ### Tableau de pneumonie franche lobaire aiguë (PFLA)
 
@@ -209,7 +209,7 @@ Présentation de pneumonie aiguë communautaire bactérienne **la plus fréquent
 - Fièvre élevée (39°C) d'installation **brutale**
 - Malaise général
 - Douleurs thoraciques (<< en coup de poignard >>) avec expectorations saumonées ou rouille
-- [Herpès labial]({{< relref "infections-herpes-virus.md" >}}) évocateur du pneumocoque
+- [Herpès labial]({{% relref "infections-herpes-virus.md" %}}) évocateur du pneumocoque
 - Radiographie thoracique avec condensation systématisée
 - Si réalisé: syndrome inflammatoire biologique intense
 
@@ -233,10 +233,10 @@ Présentation de pneumonie aiguë communautaire bactérienne **la plus fréquent
 - Population à risque: voyage, thermes, comorbidités, âge avancé, immunodépression, tabagisme
 - Contamination par voie respiratoire non inter-humaine (aérosol d'eau contaminée, climatisation)
 - Tableau bruyant rapidement progressif
-- Antigénurie légionelle et culture sur prélèvements respiratoires, [hyponatrémie]({{< relref "hyponatremie.md" >}}), rhabdomyolyse
+- Antigénurie légionelle et culture sur prélèvements respiratoires, [hyponatrémie]({{% relref "hyponatremie.md" %}}), rhabdomyolyse
 - Condensation systématisée ou opacités multifocales
 - Macrolide ± FQAP
-- **[Maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})**
+- **[Maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})**
 
 ### Tableau de pneumonie virale (dont Covid-19)
 
@@ -296,7 +296,7 @@ Autres bilans ambulatoires de la pneumopathie infectieuse:
 - Comorbidité à risque de décompensation  
   Insuffisance cardiaque ou rénale, AVC/AIT, hépatopathie chronique, BPCO, diabète déséquilibré, drépanocytose.
 - Immunodépression  
-  Corticothérapie générale ou immunosuppresseurs dans les 6 mois, [splénectomie]({{< relref "asplenie.md" >}}) ou drépanocytose homozygote, chimiothérapie dans les 6 mois, [VIH]({{< relref "vih-sida.md" >}}), cachexie ...
+  Corticothérapie générale ou immunosuppresseurs dans les 6 mois, [splénectomie]({{% relref "asplenie.md" %}}) ou drépanocytose homozygote, chimiothérapie dans les 6 mois, [VIH]({{% relref "vih-sida.md" %}}), cachexie ...
 - Antécédent de pneumonie bactérienne
 - Hospitalisation dans l'année
 - Vie en institution
@@ -308,25 +308,25 @@ Autres bilans ambulatoires de la pneumopathie infectieuse:
 {{% /collapse %}}
 {{%collapse "Prévention de la pneumonie" %}}
 
-[Sevrage tabagique]({{< relref "arret-tabac.md" >}}) et vaccinations [antigrippale]({{< relref "grippe.md" >}}) (+65 ans, grossesse, diabète ...), Covid (+65 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave: chimio, dialyse, voir *Personnes à risque*, *DGS 2023-07*), pneumocoque (voir ci-dessous), [VRS]({{< relref "vaccination.md" >}}) (+75 ans ou 65 ans avec comorbidité, **NR**).
+[Sevrage tabagique]({{% relref "arret-tabac.md" %}}) et vaccinations [antigrippale]({{% relref "grippe.md" %}}) (+65 ans, grossesse, diabète ...), Covid (+65 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave: chimio, dialyse, voir *Personnes à risque*, *DGS 2023-07*), pneumocoque (voir ci-dessous), [VRS]({{% relref "vaccination.md" %}}) (+75 ans ou 65 ans avec comorbidité, **NR**).
 
 Indications à la vaccination anti-pneumococcique:
 
-- [Tous les nourrissons]({{< relref "examens-suivi-nourrisson.md" >}}) (rattrapage jusqu'à 23 mois)
+- [Tous les nourrissons]({{% relref "examens-suivi-nourrisson.md" %}}) (rattrapage jusqu'à 23 mois)
 - Immunodépression
-  - [Asplénie ou hyposplénie]({{< relref "asplenie.md" >}}) (dont drépanocytaire majeur)
+  - [Asplénie ou hyposplénie]({{% relref "asplenie.md" %}}) (dont drépanocytaire majeur)
   - Déficit immunitaire héréditaire
-  - [VIH, SIDA]({{< relref "vih-sida.md" >}})
+  - [VIH, SIDA]({{% relref "vih-sida.md" %}})
   - [Cancer](/tags/cancer/) ou hémopathie
   - Greffe
-  - Immunosuppresseurs, biothérapie, corticothérapie ([polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [hépatite B active]({{< relref "hepatite-b.md" >}}))
+  - Immunosuppresseurs, biothérapie, corticothérapie ([polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), [hépatite B active]({{% relref "hepatite-b.md" %}}))
 - Comorbidité à risque d'infection invasive à pneumocoque (IIP)
-  - Cardiopathie congénitale cyanogène, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [HTAP]({{< relref "hypertension-arterielle-pulmonaire.md" >}})
-  - Insuffisance respiratoire, [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
-  - [Asthme en ALD]({{< relref "asthme.md" >}})
-  - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
+  - Cardiopathie congénitale cyanogène, [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), [HTAP]({{% relref "hypertension-arterielle-pulmonaire.md" %}})
+  - Insuffisance respiratoire, [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}})
+  - [Asthme en ALD]({{% relref "asthme.md" %}})
+  - [Insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}})
   - Hépatopathie chronique
-  - [Diabète type 1]({{< relref "diabete-type-1.md" >}}) ou [2 traité]({{< relref "diabete-type-2.md" >}})
+  - [Diabète type 1]({{% relref "diabete-type-1.md" %}}) ou [2 traité]({{% relref "diabete-type-2.md" %}})
   - Brèche ostéo-méningée, implant cochléaire
 
 ### Schémas de la vaccination anti-pneumococcique
@@ -368,7 +368,7 @@ Traitement antibiotique probabiliste **pendant 5 jours** avec réévaluation sys
 
 {{< card-link-external title="Antibiothérapies de la pneumonie" url="https://antibioclic.com/strategie/279/2274" subtitle="par Antibioclic" >}}
 
-En cas de **pneumonies récidivantes**, réaliser une électrophorèse des protéines et rechercher une [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (*GOLD 2024*). Au sein d'un même territoire, rechercher un **corps étranger** ou une **tumeur**.
+En cas de **pneumonies récidivantes**, réaliser une électrophorèse des protéines et rechercher une [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}) (*GOLD 2024*). Au sein d'un même territoire, rechercher un **corps étranger** ou une **tumeur**.
 
 ##### Suspicion de pneumonie à bactérie atypique
 

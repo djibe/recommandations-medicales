@@ -126,7 +126,7 @@ Risque élevé
       Tous les 5 ans à partir de 45 ans ou 10 ans avant l'âge de diagnostic du cas index (*SFED 2021*)
     3. Maladie inflammatoire chronique de l'intestin  
       {{%class%}}Maladie de Crohn ou rectocolite hémorragique.{{%/class%}}
-    4. [Acromégalie]({{< relref "acromegalie.md" >}})
+    4. [Acromégalie]({{% relref "acromegalie.md" %}})
 : **Dépistage:** surveillance gastro-entérologique et coloscopique (voir *Dépistage et suivi*).
 
 Risque très élevé = prédisposition génétique au cancer colorectal
@@ -172,8 +172,8 @@ Indications à une **consultation d'oncogénétique**:
 {{%warning%}}
 Signes évocateurs de cancer colorectal en cas de symptômes persistants:
 
-- Rectorragies, méléna (melæna), occulte ([anémie ferriprive]({{< relref "anemie.md" >}}))
-- Alternance diarrhée - [constipation]({{< relref "constipation.md" >}})
+- Rectorragies, méléna (melæna), occulte ([anémie ferriprive]({{% relref "anemie.md" %}}))
+- Alternance diarrhée - [constipation]({{% relref "constipation.md" %}})
 - Douleurs abdominales d'apparition récente, persistantes ou inexpliquées (+50 ans ++)
 - Syndrome rectal  
   Faux besoins, ténesme, épreintes.
@@ -185,7 +185,7 @@ Signes évocateurs de cancer colorectal en cas de symptômes persistants:
 - Palpation abdominale
 - Toucher rectal
 - Palpation des aires ganglionnaires
-- [Dénutrition]({{< relref "denutrition.md" >}}) (dépistage avec le {{< modal-btn modal-mna >}}Mini Nutritional Assessment{{< /modal-btn >}})
+- [Dénutrition]({{% relref "denutrition.md" %}}) (dépistage avec le {{< modal-btn modal-mna >}}Mini Nutritional Assessment{{< /modal-btn >}})
 
 ### Pour en savoir plus: bilan d'extension initial
 
@@ -211,8 +211,8 @@ Autres bilans: ECG, détermination du statut des gènes RAS et BRAF tumoraux, du
 
 Facteurs de risque de cancer colorectal liés au mode de vie:
 
-- [Alcool]({{< relref "sevrage-alcool.md" >}})
-- [Tabac]({{< relref "arret-tabac.md" >}})
+- [Alcool]({{% relref "sevrage-alcool.md" %}})
+- [Tabac]({{% relref "arret-tabac.md" %}})
 - Sédentarité
 - Surpoids (+15% / 5 kg/m²)
 - Alimentation riche en viande rouge (+29% / 100g/j), charcuterie (+21% / 50 g/j)  
@@ -295,7 +295,7 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 Le traitement dépend de la décision de la réunion de concertation pluridisciplinaire.
 
 - [HAS Guide patient: La prise en charge du cancer colorectal (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-05/ald_30_gp_cancer_colorectal_web.pdf)
-- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 - Mesures systématiques associées au cancer
   - Arrêt tabac et alcool
   - Activité physique quotidienne ([guide patient](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_cancer.pdf))
@@ -333,7 +333,7 @@ Chirurgie le plus souvent. Parfois chimiothérapie adjuvante et thérapie ciblé
 
 ### Préparation colique pour une coloscopie
 
-- [Régime sans résidus]({{< relref "regime-sans-residus.md" >}}) à débuter la veille (*ESGE*)
+- [Régime sans résidus]({{% relref "regime-sans-residus.md" %}}) à débuter la veille (*ESGE*)
   - Interdits: fruits, légumes, lait, yaourts, fromage blanc, pains et céréales complètes, jus de fruits
   - Autorisés: pommes ou carottes fraîches cuites, viandes, volailles, œufs, poissons, jambon blanc, pâtes, riz et pain blanc, pommes de terre (sans la peau), fromages à pâte cuite (gruyère, emmental, beaufort, comté), biscottes au froment, gâteaux secs simples
 - Le liquide de préparation colique

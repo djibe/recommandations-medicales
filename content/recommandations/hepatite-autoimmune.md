@@ -29,14 +29,14 @@ todo = "flow"
 - Adresser avec le bilan au gastro-entérologue d'un centre de compétence de prise en charge de l'hépatite auto-immune ([annuaire des centres de compétence](https://www.filfoie.com/ou-consulter/carte-interactive/?fwp_type_de_public=adulte&fwp_rseau_centre=mivb-h)). La ponction-biopsie hépatique est systématique
 - Le traitement initial de l'hépatite autoimmune est une corticothérapie relayée par l'azathioprine à vie
 
-Chapitres liés: [hépatites](/tags/hepatite/), [cholangite biliaire primitive]({{< relref "cholangite-biliaire-primitive.md" >}})
+Chapitres liés: [hépatites](/tags/hepatite/), [cholangite biliaire primitive]({{% relref "cholangite-biliaire-primitive.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Hépatite auto-immune (HAI)
 : Maladie inflammatoire chronique rare du foie survenant à tout âge et atteignant principalement les femmes (+85 %). Elle associe cytolyse, hypergammaglobuminémie et auto-anticorps (anti-nucléaires et anti-muscle lisse) et une histologie hépatique compatible.
-: Une [cholangite biliaire primitive]({{< relref "cholangite-biliaire-primitive.md" >}}) (CBP) ou une [cholangite sclérosante primitive]({{< relref "cholangite-sclerosante-primitive.md" >}}) (CSP) peut être associée (*syndrome de chevauchement* ou *overlap syndrome*).
+: Une [cholangite biliaire primitive]({{% relref "cholangite-biliaire-primitive.md" %}}) (CBP) ou une [cholangite sclérosante primitive]({{% relref "cholangite-sclerosante-primitive.md" %}}) (CSP) peut être associée (*syndrome de chevauchement* ou *overlap syndrome*).
 : La gravité de l'hépatite auto-immune est liée au risque de **cirrhose**.
 
 ### Abréviations
@@ -87,8 +87,8 @@ Signes et symptômes à rechercher en cas de suspicion d'hépatite auto-immune (
   - [Fatigue](/tags/fatigue/)
   - Inconfort abdominal
   - Arthralgies
-  - [Prurit]({{< relref "prurit.md" >}})
-  - [Ictère]({{< relref "ictere.md" >}})
+  - [Prurit]({{% relref "prurit.md" %}})
+  - [Ictère]({{% relref "ictere.md" %}})
 
 ### Examen clinique
 
@@ -99,8 +99,8 @@ Signes et symptômes à rechercher en cas de suspicion d'hépatite auto-immune (
   {{< clinique/hypertension-portale >}}
 - Signes d'insuffisance hépatocellulaire  
   {{< clinique/insuffisance-hepato-cellulaire >}}
-- [Splénomégalie]({{< relref "splenomegalie.md" >}})
-- Examen cutané: [vitiligo]({{< relref "vitiligo.md" >}})
+- [Splénomégalie]({{% relref "splenomegalie.md" %}})
+- Examen cutané: [vitiligo]({{% relref "vitiligo.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -113,9 +113,9 @@ Signes et symptômes à rechercher en cas de suspicion d'hépatite auto-immune (
 - Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine totale et conjuguée
 - TP, facteur V
 - Ferritinémie (*Filfoie*)
-- Sérologies [VHA]({{< relref "hepatite-a.md" >}}), [VHB]({{< relref "hepatite-b.md" >}}), [VHC]({{< relref "hepatite-c.md" >}}), VHE
+- Sérologies [VHA]({{% relref "hepatite-a.md" %}}), [VHB]({{% relref "hepatite-b.md" %}}), [VHC]({{% relref "hepatite-c.md" %}}), VHE
 - Cuprémie, céruléoplasmine, cuprurie des 24h, cuivre échangeable
-- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
+- [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
 - Dosage des IgG (IgG augmentées pour 90 %)
 - Anticorps anti-nucléaires (AAN) par IFI
 - Anticorps anti-muscle lisse (AML, 40%) ≥ 1/40
@@ -138,7 +138,7 @@ L'objectif du traitement de l'hépatite auto-immune est d'obtenir une rémission
 
 Mesures générales de prise en charge de l'hépatite autoimmune:
 
-- Déclarer l'[ALD n°6]({{< relref "affection-longue-duree.md" >}}) en cas de cirrhose ou syndrome de chevauchement ou une **ALD 31** à défaut
+- Déclarer l'[ALD n°6]({{% relref "affection-longue-duree.md" %}}) en cas de cirrhose ou syndrome de chevauchement ou une **ALD 31** à défaut
 - Suivi spécialisé régulier (minimum semestriel)
 - Vaccins: Covid-19, grippe, pneumocoque, VHA, VHB et rappel dTPolio tous les 10 ans
 - Information du patient: [guide AFEF](https://afef.asso.fr/hepatite-auto-immune/)

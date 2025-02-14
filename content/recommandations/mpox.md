@@ -35,7 +35,7 @@ flowchart = true
 - Site d'information [Sexosafe](https://www.sexosafe.fr/Variole-du-singe) pour les HSH et [Flyer d'info Variole du singe](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-transmissibles-de-l-animal-a-l-homme/mpox/documents/depliant-flyer/info-mpox-flyer-a5) (*SPF*)
 - Monkeypox Info Service Grand public: {{<phone>}}0 801 90 80 69{{</phone>}} (8-23h)
 
-Chapitre lié: [hommes ayant des rapports avec des hommes]({{< relref "hsh.md" >}})
+Chapitre lié: [hommes ayant des rapports avec des hommes]({{% relref "hsh.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -47,7 +47,7 @@ Mpox (Monkeypox ou variole du singe)
 : Maladie infectieuse liée virus Mpox (MPXV, orthopoxvirus). Contamination directe par muqueuse ou peau lésée ou gouttelettes. Contamination également possible par literie, vêtements, vaisselle, linge de bain ...  
 Les zones d'endémie sont les zones forestières d'Afrique du Centre et de l'Ouest avec contamination par des rongeurs sauvages ou des primates (zoonose) puis dans le foyer familial.
 : Complications de la variole du singe: surinfection cutanées bactériennes, infections respiratoires basses, sepsis, encéphalite, kératites, ou gastro-intestinales avec pertes liquidiennes (*HCSP mai 2022*).
-: 5002 cas confirmés en France au 27 avril 2023, à 96% des [HSH]({{< relref "hsh.md" >}}) sans aucun décès en France.
+: 5002 cas confirmés en France au 27 avril 2023, à 96% des [HSH]({{% relref "hsh.md" %}}) sans aucun décès en France.
 
 Cas suspect de Mpox
 : Signes cliniques uniquement: éruption cutanée ou ulcération(s) de la muqueuse génitale, anale ou buccale, évocatrice de Mpox, isolée ou précédée ou accompagnée d'une fièvre mesurée (> 38°C) ou sensation de fièvre, d'adénopathies ou d'une odynophagie. Bilan par test qPCR ou RT-PCR et déclaration obligatoire si positif.
@@ -89,7 +89,7 @@ PVVIH
 
 Personnes à risque de forme grave de Mpox:
 
-- Immunodéprimés (dont [PVVIH]({{< relref "vih-sida.md" >}}))
+- Immunodéprimés (dont [PVVIH]({{% relref "vih-sida.md" %}}))
 - Grossesse  
   Risque mort fœtale in utero, fausse couche spontanée, transmission materno-fœtale ou périnatale
 - Enfants et adolescents de moins de 18 ans
@@ -183,7 +183,7 @@ En cas de confirmation du diagnostic, le laboratoire doit transmettre le prélè
 
 Toutes les personnes avec risque élevé d'exposition au virus de la variole du singe sont éligibles à la vaccination Mpox préventive:
 
-- [Hommes ayant des relations sexuelles avec des hommes (HSH)]({{< relref "hsh.md" >}})
+- [Hommes ayant des relations sexuelles avec des hommes (HSH)]({{% relref "hsh.md" %}})
 - Personnes trans multi-partenaires
 - Personnes en situation de prostitution
 - Professionnels des lieux de rencontre sexuelle
@@ -216,7 +216,7 @@ Utilisation le plus souvent de 2 doses de vaccin Mpox (vaccin **MVA-BN** de 3e g
 {{% /collapse %}}
 {{%collapse "Traitement du Mpox" %}}
 
-Tout poliovirus est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}). Le Mpox nécessite un [cerfa spécifique de déclaration](https://www.formulaires.service-public.fr/gf/cerfa_12218.do). Contacter l'ARS au plus vite en cas de femme ou d'enfant. Pas d'AINS (*SFD*).
+Tout poliovirus est une [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}). Le Mpox nécessite un [cerfa spécifique de déclaration](https://www.formulaires.service-public.fr/gf/cerfa_12218.do). Contacter l'ARS au plus vite en cas de femme ou d'enfant. Pas d'AINS (*SFD*).
 {.alert .alert-warning}
 
 Le traitement du Mpox confirmé est symptomatique avec la prévention des surinfections cutanéo-muqueuses.

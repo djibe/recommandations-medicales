@@ -24,7 +24,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Syndrome du canal carpien: évoquer une [acromégalie]({{< relref "acromegalie.md" >}}) et une Maladie professionnelle
+- Syndrome du canal carpien: évoquer une [acromégalie]({{% relref "acromegalie.md" %}}) et une Maladie professionnelle
 - Signes de gravité du syndrome du canal carpien: déficit moteur de flexion du pouce, sensitif du dermatome et amyotrophie justifiant un EMG et une chirurgie
 - Pas de bilan (sauf gravité) et prise en charge du canal carpien par une orthèse seule en première intention, puis infiltration
 - La guérison est quasi systématique en cas de survenue pendant la grossesse
@@ -45,11 +45,11 @@ Pathologies à l'origine du tableau clinique:
 
 - Idiopathique le plus souvent
 - Maladie professionnelle
-- [Diabète]({{< relref "diabete-type-2.md" >}})
-- [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
-- [Acromégalie]({{< relref "acromegalie.md" >}})
+- [Diabète]({{% relref "diabete-type-2.md" %}})
+- [Hypothyroïdie]({{% relref "hypothyroidie.md" %}})
+- [Acromégalie]({{% relref "acromegalie.md" %}})
 - Grossesse
-- Maladie de système ([polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}) ...)
+- Maladie de système ([polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}) ...)
 
 ### Diagnostic différentiel du canal carpien
 
@@ -132,7 +132,7 @@ Symptômes nécessitant des examens en semi-urgence:
 - Examen sensitif  
   Piquer l'index.
 - Examen étiologique  
-  Éliminer [diabète]({{< relref "diabete-type-2.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), acromégalie.
+  Éliminer [diabète]({{% relref "diabete-type-2.md" %}}), [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), acromégalie.
 - Éliminer une cause iatrogène  
   Anti-aromatases (anastrozole, exémestane, létrozole), fluoroquinolones, biphosphonates, anticoagulants oraux, hormone de croissance.
 

@@ -29,10 +29,10 @@ flowchart = true
 - L'évaluation clinique est immédiate dès la suspicion de SCA: critères de gravité (constantes, signes d'insuffisance cardiaque), ECG si disponible
 - Appel du 15 pour régulation vers le centre cardiologique adapté
 - Prise en charge du post-infarctus (ou post SCA) et du très haut risque cardiovasculaire: réhabilitation cardiaque, arrêt du tabac et de l'alcool, {{< modal-btn modal-statine-intensite >}}statine haute intensité{{< /modal-btn >}} pour LDL cible < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} et baisse ≥ 50%, tension cible < 130/80 mmHg, bithérapie aspirine + prasugrel/ticagrelor pendant min. 12 mois, BB et IEC non systématiques, vaccin grippe, bilan et dépistages complémentaires
-- Voir [syndrome coronarien chronique]({{< relref "syndrome-coronarien-chronique.md" >}}) (SCC) pour la prise en charge des symptômes ischémiques persistants
+- Voir [syndrome coronarien chronique]({{% relref "syndrome-coronarien-chronique.md" %}}) (SCC) pour la prise en charge des symptômes ischémiques persistants
 - Éducation des personnes à haut risque cardiovasculaire: appeler le SAMU en cas de douleurs thoraciques ou autres symptômes évocateurs de SCA
 
-Chapitres liés: [insuffisance cardiaque aiguë]({{< relref "insuffisance-cardiaque-aigue.md" >}}), [insuffisance cardiaque chronique]({{< relref "insuffisance-cardiaque-chronique.md" >}})
+Chapitres liés: [insuffisance cardiaque aiguë]({{% relref "insuffisance-cardiaque-aigue.md" %}}), [insuffisance cardiaque chronique]({{% relref "insuffisance-cardiaque-chronique.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -110,32 +110,32 @@ TNT
 Autres diagnostics à rechercher devant un épisode de douleurs thoraciques:
 
 - Accidents cardiovasculaires non coronariens
-  - Myocardite, [péricardite]({{< relref "pericardite-aigue.md" >}}), cardiomyopathie
+  - Myocardite, [péricardite]({{% relref "pericardite-aigue.md" %}}), cardiomyopathie
   - Tachyarythmie
-  - [Insuffisance cardiaque aiguë]({{< relref "insuffisance-cardiaque-aigue.md" >}})
-  - [Hypertension artérielle maligne]({{< relref "hypertension-arterielle-maligne.md" >}})
+  - [Insuffisance cardiaque aiguë]({{% relref "insuffisance-cardiaque-aigue.md" %}})
+  - [Hypertension artérielle maligne]({{% relref "hypertension-arterielle-maligne.md" %}})
   - Sténose de la valve aortique
   - Syndrome de tako-tsubo
   - Spasme coronaire
   - Traumatisme cardiaque
   - Dissection aortique
-  - [Anévrisme de l'aorte abdominale symptomatique]({{< relref "anevrysme-aorte-abdominale.md" >}})
-  - [Accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}})
-  - [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
+  - [Anévrisme de l'aorte abdominale symptomatique]({{% relref "anevrysme-aorte-abdominale.md" %}})
+  - [Accident vasculaire cérébral]({{% relref "accident-vasculaire-cerebral.md" %}})
+  - [Embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})
 - Accidents extra-cardiaques
   - Pneumothorax, pleurésie
-  - [Pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}})
+  - [Pneumonie]({{% relref "pneumonie-aigue-communautaire.md" %}})
   - Anaphylaxie
   - Septicémie
   - Fracture de côte
   - Douleurs articulaires ou musculaires
   - Dorsalgie
-  - [Pancréatite]({{< relref "pancreatite-aigue.md" >}}), [cholécystite]({{< relref "cholecystite-aigue.md" >}})
-  - Gastrite, œsophagite, [reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
+  - [Pancréatite]({{% relref "pancreatite-aigue.md" %}}), [cholécystite]({{% relref "cholecystite-aigue.md" %}})
+  - Gastrite, œsophagite, [reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}})
 - Autres
   - Anxiété
-  - [Anémie]({{< relref "anemie.md" >}})
-  - [Zona]({{< relref "zona.md" >}})
+  - [Anémie]({{% relref "anemie.md" %}})
+  - [Zona]({{% relref "zona.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -146,9 +146,9 @@ Autres diagnostics à rechercher devant un épisode de douleurs thoraciques:
 ### Interrogatoire
 
 - Facteurs de risque cardiovasculaires  
-  Sexe et âge, tabac, dyslipidémie, [diabète](/tags/diabete/), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), hérédité précoce, [obésité]({{< relref "obesite-adulte.md" >}}), sédentarité, athérome connu.
+  Sexe et âge, tabac, dyslipidémie, [diabète](/tags/diabete/), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), hérédité précoce, [obésité]({{% relref "obesite-adulte.md" %}}), sédentarité, athérome connu.
 - Antécédents cardiovasculaires  
-  Antécédent de syndrome coronarien aigu, [syndrome coronarien chronique]({{< relref "syndrome-coronarien-chronique.md" >}}), altération de la fonction VG, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}), [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), diabète, **[insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})**.
+  Antécédent de syndrome coronarien aigu, [syndrome coronarien chronique]({{% relref "syndrome-coronarien-chronique.md" %}}), altération de la fonction VG, [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}), [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), diabète, **[insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}})**.
 - Traitements en cours
 - Tabac, toxiques
 - Heure et date de début des symptômes
@@ -210,17 +210,17 @@ Pour les SCANST, le dosage nécessite un résultat dans l'heure avec interpréta
 {{%collapse "Traitements post infarctus et post SCA" %}}
 
 > [!WARNING]
-> L'arrêt du tabac est la mesure la plus efficace avec une réduction de la mortalité de 36 % après un [infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}).
+> L'arrêt du tabac est la mesure la plus efficace avec une réduction de la mortalité de 36 % après un [infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}).
 
 Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} après infarctus du myocarde ou autre syndrome coronarien aigu:
 
 - **Réhabilitation cardiaque** +++  
   En centre voire accompagnée à domicile.
 - Contrôle du risque cardiovasculaire
-  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (réduit décès de 40%)
-  - [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}}) (max 10 verres/semaine)
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) (réduit décès de 40%)
+  - [Arrêt de l'alcool]({{% relref "sevrage-alcool.md" %}}) (max 10 verres/semaine)
   - {{< modal-btn modal-statine-intensite >}}Statine haute intensité{{< /modal-btn >}}  
-    LDL cible < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} et réduction ≥ 50%. Titration par paliers de 4-6 semaines. Considérer < 0,4 g/L si nouvel événement CV dans les 2 ans. (chapitre [Statines]({{< relref "statines.md" >}}))
+    LDL cible < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} et réduction ≥ 50%. Titration par paliers de 4-6 semaines. Considérer < 0,4 g/L si nouvel événement CV dans les 2 ans. (chapitre [Statines]({{% relref "statines.md" %}}))
   - Activité physique
   - Lutte contre la sédentarité
   - Correction d'un surpoids
@@ -231,24 +231,24 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
     Considérer une monothérapie après 3-6 mois sauf haut risque ischémique; après 1 mois si haut risque de saignement. Une trithérapie est possible.
   - Puis **[aspirine seule](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68881730&typedoc=R) 75-100 mg/j** (prasugrel/ticagrelor possibles)
   - IPP si haut risque de saignement (à venir: *ESC DAPT*)
-  - Si [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}): AOD + clopidogrel pendant 12 mois  
+  - Si [fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}): AOD + clopidogrel pendant 12 mois  
     AOD à dose réduite si risque de saignement. Si AVK indiqué: INR cible 2 - 2,5.
-- [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+- [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
   - Cible tensionnelle < 130/80 mmHg
   - Privilégier {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} (ARA2 si mal toléré) + BB dose maximale
   - Trithérapie: + ICa-DHP ou thiazidique
-- [Vaccin grippe]({{< relref "grippe.md" >}}) annuel
-- Développement d'un syndrome coronarien chronique: voir [chapitre dédié]({{< relref "syndrome-coronarien-chronique.md" >}})
+- [Vaccin grippe]({{% relref "grippe.md" %}}) annuel
+- Développement d'un syndrome coronarien chronique: voir [chapitre dédié]({{% relref "syndrome-coronarien-chronique.md" %}})
 - Bilan complémentaire
   - Échodopplers des TSA, AAA et membres inférieurs
   - Suivi cardiologique spécialisé au moins annuel
   - Épreuve d'effort tous les 2 ans (*HAS 2016*)
-  - Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) (SAHOS) par polygraphie ventilatoire
-  - Rechercher une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})
-  - Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+  - Dépister des [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) (SAHOS) par polygraphie ventilatoire
+  - Rechercher une [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}})
+  - Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 - Si diabète: {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}}
 - Vérifier l'observance (seulement 66%)
-- Déclarer l'[ALD n°5]({{< relref "affection-longue-duree.md" >}})  
+- Déclarer l'[ALD n°5]({{% relref "affection-longue-duree.md" %}})  
   Indications: toute ischémie myocardique objectivement documentée (ECG, épreuve d'effort, scintigraphie myocardique de perfusion, échographie de stress, échographie d'effort, holter ECG, coronarographie).
 
 Ne pas utiliser en post-infarctus à visée de prévention secondaire: colchicine ([SFPT](Colchicine)).

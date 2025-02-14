@@ -29,9 +29,9 @@ flowchart = true
   - Traitement d'attaque pendant 2 à 4 semaines
   - Traitement d'entretien 2 à 4 fois par mois au long cours
   - Cuir chevelu: kétoconazole ou ciclopirox 1,5 % shampooing x 2-3/semaine
-- Si dermatite séborrhéique récente, extensive ou résistante: dépister le [VIH]({{< relref "vih-sida.md" >}})
+- Si dermatite séborrhéique récente, extensive ou résistante: dépister le [VIH]({{% relref "vih-sida.md" %}})
 
-Chapitres liés: [acné]({{< relref "acne.md" >}}), [eczéma]({{< relref "dermatite-atopique.md" >}}), [mycoses]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), [rosacée]({{< relref "rosacee.md" >}})
+Chapitres liés: [acné]({{% relref "acne.md" %}}), [eczéma]({{% relref "dermatite-atopique.md" %}}), [mycoses]({{% relref "mycoses-dermatophytes-candidoses.md" %}}), [rosacée]({{% relref "rosacee.md" %}})
 
 {{%/article-summary%}}
 {{% collapse "Définition" %}}
@@ -42,10 +42,10 @@ Dermatite séborrhéique (DS ou dermite séborrhéique)
 
 ### Sujets à risque de forme sévère de dermatite séborrhéique
 
-- [Maladie de Parkinson]({{< relref "maladie-parkinson.md" >}}) et syndromes extrapyramidaux iatrogènes
-- [Alcoolisme chronique]({{< relref "sevrage-alcool.md" >}})
+- [Maladie de Parkinson]({{% relref "maladie-parkinson.md" %}}) et syndromes extrapyramidaux iatrogènes
+- [Alcoolisme chronique]({{% relref "sevrage-alcool.md" %}})
 - Carcinome des voies aéro-digestives supérieures
-- [Personne vivant avec le VIH]({{< relref "vih-sida.md" >}}) (40% des séropositifs, 80% au stade SIDA)
+- [Personne vivant avec le VIH]({{% relref "vih-sida.md" %}}) (40% des séropositifs, 80% au stade SIDA)
 
 {{% /collapse %}}
 {{% collapse "Clinique" %}}
@@ -86,13 +86,13 @@ Forme extensive: érythrodermie de Leiner-Moussous.
 
 Autres diagnostics à étayer devant une dermatose du visage:
 
-- **[Psoriasis]({{< relref "psoriasis.md" >}})**  
+- **[Psoriasis]({{% relref "psoriasis.md" %}})**  
   Plaques bien limitées extra-faciales, début précoce, antécédents.
-- [Rosacée]({{< relref "rosacee.md" >}})  
+- [Rosacée]({{% relref "rosacee.md" %}})  
   Bouffées vasomotrices, érythrose faciale permanente, télangiectasies, absence de squames.
-- [Dermatite atopique]({{< relref "dermatite-atopique.md" >}})  
+- [Dermatite atopique]({{% relref "dermatite-atopique.md" %}})  
   Une érythrodermie du nourrisson pourrait inaugurer une DA ou un psoriasis. Chez l'adulte, la DA déborde des zones séborrhéiques avec respect médio-facial.
-- [Syphilis]({{< relref "syphilis.md" >}})  
+- [Syphilis]({{% relref "syphilis.md" %}})  
   Rapports non protégés, notion de chancre.
 
 {{% /collapse %}}
@@ -123,7 +123,7 @@ OU [ciclopirox olamine crème 1%](https://base-donnees-publique.medicaments.gouv
 
 Puis application 2 à 4 fois par mois.
 
-Un [dermocorticoïde modéré]({{< relref "dermocorticoides.md" >}}) peut être utilisé initialement sur une très courte durée.
+Un [dermocorticoïde modéré]({{% relref "dermocorticoides.md" %}}) peut être utilisé initialement sur une très courte durée.
 
 #### Cuir chevelu
 

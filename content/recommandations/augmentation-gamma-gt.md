@@ -62,14 +62,14 @@ Il existe 4 grandes causes pour une augmentation des Gamma GT:
 1. Affection hépato-biliaire non alcoolique  
   Augmentée dans 85% des maladies hépato-biliaires et presque toutes les cholestases (PAL élevée constamment).
 2. Médicamenteuse  
-  Inducteurs enzymatiques ([contraception œstroprogestative]({{< relref "contraception.md" >}}), hypnotique, anxiolytique, antidépresseur, anti-épileptique). Vérifier les ASAT (hépatite médicamenteuse).
+  Inducteurs enzymatiques ([contraception œstroprogestative]({{% relref "contraception.md" %}}), hypnotique, anxiolytique, antidépresseur, anti-épileptique). Vérifier les ASAT (hépatite médicamenteuse).
 3. Autres affections organiques  
-  {{< modal-btn modal-metabolique >}}Syndrome métabolique{{< /modal-btn >}}, dyslipidémie, [diabète](/tags/diabete/), [obésité]({{< relref "obesite-adulte.md" >}}), [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}) et tout organe riche en GGT (rein, foie, pancréas, intestin, cerveau).
+  {{< modal-btn modal-metabolique >}}Syndrome métabolique{{< /modal-btn >}}, dyslipidémie, [diabète](/tags/diabete/), [obésité]({{% relref "obesite-adulte.md" %}}), [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}) et tout organe riche en GGT (rein, foie, pancréas, intestin, cerveau).
 4. Alcool  
-  Une GGT élevée signe une [consommation chronique d'alcool]({{< relref "sevrage-alcool.md" >}}) mais sans relation avec la quantité et avec une sensibilité faible (60%). Autres signes de mésusage: macrocytose, diminution de 50% à J10 du sevrage.
+  Une GGT élevée signe une [consommation chronique d'alcool]({{% relref "sevrage-alcool.md" %}}) mais sans relation avec la quantité et avec une sensibilité faible (60%). Autres signes de mésusage: macrocytose, diminution de 50% à J10 du sevrage.
 
 > [!INFO]
-> Une augmentation des Gamma-GT avec les phosphatases alcalines (PAL) signe une cholestase ([cholangite biliaire primitive]({{< relref "cholangite-biliaire-primitive.md" >}}), lithiase ou tumeur biliaire, médicamenteuse).
+> Une augmentation des Gamma-GT avec les phosphatases alcalines (PAL) signe une cholestase ([cholangite biliaire primitive]({{% relref "cholangite-biliaire-primitive.md" %}}), lithiase ou tumeur biliaire, médicamenteuse).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -79,7 +79,7 @@ Signes et symptômes à rechercher devant une élévation des Gamma-GT.
 ### Interrogatoire
 
 - Antécédents  
-  Hépatiques ([hépatite](/tags/hepatite/), cholestase), [diabète](/tags/diabete/), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}).
+  Hépatiques ([hépatite](/tags/hepatite/), cholestase), [diabète](/tags/diabete/), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}).
 - Antécédents familiaux: auto-immuns, digestifs
 - Traitements en cours, contraception, auto-médication
 - Rechercher un mésusage de l'alcool actuel ({{< modal-btn modal-auditc >}}questionnaire AUDIT-C{{< /modal-btn >}}) et passé
@@ -87,7 +87,7 @@ Signes et symptômes à rechercher devant une élévation des Gamma-GT.
 - Pays de naissance, voyages, expositions sexuelles ou sanguines
 - Expositions professionnelles
 - Résultats biologiques antérieurs
-- Symptômes: [ictère]({{< relref "ictere.md" >}}), [prurit]({{< relref "prurit.md" >}}), douleurs abdominales
+- Symptômes: [ictère]({{% relref "ictere.md" %}}), [prurit]({{% relref "prurit.md" %}}), douleurs abdominales
 
 ### Examen clinique
 
@@ -98,7 +98,7 @@ Signes et symptômes à rechercher devant une élévation des Gamma-GT.
   {{< clinique/hypertension-portale >}}
 - Signes d'insuffisance hépatocellulaire  
   {{< clinique/insuffisance-hepato-cellulaire >}}
-- [Splénomégalie]({{< relref "splenomegalie.md" >}})
+- [Splénomégalie]({{% relref "splenomegalie.md" %}})
   
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

@@ -28,17 +28,17 @@ flowchart = true
 
 - Consultation annuelle gratuite pour la contraception avant 26 ans (cotation G Exo 3)  
   Coter la première consultation contraception avant 26 ans: CCP (46€ avec tiers payant AMO)
-- Seul le préservatif est efficace contre les [IST](/tags/ist/) (partiellement contre les [HPV]({{< relref "cancer-col-uterus.md" >}}), gratuit sans ordonnance en pharmacie pour les -26 ans)
+- Seul le préservatif est efficace contre les [IST](/tags/ist/) (partiellement contre les [HPV]({{% relref "cancer-col-uterus.md" %}}), gratuit sans ordonnance en pharmacie pour les -26 ans)
 - Aide au choix de la contraception: [QuestionSexualité - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception) et [comparatif des contraceptions](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception), [Annuaire des centres de santé sexuelle](https://ivg.gouv.fr/les-centres-de-sante-sexuelle.html)
 - Contraceptions très efficaces de première intention: contraception œstroprogestative, stérilet, implant
 - Démarrer une contraception hormonale: débuter le *1er jour des règles*  
   ou démarrage à tout moment du cycle: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1^re^ plaquette.
-- Informer sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}}), savoir [gérer un oubli de pilule](https://www.oubli.formagyn.fr), et informer sur la surveillance des troubles de l'humeur (dépression)
+- Informer sur la [contraception d'urgence]({{% relref "contraception-urgence.md" %}}), savoir [gérer un oubli de pilule](https://www.oubli.formagyn.fr), et informer sur la surveillance des troubles de l'humeur (dépression)
 - Pas d'interaction DIU et anti-inflammatoires AINS
 
 Les contraceptions définitives ne sont pas encore traitées.
 
-Chapitres lié: [J'ai oublié ma pilule]({{< relref "jai-oublie-ma-pilule.md" >}}), [acné]({{< relref "acne.md" >}}), [IVG]({{< relref "interruption-volontaire-grossesse.md" >}}), [ménopause]({{< relref "menopause.md" >}})
+Chapitres lié: [J'ai oublié ma pilule]({{% relref "jai-oublie-ma-pilule.md" %}}), [acné]({{% relref "acne.md" %}}), [IVG]({{% relref "interruption-volontaire-grossesse.md" %}}), [ménopause]({{% relref "menopause.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -94,7 +94,7 @@ EE
 : éthinyl-estradiol
 
 EP
-: [embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
+: [embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})
 
 FRCV
 : facteur de risque cardiovasculaire
@@ -109,7 +109,7 @@ MVTE
 : [maladie veineuse thromboembolique](/tags/mvte/)
 
 TVP
-: [thrombose veineuse profonde]({{< relref "thrombose-veineuse-profonde.md" >}})
+: [thrombose veineuse profonde]({{% relref "thrombose-veineuse-profonde.md" %}})
 {.dl-inline}
 
 {{% /collapse %}}
@@ -125,33 +125,33 @@ Les œstroprogestatifs augmentent le risque de [thromboembolie veineuse](/tags/m
 - Allaitement: les 6 premières semaines (*[CRAT](http://www.lecrat.fr/11369/)*)
 - Antécédent personnel de thrombose veineuse superficielle selon *SFMV 2019*
 - Antécédent familial au 1^er^ degré
-  - [Infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) ou AVC chez homme -55 ans ou femme -65 ans
+  - [Infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}) ou AVC chez homme -55 ans ou femme -65 ans
   - MVTE (thrombose veineuse profonde, embolie pulmonaire) avant 50 ans  
     Ou nombre élevé d'apparentés quel que soit le degré.
-- [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+- [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
 - Dyslipidémie non contrôlée
-- [Diabète type 1]({{< relref "diabete-type-1.md" >}}) depuis +20 ans ou compliqué
-- [Migraine avec aura]({{< relref "migraine.md" >}})
+- [Diabète type 1]({{% relref "diabete-type-1.md" %}}) depuis +20 ans ou compliqué
+- [Migraine avec aura]({{% relref "migraine.md" %}})
 - Migraine de novo ou aggravation des migraines sous œstroprogestatifs
 - Thrombophilie
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}
-- Antécédent personnel de [cancer du sein]({{< relref "cancer-sein.md" >}})  
+- Antécédent personnel de [cancer du sein]({{% relref "cancer-sein.md" %}})  
   Contre-indication à toute contraception hormonale.
 - Antécédent personnel de tumeur ovarienne de la granusola adulte avec traitement conservateur
-- Toute contraception hormonale est déconseillée après adénocarcinome séreux ou endométrioïde de bas grade [de l'ovaire]({{< relref "cancer-ovaire.md" >}})
+- Toute contraception hormonale est déconseillée après adénocarcinome séreux ou endométrioïde de bas grade [de l'ovaire]({{% relref "cancer-ovaire.md" %}})
 
-Privilégier une contraception non hormonale après traitement d'un [carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}}) (pour la fonction hépatique).
+Privilégier une contraception non hormonale après traitement d'un [carcinome hépatocellulaire]({{% relref "carcinome-hepatocellulaire.md" %}}) (pour la fonction hépatique).
 
 ### Œstrogènes possibles sous réserve
 
 Possibles seulement si 1 seul facteur de risque cardiovasculaire isolé parmi:
 
 - Âge ≥ 35 ans
-- Surpoids, [obésité]({{< relref "obesite-adulte.md" >}})
-- [Tabac > 15 cig/j]({{< relref "arret-tabac.md" >}})
+- Surpoids, [obésité]({{% relref "obesite-adulte.md" %}})
+- [Tabac > 15 cig/j]({{% relref "arret-tabac.md" %}})
 - Dyslipidémie contrôlée
-- [Diabète type 2]({{< relref "diabete-type-2.md" >}})
-- [Migraine sans aura]({{< relref "migraine.md" >}})
+- [Diabète type 2]({{% relref "diabete-type-2.md" %}})
+- [Migraine sans aura]({{% relref "migraine.md" %}})
 
 > -- *CNGOF 2018 et SFEMC 2021*
 {{%/info%}}
@@ -197,7 +197,7 @@ Autres contraceptions: diaphragme, capes cervicales (NR), spermicides (NR), retr
 Les générations de pilules œstroprogestatives correspondent à la date de mise sur le marché du progestatif (P3: désogestrel, gestodène et norgestimate; P4: drospirénone). **Utiliser LNG et norgestimate en première intention**, les autres progestatifs de 3^e^ et 4^e^ générations doublent le risque de MVTE (*HAS 2013*).  
 Pas d'arrêt brutal d'une contraception de 3-4^e^ génération bien tolérée.
 
-Présenter les contraceptions par *[groupe d'efficacité](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)* (plutôt que par nombre de grossesses): hormonale (pilule 2^e^ génération, progestative, implant), DIU, [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) et stérilisation.  
+Présenter les contraceptions par *[groupe d'efficacité](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)* (plutôt que par nombre de grossesses): hormonale (pilule 2^e^ génération, progestative, implant), DIU, [contraception d'urgence]({{% relref "contraception-urgence.md" %}}) et stérilisation.  
 Patch et anneau vaginal réservés en intolérance aux moyens déjà listés (sur-risque thrombo-embolique).
 Ces moyens efficaces sont **gratuits jusqu'à 25 ans révolus** (sauf patch et anneau qui ont risque de MVTE augmenté, *[Service public](https://www.service-public.fr/particuliers/actualites/A15158)*).
 
@@ -212,7 +212,7 @@ Nécessité d'une consultation dédiée pour la primo-prescription d'une contrac
 
 - Âge
 - Antécédents personnels  
-  [Dépression]({{< relref "depression.md" >}}), {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}, HTA, dyslipidémie, diabète type 1, migraine (préciser l'aura), thrombophilie, cancer (du sein), MVTE, IST, GEU, chirurgie.
+  [Dépression]({{% relref "depression.md" %}}), {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}, HTA, dyslipidémie, diabète type 1, migraine (préciser l'aura), thrombophilie, cancer (du sein), MVTE, IST, GEU, chirurgie.
 - Antécédents familiaux au 1^er^ degré  
   IDM/AVC chez homme < 55 ans ou femme < 65 ans, MVTE (TVP, EP) < 50 ans ou épisodes répétés quel que soit le degré.
 - Traitements en cours
@@ -236,15 +236,15 @@ Nécessité d'une consultation dédiée pour la primo-prescription d'une contrac
 
 - Poids, taille, IMC
 - Pression artérielle  
-  {{%class%}}5% développent une [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) sous COP (*ESC 2018*){{%/class%}}
+  {{%class%}}5% développent une [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) sous COP (*ESC 2018*){{%/class%}}
 - Examen des seins
 - Examen gynécologique  
   N'est pas nécessaire pour la 1^re^ consultation (sauf symptôme ou antécédent).
 - {{%modal-btn "modal-hyperandrogenie"%}}Signes d'hyperandrogénie{{%/modal-btn%}}
 - Frottis selon le rythme du dépistage à partir de 25 ans
-- Recherche [Chlamydia]({{< relref "chlamydia-trachomatis.md" >}}) chez 15-25 ans ou partenaires multiples
+- Recherche [Chlamydia]({{% relref "chlamydia-trachomatis.md" %}}) chez 15-25 ans ou partenaires multiples
 
-Reconsulter si: effets indésirables, douleurs pelviennes, [ménorragies]({{< relref "menorragies.md" >}}).
+Reconsulter si: effets indésirables, douleurs pelviennes, [ménorragies]({{% relref "menorragies.md" %}}).
 
 ### Examens complémentaires
 
@@ -270,7 +270,7 @@ Bilan après 3-6 mois de contraception (avant et renouvelé en antécédent fami
 
 Pour une première consultation chez une jeune femme ou un jeune homme -26 ans, coter **CCP** (46€, une seule fois) avec tiers payant AMO.
 
-La première consultation reprend les types de contraceptifs groupés par efficacité, leurs avantages, limites et inconvénients, la [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) et les [IST](/tags/ist/).
+La première consultation reprend les types de contraceptifs groupés par efficacité, leurs avantages, limites et inconvénients, la [contraception d'urgence]({{% relref "contraception-urgence.md" %}}) et les [IST](/tags/ist/).
 
 ### Consultation contraception gratuite avant 26 ans
 
@@ -310,8 +310,8 @@ Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à
 - Efficacité identique quelle que soit la voie d'administration
 - Les œstroprogestatifs n'augmentent globalement pas le risque de cancer (voir *Contraception et cancer*)
 - EE + lévonorgestrel/norgestimate en première intention
-- Schéma continu possible si: symptômes cataméniaux, [ménorragies]({{< relref "menorragies.md" >}}) fonctionnelles, [endométriose]({{< relref "endometriose.md" >}}) ou choix personnel.
-- 5% développent une [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) (*ESC 2018 HTA*)
+- Schéma continu possible si: symptômes cataméniaux, [ménorragies]({{% relref "menorragies.md" %}}) fonctionnelles, [endométriose]({{% relref "endometriose.md" %}}) ou choix personnel.
+- 5% développent une [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) (*ESC 2018 HTA*)
 - Les progestatifs de 3e génération (gestodène, désogestrel sauf le norgestimate), la drospirénone ou l'acétate de cyprotérone augmentent plus le risque de MVTE que le lévonorgestrel
 - Les œstroprogestatifs par voies non orales (patch, anneau) ont probablement le même sur-risque veineux
 
@@ -329,14 +329,14 @@ Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à
 - Pose du dispositif intra-utérin
   - Pose à n'importe quel moment du cycle (en l'absence de grossesse)
   - Pas de dépistage systématique des [IST](/tags/ist/) avant la pose  
-    Dépistage des IST le jour de la prescription voire avant la pose si à risque (notamment *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* chez les 15-25 ans ou partenaires multiples non protégés).
+    Dépistage des IST le jour de la prescription voire avant la pose si à risque (notamment *[Chlamydia]({{% relref "chlamydia-trachomatis.md" %}})* chez les 15-25 ans ou partenaires multiples non protégés).
   - Seuls le toucher vaginal avec examen bimanuel et l'inspection cervicale sont formellement recommandés avant la pose d'un DIU
   - Couper les fils à 2-3 cm de leur saillie (plus courts si gênants)
   - Préciser la date du retrait
 - Informer sur la modification des saignements selon le stérilet
 - Contrôle annuel de la visibilité des fils
 - Affection intercurrent sous stérilet
-  - [Grossesse]({{< relref "grossesse.md" >}}) intra-utérine sur DIU: retirer le stérilet si les fils sont accessibles
+  - [Grossesse]({{% relref "grossesse.md" %}}) intra-utérine sur DIU: retirer le stérilet si les fils sont accessibles
   - IST ou infection génitale haute: pas de retrait d'emblée.
   - VIH pré-SIDA  
   Le stérilet n'augmente pas le risque de progression du virus ni le risque de transmission au partenaire.
@@ -396,8 +396,8 @@ Les préservatifs sont les seules barrières contre les IST. Informer sur la *Co
 - Informer: risques de grossesse, vasculaire, métabolique
 - Privilégier DIU et microprogestatifs
 - Réévaluer une COP, arrêter Ogino
-- DIU cuivre posé après 40 ans (LNG après 45 ans): peut être laissé jusqu'à la [ménopause]({{< relref "menopause.md" >}})
-- [Ménorragies]({{< relref "menorragies.md" >}}) ou dysménorrhées (explorées): DIU LNG préféré
+- DIU cuivre posé après 40 ans (LNG après 45 ans): peut être laissé jusqu'à la [ménopause]({{% relref "menopause.md" %}})
+- [Ménorragies]({{% relref "menorragies.md" %}}) ou dysménorrhées (explorées): DIU LNG préféré
 - Stérilisation intéressante
 
 #### Femme après 50 ans
@@ -440,7 +440,7 @@ Proposer:
 - Changement de contraception
 - COP triphasique avec 35 µg d'EE et norgestimate: Triafemi (non remboursée)
 
-Si insuffisant: traitement de l'[acné]({{< relref "acne.md" >}}), avis dermatologique.
+Si insuffisant: traitement de l'[acné]({{% relref "acne.md" %}}), avis dermatologique.
 
 ### Libido
 
@@ -517,10 +517,10 @@ Modifications des risques de cancers liées à l'utilisation d'une contraception
 - Augmentation de l'incidence  
   Modérée du risque du **cancer du sein** avec une COP, qui diminue après l'arrêt de la contraception hormonale.
 - Diminution de l'incidence (prolongée après l'arrêt)
-  - [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}})
+  - [Cancer de l'endomètre]({{% relref "cancer-endometre.md" %}})
   - Cancer de l'ovaire
   - Hémopathies malignes
-  - [Cancer colorectal]({{< relref "cancer-colorectal.md" >}})
+  - [Cancer colorectal]({{% relref "cancer-colorectal.md" %}})
 
 ### Contraception par stérilet hormonal et cancers
 
@@ -546,9 +546,9 @@ Chez l'homme: recommander le préservatif avec les nouvelles thérapies.
 #### Contraception après cancer
 
 > [!WARNING]
-> Après un [cancer du sein]({{< relref "cancer-sein.md" >}}), toutes les contraceptions hormonales sont contre-indiquées.
+> Après un [cancer du sein]({{% relref "cancer-sein.md" %}}), toutes les contraceptions hormonales sont contre-indiquées.
 
-Une contraception doit être systématiquement envisagée en l'absence de [ménopause]({{< relref "menopause.md" >}}).
+Une contraception doit être systématiquement envisagée en l'absence de [ménopause]({{% relref "menopause.md" %}}).
 
 - Cancer du sein  
   Contraception non hormonale par DIU cuivre privilégiée.
@@ -586,12 +586,12 @@ Y compris phytothérapie, compléments alimentaires.
 Bénéfices similaires pour les différentes voies d'administration (orale, vaginale, transdermique).
 
 - Réduction des cancers
-  - [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) (RR 0,76)
-  - [Cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}}) (RR 0,73)
-  - [Cancer du côlon]({{< relref "cancer-colorectal.md" >}}) (RR 0,81)
+  - [Cancer de l'endomètre]({{% relref "cancer-endometre.md" %}}) (RR 0,76)
+  - [Cancer de l'ovaire]({{% relref "cancer-ovaire.md" %}}) (RR 0,73)
+  - [Cancer du côlon]({{% relref "cancer-colorectal.md" %}}) (RR 0,81)
   - Hémopathies malignes
 - Améliorations des troubles du cycle menstruel
-  - [Ménorragies]({{< relref "menorragies.md" >}})
+  - [Ménorragies]({{% relref "menorragies.md" %}})
   - Dysménorrhées
   - Syndrome prémenstruel
 - Améliore les symptômes de l'endométriose
@@ -599,27 +599,27 @@ Bénéfices similaires pour les différentes voies d'administration (orale, vagi
   - Fibrokystes du sein sans atypie
   - Fibroadénomes mammaires
   - Myomes
-- Réduction de l'incidence de la [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}) (OR 0,84)
-- [Acné]({{< relref "acne.md" >}})  
+- Réduction de l'incidence de la [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}) (OR 0,84)
+- [Acné]({{% relref "acne.md" %}})  
   COP uniquement à visée contraceptive.
 
 #### Bénéfices de la contraception progestative
 
-- [Endométriose]({{< relref "endometriose.md" >}}) (en 2^e^ intention)
+- [Endométriose]({{% relref "endometriose.md" %}}) (en 2^e^ intention)
 - Dysménorrhée (implant, désogestrel)
 - Douleurs pelviennes chronique par congestion veineuse (implant)
 
 #### Bénéfices du DIU LNG
 
-- [Ménorragies]({{< relref "menorragies.md" >}}) (traitement de référence et de prévention de l'anémie)
+- [Ménorragies]({{% relref "menorragies.md" %}}) (traitement de référence et de prévention de l'anémie)
 - Dysménorrhée (après exploration)
-- [Endométriose]({{< relref "endometriose.md" >}})  
+- [Endométriose]({{% relref "endometriose.md" %}})  
   En 1^re^ intention en alternative à la COP et après chirurgie.
 
 #### Bénéfices du DIU cuivre
 
-- [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}})
-- [Cancer du col de l'utérus]({{< relref "cancer-col-uterus.md" >}})
+- [Cancer de l'endomètre]({{% relref "cancer-endometre.md" %}})
+- [Cancer du col de l'utérus]({{% relref "cancer-col-uterus.md" %}})
 
 ### Méthodes de contraception utilisées en France
 

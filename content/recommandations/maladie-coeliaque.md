@@ -44,11 +44,11 @@ Elle peut survenir à tout âge, prédomine chez la femme et la majorité des pa
 
 ### Complications de la maladie cœliaque
 
-- **Carences en micronutriments, [fer]({{< relref "anemie.md" >}}), vitamine B9 et B12**
+- **Carences en micronutriments, [fer]({{% relref "anemie.md" %}}), vitamine B9 et B12**
 - Lymphome digestif
 - Sur-risque de maladies auto-immunes
 - Altération de la qualité de vie
-- [Ostéoporose]({{< relref "osteoporose.md" >}}) et fracture osseuse
+- [Ostéoporose]({{% relref "osteoporose.md" %}}) et fracture osseuse
 
 ### Épidémiologie de la maladie cœliaque
 
@@ -84,8 +84,8 @@ SNFGE
 
 - Antécédents familiaux  
   Peu importe le degré, 10%.
-- [Diabète de type 1]({{< relref "diabete-type-1.md" >}}) (3-10%)
-- Maladie de [Hashimoto]({{< relref "hypothyroidie.md" >}}) ou de Basedow
+- [Diabète de type 1]({{% relref "diabete-type-1.md" %}}) (3-10%)
+- Maladie de [Hashimoto]({{% relref "hypothyroidie.md" %}}) ou de Basedow
 - HLA-DQ2 et HLA-DQ8
 - Autres: voir *Qui dépister par sérologie ?*
 
@@ -96,7 +96,7 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 
 - Diarrhée chronique non sanglante
 - Diarrhée avec malabsorption (amaigrissement ++)
-- [Anémie par carence martiale]({{< relref "anemie.md" >}}) en l'absence d'autre cause
+- [Anémie par carence martiale]({{% relref "anemie.md" %}}) en l'absence d'autre cause
 - Symptômes évocateurs de maladie cœliaque ET antécédents familiaux
 - Symptômes évocateurs de maladie cœliaque en présence de maladie auto-immune ou de déficit en IgA
 - Retard de croissance de l'enfant
@@ -108,25 +108,25 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 {{% /collapse %}}
 {{%collapse "Qui dépister par sérologie coeliaque ?" %}}
 
-- [Syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) (SII)
-- [Cirrhose biliaire primitive]({{< relref "cholangite-biliaire-primitive.md" >}}) (*SNFGE/AFEF 2019*)
+- [Syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}) (SII)
+- [Cirrhose biliaire primitive]({{% relref "cholangite-biliaire-primitive.md" %}}) (*SNFGE/AFEF 2019*)
 - Transaminases augmentées inexpliquées
-- [Diabète type 1]({{< relref "diabete-type-1.md" >}}) (tous les 5 ans)
+- [Diabète type 1]({{% relref "diabete-type-1.md" %}}) (tous les 5 ans)
 - Symptômes évocateurs de maladie cœliaque  
   ou malabsorption sans antécédents familiaux ni auto-immuns
 - Colite microscopique
-- [Thyroïdite de Hashimoto]({{< relref "hypothyroidie.md" >}}) ou [maladie de Basedow]({{< relref "hyperthyroidie.md" >}})
-- Ostéopénie, [ostéoporose]({{< relref "osteoporose.md" >}})
+- [Thyroïdite de Hashimoto]({{% relref "hypothyroidie.md" %}}) ou [maladie de Basedow]({{% relref "hyperthyroidie.md" %}})
+- Ostéopénie, [ostéoporose]({{% relref "osteoporose.md" %}})
 - Ataxie ou neuropathie périphérique inexpliquée
 - Aphtes récurrents ou défauts de l'émail dentaire
-- [Infertilité]({{< relref "infertilite-couple.md" >}}), [fausses couches répétées]({{< relref "fausses-couches-repetees.md" >}}), règles tardives, [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
+- [Infertilité]({{% relref "infertilite-couple.md" %}}), [fausses couches répétées]({{% relref "fausses-couches-repetees.md" %}}), règles tardives, [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}})
 - Syndrome de [fatigue chronique](/tags/fatigue/)
 - Pancréatite aiguë ou chronique en l'absence d'autres facteur causal
 - Épilepsie
-- Céphalées, [migraines]({{< relref "migraine.md" >}})
+- Céphalées, [migraines]({{% relref "migraine.md" %}})
 - Troubles de l'humeur, trouble déficitaire de l'attention, déficience cognitive
-- [Hyposplénisme ou asplénie fonctionnelle]({{< relref "asplenie.md" >}})
-- [Psoriasis]({{< relref "psoriasis.md" >}}) ou lésions dermatologiques autres que la dermatite herpétiforme
+- [Hyposplénisme ou asplénie fonctionnelle]({{% relref "asplenie.md" %}})
+- [Psoriasis]({{% relref "psoriasis.md" %}}) ou lésions dermatologiques autres que la dermatite herpétiforme
 - Trisomie 21 ou syndrome Turner
 - Hémosidérose pulmonaire
 - Néphropathie à IgA
@@ -138,7 +138,7 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 
 #### De la malabsorption
 
-- [Diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
+- [Diarrhée chronique]({{% relref "diarrhee-chronique.md" %}})
 - Stéatorrhée
 - Amaigrissement
 - Retard de croissance
@@ -146,15 +146,15 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 
 #### Autres symptômes
 
-- [Anémie]({{< relref "anemie.md" >}})
-- [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}}) (RGO)
+- [Anémie]({{% relref "anemie.md" %}})
+- [Reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}}) (RGO)
 - Œsophagite à éosinophiles
 - Neuropathie
 - Ataxie
-- [Dépression]({{< relref "depression.md" >}})
+- [Dépression]({{% relref "depression.md" %}})
 - [Asthénie](/tags/fatigue/)
 - Petite taille
-- Pathologie osseuse: ostéomalacie, [ostéoporose]({{< relref "osteoporose.md" >}})
+- Pathologie osseuse: ostéomalacie, [ostéoporose]({{% relref "osteoporose.md" %}})
 - Transaminases élevées
 - Complications gravidiques
 - Lymphome du grêle
@@ -162,7 +162,7 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 #### Symptômes de la maladie cœliaque chez l'enfant
 
 - Symptômes systématiques: **retard de croissance**, **diarrhée**, fonte musculaire, **anorexie**, distension abdominale
-- Souvent: détresse émotionnelle, humeur labile, [fatigue](/tags/fatigue/), [constipation]({{< relref "constipation.md" >}}), douleurs abdominales
+- Souvent: détresse émotionnelle, humeur labile, [fatigue](/tags/fatigue/), [constipation]({{% relref "constipation.md" %}}), douleurs abdominales
 
 Le diagnostic est affirmé par un faisceau d'arguments cliniques, biologiques, par la biopsie du grêle **ET** par la régression de ces signes en **éviction totale du gluten**.
 
@@ -233,7 +233,7 @@ Recommandations pour la prise en charge de la maladie cœliaque:
 - Association de patients  
   [Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
 
-En cas d'amélioration partielle chez l'enfant, essayer une [éviction du lactose]({{< relref "intolerance-lactose.md" >}}) (*ESPGHAN 2022*).
+En cas d'amélioration partielle chez l'enfant, essayer une [éviction du lactose]({{% relref "intolerance-lactose.md" %}}) (*ESPGHAN 2022*).
 
 {{% /collapse%}}
 {{%collapse "Suivi médical" %}}

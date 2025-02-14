@@ -28,7 +28,7 @@ flowchart = true
 - Rechercher une hypotension orthostatique régulièrement en cas de: [diabète](/tags/diabete/), après 65 ans, maladie neurologique, traitement antihypertenseur ou à risque ...
 - La prise en charge et le traitement de l'hypotension orthostatique associent: éducation du patient, substituer un traitement à risque, contention veineuse et mesures hygiéno-diététiques
 
-Articles liés: [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), [tensiomètres électroniques validés]({{< relref "tensiometres-electroniques-valides.md" >}})
+Articles liés: [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [tensiomètres électroniques validés]({{% relref "tensiometres-electroniques-valides.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -67,8 +67,8 @@ L'hypotension orthostatique devrait être mesurée:
 - À chaque consultation (régulièrement) chez le sujet à risque:
   - **Sujet âgé** (+65 ans)
   - [Diabète](/tags/diabete/)
-  - Maladie neurologie dégénérative: [Parkinson]({{< relref "maladie-parkinson.md" >}}), démence
-  - [Traitement antihypertenseur]({{< relref "hypertension-arterielle.md" >}})
+  - Maladie neurologie dégénérative: [Parkinson]({{% relref "maladie-parkinson.md" %}}), démence
+  - [Traitement antihypertenseur]({{% relref "hypertension-arterielle.md" %}})
   - Autres traitements à risque: psychotropes (neuroleptiques, antidépresseurs), vasodilatateurs (dérivés nitrés, alpha-1 bloquant, IPDE5), anticholinergiques, opiacés, gliflozine
 - Symptômes évocateurs: lipothymie ou perte de connaissance, vertige, chute, fatigue, troubles visuels
 
@@ -82,7 +82,7 @@ Signes et symptômes à rechercher lorsqu'une hypotension orthostatique est susp
 ### Interrogatoire
 
 - Antécédents  
-  [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), [diabète](/tags/diabete/), [maladie de Parkinson]({{< relref "maladie-parkinson.md" >}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/).
+  [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [diabète](/tags/diabete/), [maladie de Parkinson]({{% relref "maladie-parkinson.md" %}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/).
 - **Traitements en cours**  
   Antihypertenseur, diurétique, psychotrope, vasodilatateur, anticholinergique, morphinique, SGLT2.
 - Toxiques
@@ -91,7 +91,7 @@ Signes et symptômes à rechercher lorsqu'une hypotension orthostatique est susp
 - Symptômes évocateurs  
   Malaises, lipothymie ou perte de connaissance, vertige, chute, fatigue, troubles visuels.
 - Symptômes dysautonomiques  
-  Troubles du transit ou mictionnel, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}), troubles de la sudation, troubles visuels, syndrome sec.
+  Troubles du transit ou mictionnel, [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}), troubles de la sudation, troubles visuels, syndrome sec.
 
 ### Examen clinique
 
@@ -101,7 +101,7 @@ Signes et symptômes à rechercher lorsqu'une hypotension orthostatique est susp
 - Examen neurologique
 - Signes de déshydratation  
   {{< clinique/deshydratation >}}.
-- [Dénutrition]({{< relref "denutrition.md" >}})
+- [Dénutrition]({{% relref "denutrition.md" %}})
 - Signes d'anémie  
   {{< clinique/anemie >}}.
 

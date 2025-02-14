@@ -52,7 +52,7 @@ ET au moins 5 épisodes sur la vie entière.
 
 - Troubles du sommeil
 - Altération de la vigilance diurne
-- Anxiété, [dépression]({{< relref "depression.md" >}}) {{%class%}}x 2-10{{%/class%}}
+- Anxiété, [dépression]({{% relref "depression.md" %}}) {{%class%}}x 2-10{{%/class%}}
 - Altération de la qualité de vie
 - Impact socio-économique
 - Enfant: troubles du comportement et irritabilité
@@ -127,15 +127,15 @@ TDAH
 
 - Âge
 - Antécédent familial de SJSR (40%)
-- [Carence martiale]({{< relref "anemie.md" >}})  
+- [Carence martiale]({{% relref "anemie.md" %}})  
   {{%class text-black-secondary %}}Prévalence du SJSR de 25 à 35% si anémie.{{%/class%}}
-- [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})  
-  Aggravation par inhibiteurs calciques, PTH basse, CST bas, [diabète de type 2]({{< relref "diabete-type-2.md" >}}) ({{%class text-black-secondary %}}prévalence 15-68%{{%/class%}})
-- [Hémochromatose]({{< relref "hemochromatose.md" >}})
+- [Insuffisance rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})  
+  Aggravation par inhibiteurs calciques, PTH basse, CST bas, [diabète de type 2]({{% relref "diabete-type-2.md" %}}) ({{%class text-black-secondary %}}prévalence 15-68%{{%/class%}})
+- [Hémochromatose]({{% relref "hemochromatose.md" %}})
 - Pathologie cardiovasculaire (moindre)
-- [Migraine]({{< relref "migraine.md" >}})  
+- [Migraine]({{% relref "migraine.md" %}})  
   {{%class text-black-secondary %}}Prévalence de 9 à 39%.{{%/class%}}
-- [Maladie de Parkinson]({{< relref "maladie-parkinson.md" >}}) traitée  
+- [Maladie de Parkinson]({{% relref "maladie-parkinson.md" %}}) traitée  
   {{%class text-black-secondary %}}Prévalence de 11 à 24%.{{%/class%}}
 - Neuropathie périphérique
 
@@ -146,7 +146,7 @@ TDAH
 - Troubles anxio-dépressifs
 - Mode de vie  
   Rythme veille-sommeil irrégulier, privation chronique de sommeil.
-- [Syndrome d'apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
+- [Syndrome d'apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}})
 - Activité physique inadaptée
 - Consommation excessive de psychostimulants  
   Alcool, café, thé.
@@ -318,12 +318,12 @@ Diagnostics alternatifs à étayer devant une suspicion de syndrome des jambes s
   Douleurs diffuses musculaires/articulaires sans amélioration au mouvement ou aggravation au repos/soirée. EMG.
 - Enfant
   - Douleurs de croissance
-  - [TDAH]({{< relref "trouble-deficit-attention-tdah.md" >}})
+  - [TDAH]({{% relref "trouble-deficit-attention-tdah.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Syndrome des jambes sans repos en pédiatrie" %}}
 
-- Très fréquent en cas de [TDAH]({{< relref "trouble-deficit-attention-tdah.md" >}})
+- Très fréquent en cas de [TDAH]({{% relref "trouble-deficit-attention-tdah.md" %}})
 - Antécédent parental dans 80% des cas
 - Symptômes diurnes à type de troubles attentionnels, hyperactivité ou instabilité motrice
 
@@ -370,7 +370,7 @@ La prise en charge du syndrome des jambes sans repos associe:
 6. Traitement spécifique
     - Réservé au médecin du sommeil
     - Indications: SJS modéré à très sévère ({{< modal-btn modal-score-irls >}}score IRLS{{< /modal-btn >}} ≥ 11) ou impactant la qualité de vie malgré les mesures ci-dessus
-7. Réévaluer anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+7. Réévaluer anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 {{%info%}}
 

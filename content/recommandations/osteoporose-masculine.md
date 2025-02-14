@@ -36,15 +36,15 @@ flowchart = true
 
 ### Prévention pour tous {.typography-overline .mb-2}
 
-{{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, [arrêt du tabac]({{< relref "arret-tabac.md" >}}), activité physique, [vitamine D]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
+{{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, [arrêt du tabac]({{% relref "arret-tabac.md" %}}), activité physique, [vitamine D]({{% relref "vitamine-d.md" %}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
 
-Chapitres liés: [ostéoporose post-ménopausique]({{< relref "osteoporose.md" >}}), [vitamine D]({{< relref "vitamine-d.md" >}})
+Chapitres liés: [ostéoporose post-ménopausique]({{% relref "osteoporose.md" %}}), [vitamine D]({{% relref "vitamine-d.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Ostéoporose masculine
-: Il n'existe pas de définition consensuelle. Il est donc admis d'utiliser la définition féminine de l'ostéoporose (*ISCD 2015*): une ou plusieurs fractures de fragilité osseuse et/ou DMO basse avec T-score ≤ -2,5 en contexte de fragilité osseuse (corticothérapie prolongée, [alcool]({{< relref "sevrage-alcool.md" >}}), hypogonadisme, [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})).
+: Il n'existe pas de définition consensuelle. Il est donc admis d'utiliser la définition féminine de l'ostéoporose (*ISCD 2015*): une ou plusieurs fractures de fragilité osseuse et/ou DMO basse avec T-score ≤ -2,5 en contexte de fragilité osseuse (corticothérapie prolongée, [alcool]({{% relref "sevrage-alcool.md" %}}), hypogonadisme, [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}})).
 : Tous les os peuvent être atteints par une fracture ostéoporotique sauf:  
 crâne, face, vertèbres au-dessus de T4 (tumeur, infection), mains et doigts, avant-pied et orteils (fractures traumatiques ou tumorales).
 : 20-25% des fractures ostéoporotiques surviennent chez l'homme. 20% ont une deuxième fracture dans l'année et ⅓ dans les 2 ans.
@@ -68,7 +68,7 @@ FRAX®
 - Une homme de +50 ans a 1 chance sur 5 d'avoir une fracture ostéoporotique
 - +55 ans avec fracture de l'extrémité supérieure du fémur (FESF): ⅓ morts dans l'année (dont 20% dans les 3 mois en 2008) (*[Drees 2016](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/quel-risque-de-deces-un-apres-une-fracture-du-col-du-femur)*)
 - 90% des FESF surviennent après une chute
-- Après hospitalisation pour fracture, seuls 5% des hommes de +50  ont eu une ostéodensitométrie dans l'année et 5% un traitement anti-ostéoporotique (2012). Toutefois 50% reçoivent du calcium et/ou de la [vitamine D]({{< relref "vitamine-d.md" >}}).
+- Après hospitalisation pour fracture, seuls 5% des hommes de +50  ont eu une ostéodensitométrie dans l'année et 5% un traitement anti-ostéoporotique (2012). Toutefois 50% reçoivent du calcium et/ou de la [vitamine D]({{% relref "vitamine-d.md" %}}).
 
 ### Abréviations
 
@@ -133,7 +133,7 @@ Rechercher les facteurs de risque de fracture chez l'homme +70 ans:
 - État bucco-dentaire
 - Si ≥ 1 réponse au dépistage des chutes, examen pour rechercher un risque de chute si ≥ 1 parmi:  
   Appui monopodal < 5s, marche (> 5s pour 4 m), < 5 levés de chaise sans les mains en 15s.
-- Avant 50 ans: rechercher un [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) (*PNDS Cushing 2022*)
+- Avant 50 ans: rechercher un [syndrome de Cushing]({{% relref "syndrome-cushing.md" %}}) (*PNDS Cushing 2022*)
 
 #### Rappel des drapeaux rouges de la lombalgie
 
@@ -161,15 +161,15 @@ Bilan biologique en cas de fracture de fragilité ou de T-score < -3:
 - ASAT, ALAT, GGT, PAL
 - Calcémie, phosphatémie
 - Albuminémie
-- Ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
-- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
+- Ferritine (voir [hémochromatose]({{% relref "hemochromatose.md" %}}))
+- [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
 - Testostéronémie totale
-- [Vitamine D]({{< relref "vitamine-d.md" >}})
-- Homme avant 50 ans: test de freinage minute (voir [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}))
+- [Vitamine D]({{% relref "vitamine-d.md" %}})
+- Homme avant 50 ans: test de freinage minute (voir [syndrome de Cushing]({{% relref "syndrome-cushing.md" %}}))
 
 > -- *GRIO, SFR 2021*
 
-Selon les anomalies, compléter avec le(s) dosage(s) ciblés: ferritinémie, PTH, TSH, FSH, LH, prolactine, glycémie, calciurie/phosphaturie, tryptase, [anticorps anti-transglutaminase]({{< relref "maladie-coeliaque.md" >}}).
+Selon les anomalies, compléter avec le(s) dosage(s) ciblés: ferritinémie, PTH, TSH, FSH, LH, prolactine, glycémie, calciurie/phosphaturie, tryptase, [anticorps anti-transglutaminase]({{% relref "maladie-coeliaque.md" %}}).
 
 ### Ostéodensitométrie
 
@@ -180,12 +180,12 @@ Indications à l'ostéodensitométrie:
 - Au moins 1 facteur de risque d'ostéoporose parmi:
   - Corticothérapie systémique ≥ 7,5 mg/j d'éq. prednisone ≥ 3 mois consécutifs
   - Hypogonadisme prolongé
-  - [Hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}) évolutive non traitée
+  - [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}) évolutive non traitée
   - Hypercorticisme endogène
   - Hyperparathyroïdie primitive
   - Ostéogenèse imparfaite
   - Chutes répétées
-  - [VIH]({{< relref "vih-sida.md" >}})
+  - [VIH]({{% relref "vih-sida.md" %}})
   - Maladie pulmonaire chronique, BPCO stade > 1
   - Rhumatisme inflammatoire chronique
 - Suivi après 2-3 ans de traitement
@@ -213,16 +213,16 @@ L'avis du spécialiste est privilégié en cas de doute ou de valeurs proches du
 Mesures générales de prise en charge de l'ostéoporose chez l'homme:
 
 - **Traitement non pharmacologique**
-  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et [alcool]({{< relref "sevrage-alcool.md" >}})
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) et [alcool]({{% relref "sevrage-alcool.md" %}})
   - Activité physique régulière en charge (30 min x 5/sem)
-  - Cible en [vitamine D]({{< relref "vitamine-d.md" >}}): 75-150 nmol/L (30-60 ng/mL)  
+  - Cible en [vitamine D]({{% relref "vitamine-d.md" %}}): 75-150 nmol/L (30-60 ng/mL)  
     Sans dépasser 100.000 UI/dose.
   - Apports en calcium: {{< modal-btn modal-calcium-cible >}}1 g/j{{< /modal-btn >}} (*GRIO*), 2-3 produits laitiers/j, apports lactés quotidiens jusqu'à 3 ans
   - Apports protéiniques: 1-1,2 g/kg/j
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Information du patient: maladie, traitements, observance, efficacité, effets indésirables
 - Prévention des chutes  
-  Dépistage (voir *Clinique*), lunettes, chaussage, force, tapis, polymédication, [benzodiazépines]({{< relref "benzodiazepines.md" >}}).
+  Dépistage (voir *Clinique*), lunettes, chaussage, force, tapis, polymédication, [benzodiazépines]({{% relref "benzodiazepines.md" %}}).
 - Suivi au moins annuel  
   Taille, chutes, fragilités, observance.
 

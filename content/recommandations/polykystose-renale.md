@@ -31,7 +31,7 @@ flowchart = true
 - En cas de fièvre sans point d'appel ou de douleurs lombaires: ECBU, scanner abdominal
 - Suivi de la pression artérielle dès l'adolescence et de la créatininémie chez le patient et ses apparentés (proposer une échographie rénale à partir de 18 ans)
 
-Chapitres liés: [insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+Chapitres liés: [insuffisance rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}}), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -67,17 +67,17 @@ PKRAD
 La polykystose rénale est le plus souvent découverte chez l'adulte jeune sur les signes ou symptômes suivants:
 
 - Antécédents familiaux: maladie rénale kystique (arbre généalogique)
-- Antécédents: lithiases urinaires, hématurie, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) précoce
+- Antécédents: lithiases urinaires, hématurie, [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) précoce
 - Traitements en cours, contraception
 - Tabagisme, alcool, cannabis et autres toxiques
 - Activité physique
 - Complications rénales
   - Gros reins
   - Douleurs (lithiase, hémorragie intrakystique), pesanteurs lombaires
-  - [Hématurie macroscopique]({{< relref "hematurie.md" >}}) (rupture de kyste)
+  - [Hématurie macroscopique]({{% relref "hematurie.md" %}}) (rupture de kyste)
   - Colique néphrétique
   - Infection d'un kyste
-  - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
+  - [Insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}})
 - Complications neurologiques: anévrysmes des artères cérébrales (8%, 16% si antécédents familiaux)
 - Incidentalome: reins polykystiques en échographie ou kystes hépatiques
 
@@ -129,11 +129,11 @@ La sensibilité de la recherche des variants PKD1 et PKD2 n'atteignant pas 100 %
 {{% /collapse %}}
 {{%collapse "Traitement de la polykystose rénale" %}}
 
-Les mesures de prise en charge de la polykystose rénale autosomique dominante (PKRAD) sont identiques à celles de la [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}):
+Les mesures de prise en charge de la polykystose rénale autosomique dominante (PKRAD) sont identiques à celles de la [maladie rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}}):
 
 - **Suivi néphrologique spécialisé**
 - **Néphroprotection**  
-  [Sevrage tabagique]({{< relref "arret-tabac.md" >}}) et réduction d'alcool, correction d'un surpoids, activité physique, contrôle tensionnel < 130/80 mmHg et automesures, restriction sodée < 5 g/j, apports hydriques ≥ 2 L/j (voir [IRC]({{< relref "insuffisance-renale-chronique.md" >}})).
+  [Sevrage tabagique]({{% relref "arret-tabac.md" %}}) et réduction d'alcool, correction d'un surpoids, activité physique, contrôle tensionnel < 130/80 mmHg et automesures, restriction sodée < 5 g/j, apports hydriques ≥ 2 L/j (voir [IRC]({{% relref "insuffisance-renale-chronique.md" %}})).
 - Pression artérielle
   - 18-49 ans avec DFG ≥ 60 et PA > 130/85: cible automesure ≤ 110/75 mmHg
   - +50 ans: cible de systolique < 120 mmHg

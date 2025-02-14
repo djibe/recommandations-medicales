@@ -33,9 +33,9 @@ flowchart = true
 {{%collapse "Définition" %}}
 
 Leucémie lymphoïde chronique
-: Hémopathie maligne par prolifération lymphoïde B monoclonale entraînant une infiltration de la moelle, du sang et des ganglions. Elle est classée parmi les [lymphomes]({{< relref "lymphomes-non-hodgkiniens.md" >}}) et n'atteint presque qu'exclusivement le **sujet âgé** avec une prédominance masculine. La mortalité est surtout liée aux **complications infectieuses**.
+: Hémopathie maligne par prolifération lymphoïde B monoclonale entraînant une infiltration de la moelle, du sang et des ganglions. Elle est classée parmi les [lymphomes]({{% relref "lymphomes-non-hodgkiniens.md" %}}) et n'atteint presque qu'exclusivement le **sujet âgé** avec une prédominance masculine. La mortalité est surtout liée aux **complications infectieuses**.
 : La **classification pronostique de Binet** utilisée en France comptabilise l'hémoglobine, les plaquettes et le nombre d'aires ganglionnaires atteintes.
-: Au diagnostic, 70-80 % des patients sont au stade A. La moitié d'entre eux n'aura pas de traitement spécifique avec une [espérance de vie]({{< relref "esperance-vie-age-france.md" >}}) non modifiée.
+: Au diagnostic, 70-80 % des patients sont au stade A. La moitié d'entre eux n'aura pas de traitement spécifique avec une [espérance de vie]({{% relref "esperance-vie-age-france.md" %}}) non modifiée.
 
 ### Épidémiologie de la leucémie lymphoïde chronique en France
 
@@ -70,7 +70,7 @@ LLC
 - **Asymptomatique** le plus souvent
 - Les signes généraux sont rares: fièvre, sueurs nocturnes, AEG
 - **Polyadénopathies** symétriques, fermes et indolores
-- [Splénomégalie]({{< relref "splenomegalie.md" >}})
+- [Splénomégalie]({{% relref "splenomegalie.md" %}})
 - Complications: **infections récidivantes** par hypogammaglobulinémie, cytopénie autoimmune ou insuffisance médullaire.
 
 En cas d'anomalie clinique, réaliser un schéma daté avec les tailles et sites des adénopathies relevées.
@@ -94,7 +94,7 @@ La leucémie lymphoïde chronique (LLC) est le plus souvent découverte fortuite
 
 En cas de diagnostic de LLC confirmé, le bilan doit être complété:
 
-- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}}) (hypogammaglobulinémie)
+- [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}}) (hypogammaglobulinémie)
 - Test de Coombs direct
 - Haptoglobine
 - Bilirubine libre
@@ -113,10 +113,10 @@ Les critères de traitement sont ceux de l'*iwCLL* ({{%lang%}}International Work
 
 Soins complémentaires:
 
-- [ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- [ALD n°30]({{% relref "affection-longue-duree.md" %}})
 - Vaccinations
-  - [Covid-19]({{< relref "covid-19.md" >}})
-  - [Grippe annuelle]({{< relref "grippe.md" >}})
+  - [Covid-19]({{% relref "covid-19.md" %}})
+  - [Grippe annuelle]({{% relref "grippe.md" %}})
   - *Haemophilus influenzae*: ACT-HIB® dose unique
   - {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
 - Surveillance des stades A et B asymptomatiques tous les 6-12 mois

@@ -28,7 +28,7 @@ flowchart = true
 - La chirurgie d'un testicule cryptorchide est réalisée idéalement à partir d'un an
 - Surveillance post-opératoire du testicule pendant un an (risque d'atrophie testiculaire)
 - Réévaluation du garçon à la puberté pour surveiller le développement pubertaire
-- Éducation du patient sur l'auto-palpation pour le dépistage du [cancer du testicule]({{< relref "cancer-testicule.md" >}})
+- Éducation du patient sur l'auto-palpation pour le dépistage du [cancer du testicule]({{% relref "cancer-testicule.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -37,7 +37,7 @@ Cryptorchidie
 : Localisation inaboutie du testicule soit par obstacle à sa descente intra-abdominale, soit par descente incomplète (alors situé à la racine de la bourse ou devant le pubis). Problèmes d'adhérences pouvant le garder piégé.  
 Elle est différente de l'*ectopie testiculaire* où le testicule n'est pas sur le trajet attendu.
 : Évolution: **la moitié descend spontanément sous 6 mois**, ⅔ à 1 an ont migré vers les bourses.
-: Enjeux: hypogonadisme, [infertilité]({{< relref "infertilite-couple.md" >}}) (30-40% si unilatéral à 80% si bilatéral), torsion du cordon spermatique, [cancer du testicule]({{< relref "cancer-testicule.md" >}}) (RR de 30-40).
+: Enjeux: hypogonadisme, [infertilité]({{% relref "infertilite-couple.md" %}}) (30-40% si unilatéral à 80% si bilatéral), torsion du cordon spermatique, [cancer du testicule]({{% relref "cancer-testicule.md" %}}) (RR de 30-40).
 
 Testicule oscillant ou << testicule ascenseur >>
 : Testicule palpé de façon intermittente entre la bourse et la région inguinale.
@@ -91,7 +91,7 @@ Indications au traitement chirurgical d'un enfant cryptorchide:
 
 Surveillance annuelle des **testicules oscillants** (30% nécessiteront une intervention chirurgicale).
 
-À la puberté: apprentissage de l'auto-palpation pour le dépistage du [cancer du testicule]({{< relref "cancer-testicule.md" >}}). Ne pas attendre en cas d'[infertilité]({{< relref "infertilite-couple.md" >}}) à l'âge adulte et surveiller des signes de [déficit en testostérone]({{< relref "andropause-deficit-testosterone.md" >}}).
+À la puberté: apprentissage de l'auto-palpation pour le dépistage du [cancer du testicule]({{% relref "cancer-testicule.md" %}}). Ne pas attendre en cas d'[infertilité]({{% relref "infertilite-couple.md" %}}) à l'âge adulte et surveiller des signes de [déficit en testostérone]({{% relref "andropause-deficit-testosterone.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Information des parents" %}}

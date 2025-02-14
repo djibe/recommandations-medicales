@@ -66,9 +66,9 @@ La survenue d'une hémolyse aiguë peut mettre en jeu le pronostic vital. Néces
   - Malaise
   - Douleurs abdominales et lombaires
   - Hémoglobinurie  
-    [Hématurie]({{< relref "hematurie.md" >}}): urines foncées, rouge << porto >> voire noires.
-  - [Ictère]({{< relref "ictere.md" >}})
-- [Splénomégalie]({{< relref "splenomegalie.md" >}}) en cas d'hémolyse chronique
+    [Hématurie]({{% relref "hematurie.md" %}}): urines foncées, rouge << porto >> voire noires.
+  - [Ictère]({{% relref "ictere.md" %}})
+- [Splénomégalie]({{% relref "splenomegalie.md" %}}) en cas d'hémolyse chronique
 
 Ou chez le nourrisson: ictère néonatal.
 
@@ -146,7 +146,7 @@ Doit être demandée par le médecin.
   Supplémentation en acide folique 5-10 mg/j 1-2 semaines/mois.
 - Supplémentation en fer  
   Uniquement en carence démontrée.
-- Vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) en séjour hors pays de l'ouest
+- Vaccination [hépatite A]({{% relref "hepatite-a.md" %}}) en séjour hors pays de l'ouest
 - Suivi hématologique en déficit de classe 1
 - Don du sang interdit
 - Association de patients  

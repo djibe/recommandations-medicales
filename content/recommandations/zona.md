@@ -26,23 +26,23 @@ todo = "rankok, flowchart, zona en pédiatrie"
 - Les symptômes sont principalement des douleurs localisées avec paresthésies, brûlures et troubles sensitifs du dermatome
 - La prise en charge du zona est simplement symptomatique, sauf indication au traitement antiviral valaciclovir 1 g 3 fois par jour pendant 7 jours avec hydratation si:  
   zona ophtalmique, +50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs intenses en phase aiguë, lésions cutanées graves)
-- Critères d'hospitalisation du zona en urgence: immunodépression, atteinte organique ou [paralysie faciale zostérienne]({{< relref "paralysie-faciale-idiopathique.md" >}})
+- Critères d'hospitalisation du zona en urgence: immunodépression, atteinte organique ou [paralysie faciale zostérienne]({{% relref "paralysie-faciale-idiopathique.md" %}})
 - Vaccination post-exposition (varicelle) après 12 ans chez l'immunocompétent sans antécédent de varicelle en contact avec un cas de zona, après sérologie
 - Vaccination zona préventive des +65 ans par 2 doses de Shingrix espacées de 2 mois
-- En cas de zona avant 50 ans: proposer un bilan avec [PCR VIH]({{< relref "vih-sida.md" >}})
-- Traitement des douleurs post-zostériennes: prise en charge des [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}) locales (glaçage, protection locale voire emplâtres de lidocaïne) ou étendues (clomipramine ou carbamazépine si paroxystique)
+- En cas de zona avant 50 ans: proposer un bilan avec [PCR VIH]({{% relref "vih-sida.md" %}})
+- Traitement des douleurs post-zostériennes: prise en charge des [douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}}) locales (glaçage, protection locale voire emplâtres de lidocaïne) ou étendues (clomipramine ou carbamazépine si paroxystique)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Zona
-: Réactivation du virus [varicelle]({{< relref "varicelle.md" >}})-zona (VZV) dans le ganglion sensitif où il reste quiescent avec apparition de vésicules et douleurs dans le **dermatome** correspondant.
-: Complications liées aux [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}) séquellaires, au pronostic visuel en **zona ophtalmique** et aux formes de l'immunodéprimé.
+: Réactivation du virus [varicelle]({{% relref "varicelle.md" %}})-zona (VZV) dans le ganglion sensitif où il reste quiescent avec apparition de vésicules et douleurs dans le **dermatome** correspondant.
+: Complications liées aux [douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}}) séquellaires, au pronostic visuel en **zona ophtalmique** et aux formes de l'immunodéprimé.
 
 Zona et personne immunodéprimée
 : Intérêt d'éduquer les patients à la reconnaissance des symptômes.  
 Ce sont les principales personnes qui développent des formes compliquée.  
-: **Pathologies pourvoyeuses de zona:** [leucémie aiguë]({{< relref "leucemie-aigue-adulte.md" >}}), [lymphome]({{< relref "lymphomes-non-hodgkiniens.md" >}}) en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, [VIH]({{< relref "vih-sida.md" >}}) (CD4 < 350/mm³ surtout).
+: **Pathologies pourvoyeuses de zona:** [leucémie aiguë]({{% relref "leucemie-aigue-adulte.md" %}}), [lymphome]({{% relref "lymphomes-non-hodgkiniens.md" %}}) en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, [VIH]({{% relref "vih-sida.md" %}}) (CD4 < 350/mm³ surtout).
 
 ### Atteintes du zona selon l'âge
 
@@ -52,7 +52,7 @@ Formes cliniques du zona selon l'âge:
   Zona possible dans les premières années de vie. Rare avant 4 ans et ne présente pas de caractère de gravité.
 - Sujet de moins de 50 ans
   - Localisé et guérison sans séquelles.  
-  - Proposer une **[PCR VIH]({{< relref "vih-sida.md" >}})**
+  - Proposer une **[PCR VIH]({{% relref "vih-sida.md" %}})**
 - Sujet de plus de 50 ans  
   - Incidence max après 75 ans (> 1,4/100)
   - Ne pas rechercher un cancer ou le VIH systématiquement
@@ -138,13 +138,13 @@ Ulcérations pseudo-membraneuses et vésicules de l'hémilangue.
 > Shingrix 2 injections IM espacées de 2 mois.
 {.alert .alert-info}
 
-Double dose chez les +65 immunocompétent (y compris en cas d'antécédents de zona, de Zostavax > 1 an) à M0-M2. Le *GOLD 2022* propose aussi de vacciner en cas de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}).
+Double dose chez les +65 immunocompétent (y compris en cas d'antécédents de zona, de Zostavax > 1 an) à M0-M2. Le *GOLD 2022* propose aussi de vacciner en cas de [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}).
 
 **Contre-indication:** hypersensibilité.
 
 ### Vaccination post-exposition du zona
 
-Vaccination post-exposition: âge ≥ 12 ans immunocompétent sans antécédent de varicelle, en contact avec un cas de [varicelle]({{< relref "varicelle.md" >}}) ou de zona.
+Vaccination post-exposition: âge ≥ 12 ans immunocompétent sans antécédent de varicelle, en contact avec un cas de [varicelle]({{% relref "varicelle.md" %}}) ou de zona.
 
 **Sérologie varicelle en urgence.** La vaccination varicelle doit avoir lieu dans les 3 jours suivant le contact.
 
@@ -222,7 +222,7 @@ Indications à l'avis ophtalmologique en urgence:
 - Immunodépression
 {{%/warning%}}
 
-[Annuaire des urgences ophtalmologiques]({{< relref "urgences-ophtalmologiques.md" >}})
+[Annuaire des urgences ophtalmologiques]({{% relref "urgences-ophtalmologiques.md" %}})
 
 ### Traitement de la paralysie faciale périphérique zostérienne
 
@@ -245,7 +245,7 @@ Douleurs persistantes après la cicatrisation ou plus d'un mois après un zona. 
 
 ### Traitements généraux de douleurs neuropathiques
 
-Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}).
+Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}}).
 
 - Fond douloureux permanent: amitriptyline clomipramine
 - Paroxysmes hyperalgiques: carbamazépine ([Tegretol® ou gén](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61547468&typedoc=R))

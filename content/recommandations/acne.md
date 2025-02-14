@@ -30,7 +30,7 @@ todo = "rankok, gluconate de zinc, outil"
   - Acné inflammatoire: peroxyde de benzoyle 5% x 1/j pendant 4-6 semaines puis entretien 2-3/semaine  
     Acné étendue: ajouter la doxycycline 100 mg/j pendant maximum 3 mois
 - Acné sévère: avis dermatologique (voir *Acné sévère*)
-- Acné déclenchée par une contraception hormonale: substituer par lévonorgestrel seul > norgestimate > autre voire Triafemi (voir [contraception]({{< relref "contraception.md" >}}))
+- Acné déclenchée par une contraception hormonale: substituer par lévonorgestrel seul > norgestimate > autre voire Triafemi (voir [contraception]({{% relref "contraception.md" %}}))
 - Acné pendant la grossesse: Peroxyde de benzoyle 5% gel 1 à 2 applications par jour sur peau propre
 
 {{%/article-summary%}}
@@ -53,13 +53,13 @@ Acné fulminante
 
 ### Diagnostic différentiel d'une acné
 
-- [Rosacée papulo-pustuleuse]({{< relref "rosacee.md" >}})  
+- [Rosacée papulo-pustuleuse]({{% relref "rosacee.md" %}})  
   Flushs du visage, conjonctivite, télangiectasies, symétrie des lésions et absence de comédons.
 - Dermatite péri-orale ou folliculite infectieuse  
   Absence de comédons.
 - Folliculite médicamenteuse  
   Début brutal, papulo-pustules sans comédons et régression à l'arrêt du traitement (androgènes, progestatifs, corticoïdes, antiépileptiques ...).
-- [Syphilis]({{< relref "syphilis.md" >}})  
+- [Syphilis]({{% relref "syphilis.md" %}})  
   Évoquer en âge atypique, notion de chancre.
 - Sarcoïdose
 
@@ -120,7 +120,7 @@ Les soins locaux sont systématiques pour la prise en charge de l'acné:
 - Suivie d'application quotidienne de **crème hydratante** adaptée à la peau acnéique
 - **Photoprotection** en cas d'exposition solaire
 - L'utilisation de maquillages adaptés à la peau acnéique est possible
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - Adaptation des facteurs aggravants l'acné
   - Dermocorticoïdes et corticoïdes
   - Hormones (androgènes, progestatifs)
@@ -232,7 +232,7 @@ Antibiothérapie à utiliser en association avec:
 
 ### Acné et contraception hormonale
 
-Acné habituelle avec COP de 2^e^ génération (voir la [fiche contraception]({{< relref "contraception.md" >}})).
+Acné habituelle avec COP de 2^e^ génération (voir la [fiche contraception]({{% relref "contraception.md" %}})).
 
 Proposer un changement de contraception:
 
@@ -269,14 +269,14 @@ Du fait du caractère tératogène de l'isotrétinoïne, la prescription est enc
 - [Brochure d'information (PDF)](https://ansm.sante.fr/uploads/2020/12/30/isotretinoine-brochurepatient-e-s-v1-2018-12.pdf)
 - [Contrat de soins (PDF)](https://ansm.sante.fr/uploads/2020/12/30/isotretinoine-accorddesoin-v1-2018-12.PDF)
 - [Courrier de liaison dermatologue - médecin généraliste (PDF)](https://ansm.sante.fr/uploads/2020/12/30/isotretinoine-courrierliaisonmedecintraitant-v1-2018-12.PDF)
-- [Contraception efficace]({{< relref "contraception.md" >}})
+- [Contraception efficace]({{% relref "contraception.md" %}})
   - DIU ou implant progestatif ou pilule + préservatif
-  - Par pilule: prescrire systématiquement la [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) et des préservatifs remboursés (Eden, Sortez couverts)
+  - Par pilule: prescrire systématiquement la [contraception d'urgence]({{% relref "contraception-urgence.md" %}}) et des préservatifs remboursés (Eden, Sortez couverts)
   - Débutée ≥ 1 mois avant le traitement
 - [Carnet de suivi patient sous isotrétinoïde (2019, PDF)](https://ansm.sante.fr/uploads/2020/12/30/isotretinoine-cartepatiente-v1-2018-12.pdf)
 - Consultation mensuelle de renouvellement limité à 30 jours
 - Test de grossesse mensuel 3 jours avant l'initiation et chaque renouvellement mensuel. Date et résultats reportés dans le carnet de suivi
-- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 - La délivrance en pharmacie doit avoir lieu dans les 7 jours suivants
 - Arrêt du traitement
   - Contraception efficace poursuivie ≥ 1 mois après

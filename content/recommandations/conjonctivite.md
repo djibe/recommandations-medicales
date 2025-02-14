@@ -90,7 +90,7 @@ Chémosis
 - Otoscopie, examen pharyngé
 
 > [!WARNING]
-> Consultation ophtalmologique urgente en cas d'œil rouge et douloureux ([Urgences ophtalmologiques]({{< relref "urgences-ophtalmologiques.md" >}})).
+> Consultation ophtalmologique urgente en cas d'œil rouge et douloureux ([Urgences ophtalmologiques]({{% relref "urgences-ophtalmologiques.md" %}})).
 
 {{% /collapse %}}
 {{%collapse "Formes cliniques de conjonctivite selon l'âge" %}}
@@ -168,7 +168,7 @@ Le traitement antibiotique ets systématique et la consultation ophtalmologique 
 - [Tobramycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69240211&typedoc=R) collyre 1 gte x 4/j pendant 7-10 jours
 - [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69326767&typedoc=R) collyre 1 goutte matin et soir pendant 3 jours
 
-Voir [otite moyenne]({{< relref "otite-moyenne-aigue.md" >}}) pour le traitement d'un syndrome otite-conjonctivite.
+Voir [otite moyenne]({{% relref "otite-moyenne-aigue.md" %}}) pour le traitement d'un syndrome otite-conjonctivite.
 
 Conjonctivites virales (adénovirus, entérovirus, herpès HSV1 possible): larmoiement abondant, prurit, brûlure, Photophobie et sensation de corps étranger marqués rapidement bilatéral. Sécrétions claires voire hémorragies sous-conjonctivale. Adénopathie prétragienne possible.Contagiosité.
 Fébricule, rhinopharyngite ou troubles du transit les jours précédents.

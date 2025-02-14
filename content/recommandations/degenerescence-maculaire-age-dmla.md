@@ -89,7 +89,7 @@ Dépistage régulier des personnes de **plus de 50 ans avec facteur de risque de
 {{%collapse "Clinique" %}}
 
 > [!WARNING]
-> Une baisse d'acuité visuelle chez un patient avec des drusens connus (maculopathie liée à l'âge) est une [urgence ophtalmologique]({{< relref "urgences-ophtalmologiques.md" >}}) (sous 48 heures). -- *COUF*
+> Une baisse d'acuité visuelle chez un patient avec des drusens connus (maculopathie liée à l'âge) est une [urgence ophtalmologique]({{% relref "urgences-ophtalmologiques.md" %}}) (sous 48 heures). -- *COUF*
 
 ### Interrogatoire
 
@@ -106,7 +106,7 @@ Dépistage régulier des personnes de **plus de 50 ans avec facteur de risque de
   - Difficultés de lecture malgré une correction adaptée
   - Sensation d'éblouissement
   - Dyschromatopsie
-- Complications: handicap et dépendance, chutes ([ostéoporose]({{< relref "osteoporose.md" >}}))
+- Complications: handicap et dépendance, chutes ([ostéoporose]({{% relref "osteoporose.md" %}}))
 
 > [!WARNING]
 > La présence d'un de ces symptômes après 50 ans nécessite une examen ophtalmologique dans la semaine. (*HAS*)
@@ -129,13 +129,13 @@ L'ophtalmologue réalise les tests essentiels (**fond d'œil**, **tomographie en
 
 La prise en charge de la DMLA est pluridisciplinaire:
 
-- [ALD 31]({{< relref "affection-longue-duree.md" >}}) possible
+- [ALD 31]({{% relref "affection-longue-duree.md" %}}) possible
 - Suivi ophtalmologique au moins annuel
 - Mesures hygiéno-diététiques
-  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Opticien spécialisé en basse vision, aides visuelles
-- [Rééducation orthoptique]({{< relref "bilan-orthoptique.md" >}})
+- [Rééducation orthoptique]({{% relref "bilan-orthoptique.md" %}})
 - Ergothérapeute
 - Médecine du travail
 - Dossier MDPH
@@ -170,7 +170,7 @@ Informations à expliquer au patient sur la dégénérescence maculaire liée à
   - Consulter en urgence en cas de suspicion d'endophtalmie: douleurs oculaires ou gêne accrue, aggravation des rougeurs oculaires, vision trouble ou diminuée, sensibilité accrue à la lumière ou augmentation du nombre de corps flottants
 - Donner la liste des Associations de patients (voir *Traitement*)
 
-Chapitre lié: [les services d'urgences ophtalmologiques]({{< relref "urgences-ophtalmologiques.md" >}})
+Chapitre lié: [les services d'urgences ophtalmologiques]({{% relref "urgences-ophtalmologiques.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la DMLA" "show" %}}

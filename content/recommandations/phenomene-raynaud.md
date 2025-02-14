@@ -78,13 +78,13 @@ Le phénomène de Raynaud est un diagnostic d'interrogatoire: acrosyndrome const
 ### Interrogatoire
 
 - Antécédents personnels  
-  [Syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}}), maladies auto-immunes, syndrome du défilé thoracique, thromboses.
+  [Syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}}), maladies auto-immunes, syndrome du défilé thoracique, thromboses.
 - Antécédents familiaux  
   Phénomène de Raynaud, maladies auto-immunes.
 - Traitements  
-  Bêtabloquants (dont oculaire) et œstrogènes, nicotine, dérivés ergot, cytotoxiques, [triptans]({{< relref "migraine.md" >}}), interférons, clonidine.
+  Bêtabloquants (dont oculaire) et œstrogènes, nicotine, dérivés ergot, cytotoxiques, [triptans]({{% relref "migraine.md" %}}), interférons, clonidine.
 - Toxiques  
-  [Tabac]({{< relref "arret-tabac.md" >}}), cannabis, cocaïne.
+  [Tabac]({{% relref "arret-tabac.md" %}}), cannabis, cocaïne.
 - Profession et activités  
   Exposition aux vibrations, mouvements répétitifs, karaté, handball.
 - Symptômes du syndrome de Raynaud
@@ -116,10 +116,10 @@ Recherche une cause secondaire au phénomène de Raynaud:
     - Abolition des pouls, TVS/TVP, ischémies hyperalgiques de l'hallux
 1. Syndrome de Gougerot-Sjögren
 1. Lupus
-1. [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}})
+1. [Polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}})
 1. Cryoglobulinémie  
   Ischémie digitale, purpura, neuropathie périphérique, atteinte rénale.
-1. [Syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}}) ou pathologie cervico-thoracique  
+1. [Syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}}) ou pathologie cervico-thoracique  
   Examen neurologique des membres supérieurs.
 1. Vasculaire  
   Souvent homme fumeur avec caractère unilatéral ou asymétrique. Pouls et souffle sous-clavier.
@@ -166,7 +166,7 @@ Autres diagnostics à évoquer devant un acrosyndrome:
 - Engelures  
   Temps froid et humide, terrain familial et féminin, évoluant sur quelques semaines avec poussées successives de papules violacées ± œdémateuses, douloureuses ou prurigineuses en face dorsale des doigts/orteils.
 - Algodystrophie
-- [Syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}})
+- [Syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}})
 - Syndrome du défilé thoracique (compression nerveuse)
 - Sténose artérielle du membre supérieur
 
@@ -184,7 +184,7 @@ Si le bilan du syndrome de Raynaud est négatif: pas d'avis spécialisé sauf mo
   Par l'angiologue: recherche une micro-angiopathie spécifique débutante de sclérodermie
 - ± NFS, VS, CRP
 - ± [TSH](/tags/tsh/)
-- ± [Facteur rhumatoïde (FR)]({{< relref "polyarthrite-rhumatoide.md" >}})
+- ± [Facteur rhumatoïde (FR)]({{% relref "polyarthrite-rhumatoide.md" %}})
 
 > -- *Filière Maladies rares*, *SFMV* et *COFER*
 
@@ -215,7 +215,7 @@ En cas de signes de maladie systémique, ajouter:
 Mesures générales de la prise en charge du syndrome de Raynaud:
 
 - Mesures d'hygiène pour limiter les crises
-  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
   - Arrêt des médicaments vasoconstricteurs  
     Déclaration à la pharmacovigilance.
   - Lutte contre le froid et l'humidité  
@@ -267,6 +267,6 @@ Bilan systématique du syndrome de Raynaud:
 - Capillaroscopie
 - ± NFS, VS, CRP
 - ± [TSH](/tags/tsh/)
-- ± [Facteur rhumatoïde (FR)]({{< relref "polyarthrite-rhumatoide.md" >}})
+- ± [Facteur rhumatoïde (FR)]({{% relref "polyarthrite-rhumatoide.md" %}})
 
 {{% /modele %}}

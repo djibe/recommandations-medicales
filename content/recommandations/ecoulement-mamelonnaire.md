@@ -28,13 +28,13 @@ todo = "galactorrhée"
 - Examen clinique exhaustif de tout écoulement mamelonnaire
 - Bilan d'un écoulement du sein unilatéral: mammographie et échographie, adresser au spécialiste gynécologue avec les résultats
 
-Chapitre lié: [cancer du sein]({{< relref "cancer-sein.md" >}})
+Chapitre lié: [cancer du sein]({{% relref "cancer-sein.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Écoulement mamelonnaire (EM)
-: Extériorisation de liquide par un ou deux mamelons. Il peut être unipore ou de plusieurs pores et avoir une couleur ou aspect variable. Il est spontané ou provoqué mais survient toujours en dehors de l'[allaitement]({{< relref "allaitement.md" >}}) (jusqu'à 1 an) et du [post-partum]({{< relref "post-partum.md" >}}).
+: Extériorisation de liquide par un ou deux mamelons. Il peut être unipore ou de plusieurs pores et avoir une couleur ou aspect variable. Il est spontané ou provoqué mais survient toujours en dehors de l'[allaitement]({{% relref "allaitement.md" %}}) (jusqu'à 1 an) et du [post-partum]({{% relref "post-partum.md" %}}).
 
 Galactorrhée
 : Une galactorrhée (écoulement de lait) est physiologique pendant ou après la grossesse et jusqu'à 1 an après la fin de l'allaitement.
@@ -48,13 +48,13 @@ Pathologies à l'origine d'un écoulement mamelonnaire:
 
 - Endocrinologique
   - Adénome pituitaire
-  - [Hypothyroïdie sévère]({{< relref "hypothyroidie.md" >}})
-  - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) ou hépatique sévère
+  - [Hypothyroïdie sévère]({{% relref "hypothyroidie.md" %}})
+  - [Insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}) ou hépatique sévère
   - Production ectopique de prolactine (carcinome bronchogénique)
   - Pathologie hypothalamique
 - Tumeur du sein
   - Papillomes intracanalaires, ectasie canalaire (80% des EM colorés)
-  - [Carcinome canalaire]({{< relref "cancer-sein.md" >}})  
+  - [Carcinome canalaire]({{% relref "cancer-sein.md" %}})  
   Le risque de malignité augmente avec l'âge (+50 ans).
 
 ### Abréviations
@@ -80,7 +80,7 @@ PRL
   Grossesse, allaitement.
 - Antécédents familiaux sénologiques, endocriniens et génétiques
 - Traitements en cours  
-  [Contraception]({{< relref "contraception.md" >}}) ou hormonal, antidépresseur, neuroleptique, anti-H2, anti-émétique, antihypertenseur.
+  [Contraception]({{% relref "contraception.md" %}}) ou hormonal, antidépresseur, neuroleptique, anti-H2, anti-émétique, antihypertenseur.
 - Toxiques  
   Amphétamine, marijuana, caféine en excès.
 - Menstruations

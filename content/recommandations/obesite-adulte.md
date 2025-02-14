@@ -171,7 +171,7 @@ TCA
 
 ### Interrogatoire
 
-- Antécédents (dont [TDAH]({{< relref "trouble-deficit-attention-tdah.md" >}}), psychiatriques)
+- Antécédents (dont [TDAH]({{% relref "trouble-deficit-attention-tdah.md" %}}), psychiatriques)
 - Facteurs de risque cardiovasculaire
 - Traitements en cours (neuroleptiques, antiépileptiques, corticoïdes, contraception)
 - Histoire pondérale
@@ -186,16 +186,16 @@ TCA
   - Tabous alimentaires, fausses croyances, sources de frustration et de désinhibition
 - Niveau d'activité physique et sédentarité: [score GPAQ](https://www.mangerbouger.fr/bouger-plus/test-de-niveau-d-activite-physique-et-de-sedentarite-des-adultes)
 - Contexte psychopathologique  
-  Anxiété et [dépression]({{< relref "depression.md" >}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}), image du corps, estime de soi, traumatismes/agressions, addictions.
+  Anxiété et [dépression]({{% relref "depression.md" %}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}), image du corps, estime de soi, traumatismes/agressions, addictions.
 - Environnement social, familial, professionnel, financier, rythmes décalés
 - Retentissement sur la qualité de vie personnelle ou professionnelle
 - Comorbidités
-  - Quantité de sommeil et {{< modal-btn modal-saos >}}dépister des apnées du sommeil{{< /modal-btn >}} ([SAHOS]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), systématique à partir de 35 d'IMC)
-  - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
-  - [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}})  
-    Cycles irréguliers, hyperandrogénie ([hirsutisme]({{< relref "hirsutisme.md" >}}), [alopécie]({{< relref "alopecie.md" >}}), [acné]({{< relref "acne.md" >}})), acanthosis nigricans.
+  - Quantité de sommeil et {{< modal-btn modal-saos >}}dépister des apnées du sommeil{{< /modal-btn >}} ([SAHOS]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), systématique à partir de 35 d'IMC)
+  - [Reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}})
+  - [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}})  
+    Cycles irréguliers, hyperandrogénie ([hirsutisme]({{% relref "hirsutisme.md" %}}), [alopécie]({{% relref "alopecie.md" %}}), [acné]({{% relref "acne.md" %}})), acanthosis nigricans.
 - Évaluation de la motivation aux changements
-- Handicap et autonomie ([ADL](http://medicalcul.free.fr/adlkatz.html), IADL), [gonarthrose]({{< relref "gonarthrose.md" >}})
+- Handicap et autonomie ([ADL](http://medicalcul.free.fr/adlkatz.html), IADL), [gonarthrose]({{% relref "gonarthrose.md" %}})
 - Qualité de vie (EuroQoL-5D, SF-12)
 - Attentes et préférences, priorités, projets
 
@@ -208,11 +208,11 @@ TCA
 - Palpation thyroïdienne
 - Évaluation du risque cardiovasculaire: {{< scores/heartscore >}}
 - Rhumatologique: rachis, genoux, pieds
-- Cutané: [intertrigo]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
-- [Dénutrition]({{< relref "denutrition.md" >}}) et sarcopénie
+- Cutané: [intertrigo]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
+- [Dénutrition]({{% relref "denutrition.md" %}}) et sarcopénie
 - Signes d'obésité secondaire
-  - Signes spécifiques d'un [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}): obésité faciotronculaire avec amyotrophie proximale, signes cutanés (fragilité cutanée, ecchymoses, vergetures pourpres), hirsutisme, acanthosis nigricans (*ENDO 2018*)
-  - [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
+  - Signes spécifiques d'un [syndrome de Cushing]({{% relref "syndrome-cushing.md" %}}): obésité faciotronculaire avec amyotrophie proximale, signes cutanés (fragilité cutanée, ecchymoses, vergetures pourpres), hirsutisme, acanthosis nigricans (*ENDO 2018*)
+  - [Hypothyroïdie]({{% relref "hypothyroidie.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -238,32 +238,32 @@ Complications à dépister chez un adulte en obésité.
 {{< table title="Rythme de dépistage des complications chez l'adulte en situation d'obésité. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
 | Appareil                        | Soins                                                                                    | Source              |
 |---------------------------------|------------------------------------------------------------------------------------------|---------------------|
-| [Boulimie hyperphagique]({{< relref "boulimie-hyperphagie.md" >}}) | Dépister les TCA avec {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} | HAS 2019 |
-| [Cancer colorectal]({{< relref "cancer-colorectal.md" >}}) | Dépistage organisé                                            | INCa 2022           |
-| [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) | Échographie sus-pubienne et endovaginale si métrorragies post-ménopausiques | ACOG 2020 |
-| [Cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}}) | Échographie sus-pubienne et endovaginale si symptômes (post-ménopausiques ++) | INCa 2020 |
-| [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) | Scanner AP injecté si symptômes                                | INCa 2020           |
-| [Cancer du sein]({{< relref "cancer-sein.md" >}}) | Dépistage organisé                                                     | INCa 2022           |
-| [Contraception œstroprogestative]({{< relref "contraception.md" >}}) | En l'absence d'autre FRCV                           | CNGOF 2018          |
-| [Covid-19]({{< relref "covid-19.md" >}}) | Antiviral en urgence si infection Covid-19                                      | HAS 2023            |
+| [Boulimie hyperphagique]({{% relref "boulimie-hyperphagie.md" %}}) | Dépister les TCA avec {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} | HAS 2019 |
+| [Cancer colorectal]({{% relref "cancer-colorectal.md" %}}) | Dépistage organisé                                            | INCa 2022           |
+| [Cancer de l'endomètre]({{% relref "cancer-endometre.md" %}}) | Échographie sus-pubienne et endovaginale si métrorragies post-ménopausiques | ACOG 2020 |
+| [Cancer de l'ovaire]({{% relref "cancer-ovaire.md" %}}) | Échographie sus-pubienne et endovaginale si symptômes (post-ménopausiques ++) | INCa 2020 |
+| [Cancer du pancréas]({{% relref "cancer-pancreas.md" %}}) | Scanner AP injecté si symptômes                                | INCa 2020           |
+| [Cancer du sein]({{% relref "cancer-sein.md" %}}) | Dépistage organisé                                                     | INCa 2022           |
+| [Contraception œstroprogestative]({{% relref "contraception.md" %}}) | En l'absence d'autre FRCV                           | CNGOF 2018          |
+| [Covid-19]({{% relref "covid-19.md" %}}) | Antiviral en urgence si infection Covid-19                                      | HAS 2023            |
 | Dentaire                        | Suivi annuel                                                                             | HAS 2023            |
-| [Diabète type 2]({{< relref "diabete-type-2.md" >}}) | Dépistage par glycémie à jeun tous les 1-3 ans                      | HAS 2023            |
-| [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}}) | Dépistage régulier après 50 ans ou si symptômes            | HAS 2022 DMLA       |
+| [Diabète type 2]({{% relref "diabete-type-2.md" %}}) | Dépistage par glycémie à jeun tous les 1-3 ans                      | HAS 2023            |
+| [DMLA]({{% relref "degenerescence-maculaire-age-dmla.md" %}}) | Dépistage régulier après 50 ans ou si symptômes            | HAS 2022 DMLA       |
 | Dyslipidémie                    | Cholestérol total, HDL, LDL, triglycérides                                               | ESC/ESH 2021        |
 | EFR                             | Indications: IMC ≥ 30 avec dyspnée NYHA 3-4, IMC ≥ 35 et SAHOS, IMC ≥ 40                 | HAS 2023            |
 | Gaz du sang                     | Indications: IMC ≥ 35, SpO~2~ &lt; 94% ou CPT < 85%                                      | HAS 2023            |
-| [Grossesse]({{< relref "grossesse.md" >}}) | Prise de poids limitée à 5-9 kg                                               | SFD 2022            |
-| [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) | Mesure avec brassard adapté tous les 1 à 3 ans    | ESC/ESH 2021        |
-| [Maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, DFG et <abbr title="Rapport albuminurie/créatininurie">RAC</abbr> min. tous les 3 ans | HAS 2023 |
+| [Grossesse]({{% relref "grossesse.md" %}}) | Prise de poids limitée à 5-9 kg                                               | SFD 2022            |
+| [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) | Mesure avec brassard adapté tous les 1 à 3 ans    | ESC/ESH 2021        |
+| [Maladie rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}}) | Créatininémie, DFG et <abbr title="Rapport albuminurie/créatininurie">RAC</abbr> min. tous les 3 ans | HAS 2023 |
 | Micronutriments                 | Dosage si: chirurgie bariatrique, amaigrissement massif, symptômes carentiels            | HAS 2022            |
 | Podologique                     | Haut risque d'atteinte podologique                                                       | HAS 2020            |
 | Risque cardiovasculaire         | {{< scores/heartscore >}} tous les 5 ans à partir de 40 ans (sauf {{< modal-btn modal-rcv >}}maladie CV, diabète{{< /modal-btn >}}) ou LIFE-CVD avant | ESC 2021 |
-| [Stéatopathie métabolique]({{< relref "steatose-hepatique-et-nash.md" >}}) | Suspecter si cytolyse, [hyperferritinémie]({{< relref "hyperferritinemie.md" >}}) ou insulinorésistance<br>et dépister par échographie abdominale ou [score FLI](https://www.mdcalc.com/calc/10001/fatty-liver-index) tous les 3-5 ans | HAS 2022 |
-| [Syndrome d'apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) | Polygraphie si IMC ≥ 35 ou {{< modal-btn modal-saos >}}signes évocateurs{{< /modal-btn >}} | HAS 2023          |
-| [Vaccin grippe]({{< relref "grippe.md" >}}) | Annuel si IMC ≥ 40 ou +65 ans                                                            | Calendrier 2023     |
+| [Stéatopathie métabolique]({{% relref "steatose-hepatique-et-nash.md" %}}) | Suspecter si cytolyse, [hyperferritinémie]({{% relref "hyperferritinemie.md" %}}) ou insulinorésistance<br>et dépister par échographie abdominale ou [score FLI](https://www.mdcalc.com/calc/10001/fatty-liver-index) tous les 3-5 ans | HAS 2022 |
+| [Syndrome d'apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) | Polygraphie si IMC ≥ 35 ou {{< modal-btn modal-saos >}}signes évocateurs{{< /modal-btn >}} | HAS 2023          |
+| [Vaccin grippe]({{% relref "grippe.md" %}}) | Annuel si IMC ≥ 40 ou +65 ans                                                            | Calendrier 2023     |
 {{< /table >}}
 
-Autres complications de l'obésité: [hyperuricémie et goutte]({{< relref "goutte.md" >}}), [maladies cardiovasculaires](/tags/risque-cardiovasculaire/), [thrombose veineuse profonde]({{< relref "thrombose-veineuse-profonde.md" >}}), insuffisance veineuse, lithiases biliaires, protéinurie, HTIC, dépression.
+Autres complications de l'obésité: [hyperuricémie et goutte]({{% relref "goutte.md" %}}), [maladies cardiovasculaires](/tags/risque-cardiovasculaire/), [thrombose veineuse profonde]({{% relref "thrombose-veineuse-profonde.md" %}}), insuffisance veineuse, lithiases biliaires, protéinurie, HTIC, dépression.
 
 {{% /collapse %}}
 {{%collapse "Niveau adapté de prise en charge et chirurgie bariatrique" %}}
@@ -285,12 +285,12 @@ Prise en charge par un centre spécialisé de l'obésité (CSO, [annuaire PDF](h
 
 IMC de 35 à 49 kg/m² et au moins un parmi:
 
-- Aggravation d'une maladie chronique ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), maladie de système ...)
+- Aggravation d'une maladie chronique ([BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), maladie de système ...)
 - Périmètre de marche de 100 à 500 mètres
 - Pathologie psychiatrique sévère
-- Obésité secondaire ([hypercorticisme]({{< relref "syndrome-cushing.md" >}}), [acromégalie]({{< relref "acromegalie.md" >}}) ...)
+- Obésité secondaire ([hypercorticisme]({{% relref "syndrome-cushing.md" %}}), [acromégalie]({{% relref "acromegalie.md" %}}) ...)
 - Tumeur cérébrale
-- [Hyperphagie boulimique]({{< relref "boulimie-hyperphagie.md" >}})
+- [Hyperphagie boulimique]({{% relref "boulimie-hyperphagie.md" %}})
 - Échec de niveau 2
 
 ### Indications à une prise en charge de niveau 2 de l'obésité
@@ -298,14 +298,14 @@ IMC de 35 à 49 kg/m² et au moins un parmi:
 Prise en charge par un nutritionniste pour un IMC de 35 à 49 kg/m² et au moins un parmi:
 
 - Pathologie cardiovasculaire déséquilibrée  
-  [HTA résistante]({{< relref "hypertension-arterielle.md" >}}), diabète déséquilibré, [NASH]({{< relref "steatose-hepatique-et-nash.md" >}}), [SAHOS sévère]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}).
+  [HTA résistante]({{% relref "hypertension-arterielle.md" %}}), diabète déséquilibré, [NASH]({{% relref "steatose-hepatique-et-nash.md" %}}), [SAHOS sévère]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}).
 - Aggravation d'une maladie chronique sans risque majeur
-- [Infertilité]({{< relref "infertilite-couple.md" >}})
-- [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}})
+- [Infertilité]({{% relref "infertilite-couple.md" %}})
+- [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}})
 - Impact marqué sur la qualité de vie et sur la santé
 - Pathologie psychiatrique avec impact pondéral ou comportemental
-- Facteur aggravant: douleurs chroniques ([fibromyalgie]({{< relref "fibromyalgie.md" >}})), iatrogénie
-- [Accès de boulimie]({{< relref "boulimie-hyperphagie.md" >}}) épisodiques
+- Facteur aggravant: douleurs chroniques ([fibromyalgie]({{% relref "fibromyalgie.md" %}})), iatrogénie
+- [Accès de boulimie]({{% relref "boulimie-hyperphagie.md" %}}) épisodiques
 - Obésité persistante depuis l'enfance
 - Au moins 2 épisodes de rebond pondéral
 - Grossesse après chirurgie bariatrique
@@ -324,7 +324,7 @@ Les indications à une chirurgie bariatrique avec conditions sont:
 
 1. IMC ≥ 40 kg/m²  
   ou IMC ≥ 35 avec au moins une comorbidité pouvant s'améliorer après la chirurgie (ex: HTA, SAHOS et autres troubles respiratoires sévères, diabète de type 2, maladies ostéoarticulaires invalidantes, stéato-hépatite non alcoolique)
-1. IMC 30-35 avec [diabète type 2]({{< relref "diabete-type-2.md" >}}) non contrôlé malgré suivi pluridisciplinaire pendant 12 mois (*HAS 2022*). Au cas par cas selon *SFD 2023*.
+1. IMC 30-35 avec [diabète type 2]({{% relref "diabete-type-2.md" %}}) non contrôlé malgré suivi pluridisciplinaire pendant 12 mois (*HAS 2022*). Au cas par cas selon *SFD 2023*.
 2. Échec d'un traitement médical, nutritionnel, diététique et psychothérapeutique bien conduit pendant 6 à 12 mois, en l'absence de perte de poids suffisante ou en l'absence de maintien de la perte de poids
 3. Patient bien informé
 4. Évaluation et prise en charge préopératoires pluridisciplinaires pendant plusieurs mois
@@ -378,7 +378,7 @@ La prise en charge de l'obésité associe:
 - Autres intervenants: psychologue, psychiatre, médecin du travail, travailleur social
 - Associations de patients: [Collectif National des Associations d'Obèses (CNAO)](https://cnao.fr)
 - Adaptation des doses d'antibiotiques: [AbxBMI](https://abxbmi.com)
-- Si Covid-19: [antiviral]({{< relref "covid-19.md" >}}) en urgence
+- Si Covid-19: [antiviral]({{% relref "covid-19.md" %}}) en urgence
 
 > [!WARNING]
 > << Les régimes déséquilibrés ou très restrictifs sont déconseillés >>. -- *HAS 2022* | < 1200 kcal/j ne sont pas conseillés. -- *CEEDMM*
@@ -388,7 +388,7 @@ La prise en charge de l'obésité associe:
 - Mesures au moins annuelles (IMC, tour de taille)
 - Adaptations alimentaires (sensations, troubles)
 - Bilan des complications (voir Dépistage des complications)
-- Si chirurgie: signes carentiels (neurologiques), de dénutrition, supplémentation multivitamines, [calcium]({{< relref "apports-calcium.md" >}}), [vitamine D]({{< relref "vitamine-d.md" >}}) et B12
+- Si chirurgie: signes carentiels (neurologiques), de dénutrition, supplémentation multivitamines, [calcium]({{% relref "apports-calcium.md" %}}), [vitamine D]({{% relref "vitamine-d.md" %}}) et B12
 
 ### Indication à la prise en charge de l'obésité en SSR
 

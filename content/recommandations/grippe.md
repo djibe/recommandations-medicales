@@ -40,11 +40,11 @@ Maladie cardiovasculaire, risque d'infarctus du myocarde multiplié par 6-10 dan
 
 ### Complications de la grippe saisonnière
 
-- [Sinusite]({{< relref "sinusite.md" >}})
-- [Otite moyenne aiguë]({{< relref "otite-moyenne-aigue.md" >}})
+- [Sinusite]({{% relref "sinusite.md" %}})
+- [Otite moyenne aiguë]({{% relref "otite-moyenne-aigue.md" %}})
 - Bronchite aiguë
-- [Pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}}) (grippale, pneumocoque, staphylocoque doré ou *Haemophilus*)
-- Extra-pulmonaire: myocardite, [péricardite]({{< relref "pericardite-aigue.md" >}}), encéphalite
+- [Pneumonie]({{% relref "pneumonie-aigue-communautaire.md" %}}) (grippale, pneumocoque, staphylocoque doré ou *Haemophilus*)
+- Extra-pulmonaire: myocardite, [péricardite]({{% relref "pericardite-aigue.md" %}}), encéphalite
 - Décompensation d'une comorbidité
 
 ### Épidémiologie de la grippe en France
@@ -66,14 +66,14 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 
 - **+65 ans**
 - **Femmes enceintes**
-- Diabètes de [type 1]({{< relref "diabete-type-1.md" >}}) et de [type 2]({{< relref "diabete-type-2.md" >}})
-- [Obésité morbide]({{< relref "obesite-adulte.md" >}}) (IMC ≥ 40 kg/m²)
+- Diabètes de [type 1]({{% relref "diabete-type-1.md" %}}) et de [type 2]({{% relref "diabete-type-2.md" %}})
+- [Obésité morbide]({{% relref "obesite-adulte.md" %}}) (IMC ≥ 40 kg/m²)
 - Maladies respiratoires
   - Insuffisances respiratoires chroniques obstructives ou restrictives
-  - [Asthme]({{< relref "asthme.md" >}}), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), emphysème, dilatation des bronches
+  - [Asthme]({{% relref "asthme.md" %}}), [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), emphysème, dilatation des bronches
   - Mucoviscidose, silicose
 - Maladie cardiovasculaire  
-  Cardiopathies congénitale, insuffisance cardiaque, valvulopathie grave, trouble du rythme cardiaque avec traitement, coronaropathie, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), IDM, [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (SFMV 2020)
+  Cardiopathies congénitale, insuffisance cardiaque, valvulopathie grave, trouble du rythme cardiaque avec traitement, coronaropathie, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), IDM, [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) (SFMV 2020)
 - Maladies neurologiques et neuromusculaires  
   Formes graves des affections neurologiques et musculaires (dont myopathie, poliomyélite, myasthénie et maladie de Charcot), paraplégies et tétraplégies avec atteinte diaphragmatique.
 - Néphropathies  
@@ -83,7 +83,7 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 - Déficits immunitaires primitifs ou acquis
   - Pathologies oncologiques et hématologiques, transplantations d'organe et de cellules souches hématopoïétiques, déficits immunitaires héréditaires
   - Maladies inflammatoires et/ou auto-immunes recevant un traitement immunosuppresseur,
-  - Toute [PVVIH]({{< relref "vih-sida.md" >}})
+  - Toute [PVVIH]({{% relref "vih-sida.md" %}})
 - Résident de SSR, EHPAD ou médico-social
 - Entourage des nourrissons de moins de 6 mois présentant des facteurs de risque de grippe grave: prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d'une affection de longue durée ainsi que l'entourage des personnes immunodéprimées.
 
@@ -110,11 +110,11 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 Autres causes de toux aiguë à rechercher devant un syndrome grippal:
 
 - Infectieuse
-  - [Covid-19]({{< relref "covid-19.md" >}})
+  - [Covid-19]({{% relref "covid-19.md" %}})
   - Bronchite
-  - [Pneumonie aiguë communautaire]({{< relref "pneumonie-aigue-communautaire.md" >}}) ou virale (VRS, coronavirus, adénovirus ...)
-  - [Coqueluche]({{< relref "coqueluche.md" >}})
-- Pneumo-allergique: allergie, [asthme]({{< relref "asthme.md" >}})
+  - [Pneumonie aiguë communautaire]({{% relref "pneumonie-aigue-communautaire.md" %}}) ou virale (VRS, coronavirus, adénovirus ...)
+  - [Coqueluche]({{% relref "coqueluche.md" %}})
+- Pneumo-allergique: allergie, [asthme]({{% relref "asthme.md" %}})
 - Mécanique avec surinfection: tumeur, compression trachéale, corps étranger
 
 {{% /collapse %}}
@@ -168,7 +168,7 @@ La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordo
 
 Chez l'adulte sain, la vaccination antigrippale réduit de 29% (65% chez +60 ans) le nombre de cas de syndromes grippaux et de 65% le nombre de cas de grippes.
 
-Chez le sujet vivant en établissement, la vaccination réduit la survenue de pathologie respiratoire (56%), [pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}}) (53%), hospitalisation (50%) et décès (68%).
+Chez le sujet vivant en établissement, la vaccination réduit la survenue de pathologie respiratoire (56%), [pneumonie]({{% relref "pneumonie-aigue-communautaire.md" %}}) (53%), hospitalisation (50%) et décès (68%).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la grippe" %}}

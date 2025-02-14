@@ -57,7 +57,7 @@ HTA: [carnet international d'automesure tensionnelle (PDF)](https://www.stridebp
 
 ## Hépato-gastroentérologie {.typography-overline .mt-4}
 
-Fibrose hépatique avec {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}} annuel si: [obésité]({{< relref "obesite-adulte.md" >}}), [diabète de type 2]({{< relref "diabete-type-2.md" >}}), [VIH avec lipodystrophie]({{< relref "vih-sida.md" >}}), cytolyse inexpliquée, stéatose échographique
+Fibrose hépatique avec {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}} annuel si: [obésité]({{% relref "obesite-adulte.md" %}}), [diabète de type 2]({{% relref "diabete-type-2.md" %}}), [VIH avec lipodystrophie]({{% relref "vih-sida.md" %}}), cytolyse inexpliquée, stéatose échographique
 
 ## Néphrologie {.typography-overline}
 

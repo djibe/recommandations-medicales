@@ -33,14 +33,14 @@ Névrome de Morton (NM)
 : Fibrose périneurale du nerf digital plantaire commun au niveau de sa bifurcation, en regard des têtes métatarsiennes (3^e^ +++).
 : Le névrome de Morton est probablement d'origine microtraumatique.
 
-Le diagnostic différentiel principal est une [bursite inter-capito-métatarsienne]({{< relref "bursite.md" >}}).
+Le diagnostic différentiel principal est une [bursite inter-capito-métatarsienne]({{% relref "bursite.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 ### Symptômes du névrome de Morton
 
-Douleur plantaire aiguë des métatarses (3 et 4e) provoquée par la marche, de type [neuropathique]({{< relref "douleur-neuropathique.md" >}}) (brûlure) ou impression de marcher sur un caillou, avec irradiation aux orteils contigus.
+Douleur plantaire aiguë des métatarses (3 et 4e) provoquée par la marche, de type [neuropathique]({{% relref "douleur-neuropathique.md" %}}) (brûlure) ou impression de marcher sur un caillou, avec irradiation aux orteils contigus.
 
 Présence d'une allodynie mécanique en regard de la zone douloureuse.
 

@@ -31,14 +31,14 @@ flowchart = true
 - Des comorbidités sont systématiquement recherchées: sclérodermie, Gougerot, maladie cœliaque, hypothyroïdie, ostéoporose
 - [Annuaire des centres de compétence](https://www.filfoie.com/ou-consulter/carte-interactive/?fwp_type_de_public=adulte&fwp_rseau_centre=mivb-h) de la cirrhose biliaire primitive
 
-Chapitre lié: a[ugmentation des GGT]({{< relref "augmentation-gamma-gt.md" >}})
+Chapitre lié: a[ugmentation des GGT]({{% relref "augmentation-gamma-gt.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Cholangite biliaire primitive (CBP ou cirrhose biliaire primitive)
 : Hépatopathie chronique auto-immune par inflammation des petites voies biliaires, à l'origine d'une **cholestase**. Elle atteint le plus souvent les femmes après 40 ans (90 % avec prévalence 1/1000) et évolue lentement.
-: Une [hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) (HAI) est associée dans 10% des cas.
+: Une [hépatite auto-immune]({{% relref "hepatite-autoimmune.md" %}}) (HAI) est associée dans 10% des cas.
 : La gravité de la cirrhose biliaire primitive est liée au risque de **cirrhose biliaire**.
 
 ### Abréviations
@@ -84,7 +84,7 @@ Diagnostic de cirrhose biliaire primitive (CBP) si au moins 2 critères *EASL* s
   et/ou anticorps anti-nucléaires de type cerclés (anti-gp210 ou anti-sp100)
 3. Lésions de cholangite inflammatoire destructrice granulomateuse ou lymphocytaire des canaux biliaires inter-lobulaires
 
-On parle de **syndrome de chevauchement** (*Overlap syndrome*) si une [hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) (HAI) est associée avec au moins 2 critères parmi:
+On parle de **syndrome de chevauchement** (*Overlap syndrome*) si une [hépatite auto-immune]({{% relref "hepatite-autoimmune.md" %}}) (HAI) est associée avec au moins 2 critères parmi:
 
 1. Cytolyse avec ALAT > 5N (> 6 mois)
 2. IgG > 20 g/L ou anticorps anti-muscles lisses ≥ 1/80
@@ -108,8 +108,8 @@ Signes et symptômes à rechercher en cas de suspicion de cholangite biliaire pr
 - Bilans hépatiques antérieurs
 - Symptômes
   - **Asymptomatique** (20-30 %)
-  - [Prurit]({{< relref "prurit.md" >}}) (30-40 %)
-  - [Ictère]({{< relref "ictere.md" >}})
+  - [Prurit]({{% relref "prurit.md" %}}) (30-40 %)
+  - [Ictère]({{% relref "ictere.md" %}})
   - Inconfort abdominal ou de l'hypochondre droit
   - [Fatigue](/tags/fatigue/) (> 50 %)  
     Non corrélée à la sévérité de la maladie.
@@ -117,7 +117,7 @@ Signes et symptômes à rechercher en cas de suspicion de cholangite biliaire pr
   - {{< modal-btn modal-mna >}}Dépister une dénutrition{{< /modal-btn >}}
 - Qualité de vie
 - Rechercher des comorbidités:  
-  [Raynaud]({{< relref "phenomene-raynaud.md" >}}), syndrome de Gougerot-Sjögren (sécheresses muqueuses), sclérodermie (CREST syndrome), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}).
+  [Raynaud]({{% relref "phenomene-raynaud.md" %}}), syndrome de Gougerot-Sjögren (sécheresses muqueuses), sclérodermie (CREST syndrome), [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}).
 
 ### Examen clinique
 
@@ -128,7 +128,7 @@ Signes et symptômes à rechercher en cas de suspicion de cholangite biliaire pr
   {{< clinique/hypertension-portale >}}
 - Signes d'insuffisance hépatocellulaire  
   {{< clinique/insuffisance-hepato-cellulaire >}}
-- [Splénomégalie]({{< relref "splenomegalie.md" >}})
+- [Splénomégalie]({{% relref "splenomegalie.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -140,7 +140,7 @@ Signes et symptômes à rechercher en cas de suspicion de cholangite biliaire pr
 - NFS
 - Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine totale et conjuguée
 - TP
-- Sérologies [VHB]({{< relref "hepatite-b.md" >}}) et [VHC]({{< relref "hepatite-c.md" >}})
+- Sérologies [VHB]({{% relref "hepatite-b.md" %}}) et [VHC]({{% relref "hepatite-c.md" %}})
 - Électrophorèse des protéines sériques
 - Glycémie à jeun
 - Bilan lipidique
@@ -160,9 +160,9 @@ Une fois le diagnostic de cholangite biliaire primitive posé, des comorbidités
 
 - **Élastométrie hépatique** (ou élastographie)
 - [TSH](/tags/tsh/)
-- [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}): IgA totales, IgA anti-transglutaminase
-- [Vitamine D]({{< relref "vitamine-d.md" >}})
-- [Ostéodensitométrie]({{< relref "osteoporose.md" >}})
+- [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}): IgA totales, IgA anti-transglutaminase
+- [Vitamine D]({{% relref "vitamine-d.md" %}})
+- [Ostéodensitométrie]({{% relref "osteoporose.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Traitement de la cholangite biliaire primitive" %}}
@@ -185,7 +185,7 @@ Autres traitements possibles:
 
 - De la CBP: acide obéticholique (AOC, contre-indiqué si antécédent de décompensation cirrhotique, décommandé par *Prescrire*), bézafibrate (BZF)
 - Du prurit: **[cholestyramine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65691327&typedoc=R)** (Questran® 4-16 g/j) > rifampicine (150-300 mg/j) > naltrexone (25-50 mg/j), nalméfène > sertraline (50 mg/j). Émollients, TCC.
-- Si cholestase persistante: [supplémentation calcium]({{< relref "apports-calcium.md" >}}) + [vitamine D]({{< relref "vitamine-d.md" >}}) (1g/800 UI/j)
+- Si cholestase persistante: [supplémentation calcium]({{% relref "apports-calcium.md" %}}) + [vitamine D]({{% relref "vitamine-d.md" %}}) (1g/800 UI/j)
 - De l'ostéoporose: supplémentation vitamino-calcique, traiter quand T-score fémoral < -1,5
 - Surveillance des vitamines liposolubles (A, D, E, K)
 

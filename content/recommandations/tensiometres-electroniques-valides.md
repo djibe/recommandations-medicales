@@ -28,7 +28,7 @@ datatable = true
 - Les recommandations internationales et européennes préconisent l'utilisation d'un tensiomètre électronique validé pour la mesure de la pression artérielle au cabinet
 - Peu de modèles de brassards électroniques ont été validés, la certification *CE* n'étant nullement garante de la précision des mesures
 - Les modèles de tensiomètres électroniques ci-dessous ont été validés pour certaines situations (adulte, grossesse, enfant) par les sociétés savantes de référence pour la prise en charge de la pression artérielle
-- En plus d'un brassard électronique validé, la mesure de la pression artérielle nécessite des conditions strictes de mesure (brassard, assis depuis 5 minutes, adossé, sans parler ... voir [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}))
+- En plus d'un brassard électronique validé, la mesure de la pression artérielle nécessite des conditions strictes de mesure (brassard, assis depuis 5 minutes, adossé, sans parler ... voir [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}))
 
 {{%/article-summary%}}
 

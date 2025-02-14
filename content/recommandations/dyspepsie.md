@@ -26,7 +26,7 @@ todo = "image"
 - La dyspepsie est un syndrome défini par une douleur ou un inconfort chronique centré sur l’épigastre
 - Devant une plainte de dyspepsie, rechercher un [diabète](/tags/diabete/) et des troubles du comportement alimentaire
 - Indications au bilan par fibroscopie gastrique: signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive), âge supérieur à 50 ans, échec du traitement médical, antécédent familial ou personnel de [cancer digestif](/tags/cancer/)
-- Rechercher une [infection à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}}) (sérologie ou test respiratoire) si la fibroscopie n'est pas indiquée
+- Rechercher une [infection à *Helicobacter pylori*]({{% relref "helicobacter-pylori.md" %}}) (sérologie ou test respiratoire) si la fibroscopie n'est pas indiquée
 - Prise en charge de la dyspepsie par IPP simple voire double dose pendant 4 à 8 semaines, éviter les repas gras
 - Essai d'éviction séquentiel de certains aliments suspects de causer les symptômes
 
@@ -36,8 +36,8 @@ todo = "image"
 Dyspepsie
 : Syndrome défini par une douleur ou un inconfort chronique centré sur l'épigastre.  
 Les symptômes de la dyspepsie sont peu spécifiques: brûlures épigastriques, satiété précoce, pesanteur épigastrique post-prandiale, ballonnement abdominal, plénitude gastrique, nausées, éructations voire vomissements.
-: En cas de pyrosis ou de régurgitations prédominants, le diagnostic de [reflux gastrique]({{< relref "reflux-gastro-oesophagien.md" >}}) est le plus probable.  
-Toujours rechercher un *[diabète]({{< relref "diabete-type-2.md" >}})* et des *troubles du comportement alimentaire*.
+: En cas de pyrosis ou de régurgitations prédominants, le diagnostic de [reflux gastrique]({{% relref "reflux-gastro-oesophagien.md" %}}) est le plus probable.  
+Toujours rechercher un *[diabète]({{% relref "diabete-type-2.md" %}})* et des *troubles du comportement alimentaire*.
 
 La classification de Rome IV distingue 2 grands syndromes dyspeptiques:
 
@@ -48,7 +48,7 @@ La classification de Rome IV distingue 2 grands syndromes dyspeptiques:
 
 ### Étiologie de la dyspepsie
 
-Les causes principales de la dyspepsie sont proches de celles de l'[intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) (qui est souvent associé): anomalies de la sensibilité et des contrôles réflexes des fonctions digestives, inflammation, infections gastro-intestinales, facteurs génétiques, dysautonomie, troubles psychologiques.
+Les causes principales de la dyspepsie sont proches de celles de l'[intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}) (qui est souvent associé): anomalies de la sensibilité et des contrôles réflexes des fonctions digestives, inflammation, infections gastro-intestinales, facteurs génétiques, dysautonomie, troubles psychologiques.
 
 ### Abréviations
 
@@ -122,7 +122,7 @@ Prise en charge de la dyspepsie:
   - Éviter les aliments gras (ralentissent vidange gastrique)
   - Éviction des aliments identifiés comme gênants
   - Test d'éviction séquentiel des aliments acides (duodénum), épicés (intestins), hypercaloriques ou riches en fibres
-- Éradication d'*[Helicobacter pylori]({{< relref "helicobacter-pylori.md" >}})* si positif
+- Éradication d'*[Helicobacter pylori]({{% relref "helicobacter-pylori.md" %}})* si positif
 
 ### Pour en savoir plus - Autres traitements possibles de la dyspepsie
 

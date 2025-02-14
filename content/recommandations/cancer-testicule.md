@@ -33,8 +33,8 @@ flowchart = true
 
 Cancer du testicule
 : Tumeur maligne développée aux dépends du testicule et de bon pronostic (95% de **tumeurs germinales**, séminomateuses ou non). Il est peu fréquent (2200 cas/an) et atteint surtout l'homme jeune (85% entre 15 et 49 ans).
-: Les principaux facteurs de risque de cancer du testicule sont les antécédents de [cryptorchidie]({{< relref "cryptorchidie.md" >}}) (x 5-10), de cancer testiculaire controlatéral et les antécédents familiaux de cancer du testicule.
-: Complications du cancer testiculaire: [infertilité]({{< relref "infertilite-couple.md" >}}), métastases (lombo-aortiques puis poumon > foie, cerveau, os).
+: Les principaux facteurs de risque de cancer du testicule sont les antécédents de [cryptorchidie]({{% relref "cryptorchidie.md" %}}) (x 5-10), de cancer testiculaire controlatéral et les antécédents familiaux de cancer du testicule.
+: Complications du cancer testiculaire: [infertilité]({{% relref "infertilite-couple.md" %}}), métastases (lombo-aortiques puis poumon > foie, cerveau, os).
 
 ### Épidémiologie du cancer du testicule
 
@@ -79,14 +79,14 @@ INCa
 Tableau clinique survenant chez un homme de 30 à 40 ans le plus souvent:
 
 - Antécédents personnels et familiaux  
-  [Cryptorchidie]({{< relref "cryptorchidie.md" >}}), tumeur testiculaire controlatérale.
+  [Cryptorchidie]({{% relref "cryptorchidie.md" %}}), tumeur testiculaire controlatérale.
 - Symptômes testiculaires:
   - **masse du testicule, dure indolore et unilatérale**
   - tardifs: gêne ou douleur testiculaire
 - Complications:
   - douleurs lombaires ou du flanc, amaigrissement, AEG, dyspnée
   - masse rétro-péritonéale
-  - [infertilité]({{< relref "infertilite-couple.md" >}})
+  - [infertilité]({{% relref "infertilite-couple.md" %}})
   - gynécomastie
 
 ### Examen clinique
@@ -128,7 +128,7 @@ Adresser à l'urologue d'un centre de lutte contre le cancer (CLCC) avec les ré
 {{% /collapse %}}
 {{%collapse "Dépistage du cancer du testicule" %}}
 
-Informer sur le dépistage par autopalpation du cancer du testicule chez les hommes à risque: [cryptorchidie]({{< relref "cryptorchidie.md" >}}), antécédents personnels ou familiaux de cancer du testicule.
+Informer sur le dépistage par autopalpation du cancer du testicule chez les hommes à risque: [cryptorchidie]({{% relref "cryptorchidie.md" %}}), antécédents personnels ou familiaux de cancer du testicule.
 
 Cette vidéo canadienne explique l'auto-palpation du testicule.
 
@@ -145,7 +145,7 @@ D'autres traitements peuvent être associés: surveillance active, chimiothérap
 
 Comme pour tout cancer:
 
-- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 - Arrêt du tabac
 - Soutien psychologique voire psychothérapie
 - [Guide d'information de l'INCa sur le cancer du testicule (PDF)](file:///C:/Users/JB.DESKTOP-FOMVMTG/Downloads/Guide-ALD-patients-Testicule.pdf)

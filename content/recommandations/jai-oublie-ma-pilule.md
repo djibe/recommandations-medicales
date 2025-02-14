@@ -23,7 +23,7 @@ todo = "oubli cp placebo, anneau vaginal FSRH, drospirenone"
 Aide à la prise en charge et au rattrapage d'un oubli de pilule contraceptive estroprogestative ou progestative.
 {.lead}
 
-Chapitres liés: [contraception d'urgence]({{< relref "contraception-urgence.md" >}}), [contraception]({{< relref "contraception.md" >}})
+Chapitres liés: [contraception d'urgence]({{% relref "contraception-urgence.md" %}}), [contraception]({{% relref "contraception.md" %}})
 
 Sélectionner le type de pilule pour afficher la prise en charge détaillée.
 
@@ -66,7 +66,7 @@ Pour le 1^er^ comprimé: voir [Oubli de reprise](#oubli-de-reprise-de-pilule-mon
 
 #### Oubli de plus de 7 comprimés {.typography-headline-6 .mt-5}
 
-- [Contraception d'urgence]({{< relref "contraception-urgence.md" >}})
+- [Contraception d'urgence]({{% relref "contraception-urgence.md" %}})
 - Test de grossesse
 - Démarrer une nouvelle plaquette
 - Préservatif pendant 7 jours
@@ -76,7 +76,7 @@ Pour le 1^er^ comprimé: voir [Oubli de reprise](#oubli-de-reprise-de-pilule-mon
 
 Oubli de reprise donnant un nombre de jours sans pilule ≥ 9 jours:
 
-- Si rapport non protégé dans l'intervalle: [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
+- Si rapport non protégé dans l'intervalle: [contraception d'urgence]({{% relref "contraception-urgence.md" %}})
 - Prendre immédiatement le comprimé oublié
 - Poursuivre la plaquette normalement
 - Préservatif pendant 7 jours
@@ -103,7 +103,7 @@ Mesures en cas d'oubli de moins de 12 heures d'une pilule progestative ou de **v
 - Prendre immédiatement le comprimé oublié
 - Poursuivre la plaquette normalement
 - Préservatif pendant 2 jours
-- Si rapport non protégé dans l'intervalle: [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
+- Si rapport non protégé dans l'intervalle: [contraception d'urgence]({{% relref "contraception-urgence.md" %}})
 - Considérer un test de grossesse à J21 du dernier rapport à risque
 
 > -- *FSRH 2022*
@@ -127,7 +127,7 @@ Mesures en cas d'oubli de moins de 3 heures de Microval ou de **vomissements** (
 - Prendre immédiatement le comprimé oublié
 - Poursuivre la plaquette normalement
 - Préservatif pendant 2 jours
-- Si rapport non protégé dans l'intervalle: [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
+- Si rapport non protégé dans l'intervalle: [contraception d'urgence]({{% relref "contraception-urgence.md" %}})
 - Considérer un test de grossesse à J21 du dernier rapport à risque
 
 > -- *FSRH 2022*

@@ -26,10 +26,10 @@ flowchart = true
 - Suspecter un cancer du pancréas devant les symptômes suivants: ictère, douleurs abdominales, AEG
 - Bilan avec scanner abdomino-pelvien avec injection en semi-urgence
 - La prise en charge du cancer du pancréas est une semi-urgence
-- Traquer un cancer du pancréas en cas de [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}) idiopathique après 40 ans
+- Traquer un cancer du pancréas en cas de [pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}}) idiopathique après 40 ans
 - Consultation d'oncogénétique et dépistage du cancer du pancréas si au moins 2 apparentés atteints d'adénocarcinome du pancréas dont au moins 1 au premier degré  
   ou certaines mutations génétiques (voir *Dépistage*)
-- Pour toute la population: prévention du cancer du pancréas par correction des facteurs de risque ([tabagisme]({{< relref "arret-tabac.md" >}}), [obésité]({{< relref "obesite-adulte.md" >}}) et [diabète]({{< relref "diabete-type-2.md" >}}))
+- Pour toute la population: prévention du cancer du pancréas par correction des facteurs de risque ([tabagisme]({{% relref "arret-tabac.md" %}}), [obésité]({{% relref "obesite-adulte.md" %}}) et [diabète]({{% relref "diabete-type-2.md" %}}))
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -46,10 +46,10 @@ OU ≥ 3 cas de la même branche (quel que soit le degré de parenté et l'âge 
 
 - Âge
 - Antécédents familiaux de cancer du pancréas (CaPaFa)
-- [Diabète de type 2]({{< relref "diabete-type-2.md" >}}) ancien (x 1,5-3)
-- [Tabac]({{< relref "arret-tabac.md" >}})
-- [Obésité]({{< relref "obesite-adulte.md" >}}) (+45 % d'incidence quand IMC > 35)
-- [Pancréatite chronique]({{< relref "pancreatite-chronique.md" >}})
+- [Diabète de type 2]({{% relref "diabete-type-2.md" %}}) ancien (x 1,5-3)
+- [Tabac]({{% relref "arret-tabac.md" %}})
+- [Obésité]({{% relref "obesite-adulte.md" %}}) (+45 % d'incidence quand IMC > 35)
+- [Pancréatite chronique]({{% relref "pancreatite-chronique.md" %}})
 - Mutation BRCA1 et BRCA2
 - Néoplasie endocrinienne multiple type 1 (NEM1) et autres mutations
 - Syndrome de Lynch
@@ -106,7 +106,7 @@ TVP
 > [!INFO]
 > Le marqueur tumoral CA 19-9 n'a aucun intérêt pour le dépistage de l'adénocarcinome du pancréas.
 
-Pour toute la population: correction de [tabagisme]({{< relref "arret-tabac.md" >}}), [obésité]({{< relref "obesite-adulte.md" >}}) et [diabète]({{< relref "diabete-type-2.md" >}}).
+Pour toute la population: correction de [tabagisme]({{% relref "arret-tabac.md" %}}), [obésité]({{% relref "obesite-adulte.md" %}}) et [diabète]({{% relref "diabete-type-2.md" %}}).
 
 ### Chez qui dépister le cancer du pancréas ?
 
@@ -115,8 +115,8 @@ Adresser en consultation d'oncogénétique devant une suspicion de cancers famil
 
 Le dépistage du cancer du pancréas est réalisé par échoendoscopie couplée à l'IRM abdominale:
 
-- [Pancréatite chronique]({{< relref "pancreatite-chronique.md" >}})
-  - diagnostic précoce: survenue ou résurgence de douleurs pancréatiques chroniques, [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}), amaigrissement > 10%, majoration de l'insuffisance exocrine, cholestase d'apparition récente ou ictère
+- [Pancréatite chronique]({{% relref "pancreatite-chronique.md" %}})
+  - diagnostic précoce: survenue ou résurgence de douleurs pancréatiques chroniques, [pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}}), amaigrissement > 10%, majoration de l'insuffisance exocrine, cholestase d'apparition récente ou ictère
   - génétique (mutation PRSS1)
   - idiopathique ou génétique (SPINK1, CTRC ou CFTR) avec imagerie pancréatique anormale
 - Contexte de cancers pancréatiques familiaux (CaPaFa)
@@ -158,19 +158,19 @@ Indications au dépistage du cancer du pancréas au cours de la pancréatite chr
   - idiopathique ou par mutation, SPINK1, CTRC ou CFTR avec imagerie anormale
 - Pancréatite chronique et ≥ 1 parmi:
   - Apparition d'un diabète
-  - Décompensation d'un [diabète]({{< relref "diabete-type-2.md" >}})
+  - Décompensation d'un [diabète]({{% relref "diabete-type-2.md" %}})
   - Survenue ou résurgence de douleurs pancréatiques chroniques
-  - Survenue de [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}})
+  - Survenue de [pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}})
   - Amaigrissement > 10%
   - Majoration de l'insuffisance exocrine
   - Cholestase d'apparition récente
-  - [Ictère]({{< relref "ictere.md" >}})
+  - [Ictère]({{% relref "ictere.md" %}})
 
 Recherche par scanner abdominal ET IRM pancréatique.
 
 ### Quand rechercher un cancer du pancréas en cas de pancréatite aiguë idiopathique ?
 
-Après une [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}) idiopathique chez un sujet de plus de 40 ans, dépister un cancer du pancréas par scanner ET cholangiopancréatographie par IRM. Compléter avec une échoendoscopie si les bilans sont négatifs.
+Après une [pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}}) idiopathique chez un sujet de plus de 40 ans, dépister un cancer du pancréas par scanner ET cholangiopancréatographie par IRM. Compléter avec une échoendoscopie si les bilans sont négatifs.
 
 Nouveaux examens de suivi (scanner et CPIRM) à 3, 6 et 12 mois:
 
@@ -185,8 +185,8 @@ Signes évocateurs de cancer du pancréas, surtout après 50 ans (signes en **gr
 - Antécédents personnels et familiaux (oncologiques ++)
 - Signes généraux
   - **AEG**
-  - [Diabète récent]({{< relref "diabete-type-2.md" >}}) (< 2 ans) ou décompensé
-  - [Thrombose veineuse profonde]({{< relref "thrombose-veineuse-profonde.md" >}})
+  - [Diabète récent]({{% relref "diabete-type-2.md" %}}) (< 2 ans) ou décompensé
+  - [Thrombose veineuse profonde]({{% relref "thrombose-veineuse-profonde.md" %}})
 - Douleur abdominale intense à irradiation postérieure ou dorsale
 - Tumeur de la tête du pancréas (70-80%)  
   Plus rapidement symptomatique par atteinte des voies biliaires.
@@ -196,13 +196,13 @@ Signes évocateurs de cancer du pancréas, surtout après 50 ans (signes en **gr
   - **Douleur épigastrique ou abdominale non expliquée par EOGD haute**, transfixiante, insomniante, intensité élevée
   - Douleur dorsale
 - Plus rares
-  - [Pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}})
+  - [Pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}})
   - Thrombo-embolie
   - Occlusion intestinale
   - Hémorragie digestive
   - Diarrhée par maldigestion
   - Ascite
-  - Anxiété, [dépression]({{< relref "depression.md" >}})
+  - Anxiété, [dépression]({{% relref "depression.md" %}})
   - Panniculite mésentérique (syndrome de Weber-Christian)
 - Tumeurs neuro-endocrines du pancréas
   - Gastrine: syndrome de Zollinger-Ellison avec diarrhée et ulcères gastro-duodénaux multiples
@@ -244,7 +244,7 @@ Adresser en semi-urgence à l'équipe hospitalière de gastro-entérologie pour 
 
 La majorité reçoit aussi une chimiothérapie. Le taux de **récidive** est très élevé.
 
-Soins associés: déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}}), traitement de douleur, prise en charge de la dépression et de la dénutrition.
+Soins associés: déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}}), traitement de douleur, prise en charge de la dépression et de la dénutrition.
 
 Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr).
 

@@ -95,19 +95,19 @@ Hémophilie et autres affections comprend:
 
 Exemples:
 
-- [Acromégalie]({{< relref "acromegalie.md" >}})
+- [Acromégalie]({{% relref "acromegalie.md" %}})
 - Malformation congénitale des membres
-- Forme persistante de symptômes post-[Covid-19]({{< relref "covid-19.md" >}})
-- [Embolie pulmonaire à répétition]({{< relref "embolie-pulmonaire.md" >}})
-- [DMLA]({{< relref "degenerescence-maculaire-age-dmla.md" >}})
-- [Asthme]({{< relref "asthme.md" >}})
-- Maladie de Paget, [maladie de Verneuil]({{< relref "maladie-verneuil.md" >}})
-- [Ulcère cutané chronique ou récidivant avec retentissement fonctionnel sévère]({{< relref "ulcere-veineux.md" >}})
+- Forme persistante de symptômes post-[Covid-19]({{% relref "covid-19.md" %}})
+- [Embolie pulmonaire à répétition]({{% relref "embolie-pulmonaire.md" %}})
+- [DMLA]({{% relref "degenerescence-maculaire-age-dmla.md" %}})
+- [Asthme]({{% relref "asthme.md" %}})
+- Maladie de Paget, [maladie de Verneuil]({{% relref "maladie-verneuil.md" %}})
+- [Ulcère cutané chronique ou récidivant avec retentissement fonctionnel sévère]({{% relref "ulcere-veineux.md" %}})
 - Transsexualisme
-- [Infertilité]({{< relref "infertilite-couple.md" >}})
-- [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}})
-- [Hypercholestérolémie familiale]({{< relref "hypercholesterolemie-familiale.md" >}}) avec traitement intensif
-- [Hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) sans cirrhose ou syndrome de chevauchement
+- [Infertilité]({{% relref "infertilite-couple.md" %}})
+- [Syndrome de Cushing]({{% relref "syndrome-cushing.md" %}})
+- [Hypercholestérolémie familiale]({{% relref "hypercholesterolemie-familiale.md" %}}) avec traitement intensif
+- [Hépatite auto-immune]({{% relref "hepatite-autoimmune.md" %}}) sans cirrhose ou syndrome de chevauchement
 
 {{% /collapse %}}
 {{%collapse "ALD exonérante - Polypathologies ALD 32" %}}

@@ -30,14 +30,14 @@ flowchart = true
 - Adresser en semi-urgence dans un Centre de lutte contre le cancer (CLCC) les nodules thyroïdiens suspects Bethesda IV, V et VI ou au spécialiste tout nodule compliqué
 - Le cancer anaplasique de la thyroïde est une urgence thérapeutique
 
-Chapitre lié: [nodules thyroïdiens]({{< relref "nodule-thyroidien.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}})
+Chapitre lié: [nodules thyroïdiens]({{% relref "nodule-thyroidien.md" %}}), [hypothyroïdie]({{% relref "hypothyroidie.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Cancer de la thyroïde
 : Tumeurs malignes de la thyroïde atteignant surtout les femmes (73 %) et le plus souvent de très bon pronostic. Le cancer est principalement de type différencié de souche folliculaire (+90 %), médullaire (CMT) ou anaplasique.
-: Le diagnostic est le plus souvent évoqué devant un [nodule thyroïdien]({{< relref "nodule-thyroidien.md" >}}) (seuls 5% sont cancéreux).
+: Le diagnostic est le plus souvent évoqué devant un [nodule thyroïdien]({{% relref "nodule-thyroidien.md" %}}) (seuls 5% sont cancéreux).
 
 ### Facteurs de risque de cancer de la thyroïde
 
@@ -86,11 +86,11 @@ Signes et symptômes devant faire rechercher un cancer de la thyroïde:
 
 - Antécédents: thyroïdiens, irradiations
 - Antécédents familiaux: cancer de la thyroïde, néoplasie endocrinienne multiple de type 2
-- **[Nodule thyroïdien]({{< relref "nodule-thyroidien.md" >}})** principalement  
+- **[Nodule thyroïdien]({{% relref "nodule-thyroidien.md" %}})** principalement  
   Risque de malignité plus élevé: dur, évolutif, fixé, homme, avant 20 ans et après 60 ans.
 - Goitre
 - Adénopathie cervicale latérale ferme et évolutive
-- Signes de compression: [dysphonie]({{< relref "dysphonie.md" >}}), dysphagie, dyspnée
+- Signes de compression: [dysphonie]({{% relref "dysphonie.md" %}}), dysphagie, dyspnée
 - Métastases: lésions secondaires pulmonaires, douleur, fracture pathologique
 - CMT: flushs, diarrhées
 - Analyse génétique familiale
@@ -117,7 +117,7 @@ Signes et symptômes devant faire rechercher un cancer de la thyroïde:
 NFS, TSH et échographie cervicale
 {.alert .alert-info}
 
-Classification des nodules selon la terminologie **EU-TIRADS** (voir [nodule thyroïdien]({{< relref "nodule-thyroidien.md" >}}) pour la conduite à tenir).
+Classification des nodules selon la terminologie **EU-TIRADS** (voir [nodule thyroïdien]({{% relref "nodule-thyroidien.md" %}}) pour la conduite à tenir).
 
 Compléter avec **calcémie** et **calcitonine** en cas de nodule suspect.
 
@@ -155,15 +155,15 @@ La prise en charge du cancer de la thyroïde est spécialisée après RCP. [Annu
 
 Mesures associées à la prise en charge des cancers:
 
-- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 - Surveillance de la [TSH](/tags/tsh/)
-- [Hormonothérapie]({{< relref "hypothyroidie.md" >}}) si thyroïdectomie totale (parfois lobo-isthmectomie)
+- [Hormonothérapie]({{% relref "hypothyroidie.md" %}}) si thyroïdectomie totale (parfois lobo-isthmectomie)
   - Elle peut être substitutive ++
   - Freinatrice: cible de TSH 0,1 - 0,5 mUI/L
   - Très freinatrice: cible de TSH < 0,1 mUI/L selon le risque de récidive (décision spécialisée).
 - [Guide information INCa](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-la-thyroide/Les-points-cles)
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
-- [Réduction de l'alcool]({{< relref "sevrage-alcool.md" >}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
+- [Réduction de l'alcool]({{% relref "sevrage-alcool.md" %}})
 - Activité physique
 - Dysphonie: orthophonie
 - Soutien psychologique voire psychothérapie

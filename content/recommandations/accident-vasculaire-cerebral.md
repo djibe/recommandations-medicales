@@ -169,8 +169,8 @@ Liste des contre-indications à la thrombolyse par risque hémorragique:
 - Antécédents de lésion sévère du système nerveux central (néoplasie, anévrisme, chirurgie intracérébrale ou intrarachidienne).
 - Massage cardiaque externe traumatique récent (moins de 10 jours), accouchement, ponction récente d'un vaisseau non accessible à la compression (par exemple ponction de la veine sous-clavière ou jugulaire).
 - HTA sévère non contrôlée.
-- Endocardite bactérienne, [péricardite]({{< relref "pericardite-aigue.md" >}}).
-- [Pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}).
+- Endocardite bactérienne, [péricardite]({{% relref "pericardite-aigue.md" %}}).
+- [Pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}}).
 - Ulcères gastro-intestinaux documentés au cours des 3 derniers mois, varices œsophagiennes, anévrisme artériel, malformations artérielles ou veineuses.
 - Néoplasie majorant le risque hémorragique.
 - Hépatopathie sévère  
@@ -212,8 +212,8 @@ La prise en charge est identique après un accident ischémique transitoire (AIT
   - Automesure tensionnelle
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,7 g/L (*ESO 2022*, *AHA 2021* voire {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} pour l'*ESC 2021*)
 - Mesures hygiéno-diététiques associées
-  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
-  - [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}})
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
+  - [Arrêt de l'alcool]({{% relref "sevrage-alcool.md" %}})
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Correction d'un surpoids
   - Activité physique au moins 10 min 4 fois par semaine ([guide patient HAS APA](https://www.has-sante.fr/jcms/p_3391312/fr/l-activite-physique-pour-votre-sante-accident-vasculaire-cerebral))
@@ -223,8 +223,8 @@ La prise en charge est identique après un accident ischémique transitoire (AIT
   - Après 6 mois: {{< modal-btn modal-hba1c >}}cible réadaptée selon le profil{{< /modal-btn >}}
 - Comorbidités
   - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}} {{%class%}}(40%){{%/class%}}
-  - Territoire vertébro-basilaire: rechercher une [maladie de Horton]({{< relref "arterite-cellules-geantes-horton.md" >}})
-- [Déclarer l'ALD n°1]({{< relref "affection-longue-duree.md" >}})  
+  - Territoire vertébro-basilaire: rechercher une [maladie de Horton]({{% relref "arterite-cellules-geantes-horton.md" %}})
+- [Déclarer l'ALD n°1]({{% relref "affection-longue-duree.md" %}})  
   Critères: séquelles neurologiques nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
 - Éducation du patient: mode de vie, réagir, traitements
 
@@ -237,11 +237,11 @@ Prise en charge de l'AVC selon certaines comorbidités.
 
 Pour l'AIC sans étiologie retrouvée, dépistage de troubles du rythme par Holter-ECG implantable pendant +48 heures (*ESO 2022*).
 
-Anticoagulation au long cours par [AVK warfarine]({{< relref "avk.md" >}}) ou anticoagulant oral (AOD) selon le {{< modal-btn modal-chads >}}score CHA~2~DS~2~-VASc{{< /modal-btn >}}.
+Anticoagulation au long cours par [AVK warfarine]({{% relref "avk.md" %}}) ou anticoagulant oral (AOD) selon le {{< modal-btn modal-chads >}}score CHA~2~DS~2~-VASc{{< /modal-btn >}}.
 
 ### Prothèse valvulaire mécanique et AVC
 
-Anticoagulation par [AVK warfarine]({{< relref "avk.md" >}}) uniquement.  
+Anticoagulation par [AVK warfarine]({{% relref "avk.md" %}}) uniquement.  
 Cible selon prothèse et facteurs de risque du patient.
 
 ### Foramen ovale perméable et AVC

@@ -40,7 +40,7 @@ Polyglobulie (ou érythrocytose)
 Polyglobulie essentielle
 : Maladie de Vaquez ou polyglobulie de Vaquez, {{%lang%}}polycythaemia vera{{%/lang%}} en anglais
 : Syndrome myéloprolifératif par mutation de la protéine JAK2 V617F qui se déclare vers 60 ans à l'origine de **thromboses** artérielles et veineuses parfois hémorragiques.
-: Le risque à long terme est la transformation en myélofibrose voire en myélodysplasie ou [leucémie aiguë]({{< relref "leucemie-aigue-adulte.md" >}}).
+: Le risque à long terme est la transformation en myélofibrose voire en myélodysplasie ou [leucémie aiguë]({{% relref "leucemie-aigue-adulte.md" %}}).
 
 ### Abréviations
 
@@ -62,7 +62,7 @@ EPO
   - Rénale  
     Sténose des artères rénales, insuffisance rénale sévère, hydronéphrose, kystes rénaux.
   - EPO tumorale  
-    [Carcinome hépatocellulaire (CHC)]({{< relref "carcinome-hepatocellulaire.md" >}}), cancer rénal, parathyroïdien, utérin, phéochromocytome, méningiome.
+    [Carcinome hépatocellulaire (CHC)]({{% relref "carcinome-hepatocellulaire.md" %}}), cancer rénal, parathyroïdien, utérin, phéochromocytome, méningiome.
   - EPO iatrogène  
     Érythropoïétine, androgènes, diurétiques.
   - Alcool
@@ -89,7 +89,7 @@ L'examen recherche des signes en faveur d'une polyglobulie primitive (maladie de
 - Dépister un syndrome d'apnées du sommeil
 - Symptômes
   - Généraux
-  - Évocateurs de Vaquez: érythrose palmaire, douleurs spléniques (splénomégalie), [prurit]({{< relref "prurit.md" >}}) aquagénique, neurosensoriels ([céphalées](/tags/cephalees/), vertiges, paresthésies), [fatigue](/tags/fatigue/).
+  - Évocateurs de Vaquez: érythrose palmaire, douleurs spléniques (splénomégalie), [prurit]({{% relref "prurit.md" %}}) aquagénique, neurosensoriels ([céphalées](/tags/cephalees/), vertiges, paresthésies), [fatigue](/tags/fatigue/).
 
 ### Examen clinique
 

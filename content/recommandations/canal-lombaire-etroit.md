@@ -43,7 +43,7 @@ Canal lombaire étroit ou rétréci
   - **Discopathie dégénérative** (L4L5 ++)
   - Spondylolisthésis arthrosique
   - Hypertrophie des ligaments jaunes
-  - [Scoliose]({{< relref "scoliose.md" >}})
+  - [Scoliose]({{% relref "scoliose.md" %}})
   - Ossification ligamentaire
 - Iatrogène
   - Post-laminectomie ou fusion
@@ -51,8 +51,8 @@ Canal lombaire étroit ou rétréci
 - Traumatique
 - Spondylolythique
 - Endocrinienne
-  - [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}})
-  - [Acromégalie]({{< relref "acromegalie.md" >}})
+  - [Syndrome de Cushing]({{% relref "syndrome-cushing.md" %}})
+  - [Acromégalie]({{% relref "acromegalie.md" %}})
   - Lipomatose épidurale
   - Hyperostose diffuse idiopathique
   - Ostéomalacie hypophosphatémique
@@ -60,8 +60,8 @@ Canal lombaire étroit ou rétréci
 - Infectieuse
   - Discite
   - Ostéomyélite
-  - Mal de Pott ([tuberculose]({{< relref "tuberculose.md" >}}))
-- Rhumatismale: [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}})
+  - Mal de Pott ([tuberculose]({{% relref "tuberculose.md" %}}))
+- Rhumatismale: [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}})
 
 ### Abréviations
 
@@ -81,8 +81,8 @@ Principaux diagnostics différentiels du canal lombaire étroit:
 
 - Neuropathie périphérique
 - Coxarthrose
-- [Bursite trochantérienne]({{< relref "bursite.md" >}})
-- Claudication vasculaire (voir [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}))
+- [Bursite trochantérienne]({{% relref "bursite.md" %}})
+- Claudication vasculaire (voir [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}))
 - Claudication médullaire (déficit moteur proximal avec syndrome pyramidal)
 - Autres plus rares: malformation artério-veineuses spinales, tumeurs
 
@@ -97,7 +97,7 @@ Principaux diagnostics différentiels du canal lombaire étroit:
 Les symptômes du canal lombaire étroit sont majorés debout.
 
 - Antécédents  
-  Lombo-sciatique, [lombalgie]({{< relref "lombalgie-commune.md" >}}), rhumatisme, traumatisme, neurologique, cardiovasculaire, [cancer](/tags/cancer/).
+  Lombo-sciatique, [lombalgie]({{% relref "lombalgie-commune.md" %}}), rhumatisme, traumatisme, neurologique, cardiovasculaire, [cancer](/tags/cancer/).
 - Traitements en cours
 - Tabagisme
 - Asymptomatique (10-15 %)
@@ -111,7 +111,7 @@ Les symptômes du canal lombaire étroit sont majorés debout.
   - **Troubles de la marche**: engourdissements, faiblesses irradiant de la colonne vertébrale vers les fesses
   - Déficit sensitif possible
   - Urgenturie rare
-- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 ### Examen clinique
 
@@ -122,7 +122,7 @@ Les symptômes du canal lombaire étroit sont majorés debout.
 - Examen neurologique complet (pauvre)  
   Testing, sensibilité (proprioception, vibration), réflexes ++.
 - Pouls distaux
-- Signes d'endocrinopathie: [acromégalie]({{< relref "acromegalie.md" >}}), [Cushing]({{< relref "syndrome-cushing.md" >}})
+- Signes d'endocrinopathie: [acromégalie]({{% relref "acromegalie.md" %}}), [Cushing]({{% relref "syndrome-cushing.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

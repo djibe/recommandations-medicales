@@ -37,8 +37,8 @@ Dermatite atopique (DA)
 Maladie chronique évoluant par *poussées* avec intervalles libres.
 : Elle touche 10 à 15% des nourrissons avec une incidence en nette progression.  
 Elle évolue le plus souvent vers une rémission complète après plusieurs mois ou années (5% persistent chez l'adulte).
-: La moitié présente également d'autres manifestations atopiques: [rhinite allergique]({{< relref "rhinite-allergique.md" >}}) > [asthme]({{< relref "asthme.md" >}}) > conjonctivite > allergie alimentaire.  
-Comorbidités chez l'adulte: cardiovasculaires (HTA, AVC, IDM), rénales, [diabète](/tags/diabete/), [dépression]({{< relref "depression.md" >}}) et suicide.
+: La moitié présente également d'autres manifestations atopiques: [rhinite allergique]({{% relref "rhinite-allergique.md" %}}) > [asthme]({{% relref "asthme.md" %}}) > conjonctivite > allergie alimentaire.  
+Comorbidités chez l'adulte: cardiovasculaires (HTA, AVC, IDM), rénales, [diabète](/tags/diabete/), [dépression]({{% relref "depression.md" %}}) et suicide.
 : Pas de seuil pour définir une *dermatite atopique sévère*, mais évaluée sur le nombre et la gravité des poussées, le retentissement psychologique, la qualité de vie.
 
 [Atopie](/tags/atopie/)
@@ -49,8 +49,8 @@ Comorbidités chez l'adulte: cardiovasculaires (HTA, AVC, IDM), rénales, [diab�
 
 Autres pathologies eczématiformes:
 
-- Nourrisson: [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}}), [gale]({{< relref "gale.md" >}})
-- Autres population: dermite/eczéma de contact, [psoriasis]({{< relref "psoriasis.md" >}}), lymphome cutané, [gale]({{< relref "gale.md" >}})
+- Nourrisson: [dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}}), [gale]({{% relref "gale.md" %}})
+- Autres population: dermite/eczéma de contact, [psoriasis]({{% relref "psoriasis.md" %}}), lymphome cutané, [gale]({{% relref "gale.md" %}})
 
 ### Complications de la dermatite atopique
 
@@ -134,7 +134,7 @@ Dermatite atopique sévère: [score SCORAD](https://www.mdapp.co/scoring-atopic-
 
 Atteinte symétrique prédominant sur les convexités du visage (joues, front, menton) et des faces externes des membres avec xérose cutanée, prurit constant après 3 mois ± troubles du sommeil.
 
-Siège généralement épargné, parfois sur le cuir chevelu: squames et croûtes jaunâtres (à différencier des << croûtes de lait >> d'une [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})).
+Siège généralement épargné, parfois sur le cuir chevelu: squames et croûtes jaunâtres (à différencier des << croûtes de lait >> d'une [dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}})).
 
 #### Dermatite atopique de l'enfant après 2 ans
 
@@ -166,7 +166,7 @@ Indications au bilan allergologique pour eczéma:
 - DA avec signes évocateurs d'allergie de contact  
   Eczéma localisé en zone inhabituelle (siège, paumes, plantes)
 - Autres  
-  [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), pleurs, coliques résistantes, antécédents familiaux d'atopie sévère, apparition précoce avant 3 mois.
+  [RGO]({{% relref "reflux-gastro-oesophagien.md" %}}), pleurs, coliques résistantes, antécédents familiaux d'atopie sévère, apparition précoce avant 3 mois.
 
 {{% /collapse %}}
 {{%collapse "Traitement de fond de la dermatite atopique" %}}
@@ -206,19 +206,19 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
   - Housses Gore-Tex ou équivalent
   - Éviter les chats
 - Vérifier l'auto-médication
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - 19°C dans la chambre
 - Lutte contre les idées reçues  
   Usage des dermocorticoïdes, la dermatite atopique n'est pas allergique-psychologique-infectieuse-contagieuse.
 - [Centres d'éducation thérapeutique pour la dermatite atopique](https://www.sfdermato.org/page-29-centres-d-education-therapeutique) (ETP)
 - Suivi médical régulier (courbe de croissance ++)
-- Vigilance en cas de contact avec l'[herpès]({{< relref "infections-herpes-virus.md" >}})
+- Vigilance en cas de contact avec l'[herpès]({{% relref "infections-herpes-virus.md" %}})
 - Soutien psychologique
 - Vaccins
   - Allergie à l'œuf associée: avis spécialisé avant grippe ou fièvre jaune
   - Éviter durant une poussée sévère
 - Éviter les animaux domestiques
-- Encourager l'[allaitement maternel]({{< relref "allaitement.md" >}}) exclusif +3 mois
+- Encourager l'[allaitement maternel]({{% relref "allaitement.md" %}}) exclusif +3 mois
 - Information du patient: [appli HappyReso](https://www.happyreso.fr), [guide SFD (PDF)](https://www.sfdermato.org/upload/fiche/etfad-great-version-france-22o32019-dd00991406282f168b08aec43c3798f0.pdf)
 
 **NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (*EADV* et Pr D. Staumont *Dermato-Info*) car sans efficacité sur le prurit. En visée sédative, recours à l'[hydroxyzine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61162294&typedoc=R).
@@ -239,7 +239,7 @@ Traitements de la dermatite atopique sur prescription spécialisée uniquement:
 - Inhibiteur de la calcineurine: tacrolimus topique (Takrozem®, Protopic®)
 - Photothérapie UVA ou UVB
 - Rétinoïdes (alitrétinoïne)
-- Ciclosporine, [méthotrexate]({{< relref "methotrexate.md" >}}), azathioprine
+- Ciclosporine, [méthotrexate]({{% relref "methotrexate.md" %}}), azathioprine
 - Anticorps monoclonaux dupilumab (Dupixent®), tralokinumab (Adtralza®)
 - Inhibiteur des Janus kinases: abrocitinib (Cibinqo®), baricitinib (Olumiant®), upadacitinib (Rinvoq®)
 

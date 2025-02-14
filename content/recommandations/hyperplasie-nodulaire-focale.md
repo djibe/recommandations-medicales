@@ -57,9 +57,9 @@ HNF
 Autres tumeurs et lésions hépatiques:
 
 - Tumeurs hépatiques
-  - [Hémangiome hépatique]({{< relref "hemangiome-hepatique.md" >}})
+  - [Hémangiome hépatique]({{% relref "hemangiome-hepatique.md" %}})
   - Adénome hépatocellulaire (AF)
-  - [Carcinome hépatocellulaire (CHC)]({{< relref "carcinome-hepatocellulaire.md" >}})
+  - [Carcinome hépatocellulaire (CHC)]({{% relref "carcinome-hepatocellulaire.md" %}})
   - Cholangiocarcinome
   - Métastase hépatique
 - Kyste biliaire
@@ -81,7 +81,7 @@ L'hyperplasie nodulaire focale est le plus souvent asymptomatique (**incidentalo
   **[Cancer](/tags/cancer/)**, cirrhose et **facteurs de risque d'hépatopathie**: [hépatite virale](/tags/hepatite/), transfusion, tatouage, drogues IV, alcool, syndrome métabolique, [diabète](/tags/diabete/).
 - Maladies vasculaires du foie: syndrome de Budd-Chiari, veinopathie portale oblitérante ...
 - Antécédents familiaux: cancer, hépatopathie
-- Traitements en cours et passés: [contraception]({{< relref "contraception.md" >}}), [méthotrexate]({{< relref "methotrexate.md" >}}), [tamoxifène]({{< relref "cancer-sein.md" >}}), androgènes
+- Traitements en cours et passés: [contraception]({{% relref "contraception.md" %}}), [méthotrexate]({{% relref "methotrexate.md" %}}), [tamoxifène]({{% relref "cancer-sein.md" %}}), androgènes
 - Alcool, tabac
 - Voyage à l'étranger
 - Circonstances de découverte de l'hémangiome (**découverte fortuite** ++)
@@ -99,7 +99,7 @@ L'hyperplasie nodulaire focale est le plus souvent asymptomatique (**incidentalo
   {{< clinique/hypertension-portale >}}
 - Signes d'insuffisance hépatocellulaire  
   {{< clinique/insuffisance-hepato-cellulaire >}}
-- [Splénomégalie]({{< relref "splenomegalie.md" >}})
+- [Splénomégalie]({{% relref "splenomegalie.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -121,7 +121,7 @@ Le bilan est celui d'une tumeur hépatique:
 
 L'échographie hépatique est l'examen de première intention devant toute lésion du foie.
 
-La tumeur est bien limitée, le plus souvent unique (70-80 %) et mesurant moins de 5 cm. Un [hémangiome hépatique]({{< relref "hemangiome-hepatique.md" >}}) peut être associé (20 %).
+La tumeur est bien limitée, le plus souvent unique (70-80 %) et mesurant moins de 5 cm. Un [hémangiome hépatique]({{% relref "hemangiome-hepatique.md" %}}) peut être associé (20 %).
 
 En échographie, l'HNF apparaît comme un nodule hypo ou iso-échogène (très rarement hyperéchogène).
 

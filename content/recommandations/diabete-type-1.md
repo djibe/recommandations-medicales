@@ -62,7 +62,7 @@ Une personne avec un tableau clinique évocateur de DT1 et la présence d'au moi
 De même, une suspicion clinique de DT1 en l'absence d'anticorps doit faire préférer l'insulinothérapie.
 
 Lorsque le type de diabète est toujours incertain à 3 ans, doser glycémie et peptide C dans les 5 heures suivant un repas (sans interrompre l'insulinothérapie).  
-Un **peptide C** > 600 pmol/L affirme un [diabète de type 2]({{< relref "diabete-type-2.md" >}}). À l'inverse, un peptide C bas ou absent confirme le type 1.
+Un **peptide C** > 600 pmol/L affirme un [diabète de type 2]({{% relref "diabete-type-2.md" %}}). À l'inverse, un peptide C bas ou absent confirme le type 1.
 
 > -- *ADA/EASD 2021*
 
@@ -170,7 +170,7 @@ Trame des éléments à relever pour un dossier médical complet.
 ### Objectifs
 
 - Individualisés, atteignables et réalistes
-  - Nutrition, activité physique, [arrêt du tabac]({{< relref "arret-tabac.md" >}})
+  - Nutrition, activité physique, [arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - Glycémiques
   - HbA~1c~, temps dans la cible, hypoglycémies
 
@@ -204,12 +204,12 @@ Trame des éléments à relever pour un dossier médical complet.
   Négocier une perte de poids (5-10%). Un accompagnement spécialisé permet une baisse d'HbA~1c~ de 1-1,9 %.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Vaccinations: Covid-19, grippe, pneumocoque
-- Si Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}})
-- Dépistage de la [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})  
+- Si Covid-19: [antiviral en urgence]({{% relref "covid-19.md" %}})
+- Dépistage de la [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}})  
   Au diagnostic puis annuel pendant 5 ans (*[ISPAD 2018](https://cdn.ymaws.com/www.ispad.org/resource/resmgr/consensus_guidelines_2018_/19.other_complications_and_a.pdf))*.
 - Dépistage du retentissement psychologique  
   Score WHO-5, PAID, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}} ou {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}} (anxiété)  
-  {{%class%}}[Dépression]({{< relref "depression.md" >}}) et anxiété x2, commentaires de l'entourage.{{%/class%}}
+  {{%class%}}[Dépression]({{% relref "depression.md" %}}) et anxiété x2, commentaires de l'entourage.{{%/class%}}
 - Information du patient: [programme d'accueil de la FFD](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kita)
 - {{< references/compare >}}, [SFDT1](https://sfdt1.fr)
 

@@ -17,9 +17,9 @@ imageSrc = "L'ordinateur pour le médecin généraliste. Freepik"
 L'ordinateur (PC ou Mac) est essentiel au sein du cabinet du médecin afin de gérer à long terme le suivi des patients. Il permet également l'accès aux outils de productivité comme *Ameli Pro*. Bref, il est vital. Et pourtant, sans aucune connaissance préalable, on vous vendra ce qui rapporte, pas ce dont vous avez besoin.
 {.lead}
 
-Je ne parle ici que de l'unité centrale, lire [les périphériques pour bien travailler]({{< relref "peripheriques-ordinateur.md" >}}) pour les accessoires (clavier, souris, imprimante ...).
+Je ne parle ici que de l'unité centrale, lire [les périphériques pour bien travailler]({{% relref "peripheriques-ordinateur.md" %}}) pour les accessoires (clavier, souris, imprimante ...).
 
-Le [Forfait structure]({{< relref "forfait-structure.md" >}}) contribue à financer le renouvellement du parc informatique du médecin généraliste.
+Le [Forfait structure]({{% relref "forfait-structure.md" %}}) contribue à financer le renouvellement du parc informatique du médecin généraliste.
 
 {{%collapse "L'ordinateur minimum pour le médecin généraliste" %}}
 

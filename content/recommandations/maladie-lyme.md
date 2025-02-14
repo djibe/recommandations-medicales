@@ -28,7 +28,7 @@ flowchart = true
 - Mesures de prévention des piqûres de tique en forêt puis inspection au retour (voir *Prévention*)
 - Prise en charge d'une piqûre de tique: pince ou tire-tique, auto-surveillance pendant 30 jours, [signaler la piqûre](https://tiquotheque.fr/signalement/public/)
 - Recommandations pour la prise en charge d'un érythème migrant: survenue dans les 30 jours de la piqûre, diagnostic clinique, antibiothérapie 14 jours, contrôle de la guérison à J14
-- En cas de [paralysie faciale]({{< relref "paralysie-faciale-idiopathique.md" >}}) ou de [péricardite]({{< relref "pericardite-aigue.md" >}}) idiopathique: sérologie borréliose systématique
+- En cas de [paralysie faciale]({{% relref "paralysie-faciale-idiopathique.md" %}}) ou de [péricardite]({{% relref "pericardite-aigue.md" %}}) idiopathique: sérologie borréliose systématique
 - Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose (complication neurologique de la maladie de Lyme)
 
 {{%/article-summary%}}
@@ -236,12 +236,12 @@ Atteintes neurologiques évocatrices:
   - Sur la localisation d'une piqûre de tique
   - Paralysie faciale fréquemment associée avec céphalées
   - Antibiothérapie très efficace en quelques jours sur les douleurs
-- *[Paralysie faciale]({{< relref "paralysie-faciale-idiopathique.md" >}})* (36% des neuroborrélioses)
+- *[Paralysie faciale]({{% relref "paralysie-faciale-idiopathique.md" %}})* (36% des neuroborrélioses)
   - ⅓ bilatérale asynchrone
   - Surtout l'enfant
   - Sérologie *Borrelia* systématique
 - Beaucoup plus rares  
-  [Méningites]({{< relref "meningite.md" >}}), myélites aiguës et encéphalites.
+  [Méningites]({{% relref "meningite.md" %}}), myélites aiguës et encéphalites.
 
 Adresser au centre de compétence des MVT ([annuaire](https://crmvt.fr/)) pour investigations et ponction lombaire.
 

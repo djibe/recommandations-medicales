@@ -25,7 +25,7 @@ todo = "rankok, centres réadapt vasculaire, QDV EQ-5D, association patient, htt
 
 {{%article-summary%}}
 
-- Dépister largement l'artériopathie par index de pression systolique (IPS): {{< modal-btn modal-depistage-prevalent >}}ciblé +55 ans{{< /modal-btn >}}, +65 ans, +50 ans avec antécédent familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, [anévrysme de l'aorte]({{< relref "anevrysme-aorte-abdominale.md" >}}), [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}
+- Dépister largement l'artériopathie par index de pression systolique (IPS): {{< modal-btn modal-depistage-prevalent >}}ciblé +55 ans{{< /modal-btn >}}, +65 ans, +50 ans avec antécédent familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, [anévrysme de l'aorte]({{% relref "anevrysme-aorte-abdominale.md" %}}), [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}), [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}
 - La présence d'une artériopathie des membres inférieurs définit un {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}
 - Bilan des autres localisations athéromateuses
 - Suivi spécialisé de l'artériopathie par cardiologue et angiologue
@@ -36,16 +36,16 @@ todo = "rankok, centres réadapt vasculaire, QDV EQ-5D, association patient, htt
 
 Artériopathie oblitérante des membres inférieurs (AOMI)
 : Obstruction athéromateuse partielle ou totale des artères des membres inférieurs, le plus souvent asymptomatique.
-: Les facteurs majeurs d'artérite sont: âge, tabac, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), dyslipidémie et [diabète]({{< relref "diabete-type-2.md" >}}).
+: Les facteurs majeurs d'artérite sont: âge, tabac, [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), dyslipidémie et [diabète]({{% relref "diabete-type-2.md" %}}).
 : 3 stades: asymptomatique (20-50%), ischémie d'effort (45%, dont seulement 10-35% de claudication typique) et ischémie de repos (ou *critique*, < 5%).
 : Patients à {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} par atteinte artérielle globale:
-    - [Coronaropathie (50%) et infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) (IDM)
-    - [Accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}})
+    - [Coronaropathie (50%) et infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}) (IDM)
+    - [Accident vasculaire cérébral]({{% relref "accident-vasculaire-cerebral.md" %}})
     - Mortalité cardiovasculaire  
     Corrélation IPS-mortalité forte.
 
 AOMI masquée
-: Artériopathie *asymptomatique* liée à une neuropathie ou un niveau d'activité physique insuffisant pour révéler la claudication ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), insuffisance cardiaque, sédentarité).
+: Artériopathie *asymptomatique* liée à une neuropathie ou un niveau d'activité physique insuffisant pour révéler la claudication ([BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), insuffisance cardiaque, sédentarité).
 : La morbi-mortalité est identique aux patients ayant une claudication (ischémie d'effort).
 
 Ischémie permanente chronique
@@ -121,7 +121,7 @@ Sujets à haut risque de développer une artériopathie des membres inférieurs:
 
 - {{< modal-btn modal-depistage-prevalent >}}Ciblé +55 ans{{< /modal-btn >}} (*Bendermacher 2007*)
 - Suspicion clinique
-  - [Ulcère de jambe]({{< relref "ulcere-veineux.md" >}}) (*HAS 2006*)
+  - [Ulcère de jambe]({{% relref "ulcere-veineux.md" %}}) (*HAS 2006*)
   - Abolition des pouls distaux ou souffle vasculaire
   - Douleur d'effort
   - Limitation d'effort
@@ -129,10 +129,10 @@ Sujets à haut risque de développer une artériopathie des membres inférieurs:
 - Patients à risque d'AOMI
   - Toute autre localisation athéromateuse connue  
     Symptomatique ou non, coronaropathie +++.
-  - [Anévrysme de l'aorte abdominale]({{< relref "anevrysme-aorte-abdominale.md" >}})
-  - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
-  - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
-  - [Diabète]({{< relref "diabete-type-2.md" >}}) (*ESC 2019 diabetes*)  
+  - [Anévrysme de l'aorte abdominale]({{% relref "anevrysme-aorte-abdominale.md" %}})
+  - [Insuffisance rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})
+  - [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})
+  - [Diabète]({{% relref "diabete-type-2.md" %}}) (*ESC 2019 diabetes*)  
     Au diagnostic puis tous les 5-10 ans.
 - Asymptomatique à risque d'AOMI
   - **Âge +65 ans**
@@ -165,7 +165,7 @@ Signes et symptômes de l'artériopathie oblitérante des membres inférieurs:
 - Antécédents  
   Ischémie aiguë, maladie cardiovasculaire.
 - Antécédents familiaux  
-  AOMI, coronaropathie, cérébrovasculaire, [anévrysme aortique]({{< relref "anevrysme-aorte-abdominale.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}).
+  AOMI, coronaropathie, cérébrovasculaire, [anévrysme aortique]({{% relref "anevrysme-aorte-abdominale.md" %}}), [diabète]({{% relref "diabete-type-2.md" %}}).
 - Facteurs de risque cardiovasculaire
 - Symptômes
   - Douleurs en aval de l'obstacle, crampe ou fatigue musculaire à la marche le plus souvent (*claudication intermittente*) voire au repos  
@@ -177,11 +177,11 @@ Signes et symptômes de l'artériopathie oblitérante des membres inférieurs:
   - Ulcères
   - Douleurs thoraciques
   - Symptômes d'insuffisance cardiaque
-  - [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})
+  - [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}})
 - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - Mode de vie
 - Habitudes alimentaires
-- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 - Qualité de vie
 
 **NB.** Si neuropathie, sédentarité ou intolérance à l'exercice, la claudication peut être indolore (*AOMI masquée*).
@@ -223,7 +223,7 @@ L'*ESC* encourage la **mesure de l'index de pression systolique** (IPS) par tout
 - Claudication veineuse  
   ATCD de TVP. Après la marche, compression/serrement de tout le MI, soulagement rapide jambe surélevée.
 - Sciatalgie/cruralgie
-- [Canal lombaire étroit]({{< relref "canal-lombaire-etroit.md" >}})  
+- [Canal lombaire étroit]({{% relref "canal-lombaire-etroit.md" %}})  
   Soulagement variable au repos, aggravé debout.
 - Kyste poplité  
   Antécédents arthrosique. Sensibilité, inconfort, œdème rétro-gonal ou du mollet, au repos et à l'exercice sans effet positionnel.
@@ -252,7 +252,7 @@ L'*ESC* encourage la **mesure de l'index de pression systolique** (IPS) par tout
 
 ### Échodoppler artériel des membres inférieurs, aorte et troncs supra-aortiques
 
-L'échodoppler artériel confirme les lésions d'AOMI et est couplé au [dépistage systématique de l'anévrysme de l'aorte abdominale]({{< relref "anevrysme-aorte-abdominale.md" >}}).  
+L'échodoppler artériel confirme les lésions d'AOMI et est couplé au [dépistage systématique de l'anévrysme de l'aorte abdominale]({{% relref "anevrysme-aorte-abdominale.md" %}}).  
 Aide à la classification de *Fontaine et Rutherford*.
 
 ### Électrocardiogramme de repos voire épreuve d'effort
@@ -261,7 +261,7 @@ L'ECG dépiste une coronaropathie ou un trouble du rythme associé.
 
 ### Échodoppler des artère rénales
 
-Échodoppler des artère rénales après un œdème aigu du poumon flash ou une [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) rapidement progressive.
+Échodoppler des artère rénales après un œdème aigu du poumon flash ou une [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}) rapidement progressive.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'AOMI" %}}
@@ -286,12 +286,12 @@ Prise en charge de l'artériopathie (AOMI): Suivi cardiologique spécialisé, tr
   - Précautions avec les BB en ischémie chronique
   - Apports sodés < 5 g/j
 - Mesures hygiéno-diététiques
-  - **[Arrêt du tabac]({{< relref "arret-tabac.md" >}})**
+  - **[Arrêt du tabac]({{% relref "arret-tabac.md" %}})**
   - Activité physique quotidienne: auto-exercices et podomètre ([guide patient HAS APA](https://www.has-sante.fr/jcms/p_3476970/fr/l-activite-physique-pour-votre-sante-arteriopathie-chronique-obliterante-atheromateuse-des-membres-inferieurs-aomi))
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Correction d'un surpoids  
     Évaluations diététiques répétées, lutte contre la {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
-  - Vaccins: [grippe annuelle]({{< relref "grippe.md" >}}) (*SFMV 2020*), tétanos
+  - Vaccins: [grippe annuelle]({{% relref "grippe.md" %}}) (*SFMV 2020*), tétanos
 - Suivi
   - Suivi au moins annuel, IPS et doppler recontrôlés en modification des symptômes
   - Cardiologique systématique  
@@ -302,7 +302,7 @@ Prise en charge de l'artériopathie (AOMI): Suivi cardiologique spécialisé, tr
   - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}} (*SFD 2019*, *SFMV 2020*)
   - ≤ 8% si comorbidité sévère ou espérance de vie < 5 ans
   - AOMI symptomatique: envisager rivaroxaban 2,5 mg x 2/j + aspirine 100 mg/j (*ESC 2021 CVD*)
-- [ALD n°3]({{< relref "affection-longue-duree.md" >}})  
+- [ALD n°3]({{% relref "affection-longue-duree.md" %}})  
   Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant nécessité revascularisation ou amputation.
 - {{< references/compare >}}
 

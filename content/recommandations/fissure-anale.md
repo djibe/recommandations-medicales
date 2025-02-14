@@ -38,18 +38,18 @@ Fissure anale
 ### Facteurs de risque de fissure anale
 
 - **Traumatisme ou irritation du canal anal**  
-  Accouchement, [constipation]({{< relref "constipation.md" >}}), [diarrhée]({{< relref "diarrhee-chronique.md" >}}), sodomie.
-- [Infections sexuellement transmissibles](/tags/ist/): [syphilis locale]({{< relref "syphilis.md" >}}), [VIH]({{< relref "vih-sida.md" >}})
+  Accouchement, [constipation]({{% relref "constipation.md" %}}), [diarrhée]({{% relref "diarrhee-chronique.md" %}}), sodomie.
+- [Infections sexuellement transmissibles](/tags/ist/): [syphilis locale]({{% relref "syphilis.md" %}}), [VIH]({{% relref "vih-sida.md" %}})
 - Maladie de Crohn
-- [Tuberculose]({{< relref "tuberculose.md" >}})
+- [Tuberculose]({{% relref "tuberculose.md" %}})
 - Hémopathie
 
 ### Diagnostic différentiel de la fissure anale
 
 - Abcès périanal (douleur permanente pulsatile)
 - Fistule anorectale (écoulement purulent)
-- [Thrombose hémorroïdaire externe]({{< relref "hemorroides.md" >}}) (douleur permanente)
-- Dermatose: [psoriasis]({{< relref "psoriasis.md" >}}), [eczéma]({{< relref "dermatite-atopique.md" >}})
+- [Thrombose hémorroïdaire externe]({{% relref "hemorroides.md" %}}) (douleur permanente)
+- Dermatose: [psoriasis]({{% relref "psoriasis.md" %}}), [eczéma]({{% relref "dermatite-atopique.md" %}})
 - Cancer anal
 
 ### Abréviations

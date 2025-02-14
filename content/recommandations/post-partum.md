@@ -31,7 +31,7 @@ todo = "flow"
 - Des situations postnatales (cicatrices, dépression) peuvent justifier une *Hospitalisation À Domicile* (HAD)
 - Informations pour les parents: [Ameli](https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne/suivi-domicile), [1000 premiers jours](https://play.google.com/store/apps/details?id=com.fabrique.millejours), [M-pedia](https://www.mpedia.fr)
 
-Chapitres liés: [allaitement]({{< relref "allaitement.md" >}}), [grossesse]({{< relref "grossesse.md" >}}), [endométrite du post-partum]({{< relref "infections-genitales-hautes.md" >}})
+Chapitres liés: [allaitement]({{% relref "allaitement.md" %}}), [grossesse]({{% relref "grossesse.md" %}}), [endométrite du post-partum]({{% relref "infections-genitales-hautes.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -61,9 +61,9 @@ SAPL
 
 ### Rattrapage des vaccins après la grossesse
 
-- Si mère non vaccinée [coqueluche]({{< relref "coqueluche.md" >}}) en fin de grossesse: rattrapage dTcaPolio (Boostrix, Repevax) de tout l'entourage pour cocooning si le dernier rappel a +10 ans (+5 ans avant 25 ans)
-- Si enfant vulnérable: rattrapage [grippe]({{< relref "grippe.md" >}})
-- Si mère séronégative: [varicelle]({{< relref "varicelle.md" >}}), rubéole
+- Si mère non vaccinée [coqueluche]({{% relref "coqueluche.md" %}}) en fin de grossesse: rattrapage dTcaPolio (Boostrix, Repevax) de tout l'entourage pour cocooning si le dernier rappel a +10 ans (+5 ans avant 25 ans)
+- Si enfant vulnérable: rattrapage [grippe]({{% relref "grippe.md" %}})
+- Si mère séronégative: [varicelle]({{% relref "varicelle.md" %}}), rubéole
 
 > -- *Calendrier vaccinal*
 
@@ -94,7 +94,7 @@ Une Hospitalisation À Domicile (HAD) est possible pour des soins considérables
 {{% /collapse %}}
 {{%collapse "Contraception du post-partum" %}}
 
-Voir [Contraception]({{< relref "contraception.md" >}}).
+Voir [Contraception]({{% relref "contraception.md" %}}).
 
 {{< traitements/contraception-pp >}}
 
@@ -107,7 +107,7 @@ Information de la mère: [Ameli](https://www.ameli.fr/assure/sante/themes/accouc
 
 Effluvium télogène fréquent dans les 2 mois suivant l'accouchement: contrôle de l'hémogramme et information sur la repousse des cheveux.
 
-Voir [alopécie]({{< relref "alopecie.md" >}}).
+Voir [alopécie]({{% relref "alopecie.md" %}}).
 
 ### Anémie et post-partum
 
@@ -123,7 +123,7 @@ Pour les céphalées liées à la péridurale, un blood patch peut être réalis
 
 ### Dépression postnatale
 
-Le **blues du post-partum** (ou << baby blues >>) survient les premiers jours (50 à 80% des parturiantes). Il est transitoire avec résolution spontanée **sous 10 jours**. Un blues sévère est à risque de transformation en **[dépression]({{< relref "depression.md" >}})**.
+Le **blues du post-partum** (ou << baby blues >>) survient les premiers jours (50 à 80% des parturiantes). Il est transitoire avec résolution spontanée **sous 10 jours**. Un blues sévère est à risque de transformation en **[dépression]({{% relref "depression.md" %}})**.
 
 Dépistage clinique systématique de la **dépression postnatale** (prévalence: 13%). Voire {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou [échelle EPDS](https://www.hug.ch/sante-psychique-perinatalite/comment-depister-depression-perinatale-quizz-epds). Les facteurs de risques principaux sont les **facteurs de risques psycho-sociaux**.
 
@@ -134,7 +134,7 @@ En cas de dépression postnatale:
 - Réévaluation des facteurs de risques psycho-sociaux ++
 - Visite à domicile, soutien téléphonique, psychothérapie
 - Risque de récidive élevé aux grossesses suivantes
-- Voir le chapitre [dépression]({{< relref "depression.md" >}})
+- Voir le chapitre [dépression]({{% relref "depression.md" %}})
 
 Hospitalisation en cas de dépression sévère du post-partum. Une Hospitalisation À Domicile (HAD) est possible pour une dépression du post-partum.
 
@@ -152,7 +152,7 @@ La consultation post natale doit avoir lieu dans les 6-8 semaines après l'accou
 Éléments repris lors de la consultation post-natale:
 
 - Repérer des facteurs de risque psycho-sociaux
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}), de l'[alcool]({{< relref "sevrage-alcool.md" >}}) et des drogues
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}}), de l'[alcool]({{% relref "sevrage-alcool.md" %}}) et des drogues
 - [Guide activité physique](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_postpartum.pdf) (PDF)
 - L'examen gynécologique n'est pas systématique
   - Frottis cervico-vaginal si +2 ans ou antécédent de frottis anormal
@@ -164,10 +164,10 @@ La consultation post natale doit avoir lieu dans les 6-8 semaines après l'accou
 - Contraception du post-partum (voir section dédiée)
 - Troubles psychiques, relation mère-enfant
 - Couple, relations sexuelles
-- [Allaitement]({{< relref "allaitement.md" >}})
-- RCIU, MFIU, [pré-éclampsie sévère ou précoce]({{< relref "pre-eclampsie.md" >}}): rechercher un syndrome des anticorps antiphospholipides (SAPL)
-- Si [pré-éclampsie]({{< relref "pre-eclampsie.md" >}}): voir le chapitre dédié
-- Si [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}}):
+- [Allaitement]({{% relref "allaitement.md" %}})
+- RCIU, MFIU, [pré-éclampsie sévère ou précoce]({{% relref "pre-eclampsie.md" %}}): rechercher un syndrome des anticorps antiphospholipides (SAPL)
+- Si [pré-éclampsie]({{% relref "pre-eclampsie.md" %}}): voir le chapitre dédié
+- Si [diabète gestationnel]({{% relref "diabete-gestationnel.md" %}}):
   - Évolution des glycémies capillaires
   - Glycémie à jeun
   - Répétées tous les 1 à 3 ans à vie
@@ -181,10 +181,10 @@ La rééducation périnéale n'est pas efficace sur le long terme. Les exercices
 
 La rééducation périnéale est réalisée par une sage-femme ou un kinésithérapeute à partir de 2 mois après l'accouchement si:
 
-- L'[incontinence urinaire]({{< relref "incontinence-urinaire-femme.md" >}}) **persiste à 3 mois** (pas avant 2 mois)
-- [Incontinence anale]({{< relref "incontinence-fecale.md" >}})
+- L'[incontinence urinaire]({{% relref "incontinence-urinaire-femme.md" %}}) **persiste à 3 mois** (pas avant 2 mois)
+- [Incontinence anale]({{% relref "incontinence-fecale.md" %}})
 
-La rééducation périnéale ne permet pas de traiter un [prolapsus]({{< relref "prolapsus-genital-femme.md" >}}) ou des dyspareunies.
+La rééducation périnéale ne permet pas de traiter un [prolapsus]({{% relref "prolapsus-genital-femme.md" %}}) ou des dyspareunies.
 
 10 séances de rééducation sont remboursées à 100% dans les 3 ans, à 70% au-delà. (*[ONSSF](https://www.onssf.org/?view=article&id=383:jusqua-quand-la-reeducation-est-elle-prise-en-charge-par-lassurance-maternite&catid=47)*)
 

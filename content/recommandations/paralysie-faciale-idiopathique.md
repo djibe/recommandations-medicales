@@ -66,9 +66,9 @@ SFORL
 - 70% de guérison complète à 6 mois  
   Corrélée à la gravité initiale.  
   Taux de récupération de 61% en PFP totale initiale et de 94% pour une PFP partielle initiale.
-- [Maladie de Lyme]({{< relref "maladie-lyme.md" >}})  
+- [Maladie de Lyme]({{% relref "maladie-lyme.md" %}})  
   6 à 20% des PFP selon les régions.
-- [Diabète]({{< relref "diabete-type-2.md" >}})  
+- [Diabète]({{% relref "diabete-type-2.md" %}})  
   Présent chez 10% des patients développant une PFP.
 - 8 à 12% des PFP d'allure idiopathique sont tumorales (malignes à 30%)
 
@@ -78,7 +78,7 @@ SFORL
 ### Interrogatoire
 
 - Antécédents  
-  [Grossesse]({{< relref "grossesse.md" >}}), [pré-éclampsie]({{< relref "pre-eclampsie.md" >}}), [obésité]({{< relref "obesite-adulte.md" >}}), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), diabète, insuffisance respiratoire.
+  [Grossesse]({{% relref "grossesse.md" %}}), [pré-éclampsie]({{% relref "pre-eclampsie.md" %}}), [obésité]({{% relref "obesite-adulte.md" %}}), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), diabète, insuffisance respiratoire.
 - Traitements en cours
 - Rapports sexuels à risque
 - Profession
@@ -99,7 +99,7 @@ SFORL
   - Aggravation après 72 heures
   - PFP fluctuante
   - PFP bilatérale
-  - [Morsure de tique]({{< relref "maladie-lyme.md" >}})
+  - [Morsure de tique]({{% relref "maladie-lyme.md" %}})
   - Otalgie
   - Traumatisme crânien
   - Surdité homolatérale
@@ -173,11 +173,11 @@ Les diagnostics différentiels sont dominés par les **causes tumorales, traumat
 - Traumatique  
   Fracture du rocher ou péri-parotidienne.
 - Cause infectieuse
-  - [Zona]({{< relref "zona.md" >}})
-  - [Maladie de Lyme]({{< relref "maladie-lyme.md" >}}) {{%class%}}(*Borrelia burgdorferi*){{%/class%}}
-  - [Tuberculose]({{< relref "tuberculose.md" >}})
-  - [VIH]({{< relref "vih-sida.md" >}})
-- [Diabète]({{< relref "diabete-type-2.md" >}})
+  - [Zona]({{% relref "zona.md" %}})
+  - [Maladie de Lyme]({{% relref "maladie-lyme.md" %}}) {{%class%}}(*Borrelia burgdorferi*){{%/class%}}
+  - [Tuberculose]({{% relref "tuberculose.md" %}})
+  - [VIH]({{% relref "vih-sida.md" %}})
+- [Diabète]({{% relref "diabete-type-2.md" %}})
 - Iatrogène
 - Maladie de système
   - Vascularite
@@ -256,7 +256,7 @@ Valaciclovir 1 g x 3/j pendant 7 jours
 
 #### Paralysie faciale périphérique zostérienne
 
-Hospitalisation en urgence, [lire le chapitre *Zona*]({{< relref "zona.md" >}}).
+Hospitalisation en urgence, [lire le chapitre *Zona*]({{% relref "zona.md" %}}).
 
 ### Soins ophtalmologiques
 

@@ -26,20 +26,20 @@ todo = "écriture SEO, KEY patiente | règles d'hygiène, Chart J1-J31, lire sou
 
 {{%article-summary%}}
 
-- La ménopause entraîne une augmentation importante du risque de [fracture osseuse]({{< relref "osteoporose.md" >}}) et de *maladie cardiovasculaire*
+- La ménopause entraîne une augmentation importante du risque de [fracture osseuse]({{% relref "osteoporose.md" %}}) et de *maladie cardiovasculaire*
 - Le diagnostic de ménopause est clinique et rétrospectif (la VPP du test au progestatif n'est pas connue)
-- En cas de [contraception]({{< relref "contraception.md" >}}) poursuivie: l'interrompre et suivre l'aménorrhée
-- Si ménopause avant 40 ans: bilan d'[insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
+- En cas de [contraception]({{% relref "contraception.md" %}}) poursuivie: l'interrompre et suivre l'aménorrhée
+- Si ménopause avant 40 ans: bilan d'[insuffisance ovarienne prématurée]({{% relref "insuffisance-ovarienne-prematuree.md" %}})
 - Examen clinique complet et complémentaires adaptés, évaluer le risque cardiovasculaire
 - Traitements non hormonaux de la ménopause: arrêt tabac/alcool, activité physique, correction d'un surpoids, yoga, hypnose ...
 - Le traitement hormonal de la ménopause (THM):
   - Débuter quand diagnostic certain et seulement dans les 10 premières années
   - Indications et contre-indications précises (voir *Traitement hormonal de la ménopause*)  
-  **Contre-indications majeures**: antécédent de [cancer du sein]({{< relref "cancer-sein.md" >}}), [infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}), AVC ou [Alzheimer]({{< relref "maladie-alzheimer.md" >}})
+  **Contre-indications majeures**: antécédent de [cancer du sein]({{% relref "cancer-sein.md" %}}), [infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}), AVC ou [Alzheimer]({{% relref "maladie-alzheimer.md" %}})
   - Utiliser les doses minimales efficaces d'estrogène cutané et de progestérone orale combinés
 - Rapporter tout saignement vaginal après la ménopause
 
-Chapitres liés: [mycoses vaginales]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), [infections urinaires]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
+Chapitres liés: [mycoses vaginales]({{% relref "mycoses-dermatophytes-candidoses.md" %}}), [infections urinaires]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -53,7 +53,7 @@ Les signes *climatériques* (bouffées de chaleur, sueurs nocturnes, sécheresse
 : Après 50 ans, le risque de grossesse est de 1-5/1000 année-femme. 11 million de femmes ménopausées en France.
 : Après la ménopause, l'*ostéoporose* (40% de risque fracturaire) et les *maladies cardiovasculaires* (MCV, 45% des décès) augmentent considérablement.
 
-[Insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
+[Insuffisance ovarienne prématurée]({{% relref "insuffisance-ovarienne-prematuree.md" %}})
 : ex *ménopause précoce* ou *ménopause prématurée*.
 : Ménopause survenant avant 40 ans et dont l'étiologie doit être recherchée.
 : Lien épidémiologique suggéré: risque de maladie d'Alzheimer x3 (annulée si THM jusqu'à 50 ans).
@@ -76,7 +76,7 @@ En revanche, un test *négatif* (absence de saignements) n'affirme pas une méno
 | &gt; 55 ans             | Ménopause tardive              |
 | 45-55 ans               | Ménopause naturelle            |
 | 40-45 ans               | Ménopause anticipée            |
-| < 40 ans                | [Insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}}) |
+| < 40 ans                | [Insuffisance ovarienne prématurée]({{% relref "insuffisance-ovarienne-prematuree.md" %}}) |
 | Radio/chimio-induite    | Ménopause iatrogène            |
 | Ovariectomie bilatérale | Ménopause chirurgicale         |
 {{< /table >}}
@@ -151,7 +151,7 @@ Le diagnostic est clinique (voir *Définitions*).
   - L'aménorrhée est très fréquente sous traitement
   - La reprise ovarienne peut être extrêmement retardée (> 12 mois). La définition habituelle n'est donc pas applicable.
   - Aucun examen ne peut conclure au diagnostic après chimiothérapie gonadotoxique
-  - [Cancer du sein]({{< relref "cancer-sein.md" >}})  
+  - [Cancer du sein]({{% relref "cancer-sein.md" %}})  
     Considérer la femme comme non ménopausée si le statut n'est pas connu sous contraception hormonale.  
     En traitement agoniste GnRH ou tamoxifène, aucun examen ne peut faire le diagnostic.
 
@@ -170,7 +170,7 @@ Le diagnostic est clinique (voir *Définitions*).
   - Antécédent de prééclampsie ou diabète gestationnel
 - Poids, taille, IMC, pression artérielle aux 2 bras, pouls périphériques
 - Symptômes cardiovasculaires  
-  - [Douleurs thoraciques, angor]({{< relref "syndrome-coronarien-chronique.md" >}})
+  - [Douleurs thoraciques, angor]({{% relref "syndrome-coronarien-chronique.md" %}})
   - Fatigue, dyspnée
   - Épigastralgies, nausées
   - Palpitations
@@ -191,7 +191,7 @@ Le diagnostic est clinique (voir *Définitions*).
   - Douleurs ostéoarticulaires
   - Syndrome génito-urinaire de la ménopause (SGUM, 27-70%)  
     Ex. *atrophie vulvovaginale*.  
-    Diagnostic clinique si ≥ 1 symptôme: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (signes fonctionnels, [cystites récidivantes]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})).
+    Diagnostic clinique si ≥ 1 symptôme: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (signes fonctionnels, [cystites récidivantes]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})).
 - Information claire des bénéfices-risques à notifier dans le dossier médical
 
 > En début de ménopause, le score clinique *FRAX* a des performances prédictives de fracture médiocres alors que la mesure de la DMO par DXA est prédictive à 10 ans (Se 60%, Spe 70%)
@@ -200,9 +200,9 @@ Le diagnostic est clinique (voir *Définitions*).
 
 Diagnostics à évoquer devant des sueurs et des cycles irréguliers:
 
-- [Hyperthyroïdie]({{< relref "hyperthyroidie.md" >}})
+- [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})
 - Hyperprolactinémie
-- [Grossesse]({{< relref "grossesse.md" >}})
+- [Grossesse]({{% relref "grossesse.md" %}})
 
 ### Bouffées vasomotrices atypiques
 
@@ -215,7 +215,7 @@ Réaliser le bilan recommandé (voir *Examens complémentaires*) et adresser à 
 Les saignements utérins anormaux (SUA) chez une femme prenant un THM sont ceux survenant en dehors de la période d'arrêt du progestatif en schéma séquentiel (*FIGO 2011*).
 
 Sous traitement hormonal, les saignements anormaux sont peu fréquents (15%) et surtout en début de THM. Ils sont une cause importante de mauvaise observance.  
-Le bilan différentiel doit être systématique (voir *Examens complémentaires*) pour éliminer un [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}). Les autres causes de saignements utérins anormaux sont: reprise de l'activité ovarienne, observance médiocre, troubles trophiques de l'endomètre.
+Le bilan différentiel doit être systématique (voir *Examens complémentaires*) pour éliminer un [cancer de l'endomètre]({{% relref "cancer-endometre.md" %}}). Les autres causes de saignements utérins anormaux sont: reprise de l'activité ovarienne, observance médiocre, troubles trophiques de l'endomètre.
 
 ### Syndrome douloureux mammaire (SDM)
 
@@ -254,7 +254,7 @@ Indications au **remboursement** l'ostéodensitométrie au cours de la ménopaus
 ### Examens à réaliser pour des bouffées vasomotrices atypiques
 
 - NFS, VS, CRP
-- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
+- [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
 - [TSH](/tags/tsh/), thyrocalcitonine
 - PTH, calcémie, albuminémie
 - Métanéphrines libres plasmatiques
@@ -275,9 +275,9 @@ Le reste du bilan est réalisé par l'endocrinologue.
 {{% /collapse %}}
 {{%collapse "Traitements non hormonaux de la ménopause" %}}
 
-Objectifs: amélioration de la santé, des signes climatériques, du risque cardiovasculaire et [prévention de l'ostéoporose]({{< relref "osteoporose.md" >}}).
+Objectifs: amélioration de la santé, des signes climatériques, du risque cardiovasculaire et [prévention de l'ostéoporose]({{% relref "osteoporose.md" %}}).
 
-- [Arrêt tabac]({{< relref "arret-tabac.md" >}}) et alcool
+- [Arrêt tabac]({{% relref "arret-tabac.md" %}}) et alcool
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Correction d'un surpoids  
   Perte de 5-10% par réduction glucido-lipidique.
@@ -287,7 +287,7 @@ Objectifs: amélioration de la santé, des signes climatériques, du risque card
   - Avec impact (marche, course à pied)
   - Renforcement musculaire
 - Supplémentation vitamino-calcique  
-  Globalement cible vitamine D > 75 nmol/L (détail au chapitre [Vitamine D]({{< relref "vitamine-d.md" >}}), *Souberbielle 2019*)
+  Globalement cible vitamine D > 75 nmol/L (détail au chapitre [Vitamine D]({{% relref "vitamine-d.md" %}}), *Souberbielle 2019*)
 - Dépistages organisés des cancers
 - Bouffées vasomotrices
   - Yoga
@@ -318,10 +318,10 @@ Objectifs: amélioration de la santé, des signes climatériques, du risque card
 
 Contre-indications au traitement de la ménopause:
 
-- [Antécédent de cancer du sein]({{< relref "cancer-sein.md" >}})  
+- [Antécédent de cancer du sein]({{% relref "cancer-sein.md" %}})  
   Quel que soit le statut hormonal ou invasif/in situ.
-- Antécédent d'[infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) ou d'[AVC ischémique]({{< relref "accident-vasculaire-cerebral.md" >}})
-- [Maladie d'Alzheimer]({{< relref "maladie-alzheimer.md" >}})
+- Antécédent d'[infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}) ou d'[AVC ischémique]({{% relref "accident-vasculaire-cerebral.md" %}})
+- [Maladie d'Alzheimer]({{% relref "maladie-alzheimer.md" %}})
 - Contre-indication relative
   - Syndrome douloureux mammaire
 - Contre-indications temporaires
@@ -329,7 +329,7 @@ Contre-indications au traitement de la ménopause:
   - Exploration de saignements utérins anormaux
 - Contre-indications à l'estradiol par voie orale
   - [Antécédent de thrombo-embolie (MVTE)](/tags/mvte/)
-  - [Obésité]({{< relref "obesite-adulte.md" >}})
+  - [Obésité]({{% relref "obesite-adulte.md" %}})
   - Thrombophilie
   - Risque cardiovasculaire marqué
 
@@ -356,7 +356,7 @@ Le THM peut être proposé en cas de ménopause récente (< 10 ans) selon la bal
   - Effet inconstant, partiel et suspensif
   - Estrogènes par voie vaginale
   - Effet synergique avec lactobacilles
-- [Insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}})  
+- [Insuffisance ovarienne prématurée]({{% relref "insuffisance-ovarienne-prematuree.md" %}})  
   Traitement hormonal substitutif poursuivi jusqu'à au moins 51 ans.
 
 Précisions: aucun effet sur l'endomètre si durée < 2 ans.
@@ -371,7 +371,7 @@ Recommandations pour le traitement hormonal de la ménopause (THM) en pratique:
 - Si hystérectomie: estradiol cutané seul
 - Schéma de THM
   - *Combiné continu* privilégié  
-    Évite hémorragies de privation et BVM concomitantes, [migraines]({{< relref "migraine.md" >}}), simplicité.
+    Évite hémorragies de privation et BVM concomitantes, [migraines]({{% relref "migraine.md" %}}), simplicité.
   - ou *séquentiel* (hémorragies de privation)
   - La dose minimale efficace peut varier avec le temps
 - Délai d'efficacité sur les bouffées vasomotrices: 2-6 semaines.  
@@ -513,7 +513,7 @@ Il peut être repris en cas de dégradation de la qualité de vie (selon la bala
 
 Après l'arrêt du traitement hormonal, poursuivre un suivi médical osseux et cardiovasculaire rigoureux.
 
-NB. Le THM est un facteur de risque de [candidose vulvovaginale récurrente]({{< relref "mycoses-dermatophytes-candidoses.md" >}}).
+NB. Le THM est un facteur de risque de [candidose vulvovaginale récurrente]({{% relref "mycoses-dermatophytes-candidoses.md" %}}).
 
 ### Découverte de masse mammaire sous traitement hormonal
 
@@ -573,7 +573,7 @@ Le THM utilisé en France ne modifie pas la survenue des pathologies suivantes:
   Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de chlormadinone, médrogestone, acétate de cyprotérone, acétate de médroxyprogestérone) quel que soit l'IMC.
 - Incidence du cancer du sein si durée du THM de moins de 5 ans
 - Mortalité par cancer du sein
-- [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}})
+- [Cancer de l'endomètre]({{% relref "cancer-endometre.md" %}})
 
 > -- *CNGOF 2021*
 
@@ -583,28 +583,28 @@ Le THM utilisé en France ne modifie pas la survenue des pathologies suivantes:
 #### Bénéfices du traitement hormonal de la ménopause
 
 - Osseux  
-  Réduit le risque de fractures de tous les sites osseux (voir [ostéoporose]({{< relref "osteoporose.md" >}})).
+  Réduit le risque de fractures de tous les sites osseux (voir [ostéoporose]({{% relref "osteoporose.md" %}})).
 - Cardiovasculaires ++  
-  Réduit le risque d'[infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) si débuté avant 60 ans ou ménopause de moins de 10 ans.
+  Réduit le risque d'[infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}) si débuté avant 60 ans ou ménopause de moins de 10 ans.
 - Cancers  
-  Réduit le risque des cancers: [colorectal]({{< relref "cancer-colorectal.md" >}}), du [pancréas]({{< relref "cancer-pancreas.md" >}}), de l'œsophage, de l'[estomac]({{< relref "cancer-estomac.md" >}}) et du [foie]({{< relref "carcinome-hepatocellulaire.md" >}})
+  Réduit le risque des cancers: [colorectal]({{% relref "cancer-colorectal.md" %}}), du [pancréas]({{% relref "cancer-pancreas.md" %}}), de l'œsophage, de l'[estomac]({{% relref "cancer-estomac.md" %}}) et du [foie]({{% relref "carcinome-hepatocellulaire.md" %}})
 - Démence  
-  Réduirait le risque de 29 à 44% mais faible niveau de preuve ([étude divergente](https://www.bmj.com/content/381/bmj-2022-072770)) surtout en cas de [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}).
+  Réduirait le risque de 29 à 44% mais faible niveau de preuve ([étude divergente](https://www.bmj.com/content/381/bmj-2022-072770)) surtout en cas de [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}).
 - Survie  
   La mortalité avant 60 ans est réduite par un effet cardiovasculaire très protecteur.
 
 #### Risques du traitement hormonal de la ménopause
 
-- [Cancer du sein]({{< relref "cancer-sein.md" >}}) si traitement prolongé +5 ans  
+- [Cancer du sein]({{% relref "cancer-sein.md" %}}) si traitement prolongé +5 ans  
   Le sur-risque disparaît en 2 à 10 ans après l'arrêt du THM.
 - Antécédents cardiovasculaires  
-  Surrisque de récidive d'[AVC ischémique]({{< relref "accident-vasculaire-cerebral.md" >}}) ou d'[infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}) en cas de schéma de THM non utilisé en France (ECE + MPA) mais le principe de précaution s'applique.
-- [Cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}})  
+  Surrisque de récidive d'[AVC ischémique]({{% relref "accident-vasculaire-cerebral.md" %}}) ou d'[infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}) en cas de schéma de THM non utilisé en France (ECE + MPA) mais le principe de précaution s'applique.
+- [Cancer de l'ovaire]({{% relref "cancer-ovaire.md" %}})  
   1 cas supplémentaire pour 8000 femmes traitées. Essai avec schéma non français (ECE + MPA) ne retrouvait pas de différence pour durée de moins de 5 ans.
-- Risque de [candidose vaginale récurrente]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
+- Risque de [candidose vaginale récurrente]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
 - Risques avec les schémas non utilisés en France (estradiol oral, acétate de médroxyprogestérone MPA ...)
   - Estradiol oral: surrisque d'AVC ischémique, de récidive de thromboembolie veineuse
-  - Estradiol seul: [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) (annulé par la prise de 12 jours minimum de progestatif mensuels)
+  - Estradiol seul: [cancer de l'endomètre]({{% relref "cancer-endometre.md" %}}) (annulé par la prise de 12 jours minimum de progestatif mensuels)
   - Si estradiol + acétate de nomegestrol ou promegestone
   - [Maladie veineuse thrombo-embolique](/tags/mvte/) (MVTE)  
     Augmentation du risque de phlébite, embolie pulmonaire.

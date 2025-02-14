@@ -24,7 +24,7 @@ flowchart = true
 {{%article-summary%}}
 
 - L'hémangiome hépatique est une tumeur toujours bénigne du foie, le plus souvent asymptomatique
-- L'hémangiome doit être différencié d'un cancer hépatique ([carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}}) surtout, hépatopathie ++), d'une métastase (contexte de cancer connu) ou d'une infection hépatique (voyage)
+- L'hémangiome doit être différencié d'un cancer hépatique ([carcinome hépatocellulaire]({{% relref "carcinome-hepatocellulaire.md" %}}) surtout, hépatopathie ++), d'une métastase (contexte de cancer connu) ou d'une infection hépatique (voyage)
 - Le bilan de l'hémangiome hépatique comporte un examen clinique rigoureux, un bilan hépatique avec sérologies des hépatites et une échographie abdominale
 - Un avis spécialisé du gastro-entérologue est important au diagnostic pour ne pas méconnaître une lésion autre
 - La prise en charge de l'hémangiome est dans la grande majorité des cas simple avec une abstention de traitement
@@ -58,9 +58,9 @@ EASL
 Autres tumeurs et lésions hépatiques:
 
 - Tumeurs hépatiques
-  - [Hyperplasie nodulaire focale]({{< relref "hyperplasie-nodulaire-focale.md" >}}) (HNF)
+  - [Hyperplasie nodulaire focale]({{% relref "hyperplasie-nodulaire-focale.md" %}}) (HNF)
   - Adénome hépatocellulaire (AF)
-  - [Carcinome hépatocellulaire (CHC)]({{< relref "carcinome-hepatocellulaire.md" >}})
+  - [Carcinome hépatocellulaire (CHC)]({{% relref "carcinome-hepatocellulaire.md" %}})
   - Cholangiocarcinome
   - Métastase hépatique
 - Kyste biliaire
@@ -79,7 +79,7 @@ Signes et symptômes à rechercher pour étayer un nodule hépatique. L'enjeu co
 - Antécédents  
   **[Cancer](/tags/cancer/)**, cirrhose et **facteurs de risque d'hépatopathie**: [hépatite virale](/tags/hepatite/), transfusion, tatouage, drogues IV, alcool, syndrome métabolique, [diabète](/tags/diabete/).
 - Antécédents familiaux: cancer, hépatopathie
-- Traitements en cours et passés: [contraception]({{< relref "contraception.md" >}}), [méthotrexate]({{< relref "methotrexate.md" >}}), [tamoxifène]({{< relref "cancer-sein.md" >}}), androgènes
+- Traitements en cours et passés: [contraception]({{% relref "contraception.md" %}}), [méthotrexate]({{% relref "methotrexate.md" %}}), [tamoxifène]({{% relref "cancer-sein.md" %}}), androgènes
 - Alcool, tabac
 - Voyage à l'étranger
 - Circonstances de découverte de l'hémangiome (**découverte fortuite** ++)
@@ -97,7 +97,7 @@ Signes et symptômes à rechercher pour étayer un nodule hépatique. L'enjeu co
   {{< clinique/hypertension-portale >}}
 - Signes d'insuffisance hépatocellulaire  
   {{< clinique/insuffisance-hepato-cellulaire >}}
-- [Splénomégalie]({{< relref "splenomegalie.md" >}})
+- [Splénomégalie]({{% relref "splenomegalie.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

@@ -24,13 +24,13 @@ flowchart = true
 {{%article-summary%}}
 
 - Le diagnostic d'hémorroïdes est clinique
-- L'examen clinique vise à éliminer un diagnostic différentiel ([fissure anale]({{< relref "fissure-anale.md" >}}), tumeur, condylomes ...)
+- L'examen clinique vise à éliminer un diagnostic différentiel ([fissure anale]({{% relref "fissure-anale.md" %}}), tumeur, condylomes ...)
 - Bilan avec coloscopie après 50 ans ou en cas d'antécédents de cancer colorectal
 - La prise en charge des hémorroïdes est surtout symptomatique avec: lutte contre la constipation (laxatifs ispaghul, hydratation ...), topiques (non remboursés: corticoïdes ± anesthésiques, carraghénates), veinotoniques voire traitement instrumental. Ces traitements sont globalement aussi utiles pendant la grossesse ([*CRAT*](https://www.lecrat.fr/12336/))
 - L'incision de la thrombose hémorroïdaire externe n'est pas systématique
 - Avis proctologique en cas d'hémorroïdes chroniques, échec du traitement ou anomalie à l'examen
 
-Chapitres liés: [fissure anale]({{< relref "fissure-anale.md" >}}), [incontinence fécale]({{< relref "incontinence-fecale.md" >}})
+Chapitres liés: [fissure anale]({{% relref "fissure-anale.md" %}}), [incontinence fécale]({{% relref "incontinence-fecale.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -70,14 +70,14 @@ SNFGE
 
 - Grossesse
 - Antécédents  
-  Digestifs ([syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}), MICI, [diverticules]({{< relref "diverticulite-sigmoidienne.md" >}})), gynéco-obstétricaux, [infections sexuellement transmissibles (IST)](/tags/ist/).
-- Antécédents familiaux: [cancer colorectal]({{< relref "cancer-colorectal.md" >}})
+  Digestifs ([syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}), MICI, [diverticules]({{% relref "diverticulite-sigmoidienne.md" %}})), gynéco-obstétricaux, [infections sexuellement transmissibles (IST)](/tags/ist/).
+- Antécédents familiaux: [cancer colorectal]({{% relref "cancer-colorectal.md" %}})
 - Traitements en cours et essayés pour les hémorroïdes
 - Alimentation: contenu en fibres
 - Symptômes hémorroïdaires
   - Ancienneté des problèmes anaux
   - Examens déjà réalisés (coloscopie)
-  - [Constipation]({{< relref "constipation.md" >}})
+  - [Constipation]({{% relref "constipation.md" %}})
   - Prurit
   - Rythme des poussées **douloureuses**
   - Hémorroïdes internes: **rectorragies indolores suivants les selles**
@@ -85,7 +85,7 @@ SNFGE
     Tension et brûlure du canal anal en cas de thrombose interne (plus rare).
   - Prolapsus hémorroïdaire
 - Rythme des selles, troubles du transit associés, modifications du transit
-- Symptômes à étayer: troubles du transit (intestin irritable, [cancer du côlon]({{< relref "cancer-colorectal.md" >}})), autres douleurs
+- Symptômes à étayer: troubles du transit (intestin irritable, [cancer du côlon]({{% relref "cancer-colorectal.md" %}})), autres douleurs
 - Signes fonctionnels urinaires ou prolapsus associé
 - Qualité de vie
 
@@ -94,7 +94,7 @@ SNFGE
 L'examen est plus facile en décubitus latéral gauche (position de Sims):
 
 - Inspection de la marge anale  
-  Hémorroïdes externes, thrombose hémorroïdaire, marisques (bourrelet charnu séquellaire d'une thrombose hémorroïdaire) et diagnostic différentiel ([fissure anale]({{< relref "fissure-anale.md" >}}), [oxyurose]({{< relref "oxyurose.md" >}}) ...).
+  Hémorroïdes externes, thrombose hémorroïdaire, marisques (bourrelet charnu séquellaire d'une thrombose hémorroïdaire) et diagnostic différentiel ([fissure anale]({{% relref "fissure-anale.md" %}}), [oxyurose]({{% relref "oxyurose.md" %}}) ...).
 - Prolapsus hémorroïdaire, rectal ou gynécologique
 - Toucher rectal (omis en cas de crise)
 
@@ -135,7 +135,7 @@ L'objectif de la prise en charge médicale des hémorroïdes est de soulager les
   - Flavonoïdes ([diosmine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69941714&typedoc=R), rutosides)  
     Diminuent la durée et l'intensité des symptômes internes (dont rectorragies). En cure courte ou au long cours.
   - Ginkgo Biloba, troxerutine cure courte (Rheoflux®, Veinamitol®)
-- Lutte contre la [constipation]({{< relref "constipation.md" >}}):
+- Lutte contre la [constipation]({{% relref "constipation.md" %}}):
   - Boire 1,5 L/j
   - Alimentation riche en fibre
   - Ne pas se retenir, éviter les efforts de poussée, position adaptée (marchepied), limiter le temps aux toilettes

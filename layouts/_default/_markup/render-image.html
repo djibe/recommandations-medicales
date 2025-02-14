@@ -1,11 +1,16 @@
 {{- $image := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL)) -}}
 {{/* I use .Title to specify the max-width property. Ex: ![AltText](image.png "500px") */}}
+{{/* Try: https://github.com/pawelgrzybek/pawelgrzybek.com/blob/master/content/posts/2021-01-04-webp-and-avif-images-on-a-hugo-website/index.md */}}
+<picture>
 <img
   src="{{ .Destination | safeURL }}"
   alt="{{ .Text }}"
   loading="lazy"
+  decoding="async"
   {{ with $image }}
-  width="{{ $image.Width }}" height="{{ $image.Height }}"
+  width="{{ $image.Width }}"
+  height="{{ $image.Height }}"
   {{ end }}
   {{ with .Title}}class="img-fluid" style="max-width: {{ . }};"{{ end }}
-/>
+>
+</picture>

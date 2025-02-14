@@ -45,16 +45,16 @@ Pathologies à étayer devant une suspicion de panaris:
 - Pseudo-panaris herpétique (HSV)  
   une ou plusieurs vésico-pustules à contenu purulent. Caractère récidivant de localisation fixe, profession à risque (infirmier, médecin, dentiste).  
 - Faux panaris d'Osler  
-  Principalement sur la pulpe du doigt, douloureux survenant lors d'une [endocardite infectieuse]({{< relref "endocardite.md" >}}).
-- [Psoriasis]({{< relref "psoriasis.md" >}})
-- [Dermatite atopique]({{< relref "dermatite-atopique.md" >}})
+  Principalement sur la pulpe du doigt, douloureux survenant lors d'une [endocardite infectieuse]({{% relref "endocardite.md" %}}).
+- [Psoriasis]({{% relref "psoriasis.md" %}})
+- [Dermatite atopique]({{% relref "dermatite-atopique.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 **Le diagnostic de panaris est clinique.** Rechercher une inoculation septique à l'interrogatoire et un corps étranger.
 
-Intérêt de l'auscultation cardiaque chez le patient à risque d'[endocardite infectieuse]({{< relref "endocardite.md" >}}).
+Intérêt de l'auscultation cardiaque chez le patient à risque d'[endocardite infectieuse]({{% relref "endocardite.md" %}}).
 
 Stade inflammatoire du panaris
 : Atteinte superficielle de la pulpe ou de type péri-onyxis (tourniole).

@@ -24,10 +24,10 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Vacciner contre l'hépatite A: [HSH]({{< relref "hsh.md" >}}), enfant amené à séjourner en zone endémique, 14 jours autour d'un cas
+- Vacciner contre l'hépatite A: [HSH]({{% relref "hsh.md" %}}), enfant amené à séjourner en zone endémique, 14 jours autour d'un cas
 - Le seul traitement de l'hépatite A est préventif par les mesures d'hygiène et la vaccination
 - Vaccin dans le cadre d'un voyage: 1 injection 15 jours avant le départ et rappel à 6 mois (voire +), dès 1 an
-- Hépatite A aiguë: [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}) et prise en charge symptomatique
+- Hépatite A aiguë: [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}) et prise en charge symptomatique
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -53,14 +53,14 @@ Indications à la vaccination hépatite A:
 
 - Jeune résidant en établissement de l'enfance en situation de handicap
 - Mucoviscidose
-- Pathologie à risque d'hépatopathie chronique: [hépatite B]({{< relref "hepatite-b.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}), [alcool]({{< relref "sevrage-alcool.md" >}})
+- Pathologie à risque d'hépatopathie chronique: [hépatite B]({{% relref "hepatite-b.md" %}}), [hépatite C]({{% relref "hepatite-c.md" %}}), [alcool]({{% relref "sevrage-alcool.md" %}})
 - Enfant de +1 an né de personne venant de zone endémique et susceptible d'y séjourner
-- [HSH]({{< relref "hsh.md" >}})
+- [HSH]({{% relref "hsh.md" %}})
 - Entourage d'un cas d'hépatite A aiguë  
   Le plus tôt possible sans sérologie préalable, délai max de 14j après les premiers signes du cas si:
   - Jamais vacciné hépatite A
   - et né après 1945
-  - et sans antécédent d'[ictère]({{< relref "ictere.md" >}})
+  - et sans antécédent d'[ictère]({{% relref "ictere.md" %}})
   - et sans séjour > 1 an en zone de forte endémicité
   - Sinon: sérologie en urgence pour vaccination < 14j
 - Entourage d'un cas d'une communauté précaire  

@@ -33,7 +33,7 @@ flowchart = true
 
 Bartholinite aiguë
 : Inflammation localisée de la glande de Bartholin ou de son canal excréteur d'origine bactérienne ascendante, survenant le plus souvent entre 20 et 30 ans (75% d'abcès et 25% de kystes). En l'absence de traitement, elle finit par se fistuliser à la peau.
-: La glande de Bartholin normale mesure 10 à 15 mm de grand axe. Elle est allongée et aplatie et située en profondeur dans le ⅓ postérieur du vestibule de façon symétrique au niveau de l'anneau hyménéal. Son canal excréteur mesure 2 cm. Les bactéries sont d'origine digestive (entérobactéries, entérocoque, *E. coli*, anaérobies) voire des [IST](/tags/ist/) (gonocoque, *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})*, mycoplasme).
+: La glande de Bartholin normale mesure 10 à 15 mm de grand axe. Elle est allongée et aplatie et située en profondeur dans le ⅓ postérieur du vestibule de façon symétrique au niveau de l'anneau hyménéal. Son canal excréteur mesure 2 cm. Les bactéries sont d'origine digestive (entérobactéries, entérocoque, *E. coli*, anaérobies) voire des [IST](/tags/ist/) (gonocoque, *[Chlamydia]({{% relref "chlamydia-trachomatis.md" %}})*, mycoplasme).
 : 2% des femmes développent un kyste ou un abcès de la glande de Bartholin.
 
 ### Abréviations
@@ -47,7 +47,7 @@ CNGOF
 
 Du fait de la localisation typique des glandes de Bartholin, le diagnostic différentiel est celui des infections péri-vulvaires:
 
-- [Kyste pilonidal]({{< relref "kyste-pilonidal.md" >}})
+- [Kyste pilonidal]({{% relref "kyste-pilonidal.md" %}})
 - Kyste épidermoïde  
   Superficiel sur les petites ou grandes lèvres.
 - Abcès de la cloison recto-vaginale  

@@ -41,12 +41,12 @@ Ces aides à la prise en charge médicale et aux soins doivent être communiqué
 
 ## Les droits et les aides
 
-- [Affection longue durée (ALD)]({{< relref "affection-longue-duree.md" >}})
+- [Affection longue durée (ALD)]({{% relref "affection-longue-duree.md" %}})
 - Carte d'invalidité
 - Aide sociale adulte (ASA)
 - Frais de transport
 - Aide au logement
-- [Allocation personnalisée d'autonomie (APA)]({{< relref "allocation-personnalisee-autonomie.md" >}})
+- [Allocation personnalisée d'autonomie (APA)]({{% relref "allocation-personnalisee-autonomie.md" %}})
 
 ## Aides médicales pour les moins de 60 ans
 
@@ -68,7 +68,7 @@ Ces aides à la prise en charge médicale et aux soins doivent être communiqué
 
 ## Le droit des patients
 
-- [Accès au dossier médical]({{< relref "acces-dossier-medical.md" >}})
+- [Accès au dossier médical]({{% relref "acces-dossier-medical.md" %}})
 - Secret médical
 - Personne de confiance
 - Refus de soin

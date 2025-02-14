@@ -62,9 +62,9 @@ Liste des facteurs de risque de cancer du sein:
 - Antécédent personnel de cancer du sein
 - Antécédent personnel de radiothérapie thoracique à haute dose
 - Facteurs de risque modifiables
-  - [Alcool]({{< relref "sevrage-alcool.md" >}}) (15% attribuables)
-  - [Tabac]({{< relref "arret-tabac.md" >}}) (4,4% attribuables)
-  - Surpoids ou [obésité]({{< relref "obesite-adulte.md" >}}) (11% des cancers post-ménopausiques)
+  - [Alcool]({{% relref "sevrage-alcool.md" %}}) (15% attribuables)
+  - [Tabac]({{% relref "arret-tabac.md" %}}) (4,4% attribuables)
+  - Surpoids ou [obésité]({{% relref "obesite-adulte.md" %}}) (11% des cancers post-ménopausiques)
   - Inactivité physique
 
 ### Diagnostic différentiel du cancer du sein
@@ -79,7 +79,7 @@ Autres diagnostics à étayer devant une lésion du sein:
 - Mastose ou fibrose kystique du sein  
   Très fréquente (50-80% de 30 à 50 ans). Associée à une augmentation du risque de cancer du sein en antécédent de mastose au 1^er^ degré.
 - Hyperplasie mammaire simple
-- [Écoulement mamelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
+- [Écoulement mamelonnaire]({{% relref "ecoulement-mamelonnaire.md" %}})
 
 ### Épidémiologie du cancer du sein en France
 
@@ -196,7 +196,7 @@ Toute suspicion diagnostique de cancer du sein justifie un avis spécialisé san
 {{%/warning%}}
 
 - Antécédents personnels et familiaux  
-  Cancers sein ou [ovaire]({{< relref "cancer-ovaire.md" >}}) (nombre, âge, bilatéralité, sexe).
+  Cancers sein ou [ovaire]({{% relref "cancer-ovaire.md" %}}) (nombre, âge, bilatéralité, sexe).
 - Traitements en cours
 - Contraception ou statut ménopausique
 - Date et résultat des dernières mammographies (voire échographies, IRM)
@@ -206,7 +206,7 @@ Toute suspicion diagnostique de cancer du sein justifie un avis spécialisé san
   - Asymétrie
   - Peau: déformation, ulcération, rétractation.
 - Mamelon
-  - [Écoulement unipore]({{< relref "ecoulement-mamelonnaire.md" >}}) sérosanglant
+  - [Écoulement unipore]({{% relref "ecoulement-mamelonnaire.md" %}}) sérosanglant
   - Eczéma (ou de l'aréole)
 - Aires ganglionnaires palpables  
   Axillaires, sus et sous-claviculaires.
@@ -243,7 +243,7 @@ Mammographies et échographie mammaire bilatérales
 - Voire IRM mammaire
 - Pyramidectomie chirurgicale puis histologie
 
-Voir le chapitre [écoulement mamelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
+Voir le chapitre [écoulement mamelonnaire]({{% relref "ecoulement-mamelonnaire.md" %}})
 
 ### Bilan devant une maladie de Paget du mamelon
 
@@ -267,7 +267,7 @@ Les indications à l'IRM mammaire sont limitées:
 
 ### Lutte contre les facteurs de risques modifiables de cancer du sein
 
-Réduction de la consommation d'[alcool]({{< relref "sevrage-alcool.md" >}}) (15% attribuables, *CIRC et SPF*), tabac (4,4 %), lutte contre surpoids/[obésité]({{< relref "obesite-adulte.md" >}}) (11%) et l'inactivité physique.
+Réduction de la consommation d'[alcool]({{% relref "sevrage-alcool.md" %}}) (15% attribuables, *CIRC et SPF*), tabac (4,4 %), lutte contre surpoids/[obésité]({{% relref "obesite-adulte.md" %}}) (11%) et l'inactivité physique.
 
 **NB.** L'aluminium des déodorants n'est [évidemment pas cancérigène](https://leseclairages.e-cancer.fr/les-sels-daluminium-dans-les-deodorants-favorisent-ils-les-cancers-du-sein/).
 
@@ -344,7 +344,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: ch
 - Information de la patiente: [INCa](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-du-sein/Les-points-cles)
 - Associations de patientes  
   [étincelle](http://www.etincelle.asso.fr), [Europa Donna](http://www.europadonna.fr), [Rose up](https://www.rose-up.fr), [Skin](https://associationskin.org), [Vivre Comme Avant](https://www.vivrecommeavant.fr).
-- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 
 ### Pour en savoir plus: Principes des traitements selon la tumeur du sein
 
@@ -380,11 +380,11 @@ Anti-aromatases disponibles: anastrozole (Arimidex, gén), exémestane (Aromasin
 - Mammographie annuelle à vie (bilatérale si tumorectomie) ± échographie mammaire
   - Tumorectomie: la 1^re^ mammographie homolatérale est réalisée au moins 6 mois après la fin de la radiothérapie.
 - Tamoxifène (SERM)
-  - Informer sur le risque de prolifération/hyperplasie endométriale, de [cancer de l'endomètre et de sarcome utérin]({{< relref "cancer-endometre.md" >}}) (sauf pré-ménopause)
+  - Informer sur le risque de prolifération/hyperplasie endométriale, de [cancer de l'endomètre et de sarcome utérin]({{% relref "cancer-endometre.md" %}}) (sauf pré-ménopause)
   - Signaler tout symptôme vaginal (pertes, tâches, leucorrhée), tout symptôme doit être exploré
   - Échographie transvaginale initiale et suivi gynécologique annuel (*ACOG 2020*), renforcé si risque élevé de cancer de l'endomètre
 - Antiaromatase
-  - [Ostéodensitométrie]({{< relref "osteoporose.md" >}}) tous les 1-3 ans
+  - [Ostéodensitométrie]({{% relref "osteoporose.md" %}}) tous les 1-3 ans
   - Bilan lipidique annuel
   - L'acupuncture peut réduire les douleurs articulaires (*[Hershman 2022](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2798317)*)
 - Thérapie ciblée  

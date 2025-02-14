@@ -272,7 +272,7 @@ Traitements complémentaires de la chirurgie d'exérèse du mélanome pouvant ê
 Adresser en consultation d'oncogénétique les sujets avec antécédents de mélanomes si:
 
 - ≥ 2 mélanomes cutanés invasifs avant 75 ans chez 2 apparentés au 1^er^ ou 2^e^ degré ou chez une même personne
-- Association chez la même personne ou un apparenté au 1^er^ ou 2^e^ degré d'un mélanome cutané à: un mélanome oculaire, un [cancer du pancréas]({{< relref "cancer-pancreas.md" >}}), du [rein]({{< relref "cancer-rein.md" >}}), du système nerveux central ou un mésothéliome
+- Association chez la même personne ou un apparenté au 1^er^ ou 2^e^ degré d'un mélanome cutané à: un mélanome oculaire, un [cancer du pancréas]({{% relref "cancer-pancreas.md" %}}), du [rein]({{% relref "cancer-rein.md" %}}), du système nerveux central ou un mésothéliome
 
 > -- *INCa 2024*
 
@@ -281,8 +281,8 @@ Adresser en consultation d'oncogénétique les sujets avec antécédents de mél
 
 Le risque d'apparition d'un 2^e^ cancer cutané est supérieur à la population générale.
 
-- Déclaration [ALD n°30]({{< relref "affection-longue-duree.md" >}})
-- Mesures de prévention (voir *[Prévention]({{< relref "#prévention" >}})*)
+- Déclaration [ALD n°30]({{% relref "affection-longue-duree.md" %}})
+- Mesures de prévention (voir *[Prévention]({{% relref "#prévention" %}})*)
 - Photoprotection systématique personnelle + familiale
 - Dépistage cutané des apparentés du 1^er^ degré
 - Auto-surveillance (dépistage + récidive)  

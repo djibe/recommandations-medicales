@@ -66,7 +66,7 @@ Le diagnostic est anatomique: élargissement permanent anormal des espaces aéri
 Insuffisance respiratoire chronique
 : Incapacité permanente de l'appareil respiratoire à assurer une *hématose* (échanges gazeux pulmonaires) normale au repos.
 : La définition est *gazométrique*: PaO~2~ < 70 mmHg sur 2 gaz du sang artériels en état stable à ≥ 3 mois d'intervalle.  
-**Insuffisance respiratoire grave** si PaO~2~ ≤ 55 mmHg ou < 60 si *polyglobulie* ou *[insuffisance cardiaque droite]({{< relref "insuffisance-cardiaque-chronique.md" >}})* associée.
+**Insuffisance respiratoire grave** si PaO~2~ ≤ 55 mmHg ou < 60 si *polyglobulie* ou *[insuffisance cardiaque droite]({{% relref "insuffisance-cardiaque-chronique.md" %}})* associée.
 
 ### Abréviations
 
@@ -159,7 +159,7 @@ Dépister par spirométrie toute personne par l'{{< modal-btn modal-depistage-bp
 - Chauffage au bois ou au charbon
 - Exposition professionnelle  
   Silice, charbon, moisissures, gaz, vapeurs, fumées.
-- [Toux chronique]({{< relref "toux-chronique.md" >}})
+- [Toux chronique]({{% relref "toux-chronique.md" %}})
 - Expectoration fréquente
 - Dyspnée
 
@@ -188,13 +188,13 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
   Asthme, allergie, atopie, sinusite, polypes du rhinopharynx, infections respiratoires infantiles, hospitalisations pour pathologies respiratoires.
 - Comorbidités  
   - Cardiovasculaires  
-    [Hypertension]({{< relref "hypertension-arterielle.md" >}}), coronaropathie, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (8,8%), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (20-70%), [arythmie]({{< relref "fibrillation-atriale.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}})
-  - Cancers liés au tabac ([poumon]({{< relref "cancer-poumon.md" >}}), [vessie]({{< relref "cancer-vessie.md" >}}), digestifs)
-  - Dépister anxiété et [dépression]({{< relref "depression.md" >}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}), addictions, troubles cognitifs
-  - [Ostéoporose]({{< relref "osteoporose.md" >}}) et amyotrophie
-  - [Obésité]({{< relref "obesite-adulte.md" >}}), [dénutrition]({{< relref "denutrition.md" >}}), anémie et polyglobulie
-  - [Apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), dilatation des bronches
-  - [Reflux gastrique]({{< relref "reflux-gastro-oesophagien.md" >}})
+    [Hypertension]({{% relref "hypertension-arterielle.md" %}}), coronaropathie, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) (8,8%), [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) (20-70%), [arythmie]({{% relref "fibrillation-atriale.md" %}}), [diabète]({{% relref "diabete-type-2.md" %}})
+  - Cancers liés au tabac ([poumon]({{% relref "cancer-poumon.md" %}}), [vessie]({{% relref "cancer-vessie.md" %}}), digestifs)
+  - Dépister anxiété et [dépression]({{% relref "depression.md" %}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}), addictions, troubles cognitifs
+  - [Ostéoporose]({{% relref "osteoporose.md" %}}) et amyotrophie
+  - [Obésité]({{% relref "obesite-adulte.md" %}}), [dénutrition]({{% relref "denutrition.md" %}}), anémie et polyglobulie
+  - [Apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), dilatation des bronches
+  - [Reflux gastrique]({{% relref "reflux-gastro-oesophagien.md" %}})
 - Antécédents familiaux  
   Tabagisme, BPCO et maladies respiratoires.
 - Terrain  
@@ -219,27 +219,27 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
   Sibilants, tirage, cyanose.
 - Calcul du risque cardiovasculaire {{< scores/heartscore >}}
 - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
-- Rechercher une [mycose buccale]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
+- Rechercher une [mycose buccale]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
 Autres causes de toux et dyspnée chronique d'origine thoracique:
 
-- [Asthme]({{< relref "asthme.md" >}})
-- [Cancer du poumon]({{< relref "cancer-poumon.md" >}})
-- [Tuberculose]({{< relref "tuberculose.md" >}})
+- [Asthme]({{% relref "asthme.md" %}})
+- [Cancer du poumon]({{% relref "cancer-poumon.md" %}})
+- [Tuberculose]({{% relref "tuberculose.md" %}})
 - Dilatation des bronches et emphysème pulmonaire
-- [Insuffisance cardiaque chronique]({{< relref "insuffisance-cardiaque-chronique.md" >}})
+- [Insuffisance cardiaque chronique]({{% relref "insuffisance-cardiaque-chronique.md" %}})
 - Pneumopathie interstitielle
 - Mucoviscidose
 - Idiopathique
 
 ### Diagnostic différentiel de l'exacerbation de BPCO
 
-- [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
-- [Pneumonie aiguë communautaire]({{< relref "pneumonie-aigue-communautaire.md" >}})
-- [Œdème pulmonaire cardiogénique]({{< relref "insuffisance-cardiaque-aigue.md" >}})
+- [Embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})
+- [Pneumonie aiguë communautaire]({{% relref "pneumonie-aigue-communautaire.md" %}})
+- [Œdème pulmonaire cardiogénique]({{% relref "insuffisance-cardiaque-aigue.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -270,7 +270,7 @@ Les autres examens recherchent des complications.
 
 ### Gaz du sang
 
-Indications aux gaz du sang: SpO~2~ < 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3{{< /modal-btn >}}, {{< modal-btn modal-severite-bpco >}}stade obstructif ≥ 3{{< /modal-btn >}}, suspicion d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) ou d'hypercapnie.
+Indications aux gaz du sang: SpO~2~ < 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3{{< /modal-btn >}}, {{< modal-btn modal-severite-bpco >}}stade obstructif ≥ 3{{< /modal-btn >}}, suspicion d'[embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}) ou d'hypercapnie.
 
 ### Autres examens
 
@@ -279,7 +279,7 @@ Indications aux gaz du sang: SpO~2~ < 92%, {{< modal-btn modal-score-mmrc >}}mMR
 - Déficit en alpha-1 antitrypsine  
   Dosage unique au diagnostic. Une concentration < 20% évoque un déficit homozygote. (*GOLD 2023*)
 - ECBC selon le pneumologue
-- Envisager un suivi par scanner faible dose pour le [dépistage de cancer du poumon]({{< relref "cancer-poumon.md" >}})
+- Envisager un suivi par scanner faible dose pour le [dépistage de cancer du poumon]({{% relref "cancer-poumon.md" %}})
 - NT-proBNP, D-dimères pour éliminer une part cardiaque
 
 {{% /collapse %}}
@@ -329,16 +329,16 @@ Indications aux gaz du sang: SpO~2~ < 92%, {{< modal-btn modal-score-mmrc >}}mMR
 
 {{< traitements/gold-groupe >}}
 
-- **[Arrêt du tabac]({{< relref "arret-tabac.md" >}})**
+- **[Arrêt du tabac]({{% relref "arret-tabac.md" %}})**
   - Principal facteur pronostique
-  - Prise en charge optimale (conseil minimal, [substituts]({{< relref "substituts-nicotiniques.md" >}}), [tabac-info-service](https://www.tabac-info-service.fr/), tabacologue, psychothérapie, varénicline)
+  - Prise en charge optimale (conseil minimal, [substituts]({{% relref "substituts-nicotiniques.md" %}}), [tabac-info-service](https://www.tabac-info-service.fr/), tabacologue, psychothérapie, varénicline)
   - Autres expositions aux toxiques et gaz domestiques et professionnels  
     Aérosols, combustion de bois ou biomasse, moisissures.
 - Vaccination
-  - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) avec la coqueluche
+  - Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}}) avec la coqueluche
   - Covid-19 et grippe annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} (*GOLD 2024*)
   - +65 ans: VRS 1 fois (NR -- *HAS 2024*)
-  - +50 ans: [Zona]({{< relref "zona.md" >}}) (*GOLD 2024*, 65 ans dans le Calendrier vaccinal)
+  - +50 ans: [Zona]({{% relref "zona.md" %}}) (*GOLD 2024*, 65 ans dans le Calendrier vaccinal)
 - Réhabilitation respiratoire
   - Essentielle pour tous pour réduire la dyspnée, le stress et améliorer la qualité de vie
   - Dès 1 mois post-hospitalisation, répétée si besoin
@@ -350,7 +350,7 @@ Indications aux gaz du sang: SpO~2~ < 92%, {{< modal-btn modal-score-mmrc >}}mMR
     Favoriser avec podomètre, appli (Google Fit ...)
   - [Guide patient APA (HAS)](https://www.has-sante.fr/jcms/p_3391313/fr/l-activite-physique-pour-votre-sante-bpco-broncho-pneumopathie-chronique-obstructive)
   - [Annuaire pour l'Activité Physique Adaptée (APA)](https://www.sfp-apa.fr/annuaire/)
-- [ALD n°14]({{< relref "affection-longue-duree.md" >}})  
+- [ALD n°14]({{% relref "affection-longue-duree.md" %}})  
   Indications: insuffisance respiratoire chronique, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}}VEMS < 50%{{< /modal-btn >}}
 - Évaluation nutritionnelle  
   Dont santé bucco-dentaire et diététicien.
@@ -365,7 +365,7 @@ Indications aux gaz du sang: SpO~2~ < 92%, {{< modal-btn modal-score-mmrc >}}mMR
 - Associations de patients  
   [Santé Respiratoire France](https://sante-respiratoire.com/), [FFAAIR](https://ffaair.org), [arairlor](https://arairlor.asso.fr), [lesouffle](https://www.lesouffle.org).
 - Déclin respiratoire  
-  [Directives anticipées]({{< relref "directives-anticipees.md" >}}), [soins palliatifs](http://www.sfap.org/annuaire).
+  [Directives anticipées]({{% relref "directives-anticipees.md" %}}), [soins palliatifs](http://www.sfap.org/annuaire).
 
 ### Bronchodilatateurs
 
@@ -400,7 +400,7 @@ Sur-risque de pneumopathie avec les corticoïdes inhalés.
 #### 4) Prescription spécialisée
 
 Triple association si GOLD groupe E avec éosinophilie: {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}.  
-Arrêt des corticoïdes si [pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}}) ou autres effets indésirables.
+Arrêt des corticoïdes si [pneumonie]({{% relref "pneumonie-aigue-communautaire.md" %}}) ou autres effets indésirables.
 
 Seul le pneumologue peut prescrire une trithérapie ou des nébulisations.  
 Il est également le seul à décider du bénéfice de prévention des exacerbations (*ERS 2021*, *SPLF 2021*):
@@ -445,12 +445,12 @@ Envisager une oxygénothérapie de longue durée si:
 
 - {{< modal-btn modal-severite-bpco >}}Obstruction très sévère (voire sévère){{< /modal-btn >}}
 - Cyanose
-- [Polyglobulie]({{< relref "polyglobulie.md" >}})
+- [Polyglobulie]({{% relref "polyglobulie.md" %}})
 - Signes d'insuffisance cardiaque droite  
   {{< clinique/insuffisance-cardiaque-droite >}}
 - SpO~2~ ≤ 92% en air ambiant
   - PaO~2~ ≤ 55 mmHg ou SaO~2~ ≤ 88% confirmée à 2 reprises sur 3 semaines pour *GOLD 2023*
-  - PaO~2~ 55-60 mmHg ou SaO~2~ ≤ 88% avec [HTAP]({{< relref "hypertension-arterielle-pulmonaire.md" >}}), insuffisance cardiaque droite ou polyglobulie (hématocrite > 55%) pour *GOLD 2023*
+  - PaO~2~ 55-60 mmHg ou SaO~2~ ≤ 88% avec [HTAP]({{% relref "hypertension-arterielle-pulmonaire.md" %}}), insuffisance cardiaque droite ou polyglobulie (hématocrite > 55%) pour *GOLD 2023*
 
 > -- *HAS 2019*
 
@@ -469,17 +469,17 @@ Opioïdes faible dose par le pneumologue (*SPLF 2021*).
 
 ### 1. Éliminer un diagnostic différentiel
 
-- [Syndrome coronarien aigu]({{< relref "syndrome-coronarien-aigu.md" >}})
-- [Arythmie cardiaque]({{< relref "fibrillation-atriale.md" >}})
-- Aggravation de l'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (NT-proBNP)
-- [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) (d-dimères)
-- [Pneumonie aiguë communautaire]({{< relref "pneumonie-aigue-communautaire.md" >}})
+- [Syndrome coronarien aigu]({{% relref "syndrome-coronarien-aigu.md" %}})
+- [Arythmie cardiaque]({{% relref "fibrillation-atriale.md" %}})
+- Aggravation de l'[insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) (NT-proBNP)
+- [Embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}) (d-dimères)
+- [Pneumonie aiguë communautaire]({{% relref "pneumonie-aigue-communautaire.md" %}})
 - Pneumothorax et pleurésie
 
 ### 2. Rechercher le facteur déclenchant
 
 - Infection virale ou bactérienne  
-  Si Covid-19: [antiviral en urgence]({{< relref "covid-19.md" >}}).
+  Si Covid-19: [antiviral en urgence]({{% relref "covid-19.md" %}}).
 - Pollution intérieure/extérieure
 - Arrêt du traitement de fond
 
@@ -489,7 +489,7 @@ Opioïdes faible dose par le pneumologue (*SPLF 2021*).
 
 Voir *Critères d'hospitalisation*.
 
-Joindre le courrier détaillé des traitements en cours, contexte social, derniers bilans, personne de confiance, [directives anticipées]({{< relref "directives-anticipees.md" >}}).
+Joindre le courrier détaillé des traitements en cours, contexte social, derniers bilans, personne de confiance, [directives anticipées]({{% relref "directives-anticipees.md" %}}).
 
 ### 4. Examens complémentaires lors d'une exacerbation
 
@@ -564,7 +564,7 @@ Reprendre régulièrement tous les points du *Traitement de fond* ainsi que les 
   - {{< modal-btn modal-severite-bpco >}}Sévérité de l'obstruction bronchique{{< /modal-btn >}}
   - {{< modal-btn modal-score-mmrc >}}Dyspnée selon l'échelle mMRC{{< /modal-btn >}}
   - Test de marche de 6 minutes, lever de chaise ou stepper test
-- [État nutritionnel]({{< relref "denutrition.md" >}})  
+- [État nutritionnel]({{% relref "denutrition.md" %}})  
 IMC (< 21), perte de poids, santé bucco-dentaire.
 - Retentissement de la maladie
   - Nombre d'exacerbations annuelles
@@ -576,7 +576,7 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
   - Limitation des activités  
   Fatigue, activités quotidiennes et sociales, qualité de vie, {{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}}.
 - Recherche de comorbidités aggravantes  
-  [Anémie]({{< relref "anemie.md" >}}), [asthme]({{< relref "asthme.md" >}}), cancer, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), surpoids, troubles du sommeil, troubles anxieux/dépressifs, troubles musculosquelettiques, [hypertension pulmonaire]({{< relref "hypertension-arterielle-pulmonaire.md" >}}).
+  [Anémie]({{% relref "anemie.md" %}}), [asthme]({{% relref "asthme.md" %}}), cancer, [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), surpoids, troubles du sommeil, troubles anxieux/dépressifs, troubles musculosquelettiques, [hypertension pulmonaire]({{% relref "hypertension-arterielle-pulmonaire.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la BPCO" "show" %}}

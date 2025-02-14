@@ -44,13 +44,13 @@ flowchart = true
 
 Pour la pratique: [modèle de PAI de l'asthme](https://eduscol.education.fr/document/7751/download) (PDF) et [annuaire des Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/).
 
-Chapitres liés: [corticoïdes inhalés]({{< relref "corticoides-inhales.md" >}}), [rhinite allergique]({{< relref "rhinite-allergique.md" >}}), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
+Chapitres liés: [corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}), [rhinite allergique]({{% relref "rhinite-allergique.md" %}}), [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Asthme
-: Maladie respiratoire chronique des voies aériennes par hyperréactivité bronchique, inflammation et obstruction réversible des voies aériennes. Les symptômes sont peu spécifiques ([dyspnée](/tags/dyspnee/), [toux chronique]({{< relref "toux-chronique.md" >}}), sifflements respiratoires, oppression thoracique), leur fréquence et leur intensité varie avec le temps.  
+: Maladie respiratoire chronique des voies aériennes par hyperréactivité bronchique, inflammation et obstruction réversible des voies aériennes. Les symptômes sont peu spécifiques ([dyspnée](/tags/dyspnee/), [toux chronique]({{% relref "toux-chronique.md" %}}), sifflements respiratoires, oppression thoracique), leur fréquence et leur intensité varie avec le temps.  
 Ils sont associés à une variabilité du débit expiratoire de pointe (DEP) par bronchoconstriction, épaississement de la paroi bronchique et production accrue de mucus.
 : L'obstruction est objectivée par l'observation d'un trouble ventilatoire obstructif (TVO) réversible (partiellement ou complètement), à l'état basal ou après un test de provocation bronchique.
 : Les principaux facteurs favorisants et entretenant ces anomalies sont les *infections virales*, les *allergies respiratoires* et les *irritants bronchiques*.
@@ -78,18 +78,18 @@ Bannir le terme de << bronchite asthmatiforme >>: l'asthme est une maladie chron
 
 Diagnostic différentiel à étayer selon le terrain:
 
-- [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
-- [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
+- [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}})
+- [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})
 - Bronchite
-- [Bronchiolite]({{< relref "bronchiolite.md" >}})
+- [Bronchiolite]({{% relref "bronchiolite.md" %}})
 - Rhinite
 - Dilatation des bronches
 - Mucoviscidose
-- [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
+- [Embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})
 - Pneumopathie interstitielle
 - Syndrome d'hyperventilation
-- [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
-- [Obésité]({{< relref "obesite-adulte.md" >}})
+- [Reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}})
+- [Obésité]({{% relref "obesite-adulte.md" %}})
 - Pathologie ostéoarticulaire ou musculaire
 - Dysfonction des cordes vocales
 
@@ -221,9 +221,9 @@ Revoir la *maîtrise de l'asthme* à chaque consultation:
       Pollens, poussière, literie avec textiles anti-acariens, éviction tapis-moquettes, animaux en extérieur, contrôle de l'humidité intérieure.
     - Confirmation des allergies alimentaires
     - Contrôle de comorbidités  
-      [Rhinite allergique]({{< relref "rhinite-allergique.md" >}}), sinusite, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), [obésité]({{< relref "obesite-adulte.md" >}}), anxiété, [dépression]({{< relref "depression.md" >}}).
+      [Rhinite allergique]({{% relref "rhinite-allergique.md" %}}), sinusite, [RGO]({{% relref "reflux-gastro-oesophagien.md" %}}), [obésité]({{% relref "obesite-adulte.md" %}}), anxiété, [dépression]({{% relref "depression.md" %}}).
     - Grossesse  
-      Suivi toutes les 4-6 semaines et [supplémentation en vitamine D]({{< relref "vitamine-d.md" >}}) (*GINA 2021*).
+      Suivi toutes les 4-6 semaines et [supplémentation en vitamine D]({{% relref "vitamine-d.md" %}}) (*GINA 2021*).
     - Problèmes socio-économiques
     - EFR au moins annuelles
 
@@ -267,19 +267,19 @@ Interrogatoire policier pour rechercher des signes et symptômes d'asthme:
   - **Allergiques**  
     Pollens, poussières, poils d'animaux, humidité-moisissures, acariens (tapis-moquettes), sulfites, insectes, substances végétales.
   - **Atopiques**  
-    [Dermatite atopique]({{< relref "dermatite-atopique.md" >}}), [rhinite allergique]({{< relref "rhinite-allergique.md" >}}) (80%).
+    [Dermatite atopique]({{% relref "dermatite-atopique.md" %}}), [rhinite allergique]({{% relref "rhinite-allergique.md" %}}) (80%).
   - Exposition aux particules  
     Sprays ménagers, fumée de tabac, échappements de véhicules, BTP, peintures, parfums, huiles essentielles.
   - Respiratoires  
     Toux à l'effort par temps froid et sec ++.
-  - Pathologies: [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}).
+  - Pathologies: [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}).
 - Antécédents familiaux  
   Atopiques, maladies respiratoires.
 - Profession  
   - Chômage, boulangerie-pâtisserie, industrie alimentaire, coiffure, taxi, ambulance, auto-école, forain.  
   {{%class%}}15-20% par exposition professionnelle (*SPF*){{%/class%}}
   -Amélioration en vacances
-- [Tabac et cigarette électronique]({{< relref "arret-tabac.md" >}})  
+- [Tabac et cigarette électronique]({{% relref "arret-tabac.md" %}})  
   {{%class%}}La cigarette électronique aggrave les symptômes et les exacerbations (*GINA 2022*).{{%/class%}}
 - Symptômes des 4 dernières semaines
   - Variabilité en intensité
@@ -312,7 +312,7 @@ Mesure du DEP pour les personnes percevant mal leurs symptômes.
 - Fréquence respiratoire
 - ==SpO~2~ cible 93-95% (6-12 ans: 94-98%)==
 - Écarter une anaphylaxie
-- Étayer un diagnostic différentiel: insuffisance cardiaque, corps étranger, [embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
+- Étayer un diagnostic différentiel: insuffisance cardiaque, corps étranger, [embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -330,7 +330,7 @@ Radiographie de thorax systématique au diagnostic.
 ### Autres bilans
 
 - NFS  
-  Vérifier les [éosinophiles]({{< relref "hypereosinophilie.md" >}}) en cas d'asthme difficilement contrôlé (recherche anguillulose quand ≥ 300/μL).
+  Vérifier les [éosinophiles]({{% relref "hypereosinophilie.md" %}}) en cas d'asthme difficilement contrôlé (recherche anguillulose quand ≥ 300/μL).
 - Gaz du sang si: adulte avec VEMS < 50%, discordance symptômes - VEMS
 
 ### Consultations spécialisées
@@ -465,7 +465,7 @@ Suivi pneumologique et:
 
 #### Asthme et ALD
 
-Conditions de prise en charge à 100% de l'asthme par l'[ALD n°14]({{< relref "affection-longue-duree.md" >}}):
+Conditions de prise en charge à 100% de l'asthme par l'[ALD n°14]({{% relref "affection-longue-duree.md" %}}):
 
 - Adulte: asthme persistant sévère
   - Symptômes permanents, exacerbations fréquentes, asthme nocturne fréquent ou activité physique limitée par les symptômes

@@ -27,7 +27,7 @@ todo = "pharynx, source: Les infections a HPV deviennent indétectables au bout 
 - Infection papillomavirus (HPV) nécessaire à l'apparition du cancer de l'utérus et des condylomes
 - << Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace >> -- *INCa*
 - Vaccination papillomavirus pour tous de 11 à 19 ans (Gardasil 9®), généralisée en classe 5^e^  
-  Étendue à 26 ans pour les [hommes ayant des relations avec des hommes (HSH)]({{< relref "hsh.md" >}}). Pas de vaccination en une seule dose avant changement de l'AMM (*Infovac*)
+  Étendue à 26 ans pour les [hommes ayant des relations avec des hommes (HSH)]({{% relref "hsh.md" %}}). Pas de vaccination en une seule dose avant changement de l'AMM (*Infovac*)
 - Dépistage organisé du cancer du col de l'utérus de 25 à 65 ans (test HPV haut risque tous les 5 ans après 30 ans)
 - Dépistage ciblé du cancer anal
 
@@ -54,9 +54,9 @@ Cancer du col de l'utérus
 - Parité élevée
 - Génotype de l'HPV (16, 18), infection par plusieurs types d'HPV à risque
 - Tabagisme
-- [VIH]({{< relref "vih-sida.md" >}})
+- [VIH]({{% relref "vih-sida.md" %}})
 - [IST](/tags/ist/)
-- Utilisation prolongée de [contraceptifs oraux]({{< relref "contraception.md" >}})
+- Utilisation prolongée de [contraceptifs oraux]({{% relref "contraception.md" %}})
 {.list-group}
 
 > -- *HAS 2010*
@@ -72,7 +72,7 @@ Complications des infections par les papillomavirus et incidence imputée entre 
 - Cancer de la vulve
 - Cancer de l'anus et du canal anal (360/an)  
   {{%class%}}Incidence augmente de 5,8%/an sur la période 2010-2018 (INCa).{{%/class%}}
-- [Cancer du rectum]({{< relref "cancer-colorectal.md" >}})
+- [Cancer du rectum]({{% relref "cancer-colorectal.md" %}})
 - Cancer du pénis (90/an)
 - Cancer du pharynx
 
@@ -182,13 +182,13 @@ Indications au vaccin anti-HPV ([Gardasil 9®](https://ec.europa.eu/health/docum
 
 - Adolescent de 11 à 14 ans révolus avec 2 doses  
   - **Schéma:** Gardasil 9® à M0 et M6-13
-  - Intérêt de co-administrer avec le rappel [dTcaPolio]({{< relref "vaccination.md" >}})
+  - Intérêt de co-administrer avec le rappel [dTcaPolio]({{% relref "vaccination.md" %}})
   - Vaccination des garçons depuis janvier 2021
   - Vaccination avec accord des parents des collégiens en 5e depuis la rentrée scolaire 2023
 - Rattrapage vaccinal de 15 à 19 ans révolus avec 3 doses  
   - Schéma en 3 doses de 11 à 19 ans: Gardasil 9® à M0, M2 et M6
   - Idem pour enfant/adolescent avec VIH de 11-19 ans
-- [HSH]({{< relref "hsh.md" >}})  
+- [HSH]({{% relref "hsh.md" %}})  
   Jusqu'à 26 ans révolus avec schéma en 3 doses: Gardasil 9® à M0, M2 et M6
 - Enfant/Adolescent transplanté ou en attente de transplantation jusqu'à 19 ans avec 3 doses
   - Possible à partir de 9 ans en prévision de transplantation d'organe solide
@@ -230,13 +230,13 @@ Le marqueur tumoral épidermoïde **SCC** peut être utile pour le suivi ultéri
 
 Le traitement du cancer du col peut être (après RCP): chirurgie, radiothérapie, curiethérapie, chimiothérapie.
 
-En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md" >}}) peut être introduit.
+En cas de ménopause induite, un [traitement hormonal]({{% relref "menopause.md" %}}) peut être introduit.
 
 Mesures associées aux cancers:
 
-- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 - Activité physique quotidienne
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}

@@ -24,26 +24,26 @@ flowchart = true
 
 - L'hémochromatose génétique est la maladie génétique la plus fréquente chez le **caucasien** avec une surcharge en fer
 - Les symptômes de l'hémochromatose débutent vers 30 ans chez l'homme et 50 ans chez la femme avec: fatigue chronique, polyarthralgies, diabète, hypogonadisme (baisse de libido, impuissance, ménopause précoce) et risque d'insuffisance d'organes (cardiaque, hépatique)
-- Le diagnostic doit être recherché en cas d'[hyperferritinémie]({{< relref "hyperferritinemie.md" >}}) (> 200 µg/L chez la femme et 300 chez l'homme) sans autre anomalie
+- Le diagnostic doit être recherché en cas d'[hyperferritinémie]({{% relref "hyperferritinemie.md" %}}) (> 200 µg/L chez la femme et 300 chez l'homme) sans autre anomalie
 - Un coefficient de saturation de la transferrine (CST) matinal à 2 reprises supérieur à **45%** et 50% chez l'homme nécessite un avis hépato-gastroentérologique et ensuite un conseil génétique
 - Le bilan des complications de l'hémochromatose dépend du stade de la maladie
 - La prise en charge de l'hémochromatose génétique comporte: saignées thérapeutiques pour une ferritine cible ≤ 50 µg/L, dépistage des proches au premier degré, suivi spécialisé au long cours et les mesures d'hépatoprotection.
 
-Chapitre lié: [hyperferritinémie]({{< relref "hyperferritinemie.md" >}})
+Chapitre lié: [hyperferritinémie]({{% relref "hyperferritinemie.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Hémochromatose génétique (primitive ou héréditaire)
 : Maladie génétique autosomique récessive à pénétrance variable par homozygotie du variant C282Y du gène HFE (+90%, dit type 1) atteignant les caucasiens.
-: L'hémochromatose entraîne une surcharge en fer par absence de rétrocontrôle de l'absorption intestinale du fer. La gravité de l'hémochromatose est liée au risque de cirrhose et de [carcinome hépatocellulaire]({{< relref "carcinome-hepatocellulaire.md" >}}).
+: L'hémochromatose entraîne une surcharge en fer par absence de rétrocontrôle de l'absorption intestinale du fer. La gravité de l'hémochromatose est liée au risque de cirrhose et de [carcinome hépatocellulaire]({{% relref "carcinome-hepatocellulaire.md" %}}).
 : La prévalence de l'allèle C282Y est de 7,6 % et 0,6 % des Français sont hétérozygotes. D'autres mutations existent, on parle d'hémochromatose type 2, 3 ...
 
 Ferritine
 : Protéine intracellulaire du stockage du fer. La ferritinémie est donc un reflet indirect de ce stock.  
 De nombreuses maladies influent sur la ferritinémie, en dehors de l'*hémochromatose HFE C282Y* dont la prise en charge est codifiée.
 
-[Hyperferritinémie]({{< relref "hyperferritinemie.md" >}}) (HF)
+[Hyperferritinémie]({{% relref "hyperferritinemie.md" %}}) (HF)
 : Ferritinémie supérieure à **200 µg/L chez la femme** et **300 µg/L chez l'homme**.
 : L'hyperferritinémie est *modérée* jusqu'à 500 µg/L, *nette* jusqu'à 1000 µg/L et *majeure* au-delà de 1000 µg/L.
 
@@ -58,9 +58,9 @@ Autres causes d'augmentation du coefficient de saturation de la transferrine:
 - Supplémentation en fer excessive
 - Anémies hémolytiques
 - Dysérythropoïèses
-- Cytolyses majeures ([hépatite C]({{< relref "hepatite-c.md" >}}))
+- Cytolyses majeures ([hépatite C]({{% relref "hepatite-c.md" %}}))
 - Insuffisance hépatocellulaire
-- [Surcharges en fer secondaire]({{< relref "hyperferritinemie.md" >}})
+- [Surcharges en fer secondaire]({{% relref "hyperferritinemie.md" %}})
 
 ### Abréviations
 
@@ -87,26 +87,26 @@ Les signes cliniques d'une surcharge en fer par hémochromatose génétique surv
 
 - [Fatigue chronique](/tags/fatigue/)
 - **Polyarthrite inflammatoire**  
-  Articulations distales de la main (atypiques comme MCP 2 et 3++), orteils, poignets, hanches (prothèse x 9), genou, épaule. Accès pseudo-goutteux possibles. Atteinte proche du [rhumatisme à pyrophosphate de calcium]({{< relref "rhumatisme-pyrophosphate-chondrocalcinose.md" >}}).
+  Articulations distales de la main (atypiques comme MCP 2 et 3++), orteils, poignets, hanches (prothèse x 9), genou, épaule. Accès pseudo-goutteux possibles. Atteinte proche du [rhumatisme à pyrophosphate de calcium]({{% relref "rhumatisme-pyrophosphate-chondrocalcinose.md" %}}).
 - Signes tardifs d'hémochromatose
   - Cytolyse modérée prédominant sur les ALAT
   - Hépatomégalie avec risque de cirrhose
-  - Endocrinopathies: [diabète](/tags/diabete/), hypogonadisme (dépilation, [alopécie]({{< relref "alopecie.md" >}}), perte de libido et **[impuissance]({{< relref "dysfonction-erectile.md" >}})** ou [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}))
-  - [Ostéoporose]({{< relref "osteoporose.md" >}}) avec fractures osseuses
+  - Endocrinopathies: [diabète](/tags/diabete/), hypogonadisme (dépilation, [alopécie]({{% relref "alopecie.md" %}}), perte de libido et **[impuissance]({{% relref "dysfonction-erectile.md" %}})** ou [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}))
+  - [Ostéoporose]({{% relref "osteoporose.md" %}}) avec fractures osseuses
   - Ongles blancs, plats, koïlonychie (ongles concaves)
   - La mélanodermie est exceptionnelle
 - Signes graves de stade 4
   - Cirrhose avec hypertension portale: {{< clinique/hypertension-portale >}}  
     et insuffisance hépato-cellulaire: {{< clinique/insuffisance-hepato-cellulaire >}}
   - Carcinome hépatocellulaire
-  - Myocardiopathie dilatée: dyspnée, œdèmes, palpitations, (troubles du rythme dont [ACFA]({{< relref "fibrillation-atriale.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}))
+  - Myocardiopathie dilatée: dyspnée, œdèmes, palpitations, (troubles du rythme dont [ACFA]({{% relref "fibrillation-atriale.md" %}}), [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}))
   - Diabète insulino-requérant
 
 Rechercher des facteurs aggravants:
 
-- Antécédents personnels ([hépatites B]({{< relref "hepatite-b.md" >}}) et [C]({{< relref "hepatite-c.md" >}}))
+- Antécédents personnels ([hépatites B]({{% relref "hepatite-b.md" %}}) et [C]({{% relref "hepatite-c.md" %}}))
 - Antécédents familiaux: hémochromatose, hépatopathie
-- [Consommation d'alcool]({{< relref "sevrage-alcool.md" >}})
+- [Consommation d'alcool]({{% relref "sevrage-alcool.md" %}})
 
 > [!WARNING]
 > << Dans 85% des cas le diagnostic est trop tardif >>. -- *Inserm*
@@ -121,7 +121,7 @@ Rechercher des facteurs aggravants:
   {{< clinique/hypertension-portale >}}
 - Signes d'insuffisance hépatocellulaire  
   {{< clinique/insuffisance-hepato-cellulaire >}}
-- [Splénomégalie]({{< relref "splenomegalie.md" >}})
+- [Splénomégalie]({{% relref "splenomegalie.md" %}})
 - Examen articulaire
 - Examen cutané et buccal
 
@@ -148,7 +148,7 @@ En l'absence de poids d'appel, dosage du **coefficient de saturation de la trans
 {{%/info%}}
 
 > [!INFO]
-> << L'hémochromatose est évoquée en cas d'[hyperferritinémie]({{< relref "hyperferritinemie.md" >}}) et de coefficient de saturation de la transferrine à plus de **45%** >> (NDLR: *50%* chez l'homme, caucasiens) -- *CDU-HGE*
+> << L'hémochromatose est évoquée en cas d'[hyperferritinémie]({{% relref "hyperferritinemie.md" %}}) et de coefficient de saturation de la transferrine à plus de **45%** >> (NDLR: *50%* chez l'homme, caucasiens) -- *CDU-HGE*
 
 Lorsque l'hémochromatose génétique est évoquée (HF + CST élevé), adresser au gastro-entérologue pour la confirmation diagnostique (**conseil génétique** avec recherche du variant *C282Y*).
 
@@ -167,7 +167,7 @@ Bilan complémentaire au diagnostic d'hémochromatose:
 
 - Échographie hépatique
 - Élastométrie hépatique (ou élastographie)
-- [Ostéodensitométrie]({{< relref "osteoporose.md" >}})
+- [Ostéodensitométrie]({{% relref "osteoporose.md" %}})
 - Hémochromatose au stade 3 ou 4
   - Homme: testostéronémie
   - ECG et échocardiographie transthoracique
@@ -188,10 +188,10 @@ Lorsque les saignées ne sont pas possibles, recours au traitement chélateur du
 - Apports en fer  
   Pas de régime pauvre en fer ou supplémentation en fer ou vitamine C, limiter les apports en viande rouge.
 - Hépatoprotection
-  - Limiter la [consommation d'alcool]({{< relref "sevrage-alcool.md" >}})
+  - Limiter la [consommation d'alcool]({{% relref "sevrage-alcool.md" %}})
   - Correction d'un surpoids
-  - [Vaccination hépatite B]({{< relref "hepatite-b.md" >}})
-- Déclarer l'[ALD n°17]({{< relref "affection-longue-duree.md" >}})
+  - [Vaccination hépatite B]({{% relref "hepatite-b.md" %}})
+- Déclarer l'[ALD n°17]({{% relref "affection-longue-duree.md" %}})
 - Informations du patient sur l'hémochromatose: [sites de la SNFGE](https://www.snfge.org/grand-public/maladies-digestives/hemochromatose), [AFEF](https://afef.asso.fr/lhemochromatose/) et [Inserm](https://www.inserm.fr/dossier/hemochromatose-genetique/).
 - Associations de patients: [France fer hémochromatose FFAMH](https://www.hemochromatose.org) et [association hémochromatose France AHF](https://www.hemochromatose.fr)
 
@@ -221,7 +221,7 @@ Les saignées (phlébotomie) sont possibles à domicile par un infirmier selon l
 - Anémie < 11 g/dL ou baisse de +2 points
 - Grossesse
 - Hypotension artérielle < 100 mmHg
-- [AOMI sévère]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}), ischémie aiguë ou [AVC récent]({{< relref "accident-vasculaire-cerebral.md" >}}) (< 6 mois)
+- [AOMI sévère]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}), ischémie aiguë ou [AVC récent]({{% relref "accident-vasculaire-cerebral.md" %}}) (< 6 mois)
 - Bradycardie (< 50 bpm) ou tachycardie (> 100 bpm)
 - Réseau veineux insuffisant
 - AEG

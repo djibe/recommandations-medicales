@@ -37,7 +37,7 @@ Ulcère veineux
 : Enjeu de santé publique avec 650.000 patients soignés chaque année pour 1 milliards d'euros.
 
 Ulcère mixte à prédominance veineuse
-: Ulcère préférentiellement veineux mais associé à une [artériopathie oblitérante des membres inférieurs]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (AOMI) modérée. **La prise en charge est celle de l'AOMI**.
+: Ulcère préférentiellement veineux mais associé à une [artériopathie oblitérante des membres inférieurs]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) (AOMI) modérée. **La prise en charge est celle de l'AOMI**.
 
 Angiodermite nécrotique
 : Troisième responsable d'ulcère de jambe. Infarctus cutané par occlusion artériolaire.
@@ -93,22 +93,22 @@ TVP
 ### Étiologie de l'ulcère de jambe
 
 - Ulcère veineux ou mixte à prédominance veineuse
-- Ulcère artériel par [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
+- Ulcère artériel par [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}})
 - Angiodermite nécrotique
-- Vasculite rare: [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), péri-artérite noueuse, lupus, embolies de cholestérol, cryoglobulinémie ...
+- Vasculite rare: [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), péri-artérite noueuse, lupus, embolies de cholestérol, cryoglobulinémie ...
 - Ulcère non vasculaire
   - *Pyoderma gangrenosum*
   - Mycobactérie, parasitose
   - Carcinome
   - Syndrome myéloprolifératif, dysglobulinémie
   - Iatrogénie  
-    Hydroxyurée, nicorandil, anti-VEGF, anti-EGFR, immunosuppresseurs (tacrolimus, [méthotrexate]({{< relref "methotrexate.md" >}})), [corticoïdes]({{< relref "corticoides.md" >}}), AINS, adalimumab, certolizumab.
+    Hydroxyurée, nicorandil, anti-VEGF, anti-EGFR, immunosuppresseurs (tacrolimus, [méthotrexate]({{% relref "methotrexate.md" %}})), [corticoïdes]({{% relref "corticoides.md" %}}), AINS, adalimumab, certolizumab.
   - Pathomimie (diagnostic d'élimination)
 
 ### Diagnostic différentiel de l'ulcère veineux
 
 - Mal perforant plantaire
-- Tumeur: carcinome épidermoïde, basocellulaire, lymphome ou [mélanome ulcéré]({{< relref "melanome.md" >}})
+- Tumeur: carcinome épidermoïde, basocellulaire, lymphome ou [mélanome ulcéré]({{% relref "melanome.md" %}})
 - Artériolopathie calcifiante
 
 {{% /collapse %}}
@@ -119,7 +119,7 @@ TVP
 Interrogatoire devant un ulcère de jambe:
 
 - Antécédents personnels ou familiaux  
-  Phlébologiques (varices), maladie veineuse thrombo-embolique (MVTE ou MTEV: [thrombose veineuse profonde TVP]({{< relref "thrombose-veineuse-profonde.md" >}}), superficielle TVS ou [embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})).
+  Phlébologiques (varices), maladie veineuse thrombo-embolique (MVTE ou MTEV: [thrombose veineuse profonde TVP]({{% relref "thrombose-veineuse-profonde.md" %}}), superficielle TVS ou [embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})).
 - Antécédents: ulcère veineux, traumatisme ou chirurgie des membres inférieurs
 - Facteurs de risque cardiovasculaire
 - Tabagisme
@@ -129,7 +129,7 @@ Interrogatoire devant un ulcère de jambe:
   - Impatiences, prurit
   - Œdèmes vespéraux
   - Crampes au repos
-- Dépister une [dénutrition]({{< relref "denutrition.md" >}}) ({{< modal-btn modal-mna >}}score MNA{{< /modal-btn >}})
+- Dépister une [dénutrition]({{% relref "denutrition.md" %}}) ({{< modal-btn modal-mna >}}score MNA{{< /modal-btn >}})
 
 ### Examen clinique
 
@@ -151,7 +151,7 @@ Interrogatoire devant un ulcère de jambe:
   - Photos
 - Amplitudes articulaires de la cheville
 - Déformation des pieds
-- Signes d'[artériopathie des membres inférieurs]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
+- Signes d'[artériopathie des membres inférieurs]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}})
   - Palpation des pouls périphériques
   - Auscultation des trajets artériels
   - Dépilation, peau sèche, blanche, froide (RV+ 6)
@@ -229,13 +229,13 @@ Prise en charge de l'ulcère veineux et prévention des récidives:
 - Antalgie: générale, locale
 - Rééducation à la marche, mobilisation de l'articulation tibio-tarsienne
 - Activité physique
-- [Mise à jour des vaccins]({{< relref "vaccination.md" >}})
+- [Mise à jour des vaccins]({{% relref "vaccination.md" %}})
 - Correction des facteurs de [risque cardiovasculaire](/tags/risque-cardiovasculaire/): tabac, hypertension, diabète
 - Correction d'un surpoids
 - Si déformation: avis podologique
 - Éducation thérapeutique  
   Observance de la compression, traumatismes, plaies, hygiène, exercice, mobilité de la cheville, éviter jambes pendantes ou croisées, piétinement
-- Déclarer une [ALD 31]({{< relref "affection-longue-duree.md" >}}) en cas d'ulcère récidivant ou chronique avec retentissement sévère
+- Déclarer une [ALD 31]({{% relref "affection-longue-duree.md" %}}) en cas d'ulcère récidivant ou chronique avec retentissement sévère
 
 Principaux allergènes pouvant développer un eczéma de contact péri-ulcéreux: baume du Pérou, antiseptiques, fragrances, lanoline, conservateurs, certains pansements.
 
@@ -245,7 +245,7 @@ Principaux allergènes pouvant développer un eczéma de contact péri-ulcéreux
 
 **Compression veineuse de haut niveau (30-40 mmHg - classe III-IV) 24h/24** par bandes (pansement ou œdème initial ++, en multicouches à étirement court) ou bas (chaussettes, bas-cuisse, collants) pour tout ulcère veineux (IPS de 0,8 à 1,3). Elle doit être posée allongé.
 
-Pour l'ulcère mixte à prédominance veineuse (IPS < 0,8 ou > 1,3), prendre en charge de l'[AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) et adapter la compression: pression < 30 mmHg par bande à étirement court, surveillance spécialisée, informer sur le retrait en cas d'aggravation des douleurs.
+Pour l'ulcère mixte à prédominance veineuse (IPS < 0,8 ou > 1,3), prendre en charge de l'[AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) et adapter la compression: pression < 30 mmHg par bande à étirement court, surveillance spécialisée, informer sur le retrait en cas d'aggravation des douleurs.
 
 #### Pour en savoir plus : les types de compression veineuse
 

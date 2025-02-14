@@ -30,9 +30,9 @@ todo = "SEO TSH élevée > hypothyroidie traitement, grossesse et hypothyroïdie
 - Prise en charge de l'hypothyroïdie: traitement hormonal de substitution par lévothyroxine
 - Adaptation du traitement par paliers de 12 µg toutes les 6 à 12 semaines sur critères clinico-TSH (cible de TSH dans la norme du laboratoire)
 - Puis surveillance annuelle de la TSH (sauf symptômes ou traitement perturbateur)
-- Si maladie de Hashimoto: dépister une [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})
+- Si maladie de Hashimoto: dépister une [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}})
 
-Chapitre lié: [hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md" >}})
+Chapitre lié: [hypothyroïdie fruste]({{% relref "hypothyroidie-fruste.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -44,13 +44,13 @@ Hypothyroïdie
 : Dysfonctionnement thyroïdien le plus fréquent consistant en une sécrétion insuffisante d'hormones thyroïdiennes; le plus souvent par altération de la glande mais parfois par atteinte centrale hypothalamo-hypophysaire.
 : Définition biologique de l'hypothyroïdie avérée: ==TSH > 10 mUI/L et T4L < intervalle de référence du laboratoire==.
 : Les principales causes sont auto-immunes (thyroïdite chronique lymphocytaire dont maladie de Hashimoto avec goitre et anticorps anti-TPO) et iatrogène (médicament, radiothérapie).
-: On la distingue de l'**[hypothyroïdie fruste ou infraclinique]({{< relref "hypothyroidie-fruste.md" >}})** où la **TSH est élevée de façon isolée** (la T4L est dans l'intervalle) à 2 reprises espacées d'au moins 6 semaines.
+: On la distingue de l'**[hypothyroïdie fruste ou infraclinique]({{% relref "hypothyroidie-fruste.md" %}})** où la **TSH est élevée de façon isolée** (la T4L est dans l'intervalle) à 2 reprises espacées d'au moins 6 semaines.
 : L'hypothyroïdie atteint 1 à 2% de la population, dont ⅔ de femmes et 10% des sujets âgés.
 
 ### Facteurs favorisants l'hypothyroïdie
 
-- [Post-partum]({{< relref "post-partum.md" >}})
-- Antécédents personnels ou familiaux auto-immuns (ex. [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}))
+- [Post-partum]({{% relref "post-partum.md" %}})
+- Antécédents personnels ou familiaux auto-immuns (ex. [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}))
 - Irradiation cervicale
 - Trisomie 21 et syndrome de Turner
 
@@ -63,7 +63,7 @@ Pathologies responsables d'hypothyroïdie, le plus souvent par insuffisance thyr
   - Goitre constant, diffus, volume modéré, ferme, souvent indolore et non compressif, pseudo-nodulaire
   - Anticorps anti-TPO à taux élevés et aspect échographiques caractéristiques
   - Aggravation progressive avec diminution du volume de la glande et du taux des anticorps
-  - Favorise la [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) (dépister systématiquement) et le [lymphome thyroïdien]({{< relref "lymphomes-non-hodgkiniens.md" >}}) (< 1% des cas)
+  - Favorise la [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (dépister systématiquement) et le [lymphome thyroïdien]({{% relref "lymphomes-non-hodgkiniens.md" %}}) (< 1% des cas)
 - Thyroïdite chronique
   - Souvent asymptomatique, euthyroïdie
   - Taux élevé d'anticorps circulants, parenchyme hétérogène
@@ -87,7 +87,7 @@ Pathologies responsables d'hypothyroïdie, le plus souvent par insuffisance thyr
     T4L basse avec TSH anormalement basse ou normale. Rare (< 5% des hypothyroïdies), contexte hypophysaire ou cérébral.
   - Iatrogène  
     Médicaments ou traitement thyroïdien par iode 131, thyroïdectomie et radiothérapie cervicale.
-  - [Hémochromatose]({{< relref "hemochromatose.md" >}})
+  - [Hémochromatose]({{% relref "hemochromatose.md" %}})
   - Alimentaire  
     Manioc, cassave.
   - Polluants
@@ -99,7 +99,7 @@ Anomalies biologiques pouvant être observées en cas d'hypothyroïdie:
 - Hypercholestérolémie et hypertriglycéridémie
 - Anémie isolée modérée normochrome normocytaire
 - Augmentation des CPK/LDH
-- [Hyponatrémie]({{< relref "hyponatremie.md" >}}) de dilution
+- [Hyponatrémie]({{% relref "hyponatremie.md" %}}) de dilution
 - Hypoglycémie
 - Hyperprolactinémie
 - Hyperuricémie
@@ -134,7 +134,7 @@ T4L
 ### Interrogatoire
 
 - Antécédents personnels  
-  Zone d'endémie de carence, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), insuffisance surrénale.
+  Zone d'endémie de carence, [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), insuffisance surrénale.
 - Cause transitoire  
   Accouchement, iode 131, thyroïdectomie partielle, douleurs cervicales récentes.
 - Antécédents familiaux (auto-immuns ++)
@@ -147,33 +147,33 @@ T4L
 - Palpation thyroïdienne  
   Souvent ferme et hétérogène, pseudo-nodulaire, taille variable, goitre (Hashimoto) ou atrophique (thyroïdite).
 - Signes généraux  
-  [Fatigue](/tags/fatigue/) (physique, intellectuelle, sexuelle), prise de poids modeste, [constipation]({{< relref "constipation.md" >}}), frilosité.
+  [Fatigue](/tags/fatigue/) (physique, intellectuelle, sexuelle), prise de poids modeste, [constipation]({{% relref "constipation.md" %}}), frilosité.
 - Phanères  
   Ongles secs et cassants, dépilation (queue du sourcil) et pousse lente des cheveux et poils, peau épaissie, froide, sèche et squameuse, teint carotinodermique (jaunâtre), cicatrisation lente.
 - Myxœdème  
-  Macroglossie, voix rauque ou grave, hypoacousie, vertiges, ronflements voire [syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}}), gonflement des paupières.
+  Macroglossie, voix rauque ou grave, hypoacousie, vertiges, ronflements voire [syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}}), gonflement des paupières.
 - Cardiaque  
-  Bradycardie, assourdissement des bruits du cœur, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) fréquente, [angor]({{< relref "syndrome-coronarien-chronique.md" >}}), épanchement péricardique si ancien.
+  Bradycardie, assourdissement des bruits du cœur, [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) fréquente, [angor]({{% relref "syndrome-coronarien-chronique.md" %}}), épanchement péricardique si ancien.
 - Respiratoire  
-  En atteinte sévère: épanchement pleural bilatéral, [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), bradypnée.
+  En atteinte sévère: épanchement pleural bilatéral, [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), bradypnée.
 - Neuro-psychologique  
-  Ralentissement psychomoteur, syndrome dépressif et [baisse de libido et de l'érection]({{< relref "dysfonction-erectile.md" >}}), voire démence ou agitation chez le sujet âgé. Crampes, neuropathie périphérique.
-- Aménorrhée, [infertilité]({{< relref "infertilite-couple.md" >}})
+  Ralentissement psychomoteur, syndrome dépressif et [baisse de libido et de l'érection]({{% relref "dysfonction-erectile.md" %}}), voire démence ou agitation chez le sujet âgé. Crampes, neuropathie périphérique.
+- Aménorrhée, [infertilité]({{% relref "infertilite-couple.md" %}})
 
 #### Autres situations devant faire évoquer une hypothyroïdie
 
 Recherche une hypothyroïdie en cas de signes non spécifiques associés à:
 
 - Amiodarone, lithium
-- [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
+- [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})
 - [Dépression inexpliquée](/tags/depression/)
 - Démence inexpliquée
 - AEG inexpliquée
 - Hypercholestérolémie inexpliquée
 - Chirurgie thyroïdienne, irathérapie ou radiothérapie cervicale ou sus-claviculaire (cancer du sein ...)
-- Antécédents personnels ou familiaux de maladie auto-immune: [diabète type 1]({{< relref "diabete-type-1.md" >}}), [dysthyroïdie](/tags/tsh/)
+- Antécédents personnels ou familiaux de maladie auto-immune: [diabète type 1]({{% relref "diabete-type-1.md" %}}), [dysthyroïdie](/tags/tsh/)
 - Syndrome de Turner ou trisomie 21
-- [Grossesse]({{< relref "grossesse.md" >}}) ou désir de grossesse et {{< modal-btn modal-fdr-hypothyroidie >}}facteurs de risque d'hypothyroïdie{{< /modal-btn >}}
+- [Grossesse]({{% relref "grossesse.md" %}}) ou désir de grossesse et {{< modal-btn modal-fdr-hypothyroidie >}}facteurs de risque d'hypothyroïdie{{< /modal-btn >}}
 
 {{%/collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -202,19 +202,19 @@ Ne pas réaliser d'autres examens complémentaires chez la personne âgée.
 
 - TSH > 10 mUI/L et T4L < norme basse: **hypothyroïdie avérée**  
   Si arguments auto-immuns: doser une seule fois les **anticorps anti-TPO** à visée étiologique (sauf personne âgée).
-- TSH élevée et T4L normale: voir [hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md">}})
+- TSH élevée et T4L normale: voir [hypothyroïdie fruste]({{% relref "hypothyroidie-fruste.md" %}})
 - TSH modérément élevée (4-10 mUI/L, adaptée après 60 ans) et T4L normale: renouveler le dosage à 6 semaines
 
 #### Cas particuliers
 
-- Hypothyroïdie dans les suites du traitement d'une [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}): T4L basse avec une TSH qui peut rester basse/effondrée quelques semaines à quelques mois
-- TSH élevée de façon isolée: artefact ou [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
+- Hypothyroïdie dans les suites du traitement d'une [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}): T4L basse avec une TSH qui peut rester basse/effondrée quelques semaines à quelques mois
+- TSH élevée de façon isolée: artefact ou [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}})
 - TSH normale ou diminuée et T4L basse: possible hypothyroïdie centrale par maladie générale sévère (syndrome de basse T4), perfusion de dopamine/dobutamine, corticoïdes à doses massives/Cushing sévère, dépression, grossesse
 - TSH basse et T4L basse: cause médicamenteuse par **carbamazépine** (Tegretol®), **phénytoïne**
 
 ### Rechercher une maladie cœliaque
 
-En cas de maladie de Hashimoto (anti-TPO positifs), rechercher une [maladie cœliaque associée]({{< relref "maladie-coeliaque.md" >}}). (*ESsCD 2019*)
+En cas de maladie de Hashimoto (anti-TPO positifs), rechercher une [maladie cœliaque associée]({{% relref "maladie-coeliaque.md" %}}). (*ESsCD 2019*)
 
 {{%info%}}
 
@@ -222,12 +222,12 @@ En cas de maladie de Hashimoto (anti-TPO positifs), rechercher une [maladie cœl
 
 Indications limitées à l'échographie thyroïdienne:
 
-- [Nodule thyroïdien]({{< relref "nodule-thyroidien.md" >}})
+- [Nodule thyroïdien]({{% relref "nodule-thyroidien.md" %}})
 - Adénopathie cervicale palpable
 - Signes de compression  
-  [Dysphonie]({{< relref "dysphonie.md" >}}), dysphagie, dyspnée.
+  [Dysphonie]({{% relref "dysphonie.md" %}}), dysphagie, dyspnée.
 - Palpation thyroïdienne difficile
-- Facteur de risque de [cancer de la thyroïde]({{< relref "cancer-thyroide.md" >}}) (*HAS 2021*)
+- Facteur de risque de [cancer de la thyroïde]({{% relref "cancer-thyroide.md" %}}) (*HAS 2021*)
 {{%/info%}}
 
 Pas d'indication à la scintigraphie pour les hypothyroïdies.
@@ -288,7 +288,7 @@ Cible de TSH chez +65 ans: valeurs hautes de l'intervalle et toujours > 1 mUI/L.
 
 - Prise unique le matin à jeun, 20 à 30 minutes avant toute prise orale
 - En cas d'oubli: doubler la dose du lendemain ou prendre la dose du jour 3 heures après le dernier repas de la journée
-- Délai d'au moins 2 heures avant la prise de [calcium]({{< relref "apports-calcium.md" >}}), fer, topiques digestifs
+- Délai d'au moins 2 heures avant la prise de [calcium]({{% relref "apports-calcium.md" %}}), fer, topiques digestifs
 - Information du patient: [Sante.fr. Petite chronique de l'hypothyroïdie](https://microlearning-sante.fr/fr/levothyrox)
 
 **Dosage de la TSH à 6-8 semaines** et adaptation par **paliers de 6 à 12 semaines** sur critères clinico-TSH.
@@ -322,7 +322,7 @@ Indications à une consultation par l'endocrinologue pour hypothyroïdie:
 
 ### Sujets à risque sous lévothyroxine
 
-- La lévothyroxine perturbe l'INR chez les sujets traités par **[AVK]({{< relref "avk.md" >}})**
+- La lévothyroxine perturbe l'INR chez les sujets traités par **[AVK]({{% relref "avk.md" %}})**
 - Sujet **coronarien** ou **âgé**: débuter à posologie basse, augmentation prudente et surveillance symptômes + clinique + ECG  
   **NB.** On ne recherche pas toujours une normalisation de la TSH.
 - **Grossesse**  
@@ -356,7 +356,7 @@ Suivi thérapeutique par dosage de T3L + T4L qui doit être dans le tiers supér
 > Patiente déjà traitée: augmenter en urgence la lévothyroxine de 20 à 30 % dès connaissance de la grossesse, dans l'attente de l'avis endocrinologique.
 {.alert .alert-warning}
 
-Particularités de la prise en charge de l'hypothyroïdie en rapport avec une [grossesse]({{< relref "grossesse.md" >}}) ou un désir de grossesse:
+Particularités de la prise en charge de l'hypothyroïdie en rapport avec une [grossesse]({{% relref "grossesse.md" %}}) ou un désir de grossesse:
 
 - Dépister une hypothyroïdie par TSH si {{< modal-btn modal-fdr-hypothyroidie >}}facteurs de risque d'hypothyroïdie{{< /modal-btn >}}
 - **TSH > 4 mUI/L** quel que soit le terme: confirmation sur un 2^e^ prélèvement sans attendre 6 semaines  
@@ -399,7 +399,7 @@ graph TB
   decouverte["TSH augmentée de l'adulte<br>(T4L 'en cascade' si &gt; 10 mUI/L)"] -- Contrôle à 6 semaines --> TSH["TSH &gt; 4 mUI/L"]
   style decouverte stroke:#4150f5, stroke-width:1px
     TSH -- "TSH de 4 à 10<br>ou T4L normale" --> hTFruste("Hypothyroïdie fruste<br>(Cliquer pour le chapitre dédié)")
-      click hTFruste "{{< relref "hypothyroidie-fruste.md" >}}" "Ouvrir dans un onglet" _blank
+      click hTFruste "{{% relref "hypothyroidie-fruste.md" %}}" "Ouvrir dans un onglet" _blank
     TSH -- "TSH &gt; 10 (20 si +65 ans)<br>et T4L basse" --> hT(Hypothyroïdie avérée)
       hT --> bilan("<strong>Examens</strong><br>—<br>- Aucun si +65 ans<br>- Anticorps anti-TPO<br>± dépistage M. cœliaque<br>- Rarement échographie cervicale<br>- ECG")
         bilan --> traitement(Traitement par lévothyroxine)

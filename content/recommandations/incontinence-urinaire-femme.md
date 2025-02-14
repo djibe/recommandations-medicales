@@ -29,7 +29,7 @@ flowchart = true
 - La prise en charge de l'incontinence urinaire de la femme associe des mesures hygiéno-diététiques (boissons, surpoids, activité physique) et la rééducation périnéale. En cas d'échec le traitement anticholinergique ou la chirurgie sont envisagés
 - Avis urologique en cas de suspicion d'uropathie ou d'échec du traitement de première intention
 
-Chapitres liés: [cystite]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), [prolapsus génital]({{< relref "prolapsus-genital-femme.md" >}}), [incontinence fécale]({{< relref "incontinence-fecale.md" >}})
+Chapitres liés: [cystite]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}), [prolapsus génital]({{% relref "prolapsus-genital-femme.md" %}}), [incontinence fécale]({{% relref "incontinence-fecale.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -72,10 +72,10 @@ IUE
   - À l'effort (activité physique, rire, toux ou éternuement) et/ou impériosités
   - Circonstances de survenue
   - Fréquence et sévérité des fuites (protections, changes, social)
-- Symptômes urinaires: signes fonctionnels urinaires (SFU) avec brûlures mictionnelles, pollakiurie, dysurie, urgenturie, [hématurie]({{< relref "hematurie.md" >}}), nycturie
+- Symptômes urinaires: signes fonctionnels urinaires (SFU) avec brûlures mictionnelles, pollakiurie, dysurie, urgenturie, [hématurie]({{% relref "hematurie.md" %}}), nycturie
 - Si âgée, urgenturie, nycturie ou pollakiurie: [catalogue mictionnel (PDF)](https://www.urofrance.org/fileadmin/medias/scores/catalogue-mictionnel.pdf) sur 3 jours (fréquence et volume mictionnel, fréquence des fuites)
-- Autres symptômes: [constipation]({{< relref "constipation.md" >}}), [incontinence fécale]({{< relref "incontinence-fecale.md" >}}), sécheresse vaginale, dyspareunie, métrorragies, leucorrhées, chutes
-- Avis gériatrique si: +85 ans, polymédication, trouble cognitif, [dépression]({{< relref "depression.md" >}}), [dénutrition]({{< relref "denutrition.md" >}}), déficit sensoriel, instabilité posturale, sédentarité, perte d'autonomie, isolement social
+- Autres symptômes: [constipation]({{% relref "constipation.md" %}}), [incontinence fécale]({{% relref "incontinence-fecale.md" %}}), sécheresse vaginale, dyspareunie, métrorragies, leucorrhées, chutes
+- Avis gériatrique si: +85 ans, polymédication, trouble cognitif, [dépression]({{% relref "depression.md" %}}), [dénutrition]({{% relref "denutrition.md" %}}), déficit sensoriel, instabilité posturale, sédentarité, perte d'autonomie, isolement social
 - Retentissement social
 - Qualité de vie: [questionnaire Contilife (PDF)](https://www.urofrance.org/fileadmin/medias/scores/contilife.pdf) ou [ICIQ (DOC)](https://www.urofrance.org/fileadmin/documents2/data/PU/2011/v21i9/S1166708711000558/main.assets/mmc1.doc)
 

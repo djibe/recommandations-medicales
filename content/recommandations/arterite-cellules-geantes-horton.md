@@ -28,8 +28,8 @@ todo = "rankok, flow PNDSp13/50, relecture"
 - Une pseudo-polyarthrite rhizomélique (PPR) est fréquemment associée avec des arthralgies et des myalgies des épaules et du bassin
 - Le bilan affirme un syndrome inflammatoire quasi constant: NFS, CRP supérieure à 10 mg/L, fibrinogène élevés
 - Adresser en semi-urgence toute suspicion de maladie de Horton au spécialiste (rhumatologue, interniste) du centre de compétence ([annuaire](https://www.fai2r.org/les-centres-fai2r/centres-competence/)) pour affirmer le diagnostic par biopsie de l'artère temporale (BAT)
-- La [corticothérapie à forte dose]({{< relref "corticoides.md" >}}) est immédiate en cas de symptômes visuels (intra-veineuse) ou en cas de signes céphaliques avec CRP > 10 mg/L (prednisone 0,7-1 mg/kg/j, max 80 mg/j)
-- Mesures associées aux corticoïdes: activité physique, [traitement anti-ostéoporotique]({{< relref "osteoporose.md" >}}) systématique, supplémentation en [vitamine D]({{< relref "vitamine-d.md" >}}), évaluer les [apports en calcium]({{< relref "apports-calcium.md" >}}), [vaccinations]({{< relref "vaccination.md" >}}) (grippe, covid, pneumocoque -- vaccins vivants contre-indiqués)
+- La [corticothérapie à forte dose]({{% relref "corticoides.md" %}}) est immédiate en cas de symptômes visuels (intra-veineuse) ou en cas de signes céphaliques avec CRP > 10 mg/L (prednisone 0,7-1 mg/kg/j, max 80 mg/j)
+- Mesures associées aux corticoïdes: activité physique, [traitement anti-ostéoporotique]({{% relref "osteoporose.md" %}}) systématique, supplémentation en [vitamine D]({{% relref "vitamine-d.md" %}}), évaluer les [apports en calcium]({{% relref "apports-calcium.md" %}}), [vaccinations]({{% relref "vaccination.md" %}}) (grippe, covid, pneumocoque -- vaccins vivants contre-indiqués)
 - Prise en charge du [risque cardiovasculaire](/tags/risque-cardiovasculaire/) à long terme (tabac, activité physique, dyslipidémie)
 
 {{%/article-summary%}}
@@ -79,13 +79,13 @@ Autres diagnostics à étayer en cas de symptômes évocateurs de maladie de Hor
   - Périartérite noueuse
   - Maladie de Behçet
 - Infections
-  - Si aortite: [syphilis]({{< relref "syphilis.md" >}})
-  - [Tuberculose]({{< relref "tuberculose.md" >}})
+  - Si aortite: [syphilis]({{% relref "syphilis.md" %}})
+  - [Tuberculose]({{% relref "tuberculose.md" %}})
   - Salmonellose
-  - [Endocardite]({{< relref "endocardite.md" >}})
+  - [Endocardite]({{% relref "endocardite.md" %}})
 - Rhumatismes
-  - Arthrites microcristallines ([rhumatisme à PPC]({{< relref "rhumatisme-pyrophosphate-chondrocalcinose.md" >}}) ...)
-  - [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}})
+  - Arthrites microcristallines ([rhumatisme à PPC]({{% relref "rhumatisme-pyrophosphate-chondrocalcinose.md" %}}) ...)
+  - [Polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}})
   - Spondyloarthropathie de début tardif
   - Coiffe des rotateurs, capsulite rétractile
 - Autres: atteinte thyroïde ou parathyroïde, athérosclérose, maladie d'Erdheim-Chester, [cancers](/tags/cancer/), maladie associée aux IgG4
@@ -189,15 +189,15 @@ La prise en charge de la maladie de Horton relève du spécialiste de centre de 
 - **Corticothérapie** forte dose urgente  
   - Immédiate en cas de signes visuels, débutée en cas de signes céphaliques avec CRP > 10 mg/L, arrêtée sous 12 mois
   - Prednisone 40-80 mg/j (0,7-1 mg/kg, max 80 mg/j)
-  - Avec mesures associées et [traitement anti-ostéoporotique]({{< relref "osteoporose.md" >}}) systématique
-  - Supplémentation en [vitamine D]({{< relref "vitamine-d.md" >}}) 800-1200 UI/j, calcul des apports en calcium ([questionnaire GRIO](https://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php), cible 1 g/j)
+  - Avec mesures associées et [traitement anti-ostéoporotique]({{% relref "osteoporose.md" %}}) systématique
+  - Supplémentation en [vitamine D]({{% relref "vitamine-d.md" %}}) 800-1200 UI/j, calcul des apports en calcium ([questionnaire GRIO](https://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php), cible 1 g/j)
 - Si complication ophtalmique: aspirine 75-300 mg/j
 - Mesures hygiéno-diététiques
   - Arrêt du tabac
   - Activité physique quotidienne
   - Hypertension artérielle: cible < 130/80 mmHg  
     Si tolérée chez le +65 ans, sinon 140/80 voire plus laxe après 80 ans.
-- Vaccins: [grippe]({{< relref "grippe.md" >}}), [Covid-19]({{< relref "covid-19.md" >}}), {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}}
+- Vaccins: [grippe]({{% relref "grippe.md" %}}), [Covid-19]({{% relref "covid-19.md" %}}), {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}}
 - Information du patient: [document France vascularites (PDF)](https://www.association-vascularites.org/images/fiches_individuelles_vascularites/fiche_ACG_v05_10_2020.pdf), [site de la fai2r](https://www.fai2r.org/les-pathologies-rares/maladie-de-horton-pseudo-polyarthrite-rhizomelique/)
 - Association de patients: [France Vascularites](http://www.association-vascularites.org)
 
@@ -207,7 +207,7 @@ La **cortico-sensibilité** spectaculaire est un argument supplémentaire en fav
 
 Le traitement devrait être arrêté sous 12 mois (20% de corticodépendance) et est débuté avec 0,7-1 mg/kg/j de prednisone (max 80 mg/j per os).
 
-Mesures associées aux corticoïdes: suivi du poids, alimentaire, supplémentation en vitamine D, calcul des apports en calcium, ostéodensitométrie, [décroissance progressive]({{< relref "corticoides.md" >}}) (1 mg/mois à partir de 5 mg/j).
+Mesures associées aux corticoïdes: suivi du poids, alimentaire, supplémentation en vitamine D, calcul des apports en calcium, ostéodensitométrie, [décroissance progressive]({{% relref "corticoides.md" %}}) (1 mg/mois à partir de 5 mg/j).
 
 Contre-indication aux vaccins vivants atténués (BCG, fièvre jaune) tant que la corticothérapie est ≥ 10 mg/j.
 
@@ -217,7 +217,7 @@ Contre-indication aux vaccins vivants atténués (BCG, fièvre jaune) tant que l
 | Prednisone (mg/j) | 0,7-1 mg/kg/j | 15 | 5-10 | Arrêt |
 {{< /table >}}
 
-Le spécialiste peut avoir recours à des traitements complémentaires: [méthotrexate]({{< relref "methotrexate.md" >}}), tocilizumab.
+Le spécialiste peut avoir recours à des traitements complémentaires: [méthotrexate]({{% relref "methotrexate.md" %}}), tocilizumab.
 
 {{% /collapse %}}
 {{%collapse "Suivi du Horton" %}}
@@ -233,7 +233,7 @@ Le suivi de l'artérite à cellules géantes est pluridisciplinaire:
 - Cardiologique: annuel avec échocardiographie
 - Radiologique: ostéodensitométrie, angioscanner thoraco-abdominal tous les 2-5 ans (sauf échodoppler fait)
 
-Consultation urgente en cas de fièvre (palpation systématique de la fosse iliaque gauche pour éliminer une [diverticulite]({{< relref "diverticulite-sigmoidienne.md" >}})).
+Consultation urgente en cas de fièvre (palpation systématique de la fosse iliaque gauche pour éliminer une [diverticulite]({{% relref "diverticulite-sigmoidienne.md" %}})).
 
 Des **rechutes** tardives (10 ans) de la maladie de Horton sont possibles.
 

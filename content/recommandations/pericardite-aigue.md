@@ -34,7 +34,7 @@ flowchart = true
 
 Péricardite aiguë
 : Inflammation aiguë du péricarde d'origine inconnue ou virale (90% dite idiopathique, voire bactérienne ou tuberculose chez l'immunodéprimé) avec ou sans épanchement, atteignant principalement les hommes de 16 à 65 ans. L'évolution de la péricardite aiguë idiopathique est le plus souvent bénigne.
-: Les enjeux sont liés à la gravité des diagnostics différentiels ([SCA]({{< relref "syndrome-coronarien-aigu.md" >}}), [EP]({{< relref "embolie-pulmonaire.md" >}}), dissection aortique), aux risque de tamponnade et de formes chroniques.
+: Les enjeux sont liés à la gravité des diagnostics différentiels ([SCA]({{% relref "syndrome-coronarien-aigu.md" %}}), [EP]({{% relref "embolie-pulmonaire.md" %}}), dissection aortique), aux risque de tamponnade et de formes chroniques.
 : Les récidives de péricardite aiguë sont fréquentes (30% à 18 mois). À distance d'une péricardite aiguë idiopathique, la colchicine réduirait les récidives de moitié.
 
 Péricardite chronique
@@ -75,8 +75,8 @@ Autres arguments diagnostiques bio-radiologiques: syndrome inflammatoire biologi
 
 Principaux diagnostics différentiels de la péricardite aiguë (justifiant un bilan en urgence):
 
-- [Syndrome coronarien aigu]({{< relref "syndrome-coronarien-aigu.md" >}}) (SCA)
-- [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
+- [Syndrome coronarien aigu]({{% relref "syndrome-coronarien-aigu.md" %}}) (SCA)
+- [Embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})
 - Dissection aortique
 
 {{% /collapse %}}
@@ -97,7 +97,7 @@ L'examen clinique d'une suspicion de péricardite recherche une orientation deva
   - Douleurs thoraciques aiguës (> 85%)  
     Rétrosternales ou précordiales gauches de repos, prolongées, résistantes à la trinitrine, augmentées au décubitus, à l'inspiration profonde et à la toux, améliorées penché en avant (antéflexion)
   - Dyspnée soulagée par l'antéflexion
-  - Autres signes de péricardite: toux sèche, [dysphonie]({{< relref "dysphonie.md" >}}), hoquet
+  - Autres signes de péricardite: toux sèche, [dysphonie]({{% relref "dysphonie.md" %}}), hoquet
   - Signes généraux du syndrome pseudo-grippal: fièvre, fatigue, myalgies
 - Facteurs de mauvais pronostic
   - Fièvre > 38°C

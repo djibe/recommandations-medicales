@@ -45,7 +45,7 @@ Recommandations pour le traitement des infections urinaires communautaires de l'
   - Cystite: ECBU, antibiothérapie probabiliste puis ECBU de contrôle et mensuel
   - Pyélonéphrite: *Urgences*
 
-Chapitres liés: [infections urinaires chez l'enfant]({{< relref "infection-urinaire-enfant.md" >}}), [infections génitales de l'homme]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}})
+Chapitres liés: [infections urinaires chez l'enfant]({{% relref "infection-urinaire-enfant.md" %}}), [infections génitales de l'homme]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "BU et ECBU" %}}
@@ -196,7 +196,7 @@ Prophylaxie des cystites récidivantes:
 - Régularisation du transit intestinal
 - Arrêt des spermicides
 - *E. coli*: canneberge avec cible d'apports de 36 mg/j de proanthocyanidine
-- [Ménopause]({{< relref "menopause.md" >}}): œstrogènes en application locale (après avis spécialisé)
+- [Ménopause]({{% relref "menopause.md" %}}): œstrogènes en application locale (après avis spécialisé)
 
 {{% /collapse %}}
 {{%collapse "Pyélonéphrite aiguë de la femme" %}}

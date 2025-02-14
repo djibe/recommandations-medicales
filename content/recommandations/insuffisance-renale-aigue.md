@@ -29,7 +29,7 @@ flowchart = true
 - Pour les informations sur les injections de produits de contraste iodé, voir *Rein et produits de contraste*
 - Le KDIGO travaille sur les recommandations 2023
 
-Chapitre lié: [insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
+Chapitre lié: [insuffisance rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -114,7 +114,7 @@ Les symptômes et signes associés à la survenue d'une insuffisance rénale aig
 
 - Anurie
 - Surcharge hydrosodée  
-  Dyspnée, œdèmes, [hyponatrémie]({{< relref "hyponatremie.md" >}}).
+  Dyspnée, œdèmes, [hyponatrémie]({{% relref "hyponatremie.md" %}}).
 - Syndrome urémique  
   Troubles digestifs (nausées, vomissements, diarrhées), anorexie, confusion, astérixis, réflexes vifs, épilepsie.
 - [Céphalées](/tags/cephalees/)
@@ -125,7 +125,7 @@ Les symptômes et signes associés à la survenue d'une insuffisance rénale aig
 
 Rechercher un globe vésical et adresser aux Urgences pour la prise en charge de l'insuffisance rénale aiguë (biologie, ECG, échographie rénovésicale).
 
-Préciser les antécédents ([insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [HBP]({{< relref "hypertrophie-benigne-prostate.md" >}}) ...), les valeurs antérieures de créatinine et le niveau de diurèse.
+Préciser les antécédents ([insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}), [HBP]({{% relref "hypertrophie-benigne-prostate.md" %}}) ...), les valeurs antérieures de créatinine et le niveau de diurèse.
 
 Consultation de contrôle à 3 mois après la correction de l'épisode d'insuffisance rénale aiguë.
 
@@ -154,7 +154,7 @@ Un dosage de créatinine est valable 3 mois (7 jours en aigu).
 
 ### Facteurs de risque d'insuffisance rénale aiguë post-contraste
 
-- Facteurs de risque liés au patient: [IRC]({{< relref "insuffisance-renale-chronique.md" >}}), IRA, déshydratation marquée
+- Facteurs de risque liés au patient: [IRC]({{% relref "insuffisance-renale-chronique.md" %}}), IRA, déshydratation marquée
 - Facteurs de risque liés à la procédure: fortes de doses intra-artérielles de 1^er^ passage, PCI de haute osmolalité (désuets), multiples injections de PCI dans les 48-72 heures, actes interventionnels cardiovasculaires
 
 Chez ces personnes: protocoles d'hydratation intraveineux spécifiques au décours de l'examen.

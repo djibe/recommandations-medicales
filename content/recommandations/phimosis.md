@@ -26,7 +26,7 @@ flowchart = true
 - Le phimosis correspond à un étroitesse du prépuce prédominant sur<br>l'anneau distal, empêchant plus<br>ou moins sa rétractation
 - Le phimosis du nouveau-né est physiologique et ne doit pas être manipulé
 - Absence de prise en charge du phimosis avant 7-8 ans
-- Le traitement d'un phimosis après 8 ans peut être débuté par application de [dermocorticoïde fort]({{< relref "dermocorticoides.md" >}}) 1 à 2 fois par jour accompagnée de manœuvres douces pendant 6 à 8 semaines
+- Le traitement d'un phimosis après 8 ans peut être débuté par application de [dermocorticoïde fort]({{% relref "dermocorticoides.md" %}}) 1 à 2 fois par jour accompagnée de manœuvres douces pendant 6 à 8 semaines
 - La chirurgie du prépuce est réservée aux phimosis résistants aux dermocorticoïdes
 - Jamais de manœuvres de rétractions forcées du prépuce quelle que soit l'étiologie du phimosis
 
@@ -54,7 +54,7 @@ Prépuce
   Résulte d'une posthite aiguë à germe banal ou par [IST](/tags/ist/). La guérison du processus infectieux fait disparaître le phimosis.
 - **Phimosis acquis ou de l'adulte** (secondaire)  
   Intervention le plus souvent nécessaire. Survient sur prépuce cicatriciel (infections locales récidivantes par infections bénignes ou IST, manœuvres de rétraction forcées, lésions de lichen scléro-atrophiques).  
-  **Éliminer un carcinome épidermoïde du gland en palpation et un [diabète]({{< relref "diabete-type-2.md" >}}) devant des infections récidivantes.**
+  **Éliminer un carcinome épidermoïde du gland en palpation et un [diabète]({{% relref "diabete-type-2.md" %}}) devant des infections récidivantes.**
 - Lichen scléro-atrophique  
   Dermatose chronique d'étiologie inconnue survenant chez l'homme jeune.
 
@@ -104,7 +104,7 @@ Signes et symptômes du phimosis chez l'adulte et chez l'enfant.
 
 ### Signes du phimosis chez l'adulte
 
-Interrogatoire sur les [infections sexuelles](/tags/ist/) et [urinaires]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), les traitements déjà réalisés.
+Interrogatoire sur les [infections sexuelles](/tags/ist/) et [urinaires]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}), les traitements déjà réalisés.
 
 Définir si le phimosis est physiologique persistant ou secondaire.
 

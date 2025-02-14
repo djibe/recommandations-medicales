@@ -201,7 +201,7 @@ Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacit
 : Pour le réglage fin des stimulateurs cardiaques implantés ou défibrillateurs.
 
 Épreuve d'effort peut être envisagée
-: Évaluer la réponse ventriculaire chez les patients atteints de [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}).
+: Évaluer la réponse ventriculaire chez les patients atteints de [fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}).
 : Évaluer un syndrome de pré-excitation.
 
 </div>
@@ -327,7 +327,7 @@ atriale
 - Obstruction sévère ou symptomatique à l'éjection ventriculaire gauche
 - Insuffisance cardiaque décompensée
 - Thrombose veineuse aiguë ± embolie pulmonaire
-- Myocardite, [péricardite]({{< relref "pericardite-aigue.md" >}}) ou endocardite aiguës
+- Myocardite, [péricardite]({{% relref "pericardite-aigue.md" %}}) ou endocardite aiguës
 - Dissection aortique aiguë
 - Thrombus intra-cardiaque à haut risque emboligène
 - Incapacité à effectuer un exercice physique

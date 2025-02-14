@@ -55,7 +55,7 @@ Causes de développement d'une cataracte:
   Uvéite chronique, myopie forte, rétinopathies pigmentaires, chirurgies oculaires.
 - Cataracte secondaire métabolique: [diabète](/tags/diabete/), hypoparathyroïdie
 - Cataracte toxique: ammoniaque, naphtaline, oxyde d'éthylène
-- Cataracte iatrogène: [corticothérapie]({{< relref "corticoides.md" >}}) locale ou générale prolongée (sous-capsulaire postérieure), radiothérapie orbitaire
+- Cataracte iatrogène: [corticothérapie]({{% relref "corticoides.md" %}}) locale ou générale prolongée (sous-capsulaire postérieure), radiothérapie orbitaire
 - Cataracte génétique: trisomie 21, dystrophie myotonique de Steinert (avec ptosis, troubles moteurs et du rythme cardiaque)
 - Cataracte congénitale: héréditaire, embryofœtopathie (parasitaire, virale dont rubéole ...)
 
@@ -66,9 +66,9 @@ Causes de développement d'une cataracte:
 
 Signes et symptômes de cataracte:
 
-- Antécédents: ophtalmologiques (chirurgie, traumatisme oculaire, uvéite ...), [diabète](/tags/diabete/), hypoparathyroïdie, [maladie de Wilson]({{< relref "maladie-wilson.md" >}})
+- Antécédents: ophtalmologiques (chirurgie, traumatisme oculaire, uvéite ...), [diabète](/tags/diabete/), hypoparathyroïdie, [maladie de Wilson]({{% relref "maladie-wilson.md" %}})
 - Traitements en cours ou passés: corticoïdes
-- Facteurs de risque: alcool, [tabac]({{< relref "arret-tabac.md" >}}), exposition solaire (UVB), malnutrition, inactivité physique
+- Facteurs de risque: alcool, [tabac]({{% relref "arret-tabac.md" %}}), exposition solaire (UVB), malnutrition, inactivité physique
 - Profession
 - Symptômes de cataracte
   - **Baisse d'acuité visuelle** (BAV) très progressive de loin  
@@ -94,7 +94,7 @@ Adresser à l'ophtalmologue le patient atteint de cataracte pour décider d'une 
 
 Les examens complémentaires relèvent de la prescription de l'ophtalmologue (échographie en mode B ...).
 
-La glycémie à jeun est réalisée en cas de [facteur de risque de diabète]({{< relref "diabete-type-2.md" >}}).
+La glycémie à jeun est réalisée en cas de [facteur de risque de diabète]({{% relref "diabete-type-2.md" %}}).
 
 Une cataracte chez le **sujet jeune** peut faire rechercher une cause métabolique: ferritine, albumine et calcémie.
 

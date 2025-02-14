@@ -30,7 +30,7 @@ Indications au dépistage de l'anévrysme de l'aorte abdominale (AAA) par échod
 2. Sujet de plus de 65 ans avec antécédent familial d'AAA au 1^er^ degré (parents/fratrie)
 3. Considérer chez la femme de plus de 65 ans ayant fumé
 4. Considérer avant 65 ans si antécédent familial d'AAA au 1^er^ degré ou facteurs de risque multiples d'AAA (tabac, homme, âge, antécédent familial, facteurs de risque cardiovasculaires)
-5. En cas d'[artériopathie des membres inférieurs AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (*ESC 2017*)
+5. En cas d'[artériopathie des membres inférieurs AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) (*ESC 2017*)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -77,7 +77,7 @@ Le dépistage de l'anévrisme de l'aorte abdominale est à réaliser une seule f
 2. Sujet de plus de 65 ans avec antécédent familial d'AAA au 1^er^ degré (parents/fratrie)
 3. Considérer chez la femme de plus de 65 ans ayant fumé
 4. Considérer avant 65 ans si antécédent familial d'AAA au 1^er^ degré ou facteurs de risques multiples d'AAA (tabac, homme, âge, antécédent familial, facteurs de risque cardiovasculaires)
-5. En cas d'[artériopathie des membres inférieurs]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (*ESC 2017*)
+5. En cas d'[artériopathie des membres inférieurs]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) (*ESC 2017*)
 
 Compléter l'imagerie par **angioscanner ou angio-IRM** si images anormales.
 
@@ -90,8 +90,8 @@ En cas de mesures échographiques limites et de plusieurs facteurs de risque d'A
 
 Prise en charge de l'anévrisme de l'aorte abdominale (AAA):
 
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) +++
-- [Correction d'une hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})  
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) +++
+- [Correction d'une hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})  
   Cible générale 120-129 / 70-79 mmHg (*ESH 2023*).
 - Correction d'une hypercholestérolémie, considérer une statine
 - Si athérome, considérer de l'aspirine faible dose

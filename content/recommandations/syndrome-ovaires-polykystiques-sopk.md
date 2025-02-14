@@ -25,15 +25,15 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le syndrome des ovaires polykystiques (SOPK) consiste en la présence de kystes ovariens multiples à l'origine d'une sécrétion d'androgènes donnant une hyperandrogénie clinique (acné, hirsutisme, alopécie) et se compliquant de troubles cardio-métaboliques (diabète, obésité, risque cardiovasculaire), psychologiques et d'une [infertilité]({{< relref "infertilite-couple.md" >}})
+- Le syndrome des ovaires polykystiques (SOPK) consiste en la présence de kystes ovariens multiples à l'origine d'une sécrétion d'androgènes donnant une hyperandrogénie clinique (acné, hirsutisme, alopécie) et se compliquant de troubles cardio-métaboliques (diabète, obésité, risque cardiovasculaire), psychologiques et d'une [infertilité]({{% relref "infertilite-couple.md" %}})
 - 70% des patientes ne sont pas diagnostiquées
 - Le diagnostic du syndrome des ovaires polykystiques (SOPK) est défini par les critères d'Amsterdam: oligo-anovulation, hyperandrogénie clinique et/ou biologique et ovaires polykystiques en échographie
 - Rechercher un SOPK en cas de: cycles menstruels irréguliers, acné sévère ou hirsutisme
 - Bilan du syndrome des ovaires polykystiques: échographie pelvienne endovaginale et testostérone libre et totale ± hormone antimüllérienne, bilan supplémentaire si aménorrhée, HGPO 75g
 - La prise en charge du syndrome des ovaires polykystiques (SOPK) est cardio-métabolique (correction du risque cardiovasculaire, activité physique, correction d'un surpoids) et selon le profil clinique:
-  - Hirsutisme, cycles irréguliers: [contraception œstroprogestative]({{< relref "contraception.md" >}}) (COP)
+  - Hirsutisme, cycles irréguliers: [contraception œstroprogestative]({{% relref "contraception.md" %}}) (COP)
   - Cycles > 90 jours: COP ou progestatif
-  - [Hirsutisme]({{< relref "hirsutisme.md" >}}), [alopécie]({{< relref "alopecie.md" >}}): anti-androgènes spironolactone
+  - [Hirsutisme]({{% relref "hirsutisme.md" %}}), [alopécie]({{% relref "alopecie.md" %}}): anti-androgènes spironolactone
   - Surpoids, cycles irréguliers: considérer la {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}
 - L'infertilité associée au SOPK nécessite une prise en charge spécialisée. Traitements possibles de première intention: létrozole, metformine voire citrate de clomifène
 
@@ -41,9 +41,9 @@ flowchart = true
 {{%collapse "Définitions" %}}
 
 Syndrome des ovaires polykystiques (SOPK)
-: Le syndrome des ovaires polykystiques (SOPK) est une maladie gynéco-métabolique qui associe: ovaires polykystiques avec spanioménorrhée, hyperandrogénie ([acné sévère]({{< relref "acne.md" >}}), [hirsutisme]({{< relref "hirsutisme.md" >}})) et insulinorésistance.
+: Le syndrome des ovaires polykystiques (SOPK) est une maladie gynéco-métabolique qui associe: ovaires polykystiques avec spanioménorrhée, hyperandrogénie ([acné sévère]({{% relref "acne.md" %}}), [hirsutisme]({{% relref "hirsutisme.md" %}})) et insulinorésistance.
 : Le SOPK est une pathologie féminine chronique parmi les plus fréquentes (prévalence de 10 à 13 %) dont 70% des patientes ne sont pas diagnostiquées. Il est considéré comme acquis à vie.
-: Complications du syndrome des ovaires polykystiques: [infertilité]({{< relref "infertilite-couple.md" >}}), métaboliques ([diabète](/tags/diabete/) et [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}}) multipliés par 3) avec augmentation du [risque cardiovasculaire](/tags/risque-cardiovasculaire/), psychologiques et surrisque de [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) (x 3 mais le risque absolu reste faible).
+: Complications du syndrome des ovaires polykystiques: [infertilité]({{% relref "infertilite-couple.md" %}}), métaboliques ([diabète](/tags/diabete/) et [diabète gestationnel]({{% relref "diabete-gestationnel.md" %}}) multipliés par 3) avec augmentation du [risque cardiovasculaire](/tags/risque-cardiovasculaire/), psychologiques et surrisque de [cancer de l'endomètre]({{% relref "cancer-endometre.md" %}}) (x 3 mais le risque absolu reste faible).
 
 Cycles menstruels irréguliers
 : Définitions selon *ESHRE 2023*:
@@ -92,7 +92,7 @@ SOPK
 > Des cycles réguliers n'éliminent pas la possibilité d'une dysfonction ovulatoire.
 {{%/info%}}
 
-Envisager un dépistage du SOPK chez la femme avec [diabète de type 2]({{< relref "diabete-type-2.md" >}}) ou [type 1]({{< relref "diabete-type-1.md" >}}).
+Envisager un dépistage du SOPK chez la femme avec [diabète de type 2]({{% relref "diabete-type-2.md" %}}) ou [type 1]({{% relref "diabete-type-1.md" %}}).
 
 ### Critères diagnostiques de Rotterdam révisés du SOPK
 
@@ -111,17 +111,17 @@ Les signes cliniques sont modérés chez les caucasiennes.
 
 - Antécédents
 - Facteurs de risque cardiovasculaire  
-  [Obésité]({{< relref "obesite-adulte.md" >}}), [tabac]({{< relref "arret-tabac.md" >}}), dyslipidémie, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), inactivité physique.
+  [Obésité]({{% relref "obesite-adulte.md" %}}), [tabac]({{% relref "arret-tabac.md" %}}), dyslipidémie, [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), inactivité physique.
 - Traitements en cours
 - Installation des symptômes
 - **Troubles menstruels**
   - Âge des ménarches
   - Régularité des cycles
-  - [Infertilité]({{< relref "infertilite-couple.md" >}}) ou complications gestationnelles
+  - [Infertilité]({{% relref "infertilite-couple.md" %}}) ou complications gestationnelles
 - **Métabolique et cardiovasculaire**
   - {{< modal-btn modal-metabolique >}}Syndrome métabolique{{< /modal-btn >}}
   - Surpoids ou obésité
-  - Prédiabète et [diabète type 2]({{< relref "diabete-type-2.md" >}})
+  - Prédiabète et [diabète type 2]({{% relref "diabete-type-2.md" %}})
   - Rechercher des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}
   - Evaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ± {{< scores/heartscore >}}
 - Retentissement psychologique
@@ -153,7 +153,7 @@ Le diagnostic post-ménopausique de SOPK peut être considéré si: diagnostic a
 - Hyperprolactinémie
 - Hyperplasie congénitale des surrénales
 - Hypogonadisme hypogonadotrophique
-- [Maladie de Cushing]({{< relref "syndrome-cushing.md" >}})
+- [Maladie de Cushing]({{% relref "syndrome-cushing.md" %}})
 - Tumeur sécrétrice d'androgènes
 
 {{% /collapse %}}
@@ -195,7 +195,7 @@ L'échographie permet également d'éliminer une tumeur surrénale.
 
 ### Perméabilité tubaire
 
-En cas d'[infertilité]({{< relref "infertilite-couple.md" >}}) par anovulation isolée avec un bilan d'infertilité normal, évaluation individuelle du bénéfice d'une exploration tubaire (hystérosalpingographie ou autre).
+En cas d'[infertilité]({{% relref "infertilite-couple.md" %}}) par anovulation isolée avec un bilan d'infertilité normal, évaluation individuelle du bénéfice d'une exploration tubaire (hystérosalpingographie ou autre).
 
 Réaliser l'exploration tubaire avant une induction ovulatoire en cas de suspicion de pathologie tubaire.
 
@@ -210,14 +210,14 @@ Aucun traitement curatif ne permet de corriger l'accumulation de kystes ovariens
 
 Traitement et suivi du SOPK:
 
-- [Hirsutisme]({{< relref "hirsutisme.md" >}}): prise en charge spécifique (esthétique, {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, [contraception œstroprogestative]({{< relref "contraception.md" >}}), anti-androgènes)
-- [Obésité]({{< relref "obesite-adulte.md" >}}): prise en charge spécifique, GLP-1 voire chirurgie bariatrique
+- [Hirsutisme]({{% relref "hirsutisme.md" %}}): prise en charge spécifique (esthétique, {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, [contraception œstroprogestative]({{% relref "contraception.md" %}}), anti-androgènes)
+- [Obésité]({{% relref "obesite-adulte.md" %}}): prise en charge spécifique, GLP-1 voire chirurgie bariatrique
 - Mesures hygiéno-diététiques pour la correction du risque cardiovasculaire et de l'insulinorésistance
   - Correction d'un surpoids, tour de taille, suivi annuel
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Surveillance glycémique (tous les 1-3 ans) et de la pression artérielle (annuelle)
   - Bilan lipidique selon le risque cardiovasculaire
-  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et de l'[alcool]({{< relref "sevrage-alcool.md" >}})
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) et de l'[alcool]({{% relref "sevrage-alcool.md" %}})
   - Activité physique régulière  
     Cible 150-300 minutes modérées, adolescent 1h/j.
   - Hygiène de sommeil
@@ -234,17 +234,17 @@ Traitement et suivi du SOPK:
 
 ### Traitement hormonal par contraceptions estroprogestative
 
-Une [contraception œstroprogestative]({{< relref "contraception.md" >}}) (COP) pourrait être recommandée chez l'adulte (envisagée chez l'adolescente) pour la prise en charge de l'hirsutisme et des cycles irréguliers. Dosage d'éthinyl-estradiol de 20 à 30 µg/j.
+Une [contraception œstroprogestative]({{% relref "contraception.md" %}}) (COP) pourrait être recommandée chez l'adulte (envisagée chez l'adolescente) pour la prise en charge de l'hirsutisme et des cycles irréguliers. Dosage d'éthinyl-estradiol de 20 à 30 µg/j.
 
 Rappeler la sécurité d'utilisation des contraceptions œstroprogestatives.
 
-Cycles > 90 jours: COP ou progestatif (pour la prévention du [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}})).
+Cycles > 90 jours: COP ou progestatif (pour la prévention du [cancer de l'endomètre]({{% relref "cancer-endometre.md" %}})).
 
 ### Anti-androgènes pour le SOPK
 
-Les anti-androgènes sont indiqués pour la prise en charge de l'[hirsutisme]({{< relref "hirsutisme.md" >}}) et de l'[alopécie]({{< relref "alopecie.md" >}}):
+Les anti-androgènes sont indiqués pour la prise en charge de l'[hirsutisme]({{% relref "hirsutisme.md" %}}) et de l'[alopécie]({{% relref "alopecie.md" %}}):
 
-- Si [contraception œstroprogestative]({{< relref "contraception.md" >}}) insuffisante à 6 mois: en bithérapie
+- Si [contraception œstroprogestative]({{% relref "contraception.md" %}}) insuffisante à 6 mois: en bithérapie
 - Si contraception œstroprogestative mal tolérée: en monothérapie
 
 Préférer la [spironolactone](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63145849&typedoc=R) 25-100 mg/j (contre-indiquée pendant la grossesse - [CRAT](https://www.lecrat.fr/11555/) et contraception efficace nécessaire).

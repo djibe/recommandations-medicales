@@ -34,7 +34,7 @@ flowchart = true
 
 Kyste pilonidal (synonymes: sinus pilonidal, kyste sacro-coccygien)
 : Accumulation de débris pilaires dans le pore du sillon inter-fessier atteignant le plus souvent l'homme à peau blanche entre 20 et 40 ans.
-: Les complications infectieuses sont locales, avec la formation d'abcès répétés douloureux. L'évolution en tumeur épidermoïde est exceptionnelle avec un terrain [VIH+]({{< relref "vih-sida.md" >}}) et [HPV+]({{< relref "cancer-col-uterus.md" >}}).
+: Les complications infectieuses sont locales, avec la formation d'abcès répétés douloureux. L'évolution en tumeur épidermoïde est exceptionnelle avec un terrain [VIH+]({{% relref "vih-sida.md" %}}) et [HPV+]({{% relref "cancer-col-uterus.md" %}}).
 
 ### Abréviations
 
@@ -60,7 +60,7 @@ SPI
 Diagnostics à évoquer devant une lésion évocatrice de sinus pilonidal:
 
 - Suppurations indépendantes de l'anus  
-  [Maladie de Verneuil]({{< relref "maladie-verneuil.md" >}}), kyste épidermique. L'association reste possible.
+  [Maladie de Verneuil]({{% relref "maladie-verneuil.md" %}}), kyste épidermique. L'association reste possible.
 - Maladie de Crohn
 - Fistule anale
 - Anomalies congénitales
@@ -71,7 +71,7 @@ Diagnostics à évoquer devant une lésion évocatrice de sinus pilonidal:
 ### Facteurs de risque de kyste pilonidal
 
 - Antécédents familiaux de kyste pilonidal
-- [Obésité]({{< relref "obesite-adulte.md" >}})
+- [Obésité]({{% relref "obesite-adulte.md" %}})
 - Sédentarité
 - Traumatismes locaux répétés
 - Pilosité prononcée
@@ -112,7 +112,7 @@ Le kyste pilonidal peut prendre plusieurs formes:
 Mesures générales de prise en charge du kyste pilonidal:
 
 - Traitement symptomatique des douleurs et suintements
-- [Sevrage tabagique]({{< relref "arret-tabac.md" >}})  
+- [Sevrage tabagique]({{% relref "arret-tabac.md" %}})  
   Bénéfice global et de cicatrisation.
 - Correction d'un surpoids
 

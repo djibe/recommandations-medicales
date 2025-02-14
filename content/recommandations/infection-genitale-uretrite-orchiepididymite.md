@@ -36,7 +36,7 @@ todo = "SEO, Balanite et balano-posthite, dépistages Ct homme | neisseria menin
 - Consultation de contrôle à J7 avec les résultats
 - Bilan des autres [infections sexuellement transmissibles (IST)](/tags/ist/)
 
-Chapitres liés: [infection urinaire de l'homme]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), [hommes ayant des rapports avec des hommes]({{< relref "hsh.md" >}})
+Chapitres liés: [infection urinaire de l'homme]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}), [hommes ayant des rapports avec des hommes]({{% relref "hsh.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Abréviations" %}}
@@ -65,7 +65,7 @@ UNG
 
 Urétrite
 : Inflammation de l'urètre le plus souvent par une [infection sexuellement transmissible (IST)](/tags/ist/): *Neisseria gonorrhoeae* (gonorrhée, gonococcie, blennorragie ou << chaude-pisse >> avec incubation 2-5 jours), *Chlamydia trachomatis* et *Mycoplasma genitalium* (20%), poly-infection dans 10 à 50% des cas avec un risque d'épididymite. *Trichomonas vaginalis* (IST) et *Ureaplasma urealyticum* sont plus rares et aucun germe n'est retrouvé dans 35% des cas.
-: Sur-représentation des [HSH]({{< relref "hsh.md" >}}) et [séropositifs VIH]({{< relref "vih-sida.md" >}}).
+: Sur-représentation des [HSH]({{% relref "hsh.md" %}}) et [séropositifs VIH]({{% relref "vih-sida.md" %}}).
 : Critères diagnostiques cytologiques chez un homme sans miction depuis au moins 2 heures: ≥ 5 PNN au frottis (grossissement 100), ≥ 10 PNN sur premier jet centrifugé (grossissement 400).
 : Urétrite non-gonococcique **persistante**: absence d'amélioration à 4 semaines du traitement.
 
@@ -198,12 +198,12 @@ Mesures associées:
 > Toujours évoquer une torsion du testicule chez le jeune (urgence chirurgicale).
 
 Orchiépididymite
-: Inflammation (douleur, œdème et chaleur locale) souvent infectieuse de l'épididyme et du testicule. Elle complique une urétrite non traitée (symptomatique ou non). Dans la forme chronique, évoquer une [tuberculose]({{< relref "tuberculose.md" >}}) en cas d'origine de pays endémique.
+: Inflammation (douleur, œdème et chaleur locale) souvent infectieuse de l'épididyme et du testicule. Elle complique une urétrite non traitée (symptomatique ou non). Dans la forme chronique, évoquer une [tuberculose]({{% relref "tuberculose.md" %}}) en cas d'origine de pays endémique.
 
 L'étiologie de l'orchi-épididymite dépend de l'âge:
 
-- Homme jeune: [IST](/tags/ist/) par *[Chlamydia trachomatis]({{< relref "chlamydia-trachomatis.md" >}})* le plus souvent, ou le gonocoque (*N. gonorrhoeae*) et les entérobactéries (surtout *E. coli*, par infection urinaire ou sodomie)
-- Homme +35 ans: entérobactéries (surtout *E. coli*) par [infection urinaire]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}) ou geste urologique
+- Homme jeune: [IST](/tags/ist/) par *[Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}})* le plus souvent, ou le gonocoque (*N. gonorrhoeae*) et les entérobactéries (surtout *E. coli*, par infection urinaire ou sodomie)
+- Homme +35 ans: entérobactéries (surtout *E. coli*) par [infection urinaire]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}) ou geste urologique
 
 ### Examens complémentaires de l'orchiépididymite
 

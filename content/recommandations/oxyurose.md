@@ -67,15 +67,15 @@ Le diagnostic d'oxyurose est clinique lorsque des **vers blancs centimétriques*
 
 ### Autres causes de prurit anal
 
-- [Hémorroïdes]({{< relref "hemorroides.md" >}})
+- [Hémorroïdes]({{% relref "hemorroides.md" %}})
 - Abcès anal
 - Fistule anale
-- [Dermatite atopique]({{< relref "dermatite-atopique.md" >}}) ou de contact
-- [Psoriasis]({{< relref "psoriasis.md" >}})
-- [Candidose]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
-- [Ténia]({{< relref "tenia.md" >}})
+- [Dermatite atopique]({{% relref "dermatite-atopique.md" %}}) ou de contact
+- [Psoriasis]({{% relref "psoriasis.md" %}})
+- [Candidose]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
+- [Ténia]({{% relref "tenia.md" %}})
 - Condylomes
-- [Herpès]({{< relref "infections-herpes-virus.md" >}})
+- [Herpès]({{% relref "infections-herpes-virus.md" %}})
 - Atteinte périnéale d'une MICI
 
 {{% /collapse %}}
@@ -85,7 +85,7 @@ Le diagnostic peut être réalisé avec le **<< Scotch®-test >> anal** (test de
 
 Application matinale de ruban adhésif transparent sur la marge anale le matin (en déplissant les plis radiés de l'anus) puis recollé sur une surface porte-objet et analyse au laboratoire pour la mise en évidence des œufs.
 
-Une [éosinophilie]({{< relref "hypereosinophilie.md" >}}) peut également être observée.
+Une [éosinophilie]({{% relref "hypereosinophilie.md" %}}) peut également être observée.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'oxyurose" %}}

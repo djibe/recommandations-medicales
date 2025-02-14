@@ -90,7 +90,7 @@ Origine hypothalamo-hypophysaire par activation précoce de la sécrétion de hy
 - Tumeurs du SNC  
   **Hamartome hypothalamique**, gliome du chiasma, astrocytome, autres (50 % des garçons).
 - Radiothérapie cérébrale
-- Infections: [méningite]({{< relref "meningite.md" >}})
+- Infections: [méningite]({{% relref "meningite.md" %}})
 - Pathologie inflammatoire  
   Neurofibromatose de type 1, sclérose tubéreuse de Bourneville.
 - Congénitale et malformative  
@@ -135,7 +135,7 @@ Interrogatoire à mener en cas de puberté précoce:
 - **Courbes de croissance**
 - **[Examen des caractères sexuels](https://wikimedi.ca/index.php?title=ULaval:MED-1230/Puberté_normale_et_anormale#Pubert.C3.A9_normale)**
 - Examen cutané  
-  Tâches café au lait de la neurofibromatose type 1 (syndrome de McCune Albright), vergetures ([Cushing]({{< relref "syndrome-cushing.md" >}})).
+  Tâches café au lait de la neurofibromatose type 1 (syndrome de McCune Albright), vergetures ([Cushing]({{% relref "syndrome-cushing.md" %}})).
 
 ### Calculer la taille cible
 
@@ -232,7 +232,7 @@ Les effets indésirables des analogues du GnRH disparaissent après quelques sem
 - Courbes de croissance
 - Activité physique soutenue en cas de surpoids
 - Enquête diététique des apports calciques
-- Signes de [syndrome des ovaires polykystiques]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}}) (SOPK)  
+- Signes de [syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (SOPK)  
   Surveillance des signes d'hyperandrogénie.
 
 {{% /collapse %}}

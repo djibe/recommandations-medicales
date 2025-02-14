@@ -74,7 +74,7 @@ Endocardite infectieuse (EI)
 
 > -- *ESC 2015*
 
-Lors des autres gestes invasifs ([coloscopie]({{< relref "cancer-colorectal.md" >}}), endoscopie bronchique, urétéroscopie ...), l'antibioprophylaxie pourrait être considérée.
+Lors des autres gestes invasifs ([coloscopie]({{% relref "cancer-colorectal.md" %}}), endoscopie bronchique, urétéroscopie ...), l'antibioprophylaxie pourrait être considérée.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -83,7 +83,7 @@ Les manifestations de l'endocardite infectieuse sont variées avec des présenta
 
 **Tableau typique d'endocardite:** apparition ou majoration d'un **souffle cardiaque en contexte fébrile**.
 
-Évoquer une endocardite en cas de: [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), purpura, lombalgies fébriles.
+Évoquer une endocardite en cas de: [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), purpura, lombalgies fébriles.
 
 {{%warning%}}
 Évoquer une endocardite devant tout insuffisance cardiaque ou signe neurologique fébrile
@@ -111,7 +111,7 @@ Signes et symptômes de l'endocardite infectieuse:
 - Signes neurologiques  
   AVC, convulsions fébriles, troubles de la conscience, syndrome méningé, abcès cérébral.
 - Signes rénaux  
-  Protéinurie/[hématurie]({{< relref "hematurie.md" >}}) isolée, insuffisance rénale.
+  Protéinurie/[hématurie]({{% relref "hematurie.md" %}}) isolée, insuffisance rénale.
 - Signes vasculaires  
   Ischémie (sub)-aiguë de membre, syndrome coronarien aigu, embolie pulmonaire.
 

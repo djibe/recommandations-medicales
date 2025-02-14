@@ -93,20 +93,20 @@ SHE
   - Helminthes avec migration tissulaire en France métropolitaine  
     HE souvent > 1 G/L: **toxocarose**, ascaridiose (exceptionnelle), distomatose hépatique, trichinose, myiase (élevage bovin)
   - Helminthes sans migration tissulaire  
-    HE < 1 G/L: **[oxyure]({{< relref "oxyurose.md" >}})**, **[tænia]({{< relref "tenia.md" >}})**
+    HE < 1 G/L: **[oxyure]({{% relref "oxyurose.md" %}})**, **[tænia]({{% relref "tenia.md" %}})**
   - Helminthoses tropicales  
     Strongyloïdose, filariose lymphatique ou loase, onchocercose, bilharziose, gnathostomose.
-  - **[Gale]({{< relref "gale.md" >}})**
+  - **[Gale]({{% relref "gale.md" %}})**
 - Infections non parasitaires  
-  Bactériémie, brucellose, scarlatine, mycose profonde, [syphilis secondaire]({{< relref "syphilis.md" >}}), [mononucléose infectieuse]({{< relref "mononucleose-infectieuse.md" >}}), [VIH]({{< relref "vih-sida.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}), [endocardite]({{< relref "endocardite.md" >}}), mycobactéries ...
+  Bactériémie, brucellose, scarlatine, mycose profonde, [syphilis secondaire]({{% relref "syphilis.md" %}}), [mononucléose infectieuse]({{% relref "mononucleose-infectieuse.md" %}}), [VIH]({{% relref "vih-sida.md" %}}), [hépatite C]({{% relref "hepatite-c.md" %}}), [endocardite]({{% relref "endocardite.md" %}}), mycobactéries ...
 - **Atopie**  
-  HE < 1 g/L et fluctuante: [asthme]({{< relref "asthme.md" >}}), [rhinite]({{< relref "rhinite-allergique.md" >}}) ou conjonctivite allergique, [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), aspergillose, allergie alimentaire ou **médicamenteuse**, [urticaire]({{< relref "urticaire.md" >}}).
+  HE < 1 g/L et fluctuante: [asthme]({{% relref "asthme.md" %}}), [rhinite]({{% relref "rhinite-allergique.md" %}}) ou conjonctivite allergique, [dermatite atopique]({{% relref "dermatite-atopique.md" %}}), aspergillose, allergie alimentaire ou **médicamenteuse**, [urticaire]({{% relref "urticaire.md" %}}).
 - Toxique  
   Benzène, mercure.
 - Maladie de système  
-  Polyangéite, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), polymyosites, périartérite noueuse, lupus.
+  Polyangéite, [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), polymyosites, périartérite noueuse, lupus.
 - **Cancers** et hémopathies  
-  Lymphomes (maladie de Hodgkin, [lymphome T]({{< relref "lymphomes-non-hodgkiniens.md" >}})), carcinomes multisécrétants ou [leucémie aiguë lymphoblastique]({{< relref "leucemie-aigue-adulte.md" >}}).
+  Lymphomes (maladie de Hodgkin, [lymphome T]({{% relref "lymphomes-non-hodgkiniens.md" %}})), carcinomes multisécrétants ou [leucémie aiguë lymphoblastique]({{% relref "leucemie-aigue-adulte.md" %}}).
 - Maladies spécifiques d'organe
   - ORL: syndrome de Fernand Widal (polypose nasosinusienne, asthme et prise d'AINS), pneumonie chronique à éosinophiles
   - Digestive: gastro-entérite à éosinophiles ou MICI
@@ -134,7 +134,7 @@ SHE
 ### Interrogatoire
 
 - Antécédents  
-  Immunodépression, allergies, atopie ([rhinite allergique]({{< relref "rhinite-allergique.md" >}}), [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), [asthme]({{< relref "asthme.md" >}})), [urticaire]({{< relref "urticaire.md" >}}), cancers, familiaux.
+  Immunodépression, allergies, atopie ([rhinite allergique]({{% relref "rhinite-allergique.md" %}}), [dermatite atopique]({{% relref "dermatite-atopique.md" %}}), [asthme]({{% relref "asthme.md" %}})), [urticaire]({{% relref "urticaire.md" %}}), cancers, familiaux.
 - Antécédent de séjour en zone tropicale, baignade en eau douce
 - Contacts avec des animaux
 - Expositions professionnelles
@@ -146,7 +146,7 @@ SHE
 - Symptômes
   - Fièvre
   - Prurit (cutané, anal)
-  - [Ictère]({{< relref "ictere.md" >}}), œdèmes, myalgies
+  - [Ictère]({{% relref "ictere.md" %}}), œdèmes, myalgies
   - Troubles du transit, anneaux dans les selles
   - [Toux](/tags/toux/), [dyspnée](/tags/dyspnee/)
   - AEG (anorexie, amaigrissement, [fatigue](/tags/fatigue/))
@@ -183,7 +183,7 @@ Avis spécialisé (hématologue, interniste) en cas d'hyperéosinophilie persist
 - LDH (*PNDS*)
 - Hyperéosinophilie (HE) persistante (*PNDS*)
   - Tryptase, vitamine B12
-  - [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
+  - [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
 - Sérologie VIH
 - Sérologie toxocarose et distomatose
 - Examen parasitologique des selles 3 jours de suite
@@ -210,8 +210,8 @@ En l'absence d'orientation probante, un **traitement d'épreuve antihelminthe** 
 - Éosinophilie modérée (500-1500 ciblant oxyure et ascaris):
   - [Albendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65565944&typedoc=R) (Eskazole®, Zentel®) 400 mg/j pendant 1-3 jours puis 400 mg à J15
   - ou [flubendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60968336&typedoc=R) (Fluvermal®) 100 mg x 3/j pendant 3 jours puis 100 mg à J15
-  - Si anneaux ([taenia]({{< relref "tenia.md" >}}) ou autres): [praziquantel](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60996403&typedoc=R) (Biltricide®) 15 mg/kg
-- Hyperéosinophilie inexpliquée (> 1500/mm³ ciblant toxocarose, trichinellose, ascaridiose, [oxyurose]({{< relref "oxyurose.md" >}})):  
+  - Si anneaux ([taenia]({{% relref "tenia.md" %}}) ou autres): [praziquantel](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60996403&typedoc=R) (Biltricide®) 15 mg/kg
+- Hyperéosinophilie inexpliquée (> 1500/mm³ ciblant toxocarose, trichinellose, ascaridiose, [oxyurose]({{% relref "oxyurose.md" %}})):  
   [Albendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65565944&typedoc=R) 10-15 mg/kg/j en 2 prises/j (max 800 mg/j).
 
 > -- *PNDS 2022*

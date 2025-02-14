@@ -88,7 +88,7 @@ Signes et symptômes d'une hernie inguinale chez un adulte:
   {{%class%}}Charge le scrotum et recherche le canal inguinal où normalement le doigt ne peut s'infiltrer.{{%/class%}}
 - Prendre en compte la profession et le niveau d'activité physique
 - Facteurs favorisants la hernie  
-  [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) et [toux chronique]({{< relref "toux-chronique.md" >}}), [constipation]({{< relref "constipation.md" >}}), dysurie.
+  [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}) et [toux chronique]({{% relref "toux-chronique.md" %}}), [constipation]({{% relref "constipation.md" %}}), dysurie.
 
 Pas d'examen complémentaire, le diagnostic de hernie inguinale est clinique.
 

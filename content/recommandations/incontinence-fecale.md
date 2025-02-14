@@ -57,8 +57,8 @@ SNFCP
 ### Interrogatoire
 
 - Antécédents  
-  Gynéco-obstétricaux, traumatismes, [obésité]({{< relref "obesite-adulte.md" >}}), [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}}), [diabète](/tags/diabete/), chirurgie ano-rectale ([hémorrhoïdectomie]({{< relref "hemorroides.md" >}}), sphinctérotomie ...), neurodégénératifs.
-- Allergies alimentaires: [lactose]({{< relref "intolerance-lactose.md" >}}), [gluten]({{< relref "maladie-coeliaque.md" >}})
+  Gynéco-obstétricaux, traumatismes, [obésité]({{% relref "obesite-adulte.md" %}}), [diarrhée chronique]({{% relref "diarrhee-chronique.md" %}}), [diabète](/tags/diabete/), chirurgie ano-rectale ([hémorrhoïdectomie]({{% relref "hemorroides.md" %}}), sphinctérotomie ...), neurodégénératifs.
+- Allergies alimentaires: [lactose]({{% relref "intolerance-lactose.md" %}}), [gluten]({{% relref "maladie-coeliaque.md" %}})
 - Participation aux dépistages généralisés des cancers
 - Tabagisme
 - Activité physique
@@ -66,12 +66,12 @@ SNFCP
 - Régime alimentaire  
   Dont facteurs favorisants: café, édulcorants, lactose, gluten.
 - Transit intestinal  
-  Rythme et consistance des selles (étayer un [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) et [cancer colorectal]({{< relref "cancer-colorectal.md" >}})).
+  Rythme et consistance des selles (étayer un [syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}) et [cancer colorectal]({{% relref "cancer-colorectal.md" %}})).
 - Symptômes anaux:
   - Date d'apparition de l'incontinence anale
   - Rythme de survenue
   - Sévérité: [Fecal Incontinence Severity Index (FISI)](https://www.mdapp.co/fecal-incontinence-severity-index-fisi-calculator-234/), [St. Marks Incontinence Score](https://www.snfcp.org/questionnaires-outils/constipation-incontinence-troubles-fonctionnels/incontinence-score-de-vaizey-score-st-marks/) ou CCF
-- Autres symptômes: incontinence urinaire ([de la femme]({{< relref "incontinence-urinaire-femme.md" >}})), pesanteur de [prolapsus génital]({{< relref "prolapsus-genital-femme.md" >}})
+- Autres symptômes: incontinence urinaire ([de la femme]({{% relref "incontinence-urinaire-femme.md" %}})), pesanteur de [prolapsus génital]({{% relref "prolapsus-genital-femme.md" %}})
 - Signes négatifs: rectorragies, méléna, impériosité fécale, ténesme, glaires
 - Qualité de vie: score FIQL
 
@@ -81,7 +81,7 @@ SNFCP
 - Examen neurologique
 - Examen pelvien  
   Inspection, toucher rectal avec effort de poussée (sphincter, masse, fécalome)
-- Femme: toucher vaginal, [prolapsus génital]({{< relref "prolapsus-genital-femme.md" >}})
+- Femme: toucher vaginal, [prolapsus génital]({{% relref "prolapsus-genital-femme.md" %}})
 
 Des antécédents digestifs, une anomalie ou un doute à l'examen clinique nécessite un avis spécialisé (NDLR).
 
@@ -92,7 +92,7 @@ Compléter le bilan d'une incontinence fécale avec NFS et glycémie à jeun ± 
 
 ### Coloscopie
 
-Le recours à la coloscopie est limité aux indications liées à une suspicion de malignité ou de maladie inflammatoire: apparition ou modification récente des symptômes après 50 ans, AEG, rectorragies ou [anémie]({{< relref "anemie.md" >}}).
+Le recours à la coloscopie est limité aux indications liées à une suspicion de malignité ou de maladie inflammatoire: apparition ou modification récente des symptômes après 50 ans, AEG, rectorragies ou [anémie]({{% relref "anemie.md" %}}).
 
 Les autres bilans relèvent d'une **prescription spécialisée** (échographie endoanale, explorations physiologiques anorectales).
 
@@ -109,19 +109,19 @@ Prise en charge de première intention d'une incontinence fécale: mesures hygi�
 Les premières mesures visent à obtenir une régularisation du transit et de la consistance des selles.
 
 - Utiliser un agenda du transit et réaliser les changements un par un
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
-- Étudier: café, sucres et édulcorants, [lactose]({{< relref "intolerance-lactose.md" >}}), gluten et [autres mesures si diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
+- Étudier: café, sucres et édulcorants, [lactose]({{% relref "intolerance-lactose.md" %}}), gluten et [autres mesures si diarrhée chronique]({{% relref "diarrhee-chronique.md" %}})
 - Boissons 1,5-2 L/j
 - Consultation diététique
 - Savon doux local et crème hydratante comme barrière cutanée
 - **Rééducation** périnéale et abdominale  
   Par kinésithérapeute ou sage-femme (sauf défaut sphinctérien). Exercices et **biofeedback**. 10-20 séances initiales.
 - Régularisation du transit intestinal
-  - Si **[constipation]({{< relref "constipation.md" >}})**: augmenter les fibres, laxatifs ([macrogol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63229902&typedoc=R)) voire suppositoires ([glycérine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66177695&typedoc=R)) ou lavements (Microlax®, Norgalax® ou Normacol®)
+  - Si **[constipation]({{% relref "constipation.md" %}})**: augmenter les fibres, laxatifs ([macrogol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63229902&typedoc=R)) voire suppositoires ([glycérine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66177695&typedoc=R)) ou lavements (Microlax®, Norgalax® ou Normacol®)
   - Si **diarrhées**: augmenter les fibres ± laxatifs mucilage ([ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68520477&typedoc=R) ou autre)
 - Information du patient: [site SNFCP](https://www.snfcp.org/informations-maladies/constipation-et-incontinence/incontinence-fecale/)
 - L'acupuncture peut être considérée (*ESCP*)
-- Prise en charge des comorbidités: fistule, [prolapsus hémorroïdaire]({{< relref "hemorroides.md" >}})
+- Prise en charge des comorbidités: fistule, [prolapsus hémorroïdaire]({{% relref "hemorroides.md" %}})
 
 ### Traitements médicamenteux de l'incontinence fécale
 

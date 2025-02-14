@@ -72,12 +72,12 @@ WSES
 
 ### Diagnostics différentiels de l'appendicite aiguë
 
-- [Gastro-entérite aiguë]({{< relref "diarrhee-aigue-nourrisson.md" >}})
+- [Gastro-entérite aiguë]({{% relref "diarrhee-aigue-nourrisson.md" %}})
 - Maladie inflammatoire chronique de l'intestin (MICI)
-- [Cholécystite aiguë]({{< relref "cholecystite-aigue.md" >}})
+- [Cholécystite aiguë]({{% relref "cholecystite-aigue.md" %}})
 - Garçon: torsion du testicule
-- Femme: grossesse extra-utérine, [salpingite]({{< relref "infections-genitales-hautes.md" >}}), torsion ovarienne ou kyste de l'ovaire, [endométriose]({{< relref "endometriose.md" >}})
-- [Pyélonéphrite aiguë]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
+- Femme: grossesse extra-utérine, [salpingite]({{% relref "infections-genitales-hautes.md" %}}), torsion ovarienne ou kyste de l'ovaire, [endométriose]({{% relref "endometriose.md" %}})
+- [Pyélonéphrite aiguë]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})
 - Colique néphrétique
 - Pédiatrie: adénolymphite mésentérique, invagination intestinale aiguë
 
@@ -100,7 +100,7 @@ Signes et symptômes devant faire évoquer une appendicite aiguë:
   - Type torsion ou crampe et devient permanente sans irradiation
   - Soulagée immobile jambes pliées. Augmentée à la toux et mouvements de cuisse.
   - **Psoïtis**
-  - Troubles digestifs: nausées (50%), [constipation]({{< relref "constipation.md" >}}) (30%) voire diarrhées, anorexie
+  - Troubles digestifs: nausées (50%), [constipation]({{% relref "constipation.md" %}}) (30%) voire diarrhées, anorexie
 - Enfant: plus fréquentes à partir de 10 ans et chez le garçon
 - Signes négatifs
   Signes fonctionnels urinaires, gynécologiques.
@@ -113,7 +113,7 @@ Chez la femme enceinte, l'utérus repousse l'appendice donnant un **tableau de c
 - Pression artérielle, fréquence cardiaque, température
 - Inspection
   - Cicatrices abdominales
-  - Sueurs, pâleur, déshydratation (conjonctives, langue), [ictère]({{< relref "ictere.md" >}}), position antalgique.  
+  - Sueurs, pâleur, déshydratation (conjonctives, langue), [ictère]({{% relref "ictere.md" %}}), position antalgique.  
   Douleur à la toux ou en sautant.
 - Palpation abdominale  
   Débutée en zone non douloureuse.
@@ -121,7 +121,7 @@ Chez la femme enceinte, l'utérus repousse l'appendice donnant un **tableau de c
   - Douleur provoquée en décompression de FID (signe de Blumberg) et par la décompression de la fosse iliaque gauche (signe de Rovsing). Signes inconstants.
   - Heel drop test: patient debout sur la pointe des pieds, douleur abdominale déclenchée en passant brutalement sur les talons
   - Toucher rectal douloureux du côté droit (déconseillé chez l'enfant)
-- Palpation des [orifices herniaires]({{< relref "hernie-parietale.md" >}})
+- Palpation des [orifices herniaires]({{% relref "hernie-parietale.md" %}})
 
 ### Signes d'appendicite chez le petit enfant
 

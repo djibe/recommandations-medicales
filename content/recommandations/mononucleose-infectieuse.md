@@ -41,7 +41,7 @@ Mononucléose infectieuse (MNI)
 Syndrome mononucléosique
 : Diagnostic biologique sur l'hémogramme avec plus de 50% de cellules mononucléées parmi les leucocytes et plus de 10% de lymphocytes activés (lymphocytes T hyperbasophiles de taille augmentée dits << atypiques >>) au frottis sanguin. En pratique les ratios sont souvent omis pour parler du syndrome mononucléosique. Il témoigne d'une activation intense de l'**immunité cellulaire** par un agent infectieux (viral ++) ou médicamenteux.
 : La mononucléose infectieuse est la première cause de syndrome mononucléosique (80%) et à l'origine des plus intenses.
-: Autres étiologies: primo-infection CMV, [VIH]({{< relref "vih-sida.md" >}}), toxoplasmose et plus rares ([hépatite virale](/tags/hepatite/), HHV6, rubéole, adénovirus, rickettsioses, [syphilis secondaire]({{< relref "syphilis.md" >}}), brucellose, typhoïde, listériose) ou médicamenteuse (sulfamides, bêta-lactamines, anticonvulsivants).
+: Autres étiologies: primo-infection CMV, [VIH]({{% relref "vih-sida.md" %}}), toxoplasmose et plus rares ([hépatite virale](/tags/hepatite/), HHV6, rubéole, adénovirus, rickettsioses, [syphilis secondaire]({{% relref "syphilis.md" %}}), brucellose, typhoïde, listériose) ou médicamenteuse (sulfamides, bêta-lactamines, anticonvulsivants).
 
 ### Abréviations
 
@@ -71,14 +71,14 @@ La mononucléose infectieuse (primo-infection EBV) est le plus souvent asymptoma
   - Fièvre d'intensité variable  
     Nourrisson: fièvre prolongée isolée.
   - [Fatigue](/tags/fatigue/) marquée (adolescent)
-- **[Angine]({{< relref "angine.md" >}}) érythématopultacée ou pseudo-membraneuse** respectant la luette  
+- **[Angine]({{% relref "angine.md" %}}) érythématopultacée ou pseudo-membraneuse** respectant la luette  
   Parfois purpura du voile du palais, œdème de la luette.
 - Voix nasonnée (obstruction du cavum, paralysie du voile du palais)
 - **Adénopathies cervicales bilatérales**
 - Œdème des paupières
 - [Éruption fébrile](/tags/eruption-febrile/)  
   Exanthème polymorphe maculopapuleux ou papulovésiculeux discret (parfois exacerbé par la prise d'**amoxicilline** pour angine). Il n'est pas un signe d'hypersensibilité.
-- **[Splénomégalie]({{< relref "splenomegalie.md" >}})**
+- **[Splénomégalie]({{% relref "splenomegalie.md" %}})**
 - Complications: rares signes neurologiques (méningite lymphocytaire, méningo-encéphalite, polyradiculonévrite aiguë)
 
 ### Examen clinique

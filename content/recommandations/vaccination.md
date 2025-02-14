@@ -23,9 +23,9 @@ todo = "HAS EMLA, Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vac
 
 {{%article-summary%}}
 
-- Rappel vaccinal de [la coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA), stratégie de cocooning sinon, anti-VRS dose unique de 32 à 36 SA (suspendu depuis fin janvier)
+- Rappel vaccinal de [la coqueluche]({{% relref "coqueluche.md" %}}) à chaque grossesse (entre 20 et 36 SA), stratégie de cocooning sinon, anti-VRS dose unique de 32 à 36 SA (suspendu depuis fin janvier)
 - Les pharmaciens formés peuvent prescrire et administrer à partir de 11 ans tous les vaccins du calendrier vaccinal, y compris le ROR (sauf immunodépression)
-- Vaccination des +16 ans par les infirmiers sans ordonnance pour: [grippe]({{< relref "grippe.md" >}}), dTcaPolio, [papillomavirus]({{< relref "cancer-col-uterus.md" >}}), pneumocoque, [hépatite A]({{< relref "hepatite-a.md" >}}) et [B]({{< relref "hepatite-b.md" >}}), méningocoques B et ACWY et la rage
+- Vaccination des +16 ans par les infirmiers sans ordonnance pour: [grippe]({{% relref "grippe.md" %}}), dTcaPolio, [papillomavirus]({{% relref "cancer-col-uterus.md" %}}), pneumocoque, [hépatite A]({{% relref "hepatite-a.md" %}}) et [B]({{% relref "hepatite-b.md" %}}), méningocoques B et ACWY et la rage
 - Poser une question pour un cas vaccinal particulier: [Infovac App](https://app.infovac.fr) (nécessite de créer un compte)
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
 
@@ -63,7 +63,7 @@ VVA
 {{< table title="Calendrier des vaccins et anticorps recommandés en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Décret n° 2024-694*, *Calendrier vaccinal 2024*, *DGS Urgent* et *HAS 2024* et *2025*." >}}
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
-|   ~~Né après~~<br>le (suspendu) | [Ig anti-VRS]({{< relref "bronchiolite.md" >}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
+|   ~~Né après~~<br>le (suspendu) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 1/3, Rotarix 1/2 |
 |   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + pneumocoque +<br>DTCaP-Hib-HB selon GPIP/Infovac) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance) |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3 |
@@ -79,7 +79,7 @@ VVA
 |   45 ans   | dTcaPolio (dTPolio retiré)                           | BoostrixTetra, Repevax                                                    |
 |  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Pneumo 20 + Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>Prevenar20 (NR) + Shingrix M0-M2 |
 |  +75 ans   | + VRS annuel (NR)                                    | Arexvy, Abrysvo, mRESVIA                                                  |
-| [Grossesse]({{< relref "grossesse.md" >}}) | Coqueluche, Covid, grippe, VRS | BoostrixTetra, Repevax, Abrysvo ...                             |
+| [Grossesse]({{% relref "grossesse.md" %}}) | Coqueluche, Covid, grippe, VRS | BoostrixTetra, Repevax, Abrysvo ...                             |
 | Médecin généraliste | Covid-19, grippe, ROR,<br>varicelle, VHB    |                                                                           |
 {{< /table >}}
 
@@ -102,18 +102,18 @@ Possibilité de manger immédiatement avant ou après. [Guide info parent rotavi
 {{< table title="Âges limites du rattrapage vaccinal systématique en population générale selon le Calendrier vaccinal" >}}
 | Pathologie                       |              Âge limite de rattrapage               | Rattrapages étendus                                    |
 |----------------------------------|:---------------------------------------------------:|--------------------------------------------------------|
-| Coqueluche                       |                       39 ans                        | [Grossesse voire cocooning]({{< relref "coqueluche.md" >}}) |
-| Haemophilus                      |                        5 ans                        | [Asplénie]({{< relref "asplenie.md" >}})               |
-| Hépatite B                       |                       15 ans                        | [Hépatite B]({{< relref "hepatite-b.md" >}})           |
+| Coqueluche                       |                       39 ans                        | [Grossesse voire cocooning]({{% relref "coqueluche.md" %}}) |
+| Haemophilus                      |                        5 ans                        | [Asplénie]({{% relref "asplenie.md" %}})               |
+| Hépatite B                       |                       15 ans                        | [Hépatite B]({{% relref "hepatite-b.md" %}})           |
 | Méningocoque ACWY                |                       24 ans                        | Pas de rattrapage après 12 mois chez<br>le nourrisson,<br>dose unique si non fait à 11-14 ans |
 | Méningocoque B                   |                       23 mois                       |                                                        |
-| Papillomavirus (HPV)             |                       19 ans                        | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}})          |
+| Papillomavirus (HPV)             |                       19 ans                        | [HSH jusqu'à 26 ans]({{% relref "hsh.md" %}})          |
 | Pneumocoque                      |                       23 mois                       | Asplénie, BPCO, cancer,  diabète ...                   |
 | Rotavirus                        |                       4 mois                        | Doit être terminé avant 24 semaines                    |
 | Rougeole<br>Oreillons<br>Rubéole |                       44 ans                        |                                                        |
-| Tuberculose                      |                                                     | Lire [tuberculose]({{< relref "tuberculose.md" >}})    |
-| Varicelle                        |                       18 ans                        | [Autour d'un cas]({{< relref "varicelle.md" >}})       |
-| Zona                             |                        Aucune                       | [À partir de 65 ans]({{< relref "zona.md" >}})         |
+| Tuberculose                      |                                                     | Lire [tuberculose]({{% relref "tuberculose.md" %}})    |
+| Varicelle                        |                       18 ans                        | [Autour d'un cas]({{% relref "varicelle.md" %}})       |
+| Zona                             |                        Aucune                       | [À partir de 65 ans]({{% relref "zona.md" %}})         |
 {{< /table >}}
 
 ### Rattrapage du vaccin méningocoque B
@@ -131,8 +131,8 @@ Possibilité de manger immédiatement avant ou après. [Guide info parent rotavi
   puis Ac anti-HBs 4-8 semaines après.
 - Ac antitétaniques 4-8 semaines après
 - Personnalisées
-  - Sérologie [hépatite A]({{< relref "hepatite-a.md" >}})
-  - Sérologie [varicelle]({{< relref "varicelle.md" >}})
+  - Sérologie [hépatite A]({{% relref "hepatite-a.md" %}})
+  - Sérologie [varicelle]({{% relref "varicelle.md" %}})
 
 Rattrapage *ROR* avec 2 doses espacées au minimum d'un mois sans sérologie.
 
@@ -155,10 +155,10 @@ Lire le *Calendrier vaccinal* page 75.
 
 1. Diphtérie
 2. Tétanos
-3. [Coqueluche]({{< relref "coqueluche.md" >}})
+3. [Coqueluche]({{% relref "coqueluche.md" %}})
 4. Poliomyélite
 5. *Haemophilus influenzae* de type b
-6. [Hépatite B]({{< relref "hepatite-b.md" >}})
+6. [Hépatite B]({{% relref "hepatite-b.md" %}})
 7. Rougeole
 8. Oreillons
 9. Rubéole
@@ -182,7 +182,7 @@ Personnes nécessitant un schéma vaccinal renforcé (détail des vaccinations d
   - Vaccination doit débuter à 2 mois d'âge chronologique
   - Calendrier vaccinal identique avec en supplément: Prevenar à 3 mois
   - Mère Ag HBs+: se référer au *Calendrier vaccinal*
-- [Asplénie]({{< relref "asplenie.md" >}}) (détail sur la fiche dédiée)
+- [Asplénie]({{% relref "asplenie.md" %}}) (détail sur la fiche dédiée)
 - [Cancer](/tags/cancer/) avec chimiothérapie
   - Pas de recommandations spécifiques sous immunothérapie, thérapie ciblée ou hormonothérapie
   - Calendrier vaccinal avec rappel systématique 3 mois après l'arrêt de la chimio (6 mois si hémopathie)
@@ -191,15 +191,15 @@ Personnes nécessitant un schéma vaccinal renforcé (détail des vaccinations d
   - Pneumocoque. Schéma complet à refaire 3 mois après l'arrêt de la chimio si primo-vaccination avant la chimio
   - Vaccins vivants contre-indiqués pendant et jusqu'à 6 mois après
 - Cardio-vasculaire
-  - [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
-  - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
-  - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
-- [Diabète type 1]({{< relref "diabete-type-1.md" >}}) et [type 2]({{< relref "diabete-type-2.md" >}})
+  - [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}})
+  - [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})
+  - [Insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}})
+- [Diabète type 1]({{% relref "diabete-type-1.md" %}}) et [type 2]({{% relref "diabete-type-2.md" %}})
 - Respiratoire
-  - [Asthme]({{< relref "asthme.md" >}})
-  - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
-- Rhumatologique: [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}})
-- [Homme ayant des rapports avec des hommes]({{< relref "hsh.md" >}})
+  - [Asthme]({{% relref "asthme.md" %}})
+  - [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}})
+- Rhumatologique: [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}})
+- [Homme ayant des rapports avec des hommes]({{% relref "hsh.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Contre-indications temporaires" %}}
@@ -289,14 +289,14 @@ Ne pas injecter dans un site si celui-ci présente:
 Le don du sang est contre-indiqué durant quatre semaines après les vaccinations suivantes:
 
 - Choléra (CVD 103-HgR)
-- [Fièvre jaune]({{< relref "fievre-jaune.md" >}})
+- [Fièvre jaune]({{% relref "fievre-jaune.md" %}})
 - Oreillons
 - Poliomyélite (vaccin oral)
 - ROR
-- [Tuberculose]({{< relref "tuberculose.md" >}}) (BCG)
-- [Varicelle]({{< relref "varicelle.md" >}})
+- [Tuberculose]({{% relref "tuberculose.md" %}}) (BCG)
+- [Varicelle]({{% relref "varicelle.md" %}})
 - Variole
-- [Zona]({{< relref "zona.md" >}})
+- [Zona]({{% relref "zona.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Information du patient sur la vaccination" %}}

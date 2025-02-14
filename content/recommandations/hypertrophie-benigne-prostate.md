@@ -24,10 +24,10 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'hypertrophie bénigne de la prostate (HBP) est une pathologie bénigne liée à l'âge pouvant entraîner des troubles urinaires et des complications (rétention d'urines, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) ...)
+- L'hypertrophie bénigne de la prostate (HBP) est une pathologie bénigne liée à l'âge pouvant entraîner des troubles urinaires et des complications (rétention d'urines, [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}) ...)
 - Ces recommandations sont limitées au traitement de l'HBP non compliquée chez l'homme de +40 ans
 - Le diagnostic d'HBP est clinique avec des symptômes du bas appareil urinaire (SBAU) et un toucher rectal obligatoire
-- Rechercher des troubles de la libido, une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) ou de l'éjaculation
+- Rechercher des troubles de la libido, une [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}) ou de l'éjaculation
 - Nycturie: [agenda mictionnel (PDF)](https://www.urofrance.org/fileadmin/medias/scores/catalogue-mictionnel.pdf) sur 3 jours, recherche d'{{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} et avis urologique
 - Bilan initial de l'hypertrophie de la prostate: {{< modal-btn modal-ipss >}}score IPSS{{< /modal-btn >}}, ECBU et échographie réno-vésico-prostatique avec mesure du résidu post-mictionnel (*EAU*) voire PSA et créatininémie
 - Prise en charge de l'hypertrophie prostatique: mesures hygiéno-diététiques et selon l'intensité des symptômes: abstention, alpha-bloquant ou autres
@@ -40,8 +40,8 @@ flowchart = true
 Hypertrophie bénigne de la prostate (HBP)
 : Augmentation bénigne du volume de la prostate liée à l'âge, le plus souvent asymptomatique.
 : L'HBP est la première cause de symptômes du bas appareil urinaire (SBAU) chez l'homme de plus de 50 ans: elle est dite HBP clinique. Moins d'un tiers des hommes sont gênés après 65 ans.
-: **Complications chroniques de l'hypertrophie prostatique:** vessie de lutte, lithiase vésicale de stase, [insuffisance rénale chronique obstructive]({{< relref "insuffisance-renale-chronique.md" >}}) et [hernie pariétale]({{< relref "hernie-parietale.md" >}}). L'HBP n'augmente pas le risque de [cancer de la prostate]({{< relref "cancer-prostate.md" >}}).
-: **Complications aiguës:** rétention aiguë d'urines, [infections urinaires]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}) et [génitales]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}), [hématurie initiale]({{< relref "hematurie.md" >}}) et [insuffisance rénale aiguë obstructive]({{< relref "insuffisance-renale-aigue.md" >}}).
+: **Complications chroniques de l'hypertrophie prostatique:** vessie de lutte, lithiase vésicale de stase, [insuffisance rénale chronique obstructive]({{% relref "insuffisance-renale-chronique.md" %}}) et [hernie pariétale]({{% relref "hernie-parietale.md" %}}). L'HBP n'augmente pas le risque de [cancer de la prostate]({{% relref "cancer-prostate.md" %}}).
+: **Complications aiguës:** rétention aiguë d'urines, [infections urinaires]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}) et [génitales]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}}), [hématurie initiale]({{% relref "hematurie.md" %}}) et [insuffisance rénale aiguë obstructive]({{% relref "insuffisance-renale-aigue.md" %}}).
 
 {{%info%}}
 Aucun parallélisme entre la symptomatologie obstructive ou irritative et le volume prostatique
@@ -89,9 +89,9 @@ TR
 {{< table title="Diagnostic différentiel de l'hypertrophie bénigne de la prostate selon le *Collège Français des Enseignants en Urologie (CFEU) 2021*" class="table-wrap" >}}
 | Syndrome                           | Diagnostic différentiel |
 |------------------------------------|-------------------------|
-| Nycturie prédominante<br>ou isolée | Polyurie nocturne (diurétiques, modification du rythme nycthéméral, [SAOS]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})), polyurie des 24 heures ([diabète](/tags/diabete/), potomanie) et troubles du sommeil. Agenda mictionnel |
-| Phase de remplissage               | [Tumeur de vessie]({{< relref "cancer-vessie.md" >}}), vessie neurologique centrale, prostatite, calcul ou corps étranger vésical |
-| Mictionnels ou post-mictionnels    | [Cancer de la prostate]({{< relref "cancer-prostate.md" >}}), sténose de l'urètre, maladie du col vésical, hypotonie détrusorienne (+80 ans ou RPM > 300 mL) |
+| Nycturie prédominante<br>ou isolée | Polyurie nocturne (diurétiques, modification du rythme nycthéméral, [SAOS]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}})), polyurie des 24 heures ([diabète](/tags/diabete/), potomanie) et troubles du sommeil. Agenda mictionnel |
+| Phase de remplissage               | [Tumeur de vessie]({{% relref "cancer-vessie.md" %}}), vessie neurologique centrale, prostatite, calcul ou corps étranger vésical |
+| Mictionnels ou post-mictionnels    | [Cancer de la prostate]({{% relref "cancer-prostate.md" %}}), sténose de l'urètre, maladie du col vésical, hypotonie détrusorienne (+80 ans ou RPM > 300 mL) |
 {{< /table >}}
 
 {{% /collapse %}}
@@ -105,11 +105,11 @@ Le diagnostic d'hypertrophie bénigne de prostate est clinique.
 ### Interrogatoire
 
 - Antécédents médicaux  
-  Neurologiques, cardiovasculaires, [diabète](/tags/diabete/), chirurgicaux, urinaires (infection, [hématurie]({{< relref "hematurie.md" >}})), radiothérapie pelvienne.
+  Neurologiques, cardiovasculaires, [diabète](/tags/diabete/), chirurgicaux, urinaires (infection, [hématurie]({{% relref "hematurie.md" %}})), radiothérapie pelvienne.
 - Traitements en cours
 - Tabagisme
 - Recherche de complications  
-  Rétention aiguë d'urines, [infections urinaires récidivantes]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), hématurie macroscopique, diverticule vésical symptomatique, lithiase vésicale, douleurs pelviennes.
+  Rétention aiguë d'urines, [infections urinaires récidivantes]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}), hématurie macroscopique, diverticule vésical symptomatique, lithiase vésicale, douleurs pelviennes.
 - Terminologie des symptômes du bas appareil selon l'*International Continence Society* (ICS):
   - Phase de remplissage  
     Pollakiurie diurne et nocturne, urgenturie (impériosité mictionnelle), nycturie, incontinence urinaire.
@@ -124,7 +124,7 @@ Le diagnostic d'hypertrophie bénigne de prostate est clinique.
 - Qualité de vie  
   - Sensation de vessie non vidée, besoin d'uriner en sortant des toilettes, interruption du jet, difficultés à se retenir, diminution de la taille et la force du jet, mictions nocturnes.
   - {{< modal-btn modal-ipss >}}Score IPSS{{< /modal-btn >}}
-- [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}): {{< modal-btn modal-iief5 >}}score IIEF-5{{< /modal-btn >}}
+- [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}): {{< modal-btn modal-iief5 >}}score IIEF-5{{< /modal-btn >}}
 - Nycturie ou gêne de remplissage: [agenda mictionnel (PDF)](https://www.urofrance.org/fileadmin/medias/scores/catalogue-mictionnel.pdf) (sur ≥ 3 jours)
 - Nycturie: rechercher des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}
 
@@ -133,7 +133,7 @@ Le diagnostic d'hypertrophie bénigne de prostate est clinique.
 - Poids, taille, IMC
 - Déficit des membres inférieurs
 - Aspect des pénis, méat et bourses  
-  Recherche: [écoulement urétral]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}), sténose du méat, [phimosis]({{< relref "phimosis.md" >}}), anomalie des organes génitaux externes, cancer du pénis.
+  Recherche: [écoulement urétral]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}}), sténose du méat, [phimosis]({{% relref "phimosis.md" %}}), anomalie des organes génitaux externes, cancer du pénis.
 - Globe vésical
 - Toucher rectal: prostate volumineuse (> 20mL), ferme, indolore, lisse, régulière avec disparition du sillon médian.  
   **Avis urologique** si non fait.
@@ -150,7 +150,7 @@ Bilan d'hypertrophie bénigne de prostate (HBP) de première intention:
   {{%class%}}Seul examen complémentaire recommandé de façon systématique par la EAU.{{%/class%}}
 - Mesure du résidu post-mictionnel (RPM)  
   Quantification par échographie ou Bladder scan. Positif si > 50 mL.
-- ± [PSA]({{< relref "cancer-prostate.md" >}}) (si traitement envisageable)
+- ± [PSA]({{% relref "cancer-prostate.md" %}}) (si traitement envisageable)
 - ± Créatininémie et DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}} (si facteurs de risque)
 - Échographie réno-vésico-prostatique avec mesure du résidu post-mictionnel  
   Significatif si RPM > ⅓ du volume pré-mictionnel.
@@ -170,14 +170,14 @@ Le bilan urodynamique et les autres examens sont réservés à l'urologue.
 - Symptômes de remplissage  
   Pollakiurie diurne et nocturne, urgenturie (impériosité mictionnelle), nycturie, incontinence urinaire. Demander un catalogue mictionnel.
 - Examen clinique anormal  
-  Globe vésical, **toucher rectal non réalisable** ou avec nodule ou induration, [phimosis serré]({{< relref "phimosis.md" >}}).
+  Globe vésical, **toucher rectal non réalisable** ou avec nodule ou induration, [phimosis serré]({{% relref "phimosis.md" %}}).
 - BU ou ECBU anormal persistant
 - Anomalie de la créatininémie, du PSA ou de l'échographie
 - Échec du traitement médical
 - Avant traitement anticholinergique
 - Augmentation du PSA sous inhibiteur de la 5-alpha-réductase
 - Obstruction sévère ou complication  
-  Symptômes sévères, rétention aiguë d'urines, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [prostatite aiguë]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), calcul ou diverticule de la vessie, résidu post-mictionnel > 100 mL.
+  Symptômes sévères, rétention aiguë d'urines, [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}), [prostatite aiguë]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}), calcul ou diverticule de la vessie, résidu post-mictionnel > 100 mL.
 
 > -- *AFU 2023* et *2015*
 
@@ -194,7 +194,7 @@ Mesures hygiéniques pour tous les patients rapportant des SBAU liés à une HBP
 
 - Réduction des apports hydriques après 18 heures ou avant d'aller dans les lieux publics
 - Réduire les consommations d'alcool et de café
-- Traitement d'une [constipation]({{< relref "constipation.md" >}})
+- Traitement d'une [constipation]({{% relref "constipation.md" %}})
 - Arrêt des traitements favorisants (anticholinergiques, neuroleptiques) et décalage des traitements (diurétiques)
 - Drainage urétral en fin de miction
 - Techniques de distraction pour ignorer les symptômes vésicaux  
@@ -222,7 +222,7 @@ Alfuzosine LP 10 mg après le dîner ou 2,5 mg x 3/j au long cours (x 2/j si âg
 
 ---
 
-Contre-indications: allergie à l'alfuzosine, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}), insuffisance hépatique, insuffisance rénale sévère, association CYP3A4.  
+Contre-indications: allergie à l'alfuzosine, [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}), insuffisance hépatique, insuffisance rénale sévère, association CYP3A4.  
 **Effets indésirables:** fatigue, vertiges, hypotension orthostatique, syncope avec risque de fracture (OR 1,16) survenant surtout en début de traitement, troubles de l'éjaculation. Ne pas initier avant une chirurgie de la cataracte.  
 Attention aux associations avec antihypertenseurs et aux conducteurs de véhicules.
 {{%/info%}}
@@ -243,7 +243,7 @@ avec surveillance de signes psychiatriques.
 
 **Indication aux I5AR:** symptômes gênants et prostate +40mL.
 
-**Effets indésirables:** dysfonction érectile et éjaculation rétrograde, baisse de la libido, gynécomastie, troubles psychiatriques (anxiété, [dépression]({{< relref "depression.md" >}})). Délai d'apparition de 1 an.
+**Effets indésirables:** dysfonction érectile et éjaculation rétrograde, baisse de la libido, gynécomastie, troubles psychiatriques (anxiété, [dépression]({{% relref "depression.md" %}})). Délai d'apparition de 1 an.
 
 Efficace après 6 mois de traitement, réduction du volume prostatique sur plusieurs années.  
 Seule classe à réduire le risque de rétention aiguë d'urines.
@@ -259,7 +259,7 @@ Peut être associé à un alpha-bloquant (tamsulosine + dutastéride [Combodart�
 
 ### Inhibiteurs de la phosphodiestérase de type 5 (IPDE5)
 
-Indication aux IPDE5: symptômes gênants avec ou sans [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}).
+Indication aux IPDE5: symptômes gênants avec ou sans [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}).
 
 [Tadalafil 5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62472584&typedoc=R) (Cialis® ou gén, seul avec l'AMM mais non remboursé).
 

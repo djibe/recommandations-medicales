@@ -40,7 +40,7 @@ Algie vasculaire de la face (AVF)
 : Céphalée primaire unilatérale avec hyperactivité parasympathique homolatérale, déclenchée par une activation du système trigémino-vasculaire. Une anomalie hypothalamique est suspectée.
 : Rare, elle atteindrait 0,1 % de la population, principalement l'homme (4,3/1) jeune. Elle est caractérisée par des crises douloureuses stéréotypées quotidiennes avec variations circannuelles et intervalles libres.
 : Le plus souvent de forme épisodique (80%, 1-8/j souvent 4 à 12 semaines), elle est dite *chronique* quand l'intervalle libre est inférieur à 1 mois sur 12. Aucun facteur prédictif de passage à la forme chronique n'est identifié.
-: Conséquences: qualité de vie, [dépression]({{< relref "depression.md" >}}) (x 5,6), idées suicidaires (55%) et perte de productivité professionnelle.
+: Conséquences: qualité de vie, [dépression]({{% relref "depression.md" %}}) (x 5,6), idées suicidaires (55%) et perte de productivité professionnelle.
 
 Algie vasculaire de la face réfractaire
 : Forme chronique d'algie vasculaire depuis plus de 3 ans, crises quotidiennes et résistantes aux traitements de fond (vérapamil à 960 mg/j, lithium efficace et bithérapie).
@@ -112,9 +112,9 @@ AVF chronique
 
 Autres causes de céphalées paroxystiques à étayer:
 
-- [Migraine]({{< relref "migraine.md" >}})  
+- [Migraine]({{% relref "migraine.md" %}})  
   Moins sévère et plus longue, signes dysautonomiques bilatéraux, tendance au repli.
-- [Névralgie du trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})  
+- [Névralgie du trijumeau]({{% relref "nevralgie-trigeminale-classique.md" %}})  
   Après 50 ans, salves très brèves de quelques minutes. Territoires V2 et V3, dysautonomie minime, zone gâchette.
 - Autres céphalées trigémino-autonomiques (CTA)  
   Crises plus courtes (2-30 min) et plus fréquentes (min 5/j) surtout chez la femme, sans périodicité, sensibilité à l'indométacine.
@@ -172,7 +172,7 @@ Pilier de la prise en charge diagnostique de l'algie vasculaire (**en gras**, le
   - Prostration pendant la crise
   - Zone gâchette
 - Tabagisme (3/4 des patients)
-- [Alcool]({{< relref "sevrage-alcool.md" >}}), cannabis, cocaïne
+- [Alcool]({{% relref "sevrage-alcool.md" %}}), cannabis, cocaïne
 
 {{%info%}}
 Des signes migraineux (prodromes, troubles digestifs, aura, photophobie, hyperacousie) peuvent accompagner l'AVF.
@@ -260,7 +260,7 @@ Traiter au moins 3 crises à 12-15 L/min pendant 30 minutes avant de conclure à
 
 Indication à la prise en charge par traitement de fond de l'algie vasculaire de la face: forme épisodique avec période douloureuse plus de 2 semaines ou forme chronique.
 
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - Éviction de l'alcool, cannabis et cocaïne
 - Traitement transitionnel si besoin le temps de la titration (voir *Traitement de la crise*)
 - Association de patients: [AFCAVF](http://www.afcavf.org)
@@ -277,7 +277,7 @@ Indication à la prise en charge par traitement de fond de l'algie vasculaire de
 - **Surveillance ECG** initiale, puis tous les 6 mois ou chaque augmentation de 160  au-delà de 480 mg/j
 - Le temps de la titration, la prednisone peut être utilisée (voir plus bas)
 
-Effets indésirables (35%): fatigue, [constipation]({{< relref "constipation.md" >}}), œdèmes des chevilles, hyperplasie gingivale.
+Effets indésirables (35%): fatigue, [constipation]({{% relref "constipation.md" %}}), œdèmes des chevilles, hyperplasie gingivale.
 
 ### Traitement transitionnel
 

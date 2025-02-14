@@ -26,7 +26,7 @@ flowchart = true
 - La neutropénie est un compte des polynucléaires neutrophiles inférieur à 1500/mm³ (1,5 G/L). Elle est dite profonde en-dessous de 0,5 G/L (risque infectieux majeur) et sévère en cas de symptômes (infections, aphtes ou parodontopathie)
 - Bilan de la neutropénie chronique (à partir de la puberté): examen clinique et NFS, Dosage pondéral des immunoglobulines, électrophorèse des protéines, immunophénotypage lymphocytaire, anticorps (ADN natifs, nucléaires, facteur rhumatoïde) ...
 - Principaux tableaux cliniques associés à la découverte d'une neutropénie:
-  - Infection sévère (*ex* phlegmon amygdalien, cellulite, [pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}})) ou autre lignée atteinte (anémie, macrocytose): urgence médicale, avis hématologique urgent
+  - Infection sévère (*ex* phlegmon amygdalien, cellulite, [pneumonie]({{% relref "pneumonie-aigue-communautaire.md" %}})) ou autre lignée atteinte (anémie, macrocytose): urgence médicale, avis hématologique urgent
   - Pathologie associée: avis hématologique non urgent
   - Découverte fortuite ou infection virale: surveillance à 48h puis une semaine. Avis si persistance à 2 mois
   - Isolée, bien tolérée et résolution spontanée rapide: pas d'examen (cause probable médicamenteuse ou virale)
@@ -104,19 +104,19 @@ Critères permettant de ne pas prolonger les examens:
   Cocaïne (additifs), radiations ionisantes, benzène.
 - Infections
   - Typhoïde, brucellose, leishmaniose
-  - [Tuberculose]({{< relref "tuberculose.md" >}})
+  - [Tuberculose]({{% relref "tuberculose.md" %}})
   - Paludisme viscéral
   - Septicémies graves
   - [Hépatite virales](/tags/hepatite/)
 - Hypersplénisme
 - Hémopathies malignes
 - Endocrinopathie  
-  [Hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), insuffisance surrénalienne, panhypopuitiatisme.
+  [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}), [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), insuffisance surrénalienne, panhypopuitiatisme.
 - Autres causes de neutropénie
   - Carences (vitamine B9, B12, fer), cuivre (nutrition parentérale prolongée, diarrhée chronique)
   - Troubles de la répartition des PNN
   - Neutropénie congénitale
-  - Connectivite (lupus, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}))
+  - Connectivite (lupus, [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}))
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

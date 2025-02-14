@@ -35,7 +35,7 @@ flowchart = true
 
 Presbyacousie (ou surdité liée à l'âge)
 : Diminution physiologique de l'audition due à l'âge. L'hypoacousie est bilatérale, symétrique, progressive, irréversible et atteint initialement les aigus.
-: La surdité atteint 65 % des +65 ans en étant un facteur de risque modifiable majeur de [démence]({{< relref "maladie-alzheimer.md" >}}) (OR 2). En 2050, ⅓ de la population sera presbyacousique.
+: La surdité atteint 65 % des +65 ans en étant un facteur de risque modifiable majeur de [démence]({{% relref "maladie-alzheimer.md" %}}) (OR 2). En 2050, ⅓ de la population sera presbyacousique.
 
 ### Degré de surdité
 
@@ -68,7 +68,7 @@ SFORL
 Signes et symptômes chez le sujet de plus de 60 ans:
 
 - Antécédents  
-  Otologiques ([Menière]({{< relref "maladie-meniere.md" >}}), traumatiques, [otites]({{< relref "otite-moyenne-aigue.md" >}}), [méningite]({{< relref "meningite.md" >}}), oreillons, prématurité ...), cardiovasculaires, traumatismes sonores.
+  Otologiques ([Menière]({{% relref "maladie-meniere.md" %}}), traumatiques, [otites]({{% relref "otite-moyenne-aigue.md" %}}), [méningite]({{% relref "meningite.md" %}}), oreillons, prématurité ...), cardiovasculaires, traumatismes sonores.
 - Antécédents familiaux: surdité
 - Traitements ototoxiques  
   Cytotoxiques, aminosides, polymyxine B, quinine, chloroquine, quinidine, AINS et aspirine fortes doses, IPDE5 ...
@@ -145,7 +145,7 @@ Mesures de prise en charge de la presbyacousie:
 - Audioprothèse bilatérale (stéréophonique)
   - Indications: perte auditive moyenne ou seuil d'intelligibilité dans le silence > 30 dB, dégradation significative de l'intelligibilité dans le bruit
   - Prescription possible par un généraliste formé à l'otologie médicale
-  - Suivi otoscopique tous les 3-6 mois (voir [bouchons de cérumen]({{< relref "bouchon-cerumen.md" >}}))
+  - Suivi otoscopique tous les 3-6 mois (voir [bouchons de cérumen]({{% relref "bouchon-cerumen.md" %}}))
   - Suivi régulier par l'audioprothésiste
   - Suivi annuel par le prescripteur
 - Voire implants cochléaires  

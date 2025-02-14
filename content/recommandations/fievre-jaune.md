@@ -24,7 +24,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-La fièvre jaune et une maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}).
+La fièvre jaune et une maladie à [déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}).
 
 La vaccination contre la fièvre jaune est:
 
@@ -39,7 +39,7 @@ La vaccination contre la fièvre jaune est:
 {{%collapse "Définition" %}}
 
 Fièvre jaune
-: Maladie hémorragique virale aiguë transmise par des moustiques infectés aux tropiques d'Afrique, d'Amérique centrale et d'Amérique du Sud. L'[ictère]({{< relref "ictere.md" >}}) engendré est à l'origine du nom de la maladie.
+: Maladie hémorragique virale aiguë transmise par des moustiques infectés aux tropiques d'Afrique, d'Amérique centrale et d'Amérique du Sud. L'[ictère]({{% relref "ictere.md" %}}) engendré est à l'origine du nom de la maladie.
 : La prévention passe par la lutte contre les piqûres de moustiques et la vaccination avant un voyage en zone infectée.
 
 ### Abréviations
@@ -62,7 +62,7 @@ Personnes éligibles à la vaccination contre la fièvre jaune:
   - Nourrisson de 9 à 24 mois: une dose puis rappel à partir de 6 ans (délai max 10 ans)
   - Vaccination obligatoire chez le +1 an
   - Rappel à l'âge de 6 ans si vacciné avant l'âge de 2 ans
-  - Rappel à 10 ans si vacciné pendant la grossesse ou [PVVIH]({{< relref "vih-sida.md" >}})
+  - Rappel à 10 ans si vacciné pendant la grossesse ou [PVVIH]({{% relref "vih-sida.md" %}})
   - Rappel à 10 ans si immunodépression avec suivi du taux d'anticorps ± nouveau rappel
   - Rappel si vaccination date de +10 ans ET circulation active du virus
 - Voyage en Guyane: obligatoire chez le +1 an

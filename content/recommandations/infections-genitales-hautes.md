@@ -31,10 +31,10 @@ modele = true
 - Prise en charge des suspicions d'endométrite et salpingite par antibiothérapie après la réalisation des prélèvements:
   - Traitement par ceftriaxone 1g IM dose unique, doxycycline 200 mg et métronidazole 1g pendant 10 jours
   - Réévaluation systématique sous 3 à 5 jours pour réévaluation de l'efficacité et des résultats PCR et microbiologiques
-  - Informer sur les risques de récidive, d'[infertilité]({{< relref "infertilite-couple.md" >}}) et de grossesse extra-utérine (GEU)
+  - Informer sur les risques de récidive, d'[infertilité]({{% relref "infertilite-couple.md" %}}) et de grossesse extra-utérine (GEU)
 - En cas de facteurs de risque ou de positivité des IST, dépistage des autres IST, de la santé sexuelle et du partenaire
 
-Chapitres liés: [IST](/tags/ist/), [infections à Chlamydia trachomatis]({{< relref "chlamydia-trachomatis.md" >}}), [papillomavirus]({{< relref "cancer-col-uterus.md" >}}) (HPV)
+Chapitres liés: [IST](/tags/ist/), [infections à Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}}), [papillomavirus]({{% relref "cancer-col-uterus.md" %}}) (HPV)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -42,7 +42,7 @@ Chapitres liés: [IST](/tags/ist/), [infections à Chlamydia trachomatis]({{< re
 Infection génitale haute (IGH) non compliquée
 : Le terme comprend l'endométrite et la salpingite symptomatiques (la majorité sont asymptomatiques). Elle est dite **compliquée** en cas d'abcès tubo-ovarien (ATO), de pelvipéritonite ou plus rarement de péri-hépatite ou sepsis. Elle atteint les femmes en âge de procréer.
 : Elle est secondaire à à l'ascension de germes du vagin à travers le col de l'utérus.
-: Les récidives sont fréquentes (15 à 21%, 1/3 par réinfection) augmentant le risque d'[infertilité]({{< relref "infertilite-couple.md" >}}) et de douleurs pelviennes chroniques.
+: Les récidives sont fréquentes (15 à 21%, 1/3 par réinfection) augmentant le risque d'[infertilité]({{% relref "infertilite-couple.md" %}}) et de douleurs pelviennes chroniques.
 
 Leucorrhées
 : Pertes vaginales.
@@ -79,11 +79,11 @@ SPILF
 
 Autres diagnostics à évoquer devant un tableau d'infection génitale haute:
 
-- [Appendicite aiguë]({{< relref "appendicite-aigue.md" >}}) pelvienne
-- [Infection urinaire]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
+- [Appendicite aiguë]({{% relref "appendicite-aigue.md" %}}) pelvienne
+- [Infection urinaire]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})
 - Grossesse extra-utérine
-- Autres algies pelviennes: torsion d'annexe, [endométriose]({{< relref "endometriose.md" >}}), pathologie ovarienne, algie périovulatoire et périmenstruelle
-- [Diverticulite sigmoïdienne]({{< relref "diverticulite-sigmoidienne.md" >}})
+- Autres algies pelviennes: torsion d'annexe, [endométriose]({{% relref "endometriose.md" %}}), pathologie ovarienne, algie périovulatoire et périmenstruelle
+- [Diverticulite sigmoïdienne]({{% relref "diverticulite-sigmoidienne.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -106,7 +106,7 @@ Signes et symptômes d'endométrite et salpingite:
   - Leucorrhées, saignements utérins
   - Signes urinaires: pollakiurie, brûlures mictionnelles
   - Douleurs de l'hypochondre droit
-- Signes de complications et diagnostic différentiel: syndrome rectal (abcès du Douglas), défense du flanc droit ([appendicite]({{< relref "appendicite-aigue.md" >}}))
+- Signes de complications et diagnostic différentiel: syndrome rectal (abcès du Douglas), défense du flanc droit ([appendicite]({{% relref "appendicite-aigue.md" %}}))
 
 ### Examen clinique
 

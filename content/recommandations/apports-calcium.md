@@ -29,7 +29,7 @@ todo = "rankok, IRC"
 - Le lait et les fromages à pâte cuite sont les aliments les plus riches en calcium
 - Le [questionnaire préconisé par le *GRIO*](#évaluer-les-quotidiens-apports-en-calcium) (*Groupe de Recherche et d'Information sur les Ostéoporoses*) permet de calculer la couverture des apports quotidiens en calcium pour envisager une supplémentation par des comprimés de calcium
 
-Chapitres liés: [vitamine D]({{< relref "vitamine-d.md" >}}), [ostéoporose de la femme]({{< relref "osteoporose.md" >}}) et [ostéoporose masculine]({{< relref "osteoporose-masculine.md" >}})
+Chapitres liés: [vitamine D]({{% relref "vitamine-d.md" %}}), [ostéoporose de la femme]({{% relref "osteoporose.md" %}}) et [ostéoporose masculine]({{% relref "osteoporose-masculine.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Apports en calcium recommandés chez l'enfant" %}}
@@ -67,7 +67,7 @@ En cas d'apports insuffisants, voir la section suivante pour la supplémentation
 
 ### Spécialités de calcium et vitamine D en association
 
-Pour les personnes à risque ([ostéoporose]({{< relref "osteoporose.md" >}}), traitement biphosphonate, [corticothérapie au long cours]({{< relref "corticoides.md" >}}), apports insuffisants, chutes répétées), une supplémentation en calcium et vitamine D3 est à prendre à distance des repas.
+Pour les personnes à risque ([ostéoporose]({{% relref "osteoporose.md" %}}), traitement biphosphonate, [corticothérapie au long cours]({{% relref "corticoides.md" %}}), apports insuffisants, chutes répétées), une supplémentation en calcium et vitamine D3 est à prendre à distance des repas.
 
 {{< traitements/calcium-vitd >}}
 

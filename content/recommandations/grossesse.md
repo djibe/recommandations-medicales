@@ -30,35 +30,35 @@ modele = true
 - ⅓ des tests de grossesse sont non conformes (*[DGCCRF](https://www.economie.gouv.fr/dgccrf/les-autotests-de-fertilite-au-banc-dessai)*)
 - Vaccins Covid-19, grippe et coqueluche à chaque grossesse, anti-VRS Abrysvo si 32-36 SA de septembre à janvier (une seule dose)
 - Appli officielle du suivi de grossesse: [Nata](https://play.google.com/store/search?q=NATA&c=apps) (multilingue)
-- Besoins en [calcium]({{< relref "apports-calcium.md" >}}): 1 g/j (*IOF*), [alimentation pendant la grossesse (MangerBouger)](https://www.mangerbouger.fr/manger-mieux/a-tout-age-et-a-chaque-etape-de-la-vie/les-recommandations-et-conseils-avant-pendant-et-apres-la-grossesse/manger-equilibre-avant-pendant-et-apres-la-grossesse) et guide [activité physique](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_grossesse.pdf) (PDF)
+- Besoins en [calcium]({{% relref "apports-calcium.md" %}}): 1 g/j (*IOF*), [alimentation pendant la grossesse (MangerBouger)](https://www.mangerbouger.fr/manger-mieux/a-tout-age-et-a-chaque-etape-de-la-vie/les-recommandations-et-conseils-avant-pendant-et-apres-la-grossesse/manger-equilibre-avant-pendant-et-apres-la-grossesse) et guide [activité physique](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_grossesse.pdf) (PDF)
 
 Chapitres dédiés:
 
-- [Acné pendant la grossesse]({{< relref "acne.md" >}})
-- [Allaitement]({{< relref "allaitement.md" >}})
-- [Anémie]({{< relref "anemie.md" >}})
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et de l'[alcool]({{< relref "sevrage-alcool.md" >}})
+- [Acné pendant la grossesse]({{% relref "acne.md" %}})
+- [Allaitement]({{% relref "allaitement.md" %}})
+- [Anémie]({{% relref "anemie.md" %}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) et de l'[alcool]({{% relref "sevrage-alcool.md" %}})
 - Complications de grossesse
-  - [Hémorroïdes]({{< relref "hemorroides.md" >}})
-  - [Hypertension artérielle et grossesse]({{< relref "hypertension-arterielle.md" >}})
-  - [Incontinence fécale]({{< relref "incontinence-fecale.md" >}})
-  - [Phlébite]({{< relref "thrombose-veineuse-profonde.md" >}})
-  - [Reflux]({{< relref "reflux-gastro-oesophagien.md" >}})
-  - [Syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}})
-  - [Vomissements et nausées pendant la grossesse]({{< relref "vomissements-grossesse-hyperemese-gravidique.md" >}})
+  - [Hémorroïdes]({{% relref "hemorroides.md" %}})
+  - [Hypertension artérielle et grossesse]({{% relref "hypertension-arterielle.md" %}})
+  - [Incontinence fécale]({{% relref "incontinence-fecale.md" %}})
+  - [Phlébite]({{% relref "thrombose-veineuse-profonde.md" %}})
+  - [Reflux]({{% relref "reflux-gastro-oesophagien.md" %}})
+  - [Syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}})
+  - [Vomissements et nausées pendant la grossesse]({{% relref "vomissements-grossesse-hyperemese-gravidique.md" %}})
 - Infections pendant la grossesse
-  - [Covid-19 à haut risque de forme grave]({{< relref "covid-19.md" >}})
-  - [Herpès génital]({{< relref "infections-herpes-virus.md" >}})
-  - [Infection urinaire pendant la grossesse]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
-  - [Mycoses]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
-  - [Varicelle]({{< relref "varicelle.md" >}})
-- [Dépression]({{< relref "depression.md" >}})
-- [Diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
-- [Écoulement mamelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
-- [Hypothyroïdie pendant la grossesse]({{< relref "hypothyroidie.md" >}})
-- [Interruption volontaire de grossesse]({{< relref "interruption-volontaire-grossesse.md" >}})
-- [Post-partum]({{< relref "post-partum.md" >}})
-- [Violences faites aux femmes]({{< relref "violences-femmes.md" >}})
+  - [Covid-19 à haut risque de forme grave]({{% relref "covid-19.md" %}})
+  - [Herpès génital]({{% relref "infections-herpes-virus.md" %}})
+  - [Infection urinaire pendant la grossesse]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})
+  - [Mycoses]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
+  - [Varicelle]({{% relref "varicelle.md" %}})
+- [Dépression]({{% relref "depression.md" %}})
+- [Diabète gestationnel]({{% relref "diabete-gestationnel.md" %}})
+- [Écoulement mamelonnaire]({{% relref "ecoulement-mamelonnaire.md" %}})
+- [Hypothyroïdie pendant la grossesse]({{% relref "hypothyroidie.md" %}})
+- [Interruption volontaire de grossesse]({{% relref "interruption-volontaire-grossesse.md" %}})
+- [Post-partum]({{% relref "post-partum.md" %}})
+- [Violences faites aux femmes]({{% relref "violences-femmes.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "La maternité en France"%}}
@@ -225,7 +225,7 @@ const chartOptions3 = {
 
 ### Vaccins chez la femme enceinte
 
-Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{< relref "vaccination.md" >}})):
+Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{% relref "vaccination.md" %}})):
 
 - Covid-19 ARNm et grippe quel que soit le terme (RR de réanimation sans vaccination: 18)
 - dTcaPolio à chaque grossesse entre 20 et 36 SA (BoostrixTetra, Repevax)  
@@ -324,7 +324,7 @@ AET
 
 > -- *[Anses. Avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relatif à l'actualisation des repères alimentaires du PNNS pour les femmes enceintes ou allaitantes. 2019. (PDF)](https://www.anses.fr/fr/system/files/NUT2017SA0141.pdf)*
 
-Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{< relref "obesite-adulte.md" >}}), *[Eades et al 2017](https://pubmed.ncbi.nlm.nih.gov/28531829/)*)
+Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{% relref "obesite-adulte.md" %}}), *[Eades et al 2017](https://pubmed.ncbi.nlm.nih.gov/28531829/)*)
 
 ### Objectif de prise de poids pendant la grossesse
 

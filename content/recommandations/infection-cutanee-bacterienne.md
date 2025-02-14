@@ -36,21 +36,21 @@ todo = "flow, paronychie GPIP"
 - Pour les cas d'allergie ou d'infections cutanées de l'enfant, voir *Traitement*
 - La prise en charge de l'abcès cutané est avant tout chirurgicale (avec antibiothérapie anti-staphylococcique)
 
-Chapitres liés: [érysipèle]({{< relref "erysipele.md" >}}), [morsure]({{< relref "morsure.md" >}}), [orgelet]({{< relref "orgelet.md" >}})
+Chapitres liés: [érysipèle]({{% relref "erysipele.md" %}}), [morsure]({{% relref "morsure.md" %}}), [orgelet]({{% relref "orgelet.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Folliculite superficielle
 : Infection du follicule pilo-sébacé par *Staphylococcus aureus*.
-: Cliniquement: pustule centrée par un poil avec érythème périfolliculaire (dit [orgelet]({{< relref "orgelet.md" >}}) sur le cil, sycosis staphylococcique sur la barbe).
-: Diagnostic différentiel de la folliculite: folliculite à BGN ou fongique ([dermatophyte, candidose]({{< relref "mycoses-dermatophytes-candidoses.md" >}})), pseudo-folliculite (Behçet, Crohn, éosinophiles) ou [acné]({{< relref "acne.md" >}}).
+: Cliniquement: pustule centrée par un poil avec érythème périfolliculaire (dit [orgelet]({{% relref "orgelet.md" %}}) sur le cil, sycosis staphylococcique sur la barbe).
+: Diagnostic différentiel de la folliculite: folliculite à BGN ou fongique ([dermatophyte, candidose]({{% relref "mycoses-dermatophytes-candidoses.md" %}})), pseudo-folliculite (Behçet, Crohn, éosinophiles) ou [acné]({{% relref "acne.md" %}}).
 
 Furoncle
 : Infection profonde et nécrosante du follicule pilo-sébacé due à *Staphylococcus aureus*, qui produit le plus souvent une toxine, la leucocidine de Panton-Valentine.
 : Dit **anthrax** quand multiples furoncles agglomérés. **Furonculose** quand répétition de furoncles sur une longue période (portage nasal ++).
 : Cliniquement: lésion papulo-nodulaire évoluant vers le bourbillon purulent en 5 à 10 jours.
-: Diagnostic différentiel du furoncle: kyste épidermique inflammatoire ou surinfecté (pré-existant), [hidradénite suppurée]({{< relref "maladie-verneuil.md" >}}).
+: Diagnostic différentiel du furoncle: kyste épidermique inflammatoire ou surinfecté (pré-existant), [hidradénite suppurée]({{% relref "maladie-verneuil.md" %}}).
 
 Impétigo
 : L'impétigo surtout chez l'enfant avant 10 ans (péri-buccal ++) durant l'été par *Staphylococcus aureus* (90% voire *Streptococcus pyogenes* -- SGA, pays émergents ++), avec une extrême contagiosité. Absence de fièvre.
@@ -123,7 +123,7 @@ Prise en charge de la folliculite superficielle:
 - Ne pas manipuler
 - Soins quotidiens
 - Antiseptique pluriquotidien (*CMIT*)
-- Si [orgelet]({{< relref "orgelet.md" >}}): antibiothérapie locale
+- Si [orgelet]({{% relref "orgelet.md" %}}): antibiothérapie locale
 - Si sycosis (atteinte de la barbe): mousse à raser antiseptique, rasoirs jetables, espacer le rasage
 - **Si forme profuse (anthrax):** antibiothérapie identique au [furoncle compliqué](#prise-en-charge-du-furoncle-compliqué)
 

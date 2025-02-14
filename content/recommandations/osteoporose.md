@@ -36,7 +36,7 @@ Recommandations simplifiées pour une prise en charge réaliste de l'ostéoporos
 4. Avis rhumatologique si T-score proche (1 point) de l'indication de traiter
 5. Biphosphonate: bilan bucco-dentaire, [acide alendronique 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois
     - Au moins 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)  
-    - [Fracture du col du fémur]({{< relref "fracture-extremite-superieure-femur.md" >}}) (FESF): [zolédronate 5 mg/100 mL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture).
+    - [Fracture du col du fémur]({{% relref "fracture-extremite-superieure-femur.md" %}}) (FESF): [zolédronate 5 mg/100 mL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture).
 6. {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} et souvent supplémenter à distance des repas, supplémenter en vitamine D
 7. Contrôle de l'ostéodensitométrie à 2-3 ans et avis rhumatologique
 8. Contrôle de la DXA 2 ans après l'arrêt du traitement
@@ -45,9 +45,9 @@ Pour l'**ostéoporose cortisonique**, voir la section [traitements anti-ostéopo
 
 ### Prévention pour toutes {.typography-overline .mb-2}
 
-{{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, [arrêt du tabac]({{< relref "arret-tabac.md" >}}), activité physique, [vitamine D]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L et ≥ 800 UI/j, {{< modal-btn modal-calcium-cible >}}calcium cible 1 - 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
+{{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, [arrêt du tabac]({{% relref "arret-tabac.md" %}}), activité physique, [vitamine D]({{% relref "vitamine-d.md" %}}) ≥ 75 nmol/L et ≥ 800 UI/j, {{< modal-btn modal-calcium-cible >}}calcium cible 1 - 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
 
-Chapitres liés: [ostéoporose de l'homme]({{< relref "osteoporose-masculine.md" >}}), [traitement hormonal de la ménopause]({{< relref "menopause.md" >}}), [calcium]({{< relref "apports-calcium.md" >}}) et [vitamine D]({{< relref "vitamine-d.md" >}})
+Chapitres liés: [ostéoporose de l'homme]({{% relref "osteoporose-masculine.md" %}}), [traitement hormonal de la ménopause]({{% relref "menopause.md" %}}), [calcium]({{% relref "apports-calcium.md" %}}) et [vitamine D]({{% relref "vitamine-d.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -135,7 +135,7 @@ L'ostéoporose est responsable d'un lourd fardeau médico-économique:
 - Âge
 - Taille à 20 ans
 - Antécédents  
-  Fractures (ancienneté, type), âge de la [ménopause]({{< relref "menopause.md" >}}), démence, [Parkinson]({{< relref "maladie-parkinson.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), antécédent de [cancer](/tags/cancer/) ...
+  Fractures (ancienneté, type), âge de la [ménopause]({{% relref "menopause.md" %}}), démence, [Parkinson]({{% relref "maladie-parkinson.md" %}}), [diabète]({{% relref "diabete-type-2.md" %}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/), [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}), antécédent de [cancer](/tags/cancer/) ...
 - Traitements en cours  
   Et corticothérapie (dont inhalée) > 3 mois.
 - {{< modal-btn modal-risque-fracture >}}Facteurs de risque de fracture{{< /modal-btn >}}
@@ -167,8 +167,8 @@ Examens pour éliminer une ostéoporose secondaire.
 - TSH
 - Vitamine D
 - Calcémie corrigée, phosphatémie (*COFER*)
-- Ferritine (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
-- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
+- Ferritine (voir [hémochromatose]({{% relref "hemochromatose.md" %}}))
+- [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
   - Indications: fracture vertébrale suspecte, fracture pathologique, géodes
   - Systématique selon le COFER pour éliminer un myélome déminéralisant
 - Âge jeune: sérologie cœliaque (*ESsCD 2019*)
@@ -194,7 +194,7 @@ Indications aux radiographies du rachis dorso-lombaire:
 {{%info%}}
 Indications de l'ostéodensitométrie:
 
-- [Ménopause]({{< relref "menopause.md" >}}) et
+- [Ménopause]({{% relref "menopause.md" %}}) et
   - Fracture de fragilité du col fémoral chez un parent
   - IMC < 19 kg/m²
   - Insuffisance ovarienne précoce (< 40 ans)
@@ -205,19 +205,19 @@ Indications de l'ostéodensitométrie:
 - Corticothérapie systémique  
   ≥ 7,5 mg/j d'éq. prednisone ≥ 3 mois.
 - Endocrinopathie ou pathologie déminéralisante  
-  Hypogonadisme prolongé (dont orchidectomie, traitement prolongé par GnRH, aménorrhée primaire ou secondaire), [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}) évolutive non traitée, hypercorticisme, hyperparathyroïdie primitive, ostéogenèse imparfaite.
+  Hypogonadisme prolongé (dont orchidectomie, traitement prolongé par GnRH, aménorrhée primaire ou secondaire), [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}) évolutive non traitée, hypercorticisme, hyperparathyroïdie primitive, ostéogenèse imparfaite.
   - Maladie cœliaque (*ESsCD 2019*)  
   Au diagnostic puis tous les 2-5 ans selon la DMO.
 - Traitement anti-ostéoporotique
   - Contrôle tous les 2-3 ans de la réponse au traitement
   - À chaque modification de traitement et en arrêt précoce
   - 2 ans après l'arrêt du traitement
-- Homme [VIH+]({{< relref "vih-sida.md" >}}) CD4 > 500/mm³ ET ≥ 60 ans ou < 60 ans avec IMC < 20 (*HAS 2018 VIH*)
-- [Boulimie]({{< relref "boulimie-hyperphagie.md" >}}) (*HAS 2019 boulimie*)
+- Homme [VIH+]({{% relref "vih-sida.md" %}}) CD4 > 500/mm³ ET ≥ 60 ans ou < 60 ans avec IMC < 20 (*HAS 2018 VIH*)
+- [Boulimie]({{% relref "boulimie-hyperphagie.md" %}}) (*HAS 2019 boulimie*)
   - et aménorrhée ≥ 6 mois
   - et antécédent d'anorexie mentale
-- [Surcharge en fer]({{< relref "hyperferritinemie.md" >}}) avec ferritine > 1000 µg/L (*AFEF 2020*)
-- [Cholangite biliaire primitive]({{< relref "cholangite-biliaire-primitive.md" >}}) (*SNFGE/AFEF 2019*)
+- [Surcharge en fer]({{% relref "hyperferritinemie.md" %}}) avec ferritine > 1000 µg/L (*AFEF 2020*)
+- [Cholangite biliaire primitive]({{% relref "cholangite-biliaire-primitive.md" %}}) (*SNFGE/AFEF 2019*)
 
 Examen diagnostique de l'ostéoporose: **T-score ≤ -2,5 DS au col fémoral** (*OMS 94*)  
 T-score > -1 = **DMO normale** | -2,5 < T-score ≤ -1 = **Ostéopénie**.
@@ -237,7 +237,7 @@ Le calcul du score FRAX est inutile si le traitement est indiqué d'emblée: {{<
 
 Dans tous les cas, demander un avis rhumatologique en cas d'identification de risque fracturaire mais que la manipulation du FRAX n'est pas aisée.
 
-Le calcul du FRAX est validé en France uniquement en cas de [ménopause]({{< relref "menopause.md" >}}).
+Le calcul du FRAX est validé en France uniquement en cas de [ménopause]({{% relref "menopause.md" %}}).
 
 {{< iframe url="https://frax.shef.ac.uk/FRAX/tool.aspx?lang=fr" title="Calcul du FRAX® en France sur le site officiel">}}
 
@@ -341,20 +341,20 @@ $(function () {
 
 Tout au long de la vie: activité physique adaptée, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}} et apports vitamino-calciques.
 
-- [Sevrage tabagique]({{< relref "arret-tabac.md" >}}) + alcool
+- [Sevrage tabagique]({{% relref "arret-tabac.md" %}}) + alcool
 - Soins bucco-dentaires au moins annuels (et avant traitement)  
   {{%class%}}Débuter le traitement si risque élevé de fracture à court terme.{{%/class%}}
 - Évaluation gériatrique si {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} ou fragilité
 - Prévention des chutes
   - Arrêt des somnifères et opiacés, alcool
-  - Rechercher une [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}})
+  - Rechercher une [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}})
   - Contrôler les lunettes
 - **Activité physique** avec impact
   Exercice type marche au moins 2 jours par semaine, supervisée ++.
 - Vitamine D
   - Prévenir une carence en vitamine D par cible ≥ 75 nmol/L
   - Dose d'entretien: 800-1200 UI/j (ou 80-100.000 UI/2-3 mois)
-  - Voir *[Vitamine D]({{< relref "vitamine-d.md" >}})* pour les protocoles de correction et supplémentations
+  - Voir *[Vitamine D]({{% relref "vitamine-d.md" %}})* pour les protocoles de correction et supplémentations
 - Calcium
   - Femme ménopausée ≥ 50 ans: {{< modal-btn modal-calcium-cible >}}apports cibles 1 - 1,2 g/j{{< /modal-btn >}}
   - {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}}
@@ -384,7 +384,7 @@ La prise en charge médicamenteuse de l'ostéoporose est recommandée dans les s
   - Utiliser les traitements indiqués pour les fractures non sévères
 {{%/info%}}
 
-Critères de choix du traitement: [espérance de vie suffisante]({{< relref "esperance-vie-age-france.md" >}}), antécédent de fracture, son type, son ancienneté, l'âge, les autres antécédents, le {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} et la DMO. Avis rhumatologique si besoin.
+Critères de choix du traitement: [espérance de vie suffisante]({{% relref "esperance-vie-age-france.md" %}}), antécédent de fracture, son type, son ancienneté, l'âge, les autres antécédents, le {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} et la DMO. Avis rhumatologique si besoin.
 
 **Objectif minimal:** absence de perte osseuse (perte > 0,03 g/cm² de DMO).
 
@@ -520,7 +520,7 @@ window.addEventListener('load', function() {
   - Rebond de perte osseuse à l'arrêt, relais par BP 6-12 mois
 - Raloxifène  
   Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture périphérique peu élevé en l'absence de: T-score ≤ -3 et {{< modal-btn modal-risque-chute >}}risque de chute élevé{{< /modal-btn >}}.
-- [Traitement hormonal de la ménopause (THM)]({{< relref "menopause.md" >}})
+- [Traitement hormonal de la ménopause (THM)]({{% relref "menopause.md" %}})
   - Privilégié en ménopause récente (< 60 ans) avec troubles climatériques invalidants ou traitements spécifiques non tolérés
   - Contrôle de l'ostéodensitométrie à 2-3 ans
   - Peut être associé à un traitement spécifique anti-ostéoporotique

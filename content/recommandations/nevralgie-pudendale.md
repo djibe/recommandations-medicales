@@ -55,7 +55,7 @@ Autres diagnostics à rechercher devant un tableau d'algie pelvienne:
 - Uréthralgie chronique, syndrome de douleur vésicale  
   Douleur fluctuante avec la miction.
 - Lésion proctologique  
-  [Fissure anale]({{< relref "fissure-anale.md" >}}), [hémorroïdes]({{< relref "hemorroides.md" >}}).
+  [Fissure anale]({{% relref "fissure-anale.md" %}}), [hémorroïdes]({{% relref "hemorroides.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -73,7 +73,7 @@ Signes et symptômes de la névralgie pudendale à rechercher à l'examen:
 - Facteur aggravant: cyclisme intense
 - Dépistages organisés des cancers
 - Douleurs de la névralgie pudendale:
-  - [Douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}) (brûlure, gêne, engourdissement) sans paroxysmes
+  - [Douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}}) (brûlure, gêne, engourdissement) sans paroxysmes
   - **Douleurs pelviennes ou vulvaires unilatérales ou médianes**
   - Sensation de brûlure intense, aiguë, parfois avec engourdissement
   - Déclenchées ou aggravées en **position assise** (97 %, sièges mous ++) ou avec des vêtements serrés
@@ -125,7 +125,7 @@ Une imagerie normale n'infirme pas le diagnostic.
 
 La prise en charge de la névralgie pudendale est spécialisée (proctologue, médecin de la douleur) et associe:
 
-- [Antalgie des douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}})
+- [Antalgie des douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}})
   - Antidépresseur tricyclique (amitriptyline) ou IRSNA (duloxétine), antiépileptique (gabapentine)
   - Stimulation percutanée du nerf tibial postérieur
 - Kinésithérapie, ostéopathie (Orphanet)

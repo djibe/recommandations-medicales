@@ -69,7 +69,7 @@ VADS
 - Dyspnée d'effort
 - Hémoptysie
 - Apparition/modification de la toux chez un fumeur
-- [Dysphonie]({{< relref "dysphonie.md" >}})
+- [Dysphonie]({{% relref "dysphonie.md" %}})
 - Dysphagie
 - Fausses routes
 - Adénopathie(s) cervicale(s) suspecte(s)
@@ -87,11 +87,11 @@ Causes fréquentes de toux chronique devant être éliminées:
   - Autres  
     ARA2, bêtabloquants, interféron alpha 2b, thérapeutiques inhalées.
   - Plus rares  
-    Morphine et dérivés, [méthotrexate]({{< relref "methotrexate.md" >}}).
-- [Coqueluche]({{< relref "coqueluche.md" >}})  
+    Morphine et dérivés, [méthotrexate]({{% relref "methotrexate.md" %}}).
+- [Coqueluche]({{% relref "coqueluche.md" %}})  
   Contage, toux quinteuse émétisante, spasmes laryngés, intensité croissante et sans amélioration à J21.
 - Tabac, cannabis  
-  Toux irritative, **[BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})** ou **cancer des VADS**.
+  Toux irritative, **[BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}})** ou **cancer des VADS**.
 
 Autres causes de toux à éliminer (par ordre anatomique):
 
@@ -104,14 +104,14 @@ Autres causes de toux à éliminer (par ordre anatomique):
     Affections du conduit auditif externe exceptionnels.
 - Cause bronchopulmonaire
   - Inhalations de tabac, cannabis, polluants et aérosols
-  - [Cancer bronchique]({{< relref "cancer-poumon.md" >}}): toux avec hémoptysie
-  - [Asthme]({{< relref "asthme.md" >}}): toux avec sifflements thoraciques épisodiques
+  - [Cancer bronchique]({{% relref "cancer-poumon.md" %}}): toux avec hémoptysie
+  - [Asthme]({{% relref "asthme.md" %}}): toux avec sifflements thoraciques épisodiques
   - Dilatation des bronches: toux avec expectoration muqueuse matinale et purulente
-- [Reflux]({{< relref "reflux-gastro-oesophagien.md" >}})  
+- [Reflux]({{% relref "reflux-gastro-oesophagien.md" %}})  
   Symptômes digestifs hauts inconstants (reflux absent dans 50-75% des cas de toux chronique liée à un RGO). Voire dysphagie.
 - Cardiologique
   - Toux à l'effort ou au décubitus avec dyspnée
-  - Souffle, trouble du rythme, signes d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [angor]({{< relref "syndrome-coronarien-chronique.md" >}})
+  - Souffle, trouble du rythme, signes d'[insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), [angor]({{% relref "syndrome-coronarien-chronique.md" %}})
 - Cause allergique
 - Cause comportementale
   - Exclusion de tous les diagnostics ci-dessus
@@ -135,7 +135,7 @@ Ensemble de signes et symptômes à rechercher pour étayer une toux chronique:
   - Retentissement physique ou psychosocial
   - Toux insomniante, émétisante, asthéniante
   - Fractures de côte, douleur musculaire aiguë, révélation/majoration de hernie ou prolapsus
-  - Incontinence urinaire ([de la femme]({{< relref "incontinence-urinaire-femme.md" >}})), céphalées, perte de connaissance
+  - Incontinence urinaire ([de la femme]({{% relref "incontinence-urinaire-femme.md" %}})), céphalées, perte de connaissance
   - Autres: hémorragie sous-conjonctivale, bradycardie, tachyarythmie
 - Signes de gravité (voir chapitre ci-dessus)
 - Caractères de la toux
@@ -146,11 +146,11 @@ Ensemble de signes et symptômes à rechercher pour étayer une toux chronique:
 
 #### Orientation étiologique
 
-- [Asthme]({{< relref "asthme.md" >}})  
+- [Asthme]({{% relref "asthme.md" %}})  
   Toux spasmodique, nocturne, au froid ou brouillard, à l'exercice.
 - Rhinite  
   Antécédents de sinusite, rhinorrhée postérieure, hemmage, écoulement ou obstruction nasal, troubles de l'odorat.
-- [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})  
+- [Reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}})  
   Après le repas ou penché en avant.
 
 La toux peut être multifactorielle.
@@ -185,7 +185,7 @@ Avis spécialisé sauf précision pour les éléments suivants:
 
 - Médicamenteuse  
   Arrêt du médicament suspecté. Cesse dans les 4-6 semaines si IEC. Réévaluation au terme de la fenêtre thérapeutique.
-- [Coqueluche]({{< relref "coqueluche.md" >}})  
+- [Coqueluche]({{% relref "coqueluche.md" %}})  
   PCR dans les premières semaines d'évolution.
 - Fumeur  
   - Débutant: En profiter pour le sevrage tabagique (aggravation initiale)
@@ -197,7 +197,7 @@ Avis spécialisé sauf précision pour les éléments suivants:
   - Autre: avis ORL
 - RGO
   - EOGD si signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive), âge > 50 ans, résistance aux IPP ou rechute précoce à l'arrêt
-  - Sinon [RHD + oméprazole 10 mg/j 2 mois]({{< relref "reflux-gastro-oesophagien.md" >}})
+  - Sinon [RHD + oméprazole 10 mg/j 2 mois]({{% relref "reflux-gastro-oesophagien.md" %}})
 - Allergique  
   Tests multi-allergéniques et avis allergologique si positifs.
 - Comportementale  

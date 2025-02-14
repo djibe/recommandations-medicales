@@ -28,7 +28,7 @@ todo = "SEO 'sevrage alcoolique has', simplifier, remarques mail, KEY x3 sevrage
 2. Évaluer la consommation d'alcool: score *AUDIT-C* et recherche de comorbidités (voir *Évaluation*)
 3. Intervention brève pour favoriser l'engagement dans une réduction de la consommation d'alcool, encourager à noter la consommation quotidienne
 4. Évaluer les situations sociale, familiale et professionnelle ...
-5. et dépister les complications liées à l'alcool (somatiques, [Mon soutien psy]({{< relref "remboursement-psychologue-monsoutienpsy.md" >}}), dépression, anxiété) et les co-addictions (tabac, cannabis)
+5. et dépister les complications liées à l'alcool (somatiques, [Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}), dépression, anxiété) et les co-addictions (tabac, cannabis)
 6. Donner la liste des associations et des consultations (voir *Information du patient*)
 
 - 0 alcool pendant la grossesse et chez les enfants
@@ -273,14 +273,14 @@ En cas d'alcoolodépendance, le suivi spécialisé est préférable.
 Rechercher les complications d'un mésusage de l'alcool et proposer un suivi spécialisé alcoologique.
 
 - Autres addictions  
-  [Tabac]({{< relref "arret-tabac.md" >}}) 65%, cannabis (10%), opiacés...
+  [Tabac]({{% relref "arret-tabac.md" %}}) 65%, cannabis (10%), opiacés...
 - Complications sociales
   - Travail, contrat, formation
   - Foyer, famille, entourage
   - Finances, hébergement
   - Violences, judiciaire
 - Complications psychiatriques
-  - Anxiété, [dépression]({{< relref "depression.md" >}})
+  - Anxiété, [dépression]({{% relref "depression.md" %}})
   - Troubles du sommeil
   - Troubles de la personnalité (anti-sociale, borderline) ou bipolaire  
     Évaluation nécessite consommation à faible risque pendant 15 jours.
@@ -295,9 +295,9 @@ Rechercher les complications d'un mésusage de l'alcool et proposer un suivi sp�
   - Érythrose du visage, hyperémie conjonctivale
   - Troubles digestifs
   - Maladie du foie liée à l'alcool (MFLA)  
-    Stéatose > [stéato-hépatite]({{< relref "steatose-hepatique-et-nash.md" >}}) (90% des buveurs excessifs) > cirrhose (10-20% des buveurs excessifs).
+    Stéatose > [stéato-hépatite]({{% relref "steatose-hepatique-et-nash.md" %}}) (90% des buveurs excessifs) > cirrhose (10-20% des buveurs excessifs).
   - Polynévrite
-  - Dépister une [dénutrition]({{< relref "denutrition.md" >}}) ({{< modal-btn modal-mna >}}questionnaire MNA{{< /modal-btn >}})
+  - Dépister une [dénutrition]({{% relref "denutrition.md" %}}) ({{< modal-btn modal-mna >}}questionnaire MNA{{< /modal-btn >}})
 
 ### Bilan complémentaire
 
@@ -307,14 +307,14 @@ Le bilan biologique est annuel:
 - ASAT, ALAT, GGT, PAL
 - TP, bilirubinémie
 - Albuminémie
-- Sérologies [hépatite B]({{< relref "hepatite-b.md" >}}) et [hépatite C]({{< relref "hepatite-c.md" >}})
+- Sérologies [hépatite B]({{% relref "hepatite-b.md" %}}) et [hépatite C]({{% relref "hepatite-c.md" %}})
 - Sérologie VIH si expositions à risque
 - Occasionnel: glycémie à jeun et bilan lipidique
 - Mésusage et +40 ans: élastographie hépatique ou test non invasif biologique (Fibrotest® ou Fibromètre Alcool®)  
   Interprétation des résultats selon les taux d'ASAT et bilirubine (voir plus bas).
 - Consultation ORL
 - Consultation dentaire
-- Troubles neurologiques: bilan de [dénutrition]({{< relref "denutrition.md" >}}) et carences (B1 ++)
+- Troubles neurologiques: bilan de [dénutrition]({{% relref "denutrition.md" %}}) et carences (B1 ++)
 
 ### Maladie du foie liée à l'alcool (MFLA)
 
@@ -328,7 +328,7 @@ ET/OU consommation déclarée ≥ 14 verres/semaine
 
 #### Critères diagnostiques de la maladie du foie liée à l'alcool
 
-**Diagnostic de MFLA devant: mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, [GGT augmentées]({{< relref "augmentation-gamma-gt.md" >}}), élimination des autres hépatopathies.**  
+**Diagnostic de MFLA devant: mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, [GGT augmentées]({{% relref "augmentation-gamma-gt.md" %}}), élimination des autres hépatopathies.**  
 En cas de MFLA: test non invasif de fibrose hépatique systématique (**élastographie ou biologique: Fibrotest® ou Fibromètre Alcool®**), arrêt du tabac et correction d'un surpoids, **suivi addictologique spécialisé**.
 
 Un bilan hépatique normal permet d'exclure une MFLA significative à court terme.  
@@ -371,9 +371,9 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
   - [Annuaire des CSAPA, addictologues, hôpitaux](https://www.addictaide.fr/annuaire/)
 - Livret d'information  
   Maladie alcoolique, sevrage, intérêt de l'accompagnement, coordonnées des acteurs.
-- hépatoprotection: vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) et [hépatite B]({{< relref "hepatite-b.md" >}}) (après sérologie négative)
+- hépatoprotection: vaccination [hépatite A]({{% relref "hepatite-a.md" %}}) et [hépatite B]({{% relref "hepatite-b.md" %}}) (après sérologie négative)
 - Intervention psychosociale
-  - Soutien psychologique ([remboursés sur ordonnance]({{< relref "remboursement-psychologue-monsoutienpsy.md" >}}))
+  - Soutien psychologique ([remboursés sur ordonnance]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}))
   - Renforcement de la motivation au changement
   - **Mouvements d'entraide** (voir *Information du patient*)
   - Évaluation du risque suicidaire
@@ -387,7 +387,7 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
 - Médecin du travail
 - Conseils diététiques  
   Appétence sucrée marquée au sevrage.
-- [ALD n°23]({{< relref "affection-longue-duree.md" >}}) ± MDPH  
+- [ALD n°23]({{% relref "affection-longue-duree.md" %}}) ± MDPH  
   Critères: trouble addictif grave de plus d'un an avec des conséquences fonctionnelles majeures.
 
 ### Vitamines dans le sevrage alcoolique
@@ -404,7 +404,7 @@ Supplémentation systématique en vitamines chez le sujet alcoolodépendant:
 
 - Lutte contre les facteurs de rechute
 - Consommation: VGM et GGT à 3, 6 et 12 mois
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - Rechute: rassurer et déculpabiliser
 
 {{% /collapse %}}
@@ -442,7 +442,7 @@ L'abstinence est la cible en complication somatique (cirrhose ++).
 
 #### Prévention du syndrome de sevrage alcoolique (SSA)
 
-Recours aux **[benzodiazépines à demi-vie longue]({{< relref "benzodiazepines.md" >}})** type **diazépam** pendant max 5-10 jours (*SFA 2023*).  
+Recours aux **[benzodiazépines à demi-vie longue]({{% relref "benzodiazepines.md" %}})** type **diazépam** pendant max 5-10 jours (*SFA 2023*).  
 Patient âgé (≥ 75 ans) ou cirrhotique: oxazépam ou lorazépam en diminuant la dose 30-50%.
 
 > [!INFO]

@@ -33,9 +33,9 @@ flowchart = true
 {{%collapse "Définition" %}}
 
 Cholangite sclérosante primitive (CSP)
-: Maladie cholestatique chronique rare et complexe atteignant l'adulte (homme jeune ++) et l'enfant et associée dans 2/3 des cas à une maladie inflammatoire chronique de l'intestin (MICI, RCH surtout). Elle peut être associée à une [hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) (dit *syndrome de chevauchement*).
+: Maladie cholestatique chronique rare et complexe atteignant l'adulte (homme jeune ++) et l'enfant et associée dans 2/3 des cas à une maladie inflammatoire chronique de l'intestin (MICI, RCH surtout). Elle peut être associée à une [hépatite auto-immune]({{% relref "hepatite-autoimmune.md" %}}) (dit *syndrome de chevauchement*).
 : Elle est caractérisée par une atteinte inflammatoire et fibrosante des voies biliaires intra et/ou extra-hépatiques (probablement dysimmunitaire). L'évolution est très variable mais potentiellement **grave**.
-: La gravité de la cholangite sclérosante primitive est liée au risque élevé de cirrhose et de **cholangiocarcinome** (CCK, 1 %/an et possible au diagnostic) dont le diagnostic précoce est difficile. Enfin, la MICI fréquemment associée ajoute un risque élevé de [cancer du côlon]({{< relref "cancer-colorectal.md" >}}).
+: La gravité de la cholangite sclérosante primitive est liée au risque élevé de cirrhose et de **cholangiocarcinome** (CCK, 1 %/an et possible au diagnostic) dont le diagnostic précoce est difficile. Enfin, la MICI fréquemment associée ajoute un risque élevé de [cancer du côlon]({{% relref "cancer-colorectal.md" %}}).
 : Les critères de gravité de la CSP sont: cliniques (cirrhose), biologiques (thrombopénie, PAL > 1,3, **hyperbilirubinémie**, hypoalbuminémie, TP bas), radiologiques (dysmorphie, HTP, élastométrie > 10 kPa). Survie de 18 voire 21 ans après le diagnostic dans les séries récentes (voir [Amsterdam-Oxford PSC Score](https://sorted.co/psc-calculator/)).
 
 ### Abréviations
@@ -90,20 +90,20 @@ Les signes et symptômes de la cholangite sclérosante primitive sont très vari
 - Traitements, automédication
 - Alcool, tabac, toxiques (kétamine)
 - Bilans hépatiques antérieurs
-- **Cholestase biologique**: [augmentation de la gamma-GT]({{< relref "augmentation-gamma-gt.md" >}}) (> 3N) + **PAL** (> 1,5 N, absentes chez 10%) ± bilirubine
+- **Cholestase biologique**: [augmentation de la gamma-GT]({{% relref "augmentation-gamma-gt.md" %}}) (> 3N) + **PAL** (> 1,5 N, absentes chez 10%) ± bilirubine
 - Cytolyse hépatique modérée souvent associée: ASAT et ALAT 2-3 N  
-  Rechercher une [hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) si > 5N (et IgG > 20 g/L).
+  Rechercher une [hépatite auto-immune]({{% relref "hepatite-autoimmune.md" %}}) si > 5N (et IgG > 20 g/L).
 - Symptômes
   - **Asymptomatique**
   - [Fatigue](/tags/fatigue/)  
     Non corrélée à la sévérité initiale de la maladie.
-  - [Prurit]({{< relref "prurit.md" >}})
-  - [Ictère]({{< relref "ictere.md" >}}) (maladie avancée)
+  - [Prurit]({{% relref "prurit.md" %}})
+  - [Ictère]({{% relref "ictere.md" %}}) (maladie avancée)
   - Pesanteur ou douleurs de l'hypochondre droit
-  - Symptômes de MICI: douleurs abdominales, [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
+  - Symptômes de MICI: douleurs abdominales, [diarrhée chronique]({{% relref "diarrhee-chronique.md" %}})
 - Qualité de vie
 - Rechercher des comorbidités:  
-  [Raynaud]({{< relref "phenomene-raynaud.md" >}}), syndrome de Gougerot-Sjögren (sécheresses muqueuses), sclérodermie (CREST syndrome), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}).
+  [Raynaud]({{% relref "phenomene-raynaud.md" %}}), syndrome de Gougerot-Sjögren (sécheresses muqueuses), sclérodermie (CREST syndrome), [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}).
 
 ### Examen clinique
 
@@ -116,7 +116,7 @@ Les signes et symptômes de la cholangite sclérosante primitive sont très vari
   {{< clinique/hypertension-portale >}}
 - Signes d'insuffisance hépatocellulaire  
   {{< clinique/insuffisance-hepato-cellulaire >}}
-- [Splénomégalie]({{< relref "splenomegalie.md" >}})
+- [Splénomégalie]({{% relref "splenomegalie.md" %}})
 - Examen général
 
 {{% /collapse %}}
@@ -144,16 +144,16 @@ Le bilan complémentaire après le diagnostic de cholangite sclérosante primiti
 
 - **Élastométrie hépatique** (ou élastométrie impulsionnelle, élastographie)
 - [TSH](/tags/tsh/)
-- IgG4 sériques, [anticorps anti-mitochondries]({{< relref "cholangite-biliaire-primitive.md" >}})
-- [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}): IgA totales, IgA anti-transglutaminase
-- [Vitamine D]({{< relref "vitamine-d.md" >}})
-- [Ostéodensitométrie]({{< relref "osteoporose.md" >}})
+- IgG4 sériques, [anticorps anti-mitochondries]({{% relref "cholangite-biliaire-primitive.md" %}})
+- [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}): IgA totales, IgA anti-transglutaminase
+- [Vitamine D]({{% relref "vitamine-d.md" %}})
+- [Ostéodensitométrie]({{% relref "osteoporose.md" %}})
 - Coloscopie avec biopsies  
   Si MICI absente, recherche de cholangite sclérosante secondaire: IgG, IgM, anticorps anti-nucléaires, anti-muscle lisse (*SNFGE*).
 - Si thrombopénie: EOGD
 - Si suspicion de cholangiocarcinome (CSP des gros canaux avec détérioration clinique ou sténose biliaire serrée): IRM biliaire avec injection et CA 19-9
 - Polype vésiculaire ≥ 8 mm: cholécystectomie
-- Si ALAT > 5N et/ou IgG > 1,5 N: rechercher une [hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}})
+- Si ALAT > 5N et/ou IgG > 1,5 N: rechercher une [hépatite auto-immune]({{% relref "hepatite-autoimmune.md" %}})
 
 #### Cholangio-IRM 3D
 
@@ -165,7 +165,7 @@ L'échoendoscopie peut aider à préciser l'épaississement de la paroi des voie
 
 ### Ponction-biopsie hépatique (PBH)
 
-La **ponction-biopsie hépatique** est le plus souvent dispensable sauf suspicion d'[hépatite auto-immune]({{< relref "hepatite-autoimmune.md" >}}) associée (transaminases > 5 N et IgG > 20 g/L), cholangite des petits canaux (cholangio-IRM normale) ou de doute diagnostique.
+La **ponction-biopsie hépatique** est le plus souvent dispensable sauf suspicion d'[hépatite auto-immune]({{% relref "hepatite-autoimmune.md" %}}) associée (transaminases > 5 N et IgG > 20 g/L), cholangite des petits canaux (cholangio-IRM normale) ou de doute diagnostique.
 
 #### Coloscopie
 
@@ -179,7 +179,7 @@ La prise en charge de la cholangite sclérosante primitive est spécialisée par
 
 Mesures générales de prise en charge de la cholangite sclérosante primitive (CSP):
 
-- Déclarer l'[ALD n°6]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°6]({{% relref "affection-longue-duree.md" %}})
 - Hépatoprotection
   - Arrêt du tabac et de l'alcool
   - Correction d'un surpoids
@@ -213,7 +213,7 @@ La survie est bonne (91% à 1 an et 85% à 5 ans) mais les récidives sont fréq
 
 Le suivi de la cholangite sclérosante primitive est spécialisé au centre de compétence ([annuaire des centres de compétence](https://www.filfoie.com/ou-consulter/carte-interactive/?fwp_type_de_public=adulte&fwp_rseau_centre=mivb-h)), il est au moins annuel:
 
-- Symptômes: [fatigue](/tags/fatigue/), [prurit]({{< relref "prurit.md" >}}), ictère
+- Symptômes: [fatigue](/tags/fatigue/), [prurit]({{% relref "prurit.md" %}}), ictère
 - Biologie: ASAT, ALAT, GGT, **PAL**, **bilirubine** totale et conjuguée, TP
 - Radiologie: cholangio-IRM annuelle
 - Élastométrie: annuelle (tous les 2 ans si peu évoluée)

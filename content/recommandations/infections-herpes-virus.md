@@ -52,7 +52,7 @@ Herpès génital
 : Infection sexuellement transmissible fréquente à virus *herpes simplex* le plus souvent de type 2 (HSV-2 -- 60 à 80 %). La contamination a principalement lieu par excrétion virale asymptomatique (50 à 90 %).
 : L'herpès génital est la première cause d'ulcère génital, est un risque d'herpès néonatal et altère significativement la qualité de vie.
 : Une atteinte génitale par HSV-1 est moins contagieuse et avec des récurrences plus faibles. Les co-infections génitales HSV1 et HSV2 sont exceptionnelles.
-: Prévalence d'HSV-2 (2002): 18% des femmes et 14% des hommes, proche de 50% chez les [PVVIH]({{< relref "vih-sida.md" >}}) et non diagnostiqué pour 70%.
+: Prévalence d'HSV-2 (2002): 18% des femmes et 14% des hommes, proche de 50% chez les [PVVIH]({{% relref "vih-sida.md" %}}) et non diagnostiqué pour 70%.
 
 Herpès néonatal
 : Infection grave du nourrisson par contamination génitale durant l'accouchement, par voie hématogène placentaire ou salivaire, le plus souvent par HSV-2. Les symptômes sont retardés entre J5 et J12 de vie et le risque de décès ou de séquelles neuro-sensorielles sévères est très élevé.
@@ -117,7 +117,7 @@ PVVIH
 - Date de début des symptômes et prodromes
 - Éruption vésiculeuse en bouquets
 - Examen des autres muqueuses et neurologique
-- Atteinte génitale: [repérage de violences]({{< relref "violences-femmes.md" >}})
+- Atteinte génitale: [repérage de violences]({{% relref "violences-femmes.md" %}})
 
 > Durant la primo-infection herpétique symptomatique, l'évolution se fait sur 7 à 14 jours. La cicatrisation complète (sans cicatrices) est spontanée sous 4 à 6 semaines.
 
@@ -129,9 +129,9 @@ Tableau de la **gingivostomatite herpétique** lors de la primo-infection sympto
 - **Éruption ulcéreuse** et douloureuse buccogingivale diffuse  
   Risque de déshydratation.
 - Autres signes: adénopathies sous-maxillaires, hypersialorrhée, haleine fétide
-- Diagnostic différentiel: syndrome pied-main-bouche, [syphilis secondaire]({{< relref "syphilis.md" >}}), érythème polymorphe, syndrome de Stevens-Johnson, aphtose, herpangine
+- Diagnostic différentiel: syndrome pied-main-bouche, [syphilis secondaire]({{% relref "syphilis.md" %}}), érythème polymorphe, syndrome de Stevens-Johnson, aphtose, herpangine
 
-Diagnostic différentiel des récidives d'herpès oro-facial: [impétigo]({{< relref "infection-cutanee-bacterienne.md" >}}), [acné]({{< relref "acne.md" >}}), [furoncle]({{< relref "infection-cutanee-bacterienne.md" >}}), eczéma, [perlèche]({{< relref "mycoses-dermatophytes-candidoses.md" >}}).
+Diagnostic différentiel des récidives d'herpès oro-facial: [impétigo]({{% relref "infection-cutanee-bacterienne.md" %}}), [acné]({{% relref "acne.md" %}}), [furoncle]({{% relref "infection-cutanee-bacterienne.md" %}}), eczéma, [perlèche]({{% relref "mycoses-dermatophytes-candidoses.md" %}}).
 
 ### B) Clinique de l'herpès génital
 
@@ -168,7 +168,7 @@ Des **atteintes organiques** sont exceptionnelles chez l'immunocompétent: œsop
 
 #### Syndrome de Kaposi-Juliusberg
 
-Surinfection herpétique des lésions de [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), le plus souvent chez le **nourrisson**:
+Surinfection herpétique des lésions de [dermatite atopique]({{% relref "dermatite-atopique.md" %}}), le plus souvent chez le **nourrisson**:
 
 - Atopie en poussée
 - AEG, fièvre
@@ -297,7 +297,7 @@ L'herpès néonatal nécessite une **hospitalisation en urgence**.
 
 #### Prévention de l'herpès néonatal
 
-Le traitement d'un herpès génital pendant la [grossesse]({{< relref "grossesse.md" >}}) doit être immédiat (sans attendre les résultats des prélèvements si indiqués):
+Le traitement d'un herpès génital pendant la [grossesse]({{% relref "grossesse.md" %}}) doit être immédiat (sans attendre les résultats des prélèvements si indiqués):
 
 - Femme sans antécédent d'herpès génital avec conjoint porteur d'herpès génital/buccal: éviter tout contact sexuel/oro-génital
 - **Primo-infection** ou **récurrence** d'herpès génital pendant la grossesse:
@@ -314,14 +314,14 @@ Le traitement d'un herpès génital pendant la [grossesse]({{< relref "grossesse
 
 Pas de traitement suppressif en fin de grossesse en l'absence d'épisode d'herpès génital durant la grossesse.
 
-L'[allaitement]({{< relref "allaitement.md" >}}) est contre-indiqué en cas de lésion herpétique mammaire ou mamelonnaire chez la mère.
+L'[allaitement]({{% relref "allaitement.md" %}}) est contre-indiqué en cas de lésion herpétique mammaire ou mamelonnaire chez la mère.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la kératite herpétique" %}}
 
 La kérato-conjonctivite herpétique (herpès oculaire) est une **urgence médicale**:
 
-- [Avis ophtalmologique en urgence]({{< relref "urgences-ophtalmologiques.md" >}})
+- [Avis ophtalmologique en urgence]({{% relref "urgences-ophtalmologiques.md" %}})
 - [Aciclovir pommade ophtalmique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68401067&typedoc=R) 30 mg/g x 5/j pendant 5-10 jours
 - Contre-indication aux corticoïdes et anesthésiques locaux
 

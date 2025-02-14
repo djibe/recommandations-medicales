@@ -27,7 +27,7 @@ todo = "rankok, flowchart; gitgraph: Continu femme, Schéma continu homme, Sché
 {{%article-summary%}}
 
 - Toutes les personnes exposées au VIH sont éligibles à la prophylaxie pré-exposition (PrEP) du VIH et doivent en être informées
-- La PrEP est gratuite, bien tolérée et prescriptible par tout médecin. Elle protège du [VIH]({{< relref "vih-sida.md" >}}) mais pas des autres [infections sexuellement transmissibles](/tags/ist/): encourager le préservatif
+- La PrEP est gratuite, bien tolérée et prescriptible par tout médecin. Elle protège du [VIH]({{% relref "vih-sida.md" %}}) mais pas des autres [infections sexuellement transmissibles](/tags/ist/): encourager le préservatif
 - Vérifier les rares contre-indications et réaliser le bilan pré-thérapeutique (voir chapitres dédiés): [check-list ANSM pour le prescripteur (PDF)](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-checklist-pds-version3-2021-juin.pdf)
 - Prescription initiale de l'emtricitabine/tenofovir disoproxil 200/245 mg (Truvada®, certains gén) limitée à 1 mois avec sérologie VIH de moins de 15 jours, puis tous les 3 à 6 mois
 - Schéma continu
@@ -86,9 +86,9 @@ VIH
 {{%collapse "Indications de la PrEP" %}}
 
 {{%info%}}
-**Toutes les personnes exposées au [VIH]({{< relref "vih-sida.md" >}})** doivent être informées qu'elles peuvent en bénéficier et qu'elle est très efficace pour se prémunir d'une infection à VIH.
+**Toutes les personnes exposées au [VIH]({{% relref "vih-sida.md" %}})** doivent être informées qu'elles peuvent en bénéficier et qu'elle est très efficace pour se prémunir d'une infection à VIH.
 
-La PrEP protège du [VIH]({{< relref "vih-sida.md" >}}) mais pas des autres [IST](/tags/ist/) et à la différence du préservatif, elle ne permet pas non plus d'assurer une contraception.
+La PrEP protège du [VIH]({{% relref "vih-sida.md" %}}) mais pas des autres [IST](/tags/ist/) et à la différence du préservatif, elle ne permet pas non plus d'assurer une contraception.
 
 << Tout médecin peut prescrire la PrEP du VIH >> (*HAS 2024*). Sinon adresser en {{< references/cegidd >}}, *COREVIH* régional ou centre spécialisé.
 {{%/info%}}
@@ -117,17 +117,17 @@ Tout sujet de plus de 12 ans:
 La PrEP n'est pas indiquée pour le conjoint d'un couple stable exclusif avec charge virale VIH indétectable régulièrement contrôlée.
 {.alert .alert-info}
 
-Possible si: [infection hépatite B]({{< relref "hepatite-b.md" >}}) (avis de l'hépatologue), grossesse ou allaitement avec suivi coordonné, [contraception hormonale]({{< relref "contraception.md" >}}).
+Possible si: [infection hépatite B]({{% relref "hepatite-b.md" %}}) (avis de l'hépatologue), grossesse ou allaitement avec suivi coordonné, [contraception hormonale]({{% relref "contraception.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Contre-indications à la PrEP" %}}
 
 {{%warning%}}
 
-- [Personne vivant avec le VIH (PVVIH)]({{< relref "vih-sida.md" >}})
+- [Personne vivant avec le VIH (PVVIH)]({{% relref "vih-sida.md" %}})
 - **Statut VIH inconnu**
 - Signes ou symptômes de primo-infection VIH
-- [Insuffisance rénale modérée]({{< relref "insuffisance-renale-chronique.md" >}}) < 50 mL/min/1,73m²  
+- [Insuffisance rénale modérée]({{% relref "insuffisance-renale-chronique.md" %}}) < 50 mL/min/1,73m²  
   Préférer la PrEP discontinue dès un DFG de 60.
 - Hypersensibilité au traitement
 - Schéma discontinu:
@@ -146,17 +146,17 @@ Bilan avant l'instauration de la PrEP, en l'absence de suspicion de primo-infect
 - Sérologie VIH de moins de 15 jours
 - Créatininémie et clairance CKD-EPI
 - Autres (ne modifiant pas la prescription)
-  - Sérologie VHA + [rattrapage vaccinal]({{< relref "hepatite-a.md" >}})
-  - Sérologie VHB: Ag HBs, anticorps anti-HBs, anticorps anti-HBc + [rattrapage vaccinal]({{< relref "hepatite-b.md" >}})
+  - Sérologie VHA + [rattrapage vaccinal]({{% relref "hepatite-a.md" %}})
+  - Sérologie VHB: Ag HBs, anticorps anti-HBs, anticorps anti-HBc + [rattrapage vaccinal]({{% relref "hepatite-b.md" %}})
   - Sérologie VHC
-  - Sérologie [syphilis]({{< relref "syphilis.md" >}})
-  - Prélèvements pharyngés, rectaux et vaginal (femme) ou 1er jet d'urines (homme): PCR gonocoque + *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})*
+  - Sérologie [syphilis]({{% relref "syphilis.md" %}})
+  - Prélèvements pharyngés, rectaux et vaginal (femme) ou 1er jet d'urines (homme): PCR gonocoque + *[Chlamydia]({{% relref "chlamydia-trachomatis.md" %}})*
   - ALAT
   - Phosphatémie
   - Femme sans contraception: ßHCG
 - Interrogatoire: violences sexuelles, chemsex
 
-**NB.** Rattrapage de la [vaccination HPV]({{< relref "cancer-col-uterus.md" >}}) chez l'HSH jusqu'à 26 ans.
+**NB.** Rattrapage de la [vaccination HPV]({{% relref "cancer-col-uterus.md" %}}) chez l'HSH jusqu'à 26 ans.
 
 {{% /collapse %}}
 {{%collapse "Prescrire la PrEP" %}}
@@ -218,7 +218,7 @@ Traitement initial pour 30 jours puis renouvellements tous les 3 mois.
 
 Autres éléments sur la prophylaxie pré-exposition:
 
-- Avis infectiologique si [co-infection VHB]({{< relref "hepatite-b.md" >}})
+- Avis infectiologique si [co-infection VHB]({{% relref "hepatite-b.md" %}})
 - Éviter au maximum les néphrotoxiques (AINS)
 - Absence d'interactions avec contraceptifs, antidépresseurs, alcool et psychoactifs
 - Adolescent: intérêt de suivi en {{< references/cegidd >}} pour anonymat et suivi rapproché spécialisé
@@ -265,7 +265,7 @@ Quel que soit le schéma: poursuivre 1 cp par jour pendant **2 jours** après le
 {{% /collapse %}}
 {{%collapse "Suivi de la PrEP" %}}
 
-Le suivi du patient avec PrEP est nécessaire tous les 2 à 6 mois. Le suivi est spécialisé en cas d'[hépatite B active]({{< relref "hepatite-b.md" >}}).
+Le suivi du patient avec PrEP est nécessaire tous les 2 à 6 mois. Le suivi est spécialisé en cas d'[hépatite B active]({{% relref "hepatite-b.md" %}}).
 {.alert .alert-info}
 
 {{< table title="Suivi de la PrEP orale tous les 2 à 6 mois. Schéma préconisé selon *HAS* et *ANSM*" >}}

@@ -37,7 +37,7 @@ Hypertension pulmonaire (HTP)
 : Ensemble de pathologies cardio-pulmonaires entraînant une augmentation progressive des *résistances vasculaires pulmonaires* (RVP) pouvant entraîner une insuffisance cardiaque droite.  
 Il s'agit d'une complication de plusieurs pathologies (par ordre de fréquence): cardiopathie gauche, insuffisance respiratoire chronique, séquelles d'embolie pulmonaire.
 : Diagnostic de certitude par cathétérisme cardiaque: PAPm > 20 mmHg au repos (*ESC 2022*).
-: La complication est la survenue d'une [insuffisance cardiaque droite]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (pronostic majeur).
+: La complication est la survenue d'une [insuffisance cardiaque droite]({{% relref "insuffisance-cardiaque-chronique.md" %}}) (pronostic majeur).
 
 Hypertension artérielle pulmonaire (HTAP)
 : Maladie rare caractérisée par des modifications importantes des artères pulmonaires de petit calibre (HTP pré-capillaire). Elle est le plus souvent idiopathique, mais peut avoir une origine médicamenteuse ou compliquant une autre pathologie.
@@ -77,8 +77,8 @@ Causes d'hypertension artérielle pulmonaire (HTAP):
 - Héréditaire
 - **Congénitale**
 - Secondaire à une pathologie générale  
-  Connectivite (sclérodermie), cirrhose et hypertension portale, [infection VIH]({{< relref "vih-sida.md" >}}), bilharziose...
-- Secondaire à une maladie respiratoire (**[BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})** +++)
+  Connectivite (sclérodermie), cirrhose et hypertension portale, [infection VIH]({{% relref "vih-sida.md" %}}), bilharziose...
+- Secondaire à une maladie respiratoire (**[BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}})** +++)
 - Secondaire à une cardiopathie gauche
 - Secondaire à une maladie thromboembolique chronique
 - Iatrogène (10% selon *Badesch DB 2010*)  
@@ -109,17 +109,17 @@ Les signes cliniques de l'HTAP sont peu spécifiques et doivent être évoqués 
   - Dyspnée chronique et d'aggravation progressive
 - [Asthénie et fatigue à l'effort](/tags/fatigue/)
 - Syncope et lipothymies (à l'effort)
-- [Angor]({{< relref "syndrome-coronarien-chronique.md" >}})
+- [Angor]({{% relref "syndrome-coronarien-chronique.md" %}})
 - Hémoptysie
 - Signes d'HTP: insuffisance tricuspide ou pulmonaire
-- Signes d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) droite
+- Signes d'[insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) droite
 {{%/info%}}
 
 ### Interrogatoire
 
 - Antécédents personnels  
-  - [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) et [TVP]({{< relref "thrombose-veineuse-profonde.md" >}}), cardiopathie congénitale, sclérodermie, [VIH]({{< relref "vih-sida.md" >}}), hypertension portale, bilharziose
-  - [Asthme]({{< relref "asthme.md" >}}), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), tabagisme
+  - [Embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}) et [TVP]({{% relref "thrombose-veineuse-profonde.md" %}}), cardiopathie congénitale, sclérodermie, [VIH]({{% relref "vih-sida.md" %}}), hypertension portale, bilharziose
+  - [Asthme]({{% relref "asthme.md" %}}), [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), tabagisme
 - Facteurs de risque cardiovasculaires
 - Antécédent familial d'HTAP
 - Traitements  
@@ -140,7 +140,7 @@ Les signes cliniques de l'HTAP sont peu spécifiques et doivent être évoqués 
   {{< clinique/insuffisance-cardiaque-droite >}}
 - Signes d'hypertension portale
 - Signes de sclérodermie  
-  [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), sclérodactylie, télangiectasies, calcifications sous-cutanées, ulcérations digitales, dysphagie, [dyspepsie]({{< relref "dyspepsie.md" >}}) ...
+  [Phénomène de Raynaud]({{% relref "phenomene-raynaud.md" %}}), sclérodactylie, télangiectasies, calcifications sous-cutanées, ulcérations digitales, dysphagie, [dyspepsie]({{% relref "dyspepsie.md" %}}) ...
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -176,21 +176,21 @@ C'est le **cathétérisme cardiaque** droit qui affirme le diagnostic. Il est r�
 
 - Anticorps anti-ADN natifs, anti-centromères
 - Échographie abdominale
-- [Épreuve d'effort]({{< relref "epreuve-effort.md" >}})
+- [Épreuve d'effort]({{% relref "epreuve-effort.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Traitement et surveillance de l'HTAP" %}}
 
 La prise en charge de l'hypertension artérielle pulmonaire (HTAP) relève uniquement du **centre de référence**. Le suivi est au moins annuel.
 
-- [ALD n°5]({{< relref "affection-longue-duree.md" >}})
+- [ALD n°5]({{% relref "affection-longue-duree.md" %}})
 - Observance et tolérance des traitements  
   Selon le type d'HTAP: anticalciques à forte dose, anticoagulation, diurétiques, IPDE5 (sildénafil, tadalafil) ...
 - Réhabilitation cardio-respiratoire
 - Oxygénothérapie longue durée si PaO~2~ < 60 mmHg
 - Suivi tous les 3-6 mois en état stable  
   WHO-FC, test de marche de 6 minutes, NT-proBNP, ECG, SpO2 ...
-- Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
+- Dépister des [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}})
 - Soutien psychologique
 - Vaccination: Covid, grippe, pneumocoque
 - [RespiFil - Le site de référence d'informations sur l'HTAP](https://respifil.fr/maladies/hypertension-pulmonaire/)

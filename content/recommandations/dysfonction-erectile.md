@@ -58,13 +58,13 @@ Dysfonction érectile (DE, *ex* impuissance)
 
 ### Facteurs de risque de dysfonction érectile indépendants de l'âge
 
-- [Diabète]({{< relref "diabete-type-2.md" >}})  
+- [Diabète]({{% relref "diabete-type-2.md" %}})  
   - 50% des diabétiques, risque multiplié par 4,5 et le trouble survient 10 à 15 ans plus tôt
   - La DE est l'indicateur le plus fiable de l'installation des complications viscérales et vasculaires (MCV x1,6)
   - 40% arrêtent le traitement antidiabétique pensant améliorer la DE
 - Pathologie cardiovasculaire
 - Troubles anxio-dépressifs
-- [Hypertrophie bénigne de prostate]({{< relref "hypertrophie-benigne-prostate.md" >}})
+- [Hypertrophie bénigne de prostate]({{% relref "hypertrophie-benigne-prostate.md" %}})
 - Psychotropes
 
 **NB.** L'association déficit androgénique - dysfonction érectile n'est pas clairement établie.
@@ -149,15 +149,15 @@ La persistance d'une capacité érectile résiduelle est un facteur de bon prono
 #### 5) Antécédents
 
 - Abdomino-pelviens  
-  [Cancer du testicule]({{< relref "cancer-testicule.md" >}}), traumatisme, chirurgie herniaire, cryptorchidie, radiothérapie.
+  [Cancer du testicule]({{% relref "cancer-testicule.md" %}}), traumatisme, chirurgie herniaire, cryptorchidie, radiothérapie.
 - Diabète, maladies neurologiques ou endocriniennes
 - Facteurs de risque et maladies cardiovasculaires
 - Traitements en cours  
   Bêtabloquant, finastéride, antidépresseur, antiépileptique ...
 - Sédentarité
 - Facteurs psycho-sociaux
-- Signes d'[hypertrophie prostatique]({{< relref "hypertrophie-benigne-prostate.md" >}})
-- Troubles du sommeil, [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
+- Signes d'[hypertrophie prostatique]({{% relref "hypertrophie-benigne-prostate.md" %}})
+- Troubles du sommeil, [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}})
 
 #### 6) Traitements en cours et psychotropes
 
@@ -169,7 +169,7 @@ La persistance d'une capacité érectile résiduelle est un facteur de bon prono
 
 #### 8) Maladie psychiatrique (et antécédent de dépression) et addictions (toxico/alcool/sexuelle)
 
-Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 - Anxiété de performance sexuelle (anxieux ++)
 - Éléments de vie positifs ou négatifs dans les 6 mois précédents l'apparition du trouble
@@ -191,9 +191,9 @@ Examen clinique annuel en cas de dysfonction érectile avec:
   - Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ou {{< scores/heartscore >}} en prévention primaire
   - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - Neurologique  
-  Centré sur les réflexes, sensibilité des pieds, anesthésie en selle et des membres inférieurs, [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}).
+  Centré sur les réflexes, sensibilité des pieds, anesthésie en selle et des membres inférieurs, [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}).
 
-Rechercher des signes de [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) (graisses faciotronculaires, fragilité cutanée, vergetures ...).
+Rechercher des signes de [syndrome de Cushing]({{% relref "syndrome-cushing.md" %}}) (graisses faciotronculaires, fragilité cutanée, vergetures ...).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -208,8 +208,8 @@ Rechercher des signes de [syndrome de Cushing]({{< relref "syndrome-cushing.md" 
 - Glycémie à jeun (sauf < 1 an) ou HbA~1c~
 - Bilan lipidique (sauf < 1 an)
 - PSA après 50 ans (ou 45 si antécédents familiaux)
-- Ferritinémie (voir [hémochromatose]({{< relref "hemochromatose.md" >}}))
-- Diabète type 2 ou suspicion de [déficit en testostérone]({{< relref "andropause-deficit-testosterone.md" >}}): testostéronémie libre ou biodisponible (*AFU/SFMS 2021*)  
+- Ferritinémie (voir [hémochromatose]({{% relref "hemochromatose.md" %}}))
+- Diabète type 2 ou suspicion de [déficit en testostérone]({{% relref "andropause-deficit-testosterone.md" %}}): testostéronémie libre ou biodisponible (*AFU/SFMS 2021*)  
   Le matin à jeun entre 8h et 11 heures.
 {{%/info%}}
 
@@ -221,7 +221,7 @@ Systématique en présence d'au moins 3 facteurs de risque cardiovasculaires (en
 
 ### EMG des membres inférieurs
 
-En cas de suspicion de neuropathie périphérique ([diabète ancien]({{< relref "diabete-type-2.md" >}}), [alcoolisme chronique]({{< relref "sevrage-alcool.md" >}})).
+En cas de suspicion de neuropathie périphérique ([diabète ancien]({{% relref "diabete-type-2.md" %}}), [alcoolisme chronique]({{% relref "sevrage-alcool.md" %}})).
 
 {{% /collapse %}}
 {{%collapse "Mesures générales" %}}
@@ -258,7 +258,7 @@ Une information adaptée peut parfois suffire.
 - Thiazidique. Remplacer par autre classe hors BB
 - Antidépresseurs: évaluer la DE avant le traitement (intrication)
   - Si DE pré-existante: IPDE5
-  - Si [dépression]({{< relref "depression.md" >}}) suivie par le psychiatre: avis du psychiatre pour adaptation thérapeutique
+  - Si [dépression]({{% relref "depression.md" %}}) suivie par le psychiatre: avis du psychiatre pour adaptation thérapeutique
   - Si dépression suivie par le médecin traitant et bien équilibrée: le switch est possible  
     Préférer moclobémide, agomélatine, duloxétine, milnacipran, mirtazapine, amineptine ou tianeptine  
     OU on peut toutefois préférer ajouter un IPDE5 au traitement en cours et le maintenir à posologie minimale efficace.
@@ -272,7 +272,7 @@ Un accompagnement par psycho-sexothérapie est possible en parallèle de la pres
 
 Bilan de la partenaire si problématique chez la partenaire suspectée.
 
-Diagnostic de [dépression]({{< relref "depression.md" >}}) au cours du bilan de dysfonction érectile avec le généraliste:
+Diagnostic de [dépression]({{% relref "depression.md" %}}) au cours du bilan de dysfonction érectile avec le généraliste:
 
 - Syndrome dépressif sévère apparu avant la DE  
   Traitement de la dépression uniquement.
@@ -299,7 +299,7 @@ Avis psychiatrique systématique si: dysfonction érectile primaire, pathologie 
 ### Contre-indications aux iPDE-5
 
 - Dérivés nitrés et donneurs de NO au long cours ou dans les 24h précédentes (48h pour tadalafil)
-- [Infarctus du myocarde récent]({{< relref "syndrome-coronarien-aigu.md" >}}) ou [angor instable]({{< relref "syndrome-coronarien-chronique.md" >}})
+- [Infarctus du myocarde récent]({{% relref "syndrome-coronarien-aigu.md" %}}) ou [angor instable]({{% relref "syndrome-coronarien-chronique.md" %}})
 - Accident cardiovasculaire < 6 mois
 - Insuffisance cardiaque sévère non contrôlée
 - Insuffisance hépatique sévère
@@ -324,7 +324,7 @@ Autres précautions:
 - Polymédication: contrôler les interactions
 - Insuffisance rénale: utiliser le dosage minimal
 - Déformation pénienne (Lapeyronie, sclérose des corps caverneux): avis urologique
-- Pathologie hématologique (drépanocytose, myélome, [leucémie]({{< relref "leucemie-aigue-adulte.md" >}})): avis hématologique
+- Pathologie hématologique (drépanocytose, myélome, [leucémie]({{% relref "leucemie-aigue-adulte.md" %}})): avis hématologique
 - Paraphilie, psychose instable: avis psychiatrique
 
 ### Effets indésirables des IPDE5
@@ -356,7 +356,7 @@ Autres IPDE5 à la demande: vardénafil, avanafil (Spedra®).
 
 Les IPDE5 ont une efficacité de 65 à 85% (52-72 % en cas de diabète et toujours élevée après prostatectomie) et le même profil de sécurité/tolérance.
 
-> En cas d'inefficacité des IPDE5, rechercher une [déficit en testostérone]({{< relref "andropause-deficit-testosterone.md" >}}).
+> En cas d'inefficacité des IPDE5, rechercher une [déficit en testostérone]({{% relref "andropause-deficit-testosterone.md" %}}).
 
 {{%info%}}
 
@@ -388,7 +388,7 @@ Les traitements suivants ne relèvent pas de la prise en charge du médecin trai
 - Hormones  
   Androgénothérapie, prescription initiale réservée aux endocrino/uro/gynécologues.
 
-L'association à une [éjaculation prématurée]({{< relref "ejaculation-prematuree.md" >}}) est fréquente et l'utilisation de dapoxétine (Priligy®) est possible.
+L'association à une [éjaculation prématurée]({{% relref "ejaculation-prematuree.md" %}}) est fréquente et l'utilisation de dapoxétine (Priligy®) est possible.
 
 {{% /collapse %}}
 {{%collapse "Suivi" %}}

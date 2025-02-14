@@ -26,7 +26,7 @@ flowchart = true
 {{%article-summary%}}
 
 - Dépister l'hypertension artérielle dès 3 ans, au moins tous les 3 ans après 40 ans (annuellement selon la *USPTF*, ⅓ des adultes sont hypertendus et les 3/4 ne sont pas contrôlés)
-- Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet* et [tensiomètres validés]({{< relref "tensiometres-electroniques-valides.md" >}}))
+- Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet* et [tensiomètres validés]({{% relref "tensiometres-electroniques-valides.md" %}}))
 - Confirmer le diagnostic par mesures et automesures / MAPA répétées, conserver le grade et le stade d'hypertension au diagnostic
 - Rechercher des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} {{< scores/heartscore >}} en prévention primaire pour déterminer le LDL cible
 - Traitement selon le grade d'hypertension (voir *Définitions*) et mesures hygiéno-diététiques systématiques
@@ -43,12 +43,12 @@ Hypertension artérielle
 : Le seuil de traitement est 14/9 **de 18 à 79 ans** et de 160 mmHg après 80 ans mais un seuil plus bas est à considérer. Chez le **sujet fragile**, les seuils sont individualisés.
 : Premier facteur de morbi-mortalité modifiable dans le monde.  
 La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance cardiaque, coronaropathie, AVC, fibrillation atriale, dégradation cognitive et démence.
-: La réduction de la systolique de 10 mmHg (et de 5 mmHg pour la diastolique) réduit le risque d'évènement cardiovasculaire de 20%, la mortalité de 10-15 %, le risque d'AVC de 35%, de SCA de 20%, d'insuffisance cardiaque de 40%. Le traitement allonge l'[espérance de vie]({{< relref "esperance-vie-age-france.md" >}}).
+: La réduction de la systolique de 10 mmHg (et de 5 mmHg pour la diastolique) réduit le risque d'évènement cardiovasculaire de 20%, la mortalité de 10-15 %, le risque d'AVC de 35%, de SCA de 20%, d'insuffisance cardiaque de 40%. Le traitement allonge l'[espérance de vie]({{% relref "esperance-vie-age-france.md" %}}).
 : 3/4 des patients ne sont pas contrôlés principalement par défaut d'**observance** (à 6 mois: 2/3 - 1 an: 50%) et **inertie du médecin**.
 
 Hypertension artérielle résistante
 : Pressions mesurées au cabinet ≥ 140/90 mmHg et confirmées au domicile par MAPA (AMT à défaut) malgré un traitement optimal et bien suivi avec RHD et au moins 3 traitements à doses maximales tolérées (IEC/ARA2, TZD, ICa). Concerne 10% des hypertendus.
-: Risques de l'hypertension résistante: augmentation des complications hypertensives, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) et événements cardiovasculaires.
+: Risques de l'hypertension résistante: augmentation des complications hypertensives, [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}) et événements cardiovasculaires.
 
 ### Grades de l'hypertension artérielle
 
@@ -179,7 +179,7 @@ Une mesure standardisée est nécessaire pour le contrôle des objectifs tension
   - Personne ne parle pendant et entre les mesures
   - Retrait de tous les vêtements de la zone de mesure
 - Technique validée
-  - **[Tensiomètre électronique validé uniquement]({{< relref "tensiometres-electroniques-valides.md" >}})** ou manuel chez l'enfant
+  - **[Tensiomètre électronique validé uniquement]({{% relref "tensiometres-electroniques-valides.md" %}})** ou manuel chez l'enfant
   - Brassard huméral validé et calibré régulièrement (annuel)
   - Bras nu posé sur le bureau
   - Le centre du brassard est posé en regard de l'artère brachiale et le milieu du brassard doit être au niveau du sternum médian
@@ -195,7 +195,7 @@ Une mesure standardisée est nécessaire pour le contrôle des objectifs tension
 - Dossier médical
   - Noter les valeurs systoliques et diastoliques dans le dossier médical
   - Noter l'heure de la dernière prise des antihypertenseurs
-- [Hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}})
+- [Hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}})
   - Rechercher si antihypertenseurs, signes évocateurs ou fragile (âgé, neurodégénératif, diabète)
   - Mesure au lever à 1 et 3 minutes
 - Moyenne des pressions  
@@ -212,14 +212,14 @@ En cas de discordance mesures au cabinet et automesure/MAPA, répéter les mesur
 
 ### Le tensiomètre électronique
 
-Voir les [tensiomètres validés]({{< relref "tensiometres-electroniques-valides.md" >}}) pour la mesure automatisée de la pression artérielle.
+Voir les [tensiomètres validés]({{% relref "tensiometres-electroniques-valides.md" %}}) pour la mesure automatisée de la pression artérielle.
 
 Le brassard est spécifique de chaque appareil.
 
 {{% /collapse %}}
 {{%collapse "Automesure tensionnelle" %}}
 
-[Le carnet d'automesure tensionnelle en PDF (international 2021)](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf) et les [appareils validés pour l'automesure tensionnelle]({{< relref "tensiometres-electroniques-valides.md" >}}).
+[Le carnet d'automesure tensionnelle en PDF (international 2021)](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf) et les [appareils validés pour l'automesure tensionnelle]({{% relref "tensiometres-electroniques-valides.md" %}}).
 
 L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hypertension en vie quotidienne et démasquer une hypertension masquée:
 
@@ -269,13 +269,13 @@ Chez l'enfant ou pendant la grossesse, un appareil validé spécifique est néce
 | +80 ans (min/max)   | 140-150/80<br>130-139/70-79 | ESH 2024 |
 | Fragilité           | Individualisé   | ESH 2024   |
 | HTA résistante      | idem générale   | ESH 2023   |
-| [AIT/AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) | idem générale | ESH 2023 |
-| [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) | 120-140/90 | ESC 2017 LEAD |
-| [Coronaropathie]({{< relref "syndrome-coronarien-chronique.md" >}}) | idem générale | ESH 2023   |
-| [Diabète]({{< relref "diabete-type-2.md" >}}) | idem générale<br>< 130/80 | ESH 2023<br>ADA 2023 |
-| [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) | idem générale | ESH 2023 |
-| [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | idem générale | ESH 2023 |
-| [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) | < 130/80<br>< 120/90 | ESH 2023<br>KDIGO 2021 |
+| [AIT/AVC]({{% relref "accident-vasculaire-cerebral.md" %}}) | idem générale | ESH 2023 |
+| [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) | 120-140/90 | ESC 2017 LEAD |
+| [Coronaropathie]({{% relref "syndrome-coronarien-chronique.md" %}}) | idem générale | ESH 2023   |
+| [Diabète]({{% relref "diabete-type-2.md" %}}) | idem générale<br>< 130/80 | ESH 2023<br>ADA 2023 |
+| [Fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}) | idem générale | ESH 2023 |
+| [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) | idem générale | ESH 2023 |
+| [Insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}) | < 130/80<br>< 120/90 | ESH 2023<br>KDIGO 2021 |
 | Greffe rénale       | < 130/80        | ESH 2023, KDIGO 2021 |
 | Grossesse           | < 140/90        | ESH 2023   |
 {{< /table >}}
@@ -289,14 +289,14 @@ Abaisser encore la cible systolique si bien tolérée sans passer sous 120/70 mm
 
 - Facteurs de risque d'hypertension
   - Antécédents personnels et familiaux  
-    Diabète, HTA, maladie cardiovasculaire, AIT/AVC, maladie rénale, [goutte]({{< relref "goutte.md" >}}), [pré-éclampsie]({{< relref "pre-eclampsie.md" >}}), [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}), [cancer](/tags/cancer/).
+    Diabète, HTA, maladie cardiovasculaire, AIT/AVC, maladie rénale, [goutte]({{% relref "goutte.md" %}}), [pré-éclampsie]({{% relref "pre-eclampsie.md" %}}), [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}), [cancer](/tags/cancer/).
   - Date du diagnostic de l'hypertension, valeurs au diagnostic, aggravation rapide
   - Traitements en cours, traitements essayés, observance
   - Tabagisme, drogues
   - Alimentation, sel
   - Alcool
   - Niveau d'activité physique, sédentarité
-  - [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})  
+  - [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}})  
     Aggravée par TZD et BB. IPDE5 sans risque sauf dérivés nitrés ou alpha-bloquant.
 - Signes cardiovasculaires
   - Céphalées, vertiges, syncopes, troubles de la vision, régression cognitive
@@ -313,15 +313,15 @@ Signes devant faire évoquer une hypertension secondaire et nécessitant une év
 - HTA d'apparition ou d'aggravation rapide
 - Antécédents d'infections urinaires récidivantes
 - Hypertension résistante
-- Hypertension artérielle sévère ou [maligne]({{< relref "hypertension-arterielle-maligne.md" >}})
+- Hypertension artérielle sévère ou [maligne]({{% relref "hypertension-arterielle-maligne.md" %}})
 - Multiples complications de l'hypertension
-- [Apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) ({{< modal-btn modal-saos >}}dépistage{{< /modal-btn >}})
+- [Apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) ({{< modal-btn modal-saos >}}dépistage{{< /modal-btn >}})
 - Drogues, corticoïdes, sprays nasaux, automédication, contraception, chimiothérapie, yohimbine, réglisse
 - Phéochromocytome  
   Épisodes répétés de sueurs - céphalées - palpitations.
 - Hyperaldostéronisme primaire  
   *Hypokaliémies* spontanées ou sous diurétiques, fatigue musculaire, tétanie.
-- [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}})  
+- [Syndrome de Cushing]({{% relref "syndrome-cushing.md" %}})  
   Faciès lunaire et rouge, obésité tronculaire et bosse de bison, fonte musculaire et fatigue, atrophie cutanée et ecchymoses faciles, vergetures pourpres, retard de cicatrisation, doigts très minces, hirsutisme, troubles de l'humeur, dysménorrhées, corticoïdes chroniques.
 - [Dysthyroïdie](/tags/tsh/)
 - Grossesse en cours ou contraception œstroprogestative (5% développent une HTA)
@@ -338,16 +338,16 @@ Dans l'attente de la MAPA: observance, automesures avec appareil validé, revér
 - Poids, taille, IMC, tour de taille
 - Pression artérielle, fréquence cardiaque
 - Comparaison de la pression artérielle aux 2 bras
-- Recherche d'une [hypotension orthostatique]({{< relref "hypotension-orthostatique.md" >}}) (systématique si +65 ans, diabète)
+- Recherche d'une [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}) (systématique si +65 ans, diabète)
 - Auscultation cardiaque, palpation et auscultation des trajets artériels
-- Si possible: [mesure de l'IPS]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
+- Si possible: [mesure de l'IPS]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}})
 - Examen neurologique
 - Bandelette urinaire
 - +65 ans: dépistage cognitif par {{< scores/mmse >}} ou MoCA ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf))
 - Signes d'hypertension secondaire
   - Tâches café au lait
   - Contact lombaire
-  - Signes d'un [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}), d'une [acromégalie]({{< relref "acromegalie.md" >}}) ou de [dysthyroïdie](/tags/tsh/)
+  - Signes d'un [syndrome de Cushing]({{% relref "syndrome-cushing.md" %}}), d'une [acromégalie]({{% relref "acromegalie.md" %}}) ou de [dysthyroïdie](/tags/tsh/)
 
 {{% /collapse %}}
 {{%collapse "Bilan initial de l'hypertension artérielle" %}}
@@ -371,10 +371,10 @@ Dans l'attente de la MAPA: observance, automesures avec appareil validé, revér
 Mesures hygiéno-diétetiques au long cours pour la prise en charge de l'hypertension artérielle:
 
 - Restriction sodée < 5 g/j (ou substituer par KCl)
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et réduction de la [consommation d'alcool]({{< relref "sevrage-alcool.md" >}})  
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) et réduction de la [consommation d'alcool]({{% relref "sevrage-alcool.md" %}})  
   < 2 verres/j/homme, < 1/j si femme.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} ou DASH
-- Correction d'un surpoids et d'une [obésité]({{< relref "obesite-adulte.md" >}}) abdominale (102 cm homme, 88 cm femme)  
+- Correction d'un surpoids et d'une [obésité]({{% relref "obesite-adulte.md" %}}) abdominale (102 cm homme, 88 cm femme)  
   Cible < 94 cm homme et 80 cm femme.
 - Activité physique quotidienne
   - Au moins 2h30 à 5h d'{{< modal-btn modal-met >}}intensité modérée{{< /modal-btn >}} hebdomadaire (ou la moitié d'intense)
@@ -396,7 +396,7 @@ La prise en charge de l'hypertension est toujours associée aux mesures hygiéno
 - Titration jusqu'à la dose maximale tolérée (diastolique minimale: 70 mmHg)
 - Aucune différence entre une prise le matin ou le soir (*étude TIME*) mais **observance meilleure le matin** (*ESH 2023*)
 - Pas d'arrêt du traitement sur le seul critère d'âge
-- Les bêtabloquants sont privilégiés en cas de maladie cardiovasculaire ([insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [angor]({{< relref "syndrome-coronarien-chronique.md" >}}), [infarctus]({{< relref "syndrome-coronarien-aigu.md" >}}), [FA]({{< relref "fibrillation-atriale.md" >}})) ou grossesse  
+- Les bêtabloquants sont privilégiés en cas de maladie cardiovasculaire ([insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), [angor]({{% relref "syndrome-coronarien-chronique.md" %}}), [infarctus]({{% relref "syndrome-coronarien-aigu.md" %}}), [FA]({{% relref "fibrillation-atriale.md" %}})) ou grossesse  
 - Suivi 1-2/mois jusqu'à la cible (*ESH 2023*) puis contrôle à 3-6 mois la première année
 - Suivi au long cours: 1-2/an si équilibrée (*ESH 2023*)
 - Intérêt de l'éducation thérapeutique pour maximiser l'observance
@@ -440,7 +440,7 @@ Chez l'insuffisant rénal sévère: IEC/ARA2 + ICa + diurétique de l'anse + chl
 
 En cas d'hypertension artérielle résistant, éliminer:
 
-Défaut d'observance, effet blouse blanche, mesures de PA non standardisées, {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}, calcifications des artères brachiales, inertie du médecin, consommation de sel, HTA secondaire, [maladie rénale]({{< relref "insuffisance-renale-chronique.md" >}}).
+Défaut d'observance, effet blouse blanche, mesures de PA non standardisées, {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}, calcifications des artères brachiales, inertie du médecin, consommation de sel, HTA secondaire, [maladie rénale]({{% relref "insuffisance-renale-chronique.md" %}}).
 
 ### Améliorer l'observance du traitement antihypertenseur
 
@@ -474,14 +474,14 @@ Particularités de l'hypertension artérielle pendant la grossesse:
 - Classification différente
   - HTA modérée: 140-159/90-109 mmHg
   - HTA sévère: ≥ 160/110 mmHg, nécessite une hospitalisation en urgence
-- [Tensiomètres pour la grossesse]({{< relref "tensiometres-electroniques-valides.md" >}})
+- [Tensiomètres pour la grossesse]({{% relref "tensiometres-electroniques-valides.md" %}})
 - Traiter si ≥ 140/90 mmHg
 - Tension cible < 140/90 mmHg
 - Définitions
-  - HTA pré-existante: précède la grossesse ou apparaît avant 20 semaines de grossesse, persiste > 6 semaines [post-partum]({{< relref "post-partum.md" >}}) ± protéinurie
+  - HTA pré-existante: précède la grossesse ou apparaît avant 20 semaines de grossesse, persiste > 6 semaines [post-partum]({{% relref "post-partum.md" %}}) ± protéinurie
   - **Hypertension artérielle gestationnelle**: apparaît **après 20 semaines** de grossesse et se résout généralement dans les 6 semaines post-partum
   - HTA pré-existante avec HTA gestationnelle surajoutée avec protéinurie
-  - [Pré-éclampsie]({{< relref "pre-eclampsie.md" >}}): HTA gravidique avec protéinurie
+  - [Pré-éclampsie]({{% relref "pre-eclampsie.md" %}}): HTA gravidique avec protéinurie
   - Hypertension anténatale non classifiée: découverte après 20 semaines de grossesse sans connaissance de valeurs pré-gestationnelles. La surveillance après 6 semaines du post-partum aide au diagnostic rétrospectif.
 - Bilan mensuel  
   BU (albuminurie si protéines +), NFS, ASAT, ALAT, créatininémie, uricémie.

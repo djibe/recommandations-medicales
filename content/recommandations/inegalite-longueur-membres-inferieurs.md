@@ -83,7 +83,7 @@ L'examen des membres inférieurs doit être réalisé en sous-vêtements.
   - Trophicité des 2 jambes
   - Symétrie des repères anatomiques, **épine iliaque antéro-supérieure** ++, pli intérieur du genou, malléole interne:  
     Empilement des cales sous la jambe la plus courte jusqu'à ce que les repères soient alignés (précision ~1 cm).
-  - Rechercher une gibbosité (voir [scoliose]({{< relref "scoliose.md" >}}))
+  - Rechercher une gibbosité (voir [scoliose]({{% relref "scoliose.md" %}}))
 - Examen couché:
   - Décubitus dorsal: inégalité de longueur
   - Décubitus ventral: jambes fléchies à 90° (les genoux ne sont pas alignés)

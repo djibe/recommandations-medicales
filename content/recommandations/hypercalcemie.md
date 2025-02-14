@@ -68,18 +68,18 @@ Les principales étiologies de l'hypercalcémie comprennent:
     - Adénome parathyroïdien
     - Hyperplasie des glandes parathyroïdes
 2. Hyperparathyroïdie secondaire: une cause externe à la parathyroïde cause une augmentation de la production de la PTH (la parathyroïde est saine)
-    - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
-    - [Déficit en vitamine D]({{< relref "vitamine-d.md" >}})
+    - [Insuffisance rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})
+    - [Déficit en vitamine D]({{% relref "vitamine-d.md" %}})
 3. **Hypercalcémie par métastases** ou syndrome paranéoplasique (PTHrp). Les plus fréquentes sont:
-    - [Cancer du sein]({{< relref "cancer-sein.md" >}})
-    - [Carcinome bronchique]({{< relref "cancer-poumon.md" >}})
-    - [Cancer du rein]({{< relref "cancer-rein.md" >}})
-    - [Cancer de la thyroïde]({{< relref "cancer-thyroide.md" >}})
-    - [Cancer du testicule]({{< relref "cancer-testicule.md" >}})
+    - [Cancer du sein]({{% relref "cancer-sein.md" %}})
+    - [Carcinome bronchique]({{% relref "cancer-poumon.md" %}})
+    - [Cancer du rein]({{% relref "cancer-rein.md" %}})
+    - [Cancer de la thyroïde]({{% relref "cancer-thyroide.md" %}})
+    - [Cancer du testicule]({{% relref "cancer-testicule.md" %}})
     - Myélome multiple
 4. Hypercalcémie d'autre origine osseuse
     - Sarcoïdose
-    - [Thyrotoxicose]({{< relref "hyperthyroidie.md" >}})
+    - [Thyrotoxicose]({{% relref "hyperthyroidie.md" %}})
     - Immobilisation prolongée  
     Diminution de la mobilité entraînant une libération accrue de calcium des os.
 5. Iatrogénie  
@@ -101,7 +101,7 @@ Signes et symptômes de l'hypercalcémie aiguë (le plus souvent > 3 mmol/L):
   - Anorexie
   - Nausées et vomissements
   - Douleurs abdominales
-  - [Constipation]({{< relref "constipation.md" >}})
+  - [Constipation]({{% relref "constipation.md" %}})
   - Pancréatite aiguë
 - Troubles neuropsychiques
   - Troubles cognitifs ou de l'humeur
@@ -109,17 +109,17 @@ Signes et symptômes de l'hypercalcémie aiguë (le plus souvent > 3 mmol/L):
   - Faiblesse musculaire
   - Déficit sensitif ou moteur
 - Troubles cardiaques
-  - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+  - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
   - Troubles du rythme cardiaque (raccourcissement du QT, QTc)
 - Déshydratation
   - Polyuro-polydipsie rénale
   - Déshydratation extracellulaire
-  - [Insuffisance rénale aiguë]({{< relref "insuffisance-renale-aigue.md" >}})
+  - [Insuffisance rénale aiguë]({{% relref "insuffisance-renale-aigue.md" %}})
 
 Signes et symptômes et symptômes de l'hypercalcémie chronique:
 
 - Lithiases rénales
-- [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
+- [Insuffisance rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})
 - Troubles cardiovasculaires (dépôts coronaires, valves, myocardiques)
 
 Autres éléments à rechercher à l'interrogatoire:
@@ -159,7 +159,7 @@ PTH sérique (N 15-65 pg/mL) et phosphatémie.
 - Si PTH basse
   - 25 OH vitamine D, 1,25 OH vitamine D
   - TSH
-  - [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
+  - [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
   - Protéinurie et électrophorèse des protéines urinaires
   - NFS
   - TSH, ECA

@@ -24,7 +24,7 @@ todo = "flowchart"
 {{%article-summary%}}
 
 - La scoliose est une courbure rachidienne dans le plan frontal supérieure à 10° (dit angle de Cobb)
-- Le dépistage de la scoliose par recherche d'une gibbosité doit être systématique durant les [examens de l'enfant et de l'adolescent]({{< relref "examens-suivi-nourrisson.md" >}}) où le risque évolutif est majeur
+- Le dépistage de la scoliose par recherche d'une gibbosité doit être systématique durant les [examens de l'enfant et de l'adolescent]({{% relref "examens-suivi-nourrisson.md" %}}) où le risque évolutif est majeur
 - L'examen clinique recherche des complications et des arguments pour une pathologie (neuro-musculaire, génétique ...)
 - Bilan par radiographies du rachis complet à faible dose EOS (mesure de l'angle de Cobb) en cas de gibbosité  
   Répéter tous les 6-12 mois à la puberté, puis tous les 5 ans.
@@ -126,7 +126,7 @@ En cas scoliose grave: épreuves fonctionnelles respiratoires (EFR)
 
 Inspecter le dos des enfants et des adolescents pour dépister une scoliose (*HAS 2005*) et << Le dépistage doit être réalisé de façon systématique à l'adolescence >> (*CNPU*). La *USPTF*, elle, ne l'affirme pas.
 
-Profiter des [examens de suivi]({{< relref "examens-suivi-nourrisson.md" >}}) (3, 4, 5, 6 , 8-9, 11-13 et 15-16 ans) et des certificats pour revoir le dos.
+Profiter des [examens de suivi]({{% relref "examens-suivi-nourrisson.md" %}}) (3, 4, 5, 6 , 8-9, 11-13 et 15-16 ans) et des certificats pour revoir le dos.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la scoliose" %}}
@@ -152,7 +152,7 @@ La prise en charge de la scoliose est pluridisciplinaire:
   - puis tous les 5 ans (sauf évolutivité)
   - Après un accouchement
 - Éducation thérapeutique du patient (ETP)
-- Conditions de déclarations de l'[ALD n°26]({{< relref "affection-longue-duree.md" >}}):  
+- Conditions de déclarations de l'[ALD n°26]({{% relref "affection-longue-duree.md" %}}):  
   Angle de Cobb > 30°, enfant ≥ 15° avec aggravation ≥ 5° entre 2 radiographies successives (~6 mois), adulte avec perte de taille ou cyphose justifiant un traitement orthopédique ou chirurgical.
 
 **NB.** Le traitement d'une pathologie neuromusculaire ou malformative est spécialisé.

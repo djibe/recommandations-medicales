@@ -52,7 +52,7 @@ Nerf trijumeau
 - Atteint préférentiellement les femmes: 2/3
 - ⅓ des patients n'ont pas de récidives
 
-La névralgie trigéminale classique est souvent associée à une [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}).
+La névralgie trigéminale classique est souvent associée à une [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}).
 
 ### Abréviations
 
@@ -133,7 +133,7 @@ Des rémissions spontanées sont possibles.
     - de début et fin brutales
     - insupportable
     - diurne
-    - [neuropathique]({{< relref "douleur-neuropathique.md" >}})  
+    - [neuropathique]({{% relref "douleur-neuropathique.md" %}})  
       Décharge électrique ou coup de poignard voire broiement, arrachement.
     - Salves de quelques fois par jour à quasi continuelles
     - En crise, figement avec une attitude douloureuse et grimaçante
@@ -202,7 +202,7 @@ Autres diagnostics responsables de douleurs faciales à étayer:
   ou syndrome paratrigéminal oculosympathique  
   Douleurs de névralgie trigéminale avec ptosis, myosis voire l'atteinte d'autres paires crâniennes.
 - Céphalées SUNCT et SUNA
-- [Algie vasculaire de la face]({{< relref "algie-vasculaire-face.md" >}})  
+- [Algie vasculaire de la face]({{% relref "algie-vasculaire-face.md" %}})  
   Douleurs prolongées (15 à 180 minutes) sans décharge électrique et larmoiement intense. Évolution circadienne et circannuelle.
 - Céphalées en coup de poignard  
   Douleur en coup de poignard de quelques secondes (parfois en salves) le + souvent en-dehors du territoire trigéminal et migratrice.
@@ -246,7 +246,7 @@ Augmenter jusqu'à suppression de la douleur (max 1600 mg/j) puis obtention de l
 - **Contre-indications**  
   BAV, hypersensibilité à la molécule/excipients, antécédent d'hypoplasie médullaire ou de porphyrie hépatique, traitement par télaprévir ou variconazole.
 - **Effets indésirables principaux**  
-  [Hyponatrémie]({{< relref "hyponatremie.md" >}}), induction enzymatique, vertiges, ataxie, somnolence, fatigue, diplopie, troubles de l'accommodation, confusion ou agitation.
+  [Hyponatrémie]({{% relref "hyponatremie.md" %}}), induction enzymatique, vertiges, ataxie, somnolence, fatigue, diplopie, troubles de l'accommodation, confusion ou agitation.
 - **Effets indésirables graves:** aplasie, toxidermie grave
 - Développée spécifiquement pour traiter la NTC, soulagement complet initial pour 70% des patients
 

@@ -24,7 +24,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le cancer du poumon est la première cause de mortalité par cancer alors qu'il est presque totalement évitable ([arrêt du tabac]({{< relref "arret-tabac.md" >}}))
+- Le cancer du poumon est la première cause de mortalité par cancer alors qu'il est presque totalement évitable ([arrêt du tabac]({{% relref "arret-tabac.md" %}}))
 - Rechercher un cancer du poumon devant toute hémoptysie ou symptôme thoracique persistant chez un (ex)-fumeur
 - Bilan initial du cancer du poumon avec radiographie de thorax de face et profil et scanner thoracique injecté
 - Adresser en semi-urgence au pneumologue ou oncologue du Centre de Lutte contre le Cancer (CLCC)
@@ -35,7 +35,7 @@ flowchart = true
 
 Cancer bronchopulmonaire (CBP)
 : Les cancers du poumon sont principalement de type histologique non à petites cellules (CBNPC, 85%, adénocarcinome surtout, carcinome épidermoïde ou carcinome à grandes cellules) ou à petites cellules (15%).
-: Principaux facteurs de risque: tabagisme actif ou passif (85-90%) et amiante (x5, x50 si tabac), échappement de diesel, radon, arsenic, nickel, cobalt, chrome, hydrocarbure à cycle aromatique, rayonnements ionisants, silice, cadmium. Aussi: antécédent de CBP, [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), pneumopathies interstitielles diffuses fibrosantes.  
+: Principaux facteurs de risque: tabagisme actif ou passif (85-90%) et amiante (x5, x50 si tabac), échappement de diesel, radon, arsenic, nickel, cobalt, chrome, hydrocarbure à cycle aromatique, rayonnements ionisants, silice, cadmium. Aussi: antécédent de CBP, [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), pneumopathies interstitielles diffuses fibrosantes.  
 La nocivité de la cigarette dépend plus de la durée d'exposition que du paquet-année (PA).
 
 ### Abréviations
@@ -93,15 +93,15 @@ Le diagnostic de cancer broncho-pulmonaire est évoqué devant les symptômes su
 - Envahissement locorégional
   - Syndrome cave supérieur  
     Œdème de la base du cou, circulation veineuse collatérale, turgescence jugulaire, œdème palpébral le matin.
-  - [Dysphonie]({{< relref "dysphonie.md" >}})
+  - [Dysphonie]({{% relref "dysphonie.md" %}})
   - Douleur thoracique
   - Syndrome de Pancoast Tobias  
     Névralgie cervico-brachiale C8-D1 avec myosis - ptosis - énophtalmie (syndrome de Claude Bernard Horner homolatéral)
 - Métastase du système nerveux, os, foie, peau
 - Syndrome paranéoplasique  
-  - [Thrombose veineuse profonde]({{< relref "thrombose-veineuse-profonde.md" >}})
+  - [Thrombose veineuse profonde]({{% relref "thrombose-veineuse-profonde.md" %}})
   - Hippocratisme digital récent avec arthralgies inflammatoires (syndrome de Pierre-Marie)
-  - [Hyponatrémie]({{< relref "hyponatremie.md" >}}) (sécrétion inappropriée d'ADH)
+  - [Hyponatrémie]({{% relref "hyponatremie.md" %}}) (sécrétion inappropriée d'ADH)
   - Fièvre isolée
   - Pseudo-myasthénie, neuropathie périphérique
 
@@ -184,7 +184,7 @@ La Commission européenne recommande ce dépistage depuis son [communiqué de se
   - Symptômes évocateurs de cancer (hémoptysie, amaigrissement, infection pulmonaire récente)
 {{%/info%}}
 
-Et pour une [personne vivant avec le VIH]({{< relref "vih-sida.md" >}}) (PVVIH) avec symptôme parmi:
+Et pour une [personne vivant avec le VIH]({{% relref "vih-sida.md" %}}) (PVVIH) avec symptôme parmi:
 
 - Toux persistante
 - Hémoptysie
@@ -223,15 +223,15 @@ Adresser en semi-urgence à l'équipe hospitalière d'oncologie ou pneumologie p
 
 Le traitement curatif du cancer bronchopulmonaire dépend de la RCP (chirurgie, radiothérapie, chimiothérapie, immunothérapie ± associées). Il doit être démarré dans les 6 semaines qui suivent la réalisation du bilan d'extension.
 
-- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 - Rechercher une exposition professionnelle (amiante ...)
   - [Tableaux des maladies professionnelles](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&motsCles=&planPatho=TABMALPRO_Cancers%2FCancer%20broncho-pulmonaire%20et%20pleural%2FCancer%20broncho-pulmonaire%2FCancer%20primitif)
   - Rédiger un certificat médical initial établissant le lien possible. C'est le patient qui l'adresse à sa CPAM pour la reconnaissance en Maladie Professionnelle.
 - [Guide patient: la prise en charge du cancer du poumon (PDF)](https://www.has-sante.fr/jcms/c_985214/fr/ald-n-30-guide-patient-la-prise-en-charge-du-cancer-du-poumon)
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})  
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})  
   Améliore la survie à tous les stades (voir vidéo dans les *Sources*).
 - Association de patients: [De l'Air](https://cancer-poumon.fr)
-- Soins de support, [directives anticipées]({{< relref "directives-anticipees.md" >}})
+- Soins de support, [directives anticipées]({{% relref "directives-anticipees.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du cancer du poumon" "show" %}}

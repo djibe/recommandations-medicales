@@ -71,7 +71,7 @@ HAS
 - Symptômes de pédiculose
   - **[Prurit](/tags/prurit/)** (+50 %)
   - Excoriations
-  - [Impétigo cervical]({{< relref "infection-cutanee-bacterienne.md" >}})
+  - [Impétigo cervical]({{% relref "infection-cutanee-bacterienne.md" %}})
   - Adénopathies
   - Eczéma
 - Localisations atteintes du cuir chevelu  
@@ -89,9 +89,9 @@ La **phtiriase pubienne** (ou morpions) et **des cils** est une infection sexuel
 
 Diagnostic différentiel d'un prurit de la tête:
 
-- [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
-- [Psoriasis]({{< relref "psoriasis.md" >}})
-- [Dermatophytie]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
+- [Dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}})
+- [Psoriasis]({{% relref "psoriasis.md" %}})
+- [Dermatophytie]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Traitement des poux" %}}
@@ -125,7 +125,7 @@ La prise en charge des poux doit être systématique.
 - Décontamination de la literie, poupées/peluches, accessoires  
   Lavage: 60°C ou éviction 10 jours + lavage long.
 - Prévenir l'école / crèche (directeur)
-- << Une éviction scolaire n'est pas obligatoire pour un enfant infesté par des poux. >> (*Ameli*), sous réserve de traitement et l'absence d'[impétigo]({{< relref "infection-cutanee-bacterienne.md" >}})
+- << Une éviction scolaire n'est pas obligatoire pour un enfant infesté par des poux. >> (*Ameli*), sous réserve de traitement et l'absence d'[impétigo]({{% relref "infection-cutanee-bacterienne.md" %}})
 - Contrôle clinique à J12  
   Retraiter si persistance.
 

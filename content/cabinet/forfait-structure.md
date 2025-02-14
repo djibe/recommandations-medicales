@@ -17,7 +17,7 @@ todo = "écriture SEO"
 Le **Forfait structure** correspond à une prime annuelle versée par l'*Assurance Maladie* pour favoriser l'engagement des médecins dans le respect des protocoles numériques du système de santé (logiciels, aide à la prescription, feuilles de soins électroniques, messagerie sécurisée ...) et des modes d'exercices coordonnés.
 {.lead}
 
-Les montants versés couvrent potentiellement intégralement les [dépenses d'équipement]({{< relref "peripheriques-ordinateur.md" >}}) (webcam ou autre) et de services informatiques (téléconsultation, dossier patient) avec 1960 € versés pour le *Volet 1* (uniquement si tous les critères sont remplis) et 6181 € pour le *Volet 2* (sous réserve de remplir le Volet 1, puis selon chaque indicateur rempli). En 2024, la valeur du point restait fixée à 7€.
+Les montants versés couvrent potentiellement intégralement les [dépenses d'équipement]({{% relref "peripheriques-ordinateur.md" %}}) (webcam ou autre) et de services informatiques (téléconsultation, dossier patient) avec 1960 € versés pour le *Volet 1* (uniquement si tous les critères sont remplis) et 6181 € pour le *Volet 2* (sous réserve de remplir le Volet 1, puis selon chaque indicateur rempli). En 2024, la valeur du point restait fixée à 7€.
 {.lead}
 
 Le Forfait structure est segmenté en 2 parties: équipement du cabinet et service aux patients, avec un certain montant accordé pour chaque indicateur. Au total, la prime maximale 2022 atteignait 9695 € (1385 points pour 7€ le point). En 2023, le forfait moyen reçu par praticien a été de **4214 €**.
@@ -34,7 +34,7 @@ La déclaration des objectifs est complétée depuis *AmeliPro* (section *Décla
 - Afficher les horaires d'ouverture du cabinet dans l'*Annuaire Santé* (section *Horaires de cabinet* sur AmeliPro)
 {.list-group}
 
-> \* Pour utiliser le dernier chiffrement Sesam-Vitale des FSE, il faut disposer d'un DPI à jour et de [lecteurs de carte à puce]({{< relref "peripheriques-ordinateur.md" >}}) pour la carte vitale et la carte CPS  
+> \* Pour utiliser le dernier chiffrement Sesam-Vitale des FSE, il faut disposer d'un DPI à jour et de [lecteurs de carte à puce]({{% relref "peripheriques-ordinateur.md" %}}) pour la carte vitale et la carte CPS  
 DPI = dossier patient informatisé (ou logiciel médical)
 
 ## Forfait structure Volet 2 : Service aux patients 2024

@@ -68,22 +68,22 @@ TR
 
 ### Diagnostic différentiel d'un déficit en testostérone par insuffisance testiculaire primitive
 
-- [Obésité]({{< relref "obesite-adulte.md" >}})
-- [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
+- [Obésité]({{% relref "obesite-adulte.md" %}})
+- [Hypothyroïdie]({{% relref "hypothyroidie.md" %}})
 
 ### Étiologie d'un déficit en testostérone par insuffisance testiculaire primitive
 
 - Causes traumatiques
   - **Chimiothérapie**
   - **Radiothérapie**
-  - **[Alcoolisme]({{< relref "sevrage-alcool.md" >}})**
+  - **[Alcoolisme]({{% relref "sevrage-alcool.md" %}})**
   - Perturbateurs endocriniens
   - Traumatisme testiculaire bilatéral
   - Orchidectomie totale
   - Torsion testiculaire bilatérale
   - Orchite ourlienne (oreillons)
   - Autres orchites: gonococcique, sarcoïdose, polyendocrinopathies auto-immunes
-- Malformative: [cryptorchidie bilatérale]({{< relref "cryptorchidie.md" >}})
+- Malformative: [cryptorchidie bilatérale]({{% relref "cryptorchidie.md" %}})
 - Chromosomique: **Klinefelter** ...
 - Vieillissement physiologique (réelle andropause)
 
@@ -94,7 +94,7 @@ TR
   - Adénomes hypophysaires de tous types
   - Dysgerminomes, gliomes
 - Processus infiltratifs hypothalamo-hypophysaires
-  - [Hémochromatose]({{< relref "hemochromatose.md" >}})
+  - [Hémochromatose]({{% relref "hemochromatose.md" %}})
   - Sarcoïdose
   - Hypophysite lymphocytaire
   - Histiocytose
@@ -108,8 +108,8 @@ TR
 - Causes fonctionnelles
   - Hyperprolactinémie
   - Carence nutritionnelle  
-    Anorexie mentale, maladies chroniques ([cancer](/tags/cancer/), cirrhose, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})), activité physique excessive avec malnutrition relative.
-  - [Syndrome de Cushing]({{< relref "syndrome-cushing.md" >}})
+    Anorexie mentale, maladies chroniques ([cancer](/tags/cancer/), cirrhose, [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}})), activité physique excessive avec malnutrition relative.
+  - [Syndrome de Cushing]({{% relref "syndrome-cushing.md" %}})
   - Tumeurs testiculaires ou surrénaliennes sécrétant des œstrogènes (gynécomastie associée)
 
 {{% /collapse %}}
@@ -125,14 +125,14 @@ L'andropause est un diagnostic clinico-biologique et l'installation des symptôm
 Signes et symptômes d'andropause à rechercher à l'examen:
 
 - Antécédents  
-  **Diabète type 2** (50%), **obésité** (baisse de 25% de la testostéronémie), dépression, [infertilité]({{< relref "infertilite-couple.md" >}}), testiculaires ([orchite]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}), micropénis, hypospadias, [cryptorchidie]({{< relref "cryptorchidie.md" >}})), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), cancer, VIH, [hémochromatose]({{< relref "hemochromatose.md" >}}), [dépression]({{< relref "depression.md" >}}), fracture osseuse, insuffisance rénale, cirrhose
-- Traitements en cours: androgènes, opioïdes, [corticoïdes]({{< relref "corticoides.md" >}}), finastéride, spironolactone, éplérénone
+  **Diabète type 2** (50%), **obésité** (baisse de 25% de la testostéronémie), dépression, [infertilité]({{% relref "infertilite-couple.md" %}}), testiculaires ([orchite]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}}), micropénis, hypospadias, [cryptorchidie]({{% relref "cryptorchidie.md" %}})), [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), cancer, VIH, [hémochromatose]({{% relref "hemochromatose.md" %}}), [dépression]({{% relref "depression.md" %}}), fracture osseuse, insuffisance rénale, cirrhose
+- Traitements en cours: androgènes, opioïdes, [corticoïdes]({{% relref "corticoides.md" %}}), finastéride, spironolactone, éplérénone
 - Traitements reçus: colchicine, kétoconazole, évérolimus, radiothérapie, chimiothérapie
-- Toxiques: [alcool]({{< relref "sevrage-alcool.md" >}}), tabac
+- Toxiques: [alcool]({{% relref "sevrage-alcool.md" %}}), tabac
 - **Troubles sexuels**
   - Baisse de la **libido**, réduction de la fréquence des rapports sexuels
   - Diminution des **érections nocturnes** ou matinales (signe précoce)
-  - [Dysfonction érectile organique]({{< relref "dysfonction-erectile.md" >}}), perte d'efficacité des IPDE5
+  - [Dysfonction érectile organique]({{% relref "dysfonction-erectile.md" %}}), perte d'efficacité des IPDE5
   - Éjaculation retardée
   - Réduction de volume de l'éjaculat
 - Signes généraux: **fatigue**, **amyotrophie**
@@ -195,7 +195,7 @@ Bilans complémentaires après 2 testostéronémies basses:
 
 - ==LH, NFS (hématocrite) et PSA==
 - En cas de LH normale ou basse: ferritine, prolactine, cortisol/ACTH et IRM hypophysaire
-- Après 50 ans: **[ostéodensitométrie]({{< relref "osteoporose-masculine.md" >}})**
+- Après 50 ans: **[ostéodensitométrie]({{% relref "osteoporose-masculine.md" %}})**
 
 ### Interprétation de la testostéronémie
 
@@ -227,7 +227,7 @@ La prise en charge du syndrome de déficit en testostérone (ou andropause) est 
   - Intramusculaire: énantate de testostérone (Androtardyl® 250 mg/2-4 semaines), undécanoate de testostérone (Nébido® NR ou testostérone Besins 1000mg/3 mois).
 {{%/info%}}
 
-Contre-indications absolues au THS par testostérone: désir de paternité, [insuffisance cardiaque sévère]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ou maladie cardiovasculaire de moins de 3-6 mois, [cancer de la prostate]({{< relref "cancer-prostate.md" >}}) ou [cancer du sein]({{< relref "cancer-sein.md" >}}) évolutif, [polyglobulie]({{< relref "polyglobulie.md" >}}) ≥ 54%, apnées du sommeil graves non appareillées, [HBP compliquée]({{< relref "hypertrophie-benigne-prostate.md" >}}), délinquance sexuelle.
+Contre-indications absolues au THS par testostérone: désir de paternité, [insuffisance cardiaque sévère]({{% relref "insuffisance-cardiaque-chronique.md" %}}) ou maladie cardiovasculaire de moins de 3-6 mois, [cancer de la prostate]({{% relref "cancer-prostate.md" %}}) ou [cancer du sein]({{% relref "cancer-sein.md" %}}) évolutif, [polyglobulie]({{% relref "polyglobulie.md" %}}) ≥ 54%, apnées du sommeil graves non appareillées, [HBP compliquée]({{% relref "hypertrophie-benigne-prostate.md" %}}), délinquance sexuelle.
 {.alert .alert-warning}
 
 ### Suivi du traitement par testostérone

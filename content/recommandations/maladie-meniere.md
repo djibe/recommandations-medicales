@@ -104,7 +104,7 @@ Pathologies donnant des symptômes similaires (hypoacousie ou surdité, vertiges
 - NFS, VS, CRP
 - Glycémie à jeun
 - [TSH](/tags/tsh/)
-- Sérologie [syphilis]({{< relref "syphilis.md" >}})
+- Sérologie [syphilis]({{% relref "syphilis.md" %}})
 
 ### IRM cérébrale
 
@@ -144,7 +144,7 @@ La prise en charge dépend de la plainte et de la sévérité de la maladie de M
 - Suivi de l'efficacité par la qualité de vie et l'*Échelle de niveau fonctionnel*
 - Soutien psychologique  
   {{%class%}}Efficacité prouvée sur la réhabilitation vestibulaire et le niveau d'anxiété.{{%/class%}}
-- Si troubles de la vergence et du suivi oculaire: [orthoptie]({{< relref "bilan-orthoptique.md" >}})
+- Si troubles de la vergence et du suivi oculaire: [orthoptie]({{% relref "bilan-orthoptique.md" %}})
 - Association de patients: [France Acouphènes](https://www.france-acouphenes.org/)
 - Information du patient  
   [Document d'information du patient de l'Encyclopédie Orphanet sur La maladie de Menière. (PDF)](https://www.orpha.net/data/patho/Pub/fr/Meniere-FRfrPub10587v02.pdf)

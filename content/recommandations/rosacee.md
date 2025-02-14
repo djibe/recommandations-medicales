@@ -41,7 +41,7 @@ L'atteinte typique de la rosacée survient avec des flushs, érythème du visage
 : L'évolution de la maladie est spontanément favorable après plusieurs années pour 40% des patients.
 
 Dermatose mixte du visage
-: Fréquente, appellation lorsque **rosacée et [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})** sont associées.
+: Fréquente, appellation lorsque **rosacée et [dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}})** sont associées.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -77,7 +77,7 @@ Atteinte permanente des joues, nez, menton, front en partie médiane avec:
 
 Forme de rosacée la plus caractéristique (sous-type II) avec papules inflammatoires et pustules *indolores* survenant sur un fond érythémateux permanent. Extension variable.
 
-Signes négatifs (différences avec l'[acné]({{< relref "acne.md" >}})): respect péri-buccal et péri-oculaire, pas de comédon, de cicatrice ou de douleurs.
+Signes négatifs (différences avec l'[acné]({{% relref "acne.md" %}})): respect péri-buccal et péri-oculaire, pas de comédon, de cicatrice ou de douleurs.
 
 ### Forme hypertrophique - Rhinophyma
 
@@ -100,18 +100,18 @@ Corticodépendance, érythème desquamatif, grandes télangiectasies des zones p
 ### Diagnostics différentiels de la rosacée
 
 - Forme vasculaire
-  - Bouffées vasomotrices de la [ménopause]({{< relref "menopause.md" >}})
+  - Bouffées vasomotrices de la [ménopause]({{% relref "menopause.md" %}})
   - Lupus érythémateux  
     Pas de flushs, pas de papules/pustules, atrophie et hyperkératose, photosensibilité, vespertilio.
   - Hypertension non contrôlée, phéochromocytome
-  - [Polyglobulie]({{< relref "polyglobulie.md" >}})
-  - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})  
+  - [Polyglobulie]({{% relref "polyglobulie.md" %}})
+  - [Dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}})  
     Fréquemment associée. Localisations séborrhées (scalp, rétroauriculaires, paupières, sillons nasogéniens), fond érythémateux parsemé de squames grasses.
-  - [Dermatite atopique]({{< relref "dermatite-atopique.md" >}})
+  - [Dermatite atopique]({{% relref "dermatite-atopique.md" %}})
   - Syndrome carcinoïde  
     Flushs prolongés, généralisés, sévères, sudation, bronchospasme, douleurs abdominales voire diarrhées.
 - Rosacée papulopustuleuse
-  - [Acné]({{< relref "acne.md" >}})  
+  - [Acné]({{% relref "acne.md" %}})  
     Adolescent, visage, cou et tronc, comédons, pas de flushs/érythème/télangiectasies, papules douloureuses.
   - Eczéma de contact
   - Lupus
@@ -140,7 +140,7 @@ Le traitement de la rosacée est chronique car il est seulement suspensif.
 
 Selon les *Annales de Dermato*, intérêt de rechercher systématiquement:
 
-- Une infection à *[Helicobacter pylori]({{< relref "helicobacter-pylori.md" >}})* avec traitement ad-hoc (controversé)
+- Une infection à *[Helicobacter pylori]({{% relref "helicobacter-pylori.md" %}})* avec traitement ad-hoc (controversé)
 - Une pullulation microbienne digestive, traitée par rifampicine 600 mg x 2/j pendant 10 jours
 
 ### Traitement de la rosacée érythémato-télangiectasique
@@ -172,7 +172,7 @@ Acide azélaïque 15% gel (Finacéa®) x 2/j pendant 3 mois
 Autres traitements:
 
 - [Ivermectine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69444281&typedoc=R) x 1/j pendant 3 mois ou orale
-- Adapalène gel, peroxyde de benzoyle 5%, érythromycine 2% gel (voir [Acné]({{< relref "acne.md" >}}))
+- Adapalène gel, peroxyde de benzoyle 5%, érythromycine 2% gel (voir [Acné]({{% relref "acne.md" %}}))
 - Zinc oral 100 mg/j
 - Tétracycline orale
 - Spécialisés: laser, pimecrolimus, dapsone crème, minocycline crème (non disponibles en France), rétinoïdes, trétinoïne, isotrétinoïne

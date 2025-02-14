@@ -29,7 +29,7 @@ todo = "img, quantiféron"
   - Mentionner l'indication, le dosage et la posologie en mg
   - Le jour de la prise de l'acide folique
 - Associer l'acide folique 2 x 5 mg 48 heures après le méthotrexate
-- Ne pas associer le méthotrexate avec: anti-inflammatoires [AINS](/tags/ains/), Bactrim, [vaccins vivants]({{< relref "vaccination.md" >}}) ... ([vérifier les interactions](https://www.drugs.com/interaction/list/?drug_list=1590-0))
+- Ne pas associer le méthotrexate avec: anti-inflammatoires [AINS](/tags/ains/), Bactrim, [vaccins vivants]({{% relref "vaccination.md" %}}) ... ([vérifier les interactions](https://www.drugs.com/interaction/list/?drug_list=1590-0))
 - [Carte du patient sous méthotrexate (PDF)](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-carte-patient-version-1-2021-03.pdf)
 
 {{%/article-summary%}}
@@ -38,13 +38,13 @@ todo = "img, quantiféron"
 En cas de grossesse sous méthotrexate, adresser au diagnostic anténatal en semi-urgence.
 {.alert .alert-warning}
 
-- [Grossesse]({{< relref "grossesse.md" >}})  
+- [Grossesse]({{% relref "grossesse.md" %}})  
   Possible sans délai après l'arrêt de la contraception ([CRAT](https://www.lecrat.fr/3331/)).
-- [Allaitement]({{< relref "allaitement.md" >}})
+- [Allaitement]({{% relref "allaitement.md" %}})
 - Femme ou homme sans contraception efficace
 - Homme  
   Délai minimal de 3 mois entre arrêt de la contraception et procréation ([CRAT](https://www.lecrat.fr/10800/)).
-- [Insuffisance rénale sévère]({{< relref "insuffisance-renale-chronique.md" >}})
+- [Insuffisance rénale sévère]({{% relref "insuffisance-renale-chronique.md" %}})
 - Insuffisance hépatique sévère
 - Insuffisance respiratoire chronique
 - Allergie connue au méthotrexate
@@ -96,7 +96,7 @@ Bilan pré thérapeutique du méthotrexate:
 - Radiographie thoracique (*HAS 2013*)  
   Systématique avant de débuter le traitement.
 - ßHCG
-- Spirométrie si: tabac, [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), emphysème
+- Spirométrie si: tabac, [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), emphysème
 - +50 ans: vitamine B12 (*Prescrire*)  
   La supplémentation systématique en vitamine B9 masque une carence.
 
@@ -137,7 +137,7 @@ La supplémentation en acide folique (vitamine B9) réduit les effets indésirab
 
 - Symptômes gastro-intestinaux
 - Stomatite
-- [Alopécie]({{< relref "alopecie.md" >}})
+- [Alopécie]({{% relref "alopecie.md" %}})
 - Augmentation  des enzymes hépatiques
 
 **NB.** Contrôler la **vitamine B12** avant le traitement (l'acide folique perturbe le dosage ensuite).

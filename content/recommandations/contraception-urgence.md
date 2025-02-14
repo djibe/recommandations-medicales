@@ -25,16 +25,16 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Information systématique de tous sur la contraception d'urgence, notamment lors de la prescription d'une [contraception]({{< relref "contraception.md" >}})
+- Information systématique de tous sur la contraception d'urgence, notamment lors de la prescription d'une [contraception]({{% relref "contraception.md" %}})
 - Information sur la grande efficacité de la << pilule du lendemain >> prise précocement et son innocuité
 - La pilule du lendemain est accessible gratuitement (sans avance de frais) sans ordonnance durant les 5 jours qui suivent le rapport non protégé pour toutes les femmes (anonyme si besoin)  
   \+ préservatif jusqu'au 1^er^ jour des règles suivantes
 - La pose d'un stérilet/DIU cuivre est la méthode la plus efficace et possible jusqu'à J5
-- Envisager une prescription/dispensation en prévention surtout si: adolescente, préservatif, [VIH]({{< relref "vih-sida.md" >}}), voyage à l'étranger, milieu rural
+- Envisager une prescription/dispensation en prévention surtout si: adolescente, préservatif, [VIH]({{% relref "vih-sida.md" %}}), voyage à l'étranger, milieu rural
 - Il existe un risque de grossesse à tout moment du cycle en cas de rapport non protégé
 - [Brochure d'information (PDF)](https://www.ameli.fr/sites/default/files/Documents/Contraception-urgence-Metro.PDF) et Hotline Aide avortement: {{<phone>}}0 800 08 11 11{{</phone>}}
 
-Articles liés: [J'ai oublié ma pilule]({{< relref "jai-oublie-ma-pilule.md" >}}), [contraception]({{< relref "contraception.md" >}}), [interruption volontaire de grossesse]({{< relref "interruption-volontaire-grossesse.md" >}})
+Articles liés: [J'ai oublié ma pilule]({{% relref "jai-oublie-ma-pilule.md" %}}), [contraception]({{% relref "contraception.md" %}}), [interruption volontaire de grossesse]({{% relref "interruption-volontaire-grossesse.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -71,7 +71,7 @@ UPA
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-Intérêt d'une [contraception efficace]({{< relref "contraception.md" >}}) pendant toute la période de vie sexuelle active.
+Intérêt d'une [contraception efficace]({{% relref "contraception.md" %}}) pendant toute la période de vie sexuelle active.
 {.alert .alert-info}
 
 Informer que la contraception d'urgence (orale) est accessible gratuitement directement en pharmacie pour toutes les femmes, notamment si: adolescente, préservatif, VIH, voyage à l'étranger, milieu rural.
@@ -79,7 +79,7 @@ Informer que la contraception d'urgence (orale) est accessible gratuitement dire
 {{% /collapse %}}
 {{%collapse "Prise en charge par une contraception d'urgence" %}}
 
-Prise en charge en urgence (le plus tôt possible) de tout rapport non protégé et préparation de la prochaine [contraception]({{< relref "contraception.md" >}}).
+Prise en charge en urgence (le plus tôt possible) de tout rapport non protégé et préparation de la prochaine [contraception]({{% relref "contraception.md" %}}).
 
 ### Dispositif intra-utérin au cuivre (DIU ou stérilet)
 
@@ -87,7 +87,7 @@ Prise en charge en urgence (le plus tôt possible) de tout rapport non protégé
 
 Stérilet à poser dans les 5 jours suivant le rapport non protégé. Privilégier chez les obèses ou après un cancer hormonosensible.
 
-Avant la pose, bilan en urgence: **auto-prélèvement vaginal** pour PCR *[Chlamydia trachomatis]({{< relref "chlamydia-trachomatis.md" >}})* et *Neisseria gonorrhoeae* notamment en cas d'antécédents d'[infection sexuellement transmissible (IST)](/tags/ist/), d'infection génitale haute en cours ou récente, d'âge < 25 ans ou de partenaires multiples.
+Avant la pose, bilan en urgence: **auto-prélèvement vaginal** pour PCR *[Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}})* et *Neisseria gonorrhoeae* notamment en cas d'antécédents d'[infection sexuellement transmissible (IST)](/tags/ist/), d'infection génitale haute en cours ou récente, d'âge < 25 ans ou de partenaires multiples.
 
 Consultation de contrôle à 3 mois puis annuelle, ainsi qu'en complications possibles (douleurs pelviennes, saignements, fièvre).
 

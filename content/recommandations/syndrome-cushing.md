@@ -27,8 +27,8 @@ flowchart = true
 - Rechercher un syndrome de Cushing en cas de:
   - Répartition facio-tronculaire des graisses contrastant avec l'amyotrophie des membres
   - Signes cutanés d'hypercatabolisme: fragilité cutanée, ecchymoses, vergetures pourpres
-  - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) avant 40 ans ou résistante
-  - [Ostéoporose de l'homme]({{< relref "osteoporose-masculine.md" >}}) avant 50 ans
+  - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) avant 40 ans ou résistante
+  - [Ostéoporose de l'homme]({{% relref "osteoporose-masculine.md" %}}) avant 50 ans
   - Enfant: arrêt pubertaire, ralentissement de la croissance staturale avec prise de poids
   - Toute tumeur surrénalienne ou adénome hypophysaire (incidentalome)
   - Autres situations, voir *Clinique*
@@ -41,7 +41,7 @@ flowchart = true
 Syndrome de Cushing (SC)
 : Ensemble des manifestations induites par une exposition chronique à un excès de glucocorticoïdes.
 : Maladie rare (1,2-5 cas/million/an) avec une surmortalité et une morbidité importantes ([cardiovasculaire](/tags/risque-cardiovasculaire/), infectieuse, psychiatrique, petite taille, déformations osseuses).
-: Après la cause iatrogène par prise de [corticoïdes]({{< relref "corticoides.md" >}}), deux grands mécanismes peuvent déclencher l'hypercorticisme: **70-80% des Cushing sont ACTH-dépendants** (stimulation surrénale par une ACTH inappropriée) avec pour 90% la **maladie de Cushing** (tumeur hypophysaire sécrétant de l'ACTH). Les 20-30 % restants ont un syndrome de Cushing ACTH-indépendant par tumeur surrénale avec sécrétion inappropriée de cortisol (unilatérale bénigne dite **adénome corticosurrénalien** pour les 2/3).
+: Après la cause iatrogène par prise de [corticoïdes]({{% relref "corticoides.md" %}}), deux grands mécanismes peuvent déclencher l'hypercorticisme: **70-80% des Cushing sont ACTH-dépendants** (stimulation surrénale par une ACTH inappropriée) avec pour 90% la **maladie de Cushing** (tumeur hypophysaire sécrétant de l'ACTH). Les 20-30 % restants ont un syndrome de Cushing ACTH-indépendant par tumeur surrénale avec sécrétion inappropriée de cortisol (unilatérale bénigne dite **adénome corticosurrénalien** pour les 2/3).
 
 ### Abréviations
 
@@ -72,7 +72,7 @@ La recherche d'un syndrome de Cushing est conseillée en cas de:
   Elle contraste avec l'amyotrophie des membres.
 - Signes cutanés d'hypercatabolisme (rechercher si ≥ 1):  
   Fragilité cutanée, ecchymoses, vergetures pourpres.
-- [Hirsutisme]({{< relref "hirsutisme.md" >}})
+- [Hirsutisme]({{% relref "hirsutisme.md" %}})
 - Amyotrophie proximale
 - Ostéoporose sans cause évidente
 - Tumeur surrénalienne ou incidentalome surrénalien
@@ -81,17 +81,17 @@ La recherche d'un syndrome de Cushing est conseillée en cas de:
 
 Réaliser le bilan de première intention si ces symptômes sont présents.
 
-Complications du syndrome de Cushing: [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) (3/4 des adultes et la moitié des enfants), [ostéoporose]({{< relref "osteoporose.md" >}}) (22-57%), trouble psychiatrique (50-80%, apparition précoce au cours de la maladie).
+Complications du syndrome de Cushing: [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) (3/4 des adultes et la moitié des enfants), [ostéoporose]({{% relref "osteoporose.md" %}}) (22-57%), trouble psychiatrique (50-80%, apparition précoce au cours de la maladie).
 
 ### Symptômes non spécifiques de Cushing
 
 Situations où il faut **rechercher des signes spécifiques** de syndrome de Cushing:
 
-- Prise de poids, [obésité]({{< relref "obesite-adulte.md" >}})
-- [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) du sujet jeune ou résistante au traitement
-- [Diabète de type 2]({{< relref "diabete-type-2.md" >}}) avec syndrome plurimétabolique ou déséquilibré sans cause évidente
+- Prise de poids, [obésité]({{% relref "obesite-adulte.md" %}})
+- [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) du sujet jeune ou résistante au traitement
+- [Diabète de type 2]({{% relref "diabete-type-2.md" %}}) avec syndrome plurimétabolique ou déséquilibré sans cause évidente
 - [Dépression](/tags/depression/), trouble de l'humeur, anxiété ou trouble psychiatrique atypique résistant aux antidépresseurs
-- Spanioménorrhée ou aménorrhée secondaire avec obésité ou [hirsutisme]({{< relref "hirsutisme.md" >}})
+- Spanioménorrhée ou aménorrhée secondaire avec obésité ou [hirsutisme]({{% relref "hirsutisme.md" %}})
 - Enfant: retard de croissance
 
 Avis endocrinologique au moindre doute clinique d'un syndrome de Cushing et notamment si:
@@ -119,7 +119,7 @@ Avis endocrinologique au moindre doute clinique d'un syndrome de Cushing et nota
   - Syndrome tumoral hypophysaire  
     HTIC (céphalées rétro-orbitaires localisées, vomissements, vertiges), anomalies du champ visuel (<< voile >>, quadranopsie temporale supérieure).
   - Femme: régularité des cycles
-  - Homme: Baisse de la libido et [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})
+  - Homme: Baisse de la libido et [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}})
 
 #### Examen physique
 
@@ -189,7 +189,7 @@ Sur prescription spécialisée, le bilan d'imagerie du syndrome de Cushing compr
 
 La prise en charge du syndrome de Cushing par l'endocrinologue vise à confirmer la maladie, rechercher l'étiologie et démarrer un traitement spécifique:
 
-- Déclaration [ALD 31]({{< relref "affection-longue-duree.md" >}})
+- Déclaration [ALD 31]({{% relref "affection-longue-duree.md" %}})
 - Information du patient: [sfendocrino Cushing Infos](https://www.sfendocrino.org/cushing-infos/)
 - Association de patients: [Association Surrénales](https://www.surrenales.com)
 

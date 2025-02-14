@@ -22,7 +22,7 @@ todo = "flow"
 
 {{%article-summary%}}
 
-- Le cancer de la vessie est le plus souvent un carcinome urothélial découvert par une [hématurie]({{< relref "hematurie.md" >}}) macroscopique chez un (ancien) fumeur
+- Le cancer de la vessie est le plus souvent un carcinome urothélial découvert par une [hématurie]({{% relref "hematurie.md" %}}) macroscopique chez un (ancien) fumeur
 - Le tabac est responsable de la moitié des cancers de vessie et doit être sevré pour limiter le risque de récidive qui est très élevé
 - Rechercher une exposition professionnelle et des antécédents de radiothérapie pelvienne
 - Le bilan initial d'une suspicion de cancer de vessie comporte: NFS, créatinine, cytologie urinaire (hors urines du matin) et échographie des voies urinaires
@@ -36,7 +36,7 @@ Cancer de la vessie
 
 ### Facteurs de risque de cancer de la vessie
 
-- [Tabac]({{< relref "arret-tabac.md" >}}) (50 % des cas)
+- [Tabac]({{% relref "arret-tabac.md" %}}) (50 % des cas)
 - Amines aromatiques (10 %)  
   Peintures, métal, pétrole, charbon.
 - Antécédents familiaux
@@ -86,7 +86,7 @@ Signes et symptômes à rechercher devant une suspicion de [cancer](/tags/cancer
 - Tabagisme, cannabis
 - Expositions professionnelles: peintures, métal, pétrole, charbon ([tableaux](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&motsCles=&planPatho=TABMALPRO_Pathologie%20r%C3%A9nale%2C%20v%C3%A9sicale%20et%20g%C3%A9nitale%2FPathologie%20des%20voies%20urinaires%2FTumeur%20de%20vessie)).
 - Symptômes et ancienneté
-  - **[Hématurie]({{< relref "hematurie.md" >}})** (macroscopique 80 %, terminale et indolore)
+  - **[Hématurie]({{% relref "hematurie.md" %}})** (macroscopique 80 %, terminale et indolore)
   - Symptômes irritatifs de la vessie: pollakiurie, impériosité/urgenturie, brûlures mictionnelles
 - Complications
   - AEG: amaigrissement, [fatigue](/tags/fatigue/), anorexie
@@ -138,14 +138,14 @@ La prise en charge du cancer de la vessie est semi-urgente et spécialisée apr�
 
 Mesures associées à la prise en charge des cancers:
 
-- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - Soutien psychologique
 - Information du patient: [guide HAS/INCa (PDF)](https://www.e-cancer.fr/content/download/84979/866709/file/ALD30_GP_Kvessie_VF.pdf)
 - Soutien psychologique voire psychothérapie
 - Association de patients: [Ligue contre le cancer](https://www.ligue-cancer.net)
 - Droit à l'oubli: protocole achevé depuis 5 ans en l'absence de rechute
-- Si concerné, déclaration en [Maladie professionnelle]({{< relref "maladie-professionnelle.md" >}}): [16 bis, 15 ter](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&motsCles=&planPatho=TABMALPRO_Pathologie%20r%C3%A9nale%2C%20v%C3%A9sicale%20et%20g%C3%A9nitale%2FPathologie%20des%20voies%20urinaires%2FTumeur%20de%20vessie)
+- Si concerné, déclaration en [Maladie professionnelle]({{% relref "maladie-professionnelle.md" %}}): [16 bis, 15 ter](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&motsCles=&planPatho=TABMALPRO_Pathologie%20r%C3%A9nale%2C%20v%C3%A9sicale%20et%20g%C3%A9nitale%2FPathologie%20des%20voies%20urinaires%2FTumeur%20de%20vessie)
 
 Surveillance des signes thromboemboliques.
 

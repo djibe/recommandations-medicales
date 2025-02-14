@@ -29,7 +29,7 @@ Durées de sommeil recommandées par jour selon l'âge:
 - Adulte: 7 à 9 heures
 - Adolescent: 8 à 10 heures
 - Enfant de 6 à 12 ans: 9 à 12 heures
-- Conséquences majeures d'une restriction du temps de sommeil: [maladies cardiovasculaires](/tags/risque-cardiovasculaire/), métaboliques, [dépression et suicides]({{< relref "depression.md" >}}).
+- Conséquences majeures d'une restriction du temps de sommeil: [maladies cardiovasculaires](/tags/risque-cardiovasculaire/), métaboliques, [dépression et suicides]({{% relref "depression.md" %}}).
 
 {{%/article-summary%}}
 {{%collapse "Durée recommandée de sommeil chez l'adulte" %}}
@@ -46,7 +46,7 @@ Un temps de sommeil souvent inférieur aux durées recommandées provoque une au
 - de l'obésité
 - du [diabète](/tags/diabete/)
 - des [cancers](/tags/cancer/)
-- des [dépressions]({{< relref "depression.md" >}})
+- des [dépressions]({{% relref "depression.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Durée recommandée de sommeil chez l'enfant" %}}

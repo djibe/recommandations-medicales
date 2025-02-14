@@ -30,7 +30,7 @@ todo = "HAS APA, CALC: critères + score FIQ-R, relecture demandée D. Bouhassir
 - Rechercher des comorbidités: jambes sans repos, apnées du sommeil, anxio-dépression ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}), syndrome climatérique ... (voir *Clinique*)
 - Le bilan n'est pas codifié mais les examens ne doivent pas être multipliés
 - La prise en charge de la fibromyalgie repose d'abord sur l'éducation thérapeutique (ETP) et une activité physique adaptée (APA)
-- Les traitements sont adaptées aux plaintes: [dépression vraie]({{< relref "depression.md" >}}) (psychothérapie, ISRS), douleurs (duloxétine, prégabaline), troubles du sommeil (amitriptyline, prégabaline vespérale), handicap (réadaptation pluridisciplinaire)
+- Les traitements sont adaptées aux plaintes: [dépression vraie]({{% relref "depression.md" %}}) (psychothérapie, ISRS), douleurs (duloxétine, prégabaline), troubles du sommeil (amitriptyline, prégabaline vespérale), handicap (réadaptation pluridisciplinaire)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -152,7 +152,7 @@ Rechercher une fibromyalgie en cas de douleur chronique.
 - Antécédents
 - Traitements en cours et essayés
 - Facteurs de risque cardiovasculaire  
-  Tabac, alcool, surpoids (21-35%) et [obésité]({{< relref "obesite-adulte.md" >}}) (32-50%), sédentarité.
+  Tabac, alcool, surpoids (21-35%) et [obésité]({{% relref "obesite-adulte.md" %}}) (32-50%), sédentarité.
 - Contexte socio-professionnel
 - Facteurs aggravants  
   Stress, émotion, posture prolongée, variations météorologiques.
@@ -171,19 +171,19 @@ Rechercher une fibromyalgie en cas de douleur chronique.
 - Retentissement: SF-12, [FIQR](https://fibromyalgiesos.fr/rdv2/wp-content/uploads/2016/06/FIQ.pdf)
 - Diagnostic différentiel
   - Endocrinopathie  
-    [Hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}), hyperparathyroïdie, ostéomalacie, diabète phosphoré.
+    [Hypothyroïdie]({{% relref "hypothyroidie.md" %}}), [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}), hyperparathyroïdie, ostéomalacie, diabète phosphoré.
   - Rhumatisme  
-    [Spondyloarthrite axiale]({{< relref "spondylarthrite-ankylosante.md" >}}), [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}) (PR), lupus, syndrome de Gougerot-Sjögren.
+    [Spondyloarthrite axiale]({{% relref "spondylarthrite-ankylosante.md" %}}), [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}) (PR), lupus, syndrome de Gougerot-Sjögren.
   - Iatrogénie  
     Statine, anti-aromatase.
 - Comorbidités fréquentes à dépister
-  - [Syndrome des jambes sans repos]({{< relref "syndrome-jambes-sans-repos.md" >}}) (23-64%)
-  - [Syndrome d'apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) (45% parmi ceux explorés)  
+  - [Syndrome des jambes sans repos]({{% relref "syndrome-jambes-sans-repos.md" %}}) (23-64%)
+  - [Syndrome d'apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) (45% parmi ceux explorés)  
     {{< modal-btn modal-saos >}}Dépister avec le score STOP-BANG{{< /modal-btn >}}.
   - Symptômes anxio-dépressifs (60-85%, {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}})
-  - [Troubles climatériques]({{< relref "menopause.md" >}})
+  - [Troubles climatériques]({{% relref "menopause.md" %}})
   - Autres  
-    Syndrome de fatigue chronique, [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) (30-70%), céphalées de tension, conflit de l'articulation temporo-mandibulaire.
+    Syndrome de fatigue chronique, [syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}) (30-70%), céphalées de tension, conflit de l'articulation temporo-mandibulaire.
 
 ### Examen clinique
 
@@ -240,7 +240,7 @@ Doses quotidiennes habituelles pour le traitement de la fibromyalgie pour un ess
 
 L'[amitriptyline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68969066&typedoc=R) 10-25 mg (tricyclique, *EULAR*) est également très utilisée quoiqu'avec un niveau de preuve moindre.
 
-Les ISRS (citalopram, fluoxétine, paroxétine) sont utilisés uniquement en cas de [dépression avérée]({{< relref "depression.md" >}}).
+Les ISRS (citalopram, fluoxétine, paroxétine) sont utilisés uniquement en cas de [dépression avérée]({{% relref "depression.md" %}}).
 
 Avis d'une *structure douleur chronique* (SDC) en cas d'échec de la prise en charge.
 

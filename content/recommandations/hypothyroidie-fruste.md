@@ -30,10 +30,10 @@ flowchart = true
   - À 1 an puis tous les 2-3 ans
   - Si +65 ans: TSH à 3-6 mois puis tous les 6 mois puis annuelle
   - Annuel en antécédent de traitement thyroïdien chirurgical ou radioactif
-- Critères très différents pendant la grossesse: voir la section dédiée du chapitre [hypothyroïdie avérée]({{< relref "hypothyroidie.md" >}})
+- Critères très différents pendant la grossesse: voir la section dédiée du chapitre [hypothyroïdie avérée]({{% relref "hypothyroidie.md" %}})
 - On dit << fruste >> et non << frustre >> (qui n'existe pas, *[Académie française](https://www.dictionnaire-academie.fr/article/A9F1803)*)
 
-Chapitre lié: [hypothyroïdie avérée]({{< relref "hypothyroidie.md" >}}) (TSH > 10 mUI et T4L < borne inférieure du laboratoire)
+Chapitre lié: [hypothyroïdie avérée]({{% relref "hypothyroidie.md" %}}) (TSH > 10 mUI et T4L < borne inférieure du laboratoire)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -45,13 +45,13 @@ TSH > borne supérieure du laboratoire à 2 reprises (espacées de 6 semaines) a
 : Chez le +60 ans: borne supérieure de TSH = décennie du patient (ex. 8 mUI/L de 80 à 89 ans)
 
 Hypothyroïdie avérée
-: TSH > 10 mUI/L (20 si +65 ans) et T4L < borne inférieure du laboratoire (voir [hypothyroïdie avérée]({{< relref "hypothyroidie.md" >}})).
+: TSH > 10 mUI/L (20 si +65 ans) et T4L < borne inférieure du laboratoire (voir [hypothyroïdie avérée]({{% relref "hypothyroidie.md" %}})).
 
 Lorsque la TSH est modérément élevée, de 4 à 10 mUI/L, renouveler le dosage TSH + T4L à 6 semaines.
 
 ### Évolution de l'hypothyroïdie fruste
 
-Évolution en 3 parts égales vers: une normalisation, une stabilisation ou une évolution vers une [hypothyroïdie clinique]({{< relref "hypothyroidie.md" >}}).
+Évolution en 3 parts égales vers: une normalisation, une stabilisation ou une évolution vers une [hypothyroïdie clinique]({{% relref "hypothyroidie.md" %}}).
 
 ### Facteurs prédictifs d'évolution vers une hypothyroïdie patente
 
@@ -86,7 +86,7 @@ Prise en charge substitutive de l'hypothyroïdie fruste en cas de:
 - Goitre
 - Antécédents cardiovasculaires ou facteurs de risque cardiovasculaire
 
-Débuter la lévothyroxine à 25-50 µg/j, avec paliers de 12 µg toutes les 6-8 semaines (voir la [fiche hypothyroïdie]({{< relref "hypothyroidie.md" >}})).
+Débuter la lévothyroxine à 25-50 µg/j, avec paliers de 12 µg toutes les 6-8 semaines (voir la [fiche hypothyroïdie]({{% relref "hypothyroidie.md" %}})).
 
 En l'absence d'amélioration clinique malgré une TSH normalisée sur 3-4 mois, l'arrêt du traitement peut se discuter.
 
@@ -104,10 +104,10 @@ Dans les autres cas, surveillance de la TSH:
 {{< mermaid title="Prise en charge de l'hypothyroïdie fruste. Dr JB Fron d'après HAS 2022" >}}
 graph TB
   decouverte["TSH augmentée<br>chez l'adulte"] -- Contrôle à 6 semaines + T4L --> TSH["TSH &gt; borne supérieure<br>(corrigée chez le +60 ans)"] -- T4L normale --> hTFruste(Hypothyroïdie fruste) --> anomalies("<b>Anomalies?</b><br>—<br>- TSH &gt; 10 mUI/L (20 si +65 ans)<br>(+65 ans: avis entre 10 et 20)<br>- Anticorps anti-TPO+<br>- Clinique d'hypothyroïdie<br>- Goitre<br>- Maladie ou facteurs de risque<br>cardiovasculaire") -- Oui --> traitement("Traitement par lévothyroxine:<br>débuter à 25-50 µg<br>(demi-dose si +65 ans fragile)<br>et suivi classique")
-  click traitement "{{< relref "hypothyroidie.md" >}}" "Ouvrir dans un onglet" _blank
+  click traitement "{{% relref "hypothyroidie.md" %}}" "Ouvrir dans un onglet" _blank
   style decouverte stroke:#4150f5, stroke-width:1px
   TSH -- T4L basse --> hT("Hypothyroïdie avérée")
-    click hT "{{< relref "hypothyroidie.md" >}}" "Ouvrir dans un onglet" _blank
+    click hT "{{% relref "hypothyroidie.md" %}}" "Ouvrir dans un onglet" _blank
     anomalies -- Non --> surveillance("- Surveillance à 1 an<br>puis tous les 2-3 ans<br>- Rapprochée si +65 ans<br>ou chirurgie/irradiation thyroïdienne")
   decouverte -- "TSH &gt; 10<br>et T4L &lt; borne inf." --> hT
 {{< /mermaid >}}

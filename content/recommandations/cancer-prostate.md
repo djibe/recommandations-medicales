@@ -33,7 +33,7 @@ flowchart = true
 - Définitions de récidive biologique après traitement (voir *Traitement*)
 - Après traitement, le suivi spécialisé est long (10 ans)
 
-Chapitres liés: [document d'information éclairée INCa](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Le-depistage-du-cancer-de-la-prostate-S-informer-avant-de-decider), [hypertrophie bénigne de la prostate]({{< relref "hypertrophie-benigne-prostate.md" >}})
+Chapitres liés: [document d'information éclairée INCa](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Le-depistage-du-cancer-de-la-prostate-S-informer-avant-de-decider), [hypertrophie bénigne de la prostate]({{% relref "hypertrophie-benigne-prostate.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -119,10 +119,10 @@ TR
 
 ### Interrogatoire
 
-La plupart des hommes atteints par le cancer de la prostate sont asymptomatiques ou les symptômes sont liés à une pathologie bénigne associée (ex. [hypertrophie de la prostate]({{< relref "hypertrophie-benigne-prostate.md" >}})).
+La plupart des hommes atteints par le cancer de la prostate sont asymptomatiques ou les symptômes sont liés à une pathologie bénigne associée (ex. [hypertrophie de la prostate]({{% relref "hypertrophie-benigne-prostate.md" %}})).
 
 - Antécédents
-- Antécédents familiaux ([cancers](/tags/cancer/) de prostate, [sein]({{< relref "cancer-sein.md" >}}) et [ovaire]({{< relref "cancer-ovaire.md" >}}), mutation BRCA2)
+- Antécédents familiaux ([cancers](/tags/cancer/) de prostate, [sein]({{% relref "cancer-sein.md" %}}) et [ovaire]({{% relref "cancer-ovaire.md" %}}), mutation BRCA2)
 - Origine africaine
 - Exposition professionnelle aux pesticides
 - Symptômes frustes génito-urinaire: dysurie
@@ -157,7 +157,7 @@ La plupart des hommes atteints par le cancer de la prostate sont asymptomatiques
 Risque diminué de cancer de la prostate si PSA < 1 ng/mL à 40 ans et < 2 à 60 ans.
 {{%/warning%}}
 
-**Rappel.** La mesure du PSA est faussée à la hausse par une prostatite, une [HBP]({{< relref "hypertrophie-benigne-prostate.md" >}}) ou à l'inverse à la baisse par un I5AR (HBP, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})).
+**Rappel.** La mesure du PSA est faussée à la hausse par une prostatite, une [HBP]({{% relref "hypertrophie-benigne-prostate.md" %}}) ou à l'inverse à la baisse par un I5AR (HBP, [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}})).
 
 > En cas de prise d'inhibiteur de la 5-alpha-réductase, doubler la valeur du PSA (*McConnell 2003*).
 
@@ -172,7 +172,7 @@ Positions des différents comités sur la détection précoce du cancer de la pr
 - Commission européenne 2022  
   PSA jusqu'à 70 ans.
 - EAU 2024  
-  Intérêt d'une détection précoce des *hommes à risque* ayant une [espérance de vie (EV) de +15 ans]({{< relref "esperance-vie-age-france.md" >}}) (71 ans en France)
+  Intérêt d'une détection précoce des *hommes à risque* ayant une [espérance de vie (EV) de +15 ans]({{% relref "esperance-vie-age-france.md" %}}) (71 ans en France)
 - AFU 2022  
   Hommes de 50 (40 à 45 si *à risque*) à 70 ans avec espérance de vie de +10 ans, tous les 2 à 4 ans.
 - USPTF 2018  
@@ -203,7 +203,7 @@ Répéter le dépistage par toucher rectal et dosage du PSA:
   - PSA > 1 ng/mL à 40 ans
   - PSA > 2 ng/mL à 60 ans
 - Tous les 8 ans sous ces seuils (**4 ans** pour l'AFU)
-- Arrêt du dépistage: [espérance de vie < 15 ans]({{< relref "esperance-vie-age-france.md" >}}) (10 ans selon *AFU*)
+- Arrêt du dépistage: [espérance de vie < 15 ans]({{% relref "esperance-vie-age-france.md" %}}) (10 ans selon *AFU*)
 
 > -- *EAU 2024*
 
@@ -211,7 +211,7 @@ Répéter le dépistage par toucher rectal et dosage du PSA:
 
 La biopsie de prostate (voie transrectale ou transpérinéale) est indiquée en cas de lésion avancée à l'IRM prostatique.
 
-Liste des complications de la biopsie prostatique par ordre de fréquence: hémospermie (37%), [hématurie]({{< relref "hematurie.md" >}}) +1 jour, rectorragie < 2 jours, prostatite, fièvre, épididymite ...
+Liste des complications de la biopsie prostatique par ordre de fréquence: hémospermie (37%), [hématurie]({{% relref "hematurie.md" %}}) +1 jour, rectorragie < 2 jours, prostatite, fièvre, épididymite ...
 
 ### Indications à une consultation d'oncogénétique
 
@@ -232,7 +232,7 @@ Indications à une consultation d'oncogénétique selon l'*AFU 2022*:
   - 3 cas de CaP de la même branche familiale au 1^er^ ou 2^e^ degré
   - 2 cas de CaP avant 55 ans de la même branche familiale au 1^er^ ou 2^e^ degré
 - Forme précoce de cancer de la prostate: CaP avant 50 ans
-- CaP associé au [cancer du sein]({{< relref "cancer-sein.md" >}}) ou de l'[ovaire]({{< relref "cancer-ovaire.md" >}})  
+- CaP associé au [cancer du sein]({{% relref "cancer-sein.md" %}}) ou de l'[ovaire]({{% relref "cancer-ovaire.md" %}})  
   Mutation prédisposant (ex. BRCA2), cancer du sein (avant 40 ans, bilatéral ou de l'homme), un cas de cancer de l'ovaire
 
 Une détection précoce peut être proposée à partir de 40 ans voire 10 ans avant le cas le plus jeune diagnostiqué.
@@ -251,7 +251,7 @@ Après prostatectomie totale, la cible du PSA est < 0,2 ng/mL à 6 semaines.
 
 Mesures associées aux cancers:
 
-- Déclarer l'**[ALD n°30]({{< relref "affection-longue-duree.md" >}})**
+- Déclarer l'**[ALD n°30]({{% relref "affection-longue-duree.md" %}})**
 - Activité physique quotidienne ([guide patient](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_cancer.pdf))
 - Soutien psychologique
 
@@ -277,7 +277,7 @@ Le seuil de PSA total pour affirmer une récidive dépend du traitement radical:
 Complications fréquentes survenant dans les suites d'une prostatectomie (PT) radicale:
 
 - Incontinence urinaire chronique (20%)
-- [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) (2/3)
+- [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}) (2/3)
 
 [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 102](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%20102): exposition aux pesticides ≥ 10 ans.
 {.alert .alert-info}

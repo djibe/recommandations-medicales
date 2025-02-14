@@ -32,7 +32,7 @@ flowchart = true
 - La prise en charge et le traitement des accès de rhumatisme à PPC est identique à celui de la goutte: repos, glaçage, AINS ou colchicine 0,5 mg x 3/j ou corticoïdes selon le terrain, voire ponction évacuatrice ± infiltration de corticoïdes
 - Le bilan étiologique comporte: ferritine, calcium, magnésium, PAL, TSH
 
-Chapitre lié: [goutte et hyperuricémie]({{< relref "goutte.md" >}})
+Chapitre lié: [goutte et hyperuricémie]({{% relref "goutte.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -40,7 +40,7 @@ Chapitre lié: [goutte et hyperuricémie]({{< relref "goutte.md" >}})
 Rhumatisme à pyrophosphate de calcium
 : ex Chondrocalcinose articulaire ou pseudogoutte
 : Arthropathie microcristalline à pyrophosphate de calcium (PPC) la plus souvent idiopathique. Le diagnostic est biologique avec la mise en évidence des cristaux sur ponction articulaire. Le tableau peut varier: crises suraiguës occasionnelles (le plus souvent), crises répétées ou atteinte chronique.
-: Une forme secondaire à une [hémochromatose]({{< relref "hemochromatose.md" >}}) ou une hyperparathyroïdie primitive doit être recherchée. Deux autres causes plus rares sont possibles: hypophosphatasie congénitale et syndrome de Gitelman (magnésémie basse), recherchées sur un simple bilan biologique.
+: Une forme secondaire à une [hémochromatose]({{% relref "hemochromatose.md" %}}) ou une hyperparathyroïdie primitive doit être recherchée. Deux autres causes plus rares sont possibles: hypophosphatasie congénitale et syndrome de Gitelman (magnésémie basse), recherchées sur un simple bilan biologique.
 
 ### Abréviations
 
@@ -68,12 +68,12 @@ Sémiologie classique suraiguë des accès microcristallins articulaires:
 Éléments à étayer lors de l'examen clinique:
 
 - Antécédents  
-  [Hémochromatose]({{< relref "hemochromatose.md" >}}), poussées identiques, polyarthralgies (polyarthrite rhumatoïde), traumatismes articulaires, métaboliques.
+  [Hémochromatose]({{% relref "hemochromatose.md" %}}), poussées identiques, polyarthralgies (polyarthrite rhumatoïde), traumatismes articulaires, métaboliques.
 - Antécédents familiaux  
   Articulaires, hémochromatose.
 - Traitements en cours: biphosphonates
 
-Une chronicisation des symptômes est possible, devant faire évoquer une [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}).
+Une chronicisation des symptômes est possible, devant faire évoquer une [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -99,7 +99,7 @@ Le diagnostic de certitude nécessite une **ponction articulaire diagnostique** 
 
 En cas de diagnostic confirmé, le bilan étiologique (à distance) recherche une chondrocalcinose secondaire:
 
-- Ferritinémie ([hémochromatose]({{< relref "hemochromatose.md" >}}))
+- Ferritinémie ([hémochromatose]({{% relref "hemochromatose.md" %}}))
 - Calcémie (hyperparathyroïdie primitive)
 - Magnésémie (syndrome de Gitelman)
 - Phosphatases alcalines (PAL, hypophosphatasie congénitale)
@@ -123,7 +123,7 @@ Adresser au rhumatologue en cas de: rhumatisme de type chondrocalcinosique avant
 
 ### Prise en charge du rhumatisme à cristaux de PPC (ex chondrocalcinose)
 
-Le traitement est symptomatique identique à celui de [la crise de goutte]({{< relref "goutte.md" >}}):
+Le traitement est symptomatique identique à celui de [la crise de goutte]({{% relref "goutte.md" %}}):
 
 - Repos, glaçage
 - Anti-inflammatoires AINS ou colchicine 0,5 mg x 3-4/j
@@ -140,7 +140,7 @@ En cas d'atteinte chronique (symptômes persistants), les traitements préféren
 
 - AINS ou colchicine faible dose (0,5-1 mg/j)
 - Corticothérapie faible dose
-- Voire [méthotrexate]({{< relref "methotrexate.md" >}}) 5-10 mg/sem  
+- Voire [méthotrexate]({{% relref "methotrexate.md" %}}) 5-10 mg/sem  
   ou hydroxychloroquine 100-400 mg/j
 
 ### Tendinopathie calcifiante ou inflammation péri-articulaire d'origine apatitique

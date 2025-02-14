@@ -42,10 +42,10 @@ Boulimie nerveuse
 : La boulimie atteint le plus souvent les filles (90%) avec une installation en fin d'adolescence (18 ans).
 : Le retentissement est important tant individuel (physique, psychique) que familial et social, à l'origine d'une surmortalité (troubles métaboliques et suicides)
 : La guérison complète est la cible de l'approche pluridisciplinaire qui doit être la plus précoce possible.
-: Les comorbidités psychiatriques sont très fréquentes: [dépression]({{< relref "depression.md" >}}), anxiété, addictions, troubles de la personnalité et autres TCA.
+: Les comorbidités psychiatriques sont très fréquentes: [dépression]({{% relref "depression.md" %}}), anxiété, addictions, troubles de la personnalité et autres TCA.
 
 Hyperphagie boulimique
-: Trouble des conduites alimentaires (TCA) marqué par des crises de **boulimie sans les comportements compensatoires** associés à la boulimie nerveuse, à l'origine d'un surpoids ou d'une **[obésité]({{< relref "obesite-adulte.md" >}})**.
+: Trouble des conduites alimentaires (TCA) marqué par des crises de **boulimie sans les comportements compensatoires** associés à la boulimie nerveuse, à l'origine d'un surpoids ou d'une **[obésité]({{% relref "obesite-adulte.md" %}})**.
 : Le trouble débute un peu plus tard (jeune adulte) sans différence de sexe.
 
 > [!WARNING]
@@ -55,11 +55,11 @@ Hyperphagie boulimique
 
 Autres causes d'hyperphagie secondaire d'origine organique:
 
-- [Ténia]({{< relref "tenia.md" >}})
+- [Ténia]({{% relref "tenia.md" %}})
 - Tumeur cérébrale frontale
 - Épilepsie partielle
 - Syndrome démentiel
-- Endocrinopathie: [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}), [Cushing]({{< relref "syndrome-cushing.md" >}})
+- Endocrinopathie: [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}), [Cushing]({{% relref "syndrome-cushing.md" %}})
 - Syndrome de Kleine-Levin  
   Adolescent avec crises d'hyperphagie, hypersomnie et troubles du comportement sexuel.
 - Autres troubles psychiatriques  
@@ -108,8 +108,8 @@ Un repérage ciblé de la boulimie est recommandé chez les groupes à risque:
 - Situations ou symptômes évocateurs
   - Variations rapides de poids
   - Surpoids ou obésité résistants à la prise en charge
-  - Pathologie impliquant des régimes: [diabète type 1]({{< relref "diabete-type-1.md" >}}), [diabète type 2]({{< relref "diabete-type-2.md" >}}) ou [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})
-  - Troubles des menstruations (aménorrhée), [infertilité]({{< relref "infertilite-couple.md" >}}), [SOPK]({{< relref "syndrome-ovaires-polykystiques-sopk.md" >}})
+  - Pathologie impliquant des régimes: [diabète type 1]({{% relref "diabete-type-1.md" %}}), [diabète type 2]({{% relref "diabete-type-2.md" %}}) ou [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}})
+  - Troubles des menstruations (aménorrhée), [infertilité]({{% relref "infertilite-couple.md" %}}), [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}})
   - Symptômes digestifs inexpliqués
   - Vomissements répétés ou hypokaliémie inexpliqués
   - Problèmes dentaires (érosions dentaires)
@@ -123,7 +123,7 @@ Un repérage ciblé de la boulimie est recommandé chez les groupes à risque:
 
 ### Facteurs devant faire rechercher une hyperphagique boulimique
 
-- Surpoids, [obésité]({{< relref "obesite-adulte.md" >}})
+- Surpoids, [obésité]({{% relref "obesite-adulte.md" %}})
 - Demande ou échec de chirurgie bariatrique
 - Troubles bipolaires
 - Traitement antipsychotique (amplifie la prise de poids)
@@ -154,8 +154,8 @@ L'interrogatoire explore également:
 - Identifier la demande ou la plainte
 - Antécédents (voir *Quand évoquer une boulimie*)
 - Autres situations à dépister
-  - Femme enceinte: [nausées/vomissements intenses]({{< relref "vomissements-grossesse-hyperemese-gravidique.md" >}}), prise de poids insuffisante/excessive
-  - [Diabète type 1]({{< relref "diabete-type-1.md" >}}): variations importantes d'HbA1c ou poids (mésusage d'insuline). Questionnaires adaptés (DEPS-R, m-EDI, m-SCOFF)
+  - Femme enceinte: [nausées/vomissements intenses]({{% relref "vomissements-grossesse-hyperemese-gravidique.md" %}}), prise de poids insuffisante/excessive
+  - [Diabète type 1]({{% relref "diabete-type-1.md" %}}): variations importantes d'HbA1c ou poids (mésusage d'insuline). Questionnaires adaptés (DEPS-R, m-EDI, m-SCOFF)
 - Traitements en cours
 - Signes cliniques évocateurs de boulimie nerveuse
   - Demande de perte de poids ou régime amaigrissant
@@ -174,11 +174,11 @@ L'interrogatoire explore également:
 - **Retentissement des troubles**  
   Somatique, sexuel (conduites à risque), social, professionnel, financier.
 - Psychiatrique  
-  - Sommeil, humeur, anxiété, automutilations, idées suicidaires, comportements impulsifs, TOC, troubles de la personnalité, addictions et substances, [TDAH]({{< relref "trouble-deficit-attention-tdah.md" >}})
+  - Sommeil, humeur, anxiété, automutilations, idées suicidaires, comportements impulsifs, TOC, troubles de la personnalité, addictions et substances, [TDAH]({{% relref "trouble-deficit-attention-tdah.md" %}})
   - Automutilations ou boulimie sévère: rechercher des antécédents d'abus ou de troubles de la personnalité
   - Obésité et crises boulimiques: rechercher un trouble bipolaire
   - Homme: envisager la recherche de signes de schizophrénie
-- Étayer le diagnostic différentiel: signes de [ténia]({{< relref "tenia.md" >}}), [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}), [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}) ...
+- Étayer le diagnostic différentiel: signes de [ténia]({{% relref "tenia.md" %}}), [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}), [syndrome de Cushing]({{% relref "syndrome-cushing.md" %}}) ...
 
 > [!WARNING]
 > Envisager la recherche de schizophrénie chez tout homme atteint de TCA.
@@ -197,7 +197,7 @@ Bilan à la recherche de complications somatiques:
 - Digestif  
   Reflux, douleurs abdominales, troubles du transit, hémorragie digestive.
 - Dermatologique  
-  Scarifications, callosités dorsales des mains (signe de Russell lié aux vomissements fréquents), signes de carences ([alopécie]({{< relref "alopecie.md" >}}), ongles cassants, [perlèche]({{< relref "mycoses-dermatophytes-candidoses.md" >}}))
+  Scarifications, callosités dorsales des mains (signe de Russell lié aux vomissements fréquents), signes de carences ([alopécie]({{% relref "alopecie.md" %}}), ongles cassants, [perlèche]({{% relref "mycoses-dermatophytes-candidoses.md" %}}))
 - Musculaire  
   Fatigabilité, crampes, fasciculations.
 - ORL  
@@ -226,7 +226,7 @@ Examens proposés pour évaluer le retentissement de la boulimie:
 - Ostéodensitométrie si:
   - Boulimie et aménorrhée +6 mois
   - Boulimie et antécédent d'anorexie mentale
-  - Facteur de risque d'[ostéoporose]({{< relref "osteoporose.md" >}})
+  - Facteur de risque d'[ostéoporose]({{% relref "osteoporose.md" %}})
   - Examen répété après plusieurs années
 - Si vomissements
   - Vitamine B1
@@ -268,7 +268,7 @@ Un trouble borderline augmente le risque d'abandon prématuré. Rester disponibl
 
 La prise en charge de la boulimie est pluridisciplinaire et chronique, ambulatoire en première intention:
 
-- Trouble sévère: [ALD n°23]({{< relref "affection-longue-duree.md" >}})
+- Trouble sévère: [ALD n°23]({{% relref "affection-longue-duree.md" %}})
 - Impliquer la famille
 - Le coordonnateur du parcours doit être clairement identifié
 - Équipe: équipe spécialisée ([annuaire FFAB](https://www.ffab.fr/trouver-de-l-aide/annuaire-2021)), psychiatre, nutritionniste
@@ -300,7 +300,7 @@ Informer et traiter les risques liés à chaque atteinte:
   - Laxatifs: arrêt progressif
   - Diurétiques: arrêt
 - Supplémentations vitamino-calciques adaptées à l'âge, régime et dosages
-- [Obésité]({{< relref "obesite-adulte.md" >}}): prise en charge spécifique
+- [Obésité]({{% relref "obesite-adulte.md" %}}): prise en charge spécifique
 
 {{% /collapse %}}
 {{%collapse "Information du patient et éducation thérapeutique" %}}

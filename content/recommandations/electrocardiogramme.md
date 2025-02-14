@@ -37,7 +37,7 @@ Le modificateur (jour férié, nuit) est applicable en cas d'urgence ou de garde
 {{% /collapse %}}
 {{%collapse "Téléexpertise des ECG" %}}
 
-L'ECG annuel est requis en cas de diabète type 2, au diagnostic puis tous les 3 à 5 ans pour l'hypertension artérielle, avant un traitement allongeant le QT ... Ainsi, en dehors de situations d'urgence, cet ECG de routine peut être réalisé au cabinet puis envoyé en [téléexpertise]({{< relref "teleexpertise.md" >}}) (RQD: 10€) pour s'assurer de l'absence d'anomalies.
+L'ECG annuel est requis en cas de diabète type 2, au diagnostic puis tous les 3 à 5 ans pour l'hypertension artérielle, avant un traitement allongeant le QT ... Ainsi, en dehors de situations d'urgence, cet ECG de routine peut être réalisé au cabinet puis envoyé en [téléexpertise]({{% relref "teleexpertise.md" %}}) (RQD: 10€) pour s'assurer de l'absence d'anomalies.
 
 Sur Omnidoc, le groupe *SOS ECG* offre à tous les confrères cette expertise.
 

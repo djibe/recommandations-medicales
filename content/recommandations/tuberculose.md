@@ -26,7 +26,7 @@ todo = "lecture tubertest, quantiferon positif signe TM ?, KEY: maladie, lutte c
 *Ébauche*
 
 - Indications au BCG +++
-- [Maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
+- [Maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Vaccination BCG" %}}
@@ -50,7 +50,7 @@ Le BCG est indiqué en cas de risque élevé de tuberculose parmi:
 
 Pour les professionnels de santé: évaluation de l'exposition au cas par cas par la *médecine du travail*.
 
-**Contre-indications au BCG:** [VIH]({{< relref "vih-sida.md" >}}), chimiothérapie, corticoïdes.
+**Contre-indications au BCG:** [VIH]({{% relref "vih-sida.md" %}}), chimiothérapie, corticoïdes.
 
 Le BCG peut être administré en même temps que n'importe quel autre vaccin mais doit être exclusif sur un bras.
 

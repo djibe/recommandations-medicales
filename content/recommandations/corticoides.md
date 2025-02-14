@@ -36,7 +36,7 @@ Recommandations pour une corticothérapie chez l'adulte (≥ 18 ans):
 
 Les biphosphonates ne sont pas encore détaillés.
 
-Chapitres liés: [corticoïdes inhalés]({{< relref "corticoides-inhales.md" >}}), [dermocorticoïdes]({{< relref "dermocorticoides.md" >}}), [syndrome de Cushing]({{< relref "syndrome-cushing.md" >}}).
+Chapitres liés: [corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}), [dermocorticoïdes]({{% relref "dermocorticoides.md" %}}), [syndrome de Cushing]({{% relref "syndrome-cushing.md" %}}).
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -44,7 +44,7 @@ Chapitres liés: [corticoïdes inhalés]({{< relref "corticoides-inhales.md" >}}
 Glucocorticoïdes
 : Substances naturelles (cortisol de la zone fasciculée de la glande surrénale) ou de synthèse ayant des propriétés anti-inflammatoires, antalgiques, antipyrétiques et immunosuppressives d'intensité variable.
 : Le traitement systémique par corticoïde est dit **court** lorsqu'il est inférieur à 3 ou 4 semaines et **long** au-delà.
-: Complications de la corticothérapie: métaboliques (prise de poids, [hyperglycémie](/tags/diabete/), fonte musculaire, graisses facio-tronculaires), cardiovasculaires ([hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})), insuffisance surrénale (1% des traitements chroniques), [ostéoporose]({{< relref "osteoporose.md" >}}), ostéonécrose aseptique.
+: Complications de la corticothérapie: métaboliques (prise de poids, [hyperglycémie](/tags/diabete/), fonte musculaire, graisses facio-tronculaires), cardiovasculaires ([hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})), insuffisance surrénale (1% des traitements chroniques), [ostéoporose]({{% relref "osteoporose.md" %}}), ostéonécrose aseptique.
 
 Syndrome de sevrage des corticoïdes
 : Symptômes ressentis lors de la diminution du traitement pour des doses de glucocorticoïdes supraphysiologiques.
@@ -63,7 +63,7 @@ ESE
 {{%collapse "Clinique" %}}
 
 {{%warning%}}
-Évoquer une insuffisance surrénale en cas de symptômes et de prise récente de corticoïdes: locaux forte dose ou prolongés ([asthme]({{< relref "asthme.md" >}}), [psoriasis]({{< relref "psoriasis.md" >}})), corticoïdes associés, traitement par un inhibiteur du cytochrome P450 3A4 (antiviraux, ISRS ...), de doses élevées ou prolongées +1 an, d'infiltration intra-articulaire dans les 2 mois.
+Évoquer une insuffisance surrénale en cas de symptômes et de prise récente de corticoïdes: locaux forte dose ou prolongés ([asthme]({{% relref "asthme.md" %}}), [psoriasis]({{% relref "psoriasis.md" %}})), corticoïdes associés, traitement par un inhibiteur du cytochrome P450 3A4 (antiviraux, ISRS ...), de doses élevées ou prolongées +1 an, d'infiltration intra-articulaire dans les 2 mois.
 
 ---
 
@@ -83,7 +83,7 @@ Considérer un syndrome de Cushing iatrogène comme insuffisant surrénalien.
   - Peau fine, vergetures, acné, hirsutisme
   - Hypertension artérielle
   - Troubles de l'humeur, insomnie
-  - Au maximum: [syndrome Cushingoïde]({{< relref "syndrome-cushing.md" >}})
+  - Au maximum: [syndrome Cushingoïde]({{% relref "syndrome-cushing.md" %}})
 - **Signes et symptômes d'insuffisance surrénale**
   - Malaise, fatigue, nausées, myalgies et arthralgies
   - Amaigrissement
@@ -98,7 +98,7 @@ Considérer un syndrome de Cushing iatrogène comme insuffisant surrénalien.
 - Pression artérielle, fréquence cardiaque
 - Poids et variations, taille et variations
 - État cutané  
-  Vergetures pourpres, peau fine, [hirsutisme]({{< relref "hirsutisme.md" >}}).
+  Vergetures pourpres, peau fine, [hirsutisme]({{% relref "hirsutisme.md" %}}).
 
 Les corticoïdes par voie générale ne doivent pas être utilisés en cas de: angine, bronchiolite, dermatite atopique et eczéma de contact, diverticulite sigmoïdienne, érysipèle, grippe, herpès, otite moyenne aiguë, rhinite allergique, spondylarthrite ankylosante, urticaire, varicelle/zona.
 {.alert .alert-warning}
@@ -158,10 +158,10 @@ Mesures associées à un traitement corticoïde prolongé:
   - Informer sur l'effet orexigène des corticoïdes
 - Prévention de l'ostéoporose cortisonique
   - {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}}
-  - [Supplémentation en calcium]({{< relref "apports-calcium.md" >}}) et [vitamine D]({{< relref "vitamine-d.md" >}}) à distance des repas.
+  - [Supplémentation en calcium]({{% relref "apports-calcium.md" %}}) et [vitamine D]({{% relref "vitamine-d.md" %}}) à distance des repas.
     {{< traitements/calcium-vitd >}}
 - Suivi des effets indésirables: hypertension, amyotrophie, état cutané et psychologique
-- Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}})
+- Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}})
   - Vaccins de l'immunodéprimé
   - Si > 10 mg/j éq. prednisone: contre-indication aux vaccins vivants
 - Éducation thérapeutique

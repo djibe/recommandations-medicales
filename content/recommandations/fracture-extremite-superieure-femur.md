@@ -29,7 +29,7 @@ todo = "flow | échelle géria mini-GDS"
 - Le traitement chirurgical d'une fracture de l'extrémité supérieure du fémur est semi-urgent, suivi d'une rééducation précoce
 - Le suivi de la fracture par le médecin généraliste comporte l'évaluation des: rééducation à la marche, douleurs, cicatrice, thromboprophylaxie pendant 4 semaines par fondaparinux, autonomie, ostéoporose (zolédronate IV uniquement)
 
-Chapitres liés: [ostéoporose post-ménopausique]({{< relref "osteoporose.md" >}}) et [ostéoporose masculine]({{< relref "osteoporose-masculine.md" >}})
+Chapitres liés: [ostéoporose post-ménopausique]({{% relref "osteoporose.md" %}}) et [ostéoporose masculine]({{% relref "osteoporose-masculine.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -116,7 +116,7 @@ La prévention des fractures de l'extrémité supérieure du fémur (FESF) conce
 
 - {{< modal-btn modal-risque-chute >}}Facteurs de risque de chutes{{< /modal-btn >}} et prévention des chutes
 - Activité physique quotidienne
-- Lutte contre l'[ostéoporose]({{< relref "osteoporose.md" >}})
+- Lutte contre l'[ostéoporose]({{% relref "osteoporose.md" %}})
   - Ostéodensitométrie si facteurs de risque (ou à 60 ans pour le *GRIO*)
   - Dosage de la vitamine D chez les personnes qui tombent (cible > 75 nmol/L)
   - {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} (cible > 1 g/j) et souvent supplémenter à distance des repas
@@ -186,7 +186,7 @@ Suivi médical après fracture de hanche:
 - +65 ans: évaluation gériatrique standardisée
 - Ostéoporose
   - Ostéodensitométrie systématique  
-    Traitement par biphosphonate **zolédronate 5 mg IVL** annuel si T-score ≤ -1 (voir [ostéoporose]({{< relref "osteoporose.md" >}})), avis rhumatologique si T-score compris de 0 à -1 (*GRIO*).
+    Traitement par biphosphonate **zolédronate 5 mg IVL** annuel si T-score ≤ -1 (voir [ostéoporose]({{% relref "osteoporose.md" %}})), avis rhumatologique si T-score compris de 0 à -1 (*GRIO*).
   - Dosage de la vitamine D (cible > 75 nmol/L)
   - {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} (cible > 1 g/j) et souvent supplémenter à distance des repas
 

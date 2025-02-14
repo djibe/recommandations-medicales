@@ -30,11 +30,11 @@ flowchart = true
 - Le traitement et la prise en charge de l'intestin irritable comporte:
     1. Information, activité physique et réévaluations à 2-3 mois
     2. Puis mesures diététiques et titration d'ispaghul
-    3. Suivi diététique pour essai d'éviction des [FODMAPs]({{< relref "regime-fodmaps.md" >}}) 4-6 semaines voire probiotiques 12 semaines
+    3. Suivi diététique pour essai d'éviction des [FODMAPs]({{% relref "regime-fodmaps.md" %}}) 4-6 semaines voire probiotiques 12 semaines
     4. Selon les symptômes: lopéramide pour diarrhées (SSI-D), polyéthylène glycol pour constipation (SSI-C), paracétamol, pinavérium et menthe poivrée si douleurs (voire tricyclique)
     5. Suivi spécialisé en cas de résistance au traitement
 
-Chapitre lié: [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
+Chapitre lié: [diarrhée chronique]({{% relref "diarrhee-chronique.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -51,12 +51,12 @@ Constipation
 ### Diagnostic différentiel
 
 - Diarrhée fonctionnelle
-- [Constipation fonctionnelle]({{< relref "constipation.md" >}})
+- [Constipation fonctionnelle]({{% relref "constipation.md" %}})
 - Distension abdominale fonctionnelle
-- [Dyspepsie]({{< relref "dyspepsie.md" >}})
-- [Cancer colorectal]({{< relref "cancer-colorectal.md" >}})
+- [Dyspepsie]({{% relref "dyspepsie.md" %}})
+- [Cancer colorectal]({{% relref "cancer-colorectal.md" %}})
 - MICI
-- [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})
+- [Maladie cœliaque]({{% relref "maladie-coeliaque.md" %}})
 - Iatrogénie  
   Modificateurs du transit, metformine, colchicine, AINS ...
 
@@ -71,7 +71,7 @@ CNP-HGE
 EPS
 : examen parasitologique des selles
 
-[FODMAPs]({{< relref "regime-fodmaps.md" >}})
+[FODMAPs]({{% relref "regime-fodmaps.md" %}})
 : {{%lang%}}fermentable oligosaccharides, disaccharides and monosaccharides and polyols{{%/lang%}} (aliments fermentescibles)
 
 IRS
@@ -92,7 +92,7 @@ SNFGE
 Critères d'adressage rapide au gastro-entérologue:
 
 - Survenue après 50 ans
-- Rectorragies, méléna ou [anémie]({{< relref "anemie.md" >}})
+- Rectorragies, méléna ou [anémie]({{% relref "anemie.md" %}})
 - Symptômes nocturnes
 - Amaigrissement
 - Apparition ou modification récente des symptômes
@@ -125,16 +125,16 @@ Le diagnostic de syndrome de l'intestin irritable est clinico-biologique: syndro
     [Échelle de Bristol](https://fr.wikipedia.org/wiki/%C3%89chelle_de_Bristol).
   - Autres: satiété précoce, épigastralgies, nausées
   - Sévérité: score IBS-SSS
-- [Dyspepsie]({{< relref "dyspepsie.md" >}}) associée: douleur ou inconfort centré sur l'épigastre
+- [Dyspepsie]({{% relref "dyspepsie.md" %}}) associée: douleur ou inconfort centré sur l'épigastre
 - Signes négatifs
   - AEG
   - Rectorragies
   - Symptômes nocturnes
-  - [Incontinence anale]({{< relref "incontinence-fecale.md" >}})
+  - [Incontinence anale]({{% relref "incontinence-fecale.md" %}})
   - Rachialgies
   - Signes urinaires et gynécologiques
 - Bilans déjà réalisés
-- Comorbidités fréquemment associées, également en faveur du diagnostic: [fibromyalgie]({{< relref "fibromyalgie.md" >}}), céphalées de tension, fatigue chronique
+- Comorbidités fréquemment associées, également en faveur du diagnostic: [fibromyalgie]({{% relref "fibromyalgie.md" %}}), céphalées de tension, fatigue chronique
 - Qualité de vie
 - Anxiété
 
@@ -146,7 +146,7 @@ Le diagnostic de syndrome de l'intestin irritable est clinico-biologique: syndro
 - Signes négatifs: signes d'anémie  
   {{< clinique/anemie >}}
 
-Avis gastro-entérologique si: doute diagnostique, symptômes sévères ou échec du traitement de première intention, demande du patient, [incontinence fécale]({{< relref "incontinence-fecale.md" >}}).
+Avis gastro-entérologique si: doute diagnostique, symptômes sévères ou échec du traitement de première intention, demande du patient, [incontinence fécale]({{% relref "incontinence-fecale.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -156,16 +156,16 @@ Avis gastro-entérologique si: doute diagnostique, symptômes sévères ou éche
 ### Bilan pour suspicion de syndrome de l'intestin irritable
 
 - NFS, CRP
-- [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}): IgA anti-transglutaminase, IgA totales
+- [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}): IgA anti-transglutaminase, IgA totales
 - Si diarrhées: TSH, examen parasitologique des selles (EPS) si début brutal  
   et calprotectine fécale avant 45 ans (60€ non remboursés pour éliminer une MICI)
-- Rythme normal du [dépistage du cancer colorectal]({{< relref "cancer-colorectal.md" >}}) selon le niveau de risque
-- Femme +50 ans: envisager une échographie pelvienne par voie sus-pubienne et endovaginale (voir [cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}}))
+- Rythme normal du [dépistage du cancer colorectal]({{% relref "cancer-colorectal.md" %}}) selon le niveau de risque
+- Femme +50 ans: envisager une échographie pelvienne par voie sus-pubienne et endovaginale (voir [cancer de l'ovaire]({{% relref "cancer-ovaire.md" %}}))
 
 > BSG et SNFGE (mais avis parfois divergents)
 {{%/info%}}
 
-Si dyspepsie associée avant 50 ans: sérologie *[Helicobacter pylori]({{< relref "helicobacter-pylori.md" >}})* ou test respiratoire.
+Si dyspepsie associée avant 50 ans: sérologie *[Helicobacter pylori]({{% relref "helicobacter-pylori.md" %}})* ou test respiratoire.
 
 La fibroscopie gastrique peut être réalisée en cas de diarrhées (SII-D) ou de dyspepsie associée (si +50 ans, signe d'alarme, résistante).
 
@@ -181,7 +181,7 @@ Indications limitées à la coloscopie pour le bilan diagnostic:
 - Suspicion de colite microscopique  
   Femme +50 ans, pathologie auto-immune, diarrhée aqueuse nocturne ou sévère depuis moins d'un an, perte de poids, traitement à risque (IPP, AINS).
 - Suspicion de diarrhée biliaire: diarrhée nocturne ou antécédent de cholécystectomie
-- Antécédent familial de cancer colorectal ou d'adénome ≥ 10 mm chez 1 parent au 1er degré avant 65 ans ou chez ≥ 2 parents au 1er degré à tout âge; à partir de 45 ans ou 10 ans avant le cas index (voir [CCR]({{< relref "cancer-colorectal.md" >}}))
+- Antécédent familial de cancer colorectal ou d'adénome ≥ 10 mm chez 1 parent au 1er degré avant 65 ans ou chez ≥ 2 parents au 1er degré à tout âge; à partir de 45 ans ou 10 ans avant le cas index (voir [CCR]({{% relref "cancer-colorectal.md" %}}))
 
 {{% /collapse %}}
 {{%collapse "Traitement du syndrome de l'intestin irritable" %}}
@@ -199,7 +199,7 @@ Les traitements peuvent être pris uniquement lors des périodes de poussées sy
 
 Réévaluation à 2-3 mois. Si insuffisant, proposer:
 
-- Diététicien pour régime pauvre en sucres dits fermentescibles ([FODMAPs]({{< relref "regime-fodmaps.md" >}}))
+- Diététicien pour régime pauvre en sucres dits fermentescibles ([FODMAPs]({{% relref "regime-fodmaps.md" %}}))
   - Présents dans: édulcorants, plats préparés, lactose, blé-orge-seigle, légumes (asperges, choux, brocolis, poireaux, artichaut), fruits (pomme, poire)
   - Essai strict pendant 4-6 semaines et réintroduction progressive si efficace pour identifier l'agent
 - Essai probiotiques (ex: *Lactobacillus*, *Bifidobacterium infantis 35624*) 12 semaines

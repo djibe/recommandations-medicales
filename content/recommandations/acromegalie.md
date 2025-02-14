@@ -24,7 +24,7 @@ flowchart = true
 {{%article-summary%}}
 
 - L'acromégalie correspond aux manifestations induites par une sécrétion endogène excessive d'hormone de croissance (GH)
-- Suspecter une acromégalie en cas de: changement de taille de bague, de pointure de chaussures, de syndrome dysmorphique ... ou de complications: [syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+- Suspecter une acromégalie en cas de: changement de taille de bague, de pointure de chaussures, de syndrome dysmorphique ... ou de complications: [syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}}), [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
 - Adresser les cas suspects d'acromégalie au centre de compétence ou de référence HYPO ([annuaire des centres](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/carte/document/))
 
 {{%/article-summary%}}
@@ -68,16 +68,16 @@ Adresser au [centre de compétence ou de référence HYPO](http://www.firendo.fr
 - Signes généraux
   - Fatigue, syndrome dépressif
   - [Sueurs](/tags/sueurs-nocturnes/) (nocturnes malodorantes ++)
-  - Paresthésies des mains avec [syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}})
+  - Paresthésies des mains avec [syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}})
   - Arthralgies
 - Complications de la maladie
   - Ostéo-articulaires: arthropathies, fractures vertébrales
-  - Cardiovasculaires: [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) (30%), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
-  - Pneumologique: [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) (47-87%)
+  - Cardiovasculaires: [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) (30%), [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})
+  - Pneumologique: [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) (47-87%)
   - Dentaires avec déchaussements
-  - Métaboliques avec prédiabète ou [diabète]({{< relref "diabete-type-2.md" >}}) (20-35%)
-  - Endocriniens: [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}), spanioménorrhée
-  - Autres: [nodules thyroïdiens]({{< relref "nodule-thyroidien.md" >}}) et cancers, polypes coliques (27-55%) et [cancer colorectal]({{< relref "cancer-colorectal.md" >}}) (risque élevé, x 2-3)
+  - Métaboliques avec prédiabète ou [diabète]({{% relref "diabete-type-2.md" %}}) (20-35%)
+  - Endocriniens: [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}), spanioménorrhée
+  - Autres: [nodules thyroïdiens]({{% relref "nodule-thyroidien.md" %}}) et cancers, polypes coliques (27-55%) et [cancer colorectal]({{% relref "cancer-colorectal.md" %}}) (risque élevé, x 2-3)
 - Risque cardiovasculaire: calcul du {{< scores/heartscore >}}
 
 {{% /collapse %}}
@@ -106,7 +106,7 @@ L'**IRM hypophysaire** retrouve souvent une tumeur.
 La prise en charge de l'acromégalie dépend du centre spécialisé et le suivi doit être annuel
 {.alert .alert-info}
 
-- Déclarer une [ALD 31]({{< relref "affection-longue-duree.md" >}})
+- Déclarer une [ALD 31]({{% relref "affection-longue-duree.md" %}})
 - Dossier MDPH
 - Prise en charge spécialisée des complications
 - Soutien psychologique

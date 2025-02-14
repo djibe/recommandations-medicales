@@ -34,10 +34,10 @@ Ces recommandations visent à protéger les nourrissons non immuns et personnes 
 - Vaccination coqueluche
   - Une coqueluche ne modifie pas le calendrier vaccinal. L'immunité vaccinale ne persiste que 5 à 10 ans
   - Tous les vaccins de dTPolio sont désormais couplés à la coqueluche (BoostrixTetra ou Repevax)
-  - [Vaccination coqueluche]({{< relref "vaccination.md" >}}) à chaque grossesse entre 20 et 36 SA
+  - [Vaccination coqueluche]({{% relref "vaccination.md" %}}) à chaque grossesse entre 20 et 36 SA
   - **Cocooning:** actuellement pour tout l'entourage dont le dernier rappel a plus de 5 ans (habituellement uniquement en l'absence de vaccination en fin de grossesse)
   - Professionnels de santé en 2025: rappel coqueluche si +5 ans
-- [Signalement à l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}) pour au moins 2 cas de coqueluche en collectivité ou intrafamiliaux
+- [Signalement à l'ARS]({{% relref "agences-regionales-sante-ars.md" %}}) pour au moins 2 cas de coqueluche en collectivité ou intrafamiliaux
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -46,7 +46,7 @@ Coqueluche
 : Maladie toxi-infectieuse aiguë des voies respiratoires par la bactérie *Bordetella pertussis* (rarement *Bordetella parapertussis*). Contamination aérienne interhumaine (famille, collectivité) avec taux d'attaque élevé (75%).
 : La maladie peut être **grave** chez chez le nourrisson de moins de 6 mois, la femme enceinte, l'immunodéprimé ou la personne âgée.
 : L'immunité post-infectieuse de la coqueluche dure 10 à 15 ans, par **vaccination 5 à 10 ans**.
-: **Cas groupés** de coqueluche quand au moins 2 cas en collectivité. Les cas groupés doivent être notifié au [médecin inspecteur de santé publique de l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}).
+: **Cas groupés** de coqueluche quand au moins 2 cas en collectivité. Les cas groupés doivent être notifié au [médecin inspecteur de santé publique de l'ARS]({{% relref "agences-regionales-sante-ars.md" %}}).
 
 ### Épidémiologie de la coqueluche
 
@@ -86,11 +86,11 @@ SPILF
     3. Identification des contaminateurs
 - **Diagnostic différentiel** de la coqueluche  
   - Infection (Mycoplasme ou Chlamydia)
-  - [Grippe]({{< relref "grippe.md" >}})
-  - [Tuberculose]({{< relref "tuberculose.md" >}})
-  - [Sinusite]({{< relref "sinusite.md" >}})
-  - Allergique: allergie, [asthme]({{< relref "asthme.md" >}}), pneumopathie interstitielle diffuse
-  - [Reflux gastrique]({{< relref "reflux-gastro-oesophagien.md" >}})
+  - [Grippe]({{% relref "grippe.md" %}})
+  - [Tuberculose]({{% relref "tuberculose.md" %}})
+  - [Sinusite]({{% relref "sinusite.md" %}})
+  - Allergique: allergie, [asthme]({{% relref "asthme.md" %}}), pneumopathie interstitielle diffuse
+  - [Reflux gastrique]({{% relref "reflux-gastro-oesophagien.md" %}})
   - Tumeur, corps étranger
   - Iatrogène: IEC, bêtabloquant
   - Toux psychogène
@@ -202,7 +202,7 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 > **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse (si amené à s'occuper de l'enfant durant les 6 premiers mois) avant 25 ans si dernière dose a +5 ans, si rappel a +10 ans ensuite  
 **Professionnels de santé et de la petite enfance:** ajouter la coqueluche à chaque rappel du dTPolio (45 et 65 ans) + 1 dose si dernière dose réalisée avant 18 ans et date de +5 ans.
 
-La vaccination contre la coqueluche peut être réalisée par un pharmacien ou un infirmier sans ordonnance. Elle fait partie des 11 vaccins obligatoires pour les enfants nés à partir du 1er janvier 2018 (voir [vaccination]({{< relref "vaccination.md" >}})).
+La vaccination contre la coqueluche peut être réalisée par un pharmacien ou un infirmier sans ordonnance. Elle fait partie des 11 vaccins obligatoires pour les enfants nés à partir du 1er janvier 2018 (voir [vaccination]({{% relref "vaccination.md" %}})).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la coqueluche" %}}
@@ -214,7 +214,7 @@ Prise en charge de la coqueluche:
   Tant que le diagnostic n'est pas infirmé chez un cas suspect, retour possible en collectivité après 5 jours d'antibiothérapie (3 jours si azithromycine) ou 21 jours de toux (*HAS 2024*).
 - Mesures barrières: lavage des mains, port de masque
 - Nourrisson: position proclive - fractionnement des repas - DRP
-- Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) non modifiée par l'épisode
+- Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}}) non modifiée par l'épisode
 - Antibioprophylaxie des sujets contacts et examen des tousseurs (voir section suivante)
 - Personne à risque et leur entourage (voir *Risque de forme grave*):
   - Diagnostic et traitement précoce

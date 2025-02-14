@@ -33,7 +33,7 @@ todo = "posologies, annexe 6"
 {{%collapse "Définitions" %}}
 
 Nausées et vomissements gravidiques
-: Nausées et vomissements débutant au premier trimestre de grossesse en l'absence d'autre étiologie (ex. [boulimie nerveuse]({{< relref "boulimie-hyperphagie.md" >}}) ...).
+: Nausées et vomissements débutant au premier trimestre de grossesse en l'absence d'autre étiologie (ex. [boulimie nerveuse]({{% relref "boulimie-hyperphagie.md" %}}) ...).
 : Ils sont **non compliqués** en l'absence de critères d'hyperémèse gravidique.
 : Ils atteignent 50-90% des femmes enceintes, souvent modérés sans atteinte de la qualité de vie et cèdent à la **fin du premier trimestre**.
 : 35% ont des symptômes invalidants avec un impact marqué sur la vie personnelle. 0,3 à 3,6% sont hospitalisées.
@@ -41,7 +41,7 @@ Nausées et vomissements gravidiques
 Hyperémèse gravidique (HG, hyperemesis gravidarum)
 : Nausées et vomissements gravidiques sévères avec au moins un critère parmi: amaigrissement ≥ 5%, signe de déshydratation, {{< modal-btn modal-puqe >}}score PUQE ≥ 7{{< /modal-btn >}}.
 : L'origine de l'hyperémèse gravidique est mal comprise. Elle est un facteur de risque de naissance prématurée et de petit poids de naissance. Pour la mère, risque de troubles ioniques et carentiels à l'origine d'une encéphalopathie de Gayet-Wernicke ainsi qu'un retentissement psychiatrique pouvant persister (stress, troubles anxio-dépressifs, idées suicidaires, stress post-traumatique). Risque de récidive de 15-81%.
-: **Diagnostic différentiel**: [hépatite](/tags/hepatite/), pancréatite, [appendicite]({{< relref "appendicite-aigue.md" >}}), [pyélonéphrite]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), torsion de l'ovaire, [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}).
+: **Diagnostic différentiel**: [hépatite](/tags/hepatite/), pancréatite, [appendicite]({{% relref "appendicite-aigue.md" %}}), [pyélonéphrite]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}), torsion de l'ovaire, [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}).
 
 ### Abréviations
 
@@ -85,7 +85,7 @@ Proposer une hospitalisation en cas d'hyperémèse gravidique avec au moins un c
   {{< clinique/deshydratation >}}
 - {{< modal-btn modal-puqe >}}Score PUQE ≥ 13{{< /modal-btn >}}
 - Hypokaliémie < 3 mmol/L
-- [Hyponatrémie]({{< relref "hyponatremie.md" >}}) < 120 mmol/L
+- [Hyponatrémie]({{% relref "hyponatremie.md" %}}) < 120 mmol/L
 - Créatininémie > 100 µmol/L (1,13 mg/dL)
 - Résistance au traitement
 {{%/warning%}}
@@ -103,7 +103,7 @@ Les posologies ne sont pas encore disponibles faute d'accès aux articles.
 Prise en charge et traitements recommandés pour les nausées et vomissements pendant la grossesse:
 
 - Dépister un trouble des conduites alimentaires ({{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}) (*HAS/FFAB 2019*)
-- Arrêter les vitamines et la [supplémentation en fer]({{< relref "anemie.md" >}}), sauf la vitamine B9
+- Arrêter les vitamines et la [supplémentation en fer]({{% relref "anemie.md" %}}), sauf la vitamine B9
 - Adapter le mode de vie selon les préférences personnelles
 - ==Traitements des nausées de première intention==
   - Consultation de contrôle à 72 heures nécessaire

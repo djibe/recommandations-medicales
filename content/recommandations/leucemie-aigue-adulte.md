@@ -47,7 +47,7 @@ Le plus souvent aucune cause n'est identifiée mais des facteurs de risque de le
 - Chimie: benzène et solvants dérivés
 - Chimiothérapie: alkylants, antimétabolites, inhibiteurs de topo-isomérase II ...
 - Génétique: trisomie 21, neurofibromatose de type I, maladie de Fanconi, déficits immunitaires congénitaux
-- Pré-néoplasique: syndrome myélodysplasique, néoplasie myéloproliférative (leucémie myéloïde chronique, [maladie de Vaquez]({{< relref "polyglobulie.md" >}}), thrombocytémie essentielle)
+- Pré-néoplasique: syndrome myélodysplasique, néoplasie myéloproliférative (leucémie myéloïde chronique, [maladie de Vaquez]({{% relref "polyglobulie.md" %}}), thrombocytémie essentielle)
 
 ### Rappel de la définition de l'anémie
 
@@ -93,7 +93,7 @@ Aucun signe clinique n'est spécifique de la leucémie aiguë.
     {{< clinique/anemie >}}.
   - Syndrome hémorragique: hématomes spontanés, purpura, saignements muqueux
   - Infection bactérienne traînante
-  - Syndrome tumoral: adénopathies, [splénomégalie]({{< relref "splenomegalie.md" >}}), hépatomégalie, nodules cutanés (leucémides), douleurs osseuses
+  - Syndrome tumoral: adénopathies, [splénomégalie]({{% relref "splenomegalie.md" %}}), hépatomégalie, nodules cutanés (leucémides), douleurs osseuses
 
 ### Examen clinique
 
@@ -114,7 +114,7 @@ Hémogramme (NFS):
 
 - **Anémie** normochrome normocytaire arégénérative (90%)
 - Thrombopénie (85%)
-- [Neutropénie]({{< relref "neutropenie.md" >}}) ± hyperleucocytose (30%)
+- [Neutropénie]({{% relref "neutropenie.md" %}}) ± hyperleucocytose (30%)
 - **Blastes** circulants (leur absence n'élimine pas le diagnostic)
 
 Appel immédiat de l'hématologue hospitalier dès la découverte de blastes ou de pancytopénie. Le myélogramme sera réalisé en urgence à l'entrée dans le service.
@@ -129,7 +129,7 @@ Le traitement de la leucémie aiguë est urgent et décidé en réunion de conce
 
 Mesures générales associées à la prise en charge de la leucémie aiguë:
 
-- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 - [Guide HAS/INCa d'information sur la leucémie aiguë](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/La-prise-en-charge-des-leucemies-aiguees-de-l-adulte) et [sfh myéloïde (PDF)](https://sfh.hematologie.net/sites/sfh.hematologie.net/files/medias/documents/leucemieaigue_myeloide.pdf)
 - Soutien psychologique voire psychothérapie
 - Évaluation nutritionnelle
@@ -150,7 +150,7 @@ Suivi clinique et hémogramme répétés pendant au moins 5 ans:
   - Tous les 1-3 mois pendant 2 ans
   - Puis tous les 3-6 mois pendant 3 ans
 - Autres
-  - Femme: recherche de [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
+  - Femme: recherche de [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}})
   - Homme: spermogramme à 1-2 ans
   - Dépistage organisé des cancers
   - Selon le traitement: dépistage cardiaque, pneumologique

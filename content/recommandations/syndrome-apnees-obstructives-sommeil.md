@@ -27,8 +27,8 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Suspecter des apnées du sommeil en cas de: sommeil non réparateur, somnolence, [fatigue](/tags/fatigue/), [hypertension non contrôlée]({{< relref "hypertension-arterielle.md" >}}), [reflux nocturne]({{< relref "reflux-gastro-oesophagien.md" >}})
-- Dépister systématiquement des apnées si [obésité grade 3]({{< relref "obesite-adulte.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}), [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/) ...
+- Suspecter des apnées du sommeil en cas de: sommeil non réparateur, somnolence, [fatigue](/tags/fatigue/), [hypertension non contrôlée]({{% relref "hypertension-arterielle.md" %}}), [reflux nocturne]({{% relref "reflux-gastro-oesophagien.md" %}})
+- Dépister systématiquement des apnées si [obésité grade 3]({{% relref "obesite-adulte.md" %}}), [diabète]({{% relref "diabete-type-2.md" %}}), [fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/) ...
 - Dépister des apnées par le questionnaire STOP-BANG ou les *8 questions* chez le diabétique (voir *[Dépister les apnées](#dépister-les-apnées-du-sommeil)* )
 - Probabilité forte de syndrome d'apnées du sommeil avec somnolence inexpliquée malgré une polygraphie normale: réaliser une polysomnographie
 - La ventilation par PPC doit être utilisée au moins 4 heures par nuit et renouvelée au bout de 3 ans par le médecin traitant
@@ -63,14 +63,14 @@ Hypersomnie
 - Homme
 - Âge
 - Cou large (≥ 43 cm homme, 41 cm femme)
-- [Ménopause]({{< relref "menopause.md" >}})
+- [Ménopause]({{% relref "menopause.md" %}})
 - Maladies des tissus mous
 - Trisomie 21
 - Volumineuses végétations adénoïdes ou amygdales
 - Rétro ou micrognathie
 - Antécédent familial de SAOS
-- [Acromégalie]({{< relref "acromegalie.md" >}})
-- [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
+- [Acromégalie]({{% relref "acromegalie.md" %}})
+- [Hypothyroïdie]({{% relref "hypothyroidie.md" %}})
 - Tabagisme
 - Congestion nasale ou rhinite chronique
 
@@ -78,13 +78,13 @@ Hypersomnie
 
 ### Complications des apnées du sommeil
 
-- Coronaropathie et [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (> 50 %)  
-  [Hypertension artérielle diastolique]({{< relref "hypertension-arterielle.md" >}}), nocturne et résistante (+60 % des hypertensions résistantes).
-- [Accidents vasculaires cérébraux]({{< relref "accident-vasculaire-cerebral.md" >}}) (x 2-3)
-- [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}})
+- Coronaropathie et [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) (> 50 %)  
+  [Hypertension artérielle diastolique]({{% relref "hypertension-arterielle.md" %}}), nocturne et résistante (+60 % des hypertensions résistantes).
+- [Accidents vasculaires cérébraux]({{% relref "accident-vasculaire-cerebral.md" %}}) (x 2-3)
+- [Fibrillation atriale]({{% relref "fibrillation-atriale.md" %}})
 - Insulinorésistance
 - Troubles de la concentration et de l'humeur
-- [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md">}})
+- [Reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}})
 - Accidents de la route (x 2-7)
 - Altération de la qualité de vie
 - Décès
@@ -94,10 +94,10 @@ Le traitement des apnées réduit significativement les risques.
 
 ### Comorbidités des apnées du sommeil
 
-- [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (20 %)
-- [Diabète de type 2]({{< relref "diabete-type-2.md">}}) (15-30 %)  
+- [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}) (20 %)
+- [Diabète de type 2]({{% relref "diabete-type-2.md" %}}) (15-30 %)  
   40-70 % des DT2 ont un SAOS.
-- 60% des [insuffisants cardiaques]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ont une forme d'apnées du sommeil
+- 60% des [insuffisants cardiaques]({{% relref "insuffisance-cardiaque-chronique.md" %}}) ont une forme d'apnées du sommeil
 
 ### Abréviations en médecine du sommeil
 
@@ -182,18 +182,18 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 #### Personnes à haut risque d'apnées du sommeil
 
 - Obèse ≥ 35 kg/m²
-- [Diabète type 2]({{< relref "diabete-type-2.md">}}) (65-85 %)  
+- [Diabète type 2]({{% relref "diabete-type-2.md" %}}) (65-85 %)  
   Surtout si hypertension résistante, insuffisance rénale d'évolution rapide, rétinopathie, forte insulinorésistance, chauffeur professionnel (*SFD 2019*).
-- [Diabète type 1]({{< relref "diabete-type-1.md">}}) (*SFD 2019*)
+- [Diabète type 1]({{% relref "diabete-type-1.md" %}}) (*SFD 2019*)
 - Maladie cardiovasculaire
   - Coronaropathie
-  - [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) (71 %)
-  - [Hypertension artérielle résistante]({{< relref "hypertension-arterielle.md" >}}) (73-82 %)
+  - [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}) (71 %)
+  - [Hypertension artérielle résistante]({{% relref "hypertension-arterielle.md" %}}) (73-82 %)
   - Insuffisance respiratoire
-  - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
-  - [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) (76-85 %)
+  - [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})
+  - [Fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}) (76-85 %)
   - Arythmies nocturnes
-  - [HTAP]({{< relref "hypertension-arterielle-pulmonaire.md" >}})
+  - [HTAP]({{% relref "hypertension-arterielle-pulmonaire.md" %}})
 - Chauffeurs professionnels (ou métiers à risque)
 - Pré-opératoire de chirurgie bariatrique (71-77 %)
 
@@ -288,7 +288,7 @@ Somnolence diurne
 : Narcolepsie, hypersomnie idiopathique, dette de sommeil, syndrome obésité-hypoventilation
 
 Dyspnée nocturne
-: Attaques de paniques nocturnes, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), [asthme]({{< relref "asthme.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [angor nocturne]({{< relref "syndrome-coronarien-chronique.md" >}})
+: Attaques de paniques nocturnes, [RGO]({{% relref "reflux-gastro-oesophagien.md" %}}), [asthme]({{% relref "asthme.md" %}}), [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), [angor nocturne]({{% relref "syndrome-coronarien-chronique.md" %}})
 
 Apnées
 : Syndrome d'apnées centrales du sommeil (SACS)
@@ -351,14 +351,14 @@ Recommandations générales pour la prise en charge du syndrome d'apnées du som
   {{%class%}}Améliore l'IAH et les désaturations.{{%/class%}}
   - Chirurgie bariatrique si IMC ≥ 35 avant 65 ans (*HAS 2009 obésité*)
 - Activité physique régulière
-- Évaluer le bénéfice/risque d'une [chirurgie bariatrique]({{< relref "obesite-adulte.md" >}}) chez les sujets obèses (35 kg/m²)
-- Traitement d'une [rhinite chronique]({{< relref "rhinite-allergique.md" >}})/obstruction nasale associée
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})  
+- Évaluer le bénéfice/risque d'une [chirurgie bariatrique]({{% relref "obesite-adulte.md" %}}) chez les sujets obèses (35 kg/m²)
+- Traitement d'une [rhinite chronique]({{% relref "rhinite-allergique.md" %}})/obstruction nasale associée
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})  
   {{%class%}}N'améliore pas le SAOS mais réduit l'impact des comorbidités.{{%/class%}}
 - Réduire la consommation d'alcool
 - Réduire la consommation d'hypnotiques
 - SAOS positionnel: dormir sur le côté
-- Dépister anxiété et [dépression]({{< relref "depression.md" >}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 - Proposer des parcours d'éducation thérapeutique
 
 ### PPC : Les grands principes à connaître

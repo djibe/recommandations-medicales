@@ -24,7 +24,7 @@ Le **top 10 des analyses les plus chères** suit l'ordre suivant: NFS (145,6 mil
 
 ## Records étonnants de prescriptions biologiques
 
-La **[TSH](/tags/tsh/)**, avec 21 millions de dosages pour 68 millions de français et 77,4 millions d'euros de remboursement, semble détenir le record de mauvaise prescription. L'[hypothyroïdie]({{< relref "hypothyroidie.md" >}}) atteint 1 à 2% des français et doit être contrôlée annuellement. L'[hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}), elle, est rare.
+La **[TSH](/tags/tsh/)**, avec 21 millions de dosages pour 68 millions de français et 77,4 millions d'euros de remboursement, semble détenir le record de mauvaise prescription. L'[hypothyroïdie]({{% relref "hypothyroidie.md" %}}) atteint 1 à 2% des français et doit être contrôlée annuellement. L'[hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}), elle, est rare.
 
 La **PCR Covid** est également extrêmement chère, avec 66,5 millions d'euros pour seulement 3,4 millions de tests. Espérons que les sujets à risques aient reçus du Paxlovid avant les résultats. Qu'attendre du surcoût contre un test antigénique et quel impact a eu le prélèvement sur la prise en charge ?
 

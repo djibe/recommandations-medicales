@@ -43,7 +43,7 @@ Méningite bactérienne
 : Inflammation méningée causée par une infection bactérienne. La méningite est une urgence vitale.
 : Les bactéries en causes diffèrent selon l'âge: nouveau-né **streptocoque du groupe B** (57%), 2-12 mois avec le **pneumocoque** (44%) puis le **méningocoque** (1/2, sérogroupe B pour moitié) et le pneumocoque (⅓) ensuite chez l'enfant (données GPIP/ACTIV 2010-2014).  
 Chez l'adulte, 1400 cas annuels de méningites bactériennes avec surtout le **pneumocoque** (méningocoque avant 30 ans) puis *Listeria monocytogenes* (sujet âgé ++). 20% de mortalité et 30% de séquelles.
-: Un tableau subaigu ou chronique est rare ([syphilis]({{< relref "syphilis.md" >}}), [maladie de Lyme]({{< relref "maladie-lyme.md" >}}), [tuberculose]({{< relref "tuberculose.md" >}})).
+: Un tableau subaigu ou chronique est rare ([syphilis]({{% relref "syphilis.md" %}}), [maladie de Lyme]({{% relref "maladie-lyme.md" %}}), [tuberculose]({{% relref "tuberculose.md" %}})).
 
 Méningocoque
 : Bactérie diplocoque gram-négative (BGN) *Neisseria meningitidis* responsable de nombreuses méningites bactériennes, parfois révélées par un *purpura fulminans*.
@@ -108,10 +108,10 @@ Toute convulsion fébrile avant 6 mois nécessite une ponction lombaire en urgen
 - Rechercher une porte d'entrée infectieuse:
   - otoscopie et hypoacousie, otalgie, otorrhée, douleurs mastoïdiennes
   - rhinorrhée claire, traumatisme crânien
-  - [sinusite, ethmoïdite]({{< relref "sinusite.md" >}})
-  - [pneumopathie]({{< relref "pneumonie-aigue-communautaire.md" >}})
-  - [endocardite infectieuse]({{< relref "endocardite.md" >}})
-  - différentielle: [herpès]({{< relref "infections-herpes-virus.md" >}})
+  - [sinusite, ethmoïdite]({{% relref "sinusite.md" %}})
+  - [pneumopathie]({{% relref "pneumonie-aigue-communautaire.md" %}})
+  - [endocardite infectieuse]({{% relref "endocardite.md" %}})
+  - différentielle: [herpès]({{% relref "infections-herpes-virus.md" %}})
 
 Appel du SAMU immédiat dès la suspicion de méningite.
 {.alert .alert-warning}
@@ -127,10 +127,10 @@ Remplissage vasculaire si disponible et précautions gouttelettes par masque chi
 Préparer les documents utiles au secours:
 
 - Antécédents (coagulopathie, thrombopénie)
-- Facteurs de risque de méningite: [asplénie]({{< relref "asplenie.md" >}}), brèche méningée, déficit immunitaire, [alcool]({{< relref "sevrage-alcool.md" >}}), SDF, comorbidité psychiatrique
+- Facteurs de risque de méningite: [asplénie]({{% relref "asplenie.md" %}}), brèche méningée, déficit immunitaire, [alcool]({{% relref "sevrage-alcool.md" %}}), SDF, comorbidité psychiatrique
 - Traitements en cours (anticoagulants), prise récente d'antibiotiques
 - Allergies médicamenteuses
-- [Voyage récent]({{< relref "voyage.md" >}})
+- [Voyage récent]({{% relref "voyage.md" %}})
 - Histoire de la maladie
 - Examen clinique initial
 - Contacts des proches
@@ -141,7 +141,7 @@ Transport immédiat aux *Urgences* (et les prévenir) si délai d'intervention d
 {{% /collapse %}}
 {{%collapse "Prévention de la méningite" %}}
 
-Prévention primaire de la méningite bactérienne: [vaccinations]({{< relref "vaccination.md" >}}) des méningites B et C, pneumocoque et *Haemophilus* des sujets éligibles (nourrissons, [comorbidités](/tags/vaccin/) ...).
+Prévention primaire de la méningite bactérienne: [vaccinations]({{% relref "vaccination.md" %}}) des méningites B et C, pneumocoque et *Haemophilus* des sujets éligibles (nourrissons, [comorbidités](/tags/vaccin/) ...).
 
 ### Vaccin pneumocoque
 
@@ -161,7 +161,7 @@ Pour la vaccination des **sujets contacts** en prévention secondaire, lire *Cal
 
 > Au 1er janvier 2025, vaccination obligatoire des nourrissons contre les méningocoques B et ACWY
 
-Vaccination de la méningite A, W, Y en prévention primaire avec **dose unique**: adolescent de 11 à 14 ans (rattrapage jusqu'à 24 ans), immunodépression ([asplénie]({{< relref "asplenie.md" >}})), laboratoire travaillant sur le méningocoque, voyage (La Mecque).
+Vaccination de la méningite A, W, Y en prévention primaire avec **dose unique**: adolescent de 11 à 14 ans (rattrapage jusqu'à 24 ans), immunodépression ([asplénie]({{% relref "asplenie.md" %}})), laboratoire travaillant sur le méningocoque, voyage (La Mecque).
 
 Pour la HAS, intérêt chez tous les nourrissons à 5 et 12 mois à la place du vaccin Méningo C (voir paragraphe précédent).
 
@@ -204,18 +204,18 @@ Transport immédiat aux *Urgences* (et les prévenir) si délai d'intervention d
 
 Une hémoculture est nécessaire avant antibiothérapie (ou délai avant prise en charge hospitalière supérieur à 90 minutes) sauf purpura fulminans.
 
-La méningite à méningocoque est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}).
+La méningite à méningocoque est une [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}).
 
 ### Suivi après méningite bactérienne
 
 Consultation de suivi dans les 15 jours puis à 1 mois:
 
 - Examen neurologique, recherche d'hypoacousie, mesure du périmètre crânien
-- Rechercher une [asplénie]({{< relref "asplenie.md" >}}) ± fonctionnelle: splénectomie, drépanocytose, bêtathalassémie
-- Vaccination selon le [calendrier vaccinal]({{< relref "vaccination.md" >}})  
+- Rechercher une [asplénie]({{% relref "asplenie.md" %}}) ± fonctionnelle: splénectomie, drépanocytose, bêtathalassémie
+- Vaccination selon le [calendrier vaccinal]({{% relref "vaccination.md" %}})  
   et pneumocoque ou méningocoque si germe impliqué.
 - Adulte
-  - Qualité de vie, dépister une [dépression]({{< relref "depression.md" >}}), test auditif
+  - Qualité de vie, dépister une [dépression]({{% relref "depression.md" %}}), test auditif
   - Rechercher diabète, alcool, cancer, cirrhose, hémopathie, VIH
   - Pneumocoque: électrophorèse des protéines sériques
 - Enfant
@@ -231,7 +231,7 @@ Consultation de suivi dans les 15 jours puis à 1 mois:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir autour d'un cas de méningite" %}}
 
-> La méningite à méningocoque est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}).
+> La méningite à méningocoque est une [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}).
 {.alert .alert-warning}
 
 Pas de mesures prophylactiques en dehors de la **méningite à méningocoque**.
@@ -254,7 +254,7 @@ Antibioprophylaxie et vaccination urgente des << sujets contacts >>:
   - Possible pendant la grossesse, coloration des urines et larmes, interactions médicamenteuses
 - En cas de contre-indication: [ceftriaxone IM 250 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69211366&typedoc=R) dose unique (enfant 125 mg) ou [ciprofloxacine 500 mg cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63431715&typedoc=R) dose unique (enfant à 20 mg/kg max 500 mg)
 - Si méningocoque disposant d'une vaccination (C, A, Y, W sauf B): vaccination urgente (voir *Prévention*)
-- Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}})
+- Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}})
 
 > [!INFO]
 > << La vaccination avec le vaccin Bexsero® n'est recommandée autour d'un cas d'IIM B qu'en zone de campagne de vaccination >>. -- *DGS*

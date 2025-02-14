@@ -30,13 +30,13 @@ flowchart = true
 - Ceftriaxone 1g IM immédiat et consultation urgente en cas de fièvre ou syndrome infectieux
 - 6 vaccinations recommandées contre l'immunodépression: {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}} et *Haemophilus*, méningocoques B et ACWY, grippe et Covid 19
 - Les vaccins doivent être injectés dans les 2 semaines avant (chirurgie programmée) ou après la splénectomie
-- L'asplénie expose à une sensibilité majeure au [paludisme]({{< relref "paludisme.md" >}})
+- L'asplénie expose à une sensibilité majeure au [paludisme]({{% relref "paludisme.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Asplénie
-: Absence de la rate ou rate non fonctionnelle à l'origine d'une immunodépression sévère avec sensibilité particulière aux bactéries (pneumocoque, [méningocoque]({{< relref "meningite.md" >}}) et *Haemophilus* ++).
+: Absence de la rate ou rate non fonctionnelle à l'origine d'une immunodépression sévère avec sensibilité particulière aux bactéries (pneumocoque, [méningocoque]({{% relref "meningite.md" %}}) et *Haemophilus* ++).
 : Le risque vital peut être engagé par la survenue d'un **syndrome septique post-splénectomie** ({{%lang%}}Overwhelming Post-Splenectomy Infection (OPSI){{%/lang%}}).
 
 ### Complications de l'asplénie
@@ -80,7 +80,7 @@ Stormorken
   - Autres hémoglobinopathies: thalassémie majeure, sphérocytose
 - Transplantation médullaire
 - Causes fonctionnelles:
-  - MICI, [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), maladie de Whipple
+  - MICI, [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}), maladie de Whipple
   - Cirrhose alcoolique
   - Maladie auto-immune: lupus, polyarthrite rhumatoïde, maladie de Wegener
   - Maladies de surcharge: maladie de Gaucher, maladie de Niemann Pick, amylose
@@ -158,7 +158,7 @@ Vaccins à réaliser avant voire après une splénectomie.
 
 ### Vaccination du patient splénectomisé
 
-Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}).
+Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}}).
 
 #### Pneumocoque
 
@@ -189,14 +189,14 @@ Vaccin [ACT-HIB®](https://base-donnees-publique.medicaments.gouv.fr/affichageDo
 
 #### Grippe saisonnière
 
-1 dose annuelle de rappel au moment de la campagne annuelle de vaccination (voir [Grippe]({{< relref "grippe.md" >}})).
+1 dose annuelle de rappel au moment de la campagne annuelle de vaccination (voir [Grippe]({{% relref "grippe.md" %}})).
 
 > [!INFO]
 > << Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques >> (sauf les vaccins vivants en cas d'immunosuppression). -- *HCSP 2014*
 
 ### Vaccination de l'entourage du patient splénectomisé
 
-Mise à jour du calendrier vaccinal de l'entourage du sujet asplénique (voir [Vaccination]({{< relref "vaccination.md" >}})).
+Mise à jour du calendrier vaccinal de l'entourage du sujet asplénique (voir [Vaccination]({{% relref "vaccination.md" %}})).
 
 {{% /collapse %}}
 {{%collapse "Éducation thérapeutique" %}}
@@ -211,7 +211,7 @@ L'asplénie (par splénectomie ou autre) induit un risque infectieux majeur néc
 - Notification de la date et du motif sur le carnet de santé
 - Intérêt du suivi vaccinal rigoureux
 - Consulter avant de voyager à l'étranger: éviter les zones impaludées, zones de méningocoque A
-- Prophylaxie en cas de **griffure** ou **[morsure animale]({{< relref "morsure.md" >}})** ou de **tiques**, léchage de plaie par un animal
+- Prophylaxie en cas de **griffure** ou **[morsure animale]({{% relref "morsure.md" %}})** ou de **tiques**, léchage de plaie par un animal
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'asplénie" "show" %}}

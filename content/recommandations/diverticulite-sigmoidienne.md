@@ -29,7 +29,7 @@ todo = "rankok"
 - Bilan systématique lors de la première poussée de diverticulite sigmoïdienne: diagnostic radiologique systématique par scanner abdomino-pelvien
 - Prise en charge de la crise de diverticulite non compliquée sans gravité hors grossesse: pas d'antibiothérapie durant les 48 premières heures de la crise douloureuse
 - Chirurgie colique prophylactique des diverticules en cas de comorbidités:  
-  Immunodépression, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), altération de la qualité de vie, fistule, abcès ou sténose symptomatique.
+  Immunodépression, [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}), altération de la qualité de vie, fistule, abcès ou sténose symptomatique.
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -37,7 +37,7 @@ todo = "rankok"
 Diverticulite sigmoïdienne aiguë
 : *ex* sigmoïdite diverticulaire (aussi appelée diverticulite colique ou sigmoïdite aiguë)
 : Inflammation infectieuse colique d'origine diverticulaire survenant le plus souvent entre 50 et 70 ans. L'atteinte du côlon droit est prédominante en Asie.
-: Facteurs de risque de diverticulite sigmoïdienne: âge, hérédité, [obésité]({{< relref "obesite-adulte.md" >}}).  
+: Facteurs de risque de diverticulite sigmoïdienne: âge, hérédité, [obésité]({{% relref "obesite-adulte.md" %}}).  
 30% de récidives à 5 ans. 16 à 35 % se compliquent d'abcès.
 
 Diverticulose du côlon
@@ -79,7 +79,7 @@ HAS
 - Antécédents: digestifs, comorbidité, immunodépression
 - Antécédents familiaux
 - Si femme non ménopausée: grossesse en cours
-- **Facteurs de risque** de complication: aspirine, anti-inflammatoires (AINS), [alcool]({{< relref "sevrage-alcool.md" >}})
+- **Facteurs de risque** de complication: aspirine, anti-inflammatoires (AINS), [alcool]({{% relref "sevrage-alcool.md" %}})
 - Traitements en cours
 - Date et heure de début des symptômes
 - Triade des symptômes de diverticulite:
@@ -194,7 +194,7 @@ Si allergie documentée à la pénicilline: ciprofloxacine 500 mg x 2/j + métro
 - Abcès
 - Sténose symptomatique
 
-Intérêt d'une **coloscopie** avant la chirurgie, surtout si +50 ans ou [risque élevé de cancer colorectal]({{< relref "cancer-colorectal.md" >}}).
+Intérêt d'une **coloscopie** avant la chirurgie, surtout si +50 ans ou [risque élevé de cancer colorectal]({{% relref "cancer-colorectal.md" %}}).
 
 {{% /collapse %}}
 {{% collapse "Prise en charge de la diverticulite sigmoïdienne" "show" %}}

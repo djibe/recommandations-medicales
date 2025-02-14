@@ -83,7 +83,7 @@ Anneau érythémateux prurigineux bien délimité le plus souvent causé par *Tr
 Zone centrale claire cicatricielle avec bourrelet périphérique squameux et vésiculeux. Plusieurs lésions peuvent confluer en placard polycyclique.  
 [Photos d'herpès circiné](https://dermnetnz.org/topics/tinea-corporis-images)
 
-**Diagnostic différentiel** des dermatophytoses circinées palmaires ou plantaires: [eczéma]({{< relref "dermatite-atopique.md" >}}).
+**Diagnostic différentiel** des dermatophytoses circinées palmaires ou plantaires: [eczéma]({{% relref "dermatite-atopique.md" %}}).
 
 {{%info%}}
 
@@ -118,11 +118,11 @@ Le pityriasis versicolor est bénin, **n'est pas contagieux**, causé par la lev
 
 - Pityriasis rosé de Gibert  
   Adolescent ou adulte jeune, macules ovales légèrement rouges, contour plus foncé ± squameux du tronc avec un aspect géométrique en << branches de sapin >>. Disparition spontanée en 4 à 6 semaines.
-- [Syphilis secondaire]({{< relref "syphilis.md" >}})  
+- [Syphilis secondaire]({{% relref "syphilis.md" %}})  
   Macules rosées sur tout le corps (dont paumes et plantes), sérologie.
 - Eczématides achromiantes  
   Enfants en adolescents. Prédominantes au visage et cou en contexte de photo-exposition et baignade. Disparition spontanée en 4-6 semaines.
-- [Vitiligo]({{< relref "vitiligo.md" >}})  
+- [Vitiligo]({{% relref "vitiligo.md" %}})  
   Dépigmentation totale en plaques.
 
 ### Kératodermie palmoplantaire dermatophytique
@@ -160,7 +160,7 @@ Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athl�
 - [Reconnaissance possible d'un intertrigo en Maladie professionnelle dans le cadre du Tableau 46](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2046): piscine, athlète, bâtiment.
 {{%/info%}}
 
-**Diagnostic différentiel** d'un intertrigo: [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), [psoriasis inversé]({{< relref "psoriasis.md" >}}), [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}}), pityriasis rosé de Gibert, érythrasma (bactérie *Corynebacterium minutissimum* sensible aux antifongiques azolés).
+**Diagnostic différentiel** d'un intertrigo: [dermatite atopique]({{% relref "dermatite-atopique.md" %}}), [psoriasis inversé]({{% relref "psoriasis.md" %}}), [dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}}), pityriasis rosé de Gibert, érythrasma (bactérie *Corynebacterium minutissimum* sensible aux antifongiques azolés).
 
 {{% /collapse %}}
 {{%collapse "Teignes ou dermatophytoses du cuir chevelu" %}}
@@ -173,14 +173,14 @@ Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athl�
 - Rechercher un contexte d'immunodépression
 - Aggravation par les dermocorticoïdes
 - [Reconnaissance possible d'une teigne en Maladie professionnelle dans le cadre du Tableau 46](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2046): filière viande, piscine, athlète, bâtiment.
-- **Diagnostic différentiel** des teignes: [psoriasis]({{< relref "psoriasis.md" >}}), [eczéma]({{< relref "dermatite-atopique.md" >}}), [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}}), [pelade]({{< relref "alopecie.md" >}}), folliculite bactérienne ou abcès
+- **Diagnostic différentiel** des teignes: [psoriasis]({{% relref "psoriasis.md" %}}), [eczéma]({{% relref "dermatite-atopique.md" %}}), [dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}}), [pelade]({{% relref "alopecie.md" %}}), folliculite bactérienne ou abcès
 
 ### Teignes tondantes
 
 Les teignes tondantes sont les principales teignes, en deux types:
 
 1. Teignes tondantes microsporiques (*Microsporum canis* ou *M. audouinii*)  
-  [Alopécie]({{< relref "alopecie.md" >}}) en **grandes plaques** bien limitées squameuses, peu ou pas inflammatoires. Cheveux cassés courts. Plutôt chez l'**enfant**.
+  [Alopécie]({{% relref "alopecie.md" %}}) en **grandes plaques** bien limitées squameuses, peu ou pas inflammatoires. Cheveux cassés courts. Plutôt chez l'**enfant**.
 2. Teignes tondantes trichophytiques (*Trichophyton violaceum*, *T. soudanense* ou *T. tonsurans*)  
   Alopécie en **petites plaques** squameuses confluant parfois en grandes plaques mal délimitées. Cheveux cassés ras. Prédominance féminine et **contagieuses**.
 
@@ -228,7 +228,7 @@ L'itraconazole est utile pour les formes résistantes.
 
 ### Candidose buccale ou oropharyngée
 
-Les candidoses buccales atteignent le plus souvent les moins de 18 ans et les sujets âgés (prothèses dentaires, hyposialie, [dénutrition]({{< relref "denutrition.md" >}})).
+Les candidoses buccales atteignent le plus souvent les moins de 18 ans et les sujets âgés (prothèses dentaires, hyposialie, [dénutrition]({{% relref "denutrition.md" %}})).
 
 L'aspect pseudo-membraneux blanc (**muguet**) est le plus fréquent, souvent associé à une **perlèche** (intertrigo de la commissure labiale). Les autres aspects sont la **glossite** (langue rouge dépapillée) associée à une **stomatite** (xérose buccale, goût métallique et de cuisson).
 
@@ -267,7 +267,7 @@ L'aspect pseudo-membraneux blanc (**muguet**) est le plus fréquent, souvent ass
 Tableau pauci-symptomatique. Début au niveau du sillon balanopréputial avec un érythème puis souvent des plaques blanchâtres du gland.  
 Extension possible au pénis, scrotum et l'aine chez l'obèse.
 
-Diagnostic différentiel: infectieux ([syphilis secondaire]({{< relref "syphilis.md" >}}), [herpès génital]({{< relref "infections-herpes-virus.md" >}})), macération, [psoriasis]({{< relref "psoriasis.md" >}}), carcinome.
+Diagnostic différentiel: infectieux ([syphilis secondaire]({{% relref "syphilis.md" %}}), [herpès génital]({{% relref "infections-herpes-virus.md" %}})), macération, [psoriasis]({{% relref "psoriasis.md" %}}), carcinome.
 
 {{%info%}}
 
@@ -277,7 +277,7 @@ Diagnostic différentiel: infectieux ([syphilis secondaire]({{< relref "syphilis
 - [Éconazole 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62098492&typedoc=R) 1 application matin et soir pendant 14 à 21 jours (7 jours selon *CMIT*) + savon alcalin + examen partenaire
 {{%/info%}}
 
-Rechercher un [diabète]({{< relref "diabete-type-2.md" >}}) en cas de balanite candidosique sévère.
+Rechercher un [diabète]({{% relref "diabete-type-2.md" %}}) en cas de balanite candidosique sévère.
 
 {{% /collapse %}}
 {{%collapse "Candidoses vaginales" %}}
@@ -297,14 +297,14 @@ Signes et symptômes d'une candidose vulvovaginale:
 - Voire dysurie
 - Diagnostic différentiel
   - Écoulements physiologiques pendant la grossesse ou en milieu de cycle parfois malodorants
-  - Vaginose bactérienne malodorante à *Garderella vaginalis*, [IST](/tags/ist/) à trichomonase, gonococcie ou [chlamydiose]({{< relref "chlamydia-trachomatis.md" >}}), [virale à herpès]({{< relref "infections-herpes-virus.md" >}})
-  - Dermatites: lichen (ménopausée ++), eczéma, [psoriasis]({{< relref "psoriasis.md" >}})
+  - Vaginose bactérienne malodorante à *Garderella vaginalis*, [IST](/tags/ist/) à trichomonase, gonococcie ou [chlamydiose]({{% relref "chlamydia-trachomatis.md" %}}), [virale à herpès]({{% relref "infections-herpes-virus.md" %}})
+  - Dermatites: lichen (ménopausée ++), eczéma, [psoriasis]({{% relref "psoriasis.md" %}})
   - Tumoral
   - Réactions aux produits d'hygiène, tampons, spermicides, préservatifs, anneaux contraceptifs
   - Vulvodynie
 - [Photos de candidose vulvovaginale](https://dermnetnz.org/topics/vulvovaginal-candidiasis-images)
 
-> << La candidose vaginale récidivante peut être la première manifestation clinique de l'[infection à VIH]({{< relref "vih-sida.md" >}}) >>. -- *Anofel*
+> << La candidose vaginale récidivante peut être la première manifestation clinique de l'[infection à VIH]({{% relref "vih-sida.md" %}}) >>. -- *Anofel*
 
 ### Prise en charge de la candidose vulvovaginale aiguë
 
@@ -370,7 +370,7 @@ Si **récidive durant le traitement**: augmenter le fluconazole 150 mg à 1 cp x
 
 Après le traitement: utiliser le traitement aigu en cas de candidoses rares, sinon recommencer la séquence complète si les critères de récurrence sont remplis.
 
-Le [traitement hormonal de la ménopause]({{< relref "menopause.md" >}}) est un facteur de risque de candidose récurrente.
+Le [traitement hormonal de la ménopause]({{% relref "menopause.md" %}}) est un facteur de risque de candidose récurrente.
 
 ### Candidose vulvovaginale non-albicans ou résistante
 
@@ -420,7 +420,7 @@ Traitement des onychomycoses:
 
 - Prélèvement au laboratoire pour un traitement guidé
 - Contrôle des facteurs de risque  
-  Séchage, ongles courts, limiter les contacts avec le sucre, les acides, les [corticoïdes]({{< relref "corticoides.md" >}}), les soins de manucure, protection en piscine.
+  Séchage, ongles courts, limiter les contacts avec le sucre, les acides, les [corticoïdes]({{% relref "corticoides.md" %}}), les soins de manucure, protection en piscine.
 - Matrice épargnée
   1. Pédicure-podologue pour limage ou meulage initial
   2. Vernis unguéal [amorolfine 5%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68805138&typedoc=R) x 1-2/semaine ou [ciclopirox 8%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66640136&typedoc=R) x 1/j pendant 3 à 6 mois
@@ -449,14 +449,14 @@ Traitement des onychomycoses:
 
 Rechercher une immunodépression: VIH, hémopathie, iatrogénie.
 
-Chez une [personne vivant avec le VIH]({{< relref "vih-sida.md" >}}) (PVVIH), l'œsophagite à *Candida* est un marqueur du passage au stade Sida (CD4 souvent < 150/mm³)
+Chez une [personne vivant avec le VIH]({{% relref "vih-sida.md" %}}) (PVVIH), l'œsophagite à *Candida* est un marqueur du passage au stade Sida (CD4 souvent < 150/mm³)
 {.alert .alert-info}
 
 ### Candidose anorectale
 
 Anite prurigineuse, érythémateuse, érosive et suintante ± intertrigo local.
 
-Différencier d'une atteinte streptococcique, d'une macération ou d'[hémorroïdes]({{< relref "hemorroides.md" >}}).
+Différencier d'une atteinte streptococcique, d'une macération ou d'[hémorroïdes]({{% relref "hemorroides.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Traitements des mycoses" %}}

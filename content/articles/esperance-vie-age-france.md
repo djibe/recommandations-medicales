@@ -57,7 +57,7 @@ const chartOptions1 = {
 }
 </script>
 
-À 65 ans, une femme a une espérance de vie 23,6 ans et un homme de 19,77 ans. Ainsi, le dépistage ciblé du [cancer de la prostate]({{< relref "cancer-prostate.md" >}}) peut être proposé jusqu'à 71 ans (homme asymptomatique ayant une espérance de vie supérieure à 15 ans).
+À 65 ans, une femme a une espérance de vie 23,6 ans et un homme de 19,77 ans. Ainsi, le dépistage ciblé du [cancer de la prostate]({{% relref "cancer-prostate.md" %}}) peut être proposé jusqu'à 71 ans (homme asymptomatique ayant une espérance de vie supérieure à 15 ans).
 
 Toutefois, ces valeurs ne sont que des moyennes de la mortalité en France métropolitaine et ne concernent pas un sujet atteint de pathologie particulière.
 

@@ -27,7 +27,7 @@ todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité 
 - Le diagnostic d'endométriose est clinique
 - Explorations de l'endométriose seulement lorsqu'elle est douloureuse ou avec retentissement (infertilité, qualité de vie)
 - Prise en charge de l'endométriose en première intention: examen gynécologique et échographie pelvienne
-- Traitement par [contraception œstroprogestative ou stérilet au lévonorgestrel (LNG)]({{< relref "contraception.md" >}}) à visée symptomatique
+- Traitement par [contraception œstroprogestative ou stérilet au lévonorgestrel (LNG)]({{% relref "contraception.md" %}}) à visée symptomatique
 - IRM pelvienne et avis du gynécologue si symptômes pelviens profonds, désir de grossesse, échec du traitement ou masse ovarienne
 
 {{%/article-summary%}}
@@ -37,11 +37,11 @@ Endométriose
 : Maladie pelvienne féminine fréquente (10% des femmes en âge de procréer) avec retentissement sur la qualité de vie des patientes.  
 La définition de la maladie est histologique avec la présence de glandes ou stroma endométrial en dehors de l'utérus.  
 Elle est pathologique lorsqu'elle entraîne une **dysménorrhée**, des **douleurs pelviennes chroniques** ou une **infertilité**. L'endométriose est la 1^re^ cause de dysménorrhée secondaire de l'adolescente.  
-Les douleurs sont souvent améliorées pendant les grossesses et après la [ménopause]({{< relref "menopause.md" >}}).
+Les douleurs sont souvent améliorées pendant les grossesses et après la [ménopause]({{% relref "menopause.md" %}}).
 : L'origine de l'endométriose est multifactorielle avec l'action de facteurs génétiques (hérédité), environnementaux et liés aux menstruations (ménarche précoce, volume important, cycles courts).  
 Il n'existe pas d'arguments pour une aggravation de l'importance et l'étendue des lésions de la maladie endométriosiques avec le temps.
-: Aucune association endométriose - [cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}}) n'est prouvée.  
-Des complications obstructives (occlusion digestive ou urétérale) sont exceptionnelles. L'endométriose est un facteur de risque d'[AVC]({{< relref "accident-vasculaire-cerebral.md" >}}).
+: Aucune association endométriose - [cancer de l'ovaire]({{% relref "cancer-ovaire.md" %}}) n'est prouvée.  
+Des complications obstructives (occlusion digestive ou urétérale) sont exceptionnelles. L'endométriose est un facteur de risque d'[AVC]({{% relref "accident-vasculaire-cerebral.md" %}}).
 
 Endométriose superficielle
 : Endométriose limitée au péritoine.
@@ -128,7 +128,7 @@ Prise en charge de l'endométriose lors d'une consultation dédiée.
   - Signes fonctionnels urinaires à recrudescence cataméniale  
     Dysurie, pollakiurie.
 - Troubles digestifs récurrents
-- [Infertilité]({{< relref "infertilite-couple.md" >}})
+- [Infertilité]({{% relref "infertilite-couple.md" %}})
 - Adolescente
   - Temps sans les parents
   - Recherche de violences
@@ -151,12 +151,12 @@ Prise en charge de l'endométriose lors d'une consultation dédiée.
 Autres diagnostics à étayer devant des douleurs pelviennes de la femme:
 
 - Adénomyose
-- [Salpingite]({{< relref "infections-genitales-hautes.md" >}}) et inflammation pelvienne chronique
+- [Salpingite]({{% relref "infections-genitales-hautes.md" %}}) et inflammation pelvienne chronique
 - Fibromyomes utérins
 - Kyste ovarien
-- [Cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}})
+- [Cancer de l'ovaire]({{% relref "cancer-ovaire.md" %}})
 - Douleurs d'origine digestive
-- [Douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}})
+- [Douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}})
 - Violences sexuelles
 
 {{% /collapse %}}
@@ -174,7 +174,7 @@ L'échographie a les mêmes performances que l'IRM pour le diagnostic d'endomét
 
 L'échographie endovaginale peut faire partie du bilan de 2^e^ intention.
 
-Après la [ménopause]({{< relref "menopause.md" >}}), avis gynécologique systématique en cas d'endométriome.
+Après la [ménopause]({{% relref "menopause.md" %}}), avis gynécologique systématique en cas d'endométriome.
 
 **NB.** Pas de surveillance par imagerie des patientes asymptomatiques.
 
@@ -209,7 +209,7 @@ Prise en charge de l'endométriose en première intention:
   - **Paracétamol** et **AINS** en péri-menstruel uniquement  
     Ibuprofène ou naproxène voire opioïdes si insuffisants.
   - Éviter les AINS au long cours
-  - Évaluation spécialisée en cas de douleurs chroniques ([neuropathiques]({{< relref "douleur-neuropathique.md" >}}) ++)  
+  - Évaluation spécialisée en cas de douleurs chroniques ([neuropathiques]({{% relref "douleur-neuropathique.md" %}}) ++)  
     Spécialistes: gynécologue, médecine de la douleur, sexologue, psychologue, assistant social.
 - Autres traitements
   - Acupuncture, ostéopathie, yoga
@@ -223,7 +223,7 @@ Prise en charge de l'endométriose en première intention:
 
 {{%info%}}
 
-- [Pilule œstroprogestative]({{< relref "contraception.md" >}}) (COP)
+- [Pilule œstroprogestative]({{% relref "contraception.md" %}}) (COP)
   - Lévonorgestrel ou noréthistérone + éthinylestradiol 30 à 40 µg
   - Prise continue si aggravation dans la période d'interruption
 - Dispositif intra-utérin (DIU ou stérilet) au lévonorgestrel 52 mg
@@ -239,7 +239,7 @@ Réévaluation des traitements sous quelques semaines pour tolérance-efficacit�
 
 Traitements de l'endométriose de deuxième intention:
 
-- [Contraception]({{< relref "contraception.md" >}}) orale microprogestative au désogestrel
+- [Contraception]({{% relref "contraception.md" %}}) orale microprogestative au désogestrel
 - Implant à l'étonogestrel
 - Diénogest
 - GnRHa en association
@@ -247,7 +247,7 @@ Traitements de l'endométriose de deuxième intention:
 
 ### Endométriose et infertilité
 
-La prise en charge de l'[infertilité]({{< relref "infertilite-couple.md" >}}) associée à l'endométriose relève d'un accompagnement par une équipe d'[Assistance Médicale à la Procréation](https://www.agence-biomedecine.fr/Autorisation-des-centres) (AMP).
+La prise en charge de l'[infertilité]({{% relref "infertilite-couple.md" %}}) associée à l'endométriose relève d'un accompagnement par une équipe d'[Assistance Médicale à la Procréation](https://www.agence-biomedecine.fr/Autorisation-des-centres) (AMP).
 
 {{% /collapse %}}
 {{%collapse "Centres experts de l'endométriose" %}}

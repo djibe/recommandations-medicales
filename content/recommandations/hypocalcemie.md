@@ -30,7 +30,7 @@ flowchart = true
 - Le bilan initial de l'hypocalcémie vraie comporte: PTH, phosphorémie et fonction rénale, 25 OH vitamine D, calciurie des 24 heures et ECG
 - Un avis spécialisé (endocrinologie ou néphrologie) est souvent nécessaire
 
-Chapitre lié: [vitamine D]({{< relref "vitamine-d.md" >}})
+Chapitre lié: [vitamine D]({{% relref "vitamine-d.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -38,7 +38,7 @@ Chapitre lié: [vitamine D]({{< relref "vitamine-d.md" >}})
 Hypocalcémie
 : Calcémie inférieure à 2,2 mmol/L (88 mg/L, pour une albuminémie de 40 g/L) ou de calcémie ionisée < 1,1 mmol/L. Elle peut être modifiée par le pH (l'alcalose diminue la calcémie ionisée).
 : Elle est urgente lorsqu'elle est aiguë, symptomatique, sévère (< 1,8 mmol/L ou 70 mg/L) ou ionisée < 1 mmol/L.
-: Une hypocalcémie chronique ne peut survenir qu'en cas d'anomalie de la production de PTH ou de son action tissulaire ou d'une carence profonde en [vitamine D]({{< relref "vitamine-d.md" >}}) active.
+: Une hypocalcémie chronique ne peut survenir qu'en cas d'anomalie de la production de PTH ou de son action tissulaire ou d'une carence profonde en [vitamine D]({{% relref "vitamine-d.md" %}}) active.
 
 ### Diagnostic différentiel de l'hypocalcémie
 
@@ -79,14 +79,14 @@ Causes d'hypocalcémie chronique, évaluées selon le niveau de PTH:
   - Iatrogène post-opératoire
   - Hypomagnésémie profonde (< 0,5 mmol/L)
   - Génétique (syndrome de DiGeorge)
-  - Rares infiltrations parathyroïdiennes: [amylose]({{< relref "amylose-al.md" >}}), granulome, métastases
+  - Rares infiltrations parathyroïdiennes: [amylose]({{% relref "amylose-al.md" %}}), granulome, métastases
 - Hypocalcémies chroniques extra-parathyroïdiennes  
   PTH augmentée en réponse à l'hypocalcémie.
   - Pseudo-hypocalcémie  
     La calcémie ionisée ou corrigée est normale.
-  - **[Carence en vitamine D]({{< relref "vitamine-d.md" >}})** (apports ou UV insuffisants, malabsorption, médicaments)  
+  - **[Carence en vitamine D]({{% relref "vitamine-d.md" %}})** (apports ou UV insuffisants, malabsorption, médicaments)  
     PTH élevée avec bilan phospho-vitamino-calcique bas (calciurie, phosphatémie, vitamine D bas).
-  - [Insuffisance rénale chronique sévère]({{< relref "insuffisance-renale-chronique.md" >}})  
+  - [Insuffisance rénale chronique sévère]({{% relref "insuffisance-renale-chronique.md" %}})  
     PTH élevée avec phosphatémie élevée.
 
 ### Causes d'hypocalcémie aiguë
@@ -106,7 +106,7 @@ Les symptômes d'une hypocalcémie sont très corrélés à la profondeur de l'h
 
 ### Interrogatoire
 
-- Antécédents: chirurgie cervicale, pancréatite, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
+- Antécédents: chirurgie cervicale, pancréatite, [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}})
 - Antécédents familiaux d'hypocalcémie
 - Traitements: anticonvulsivants, biphosphonates, transfusions massives
 - Régime alimentaire
@@ -123,7 +123,7 @@ Les symptômes d'une hypocalcémie sont très corrélés à la profondeur de l'h
   Troubles de l'attention, anxiété, irritabilité, dépression, démence, troubles de la personnalité, syndrome extrapyramidal.
 - Symptômes cardiaques  
   Élargissement de l'intervalle QT: malaises, tachycardie ventriculaire, fibrillation ventriculaire, insuffisance cardiaque.
-- [Cataracte sous-capsulaire]({{< relref "cataracte.md" >}})
+- [Cataracte sous-capsulaire]({{% relref "cataracte.md" %}})
 - Troubles trophiques (signes chroniques)
   - Ongles striés et cassants
   - Cheveux secs et fragiles
@@ -170,7 +170,7 @@ La prise en charge de l'hypocalcémie est principalement étiologique.
 - Supplémentation en calcium: 500 à 2000 mg/j en 3-4 prises en dehors des repas  
   Max 500 mg/j si insuffisance rénale.
 - Suspension des traitements allongeant le QT
-- Si carence en 25 OH vitamine D: [supplémentation en vitamine D]({{< relref "vitamine-d.md" >}})
+- Si carence en 25 OH vitamine D: [supplémentation en vitamine D]({{% relref "vitamine-d.md" %}})
 - Si hypomagnésémie: supplémentation en magnésium
 - Si insuffisance rénale sévère avec carence en calcitriol: supplémentation en 1-α OH-vitamine D (Alfacalcidiol, Un Alfa®, Un-Alfa®) ou 1, 25 OH vitamine D (Rocaltrol®)
 - Si hypoparathyroïdie: supplémentation en calcium et vitamine D (1-α ou 1, 25) avec pour cible l'absence de symptômes (et non une normocalcémie)

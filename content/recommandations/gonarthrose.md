@@ -38,7 +38,7 @@ Gonarthrose
 Une synovite chronique est un facteur de mauvais pronostic.
 
 Gonarthrose destructrice rapide
-: Destruction rapide du cartilage avec aggravation du pincement de 50% en un an. Rechercher une *[chondrocalcinose]({{< relref "rhumatisme-pyrophosphate-chondrocalcinose.md" >}})* associée.
+: Destruction rapide du cartilage avec aggravation du pincement de 50% en un an. Rechercher une *[chondrocalcinose]({{% relref "rhumatisme-pyrophosphate-chondrocalcinose.md" %}})* associée.
 
 ### Facteurs de risque de gonarthrose
 
@@ -50,7 +50,7 @@ Rechercher les éléments inducteurs de gonarthrose:
   - Dysplasie fémoro-patellaire (subluxation externe de la rotule)
   - Chondromalacie rotulienne (fragilité localisée du cartilage rotulien)
   - Luxations de rotule
-- [Obésité]({{< relref "obesite-adulte.md" >}})
+- [Obésité]({{% relref "obesite-adulte.md" %}})
 - Maladies métaboliques
 - Vieillissement
 - Traumatismes articulaires répétés
@@ -128,9 +128,9 @@ Autres diagnostics à étayer devant des douleurs des genoux.
 
 - Arthrite septique
 - Arthropathie microcristalline  
-  [Chondrocalcinose articulaire]({{< relref "rhumatisme-pyrophosphate-chondrocalcinose.md" >}}), [goutte]({{< relref "goutte.md" >}}).
+  [Chondrocalcinose articulaire]({{% relref "rhumatisme-pyrophosphate-chondrocalcinose.md" %}}), [goutte]({{% relref "goutte.md" %}}).
 - Arthrite inflammatoire  
-  [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [spondyloarthrite]({{< relref "spondylarthrite-ankylosante.md" >}}).
+  [Polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), [spondyloarthrite]({{% relref "spondylarthrite-ankylosante.md" %}}).
 - Synovite villonodulaire
 
 ### Douleurs chroniques du genou
@@ -149,13 +149,13 @@ Autres diagnostics à étayer devant des douleurs des genoux.
     Rare. Douleur sus-rotulienne. Rupture à bas bruit du sujet âgé. Échographie.
   - Tendinite de la patte d'oie  
     Douleur réveillée en palpation de face interne du tibia sous l'interligne fémoro-tibial interne. Déclenchée par flexion contrariée.
-- [Hygroma du genou]({{< relref "bursite.md" >}})
+- [Hygroma du genou]({{% relref "bursite.md" %}})
   - Bursite pré-rotulienne, profession à risque. Tuméfaction molle, peu douloureuse, antérieure.
   - Traitement par anti-inflammatoires AINS topiques, ponctions évacuatrices avec infiltration de corticoïdes.
 - Radiculalgie
 - Gonarthrose secondaire
   - Arthrite chronique  
-  [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [spondyloarthrite]({{< relref "spondylarthrite-ankylosante.md" >}}), arthrite septique, arthropathie métabolique.
+  [Polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), [spondyloarthrite]({{% relref "spondylarthrite-ankylosante.md" %}}), arthrite septique, arthropathie métabolique.
   - Ostéonécrose
   - Maladie de Paget
 

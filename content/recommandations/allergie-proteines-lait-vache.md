@@ -53,7 +53,7 @@ Allergies croisées à étayer une par une:
 Conformément à la législation, ce contenu est réservé aux professionnels de santé.
 {.alert .alert-warning}
 
-Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de vache (APLV), en complément ou après arrêt de l'[allaitement maternel]({{< relref "allaitement.md" >}}).
+Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de vache (APLV), en complément ou après arrêt de l'[allaitement maternel]({{% relref "allaitement.md" %}}).
 
 ### Lait à base de protéines de riz
 

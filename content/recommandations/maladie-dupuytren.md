@@ -51,7 +51,7 @@ La maladie de Dupuytren atteint la main et est le plus souvent indolore, souvent
 
 - Antécédents: Dupuytren, [diabète](/tags/diabete/), épilepsie idiopathique
 - Antécédents familiaux: Dupuytren
-- Toxiques: [alcool]({{< relref "sevrage-alcool.md" >}}), [tabac]({{< relref "arret-tabac.md" >}})
+- Toxiques: [alcool]({{% relref "sevrage-alcool.md" %}}), [tabac]({{% relref "arret-tabac.md" %}})
 - Médicaments à risque: antiépileptiques (phénobarbital, primidone), vémurafénib
 - Ancienneté
 - Symptômes:

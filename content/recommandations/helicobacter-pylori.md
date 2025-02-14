@@ -27,7 +27,7 @@ modele = true
 {{%article-summary%}}
 
 - Dépister l'*Helicobacter pylori* par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication
-- Signes d'alarmes évocateurs de [cancer de l'estomac]({{< relref "cancer-estomac.md" >}}) en cas de symptômes digestifs hauts: dysphagie, amaigrissement, anémie. Une fibroscopie gastrique est nécessaire
+- Signes d'alarmes évocateurs de [cancer de l'estomac]({{% relref "cancer-estomac.md" %}}) en cas de symptômes digestifs hauts: dysphagie, amaigrissement, anémie. Une fibroscopie gastrique est nécessaire
 - Privilégier une antibiothérapie adaptée à l'antibiogramme d'*Helicobacter pylori* (après endoscopie)
 - En l'absence d'antibiogramme, traitement probabiliste de première intention de l'*Helicobacter pylori* pendant 14 jours: quadrithérapie associant amoxicilline, clarithromycine, métronidazole et IPP pendant 14 jours (voir le bouton *Modèle d'ordonnance*)
 - {{< modal-btn modal-test-respi >}}Contrôle de l'éradication{{< /modal-btn >}} systématique avec le test à l'urée marquée à 1 mois
@@ -141,7 +141,7 @@ Pylera® 3 gél x 4/j + oméprazole 20 mg x 2/j
 {{%collapse "Définition" %}}
 
 *Helicobacter pylori*
-: La bactérie *Helicobacter pylori* (*H. pylori*) a un tropisme gastrique responsable d'une *gastrite chronique*, compliquée d'*ulcères gastro-duodénaux* et responsable de 80% des *[cancers de l'estomac]({{< relref "cancer-estomac.md" >}})* (adénocarcinomes et lymphomes du MALT).
+: La bactérie *Helicobacter pylori* (*H. pylori*) a un tropisme gastrique responsable d'une *gastrite chronique*, compliquée d'*ulcères gastro-duodénaux* et responsable de 80% des *[cancers de l'estomac]({{% relref "cancer-estomac.md" %}})* (adénocarcinomes et lymphomes du MALT).
 : Contamination dans l'enfance par transmission familiale {{%class%}}(oro-orale ou féco-orale){{%/class%}}.  
 Son éradication prévient la survenue de ces complications.
 
@@ -178,7 +178,7 @@ La France est un pays de faible incidence d'*Helicobacter pylori*:
 
 - 15 à 30 % de la population serait infectée par l'*Helicobacter*  
   < 20 % avant 30 ans et > 50 % après 50 ans.
-- 10 % développent un ulcère et 1% un [cancer de l'estomac]({{< relref "cancer-estomac.md" >}}).
+- 10 % développent un ulcère et 1% un [cancer de l'estomac]({{% relref "cancer-estomac.md" %}}).
 
 #### Antibiorésistance d'*H. pylori* en France en 2020
 
@@ -195,7 +195,7 @@ La France est un pays de faible incidence d'*Helicobacter pylori*:
 - Ulcère ou situation à risque d'ulcère
   - Ulcère gastroduodénal ou antécédent d'ulcère
   - Avant prise d'AINS ou d'aspirine faible dose
-  - [Dyspepsie chronique]({{< relref "dyspepsie.md" >}}) avec endoscopie normale
+  - [Dyspepsie chronique]({{% relref "dyspepsie.md" %}}) avec endoscopie normale
 - Prévention du cancer gastrique
   - Antécédent personnel de lésion cancéreuse ou pré-cancéreuse gastrique
   - Antécédent familial au 1^er^ degré de cancer de l'estomac
@@ -205,7 +205,7 @@ La France est un pays de faible incidence d'*Helicobacter pylori*:
   - Avant chirurgie bariatrique touchant l'estomac
 - Autres
   - Toute endoscopie gastrique doit s'accompagner de biopsies
-  - [Anémie ferriprive]({{< relref "anemie.md" >}}) sans cause retrouvée ou résistante à la supplémentation
+  - [Anémie ferriprive]({{% relref "anemie.md" %}}) sans cause retrouvée ou résistante à la supplémentation
   - Carence en vitamine B12 sans cause retrouvée
   - Purpura thrombopénique immunologique de l'adulte
   - Souhait du patient
@@ -219,7 +219,7 @@ La France est un pays de faible incidence d'*Helicobacter pylori*:
 
 Indications à la sérologie (test diagnostique) chez le sujet asymptomatique avec ≥ 1 parmi:
 
-- < 40-45 ans avec antécédent au 1^er^ degré de [cancer gastrique]({{< relref "cancer-estomac.md" >}})
+- < 40-45 ans avec antécédent au 1^er^ degré de [cancer gastrique]({{% relref "cancer-estomac.md" %}})
 - Antécédent d'ulcère gastro-duodénal sans preuve d'éradication d'*HP*
 - Purpura thrombopénique immunologique
 
@@ -235,7 +235,7 @@ Indications à l'endoscopie en première intention:
 
 - **Patient symptomatique**
   - Syndrome ulcéreux
-  - [Dyspepsie]({{< relref "dyspepsie.md" >}}) chez un patient de plus de 40-45 ans
+  - [Dyspepsie]({{% relref "dyspepsie.md" %}}) chez un patient de plus de 40-45 ans
   - Signe d'alarme  
     Dysphagie, amaigrissement, anémie.
   - Anémie ferriprive ou carence en vitamine B12 sans autre cause
@@ -243,7 +243,7 @@ Indications à l'endoscopie en première intention:
   - &gt; 40-45 ans avec antécédent au 1^er^ degré de cancer gastrique
   - Autres facteurs de risque (Voir plus haut *Facteurs de risque ...*)
 - Lymphome gastrique du MALT
-- [Chirurgie bariatrique]({{< relref "obesite-adulte.md" >}}) prévue
+- [Chirurgie bariatrique]({{% relref "obesite-adulte.md" %}}) prévue
 
 > -- *HAS 2017*
 

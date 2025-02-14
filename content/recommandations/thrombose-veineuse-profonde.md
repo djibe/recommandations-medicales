@@ -27,7 +27,7 @@ Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'
 
 {{%article-summary%}}
 
-Recommandations pour la prise en charge d'une suspicion de thrombose veineuse profonde (TVP) en l'absence de signe d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) (dyspnée, malaise, tachycardie et douleur thoracique):
+Recommandations pour la prise en charge d'une suspicion de thrombose veineuse profonde (TVP) en l'absence de signe d'[embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}) (dyspnée, malaise, tachycardie et douleur thoracique):
 
 - Score clinique systématique (score de Wells ou Constans, voir *Probabilité clinique*) avec dosage des D-dimères ou écho-doppler veineux d'emblée selon le résultat du score
 - Le seuil de D-dimères est adapté à l'âge à partir de 50 ans (ex: 700 après 70 ans)
@@ -84,7 +84,7 @@ UI
 > [!WARNING]
 > Rechercher des signes d'embolie pulmonaire devant toute suspicion de thrombose veineuse: dyspnée, malaise, tachycardie et douleur thoracique.
 
-En l'absence de signes d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}), il est recommandé d'utiliser l'un des scores cliniques de thrombose veineuse ci-dessous plutôt qu'une appréciation clinique pour l'évaluation d'une suspicion de thrombose veineuse profonde.
+En l'absence de signes d'[embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}), il est recommandé d'utiliser l'un des scores cliniques de thrombose veineuse ci-dessous plutôt qu'une appréciation clinique pour l'évaluation d'une suspicion de thrombose veineuse profonde.
 
 {{< scores/tvp >}}
 
@@ -114,8 +114,8 @@ Après 50 ans, la borne des D-dimères est à 10x l'âge (ex. 700 à 70 ans, < 5
   - Ne pas poursuivre les investigations
 - D-dimères anormaux: écho-doppler veineux
 
-Autres situations où les d-dimères sont augmentés (*SFMV 2021*): état inflammatoire (traumatisme, hématome, post-opératoire, maladie inflammatoire, sepsis), [cancer](/tags/cancer/), malformation vasculaire, CIVD, âge, [grossesse]({{< relref "grossesse.md" >}}) et [post-partum]({{< relref "post-partum.md" >}}).
-Autres situations où les d-dimères sont augmentés (*SFMV 2021*): état inflammatoire (traumatisme, hématome, post-opératoire, maladie inflammatoire, sepsis), [cancer](/tags/cancer/), malformation vasculaire, CIVD, âge, [grossesse]({{< relref "grossesse.md" >}}) et [post-partum]({{< relref "post-partum.md" >}}).
+Autres situations où les d-dimères sont augmentés (*SFMV 2021*): état inflammatoire (traumatisme, hématome, post-opératoire, maladie inflammatoire, sepsis), [cancer](/tags/cancer/), malformation vasculaire, CIVD, âge, [grossesse]({{% relref "grossesse.md" %}}) et [post-partum]({{% relref "post-partum.md" %}}).
+Autres situations où les d-dimères sont augmentés (*SFMV 2021*): état inflammatoire (traumatisme, hématome, post-opératoire, maladie inflammatoire, sepsis), [cancer](/tags/cancer/), malformation vasculaire, CIVD, âge, [grossesse]({{% relref "grossesse.md" %}}) et [post-partum]({{% relref "post-partum.md" %}}).
 
 ### Écho-doppler veineux
 
@@ -139,7 +139,7 @@ Indications à l'échodoppler veineux pour suspicion de TVP: **probabilité fort
 
 L'hospitalisation est recommandée en cas de phlébite avec:
 
-- Suspicion d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
+- Suspicion d'[embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})
 - Phlébite bilatérale
 - Syndrome obstructif sévère ou signes d'ischémie
 - Symptômes mal tolérés après 15 jours d'anticoagulation efficace
@@ -294,7 +294,7 @@ Indication: TVP proximale diagnostiquée dans les 30 jours (avec ou sans EP) ave
 {{% /collapse %}}
 {{%collapse "Phlébite et voyage" %}}
 
-Voir [Voyage]({{< relref "voyage.md" >}}) (section *Voyage en avion*).
+Voir [Voyage]({{% relref "voyage.md" %}}) (section *Voyage en avion*).
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une TVP" "show" %}}

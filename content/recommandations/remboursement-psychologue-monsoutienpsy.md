@@ -35,7 +35,7 @@ todo = "échelles"
 - Adultes en souffrance psychique d'intensité légère à modérée
   - Trouble anxieux ({{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}})
   - Trouble dépressif ({{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}})
-  - [Mésusage du tabac]({{< relref "arret-tabac.md" >}}), [alcool]({{< relref "sevrage-alcool.md" >}}) ({{< modal-btn modal-auditc >}}AUDIT-C{{< /modal-btn >}} < 10) ou {{< modal-btn modal-cast >}}cannabis sans dépendance (CAST){{< /modal-btn >}}  
+  - [Mésusage du tabac]({{% relref "arret-tabac.md" %}}), [alcool]({{% relref "sevrage-alcool.md" %}}) ({{< modal-btn modal-auditc >}}AUDIT-C{{< /modal-btn >}} < 10) ou {{< modal-btn modal-cast >}}cannabis sans dépendance (CAST){{< /modal-btn >}}  
     {{%class%}}En cas de dépendance, adresser en [CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html).{{%/class%}}
   - Trouble des conduites alimentaires (TCA sans gravité)
 

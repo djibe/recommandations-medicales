@@ -40,11 +40,11 @@ Cancer du rein
 
 ### Facteurs de risque de cancer du rein
 
-- [Tabac]({{< relref "arret-tabac.md" >}})
-- [Obésité]({{< relref "obesite-adulte.md" >}})
-- [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+- [Tabac]({{% relref "arret-tabac.md" %}})
+- [Obésité]({{% relref "obesite-adulte.md" %}})
+- [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
 - {{< modal-btn modal-metabolique >}}Syndrome métabolique{{< /modal-btn >}}
-- [Dialyse]({{< relref "insuffisance-renale-chronique.md" >}}) depuis plus de 3 ans (cancer tubulopapillaire)
+- [Dialyse]({{% relref "insuffisance-renale-chronique.md" %}}) depuis plus de 3 ans (cancer tubulopapillaire)
 - Génétique: maladie de von Hippel-Lindau (1-2 % des cas)  
   Hémangiomes cérébelleux et rétiniens, plus de la moitié développe un cancer du rein.
 
@@ -77,10 +77,10 @@ Signes et symptômes de cancer du rein:
 - Antécédents: maladie rénale
 - Antécédents familiaux de cancers urologiques
 - Tabac
-- **[Hématurie]({{< relref "hematurie.md" >}})** totale, indolore, spontanée, récidivante
+- **[Hématurie]({{% relref "hematurie.md" %}})** totale, indolore, spontanée, récidivante
 - Douleur du flanc
 - Masse lombaire palpée
-- [Polyglobulie]({{< relref "polyglobulie.md" >}})
+- [Polyglobulie]({{% relref "polyglobulie.md" %}})
 - AEG, fièvre inexpliquée
 - Métastases: symptômes neurologiques ou osseux
 
@@ -123,19 +123,19 @@ La prise en charge du cancer du rein est spécialisée après RCP. [Annuaire des
 
 Mesures associées à la prise en charge des cancers:
 
-- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 - Avis oncogénétique avant 47 ans avec ≥ 1 parmi:
   - tumeur bilatérale ou multifocale
   - antécédent familial au 1er ou 2e degré
   - proche avec mutation connue
   - histologie évocatrice
 - Information du patient: [guide INCa](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-du-rein/Points-cles) sur le cancer du rein
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
-- [Réduction de l'alcool]({{< relref "sevrage-alcool.md" >}})
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
+- [Réduction de l'alcool]({{% relref "sevrage-alcool.md" %}})
 - Activité physique
 - Soutien psychologique voire psychothérapie
 - Association de patients: [Ligue contre le cancer](https://www.ligue-cancer.net), [ARTuR](https://artur-rein.org)
-- Personne de confiance, [directives anticipées]({{< relref "directives-anticipees.md" >}})
+- Personne de confiance, [directives anticipées]({{% relref "directives-anticipees.md" %}})
 - Droit à l'oubli: protocole achevé depuis 5 ans en l'absence de rechute
 
 ### Pour en savoir plus: les traitements du cancer du rein

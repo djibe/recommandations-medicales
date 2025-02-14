@@ -32,7 +32,7 @@ todo = "photo > flow"
   - Urétrite et cervicite: ceftriaxone 1g IM unique + doxycycline 100 mg x 2/j pendant 7 jours (ou azithromycine 1g dose unique) et consultation à J7 (J3 si échec)
 - Dépistage des autres IST (si *Chlamydia*, gonocoque, *Trichomonas*) et du partenaire et évaluation de la santé sexuelle
 
-Chapitres liés: [infections génitales hautes]({{< relref "infections-genitales-hautes.md" >}}), [mycose vaginale]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), [infections urinaires]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), [herpès génital]({{< relref "infections-herpes-virus.md" >}}), [infections à Chlamydia trachomatis]({{< relref "chlamydia-trachomatis.md" >}}) et [papillomavirus]({{< relref "cancer-col-uterus.md" >}}) (HPV), [syphilis]({{< relref "syphilis.md" >}})
+Chapitres liés: [infections génitales hautes]({{% relref "infections-genitales-hautes.md" %}}), [mycose vaginale]({{% relref "mycoses-dermatophytes-candidoses.md" %}}), [infections urinaires]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}), [herpès génital]({{% relref "infections-herpes-virus.md" %}}), [infections à Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}}) et [papillomavirus]({{% relref "cancer-col-uterus.md" %}}) (HPV), [syphilis]({{% relref "syphilis.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

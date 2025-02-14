@@ -40,7 +40,7 @@ Hyponatrémie
 : Elle est dite aiguë en cas d'installation brutale en **moins de 48 heures** (grave) ou chronique ou d'ancienneté inconnue dans les autres cas.
 : Le plus souvent, l'origine est iatrogène: diurétiques (thiazidiques ++), antidépresseurs, antipsychotiques, anti-épileptiques.  
 Les autres causes fréquentes sont l'insuffisance surrénale et les [cancers](/tags/cancer/).
-: Complications d'une hyponatrémie (même légère): risque de [chutes](/tags/chute/), [ostéoporose]({{< relref "osteoporose.md" >}}) (OR 4 si chronique) et fractures de fragilité (OR 4,6), notamment chez la personne âgée, troubles cognitifs par œdème cérébral voire décès. La correction trop rapide d'une hyponatrémie peut également causer une **myélinolyse centro-pontine** gravissime.
+: Complications d'une hyponatrémie (même légère): risque de [chutes](/tags/chute/), [ostéoporose]({{% relref "osteoporose.md" %}}) (OR 4 si chronique) et fractures de fragilité (OR 4,6), notamment chez la personne âgée, troubles cognitifs par œdème cérébral voire décès. La correction trop rapide d'une hyponatrémie peut également causer une **myélinolyse centro-pontine** gravissime.
 
 ### Classification de l'hyponatrémie
 
@@ -127,7 +127,7 @@ Les signes et symptômes de l'hyponatrémie sont aspécifiques:
   - Confusion
   - Céphalées
 - Autres symptômes
-  - [Chutes](/tags/chute/), fractures, dépister les autres facteurs de risque d'[ostéoporose]({{< relref "osteoporose.md" >}})
+  - [Chutes](/tags/chute/), fractures, dépister les autres facteurs de risque d'[ostéoporose]({{% relref "osteoporose.md" %}})
   - Suspicion de malignité: AEG
 
 > [!WARNING]

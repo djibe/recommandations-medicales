@@ -26,7 +26,7 @@ todo = "rankok, SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2
 {{%article-summary%}}
 
 - La bronchiolite concerne uniquement les enfants de moins de 12 mois (*asthme du nourrisson* au-delà ou à partir de 2-3 épisodes)
-- Éliminer une [insuffisance cardiaque aiguë]({{< relref "insuffisance-cardiaque-aigue.md" >}}) et une [pneumonie]({{< relref "pneumonie-aigue-communautaire.md" >}})
+- Éliminer une [insuffisance cardiaque aiguë]({{% relref "insuffisance-cardiaque-aigue.md" %}}) et une [pneumonie]({{% relref "pneumonie-aigue-communautaire.md" %}})
 - Critères d'hospitalisation de la bronchiolite: voir *Signes de gravité et hospitalisation*
 - Durée de la dyspnée de 3 à 10 jours (voire 6 semaines)
 - Recommandations de prise en charge de la bronchiolite: éviction en phase aiguë - DRP - fractionner - surveillance - 0 tabac
@@ -57,7 +57,7 @@ Diagnostics à étayer devant un épisode de dyspnée du nourrisson:
 
 - **Insuffisance cardiaque congestive**
 - Exacerbation d'asthme
-- [Pneumopathie]({{< relref "pneumonie-aigue-communautaire.md" >}})
+- [Pneumopathie]({{% relref "pneumonie-aigue-communautaire.md" %}})
 - Laryngotrachéomalacie
 - Inhalation de corps étranger
 - Reflux gastro-œsophagien
@@ -236,7 +236,7 @@ Recommandations pour la prévention de la bronchiolite:
 
 - Vaccination anti-VRS pendant la grossesse (voir plus bas)  
   ou immunoglobulines anti-VRS Beyfortus® à défaut (voir plus bas)
-- [Allaitement maternel]({{< relref "allaitement.md" >}})
+- [Allaitement maternel]({{% relref "allaitement.md" %}})
 - Retarder la mise en collectivité
 - Nourrisson à haut risque de forme grave: ne pas fréquenter la collectivité en période épidémique
 - Mesures d'hygiène
@@ -245,7 +245,7 @@ Recommandations pour la prévention de la bronchiolite:
   - Éviter les lieux publics confinés
   - Pas de partage des biberons, tétines, sucettes ou couverts
   - Laver régulièrement jouets et doudous
-  - [Éviction du tabagisme passif]({{< relref "arret-tabac.md" >}})
+  - [Éviction du tabagisme passif]({{% relref "arret-tabac.md" %}})
   - Mesures barrière strictes autour des nourrissons < 1 an, renforcées autour des < 3 mois  
     En cas de rhume: éternuer dans le coude, éviter d'embrasser bébé sur visage et mains, porter un masque pour s'occuper de bébé.
 
@@ -319,7 +319,7 @@ Recommandations de prise en charge d'un épisode de bronchiolite:
 - Aération correcte de la chambre, température optimale 19°C
 - Lavage des mains à l'eau + savon pluriquotidiens
 - En collectivité: décontamination quotidienne des objets de surface
-- Promouvoir l'[allaitement maternel]({{< relref "allaitement.md" >}}) et retarder la mise en collectivité
+- Promouvoir l'[allaitement maternel]({{% relref "allaitement.md" %}}) et retarder la mise en collectivité
 - Collectivité
   - Fréquentation non souhaitable en phase aiguë (*HAS*)  
     On rappellera que le Collège 2021 dit: << Pas d'éviction >>
@@ -341,7 +341,7 @@ Indications spécifiques au cours d'un épisode de bronchiolite:
   - Forme modérée avec SpO~2~ ≤ 92%: cible > 92% éveil et 90% sommeil
   - Cardiopathie: cible habituelle ou > 92% par défaut
 - Discuter une antibiothérapie si:
-  fièvre ≥ 38,5°C pendant +48 heures, [otite associée]({{< relref "otite-moyenne-aigue.md" >}}), pathologie pulmonaire ou cardiaque sous-jacente, foyer pulmonaire radiologiquement documenté, élévation de la CRP ou hyperleucocytose.
+  fièvre ≥ 38,5°C pendant +48 heures, [otite associée]({{% relref "otite-moyenne-aigue.md" %}}), pathologie pulmonaire ou cardiaque sous-jacente, foyer pulmonaire radiologiquement documenté, élévation de la CRP ou hyperleucocytose.
 
 ### Kinésithérapie respiratoire et bronchiolite
 

@@ -30,7 +30,7 @@ flowchart = true
 - La prise en charge de la pancréatite chronique nécessite le sevrage de l'alcool et du tabac, un suivi spécialisé par les gastro-entérologue, diététicien (et endocrinologue en cas de diabète), un traitement par enzymes pancréatiques
 - Le suivi est au moins annuel: surveillance des douleurs et du poids, cardiovasculaire, biologique, spécialisé ainsi que tomodensitométrique en cas de modification des symptômes pour rechercher un cancer du pancréas
 
-Chapitres liés: [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}), [cancer du pancréas]({{< relref "cancer-pancreas.md" >}})
+Chapitres liés: [pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}}), [cancer du pancréas]({{% relref "cancer-pancreas.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -77,19 +77,19 @@ PC
 
 Autres causes de douleurs épigastriques:
 
-- [Cholécystite aiguë]({{< relref "cholecystite-aigue.md" >}})
+- [Cholécystite aiguë]({{% relref "cholecystite-aigue.md" %}})
 - Colique hépatique
-- [Pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}})
-- [Syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}})
+- [Pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}})
+- [Syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}})
 - Douleurs abdominales fonctionnelles
 - Ulcère gastro-duodénal
-- [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}})
+- [Cancer du pancréas]({{% relref "cancer-pancreas.md" %}})
 - Autres tumeurs du pancréas: cystadénome à cellule acineuse, tumeurs intracanalaires papillaires et mucineuses du pancréas (TIPMP)
 - Gastroparésie
 - Obstruction digestive ou ischémie
-- [Anévrysme de l'aorte abdominale]({{< relref "anevrysme-aorte-abdominale.md" >}})
+- [Anévrysme de l'aorte abdominale]({{% relref "anevrysme-aorte-abdominale.md" %}})
 - Névralgie thoracique
-- [Infarctus du myocarde inférieur]({{< relref "syndrome-coronarien-aigu.md" >}})
+- [Infarctus du myocarde inférieur]({{% relref "syndrome-coronarien-aigu.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -98,11 +98,11 @@ Autres causes de douleurs épigastriques:
 
 Signes et symptômes de pancréatite chronique à rechercher à l'examen. La difficulté tient à différencier une **poussée** de pancréatite chronique d'une **pancréatite aiguë**.
 
-- Antécédents: [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}) (date et étiologie), [intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}), [maladie rénale]({{< relref "insuffisance-renale-chronique.md" >}}), hypertriglycéridémie, maladie respiratoire, [infertilité]({{< relref "infertilite-couple.md" >}})
-- Antécédents familiaux: [cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) et pancréatites
+- Antécédents: [pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}}) (date et étiologie), [intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}), [maladie rénale]({{% relref "insuffisance-renale-chronique.md" %}}), hypertriglycéridémie, maladie respiratoire, [infertilité]({{% relref "infertilite-couple.md" %}})
+- Antécédents familiaux: [cancer du pancréas]({{% relref "cancer-pancreas.md" %}}) et pancréatites
 - Facteurs de risque de pancréatite chronique
-  - Usage nocif d'**[alcool]({{< relref "sevrage-alcool.md" >}})**: {{< modal-btn modal-auditc >}}questionnaire AUDIT-C{{< /modal-btn >}} (80% des cas, souvent +100 g/j pendant +10 ans)
-  - [Tabac]({{< relref "arret-tabac.md" >}}) (OR 7,8)
+  - Usage nocif d'**[alcool]({{% relref "sevrage-alcool.md" %}})**: {{< modal-btn modal-auditc >}}questionnaire AUDIT-C{{< /modal-btn >}} (80% des cas, souvent +100 g/j pendant +10 ans)
+  - [Tabac]({{% relref "arret-tabac.md" %}}) (OR 7,8)
   - Autres causes de pancréatite aiguë: lithiase biliaire, tumeur pancréatique (TIPMP, tumeur neuroendocrine), pancréatite auto-immune et génétique (hypercalcémie et hypertriglycéridémie sont exceptionnelles)
 - Traitements: ciclosporine
 - Ancienneté des symptômes
@@ -114,7 +114,7 @@ Signes et symptômes de pancréatite chronique à rechercher à l'examen. La dif
     Carence en vitamines liposolubles: vitamines A, D, E ou K.
   - Insuffisance pancréatique exocrine (IPE) tardive (40 à 75%):  
     **Amaigrissement**, **stéatorrhée**
-  - Signes de cholestase: [ictère]({{< relref "ictere.md" >}}), coloration des urines et selles, prurit
+  - Signes de cholestase: [ictère]({{% relref "ictere.md" %}}), coloration des urines et selles, prurit
   - Signes de [diabète](/tags/diabete/) (90% en phase tardive): polyurie, polydipsie
 
 ### Examen clinique
@@ -126,7 +126,7 @@ Signes et symptômes de pancréatite chronique à rechercher à l'examen. La dif
   {{< clinique/hypertension-portale >}}
 - Signes d'insuffisance hépatocellulaire  
   {{< clinique/insuffisance-hepato-cellulaire >}}
-- [Splénomégalie]({{< relref "splenomegalie.md" >}})
+- [Splénomégalie]({{% relref "splenomegalie.md" %}})
 - Ictère: coloration de la peau et des muqueuses
 
 {{% /collapse %}}
@@ -173,7 +173,7 @@ Indications à la consultation génétique:
 
 La prise en charge de la pancréatite chronique comprend le traitement des insuffisances pancréatiques exocrine et endocrine avec suivi spécialisé:
 
-- **[Sevrage de l'alcool]({{< relref "sevrage-alcool.md" >}}) et du [tabac]({{< relref "arret-tabac.md" >}})**
+- **[Sevrage de l'alcool]({{% relref "sevrage-alcool.md" %}}) et du [tabac]({{% relref "arret-tabac.md" %}})**
 - Antalgie: arrêt de l'alcool, paracétamol voire palier 2  
   Autres traitements: douleurs neuropathiques, avis d'un médecin de la douleur si besoin.
 - Amaigrissement ou stéatorrhée: extraits pancréatiques pendant les repas  
@@ -199,7 +199,7 @@ Le suivi de la pancréatite chronique est au moins annuel (*BSG*):
 - **Radiologique:** scanner si perte de poids, modifications du bilan ou des douleurs, diabète, vomissements ou annuel en cas d'origine génétique
 - **Spécialisé:** rythme du suivi avec le gastro-entérologue
 - Si diabète: metformine puis insuline, hypoglycémies, suivi diabétologique du diabète type 3c
-- Ostéodensitométrie tous les 2 ans (voir [ostéoporose masculine]({{< relref "osteoporose-masculine.md" >}}))
+- Ostéodensitométrie tous les 2 ans (voir [ostéoporose masculine]({{% relref "osteoporose-masculine.md" %}}))
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la pancréatite chronique" "show" %}}

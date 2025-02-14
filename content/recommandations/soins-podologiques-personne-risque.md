@@ -26,13 +26,13 @@ todo = "FDR chute p. 18, test monofilament, Cetaf, Annexe 5, Annexe 8"
 
 Cette recommandation concerne les +60 ans capables de marcher ou de se tenir debout. Certaines parties concernent toutefois la population générale.
 
-- Pathologies à haut risque d'atteinte des pieds: [diabète]({{< relref "diabete-type-2.md" >}}), [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}) (et autres [rhumatismes](/specialites/rhumatologie/)), anti-cancéreux anti-EGFR, obésité, sarcopénie, maladies neurodégénératives
+- Pathologies à haut risque d'atteinte des pieds: [diabète]({{% relref "diabete-type-2.md" %}}), [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}) (et autres [rhumatismes](/specialites/rhumatologie/)), anti-cancéreux anti-EGFR, obésité, sarcopénie, maladies neurodégénératives
 - Recommander le bilan podologique spécialisé pour ces personnes, ainsi que pour tous les sujets +60 ans (même si non remboursé)
 - Évaluation du risque de chute: Timed up & go test et appui monopodal (voir *Clinique*)
 - Mesures d'hygiène des pieds: lavage quotidien à l'eau et au savon, inspection, chaussage adapté (voir *Prévention*)
 - Les orthèses doivent être portées toute la journée avec surveillance par le podologue et renouvellement annuel
 
-Chapitres liés: [ostéoporose]({{< relref "osteoporose.md" >}}), [vitamine D]({{< relref "vitamine-d.md" >}})
+Chapitres liés: [ostéoporose]({{% relref "osteoporose.md" %}}), [vitamine D]({{% relref "vitamine-d.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -46,7 +46,7 @@ Durillon
 : Épaississement cutané au niveau des points de pression plantaire (têtes métatarsiennes). Classé parmi les hyperkératoses.
 
 Koïlonychies (ou coelonychie)
-: Ongles plats avec bords relevés << en cuillère >> très fragiles, souvent fissurés ou friables. Fréquent en cas de [carence en fer]({{< relref "anemie.md" >}}) ou d'[hémochromatose]({{< relref "hemochromatose.md" >}}).
+: Ongles plats avec bords relevés << en cuillère >> très fragiles, souvent fissurés ou friables. Fréquent en cas de [carence en fer]({{% relref "anemie.md" %}}) ou d'[hémochromatose]({{% relref "hemochromatose.md" %}}).
 
 Paronychie
 : Inflammation du pourtour de l'ongle avec la présence d'un bourgeon charnu saignant associé à un ongle fragilisé.
@@ -85,7 +85,7 @@ IPS
   - Spondylarthrite ankylosante
   - Rhumatisme psoriasique
   - Arthropathies microcristallines
-  - Maladies neurodégénératives ([Alzheimer]({{< relref "maladie-alzheimer.md" >}}), [Parkinson]({{< relref "maladie-parkinson.md" >}}))
+  - Maladies neurodégénératives ([Alzheimer]({{% relref "maladie-alzheimer.md" %}}), [Parkinson]({{% relref "maladie-parkinson.md" %}}))
   - Sarcopénie
   - Anti-cancéreux: **anti-EGFR**, capécitabine, taxanes
   - Arthrose
@@ -116,7 +116,7 @@ IPS
 - Poids, taille, IMC et leurs variations
 - Examen du pied
   - Hygiène cutanée  
-    [Intertrigo]({{< relref "mycoses-dermatophytes-candidoses.md" >}}) (préférer antifongique 1 application/j type kétoconazole), hyperkératose.
+    [Intertrigo]({{% relref "mycoses-dermatophytes-candidoses.md" %}}) (préférer antifongique 1 application/j type kétoconazole), hyperkératose.
   - Phanères
   - Plaies et lésions cutanées suspectes
   - Déformations
