@@ -2,7 +2,7 @@
 id = "0195001a-8b0f-7b4b-9d8d-7faae06745f3"
 title = "Névralgie pudendale"
 prefix = "la "
-description = "TODO:"
+description = "Recommandations pour le diagnostic et la prise en charge de la névralgie pudendale. Douleurs neuropathiques assis, IRM pelvienne et avis spécialisé proctologique"
 synonyms = ["Syndrome de compression du nerf pudendal", "neuropathie pudendale", "syndrome d'Alcock"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-02-13T17:18:01+01:00"
@@ -15,16 +15,20 @@ tags = ["douleur pelvienne", "neuropathie"]
 english = ["Pudendal neuralgia"]
 sctid = "427972000"
 icd10 = ["G58.8"]
-draft = true
 image = true
 imageWEBP = true
 imageSrc = "Trajet du nerf pudendal. Medical gallery of Mikael Häggström 2014. WikiJournal of Medicine 1. DOI:10.15347/wjm/2014.008. Public domain, via Wikimedia Commons"
-todo = "descr > summary > liens > flow > Kanban"
+todo = "flow"
 +++
 
 {{%article-summary%}}
 
-TODO: (at the end)
+- La névralgie pudendale est une atteinte du nerf pudendal par conflit anatomique, apparaissant entre 50 et 70 ans, responsable de douleurs périnéales détériorant la qualité de vie
+- Les symptômes de névralgie pudendale sont dominés par des douleurs neuropathiques périnéales survenant ou aggravées en position assise, soulagées debout ou allongé avec souvent des troubles urinaires et sexuels
+- L'examen clinique pelvien et périnéal est complet avec touchers vaginaux et rectoscopie
+- Le bilan avec une IRM pelvienne et lombo-sacrée recherche un diagnostic différentiel
+- Adresser toute suspicion de névralgie pudendale au spécialiste (proctologue, algologue) pour test diagnostique de bloc nerveux anesthésique
+- La prise en charge de la névralgie pudendale associe: kinésithérapie, antalgie des douleurs neuropathiques (amitriptyline, duloxétine, gabapentine) voire TENS, chirurgie de décompression ou stimulation du cône médullaire
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
