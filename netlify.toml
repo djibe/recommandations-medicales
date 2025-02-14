@@ -23,6 +23,17 @@ HUGO_ENABLEGITINFO = "false"
     Cache-Control = "public, max-age=3600" # 1h for analytics
 
 [[headers]]
+  for = "/clear.html"
+  [headers.values]
+    Cache-Control = '''
+    public,
+    max-age=0,
+    no-cache,
+    no-store,
+    must-revalidate'''
+    Clear-Site-Data = "*"
+
+[[headers]]
   for = "*.json"
   [headers.values]
     Cache-Control = "public, max-age=1209600, must-revalidate, stale-while-revalidate=86400" # 2w
