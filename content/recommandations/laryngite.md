@@ -142,4 +142,6 @@ Adulte: aérosols de cortico possibles
 - <https://www.em-consulte.com/article/1313/laryngites-aigues-de-l-adulte?OWASP-CSRFTOKEN=69RV-UA5N-38I9-U3DQ-US6D-AXQN-FWXL-9HGQ>
 - NICE Clinical guidance
 
+Mot-clé: trachéite
+
 {{%/sources%}}

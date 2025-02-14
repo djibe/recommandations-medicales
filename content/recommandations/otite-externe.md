@@ -89,7 +89,7 @@ Signes et symptômes de l'otite externe, qui peut être uni ou bilatérale.
   - Otorrhées purulente
   - Prurit
   - Écoulement
-  - Désquamation
+  - Desquamation
   - Érythème
   - Œdème
 - Absence de signes généraux (apyrexie)

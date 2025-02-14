@@ -25,7 +25,7 @@ todo = "flow p8"
 - Le bouchon de cérumen correspond à une accumulation de cérumen provoquant des symptômes et/ou empêchant l'examen du tympan
 - Le cérumen est évacué naturellement et ne doit pas être manipulé avec des objets invasifs (cotons-tiges ...)
 - Examen otoscopique des sujets à risque de bouchon de cérumen: enfants, sujets âgés ou porteurs de prothèses auditives
-- 4 traitements peuvent être proposés pour un bouchon de cérumen selon le profil du patient: mesures d"hygiène et contrôle, céruménolytique (Cérulyse), irrigation du conduit auditif ou extraction manuelle
+- 4 traitements peuvent être proposés pour un bouchon de cérumen selon le profil du patient: mesures d'hygiène et contrôle, céruménolytique Cérulyse®, irrigation du conduit auditif ou extraction manuelle
 - En cas d'échec lors de l'extraction du bouchon de cérumen (tympan non vu, symptômes persistants), demander un avis spécialisé ORL
 - Toujours rappeler les consignes d'hygiène des oreilles
 
@@ -63,7 +63,7 @@ Le diagnostic d'un bouchon de cérumen est clinique.
 
 - Antécédents: aérateurs transtympaniques (ATT), barotraumatisme, chirurgie tympanique, sténose du conduit auditif, radiothérapie cervico-faciale, dermatose, diabète, immunodépression, coagulopathie
 - Traitements généraux et locaux  
-  Dont anticoagulants, antiaggrégants, immunosuppresseur.
+  Dont anticoagulants, antiagrégants, immunosuppresseur.
 - Port d'aides auditives
 - Mesures d'hygiène des oreilles
 - Symptômes associés aux bouchons de cérumen:

@@ -7,7 +7,7 @@ synonyms = ["Apophysite tibiale antérieure"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-02-05T22:58:04+01:00"
 publishdate = "2025-02-05"
-lastmod = "2025-02-05"
+lastmod = "2025-02-14"
 specialites = ["orthopedie"]
 annees = "2023"
 sources = ["Bibliographie"]
@@ -37,9 +37,9 @@ Maladie d'Osgood-Schlatter
 : La prévalence chez le sportif est d'environ 10% entre 12 et 15 ans.
 
 {{% /collapse %}}
-{{%collapse "Diagnosic différentiel" %}}
+{{%collapse "Diagnostic différentiel" %}}
 
-Diagnosics différentiels de l'Osgood-Schlatter:
+Diagnostics différentiels de l'Osgood-Schlatter:
 
 - Tendinite du tendon rotulien
 - Ostéomyélite du tibia
@@ -54,7 +54,7 @@ Le diagnostic de la maladie d'Osgood-Schlatter est clinique.
 
 ### Interrogatoire
 
-Signes et symptôems de la maladie d'Osgood-Schlatter:
+Signes et symptômes de la maladie d'Osgood-Schlatter:
 
 - Adolescent sportif (fille 8-12 ans, garçon 12-15 ans)
 - Antécédents: traumatismes
@@ -82,7 +82,7 @@ Avis orthopédique rapide en cas de douleurs atypiques ou intenses.
 
 Selon *PAP Pédiatrie*, les **radiographies des genoux** sont systématiques pour éliminer une tumeur (surtout en cas de tableau sévère ou atypique).
 
-Lors de l'Osgood-Schlatter, la radio peut montrer: une tubérosité tibiale prohéminente avec gonflement des tissus mous, une fragmentation de l'apophyse ou une calcification du tendon rotulien distal.
+Lors de l'Osgood-Schlatter, la radio peut montrer: une tubérosité tibiale proéminente avec gonflement des tissus mous, une fragmentation de l'apophyse ou une calcification du tendon rotulien distal.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la maladie d'Osgood-Schlatter" %}}
@@ -128,7 +128,7 @@ Les étirements suivants peuvent contribuer à améliorer la souplesse des muscl
 - Répétez l'exercice sur l'autre jambe.
 - Répétez l'exercice quatre fois pour chaque jambe, deux fois par jour.
 
-### Étirement des ischio-jambiers (muscle postériuer de la cuisse)
+### Étirement des ischio-jambiers (muscle postérieur de la cuisse)
 
 Premier étirement:
 

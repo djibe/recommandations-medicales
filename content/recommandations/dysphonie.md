@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-02-07T19:17:38+01:00"
 publishdate = "2025-02-13"
-lastmod = "2025-02-13"
+lastmod = "2025-02-14"
 specialites = ["ORL"]
 annees = "2018"
 sources = ["AAO-HNS"]
@@ -25,7 +25,7 @@ flowchart = true
 
 - La dysphonie est une altération de la production de la voix, de son timbre, sa puissance ou de l'effort nécessaire avec retentissement sur la communication ou la qualité de vie
 - Le diagnostic de dysphonie est clinique, qui survient le plus souvent lors d'une infection des voies aériennes supérieures, de résolution spontanée en 7 à 10 jours
-- L'examen clinique traque une origine cancéreuse, neurologique ou iatrogène, avec des signes de gravité: cirurgie récente, dysphagie, dyspnée, stridor, signes neurologiques
+- L'examen clinique traque une origine cancéreuse, neurologique ou iatrogène, avec des signes de gravité: chirurgie récente, dysphagie, dyspnée, stridor, signes neurologiques
 - La persistance de la dysphonie à 1 mois (ou avant en cas de signe de gravité, tabagisme ou profession invalidante) nécessite un avis ORL rapide pour laryngoscopie
 - La prise en charge de la dysphonie est spécialisée et étiologique. Aucun traitement ne doit être essayé à l'aveugle. Les examens complémentaires dépendent de l'endoscopie (sauf tableau évocateur)
 
@@ -88,7 +88,7 @@ Causes de dysphonie:
 - **Tumorale**
   - Carcinome épidermoïde laryngé
   - Papillomatose respiratoire récurrente
-  - Métastases et autres néoplasies (exemple: chondromes, lymphomes)
+  - Métastases et autres néoplasies (ex: chondromes, lymphomes)
 - Congénitale
   - Palmure congénitale du larynx isolée
   - Kyste du sillon vocal
@@ -122,13 +122,13 @@ Le diagnostic de dysphonie est clinique:
 - **Antécédents**  
   Chirurgie tête et cou ou thorax, intubation, radiothérapie cervicale, reflux, maladie neurologique (tremblement essentiel, Parkinson, SLA, SEP, AVC), rhumatisme, BPCO, immunodépression, néonatalogie.
 - Traitements en cours  
-  Corticoïdes inhalés, anticholinergiques, antihistaminiques H1 phénothiaziniques, décongestionants, testostérone, danazol, tamoxifène, anti-VEGF, antihypertenseurs.
+  Corticoïdes inhalés, anticholinergiques, antihistaminiques H1 phénothiaziniques, décongestionnants, testostérone, danazol, tamoxifène, anti-VEGF, antihypertenseurs.
 - **Tabagisme**, cigarette électronique, alcool
 - **Profession**
 - **Dysphonie**
   - Épisodes répétés
   - Date, vitesse d'installation et contexte (contexte infectieux ORL, chant/cris répétés ...)
-  - Intermitence, facteurs aggravants
+  - Intermittence, facteurs aggravants
   - Modifications de tonalité, puissance, constance
   - Douleurs, effort nécessaire
   - Sévérité, récupération
@@ -151,9 +151,9 @@ Signes en faveur d'une **origine virale**: rhinite, fièvre, fatigue.
 
 - Poids et variations, taille, IMC
 - Pression artérielle, fréquence cardiaque, SpO~2~
-- Ausculation cardiorespiratoire
+- Auscultation cardiorespiratoire
 - Évaluation de la phonation, respiration, déglutition
-- Examen cranio-cervical et pharyngé, otoscopie
+- Examen crânio-cervical et pharyngé, otoscopie
 - Palpation des aires ganglionnaires et de la thyroïde
 - Signes négatifs: examen neurologique (langue, voile du palais, paroi pharyngée postérieure)
 
@@ -174,7 +174,7 @@ Mesures de prévention de la dysphonie chez les sujets à risque de dysphonie (c
 - Éviter:
   - Toute forme de tabagisme (passif, électronique)
   - La saturation de la voix: crier, parler fort ou chuchoter
-  - Toux et râclage de gorge répétés
+  - Toux et raclage de gorge répétés
   - Alcool et café (sécheresse pharyngée)
   - Médicaments asséchants
 
@@ -198,7 +198,7 @@ Ne pas utiliser sans endoscopie et évaluation spécialisée: corticoïdes, trai
 
 {{< mermaid title="Prise en charge de la dysphonie. Dr JB Fron d'après AAO-HNS et Collège" >}}
 graph TB
-  enrouement["Altération de la production<br>de la voix rapportée<br>= enrouement"] --> interrogatoire("<b>Interrogatoire</b><br>—<br>- Antécédents: chirurgie, intubation,  ...<br>- Traitements en cours<br>- Tabagisme<br>- Profession<br>- Caractères de la dysphonie<br>- Symptômes associés:<br>dysphagie, dyspnée, AEG ...") --> dysphonie("Constation de voix modifiée<br>= dysphonie") --> clinique(<b>Clinique</b><br>—<br>- Constantes<br>- Ausculation<br>- Inspection et palpation<br>tête et cou<br>- Aires ganglionnaires<br>- Paires crâniennes) -. "Persistance<br>à 4 semaines<br>Collège: 8-15 j" .-> ORL("Examen ORL<br>avec laryngoscopie")
+  enrouement["Altération de la production<br>de la voix rapportée<br>= enrouement"] --> interrogatoire("<b>Interrogatoire</b><br>—<br>- Antécédents: chirurgie, intubation,  ...<br>- Traitements en cours<br>- Tabagisme<br>- Profession<br>- Caractères de la dysphonie<br>- Symptômes associés:<br>dysphagie, dyspnée, AEG ...") --> dysphonie("Constatation de voix modifiée<br>= dysphonie") --> clinique(<b>Clinique</b><br>—<br>- Constantes<br>- Auscultation<br>- Inspection et palpation<br>tête et cou<br>- Aires ganglionnaires<br>- Paires crâniennes) -. "Persistance<br>à 4 semaines<br>Collège: 8-15 j" .-> ORL("Examen ORL<br>avec laryngoscopie")
     clinique --> gravité("- Tabagisme<br>- Stridor, dysphagie ...<br>- Anomalie clinique<br>- Profession exposée") -- Semi-urgence --> ORL
     interrogatoire --> autre(Autre symptôme)
   style enrouement stroke:#4150f5, stroke-width:1px
