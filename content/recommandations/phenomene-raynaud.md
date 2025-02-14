@@ -206,8 +206,8 @@ En cas de signes de maladie systémique, ajouter:
 
 \* Examen systématique selon le *CEDEF 2017*
 
-Avis en médecine interne en cas de syndrome de Raynaud avec bilan biologique anormal.
-{.alert .alert-warning}
+> [!WARNING]
+> Avis spécialisé de médecine interne en cas de syndrome de Raynaud avec bilan biologique anormal.
 
 {{% /collapse %}}
 {{%collapse "Traitement du phénomène de Raynaud" %}}

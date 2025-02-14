@@ -92,8 +92,8 @@ Adresser au néphrologue avec l'échographie toute suspicion de polykystose rén
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+> [!WARNING]
 > << Toute fièvre d'origine incertaine au cours de la PKRAD justifie un ECBU >> -- *CUEN 2023*. L'ECBU affirme une pyélonéphrite mais ne permet pas d'éliminer un abcès rénal.
-{.alert .alert-warning}
 
 {{%info%}}
 

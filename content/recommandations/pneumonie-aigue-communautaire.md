@@ -184,8 +184,8 @@ Signes et symptômes de pneumonie à rechercher à l'examen.
 
 ### Examen clinique
 
-Une auscultation normale n'élimine pas le diagnostic de pneumonie.
-{.alert .alert-warning}
+> [!WARNING]
+> Une auscultation normale n'élimine pas le diagnostic de pneumonie.
 
 - Pression artérielle, fréquence cardiaque, température, TRC
 - Fréquence respiratoire, SpO~2~

@@ -139,8 +139,8 @@ Pré-éclampsie avec au moins un critère de sévérité parmi:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!WARNING]
 > Une suspicion de pré-éclampsie est une urgence diagnostique et thérapeutique.
-{.alert .alert-warning}
 
 ### Interrogatoire
 
@@ -188,8 +188,8 @@ Rechercher un **syndrome des anticorps anti-phospholipides** (SAPL) en cas de pr
 {{% /collapse %}}
 {{%collapse "Traitement de la pré-éclampsie" %}}
 
+> [!WARNING]
 > << L'hospitalisation est systématique lors de la découverte d'une prééclampsie >>. -- *Collège*
-{.alert .alert-warning}
 
 Toute suspicion de pré-éclampsie doit être prise en charge dans des **urgences obstétricales**.
 

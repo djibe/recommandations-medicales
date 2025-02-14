@@ -96,8 +96,8 @@ Tout consommateur chronique de BZD est exposé en cas d'arrêt brutal accidentel
 {{% /collapse %}}
 {{%collapse "Traitement par benzodiazépine et molécules disponibles" "show" %}}
 
+> [!WARNING]
 > << il n'y a pas lieu d'associer deux benzodiazépines, y compris pour des indications différentes >>. -- *CNUP*
-{.alert .alert-warning}
 
 ### Durée du traitement
 

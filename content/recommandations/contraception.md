@@ -317,8 +317,8 @@ Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à
 
 ### Les dispositifs intra-utérins (DIU)
 
-Métrorragies ou douleurs pelviennes persistantes sous stérilet: échographie pelvienne ± ASP.
-{.alert .alert-warning}
+> [!WARNING]
+> Métrorragies ou douleurs pelviennes persistantes sous stérilet: bilan avec échographie pelvienne ± ASP.
 
 - Contraception la moins chère (28,37 € pour 5 ans, Mirena 97€ pour 8 ans)
 - Le DIU ne contre-indique pas les AINS
@@ -457,8 +457,8 @@ Réaliser un bilan complet si prise de poids importante.
 
 ### Céphalées
 
-Contre-indication formelle aux œstroprogestatifs si migraines de novo ou aggravation des migraines pré-existantes.
-{.alert .alert-warning}
+> [!WARNING]
+> Contre-indication formelle aux œstroprogestatifs si migraines de novo ou aggravation des migraines pré-existantes.
 
 La survenue de céphalées sous contraceptifs hormonaux peuvent être le marqueur d'un risque vasculaire. Réévaluation clinique cardiovasculaire.
 
@@ -545,8 +545,8 @@ Chez l'homme: recommander le préservatif avec les nouvelles thérapies.
 
 #### Contraception après cancer
 
-Après un [cancer du sein]({{< relref "cancer-sein.md" >}}), toutes les contraceptions hormonales sont contre-indiquées.
-{.alert .alert-warning}
+> [!WARNING]
+> Après un [cancer du sein]({{< relref "cancer-sein.md" >}}), toutes les contraceptions hormonales sont contre-indiquées.
 
 Une contraception doit être systématiquement envisagée en l'absence de [ménopause]({{< relref "menopause.md" >}}).
 

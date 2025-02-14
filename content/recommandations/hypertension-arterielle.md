@@ -163,8 +163,8 @@ TZD
 {{% /collapse %}}
 {{%collapse "Mesure de la pression artérielle au cabinet" %}}
 
+> [!WARNING]
 > Les mesures de pression artérielle sur la table d'examen ne sont pas valables. -- *ESH 2021*
-{.alert .alert-warning}
 
 Toute personne majeure devrait avoir la mesure de pression artérielle (PA) dans son dossier et connaître ses valeurs.
 
@@ -491,8 +491,8 @@ Particularités de l'hypertension artérielle pendant la grossesse:
 
 Traitements de préférence: [méthyldopa](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60578560&typedoc=R) (Aldomet®, [CRAT](http://www.lecrat.fr/7193/)), [labétalol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65193337&typedoc=R) (Trandate®, [CRAT](http://www.lecrat.fr/7158/)) voire nifédipine LP ([CRAT](http://www.lecrat.fr/7173/)).
 
-Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine pendant la grossesse.
-{.alert .alert-warning}
+> [!WARNING]
+> Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine pendant la grossesse.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'hypertension artérielle" "show" %}}

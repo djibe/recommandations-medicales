@@ -74,8 +74,8 @@ Signes et symptômes de bartholinite aiguë:
   - Inspection: tuméfaction vulvopérinéale unilatérale douloureuse à l'origine d'une déformation unilatérale postérolatérale inflammatoire (rougeur, chaleur, douleur)
   - Palpation: masse fluctuante douloureuse
 
-Adresser toute suspicion de bartholinite aiguë aux *Urgences gynécologiques* pour traitement chirurgical.
-{.alert .alert-warning}
+> [!WARNING]
+> Adresser toute suspicion de bartholinite aiguë aux *Urgences gynécologiques* pour traitement chirurgical.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

@@ -51,8 +51,8 @@ Autres diagnostics à étayer devant un gonflement localisé d'un membre:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!WARNING]
 > Toute bursite superficielle fébrile est une bursite septique jusqu'à preuve du contraire.
-{.alert .alert-warning}
 
 Le diagnostic de bursite superficielle est le plus souvent **clinique** mais la prise en charge dépend de la localisation.
 
@@ -75,8 +75,8 @@ La bursite microtraumatique est classiquement indolore et sans signes inflammato
   - Douleurs
   - Impotence fonctionnelle
 
-La forte prévalence septique au coude ou au genou (⅓) doit faire éliminer une bursite septique par ponction, la clinique n'étant pas discriminante (*Baumbach et al 2014*).
-{.alert .alert-warning}
+> [!WARNING]
+> La forte prévalence septique au coude ou au genou (⅓) doit faire éliminer une bursite septique par ponction, la clinique n'étant pas discriminante (*Baumbach et al 2014*).
 
 ### Examen clinique
 

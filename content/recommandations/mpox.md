@@ -126,8 +126,8 @@ Examen clinique de tout patient suspect de variole du singe avec tous les moyens
 - Délai médian au diagnostic de Monkeypox de 6 jours
 - Guérison spontanée en 2 à 3 semaines (voire 4)
 
+> [!WARNING]
 > La variole du singe est plus grave chez l'enfant, les immunodéprimés et les femmes enceintes.
-{.alert .alert-warning}
 
 ### Interrogatoire et examen clinique d'un patient suspect de Mpox
 

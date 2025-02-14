@@ -49,8 +49,8 @@ PTH
 {{% /collapse %}}
 {{%collapse "Calcul de la calcémie corrigée" %}}
 
+> [!WARNING]
 > << Une calcémie ionisée supérieure à 1,3 mmol/L est toujours pathologique (hypercalcémie vraie). >> -- *CUEN 2023*
-{.alert .alert-warning}
 
 Le calcul de la **calcémie corrigée** (valeur de la calcémie totale si l'albuminémie était normale) est systématique pour corriger une fausse hypercalcémie liée à une hypoalbuminémie. Le calcul est inutile lorsque l'on dispose de la **calcémie ionisée** (non remboursée en ville).
 
@@ -84,13 +84,13 @@ Les principales étiologies de l'hypercalcémie comprennent:
     Diminution de la mobilité entraînant une libération accrue de calcium des os.
 5. Iatrogénie  
   Vitamine A, vitamine D, diurétiques thiazidiques, lithium, digitaliques.
-6. Post-rhabdomyolyse
+1. Post-rhabdomyolyse
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!WARNING]
 > << L'hypercalcémie sévère symptomatique est une urgence thérapeutique. >> -- *CUEN 2023*
-{.alert .alert-warning}
 
 L'hypercalcémie est le plus souvent asymptomatique lorsqu'elle est modérée.
 
@@ -171,8 +171,8 @@ Des examens supplémentaires d'imagerie (scintigraphie osseuse ou IRM), peuvent 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
+> [!WARNING]
 La prise en charge de l'hypercalcémie sévère (> 3 mmol/L) est une urgence vitale.
-{.alert .alert-warning}
 
 Le traitement de l'hypercalcémie est étiologique avec des mesures complémentaires possibles (hyperhydratation, diurétiques de l'anse, dénosumab voire biphosphonates IV, calcitonine).
 

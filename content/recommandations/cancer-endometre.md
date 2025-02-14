@@ -80,8 +80,8 @@ VPN
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!WARNING]
 > << Le cancer de l'endomètre est la première cause à évoquer devant des métrorragies post-ménopausiques >>. -- *HAS 2010*
-{.alert .alert-warning}
 
 ### Interrogatoire
 

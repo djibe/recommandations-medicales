@@ -92,8 +92,8 @@ VZV
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-<< les personnes immunodéprimées doivent être considérées comme non protégées, même en cas de sérologie précédemment positive et surveillées pendant les 28 jours qui suivent le contage >>. -- *PAP Pédiatrie*
-{.alert .alert-warning}
+> [!WARNING]
+> << les personnes immunodéprimées doivent être considérées comme non protégées, même en cas de sérologie précédemment positive et surveillées pendant les 28 jours qui suivent le contage >>. -- *PAP Pédiatrie*
 
 Toujours rechercher des complications de la varicelle: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans.
 {.alert .alert-info}
@@ -154,8 +154,8 @@ Vaccination recommandée en l'absence d'antécédent de varicelle (ou histoire d
 
 InfoVac-France conseille la vaccination varicelle pour tous à partir de 12 mois ([article](https://www.infovac.fr/vaccins/maladies-evitables/varicelle)).
 
-Vaccination varicelle contre-indiquée pendant la grossesse. Une grossesse doit être évitée dans le mois suivant la vaccination.
-{.alert .alert-warning}
+> [!WARNING]
+> La vaccination varicelle est contre-indiquée pendant la grossesse et une grossesse doit être évitée dans le mois suivant la vaccination.
 
 #### Spécialités de vaccins varicelle
 
@@ -184,8 +184,8 @@ Effets indésirables: fébricule et œdème au point d'injection, 5% ont exanth�
 {{% /collapse %}}
 {{%collapse "Traitement de la varicelle du sujet immunocompétent" %}}
 
-Contre-indication aux anti-inflammatoires (AINS, aspirine ou corticoïdes).
-{.alert .alert-warning}
+> [!WARNING]
+> Contre-indication aux anti-inflammatoires (AINS, aspirine ou corticoïdes).
 
 Guérison de la varicelle en **10 à 12 jours**.
 

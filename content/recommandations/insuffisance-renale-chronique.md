@@ -176,8 +176,8 @@ Le suivi par le néphrologue est recommandé en cas de doute sur la nature de la
 
 ### 2) Évaluer le stade de la maladie rénale chronique et l'albuminurie
 
-Confirmer un dosage anormal par un contrôle le matin à jeun.
-{.alert .alert-warning}
+> [!WARNING]
+> Confirmer une albuminurie anormale par un contrôle le matin à jeun.
 
 Stades de l'insuffisance rénale chronique selon le débit de filtration glomérulaire et de l'albuminurie.
 
@@ -202,8 +202,8 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 | A3    |    > 30 |  > 300 |  > 300 | Sévèrement augmentée            |
 {{< /table >}}
 
-Le terme de *microalbuminurie* n'est plus utilisé.
-{.alert .alert-warning}
+> [!WARNING]
+> Le terme de *microalbuminurie* n'est plus utilisé.
 
 **NB.** Faux positifs pour une albuminurie (ou protéinurie): [infection urinaire]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), fièvre, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), protéinurie orthostatique, sport intense dans les 24h, menstruations, AINS, alimentation riche en protéines.
 

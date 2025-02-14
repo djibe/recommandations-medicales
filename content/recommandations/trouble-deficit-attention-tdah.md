@@ -45,9 +45,9 @@ Trouble déficit de l'attention avec hyperactivité (ou sans hyperactivité -- T
     - conduites à risque: alcool et drogues, [infections sexuelles](/tags/ist/), violences, accidents, jeux, suicide
     - professionnelles et sociétales: chômage, arrêts maladie
 
+> [!WARNING]
 > << Comparés aux enfants nés en janvier, les natifs de février ont 7% de risque supplémentaire de se voir prescrire du méthylphénidate, ceux d'avril 9%, ceux de juillet 29%, ceux d'octobre 46% et ceux de décembre 55%. >> et << Les mêmes tendances ont été observées concernant les séances d'orthophonie >>.  
 -- *ANSM 2024*
-{.alert .alert-warning}
 
 ### Abréviations
 
@@ -259,8 +259,8 @@ Les **prises en charge non médicamenteuses** sont systématiques et le **suivi 
 - Associations de patients: [HyperSupers TDAH France](https://www.tdah-france.fr), [TDAH Pour une égalité des chances](https://www.tdahegalitedeschances.com) et [TDAH Partout Pareil](https://tdah-partout-pareil.info)
 - Demande d'ALD 31
 
+> [!WARNING]
 > Niveau de preuve insuffisant pour: régimes spécifiques, psychanalyse, neurofeedback, entraînement cognitif, pleine conscience, autres psychothérapies, kinésiologie, ostéopathie, acupuncture.
-{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Traitements médicamenteux du TDAH" %}}

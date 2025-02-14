@@ -88,8 +88,8 @@ Dépistage régulier des personnes de **plus de 50 ans avec facteur de risque de
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Une baisse d'acuité visuelle chez un patient avec des drusens connus (maculopathie liée à l'âge) est une [urgence ophtalmologique]({{< relref "urgences-ophtalmologiques.md" >}}) (sous 48 heures). -- *COUF*
-{.alert .alert-warning}
+> [!WARNING]
+> Une baisse d'acuité visuelle chez un patient avec des drusens connus (maculopathie liée à l'âge) est une [urgence ophtalmologique]({{< relref "urgences-ophtalmologiques.md" >}}) (sous 48 heures). -- *COUF*
 
 ### Interrogatoire
 
@@ -108,8 +108,8 @@ Une baisse d'acuité visuelle chez un patient avec des drusens connus (maculopat
   - Dyschromatopsie
 - Complications: handicap et dépendance, chutes ([ostéoporose]({{< relref "osteoporose.md" >}}))
 
-> La présence d'un de ces symptômes après 50 ans nécessite une examen ophtalmologique dans la semaine. -- *HAS*
-{.alert .alert-warning}
+> [!WARNING]
+> La présence d'un de ces symptômes après 50 ans nécessite une examen ophtalmologique dans la semaine. (*HAS*)
 
 ### Examen clinique
 

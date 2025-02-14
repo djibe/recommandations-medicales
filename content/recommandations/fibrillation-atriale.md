@@ -293,8 +293,8 @@ Réévaluer fréquemment le risque de saignement avec le {{< modal-btn modal-has
 - Thrombopénie < 50.000/mm³
 - [Anémie]({{< relref "anemie.md" >}}) non expliquée
 
-Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel sauf [post-SCA]({{< relref "syndrome-coronarien-aigu.md" >}})) et AINS.
-{.alert .alert-warning}
+> [!WARNING]
+> Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel sauf [post-SCA]({{< relref "syndrome-coronarien-aigu.md" >}})) et AINS.
 
 Adaptation à la fonction rénale selon {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} (*GIHP/SFAR/SFTH/SFMV 2024*).
 

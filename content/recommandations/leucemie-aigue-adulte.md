@@ -122,8 +122,8 @@ Appel immédiat de l'hématologue hospitalier dès la découverte de blastes ou 
 {{% /collapse %}}
 {{%collapse "Traitement de la leucémie aiguë" %}}
 
-Appel immédiat de l'hématologue hospitalier dès la découverte de blastes ou de pancytopénie. Le myélogramme sera réalisé en urgence à l'entrée dans le service.
-{.alert .alert-warning}
+> [!WARNING]
+> Appel immédiat de l'hématologue hospitalier dès la découverte de blastes ou de pancytopénie. Le myélogramme sera réalisé en urgence à l'entrée dans le service.
 
 Le traitement de la leucémie aiguë est urgent et décidé en réunion de concertation pluridisciplinaire (RCP).
 

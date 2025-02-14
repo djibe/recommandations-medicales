@@ -332,8 +332,8 @@ Palpation des aires ganglionnaires au moins annuelle.
 
 ### Vaccins vivants et VIH
 
-Contre-indication au BCG quel que soit le taux de lymphocytes CD4.
-{.alert .alert-warning}
+> [!WARNING]
+> Contre-indication à la vaccination BCG quel que soit le taux de lymphocytes CD4.
 
 Les vaccins vivants sont possibles lorsque les lymphocytes CD4 sont supérieurs à 200/mm³.
 

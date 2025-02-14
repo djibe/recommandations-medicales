@@ -81,8 +81,8 @@ UI
 {{% /collapse %}}
 {{%collapse "Probabilité clinique de TVP et score de Wells" %}}
 
-Rechercher des signes d'embolie pulmonaire devant toute suspicion de thrombose veineuse: dyspnée, malaise, tachycardie et douleur thoracique.
-{.alert .alert-warning}
+> [!WARNING]
+> Rechercher des signes d'embolie pulmonaire devant toute suspicion de thrombose veineuse: dyspnée, malaise, tachycardie et douleur thoracique.
 
 En l'absence de signes d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}), il est recommandé d'utiliser l'un des scores cliniques de thrombose veineuse ci-dessous plutôt qu'une appréciation clinique pour l'évaluation d'une suspicion de thrombose veineuse profonde.
 

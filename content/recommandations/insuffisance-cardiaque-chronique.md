@@ -326,8 +326,8 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
   - Régime sodé normal (sel < 10 g/j)
   - [Surveillance du poids x 1-2/semaine](https://www.heartfailurematters.org/wp-content/uploads/2021/02/Surveiller-vos-signes-vitaux.pdf), 3-4/semaine si {{< modal-btn score-nyha >}}NYHA 3-4{{< /modal-btn >}}
 
-Les anti-inflammatoires **AINS**, anti-COX2, le sotalol, le diltiazem, le vérapamil et la flécaïne sont contre-indiqués chez l'insuffisant cardiaque à fraction d'éjection diminuée.
-{.alert .alert-warning}
+> [!WARNING]
+> Les anti-inflammatoires **AINS**, anti-COX2, le sotalol, le diltiazem, le vérapamil et la flécaïne sont contre-indiqués chez l'insuffisant cardiaque à fraction d'éjection diminuée.
 
 ### Autres traitements de l'insuffisance cardiaque à fraction d'éjection diminuée (ICFEd)
 

@@ -78,8 +78,8 @@ Bilan complet aux Urgences:
 
 **NB.** Le scanner abdominal est peu sensible et l'IRM n'est pas supérieure à l'échographie abdominale.
 
-Le bilan doit éliminer un [syndrome coronarien aigu]({{< relref "syndrome-coronarien-aigu.md" >}}) et une [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}).
-{.alert .alert-warning}
+> [!WARNING]
+> Le bilan doit éliminer un [syndrome coronarien aigu]({{< relref "syndrome-coronarien-aigu.md" >}}) et une [pancréatite aiguë]({{< relref "pancreatite-aigue.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la cholécystite aiguë" %}}

@@ -78,8 +78,8 @@ SPILF
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!WARNING]
 > À partir de 2 ans et chez l'adulte: << une méningite est hautement probable chez un patient présentant de la fièvre, une raideur de nuque et, soit des céphalées, soit des troubles de la conscience >>, << une méningite est hautement probable chez un patient présentant de la fièvre et un purpura >>. -- *SPILF 2018*
-{.alert .alert-warning}
 
 > Évoquer une méningite en cas de fièvre avec signes de localisation ou convulsions. Y penser en cas de **céphalées fébriles**.
 
@@ -118,9 +118,9 @@ Appel du SAMU immédiat dès la suspicion de méningite.
 
 ### En attendant les secours
 
+> [!WARNING]
 > En cas de purpura fulminans, injection immédiate IV ou à défaut IM de ceftriaxone  
-50 mg/kg chez l'enfant (max 1g) et 1g chez l'adulte. -- *DGS 2018*
-{.alert .alert-warning}
+50 mg/kg chez l'enfant (max 1g) et 1g chez l'adulte (*DGS 2018*).
 
 Remplissage vasculaire si disponible et précautions gouttelettes par masque chirurgical.
 
@@ -135,7 +135,7 @@ Préparer les documents utiles au secours:
 - Examen clinique initial
 - Contacts des proches
 
-Transport immédiat aux *Urgences* (et les prévenir) si délai d'intervention du SAMU supérieur à 20 minutes. -- *DGS*
+Transport immédiat aux *Urgences* (et les prévenir) si délai d'intervention du SAMU supérieur à 20 minutes (*DGS*).
 {.alert .alert-warning}
 
 {{% /collapse %}}

@@ -106,8 +106,8 @@ IOF
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Avis rhumatologique systématique en cas de fracture de fragilité chez un homme avant 70 ans.
-{.alert .alert-warning}
+> [!WARNING]
+> Avis rhumatologique systématique en cas de fracture de fragilité chez un homme avant 70 ans.
 
 Rechercher les facteurs de risque de fracture chez l'homme +70 ans:
 

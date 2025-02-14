@@ -155,8 +155,8 @@ Complications de la chirurgie:
 - Arthroplastie: luxation (0-12 %)
 - Ostéosynthèse: échec (4,2-13+ %)
 
-La mise en traction du membre inférieur pré-opératoire n'est pas systématique.
-{.alert .alert-warning}
+> [!WARNING]
+> La mise en traction du membre inférieur pré-opératoire n'est pas systématique.
 
 #### Traitement des fractures cervicales
 

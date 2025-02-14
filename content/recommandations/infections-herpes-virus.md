@@ -208,8 +208,8 @@ Une culture ou une PCR négative n'infirme pas le diagnostic.
 {{% /collapse %}}
 {{%collapse "Traitement de l'herpès oro-facial" %}}
 
-Les corticoïdes sont toujours contre-indiqués en cas d'herpès.
-{.alert .alert-warning}
+> [!WARNING]
+> Les corticoïdes sont toujours contre-indiqués en cas d'herpès.
 
 Mesures d'hygiène systématiques pour la prise en charge de l'herpès: ne pas toucher les lésions, éviter les contacts buccaux, lavage des mains.
 {.alert .alert-info}
@@ -245,8 +245,8 @@ L'aciclovir en crème débuté tôt réduit la poussée de 2 jours (*Prescrire*)
 {{% /collapse %}}
 {{%collapse "Traitement de l'herpès génital, grossesse et herpès néonatal" %}}
 
+> [!WARNING]
 > Le traitement de l'herpès génital est urgent pendant la grossesse.
-{.alert .alert-warning}
 
 Prévention de l'herpès néonatal: préservatif (surtout au 3^e^ trimestre si H+ et F-).
 

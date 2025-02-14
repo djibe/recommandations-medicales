@@ -132,8 +132,8 @@ Prise en charge recommandée après une morsure de tique:
 
 En cas d'extraction incomplète: désinfection seule et surveillance régulière du site de la piqûre (*HCSP 2023*).
 
-Pas d'antibiothérapie ou d'examens systématiques après extraction de tique (à discuter en pédiatrie si piqûres multiples avec succion > 48-72 heures -- *GPIP 2023*).
-{.alert .alert-warning}
+> [!WARNING]
+> Pas d'antibiothérapie ou d'examens systématiques après extraction de tique (à discuter en pédiatrie si piqûres multiples avec succion > 48-72 heures. (*GPIP 2023*)
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

@@ -325,8 +325,8 @@ Recommandations de prise en charge d'un épisode de bronchiolite:
     On rappellera que le Collège 2021 dit: << Pas d'éviction >>
   - Nourrisson à haut risque de forme grave: ne pas fréquenter en période épidémique
 
-Ne pas utiliser: bronchodilatateurs (salbutamol Ventoline ou autre), corticoïdes, antibiotiques, anti-reflux, antitussifs et fluidifiants.
-{.alert .alert-warning}
+> [!WARNING]
+> Traitements à ne pas utiliser: bronchodilatateurs (salbutamol Ventoline ou autre), corticoïdes, antibiotiques, anti-reflux, antitussifs et fluidifiants.
 
 ### Traitement médical d'une bronchiolite aiguë
 

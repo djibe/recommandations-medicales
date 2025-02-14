@@ -114,8 +114,8 @@ La pénicilline V existe en sirops ou comprimé à 1 MUI.
   - Adulte: amoxicilline 500 mg x 2/j
   - Enfant: amoxicilline 10 mg/kg x 2/j
 
+> [!WARNING]
 > << (...) en cas de signes cliniques d'infection, même débutante, il est recommandé d'instaurer une antibiothérapie curative par céphalosporine de 3ème génération, type céfotaxime ou ceftriaxone, afin de limiter la survenue de sepsis graves >>. -- *SFAR*
-{.alert .alert-warning}
 
 ### Sujets à risque élevé de sepsis grave
 

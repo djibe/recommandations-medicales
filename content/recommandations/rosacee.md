@@ -123,8 +123,8 @@ Corticodépendance, érythème desquamatif, grandes télangiectasies des zones p
 
 **Objectifs de la prise en charge de la rosacée:** réduire les symptômes, préserver le capital esthétique et prévenir les complications.
 
+> [!WARNING]
 > Contre-indication formelle aux dermocorticoïdes dans la rosacée.
-{.alert .alert-warning}
 
 Le traitement de la rosacée est chronique car il est seulement suspensif.
 
@@ -209,8 +209,8 @@ Isotrétinoïne envisageable seulement par le dermatologue.
 Métronidazole gel 0,75% (Rozex®, gén) x 1-2/j
 {.alert .alert-info}
 
-Adresser au dermatologue en cas de résistance aux traitements de première intention.
-{.alert .alert-warning}
+> [!WARNING]
+> Adresser au dermatologue en cas de résistance aux traitements de première intention.
 
 ### Traitement du rhinophyma
 

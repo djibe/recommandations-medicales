@@ -175,8 +175,8 @@ Examen sensitivo-moteur exhaustif normal:
 - Force des masséter et temporaux
 - Aucun déficit neurologique autre
 
-Toute anomalie de l'examen neurologique impose une consultation de neurologie.
-{.alert .alert-warning}
+> [!WARNING]
+> Toute anomalie de l'examen neurologique impose une consultation de neurologie.
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -223,8 +223,8 @@ L'IRM cérébrale est réalisée avec des séquences d'acquisitions spécifiques
 
 Prise en charge par un traitement médicamenteux de fond de première intention: **carbamazépine ou oxcarbazépine**.
 
-Les antalgiques et anti-inflammatoires AINS ne sont pas efficaces sur la névralgie du trijumeau.
-{.alert .alert-warning}
+> [!WARNING]
+> Les antalgiques et anti-inflammatoires AINS ne sont pas efficaces sur la névralgie du trijumeau.
 
 Hospitaliser en cas de poussée douloureuse non contrôlée.
 

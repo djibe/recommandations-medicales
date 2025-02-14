@@ -142,8 +142,8 @@ La réaction d'hypersensibilité à la tuberculine apparaît chez les sujets qui
 2. La mesure est effectuée en palpation: c'est l'**induration** et non la rougeur qui est mesurée
 3. La mesure est en millimètres du plus grand axe
 
-L'IDR est en faveur d'une primo-infection tuberculeuse si l'induration est ≥ à 5 mm (15 mm chez le sujet vacciné par le BCG).
-{.alert .alert-warning}
+> [!WARNING]
+> L'IDR est en faveur d'une primo-infection tuberculeuse si l'induration est ≥ à 5 mm (15 mm chez le sujet vacciné par le BCG).
 
 L'IDR est en faveur de l'absence de primo-infection s'il est < 5 mm (10 mm en cas de vaccination BCG).
 

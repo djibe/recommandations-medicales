@@ -80,8 +80,8 @@ Autres causes de diarrhées aiguës du nourrisson et de l'enfant:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!WARNING]
 > << Le risque de déshydratation est majeur chez le nourrisson. >> -- *PAP Pédiatrie*
-{.alert .alert-warning}
 
 Signes et symptômes à rechercher chez l'enfant et le nourrisson présentant des diarrhées.
 

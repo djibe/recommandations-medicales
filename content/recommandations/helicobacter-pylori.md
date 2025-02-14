@@ -250,8 +250,8 @@ Indications à l'endoscopie en première intention:
 {{% /collapse %}}
 {{%collapse "Traitement guidé de Helicobacter pylori avec antibiogramme" %}}
 
-En cas de grossesse ou d'allaitement, il faut différer le traitement.
-{.alert .alert-warning}
+> [!WARNING]
+> En cas de grossesse ou d'allaitement, il faut différer le traitement d'HP.
 
 ### Traitement de première ligne de *H. pylori*
 
@@ -259,8 +259,8 @@ En cas de grossesse ou d'allaitement, il faut différer le traitement.
 
 Traitement de première intention d'infection à *Helicobacter pylori* avec fonction rénale normale.
 
-Tout traitement antibiotique doit être suivi d'un {{< modal-btn modal-test-respi >}}contrôle d'éradication{{< /modal-btn >}}.
-{.alert .alert-warning}
+> [!WARNING]
+> Tout traitement antibiotique doit être suivi d'un {{< modal-btn modal-test-respi >}}contrôle d'éradication{{< /modal-btn >}}.
 
 {{%info%}}
 En cas de sensibilité à la clarithromycine, trithérapie pendant 10 jours (14 pour le *GEFH*):
@@ -321,8 +321,8 @@ La réalisation d'une nouvelle endoscopie est préférable pour antibiogramme.
 {{% /collapse %}}
 {{%collapse "Traitement probabiliste d'infection à Helicobacter pylori" %}}
 
-En cas de grossesse ou d'allaitement, il faut différer le traitement.
-{.alert .alert-warning}
+> [!WARNING]
+> En cas de grossesse ou d'allaitement, il faut différer le traitement d'HP.
 
 ### Traitement probabiliste de première intention
 

@@ -63,8 +63,8 @@ Le syndrome coronarien chronique est la maladie cardiovasculaire chronique la pl
 
 {{< card-link-external title="Dépenses directes liées à la maladie coronaire chronique" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20cardioneurovasculaires&refine.patho_niv2=Maladie%20coronaire">}}
 
-> Le contrôle médical est insuffisant: seulement 20 % ont un LDL < 0,7 g/L et < ⅓ ont une tension < 130/80 mmHg. -- étude *CLARIFY*
-{.alert .alert-warning}
+> [!WARNING]
+> Le suivi médical est insuffisant: seulement 20 % ont un LDL < 0,7 g/L et < ⅓ ont une tension < 130/80 mmHg (étude *CLARIFY*).
 
 ### Abréviations
 

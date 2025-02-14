@@ -140,8 +140,8 @@ Autres diagnostics à rechercher devant un épisode de douleurs thoraciques:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-En cas d'appel d'un patient suspect de syndrome coronarien aigu, le rediriger vers le SAMU. << L'objectif est de "prescrire le 15" >>. -- *HAS*
-{.alert .alert-warning}
+> [!WARNING]
+> En cas d'appel d'un patient suspect de syndrome coronarien aigu, le rediriger vers le SAMU. << L'objectif est de "prescrire le 15" >>. -- *HAS*
 
 ### Interrogatoire
 
@@ -184,8 +184,8 @@ Refaire des tracés dans l'attente du SAMU.
 
 > << Si la suspicion clinique est forte (angor persistant), la présence d'un bloc de branche gauche (BBG), qu'il soit récent ou non, doit être considérée comme équivalent d'un sus-décalage du segment ST >>. << Le bloc de branche droit (BBD), marqueur de pronostic péjoratif lorsqu'il est associé à ischémie myocardique (parce que souvent en lien avec une atteinte du territoire antérieur), doit également être considéré comme équivalent d'un sus-décalage du segment ST. >> -- *CNEC*
 
+> [!WARNING]
 > << La stimulation ventriculaire (pacemaker) ne permet pas d'identifier un sus-décalage du segment ST. >> -- *CNEC*
-{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -209,8 +209,8 @@ Pour les SCANST, le dosage nécessite un résultat dans l'heure avec interpréta
 {{% /collapse %}}
 {{%collapse "Traitements post infarctus et post SCA" %}}
 
+> [!WARNING]
 > L'arrêt du tabac est la mesure la plus efficace avec une réduction de la mortalité de 36 % après un [infarctus du myocarde]({{< relref "syndrome-coronarien-aigu.md" >}}).
-{.alert .alert-warning}
 
 Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} après infarctus du myocarde ou autre syndrome coronarien aigu:
 

@@ -124,8 +124,8 @@ Autres causes de céphalées paroxystiques à étayer:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Moins de 25 % des patients sont diagnostiqués au début de la maladie.
-{.alert .alert-warning}
+> [!INFO]
+> Moins de 25 % des patients sont diagnostiqués au début de la maladie.
 
 ### Interrogatoire
 

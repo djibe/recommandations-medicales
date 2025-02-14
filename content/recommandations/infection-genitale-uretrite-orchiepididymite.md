@@ -194,8 +194,8 @@ Mesures associées:
 {{% /collapse %}}
 {{%collapse "Épididymite et orchi-épididymite" %}}
 
-Toujours évoquer une torsion du testicule chez le jeune (urgence chirurgicale).
-{.alert .alert-warning}
+> [!WARNING]
+> Toujours évoquer une torsion du testicule chez le jeune (urgence chirurgicale).
 
 Orchiépididymite
 : Inflammation (douleur, œdème et chaleur locale) souvent infectieuse de l'épididyme et du testicule. Elle complique une urétrite non traitée (symptomatique ou non). Dans la forme chronique, évoquer une [tuberculose]({{< relref "tuberculose.md" >}}) en cas d'origine de pays endémique.

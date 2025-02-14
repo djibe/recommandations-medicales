@@ -67,8 +67,8 @@ PNDS
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!WARNING]
 > << Toute scoliose est susceptible de s'aggraver >> (*HAS 2008*) et << Le dépistage doit être réalisé de façon systématique à l'adolescence >>. -- *CNPU*
-{.alert .alert-warning}
 
 La scoliose apparaît et évolue au cours de l'enfance (filles +++).
 
@@ -131,8 +131,8 @@ Profiter des [examens de suivi]({{< relref "examens-suivi-nourrisson.md" >}}) (3
 {{% /collapse %}}
 {{%collapse "Traitement de la scoliose" %}}
 
-Avis orthopédique adapté à l'âge pour une scoliose ≥ 10° avant 10 ans, 15° après 10 ans. -- *PNDS*
-{.alert .alert-warning}
+> [!WARNING]
+> Avis orthopédique adapté à l'âge pour une scoliose ≥ 10° avant 10 ans, 15° après 10 ans. -- *PNDS*
 
 Objectifs de la prise en charge de la scoliose: obtenir la déformation la plus limitée possible, prévenir le retentissement fonctionnel, assurer l'éducation thérapeutique pour le patient et l'entourage.
 

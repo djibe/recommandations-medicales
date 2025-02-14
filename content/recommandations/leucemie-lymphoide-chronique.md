@@ -62,8 +62,8 @@ LLC
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!WARNING]
 > << Toute hyperlymphocytose isolée de plus de 4 G/L, persistant depuis plus de 3 mois, chez un sujet adulte, justifie une exploration >>. -- *INCa 2023*
-{.alert .alert-warning}
 
 - La leucémie lymphoïde chronique (LLC) atteint le sujet âgé  
   72 ans d'âge médian au diagnostic, jamais l'enfant et exceptionnellement l'adulte jeune.

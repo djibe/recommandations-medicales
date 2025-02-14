@@ -168,7 +168,7 @@ Une prise en charge ambulatoire de diverticulite aiguë est possible uniquement 
 - Pas de suivi biologique systématique ni de scanner de contrôle en cas d'évolution favorable
 - Coloscopie si ≥ 2 crises (en l'absence de coloscopie dans les 3 ans)(*ESCP 2020*)
 
-Pas d'AINS, corticoïdes ou aspirine.
+Traitements à pas utiliser: AINS, corticoïdes et aspirine.
 {.alert .alert-warning}
 
 ### Antibiothérapie pour diverticulite sigmoïdienne

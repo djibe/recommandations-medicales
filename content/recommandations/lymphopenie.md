@@ -117,8 +117,8 @@ Les lymphopénies peuvent être classées selon leur mécanisme supposé:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Avis spécialisé chez l'enfant symptomatique présentant une lymphopénie ou lorsqu'il est asymptomatique avec persistance de la lymphopénie après 15 jours.
-{.alert .alert-warning}
+> [!WARNING]
+> Avis spécialisé chez l'enfant symptomatique présentant une lymphopénie ou lorsqu'il est asymptomatique avec persistance de la lymphopénie après 15 jours.
 
 En cas de **découverte fortuite** d'une lymphopénie, **recontrôler l'hémogramme si elle est comprise de 1200 à 1500/mm³** et réaliser d'emblée le bilan en dessous de 1200/mm³.
 

@@ -111,8 +111,8 @@ Autres indications à la chirurgie de la cataracte: obstruction du fond d'œil, 
 - Information du patient sur la cataracte: [Ameli](https://www.ameli.fr/assure/sante/themes/cataracte) et [Inserm](https://www.inserm.fr/dossier/cataracte/)
 - Arrêt du tabac
 
-Les principales complications après la chirurgie d'une cataracte sont: opacification capsulaire postérieure (laser), **endophtalmie** (surtout de J2 à J7 avec aspect trouble, hypopion et hyperhémie conjonctivale), décollement de la rétine, œdème maculaire cystoïde et kératopathie bulleuse.
-{.alert .alert-warning}
+> [!WARNING]
+> Les principales complications après la chirurgie d'une cataracte sont: opacification capsulaire postérieure (laser), **endophtalmie** (surtout de J2 à J7 avec aspect trouble, hypopion et hyperhémie conjonctivale), décollement de la rétine, œdème maculaire cystoïde et kératopathie bulleuse.
 
 {{% /collapse %}}
 {{%sources%}}

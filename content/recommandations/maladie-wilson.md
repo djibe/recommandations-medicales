@@ -111,8 +111,8 @@ Les symptômes surviennent le plus souvent chez le sujet jeune:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+> [!WARNING]
 > << Un bilan hépatique normal n'élimine pas une atteinte hépatique qui peut alors prendre la forme d'une stéatose ou d'une fibrose évoluant à bas bruit (intérêt du Fibroscan® systématique) >>. -- *PNDS 2022*
-{.alert .alert-warning}
 
 {{%info%}}
 
@@ -170,9 +170,9 @@ Le cuivre échangeable sérique est aussi un marqueur de sévérité. > 2,08 µm
 {{% /collapse %}}
 {{%collapse "Traitement de la maladie de Wilson" %}}
 
+> [!WARNING]
 > << Toute personne nouvellement diagnostiquée doit être traitée, même si elle est asymptomatique >> -- *PNDS 2022*.  
 Le traitement est poursuivi **à vie** et doit être débuté le plus précocement possible.
-{.alert .alert-warning}
 
 La prise en charge de l'hépatite auto-immune relève de l'hépatologue du centre de compétence des maladies héréditaires du cuivre: [annuaire des centres de compétence](https://www.crmrwilson.com/centres-de-competences/) de la filière des maladies rares *G2M* (Groupement des Maladies Héréditaires du Métabolisme).
 {.alert .alert-info}

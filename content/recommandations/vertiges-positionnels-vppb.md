@@ -111,8 +111,8 @@ Drapeaux rouges à rechercher devant chaque épisode de [vertiges](/tags/vertige
 
 Le caractère << bénin >> nécessite des critères précis et un examen rigoureux en période vertigineuse. Adresser à l'ORL en l'absence de formation spécifique ou pour un premier épisode.
 
+> [!WARNING]
 > << Un vertige positionnel doit être toujours très suspect d'une atteinte centrale durant l'enfance >>. -- *SFORL 2012*
-{.alert .alert-warning}
 
 ### Interrogatoire
 

@@ -77,8 +77,8 @@ TUO
 {{% /collapse %}}
 {{%collapse "Antalgie palier 2" %}}
 
+> [!WARNING]
 > << Les risques, notamment celui de développer un trouble de l'usage ou de surdose, sont communs à tous ces médicaments opioïdes. >> -- *HAS 2022*
-{.alert .alert-warning}
 
 Opioïdes dits faibles pour les douleurs modérées à sévères:
 
@@ -99,7 +99,7 @@ fibromyalgie et tramadol: seulement sur avis spécialisé
 {{% /collapse %}}
 {{%collapse "Antalgie palier 3: morphine, oxycodone ..." %}}
 
-Prescription des antalgiques de palier 3 sur ordonnance sécurisée [manuscrite](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046010123) uniquement et limitée à 28 jours.
+Prescription des antalgiques de palier 3 sur ordonnance sécurisée [manuscrite ou électronique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046010123) uniquement et limitée à 28 jours.
 {.alert .alert-warning}
 
 Opioïdes dits forts pour l'antalgie (douleurs nociceptives sévères ≥ 6/10 ou résistantes aux antalgiques inférieurs) ou la substitution aux opioïdes avec une efficacité similaire.

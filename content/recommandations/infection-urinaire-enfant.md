@@ -95,8 +95,8 @@ Prise en charge ambulatoire de la cystite aiguë (infection urinaire basse):
 {{% /collapse %}}
 {{%collapse "Pyélonéphrite aiguë de l'enfant" %}}
 
+> [!WARNING]
 > Toute fièvre inexpliquée avant 1 an doit faire rechercher une pyélonéphrite aiguë. *E. coli* pour 80 % (résistances ++) des infections urinaires de l'enfant. Autres germes: *Proteus mirabilis* (10 %), entérocoques et *Klebsiella*.
-{.alert .alert-warning}
 
 > Tous les épisodes d'infections urinaires fébriles devraient être pris en charge comme des pyélonéphrites. -- *GPIP 2023*
 

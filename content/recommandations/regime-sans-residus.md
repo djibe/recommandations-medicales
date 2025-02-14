@@ -46,8 +46,8 @@ SNFGE
 {{% /collapse %}}
 {{%collapse "Aliments autorisés pour le régime sans résidus" %}}
 
+> [!WARNING]
 << Tout aliment ou boisson ne figurant pas sur cette liste doit être considéré comme interdit >>. -- *SNFGE/CREGG 2017*
-{.alert .alert-warning}
 
 {{< btn-local-print >}}
 

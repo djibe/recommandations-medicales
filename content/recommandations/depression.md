@@ -323,8 +323,8 @@ Exemple de questions à poser pour évaluer l'intention suicidaire:
 
 > -- *HAS 2017*
 
-Le questionnement sur le suicide ne renforce pas le risque suicidaire.
-{.alert .alert-warning}
+> [!WARNING]
+> Le questionnement sur le suicide ne renforce pas le risque suicidaire.
 
 Numéro national de prévention du suicide (24/7 et section médecin): {{<phone>}}3114{{</phone>}}.
 

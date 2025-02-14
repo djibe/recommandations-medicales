@@ -246,7 +246,7 @@ Une calcémie est recommandée avant toute chirurgie thyroïdienne.
 {{% /collapse %}}
 {{%collapse "Traitement des nodules thyroïdiens" %}}
 
-Ne sont pas recommandés: supplémentation en iode, traitement par lévothyroxine d'une euthyroïdie.
+Traitements non recommandés: supplémentation en iode, traitement par lévothyroxine d'une euthyroïdie.
 {.alert .alert-warning}
 
 La prise en charge pendant la grossesse et chez l'enfant relèvent d'avis spécialisés.

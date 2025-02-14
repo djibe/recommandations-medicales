@@ -83,8 +83,8 @@ SPILF
 
 En cas d'**otite congestive** (tympan érythémateux sans signe d'épanchement), réévaluation en cas de persistance à J3.
 
-Avis ORL si les tympans sont mal ou non vus avant 2 ans.
-{.alert .alert-warning}
+> [!WARNING]
+> Avis ORL si les tympans sont mal ou non vus avant 2 ans.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -121,8 +121,8 @@ Dans tous les cas, DRP, traitement antalgique voire antipyrétique et nouvelle c
 
 > << des affections mineures, comme une rhinopharyngite, une otite, une laryngite, une bronchite ou une diarrhée modérée, ne sont pas des contre-indications à la vaccination. >> -- *[Infovac-France](https://www.infovac.fr/pratique-vaccinale/contre-indications-vaccinales)*
 
-Aucune indication aux AINS, corticoïdes ou antibiotiques auriculaires.
-{.alert .alert-warning}
+> [!WARNING]
+> Aucune indication aux AINS, corticoïdes ou antibiotiques auriculaires.
 
 ### Antibiothérapie probabiliste de l'otite moyenne aiguë
 
@@ -158,8 +158,8 @@ Si indication, antibiothérapie pendant **5 jours**:
 
 ### En cas d'échec de l'antibiothérapie à 48 heures
 
-Avis spécialisé ORL en cas d'échec à 48-72 heures chez l'adulte. -- *HAS/SPILF 2024*
-{.alert .alert-warning}
+> [!WARNING]
+> Avis spécialisé ORL en cas d'échec à 48-72 heures chez l'adulte (*HAS/SPILF 2024*).
 
 Échec de l'antibiothérapie de l'otite moyenne aiguë (*GPIP 2023*)
 : - Persistance ou aggravation pendant l'antibiothérapie

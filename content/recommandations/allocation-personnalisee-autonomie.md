@@ -72,7 +72,7 @@ Le dossier complet est adressé au *CCAS* ou au *conseil départemental* du lieu
 
 En parallèle: prendre contact avec des services agréés d'aide à domicile, ou des salariés.
 
-Grande méfiance, 75% des opérateurs ont été épinglés par la répression des fraudes (*DGCCRF*) en 2016.
+Grande méfiance, 75% des prestataires de services ont été épinglés par la répression des fraudes (*DGCCRF*) en 2016.
 {.alert .alert-warning}
 
 Établir le plan d'aide, le coût et le volume horaire de la prestation.  

@@ -95,8 +95,8 @@ La prise en charge de la maladie de Dupuytren doit être la plus **précoce** po
 
 Autres traitements non disponibles en France pour la maladie de Dupuytren: injections de collagénase *Clostridium histolyticum* (CCH, [Xiapex®](https://www.has-sante.fr/jcms/c_1238457/en/xiapex-collagenase-de-clostridium-histolyticum)) et radiothérapie (*[NICE 2016](https://www.nice.org.uk/guidance/ipg573/chapter/1-Recommendations)*).
 
-Traitements inefficaces sur la maladie de Dupuytren: vitamine E, ultrasons, agents cytolytiques.
-{.alert .alert-warning}
+> [!WARNING]
+> Traitements inefficaces sur la maladie de Dupuytren: vitamine E, ultrasons, agents cytolytiques.
 
 {{% /collapse %}}
 {{%sources%}}

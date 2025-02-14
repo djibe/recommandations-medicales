@@ -143,8 +143,8 @@ La prise en charge de la thrombose veineuse superficielle (TVS) dépend de la ta
 
 **NB.** Absence de surveillance plaquettaire sous HBPM (*Quiéré et al*). Les **AOD** ne sont pas suffisement étudiés pour les TVS.
 
-En cas de premier épisode de TVS non provoquée (voir *Clinique*), << une rechercher de cancer peut être utile >>.
-{.alert .alert-warning}
+> [!WARNING]
+> En cas de premier épisode de TVS non provoquée (voir *Clinique*), << une rechercher de cancer peut être utile >>.
 
 ### Anticoagulation en récidive de thrombose veinseuse superficielle
 

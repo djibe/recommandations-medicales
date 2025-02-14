@@ -70,8 +70,8 @@ Populations à risque élevé de carie:
 {{% /collapse %}}
 {{%collapse "Soins dentaires recommandés" %}}
 
+> [!WARNING]
 > << la collation matinale doit être supprimée en collectivité >>. -- *HAS 2010*
-{.alert .alert-warning}
 
 [mabouchemasante](https://www.mabouchemasante.fr) et [Informations Ameli sur le brossage des dents](https://www.ameli.fr/hauts-de-seine/assure/sante/bons-gestes/quotidien/brosser-dents)
 

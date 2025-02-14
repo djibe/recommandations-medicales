@@ -215,7 +215,7 @@ Mesures générales de prise en charge de l'arthrose du genou:
 - Correction d'un **surpoids**
 - Pourraient être proposés: acupuncture, TENS, cure thermale
 
-**Ne pas utiliser:** bandes adhésives de contention ou orthèses souples, électrothérapie, thermothérapie, ondes de choc, laser, thérapies électromagnétiques.
+Traitements à ne pas utiliser: bandes adhésives de contention ou orthèses souples, électrothérapie, thermothérapie, ondes de choc, laser, thérapies électromagnétiques.
 {.alert .alert-warning}
 
 #### Infiltrations de corticoïdes

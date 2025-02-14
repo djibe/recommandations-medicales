@@ -108,8 +108,8 @@ La prise en charge d'une inégalité des membres inférieurs (ILMI) dépend de s
 
 ### Qui adresser à l'orthopédiste ?
 
-En cas d'inégalité **> 1 cm pendant la croissance** ou **2 cm chez l'adolescent en fin de croissance**, adresser à l'**orthopédiste pédiatrique** pour envisager un traitement.
-{.alert .alert-warning}
+> [!WARNING]
+> En cas d'inégalité de longueur **> 1 cm pendant la croissance** ou **2 cm chez l'adolescent en fin de croissance**, adresser à l'**orthopédiste pédiatrique** pour envisager un traitement.
 
 En l'absence d'indication au suivi orthopédique, poursuivre la **surveillance** de la croissance, des symptômes et des déformations.
 

@@ -112,8 +112,8 @@ Causes de dysphonie:
 > [!INFO]
 > << La plupart des dysphonies surviennent au décours d'une infection des voies aériennes supérieures, dont la résolution a lieu en 7 à 10 jours quel que soit le traitement. >> -- *AAO-HNS 2018*
 
-Toute dysphonie traînante doit faire évoquer une tumeur des cordes vocales ou localisée sur le trajet du nerf vague.
-{.alert .alert-warning}
+> [!WARNING]
+> Toute dysphonie traînante doit faire évoquer une tumeur des cordes vocales ou localisée sur le trajet du nerf vague.
 
 ### Interrogatoire
 

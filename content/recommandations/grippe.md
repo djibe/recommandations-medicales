@@ -89,8 +89,8 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 
 > -- *Calendrier vaccinal*
 
+> [!WARNING]
 > << Les femmes enceintes constituent une population à risque d'infection grippale d'une gravité particulière avec des complications à court terme (mort fœtale et mort maternelle, hypoxémie réfractaire, complications des soins de réanimation) et à long terme sous forme d'insuffisance respiratoire. >> -- *CNGOF 2013*
-{.alert .alert-warning}
 
 ### Recommandations pour les professionnels
 
@@ -163,8 +163,8 @@ La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordo
 
 ### Pour en savoir plus: Bénéfices de la vaccination antigrippale
 
+> [!WARNING]
 > Le vaccin anti-grippal ne donne pas de syndrome grippal (ce n'est pas un vaccin vivant).
-{.alert .alert-warning}
 
 Chez l'adulte sain, la vaccination antigrippale réduit de 29% (65% chez +60 ans) le nombre de cas de syndromes grippaux et de 65% le nombre de cas de grippes.
 

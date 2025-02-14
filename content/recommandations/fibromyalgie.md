@@ -254,8 +254,8 @@ Avis d'une *structure douleur chronique* (SDC) en cas d'échec de la prise en ch
 
 La stimulation magnétique transcrânienne répétitive (STMr) bénéficie d'une recommandation faible de l'Académie européenne de neurologie.
 
-Ne pas utiliser d'opioïdes (paliers 2 ou 3) pour la fibromyalgie et autres douleurs chroniques non cancéreuses. -- *HAS*
-{.alert .alert-warning}
+> [!WARNING]
+> Ne pas utiliser d'opioïdes (paliers 2 ou 3) pour la fibromyalgie et autres douleurs chroniques non cancéreuses. -- *HAS*
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la fibromyalgie" "show" %}}

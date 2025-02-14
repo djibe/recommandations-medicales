@@ -155,12 +155,12 @@ Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-60 à 80 % des patients sont asymptomatiques au diagnostic d'artériopathie des membres inférieurs.
-{.alert .alert-warning}
-
-Signes et symptômes de l'artériopathie oblitérante des membres inférieurs:
+> [!WARNING]
+> 60 à 80 % des patients sont asymptomatiques au diagnostic d'artériopathie des membres inférieurs.
 
 ### Interrogatoire
+
+Signes et symptômes de l'artériopathie oblitérante des membres inférieurs:
 
 - Antécédents  
   Ischémie aiguë, maladie cardiovasculaire.

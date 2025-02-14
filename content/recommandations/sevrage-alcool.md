@@ -414,8 +414,8 @@ Le sevrage de l'alcool peut le plus souvent être un sevrage ambulatoire mais n�
 
 ### Indications au sevrage hospitalier en alcool
 
-Seulement 3 indications à l'adressage pour sevrage alcoolique aux *Urgences*: complications somatiques sévères, crises suicidaires, agitation avec agressivité.
-{.alert .alert-warning}
+> [!WARNING]
+> Seulement 3 indications à l'adressage pour sevrage alcoolique aux *Urgences*: complications somatiques sévères, crises suicidaires et agitation avec agressivité.
 
 Indications à l'hospitalisation pour une abstinence:
 

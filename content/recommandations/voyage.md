@@ -134,9 +134,9 @@ Le vaccin fièvre jaune est possible quel que soit le terme ([CRAT](https://www.
 
 ### Risque transfusionnel
 
-<< Refuser tout geste dont on n'est pas certain qu'il sera effectué avec du matériel neuf à usage unique >>  
+> [!WARNING]
+> << Refuser tout geste dont on n'est pas certain qu'il sera effectué avec du matériel neuf à usage unique >>  
 << La pratique de tatouages et de piercing (dont le perçage des oreilles) présente un risque majeur de transmission d'agents pathogènes par le sang, notamment les virus des hépatites B et C et le VIH >>. -- *HCSP*
-{.alert .alert-warning}
 
 Les tatouages éphémères noirs exposent au risque de dermite de contact.
 
@@ -157,8 +157,8 @@ Pour plus d'information, voir *Derstine et al* dans les *Sources*.
 
 ### Protection contre les animaux
 
-Toute [morsure]({{< relref "morsure.md" >}}) ou piqûre avec symptômes locaux marqués ou généraux nécessite une consultation.
-{.alert .alert-warning}
+> [!WARNING]
+> Toute [morsure]({{< relref "morsure.md" >}}) ou piqûre avec symptômes locaux marqués ou généraux nécessite une consultation.
 
 Les -15 ans représentent 40% des morsures à risque de rage.
 
@@ -199,14 +199,14 @@ Lorsque le risque disparaît: rincer à l'eau et au savon
 
 {{< traitements/ppav >}}
 
-Méthodes non recommandées: bracelets anti-insectes, huiles essentielles (d'Eucalyptus ou autre), ultrasons, vitamine B1, homéopathie, rubans/autocollants sans insecticide.
-{.alert .alert-warning}
+> [!WARNING]
+> Méthodes anti-moustiques non recommandées: bracelets anti-insectes, huiles essentielles (d'Eucalyptus ou autre), ultrasons, vitamine B1, homéopathie, rubans/autocollants sans insecticide.
 
 {{% /collapse %}}
 {{%collapse "Diarrhées du voyageur" %}}
 
-En cas de diarrhée fébrile: évoquer un [accès palustre]({{< relref "paludisme.md" >}}) (enfant ++) et une fièvre typhoïde.
-{.alert .alert-warning}
+> [!WARNING]
+> En cas de diarrhée fébrile: évoquer un [accès palustre]({{< relref "paludisme.md" >}}) (enfant ++) et une fièvre typhoïde.
 
 Diarrhée du voyageur
 : Émission d'au moins 3 selles non formées en 24 heures ou émission de selles plus fréquentes que d'habitude (nourrissons) durant ou au retour d'un voyage.

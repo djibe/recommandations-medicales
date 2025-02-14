@@ -59,8 +59,8 @@ todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaq
 {{% /collapse %}}
 {{%collapse "Dépistage des violences faites aux femmes" %}}
 
+> [!WARNING]
 > << Questionnez toutes vos patientes lors de l'anamnèse comme vous le faites pour les antécédents médicaux ou la consommation de tabac >> (*HAS 2020*), << 9 femmes sur 10 estiment même qu'aborder ce sujet en consultation est important, légitime et rassurant >>. -- *HAS 2023*
-{.alert .alert-warning}
 
 ### Dépister des violences faites aux femmes à l'interrogatoire
 

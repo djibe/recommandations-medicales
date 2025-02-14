@@ -302,8 +302,8 @@ Surveillance au long cours une fois l'euthyroïdie obtenue: contrôle clinique +
 
 **Effets indésirables en cas de surdosage:** tachycardie/palpitations, agitation, insomnie. Surveiller la survenue d'**attaques de paniques** même en concentrations plasmatiques thérapeutiques.
 
+> [!WARNING]
 > Pas de surveillance de la T4L, des anticorps ou de l'iodémie/iodurie.
-{.alert .alert-warning}
 
 ### Avis endocrinologique
 

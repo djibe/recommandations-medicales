@@ -505,8 +505,8 @@ Moins efficace sur *C. albicans*.
 
 ### Traitement antifongique général
 
-Tous les traitements antifongiques par voie générale exposent à des toxidermies graves et sont contre-indiqués pendant la grossesse.
-{.alert .alert-warning}
+> [!WARNING]
+> Tous les traitements antifongiques par voie générale exposent à des toxidermies graves et sont contre-indiqués pendant la grossesse.
 
 #### Azolé Fluconazole
 
@@ -540,8 +540,8 @@ Effet topique digestif non absorbé et donc interactions limitées ([vérifier l
 
 #### Pour en savoir plus: Itraconazole
 
-La prescription initiale d'itraconazole est hospitalière.
-{.alert .alert-warning}
+> [!WARNING]
+> La prescription initiale d'itraconazole est hospitalière.
 
 [Fiche SFD info patient terbinafine et itraconazole (SFD)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Bordereau-3_Prise-des-medicaments.pdf)
 

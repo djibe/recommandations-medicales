@@ -180,8 +180,8 @@ Ex: dépilation des sourcils, lésions d'aspect séborrhéiques des sillons naso
 - Uvéite
 - Glomérulonéphrite
 
-Les atteintes ophtalmologiques et neurologiques de la syphilis peuvent engager le pronostic fonctionnel et doivent être traquées.
-{.alert .alert-warning}
+> [!WARNING]
+> Les atteintes ophtalmologiques et neurologiques de la syphilis peuvent engager le pronostic fonctionnel et doivent être traquées.
 
 **NB.** Ne pas confondre la *réaction d'Herxeimer* avec une allergie aux bêtalactamines.
 
@@ -208,8 +208,8 @@ Recommandations pour la prise en charge diagnostique devant une suspicion de syp
 
 ### Sérologie syphilitique
 
-Une sérologie syphilitique négative n'élimine pas une syphilis primaire.
-{.alert .alert-warning}
+> [!WARNING]
+> Une sérologie syphilitique négative n'élimine pas une syphilis primaire.
 
 Les sérologies se positivent quelques jours après le début du chancre et atteignent un titre maximum vers 6 mois, correspondant à la phase secondaire si elle est présente.
 

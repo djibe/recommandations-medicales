@@ -89,8 +89,8 @@ Principaux diagnostics différentiels du canal lombaire étroit:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le **syndrome de la queue de cheval** entraîne un déficit moteur, sensitif ou urinaire brutal ou rapidement progressif et est une urgence chirurgicale critique.
-{.alert .alert-warning}
+> [!WARNING]
+> Le **syndrome de la queue de cheval** entraîne un déficit moteur, sensitif ou urinaire brutal ou rapidement progressif et est une urgence chirurgicale critique.
 
 ### Interrogatoire
 

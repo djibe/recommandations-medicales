@@ -241,8 +241,8 @@ Ces éléments reprennent les critères diagnostiques *Queen Square Brain Bank* 
 
 #### Le syndrome malin des neuroleptiques
 
-Le syndrome malin des neuroleptiques doit être suspecté chez tout patient parkinsonien **fébrile avec aggravation des symptômes**. Il peut être déclenché par l'arrêt brutal des traitements.
-{.alert .alert-warning}
+> [!WARNING]
+> Le syndrome malin des neuroleptiques doit être suspecté chez tout patient parkinsonien **fébrile avec aggravation des symptômes**. Il peut être déclenché par l'arrêt brutal des traitements.
 
 Le syndrome malin des neuroleptiques provoque: troubles de la conscience, rigidité musculaire généralisée, hyperthermie, dysautonomie.
 

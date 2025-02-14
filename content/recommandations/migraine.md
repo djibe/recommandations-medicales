@@ -244,8 +244,8 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Devant une céphalée aiguë sévère, s'installant en < 1 minute et durant > 1 heure et jugée intense, réaliser une imagerie cérébrale en urgence.
-{.alert .alert-warning}
+> [!WARNING]
+> Devant une céphalée aiguë sévère, s'installant en moins d'une minute et durant plus d'une heure et jugée intense, réaliser une imagerie cérébrale en urgence.
 
 ### IRM cérébrale
 
@@ -277,8 +277,8 @@ Selon *ESsCD 2019*: IgA anti-transglutaminase et IgA totales devant migraine ou 
 {{% /collapse %}}
 {{%collapse "Traitement de la crise migraineuse et mesures générales" %}}
 
-Avis neurologique si aura atypique ou sévère, migraine sévère, migraine résistante/réfractaire (en centre spécialisé).
-{.alert .alert-warning}
+> [!WARNING]
+> Avis neurologique en cas de: aura atypique ou sévère, migraine sévère, migraine résistante/réfractaire (en centre spécialisé).
 
 **Objectifs:** Absence de douleurs à 2 heures du traitement de crise (ou réduction satisfaisante) prolongée pendant 24 heures sans effets indésirables (ou minimes). Les symptômes associés (digestifs, phonophotophobie) et la capacité à reprendre les activités doit aussi être évaluée. En cas d'aura, celle-ci devrait être atténuée.  
 Ces objectifs doivent être expliqués au patient.
@@ -299,8 +299,8 @@ Ne pas culpabiliser l'abus médicamenteux en migraine chronique (effet délétè
 - Stress, anxiété, retentissement  
   Relaxation, biofeedback, TCC, thérapie de pleine conscience.
 
-Aura = contre-indication aux contraceptions estroprogestatives.
-{.alert .alert-warning}
+> [!WARNING]
+> Aura = contre-indication aux contraceptions estroprogestatives.
 
 ### Traitement de la crise migraineuse
 
@@ -506,8 +506,8 @@ En cas de traitement de crise inefficace:
 
 ### Migraine et contraception orale
 
-Contre-indications formelles à la contraception œstroprogestative: migraine avec aura, de novo ou aggravation sous œstroprogestatifs. -- *CNGOF 2018*
-{.alert .alert-warning}
+> [!WARNING]
+> Contre-indications formelles à la contraception œstroprogestative: migraine avec aura, de novo ou aggravation sous œstroprogestatifs (*CNGOF 2018*).
 
 2 questions: Cette contraception risque-t-elle d'aggraver la migraine et expose-t-elle à un risque vasculaire particulier ?
 

@@ -220,9 +220,9 @@ Consultation d'andrologie en cas d'anomalie du spermogramme.
 {{% /collapse %}}
 {{%collapse "Traitement de l'infertilité" %}}
 
+> [!WARNING]
 > << Il est donc recommandé de ne pas proposer de prise en charge médicale d'infécondité à une patiente au-delà de 43 ans >>. -- *CNGOF 2010*
 > << Il est recommandé de discuter au cas par cas la prise en charge de l'homme infécond à partir de l'âge de 60 ans >>. -- *CNGOF 2010*
-{.alert .alert-warning}
 
 Informer sur la chute de la fertilité liée à l'âge.
 

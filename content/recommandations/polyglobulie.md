@@ -103,8 +103,8 @@ L'examen recherche des signes en faveur d'une polyglobulie primitive (maladie de
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Une hématocrite > 60 % avec signes d'hyperviscosité (thrombose, céphalées, vertiges, troubles visuels) est une urgence médicale.
-{.alert .alert-warning}
+> [!WARNING]
+> Une hématocrite > 60 % avec signes d'hyperviscosité (thrombose, céphalées, vertiges, troubles visuels) est une urgence médicale.
 
 Recontrôler l'hémogramme à distance pour confirmer la persistance de l'élévation de l'hématocrite.
 

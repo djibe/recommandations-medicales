@@ -121,8 +121,8 @@ Critères permettant de ne pas prolonger les examens:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-La découverte d'une infection grave chez le neutropénique est une urgence médicale.
-{.alert .alert-warning}
+> [!WARNING]
+> La découverte d'une infection grave chez le neutropénique est une urgence médicale.
 
 L'examen du sujet neutropénique recherche des signes d'orientation étiologique, de gravité et de complications infectieuses.
 
@@ -241,8 +241,8 @@ La prise en charge de la neutropénie fébrile (NF) > 38,5°C sans chimiothérap
 - Examen clinique étendu à la recherche de foyer infectieux
 - En l'absence d'infection ou de trouble hémodynamique: NFSP, CRP (ou PCT) en urgence
 
-Une infection cutanée peut être grave en l'absence de pus.
-{.alert .alert-warning}
+> [!WARNING]
+> Une infection cutanée peut être grave en l'absence de pus.
 
 ### Critères d'hospitalisation pour neutropénie fébrile
 

@@ -84,8 +84,8 @@ Autres diagnostics à étayer devant une démence:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!WARNING]
 > << Il est recommandé que le diagnostic de la maladie d'Alzheimer soit posé dès les premiers symptômes >>. -- *HAS 2011*
-{.alert .alert-warning}
 
 ### Interrogatoire
 
@@ -197,7 +197,7 @@ Imagerie systématique par IRM cérébrale pour le bilan de démence.
 - Information: maisons pour l'autonomie et l'intégration des malades Alzheimer (MAIA), structures de répit
 - Association de patients: [France Alzheimer](https://guide.francealzheimer.org)
 
-Ne pas proposer: mélatonine, acupuncture (*NICE*), Ginkgo biloba (*Prescrire*), vitamine E, plantes.
+Traitements à ne pas proposer: mélatonine, acupuncture (*NICE*), Ginkgo biloba (*Prescrire*), vitamine E, plantes.
 {.alert .alert-warning}
 
 > Concernant les anciens traitements médicamenteux (donépézil, galantamine, rivastigmine, mémantine ...): << la HAS a considéré que ces médicaments n'avaient plus de place dans la stratégie thérapeutique du traitement symptomatique de la maladie d'Alzheimer. >> -- *HAS 2019* (le *Lancet 2024* est en désaccord, comme *Cochrane 2024* pour la galantamine.)

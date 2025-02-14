@@ -192,8 +192,8 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 
 
 **NB. La biopsie du grêle est décommandée chez l'enfant (anesthésie générale nécessaire) par mauvais rapport bénéfice/risque.**
 
-Dépister la maladie cœliaque tous les proches au 1^er^ degré.
-{.alert .alert-warning}
+> [!WARNING]
+> Dépister la maladie cœliaque chez tous les proches au 1^er^ degré.
 
 [SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/information_patient_gastroscopie_diagnostique_sfed-snfge.pdf)
 
@@ -254,8 +254,8 @@ Suivi de la maladie cœliaque par les **gastro-entérologue** et **diététicien
 
 **Ostéodensitométrie** au diagnostic puis tous les 2-5 ans selon la densité osseuse (*ESsCD 2019*).
 
-Avis endocrinologique chez l'enfant en l'absence de rattrapage de la taille à 12 mois. (*ESPGHAN 2022*)
-{.alert .alert-warning}
+> [!WARNING]
+> Avis endocrinologique chez l'enfant en l'absence de rattrapage de la taille sous 12 mois. (*ESPGHAN 2022*)
 
 {{% /collapse%}}
 {{%collapse "Information du patient" %}}

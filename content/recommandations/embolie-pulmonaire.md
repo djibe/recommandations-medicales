@@ -130,8 +130,8 @@ La réponse aux 8 questions suivantes doit être négative pour infirmer une *su
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Toute suspicion d'embolie pulmonaire doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC).
-{.alert .alert-warning}
+> [!WARNING]
+> Toute suspicion d'embolie pulmonaire doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC).
 
 {{%info%}}
 Si réception de D-dimères pour suspicion d'EP au cabinet:
@@ -161,8 +161,8 @@ Indications à l'angioscanner:
 {{% /collapse %}}
 {{%collapse "Traitement de l'embolie pulmonaire" %}}
 
-Toute suspicion d'embolie pulmonaire doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC).
-{.alert .alert-warning}
+> [!WARNING]
+> Toute suspicion d'embolie pulmonaire doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC).
 
 ### Prise en charge ambulatoire de l'embolie pulmonaire
 

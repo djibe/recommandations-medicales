@@ -49,8 +49,8 @@ Il n'est donné que pour les mélanomes envahissant le derme.
 Éphélides
 : Communément appelées *tâches de rousseur*.
 
+> [!WARNING]
 > << Une peau bronzée est un signe de dommages causés par le soleil et il n'existe pas de "bronzage sain" >>. -- *HCSP 2023*
-{.alert .alert-warning}
 
 ### Types histologiques de mélanome
 
@@ -88,8 +88,8 @@ Plusieurs facteurs sont utilisés: indice de Breslow, de Clark, ulcération, ind
 {{% /collapse %}}
 {{%collapse "Facteurs de risques de mélanome" %}}
 
-Pour toutes les personnes à risque: auto-examen cutané tous les 3 mois et consultation annuelle chez le dermatologue.
-{.alert .alert-warning}
+> [!WARNING]
+> Pour toutes les personnes à risque: auto-examen cutané tous les 3 mois et consultation annuelle chez le dermatologue.
 
 ### Personnes à risque de mélanome malin
 
@@ -219,8 +219,8 @@ Les LDH sont un facteur pronostic en cas de métastases. Aucun dosage de marqueu
 {{% /collapse %}}
 {{%collapse "Prévention du mélanome" %}}
 
+> [!WARNING]
 > << il n'existe pas de bronzage sain : le bronzage constitue déjà une agression de la peau >>. -- *INCa 2024*
-{.alert .alert-warning}
 
 Mesures de prévention du mélanome pour la population générale:
 

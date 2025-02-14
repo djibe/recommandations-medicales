@@ -115,8 +115,8 @@ TR
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Avant 40 ans, la prise en charge est strictement spécialisée (endocrinologue, urologue).
-{.alert .alert-warning}
+> [!WARNING]
+> Avant 40 ans, la prise en charge de l'andropause est strictement spécialisée (endocrinologue, urologue).
 
 L'andropause est un diagnostic clinico-biologique et l'installation des symptômes est lente.
 

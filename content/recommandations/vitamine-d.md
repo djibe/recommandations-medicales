@@ -148,8 +148,8 @@ S'assurer également d'[apports calciques suffisants]({{< relref "apports-calciu
 
 > Apports quotidiens préférés chez l'enfant et l'adolescent: vitamine D2 (Stérogyl® 400 UI/gte) ou D3 (ZymaD® 300 UI/gte ou Adrigyl® 333 UI/gte) quotidienne. En cas de mauvaise observance, vitamine D3 en ampoule (*Bacchetta et al 2025*).
 
-Ne pas utiliser d'autres formes de supplémentations.
-{.alert .alert-warning}
+> [!WARNING]
+> Ne pas utiliser d'autres formes de supplémentations de vitamine D.
 
 {{% /collapse %}}
 {{%collapse "Quand doser la vitamine D ?" %}}

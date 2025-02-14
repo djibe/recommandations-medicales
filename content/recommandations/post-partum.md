@@ -88,8 +88,8 @@ HBPM dose préventive pendant 7 à 14 jours (6 semaines si facteurs multiples):
   
 Une Hospitalisation À Domicile (HAD) est possible pour des soins considérables après césarienne.
 
-Une suspicion d'embolie pulmonaire doit être explorée aux *Urgences* (voire SAMU).
-{.alert .alert-warning}
+> [!WARNING]
+> Une suspicion d'embolie pulmonaire doit être explorée aux *Urgences* (voire SAMU).
 
 {{% /collapse %}}
 {{%collapse "Contraception du post-partum" %}}
