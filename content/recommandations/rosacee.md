@@ -18,7 +18,7 @@ icd10 = ["L71", "L71.9"]
 image = true
 imageSrc = "Rosacée papulopustuleuse avec érythème. The Thinking Doll / Foter"
 flowchart = true
-todo = "rankok, interrogatoire"
+todo = "rankok, EADV pas propra mais carvédilol, interrogatoire"
 +++
 
 {{%article-summary%}}
@@ -145,7 +145,7 @@ Selon les *Annales de Dermato*, intérêt de rechercher systématiquement:
 
 ### Traitement de la rosacée érythémato-télangiectasique
 
-- Essai possible: métronidazole 0,75% gel (Rozex®, gén) ou acide azélaïque 15% gel (Finacéa®) - *EADV*
+- Essai possible: métronidazole 0,75 % gel (Rozex®, gén) ou acide azélaïque 15 % gel (Finacéa®) (*EADV*)
 - Flush invalidants  
   Propranolol 30-120 mg/j (*[Logger 2020](https://doi.org/10.1016/j.jaad.2020.04.129)*)
 - Érythème facial

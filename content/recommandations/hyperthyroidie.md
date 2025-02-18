@@ -547,6 +547,8 @@ style haute stroke:#4150f5, stroke-width:1px
 - [Olivier Petit I. Interprétation d'un bilan thyroïdien limite chez l'enfant (après 3 ans). Pas à Pas en Pédiatrie. 2021.](https://pap-pediatrie.fr/endocrinologie/interpretation-dun-bilan-thyroidien-limite-chez-lenfant-apres-3-ans)
 - [Castanet M, Cuny A. Perturbation du bilan thyroïdien. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/endocrinologie/perturbation-du-bilan-thyroidien)
 
+Mot-clé: hyperthr
+
 {{%/sources%}}
 {{% modal title="Liste facteurs de risque d'hypothyroïdie" id="modal-fdr-hypothyroidie"%}}
 

@@ -83,10 +83,10 @@ Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de s
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal de l'enfant" "show" %}}
 
-Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{% relref "vaccination.md" %}}).
-{.alert .alert-info}
-
 ### Vaccinations de l'enfant
+
+Pour plus d'informations sur les vaccinations, dont les obligations, voir le chapitre [Vaccination]({{% relref "vaccination.md" %}}).
+{.alert .alert-info}
 
 {{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Décret n° 2024-694* et *Calendrier Vaccinal 2024*" >}}
 |          Âge          | Valences                                                                                  | Spécialités équivalentes                                                                                        |

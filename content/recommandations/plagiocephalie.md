@@ -95,7 +95,7 @@ Le diagnostic de plagiocéphalie est clinique. L'examen clinique recherche des f
 
 Aucun examen complémentaire devant une plagiocéphalie positionnelle isolée.
 
-Radiographies du crâne uniquement en suspicion de craniosynostose ou d'aggravation à un âge où les DCP devraient s'atténuer.
+Radiographies du crâne uniquement en cas de suspicion de craniosynostose ou d'aggravation à un âge où les DCP devraient s'atténuer.
 
 {{% /collapse %}}
 {{%collapse "Prévention de la plagiocéphalie" %}}

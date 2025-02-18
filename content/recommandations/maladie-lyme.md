@@ -44,8 +44,7 @@ Diagnostic différentiel: neurologique (12-19%), rhumatologique (15-43%), psychi
 La sérologie de Lyme
 : Sérologie en 2 temps: technique *Elisa* puis *Western blot* si positive ou équivoque.  
 Elle peut être répétée à 3 semaines si négative en cas de forte suspicion clinique.
-: La sérologie ne doit pas être réalisée devant un érythème migrant, la clinique est pathognomonique.  
-Elle doit être réalisée en suspicion de *phase disséminée*.
+: La sérologie ne doit pas être réalisée devant un érythème migrant, la clinique est pathognomonique. Elle doit être réalisée en cas de suspicion de *phase disséminée*.
 : Elle est considérée négative en l'absence d'apparition d'IgG au-delà de 6 semaines d'évolution.
 : Des taux élevés d'anticorps peuvent persister des années après la guérison clinique. Il n'existe pas de test permettant de différencier une cicatrice sérologique d'une infection active.
 

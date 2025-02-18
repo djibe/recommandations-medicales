@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-04-25T14:08:50+02:00"
 publishdate = "2024-04-25"
-lastmod = "2025-02-04"
+lastmod = "2025-02-18"
 specialites = ["therapeutique"]
 annees = "2025"
 sources = ["BDPM"]
@@ -27,7 +27,7 @@ Médicaments utilisés en médecine générale dont l'efficacité et la sécurit
 
 ## Médicaments devant être pris de façon stricte avant, pendant ou après le repas {.mt-5}
 
-Médicaments (hors antiviraux) dont le résumé des caractéristiques du produit (RCP) précise s'il doit être pris à jeun ou non. Ces médicaments doivent être pris avant (**minimum 30 minutes à 1 heure avant**), pendant ou **2 heures après** le repas.
+Médicaments (hors antiviraux) par voie entérale dont le résumé des caractéristiques du produit (RCP) précise s'il doit être pris à jeun ou non. Ces médicaments doivent être pris avant (**minimum 30 minutes à 1 heure avant**), pendant ou **2 heures après** le repas.
 
 {{< csv-to-table file="/data/medicaments-repas.csv" title="Médicaments dont la biodisponibilité dépend du moment du repas (prise à jeun, prandiale ou post-prandiale). Dr JB Fron d'après BDPM 2024 ou bibliographie précisée" >}}
 

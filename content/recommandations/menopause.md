@@ -534,8 +534,8 @@ Prise en charge d'un nodule du sein sous traitement hormonal:
 Efficace sur les bouffées vasomotrices sous 1 mois.  
 Aussi efficace sur: sommeil, fatigue, humeur, sécheresse vaginale.
 
-Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch par semaine (sur fesses ou abdomen, photosensible)  
-\+ Progesterone orale 100 mg x 1/j en continu
+Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch tous les 3-4 jours (sur fesses ou abdomen, photosensible)  
+\+ Progesterone orale 200 mg au coucher en continu
 {{%/info%}}
 
 {{< table title="Traitements hormonaux de la ménopause (THM) recommandés par le CNGOF disponibles seuls ou en association en France en 2025. Dr JB Fron d'après *BDPM*" class="table-wrap">}}
@@ -546,7 +546,7 @@ Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch par semaine (sur fess
 | Progestatif         | Dydrogestérone             | Duphaston                                                                     |                                  10 |
 |                     | Médrogestone à éviter      | Colprone                                                                      |                                   5 |
 |                     | Progestérone               | Progesterone, Utrogestan                                                      |                            100, 200 |
-| Progestatif vaginal | Progestérone               | Utrogestan                                                                    |                            100, 200 |
+| Progestatif oral/vaginal | Progestérone          | Utrogestan                                                                    |                            100, 200 |
 | Association         | Estradiol + lévonorgestrel | Femseptcombi, Femseptevo                                                      |                         50/7, 50/10 |
 {{< /table >}}
 

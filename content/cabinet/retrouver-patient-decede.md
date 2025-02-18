@@ -6,8 +6,8 @@ description = "Outil officiel matchID pour retrouver la trace ou savoir si une p
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-11-27T19:23:00+02:00"
 publishdate = "2023-11-27"
-lastmod = "2023-11-27"
-annees = "2023"
+lastmod = "2025-02-18"
+annees = "2025"
 sources = []
 tags = []
 image = true
@@ -33,4 +33,4 @@ Des méthodes de recherche avancée sont disponibles sur le [site matchID](https
   Rechercher</button>
 </form>
 
-Les données affichées sont collectées par l'Insee chaque mois. Le service matchID est financé par le Ministère de l'Intérieur.
+Les données affichées sont collectées par l'Insee chaque mois. Le service *matchID* est financé par le Ministère de l'Intérieur.

@@ -2,15 +2,15 @@
 id = "0193e326-75fd-7135-9d3d-b2583937384d"
 title = "Laryngite aiguë"
 prefix = "la "
-description = "Recommandations pour le diagnostic et la prise en charge de la laryngite aiguë: toux rauque ou aboyante, évaluation de la dyspnée. Corticoïdes pendant 1 à 3 jours"
+description = "Recommandations pour le diagnostic et la prise en charge de la laryngite aiguë: toux rauque ou aboyante, évaluation de la dyspnée. Corticoïdes pendant 1 à 3 jours TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-12-19T23:23:02+01:00"
-publishdate = "2024-12-27"
-lastmod = "2024-12-27"
+publishdate = "2025-02-14"
+lastmod = "2025-02-14"
 specialites = ["ORL", "pediatrie"]
-annees = "2000"
-sources = []
+annees = "2021"
+sources = ["SFORL"]
 tags = ["dyspnee", "enfant", "toux"]
 english = ["Acute laryngitis"]
 sctid = "6655004"
@@ -29,8 +29,8 @@ TODO: (at the end)
 {{%collapse "Définition" %}}
 
 Laryngite aiguë
-: Inflammation laryngée le plus souvent d'origine virale, que ce soit chez l'adulte ou chez l'enfant. Le risque tient à l'œdème qui comprime les voies respiratoires, pouvant donner une suffocation. La forme la plus grave est l'épiglottite bactérienne, devenue rare.
-: Les virus principaux sont: ***Myxovirus parainfluenzae***, grippe, VRS, adénovirus et rhinovirus.
+: Inflammation laryngée le plus souvent d'origine virale à tout âge. Le risque tient à l'œdème qui comprime les voies respiratoires, pouvant donner une suffocation. La forme la plus grave est l'épiglottite bactérienne, devenue rare.
+: Les principaux virus responsables sont: ***Myxovirus parainfluenzae***, grippe, VRS, adénovirus et rhinovirus.
 
 ### Abréviations
 
@@ -40,39 +40,39 @@ Laryngite aiguë
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Autres causes de [toux](/tags/toux/) aiguë:
+Autres causes de [toux](/tags/toux/) aiguë à évaluer:
 
-- Asthme
+- [Asthme]({{< relref "asthme.md" >}})
 - Inhalation de corps étranger
-- Coqueluche
-- Grippe, Covid
-- Pneumonie
+- [Coqueluche]({{< relref "coqueluche.md" >}})
+- [Grippe]({{< relref "grippe.md" >}}), [Covid 19]({{< relref "covid-19.md" >}})
+- [Pneumonie aiguë communautaire]({{< relref "pneumonie-aigue-communautaire.md" >}})
 
 {{% /collapse %}}
-{{%collapse "Clinique" %}}
+{{%collapse "Clinique chez l'enfant" %}}
 
-Le diagnostic de laryngite aiguë est clinique.
+Signes de la dyspnée laryngée: bradypnée inspiratoire, tirage et stridor (bruit inspiratoire) et signes de gravité (âge, dyspnée > 1 heure, signes d'insuffisance respiratoire)
 
-### Tableau chez l'enfant
+Le diagnostic de laryngite aiguë est **clinique**.
 
-Dyspnée laryngée: bradypnée inspiratoire, tirage et stridor (bruit inspiratoire) et signes de gravité (âge, dyspnée > 1 heure, signes d'IRespA)
-
-- Laryngite sous-glottique: 1re cause de dyspnée laryngée, surtout le garçon de 1 à 3 ans
+- **Laryngite sous-glottique**: 1^re^ cause de dyspnée laryngée, surtout le garçon de 1 à 3 ans
   - Contexte de rhinopharyngite progressive
   - Dyspnée laryngée avec quintes de toux rauque ou << aboyante >>, cornage (bruit laryngé du siège sous-glottique), voix normale (dyspnée parfois intense)
-- Laryngite striduleuse (dite glottique ou catarrhale): plus bénigne, enfant de 3 à 6 ans
+- **Laryngite glottique** (dite catarrhale ou striduleuse): plus bénigne, enfant de 3 à 6 ans
   - Contexte de rhinopharyngite, fièvre absente ou modérée
   - Quintes de toux rauques nocturnes avec ou sans dyspnée laryngée
   - Peut durer plusieurs heures avec rechutes nocturnes
-- **Épiglottite** (rarissime): début brutal, enfant assis, penché en avant, bouche demi-ouverte, nuque en hyperextension, refusant la position allongée
+- **Laryngite supraglottique** (**épiglottite** -- rarissime): début brutal, enfant assis, penché en avant, bouche demi-ouverte, nuque en hyperextension, refusant la position allongée
 - Croup (laryngite diphtérique): toxi-infection chez un sujet non vacciné
 
-### Tableau chez l'adulte
+{{% /collapse %}}
+{{%collapse "Clinique chez l'adulte" %}}
 
-- **Laryngite aiguë catarrhale** ou glottique: banale, hivernale
-  - Toux sèche
-  - Dysphonie, aphonie transitoire, voix rauque, enrouée
-  - Syndrome pseudo-grippal modéré
+Le diagnostic de laryngite aiguë est **clinique**:
+
+- **Laryngite glottique** (ou catarrhale): la plus fréquente, banale, hivernale
+  - Syndrome pseudo-grippal modéré, toux sèche
+  - **[Dysphonie]({{< relref "dysphonie.md" >}})** voire aphonie transitoire, voix rauque
   - État général conservé
 - Laryngite sous-glottique: rare
 - Épiglottite: déglutition douloureuse voire impossible, dysphonie, fièvre voire signes de détresse respiratoire
@@ -106,10 +106,10 @@ Dyspnée laryngée: bradypnée inspiratoire, tirage et stridor (bruit inspiratoi
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-urgences pour prélèvement spé en cas de suspicion de diphtérie
+suspicion de diphtérie: urgences pour prélèvement spé
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la laryngite aiguë" %}}
 
 Epiglottite ou DRA: appel du SAMU.
 
@@ -122,6 +122,8 @@ Urgences si aggrav, signes de gravité
 Pas d'antibio
 
 Adulte: aérosols de cortico possibles
+
+### Adulte
 
 
 

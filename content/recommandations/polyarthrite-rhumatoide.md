@@ -199,8 +199,11 @@ La décision du traitement dépend du rhumatologue, partagée avec le patient.
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Échodoppler des troncs supra-aortiques (TSA)
   - Dépistage annuel de la maladie rénale chronique: créatininémie et rapport albuminurie/créatininurie (*HAS 2023*)
-- Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}})  
-  dTP tous les 10 ans, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}.
+- Prophylaxies infectieuses
+  - Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}})
+  - dTP tous les 10 ans, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}
+  - Vaccination varicelle-zona post-exposition
+  - Éq. prednisone > 15-30 mg/j pendant > 2-4 semaines: prophylaxie de la pneumocystose (*EULAR 2022*)
 - Mise à jour des **[dépistages des cancers](/tags/depistage/)**
 - Association de patients: [AFPric](https://www.polyarthrite.org/), [ANDAR](http://www.polyarthrite-andar.com/)
 - Soins paramédicaux
@@ -349,11 +352,11 @@ graph TB
 - [England BR, et al. 2022 American College of Rheumatology Guideline for Exercise, Rehabilitation, Diet, and Additional Integrative Interventions for Rheumatoid Arthritis. Arthritis Rheumatol. 2023.](https://rheumatology.org/integrative-ra-treatment-guideline)
 - {{< references/esh-2023 >}}
 - [Smolen JS, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. Annals of the Rheumatic Diseases. 2022.](https://ard.bmj.com/content/early/2022/11/10/ard-2022-223356)
-- [Daien C, Czernichow S, Letarouilly JG et al. Recommandations de la Société française de rhumatologie sur l'alimentation des patients ayant un rhumatisme inflammatoire chronique. Revue du Rhumatisme. 2021.](https://www.sciencedirect.com/science/article/pii/S1169833021009108)
+- [Fragoulis GE, et al. 2022 EULAR recommendations for screening and prophylaxis of chronic and opportunistic infections in adults with autoimmune inflammatory rheumatic diseases. Annals of the Rheumatic Diseases. 2023.](https://ard.bmj.com/content/82/6/742)
+- [Daien C, Czernichow S, Letarouilly JG, et al. Recommandations de la Société française de rhumatologie sur l'alimentation des patients ayant un rhumatisme inflammatoire chronique. Revue du Rhumatisme. 2021.](https://www.sciencedirect.com/science/article/pii/S1169833021009108)
 - {{< references/esc-cvd >}}
 - [Daien C, et al. Actualisation des Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Revue du Rhumatisme. 2019.](https://www.sciencedirect.com/science/article/pii/S1169833018301522)
 - [Combe B, et al. 2016 update of the EULAR recommendations for the management of early arthritis. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/6/948)
-- [Smolen JS, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2016 update. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/6/960)
 - [HAS. ALD n° 22 - Polyarthrite rhumatoïde évolutive grave. 2008 et 2015.](https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-polyarthrite-rhumatoide-evolutive-grave)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Polyarthrite rhumatoïde. Item 196 UE 8. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-17-0.php)
 
@@ -361,7 +364,6 @@ graph TB
 
 - [Fautrel B, et al. 2024 update of the recommendations of the French Society of Rheumatology for the diagnosis and management of patients with rheumatoid arthritis. Joint Bone Spine. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X24001015)
 - [Johnson SR, et al. 2023 American College of Rheumatology (ACR)/American College of Chest Physicians (CHEST) Guideline for the Screening and Monitoring of Interstitial Lung Disease in People with Systemic Autoimmune Rheumatic Diseases. Arthritis Care Res (Hoboken). 2024.](https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/acr.25347)
-- [Fragoulis GE, et al. 2022 EULAR recommendations for screening and prophylaxis of chronic and opportunistic infections in adults with autoimmune inflammatory rheumatic diseases. Annals of the Rheumatic Diseases. 2023](https://ard.bmj.com/content/82/6/742)
 
 {{%/sources%}}
 {{% modele %}}

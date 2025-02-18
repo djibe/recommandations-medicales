@@ -19,7 +19,7 @@ icd10 = ["E28.3"]
 image = true
 imageSrc = "Illustration de la ménopause précoce (insuffisance ovarienne prématurée) par vectorjuice / Freepik"
 flowchart = true
-todo = "rankok, tabac, Anticorps anti-surrénaliens | ESHRE2024Fig2p5"
+todo = "rankok, NICE TODO:, tabac, Anticorps anti-surrénaliens | ESHRE2024Fig2p5"
 +++
 
 {{%article-summary%}}

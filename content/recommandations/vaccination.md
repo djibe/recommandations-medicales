@@ -162,7 +162,7 @@ Lire le *Calendrier vaccinal* page 75.
 7. Rougeole
 8. Oreillons
 9. Rubéole
-10. Né depuis juillet 2023: méningocoque ACWY (depuis 2025, anciennement C)  
+10. Né depuis juillet 2023: méningocoque ACWY (depuis 2025, anciennement méningo C)  
   Pas de rattrapage au-delà de 12 mois.
 11. Pneumocoque
 
