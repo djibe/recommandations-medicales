@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-11-21T14:11:22+01:00"
 publishdate = "2022-12-01"
-lastmod = "2024-12-06"
+lastmod = "2025-02-24"
 specialites = ["addictologie", "pneumologie"]
 annees = "2019"
 sources = ["HAS", "HCSP", "INCa"]
@@ -456,7 +456,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Lindson N, et al. Pharmacological and electronic cigarette interventions for smoking cessation in adults: component network meta‐analyses. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015226.pub2/full/fr)
+- [Lindson N, et al. Electronic cigarettes for smoking cessation. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010216.pub9/full/fr)
 - [Theodoulou A, et al. Different doses, durations and modes of delivery of nicotine replacement therapy for smoking cessation. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013308.pub2/full/fr)
 - [Collège des Enseignants de Pneumologie (CEP). Addiction au tabac. Item 75. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_75_TABAC_2023.pdf)
 - Prescrire Redaction. Consommation et arrêt du tabac. Premiers Choix Prescrire. Rev Prescrire. 2023.

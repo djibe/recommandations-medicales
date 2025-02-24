@@ -110,7 +110,7 @@ Demander l'accord pour interroger un accompagnant.
 - Activités quotidiennes: {{< modal-btn modal-iadl >}}échelle IADL simplifiée{{< /modal-btn >}} ou ADL
 - Évaluation cognitive  
   Une évaluation normale n'infirme pas une démence.
-  - Test de repérage ([cotation ALQP006]({{% relref "cotations-generaliste.md" %}}) 69,12 €): Mini-Mental State Examination ({{< scores/mmse >}} - seuil 24, 27 si CSP+), MoCA ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf)), [GP-COG](https://gpcog.com.au/index/patient-assessment)
+  - Test de repérage ([cotation ALQP006]({{% relref "cotations-generaliste.md" %}}) 69,12 €): Mini-Mental State Examination ({{< scores/mmse >}} - seuil 24, 27 si CSP+), **MoCA** ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf)), [GP-COG](https://gpcog.com.au/index/patient-assessment), MemScreen ([Android](https://play.google.com/store/apps/details?id=org.memscreen.memscreen&hl=fr), [iOS](https://apps.apple.com/fr/app/memscreen/id1255166896))
     Prendre en compte le niveau éducatif, anxiété et dépression.
   - Tests de mémoire: [épreuve des 5 mots de Dubois](http://www.amiform.com/documentation%20alzheimer/le_test_de_5_mots.pdf) ou Memory Impairment Screen (MIS)
   - Autres tests de repérage: [test de l'horloge](http://www.geronto-sud-lorraine.com/docs/Test_horloge.pdf), test de fluence verbale

@@ -59,7 +59,7 @@ Vérifier la monographie car il existe des contre-indications spécifiques pour 
 | DXM + néomycine * | [Chibro-Cadron collyre](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67756752&typedoc=R) | 1 gte x 3-6/j |
 | DXM + néomycine + polymyxine B \*,** | [Maxidrol collyre](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61605665&typedoc=R)<br>ou [pom opht](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62067340&typedoc=R) | 1 gte x 3-6/j<br>1 appli x 1-2/j |
 | DXM + oxytétracycline \*, *** | [Sterdex pom opht](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69497177&typedoc=R) | 1 appli x 1-3/j |
-| DXM + tobramycine \*, ** | [Tobradex collyre](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66302120&typedoc=R)<br>ou [Todexal](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66581684&typedoc=R) | 1 gte x 4-6/j |
+| DXM + tobramycine ** | [Tobradex collyre](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66302120&typedoc=R) ([CRAT](https://www.lecrat.fr/7735/))<br>ou [Todexal](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66581684&typedoc=R) | 1 gte x 4-6/j |
 | Triamcinolone acétonide + néomycine * | [Cidermex pom opht](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65539860&typedoc=R) | 1 appli x 1-2/j |
 {{< /table >}}
 

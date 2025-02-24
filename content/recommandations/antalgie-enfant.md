@@ -43,23 +43,23 @@ Traitement de première intention pour les douleurs faibles (EVA/EN 1-3) à mod�
 
 ### Paracétamol
 
+**Posologie du paracétamol:** 15 mg/kg/6h (max 80 mg/kg/j sans dépasser 4 g/j).
+
 {{< outils/paracetamol >}}
 
 {{< outils/paracetamol-calc >}}
-
-**Posologie:** 15 mg/kg/6h (max 80 mg/kg/j sans dépasser 4 g/j).
 
 ### AINS - Ibuprofène
 
 **Posologie chez le +3 mois:** 10 mg/kg/8h ou 7,5 mg/kg/6h par voie orale (max 30 mg/kg/j avec max 400 mg/prise) sur une période courte (3j si fièvre, 5j si douleurs).
 
-Formes: sirop, capsule, cp.
+Formes: sirop, capsule, comprimé.
 
 Associer paracétamol et anti-inflammatoires non stéroïdiens si besoin (et non pas alterner), 1 heure après le paracétamol si insuffisamment soulagé.
 
 > L'*OMS 2012* insiste sur le fait qu'il s'agit du seul AINS suffisamment étudié chez l'enfant.
 
-Traitement sûr (*[Lesko 1995](https://pubmed.ncbi.nlm.nih.gov/7884951/)*). Classé en palier 1 mais peut être plus efficace que des paliers 2 voire 3 après certains traumatismes ou phases post-opératoires.
+Traitement sûr (*[Lesko 1995](https://pubmed.ncbi.nlm.nih.gov/7884951/)*). Classé en palier 1 mais peut être plus efficace que des paliers 2 voire 3 après certains traumatismes ou en contexte post-chirurgical.
 
 #### Situations où éviter les AINS
 
