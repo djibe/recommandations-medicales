@@ -51,8 +51,7 @@ df.loc[df['procedure'] != 'Procédure centralisée', 'procedure'] = None
 df.loc[df['procedure'] == 'Procédure centralisée', 'procedure'] = 'Yes'
 
 df['libelle'] = df['libelle'].str.replace(r'(?i)\bPOUR CENT\b', '%', regex=True)
-# df['libelle'] = df['libelle'].str.replace(r'(?i)\bL.P.\b', 'LP', regex=True)
-df['libelle'] = df['libelle'].replace(['L.P.', 'L. P.'], 'LP')
+df['libelle'] = df["libelle"].str.replace(r"\bL\.?\s*P\.?", "LP", regex=True)
 df['libelle'] = df['libelle'].str.replace(r' à libération prolongée', '', regex=False)
 df2['dci'] = df2['dci'].str.replace(r'(?i)\bPOUR CENT\b', '%', regex=True)
 
@@ -111,5 +110,5 @@ def row_filter(row):
 
 # Select only the 'cis' and 'libelle' columns and save to a JSON file
 df_to_save = df_unique[['cis', 'libelle', 'procedure', 'dci']]
-df_to_save.apply(row_filter, axis=1).to_json('bdpm-search.json', orient='records')
+df_to_save.apply(row_filter, axis=1).to_json('bdpm-search.json', orient='records', force_ascii=False)
 print('\n Finished. bdpm-search.json is available.')
