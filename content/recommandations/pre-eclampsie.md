@@ -241,7 +241,7 @@ graph TB
 - [Bagou G et al; CNGOF, SFMU, SFAR. Prise en charge des urgences obstétricales en médecine d'urgence. Recommandations de Pratiques Professionnelles. 2022.](https://sfar.org/prise-en-charge-des-urgences-obstetricales-en-medecine-durgence/)
 - [US Preventive Services Task Force. Aspirin Use to Prevent Preeclampsia and Related Morbidity and Mortality: US Preventive Services Task Force Recommendation Statement. JAMA. 2021.](https://jamanetwork.com/journals/jama/fullarticle/2784499)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Item 344 Prise en charge d'une patiente atteinte de prééclampsie. Gynécologie obstétrique Réussir son DFASM. 2021.
-- [Bonnet MP et al; SFAR, CNGOF. Prise en charge de la patiente avec une pré-éclampsie sévère. Recommandations Formalisées d'Experts. 2020.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2020/RFE%20pre-eclampsie_2020.pdf?x94073)
+- [Bonnet MP et al; SFAR, CNGOF. Prise en charge de la patiente avec une pré-éclampsie sévère. Recommandations Formalisées d'Experts. 2020.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Complications%20de%20la%20grossesse/Pr%C3%A9%20%C3%A9clampsie%202020%20RFE.pdf?x60010)
 - [CNGOF. Dépistage de la pré-eclampsie. Juin 2020. (PDF)](https://cngof.fr/app/uploads/2023/06/Depistage-pre-eclampsie-CNGOF-Juin-2020.pdf?x53169)
 - [Inserm. Pré-éclampsie. 30/11/2018.](https://www.inserm.fr/dossier/pre-eclampsie/)
 - [SFHTA. HTA et grossesse. Consensus d'experts. 2015. (PDF)](https://sfhta.eu/wp-content/uploads/2017/03/Consensus-dexperts-HTA-et-Grossesse-de-la-SFHTA-Dec.-2015.pdf)

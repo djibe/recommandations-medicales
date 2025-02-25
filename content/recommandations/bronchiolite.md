@@ -443,9 +443,9 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 {{% /collapse %}}
 {{%sources%}}
 
-- [DGS-Urgent 2025_03. Fin de la campagne d'immunisation des nouveaux-nés et nourrissons contre le VRS. 28/01/2025.](https://sante.gouv.fr/professionnels/article/2025-dgs-urgent-03-fin-de-la-campagne-d-immunisation-des-nouveau-nes-et)
+- [DGS-Urgent 2025_03. Fin de la campagne d'immunisation des nouveaux-nés et nourrissons contre le VRS. 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
-- [DGS-Urgent 2024_13. Thérapeutiques disponibles pour la prochaine campagne d'immunisation des nouveaux-nés et nourrissons contre les infections à VRS. 27/08/2024.](https://sante.gouv.fr/professionnels/article/2025-dgs-urgent-03-fin-de-la-campagne-d-immunisation-des-nouveau-nes-et)
+- [DGS-Urgent 2024_13. Thérapeutiques disponibles pour la prochaine campagne d'immunisation des nouveaux-nés et nourrissons contre les infections à VRS. 27/08/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [DGS-Urgent 2024_10. Campagne d'immunisation des nouveaux-nés et nourrissons contre les infections à VRS pour la saison 2024-2025. 03/07/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
 - Prescrire Redaction. Bronchiolite et kinésithérapie respiratoire. Rev Prescrire. 2024.

@@ -20,14 +20,14 @@ Liste des codes pour les actes et les consultations des adultes et des enfants e
 
 ## Les nouvelles cotations en 2025
 
-- La fin des majorations non régulées aux heures tardives: F, MN et MM. Seul supplément pour tarvailler dimanche et après 20h sans régulation: MHP 5€
-- Le COE passera à 60€ le 1er juillet
+- La fin des majorations non régulées aux heures tardives: F, MN et MM. Seul supplément pour travailler dimanche et après 20h sans régulation: MHP 5€
+- Les certificats obligatoires du nourrisson (COE) passeront à 60 € le 1er juillet
 
 ## Les cotations de 2024 à ne pas oublier
 
 - Majoration MOP de 5 € pour les +80 ans qui ne font pas partie de la patientèle (valable en (télé)consultation ou visite)
 - La cotation RDV (30 €) est à 100 % pour le [rendez-vous de prévention]({{% relref "bilan-prevention.md" %}}) à réaliser à 18-25, 45-50, 60-65 et 70-75 ans (1 fois par tranche d'âge)
-- Le G passé à 30 € le 22 décembre (GS disparu; 23 € en Secteur 2), le COE à 54 € (60€ le 1er juillet 2025)
+- Le G passé à 30 € le 22 décembre (GS disparu; 23 € en Secteur 2), le COE à 54 € (60 € le 1er juillet 2025)
 
 ## Les outils d'aide à la cotation du généraliste
 

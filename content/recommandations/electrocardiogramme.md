@@ -61,7 +61,7 @@ Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ec
 ### Entraînements à la lecture d'ECG
 
 - [Cardio Learn](https://cardiolearn.univ-catholille.fr/exercice-ecg/) (La Catho - Lille)
-- [Cardiocases](https://www.cardiocases.com/fr/ecg/se-former)
+- [Cardiocases](https://www.cardiocases.com/fr/ecg/cursus-ecg)
 - [ECG Quiz](https://www.ecg-quiz.com/ecg-quiz/)
 - [EKG.Academy](https://ekg.academy/fr/exercices-entrainement-ecg)
 - [Dr Smith's ECG Blog](http://hqmeded-ecg.blogspot.com/)

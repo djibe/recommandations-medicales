@@ -13,7 +13,7 @@ annees = "2020"
 sources = ["SFORL", "SPLF"]
 tags = ["atopie"]
 english = ["Allergic rhinitis", "atopic rhinitis"]
-sctid = "61582004 "
+sctid = "61582004"
 icd10 = ["J30"]
 image = true
 imageSrc = "La rhinite allergique par vectorjuice / Freepik"
@@ -23,9 +23,9 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Un interrogatoire bien conduit permet un diagnostic fiable de rhinite allergique
-- Rechercher une [comorbidité atopique](/tags/atopie/) ([asthme]({{% relref "asthme.md" %}}), [dermatite atopique]({{% relref "dermatite-atopique.md" %}}), conjonctivite)
-- Évaluer la rhinite allergique: fréquence (intermittente ou persistante) et sévérité  
+- La rhinite allergique ou << rhume des foins >> est une rhinite déclenchée par une exposition allergénique et fait partie de la famille de l'[atopie](/tags/atopie/). Les acariens, les pollens de graminées et les chats sont les principales causes.
+- Un interrogatoire bien conduit permet un diagnostic fiable de rhinite allergique et une comorbidité atopique doit être recherchée ([asthme]({{% relref "asthme.md" %}}), [dermatite atopique]({{% relref "dermatite-atopique.md" %}}), conjonctivite)
+- L'examen évalue la rhinite allergique: fréquence (intermittente ou persistante) et sévérité  
   Modérée à sévère si au moins 1 parmi: symptômes gênants, sommeil perturbé, activités scolaires, professionnelles, sociales ou loisirs perturbés (*ARIA*)
 - Bilan de la rhinite allergique: tests cutanés allergiques (prick-tests) sauf cas de rhinite saisonnière
 - Avis pneumologique en cas de suspicion d'un asthme associé

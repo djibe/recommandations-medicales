@@ -91,7 +91,7 @@ La prise en charge de la maladie de Dupuytren doit être la plus **précoce** po
 - Aponévrotomie percutanée à l'aiguille (APA ou fasciatomie)  
   Développée à l'hôpital Lariboisière (Paris).
 - Chirurgie: aponévrectomie partielle (fasciectomie) avec récidives fréquentes (50%) et rares possibilités de reprise chirurgicale
-- Information du patient: [fiche info SFCM (PDF)](https://www.sfcm.fr/wp-content/uploads/2020/02/Maladie-de-Dupuytren.pdf)
+- Information du patient: [fiche info SFCM (PDF)](https://sfcm.fr/wp-content/uploads/2024/05/aponevrectomie_final.pdf)
 
 Autres traitements non disponibles en France pour la maladie de Dupuytren: injections de collagénase *Clostridium histolyticum* (CCH, [Xiapex®](https://www.has-sante.fr/jcms/c_1238457/en/xiapex-collagenase-de-clostridium-histolyticum)) et radiothérapie (*[NICE 2016](https://www.nice.org.uk/guidance/ipg573/chapter/1-Recommendations)*).
 

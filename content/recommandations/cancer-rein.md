@@ -27,7 +27,7 @@ Ces recommandations concernent uniquement le cancer du rein de l'adulte:
 
 - Le cancer du rein est le plus souvent de découverte fortuite chez un homme d'âge moyen
 - Les facteurs de risque de cancer du rein sont la dialyse prolongée, l'obésité et le tabagisme
-- Il peut être découvert par des symptômes: hématurie totale, douleurs du flanc ou masse lombaire ou des métastases (pulmonaires surtout)
+- Il peut être découvert par des symptômes: hématurie totale, douleurs du flanc, masse lombaire ou des métastases symptomatiques (pulmonaires surtout)
 - Le bilan initial d'une suspicion de cancer du rein associe: NFS, créatininémie et DFG, scanner abdominal injecté
 - Adresser en semi-urgence dans un Centre de lutte contre le cancer (CLCC) pour avis urologique. Compléter par un scanner thoracique au moindre doute d'envahissement ou si les images sont typiques d'un cancer du rein
 
