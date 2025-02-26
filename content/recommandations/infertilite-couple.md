@@ -268,19 +268,19 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Sonigo C et al. Prise en charge de première intention du couple infertile: Mise à jour des RPC 2010 du CNGOF [First line management of infertile couple. Guidelines for Clinical Practice of the French College of Obstetricians and Gynecologists 2022.]. Gynecol Obstet Fertil Senol. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2468718924000370)
-- [Gibbons T et al. Timed intercourse for couples trying to conceive. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011345.pub3/full/fr)
-- [Romualdi D et al; ESHRE Guideline Group on Unexplained Infertility. Evidence-based guideline: unexplained infertility. Hum Reprod. 2023.](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/dead150/7246182)
-- [Huyghe E et al. Recommandations de l'AFU et de la SALF concernant l'évaluation de l'homme infertile. Prog Urol. 2021.](https://www.urofrance.org/recommandation/recommandations-de-lafu-et-de-la-salf-concernant-levaluation-de-lhomme-infertile/)
+- [Sonigo C, et al. Prise en charge de première intention du couple infertile: Mise à jour des RPC 2010 du CNGOF [First line management of infertile couple. Guidelines for Clinical Practice of the French College of Obstetricians and Gynecologists 2022.]. Gynecol Obstet Fertil Senol. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2468718924000370)
+- [Gibbons T, et al. Timed intercourse for couples trying to conceive. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011345.pub3/full/fr)
+- [Romualdi D, et al; ESHRE Guideline Group on Unexplained Infertility. Evidence-based guideline: unexplained infertility. Hum Reprod. 2023.](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/dead150/7246182)
+- [Huyghe E, et al. Recommandations de l'AFU et de la SALF concernant l'évaluation de l'homme infertile. Prog Urol. 2021.](https://www.urofrance.org/recommandation/recommandations-de-lafu-et-de-la-salf-concernant-levaluation-de-lhomme-infertile/)
 - [CNGOF. Avis du CNGOF en matière de conditions d'âge. 07/02/2021. (PDF)](https://cngof.fr/app/uploads/2023/06/AMP-Avis-CNGOF-limites-age-07-02-21.pdf?x53169)
-- [Boitrelle F et al. The Sixth Edition of the WHO Manual for Human Semen Analysis: A Critical Review and SWOT Analysis. Life (Basel). 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8706130/)
+- [Boitrelle F, et al. The Sixth Edition of the WHO Manual for Human Semen Analysis: A Critical Review and SWOT Analysis. Life (Basel). 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8706130/)
 - [World Health Organization. WHO laboratory manual for the examination and processing of human semen, 6th ed. World Health Organization. 2021.](https://www.who.int/publications/i/item/9789240030787)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Item 38 Infertilité du couple : conduite de la première consultation. Gynécologie obstétrique Réussir son DFASM. 2021.
 - {{< references/college-endocrino >}}
-- [Boedt T et al. Preconception lifestyle advice for people with infertility. Cochrane Database of Systematic Reviews. 2021.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008189.pub3/full/fr)
+- [Boedt T, et al. Preconception lifestyle advice for people with infertility. Cochrane Database of Systematic Reviews. 2021.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008189.pub3/full/fr)
 - [Collège Français des Enseignants en Urologie (CFEU). Stérilité du couple : conduite de la première consultation Item 38. Référentiel du collège d'urologie 5ème édition. 2021.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/chapitre-02-sterilite-du-couple-conduite-de-la-premiere-consultation/)
-- [Wang R et al. Interventions for unexplained infertility: a systematic review and network meta‐analysis. Cochrane Database of Systematic Reviews. 2019.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012692.pub2/full/fr)
-- [Hédon B et al; CNGOF. La prise en charge du couple infertile. Recommandations pour la pratique clinique. 2010. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2010/RPC_INFERTILITE_2010.pdf?x13417)
+- [Wang R, et al. Interventions for unexplained infertility: a systematic review and network meta‐analysis. Cochrane Database of Systematic Reviews. 2019.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012692.pub2/full/fr)
+- [Hédon B, et al; CNGOF. La prise en charge du couple infertile. Recommandations pour la pratique clinique. 2010. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Contraception%20et%20Sant%C3%A9%20Reproductive/Infertilit%C3%A9%202010-RPC.pdf?x60010)
 - [Agence de la Biomédecine. Assistance médicale à la procréation - Principaux chiffres de l'activité.](https://rams.agence-biomedecine.fr/principaux-chiffres-de-lactivite)
 
 {{%/sources%}}

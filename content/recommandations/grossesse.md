@@ -242,7 +242,7 @@ Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{% re
 Pour toutes les femmes à la 1^re^ grossesse (sauf carte de groupe): double détermination du **groupe sanguin rhésus D** (RhD, dit rhésus 1 -- RH-1) et recherche d'agglutinines irrégulières (**RAI**) si rhésus négatif ou antécédent de transfusion dès le premier trimestre de grossesse.
 {.alert .alert-info}
 
-[Fiche info CNGOF allo-immunisation T1 (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2024/fiche%20info%20patientes%20pr%C3%A9vention%20allo-immunisation%20T1%202024.pdf?x29325)
+[Fiche info CNGOF allo-immunisation T1 (PDF)](https://cngof.fr/app/pdf/FICHES%20D'INFORMATION%20DES%20PATIENTES/Obst%C3%A9trique//fiche%20info%20patientes%20pr%C3%A9vention%20allo-immunisation%20T1%202024.pdf)
 
 ### Femme Rhésus D négatif
 
@@ -353,7 +353,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{% rel
 
 - [Anses. Enrichir la farine en acide folique : une solution contre les malformations du tube neural chez les nouveau-nés. 2024.](https://www.anses.fr/fr/content/enrichir-la-farine-en-acide-folique-une-solution-contre-les-malformations-du-tube-neural)
 - [HAS, ANRS, CNS. Prise en charge thérapeutique du patient atteint d'herpès génital. 2024.](https://www.has-sante.fr/jcms/p_3562501/fr/prise-en-charge-therapeutique-du-patient-atteint-d-herpes-genital)
-- [Vigoureux S, et al; CNGOF. Prévention de l'allo-immunisation anti-RH1 au premier trimestre de la grossesse: recommandations pour la pratique clinique du Collège National des Gynécologues-Obstétriciens Français. Gynécologie Obstétrique Fertilité & Sénologie. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2468718924000813)
+- [Vigoureux S, et al; CNGOF. Prévention de l'allo-immunisation anti-RH1 au premier trimestre de la grossesse: recommandations pour la pratique clinique du Collège National des Gynécologues-Obstétriciens Français. Gynécologie Obstétrique Fertilité & Sénologie. 2024. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Complications%20de%20la%20grossesse/Allo-immunisation%20-%20Rh%C3%A9sus%20D%202024-Prevention%20de%20l'allo-immunisation%20anti%20RH1.pdf)
 - [US Preventive Services Task Force. Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive Services Task Force Recommendation Statement. JAMA. 2024.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/iron-deficiency-anemia-in-pregnant-women-screening-and-supplementation)
 - [Service Public. Grossesse : examens médicaux. 14/08/2024.](https://www.service-public.fr/particuliers/vosdroits/F963)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)

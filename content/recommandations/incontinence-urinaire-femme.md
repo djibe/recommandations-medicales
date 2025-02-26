@@ -160,10 +160,11 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Centre Belge d'Information Pharmacothérapeutique (CBIP). Folia. 2024.](https://www.cbip.be/fr/articles/4440?folia=4434)
+- [Hay-Smith EJC, et al. Comparisons of approaches to pelvic floor muscle training for urinary incontinence in women. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009508.pub2/full/fr)
+- [Centre Belge d'Information Pharmacothérapeutique (CBIP). Les anticholinergiques font-ils perdre la mémoire ?. Folia. 2024.](https://www.cbip.be/fr/articles/4440?folia=4434)
 - Prescrire Redaction. Patients ayant une incontinence d'urine. Rev Prescrire. 2023.
 - [Collège Français des Enseignants en Urologie (CFEU). Incontinence urinaire de l'adulte et du sujet âgé. Référentiel du collège d'urologie 5ème édition. 2021.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/chapitre-07-incontinence-urinaire-de-ladulte-et-du-sujet-age/)
-- [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2015/2015-RPC-POSTPARTUM.pdf?x13417)
+- [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Post%20partum/Postpartum%202015-RPC.pdf?x60010)
 - [CNGOF. Diagnostic et prise en charge de l'incontinence urinaire de la femme adulte. Recommandations pour la pratique clinique. 2009.](https://cngof.fr/app/uploads/2023/06/RPC-INCONTINENCE_2009.pdf?x72671)
 - [Anaes. Prise en charge de l'incontinence urinaire de la femme en médecine générale. 2003.](https://www.has-sante.fr/jcms/c_272291/fr/prise-en-charge-de-l-incontinence-urinaire-de-la-femme-en-medecine-generale-actualisation-2003)
 

@@ -246,7 +246,7 @@ graph TB
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/rpc/?x72671)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
-- [CNGOF. L'interruption volontaire de grossesse. Recommandations pour la pratique clinique. 2016. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2016/RPC_2016_IVG.pdf?x55732)
+- [CNGOF. L'interruption volontaire de grossesse. Recommandations pour la pratique clinique. 2016. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Contraception%20et%20Sant%C3%A9%20Reproductive/IVG%202016-RPC.pdf?x60010)
 
 ### Bibliographie en attente
 

@@ -145,7 +145,7 @@ Comme pour tout cancer:
 - Proposer un soutien psychologique
 - Soins de confort
 - Évaluation nutritionnelle
-- [Guide d'information de l'INCa sur le cancer de l'endomètre](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-l-endometre/Points-cles)
+- [Guide d'information de l'INCa sur le cancer de l'endomètre](https://www.cancer.fr/personnes-malades/les-cancers/Cancer-de-l-endometre/Points-cles)
 - Associations de patientes  
   [imagyn](https://www.imagyn.org), [Ligue contre le cancer](https://www.ligue-cancer.net), [roseup](https://www.rose-up.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com).
 

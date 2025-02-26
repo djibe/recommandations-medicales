@@ -200,7 +200,7 @@ La vaccination HPV peut être réalisée par un pharmacien ou un infirmier sans 
 
 La vaccination conte les papillomavirus prévient des lésions précancéreuses de tous les sites atteints (voir *Complications*).
 
-[INCa. 10 arguments clés sur la vaccination contre les infections liées aux papillomavirus humains](https://www.e-cancer.fr/Expertises-et-publications/Le-point-sur/10-arguments-sur-la-vaccination-contre-les-HPV)  
+[INCa. Les arguments clés sur la vaccination contre les cancers liés aux papillomavirus humains (HPV)](https://www.cancer.fr/catalogue-des-publications/arguments-cles-sur-la-vaccination-contre-les-cancers-hpv)  
 [INCa. Dépliant sur la vaccination contre les cancers HPV (PDF)](https://www.e-cancer.fr/content/download/301756/4303586/file/IN793%20Depliant%20Papillomavirus%20148x210%20HPV_BD.pdf)
 
 > En Australie, où la recommandation de vacciner les filles date de 2007 et celle des garçons de 2013, la couverture vaccinale d'au moins 80% a permis:  
@@ -274,7 +274,7 @@ Mesures associées aux cancers:
 ### Bibliographie en attente
 
 - [Fischerova D et al. The Role of Imaging in Cervical Cancer Staging: ESGO/ESTRO/ESP Guidelines (Update 2023). Cancers (Basel). 2024.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38398166/)
-- [INCa. Cancers invasifs du col utérin - Du diagnostic au suivi. 2021.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-invasifs-du-col-uterin-Du-diagnostic-au-suivi)
+- [INCa. Cancers invasifs du col utérin - Du diagnostic au suivi. 2023.](https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/outils-pour-la-pratique-des-medecins-generalistes/outils-par-localisation-de-cancer/cancers-invasifs-du-col-uterin)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

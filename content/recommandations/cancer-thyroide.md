@@ -161,7 +161,7 @@ Mesures associées à la prise en charge des cancers:
   - Elle peut être substitutive ++
   - Freinatrice: cible de TSH 0,1 - 0,5 mUI/L
   - Très freinatrice: cible de TSH < 0,1 mUI/L selon le risque de récidive (décision spécialisée).
-- [Guide information INCa](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-la-thyroide/Les-points-cles)
+- [Guide information INCa](https://www.cancer.fr/personnes-malades/les-cancers/Cancer-de-la-thyroide/Les-points-cles)
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - [Réduction de l'alcool]({{% relref "sevrage-alcool.md" %}})
 - Activité physique

@@ -192,7 +192,7 @@ Dépistage d'*Helicobacter pylori* systématique chez l'entourage au premier deg
 
 Le traitement du cancer gastrique décidé en RCP peut être: traitement endoscopique, gastrectomie (des 4/5e, totale), chimio(radio)thérapie.
 
-[Guide patients de l'INCa sur les traitements des cancers de l'estomac](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-l-estomac/Points-cles).
+[Guide patients de l'INCa sur les traitements des cancers de l'estomac](https://www.cancer.fr/personnes-malades/les-cancers/Cancer-de-l-estomac/Points-cles).
 
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}

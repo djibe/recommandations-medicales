@@ -461,13 +461,13 @@ graph TB
 - [Collège des Enseignants de Pneumologie (CEP). Addiction au tabac. Item 75. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_75_TABAC_2023.pdf)
 - Prescrire Redaction. Consommation et arrêt du tabac. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Santé Publique France. Tabac.](https://www.santepubliquefrance.fr/determinants-de-sante/tabac)
-- [INCa. Panorama des cancers en France - Édition 2022.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Panorama-des-cancers-en-France-Edition-2022)
+- [INCa. Panorama des cancers en France - édition 2023.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-edition-2023)
 - [Haut Conseil de la santé publique (HCSP). Avis relatif aux bénéfices-risques de la cigarette électronique. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1138)
 - {{< references/esc-cvd >}}
 - [CNGOF, SFT. Prise en charge du tabagisme en cours de grossesse (texte court). 2020. (PDF)](https://www.sciencedirect.com/science/article/abs/pii/S2468718920301586)
 - [HAS. Sevrage tabagique : des outils pour repérer et accompagner les patients. Article. 2019.](https://www.has-sante.fr/jcms/pprd_2974738/fr/sevrage-tabagique-des-outils-pour-reperer-et-accompagner-les-patients#:~:text=La%20HAS%20propose%20des%20modalit%C3%A9s,accompagner%20dans%20le%20sevrage%20tabagique)
 - [Hill C, Legoupil C. Taxation et prix du tabac en France et conséquences sur la consommation. Bull Epidémiol Hebd. 2018.](http://beh.santepubliquefrance.fr/beh/2018/14-15/2018_14-15_8.html)
-- [INCa. Arrêt du tabac dans la prise en charge du patient atteinte de cancer. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Synthese-Arret-du-tabac-dans-la-prise-en-charge-du-patient-atteint-de-cancer-Systematiser-son-accompagnement)
+- [INCa. Arrêt du tabac dans la prise en charge du patient atteinte de cancer. 2016.](https://www.cancer.fr/catalogue-des-publications/synthese-arret-du-tabac-dans-la-prise-en-charge-du-patient-atteint-de-cancer-systematiser-son-accompagnement)
 - [HAS. Arrêt de la consommation de tabac : du dépistage individuel au maintien de l'abstinence en premier recours. 2014.](https://www.has-sante.fr/jcms/c_1718021/fr/arret-de-la-consommation-de-tabac-du-depistage-individuel-au-maintien-de-l-abstinence-en-premier-recours)
 - [Jha P, Peto R. Global effects of smoking, of quitting, and of taxing tobacco. N Engl J Med. 2014.](https://www.nejm.org/doi/10.1056/NEJMra1308383)
 - [Tabac Info Service Pro](https://pro.tabac-info-service.fr/Je-m-informe/S-informer)

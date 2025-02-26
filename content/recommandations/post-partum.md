@@ -195,7 +195,7 @@ La rééducation périnéale ne permet pas de traiter un [prolapsus]({{% relref 
 - [US Preventive Services Task Force, Barry MJ et al. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2806144)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Grossesse normale. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [HAS. Contraception chez la femme en post-partum. Recommandation de bonne pratique. 2019.](https://www.has-sante.fr/jcms/c_1369193/fr/contraception-chez-la-femme-en-post-partum)
-- [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2015/2015-RPC-POSTPARTUM.pdf?x13417)
+- [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Post%20partum/Postpartum%202015-RPC.pdf?x60010)
 - [HAS. Situations pathologiques pouvant relever de l'hospitalisation à domicile au cours de l'ante et du post-partum. 2011.](https://www.has-sante.fr/jcms/c_1066375/fr/situations-pathologiques-pouvant-relever-de-l-hospitalisation-a-domicile-au-cours-de-l-ante-et-du-post-partum)
 - [Dedecker F. Grossesses rapprochées : facteurs de risque et conséquences périnatales. Journal de gynécologie obstétrique et biologie de la reproduction. 2006.](https://www.em-consulte.com/article/115440)
 - [Anaes. Rééducation dans le cadre du post-partum. 2002.](https://www.has-sante.fr/jcms/c_272241/fr/reeducation-dans-le-cadre-du-post-partum)

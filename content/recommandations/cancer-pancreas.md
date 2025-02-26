@@ -18,6 +18,7 @@ sctid = "363418001"
 icd10 = ["C25", "C25.9"]
 image = true
 imageSrc = "Invasion du deuxième segment duodénal par une masse pancréatique au scanner. Cas d'Ahmed Abdrabou, Radiopaedia.org, rID: 35723"
+todo = "SEO"
 flowchart = true
 +++
 
@@ -239,14 +240,18 @@ L'IRM a une performance diagnostique équivalente au scanner (et plus chère).
 
 Adresser en semi-urgence à l'équipe hospitalière de gastro-entérologie pour la suite de la prise en charge du cancer du pancréas. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
 
-10-20 % des patients peuvent bénéficier d'une chirurgie d'exérèse à visée curative.  
+10 à 20% des patients peuvent bénéficier d'une chirurgie d'exérèse à visée curative.  
 [Guide d'information patient SFCD/FCVD pancréatectomie (PDF)](https://www.fcvd.fr/wp-content/uploads/2022/01/FICHE-D_INFORMATION-PATIENT-PANCREATECTOMIE.pdf)
 
 La majorité reçoit aussi une chimiothérapie. Le taux de **récidive** est très élevé.
 
-Soins associés: déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}}), traitement de douleur, prise en charge de la dépression et de la dénutrition.
+Soins associés:
 
-Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr).
+- Information du patient: [guide INCa Cancer du pancréas](https://www.cancer.fr/catalogue-des-publications/les-traitements-du-cancer-du-pancreas)
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
+- Traitement de la douleur
+- Prise en charge de la dépression et de la dénutrition
+- Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr)
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du cancer du pancréas" "show" %}}
@@ -264,7 +269,7 @@ graph TB
 
 {{< youtube id="BInhR4vlfH0" title="Cancer du pancréas : pourquoi ça augmente ? (TutoGastro SNFGE)" >}}
 
-- [Hammel P et al. Cancer du pancréas. Thésaurus National de Cancérologie Digestive (TNCD). 2024.](https://www.snfge.org/tncd/cancer-du-pancreas)
+- [Hammel P, et al. Cancer du pancréas. Thésaurus National de Cancérologie Digestive (TNCD). 2024.](https://www.snfge.org/tncd/cancer-du-pancreas)
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}
 - {{< references/college-gastro >}}

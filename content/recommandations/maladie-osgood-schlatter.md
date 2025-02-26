@@ -23,7 +23,7 @@ todo = "flow"
 {{%article-summary%}}
 
 - La maladie d'Osgood-Schlatter est l'atteinte la plus fréquente de la tubérosité tibiale chez l'adolescent sportif de 10 à 15 ans
-- Le diagnostic d'Osgood Schlatter est clinique: adolescent avec pratique sportive à risque (extension (basket, volley, foot, sprint, gymnastique), facteurs de risque (raideur, croissance rapide) présentant des douleurs mécaniques antérieures du genou, atraumatiques, souvent bilatérales d'installation insidieuse, augmentant à l'activité et régressant progressivement son arrêt
+- Le diagnostic d'Osgood Schlatter est clinique: adolescent avec pratique sportive à risque (en extension: basket, volley, foot, sprint, gymnastique), facteurs de risque (raideur, croissance rapide) présentant des douleurs mécaniques antérieures du genou, atraumatiques, souvent bilatérales d'installation insidieuse, augmentant à l'activité et régressant progressivement à son arrêt
 - Les radiographies du genoux servent à éliminer un diagnostic différentiel
 - La prise en charge de la maladie d'Osgood-Schlatter associe: physiothérapie (réduction des activités à risque et diversification des sports, étirements voire kinésithérapie), antalgie (glaçage, AINS locaux) voire évaluation podologique
 - Avis spécialisé orthopédique en cas de tableau atypique, douleurs intenses ou échec du traitement
@@ -62,7 +62,7 @@ Signes et symptômes de la maladie d'Osgood-Schlatter:
 - Pratiques sportives, variété des exercices et échauffements et étirements
 - Facteurs de risque d'Osgood: sports intensifs en extension (basket, volley, foot, sprint, gymnastique), raideur, croissance rapide, malposition des membres inférieurs
 - Symptômes de la maladie d'Osgood Schlatter:
-  - **Douleurs mécaniques antérieures du genou**, atraumatiques, souvent bilatérales (20-30 %), d'installation insidieuse, augmentant à l'activité et régressant progressivement son arrêt (minutes ou heures)
+  - **Douleurs mécaniques antérieures du genou**, atraumatiques, souvent bilatérales (20-30 %), d'installation insidieuse, augmentant à l'activité et régressant progressivement à son arrêt (minutes ou heures)
   - Œdème de la tubérosité tibiale
   - Douleurs à l'agenouillement
   - Plus tardivement: excroissance de la tubérosité tibiale

@@ -129,7 +129,7 @@ Mesures associées à la prise en charge des cancers:
   - antécédent familial au 1er ou 2e degré
   - proche avec mutation connue
   - histologie évocatrice
-- Information du patient: [guide INCa](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-du-rein/Points-cles) sur le cancer du rein
+- Information du patient: [guide INCa](https://www.cancer.fr/personnes-malades/les-cancers/Cancer-du-rein/Points-cles) sur le cancer du rein
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - [Réduction de l'alcool]({{% relref "sevrage-alcool.md" %}})
 - Activité physique

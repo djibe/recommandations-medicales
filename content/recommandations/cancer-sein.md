@@ -341,7 +341,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: ch
   - Éviter les vêtements synthétiques
   - Limiter l'exposition solaire
   - Hygiène rigoureuse et pommades émollientes
-- Information de la patiente: [INCa](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-du-sein/Les-points-cles)
+- Information de la patiente: [INCa](https://www.cancer.fr/personnes-malades/les-cancers/Cancer-du-sein/Les-points-cles)
 - Associations de patientes  
   [étincelle](http://www.etincelle.asso.fr), [Europa Donna](http://www.europadonna.fr), [Rose up](https://www.rose-up.fr), [Skin](https://associationskin.org), [Vivre Comme Avant](https://www.vivrecommeavant.fr).
 - Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
@@ -440,7 +440,7 @@ graph TB
 {{< card-link-external title="Vidéo de la palpation des seins" url="https://www.youtube.com/watch?v=QXlT9651svA" subtitle="par le Dr Jean-Philippe Harlicot" >}}
 
 - [Taux de participation au programme de dépistage organisé du cancer du sein 2022-2023 et évolution depuis 2005. Santé Publique France. 2024.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-sein/articles/taux-de-participation-au-programme-de-depistage-organise-du-cancer-du-sein-2022-2023-et-evolution-depuis-2005)
-- [Lavoué V et al. Recommandations pour la pratique clinique du CNGOF. Place de l'auto-examen des seins dans les stratégies de dépistage [Place of breast self-examination in screening strategies. French College of Gynecologists and Obstetricians (CNGOF) recommendations for clinical practice]. Gynecol Obstet Fertil Senol. 2023. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/2023/RPC-Place%20de%20l'auto-examen%20des%20seins%20dans%20les%20strat%C3%A9gies%20de%20d%C3%A9pistage.pdf)
+- [Lavoué V, et al. Recommandations pour la pratique clinique du CNGOF. Place de l'auto-examen des seins dans les stratégies de dépistage [Place of breast self-examination in screening strategies. French College of Gynecologists and Obstetricians (CNGOF) recommendations for clinical practice]. Gynecol Obstet Fertil Senol. 2023. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Gyn%C3%A9cologie/Oncologie/Auto-examen%20des%20seins%202023-RPC-%20strat%C3%A9gies%20de%20d%C3%A9pistage.pdf?x60010)
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}
 - [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. 2022.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
