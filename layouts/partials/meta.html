@@ -39,7 +39,6 @@
 <meta property="og:site_name" content="{{ $.Site.Title }}">
 <meta name="twitter:card" content="summary">
 <meta property="fb:page_id" content="102181682323638">
-<meta name="twitter:site" content="@{{ .Site.Params.TwitterName }}">
 
 <!-- Description Tags 50-160 ch -->
 {{ $metaDescription := "" }}
@@ -53,6 +52,10 @@
 <meta name="description" content="{{ $metaDescription }}">
 <meta property="og:description" content="{{ $metaDescription }}">
 <meta name="twitter:description" content="{{ $metaDescription }}">
+
+{{- with .Params.Meta }}
+{{ printf "%s" . | safeHTML }}
+{{ end -}}
 
 <!-- Link Tags -->
 <!--<base href="{{ .Site.BaseURL }}">--><!--For local Linkinator-->

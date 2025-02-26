@@ -7,6 +7,13 @@
       <p class="typography-headline-3 font-weight-bolder">Nettoyage du cache ...</p>
       <p class="text-black-secondary lead font-weight-normal my-4">Le cache a été effacé.</p>
       <a class="btn btn-primary btn-lg my-5" href="{{ .Site.BaseURL  }}">Revenir à l'accueil</a>
+      <script>
+        navigator.serviceWorker.getRegistrations().then(registrations => {
+          for (const registration of registrations) {
+            registration.unregister();
+          }
+        });
+        </script> 
     </article>
   </div>
 </div>
