@@ -65,7 +65,7 @@ data.forEach(item => {
   });
   // Filtrer la liste des codes CIS en fonction de la recherche
   searchInput.addEventListener('input', () => {
-    const filter = searchInput.value.toUpperCase();
+    const filter = searchInput.value.trim().toUpperCase();
     const li = medicationList.getElementsByTagName('a');
     let count = 0;
 

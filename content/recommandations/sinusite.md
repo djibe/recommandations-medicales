@@ -187,7 +187,7 @@ En cas de pénurie, traitement différé si possible: amoxicilline cp 1 g disper
 
 - **Adulte:** Pristinamycine 1 g x 2/j pendant 4 jours
   - Selon Prescrire®: spiramycine 3 MU x 2-3/j
-  - ou azithromycine 2 x 250 mg x 1/j pendant 3 jours
+  - ou azithromycine 500 mg x 1/j pendant 3 jours
 - **Enfant +6 ans:** pristinamycine 50 mg/kg/j en 2 prises pendant 10 jours
 - **Enfant < 6 ans:** sulfaméthoxazole-triméthoprime 30 mg/kg/j (max 800/160 mg/j) en 2 prises pendant 10 jours
 

@@ -174,10 +174,9 @@ Selon le tableau: hémocultures ou recherche de [paludisme en urgence]({{% relre
 
 ### Échographie abdominale
 
-L'échographie abdominale est l'examen d'imagerie de référence devant une splénomégalie.
+L'échographie abdominale est l'examen d'imagerie de référence d'une splénomégalie.
 
-Elle permet de ne pas confondre avec un gros rein gauche ou les autres organes de la région.  
-La rate normale ne dépasse pas 14 x 12 x 8 cm (l x L x h).
+Elle permet de différencier un gros rein gauche ou d'autres organes régionaux. La rate normale ne dépasse pas 14 x 12 x 8 cm (l x L x h).
 
 Avis hématologique devant une splénomégalie isolée sans signe d'orientation.
 {.alert .alert-info}

@@ -238,7 +238,7 @@ L'IRM a une performance diagnostique équivalente au scanner (et plus chère).
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Adresser en semi-urgence à l'équipe hospitalière de gastro-entérologie pour la suite de la prise en charge du cancer du pancréas. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
+Adresser en semi-urgence à l'équipe hospitalière de gastro-entérologie pour la suite de la prise en charge du cancer du pancréas. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC).
 
 10 à 20% des patients peuvent bénéficier d'une chirurgie d'exérèse à visée curative.  
 [Guide d'information patient SFCD/FCVD pancréatectomie (PDF)](https://www.fcvd.fr/wp-content/uploads/2022/01/FICHE-D_INFORMATION-PATIENT-PANCREATECTOMIE.pdf)

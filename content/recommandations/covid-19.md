@@ -88,7 +88,9 @@ Risque démultiplié de forme grave de Covid-19 si polypathologique. Doit tenir 
 - [Ameli: Prescription du Paxlovid en ville](https://www.ameli.fr/sites/default/files/Documents/Prescription-Paxlovid-en-ville.pdf)
 - [Document HAS officiel (RCP)](https://www.has-sante.fr/jcms/p_3311133/fr/paxlovid-pf-07321332/ritonavir)
 
-**Administrer dès que possible.** Son efficacité est comparable avec tous les variants (*DGS Urgent 2022-66*)
+**Administrer dès que possible.**
+
+> Le paxlovid ne semble plus efficace dans une population vaccinée. (*[Mafi et al 2025](https://jamanetwork.com/journals/jama/fullarticle/2830683)*)
 
 #### Indications au Paxlovid
 

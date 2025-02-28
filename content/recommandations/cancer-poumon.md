@@ -137,7 +137,7 @@ Bilan systématique en cas de signes d'alerte ou de symptômes atypiques:
 - Radiographie thoracique face et profil
 - Scanner thoracique avec injection
 
-Puis adresser en semi-urgence en [Centre de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
+Puis adresser en semi-urgence en [Centre de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC).
 
 Le scanner n'élimine pas formellement le diagnostic en cas de forte suspicion diagnostique de cancer du poumon. Intérêt d'avis pneumologique ou oncologique en semi-urgence.
 {.alert .alert-warning}
@@ -219,7 +219,7 @@ L'*ACS* recommande le dépistage chez les sujets éligibles de 50 à 80 ans avec
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Adresser en semi-urgence à l'équipe hospitalière d'oncologie ou pneumologie pour la suite de la prise en charge du cancer du poumon. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
+Adresser en semi-urgence à l'équipe hospitalière d'oncologie ou pneumologie pour la suite de la prise en charge du cancer du poumon. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC).
 
 Le traitement curatif du cancer bronchopulmonaire dépend de la RCP (chirurgie, radiothérapie, chimiothérapie, immunothérapie ± associées). Il doit être démarré dans les 6 semaines qui suivent la réalisation du bilan d'extension.
 

@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-19T15:57:14+02:00"
 publishdate = "2023-10-30"
-lastmod = "2024-04-26"
+lastmod = "2025-02-28"
 specialites = ["infectiologie", "neurologie"]
 annees = "2023"
 sources = ["GPIP", "SPILF", "MinSanté", "DGS"]
@@ -25,8 +25,8 @@ flowchart = true
 
 {{%article-summary%}}
 
-- La méningite est une urgence vitale
-- Signes de méningite bactérienne: fièvre élevée, raideur de la nuque, céphalées, troubles de conscience, purpura, convulsions
+- La méningite est une urgence vitale du fait de l'extrême gravité de toute atteinte infectieuse méningée
+- Signes et symptômes de méningite bactérienne: fièvre élevée, raideur de la nuque, céphalées, troubles de conscience, purpura, convulsions
 - Évaluation rapide des paramètres vitaux, recherche d'un purpura chez le patient déshabillé
 - Devant un purpura fulminans: appel immédiat du SAMU et antibiothérapie par ceftriaxone 1g IM (50/mg/kg chez l'enfant, max 1g), port du masque
 - Transport immédiat si délai d'intervention du SAMU supérieur à 20 minutes (prévenir les *Urgences*)
@@ -46,8 +46,8 @@ Chez l'adulte, 1400 cas annuels de méningites bactériennes avec surtout le **p
 : Un tableau subaigu ou chronique est rare ([syphilis]({{% relref "syphilis.md" %}}), [maladie de Lyme]({{% relref "maladie-lyme.md" %}}), [tuberculose]({{% relref "tuberculose.md" %}})).
 
 Méningocoque
-: Bactérie diplocoque gram-négative (BGN) *Neisseria meningitidis* responsable de nombreuses méningites bactériennes, parfois révélées par un *purpura fulminans*.
-: Le sérogroupe B du méningocoque est le plus souvent responsable des méningites bactériennes.
+: Bactérie diplocoque gram-négative (BGN), *Neisseria meningitidis* est responsable de nombreuses méningites bactériennes, parfois révélées par un *purpura fulminans*.
+: Le sérogroupe B du méningocoque est le premier responsable des méningites bactériennes (45%), suivi des sérogroupes W (30%) et Y (25% -- données 2025).
 
 Purpura fulminans
 : Purpura vasculaire d'extension rapide (quelques minutes à quelques heures). Il signe plus souvent une méningococcémie avec une extrême gravité.
@@ -85,6 +85,9 @@ SPILF
 
 ### Évaluation urgente
 
+Appel du SAMU immédiat dès la suspicion de méningite.
+{.alert .alert-warning}
+
 Déshabiller le patient:
 
 - **Fièvre**, frissons
@@ -95,6 +98,7 @@ Déshabiller le patient:
   - **céphalées** diffuses en casque, résistantes, phonophotophobie, **vomissements** précoces en jet
   - **troubles de la conscience** ou du comportement
   - convulsions
+- Autres signes: arthrites, douleurs abdominales
 - Nourrisson: teint pâle ou gris, bombement de la fontanelle antérieure, raideur ou hypotonie de la nuque, geignements, cris à la mobilisation
 
 Toute convulsion fébrile avant 6 mois nécessite une ponction lombaire en urgence (discutée de 6 à 11 mois).
@@ -113,16 +117,13 @@ Toute convulsion fébrile avant 6 mois nécessite une ponction lombaire en urgen
   - [endocardite infectieuse]({{% relref "endocardite.md" %}})
   - différentielle: [herpès]({{% relref "infections-herpes-virus.md" %}})
 
-Appel du SAMU immédiat dès la suspicion de méningite.
-{.alert .alert-warning}
-
 ### En attendant les secours
 
 > [!WARNING]
-> En cas de purpura fulminans, injection immédiate IV ou à défaut IM de ceftriaxone  
+> En cas de purpura fulminans, injection immédiate IV ou à défaut IM de ceftriaxone:  
 50 mg/kg chez l'enfant (max 1g) et 1g chez l'adulte (*DGS 2018*).
 
-Remplissage vasculaire si disponible et précautions gouttelettes par masque chirurgical.
+**Remplissage vasculaire** si disponible et précautions gouttelettes par masque chirurgical.
 
 Préparer les documents utiles au secours:
 
@@ -249,7 +250,7 @@ Les contacts des **sujets contacts** ne sont pas à risque.
 Antibioprophylaxie et vaccination urgente des << sujets contacts >>:
 
 - Sous 48h, au plus tard 10 jours après le dernier contact
-- Par [rifampicine 2 x 300 mg gél](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67876901&typedoc=R) x 2/j pendant 2 jours
+- Par [rifampicine 600 mg gél](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67876901&typedoc=R) x 2/j pendant 2 jours
   - Enfant: 10 mg/kg (max 600 mg) x 2/j
   - Possible pendant la grossesse, coloration des urines et larmes, interactions médicamenteuses
 - En cas de contre-indication: [ceftriaxone IM 250 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69211366&typedoc=R) dose unique (enfant 125 mg) ou [ciprofloxacine 500 mg cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63431715&typedoc=R) dose unique (enfant à 20 mg/kg max 500 mg)
@@ -272,6 +273,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [DGS-Urgent 2025_06. Augmentation des infections invasives à méningocoques en France. 21/02/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [Journal Officiel. Décret n° 2024-694 du 5 juillet 2024 relatif à l'obligation vaccinale contre les méningocoques de type B et ACWY. 21/07/2023.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047867676)
 - [CMIT. Méningites, méningo-encéphalites, abcès cérébral chez l'adulte et l'enfant. Item 151. Pilly Etudiant. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-151-version2024-copyright-1.pdf)
 - {{< references/calendrier-vaccinal >}}

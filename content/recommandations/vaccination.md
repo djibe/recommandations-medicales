@@ -60,12 +60,12 @@ VVA
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal 2025" "show" %}}
 
-{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Décret n° 2024-694*, *Calendrier vaccinal 2024*, *DGS Urgent* et *HAS 2024* et *2025*." >}}
+{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Décret n° 2024-694*, *Calendrier vaccinal 2024*, *DGS Urgent* et *HAS 2024* et *2025*." class="table-wrap" >}}
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
 |   ~~Né après~~<br>le (suspendu) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance (15)<br>RotaTeq 1/3, Rotarix 1/2 |
-|   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + pneumocoque +<br>DTCaP-Hib-HB selon GPIP/Infovac) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance (15)) |
+|   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + Pneumo 13/15 +<br>DTCaP-Hib-HB GPIP) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance (15)) |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance (15) (15)<br>RotaTeq 3/3 |
 |   5 mois   | Méningo B                                            | Bexsero                                                                   |
 |   6 mois   | Méningo ACWY                                         | Nimenrix                                                                  |
@@ -105,7 +105,7 @@ Possibilité de manger immédiatement avant ou après. [Guide info parent rotavi
 | Coqueluche                       |                       39 ans                        | [Grossesse voire cocooning]({{% relref "coqueluche.md" %}}) |
 | Haemophilus                      |                        5 ans                        | [Asplénie]({{% relref "asplenie.md" %}})               |
 | Hépatite B                       |                       15 ans                        | [Hépatite B]({{% relref "hepatite-b.md" %}})           |
-| Méningocoque ACWY                |                       24 ans                        | Pas de rattrapage après 12 mois chez<br>le nourrisson,<br>dose unique si non fait à 11-14 ans |
+| Méningocoque ACWY                |                       24 ans                        | Pas de rattrapage après 12 mois<br>chez le nourrisson,<br>dose unique si non fait à 11-14 ans |
 | Méningocoque B                   |                       23 mois                       |                                                        |
 | Papillomavirus (HPV)             |                       19 ans                        | [HSH jusqu'à 26 ans]({{% relref "hsh.md" %}})          |
 | Pneumocoque                      |                       23 mois                       | Asplénie, BPCO, cancer,  diabète ...                   |

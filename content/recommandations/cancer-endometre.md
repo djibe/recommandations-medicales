@@ -132,7 +132,7 @@ Le dosage du **marqueur tumoral CA 125** peut être discuté initialement en cas
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de l'endomètre" %}}
 
-Adresser en semi-urgence à l'équipe hospitalière de gynécologie pour la suite de la prise en charge du cancer de l'endomètre. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC). Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP).
+Adresser en semi-urgence à l'équipe hospitalière de gynécologie pour la suite de la prise en charge du cancer de l'endomètre. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC). Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP).
 
 La prise en charge du cancer de l'endomètre repose essentiellement sur la chirurgie avec **hystérectomie totale** et salpingo-ovariectomie bilatérale si la patiente est opérable.
 

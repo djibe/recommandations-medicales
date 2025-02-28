@@ -254,15 +254,15 @@ Prise en charge de l'herpès génital:
 
 - **Primo-infection**: ==[valaciclovir 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68070731&typedoc=R) x 2/j pendant 5 jours==
   - Traitement identique et immédiat pendant la **grossesse** ou PVVIH
-  - Immunodéprimé ou PVVIH CD4 < 200/mm³: valaciclovir 2 x 500 mg x 2/j pendant 10 jours
+  - Immunodéprimé ou PVVIH CD4 < 200/mm³: valaciclovir 1g x 2/j pendant 10 jours
   - 2^e^ intention: [aciclovir 200 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61683272&typedoc=R) x 5/j pendant 5 jours  
   400 mg x 5/j 10j si immunodéprimé ou PVVIH CD4 < 200/mm³.
 - **Récurrence** (dès l'apparition des prodromes): ==valaciclovir 4 x 500 mg espacés de 12 heures sur une seule journée==
   - Pendant la **grossesse**: valaciclovir 500 mg x 2/j pendant 3 jours ou aciclovir 200 mg x 5/j pendant 5 jours
-  - Immunodéprimé ou PVVIH CD4 < 200/mm³: valaciclovir 2 x 500 mg x 2/j pendant au-moins 5 jours ou jusqu'à cicatrisation des lésions  
+  - Immunodéprimé ou PVVIH CD4 < 200/mm³: valaciclovir 1g x 2/j pendant au-moins 5 jours ou jusqu'à cicatrisation des lésions  
     2^e^ intention: aciclovir 400 mg x 5/j ou famciclovir 500 mg x 2/j pendant au-moins 5 jours
   - 2^e^ intention: aciclovir 800 mg x 3/j pendant 2 jours ou valaciclovir 500 mg x 2/j pendant 3 jours ou famciclovir 1g x 2/j pendant 1 jour
-- Si **grossesse**: traitement suppressif de 36 SA (32 si gémellaire) jusqu'à l'accouchement: aciclovir 2 x 200 mg x 3/j ou valaciclovir 500 mg x 2/j
+- Si **grossesse**: traitement suppressif de 36 SA (32 si gémellaire) jusqu'à l'accouchement: aciclovir 400 mg x 3/j ou valaciclovir 500 mg x 2/j
 - Sérologie VIH
 
 Sérologie du partenaire et avis spécialisé si séronégatif.
@@ -302,7 +302,7 @@ Le traitement d'un herpès génital pendant la [grossesse]({{% relref "grossesse
 - Femme sans antécédent d'herpès génital avec conjoint porteur d'herpès génital/buccal: éviter tout contact sexuel/oro-génital
 - **Primo-infection** ou **récurrence** d'herpès génital pendant la grossesse:
   - Traitement classique de l'herpès génital
-  - et prophylaxie antivirale de 36 SA (32 si gémellaire) jusqu'à l'accouchement: aciclovir 2 x 200 mg x 3/j ou valaciclovir 500 mg x 2/j
+  - et prophylaxie antivirale de 36 SA (32 si gémellaire) jusqu'à l'accouchement: aciclovir 400 mg x 3/j ou valaciclovir 500 mg x 2/j
 - Lésions herpétiques pendant le travail (ou suspicion) ou primo-infection génitale récente ( < 6 semaines): **césarienne**
 - Nouveau-né
   - Si antécédent maternel d'herpès génital ou lésions herpétiques génitales: prélèvements oculaires et pharyngés

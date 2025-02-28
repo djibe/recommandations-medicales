@@ -198,7 +198,7 @@ Prise en charge d'un zona non sévère:
 
 Le traitement antiviral doit être débuté en **urgence** dans les 48 à 72 premières heures, avec une bonne hydratation.
 
-[Valaciclovir](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68070731&typedoc=R) 2 x 500 mg 3 fois par jour pendant 7 jours, début immédiat
+[Valaciclovir](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68070731&typedoc=R) 1g 3 fois par jour pendant 7 jours, début immédiat
 {.alert .alert-info}
 
 **Alternatives:** [aciclovir 800 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60111197&typedoc=R) (cp, buvable) x 5/j pendant 7 jours  

@@ -633,17 +633,17 @@ Le traitement hormonal de la ménopause (THM):
 
 - [ANSM. Progestatifs et risque de méningiome : recommandations pour limiter ce risque. 18/12/2023.](https://ansm.sante.fr/actualites/progestatifs-et-risque-de-meningiome-recommandations-pour-limiter-ce-risque)
 - [US Preventive Services Task Force. Hormone Therapy for the Primary Prevention of Chronic Conditions in Postmenopausal Persons: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2797867)
-- [Kremer C et al. European Stroke Organisation guidelines on stroke in women: Management of menopause, pregnancy and postpartum. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/full/10.1177/23969873221078696)
+- [Kremer C, et al. European Stroke Organisation guidelines on stroke in women: Management of menopause, pregnancy and postpartum. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/full/10.1177/23969873221078696)
 - Prescrire Redaction. Troubles liés à la ménopause. Premiers Choix Prescrire. Rev Prescrire. 2022.
-- [Trémollieres F et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000593)
-- [Saxon GDGC et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
+- [Trémollieres F, et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000593)
+- [Saxon GDGC, et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
 - [HAS. Les traitements hormonaux substitutifs de la ménopause. 2004.](https://www.has-sante.fr/jcms/c_272308/fr/les-traitements-hormonaux-substitutifs-de-la-menopause)
 
 ### Bibliographie en attente
 
 - [NICE. Menopause: identification and management. 2024.](https://www.nice.org.uk/guidance/ng23/chapter/Recommendations)
-- [Crandall CJ et al. Management of Menopausal Symptoms: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2801054)
-- [Hocke C et al. Syndrome génito-urinaire de la ménopause (SGUM). RPC les femmes ménopausées du CNGOF et du GEMVi. Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000775)
+- [Crandall CJ, et al. Management of Menopausal Symptoms: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2801054)
+- [Hocke C, et al. Syndrome génito-urinaire de la ménopause (SGUM). RPC les femmes ménopausées du CNGOF et du GEMVi. Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000775)
 - [ACOG. Treatment of Urogenital Symptoms in Individuals With a History of Estrogen-dependent Breast Cancer. 2021.](https://www.acog.org/clinical/clinical-guidance/clinical-Consensus/articles/2021/12/Treatment-of-Urogenital-Symptoms-in-Individuals-With-a-History-of-Estrogen-dependent-Breast-Cancer)
 - {{< references/college-endocrino >}}
 - [ACOG. Postmenopausal Estrogen Therapy Route of Administration and Risk of Venous Thromboembolism. 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/04/postmenopausal-estrogen-therapy-route-of-administration-and-risk-of-venous-thromboembolism)

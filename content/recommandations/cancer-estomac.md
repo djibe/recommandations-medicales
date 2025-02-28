@@ -245,8 +245,8 @@ graph TB
 - [SNFGE. Traitement du RGO. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
 - [HAS et CNPHGE. Diagnostic de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
 - [SFED et CREGG. Prévention du cancer de l'estomac. Fiche de Recommandation sur la prévention des cancers digestifs par endoscopie. 14/03/2014.](https://www.cregg.org/commissions/prevention-des-cancers-par-endoscopie/fiches-de-recommandations-prevention-des-cancers-par-endoscopie/prevention-du-cancer-de-l-estomac-2/)
-- [INCa. Médecins traitants : Acteurs de la prévention du cancer de l'estomac. Février 2013.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Medecins-traitants-Acteurs-de-la-prevention-du-cancer-de-l-estomac)
-- [HAS, INCa. Cancer de l'estomac. Guide ALD. Septembre 2011.](https://www.has-sante.fr/jcms/c_1105137/fr/ald-n-30-cancer-de-l-estomac)
+- [INCa. Médecins traitants : Acteurs de la prévention du cancer de l'estomac. 2013.](https://www.cancer.fr/catalogue-des-publications/medecins-traitants-acteurs-de-la-prevention-du-cancer-de-l-estomac)
+- [HAS, INCa. Cancer de l'estomac. Guide ALD. 2011.](https://www.has-sante.fr/jcms/c_1105137/fr/ald-n-30-cancer-de-l-estomac)
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique - Cancer gastrique diffus héréditaire. 2009. (PDF)](https://www.e-cancer.fr/content/download/58352/531992/file/chir_prophy_predi_gene_gastrique.pdf)
 - [ESMO. Gastric cancer Interactive guidelines.](http://interactiveguidelines.esmo.org/esmo-web-app/gl_toc/index.php?GL_id=42)
 

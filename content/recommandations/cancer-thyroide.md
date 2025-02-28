@@ -151,7 +151,7 @@ Indications au dosage de la calcitonine:
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de la thyroïde" %}}
 
-La prise en charge du cancer de la thyroïde est spécialisée après RCP. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
+La prise en charge du cancer de la thyroïde est spécialisée après RCP. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC).
 
 Mesures associées à la prise en charge des cancers:
 

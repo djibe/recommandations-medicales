@@ -137,7 +137,7 @@ Cette vidéo canadienne explique l'auto-palpation du testicule.
 {{% /collapse %}}
 {{%collapse "Traitement du cancer du testicule" %}}
 
-Le choix du traitement du cancer du testicule dépend de la réunion de concertation pluridisciplinaire (RCP). [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
+Le choix du traitement du cancer du testicule dépend de la réunion de concertation pluridisciplinaire (RCP). [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC).
 
 La prise en charge du cancer du testicule repose toujours sur la **chirurgie** radicale avec **orchidectomie** par voie inguinale. Une prothèse peut être posée durant la chirurgie. Le diagnostic est anatomopathologique sur le testicule retiré.
 

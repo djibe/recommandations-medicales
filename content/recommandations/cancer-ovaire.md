@@ -152,7 +152,7 @@ Néanmoins une ablation opportuniste des trompes de Fallope de façon préventiv
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de l'ovaire" %}}
 
-Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP) et est pluridisciplinaire. [Annuaire des Centres de Lutte contre le Cancer](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie) (CLCC).
+Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP) et est pluridisciplinaire. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC).
 
 La prise en charge du cancer de l'ovaire repose essentiellement sur la chirurgie avec une chimiothérapie adjuvante voire une thérapie ciblée surajoutée (bevacizumab).
 

@@ -196,7 +196,7 @@ Prise en charge d'un abcès cutané:
 - Renforcement des mesures d'hygiène
 - ==Traitement chirurgical: incision-drainage==
 - Antibiothérapie **pendant 5 jours**:
-  - [clindamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69886424&typedoc=R) 2 x 300 mg x 3/j (4/j si poids > 100 kg)
+  - [clindamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69886424&typedoc=R) 600 mg x 3/j (4/j si poids > 100 kg)
   - ou pristinamycine 1g x 3/j
 
 {{% /collapse %}}

@@ -384,8 +384,8 @@ Autres antibiotiques des pneumonies atypiques:
 - Si pénurie: [roxithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65250560&typedoc=R) 150 mg matin et soir pendant 10 jours
 - Si allergie ou contre-indication aux macrolides:
   - [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j pendant ~5 jours
-  - [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R): 2 x 100 mg en 1 prise par jour pendant ~5 jours  
-    < 60 kg: 2 x 100 mg à J1 puis 100 mg/j pendant 6 jours.
+  - [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R): 200 mg en 1 prise par jour pendant ~5 jours  
+    < 60 kg: 200 mg à J1 puis 100 mg/j pendant 6 jours.
   - Dernier recours: lévofloxacine 500 mg en 1 prise par jour pendant ~5 jours
 
 ###### Traitement de la pneumonie atypique de l'enfant {.mt-5}
@@ -404,7 +404,7 @@ En cas de pénurie ou d'allergie:
   - 24-40 kg: 100 mg matin et soir
 - Si allergie ou contre-indication aux macrolides:
   - +6 ans, aussi pour doute sur pneumocoque: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69494932&typedoc=R) 50 mg/kg/j en 2-3 prises pendant 7 jours (cp uniquement)
-  - +12 ans: [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R) 2 x 100 mg à J1 puis 100 mg en 1 prise par jour pendant 6 jours  
+  - +12 ans: [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R) 200 mg à J1 puis 100 mg en 1 prise par jour pendant 6 jours  
     Selon GPIP: 4 mg/kg en 2 prises (max 200 mg/j) à J1 puis 2 mg/kg x 1/j pendant 4 jours
 
 #### PAC avec comorbidité, alcool ou sujet âgé ambulatoire
