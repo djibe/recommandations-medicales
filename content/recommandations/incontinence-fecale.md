@@ -27,7 +27,7 @@ flowchart = true
 - L'incontinence fécale est le passage incontrôlé de selles ou de gaz pendant au moins 3 mois chez un sujet de plus de 4 ans ayant acquis la propreté
 - L'examen clinique recherche la cause et le retentissement: antécédents, examens diététique, neurologique et pelvien
 - La prise en charge de première intention de l'incontinence fécale associe: mesures hygiéno-diététiques avec agenda du transit et adaptations diététiques une par une, régularisation du transit, rééducation pelvienne avec biofeedback, médicaments adaptés selon le transit
-- En cas de doute sur le diagnosic, d'anomalie à l'examen ou de résistance au traitement, le suivi doit être spécialisé par le proctologue
+- En cas de doute sur le diagnostic, d'anomalie à l'examen ou de résistance au traitement, le suivi doit être spécialisé par le proctologue
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

@@ -465,4 +465,8 @@ graph TB
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Afssaps. Antibiothérapie par voie générale dans les infections respiratoires basses de l'adulte. Mise au point. 2010. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/recos/2010-infvrb-spilf-afssaps.pdf)
 
+### Bibliographie en attente
+
+[Dinh A, et al. Update of guidelines for management of community acquired pneumonia in adults by the French infectious disease society (SPILF) and the French-speaking society of respiratory diseases (SPLF). Endorsed by the French intensive care society (SRLF), the French microbiology society (SFM), the French radiology society (SFR) and the French emergency society (SFMU). Infect Dis Now. 2025.](https://www.sciencedirect.com/science/article/pii/S2666991925000132)
+
 {{%/sources%}}

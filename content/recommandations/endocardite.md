@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-08-18T11:07:22+02:00"
 publishdate = "2021-09-07"
-lastmod = "2024-07-05"
+lastmod = "2025-03-03"
 specialites = ["cardiologie"]
 annees = "2023"
 sources = ["ESC"]
@@ -50,13 +50,13 @@ Endocardite infectieuse (EI)
 ### Patients à haut risque d'endocardite infectieuse
 
 1. Antécédent d'endocardite infectieuse
-2. Valve prothétique (mécanique, homogreffe ou bioprothèse)
+2. Valve ou matériel prothétique (mécanique, homogreffe ou bioprothèse, TAVI, clip valvulaire)
 3. Cardiopathie congénitale (sauf anomalie valvulaire isolée)  
-    - Cyanogène non traitée
-    - Matériel prothétique
+    - Cyanogène complexe (ventricule unique, syndrome d'Eisenmenger)
+    - Traitée par matériel prothétique (anastomose systémico-pulmonaire, tube prothétique ou autre prothèse) dans les 6 mois ou à vie si shunt résiduel
 4. Assistance ventriculaire
 
-> -- *ESC 2023*
+> -- *HAS 2024* et *ESC 2023*
 {{%/info%}}
 
 ### Patients à risque intermédiaire d'endocardite infectieuse
@@ -69,10 +69,18 @@ Endocardite infectieuse (EI)
 
 ### Chirurgies dentaires à risque chez le sujet à haut risque d'endocardite
 
-- Manipulation de la région gingivale ou péri-apicale de la dent
-- Perforation de la muqueuse orale
+Actes dentaires contre-indiqués:
 
-> -- *ESC 2015*
+- Coiffage pulpaire en denture permanente mature
+- Pulpectomie des dents temporaires
+- Toute technique de chirurgie avec utilisation d’une membrane de régénération osseuse
+- Tout traitement de la péri-implantite
+
+> -- *HAS 2024*
+
+Actes bucco-dentaires invasifs **nécessitant une antibioprophylaxie**: voir HAS 2024 page 9.
+
+Actes ne nécessitant pas d'antibioprophylaxie: anesthésie locale en site non inflammatoire, radiographie intrabuccale, préparation prothétique, pose d'une digue dans un contexte de gencive non inflammatoire, soins restaurateurs sans atteinte pulpaire, prise d'empreinte, mise en place et dépose de dispositifs orthodontiques collés ou scellés supra-gingivaux, dépose des fils de suture.
 
 Lors des autres gestes invasifs ([coloscopie]({{% relref "cancer-colorectal.md" %}}), endoscopie bronchique, urétéroscopie ...), l'antibioprophylaxie pourrait être considérée.
 
@@ -150,7 +158,7 @@ Prise orale unique (voire IV) 30-60 minutes avant le geste invasif à risque:
 Amoxicilline 2 g (50 mg/kg chez l'enfant)
 {{%/info%}}
 
-**Si allergie:** azithromycine 500 mg (15 mg/kg chez l'enfant - *HAS 2024*)
+**Si allergie:** azithromycine 500 mg (20 mg/kg chez l'enfant -- *HAS 2024*) ou pristinamycine 1g (25 mg/kg chez l'enfant).
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour les personnes à risque d'endocardite" "show" %}}
@@ -169,15 +177,12 @@ graph TB
 
 Pour le traitement des endocardites infectieuses, lire *ESC 2023*.
 
-- [Delgado V et al. 2023 ESC Guidelines for the management of endocarditis. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad193/7243107)
+- [Le Moing V, et al. Antibiotic therapy and prophylaxis of infective endocarditis - A SPILF-AEPEI position statement on the ESC 2023 guidelines. Infectious Diseases Now. 2025.](https://www.sciencedirect.com/science/article/pii/S2666991924001787)
+- [HAS. Prise en charge bucco-dentaire des patients à haut risque d'endocardite infectieuse. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3301328/fr/prise-en-charge-bucco-dentaire-des-patients-a-haut-risque-d-endocardite-infectieuse)
+- [Delgado V, et al. 2023 ESC Guidelines for the management of endocarditis. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad193/7243107)
 - [Duval X, Iung B. Prophylaxie de l'endocardite infectieuse. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/j.amcp.2021.03.003)
 - [CMIT. Endocardite infectieuse. Item 152. ECN.Pilly 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-152-web.pdf)
 - [Collège National des Enseignants de Cardiologie. Endocardite infectieuse. Item 149 - UE6. Cardiologie 2e édition. 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch11_endocardite.pdf)
 - [Habib H et al. 2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC) Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). European Heart Journal. 2015.](https://academic.oup.com/eurheartj/article/36/44/3075/2293384)
-
-### Bibliographie en attente
-
-- [Le Moing V, et al. Antibiotic therapy and prophylaxis of infective endocarditis - A SPILF-AEPEI position statement on the ESC 2023 guidelines. Infectious Diseases Now. 2025.](https://www.sciencedirect.com/science/article/pii/S2666991924001787)
-- [HAS. Prise en charge bucco-dentaire des patients à haut risque d'endocardite infectieuse. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3301328/fr/prise-en-charge-bucco-dentaire-des-patients-a-haut-risque-d-endocardite-infectieuse)
 
 {{%/sources%}}

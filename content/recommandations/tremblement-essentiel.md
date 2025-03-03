@@ -18,7 +18,7 @@ icd10 = ["G25.0"]
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow > Kanban"
+todo = "descr > summary > liens > photo > newsletter > flow > Kanban | statement 2018 src1 International Parkinson and Movement Disorder Society, AAN src96-97"
 +++
 
 {{%article-summary%}}
@@ -28,41 +28,98 @@ TODO: (at the end)
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
+Tremblement essentiel
+: Syndrome de tremblement d'action postural ou cinétique isolé atteignant les extrémités supérieures bilatérales depuis au moins trois ans. L'aggravation est progressive mais moins de 10% deviennent handicapés à long terme.
+: Mouvement anormal parmi les plus fréquents chez l'adulte (1%, 4 à 5% après 65 ans), il peut exister à tout âge. L'examen neurologique est normal par ailleurs.
+
 ### Abréviations
 
-ACG
-: {{%lang%}}American College of Gastroenterology{{%/lang%}}
 {.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+- Maladie de Parkinson
+- Tremblement isolé:
+  - des membres supérieur à 12 Hz
+  - de la tête: dystonie cervicale
+  - de la voix: [dystonie laryngée]({{< relref "dysphonie.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+Le diagnostic du tremblement essentiel est clinique.
+
 ### Interrogatoire
 
+- Antécédents: Parkinson (6% associés), dystonies (7% associées)
+- **Antécédents familiaux** de tremblement essentiel (50%)
+- Installation insidieuse et ancienneté des symptômes
+- Signes et symptômes du tremblement essentiel:
+  - **Tremblement d'action** postural ou cinétique sans tremblement de repos
+  - Bilatéral et quasi symétrique distal des bras
+  - Rapide (8 à 12 Hz)
+  - Amélioré par le repos, l'**alcool** (1 patient sur 2) et les bêtabloquants
+  - Aggravé par le stress, la caféine ou la privation de sommeil
+  - Autres localisations possibles: **voix** (femme), **tête** (26%, âge avancé, femmes, disparaît allongé) voire les jambes
+  - Autres symptômes: troubles de l'équilibre, hypoacousie (39%), troubles du sommeil (46%), fatigue (30%)
+  - Sans autres signes neurologiques dystoniques, ataxiques ou parkinsoniens
+- Le << **tremblement essentiel plus** >> ajoute: troubles cognitifs légers, trouble psychiatrique, dystonie et hypoacousie
+- Retentissement sur les activités
+- Qualité de vie
+- Anxiété (66%) et dépression (44%) TODO:
+- MOCA TODO: ?
+
+**NB.** Un tremblement de repos est possible en cas d'évolution longue. Un tremblement du **menton** est rare et surtout après phonation intensive.
+
 ### Examen clinique
+
+- Pression artérielle, fréquence cardiaque
+- Examen neurologique complet, notamment extra-pyramidal
+
+Tremblement postural asynchrone des membres, surtout de type flexion-extension aux poignets, réduit en portant un objet à 2 mains.
+
+Tremblement d'intention à l'épreuve doigt-nez (25% versus 4% chez le parkinsonien) avec souvent un tremblement de tête (20% versus 0%).
+
+Tremblement de la tête augmenté après 10-15 secondes en vocalisant un "A" soutenu.
+
+Test de graphisme de spirales.
+
+TODO: Table1p6
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+TODO: biologie
+
+Une IRM cérébrale pourrait être considérée pour éliminer un diagnostic différentiel, surtout en cas de signes neurologiques conjoints.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
+Traitements de 1re intention: propranolol LP 10-360 mg/j (sélectif aténolol 100 mg/j), [primidone](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65201684&typedoc=R) 25-750 mg/j (Mysoline hors AMM)
+
+Réponse faible (50%). Absence de réponses aux autres bêtabloquants.
+
+Échec: association.
+
+Autres traitements prescriptibles par le neurologue: topiramate 25-400 mg/j, gabapentine 100-3600 mg/j, alprazolam, clonazepam, clozapine.
+
+Atteinte sévère: toxine botulique, stimulation cérébrale profonde.
 
 {{% /collapse %}}
 {{%sources%}}
 
-[Shanker V. Essential tremor: diagnosis and management. BMJ. 2019.](https://www.bmj.com/content/366/bmj.l4485)
+- [Shanker V. Essential tremor: diagnosis and management. BMJ. 2019.](https://www.bmj.com/content/366/bmj.l4485)
+- [HAS. Maladie de Parkinson. Guide du parcours de soins. 2016.](https://www.has-sante.fr/jcms/c_1242645/fr/guide-parcours-de-soins-maladie-de-parkinson)
 
 ### Bibliographie en attente
 
 - Collège
-- [HAS. Maladie de Parkinson. Guide du parcours de soins. 2016.](https://www.has-sante.fr/jcms/c_1242645/fr/guide-parcours-de-soins-maladie-de-parkinson)
 - [Berardelli A, et al. EFNS/MDS-ES recommendations for the diagnosis of Parkinson's disease. Eur J Neurol. 2013.](https://onlinelibrary.wiley.com/doi/10.1111/ene.12022)
 - Prescrire
 - Cochrane
 - Minerva
 - Cismef
-- NICE Clinical guidance
 
 {{%/sources%}}

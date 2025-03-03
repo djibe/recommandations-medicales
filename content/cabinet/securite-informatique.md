@@ -30,15 +30,15 @@ Les logiciels présentés plus bas peuvent être installés avec **UnigetUI**.
 
 > Les informations ci-dessous proviennent des comparatifs d'antivirus [AV-Test](https://www.av-test.org/fr/) et [AV-Comparatives](https://www.av-comparatives.org/consumer/).
 
-L'antivirus par défaut de Windows, **Microsoft Defender** assure une protection efficace. Il faut néanmoins s'assurer qu'il est bien actif: dans le menu Démarrer, tapez << Sécurité Windows >> et cliquer sur l'application correspondante. Aller dans **Protection contre les virus et les menaces** et vérifier que tous les modules sont activés.
+L'antivirus par défaut de Windows, **Microsoft Defender** assure une protection efficace en dehors de pérégrinations sur internet. Il faut néanmoins s'assurer qu'il est bien actif: dans le menu Démarrer, tapez << Sécurité Windows >> et cliquer sur l'application correspondante. Aller dans **Protection contre les virus et les menaces** et vérifier que tous les modules sont activés.
 
-Antivirus gratuits alternatifs: Avast Free, AVG Free, Bitdefender Free. Les mêmes antivirus gratuits sont recommandés sur le téléphone portable (disponibles depuis **UnigetUI**). Malwarebytes Antimalware est également intéressant pour faire des scans occasionnels.
+Antivirus gratuits alternatifs: [Avast Free](https://www.avast.com/fr-fr/free-antivirus-download#pc), [AVG Free](https://www.avg.com/fr-fr/free-antivirus-download#pc), [Bitdefender Free](https://www.bitdefender.com/fr-fr/consumer/free-antivirus) (disponibles depuis **UnigetUI**). Les mêmes antivirus gratuits sont recommandés sur le téléphone portable. Malwarebytes Antimalware est également intéressant pour faire des scans occasionnels.
 
 **Antivirus payants** de haute protection: Avira, Bitdefender, GDATA, McAfee.
 
-> L'antivirus russe *Kaspersky* n'est pas cité selon les [préconisations de l'ANSSI](https://www.cert.ssi.gouv.fr/cti/CERTFR-2022-CTI-001/) (Agence nationale de la sécurité des systèmes d'information).
+> L'antivirus russe *Kaspersky* n'est pas cité, selon les [préconisations de l'ANSSI](https://www.cert.ssi.gouv.fr/cti/CERTFR-2022-CTI-001/) (Agence nationale de la sécurité des systèmes d'information).
 
-Sur Mac, un antivirus peut être ajouté, et les grands noms sont tous efficaces: Avast Free, AVG Free, Avira, Bitdefender, Trend Micro.
+Sur Mac, un antivirus peut être ajouté, et les grands noms sont tous efficaces: [Avast Free](https://www.avast.com/fr-fr/free-mac-security), [AVG Free](https://www.avg.com/fr-fr/avg-antivirus-for-mac), [Avira Free](https://www.avira.com/fr/free-antivirus-mac), [Bitdefender Free](https://www.bitdefender.com/fr-fr/consumer/virus-scanner-for-mac), Trend Micro.
 
 Sur mobile, les mêmes noms DOIVENT être utilisés.
 

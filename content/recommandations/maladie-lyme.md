@@ -7,7 +7,7 @@ synonyms = ["Borréliose de Lyme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-30T18:17:39+02:00"
 publishdate = "2021-10-02"
-lastmod = "2024-02-02"
+lastmod = "2025-03-03"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2023"
 sources = ["GPIP", "HAS", "DGS"]
@@ -27,7 +27,7 @@ flowchart = true
 - Zones à risque de tiques infectées: métropole entière (surtout Alsace, Lorraine, Limousin)
 - Mesures de prévention des piqûres de tique en forêt puis inspection au retour (voir *Prévention*)
 - Prise en charge d'une piqûre de tique: pince ou tire-tique, auto-surveillance pendant 30 jours, [signaler la piqûre](https://tiquotheque.fr/signalement/public/)
-- Recommandations pour la prise en charge d'un érythème migrant: survenue dans les 30 jours de la piqûre, diagnostic clinique, antibiothérapie 14 jours, contrôle de la guérison à J14
+- Recommandations pour la prise en charge d'un érythème migrant: survenue dans les 30 jours de la piqûre, diagnostic clinique, antibiothérapie 10 jours, contrôle de la guérison à J10
 - En cas de [paralysie faciale]({{% relref "paralysie-faciale-idiopathique.md" %}}) ou de [péricardite]({{% relref "pericardite-aigue.md" %}}) idiopathique: sérologie borréliose systématique
 - Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose (complication neurologique de la maladie de Lyme)
 
@@ -155,7 +155,7 @@ La découverte fortuite d'une sérologie de Lyme positive sans signes évocateur
 
 ### Érythème migrant
 
-Antibiothérapie de tout érythème migrant sans aucun examen complémentaire
+Antibiothérapie de tout érythème migrant sans aucun examen complémentaire.
 {.alert .alert-info}
 
 - Notion de piqûre locale de tique voire trace de la piqûre (inconstante)
@@ -267,11 +267,11 @@ Le contrôle de la guérison d'une maladie de Lyme est clinique. Des taux élev�
 
 Recommandations pour la prise en charge de l'érythème migrans après piqûre de tique:
 
-- Surveillance clinique de la guérison à J14
+- Surveillance clinique de la guérison à J10
 - Photos avant et évolution sous traitement
 - Disparition complète de l'érythème en 1 semaine à 1 mois  
   Persistance à 1 mois: observance de l'antibiotique, étude d'un diagnostic différentiel, **avis dermatologique**.
-- Traitement identique en érythèmes migrants multiples (EMM)
+- En cas d'érythèmes migrants multiples (EMM): traitement de 14 jours
 
 L'antibiothérapie de référence de la maladie de Lyme au stade de l'érythème migrant est la doxycycline (et l'amoxicilline avant 8 ans).
 
@@ -279,21 +279,24 @@ L'antibiothérapie de référence de la maladie de Lyme au stade de l'érythème
 
 #### Choix de l'antibiotique pour un érythème migrant
 
-Antibiothérapie pendant **14 jours**:
+Antibiothérapie de l'érythème migrant (par niveau d'intention):
 
-- Adulte: [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R) 100 mg x 2/j  
-  2^e^ ligne ou grossesse: amoxicilline 1 g x 3/j.
-- Enfant ≥ 8 ans: doxycycline 4 mg/kg/j (max 100 mg/prise et 200 mg/j) en 2 prises pendant 14 à 21 jours  
-  2^e^ ligne: amoxicilline 50 mg/kg/j (max 3 g/j) en 3 prises.
-- Enfant < 8 ans: amoxicilline 50 mg/kg/j (max 3 g/j) en 2-3 prises  
-  2^e^ ligne: azithromycine 20 mg/kg/j (max 500 mg/j) pendant 10 jours.
+1. [Doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R) 100 mg x 2/j pendant 10 jours (14 si EM multiples)  
+  Même pendant la grossesse ou l'allaitement ([CRAT](https://www.lecrat.fr/6396/)).
+2. Amoxicilline 50 mg/kg/j (max 4 g/j) toutes les 8 heures pendant 14 jours
+3. Azithromycine 1g à J1 puis 500 mg x 1/j de J2 à J5 pendant 5 jours
+
 {{%/info%}}
+
+Antibiothérapie de l'EM de l'enfant:
+
+1. Enfant ≥ 20 kg: doxycycline 4 mg/kg/j (max 100 mg/prise et 200 mg/j) en 2 prises pendant 10 jours (14 si EM multiples)
+2. Amoxicilline 50 mg/kg/j (max 4 g/j) toutes les 8 heures pendant 14 jours
+3. Azithromycine 20 mg/kg x 1/j (max 500 mg/j) pendant 5 jours
 
 ### Traitement du lymphocytome borrélien
 
-Prise en charge du lymphocytome borrélien avec des posologies identiques.
-
-Antibiothérapie pendant 21 jours sauf enfant de moins de 8 ans avec l'azithromycine: 10 jours.
+Prise en charge du lymphocytome borrélien avec des posologies identiques. L'antibiothérapie dure **21 jours** (sauf enfant de moins de 8 ans avec l'azithromycine: 10 jours).
 
 Traitement par l'**infectiologue** des autres formes de borréliose.
 
@@ -302,7 +305,7 @@ Traitement par l'**infectiologue** des autres formes de borréliose.
 
 {{< mermaid title="Prise en charge de l'érythème migrant par le médecin généraliste. Dr JB Fron d'après HAS et SFR" >}}
 graph TB
-  suspicion["<b>Piqûre de tique</b><br>—<br>- Extraction au tire-tique<br>- Inspection du reste du corps<br>- Auto-surveillance 30 jours"] -- "Sous 3-30 jours" --> érythème("<b>Érythème migrant</b><br>—<br>Large macule rosée:<br>- Antibiothérapie<br>doxycycline 100 mg x 2/j<br>- Photos<br>- Signalement de tique<br>- Mesure de prévention<br>- Forestier: déclaration MP") -- J14 --> contrôle(Contrôle clinique) -. Persistance .-> dermatologue(Dermatologue)
+  suspicion["<b>Piqûre de tique</b><br>—<br>- Extraction au tire-tique<br>- Inspection du reste du corps<br>- Auto-surveillance 30 jours"] -- "Sous 3-30 jours" --> érythème("<b>Érythème migrant</b><br>—<br>Large macule rosée:<br>- Antibiothérapie<br>doxycycline 100 mg x 2/j 10j<br>- Photos<br>- Signalement de tique<br>- Mesure de prévention<br>- Forestier: déclaration MP") -- J10 --> contrôle(Contrôle clinique) -. Persistance .-> dermatologue(Dermatologue)
     suspicion -- Surveillance normale --> rien("Absence d'évolution sous<br>30 jours")
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
@@ -310,6 +313,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques (MVT). 2025.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques-mvt)
+- [SPILF. Info-antibio N°103. Février 2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2025-02-lyme.pdf)
 - [Gillet Y, et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)
 - {{< references/voyageur >}}
 - [CMIT. Zoonoses. Item 173. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-173.pdf)
@@ -322,7 +327,7 @@ graph TB
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Santé Publique France. Borréliose de Lyme.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-transmission-vectorielle/borreliose-de-lyme)
 
-### Bibliographie en attente
+### Bibliographie pour en savoir plus
 
 - [Lantos PM, et al. Clinical Practice Guidelines by the Infectious Diseases Society of America, American Academy of Neurology, and American College of Rheumatology: 2020 Guidelines for the Prevention, Diagnosis, and Treatment of Lyme Disease. Neurology. 2021.](https://pubmed.ncbi.nlm.nih.gov/33257476/)
 - [Mygland Å, et al. EFNS guidelines on the diagnosis and management of European Lyme neuroborreliosis. European Journal of Neurology. 2010.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2009.02862.x)

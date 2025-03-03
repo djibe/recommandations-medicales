@@ -4,11 +4,7 @@ import pandas as pd
 import json
 
 # Charger le fichier CSV
-df = pd.read_csv('OPEN_BIO_2023.CSV', sep=';', encoding='windows-1252')
-
-# Modifier la colonne "REM": enlever les "." et remplacer la virgule "," par un point "."
-df['REM'] = df['REM'].str.replace('.', '').str.replace(',', '.')
-df['REM'] = pd.to_numeric(df['REM'])
+df = pd.read_csv('OPEN_BIO_2023.CSV', sep=';', thousands='.', decimal=',')
 
 # Supprimer les lignes contenant "forfait" dans la colonne "L_ACTE"
 df = df[~df['L_ACTE'].str.contains('forfait|cotation minimale', case=False, na=False)]

@@ -256,8 +256,8 @@ Prise en charge de l'herpès génital:
   - Traitement identique et immédiat pendant la **grossesse** ou PVVIH
   - Immunodéprimé ou PVVIH CD4 < 200/mm³: valaciclovir 1g x 2/j pendant 10 jours
   - 2^e^ intention: [aciclovir 200 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61683272&typedoc=R) x 5/j pendant 5 jours  
-  400 mg x 5/j 10j si immunodéprimé ou PVVIH CD4 < 200/mm³.
-- **Récurrence** (dès l'apparition des prodromes): ==valaciclovir 4 x 500 mg espacés de 12 heures sur une seule journée==
+  400 mg x 5/j 10 jours si immunodéprimé ou PVVIH CD4 < 200/mm³.
+- **Récurrence** (dès l'apparition des prodromes): ==valaciclovir 2000 mg x 2/j pendant 1 jour==
   - Pendant la **grossesse**: valaciclovir 500 mg x 2/j pendant 3 jours ou aciclovir 200 mg x 5/j pendant 5 jours
   - Immunodéprimé ou PVVIH CD4 < 200/mm³: valaciclovir 1g x 2/j pendant au-moins 5 jours ou jusqu'à cicatrisation des lésions  
     2^e^ intention: aciclovir 400 mg x 5/j ou famciclovir 500 mg x 2/j pendant au-moins 5 jours
@@ -273,7 +273,7 @@ Sérologie du partenaire et avis spécialisé si séronégatif.
 
 Indications à la prophylaxie antivirale pour l'herpès génital:
 
-- Au moins 4 à 6 récidives annuelles
+- Au moins 4 à 6 **récidives** annuelles
 - Altération importante de la qualité de vie
 - Risque de transmission au partenaire
 - Épisodes sévères
@@ -282,7 +282,7 @@ Schéma de prophylaxie antivirale de l'herpès génital: ==valaciclovir 500 mg x
 
 #### Précisions sur la prophylaxie antivirale
 
-- En cas de persistance à mois: passer à 2 prises quotidiennes
+- En cas de persistance à 6 mois: passer à 2 prises quotidiennes
 - En 2^e^ intention: aciclovir 400 mg x 2/j (x 3/j si persistance à 6 mois) voire famciclovir 250 mg x 2/j
 - PVVIH: aciclovir 400 mg x 2/j (3/j si persistance à 6 mois) ou valaciclovir 500 mg x 2/j  
   En 3^e^ intention: famciclovir 500 mg x 2/j.
@@ -365,6 +365,6 @@ Pour en savoir plus, les critères d'hospitalisation de la kératite herpétique
 - Herpès labial  
   aciclovir 5% crème 1 application x 5/j pendant 5 à 10 jours
 - Herpès génital  
-  valaciclovir 4 x 500 mg espacés de 12 heures sur une seule journée
+  valaciclovir 2000 mg x 2/j sur une seule journée
 
 {{% /modele %}}
