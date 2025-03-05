@@ -134,7 +134,7 @@ OU [kétoconazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDo
 {.alert .alert-info}
 
 **Effets indésirables:** prurit, sensation de brûlure, xérose cutanée, interactions médicamenteuses.  
-Seul le kétoconazole topique p²eut être utilisé [pendant la grossesse](https://www.lecrat.fr/7564/).
+Seul le kétoconazole topique peut être utilisé [pendant la grossesse](https://www.lecrat.fr/7564/).
 
 Autres produits: gluconate de lithium 8% (Lithioderm®), climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine (ex: *DOP antipelliculaire*), pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
 

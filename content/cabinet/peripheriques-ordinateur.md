@@ -29,7 +29,7 @@ Imprimantes choisies par 01Net et UFC Que Choisir.
 
 Imprimantes laser monochromes Wi-Fi (non multifonction) permettant d'utiliser des **toners compatibles moins chers** (ex: 20€ contre les 80€ officiels grâce aux boutiques *CartoucheMania*, *Tinkco*, *Toner.fr* ...), triées par note *UFC Que Choisir* et mon coup de cœur en premier:
 
-- [Choix: Brother HL-L2400DW (vitesse, petite taille, R/V, coût d'utilisation) - 100€](https://ledenicheur.fr/product.php?p=12328918)
+- [Choix: Brother HL-L2400DW (vitesse, petite taille, R/V, coût d'utilisation) - 130€](https://www.idealo.fr/prix/203365753/brother-hl-l2400dw.html)
 - [Brother HL-L2375DW (idem + réseau) - 160€](https://ledenicheur.fr/product.php?p=4533630)
 - [HP Laser 107W - 200€](https://ledenicheur.fr/product.php?p=5184291)
 - Canon i-Sensys LBP113w (pas de toners compatibles ++, réseau)
@@ -84,7 +84,7 @@ Si le son ne vous convient pas, vous pourrez investir dans des écouteurs, casqu
 Si vous avez de bons yeux, **l'écran doit être de résolution WQHD** (aussi appelé QHD affichant 2560 x 1440 pixels).
 
 {{%info%}}
-Mon choix: [Dell S2721DS](https://ledenicheur.fr/product.php?p=5485696) (élégant avec un son de bonne qualité)
+Mon choix: [Dell S2725DS](https://www.idealo.fr/prix/204156921/dell-s2725ds.html) (élégant avec un son de bonne qualité)
 
 Autres modèles QHD ou 4K [parmi cette liste](https://ledenicheur.fr/c/ecrans?1705=2717&528=834&544=13606%7C16660&b_1624=1&b_3453=1&r_89=27-28&sort=price_includes_shipping) (vérifiez les critères cités plus haut pour le pied réglable etc ...).
 {{%/info%}}
@@ -114,19 +114,17 @@ Classement composite d'après *LesNumerique*, *01Net* et autres, par ordre de qu
 ### Souris
 
 - [Logitech MX Master 3S - 90€ (grandes mains)](https://www.idealo.fr/prix/201968115/logitech-mx-master-3s-graphite.html)
-- [Logitech MX Anywhere 3S - 66€ (petites mains)](https://www.idealo.fr/prix/202837261/logitech-mx-anywhere-3s-graphite.html)
-- [Logitech MX Anywhere 2S - 55€ (petites mains)](https://ledenicheur.fr/product.php?p=4354037)
-- [Steelseries Rival 3 Wireless - 40€](https://ledenicheur.fr/product.php?p=5576780)
+- [Logitech MX Anywhere 3S - 70€ (petites mains)](https://www.idealo.fr/prix/202837261/logitech-mx-anywhere-3s-graphite.html)
+- [Logitech MX Anywhere 2S - 60€ (petites mains)](https://www.idealo.fr/prix/5638763/logitech-mx-anywhere-2s-noir.html)
+- [Steelseries Rival 3 Wireless - 35€](https://www.idealo.fr/prix/200719135/steelseries-rival-3-wireless.html)
 - [Razer Pro Click Mini - 80€ (petites mains)](https://ledenicheur.fr/product.php?p=5935454)
-- [Logitech G Pro Wireless - 80€](https://ledenicheur.fr/product.php?p=4960533)
-- [Microsoft Classic Intellimouse - 35€](https://ledenicheur.fr/product.php?p=4526662)
 {.list-group}
 
 Souris ergonomiques (par 01Net): [Logitech Lift (60 €)](https://ledenicheur.fr/product.php?p=6220032), R-Go HE Break, [Trust Verto Wireless (20 €)](https://fr.shopping.rakuten.com/offer/buy/3316798081/trust-verto-souris.html?bbaid=13044726097&t=6862148&eff_cpt=21749386)
 
 ### Ensembles clavier-souris
 
-- [Logitech Mx Keys S Combo - 190€](https://www.idealo.fr/prix/202842126/logitech-mx-keys-s-combo-fr.html)
+- [Logitech MX Keys S Combo - 190€](https://www.idealo.fr/prix/202842126/logitech-mx-keys-s-combo-fr.html)
 - [Cherry DW 9100 Slim - 90€ (aussi en gris)](https://ledenicheur.fr/product.php?p=5937326)
 - [Logitech MK850 - 90€](https://ledenicheur.fr/product.php?p=4137179)
 - [Logitech MK470 - 50€](https://ledenicheur.fr/product.php?p=5205505)

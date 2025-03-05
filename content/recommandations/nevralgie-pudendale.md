@@ -7,10 +7,10 @@ synonyms = ["Syndrome de compression du nerf pudendal", "neuropathie pudendale",
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-02-13T17:18:01+01:00"
 publishdate = "2025-02-14"
-lastmod = "2025-02-14"
+lastmod = "2025-03-05"
 specialites = ["neurologie"]
-annees = "2020"
-sources = ["Orphanet"]
+annees = "2022"
+sources = ["Bibliographie"]
 tags = ["douleur pelvienne", "neuropathie"]
 english = ["Pudendal neuralgia"]
 sctid = "427972000"
@@ -27,7 +27,7 @@ todo = "flow"
 - Les symptômes de névralgie pudendale sont dominés par des douleurs neuropathiques périnéales survenant ou aggravées en position assise, soulagées debout ou allongé avec souvent des troubles urinaires et sexuels
 - L'examen clinique pelvien et périnéal est complet avec touchers vaginaux et rectoscopie
 - Le bilan avec une IRM pelvienne et lombo-sacrée recherche un diagnostic différentiel
-- Adresser toute suspicion de névralgie pudendale au spécialiste (proctologue, algologue) pour test diagnostique de bloc nerveux anesthésique
+- Adresser toute suspicion de névralgie pudendale au spécialiste (proctologue, algologue) pour rectoscopie et test diagnostique de bloc nerveux anesthésique
 - La prise en charge de la névralgie pudendale associe: kinésithérapie, antalgie des douleurs neuropathiques (amitriptyline, duloxétine, gabapentine) voire TENS, chirurgie de décompression ou stimulation du cône médullaire
 
 {{%/article-summary%}}
@@ -41,7 +41,7 @@ Névralgie pudendale
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Autres diagnostics à rechercher devant un tableau d'algie pelvienne:
+Autres diagnostics à rechercher devant un tableau d'algie pelvienne chronique:
 
 - Neuropathie des nerfs voisins (ilio-inguinal, génitofémoral, clunéal inférieur)  
   Douleurs neuropathiques avec hypo/hyperesthésie, paresthésies supéro-internes de cuisse, du pubis, scrotum latéral et grande lèvre, augmentées lors de la palpation.
@@ -49,17 +49,19 @@ Autres diagnostics à rechercher devant un tableau d'algie pelvienne:
 - Coccygodynie  
   Douleur en pression de la pointe du coccyx.
 - Proctalgie fugace  
-  Douleurs paroxystiques, rythme variable, également nocturnes.
+  Douleurs paroxystiques, rythme variable, également nocturnes, examen normal.
 - Syndromes myofasciaux des muscles fessiers profonds  
   Muscles piriforme, muscle obturateur interne, élévateur de l'anus.
 - Dermatoses inflammatoires  
-  Psoriasis, lichen vulvaire.
+  [Psoriasis]({{< relref "psoriasis.md" >}}), lichen vulvaire.
 - Vestibulodynie  
   Douleur déclenchée uniquement aux rapports sexuels.
 - Uréthralgie chronique, syndrome de douleur vésicale  
   Douleur fluctuante avec la miction.
 - Lésion proctologique  
   [Fissure anale]({{% relref "fissure-anale.md" %}}), [hémorroïdes]({{% relref "hemorroides.md" %}}).
+- MICI
+- Tumeurs pelviennes
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -103,7 +105,8 @@ L'examen clinique est **strictement normal**:
 - Examen du tonus sphinctérien
 - Territoire sensitif: anal, vulvovaginal (dont clitoris) et pénien, scrotum superficiel (testicules épargnés)
 
-**NB.** Une **rectoscopie** est requise.
+Une **rectoscopie** est requise.
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -117,9 +120,9 @@ Un bilan d'[infection sexuellement transmissible](/tags/ist/) peut être propos�
 
 ### IRM pelvienne et lombo-sacrée
 
-Le bilan de la névralgie pudendale comprend une **IRM pelvienne et lombo-sacrée** étudiant le trajet du nerf pudendal, à la recherche d'une inflammation et d'un diagnostic différentiel.
+Le bilan de la névralgie pudendale comprend une **IRM pelvienne et lombo-sacrée** étudiant le trajet du nerf pudendal, à la recherche d'une inflammation et d'un **diagnostic différentiel**.
 
-Une imagerie normale n'infirme pas le diagnostic.
+**NB.** Une imagerie normale n'infirme pas le diagnostic.
 
 > [!INFO]
 > L'électromyogramme n'est pas utile, car douloureux et le plus souvent normal, l'examen n'étant pas réalisé assis lorsque les douleurs sont présentes.
@@ -143,7 +146,11 @@ Autres traitements spécialisés de la douleur: bloc nerveux (également test di
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="DoZD-WV75RU" title=" Traitements de la névralgie pudendale (CREGG)" >}}
+
+- [Pigot F, Levesque A. Névralgie pudendale, une démarche diagnostique initiale d'élimination ?. La Revue Colo-Proctologie. 2022.](https://larevue.snfcp.org/chapitre-2-nevralgie-pudendale-une-demarche-diagnostique-initiale-delimination/)
 - [Levesque A. Syndrome de compression du nerf pudendal. Orphanet. 2020.](https://www.orpha.net/fr/disease/detail/60039)
+- [Siproudhis L. Névralgie pudendale ou Syndrome du canal d'Alcock. Société Nationale Française de Colo-Proctologie. 2019.](https://www.snfcp.org/informations-maladies/divers/nevralgie-pudendale-syndrome-canal-dalcock/)
 - [Pérez-López FR, Hita-Contreras F. Management of pudendal neuralgia. Climacteric. 2014.](https://www.tandfonline.com/doi/10.3109/13697137.2014.912263)
 - [Benson JT, Griffis K. Pudendal neuralgia, a severe pain syndrome. Am J Obstet Gynecol. 2005.](https://www.ajog.org/article/S0002-9378(05)00172-9/abstract) (payant)
 

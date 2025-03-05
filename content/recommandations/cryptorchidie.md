@@ -23,10 +23,9 @@ flowchart = true
 
 {{%article-summary%}}
 
-- La cryptorchidie est la localisation inaboutie du testicule soit par obstacle à sa descente intra-abdominale, soit par descente incomplète
-- Dépistage systématique de la cryptorchidie: palper les bourses de tous les petits garçons (2 à 4% atteints)
-- La chirurgie d'un testicule cryptorchide est réalisée idéalement à partir d'un an
-- Surveillance post-opératoire du testicule pendant un an (risque d'atrophie testiculaire)
+- La cryptorchidie est un testicule non descendu, soit par obstacle à sa descente intra-abdominale, soit par descente incomplète
+- Dépistage systématique de la cryptorchidie: palper les bourses de tous les petits garçons (prévalence de 2 à 4%)
+- La chirurgie d'un testicule cryptorchide est réalisée idéalement à partir d'un an avec surveillance post-opératoire du testicule pendant un an (risque d'atrophie testiculaire voire d'échec)
 - Réévaluation du garçon à la puberté pour surveiller le développement pubertaire
 - Éducation du patient sur l'auto-palpation pour le dépistage du [cancer du testicule]({{% relref "cancer-testicule.md" %}})
 
@@ -50,14 +49,13 @@ Testicule oscillant ou << testicule ascenseur >>
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic de cryptorchidie est clinique par palpation des bourses.
+Le diagnostic de cryptorchidie est clinique par palpation de bourse vide (testicule non descendu).
 
 3 situations à la palpation:
 
 - Testicule palpé en inguinal au-dessus de la bourse, mais fixé et impossible à descendre
 - Testicule palpé mais très mobile et ne restant dans la bourse que par intermittence
-- Testicule jamais palpé  
-  Position intra-abdominale ou testicule atrophique.
+- Testicule jamais palpé: position intra-abdominale ou testicule atrophique.
 
 Rechercher d'autres anomalies génitales associées:
 
@@ -72,7 +70,7 @@ Rechercher d'autres anomalies génitales associées:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Échographie abdomino-scrotale
+Le bilan de la cryptorchidie est une échographie abdomino-scrotale.
 {.alert .alert-info}
 
 Autres bilans d'une cryptorchidie: avis endocrinologique, cœlioscopie exploratrice.
@@ -131,5 +129,10 @@ graph TB
 - {{< references/college-endocrino >}}
 - [Le Moal J et al. Variations spatiotemporelles du risque de cryptorchidies opérées en France et hypothèses environnementales. Santé publique France. 2021.](https://www.santepubliquefrance.fr/docs/variations-spatiotemporelles-du-risque-de-cryptorchidies-operees-en-france-et-hypotheses-environnementales)
 - [Gueorguieva I, Bouvattier C; SFP. Cryptorchidie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/endocrinologie/cryptorchidie)
+
+### Bibliographie en attente
+
+- [Dobremez E, Harper L. Cryptorchidie acquise, testicule oscillant et autres formes secondaires de cryptorchidie. Andrologie. 2010. (PDF)](https://link.springer.com/content/pdf/10.1007/s12610-010-0095-y.pdf)
+- [Merrot T. Prise en charge des testicules non descendus. Progrès en urologie. 2009. (PDF)](https://www.urofrance.org/sites/default/files/fileadmin/documents/data/PU/2009/3247/38905/FR/206489/main.pdf)
 
 {{%/sources%}}

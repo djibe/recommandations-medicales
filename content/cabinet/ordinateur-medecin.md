@@ -28,12 +28,12 @@ Je ne m'étendrai pas sur les Mac, qui ont une offre moindre avec très peu de l
 Au minimum le PC doit avoir:
 
 - Un processeur 4 cœurs dernière génération avec carte graphique intégrée (max 130€)  
-  Ex: Intel Core i3 12100
+  Ex: [Intel Core i3 14100](https://www.idealo.fr/prix/203710143/intel-core-i3-14100-boxed.html)
 - Un disque dur ultra-rapide (dit SSD, environ 100 € pour 1 To)  
-  C'est la pièce qui donnera une réactivité parfaite au PC. 500 Go de stockage suffiront pour un exercice normal. Ex: Samsung 990 Pro, Crucial T500, WD Black SN850X, Kingston KC3000.
+  C'est la pièce qui donnera une réactivité parfaite au PC. 500 Go de stockage suffiront pour un exercice normal. Ex: [Samsung 990 Pro](https://www.idealo.fr/prix/202132303/samsung-990-pro-1-to.html), Crucial T500, WD Black SN850X, Kingston KC3000.
 - 16 Go de mémoire vive (dite RAM, max 30€ pour 8 Go)  
   Conserve les programmes ouverts en parallèle.
-- Windows 11 Pro (pour la gestion du réseau du cabinet)  
+- Windows 11 Pro (pour la gestion du réseau du cabinet, [pas cher ici](https://www.hrkgame.com/fr/games/product/windows-11-professional-retail?utm_source=dlcompare&utm_medium=referral&utm_campaign=dlcompare))  
   Windows 7 et 8 peuvent toujours être mis à jour gratuitement vers Windows 10 puis 11.
 - De très nombreuses prises USB  
   Comptez l'imprimante, les lecteurs de carte à puce (carte vitale et carte CPS), souris, clavier, webcam ...
