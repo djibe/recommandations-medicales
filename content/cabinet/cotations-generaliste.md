@@ -180,7 +180,7 @@ Les sutures ne sont pas présentées ici mais penser à associer le code CCAM *M
 | + DEQP003   | ECG 12 dérivations | 14,52 |
 | + JKHD001   | Frottis cervico-vaginal |  12,73 |
 | ALQP003     | Test standardisé d'évaluation d'une dépression: {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, Beck, MADRS, MMPI et STAI (max 1/an) | 69,12 |
-| ALQP006     | Test standardisé d'évaluation d'un déficit cognitif: [MMSE](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/mmse.pdf), [MoCA](/print/moca.pdf), GP-COG, MIS, Codex, 5 mots de Dubois (max 1/an) | 69,12 |
+| ALQP006     | Test standardisé d'évaluation d'un déficit cognitif: [MMSE](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/mmse.pdf), {{< scores/moca >}}, GP-COG, MIS, Codex, 5 mots de Dubois (max 1/an) | 69,12 |
 | JKLD001     | Pose d'un stérilet | 38,40 |
 | JKKD001     | Changement d'un stérilet                                                                                                                                                                                     |          38,40 |
 | QZGA002     | Ablation ou changement d'un implant                                                                                                                                                                          |          41,80 |
