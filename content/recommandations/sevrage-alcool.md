@@ -287,7 +287,7 @@ Rechercher les complications d'un mésusage de l'alcool et proposer un suivi sp�
   - Psychose
   - Évaluation du risque suicidaire
   - Troubles cognitifs  
-    Test MoCA (([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf))) à distance du sevrage voire évaluation neuropsychologique.
+    Test {{< scores/moca >}} à distance du sevrage voire évaluation neuropsychologique.
 - Complications somatiques
   - IMC et variations de poids
   - Hépatomégalie et ascite

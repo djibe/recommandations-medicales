@@ -99,9 +99,10 @@ L'accident vasculaire cérébral (AVC) est un enjeu majeur de santé publique:
 - 1^re^ cause de mortalité chez la femme, 3^e^ chez l'homme
 - 1^re^ cause de handicap de l'adulte
 - 2^e^ cause de démence (30%)
-- Incidence: 140.000 AVC/an
+- Incidence: 122.000 AVC/an
 - 1 personne sur 6 aura un AVC
 - 30% de mortalité le 1^er^ mois
+- Mortalité à 1 an: 21% si ischémique, 38% si hémorragique
 - 75% des survivants ont des séquelles
 - Âge moyen de survenue: 74 ans
 - 1/4 des AVC surviennent avant 65 ans, 10% avant 45 ans
@@ -366,6 +367,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Gabet A, et al. Épidémiologie des accidents vasculaires cérébraux en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_3.html)
 - [Bushnell C, et al. 2024 Guideline for the Primary Prevention of Stroke: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2024.](https://www.ahajournals.org/doi/abs/10.1161/STR.0000000000000475)
 - {{< references/esh-2023 >}}
 - [Dawson J, et al. European Stroke Organisation (ESO) guideline on pharmacological interventions for long-term secondary prevention after ischaemic stroke or transient ischaemic attack. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/10.1177/23969873221100032)

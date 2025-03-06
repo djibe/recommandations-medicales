@@ -355,12 +355,13 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Grave C, et al. Épidémiologie des cardiopathies ischémiques en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_2.html)
 - {{< references/esh-2023 >}}
 - [HAS. Syndrome coronarien chronique Prescription d'activité physique. 2022.](https://www.has-sante.fr/jcms/c_2876862/fr/consultation-et-prescription-medicale-d-activite-physique-a-des-fins-de-sante#toc_1_2)
 - [HAS. Guide du parcours de soins - Syndrome coronarien chronique. 2021.](https://www.has-sante.fr/jcms/p_3279083/fr/guide-du-parcours-de-soins-syndrome-coronarien-chronique)
 - {{< references/esc-cvd >}}
-- [Sorbets E et al; CLARIFY investigators. Long-term outcomes of chronic coronary syndrome worldwide: insights from the international CLARIFY registry. European Heart Journal. 2020.](https://academic.oup.com/eurheartj/article/41/3/347/5556903)
-- [Knuuti J et al; ESC Scientific Document Group. 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes: The Task Force for the diagnosis and management of chronic coronary syndromes of the European Society of Cardiology (ESC). European Heart Journal. 2019.](https://academic.oup.com/eurheartj/article/41/3/407/5556137)
+- [Sorbets E, et al; CLARIFY investigators. Long-term outcomes of chronic coronary syndrome worldwide: insights from the international CLARIFY registry. European Heart Journal. 2020.](https://academic.oup.com/eurheartj/article/41/3/347/5556903)
+- [Knuuti J, et al; ESC Scientific Document Group. 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes: The Task Force for the diagnosis and management of chronic coronary syndromes of the European Society of Cardiology (ESC). European Heart Journal. 2019.](https://academic.oup.com/eurheartj/article/41/3/407/5556137)
 - Collège National des Enseignants de Cardiologie (CNEC). Syndromes coronariens aigus. Item 339. Cardiologie 2e édition. 2019.
 
 Mots-clé: cardiopathie ischémique, angor

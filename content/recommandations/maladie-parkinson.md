@@ -39,7 +39,7 @@ Maladie de Parkinson idiopathique (MPI)
 : Maladie dégénérative de cause inconnue touchant les systèmes dopaminergiques, cholinergiques, noradrénergiques et sérotoninergiques. Le diagnostic de certitude est histologique (et donc autopsique).
 : Première cause de syndrome parkinsonien et 2^e^ maladie neurodégénérative (derrière [Alzheimer]({{% relref "maladie-alzheimer.md" %}})).
 
-Tremblement essentiel
+[Tremblement essentiel]({{< relref "tremblement-essentiel.md" >}})
 : Début à l'adolescence (~15 ans) ou plus tard vers 50 ans, fréquent, souvent bilatéral et symétrique, rapide (4-10 Hz), tremblement d'action postural ou cinétique sans tremblement de repos. Déclenchement immédiat du tremblement postural.
 : Il atteint la tête, le cou ou la voix et les membres sans autres signes neurologiques. Amélioration avec l'alcool et les bêtabloquants, aggravation avec le stress, la caféine ou la privation de sommeil.
 : Le tremblement essentiel peut coexister avec la Maladie de Parkinson idiopathique.
@@ -77,7 +77,7 @@ Hypokinésie
 > La Maladie de Parkinson est la seule cause de tremblement de repos unilatéral (sauf de rares lésions mésencéphaliques).
 
 - Tremblement postural et d'action
-  - **Tremblement essentiel**
+  - **[Tremblement essentiel]({{< relref "tremblement-essentiel.md" >}})**
   - Tremblement physiologique exagéré
   - [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})
   - Iatrogénie  
@@ -196,7 +196,7 @@ La triade classique est akinésie/bradykinésie, rigidité et tremblement de rep
   - Distal (pouce, index, poignet voire lèvre, menton, mâchoire, jambes)  
     Rarement tête, cou, voix.
   - Diminue au mouvement volontaire  
-    Peut être plus marqué à la posture, il est alors retardé (à la différence du tremblement essentiel)
+    Peut être plus marqué à la posture, il est alors retardé (à la différence du [tremblement essentiel]({{< relref "tremblement-essentiel.md" >}}))
   - Non modifié par l'alcool et les bêtabloquants
   - Aggravé par le calcul et l'émotion
 - **Instabilité posturale** précoce
@@ -211,7 +211,7 @@ La triade classique est akinésie/bradykinésie, rigidité et tremblement de rep
   - Amaigrissement et asthénie
   - Hallucinations (visuelles ++)
   - Déclin cognitif (⅓ au diagnostic)  
-    Échelles PDD short screen (PDD-SS), Addenbrooke's Cognitive Examination-Revised (ACE-R) ou Montreal Cognitive Assessment (MoCA, [web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf)).
+    Échelles PDD short screen (PDD-SS), Addenbrooke's Cognitive Examination-Revised (ACE-R) ou Montreal Cognitive Assessment ({{< scores/moca >}}).
 - Excellente réponse à la L-dopa
 - Autres: sommeil, anxiété et [dépression]({{% relref "depression.md" %}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}})
 - **Signes négatifs / atypiques** à rechercher tous les 6-12 mois

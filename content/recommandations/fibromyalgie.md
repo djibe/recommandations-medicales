@@ -166,7 +166,7 @@ Rechercher une fibromyalgie en cas de douleur chronique.
   - **Troubles du sommeil** (62-95%)  
     Non réparateur, plus court, superficiel.
   - Difficultés de concentration, d'attention et mémorisation (75%)  
-    "Trous de mémoire", "esprit cotonneux" (<< fibrofog >>). {{< scores/mmse >}}, MoCa ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf))
+    "Trous de mémoire", "esprit cotonneux" (<< fibrofog >>). {{< scores/mmse >}}, {{< scores/moca >}}.
   - Capacités physiques réduites (parfois jusqu'à la peur du mouvement)
 - Retentissement: SF-12, [FIQR](https://fibromyalgiesos.fr/rdv2/wp-content/uploads/2016/06/FIQ.pdf)
 - Diagnostic différentiel

@@ -149,13 +149,13 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
 
 ### Épidémiologie de l'insuffisance cardiaque en France
 
-- Prévalence de l'insuffisance cardiaque: 2,3%  
+- Prévalence de l'insuffisance cardiaque: 2,6 %  
   - 10% après 70 ans
-  - 22-73% ont une FE conservée
+  - 22 à 73 % ont une FE conservée
 - Dyspnée d'effort chez +65 ans: 1/6 ont une IC
 - Hospitalisations: 160.000/an
 - Décès: 70.000/an
-- Mortalité à 1 an: 17% si hospitalisation, 7% sans hospitalisation
+- Mortalité à 1 an: 34% si hospitalisation, 7% sans hospitalisation
 - Transplantation cardiaque
   - Greffes cardiaques: 425 (2019)
   - Nouveaux inscrits pour greffe cardiaque: 573 (2019)
@@ -550,18 +550,19 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 
 {{< youtube id="60VQUo3xqAw" title="Insuffisance cardiaque, encore un effort! (Fréquence Médicale)" >}}
 
+- [Gabet A, et al. Épidémiologie de l’insuffisance cardiaque en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_4.html)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
-- [Mullens W et al. Dietary sodium and fluid intake in heart failure. A clinical consensus statement of the Heart Failure Association of the ESC. Eur J Heart Fail. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/ejhf.3244)
-- [McDonagh TA et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad195/7246292)
+- [Mullens W, et al. Dietary sodium and fluid intake in heart failure. A clinical consensus statement of the Heart Failure Association of the ESC. Eur J Heart Fail. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/ejhf.3244)
+- [McDonagh T, et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad195/7246292)
 - {{< references/esh-2023 >}}
 - [Taylor C et al. Natriuretic peptide testing and heart failure diagnosis in primary care: diagnostic accuracy study. British Journal of General Practice. 2023.](https://bjgp.org/content/73/726/e1)
-- [McDonagh STJ et al. Home‐based versus centre‐based cardiac rehabilitation. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007130.pub5/full/fr)
+- [McDonagh STJ, et al. Home‐based versus centre‐based cardiac rehabilitation. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007130.pub5/full/fr)
 - [HAS. JARDIANCE (empagliflozine) - Insuffisance cardiaque chronique symptomatique. 16/09/2022.](https://www.has-sante.fr/jcms/p_3352200/fr/jardiance-empagliflozine-insuffisance-cardiaque-chronique-symptomatique)
 - [Arrêté du 28 mars 2022 fixant la liste des affections médicales incompatibles ou compatibles avec ou sans aménagements ou restrictions pour l'obtention, le renouvellement ou le maintien du permis de conduire.](https://www.legifrance.gouv.fr/download/pdf?id=8dD3wEzkeHMp59Q_y7Jrp2jXbwEqgi4p1G3fTjlpsFU=)
 - {{< references/esc-cvd >}}
-- [McDonagh T et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. 2021.](https://doi.org/10.1093/eurheartj/ehab368)
+- [McDonagh T, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. 2021.](https://doi.org/10.1093/eurheartj/ehab368)
 - Prescrire Redaction. Insuffisances cardiaques médicamenteuses en bref, Patients insuffisants cardiaques chroniques. Rev Prescrire. 2021.
-- [Fervers B et al; Santé Publique France. Indications d'un programme d'activité physique, en complément au traitement médical. BEH. 2020.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical)
+- [Fervers B, et al; Santé Publique France. Indications d'un programme d'activité physique, en complément au traitement médical. BEH. 2020.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical)
 - [Collège National des Enseignants de Cardiologie. Insuffisance cardiaque. Item 232 UE8. Cardiologie 2e édition. Octobre 2019.](https://www.sfcardio.fr/page/chapitre-18-item-234-insuffisance-cardiaque-de-ladulte)
 - [Agence de la Biomédecine. Organes - Greffe cardiaque. 29/09/2019.](https://rams.agence-biomedecine.fr/greffe-cardiaque-0)
 - [Santé Publique France. Insuffisance cardiaque. 17/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/insuffisance-cardiaque)
@@ -573,7 +574,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
-[Chow SL et al. Complementary and Alternative Medicines in the Management of Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2023.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110)
+[Chow SL, et al. Complementary and Alternative Medicines in the Management of Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2023.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110)
 
 {{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

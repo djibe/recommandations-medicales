@@ -343,7 +343,7 @@ Dans l'attente de la MAPA: observance, automesures avec appareil validé, revér
 - Si possible: [mesure de l'IPS]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}})
 - Examen neurologique
 - Bandelette urinaire
-- +65 ans: dépistage cognitif par {{< scores/mmse >}} ou MoCA ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf))
+- +65 ans: dépistage cognitif par {{< scores/mmse >}} ou {{< scores/moca >}}
 - Signes d'hypertension secondaire
   - Tâches café au lait
   - Contact lombaire
