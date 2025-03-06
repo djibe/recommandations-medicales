@@ -10,9 +10,9 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. HOUSSET (SPLF) et Dr S. LAUNOIS (SFRMS/SPLF)"
 date = "2021-03-28T23:07:00+02:00"
 publishdate = "2021-04-14"
-lastmod = "2024-11-13"
+lastmod = "2025-03-06"
 specialites = ["pneumologie"]
-annees = "2024"
+annees = "2025"
 sources = ["GOLD", "ERS", "HAS", "SPLF"]
 tags = ["asthme", "BPCO", "depistage", "dyspnee", "fatigue", "tabac", "toux", "vaccin"]
 english = ["Chronic obstructive pulmonary disease (COPD)"]
@@ -22,7 +22,7 @@ image = true
 imageSrc = "Illustration de la BPCO par Freepik"
 slider = true
 flowchart = true
-todo = "rankok | GOLD 2024: groupe Figure 3.7, Figure 3.18, TargetCOPD, action plan <https://www.livingwellwithcopd.com/DATA/DOCUMENT/64_en~v~plan-of-action.pdf>, dispositifs et consignes <https://erj.ersjournals.com/content/37/6/1308.long>, pollution <https://pubmed.ncbi.nlm.nih.gov/34872967/> | Tableau 2 SPLF 2021, Plan d'action, p.61++++, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24, ETP p.55, PTA/Asalee/SSIAD/SPASAD, remboursement RR, flow p.46, travail p. 58, revoir Annexes p.86"
+todo = "rankok | PLAN D'ACTION - TargetCOPD, action plan <https://www.livingwellwithcopd.com/DATA/DOCUMENT/64_en~v~plan-of-action.pdf>, dispositifs et consignes <https://erj.ersjournals.com/content/37/6/1308.long>, pollution <https://pubmed.ncbi.nlm.nih.gov/34872967/> | Tableau 2 SPLF 2021, Plan d'action, p.61++++, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24, ETP p.55, PTA/Asalee/SSIAD/SPASAD, remboursement RR, flow p.46, travail p. 58, revoir Annexes p.86"
 +++
 
 {{%article-summary%}}
@@ -30,10 +30,10 @@ todo = "rankok | GOLD 2024: groupe Figure 3.7, Figure 3.18, TargetCOPD, action p
 - {{< modal-btn modal-depistage-bpco >}}Dépistage systématique des facteurs de risque de BPCO{{< /modal-btn >}} (tabagisme +20 PA, infections respiratoires récidivantes) et prévention par sevrage tabagique pour tout le monde
 - Le diagnostic de bronchopneumopathie chronique obstructive est spirométrique: trouble ventilatoire obstructif non réversible. Le VEMS est le facteur pronostique majeur de la {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
 - Le suivi de la BPCO nécessite un bilan par EFR/spirométrie de suivi annuelle
-- La prise en charge de la BPCO associe: arrêt du tabac (facteur principal du déclin du VEMS), vaccinations (covid-19, grippe, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, VRS si +65 ans (NR)), activité physique et réhabilitation respiratoire, prévention cardiovasculaire
+- La prise en charge de la BPCO associe: arrêt du tabac (facteur principal du déclin du VEMS), réhabilitation respiratoire, vaccinations (covid-19, grippe, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, VRS si +65 ans (NR)), activité physique et prévention cardiovasculaire
 - Suivi des symptômes et exacerbations de BPCO: {{< modal-btn modal-score-cat >}}questionnaire CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}mMRC{{< /modal-btn >}} pour déterminer la sévérité
 - Bronchodilatateurs de longue durée d'action: {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} puis {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}} si nécessaire avec {{< modal-btn modal-ttt-bdca >}}bronchodilatateurs de courte durée{{< /modal-btn >}} en cas de gêne respiratoire. Augmenter les doses si besoin voire avis pneumologique pour {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + corticoïdes inhalés CSI{{< /modal-btn >}}
-- Hospitalisation pour exacerbation de BPCO: réévaluation clinique dans les 7 jours, dans les 2 mois par le pneumologue, réhabilitation respiratoire
+- Hospitalisation pour exacerbation de BPCO: réévaluation clinique dans les 7 jours, dans les 2 mois par le pneumologue, suivi PRADO, réhabilitation respiratoire
 - [Vidéos des techniques d'inhalation](https://splf.fr/videos-zephir/) ([autre set de vidéos](https://www.asthmaandlung.org.uk/living-with/inhaler-videos))
 - **NB.** La BPCO n'est pas une contre-indication aux bêtabloquants (*ESC 2016 IC*)
 
@@ -41,15 +41,15 @@ todo = "rankok | GOLD 2024: groupe Figure 3.7, Figure 3.18, TargetCOPD, action p
 {{%collapse "Définitions" %}}
 
 Bronchopneumopathie chronique obstructive (BPCO)
-: Maladie respiratoire hétérogène définie par des symptômes respiratoires chroniques avec une obstruction permanente et progressive des voies aériennes et/ou alvéolaires.
+: Maladie respiratoire hétérogène définie par des symptômes respiratoires chroniques (dyspnée, toux, expectorations, exacerbations) par anomalies des voies aériennes et/ou alvéolaires, engendrant des une obstruction persistante et progressive.
 : Le diagnostic est *spirométrique* avec un *trouble ventilatoire obstructif* (VEMS/CVF < 0,7) non réversible.
-: Les symptômes respiratoires les plus fréquents sont: dyspnée, toux et/ou expectorations. Ils sont sous-rapportés par les patients et 3/4 des cas ne sont pas diagnostiqués.
-: Le tabagisme est la 1^re^ cause (90%) suivie par l'expositions aux fumées.
+: Les symptômes sont négligés par les patients et 3/4 des malades ne sont pas diagnostiqués.
+: Le tabagisme est la 1^re^ cause de BPCO (90%), suivie par l'expositions aux fumées.
 : Causes de mortalité: insuffisance respiratoire (10% en Gold 1, 50% en Gold 4), maladies cardio-vasculaires (20-40%), [cancers](/tags/cancer/) (10-20%).
 
-Exacerbation de BPCO (EABPCO ou EABPCO)
-: Le diagnostic d'exacerbation est clinique: aggravation de dyspnée et/ou de la toux et des expectorations en moins de 14 jours par une inflammation d'origine infectieuse, polluante ou autre agression des voies aériennes. La durée est variable, parfois jusqu'à 4-6 semaines voire sans récupération de l'état antérieur.
-: Définitions après résolution de l'exacerbation (*GOLD 2023*)
+Exacerbation de BPCO (EABPCO)
+: Le diagnostic d'exacerbation est clinique: aggravation de dyspnée et/ou de la toux et des expectorations en moins de 14 jours. La durée est variable, parfois jusqu'à 4 à 6 semaines voire sans récupération de l'état antérieur.
+: Définitions APRÈS résolution de l'exacerbation
     - **Exacerbations fréquentes: ≥ 2 exacerbations/an**  
       1^er^ facteur prédictif de survenue d'EABPCO.
     - **Exacerbation légère**: résolutive en majorant les {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}
@@ -57,11 +57,11 @@ Exacerbation de BPCO (EABPCO ou EABPCO)
     - **Sévère**: passage aux urgences ou hospitalisation
 
 Bronchite chronique
-: Abandonnée par le GOLD car n'est présente que chez une minorité (27-35%) de patients atteints de BPCO.
+: Abandonnée par le GOLD car n'est présente que chez une minorité (27 à 35 %) de patients atteints de BPCO.
 
 Emphysème
-: Est une composante variable de la BPCO, surtout révélé par une dyspnée limitant l'activité (< 65 ans +++).
-Le diagnostic est anatomique: élargissement permanent anormal des espaces aériens en-dessous des bronchioles terminales associé à la destruction des parois alvéolaires. 2 types d'emphysème mais souvent associés: pan et centro-lobulaire.
+: Composante variable de la BPCO, surtout révélé par une dyspnée limitant l'activité (avant 65 ans surtout).
+Le diagnostic est anatomique: élargissement permanent anormal des espaces aériens en-dessous des bronchioles terminales, associé à la destruction des parois alvéolaires. 2 types d'emphysème mais souvent associés: pan et centro-lobulaire.
 
 Insuffisance respiratoire chronique
 : Incapacité permanente de l'appareil respiratoire à assurer une *hématose* (échanges gazeux pulmonaires) normale au repos.
@@ -133,7 +133,7 @@ VEMS
 
 #### Épidémiologie de la BPCO en France
 
-Un seul marqueur de prise en charge optimale de la BPCO sur 7 atteint le seuil de 70% en ville (voir [Projet](/projet/), *HAS 2022*)
+Un seul marqueur de prise en charge optimale de la BPCO sur 7 dépasse le seuil de 70% en ville (voir [Projet](/projet/), *HAS 2022*).
 {.alert .alert-info}
 
 - Prévalence: 7-10% des 40-64 ans (3,5 millions en 2010)
@@ -154,7 +154,7 @@ Un seul marqueur de prise en charge optimale de la BPCO sur 7 atteint le seuil d
 
 Dépister par spirométrie toute personne par l'{{< modal-btn modal-depistage-bpco >}}Auto-questionnaire de dépistage{{< /modal-btn >}} OU tout sujet de plus de 40 ans avec au moins 1 facteur de risque ou signe parmi:
 
-- Tabagisme
+- Tabagisme (+20 PA selon GOLD)
 - Pollution atmosphérique
 - Chauffage au bois ou au charbon
 - Exposition professionnelle  
@@ -162,6 +162,7 @@ Dépister par spirométrie toute personne par l'{{< modal-btn modal-depistage-bp
 - [Toux chronique]({{% relref "toux-chronique.md" %}})
 - Expectoration fréquente
 - Dyspnée
+- Infections pulmonaires récidivantes (*GOLD 2025*)
 
 > -- *HAS 2019*
 
@@ -177,9 +178,9 @@ Dépister par spirométrie toute personne par l'{{< modal-btn modal-depistage-bp
 {{%collapse "Clinique" %}}
 
 {{%info%}}
-La clinique est antagoniste de l'asthme (sauf tabagisme associé):
+La clinique de la BPCO est antagoniste de l'asthme (sauf tabagisme associé):
 
-Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme nécessitant un effort pour inspirer, une pression thoracique, un manque d'air ou un halètement, toux productive chronique (30%), essoufflement nocturne avec sifflements rare, variabilité significative (> 400 mL) nycthémérale rare.
+Tabagisme, âge +35 ans, dyspnée persistante et progressive, décrite comme nécessitant un effort pour inspirer, une pression thoracique, un manque d'air ou un halètement, toux productive chronique (30%), essoufflement nocturne avec sifflements rare, variabilité significative (> 400 mL) nycthémérale rare.
 {{%/info%}}
 
 ### Interrogatoire
@@ -190,7 +191,7 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
   - Cardiovasculaires  
     [Hypertension]({{% relref "hypertension-arterielle.md" %}}), coronaropathie, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) (8,8%), [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) (20-70%), [arythmie]({{% relref "fibrillation-atriale.md" %}}), [diabète]({{% relref "diabete-type-2.md" %}})
   - Cancers liés au tabac ([poumon]({{% relref "cancer-poumon.md" %}}), [vessie]({{% relref "cancer-vessie.md" %}}), digestifs)
-  - Dépister anxiété et [dépression]({{% relref "depression.md" %}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}), addictions, troubles cognitifs
+  - Dépister anxiété et [dépression]({{% relref "depression.md" %}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}), troubles cognitifs
   - [Ostéoporose]({{% relref "osteoporose.md" %}}) et amyotrophie
   - [Obésité]({{% relref "obesite-adulte.md" %}}), [dénutrition]({{% relref "denutrition.md" %}}), anémie et polyglobulie
   - [Apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), dilatation des bronches
@@ -201,14 +202,14 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
   Tabagisme actif ou passif, cannabis, exposition professionnelle, exposition aux vapeurs et combustions (bois, charbon).
 - Traitements en cours  
   À risque: gabapentine, prégabaline.
-- Symptômes  
-  Toux, expectoration, dyspnée, sifflements, [fatigue](/tags/fatigue/), perte de poids, anorexie.  
+- **Symptômes persistants de BPCO**  
+  **[Toux chronique]({{< relref "toux-chronique.md" >}})**, expectoration, **dyspnée** (aggravée à l'effort), sifflements, [fatigue](/tags/fatigue/), perte de poids, anorexie.  
   Évolution pondérale, appétit.
 - Histoire de la maladie  
-  Âge de début, dyspnée, rhumes traînants, bronchites hivernales fréquentes, consommation d'antibiotiques, renoncement à des activités.
+  Âge de début, dyspnée et symptômes, rhumes traînants, bronchites hivernales fréquentes, consommation d'antibiotiques, renoncement à des activités.
 - {{< modal-btn modal-score-mmrc >}}Échelle de dyspnée mMRC{{< /modal-btn >}}
 - Retentissement  
-  Limitation des activités, arrêts de travail, activité physique, anxiété/dépression, qualité de vie, vie sexuelle.
+  Limitation des activités, arrêts de travail, activité physique, anxiété/dépression, qualité de vie.
 - Entourage
 
 ### Examen clinique
@@ -246,15 +247,12 @@ Autres causes de toux et dyspnée chronique d'origine thoracique:
 
 {{%info%}}
 
-### Bilan initial de le bronchopneumopathie chronique obstructive
+### Bilan de le bronchopneumopathie chronique obstructive (BPCO)
 
-- NFS
+- NFS (hématocrite, éosinophiles)
 - Glycémie à jeun
 - Bilan lipidique
 - Radiographie de thorax
-
----
-
 - Consultation de cardiologie
 - Consultation de pneumologie
 
@@ -262,49 +260,48 @@ Autres causes de toux et dyspnée chronique d'origine thoracique:
 
 ### Spirométrie
 
-La spirométrie est l'examen diagnostique et de suivi de référence: trouble ventilatoire obstructif (VEMS/CV post-bronchodilatateur < 0,7) et {{< modal-btn modal-severite-bpco >}}sévérité de l'obstruction bronchique (VEMS){{< /modal-btn >}}.
+La spirométrie est l'examen diagnostique et de suivi de référence: trouble ventilatoire obstructif non réversible (VEMS/CV post-bronchodilatateur < 0,7) et {{< modal-btn modal-severite-bpco >}}sévérité de l'obstruction bronchique (VEMS){{< /modal-btn >}}.
 
-Cotation CCAM: GLQP012 soit 41,08 €.
-
-Les autres examens recherchent des complications.
+Cotation CCAM d'une spirométrie: GLQP012 soit 41,08 €.
 
 ### Gaz du sang
 
-Indications aux gaz du sang: SpO~2~ < 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3{{< /modal-btn >}}, {{< modal-btn modal-severite-bpco >}}stade obstructif ≥ 3{{< /modal-btn >}}, suspicion d'[embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}) ou d'hypercapnie.
+Indications aux gaz du sang: SpO~2~ ≤ 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3{{< /modal-btn >}}, {{< modal-btn modal-severite-bpco >}}stade obstructif ≥ 3{{< /modal-btn >}}, suspicion d'[embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}) ou d'hypercapnie.
 
 ### Autres examens
 
-- Scanner thoracique  
-  Indications: exacerbations persistantes, symptômes discordants avec la spirométrie, VEMS < 45%. (*GOLD 2023*)
+- **Scanner thoracique**  
+  Indications: exacerbations ou hospitalisations fréquentes, symptômes discordants avec la spirométrie.
 - Déficit en alpha-1 antitrypsine  
-  Dosage unique au diagnostic. Une concentration < 20% évoque un déficit homozygote. (*GOLD 2023*)
+  Dosage unique au diagnostic (surtout avant 45 ans). Une concentration < 20% évoque un déficit homozygote. (*GOLD 2025*)
 - ECBC selon le pneumologue
 - Envisager un suivi par scanner faible dose pour le [dépistage de cancer du poumon]({{% relref "cancer-poumon.md" %}})
 - NT-proBNP, D-dimères pour éliminer une part cardiaque
 
 {{% /collapse %}}
-{{%collapse "Critères d'hospitalisation pour EABPCO et suivi à la sortie" %}}
+{{%collapse "Exacerbation de BPCO: hospitalisation et suivi à la sortie" %}}
 
 {{%info%}}
 
-### Critères d'hospitalisation pour exacerbation de BPCO
+### Critères d'hospitalisation pour exacerbation de BPCO (EABPCO)
 
 - Âge +85 ans
 - Dyspnée basale {{< modal-btn modal-score-mmrc >}}mMRC 4 ou 5{{< /modal-btn >}}
 - Oxygénorequérant
 - Exacerbations antérieures sévères
 - Mauvaise tolérance  
-  SpO~2~ < 90%, pouls > 110/min, polypnée > 24/min, respiration paradoxale, tirage, cyanose.
+  SpO~2~ < 92 %, pouls ≥ 95/min, polypnée > 24/min, respiration paradoxale, tirage, cyanose.
 - Hypercapnie  
   {{< clinique/hypercapnie >}}
 - Encombrement important, difficultés à la toux
 - Troubles de conscience
+- CRP ≥ 10 mg/L
 - Anomalies radiologiques ou ECG
 - Comorbidités (cardiovasculaires ++)
 - Contexte social
-- Échec du traitement ambulatoire ou aggravation à 48-72h (*SPLF 2017*)
+- Échec du traitement ambulatoire ou aggravation à 48-72 heures (*SPLF 2017*)
 
-> -- *HAS 2019* et *GOLD 2023*
+> -- *HAS 2019* et *GOLD 2025*
 {{%/info%}}
 
 ### Sortie d'hospitalisation après une exacerbation de BPCO
@@ -313,7 +310,7 @@ Indications aux gaz du sang: SpO~2~ < 92%, {{< modal-btn modal-score-mmrc >}}mMR
 
 - L'hôpital inclut dans le [programme Prado BPCO](https://www.ameli.fr/medecin/exercice-liberal/services-patients/prado#text_19402)
 - Consultation du médecin traitant dans la semaine  
-  Puis M1, M3, M6 et 1 an.
+  Puis suivi à 1 mois, 3 mois, 6 mois et 1 an.
 - Contrôle de la [technique d'inhalation](https://splf.fr/videos-zephir/) et du traitement par BDLA ({{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-lama >}}association LABA + LAMA{{< /modal-btn >}})
 - Consultation du pneumologue dans les 2 mois  
   {{%class%}}Avec EFR et gaz du sang.{{%/class%}}
@@ -325,24 +322,24 @@ Indications aux gaz du sang: SpO~2~ < 92%, {{< modal-btn modal-score-mmrc >}}mMR
 - Poursuivre les traitements de fond
 
 {{% /collapse %}}
-{{%collapse "Traitement de fond de la BPCO" %}}
+{{%collapse "Mesures générales de prise en charge de la BPCO" %}}
 
-{{< traitements/gold-groupe >}}
+Mesures générales de prise en charge de la BPCO:
 
 - **[Arrêt du tabac]({{% relref "arret-tabac.md" %}})**
   - Principal facteur pronostique
   - Prise en charge optimale (conseil minimal, [substituts]({{% relref "substituts-nicotiniques.md" %}}), [tabac-info-service](https://www.tabac-info-service.fr/), tabacologue, psychothérapie, varénicline)
   - Autres expositions aux toxiques et gaz domestiques et professionnels  
     Aérosols, combustion de bois ou biomasse, moisissures.
-- Vaccination
+- **Vaccinations**
   - Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}}) avec la coqueluche
-  - Covid-19 et grippe annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} (*GOLD 2024*)
+  - Covid-19 et grippe annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}
   - +65 ans: VRS 1 fois (NR -- *HAS 2024*)
-  - +50 ans: [Zona]({{% relref "zona.md" %}}) (*GOLD 2024*, 65 ans dans le Calendrier vaccinal)
-- Réhabilitation respiratoire
-  - Essentielle pour tous pour réduire la dyspnée, le stress et améliorer la qualité de vie
-  - Dès 1 mois post-hospitalisation, répétée si besoin
-  - [Liste des centres de réhabilitation respiratoire (RR)](https://splf.fr/la-carte-de-la-rehabilitation-respiratoire/)
+  - +50 ans: [zona]({{% relref "zona.md" %}}) (*GOLD 2025*, 65 ans dans le Calendrier vaccinal)
+- **Réhabilitation respiratoire**
+  - Essentielle pour quasi tous (GOLD B et E) pour réduire la dyspnée, le stress et améliorer la qualité de vie
+  - Dès 1 mois post-hospitalisation, durée 6-8 semaines, répétée si besoin
+  - [Liste des centres de réhabilitation respiratoire (RR)](https://umap.openstreetmap.fr/fr/map/carte-de-la-readaptation-respiratoire-alveole_465719)
   - Voire kinésithérapie respiratoire à domicile  
     Ordonnance: "Séances de réadaptation respiratoire kinésithérapique pour maladie respiratoire chronique obstructive".
 - Activité physique quotidienne
@@ -367,29 +364,31 @@ Indications aux gaz du sang: SpO~2~ < 92%, {{< modal-btn modal-score-mmrc >}}mMR
 - Déclin respiratoire  
   [Directives anticipées]({{% relref "directives-anticipees.md" %}}), [soins palliatifs](http://www.sfap.org/annuaire).
 
-### Bronchodilatateurs
+{{% /collapse %}}
+{{%collapse "Bronchodilatateurs de la BPCO" %}}
 
-La [technique d'inhalation](https://splf.fr/videos-zephir/) et l'observance sont primordiaux et repris à chaque consultation pour ces traitements symptomatiques. Recherche du traitement minimal efficace.  
-Formes: spray, poudre, brumisateur.
+La [technique d'inhalation](https://splf.fr/videos-zephir/) (> 2/3 font des erreurs) et l'observance sont primordiaux et repris à chaque consultation pour ces traitements symptomatiques. Une **chambre d'inhalation** est utile pour réduire ces erreurs. Rechercher les doses minimales efficaces.
 
-#### 1) Dyspnée intermittente ou à l'exercice
+{{< traitements/gold-groupe >}}
+
+### 1) Dyspnée intermittente ou à l'exercice
 
 {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} à la demande.
 
-#### 2) Dyspnée persistante
+### 2) Dyspnée persistante
 
 {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}.
 
 Si insuffisant:
 
 - Vérifier l'observance et la [technique d'inhalation](https://splf.fr/videos-zephir/)
-- Essayer un autre dispositif d'inhalation voire une chambre d'inhalation
+- Essayer un autre dispositif d'inhalation voire une chambre d'inhalation (15-25 cL)
 - Changer de classe de bronchodilatateur
 
-#### 3) Dyspnée résistante
+### 3) Dyspnée résistante
 
 Dyspnée sous monothérapie toujours {{< modal-btn modal-score-mmrc >}}mMRC ≥ 2{{< /modal-btn >}} ou {{< modal-btn modal-score-cat >}}CAT™ ≥ 10{{< /modal-btn >}}:  
-{{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA+LAMA{{< /modal-btn >}}
+{{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}}
 {.alert .alert-info}
 
 Avis pneumologique si exacerbations répétées ou hospitalisation avec éosinophilie ≥ 300/mm³
@@ -397,15 +396,16 @@ Avis pneumologique si exacerbations répétées ou hospitalisation avec éosinop
 Sur-risque de pneumopathie avec les corticoïdes inhalés.
 {.alert .alert-warning}
 
-#### 4) Prescription spécialisée
+### 4) Prescription spécialisée
 
-Triple association si GOLD groupe E avec éosinophilie: {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}.  
-Arrêt des corticoïdes si [pneumonie]({{% relref "pneumonie-aigue-communautaire.md" %}}) ou autres effets indésirables.
+Triple association si GOLD groupe E avec éosinophilie: {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}.
 
-Seul le pneumologue peut prescrire une trithérapie ou des nébulisations.  
-Il est également le seul à décider du bénéfice de prévention des exacerbations (*ERS 2021*, *SPLF 2021*):
+Arrêter le corticoïde inhalé en cas de [pneumonies]({{% relref "pneumonie-aigue-communautaire.md" %}}) ou d'autres effets indésirables.
 
-- Azithromycine 250-500 mg 3 jours par semaine
+Seul le **pneumologue** peut prescrire une trithérapie ou des nébulisations et les traitements suivants:
+
+- Anticorps monoclonal IgG4 dupilumab (Dupixent)
+- Azithromycine 250 mg/j ou 500 mg 3 jours par semaine
 - N-acétylcystéine 600 mg x 2/j
 
 {{%warning%}}
@@ -435,11 +435,15 @@ sauf si éosinophiles > 300/mm³ et exacerbations fréquentes en l'absence de pn
 
 ### En savoir plus: autres traitements
 
-Traitements réservés au pneumologue (prescription et renouvellement).
+Traitements réservés au pneumologue (prescription et renouvellement):
+
+- Ventilation mécanique ± Pression Positive Continue (PPC)
+- Certains emphysèmes: chirurgie de réduction volumique
+- Si dyspnée réfractaire: opioïdes faible dose (*SPLF 2021*)
 
 #### Oxygénothérapie longue durée  
 
-Au moins 15 h/j en cas d'hypoxémie avec suivi au moins annuel (pas de bénéfice au-delà de 15 h/j selon *Taichman DB et al 2024*).
+Au moins 15 heures/j en cas d'hypoxémie avec suivi au moins annuel (pas de bénéfice au-delà de 15 h/j selon *Taichman DB et al 2024*).
 
 Envisager une oxygénothérapie de longue durée si:
 
@@ -448,21 +452,13 @@ Envisager une oxygénothérapie de longue durée si:
 - [Polyglobulie]({{% relref "polyglobulie.md" %}})
 - Signes d'insuffisance cardiaque droite  
   {{< clinique/insuffisance-cardiaque-droite >}}
-- SpO~2~ ≤ 92% en air ambiant
-  - PaO~2~ ≤ 55 mmHg ou SaO~2~ ≤ 88% confirmée à 2 reprises sur 3 semaines pour *GOLD 2023*
-  - PaO~2~ 55-60 mmHg ou SaO~2~ ≤ 88% avec [HTAP]({{% relref "hypertension-arterielle-pulmonaire.md" %}}), insuffisance cardiaque droite ou polyglobulie (hématocrite > 55%) pour *GOLD 2023*
+- SpO~2~ ≤ 92% en air ambiant (*GOLD 2025*)
+  - PaO~2~ ≤ 55 mmHg ou SaO~2~ ≤ 88% confirmée à 2 reprises sur 3 semaines
+  - PaO~2~ 55-60 mmHg ou SaO~2~ ≤ 88% avec [HTAP]({{% relref "hypertension-arterielle-pulmonaire.md" %}}), insuffisance cardiaque droite ou polyglobulie (hématocrite > 55%)
 
 > -- *HAS 2019*
 
 **Saturation cible au repos:** SpO~2~ ≥ 90% (PaO~2~ ≥ 60 mmHg).
-
-#### Ventilation mécanique ± Pression Positive Continue (PPC)
-
-Relève exclusivement du spécialiste.
-
-#### Dyspnée réfractaire
-
-Opioïdes faible dose par le pneumologue (*SPLF 2021*).
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'exacerbation de BPCO et Plan d'Action" %}}
@@ -635,29 +631,28 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease: 2024 Report. 2025.](https://goldcopd.org/2025-gold-report/)
 - [Williamson A, et al. Vitamin D for the management of chronic obstructive pulmonary disease. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013284.pub2/full/fr)
 - [CBIP. Gabapentine et prégabaline : risque d'exacerbations sévères de BPCO. Folia. 2024.](https://www.cbip.be/fr/articles/4425?folia=4409)
 - [Taichman DB, Drazen JM. Making Long-Term Oxygen Therapy Less Burdensome. N Engl J Med. 2024.](https://www.nejm.org/doi/10.1056/NEJMe2410129)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [HAS, SPILF, SPLF. Choix et durées d'antibiothérapie dans les exacerbations aiguës de bronchopneumopathie chronique obstructive (EABPCO). 2024.](https://www.has-sante.fr/jcms/p_3528903/fr/choix-et-durees-d-antibiotherapie-dans-les-exacerbations-aigues-de-bronchopneumopathie-chronique-obstructive-eabpco)
-- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease: 2024 Report. 2024.](https://goldcopd.org/2024-gold-report/)
 - [Collège des Enseignants de Pneumologie (CEP). Bronchopneumopathie chronique obstructive (BPCO). Item 209. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_209_BRONCHOPNEUMOPATHIE_CHRONIQUE_OBSTRUCTIVE_2023.pdf)
 - Prescrire Redaction. Bronchopneumopathie chronique obstructive. Premiers Choix Prescrire. Rev Prescrire. 2022.
-- [Zysman M et al. Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. Position de la Société de pneumologie de langue française. Actualisation 2021. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/optimisation-du-traitement-BPCO.pdf)
+- [Zysman M, et al. Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. Position de la Société de pneumologie de langue française. Actualisation 2021. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/optimisation-du-traitement-BPCO.pdf)
 - [Georges M. Réhabilitation respiratoire dans la BPCO : bis repetita. 18/05/2021.](https://splf.fr/rehabilitation-respiratoire-dans-la-bpco-bis-repetita/)
 - Prescrire Redaction. Questionner sa pratique : préserver la qualité de vie des patients souffrant de BPCO. Rev Prescrire. 2020.
 - [HAS. Patients à risque ou atteints de BPCO. Indicateurs de qualité du parcours de soins. 30/01/2020.](https://www.has-sante.fr/jcms/p_3151500/fr/patients-a-risque-ou-atteints-de-bronchopneumopathie-chronique-obstructive-bpco-indicateurs-de-qualite-du-parcours-de-soins)
-- [Marques C et al. Évolution des connaissances de la bronchopneumopathie chronique obstructive après la campagne nationale du 31 mai 2019 : résultats d'une évaluation avant/après. Synthèse. Santé Publique France. 2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bpco-et-insuffisance-respiratoire-chronique/documents/rapport-synthese/evolution-des-connaissances-de-la-bronchopneumopathie-chronique-obstructive-apres-la-campagne-nationale-du-31-mai-2019-resultats-d-une-evaluation)
-- [HAS. Bronchopneumopathie chronique obstructive. Guide du parcours de soins. Novembre 2019.](https://www.has-sante.fr/jcms/c_1242507/fr/guide-du-parcours-de-soins-bronchopneumopathie-chronique-obstructive-bpco)
+- [Marques C, et al. Évolution des connaissances de la bronchopneumopathie chronique obstructive après la campagne nationale du 31 mai 2019 : résultats d'une évaluation avant/après. Synthèse. Santé Publique France. 2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bpco-et-insuffisance-respiratoire-chronique/documents/rapport-synthese/evolution-des-connaissances-de-la-bronchopneumopathie-chronique-obstructive-apres-la-campagne-nationale-du-31-mai-2019-resultats-d-une-evaluation)
+- [HAS. Bronchopneumopathie chronique obstructive. Guide du parcours de soins. 2019.](https://www.has-sante.fr/jcms/c_1242507/fr/guide-du-parcours-de-soins-bronchopneumopathie-chronique-obstructive-bpco)
 - [Santé Publique France. BPCO et insuffisance respiratoire chronique. 27/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bpco-et-insuffisance-respiratoire-chronique)
 - [Jouneau S et al. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017. (PDF)](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
-- [Wedzicha JA et al. Prevention of COPD exacerbations: a European Respiratory Society/American Thoracic Society guideline. Eur Respir J. 2017.](https://erj.ersjournals.com/content/50/3/1602265)
-- [Zysman M et al. Propositions de la SPLF pour l'optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016. (PDF)](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
+- [Wedzicha JA, et al. Prevention of COPD exacerbations: a European Respiratory Society/American Thoracic Society guideline. Eur Respir J. 2017.](https://erj.ersjournals.com/content/50/3/1602265)
+- [Zysman M, et al. Propositions de la SPLF pour l'optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016. (PDF)](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
 
 ### Bibliographie en attente
 
-- [GOLD 2025 (PDF)](https://goldcopd.org/wp-content/uploads/2024/11/KEY-CHANGES-GOLD-2025-11Nov2024.pdf)
-- [Haroon S et al. Predicting risk of undiagnosed COPD: development and validation of the TargetCOPD score. Eur Respir J. 2017.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4271517/)
+[Haroon S, et al. Predicting risk of undiagnosed COPD: development and validation of the TargetCOPD score. Eur Respir J. 2017.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4271517/)
 
 {{%/sources%}}
 {{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}
@@ -720,7 +715,7 @@ Un anticholinergique de courte durée d'action peut être ajouté en cas d'exace
 {{< traitements/laba-csi >}}
 
 {{% /modal %}}
-{{% modal title="Associations bi-BDLA et CSI" id="modal-ttt-laba-lama-csi"%}}
+{{% modal title="Trithérapies inhalées" id="modal-ttt-laba-lama-csi"%}}
 
 {{< traitements/laba-lama-csi >}}
 
