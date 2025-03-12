@@ -3,7 +3,7 @@ id = "0190e8c9-2aab-7c13-ab49-b1038b2ca1db"
 title = "Névralgie trigéminale classique (ex Névralgie du trijumeau)"
 prefix = "la "
 titleSeo = "Névralgie du trijumeau"
-description = "Recommandations pour la prise en charge d'une névralgie du trijumeau. Critères diagnostiques et bilan par IRM cérébrale, traitement de la douleur carbamazépine"
+description = "Recommandations pour le diagnostic et la prise en charge de la névralgie du trijumeau. Critères diagnostiques, bilan avec IRM cérébrale, traitement par carbamazépine"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr M. LANTERI-MINET (SFETD)"
@@ -19,25 +19,26 @@ sctid = "31681005"
 icd10 = ["G50"]
 image = true
 imageWEBP = true
-imageSrc = "Territoires (dermatomes) des trois branches du nerf trijumeau. BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
+imageSrc = "Territoires sensitifs (dermatomes) des trois branches du nerf trijumeau (nerf V). BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "durée avant envisager décroissance"
+todo = "rank?, update | palier avant envisager décroissance"
 +++
 
 {{%article-summary%}}
 
-- Les recommandations concernent la névralgie du trijumeau dans sa forme essentielle (idiopathique) de l'adulte
-- Critères diagnostiques stricts ICHD-3 de la névralgie du trijumeau
-- Normalité de l'examen neurologique entre les crises
-- Le bilan comporte toujours une IRM cérébrale 3T
-- Prise en charge de la névralgie du trijumeau par antiépileptiques (carbamazépine ou oxcarbazépine)
+- La névralgie trigéminale classique (NTC), anciennement *névralgie du trijumeau*, est une neuropathie crânienne douloureuse rare atteignant le nerf trijumeau (V)
+- Le diagnostic de névralgie du trijumeau est clinico-radiologique selon les critères ICHD-3 avec une IRM cérébrale normale
+- Les symptômes de l'atteinte trigéminale sont des douleurs neuropathiques unilatérales du visage évoluant par poussées douloureuses chez des sujets d'âge moyen (60 ans, principalement des femmes)
+- L'examen neurologique est strictement normal entre les crises
+- Le bilan comporte toujours une IRM cérébrale 3T pour éliminer un diagnostic différentiel
+- La prise en charge de la névralgie du trijumeau repose sur les antiépileptiques: carbamazépine ou oxcarbazépine
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Névralgie trigéminale classique (NTC)
 : *Ex* **névralgie du trijumeau**.  
-Neuropathie crânienne douloureuse rare atteignant le nerf trijumeau qui évolue par poussées douloureuses chez des sujets d'âge moyen (60 ans) avec 2/3 de femmes. Les douleurs sont à l'origine d'une dégradation de la qualité de vie.
+Neuropathie crânienne douloureuse rare atteignant le nerf trijumeau qui évolue par poussées douloureuses chez des sujets d'âge moyen (60 ans), atteignant principalement les femmes (2/3). Les douleurs sont à l'origine d'une dégradation de la qualité de vie.
 : Un conflit vasculo-nerveux est le facteur causal majeur de la NTC, situé au niveau de la citerne pré-pontique entre une méga-dolicho-artère (artère cérébelleuse antéro-supérieure ++) et la portion centrale de la racine à l'origine de démyélinisation.
 : Les poussées durent 49 jours (médiane). ⅓ des patients n'a pas de récidive et des périodes de rémissions variables sont fréquentes.
 
@@ -110,7 +111,7 @@ Signes devant faire évoquer une neuropathie trigéminale douloureuse (atteinte 
 - Faible réponse à la carbamazépine
 - Notion d'atteinte cutanée ou buccale
 - Atteinte isolée du nerf ophtalmique (V1) uni/bilatérale
-- Âge < 40 ans
+- Avant 40 ans
 - Névrite optique
 - Antécédents familiaux de sclérose en plaques
 {{%/warning%}}
@@ -118,12 +119,42 @@ Signes devant faire évoquer une neuropathie trigéminale douloureuse (atteinte 
 La présence d'une de ces drapeaux rouges impose une consultation neurologique urgente.
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Autres causes de douleurs faciales à étayer:
+
+- **Neuropathie trigéminale douloureuse** (NTD)  
+  Atteinte identifiée sur le trajet du nerf trijumeau.  
+  - **Avant 40 ans**
+  - Branche **ophtalmique** surtout
+  - Peut être bilatérale
+  - Pas de zone gâchette
+  - Troubles sensitifs fréquents  
+    Hypoesthésie voire anesthésie.
+  - Faible réponse initiale à la carbamazépine
+  - Atteintes parfois associées  
+    Névrite optique, atteinte cutanée, lésions orales et du système nerveux.
+- Névralgie du nerf glossopharyngien (IX)  
+  Douleurs *oropharyngées* et/ou de l'oreille, possibles signes végétatifs (toux, éternuement, bradycardie voire syncope).
+- Névralgie du nerf intermédiaire (VII bis) ou du nerf facial (VII)  
+  Douleurs du *conduit auditif externe* (CAE). Possibles irradiations pariéto-occipitales, lacrimation, salivation.
+- Syndrome de Raeder  
+  ou syndrome paratrigéminal oculosympathique  
+  Douleurs de névralgie trigéminale avec ptosis, myosis voire l'atteinte d'autres paires crâniennes.
+- Céphalées SUNCT et SUNA
+- [Algie vasculaire de la face]({{% relref "algie-vasculaire-face.md" %}})  
+  Douleurs prolongées (15 à 180 minutes) sans décharge électrique et larmoiement intense. Évolution circadienne et circannuelle.
+- Céphalées en coup de poignard  
+  Douleur en coup de poignard de quelques secondes (parfois en salves) le + souvent en-dehors du territoire trigéminal et migratrice.
+- Epicrania fugax  
+  Céphalée en coup de poignard très brève (1 à 10 s) et migratrice à la surface du crâne (linéaire ou zigzag).
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-La durée médiane des poussées douloureuses est de 50 jours.  
-Des rémissions spontanées sont possibles.
+La durée médiane des poussées douloureuses est de 50 jours. Des rémissions spontanées sont possibles.
 
-5 éléments diagnostiques majeurs:
+5 éléments diagnostiques majeurs pour le diagnostic de la névralgie du trijumeau:
 
 1. **Décours temporel et tonalité de la douleur**
     - Douleur unilatérale
@@ -155,9 +186,7 @@ Avec le temps, aggravation avec des périodes douloureuses de plus en plus longu
 
 ### Territoires préférentiels
 
-70% des patients ont une atteinte:
-
-- Nerf maxillaire (V2) surtout
+- **Nerf maxillaire** (V2) surtout
   - La douleur débute à la lèvre supérieure, touche l'aile du nez et la gencive supérieure.
   - La zone gâchette classique est au sillon nasolabial de la lèvre supérieure.
 - Nerf mandibulaire (V3)
@@ -165,11 +194,14 @@ Avec le temps, aggravation avec des périodes douloureuses de plus en plus longu
   - La zone gâchette classique est au rebord gingivo-alvéolaire de la mandibule.
 - ou l'association des atteintes V2 et V3
 
-Elle prédomine à droite pour 58% des patients.
+La névralgie trigéminale prédomine à droite pour 58% des patients.
 
 ### Examen clinique
 
-Examen sensitivo-moteur exhaustif normal:
+- Pression artérielle, fréquence cardiaque
+- Examen neurologique complet
+
+L'examen sensitivo-moteur est normal:
 
 - Sensibilité faciale et cornéenne
 - Force des masséter et temporaux
@@ -179,49 +211,18 @@ Examen sensitivo-moteur exhaustif normal:
 > Toute anomalie de l'examen neurologique impose une consultation de neurologie.
 
 {{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-Autres diagnostics responsables de douleurs faciales à étayer:
-
-- **Neuropathie trigéminale douloureuse** (NTD)  
-  Atteinte identifiée sur le trajet du nerf trijumeau.  
-  - **Avant 40 ans**
-  - Branche **ophtalmique** surtout
-  - Peut être bilatérale
-  - Pas de zone gâchette
-  - Troubles sensitifs fréquents  
-    Hypoesthésie voire anesthésie.
-  - Faible réponse initiale à la carbamazépine
-  - Atteintes parfois associées  
-    Névrite optique, atteinte cutanée, lésions orales et du système nerveux.
-- Névralgie du nerf glossopharyngien (IX)  
-  Douleurs *oropharyngées* et/ou de l'oreille, possibles signes végétatifs (toux, éternuement, bradycardie voire syncope).
-- Névralgie du nerf intermédiaire (VII bis) ou du nerf facial (VII)  
-  Douleurs du *conduit auditif externe* (CAE). Possibles irradiations pariéto-occipitales, lacrimation, salivation.
-- Syndrome de Raeder  
-  ou syndrome paratrigéminal oculosympathique  
-  Douleurs de névralgie trigéminale avec ptosis, myosis voire l'atteinte d'autres paires crâniennes.
-- Céphalées SUNCT et SUNA
-- [Algie vasculaire de la face]({{% relref "algie-vasculaire-face.md" %}})  
-  Douleurs prolongées (15 à 180 minutes) sans décharge électrique et larmoiement intense. Évolution circadienne et circannuelle.
-- Céphalées en coup de poignard  
-  Douleur en coup de poignard de quelques secondes (parfois en salves) le + souvent en-dehors du territoire trigéminal et migratrice.
-- Epicrania fugax  
-  Céphalée en coup de poignard très brève (1 à 10 s) et migratrice à la surface du crâne (linéaire ou zigzag).
-
-{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 ### IRM cérébrale 3T
 
-IRM cérébrale systématique pour la recherche d'un conflit vasculo-nerveux (NTC) ou le diagnostic différentiel (NTD).
+L'IRM cérébrale 3 Tesla est systématique pour la recherche d'un conflit vasculo-nerveux (NTC) ou le diagnostic différentiel (NTD).
 
 L'IRM cérébrale est réalisée avec des séquences d'acquisitions spécifiques.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la névralgie du trijumeau" %}}
 
-Prise en charge par un traitement médicamenteux de fond de première intention: **carbamazépine ou oxcarbazépine**.
+La prise en charge de la névralgie du trijumeau repose sur un traitement de fond antiépileptique: **carbamazépine ou oxcarbazépine**.
 
 > [!WARNING]
 > Les antalgiques et anti-inflammatoires AINS ne sont pas efficaces sur la névralgie du trijumeau.
@@ -231,13 +232,13 @@ Hospitaliser en cas de poussée douloureuse non contrôlée.
 ### Carbamazépine
 
 Carbamazépine 100 mg matin, midi et LP 100 mg le soir, 30 minutes avant le repas.  
-Augmentation par paliers de 100 mg matin et 100 mg LP soir tous les 2 à 5 jours.
+Augmenter par paliers de 100 mg matin et 100 mg LP soir tous les 2 à 5 jours.
 {.alert .alert-info}
 
 **Débuter:** [carbamazépine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61009918&typedoc=R) (Tegretol® ou autre, non LP de préférence) 200-400 mg/j en 2-3 prises.  
 Augmenter jusqu'à suppression de la douleur (max 1600 mg/j) puis obtention de la dose minimale efficace.
 
-- Non LP de préférence sauf au coucher
+- Forme non LP de préférence sauf au coucher
 - Vérifier systématiquement [les interactions](https://go.drugbank.com/drugs/DB00564)
 - Bilan pré-thérapeutique  
   NFS, bilan hépatique, ECG chez personne âgée.
@@ -253,10 +254,11 @@ Augmenter jusqu'à suppression de la douleur (max 1600 mg/j) puis obtention de l
 ### Oxcarbazépine
 
 Oxcarbazépine 300 mg matin et soir.  
-Augmentation par paliers de 300-600 mg par semaine.
+Augmentation par paliers de 300 à 600 mg par semaine.
 {.alert .alert-info}
 
-**Débuter:** [oxcarbazépine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60043077&typedoc=R) (Trileptal® ou autre) 300 mg x 2/j.  
+**Débuter:** [oxcarbazépine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60043077&typedoc=R) (Trileptal® ou autre) 300 mg x 2/j.
+
 Augmenter jusqu'à suppression de la douleur (max 1800 mg/j) puis obtention de la dose minimale efficace.
 
 - Bien mieux tolérée que la carbamazépine (3x moins d'effets indésirables) mais n'a pas l'AMM en France
@@ -300,9 +302,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Bendtsen L et al. European Academy of Neurology guideline on trigeminal neuralgia. Eur J Neurol. 2019.](https://onlinelibrary.wiley.com/doi/full/10.1111/ene.13950)
+- [Bendtsen L, et al. European Academy of Neurology guideline on trigeminal neuralgia. Eur J Neurol. 2019.](https://onlinelibrary.wiley.com/doi/full/10.1111/ene.13950)
 - [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face. 2019.](https://www.cen-neurologie.fr/second-cycle/migraine-nevralgie-du-trijumeau-algies-face)
-- [Donnet A et al; SFEMC, SFNC. Recommandations pour le diagnostic et la prise en charge de la névralgie trigéminale classique. Neurochirurgie. 2018.](https://www.sciencedirect.com/science/article/pii/S0028377018300456)
-- [Hartemann A et al; SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)
+- [Donnet A, et al; SFEMC, SFNC. Recommandations pour le diagnostic et la prise en charge de la névralgie trigéminale classique. Neurochirurgie. 2018.](https://www.sciencedirect.com/science/article/pii/S0028377018300456)
+- [Hartemann A, et al; SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)
 
 {{%/sources%}}

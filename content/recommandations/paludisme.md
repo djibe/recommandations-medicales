@@ -19,7 +19,7 @@ icd10 = ["B54", "B50", "B51", "B52", "B53"]
 image = true
 imageSrc = "Moustique anophèle vecteur du paludisme. Culicidae, Anopheles sp. Photo de Techuser sur Foter.com / CC BY-NC-ND"
 slider = true
-todo = "Prescrire, ttt ambulatoire accès palustre"
+todo = "update, Prescrire, ttt ambulatoire accès palustre"
 +++
 
 {{%article-summary%}}

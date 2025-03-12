@@ -19,7 +19,7 @@ flowchart = true
 image = true
 imageSrc = "Illustration de la migraine par stories / Freepik"
 sctid = "37796009"
-todo = "assoc patients, titration Propranolol, questionnaire ID Migraine, recouper THM, EHF"
+todo = "SEO | titration Propranolol, questionnaire ID Migraine, recouper THM, EHF"
 modele = true
 +++
 
@@ -55,7 +55,7 @@ Origine génétique et environnementale avec altération très importante de la 
 
 Migraine avec aura
 : *ex migraine accompagnée*.  
-Aura présente chez 15-30% des migraineux, elle augmente le risque vasculaire (AVC ischémique x 2).
+Aura présente chez 15 à 30% des migraineux, elle augmente le risque vasculaire (AVC ischémique x 2).
 : 4 types d'aura: visuelles (+90%), sensitives (30%), aphasique ou motrice (classée migraine hémiplégique).
 
 Migraine cataméniale
@@ -92,7 +92,7 @@ SFEMC
   France: 21,3% des adultes remplissent les critères de la migraine ICHD-3.
 - 2^e^ maladie la plus importante responsable d'*années vécues avec une incapacité* (AVI, *OMS 2016*)
 - 50% ont au moins 2 crises par mois; 40% ont durée +24h; 50% ont intensité sévère à très sévère
-- La prise en charge par les généralistes est déficiente (28% sans triptans, 1/3 sans AINS et le traitement de fond rare -- [Lucas C et al 2024](https://www.sciencedirect.com/science/article/abs/pii/S0035378724000845))
+- La prise en charge par les généralistes est déficiente (28% sans triptans, 1/3 sans AINS et le traitement de fond rare -- *[Lucas C et al 2024](https://www.sciencedirect.com/science/article/abs/pii/S0035378724000845)*)
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -102,7 +102,7 @@ SFEMC
 Autres causes de céphalées:
 
 - Céphalées par abus médicamenteux  
-  Céphalées ≥ 15 j/mois, lors de prise d'antalgiques > 10 j/mois > 3 mois. Souvent associée.
+  Céphalées ≥ 15 jours/mois, lors de prise d'antalgiques > 10 j/mois > 3 mois. Souvent associée.
 - Céphalée de tension  
   Durée en heures ou jours, diffuse, non pulsatile, non aggravée à l'effort, moins intense, sans signes digestifs associés, parfois phono OU photophobie. Souvent associée chez le migraineux.
 - Névralgie d'Arnold
@@ -138,8 +138,8 @@ Examen clinique normal en dehors des crises.
 Critères A à E remplis:
 
 1. ≥ 5 crises répondant aux critères B à D
-2. Céphalées paroxystiques durant de 4 à 72 heures (2-72 chez le mineur)
-3. Céphalées avec ≥ 2 caractères suivants:  
+2. Céphalées paroxystiques durant de 4 à 72 heures (2 à 72h chez le mineur)
+3. Céphalées avec au moins 2 caractères suivants:  
   Unilatérale, pulsatile, intensité modérée/sévère, aggravée par ou entraînant l'évitement de l'activité physique de routine (marche, escaliers...).
 4. Céphalées associées à ≥ 1 caractère suivant:  
     - Nausées/vomissements
@@ -298,9 +298,10 @@ Ne pas culpabiliser l'abus médicamenteux en migraine chronique (effet délétè
 - Nausées invalidantes ou vomissements: anti-émétiques recommandés
 - Stress, anxiété, retentissement  
   Relaxation, biofeedback, TCC, thérapie de pleine conscience.
+- Associations de patients: [Association française des céphalées](https://associationfrancaisedescephalees.fr), [La voix des migraineux](https://www.lavoixdesmigraineux.fr/)
 
 > [!WARNING]
-> Aura = contre-indication aux contraceptions estroprogestatives.
+> La migraine avec aura est une contre-indication aux contraceptions estroprogestatives.
 
 ### Traitement de la crise migraineuse
 
@@ -374,7 +375,7 @@ Efficacité prouvée: Neuromodulation électrique. Sur prescription spécialisé
 ### Pour en savoir plus: autres traitements non spécifiques de la migraine
 
 - Paracétamol 1g
-- Paracétamol + caféine 500/50 (efficacité comparable au sumatriptan)  
+- Paracétamol + caféine 500/50 mg (efficacité comparable au sumatriptan)  
   Ex: Algodol, Céfaline hauth, Claradol caféine, Prontad, Actron (+ aspirine).
 - Paracétamol + métoclopramide (efficacité comparable au sumatriptan)
 - AINS  
@@ -476,9 +477,9 @@ Autres traitements de fond antimigraineux pouvant être proposés en migraine é
 Trois éléments de suivi: Agenda migraineux, {{< modal-btn modal-hit6 >}}qualité de vie HIT-6{{< /modal-btn >}} et {{< modal-btn modal-hads >}}retentissement HAD{{< /modal-btn >}}.
 
 - Traitement de la crise pris dans l'heure est efficace sur tous les critères (ou {{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}}):
-    1. Soulagement significatif de la céphalée à H2
+    1. Soulagement significatif de la céphalée à 2 heures
     2. Nécessité d'une seule administration d'antimigraineux pour ce soulagement
-    3. Traitement efficace ≥ 2 fois/3
+    3. Traitement efficace au moins 2 fois/3
 - En cas de traitement de fond, ≥ 1 critère rempli durant le 3^e^ mois de traitement:
   - Réduit les crises de migraine épisodique de 50%
   - Réduit les crises de migraine chronique de 30%

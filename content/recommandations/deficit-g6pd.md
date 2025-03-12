@@ -170,4 +170,8 @@ style déficit stroke:#4150f5, stroke-width:1px
 - [Centre de référence des thalassémies. Déficit en G6PD ou favisme. PNDS. 2017.](https://www.has-sante.fr/jcms/c_2800207/fr/deficit-en-g6pd-glucose-6-phosphate-deshydrogenase-ou-favisme)
 - [Anses. Favisme. 11/12/2012.](https://www.anses.fr/fr/content/favisme)
 
+### Bibliographie en attente
+
+[Gammal RS, et al. Expanded Clinical Pharmacogenetics Implementation Consortium Guideline for Medication Use in the Context of G6PD Genotype. Clin Pharmacol Ther. 2023.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10281211/) (supp Table S3) et [CPIC® Guideline for G6PD](https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/)
+
 {{%/sources%}}

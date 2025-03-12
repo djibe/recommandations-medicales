@@ -2,7 +2,7 @@
 id = "0190e8c9-d0d5-7685-8ee6-65dc40d2345c"
 title = "Panaris"
 prefix = "le "
-description = "Recommandations pour la prise en charge du panaris. Infection par Staphylocoque doré ou streptocoque. Bains antiseptiques voire antibiothérapie"
+description = "Recommandations pour le diagnostic et la prise en charge du panaris. Infection à Staphylocoque doré ou streptocoque. Bains antiseptiques voire antibiothérapie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-25T21:22:41+02:00"

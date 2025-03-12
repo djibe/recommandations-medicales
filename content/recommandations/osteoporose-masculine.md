@@ -3,7 +3,7 @@ id = "0190e8c9-7282-7e7a-8b0b-f0ec95b2ddce"
 title = "Ostéoporose masculine"
 prefix = "l'"
 titleSeo = "ostéoporose masculine"
-description = "Recommandations pour la prise en charge et le traitement de l'ostéoporose masculine: indications de l'ostéodensitométrie, fragilité, T-score, biphosphonates"
+description = "Recommandations pour le diagnostic et la prise en charge de l'ostéoporose masculine. Ostéodensitométrie et T-score, traitement par biphosphonates, calcium et vitamine D"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-11T16:28:37+02:00"
@@ -18,7 +18,7 @@ sctid = "64859006"
 icd10 = ["M81.9", "M81.8"]
 image = true
 imageSrc = "Illustration de l'ostéoporose de l'homme. BruceBlaus, CC BY-SA 4.0 via Wikimedia Commons"
-todo = "relecture bebouvard@chu-angers.fr"
+todo = "seo | relecture bebouvard@chu-angers.fr"
 flowchart = true
 +++
 
@@ -30,9 +30,9 @@ flowchart = true
 4. Avis rhumatologique si: -70 ans, hypogonadisme, T-score proche de l'indication de traiter, contre-indication au traitement, après 2-3 ans de traitement
 5. Prise en charge par biphosphonate: bilan bucco-dentaire, [zolédronate 5 mg/100 mL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) (tériparatide SC possible pour ≥ 2 fractures vertébrales)  
   Au moins 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)
-6. {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} et souvent supplémenter à distance des repas, supplémenter en vitamine D
-7. Contrôle de l'ostéodensitométrie à 2-3 ans + avis rhumatologique
-8. Nouveau contrôle de la DXA 2 ans après l'arrêt du traitement
+1. {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} et souvent supplémenter à distance des repas, supplémenter en vitamine D
+2. Contrôle de l'ostéodensitométrie à 2-3 ans + avis rhumatologique
+3. Nouveau contrôle de la DXA 2 ans après l'arrêt du traitement
 
 ### Prévention pour tous {.typography-overline .mb-2}
 

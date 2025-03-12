@@ -17,17 +17,17 @@ sctid = "14669001"
 icd10 = ["N17", "N17.9"]
 image = true
 imageSrc = "Uronéphrose droite sur lithiase urinaire. Cas du Dr Sajoscha A. Sorrentino, Radiopaedia.org, rID: 15679"
+todo = "IEC/ARA2/néphrotoxiques"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- L'insuffisance rénale aiguë (IRA) est une urgence médicale
-- Définition de l'insuffisance rénale aiguë: {{< clinique/insuffisance-renale-aigue >}}
-- Évaluer la gravité clinique, rechercher un globe vésical et adresser pour prise en charge aux Urgences (échographique-biologie-ECG)  
+- L'insuffisance rénale aiguë (IRA) est une urgence médicale définie comme: {{< clinique/insuffisance-renale-aigue >}}
+- Évaluer la gravité clinique, rechercher un globe vésical, arrêter les IEC/ARA2/néphrotoxiques et adresser pour prise en charge aux Urgences (échographique-biologie-ECG)  
   Fournir les antécédents et bilans rénaux pour aider à la recherche étiologique
 - Pour les informations sur les injections de produits de contraste iodé, voir *Rein et produits de contraste*
-- Le KDIGO travaille sur les recommandations 2023
+- Les recommandations 2023 du KDIGO se font toujours attendre
 
 Chapitre lié: [insuffisance rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})
 

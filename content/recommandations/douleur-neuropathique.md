@@ -337,17 +337,17 @@ Bilan étiologique par le neurologue en cause non évidente.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Moisset X et al. French guidelines for neuropathic pain: An update and commentary. Revue neurologique. 2021.](https://hal.archives-ouvertes.fr/hal-03401768)
-- [Moisset X et al; SFETD. Traitements pharmacologiques et non pharmacologiques de la douleur neuropathique : une synthèse des recommandations françaises. Douleur Et Analgesie. 2020. (PDF)](https://www.sfetd-douleur.org/wp-content/uploads/2021/02/synth%C3%A8se-RECOS-DN-langue-fran%C3%A7aise1.pdf)
-- [Hartemann A. et al; SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)
+- [Moisset X, et al. French guidelines for neuropathic pain: An update and commentary. Revue neurologique. 2021.](https://hal.archives-ouvertes.fr/hal-03401768)
+- [Moisset X, et al; SFETD. Traitements pharmacologiques et non pharmacologiques de la douleur neuropathique : une synthèse des recommandations françaises. Douleur Et Analgesie. 2020. (PDF)](https://www.sfetd-douleur.org/wp-content/uploads/2021/02/synth%C3%A8se-RECOS-DN-langue-fran%C3%A7aise1.pdf)
+- [Hartemann A, et al; SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)
 - [HAS. Prise en charge diagnostique des neuropathies périphériques. Recommandations professionnelles. Mai 2007.](https://www.has-sante.fr/jcms/c_598221/fr/prise-en-charge-diagnostique-des-neuropathies-peripheriques-polyneuropathies-et-mononeuropathies-multiples)
 - [Collège des enseignants de neurologie. Bases neurophysiologiques, mécanismes physiopathologiques d'une douleur aiguë et d'une douleur chronique - Thérapeutiques antalgiques, médicamenteuses et non médicamenteuses. Item 131.](https://www.cen-neurologie.fr/second-cycle/douleur)
 
 ### Bibliographie en attente
 
-- [Sayed D et al. A Systematic Guideline by the ASPN Workgroup on the Evidence, Education, and Treatment Algorithm for Painful Diabetic Neuropathy: SWEET. J Pain Res. 2024.](https://www.dovepress.com/a-systematic-guideline-by-the-aspn-workgroup-on-the-evidence-education-peer-reviewed-fulltext-article-JPR)
+- [Sayed D, et al. A Systematic Guideline by the ASPN Workgroup on the Evidence, Education, and Treatment Algorithm for Painful Diabetic Neuropathy: SWEET. J Pain Res. 2024.](https://www.dovepress.com/a-systematic-guideline-by-the-aspn-workgroup-on-the-evidence-education-peer-reviewed-fulltext-article-JPR)
 - [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)
-- [Attal N et al. EFNS guidelines on the pharmacological treatment of neuropathic pain: 2010 revision. European Journal of Neurology. 2010.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2010.02999.x)
+- [Attal N, et al. EFNS guidelines on the pharmacological treatment of neuropathic pain: 2010 revision. European Journal of Neurology. 2010.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2010.02999.x)
 - [Recodiab.ch. Neuropathie diabétique](https://www.recodiab.ch/RPC20_neuropathie.pdf)
 
 {{%/sources%}}
