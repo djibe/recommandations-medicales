@@ -15,13 +15,13 @@
         <nav aria-label="Fil d'Ariane" class="my-4">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="/"><img src="/favicon.svg" width="24" height="24" alt="Logo de RecoMédicales" aria-label="Accueil"></a></li>
-            <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+            <li class="breadcrumb-item active" aria-current="page">{{ .Title | markdownify }}</li>
           </ol>
         </nav>
       </div>
       <div class="col-12 p-4 my-5">
       {{ range .Pages.ByTitle }}
-      <a class="chip chip-outline chip-action" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <a class="chip chip-outline chip-action" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
       {{ end }}
     </div>
     </div>

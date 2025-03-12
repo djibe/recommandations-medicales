@@ -22,7 +22,7 @@
         <div class="card card-list article">
           <div class="card-img-top bg-article" style="background-image: url('/images/articles/{{.File.BaseFileName}}.webp')"></div>
           <div class="card-header">
-            <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h2>
             {{ with .Params.Subtitle}}<h3 class="card-subtitle">{{ . }}</h3>{{end}}
             <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .PublishDate | time.Format "2 Jan 2006" }}</time></small>
           </div>

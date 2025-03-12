@@ -39,7 +39,7 @@
                 {{ $.Scratch.Set "curLetter" $firstChar }}
                 <h2 class="typography-healine-6 font-weight-bolder mt-5">{{ $firstChar }}</h2>
               {{ end }}
-              <p class="m-0"><a href="{{ .RelPermalink }}" class="list-group-item">{{ .Title }}</a></p>
+              <p class="m-0"><a href="{{ .RelPermalink }}" class="list-group-item">{{ .Title | markdownify }}</a></p>
             {{ end }}
           {{ end }}
         </div>

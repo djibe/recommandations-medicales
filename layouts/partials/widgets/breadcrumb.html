@@ -12,7 +12,7 @@
 
 <li {{- if eq .p1 .p2 }} class="breadcrumb-item active" aria-current="page"{{ else }} class="breadcrumb-item"{{ end }}>
   {{ if ne .p1 .p2 }}<a href="{{ .p1.Permalink }}">{{ end }}
-    {{ with .p1.Params.breadcrumbTitle }}{{ . }}{{ else }}{{ $anchorContent | truncate 25 }}{{ end }}
+    {{ with .p1.Params.breadcrumbTitle }}{{ . }}{{ else }}{{ $anchorContent | markdownify | truncate 25 }}{{ end }}
     {{ if ne .p1 .p2 }}</a>{{ end }}
 </li>
 {{ end -}}

@@ -14,7 +14,7 @@
                   href="#navd-{{ $category | urlize }}">{{ $category | truncate 30 }}</a>
                   <div class="collapse" id="navd-{{$category | urlize | lower}}">
                      {{- range $pageOfCategory.Pages.ByTitle -}}
-                     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                     <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
                      {{ end }}
                   </div>
                   {{ end }}

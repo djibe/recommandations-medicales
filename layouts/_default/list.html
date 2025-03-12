@@ -24,7 +24,7 @@
       {{ range .Pages.ByTitle }}
       <div class="card card-grid">
         <div class="card-body position-relative card-primary-action">
-          <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h2>
           {{ with .Params.specialites}}<h3 class="card-subtitle d-none d-md-block">{{ delimit . ", " }}</h3>{{end}}
         </div>
         <div class="card-actions">
