@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-16T13:47:19+01:00"
 publishdate = "2021-11-18"
 lastmod = "2023-12-21"
-specialites = ["psychiatrie", "therapeutique"]
+specialites = ["psychiatrie", "thérapeutique"]
 annees = "2015"
 sources = ["HAS"]
 tags = ["chute", "demence", "prevention"]
@@ -248,7 +248,8 @@ graph TB
 
 ### Bibliographie en attente
 
-[Baldwin D et al; British Association for Psychopharmacology. Benzodiazepines: Risks and benefits. A reconsideration. 2013. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Benzodiazepines.pdf)
+- [Brunner E, et al; American Society of Addiction Medicine. The Joint Clinical Practice Guideline on Benzodiazepine Tapering. 2025.](https://www.asam.org/quality-care/clinical-guidelines/benzodiazepine-tapering)
+- [Baldwin D et al; British Association for Psychopharmacology. Benzodiazepines: Risks and benefits. A reconsideration. 2013. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Benzodiazepines.pdf)
 
 {{%/sources%}}
 {{% modal title="Échelle ECAB" id="modal-score-ecab"%}}

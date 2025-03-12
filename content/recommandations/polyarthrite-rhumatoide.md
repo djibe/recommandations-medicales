@@ -8,10 +8,10 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr JG LETAROUILLY (SFR)"
 date = "2020-10-23T22:24:41+02:00"
 publishdate = "2020-10-23"
-lastmod = "2023-11-26"
+lastmod = "2025-03-06"
 specialites = ["rhumatologie"]
-annees = "2022"
-sources = ["ACR", "EULAR", "SFRhumato", "HAS"]
+annees = "2024"
+sources = ["SFRhumato", "ACR", "EULAR", "HAS"]
 tags = ["biotherapie", "vaccin"]
 english = ["Rheumatoid arthritis"]
 sctid = "69896004"
@@ -25,8 +25,9 @@ modele = true
 
 {{%article-summary%}}
 
-- Évoquer une polyarthrite rhumatoïde devant toute arthrite, dérouillage de plus de 30 minutes, douleurs en pression des mains ou pieds (MCP/MTP)
-- Une suspicion de polyarthrite rhumatoïde nécessite un diagnostic rhumatologique et un traitement rapide
+- La polyarthrite rhumatoïde est le premier rhumatisme inflammatoire de l'adulte, donnant des arthrites évoluant par poussées
+- Évoquer une polyarthrite devant toute arthrite, dérouillage de plus de 30 minutes, douleurs en pression des mains ou pieds (MCP/MTP)
+- Une suspicion de polyarthrite rhumatoïde nécessite un diagnostic par le rhumatologue et un traitement rapide
 - Prescrire le bilan biologique avec les radiographies pour adresser au rhumatologue dans les 6 semaines (voir *Examens complémentaires*)
 - La prise en charge de la polyarthrite rhumatoïde par un traitement spécifique relève exclusivement du rhumatologue
 - Le méthotrexate doit être pris un jour fixe de la semaine avec prise de 10 mg d'acide folique 48 heures après
@@ -349,6 +350,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Fautrel B, et al. 2024 update of the recommendations of the French Society of Rheumatology for the diagnosis and management of patients with rheumatoid arthritis. Joint Bone Spine. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X24001015)
 - [England BR, et al. 2022 American College of Rheumatology Guideline for Exercise, Rehabilitation, Diet, and Additional Integrative Interventions for Rheumatoid Arthritis. Arthritis Rheumatol. 2023.](https://rheumatology.org/integrative-ra-treatment-guideline)
 - {{< references/esh-2023 >}}
 - [Smolen JS, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. Annals of the Rheumatic Diseases. 2022.](https://ard.bmj.com/content/early/2022/11/10/ard-2022-223356)
@@ -362,8 +364,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Fautrel B, et al. 2024 update of the recommendations of the French Society of Rheumatology for the diagnosis and management of patients with rheumatoid arthritis. Joint Bone Spine. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X24001015)
-- [Johnson SR, et al. 2023 American College of Rheumatology (ACR)/American College of Chest Physicians (CHEST) Guideline for the Screening and Monitoring of Interstitial Lung Disease in People with Systemic Autoimmune Rheumatic Diseases. Arthritis Care Res (Hoboken). 2024.](https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/acr.25347)
+[Johnson SR, et al. 2023 American College of Rheumatology (ACR)/American College of Chest Physicians (CHEST) Guideline for the Screening and Monitoring of Interstitial Lung Disease in People with Systemic Autoimmune Rheumatic Diseases. Arthritis Care Res (Hoboken). 2024.](https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/acr.25347)
 
 {{%/sources%}}
 {{% modele %}}

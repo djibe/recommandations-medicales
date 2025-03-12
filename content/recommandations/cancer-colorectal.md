@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
 publishdate = "2022-09-22"
 lastmod = "2024-04-05"
-specialites = ["hepato-gastro-enterologie"]
+specialites = ["hépato-gastro-entérologie"]
 annees = "2023"
 sources = ["SNFGE", "INCa", "HAS", "SFED"]
 tags = ["cancer", "depistage", "fatigue", "obesite", "prevention", "tabac"]
@@ -390,6 +390,10 @@ graph TB
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique SYNDROME HNPCC / lynch. 2009. (PDF)](https://www.e-cancer.fr/content/download/58350/531976/file/chir_prophy_predi_gene_hnpcc-lynch.pdf)
 - [SFCD et ACHBT. Prise en charge des patients atteints de métastases hépatiques synchrones du cancer colorectal (synthèse). (PDF)](https://www.e-cancer.fr/content/download/58365/532096/file/reco-label-mhs-synthese.pdf)
 - [ESMO. Localised Colon Cancer. Interactive Guideline.](http://interactiveguidelines.esmo.org/esmo-web-app/gl_toc/index.php?GL_id=74)
+
+### Bibliographie en attente
+
+[Jacobson BC, et al. Optimizing Bowel Preparation Quality for Colonoscopy: Consensus Recommendations by the US Multi-Society Task Force on Colorectal Cancer. Am J Gastroenterol. 2025.](https://doi.org/10.14309/ajg.0000000000003287)
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}

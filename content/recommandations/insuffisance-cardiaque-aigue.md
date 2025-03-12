@@ -18,7 +18,7 @@ sctid = "56675007"
 icd10 = ["I50.9"]
 image = true
 imageSrc = "Turgescence jugulaire droite témoignant d'une insuffisance cardiaque droite. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "pediatrie"
+todo = "pédiatrie"
 flowchart = true
 +++
 

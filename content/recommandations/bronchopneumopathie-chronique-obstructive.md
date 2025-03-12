@@ -491,7 +491,7 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
 
 - Biologie selon comorbidités et examen  
   - Urémie, créatininémie, NT-proBNP, d-dimères
-  - Les CRP et PCT ne sont pas fiables pour étayer une surinfection (*GOLD 2023* et *SPLF 2017*)
+  - Les CRP et PCT ne sont pas fiables pour étayer une surinfection (*GOLD 2025* et *SPLF 2017*)
 - ECG si FC > 100 ou < 60/min (*SPLF 2017*)
 - Radiographie thoracique en cas d'incertitude
 
@@ -577,7 +577,7 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
 {{% /collapse %}}
 {{%collapse "Prise en charge de la BPCO" "show" %}}
 
-{{< mermaid title="Prise en charge de la BPCO, diagnostique et thérapeutique. Dr JB Fron d'après SPLF, ERS et GOLD 2023" >}}
+{{< mermaid title="Prise en charge de la BPCO, diagnostique et thérapeutique. Dr JB Fron d'après SPLF, ERS et GOLD 2025" >}}
 graph TB
   depister["<b>Dépister</b><br>—<br>- Mini spiromètre<br>- Questionnaire GOLD<br>- ≥ 40 ans avec ≥ 1 parmi:<br>tabagisme, env. pollué,<br>chauffage charbon/bois,<br>exposition professionnelle,<br>toux chronique, expectorations,<br>dyspnée"]
   style depister stroke:#4150f5, stroke-width:1px
