@@ -2,7 +2,7 @@
 id = "0190e8c9-473c-7ac5-b64d-2651fb35b875"
 title = "Nodule thyroïdien"
 prefix = "le "
-description = "Recommandations pour la prise en charge des nodules thyroïdiens: bilan et indications de l'échographie thyroïdienne, la cytoponction, le traitement et le suivi"
+description = "Recommandations pour le diagnostic et la prise en charge des nodules thyroïdiens: bilan et indications de l'échographie, la cytoponction, le traitement et le suivi"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr F. MENEGAUX (AFCE)"
@@ -29,7 +29,7 @@ flowchart = true
 - Indications à l'échographie de la thyroïde: nodule palpable, gênant ou compressif, incidentalome en imagerie. Elle donne le score EU-TIRADS
 - Recommandations pour le recours à la cytoponction: adénopathie cervicale suspecte, EU-TIRADS 5 > 10 mm, EU-TIRADS 4 > 15 mm, EU-TIRADS 3 > 20 mm. Elle donne le score de Bethesda
 - Surveillance des nodules thyroïdiens EU-TIRADS 2-3-4 ou Bethesda II: échographie à 1-2 ans puis 2-4 ans plus tard puis tous les 4-5 ans
-- La prise en charge du nodule thyroïdien chez l'enfant et pendant la grossesse relève du spécialiste (TSH + échographie systématique)
+- La prise en charge du nodule thyroïdien chez l'enfant et pendant la grossesse relève du spécialiste (TSH et échographie systématiques)
 
 Chapitres liés: [cancer de la thyroïde]({{% relref "cancer-thyroide.md" %}}), [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})
 

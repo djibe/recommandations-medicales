@@ -18,7 +18,7 @@ icd10 = ["G58.8"]
 image = true
 imageWEBP = true
 imageSrc = "Trajet du nerf pudendal. Medical gallery of Mikael Häggström 2014. WikiJournal of Medicine 1. DOI:10.15347/wjm/2014.008. Public domain, via Wikimedia Commons"
-todo = "flow"
+todo = "rankok | flow"
 +++
 
 {{%article-summary%}}

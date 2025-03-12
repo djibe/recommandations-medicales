@@ -3,7 +3,7 @@ id = "0190e8c9-a56e-7e69-ab90-de84b872ad6c"
 title = "Otite moyenne aiguë purulente (OMAP)"
 titleSeo = "Otite moyenne aiguë"
 prefix = "l'"
-description = "Recommandations pour la prise en charge de l'otite moyenne aiguë purulente (OMAP). Antibiothérapie avant 2 ans amoxicilline 10 jours, cefpodoxime si allergie"
+description = "Recommandations pour le diagnostic et la prise en charge de l'otite moyenne aiguë purulente (OMAP). Otoscopie, surveillance ou antibiothérapie par amoxicilline"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-06T15:58:31+02:00"
@@ -18,7 +18,7 @@ sctid = "194281003"
 icd10 = ["H66.0", "H66.9", "H72.9"]
 image = true
 imageSrc = "Otite moyenne aiguë purulente gauche non perforée (tympan inflammatoire et bombé). B. Welleschik, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "outil, récidivantes, avion"
+todo = "rank, outil, récidivantes, avion"
 flowchart = true
 +++
 
@@ -45,6 +45,9 @@ Otite moyenne aiguë purulente (OMAP)
 
 ### Abréviations
 
+DRP
+: désobstruction rhinopharyngée
+
 GPIP
 : Groupe de Pathologie Infectieuse Pédiatrique (de la Société Française de Pédiatrie)
 
@@ -63,6 +66,8 @@ SPILF
 
 ### Interrogatoire
 
+Signes et symptômes d'otite moyenne aiguë à rechercher à l'examen:
+
 - Antécédents (otites, ORL)
 - Traitements antibiotiques récents
 - Symptômes
@@ -76,7 +81,7 @@ SPILF
 
 ### Examen clinique
 
-- Tolérance générale: état général, TRC, alimentation
+- Tolérance générale: état général, alimentation, temps de recoloration cutané
 - Otoscopie bilatérale  
   Tympan congestif (inflammatoire rouge ou hypervascularisé) avec **épanchement rétro-tympanique** (opacité rétrotympanique, disparition des reliefs et du triangle lumineux, bombement du tympan). Le tympan est parfois perforé avec écoulement muco-purulent dans le conduit auditif externe.
 - Rechercher une conjonctivite purulente

@@ -17,7 +17,7 @@ sctid = "609558009"
 icd10 = ["G25.0"]
 image = false
 imageSrc = ""
-todo = "photo > flow"
+todo = "rankok | photo > flow"
 +++
 
 {{%article-summary%}}

@@ -43,21 +43,6 @@ todo = "dose chez l'insuffisant rénal"
 
 **NB.** *Alcoolisme* et *diabète* << ne semblent pas être des facteurs de risque >> d'érysipèle.
 
-### Diagnostic différentiel d'un érysipèle
-
-Autres causes de grosse jambe rouge:
-
-- Pied diabétique  
-  - Évolution souvent subaiguë du pied et tiers inférieur de jambe. L'inflammation cutanée apparaît moins limitée avec douleur modérée et fièvre parfois absente
-  - Germes: staphylocoque doré, *Pseudomonas aeruginosa*
-- Autres dermohypodermites bactériennes aiguës  
-  Pasteurellose d'inoculation si notion de [morsure de chien ou chat]({{% relref "morsure.md" %}}).
-- Dermohypodermite sur insuffisance veineuse
-- Eczéma
-  - Prurit, placard érythémateux à bords émiettés
-  - Eczéma de contact: ulcère chronique avec pansements et soins locaux itératifs
-  - Eczéma de stase sur l'insuffisance veineuse chronique
-
 ### Abréviations
 
 DHB
@@ -83,13 +68,34 @@ TVP
 {.dl-inline}
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Autres causes de grosse jambe rouge aiguë:
+
+- Pied diabétique  
+  - Évolution souvent subaiguë du pied et tiers inférieur de jambe. L'inflammation cutanée apparaît moins limitée avec douleur modérée et fièvre parfois absente
+  - Germes: staphylocoque doré, *Pseudomonas aeruginosa*
+- Autres dermohypodermites bactériennes aiguës  
+  Pasteurellose d'inoculation si notion de [morsure de chien ou chat]({{% relref "morsure.md" %}}).
+- Dermohypodermite sur insuffisance veineuse
+- Eczéma
+  - Prurit, placard érythémateux à bords émiettés
+  - Eczéma de contact: ulcère chronique avec pansements et soins locaux itératifs
+  - Eczéma de stase sur l'insuffisance veineuse chronique
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic d'érysipèle est clinique:
+> [!INFO]
+> Le diagnostic d'érysipèle est clinique.
 
+Signes et symptômes d'érysipèle à rechercher à l'examen:
+
+- Antécédents: comorbidités dont diabète, immunosuppression
+- Traitements en cours
 - Début souvent brutal
 - Signes généraux: fièvre, frissons
-- Signes dermatologiques locaux
+- Signes cutanés d'érésipèle:
   - Le plus souvent au **membre inférieur** (90%)
   - Placard inflammatoire (rougeur, chaleur, douleur) érythémateux bien circonscrit unilatéral
   - Parfois lésions bulleuses ou purpuriques
@@ -116,8 +122,6 @@ Aucun examen complémentaire n'est indispensable pour le diagnostic d'érysipèl
 
 ### Bilan d'un érysipèle
 
-Le bilan biologique est utile pour évaluer le retentissement en présence de comorbidités:
-
 - NFS, CRP
 - Ionogramme sanguin
 - Créatininémie, DFG
@@ -138,18 +142,6 @@ Mesures de prévention des érysipèles:
 - Contention veineuse
 - Traitement précoce de toute porte d'entrée cutanée  
   [Intertrigo]({{% relref "mycoses-dermatophytes-candidoses.md" %}}), ulcère, plaie.
-
-### Érysipèles récidivants au moins 2 fois an et facteurs favorisants non contrôlables
-
-Érysipèle récidivant
-: Survenue d'au moins 2 DHBNN par an. L'antibioprophylaxie est recommandée en cas de facteurs favorisants non contrôlables.
-
-Une antibioprophylaxie (après concertation) au long cours est possible avec un effet suspensif:
-
-- Benzathine-pénicilline G IM 2,4 MUI 1 injection toutes les 2 à 4 semaines
-- ou pénicilline V (Oracilline®) per os 0,5 à 1 MUI x 2/j
-
-En cas d'allergie à la pénicilline: azithromycine 250 mg x 1/j
 
 {{% /collapse %}}
 {{%collapse "Critères d'hospitalisation" %}}
@@ -191,10 +183,10 @@ Antibiothérapies recommandées en cas d'allergie documentée à la pénicilline
 
 - Clindamycine (Dalacine®) 600 mg x 3/j (x 4/j si poids > 100 kg) pendant 7 jours
 - ou pristinamycine (Pyostacine®) 1 g x 3/j pendant 7 jours
-- Enfant
+- Érysipèle de l'enfant:
   - Après 6 ans: clindamycine 30 mg/kg/j (max 2,4 g/j) en 3 prises pendant 7 jours
   - Avant 6 ans: triméthoprime-sulfaméthoxazole 30 mg/kg/j (de SMX, max 1,6 g/j) en 3 prises pendant 7 jours
-- Adulte: [morsure d'animal]({{% relref "morsure.md" %}})
+- [Morsure d'animal]({{% relref "morsure.md" %}}) de l'adulte:
   - Amoxicilline/acide clavulanique 50 mg/kg/j en 3 prises pendant 7 jours (amoxicilline max 6 g/j et a. clavulanique max 375 mg/j)
   - Avis infectiologique en cas d'allergie à la pénicilline
 
@@ -205,22 +197,33 @@ Antibiothérapies recommandées en cas d'allergie documentée à la pénicilline
 Recommandations de prise en charge associées pour le traitement d'un érysipèle:
 
 - Surveillance clinique quotidienne des signes locaux et généraux
-- Éradication de la porte d'entrée  
+- **Éradication de la porte d'entrée**  
   Intertrigo, [ulcère]({{% relref "ulcere-veineux.md" %}}). Soins de peau à l'eau et au savon sauf plaie franchement surinfectée.
 - Anticoagulation préventive selon le risque  
   Déambulation, âge, autres.
-- Antipyrexie par paracétamol simple
+- Antipyrexie: paracétamol
 - Vérification des vaccinations
 - Surélévation de la jambe pour diminuer œdème et douleurs
 - Pas de contre-indication au lever précoce et contention veineuse
-- Hospitaliser si persistance de fièvre à 72h, apparition de nouveaux signes locaux/généraux ou décompensation de maladie associée
-- Antibioprophylaxie: voir *Prévention*
+- Hospitaliser si persistance de fièvre à 72 heures, apparition de nouveaux signes locaux/généraux ou décompensation de maladie associée
 
 **NB.** Aucun intérêt de traitement local antiseptique ou antibiotique sur lésions/porte d'entrée.  
 Aucune indication des corticoïdes (sauf traitement au long cours).
 
 Contre-indication aux anti-inflammatoires AINS per os ou locaux. Ils pourraient favoriser les fasciites nécrosantes sauf traitement au long cours.
 {.alert .alert-warning}
+
+### Érysipèles récidivants au moins 2 fois an et facteurs favorisants non contrôlables
+
+Érysipèle récidivant
+: Survenue d'au moins 2 DHBNN par an. L'antibioprophylaxie est recommandée en cas de facteurs favorisants non contrôlables.
+
+Une antibioprophylaxie (après concertation) au long cours est possible avec un effet suspensif:
+
+- Benzathine-pénicilline G IM 2,4 MUI 1 injection toutes les 2 à 4 semaines
+- ou pénicilline V (Oracilline®) per os 0,5 à 1 MUI x 2/j
+
+En cas d'allergie à la pénicilline: azithromycine 250 mg x 1/j
 
 {{% /collapse %}}
 {{%collapse "Prise en charge d'un érysipèle" "show" %}}

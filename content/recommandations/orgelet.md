@@ -2,7 +2,7 @@
 id = "0190e8c9-65a3-7e9b-8df4-590e30974158"
 title = "Orgelet"
 prefix = "l'"
-description = "Recommandations pour la prise en charge d'une orgelet. Furoncle de la paupière à Staphylocoque doré avec traitement par collyre antibiotique pendant 8 jours"
+description = "Recommandations pour le diagnostic et la prise en charge d'un orgelet. Furoncle de la paupière à Staphylocoque doré avec traitement par collyre antibiotique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-29T23:33:00+02:00"
@@ -22,8 +22,8 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'orgelet est un furoncle du bord libre de la paupière
-- Le diagnostic d'orgelet est clinique
+- L'orgelet est un furoncle de la paupière
+- Le diagnostic d'orgelet est clinique: furoncle du bord libre de la paupière centré sur un cil
 - La prise en charge de l'orgelet consiste en un traitement antibiotique local pendant 8 jours
 - Ne pas porter de lentilles de contact pendant toute la durée du traitement
 
