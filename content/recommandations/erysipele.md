@@ -231,12 +231,12 @@ En cas d'allergie à la pénicilline: azithromycine 250 mg x 1/j
 {{< mermaid title="Conduite à tenir et prise en charge d'un érysipèle. Dr JB Fron d'après HAS/SPILF 2024" >}}
 graph TB
   diagnostic[Diagnostic clinique d'érysipèle]
-    diagnostic --> indichospitalisation("<b>Indication à l'hospitalisation ?</b><br>—<br>- Fasciite nécrosante<br>- Doute diagnostique<br>- SG marqués<br>- Fragilité<br>- Contexte social<br>- Complication locale<br>- AINS, corticoïdes<br>- Échec à 24-48h")
-      indichospitalisation -- Non --> antibiotique("- Amoxicilline 50 mg/kg en 3 prises<br>7 jours (max 6 g/j)<br>- Surveillance clinique<br>- Porte d'entrée<br>- Vaccinations<br>- Anticoagulation selon déambulation")
-        antibiotique --> prevention("<b>Prévention</b><br>—<br>- Contention veineuse<br>- Porte d'entrée<br>- ≥ 2 récidives/an<br>Pénicilline V ou BPG")
+    diagnostic --> hospitalisation("<b>Indication à l'hospitalisation ?</b><br>—<br>- Fasciite nécrosante<br>- Doute diagnostique<br>- SG marqués<br>- Fragilité<br>- Contexte social<br>- Complication locale<br>- AINS, corticoïdes<br>- Échec à 24-48h")
+      hospitalisation -- Oui --> hospit(Hospitalisation)
+      hospitalisation -- Non --> antibiotique("- Amoxicilline 50 mg/kg en 3 prises<br>7 jours (max 6 g/j)<br>- Surveillance clinique<br>- Porte d'entrée<br>- Vaccinations<br>- Anticoagulation selon déambulation")
+        antibiotique --> prevention("<b>Prévention</b><br>—<br>- Contention veineuse<br>- Porte d'entrée<br>- ≥ 2 récidives/an:<br>pénicilline V ou BPG")
         antibiotique -- Allergie pénicilline --> allergie("- Clindamycine 600 mg x 3/j<br>x 4/j si poids > 100 kg<br>- ou pristinamycine 1 g x 3/j")
-      indichospitalisation -- Oui --> hospitalisation(Hospitalisation)
-    diagnostic -- Diagnostic différentiel --> differentiel("- Pied diabétique<br>- DH bactérienne aiguë<br>- DH sur insuffisance veineuse<br>- Eczéma")
+    diagnostic -- Diagnostic différentiel --> différentiel("- Pied diabétique<br>- DH bactérienne aiguë<br>- DH sur insuffisance veineuse<br>- Eczéma")
   style diagnostic stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

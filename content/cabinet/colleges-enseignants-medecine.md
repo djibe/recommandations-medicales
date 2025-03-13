@@ -5,8 +5,8 @@ description = "Liens vers les collèges des enseignants de médecine de deuxièm
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-14T16:20:00+02:00"
 publishdate = "2023-01-16"
-lastmod = "2024-12-16"
-annees = "2024"
+lastmod = "2025-03-13"
+annees = "2025"
 sources = ["Colleges"]
 tags = []
 image = true
@@ -35,7 +35,7 @@ Le tableau ci-dessous liste tous les référentiels des Collèges de médecine d
 | Gériatrie | CNEG <br><span class="typography-caption">Collège National des Enseignants en Gériatrie</span> | 2014 | [lien](https://www.seformeralageriatrie.org/livregeriatriecneg) |
 | Infectiologie | CMIT <br><span class="typography-caption">Collège des universitaires de Maladies Infectieuses et Tropicales</span> | 2023 | [Pilly](https://www.infectiologie.com/fr/pilly-etudiant-2023-disponible-a-la-vente-et-en-ligne.html) |
 | Médecine physique | COFEMER <br><span class="typography-caption">Collège Français des Enseignants universitaires de Médecine physique et de Réadaptation</span> | 2018 | [lien](https://www.cofemer.fr/cofemer/gestionPagesWebStandard.do?dispatchMethod=affiche&pageId=55) |
-| Néphrologie | CUEN <br><span class="typography-caption">Collège Universitaire des Enseignants de Néphrologie</span> | 2023 | [lien](http://manuel3.cuen.fr) |
+| Néphrologie | CUEN <br><span class="typography-caption">Collège Universitaire des Enseignants de Néphrologie</span> | 2025 | [lien](https://manuel4.cuen.fr) |
 | Neurologie | CEN <br><span class="typography-caption">Collège des Enseignants de Neurologie</span> | 2019 | [lien](https://www.cen-neurologie.fr/deuxieme-cycle) |
 | Ophtalmologie | COUF <br><span class="typography-caption">Collège des Ophtalmologistes Universitaires de France</span> | 2021 | [lien](http://couf.fr/espace-etudiants/2eme-cycle-dcem/) |
 | ORL | ORL&CCF <br><span class="typography-caption">ORL et Chirurgie de la Face et du Cou</span> | 2022 | [lien UNESS](https://campusorl.fr/espace-etudiants/2eme-cycle-ecni/) |

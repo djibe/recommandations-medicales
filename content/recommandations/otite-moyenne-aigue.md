@@ -103,7 +103,7 @@ Indication au scanner cérébral et du rocher: suspicion de mastoïdite (guéris
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-La prévention des otites moyennes aiguës purulentes passe par les **désobstructions rhinopharyngées** (DRP) répétées en cas de rhinopharyngite aiguë et les [vaccinations anti-pneumococcique]({{% relref "vaccination.md" %}}) et anti-*Haemophilus*.
+La prévention des otites moyennes aiguës purulentes passe par les **désobstructions rhinopharyngées** (DRP) répétées en cas de rhinopharyngite aiguë et la [vaccination anti-pneumococcique]({{% relref "vaccination.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'otite moyenne aiguë" %}}

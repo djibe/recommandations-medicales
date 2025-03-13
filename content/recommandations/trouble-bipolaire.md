@@ -42,9 +42,17 @@ Le traitement est démarré en moyenne après 10 ans d'évolution.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+Rechercher un trouble bipolaire devant tout trouble dépressif, et tentative de suicide chez l'adulte jeune.
+
 Le trouble bipolaire débute entre 15 et 25 ans.
 
 ### Interrogatoire
+
+- Antécédents
+- Antécédents familiaux: bipolarité, dépression
+- Rupture avec le fonctionnement psychique antérieur
+- Troubles épisodiques
+- Évaluation du risque suicidaire
 
 ### Examen clinique
 

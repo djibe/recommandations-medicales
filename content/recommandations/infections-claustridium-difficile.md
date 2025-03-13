@@ -144,8 +144,6 @@ Colectomie
 ### Bibliographie en attente
 
 - [Crobach MJ, et al. European Society of Clinical Microbiology and Infectious Diseases: update of the diagnostic guidance document for Clostridium difficile infection. Clin Microbiol Infect. 2016.](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(16)30025-8/fulltext)
-- Collège
-- Cismef
 - FMC gastro
 
 {{%/sources%}}
