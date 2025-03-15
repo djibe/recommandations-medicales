@@ -243,7 +243,7 @@ Molécules privilégiées:
 {{%warning%}}
 Ne pas utiliser:
 
-- Dompéridone (Motilium®, gén)
+- Dompéridone
 - Cimétidine (Stomédine®, gén)
 - Argiles médicamenteuses
 {{%/warning%}}

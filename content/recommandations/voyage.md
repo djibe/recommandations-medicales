@@ -150,7 +150,7 @@ Prévention du mal des montagnes:
 
 - Ne pas monter trop vite, trop haut
 - Bonne hydratation
-- Acétazolamide, 2 jours avant l'arrivée en haute montagne et poursuivi 2 jours après le point culminant si la descente n'est pas effectuée rapidement  
+- [Acétazolamide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68693244&typedoc=R) (Diamox, gén), 2 jours avant l'arrivée en haute montagne et poursuivi 2 jours après le point culminant si la descente n'est pas effectuée rapidement  
   12 mg matin et début d'après-midi si +80 kg, 2,5-5 mg/kg/j en 2 prises avant sauf contre-indication aux sulfamides.
 
 Pour plus d'information, voir *Derstine et al* dans les *Sources*.

@@ -5,14 +5,14 @@ description = "Aide à la cotation des consultations en médecine générale: co
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2025-02-28"
+lastmod = "2025-03-14"
 annees = "2025"
 sources = ["Assurance Maladie"]
 tags = []
 image = true
 imageSrc = "unDraw"
 style = "thead > tr > th:first-of-type {width: 110px}"
-todo = "MCU, GL, CTE, FS exemple frottis, jour férié, routexl, MPH aussi quand change de MT ?, https://www.fmfpro.org/nomenclature/tarifs-medecins-generalistes-metropole/"
+todo = "F, MN et MM | MCU, GL, CTE, FS exemple frottis, jour férié, routexl, MPH aussi quand change de MT ?, https://www.fmfpro.org/nomenclature/tarifs-medecins-generalistes-metropole/"
 +++
 
 Liste des codes pour les actes et les consultations des adultes et des enfants en médecine générale.
@@ -20,7 +20,6 @@ Liste des codes pour les actes et les consultations des adultes et des enfants e
 
 ## Les nouvelles cotations en 2025
 
-- La fin des majorations non régulées aux heures tardives: F, MN et MM. Seul supplément pour travailler dimanche et après 20h sans régulation: MHP 5€
 - Les certificats obligatoires du nourrisson (COE) passeront à 60 € le 1er juillet
 
 ## Les cotations de 2024 à ne pas oublier
@@ -72,7 +71,10 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 | CCP       | 1re consultation contraception avant 26 ans (à 100%, anonymisable)                            |           47,5 |
 | G         | Consultation contraception annuelle avant 26 ans (à 100% en EXO3)                             |             30 |
 | APC       | Adressé par son MT pour une compétence explicite avec compte-rendu (ne pas revoir à ± 4 mois) |             60 |
-| G + MHP   | Consultation "urgente" non régulée 20-8h, dimanche ou jour férié                              |         30 + 5 |
+| G + MHP   | Consultation non régulée 20h-8h, dimanche ou jour férié                                       |         30 + 5 |
+| G + F     | Consultation "urgente" non régulée dimanche et jours fériés                                   |     30 + 19,06 |
+| G + MN    | Consultation "urgente" non régulée 20-24h (appel après 19h) et 6-8h                           |        30 + 35 |
+| G + MM    | Consultation "urgente" non régulée 0-6h                                                       |        30 + 40 |
 | G + CRN   | Consultation régulée 20-24h et 6-8h                                                           |      30 + 42,5 |
 | G + CRM   | Consultation régulée 0-6h                                                                     |      30 + 59,5 |
 | G + CRD   | Consultation régulée dimanche et jours fériés                                                 |      30 + 26,5 |
@@ -200,7 +202,7 @@ L'extraction de cérumen (CAGD001) à 19,63 € n'a pas d'intérêt.
 
 ## Sources
 
-- [Ameli. Tarifs conventionnels des médecins généralistes et spécialistes. 08/01/2025.](https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/consultations-actes/tarifs/tarifs-conventionnels-medecins-generalistes-specialistes)
+- [Ameli. Tarifs conventionnels des médecins généralistes et spécialistes. 11/03/2025.](https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/consultations-actes/tarifs/tarifs-conventionnels-medecins-generalistes-specialistes)
 - [Ameli. La revalorisation des consultations et des actes.](https://www.ameli.fr/medecin/textes-reference/convention-medicale-2024-2029/grands-axes-convention-detail/mesures-attractivite-exercice-liberal/revalorisation-consultations-actes)
 - [Ameli. Tarifs des consultations : ce qui change au 1er novembre. 30/10/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/tarifs-des-consultations-ce-qui-change-au-1er-novembre)
 - [Ameli. Convention médicale 2016 et règlement arbitral 2023.](https://www.ameli.fr/hauts-de-seine/medecin/textes-reference/convention-medicale-2016)

@@ -208,7 +208,7 @@ Elles peuvent aggraver transitoirement les symptômes.
 - VPPB du canal semi-circulaire antérieur  
   Pas de recommandations.
 
-Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, méclozine, dompéridone (Vogalène®), métoclopramide (Primpéran® ainsi que les autres anti-émétiques).
+Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, méclozine, dompéridone, métoclopramide (Primpéran® ainsi que les autres anti-émétiques).
 {.alert .alert-warning}
 
 {{% /collapse %}}

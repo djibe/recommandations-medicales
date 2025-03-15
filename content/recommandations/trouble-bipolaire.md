@@ -46,10 +46,13 @@ Rechercher un trouble bipolaire devant tout trouble dépressif, et tentative de 
 
 Le trouble bipolaire débute entre 15 et 25 ans.
 
+Toute suspicion de trouble bipolaire nécessite un avis spécialisé psychiatrique.
+
 ### Interrogatoire
 
 - Antécédents
-- Antécédents familiaux: bipolarité, dépression
+- Antécédents familiaux: bipolarité, dépression  
+  Surveillance accrue en cas d'antécédents familiaux.
 - Rupture avec le fonctionnement psychique antérieur
 - Troubles épisodiques
 - Évaluation du risque suicidaire
@@ -73,6 +76,7 @@ Le trouble bipolaire débute entre 15 et 25 ans.
 ### Bibliographie en attente
 
 - Collège
+- [CBIP. Troubles bipolaires : l'utilisation prolongée d'antidépresseurs est-elle justifiée ?. Folia. 2025.](https://www.cbip.be/fr/articles/4504?folia=4503)
 - Prescrire
 - Cochrane
 - Minerva
