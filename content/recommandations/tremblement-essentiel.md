@@ -17,13 +17,13 @@ sctid = "609558009"
 icd10 = ["G25.0"]
 image = false
 imageSrc = ""
-todo = "rankok | photo > flow"
+todo = "rankok | propranolol, photo > flow"
 +++
 
 {{%article-summary%}}
 
 - Le tremblement essentiel est un syndrome de tremblement d'action postural ou cinétique isolé, atteignant les membres supérieurs depuis au moins trois ans
-- L'examen clinique vise à éliminer une maladie de Parkinson, une dystonie ou un autre diagnostic: antécédents familiaux, tremblement isolé à la posture ou durant l'action, sensibilité à la l'alcool, atteinte des membres, de la voix voire de la tête. Évaluation cognitive systématique
+- L'examen clinique vise à éliminer une maladie de Parkinson, une dystonie ou un autre diagnostic: antécédents familiaux, tremblement isolé à la posture ou durant l'action, sensibilité à l'alcool, atteinte des membres, de la voix voire de la tête. Évaluation cognitive systématique
 - Le diagnostic de tremblement essentiel est clinique. L'examen neurologique est donc primordial et strictement normal en dehors du tremblement rapide d'action ou postural
 - Un avis neurologique est requis en cas de doute diagnostique, d'atteinte sévère ou d'anomalies neurologiques (troubles cognitifs, hypoacousie, dystonie ...)
 - La prise en charge du tremblement de repos associe un traitement par propranolol ou primidone (efficacité limitée) et une évaluation par un ergothérapeute. Les traitements invasifs (toxine botulique ou stimulation cérébrale profonde) sont réservés aux centres experts.
@@ -110,7 +110,10 @@ Le DAT-scan (ou DaTscan, SPECT au bêta-CIT) peut être prescrit par le neurolog
 {{% /collapse %}}
 {{%collapse "Traitement du tremblement essentiel" %}}
 
-Les traitements de première intention sont les **propranolol** LP 10-360 mg/j et la **[primidone](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65201684&typedoc=R)** 25-750 mg/j (Mysoline, hors AMM, dosage adapté de 250 mg/j).
+Les traitements de première intention sont:
+
+- **propranolol** LI (10 mg x 3/j, max 360 mg/j) ou LP
+- **[primidone](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65201684&typedoc=R)** 25-750 mg/j (Mysoline, hors AMM, dosage adapté de 250 mg/j)
 
 En cas de contre-indication au propranolol, utiliser un bêtabloquant sélectif: aténolol 100 mg/j.
 

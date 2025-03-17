@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T11:56:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2024-06-20"
+lastmod = "2025-03-17"
 specialites = ["certificats", "infectiologie"]
 annees = "2024"
 sources = ["HCSP", "MinSanté", "Pasteur"]
@@ -151,7 +151,7 @@ Prévention du mal des montagnes:
 - Ne pas monter trop vite, trop haut
 - Bonne hydratation
 - [Acétazolamide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68693244&typedoc=R) (Diamox, gén), 2 jours avant l'arrivée en haute montagne et poursuivi 2 jours après le point culminant si la descente n'est pas effectuée rapidement  
-  12 mg matin et début d'après-midi si +80 kg, 2,5-5 mg/kg/j en 2 prises avant sauf contre-indication aux sulfamides.
+  125 mg matin et début d'après-midi (+80 kg: 250 mg; enfant: 2,5-5 mg/kg/j en 2 prises et max 125 mg/prise) sauf contre-indication aux sulfamides (alternative: dexaméthasone 4 mg x 2/j).
 
 Pour plus d'information, voir *Derstine et al* dans les *Sources*.
 
@@ -362,7 +362,7 @@ N'ont pas démontré d'efficacité: gingembre, homéopathie, acupressure du poin
 ### Bibliographie en attente
 
 - [Derstine M, et al. Prevention, Diagnosis, and Treatment of Acute Altitude Illness. JAMA. 2024.](https://jamanetwork.com/journals/jama/article-abstract/2825331)
-[Société de Médecine des Voyages. Articles et fiches guides.](https://www.medecine-voyages.fr/les-articles-et-fiches-guides/)
+- [Société de Médecine des Voyages. Articles et fiches guides.](https://www.medecine-voyages.fr/les-articles-et-fiches-guides/)
 
 {{%/sources%}}
 {{% modal title="Répulsifs pour la PPAV" id="modal-repulsifs" size="lg" %}}

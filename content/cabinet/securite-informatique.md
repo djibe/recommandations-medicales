@@ -34,7 +34,7 @@ L'antivirus par défaut de Windows, **Microsoft Defender** assure une protection
 
 Antivirus gratuits alternatifs: [Avast Free](https://www.avast.com/fr-fr/free-antivirus-download#pc), [AVG Free](https://www.avg.com/fr-fr/free-antivirus-download#pc), [Bitdefender Free](https://www.bitdefender.com/fr-fr/consumer/free-antivirus) (disponibles depuis **UnigetUI**). Les mêmes antivirus gratuits sont recommandés sur le téléphone portable. Malwarebytes Antimalware est également intéressant pour faire des scans occasionnels.
 
-**Antivirus payants** de haute protection: Avira, Bitdefender, GDATA, McAfee.
+**Antivirus payants** de haute protection: Avira, Bitdefender, GDATA, McAfee, Norton.
 
 > L'antivirus russe *Kaspersky* n'est pas cité, selon les [préconisations de l'ANSSI](https://www.cert.ssi.gouv.fr/cti/CERTFR-2022-CTI-001/) (Agence nationale de la sécurité des systèmes d'information).
 
