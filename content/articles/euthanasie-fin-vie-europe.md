@@ -62,7 +62,7 @@ function drawRegionsMap() {
     ['GB', 1],
   ])
   var geoOptions = {
-  colorAxis: {minValue: 0,  colors: ['#ECEDFE', '#4150f5']},
+  colorAxis: {minValue: 0, colors: ['#ECEDFE', '#4150f5']},
   datalessRegionColor: '#fff',
   legend: {textStyle: {fontName: 'Roboto, sans-serif' }},
   region: '150',

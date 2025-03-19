@@ -24,7 +24,7 @@ flowchart = true
 {{%article-summary%}}
 
 - L'appendicite aiguë est une inflammation de l'appendice du cæcum (côlon droit) pouvant survenir à tout âge
-- Le diagnostic d'appendicite aiguë est délicat (fréquents diagnostics différentiels) et nécessite un bilan en urgence (bandelette urinaire, bilan biologique et échographie abdominale)
+- Le diagnostic d'appendicite aiguë est délicat (fréquents diagnostics différentiels) et nécessite un bilan en urgence: bandelette urinaire, bilan biologique et échographie abdominale
 - L'appendicite aiguë est une urgence chirurgicale (pouvant être différée jusqu'à 24 heures du diagnostic)
 
 {{%/article-summary%}}

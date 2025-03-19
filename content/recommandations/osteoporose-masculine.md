@@ -25,7 +25,7 @@ flowchart = true
 {{%article-summary%}}
 
 1. Ostéodensitométrie (DXA) indiquée chez un homme: fracture de fragilité, corticothérapie ≥ 7,5 mg/j d'éq. prednisone ≥ 3 mois, endocrinopathie, ostéopathie fragilisante
-2. Bilan de l'ostéoporose de l'homme en cas de fracture ou de T-score < -3: testostéronémie totale, NFS, CRP, créatininémie, bilan hépatique, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques ± bilans ciblés
+2. Bilan de l'ostéoporose de l'homme en cas de fracture ou de T-score < -3: testostéronémie libre ou biodisponible, NFS, CRP, créatininémie, bilan hépatique, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques ± bilans ciblés
 3. Biphosphonate en 1^er^ traitement anti-ostéoporotique selon T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou T-score ≤ -3 avec risque {{< modal-btn modal-risque-fracture >}}fracturaire{{< /modal-btn >}}/{{< modal-btn modal-risque-chute >}}de chutes{{< /modal-btn >}}
 4. Avis rhumatologique si: -70 ans, hypogonadisme, T-score proche de l'indication de traiter, contre-indication au traitement, après 2-3 ans de traitement
 5. Prise en charge par biphosphonate: bilan bucco-dentaire, [zolédronate 5 mg/100 mL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) (tériparatide SC possible pour ≥ 2 fractures vertébrales)  
@@ -163,7 +163,7 @@ Bilan biologique en cas de fracture de fragilité ou de T-score < -3:
 - Albuminémie
 - Ferritine (voir [hémochromatose]({{% relref "hemochromatose.md" %}}))
 - [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
-- Testostéronémie totale
+- Testostéronémie libre ou biodisponible (entre 8 et 11h)
 - [Vitamine D]({{% relref "vitamine-d.md" %}})
 - Homme avant 50 ans: test de freinage minute (voir [syndrome de Cushing]({{% relref "syndrome-cushing.md" %}}))
 

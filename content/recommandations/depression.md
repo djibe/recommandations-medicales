@@ -556,26 +556,26 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Noetel M et al. Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. 2024.](https://www.bmj.com/content/384/bmj-2023-075847)
-- [US Preventive Services Task Force, Barry MJ et al. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2806144)
-- [Qaseem A et al. Nonpharmacologic and Pharmacologic Treatments of Adults in the Acute Phase of Major Depressive Disorder: A Living Clinical Guideline From the American College of Physicians. Ann Intern Med. 2023.](https://www.acpjournals.org/doi/full/10.7326/M22-2056?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)
-- [Vita G et al. Antidepressants for the treatment of depression in people with cancer. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011006.pub4/full/fr)
+- [Noetel M, et al. Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. 2024.](https://www.bmj.com/content/384/bmj-2023-075847)
+- [US Preventive Services Task Force, Barry MJ, et al. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2806144)
+- [Qaseem A, et al. Nonpharmacologic and Pharmacologic Treatments of Adults in the Acute Phase of Major Depressive Disorder: A Living Clinical Guideline From the American College of Physicians. Ann Intern Med. 2023.](https://www.acpjournals.org/doi/full/10.7326/M22-2056?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)
+- [Vita G, et al. Antidepressants for the treatment of depression in people with cancer. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011006.pub4/full/fr)
 - [Académie Nationale de Médecine. Efficacité et tolérance de l'électroconvulsivothérapie en psychiatrie, une mise au point. Communication scientifique. 2023.](https://www.academie-medecine.fr/efficacite-et-tolerance-de-lelectroconvulsivotherapie-en-psychiatrie-une-mise-au-point/)
-- [Cuijpers P et al. Cognitive behavior therapy vs. control conditions, other psychotherapies, pharmacotherapies and combined treatment for depression: a comprehensive meta-analysis including 409 trials with 52,702 patients. World Psychiatry. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36640411/)
+- [Cuijpers P, et al. Cognitive behavior therapy vs. control conditions, other psychotherapies, pharmacotherapies and combined treatment for depression: a comprehensive meta-analysis including 409 trials with 52,702 patients. World Psychiatry. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36640411/)
 - Prescrire Redaction. Dépressions médicamenteuses. Rev Prescrire. 2023.
 - Prescrire Redaction. Bilan 2023 des médicaments à écarter : psychiatrie - dépendances. Rev Prescrire. 2022.
 - [HAS. Stimulation magnétique transcrânienne dans le traitement de la dépression de l'adulte. 2022.](https://www.has-sante.fr/jcms/p_3211966/fr/stimulation-magnetique-transcranienne-dans-le-traitement-de-la-depression-de-l-adulte)
-- [McQuaid JR et al. The Management of Major Depressive Disorder: Synopsis of the 2022 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline. Ann Intern Med. 2022.](https://www.acpjournals.org/doi/full/10.7326/M22-1603)
+- [McQuaid JR, et al. The Management of Major Depressive Disorder: Synopsis of the 2022 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline. Ann Intern Med. 2022.](https://www.acpjournals.org/doi/full/10.7326/M22-1603)
 - [US Preventive Services Task Force. Screening for Depression and Suicide Risk in Children and Adolescents: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2797145)
-- [Suarez E et al. Association of Antidepressant Use During Pregnancy With Risk of Neurodevelopmental Disorders in Children. JAMA Intern Med. 2022.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2797101)
+- [Suarez E, et al. Association of Antidepressant Use During Pregnancy With Risk of Neurodevelopmental Disorders in Children. JAMA Intern Med. 2022.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2797101)
 - [Collège National Universitaire de Psychiatrie (CNUP). Troubles de l'humeur Épisode dépressif caractérisé et trouble dépressif récurrent de l'adolescent et de l'adulte. Référentiel de Psychiatrie et Addictologie. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
 - [Collège National Universitaire de Psychiatrie (CNUP). Prescription et surveillance des psychotropes. Item 74. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
 - [Royal College of Psychiatrists. Position statement on antidepressants and depression. 2019. (PDF)](https://www.bap.org.uk/pdfs/PS04-19-antidepressants-and-depression.pdf)
 - [HAS. Coordination entre le médecin généraliste et les différents acteurs de soins dans la prise en charge des patients adultes souffrant de troubles mentaux - états des lieux, repères et outils pour une amélioration. 2018.](https://www.has-sante.fr/jcms/c_2874187/fr/coordination-entre-le-medecin-generaliste-et-les-differents-acteurs-de-soins-dans-la-prise-en-charge-des-patients-adultes-souffrant-de-troubles-mentaux-etats-des-lieux-reperes-et-outils-pour-une-amelioration)
 - [HAS. Épisode dépressif caractérisé de l'adulte : prise en charge en soins de premier recours. 2017.](https://www.has-sante.fr/jcms/p_3261767/fr/depression)
-- [Cleare A et al. Evidence-based guidelines for treating depressive disorders with antidepressants: A revision of the 2008 British Association for Psychopharmacology guidelines. J Psychopharmacol. 2015. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Antidepressants.pdf)
-- [Davidson JR et al; British Association for Psychopharmacology. A psychopharmacological treatment algorithm for generalised anxiety disorder (GAD). J Psychopharmacol. 2010.](https://pubmed.ncbi.nlm.nih.gov/18832431/)
-- [Dumesnil H et al. La prise en charge de la dépression en médecine générale de ville. Drees. 2012.](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/la-prise-en-charge-de-la-depression-en-medecine-generale-de-0)
+- [Cleare A, et al. Evidence-based guidelines for treating depressive disorders with antidepressants: A revision of the 2008 British Association for Psychopharmacology guidelines. J Psychopharmacol. 2015. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Antidepressants.pdf)
+- [Davidson JR, et al; British Association for Psychopharmacology. A psychopharmacological treatment algorithm for generalised anxiety disorder (GAD). J Psychopharmacol. 2010.](https://pubmed.ncbi.nlm.nih.gov/18832431/)
+- [Dumesnil H, et al. La prise en charge de la dépression en médecine générale de ville. Drees. 2012.](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/la-prise-en-charge-de-la-depression-en-medecine-generale-de-0)
 - [Santé Publique France. Dépression et anxiété.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/sante-mentale/depression-et-anxiete)
 - [Ameli Médecins. La santé mentale en soins primaires.](https://www.ameli.fr/hauts-de-seine/medecin/sante-prevention/sante-mentale-soins-primaires)
 - [Psychiaclic. Trouble dépressif](https://www.psychiaclic.fr/troubles-psychiatriques/trouble-depressif)
@@ -584,15 +584,16 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Yrondi A et al. French Society for Biological Psychiatry and Neuropsychopharmacology (AFPBN) guidelines for the management of patients with partially responsive depression and treatment-resistant depression: Update 2024. Encephale. 2024.](https://pubmed.ncbi.nlm.nih.gov/38369426/)
-- [Belzeaux R et al. French Society for Biological Psychiatry and Neuropsychopharmacology and French-speaking Marcé Society guidelines for the management of mood disorders in women before, during, and after pregnancy. Arch Womens Ment Health. 2024.](https://link.springer.com/article/10.1007/s00737-024-01440-6)
+- [Aborder les tendances suicidaires en première ligne de soins. Minerva. 2025.](https://minerva-ebp.be/FR/Article/2422)
+- [Yrondi A, et al. French Society for Biological Psychiatry and Neuropsychopharmacology (AFPBN) guidelines for the management of patients with partially responsive depression and treatment-resistant depression: Update 2024. Encephale. 2024.](https://pubmed.ncbi.nlm.nih.gov/38369426/)
+- [Belzeaux R, et al. French Society for Biological Psychiatry and Neuropsychopharmacology and French-speaking Marcé Society guidelines for the management of mood disorders in women before, during, and after pregnancy. Arch Womens Ment Health. 2024.](https://link.springer.com/article/10.1007/s00737-024-01440-6)
 - [CBIP. Arrêt progressif des antidépresseurs : lignes directrices (mise à jour 2024). Folia Pharmacotherapeutica. 2024.](https://www.cbip.be/fr/articles/4239?folia=4237)
 - [Anaes, FFP. La crise suicidaire : reconnaître et prendre en charge. 2000.](https://www.has-sante.fr/jcms/c_271964/fr/la-crise-suicidaire-reconnaitre-et-prendre-en-charge)
 - [HAS. Manifestations dépressives à l'adolescence : repérage, diagnostic et prise en charge en soins de premier recours. 2014.](https://www.has-sante.fr/jcms/c_1782013/fr/manifestations-depressives-a-l-adolescence-reperage-diagnostic-et-prise-en-charge-en-soins-de-premier-recours)
 - [HAS. Prise en compte de la souffrance psychique de la personne âgée : prévention, repérage et accompagnement. 2014.](https://www.has-sante.fr/jcms/c_2836216/fr/prise-en-compte-de-la-souffrance-psychique-de-la-personne-agee-prevention-reperage-et-accompagnement)
 - [HAS. Troubles dépressifs récurrents ou persistants de l'adulte. 2012.](https://www.has-sante.fr/jcms/c_767572/fr/ald-n-23-troubles-depressifs-recurrents-ou-persistants-de-l-adulte)
 - [HAS. Idées et conduites suicidaires chez l'enfant et l'adolescent : prévention, repérage, évaluation et prise en charge. 2021.](https://www.has-sante.fr/jcms/p_3288864/fr/idees-et-conduites-suicidaires-chez-l-enfant-et-l-adolescent-prevention-reperage-evaluation-et-prise-en-charge)
-- [Binder P et al. Detection of adolescent suicidality in primary care: an international utility study of the bullying-insomnia-tobacco-stress test. Early Interv Psychiatry. 2020.](https://pubmed.ncbi.nlm.nih.gov/31058453/)
+- [Binder P, et al. Detection of adolescent suicidality in primary care: an international utility study of the bullying-insomnia-tobacco-stress test. Early Interv Psychiatry. 2020.](https://pubmed.ncbi.nlm.nih.gov/31058453/)
 - [Williams JB. A structured interview guide for the Hamilton Depression Rating Scale. Arch Gen Psychiatry. 1988;45(8):742-747. doi:10.1001/archpsyc.1988.01800320058007](https://pubmed.ncbi.nlm.nih.gov/3395203/)
 
 {{%/sources%}}

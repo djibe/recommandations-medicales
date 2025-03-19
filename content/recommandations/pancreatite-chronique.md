@@ -25,7 +25,7 @@ flowchart = true
 
 - La pancréatite chronique est une altération du pancréas irréversible, le plus souvent liée à l'alcool chez l'homme d'âge moyen
 - Elle entraîne une insuffisance pancréatique exocrine (stéatorrhée, amaigrissement, malabsorption) et endocrine (diabète)
-- Rechercher une pancréatite chronique en cas de: douleurs épigastriques transfixiantes, stéatorrhée,  malabsorption ou amaigrissement avec usage nocif d'alcool ou d'antécédents de pancréatites aiguës
+- Rechercher une pancréatite chronique en cas de: douleurs épigastriques transfixiantes, stéatorrhée, malabsorption ou amaigrissement avec usage nocif d'alcool ou d'antécédents de pancréatites aiguës
 - Le bilan de la pancréatite chronique comprend: bilan hépatique et de malabsorption, scanner abdominal et avis gastro-entérologique
 - La prise en charge de la pancréatite chronique nécessite le sevrage de l'alcool et du tabac, un suivi spécialisé par les gastro-entérologue, diététicien (et endocrinologue en cas de diabète), un traitement par enzymes pancréatiques
 - Le suivi est au moins annuel: surveillance des douleurs et du poids, cardiovasculaire, biologique, spécialisé ainsi que tomodensitométrique en cas de modification des symptômes pour rechercher un cancer du pancréas

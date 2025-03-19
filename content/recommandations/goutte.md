@@ -438,6 +438,8 @@ Intérêt de colchicine prophylactique.
 - [ANSM. Allopurinol et risque de survenue de toxidermies graves. Lettre aux professionnels de santé. 25 Février 2013. (PDF)](https://archive.ansm.sante.fr/var/ansm_site/storage/original/application/0d726dfed60daadafe7766e02654ddef.pdf)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-19-0.php#ch_2_1)
 
+Mot-clé: goute
+
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
 

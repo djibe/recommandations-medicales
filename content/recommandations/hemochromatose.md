@@ -169,7 +169,7 @@ Bilan complémentaire au diagnostic d'hémochromatose:
 - Élastométrie hépatique (ou élastographie)
 - [Ostéodensitométrie]({{% relref "osteoporose.md" %}})
 - Hémochromatose au stade 3 ou 4
-  - Homme: testostéronémie
+  - Homme: [testostéronémie]({{% relref "andropause-deficit-testosterone.md" %}}) libre ou biodisponible entre 8 et 11h
   - ECG et échocardiographie transthoracique
 
 {{% /collapse %}}

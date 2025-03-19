@@ -213,7 +213,7 @@ Diarrhée du voyageur
 : Elles sont classées en 3 types: diarrhées aiguës bénignes, modérées (pénible et perturbant les activités) ou sévères (syndrome dysentérique = selles sanglantes, activités difficiles ou impossibles) et dites *persistantes* après 2 semaines.
 : Tourista (ou turista): épisode aigu bénin survenant pendant le séjour ou dans les 7 jours suivant le retour, spontanément résolutif en 1-3 jours.
 
-Le plus souvent la diarrhée est liée au péril fécal avec une origine bactérienne 80% (*E. coli*, *Campylobacter* ...), parasitaire 5-10 % (persistante ++,  *Entamoeba histolytica*, *Giardia intestinalis*, *Cryptosporidium spp*, *Isospora belli*, *Cyclospora*) ou médicamenteuse.
+Le plus souvent la diarrhée est liée au péril fécal avec une origine bactérienne 80% (*E. coli*, *Campylobacter* ...), parasitaire 5-10 % (persistante ++, *Entamoeba histolytica*, *Giardia intestinalis*, *Cryptosporidium spp*, *Isospora belli*, *Cyclospora*) ou médicamenteuse.
 
 ### En cas de diarrhées pendant le voyage
 

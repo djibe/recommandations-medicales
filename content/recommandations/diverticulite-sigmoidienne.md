@@ -19,13 +19,13 @@ icd10 = ["K57", "K57.9"]
 image = true
 imageSrc = "Diverticules coliques en coloscopie. Anpol42, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "rankok"
+todo = "rankok | seo"
 +++
 
 {{%article-summary%}}
 
 - La diverticulose colique est asymptomatique dans 80% des cas
-- La diverticulite sigmoïdienne aiguë ((*ex* sigmoïdite diverticulaire)) est une inflammation infectieuse colique d'origine diverticulaire, survenant surtout entre 50 et 70 ans
+- La diverticulite sigmoïdienne aiguë (*ex* sigmoïdite diverticulaire) est une inflammation infectieuse colique d'origine diverticulaire, survenant surtout entre 50 et 70 ans
 - Bilan systématique lors de la première poussée de diverticulite sigmoïdienne: diagnostic radiologique systématique par scanner abdomino-pelvien
 - Prise en charge de la crise de diverticulite non compliquée sans gravité hors grossesse: pas d'antibiothérapie durant les 48 premières heures de la crise douloureuse
 - Chirurgie colique prophylactique des diverticules en cas de comorbidités:  

@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2025-02-25"
+lastmod = "2025-03-19"
 specialites = ["infectiologie", "pédiatrie", "thérapeutique"]
 annees = "2025"
 sources = ["MinSanté", "HCSP"]
@@ -99,22 +99,7 @@ Possibilité de manger immédiatement avant ou après. [Guide info parent rotavi
 > << Un rattrapage vaccinal est indiqué en cas de statut inconnu >>. -- *Calendrier vaccinal*
 {.alert .alert-info}
 
-{{< table title="Âges limites du rattrapage vaccinal systématique en population générale selon le Calendrier vaccinal" >}}
-| Pathologie                       |              Âge limite de rattrapage               | Rattrapages étendus                                    |
-|----------------------------------|:---------------------------------------------------:|--------------------------------------------------------|
-| Coqueluche                       |                       39 ans                        | [Grossesse voire cocooning]({{% relref "coqueluche.md" %}}) |
-| Haemophilus                      |                        5 ans                        | [Asplénie]({{% relref "asplenie.md" %}})               |
-| Hépatite B                       |                       15 ans                        | [Hépatite B]({{% relref "hepatite-b.md" %}})           |
-| Méningocoque ACWY                |                       24 ans                        | Pas de rattrapage après 12 mois<br>chez le nourrisson,<br>dose unique si non fait à 11-14 ans |
-| Méningocoque B                   |                       23 mois                       |                                                        |
-| Papillomavirus (HPV)             |                       19 ans                        | [HSH jusqu'à 26 ans]({{% relref "hsh.md" %}})          |
-| Pneumocoque                      |                       23 mois                       | Asplénie, BPCO, cancer,  diabète ...                   |
-| Rotavirus                        |                       4 mois                        | Doit être terminé avant 24 semaines                    |
-| Rougeole<br>Oreillons<br>Rubéole |                       44 ans                        |                                                        |
-| Tuberculose                      |                                                     | Lire [tuberculose]({{% relref "tuberculose.md" %}})    |
-| Varicelle                        |                       18 ans                        | [Autour d'un cas]({{% relref "varicelle.md" %}})       |
-| Zona                             |                        Aucune                       | [À partir de 65 ans]({{% relref "zona.md" %}})         |
-{{< /table >}}
+{{< traitements/vaccin-rattrapage-age >}}
 
 ### Rattrapage du vaccin méningocoque B
 
@@ -124,6 +109,8 @@ Possibilité de manger immédiatement avant ou après. [Guide info parent rotavi
   2 doses espacées d'au moins 2 mois + rappel durant sa 2e année (min 2 mois entre chaque dose).
 - Nourrisson 12-23 mois  
   2 doses espacées d'au moins 2 mois + rappel à M12-23.
+- À partir de 24 mois  
+  2 doses espacées d'au moins 1 mois.
 
 ### Sérologies pour le rattrapage vaccinal en population générale
 
@@ -163,7 +150,7 @@ Lire le *Calendrier vaccinal* page 75.
 8. Oreillons
 9. Rubéole
 10. Né depuis juillet 2023: méningocoque ACWY (depuis 2025, anciennement méningo C)  
-  Pas de rattrapage au-delà de 12 mois.
+  Pas de rattrapage au-delà de 12 mois (HAS 2025: 35 mois).
 11. Pneumocoque
 
 > -- *[Décret n° 2024-694 du 5 juillet 2024](https://www.legifrance.gouv.fr/download/file/hhS68ECmVhDgElkqhy2ETAVq-2Yhrqjdh8OV3--WPN0=/JOE_TEXTE)* et *[Loi du 30 décembre 2017](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171)*
@@ -325,6 +312,7 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Stratégie de vaccination contre les infections invasives à méningocoques. 2025.](https://www.has-sante.fr/jcms/p_3597524/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques)
 - [HAS. Élargissement des critères d'éligibilité à la vaccination antipneumococcique chez les adultes - Recommandation vaccinale. 2025.](https://www.has-sante.fr/jcms/p_3586414/fr/elargissement-des-criteres-d-eligibilite-a-la-vaccination-antipneumococcique-chez-les-adultes-recommandation-vaccinale)
 - [DGS-Urgent 2025_03. Fin de la campagne d'immunisation des nouveaux-nés et nourrissons contre le VRS. 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - {{< references/calendrier-vaccinal >}}

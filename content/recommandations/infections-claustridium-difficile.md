@@ -63,11 +63,12 @@ SII
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le tableau diarrhéique aigu apparaît souvent **à l'introduction d'une nouvelle antibiothérapie**, jusqu'à parfois 3 mois après son interruption. L'**absence d'autres arguments** pouvant expliquer la diarrhée est important.
+Le tableau diarrhéique aigu apparaît souvent **à l'introduction d'une nouvelle antibiothérapie**, jusqu'à parfois 3 mois après son interruption. L'**absence d'autres arguments** pour expliquer la diarrhée est important.
+{.alert .alert-info}
 
 ### Interrogatoire
 
-- Antécédents: hospitalisation récente, immunodépression, [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) (x 4,8), insuffisances d'organes
+- Antécédents: hospitalisation récente, immunodépression, [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) (RR x 4,8), insuffisances d'organes
 - Traitements en cours (iatrogénie et à risque: IPP)
 - **Antibiothérapie das les 3 mois**, antibiothérapies répétées
 - Autres facteurs de risque: après 65 ans
@@ -90,7 +91,7 @@ Le tableau diarrhéique aigu apparaît souvent **à l'introduction d'une nouvell
 {{%collapse "Examens complémentaires" %}}
 
 > [!WARNING]
-> Ne rechercher *C. difficile* qu'en cas de symptômes évocateurs (≥ 3 selles non moulées/24h sans autre cause attribuable), souvent en contexte d'antibiothérapie.
+> Ne rechercher *Claustridium difficile* qu'en cas de symptômes évocateurs (au moins 3 selles non moulées/24h sans autre cause attribuable), souvent en contexte d'antibiothérapie.
 
 ### Bilan d'une suspicion d'infection à *Claustridium difficile*
 
@@ -100,39 +101,41 @@ Le tableau diarrhéique aigu apparaît souvent **à l'introduction d'une nouvell
 - ASAT, ALAT, GGT, PAL, bilirubine totale
 - Coproculture avec recherche de *C. difficile* (recherche en 2 temps)
 
-Critères de sévérité: hyperleucocytose ≥ 15.000/mm³ ou créatininémie ≥ 15 mg/L --> hospitalisation
+> [!WARNING]
+> Critères de sévérité de l'infection à *Claustridium*: hyperleucocytose ≥ 15.000/mm³ ou créatininémie ≥ 15 mg/L.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de *Claustridium difficile*" %}}
+
+La prise en charge de l'infection à *Clostridioides difficile* (ex *Claustridium difficile*) est ambulatoire **en l'absence de signes de gravité**, par antibiothérapie simple.
+
+Traitement de *Claustridium difficile* non sévère: ==vancomycine 125 mg x 4/j pendant 10 jours== (minimum 14 jours si intestin irritable).
+
+En cas de récidive (survient dans les 8 semaines suivant fin du traitement), demander un **avis infectiologique**.
+
+Précisions sur l'antibiothérapie:
+
+- Le traitement est possible pendant la grossesse et l'allaitement
+- Les rechutes sont fréquentes sous 2 mois
+- La fidaxomicine n'est pas disponible en France
+- Si MICI: suspension des traitements anti-inflammatoires
 
 Ne pas utiliser: probiotiques en prévention primaire durant une antibiothérapie ou de récurrences
+{.alert .alert-warning}
 
-Non sévère: vancomycine 125 mg x 4/j pendant 10 jours (min 14 jours si SII). Possible pendant la grossesse/allaitement.
+### Pour en savoir plus: traitements spécialisés de l'infection à *Clostridioides difficile*
 
-Rechutes fréquentes sous 2 mois.
+Autres antibiothérapies possibles pour le traitement des infections à *Clostridioides difficile*: métronidazole 500 mg x 3/j pendant 10 jours, rifaximine, tigécycline, ~~nitazoxanide~~.
 
-fidaxomicine non disponible en France.
+À partir de la 2^e^ récidive, une **transplantation fécale** par coloscopie ou capsules (voire suppositoires) est envisagée. Elle est envisagée dès la 1^re^ récidive en cas de syndrome de l'intestin irritable (SII).
 
-À partir de la 2e récidive: FMT par coloscopie ou capsules, voire suppositoires
-À partir de la 1re si SII.
-
-Prophylaxie vancomycine pourrait être considérée en cas d'ATCD de Claustri à haut risque de récurrence.
-
-Suggéré pour prévenir récurrences chez haut risque: bezlotoxumab
+Une **prophylaxie** par vancomycine pourrait être considérée en cas d'antécédents de *Claustridium* à haut risque de récurrence. Chez ces sujets à haut risque, le bezlotoxumab (Zinplava) est suggéré pour prévenir les récurrences.
 
 Rechercher chez SII avec diarrhées aiguës profuses.
 
 We suggest against discontinuation of antisecretory therapy in patients with CDI, provided there is an appropriate indication for their use
 
-Récurrence: intervient dans les 8 semaines de la fin du traitement.
-
-### Autres traitements
-
-Suspension des traitements anti-inflammatoires en cas de MICI.
-
-métronidazole 500 mg x 3/j pendant 10 jours, Rifaximine, tigecycline, nitazoxanide
-
-Colectomie
+Pour les cas les plus graves, une **colectomie** peut être envisagée en réunion pluridisciplinaire.
 
 {{% /collapse %}}
 {{%sources%}}

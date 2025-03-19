@@ -109,22 +109,7 @@ Pour plus d'informations sur les vaccinations, dont les obligations, voir le cha
 
 ### Rattrapage vaccinal
 
-{{< table title="Âges limites du rattrapage vaccinal systématique en population générale selon le Calendrier vaccinal" >}}
-| Pathologie                       |              Âge limite de rattrapage               | Rattrapages étendus                                         |
-|----------------------------------|:---------------------------------------------------:|-------------------------------------------------------------|
-| Coqueluche                       |                       39 ans                        | [Grossesse voire cocooning]({{% relref "coqueluche.md" %}}) |
-| Haemophilus                      |                        5 ans                        | [Asplénie]({{% relref "asplenie.md" %}})                    |
-| Hépatite B                       |                       15 ans                        | [Hépatite B]({{% relref "hepatite-b.md" %}})                |
-| Méningocoque ACWY                |                       24 ans                        | Dose unique si non fait entre 11 et 14 ans                  |
-| Méningocoque B                   |                       23 mois                       |                                                             |
-| Méningocoque C                   |                       24 ans                        | Dose unique après 12 mois                                   |
-| Papillomavirus (HPV)             |                       19 ans                        | [HSH jusqu'à 26 ans]({{% relref "hsh.md" %}})               |
-| Pneumocoque                      |                       23 mois                       | Asplénie, BPCO, cancer,  diabète, VIH ...                   |
-| Rotavirus                        |                       4 mois                        | Doit être terminé avant 24 semaines                         |
-| Rougeole<br>Oreillons<br>Rubéole |                       44 ans                        |                                                             |
-| Tuberculose                      | Lire [tuberculose]({{% relref "tuberculose.md" %}}) |                                                             |
-| Varicelle                        |                       18 ans                        | [Autour d'un cas]({{% relref "varicelle.md" %}})            |
-{{< /table >}}
+{{< traitements/vaccin-rattrapage-age >}}
 
 {{% /collapse %}}
 {{%collapse "Signes d'alerte du développement psychomoteur" %}}

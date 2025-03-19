@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-06T15:58:31+02:00"
 publishdate = "2023-06-08"
-lastmod = "2024-12-19"
+lastmod = "2025-03-19"
 specialites = ["ORL", "pédiatrie"]
 annees = "2024"
 sources = ["HAS", "SPILF", "GPIP"]
@@ -24,13 +24,13 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le diagnostic d'otite moyenne aiguë purulente (OMAP) est otoscopique
-- La prise en charge de l'otite moyenne aiguë dépend de l'âge et de l'intensité des symptômes
+- Le diagnostic d'otite moyenne aiguë purulente (OMAP) est otoscopique: tympan congestif bombé et disparition du triangle lumineux
+- La prise en charge de l'otite moyenne aiguë dépend de l'âge et de l'intensité des symptômes:
   - Nourrisson de moins de 3 mois: avis hospitalier urgent
   - Nourrisson de 3 à 23 mois: antibiothérapie systématique par amoxicilline 80 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours
   - À partir de 2 ans et chez l'adulte: antibiotique uniquement si symptômes sévères (fièvre, otalgie) ou persistance des symptômes après 48 heures. L'antibiothérapie dure 5 jours (10 jours chez l'enfant si otorrhée ou récidive +4 jours après la fin des antibiotiques)
   - Avis spécialisé en cas d'échec de la première ligne d'antibiotiques de l'adulte
-- La prévention de l'otite moyenne aiguë passe par les désobstructions rhinopharyngées (DRP) et la vaccination anti-pneumococcique et anti-*Haemophilus*
+- La prévention de l'otite moyenne aiguë passe par les désobstructions rhinopharyngées (DRP) et la vaccination anti-pneumococcique
 - Participer à l'[étude ADOMA](https://docs.google.com/forms/d/e/1FAIpQLScbwnGzkxnx_kIhvCsOoPgvq887krPBXgIqul_0a2drnt0gAQ/viewform) en soins primaires pour l'antibiothérapie différée de l'otite
 
 Chapitre lié: [otite externe]({{% relref "otite-externe.md" %}})

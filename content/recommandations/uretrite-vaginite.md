@@ -121,7 +121,7 @@ Ceftriaxone 1g IM dose unique
 ou azithromycine 1g dose unique
 {.alert .alert-info}
 
-Symptômes classiques des urétrites et cervicites: leucorrhées, dyspareunies, spotting,  urétrite, cystalgies.
+Symptômes classiques des urétrites et cervicites: leucorrhées, dyspareunies, spotting, urétrite, cystalgies.
 
 La prise en charge d'une urétrite ou d'une cervicite non compliquée associe:
 

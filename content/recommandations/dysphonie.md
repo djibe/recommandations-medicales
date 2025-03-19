@@ -198,7 +198,7 @@ Ne pas utiliser sans endoscopie et évaluation spécialisée: corticoïdes, trai
 
 {{< mermaid title="Prise en charge de la dysphonie. Dr JB Fron d'après AAO-HNS et Collège" >}}
 graph TB
-  enrouement["Altération de la production<br>de la voix rapportée<br>= enrouement"] --> interrogatoire("<b>Interrogatoire</b><br>—<br>- Antécédents: chirurgie, intubation,  ...<br>- Traitements en cours<br>- Tabagisme<br>- Profession<br>- Caractères de la dysphonie<br>- Symptômes associés:<br>dysphagie, dyspnée, AEG ...") --> dysphonie("Constatation de voix modifiée<br>= dysphonie") --> clinique(<b>Clinique</b><br>—<br>- Constantes<br>- Auscultation<br>- Inspection et palpation<br>tête et cou<br>- Aires ganglionnaires<br>- Paires crâniennes) -. "Persistance<br>à 4 semaines<br>Collège: 8-15 j" .-> ORL("Examen ORL<br>avec laryngoscopie")
+  enrouement["Altération de la production<br>de la voix rapportée<br>= enrouement"] --> interrogatoire("<b>Interrogatoire</b><br>—<br>- Antécédents: chirurgie, intubation, ...<br>- Traitements en cours<br>- Tabagisme<br>- Profession<br>- Caractères de la dysphonie<br>- Symptômes associés:<br>dysphagie, dyspnée, AEG ...") --> dysphonie("Constatation de voix modifiée<br>= dysphonie") --> clinique(<b>Clinique</b><br>—<br>- Constantes<br>- Auscultation<br>- Inspection et palpation<br>tête et cou<br>- Aires ganglionnaires<br>- Paires crâniennes) -. "Persistance<br>à 4 semaines<br>Collège: 8-15 j" .-> ORL("Examen ORL<br>avec laryngoscopie")
     clinique --> gravité("- Tabagisme<br>- Stridor, dysphagie ...<br>- Anomalie clinique<br>- Profession exposée") -- Semi-urgence --> ORL
     interrogatoire --> autre(Autre symptôme)
   style enrouement stroke:#4150f5, stroke-width:1px

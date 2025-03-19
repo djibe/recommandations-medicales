@@ -48,7 +48,7 @@ Cancer de la prostate héréditaire
 ### Facteurs de risque de cancer de la prostate
 
 > [!INFO]
-> Aucun moyen préventif alimentaire ou pharmacologique du cancer de la prostate n'a été identifié. -- *EAU 2024*
+> Aucun moyen préventif alimentaire ou pharmacologique du cancer de la prostate n'a été identifié (*EAU 2024*).
 
 - Principal facteur de risque: âge +50 ans
 - Forme héréditaire (voir plus haut)
@@ -61,7 +61,7 @@ Cancer de la prostate héréditaire
 
 Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de Gleason et ISUP** (évolution du Gleason) au diagnostic.
 
-{{< table title="Risque de cancer de prostate (CaP) selon le taux de PSA d'après la *EAU 2024*. Agressif = CaP ISUP ≥ 2." class="table-sm" >}}
+{{< table title="Risque de cancer de prostate (CaP) selon le taux de PSA d'après la *EAU 2024*. Agressif = ISUP ≥ 2." class="table-sm" >}}
 | PSA (ng/mL) | Risque de CaP (%) | Risque de CaP agressif (%) |
 |------------:|------------------:|---------------------------:|
 | 0 - 0,5     | 6,6               | 0,8                        |
@@ -71,7 +71,7 @@ Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de G
 | 3,1 - 4     | 26,9              | 6,7                        |
 {{< /table >}}
 
-> Le PSA libre n'a plus d'intérêt diagnostique (*AFU 2022*)
+> Le PSA libre n'a plus d'intérêt diagnostique (*AFU 2022*).
 
 ### Épidémiologie du cancer de la prostate
 

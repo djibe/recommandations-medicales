@@ -8,7 +8,7 @@ synonyms = ["Maladie de Raynaud"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-04T10:57:00+02:00
 publishdate = "2021-05-04"
-lastmod = "2023-02-03"
+lastmod = "2025-03-19"
 specialites = ["rhumatologie"]
 annees = "2023"
 sources = ["Maladies rares", "Collèges", "SFMV"]
@@ -25,9 +25,9 @@ modele = true
 
 {{%article-summary%}}
 
-- 10% des phénomènes de Raynaud sont secondaires à une maladie de système
-- L'interrogatoire et l'examen clinique doivent être rigoureux
-- Bilan systématique devant un syndrome de Raynaud: anticorps anti-nucléaires et capillaroscopie
+- Le phénomène de Raynaud (PR) ou *syndrome de Raynaud* est un acrosyndrome vasculaire paroxystique fréquent, déclanché au froid et secondaire à une maladie de système dans 10% des cas
+- L'examen clinique recherche des signes d'alerte: début tardif, caractère invalidant sans amélioration estivale, atteinte des pouces ... (voir [Signes d'alerte](#signes-dalerte))
+- Un bilan est systématique devant tout syndrome de Raynaud: anticorps anti-nucléaires et capillaroscopie
 - Lorsque le bilan est négatif, la forme idiopathique est appelée Maladie de Raynaud
 - Prise en charge du syndrome de Raynaud par mesures d'hygiène pour tous voire *nifédipine LP*
 - Avis de l'interniste au moindre doute
@@ -37,8 +37,7 @@ modele = true
 
 Phénomène de Raynaud (PR)
 : ou *syndrome de Raynaud*
-: Acrosyndrome vasculaire fréquent (5-15% en France) **paroxystique** le plus souvent primitif (90%) et sans atteinte d'organe dans sa forme primitive.  
-Ne pas méconnaître les 10% de formes secondaires à une maladie de système.
+: Acrosyndrome vasculaire fréquent (prévalence de 5 à 15% en France) **paroxystique** le plus souvent primitif (90%), déclenché au froid, sans atteinte d'organe dans sa forme primitive. Ne pas méconnaître les 10% de formes secondaires à une maladie de système.
 : La *maladie de Raynaud* est le nom de la forme idiopathique.
 
 ### Abréviations
@@ -71,11 +70,34 @@ PR
 {{%/warning%}}
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Autres diagnostics à évoquer devant un **acrosyndrome**:
+
+- Acrocyanose (prévalence 10%)
+  - Cyanose permanente, froide, indolore, majorée au froid, débutant à l'adolescence
+  - Hyperhidrose souvent associée
+  - Stase capillaro-veinulaire bénigne
+- Érythermalgie (prévalence 1/10.000)
+  - Acrosyndrome paroxystique déclenché par la chaleur et l'effort, soulagé au froid et repos, sensible à l'aspirine
+  - Vasodilatation: extrémités rouges, chaudes, douloureuses
+  - Étiologie: idiopathique, syndrome myéloprolifératif ou traitement vasodilatateur
+- Engelures  
+  Temps froid et humide, terrain familial et féminin, évoluant sur quelques semaines avec poussées successives de papules violacées ± œdémateuses, douloureuses ou prurigineuses en face dorsale des doigts/orteils.
+- Algodystrophie
+- [Syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}})
+- Syndrome du défilé thoracique (compression nerveuse)
+- Sténose artérielle du membre supérieur
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le phénomène de Raynaud est un diagnostic d'interrogatoire: acrosyndrome constitué d'épisodes paroxystiques de doigts blancs anesthésiés lors d'une exposition au froid.
+> [!INFO]
+> Le phénomène de Raynaud est un diagnostic d'interrogatoire: acrosyndrome constitué d'épisodes paroxystiques de doigts blancs anesthésiés lors d'une exposition au froid.
 
 ### Interrogatoire
+
+Signes et symptômes à rechercher à l'examen pour typer un syndrome de Raynaud:
 
 - Antécédents personnels  
   [Syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}}), maladies auto-immunes, syndrome du défilé thoracique, thromboses.
@@ -104,7 +126,10 @@ Le phénomène de Raynaud est un diagnostic d'interrogatoire: acrosyndrome const
 
 ### Examen clinique
 
-Recherche une cause secondaire au phénomène de Raynaud:
+- Pression artérielle, fréquence cardiaque
+- Palpation de la thyroïde
+
+Signes cliniques évocateurs de maladie de système:
 
 1. Sclérodermie
     - Phénomène de Raynaud quasi constant, précoce et bilatéral sans phase hyperhémique rouge
@@ -124,11 +149,9 @@ Recherche une cause secondaire au phénomène de Raynaud:
 1. Vasculaire  
   Souvent homme fumeur avec caractère unilatéral ou asymétrique. Pouls et souffle sous-clavier.
 
-Et palpation de la thyroïde.
-
 ### Tableau en faveur d'origine bénigne
 
-Critères après ≥ 2 ans d'évolution:
+Critères après au moins 2 ans d'évolution:
 
 - Début chez femme jeune (adolescence) avec antécédents familiaux
 - Survenue au froid voire émotions
@@ -151,33 +174,11 @@ Le phénomène de Raynaud est considéré comme primaire.
 Nécessité de surveillance et de bilan complémentaire.
 
 {{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-Autres diagnostics à évoquer devant un acrosyndrome:
-
-- Acrocyanose (prévalence 10%)
-  - Cyanose permanente, froide, indolore, majorée au froid, débutant à l'adolescence
-  - Hyperhidrose souvent associée
-  - Stase capillaro-veinulaire bénigne
-- Érythermalgie (prévalence 1/10.000)
-  - Acrosyndrome paroxystique déclenché par la chaleur et l'effort, soulagé au froid et repos, sensible à l'aspirine
-  - Vasodilatation: extrémités rouges, chaudes, douloureuses
-  - Étiologie: idiopathique, syndrome myéloprolifératif ou traitement vasodilatateur
-- Engelures  
-  Temps froid et humide, terrain familial et féminin, évoluant sur quelques semaines avec poussées successives de papules violacées ± œdémateuses, douloureuses ou prurigineuses en face dorsale des doigts/orteils.
-- Algodystrophie
-- [Syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}})
-- Syndrome du défilé thoracique (compression nerveuse)
-- Sténose artérielle du membre supérieur
-
-{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
-
-Si le bilan du syndrome de Raynaud est négatif: pas d'avis spécialisé sauf modification des caractères de l'acrosyndrome. Sinon, adresser à l'interniste.
 
 {{%info%}}
 
-### Bilan d'un syndrome de Raynaud
+### Bilan du syndrome de Raynaud
 
 - Anticorps anti-nucléaires
 - Capillaroscopie  
@@ -190,7 +191,9 @@ Si le bilan du syndrome de Raynaud est négatif: pas d'avis spécialisé sauf mo
 
 {{%/info%}}
 
-**NB.** Le Collège de Médecine Interne est en désaccord et ne recommande aucun bilan lorsque le phénomène de Raynaud a une présentation clinique typique de Maladie de Raynaud (aucun argument pour une cause secondaire).
+Si le bilan du syndrome de Raynaud est négatif: pas d'avis spécialisé sauf modification des caractères de l'acrosyndrome. Sinon, adresser à l'interniste.
+
+**NB.** Le Collège de Médecine Interne est en désaccord avec la filière des maladies rares et ne recommande aucun bilan lorsque le phénomène de Raynaud a une présentation clinique typique de Maladie de Raynaud (aucun argument pour une cause secondaire).
 
 ### En cas de drapeaux rouges
 
@@ -212,7 +215,7 @@ En cas de signes de maladie systémique, ajouter:
 {{% /collapse %}}
 {{%collapse "Traitement du phénomène de Raynaud" %}}
 
-Mesures générales de la prise en charge du syndrome de Raynaud:
+La prise en charge du syndrome de Raynaud associe:
 
 - Mesures d'hygiène pour limiter les crises
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
@@ -224,15 +227,13 @@ Mesures générales de la prise en charge du syndrome de Raynaud:
   - En cas de crise: réchauffer les mains
 - Raynaud primitif gênant  
   [Nifédipine LP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66932763&typedoc=R) 30 mg 1 à 2 cp en 1 prise quotidienne.
-- Raynaud secondaire  
-  Suivi par l'interniste.
-- [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 69](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2069)  
-  Machines avec vibrations
+- Raynaud secondaire: suivi par l'interniste
+- [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 69](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2069): machines avec vibrations
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant un phénomène de Raynaud" "show" %}}
+{{%collapse "Prise en charge d'un phénomène de Raynaud" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant un phénomène de Raynaud. Dr JB Fron d'après Filière maladie rares 2023 et Collèges" >}}
+{{< mermaid title="Prise en charge et cpnduite à tenir devant un phénomène de Raynaud. Dr JB Fron d'après Filière maladie rares 2023 et Collèges" >}}
 graph TB
 susp[Suspicion de phénomène de Raynaud]
 style susp stroke:#4150f5, stroke-width:1px
@@ -250,7 +251,7 @@ style susp stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
-- [Les Clés Du Diagnostic. Acrosyndrome vasculaire. Filières de santé maladies rares. 2023 (PDF)](https://clesdudiagnostic.fr/wp-content/uploads/2023/01/2-cles-acrosyndrome.pdf)
+- [Filières de santé maladies rares. Acrosyndrome vasculaire. Les Clés Du Diagnostic. 2023 (PDF)](https://clesdudiagnostic.fr/wp-content/uploads/2023/01/2-cles-acrosyndrome.pdf)
 - Prescrire Redaction. Phénomène de Raynaud primitif. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Collège des enseignants de dermatologie de France (CEDEF). Acrosyndromes. Phénomène de Raynaud, érythermalgie, acrocyanose, engelures, ischémie digitale. Item 239. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-239-%E2%80%94-Acrosyndromes-phenomene-de-Raynaud-%C2%B4erythermalgie-acrocyanose-engelures-ischemie-digitale_CompressPdf.pdf)
 - Collège National des Enseignants de Médecine Interne (CEMI). Acrosyndromes. Item 239. Référentiel Collège de Médecine interne R2C. 2021.
