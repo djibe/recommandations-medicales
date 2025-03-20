@@ -9,12 +9,12 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr X. MOISSET (SFEMC) et Dr D. BOUHASSIRA (SFETD)"
 date = "2021-09-09T13:10:04+02:00"
 publishdate = "2021-09-13"
-lastmod = "2022-05-17"
+lastmod = "2025-03-20"
 specialites = ["neurologie"]
-annees = "2021"
-sources = ["SFETD", "SFD", "HAS"]
+annees = "2024"
+sources = ["Bibliographie", "SFETD"]
 tags = ["cancer", "douleur", "neuropathie", "TSH", "zona"]
-english = ["Neuropathic pain"]
+english = ["Neuropathic pain (NeP)"]
 sctid = "247398009"
 icd10 = ["M79.2", "G53.0", "G58.7"]
 image = true
@@ -95,7 +95,7 @@ TENS
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Diagnostic différentiel de douleurs neuropathiques selon la localisation de la douleur:
+Diagnostic différentiel des douleurs neuropathiques selon la localisation de la douleur:
 
 - [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}})  
   Douleurs quand sténose > 70%.
@@ -103,7 +103,7 @@ Diagnostic différentiel de douleurs neuropathiques selon la localisation de la 
   Unilatérale, systématisée (ex cruralgie).
 - Syndrome canalaire  
   [Névrome de Morton]({{% relref "nevrome-morton.md" %}}) ++
-- [Canal lombaire étroit ]({{% relref "canal-lombaire-etroit.md" %}}) 
+- [Canal lombaire étroit ]({{% relref "canal-lombaire-etroit.md" %}})  
   Généralement lombo-sacrée, uniquement à la marche et aggravée par celle-ci avec un périmètre réduit.
 - [Syndrome des jambes sans repos]({{% relref "syndrome-jambes-sans-repos.md" %}})
 - Insuffisance veineuse
@@ -193,7 +193,7 @@ Uniquement sur avis du neurologue.
 {{% /collapse %}}
 {{%collapse "Classes thérapeutiques efficaces" %}}
 
-Traitements des douleurs neuropathiques de première intention ou ayant un niveau de preuve satisfaisant en 2020 chez l'adulte:
+Traitements des douleurs neuropathiques ayant un niveau de preuve satisfaisant en 2020 chez l'adulte:
 
 - Antidépresseurs
   - IRSNA  
@@ -337,6 +337,7 @@ Bilan étiologique par le neurologue en cause non évidente.
 {{% /collapse %}}
 {{%sources%}}
 
+- [Moisset X. Neuropathic pain: Evidence based recommendations. Presse Med. 2024.](https://www.sciencedirect.com/science/article/pii/S0755498224000101)
 - [Moisset X, et al. French guidelines for neuropathic pain: An update and commentary. Revue neurologique. 2021.](https://hal.archives-ouvertes.fr/hal-03401768)
 - [Moisset X, et al; SFETD. Traitements pharmacologiques et non pharmacologiques de la douleur neuropathique : une synthèse des recommandations françaises. Douleur Et Analgesie. 2020. (PDF)](https://www.sfetd-douleur.org/wp-content/uploads/2021/02/synth%C3%A8se-RECOS-DN-langue-fran%C3%A7aise1.pdf)
 - [Hartemann A, et al; SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)
@@ -346,8 +347,8 @@ Bilan étiologique par le neurologue en cause non évidente.
 ### Bibliographie en attente
 
 - [Sayed D, et al. A Systematic Guideline by the ASPN Workgroup on the Evidence, Education, and Treatment Algorithm for Painful Diabetic Neuropathy: SWEET. J Pain Res. 2024.](https://www.dovepress.com/a-systematic-guideline-by-the-aspn-workgroup-on-the-evidence-education-peer-reviewed-fulltext-article-JPR)
+- [Truini A, et al. Joint European Academy of Neurology-European Pain Federation-Neuropathic Pain Special Interest Group of the International Association for the Study of Pain guidelines on neuropathic pain assessment. Eur J Neurol. 2023. (NeuPSIG)](https://onlinelibrary.wiley.com/doi/10.1111/ene.15831)
 - [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)
-- [Attal N, et al. EFNS guidelines on the pharmacological treatment of neuropathic pain: 2010 revision. European Journal of Neurology. 2010.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2010.02999.x)
 - [Recodiab.ch. Neuropathie diabétique](https://www.recodiab.ch/RPC20_neuropathie.pdf)
 
 {{%/sources%}}

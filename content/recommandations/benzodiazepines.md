@@ -241,7 +241,7 @@ graph TB
 
 - Prescrire Redaction. Benzodiazépines ou apparentés. Rev Prescrire. 2024.
 - [AddictoVigilance. Mésusage et abus des benzodiazépines et apparentés : où en est-on ?. 2023. (PDF)](https://addictovigilance.fr/wp-content/uploads/2023/06/Bulletin-benzodiazepines-n%C2%B020-juin-2023-VF-1-1.pdf)
-- [Collège National Universitaire de Psychiatrie (CNUP). Prescription et surveillance des psychotropes. Item 74. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf)
+- [Collège National Universitaire de Psychiatrie (CNUP). Prescription et surveillance des psychotropes. Item 74. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_4ed.pdf)
 - [HAS. Arrêt des benzodiazépines et médicaments apparentés : démarche du médecin traitant en ambulatoire. Recommandation de bonne pratique. 2015.](https://www.has-sante.fr/jcms/c_2038262/fr/arret-des-benzodiazepines-et-medicaments-apparentes-demarche-du-medecin-traitant-en-ambulatoire)
 - [HAS. Modalités d'arrêt des benzodiazépines et médicaments apparentés chez le patient âgé. Recommandations professionnelles. 2007.](https://www.has-sante.fr/jcms/c_601509/fr/modalites-d-arret-des-benzodiazepines-et-medicaments-apparentes-chez-le-patient-age)
 - [Ministre des affaires sociales et de la santé. Arrêté du 7 janvier 2017 portant application d'une partie de la réglementation des stupéfiants aux médicaments à base de zolpidem administrés par voie orale. Journal Officiel. 2017.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033843028/)

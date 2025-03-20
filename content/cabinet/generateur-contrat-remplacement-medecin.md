@@ -6,7 +6,7 @@ longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-05T12:18:00+02:00"
 publishdate = "2022-12-08"
-lastmod = "2024-12-28"
+lastmod = "2025-03-20"
 annees = "2023"
 sources = ["CNOM"]
 tags = []
@@ -299,6 +299,8 @@ Pendant la durée du présent contrat de remplacement et pour les besoins de son
 
 Compte tenu du caractère par nature provisoire de l'activité du remplaçant/de la remplaçante, celle-ci /celui-ci s'interdit toute modification des lieux ou de leur destination.
 
+---
+
 <small>1 Il est recommandé que les modalités habituelles de fonctionnement du cabinet soient précisées au remplaçant/à la remplaçante, dans le souci de la permanence des soins.</small>
 
 </div>
@@ -329,6 +331,8 @@ En fin de remplacement, <span class="contract-title-full">la docteure</span> <sp
 En cas de participation, au cours du remplacement, à la permanence des soins ambulatoire, le montant de la rémunération d'astreinte est dû à <span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> qui a exécuté la/les garde(s).
 
 Conformément aux dispositions de l'article R.4127-66 du code de la santé publique (code de déontologie médicale), le remplacement terminé, <span class="contract-title-substitute-full">Madame</span> <span class="contract-name-substitute-text">Z</span> doit cesser toute activité s'y rapportant et transmettre les informations nécessaires à la continuité des soins.
+
+---
 
 <small>2 Il serait souhaitable que la copie de cette assurance soit jointe au présent contrat</small>  
 <small>3 Carte de professionnel en formation</small>  
@@ -362,6 +366,8 @@ Tous les litiges ou différends relatifs notamment à la validité, l'interprét
 **Article 10 : Arbitrage** ^5^
 
 En cas d'échec de la conciliation, les litiges ou différends relatifs à la validité, l'interprétation, l'exécution ou la résolution du présent contrat, seront soumis à l'arbitrage conformément au règlement d'arbitrage de la Chambre nationale d'arbitrage des médecins.
+
+---
 
 <small>5 La clause d'arbitrage (clause compromissoire) est facultative et les parties peuvent décider de ne pas y recourir ou encore y recourir dans des conditions différentes de celles proposées ci-dessus</small>
 </div>
@@ -400,6 +406,8 @@ le <span class="contract-date-text">...</span>
   <p><span class="contract-title-full">La docteure</span> <span class="contract-name-text">X</span></p>
   <p><span class="contract-title-substitute-full">Madame</span> <span class="contract-name-substitute-text">Z</span></p>
 </div>
+
+---
 
 <small>6 Les parties peuvent renoncer à cette modalité de l'arbitrage et, dans ce cas, il suffit de supprimer la mention de l'amiable composition.</small>  
 <small>7 Les parties peuvent renoncer à cette modalité de l'arbitrage et, dans ce cas, il suffit de supprimer la mention de l'amiable composition.</small>

@@ -8,7 +8,7 @@ synonyms = ["Psychothérapie remboursée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-23T13:48:59+02:00"
 publishdate = "2022-05-23"
-lastmod = "2025-01-06"
+lastmod = "2025-03-20"
 specialites = ["pédiatrie", "psychiatrie", "thérapeutique"]
 annees = "2025"
 sources = ["Ameli"]
@@ -26,6 +26,7 @@ todo = "échelles"
 - Des séances de psychothérapie sont remboursables à partir de 3 ans, jusqu'à 12 séances avec le dispositif ***[Mon soutien psy](https://www.ameli.fr/medecin/exercice-liberal/prise-charge-situation-type-soin/accompagnement-psychologue-conventionne-mon-soutien-psy)*** (*ex MonPsy* puis *MonParcoursPsy*)
 - Le patient n'a pas besoin de prescription ou de courrier pour bénéficier du dispositif *Mon soutien psy*
 - [Annuaire des psychologues remboursés par le dispositif Mon soutien psy](https://monsoutienpsy.ameli.fr/recherche-psychologue), des [CMP](https://www.santeenfrance.fr/annuaire/13-centres-medico-psychologiques-cmp-cattp) et [CMPP](https://annuaire.action-sociale.org/etablissements/jeunes-handicapes/centre-medico-psycho-pedagogique--c-m-p-p---189.html)
+- Les étudiants peuvent cumuler la psychothérapie avec celle du dispositif [Santé psy étudiant](https://santepsy.etudiant.gouv.fr)
 - [Appli pour le suivi des symptômes psychologiques: Jardin Mental](https://jardinmental.fabrique.social.gouv.fr/pro)
 
 {{%/article-summary%}}
