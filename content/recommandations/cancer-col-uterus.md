@@ -8,9 +8,9 @@ synonyms = ["Papillomavirus humains HPV", "dysplasies et condylomes"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2021-01-18T10:55:00+02:00"
 publishdate = "2022-04-20"
-lastmod = "2024-04-26"
+lastmod = "2025-03-20"
 specialites = ["gynécologie-obstétrique"]
-annees = "2020"
+annees = "2021"
 sources = ["INCa", "HAS", "MinSanté"]
 tags = ["cancer", "depistage", "douleur pelvienne", "IST", "HSH", "vaccin"]
 english = ["Cervical cancer"]
@@ -19,7 +19,7 @@ icd10 = ["C53", "C53.9", "N87", "D06", "B97.7", "Z12.4"]
 image = true
 imageSrc = "Le cancer du col de l'utérus. scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "pharynx, source: Les infections a HPV deviennent indétectables au bout de 2 ans dans 90% des cas. Dans les 10% des cas où elle persiste elle peut être a l'origine de cancer."
+todo = "SEO | pharynx, source: Les infections a HPV deviennent indétectables au bout de 2 ans dans 90% des cas. Dans les 10% des cas où elle persiste elle peut être a l'origine de cancer."
 +++
 
 {{%article-summary%}}
@@ -44,15 +44,15 @@ La vaccination prévient 90% des infections causant ces cancers.
 : En coloscopie, des HPV sont retrouvés chez 43% des femmes et 24% des hommes (*Vuitton 2018*).
 
 Cancer du col de l'utérus
-: Cancers non hormonodépendants avec un pic d'incidence à 40 ans.  
-80-90% sont des carcinomes épidermoïdes de l'exocol, 10-20% sont des adénocarcinomes du canal endocervical ou de l'endocol.
+: Cancers non hormonodépendants du col de l'utérus, avec un pic d'incidence à 40 ans.
+: 80 à 90% sont des carcinomes épidermoïdes de l'exocol (quasi-totalité par HPV), 10 à 20% sont des adénocarcinomes du canal endocervical ou de l'endocol (majoritairement par HPV). Ils mettent 10 à 20 ans à se développer.
 
 ### Facteurs de risque de cancer du col de l'utérus
 
 - Précocité de l'activité sexuelle
 - Multiplicité des partenaires sexuels
 - Parité élevée
-- Génotype de l'HPV (16, 18), infection par plusieurs types d'HPV à risque
+- Génotype de l'HPV (**16 et 18** pour +70%), infection par plusieurs types d'HPV à risque
 - Tabagisme
 - [VIH]({{% relref "vih-sida.md" %}})
 - [IST](/tags/ist/)
@@ -66,7 +66,7 @@ Cancer du col de l'utérus
 Complications des infections par les papillomavirus et incidence imputée entre parenthèse:
 
 - Condylomes
-- Dysplasies (35.000/an) et cancers du col de l'utérus (3000/an)  
+- Dysplasies (35.000/an) et cancers du col de l'utérus (+3000/an)  
   Tous les cancers du col sont dus aux HPV.
 - Cancer du vagin
 - Cancer de la vulve
@@ -108,25 +108,57 @@ HPV
 : papillomavirus humains
 
 HPV-HR
-: HPV à haut risque (génotype cancérigène)
+: HPV à haut risque (génotype oncogène)
+
+trachélectomie
+: exérèse de tout le col utérin par voie vaginale
 {.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Les symptômes du cancer du col de l'utérus sont tardifs et témoignent d'une maladie avancée:
+Les symptômes du cancer du col de l'utérus sont tardifs et témoignent d'une maladie avancée.
 
-- Métrorragies ± provoquées
-- Leucorrhées
-- Dyspareunies
-- [Douleurs pelviennes](/tags/douleur-pelvienne/) ou lombaires
-- Dysurie
-- Voire œdèmes des membres inférieurs et névralgie crurale si évoluée
-- +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
+### Interrogatoire
+
+- Antécédents: pathologie gynécologique, immunodépression, vaccination HPV
+- Traitements en cours (dont immunosuppresseurs) et exposition au diéthylstilbestrol
+- Tabagisme
+- Derniers résultats du frottis, suivis gynécologiques
+- Signes et symptômes du cancer du col de l'utérus:
+  - Métrorragies spontanées ou provoquées
+  - Leucorrhées
+  - Dyspareunies
+  - [Douleurs pelviennes](/tags/douleur-pelvienne/)
+  - Par compression: dysurie, ténesme, douleurs lombaires
+  - Voire œdèmes des membres inférieurs et névralgie crurale
+- +75 ans: dépistage gériatrique (score {{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
 ### Examen clinique
 
-Au spéculum: ulcération à bords irréguliers, saignant au contact. Le col peut également garder un aspect normal.
+- Palpation abdominale
+- Palpation des aires ganglionnaires
+- Examen gynécologique au spéculum: ulcération à bords irréguliers, saignant au contact  
+  Le col peut également garder un aspect normal.
+
+> [!WARNING]
+> Ne pas faire de frottis sur un col qui n'est pas parfaitement sain. Adresser au gynécologue pour colposcopie et biopsies dirigées.
+
+{{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+Tout suspicion de cancer du col de l'utérus nécessite une **colposcopie** en semi-urgence par le gynécologue.
+
+Selon l'accès aux soins et la suspicion diagnostique, l'**IRM pelvienne** pourrait être réalisée en parallèle.
+
+### Bilan d'extension
+
+Dès que le diagnostic anatomopathologique de cancer du col de l'utérus est posé, le bilan d'extension associe:
+
+- **IRM pelvienne**
+- Si stade localement avancé ou suspicion d'atteinte ganglionnaire: **PETscan** (voir scanner thoraco-abdomino-pelvien injecté)
+- Bilan biologique: NFS, bilan hépatique, bilan rénal, albumine, sérologie VIH
+- Si épidermoïde: **marqueur tumoral: SCC**
 
 {{% /collapse %}}
 {{%collapse "Dépistage du cancer du col et des papillomavirus" %}}
@@ -156,7 +188,7 @@ En cas de refus, un auto-prélèvement vaginal (APV) peut être réalisé par la
 
 Ne pas réaliser de frottis cervical parmi les femmes suivantes de 25 à 65 ans:
 
-- Grossesse au 2e et 3e trimestre
+- Grossesse au 2^e^ et 3^e^ trimestre
 - Jamais eu de rapports sexuels
 - Suspicion de cancer du col de l'utérus
 - Traitement conservateur pour lésion pré-cancéreuse ou cancéreuse du col  
@@ -222,21 +254,38 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 {{% /collapse %}}
 {{%collapse "Traitement du cancer du col de l'utérus" %}}
 
-Les anomalies découvertes dans les suites du dépistage par frottis cervico-vaginal ou en colposcopie relèvent d'une prise en charge spécialisée pluridisciplinaire.
+Adresser en semi-urgence à l'équipe hospitalière de gynécologie pour la suite de la prise en charge du cancer du col de l'utérus. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC). Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP).
 
-L'**IRM pelvienne** est systématique dans le bilan d'extension initial du cancer du col de l'utérus.
-
-Le marqueur tumoral épidermoïde **SCC** peut être utile pour le suivi ultérieur.
-
-Le traitement du cancer du col peut être (après RCP): chirurgie, radiothérapie, curiethérapie, chimiothérapie.
+La prise en charge du cancer du col de l'utérus peut être: chirurgie (dont **hystérectomie totale** avec salpingo-ovariectomie bilatérale), radiothérapie, curiethérapie, chimiothérapie, thérapie ciblée (bevacizumab). La préservation de la fertilité est associée aux traitements à risque si possible.
 
 En cas de ménopause induite, un [traitement hormonal]({{% relref "menopause.md" %}}) peut être introduit.
 
-Mesures associées aux cancers:
+### Mesures générales associées aux cancers
 
 - Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
+- Traitement de la douleur
 - Activité physique quotidienne
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
+- Information de la patiente: [guide INCa](https://www.cancer.fr/personnes-malades/les-cancers/col-de-l-uterus/comprendre-la-maladie/l-essentiel)
+- Association de patientes: [Imagyn](https://www.imagyn.org), [RoseUp](https://www.rose-up.fr)
+
+{{% /collapse %}}
+{{%collapse "Suivi après cancer du col de l'utérus" %}}
+
+Après cancer du col de l'utérus, le suivi comporte:
+
+- Examen clinique et gynécologique: symptômes, douleurs, complications  
+  Tous les 3-4 mois pendant 2 ans, puis tous les 6-12 mois pendant 3 ans puis annuel.
+- Pas de frottis après hystérectomie ou radiochimiothérapie
+- Bilans: pas d'examen en l'absence de symptômes  
+  Sauf traitement conservateur: IRM pelvienne annuelle pendant 5 ans.
+- Marqueur tumoral SCC: si épidermoïde avec élévation initiale
+- Si stérilisation: [traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
+- Dépistage organisé des autres cancers
+
+> Les **récidives** surviennent surtout dans les 2 ans, mais 10% interviennent après 5 ans.
+
+En cas de conisation ou trachélectomie simple ou élargie: Test HPV-HR à 6 mois, 12 mois, 24 mois, puis si négatif, tous les 3 ans
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
@@ -247,25 +296,26 @@ Mesures associées aux cancers:
 
 {{< youtube id="-AMgdgFq9EM" title="Vaccination contre les papillomavirus humains (HPV) (VacciNews)" >}}
 
-- [INCa. Dépistage organisé du cancer du col de l'utérus](https://depistagecoluterus.e-cancer.fr)
-- [Abramovitz L. Vaccin contre le Papilloma virus : De l'AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/)
+[INCa. Dépistage organisé du cancer du col de l'utérus](https://depistagecoluterus.e-cancer.fr)
 
 {{% /collapse %}}
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
-- [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. 21/08/2023.](https://www.e-cancer.fr/Professionnels-de-sante/Facteurs-de-risque-et-de-protection/Agents-infectieux/Prevenir-les-cancers-lies-aux-HPV)
+- [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. 20/09/2024.](https://www.e-cancer.fr/Professionnels-de-sante/Facteurs-de-risque-et-de-protection/Agents-infectieux/Prevenir-les-cancers-lies-aux-HPV)
 - [Inserm. Papillomavirus : faut-il généraliser la vaccination ?. 27/03/2023.](https://www.inserm.fr/actualite/papillomavirus-faut-il-generaliser-la-vaccination/)
 - [Service-Public. Papillomavirus : vaccination généralisée à la rentrée 2023 pour les élèves de 5e. 07/03/2023.](https://www.service-public.fr/particuliers/actualites/A16438)
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
-- [Hanguehard R et al. Couverture vaccinale contre les infections à papillomavirus humain des filles âgées de 15 à 18 ans et déterminants de vaccination, France, 2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_3.html)
-- [INCa. Le dépistage du cancer du col de l'utérus en pratique. Collection Outils pour la pratique. Décembre 2020. (PDF)](https://www.e-cancer.fr/content/download/307096/4383798/file/Outil-Pratique-Uterus-2021-@%20DEF%2012032021.pdf)
-- [INCa. Dépistage et prévention de cancer du col de l'utérus - Rôle du médecin et de la sage-femme. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Depistage-et-prevention-de-cancer-du-col-de-l-uterus-Role-du-medecin-et-de-la-sage-femme)
+- [Hanguehard R, et al. Couverture vaccinale contre les infections à papillomavirus humain des filles âgées de 15 à 18 ans et déterminants de vaccination, France, 2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_3.html)
+- [INCa. Cancers invasifs du col utérin - Du diagnostic au suivi. 2021.](https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/outils-pour-la-pratique-des-medecins-generalistes/outils-par-localisation-de-cancer/cancers-invasifs-du-col-uterin)
+- [INCa. Les cancers invasifs du col utérin en 10 points clés. 2021.](https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/outils-pour-la-pratique-des-medecins-generalistes/outils-par-localisation-de-cancer/cancers-invasifs-du-col-uterin)
+- [INCa. Le dépistage du cancer du col de l'utérus en pratique. Collection Outils pour la pratique. 2020. (PDF)](https://www.e-cancer.fr/content/download/307096/4383798/file/Outil-Pratique-Uterus-2021-@%20DEF%2012032021.pdf)
+- [INCa. Dépistage et prévention de cancer du col de l'utérus - Rôle du médecin et de la sage-femme. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Depistage-et-prevention-de-cancer-du-col-de-l-uterus-Role-du-medecin-et-de-la-sage-femme)
 - [HAS. Évaluation de la recherche des papillomavirus humains (HPV) en dépistage primaire des lésions précancéreuses et cancéreuses du col de l'utérus et de la place du double immuno-marquage p16/Ki67. 2019.](https://www.has-sante.fr/jcms/c_2806160/fr/evaluation-de-la-recherche-des-papillomavirus-humains-hpv-en-depistage-primaire-des-lesions-precancereuses-et-cancereuses-du-col-de-l-uterus-et-de-la-place-du-double-immuno-marquage-p16/ki67)
-- [Marth C et al. Cervical cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2017.](https://www.annalsofoncology.org/article/S0923-7534(19)42148-0/fulltext)
-- [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
+- [Marth C, et al. Cervical cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2017.](https://www.annalsofoncology.org/article/S0923-7534(19)42148-0/fulltext)
+- [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
 - [INCa. Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale. 2017.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Conduite-a-tenir-devant-une-femme-ayant-une-cytologie-cervico-uterine-anormale)
 - [HAS. Cancer invasif du col utérin. Actes et prestations Affection de longue durée. Juin 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_lap_col_uterin_web.pdf)
 - [HAS. Cancer invasif du col utérin. Janvier 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_gm_col_uterin_web_2010-02-12_09-57-34_599.pdf)
@@ -273,8 +323,8 @@ Mesures associées aux cancers:
 
 ### Bibliographie en attente
 
-- [Fischerova D et al. The Role of Imaging in Cervical Cancer Staging: ESGO/ESTRO/ESP Guidelines (Update 2023). Cancers (Basel). 2024.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38398166/)
-- [INCa. Cancers invasifs du col utérin - Du diagnostic au suivi. 2023.](https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/outils-pour-la-pratique-des-medecins-generalistes/outils-par-localisation-de-cancer/cancers-invasifs-du-col-uterin)
+- [Brun JL, et al. Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale : actualisation des recommandations INCa après la mise en place du dépistage par le test HPV [Management of women with abnormal cervical cytology: Update of INCa recommendations after the implementation of HPV screening]. Gynecol Obstet Fertil Senol. 2025. (PDF)](https://www.societe-colposcopie.com/sites/default/files/mise-a-jour-recos-inca-2016-pdf-20250208114834.pdf)
+- [Fischerova D, et al. The Role of Imaging in Cervical Cancer Staging: ESGO/ESTRO/ESP Guidelines (Update 2023). Cancers (Basel). 2024.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38398166/)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

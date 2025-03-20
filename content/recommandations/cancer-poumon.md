@@ -8,7 +8,7 @@ synonyms = ["Cancer broncho-pulmonaire", "tumeur pulmonaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T17:35:52+02:00"
 publishdate = "2022-05-12"
-lastmod = "2024-03-29"
+lastmod = "2025-03-20"
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["HAS", "SPLF", "ERS"]
@@ -249,15 +249,16 @@ graph TB
 
 {{< video mp4="https://docs.splf.fr/videos/ATS/mission-ats-2022/ATS-Dr-Marjolaine-Georges.mp4" description="Le tabac c'est tabou! sous toutes ses formes! et à tous les stades de cancer! (SPLF)" >}}
 
-- [Wolf AMD et al. Screening for lung cancer: 2023 guideline update from the American Cancer Society. CA Cancer J Clin. 2023.](https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21811)
+- [INCa, SPLF. Traitements de 1^re^ ligne du CBNPC métastatique sans addiction oncogénique. 2024.](https://www.cancer.fr/catalogue-des-publications/traitements-de-1re-ligne-du-cbnpc-metastatique-sans-addiction-oncogenique-synthese)
+- [Wolf AMD, et al. Screening for lung cancer: 2023 guideline update from the American Cancer Society. CA Cancer J Clin. 2023.](https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21811)
 - [Collège des Enseignants de Pneumologie (CEP). Tumeurs du Poumon, primitives et secondaires. Item 309. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_309_CANCER_2023.pdf)
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}
 - [HAS. Dépistage du cancer bronchopulmonaire par scanner thoracique faible dose sans injection : actualisation de l'avis de 2016. 2022.](https://www.has-sante.fr/jcms/p_3310940/fr/depistage-du-cancer-bronchopulmonaire-par-scanner-thoracique-faible-dose-sans-injection-actualisation-de-l-avis-de-2016)
-- [Couraud S et al; SPLF. Recommandations de l'Intergroupe francophone de cancérologie thoracique, de la Société de pneumologie de langue française, et de la Société d'imagerie thoracique sur le dépistage du cancer bronchopulmonaire par tomodensitométrie à faible dose d'irradiation. Rev Mal Resp. 2021.](https://www.sciencedirect.com/science/article/pii/S0761842521000437)
+- [Couraud S, et al; SPLF. Recommandations de l'Intergroupe francophone de cancérologie thoracique, de la Société de pneumologie de langue française, et de la Société d'imagerie thoracique sur le dépistage du cancer bronchopulmonaire par tomodensitométrie à faible dose d'irradiation. Rev Mal Resp. 2021.](https://www.sciencedirect.com/science/article/pii/S0761842521000437)
 - [INCa. Les cancers bronchopulmonaires en 10 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-bronchopulmonaires-en-10-points-cles)
-- [Kauczor H-U et al. ESR/ERS statement paper on lung cancer screening. Eur Respir J. 2020.](https://erj.ersjournals.com/content/55/2/1900506)
-- [Delafosse P et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Poumon. Santé Publique France. 2020.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-poumon)
+- [Kauczor H-U, et al. ESR/ERS statement paper on lung cancer screening. Eur Respir J. 2020.](https://erj.ersjournals.com/content/55/2/1900506)
+- [Delafosse P, et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Poumon. Santé Publique France. 2020.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-poumon)
 - [NICE. Lung cancer: diagnosis and management. 2019.](https://www.nice.org.uk/guidance/NG122)
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
 - [INCA. Cancers bronchopulmonaires - Du diagnostic au suivi. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-bronchopulmonaires-Du-diagnostic-au-suivi)

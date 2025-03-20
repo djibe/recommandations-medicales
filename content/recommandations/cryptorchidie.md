@@ -132,6 +132,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Desvignes V, Dobremez E. Orientation diagnostique devant un testicule non descendu. AFPA. 2025.](https://afpa.org/2025/01/09/orientation-diagnostique-devant-un-testicule-non-descendu/)
 - [Dobremez E, Harper L. Cryptorchidie acquise, testicule oscillant et autres formes secondaires de cryptorchidie. Andrologie. 2010. (PDF)](https://link.springer.com/content/pdf/10.1007/s12610-010-0095-y.pdf)
 - [Merrot T. Prise en charge des testicules non descendus. Progrès en urologie. 2009. (PDF)](https://www.urofrance.org/sites/default/files/fileadmin/documents/data/PU/2009/3247/38905/FR/206489/main.pdf)
 

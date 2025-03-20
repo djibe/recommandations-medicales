@@ -18,6 +18,7 @@ sctid = "91855006"
 icd10 = ["C95.0"]
 image = true
 imageSrc = "Myélogramme d'une leucémie aiguë myéloblastique (ou myéloïde) avec blastes ayant des corps d'Auer (flèches). VashiDonsk, CC BY-SA 3.0, via Wikimedia Commons"
+todo = "seo"
 flowchart = true
 +++
 
