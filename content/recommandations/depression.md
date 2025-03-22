@@ -18,7 +18,7 @@ sctid = "35489007"
 icd10 = ["F32", "F32.0", "F32.1", "F32.9"]
 image = true
 imageSrc = "La dépression par storyset / Freepik"
-todo = "rankok, indications suivi CMP, ECG, Appli Way4Good, quest ASQ, HAS2017p10, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/101.pdf, grille RUD https://psychotropes.fr/storage/3/tool8.pdf, http://beh.santepubliquefrance.fr/beh/2024/3/2024_3_1.html, https://www.nejm.org/doi/full/10.1056/NEJMcp2305428"
+todo = "rankok | déplacer fiche suicide, indications suivi CMP, ECG, Appli Way4Good, quest ASQ, HAS2017p10, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/101.pdf, grille RUD https://psychotropes.fr/storage/3/tool8.pdf, http://beh.santepubliquefrance.fr/beh/2024/3/2024_3_1.html, https://www.nejm.org/doi/full/10.1056/NEJMcp2305428"
 flowchart = true
 +++
 
@@ -154,7 +154,7 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{%
 ### Échelles pour l'évaluation de la dépression de l'enfant et de l'adolescent
 
 - Évaluation d'un adolescent présentant des symptômes dépressifs: ADRS
-- Dépistage du risque suicidaire de l'adolescent: BITS
+- Dépistage du risque suicidaire de l'adolescent: questionnaire BITS
 - Dépistage des problèmes de santé mentale chez l'enfant: SDQ
 
 {{% /collapse %}}
@@ -227,18 +227,20 @@ L'évaluation de la sévérité repose sur le nombre de critères, la sévérit�
 
 > -- [Classification Internationale des Maladies 10e version (CIM-10)](https://icd.who.int/browse10/2008/fr#/F32)
 
-### Diagnostic différentiel d'un épisode dépressif caractérisé
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Diagnostic différentiel d'un épisode dépressif caractérisé:
 
 - Autres troubles psychiatriques
   - Trouble bipolaire
   - Trouble dépressif persistant (ex dysthymie) ou récurrent (épisode dépressif saisonnier)
   - Trouble de l'adaptation
-  - Trouble anxieux: trouble anxieux généralisé, état de stress post-traumatique
+  - Trouble anxieux: [trouble anxieux généralisé]({{< relref "trouble-anxieux-generalise.md" >}}), état de stress post-traumatique
   - Trouble schizophrénique (trouble schizo-affectif, le trouble schizophréniforme), troubles délirants
   - Trouble somatoforme, trouble de conduite alimentaire
   - Trouble de la personnalité
-- Usage, abus, dépendance et sevrage de médicaments
-- Usage, abus, dépendance et sevrage de substances psychoactives
+- Usage, abus, dépendance et sevrage de médicaments ou substances psychoactives
 - Maladies somatiques: endocrinienne ([hypothyroïdie]({{% relref "hypothyroidie.md" %}}), [Cushing]({{% relref "syndrome-cushing.md" %}})), maladie neurodégénérative, neurologique (tumeur, SEP, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}))
 
 {{% /collapse %}}
@@ -301,14 +303,17 @@ Les symptômes doivent être présents depuis au moins 15 jours avec changement 
 
 Avec l'accord du patient, interroger l'entourage.
 
-Questionnaires d'aide au diagnostic de la dépression chez l'adulte (voir la section dédiée): {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HADS{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, adolescent {{< modal-btn modal-adrs >}}ADRS{{< /modal-btn >}} (13-20 ans), sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} couplé au {{< scores/mmse >}}.
+Particularités de la dépression de l'adolescent: irritabilité, agressivité, troubles des conduites et plaintes somatiques au 1^er^ plan.
+{.alert .alert-info}
 
-> << Le diagnostic de l'épisode dépressif caractérisé est clinique >> -- *HAS 2017*
+Questionnaires d'aide au diagnostic de la dépression (voir la section dédiée): {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HADS{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, adolescent {{< modal-btn modal-adrs >}}ADRS{{< /modal-btn >}} (13-20 ans), sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} couplé au MoCa ou {{< scores/mmse >}}.
+
+> << Le diagnostic de l'épisode dépressif caractérisé est clinique. >> -- *HAS 2017*
 
 {{% /collapse %}}
 {{%collapse "Évaluation du risque suicidaire" %}}
 
-> << Tout épisode dépressif caractérisé chez le sujet âgé comporte un risque suicidaire élevé >> -- *HAS 2017*
+> << Tout épisode dépressif caractérisé chez le sujet âgé comporte un risque suicidaire élevé. >> -- *HAS 2017*
 
 Exemple de questions à poser pour évaluer l'intention suicidaire:
 
@@ -322,6 +327,8 @@ Exemple de questions à poser pour évaluer l'intention suicidaire:
 - Qu'est-ce qui vous retient de mettre en œuvre ces pensées ?
 
 > -- *HAS 2017*
+
+Dépistage du risque suicidaire de l'adolescent: questionnaire BITS.
 
 > [!WARNING]
 > Le questionnement sur le suicide ne renforce pas le risque suicidaire.
@@ -365,48 +372,7 @@ L'accumulation de facteurs de risque aggrave la dangerosité:
 
 Manque de scores en médecine générale pour l'aide à l'évaluation du risque suicidaire (*[Blanchet 2019](https://dumas.ccsd.cnrs.fr/dumas-02122265/document)*).
 
-#### Risque suicidaire élevé (urgence)
-
-Le patient en crise:
-
-- est décidé: sa planification est claire et le passage à l'acte est prévu pour les jours qui viennent
-- est coupé de ses émotions: il rationalise sa décision ou est très émotif, agité, troublé
-- se sent complètement immobilisé par la dépression ou dans un état de grande agitation
-- a une douleur et une expression de la souffrance omniprésentes ou complètement tues
-- a un accès direct et immédiat à un moyen de se suicider
-- a le sentiment d'avoir tout fait et tout essayé
-- est très isolé
-
-Hospitalisation sous contrainte si besoin.
-{.alert .alert-warning}
-
-#### Risque suicidaire modéré
-
-Le patient en crise:
-
-- envisage le suicide et son intention est claire
-- a envisagé un scénario suicidaire, mais dont l'exécution est reportée
-- ne voit de recours autre que le suicide pour cesser de souffrir
-- présente un équilibre émotionnel fragile
-- a besoin d'aide et exprime directement ou indirectement son désarroi
-- est isolé
-
-Prise en charge par hospitalisation, suivi renforcé ou avis psychiatrique.
-
-#### Risque suicidaire faible
-
-Le patient en crise:
-
-- est dans une relation de confiance établie avec le praticien
-- désire parler et est à la recherche de communication
-- cherche des solutions à ses problèmes
-- pense au suicide, mais n'a pas de scénario suicidaire précis
-- pense encore à des moyens et à des stratégies pour faire face à la crise
-- n'est pas anormalement troublé, mais psychologiquement souffrant
-
-Réévaluations fréquentes du niveau d'urgence.
-
-> -- *HAS 2017*
+{{< clinique/suicide-urgence >}}
 
 {{% /collapse %}}
 {{%collapse "Critères d'hospitalisation de la dépression" %}}

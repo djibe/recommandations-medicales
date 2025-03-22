@@ -317,7 +317,7 @@ En cas de conisation ou trachélectomie simple ou élargie: Test HPV-HR à 6 moi
 - [Marth C, et al. Cervical cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2017.](https://www.annalsofoncology.org/article/S0923-7534(19)42148-0/fulltext)
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
 - [INCa. Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale. 2017.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Conduite-a-tenir-devant-une-femme-ayant-une-cytologie-cervico-uterine-anormale)
-- [HAS. Cancer invasif du col utérin. Actes et prestations Affection de longue durée. Juin 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_lap_col_uterin_web.pdf)
+- [HAS. Cancer invasif du col utérin. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_lap_col_uterin_web.pdf)
 - [HAS. Cancer invasif du col utérin. Janvier 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_gm_col_uterin_web_2010-02-12_09-57-34_599.pdf)
 - [Vaccination Info Service. Les infections à papillomavirus humains (HPV).](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Les-Infections-a-Papillomavirus-humains-HPV)
 

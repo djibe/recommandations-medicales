@@ -3,14 +3,14 @@ id = "0190e8c7-b9f2-74f8-9157-0223e3e0972b"
 title = "Maladie de Lyme"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la borréliose (maladie) de Lyme. Prévention, érythème migrant, examens diagnostiques et traitement par antibiotiques"
-synonyms = ["Borréliose de Lyme"]
+synonyms = ["Borréliose de Lyme (BL)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-30T18:17:39+02:00"
 publishdate = "2021-10-02"
-lastmod = "2025-03-03"
+lastmod = "2025-03-22"
 specialites = ["dermatologie", "infectiologie"]
-annees = "2023"
-sources = ["GPIP", "HAS", "DGS"]
+annees = "2025"
+sources = ["HAS", "GPIP", "DGS"]
 tags = ["prevention"]
 english = ["Lyme disease", "tick bites"]
 sctid = "23502006"
@@ -27,19 +27,19 @@ flowchart = true
 - Zones à risque de tiques infectées: métropole entière (surtout Alsace, Lorraine, Limousin)
 - Mesures de prévention des piqûres de tique en forêt puis inspection au retour (voir *Prévention*)
 - Prise en charge d'une piqûre de tique: pince ou tire-tique, auto-surveillance pendant 30 jours, [signaler la piqûre](https://tiquotheque.fr/signalement/public/)
-- Recommandations pour la prise en charge d'un érythème migrant: survenue dans les 30 jours de la piqûre, diagnostic clinique, antibiothérapie 10 jours, contrôle de la guérison à J10
-- En cas de [paralysie faciale]({{% relref "paralysie-faciale-idiopathique.md" %}}) ou de [péricardite]({{% relref "pericardite-aigue.md" %}}) idiopathique: sérologie borréliose systématique
+- Recommandations pour la prise en charge d'un érythème migrant: survenue dans les 30 jours de la piqûre, diagnostic clinique, antibiothérapie par doxycycline pendant 10 jours, auto-surveillance de la disparition dans le mois
+- En cas de [paralysie faciale]({{% relref "paralysie-faciale-idiopathique.md" %}}), de [péricardite]({{% relref "pericardite-aigue.md" %}}) idiopathique ou de gonalgie subaiguë idiopathique: sérologie borréliose systématique
 - Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose (complication neurologique de la maladie de Lyme)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Maladie de Lyme
-: Infection survenant lors d'une piqûre par une tique infectée par une bactérie de la famille des spirochètes: *Borrelia burgdorferi* (voire *Borrelia garinii* ou *Borrelia afzelii*).
+: Infection survenant lors d'une piqûre par une tique infectée par une bactérie de la famille des spirochètes: *Borrelia burgdorferi* sensu lato (voire *Borrelia garinii* ou *Borrelia afzelii*).
 : Pas de surmortalité même en cas de neuroborréliose.  
 Les autres maladies transmises par les tiques (maladies vectorielles à tiques) sont exceptionnelles.
 : En présence de symptômes évocateurs de maladie de Lyme, seuls 15% ont un diagnostic réel de Lyme (*[Jacquet 2019](https://doi.org/10.1016/j.medmal.2018.06.002)*).  
-Diagnostic différentiel: neurologique (12-19%), rhumatologique (15-43%), psychiatrique, psychologique (burn-out 13-25%), auto-immun.
+Diagnostic différentiel: neurologique (12-19 %), rhumatologique (15-43 %), psychiatrique, psychologique (burn-out 13-25 %), auto-immun.
 
 La sérologie de Lyme
 : Sérologie en 2 temps: technique *Elisa* puis *Western blot* si positive ou équivoque.  
@@ -53,11 +53,14 @@ Elle peut être répétée à 3 semaines si négative en cas de forte suspicion 
 ACA
 : Acrodermatite chronique atrophiante. Phase disséminée tardive de la borréliose de Lyme.
 
+BL
+: borréliose de Lyme
+
 CC MVT
 : centre de compétences pour les maladies vectorielles à tiques (coordonnées sur le site de l'ARS)
 
 CR MVT
-: centre de référence de prise en charge pluridisciplinaire des MVT ([site officiel des 5 centres en France](https://crmvt.fr/))
+: centre de référence de prise en charge pluridisciplinaire des MVT ([site officiel des 5 centres en France](https://crmvt.fr))
 
 EM
 : érythème migrant
@@ -83,6 +86,7 @@ Incidence de 25 à 68.500 diagnostics annuels en médecine générale.
 
 Mesures de prévention de la maladie de Lyme:
 
+- En forêt, marcher sur les chemins
 - Vêtements longs couvrants
   - Pantalon, inséré dans les chaussettes (voire guêtres), chemise à manche longue serrant les poignets
   - De couleur claire pour faciliter le repérage
@@ -91,16 +95,17 @@ Mesures de prévention de la maladie de Lyme:
 - Répulsif cutané
   - En complément uniquement
   - Contre-indiqués si grossesse ou avant 2 ans
-  - DEET cutané
+  - DEET cutané ou IR3535
   - Appliquer sur les zones découvertes, respecter les consignes d'usage
   - Ne pas appliquer en même temps que la crème solaire
-  - Perméthrine possible sur les vêtements
 - Inspection minutieuse
   - À chaque retour de zone d'exposition
   - Zones chaudes et humides: cuir chevelu, oreilles, nombril, organes génitaux
   - Répéter la recherche le lendemain
 - Vaccination contre l'encéphalite à tiques  
   Avant séjour en zone rurale ou boisée en zone d'endémie.
+- Aménagement des jardins  
+  Couper l'herbe courte, éviter les tas de bois, traitement des animaux de compagnie ([guide](https://www.citique.fr/amenager-son-jardin-pour-se-proteger-des-piqures-de-tiques/)).
 
 Inefficaces: huiles essentielles (lavande, citronnelle), bracelets insecticides.
 
@@ -111,7 +116,7 @@ Les tiques sont dispersées sur la Métropole entière (surtout Alsace, Lorraine
 {{% /collapse %}}
 {{%collapse "Extraction d'une tique" %}}
 
-Le risque de borréliose de Lyme est inférieur à 5% après une piqûre de tique (même en zone de forte endémie avec fixation prolongée de la tique).
+Le risque de borréliose de Lyme est faible après une piqûre de tique (1 à 4%, même en zone de forte endémie avec fixation prolongée de la tique).
 
 ### Prise en charge d'une morsure de tique
 
@@ -121,7 +126,7 @@ Prise en charge recommandée après une morsure de tique:
 - Extraction mécanique avec un crochet à tique (tire-tique) ou pince fine. Avis du médecin en cas de problème.
 - Ne pas utiliser de substances  
   Éther, huile, vernis ...
-- Après le retrait, **désinfection** locale
+- Après le retrait, **désinfection** locale (antiseptique ou eau et savon)
 - Lavage des mains au savon
 - Photographie de la tique
 - Noter la date et le lieu de la piqûre
@@ -137,16 +142,10 @@ En cas d'extraction incomplète: désinfection seule et surveillance régulière
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Évolution de la maladie de Lyme en 3 phases: localisée précoce (érythème migrant), disséminée précoce (évolution < 6 mois) et tardive (+6 mois):
-
-- Recrudescence de mars à novembre
-- Maladie plus fréquente après 60 ans
-- Signes négatifs
-  - Fièvre
-  - Syndrome inflammatoire
+Évolution de la maladie de Lyme en 3 phases: localisée précoce (érythème migrant), disséminée précoce (évolution de moins de 6 mois) et tardive (après 6 mois). Recrudescence de mars à novembre et maladie plus fréquente après 60 ans.
 
 {{%info%}}
-La séropositivité *Borrelia* ne peut suffire à elle seule pour diagnostiquer une infection (nombreux asymptomatiques)
+La séropositivité *Borrelia* ne peut suffire à elle seule pour diagnostiquer une infection (nombreux asymptomatiques).
 
 ---
 
@@ -155,42 +154,41 @@ La découverte fortuite d'une sérologie de Lyme positive sans signes évocateur
 
 ### Érythème migrant
 
-Antibiothérapie de tout érythème migrant sans aucun examen complémentaire.
+Antibiothérapie de tout érythème migrant sans aucun examen complémentaire. En cas de doute, consultation de contrôle à 7 jours.
 {.alert .alert-info}
+
+L'érythème migrant est présent pour 80% des borrélioses:
 
 - Notion de piqûre locale de tique voire trace de la piqûre (inconstante)
 - Survenue dans les **3 à 30 jours**:
-  - Macule rose à rouge, ovalaire
+  - **Macule rose à rouge, ovalaire**
   - Éclaircissement central inconstant
   - Croissance régulière centrifuge  
     Souvent **> 5 cm** au diagnostic.
   - Non prurigineuse
   - Plusieurs macules érythémateuses possibles  
-    Surtout chez l'enfant: Érythèmes migrants multiples (EMM).
+    Surtout chez l'enfant: érythèmes migrants multiples (EMM).
+  - Signes généraux (10-30 %): fatigue, fébricule, arthro-myalgies.
 - Signes négatifs
   - Érythème douloureux
   - Ulcération, tâche noire, lésion croûteuse
   - Adénopathie satellite
   - Fièvre avec signes neuroméningés ou autre point d'appel clinique
   - Adresser en infectiologie ou au CC MVT car évoque une autre MVT (rickettsiose, tularémie)
-- Signes généraux possibles
-- Guérit en 7 à 13 jours sous traitement antibiotique adapté  
-  Remettre en cause le diagnostic si persiste en fin de traitement.
 
-[Photos d'érythèmes migrants](https://www.nice.org.uk/guidance/ng95/resources/lyme-disease-rash-images-pdf-4792273597)
+L'érythème migrant guérit en 7 à 13 jours sous traitement antibiotique adapté (6 semaines sans). Remettre en cause le diagnostic si persiste en fin de traitement. [Photos d'érythèmes migrants](https://www.nice.org.uk/guidance/ng95/resources/lyme-disease-rash-images-pdf-4792273597).
 
-> << Une simple rougeur au point de piqûre dans les premiers jours s'accompagnant de démangeaisons et de gonflement correspond à une réaction inflammatoire locale à la piqûre et ne nécessite pas de prise en charge >>  
-*HAS 2022*
+> << Une simple rougeur au point de piqûre dans les premiers jours s'accompagnant de démangeaisons et de gonflement correspond à une réaction inflammatoire locale à la piqûre et ne nécessite pas de prise en charge >>. -- *HAS 2022*
 
 ### Phase disséminée précoce: Lymphocytome borrélien
 
-Caractères cliniques du lymphocytome borrélien:
+Signes et symptômes du lymphocytome borrélien:
 
-- Plaque ou nodule solitaire infiltré
+- Plaque ou nodule unique infiltré
 - Croissance lente
-- Couleur variable: Rose-rouge, rouge-brun
-- Asymptomatique ou prurit léger
-- Localisation spécifique  
+- Couleur variable: **rose-rouge, rouge-brun**
+- Asymptomatique ou douleur/prurit légers
+- **Localisation spécifique**  
   Lobule oreille enfant, plaque aréolaire ou scrotum de l'adulte ou exceptionnellement visage, tronc ou membre.
 - Avis dermatologique pour biopsie cutanée
 - Sérologie *Borrelia* positive
@@ -198,34 +196,39 @@ Caractères cliniques du lymphocytome borrélien:
 ### Phase disséminée tardive: Acrodermatite chronique atrophiante (ACA)
 
 - Adulte ≥ 50 ans
-- Macule ou plaque d'un segment de membre
-- Couleur variable: Rouge sombre-violacée
+- Macule ou plaque d'un segment de membre, extensive et mal limitée
+- Couleur variable: rouge sombre ou violacée
+- Allodynie (20-60 %)
+- Sérologie *Borrelia* positive (98%)
 
 ### Autres signes cliniques
 
-Autres signes cliniques et symptômes de la maladie de Lyme:
+> [!INFO]
+> La sérologie Lyme est indiquée devant une monoarthrite subaiguë d'une grosse articulation en l'absence de diagnostic différentiel. Rechercher une exposition aux tiques dans les 2 ans.
+
+Autres signes et symptômes de la maladie de Lyme:
 
 - Rhumatologiques
-  - Phase précoce: **arthralgies** (50-70 %)
-  - Phase disséminée: monoarthrite du genou (85%) ou oligoarthrite  
+  - Phase précoce: **arthralgies** (50 à 70%)
+  - Phase disséminée: **monoarthrite du genou** (85%) ou oligoarthrite  
     Quelques semaines à 2 ans après la piqûre, poussées paroxystiques des douleurs articulaires avec intervalles libres.  
     Guérison sous 5 ans même sans antibiothérapie.
   - Sérologie *Borrelia*
   - Avis rhumatologique ou CC MVT
-- Cardiaques
-  - 0,3-4 % des cas dans un délai de 4 jours à 7 mois
+- Cardiaques (évolution favorable pour 90%)
+  - 0,3 à 4 % des cas, forme précoce (délai de 4 jours à 7 mois)
   - Sérologie *Borrelia*
   - Avis cardiologique en cas de symptômes cardiaques
-  - Blocs atrio-ventriculaires surtout
+  - **Blocs atrio-ventriculaires** surtout
   - Péricardite  
     Réaliser une sérologie en cas d'étiologie indéterminée.
 
 ### Neuroborréliose de Lyme
 
-La neuroborréliose est présente dans 6,5 à 15% des borrélioses de Lyme. Elle survient dans la phase disséminée précoce (< 6 mois, +90% des cas).
+La neuroborréliose est présente dans 6,5 à 15 % des borrélioses de Lyme. Elle survient **durant la phase disséminée précoce** (moins de 6 mois pour +90% des cas).
 
 > [!INFO]
-> Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose.
+> Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose: réaliser une sérologie de Lyme et adresser au centre de compétence des MVT ([annuaire](https://crmvt.fr)) pour investigations et ponction lombaire.
 
 Atteintes neurologiques évocatrices:
 
@@ -235,14 +238,14 @@ Atteintes neurologiques évocatrices:
   - Sur la localisation d'une piqûre de tique
   - Paralysie faciale fréquemment associée avec céphalées
   - Antibiothérapie très efficace en quelques jours sur les douleurs
-- *[Paralysie faciale]({{% relref "paralysie-faciale-idiopathique.md" %}})* (36% des neuroborrélioses)
-  - ⅓ bilatérale asynchrone
+- **[Paralysie faciale]({{% relref "paralysie-faciale-idiopathique.md" %}})** (36% des neuroborrélioses)
+  - Uni ou bilatérale (à bascule très évocatrice)
   - Surtout l'enfant
   - Sérologie *Borrelia* systématique
 - Beaucoup plus rares  
   [Méningites]({{% relref "meningite.md" %}}), myélites aiguës et encéphalites.
 
-Adresser au centre de compétence des MVT ([annuaire](https://crmvt.fr/)) pour investigations et ponction lombaire.
+> Évoquer une méningoradiculite de Lyme devant une atteinte radiculaire douloureuse, insomniante, et résistante aux antalgiques habituels. Rechercher une piqûre de tique dans l'année.
 
 #### Pour en savoir plus: critères diagnostiques européens de la maladie de Lyme
 
@@ -255,6 +258,9 @@ Diagnostic de maladie de Lyme certain si 3 critères - possible si 2 - exclu si 
 {{% /collapse %}}
 {{%collapse "Traitement de la maladie de Lyme" %}}
 
+Mesures générales:
+
+- Antibiothérapie curative de toute forme de Borréliose de Lyme
 - **Forestier:** maladie professionnelle
   - {{%class%}}Tableau 19 du régime général et 5bis du régime agricole.{{%/class%}}
   - Critères: manifestations cliniques et confirmée par sérologies
@@ -265,15 +271,13 @@ Le contrôle de la guérison d'une maladie de Lyme est clinique. Des taux élev�
 
 ### Traitement de l'érythème migrant
 
+L'antibiothérapie de référence de la maladie de Lyme au stade de l'érythème migrant est la **doxycycline** (et l'amoxicilline en-dessous de 20 kg).
+
 Recommandations pour la prise en charge de l'érythème migrans après piqûre de tique:
 
-- Surveillance clinique de la guérison à J10
-- Photos avant et évolution sous traitement
-- Disparition complète de l'érythème en 1 semaine à 1 mois  
+- Auto-surveillance de la lésion pendant 1 et consultation si persistance  
   Persistance à 1 mois: observance de l'antibiotique, étude d'un diagnostic différentiel, **avis dermatologique**.
-- En cas d'érythèmes migrants multiples (EMM): traitement de 14 jours
-
-L'antibiothérapie de référence de la maladie de Lyme au stade de l'érythème migrant est la doxycycline (et l'amoxicilline avant 8 ans).
+- Photos avant et évolution sous traitement  
 
 {{%info%}}
 
@@ -281,7 +285,7 @@ L'antibiothérapie de référence de la maladie de Lyme au stade de l'érythème
 
 Antibiothérapie de l'érythème migrant (par niveau d'intention):
 
-1. [Doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R) 100 mg x 2/j pendant 10 jours (14 si EM multiples)  
+1. ==[Doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R) 100 mg x 2/j pendant 10 jours== (14 si EM multiples)  
   Même pendant la grossesse ou l'allaitement ([CRAT](https://www.lecrat.fr/6396/)).
 2. Amoxicilline 50 mg/kg/j (max 4 g/j) toutes les 8 heures pendant 14 jours
 3. Azithromycine 1g à J1 puis 500 mg x 1/j de J2 à J5 pendant 5 jours
@@ -290,23 +294,28 @@ Antibiothérapie de l'érythème migrant (par niveau d'intention):
 
 Antibiothérapie de l'EM de l'enfant:
 
-1. Enfant ≥ 20 kg: doxycycline 4 mg/kg/j (max 100 mg/prise et 200 mg/j) en 2 prises pendant 10 jours (14 si EM multiples)
+1. Enfant ≥ 20 kg: [doxycycline 4 mg/kg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63836158&typedoc=R) (max 100 mg/prise et 200 mg/j) en 2 prises pendant 10 jours (14 si EM multiples)
 2. Amoxicilline 50 mg/kg/j (max 4 g/j) toutes les 8 heures pendant 14 jours
 3. Azithromycine 20 mg/kg x 1/j (max 500 mg/j) pendant 5 jours
 
 ### Traitement du lymphocytome borrélien
 
-Prise en charge du lymphocytome borrélien avec des posologies identiques. L'antibiothérapie dure **21 jours** (sauf enfant de moins de 8 ans avec l'azithromycine: 10 jours).
+Prise en charge du lymphocytome borrélien avec des posologies identiques mais l'antibiothérapie dure **21 jours**.
 
-Traitement par l'**infectiologue** des autres formes de borréliose.
+La disparition des lésions cutanées prend 2 à 4 mois.
+
+> Traitement par l'**infectiologue** des autres formes de borréliose.
+
+Pour les rares syndromes post-borréliose de Lyme traitée (PTLDS), lire *HAS 2024*.
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'érythème migrant" "show" %}}
 
-{{< mermaid title="Prise en charge de l'érythème migrant par le médecin généraliste. Dr JB Fron d'après HAS et SFR" >}}
+{{< mermaid title="Prise en charge de l'érythème migrant par le médecin généraliste. Dr JB Fron d'après HAS 2025" >}}
 graph TB
-  suspicion["<b>Piqûre de tique</b><br>—<br>- Extraction au tire-tique<br>- Inspection du reste du corps<br>- Auto-surveillance 30 jours"] -- "Sous 3-30 jours" --> érythème("<b>Érythème migrant</b><br>—<br>Large macule rosée:<br>- Antibiothérapie<br>doxycycline 100 mg x 2/j 10j<br>- Photos<br>- Signalement de tique<br>- Mesure de prévention<br>- Forestier: déclaration MP") -- J10 --> contrôle(Contrôle clinique) -. Persistance .-> dermatologue(Dermatologue)
-    suspicion -- Surveillance normale --> rien("Absence d'évolution sous<br>30 jours")
+  suspicion["<b>Piqûre de tique</b><br>—<br>- Extraction au tire-tique<br>- Inspection du reste du corps<br>- Auto-surveillance 30 jours"] -- "Sous 3 à 30 jours" --> érythème("<b>Érythème migrant</b><br>—<br>Large macule rosée:<br>- Antibiothérapie<br>doxycycline 100 mg x 2/j 10j<br>- Photos<br>- Signalement de tique<br>- Mesures de prévention<br>- Forestier: déclaration MP") -- "Autosurveillance<br>30 jours" --> contrôle(Consultation si persistance) --> dermatologue(Dermatologue)
+    suspicion -- Surveillance normale --> rien("Fin de la surveillance")
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

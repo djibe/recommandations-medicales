@@ -117,7 +117,7 @@ Le tableau diarrhéique aigu apparaît souvent **à l'introduction d'une nouvell
 {{% /collapse %}}
 {{%collapse "Traitement de *Claustridium difficile*" %}}
 
-La prise en charge de l'infection à *Clostridioides difficile* (ex *Claustridium difficile*) est ambulatoire **en l'absence de signes de gravité** avec une antibiothérapie simple.
+La prise en charge de l'infection à *Clostridioides difficile* (ICD, ex *Claustridium difficile*) est ambulatoire **en l'absence de signes de gravité** avec une antibiothérapie simple.
 
 Traitement de *Claustridium difficile* non sévère: ==vancomycine 125 mg x 4/j pendant 10 jours== (minimum 14 jours si [intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}})) et arrêt de l'antibiotique inducteur.
 
@@ -137,9 +137,9 @@ Le traitement anti-sécrétoire peut être poursuivi.
 
 ### Pour en savoir plus: traitements spécialisés de l'infection à *Clostridioides difficile*
 
-Autres antibiothérapies possibles pour le traitement des infections à *Clostridioides difficile*: métronidazole 500 mg x 3/j pendant 10 jours, rifaximine, tigécycline, ~~nitazoxanide~~.
+Autres antibiothérapies possibles pour le traitement des infections à *Clostridioides difficile* (ICD): métronidazole 500 mg x 3/j pendant 10 jours, rifaximine, tigécycline, ~~nitazoxanide~~.
 
-À partir de la 2^e^ récidive, une **transplantation fécale** par coloscopie ou capsules (voire suppositoires) est envisagée. Elle est envisagée dès la 1^re^ récidive en cas de syndrome de l'intestin irritable (SII).
+À partir de la 2^e^ récidive, une **transplantation de microbiote fécal** (TMF) par coloscopie ou capsules (voire suppositoires) est envisagée. Elle est envisagée dès la 1^re^ récidive en cas de syndrome de l'intestin irritable (SII).
 
 Une **prophylaxie** par vancomycine pourrait être considérée en cas d'antécédents de *Claustridium* à haut risque de récurrence. Chez ces sujets à haut risque, le bezlotoxumab (Zinplava) est suggéré pour prévenir les récurrences.
 
@@ -148,12 +148,13 @@ Pour les cas les plus graves, une **colectomie subtotale** peut être envisagée
 {{% /collapse %}}
 {{%sources%}}
 
+- [Rouillon D, et al. Analyse des prescriptions d'anti-infectieux dans la prise en charge des infections à Clostridioides difficiles. Le Pharmacien Clinicien. 2024.](https://www.sciencedirect.com/science/article/pii/S2772953224003058)
 - [Kelly CR, et al. ACG Clinical Guidelines: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections. Am J Gastroenterol. 2021.](https://journals.lww.com/ajg/fulltext/2021/06000/acg_clinical_guidelines__prevention,_diagnosis,.12.aspx)
 - [Poylin V, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Clostridioides difficile Infection. Dis Colon Rectum. 2021.](https://journals.lww.com/dcrjournal/fulltext/2021/06000/the_american_society_of_colon_and_rectal_surgeons.5.aspx)
 - [HAS. Modification de la nomenclature des actes de biologie médicale pour les actes de diagnostic biologique des infections à Clostridium difficile. 2016.](https://www.has-sante.fr/jcms/c_2607794/fr/modification-de-la-nomenclature-des-actes-de-biologie-medicale-pour-les-actes-de-diagnostic-biologique-des-infections-a-clostridium-difficile)
 
 ### Bibliographie en attente
 
-[Crobach MJ, et al. European Society of Clinical Microbiology and Infectious Diseases: update of the diagnostic guidance document for Clostridium difficile infection. Clin Microbiol Infect. 2016.](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(16)30025-8/fulltext)
+- [van Prehn J, et al. European Society of Clinical Microbiology and Infectious Diseases: 2021 update on the treatment guidance document for Clostridioides difficile infection in adults. Clin Microbiol Infect. 2021.](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(21)00568-1/fulltext)
 
 {{%/sources%}}

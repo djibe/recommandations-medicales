@@ -256,7 +256,7 @@ Résumé des recommandations pour la prise en charge de la spondylarthrite:
 - Contrôle du poids
   {{%class%}}L'obésité est facteur de résistance aux anti-TNF.{{%/class%}}
 - Comorbidités  
-  Cardio-vasculaires, [ostéoporose]({{% relref "osteoporose.md" %}}), [dépression]({{% relref "depression.md" %}}), anxiété (TODO:).
+  Cardio-vasculaires, [ostéoporose]({{% relref "osteoporose.md" %}}), [dépression]({{% relref "depression.md" %}}), anxiété.
 - Anti-inflammatoires AINS  
   - AINS à libération prolongée en 1^re^ intention pour couvrir le dérouillage
   - Souvent rechute douloureuse en < 48h après leur arrêt
