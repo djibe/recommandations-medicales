@@ -13,12 +13,12 @@ annees = "2015"
 sources = ["HAS", "BAP"]
 tags = []
 english = ["Bipolar disorder"]
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = ["https://mapping.ihtsdotools.org"]
+sctid = "13746004"
+icd10 = ["F31", "F31.9"]
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow > Kanban | HASp1 | Rechercher devant TS, EDC, addiction (alcool, tox), délits"
+todo = "descr > summary > liens > photo > newsletter > flow > Kanban | HASp1 | Rechercher devant TS, EDC, addiction (alcool, tox), délits | F33 ?"
 +++
 
 {{%article-summary%}}
@@ -29,8 +29,8 @@ TODO: (at the end)
 {{%collapse "Définition" %}}
 
 Trouble bipolaire
-: Trouble de l'humeur chronique, avec alternance d'épisode(s) maniaque(s) ou hypomaniaque(s) et d'épisode(s) dépressif(s) avec des intervalles de rémission. Il débute à l'adolescence ou chez l'adulte jeune.
-: Les complications sont celles des troubles de l'humeur, avec risque suicidaire très élevé (50% de tentatives) et conséquences psychosociales.
+: Trouble de l'humeur chronique, avec alternance d'épisode(s) maniaque(s) ou hypomaniaque(s) et d'épisode(s) dépressif(s) avec des intervalles de rémission. Pathologie psychiatrique parmi les plus sévères, elle débute à l'adolescence ou chez l'adulte jeune, avec un handicap et une mortalité majeurs en l'absence de traitement.
+: Les complications sont celles des troubles de l'humeur, avec risque suicidaire très élevé (50% de tentatives) et de lourdes conséquences psychosociales.
 
 Le traitement est démarré en moyenne après 10 ans d'évolution.
 
@@ -60,7 +60,7 @@ HAS
 
 Particularités de l'épisode maniaque à l'adolescence: irritabilité, agressivité, violence. Humeur dysphorique plutôt qu'euphorique.
 
-> << Un épisode maniaque inaugural permet de poser le diagnostic de troubles bipolaires. Il s'agit d'une urgence psychiatrique nécessitant une hospitalisation. >> -- *HAS 2015*
+> << Un épisode maniaque inaugural permet de poser le diagnostic de troubles bipolaires. Il s'agit d'une urgence psychiatrique nécessitant une hospitalisation. >> -- *HAS 2015*. Le risque de récidive dépasse 90%.
 
 Un **épisode dépressif caractérisé** (EDC) avec un **épisode hypomaniaque** permet de poser le diagnostic de trouble bipolaire (type II).
 
@@ -120,12 +120,13 @@ L'interrogatoire de l'entourage est important, une fois l'accord du patient obte
 - Conduites sexuelles à risque ou délits
 - Repli sur soi, décrochage scolaire
 - **Épisodes de rupture avec le fonctionnement psychique antérieur**
+  - Début souvent brutal, durée de 2 semaines à 4-5 mois
   - Rechercher une hypomanie chez l'adulte: questionnaire *Trouble de l'humeur* (Mood Disorder Questionnaire TODO:)
-  - Rechercher des symptômes psychotiques  
+  - Rechercher des **symptômes psychotiques**  
     Ils sont congruents à l'humeur (ruine dans la dépression, mégalomanie dans l'épisode maniaque).
   - Sévérité des troubles du sommeil
   - Autres signes: confusion, catatonie (immobilité motrice)
-- Rechercher un trouble anxieux
+- Rechercher des comorbidités: **trouble anxieux**
 - Évaluer le **risque suicidaire**
 
 ### Sévérité des troubles
@@ -185,6 +186,7 @@ médicament thymorégulateur et/ou un antipsychotique atypique
 
 - ALD n°23
 - Psychologue
+- Association de patients: [ARGOS 2001](https://argos2001.net), [Bipolarité France](https://bipolaritefrance.com), [UNAFAM](https://www.unafam.org), [Bipolaire si tu savais](https://bipolairesitusavais.com), [Bicycle](https://www.bicycle-asso.org), [France dépression](https://francedepression.fr), [Le funambule](https://www.bipolarite.org)
 - MDPH
 
 Suivi au moins annuel: symptômes, observance, effets indésirables, dernière consultation du psychiatre, contraception

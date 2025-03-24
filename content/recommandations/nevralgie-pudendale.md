@@ -78,7 +78,7 @@ Signes et symptômes de la névralgie pudendale à rechercher à l'examen:
 - Profession
 - Facteur aggravant: cyclisme intense
 - Dépistages organisés des cancers
-- Douleurs de la névralgie pudendale:
+- Douleurs de la névralgie pudendale (syndrome canalaire):
   - [Douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}}) (brûlure, gêne, engourdissement) sans paroxysmes
   - **Douleurs pelviennes ou vulvaires unilatérales ou médianes**
   - Sensation de brûlure intense, aiguë, parfois avec engourdissement

@@ -1,6 +1,6 @@
 +++
 id = "01956ca2-40b0-73d7-b454-77250548bb05"
-title = "Infections à Clostridioides difficile (ex *Claustridium difficile*)"
+title = "Infections à Clostridioides difficile (ex Claustridium difficile)"
 titleSeo = "Infections Claustridium difficile"
 prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge des infections à Claustridium difficile. Antibiothérapies répétées diarrhées, traitement par vancomycine"

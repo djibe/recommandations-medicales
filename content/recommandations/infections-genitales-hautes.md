@@ -1,6 +1,6 @@
 +++
 id = "0192fd7b-d356-759d-af2d-9e86c90061b0"
-title = "Les infections génitales hautes: endométrite et salpingite"
+title = "Infections génitales hautes: endométrite et salpingite"
 titleSeo = "Infections génitales hautes endométrite et salpingite"
 prefix = ""
 description = "Recommandations pour le diagnostic et la prise en charge des infections génitales hautes endométrite et salpingite. Examen gynécologique, prélèvements et antibiothérapie"

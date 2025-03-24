@@ -1,6 +1,6 @@
 +++
 id = "0192fd7b-d356-759d-af2d-9e86c90061b0"
-title = "Les infections génitales basses: urétrite, cervicite, vaginose et vaginite"
+title = "Infections génitales basses: urétrite, cervicite, vaginose et vaginite"
 titleSeo = "Infections génitales urétrite et cervicite"
 prefix = ""
 description = "Recommandations pour le diagnostic et la prise en charge des infections génitales de la femme: urétrite, cervicite, vaginose et vaginite. Prélèvements et antibiothérapie"
@@ -51,9 +51,9 @@ Leucorrhées
 : Principales causes: trichomonose (IST, leucorrhées abondantes, spumeuses, voir *Vaginose*), **vaginose bactérienne** (leucorrhées abondantes, nauséabondes) et candidose vaginale (caillebottées).
 
 Vaginose bactérienne
-: Syndrome traduisant un déséquilibre de la flore vaginale avec remplacement des lactobacilles (flore de Döderlein) par des microorganismes commensaux: anaérobies (*Mobiluncus sp* ...), *Mycoplasma hominis* et *Gardnerella vaginalis* dont la prolifération est responsable des symptômes (leucorrhées malodorantes).
+: Syndrome traduisant un déséquilibre de la flore vaginale avec remplacement des lactobacilles (flore de Döderlein) par des micro-organismes commensaux: anaérobies (*Mobiluncus sp* ...), *Mycoplasma hominis* et *Gardnerella vaginalis* dont la prolifération est responsable des symptômes (leucorrhées malodorantes).
 : Facteurs de risque de vaginose: toilette intravaginale, partenaires multiples et homosexualité.
-: ==Pas de traitement du partenaire ou d'une patiente asymptomatique (sauf trichomonose)==.
+: ==Pas de traitement du partenaire ou d'une patiente asymptomatique (sauf trichomonose)== (ceci pourrait changer prochainement).
 
 Mycoplasmes
 : Plus petites bactéries capables de réplication autonome. 3 mycoplasmes ont un pouvoir pathogène pour l'appareil génital: *M. genitalium*, *M. hominis* et *Ureaplasma spp* (*U. urealyticum* et *U. parvum*). Toutefois *Ureaplasma spp* et *M. hominis* appartiennent à la flore commensale des voies génitales basses et leur rôle pathogène est controversé.

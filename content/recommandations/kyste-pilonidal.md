@@ -23,7 +23,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le kyste pilonidal est le plus souvent un diagnostic clinique: accumulation de débris pilaires dans le pore du sillon inter-fessier atteignant le plus souvent l'homme jeune avec des présentations cliniques variables
+- Le kyste pilonidal est le plus souvent un diagnostic clinique: accumulation de débris pilaires dans le pore du sillon inter-fessier, atteignant le plus souvent l'homme jeune avec des présentations cliniques variables
 - L'abstention thérapeutique est le traitement de première intention d'un kyste pilonidal asymptomatique
 - En cas d'abcès du kyste (sinus pilonidal infecté): prise en charge par chirurgie en urgence avec incision et drainage
 - Traitement d'un kyste pilonidal chronique invalidant: chirurgie programmée de cicatrisation dirigée
@@ -158,14 +158,16 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< vimeo id="982011362" loading="lazy" title="Tout savoir sur le kyste pilonidal (FMC HGE)" >}}
+
 - [Ojo D, et al. European Society of Coloproctology guidelines for the management of pilonidal disease. Br J Surg. 2024.](https://academic.oup.com/bjs/article/111/10/znae237/7820471)
-- [Johnson E et al. The American Society of Colon and Rectal Surgeons' Clinical Practice Guidelines for the Management of Pilonidal Disease. Diseases of the Colon & Rectum. 2019.](https://journals.lww.com/dcrjournal/Fulltext/2019/02000/The_American_Society_of_Colon_and_Rectal_Surgeons_.5.aspx)
-- Spindler L et al. Le traitement laser du sinus pilonidal infecté : résultats à 1 an de la première cohorte française. SFHOD. 2019.
+- [Johnson E, et al. The American Society of Colon and Rectal Surgeons' Clinical Practice Guidelines for the Management of Pilonidal Disease. Diseases of the Colon & Rectum. 2019.](https://journals.lww.com/dcrjournal/Fulltext/2019/02000/The_American_Society_of_Colon_and_Rectal_Surgeons_.5.aspx)
+- Spindler L, et al. Le traitement laser du sinus pilonidal infecté : résultats à 1 an de la première cohorte française. SFHOD. 2019.
 - [Pillant-Le Moult H, Soudan D. Le sinus pilonidal. Conseil de pratique. SNFGE, SNFCP. 2017. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp014-2017_le_sinus_pilonidal_0.pdf)
 - [SNFCP. Le Kyste pilonidal.](https://www.snfcp.org/informations-maladies/fistules-anales-suppurations/le-kyste-pilonidal/)
 
 ### Bibliographie en attente
 
-[Walker H et al. Diagnosis and management of sacrococcygeal pilonidal disease in primary care. BMJ. 2023.](https://www.bmj.com/content/382/bmj-2022-071511)
+[Walker H, et al. Diagnosis and management of sacrococcygeal pilonidal disease in primary care. BMJ. 2023.](https://www.bmj.com/content/382/bmj-2022-071511)
 
 {{%/sources%}}
