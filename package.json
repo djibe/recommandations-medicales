@@ -51,7 +51,7 @@
     "cli-real-favicon": "^0.0.9",
     "cross-env": "^7.0.3",
     "hint": "^7.1.13",
-    "html-validate": "^9.4.0",
+    "html-validate": "^9.5.2",
     "hugo-extended": "^0.145.0",
     "linkinator": "^6.1.2",
     "mermaid": "^10.9.3",
@@ -59,9 +59,9 @@
     "vnu-jar": "^23.4.11"
   },
   "dependencies": {
-    "autoprefixer": "^10.4.20",
+    "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
-    "postcss-cli": "^11.0.0"
+    "postcss-cli": "^11.0.1"
   },
   "browserslist": [
     "defaults"
