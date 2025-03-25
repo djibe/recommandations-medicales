@@ -52,6 +52,8 @@ HAS
 
 ### Épisode maniaque (trouble bipolaire de type I) ou hypomaniaque (trouble bipolaire de type II)
 
+Début souvent brutal, durant de 2 semaines à 5 mois, avec les symptômes suivants:
+
 - Élévation de l'humeur, agitation psychomotrice
 - Idées de grandeur
 - Insomnie

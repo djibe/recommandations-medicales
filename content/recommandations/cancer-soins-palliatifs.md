@@ -19,7 +19,7 @@ icd10 = ["Z51.5"]
 draft = true
 image = false
 imageSrc = ""
-todo = "SFAP, Cancer info, Ligue cancer, personne confiance, ESMO, https://pubmed.ncbi.nlm.nih.gov/32429507/, https://www.afsos.org/fiche-referentiel/nausees-vomissements-anticancereux-induits/"
+todo = "SFAP, Cancer info, Ligue cancer, personne confiance, ESMO, https://pubmed.ncbi.nlm.nih.gov/32429507/, https://www.afsos.org/fiche-referentiel/nausees-vomissements-anticancereux-induits/, https://www.afsos.org/fiche-referentiel/lacupuncture-onco-hematologie/, https://www.afsos.org/referentiels-recommandations/decouvrir-tous-les-referentiels/ +++"
 +++
 
 {{%article-summary%}}

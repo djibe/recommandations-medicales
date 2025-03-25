@@ -16,9 +16,9 @@ tags = []
 english = ["Clostridioides difficile infections (CDI)"]
 sctid = "186431008"
 icd10 = ["A04.7"]
-image = false
-imageSrc = ""
-todo = "photo > flow | Rechercher chez SII avec diarrhées aiguës profuses."
+image = true
+imageSrc = "Aspect coloscopique de colite pseudomembraneuse à *Claustridium difficile*. Klinikum Dritter Orden, München. Abteilung Innere Medizin I Vielen Dank an Christoph Kaiser für die Überlassung des Bildes zur Veröffentlichung!, CC0, via Wikimedia Commons"
+todo = "flow | Rechercher chez SII avec diarrhées aiguës profuses."
 +++
 
 {{%article-summary%}}
@@ -115,11 +115,12 @@ Le tableau diarrhéique aigu apparaît souvent **à l'introduction d'une nouvell
 > Critères de sévérité de l'infection à *Claustridium*: hyperleucocytose ≥ 15.000/mm³ ou créatininémie ≥ 15 mg/L.
 
 {{% /collapse %}}
-{{%collapse "Traitement de *Claustridium difficile*" %}}
+{{%collapse "Traitement de Claustridium difficile" %}}
 
 La prise en charge de l'infection à *Clostridioides difficile* (ICD, ex *Claustridium difficile*) est ambulatoire **en l'absence de signes de gravité** avec une antibiothérapie simple.
 
-Traitement de *Claustridium difficile* non sévère: ==vancomycine 125 mg x 4/j pendant 10 jours== (minimum 14 jours si [intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}})) et arrêt de l'antibiotique inducteur.
+Traitement de *Claustridium difficile* non sévère: **vancomycine** 125 mg x 4/j pendant 10 jours (minimum 14 jours si [intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}})) et arrêt de l'antibiotique inducteur.
+{.alert .alert-info}
 
 En cas de récidive (dans les 8 semaines suivant la fin du traitement): demander un **avis infectiologique**.
 
@@ -130,10 +131,10 @@ Précisions sur l'antibiothérapie du *Claustridium*:
 - Les rechutes sont fréquentes sous 2 mois
 - Si MICI: suspension des traitements anti-inflammatoires
 
+Le traitement anti-sécrétoire peut être poursuivi.
+
 Ne pas utiliser de probiotiques (en prévention primaire pour une antibiothérapie ou durant une récurrence.
 {.alert .alert-warning}
-
-Le traitement anti-sécrétoire peut être poursuivi.
 
 ### Pour en savoir plus: traitements spécialisés de l'infection à *Clostridioides difficile*
 
