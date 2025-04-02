@@ -101,6 +101,10 @@ Possibilité de manger immédiatement avant ou après. [Guide info parent rotavi
 
 {{< traitements/vaccin-rattrapage-age >}}
 
+### Rattrapage du vaccin méningocoque ACWY
+
+1 seule dose.
+
 ### Rattrapage du vaccin méningocoque B
 
 - Vaccination initiée entre 2 et 5 mois  

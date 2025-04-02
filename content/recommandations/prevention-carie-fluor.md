@@ -8,7 +8,7 @@ synonyms = ["Apports en fluor"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-04-30T20:21:18+02:00"
 publishdate = "2022-05-09"
-lastmod = "2023-12-21"
+lastmod = "2025-04-01"
 specialites = ["pédiatrie"]
 annees = "2021"
 sources = ["CEOP", "HAS"]
@@ -32,8 +32,7 @@ Mesures d'hygiène bucco-dentaire pour la prévention des caries:
   - Réaliser/superviser le brossage des dents jusqu'à 8 ans
   - Dentifrice: teneur en fluor adaptée à l'âge (-6 ans: ≥ 1000 ppmF, 1450 ensuite), dose sur la brosse adaptée à l'âge (-3 ans: trace, petit pois jusqu'à 6 ans puis ⅓ longueur de brosse)
   - Recracher le dentifrice sans rincer la bouche
-- Consultation dentaire annuelle de 6 à 18 ans  
-  \+ Suivi M'T Dents: consultation dentaire gratuite à 3, 6, 9, 12, 15, 18, 21 et 24 ans
+- Suivi M'T Dents: consultation dentaire annuelle gratuite de 3 à 24 ans
 - Apports en fluor: selon avis du dentiste
 
 Fiches patient: [soins dentaires au quotidien (PDF)](https://www.ufsbd.fr/wp-content/uploads/2022/12/2022-UFSBD-fiche-conseils-patient-RECOMMANDATIONS.pdf), [le fluor (PDF)](http://www.ufsbd.fr/wp-content/uploads/2020/12/Fluor_CB_260820.pdf) et [soins dentaires du jeune enfant (PDF)](http://www.ufsbd.fr/wp-content/uploads/2018/03/JEUNE-ENFANT_Fiche-profil-PDS2018_GP_vsOK.pdf)
@@ -43,9 +42,9 @@ Fiches patient: [soins dentaires au quotidien (PDF)](https://www.ufsbd.fr/wp-con
 
 ### Épidémiologie de la carie dentaire en France
 
-- 4-5 ans: 20-30% avec ≥ 1 carie non soignée
-- 6 ans: 50-70% indemnes de carie
-- 12 ans: 50% indemnes de carie
+- 4 à 5 ans: 20 à 30 % ont au moins une carie non soignée
+- 6 ans: 50 à 70% seulement sont indemnes de carie
+- 12 ans: 50% sont indemnes de carie
 
 ### Abréviations
 
@@ -81,7 +80,7 @@ Soins dentaires minimum recommandés:
   - Matin et soir pendant 2 minutes (plutôt après chaque repas)  
     Par un adulte jusqu'à 8 ans (ou supervisé).
   - Avec dentifrice fluoré ≥ 1000 ppm (ppmF)  
-    < 3 ans: trace | 3-5 ans: petit pois de dentifrice | ≥ 6 ans ou risque carieux élevé ≥ 3 ans: 1450 ppmF sur ⅓ de la longueur | ≥ 10/16 ans risque carieux élevé: respectivement 2400/5000 ppmF
+    Avant 3 ans: trace | 3 à 5 ans: petit pois de dentifrice | À partir de 6 ans ou risque carieux élevé ≥ 3 ans: 1450 ppmF sur ⅓ de la longueur | ≥ 10/16 ans risque carieux élevé: respectivement 2400/5000 ppmF
   - Recracher le dentifrice sans rincer la bouche
   - Ne jamais partager la brosse à dents
 - Soins dentaires
@@ -119,11 +118,11 @@ Gommes à mâcher contenant du xylitol après un repas quand le brossage n'est p
 
 ### Suivi dentaire M'T dents
 
-Examen dentaire gratuit à 3, 6, 9, 12, 15, 18, 21 et 24 ans et pendant la grossesse, en plus de la visite annuelle de 6 à 18 ans.
+Examen dentaire gratuit annuel de 3 à 24 ans et pendant la grossesse.
 
 Le bon de prise en charge est envoyé par courrier (valable 1 an) ou disponible depuis le compte Ameli (Mon espace prévention > La santé de votre enfant).
 
-> -- *[Ameli M'T dents](https://www.ameli.fr/paris/assure/sante/themes/carie-dentaire/mt-dents)*
+> -- *[Ameli M'T dents](https://www.ameli.fr/sites/default/files/Documents/memo-facturation-chirurgien-dentiste-mt-dents-tous-les-ans.pdf)*
 
 {{%/info%}}
 

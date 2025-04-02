@@ -8,17 +8,17 @@ synonyms = ["Bacille de Koch", "Mycobacterium tuberculosis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-06-03T15:14:20+02:00"
 publishdate = "2020-06-03"
-lastmod = "2024-04-26"
+lastmod = "2025-03-27"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2017"
 sources = ["HAS", "MinSanté", "CMIT"]
 tags = ["fatigue", "fievre", "sueurs nocturnes", "toux", "vaccin"]
 english = ["Tuberculosis"]
 sctid = "56717001"
-icd10 = ["A16", "A16.9", "A15", "A18", "A19", "Z01.5"]
+icd10 = []
 image = true
 imageSrc = "Caverne médiane gauche chez une jeune femme de 20 ans avec toux chronique et perte de poids. Cas clinique par Dr Hani Makky Al Salam, Radiopaedia.org, rID: 12437"
-todo = "lecture tubertest, quantiferon positif signe TM ?, KEY: maladie, lutte contre la tuberculose, infection tuberculeuse, organisation mondiale, traitement de la tuberculose, tuberculose pulmonaire, infection tuberculeuse latente, mycobacterium tuberculosis, https://www.cpias-auvergnerhonealpes.fr/Doc_Reco/FicheRepere/Tuberculose_Juillet2023.pdf"
+todo = "quantiferon positif signe TM ?, KEY: maladie, lutte contre la tuberculose, infection tuberculeuse, organisation mondiale, traitement de la tuberculose, tuberculose pulmonaire, infection tuberculeuse latente, mycobacterium tuberculosis, https://www.cpias-auvergnerhonealpes.fr/Doc_Reco/FicheRepere/Tuberculose_Juillet2023.pdf | "A16", "A16.9", "A15", "A18", "A19", "Z01.5""
 +++
 
 {{%article-summary%}}
@@ -29,6 +29,36 @@ todo = "lecture tubertest, quantiferon positif signe TM ?, KEY: maladie, lutte c
 - [Maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})
 
 {{%/article-summary%}}
+{{%collapse "Dépistage de la tuberculose" %}}
+
+> [!INFO]
+> Le dépistage est réalisé par radiographie thoracique chez les sujets à risque asymptomatiques (test IGRA voire intradermoréaction chez l'enfant, complété par radiographie si positif).
+
+Le dépistage de la tuberculose est proposé avec les VIH, hépatites C et B.
+
+Dépistage systématique de la tuberculose si:
+
+- Migrant adulte/adolescent, en France depuis < 2 ans, venant d'un pays à **forte incidence** (≥ 100/100.000, dont étudiants étrangers)
+- Adulte/adolescent ayant fait un séjour d'au moins 6 mois dans un pays à forte incidence, en conditions de promiscuité ou en contact avec des tuberculoses pulmonaires, dans les 2 ans suivant son retour
+- Prisonnier ou sorti depuis moins de 2 ans
+- Nourrissons et enfants jusqu'à 11 ans:
+  - En France depuis < 2 ans, venant d'un pays à **forte incidence**
+  - En contact prolongé avec tuberculose pulmonaire ou personne issue d'un pays à forte incidence présent depuis < 2 ans en France
+  - Vivant en situation de promiscuité
+  - Sans abri ou en éloigné du système de santé
+
+> -- *HAS 2025*
+
+Dépistage opportuniste de la tuberculose, adultes ou adolescents:
+
+- Sans abri, sans domicile fixe
+- Voyages internationaux avec communautés isolées
+- Éloignés du système de santé
+- Vivant en promiscuité
+
+Sauf si radiographie thoracique dans l'année ou suspicion de tuberculose.
+
+{{% /collapse %}}
 {{%collapse "Vaccination BCG" %}}
 
 Le vaccin BCG (BCG AJVaccines®) est disponible uniquement en centre de vaccination, **PMI** ou centre de lutte antituberculeuse (**CLAT**).
@@ -57,7 +87,7 @@ Le BCG peut être administré en même temps que n'importe quel autre vaccin mai
 ### Pays de forte endémie tuberculeuse (2024)
 
 - France  
-  Guyane, Mayotte.
+  Guyane (18,9/100k), Mayotte (13,2/100k). **NB:** Ile-de-France 11,8/100k dont Seine-Saint-Denis 18,5/100k.
 - Afrique  
   Sauf Cap Vert, Togo, Tunisie.
 - Amérique centrale et du Sud  
@@ -145,7 +175,7 @@ La réaction d'hypersensibilité à la tuberculine apparaît chez les sujets qui
 > [!WARNING]
 > L'IDR est en faveur d'une primo-infection tuberculeuse si l'induration est ≥ à 5 mm (15 mm chez le sujet vacciné par le BCG).
 
-L'IDR est en faveur de l'absence de primo-infection s'il est < 5 mm (10 mm en cas de vaccination BCG).
+L'IDR est en faveur de l'absence de primo-infection si elle est < 5 mm (10 mm en cas de vaccination BCG).
 
 {{< table title="Critères de test tuberculinique positif. Dr JB Fron d'après *MSF*" class="table-wrap" >}}
 | Caractéristiques individuelles | Diamètre de l'induration |
@@ -176,18 +206,19 @@ L'IDR est en faveur de l'absence de primo-infection s'il est < 5 mm (10 mm en ca
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Évaluation des stratégies de dépistage et de repérage précoce de la tuberculose pulmonaire. 2025.](https://has-sante.fr/jcms/p_3459735/fr/evaluation-des-strategies-de-depistage-et-de-reperage-precoce-de-la-tuberculose-pulmonaire)
 - {{< references/voyageur >}}
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Tuberculose maladie. Actes et prestations Affection de longue durée. 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/actualisationlap_tuberculose__web_.pdf)
 
 ### Bibliographie en attente
 
-- [Kim S et al. Management of Latent Tuberculosis Infection. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2800774)
+- [Kim S, et al. Management of Latent Tuberculosis Infection. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2800774)
 - [Collège des Enseignants de Pneumologie (CEP). Tuberculose. Item 159. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_159_TUBERCULOSE_2023.pdf)
 - [WHO consolidated guidelines on tuberculosis. Module 4: treatment - drug-resistant tuberculosis treatment, 2022 update.](https://www.who.int/publications/i/item/9789240063129)
 - [CMIT. Tuberculose de l'adulte et de l'enfant. Item 159. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-159.pdf)
 - [CMIT. Tuberculose de l'adulte et de l'enfant. Item 159. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-159-web.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Tuberculose. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/tuberculose)
-- [Migliori G et al. ERS/ECDC Statement: European Union standards for tuberculosis care, 2017 update. European Respiratory Journal. 2018.](https://erj.ersjournals.com/content/51/5/1702678)
+- [Migliori G, et al. ERS/ECDC Statement: European Union standards for tuberculosis care, 2017 update. European Respiratory Journal. 2018.](https://erj.ersjournals.com/content/51/5/1702678)
 
 {{%/sources%}}

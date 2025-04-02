@@ -237,12 +237,12 @@ graph TB
 {{%sources%}}
 
 - [European Association for the Study of the Liver. EASL Clinical Practice Guidelines on sclerosing cholangitis. J Hepatol. 2022.](https://www.journal-of-hepatology.eu/article/S0168-8278(22)00326-9/fulltext)
-- [PNDS. Cholangite Sclérosante Primitive. 2022.](https://www.has-sante.fr/jcms/p_3392249/fr/cholangite-sclerosante-primitive)
+- [Centre de référence coordonnateur des maladies inflammatoires des voies biliaires et hépatites auto-immunes. Cholangite Sclérosante Primitive. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3392249/fr/cholangite-sclerosante-primitive)
 - [Chazouillères O; SNFGE, AFEF. Prise en charge de la cholangite sclérosante primitive (CSP). Conseil de pratique. 2019. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp06_2019_0.pdf)
 
-### Bibliographie en attente
+### Bibliographie pour en savoir plus
 
-[Bowlus CL et al. AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma. Hepatology. 2023.](https://journals.lww.com/hep/fulltext/2023/02000/aasld_practice_guidance_on_primary_sclerosing.29.aspx)
+[Bowlus CL, et al. AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma. Hepatology. 2023.](https://journals.lww.com/hep/fulltext/2023/02000/aasld_practice_guidance_on_primary_sclerosing.29.aspx)
 
 {{%/sources%}}
 {{% modal title="Score de Child-Pugh" id="modal-score-child"%}}

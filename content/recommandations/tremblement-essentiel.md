@@ -118,7 +118,7 @@ Les traitements de première intention sont:
 
 En cas de contre-indication au propranolol, utiliser un bêtabloquant sélectif: aténolol 100 mg/j.
 
-> La réponse aux traitements médicamenteux est **faible** (50%). L'absence de réponse à un bêtabloquant affirme l'absence de réponse à tous les bêtabloquants.
+> La réponse aux traitements médicamenteux est **faible** (50%). L'absence de réponse à un bêtabloquant signe l'inefficacité de toute la classe.
 
 Évaluation par un **ergothérapeute** pour appareillage et éducation thérapeutique (dispositifs alourdis: fourchette, stylo, souris ...).
 
