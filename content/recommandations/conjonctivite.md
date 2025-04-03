@@ -207,7 +207,7 @@ Hygiène des paupières, cures courtes d'azithromycine et ciclosporine collyre a
 {{%sources%}}
 
 - [Chen Y-Y et al. Antibiotics versus placebo for acute bacterial conjunctivitis. Cochrane Database of Systematic Reviews. 2023.](https://www.cochrane.org/fr/CD001211/EYES_quels-sont-les-benefices-et-les-risques-des-antibiotiques-dans-le-traitement-de-la-conjonctivite)
-- [Collège des Ophtalmologistes Universitaires de France (COUF). Infections et inflammations oculaires. Chapitre 6. Items 83 et 187. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
+- [Collège des Ophtalmologistes Universitaires de France (COUF). Infections et inflammations oculaires. Chapitre 6. Items 83 et 187. 2021.](https://couf.fr/espace-etudiants/2eme-cycle-dfasm/)
 - [Vera L et al; Association Francophone de Strabologie et d'Ophtalmologie Pédiatrique (AFSOP). Conduite à tenir devant une conjonctivite de l'enfant. 2017. (PDF)](https://www.sfo-online.fr/sites/www.sfo-online.fr/files/medias/documents/conduite_atenir_devant_une_conjonctivite_de_l_enfant_afsop_mai2017.pdf)
 - [Afssaps. Prophylaxie des infections conjonctivales du nouveau-né. 2010. (PDF)](https://ansm.sante.fr/uploads/2021/03/11/8d7b81471c088327d5343c5c102feafa.pdf)
 - [Afssaps. Collyres et autres topiques antibiotiques dans les infections oculaires superficielles. Recommandations. Médecine et Maladies Infectieuses. 2004.](https://www.sciencedirect.com/science/article/pii/S0399077X04002380)

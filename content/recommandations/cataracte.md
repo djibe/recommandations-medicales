@@ -118,7 +118,7 @@ Autres indications à la chirurgie de la cataracte: obstruction du fond d'œil, 
 {{%sources%}}
 
 - Prescrire Redaction. Cataractes médicamenteuses. Rev Prescrire. 2024.
-- [Collège des Ophtalmologistes Universitaires de France (COUF). Cataracte. Chapitre 13. Item 81. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
+- [Collège des Ophtalmologistes Universitaires de France (COUF). Cataracte. Chapitre 13. Item 81. 2021.](https://couf.fr/espace-etudiants/2eme-cycle-dfasm/)
 
 **Mot-clé:** cataracte cortisonée
 

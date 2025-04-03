@@ -74,5 +74,5 @@ graph TB
 
 ## Sources {.mt-5}
 
-- [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 86. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
+- [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 86. 2021.](https://couf.fr/espace-etudiants/2eme-cycle-dfasm/)
 - [Afssaps. Collyres et autres topiques antibiotiques dans les infections oculaires superficielles. Recommandations. Médecine et Maladies Infectieuses. 2004.](https://www.sciencedirect.com/science/article/pii/S0399077X04002380)

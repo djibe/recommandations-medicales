@@ -189,7 +189,7 @@ graph TB
 
 - [Evans JR, Lawrenson JG. Antioxidant vitamin and mineral supplements for slowing the progression of age‐related macular degeneration. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000254.pub5/full/fr)
 - [HAS. Dégénérescence maculaire liée à l'âge. 2022.](https://www.has-sante.fr/jcms/p_3383781/fr/degenerescence-maculaire-liee-a-l-age)
-- [Collège des Ophtalmologistes Universitaires de France (COUF). Dégénérescence maculaire liée à l'âge. Chapitre 15. Item 81 et 82. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
+- [Collège des Ophtalmologistes Universitaires de France (COUF). Dégénérescence maculaire liée à l'âge. Chapitre 15. Item 81 et 82. 2021.](https://couf.fr/espace-etudiants/2eme-cycle-dfasm/)
 
 ### Bibliographie en attente
 

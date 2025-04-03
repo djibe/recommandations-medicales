@@ -87,6 +87,6 @@ graph TB
 
 ## Sources {.mt-5}
 
-- [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 86. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
+- [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 86. 2021.](https://couf.fr/espace-etudiants/2eme-cycle-dfasm/)
 - [HAS. Rapport d'évaluation des spécialités ophtalmiques associant un corticoïde à un(des) antibiotique(s). Commission de la transparence. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-03/rapport_reevaluation_collyres_atb_corticoides_avisdef_cteval503.pdf)
 - [Afssaps. Collyres et autres topiques antibiotiques dans les infections oculaires superficielles. Recommandations. Médecine et Maladies Infectieuses. 2004.](https://www.sciencedirect.com/science/article/pii/S0399077X04002380)
