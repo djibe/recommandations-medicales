@@ -339,7 +339,7 @@ $(function () {
 
 ### Mesures de prévention de l'ostéoporose
 
-Tout au long de la vie: activité physique adaptée, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}} et apports vitamino-calciques.
+Tout au long de la vie: activité physique adaptée, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}} et apports vitamino-calciques avec:
 
 - [Sevrage tabagique]({{% relref "arret-tabac.md" %}}) + alcool
 - Soins bucco-dentaires au moins annuels (et avant traitement)  
@@ -355,15 +355,16 @@ Tout au long de la vie: activité physique adaptée, {{< modal-btn modal-regime 
   - Prévenir une carence en vitamine D par cible ≥ 75 nmol/L
   - Dose d'entretien: 800-1200 UI/j (ou 80-100.000 UI/2-3 mois)
   - Voir *[Vitamine D]({{% relref "vitamine-d.md" %}})* pour les protocoles de correction et supplémentations
-- Calcium
+- [Calcium]({{< relref "apports-calcium.md" >}})
   - Femme ménopausée ≥ 50 ans: {{< modal-btn modal-calcium-cible >}}apports cibles 1 - 1,2 g/j{{< /modal-btn >}}
   - {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}}
   - Associations calcium/vitamine D, à distance des repas
     {{< traitements/calcium-vitd >}}
   - {{< modal-btn modal-calcium >}}Aliments riches en calcium{{< /modal-btn >}}, 2-3 produits laitiers/j
-  - Apports lactés quotidiens jusqu'à 3 ans
 - Apports protéiques minimum de 1 à 1,2 g/kg/j
 - Limiter les sodas
+- Associations des patients: [Aflar](https://www.aflar.org)
+- Information de la patient: [guide GRIO activité physique](https://www.grio.org/documents/page85/restez-actifs.pdf), [apports en calcium optimal (PDF)](https://www.grio.org/documents/page85/alimentation-assurant-apport-calcique-1.pdf) et [prévention des chutes](https://www.grio.org/documents/page85/dangers-maison.pdf)
 
 {{% /collapse %}}
 {{%collapse "Traitements anti-ostéoporotiques: biphosphonates, raloxifène, dénosumab" %}}
@@ -598,27 +599,18 @@ graph TB
 **NB.** Discordance entre SFRhumato et HAS en cas de fracture non sévère: indication de traitement si T-score ≤ -2 (-3 pour la *HAS*)
 
 {{% /collapse %}}
-{{%collapse "Information du patient" %}}
-
-- [Associations des patients: Aflar](https://www.aflar.org)
-- Activité physique quasi-quotidienne  
-  [GRIO. Exercices physiques utiles en cas d'ostéoporose (PDF)](https://www.grio.org/documents/page85/restez-actifs.pdf)
-- Apports en calcium  
-  [GRIO. Alimentation assurant un apport calcique optimal (PDF)](https://www.grio.org/documents/page85/alimentation-assurant-apport-calcique-1.pdf)
-- Prévention des chutes  
-  [GRIO. À la maison, apprenons à éviter les dangers (PDF)](https://www.grio.org/documents/page85/dangers-maison.pdf)
-
-{{% /collapse %}}
 {{%collapse "Vidéos de formation" %}}
 
 Vidéos de formation sur l'ostéoporose.
 
 {{< card-link-external title="FMC GRIO - L'ostéoporose avant la ménopause" url="https://www.grio.org/membres/video-osteo-avant-menopause.php" subtitle="Pr Breuil et Trémollières">}}
 
-{{< video mp4="https://media.frequencemedicale.com/JDF/EM223/20221004_JDF_OSTEOPOROSE.mp4" poster="https://www.frequencemedicale.com/media/fmtype/images/jdf223img-1666000030.png" description="Ostéoporose : nouvelles stratégies thérapeutiques (Pr Briot, Pr Cortet par FréquenceMédicale)" >}}
+{{< video mp4="https://media.frequencemedicale.com/JDF/EM223/20221004_JDF_OSTEOPOROSE.mp4" poster="https://www.frequencemedicale.com/media/fmtype/images/jdf223img-1666000030.png" description="Ostéoporose : nouvelles stratégies thérapeutiques (Pr Briot et Cortet par FréquenceMédicale)" >}}
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< card-link-external title="Pourquoi la prescription médicamenteuse est-elle si faible dans l'ostéoporose ?" url="https://www.podcastics.com/podcast/episode/pourquoi-la-prescription-medicamenteuse-est-elle-si-faible-dans-losteoporose-289915/" subtitle="par La Minute Rhumato" >}}
 
 - [US Preventive Services Task Force. Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement. JAMA. 2025.](https://jamanetwork.com/journals/jama/fullarticle/2829238)
 - [Biver E, et al. Dietary recommendations in the prevention and treatment of osteoporosis. Joint Bone Spine. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X22001816)

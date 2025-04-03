@@ -7,7 +7,7 @@ synonyms = ["Entérobiase"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-17T17:38:12+02:00"
 publishdate = "2023-07-18"
-lastmod = "2023-12-01"
+lastmod = "2025-04-03"
 specialites = ["hépato-gastro-entérologie", "infectiologie", "pédiatrie"]
 annees = "2022"
 sources = ["Collèges"]
@@ -18,15 +18,16 @@ icd10 = ["B80", "B77.9"]
 image = true
 imageSrc = "Deux femelles *Enterobius vermicularis* signant une oxyurose. Erich gasboy, CC BY, via Wikimedia Commons"
 flowchart = true
+modele = true
 +++
 
 {{%article-summary%}}
 
-- L'oxyurose est une parasitose cosmopolite et inter-humaine qui atteint surtout les enfants et leur entourage
+- L'oxyurose est une parasitose digestive cosmopolite inter-humaine qui touche surtout les enfants et leur entourage
 - Évoquer une oxyurose en cas de prurit anal (vespéral et nocturne), vulvovaginite chez la petite fille ou de signes moins spécifiques: troubles du sommeil (cauchemars), irritabilité, difficultés de concentration
-- Le diagnostic d'oxyurose est clinique avec la visualisation de ver blanc centimétrique dans les selles ou la culotte. Sinon bilan avec Scotch-test anal et analyse au laboratoire
-- La prise en charge de l'oxyurose comprend un traitement anti-parasitaire dose unique de flubendazole avec renouvellement à 2 ou 3 semaines de tout l'entourage exposé (foyer, collectivité)
-- Mesures associées anti-parasitaires: lavage des mains fréquent, ongles courts linge de toilette et de lit à 60°C
+- Le diagnostic d'oxyurose est clinique avec la visualisation de ver blanc centimétrique dans les selles ou la culotte. Sinon, bilan avec *Scotch-test anal* et analyse au laboratoire
+- La prise en charge de l'oxyurose est un traitement anti-parasitaire: flubendazole 1 comprimé ou 1 cuiller-mesure avec renouvellement à 2 ou 3 semaines de tout l'entourage exposé (foyer, collectivité)
+- Mesures anti-parasitaires associées: lavage des mains fréquent, ongles courts linge de toilette et de lit à 60°C
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -65,7 +66,7 @@ Le diagnostic d'oxyurose est clinique lorsque des **vers blancs centimétriques*
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-### Autres causes de prurit anal
+Autres causes de prurit anal:
 
 - [Hémorroïdes]({{% relref "hemorroides.md" %}})
 - Abcès anal
@@ -81,7 +82,7 @@ Le diagnostic d'oxyurose est clinique lorsque des **vers blancs centimétriques*
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Le diagnostic peut être réalisé avec le **<< Scotch®-test >> anal** (test de Graham ou test à la cellophane adhésive).
+Le diagnostic d'oxyurose peut être réalisé avec le **<< Scotch®-test >> anal** (test de Graham ou test à la cellophane adhésive).
 
 Application matinale de ruban adhésif transparent sur la marge anale le matin (en déplissant les plis radiés de l'anus) puis recollé sur une surface porte-objet et analyse au laboratoire pour la mise en évidence des œufs.
 
@@ -98,7 +99,7 @@ La prise en charge de l'oxyurose comprend le traitement de tous les sujets de l'
 - Lavage des mains régulier
 - Couper les ongles courts et les brosser
 - Changer et laver le linge de nuit à 60°C, les doudous
-- Antiparasitaire benzimidazolé: ==flubendazole ([Fluvermal®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68636624&typedoc=R) à partir de 12 mois) 100 mg (1 cp ou 1 cm) dose unique à renouveler à J15== (ou J21)  
+- Antiparasitaire benzimidazolé: ==flubendazole (Fluvermal® à partir de 12 mois) [1 cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60968336&typedoc=R) ou [1 cuiller-mesure](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68636624&typedoc=R) dose unique à renouveler à J15== (ou J21)  
   ou [albendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69731801&typedoc=R) (posologie selon l'âge) dose unique à renouveler à J15 (ou J21)
 
 {{% /collapse %}}
@@ -121,3 +122,16 @@ graph TB
 - Prescrire Redaction. Oxyurose. Premiers Choix Prescrire. Rev Prescrire. 2022.
 
 {{%/sources%}}
+{{% modele %}}
+
+Traitement de tout l'entourage (foyer, collectivité) à 2 reprises:
+
+Flubendazole (Fluvermal®, à partir de 12 mois) 1 cp ou 1 cm, dose unique à renouveler à J15 (ou J21)
+
+Et aussi:
+
+- Lavage des mains régulier
+- Couper les ongles courts et les brosser
+- Changer et laver le linge de nuit à 60°C, les doudous
+
+{{% /modele %}}

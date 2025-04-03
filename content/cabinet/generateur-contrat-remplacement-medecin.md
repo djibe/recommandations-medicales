@@ -408,6 +408,7 @@ le <span class="contract-date-text">...</span>
 </div>
 
 ---
+{.mt-5}
 
 <small>6 Les parties peuvent renoncer à cette modalité de l'arbitrage et, dans ce cas, il suffit de supprimer la mention de l'amiable composition.</small>  
 <small>7 Les parties peuvent renoncer à cette modalité de l'arbitrage et, dans ce cas, il suffit de supprimer la mention de l'amiable composition.</small>

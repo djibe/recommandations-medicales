@@ -8,7 +8,7 @@ synonyms = ["Syndromes hyperéosinophiliques"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-24T15:15:00+02:00"
 publishdate = "2023-04-29"
-lastmod = "2023-04-29"
+lastmod = "2025-04-03"
 specialites = ["biologie", "hématologie"]
 annees = "2022"
 sources = ["PNDS", "CEMI"]
@@ -24,10 +24,10 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'éosinophilie est un compte de polynucléaires éosinophiles de 500 à 1500/mm³ (répéter la NFS), on parle d'hyperéosinophilie au-delà
+- L'éosinophilie est un compte de polynucléaires éosinophiles de 500 à 1500/mm³ (confirmer l'hémogramme); on parle d'hyperéosinophilie au-delà
 - Les causes principales d'éosinophilie sont atopiques et parasitaires (helminthes ++)
 - Examen clinique rigoureux pour l'orientation étiologique du tableau d'hyperéosinophilie. Urgence médicale en cas de défaillance viscérale
-- Bilan de l'hyperéosinophilie en l'absence d'orientation: NFS répétées, CRP, frottis sanguin, bilan hépatique et rénal, bilan parasitaire, sérologies (voir *Examens complémentaires*)
+- Bilan de l'hyperéosinophilie en l'absence d'orientation: NFS répétées, CRP, frottis sanguin, bilan hépatique et rénal, bilan parasitaire, sérologies (voir *[Examens complémentaires](#examens-complémentaires)*)
 - Orienter vers le spécialiste selon le bilan ou traitement antiparasitaire d'épreuve en l'absence d'orientation
 - Avis du Centre de Référence systématique en cas d'hyperéosinophilie persistante
 
@@ -174,21 +174,20 @@ Avis spécialisé (hématologue, interniste) en cas d'hyperéosinophilie persist
 ### Bilan d'une hyperéosinophilie et d'une éosinophilie
 
 - NFS répétées pour affirmer le caractère persistant
-- Frottis sanguin
 - CRP (*PNDS*)
+- Frottis sanguin
 - Ionogramme, créatininémie
 - ASAT, ALAT, GGT, PAL
 - TP, TCA
 - CPK
 - LDH (*PNDS*)
+- Sérologies VIH, toxocarose et distomatose
+- Examen parasitologique des selles 3 jours de suite
+- ± Scotch-test anal
 - Hyperéosinophilie (HE) persistante (*PNDS*)
   - Tryptase, vitamine B12
   - [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
-- Sérologie VIH
-- Sérologie toxocarose et distomatose
-- Examen parasitologique des selles 3 jours de suite
-- ± Scotch-test anal
-- Sérologies parasitaires orientées
+  - NT-proBNP, ECG, échodoppler cardiaque
 - Bilans selon certains profils:
   - Séjour en Afrique sub-saharienne: examen parasitologique des urines
   - Séjour tropical: IgE totales, sérologies filariose, bilharziose, strongyloïdose
@@ -196,7 +195,6 @@ Avis spécialisé (hématologue, interniste) en cas d'hyperéosinophilie persist
   - Tableau atopique ou HE: bilan allergologique
   - Selon le tableau: ANCA
   - Adénopathies ou HE persistante: scanner thoraco-abdomino-pelvien (*PNDS*)
-  - Éosinophilie persistante: NT-proBNP, ECG, échodoppler cardiaque
 
 > -- *CEMI 2021*
 
@@ -243,7 +241,7 @@ Traitements spécifiques des syndromes hyperéosinophiliques:
 graph TB
   éosinophilie["<b>Éosinophilie</b><br>—<br>= PNE 500-1500<br>Hyperéosinophilie si &gt; 1500"] --> clinique(Examen clinique) --> orientation(Orientation ?)
   style éosinophilie stroke:#4150f5, stroke-width:1px
-    orientation -- Non --> bilan("<b>Bilan</b><br>—<br>- NFS multiples<br>- Frottis, CRP<br>- Iono, créat<br>- BH, TP, TCA<br>- CPK, LDH<br>- Sérologie VIH, toxocarose,<br>distomatose<br>- Parasitaire des selles<br>- ± Bilan orientés<br>sérologies, allergo, ANCA")
+    orientation -- Non --> bilan("<b>Bilan</b><br>—<br>- NFS multiples<br>- Frottis, CRP<br>- Iono, créatinine<br>- BH, TP, TCA<br>- CPK, LDH<br>- Sérologies VIH, toxocarose,<br>distomatose<br>- Parasitaire des selles<br>- ± Bilan orientés<br>sérologies, allergo, ANCA")
       bilan -- Normal --> antiparasitaire("Antiparasitaire d'épreuve:<br>- Albendazole ou flubendazole<br>- Si anneaux: praziquantel<br>- Si HE: albendazole 10-15 mg/kg/j") -- "PNE &lt; 500" --> résolution(Guérison)
         antiparasitaire -- Persistance --> centre("Centre de Référence<br>CEREO")
       bilan -- Évocateur --> spécialiste
@@ -253,7 +251,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Centre de Référence des Syndromes Hyperéosinophiliques (CEREO), Filière de santé maladies Rares Immuno-hématologiques (MaRIH). Hyperéosinophilies et syndromes hyperéosinophiliques. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3346155/fr/hypereosinophilies-et-syndromes-hypereosinophiliques)
+- [Centre de Référence des Syndromes Hyperéosinophiliques (CEREO), Filière de santé maladies Rares Immuno-hématologiques (MaRIH). Hyperéosinophilies et syndromes hyperéosinophiliques. Protocole National de Diagnostic et de Soins. 2022.](https://www.has-sante.fr/jcms/p_3346155/fr/hypereosinophilies-et-syndromes-hypereosinophiliques)
 - [CMIT. Éosinophilie. Item 218. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-218-web.pdf)
 - Société française d'hématologie (sfh). Item 218 - Éosinophilie. Hématologie Réussir son DFASM. 2021.
 - Collège National des Enseignants de Médecine Interne (CEMI). Eosinophilie. Item 23. Référentiel Collège de Médecine interne R2C. 2021.

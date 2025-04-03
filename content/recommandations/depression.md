@@ -8,7 +8,7 @@ synonyms = ["Syndrome dépressif", "épisode dépressif caractérisé (EDC)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-14T20:15:23+02:00"
 publishdate = "2023-11-20"
-lastmod = "2024-03-17"
+lastmod = "2025-04-03"
 specialites = ["psychiatrie"]
 annees = "2023"
 sources = ["ACP", "VA", "HAS"]
@@ -256,7 +256,7 @@ En ville, le motif de consultation est **somatique** pour 45 à 95% des patients
 Les symptômes doivent être présents depuis au moins 15 jours avec changement par rapport à l'état antérieur:
 
 - Antécédents  
-  **Psychiatriques** (tentative de suicide, bipolarité, dépression, (hypo)-manie, anxiété), médicaux, hospitalisations, maltraitance, agressions (homophobes ...).
+  **Psychiatriques** (tentative de suicide, bipolarité, **dépression**, (hypo)-**manie**, anxiété), médicaux, hospitalisations, maltraitance, agressions (homophobes ...).
 - Antécédents familiaux (psychiatriques)
 - Traitements en cours, automédication  
   Médicaments à risque, toujours lire les RCP: antiépileptiques, neuroleptiques, myorelaxants, méthylphénidate, alcool (baclofène, acamprosate, naltrexone), IMAO-B, interféron, rétinoïdes, corticoïdes, montélukast, immunodépresseurs (aprémilast ...), antiviral (ribavirine, éfavirenz ...), pitolisant.
@@ -309,6 +309,9 @@ Particularités de la dépression de l'adolescent: irritabilité, agressivité, 
 Questionnaires d'aide au diagnostic de la dépression (voir la section dédiée): {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HADS{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, adolescent {{< modal-btn modal-adrs >}}ADRS{{< /modal-btn >}} (13-20 ans), sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} couplé au MoCa ou {{< scores/mmse >}}.
 
 > << Le diagnostic de l'épisode dépressif caractérisé est clinique. >> -- *HAS 2017*
+
+> [!INFO]
+> Signes en faveur de dépression bipolaire: début avant 25 ans, antécédent familial, déclenchement par antidépresseur, début et fin brutaux, hypersomnie, augmentation de l'appétit, inhibition psychomotrice marquée, tempérament hyperthymique ou cyclothymique (*HAS 2015*).
 
 {{% /collapse %}}
 {{%collapse "Évaluation du risque suicidaire" %}}
@@ -539,6 +542,7 @@ graph TB
 - [Royal College of Psychiatrists. Position statement on antidepressants and depression. 2019. (PDF)](https://www.bap.org.uk/pdfs/PS04-19-antidepressants-and-depression.pdf)
 - [HAS. Coordination entre le médecin généraliste et les différents acteurs de soins dans la prise en charge des patients adultes souffrant de troubles mentaux - états des lieux, repères et outils pour une amélioration. 2018.](https://www.has-sante.fr/jcms/c_2874187/fr/coordination-entre-le-medecin-generaliste-et-les-differents-acteurs-de-soins-dans-la-prise-en-charge-des-patients-adultes-souffrant-de-troubles-mentaux-etats-des-lieux-reperes-et-outils-pour-une-amelioration)
 - [HAS. Épisode dépressif caractérisé de l'adulte : prise en charge en soins de premier recours. 2017.](https://www.has-sante.fr/jcms/p_3261767/fr/depression)
+- [HAS. Patient avec un trouble bipolaire : repérage et prise en charge initiale en premier recours. 2015.](https://www.has-sante.fr/jcms/c_1747465/fr/patient-avec-un-trouble-bipolaire-reperage-et-prise-en-charge-initiale-en-premier-recours)
 - [Cleare A, et al. Evidence-based guidelines for treating depressive disorders with antidepressants: A revision of the 2008 British Association for Psychopharmacology guidelines. J Psychopharmacol. 2015. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Antidepressants.pdf)
 - [Davidson JR, et al; British Association for Psychopharmacology. A psychopharmacological treatment algorithm for generalised anxiety disorder (GAD). J Psychopharmacol. 2010.](https://pubmed.ncbi.nlm.nih.gov/18832431/)
 - [Dumesnil H, et al. La prise en charge de la dépression en médecine générale de ville. Drees. 2012.](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/la-prise-en-charge-de-la-depression-en-medecine-generale-de-0)
