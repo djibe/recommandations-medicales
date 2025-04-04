@@ -279,7 +279,7 @@ La prise en charge de la boulimie est pluridisciplinaire et chronique, ambulatoi
 - Diététicien  
   Veiller à l'absence de recours à des régimes ou coupes-faim.
 - Insertion sociale, aides voire MDPH
-- Association de patients: [Association Autrement](https://www.anorexie-et-boulimie.fr/)
+- Association de patients: [Association Autrement](https://www.anorexie-et-boulimie.fr)
 - Information du patient (voir chapitre suivant)
 
 Les soins sont poursuivis au moins 1 an après l'obtention d'une amélioration significative.
@@ -305,7 +305,7 @@ Informer et traiter les risques liés à chaque atteinte:
 {{% /collapse %}}
 {{%collapse "Information du patient et éducation thérapeutique" %}}
 
-Anorexie-Boulimie Info {{<phone>}}0 810 037 037{{</phone>}} et [Association Autrement](https://www.anorexie-et-boulimie.fr/).  
+Anorexie-Boulimie Info {{<phone>}}0 810 037 037{{</phone>}} et [Association Autrement](https://www.anorexie-et-boulimie.fr).  
 Autres ressources: Fédération FNA-TCA {{<phone>}}06 87 41 86 66{{</phone>}}, [guides FFAB](https://www.ffab.fr/trouver-de-l-aide/livres) et [annuaire des centres FFAB](https://www.ffab.fr/trouver-de-l-aide/annuaire-2021).
 
 > [!INFO]
