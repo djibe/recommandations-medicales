@@ -29,12 +29,16 @@ TODO: (at the end)
 {{%collapse "Définition" %}}
 
 Trouble bipolaire
-: Trouble de l'humeur chronique, avec alternance d'épisode(s) maniaque(s) ou hypomaniaque(s) et d'épisode(s) dépressif(s) avec des intervalles de rémission. Pathologie psychiatrique parmi les plus sévères, elle débute à l'adolescence ou chez l'adulte jeune, avec un handicap et une mortalité majeurs en l'absence de traitement.
-: Les complications sont celles des troubles de l'humeur, avec risque suicidaire très élevé (50% de tentatives) et de lourdes conséquences psychosociales.
+: Trouble de l'humeur chronique, avec alternance d'épisode(s) maniaque(s) ou hypomaniaque(s) et surtout des épisode(s) dépressif(s) avec des intervalles de rémission. Pathologie psychiatrique parmi les plus sévères atteignant 1 à 4% de la population, elle débute à l'adolescence ou chez l'adulte jeune, avec un handicap et une mortalité majeurs en l'absence de traitement.
+: Les complications sont celles des troubles de l'humeur, avec risque suicidaire très élevé (50% de tentatives, mortalité x 2,6) et de lourdes conséquences psychosociales. Comorbidités fréquentes troubles anxieux, addictions et cardiométaboliques (obésité, hyperlipidémie, coronaropathie, BPCO, dysthyroïdie).
 
-Le traitement est démarré en moyenne après 10 ans d'évolution.
+Épisode mixte
+: Épisode associant des symptômes dépressifs et maniaques. Il est une urgence psychiatrique car le risque suicidaire est majeur.
 
-2,5% (voire 5%); type I (1%)
+Le traitement est démarré en moyenne après 10 ans d'évolution. Les cohortes mesurent 0,44 épisode bipolaire par an.
+
+
+20-30 % sont difficiles à équilibrer.
 
 ### Abréviations
 
@@ -50,40 +54,46 @@ HAS
 
 > << Pour poser le diagnostic des troubles bipolaires, il est recommandé d'utiliser les classifications DSM-IV, DSM-V ou CIM-10. >> -- *HAS 2015*
 
-### Épisode maniaque (trouble bipolaire de type I) ou hypomaniaque (trouble bipolaire de type II)
+Des symptômes peuvent persister entre les épisodes, dont l'espacement est très variable. En l'absence de traitement, les épisodes dépressifs, communs aux 2 troubles bipolaires, deviennent plus fréquents et plus longs.
 
-Début souvent brutal, durant de 2 semaines à 5 mois, avec les symptômes suivants:
+### Épisode maniaque ou mixte (trouble bipolaire de type I)
 
-- Élévation de l'humeur, agitation psychomotrice
-- Idées de grandeur
-- Insomnie
+> Le sujet a souvent déjà eu au moins un épisode dépressif caractérisé (EDC).
+
+L'épisode maniaque a un début souvent brutal, durant de 2 semaines à 5 mois, avec les symptômes suivants:
+
 - Durée supérieure à 1 semaine
+- Élévation de l'humeur, agitation psychomotrice (90%)
+- Idées de grandeur (73%) voire délire (53%) et hallucinations (23%)
+- Fuite des idées (76%), tachyphémie
+- Insomnie (83%)
 - Retentissement fonctionnel majeur
 
-Particularités de l'épisode maniaque à l'adolescence: irritabilité, agressivité, violence. Humeur dysphorique plutôt qu'euphorique.
+Particularités de l'épisode maniaque à l'adolescence: **irritabilité**, agressivité, violence. Humeur dysphorique plutôt qu'euphorique.
 
 > << Un épisode maniaque inaugural permet de poser le diagnostic de troubles bipolaires. Il s'agit d'une urgence psychiatrique nécessitant une hospitalisation. >> -- *HAS 2015*. Le risque de récidive dépasse 90%.
 
+### Épisode hypomaniaque (trouble bipolaire de type II)
+
 Un **épisode dépressif caractérisé** (EDC) avec un **épisode hypomaniaque** permet de poser le diagnostic de trouble bipolaire (type II).
 
-L'épisode hypomaniaque passe facilement inaperçu: durée brève, symptômes modérés et retentissement moindre. La **rupture avec le fonctionnement antérieur** est important.
+L'épisode hypomaniaque passe facilement inaperçu: durée brève, symptômes modérés et retentissement moindre. La **rupture avec le fonctionnement antérieur** est important. Il existe une prédominance féminine.
 
-Rechercher l'épisode hypomaniaque avec le Mood Disorder Questionnaire.
-
-### Épisode mixte
-
-L'épisode mixte est l'association de symptômes dépressifs et maniques. Il s'agit d'une urgence psychiatrique car le risque suicidaire est majeur.
+Rechercher l'épisode hypomaniaque avec le Mood Disorder Questionnaire (MDQ) (Weber-Rouget et al. en
+2005 (28)).
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
+Autres pathologies à rechercher devant un trouble de l'humeur:
+
 - Somatiques
-  - Endocrinopathies: hypothyroïdie, hyperthyroïdie, hypoglycémie
+  - Endocrinopathies: [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}), maladie de Cushing, hypoglycémie
   - Infectieuse: méningoencéphalite
-  - Neurologique: épilepsie
+  - Neurologique: épilepsie, tumeur cérébrale, sclérose en plaques, AVC voire démence
   - Auto-immune: lupus
   - Démence
-- Iatrogène: corticoïdes, antidépresseurs, interféron alpha, certains antipaludéens, méthylphénidate
+- Iatrogénie: [corticoïdes]({{< relref "corticoides.md" >}}), [antidépresseurs]({{< relref "depression.md" >}}), interféron alpha, certains antipaludéens, méthylphénidate
 - Substances psychoactives: abus, dépendance, sevrage
 - Psychiatrique
   - Autres troubles de l'humeur (trouble unipolaire, trouble cyclothymique)
@@ -91,6 +101,26 @@ L'épisode mixte est l'association de symptômes dépressifs et maniques. Il s'a
   - Troubles schizophréniques
   - Trouble de déficit de l'attention avec ou sans hyperactivité (TDAH)  
     N'a pas: caractère épisodique, rupture avec le fonctionnement antérieur, présence nette d'épisodes d'humeur exaltée, idées de grandeur, âge de survenue.
+
+### Critères diagnostiques DSM-5 pour les épisodes hypomaniaques ou maniaques
+
+A. Une période nettement délimitée d'élévation anormale de l'humeur ou d'humeur expansive ou irritable ou d'une augmentation de l'activité ou de l'énergie orientée vers un but durant au moins une semaine, et présente tout le long de la journée presque tous les jours (ou moins, si une hospitalisation est nécessaire).
+
+B. Durant la période des troubles de l'humeur et de l'augmentation de l'énergie ou de l'activité, au moins 3 des symptômes suivants doivent être présents à un degré significatif et constituent un changement notable du comportement habituel (4 symptômes si l'humeur est seulement irritable):
+
+- augmentation de l'estime de soi ou idées de grandeur
+- réduction du besoin de sommeil (par exemple se sentir reposé après seulement 3 heures de sommeil)
+- plus grande communicabilité que l'habitude ou le désir de parler constamment
+- fuite des idées ou sensations subjectives que les pensées défilent
+- distractibilité (par exemple l'attention est trop facilement attirée par des stimuli extérieurs sans importance ou insignifiants telle qu'elle est rapportée ou observée)
+- augmentation de l'activité orientée vers un but (social, professionnel, scolaire ou sexuel) ou agitation psychomotrice (par exemple sans objet, activité non orientée vers un but)
+- engagement excessif dans des activités agréables mais à potentiel élevé de conséquences dommageables (par exemple la personne se lance sans retenue dans des achats inconsidérés, des conduites sexuelles inconséquentes ou des investissements commerciaux déraisonnables)
+
+C. La perturbation de l'humeur est suffisamment sévère pour entraîner une altération marquée du fonctionnement professionnel, des activités sociales ou des relations interpersonnelles, ou pour nécessiter l'hospitalisation afin de prévenir les conséquences dommageables pour le sujet ou pour autrui, ou bien, s'il existe des caractéristiques psychotiques
+
+D. Les symptômes ne sont pas dus aux effets physiologiques directs d'une substance (donnant lieu à un abus, médicament) ou à une affection médicale généralisée.
+
+E. Les symptômes ne correspondent pas aux critères de l'épisode mixte.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -101,7 +131,7 @@ L'épisode mixte est l'association de symptômes dépressifs et maniques. Il s'a
 Le trouble bipolaire **débute entre 15 et 25 ans** (très rare chez l'enfant). L'alliance thérapeutique avec les parents est primordiale.
 
 > [!WARNING]
-> Toujours rechercher un trouble bipolaire en cas de: trouble dépressif, tentative de suicide de l'adulte jeune, addiction (alcool, toxiques), délits.
+> Toujours rechercher un trouble bipolaire en cas de: trouble dépressif, tentative de suicide de l'adulte jeune, addiction (alcool, toxiques) et délits.
 
 ### Interrogatoire
 
@@ -112,24 +142,26 @@ L'interrogatoire de l'entourage est important, une fois l'accord du patient obte
   - Dépression: avant 25 ans, multiples, du post-partum, réponse atypique au traitement antidépresseur
   - Dépression atypique: hyperphagie ou hypersomnie, absence de facteur déclenchant, agitation, hyperréactivité émotionnelle, irritabilité, débuts et fins abrupts
   - Manie ou hypomanie (sous antidépresseur ou non), caractéristiques psychotiques congruentes avec l'humeur
-  - Revoir chaque épisode de trouble de l'humeur
+  - Rechercher des caractères hypomaniaques pour chaque épisode de trouble de l'humeur
   - Tentative de suicide ou intention exprimée
-  - Événements de vie et traumatisants (deuil, maltraitance)
+  - Événements de vie et traumatismes (deuil, maltraitance)
 - Antécédents familiaux: bipolarité, dépression  
   Surveillance accrue en cas d'antécédents familiaux.
 - Traitements en cours
 - **Alcool, toxiques, addictions** (dont écrans)
 - Conduites sexuelles à risque ou délits
 - Repli sur soi, décrochage scolaire
-- **Épisodes de rupture avec le fonctionnement psychique antérieur**
+- Liste des **épisodes de rupture avec le fonctionnement psychique antérieur**
   - Début souvent brutal, durée de 2 semaines à 4-5 mois
-  - Rechercher une hypomanie chez l'adulte: questionnaire *Trouble de l'humeur* (Mood Disorder Questionnaire TODO:)
+  - Rechercher une hypomanie chez l'adulte: questionnaire *Trouble de l'humeur* (Mood Disorder Questionnaire), questionnaire hypomania check list (HCL) TODO: Goes62
   - Rechercher des **symptômes psychotiques**  
     Ils sont congruents à l'humeur (ruine dans la dépression, mégalomanie dans l'épisode maniaque).
   - Sévérité des troubles du sommeil
   - Autres signes: confusion, catatonie (immobilité motrice)
 - Rechercher des comorbidités: **trouble anxieux**
 - Évaluer le **risque suicidaire**
+
+TODO: HASp31
 
 ### Sévérité des troubles
 
@@ -150,6 +182,8 @@ Aucun examen n'est nécessaire en l'absence de point d'appel clinique.
 
 ### Bilan au diagnostic
 
+Bilan pré-thérapeutique:
+
 - NFS
 - Ionogramme sanguin
 - Créatininémie, DFG, rapport albuminurie/créatininurie
@@ -164,9 +198,8 @@ Aucun examen n'est nécessaire en l'absence de point d'appel clinique.
 {{% /collapse %}}
 {{%collapse "Critères d'hospitalisation" %}}
 
-Privilégier l'hospitalisation libre en psychiatrie. Voire soins sous contrainte.
-
-Mineur: décision parentale (ou responsable légal), ordonnance de placement provisoire (procureur de la République ou juge des enfants).
+> [!INFO]
+> Privilégier une hospitalisation libre en psychiatrie. En cas de nécessité, demander des soins sous contrainte.
 
 Envisager une hospitalisation en cas de:
 
@@ -174,22 +207,49 @@ Envisager une hospitalisation en cas de:
 - Épisode maniaque ou mixte (co-existence de symptômes maniaques et dépressifs)
 - Agitation violente, troubles du comportement majeurs
 - Épisode sévère: mélancolie, symptômes psychotiques
+- Décompensation d'une comorbidité
 - Complications médico-légales
 - Isolement social et familial, épuisement des proches
 
+Chez le **mineur**, l'hospitalisation nécessite une décision parentale (ou du responsable légal) voire une ordonnance de placement provisoire (OPP par le procureur de la République ou le juge des enfants).
+
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du trouble bipolaire" %}}
 
-> << L'utilisation d'antidépresseurs chez les patients atteints de troubles bipolaires est controversée. >> -- Centre Belge d'Information Pharmacothérapeutique
+> << L'utilisation d'antidépresseurs chez les patients atteints de troubles bipolaires est controversée. >> -- Centre Belge d'Information Pharmacothérapeutique (CBIP)
 
-Psychiatre
+Crise: hospitalisation
 
-médicament thymorégulateur et/ou un antipsychotique atypique
+Suspicion: psychiatre
+
+Sauvegarde de justice
+
+Autres: psychothérapie, éducation thérapeutique
+
+Suivi: surveillance et prévention du suicide, traitement au long cours, repérer et traiter les comorbidités
+
+Mono ou polythérapie de l'épisode maniaque: médicament thymorégulateur (lithium ou antiépileptique divalproate de sodium ou carbamazépine) et/ou un antipsychotique de 2^e^ génération (olanzapine, rispéridone, aripiprazole, quétiapine; autres possibles chlorpromazine voire *halopéridol*).
+
+Traitement de la dépression du trouble bipolaire: thymorégulateur (lithium ou lamotrigine) et antipsychotique de 2^e^ génération (quétiapine; parfois olanzapine-fluoxétine). Pas d'effet de: paroxétine, bupropion, agomélatine.
+
+Ne pas utiliser les antidépresseurs, ou après traitements plus efficaces. Risque suicidaire très élevé en cas d'antidépresseur sans thymorégulateur. Possible chez BP 2 sans cycles rapides.
+
+Maintenance
+Lithium, fond 300 mg x 2/j, cible lithémie 0,6 - 0,8 mEq/L. (prise de poids, polyurie, tremblement, hypothyroïdie 20%, hyperparathyroïdie, MRC).
+
+Autres traitements de fond: quétiapine > aripiprazole (manie) ou lamotrigine (dépression), ziprasidone, arsénapine. TODO: Goes2022table1
+
+Dépression bipolaire: quétiapine, lurasidone, cariprazine. Symptômes modérés: lamotrigine ou lithium.
+
+Traitements de centres experts: stimulation transcrânienne, électroconvulsivothérapie.
 
 - ALD n°23
-- Psychologue
+- Psychothérapie  
+  psychoeducation, cognitive behavioral therapy, and interpersonal and social rhythm therapy
 - Association de patients: [ARGOS 2001](https://argos2001.net), [Bipolarité France](https://bipolaritefrance.com), [UNAFAM](https://www.unafam.org), [Bipolaire si tu savais](https://bipolairesitusavais.com), [Bicycle](https://www.bicycle-asso.org), [France dépression](https://francedepression.fr), [Le funambule](https://www.bipolarite.org)
 - MDPH
+
+20-30 % sont difficiles à équilibrer.
 
 Suivi au moins annuel: symptômes, observance, effets indésirables, dernière consultation du psychiatre, contraception
 
@@ -198,6 +258,7 @@ Suivi au moins annuel: symptômes, observance, effets indésirables, dernière c
 
 - [HAS. ALD 23 - Troubles bipolaires. Actes et prestations Affection de longue durée. 2025.](https://www.has-sante.fr/jcms/c_849818/fr/ald-n-23-troubles-bipolaires)
 - [CBIP. Troubles bipolaires : l'utilisation prolongée d'antidépresseurs est-elle justifiée ?. Folia. 2025.](https://www.cbip.be/fr/articles/4504?folia=4503)
+- [Goes F S. Diagnosis and management of bipolar disorders. BMJ. 2023.](https://www.bmj.com/content/381/bmj-2022-073591)
 - [Goodwin GM, et al. Evidence-based guidelines for treating bipolar disorder: Revised third edition recommendations from the British Association for Psychopharmacology. J Psychopharmacol. 2016.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4922419/)
 - [HAS. Patient avec un trouble bipolaire : repérage et prise en charge initiale en premier recours. 2015.](https://www.has-sante.fr/jcms/c_1747465/fr/patient-avec-un-trouble-bipolaire-reperage-et-prise-en-charge-initiale-en-premier-recours)
 
@@ -211,6 +272,7 @@ Suivi au moins annuel: symptômes, observance, effets indésirables, dernière c
 - Minerva
 - Cismef
 - [NICE. Bipolar disorder: assessment and management. 2023.](https://www.nice.org.uk/guidance/cg185/chapter/Recommendations)
+- International Society for Bipolar Disorders (ISBD)
 
 {{%/sources%}}
 {{% modal title="Degrés d'urgence de la crise suicidaire" id="modal-urgence-suicide"%}}

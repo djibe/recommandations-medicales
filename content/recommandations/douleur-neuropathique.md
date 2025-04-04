@@ -9,10 +9,10 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr X. MOISSET (SFEMC) et Dr D. BOUHASSIRA (SFETD)"
 date = "2021-09-09T13:10:04+02:00"
 publishdate = "2021-09-13"
-lastmod = "2025-03-20"
+lastmod = "2025-04-04"
 specialites = ["neurologie"]
 annees = "2024"
-sources = ["Bibliographie", "SFETD"]
+sources = ["Bibliographie", "AAN", "SFETD"]
 tags = ["cancer", "douleur", "neuropathie", "TSH", "zona"]
 english = ["Neuropathic pain (NeP)"]
 sctid = "247398009"
@@ -31,7 +31,7 @@ flowchart = true
   Emplâtre de lidocaïne ou TENS pour une atteinte superficielle localisée.
 - Efficacité du traitement: essai de chaque molécule au moins 6 semaines à dose maximale tolérée (sauf intolérance) et viser une réduction douleur d'au moins 30% et/ou une amélioration fonctionnelle d'au moins 30%
 - Avis neurologique en cas de difficultés (étiologique, thérapeutique ...)
-- [Annuaire des structures spécialisées douleur chronique (SDC)](https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
+- [Annuaire des structures spécialisées douleur chronique (SDC)](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -63,6 +63,9 @@ Paresthésie
 : Sensation anormale désagréable, spontanée ou provoquée, douloureuse ou non. Les *dysesthésies* font partie des paresthésies.
 
 ### Abréviations
+
+AAN
+: {{%lang%}}American Academy of Neurology{{%/lang%}}
 
 AE
 : antiépileptique  
@@ -119,17 +122,19 @@ Avis neurologique devant toute douleur neuropathique dont l'étiologie ou le tab
 ### Interrogatoire et examen
 
 - Antécédents  
-  Chirurgicaux, traumatiques, sciatique, [diabète]({{% relref "diabete-type-2.md" %}}) (ancienneté), [zona]({{% relref "zona.md" %}}), [SIDA]({{% relref "vih-sida.md" %}}), [piqûre de tique]({{% relref "maladie-lyme.md" %}}), maladie de système, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), SEP, séjours tropicaux prolongés, exposition aux métaux lourds ...
+  Chirurgicaux, traumatiques, sciatique, [diabète]({{% relref "diabete-type-2.md" %}}) (ancienneté), [zona]({{% relref "zona.md" %}}), [SIDA]({{% relref "vih-sida.md" %}}), [piqûre de tique]({{% relref "maladie-lyme.md" %}}), maladie de système, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), SEP, séjours tropicaux prolongés, exposition aux métaux lourds.
 - Antécédents familiaux de neuropathie
 - Traitements neurotoxiques  
   Radio-chimiothérapie, isoniazide, métronidazole, éthambutol, nitrofurantoïne, colistine, dapsone, traitement antipaludéen, antirétroviraux...
 - Alcool, tabac, toxiques
+- Traitements essayés  
+  Substances, posologie, durée, tolérance, efficacité.
 - Topographie nerveuse systématisée
-- Apparition et évolution des douleurs
+- Mode d'apparition et d'évolution des douleurs
 - **Caractères douloureux**
   - Circonstance de déclenchement
   - Fond continu
-  - Prédominance au repos et la nuit
+  - Prédominance au repos et la **nuit**
   - Paroxysmes: décharges électriques, coups de couteau
   - Brûlures, froid douloureux
   - Étau, compression, torsion
@@ -145,8 +150,7 @@ Avis neurologique devant toute douleur neuropathique dont l'étiologie ou le tab
 - Troubles neurovégétatifs locaux
   - Sudation
   - Troubles trophiques
-- Traitements essayés  
-  Substance, posologie, durée, tolérance, efficacité.
+- Comorbidités: troubles du sommeil et de l'humeur
 - Professionnels impliqués
 - Environnement pro-socio-économique
 - Qualité de vie
@@ -193,17 +197,17 @@ Uniquement sur avis du neurologue.
 {{% /collapse %}}
 {{%collapse "Classes thérapeutiques efficaces" %}}
 
-Traitements des douleurs neuropathiques ayant un niveau de preuve satisfaisant en 2020 chez l'adulte:
+Traitements des douleurs neuropathiques ayant un niveau de preuve satisfaisant chez l'adulte:
 
+- Thérapie cognitive et comportementale (TCC; *AAN 2022*)
 - Antidépresseurs
-  - IRSNA  
-  **Duloxétine** > venlafaxine.
+  - IRSNA: **duloxétine** > venlafaxine.
   - **Tricycliques**
 - Antiépileptiques
   - **Gabapentine**
   - Prégabaline (preuves faibles)
 - Opioïdes forts (morphine et oxycodone LP) et tramadol (recommandation faible)  
-{{%class%}}Tapentadol (faible) non disponible en France.{{%/class%}}
+  {{%class%}}Tapentadol (faible) non disponible en France.{{%/class%}}
 - Traitements topiques  
   Recommandation faible.
   - **Emplâtres de lidocaïne 5%**
@@ -235,35 +239,36 @@ Amitriptyline 10 mg/j et gabapentine 900 mg/j avec la même efficacité sans eff
 {{% /collapse %}}
 {{%collapse "Traitement des douleurs neuropathiques" %}}
 
-- [Liste des structures spécialisées douleur chronique (SDC)](https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
-- Informer sur les risques pour la conduite automobile
-- Manque d'efficacité de la prise en charge: réduction de la douleur < 30% et/ou amélioration fonctionnelle < 30% après ≥ 6 semaines à dose maximale tolérée
+Informer que l'objectif du traitement est de réduire les douleurs neuropathiques, et qu'une **réduction d'au moins 30%** (ou aune amélioration fonctionnelle d'autant) est la cible. Le traitement doit être essayé **au moins 6 semaine** à **dose maximale tolérée** (12 semaines pour le diabète selon l'*AAN*). Informer sur les risques pour la **conduite automobile**.
+{.alert .alert-info}
 
-Molécules de première ligne pour la prise en charge des douleurs neuropathiques selon la localisation et l'étendue des zones douloureuses.
+[Liste des structures spécialisées douleur chronique (SDC)](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc).
+
+Le choix du traitement de première ligne dépend de la **localisation** et de l'**étendue** des zones douloureuses.
 
 ### Douleur neuropathique périphérique focale
 
 - [Emplâtres de lidocaïne 700 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65538840&typedoc=R) (Versatis®) 1 à 3 selon la superficie de la zone, 12 h/j.  
   Effets indésirables: irritation cutanée, allergie.
 - TENS  
-  Prescription uniquement par un centre de la douleur chronique.
+  Prescription restreinte au centre de la douleur chronique.
 
 #### Douleur neuropathique périphérique focale en deuxième intention
 
 - [Capsaïcine en patchs de haute concentration à 8%](https://ec.europa.eu/health/documents/community-register/2021/20210709152316/anx_152316_fr.pdf) (Qutenza®). 1-4 patchs selon la superficie.  
   Appliquer 30 minutes sur les pieds et 60 minutes sur les autres zones du corps.  
-  Effets indésirables: HTA, sensation de brûlure initiale (appliquer du froid), rougeur, œdème.
+  Effets indésirables: hypertension artérielle, sensation de brûlure initiale (appliquer du froid), rougeur, œdème.
 - Toxine botulique type A  
-  Injections uniquement par un centre de la douleur chronique.
+  Injections restreinte au centre de la douleur chronique.
 
 ### Douleur neuropathique périphérique ou centrale, focale ou diffuse
 
 {{%info%}}
-Duloxétine 30 mg/j pendant 7-14 jours. Puis 60 mg/j. Max 60 mg x 2/j.
+Duloxétine 30 mg/j pendant 7 à 14 jours. Puis 60 mg/j (max 60 mg x 2/j).
 
 ---
 
-Gabapentine 100 mg x 3/j pendant 3 jours. Paliers de 100 - 300 mg tous les 7 jours. Max 3600 mg/j
+Gabapentine 100 mg x 3/j pendant 3 jours. Paliers de 100 à 300 mg tous les 7 jours (max 3600 mg/j).
 
 ---
 
@@ -272,7 +277,7 @@ Clomipramine 10 mg le soir. Paliers de 10 mg tous les 7 jours. Avis spécialisé
 > -- *[OMéDIT Centre 2020](https://www.omedit-centre.fr/medias/Traitement-douleurs-neuropathiques_Adulte.pdf)* et [appli Douleur Hôpital Saint Joseph](https://play.google.com/store/apps/details?id=hopitalsaintjoseph.douleur)
 {{%/info%}}
 
-Traitements de référence des douleurs neuropathiques:
+**Traitements de référence des douleurs neuropathiques:**
 
 - IRSNA
   - **[Duloxétine 60-120 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64381382&typedoc=R)** (Cymbalta®, gén) en 1-2 prise/j
@@ -304,22 +309,21 @@ Traitements de référence des douleurs neuropathiques:
 
 #### Traitements des douleurs neuropathiques de 3e intention
 
-Prise en charge, prescription et réalisation uniquement en centre de la douleur chronique.
+Prise en charge, prescription et réalisation uniquement en **centre de la douleur chronique**.
 
 - rTMS et stimulation médullaire
-- Morphine et oxycodone LP
-  - Les opioïdes forts ne doivent être proposés qu'en l'absence d'alternatives
-  - Max 150 mg éq. morphine/j
+- Morphine et oxycodone LP (max 150 mg/j éq. morphine
 - Combinaison opioïde + antidépresseur ou gabapentinoïde
 
 > "Effets indésirables": sous-entendu, effets indésirables principaux.
 
-Les opioïdes forts ne doivent être proposés par un spécialiste de la douleur qu'en l'absence d'alternatives
+> [!WARNING]
+> Les opioïdes forts ne doivent être proposés par un spécialiste de la douleur qu'en l'absence d'alternatives.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge des douleurs neuropathiques" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour la prise en charge des douleurs neuropathiques. Dr JB Fron d'après SFETD 2020" >}}
+{{< mermaid title="Conduite à tenir pour la prise en charge des douleurs neuropathiques. Dr JB Fron d'après SFETD 2020 et bibliographie" >}}
 graph TB
   DN["<b>Douleur neuropathique</b><br>—<br>- Caractères<br>- Questionnaire DN4<br>- Bilan étiologique"]
   style DN stroke:#4150f5, stroke-width:1px
@@ -338,6 +342,7 @@ Bilan étiologique par le neurologue en cause non évidente.
 {{%sources%}}
 
 - [Moisset X. Neuropathic pain: Evidence based recommendations. Presse Med. 2024.](https://www.sciencedirect.com/science/article/pii/S0755498224000101)
+- [Price R, et al. Oral and Topical Treatment of Painful Diabetic Polyneuropathy: Practice Guideline Update Summary: Report of the AAN Guideline Subcommittee. Neurology. 2022.](https://www.neurology.org/doi/10.1212/WNL.0000000000013038?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 - [Moisset X, et al. French guidelines for neuropathic pain: An update and commentary. Revue neurologique. 2021.](https://hal.archives-ouvertes.fr/hal-03401768)
 - [Moisset X, et al; SFETD. Traitements pharmacologiques et non pharmacologiques de la douleur neuropathique : une synthèse des recommandations françaises. Douleur Et Analgesie. 2020. (PDF)](https://www.sfetd-douleur.org/wp-content/uploads/2021/02/synth%C3%A8se-RECOS-DN-langue-fran%C3%A7aise1.pdf)
 - [Hartemann A, et al; SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)

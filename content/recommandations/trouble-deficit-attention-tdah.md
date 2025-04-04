@@ -310,7 +310,7 @@ D'autres traitements médicamenteux sont possibles: stimulants (amphétamine) ou
 ### Bibliographie en attente
 
 - [Société Française du TDAH](https://sftdah.fr)
-- [ADHD Federation. Guide pour le Trouble Déficit de l'Attention/Hyperactivité TDAH.]()
+- ADHD Federation. Guide pour le Trouble Déficit de l'Attention/Hyperactivité TDAH.
 - [Willig TN, et al; SFP. Trouble déficitaire d'attention. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pediatrie-generale/trouble-deficitaire-dattention)
 - [Kazda L, et al. Attention deficit/hyperactivity disorder (ADHD) in children: more focus on care and support, less on diagnosis. BMJ. 2024.](https://www.bmj.com/content/384/bmj-2022-073448)
 - [Collège National Universitaire de Psychiatrie (CNUP). Principaux troubles du neurodéveloppement Item 67. Référentiel de Psychiatrie et Addictologie. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_4ed.pdf)
