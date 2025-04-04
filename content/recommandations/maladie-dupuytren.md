@@ -101,17 +101,19 @@ Autres traitements non disponibles en France pour la maladie de Dupuytren: injec
 {{% /collapse %}}
 {{%sources%}}
 
+{{< card-link-external title="Comment prendre en charge une maladie de Dupuytren ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/164334609" >}}
+
 - Prescrire Redaction. Maladies de Dupuytren médicamenteuses. Rev Prescrire. 2024.
 - [Lambi A, et al. Pharmacotherapies in Dupuytren Disease: Current and Novel Strategies. The Journal of Hand Surgery. 2023.](https://www.sciencedirect.com/science/article/pii/S0363502323000709)
 - [Nanchahal J, Chan JK. Treatments for early-stage Dupuytren's disease: an evidence-based approach. J Hand Surg Eur Vol. 2023.](https://pmc.ncbi.nlm.nih.gov/articles/PMC9996772/)
 - [Rodrigues JN, et al. Surgery for Dupuytren's contracture of the fingers. Cochrane Database of Systematic Reviews. 2015.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010143.pub2/full)
 - [Rappoport G. Maladie de Dupuytren: les traitements médicaux. Rev Med Suisse. 2014.](https://www.revmed.ch/revue-medicale-suisse/2014/revue-medicale-suisse-415/maladie-de-dupuytren-les-traitements-medicaux)
 - Prescrire Redaction. La maladie de Dupuytren en bref. Rev Prescrire. 2011.
-- [Tubiana R, et al. Scheme for the Assessment of Deformities in Dupuytren's Disease. Surgical Clinics of North America. 1968. (payant)](https://www.sciencedirect.com/science/article/abs/pii/S0039610916386303)
+- [Tubiana R, et al. Scheme for the Assessment of Deformities in Dupuytren's Disease. Surgical Clinics of North America. 1968.](https://www.sciencedirect.com/science/article/abs/pii/S0039610916386303) (payant)
 
 ### Bibliographie en attente
 
-- [Kordahi A, et al. Dupuytren's Contracture: Approach to Treatment and Counseling Patients in 2024. Clinics in Plastic Surgery. 2024. (payant)](https://www.sciencedirect.com/science/article/abs/pii/S0094129824000452)
-- [Putnam J. Advanced Dupuytren Contracture: Approach to Management. Hand Clinics. 2023. (payant)](https://www.sciencedirect.com/science/article/abs/pii/S0749071223000288)
+- [Kordahi A, et al. Dupuytren's Contracture: Approach to Treatment and Counseling Patients in 2024. Clinics in Plastic Surgery. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S0094129824000452) (payant)
+- [Putnam J. Advanced Dupuytren Contracture: Approach to Management. Hand Clinics. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S0749071223000288) (payant)
 
 {{%/sources%}}

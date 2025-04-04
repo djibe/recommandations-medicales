@@ -258,7 +258,7 @@ Suivi au moins annuel: symptômes, observance, effets indésirables, dernière c
 
 - [HAS. ALD 23 - Troubles bipolaires. Actes et prestations Affection de longue durée. 2025.](https://www.has-sante.fr/jcms/c_849818/fr/ald-n-23-troubles-bipolaires)
 - [CBIP. Troubles bipolaires : l'utilisation prolongée d'antidépresseurs est-elle justifiée ?. Folia. 2025.](https://www.cbip.be/fr/articles/4504?folia=4503)
-- [Goes F S. Diagnosis and management of bipolar disorders. BMJ. 2023.](https://www.bmj.com/content/381/bmj-2022-073591)
+- [Goes F. Diagnosis and management of bipolar disorders. BMJ. 2023.](https://www.bmj.com/content/381/bmj-2022-073591)
 - [Goodwin GM, et al. Evidence-based guidelines for treating bipolar disorder: Revised third edition recommendations from the British Association for Psychopharmacology. J Psychopharmacol. 2016.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4922419/)
 - [HAS. Patient avec un trouble bipolaire : repérage et prise en charge initiale en premier recours. 2015.](https://www.has-sante.fr/jcms/c_1747465/fr/patient-avec-un-trouble-bipolaire-reperage-et-prise-en-charge-initiale-en-premier-recours)
 
@@ -275,10 +275,8 @@ Suivi au moins annuel: symptômes, observance, effets indésirables, dernière c
 - International Society for Bipolar Disorders (ISBD)
 
 {{%/sources%}}
-{{% modal title="Degrés d'urgence de la crise suicidaire" id="modal-urgence-suicide"%}}
+{{% modal title="Degrés d'urgence de la crise suicidaire" id="modal-urgence-suicide" %}}
 
 {{< clinique/suicide-urgence >}}
 
 {{% /modal %}}
-
-{{< clinique/suicide-urgence >}}

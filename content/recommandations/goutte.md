@@ -427,6 +427,10 @@ Intérêt de colchicine prophylactique.
 {{% /collapse %}}
 {{%sources%}}
 
+{{< card-link-external title="Pourquoi la goutte ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/193629750" >}}
+
+{{< card-link-external title="Le régime dans la goutte : pourquoi et comment ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/174175697" >}}
+
 - [Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024.](https://kdigo.org/guidelines/ckd-evaluation-and-management/)
 - [ANSM. Prise en charge par colchicine de la goutte : une nouvelle posologie plus faible et un message d'alerte sur les boites pour réduire le risque de surdosage. 10/10/2023.](https://ansm.sante.fr/informations-de-securite/prise-en-charge-par-colchicine-de-la-goutte-une-nouvelle-posologie-plus-faible-et-un-message-dalerte-sur-les-boites-pour-reduire-le-risque-de-surdosage)
 - {{< references/esh-2023 >}}

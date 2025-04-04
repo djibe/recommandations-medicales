@@ -81,6 +81,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< card-link-external title="Syndrome du deuxième rayon et névrome de Morton" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/episode/https%3A%2F%2Ftrack.podcastics.com%2F3584%2F248423.mp3&podcastId=3741301" >}}
+
 - [Matthews BG, et al. Treatments for Morton's neuroma. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014687.pub2/full/fr)
 - [Ray A. Métatarsalgies : diagnostic et prise en charge. Rev Med Suisse. 2013.](https://www.revmed.ch/RMS/2013/RMS-N-411/Metatarsalgies-diagnostic-et-prise-en-charge)
 - [Hartemann A, et al; SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)

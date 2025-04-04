@@ -240,6 +240,8 @@ Des **rechutes** tardives (10 ans) de la maladie de Horton sont possibles.
 {{% /collapse %}}
 {{%sources%}}
 
+{{< card-link-external title="Place de l'échographie des artères temporales dans l'ACG" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/184803929" >}}
+
 - [CRMR, SAMU, SFMU, ABM. Artérite à cellules géantes Maladie de Horton. Orphanet urgences. 2025. (PDF)](https://www.orpha.net/pdfs/data/patho/Emg/Int/fr/ArteriteCellulesGeantes_FR_fr_EMG_ORPHA397.pdf)
 - [de Boysson H, et al; Filière des maladies auto-immunes et auto-inflammatoires rares, Groupe d'Étude Français des Artérites des gros vaisseaux (GEFA). Artérite à Cellules Géantes (Horton). PNDS. 2024.](https://www.has-sante.fr/jcms/c_2789359/fr/arterite-a-cellules-geantes-horton)
 - Collège National des Enseignants de Médecine Interne (CEMI). Artérite à cellules géantes. Référentiel Collège de Médecine interne R2C. 2021.

@@ -610,7 +610,7 @@ Vidéos de formation sur l'ostéoporose.
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="Pourquoi la prescription médicamenteuse est-elle si faible dans l'ostéoporose ?" url="https://www.podcastics.com/podcast/episode/pourquoi-la-prescription-medicamenteuse-est-elle-si-faible-dans-losteoporose-289915/" subtitle="par La Minute Rhumato" >}}
+{{< card-link-external title="Pourquoi la prescription médicamenteuse est-elle si faible dans l'ostéoporose ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/174775590" >}}
 
 - [US Preventive Services Task Force. Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement. JAMA. 2025.](https://jamanetwork.com/journals/jama/fullarticle/2829238)
 - [Biver E, et al. Dietary recommendations in the prevention and treatment of osteoporosis. Joint Bone Spine. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X22001816)

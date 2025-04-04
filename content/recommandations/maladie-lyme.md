@@ -322,6 +322,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< card-link-external title="Vrai et faux Lyme en 2022, comment faire ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/episode/https%3A%2F%2Ftrack.podcastics.com%2F3584%2F138491.mp3&podcastId=3741301" >}}
+
 - [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques (MVT). 2025.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques-mvt)
 - [SPILF. Info-antibio N°103. Février 2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2025-02-lyme.pdf)
 - [Gillet Y, et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)

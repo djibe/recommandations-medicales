@@ -219,10 +219,12 @@ graph TB
 
 {{< youtube id="lqPQbjeOyog" title="Symptômes prolongés de la Covid-19 chez l'adulte - 15 avril 2021 (HAS)" >}}
 
+{{< card-link-external title="COVID long en rhumatologie" subtitle="La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/195140357" >}}
+
 ### Haut Conseil de la Santé Publique
 
 - [HCSP. Covid-19 : actualisation de la liste des facteurs de risque de forme grave. 14/11/2020.](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=942)
-- [HCSP. Avis complémentaire à l'avis du 9 septembre 2020 sur les stratégies de prévention de la diffusion du virus SARS-CoV-2 en Établissementd'Accueil du Jeune Enfant (EAJE) et en milieu scolaire](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=911)
+- [HCSP. Avis complémentaire à l'avis du 9 septembre 2020 sur les stratégies de prévention de la diffusion du virus SARS-CoV-2 en Établissement d'Accueil du Jeune Enfant (EAJE) et en milieu scolaire](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=911)
 - [HCSP. Rapport relatif à l'actualisation de la prise en charge des patients atteints de Covid-19. 20/08/2020](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=899)
 
 ### Autres
