@@ -29,15 +29,17 @@ Ameli Pro et tous les services en ligne proposant une connexion avec la carte CP
 - Installer **ATSAM** 4.65.00 ([Windows](https://e.pcloud.link/publink/show?code=XZSG9CZdtj4sK11baJLxtkdq0xEJfug4csy) ou [Mac](https://e.pcloud.link/publink/show?code=XZjG9CZYa8ykmijt78orzNt2lNVv76Tp4h7))
 - Pour lire la **carte vitale** depuis le navigateur internet, l'extension officielle "Lecture Carte Vitale" est nécessaire ([navigateur Chrome/Edge](https://chrome.google.com/webstore/detail/lecture-carte-vitale/kpjpglcbcgnblkigbedgaoegjbifejka?hl=fr) ou [Firefox](https://addons.mozilla.org/fr/firefox/addon/lecture-carte-vitale/))
 
+{{< table title="Logiciels nécessaires pour faire le fonctionnement de la carte CPS sur l'ordinateur du médecin." >}}
 | Logiciel                | Version | Téléchargement                                                                      |
 |-------------------------|--------:|-------------------------------------------------------------------------------------|
 | ATSAM (Windows)         | 4.65.00 | [Lien](https://e.pcloud.link/publink/show?code=XZSG9CZdtj4sK11baJLxtkdq0xEJfug4csy) |
 | ATSAM (MacOS)           | 4.65.00 | [Lien](https://e.pcloud.link/publink/show?code=XZjG9CZYa8ykmijt78orzNt2lNVv76Tp4h7) |
 | Cryptolib CPS (Windows) |   5.2.2 | [Lien](https://e.pcloud.link/publink/show?code=XZMRbxZvYgl3uQffJ89WXhW8VC1qyEnPqGk) |
+{{< /table >}}
 
 ### ATSAM
 
-<img src="/images/logos/atsam.webp" alt="Logo du logiciel ATSAM" loading="lazy" class="img-responsive" style="max-width: 100px">
+![Logo du logiciel ATSAM](/images/logos/atsam.webp "100px")
 
 Le paquet ATSAM de l'Assurance Maladie installe: Cryptolib CPS (mais pas la dernière version), certificats pour la carte à puce), SrvSVCNAM (connexion aux services Ameli Pro), AmeliPro Connect (voir plus bas) et DiagAM (diagnostic des erreurs de connexion aux services Ameli Pro).
 
@@ -54,7 +56,7 @@ Il est installé avec le paquet *ATSAM* (voir *Les logiciels et certificats à i
 
 En cas de problème de connexion, lancer le logiciel **DiagAM** de l'Assurance Maladie.
 
-<img src="/images/logos/diagam.webp" title="DiagAM" alt="Logo du logiciel DiagAM" loading="lazy" class="mw-248 img-responsive">
+![Logo du logiciel DiagAM](/images/logos/diagam.webp "248px")
 
 Une évaluation des modules et certificats vitaux permet normalement de relever une erreur et permettre de télécharger le composant corrompu pour le réparer.
 

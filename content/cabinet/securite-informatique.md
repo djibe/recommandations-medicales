@@ -24,7 +24,7 @@ Le téléchargement et l'installation de logiciels est l'une des sources d'intro
 
 Les logiciels présentés plus bas peuvent être installés avec **UnigetUI**.
 
-<img src="/images/icons/microsoft-defender.png" style="width:112px" alt="L'antivirus Microsoft Defender">
+![L'antivirus Microsoft Defender](/images/icons/microsoft-defender.png "112px")
 
 ## Les antivirus
 

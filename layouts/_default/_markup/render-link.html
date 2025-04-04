@@ -1,4 +1,19 @@
-<a href="{{ .Destination | safeURL }}"
+{{ $href := .Destination }}
+{{ $followDomains := slice
+  "https://www.has-sante.fr"
+  "https://www.santepubliquefrance.fr"
+  "https://www.inserm.fr"
+}}
+
+{{ $addRelFollow := false }}
+{{ range $followDomains }}
+  {{ if strings.HasPrefix $href . }}
+    {{ $addRelFollow = true }}
+  {{ end }}
+{{ end }}
+
+<a href="{{ $href | safeURL }}"
   {{- with .Title}} title="{{ . }}"{{ end -}}
-  {{- if strings.HasPrefix .Destination "http" }} target="_blank" rel="external nofollow noopener"{{ end -}}
+  {{ if $addRelFollow }} target="_blank" rel="external"
+  {{- else if strings.HasPrefix $href "http" }} target="_blank" rel="external nofollow noopener"{{ end -}}
   >{{ .Text | safeHTML }}</a>
