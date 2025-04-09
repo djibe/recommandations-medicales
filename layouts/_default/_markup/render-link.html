@@ -1,4 +1,44 @@
-<a href="{{ .Destination | safeURL }}"
-  {{- with .Title}} title="{{ . }}"{{ end -}}
-  {{- if strings.HasPrefix .Destination "http" }} target="_blank" rel="external nofollow noopener"{{ end -}}
-  >{{ .Text | safeHTML }}</a>
+{{- $u := urls.Parse .Destination -}}
+{{- $href := $u.String -}}
+{{ $followDomains := slice
+  "https://www.ahajournals.org"
+  "https://www.ameli.fr"
+  "https://www.bmj.com"
+  "https://www.cancer.fr"
+  "https://www.escardio.org"
+  "https://www.has-sante.fr"
+  "https://www.inserm.fr"
+  "https://www.legifrance.gouv.fr"
+  "https://www.santepubliquefrance.fr"
+  "https://www.sciencedirect.com"
+  "https://www.who.int"
+}}
+{{- $addRelFollow := false -}}
+{{- range $followDomains -}}
+  {{- if strings.HasPrefix $href . -}}
+    {{- $addRelFollow = true -}}
+  {{- end -}}
+{{- end -}}
+{{- if strings.HasPrefix $u.String "#" -}}
+  {{- $href = printf "%s#%s" .PageInner.RelPermalink $u.Fragment -}}
+{{- else if and $href (not $u.IsAbs) -}}
+  {{- $path := strings.TrimPrefix "./" $u.Path -}}
+  {{- with or
+    ($.PageInner.GetPage $path)
+    ($.PageInner.Resources.Get $path)
+    (resources.Get $path)
+  -}}
+    {{- $href = .RelPermalink -}}
+    {{- with $u.RawQuery -}}
+      {{- $href = printf "%s?%s" $href . -}}
+    {{- end -}}
+    {{- with $u.Fragment -}}
+      {{- $href = printf "%s#%s" $href . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<a href="{{ $href }}"
+  {{- with .Title }} title="{{ . }}" {{- end -}}
+  {{- if $addRelFollow }} target="_blank" rel="external" {{- else if strings.HasPrefix $href "http" }} target="_blank" rel="external nofollow noopener"{{ end -}}
+  >{{ .Text }}</a>
+{{- /**/ -}}
